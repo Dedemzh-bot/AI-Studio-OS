@@ -1,16 +1,80 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "FrostBombSkill",
   "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "skillId",
+    "baseDamage",
+    "freezeDuration",
+    "triggerSource"
+  ],
   "properties": {
-    "source_agent": { "type": "string" },
-    "task_id": { "type": "string" },
-    "payload": {
+    "skillId": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_]+$",
+      "description": "技能唯一标识符，仅允许字母、数字和下划线"
+    },
+    "baseDamage": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "基础伤害值，非负整数"
+    },
+    "freezeDuration": {
+      "type": "number",
+      "minimum": 0,
+      "description": "冰冻持续时间，单位为秒，非负浮点数"
+    },
+    "triggerSource": {
       "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sourceType",
+        "sourceId",
+        "position"
+      ],
       "properties": {
-        "hero_name": { "type": "string", "minLength": 1 },
-        "base_hp": { "type": "integer", "minimum": 1 }
+        "sourceType": {
+          "type": "string",
+          "enum": [
+            "player",
+            "enemy",
+            "environment",
+            "item"
+          ],
+          "description": "触发来源的类型，限制为四种枚举值"
+        },
+        "sourceId": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_]+$",
+          "description": "触发来源的唯一标识符，用于追踪具体实体"
+        },
+        "position": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "x",
+            "y",
+            "z"
+          ],
+          "properties": {
+            "x": {
+              "type": "number",
+              "description": "触发位置的世界坐标X"
+            },
+            "y": {
+              "type": "number",
+              "description": "触发位置的世界坐标Y"
+            },
+            "z": {
+              "type": "number",
+              "description": "触发位置的世界坐标Z"
+            }
+          },
+          "description": "触发时的三维坐标，用于检测地图边缘等边界条件"
+        }
       },
-      "required": ["hero_name", "base_hp"]
+      "description": "严格的触发来源追踪，防止地图边缘爆炸等漏洞导致无限刷怪"
     }
-  },
-  "required": ["source_agent", "task_id", "payload"]
+  }
 }

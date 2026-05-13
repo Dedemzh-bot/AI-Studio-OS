@@ -3,16 +3,28 @@ Main Router (核心中枢 / 24h 常驻守护进程)
 职责：基于状态机轮询 task_status.json 调度所有子 Agent 和 Guards。
 
 状态流转（环形，永不退出）：
-    idle --> pending_design --> pending_validation --> pending_execution --> completed
-      ^                                                                          |
-      +--------------------------------------------------------------------------+
-                              (自动归位 idle，等待下一张工单)
+    idle --> pending_design --> pending_validation --> completed --> idle
+      ^          |                                                    |
+      |          +-- pending_execution --> (combat_agent 写回) -------+
+      +--------------------------------------------------------------+
+                         (自动归位 idle，等待下一张工单)
 """
 
 import json
 import os
+import subprocess
 import sys
 import time
+
+# ---- Windows 控制台 UTF-8 适配 ----
+# 中文 Windows 默认使用 GBK 编码输出，会导致中文乱码或打印失败
+# 须在所有 print 之前执行，否则首个打印会按 GBK 输出变成乱码
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass  # 控制台不支持 UTF-8 时静默降级，优先保证脚本能启动
 
 # 确保项目根目录在 sys.path 中，方便引入 Guards 模块
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -88,22 +100,25 @@ def main():
             pass
 
         elif current_state == "pending_design":
-            """
-            设计阶段：唤醒主策划 Agent 制定 Schema 和 Blueprint。
-            当前为骨架 MVP，仅打印提示并直接跳入下一状态。
-            """
-            print("[Router] 正在唤醒主策划 Agent 制定 Schema...")
-            # TODO: 后续接入 lead_planner.py 的实际调用
-            time.sleep(1)  # 模拟 Agent 工作耗时
-            print("[Router] Schema 与 Blueprint 产出完毕。")
-            write_state("pending_validation")
+            print("[Router] 正在真实唤醒主策划 Agent...")
+            try:
+                subprocess.run(
+                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "lead_planner.py")],
+                    check=True,
+                    cwd=ROOT_DIR,
+                )
+                print("[Router] 主策划 Agent 执行完毕，推进至校验阶段。")
+                write_state("pending_validation")
+            except subprocess.CalledProcessError as e:
+                print(f"\033[91m[Router][错误] 主策划 Agent 执行失败（退出码 {e.returncode}）\033[0m")
+                print(f"\033[91m[Router][错误] stderr: {e.stderr}\033[0m")
+                print("[Router] 保持 pending_design 状态，等待下轮重试...")
+                continue
+            except FileNotFoundError:
+                print(f"\033[91m[Router][错误] 找不到 lead_planner.py，请确认文件路径\033[0m")
+                continue
 
         elif current_state == "pending_validation":
-            """
-            校验阶段：调用 schema_validator.py 对产出数据进行强校验。
-            校验通过 → pending_execution
-            校验失败 → 回退到 pending_design 触发重试
-            """
             print("[Router] 正在执行 JSON Schema 强校验...")
             try:
                 # 从黑板加载当前产出的数据和生效的 Schema（均使用绝对路径）
@@ -112,42 +127,49 @@ def main():
                 with open(SCHEMA_FILE, "r", encoding="utf-8") as f:
                     schema_data = json.load(f)
 
-                # 执行校验（抛出 ValueError 即表示不通过）
-                passed, errors = validator.validate(business_data, schema_data)
+                # 提取 payload 作为实际业务数据（current_result.json 含 source_agent/task_id 包装）
+                payload = business_data.get("payload", business_data)
+
+                # 执行校验
+                passed, errors = validator.validate(payload, schema_data)
 
                 if passed:
-                    print("[Router] [PASS] 校验通过，放行至执行阶段。")
-                    write_state("pending_execution")
+                    print("\033[92m[安检通过] 数据完美符合契约！\033[0m")
+                    write_state("completed")
                 else:
-                    print(f"[Router] [FAIL] 校验不通过: {errors}")
-                    print("[Router] 回退至设计阶段，等待主策划修正...")
-                    write_state("pending_design")
+                    print(f"\033[91m[安检拦截] 数据校验不通过，以下字段存在错漏:\033[0m")
+                    for err in errors:
+                        print(f"\033[91m  -> {err}\033[0m")
+                    print("\033[91m[安检拦截] 已打回至 idle，请检查数据后重新触发。\033[0m")
+                    write_state("idle")
 
             except FileNotFoundError as e:
-                print(f"[Router] [FAIL] 校验文件不存在: {e}")
-                print(f"[Router] 尝试读取 result 路径: {RESULT_FILE}")
-                print(f"[Router] 尝试读取 schema 路径: {SCHEMA_FILE}")
-                print("[Router] 数据文件尚未就绪，回退至设计阶段。")
-                write_state("pending_design")
+                print(f"\033[91m[安检拦截] 校验文件不存在: {e}\033[0m")
+                write_state("idle")
             except json.JSONDecodeError as e:
-                print(f"[Router] [FAIL] JSON 解析失败: {e}")
-                print("[Router] 回退至设计阶段，等待修正...")
-                write_state("pending_design")
+                print(f"\033[91m[安检拦截] JSON 解析失败: {e}\033[0m")
+                write_state("idle")
             except ValueError as e:
-                print(f"[Router] [FAIL] 校验异常: {e}")
-                print("[Router] 回退至设计阶段，等待修正...")
-                write_state("pending_design")
+                print(f"\033[91m[安检拦截] 校验异常: {e}\033[0m")
+                write_state("idle")
 
         elif current_state == "pending_execution":
-            """
-            执行阶段：将校验通过的设计数据分发给 CodeAgent 进行代码翻译。
-            骨架 MVP 中仅提示即标记完成。
-            """
-            print("[Router] 正在分发具体执行任务给 CodeAgent...")
-            # TODO: 后续接入 code_agent.py 的实际调用
-            time.sleep(1)  # 模拟代码生成耗时
-            print("[Router] 代码产出完毕。")
-            write_state("completed")
+            print("[Router] 正在唤醒战斗数值执行策划 Agent...")
+            try:
+                subprocess.run(
+                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "combat_agent.py")],
+                    check=True,
+                    cwd=ROOT_DIR,
+                )
+                print("[Router] 战斗数值 Agent 执行完毕，等待下次心跳校验。")
+                # combat_agent 内部已将状态写为 pending_validation，无需 Router 再次写入
+            except subprocess.CalledProcessError as e:
+                print(f"\033[91m[Router][错误] CombatAgent 执行失败（退出码 {e.returncode}）\033[0m")
+                print("[Router] 保持 pending_execution 状态，等待下轮重试...")
+                continue
+            except FileNotFoundError:
+                print(f"\033[91m[Router][错误] 找不到 combat_agent.py，请确认文件路径\033[0m")
+                continue
 
         elif current_state == "completed":
             """
