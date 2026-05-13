@@ -1,0 +1,105 @@
+# AI Studio OS — 铁律宪法
+
+> 本文件由 OpenCode 在每次对话启动时加载。所有子 Agent 无条件执行以下条款。
+> 违法者产出直接标记为 REJECT，不得进入下游环节。
+
+---
+
+## 一、Schema 铁律（最高优先级）
+
+1. **任何子 Agent 在开始工作前，必须先用 Read 工具读取 `.agent_workspace/active_schema.json`。**
+   - 不知道当前契约是什么，就没有资格产出任何数据。
+   - 严禁凭记忆、凭想象构造 JSON 字段名或数据结构。
+   
+2. **所有产出数据必须符合 `active_schema.json` 的结构、类型、必填字段约束。**
+   - 多一个字段也不行，少一个字段也不行。
+   - 类型不匹配直接打回，没有任何商量余地。
+
+3. **Schema 由 `lead_planner` 独家生成和维护。**
+   - 其他 Agent 无权修改 `active_schema.json`。
+   - 如果你觉得 Schema 不合理，通过 `current_result.json` 提 issue，由 lead_planner 裁决。
+
+---
+
+## 二、黑板铁律（唯一通信通道）
+
+4. **子 Agent 之间禁止直接对话或传递数据。**
+   - 所有数据写入 `.agent_workspace/current_result.json`。
+   - 所有状态查看 `.agent_workspace/task_status.json`。
+   - 所有蓝图信息看 `.agent_workspace/blueprint.json`。
+   - `.agent_workspace/` 是这个系统唯一的合法数据交换区，agent 不允许通过任何其他方式通信。
+
+5. **每次写入 `current_result.json` 必须包含三个字段：**
+   - `source_agent`：谁写的（如 `numerical_agent`）
+   - `task_id`：对应 blueprint 中哪个子任务
+   - `payload`：实际产出数据
+   - 缺少任何一个字段，视为无效写入。
+
+---
+
+## 三、防线铁律（无情拦截）
+
+6. **`schema_validator.py`（防线一）是纯代码脚本，不通过 LLM 执行。**
+   - 数据必须经过 JSON Schema 强校验，不通过则无法进入下一环节。
+   - 校验失败 = 任务状态标记为 Failed，触发重试机制。
+
+7. **`qa_auditor.py`（防线二）拥有一票否决权（Double-Veto）。**
+   - 即使 Schema 校验通过，QA Auditor 仍可基于逻辑审查拦截数据。
+   - 拦截条件包括但不限于：
+     - 数值溢出（如伤害值为负数或超出合理范围）
+     - 死循环条件（如技能冷却 < 技能持续时间）
+     - 矛盾规则（如同时要求"必中"和"可闪避"）
+     - 缺失模拟曲线（数值方案没有附带 py_simulator 验证结果）
+   - 被否决的数据绝不允许"绕过防线直接流转"。
+
+---
+
+## 四、角色边界铁律（越权即废案）
+
+8. **策划 Agent（lead_planner / numerical_agent / combat_agent）只能产出设计文档/JSON。**
+   - 严禁写任何 Godot 引擎代码（GDScript、场景文件、shader 等）。
+   - 策划可以写"技能效果：造成 200% 攻击力伤害"，但不能写 `func _on_hit(): damage = attacker.atk * 2.0`。
+
+9. **程序 Agent（code_agent）只能做机械翻译。**
+   - 输入是已通过两道防线的 JSON，输出是 GDScript 代码。
+   - 不得擅自修改数值、改变技能逻辑、添加未在设计文档中出现的行为。
+   - 如果发现设计问题，不得自行修改，必须反馈到 current_result.json 挂起等待裁决。
+
+10. **数值 Agent（numerical_agent）产出必须附带模拟证据。**
+    - 任何数值方案必须调用 py_simulator，并将模拟结果附带在 payload 中。
+    - 无模拟曲线的数值方案 = 废案。
+
+---
+
+## 五、重试铁律
+
+11. **被防线拦截的任务，必须回到 DISTPATCH 状态重新分派。**
+    - 重试时 Agent 必须阅读上一次失败原因（task_status.json 中的 error 字段）。
+    - 不允许原样重试，必须根据失败原因调整产出。
+
+12. **单任务最多重试 3 次。**
+    - 3 次全部拦截后，任务标记为 Blocked，由 main_router 触发人工介入信号。
+
+---
+
+## 六、测试铁律
+
+13. **代码产出后必须经过 Godot 静默测试。**
+    - 由 `godot_tester.py` 驱动 Godot CLI 对产出代码执行自动化测试。
+    - 测试不通过的任务不得标记为 Passed。
+
+14. **遥测分析覆盖隐性漏洞。**
+    - `telemetry_analyzer.py` 负责检测界外卡怪、穿模、异常坐标等玩家可能触发但设计未考虑的边界情况。
+    - 遥测异常 = 任务标记为 Passed + Warning，写入 review_board.md。
+
+---
+
+## 七、系统启动铁律
+
+15. **系统启动时，main_router 必须先检查 `.agent_workspace/` 下所有核心文件是否存在。**
+    - 缺失任何文件（blueprint.json / active_schema.json / task_status.json / current_result.json / review_board.md），拒绝启动。
+    - 确保黑板就绪后再进入 IDLE 状态等待用户指令。
+
+16. **OpenCode 在加载本项目后，必须将本宪法内容视为 Agent 行为的第一优先级约束。**
+    - 宪法条款与其他 prompt 冲突时，以宪法为准。
+    - 所有 Agent 的人设 prompt 中必须包含"请先阅读 .opencode_rules"。

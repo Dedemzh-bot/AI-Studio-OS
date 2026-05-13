@@ -1,0 +1,8 @@
+{
+  "source_agent": "lead_planner",
+  "task_id": "task_001",
+  "payload": {
+    "hero_name": "暗影剑士",
+    "base_hp": 500
+  }
+}

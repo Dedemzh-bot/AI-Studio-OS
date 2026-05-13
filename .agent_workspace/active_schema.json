@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "source_agent": { "type": "string" },
+    "task_id": { "type": "string" },
+    "payload": {
+      "type": "object",
+      "properties": {
+        "hero_name": { "type": "string", "minLength": 1 },
+        "base_hp": { "type": "integer", "minimum": 1 }
+      },
+      "required": ["hero_name", "base_hp"]
+    }
+  },
+  "required": ["source_agent", "task_id", "payload"]
+}
