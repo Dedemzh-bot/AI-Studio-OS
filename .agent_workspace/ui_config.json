@@ -1,0 +1,25 @@
+{
+  "ux_layout": {
+    "component_type": "skill_card",
+    "hierarchy": [
+      "icon",
+      "title",
+      "tags",
+      "description"
+    ]
+  },
+  "ui_tokens": {
+    "theme_color": "#4488FF",
+    "bg_material": "glassmorphism",
+    "typography_style": "bold_title_large, body_regular, number_monospace"
+  },
+  "assets_and_content": {
+    "icon_prompt": "game icon, skill, electromagnetic pulse blast, blue electric arcs, mechanical target, sci-fi, flat design, minimal",
+    "rich_text_desc": "释放一道电磁脉冲波，对范围内机械单位造成 <color=#4488FF>70</color> 点伤害并短暂瘫痪 <color=#4488FF>2.0</color> 秒，影响半径 <color=#4488FF>80</color>"
+  },
+  "screen_position": {
+    "anchor": "center",
+    "offset_x": 0,
+    "offset_y": 0
+  }
+}

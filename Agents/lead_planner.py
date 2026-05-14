@@ -7,6 +7,7 @@ import os
 import json
 import re
 import sys
+import glob
 
 # 将项目根目录加入 sys.path，确保能导入 Skills 模块
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -20,6 +21,7 @@ CONCEPT_FILE = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 SCHEMA_FILE = os.path.join(WORKSPACE_DIR, "active_schema.json")
 REVIEW_FILE = os.path.join(WORKSPACE_DIR, "review_board.md")
 STATUS_FILE = os.path.join(WORKSPACE_DIR, "task_status.json")
+KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
 
 
 def print_error(msg: str):
@@ -41,6 +43,24 @@ def main():
         sys.exit(1)
 
     print(f"[LeadPlanner] 已读取概念简案 ({len(concept_text)} 字符)")
+
+    # ========== 1.5. 加载知识库（RAG 上下文注入） ==========
+    knowledge_context = ""
+    os.makedirs(KNOWLEDGE_DIR, exist_ok=True)  # 目录不存在则自动创建
+    md_files = glob.glob(os.path.join(KNOWLEDGE_DIR, "*.md"))
+    if md_files:
+        print(f"[LeadPlanner] 发现 {len(md_files)} 个知识库文件，正在加载...")
+        for md_file in sorted(md_files):
+            try:
+                with open(md_file, "r", encoding="utf-8") as f:
+                    content = f.read().strip()
+                if content:
+                    knowledge_context += f"\n--- 知识库条目: {os.path.basename(md_file)} ---\n{content}\n"
+                print(f"[LeadPlanner]   [OK] {os.path.basename(md_file)} ({len(content)} 字符)")
+            except Exception as e:
+                print_error(f"读取知识库文件失败: {md_file} - {e}")
+    else:
+        print("[LeadPlanner] 知识库目录为空，跳过上下文注入")
 
     # ========== 2. 构建 System Prompt ==========
     system_prompt = """你是一个顶级的游戏主策划兼系统架构师。你需要把人类的概念简案转化为严谨的数据结构。
@@ -64,6 +84,17 @@ def main():
 ---MARKDOWN_END---
 
 注意：JSON 部分必须是合法的 JSON，不要包含注释，不要有多余的文字。"""
+
+    # ---- RAG 注入：全局知识库 ----
+    if knowledge_context:
+        knowledge_clause = (
+            "\n\n"
+            "【全局知识库限制】：在生成 Schema 和理解需求时，"
+            "你必须绝对遵循以下公司级设计规范：\n"
+            f"{knowledge_context}"
+        )
+        system_prompt += knowledge_clause
+        print("[LeadPlanner] 已注入知识库上下文到 System Prompt")
 
     # ========== 3. 调用大模型 ==========
     print("[LeadPlanner] 正在调用大模型生成 Schema 与验收表...")
@@ -129,7 +160,7 @@ def main():
         f.write(md_content)
     print(f"[LeadPlanner] 验收表已保存至: {REVIEW_FILE}")
 
-    # ========== 8. 推动流水线：状态 pending_design -> pending_validation ==========
+    # ========== 8. 推动流水线：状态 pending_design -> pending_execution ==========
     if not os.path.exists(STATUS_FILE):
         print_error(f"任务状态文件不存在: {STATUS_FILE}")
         sys.exit(1)
@@ -141,14 +172,14 @@ def main():
     if current_state != "pending_design":
         print(
             f"[LeadPlanner][警告] 当前状态为 '{current_state}'，"
-            f"非预期的 'pending_design'，仍将推进至 pending_validation"
+            f"非预期的 'pending_design'，仍将推进至 pending_execution"
         )
 
-    status_data["current_state"] = "pending_validation"
+    status_data["current_state"] = "pending_execution"
     with open(STATUS_FILE, "w", encoding="utf-8") as f:
         json.dump(status_data, f, ensure_ascii=False, indent=2)
-    print(f"[LeadPlanner] 任务状态已更新: {current_state} -> pending_validation")
-    print("[LeadPlanner] 主策划工作完成，流水线已推进至校验阶段。")
+    print(f"[LeadPlanner] 任务状态已更新: {current_state} -> pending_execution")
+    print("[LeadPlanner] 主策划工作完成，流水线已推进至 Combat Agent。")
 
 
 if __name__ == "__main__":

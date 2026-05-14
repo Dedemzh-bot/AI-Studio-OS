@@ -1,53 +1,66 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "FrostBombSkill",
+  "title": "FrostNovaSkill",
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "skillId",
-    "baseDamage",
-    "freezeDuration",
-    "triggerSource"
+    "skill_id",
+    "skill_name",
+    "description",
+    "base_damage",
+    "freeze_duration",
+    "radius",
+    "trigger_source"
   ],
   "properties": {
-    "skillId": {
+    "skill_id": {
       "type": "string",
-      "pattern": "^[A-Za-z0-9_]+$",
-      "description": "技能唯一标识符，仅允许字母、数字和下划线"
+      "pattern": "^sk_[a-z]+_[a-z_]+$",
+      "description": "技能唯一标识，必须符合 sk_属性_名称 格式，例如 sk_ice_frost_nova"
     },
-    "baseDamage": {
+    "skill_name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 64,
+      "description": "技能显示名称，例如 冰霜新星"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 256,
+      "description": "技能描述文本，例如 以自身为中心释放冰霜冲击波，冻结周围敌人"
+    },
+    "base_damage": {
       "type": "integer",
       "minimum": 0,
-      "description": "基础伤害值，非负整数"
+      "maximum": 100,
+      "description": "初始基础伤害值，范围 0-100，防止破坏前期体验"
     },
-    "freezeDuration": {
+    "freeze_duration": {
       "type": "number",
       "minimum": 0,
-      "description": "冰冻持续时间，单位为秒，非负浮点数"
+      "maximum": 10,
+      "description": "冻结持续时间，单位为秒，范围 0-10"
     },
-    "triggerSource": {
+    "radius": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 500,
+      "description": "技能影响范围半径，单位为游戏单位，范围 0-500"
+    },
+    "trigger_source": {
       "type": "object",
       "additionalProperties": false,
       "required": [
-        "sourceType",
-        "sourceId",
-        "position"
+        "entity_id",
+        "position",
+        "timestamp"
       ],
       "properties": {
-        "sourceType": {
+        "entity_id": {
           "type": "string",
-          "enum": [
-            "player",
-            "enemy",
-            "environment",
-            "item"
-          ],
-          "description": "触发来源的类型，限制为四种枚举值"
-        },
-        "sourceId": {
-          "type": "string",
-          "pattern": "^[A-Za-z0-9_]+$",
-          "description": "触发来源的唯一标识符，用于追踪具体实体"
+          "minLength": 1,
+          "description": "触发技能的实体唯一标识，例如 Mage_012"
         },
         "position": {
           "type": "object",
@@ -60,21 +73,26 @@
           "properties": {
             "x": {
               "type": "number",
-              "description": "触发位置的世界坐标X"
+              "description": "触发位置 X 坐标"
             },
             "y": {
               "type": "number",
-              "description": "触发位置的世界坐标Y"
+              "description": "触发位置 Y 坐标"
             },
             "z": {
               "type": "number",
-              "description": "触发位置的世界坐标Z"
+              "description": "触发位置 Z 坐标"
             }
           },
-          "description": "触发时的三维坐标，用于检测地图边缘等边界条件"
+          "description": "技能释放时的三维坐标"
+        },
+        "timestamp": {
+          "type": "number",
+          "minimum": 0,
+          "description": "技能触发时的 Unix 时间戳（秒）"
         }
       },
-      "description": "严格的触发来源追踪，防止地图边缘爆炸等漏洞导致无限刷怪"
+      "description": "技能触发来源追踪，用于因果追踪与防漏洞（如地图边缘爆炸导致无限刷怪）"
     }
   }
 }
