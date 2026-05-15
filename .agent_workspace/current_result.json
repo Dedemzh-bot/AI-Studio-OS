@@ -2,32 +2,14 @@
   "source_agent": "combat_agent",
   "task_id": "task_001",
   "payload": {
-    "skill_id": "sk_ice_frost_nova",
-    "skill_name": "冰霜新星",
-    "description": "以自身为中心释放冰霜冲击波，冻结周围敌人",
-    "base_damage": 45,
-    "freeze_duration": 2.5,
-    "radius": 200,
-    "trigger_source": {
-      "source_type": "character",
-      "source_id": "Mage_012"
-    },
-    "causality_trace": [
-      {
-        "event": "skill_activated",
-        "timestamp": 0,
-        "source": "Mage_012"
-      },
-      {
-        "event": "damage_dealt",
-        "timestamp": 100,
-        "source": "Mage_012"
-      },
-      {
-        "event": "freeze_applied",
-        "timestamp": 100,
-        "source": "Mage_012"
-      }
-    ]
+    "skill_id": "sk_shadow_step",
+    "skill_name": "暗影步",
+    "skill_description": "瞬间位移至目标身后，造成基础伤害并附加短暂减速效果。",
+    "base_damage": 35,
+    "displacement_distance": 8.0,
+    "trigger_source_id": "player_001",
+    "causal_chain_tag": "combat_evt_20250321_001",
+    "is_passive": false,
+    "cooldown_time": 12.0
   }
 }

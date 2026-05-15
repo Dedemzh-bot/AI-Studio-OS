@@ -1,108 +1,65 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "FrostNovaSkill",
+  "title": "ShadowStepSkillConfig",
+  "description": "暗影步技能配置数据结构",
   "type": "object",
   "additionalProperties": false,
   "required": [
     "skill_id",
     "skill_name",
-    "description",
     "base_damage",
-    "freeze_duration",
-    "radius",
-    "trigger_source"
+    "displacement_distance",
+    "trigger_source_id",
+    "causal_chain_tag"
   ],
   "properties": {
     "skill_id": {
       "type": "string",
-      "pattern": "^sk_ice_frost_nova$",
-      "description": "技能唯一标识，遵循全局命名规范 sk_属性_名称"
+      "pattern": "^sk_[a-z]+_[a-z_]+$",
+      "description": "技能唯一标识符，必须符合全局命名规范 sk_属性_名称 的格式。"
     },
     "skill_name": {
       "type": "string",
-      "enum": [
-        "冰霜新星",
-        "FrostNova"
-      ],
-      "description": "技能显示名称，支持中英文"
+      "minLength": 1,
+      "maxLength": 64,
+      "description": "技能的中文或英文显示名称。"
     },
-    "description": {
+    "skill_description": {
       "type": "string",
-      "maxLength": 200,
-      "description": "技能描述文本"
+      "maxLength": 256,
+      "description": "技能的详细描述文本。"
     },
     "base_damage": {
       "type": "integer",
-      "minimum": 0,
+      "minimum": 1,
       "maximum": 100,
-      "description": "初始基础伤害值，受全局数值平衡规范限制，不得超过100"
+      "description": "技能的基础伤害值，根据数值平衡规范，不得超过100。"
     },
-    "freeze_duration": {
+    "displacement_distance": {
       "type": "number",
       "minimum": 0,
-      "maximum": 10,
-      "description": "冻结持续时间，单位为秒"
+      "description": "技能位移的距离，以游戏单位计。"
     },
-    "radius": {
+    "trigger_source_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_]+$",
+      "description": "触发此技能的唯一实体ID（如角色ID、物品ID、陷阱ID）。用于追踪技能效果的来源，防止无来源触发。"
+    },
+    "causal_chain_tag": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_]+$",
+      "description": "因果链标签，用于标识此技能效果属于哪一次因果事件链。例如，由一次攻击触发的所有效果应共享同一个标签，用于防止无限循环（如地图边缘爆炸导致无限刷怪）。"
+    },
+    "is_passive": {
+      "type": "boolean",
+      "default": false,
+      "description": "标记是否为被动技能。"
+    },
+    "cooldown_time": {
       "type": "number",
       "minimum": 0,
-      "maximum": 500,
-      "description": "技能影响范围半径，单位为游戏单位"
-    },
-    "trigger_source": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": [
-        "source_type",
-        "source_id"
-      ],
-      "properties": {
-        "source_type": {
-          "type": "string",
-          "enum": [
-            "character",
-            "item",
-            "environment",
-            "system"
-          ],
-          "description": "触发来源类型，用于因果追踪与漏洞防范"
-        },
-        "source_id": {
-          "type": "string",
-          "pattern": "^[A-Za-z0-9_]+$",
-          "description": "触发来源的唯一标识，例如角色ID 'Mage_012'"
-        }
-      },
-      "description": "技能触发来源追踪，防止地图边缘爆炸等异常触发导致无限刷怪"
-    },
-    "causality_trace": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": [
-          "event",
-          "timestamp",
-          "source"
-        ],
-        "properties": {
-          "event": {
-            "type": "string",
-            "description": "事件描述，如 'skill_activated', 'damage_dealt', 'freeze_applied'"
-          },
-          "timestamp": {
-            "type": "integer",
-            "minimum": 0,
-            "description": "事件发生的游戏时间戳（毫秒）"
-          },
-          "source": {
-            "type": "string",
-            "description": "事件来源引用，关联 trigger_source"
-          }
-        }
-      },
-      "description": "因果追踪日志，记录技能触发到效果执行的完整链条，用于漏洞审计"
+      "default": 0,
+      "description": "技能冷却时间，单位为秒。"
     }
-  },
-  "description": "冰霜新星技能数据结构，包含基础属性、触发源追踪与因果日志"
+  }
 }

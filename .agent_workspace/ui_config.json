@@ -9,17 +9,17 @@
     ]
   },
   "ui_tokens": {
-    "theme_color": "#4488FF",
-    "bg_material": "glassmorphism",
+    "theme_color": "#2A2A4A",
+    "bg_material": "dark_metallic",
     "typography_style": "bold_title_large, body_regular, number_monospace"
   },
   "assets_and_content": {
-    "icon_prompt": "game icon, skill, frost nova, ice shards, blue crystal explosion, circular shockwave, frozen ground, stylized 2D flat design",
-    "rich_text_desc": "以自身为中心释放冰霜冲击波，冻结周围敌人。基础伤害：<color=#4488FF>45</color>，冻结时长：<color=#4488FF>2.5</color>秒，作用半径：<color=#4488FF>200</color>"
+    "icon_prompt": "game icon, skill, shadow step, dark silhouette of a rogue vanishing into black mist, sharp dagger silhouette, purple-black aura, minimal flat design, no motion",
+    "rich_text_desc": "瞬间位移至目标身后，造成 <color=#2A2A4A>35</color> 点基础伤害并附加 <color=#2A2A4A>8.0</color> 米位移距离的短暂减速效果。冷却时间 <color=#2A2A4A>12.0</color> 秒。"
   },
   "screen_position": {
     "anchor": "bottom_center",
     "offset_x": 0,
-    "offset_y": -60
+    "offset_y": -20
   }
 }

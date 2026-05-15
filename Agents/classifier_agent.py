@@ -53,16 +53,16 @@ def main():
         loud_fail(f"读取概念简案失败: {CONCEPT_FILE}")
 
     # ========== 2. 构建项目经理人设提示词 ==========
-    system_prompt = """你是一位游戏开发项目经理。请分析老板传入的设计需求，判断它属于哪种开发类别。
+    system_prompt = """你是一位资深游戏开发项目经理。请分析老板传入的需求。
 
 分类标准：
-- "skill": 单体技能、Buff、Debuff、状态效果、技能图标、技能数值配置
-- "system": 通行证系统、养成系统、经济循环、抽卡机制、公会系统、任务链、排行榜、大局玩法机制
+- 如果需求描述的是具体的战斗招式、属性增益、单体效果，归类为 skill。
+- 如果需求描述的是玩法规则、经济系统、UI 界面逻辑、多阶段流程、或者包含"系统"字眼的复杂功能，归类为 system。
 
-只能输出纯 JSON，格式为:
-{"task_type": "skill"}
-或
-{"task_type": "system"}
+必须输出纯 JSON 格式：
+{"task_type": "skill" 或 "system", "reason": "分类理由"}
+
+其中 reason 字段用一句话简短说明为什么这样归类（10-30 字）。
 
 最高指令：
 1. 禁止废话，禁止解释
@@ -112,6 +112,7 @@ def main():
             json.dump(route_data, f, ensure_ascii=False, indent=2)
         print(f"[Classifier Agent] 路由指令已保存: {OUTPUT_FILE}")
         print(f"[Classifier Agent] 任务类别: {task_type}")
+        print(f"[Classifier Agent] 分类理由: {route_data.get('reason', '(未提供)')}")
     except Exception:
         loud_fail(f"写入路由指令失败: {OUTPUT_FILE}")
 
