@@ -21,6 +21,7 @@ CONCEPT_FILE = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 SCHEMA_FILE = os.path.join(WORKSPACE_DIR, "active_schema.json")
 REVIEW_FILE = os.path.join(WORKSPACE_DIR, "review_board.md")
 STATUS_FILE = os.path.join(WORKSPACE_DIR, "task_status.json")
+CODEX_FILE = os.path.join(WORKSPACE_DIR, "project_codex.md")
 KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
 
 
@@ -71,6 +72,7 @@ def main():
 - 定义所有必要字段的类型、约束和说明
 - 必须设置 "additionalProperties": false，禁止额外字段
 - 必须包含因果追踪与触发来源追踪标签，以防范漏洞（如地图边缘爆炸导致无限刷怪）
+- 【数据结构铁律】：绝对禁止在 Schema 中允许或使用"动态的、不可预知的字符串"作为 JSON 的 Key（例如不要设计 "tech_node_attack": {...} 这样的结构）。对于列表型数据，必须严格定义为 Array（数组）格式，并将唯一标识符作为内部的字段（如 "node_id": "tech_node_attack"）。
 - Schema 必须符合 JSON Schema 规范（draft-07 或更高）
 
 第二部分是用大白话解释这个 Schema 的 Markdown 验收表，列出所有字段的含义、取值范围、必填项、以及设计上的防漏洞措施。
@@ -95,6 +97,27 @@ def main():
         )
         system_prompt += knowledge_clause
         print("[LeadPlanner] 已注入知识库上下文到 System Prompt")
+
+    # ========== 2.5. 加载全局项目记忆（Codex） ==========
+    codex_content = ""
+    if os.path.exists(CODEX_FILE):
+        try:
+            with open(CODEX_FILE, "r", encoding="utf-8") as f:
+                codex_content = f.read().strip()
+            if codex_content:
+                print(f"[LeadPlanner] 已加载项目记忆 Codex ({len(codex_content)} 字符)")
+        except Exception:
+            print("[LeadPlanner][警告] 项目记忆 Codex 读取失败，跳过")
+
+    # 将 Codex 注入 user_prompt
+    if codex_content:
+        concept_text = (
+            f"【全局项目记忆】：当前游戏项目已包含以下系统和已被占用的 ID 规范：\n"
+            f"{codex_content}\n\n"
+            f"请在设计时严格参考以上已有设定，确保新设计能与旧系统联动，并且绝对不要使用已被占用的 ID！\n\n"
+            f"---\n\n"
+            f"{concept_text}"
+        )
 
     # ========== 3. 调用大模型 ==========
     print("[LeadPlanner] 正在调用大模型生成 Schema 与验收表...")

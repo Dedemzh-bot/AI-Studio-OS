@@ -1,15 +1,101 @@
 {
-  "source_agent": "combat_agent",
+  "source_agent": "numerical_planner",
   "task_id": "task_001",
   "payload": {
-    "skill_id": "sk_shadow_step",
-    "skill_name": "暗影步",
-    "skill_description": "瞬间位移至目标身后，造成基础伤害并附加短暂减速效果。",
-    "base_damage": 35,
-    "displacement_distance": 8.0,
-    "trigger_source_id": "player_001",
-    "causal_chain_tag": "combat_evt_20250321_001",
-    "is_passive": false,
-    "cooldown_time": 12.0
+    "docs": {
+      "system_summary": "公会商城系统：玩家通过消耗公会贡献度购买经验药水等商品，系统控制商品价格、库存上限、刷新周期及槽位解锁，以平衡公会经济与玩家成长节奏。",
+      "field_dictionary": {
+        "price_contribution": "【整型 Int】商品购买所需消耗的公会贡献度数量。基础值随商品等级或类型变化，不得低于0。",
+        "stock_max": "【整型 Int】商品在单个刷新周期内的最大可购买库存数量。基础值随商品等级或类型变化，不得低于0。",
+        "item_id": "【整型 Int】商品唯一标识ID，对应道具表。取值范围1-99999。",
+        "item_type": "【整型 Int】商品类型枚举：1=经验药水，2=其他道具。",
+        "unlock_guild_level": "【整型 Int】解锁该商品或槽位所需的最低公会等级。取值范围1-当前最大公会等级。",
+        "refresh_cycle_type": "【整型 Int】刷新周期类型枚举：1=每日，2=每周，3=每月。",
+        "refresh_time": "【字符串 String】刷新时间点，格式为HH:mm（24小时制），如'04:00'表示凌晨4点。",
+        "refresh_stock_multiplier": "【浮点 Float】刷新时库存恢复倍率，用于计算实际恢复库存=stock_max * refresh_stock_multiplier。默认值1.0。",
+        "slot_count": "【整型 Int】公会商城槽位数量，随公会等级解锁增加。基础值随等级线性增长。"
+      },
+      "relations_and_enums": {
+        "item_id": "外键 → 道具配置表.item_id。标识商品对应的具体道具。",
+        "item_type": "枚举值：1=经验药水，2=其他道具。",
+        "unlock_guild_level": "外键 → 公会等级配置表.guild_level。标识解锁条件。",
+        "refresh_cycle_type": "枚举值：1=每日，2=每周，3=每月。",
+        "refresh_time": "格式HH:mm，如'04:00'表示凌晨4点刷新。"
+      },
+      "implementation_notes": "建议程序在每日/每周/每月指定时间（由refresh_time决定）执行库存刷新，刷新时根据refresh_stock_multiplier恢复库存。商品解锁需检查玩家公会等级是否>=unlock_guild_level。槽位数量随公会等级线性增长，公式为slot_count = base + guild_level * growth。价格与库存上限建议使用连续公式，避免枚举所有等级。"
+    },
+    "data": {
+      "guild_shop_items": {
+        "continuous_formulas": {
+          "price_contribution": {
+            "base": 100,
+            "growth": 20,
+            "type": "linear"
+          },
+          "stock_max": {
+            "base": 10,
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "1": {
+            "item_id": 1001,
+            "item_type": 1,
+            "unlock_guild_level": 1
+          },
+          "2": {
+            "item_id": 1002,
+            "item_type": 1,
+            "unlock_guild_level": 3
+          },
+          "3": {
+            "item_id": 2001,
+            "item_type": 2,
+            "unlock_guild_level": 5
+          }
+        }
+      },
+      "guild_shop_refresh": {
+        "continuous_formulas": {},
+        "discrete_milestones": {
+          "1": {
+            "refresh_cycle_type": 1,
+            "refresh_time": "04:00",
+            "refresh_stock_multiplier": 1.0
+          },
+          "2": {
+            "refresh_cycle_type": 2,
+            "refresh_time": "04:00",
+            "refresh_stock_multiplier": 1.5
+          },
+          "3": {
+            "refresh_cycle_type": 3,
+            "refresh_time": "00:00",
+            "refresh_stock_multiplier": 2.0
+          }
+        }
+      },
+      "guild_level_slots": {
+        "continuous_formulas": {
+          "slot_count": {
+            "base": 3,
+            "growth": 1,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "1": {
+            "unlock_guild_level": 1
+          },
+          "2": {
+            "unlock_guild_level": 3
+          },
+          "3": {
+            "unlock_guild_level": 5
+          }
+        }
+      }
+    }
   }
 }

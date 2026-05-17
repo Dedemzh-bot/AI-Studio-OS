@@ -117,6 +117,29 @@ def main():
         last_concept_mtime = 0
         print(f"[Router] 概念简案尚未创建，等待老板编写: {CONCEPT_FILE}\n")
 
+    # ---- 开机清理 ----
+    print("[Router] 正在执行开机清理...")
+    # 1. 强制重置状态为 idle
+    write_state("idle")
+    current_state = "idle"
+
+    # 2. 清理上一炉的旧文件，防止干扰
+    files_to_clean = [
+        "task_route.json",
+        "system_schema.json",
+        "system_flow.mmd",
+        "system_numerical_docs.json",
+        "system_numerical_data.json",
+        "audit_feedback.json",
+    ]
+    for f in files_to_clean:
+        filepath = os.path.join(WORKSPACE_DIR, f)
+        if os.path.exists(filepath):
+            os.remove(filepath)
+            print(f"[Router] 已清理历史遗留文件: {f}")
+
+    print("[Router] AI Studio OS 调度中枢已就绪（等待修改概念简案）...\n")
+
     while True:
         try:
             current_mtime = os.path.getmtime(CONCEPT_FILE)
@@ -157,6 +180,20 @@ def main():
                     task_type = route_data.get("task_type", "unknown")
                     reason = route_data.get("reason", "未提供")
                     print(f"[Router] 需求类别判定: {task_type} | {reason}")
+
+                    # ---- 构建全局项目记忆 (Project Codex) ----
+                    print("[Router] 正在唤醒档案管理员，构建全局项目记忆 (Project Codex)...")
+                    try:
+                        subprocess.run(
+                            [sys.executable, os.path.join(ROOT_DIR, "Skills", "build_memory_codex.py")],
+                            check=True, cwd=ROOT_DIR,
+                        )
+                        print("[Router] 项目记忆 Codex 构建完成。")
+                    except subprocess.CalledProcessError as e:
+                        print(f"\033[91m[Router][警告] Codex 构建失败（{e.returncode}），继续执行\033[0m")
+                    except FileNotFoundError:
+                        print("\033[91m[Router][警告] 找不到 build_memory_codex.py，跳过\033[0m")
+
                     if task_type == "skill":
                         print("[Router] \U0001f3af 识别为单体技能需求，进入技能管线。")
                         write_state("pending_design")
@@ -246,16 +283,17 @@ def main():
                     print("\033[91m[安检拦截]\033[0m")
                     for err in errors:
                         print(f"\033[91m  -> {err}\033[0m")
-                    write_state("idle")
+                    print("\033[91m[安检] 已回滚至 pending_execution，触发自动重试...\033[0m")
+                    write_state("pending_execution")
             except FileNotFoundError as e:
                 print(f"\033[91m[安检拦截] 文件不存在: {e}\033[0m")
-                write_state("idle")
+                write_state("pending_execution")
             except json.JSONDecodeError as e:
                 print(f"\033[91m[安检拦截] JSON 解析失败: {e}\033[0m")
-                write_state("idle")
+                write_state("pending_execution")
             except ValueError as e:
                 print(f"\033[91m[安检拦截] 校验异常: {e}\033[0m")
-                write_state("idle")
+                write_state("pending_execution")
 
         elif current_state == "pending_audit":
             print("[Router] 正在交由主编进行数值逻辑审查...")
@@ -373,6 +411,7 @@ def main():
                 agent_name="NumericalPlanner (数值成长表)",
                 artifact_paths=[
                     os.path.join(WORKSPACE_DIR, "system_numerical_data.json"),
+                    os.path.join(WORKSPACE_DIR, "system_numerical_docs.json"),
                 ],
                 next_state="completed",
                 reject_state="pending_numerical",

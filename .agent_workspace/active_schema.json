@@ -1,65 +1,169 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "ShadowStepSkillConfig",
-  "description": "暗影步技能配置数据结构",
+  "title": "GuildTechTreeSystem",
+  "description": "公会科技树系统数据结构，包含科技树、节点、升级记录及严格的因果追踪。",
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "skill_id",
-    "skill_name",
-    "base_damage",
-    "displacement_distance",
-    "trigger_source_id",
-    "causal_chain_tag"
+    "guild_id",
+    "tech_tree_version",
+    "nodes",
+    "currency_log",
+    "trigger_trace"
   ],
   "properties": {
-    "skill_id": {
+    "guild_id": {
       "type": "string",
-      "pattern": "^sk_[a-z]+_[a-z_]+$",
-      "description": "技能唯一标识符，必须符合全局命名规范 sk_属性_名称 的格式。"
-    },
-    "skill_name": {
-      "type": "string",
+      "description": "公会唯一标识符。",
       "minLength": 1,
-      "maxLength": 64,
-      "description": "技能的中文或英文显示名称。"
+      "maxLength": 64
     },
-    "skill_description": {
-      "type": "string",
-      "maxLength": 256,
-      "description": "技能的详细描述文本。"
-    },
-    "base_damage": {
+    "tech_tree_version": {
       "type": "integer",
-      "minimum": 1,
-      "maximum": 100,
-      "description": "技能的基础伤害值，根据数值平衡规范，不得超过100。"
+      "description": "科技树版本号，用于处理版本更新时的数据迁移。",
+      "minimum": 1
     },
-    "displacement_distance": {
-      "type": "number",
-      "minimum": 0,
-      "description": "技能位移的距离，以游戏单位计。"
+    "nodes": {
+      "type": "object",
+      "description": "科技树节点状态映射，key为节点ID，value为节点状态。",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^tech_node_[a-zA-Z0-9_]+$": {
+          "type": "object",
+          "description": "单个科技树节点的状态。",
+          "additionalProperties": false,
+          "required": [
+            "node_id",
+            "current_level",
+            "is_unlocked",
+            "unlock_timestamp",
+            "last_upgrade_timestamp"
+          ],
+          "properties": {
+            "node_id": {
+              "type": "string",
+              "description": "节点ID，与key保持一致。",
+              "pattern": "^tech_node_[a-zA-Z0-9_]+$"
+            },
+            "current_level": {
+              "type": "integer",
+              "description": "当前等级，0表示未解锁。",
+              "minimum": 0,
+              "maximum": 10
+            },
+            "is_unlocked": {
+              "type": "boolean",
+              "description": "是否已解锁。"
+            },
+            "unlock_timestamp": {
+              "type": "integer",
+              "description": "解锁时的Unix时间戳（秒）。",
+              "minimum": 0
+            },
+            "last_upgrade_timestamp": {
+              "type": "integer",
+              "description": "最后升级时的Unix时间戳（秒）。",
+              "minimum": 0
+            }
+          }
+        }
+      },
+      "minProperties": 1
     },
-    "trigger_source_id": {
-      "type": "string",
-      "pattern": "^[A-Za-z0-9_]+$",
-      "description": "触发此技能的唯一实体ID（如角色ID、物品ID、陷阱ID）。用于追踪技能效果的来源，防止无来源触发。"
+    "currency_log": {
+      "type": "array",
+      "description": "公会货币消耗日志，用于审计和回滚。",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "log_id",
+          "node_id",
+          "action_type",
+          "cost_amount",
+          "cost_timestamp",
+          "trigger_source"
+        ],
+        "properties": {
+          "log_id": {
+            "type": "string",
+            "description": "日志唯一ID，用于防重复。",
+            "pattern": "^currency_log_[a-f0-9]{32}$"
+          },
+          "node_id": {
+            "type": "string",
+            "description": "被操作的节点ID。",
+            "pattern": "^tech_node_[a-zA-Z0-9_]+$"
+          },
+          "action_type": {
+            "type": "string",
+            "description": "操作类型：'unlock' 或 'upgrade'。",
+            "enum": [
+              "unlock",
+              "upgrade"
+            ]
+          },
+          "cost_amount": {
+            "type": "integer",
+            "description": "消耗的公会货币数量。",
+            "minimum": 1,
+            "maximum": 1000
+          },
+          "cost_timestamp": {
+            "type": "integer",
+            "description": "消耗发生的Unix时间戳（秒）。",
+            "minimum": 0
+          },
+          "trigger_source": {
+            "type": "string",
+            "description": "触发此消耗的来源追踪标签，用于防范漏洞。格式：'guild_<guild_id>_member_<member_id>_<action>'",
+            "pattern": "^guild_[a-zA-Z0-9]+_member_[a-zA-Z0-9]+_(unlock|upgrade)$"
+          }
+        }
+      },
+      "uniqueItems": true
     },
-    "causal_chain_tag": {
-      "type": "string",
-      "pattern": "^[A-Za-z0-9_]+$",
-      "description": "因果链标签，用于标识此技能效果属于哪一次因果事件链。例如，由一次攻击触发的所有效果应共享同一个标签，用于防止无限循环（如地图边缘爆炸导致无限刷怪）。"
-    },
-    "is_passive": {
-      "type": "boolean",
-      "default": false,
-      "description": "标记是否为被动技能。"
-    },
-    "cooldown_time": {
-      "type": "number",
-      "minimum": 0,
-      "default": 0,
-      "description": "技能冷却时间，单位为秒。"
+    "trigger_trace": {
+      "type": "object",
+      "description": "全局触发来源追踪标签，用于记录本次数据变更的最终来源。",
+      "additionalProperties": false,
+      "required": [
+        "source_type",
+        "source_id",
+        "action",
+        "timestamp"
+      ],
+      "properties": {
+        "source_type": {
+          "type": "string",
+          "description": "触发来源类型。",
+          "enum": [
+            "guild_member",
+            "system",
+            "admin_tool"
+          ]
+        },
+        "source_id": {
+          "type": "string",
+          "description": "触发来源的具体ID（如成员ID、管理员ID）。",
+          "minLength": 1
+        },
+        "action": {
+          "type": "string",
+          "description": "触发的具体动作。",
+          "enum": [
+            "unlock_node",
+            "upgrade_node",
+            "system_reset",
+            "admin_modify"
+          ]
+        },
+        "timestamp": {
+          "type": "integer",
+          "description": "触发时的Unix时间戳（秒）。",
+          "minimum": 0
+        }
+      }
     }
   }
 }
