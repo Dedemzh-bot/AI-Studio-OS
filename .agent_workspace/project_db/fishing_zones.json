@@ -1,0 +1,17 @@
+[
+  {
+    "zone_id": 1,
+    "zone_name": "浅水区",
+    "fish_quality_weights": "{\"common\": 80, \"rare\": 20, \"epic\": 0}"
+  },
+  {
+    "zone_id": 2,
+    "zone_name": "深水区",
+    "fish_quality_weights": "{\"common\": 60, \"rare\": 30, \"epic\": 10}"
+  },
+  {
+    "zone_id": 3,
+    "zone_name": "神秘区",
+    "fish_quality_weights": "{\"common\": 30, \"rare\": 40, \"epic\": 30}"
+  }
+]

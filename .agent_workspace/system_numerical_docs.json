@@ -1,34 +1,29 @@
 {
-  "system_summary": "公会悬赏任务系统：每日刷新一批星级任务供玩家接取，完成后个人获得金币和公会贡献度，公会获得资金，支持手动刷新任务。",
+  "system_summary": "公会后花园钓鱼系统：玩家消耗公会贡献度购买鱼饵，在不同水域钓鱼获取不同品质的鱼，上交鱼获转化为公会资金，促进公会经济发展。",
   "field_dictionary": {
-    "task_id": "【整型 Int】任务池中每个任务的唯一标识，自增主键。",
-    "template_id": "【整型 Int】任务模板ID，外键→任务模板库模块的template_id。",
-    "star_level": "【整型 Int】任务星级，取值范围1-5，越高奖励越好。",
-    "refresh_date": "【字符串 String】任务刷新的日期，格式YYYY-MM-DD，用于每日重置。",
-    "is_active": "【布尔型 Bool】任务是否处于可接取状态，true=可接取，false=已接取或已过期。",
-    "task_type": "【整型 Int】任务类型枚举：1=打怪，2=收集，3=捐献。",
-    "target_count": "【整型 Int】任务目标数量，如击杀10只怪、收集5个物品等，必须大于0。",
-    "base_reward_gold": "【整型 Int】1星任务的基础金币奖励，高星级按公式放大。",
-    "base_reward_contribution": "【整型 Int】1星任务的基础公会贡献度奖励，高星级按公式放大。",
-    "base_guild_fund": "【整型 Int】1星任务的基础公会资金增加量，高星级按公式放大。",
-    "player_id": "【字符串 String】玩家唯一标识，外键→玩家表。",
-    "accept_time": "【字符串 String】玩家接取任务的时间戳，格式UNIX秒。",
-    "status": "【整型 Int】任务状态枚举：0=未接取，1=进行中，2=已完成，3=已放弃。",
-    "progress": "【浮点型 Float】玩家当前任务进度，取值范围0.0到1.0，表示完成百分比。",
-    "refresh_count": "【整型 Int】玩家当日手动刷新次数，从0开始，每日重置。",
-    "diamond_cost": "【整型 Int】第N次手动刷新所需的钻石数量，随刷新次数递增。",
-    "guild_id": "【字符串 String】公会唯一标识，外键→公会表。",
-    "total_fund": "【整型 Int】公会当前累计资金总量，不得为负。",
-    "daily_income": "【整型 Int】公会当日通过任务获得的资金收入，每日重置。"
+    "unlock_guild_level": "【整型 Int】解锁该水域所需的公会等级。不得低于1。",
+    "zone_id": "【整型 Int】水域唯一标识。1=浅水区，2=深水区，3=神秘区。",
+    "zone_name": "【字符串 String】水域名称。如'浅水区'。",
+    "fish_quality_weights": "【JSON字符串】各品质鱼产出权重。格式：{\"common\": 整数, \"rare\": 整数, \"epic\": 整数}。权重总和应大于0。",
+    "price_amount": "【整型 Int】购买一个鱼饵所需的单价。不得低于0。",
+    "bait_id": "【整型 Int】鱼饵唯一标识。固定为1。",
+    "bait_name": "【字符串 String】鱼饵名称。固定为'特制鱼饵'。",
+    "price_currency_id": "【整型 Int】购买鱼饵消耗的货币ID。固定为1（公会贡献度）。",
+    "special_event_probability": "【浮点数 Float】钓鱼时触发特殊事件（如公会锦鲤）的概率。取值范围0.0~1.0。",
+    "quantity": "【整型 Int】玩家持有某鱼获的数量。不得低于0。",
+    "player_id": "【整型 Int】玩家唯一标识。",
+    "fish_id": "【整型 Int】鱼获唯一标识。",
+    "convert_guild_fund": "【整型 Int】上交一条鱼获可转化的公会资金量。不得低于0。",
+    "fish_name": "【字符串 String】鱼获名称。如'银鳞鱼'。",
+    "quality": "【整型 Int】鱼获品质。枚举值：1=普通，2=稀有，3=史诗。"
   },
   "relations_and_enums": {
-    "task_id": "主键，任务池管理模块唯一标识。",
-    "template_id": "外键→任务模板库模块的template_id，关联任务模板。",
-    "player_id": "外键→玩家表，标识接取任务的玩家。",
-    "guild_id": "外键→公会表，标识所属公会。",
-    "task_type": "枚举值：1=打怪，2=收集，3=捐献。",
-    "status": "枚举值：0=未接取，1=进行中，2=已完成，3=已放弃。",
-    "star_level": "枚举值：1-5，星级越高奖励越好。"
+    "zone_id": "外键 → 水域管理模块的zone_id。标识鱼获产出的水域。",
+    "bait_id": "外键 → 鱼饵商店模块的bait_id。标识使用的鱼饵。",
+    "price_currency_id": "外键 → 全局货币配置。固定为1（公会贡献度）。",
+    "fish_id": "外键 → 鱼获仓库模块的fish_id。标识具体鱼获。",
+    "quality": "枚举值：1=普通，2=稀有，3=史诗。",
+    "zone_id枚举": "1=浅水区，2=深水区，3=神秘区。"
   },
-  "implementation_notes": "建议程序在每日凌晨4点重置任务池（刷新所有任务为未接取状态），同时重置玩家的手动刷新次数和公会每日收入。任务星级奖励公式：实际奖励 = base_reward * (1 + (star_level - 1) * star_growth_coef)，其中star_growth_coef为0.5。手动刷新钻石成本公式：diamond_cost = base_cost + (refresh_count - 1) * cost_increment，base_cost=10，cost_increment=5。公会资金每日收入在重置时累加到total_fund。"
+  "implementation_notes": "1. 水域解锁条件：公会等级达到unlock_guild_level时自动解锁对应水域。2. 钓鱼流程：玩家消耗1个鱼饵，根据当前水域的fish_quality_weights随机决定鱼获品质，再根据该品质的鱼获列表随机选择具体鱼种。3. 特殊事件：每次钓鱼有special_event_probability概率触发公会锦鲤事件（可额外获得稀有鱼或公会资金）。4. 上交转化：玩家选择鱼获仓库中的鱼获，点击上交，扣除对应quantity，增加公会资金convert_guild_fund。5. 建议程序在每日凌晨4点重置鱼饵购买次数限制（如有）。"
 }

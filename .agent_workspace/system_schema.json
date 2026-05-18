@@ -1,58 +1,144 @@
 [
   {
-    "module_name": "任务池管理模块",
+    "module_name": "水域管理模块",
+    "continuous_fields": [
+      {
+        "field_name": "unlock_guild_level",
+        "type": "int",
+        "description": "解锁所需公会等级",
+        "example_value": 1
+      }
+    ],
+    "discrete_fields": [
+      {
+        "field_name": "zone_id",
+        "type": "int",
+        "description": "水域唯一标识",
+        "example_value": 1
+      },
+      {
+        "field_name": "zone_name",
+        "type": "string",
+        "description": "水域名称",
+        "example_value": "浅水区"
+      },
+      {
+        "field_name": "fish_quality_weights",
+        "type": "json",
+        "description": "各品质鱼产出权重",
+        "example_value": "{\"common\": 80, \"rare\": 20, \"epic\": 0}"
+      }
+    ]
+  },
+  {
+    "module_name": "鱼饵商店模块",
+    "continuous_fields": [
+      {
+        "field_name": "price_amount",
+        "type": "int",
+        "description": "购买单价",
+        "example_value": 20
+      }
+    ],
+    "discrete_fields": [
+      {
+        "field_name": "bait_id",
+        "type": "int",
+        "description": "鱼饵唯一标识",
+        "example_value": 1
+      },
+      {
+        "field_name": "bait_name",
+        "type": "string",
+        "description": "鱼饵名称",
+        "example_value": "特制鱼饵"
+      },
+      {
+        "field_name": "price_currency_id",
+        "type": "int",
+        "description": "购买消耗的货币ID",
+        "example_value": 1
+      }
+    ]
+  },
+  {
+    "module_name": "钓鱼流程模块",
     "continuous_fields": [],
     "discrete_fields": [
-      "task_id",
-      "template_id",
-      "star_level",
-      "refresh_date",
-      "is_active"
+      {
+        "field_name": "fish_quality_weights",
+        "type": "json",
+        "description": "各品质鱼产出权重（从水域配置获取）",
+        "example_value": "{\"common\": 80, \"rare\": 20, \"epic\": 0}"
+      },
+      {
+        "field_name": "special_event_probability",
+        "type": "float",
+        "description": "特殊事件概率（公会锦鲤）",
+        "example_value": 0.05
+      }
     ]
   },
   {
-    "module_name": "任务模板库模块",
-    "continuous_fields": [],
-    "discrete_fields": [
-      "template_id",
-      "task_type",
-      "target_count",
-      "base_reward_gold",
-      "base_reward_contribution",
-      "base_guild_fund"
-    ]
-  },
-  {
-    "module_name": "玩家任务接取模块",
+    "module_name": "鱼获仓库模块",
     "continuous_fields": [
-      "progress"
+      {
+        "field_name": "quantity",
+        "type": "int",
+        "description": "持有数量",
+        "example_value": 5
+      }
     ],
     "discrete_fields": [
-      "player_id",
-      "task_id",
-      "accept_time",
-      "status"
+      {
+        "field_name": "player_id",
+        "type": "int",
+        "description": "玩家唯一标识",
+        "example_value": 10001
+      },
+      {
+        "field_name": "fish_id",
+        "type": "int",
+        "description": "鱼获ID",
+        "example_value": 101
+      }
     ]
   },
   {
-    "module_name": "手动刷新模块",
+    "module_name": "公会资金转化模块",
     "continuous_fields": [
-      "refresh_count",
-      "diamond_cost"
+      {
+        "field_name": "convert_guild_fund",
+        "type": "int",
+        "description": "上交转化公会资金量",
+        "example_value": 10
+      }
     ],
     "discrete_fields": [
-      "player_id",
-      "refresh_date"
-    ]
-  },
-  {
-    "module_name": "公会资金管理模块",
-    "continuous_fields": [
-      "total_fund",
-      "daily_income"
-    ],
-    "discrete_fields": [
-      "guild_id"
+      {
+        "field_name": "fish_id",
+        "type": "int",
+        "description": "鱼获唯一标识",
+        "example_value": 101
+      },
+      {
+        "field_name": "fish_name",
+        "type": "string",
+        "description": "鱼获名称",
+        "example_value": "银鳞鱼"
+      },
+      {
+        "field_name": "quality",
+        "type": "int",
+        "description": "品质（1普通/2稀有/3史诗）",
+        "example_value": 1
+      },
+      {
+        "field_name": "zone_id",
+        "type": "int",
+        "description": "产出水域ID",
+        "example_value": 1
+      }
     ]
   }
 ]

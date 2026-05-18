@@ -1,48 +1,83 @@
 {
-  "modules": {
-    "guild_currencies": [
-      {
-        "currency_id": 1,
-        "currency_name": "公会贡献度",
-        "max_amount": 99999
-      },
-      {
-        "currency_id": 2,
-        "currency_name": "公会钻石",
-        "max_amount": 9999
-      }
-    ],
-    "unknown": [
-      {
-        "node_id": 1,
-        "node_name": "攻击增强",
-        "max_level": 10,
-        "base_cost": 500
-      },
-      {
-        "target_count": 1,
-        "task_type_name": "捐献"
-      },
-      {
-        "target_count": 10,
-        "task_type_name": "打怪"
-      },
-      {
-        "node_id": 2,
-        "node_name": "防御增强",
-        "max_level": 10,
-        "base_cost": 500
-      },
-      {
-        "node_id": 3,
-        "node_name": "生命增强",
-        "max_level": 8,
-        "base_cost": 800
-      },
-      {
-        "target_count": 5,
-        "task_type_name": "收集"
-      }
-    ]
-  }
+  "description": "全局资产注册表 — 记录所有业务数据表中的主键 ID 及其备注名",
+  "entries": [
+    {
+      "module": "bait_shop",
+      "field": "bait_id",
+      "id": "1",
+      "display_name": "特制鱼饵"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "101",
+      "display_name": "银鳞鱼"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "102",
+      "display_name": "金鳞鱼"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "103",
+      "display_name": "彩虹鱼"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "201",
+      "display_name": "蓝鳍鱼"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "202",
+      "display_name": "红鳍鱼"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "203",
+      "display_name": "暗影鱼"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "301",
+      "display_name": "星辉鱼"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "302",
+      "display_name": "月光鱼"
+    },
+    {
+      "module": "fish_conversion",
+      "field": "fish_id",
+      "id": "303",
+      "display_name": "龙鳞鱼"
+    },
+    {
+      "module": "fishing_zones",
+      "field": "zone_id",
+      "id": "1",
+      "display_name": "浅水区"
+    },
+    {
+      "module": "fishing_zones",
+      "field": "zone_id",
+      "id": "2",
+      "display_name": "深水区"
+    },
+    {
+      "module": "fishing_zones",
+      "field": "zone_id",
+      "id": "3",
+      "display_name": "神秘区"
+    }
+  ]
 }

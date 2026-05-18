@@ -1,87 +1,125 @@
 {
-  "task_pool": {
+  "fishing_zones": {
+    "continuous_formulas": {
+      "unlock_guild_level": {
+        "base": 1,
+        "growth": 2,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "1": {
+        "zone_id": 1,
+        "zone_name": "浅水区",
+        "fish_quality_weights": "{\"common\": 80, \"rare\": 20, \"epic\": 0}"
+      },
+      "2": {
+        "zone_id": 2,
+        "zone_name": "深水区",
+        "fish_quality_weights": "{\"common\": 60, \"rare\": 30, \"epic\": 10}"
+      },
+      "3": {
+        "zone_id": 3,
+        "zone_name": "神秘区",
+        "fish_quality_weights": "{\"common\": 30, \"rare\": 40, \"epic\": 30}"
+      }
+    }
+  },
+  "bait_shop": {
+    "continuous_formulas": {
+      "price_amount": {
+        "base": 20,
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "1": {
+        "bait_id": 1,
+        "bait_name": "特制鱼饵",
+        "price_currency_id": 1
+      }
+    }
+  },
+  "fishing_process": {
     "continuous_formulas": {},
     "discrete_milestones": {
-      "daily_refresh": {
-        "max_active_tasks": 10,
-        "star_distribution": {
-          "1": 0.4,
-          "2": 0.3,
-          "3": 0.2,
-          "4": 0.08,
-          "5": 0.02
-        }
-      }
+      "special_event_probability": 0.05
     }
   },
-  "task_template_library": {
+  "fish_inventory": {
     "continuous_formulas": {
-      "reward_gold": {
-        "base": 100,
-        "growth": 50,
-        "type": "linear"
-      },
-      "reward_contribution": {
-        "base": 10,
-        "growth": 5,
-        "type": "linear"
-      },
-      "guild_fund": {
-        "base": 50,
-        "growth": 25,
-        "type": "linear"
-      }
-    },
-    "discrete_milestones": {
-      "task_type_1": {
-        "target_count": 10,
-        "task_type_name": "打怪"
-      },
-      "task_type_2": {
-        "target_count": 5,
-        "task_type_name": "收集"
-      },
-      "task_type_3": {
-        "target_count": 1,
-        "task_type_name": "捐献"
-      }
-    }
-  },
-  "player_task_acceptance": {
-    "continuous_formulas": {
-      "progress": {
-        "base": 0.0,
-        "growth": 0.1,
-        "type": "linear"
-      }
-    },
-    "discrete_milestones": {}
-  },
-  "manual_refresh": {
-    "continuous_formulas": {
-      "diamond_cost": {
-        "base": 10,
-        "growth": 5,
-        "type": "linear"
-      }
-    },
-    "discrete_milestones": {
-      "max_daily_refresh": 5
-    }
-  },
-  "guild_fund_management": {
-    "continuous_formulas": {
-      "total_fund": {
-        "base": 0,
-        "growth": 0,
-        "type": "linear"
-      },
-      "daily_income": {
+      "quantity": {
         "base": 0,
         "growth": 0,
         "type": "linear"
       }
     },
     "discrete_milestones": {}
+  },
+  "fish_conversion": {
+    "continuous_formulas": {
+      "convert_guild_fund": {
+        "base": 10,
+        "growth": 5,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "101": {
+        "fish_id": 101,
+        "fish_name": "银鳞鱼",
+        "quality": 1,
+        "zone_id": 1
+      },
+      "102": {
+        "fish_id": 102,
+        "fish_name": "金鳞鱼",
+        "quality": 2,
+        "zone_id": 1
+      },
+      "103": {
+        "fish_id": 103,
+        "fish_name": "彩虹鱼",
+        "quality": 3,
+        "zone_id": 1
+      },
+      "201": {
+        "fish_id": 201,
+        "fish_name": "蓝鳍鱼",
+        "quality": 1,
+        "zone_id": 2
+      },
+      "202": {
+        "fish_id": 202,
+        "fish_name": "红鳍鱼",
+        "quality": 2,
+        "zone_id": 2
+      },
+      "203": {
+        "fish_id": 203,
+        "fish_name": "暗影鱼",
+        "quality": 3,
+        "zone_id": 2
+      },
+      "301": {
+        "fish_id": 301,
+        "fish_name": "星辉鱼",
+        "quality": 1,
+        "zone_id": 3
+      },
+      "302": {
+        "fish_id": 302,
+        "fish_name": "月光鱼",
+        "quality": 2,
+        "zone_id": 3
+      },
+      "303": {
+        "fish_id": 303,
+        "fish_name": "龙鳞鱼",
+        "quality": 3,
+        "zone_id": 3
+      }
+    }
   }
 }
