@@ -3,98 +3,124 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "公会商城系统：玩家通过消耗公会贡献度购买经验药水等商品，系统控制商品价格、库存上限、刷新周期及槽位解锁，以平衡公会经济与玩家成长节奏。",
+      "system_summary": "公会悬赏任务系统：每日刷新一批星级任务供玩家接取，完成后个人获得金币和公会贡献度，公会获得资金，支持手动刷新任务。",
       "field_dictionary": {
-        "price_contribution": "【整型 Int】商品购买所需消耗的公会贡献度数量。基础值随商品等级或类型变化，不得低于0。",
-        "stock_max": "【整型 Int】商品在单个刷新周期内的最大可购买库存数量。基础值随商品等级或类型变化，不得低于0。",
-        "item_id": "【整型 Int】商品唯一标识ID，对应道具表。取值范围1-99999。",
-        "item_type": "【整型 Int】商品类型枚举：1=经验药水，2=其他道具。",
-        "unlock_guild_level": "【整型 Int】解锁该商品或槽位所需的最低公会等级。取值范围1-当前最大公会等级。",
-        "refresh_cycle_type": "【整型 Int】刷新周期类型枚举：1=每日，2=每周，3=每月。",
-        "refresh_time": "【字符串 String】刷新时间点，格式为HH:mm（24小时制），如'04:00'表示凌晨4点。",
-        "refresh_stock_multiplier": "【浮点 Float】刷新时库存恢复倍率，用于计算实际恢复库存=stock_max * refresh_stock_multiplier。默认值1.0。",
-        "slot_count": "【整型 Int】公会商城槽位数量，随公会等级解锁增加。基础值随等级线性增长。"
+        "task_id": "【整型 Int】任务池中每个任务的唯一标识，自增主键。",
+        "template_id": "【整型 Int】任务模板ID，外键→任务模板库模块的template_id。",
+        "star_level": "【整型 Int】任务星级，取值范围1-5，越高奖励越好。",
+        "refresh_date": "【字符串 String】任务刷新的日期，格式YYYY-MM-DD，用于每日重置。",
+        "is_active": "【布尔型 Bool】任务是否处于可接取状态，true=可接取，false=已接取或已过期。",
+        "task_type": "【整型 Int】任务类型枚举：1=打怪，2=收集，3=捐献。",
+        "target_count": "【整型 Int】任务目标数量，如击杀10只怪、收集5个物品等，必须大于0。",
+        "base_reward_gold": "【整型 Int】1星任务的基础金币奖励，高星级按公式放大。",
+        "base_reward_contribution": "【整型 Int】1星任务的基础公会贡献度奖励，高星级按公式放大。",
+        "base_guild_fund": "【整型 Int】1星任务的基础公会资金增加量，高星级按公式放大。",
+        "player_id": "【字符串 String】玩家唯一标识，外键→玩家表。",
+        "accept_time": "【字符串 String】玩家接取任务的时间戳，格式UNIX秒。",
+        "status": "【整型 Int】任务状态枚举：0=未接取，1=进行中，2=已完成，3=已放弃。",
+        "progress": "【浮点型 Float】玩家当前任务进度，取值范围0.0到1.0，表示完成百分比。",
+        "refresh_count": "【整型 Int】玩家当日手动刷新次数，从0开始，每日重置。",
+        "diamond_cost": "【整型 Int】第N次手动刷新所需的钻石数量，随刷新次数递增。",
+        "guild_id": "【字符串 String】公会唯一标识，外键→公会表。",
+        "total_fund": "【整型 Int】公会当前累计资金总量，不得为负。",
+        "daily_income": "【整型 Int】公会当日通过任务获得的资金收入，每日重置。"
       },
       "relations_and_enums": {
-        "item_id": "外键 → 道具配置表.item_id。标识商品对应的具体道具。",
-        "item_type": "枚举值：1=经验药水，2=其他道具。",
-        "unlock_guild_level": "外键 → 公会等级配置表.guild_level。标识解锁条件。",
-        "refresh_cycle_type": "枚举值：1=每日，2=每周，3=每月。",
-        "refresh_time": "格式HH:mm，如'04:00'表示凌晨4点刷新。"
+        "task_id": "主键，任务池管理模块唯一标识。",
+        "template_id": "外键→任务模板库模块的template_id，关联任务模板。",
+        "player_id": "外键→玩家表，标识接取任务的玩家。",
+        "guild_id": "外键→公会表，标识所属公会。",
+        "task_type": "枚举值：1=打怪，2=收集，3=捐献。",
+        "status": "枚举值：0=未接取，1=进行中，2=已完成，3=已放弃。",
+        "star_level": "枚举值：1-5，星级越高奖励越好。"
       },
-      "implementation_notes": "建议程序在每日/每周/每月指定时间（由refresh_time决定）执行库存刷新，刷新时根据refresh_stock_multiplier恢复库存。商品解锁需检查玩家公会等级是否>=unlock_guild_level。槽位数量随公会等级线性增长，公式为slot_count = base + guild_level * growth。价格与库存上限建议使用连续公式，避免枚举所有等级。"
+      "implementation_notes": "建议程序在每日凌晨4点重置任务池（刷新所有任务为未接取状态），同时重置玩家的手动刷新次数和公会每日收入。任务星级奖励公式：实际奖励 = base_reward * (1 + (star_level - 1) * star_growth_coef)，其中star_growth_coef为0.5。手动刷新钻石成本公式：diamond_cost = base_cost + (refresh_count - 1) * cost_increment，base_cost=10，cost_increment=5。公会资金每日收入在重置时累加到total_fund。"
     },
     "data": {
-      "guild_shop_items": {
+      "task_pool": {
+        "continuous_formulas": {},
+        "discrete_milestones": {
+          "daily_refresh": {
+            "max_active_tasks": 10,
+            "star_distribution": {
+              "1": 0.4,
+              "2": 0.3,
+              "3": 0.2,
+              "4": 0.08,
+              "5": 0.02
+            }
+          }
+        }
+      },
+      "task_template_library": {
         "continuous_formulas": {
-          "price_contribution": {
+          "reward_gold": {
             "base": 100,
-            "growth": 20,
+            "growth": 50,
             "type": "linear"
           },
-          "stock_max": {
+          "reward_contribution": {
             "base": 10,
+            "growth": 5,
+            "type": "linear"
+          },
+          "guild_fund": {
+            "base": 50,
+            "growth": 25,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "task_type_1": {
+            "target_count": 10,
+            "task_type_name": "打怪"
+          },
+          "task_type_2": {
+            "target_count": 5,
+            "task_type_name": "收集"
+          },
+          "task_type_3": {
+            "target_count": 1,
+            "task_type_name": "捐献"
+          }
+        }
+      },
+      "player_task_acceptance": {
+        "continuous_formulas": {
+          "progress": {
+            "base": 0.0,
+            "growth": 0.1,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {}
+      },
+      "manual_refresh": {
+        "continuous_formulas": {
+          "diamond_cost": {
+            "base": 10,
+            "growth": 5,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "max_daily_refresh": 5
+        }
+      },
+      "guild_fund_management": {
+        "continuous_formulas": {
+          "total_fund": {
+            "base": 0,
+            "growth": 0,
+            "type": "linear"
+          },
+          "daily_income": {
+            "base": 0,
             "growth": 0,
             "type": "linear"
           }
         },
-        "discrete_milestones": {
-          "1": {
-            "item_id": 1001,
-            "item_type": 1,
-            "unlock_guild_level": 1
-          },
-          "2": {
-            "item_id": 1002,
-            "item_type": 1,
-            "unlock_guild_level": 3
-          },
-          "3": {
-            "item_id": 2001,
-            "item_type": 2,
-            "unlock_guild_level": 5
-          }
-        }
-      },
-      "guild_shop_refresh": {
-        "continuous_formulas": {},
-        "discrete_milestones": {
-          "1": {
-            "refresh_cycle_type": 1,
-            "refresh_time": "04:00",
-            "refresh_stock_multiplier": 1.0
-          },
-          "2": {
-            "refresh_cycle_type": 2,
-            "refresh_time": "04:00",
-            "refresh_stock_multiplier": 1.5
-          },
-          "3": {
-            "refresh_cycle_type": 3,
-            "refresh_time": "00:00",
-            "refresh_stock_multiplier": 2.0
-          }
-        }
-      },
-      "guild_level_slots": {
-        "continuous_formulas": {
-          "slot_count": {
-            "base": 3,
-            "growth": 1,
-            "type": "linear"
-          }
-        },
-        "discrete_milestones": {
-          "1": {
-            "unlock_guild_level": 1
-          },
-          "2": {
-            "unlock_guild_level": 3
-          },
-          "3": {
-            "unlock_guild_level": 5
-          }
-        }
+        "discrete_milestones": {}
       }
     }
   }

@@ -1,0 +1,14 @@
+[
+  {
+    "target_count": 10,
+    "task_type_name": "打怪"
+  },
+  {
+    "target_count": 5,
+    "task_type_name": "收集"
+  },
+  {
+    "target_count": 1,
+    "task_type_name": "捐献"
+  }
+]

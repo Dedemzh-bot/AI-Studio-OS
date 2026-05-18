@@ -1,73 +1,87 @@
 {
-  "guild_shop_items": {
+  "task_pool": {
+    "continuous_formulas": {},
+    "discrete_milestones": {
+      "daily_refresh": {
+        "max_active_tasks": 10,
+        "star_distribution": {
+          "1": 0.4,
+          "2": 0.3,
+          "3": 0.2,
+          "4": 0.08,
+          "5": 0.02
+        }
+      }
+    }
+  },
+  "task_template_library": {
     "continuous_formulas": {
-      "price_contribution": {
+      "reward_gold": {
         "base": 100,
-        "growth": 20,
+        "growth": 50,
         "type": "linear"
       },
-      "stock_max": {
+      "reward_contribution": {
         "base": 10,
+        "growth": 5,
+        "type": "linear"
+      },
+      "guild_fund": {
+        "base": 50,
+        "growth": 25,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "task_type_1": {
+        "target_count": 10,
+        "task_type_name": "打怪"
+      },
+      "task_type_2": {
+        "target_count": 5,
+        "task_type_name": "收集"
+      },
+      "task_type_3": {
+        "target_count": 1,
+        "task_type_name": "捐献"
+      }
+    }
+  },
+  "player_task_acceptance": {
+    "continuous_formulas": {
+      "progress": {
+        "base": 0.0,
+        "growth": 0.1,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {}
+  },
+  "manual_refresh": {
+    "continuous_formulas": {
+      "diamond_cost": {
+        "base": 10,
+        "growth": 5,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "max_daily_refresh": 5
+    }
+  },
+  "guild_fund_management": {
+    "continuous_formulas": {
+      "total_fund": {
+        "base": 0,
+        "growth": 0,
+        "type": "linear"
+      },
+      "daily_income": {
+        "base": 0,
         "growth": 0,
         "type": "linear"
       }
     },
-    "discrete_milestones": {
-      "1": {
-        "item_id": 1001,
-        "item_type": 1,
-        "unlock_guild_level": 1
-      },
-      "2": {
-        "item_id": 1002,
-        "item_type": 1,
-        "unlock_guild_level": 3
-      },
-      "3": {
-        "item_id": 2001,
-        "item_type": 2,
-        "unlock_guild_level": 5
-      }
-    }
-  },
-  "guild_shop_refresh": {
-    "continuous_formulas": {},
-    "discrete_milestones": {
-      "1": {
-        "refresh_cycle_type": 1,
-        "refresh_time": "04:00",
-        "refresh_stock_multiplier": 1.0
-      },
-      "2": {
-        "refresh_cycle_type": 2,
-        "refresh_time": "04:00",
-        "refresh_stock_multiplier": 1.5
-      },
-      "3": {
-        "refresh_cycle_type": 3,
-        "refresh_time": "00:00",
-        "refresh_stock_multiplier": 2.0
-      }
-    }
-  },
-  "guild_level_slots": {
-    "continuous_formulas": {
-      "slot_count": {
-        "base": 3,
-        "growth": 1,
-        "type": "linear"
-      }
-    },
-    "discrete_milestones": {
-      "1": {
-        "unlock_guild_level": 1
-      },
-      "2": {
-        "unlock_guild_level": 3
-      },
-      "3": {
-        "unlock_guild_level": 5
-      }
-    }
+    "discrete_milestones": {}
   }
 }

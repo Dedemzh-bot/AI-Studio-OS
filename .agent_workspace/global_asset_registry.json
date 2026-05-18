@@ -1,0 +1,48 @@
+{
+  "modules": {
+    "guild_currencies": [
+      {
+        "currency_id": 1,
+        "currency_name": "公会贡献度",
+        "max_amount": 99999
+      },
+      {
+        "currency_id": 2,
+        "currency_name": "公会钻石",
+        "max_amount": 9999
+      }
+    ],
+    "unknown": [
+      {
+        "node_id": 1,
+        "node_name": "攻击增强",
+        "max_level": 10,
+        "base_cost": 500
+      },
+      {
+        "target_count": 1,
+        "task_type_name": "捐献"
+      },
+      {
+        "target_count": 10,
+        "task_type_name": "打怪"
+      },
+      {
+        "node_id": 2,
+        "node_name": "防御增强",
+        "max_level": 10,
+        "base_cost": 500
+      },
+      {
+        "node_id": 3,
+        "node_name": "生命增强",
+        "max_level": 8,
+        "base_cost": 800
+      },
+      {
+        "target_count": 5,
+        "task_type_name": "收集"
+      }
+    ]
+  }
+}

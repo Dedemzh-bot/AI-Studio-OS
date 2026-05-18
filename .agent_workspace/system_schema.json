@@ -1,32 +1,58 @@
 [
   {
-    "module_name": "公会商城商品配置",
-    "continuous_fields": [
-      "price_contribution",
-      "stock_max"
-    ],
-    "discrete_fields": [
-      "item_id",
-      "item_type",
-      "unlock_guild_level"
-    ]
-  },
-  {
-    "module_name": "公会商城刷新配置",
+    "module_name": "任务池管理模块",
     "continuous_fields": [],
     "discrete_fields": [
-      "refresh_cycle_type",
-      "refresh_time",
-      "refresh_stock_multiplier"
+      "task_id",
+      "template_id",
+      "star_level",
+      "refresh_date",
+      "is_active"
     ]
   },
   {
-    "module_name": "公会等级解锁槽位配置",
+    "module_name": "任务模板库模块",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "template_id",
+      "task_type",
+      "target_count",
+      "base_reward_gold",
+      "base_reward_contribution",
+      "base_guild_fund"
+    ]
+  },
+  {
+    "module_name": "玩家任务接取模块",
     "continuous_fields": [
-      "slot_count"
+      "progress"
     ],
     "discrete_fields": [
-      "unlock_guild_level"
+      "player_id",
+      "task_id",
+      "accept_time",
+      "status"
+    ]
+  },
+  {
+    "module_name": "手动刷新模块",
+    "continuous_fields": [
+      "refresh_count",
+      "diamond_cost"
+    ],
+    "discrete_fields": [
+      "player_id",
+      "refresh_date"
+    ]
+  },
+  {
+    "module_name": "公会资金管理模块",
+    "continuous_fields": [
+      "total_fund",
+      "daily_income"
+    ],
+    "discrete_fields": [
+      "guild_id"
     ]
   }
 ]

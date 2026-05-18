@@ -8,9 +8,9 @@ Main Router (核心中枢 / 24h 常驻守护进程)
     |         --> pending_validation --> pending_audit --> pending_data_approval
     |         --> pending_assets --> completed --> idle
     |
-    |--> (system) pending_system_design --> pending_system_approval
-              --> pending_numerical --> pending_numerical_approval
-              --> completed --> idle
+    |--> (system) system_planner(MD) --> pending_design_approval(3选项)
+              --> pending_schema_translate --> pending_numerical
+              --> pending_numerical_approval --> completed(归档) --> idle
 """
 
 import json
@@ -40,6 +40,7 @@ CONCEPT_FILE = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 AUDIT_FILE = os.path.join(WORKSPACE_DIR, "audit_feedback.json")
 ROUTE_FILE = os.path.join(WORKSPACE_DIR, "task_route.json")
 BOSS_FEEDBACK_FILE = os.path.join(WORKSPACE_DIR, "boss_feedback.txt")
+PROJECT_DB_DIR = os.path.join(WORKSPACE_DIR, "project_db")
 POLL_INTERVAL = 2
 
 
@@ -101,11 +102,123 @@ def require_human_approval(agent_name: str, artifact_paths: list[str],
         return reject_state
 
 
+def _upsert_archive(workspace_dir: str, db_dir: str):
+    """
+    读取 system_numerical_data.json → 按顶级模块拆分 → Upsert 到 project_db/
+    同名模块深合并：同 ID 覆盖，新 ID 追加。
+    """
+    data_file = os.path.join(workspace_dir, "system_numerical_data.json")
+    if not os.path.exists(data_file):
+        print("[Router][警告] system_numerical_data.json 不存在，跳过归档")
+        return
+
+    try:
+        with open(data_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"[Router][警告] 无法读取 {data_file}: {e}")
+        return
+
+    if not isinstance(data, dict):
+        print("[Router][警告] 数据格式非 dict，跳过归档")
+        return
+
+    os.makedirs(db_dir, exist_ok=True)
+    merged_count = 0
+    new_count = 0
+
+    for module_name, module_data in data.items():
+        if not isinstance(module_data, dict):
+            continue
+
+        module_file = os.path.join(db_dir, f"{module_name}.json")
+
+        # 将嵌套结构展平为记录列表（处理 discrete_milestones 等层级）
+        records = _flatten_records(module_data)
+
+        if not records:
+            continue
+
+        # 加载旧数据
+        old_records = []
+        if os.path.exists(module_file):
+            try:
+                with open(module_file, "r", encoding="utf-8") as f:
+                    old_records = json.load(f)
+                if not isinstance(old_records, list):
+                    old_records = []
+            except Exception:
+                old_records = []
+
+        # 建立旧数据 ID 索引
+        old_index = {}
+        for i, rec in enumerate(old_records):
+            pid = _get_primary_id(rec)
+            if pid is not None:
+                old_index[pid] = i
+
+        # 合并：同 ID 覆盖，新 ID 追加
+        for rec in records:
+            pid = _get_primary_id(rec)
+            if pid is not None and pid in old_index:
+                old_records[old_index[pid]] = rec
+                merged_count += 1
+            else:
+                old_records.append(rec)
+                new_count += 1
+
+        # 落盘
+        with open(module_file, "w", encoding="utf-8") as f:
+            json.dump(old_records, f, ensure_ascii=False, indent=2)
+
+        print(f"[Router]   {module_name}.json: 更新 {merged_count} 条, 新增 {new_count} 条 -> {module_file}")
+
+    print(f"[Router] 归档完成: {merged_count} 条更新, {new_count} 条新增")
+
+
+def _flatten_records(data: dict) -> list[dict]:
+    """将嵌套的模块数据展平为记录列表。自动穿透 discrete_milestones 等中间层。"""
+    # 如果包含 discrete_milestones 子键，钻入
+    if "discrete_milestones" in data and isinstance(data["discrete_milestones"], dict):
+        return list(data["discrete_milestones"].values())
+
+    # 如果 value 全是 dict 且至少有一个含 _id 字段，视为记录集
+    if all(isinstance(v, dict) for v in data.values()):
+        has_ids = any(_get_primary_id(v) is not None for v in data.values())
+        if has_ids:
+            return list(data.values())
+
+    # 兜底：尝试展平一层
+    result = []
+    for v in data.values():
+        if isinstance(v, dict):
+            result.append(v)
+    return result if result else [data]
+
+
+def _get_primary_id(record: dict):
+    """从记录中提取主键 ID 值（优先 _id 结尾的字段）。"""
+    if not isinstance(record, dict):
+        return None
+    # 优先匹配 *_id 结尾
+    for key, value in record.items():
+        if key.endswith("_id") and isinstance(value, (str, int)):
+            return value
+    # 兜底：id 字段
+    for key in ("id", "_id"):
+        if key in record and isinstance(record[key], (str, int)):
+            return record[key]
+    return None
+
+
 def main():
     print("[Router] AI Studio OS 调度中枢已启动（常驻守护模式）...")
     print(f"[Router] 监听文件: {STATUS_FILE}")
     print(f"[Router] 轮询间隔: {POLL_INTERVAL} 秒")
-    print("[Router] 按 Ctrl+C 可停止调度中枢\n")
+    print("[Router] 按 Ctrl+C 可停止调度中枢")
+
+    os.makedirs(PROJECT_DB_DIR, exist_ok=True)
+    print(f"[Router] 归档仓库已就绪: {PROJECT_DB_DIR}\n")
 
     validator = SchemaValidator()
 
@@ -123,14 +236,16 @@ def main():
     write_state("idle")
     current_state = "idle"
 
-    # 2. 清理上一炉的旧文件，防止干扰
+    # 2. 清理上一炉的旧文件（仅限 workspace 根目录，严禁触碰 project_db/）
     files_to_clean = [
         "task_route.json",
         "system_schema.json",
         "system_flow.mmd",
+        "system_design_draft.md",
         "system_numerical_docs.json",
         "system_numerical_data.json",
         "audit_feedback.json",
+        "guild_design_data.json",
     ]
     for f in files_to_clean:
         filepath = os.path.join(WORKSPACE_DIR, f)
@@ -205,7 +320,7 @@ def main():
                                 check=True, cwd=ROOT_DIR,
                             )
                             print("[Router] System Planner 执行完毕。")
-                            write_state("pending_system_design")
+                            # system_planner 内部已写 pending_design_approval
                         except subprocess.CalledProcessError as e:
                             print(f"\033[91m[Router] SystemPlanner 失败（{e.returncode}）\033[0m")
                             write_state("idle")
@@ -372,22 +487,73 @@ def main():
                 write_state("idle")
 
         # ============================== 系统管线 ==============================
-        elif current_state == "pending_system_design":
-            print("[Router] 系统架构图已就绪，推进至架构审批...")
-            write_state("pending_system_approval")
+        elif current_state == "pending_design_approval":
+            """
+            双轨审批：系统设计草案 (system_design_draft.md) 已生成。
+            选项 A (y) = 直接通过
+            选项 B (已手动修改) = 通过
+            选项 C (其他) = 反馈重写
+            """
+            draft_path = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
 
-        elif current_state == "pending_system_approval":
-            # HITL: 系统架构验收
-            result = require_human_approval(
-                agent_name="SystemPlanner (系统架构)",
-                artifact_paths=[
-                    os.path.join(WORKSPACE_DIR, "system_flow.mmd"),
-                    os.path.join(WORKSPACE_DIR, "system_schema.json"),
-                ],
-                next_state="pending_numerical",
-                reject_state="pending_system_design",
-            )
-            write_state(result)
+            print("\033[93m" + "=" * 60 + "\033[0m")
+            print(f"\033[93m[审批节点] 系统设计草案已生成于: {draft_path}\033[0m")
+            print("[审批节点] 请打开上述文件审阅设计内容。")
+            print("\033[93m" + "=" * 60 + "\033[0m")
+            print("[审批节点] \U0001f449 选项 A (直接通过): 输入 'y'")
+            print("[审批节点] \U0001f449 选项 B (手动修改通过): 如果您已直接在 MD 文件中修改完毕，请输入 '已手动修改，请继续'")
+            print("[审批节点] \U0001f449 选项 C (对话让 AI 改): 直接输入您的修改意见（例如：'加上公会等级限制'），AI 将重写文档")
+            print("\033[93m" + "=" * 60 + "\033[0m")
+
+            user_input = input("[审批节点] 请输入: ").strip()
+
+            if user_input.lower() == "y" or "已手动修改" in user_input:
+                print(f"\033[92m[审批节点] 老板放行！设计草案已确认。\033[0m")
+                # 如果是手动修改，重新读取 MD（用户已编辑）
+                if "已手动修改" in user_input:
+                    print("[审批节点] 检测到手动修改，将以当前 MD 文件内容为准。")
+                write_state("pending_schema_translate")
+            else:
+                print(f"\033[91m[审批节点] 老板打回！意见: {user_input}\033[0m")
+                try:
+                    with open(BOSS_FEEDBACK_FILE, "w", encoding="utf-8") as f:
+                        f.write(user_input)
+                    print(f"[审批节点] 修改意见已保存至: {BOSS_FEEDBACK_FILE}")
+                except Exception as e:
+                    print(f"[审批节点][警告] 无法保存反馈: {e}")
+                # 打回 system_planner 重写 MD
+                try:
+                    subprocess.run(
+                        [sys.executable, os.path.join(ROOT_DIR, "Agents", "system_planner.py")],
+                        check=True, cwd=ROOT_DIR,
+                    )
+                    print("[Router] System Planner 已根据反馈重新生成草案。")
+                        # system_planner 内部会写回 pending_design_approval
+                except subprocess.CalledProcessError as e:
+                    print(f"\033[91m[Router] SystemPlanner 重试失败（{e.returncode}）\033[0m")
+                    write_state("idle")
+                except FileNotFoundError:
+                    print("\033[91m[Router] 找不到 system_planner.py\033[0m")
+                    write_state("idle")
+
+        elif current_state == "pending_schema_translate":
+            """
+            静默翻译：MD 草案 → system_schema.json
+            """
+            print("[Router] 正在调用 Schema Translator 将 MD 翻译为结构化 JSON...")
+            try:
+                subprocess.run(
+                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "schema_translator.py")],
+                    check=True, cwd=ROOT_DIR,
+                )
+                print("[Router] Schema 翻译完毕，推进至数值填表。")
+                # schema_translator 内部已写 pending_numerical
+            except subprocess.CalledProcessError as e:
+                print(f"\033[91m[Router] SchemaTranslator 失败（{e.returncode}）\033[0m")
+                write_state("idle")
+            except FileNotFoundError:
+                print("\033[91m[Router] 找不到 schema_translator.py\033[0m")
+                write_state("idle")
 
         elif current_state == "pending_numerical":
             print("[Router] 正在唤醒 Numerical Planner 进行数值曲线推演...")
@@ -416,6 +582,22 @@ def main():
                 next_state="completed",
                 reject_state="pending_numerical",
             )
+
+            if result == "completed":
+                _upsert_archive(WORKSPACE_DIR, PROJECT_DB_DIR)
+                print(f"\033[92m[Router] 核心数据已永久归档至 Project DB！\033[0m")
+                # 立即刷新全局记忆库，确保 Codex 与 Registry 同步
+                try:
+                    subprocess.run(
+                        [sys.executable, os.path.join(ROOT_DIR, "Skills", "build_memory_codex.py")],
+                        check=True, cwd=ROOT_DIR,
+                    )
+                    print("[Router] 全局记忆库 (Codex + Registry) 已刷新。")
+                except subprocess.CalledProcessError as e:
+                    print(f"\033[91m[Router][警告] Codex 构建失败（{e.returncode}），数据已归档但记忆未刷新\033[0m")
+                except FileNotFoundError:
+                    print("\033[91m[Router][警告] 找不到 build_memory_codex.py，跳过记忆刷新\033[0m")
+
             write_state(result)
 
         # ============================== 终态 ==============================
