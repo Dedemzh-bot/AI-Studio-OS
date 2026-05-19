@@ -264,6 +264,7 @@ def main():
     all_compressed_ids = []
     file_sketches = []
     all_registry = []
+    unique = []
 
     try:
         all_files = [

@@ -1,6 +1,0 @@
-{
-  "guild_currencies": {
-    "1": {"currency_id": 1, "currency_name": "公会贡献度", "max_amount": 99999},
-    "2": {"currency_id": 2, "currency_name": "公会钻石", "max_amount": 9999}
-  }
-}

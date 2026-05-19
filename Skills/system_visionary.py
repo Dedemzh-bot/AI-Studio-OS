@@ -68,38 +68,45 @@ def main():
 
     print(f"[Visionary] 已加载: 概念简案({len(concept)}c) 愿景({len(vision)}c) 规范({len(standards_text)}c) Codex({len(codex)}c)")
 
-    # ========== 2. 构建提示词（强制追问闭环） ==========
-    system_prompt = f"""你是一位高级游戏制作人兼主策划。
+    # ========== 2. 构建提示词（高级制作人脑补与提案准则） ==========
+    system_prompt = f"""你是一位高级游戏制作人兼主策划。老板只负责下达宏观愿景，具体设计细节是你的本职工作。
 
-你的任务分为两个阶段：
+你的核心准则：
 
-【阶段一：强制审核】
-请凭借你的专业敏锐度，审查当前的概念简案。你必须找出：
-1. 边缘情况：极端状态、边界条件是否被忽略
-2. 与旧系统的冲突：参考项目记忆 Codex 和全局资产登记表
-3. 缺失的商业化维度：缺少付费点/经济循环闭环
-4. 不符合项目愿景的设计：参考 project_vision.md
+【抓大放小，大权独揽】
+你绝对不应该向老板询问具体数值（如每日几次）、具体交互表现（如怎么运镜、碰哪里）、具体的 UI 布局或微观的玩法设计。这些都是你的本职工作！当遇到未说明的细节时，你必须根据 project_vision.md 的基调自行脑补并设计一套完整的方案。
 
-项目愿景：
+【绝对禁止重复提问】
+在提问前，必须仔细检查 concept_brief.md 中的历史问答记录。绝对不允许提出与历史记录中语义高度重复的问题！
+
+【精准追问漏洞】
+如果老板上一轮的回答遗漏了你关注的某个具体参数，下一轮提问时，请直接针对该单一遗漏点进行极其具体的提问，不要带上已经确认过的内容。
+
+【懂得自我脑补】
+如果老板的回答中包含"其他没了"、"随便"、"你看着办"等字眼，或者老板已经回答了 2 轮以上，请立刻停止追问！你必须立刻调用你的专业素养和 project_vision.md（项目宪法），为缺失的参数脑补一个最符合项目调性的默认值，然后直接返回 {{"status": "draft_ready"}} 推进管线。
+
+【提案代疑问】
+你的第一要务是尽快生成 system_design_draft.md 草案。与其在终端里问老板"这个怎么做"，不如直接把你脑补的最优解写进草案里，交由老板在【黑板审批环节】去修改！
+
+【一定触发的追问条件】
+你只能在以下三种极端情况下必须返回 {{"status": "need_info", "question": "..."}} 发起追问：
+1. 老板的需求与《项目宪法》发生严重的根本性冲突（例如要求加男角色）。
+2. 老板的需求会彻底摧毁现有的核心商业化闭环（例如要求把核心抽卡代币设为无限免费）。
+3. 需求指向极其模糊，导致你完全无法猜测其核心系统定位（例如老板只发了一个词"苹果"）。
+
+项目宪法：
 {vision}
 
 设计规范模板：
 {standards_text}
 
-如果发现以上任何缺失、冲突或不清晰之处，你必须输出：
-{{"status": "need_info", "question": "你的具体追问（简洁、精准，不超过80字）"}}
+输出格式（重要！两者必须同时包含）：
+- 第一步：先输出 {{"status": "draft_ready"}}
+- 第二步：紧接着必须输出 ```markdown ... ``` 代码块，包含完整的设计草案！
+  草稿必须严格按照 design_standards.json 的 6 个强制章节结构编写。
+  禁止只输出 JSON 而不输出 markdown 草案！JSON 和 markdown 缺一不可！！
 
-【阶段二：起草设计草案】
-只有当需求已经达到 100% 无懈可击的标准时（所有信息齐备，逻辑闭环，符合愿景和规范），你才输出：
-{{"status": "draft_ready"}}
-
-然后紧接着用 ```markdown ... ``` 代码块输出完整的系统设计草案。
-草案必须严格遵循 design_standards.json 的骨架。
-
-最高指令：
-1. 绝对禁止盲目脑补缺失的关键参数
-2. 一次最多提 1 个最关键的问题
-3. 输出纯文本，不要用任何 Markdown 包裹外侧"""
+【最高指令】你必须且只能输出合法的 JSON 字符串！绝对禁止在 JSON 前后输出任何 markdown 文本、思考过程或解释语！"""
 
     user_prompt = f"以下是老板的概念简案：\n\n{concept}"
 
@@ -154,15 +161,34 @@ def main():
 
         elif status == "draft_ready":
             print(f"\n{GRN}[主策确认] 需求已达 100% 标准，正在起草设计草案...{RESET}")
-            # 提取 Markdown 草案
+            # 提取 Markdown 草案（多道回退策略）
+            draft = ""
+            # 策略1: markdown 代码块
             md_match = re.search(r"```(?:markdown)?\s*([\s\S]*?)```", llm_response, re.DOTALL)
             if md_match:
                 draft = md_match.group(1).strip()
-            else:
-                # 尝试提取 JSON 之后的所有文本
-                draft = llm_response[json_match.end():].strip()
-                if len(draft) < 50:
-                    draft = llm_response.strip()
+            # 策略2: JSON 之后所有文本（跳过可能的空白）
+            if not draft or len(draft) < 100:
+                post_json = llm_response[json_match.end():].strip()
+                if len(post_json) > 100 and ('#' in post_json or '*' in post_json or '-' in post_json):
+                    draft = post_json
+            # 策略3: 整个回应去掉 JSON 部分
+            if not draft or len(draft) < 100:
+                draft = re.sub(r'\{[^{}]*"status"[^{}]*\}', '', llm_response).strip()
+
+            if not draft or len(draft) < 100:
+                # 回退：用二次调用请求 LLM 单独输出草案
+                print("[Visionary] 草案未随 JSON 返回，发起二次调用提取...")
+                draft_prompt = "请根据之前的分析，输出完整的设计草案。纯 Markdown 格式，不要 JSON。"
+                try:
+                    draft_response = ask_llm(system_prompt, user_prompt + "\n\n" + draft_prompt)
+                    md_match2 = re.search(r"```(?:markdown)?\s*([\s\S]*?)```", draft_response, re.DOTALL)
+                    if md_match2:
+                        draft = md_match2.group(1).strip()
+                    elif len(draft_response) > 100 and '#' in draft_response:
+                        draft = draft_response.strip()
+                except Exception:
+                    pass
 
             if not draft or len(draft) < 100:
                 print(f"{RED}未能提取有效设计草案{RESET}")

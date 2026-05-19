@@ -42,6 +42,7 @@ AUDIT_FILE = os.path.join(WORKSPACE_DIR, "audit_feedback.json")
 ROUTE_FILE = os.path.join(WORKSPACE_DIR, "task_route.json")
 BOSS_FEEDBACK_FILE = os.path.join(WORKSPACE_DIR, "boss_feedback.txt")
 PROJECT_DB_DIR = os.path.join(WORKSPACE_DIR, "project_db")
+CONCEPT_CACHE_FILE = os.path.join(WORKSPACE_DIR, ".concept_brief_cache.txt")
 POLL_INTERVAL = 2
 
 YEL_COLOR = "\033[93m"
@@ -228,13 +229,29 @@ def main():
 
     validator = SchemaValidator()
 
+    # ---- 基于内容的缓存机制 ----
+    concept_current = ""
     try:
-        last_concept_mtime = os.path.getmtime(CONCEPT_FILE)
-        print(f"[Router] 概念简案已就绪: {CONCEPT_FILE}")
-        print(f"[Router] 基准 mtime: {last_concept_mtime}（修改文件后自动触发）\n")
+        with open(CONCEPT_FILE, "r", encoding="utf-8") as f:
+            concept_current = f.read().strip()
     except FileNotFoundError:
-        last_concept_mtime = 0
-        print(f"[Router] 概念简案尚未创建，等待老板编写: {CONCEPT_FILE}\n")
+        pass
+
+    concept_cache = ""
+    try:
+        with open(CONCEPT_CACHE_FILE, "r", encoding="utf-8") as f:
+            concept_cache = f.read().strip()
+    except FileNotFoundError:
+        pass
+
+    if concept_current:
+        print(f"[Router] 概念简案已就绪: {CONCEPT_FILE} ({len(concept_current)} 字符)")
+        if concept_current == concept_cache:
+            print("[Router] 内容与缓存一致（旧需求/已处理），保持 idle 监听。\n")
+        else:
+            print("[Router] 检测到新需求（内容与缓存不一致）。\n")
+    else:
+        print(f"[Router] 概念简案为空，等待老板编写: {CONCEPT_FILE}\n")
 
     # ---- 开机清理 ----
     print("[Router] 正在执行开机清理...")
@@ -247,7 +264,6 @@ def main():
         "task_route.json",
         "system_schema.json",
         "system_flow.mmd",
-        "system_design_draft.md",
         "system_numerical_docs.json",
         "system_numerical_data.json",
         "audit_feedback.json",
@@ -262,15 +278,29 @@ def main():
     print("[Router] AI Studio OS 调度中枢已就绪（等待修改概念简案）...\n")
 
     while True:
+        # ===== 0. 每次循环从硬盘读取概念简案内容 =====
         try:
-            current_mtime = os.path.getmtime(CONCEPT_FILE)
-        except Exception:
-            current_mtime = last_concept_mtime
+            with open(CONCEPT_FILE, "r", encoding="utf-8") as f:
+                concept_current = f.read().strip()
+        except FileNotFoundError:
+            concept_current = ""
 
-        if current_mtime > last_concept_mtime:
-            print("\033[93m[Router]\033[0m 检测到老板更新了《概念简案》！自动触发分发器...")
-            last_concept_mtime = current_mtime
-            for f in [AUDIT_FILE, ROUTE_FILE, BOSS_FEEDBACK_FILE]:
+        # ===== 0.5 基于内容的严格比对 =====
+        concept_changed = (concept_current and concept_current != concept_cache)
+
+        if concept_changed:
+            print("\033[93m[Router]\033[0m 检测到老板更新了《概念简案》内容！自动触发分发器...")
+            # 立即更新缓存快照，防止重启误触发
+            try:
+                with open(CONCEPT_CACHE_FILE, "w", encoding="utf-8") as f:
+                    f.write(concept_current)
+                concept_cache = concept_current
+            except Exception as e:
+                print(f"[Router][警告] 无法更新缓存: {e}")
+            # 清理旧轮次文件
+            for f in [AUDIT_FILE, ROUTE_FILE, BOSS_FEEDBACK_FILE,
+                      os.path.join(WORKSPACE_DIR, "system_design_draft.md"),
+                      os.path.join(WORKSPACE_DIR, "task_plan.md")]:
                 if os.path.exists(f):
                     os.remove(f)
                     print(f"[Router] 已清理旧文件: {os.path.basename(f)}")
@@ -507,28 +537,55 @@ def main():
                 )
                 output = result.stdout + result.stderr
 
-                # 解析 JSON 状态
-                json_match = re.search(r'\{"status"\s*:\s*"(need_info|draft_ready)"[^}]*\}', output)
+                # 解析 JSON 状态（健壮提取：先剥掉可能的 markdown 包裹）
+                output_clean = re.sub(r"```[a-z]*\s*|\s*```", "", output)
+                json_match = re.search(r'\{"status"\s*:\s*"(need_info|draft_ready)"[^}]*\}', output_clean)
+                status_data = None
                 if json_match:
-                    status_data = json.loads(json_match.group(0))
+                    try:
+                        status_data = json.loads(json_match.group(0))
+                    except json.JSONDecodeError:
+                        status_data = None
+                if not status_data:
+                    # 兜底：从第一个 { 到最后一个 }
+                    start = output_clean.find('{"status"')
+                    if start >= 0:
+                        end = output_clean.rfind('}') + 1
+                        json_str = output_clean[start:end]
+                        try:
+                            status_data = json.loads(json_str)
+                        except json.JSONDecodeError:
+                            status_data = None
+                if status_data:
                     st = status_data.get("status")
                     if st == "need_info":
                         question = status_data.get("question", "")
-                        print(f"\n{YEL_COLOR}============================================================{RESET}")
-                        print(f"{YEL_COLOR}[主策追问] {question}{RESET}")
-                        print(f"{YEL_COLOR}============================================================{RESET}")
+                        print(f"\n{YEL_COLOR}============================================================{RESET_CLR}")
+                        print(f"{YEL_COLOR}[主策追问] {question}{RESET_CLR}")
+                        print(f"{YEL_COLOR}============================================================{RESET_CLR}")
                         user_reply = input("[Router] 请输入您的回复（补充需求信息）: ").strip()
                         if user_reply:
                             try:
+                                # 成对记录：AI 问题 + 老板回答，防止上下文丢失
+                                qa_block = (
+                                    f"\n\n> [主策追问] {question}\n"
+                                    f"> [老板指示] {user_reply}\n"
+                                )
                                 with open(CONCEPT_FILE, "a", encoding="utf-8") as f:
-                                    f.write(f"\n\n[老板补充] {user_reply}")
-                                print(f"[Router] 已将补充内容追加至概念简案。")
+                                    f.write(qa_block)
+                                print(f"[Router] 已将问答对追加至概念简案。")
+                                # 同步更新缓存，防止下轮心跳误判为"新需求触发"
+                                with open(CONCEPT_FILE, "r", encoding="utf-8") as f:
+                                    new_content = f.read().strip()
+                                with open(CONCEPT_CACHE_FILE, "w", encoding="utf-8") as f:
+                                    f.write(new_content)
+                                concept_cache = new_content
                             except Exception as e:
-                                print(f"[Router][警告] 无法追加: {e}")
+                                print(f"[Router][警告] 无法追加/更新缓存: {e}")
                         # 保持 clarifying_requirements，下一轮心跳自动重新运行 Visionary
                         write_state("clarifying_requirements")
                     elif st == "draft_ready":
-                        print(f"{GRN_COLOR}[Router] 需求已完备，设计草案已生成！{RESET}")
+                        print(f"{GRN_COLOR}[Router] 需求已完备，设计草案已生成！{RESET_CLR}")
                         write_state("pending_design_approval")
                 else:
                     print(f"\033[91m[Router] 无法解析 Visionary 输出状态\033[0m")

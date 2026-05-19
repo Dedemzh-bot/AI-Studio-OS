@@ -1,5 +1,0 @@
-[
-  {"node_id": 1, "node_name": "攻击增强", "max_level": 10, "base_cost": 500},
-  {"node_id": 2, "node_name": "防御增强", "max_level": 10, "base_cost": 500},
-  {"node_id": 3, "node_name": "生命增强", "max_level": 8, "base_cost": 800}
-]
