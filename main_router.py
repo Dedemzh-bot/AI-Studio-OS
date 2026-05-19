@@ -43,6 +43,8 @@ ROUTE_FILE = os.path.join(WORKSPACE_DIR, "task_route.json")
 BOSS_FEEDBACK_FILE = os.path.join(WORKSPACE_DIR, "boss_feedback.txt")
 PROJECT_DB_DIR = os.path.join(WORKSPACE_DIR, "project_db")
 CONCEPT_CACHE_FILE = os.path.join(WORKSPACE_DIR, ".concept_brief_cache.txt")
+DRAFT_CACHE_FILE = os.path.join(WORKSPACE_DIR, ".draft_cache.md")
+RETRY_COUNT_FILE = os.path.join(WORKSPACE_DIR, ".retry_count.json")
 POLL_INTERVAL = 2
 
 YEL_COLOR = "\033[93m"
@@ -79,6 +81,109 @@ def write_state(state: str, **extra):
     except OSError as e:
         print(f"[Router][警告] 无法写入状态文件: {STATUS_FILE}")
         print(f"[Router][警告] 详细原因: {e}")
+
+
+def _save_draft_snapshot():
+    """保存 system_design_draft.md 的快照副本，用于后续智能剪裁比对。"""
+    draft_path = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
+    if os.path.exists(draft_path):
+        try:
+            with open(draft_path, "r", encoding="utf-8") as f:
+                content = f.read()
+            with open(DRAFT_CACHE_FILE, "w", encoding="utf-8") as f:
+                f.write(content)
+            print("[Router] 已保存草案快照 (.draft_cache.md)")
+        except Exception as e:
+            print(f"[Router][警告] 无法保存草案快照: {e}")
+
+
+def _extract_section(md_text: str, section_title: str) -> str:
+    """从 Markdown 文本中提取指定标题的章节内容。"""
+    import re
+    pattern = rf"^#+\s*{re.escape(section_title)}.*$"
+    match = re.search(pattern, md_text, re.MULTILINE)
+    if not match:
+        return ""
+    start = match.start()
+    # 从该节之后找下一个同级或更高级标题
+    level = len(re.match(r"^#+", md_text[start:]).group())
+    remaining = md_text[start + len(match.group()):]
+    next_match = re.search(rf"^#{{{1,{level}}}}\s", remaining, re.MULTILINE)
+    if next_match:
+        return md_text[start:start + len(match.group()) + next_match.start()]
+    else:
+        return md_text[start:]
+
+
+def _trim_open_questions_if_unchanged():
+    """
+    智能剪裁：如果"六、待确认风险与疑点"未被人工修改，则删除该节及之后内容。
+    返回是否执行了剪裁。
+    """
+    draft_path = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
+    if not os.path.exists(draft_path) or not os.path.exists(DRAFT_CACHE_FILE):
+        print("[Router] 缺少草案或快照文件，跳过智能剪裁")
+        return False
+
+    try:
+        with open(draft_path, "r", encoding="utf-8") as f:
+            current_text = f.read()
+        with open(DRAFT_CACHE_FILE, "r", encoding="utf-8") as f:
+            snapshot_text = f.read()
+    except Exception as e:
+        print(f"[Router][警告] 读取草案/快照失败: {e}")
+        return False
+
+    section_title = "六、待确认风险与疑点"
+    current_section = _extract_section(current_text, section_title)
+    snapshot_section = _extract_section(snapshot_text, section_title)
+
+    if not current_section:
+        print("[Router] 草案中未找到疑点章节，无需剪裁")
+        return False
+
+    # 比对：标准化（去空格）后判断是否一致
+    current_norm = "".join(current_section.split())
+    snapshot_norm = "".join(snapshot_section.split())
+
+    # 相似度阈值：差异小于 5% 视为未修改
+    max_len = max(len(current_norm), len(snapshot_norm)) or 1
+    similarity = 1.0 - (abs(len(current_norm) - len(snapshot_norm)) / max_len)
+
+    if similarity > 0.95:
+        # 老板未修改 → 删除疑点节及之后所有内容
+        import re
+        pattern = rf"^#+\s*{re.escape(section_title)}.*$"
+        match = re.search(pattern, current_text, re.MULTILINE)
+        if match:
+            trimmed = current_text[:match.start()].rstrip() + "\n"
+            with open(draft_path, "w", encoding="utf-8") as f:
+                f.write(trimmed)
+            print("\033[93m[智能剪裁] 疑点章节未修改，已自动擦除，保护下游数据纯净。\033[0m")
+            return True
+    else:
+        print("\033[92m[智能剪裁] 检测到疑点章节已被人工修改，予以保留。\033[0m")
+
+    return False
+
+
+def _save_retry_count(count: int):
+    """保存当前 Agent 的重试计数。"""
+    try:
+        os.makedirs(WORKSPACE_DIR, exist_ok=True)
+        with open(RETRY_COUNT_FILE, "w", encoding="utf-8") as f:
+            json.dump({"count": count}, f)
+    except Exception:
+        pass
+
+
+def _clear_retry_count():
+    """清除重试计数。"""
+    if os.path.exists(RETRY_COUNT_FILE):
+        try:
+            os.remove(RETRY_COUNT_FILE)
+        except Exception:
+            pass
 
 
 def require_human_approval(agent_name: str, artifact_paths: list[str],
@@ -586,6 +691,8 @@ def main():
                         write_state("clarifying_requirements")
                     elif st == "draft_ready":
                         print(f"{GRN_COLOR}[Router] 需求已完备，设计草案已生成！{RESET_CLR}")
+                        # 保存快照副本，用于后续智能剪裁比对
+                        _save_draft_snapshot()
                         write_state("pending_design_approval")
                 else:
                     print(f"\033[91m[Router] 无法解析 Visionary 输出状态\033[0m")
@@ -608,8 +715,10 @@ def main():
             user_input = input("[草案审查] 请输入: ").strip()
 
             if user_input.lower() == "y" or "已手动修改" in user_input:
-                print(f"\033[92m[草案审查] 老板放行！设计草案已确认，进入 PM 任务拆解。\033[0m")
-                # 调用 Task Planner 生成 task_plan.md
+                print(f"\033[92m[草案审查] 老板放行！设计草案已确认。\033[0m")
+                # ---- MD 智能阅卷与剪裁 ----
+                _trim_open_questions_if_unchanged()
+                # ---- 进入 PM 任务拆解 ----
                 try:
                     subprocess.run(
                         [sys.executable, os.path.join(ROOT_DIR, "Skills", "task_planner.py")],
@@ -701,17 +810,46 @@ def main():
                 write_state("idle")
 
         elif current_state == "pending_numerical":
-            print("[Router] 正在唤醒 Numerical Planner 进行数值曲线推演...")
+            # 读取重试计数
+            retry_count = 0
+            if os.path.exists(RETRY_COUNT_FILE):
+                try:
+                    with open(RETRY_COUNT_FILE, "r", encoding="utf-8") as f:
+                        retry_count = json.load(f).get("count", 0)
+                except Exception:
+                    pass
+
+            print(f"[Router] 正在唤醒 Numerical Planner 进行数值曲线推演... (第 {retry_count + 1} 次)")
             try:
                 subprocess.run(
                     [sys.executable, os.path.join(ROOT_DIR, "Agents", "numerical_planner.py")],
                     check=True, cwd=ROOT_DIR,
                 )
                 print("[Router] 数值推演完毕，进入数值审批。")
+                _clear_retry_count()
                 write_state("pending_numerical_approval")
             except subprocess.CalledProcessError as e:
-                print(f"\033[91m[Router] NumericalPlanner 失败（{e.returncode}）\033[0m")
-                write_state("idle")
+                if e.returncode == 2 and retry_count < 2:
+                    # JSON 截断 → 自动重试
+                    retry_count += 1
+                    _save_retry_count(retry_count)
+                    print(f"\033[93m[Router] NumericalPlanner JSON 被截断，自动重试 ({retry_count}/2)...\033[0m")
+                    # 保持 pending_numerical，下轮心跳重试
+                elif e.returncode == 2 and retry_count >= 2:
+                    # 重试耗尽 → 人工介入
+                    _clear_retry_count()
+                    print(f"\033[91m[Router] NumericalPlanner 重试 {retry_count} 次仍失败（JSON 截断）\033[0m")
+                    print("\033[93m[Router] 数值策划生成数据表失败（可能因为内容过长）。\033[0m")
+                    user_input = input("[Router] 按 'y' 再次重试，或按 'n' 打回至主策划重新拆解: ").strip()
+                    if user_input.lower() == "y":
+                        write_state("pending_numerical")
+                    else:
+                        write_state("pending_schema_translate")
+                else:
+                    # 其他错误
+                    _clear_retry_count()
+                    print(f"\033[91m[Router] NumericalPlanner 失败（{e.returncode}）\033[0m")
+                    write_state("idle")
             except FileNotFoundError:
                 print("\033[91m[Router] 找不到 numerical_planner.py\033[0m")
                 write_state("idle")

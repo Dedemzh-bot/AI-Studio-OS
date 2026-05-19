@@ -33,7 +33,7 @@ _client = OpenAI(
 # ---- 配置 ----
 DEFAULT_MODEL = os.getenv("LLM_MODEL", "deepseek-chat")
 DEFAULT_TEMPERATURE = 0.3
-DEFAULT_MAX_TOKENS = 4096
+DEFAULT_MAX_TOKENS = 8192
 MAX_RETRIES = 3
 RETRY_DELAY = 2  # 重试等待秒数（指数递增）
 

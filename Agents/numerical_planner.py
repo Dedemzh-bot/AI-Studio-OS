@@ -39,6 +39,14 @@ def loud_fail(msg: str):
     sys.exit(1)
 
 
+def json_truncation_fail(msg: str):
+    """JSON 截断/损坏特化退出 — 退出码 2，供 main_router 识别并自动重试。"""
+    print(f"{RED}========== [Numerical Planner] JSON 截断或格式损坏 =========={RESET}")
+    print(f"{RED}{msg}{RESET}")
+    print(f"{RED}============================================================{RESET}")
+    sys.exit(2)
+
+
 def main():
     # ========== 1. 读取双重上下文 ==========
     try:
@@ -197,8 +205,14 @@ data 中必须用 continuous_formulas + discrete_milestones 模式，禁止 leve
 
     try:
         parsed = json.loads(clean_json_str)
-    except json.JSONDecodeError:
-        loud_fail(f"JSON 解析失败！完整原始返回:\n{llm_response}")
+    except json.JSONDecodeError as e:
+        json_truncation_fail(
+            f"大模型生成的 JSON 被截断或格式损坏！\n"
+            f"错误位置: 第 {e.lineno} 行, 第 {e.colno} 列\n"
+            f"错误详情: {e.msg}\n"
+            f"--- 尾部 300 字符 ---\n{clean_json_str[-300:]}\n"
+            f"--- 完整原始返回 ---\n{llm_response}"
+        )
 
     if not isinstance(parsed, dict):
         loud_fail(f"根 JSON 必须是对象类型，实际为: {type(parsed).__name__}")

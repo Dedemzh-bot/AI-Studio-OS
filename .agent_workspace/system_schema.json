@@ -1,0 +1,263 @@
+[
+  {
+    "module_name": "unlock_and_entry",
+    "continuous_fields": [
+      "unlock_condition_happiness_level",
+      "unlock_cost_keycard_count",
+      "unlock_cost_premium_currency_amount"
+    ],
+    "discrete_fields": [
+      "unlock_trigger_main_story",
+      "unlock_trigger_happiness_level_5",
+      "unlock_item_keycard",
+      "unlock_item_premium_currency"
+    ]
+  },
+  {
+    "module_name": "interaction_free_touch",
+    "continuous_fields": [
+      "touch_sensitivity_level",
+      "touch_feedback_delay_ms",
+      "blush_intensity"
+    ],
+    "discrete_fields": [
+      "touch_zone_head",
+      "touch_zone_cheek",
+      "touch_zone_arm",
+      "touch_zone_waist",
+      "touch_zone_leg",
+      "touch_feedback_voice_shy",
+      "touch_feedback_voice_happy",
+      "touch_feedback_voice_surprised",
+      "touch_feedback_physics_tremble",
+      "touch_feedback_physics_blush"
+    ]
+  },
+  {
+    "module_name": "interaction_minigame_hide_and_seek",
+    "continuous_fields": [
+      "minigame_daily_attempts",
+      "minigame_win_reward_happiness_value"
+    ],
+    "discrete_fields": [
+      "minigame_trigger_location_wardrobe",
+      "minigame_trigger_location_curtain",
+      "minigame_win_animation_hug",
+      "minigame_reward_voice_clip",
+      "minigame_reward_emotion_pack",
+      "minigame_reward_decor_item"
+    ]
+  },
+  {
+    "module_name": "interaction_minigame_feeding",
+    "continuous_fields": [
+      "minigame_daily_attempts",
+      "minigame_win_reward_happiness_value"
+    ],
+    "discrete_fields": [
+      "minigame_trigger_food_item",
+      "minigame_feedback_chew",
+      "minigame_feedback_satisfied",
+      "minigame_feedback_reject",
+      "minigame_reward_voice_clip",
+      "minigame_reward_emotion_pack",
+      "minigame_reward_decor_item"
+    ]
+  },
+  {
+    "module_name": "interaction_minigame_grooming",
+    "continuous_fields": [
+      "minigame_daily_attempts",
+      "minigame_win_reward_happiness_value"
+    ],
+    "discrete_fields": [
+      "minigame_trigger_comb_item",
+      "minigame_feedback_eye_close",
+      "minigame_feedback_voice_enjoy",
+      "minigame_reward_voice_clip",
+      "minigame_reward_emotion_pack",
+      "minigame_reward_decor_item"
+    ]
+  },
+  {
+    "module_name": "interaction_environment",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "furniture_bed",
+      "furniture_sofa",
+      "furniture_mirror",
+      "furniture_action_sit_on_bed",
+      "furniture_action_look_in_mirror"
+    ]
+  },
+  {
+    "module_name": "daily_reset_and_rewards",
+    "continuous_fields": [
+      "daily_first_entry_happiness_reward",
+      "daily_minigame_free_attempts"
+    ],
+    "discrete_fields": [
+      "reward_voice_clip",
+      "reward_emotion_pack",
+      "reward_decor_item"
+    ]
+  },
+  {
+    "module_name": "ui_scene_design",
+    "continuous_fields": [
+      "camera_zoom_range_min",
+      "camera_zoom_range_max",
+      "camera_rotation_speed",
+      "lighting_warmth_level",
+      "skin_texture_detail_level",
+      "cloth_wrinkle_detail_level",
+      "sweat_effect_intensity"
+    ],
+    "discrete_fields": [
+      "scene_3d_free_camera",
+      "scene_private_material",
+      "scene_ambient_light_warm",
+      "character_idle_stretch",
+      "character_idle_play_hair",
+      "character_idle_peek_at_player"
+    ]
+  },
+  {
+    "module_name": "risque_interaction_design",
+    "continuous_fields": [
+      "sensitive_zone_touch_feedback_voice_volume",
+      "sensitive_zone_touch_feedback_blush_intensity",
+      "sensitive_zone_touch_feedback_body_retreat_distance",
+      "physics_breast_jiggle_intensity",
+      "physics_hip_jiggle_intensity"
+    ],
+    "discrete_fields": [
+      "sensitive_zone_waist",
+      "sensitive_zone_thigh",
+      "sensitive_zone_touch_feedback_voice_coquettish",
+      "sensitive_zone_touch_feedback_face_blush",
+      "sensitive_zone_touch_feedback_body_retreat",
+      "special_camera_close_up_face",
+      "special_camera_close_up_dialogue",
+      "minigame_feeding_close_eye_contact",
+      "minigame_grooming_comfort_moan",
+      "boundary_no_explicit_sex",
+      "boundary_no_nudity",
+      "boundary_no_simulated_sex_act",
+      "boundary_voice_shy_only",
+      "boundary_no_adult_vocabulary"
+    ]
+  },
+  {
+    "module_name": "economy_unlock_cost",
+    "continuous_fields": [
+      "keycard_cost_per_room",
+      "premium_currency_cost_per_room"
+    ],
+    "discrete_fields": [
+      "keycard_item",
+      "premium_currency_item",
+      "keycard_source_paid_pack",
+      "keycard_source_event_reward",
+      "keycard_source_monthly_pass",
+      "premium_currency_source_direct_purchase"
+    ]
+  },
+  {
+    "module_name": "economy_interaction_rewards",
+    "continuous_fields": [
+      "daily_happiness_reward_value",
+      "minigame_win_happiness_reward_value"
+    ],
+    "discrete_fields": [
+      "reward_voice_clip",
+      "reward_emotion_pack",
+      "reward_decor_item",
+      "reward_usage_lobby_voice",
+      "reward_usage_chat_emotion"
+    ]
+  },
+  {
+    "module_name": "economy_monetization",
+    "continuous_fields": [
+      "interaction_pack_price"
+    ],
+    "discrete_fields": [
+      "interaction_pack_food",
+      "interaction_pack_comb",
+      "interaction_pack_perfume",
+      "skin_effect_swimsuit",
+      "skin_effect_extra_touch_zone",
+      "skin_effect_special_voice"
+    ]
+  },
+  {
+    "module_name": "data_link_happiness_system",
+    "continuous_fields": [
+      "happiness_level_threshold_for_unlock",
+      "happiness_value_from_dormitory"
+    ],
+    "discrete_fields": [
+      "happiness_system_api_call",
+      "happiness_value_write_back"
+    ]
+  },
+  {
+    "module_name": "data_link_character_model",
+    "continuous_fields": [
+      "private_scene_skeleton_detail_level",
+      "private_scene_physics_collider_precision"
+    ],
+    "discrete_fields": [
+      "combat_model_reuse",
+      "private_scene_skeleton",
+      "private_scene_physics_collider"
+    ]
+  },
+  {
+    "module_name": "data_link_voice_system",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "dormitory_voice_library",
+      "voice_category_touch_zone",
+      "voice_category_minigame_event"
+    ]
+  },
+  {
+    "module_name": "data_link_chat_system",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "emotion_pack_import_to_chat"
+    ]
+  },
+  {
+    "module_name": "data_link_lobby_system",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "voice_clip_set_as_lobby_idle"
+    ]
+  },
+  {
+    "module_name": "risk_minigame_variety",
+    "continuous_fields": [
+      "minigame_count_default"
+    ],
+    "discrete_fields": [
+      "minigame_hide_and_seek",
+      "minigame_feeding",
+      "minigame_grooming",
+      "future_expansion_available"
+    ]
+  },
+  {
+    "module_name": "risk_touch_sensitivity_grading",
+    "continuous_fields": [
+      "sensitivity_grading_unified_level"
+    ],
+    "discrete_fields": [
+      "character_type_shy",
+      "character_type_lively",
+      "voice_library_character_specific"
+    ]
+  }
+]

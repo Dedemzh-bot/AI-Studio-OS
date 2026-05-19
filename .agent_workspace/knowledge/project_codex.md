@@ -11,4 +11,3 @@
 - （未检测到）
 
 ## 业务数据表清单
-- **ui_config.json** (0.9 KB) | 顶级 Key: `ux_layout, ui_tokens, assets_and_content, screen_position`
