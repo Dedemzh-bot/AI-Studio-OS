@@ -15,6 +15,7 @@ Main Router (核心中枢 / 24h 常驻守护进程)
 
 import json
 import os
+import re
 import subprocess
 import sys
 import time
@@ -42,6 +43,11 @@ ROUTE_FILE = os.path.join(WORKSPACE_DIR, "task_route.json")
 BOSS_FEEDBACK_FILE = os.path.join(WORKSPACE_DIR, "boss_feedback.txt")
 PROJECT_DB_DIR = os.path.join(WORKSPACE_DIR, "project_db")
 POLL_INTERVAL = 2
+
+YEL_COLOR = "\033[93m"
+GRN_COLOR = "\033[92m"
+RED_COLOR = "\033[91m"
+RESET_CLR = "\033[0m"
 
 
 def read_state() -> str:
@@ -313,19 +319,19 @@ def main():
                         print("[Router] \U0001f3af 识别为单体技能需求，进入技能管线。")
                         write_state("pending_design")
                     elif task_type == "system":
-                        print("[Router] \U0001f3d7\uFE0F 识别为玩法系统需求，进入系统管线。")
+                        print("[Router] \U0001f3d7\uFE0F 识别为玩法系统需求，进入知识驱动管线。")
                         try:
                             subprocess.run(
-                                [sys.executable, os.path.join(ROOT_DIR, "Agents", "system_planner.py")],
+                                [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
                                 check=True, cwd=ROOT_DIR,
                             )
-                            print("[Router] System Planner 执行完毕。")
-                            # system_planner 内部已写 pending_design_approval
+                            print("[Router] Visionary Agent 执行完毕。")
+                            write_state("clarifying_requirements")
                         except subprocess.CalledProcessError as e:
-                            print(f"\033[91m[Router] SystemPlanner 失败（{e.returncode}）\033[0m")
+                            print(f"\033[91m[Router] Visionary 失败（{e.returncode}）\033[0m")
                             write_state("idle")
                         except FileNotFoundError:
-                            print("\033[91m[Router] 找不到 system_planner.py\033[0m")
+                            print("\033[91m[Router] 找不到 Skills/system_visionary.py\033[0m")
                             write_state("idle")
                     else:
                         print(f"\033[91m[Router] 非法类别: '{task_type}'\033[0m")
@@ -486,54 +492,136 @@ def main():
                 print("\033[91m[Router] 资产生成失败，打回 idle。\033[0m")
                 write_state("idle")
 
-        # ============================== 系统管线 ==============================
+        # ============================== 系统管线 (三重状态机) ==============================
+        elif current_state == "clarifying_requirements":
+            """
+            追问闭环：Visionary 判断需求是否完备。
+            若返回 need_info → 暂停打印追问 → 等老板回复 → 重跑 Visionary
+            若返回 draft_ready → 推进至草案审批
+            """
+            print("[Router] 正在运行 Visionary 审核需求...")
+            try:
+                result = subprocess.run(
+                    [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
+                    capture_output=True, text=True, cwd=ROOT_DIR,
+                )
+                output = result.stdout + result.stderr
+
+                # 解析 JSON 状态
+                json_match = re.search(r'\{"status"\s*:\s*"(need_info|draft_ready)"[^}]*\}', output)
+                if json_match:
+                    status_data = json.loads(json_match.group(0))
+                    st = status_data.get("status")
+                    if st == "need_info":
+                        question = status_data.get("question", "")
+                        print(f"\n{YEL_COLOR}============================================================{RESET}")
+                        print(f"{YEL_COLOR}[主策追问] {question}{RESET}")
+                        print(f"{YEL_COLOR}============================================================{RESET}")
+                        user_reply = input("[Router] 请输入您的回复（补充需求信息）: ").strip()
+                        if user_reply:
+                            try:
+                                with open(CONCEPT_FILE, "a", encoding="utf-8") as f:
+                                    f.write(f"\n\n[老板补充] {user_reply}")
+                                print(f"[Router] 已将补充内容追加至概念简案。")
+                            except Exception as e:
+                                print(f"[Router][警告] 无法追加: {e}")
+                        # 保持 clarifying_requirements，下一轮心跳自动重新运行 Visionary
+                        write_state("clarifying_requirements")
+                    elif st == "draft_ready":
+                        print(f"{GRN_COLOR}[Router] 需求已完备，设计草案已生成！{RESET}")
+                        write_state("pending_design_approval")
+                else:
+                    print(f"\033[91m[Router] 无法解析 Visionary 输出状态\033[0m")
+                    write_state("idle")
+            except Exception as e:
+                print(f"\033[91m[Router] Visionary 执行异常: {e}\033[0m")
+                write_state("idle")
+
         elif current_state == "pending_design_approval":
             """
-            双轨审批：系统设计草案 (system_design_draft.md) 已生成。
-            选项 A (y) = 直接通过
-            选项 B (已手动修改) = 通过
-            选项 C (其他) = 反馈重写
+            草案审查黑板：审阅 system_design_draft.md → 通过后进入 PM 排期
             """
             draft_path = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
 
             print("\033[93m" + "=" * 60 + "\033[0m")
-            print(f"\033[93m[审批节点] 系统设计草案已生成于: {draft_path}\033[0m")
-            print("[审批节点] 请打开上述文件审阅设计内容。")
-            print("\033[93m" + "=" * 60 + "\033[0m")
-            print("[审批节点] \U0001f449 选项 A (直接通过): 输入 'y'")
-            print("[审批节点] \U0001f449 选项 B (手动修改通过): 如果您已直接在 MD 文件中修改完毕，请输入 '已手动修改，请继续'")
-            print("[审批节点] \U0001f449 选项 C (对话让 AI 改): 直接输入您的修改意见（例如：'加上公会等级限制'），AI 将重写文档")
+            print(f"\033[93m[草案审查] 设计草案已生成于: {draft_path}\033[0m")
+            print("[草案审查] 您可以直接修改该文件，或在下方输入修改意见打回。若确认无误，请输入 'y' 进入任务拆解：")
             print("\033[93m" + "=" * 60 + "\033[0m")
 
-            user_input = input("[审批节点] 请输入: ").strip()
+            user_input = input("[草案审查] 请输入: ").strip()
 
             if user_input.lower() == "y" or "已手动修改" in user_input:
-                print(f"\033[92m[审批节点] 老板放行！设计草案已确认。\033[0m")
-                # 如果是手动修改，重新读取 MD（用户已编辑）
-                if "已手动修改" in user_input:
-                    print("[审批节点] 检测到手动修改，将以当前 MD 文件内容为准。")
-                write_state("pending_schema_translate")
+                print(f"\033[92m[草案审查] 老板放行！设计草案已确认，进入 PM 任务拆解。\033[0m")
+                # 调用 Task Planner 生成 task_plan.md
+                try:
+                    subprocess.run(
+                        [sys.executable, os.path.join(ROOT_DIR, "Skills", "task_planner.py")],
+                        check=True, cwd=ROOT_DIR,
+                    )
+                    print("[Router] Task Planner 执行完毕。")
+                    # task_planner 内部已写 pending_plan_approval
+                except subprocess.CalledProcessError as e:
+                    print(f"\033[91m[Router] TaskPlanner 失败（{e.returncode}）\033[0m")
+                    write_state("idle")
+                except FileNotFoundError:
+                    print("\033[91m[Router] 找不到 Skills/task_planner.py\033[0m")
+                    write_state("idle")
             else:
-                print(f"\033[91m[审批节点] 老板打回！意见: {user_input}\033[0m")
+                print(f"\033[91m[草案审查] 老板打回！意见: {user_input}\033[0m")
                 try:
                     with open(BOSS_FEEDBACK_FILE, "w", encoding="utf-8") as f:
                         f.write(user_input)
-                    print(f"[审批节点] 修改意见已保存至: {BOSS_FEEDBACK_FILE}")
                 except Exception as e:
-                    print(f"[审批节点][警告] 无法保存反馈: {e}")
-                # 打回 system_planner 重写 MD
+                    print(f"[草案审查][警告] 无法保存反馈: {e}")
+                # 打回 Visionary 重写 MD
                 try:
                     subprocess.run(
-                        [sys.executable, os.path.join(ROOT_DIR, "Agents", "system_planner.py")],
+                        [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
                         check=True, cwd=ROOT_DIR,
                     )
-                    print("[Router] System Planner 已根据反馈重新生成草案。")
-                        # system_planner 内部会写回 pending_design_approval
+                    print("[Router] Visionary 已根据反馈重新生成草案。")
                 except subprocess.CalledProcessError as e:
-                    print(f"\033[91m[Router] SystemPlanner 重试失败（{e.returncode}）\033[0m")
+                    print(f"\033[91m[Router] Visionary 重试失败（{e.returncode}）\033[0m")
                     write_state("idle")
                 except FileNotFoundError:
-                    print("\033[91m[Router] 找不到 system_planner.py\033[0m")
+                    print("\033[91m[Router] 找不到 system_visionary.py\033[0m")
+                    write_state("idle")
+
+        elif current_state == "pending_plan_approval":
+            """
+            计划审查黑板：审阅 task_plan.md → 通过后进入执行阶段
+            """
+            plan_path = os.path.join(WORKSPACE_DIR, "task_plan.md")
+
+            print("\033[93m" + "=" * 60 + "\033[0m")
+            print(f"\033[93m[计划审查] 任务拆解计划已生成于: {plan_path}\033[0m")
+            print("[计划审查] 输入修改意见重新排期，或输入 'y' 正式派发给子 Agent 团队执行：")
+            print("\033[93m" + "=" * 60 + "\033[0m")
+
+            user_input = input("[计划审查] 请输入: ").strip()
+
+            if user_input.lower() == "y":
+                print(f"\033[92m[计划审查] 老板放行！头部管线通过，进入执行阶段。\033[0m")
+                write_state("pending_schema_translate")
+            else:
+                print(f"\033[91m[计划审查] 老板打回！意见: {user_input}\033[0m")
+                try:
+                    with open(BOSS_FEEDBACK_FILE, "w", encoding="utf-8") as f:
+                        f.write(user_input)
+                except Exception as e:
+                    print(f"[计划审查][警告] 无法保存反馈: {e}")
+                # 打回 Task Planner 重新排期
+                try:
+                    subprocess.run(
+                        [sys.executable, os.path.join(ROOT_DIR, "Skills", "task_planner.py")],
+                        check=True, cwd=ROOT_DIR,
+                    )
+                    print("[Router] Task Planner 已重新排期。")
+                except subprocess.CalledProcessError as e:
+                    print(f"\033[91m[Router] TaskPlanner 重试失败（{e.returncode}）\033[0m")
+                    write_state("idle")
+                except FileNotFoundError:
+                    print("\033[91m[Router] 找不到 task_planner.py\033[0m")
                     write_state("idle")
 
         elif current_state == "pending_schema_translate":

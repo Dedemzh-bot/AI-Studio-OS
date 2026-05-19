@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "document_type": "Game Design Document (GDD) Draft",
+  "target_audience": "Project Manager, Sub-Agents (System/Numerical/UI)",
+  "mandatory_sections": {
+    "1_Overview": {
+      "title": "一、系统概述与设计愿景",
+      "description": "简述系统目的，并强制说明该系统如何契合《Project Vision》中的核心支柱（尤其是如何强化角色表现或羁绊）。"
+    },
+    "2_Core_Mechanics": {
+      "title": "二、核心规则与玩法机制",
+      "description": "详细描述该系统的玩法循环、参与条件、重置规则等底层逻辑。"
+    },
+    "3_Fanservice_Integration": {
+      "title": "三、表现层与角色展示联动 (核心强制项)",
+      "description": "【核心设计原则】：无论当前设计的是玩法系统、活动系统还是纯数值成长系统，都必须强制考虑加入展示角色 3D 模型或 2D 立绘的环节，以凸显女角色魅力。必须在本文档中具体列出：1. 本系统如何在 UI/场景中最大化展示角色？ 2. 是否有特殊机位、擦边互动、物理抖动反馈或私密语音解锁？ 3. 互动设计是否严格遵守了"止步于擦边暗示、无实质性行为"的底线？"
+    },
+    "4_Economy_And_Monetization": {
+      "title": "四、经济循环与商业化埋点",
+      "description": "本系统的产出资源是什么？消耗什么？是否有刺激玩家抽取新角色或购买皮肤的暗示性设计？"
+    },
+    "5_System_Dependencies": {
+      "title": "五、旧系统与数据联动 (强依赖)",
+      "description": "列出该系统需要调用 project_codex.md 中的哪些已有 ID（如：公会代币ID、好感度系统接口）。如果没有，明确说明需要新增哪些全局接口。"
+    },
+    "6_Open_Questions": {
+      "title": "六、待确认风险与追问 (Consultant Clause)",
+      "description": "基于专业敏感度，列出当前设计草案中可能存在的数值黑洞、逻辑缺失或表现层实现难点，并向老板提出至少一个需要定夺的问题。"
+    }
+  },
+  "formatting_rules": [
+    "必须使用纯 Markdown 格式输出全文。",
+    "不要嵌套任何无法解析的自定义 HTML 标签。",
+    "每一节的标题必须完全匹配 mandatory_sections 中的 title。"
+  ]
+}
