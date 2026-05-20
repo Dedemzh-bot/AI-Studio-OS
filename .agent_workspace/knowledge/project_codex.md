@@ -5,12 +5,16 @@
 > 主键/外键已严格区分：只记录本模块主键 ID。
 
 ## 系统概览
-- 已有系统模块: role_private_dormitory
+- 已有系统模块: achievement, action_trigger, affection, dormitory_loading, dormitory_purchase, furniture, interaction_detection, minigame
 
 ## 已占用的主键 ID（范围压缩 / 去重截断）
-- （未检测到）
+- 共 4 组
+  - `[achievement] achievement_id: 1 ~ 3`
+  - `[dormitory_loading] dormitory_id: 1 ~ 3`
+  - `[furniture] furniture_id: 1 ~ 3`
+  - `[minigame] minigame_id: 1 ~ 3`
 
 ## 业务数据表清单
-- **system_numerical_data.json** (1.1 KB) | 顶级 Key: `role_private_dormitory`
-- **system_numerical_docs.json** (2.8 KB) | 顶级 Key: `system_summary, field_dictionary, relations_and_enums, implementation_notes`
-- **system_schema.json** (0.5 KB) | 模块: role_private_dormitory
+- **system_numerical_data.json** (5.3 KB) | 顶级 Key: `dormitory_purchase, dormitory_loading, interaction_detection, action_trigger, minigame, affection, achievement, furniture` | 主键: [dormitory_loading] dormitory_id: 1 ~ 3, [minigame] minigame_id: 1 ~ 3, [achievement] achievement_id: 1 ~ 3, [furniture] furniture_id: 1 ~ 3
+- **system_numerical_docs.json** (5.0 KB) | 顶级 Key: `system_summary, field_dictionary, relations_and_enums, implementation_notes`
+- **system_schema.json** (2.7 KB) | 模块: achievement, action_trigger, affection, dormitory_loading, dormitory_purchase, furniture, interaction_detection, minigame

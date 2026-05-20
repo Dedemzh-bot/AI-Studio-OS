@@ -1,0 +1,30 @@
+[
+  {
+    "interaction_type": "click",
+    "target_body_part": "head",
+    "target_furniture_id": 0,
+    "slide_direction": "none",
+    "is_valid": 1
+  },
+  {
+    "interaction_type": "slide",
+    "target_body_part": "arm",
+    "target_furniture_id": 0,
+    "slide_direction": "up",
+    "is_valid": 1
+  },
+  {
+    "interaction_type": "drag",
+    "target_body_part": "none",
+    "target_furniture_id": 1,
+    "slide_direction": "none",
+    "is_valid": 1
+  },
+  {
+    "interaction_type": "click",
+    "target_body_part": "leg",
+    "target_furniture_id": 0,
+    "slide_direction": "none",
+    "is_valid": 0
+  }
+]

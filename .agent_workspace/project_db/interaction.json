@@ -1,0 +1,20 @@
+[
+  {
+    "basic_interaction_no_affection": false,
+    "all_interaction_no_affection": false,
+    "has_interaction_item": false,
+    "is_special_state": false
+  },
+  {
+    "basic_interaction_no_affection": true,
+    "all_interaction_no_affection": false,
+    "has_interaction_item": false,
+    "is_special_state": false
+  },
+  {
+    "basic_interaction_no_affection": true,
+    "all_interaction_no_affection": true,
+    "has_interaction_item": false,
+    "is_special_state": false
+  }
+]

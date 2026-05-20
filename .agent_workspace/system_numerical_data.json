@@ -1,47 +1,226 @@
 {
-  "role_private_dormitory": {
+  "dormitory_purchase": {
     "continuous_formulas": {
-      "affection_level": {
-        "base": 0,
-        "growth": 1,
+      "purchase_price": {
+        "base": 500,
+        "growth": 200,
         "type": "linear"
       },
-      "daily_minigame_limit": {
-        "base": 3,
-        "growth": 1,
-        "type": "linear"
-      },
-      "touch_fatigue_timer_max": {
-        "base": 60.0,
-        "growth": 5.0,
-        "type": "linear"
-      },
-      "touch_fatigue_decay_rate": {
-        "base": 1.0,
-        "growth": 0.1,
-        "type": "linear"
-      },
-      "minigame_trigger_probability": {
-        "base": 0.1,
-        "growth": 0.05,
+      "unlock_level": {
+        "base": 10,
+        "growth": 5,
         "type": "linear"
       }
     },
     "discrete_milestones": {
-      "affection_level_5": {
-        "dormitory_unlocked": 1,
-        "special_furniture_unlocked": 0,
-        "skin_purchased": 0
+      "1": {
+        "character_id": 101,
+        "is_purchased": 0
       },
-      "affection_level_10": {
-        "dormitory_unlocked": 1,
-        "special_furniture_unlocked": 1,
-        "skin_purchased": 0
+      "2": {
+        "character_id": 102,
+        "is_purchased": 0
       },
-      "affection_level_20": {
-        "dormitory_unlocked": 1,
-        "special_furniture_unlocked": 1,
-        "skin_purchased": 1
+      "3": {
+        "character_id": 103,
+        "is_purchased": 0
+      }
+    }
+  },
+  "dormitory_loading": {
+    "continuous_formulas": {},
+    "discrete_milestones": {
+      "1": {
+        "dormitory_id": 1,
+        "character_id": 101,
+        "is_purchased": 0
+      },
+      "2": {
+        "dormitory_id": 2,
+        "character_id": 102,
+        "is_purchased": 0
+      },
+      "3": {
+        "dormitory_id": 3,
+        "character_id": 103,
+        "is_purchased": 0
+      }
+    }
+  },
+  "interaction_detection": {
+    "continuous_formulas": {},
+    "discrete_milestones": {
+      "1": {
+        "interaction_type": "click",
+        "target_body_part": "head",
+        "target_furniture_id": 0,
+        "slide_direction": "none",
+        "is_valid": 1
+      },
+      "2": {
+        "interaction_type": "slide",
+        "target_body_part": "arm",
+        "target_furniture_id": 0,
+        "slide_direction": "up",
+        "is_valid": 1
+      },
+      "3": {
+        "interaction_type": "drag",
+        "target_body_part": "none",
+        "target_furniture_id": 1,
+        "slide_direction": "none",
+        "is_valid": 1
+      },
+      "4": {
+        "interaction_type": "click",
+        "target_body_part": "leg",
+        "target_furniture_id": 0,
+        "slide_direction": "none",
+        "is_valid": 0
+      }
+    }
+  },
+  "action_trigger": {
+    "continuous_formulas": {},
+    "discrete_milestones": {
+      "1": {
+        "interaction_type": "click",
+        "target_body_part": "head",
+        "target_furniture_id": 0,
+        "slide_direction": "none"
+      },
+      "2": {
+        "interaction_type": "slide",
+        "target_body_part": "arm",
+        "target_furniture_id": 0,
+        "slide_direction": "up"
+      },
+      "3": {
+        "interaction_type": "drag",
+        "target_body_part": "none",
+        "target_furniture_id": 1,
+        "slide_direction": "none"
+      }
+    }
+  },
+  "minigame": {
+    "continuous_formulas": {
+      "target_score": {
+        "base": 100,
+        "growth": 50,
+        "type": "linear"
+      },
+      "remaining_time": {
+        "base": 60,
+        "growth": -5,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "1": {
+        "minigame_id": 1,
+        "minigame_type": "puzzle",
+        "is_active": 0,
+        "current_score": 0,
+        "is_victory": 0
+      },
+      "2": {
+        "minigame_id": 2,
+        "minigame_type": "rhythm",
+        "is_active": 0,
+        "current_score": 0,
+        "is_victory": 0
+      },
+      "3": {
+        "minigame_id": 3,
+        "minigame_type": "memory",
+        "is_active": 0,
+        "current_score": 0,
+        "is_victory": 0
+      }
+    }
+  },
+  "affection": {
+    "continuous_formulas": {
+      "daily_affection_limit": {
+        "base": 100,
+        "growth": 20,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "101": {
+        "character_id": 101,
+        "total_affection": 0,
+        "daily_affection_gained": 0,
+        "last_interaction_date": 0
+      },
+      "102": {
+        "character_id": 102,
+        "total_affection": 0,
+        "daily_affection_gained": 0,
+        "last_interaction_date": 0
+      },
+      "103": {
+        "character_id": 103,
+        "total_affection": 0,
+        "daily_affection_gained": 0,
+        "last_interaction_date": 0
+      }
+    }
+  },
+  "achievement": {
+    "continuous_formulas": {},
+    "discrete_milestones": {
+      "1": {
+        "achievement_id": 1,
+        "achievement_name": "初次互动",
+        "is_unlocked": 0,
+        "unlock_condition_type": "interaction",
+        "unlock_condition_value": 1,
+        "current_progress": 0
+      },
+      "2": {
+        "achievement_id": 2,
+        "achievement_name": "好感达人",
+        "is_unlocked": 0,
+        "unlock_condition_type": "affection",
+        "unlock_condition_value": 500,
+        "current_progress": 0
+      },
+      "3": {
+        "achievement_id": 3,
+        "achievement_name": "游戏高手",
+        "is_unlocked": 0,
+        "unlock_condition_type": "minigame",
+        "unlock_condition_value": 3,
+        "current_progress": 0
+      }
+    }
+  },
+  "furniture": {
+    "continuous_formulas": {},
+    "discrete_milestones": {
+      "1": {
+        "furniture_id": 1,
+        "furniture_name": "床",
+        "interaction_zone": "bed_center",
+        "drag_to_count": 3,
+        "associated_action_id": 101
+      },
+      "2": {
+        "furniture_id": 2,
+        "furniture_name": "沙发",
+        "interaction_zone": "sofa_seat",
+        "drag_to_count": 2,
+        "associated_action_id": 102
+      },
+      "3": {
+        "furniture_id": 3,
+        "furniture_name": "桌子",
+        "interaction_zone": "table_top",
+        "drag_to_count": 1,
+        "associated_action_id": 103
       }
     }
   }

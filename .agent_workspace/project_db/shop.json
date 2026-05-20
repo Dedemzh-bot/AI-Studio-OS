@@ -1,0 +1,14 @@
+[
+  {
+    "insufficient_currency": false,
+    "is_limited_time": false,
+    "is_owned": false,
+    "is_character_exclusive": false
+  },
+  {
+    "insufficient_currency": true,
+    "is_limited_time": false,
+    "is_owned": false,
+    "is_character_exclusive": false
+  }
+]

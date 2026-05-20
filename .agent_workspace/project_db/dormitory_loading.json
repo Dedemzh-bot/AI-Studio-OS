@@ -1,0 +1,17 @@
+[
+  {
+    "dormitory_id": 1,
+    "character_id": 101,
+    "is_purchased": 0
+  },
+  {
+    "dormitory_id": 2,
+    "character_id": 102,
+    "is_purchased": 0
+  },
+  {
+    "dormitory_id": 3,
+    "character_id": 103,
+    "is_purchased": 0
+  }
+]

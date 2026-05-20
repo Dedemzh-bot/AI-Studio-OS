@@ -1,4 +1,77 @@
 {
   "description": "全局资产注册表 — 记录所有业务数据表中的主键 ID 及其备注名",
-  "entries": []
+  "entries": [
+    {
+      "module": "achievement",
+      "field": "achievement_id",
+      "id": "1",
+      "display_name": "初次互动"
+    },
+    {
+      "module": "achievement",
+      "field": "achievement_id",
+      "id": "2",
+      "display_name": "好感达人"
+    },
+    {
+      "module": "achievement",
+      "field": "achievement_id",
+      "id": "3",
+      "display_name": "游戏高手"
+    },
+    {
+      "module": "dormitory_loading",
+      "field": "dormitory_id",
+      "id": "1",
+      "display_name": null
+    },
+    {
+      "module": "dormitory_loading",
+      "field": "dormitory_id",
+      "id": "2",
+      "display_name": null
+    },
+    {
+      "module": "dormitory_loading",
+      "field": "dormitory_id",
+      "id": "3",
+      "display_name": null
+    },
+    {
+      "module": "furniture",
+      "field": "furniture_id",
+      "id": "1",
+      "display_name": "床"
+    },
+    {
+      "module": "furniture",
+      "field": "furniture_id",
+      "id": "2",
+      "display_name": "沙发"
+    },
+    {
+      "module": "furniture",
+      "field": "furniture_id",
+      "id": "3",
+      "display_name": "桌子"
+    },
+    {
+      "module": "minigame",
+      "field": "minigame_id",
+      "id": "1",
+      "display_name": null
+    },
+    {
+      "module": "minigame",
+      "field": "minigame_id",
+      "id": "2",
+      "display_name": null
+    },
+    {
+      "module": "minigame",
+      "field": "minigame_id",
+      "id": "3",
+      "display_name": null
+    }
+  ]
 }

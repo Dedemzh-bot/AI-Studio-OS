@@ -5,6 +5,7 @@ LLM Client (大模型底层通道)
 """
 
 import os
+import re
 import time
 from pathlib import Path
 
@@ -95,3 +96,36 @@ def ask_llm(
         f"LLM 调用失败，已重试 {MAX_RETRIES} 次。"
         f"最后错误: {last_error}"
     )
+
+
+def safe_extract_json(raw_text: str, agent_label: str = "LLM") -> tuple[str | None, str]:
+    """
+    万能 JSON 剥壳器：从大模型原始返回中鲁棒提取纯 JSON 文本。
+    
+    策略（按优先级）：
+    1. 正则匹配第一个 { 到最后一个 } 或第一个 [ 到最后一个 ]
+    2. 兜底：返回原始文本
+    
+    返回 (json_string, error_message) — 成功时 error_message 为空。
+    """
+    if not raw_text or not raw_text.strip():
+        return None, "[safe_extract_json] 输入文本为空"
+
+    # 策略1: 从第一个 { 到最后一个 } (对象) 或 [ 到 ] (数组)
+    # 使用贪婪匹配 .* 跨越所有中间内容
+    match = re.search(r'(\{.*\}|\[.*\])', raw_text, re.DOTALL)
+    if match:
+        extracted = match.group(1).strip()
+        print(f"[{agent_label}] 剥壳正则命中: 提取 JSON ({len(extracted)} 字符)")
+        return extracted, ""
+
+    # 策略2: 尝试 ```json ... ``` 代码块
+    match = re.search(r"```(?:json)?\s*([\s\S]*?)\s*```", raw_text, re.DOTALL)
+    if match:
+        extracted = match.group(1).strip()
+        print(f"[{agent_label}] 代码块正则命中: 提取 JSON ({len(extracted)} 字符)")
+        return extracted, ""
+
+    # 兜底: 返回 raw 文本
+    print(f"[{agent_label}] 未找到任何结构化标记，使用原始文本")
+    return raw_text.strip(), ""

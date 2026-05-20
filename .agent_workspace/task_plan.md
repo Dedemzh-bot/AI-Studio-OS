@@ -3,134 +3,152 @@
 ## 1. 任务分解
 
 ### System Planner (系统策划)
-- **任务1.1**: 细化互动部位定义与反馈映射表
-  - 输入: 设计草案 (Section 二、三)
-  - 产出: `interaction_zones.md` - 包含部位列表、触发条件、反馈类型(语音/动作/表情)、敏感度等级
-- **任务1.2**: 设计小游戏规则与触发逻辑
-  - 输入: 设计草案 (Section 二.3)
-  - 产出: `minigame_rules.md` - 包含小游戏类型、胜负条件、好感度增减规则、触发概率机制
-- **任务1.3**: 定义宿舍商店与道具系统
-  - 输入: 设计草案 (Section 四)
-  - 产出: `dorm_shop_design.md` - 包含商品列表、价格、解锁条件、道具效果
+
+| 任务 | 输入文件 | 产出文件 |
+|------|----------|----------|
+| SP-01: 细化自由互动碰撞区域定义 | 设计草案 2.3节 | `dormitory_collision_zones.md` - 各部位碰撞区坐标、尺寸、层级关系 |
+| SP-02: 细化小游戏完整规则链 | 设计草案 2.4节 | `dormitory_minigame_rules.md` - 所有5个小游戏的完整规则、判定逻辑、结算条件 |
+| SP-03: 定义好感度阶段与解锁映射 | 设计草案 4.3节 | `dormitory_affection_unlock.md` - 好感度等级→解锁行为/语音/表情的映射表 |
+| SP-04: 定义互动记录表结构 | 设计草案 5.2节 | `dormitory_interaction_record_schema.md` - 每日次数、好感度变化、小游戏胜利记录字段 |
 
 ### Numerical Planner (数值策划)
-- **任务2.1**: 设计好感度增长曲线
-  - 输入: `interaction_zones.md`, `minigame_rules.md`
-  - 产出: `affection_growth.xlsx` - 每次互动/小游戏胜利的好感度增加值，等级解锁阈值
-- **任务2.2**: 设计宿舍币与宿舍券经济模型
-  - 输入: 设计草案 (Section 四)
-  - 产出: `dorm_economy.xlsx` - 宿舍币产出/消耗表，宿舍券每日获取/付费定价
-- **任务2.3**: 设计小游戏触发概率配置
-  - 输入: `minigame_rules.md`
-  - 产出: `minigame_probability.xlsx` - 基础概率、疲劳衰减系数、付费加成
+
+| 任务 | 输入文件 | 产出文件 |
+|------|----------|----------|
+| NP-01: 好感度成长曲线设计 | SP-03产出 + 设计草案 2.3/2.4节 | `dormitory_affection_curve.xlsx` - 单次互动好感度增量、阶段阈值、每日上限 |
+| NP-02: 体力消耗与次数限制数值 | 设计草案 4.2节 | `dormitory_stamina_cost.xlsx` - 每次互动体力消耗、每日上限、恢复速率 |
+| NP-03: 小游戏胜率与奖励数值 | SP-02产出 + 设计草案 2.4/4.2节 | `dormitory_minigame_rewards.xlsx` - 各小游戏胜率、好感度奖励、道具掉落概率 |
+| NP-04: 预览模式诱导付费数值 | 设计草案 4.3节 | `dormitory_preview_conversion.xlsx` - 预览触发语音概率、付费转化率模型 |
 
 ### Schema Translator (格式翻译)
-- **任务3.1**: 翻译互动部位配置为 JSON Schema
-  - 输入: `interaction_zones.md`
-  - 产出: `interaction_zones_schema.json`
-- **任务3.2**: 翻译小游戏规则为 JSON Schema
-  - 输入: `minigame_rules.md`
-  - 产出: `minigame_rules_schema.json`
-- **任务3.3**: 翻译宿舍商店配置为 JSON Schema
-  - 输入: `dorm_shop_design.md`
-  - 产出: `dorm_shop_schema.json`
-- **任务3.4**: 翻译经济模型为 JSON Schema
-  - 输入: `dorm_economy.xlsx`
-  - 产出: `dorm_economy_schema.json`
+
+| 任务 | 输入文件 | 产出文件 |
+|------|----------|----------|
+| ST-01: 自由互动碰撞区域 JSON Schema | SP-01产出 | `dormitory_collision_zones.json` - 碰撞区坐标、类型、触发动作映射 |
+| ST-02: 小游戏规则 JSON Schema | SP-02产出 + NP-03产出 | `dormitory_minigame_rules.json` - 各小游戏判定逻辑、进度条、结算条件 |
+| ST-03: 好感度解锁映射 JSON Schema | SP-03产出 + NP-01产出 | `dormitory_affection_unlock.json` - 等级→行为/语音/表情解锁条件 |
+| ST-04: 互动记录表 JSON Schema | SP-04产出 | `dormitory_interaction_record.json` - 字段类型、约束、默认值 |
+| ST-05: 宿舍解锁表 JSON Schema | 设计草案 5.2节 | `dormitory_unlock_table.json` - 玩家ID、角色ID、购买状态、解锁时间 |
 
 ### Code Agent (程序执行)
-- **任务4.1**: 实现触摸互动系统
-  - 输入: `interaction_zones_schema.json`
-  - 产出: `touch_interaction.gd` - 触摸检测、反馈触发、疲劳逻辑
-- **任务4.2**: 实现小游戏系统
-  - 输入: `minigame_rules_schema.json`
-  - 产出: `minigame_system.gd` - 小游戏管理器、具体游戏逻辑
-- **任务4.3**: 实现宿舍商店系统
-  - 输入: `dorm_shop_schema.json`
-  - 产出: `dorm_shop.gd` - 商品展示、购买逻辑、道具使用
-- **任务4.4**: 实现经济系统集成
-  - 输入: `dorm_economy_schema.json`
-  - 产出: `dorm_economy.gd` - 货币增减、道具消耗、接口对接
-- **任务4.5**: 实现旧系统数据联动
-  - 输入: 设计草案 (Section 五)
-  - 产出: `legacy_integration.gd` - 好感度接口调用、模型加载、语音播放
+
+| 任务 | 输入文件 | 产出文件 |
+|------|----------|----------|
+| CA-01: 碰撞检测与触发系统 | ST-01产出 | `dormitory_collision.gd` - 点击/滑动碰撞检测、部位识别、动作触发 |
+| CA-02: 小游戏核心逻辑 | ST-02产出 | `dormitory_minigame.gd` - 各小游戏状态机、判定逻辑、进度条管理 |
+| CA-03: 好感度管理系统 | ST-03产出 | `dormitory_affection.gd` - 好感度增减、阶段解锁、数据持久化 |
+| CA-04: 互动记录与限制系统 | ST-04产出 | `dormitory_interaction_record.gd` - 每日次数统计、体力消耗、上限检查 |
+| CA-05: 宿舍解锁与购买系统 | ST-05产出 | `dormitory_unlock.gd` - 购买验证、解锁状态、预览模式控制 |
+| CA-06: 镜头控制系统 | 设计草案 3.1节 | `dormitory_camera.gd` - 自由互动跟随、小游戏固定机位、呼吸感晃动 |
 
 ### UI Agent (UX/UI 设计)
-- **任务5.1**: 设计宿舍主界面 UI
-  - 输入: 设计草案 (Section 三)
-  - 产出: `dorm_main_ui.md` - 包含布局、按钮、图标、颜色方案
-- **任务5.2**: 设计互动反馈 UI 元素
-  - 输入: `interaction_zones.md`
-  - 产出: `interaction_feedback_ui.md` - 触摸高亮、表情气泡、好感度进度条
-- **任务5.3**: 设计小游戏 UI
-  - 输入: `minigame_rules.md`
-  - 产出: `minigame_ui.md` - 游戏界面、计分板、结果展示
-- **任务5.4**: 设计宿舍商店 UI
-  - 输入: `dorm_shop_design.md`
-  - 产出: `dorm_shop_ui.md` - 商品列表、购买弹窗、预览功能
+
+| 任务 | 输入文件 | 产出文件 |
+|------|----------|----------|
+| UA-01: 宿舍入口界面设计 | 设计草案 2.1节 | `dormitory_entry_ui.md` - 分页布局、角色选择列表、购买/进入按钮 |
+| UA-02: 自由互动 HUD 设计 | 设计草案 3.1节 | `dormitory_free_hud.md` - 半透明好感度条、体力显示、退出按钮位置 |
+| UA-03: 小游戏界面设计 | SP-02产出 | `dormitory_minigame_ui.md` - 各小游戏UI布局、进度条样式、结算弹窗 |
+| UA-04: 预览模式界面设计 | 设计草案 4.3节 | `dormitory_preview_ui.md` - 30秒倒计时、购买诱导按钮、语音提示 |
+| UA-05: 好感度解锁提示设计 | SP-03产出 | `dormitory_unlock_notification.md` - 新行为/语音解锁弹窗样式 |
 
 ### Audit Agent (审查官)
-- **任务6.1**: 审查互动部位配置
-  - 输入: `interaction_zones_schema.json`
-  - 产出: `audit_interaction_zones.md` - 通过/驳回，含极端情况检测
-- **任务6.2**: 审查小游戏规则
-  - 输入: `minigame_rules_schema.json`
-  - 产出: `audit_minigame_rules.md` - 通过/驳回，含概率平衡检测
-- **任务6.3**: 审查经济模型
-  - 输入: `dorm_economy_schema.json`
-  - 产出: `audit_dorm_economy.md` - 通过/驳回，含通货膨胀检测
+
+| 任务 | 输入文件 | 产出文件 |
+|------|----------|----------|
+| AA-01: 好感度曲线平衡性审查 | NP-01产出 | `audit_affection_curve.md` - 通过/驳回 + 极端值拦截报告 |
+| AA-02: 小游戏奖励平衡性审查 | NP-03产出 | `audit_minigame_rewards.md` - 胜率合理性、道具产出频率审查 |
+| AA-03: 体力消耗与付费转化审查 | NP-02产出 + NP-04产出 | `audit_economy_balance.md` - 每日产出上限、付费诱导强度审查 |
+| AA-04: 擦边尺度合规性审查 | 设计草案 3.2节 + 所有产出 | `audit_content_compliance.md` - 语音/动作/物理反馈尺度审查 |
 
 ### Combat Agent (战斗策划)
-- **任务7.1**: 设计互动语音与动作触发数值
-  - 输入: `interaction_zones.md`
-  - 产出: `interaction_combat_values.json` - 语音ID、动作ID、触发权重
-- **任务7.2**: 设计小游戏胜负因果链
-  - 输入: `minigame_rules.md`
-  - 产出: `minigame_combat_values.json` - 胜负概率、奖励倍率、疲劳累积
+
+| 任务 | 输入文件 | 产出文件 |
+|------|----------|----------|
+| CA-01: 小游戏技能数值设计 | SP-02产出 | `dormitory_minigame_skills.json` - 各小游戏操作判定阈值、速度/力度参数 |
+| CA-02: 互动反馈因果链设计 | 设计草案 2.3节 | `dormitory_interaction_feedback.json` - 点击/滑动→动作/语音/好感度的因果映射 |
 
 ## 2. 执行顺序与依赖
 
-### 串行依赖链
+### 串行依赖链（必须按顺序执行）
+
 ```
-Phase 1: 基础设计
-  System Planner (1.1, 1.2, 1.3) → 并行
+Phase 1: 系统设计
+SP-01 → SP-02 → SP-03 → SP-04
+  ↓        ↓        ↓        ↓
+Phase 2: 数值设计
+NP-01 ← SP-03
+NP-02 ← 设计草案
+NP-03 ← SP-02
+NP-04 ← 设计草案
   ↓
-Phase 2: 数值与格式
-  Numerical Planner (2.1, 2.2, 2.3) → 并行
-  Schema Translator (3.1, 3.2, 3.3, 3.4) → 并行
+Phase 3: 格式翻译
+ST-01 ← SP-01 + NP-01
+ST-02 ← SP-02 + NP-03
+ST-03 ← SP-03 + NP-01
+ST-04 ← SP-04
+ST-05 ← 设计草案
   ↓
-Phase 3: 审查与开发
-  Audit Agent (6.1, 6.2, 6.3) → 并行 (依赖 Phase 2 产出)
-  Combat Agent (7.1, 7.2) → 并行 (依赖 Phase 1 产出)
+Phase 4: 代码实现
+CA-01 ← ST-01
+CA-02 ← ST-02
+CA-03 ← ST-03
+CA-04 ← ST-04
+CA-05 ← ST-05
+CA-06 ← 设计草案
   ↓
-Phase 4: 实现与UI
-  Code Agent (4.1, 4.2, 4.3, 4.4, 4.5) → 并行 (依赖 Phase 3 通过)
-  UI Agent (5.1, 5.2, 5.3, 5.4) → 并行 (依赖 Phase 1 产出)
+Phase 5: 审查
+AA-01 ← NP-01
+AA-02 ← NP-03
+AA-03 ← NP-02 + NP-04
+AA-04 ← 所有产出
 ```
 
 ### 可并行任务
-- **Phase 1 内部**: System Planner 的三个任务完全独立
-- **Phase 2 内部**: Numerical Planner 与 Schema Translator 可并行
-- **Phase 3 内部**: Audit Agent 与 Combat Agent 可并行
-- **Phase 4 内部**: Code Agent 与 UI Agent 可并行
 
-### 关键依赖点
-- **Code Agent 必须等待 Audit Agent 通过**，否则可能返工
-- **UI Agent 可提前基于设计草案开始**，但最终需与 Code Agent 对齐
+| 并行组 | 任务列表 | 说明 |
+|--------|----------|------|
+| 设计并行 | SP-01, SP-02, SP-03, SP-04 | 系统策划可同时细化不同模块 |
+| 数值并行 | NP-01, NP-02, NP-03, NP-04 | 数值策划可独立设计不同数值曲线 |
+| 翻译并行 | ST-01, ST-02, ST-03, ST-04, ST-05 | Schema翻译可并行进行 |
+| 代码并行 | CA-01, CA-02, CA-03, CA-04, CA-05, CA-06 | 各模块代码可独立开发 |
+| UI并行 | UA-01, UA-02, UA-03, UA-04, UA-05 | UI设计可独立进行 |
+| 审查并行 | AA-01, AA-02, AA-03, AA-04 | 审查可并行进行 |
+| 战斗并行 | CA-01, CA-02 | 战斗数值可独立设计 |
+
+### 整体执行时间线
+
+```
+Week 1: SP-01~04 (系统设计)
+Week 2: NP-01~04 + UA-01~05 (数值+UI并行)
+Week 3: ST-01~05 (格式翻译)
+Week 4: CA-01~06 + CA-01~02 (代码+战斗并行)
+Week 5: AA-01~04 (审查)
+```
 
 ## 3. 风险提示
 
-### 阻塞点
-1. **旧系统接口不兼容**: 好感度、模型、语音系统可能缺少必要接口，需提前确认 API 文档
-2. **3D模型精度问题**: 宿舍模型需更高精度，可能超出当前渲染管线能力，需评估性能
-3. **语音资源不足**: ASMR 级别语音录制周期长，可能成为关键路径瓶颈
+### 阻塞点风险
+
+| 风险编号 | 风险描述 | 影响范围 | 缓解措施 |
+|----------|----------|----------|----------|
+| R1 | SP-01碰撞区域定义不精确，导致CA-01碰撞检测实现困难 | CA-01阻塞 | SP需提供坐标参考图，与程序预沟通实现可行性 |
+| R2 | NP-01好感度曲线与SP-03解锁映射不匹配 | ST-03、CA-03阻塞 | NP与SP需在Phase 1结束时对齐数据 |
+| R3 | ST-02小游戏规则JSON结构复杂，CA-02实现时发现逻辑漏洞 | CA-02阻塞 | ST需在翻译前与程序确认JSON结构可行性 |
+| R4 | UA-01~05设计稿与CA-06镜头控制冲突 | UI与代码联调阻塞 | UI设计需参考镜头控制边界，提前沟通 |
 
 ### 跨团队依赖冲突
-1. **System Planner vs. Numerical Planner**: 互动部位定义可能影响好感度增长曲线设计，需同步迭代
-2. **Combat Agent vs. Code Agent**: 语音/动作 ID 映射需与程序实现一致，避免硬编码
-3. **UI Agent vs. Code Agent**: UI 布局需与触摸检测区域对齐，否则交互失效
+
+| 冲突编号 | 冲突描述 | 涉及团队 | 解决方案 |
+|----------|----------|----------|----------|
+| C1 | SP-03好感度解锁映射中“拥抱”动作需要新动画资源，但动画资源不在本系统范围内 | SP、程序、美术 | SP需明确标注“拥抱”为动画资源依赖，提前向美术团队申请 |
+| C2 | NP-02体力消耗需要调用体力系统接口(STAMINA_001)，但接口文档未明确调用方式 | NP、程序 | NP需在数值设计前确认接口调用规范 |
+| C3 | UA-02半透明HUD设计需要引擎支持，但Godot 4的UI渲染优先级可能影响性能 | UI、程序 | UI需提供性能预估，程序需测试半透明UI对3D渲染的影响 |
+| C4 | AA-04擦边尺度审查需要法务/合规团队参与，但未在花名册中 | 审查、法务 | 需提前协调法务资源，或在审查标准中明确底线条款 |
 
 ### 其他风险
-- **小游戏概率平衡**: 付费加成可能破坏免费玩家体验，需 Audit Agent 严格审查
-- **擦边红线**: 所有互动设计需经法务确认，避免违规下架
-- **性能优化**: 物理抖动和材质表现可能影响低端设备帧率，需预留优化时间
+
+| 风险编号 | 风险描述 | 影响范围 | 缓解措施 |
+|----------|----------|----------|----------|
+| R5 | 50+条互动语音录制需要声优资源，可能成为项目瓶颈 | 所有表现层 | 提前启动声优预约，或使用AI语音生成作为备选 |
+| R6 | 小游戏“换装”涉及新服装模型资源，可能超出本系统范围 | SP-02、CA-02 | SP需明确“换装”小游戏是否使用已有服装资源 |
+| R7 | 648付费钻定价可能引发玩家负面反馈，需市场团队评估 | 商业化 | 提前与市场团队沟通定价策略，准备备选方案 |

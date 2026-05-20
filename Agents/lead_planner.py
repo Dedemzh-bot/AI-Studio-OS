@@ -12,7 +12,7 @@ import glob
 # 将项目根目录加入 sys.path，确保能导入 Skills 模块
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from Skills.llm_client import ask_llm
+from Skills.llm_client import ask_llm, safe_extract_json
 
 # ---- 路径配置（全部使用绝对路径） ----
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -140,11 +140,16 @@ def main():
         sys.exit(1)
 
     json_str = json_match.group(1).strip()
-
-    # 清理可能被模型包裹的 ```json ... ``` 代码块标记
-    code_block_match = re.search(r"```(?:json)?\s*(.*?)\s*```", json_str, re.DOTALL)
-    if code_block_match:
-        json_str = code_block_match.group(1).strip()
+    # 去嵌套的 ```json ``` 标记
+    inner_code = re.search(r"```(?:json)?\s*([\s\S]*?)\s*```", json_str, re.DOTALL)
+    if inner_code:
+        json_str = inner_code.group(1).strip()
+    # 兜底：万能剥壳
+    if not json_str:
+        json_str, _ = safe_extract_json(response, "LeadPlanner")
+        if not json_str:
+            print_error("JSON Schema 提取完全失败")
+            sys.exit(1)
 
     # 验证 JSON 合法性
     try:

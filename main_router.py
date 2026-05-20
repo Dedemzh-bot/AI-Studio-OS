@@ -2,7 +2,7 @@
 Main Router (核心中枢 / 24h 常驻守护进程)
 职责：基于状态机轮询 task_status.json 调度所有子 Agent 和 Guards。
 
-状态流转（碎片化 HITL 审批 / 环形永不退出）：
+状态流转（V3 线性 HITL 审批 / 严格单向 / 杜绝循环）：
   idle --> pending_classification
     |--> (skill) pending_design --> pending_schema_approval --> pending_execution
     |         --> pending_validation --> pending_audit --> pending_data_approval
@@ -10,9 +10,9 @@ Main Router (核心中枢 / 24h 常驻守护进程)
     |
     |--> (system) system_visionary --> clarifying_requirements
               --> pending_design_approval --> pending_plan_approval
-              --> pending_system_approval --> pending_schema_translate
-              --> pending_translate_approval --> pending_numerical
-              --> pending_numerical_approval --> completed(归档) --> idle
+              --> pending_system_design --> pending_system_approval
+              --> pending_schema_translate --> pending_numerical --> pending_numerical_approval
+              --> completed(归档) --> idle
 """
 
 import json
@@ -169,14 +169,28 @@ def _trim_open_questions_if_unchanged():
     return False
 
 
-def _save_retry_count(count: int):
-    """保存当前 Agent 的重试计数。"""
+def _save_retry_count(agent: str, count: int):
+    """保存指定 Agent 的重试计数。"""
     try:
         os.makedirs(WORKSPACE_DIR, exist_ok=True)
         with open(RETRY_COUNT_FILE, "w", encoding="utf-8") as f:
-            json.dump({"count": count}, f)
+            json.dump({"agent": agent, "count": count}, f)
     except Exception:
         pass
+
+
+def _get_retry_count(agent: str) -> int:
+    """读取指定 Agent 的重试计数，如果不是同一 Agent 则归零。"""
+    if not os.path.exists(RETRY_COUNT_FILE):
+        return 0
+    try:
+        with open(RETRY_COUNT_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if data.get("agent") == agent:
+            return data.get("count", 0)
+        return 0
+    except Exception:
+        return 0
 
 
 def _clear_retry_count():
@@ -769,8 +783,8 @@ def main():
             user_input = input("[计划审查] 请输入: ").strip()
 
             if user_input.lower() == "y":
-                print(f"\033[92m[计划审查] 老板放行！进入系统设计最终验收。\033[0m")
-                write_state("pending_system_approval")
+                print(f"\033[92m[计划审查] 老板放行！进入系统策划详细设计阶段。\033[0m")
+                write_state("pending_system_design")
             else:
                 print(f"\033[91m[计划审查] 老板打回！意见: {user_input}\033[0m")
                 try:
@@ -792,20 +806,46 @@ def main():
                     print("\033[91m[Router] 找不到 task_planner.py\033[0m")
                     write_state("idle")
 
+        elif current_state == "pending_system_design":
+            """
+            系统策划执行：调用 System Planner 生成详细玩法规则 MD。
+            不输出 WBS / PM 派单指令，只负责把玩法规则讲透。
+            """
+            print("[Router] 正在调用 System Planner 生成详细设计草案...")
+            try:
+                subprocess.run(
+                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "system_planner.py")],
+                    check=True, cwd=ROOT_DIR,
+                )
+                print("[Router] System Planner 执行完毕，生成系统详细设计 MD。")
+                # system_planner 内部已写 pending_system_approval
+            except subprocess.CalledProcessError as e:
+                if e.returncode == 2 and _get_retry_count("system_planner") < 2:
+                    c = _get_retry_count("system_planner") + 1
+                    _save_retry_count("system_planner", c)
+                    print(f"\033[93m[Router] SystemPlanner 重试 ({c}/2)...\033[0m")
+                else:
+                    _clear_retry_count()
+                    print(f"\033[91m[Router] SystemPlanner 失败（{e.returncode}）\033[0m")
+                    write_state("idle")
+            except FileNotFoundError:
+                print("\033[91m[Router] 找不到 system_planner.py\033[0m")
+                write_state("idle")
+
         elif current_state == "pending_system_approval":
             """
-            系统设计最终验收：老板审阅完整设计草案 + 任务拆解计划，确认后进入执行。
+            V3 系统设计最终验收：老板审阅 System Planner 详细设计 → 放行进入 JSON 翻译。
             """
             draft_path = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
             plan_path = os.path.join(WORKSPACE_DIR, "task_plan.md")
 
             print("\033[93m" + "=" * 60 + "\033[0m")
-            print("\033[93m[系统验收] 系统策划已完成详细玩法设计与脑暴。\033[0m")
+            print("\033[93m[系统验收] 系统策划已完成详细玩法规则设计。\033[0m")
             if os.path.exists(draft_path):
-                print(f"[系统验收] 设计草案: {draft_path} ({os.path.getsize(draft_path)} 字节)")
+                print(f"[系统验收] 详细设计 MD: {draft_path} ({os.path.getsize(draft_path)} 字节)")
             if os.path.exists(plan_path):
                 print(f"[系统验收] 任务拆解: {plan_path} ({os.path.getsize(plan_path)} 字节)")
-            print("[系统验收] 请输入您的修改意见打回重做；或输入 'y' 批准该设计，正式进入 Schema 翻译与数值配置阶段：")
+            print("[系统验收] 输入修改意见打回系统策划重设计；或输入 'y' 批准，进入 Schema 翻译与数值配置阶段：")
             print("\033[93m" + "=" * 60 + "\033[0m")
 
             user_input = input("[系统验收] 请输入: ").strip()
@@ -820,86 +860,44 @@ def main():
                         f.write(user_input)
                 except Exception as e:
                     print(f"[系统验收][警告] 无法保存反馈: {e}")
-                # 打回 Visionary 基于已有草案 + 反馈重写
-                try:
-                    subprocess.run(
-                        [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
-                        check=True, cwd=ROOT_DIR,
-                    )
-                    print("[Router] Visionary 已根据验收反馈重新生成草案。")
-                except subprocess.CalledProcessError as e:
-                    print(f"\033[91m[Router] Visionary 重试失败（{e.returncode}）\033[0m")
-                    write_state("idle")
-                except FileNotFoundError:
-                    print("\033[91m[Router] 找不到 system_visionary.py\033[0m")
-                    write_state("idle")
+                # V3: 打回至系统策划重做，非 Visionary
+                write_state("pending_system_design")
 
         elif current_state == "pending_schema_translate":
-            """
-            静默翻译：MD 草案 → system_schema.json
-            """
-            print("[Router] 正在调用 Schema Translator 将 MD 翻译为结构化 JSON...")
+            retry_count = _get_retry_count("schema_translator")
+            print(f"[Router] 正在调用 Schema Translator 将 MD 翻译为结构化 JSON... (第 {retry_count + 1} 次)")
             try:
                 subprocess.run(
                     [sys.executable, os.path.join(ROOT_DIR, "Agents", "schema_translator.py")],
                     check=True, cwd=ROOT_DIR,
                 )
-                print("[Router] Schema 翻译完毕，等待老板审批。")
-                write_state("pending_translate_approval")
+                print("[Router] Schema 翻译完毕，静默流转至数值填表。")
+                _clear_retry_count()
+                write_state("pending_numerical")
             except subprocess.CalledProcessError as e:
-                print(f"\033[91m[Router] SchemaTranslator 失败（{e.returncode}）\033[0m")
-                write_state("idle")
+                if e.returncode == 2 and retry_count < 2:
+                    retry_count += 1
+                    _save_retry_count("schema_translator", retry_count)
+                    print(f"\033[93m[Router] SchemaTranslator JSON 被截断，自动重试 ({retry_count}/2)...\033[0m")
+                elif e.returncode == 2 and retry_count >= 2:
+                    _clear_retry_count()
+                    print(f"\033[91m[Router] SchemaTranslator 重试 {retry_count} 次仍失败\033[0m")
+                    print("\033[93m[Router] Schema 翻译失败（可能因内容过长）。按 'y' 重试，按 'n' 回 idle: \033[0m", end="")
+                    user_input = input().strip()
+                    if user_input.lower() == "y":
+                        write_state("pending_schema_translate")
+                    else:
+                        write_state("idle")
+                else:
+                    _clear_retry_count()
+                    print(f"\033[91m[Router] SchemaTranslator 失败（{e.returncode}）\033[0m")
+                    write_state("idle")
             except FileNotFoundError:
                 print("\033[91m[Router] 找不到 schema_translator.py\033[0m")
                 write_state("idle")
 
-        elif current_state == "pending_translate_approval":
-            """
-            Schema 翻译审批：审阅 system_schema.json → 通过后进入数值填表
-            """
-            schema_path = os.path.join(WORKSPACE_DIR, "system_schema.json")
-
-            print("\033[93m" + "=" * 60 + "\033[0m")
-            print(f"\033[93m[翻译审批] Schema 翻译完成，产出文件: {schema_path}\033[0m")
-            print("[翻译审批] 输入修改意见打回重做，或输入 'y' 确认通过并流转至数值填表：")
-            print("\033[93m" + "=" * 60 + "\033[0m")
-
-            user_input = input("[翻译审批] 请输入: ").strip()
-
-            if user_input.lower() == "y":
-                print(f"\033[92m[翻译审批] 老板放行！进入数值填表阶段。\033[0m")
-                write_state("pending_numerical")
-            else:
-                print(f"\033[91m[翻译审批] 老板打回！意见: {user_input}\033[0m")
-                try:
-                    with open(BOSS_FEEDBACK_FILE, "w", encoding="utf-8") as f:
-                        f.write(user_input)
-                except Exception as e:
-                    print(f"[翻译审批][警告] 无法保存反馈: {e}")
-                # 打回 Schema Translator 重做
-                try:
-                    subprocess.run(
-                        [sys.executable, os.path.join(ROOT_DIR, "Agents", "schema_translator.py")],
-                        check=True, cwd=ROOT_DIR,
-                    )
-                    print("[Router] Schema Translator 已重新翻译。")
-                except subprocess.CalledProcessError as e:
-                    print(f"\033[91m[Router] SchemaTranslator 重试失败（{e.returncode}）\033[0m")
-                    write_state("idle")
-                except FileNotFoundError:
-                    print("\033[91m[Router] 找不到 schema_translator.py\033[0m")
-                    write_state("idle")
-
         elif current_state == "pending_numerical":
-            # 读取重试计数
-            retry_count = 0
-            if os.path.exists(RETRY_COUNT_FILE):
-                try:
-                    with open(RETRY_COUNT_FILE, "r", encoding="utf-8") as f:
-                        retry_count = json.load(f).get("count", 0)
-                except Exception:
-                    pass
-
+            retry_count = _get_retry_count("numerical_planner")
             print(f"[Router] 正在唤醒 Numerical Planner 进行数值曲线推演... (第 {retry_count + 1} 次)")
             try:
                 subprocess.run(
@@ -911,23 +909,19 @@ def main():
                 write_state("pending_numerical_approval")
             except subprocess.CalledProcessError as e:
                 if e.returncode == 2 and retry_count < 2:
-                    # JSON 截断 → 自动重试
                     retry_count += 1
-                    _save_retry_count(retry_count)
+                    _save_retry_count("numerical_planner", retry_count)
                     print(f"\033[93m[Router] NumericalPlanner JSON 被截断，自动重试 ({retry_count}/2)...\033[0m")
-                    # 保持 pending_numerical，下轮心跳重试
                 elif e.returncode == 2 and retry_count >= 2:
-                    # 重试耗尽 → 人工介入
                     _clear_retry_count()
                     print(f"\033[91m[Router] NumericalPlanner 重试 {retry_count} 次仍失败（JSON 截断）\033[0m")
-                    print("\033[93m[Router] 数值策划生成数据表失败（可能因为内容过长）。\033[0m")
-                    user_input = input("[Router] 按 'y' 再次重试，或按 'n' 打回至主策划重新拆解: ").strip()
+                    print("\033[93m[Router] 数值策划生成数据表失败（可能因为内容过长）。按 'y' 再次重试，或按 'n' 打回至主策划重新拆解: \033[0m", end="")
+                    user_input = input().strip()
                     if user_input.lower() == "y":
                         write_state("pending_numerical")
                     else:
                         write_state("pending_schema_translate")
                 else:
-                    # 其他错误
                     _clear_retry_count()
                     print(f"\033[91m[Router] NumericalPlanner 失败（{e.returncode}）\033[0m")
                     write_state("idle")

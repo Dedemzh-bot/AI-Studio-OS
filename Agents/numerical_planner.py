@@ -15,7 +15,7 @@ FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
-from Skills.llm_client import ask_llm
+from Skills.llm_client import ask_llm, safe_extract_json
 
 # ---- 所有读写目标均拼装为绝对路径 ----
 WORKSPACE_DIR    = os.path.join(ROOT_DIR, ".agent_workspace")
@@ -183,7 +183,7 @@ data 中必须用 continuous_formulas + discrete_milestones 模式，禁止 leve
     # ========== 3. 调用大模型 ==========
     print("[Numerical Planner] 正在呼叫大模型设计数值配置...")
     try:
-        llm_response = ask_llm(system_prompt, user_prompt)
+        llm_response = ask_llm(system_prompt, user_prompt, max_tokens=8192)
     except Exception:
         loud_fail("大模型调用失败（网络超时 / API Key 无效 / 服务不可用）")
 
@@ -193,24 +193,19 @@ data 中必须用 continuous_formulas + discrete_milestones 模式，禁止 leve
     print("=" * 60)
     print(f"[Numerical Planner] 大模型返回完成 ({len(llm_response)} 字符)")
 
-    # ========== 4. 正则精准提取 JSON ==========
-    json_match = re.search(r"```(?:json)?\s*([\s\S]*?)\s*```", llm_response, re.DOTALL)
-
-    if json_match:
-        clean_json_str = json_match.group(1).strip()
-        print(f"[Numerical Planner] 正则成功提取 JSON ({len(clean_json_str)} 字符)")
-    else:
-        clean_json_str = llm_response.strip()
-        print("[Numerical Planner] 未找到代码块标记，使用原始返回值")
+    # ========== 4. 万能剥壳 + 防崩溃解析 ==========
+    json_str, extract_err = safe_extract_json(llm_response, "NumericalPlanner")
+    if extract_err:
+        json_truncation_fail(extract_err)
 
     try:
-        parsed = json.loads(clean_json_str)
+        parsed = json.loads(json_str)
     except json.JSONDecodeError as e:
         json_truncation_fail(
             f"大模型生成的 JSON 被截断或格式损坏！\n"
             f"错误位置: 第 {e.lineno} 行, 第 {e.colno} 列\n"
             f"错误详情: {e.msg}\n"
-            f"--- 尾部 300 字符 ---\n{clean_json_str[-300:]}\n"
+            f"--- 尾部 300 字符 ---\n{json_str[-300:]}\n"
             f"--- 完整原始返回 ---\n{llm_response}"
         )
 

@@ -83,33 +83,39 @@ def main():
             pass
 
     # ========== 2. 构建提示词（仅输出 MD 草案） ==========
-    system_prompt = """你是一位顶级游戏系统架构师。
+    system_prompt = """你是一位顶级游戏系统功能负责人，承接主策划宏观草案，负责铺陈极其详细的玩法规则。
 
-请读取老板传入的系统玩法需求，结合全局项目记忆和已有资产登记表，输出一份结构清晰、逻辑严密的系统设计草案。
+你的唯一任务：将主策划草案中的大框架，铺设成带有清晰条件分支、判定规则、玩家操作流程的 Markdown 详细设计文档。
 
 输出格式：纯 Markdown 文档。必须包含以下章节：
 
 ## 1. 系统概述
 - 系统名称、定位、核心玩法闭环简述
 
-## 2. 模块划分
-- 每个核心模块的名称、职责、与其他模块的关系
+## 2. 详细玩法规则
+- 每个子玩法的触发条件、判定逻辑、成功/失败条件、分数计算规则
+- 如果有小游戏，必须描述具体的操作步骤和判定机制
 
-## 3. 数值成长维度
+## 3. 模块划分与条件分支
+- 每个核心模块的名称、职责、与其他模块的关系
+- 明确写出每个模块内部的条件分支（如：if 公会等级 >= 3 → 解锁深水区）
+
+## 4. 数值成长维度
 - 列出所有需要数值策划填表的成长维度，标明是连续成长（随等级递增）还是离散解锁（特定等级触发）
 - 包含各维度的取值范围建议
 
-## 4. 核心字段说明
+## 5. 核心字段说明
 - 每个模块的关键字段名称、类型、含义、示例值
 
-## 5. 系统流程
+## 6. 系统流程
 - 用文字描述完整的用户操作流程和系统状态流转
 
 最高指令：
 1. 仅输出 Markdown 文档，绝对不要输出 JSON、Mermaid 或任何代码块
 2. 所有字段名建议使用英文 snake_case
 3. 参考全局记忆中已有的系统，确保新设计能与旧系统联动
-4. 禁止设计任何运行时状态字段（如 current_exp、timestamp 等）"""
+4. 禁止设计任何运行时状态字段（如 current_exp、timestamp 等）
+5. 【严禁越权】禁止在文档结尾生成任何"下游任务拆解（WBS）"、"PM 派单指令"或"后续执行建议"。你只负责把玩法规则讲透，不负责替老板分派工作。"""
 
     user_prompt = f"以下是老板的系统玩法需求：\n\n---\n{concept_text}\n---\n\n请输出一份完整的系统设计草案（Markdown 格式）。"
 
@@ -164,11 +170,11 @@ def main():
         with open(STATUS_FILE, "r", encoding="utf-8") as f:
             status_data = json.load(f)
         current_state = status_data.get("current_state", "")
-        status_data["current_state"] = "pending_design_approval"
+        status_data["current_state"] = "pending_system_approval"
         with open(STATUS_FILE, "w", encoding="utf-8") as f:
             json.dump(status_data, f, ensure_ascii=False, indent=2)
-        print(f"[System Planner] 任务状态: {current_state} -> pending_design_approval")
-        print("[System Planner] 草案已完成，等待老板审批。")
+        print(f"[System Planner] 任务状态: {current_state} -> pending_system_approval")
+        print("[System Planner] 详细设计草案已完成，等待老板系统验收。")
     except Exception:
         loud_fail(f"更新状态失败: {STATUS_FILE}")
 

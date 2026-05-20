@@ -1,0 +1,14 @@
+[
+  {
+    "unlock_wardrobe_button": true,
+    "unlock_story_button": false,
+    "show_room_switch_button": false,
+    "show_function_area_entry": true
+  },
+  {
+    "unlock_wardrobe_button": true,
+    "unlock_story_button": true,
+    "show_room_switch_button": false,
+    "show_function_area_entry": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "minigame_id": 1,
+    "minigame_type": "puzzle",
+    "is_active": 0,
+    "current_score": 0,
+    "is_victory": 0
+  },
+  {
+    "minigame_id": 2,
+    "minigame_type": "rhythm",
+    "is_active": 0,
+    "current_score": 0,
+    "is_victory": 0
+  },
+  {
+    "minigame_id": 3,
+    "minigame_type": "memory",
+    "is_active": 0,
+    "current_score": 0,
+    "is_victory": 0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "show_quick_arrange_guide": true,
+    "furniture_limit_reached": false,
+    "is_limited_furniture": false,
+    "is_exclusive_furniture": false
+  },
+  {
+    "show_quick_arrange_guide": false,
+    "furniture_limit_reached": true,
+    "is_limited_furniture": false,
+    "is_exclusive_furniture": false
+  }
+]

@@ -14,7 +14,7 @@ FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
-from Skills.llm_client import ask_llm
+from Skills.llm_client import ask_llm, safe_extract_json
 
 WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
 DRAFT_FILE    = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
@@ -32,6 +32,14 @@ def loud_fail(msg: str):
     traceback.print_exc()
     print(f"{RED}=================================================={RESET}")
     sys.exit(1)
+
+
+def json_parse_fail(msg: str):
+    """JSON 截断/损坏特化 — 退出码 2，供 main_router 自动重试。"""
+    print(f"{RED}========== [Schema Translator] JSON 截断或格式损坏 =========={RESET}")
+    print(f"{RED}{msg}{RESET}")
+    print(f"{RED}============================================================{RESET}")
+    sys.exit(2)
 
 
 def main():
@@ -61,35 +69,39 @@ def main():
 
 最高指令：
 1. 禁止废话，禁止解释
-2. 只输出 `json ... ` 包裹的纯 JSON"""
+2. 只输出纯 JSON 数组"""
 
     user_prompt = f"以下是人类确认的设计草案：\n\n---\n{draft_text}\n---\n\n请翻译为 system_schema.json 格式。直接输出 JSON 数组。"
 
-    # ========== 3. 调用大模型 ==========
+    # ========== 3. 调用大模型（高容量） ==========
     print("[Schema Translator] 正在呼叫大模型翻译 MD -> JSON...")
     try:
-        llm_response = ask_llm(system_prompt, user_prompt)
+        llm_response = ask_llm(system_prompt, user_prompt, max_tokens=8192)
     except Exception:
         loud_fail("大模型调用失败")
 
     print("=" * 60)
-    print("【大模型原始返回】:")
+    print("【大模型原始返回(前500字)】:")
     print(llm_response[:500])
     if len(llm_response) > 500:
         print(f"... (共 {len(llm_response)} 字符)")
     print("=" * 60)
 
-    # ========== 4. 正则提取 JSON ==========
-    json_match = re.search(r"```(?:json)?\s*([\s\S]*?)\s*```", llm_response, re.DOTALL)
-    if json_match:
-        json_str = json_match.group(1).strip()
-    else:
-        json_str = llm_response.strip()
+    # ========== 4. 万能剥壳 + 防崩溃解析 ==========
+    json_str, extract_err = safe_extract_json(llm_response, "SchemaTranslator")
+    if extract_err:
+        loud_fail(f"JSON 提取失败: {extract_err}")
 
     try:
         schema_data = json.loads(json_str)
-    except json.JSONDecodeError:
-        loud_fail(f"翻译结果不是合法 JSON！\n{json_str[:500]}")
+    except json.JSONDecodeError as e:
+        json_parse_fail(
+            f"翻译结果 JSON 被截断或格式损坏！\n"
+            f"错误位置: 第 {e.lineno} 行, 第 {e.colno} 列\n"
+            f"错误详情: {e.msg}\n"
+            f"--- 尾部 300 字符 ---\n{json_str[-300:]}\n"
+            f"--- 完整原始返回 ---\n{llm_response}"
+        )
 
     # ========== 5. 保存 ==========
     try:

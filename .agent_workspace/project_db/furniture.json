@@ -1,0 +1,23 @@
+[
+  {
+    "furniture_id": 1,
+    "furniture_name": "床",
+    "interaction_zone": "bed_center",
+    "drag_to_count": 3,
+    "associated_action_id": 101
+  },
+  {
+    "furniture_id": 2,
+    "furniture_name": "沙发",
+    "interaction_zone": "sofa_seat",
+    "drag_to_count": 2,
+    "associated_action_id": 102
+  },
+  {
+    "furniture_id": 3,
+    "furniture_name": "桌子",
+    "interaction_zone": "table_top",
+    "drag_to_count": 1,
+    "associated_action_id": 103
+  }
+]
