@@ -2,161 +2,135 @@
 
 ## 1. 任务分解
 
-### 1.1 系统策划 (System Planner)
+### System Planner (系统策划)
+- **任务1.1**: 细化互动部位定义与反馈映射表
+  - 输入: 设计草案 (Section 二、三)
+  - 产出: `interaction_zones.md` - 包含部位列表、触发条件、反馈类型(语音/动作/表情)、敏感度等级
+- **任务1.2**: 设计小游戏规则与触发逻辑
+  - 输入: 设计草案 (Section 二.3)
+  - 产出: `minigame_rules.md` - 包含小游戏类型、胜负条件、好感度增减规则、触发概率机制
+- **任务1.3**: 定义宿舍商店与道具系统
+  - 输入: 设计草案 (Section 四)
+  - 产出: `dorm_shop_design.md` - 包含商品列表、价格、解锁条件、道具效果
 
-**任务1.1.1: 小游戏玩法脑暴与选定**
-- **输入**: 设计草案（小游戏部分）、老板修改意见
-- **产出**: `mini_game_concept.md` - 包含3种小游戏（捉迷藏、喂食、梳妆）的详细玩法规则、触发条件、胜利条件、交互流程
-- **依赖**: 无（独立启动）
+### Numerical Planner (数值策划)
+- **任务2.1**: 设计好感度增长曲线
+  - 输入: `interaction_zones.md`, `minigame_rules.md`
+  - 产出: `affection_growth.xlsx` - 每次互动/小游戏胜利的好感度增加值，等级解锁阈值
+- **任务2.2**: 设计宿舍币与宿舍券经济模型
+  - 输入: 设计草案 (Section 四)
+  - 产出: `dorm_economy.xlsx` - 宿舍币产出/消耗表，宿舍券每日获取/付费定价
+- **任务2.3**: 设计小游戏触发概率配置
+  - 输入: `minigame_rules.md`
+  - 产出: `minigame_probability.xlsx` - 基础概率、疲劳衰减系数、付费加成
 
-**任务1.1.2: 系统玩法架构细化**
-- **输入**: 设计草案、`mini_game_concept.md`
-- **产出**: `system_design_detail.md` - 包含：
-  - 解锁流程（好感度等级、道具消耗）
-  - 自由触摸模式（部位划分、反馈类型）
-  - 环境互动（家具列表、触发动作）
-  - 重置与奖励规则
-  - 小游戏触发条件（位置、时间、概率）
-- **依赖**: 任务1.1.1完成
+### Schema Translator (格式翻译)
+- **任务3.1**: 翻译互动部位配置为 JSON Schema
+  - 输入: `interaction_zones.md`
+  - 产出: `interaction_zones_schema.json`
+- **任务3.2**: 翻译小游戏规则为 JSON Schema
+  - 输入: `minigame_rules.md`
+  - 产出: `minigame_rules_schema.json`
+- **任务3.3**: 翻译宿舍商店配置为 JSON Schema
+  - 输入: `dorm_shop_design.md`
+  - 产出: `dorm_shop_schema.json`
+- **任务3.4**: 翻译经济模型为 JSON Schema
+  - 输入: `dorm_economy.xlsx`
+  - 产出: `dorm_economy_schema.json`
 
-**任务1.1.3: 触发条件定义（响应战斗策划）**
-- **输入**: 战斗策划的询问（触发条件类型）
-- **产出**: `trigger_conditions.md` - 明确每个互动事件（触摸、小游戏、环境）的触发条件（部位ID、区域坐标、操作类型、状态机条件）
-- **依赖**: 任务1.1.2完成，与战斗策划并行沟通
+### Code Agent (程序执行)
+- **任务4.1**: 实现触摸互动系统
+  - 输入: `interaction_zones_schema.json`
+  - 产出: `touch_interaction.gd` - 触摸检测、反馈触发、疲劳逻辑
+- **任务4.2**: 实现小游戏系统
+  - 输入: `minigame_rules_schema.json`
+  - 产出: `minigame_system.gd` - 小游戏管理器、具体游戏逻辑
+- **任务4.3**: 实现宿舍商店系统
+  - 输入: `dorm_shop_schema.json`
+  - 产出: `dorm_shop.gd` - 商品展示、购买逻辑、道具使用
+- **任务4.4**: 实现经济系统集成
+  - 输入: `dorm_economy_schema.json`
+  - 产出: `dorm_economy.gd` - 货币增减、道具消耗、接口对接
+- **任务4.5**: 实现旧系统数据联动
+  - 输入: 设计草案 (Section 五)
+  - 产出: `legacy_integration.gd` - 好感度接口调用、模型加载、语音播放
 
-### 1.2 格式翻译 (Schema Translator)
+### UI Agent (UX/UI 设计)
+- **任务5.1**: 设计宿舍主界面 UI
+  - 输入: 设计草案 (Section 三)
+  - 产出: `dorm_main_ui.md` - 包含布局、按钮、图标、颜色方案
+- **任务5.2**: 设计互动反馈 UI 元素
+  - 输入: `interaction_zones.md`
+  - 产出: `interaction_feedback_ui.md` - 触摸高亮、表情气泡、好感度进度条
+- **任务5.3**: 设计小游戏 UI
+  - 输入: `minigame_rules.md`
+  - 产出: `minigame_ui.md` - 游戏界面、计分板、结果展示
+- **任务5.4**: 设计宿舍商店 UI
+  - 输入: `dorm_shop_design.md`
+  - 产出: `dorm_shop_ui.md` - 商品列表、购买弹窗、预览功能
 
-**任务1.2.1: 系统结构JSON Schema生成**
-- **输入**: `system_design_detail.md`
-- **产出**: `system_schema.json` - 包含：
-  - 宿舍解锁配置
-  - 触摸区域定义（部位ID、碰撞体形状、反馈映射）
-  - 小游戏配置（游戏ID、规则参数、奖励表）
-  - 环境互动配置
-  - 每日奖励配置
-- **依赖**: 任务1.1.2完成
+### Audit Agent (审查官)
+- **任务6.1**: 审查互动部位配置
+  - 输入: `interaction_zones_schema.json`
+  - 产出: `audit_interaction_zones.md` - 通过/驳回，含极端情况检测
+- **任务6.2**: 审查小游戏规则
+  - 输入: `minigame_rules_schema.json`
+  - 产出: `audit_minigame_rules.md` - 通过/驳回，含概率平衡检测
+- **任务6.3**: 审查经济模型
+  - 输入: `dorm_economy_schema.json`
+  - 产出: `audit_dorm_economy.md` - 通过/驳回，含通货膨胀检测
 
-**任务1.2.2: 触发条件JSON Schema生成**
-- **输入**: `trigger_conditions.md`
-- **产出**: `trigger_schema.json` - 触发条件结构化定义
-- **依赖**: 任务1.1.3完成
-
-### 1.3 数值策划 (Numerical Planner)
-
-**任务1.3.1: 好感度解锁数值表**
-- **输入**: `system_schema.json`
-- **产出**: `unlock_values.xlsx` - 好感度等级阈值、解锁道具消耗、每日亲密值产出
-- **依赖**: 任务1.2.1完成
-
-**任务1.3.2: 小游戏奖励数值表**
-- **输入**: `system_schema.json`
-- **产出**: `mini_game_rewards.xlsx` - 每日挑战次数、胜利奖励概率、语音片段/表情包掉落
-- **依赖**: 任务1.2.1完成
-
-**任务1.3.3: 商业化定价表**
-- **输入**: `system_schema.json`
-- **产出**: `monetization_values.xlsx` - 宿舍钥匙卡价格、互动道具包定价、皮肤解锁条件
-- **依赖**: 任务1.2.1完成
-
-### 1.4 战斗策划 (Combat Agent)
-
-**任务1.4.1: 互动动作配置生成**
-- **输入**: `trigger_schema.json`、`system_design_detail.md`
-- **产出**: `interaction_actions.json` - 每个触发条件对应的：
-  - 动作配置（动画ID、播放参数、混合权重）
-  - 语音配置（语音ID、播放时机、音量）
-  - 特效配置（特效ID、位置偏移、持续时间）
-- **依赖**: 任务1.1.3完成
-
-### 1.5 UI Agent (UX/UI 设计)
-
-**任务1.5.1: 宿舍UI布局设计**
-- **输入**: `system_schema.json`
-- **产出**: `ui_layout.md` - 包含：
-  - 主界面布局（角色区域、UI控件、交互提示）
-  - 小游戏界面设计（游戏面板、进度条、按钮）
-  - 奖励领取界面
-  - 颜色方案、字体、图标规范
-- **依赖**: 任务1.2.1完成
-
-**任务1.5.2: 触摸反馈视觉设计**
-- **输入**: `system_schema.json`、`interaction_actions.json`
-- **产出**: `touch_feedback_ui.md` - 触摸区域高亮、反馈动画（脸红、抖动）的视觉配置
-- **依赖**: 任务1.4.1完成
-
-### 1.6 Code Agent (程序执行)
-
-**任务1.6.1: 宿舍系统核心逻辑**
-- **输入**: `system_schema.json`
-- **产出**: `dormitory_system.gd` - 解锁、进入、每日重置、奖励发放逻辑
-- **依赖**: 任务1.2.1完成
-
-**任务1.6.2: 触摸互动系统**
-- **输入**: `system_schema.json`、`interaction_actions.json`
-- **产出**: `touch_interaction.gd` - 触摸检测、部位判定、反馈触发
-- **依赖**: 任务1.2.1、任务1.4.1完成
-
-**任务1.6.3: 小游戏系统**
-- **输入**: `system_schema.json`、`interaction_actions.json`
-- **产出**: `mini_game_system.gd` - 小游戏状态机、规则执行、胜利判定
-- **依赖**: 任务1.2.1、任务1.4.1完成
-
-**任务1.6.4: 环境互动系统**
-- **输入**: `system_schema.json`
-- **产出**: `environment_interaction.gd` - 家具点击、角色动作触发
-- **依赖**: 任务1.2.1完成
-
-**任务1.6.5: 数据联动接口**
-- **输入**: `system_schema.json`、`unlock_values.xlsx`
-- **产出**: `data_bridge.gd` - 好感度接口、语音系统接口、聊天系统接口、大厅系统接口
-- **依赖**: 任务1.2.1、任务1.3.1完成
-
-### 1.7 Audit Agent (审查官)
-
-**任务1.7.1: 数值平衡性审查**
-- **输入**: `unlock_values.xlsx`、`mini_game_rewards.xlsx`、`monetization_values.xlsx`
-- **产出**: `audit_report.md` - 通过/驳回，极端值拦截建议
-- **依赖**: 任务1.3.1、1.3.2、1.3.3完成
-
-**任务1.7.2: 系统设计审查**
-- **输入**: `system_schema.json`、`trigger_schema.json`
-- **产出**: `design_audit.md` - 逻辑闭环检查、依赖完整性检查
-- **依赖**: 任务1.2.1、1.2.2完成
+### Combat Agent (战斗策划)
+- **任务7.1**: 设计互动语音与动作触发数值
+  - 输入: `interaction_zones.md`
+  - 产出: `interaction_combat_values.json` - 语音ID、动作ID、触发权重
+- **任务7.2**: 设计小游戏胜负因果链
+  - 输入: `minigame_rules.md`
+  - 产出: `minigame_combat_values.json` - 胜负概率、奖励倍率、疲劳累积
 
 ## 2. 执行顺序与依赖
 
-### 串行路径（关键路径）
+### 串行依赖链
 ```
-任务1.1.1 → 任务1.1.2 → 任务1.2.1 → 任务1.3.1/1.3.2/1.3.3 → 任务1.7.1
-                                     → 任务1.5.1 → 任务1.6.1/1.6.4/1.6.5
-                                     → 任务1.7.2
-任务1.1.3 → 任务1.2.2 → 任务1.4.1 → 任务1.5.2 → 任务1.6.2/1.6.3
+Phase 1: 基础设计
+  System Planner (1.1, 1.2, 1.3) → 并行
+  ↓
+Phase 2: 数值与格式
+  Numerical Planner (2.1, 2.2, 2.3) → 并行
+  Schema Translator (3.1, 3.2, 3.3, 3.4) → 并行
+  ↓
+Phase 3: 审查与开发
+  Audit Agent (6.1, 6.2, 6.3) → 并行 (依赖 Phase 2 产出)
+  Combat Agent (7.1, 7.2) → 并行 (依赖 Phase 1 产出)
+  ↓
+Phase 4: 实现与UI
+  Code Agent (4.1, 4.2, 4.3, 4.4, 4.5) → 并行 (依赖 Phase 3 通过)
+  UI Agent (5.1, 5.2, 5.3, 5.4) → 并行 (依赖 Phase 1 产出)
 ```
 
-### 并行组
-- **组A（可并行）**: 任务1.1.1（独立启动）
-- **组B（可并行）**: 任务1.1.2 完成后，任务1.2.1、任务1.1.3 可并行
-- **组C（可并行）**: 任务1.2.1 完成后，任务1.3.1/1.3.2/1.3.3、任务1.5.1、任务1.7.2 可并行
-- **组D（可并行）**: 任务1.2.2 完成后，任务1.4.1 启动；任务1.4.1 完成后，任务1.5.2 启动
-- **组E（可并行）**: 任务1.3.x 完成后，任务1.7.1 启动；任务1.5.x 完成后，任务1.6.x 启动
+### 可并行任务
+- **Phase 1 内部**: System Planner 的三个任务完全独立
+- **Phase 2 内部**: Numerical Planner 与 Schema Translator 可并行
+- **Phase 3 内部**: Audit Agent 与 Combat Agent 可并行
+- **Phase 4 内部**: Code Agent 与 UI Agent 可并行
 
-### 总工期估算
-- 最短路径：任务1.1.1 → 1.1.2 → 1.2.1 → 1.3.1 → 1.7.1（5步）
-- 最长路径：任务1.1.1 → 1.1.2 → 1.2.1 → 1.5.1 → 1.6.1（5步，但1.6.2/1.6.3需等待1.4.1）
-- 关键路径：任务1.1.1 → 1.1.2 → 1.1.3 → 1.2.2 → 1.4.1 → 1.5.2 → 1.6.2/1.6.3（7步）
+### 关键依赖点
+- **Code Agent 必须等待 Audit Agent 通过**，否则可能返工
+- **UI Agent 可提前基于设计草案开始**，但最终需与 Code Agent 对齐
 
 ## 3. 风险提示
 
 ### 阻塞点
-1. **任务1.1.3 与 任务1.4.1 的沟通延迟**：战斗策划需等待系统策划定义触发条件，若系统策划未及时响应，将阻塞整个互动动作配置生成路径，影响UI和代码的触摸反馈部分。
-2. **任务1.2.1 输出质量**：Schema Translator 若遗漏关键字段（如触摸区域ID、小游戏规则参数），将导致后续数值、UI、代码全部返工。
-3. **任务1.3.x 与 任务1.7.1 的迭代**：若审查官驳回数值表，需数值策划重新调整，可能影响代码的数据联动接口（任务1.6.5）。
+1. **旧系统接口不兼容**: 好感度、模型、语音系统可能缺少必要接口，需提前确认 API 文档
+2. **3D模型精度问题**: 宿舍模型需更高精度，可能超出当前渲染管线能力，需评估性能
+3. **语音资源不足**: ASMR 级别语音录制周期长，可能成为关键路径瓶颈
 
 ### 跨团队依赖冲突
-1. **系统策划 vs 战斗策划**：触发条件定义需双方对齐，建议在任务1.1.2完成后立即召开对齐会议，避免后续返工。
-2. **UI Agent vs Code Agent**：UI布局设计（任务1.5.1）需与代码实现（任务1.6.1）保持同步，建议UI输出时附带锚点坐标和响应式布局说明。
-3. **数值策划 vs 审查官**：数值表需预留审查迭代时间，建议数值策划在提交前自行预审极端值。
+1. **System Planner vs. Numerical Planner**: 互动部位定义可能影响好感度增长曲线设计，需同步迭代
+2. **Combat Agent vs. Code Agent**: 语音/动作 ID 映射需与程序实现一致，避免硬编码
+3. **UI Agent vs. Code Agent**: UI 布局需与触摸检测区域对齐，否则交互失效
 
 ### 其他风险
-- **小游戏玩法复杂度**：若脑暴阶段（任务1.1.1）产出的小游戏规则过于复杂，可能导致后续Schema翻译和代码实现困难。建议系统策划在脑暴时同步评估实现成本。
-- **数据联动接口稳定性**：任务1.6.5依赖外部系统（好感度、语音、聊天、大厅），若这些系统接口未稳定，可能导致代码阻塞。建议提前与相关团队确认接口规范。
+- **小游戏概率平衡**: 付费加成可能破坏免费玩家体验，需 Audit Agent 严格审查
+- **擦边红线**: 所有互动设计需经法务确认，避免违规下架
+- **性能优化**: 物理抖动和材质表现可能影响低端设备帧率，需预留优化时间

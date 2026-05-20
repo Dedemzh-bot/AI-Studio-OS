@@ -3,155 +3,78 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "公会后花园钓鱼系统：玩家消耗公会贡献度购买鱼饵，在不同水域钓鱼获取不同品质的鱼，上交鱼获转化为公会资金，促进公会经济发展。",
+      "system_summary": "角色私人宿舍系统：玩家通过触摸互动、小游戏等方式提升角色好感度，消耗宿舍币和门票解锁家具、皮肤，并触发语音、动作及好感度事件。",
       "field_dictionary": {
-        "unlock_guild_level": "【整型 Int】解锁该水域所需的公会等级。不得低于1。",
-        "zone_id": "【整型 Int】水域唯一标识。1=浅水区，2=深水区，3=神秘区。",
-        "zone_name": "【字符串 String】水域名称。如'浅水区'。",
-        "fish_quality_weights": "【JSON字符串】各品质鱼产出权重。格式：{\"common\": 整数, \"rare\": 整数, \"epic\": 整数}。权重总和应大于0。",
-        "price_amount": "【整型 Int】购买一个鱼饵所需的单价。不得低于0。",
-        "bait_id": "【整型 Int】鱼饵唯一标识。固定为1。",
-        "bait_name": "【字符串 String】鱼饵名称。固定为'特制鱼饵'。",
-        "price_currency_id": "【整型 Int】购买鱼饵消耗的货币ID。固定为1（公会贡献度）。",
-        "special_event_probability": "【浮点数 Float】钓鱼时触发特殊事件（如公会锦鲤）的概率。取值范围0.0~1.0。",
-        "quantity": "【整型 Int】玩家持有某鱼获的数量。不得低于0。",
-        "player_id": "【整型 Int】玩家唯一标识。",
-        "fish_id": "【整型 Int】鱼获唯一标识。",
-        "convert_guild_fund": "【整型 Int】上交一条鱼获可转化的公会资金量。不得低于0。",
-        "fish_name": "【字符串 String】鱼获名称。如'银鳞鱼'。",
-        "quality": "【整型 Int】鱼获品质。枚举值：1=普通，2=稀有，3=史诗。"
+        "role_id": "【整型 Int】角色唯一标识ID，外键关联角色表。",
+        "affection_level": "【整型 Int】当前好感度等级，初始为0，上限由公式决定。",
+        "daily_minigame_count": "【整型 Int】当日已进行的小游戏次数，每日重置。",
+        "daily_minigame_limit": "【整型 Int】每日小游戏次数上限，由公式计算。",
+        "dormitory_coin_balance": "【整型 Int】宿舍币余额，用于购买家具和皮肤，不可为负。",
+        "dormitory_ticket_balance": "【整型 Int】宿舍门票余额，用于进入特殊互动模式，不可为负。",
+        "touch_fatigue_timer": "【浮点 Float】触摸疲劳计时器（秒），每次触摸增加，超过阈值后触摸无效，随时间衰减。",
+        "dormitory_unlocked": "【布尔 Bool】宿舍是否解锁，1=已解锁，0=未解锁。",
+        "current_interaction_mode": "【字符串 String】当前互动模式，枚举值：'touch'=触摸，'minigame'=小游戏，'talk'=对话。",
+        "current_action_command": "【字符串 String】当前执行的动作指令，如 'headpat', 'hug', 'dance'。",
+        "minigame_triggered": "【布尔 Bool】是否已触发小游戏，1=已触发，0=未触发。",
+        "minigame_result": "【整型 Int】小游戏结果，0=失败，1=成功，2=完美。",
+        "special_furniture_unlocked": "【布尔 Bool】特殊家具是否已解锁，1=已解锁，0=未解锁。",
+        "skin_purchased": "【布尔 Bool】皮肤是否已购买，1=已购买，0=未购买。"
       },
       "relations_and_enums": {
-        "zone_id": "外键 → 水域管理模块的zone_id。标识鱼获产出的水域。",
-        "bait_id": "外键 → 鱼饵商店模块的bait_id。标识使用的鱼饵。",
-        "price_currency_id": "外键 → 全局货币配置。固定为1（公会贡献度）。",
-        "fish_id": "外键 → 鱼获仓库模块的fish_id。标识具体鱼获。",
-        "quality": "枚举值：1=普通，2=稀有，3=史诗。",
-        "zone_id枚举": "1=浅水区，2=深水区，3=神秘区。"
+        "role_id": "外键 → role_config.role_id。标识该宿舍所属角色。",
+        "current_interaction_mode": "枚举值：'touch'=触摸模式，'minigame'=小游戏模式，'talk'=对话模式。",
+        "current_action_command": "枚举值：'headpat'=摸头，'hug'=拥抱，'dance'=跳舞，'feed'=喂食。",
+        "minigame_result": "枚举值：0=失败，1=成功，2=完美。",
+        "dormitory_unlocked": "布尔值：0=未解锁，1=已解锁。",
+        "special_furniture_unlocked": "布尔值：0=未解锁，1=已解锁。",
+        "skin_purchased": "布尔值：0=未购买，1=已购买。"
       },
-      "implementation_notes": "1. 水域解锁条件：公会等级达到unlock_guild_level时自动解锁对应水域。2. 钓鱼流程：玩家消耗1个鱼饵，根据当前水域的fish_quality_weights随机决定鱼获品质，再根据该品质的鱼获列表随机选择具体鱼种。3. 特殊事件：每次钓鱼有special_event_probability概率触发公会锦鲤事件（可额外获得稀有鱼或公会资金）。4. 上交转化：玩家选择鱼获仓库中的鱼获，点击上交，扣除对应quantity，增加公会资金convert_guild_fund。5. 建议程序在每日凌晨4点重置鱼饵购买次数限制（如有）。"
+      "implementation_notes": "建议程序在每日凌晨4点重置daily_minigame_count和touch_fatigue_timer。好感度等级affection_level使用公式计算：base_affection + level * growth_coef。小游戏次数上限公式：daily_minigame_limit = base_limit + affection_level * limit_growth。触摸疲劳计时器每帧衰减，衰减速率由配置决定。小游戏触发概率与好感度等级正相关。"
     },
     "data": {
-      "fishing_zones": {
+      "role_private_dormitory": {
         "continuous_formulas": {
-          "unlock_guild_level": {
-            "base": 1,
-            "growth": 2,
-            "type": "linear"
-          }
-        },
-        "discrete_milestones": {
-          "1": {
-            "zone_id": 1,
-            "zone_name": "浅水区",
-            "fish_quality_weights": "{\"common\": 80, \"rare\": 20, \"epic\": 0}"
-          },
-          "2": {
-            "zone_id": 2,
-            "zone_name": "深水区",
-            "fish_quality_weights": "{\"common\": 60, \"rare\": 30, \"epic\": 10}"
-          },
-          "3": {
-            "zone_id": 3,
-            "zone_name": "神秘区",
-            "fish_quality_weights": "{\"common\": 30, \"rare\": 40, \"epic\": 30}"
-          }
-        }
-      },
-      "bait_shop": {
-        "continuous_formulas": {
-          "price_amount": {
-            "base": 20,
-            "growth": 0,
-            "type": "linear"
-          }
-        },
-        "discrete_milestones": {
-          "1": {
-            "bait_id": 1,
-            "bait_name": "特制鱼饵",
-            "price_currency_id": 1
-          }
-        }
-      },
-      "fishing_process": {
-        "continuous_formulas": {},
-        "discrete_milestones": {
-          "special_event_probability": 0.05
-        }
-      },
-      "fish_inventory": {
-        "continuous_formulas": {
-          "quantity": {
+          "affection_level": {
             "base": 0,
-            "growth": 0,
+            "growth": 1,
             "type": "linear"
-          }
-        },
-        "discrete_milestones": {}
-      },
-      "fish_conversion": {
-        "continuous_formulas": {
-          "convert_guild_fund": {
-            "base": 10,
-            "growth": 5,
+          },
+          "daily_minigame_limit": {
+            "base": 3,
+            "growth": 1,
+            "type": "linear"
+          },
+          "touch_fatigue_timer_max": {
+            "base": 60.0,
+            "growth": 5.0,
+            "type": "linear"
+          },
+          "touch_fatigue_decay_rate": {
+            "base": 1.0,
+            "growth": 0.1,
+            "type": "linear"
+          },
+          "minigame_trigger_probability": {
+            "base": 0.1,
+            "growth": 0.05,
             "type": "linear"
           }
         },
         "discrete_milestones": {
-          "101": {
-            "fish_id": 101,
-            "fish_name": "银鳞鱼",
-            "quality": 1,
-            "zone_id": 1
+          "affection_level_5": {
+            "dormitory_unlocked": 1,
+            "special_furniture_unlocked": 0,
+            "skin_purchased": 0
           },
-          "102": {
-            "fish_id": 102,
-            "fish_name": "金鳞鱼",
-            "quality": 2,
-            "zone_id": 1
+          "affection_level_10": {
+            "dormitory_unlocked": 1,
+            "special_furniture_unlocked": 1,
+            "skin_purchased": 0
           },
-          "103": {
-            "fish_id": 103,
-            "fish_name": "彩虹鱼",
-            "quality": 3,
-            "zone_id": 1
-          },
-          "201": {
-            "fish_id": 201,
-            "fish_name": "蓝鳍鱼",
-            "quality": 1,
-            "zone_id": 2
-          },
-          "202": {
-            "fish_id": 202,
-            "fish_name": "红鳍鱼",
-            "quality": 2,
-            "zone_id": 2
-          },
-          "203": {
-            "fish_id": 203,
-            "fish_name": "暗影鱼",
-            "quality": 3,
-            "zone_id": 2
-          },
-          "301": {
-            "fish_id": 301,
-            "fish_name": "星辉鱼",
-            "quality": 1,
-            "zone_id": 3
-          },
-          "302": {
-            "fish_id": 302,
-            "fish_name": "月光鱼",
-            "quality": 2,
-            "zone_id": 3
-          },
-          "303": {
-            "fish_id": 303,
-            "fish_name": "龙鳞鱼",
-            "quality": 3,
-            "zone_id": 3
+          "affection_level_20": {
+            "dormitory_unlocked": 1,
+            "special_furniture_unlocked": 1,
+            "skin_purchased": 1
           }
         }
       }

@@ -1,0 +1,29 @@
+{
+  "system_summary": "角色私人宿舍系统：玩家通过触摸互动、小游戏等方式提升角色好感度，消耗宿舍币和门票解锁家具、皮肤，并触发语音、动作及好感度事件。",
+  "field_dictionary": {
+    "role_id": "【整型 Int】角色唯一标识ID，外键关联角色表。",
+    "affection_level": "【整型 Int】当前好感度等级，初始为0，上限由公式决定。",
+    "daily_minigame_count": "【整型 Int】当日已进行的小游戏次数，每日重置。",
+    "daily_minigame_limit": "【整型 Int】每日小游戏次数上限，由公式计算。",
+    "dormitory_coin_balance": "【整型 Int】宿舍币余额，用于购买家具和皮肤，不可为负。",
+    "dormitory_ticket_balance": "【整型 Int】宿舍门票余额，用于进入特殊互动模式，不可为负。",
+    "touch_fatigue_timer": "【浮点 Float】触摸疲劳计时器（秒），每次触摸增加，超过阈值后触摸无效，随时间衰减。",
+    "dormitory_unlocked": "【布尔 Bool】宿舍是否解锁，1=已解锁，0=未解锁。",
+    "current_interaction_mode": "【字符串 String】当前互动模式，枚举值：'touch'=触摸，'minigame'=小游戏，'talk'=对话。",
+    "current_action_command": "【字符串 String】当前执行的动作指令，如 'headpat', 'hug', 'dance'。",
+    "minigame_triggered": "【布尔 Bool】是否已触发小游戏，1=已触发，0=未触发。",
+    "minigame_result": "【整型 Int】小游戏结果，0=失败，1=成功，2=完美。",
+    "special_furniture_unlocked": "【布尔 Bool】特殊家具是否已解锁，1=已解锁，0=未解锁。",
+    "skin_purchased": "【布尔 Bool】皮肤是否已购买，1=已购买，0=未购买。"
+  },
+  "relations_and_enums": {
+    "role_id": "外键 → role_config.role_id。标识该宿舍所属角色。",
+    "current_interaction_mode": "枚举值：'touch'=触摸模式，'minigame'=小游戏模式，'talk'=对话模式。",
+    "current_action_command": "枚举值：'headpat'=摸头，'hug'=拥抱，'dance'=跳舞，'feed'=喂食。",
+    "minigame_result": "枚举值：0=失败，1=成功，2=完美。",
+    "dormitory_unlocked": "布尔值：0=未解锁，1=已解锁。",
+    "special_furniture_unlocked": "布尔值：0=未解锁，1=已解锁。",
+    "skin_purchased": "布尔值：0=未购买，1=已购买。"
+  },
+  "implementation_notes": "建议程序在每日凌晨4点重置daily_minigame_count和touch_fatigue_timer。好感度等级affection_level使用公式计算：base_affection + level * growth_coef。小游戏次数上限公式：daily_minigame_limit = base_limit + affection_level * limit_growth。触摸疲劳计时器每帧衰减，衰减速率由配置决定。小游戏触发概率与好感度等级正相关。"
+}

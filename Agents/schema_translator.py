@@ -100,20 +100,7 @@ def main():
     except Exception:
         loud_fail(f"写入失败: {SCHEMA_OUTPUT}")
 
-    # ========== 6. 推进 ==========
-    try:
-        if not os.path.exists(STATUS_FILE):
-            loud_fail(f"状态文件不存在: {STATUS_FILE}")
-        with open(STATUS_FILE, "r", encoding="utf-8") as f:
-            status_data = json.load(f)
-        current_state = status_data.get("current_state", "")
-        status_data["current_state"] = "pending_numerical"
-        with open(STATUS_FILE, "w", encoding="utf-8") as f:
-            json.dump(status_data, f, ensure_ascii=False, indent=2)
-        print(f"[Schema Translator] 状态: {current_state} -> pending_numerical")
-        print("[Schema Translator] 翻译完成，交接至数值策划。")
-    except Exception:
-        loud_fail(f"更新状态失败: {STATUS_FILE}")
+    print("[Schema Translator] 翻译完成，等待 Router 审批流转。")
 
 
 if __name__ == "__main__":

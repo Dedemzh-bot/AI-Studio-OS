@@ -1,0 +1,48 @@
+{
+  "role_private_dormitory": {
+    "continuous_formulas": {
+      "affection_level": {
+        "base": 0,
+        "growth": 1,
+        "type": "linear"
+      },
+      "daily_minigame_limit": {
+        "base": 3,
+        "growth": 1,
+        "type": "linear"
+      },
+      "touch_fatigue_timer_max": {
+        "base": 60.0,
+        "growth": 5.0,
+        "type": "linear"
+      },
+      "touch_fatigue_decay_rate": {
+        "base": 1.0,
+        "growth": 0.1,
+        "type": "linear"
+      },
+      "minigame_trigger_probability": {
+        "base": 0.1,
+        "growth": 0.05,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "affection_level_5": {
+        "dormitory_unlocked": 1,
+        "special_furniture_unlocked": 0,
+        "skin_purchased": 0
+      },
+      "affection_level_10": {
+        "dormitory_unlocked": 1,
+        "special_furniture_unlocked": 1,
+        "skin_purchased": 0
+      },
+      "affection_level_20": {
+        "dormitory_unlocked": 1,
+        "special_furniture_unlocked": 1,
+        "skin_purchased": 1
+      }
+    }
+  }
+}

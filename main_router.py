@@ -8,8 +8,10 @@ Main Router (核心中枢 / 24h 常驻守护进程)
     |         --> pending_validation --> pending_audit --> pending_data_approval
     |         --> pending_assets --> completed --> idle
     |
-    |--> (system) system_planner(MD) --> pending_design_approval(3选项)
-              --> pending_schema_translate --> pending_numerical
+    |--> (system) system_visionary --> clarifying_requirements
+              --> pending_design_approval --> pending_plan_approval
+              --> pending_system_approval --> pending_schema_translate
+              --> pending_translate_approval --> pending_numerical
               --> pending_numerical_approval --> completed(归档) --> idle
 """
 
@@ -767,8 +769,8 @@ def main():
             user_input = input("[计划审查] 请输入: ").strip()
 
             if user_input.lower() == "y":
-                print(f"\033[92m[计划审查] 老板放行！头部管线通过，进入执行阶段。\033[0m")
-                write_state("pending_schema_translate")
+                print(f"\033[92m[计划审查] 老板放行！进入系统设计最终验收。\033[0m")
+                write_state("pending_system_approval")
             else:
                 print(f"\033[91m[计划审查] 老板打回！意见: {user_input}\033[0m")
                 try:
@@ -790,6 +792,48 @@ def main():
                     print("\033[91m[Router] 找不到 task_planner.py\033[0m")
                     write_state("idle")
 
+        elif current_state == "pending_system_approval":
+            """
+            系统设计最终验收：老板审阅完整设计草案 + 任务拆解计划，确认后进入执行。
+            """
+            draft_path = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
+            plan_path = os.path.join(WORKSPACE_DIR, "task_plan.md")
+
+            print("\033[93m" + "=" * 60 + "\033[0m")
+            print("\033[93m[系统验收] 系统策划已完成详细玩法设计与脑暴。\033[0m")
+            if os.path.exists(draft_path):
+                print(f"[系统验收] 设计草案: {draft_path} ({os.path.getsize(draft_path)} 字节)")
+            if os.path.exists(plan_path):
+                print(f"[系统验收] 任务拆解: {plan_path} ({os.path.getsize(plan_path)} 字节)")
+            print("[系统验收] 请输入您的修改意见打回重做；或输入 'y' 批准该设计，正式进入 Schema 翻译与数值配置阶段：")
+            print("\033[93m" + "=" * 60 + "\033[0m")
+
+            user_input = input("[系统验收] 请输入: ").strip()
+
+            if user_input.lower() == "y":
+                print(f"\033[92m[系统验收] 老板批准！进入 Schema 翻译与数值配置阶段。\033[0m")
+                write_state("pending_schema_translate")
+            else:
+                print(f"\033[91m[系统验收] 老板打回！意见: {user_input}\033[0m")
+                try:
+                    with open(BOSS_FEEDBACK_FILE, "w", encoding="utf-8") as f:
+                        f.write(user_input)
+                except Exception as e:
+                    print(f"[系统验收][警告] 无法保存反馈: {e}")
+                # 打回 Visionary 基于已有草案 + 反馈重写
+                try:
+                    subprocess.run(
+                        [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
+                        check=True, cwd=ROOT_DIR,
+                    )
+                    print("[Router] Visionary 已根据验收反馈重新生成草案。")
+                except subprocess.CalledProcessError as e:
+                    print(f"\033[91m[Router] Visionary 重试失败（{e.returncode}）\033[0m")
+                    write_state("idle")
+                except FileNotFoundError:
+                    print("\033[91m[Router] 找不到 system_visionary.py\033[0m")
+                    write_state("idle")
+
         elif current_state == "pending_schema_translate":
             """
             静默翻译：MD 草案 → system_schema.json
@@ -800,14 +844,51 @@ def main():
                     [sys.executable, os.path.join(ROOT_DIR, "Agents", "schema_translator.py")],
                     check=True, cwd=ROOT_DIR,
                 )
-                print("[Router] Schema 翻译完毕，推进至数值填表。")
-                # schema_translator 内部已写 pending_numerical
+                print("[Router] Schema 翻译完毕，等待老板审批。")
+                write_state("pending_translate_approval")
             except subprocess.CalledProcessError as e:
                 print(f"\033[91m[Router] SchemaTranslator 失败（{e.returncode}）\033[0m")
                 write_state("idle")
             except FileNotFoundError:
                 print("\033[91m[Router] 找不到 schema_translator.py\033[0m")
                 write_state("idle")
+
+        elif current_state == "pending_translate_approval":
+            """
+            Schema 翻译审批：审阅 system_schema.json → 通过后进入数值填表
+            """
+            schema_path = os.path.join(WORKSPACE_DIR, "system_schema.json")
+
+            print("\033[93m" + "=" * 60 + "\033[0m")
+            print(f"\033[93m[翻译审批] Schema 翻译完成，产出文件: {schema_path}\033[0m")
+            print("[翻译审批] 输入修改意见打回重做，或输入 'y' 确认通过并流转至数值填表：")
+            print("\033[93m" + "=" * 60 + "\033[0m")
+
+            user_input = input("[翻译审批] 请输入: ").strip()
+
+            if user_input.lower() == "y":
+                print(f"\033[92m[翻译审批] 老板放行！进入数值填表阶段。\033[0m")
+                write_state("pending_numerical")
+            else:
+                print(f"\033[91m[翻译审批] 老板打回！意见: {user_input}\033[0m")
+                try:
+                    with open(BOSS_FEEDBACK_FILE, "w", encoding="utf-8") as f:
+                        f.write(user_input)
+                except Exception as e:
+                    print(f"[翻译审批][警告] 无法保存反馈: {e}")
+                # 打回 Schema Translator 重做
+                try:
+                    subprocess.run(
+                        [sys.executable, os.path.join(ROOT_DIR, "Agents", "schema_translator.py")],
+                        check=True, cwd=ROOT_DIR,
+                    )
+                    print("[Router] Schema Translator 已重新翻译。")
+                except subprocess.CalledProcessError as e:
+                    print(f"\033[91m[Router] SchemaTranslator 重试失败（{e.returncode}）\033[0m")
+                    write_state("idle")
+                except FileNotFoundError:
+                    print("\033[91m[Router] 找不到 schema_translator.py\033[0m")
+                    write_state("idle")
 
         elif current_state == "pending_numerical":
             # 读取重试计数

@@ -103,10 +103,36 @@ def main():
 设计规范模板：
 {standards_text}
 
+【排版红线 — 绝对结构化】
+作为资深系统策划，你的文档必须是结构化的，不是小说。以下铁律优先级最高：
+
+1.【封杀文字墙】绝对禁止输出超过 3 句话的连续自然语言段落！所有玩法机制、规则判定，必须使用 Markdown 的「多级列表」或「表格」来呈现。
+
+2.【状态机撰写规范】在描述交互逻辑（如小游戏点击、成功/失败）时，必须采用以下 Condition-Action-Feedback 模板：
+
+```
+### 玩法动作规则
+- **[触发动作]**：玩家进行单次点击/滑动。
+  - **[判定条件]**：点击位置是否在目标判定区内。
+  - **✅ [单次成功反馈]**：
+    - **表现层**：播放特效A，角色触发语音B（娇羞音）。
+    - **数值层**：好感度/进度条 +10。
+  - **❌ [单次失败反馈]**：
+    - **表现层**：镜头抖动，角色触发语音C（抗拒）。
+    - **数值层**：失误次数 +1。
+```
+
+3.【边界条件与结算】在描述"胜利/失败"结算时，必须清晰列出：
+   **[结算条件] → [表现层播片] → [数值产出] → [状态重置/退出流转]**
+   每一项使用独立的二级/三级列表项，不得混写成段落。
+
+4.【表格优先】凡是涉及"星级vs奖励"、"等级vs消耗"等多维对比数据，必须使用 Markdown 表格，禁止用文字描述代替。
+
 输出格式（重要！两者必须同时包含）：
 - 第一步：先输出 {{"status": "draft_ready"}}
 - 第二步：紧接着必须输出 ```markdown ... ``` 代码块，包含完整的设计草案！
-  草稿必须严格按照 design_standards.json 的 6 个强制章节结构编写。
+  草案必须严格按照 design_standards.json 的 6 个强制章节结构编写，
+  且全文必须遵循【排版红线】的结构化要求（列表+表格+CAF模板，禁止文字墙）。
   禁止只输出 JSON 而不输出 markdown 草案！JSON 和 markdown 缺一不可！！
 
 【最高指令】你必须且只能输出合法的 JSON 字符串！绝对禁止在 JSON 前后输出任何 markdown 文本、思考过程或解释语！"""
@@ -114,7 +140,16 @@ def main():
     user_prompt = f"以下是老板的概念简案：\n\n{concept}"
 
     if feedback:
-        user_prompt = f"【老板对上一轮的反驳/补充】: {feedback}\n\n{user_prompt}"
+        # 读取现有草案，让 Visionary 基于其上做局部修改
+        existing_draft = load_file(DRAFT_OUTPUT)
+        if existing_draft:
+            user_prompt = (
+                f"【老板修改意见】: {feedback}\n\n"
+                f"【上一版设计草案（请在此基础做局部修改，不要全盘重写）】:\n{existing_draft}\n\n"
+                f"{user_prompt}"
+            )
+        else:
+            user_prompt = f"【老板对上一轮的反驳/补充】: {feedback}\n\n{user_prompt}"
 
     if codex:
         user_prompt += f"\n\n【项目记忆 Codex】:\n{codex}"
@@ -135,7 +170,10 @@ def main():
 
     print("=" * 60)
     print("【大模型原始返回】:")
-    print(llm_response[:800])
+    try:
+        print(llm_response[:800])
+    except UnicodeEncodeError:
+        print(llm_response[:800].encode("ascii", errors="replace").decode("ascii"))
     if len(llm_response) > 800:
         print(f"... (共 {len(llm_response)} 字符)")
     print("=" * 60)
