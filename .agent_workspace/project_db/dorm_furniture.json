@@ -1,0 +1,26 @@
+[
+  {
+    "furniture_name": "舒适沙发",
+    "furniture_type": "seat",
+    "furniture_price": 500,
+    "furniture_interaction_id": "sit_01"
+  },
+  {
+    "furniture_name": "木质圆桌",
+    "furniture_type": "table",
+    "furniture_price": 300,
+    "furniture_interaction_id": null
+  },
+  {
+    "furniture_name": "落地灯",
+    "furniture_type": "lighting",
+    "furniture_price": 200,
+    "furniture_interaction_id": "toggle_light_01"
+  },
+  {
+    "furniture_name": "毛绒地毯",
+    "furniture_type": "decoration",
+    "furniture_price": 150,
+    "furniture_interaction_id": null
+  }
+]

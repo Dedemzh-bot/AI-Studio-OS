@@ -17,7 +17,7 @@ sys.path.insert(0, ROOT_DIR)
 from Skills.llm_client import ask_llm, safe_extract_json
 
 WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-DRAFT_FILE    = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
+DRAFT_FILE    = os.path.join(WORKSPACE_DIR, "system_design_detail.md")
 SCHEMA_OUTPUT = os.path.join(WORKSPACE_DIR, "system_schema.json")
 STATUS_FILE   = os.path.join(WORKSPACE_DIR, "task_status.json")
 

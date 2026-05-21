@@ -1,0 +1,26 @@
+[
+  {
+    "device_quality_preset_name": "低画质",
+    "device_quality_preset_texture_scale": 0.5,
+    "device_quality_preset_shadow_quality": 0,
+    "device_quality_preset_particle_quality": 0
+  },
+  {
+    "device_quality_preset_name": "中画质",
+    "device_quality_preset_texture_scale": 0.8,
+    "device_quality_preset_shadow_quality": 1,
+    "device_quality_preset_particle_quality": 1
+  },
+  {
+    "device_quality_preset_name": "高画质",
+    "device_quality_preset_texture_scale": 1.0,
+    "device_quality_preset_shadow_quality": 2,
+    "device_quality_preset_particle_quality": 2
+  },
+  {
+    "device_quality_preset_name": "极致画质",
+    "device_quality_preset_texture_scale": 2.0,
+    "device_quality_preset_shadow_quality": 3,
+    "device_quality_preset_particle_quality": 3
+  }
+]

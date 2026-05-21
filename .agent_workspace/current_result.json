@@ -3,281 +3,178 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "角色私人宿舍系统：玩家通过购买解锁角色专属宿舍，在宿舍内通过点击、滑动等交互方式触发角色动作、语音及小游戏，提升角色好感度，解锁成就与家具互动。",
+      "system_summary": "角色私人宿舍系统：为所有角色提供可交互的私人空间，玩家可通过独立直购获得家具、动作、服装和小游戏，解锁后即可在宿舍中与角色进行互动，触发语音、动作和小游戏，无养成线，纯购买即用。",
       "field_dictionary": {
-        "dormitory_id": "【整型 Int】宿舍唯一标识ID，自增主键。",
-        "character_id": "【整型 Int】角色唯一标识ID，外键关联角色表。",
-        "is_purchased": "【布尔 Bool】是否已购买该宿舍，0=未购买，1=已购买。",
-        "purchase_price": "【整型 Int】购买宿舍所需货币数量，单位：钻石，不得低于0。",
-        "unlock_level": "【整型 Int】解锁该宿舍所需的玩家等级，默认值1。",
-        "interaction_type": "【字符串 String】交互类型枚举：'click'=点击，'slide'=滑动，'drag'=拖拽。",
-        "target_body_part": "【字符串 String】交互目标身体部位，如'head','arm','leg'，用于动作触发。",
-        "target_furniture_id": "【整型 Int】交互目标家具ID，外键关联家具表，0表示无家具。",
-        "slide_direction": "【字符串 String】滑动方向枚举：'up','down','left','right'，仅当interaction_type='slide'时有效。",
-        "is_valid": "【布尔 Bool】该交互组合是否有效，0=无效，1=有效。",
-        "minigame_id": "【整型 Int】小游戏唯一标识ID。",
-        "minigame_type": "【字符串 String】小游戏类型枚举：'puzzle','rhythm','memory'。",
-        "is_active": "【布尔 Bool】小游戏是否处于激活状态，0=未激活，1=激活。",
-        "current_score": "【整型 Int】小游戏当前得分，初始值0。",
-        "target_score": "【整型 Int】小游戏通关目标分数，不得低于0。",
-        "remaining_time": "【整型 Int】小游戏剩余时间（秒），初始值由配置决定。",
-        "is_victory": "【布尔 Bool】小游戏是否胜利，0=失败，1=胜利。",
-        "total_affection": "【整型 Int】角色累计总好感度，初始值0。",
-        "daily_affection_gained": "【整型 Int】当日已获得好感度，每日重置为0。",
-        "daily_affection_limit": "【整型 Int】每日好感度获取上限，默认值100。",
-        "last_interaction_date": "【整型 Int】上次交互日期（Unix时间戳），用于计算每日重置。",
-        "achievement_id": "【整型 Int】成就唯一标识ID。",
-        "achievement_name": "【字符串 String】成就名称，用于UI显示。",
-        "is_unlocked": "【布尔 Bool】成就是否已解锁，0=未解锁，1=已解锁。",
-        "unlock_condition_type": "【字符串 String】解锁条件类型枚举：'affection'=好感度，'minigame'=小游戏，'interaction'=交互次数。",
-        "unlock_condition_value": "【整型 Int】解锁条件的目标值，如好感度达到500。",
-        "current_progress": "【整型 Int】当前进度值，用于条件判断。",
-        "furniture_id": "【整型 Int】家具唯一标识ID。",
-        "furniture_name": "【字符串 String】家具名称，用于UI显示。",
-        "interaction_zone": "【字符串 String】家具交互区域坐标或区域标识，如'bed_center','chair_seat'。",
-        "drag_to_count": "【整型 Int】拖拽到该家具所需次数，用于触发动作。",
-        "associated_action_id": "【整型 Int】关联的动作ID，外键关联动作表。"
+        "furniture_id": "【字符串 String】家具的唯一标识符，如 'sofa_01'。",
+        "furniture_name": "【字符串 String】家具的显示名称，用于UI展示。",
+        "furniture_type": "【字符串 String】家具类型枚举，如 'seat', 'table', 'decoration', 'lighting'。",
+        "furniture_price": "【整型 Int】家具的直购价格（单位：钻石或代币），不得低于0。",
+        "furniture_interaction_id": "【字符串 String】关联的交互动作ID，外键→dorm_pose.pose_id。可为空表示无交互。",
+        "pose_id": "【字符串 String】动作的唯一标识符，如 'wave_01'。",
+        "pose_name": "【字符串 String】动作的显示名称。",
+        "pose_trigger_type": "【字符串 String】动作触发方式枚举：'click'（点击触发），'proximity'（靠近触发），'item_use'（使用道具触发）。",
+        "pose_animation_clip": "【字符串 String】动作动画资源路径。",
+        "pose_voice_line_id": "【字符串 String】关联的语音ID，外键→语音表。可为空。",
+        "pose_price": "【整型 Int】动作的直购价格（单位：钻石或代币），不得低于0。",
+        "costume_id": "【字符串 String】服装的唯一标识符，如 'dress_01'。",
+        "costume_name": "【字符串 String】服装的显示名称。",
+        "costume_type": "【字符串 String】服装类型枚举：'casual', 'formal', 'seasonal'。",
+        "costume_price": "【整型 Int】服装的直购价格（单位：钻石或代币），不得低于0。",
+        "costume_unlock_condition": "【字符串 String】解锁条件描述，如 'direct_purchase' 表示直接购买。",
+        "minigame_id": "【字符串 String】小游戏的唯一标识符，如 'puzzle_01'。",
+        "minigame_name": "【字符串 String】小游戏的显示名称。",
+        "minigame_type": "【字符串 String】小游戏类型枚举：'puzzle', 'memory', 'rhythm', 'quiz'。",
+        "minigame_price": "【整型 Int】小游戏的直购价格（单位：钻石或代币），不得低于0。",
+        "minigame_max_players": "【整型 Int】小游戏支持的最大玩家数，默认1。",
+        "minigame_duration_seconds": "【整型 Int】小游戏单局时长（秒），默认60。",
+        "device_quality_preset_id": "【字符串 String】设备画质预设ID，如 'low', 'medium', 'high', 'ultra'。",
+        "device_quality_preset_name": "【字符串 String】预设名称。",
+        "device_quality_preset_texture_scale": "【浮点 Float】纹理缩放系数，范围0.1~2.0，默认1.0。",
+        "device_quality_preset_shadow_quality": "【整型 Int】阴影质量等级，0=关闭，1=低，2=中，3=高。",
+        "device_quality_preset_particle_quality": "【整型 Int】粒子效果质量等级，0=关闭，1=低，2=中，3=高。"
       },
       "relations_and_enums": {
-        "dormitory_id": "外键 → dormitory_purchase.dormitory_id，唯一标识宿舍。",
-        "character_id": "外键 → character_config.character_id，关联角色数据。",
-        "target_furniture_id": "外键 → furniture.furniture_id，标识交互目标家具。",
-        "associated_action_id": "外键 → action_config.action_id，触发特定动作。",
-        "interaction_type": "枚举值：'click'=点击，'slide'=滑动，'drag'=拖拽。",
-        "slide_direction": "枚举值：'up'=上滑，'down'=下滑，'left'=左滑，'right'=右滑。",
-        "minigame_type": "枚举值：'puzzle'=拼图，'rhythm'=节奏，'memory'=记忆。",
-        "unlock_condition_type": "枚举值：'affection'=好感度，'minigame'=小游戏，'interaction'=交互次数。",
-        "is_purchased": "枚举值：0=未购买，1=已购买。",
-        "is_valid": "枚举值：0=无效交互，1=有效交互。",
-        "is_active": "枚举值：0=未激活，1=激活。",
-        "is_victory": "枚举值：0=失败，1=胜利。",
-        "is_unlocked": "枚举值：0=未解锁，1=已解锁。"
+        "furniture_interaction_id": "外键→dorm_pose.pose_id。标识该家具可触发的交互动作。",
+        "pose_voice_line_id": "外键→全局语音表。标识动作播放时触发的语音。",
+        "furniture_type": "枚举值：'seat'=座椅，'table'=桌子，'decoration'=装饰，'lighting'=灯具。",
+        "pose_trigger_type": "枚举值：'click'=点击触发，'proximity'=靠近触发，'item_use'=使用道具触发。",
+        "costume_type": "枚举值：'casual'=休闲，'formal'=正式，'seasonal'=季节限定。",
+        "minigame_type": "枚举值：'puzzle'=拼图，'memory'=记忆，'rhythm'=节奏，'quiz'=问答。",
+        "device_quality_preset_id": "枚举值：'low'=低画质，'medium'=中画质，'high'=高画质，'ultra'=极致画质。"
       },
-      "implementation_notes": "1. 每日好感度重置建议在服务器每日凌晨4点进行，基于last_interaction_date判断。2. 交互检测模块需实时监听玩家点击/滑动事件，结合target_body_part和target_furniture_id进行有效性校验。3. 小游戏激活后，使用remaining_time倒计时，超时自动判定失败。4. 成就系统采用进度监听模式，当current_progress达到unlock_condition_value时自动解锁。5. 家具的drag_to_count用于累加拖拽次数，达到阈值后触发associated_action_id对应的动作。6. 所有交互动作需预加载语音和动画资源，避免卡顿。"
+      "implementation_notes": "所有道具（家具、动作、服装、小游戏）均为独立直购，购买后永久解锁，无养成或升级。交互动作需绑定到家具或角色身上，触发时播放动画和语音。小游戏需在宿舍内启动，支持单局计时。设备画质预设用于控制宿舍场景的渲染性能，建议在设置界面提供切换选项。数据表之间通过ID外键关联，确保一致性。"
     },
     "data": {
-      "dormitory_purchase": {
-        "continuous_formulas": {
-          "purchase_price": {
-            "base": 500,
-            "growth": 200,
-            "type": "linear"
-          },
-          "unlock_level": {
-            "base": 10,
-            "growth": 5,
-            "type": "linear"
-          }
-        },
-        "discrete_milestones": {
-          "1": {
-            "character_id": 101,
-            "is_purchased": 0
-          },
-          "2": {
-            "character_id": 102,
-            "is_purchased": 0
-          },
-          "3": {
-            "character_id": 103,
-            "is_purchased": 0
-          }
-        }
-      },
-      "dormitory_loading": {
+      "dorm_furniture": {
         "continuous_formulas": {},
         "discrete_milestones": {
-          "1": {
-            "dormitory_id": 1,
-            "character_id": 101,
-            "is_purchased": 0
+          "sofa_01": {
+            "furniture_name": "舒适沙发",
+            "furniture_type": "seat",
+            "furniture_price": 500,
+            "furniture_interaction_id": "sit_01"
           },
-          "2": {
-            "dormitory_id": 2,
-            "character_id": 102,
-            "is_purchased": 0
+          "table_01": {
+            "furniture_name": "木质圆桌",
+            "furniture_type": "table",
+            "furniture_price": 300,
+            "furniture_interaction_id": null
           },
-          "3": {
-            "dormitory_id": 3,
-            "character_id": 103,
-            "is_purchased": 0
+          "lamp_01": {
+            "furniture_name": "落地灯",
+            "furniture_type": "lighting",
+            "furniture_price": 200,
+            "furniture_interaction_id": "toggle_light_01"
+          },
+          "rug_01": {
+            "furniture_name": "毛绒地毯",
+            "furniture_type": "decoration",
+            "furniture_price": 150,
+            "furniture_interaction_id": null
           }
         }
       },
-      "interaction_detection": {
+      "dorm_pose": {
         "continuous_formulas": {},
         "discrete_milestones": {
-          "1": {
-            "interaction_type": "click",
-            "target_body_part": "head",
-            "target_furniture_id": 0,
-            "slide_direction": "none",
-            "is_valid": 1
+          "sit_01": {
+            "pose_name": "坐下休息",
+            "pose_trigger_type": "click",
+            "pose_animation_clip": "anim/sit_down",
+            "pose_voice_line_id": "voice_sit_01",
+            "pose_price": 100
           },
-          "2": {
-            "interaction_type": "slide",
-            "target_body_part": "arm",
-            "target_furniture_id": 0,
-            "slide_direction": "up",
-            "is_valid": 1
+          "wave_01": {
+            "pose_name": "挥手打招呼",
+            "pose_trigger_type": "proximity",
+            "pose_animation_clip": "anim/wave_hand",
+            "pose_voice_line_id": "voice_wave_01",
+            "pose_price": 80
           },
-          "3": {
-            "interaction_type": "drag",
-            "target_body_part": "none",
-            "target_furniture_id": 1,
-            "slide_direction": "none",
-            "is_valid": 1
-          },
-          "4": {
-            "interaction_type": "click",
-            "target_body_part": "leg",
-            "target_furniture_id": 0,
-            "slide_direction": "none",
-            "is_valid": 0
+          "dance_01": {
+            "pose_name": "即兴舞蹈",
+            "pose_trigger_type": "click",
+            "pose_animation_clip": "anim/dance",
+            "pose_voice_line_id": "voice_dance_01",
+            "pose_price": 200
           }
         }
       },
-      "action_trigger": {
+      "dorm_costume": {
         "continuous_formulas": {},
         "discrete_milestones": {
-          "1": {
-            "interaction_type": "click",
-            "target_body_part": "head",
-            "target_furniture_id": 0,
-            "slide_direction": "none"
+          "dress_01": {
+            "costume_name": "休闲便服",
+            "costume_type": "casual",
+            "costume_price": 300,
+            "costume_unlock_condition": "direct_purchase"
           },
-          "2": {
-            "interaction_type": "slide",
-            "target_body_part": "arm",
-            "target_furniture_id": 0,
-            "slide_direction": "up"
+          "dress_02": {
+            "costume_name": "晚礼服",
+            "costume_type": "formal",
+            "costume_price": 600,
+            "costume_unlock_condition": "direct_purchase"
           },
-          "3": {
-            "interaction_type": "drag",
-            "target_body_part": "none",
-            "target_furniture_id": 1,
-            "slide_direction": "none"
+          "dress_03": {
+            "costume_name": "夏日泳装",
+            "costume_type": "seasonal",
+            "costume_price": 450,
+            "costume_unlock_condition": "direct_purchase"
           }
         }
       },
-      "minigame": {
-        "continuous_formulas": {
-          "target_score": {
-            "base": 100,
-            "growth": 50,
-            "type": "linear"
-          },
-          "remaining_time": {
-            "base": 60,
-            "growth": -5,
-            "type": "linear"
-          }
-        },
+      "dorm_minigame": {
+        "continuous_formulas": {},
         "discrete_milestones": {
-          "1": {
-            "minigame_id": 1,
+          "puzzle_01": {
+            "minigame_name": "拼图挑战",
             "minigame_type": "puzzle",
-            "is_active": 0,
-            "current_score": 0,
-            "is_victory": 0
+            "minigame_price": 400,
+            "minigame_max_players": 1,
+            "minigame_duration_seconds": 120
           },
-          "2": {
-            "minigame_id": 2,
-            "minigame_type": "rhythm",
-            "is_active": 0,
-            "current_score": 0,
-            "is_victory": 0
-          },
-          "3": {
-            "minigame_id": 3,
+          "memory_01": {
+            "minigame_name": "记忆翻牌",
             "minigame_type": "memory",
-            "is_active": 0,
-            "current_score": 0,
-            "is_victory": 0
+            "minigame_price": 350,
+            "minigame_max_players": 2,
+            "minigame_duration_seconds": 90
+          },
+          "rhythm_01": {
+            "minigame_name": "节奏打击",
+            "minigame_type": "rhythm",
+            "minigame_price": 500,
+            "minigame_max_players": 1,
+            "minigame_duration_seconds": 60
           }
         }
       },
-      "affection": {
-        "continuous_formulas": {
-          "daily_affection_limit": {
-            "base": 100,
-            "growth": 20,
-            "type": "linear"
-          }
-        },
-        "discrete_milestones": {
-          "101": {
-            "character_id": 101,
-            "total_affection": 0,
-            "daily_affection_gained": 0,
-            "last_interaction_date": 0
-          },
-          "102": {
-            "character_id": 102,
-            "total_affection": 0,
-            "daily_affection_gained": 0,
-            "last_interaction_date": 0
-          },
-          "103": {
-            "character_id": 103,
-            "total_affection": 0,
-            "daily_affection_gained": 0,
-            "last_interaction_date": 0
-          }
-        }
-      },
-      "achievement": {
+      "device_quality_preset": {
         "continuous_formulas": {},
         "discrete_milestones": {
-          "1": {
-            "achievement_id": 1,
-            "achievement_name": "初次互动",
-            "is_unlocked": 0,
-            "unlock_condition_type": "interaction",
-            "unlock_condition_value": 1,
-            "current_progress": 0
+          "low": {
+            "device_quality_preset_name": "低画质",
+            "device_quality_preset_texture_scale": 0.5,
+            "device_quality_preset_shadow_quality": 0,
+            "device_quality_preset_particle_quality": 0
           },
-          "2": {
-            "achievement_id": 2,
-            "achievement_name": "好感达人",
-            "is_unlocked": 0,
-            "unlock_condition_type": "affection",
-            "unlock_condition_value": 500,
-            "current_progress": 0
+          "medium": {
+            "device_quality_preset_name": "中画质",
+            "device_quality_preset_texture_scale": 0.8,
+            "device_quality_preset_shadow_quality": 1,
+            "device_quality_preset_particle_quality": 1
           },
-          "3": {
-            "achievement_id": 3,
-            "achievement_name": "游戏高手",
-            "is_unlocked": 0,
-            "unlock_condition_type": "minigame",
-            "unlock_condition_value": 3,
-            "current_progress": 0
-          }
-        }
-      },
-      "furniture": {
-        "continuous_formulas": {},
-        "discrete_milestones": {
-          "1": {
-            "furniture_id": 1,
-            "furniture_name": "床",
-            "interaction_zone": "bed_center",
-            "drag_to_count": 3,
-            "associated_action_id": 101
+          "high": {
+            "device_quality_preset_name": "高画质",
+            "device_quality_preset_texture_scale": 1.0,
+            "device_quality_preset_shadow_quality": 2,
+            "device_quality_preset_particle_quality": 2
           },
-          "2": {
-            "furniture_id": 2,
-            "furniture_name": "沙发",
-            "interaction_zone": "sofa_seat",
-            "drag_to_count": 2,
-            "associated_action_id": 102
-          },
-          "3": {
-            "furniture_id": 3,
-            "furniture_name": "桌子",
-            "interaction_zone": "table_top",
-            "drag_to_count": 1,
-            "associated_action_id": 103
+          "ultra": {
+            "device_quality_preset_name": "极致画质",
+            "device_quality_preset_texture_scale": 2.0,
+            "device_quality_preset_shadow_quality": 3,
+            "device_quality_preset_particle_quality": 3
           }
         }
       }

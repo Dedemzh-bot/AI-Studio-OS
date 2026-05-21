@@ -12,7 +12,7 @@ Main Router (核心中枢 / 24h 常驻守护进程)
               --> pending_design_approval --> pending_plan_approval
               --> pending_system_design --> pending_system_approval
               --> pending_schema_translate --> pending_numerical --> pending_numerical_approval
-              --> completed(归档) --> idle
+              --> pending_tech_design --> pending_tech_approval --> completed(归档) --> idle
 """
 
 import json
@@ -421,6 +421,7 @@ def main():
             # 清理旧轮次文件
             for f in [AUDIT_FILE, ROUTE_FILE, BOSS_FEEDBACK_FILE,
                       os.path.join(WORKSPACE_DIR, "system_design_draft.md"),
+                      os.path.join(WORKSPACE_DIR, "system_design_detail.md"),
                       os.path.join(WORKSPACE_DIR, "task_plan.md")]:
                 if os.path.exists(f):
                     os.remove(f)
@@ -836,7 +837,7 @@ def main():
             """
             V3 系统设计最终验收：老板审阅 System Planner 详细设计 → 放行进入 JSON 翻译。
             """
-            draft_path = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
+            draft_path = os.path.join(WORKSPACE_DIR, "system_design_detail.md")
             plan_path = os.path.join(WORKSPACE_DIR, "task_plan.md")
 
             print("\033[93m" + "=" * 60 + "\033[0m")
@@ -937,14 +938,13 @@ def main():
                     os.path.join(WORKSPACE_DIR, "system_numerical_data.json"),
                     os.path.join(WORKSPACE_DIR, "system_numerical_docs.json"),
                 ],
-                next_state="completed",
+                next_state="pending_tech_design",
                 reject_state="pending_numerical",
             )
 
-            if result == "completed":
+            if result == "pending_tech_design":
                 _upsert_archive(WORKSPACE_DIR, PROJECT_DB_DIR)
                 print(f"\033[92m[Router] 核心数据已永久归档至 Project DB！\033[0m")
-                # 立即刷新全局记忆库，确保 Codex 与 Registry 同步
                 try:
                     subprocess.run(
                         [sys.executable, os.path.join(ROOT_DIR, "Skills", "build_memory_codex.py")],
@@ -952,13 +952,57 @@ def main():
                     )
                     print("[Router] 全局记忆库 (Codex + Registry) 已刷新。")
                 except subprocess.CalledProcessError as e:
-                    print(f"\033[91m[Router][警告] Codex 构建失败（{e.returncode}），数据已归档但记忆未刷新\033[0m")
+                    print(f"\033[91m[Router][警告] Codex 构建失败（{e.returncode}）\033[0m")
                 except FileNotFoundError:
-                    print("\033[91m[Router][警告] 找不到 build_memory_codex.py，跳过记忆刷新\033[0m")
+                    print("\033[91m[Router][警告] 找不到 build_memory_codex.py，跳过\033[0m")
 
             write_state(result)
 
         # ============================== 终态 ==============================
+        elif current_state == "pending_tech_design":
+            """
+            主程架构：调用 Tech Architect 生成程序开发蓝图。
+            """
+            print("[Router] 正在调用 Tech Architect 生成程序开发蓝图...")
+            try:
+                subprocess.run(
+                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "tech_architect.py")],
+                    check=True, cwd=ROOT_DIR,
+                )
+                print("[Router] Tech Architect 执行完毕，进入架构审批。")
+                write_state("pending_tech_approval")
+            except subprocess.CalledProcessError as e:
+                print(f"\033[91m[Router] TechArchitect 失败（{e.returncode}）\033[0m")
+                write_state("idle")
+            except FileNotFoundError:
+                print("\033[91m[Router] 找不到 tech_architect.py\033[0m")
+                write_state("idle")
+
+        elif current_state == "pending_tech_approval":
+            """
+            架构验收：审阅主程的 tech_blueprint.md → 通过后进入终态。
+            """
+            blueprint_path = os.path.join(WORKSPACE_DIR, "tech_blueprint.md")
+
+            print("\033[93m" + "=" * 60 + "\033[0m")
+            print(f"\033[93m[架构验收] 主程已完成程序开发蓝图: {blueprint_path}\033[0m")
+            print("[架构验收] 请输入修改意见打回重做；或输入 'y' 确认最终定稿：")
+            print("\033[93m" + "=" * 60 + "\033[0m")
+
+            user_input = input("[架构验收] 请输入: ").strip()
+
+            if user_input.lower() == "y":
+                print(f"\033[92m[架构验收] 老板批准！项目建设完毕，进入终态。\033[0m")
+                write_state("completed")
+            else:
+                print(f"\033[91m[架构验收] 老板打回！意见: {user_input}\033[0m")
+                try:
+                    with open(BOSS_FEEDBACK_FILE, "w", encoding="utf-8") as f:
+                        f.write(user_input)
+                except Exception as e:
+                    print(f"[架构验收][警告] 无法保存反馈: {e}")
+                write_state("pending_tech_design")
+
         elif current_state == "completed":
             print("[Router] 本次流水线任务全部完成，进入待机摸鱼模式...")
             write_state("idle")

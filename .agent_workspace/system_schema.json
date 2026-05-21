@@ -1,129 +1,38 @@
 [
   {
-    "module_name": "dormitory_purchase",
-    "continuous_fields": [
-      "dormitory_id",
-      "character_id",
-      "is_purchased",
-      "purchase_price",
-      "unlock_level"
-    ],
-    "discrete_fields": [
-      "dormitory_id",
-      "character_id",
-      "is_purchased",
-      "purchase_price",
-      "unlock_level"
-    ]
+    "module_name": "角色私人宿舍",
+    "continuous_fields": [],
+    "discrete_fields": []
   },
   {
-    "module_name": "dormitory_loading",
+    "module_name": "核心规则与玩法机制",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "表现层与角色展示联动",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "经济循环与商业化埋点",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "旧系统与数据联动",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "新增全局数据表",
     "continuous_fields": [],
     "discrete_fields": [
-      "dormitory_id",
-      "character_id",
-      "is_purchased"
-    ]
-  },
-  {
-    "module_name": "interaction_detection",
-    "continuous_fields": [
-      "interaction_type",
-      "target_body_part",
-      "target_furniture_id",
-      "slide_direction",
-      "is_valid"
-    ],
-    "discrete_fields": [
-      "interaction_type",
-      "target_body_part",
-      "target_furniture_id",
-      "slide_direction",
-      "is_valid"
-    ]
-  },
-  {
-    "module_name": "action_trigger",
-    "continuous_fields": [],
-    "discrete_fields": [
-      "interaction_type",
-      "target_body_part",
-      "target_furniture_id",
-      "slide_direction"
-    ]
-  },
-  {
-    "module_name": "minigame",
-    "continuous_fields": [
-      "minigame_id",
-      "minigame_type",
-      "is_active",
-      "current_score",
-      "target_score",
-      "remaining_time",
-      "is_victory"
-    ],
-    "discrete_fields": [
-      "minigame_id",
-      "minigame_type",
-      "is_active",
-      "current_score",
-      "target_score",
-      "remaining_time",
-      "is_victory"
-    ]
-  },
-  {
-    "module_name": "affection",
-    "continuous_fields": [
-      "character_id",
-      "total_affection",
-      "daily_affection_gained",
-      "daily_affection_limit",
-      "last_interaction_date"
-    ],
-    "discrete_fields": [
-      "character_id",
-      "total_affection",
-      "daily_affection_gained",
-      "daily_affection_limit",
-      "last_interaction_date"
-    ]
-  },
-  {
-    "module_name": "achievement",
-    "continuous_fields": [
-      "achievement_id",
-      "achievement_name",
-      "is_unlocked",
-      "unlock_condition_type",
-      "unlock_condition_value",
-      "current_progress"
-    ],
-    "discrete_fields": [
-      "achievement_id",
-      "achievement_name",
-      "is_unlocked",
-      "unlock_condition_type",
-      "unlock_condition_value",
-      "current_progress"
-    ]
-  },
-  {
-    "module_name": "furniture",
-    "continuous_fields": [
-      "furniture_id",
-      "furniture_name",
-      "interaction_zone",
-      "drag_to_count",
-      "associated_action_id"
-    ],
-    "discrete_fields": [
-      "furniture_id",
-      "furniture_name",
-      "interaction_zone",
-      "drag_to_count",
-      "associated_action_id"
+      "dorm_furniture",
+      "dorm_pose",
+      "dorm_costume",
+      "dorm_minigame",
+      "device_quality_preset"
     ]
   }
 ]
