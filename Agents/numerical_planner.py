@@ -25,6 +25,7 @@ DOCS_OUTPUT_FILE = os.path.join(WORKSPACE_DIR, "system_numerical_docs.json")
 DATA_OUTPUT_FILE = os.path.join(WORKSPACE_DIR, "system_numerical_data.json")
 RESULT_FILE      = os.path.join(WORKSPACE_DIR, "current_result.json")
 STATUS_FILE      = os.path.join(WORKSPACE_DIR, "task_status.json")
+FIX_FILE         = os.path.join(WORKSPACE_DIR, ".fix_correction.json")
 PROMPT_FILE      = os.path.join(ROOT_DIR, "Agents", "prompts", "numerical_planner_prompt.md")
 
 RED   = "\033[91m"
@@ -95,6 +96,26 @@ def main():
         f"以下是系统 Schema：\n\n```json\n{schema_json_str}\n```\n\n"
         "请输出完整的 JSON 对象（含 docs 和 data 两个顶级 Key）。"
     )
+
+    # ---- 定向修复模式 ----
+    if os.path.exists(FIX_FILE):
+        try:
+            with open(FIX_FILE, "r", encoding="utf-8") as f:
+                fix_data = json.load(f)
+            if fix_data.get("correction_mode"):
+                anchor = fix_data.get("anchor", "?")
+                desc = fix_data.get("problem", "?")
+                user_prompt += (
+                    f"\n\n【最高指令：定向修复模式】"
+                    f"审查官在你的文档中发现了错误。"
+                    f"请只在锚点 [{anchor}] 处进行针对性修改以解决以下问题：{desc}。"
+                    f"绝对保证文档的其他所有部分一字不差地保留！"
+                    f"千万不要因为修复一个问题而重写或精简其他无关内容！"
+                )
+                print(f"[Numerical Planner] 进入定向修复模式 — 锚点: {anchor}")
+            os.remove(FIX_FILE)
+        except Exception as e:
+            print(f"[Numerical Planner][警告] 读取修复指令失败: {e}")
 
     # ========== 3. 调用大模型 ==========
     print("[Numerical Planner] 正在呼叫大模型设计数值配置...")

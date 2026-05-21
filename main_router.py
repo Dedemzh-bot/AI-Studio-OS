@@ -12,7 +12,8 @@ Main Router (核心中枢 / 24h 常驻守护进程)
               --> pending_design_approval --> pending_plan_approval
               --> pending_system_design --> pending_system_approval
               --> pending_schema_translate --> pending_numerical --> pending_numerical_approval
-              --> pending_tech_design --> pending_tech_approval --> completed(归档) --> idle
+              --> pending_tech_design --> pending_tech_approval
+              --> pending_final_audit(全自动纠错回环) --> completed(归档) --> idle
 """
 
 import json
@@ -200,6 +201,52 @@ def _clear_retry_count():
             os.remove(RETRY_COUNT_FILE)
         except Exception:
             pass
+
+
+def _get_agent_script(agent_name: str) -> str | None:
+    """根据 responsible_agent 名称返回 Agent 脚本路径。"""
+    mapping = {
+        "system_planner": "Agents/system_planner.py",
+        "numerical_planner": "Agents/numerical_planner.py",
+        "numerical_agent": "Agents/numerical_agent.py",
+        "tech_architect": "Agents/tech_architect.py",
+        "combat_agent": "Agents/combat_agent.py",
+        "lead_planner": "Agents/lead_planner.py",
+        "schema_translator": "Agents/schema_translator.py",
+        "ui_agent": "Agents/ui_agent.py",
+    }
+    return mapping.get(agent_name)
+
+
+def _generate_final_audit_report(rounds: int):
+    """合并设计文档与审计追踪日志，生成终极审计报告。"""
+    report_path = os.path.join(WORKSPACE_DIR, "final_audit_report.md")
+    lines = ["# 终极审计报告", ""]
+    lines.append(f"> 审计轮次: {rounds} | 结论: 通过")
+    lines.append("")
+
+    trace_path = os.path.join(WORKSPACE_DIR, "audit_trace_log.md")
+    if os.path.exists(trace_path):
+        lines.append("## 审计追踪日志")
+        lines.append("")
+        with open(trace_path, "r", encoding="utf-8") as f:
+            lines.append(f.read())
+    else:
+        lines.append("## 审计追踪日志")
+        lines.append("")
+        lines.append("（无问题记录）")
+
+    lines.append("")
+    lines.append("## 最终交付物清单")
+    for fname in sorted(os.listdir(WORKSPACE_DIR)):
+        fpath = os.path.join(WORKSPACE_DIR, fname)
+        if os.path.isfile(fpath) and not fname.startswith("."):
+            size_kb = os.path.getsize(fpath) / 1024
+            lines.append(f"- {fname} ({size_kb:.1f} KB)")
+
+    os.makedirs(WORKSPACE_DIR, exist_ok=True)
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
 
 
 def require_human_approval(agent_name: str, artifact_paths: list[str],
@@ -992,8 +1039,8 @@ def main():
             user_input = input("[架构验收] 请输入: ").strip()
 
             if user_input.lower() == "y":
-                print(f"\033[92m[架构验收] 老板批准！项目建设完毕，进入终态。\033[0m")
-                write_state("completed")
+                print(f"\033[92m[架构验收] 老板批准！进入最终自动审计纠错回环。\033[0m")
+                write_state("pending_final_audit")
             else:
                 print(f"\033[91m[架构验收] 老板打回！意见: {user_input}\033[0m")
                 try:
@@ -1002,6 +1049,119 @@ def main():
                 except Exception as e:
                     print(f"[架构验收][警告] 无法保存反馈: {e}")
                 write_state("pending_tech_design")
+
+        elif current_state == "pending_final_audit":
+            """
+            全自动纠错回环：
+              1. 调用 Audit Agent 审查 → status: pass 或 reject + issues
+              2. 若 reject → 遍历 issues，静默唤醒对应 Agent 修正 → 再次审计
+              3. 循环至 pass → 生成 final_audit_report.md → HITL 确认结项
+            """
+            max_loops = 3
+            loop_count = _get_retry_count("final_audit")
+            print(f"[Router] 正在执行全自动审计纠错回环... (第 {loop_count + 1} 轮)")
+
+            # 1. 调用审计官
+            try:
+                subprocess.run(
+                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "audit_agent.py")],
+                    check=True, cwd=ROOT_DIR,
+                )
+            except subprocess.CalledProcessError as e:
+                print(f"\033[91m[Router] AuditAgent 失败（{e.returncode}）\033[0m")
+                write_state("idle")
+                return
+            except FileNotFoundError:
+                print("\033[91m[Router] 找不到 audit_agent.py\033[0m")
+                write_state("idle")
+                return
+
+            if not os.path.exists(AUDIT_FILE):
+                print("\033[91m[Router] 审计文件未生成\033[0m")
+                write_state("idle")
+                return
+
+            with open(AUDIT_FILE, "r", encoding="utf-8") as f:
+                audit_data = json.load(f)
+
+            status = audit_data.get("status", "reject")
+            issues = audit_data.get("issues", [])
+
+            if status == "pass":
+                _clear_retry_count()
+                print(f"\033[92m[审计通过] 所有内部 Bug 已修复，共经过 {loop_count + 1} 轮审计。\033[0m")
+                # 生成终极报告
+                try:
+                    _generate_final_audit_report(loop_count + 1)
+                except Exception as e:
+                    print(f"[Router][警告] 报告生成失败: {e}")
+                report_path = os.path.join(WORKSPACE_DIR, "final_audit_report.md")
+                print(f"[Router] 终极审计报告已生成: {report_path}")
+                print(f"\033[93m[审计通过] 所有内部 Bug 已修复，详见 final_audit_report.md。输入 'y' 确认项目结项: \033[0m", end="")
+                user_input = input().strip()
+                if user_input.lower() == "y":
+                    print(f"\033[92m[Router] 老板确认结项！项目建设完毕。\033[0m")
+                    write_state("completed")
+                else:
+                    print("[Router] 待老板确认后重新触发结项。")
+                    # 保持 pending_final_audit
+            else:
+                # 有 issues → 自动纠错
+                if loop_count >= max_loops:
+                    _clear_retry_count()
+                    print(f"\033[91m[Router] 审计纠错已达最大轮次 ({max_loops})，仍有 {len(issues)} 个问题未解决\033[0m")
+                    print("\033[93m[Router] 请老板人工介入。输入 'y' 忽略问题结项，或按其他键回 idle: \033[0m", end="")
+                    user_input = input().strip()
+                    if user_input.lower() == "y":
+                        write_state("completed")
+                    else:
+                        write_state("idle")
+                    return
+
+                print(f"\033[93m[审计打回] 发现 {len(issues)} 个问题，静默唤醒对应 Agent 修正...\033[0m")
+                corrected_any = False
+                for issue in issues:
+                    agent = issue.get("responsible_agent", "")
+                    anchor = issue.get("anchor", "")
+                    desc = issue.get("problem_description", "")
+                    suggestion = issue.get("fix_suggestion", "")
+
+                    # 将 issue 数据写入临时修复指令文件，供 Agent 读取
+                    fix_cmd = {
+                        "correction_mode": True,
+                        "anchor": anchor,
+                        "problem": desc,
+                        "suggestion": suggestion,
+                    }
+                    fix_cmd_path = os.path.join(WORKSPACE_DIR, ".fix_correction.json")
+                    with open(fix_cmd_path, "w", encoding="utf-8") as f:
+                        json.dump(fix_cmd, f, ensure_ascii=False)
+
+                    agent_script = _get_agent_script(agent)
+                    if agent_script:
+                        print(f"[Router]   修正 {agent}: {anchor} — {desc[:60]}...")
+                        try:
+                            subprocess.run(
+                                [sys.executable, os.path.join(ROOT_DIR, agent_script)],
+                                check=True, cwd=ROOT_DIR,
+                            )
+                            corrected_any = True
+                        except subprocess.CalledProcessError as e:
+                            print(f"\033[91m[Router]   {agent} 修正失败（{e.returncode}）\033[0m")
+                        except FileNotFoundError:
+                            print(f"\033[91m[Router]   找不到 {agent_script}\033[0m")
+                    else:
+                        print(f"\033[91m[Router]   未知 Agent: {agent}，跳过\033[0m")
+
+                # 清理修正指令
+                if os.path.exists(fix_cmd_path):
+                    os.remove(fix_cmd_path)
+
+                # 递增循环计数，下一轮心跳自动再次审计
+                loop_count += 1
+                _save_retry_count("final_audit", loop_count)
+                print(f"[Router] 本轮修正完毕，下一轮心跳重新审计 ({loop_count}/{max_loops})")
+                # 保持 pending_final_audit，不写状态（下轮自动重审）
 
         elif current_state == "completed":
             print("[Router] 本次流水线任务全部完成，进入待机摸鱼模式...")
