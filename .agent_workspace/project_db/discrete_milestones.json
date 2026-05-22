@@ -1,0 +1,203 @@
+[
+  {
+    "0": false,
+    "1": true
+  },
+  {
+    "0": false,
+    "1": true
+  },
+  {
+    "0": 0,
+    "50": 50,
+    "120": 120,
+    "210": 210,
+    "320": 320,
+    "450": 450,
+    "600": 600,
+    "770": 770,
+    "960": 960,
+    "1000": 1000
+  },
+  {
+    "interaction": 1,
+    "minigame_win": 50,
+    "minigame_lose": 10
+  },
+  {
+    "0": [],
+    "50": [
+      "interact_head_rub_01",
+      "interact_shoulder_tap_01"
+    ],
+    "120": [
+      "interact_arm_touch_01"
+    ],
+    "210": [
+      "interact_waist_pat_01"
+    ],
+    "320": [
+      "interact_hand_hold_01"
+    ],
+    "450": [
+      "interact_head_rub_02"
+    ],
+    "600": [
+      "interact_shoulder_tap_02"
+    ],
+    "770": [
+      "interact_arm_touch_02"
+    ],
+    "960": [
+      "interact_waist_pat_02"
+    ],
+    "1000": [
+      "interact_hand_hold_02",
+      "interact_hug_01"
+    ]
+  },
+  {
+    "0": [],
+    "50": [
+      "voice_dorm_head_rub_01",
+      "voice_dorm_shoulder_tap_01"
+    ],
+    "120": [
+      "voice_dorm_arm_touch_01"
+    ],
+    "210": [
+      "voice_dorm_waist_pat_01"
+    ],
+    "320": [
+      "voice_dorm_hand_hold_01"
+    ],
+    "450": [
+      "voice_dorm_head_rub_02"
+    ],
+    "600": [
+      "voice_dorm_shoulder_tap_02"
+    ],
+    "770": [
+      "voice_dorm_arm_touch_02"
+    ],
+    "960": [
+      "voice_dorm_waist_pat_02"
+    ],
+    "1000": [
+      "voice_dorm_hand_hold_02",
+      "voice_dorm_hug_01"
+    ]
+  },
+  {
+    "0": [],
+    "50": [
+      {
+        "interaction_id": "interact_head_rub_01",
+        "voice_id": "voice_dorm_head_rub_01"
+      },
+      {
+        "interaction_id": "interact_shoulder_tap_01",
+        "voice_id": "voice_dorm_shoulder_tap_01"
+      }
+    ],
+    "120": [
+      {
+        "interaction_id": "interact_arm_touch_01",
+        "voice_id": "voice_dorm_arm_touch_01"
+      }
+    ],
+    "210": [
+      {
+        "interaction_id": "interact_waist_pat_01",
+        "voice_id": "voice_dorm_waist_pat_01"
+      }
+    ],
+    "320": [
+      {
+        "interaction_id": "interact_hand_hold_01",
+        "voice_id": "voice_dorm_hand_hold_01"
+      }
+    ],
+    "450": [
+      {
+        "interaction_id": "interact_head_rub_02",
+        "voice_id": "voice_dorm_head_rub_02"
+      }
+    ],
+    "600": [
+      {
+        "interaction_id": "interact_shoulder_tap_02",
+        "voice_id": "voice_dorm_shoulder_tap_02"
+      }
+    ],
+    "770": [
+      {
+        "interaction_id": "interact_arm_touch_02",
+        "voice_id": "voice_dorm_arm_touch_02"
+      }
+    ],
+    "960": [
+      {
+        "interaction_id": "interact_waist_pat_02",
+        "voice_id": "voice_dorm_waist_pat_02"
+      }
+    ],
+    "1000": [
+      {
+        "interaction_id": "interact_hand_hold_02",
+        "voice_id": "voice_dorm_hand_hold_02"
+      },
+      {
+        "interaction_id": "interact_hug_01",
+        "voice_id": "voice_dorm_hug_01"
+      }
+    ]
+  },
+  {
+    "default": 5.0
+  },
+  {
+    "default": []
+  },
+  {
+    "0": false,
+    "1": true
+  },
+  {
+    "win": "win",
+    "lose": "lose",
+    "disconnect": "disconnect"
+  },
+  {
+    "0": [],
+    "50": [
+      "voice_dorm_head_rub_01",
+      "voice_dorm_shoulder_tap_01"
+    ],
+    "120": [
+      "voice_dorm_arm_touch_01"
+    ],
+    "210": [
+      "voice_dorm_waist_pat_01"
+    ],
+    "320": [
+      "voice_dorm_hand_hold_01"
+    ],
+    "450": [
+      "voice_dorm_head_rub_02"
+    ],
+    "600": [
+      "voice_dorm_shoulder_tap_02"
+    ],
+    "770": [
+      "voice_dorm_arm_touch_02"
+    ],
+    "960": [
+      "voice_dorm_waist_pat_02"
+    ],
+    "1000": [
+      "voice_dorm_hand_hold_02",
+      "voice_dorm_hug_01"
+    ]
+  }
+]

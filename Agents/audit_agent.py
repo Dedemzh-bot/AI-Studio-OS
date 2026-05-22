@@ -19,7 +19,7 @@ from Skills.llm_client import ask_llm, safe_extract_json
 
 WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
 PROMPT_FILE   = os.path.join(FILE_DIR, "prompts", "audit_agent_prompt.md")
-DRAFT_FILE    = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
+DRAFT_FILE    = os.path.join(WORKSPACE_DIR, "system_design_detail.md")
 DOCS_FILE     = os.path.join(WORKSPACE_DIR, "system_numerical_docs.json")
 DATA_FILE     = os.path.join(WORKSPACE_DIR, "system_numerical_data.json")
 BLUEPRINT_FILE = os.path.join(WORKSPACE_DIR, "tech_blueprint.md")
@@ -47,7 +47,7 @@ def read_file_safe(filepath: str, label: str) -> str:
     try:
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read().strip()
-        print(f"[Audit Agent] 已读取 {label} ({len(content)} 字符)")
+        print(f"[Audit Agent] 已读取 {os.path.basename(filepath)} ({len(content)} 字符) [{label}]")
         return content
     except Exception as e:
         print(f"[Audit Agent][警告] 读取 {label} 失败: {e}")

@@ -1,6 +1,6 @@
 """
 Schema Translator (格式翻译器)
-职责：读取人类确认的 system_design_draft.md → 翻译为结构化 system_schema.json
+职责：读取人类确认的 system_design_detail.md → 翻译为结构化 system_schema.json
 不做任何业务逻辑修改，只做格式转换。
 """
 
