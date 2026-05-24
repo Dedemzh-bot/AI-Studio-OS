@@ -14,13 +14,14 @@ ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm
+from Skills.memory_retriever import retrieve_memory
 
 WORKSPACE_DIR   = os.path.join(ROOT_DIR, ".agent_workspace")
 CONCEPT_FILE    = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 DRAFT_FILE      = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
 PLAN_FILE       = os.path.join(WORKSPACE_DIR, "task_plan.md")
 CODEX_FILE      = os.path.join(WORKSPACE_DIR, "project_codex.md")
-REGISTRY_FILE   = os.path.join(WORKSPACE_DIR, "global_asset_registry.json")
+REGISTRY_FILE   = os.path.join(ROOT_DIR, "Knowledge", "global_asset_registry.json")
 DETAIL_OUTPUT   = os.path.join(WORKSPACE_DIR, "system_design_detail.md")
 FEEDBACK_FILE   = os.path.join(WORKSPACE_DIR, "boss_feedback.txt")
 STATUS_FILE     = os.path.join(WORKSPACE_DIR, "task_status.json")
@@ -114,6 +115,12 @@ def main():
             print(f"[System Planner][警告] 读取修复指令失败: {e}")
 
     # ========== 4. 调用大模型 ==========
+    # ---- RAG 记忆注入 ----
+    rag_context = retrieve_memory(concept, ROOT_DIR)
+    if rag_context:
+        user_prompt += rag_context
+        print(f"[System Planner] 已注入 RAG 记忆 ({len(rag_context)} 字符)")
+
     print("[System Planner] 正在呼叫大模型扩写详细设计...")
     try:
         llm_response = ask_llm(system_prompt, user_prompt)

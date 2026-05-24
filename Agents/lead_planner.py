@@ -13,6 +13,7 @@ import glob
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from Skills.llm_client import ask_llm, safe_extract_json
+from Skills.memory_retriever import retrieve_memory
 
 # ---- 路径配置（全部使用绝对路径） ----
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -120,6 +121,12 @@ def main():
         )
 
     # ========== 3. 调用大模型 ==========
+    # ---- RAG 记忆注入 ----
+    rag_context = retrieve_memory(concept_text, ROOT_DIR)
+    if rag_context:
+        concept_text += rag_context
+        print(f"[LeadPlanner] 已注入 RAG 记忆 ({len(rag_context)} 字符)")
+
     print("[LeadPlanner] 正在调用大模型生成 Schema 与验收表...")
     try:
         response = ask_llm(system_prompt, concept_text)

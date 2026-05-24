@@ -3,259 +3,277 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "【角色私人宿舍】系统是一个一次性付费解锁的高级内容包，通过自由观赏、互动、擦边小游戏与好感度累积，强化玩家与五星角色之间的情感羁绊，并驱动皮肤与限定内容的商业化变现。",
+      "system_summary": "【角色私人宿舍】是一个买断制解锁的、为每位女性角色量身定制的专属私密空间，通过高度定制化的房间装修、专属好感度对话链、特殊触摸反馈及私密事件，深度强化玩家与单一角色的情感羁绊（Master-Love），其核心经济循环为：玩家通过每日有限的触摸和对话互动获取好感度经验，经验累积提升好感度等级，等级解锁新的对话、姿势和家具套装，从而驱动玩家持续投入情感与付费。",
       "field_dictionary": {
-        "dormitory_unlocked": "【布尔型】标识玩家是否已购买并永久解锁宿舍系统。true=已解锁，false=未解锁。默认值：false。",
-        "is_dormitory_unlocked": "【布尔型】接口返回字段，用于前端判断宿舍入口是否可点击。true=可进入，false=隐藏或置灰。默认值：false。",
-        "unlock_dormitory": "【布尔型】接口调用字段，触发永久解锁操作。仅当支付成功且dormitory_unlocked为false时有效。默认值：false。",
-        "dormitory_affection": "【整数型】每个五星角色独立的宿舍好感度值，范围0-1000。每1点对应好感度等级Lv.1-Lv.10的进度。默认值：0。",
-        "get_dormitory_affection": "【整数型】接口返回字段，返回指定角色的dormitory_affection当前值。默认值：0。",
-        "add_dormitory_affection": "【整数型】接口调用字段，传入要增加的好感度数值。范围：1-50。默认值：0。",
-        "unlocked_interactions": "【数组型】存储已解锁的互动动作ID列表，每个ID为字符串格式（如\"interact_head_rub_01\"）。默认值：[]。",
-        "unlocked_voice_lines": "【数组型】存储已解锁的宿舍专属语音ID列表，每个ID为字符串格式（如\"voice_dorm_head_rub_01\"）。默认值：[]。",
-        "get_dormitory_interaction_list": "【数组型】接口返回字段，根据角色ID和当前好感度等级，返回可触发的互动动作与语音ID的配对列表。每个元素为对象：{interaction_id: string, voice_id: string}。默认值：[]。",
-        "interaction_cooldown": "【浮点型】互动冷却时间，单位秒。范围：0.0-5.0。默认值：5.0。",
-        "unlocked_skins": "【数组型】存储玩家已解锁的角色皮肤ID列表，每个ID为字符串格式（如\"skin_swimsuit_01\"）。默认值：[]。",
-        "minigame_weekly_reset": "【布尔型】标识本周小游戏是否已进行。true=已进行，false=未进行。每周一凌晨4点重置为false。默认值：false。",
-        "minigame_result": "【字符串型】小游戏对局结果。枚举值：\"win\"（胜利）、\"lose\"（失败）、\"disconnect\"（断线）。默认值：\"lose\"。",
-        "dormitory_voice_pool": "【数组型】存储所有宿舍专属语音资源的ID列表，按好感度等级分组。每个元素为对象：{affection_level: int, voice_ids: [string]}。默认值：[]。"
+        "player_level": "【int】玩家当前等级，取值范围1-999，默认值1。",
+        "player_diamond": "【int】玩家当前持有的钻石数量，用于购买部分商品，取值范围0-999999，默认值0。",
+        "player_cash": "【int】玩家当前持有的现金数量，用于购买核心模块和礼包，取值范围0-999999，默认值0。",
+        "purchase_log": "【array<string>】玩家购买记录列表，存储已购买的商品ID，用于校验购买状态，默认值为空数组。",
+        "dormitory_is_unlocked": "【bool】标识玩家是否已解锁私人宿舍系统，true表示已解锁，false表示未解锁，默认值false。",
+        "dormitory_core_pack_purchased": "【bool】标识玩家是否已购买核心模块，true表示已购买，false表示未购买，默认值false。",
+        "dormitory_button_state": "【string】宿舍入口按钮的状态，取值范围：'locked'（锁定）、'unlocked'（解锁可进入）、'entered'（已进入），默认值'locked'。",
+        "room_style_id": "【string】当前房间的装修风格ID，对应家具套装配置表，默认值'furniture_default'。",
+        "furniture_list": "【array<string>】当前房间已放置的家具ID列表，用于场景加载，默认值为空数组。",
+        "affection_level": "【int】角色当前好感度等级，取值范围1-15，默认值1。",
+        "daily_interaction_count": "【int】当日有效触摸次数，对应策划案中的dailyInteractionCount，取值范围0-50，每日00:00重置为0，默认值0。",
+        "last_interaction_date": "【string】上次互动日期，格式为'YYYY-MM-DD'，用于判断是否需要重置每日次数，默认值为空字符串。",
+        "room_data_initialized": "【bool】标识角色房间数据是否已初始化，true表示已初始化，false表示未初始化，默认值false。",
+        "skin_id_equipped": "【string】角色当前装备的皮肤ID，对应皮肤配置表，默认值'skin_default'。",
+        "scene_loaded": "【bool】标识房间场景是否已加载完成，true表示已加载，false表示未加载，默认值false。",
+        "affection_exp": "【int】角色当前好感度经验值，取值范围0-52500，每日通过触摸和对话累积，默认值0。",
+        "daily_dialogue_triggered_list": "【array<string>】当日已触发的对话ID列表，对应策划案中的dailyDialogueCount，用于限制每日对话次数上限为5次，每日00:00重置为空数组，默认值为空数组。",
+        "unlocked_story_id": "【array<string>】已解锁的剧情ID列表，通过好感度等级解锁，默认值为空数组。",
+        "dialogue_option_available": "【bool】标识当前是否有可用的对话选项，true表示有可用选项，false表示无，默认值false。",
+        "dialogue_triggered_today": "【bool】标识今日是否已触发过对话，用于UI显示，默认值false。",
+        "story_unlocked": "【bool】标识是否有新解锁的剧情等待播放，true表示有，false表示无，默认值false。",
+        "touch_cooldown_timers": "【map<string, float>】触摸冷却计时器映射表，key为触摸区域ID，value为剩余冷却时间（秒），用于防止连续快速点击，默认值为空映射。",
+        "touch_region_defined": "【bool】标识触摸区域碰撞体是否已定义，true表示已定义，false表示未定义，默认值false。",
+        "touch_feedback_available": "【bool】标识当前触摸反馈是否可用（非冷却中且次数未满），true表示可用，false表示不可用，默认值true。",
+        "daily_touch_limit_reached": "【bool】标识当日触摸次数是否已达上限（50次），true表示已达上限，false表示未达上限，默认值false。",
+        "unlocked_content_list": "【array<string>】已解锁的内容ID列表，包括对话、姿势、家具等，默认值为空数组。",
+        "level_up_triggered": "【bool】标识是否触发了等级提升事件，true表示已触发，false表示未触发，默认值false。",
+        "new_dialogue_unlocked": "【bool】标识是否有新对话解锁，true表示有，false表示无，默认值false。",
+        "new_touch_feedback_unlocked": "【bool】标识是否有新触摸反馈解锁，true表示有，false表示无，默认值false。",
+        "new_idle_pose_unlocked": "【bool】标识是否有新待机姿势解锁，true表示有，false表示无，默认值false。",
+        "new_furniture_unlocked": "【bool】标识是否有新家具解锁，true表示有，false表示无，默认值false。",
+        "new_story_unlocked": "【bool】标识是否有新剧情解锁，true表示有，false表示无，默认值false。",
+        "equipped_skin_id": "【string】当前装备的皮肤ID，与skin_id_equipped同步，默认值'skin_default'。",
+        "unlocked_skin_interaction_list": "【array<string>】已解锁的皮肤专属互动ID列表，默认值为空数组。",
+        "skin_owned": "【bool】标识玩家是否拥有该皮肤，true表示拥有，false表示未拥有，默认值false。",
+        "skin_equipped": "【bool】标识该皮肤是否已装备，true表示已装备，false表示未装备，默认值false。",
+        "skin_special_interaction_unlocked": "【bool】标识皮肤专属互动是否已解锁，true表示已解锁，false表示未解锁，默认值false。",
+        "furniture_position": "【map<string, array<float>>】家具位置映射表，key为家具ID，value为[x, y, z]坐标数组，默认值为空映射。",
+        "furniture_rotation": "【map<string, array<float>>】家具旋转映射表，key为家具ID，value为[roll, pitch, yaw]欧拉角数组，默认值为空映射。",
+        "edit_mode_active": "【bool】标识房间编辑模式是否激活，true表示激活，false表示未激活，默认值false。",
+        "furniture_placed": "【bool】标识是否有新家具被放置，true表示有，false表示无，默认值false。",
+        "furniture_recycled": "【bool】标识是否有家具被回收，true表示有，false表示无，默认值false。",
+        "room_style_changed": "【bool】标识房间风格是否已更改，true表示已更改，false表示未更改，默认值false。",
+        "skin_purchased": "【bool】标识皮肤是否已购买，true表示已购买，false表示未购买，默认值false。",
+        "furniture_pack_purchased": "【bool】标识家具礼包是否已购买，true表示已购买，false表示未购买，默认值false。",
+        "room_style_purchased": "【bool】标识房间风格是否已购买，true表示已购买，false表示未购买，默认值false。",
+        "refund_processed": "【bool】标识退款是否已处理，true表示已处理，false表示未处理，默认值false。"
       },
       "relations_and_enums": {
-        "跨表外键调用关系": {
-          "dormitory_affection": "关联角色表（role_id），每个角色独立存储好感度值。",
-          "unlocked_interactions": "关联互动动作配置表（interaction_id），通过好感度等级解锁。",
-          "unlocked_voice_lines": "关联语音资源表（voice_id），通过好感度等级解锁。",
-          "unlocked_skins": "关联皮肤表（skin_id），与主系统皮肤数据共享。",
-          "get_dormitory_interaction_list": "依赖dormitory_affection计算当前等级，再查询unlocked_interactions和unlocked_voice_lines。",
-          "minigame_weekly_reset": "依赖全局时间系统，每周一凌晨4点触发重置。"
+        "cross_table_relations": {
+          "PlayerDormitoryData.roomData[roleId].affectionLevel": "关联到全局好感度系统的GetAffectionLevel(roleId)接口，用于判断解锁条件。",
+          "PlayerDormitoryData.roomData[roleId].affectionExp": "通过AddAffectionExp(roleId, exp)接口写入全局好感度系统。",
+          "PlayerDormitoryData.roomData[roleId].skin_id_equipped": "通过GetRoleCurrentSkinId(roleId)接口获取，用于加载角色模型。",
+          "PlayerDormitoryData.roomData[roleId].unlockedFurnitureSets": "通过PurchaseItem接口购买家具礼包后更新。",
+          "PlayerDormitoryData.isUnlocked": "通过PurchaseItem接口购买核心模块后设置为true。"
         },
-        "状态码枚举": {
-          "minigame_result": [
-            "win",
-            "lose",
-            "disconnect"
+        "enums": {
+          "dormitory_button_state": [
+            "locked",
+            "unlocked",
+            "entered"
           ],
-          "dormitory_unlocked": [
-            true,
-            false
+          "growth_type": [
+            "linear",
+            "exponential",
+            "logarithmic"
           ],
-          "minigame_weekly_reset": [
-            true,
-            false
+          "touch_region_id": [
+            "touch_head",
+            "touch_face",
+            "touch_hand",
+            "touch_chest",
+            "touch_hip"
+          ],
+          "pose_id": [
+            "pose_stand",
+            "pose_sit_bed",
+            "pose_lie_bed",
+            "pose_cuddle"
+          ],
+          "furniture_set_id": [
+            "furniture_default",
+            "furniture_japanese",
+            "furniture_modern"
           ]
         }
       },
-      "implementation_notes": "1. 所有新增接口（is_dormitory_unlocked、get_dormitory_affection、add_dormitory_affection、get_dormitory_interaction_list）需进行高并发压力测试，确保与主系统数据隔离。2. 互动冷却时间（interaction_cooldown）建议在客户端本地计时，服务端仅做最终校验。3. 小游戏断线场景需设计幂等逻辑：若minigame_weekly_reset为false且minigame_result为disconnect，则允许重试。4. 好感度等级阈值建议：Lv.1=0, Lv.2=50, Lv.3=120, Lv.4=210, Lv.5=320, Lv.6=450, Lv.7=600, Lv.8=770, Lv.9=960, Lv.10=1000。5. 皮肤联动互动动作需在皮肤上线时同步更新get_dormitory_interaction_list的返回内容。"
+      "implementation_notes": "下游主程序需注意：1. 每日重置逻辑需在服务器时间00:00原子性执行，遍历所有玩家的daily_interaction_count和daily_dialogue_triggered_list，确保重置一致性；2. 触摸反馈系统需实现冷却机制，防止每秒超过3次的快速点击触发'骚扰'判定；3. 场景加载时需根据skin_id_equipped加载对应皮肤模型，并检查Skin_SpecialTouch_Config.json是否存在覆盖配置；4. 好感度经验通过AddAffectionExp接口同步到全局系统，等级提升时需触发解锁内容检查；5. UI极简化逻辑需确保按钮在无操作3秒后淡出，触摸屏幕任意位置时恢复显示，且角色模型渲染优先级最高。"
     },
     "data": {
       "continuous_formulas": {
-        "dormitory_affection": {
+        "affection_exp_growth": {
           "base": 0,
-          "growth": 1,
-          "type": "linear"
+          "growth": 750,
+          "type": "linear",
+          "description": "每日好感度经验获取上限为750点，由50次触摸（每次10点）和5次对话（每次50点）组成。"
+        },
+        "affection_level_threshold": {
+          "base": 0,
+          "growth": 500,
+          "type": "exponential",
+          "coefficient": 1.5,
+          "description": "好感度等级升级所需经验呈指数增长，公式为：所需经验 = 500 * (1.5 ^ (level - 1))，但需与离散里程碑中的具体值对齐。"
         }
       },
       "discrete_milestones": {
-        "is_dormitory_unlocked": {
-          "0": false,
-          "1": true
+        "affection_level_milestones": {
+          "1": {
+            "required_exp": 0,
+            "unlock_dialogue": [],
+            "unlock_pose": [],
+            "unlock_furniture": [
+              "furniture_default"
+            ]
+          },
+          "2": {
+            "required_exp": 500,
+            "unlock_dialogue": [
+              "dialogue_01"
+            ],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "3": {
+            "required_exp": 1500,
+            "unlock_dialogue": [
+              "dialogue_02"
+            ],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "4": {
+            "required_exp": 3000,
+            "unlock_dialogue": [],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "5": {
+            "required_exp": 5000,
+            "unlock_dialogue": [
+              "dialogue_03"
+            ],
+            "unlock_pose": [
+              "pose_sit_bed"
+            ],
+            "unlock_furniture": []
+          },
+          "6": {
+            "required_exp": 7500,
+            "unlock_dialogue": [
+              "dialogue_04"
+            ],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "7": {
+            "required_exp": 10500,
+            "unlock_dialogue": [],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "8": {
+            "required_exp": 14000,
+            "unlock_dialogue": [
+              "dialogue_05"
+            ],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "9": {
+            "required_exp": 18000,
+            "unlock_dialogue": [],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "10": {
+            "required_exp": 22500,
+            "unlock_dialogue": [
+              "dialogue_06"
+            ],
+            "unlock_pose": [
+              "pose_lie_bed"
+            ],
+            "unlock_furniture": [
+              "furniture_japanese"
+            ]
+          },
+          "11": {
+            "required_exp": 27500,
+            "unlock_dialogue": [
+              "dialogue_07"
+            ],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "12": {
+            "required_exp": 33000,
+            "unlock_dialogue": [],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "13": {
+            "required_exp": 39000,
+            "unlock_dialogue": [
+              "dialogue_08"
+            ],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "14": {
+            "required_exp": 45500,
+            "unlock_dialogue": [],
+            "unlock_pose": [],
+            "unlock_furniture": []
+          },
+          "15": {
+            "required_exp": 52500,
+            "unlock_dialogue": [
+              "dialogue_09"
+            ],
+            "unlock_pose": [
+              "pose_cuddle"
+            ],
+            "unlock_furniture": [
+              "furniture_modern"
+            ]
+          }
         },
-        "unlock_dormitory": {
-          "0": false,
-          "1": true
+        "daily_limits": {
+          "max_daily_interaction_count": 50,
+          "max_daily_dialogue_count": 5,
+          "reset_time": "00:00"
         },
-        "get_dormitory_affection": {
-          "0": 0,
-          "50": 50,
-          "120": 120,
-          "210": 210,
-          "320": 320,
-          "450": 450,
-          "600": 600,
-          "770": 770,
-          "960": 960,
-          "1000": 1000
-        },
-        "add_dormitory_affection": {
-          "interaction": 1,
-          "minigame_win": 50,
-          "minigame_lose": 10
-        },
-        "unlocked_interactions": {
-          "0": [],
-          "50": [
-            "interact_head_rub_01",
-            "interact_shoulder_tap_01"
-          ],
-          "120": [
-            "interact_arm_touch_01"
-          ],
-          "210": [
-            "interact_waist_pat_01"
-          ],
-          "320": [
-            "interact_hand_hold_01"
-          ],
-          "450": [
-            "interact_head_rub_02"
-          ],
-          "600": [
-            "interact_shoulder_tap_02"
-          ],
-          "770": [
-            "interact_arm_touch_02"
-          ],
-          "960": [
-            "interact_waist_pat_02"
-          ],
-          "1000": [
-            "interact_hand_hold_02",
-            "interact_hug_01"
-          ]
-        },
-        "unlocked_voice_lines": {
-          "0": [],
-          "50": [
-            "voice_dorm_head_rub_01",
-            "voice_dorm_shoulder_tap_01"
-          ],
-          "120": [
-            "voice_dorm_arm_touch_01"
-          ],
-          "210": [
-            "voice_dorm_waist_pat_01"
-          ],
-          "320": [
-            "voice_dorm_hand_hold_01"
-          ],
-          "450": [
-            "voice_dorm_head_rub_02"
-          ],
-          "600": [
-            "voice_dorm_shoulder_tap_02"
-          ],
-          "770": [
-            "voice_dorm_arm_touch_02"
-          ],
-          "960": [
-            "voice_dorm_waist_pat_02"
-          ],
-          "1000": [
-            "voice_dorm_hand_hold_02",
-            "voice_dorm_hug_01"
-          ]
-        },
-        "get_dormitory_interaction_list": {
-          "0": [],
-          "50": [
-            {
-              "interaction_id": "interact_head_rub_01",
-              "voice_id": "voice_dorm_head_rub_01"
-            },
-            {
-              "interaction_id": "interact_shoulder_tap_01",
-              "voice_id": "voice_dorm_shoulder_tap_01"
-            }
-          ],
-          "120": [
-            {
-              "interaction_id": "interact_arm_touch_01",
-              "voice_id": "voice_dorm_arm_touch_01"
-            }
-          ],
-          "210": [
-            {
-              "interaction_id": "interact_waist_pat_01",
-              "voice_id": "voice_dorm_waist_pat_01"
-            }
-          ],
-          "320": [
-            {
-              "interaction_id": "interact_hand_hold_01",
-              "voice_id": "voice_dorm_hand_hold_01"
-            }
-          ],
-          "450": [
-            {
-              "interaction_id": "interact_head_rub_02",
-              "voice_id": "voice_dorm_head_rub_02"
-            }
-          ],
-          "600": [
-            {
-              "interaction_id": "interact_shoulder_tap_02",
-              "voice_id": "voice_dorm_shoulder_tap_02"
-            }
-          ],
-          "770": [
-            {
-              "interaction_id": "interact_arm_touch_02",
-              "voice_id": "voice_dorm_arm_touch_02"
-            }
-          ],
-          "960": [
-            {
-              "interaction_id": "interact_waist_pat_02",
-              "voice_id": "voice_dorm_waist_pat_02"
-            }
-          ],
-          "1000": [
-            {
-              "interaction_id": "interact_hand_hold_02",
-              "voice_id": "voice_dorm_hand_hold_02"
-            },
-            {
-              "interaction_id": "interact_hug_01",
-              "voice_id": "voice_dorm_hug_01"
-            }
-          ]
-        },
-        "interaction_cooldown": {
-          "default": 5.0
-        },
-        "unlocked_skins": {
-          "default": []
-        },
-        "minigame_weekly_reset": {
-          "0": false,
-          "1": true
-        },
-        "minigame_result": {
-          "win": "win",
-          "lose": "lose",
-          "disconnect": "disconnect"
-        },
-        "dormitory_voice_pool": {
-          "0": [],
-          "50": [
-            "voice_dorm_head_rub_01",
-            "voice_dorm_shoulder_tap_01"
-          ],
-          "120": [
-            "voice_dorm_arm_touch_01"
-          ],
-          "210": [
-            "voice_dorm_waist_pat_01"
-          ],
-          "320": [
-            "voice_dorm_hand_hold_01"
-          ],
-          "450": [
-            "voice_dorm_head_rub_02"
-          ],
-          "600": [
-            "voice_dorm_shoulder_tap_02"
-          ],
-          "770": [
-            "voice_dorm_arm_touch_02"
-          ],
-          "960": [
-            "voice_dorm_waist_pat_02"
-          ],
-          "1000": [
-            "voice_dorm_hand_hold_02",
-            "voice_dorm_hug_01"
-          ]
+        "touch_feedback_map": {
+          "touch_head": {
+            "voice_id": "voice_head_01",
+            "expression_id": "expr_happy",
+            "action_id": "action_head_tilt",
+            "jiggle_physics_intensity": 0,
+            "is_sensitive": false
+          },
+          "touch_face": {
+            "voice_id": "voice_face_01",
+            "expression_id": "expr_blush",
+            "action_id": "action_face_touch",
+            "jiggle_physics_intensity": 0,
+            "is_sensitive": true
+          },
+          "touch_hand": {
+            "voice_id": "voice_hand_01",
+            "expression_id": "expr_smile",
+            "action_id": "action_hand_hold",
+            "jiggle_physics_intensity": 0,
+            "is_sensitive": false
+          },
+          "touch_chest": {
+            "voice_id": "voice_chest_01",
+            "expression_id": "expr_blush_deep",
+            "action_id": "action_chest_shrink",
+            "jiggle_physics_intensity": 3,
+            "is_sensitive": true
+          },
+          "touch_hip": {
+            "voice_id": "voice_hip_01",
+            "expression_id": "expr_shy",
+            "action_id": "action_hip_turn",
+            "jiggle_physics_intensity": 2,
+            "is_sensitive": true
+          }
         }
       }
     }

@@ -61,3 +61,66 @@
 - 问题描述: 策划案中明确互动区域限制为头部、肩膀、手臂、腰部、手部，但数值配表和程序蓝图中均未定义如何配置这些互动区域。程序蓝图提到需要独立的 interaction_zone_config.json，但策划案未提供该配置文件的定义。
 - 修改建议: 建议在策划案中补充互动区域配置文件的定义，包括每个角色的骨骼名称与互动区域类型的映射关系。
 **当前审查总计问题:** 10 个
+
+--- 审查时间: 2026-05-24 18:28:13 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 1.1 系统核心入口与解锁流程
+- 问题描述: 策划案中购买触发逻辑提到扣除'PlayerData.diamond'或'PlayerData.cash'，但数值说明书中字段名为'player_diamond'和'player_cash'，命名不一致。
+- 修改建议: 统一字段命名，建议在策划案中使用与数值说明书一致的字段名，或明确说明两者为同一字段的不同表示方式。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 1.3 核心互动：好感度对话系统
+- 问题描述: 策划案中对话成功增加'affectionExp' +10，但未明确说明'affectionExp'与'affectionLevel'的对应关系及升级条件，数值配表中'affection_level_exp_cap'公式为100 + (level - 1) * 50，但策划案未引用此公式。
+- 修改建议: 在策划案中补充好感度经验升级的具体数值规则，或明确引用数值配表中的公式。
+### Issue 3
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 1.4 核心互动：触摸反馈系统
+- 问题描述: 策划案中触摸反馈系统提到'每日有效触摸次数上限为50次'，但未定义该上限对应的数据字段名，数值说明书中使用'daily_interaction_count'，而策划案中未明确该字段。
+- 修改建议: 在策划案中明确每日触摸次数上限对应的数据字段名，建议与数值说明书保持一致。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中字段'dormitory_core_pack_purchased'与策划案中购买触发逻辑使用的'PlayerDormitoryData.isUnlocked'和'PlayerDormitoryData.corePackPurchased'命名不一致，且数值说明书中未定义'isUnlocked'字段。
+- 修改建议: 统一字段命名，建议在数值说明书中增加'isUnlocked'字段，或修改策划案中的字段名以匹配数值说明书。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中字段'skin_id_equipped'和'equipped_skin_id'被标注为同一字段，但策划案中换装系统使用'PlayerData.equippedSkin[roleId]'，命名不一致，可能导致开发混淆。
+- 修改建议: 统一字段命名，建议在数值说明书中明确'equippedSkin'作为标准字段名，或修改策划案中的字段名。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中字段'daily_interaction_count'描述为'当日有效触摸次数'，但策划案中触摸系统使用'dailyInteractionCount'，且对话系统使用'dailyDialogueTriggeredList'，命名不一致。
+- 修改建议: 统一命名风格，建议在数值说明书中使用驼峰命名法以匹配策划案，或修改策划案中的字段名。
+### Issue 7
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、 后端逻辑划分 (Server) - 3.1 持久化数据 (DB)
+- 问题描述: 程序蓝图中'PlayerDormitoryData'表包含'corePackPurchased'字段，但策划案中购买触发逻辑使用'PlayerDormitoryData.isUnlocked'作为解锁标志，未明确'corePackPurchased'与'isUnlocked'的关系，可能导致数据冗余或逻辑冲突。
+- 修改建议: 明确'corePackPurchased'和'isUnlocked'的关系，建议合并为一个字段或明确两者之间的依赖逻辑。
+### Issue 8
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接) - 4. GetRoomData
+- 问题描述: 程序蓝图中的'GetRoomData'接口返回参数包含'equippedSkinId'和'unlockedSkinInteractionList'，但策划案中换装系统使用'PlayerData.equippedSkin[roleId]'，未明确房间数据中是否应包含皮肤信息，可能导致数据不一致。
+- 修改建议: 明确房间数据与角色皮肤数据的存储位置，建议统一在'PlayerRoomData'中存储当前装备皮肤ID，或通过API从角色数据表获取。
+### Issue 9
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、 后端逻辑划分 (Server) - 3.2 核心校验逻辑 - 好感度经验增长校验
+- 问题描述: 程序蓝图中触摸校验逻辑提到'基于服务器时间戳'管理冷却，但策划案中触摸冷却为2秒，未明确服务器端如何实现冷却计时，可能导致客户端与服务器冷却不同步。
+- 修改建议: 明确服务器端冷却计时器的实现方式，建议使用服务器时间戳记录上次触摸时间，并在每次请求时校验间隔是否大于2000毫秒。
+### Issue 10
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、 数值与配置表挂载 - 5. Item_Definition_Table
+- 问题描述: 程序蓝图中'Item_Definition_Table'结构包含'price'字段，但数值配表中未定义商品定价表，仅数值说明书提到定价，可能导致开发时缺少定价数据。
+- 修改建议: 在数值配表中补充商品定价表，或明确商品定价由其他配置表提供。
+**当前审查总计问题:** 10 个

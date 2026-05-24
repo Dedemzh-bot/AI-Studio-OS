@@ -1,0 +1,92 @@
+{
+  "system_summary": "【角色私人宿舍】是一个买断制解锁的、为每位女性角色量身定制的专属私密空间，通过高度定制化的房间装修、专属好感度对话链、特殊触摸反馈及私密事件，深度强化玩家与单一角色的情感羁绊（Master-Love），其核心经济循环为：玩家通过每日有限的触摸和对话互动获取好感度经验，经验累积提升好感度等级，等级解锁新的对话、姿势和家具套装，从而驱动玩家持续投入情感与付费。",
+  "field_dictionary": {
+    "player_level": "【int】玩家当前等级，取值范围1-999，默认值1。",
+    "player_diamond": "【int】玩家当前持有的钻石数量，用于购买部分商品，取值范围0-999999，默认值0。",
+    "player_cash": "【int】玩家当前持有的现金数量，用于购买核心模块和礼包，取值范围0-999999，默认值0。",
+    "purchase_log": "【array<string>】玩家购买记录列表，存储已购买的商品ID，用于校验购买状态，默认值为空数组。",
+    "dormitory_is_unlocked": "【bool】标识玩家是否已解锁私人宿舍系统，true表示已解锁，false表示未解锁，默认值false。",
+    "dormitory_core_pack_purchased": "【bool】标识玩家是否已购买核心模块，true表示已购买，false表示未购买，默认值false。",
+    "dormitory_button_state": "【string】宿舍入口按钮的状态，取值范围：'locked'（锁定）、'unlocked'（解锁可进入）、'entered'（已进入），默认值'locked'。",
+    "room_style_id": "【string】当前房间的装修风格ID，对应家具套装配置表，默认值'furniture_default'。",
+    "furniture_list": "【array<string>】当前房间已放置的家具ID列表，用于场景加载，默认值为空数组。",
+    "affection_level": "【int】角色当前好感度等级，取值范围1-15，默认值1。",
+    "daily_interaction_count": "【int】当日有效触摸次数，对应策划案中的dailyInteractionCount，取值范围0-50，每日00:00重置为0，默认值0。",
+    "last_interaction_date": "【string】上次互动日期，格式为'YYYY-MM-DD'，用于判断是否需要重置每日次数，默认值为空字符串。",
+    "room_data_initialized": "【bool】标识角色房间数据是否已初始化，true表示已初始化，false表示未初始化，默认值false。",
+    "skin_id_equipped": "【string】角色当前装备的皮肤ID，对应皮肤配置表，默认值'skin_default'。",
+    "scene_loaded": "【bool】标识房间场景是否已加载完成，true表示已加载，false表示未加载，默认值false。",
+    "affection_exp": "【int】角色当前好感度经验值，取值范围0-52500，每日通过触摸和对话累积，默认值0。",
+    "daily_dialogue_triggered_list": "【array<string>】当日已触发的对话ID列表，对应策划案中的dailyDialogueCount，用于限制每日对话次数上限为5次，每日00:00重置为空数组，默认值为空数组。",
+    "unlocked_story_id": "【array<string>】已解锁的剧情ID列表，通过好感度等级解锁，默认值为空数组。",
+    "dialogue_option_available": "【bool】标识当前是否有可用的对话选项，true表示有可用选项，false表示无，默认值false。",
+    "dialogue_triggered_today": "【bool】标识今日是否已触发过对话，用于UI显示，默认值false。",
+    "story_unlocked": "【bool】标识是否有新解锁的剧情等待播放，true表示有，false表示无，默认值false。",
+    "touch_cooldown_timers": "【map<string, float>】触摸冷却计时器映射表，key为触摸区域ID，value为剩余冷却时间（秒），用于防止连续快速点击，默认值为空映射。",
+    "touch_region_defined": "【bool】标识触摸区域碰撞体是否已定义，true表示已定义，false表示未定义，默认值false。",
+    "touch_feedback_available": "【bool】标识当前触摸反馈是否可用（非冷却中且次数未满），true表示可用，false表示不可用，默认值true。",
+    "daily_touch_limit_reached": "【bool】标识当日触摸次数是否已达上限（50次），true表示已达上限，false表示未达上限，默认值false。",
+    "unlocked_content_list": "【array<string>】已解锁的内容ID列表，包括对话、姿势、家具等，默认值为空数组。",
+    "level_up_triggered": "【bool】标识是否触发了等级提升事件，true表示已触发，false表示未触发，默认值false。",
+    "new_dialogue_unlocked": "【bool】标识是否有新对话解锁，true表示有，false表示无，默认值false。",
+    "new_touch_feedback_unlocked": "【bool】标识是否有新触摸反馈解锁，true表示有，false表示无，默认值false。",
+    "new_idle_pose_unlocked": "【bool】标识是否有新待机姿势解锁，true表示有，false表示无，默认值false。",
+    "new_furniture_unlocked": "【bool】标识是否有新家具解锁，true表示有，false表示无，默认值false。",
+    "new_story_unlocked": "【bool】标识是否有新剧情解锁，true表示有，false表示无，默认值false。",
+    "equipped_skin_id": "【string】当前装备的皮肤ID，与skin_id_equipped同步，默认值'skin_default'。",
+    "unlocked_skin_interaction_list": "【array<string>】已解锁的皮肤专属互动ID列表，默认值为空数组。",
+    "skin_owned": "【bool】标识玩家是否拥有该皮肤，true表示拥有，false表示未拥有，默认值false。",
+    "skin_equipped": "【bool】标识该皮肤是否已装备，true表示已装备，false表示未装备，默认值false。",
+    "skin_special_interaction_unlocked": "【bool】标识皮肤专属互动是否已解锁，true表示已解锁，false表示未解锁，默认值false。",
+    "furniture_position": "【map<string, array<float>>】家具位置映射表，key为家具ID，value为[x, y, z]坐标数组，默认值为空映射。",
+    "furniture_rotation": "【map<string, array<float>>】家具旋转映射表，key为家具ID，value为[roll, pitch, yaw]欧拉角数组，默认值为空映射。",
+    "edit_mode_active": "【bool】标识房间编辑模式是否激活，true表示激活，false表示未激活，默认值false。",
+    "furniture_placed": "【bool】标识是否有新家具被放置，true表示有，false表示无，默认值false。",
+    "furniture_recycled": "【bool】标识是否有家具被回收，true表示有，false表示无，默认值false。",
+    "room_style_changed": "【bool】标识房间风格是否已更改，true表示已更改，false表示未更改，默认值false。",
+    "skin_purchased": "【bool】标识皮肤是否已购买，true表示已购买，false表示未购买，默认值false。",
+    "furniture_pack_purchased": "【bool】标识家具礼包是否已购买，true表示已购买，false表示未购买，默认值false。",
+    "room_style_purchased": "【bool】标识房间风格是否已购买，true表示已购买，false表示未购买，默认值false。",
+    "refund_processed": "【bool】标识退款是否已处理，true表示已处理，false表示未处理，默认值false。"
+  },
+  "relations_and_enums": {
+    "cross_table_relations": {
+      "PlayerDormitoryData.roomData[roleId].affectionLevel": "关联到全局好感度系统的GetAffectionLevel(roleId)接口，用于判断解锁条件。",
+      "PlayerDormitoryData.roomData[roleId].affectionExp": "通过AddAffectionExp(roleId, exp)接口写入全局好感度系统。",
+      "PlayerDormitoryData.roomData[roleId].skin_id_equipped": "通过GetRoleCurrentSkinId(roleId)接口获取，用于加载角色模型。",
+      "PlayerDormitoryData.roomData[roleId].unlockedFurnitureSets": "通过PurchaseItem接口购买家具礼包后更新。",
+      "PlayerDormitoryData.isUnlocked": "通过PurchaseItem接口购买核心模块后设置为true。"
+    },
+    "enums": {
+      "dormitory_button_state": [
+        "locked",
+        "unlocked",
+        "entered"
+      ],
+      "growth_type": [
+        "linear",
+        "exponential",
+        "logarithmic"
+      ],
+      "touch_region_id": [
+        "touch_head",
+        "touch_face",
+        "touch_hand",
+        "touch_chest",
+        "touch_hip"
+      ],
+      "pose_id": [
+        "pose_stand",
+        "pose_sit_bed",
+        "pose_lie_bed",
+        "pose_cuddle"
+      ],
+      "furniture_set_id": [
+        "furniture_default",
+        "furniture_japanese",
+        "furniture_modern"
+      ]
+    }
+  },
+  "implementation_notes": "下游主程序需注意：1. 每日重置逻辑需在服务器时间00:00原子性执行，遍历所有玩家的daily_interaction_count和daily_dialogue_triggered_list，确保重置一致性；2. 触摸反馈系统需实现冷却机制，防止每秒超过3次的快速点击触发'骚扰'判定；3. 场景加载时需根据skin_id_equipped加载对应皮肤模型，并检查Skin_SpecialTouch_Config.json是否存在覆盖配置；4. 好感度经验通过AddAffectionExp接口同步到全局系统，等级提升时需触发解锁内容检查；5. UI极简化逻辑需确保按钮在无操作3秒后淡出，触摸屏幕任意位置时恢复显示，且角色模型渲染优先级最高。"
+}

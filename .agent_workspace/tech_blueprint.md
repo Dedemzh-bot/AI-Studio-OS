@@ -1,160 +1,287 @@
-好的，老板。收到您的详细设计案、数值配置表及系统Schema骨架。作为项目高级主程序，我将严格遵循您的指示，输出一份严谨、可落地的【程序开发蓝图 (Tech Blueprint)】。
-
----
-
-# 【角色私人宿舍】系统 - 程序开发蓝图 (Tech Blueprint)
+# 程序开发蓝图 (Tech Blueprint) - 【角色私人宿舍】系统
 
 ## 一、 整体架构概述
 
-本模块为**单机弱联网**的付费内容包，核心性能瓶颈在于**客户端**的3D渲染与交互表现。
-
-- **技术定位**：一个独立的、可选的、以情感羁绊为核心的3D互动场景系统。它不依赖实时对战或强同步逻辑，但需要与后端进行数据读写（解锁状态、好感度、皮肤列表）。
-- **核心挑战**：
-    1.  **客户端性能**：高精度角色模型、软体物理、流畅的视角控制与动画过渡，对移动端设备性能要求较高。
-    2.  **数据隔离**：宿舍好感度系统必须与主好感度系统完全独立，避免数据污染。
-    3.  **边界处理**：支付断线、小游戏断线、好感度解锁事件延迟触发等异常场景的兜底逻辑。
+【角色私人宿舍】系统是一个**强客户端表现、弱实时交互**的模块。核心性能瓶颈在于**客户端渲染**（角色模型高面数、Jiggle Physics、动态光影）和**资源加载**（场景预加载与缓存）。服务端主要负责**数据持久化**（每日次数、好感度经验、解锁状态）和**防作弊校验**（每日次数上限、购买状态验证）。前后端通信采用**请求-响应**模式，无长连接需求。
 
 ## 二、 前端模块划分 (Client)
 
-### 1. UI 组件层
-- **`DormitoryEntryWidget`**：主界面“基地”入口的子选项。负责显示“宿舍”按钮、`¥68`标签（未解锁时）、以及“需拥有五星角色”的置灰/隐藏状态。
-- **`UnlockPurchasePanel`**：购买“私人宿舍钥匙”的弹窗。包含商品详情、价格、支付按钮。支付成功后触发解锁特效。
-- **`RoleSelectPanel`**：已解锁五星角色的列表界面。支持滑动选择，点击后加载对应宿舍场景。
-- **`DormitoryHUD`**：宿舍场景内的半透明UI。包含：
-    - 右上角：好感度进度条及等级显示。
-    - 右侧：`服装`、`姿势`、`小游戏` 按钮。
-    - 操作提示（5秒后淡出）。
-- **`SkinSelectPanel`**：服装切换弹窗，展示已解锁皮肤列表。
-- **`PoseSelectPanel`**：姿势切换弹窗，展示预设动作列表。
-- **`MinigameEntryPanel`**：小游戏入口及选择界面。
-- **`MinigamePanel`**：猜拳/拍手游戏的核心交互界面。
-- **`UnlockNotificationPanel`**：好感度升级或解锁新内容时的特效与提示弹窗。
-- **`AffectionFloatingText`**：好感度增加时的浮动提示（“好感度 +X”）。
-- **`InteractionCooldownIndicator`**：互动冷却期间，屏幕边缘的红光闪烁提示。
+### UI 组件层
+- **入口组件**：主界面“宿舍”按钮（状态：locked/unlocked/entered）。
+- **角色选择界面**：展示已拥有角色列表，每个角色项显示头像、名字、好感度等级。
+- **房间主场景**：
+  - 极简操作UI（返回、对话、姿势切换、设置按钮）。
+  - 好感度进度条（顶部居中）。
+  - 触摸反馈提示（粉色心形图标）。
+  - 姿势选择轮盘。
+  - 每日次数提示（灰色文字）。
+- **购买弹窗**：核心模块购买确认弹窗、家具礼包购买弹窗。
+- **庆祝动画**：解锁成功全屏庆祝动画。
 
-### 2. 表现层控制器
-- **`DormitorySceneController`**：场景核心控制器。负责：
-    - 加载/卸载角色模型、场景资源。
-    - 管理第一人称摄像机（旋转、缩放、互动特写）。
-    - 播放“开门动画”。
-    - 管理角色状态机（待机、互动、小游戏、胜利/失败动画）。
-    - 接收UI层指令，调用角色表现接口。
-- **`CharacterInteractionController`**：角色互动表现控制器。负责：
-    - 射线检测点击区域，判断是否为“可互动区域”或“禁区”。
-    - 调用动画系统播放对应互动动画（如摸头、后退摇头）。
-    - 调用语音系统播放对应语音，并显示字幕。
-    - 管理互动冷却计时器（本地计时，服务端校验）。
-    - 触发软体物理（如胸部、头发抖动）。
-- **`MinigameController`**：小游戏逻辑控制器。负责：
-    - 实现猜拳/拍手游戏的本地逻辑（AI对手）。
-    - 判定胜负，播放胜利/失败动画。
-    - 调用Live2D播放器播放专属剧情片段。
-- **`SkinController`**：皮肤切换控制器。负责：
-    - 根据玩家选择的皮肤ID，动态替换角色模型。
-    - 触发布料物理重新结算。
-- **`AffectionController`**：好感度表现控制器。负责：
-    - 监听好感度变化事件，驱动UI进度条和浮动提示。
-    - 监听好感度等级变化事件，触发解锁通知。
+### 表现层控制器
+- **运镜控制器**：管理进入房间时的专属运镜动画（脚部到面部），支持玩家点击中断。
+- **触摸反馈控制器**：
+  - 检测触摸点是否落在预定义碰撞体（`Touch_Feedback_Map.md`）。
+  - 并行播放语音、表情动画、动作动画、Jiggle Physics。
+  - 管理“骚扰”判定（每秒超过3次）。
+  - 管理“害羞”状态（敏感区域触摸后泛红）。
+- **姿势切换控制器**：管理角色姿势过渡动画（站立→坐姿→躺卧）。
+- **服装联动控制器**：查询 `Skin_SpecialTouch_Config.json`，覆盖通用触摸反馈。
+- **UI极简化控制器**：管理按钮淡入淡出（无操作3秒后淡出，触摸恢复）。
+- **性能降级管理器**：根据设备性能自动切换动态/静态光影、Jiggle Physics帧率、模型LOD。
 
 ## 三、 后端逻辑划分 (Server)
 
-### 1. 持久化数据 (DB)
-- **`player_dormitory` 表**：
-    - `player_id` (主键)
-    - `dormitory_unlocked` (bool, 默认false)
-- **`player_dormitory_affection` 表**：
-    - `player_id` (联合主键)
-    - `role_id` (联合主键)
-    - `affection_value` (int, 范围0-1000)
-    - `unlocked_interactions` (JSON数组, 存储已解锁的互动ID列表)
-    - `unlocked_voice_lines` (JSON数组, 存储已解锁的语音ID列表)
-- **`player_dormitory_minigame` 表**：
-    - `player_id` (联合主键)
-    - `role_id` (联合主键)
-    - `weekly_reset_timestamp` (int, 记录本周一凌晨4点的时间戳，用于判断是否已进行)
-    - `last_result` (string, 枚举: “win”, “lose”, “disconnect”)
+### 持久化数据 (DB)
+- **`PlayerDormitoryData`**（主表，以 `playerId` 为键）：
+  - `isUnlocked` (bool)：是否已购买解锁。
+  - `roomData` (map<string, RoomData>)：以 `roleId` 为键的每个角色的房间数据。
+    - `affectionLevel` (int)：好感度等级（1-15）。
+    - `affectionExp` (int)：好感度经验值（0-52500）。
+    - `dailyInteractionCount` (int)：今日有效触摸次数（0-50）。
+    - `dailyDialogueCount` (int)：今日有效对话次数（0-5）。
+    - `currentPoseId` (string)：当前姿势ID。
+    - `currentFurnitureSetId` (string)：当前家具套装ID。
+    - `unlockedFurnitureSets` (array<string>)：已解锁家具套装列表。
+    - `unlockedDialogues` (array<string>)：已解锁对话ID列表。
+    - `unlockedPoses` (array<string>)：已解锁姿势ID列表。
+- **`PurchaseLog`**（关联表）：记录玩家购买记录（商品ID、购买时间）。
 
-### 2. 核心校验逻辑
-- **`unlock_dormitory` 接口**：
-    - **校验**：`dormitory_unlocked` 必须为 `false`；支付订单必须有效且未使用。
-    - **防作弊**：必须通过支付SDK的回调验证订单，严禁客户端直接调用解锁。
-- **`add_dormitory_affection` 接口**：
-    - **校验**：`dormitory_unlocked` 必须为 `true`；`affection_value` 增加后不能超过1000；`interaction_cooldown` 必须已过期（服务端记录上次互动时间戳）。
-    - **防作弊**：限制单次增加上限（如50点）；限制单位时间内调用频率（如每分钟最多10次）。
-- **`minigame_result` 接口**：
-    - **校验**：`weekly_reset_timestamp` 必须早于本周一凌晨4点（即本周未进行）；`minigame_result` 不能为 `disconnect`（断线重连场景）。
-    - **防作弊**：结果必须由服务端生成（猜拳AI逻辑在服务端执行），客户端仅上传操作序列，服务端判定胜负。
-- **`get_dormitory_interaction_list` 接口**：
-    - **校验**：根据 `affection_value` 计算当前等级，查询 `unlocked_interactions` 和 `unlocked_voice_lines`，返回当前等级可用的所有互动。
+### 核心校验逻辑
+- **购买校验**：
+  - 校验 `purchase_log` 中是否已存在 `shop_item_dormitory_unlock`，防止重复购买。
+  - 校验玩家货币是否充足（`player_cash`）。
+- **每日次数校验**：
+  - 每次触摸请求时，校验 `dailyInteractionCount < 50`。
+  - 每次对话请求时，校验 `dailyDialogueCount < 5`。
+  - 每日00:00定时任务原子性重置所有玩家的 `dailyInteractionCount` 和 `dailyDialogueCount`。
+- **好感度升级校验**：
+  - 每次增加经验后，校验 `affectionExp` 是否达到下一等级所需经验（参照好感度等级解锁映射表）。
+  - 若达到，更新 `affectionLevel`，并解锁对应内容（对话、姿势、家具）。
+- **断线重连校验**：
+  - 玩家登录时，校验订单状态。若支付成功但 `isUnlocked` 为 false，补写数据并触发解锁提示。
+  - 新角色入队时，自动初始化 `roomData[roleId]`。
 
 ## 四、 前后端通信协议 (API & 数据对接)
 
-| 接口名 | 方向 | 请求参数 | 返回参数 |
-| :--- | :--- | :--- | :--- |
-| `is_dormitory_unlocked` | C->S | `player_id` | `{ unlocked: bool }` |
-| `unlock_dormitory` | C->S | `player_id`, `payment_order_id` | `{ success: bool, error_code: int }` |
-| `get_owned_five_star_roles` | C->S | `player_id` | `{ role_ids: [string] }` (复用已有接口) |
-| `get_dormitory_affection` | C->S | `player_id`, `role_id` | `{ affection_value: int }` |
-| `add_dormitory_affection` | C->S | `player_id`, `role_id`, `value: int` | `{ new_affection_value: int, unlocked_items: { interactions: [string], voice_lines: [string] } }` |
-| `get_dormitory_interaction_list` | C->S | `player_id`, `role_id` | `{ interactions: [{ interaction_id: string, voice_id: string }] }` |
-| `get_unlocked_skins` | C->S | `player_id`, `role_id` | `{ skin_ids: [string] }` (复用已有接口) |
-| `minigame_start` | C->S | `player_id`, `role_id` | `{ success: bool, error_code: int }` |
-| `minigame_submit_action` | C->S | `player_id`, `role_id`, `round: int`, `action: string` | `{ round_result: string, ai_action: string }` |
-| `minigame_end` | C->S | `player_id`, `role_id`, `final_result: string` | `{ affection_gained: int, unlocked_cutscene_id: string (optional) }` |
-| `get_dormitory_voice_pool` | C->S | `role_id`, `affection_level: int` | `{ voice_ids: [string] }` |
+### 核心接口
+
+1. **`GetPlayerDormitoryData`**: C->S / 请求参数: `playerId` / 返回参数: `PlayerDormitoryData` 对象。
+2. **`PurchaseDormitoryCorePack`**: C->S / 请求参数: `playerId` / 返回参数: `{ success: bool, errorCode: string }`。
+   - 服务端校验：货币充足、未购买过。
+   - 成功后：`isUnlocked = true`，初始化所有已拥有角色的 `roomData`。
+3. **`PurchaseFurniturePack`**: C->S / 请求参数: `playerId`, `furniturePackId` / 返回参数: `{ success: bool, errorCode: string }`。
+   - 服务端校验：货币充足、未购买过该礼包。
+   - 成功后：将 `furniturePackId` 添加到所有已拥有角色的 `unlockedFurnitureSets`。
+4. **`EnterRoom`**: C->S / 请求参数: `playerId`, `roleId` / 返回参数: `RoomData`（该角色的房间数据）。
+5. **`RecordDailyInteraction`**: C->S / 请求参数: `playerId`, `roleId`, `touchAreaId` / 返回参数: `{ success: bool, newInteractionCount: int, newAffectionExp: int, levelUp: bool, newLevel: int }`。
+   - 服务端校验：`dailyInteractionCount < 50`。
+   - 成功后：`dailyInteractionCount += 1`，`affectionExp += 10`。
+6. **`RecordDailyDialogue`**: C->S / 请求参数: `playerId`, `roleId`, `dialogueId` / 返回参数: `{ success: bool, newDialogueCount: int, newAffectionExp: int, levelUp: bool, newLevel: int }`。
+   - 服务端校验：`dailyDialogueCount < 5`。
+   - 成功后：`dailyDialogueCount += 1`，`affectionExp += 50`。
+7. **`UpdateRoomCustomization`**: C->S / 请求参数: `playerId`, `roleId`, `furnitureSetId` / 返回参数: `{ success: bool }`。
+   - 服务端校验：`furnitureSetId` 是否在 `unlockedFurnitureSets` 中。
+8. **`SwitchPose`**: C->S / 请求参数: `playerId`, `roleId`, `newPoseId` / 返回参数: `{ success: bool }`。
+   - 服务端校验：`newPoseId` 是否在 `unlockedPoses` 中。
+9. **`GetAffectionLevel`**: S->C（被动调用）/ 用于前端UI显示好感度等级。
+10. **`AddAffectionExp`**: S->C（被动调用）/ 用于全局好感度系统同步经验值。
 
 ## 五、 数值与配置表挂载
 
-程序启动时，需加载数值策划提供的 `system_numerical_data.json` 文件，并解析以下关键配置：
+程序启动时，需加载以下配置表（JSON格式），并缓存到内存中：
 
-1.  **好感度等级阈值**：
-    - 从 `implementation_notes` 中提取 `affection_level_thresholds` 数组：`[0, 50, 120, 210, 320, 450, 600, 770, 960, 1000]`。
-    - 用于服务端计算当前等级，以及客户端显示进度条。
-2.  **互动冷却时间**：
-    - 从 `field_dictionary` 中提取 `interaction_cooldown` 的默认值 `5.0`。
-    - 用于客户端本地计时和服务端校验。
-3.  **互动区域配置**：
-    - 需要一份独立的 `interaction_zone_config.json` 配置文件（非本数值文档提供），定义每个角色模型的骨骼名称与对应的互动区域类型（可互动/禁区）。
-4.  **小游戏配置**：
-    - 需要一份 `minigame_config.json` 配置文件，定义猜拳/拍手游戏的规则、AI难度、胜利/失败动画ID等。
+### 5.1 `Affection_Level_Config.json`（好感度等级解锁映射表）
+- **来源**：系统策划案 6.1 节。
+- **结构**：
+  ```json
+  [
+    {
+      "level": 1,
+      "requiredExp": 0,
+      "unlockDialogues": [],
+      "unlockPoses": ["pose_stand"],
+      "unlockFurnitureSets": ["furniture_default"]
+    },
+    {
+      "level": 2,
+      "requiredExp": 500,
+      "unlockDialogues": ["dialogue_01"],
+      "unlockPoses": [],
+      "unlockFurnitureSets": []
+    },
+    // ... 直至 level 15
+  ]
+  ```
+- **挂载点**：`AffectionGrowthSystem` 模块，用于校验升级和解锁内容。
+
+### 5.2 `Touch_Feedback_Map.json`（触摸反馈映射表）
+- **来源**：系统策划案 6.2 节 + `Touch_Feedback_Map.md`。
+- **结构**：
+  ```json
+  [
+    {
+      "touchRegionId": "touch_head",
+      "regionName": "头部",
+      "voiceId": "voice_head_01",
+      "expressionId": "expr_happy",
+      "actionId": "action_head_tilt",
+      "jigglePhysicsStrength": 0,
+      "isSensitive": false
+    },
+    // ... 其他区域
+  ]
+  ```
+- **挂载点**：`TouchFeedbackController` 模块，用于查询反馈组合。
+
+### 5.3 `Daily_Limit_Config.json`（每日次数上限配置表）
+- **来源**：系统策划案 6.3 节。
+- **结构**：
+  ```json
+  {
+    "maxDailyInteraction": 50,
+    "maxDailyDialogue": 5,
+    "resetTime": "00:00",
+    "interactionExpPerTouch": 10,
+    "dialogueExpPerCompletion": 50,
+    "maxDailyExp": 750
+  }
+  ```
+- **挂载点**：`DailyResetSystem` 和 `InteractionValidator` 模块。
+
+### 5.4 `Skin_SpecialTouch_Config.json`（皮肤专属触摸反馈配置）
+- **来源**：系统策划案 3.4 节。
+- **结构**：
+  ```json
+  {
+    "skin_swimsuit_01": {
+      "touch_chest": {
+        "voiceId": "voice_chest_swimsuit_01",
+        "expressionId": "expr_blush_deep",
+        "jigglePhysicsStrength": 3
+      }
+    },
+    "skin_maid_01": {
+      "touch_hand": {
+        "voiceId": "voice_hand_maid_01",
+        "actionId": "action_skirt_lift"
+      }
+    }
+  }
+  ```
+- **挂载点**：`CostumeLinkageController` 模块，用于覆盖通用反馈。
+
+### 5.5 `Item_Definition_Table.json`（商品定义表）
+- **来源**：系统策划案 4.1 节 + 数值策划文档中的定价信息。
+- **结构**：
+  ```json
+  [
+    {
+      "itemId": "shop_item_dormitory_unlock",
+      "itemName": "私人宿舍核心模块",
+      "price": 30,
+      "currencyType": "cash",
+      "itemType": "core_module"
+    },
+    {
+      "itemId": "shop_item_furniture_pack_01",
+      "itemName": "和风家具礼包",
+      "price": 12,
+      "currencyType": "cash",
+      "itemType": "furniture_pack",
+      "furnitureSetId": "furniture_japanese"
+    },
+    {
+      "itemId": "shop_item_furniture_pack_02",
+      "itemName": "现代简约家具礼包",
+      "price": 12,
+      "currencyType": "cash",
+      "itemType": "furniture_pack",
+      "furnitureSetId": "furniture_modern"
+    }
+  ]
+  ```
+- **挂载点**：`ShopSystem` 模块，用于商品展示和购买校验。**注意**：`price` 字段的值来源于系统策划案 4.1 节中的定价说明（¥30 / $4.99 等），数值策划文档中未提供独立的商品定价表，因此本表作为程序开发时的定价数据源。若后续数值策划提供正式定价表，需以此为准进行替换。
+
+### 5.6 `Pose_Config.json`（姿势配置表）
+- **来源**：系统策划案 3.3 节。
+- **结构**：
+  ```json
+  [
+    {
+      "poseId": "pose_stand",
+      "poseName": "站立",
+      "unlockLevel": 1,
+      "cameraPosition": [0, 1.5, 1.5],
+      "cameraRotation": [0, 0, 0]
+    },
+    {
+      "poseId": "pose_sit_bed",
+      "poseName": "坐在床边",
+      "unlockLevel": 5,
+      "cameraPosition": [0, 1.0, 1.2],
+      "cameraRotation": [0, 0, 0]
+    },
+    {
+      "poseId": "pose_lie_bed",
+      "poseName": "慵懒躺卧",
+      "unlockLevel": 10,
+      "cameraPosition": [0, 0.5, 1.0],
+      "cameraRotation": [0, 0, 0]
+    },
+    {
+      "poseId": "pose_cuddle",
+      "poseName": "依偎",
+      "unlockLevel": 15,
+      "cameraPosition": [0, 1.2, 1.0],
+      "cameraRotation": [0, 0, 0]
+    }
+  ]
+  ```
+- **挂载点**：`PoseSwitchController` 模块，用于姿势解锁判断和摄像机定位。
 
 ## 六、 开发优先级与依赖链路 (执行排期) ★ 核心
 
-### 阶段一 (P0 - 底层数据与协议) - 预估耗时：2周
-- **目标**：打通数据链路，确保核心逻辑可被服务端验证。
-- **任务**：
-    1.  **数据库建表**：创建 `player_dormitory`, `player_dormitory_affection`, `player_dormitory_minigame` 三张表。
-    2.  **核心API定义与实现**：
-        - `is_dormitory_unlocked`
-        - `unlock_dormitory` (含支付校验逻辑)
-        - `add_dormitory_affection` (含冷却校验、频率限制)
-        - `get_dormitory_interaction_list` (含等级计算逻辑)
-    3.  **小游戏服务端逻辑**：实现猜拳AI，完成 `minigame_start`, `minigame_submit_action`, `minigame_end` 接口。
-    4.  **数值配置表加载**：实现 `system_numerical_data.json` 的解析与缓存。
+### 阶段一 (P0 - 底层数据与协议)
+- **建表**：创建 `PlayerDormitoryData` 数据库表，包含所有字段。
+- **定义 API**：完成所有核心接口（1-8）的 protobuf 定义和桩代码。
+- **后端核心校验逻辑**：
+  - 购买校验（`PurchaseDormitoryCorePack`、`PurchaseFurniturePack`）。
+  - 每日次数校验（`RecordDailyInteraction`、`RecordDailyDialogue`）。
+  - 好感度升级校验（`AddAffectionExp` 后的等级检查）。
+  - 每日重置定时任务（原子性重置所有玩家的每日次数）。
+- **配置表加载**：实现 `Affection_Level_Config.json`、`Daily_Limit_Config.json`、`Item_Definition_Table.json` 的加载和缓存。
+- **依赖**：无（纯后端逻辑，可独立开发）。
 
-### 阶段二 (P1 - 前端核心表现与玩法闭环) - 预估耗时：4周
-- **目标**：实现完整的用户交互流程，核心玩法可玩。
-- **任务**：
-    1.  **UI框架搭建**：完成所有UI面板的Prefab制作与基础逻辑。
-    2.  **场景与角色加载**：实现 `DormitorySceneController`，完成场景切换、角色模型加载。
-    3.  **自由观赏模式**：实现第一人称摄像机控制（旋转、缩放）、服装/姿势切换。
-    4.  **核心互动模式**：实现 `CharacterInteractionController`，完成射线检测、动画播放、语音播放、冷却逻辑。
-    5.  **小游戏前端**：实现 `MinigameController`，完成猜拳/拍手游戏的UI与逻辑，接入服务端API。
-    6.  **好感度系统前端**：实现 `AffectionController`，完成进度条、浮动提示、解锁通知。
-    7.  **前后端联调**：将所有P0接口与前端表现串联，跑通“解锁 -> 进入 -> 互动 -> 小游戏 -> 好感度升级”的完整闭环。
+### 阶段二 (P1 - 前端核心表现)
+- **UI 框架搭建**：
+  - 入口组件、角色选择界面、房间主场景 UI 框架。
+  - 购买弹窗、庆祝动画。
+- **接入后端 API**：
+  - 实现 `GetPlayerDormitoryData`、`EnterRoom` 的客户端调用。
+  - 实现 `RecordDailyInteraction`、`RecordDailyDialogue` 的客户端调用。
+- **核心玩法跑通**：
+  - 运镜控制器（进入房间动画）。
+  - 触摸反馈控制器（基础触摸检测、语音/表情/动作播放）。
+  - 好感度进度条 UI 更新。
+  - 姿势切换控制器（基础切换逻辑）。
+- **依赖**：阶段一完成后联调。
 
-### 阶段三 (P2 - 表现层打磨与边缘异常兜底) - 预估耗时：2周
-- **目标**：提升品质，处理所有边界情况，确保稳定性。
-- **任务**：
-    1.  **表现层特效接入**：
-        - 购买解锁特效。
-        - 好感度升级解锁特效。
-        - 小游戏胜利/失败动画。
-        - 互动时的镜头特写与软体物理。
-    2.  **边缘异常兜底**：
-        - **支付断线**：实现订单验证与补发机制。
-        - **小游戏断线**：实现幂等逻辑，允许重试。
-        - **好感度升级断线**：实现登录时自动触发解锁事件。
-        - **网络中断**：场景加载中断时，显示重连提示并返回主界面。
-        - **性能优化**：提供“关闭开门动画”和“关闭软体物理”选项。
-    3.  **资源与配置表最终检查**：确保所有互动动作、语音、皮肤ID与配置表一致，无遗漏。
+### 阶段三 (P2 - 表现层打磨)
+- **特效接入**：
+  - Jiggle Physics 系统集成。
+  - 触摸反馈提示（粉色心形图标）。
+  - “害羞”状态（面部泛红、眼神迷离）。
+  - “骚扰”判定与反馈（红色感叹号、警告音效）。
+- **边缘异常兜底**：
+  - 断线重连逻辑（登录时校验订单状态、补写数据）。
+  - 新角色入队时自动初始化 `roomData`。
+  - 性能降级策略（动态光影→静态光影、Jiggle Physics 降帧、模型 LOD 切换）。
+  - 资源缺失降级（皮肤专属配置缺失时使用通用反馈）。
+- **皮肤联动**：
+  - 加载 `Skin_SpecialTouch_Config.json`，实现皮肤专属触摸反馈覆盖。
+- **家具系统**：
+  - 实现 `UpdateRoomCustomization` 接口。
+  - 房间装修界面（家具套装切换）。
+- **数据埋点**：实现所有关键事件埋点（`dormitory_enter`、`dormitory_touch` 等）。
+- **依赖**：阶段二完成后进行。

@@ -1,0 +1,183 @@
+{
+  "continuous_formulas": {
+    "affection_exp_growth": {
+      "base": 0,
+      "growth": 750,
+      "type": "linear",
+      "description": "每日好感度经验获取上限为750点，由50次触摸（每次10点）和5次对话（每次50点）组成。"
+    },
+    "affection_level_threshold": {
+      "base": 0,
+      "growth": 500,
+      "type": "exponential",
+      "coefficient": 1.5,
+      "description": "好感度等级升级所需经验呈指数增长，公式为：所需经验 = 500 * (1.5 ^ (level - 1))，但需与离散里程碑中的具体值对齐。"
+    }
+  },
+  "discrete_milestones": {
+    "affection_level_milestones": {
+      "1": {
+        "required_exp": 0,
+        "unlock_dialogue": [],
+        "unlock_pose": [],
+        "unlock_furniture": [
+          "furniture_default"
+        ]
+      },
+      "2": {
+        "required_exp": 500,
+        "unlock_dialogue": [
+          "dialogue_01"
+        ],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "3": {
+        "required_exp": 1500,
+        "unlock_dialogue": [
+          "dialogue_02"
+        ],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "4": {
+        "required_exp": 3000,
+        "unlock_dialogue": [],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "5": {
+        "required_exp": 5000,
+        "unlock_dialogue": [
+          "dialogue_03"
+        ],
+        "unlock_pose": [
+          "pose_sit_bed"
+        ],
+        "unlock_furniture": []
+      },
+      "6": {
+        "required_exp": 7500,
+        "unlock_dialogue": [
+          "dialogue_04"
+        ],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "7": {
+        "required_exp": 10500,
+        "unlock_dialogue": [],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "8": {
+        "required_exp": 14000,
+        "unlock_dialogue": [
+          "dialogue_05"
+        ],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "9": {
+        "required_exp": 18000,
+        "unlock_dialogue": [],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "10": {
+        "required_exp": 22500,
+        "unlock_dialogue": [
+          "dialogue_06"
+        ],
+        "unlock_pose": [
+          "pose_lie_bed"
+        ],
+        "unlock_furniture": [
+          "furniture_japanese"
+        ]
+      },
+      "11": {
+        "required_exp": 27500,
+        "unlock_dialogue": [
+          "dialogue_07"
+        ],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "12": {
+        "required_exp": 33000,
+        "unlock_dialogue": [],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "13": {
+        "required_exp": 39000,
+        "unlock_dialogue": [
+          "dialogue_08"
+        ],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "14": {
+        "required_exp": 45500,
+        "unlock_dialogue": [],
+        "unlock_pose": [],
+        "unlock_furniture": []
+      },
+      "15": {
+        "required_exp": 52500,
+        "unlock_dialogue": [
+          "dialogue_09"
+        ],
+        "unlock_pose": [
+          "pose_cuddle"
+        ],
+        "unlock_furniture": [
+          "furniture_modern"
+        ]
+      }
+    },
+    "daily_limits": {
+      "max_daily_interaction_count": 50,
+      "max_daily_dialogue_count": 5,
+      "reset_time": "00:00"
+    },
+    "touch_feedback_map": {
+      "touch_head": {
+        "voice_id": "voice_head_01",
+        "expression_id": "expr_happy",
+        "action_id": "action_head_tilt",
+        "jiggle_physics_intensity": 0,
+        "is_sensitive": false
+      },
+      "touch_face": {
+        "voice_id": "voice_face_01",
+        "expression_id": "expr_blush",
+        "action_id": "action_face_touch",
+        "jiggle_physics_intensity": 0,
+        "is_sensitive": true
+      },
+      "touch_hand": {
+        "voice_id": "voice_hand_01",
+        "expression_id": "expr_smile",
+        "action_id": "action_hand_hold",
+        "jiggle_physics_intensity": 0,
+        "is_sensitive": false
+      },
+      "touch_chest": {
+        "voice_id": "voice_chest_01",
+        "expression_id": "expr_blush_deep",
+        "action_id": "action_chest_shrink",
+        "jiggle_physics_intensity": 3,
+        "is_sensitive": true
+      },
+      "touch_hip": {
+        "voice_id": "voice_hip_01",
+        "expression_id": "expr_shy",
+        "action_id": "action_hip_turn",
+        "jiggle_physics_intensity": 2,
+        "is_sensitive": true
+      }
+    }
+  }
+}

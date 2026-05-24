@@ -17,7 +17,7 @@ sys.path.insert(0, ROOT_DIR)
 from Skills.llm_client import ask_llm
 
 WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-KNOWLEDGE_DIR = os.path.join(WORKSPACE_DIR, "knowledge")
+KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
 DRAFT_FILE     = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
 CAPABILITIES_FILE = os.path.join(KNOWLEDGE_DIR, "team_capabilities.md")
 PLAN_OUTPUT    = os.path.join(WORKSPACE_DIR, "task_plan.md")

@@ -12,9 +12,9 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-KNOWLEDGE_DIR = os.path.join(WORKSPACE_DIR, "knowledge")
+KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
 CODEX_FILE = os.path.join(KNOWLEDGE_DIR, "project_codex.md")
-REGISTRY_FILE = os.path.join(WORKSPACE_DIR, "global_asset_registry.json")
+REGISTRY_FILE = os.path.join(KNOWLEDGE_DIR, "global_asset_registry.json")
 
 # ============================================================
 # 1. 严格黑名单：AI 框架内部运行文件，禁止扫描
@@ -28,6 +28,7 @@ BLACKLIST = {
     "audit_feedback.json",
     "global_asset_registry.json",
     "project_codex.md",
+    ".retry_count.json",
 }
 
 DOCS_SUFFIX = "_docs"
@@ -104,18 +105,27 @@ def find_display_name(sibling_dict: dict, id_field: str) -> str | None:
     return None
 
 
-def is_foreign_key(field_name: str, module_namespace: str) -> bool:
-    """判断 ID 字段是否为外键（前缀与当前模块名不匹配）。"""
+def is_foreign_key(field_name: str, module_namespace: str, depth: int = 0) -> bool:
+    """判断 ID 字段是否为外键（前缀与当前模块名不匹配）。
+    只在浅层（depth ≤ 1）做前缀匹配，深层嵌套不做此检查。"""
     if is_fk_field(field_name):
         return True
+    # 深层嵌套不做前缀匹配，避免误判
+    if depth > 1:
+        return False
     prefix = get_id_prefix(field_name).lower()
     ns_lower = module_namespace.lower()
-    # 如果前缀在模块命名空间中找不到重合，判定为外键
-    # 例如模块 guild_shop_items 中的 currency_id → currency 不在模块名中 → 外键
-    if prefix and prefix not in ns_lower and ns_lower not in prefix:
-        # 额外豁免：通用主键 id
-        if prefix not in ("", "id"):
-            return True
+    if not prefix or prefix == "id":
+        return False
+    # 结构性命名空间（如 continuous_formulas）不参与前缀匹配
+    structural_ns = {"continuous_formulas", "discrete_milestones", "data", "docs",
+                     "payload", "entries", "items", "parameters", "properties",
+                     "foreign_keys", "rules", "field_dictionary", "array_schemas"}
+    if ns_lower in structural_ns:
+        return False
+    # 前缀与模块命名空间不匹配 → 外键
+    if prefix not in ns_lower and ns_lower not in prefix:
+        return True
     return False
 
 
@@ -164,7 +174,7 @@ def _collect_recursive(data, root_ns: str, current_ns: str, collector: dict, max
         for key, value in data.items():
             if is_id_field(key):
                 # 外键跳过
-                if is_foreign_key(key, current_ns):
+                if is_foreign_key(key, current_ns, depth):
                     continue
                 extracted = extract_id_value(value)
                 if extracted is not None:
@@ -172,7 +182,13 @@ def _collect_recursive(data, root_ns: str, current_ns: str, collector: dict, max
                     collector.setdefault(bucket_key, set()).add(extracted)
 
             if key.lower() != "docs":
-                child_ns = key if depth == 0 and not is_id_field(key) else current_ns
+                # 结构性容器用父级命名空间，模块名才作为新命名空间
+                structural_set = {"continuous_formulas", "discrete_milestones", "data", "docs",
+                                  "payload", "parameters", "properties"}
+                if depth == 0 and not is_id_field(key) and key not in structural_set:
+                    child_ns = key
+                else:
+                    child_ns = current_ns
                 _collect_recursive(value, root_ns, child_ns, collector, max_depth, depth + 1)
 
     elif isinstance(data, list):
@@ -203,7 +219,7 @@ def _collect_registry_recursive(data, root_ns: str, current_ns: str, registry: l
         for key, value in data.items():
             if is_id_field(key):
                 extracted = extract_id_value(value)
-                if extracted is not None and not is_foreign_key(key, current_ns):
+                if extracted is not None and not is_foreign_key(key, current_ns, depth):
                     display = find_display_name(data, key)
                     registry.append({
                         "module": current_ns,
@@ -213,7 +229,12 @@ def _collect_registry_recursive(data, root_ns: str, current_ns: str, registry: l
                     })
 
             if key.lower() != "docs":
-                child_ns = key if depth == 0 and not is_id_field(key) else current_ns
+                structural_set = {"continuous_formulas", "discrete_milestones", "data", "docs",
+                                  "payload", "parameters", "properties"}
+                if depth == 0 and not is_id_field(key) and key not in structural_set:
+                    child_ns = key
+                else:
+                    child_ns = current_ns
                 _collect_registry_recursive(value, root_ns, child_ns, registry, max_depth, depth + 1)
 
     elif isinstance(data, list):
