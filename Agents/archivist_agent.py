@@ -14,7 +14,7 @@ import traceback
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(FILE_DIR)
 WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-sys.path.insert(0, ROOT_DIR)
+META_FILE = os.path.join(WORKSPACE_DIR, "project_meta.json")
 
 from Skills.llm_client import ask_llm
 
@@ -123,11 +123,27 @@ def main():
     except Exception:
         loud_fail("大模型调用失败")
 
-    # ========== 5. 自动落盘 ==========
+    # ========== 5. 命名空间继承 + 自动落盘 ==========
     ts = str(int(time.time()))
     safe_anchor = sanitize_filename(anchor)
     label = "红榜" if list_type == "red" else "黑榜"
-    filename = f"[{label}]_{safe_anchor}_{ts}.md"
+
+    # 读取 project_meta.json 获取系统命名空间
+    ns_prefix = ""
+    if os.path.exists(META_FILE):
+        try:
+            with open(META_FILE, "r", encoding="utf-8") as f:
+                meta = json.load(f)
+            tag = meta.get("primary_tag", "")
+            name = meta.get("system_name", "")
+            ver = meta.get("version", "v1")
+            if name:
+                parts = [p for p in [tag, name, ver] if p]
+                ns_prefix = "_".join(parts) + "_"
+        except Exception:
+            pass
+
+    filename = f"{ns_prefix}[{label}]_{safe_anchor}_{ts}.md"
     filepath = os.path.join(target_dir, filename)
 
     with open(filepath, "w", encoding="utf-8") as f:

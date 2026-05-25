@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Studio OS - Launch</title>
+<style>
+  body { font-family: 'Segoe UI', sans-serif; background: #1a1a2e; color: #eee; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+  .card { background: #16213e; border-radius: 16px; padding: 48px; text-align: center; box-shadow: 0 8px 32px rgba(0,0,0,0.4); max-width: 500px; }
+  h1 { font-size: 2em; margin-bottom: 8px; }
+  .sub { color: #888; margin-bottom: 32px; }
+  .btn { display: block; width: 100%; padding: 16px; margin: 12px 0; border: none; border-radius: 10px; font-size: 1.1em; cursor: pointer; transition: 0.2s; text-decoration: none; color: #fff; box-sizing: border-box; }
+  .btn-gui { background: #e94560; }
+  .btn-gui:hover { background: #ff6b6b; }
+  .btn-cli { background: #0f3460; }
+  .btn-cli:hover { background: #1a508b; }
+  .howto { margin-top: 32px; font-size: 0.8em; color: #666; }
+  code { background: #0a0a1a; padding: 4px 8px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>🎮 AI Studio OS</h1>
+  <p class="sub">双击下方按钮启动对应模式</p>
+
+  <button class="btn btn-gui" onclick="window.open('http://localhost:8501','_blank')">
+    🌐 打开 Web GUI（需先启动服务）
+  </button>
+
+  <button class="btn btn-cli" onclick="fetch('http://localhost:8501/healthz').then(()=>window.open('http://localhost:8501','_blank')).catch(()=>alert('服务未启动！请先双击 launch_gui.bat'))">
+    🚀 检测并跳转（如果服务已运行）
+  </button>
+
+  <div class="howto">
+    <p>首次使用：先双击运行 <code>launch_gui.bat</code></p>
+    <p>命令行模式：双击运行 <code>launch_cli.bat</code></p>
+    <p>手动启动：在终端中执行 <code>streamlit run app.py</code></p>
+  </div>
+</div>
+</body>
+</html>

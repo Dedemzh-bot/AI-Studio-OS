@@ -17,7 +17,8 @@ sys.path.insert(0, ROOT_DIR)
 from Skills.llm_client import ask_llm
 
 WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
+KNOWLEDGE_DIR = os.path.join(WORKSPACE_DIR, "knowledge")
+CONCEPT_FILE  = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 CODEX_FILE    = os.path.join(KNOWLEDGE_DIR, "project_codex.md")
 VISION_FILE   = os.path.join(KNOWLEDGE_DIR, "project_vision.md")
 STANDARDS_FILE = os.path.join(KNOWLEDGE_DIR, "design_standards.json")
@@ -25,6 +26,8 @@ CAPABILITIES_FILE = os.path.join(KNOWLEDGE_DIR, "team_capabilities.md")
 REGISTRY_FILE = os.path.join(KNOWLEDGE_DIR, "global_asset_registry.json")
 FEEDBACK_FILE = os.path.join(WORKSPACE_DIR, "boss_feedback.txt")
 STATUS_FILE   = os.path.join(WORKSPACE_DIR, "task_status.json")
+DRAFT_OUTPUT  = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
+META_FILE     = os.path.join(WORKSPACE_DIR, "project_meta.json")
 PROMPT_FILE   = os.path.join(ROOT_DIR, "Agents", "prompts", "lead_planner_prompt.md")
 
 RED   = "\033[91m"
@@ -40,6 +43,21 @@ def load_file(path: str) -> str:
                 return f.read().strip()
         except Exception:
             pass
+    return ""
+
+
+def _extract_meta_field(draft: str, field: str) -> str:
+    """从设计草案的 0_System_Meta 区域提取字段值。"""
+    # 在 draft 的 Markdown 中搜索字段定义
+    for pattern in [
+        rf'\*\*{field}\*\*\s*[:：]\s*(.+?)(?:\n|$)',
+        rf'{field}\s*[:：]\s*(.+?)(?:\n|$)',
+    ]:
+        m = re.search(pattern, draft, re.IGNORECASE | re.MULTILINE)
+        if m:
+            val = m.group(1).strip().strip('"').strip("'")
+            if val and len(val) < 64:
+                return val
     return ""
 
 
@@ -183,6 +201,22 @@ def main():
             with open(DRAFT_OUTPUT, "w", encoding="utf-8") as f:
                 f.write(draft)
             print(f"{GRN}[Visionary] 设计草案已保存: {DRAFT_OUTPUT} ({len(draft)} 字符){RESET}")
+
+            # 提取 0_System_Meta 元数据，落盘 project_meta.json
+            meta_name = _extract_meta_field(draft, "system_name") or "未命名系统"
+            meta_tag = _extract_meta_field(draft, "primary_tag") or "通用"
+            project_meta = {
+                "system_name": meta_name,
+                "primary_tag": meta_tag,
+                "version": "v1",
+            }
+            try:
+                os.makedirs(WORKSPACE_DIR, exist_ok=True)
+                with open(META_FILE, "w", encoding="utf-8") as f:
+                    json.dump(project_meta, f, ensure_ascii=False, indent=2)
+                print(f"{GRN}[Visionary] 元数据已保存: {META_FILE} ({meta_name}/{meta_tag}){RESET}")
+            except Exception:
+                pass
 
             # 推进状态
             try:

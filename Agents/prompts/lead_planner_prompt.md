@@ -25,4 +25,9 @@
 - 追问时：{"status": "need_info", "question": "宏观问题（含2-3个选项）"}
 - 草案完成时：{"status": "draft_ready"} 然后 ```markdown ... ``` 代码块
 
+**【全局命名标识】**
+在输出 Markdown 文档的最顶部（第一行），必须强制输出一级标题：
+# {system_name} - 宏观设计草案
+其中 {system_name} 取自 0_System_Meta 中你定义的 system_name。
+
 【最高指令】只输出合法的 JSON 字符串 + markdown 代码块，禁止在 JSON 前后输出任何文字！
