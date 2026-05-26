@@ -1,313 +1,351 @@
 """
 AI Studio OS - Web GUI (Streamlit)
-职责：为底层终端 Agent 管线提供可视化管理面板。
-布局：三栏式 — 左栏导航+控制 | 中栏日志+输入 | 右栏文件目录
+像素级还原：直角边框、高对比度、硬朗极简。
+HITL 审批通过 web_io 桥梁（.web_prompt.json / .web_response.json）的实现终端 ↔ Web 双向通信。
 """
 
-import os
-import sys
-import json
-import time
-import subprocess
-import threading
-from datetime import datetime
+import os, sys, json, time, subprocess, threading
 
 if sys.platform == "win32":
-    try:
-        sys.stdout.reconfigure(encoding="utf-8")
-        sys.stderr.reconfigure(encoding="utf-8")
-    except Exception:
-        pass
+    try: sys.stdout.reconfigure(encoding="utf-8"); sys.stderr.reconfigure(encoding="utf-8")
+    except Exception: pass
 
 import streamlit as st
 
-# ---- 路径常量 ----
-ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-BEST_DIR = os.path.join(ROOT_DIR, "Knowledge", "best_practices")
-ANTI_DIR = os.path.join(ROOT_DIR, "Knowledge", "anti_patterns")
-META_FILE = os.path.join(WORKSPACE_DIR, "project_meta.json")
-CONCEPT_FILE = os.path.join(WORKSPACE_DIR, "concept_brief.md")
-STATUS_FILE = os.path.join(WORKSPACE_DIR, "task_status.json")
+# ---- 路径 ----
+ROOT = os.path.dirname(os.path.abspath(__file__))
+WS   = os.path.join(ROOT, ".agent_workspace")
+KN   = os.path.join(ROOT, "Knowledge")
+BEST = os.path.join(KN, "best_practices")
+ANTI = os.path.join(KN, "anti_patterns")
+CONCEPT_FILE  = os.path.join(WS, "concept_brief.md")
+STATUS_FILE   = os.path.join(WS, "task_status.json")
+PROMPT_FILE   = os.path.join(WS, ".web_prompt.json")
+RESPONSE_FILE = os.path.join(WS, ".web_response.json")
+LOG_FILE      = os.path.join(WS, ".web_log.jsonl")
 
-ICON_MAP = {".md": "📄", ".mmd": "📄", ".json": "📊", ".gd": "💻", ".py": "💻"}
+# ---- 友好文件名映射 ----
+LABEL_MAP = {
+    "system_design_detail.md":     "系统详细案",
+    "system_design_draft.md":      "主策宏观草案",
+    "system_numerical_data.json":  "数值配置表",
+    "system_numerical_docs.json":  "数值说明书",
+    "system_schema.json":          "系统Schema",
+    "system_flow.mmd":             "系统流程图",
+    "tech_blueprint.md":           "程序开发蓝图",
+    "task_plan.md":                "PM任务拆解",
+    "task_status.json":            "任务状态",
+    "concept_brief.md":            "概念简案",
+    "audit_feedback.json":         "审查报告",
+    "audit_trace_log.md":          "审查追踪",
+    "ui_config.json":              "UI配置",
+    "generated_skill.gd":          "生成代码",
+    "project_meta.json":           "项目元数据",
+    "review_board.md":             "验收表",
+    "current_result.json":         "当前数据",
+}
+ICON = {".md":"M", ".mmd":"M", ".json":"{}", ".gd":"G", ".py":"P"}
 
-# ---- 页面配置 ----
+# ---- 页面 ----
 st.set_page_config(page_title="AI Studio OS", page_icon="🎮", layout="wide")
 
-# ---- 自定义 CSS 匹配原型深色侧栏 ----
+# ================================================================
+# 硬核 CSS — 直角、高对比、冷峻
+# ================================================================
 st.markdown("""
 <style>
+* { border-radius:0 !important; box-shadow:none !important; font-family:"Microsoft YaHei","PingFang SC",sans-serif !important; }
+
+/* 全局 */
+body, .main, [data-testid="stAppViewContainer"], section[data-testid="stSidebar"] > div:first-child {
+    background:#fff !important; color:#333 !important;
+}
+
+/* 侧边栏 — 深灰底白字, 220px */
 [data-testid="stSidebar"] {
-    background-color: #2d333b;
+    background:#333 !important; min-width:220px !important; max-width:220px !important;
 }
-[data-testid="stSidebar"] * {
-    color: #fff !important;
+[data-testid="stSidebar"] * { color:#fff !important; }
+[data-testid="stSidebar"] label[data-baseweb="radio"] div[role="radio"] {
+    width:100% !important; padding:18px !important; font-size:18px !important;
+    font-weight:bold !important; border:1px solid #555 !important;
+    background:#444 !important; color:#ccc !important; margin-bottom:4px !important;
 }
-[data-testid="stSidebar"] button[kind="secondary"] {
-    background-color: #fff;
-    color: #000 !important;
-    text-align: left;
-    border-radius: 0;
-    margin-bottom: 2px;
+[data-testid="stSidebar"] label[data-baseweb="radio"] div[role="radio"][data-selected="true"] {
+    background:#000 !important; color:#fff !important; border-color:#000 !important;
 }
+
+/* 按钮 */
+div.stButton > button {
+    font-weight:bold !important; font-size:16px !important; padding:10px 0 !important;
+    width:100% !important; border:2px solid #333 !important;
+}
+div.stButton > button[kind="secondary"] {
+    background:#ff3b30 !important; color:#fff !important; border-color:#cc0000 !important;
+}
+
+/* 日志 textarea */
+div[data-testid="stTextArea"] textarea {
+    font-family:"Consolas","Courier New",monospace !important; font-size:14px !important;
+    line-height:1.5 !important; color:#333 !important; background:#fafafa !important;
+    border:2px solid #555 !important;
+}
+
+/* chat_input 置灰 */
+div[data-testid="stChatInput"] input:disabled {
+    background:#f5f5f5 !important; color:#aaa !important; cursor:not-allowed !important;
+    border:2px solid #999 !important;
+}
+div[data-testid="stChatInput"] input:not(:disabled) {
+    border:2px solid #000 !important; background:#fff !important;
+}
+
+/* info box */
+div[data-testid="stAlert"] { border-left:4px solid #000 !important; background:#f0f0f0 !important; }
+
+/* 文件按钮 */
+section[data-testid="stSidebar"] + div button[kind="secondary"] {
+    background:#fff !important; color:#333 !important; border:none !important;
+    text-align:left !important; font-size:13px !important; padding:8px 5px !important;
+}
+section[data-testid="stSidebar"] + div button[kind="secondary"]:hover { background:#eee !important; }
+
+/* 标题 */
+h3 { font-size:20px !important; font-weight:bold !important; border-bottom:1px solid #333 !important; padding-bottom:8px !important; }
 </style>
 """, unsafe_allow_html=True)
 
 # ================================================================
-# 工具函数
+# 工具
 # ================================================================
 
-def read_status() -> str:
+def read_state():
     try:
         with open(STATUS_FILE, "r", encoding="utf-8") as f:
             return json.load(f).get("current_state", "idle")
-    except Exception:
-        return "idle"
+    except: return "idle"
 
+def sync_concept(text: str):
+    try: os.makedirs(WS, exist_ok=True); open(CONCEPT_FILE, "w", encoding="utf-8").write(text.strip())
+    except: pass
 
-def sync_concept_to_file(text: str):
+def open_local(fp):
+    p = os.path.abspath(fp)
+    if sys.platform == "win32": os.startfile(p)
+    elif sys.platform == "darwin": subprocess.call(["open", p])
+    else: subprocess.call(["xdg-open", p])
+
+def is_running():
+    p = st.session_state.get("router_proc")
+    return p is not None and p.poll() is None
+
+def get_prompt():
+    if not os.path.exists(PROMPT_FILE): return None
     try:
-        os.makedirs(WORKSPACE_DIR, exist_ok=True)
-        with open(CONCEPT_FILE, "w", encoding="utf-8") as f:
-            f.write(text.strip())
-    except Exception:
-        pass
+        d = json.load(open(PROMPT_FILE, "r", encoding="utf-8"))
+        return None if d.get("answered", False) else d
+    except: return None
 
+def submit_answer(ans: str):
+    try: os.makedirs(WS, exist_ok=True); json.dump({"answer": ans, "ts": time.time()}, open(RESPONSE_FILE, "w", encoding="utf-8"))
+    except: pass
 
-def open_file(filepath: str):
-    abs_path = os.path.abspath(filepath)
-    if sys.platform == "win32":
-        os.startfile(abs_path)
-    elif sys.platform == "darwin":
-        subprocess.call(["open", abs_path])
-    else:
-        subprocess.call(["xdg-open", abs_path])
+def read_logs(n=80):
+    if not is_running():
+        return ["[System] 引擎未启动，点击 启动研发 开始"]
+    if not os.path.exists(LOG_FILE): return ["[System] 等待引擎启动..."]
+    try:
+        raw = [l.strip() for l in open(LOG_FILE, "r", encoding="utf-8") if l.strip()]
+        # 合并连续重复行
+        merged = []
+        for line in raw:
+            if merged and line == merged[-1]:
+                # 如果上一行已经是 ×N 格式
+                if merged[-1].endswith("×2"):
+                    merged[-1] = merged[-1].replace("×2", "×3")
+                elif "×" in merged[-1].rsplit("×", 1)[-1].strip().isdigit():
+                    parts = merged[-1].rsplit("×", 1)
+                    merged[-1] = f"{parts[0].strip()}×{int(parts[1])+1}"
+                else:
+                    merged[-1] = f"{line} ×2"
+            else:
+                merged.append(line)
+        return merged[-n:] or ["[System] 等待引擎启动..."]
+    except: return ["[System] 等待引擎启动..."]
 
+def scan_ws():
+    if not os.path.exists(WS): return []
+    return sorted([f for f in os.listdir(WS) if os.path.isfile(os.path.join(WS, f)) and not f.startswith(".")])
 
-def get_file_icon(filename: str) -> str:
-    ext = "." + filename.rsplit(".", 1)[-1] if "." in filename else ""
-    return ICON_MAP.get(ext, "📁")
+def scan_kb(d):
+    return sorted(os.listdir(d)) if os.path.exists(d) else []
 
+def fmt_name(f):
+    label = LABEL_MAP.get(f, f.rsplit(".", 1)[0])
+    ext = "." + f.rsplit(".", 1)[-1] if "." in f else ""
+    icon = ICON.get(ext, "-")
+    return f"[{icon}] {label}"
 
-def scan_workspace_files() -> list:
-    files = []
-    if os.path.exists(WORKSPACE_DIR):
-        for f in sorted(os.listdir(WORKSPACE_DIR)):
-            fp = os.path.join(WORKSPACE_DIR, f)
-            if os.path.isfile(fp) and not f.startswith("."):
-                files.append(f)
-    return files
+# ---- Router 控制 ----
 
-
-def scan_knowledge(dir_path: str) -> list:
-    if os.path.exists(dir_path):
-        return sorted(os.listdir(dir_path))
-    return []
-
-
-def load_meta() -> dict:
-    if os.path.exists(META_FILE):
-        try:
-            with open(META_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            pass
-    return {}
-
-
-# ================================================================
-# Router 启动逻辑
-# ================================================================
-
-def start_router():
-    if "log_lines" not in st.session_state:
-        st.session_state["log_lines"] = ["[GUI] 正在启动 AI Studio OS 调度中枢..."]
-    else:
-        st.session_state["log_lines"].append("[GUI] 正在启动 AI Studio OS 调度中枢...")
-
+def start_engine():
+    os.makedirs(WS, exist_ok=True)
+    # 清除旧 web_io 通信残留 + 清空旧日志
+    for f in [PROMPT_FILE, RESPONSE_FILE]:
+        if os.path.exists(f):
+            os.remove(f)
+    open(LOG_FILE, "w", encoding="utf-8").close()
+    try: open(LOG_FILE, "a", encoding="utf-8").write("[GUI] 引擎启动中...\n")
+    except: pass
+    env = os.environ.copy(); env["AI_STUDIO_WEB_MODE"] = "1"
     p = subprocess.Popen(
-        [sys.executable, "-u", os.path.join(ROOT_DIR, "main_router.py")],
+        [sys.executable, "-u", os.path.join(ROOT, "main_router.py")],
         stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-        text=True, errors="replace", cwd=ROOT_DIR,
+        text=True, errors="replace", cwd=ROOT, env=env,
     )
-
     st.session_state["router_proc"] = p
-
-    def read_logs():
+    def cap():
         try:
             for line in iter(p.stdout.readline, ""):
-                if not line:
-                    break
-                st.session_state["log_lines"].append(line.strip())
-                if len(st.session_state["log_lines"]) > 300:
-                    st.session_state["log_lines"] = st.session_state["log_lines"][-200:]
-        except Exception:
-            pass
+                if line and line.strip():
+                    open(LOG_FILE, "a", encoding="utf-8").write(line.strip() + "\n")
+        except: pass
+    threading.Thread(target=cap, daemon=True).start()
 
-    thread = threading.Thread(target=read_logs, daemon=True)
-    thread.start()
-
-
-def stop_router():
-    proc = st.session_state.get("router_proc")
-    if proc and proc.poll() is None:
-        try:
-            proc.terminate()
-            proc.wait(timeout=3)
-        except Exception:
-            try:
-                proc.kill()
-            except Exception:
-                pass
-
+def stop_engine():
+    p = st.session_state.get("router_proc")
+    if p and p.poll() is None:
+        try: p.terminate(); p.wait(timeout=3)
+        except:
+            try: p.kill()
+            except: pass
 
 # ================================================================
-# 侧边栏导航
+# 侧边栏
 # ================================================================
 
 with st.sidebar:
     st.markdown("### 🎮 AI Studio OS")
-    page = st.radio("", ["📝 写案子", "📚 记忆积累"], label_visibility="collapsed")
+    page = st.radio("导航", ["📝 写案子", "📚 记忆积累"], label_visibility="collapsed")
 
     st.divider()
-
-    # 启动 / 停止控制
-    if st.button("🟢 启动研发", use_container_width=True):
-        stop_router()
-        start_router()
-
-    current_state = read_status()
-    state_colors = {
-        "idle": "🟢", "pending_classification": "🟡", "clarifying_requirements": "🟣",
-        "pending_design_approval": "🔵", "pending_plan_approval": "🔷",
-        "pending_system_design": "🟦", "pending_system_approval": "🟩",
-        "pending_schema_translate": "🟨", "pending_numerical": "🟧",
-        "pending_numerical_approval": "🟥", "completed": "✅",
-    }
-    emoji = state_colors.get(current_state, "🟠")
-    st.caption(f"{emoji} {current_state}")
-
-    if st.button("⏹ 停止", use_container_width=True):
-        stop_router()
-        st.rerun()
-
-    st.caption("启动 = 运行 main_router.py\n状态显示当前 Agent 阶段")
-
+    running = is_running()
+    state = read_state()
+    STATES = {"idle":"Idle","pending_classification":"分类中","clarifying_requirements":"追问中",
+              "pending_design_approval":"草案审批","pending_plan_approval":"排期审批",
+              "pending_system_design":"系统策划","pending_system_approval":"系统验收",
+              "pending_schema_translate":"翻译中","pending_numerical":"数值推演",
+              "pending_numerical_approval":"数值审批","pending_tech_design":"主程蓝图",
+              "pending_tech_approval":"架构验收","completed":"完成"}
+    label = STATES.get(state, state)
+    st.caption(f"状态: {label}")
 
 # ================================================================
-# 写案子页面
+# 写案子
 # ================================================================
 
 if page == "📝 写案子":
-    col_left, col_right = st.columns([7, 3])
+    L, C, R = st.columns([1.5, 6, 2.5])
 
-    with col_left:
-        # ---- 终端日志 ----
-        if "log_lines" not in st.session_state:
-            st.session_state["log_lines"] = ["[GUI] 等待启动..."]
-        log_text = "\n".join(st.session_state["log_lines"][-60:])
-        st.text_area("终端日志", value=log_text, height=300, disabled=True,
-                      key="log_display", label_visibility="collapsed")
+    with C:
+        # 标题
+        st.markdown("### 显示终端反馈的那种log内容")
 
-        # ---- 需求输入 ----
-        current_concept = ""
-        if os.path.exists(CONCEPT_FILE):
-            try:
-                with open(CONCEPT_FILE, "r", encoding="utf-8") as f:
-                    current_concept = f.read()
-            except Exception:
-                pass
+        # 日志
+        logs = "\n".join(read_logs(100))
+        st.text_area("终端日志", value=logs, height=380, disabled=True, label_visibility="collapsed")
 
-        st.text_area(
-            "需求输入（修改后 Ctrk+Enter 提交）",
-            value=current_concept,
-            height=120,
-            key="concept_input",
-            on_change=lambda: sync_concept_to_file(st.session_state.get("concept_input", "")),
-            label_visibility="collapsed",
+        # 控制栏
+        bc1, bc2, _ = st.columns([1, 1, 4])
+        with bc1:
+            if running:
+                if st.button("⏹ 停止", key="stop", type="secondary", use_container_width=True):
+                    stop_engine(); st.rerun()
+            else:
+                if st.button("启动研发", key="start", type="secondary", use_container_width=True):
+                    start_engine(); st.rerun()
+        with bc2:
+            state_text = STATES.get(read_state(), "Unenable")
+            st.markdown(f"**{state_text}**")
+
+        # HITL 审批（双重校验：.web_prompt.json 存在 + Router 在审批状态）
+        prompt = get_prompt()
+        actual_state = read_state()
+        in_approval = any(kw in actual_state for kw in ["approval","clarify","system_design","plan","tech","numerical_appr"])
+        if prompt and in_approval:
+            st.info(f"🤖 **系统问询**\n\n{prompt.get('prompt','')}")
+            reply = st.chat_input("输入回复 (Enter 发送)")
+            if reply:
+                submit_answer(reply); st.rerun()
+        else:
+            st.chat_input("等待系统唤醒输入...", disabled=True)
+
+        # 需求输入
+        cur = open(CONCEPT_FILE, "r", encoding="utf-8").read() if os.path.exists(CONCEPT_FILE) else ""
+        new = st.text_area(
+            "需求输入",
+            value=cur, height=140, key="cpt",
             placeholder="请输入文字...",
         )
+        # 仅在引擎 Idle 时静默同步（避免运行中触发 Router 误判为新需求）
+        if not running and new.strip() != cur.strip():
+            sync_concept(new)
 
-    with col_right:
-        st.caption("点击文件跳转目录打开")
-
-        files = scan_workspace_files()
-        if files:
-            for f in files:
-                fp = os.path.join(WORKSPACE_DIR, f)
-                icon = get_file_icon(f)
-                if st.button(f"{icon} {f}", key=f"ws_{f}", use_container_width=True):
-                    open_file(fp)
+    with R:
+        st.markdown("### 下发文件")
+        if running:
+            files = scan_ws()
+            if files:
+                for f in files:
+                    fp = os.path.join(WS, f)
+                    if st.button(fmt_name(f), key=f"f_{f}", use_container_width=True):
+                        open_local(fp)
+            else:
+                st.caption("（暂无文件）")
         else:
-            st.caption("（暂无下发文件）")
-
+            st.caption("启动引擎后扫描...")
 
 # ================================================================
-# 记忆积累页面
+# 记忆积累
 # ================================================================
 
 elif page == "📚 记忆积累":
-    col_left, col_right = st.columns([7, 3])
+    L, C, R = st.columns([1.5, 6, 2.5])
 
-    with col_left:
+    with C:
         st.subheader("知识库沉淀")
-        doc_name = st.text_input("文档名字（在 .agent_workspace 内）", key="arch_doc",
-                                  placeholder="例: system_design_draft.md")
-        meta_comment = st.text_area("老板批注 (Meta-Comment)", key="arch_comment",
-                                     placeholder="例: 本案状态机流转极其严谨")
+        doc = st.text_input("文档名字 (在 .agent_workspace 内)", key="ad", placeholder="例: system_design_draft.md")
+        com = st.text_area("老板批注", key="ac", placeholder="例: 本案状态机流转极其严谨")
 
-        btn1, btn2 = st.columns(2)
-        list_type = None
-        with btn1:
-            if st.button("🔴 归入黑榜 (反面教训)", use_container_width=True):
-                list_type = "black"
-        with btn2:
-            if st.button("🟢 归入红榜 (优秀范式)", use_container_width=True):
-                list_type = "red"
+        b1, b2 = st.columns(2)
+        tp = None
+        with b1:
+            if st.button("🔴 归入黑榜", use_container_width=True): tp = "black"
+        with b2:
+            if st.button("🟢 归入红榜", use_container_width=True): tp = "red"
 
-        if list_type and doc_name.strip():
-            arch_cmd = [
-                sys.executable,
-                os.path.join(ROOT_DIR, "Agents", "archivist_agent.py"),
-                doc_name.strip(), "all", list_type,
-                meta_comment.strip() or "（无评语）",
-            ]
-            with st.spinner("正在归档..."):
+        if tp and doc.strip():
+            cmd = [sys.executable, os.path.join(ROOT, "Agents", "archivist_agent.py"),
+                   doc.strip(), "all", tp, com.strip() or "（无评语）"]
+            with st.spinner("归档中..."):
                 try:
-                    result = subprocess.run(arch_cmd, capture_output=True, text=True, cwd=ROOT_DIR)
-                    if result.returncode == 0:
-                        st.success("归档成功！")
-                    else:
-                        st.error(f"失败: {result.stderr[-300:]}")
-                except Exception as e:
-                    st.error(f"异常: {e}")
+                    r = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
+                    if r.returncode == 0: st.success("归档成功！")
+                    else: st.error(f"失败: {r.stderr[-300:]}")
+                except Exception as e: st.error(f"异常: {e}")
 
-    with col_right:
-        st.subheader("🟢 优秀范式 (红榜)")
-        best_files = scan_knowledge(BEST_DIR)
-        if best_files:
-            for f in best_files:
-                fp = os.path.join(BEST_DIR, f)
-                if st.button(f"📄 {f}", key=f"best_{f}", use_container_width=True):
-                    open_file(fp)
-        else:
-            st.caption("（空）")
-
+    with R:
+        st.subheader("🟢 红榜")
+        for f in scan_kb(BEST):
+            if st.button(f"📄 {f}", key=f"b_{f}", use_container_width=True): open_local(os.path.join(BEST, f))
+        if not scan_kb(BEST): st.caption("（空）")
         st.divider()
+        st.subheader("🔴 黑榜")
+        for f in scan_kb(ANTI):
+            if st.button(f"📄 {f}", key=f"a_{f}", use_container_width=True): open_local(os.path.join(ANTI, f))
+        if not scan_kb(ANTI): st.caption("（空）")
 
-        st.subheader("🔴 反面教训 (黑榜)")
-        anti_files = scan_knowledge(ANTI_DIR)
-        if anti_files:
-            for f in anti_files:
-                fp = os.path.join(ANTI_DIR, f)
-                if st.button(f"📄 {f}", key=f"anti_{f}", use_container_width=True):
-                    open_file(fp)
-        else:
-            st.caption("（空）")
-
-# ---- 自动刷新 ----
-proc = st.session_state.get("router_proc")
-if proc and proc.poll() is None:
+# ---- 自刷新 ----
+if is_running():
     time.sleep(2)
     st.rerun()

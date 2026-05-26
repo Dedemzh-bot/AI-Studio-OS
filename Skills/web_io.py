@@ -8,7 +8,7 @@ import os
 import sys
 import time
 
-ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORKSPACE = os.path.join(ROOT_DIR, ".agent_workspace")
 PROMPT_FILE = os.path.join(WORKSPACE, ".web_prompt.json")
 RESPONSE_FILE = os.path.join(WORKSPACE, ".web_response.json")
@@ -26,25 +26,27 @@ def is_web_mode() -> bool:
 
 
 def web_print(*args, **kwargs):
-    """Web 模式下的 print：写入日志文件 + 原 print"""
+    """Web 模式下的 print：写入日志文件（不递归调用被 monkey-patch 的 print）"""
     msg = " ".join(str(a) for a in args)
     clean = _ansi_re.sub("", msg)
     _append_log(clean)
-    # 始终也输出到终端
-    print(*args, **kwargs)
 
 
 def web_input(prompt: str = "") -> str:
-    """Web 模式下的 input：写提示到文件，轮询等待响应"""
+    """Web 模式下的 input：写提示到文件，轮询等待响应（最多等待 30 分钟）"""
     if prompt:
         web_print(prompt)
     if not _web_mode:
         return input()
 
     _write_prompt(prompt)
-    # 轮询等待响应
+    prompt_ts = time.time()  # 记录提问时间，用于过滤旧的响应文件
+    start_ts = prompt_ts
     while True:
-        response = _read_response()
+        if time.time() - start_ts > 1800:
+            _append_log("[web_io] 审批超时(30min)，返回空字符串")
+            return ""
+        response = _read_response(since=prompt_ts)
         if response is not None:
             web_print(f">>> {response}")
             return response
@@ -118,12 +120,16 @@ def _write_prompt(prompt: str):
         pass
 
 
-def _read_response() -> str | None:
+def _read_response(since: float = 0) -> str | None:
+    """读取响应文件。如果响应时间戳小于 since，忽略（防止旧文件污染）。"""
     if not os.path.exists(RESPONSE_FILE):
         return None
     try:
         with open(RESPONSE_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
+        # 过滤旧响应（timestamp 小于提问时间）
+        if since > 0 and data.get("ts", 0) < since:
+            return None
         # 标记提示已答
         if os.path.exists(PROMPT_FILE):
             with open(PROMPT_FILE, "r", encoding="utf-8") as f:

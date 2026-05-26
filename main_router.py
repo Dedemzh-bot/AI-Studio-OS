@@ -456,6 +456,8 @@ def main():
 
     print("[Router] AI Studio OS 调度中枢已就绪（等待修改概念简案）...\n")
 
+    last_printed_state = None  # 去重心跳：状态不变时不重复打印
+
     while True:
         # ===== 0. 每次循环从硬盘读取概念简案内容 =====
         try:
@@ -489,7 +491,10 @@ def main():
         else:
             current_state = read_state()
 
-        print(f"[Router][心跳] 当前状态: {current_state}")
+        # 去重心跳：idle 不打印，状态不变不重复
+        if current_state != "idle" and current_state != last_printed_state:
+            print(f"[Router][心跳] 当前状态: {current_state}")
+            last_printed_state = current_state
 
         # ============================== 分类 ==============================
         if current_state == "idle":
