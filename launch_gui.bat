@@ -1,9 +1,17 @@
 @echo off
-echo 🎮 AI Studio OS - Web GUI Launcher
+title AI Studio OS
+echo 🎮 AI Studio OS v2
 echo.
-echo Starting Streamlit server at http://localhost:8501
-echo The web page will open automatically in your browser.
-echo Press Ctrl+C in this window to stop.
+echo Starting engine and opening browser...
 echo.
+
 cd /d "%~dp0"
-streamlit run app.py --server.headless true
+
+start /min python server.py
+timeout /t 2 /nobreak >nul
+start http://localhost:8080
+
+echo.
+echo Server running at http://localhost:8080
+echo Close this window to stop the server.
+pause >nul

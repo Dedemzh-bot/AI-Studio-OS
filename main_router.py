@@ -31,6 +31,17 @@ if sys.platform == "win32":
     except Exception:
         pass
 
+# ---- Web GUI 模式：将 input/print 透传到 web_io 桥梁 ----
+import builtins
+if os.environ.get("AI_STUDIO_WEB_MODE") == "1":
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from Skills.web_io import web_print, web_input
+    _original_print = builtins.print
+    _original_input = builtins.input
+    builtins.print = web_print
+    builtins.input = web_input
+
+# 确保项目根目录在 sys.path 中，方便引入 Guards 模块
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from Guards.schema_validator import SchemaValidator
 
