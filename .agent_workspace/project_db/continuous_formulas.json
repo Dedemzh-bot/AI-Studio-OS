@@ -1,0 +1,306 @@
+[
+  {
+    "login_days": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "stages_cleared": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "pve_win_rate": {
+      "base": 0.5,
+      "growth": 0.01,
+      "type": "linear"
+    },
+    "pvp_win_rate": {
+      "base": 0.5,
+      "growth": 0.01,
+      "type": "linear"
+    },
+    "character_collection_rate": {
+      "base": 0.0,
+      "growth": 0.05,
+      "type": "linear"
+    },
+    "weapon_collection_rate": {
+      "base": 0.0,
+      "growth": 0.05,
+      "type": "linear"
+    }
+  },
+  {
+    "likes_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "nickname": {
+      "base": "",
+      "growth": 0,
+      "type": "linear"
+    },
+    "level": {
+      "base": 1,
+      "growth": 1,
+      "type": "linear"
+    },
+    "server": {
+      "base": "server_001",
+      "growth": 0,
+      "type": "linear"
+    },
+    "join_time": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    },
+    "signature": {
+      "base": "",
+      "growth": 0,
+      "type": "linear"
+    }
+  },
+  {
+    "total_login_days": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "total_online_hours": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "achievement_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "pve_clear_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "pvp_total_matches": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "pvp_wins": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "character_collection_rate": {
+      "base": 0.0,
+      "growth": 0.01,
+      "type": "linear"
+    },
+    "weapon_collection_rate": {
+      "base": 0.0,
+      "growth": 0.01,
+      "type": "linear"
+    }
+  },
+  {
+    "like_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "base": 1,
+    "growth": 0.5,
+    "type": "logarithmic",
+    "formula": "floor(1 + 0.5 * ln(dormitory_affection + 1))"
+  },
+  {
+    "base": 0,
+    "growth": 10,
+    "type": "linear",
+    "formula": "dormitory_affection_level * 10"
+  },
+  {
+    "base": 0,
+    "growth": 2,
+    "type": "linear",
+    "formula": "(server_time % 86400) / 3600 * 2 % 24"
+  },
+  {
+    "player_level": {
+      "base": 1,
+      "growth": 1,
+      "type": "linear"
+    },
+    "total_login_days": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "main_story_progress": {
+      "base": 0,
+      "growth": 10,
+      "type": "linear"
+    },
+    "abyss_highest_floor": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "profile_visit_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "total_character_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "ssr_character_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "sr_character_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "r_character_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "total_achievement_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "unlocked_achievement_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "achievement_progress_percentage": {
+      "base": 0,
+      "growth": 10,
+      "type": "linear"
+    }
+  },
+  {
+    "friend_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "total_likes_received": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "total_likes_given": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "daily_like_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "message_board_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "dynamic_background_animation_progress": {
+      "base": 0,
+      "growth": 0.01,
+      "type": "linear"
+    },
+    "character_idle_animation_timer": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "special_voice_trigger_probability": {
+      "base": 0.1,
+      "growth": 0,
+      "type": "linear"
+    }
+  },
+  {
+    "ui_element_opacity": {
+      "base": 0.3,
+      "growth": 0,
+      "type": "linear"
+    },
+    "background_blur_radius": {
+      "base": 10,
+      "growth": 0,
+      "type": "linear"
+    }
+  },
+  {
+    "total_purchase_amount": {
+      "base": 0,
+      "growth": 6,
+      "type": "linear"
+    },
+    "unlocked_avatar_frame_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "unlocked_background_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "unlocked_special_frame_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "character_system_api_response_time": {
+      "base": 0.5,
+      "growth": 0.1,
+      "type": "linear"
+    },
+    "achievement_system_api_response_time": {
+      "base": 0.5,
+      "growth": 0.1,
+      "type": "linear"
+    },
+    "battle_system_api_response_time": {
+      "base": 0.5,
+      "growth": 0.1,
+      "type": "linear"
+    },
+    "friend_system_api_response_time": {
+      "base": 0.5,
+      "growth": 0.1,
+      "type": "linear"
+    },
+    "battle_pass_system_api_response_time": {
+      "base": 0.5,
+      "growth": 0.1,
+      "type": "linear"
+    }
+  }
+]

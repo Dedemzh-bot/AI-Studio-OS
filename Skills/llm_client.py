@@ -9,6 +9,7 @@ import re
 import time
 from pathlib import Path
 
+import httpx
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -71,6 +72,7 @@ def ask_llm(
                 model=model,
                 temperature=temperature,
                 max_tokens=max_tokens,
+                timeout=httpx.Timeout(120.0, connect=10.0),
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt},

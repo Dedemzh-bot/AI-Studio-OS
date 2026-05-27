@@ -711,72 +711,63 @@ def main():
         elif current_state == "clarifying_requirements":
             """
             追问闭环：Visionary 判断需求是否完备。
-            若返回 need_info → 暂停打印追问 → 等老板回复 → 重跑 Visionary
-            若返回 draft_ready → 推进至草案审批
+            读 task_status.json 判断 Vionary 结果，不再解析 stdout。
             """
             print("[Router] 正在运行 Visionary 审核需求...")
             try:
                 result = subprocess.run(
                     [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
-                    capture_output=True, text=True, cwd=ROOT_DIR,
+                    capture_output=True, text=True, encoding="utf-8", cwd=ROOT_DIR,
                 )
-                output = result.stdout + result.stderr
+                output = (result.stdout or "") + (result.stderr or "")
 
-                # 解析 JSON 状态（健壮提取：先剥掉可能的 markdown 包裹）
-                output_clean = re.sub(r"```[a-z]*\s*|\s*```", "", output)
-                json_match = re.search(r'\{"status"\s*:\s*"(need_info|draft_ready)"[^}]*\}', output_clean)
-                status_data = None
-                if json_match:
-                    try:
-                        status_data = json.loads(json_match.group(0))
-                    except json.JSONDecodeError:
-                        status_data = None
-                if not status_data:
-                    # 兜底：从第一个 { 到最后一个 }
-                    start = output_clean.find('{"status"')
-                    if start >= 0:
-                        end = output_clean.rfind('}') + 1
-                        json_str = output_clean[start:end]
-                        try:
-                            status_data = json.loads(json_str)
-                        except json.JSONDecodeError:
-                            status_data = None
-                if status_data:
-                    st = status_data.get("status")
-                    if st == "need_info":
-                        question = status_data.get("question", "")
-                        print(f"\n{YEL_COLOR}============================================================{RESET_CLR}")
-                        print(f"{YEL_COLOR}[主策追问] {question}{RESET_CLR}")
-                        print(f"{YEL_COLOR}============================================================{RESET_CLR}")
-                        user_reply = input("[Router] 请输入您的回复（补充需求信息）: ").strip()
-                        if user_reply:
+                # 读 task_status.json 判断 Visionary 写了哪个状态
+                current_state = read_state()
+                if current_state == "pending_design_approval":
+                    # Visionary 写了 draft_ready → 直接推进
+                    print(f"{GRN_COLOR}[Router] 需求已完备，设计草案已生成！{RESET_CLR}")
+                elif current_state == "clarifying_requirements":
+                    # Visionary 写了 need_info → 从 stdout 尾部提取问询文本
+                    # 取最后一行合法 JSON {"status":"need_info","question":"..."}
+                    question = "无法解析追问内容"
+                    for line in output.strip().split("\n"):
+                        line = line.strip()
+                        if line.startswith('{"status"') and "need_info" in line:
                             try:
-                                # 成对记录：AI 问题 + 老板回答，防止上下文丢失
-                                qa_block = (
-                                    f"\n\n> [主策追问] {question}\n"
-                                    f"> [老板指示] {user_reply}\n"
-                                )
-                                with open(CONCEPT_FILE, "a", encoding="utf-8") as f:
-                                    f.write(qa_block)
-                                print(f"[Router] 已将问答对追加至概念简案。")
-                                # 同步更新缓存，防止下轮心跳误判为"新需求触发"
-                                with open(CONCEPT_FILE, "r", encoding="utf-8") as f:
-                                    new_content = f.read().strip()
-                                with open(CONCEPT_CACHE_FILE, "w", encoding="utf-8") as f:
-                                    f.write(new_content)
-                                concept_cache = new_content
-                            except Exception as e:
-                                print(f"[Router][警告] 无法追加/更新缓存: {e}")
-                        # 保持 clarifying_requirements，下一轮心跳自动重新运行 Visionary
-                        write_state("clarifying_requirements")
-                    elif st == "draft_ready":
-                        print(f"{GRN_COLOR}[Router] 需求已完备，设计草案已生成！{RESET_CLR}")
-                        # 保存快照副本，用于后续智能剪裁比对
-                        _save_draft_snapshot()
-                        write_state("pending_design_approval")
+                                qd = json.loads(line)
+                                if qd.get("status") == "need_info":
+                                    question = qd.get("question", question)
+                            except json.JSONDecodeError:
+                                pass
+                    print(f"\n{YEL_COLOR}============================================================{RESET_CLR}")
+                    print(f"{YEL_COLOR}[主策追问] {question}{RESET_CLR}")
+                    print(f"{YEL_COLOR}============================================================{RESET_CLR}")
+                    user_reply = input("[Router] 请输入您的回复（补充需求信息）: ").strip()
+                    if user_reply:
+                        try:
+                            qa_block = (
+                                f"\n\n> [主策追问] {question}\n"
+                                f"> [老板指示] {user_reply}\n"
+                            )
+                            with open(CONCEPT_FILE, "a", encoding="utf-8") as f:
+                                f.write(qa_block)
+                            print(f"[Router] 已将问答对追加至概念简案。")
+                            with open(CONCEPT_FILE, "r", encoding="utf-8") as f:
+                                new_content = f.read().strip()
+                            with open(CONCEPT_CACHE_FILE, "w", encoding="utf-8") as f:
+                                f.write(new_content)
+                            concept_cache = new_content
+                        except Exception as e:
+                            print(f"[Router][警告] 无法追加/更新缓存: {e}")
+                    write_state("clarifying_requirements")
                 else:
-                    print(f"\033[91m[Router] 无法解析 Visionary 输出状态\033[0m")
-                    write_state("idle")
+                    # Visionary 失败或返回意外状态 → 重试
+                    print(f"\033[91m[Router] Visionary 返回非预期状态: {current_state}，重试\033[0m")
+                    write_state("clarifying_requirements")
+
+            except Exception as e:
+                print(f"\033[91m[Router] Visionary 执行异常: {e}\033[0m")
+                write_state("idle")
             except Exception as e:
                 print(f"\033[91m[Router] Visionary 执行异常: {e}\033[0m")
                 write_state("idle")

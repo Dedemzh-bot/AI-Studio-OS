@@ -124,10 +124,6 @@ def main():
     except Exception:
         loud_fail("大模型调用失败（网络超时 / API Key 无效 / 服务不可用）")
 
-    print("=" * 60)
-    print("【大模型原始返回】:")
-    print(llm_response)
-    print("=" * 60)
     print(f"[Numerical Planner] 大模型返回完成 ({len(llm_response)} 字符)")
 
     # ========== 4. 万能剥壳 + 防崩溃解析 ==========

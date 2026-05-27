@@ -3,276 +3,513 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "【角色私人宿舍】是一个买断制解锁的、为每位女性角色量身定制的专属私密空间，通过高度定制化的房间装修、专属好感度对话链、特殊触摸反馈及私密事件，深度强化玩家与单一角色的情感羁绊（Master-Love），其核心经济循环为：玩家通过每日有限的触摸和对话互动获取好感度经验，经验累积提升好感度等级，等级解锁新的对话、姿势和家具套装，从而驱动玩家持续投入情感与付费。",
+      "system_summary": "[分析员档案] 该系统用于管理玩家个人档案主页、角色收藏馆、成就墙、社交互动、动态背景展示、UI透明化效果、经济商业化及旧系统数据联动，提供完整的玩家身份展示与社交轻互动功能。",
       "field_dictionary": {
-        "player_level": "【int】玩家当前等级，取值范围1-999，默认值1。",
-        "player_diamond": "【int】玩家当前持有的钻石数量，用于购买部分商品，取值范围0-999999，默认值0。",
-        "player_cash": "【int】玩家当前持有的现金数量，用于购买核心模块和礼包，取值范围0-999999，默认值0。",
-        "purchase_log": "【array<string>】玩家购买记录列表，存储已购买的商品ID，用于校验购买状态，默认值为空数组。",
-        "dormitory_is_unlocked": "【bool】标识玩家是否已解锁私人宿舍系统，true表示已解锁，false表示未解锁，默认值false。",
-        "dormitory_core_pack_purchased": "【bool】标识玩家是否已购买核心模块，true表示已购买，false表示未购买，默认值false。",
-        "dormitory_button_state": "【string】宿舍入口按钮的状态，取值范围：'locked'（锁定）、'unlocked'（解锁可进入）、'entered'（已进入），默认值'locked'。",
-        "room_style_id": "【string】当前房间的装修风格ID，对应家具套装配置表，默认值'furniture_default'。",
-        "furniture_list": "【array<string>】当前房间已放置的家具ID列表，用于场景加载，默认值为空数组。",
-        "affection_level": "【int】角色当前好感度等级，取值范围1-15，默认值1。",
-        "daily_interaction_count": "【int】当日有效触摸次数，对应策划案中的dailyInteractionCount，取值范围0-50，每日00:00重置为0，默认值0。",
-        "last_interaction_date": "【string】上次互动日期，格式为'YYYY-MM-DD'，用于判断是否需要重置每日次数，默认值为空字符串。",
-        "room_data_initialized": "【bool】标识角色房间数据是否已初始化，true表示已初始化，false表示未初始化，默认值false。",
-        "skin_id_equipped": "【string】角色当前装备的皮肤ID，对应皮肤配置表，默认值'skin_default'。",
-        "scene_loaded": "【bool】标识房间场景是否已加载完成，true表示已加载，false表示未加载，默认值false。",
-        "affection_exp": "【int】角色当前好感度经验值，取值范围0-52500，每日通过触摸和对话累积，默认值0。",
-        "daily_dialogue_triggered_list": "【array<string>】当日已触发的对话ID列表，对应策划案中的dailyDialogueCount，用于限制每日对话次数上限为5次，每日00:00重置为空数组，默认值为空数组。",
-        "unlocked_story_id": "【array<string>】已解锁的剧情ID列表，通过好感度等级解锁，默认值为空数组。",
-        "dialogue_option_available": "【bool】标识当前是否有可用的对话选项，true表示有可用选项，false表示无，默认值false。",
-        "dialogue_triggered_today": "【bool】标识今日是否已触发过对话，用于UI显示，默认值false。",
-        "story_unlocked": "【bool】标识是否有新解锁的剧情等待播放，true表示有，false表示无，默认值false。",
-        "touch_cooldown_timers": "【map<string, float>】触摸冷却计时器映射表，key为触摸区域ID，value为剩余冷却时间（秒），用于防止连续快速点击，默认值为空映射。",
-        "touch_region_defined": "【bool】标识触摸区域碰撞体是否已定义，true表示已定义，false表示未定义，默认值false。",
-        "touch_feedback_available": "【bool】标识当前触摸反馈是否可用（非冷却中且次数未满），true表示可用，false表示不可用，默认值true。",
-        "daily_touch_limit_reached": "【bool】标识当日触摸次数是否已达上限（50次），true表示已达上限，false表示未达上限，默认值false。",
-        "unlocked_content_list": "【array<string>】已解锁的内容ID列表，包括对话、姿势、家具等，默认值为空数组。",
-        "level_up_triggered": "【bool】标识是否触发了等级提升事件，true表示已触发，false表示未触发，默认值false。",
-        "new_dialogue_unlocked": "【bool】标识是否有新对话解锁，true表示有，false表示无，默认值false。",
-        "new_touch_feedback_unlocked": "【bool】标识是否有新触摸反馈解锁，true表示有，false表示无，默认值false。",
-        "new_idle_pose_unlocked": "【bool】标识是否有新待机姿势解锁，true表示有，false表示无，默认值false。",
-        "new_furniture_unlocked": "【bool】标识是否有新家具解锁，true表示有，false表示无，默认值false。",
-        "new_story_unlocked": "【bool】标识是否有新剧情解锁，true表示有，false表示无，默认值false。",
-        "equipped_skin_id": "【string】当前装备的皮肤ID，与skin_id_equipped同步，默认值'skin_default'。",
-        "unlocked_skin_interaction_list": "【array<string>】已解锁的皮肤专属互动ID列表，默认值为空数组。",
-        "skin_owned": "【bool】标识玩家是否拥有该皮肤，true表示拥有，false表示未拥有，默认值false。",
-        "skin_equipped": "【bool】标识该皮肤是否已装备，true表示已装备，false表示未装备，默认值false。",
-        "skin_special_interaction_unlocked": "【bool】标识皮肤专属互动是否已解锁，true表示已解锁，false表示未解锁，默认值false。",
-        "furniture_position": "【map<string, array<float>>】家具位置映射表，key为家具ID，value为[x, y, z]坐标数组，默认值为空映射。",
-        "furniture_rotation": "【map<string, array<float>>】家具旋转映射表，key为家具ID，value为[roll, pitch, yaw]欧拉角数组，默认值为空映射。",
-        "edit_mode_active": "【bool】标识房间编辑模式是否激活，true表示激活，false表示未激活，默认值false。",
-        "furniture_placed": "【bool】标识是否有新家具被放置，true表示有，false表示无，默认值false。",
-        "furniture_recycled": "【bool】标识是否有家具被回收，true表示有，false表示无，默认值false。",
-        "room_style_changed": "【bool】标识房间风格是否已更改，true表示已更改，false表示未更改，默认值false。",
-        "skin_purchased": "【bool】标识皮肤是否已购买，true表示已购买，false表示未购买，默认值false。",
-        "furniture_pack_purchased": "【bool】标识家具礼包是否已购买，true表示已购买，false表示未购买，默认值false。",
-        "room_style_purchased": "【bool】标识房间风格是否已购买，true表示已购买，false表示未购买，默认值false。",
-        "refund_processed": "【bool】标识退款是否已处理，true表示已处理，false表示未处理，默认值false。"
+        "player_level": "【整数】玩家当前等级，范围1-999，默认值1。",
+        "total_login_days": "【整数】累计登录天数，范围0-99999，默认值0。",
+        "main_story_progress": "【浮点数】主线章节进度，范围0.0-100.0，表示完成百分比，默认值0.0。",
+        "abyss_highest_floor": "【整数】深渊最高通关层数，范围0-999，默认值0。",
+        "profile_visit_count": "【整数】档案主页被访问次数，范围0-999999，默认值0。",
+        "avatar_id": "【字符串】当前头像ID，取值范围为已解锁头像框ID列表，默认值为'default_avatar'。",
+        "background_id": "【字符串】当前背景ID，取值范围为已解锁背景ID列表，默认值为'default_bg'。",
+        "signature_text": "【字符串】玩家签名，最多50字符，含敏感词过滤，默认值为空字符串。",
+        "assistant_character_ids": "【JSON数组】助理角色ID列表，最多6个，默认值为空数组。",
+        "selected_avatar_frame_id": "【字符串】选中的头像框ID，取值范围为已解锁头像框ID列表，默认值为'default_frame'。",
+        "selected_background_id": "【字符串】选中的背景ID，取值范围为已解锁背景ID列表，默认值为'default_bg'。",
+        "decorative_medal_ids": "【JSON数组】装饰徽章ID列表，最多5个，默认值为空数组。",
+        "total_character_count": "【整数】玩家拥有角色总数，范围0-999，默认值0。",
+        "ssr_character_count": "【整数】SSR稀有度角色数量，范围0-999，默认值0。",
+        "sr_character_count": "【整数】SR稀有度角色数量，范围0-999，默认值0。",
+        "r_character_count": "【整数】R稀有度角色数量，范围0-999，默认值0。",
+        "showcase_character_ids": "【JSON数组】展示柜角色ID列表，最多3个，默认值为空数组。",
+        "selected_character_id": "【字符串】当前选中的角色ID，默认值为空字符串。",
+        "character_sort_order": "【字符串】角色列表排序方式，取值范围['rarity_desc','rarity_asc','level_desc','level_asc','acquisition_time_desc','acquisition_time_asc']，默认值为'rarity_desc'。",
+        "character_filter_rarity": "【字符串】稀有度筛选条件，取值范围['all','SSR','SR','R']，默认值为'all'。",
+        "character_filter_element": "【字符串】属性筛选条件，取值范围['all','fire','water','wind','thunder']，默认值为'all'。",
+        "character_filter_faction": "【字符串】阵营筛选条件，取值范围['all','base_group','frontline_group']，默认值为'all'。",
+        "total_achievement_count": "【整数】成就总数，范围0-9999，默认值0。",
+        "unlocked_achievement_count": "【整数】已解锁成就数量，范围0-9999，默认值0。",
+        "achievement_progress_percentage": "【浮点数】成就完成百分比，范围0.0-100.0，默认值0.0。",
+        "selected_achievement_id": "【字符串】当前选中的成就ID，默认值为空字符串。",
+        "decorative_achievement_ids": "【JSON数组】装饰成就ID列表，最多5个，默认值为空数组。",
+        "achievement_category_filter": "【字符串】成就分类筛选，取值范围['all','combat','collection','event']，默认值为'all'。",
+        "friend_count": "【整数】好友数量，范围0-999，默认值0。",
+        "total_likes_received": "【整数】收到的点赞总数，范围0-999999，默认值0。",
+        "total_likes_given": "【整数】给出的点赞总数，范围0-999999，默认值0。",
+        "daily_like_count": "【整数】当日已点赞次数，范围0-999，默认值0。",
+        "message_board_count": "【整数】留言板留言数量，范围0-9999，默认值0。",
+        "friend_list": "【JSON数组】好友ID列表，默认值为空数组。",
+        "friend_request_list": "【JSON数组】好友请求列表，每个元素包含sender_id和status，默认值为空数组。",
+        "liked_player_ids": "【JSON数组】已点赞的玩家ID列表，默认值为空数组。",
+        "message_board_messages": "【JSON数组】留言板消息列表，每个元素包含sender_id、content、timestamp、status，默认值为空数组。",
+        "selected_friend_id": "【字符串】当前选中的好友ID，默认值为空字符串。",
+        "dynamic_background_animation_progress": "【浮点数】动态背景动画播放进度，范围0.0-1.0，默认值0.0。",
+        "character_idle_animation_timer": "【浮点数】角色待机动画计时器，范围0.0-999.0，单位秒，默认值0.0。",
+        "special_voice_trigger_probability": "【浮点数】特殊语音触发概率，范围0.0-1.0，默认值0.1。",
+        "selected_dynamic_background_id": "【字符串】选中的动态背景ID，默认值为空字符串。",
+        "assistant_character_id": "【字符串】当前助理角色ID，默认值为空字符串。",
+        "current_character_animation_id": "【字符串】当前播放的角色动画ID，默认值为空字符串。",
+        "interaction_triggered": "【布尔值】是否触发了角色互动，取值范围true/false，默认值false。",
+        "ui_element_opacity": "【浮点数】UI元素透明度，范围0.0-1.0，默认值0.3。",
+        "background_blur_radius": "【浮点数】背景模糊半径，范围0-50，单位像素，默认值10。",
+        "ui_transparency_mode_enabled": "【布尔值】UI透明模式是否启用，取值范围true/false，默认值true。",
+        "frosted_glass_effect_enabled": "【布尔值】毛玻璃效果是否启用，取值范围true/false，默认值true。",
+        "clicked_ui_element_id": "【字符串】当前点击的UI元素ID，默认值为空字符串。",
+        "total_purchase_amount": "【浮点数】累计付费金额，范围0.0-999999.0，单位元，默认值0.0。",
+        "unlocked_avatar_frame_count": "【整数】已解锁头像框数量，范围0-999，默认值0。",
+        "unlocked_background_count": "【整数】已解锁背景数量，范围0-999，默认值0。",
+        "unlocked_special_frame_count": "【整数】已解锁特殊展示框数量，范围0-999，默认值0。",
+        "purchased_avatar_frame_ids": "【JSON数组】已购买的头像框ID列表，默认值为空数组。",
+        "purchased_background_ids": "【JSON数组】已购买的背景ID列表，默认值为空数组。",
+        "purchased_special_frame_ids": "【JSON数组】已购买的特殊展示框ID列表，默认值为空数组。",
+        "free_unlocked_avatar_frame_ids": "【JSON数组】免费解锁的头像框ID列表，默认值为空数组。",
+        "free_unlocked_background_ids": "【JSON数组】免费解锁的背景ID列表，默认值为空数组。",
+        "limited_time_resource_ids": "【JSON数组】限时资源ID列表，默认值为空数组。",
+        "permanent_resource_ids": "【JSON数组】永久资源ID列表，默认值为空数组。",
+        "character_system_api_response_time": "【浮点数】角色系统API响应时间，范围0.0-5.0，单位秒，默认值0.0。",
+        "achievement_system_api_response_time": "【浮点数】成就系统API响应时间，范围0.0-5.0，单位秒，默认值0.0。",
+        "battle_system_api_response_time": "【浮点数】战斗系统API响应时间，范围0.0-5.0，单位秒，默认值0.0。",
+        "friend_system_api_response_time": "【浮点数】好友系统API响应时间，范围0.0-5.0，单位秒，默认值0.0。",
+        "battle_pass_system_api_response_time": "【浮点数】通行证系统API响应时间，范围0.0-5.0，单位秒，默认值0.0。",
+        "character_system_api_status": "【字符串】角色系统API状态，取值范围['success','timeout','error']，默认值'success'。",
+        "achievement_system_api_status": "【字符串】成就系统API状态，取值范围['success','timeout','error']，默认值'success'。",
+        "battle_system_api_status": "【字符串】战斗系统API状态，取值范围['success','timeout','error']，默认值'success'。",
+        "friend_system_api_status": "【字符串】好友系统API状态，取值范围['success','timeout','error']，默认值'success'。",
+        "battle_pass_system_api_status": "【字符串】通行证系统API状态，取值范围['success','timeout','error']，默认值'success'。",
+        "character_data_cache": "【JSON对象】角色数据缓存，默认值为空对象。",
+        "achievement_data_cache": "【JSON对象】成就数据缓存，默认值为空对象。",
+        "battle_data_cache": "【JSON对象】战斗数据缓存，默认值为空对象。",
+        "friend_data_cache": "【JSON对象】好友数据缓存，默认值为空对象。",
+        "battle_pass_data_cache": "【JSON对象】通行证数据缓存，默认值为空对象。"
       },
       "relations_and_enums": {
-        "cross_table_relations": {
-          "PlayerDormitoryData.roomData[roleId].affectionLevel": "关联到全局好感度系统的GetAffectionLevel(roleId)接口，用于判断解锁条件。",
-          "PlayerDormitoryData.roomData[roleId].affectionExp": "通过AddAffectionExp(roleId, exp)接口写入全局好感度系统。",
-          "PlayerDormitoryData.roomData[roleId].skin_id_equipped": "通过GetRoleCurrentSkinId(roleId)接口获取，用于加载角色模型。",
-          "PlayerDormitoryData.roomData[roleId].unlockedFurnitureSets": "通过PurchaseItem接口购买家具礼包后更新。",
-          "PlayerDormitoryData.isUnlocked": "通过PurchaseItem接口购买核心模块后设置为true。"
+        "外键关系": {
+          "profile_page.avatar_id": "引用自 economy_monetization.purchased_avatar_frame_ids 和 free_unlocked_avatar_frame_ids",
+          "profile_page.background_id": "引用自 economy_monetization.purchased_background_ids 和 free_unlocked_background_ids",
+          "profile_page.assistant_character_ids": "引用自 collection_showcase.showcase_character_ids（优先）或 legacy_system_data_integration.character_data_cache",
+          "profile_page.decorative_medal_ids": "引用自 achievement_wall.decorative_achievement_ids",
+          "collection_showcase.selected_character_id": "引用自 legacy_system_data_integration.character_data_cache 中的角色ID",
+          "light_social.friend_list": "引用自 legacy_system_data_integration.friend_data_cache 中的好友ID列表",
+          "light_social.liked_player_ids": "引用自 light_social.friend_list 中的好友ID",
+          "dynamic_background_model_display.selected_dynamic_background_id": "引用自 economy_monetization.purchased_background_ids 中的动态背景ID",
+          "dynamic_background_model_display.assistant_character_id": "引用自 profile_page.assistant_character_ids 中的第一个角色ID"
         },
-        "enums": {
-          "dormitory_button_state": [
-            "locked",
-            "unlocked",
-            "entered"
-          ],
-          "growth_type": [
-            "linear",
-            "exponential",
-            "logarithmic"
-          ],
-          "touch_region_id": [
-            "touch_head",
-            "touch_face",
-            "touch_hand",
-            "touch_chest",
-            "touch_hip"
-          ],
-          "pose_id": [
-            "pose_stand",
-            "pose_sit_bed",
-            "pose_lie_bed",
-            "pose_cuddle"
-          ],
-          "furniture_set_id": [
-            "furniture_default",
-            "furniture_japanese",
-            "furniture_modern"
-          ]
+        "状态码枚举": {
+          "friend_request_status": {
+            "pending": "待确认",
+            "accepted": "已确认",
+            "rejected": "已拒绝"
+          },
+          "message_board_message_status": {
+            "pending_review": "待审核",
+            "approved": "已通过",
+            "rejected": "未通过",
+            "deleted": "已删除"
+          },
+          "api_status": {
+            "success": "成功",
+            "timeout": "超时",
+            "error": "错误"
+          },
+          "resource_availability": {
+            "available": "可用",
+            "expired": "已过期",
+            "locked": "未解锁"
+          },
+          "character_sort_order": {
+            "rarity_desc": "稀有度降序",
+            "rarity_asc": "稀有度升序",
+            "level_desc": "等级降序",
+            "level_asc": "等级升序",
+            "acquisition_time_desc": "获取时间降序",
+            "acquisition_time_asc": "获取时间升序"
+          },
+          "character_filter_rarity": {
+            "all": "全部",
+            "SSR": "SSR",
+            "SR": "SR",
+            "R": "R"
+          },
+          "character_filter_element": {
+            "all": "全部",
+            "fire": "火",
+            "water": "水",
+            "wind": "风",
+            "thunder": "雷"
+          },
+          "character_filter_faction": {
+            "all": "全部",
+            "base_group": "基地组",
+            "frontline_group": "前线组"
+          },
+          "achievement_category_filter": {
+            "all": "全部",
+            "combat": "战斗成就",
+            "collection": "收集成就",
+            "event": "活动成就"
+          }
         }
       },
-      "implementation_notes": "下游主程序需注意：1. 每日重置逻辑需在服务器时间00:00原子性执行，遍历所有玩家的daily_interaction_count和daily_dialogue_triggered_list，确保重置一致性；2. 触摸反馈系统需实现冷却机制，防止每秒超过3次的快速点击触发'骚扰'判定；3. 场景加载时需根据skin_id_equipped加载对应皮肤模型，并检查Skin_SpecialTouch_Config.json是否存在覆盖配置；4. 好感度经验通过AddAffectionExp接口同步到全局系统，等级提升时需触发解锁内容检查；5. UI极简化逻辑需确保按钮在无操作3秒后淡出，触摸屏幕任意位置时恢复显示，且角色模型渲染优先级最高。"
+      "implementation_notes": "下游主程序需注意：1. 所有连续字段使用公式计算，避免硬编码等级列表；2. 离散字段使用里程碑字典，在特定等级/条件触发时更新；3. 旧系统API调用需设置5秒超时，并缓存数据以提升性能；4. UI透明化效果需在低端机型自动降级；5. 动态背景和角色模型渲染需考虑性能优化，提供性能模式开关；6. 社交互动中的点赞和留言需实现频率限制和敏感词过滤；7. 商业化资源需区分限时和永久，并在过期时正确处理。"
     },
     "data": {
       "continuous_formulas": {
-        "affection_exp_growth": {
-          "base": 0,
-          "growth": 750,
-          "type": "linear",
-          "description": "每日好感度经验获取上限为750点，由50次触摸（每次10点）和5次对话（每次50点）组成。"
+        "profile_page": {
+          "player_level": {
+            "base": 1,
+            "growth": 1,
+            "type": "linear"
+          },
+          "total_login_days": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "main_story_progress": {
+            "base": 0,
+            "growth": 10,
+            "type": "linear"
+          },
+          "abyss_highest_floor": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "profile_visit_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          }
         },
-        "affection_level_threshold": {
-          "base": 0,
-          "growth": 500,
-          "type": "exponential",
-          "coefficient": 1.5,
-          "description": "好感度等级升级所需经验呈指数增长，公式为：所需经验 = 500 * (1.5 ^ (level - 1))，但需与离散里程碑中的具体值对齐。"
+        "collection_showcase": {
+          "total_character_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "ssr_character_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "sr_character_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "r_character_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          }
+        },
+        "achievement_wall": {
+          "total_achievement_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "unlocked_achievement_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "achievement_progress_percentage": {
+            "base": 0,
+            "growth": 10,
+            "type": "linear"
+          }
+        },
+        "light_social": {
+          "friend_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "total_likes_received": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "total_likes_given": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "daily_like_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "message_board_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          }
+        },
+        "dynamic_background_model_display": {
+          "dynamic_background_animation_progress": {
+            "base": 0,
+            "growth": 0.01,
+            "type": "linear"
+          },
+          "character_idle_animation_timer": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "special_voice_trigger_probability": {
+            "base": 0.1,
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "ui_transparency": {
+          "ui_element_opacity": {
+            "base": 0.3,
+            "growth": 0,
+            "type": "linear"
+          },
+          "background_blur_radius": {
+            "base": 10,
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "economy_monetization": {
+          "total_purchase_amount": {
+            "base": 0,
+            "growth": 6,
+            "type": "linear"
+          },
+          "unlocked_avatar_frame_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "unlocked_background_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          },
+          "unlocked_special_frame_count": {
+            "base": 0,
+            "growth": 1,
+            "type": "linear"
+          }
+        },
+        "legacy_system_data_integration": {
+          "character_system_api_response_time": {
+            "base": 0.5,
+            "growth": 0.1,
+            "type": "linear"
+          },
+          "achievement_system_api_response_time": {
+            "base": 0.5,
+            "growth": 0.1,
+            "type": "linear"
+          },
+          "battle_system_api_response_time": {
+            "base": 0.5,
+            "growth": 0.1,
+            "type": "linear"
+          },
+          "friend_system_api_response_time": {
+            "base": 0.5,
+            "growth": 0.1,
+            "type": "linear"
+          },
+          "battle_pass_system_api_response_time": {
+            "base": 0.5,
+            "growth": 0.1,
+            "type": "linear"
+          }
         }
       },
       "discrete_milestones": {
-        "affection_level_milestones": {
-          "1": {
-            "required_exp": 0,
-            "unlock_dialogue": [],
-            "unlock_pose": [],
-            "unlock_furniture": [
-              "furniture_default"
+        "profile_page": {
+          "avatar_id": {
+            "1": "default_avatar",
+            "5": "unlocked_frame_01",
+            "10": "unlocked_frame_02",
+            "20": "unlocked_frame_03",
+            "50": "premium_frame_01"
+          },
+          "background_id": {
+            "1": "default_bg",
+            "5": "unlocked_bg_01",
+            "10": "unlocked_bg_02",
+            "20": "premium_bg_01"
+          },
+          "signature_text": {
+            "1": ""
+          },
+          "assistant_character_ids": {
+            "1": []
+          },
+          "selected_avatar_frame_id": {
+            "1": "default_frame"
+          },
+          "selected_background_id": {
+            "1": "default_bg"
+          },
+          "decorative_medal_ids": {
+            "1": []
+          }
+        },
+        "collection_showcase": {
+          "showcase_character_ids": {
+            "1": []
+          },
+          "selected_character_id": {
+            "1": ""
+          },
+          "character_sort_order": {
+            "1": "rarity_desc"
+          },
+          "character_filter_rarity": {
+            "1": "all"
+          },
+          "character_filter_element": {
+            "1": "all"
+          },
+          "character_filter_faction": {
+            "1": "all"
+          }
+        },
+        "achievement_wall": {
+          "selected_achievement_id": {
+            "1": ""
+          },
+          "decorative_achievement_ids": {
+            "1": []
+          },
+          "achievement_category_filter": {
+            "1": "all"
+          }
+        },
+        "light_social": {
+          "friend_list": {
+            "1": []
+          },
+          "friend_request_list": {
+            "1": []
+          },
+          "liked_player_ids": {
+            "1": []
+          },
+          "message_board_messages": {
+            "1": []
+          },
+          "selected_friend_id": {
+            "1": ""
+          }
+        },
+        "dynamic_background_model_display": {
+          "selected_dynamic_background_id": {
+            "1": ""
+          },
+          "assistant_character_id": {
+            "1": ""
+          },
+          "current_character_animation_id": {
+            "1": ""
+          },
+          "interaction_triggered": {
+            "1": false
+          }
+        },
+        "ui_transparency": {
+          "ui_transparency_mode_enabled": {
+            "1": true
+          },
+          "frosted_glass_effect_enabled": {
+            "1": true
+          },
+          "clicked_ui_element_id": {
+            "1": ""
+          }
+        },
+        "economy_monetization": {
+          "purchased_avatar_frame_ids": {
+            "1": []
+          },
+          "purchased_background_ids": {
+            "1": []
+          },
+          "purchased_special_frame_ids": {
+            "1": []
+          },
+          "free_unlocked_avatar_frame_ids": {
+            "1": [
+              "default_avatar"
+            ],
+            "5": [
+              "unlocked_frame_01"
+            ],
+            "10": [
+              "unlocked_frame_02"
+            ],
+            "20": [
+              "unlocked_frame_03"
             ]
           },
-          "2": {
-            "required_exp": 500,
-            "unlock_dialogue": [
-              "dialogue_01"
+          "free_unlocked_background_ids": {
+            "1": [
+              "default_bg"
             ],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "3": {
-            "required_exp": 1500,
-            "unlock_dialogue": [
-              "dialogue_02"
+            "5": [
+              "unlocked_bg_01"
             ],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "4": {
-            "required_exp": 3000,
-            "unlock_dialogue": [],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "5": {
-            "required_exp": 5000,
-            "unlock_dialogue": [
-              "dialogue_03"
-            ],
-            "unlock_pose": [
-              "pose_sit_bed"
-            ],
-            "unlock_furniture": []
-          },
-          "6": {
-            "required_exp": 7500,
-            "unlock_dialogue": [
-              "dialogue_04"
-            ],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "7": {
-            "required_exp": 10500,
-            "unlock_dialogue": [],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "8": {
-            "required_exp": 14000,
-            "unlock_dialogue": [
-              "dialogue_05"
-            ],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "9": {
-            "required_exp": 18000,
-            "unlock_dialogue": [],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "10": {
-            "required_exp": 22500,
-            "unlock_dialogue": [
-              "dialogue_06"
-            ],
-            "unlock_pose": [
-              "pose_lie_bed"
-            ],
-            "unlock_furniture": [
-              "furniture_japanese"
+            "10": [
+              "unlocked_bg_02"
             ]
           },
-          "11": {
-            "required_exp": 27500,
-            "unlock_dialogue": [
-              "dialogue_07"
-            ],
-            "unlock_pose": [],
-            "unlock_furniture": []
+          "limited_time_resource_ids": {
+            "1": []
           },
-          "12": {
-            "required_exp": 33000,
-            "unlock_dialogue": [],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "13": {
-            "required_exp": 39000,
-            "unlock_dialogue": [
-              "dialogue_08"
-            ],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "14": {
-            "required_exp": 45500,
-            "unlock_dialogue": [],
-            "unlock_pose": [],
-            "unlock_furniture": []
-          },
-          "15": {
-            "required_exp": 52500,
-            "unlock_dialogue": [
-              "dialogue_09"
-            ],
-            "unlock_pose": [
-              "pose_cuddle"
-            ],
-            "unlock_furniture": [
-              "furniture_modern"
+          "permanent_resource_ids": {
+            "1": [
+              "default_avatar",
+              "default_bg",
+              "unlocked_frame_01",
+              "unlocked_frame_02",
+              "unlocked_frame_03",
+              "unlocked_bg_01",
+              "unlocked_bg_02"
             ]
           }
         },
-        "daily_limits": {
-          "max_daily_interaction_count": 50,
-          "max_daily_dialogue_count": 5,
-          "reset_time": "00:00"
-        },
-        "touch_feedback_map": {
-          "touch_head": {
-            "voice_id": "voice_head_01",
-            "expression_id": "expr_happy",
-            "action_id": "action_head_tilt",
-            "jiggle_physics_intensity": 0,
-            "is_sensitive": false
+        "legacy_system_data_integration": {
+          "character_system_api_status": {
+            "1": "success"
           },
-          "touch_face": {
-            "voice_id": "voice_face_01",
-            "expression_id": "expr_blush",
-            "action_id": "action_face_touch",
-            "jiggle_physics_intensity": 0,
-            "is_sensitive": true
+          "achievement_system_api_status": {
+            "1": "success"
           },
-          "touch_hand": {
-            "voice_id": "voice_hand_01",
-            "expression_id": "expr_smile",
-            "action_id": "action_hand_hold",
-            "jiggle_physics_intensity": 0,
-            "is_sensitive": false
+          "battle_system_api_status": {
+            "1": "success"
           },
-          "touch_chest": {
-            "voice_id": "voice_chest_01",
-            "expression_id": "expr_blush_deep",
-            "action_id": "action_chest_shrink",
-            "jiggle_physics_intensity": 3,
-            "is_sensitive": true
+          "friend_system_api_status": {
+            "1": "success"
           },
-          "touch_hip": {
-            "voice_id": "voice_hip_01",
-            "expression_id": "expr_shy",
-            "action_id": "action_hip_turn",
-            "jiggle_physics_intensity": 2,
-            "is_sensitive": true
+          "battle_pass_system_api_status": {
+            "1": "success"
+          },
+          "character_data_cache": {
+            "1": {}
+          },
+          "achievement_data_cache": {
+            "1": {}
+          },
+          "battle_data_cache": {
+            "1": {}
+          },
+          "friend_data_cache": {
+            "1": {}
+          },
+          "battle_pass_data_cache": {
+            "1": {}
           }
         }
       }

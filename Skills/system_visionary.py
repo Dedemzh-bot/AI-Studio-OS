@@ -141,23 +141,58 @@ def main():
     print("=" * 60)
 
     # ========== 4. 解析状态 ==========
-    # 尝试提取 JSON 状态
-    json_match = re.search(r'\{"status"\s*:\s*"(need_info|draft_ready)"\s*(?:,\s*"question"\s*:\s*"(.*?)")?\s*\}', llm_response, re.DOTALL)
-    if not json_match:
-        json_match = re.search(r'\{\s*"status"\s*:\s*"(need_info|draft_ready)"[^}]*\}', llm_response)
-
-    if json_match:
-        status_json_str = json_match.group(0)
+    # 策略1: 直接完整解析
+    status_json = None
+    cleaned = llm_response.strip()
+    for candidate in [cleaned, cleaned + '"', cleaned + '"}', cleaned + '"}}', cleaned + '"}']:
         try:
-            status_json = json.loads(status_json_str)
+            parsed = json.loads(candidate)
+            if isinstance(parsed, dict) and parsed.get("status") in ("need_info", "draft_ready"):
+                status_json = parsed
+                break
         except json.JSONDecodeError:
-            status_json = {"status": "need_info", "question": "（解析状态失败，请老板检查输出）"}
+            pass
 
+    # 策略2: 正则提取（兼容内部含 Unicode 引号）
+    if status_json is None:
+        json_match = re.search(r'\{"status"\s*:\s*"(need_info|draft_ready)"\s*(?:,\s*"question"\s*:\s*"(.*?)")?\s*\}', llm_response, re.DOTALL)
+        if not json_match:
+            json_match = re.search(r'\{\s*"status"\s*:\s*"(need_info|draft_ready)"[^}]*\}', llm_response)
+        if json_match:
+            try:
+                status_json = json.loads(json_match.group(0))
+            except json.JSONDecodeError:
+                pass
+
+    # 策略3: 扫描行（兼容 stdout 混杂多行）
+    if status_json is None:
+        for line in llm_response.split("\n"):
+            line = line.strip()
+            if line.startswith("{"):
+                try:
+                    parsed = json.loads(line)
+                    if isinstance(parsed, dict) and parsed.get("status") in ("need_info", "draft_ready"):
+                        status_json = parsed
+                        break
+                except json.JSONDecodeError:
+                    pass
+
+    if status_json:
         status = status_json.get("status", "need_info")
         question = status_json.get("question", "")
 
         if status == "need_info":
             print(f"\n{YEL}[主策追问] {question}{RESET}")
+            # 写状态到 task_status.json，让 Router 通过读文件感知
+            try:
+                if os.path.exists(STATUS_FILE):
+                    with open(STATUS_FILE, "r", encoding="utf-8") as f:
+                        sd = json.load(f)
+                    sd["current_state"] = "clarifying_requirements"
+                    with open(STATUS_FILE, "w", encoding="utf-8") as f:
+                        json.dump(sd, f, ensure_ascii=False, indent=2)
+            except Exception:
+                pass
             # 输出纯 JSON 给 Router 解析
             print(json.dumps({"status": "need_info", "question": question}, ensure_ascii=False))
             sys.exit(0)
@@ -172,7 +207,11 @@ def main():
                 draft = md_match.group(1).strip()
             # 策略2: JSON 之后所有文本（跳过可能的空白）
             if not draft or len(draft) < 100:
-                post_json = llm_response[json_match.end():].strip()
+                json_end = llm_response.rfind("}")
+                if json_end > 0:
+                    post_json = llm_response[json_end+1:].strip()
+                else:
+                    post_json = ""
                 if len(post_json) > 100 and ('#' in post_json or '*' in post_json or '-' in post_json):
                     draft = post_json
             # 策略3: 整个回应去掉 JSON 部分
@@ -231,10 +270,10 @@ def main():
 
             print(json.dumps({"status": "draft_ready"}, ensure_ascii=False))
             sys.exit(0)
-    else:
-        print(f"{RED}无法解析大模型状态输出{RESET}")
-        print(json.dumps({"status": "need_info", "question": "无法解析您的输出，请简化格式重试"}, ensure_ascii=False))
-        sys.exit(1)
+
+    print(f"{RED}无法解析大模型状态输出{RESET}")
+    print(json.dumps({"status": "need_info", "question": "无法解析您的输出，请简化格式重试"}, ensure_ascii=False))
+    sys.exit(1)
 
 
 if __name__ == "__main__":

@@ -54,64 +54,199 @@ st.set_page_config(page_title="AI Studio OS", page_icon="🎮", layout="wide")
 # ================================================================
 st.markdown("""
 <style>
+
 * { border-radius:0 !important; box-shadow:none !important; font-family:"Microsoft YaHei","PingFang SC",sans-serif !important; }
 
+
+
 /* 全局 */
+
 body, .main, [data-testid="stAppViewContainer"], section[data-testid="stSidebar"] > div:first-child {
+
     background:#fff !important; color:#333 !important;
+
 }
+
+
 
 /* 侧边栏 — 深灰底白字, 220px */
+
 [data-testid="stSidebar"] {
+
     background:#333 !important; min-width:220px !important; max-width:220px !important;
+
 }
+
 [data-testid="stSidebar"] * { color:#fff !important; }
+
 [data-testid="stSidebar"] label[data-baseweb="radio"] div[role="radio"] {
+
     width:100% !important; padding:18px !important; font-size:18px !important;
+
     font-weight:bold !important; border:1px solid #555 !important;
+
     background:#444 !important; color:#ccc !important; margin-bottom:4px !important;
+
 }
+
 [data-testid="stSidebar"] label[data-baseweb="radio"] div[role="radio"][data-selected="true"] {
+
     background:#000 !important; color:#fff !important; border-color:#000 !important;
+
 }
+
+
 
 /* 按钮 */
+
 div.stButton > button {
+
     font-weight:bold !important; font-size:16px !important; padding:10px 0 !important;
+
     width:100% !important; border:2px solid #333 !important;
+
 }
+
 div.stButton > button[kind="secondary"] {
+
     background:#ff3b30 !important; color:#fff !important; border-color:#cc0000 !important;
+
 }
+
+
 
 /* 日志 textarea */
+
 div[data-testid="stTextArea"] textarea {
+
     font-family:"Consolas","Courier New",monospace !important; font-size:14px !important;
+
     line-height:1.5 !important; color:#333 !important; background:#fafafa !important;
+
     border:2px solid #555 !important;
+
 }
 
-/* chat_input 置灰 */
-div[data-testid="stChatInput"] input:disabled {
-    background:#f5f5f5 !important; color:#aaa !important; cursor:not-allowed !important;
-    border:2px solid #999 !important;
-}
-div[data-testid="stChatInput"] input:not(:disabled) {
-    border:2px solid #000 !important; background:#fff !important;
-}
+
+
+/* chat_input 拉高到 4行 */
+
+div[data-testid="stChatInput"] textarea { min-height:100px !important; line-height:1.5 !important; }
+
+div[data-testid="stChatInput"] input { min-height:100px !important; line-height:1.5 !important; }
+
+
 
 /* info box */
+
 div[data-testid="stAlert"] { border-left:4px solid #000 !important; background:#f0f0f0 !important; }
 
+
+
 /* 文件按钮 */
+
 section[data-testid="stSidebar"] + div button[kind="secondary"] {
+
     background:#fff !important; color:#333 !important; border:none !important;
+
     text-align:left !important; font-size:13px !important; padding:8px 5px !important;
+
 }
+
 section[data-testid="stSidebar"] + div button[kind="secondary"]:hover { background:#eee !important; }
 
+
+
 /* 标题 */
-h3 { font-size:20px !important; font-weight:bold !important; border-bottom:1px solid #333 !important; padding-bottom:8px !important; }
+
+h3 { font-size:20px !important; font-weight:bold !important; border-bottom:1px solid #333 !important; padding-bottom:8px !important; margin-top:20px !important; }
+
+
+
+/* ========================================================= */
+/* 终极修复：height:100% 链式继承打通全屏 */
+/* ========================================================= */
+html, body, #root {
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+}
+.stApp {
+    height: 100% !important;
+}
+[data-testid="stAppViewContainer"] {
+    height: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+section.main, section[data-testid="stMain"] {
+    min-height: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    flex-grow: 1 !important;
+    overflow-y: auto !important;
+}
+.block-container {
+    min-height: 100% !important;
+    flex-grow: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    max-width: 100% !important;
+}
+
+footer {
+    display: none !important;
+}
+
+header[data-testid="stHeader"] { 
+    display: none !important;
+}
+
+button { border-radius:0px !important; }
+
+.stTextArea textarea { border-radius:0px !important; border:2px solid #555 !important; background-color:#fcfcfc !important; }
+
+section[data-testid="stSidebar"] + div button[kind]:not([disabled]) { border:1px solid #ddd !important; background:#fff !important; color:#333 !important; text-align:left !important; padding-left:12px !important; }
+
+
+
+/* 中栏 flex 布局：底部控制固定 */
+
+.bottom-area { padding-top:10px !important; }
+
+/* 控制栏垂直居中 */
+
+/* ========================================================= */
+/* 修复 2：撤销全局垂直居中，精准控制左右分栏与底部对齐 */
+/* ========================================================= */
+/* A. 将所有横向分栏恢复为【顶部对齐】，拯救右侧掉下来的文件列表 */
+div[data-testid="stHorizontalBlock"] {
+    align-items: flex-start !important; 
+}
+
+/* 强制列内部的元素绝对贴顶排布 */
+div[data-testid="column"] > div[data-testid="stVerticalBlock"] {
+    justify-content: flex-start !important;
+}
+
+/* B. 精准靶向治疗：仅让底部控制栏的那一行实现垂直居中 */
+.bottom-area div[data-testid="stHorizontalBlock"] {
+    align-items: center !important; 
+}
+
+/* 右栏文件按钮左对齐 */
+
+[data-testid="stVerticalBlock"] button[kind] { text-align:left !important; padding-left:12px !important; }
+
+/* 文件列表按钮左对齐 + 缩进 */
+
+.st-emotion-cache button[kind="secondary"] { text-align:left !important; padding-left:12px !important; }
+
 </style>
 """, unsafe_allow_html=True)
 
@@ -160,7 +295,6 @@ def read_logs(n=80):
         merged = []
         for line in raw:
             if merged and line == merged[-1]:
-                # 如果上一行已经是 ×N 格式
                 if merged[-1].endswith("×2"):
                     merged[-1] = merged[-1].replace("×2", "×3")
                 elif "×" in merged[-1].rsplit("×", 1)[-1].strip().isdigit():
@@ -173,9 +307,30 @@ def read_logs(n=80):
         return merged[-n:] or ["[System] 等待引擎启动..."]
     except: return ["[System] 等待引擎启动..."]
 
+
+def read_logs_str() -> str:
+    return "\n".join(read_logs(200))
+
 def scan_ws():
+    """扫描产出文件：跳过框架文件 + 空占位 + 本轮启动前旧文件，按修改时间排序"""
+    FRAMEWORK = {
+        "blueprint.json", "active_schema.json", "current_result.json",
+        "task_status.json", "review_board.md", "task_route.json",
+        "boss_feedback.txt", "project_meta.json", "concept_brief.md",
+    }
     if not os.path.exists(WS): return []
-    return sorted([f for f in os.listdir(WS) if os.path.isfile(os.path.join(WS, f)) and not f.startswith(".")])
+    since = st.session_state.get("engine_start_ts", 0)
+    files = []
+    for f in os.listdir(WS):
+        fp = os.path.join(WS, f)
+        if os.path.isfile(fp) and not f.startswith("."):
+            if f in FRAMEWORK: continue
+            mtime = os.path.getmtime(fp)
+            if mtime < since: continue  # 本轮启动前的旧文件不显示
+            if os.path.getsize(fp) > 10:
+                files.append((f, mtime))
+    files.sort(key=lambda x: x[1])
+    return [f[0] for f in files]
 
 def scan_kb(d):
     return sorted(os.listdir(d)) if os.path.exists(d) else []
@@ -190,18 +345,22 @@ def fmt_name(f):
 
 def start_engine():
     os.makedirs(WS, exist_ok=True)
-    # 清除旧 web_io 通信残留 + 清空旧日志
-    for f in [PROMPT_FILE, RESPONSE_FILE]:
+    # 清除旧 web_io 通信残留 + 清空旧日志 + 清除概念缓存（确保 Router 冷启动触发）
+    for f in [PROMPT_FILE, RESPONSE_FILE,
+              os.path.join(WS, ".concept_brief_cache.txt")]:
         if os.path.exists(f):
             os.remove(f)
     open(LOG_FILE, "w", encoding="utf-8").close()
     try: open(LOG_FILE, "a", encoding="utf-8").write("[GUI] 引擎启动中...\n")
     except: pass
+    st.session_state["engine_start_ts"] = time.time()
+    st.session_state["display_state"] = "idle"  # 启动时重置状态显示
     env = os.environ.copy(); env["AI_STUDIO_WEB_MODE"] = "1"
+    env["PYTHONIOENCODING"] = "utf-8"
     p = subprocess.Popen(
         [sys.executable, "-u", os.path.join(ROOT, "main_router.py")],
         stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-        text=True, errors="replace", cwd=ROOT, env=env,
+        encoding="utf-8", errors="replace", cwd=ROOT, env=env,
     )
     st.session_state["router_proc"] = p
     def cap():
@@ -251,11 +410,25 @@ if page == "📝 写案子":
         # 标题
         st.markdown("### 显示终端反馈的那种log内容")
 
-        # 日志
-        logs = "\n".join(read_logs(100))
-        st.text_area("终端日志", value=logs, height=380, disabled=True, label_visibility="collapsed")
+        # 日志（components.html 保留 script 标签，自动滚动）
+        log_html = read_logs_str().replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace("\n", "<br>")
+        st.components.v1.html(
+            f"""
+            <div id="logScroll" style="border:2px solid #555; background:#fafafa; padding:15px;
+            font-family:Consolas,Courier New,monospace; font-size:14px; line-height:1.5;
+            height:55vh; overflow-y:auto; color:#333;">{log_html}</div>
+            <script>
+            var el=document.getElementById('logScroll');
+            if(el) el.scrollTop=el.scrollHeight;
+            var observer=new MutationObserver(function(){{ el.scrollTop=el.scrollHeight; }});
+            if(el) observer.observe(el,{{childList:true,subtree:true}});
+            </script>
+            """,
+            height=390,
+        )
 
-        # 控制栏
+        # 底部控制区
+        st.markdown('<div class="bottom-area">', unsafe_allow_html=True)
         bc1, bc2, _ = st.columns([1, 1, 4])
         with bc1:
             if running:
@@ -265,31 +438,33 @@ if page == "📝 写案子":
                 if st.button("启动研发", key="start", type="secondary", use_container_width=True):
                     start_engine(); st.rerun()
         with bc2:
-            state_text = STATES.get(read_state(), "Unenable")
+            # 引擎未启动时使用上次存储的显示状态，启动后用实时状态
+            if running:
+                state_text = STATES.get(read_state(), "Unenable")
+                st.session_state["display_state"] = state_text
+            else:
+                state_text = st.session_state.get("display_state", "Unenable")
             st.markdown(f"**{state_text}**")
 
-        # HITL 审批（双重校验：.web_prompt.json 存在 + Router 在审批状态）
+        # ===== 单一输入框 (三态, chat_input Enter提交 + CSS拉高) =====
         prompt = get_prompt()
         actual_state = read_state()
         in_approval = any(kw in actual_state for kw in ["approval","clarify","system_design","plan","tech","numerical_appr"])
-        if prompt and in_approval:
+
+        if not running:
+            cmd = st.chat_input("请输入指令 (Enter发送)")
+            if cmd and cmd.strip():
+                sync_concept(cmd.strip())
+                start_engine()
+                st.rerun()
+        elif prompt and in_approval:
             st.info(f"🤖 **系统问询**\n\n{prompt.get('prompt','')}")
-            reply = st.chat_input("输入回复 (Enter 发送)")
+            reply = st.chat_input("请回复系统问询... (Enter发送)")
             if reply:
                 submit_answer(reply); st.rerun()
         else:
-            st.chat_input("等待系统唤醒输入...", disabled=True)
-
-        # 需求输入
-        cur = open(CONCEPT_FILE, "r", encoding="utf-8").read() if os.path.exists(CONCEPT_FILE) else ""
-        new = st.text_area(
-            "需求输入",
-            value=cur, height=140, key="cpt",
-            placeholder="请输入文字...",
-        )
-        # 仅在引擎 Idle 时静默同步（避免运行中触发 Router 误判为新需求）
-        if not running and new.strip() != cur.strip():
-            sync_concept(new)
+            st.chat_input("AI 运行中...", disabled=True)
+        st.markdown('</div>', unsafe_allow_html=True)
 
     with R:
         st.markdown("### 下发文件")
@@ -329,7 +504,7 @@ elif page == "📚 记忆积累":
                    doc.strip(), "all", tp, com.strip() or "（无评语）"]
             with st.spinner("归档中..."):
                 try:
-                    r = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
+                    r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", cwd=ROOT)
                     if r.returncode == 0: st.success("归档成功！")
                     else: st.error(f"失败: {r.stderr[-300:]}")
                 except Exception as e: st.error(f"异常: {e}")

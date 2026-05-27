@@ -13,7 +13,6 @@ import glob
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from Skills.llm_client import ask_llm, safe_extract_json
-from Skills.memory_retriever import retrieve_memory
 
 # ---- 路径配置（全部使用绝对路径） ----
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -121,8 +120,12 @@ def main():
         )
 
     # ========== 3. 调用大模型 ==========
-    # ---- RAG 记忆注入 ----
-    rag_context = retrieve_memory(concept_text, ROOT_DIR)
+    # ---- RAG 记忆注入（直接从已加载的 Codex + 知识库构建） ----
+    rag_context = ""
+    if codex_content:
+        rag_context += f"\n【项目记忆 Codex】:\n{codex_content}"
+    if knowledge_context:
+        rag_context += f"\n【知识库】:\n{knowledge_context}"
     if rag_context:
         concept_text += rag_context
         print(f"[LeadPlanner] 已注入 RAG 记忆 ({len(rag_context)} 字符)")

@@ -14,7 +14,6 @@ ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm
-from Skills.memory_retriever import retrieve_memory
 
 WORKSPACE_DIR   = os.path.join(ROOT_DIR, ".agent_workspace")
 CONCEPT_FILE    = os.path.join(WORKSPACE_DIR, "concept_brief.md")
@@ -115,8 +114,12 @@ def main():
             print(f"[System Planner][警告] 读取修复指令失败: {e}")
 
     # ========== 4. 调用大模型 ==========
-    # ---- RAG 记忆注入 ----
-    rag_context = retrieve_memory(concept, ROOT_DIR)
+    # ---- RAG 记忆注入（直接从已加载的 Codex + Registry 构建） ----
+    rag_context = ""
+    if codex:
+        rag_context += f"\n【项目记忆 Codex】:\n{codex}"
+    if registry:
+        rag_context += f"\n\n【已有资产登记表】:\n```json\n{registry}\n```"
     if rag_context:
         user_prompt += rag_context
         print(f"[System Planner] 已注入 RAG 记忆 ({len(rag_context)} 字符)")

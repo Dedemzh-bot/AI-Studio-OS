@@ -1,0 +1,601 @@
+[
+  {
+    "signature": {
+      "default": "",
+      "max_length": 50
+    },
+    "background_id": {
+      "default": 1,
+      "unlocked_ids": [
+        1,
+        2,
+        3
+      ]
+    },
+    "privacy_settings": {
+      "default": {
+        "hide_achievements": false,
+        "hide_stats": false,
+        "hide_history": false,
+        "disable_messages": false,
+        "friends_only": false
+      }
+    }
+  },
+  {
+    "unlocked_ids": {
+      "default": []
+    },
+    "highlighted_id": {
+      "default": 0
+    },
+    "display_order": {
+      "default": []
+    }
+  },
+  {
+    "slot_1": {
+      "default": 0
+    },
+    "slot_2": {
+      "default": 0
+    },
+    "slot_3": {
+      "default": 0
+    },
+    "slot_4": {
+      "default": 0
+    },
+    "slot_5": {
+      "default": 0
+    }
+  },
+  {
+    "recent_records": {
+      "default": []
+    },
+    "pinned_ids": {
+      "default": [],
+      "max_count": 3
+    }
+  },
+  {
+    "liked_by": {
+      "default": []
+    },
+    "messages": {
+      "default": []
+    }
+  },
+  {
+    "hide_achievements": {
+      "default": false
+    },
+    "hide_stats": {
+      "default": false
+    },
+    "hide_history": {
+      "default": false
+    },
+    "disable_messages": {
+      "default": false
+    },
+    "friends_only": {
+      "default": false
+    }
+  },
+  {
+    "background_id": {
+      "1": 1,
+      "5": 2,
+      "10": 3,
+      "20": 4,
+      "30": 5,
+      "50": 6,
+      "100": 7
+    }
+  },
+  {
+    "achievement_id": {
+      "1": 101,
+      "5": 102,
+      "10": 103,
+      "20": 104,
+      "30": 105,
+      "50": 106,
+      "100": 107
+    },
+    "unlock_time": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0,
+      "50": 0,
+      "100": 0
+    },
+    "sort_order": {
+      "1": 0,
+      "5": 1,
+      "10": 2,
+      "20": 3,
+      "30": 4,
+      "50": 5,
+      "100": 6
+    },
+    "is_highlighted": {
+      "1": false,
+      "5": false,
+      "10": false,
+      "20": false,
+      "30": false,
+      "50": false,
+      "100": false
+    }
+  },
+  {
+    "slot_index": {
+      "1": 1,
+      "5": 2,
+      "10": 3,
+      "20": 4,
+      "30": 5
+    },
+    "character_id": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0
+    },
+    "skin_id": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0
+    },
+    "action_id": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0
+    }
+  },
+  {
+    "highlight_id": {
+      "1": 1001,
+      "5": 1002,
+      "10": 1003,
+      "20": 1004,
+      "30": 1005,
+      "50": 1006,
+      "100": 1007
+    },
+    "highlight_type": {
+      "1": "abyss_full_star",
+      "5": "event_top10",
+      "10": "boss_first_kill",
+      "20": "pvp_streak5",
+      "30": "abyss_full_star",
+      "50": "event_top10",
+      "100": "boss_first_kill"
+    },
+    "timestamp": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0,
+      "50": 0,
+      "100": 0
+    },
+    "detail_data": {
+      "1": "{}",
+      "5": "{}",
+      "10": "{}",
+      "20": "{}",
+      "30": "{}",
+      "50": "{}",
+      "100": "{}"
+    },
+    "is_pinned": {
+      "1": false,
+      "5": false,
+      "10": false,
+      "20": false,
+      "30": false,
+      "50": false,
+      "100": false
+    },
+    "pin_order": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0,
+      "50": 0,
+      "100": 0
+    }
+  },
+  {
+    "visitor_id": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0,
+      "50": 0,
+      "100": 0
+    },
+    "like_timestamp": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0,
+      "50": 0,
+      "100": 0
+    },
+    "message_id": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0,
+      "50": 0,
+      "100": 0
+    },
+    "message_content": {
+      "1": "",
+      "5": "",
+      "10": "",
+      "20": "",
+      "30": "",
+      "50": "",
+      "100": ""
+    },
+    "message_timestamp": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "20": 0,
+      "30": 0,
+      "50": 0,
+      "100": 0
+    },
+    "review_status": {
+      "1": "pending",
+      "5": "pending",
+      "10": "pending",
+      "20": "pending",
+      "30": "pending",
+      "50": "pending",
+      "100": "pending"
+    },
+    "is_deleted": {
+      "1": false,
+      "5": false,
+      "10": false,
+      "20": false,
+      "30": false,
+      "50": false,
+      "100": false
+    }
+  },
+  {
+    "setting_name": {
+      "1": "profile_visibility",
+      "5": "stats_visibility",
+      "10": "history_visibility",
+      "20": "achievement_visibility",
+      "30": "message_enabled",
+      "50": "like_visibility",
+      "100": "profile_visibility"
+    },
+    "setting_value": {
+      "1": "all",
+      "5": "public",
+      "10": "public",
+      "20": "public",
+      "30": "enabled",
+      "50": "public",
+      "100": "all"
+    }
+  },
+  {
+    "1": {
+      "required_affection": 0,
+      "unlock_flags": []
+    },
+    "2": {
+      "required_affection": 100,
+      "unlock_flags": []
+    },
+    "3": {
+      "required_affection": 200,
+      "unlock_flags": [
+        "unlocked_touch_waist"
+      ]
+    },
+    "4": {
+      "required_affection": 400,
+      "unlock_flags": []
+    },
+    "5": {
+      "required_affection": 700,
+      "unlock_flags": [
+        "unlocked_touch_chest",
+        "unlocked_costume_casual"
+      ]
+    },
+    "6": {
+      "required_affection": 1100,
+      "unlock_flags": []
+    },
+    "7": {
+      "required_affection": 1600,
+      "unlock_flags": [
+        "unlocked_touch_leg"
+      ]
+    },
+    "8": {
+      "required_affection": 2200,
+      "unlock_flags": [
+        "unlocked_costume_pajama",
+        "unlocked_special_interaction"
+      ]
+    },
+    "9": {
+      "required_affection": 2900,
+      "unlock_flags": [
+        "unlocked_story_1"
+      ]
+    },
+    "10": {
+      "required_affection": 3700,
+      "unlock_flags": [
+        "unlocked_story_2",
+        "unlocked_confession"
+      ]
+    }
+  },
+  {
+    "0": {
+      "description": "晴天",
+      "duration_hours": 4
+    },
+    "1": {
+      "description": "多云",
+      "duration_hours": 4
+    },
+    "2": {
+      "description": "小雨",
+      "duration_hours": 4
+    },
+    "3": {
+      "description": "大雨",
+      "duration_hours": 4
+    },
+    "4": {
+      "description": "雪天",
+      "duration_hours": 4
+    }
+  },
+  {
+    "0": {
+      "time_range": [
+        8,
+        18
+      ],
+      "description": "活跃"
+    },
+    "1": {
+      "time_range": [
+        18,
+        20
+      ],
+      "description": "放松"
+    },
+    "2": {
+      "time_range": [
+        20,
+        6
+      ],
+      "description": "困倦"
+    },
+    "3": {
+      "time_range": [
+        6,
+        8
+      ],
+      "description": "刚睡醒"
+    }
+  },
+  {
+    "avatar_id": {
+      "1": "default_avatar",
+      "5": "unlocked_frame_01",
+      "10": "unlocked_frame_02",
+      "20": "unlocked_frame_03",
+      "50": "premium_frame_01"
+    },
+    "background_id": {
+      "1": "default_bg",
+      "5": "unlocked_bg_01",
+      "10": "unlocked_bg_02",
+      "20": "premium_bg_01"
+    },
+    "signature_text": {
+      "1": ""
+    },
+    "assistant_character_ids": {
+      "1": []
+    },
+    "selected_avatar_frame_id": {
+      "1": "default_frame"
+    },
+    "selected_background_id": {
+      "1": "default_bg"
+    },
+    "decorative_medal_ids": {
+      "1": []
+    }
+  },
+  {
+    "showcase_character_ids": {
+      "1": []
+    },
+    "selected_character_id": {
+      "1": ""
+    },
+    "character_sort_order": {
+      "1": "rarity_desc"
+    },
+    "character_filter_rarity": {
+      "1": "all"
+    },
+    "character_filter_element": {
+      "1": "all"
+    },
+    "character_filter_faction": {
+      "1": "all"
+    }
+  },
+  {
+    "selected_achievement_id": {
+      "1": ""
+    },
+    "decorative_achievement_ids": {
+      "1": []
+    },
+    "achievement_category_filter": {
+      "1": "all"
+    }
+  },
+  {
+    "friend_list": {
+      "1": []
+    },
+    "friend_request_list": {
+      "1": []
+    },
+    "liked_player_ids": {
+      "1": []
+    },
+    "message_board_messages": {
+      "1": []
+    },
+    "selected_friend_id": {
+      "1": ""
+    }
+  },
+  {
+    "selected_dynamic_background_id": {
+      "1": ""
+    },
+    "assistant_character_id": {
+      "1": ""
+    },
+    "current_character_animation_id": {
+      "1": ""
+    },
+    "interaction_triggered": {
+      "1": false
+    }
+  },
+  {
+    "ui_transparency_mode_enabled": {
+      "1": true
+    },
+    "frosted_glass_effect_enabled": {
+      "1": true
+    },
+    "clicked_ui_element_id": {
+      "1": ""
+    }
+  },
+  {
+    "purchased_avatar_frame_ids": {
+      "1": []
+    },
+    "purchased_background_ids": {
+      "1": []
+    },
+    "purchased_special_frame_ids": {
+      "1": []
+    },
+    "free_unlocked_avatar_frame_ids": {
+      "1": [
+        "default_avatar"
+      ],
+      "5": [
+        "unlocked_frame_01"
+      ],
+      "10": [
+        "unlocked_frame_02"
+      ],
+      "20": [
+        "unlocked_frame_03"
+      ]
+    },
+    "free_unlocked_background_ids": {
+      "1": [
+        "default_bg"
+      ],
+      "5": [
+        "unlocked_bg_01"
+      ],
+      "10": [
+        "unlocked_bg_02"
+      ]
+    },
+    "limited_time_resource_ids": {
+      "1": []
+    },
+    "permanent_resource_ids": {
+      "1": [
+        "default_avatar",
+        "default_bg",
+        "unlocked_frame_01",
+        "unlocked_frame_02",
+        "unlocked_frame_03",
+        "unlocked_bg_01",
+        "unlocked_bg_02"
+      ]
+    }
+  },
+  {
+    "character_system_api_status": {
+      "1": "success"
+    },
+    "achievement_system_api_status": {
+      "1": "success"
+    },
+    "battle_system_api_status": {
+      "1": "success"
+    },
+    "friend_system_api_status": {
+      "1": "success"
+    },
+    "battle_pass_system_api_status": {
+      "1": "success"
+    },
+    "character_data_cache": {
+      "1": {}
+    },
+    "achievement_data_cache": {
+      "1": {}
+    },
+    "battle_data_cache": {
+      "1": {}
+    },
+    "friend_data_cache": {
+      "1": {}
+    },
+    "battle_pass_data_cache": {
+      "1": {}
+    }
+  }
+]
