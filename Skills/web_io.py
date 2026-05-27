@@ -3,10 +3,12 @@ Web I/O Bridge — 终端与 Web GUI 的通信桥梁。
 当 WEB_MODE=1 时，input() 和 print() 透传到此模块，实现终端 ↔ Web 双向交互。
 """
 
+import builtins
 import json
 import os
 import sys
 import time
+import re
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORKSPACE = os.path.join(ROOT_DIR, ".agent_workspace")
@@ -15,9 +17,7 @@ RESPONSE_FILE = os.path.join(WORKSPACE, ".web_response.json")
 LOG_FILE = os.path.join(WORKSPACE, ".web_log.jsonl")
 
 _web_mode = os.environ.get("AI_STUDIO_WEB_MODE") == "1"
-
-# ANSI strip regex
-import re
+_real_print = builtins.print
 _ansi_re = re.compile(r'\x1b\[[0-9;]*m')
 
 
@@ -26,10 +26,12 @@ def is_web_mode() -> bool:
 
 
 def web_print(*args, **kwargs):
-    """Web 模式下的 print：写入日志文件（不递归调用被 monkey-patch 的 print）"""
+    """Web 模式下的 print：写入日志文件 + 输出到真实 stdout（已去 ANSI 码）"""
     msg = " ".join(str(a) for a in args)
     clean = _ansi_re.sub("", msg)
     _append_log(clean)
+    # 输出到真实 stdout（已去 ANSI，避免 Web 日志出现乱码控制符）
+    _real_print(clean)
 
 
 def web_input(prompt: str = "") -> str:

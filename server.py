@@ -1,6 +1,6 @@
 """
-AI Studio OS - HTTP Backend
-python server.py → http://localhost:8080
+AI Studio OS - FastAPI Backend
+WebSocket + REST API hybrid architecture
 """
 
 import json
@@ -8,243 +8,278 @@ import os
 import sys
 import subprocess
 import time
-from http.server import HTTPServer, SimpleHTTPRequestHandler
-from urllib.parse import urlparse, parse_qs
+import asyncio
+import threading
+from datetime import datetime
+
+from fastapi import FastAPI, WebSocket, WebSocketDisconnect
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse, JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-STATUS_FILE = os.path.join(WORKSPACE_DIR, "task_status.json")
-CONCEPT_FILE = os.path.join(WORKSPACE_DIR, "concept_brief.md")
-BEST_DIR = os.path.join(ROOT_DIR, "Knowledge", "best_practices")
-ANTI_DIR = os.path.join(ROOT_DIR, "Knowledge", "anti_patterns")
-LOG_FILE = os.path.join(WORKSPACE_DIR, ".web_log.jsonl")
-PROMPT_FILE = os.path.join(WORKSPACE_DIR, ".web_prompt.json")
+WS_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
+KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
+BEST_DIR = os.path.join(KNOWLEDGE_DIR, "best_practices")
+ANTI_DIR = os.path.join(KNOWLEDGE_DIR, "anti_patterns")
+STATUS_FILE = os.path.join(WS_DIR, "task_status.json")
+CONCEPT_FILE = os.path.join(WS_DIR, "concept_brief.md")
+PROMPT_FILE = os.path.join(WS_DIR, ".web_prompt.json")
+RESPONSE_FILE = os.path.join(WS_DIR, ".web_response.json")
+LOG_FILE = os.path.join(WS_DIR, ".web_log.jsonl")
+
+FRAMEWORK_FILES = {
+    "blueprint.json", "active_schema.json", "current_result.json",
+    "task_status.json", "review_board.md", "task_route.json",
+    "boss_feedback.txt", "project_meta.json", "concept_brief.md",
+}
+
+app = FastAPI()
+app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 router_proc = None
-log_buffer = ["[Server] Backend started, waiting for engine..."]
+engine_start_ts = 0
+active_ws: WebSocket | None = None
 
 
-# ==================== Backend Functions ====================
+# ==================== REST API ====================
 
-def read_status():
+@app.get("/api/status")
+def api_status():
     try:
         with open(STATUS_FILE, "r", encoding="utf-8") as f:
-            return json.load(f).get("current_state", "idle")
+            state = json.load(f).get("current_state", "idle")
     except Exception:
-        return "idle"
+        state = "idle"
+    return JSONResponse({"state": state})
 
 
-def sync_concept(text):
-    try:
-        os.makedirs(WORKSPACE_DIR, exist_ok=True)
+@app.get("/api/files")
+def api_files():
+    if not os.path.exists(WS_DIR):
+        return JSONResponse({"files": []})
+
+    files = []
+    for f in os.listdir(WS_DIR):
+        fp = os.path.join(WS_DIR, f)
+        if not os.path.isfile(fp) or f.startswith("."):
+            continue
+        if f in FRAMEWORK_FILES:
+            continue
+        mtime = os.path.getmtime(fp)
+        if mtime < engine_start_ts:
+            continue
+        if os.path.getsize(fp) < 10:
+            continue
+        files.append({
+            "name": f,
+            "path": f".agent_workspace/{f}",
+            "mtime": mtime,
+            "size": os.path.getsize(fp),
+        })
+    files.sort(key=lambda x: x["mtime"])
+    return JSONResponse({"files": files})
+
+
+@app.post("/api/open_file")
+async def api_open_file(data: dict):
+    fp = os.path.join(WS_DIR, data.get("file", ""))
+    if os.path.exists(fp):
+        abs_path = os.path.abspath(fp)
+        if sys.platform == "win32":
+            os.startfile(abs_path)
+        elif sys.platform == "darwin":
+            subprocess.call(["open", abs_path])
+        else:
+            subprocess.call(["xdg-open", abs_path])
+    return JSONResponse({"ok": True})
+
+
+@app.post("/api/open_knowledge")
+async def api_open_knowledge(data: dict):
+    d = BEST_DIR if data.get("type") == "best" else ANTI_DIR
+    fp = os.path.join(d, data.get("file", ""))
+    if os.path.exists(fp):
+        abs_path = os.path.abspath(fp)
+        if sys.platform == "win32":
+            os.startfile(abs_path)
+        elif sys.platform == "darwin":
+            subprocess.call(["open", abs_path])
+        else:
+            subprocess.call(["xdg-open", abs_path])
+    return JSONResponse({"ok": True})
+
+
+@app.post("/api/concept")
+async def api_concept(data: dict):
+    text = data.get("text", "")
+    if text.strip():
+        os.makedirs(WS_DIR, exist_ok=True)
         with open(CONCEPT_FILE, "w", encoding="utf-8") as f:
             f.write(text.strip())
-    except Exception:
-        pass
+    return JSONResponse({"ok": True})
 
 
-def open_file(filename):
-    fp = os.path.join(WORKSPACE_DIR, filename)
-    if not os.path.exists(fp):
-        return
-    abs_path = os.path.abspath(fp)
-    if sys.platform == "win32":
-        os.startfile(abs_path)
-    elif sys.platform == "darwin":
-        subprocess.call(["open", abs_path])
-    else:
-        subprocess.call(["xdg-open", abs_path])
+@app.get("/api/knowledge")
+def api_knowledge(type: str = "best"):
+    d = BEST_DIR if type == "best" else ANTI_DIR
+    files = sorted(os.listdir(d)) if os.path.exists(d) else []
+    return JSONResponse({"files": files})
 
 
-def scan_workspace_files():
-    files = []
-    if os.path.exists(WORKSPACE_DIR):
-        for f in sorted(os.listdir(WORKSPACE_DIR)):
-            fp = os.path.join(WORKSPACE_DIR, f)
-            if os.path.isfile(fp) and not f.startswith("."):
-                files.append(f)
-    return files
-
-
-def scan_dir(path):
-    if os.path.exists(path):
-        return sorted([f for f in os.listdir(path) if not f.startswith("_")])
-    return []
-
-
-def get_web_logs():
-    if not os.path.exists(LOG_FILE):
-        return log_buffer[-80:]
-    lines = []
+@app.post("/api/archive")
+async def api_archive(data: dict):
+    cmd = [sys.executable,
+           os.path.join(ROOT_DIR, "Agents", "archivist_agent.py"),
+           data.get("doc", ""), "all", data.get("type", "red"),
+           data.get("comment", "") or "（无评语）"]
     try:
-        with open(LOG_FILE, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line:
-                    lines.append(line)
-    except Exception:
-        pass
-    return lines[-80:]
+        r = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT_DIR)
+        return JSONResponse({"ok": r.returncode == 0, "error": r.stderr[-300:] if r.returncode else ""})
+    except Exception as e:
+        return JSONResponse({"ok": False, "error": str(e)})
 
 
-def get_prompt():
+# ==================== WebSocket ====================
+
+def get_prompt_data():
     if not os.path.exists(PROMPT_FILE):
-        return {"active": False}
+        return None
     try:
         with open(PROMPT_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
+            d = json.load(f)
+        if d.get("answered"):
+            return None
+        return d.get("prompt", "")
     except Exception:
-        return {"active": False}
-    if data.get("answered"):
-        return {"active": False}
-    return {"active": True, "prompt": data.get("prompt", ""), "ts": data.get("ts", 0)}
+        return None
 
 
-def answer_prompt(answer):
-    resp_file = os.path.join(WORKSPACE_DIR, ".web_response.json")
+def submit_answer(ans: str):
     try:
-        os.makedirs(WORKSPACE_DIR, exist_ok=True)
-        with open(resp_file, "w", encoding="utf-8") as f:
-            json.dump({"answer": answer, "ts": time.time()}, f)
+        os.makedirs(WS_DIR, exist_ok=True)
+        with open(RESPONSE_FILE, "w", encoding="utf-8") as f:
+            json.dump({"answer": ans, "ts": time.time()}, f)
     except Exception:
         pass
 
 
-def start_router():
-    global router_proc
-    if router_proc and router_proc.poll() is None:
+@app.websocket("/ws/terminal")
+async def ws_terminal(websocket: WebSocket):
+    global router_proc, engine_start_ts, active_ws
+
+    await websocket.accept()
+
+    if active_ws is not None:
+        await websocket.send_json({"type": "error", "msg": "控制台已在另一个窗口运行中"})
+        await websocket.close()
         return
-    if os.path.exists(LOG_FILE):
-        os.remove(LOG_FILE)
-    if os.path.exists(PROMPT_FILE):
-        os.remove(PROMPT_FILE)
-    resp = os.path.join(WORKSPACE_DIR, ".web_response.json")
-    if os.path.exists(resp):
-        os.remove(resp)
+
+    active_ws = websocket
+    engine_start_ts = time.time()
+
+    # Clear old communication state
+    for f in [PROMPT_FILE, RESPONSE_FILE]:
+        if os.path.exists(f):
+            os.remove(f)
+    os.makedirs(WS_DIR, exist_ok=True)
+    open(LOG_FILE, "w", encoding="utf-8").close()
 
     env = os.environ.copy()
     env["AI_STUDIO_WEB_MODE"] = "1"
-    router_proc = subprocess.Popen(
-        [sys.executable, "-u", os.path.join(ROOT_DIR, "main_router.py")],
-        stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-        text=True, cwd=ROOT_DIR, env=env,
-    )
-    import threading
-    def read():
+    env["PYTHONIOENCODING"] = "utf-8"
+
+    try:
+        python_cmd = sys.executable
+        router_proc = subprocess.Popen(
+            [python_cmd, "-u", os.path.join(ROOT_DIR, "main_router.py")],
+            stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+            cwd=ROOT_DIR, env=env,
+            bufsize=1, encoding="utf-8", errors="replace",
+        )
+    except Exception as e:
+        await websocket.send_json({"type": "error", "msg": f"引擎启动失败: {e}"})
+        active_ws = None
+        return
+
+    # Immediately push startup confirmation
+    ws_queue = asyncio.Queue()
+    await ws_queue.put({"type": "log", "text": f"[GUI] 引擎已启动 (PID: {router_proc.pid})"})
+    stop_flag = threading.Event()
+    loop = asyncio.get_running_loop()
+
+    # Thread: read Router stdout (strip ANSI codes)
+    def stdout_reader():
+        import re
+        ansi_re = re.compile(r'\x1b\[[0-9;]*m')
         try:
             for line in iter(router_proc.stdout.readline, ""):
-                if line:
-                    log_buffer.append(line.strip())
-                    if len(log_buffer) > 500:
-                        log_buffer[:] = log_buffer[-200:]
+                if stop_flag.is_set():
+                    break
+                if line and line.strip():
+                    clean = ansi_re.sub("", line.strip())
+                    loop.call_soon_threadsafe(ws_queue.put_nowait, {"type": "log", "text": clean})
         except Exception:
             pass
-    threading.Thread(target=read, daemon=True).start()
+        finally:
+            loop.call_soon_threadsafe(ws_queue.put_nowait, {"type": "log", "text": "[System] 引擎进程已退出"})
 
+    # Thread: poll HITL prompts  
+    def hitl_poller():
+        last_prompt = ""
+        while not stop_flag.is_set():
+            prompt = get_prompt_data()
+            if prompt and prompt != last_prompt:
+                last_prompt = prompt
+                loop.call_soon_threadsafe(ws_queue.put_nowait, {"type": "hitl_req", "msg": prompt})
+            elif not prompt:
+                last_prompt = ""
+            time.sleep(1)
 
-def stop_router():
-    global router_proc
-    if router_proc and router_proc.poll() is None:
+    t1 = threading.Thread(target=stdout_reader, daemon=True)
+    t2 = threading.Thread(target=hitl_poller, daemon=True)
+    t1.start()
+    t2.start()
+
+    async def consumer():
+        while True:
+            msg = await ws_queue.get()
+            if msg["type"] == "log":
+                await websocket.send_text(msg["text"])
+            elif msg["type"] == "hitl_req":
+                await websocket.send_json(msg)
+
+    async def receiver():
         try:
-            router_proc.terminate()
-            router_proc.wait(timeout=3)
-        except Exception:
-            try:
-                router_proc.kill()
-            except Exception:
-                pass
+            while True:
+                data = await websocket.receive_text()
+                submit_answer(data)
+        except WebSocketDisconnect:
+            pass
 
-
-def run_archivist(doc, list_type, comment):
-    cmd = [sys.executable,
-           os.path.join(ROOT_DIR, "Agents", "archivist_agent.py"),
-           doc, "all", list_type, comment]
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT_DIR)
-        return {"ok": result.returncode == 0, "error": result.stderr[-300:] if result.returncode else ""}
-    except Exception as e:
-        return {"ok": False, "error": str(e)}
+        await asyncio.gather(consumer(), receiver())
+    finally:
+        stop_flag.set()
+        active_ws = None
+        if router_proc and router_proc.poll() is None:
+            router_proc.terminate()
+            try:
+                router_proc.wait(timeout=3)
+            except subprocess.TimeoutExpired:
+                router_proc.kill()
 
 
-# ==================== HTTP Handler ====================
+# ==================== Static Files ====================
 
-class APIHandler(SimpleHTTPRequestHandler):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, directory=ROOT_DIR, **kwargs)
-
-    def do_GET(self):
-        parsed = urlparse(self.path)
-        path = parsed.path
-        params = parse_qs(parsed.query)
-
-        if path == "/api/status":
-            return self._json({"state": read_status()})
-        elif path == "/api/logs":
-            return self._json({"lines": get_web_logs()})
-        elif path == "/api/prompt":
-            return self._json(get_prompt())
-        elif path == "/api/files":
-            return self._json({"files": scan_workspace_files()})
-        elif path == "/api/knowledge":
-            ktype = params.get("type", ["best"])[0]
-            d = BEST_DIR if ktype == "best" else ANTI_DIR
-            return self._json({"files": scan_dir(d)})
-        return super().do_GET()
-
-    def do_POST(self):
-        path = urlparse(self.path).path
-        cl = int(self.headers.get("Content-Length", 0))
-        try:
-            data = json.loads(self.rfile.read(cl)) if cl else {}
-        except Exception:
-            data = {}
-
-        if path == "/api/start":
-            start_router()
-            return self._json({"ok": True})
-        elif path == "/api/stop":
-            stop_router()
-            return self._json({"ok": True})
-        elif path == "/api/respond":
-            answer_prompt(data.get("answer", ""))
-            return self._json({"ok": True})
-        elif path == "/api/concept":
-            sync_concept(data.get("text", ""))
-            return self._json({"ok": True})
-        elif path == "/api/open":
-            open_file(data.get("file", ""))
-            return self._json({"ok": True})
-        elif path == "/api/open_knowledge":
-            d = BEST_DIR if data.get("type") == "best" else ANTI_DIR
-            fp = os.path.join(d, data.get("file", ""))
-            if os.path.exists(fp):
-                open_file(fp)
-            return self._json({"ok": True})
-        elif path == "/api/archive":
-            r = run_archivist(data.get("doc", ""), data.get("type", "red"), data.get("comment", ""))
-            return self._json({"ok": r["ok"], "error": r.get("error", "")})
-        return self._json({"error": "unknown endpoint"}, 404)
-
-    def _json(self, data, status=200):
-        self.send_response(status)
-        self.send_header("Content-Type", "application/json; charset=utf-8")
-        self.send_header("Access-Control-Allow-Origin", "*")
-        self.end_headers()
-        self.wfile.write(json.dumps(data, ensure_ascii=False).encode("utf-8"))
-
-    def log_message(self, format, *args):
-        pass
+@app.get("/")
+async def root():
+    return FileResponse(os.path.join(ROOT_DIR, "index.html"))
 
 
-# ==================== Start ====================
+# ==================== Startup ====================
 
 if __name__ == "__main__":
-    port = 8080
-    server = HTTPServer(("0.0.0.0", port), APIHandler)
-    print(f"AI Studio OS HTTP Server -> http://localhost:{port}")
-    try:
-        server.serve_forever()
-    except KeyboardInterrupt:
-        stop_router()
-        server.server_close()
-        print("\nServer stopped.")
+    import uvicorn
+    print(f"AI Studio OS FastAPI Server -> http://localhost:8080")
+    uvicorn.run(app, host="0.0.0.0", port=8080, log_level="warning")

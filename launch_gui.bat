@@ -1,9 +1,8 @@
 @echo off
+title AI Studio OS
+echo AI Studio OS v2 - FastAPI + WebSocket
+echo.
 cd /d "%~dp0"
-echo AI Studio OS - Web Console
-echo.
-echo Opening http://localhost:8501 ...
-echo Press Ctrl+C to stop.
-echo.
-echo. | streamlit run app.py
+start http://localhost:8080
+python -m uvicorn server:app --host 0.0.0.0 --port 8080 --log-level warning
 pause

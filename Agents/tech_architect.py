@@ -138,7 +138,7 @@ def main():
         with open(STATUS_FILE, "r", encoding="utf-8") as f:
             status_data = json.load(f)
         current = status_data.get("current_state", "")
-        status_data["current_state"] = "tech_blueprint_done"
+        status_data["current_state"] = "pending_tech_approval"
         with open(STATUS_FILE, "w", encoding="utf-8") as f:
             json.dump(status_data, f, ensure_ascii=False, indent=2)
         print(f"[Tech Architect] 状态: {current} -> tech_blueprint_done")

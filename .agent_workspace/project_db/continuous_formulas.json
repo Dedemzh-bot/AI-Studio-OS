@@ -302,5 +302,85 @@
       "growth": 0.1,
       "type": "linear"
     }
+  },
+  {
+    "base": 1,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": "{\"avatar_id\":1,\"title_id\":0,\"signature_text\":\"\",\"background_id\":1,\"display_character_id\":0,\"skin_id\":0,\"action_id\":0,\"avatar_frame_id\":0}",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "[]",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "{}",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "{\"main_stage\":0,\"abyss_floor\":0,\"character_collection_pct\":0.0,\"max_constellation_count\":0,\"max_level_count\":0,\"login_days\":0,\"weekly_activity\":0}",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "{}",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "[]",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "[]",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "[]",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "[]",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "[]",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "{}",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "{}",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "{}",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "[]",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "[]",
+    "growth": 0,
+    "type": "linear"
   }
 ]

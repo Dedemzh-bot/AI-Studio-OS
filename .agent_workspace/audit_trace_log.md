@@ -172,3 +172,54 @@
 - 问题描述: 程序蓝图中的 `CharacterDormitoryController` 负责播放触摸反馈动作/表情/语音，但缺少对'拒绝反馈'的详细处理逻辑。策划案中明确提到当触摸不允许时触发'拒绝反馈'（角色躲闪、摇头、语音提示'不要这样'），且拒绝次数超过5次后当日所有触摸区域均视为不允许。程序蓝图中没有说明拒绝反馈的触发条件和次数限制。
 - 修改建议: 请技术架构师在 `CharacterDormitoryController` 或 `TouchRaycastController` 中补充拒绝反馈的处理逻辑：当触摸区域未解锁或拒绝次数超过5次时，播放拒绝反馈动画/语音，并更新 `rejected_touch_count`。
 **当前审查总计问题:** 15 个
+
+--- 审查时间: 2026-05-28 01:59:13 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 个人主页（名片）系统 - 展示内容定义
+- 问题描述: 策划案中【展示内容列表】提到了“动态头像框”和“特效称号”，但在【数据状态变化】中，`player_homepage_config` 表记录的字段包含了“头像框ID”，却没有“特效称号ID”。特效称号作为一个独立的展示项，其ID未被记录在主页配置中，导致数据状态变化与展示内容不一致。
+- 修改建议: 建议在 `player_homepage_config` 的数据状态变化描述中，增加“特效称号ID”字段，确保所有展示项都有对应的数据记录字段。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 个人主页（名片）系统 - 展示内容定义
+- 问题描述: 策划案中【展示内容列表】提到了“角色皮肤”和“角色动作”，但在【数据状态变化】中，`player_homepage_config` 表记录的字段包含了“皮肤ID”和“动作ID”。然而，在【边界与异常兜底】中，只提到了“玩家删除已装备为展示角色的角色时，系统自动将展示角色重置为默认角色”和“玩家删除已装备皮肤的角色时，系统自动将皮肤重置为默认皮肤”，却没有提及“玩家删除已装备动作的角色时，系统自动将动作重置为默认动作”。逻辑不完整。
+- 修改建议: 建议在【边界与异常兜底】中补充：当玩家删除已装备动作的角色时，系统自动将动作重置为默认动作。
+### Issue 3
+- 责任方: numerical_planner
+- 目标文件: 数值说明书
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中 `field_dictionary` 定义了 `player_homepage_config` 对象，包含 `avatar_id`, `title_id`, `signature_text`, `background_id`, `display_character_id`, `skin_id`, `action_id`, `avatar_frame_id`。但策划案中明确提到了“特效称号”是一个独立的展示项，而数值说明书中没有对应的字段（如 `effect_title_id`）来记录特效称号的ID。这导致数值说明书与策划案不一致。
+- 修改建议: 建议在 `player_homepage_config` 对象中增加 `effect_title_id` 字段，并定义其类型、取值范围和默认值，以匹配策划案中的“特效称号”展示项。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: 数值说明书
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中 `field_dictionary` 定义了 `player_statistics` 对象，其字段包含 `main_stage`, `abyss_floor`, `character_collection_pct`, `max_constellation_count`, `max_level_count`, `login_days`, `weekly_activity`。但策划案中【成就/战绩系统 - 展示内容列表】提到的“角色收集度百分比”在数值说明书中对应 `character_collection_percentage`，而 `player_statistics` 中却使用了 `character_collection_pct`，字段命名不一致。这可能导致程序开发时引用错误。
+- 修改建议: 建议统一字段命名，将 `player_statistics` 中的 `character_collection_pct` 改为 `character_collection_percentage`，以保持与 `field_dictionary` 中其他字段的命名风格一致，并匹配策划案中的描述。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: continuous_formulas
+- 问题描述: 数值配表中 `continuous_formulas` 定义了 `player_statistics` 的初始值 `{"main_stage":0,"abyss_floor":0,"character_collection_pct":0.0,"max_constellation_count":0,"max_level_count":0,"login_days":0,"weekly_activity":0}`。但数值说明书 `field_dictionary` 中 `player_statistics` 的描述是“包含主线最高章节、深渊最高层数、角色收集度、满命角色数、满级角色数、累计登录天数、本周活跃度等字段”，而配表中的字段名 `character_collection_pct` 与说明书中的 `character_collection_percentage` 不一致。
+- 修改建议: 建议将数值配表中 `player_statistics` 的初始值字段名 `character_collection_pct` 修改为 `character_collection_percentage`，以保持与数值说明书一致。
+### Issue 6
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 四、 前后端通信协议 (API & 数据对接)
+- 问题描述: 程序蓝图中的API列表没有提供获取“特效称号”相关数据的接口。策划案中明确提到了“特效称号”作为个人主页的一个独立展示项，且数值说明书中也应有对应的字段。但蓝图中的 `GetHomepageConfig` 和 `SaveHomepageConfig` 接口没有包含 `effect_title_id` 参数，也没有提供获取玩家已拥有特效称号列表的接口。这导致策划案中的功能无法通过现有API实现。
+- 修改建议: 建议在 `SaveHomepageConfig` 接口的请求参数中增加 `effect_title_id`，并新增一个 `GetPlayerOwnedEffectTitles` 接口，用于获取玩家已拥有的特效称号列表，以便前端进行校验和展示。
+### Issue 7
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 三、 后端逻辑划分 (Server)
+- 问题描述: 程序蓝图中的【核心校验逻辑】部分，对于主页配置保存的校验，只校验了 `display_character_id`, `skin_id`, `action_id` 以及 `avatar_id`, `title_id`, `background_id`, `avatar_frame_id` 是否在对应的拥有列表中。但缺少对 `effect_title_id`（特效称号）的校验。如果后续增加了特效称号功能，后端将无法防止玩家设置未拥有的特效称号。
+- 修改建议: 建议在【核心校验逻辑】中增加对 `effect_title_id` 的校验，验证其是否在玩家已拥有的特效称号列表中。
+### Issue 8
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 五、 数值与配置表挂载
+- 问题描述: 程序蓝图中的【配置表数据结构映射】部分，定义了 `id_ranges` 包含 `avatar`, `title`, `background`, `avatar_frame`, `character`, `skin`, `action`，但没有包含 `effect_title`（特效称号）的ID范围。这会导致程序在加载配置时，无法对特效称号的ID进行合法性校验。
+- 修改建议: 建议在 `id_ranges` 中增加 `effect_title` 字段，并定义其取值范围（如 [1, 9999]），以匹配其他外观ID的配置方式。
+**当前审查总计问题:** 8 个

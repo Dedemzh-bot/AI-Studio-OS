@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Studio OS</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;font-family:"Microsoft YaHei","PingFang SC",sans-serif;border-radius:0!important;}
+html,body{height:100%;overflow:hidden;background:#fff;color:#333;}
+body{display:flex;}
+
+.sidebar{width:220px;min-width:220px;background:#333;display:flex;flex-direction:column;padding:20px 15px;color:#fff;}
+.sidebar h3{font-size:18px;margin-bottom:20px;}
+.nav-btn{width:100%;padding:18px;text-align:left;font-size:18px;font-weight:bold;border:1px solid #555;background:#444;color:#ccc;cursor:pointer;margin-bottom:4px;}
+.nav-btn.active{background:#000;color:#fff;border-color:#000;}
+
+#mainContent{flex:1;display:flex;overflow:hidden;}
+
+.workspace{flex:1;display:flex;flex-direction:column;padding:20px 30px;min-width:0;}
+.log-header{font-size:18px;font-weight:bold;margin-bottom:10px;}
+.log-area{flex:1;border:2px solid #555;background:#fafafa;padding:15px;font:14px/1.5 "Consolas","Courier New",monospace;color:#333;overflow-y:auto;margin-bottom:15px;white-space:pre-wrap;}
+.log-area .hitl{color:#e65100;font-weight:bold;background:#fff3e0;padding:8px;margin:4px 0;display:block;}
+
+.control-bar{display:flex;align-items:center;margin-bottom:15px;gap:15px;}
+.btn-engine{width:140px;padding:10px 0;font-size:16px;font-weight:bold;color:#fff;border:2px solid #333;cursor:pointer;}
+.btn-engine.off{background:#ff3b30;border-color:#cc0000;}
+.btn-engine.on{background:#00c853;color:#333;}
+.btn-respond{background:#ff9800;color:#fff;padding:8px 16px;font-weight:bold;border:none;cursor:pointer;display:none;}
+
+.input-container{height:150px;}
+.chat-input{width:100%;height:100%;padding:15px;font-size:16px;border:2px solid #555;resize:none;outline:none;background:#fcfcfc;}
+
+.file-explorer{width:380px;min-width:380px;padding:20px 15px;overflow-y:auto;}
+.file-explorer h2{font-size:20px;font-weight:bold;border-bottom:2px solid #333;padding-bottom:8px;margin-bottom:12px;margin-top:20px;}
+.file-explorer h2:first-child{margin-top:0;}
+.file-item{display:flex;align-items:center;padding:10px 8px;border-bottom:1px solid #eee;cursor:pointer;font-size:13px;}
+.file-item:hover{background:#f0f0f0;}
+.file-icon{font-family:monospace;font-weight:bold;width:28px;color:#007acc;}
+.file-icon.md{color:#333;}.file-icon.json{color:#d4a017;}
+.file-name{color:#555;word-break:break-all;}
+
+.tab-content{display:none;flex:1;overflow:auto;}
+.tab-content.active{display:flex;}
+.tab-content .workspace{padding:20px 30px;}
+.tab-content .file-explorer{overflow-y:auto;}
+.mem-label{display:block;margin-bottom:5px;font-weight:bold;}
+.mem-input{width:100%;padding:10px;border:1px solid #999;margin-bottom:15px;font-size:14px;}
+.mem-textarea{width:100%;height:80px;padding:10px;border:1px solid #999;resize:none;font-size:14px;}
+.mem-btn{flex:1;padding:12px;color:#fff;border:none;cursor:pointer;font-size:14px;font-weight:bold;}
+.mem-btn.red{background:#ff3b30;}.mem-btn.green{background:#34a853;}
+.mem-result{color:#666;margin-top:10px;font-size:14px;}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+    <h3>AI Studio OS</h3>
+    <button class="nav-btn active" data-tab="write">写案子</button>
+    <button class="nav-btn" data-tab="memory">记忆积累</button>
+</div>
+
+<div id="mainContent">
+    <div class="tab-content active" id="tab-write">
+        <div class="workspace">
+            <div class="log-header">终端日志</div>
+            <div class="log-area" id="logArea">[System] 等待引擎启动...</div>
+            <div class="control-bar">
+                <button class="btn-engine off" id="engineBtn">启动研发</button>
+                <span style="font-size:18px;font-weight:bold;" id="statusDisplay">待机</span>
+                <button class="btn-respond" id="respondBtn" onclick="submitHitlReply()">发送回复</button>
+            </div>
+            <div class="input-container">
+                <textarea class="chat-input" id="userInput" placeholder="输入需求后按 Enter 提交..."></textarea>
+            </div>
+        </div>
+        <div class="file-explorer">
+            <h2>下发文件</h2><div id="fileList"></div>
+        </div>
+    </div>
+
+    <div class="tab-content" id="tab-memory">
+        <div class="workspace">
+            <label class="mem-label">文档名 (在 .agent_workspace 内)</label>
+            <input class="mem-input" id="archDoc" placeholder="例: system_design_draft.md">
+            <label class="mem-label">老板批注</label>
+            <textarea class="mem-textarea" id="archComment" placeholder="例: 本案状态机流转极其严谨"></textarea>
+            <div style="display:flex;gap:10px;margin:15px 0;">
+                <button class="mem-btn red" id="btnBlack">归入黑榜</button>
+                <button class="mem-btn green" id="btnRed">归入红榜</button>
+            </div><div class="mem-result" id="archResult"></div>
+        </div>
+        <div class="file-explorer">
+            <h2>红榜</h2><div id="bestFiles"><div style="color:#999;font-size:13px;">（空）</div></div>
+            <h2>黑榜</h2><div id="antiFiles"><div style="color:#999;font-size:13px;">（空）</div></div>
+        </div>
+    </div>
+</div>
+
+<script>
+const API = 'http://localhost:8080';
+const STATE_LABELS = {
+    "idle":"Idle","pending_classification":"分类中","clarifying_requirements":"追问中",
+    "pending_design_approval":"草案审批","pending_plan_approval":"排期审批",
+    "pending_system_design":"系统策划","pending_system_approval":"系统验收",
+    "pending_schema_translate":"翻译中","pending_numerical":"数值推演",
+    "pending_numerical_approval":"数值审批","pending_tech_design":"主程蓝图",
+    "pending_tech_approval":"架构验收","completed":"完成"
+};
+const LABEL_MAP = {
+    "system_design_detail.md":"系统详细案","system_design_draft.md":"主策宏观草案",
+    "system_numerical_data.json":"数值配置表","system_numerical_docs.json":"数值说明书",
+    "system_schema.json":"系统Schema","system_flow.mmd":"系统流程图",
+    "tech_blueprint.md":"程序开发蓝图","task_plan.md":"PM任务拆解",
+    "audit_feedback.json":"审查报告","audit_trace_log.md":"审查追踪",
+    "ui_config.json":"UI配置","generated_skill.gd":"生成代码",
+    "project_meta.json":"项目元数据","review_board.md":"验收表","current_result.json":"当前数据"
+};
+const ICON = {".md":"M",".mmd":"M",".json":"{}",".gd":"G",".py":"P"};
+
+const engineBtn = document.getElementById('engineBtn');
+const statusDisplay = document.getElementById('statusDisplay');
+const respondBtn = document.getElementById('respondBtn');
+const logArea = document.getElementById('logArea');
+const userInput = document.getElementById('userInput');
+const fileList = document.getElementById('fileList');
+
+let ws = null, engineRunning = false, hitlActive = false;
+let lastLogLine = '', dupCount = 0;
+
+// Tabs
+document.querySelectorAll('.nav-btn').forEach(b => {
+    b.onclick = () => {
+        document.querySelectorAll('.nav-btn').forEach(x => x.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(x => x.classList.remove('active'));
+        b.classList.add('active');
+        document.getElementById('tab-' + b.dataset.tab).classList.add('active');
+        if (b.dataset.tab === 'memory') refreshKnowledge();
+    };
+});
+
+// Engine
+function startEngine() {
+    if (ws) return;
+    appendToLog('[GUI] 正在连接引擎...');
+    engineRunning = true; updateButtons();
+    ws = new WebSocket('ws://localhost:8080/ws/terminal');
+    ws.onopen = () => { appendToLog('[GUI] WebSocket 已连接'); startPolling(); };
+    ws.onmessage = (e) => {
+        try {
+            const d = JSON.parse(e.data);
+            if (d.type === 'hitl_req') {
+                hitlActive = true;
+                respondBtn.style.display = 'inline-block';
+                userInput.placeholder = '输入回复内容...';
+                userInput.focus();
+                appendToLog(`\n=== 智能体问询 ===\n${d.msg}\n请输入回复:`, 'hitl');
+            } else if (d.type === 'error') {
+                appendToLog(`[ERROR] ${d.msg}`);
+            }
+        } catch {
+            appendToLog(e.data);
+        }
+    };
+    ws.onclose = () => { engineRunning = false; ws = null; hitlActive = false; respondBtn.style.display = 'none'; updateButtons(); stopPolling(); appendToLog('[GUI] 引擎已断开'); };
+    ws.onerror = () => { appendToLog('[GUI] WebSocket 连接错误'); };
+}
+function stopEngine() { if (ws) { ws.close(); ws = null; } engineRunning = false; hitlActive = false; respondBtn.style.display = 'none'; updateButtons(); stopPolling(); }
+function updateButtons() {
+    engineBtn.className = engineRunning ? 'btn-engine on' : 'btn-engine off';
+    engineBtn.textContent = engineRunning ? '停止' : '启动研发';
+    if (!hitlActive) userInput.placeholder = engineRunning ? 'AI 运行中...' : '输入需求后按 Enter 提交...';
+}
+engineBtn.onclick = () => engineRunning ? stopEngine() : startEngine();
+
+// Log
+// Approval keywords that should render bold
+const BOLD_TAGS = [
+    '[架构验收]','[系统验收]','[草案审查]','[计划审查]',
+    '[翻译审批]','[数值审批]','[审计通过]','[审计拦截]',
+    '[主编放行]','[主编打回]','[安检通过]','[安检拦截]',
+    '[审批节点]','[智能剪裁]','[主策追问]',
+    '老板批准','老板放行','老板打回','老板确认结项',
+];
+
+function hasBoldTag(text) { return BOLD_TAGS.some(t => text.includes(t)); }
+
+function appendToLog(text, cls) {
+    if (cls) {
+        logArea.innerHTML += `\n<span class="${cls}">${text}</span>`;
+    } else {
+        let display = text;
+        if (hasBoldTag(text)) display = `<b>${text}</b>`;
+        if (display === lastLogLine) {
+            dupCount++;
+            const lines = logArea.innerHTML.split('\n');
+            const last = lines[lines.length - 1].replace(/<[^>]*>/g, '');
+            const m = last.match(/^(.*) ×(\d+)$/);
+            if (m) lines[lines.length - 1] = `${m[1]} ×${dupCount + 1}`;
+            else lines[lines.length - 1] = `${last} ×2`;
+            logArea.innerHTML = lines.join('\n');
+        } else { lastLogLine = text; dupCount = 0; logArea.innerHTML += '\n' + display; }
+    }
+    logArea.scrollTop = logArea.scrollHeight;
+}
+
+// Polling
+let fpTimer, spTimer;
+function startPolling() {
+    fetchFiles(); fetchStatus();
+    fpTimer = setInterval(fetchFiles, 3000);
+    spTimer = setInterval(fetchStatus, 2000);
+}
+function stopPolling() { clearInterval(fpTimer); clearInterval(spTimer); }
+
+async function fetchStatus() {
+    try { const d = await (await fetch(API + '/api/status')).json(); statusDisplay.textContent = STATE_LABELS[d.state] || d.state; } catch(e) {}
+}
+async function fetchFiles() {
+    try {
+        const d = await (await fetch(API + '/api/files')).json();
+        if (!d.files.length) { fileList.innerHTML = ''; return; }
+        fileList.innerHTML = d.files.map(f => {
+            const ext = f.name.endsWith('.json') ? 'json' : 'md';
+            return `<div class="file-item" onclick="openFile('${f.name}')">
+                <span class="file-icon ${ext}">${ICON['.'+f.name.split('.').pop()]||'-'}</span>
+                <span class="file-name">${(LABEL_MAP[f.name]||f.name)}</span></div>`;
+        }).join('');
+    } catch(e) {}
+}
+async function openFile(f) { await fetch(API+'/api/open_file',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({file:f})}).catch(()=>{}); }
+
+// Input
+userInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        const text = userInput.value.trim();
+        if (!text) return;
+        if (!engineRunning) {
+            fetch(API+'/api/concept',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text})});
+            startEngine();
+        } else if (hitlActive && ws && ws.readyState === WebSocket.OPEN) {
+            appendToLog(`>>> ${text}`);
+            ws.send(text);
+            hitlActive = false;
+            respondBtn.style.display = 'none';
+            userInput.placeholder = 'AI 运行中...';
+        }
+        userInput.value = '';
+    }
+});
+function submitHitlReply() {
+    const text = userInput.value.trim();
+    if (!text || !hitlActive || !ws || ws.readyState !== WebSocket.OPEN) return;
+    appendToLog(`>>> ${text}`);
+    ws.send(text);
+    hitlActive = false;
+    respondBtn.style.display = 'none';
+    userInput.placeholder = 'AI 运行中...';
+    userInput.value = '';
+}
+
+// Memory
+function refreshKnowledge() {
+    fetch(API+'/api/knowledge?type=best').then(r=>r.json()).then(d=>{
+        document.getElementById('bestFiles').innerHTML = d.files.length ? d.files.map(f=>`<div class="file-item" onclick="openKnowledge('best','${f}')"><span class="file-icon md">M</span><span class="file-name">${f}</span></div>`).join('') : '<div style="color:#999;font-size:13px;">（空）</div>';
+    }).catch(()=>{});
+    fetch(API+'/api/knowledge?type=anti').then(r=>r.json()).then(d=>{
+        document.getElementById('antiFiles').innerHTML = d.files.length ? d.files.map(f=>`<div class="file-item" onclick="openKnowledge('anti','${f}')"><span class="file-icon md">M</span><span class="file-name">${f}</span></div>`).join('') : '<div style="color:#999;font-size:13px;">（空）</div>';
+    }).catch(()=>{});
+}
+function openKnowledge(t,f){fetch(API+'/api/open_knowledge',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({type:t,file:f})}).catch(()=>{});}
+document.getElementById('btnRed').onclick=()=>archive('red');
+document.getElementById('btnBlack').onclick=()=>archive('black');
+function archive(t){
+    const d=document.getElementById('archDoc').value.trim(),c=document.getElementById('archComment').value.trim()||'（无评语）';
+    if(!d) return alert('请输入文档名');
+    document.getElementById('archResult').textContent='归档中...';
+    fetch(API+'/api/archive',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({doc:d,type:t,comment:c})})
+    .then(r=>r.json()).then(r=>{document.getElementById('archResult').textContent=r.ok?'归档成功':'失败: '+(r.error||'');refreshKnowledge();}).catch(()=>{document.getElementById('archResult').textContent='网络错误';});
+}
+fetchFiles();
+</script>
+</body>
+</html>

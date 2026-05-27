@@ -1,123 +1,71 @@
-"""
-AI Studio OS - One-click Launcher (single instance)
-"""
+"""AI Studio OS - One-click Launcher (FastAPI edition)"""
+import os, sys, subprocess, time, webbrowser, socket
 
-import os
-import sys
-import subprocess
-import time
-import webbrowser
-import socket
-
-# ---- Path ----
 if getattr(sys, 'frozen', False):
     ROOT_DIR = os.path.dirname(sys.executable)
 else:
     ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-SERVER_SCRIPT = os.path.join(ROOT_DIR, "server.py")
-URL = "http://localhost:8080"
 PORT = 8080
+URL = f"http://localhost:{PORT}"
+SERVER_SCRIPT = os.path.join(ROOT_DIR, "server.py")
 
-# ---- Encode ----
 if sys.platform == "win32":
+    try: sys.stdout.reconfigure(encoding="utf-8")
+    except: pass
+
+def port_in_use():
     try:
-        sys.stdout.reconfigure(encoding="utf-8")
-    except Exception:
-        pass
-
-
-def port_in_use(port: int) -> bool:
-    """Check if the port is already listening."""
-    try:
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-            s.settimeout(1)
-            s.connect(("127.0.0.1", port))
-            return True
-    except Exception:
-        return False
-
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM); s.settimeout(1)
+        s.connect(("127.0.0.1", PORT)); s.close(); return True
+    except: return False
 
 def main():
-    print("AI Studio OS v2")
-    print(f"Root dir: {ROOT_DIR}")
-    print(f"Server script: {SERVER_SCRIPT}")
-
+    print("AI Studio OS v2 (FastAPI + WebSocket)")
     if not os.path.exists(SERVER_SCRIPT):
-        print("ERROR: server.py not found!")
-        print("Make sure AI_Studio_OS.exe is in the project root directory.")
-        input("Press Enter to exit...")
-        return
+        print("ERROR: server.py not found!"); input("Press Enter to exit..."); return
 
-    # Check if already running
-    if port_in_use(PORT):
-        print(f"Server already running on port {PORT}. Opening browser...")
-        webbrowser.open(URL)
-        input("Press Enter to close this window (server stays running)...")
-        return
+    if port_in_use():
+        print(f"Server already on port {PORT}. Opening browser...")
+        os.startfile(URL) if sys.platform == "win32" else webbrowser.open(URL)
+        input("Press Enter to exit (server stays running)..."); return
 
-    # Start server subprocess
-    env = os.environ.copy()
-    env["PYTHONIOENCODING"] = "utf-8"
-    # Use 'python' from PATH, not sys.executable (which is the EXE itself)
+    # 用系统 python，不用 sys.executable（PyInstaller EXE 中指向自身）
     python_exe = "python"
-    # Fallback: if py launcher is available, use it
     try:
-        subprocess.run(["py", "-3", "--version"], capture_output=True, creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0, timeout=3)
-        python_exe = "py"
+        r = subprocess.run(["py", "-3", "--version"], capture_output=True, timeout=3,
+                           creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0)
+        if r.returncode == 0:
+            python_exe = "py"
     except Exception:
         pass
 
-    try:
-        proc = subprocess.Popen(
-            [python_exe, "-u", SERVER_SCRIPT],
-            cwd=ROOT_DIR,
-            env=env,
-            creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.STDOUT,
-            text=True,
-        )
-    except Exception as e:
-        print(f"ERROR starting server: {e}")
-        input("Press Enter to exit...")
-        return
+    env = os.environ.copy()
+    env["PYTHONIOENCODING"] = "utf-8"
+    proc = subprocess.Popen(
+        [python_exe, "-m", "uvicorn", "server:app", "--host", "0.0.0.0", "--port", str(PORT), "--log-level", "warning"],
+        cwd=ROOT_DIR, env=env,
+        creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
+    )
+    print("Starting server...")
 
-    print("Waiting for server to be ready...")
     for _ in range(20):
         time.sleep(0.5)
-        if port_in_use(PORT):
+        if port_in_use():
             print("Server ready!")
-            webbrowser.open(URL)
+            os.startfile(URL) if sys.platform == "win32" else webbrowser.open(URL)
             print(f"Browser -> {URL}")
-            print("Close this window or press Enter to stop the server.")
-            try:
-                input()
-            except (EOFError, KeyboardInterrupt):
-                pass
-            print("Stopping...")
-            proc.terminate()
-            try:
-                proc.wait(timeout=5)
-            except subprocess.TimeoutExpired:
-                proc.kill()
-            print("Server stopped.")
-            return
+            print("Close this window or press Enter to stop.")
+            try: input()
+            except: pass
+            print("Stopping..."); proc.terminate()
+            try: proc.wait(timeout=5)
+            except: proc.kill()
+            print("Server stopped."); return
 
-    # Server never started - capture output
-    print("ERROR: Server failed to start after 10 seconds.")
-    print("Possible causes: Python not in PATH, port conflict, or import error.")
-    # Try to get server output
-    try:
-        proc.terminate()
-        out, _ = proc.communicate(timeout=3)
-        if out:
-            print("--- Server output ---")
-            print(out[-500:])
-    except Exception:
-        proc.kill()
+    print("ERROR: Server failed to start."); proc.terminate()
+    try: proc.wait(timeout=3)
+    except: proc.kill()
     input("Press Enter to exit...")
 
-
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__": main()
