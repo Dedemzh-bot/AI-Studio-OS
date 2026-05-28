@@ -15,9 +15,10 @@ ROOT_DIR = os.path.dirname(FILE_DIR)                         # 项目根目录
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm
+from Skills.rag_loader import load_knowledge_with_context
 
 # ---- 所有读写目标均拼装为绝对路径 ----
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 CONCEPT_FILE  = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 SCHEMA_FILE   = os.path.join(WORKSPACE_DIR, "active_schema.json")
 RESULT_FILE   = os.path.join(WORKSPACE_DIR, "current_result.json")
@@ -123,7 +124,13 @@ def main():
     else:
         print("[Combat Agent] 未发现审查反馈文件，按正常流程生成。")
 
-    # ========== 3. 调用大模型 ==========
+    # ========== 3. 注入 RAG 知识上下文 ==========
+    rag_context = load_knowledge_with_context(ROOT_DIR, task_domain="数值架构")
+    if rag_context:
+        user_prompt += f"\n\n{rag_context}"
+        print(f"[Combat Agent] 已注入 RAG 上下文 ({len(rag_context)} 字符)")
+
+    # ========== 4. 调用大模型 ==========
     print("[Combat Agent] 正在呼叫大模型...")
     try:
         llm_response = ask_llm(system_prompt, user_prompt)

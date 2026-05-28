@@ -6,6 +6,7 @@ WebSocket + REST API hybrid architecture
 import json
 import os
 import sys
+import shutil
 import subprocess
 import time
 import asyncio
@@ -18,8 +19,19 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-WS_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
+if getattr(sys, 'frozen', False):
+    BUNDLE_DIR = sys._MEIPASS
+    DATA_DIR = os.path.dirname(sys.executable)
+    src_kb = os.path.join(BUNDLE_DIR, "Knowledge")
+    dst_kb = os.path.join(DATA_DIR, "Knowledge")
+    if os.path.isdir(src_kb) and not os.path.exists(dst_kb):
+        shutil.copytree(src_kb, dst_kb)
+else:
+    BUNDLE_DIR = ROOT_DIR
+    DATA_DIR = ROOT_DIR
+
+WS_DIR = os.path.join(DATA_DIR, ".agent_workspace")
+KNOWLEDGE_DIR = os.path.join(DATA_DIR, "Knowledge")
 BEST_DIR = os.path.join(KNOWLEDGE_DIR, "best_practices")
 ANTI_DIR = os.path.join(KNOWLEDGE_DIR, "anti_patterns")
 STATUS_FILE = os.path.join(WS_DIR, "task_status.json")
@@ -129,12 +141,15 @@ def api_knowledge(type: str = "best"):
 
 @app.post("/api/archive")
 async def api_archive(data: dict):
-    cmd = [sys.executable,
-           os.path.join(ROOT_DIR, "Agents", "archivist_agent.py"),
+    python_exe = shutil.which("python") or "python" if getattr(sys, 'frozen', False) else sys.executable
+    cmd = [python_exe,
+           os.path.join(BUNDLE_DIR, "Agents", "archivist_agent.py"),
            data.get("doc", ""), "all", data.get("type", "red"),
            data.get("comment", "") or "（无评语）"]
     try:
-        r = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT_DIR)
+        env = os.environ.copy()
+        env["AI_STUDIO_DATA_DIR"] = DATA_DIR
+        r = subprocess.run(cmd, capture_output=True, text=True, cwd=BUNDLE_DIR, env=env)
         return JSONResponse({"ok": r.returncode == 0, "error": r.stderr[-300:] if r.returncode else ""})
     except Exception as e:
         return JSONResponse({"ok": False, "error": str(e)})
@@ -179,7 +194,8 @@ async def ws_terminal(websocket: WebSocket):
     engine_start_ts = time.time()
 
     # Clear old communication state
-    for f in [PROMPT_FILE, RESPONSE_FILE]:
+    CACHE_FILE = os.path.join(WS_DIR, ".concept_brief_cache.txt")
+    for f in [PROMPT_FILE, RESPONSE_FILE, CACHE_FILE]:
         if os.path.exists(f):
             os.remove(f)
     os.makedirs(WS_DIR, exist_ok=True)
@@ -188,13 +204,17 @@ async def ws_terminal(websocket: WebSocket):
     env = os.environ.copy()
     env["AI_STUDIO_WEB_MODE"] = "1"
     env["PYTHONIOENCODING"] = "utf-8"
+    env["AI_STUDIO_DATA_DIR"] = DATA_DIR
 
     try:
-        python_cmd = sys.executable
+        if getattr(sys, 'frozen', False):
+            python_cmd = shutil.which("python") or "python"
+        else:
+            python_cmd = sys.executable
         router_proc = subprocess.Popen(
-            [python_cmd, "-u", os.path.join(ROOT_DIR, "main_router.py")],
+            [python_cmd, "-u", os.path.join(BUNDLE_DIR, "main_router.py")],
             stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-            cwd=ROOT_DIR, env=env,
+            cwd=BUNDLE_DIR, env=env,
             bufsize=1, encoding="utf-8", errors="replace",
         )
     except Exception as e:
@@ -221,8 +241,6 @@ async def ws_terminal(websocket: WebSocket):
                     loop.call_soon_threadsafe(ws_queue.put_nowait, {"type": "log", "text": clean})
         except Exception:
             pass
-        finally:
-            loop.call_soon_threadsafe(ws_queue.put_nowait, {"type": "log", "text": "[System] 引擎进程已退出"})
 
     # Thread: poll HITL prompts  
     def hitl_poller():
@@ -245,9 +263,21 @@ async def ws_terminal(websocket: WebSocket):
         while True:
             msg = await ws_queue.get()
             if msg["type"] == "log":
-                await websocket.send_text(msg["text"])
+                try:
+                    await websocket.send_text(msg["text"])
+                except Exception:
+                    break
             elif msg["type"] == "hitl_req":
-                await websocket.send_json(msg)
+                try:
+                    await websocket.send_json(msg)
+                except Exception:
+                    break
+            elif msg["type"] == "engine_dead":
+                try:
+                    await websocket.send_json({"type": "engine_exit", "msg": msg.get("text", "引擎已退出")})
+                except Exception:
+                    pass
+                break
 
     async def receiver():
         try:
@@ -255,10 +285,23 @@ async def ws_terminal(websocket: WebSocket):
                 data = await websocket.receive_text()
                 submit_answer(data)
         except WebSocketDisconnect:
-            pass
+            stop_flag.set()
+            ws_queue.put_nowait({"type": "engine_dead", "text": ""})
+
+    async def engine_monitor():
+        while not stop_flag.is_set() and router_proc.poll() is None:
+            await asyncio.sleep(1)
+        if stop_flag.is_set():
+            return
+        await asyncio.sleep(0.5)
+        loop.call_soon_threadsafe(ws_queue.put_nowait, {"type": "engine_dead", "text": "[System] 引擎进程已退出"})
 
     try:
-        await asyncio.gather(consumer(), receiver())
+        await asyncio.gather(consumer(), receiver(), engine_monitor())
+    except WebSocketDisconnect:
+        stop_flag.set()
+        if not ws_queue.full():
+            ws_queue.put_nowait({"type": "engine_dead", "text": ""})
     finally:
         stop_flag.set()
         active_ws = None
@@ -274,12 +317,45 @@ async def ws_terminal(websocket: WebSocket):
 
 @app.get("/")
 async def root():
-    return FileResponse(os.path.join(ROOT_DIR, "index.html"))
+    return FileResponse(os.path.join(BUNDLE_DIR, "index.html"))
 
 
 # ==================== Startup ====================
 
 if __name__ == "__main__":
     import uvicorn
-    print(f"AI Studio OS FastAPI Server -> http://localhost:8080")
-    uvicorn.run(app, host="0.0.0.0", port=8080, log_level="warning")
+    import webbrowser
+    import socket
+    import threading as _threading
+
+    PORT = 8080
+    URL = f"http://localhost:{PORT}"
+
+    # 端口检测
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        s.settimeout(1)
+        s.connect(("127.0.0.1", PORT))
+        print(f"AI Studio OS — port {PORT} 已被占用，可能已在运行。")
+        webbrowser.open(URL)
+        input("按 Enter 退出...")
+        sys.exit(0)
+    except (socket.timeout, ConnectionRefusedError, OSError):
+        pass
+    finally:
+        s.close()
+
+    print(f"AI Studio OS v2 (FastAPI + WebSocket)")
+    print(f"Starting server -> {URL}")
+
+    def _open_browser():
+        import time as _time
+        _time.sleep(1.5)
+        webbrowser.open(URL)
+
+    _threading.Thread(target=_open_browser, daemon=True).start()
+
+    try:
+        uvicorn.run(app, host="0.0.0.0", port=PORT, log_level="warning")
+    except KeyboardInterrupt:
+        print("\nServer stopped.")

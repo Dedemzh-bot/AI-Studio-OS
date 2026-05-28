@@ -17,9 +17,10 @@ ROOT_DIR = os.path.dirname(FILE_DIR)                         # 项目根目录
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm
+from Skills.rag_loader import load_knowledge_with_context
 
 # ---- 所有读写目标均拼装为绝对路径 ----
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 RESULT_FILE   = os.path.join(WORKSPACE_DIR, "current_result.json")
 OUTPUT_FILE   = os.path.join(WORKSPACE_DIR, "ui_config.json")
 STATUS_FILE   = os.path.join(WORKSPACE_DIR, "task_status.json")
@@ -105,7 +106,13 @@ def main():
 
 请根据以上数据，输出一套完整的纯平面 UI/UX 配置文件（包含 ux_layout、ui_tokens、assets_and_content、screen_position 四大结构）。直接输出 JSON。"""
 
-    # ========== 3. 调用大模型 ==========
+    # ========== 3. 注入 RAG 知识上下文 ==========
+    rag_context = load_knowledge_with_context(ROOT_DIR, task_domain="界面UI")
+    if rag_context:
+        user_prompt += f"\n\n{rag_context}"
+        print(f"[UI Agent] 已注入 RAG 上下文 ({len(rag_context)} 字符)")
+
+    # ========== 4. 调用大模型 ==========
     print("[UI Agent] 正在呼叫大模型设计前端表现配置...")
     try:
         llm_response = ask_llm(system_prompt, user_prompt)

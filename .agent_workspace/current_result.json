@@ -3,502 +3,240 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "[账号信息系统] 该系统用于管理玩家的个人主页展示内容，包括头像、称号、签名、背景图、展示角色及其皮肤和动作，以及成就/战绩、收集图鉴的展示与分享功能，并与角色、关卡、基地、好友、聊天等旧系统进行数据联动。",
+      "system_summary": "[角色房间系统] 该系统用于管理玩家在购买DLC后，为已拥有角色解锁专属3D房间，并在此房间内进行互动、小游戏、好感度培养、剧情解锁、纪念品收集、AI日常行为观察以及拍照等沉浸式体验。",
       "field_dictionary": {
-        "player_level": "【整数】玩家当前等级，取值范围1-100，默认值为1。",
-        "player_homepage_config": "【对象】玩家个人主页的配置数据，包含头像ID、称号ID、签名文本、背景图ID、展示角色ID、皮肤ID、动作ID等字段，默认值为空对象。",
-        "player_character_owned": "【数组】玩家已拥有的角色ID列表，默认值为空数组。",
-        "avatar_id": "【整数】玩家当前选择的头像ID，取值范围1-9999，默认值为1（默认头像）。",
-        "title_id": "【整数】玩家当前选择的称号ID，取值范围1-9999，默认值为0（无称号）。",
-        "signature_text": "【字符串】玩家自定义的签名文本，最大长度50字符，默认值为空字符串。",
-        "background_id": "【整数】玩家当前选择的主页背景图ID，取值范围1-9999，默认值为1（默认背景）。",
-        "display_character_id": "【整数】玩家当前选择的展示角色ID，取值范围1-9999，默认值为1（默认角色）。",
-        "skin_id": "【整数】玩家当前选择的展示角色皮肤ID，取值范围1-9999，默认值为0（默认皮肤）。",
-        "action_id": "【整数】玩家当前选择的展示角色动作ID，取值范围1-9999，默认值为0（默认待机动作）。",
-        "avatar_frame_id": "【整数】玩家当前选择的头像框ID，取值范围1-9999，默认值为0（无头像框）。",
-        "player_achievement_progress": "【对象】玩家成就系统的进度数据，包含每个成就的当前进度值，默认值为空对象。",
-        "player_statistics": "【对象】玩家综合统计数据，包含主线最高章节（main_stage）、深渊最高层数（abyss_floor）、角色收集度百分比（character_collection_pct）、满命角色数（max_constellation_count）、满级角色数（max_level_count）、累计登录天数（login_days）、本周活跃度（weekly_activity）等字段，默认值为{\"main_stage\":0,\"abyss_floor\":0,\"character_collection_pct\":0.0,\"max_constellation_count\":0,\"max_level_count\":0,\"login_days\":0,\"weekly_activity\":0}。",
-        "achievement_total_unlocked": "【整数】玩家已解锁的成就总数，取值范围0-9999，默认值为0。",
-        "achievement_total_points": "【整数】玩家累计获得的成就点数，取值范围0-999999，默认值为0。",
-        "achievement_completion_percentage": "【浮点数】成就完成度百分比，取值范围0.0-100.0，默认值为0.0。",
-        "achievement_category": "【字符串】成就所属分类，如'战斗'、'收集'、'社交'等，默认值为空字符串。",
-        "achievement_name": "【字符串】成就名称，默认值为空字符串。",
-        "achievement_description": "【字符串】成就描述文本，默认值为空字符串。",
-        "achievement_icon": "【字符串】成就图标的资源路径，默认值为空字符串。",
-        "achievement_unlock_condition": "【字符串】成就解锁条件的描述文本，默认值为空字符串。",
-        "achievement_current_progress": "【整数】成就当前进度值，取值范围0-999999，默认值为0。",
-        "achievement_unlock_time": "【整数】成就解锁的时间戳（秒），取值范围0-9999999999，默认值为0。",
-        "achievement_progress_percentage": "【浮点数】成就进度百分比，取值范围0.0-100.0，默认值为0.0。",
-        "achievement_progress_bar": "【字符串】成就进度条的视觉资源路径，默认值为空字符串。",
-        "achievement_reward_preview": "【字符串】成就奖励预览的资源路径，默认值为空字符串。",
-        "battle_stats_main_stage": "【整数】主线关卡最高通关章节数，取值范围0-999，默认值为0。",
-        "battle_stats_abyss_max_floor": "【整数】深渊挑战最高层数，取值范围0-999，默认值为0。",
-        "character_collection_percentage": "【浮点数】角色收集度百分比，取值范围0.0-100.0，默认值为0.0。",
-        "max_constellation_character_count": "【整数】满命角色数量，取值范围0-999，默认值为0。",
-        "max_level_character_count": "【整数】满级角色数量，取值范围0-999，默认值为0。",
-        "total_login_days": "【整数】累计登录天数，取值范围0-99999，默认值为0。",
-        "weekly_activity": "【整数】本周活跃度，取值范围0-10000，默认值为0。",
-        "player_collection_progress": "【对象】玩家收集图鉴的进度数据，包含每个类别的收集进度，默认值为空对象。",
-        "player_collection_reward_claimed": "【数组】玩家已领取的收集进度奖励ID列表，默认值为空数组。",
-        "collection_total_completion_percentage": "【浮点数】收集图鉴总完成度百分比，取值范围0.0-100.0，默认值为0.0。",
-        "collection_collected_count": "【整数】已收集的物品数量，取值范围0-99999，默认值为0。",
-        "collection_total_count": "【整数】可收集物品的总数量，取值范围0-99999，默认值为0。",
-        "collection_category": "【字符串】收集品所属分类，如'角色'、'武器'、'皮肤'、'家具'等，默认值为空字符串。",
-        "collection_item_name": "【字符串】收集品名称，默认值为空字符串。",
-        "collection_item_rarity": "【整数】收集品稀有度等级，取值范围1-5，默认值为1。",
-        "collection_item_icon": "【字符串】收集品图标的资源路径，默认值为空字符串。",
-        "collection_acquisition_description": "【字符串】收集品获取方式的描述文本，默认值为空字符串。",
-        "collection_is_collected": "【布尔值】是否已收集该物品，默认值为false。",
-        "collection_collected_detail_properties": "【字符串】已收集物品的详细属性描述，默认值为空字符串。",
-        "collection_uncollected_locked_state": "【字符串】未收集物品的锁定状态描述，默认值为空字符串。",
-        "collection_progress_reward_preview": "【字符串】收集进度奖励预览的资源路径，默认值为空字符串。",
-        "collection_leaderboard": "【数组】收集排行榜数据，每个元素包含玩家ID和收集度，默认值为空数组。",
-        "share_entry_location": "【字符串】分享入口的位置标识，如'homepage'、'achievement'等，默认值为空字符串。",
-        "share_preview_image": "【字符串】分享预览图的资源路径，默认值为空字符串。",
-        "share_content_type": "【字符串】分享内容的类型，如'link'、'image'、'card'等，默认值为空字符串。",
-        "share_platform_list": "【数组】可分享的平台列表，如['game_chat','wechat','qq']，默认值为空数组。",
-        "share_link_or_qrcode": "【字符串】分享链接或二维码的资源路径，默认值为空字符串。",
-        "player_skin_owned": "【数组】玩家已拥有的皮肤ID列表，默认值为空数组。",
-        "player_action_owned": "【数组】玩家已拥有的动作ID列表，默认值为空数组。",
-        "dynamic_3d_character_display": "【布尔值】是否启用3D角色动态展示，默认值为true。",
-        "character_skin_display": "【整数】当前展示角色的皮肤ID，取值范围1-9999，默认值为0。",
-        "character_idle_action": "【整数】当前展示角色的待机动作ID，取值范围1-9999，默认值为0。",
-        "character_close_up_camera": "【布尔值】是否启用特写镜头，默认值为true。",
-        "character_action_switch": "【布尔值】是否允许玩家点击切换角色动作，默认值为true。",
-        "dynamic_avatar_frame_and_effect_title": "【布尔值】是否启用动态头像框和特效称号，默认值为false。",
-        "homepage_background_character_interaction": "【布尔值】是否允许角色与背景互动，默认值为false。",
-        "player_owned_appearance": "【数组】玩家已拥有的外观ID列表（包括头像框、称号、背景等），默认值为空数组。",
-        "free_appearance_display": "【布尔值】是否展示免费外观，默认值为true。",
-        "paid_appearance_display": "【布尔值】是否展示付费外观，默认值为true。",
-        "collection_acceleration_pack_display": "【布尔值】是否展示收集加速包，默认值为false。",
-        "appearance_preview_function": "【布尔值】是否启用外观预览功能，默认值为true。",
-        "player_weapon_owned": "【数组】玩家已拥有的武器ID列表，默认值为空数组。",
-        "player_stage_progress": "【对象】玩家关卡进度数据，包含主线章节和关卡ID，默认值为空对象。",
-        "player_activity_data": "【对象】玩家活动数据，包含活动ID和里程碑进度，默认值为空对象。",
-        "player_base_furniture_collection": "【数组】玩家基地家具收集ID列表，默认值为空数组。",
-        "player_friend_list": "【数组】玩家好友ID列表，默认值为空数组。",
-        "player_chat_channel_list": "【数组】玩家加入的聊天频道ID列表，默认值为空数组。",
-        "character_list": "【数组】玩家拥有的角色ID列表，默认值为空数组。",
-        "character_level": "【整数】角色等级，取值范围1-100，默认值为1。",
-        "character_constellation": "【整数】角色命之座等级，取值范围0-6，默认值为0。",
-        "character_skin_list": "【数组】角色已解锁的皮肤ID列表，默认值为空数组。",
-        "weapon_list": "【数组】玩家拥有的武器ID列表，默认值为空数组。",
-        "weapon_refinement_level": "【整数】武器精炼等级，取值范围0-5，默认值为0。",
-        "main_stage_clear_record": "【对象】主线关卡通关记录，包含章节ID和关卡ID，默认值为空对象。",
-        "highest_clear_chapter": "【整数】最高通关章节数，取值范围0-999，默认值为0。",
-        "abyss_max_floor": "【整数】深渊最高层数，取值范围0-999，默认值为0。",
-        "activity_milestone_data": "【对象】活动里程碑数据，包含活动ID和里程碑进度，默认值为空对象。",
-        "base_furniture_collection_percentage": "【浮点数】基地家具收集度百分比，取值范围0.0-100.0，默认值为0.0。",
-        "base_screenshot_or_3d_scene": "【字符串】基地截图或3D场景的资源路径，默认值为空字符串。",
-        "friend_list": "【数组】好友ID列表，默认值为空数组。",
-        "chat_channel_list": "【数组】聊天频道ID列表，默认值为空数组。"
+        "room_config_data": "【整数】角色房间的配置ID，用于加载家具摆放、纪念品位置、装饰颜色方案等。取值范围：1-9999。默认值：1。",
+        "furniture_layout": "【字符串】家具布局的JSON字符串，描述每个家具的位置、旋转和缩放。默认值：空JSON对象。",
+        "decoration_placement": "【字符串】装饰品摆放位置的JSON字符串，描述每个装饰品在房间内的坐标。默认值：空JSON对象。",
+        "affection_level": "【整数】当前角色的好感度等级，初始为0，上限为10。取值范围：0-10。默认值：0。",
+        "room_state": "【整数】房间当前状态枚举：0=未加载，1=加载中，2=已加载，3=互动中，4=小游戏中，5=拍照模式。默认值：0。",
+        "interaction_count": "【整数】玩家在当前房间内累计的互动次数。取值范围：0-99999。默认值：0。",
+        "affection_increment": "【整数】单次互动或小游戏后增加的好感度经验值。取值范围：0-100。默认值：0。",
+        "unlock_progress": "【浮点数】当前好感度等级内经验值进度百分比，0.0-1.0。默认值：0.0。",
+        "dlc_purchase_status": "【布尔值】玩家是否已购买“角色私人宿舍”DLC。true=已购买，false=未购买。默认值：false。",
+        "character_ownership_status": "【布尔值】玩家是否拥有该角色。true=拥有，false=未拥有。默认值：false。",
+        "room_loaded_flag": "【布尔值】房间是否已成功加载。true=已加载，false=未加载。默认值：false。",
+        "interaction_hotspot_active": "【布尔值】当前是否有互动热点处于高亮可交互状态。true=有，false=无。默认值：false。",
+        "exit_button_clicked": "【布尔值】玩家是否点击了退出按钮。true=已点击，false=未点击。默认值：false。",
+        "hotspot_interaction_count": "【整数】特定热点被交互的总次数。取值范围：0-9999。默认值：0。",
+        "last_interaction_timestamp": "【整数】上次互动的时间戳（Unix秒数）。取值范围：0-9999999999。默认值：0。",
+        "cooldown_timer": "【整数】热点冷却剩余秒数，用于每日次数限制。取值范围：0-86400。默认值：0。",
+        "unlock_affection_level_requirement": "【整数】解锁该热点所需的好感度等级。取值范围：0-10。默认值：0。",
+        "hotspot_unlocked_flag": "【布尔值】热点是否已解锁（好感度条件满足）。true=已解锁，false=未解锁。默认值：false。",
+        "hotspot_on_cooldown": "【布尔值】热点是否处于冷却状态（每日次数耗尽）。true=冷却中，false=可用。默认值：false。",
+        "character_behavior_interruptible": "【布尔值】角色当前AI行为是否可被互动打断。true=可打断，false=不可打断。默认值：true。",
+        "interaction_animation_playing": "【布尔值】是否正在播放互动动画。true=播放中，false=未播放。默认值：false。",
+        "player_view_aligned": "【布尔值】玩家视角是否已对齐到互动运镜。true=已对齐，false=未对齐。默认值：false。",
+        "minigame_unlock_affection_level": "【整数】解锁小游戏所需的好感度等级。取值范围：1-10。默认值：1。",
+        "daily_play_count": "【整数】小游戏今日已挑战次数。取值范围：0-3。默认值：0。",
+        "max_daily_play_count": "【整数】小游戏每日最大挑战次数，固定为3。默认值：3。",
+        "score_record": "【整数】最近一次小游戏的得分。取值范围：0-99999。默认值：0。",
+        "highest_score": "【整数】小游戏历史最高得分。取值范围：0-99999。默认值：0。",
+        "play_count": "【整数】小游戏累计游玩次数。取值范围：0-99999。默认值：0。",
+        "reward_experience": "【整数】小游戏结束后获得的好感度经验值。取值范围：0-100。默认值：0。",
+        "souvenir_fragment_count": "【整数】纪念品碎片数量，用于合成纪念品。取值范围：0-999。默认值：0。",
+        "minigame_unlocked_flag": "【布尔值】小游戏是否已解锁。true=已解锁，false=未解锁。默认值：false。",
+        "daily_play_limit_reached": "【布尔值】今日小游戏挑战次数是否已达上限。true=已达上限，false=未达上限。默认值：false。",
+        "minigame_loaded_flag": "【布尔值】小游戏场景是否已加载完成。true=已加载，false=未加载。默认值：false。",
+        "game_rule_shown": "【布尔值】小游戏规则说明是否已展示。true=已展示，false=未展示。默认值：false。",
+        "game_ended_flag": "【布尔值】小游戏是否已结束。true=已结束，false=进行中。默认值：false。",
+        "reward_claimed": "【布尔值】小游戏奖励是否已领取。true=已领取，false=未领取。默认值：false。",
+        "affection_experience": "【整数】当前累计的好感度经验值。取值范围：0-99999。默认值：0。",
+        "experience_to_next_level": "【整数】升到下一级所需的经验值。取值范围：0-99999。默认值：100。",
+        "unlock_content_list": "【字符串】已解锁内容的ID列表JSON字符串。默认值：空数组。",
+        "special_event_trigger_level": "【整数】触发特殊事件（如主游戏联动奖励）的好感度等级。取值范围：5,10。默认值：0。",
+        "affection_level_up_flag": "【布尔值】是否刚刚升级。true=已升级，false=未升级。默认值：false。",
+        "special_event_triggered": "【布尔值】特殊事件是否已触发。true=已触发，false=未触发。默认值：false。",
+        "affection_maxed_flag": "【布尔值】好感度是否已达满级（10级）。true=已满级，false=未满级。默认值：false。",
+        "reset_affection_flag": "【布尔值】好感度是否被重置（异常兜底）。true=已重置，false=未重置。默认值：false。",
+        "story_unlock_affection_level_requirement": "【整数】解锁剧情所需的好感度等级。取值范围：3,6,9。默认值：0。",
+        "story_unlock_minigame_achievement_requirement": "【整数】解锁剧情所需的小游戏成就ID。取值范围：0-999。默认值：0。",
+        "story_watch_count": "【整数】剧情片段已观看次数。取值范围：0-999。默认值：0。",
+        "first_watch_timestamp": "【整数】首次观看剧情的时间戳（Unix秒数）。取值范围：0-9999999999。默认值：0。",
+        "story_unlocked_flag": "【布尔值】剧情片段是否已解锁。true=已解锁，false=未解锁。默认值：false。",
+        "story_watched_flag": "【布尔值】剧情片段是否已观看。true=已观看，false=未观看。默认值：false。",
+        "story_skip_flag": "【布尔值】玩家是否跳过了剧情。true=已跳过，false=未跳过。默认值：false。",
+        "all_stories_unlocked_flag": "【布尔值】所有剧情是否已解锁。true=已全部解锁，false=未全部解锁。默认值：false。",
+        "souvenir_synthesis_time": "【整数】纪念品合成所需的时间（秒）。取值范围：0-3600。默认值：0。",
+        "souvenir_placement_position": "【字符串】纪念品在展示架上的摆放位置坐标JSON字符串。默认值：空对象。",
+        "souvenir_placement_rotation": "【字符串】纪念品在展示架上的摆放旋转角度JSON字符串。默认值：空对象。",
+        "souvenir_synthesized_flag": "【布尔值】纪念品是否已合成。true=已合成，false=未合成。默认值：false。",
+        "souvenir_placed_flag": "【布尔值】纪念品是否已摆放在展示架上。true=已摆放，false=未摆放。默认值：false。",
+        "souvenir_collected_flag": "【布尔值】纪念品是否已被收集（解锁）。true=已收集，false=未收集。默认值：false。",
+        "all_souvenirs_unlocked_flag": "【布尔值】所有纪念品是否已解锁。true=已全部解锁，false=未全部解锁。默认值：false。",
+        "current_behavior_id": "【整数】当前AI行为的ID。取值范围：0-99。默认值：0（空闲）。",
+        "behavior_play_duration": "【整数】当前行为已持续的时间（秒）。取值范围：0-99999。默认值：0。",
+        "behavior_trigger_probability": "【浮点数】触发特定行为的概率权重，0.0-1.0。默认值：0.5。",
+        "voice_trigger_probability": "【浮点数】触发随机语音的概率权重，0.0-1.0。默认值：0.3。",
+        "behavior_playing_flag": "【布尔值】当前是否有行为正在播放。true=播放中，false=未播放。默认值：false。",
+        "behavior_switching_flag": "【布尔值】行为是否正在切换中。true=切换中，false=未切换。默认值：false。",
+        "idle_timeout_flag": "【布尔值】是否因长时间无互动而触发了呼唤行为。true=已触发，false=未触发。默认值：false。",
+        "interaction_interrupted_flag": "【布尔值】AI行为是否被互动打断。true=已打断，false=未打断。默认值：false。",
+        "camera_position": "【字符串】拍照模式下相机位置的JSON字符串（x,y,z）。默认值：空对象。",
+        "camera_rotation": "【字符串】拍照模式下相机旋转的JSON字符串（pitch,yaw,roll）。默认值：空对象。",
+        "camera_zoom": "【浮点数】拍照模式下相机的缩放值。取值范围：0.1-10.0。默认值：1.0。",
+        "selected_filter_id": "【整数】当前选择的滤镜ID。取值范围：0-9。默认值：0（无滤镜）。",
+        "selected_pose_id": "【整数】当前选择的角色姿势ID。取值范围：0-9。默认值：0（默认站立）。",
+        "selected_expression_id": "【整数】当前选择的角色表情ID。取值范围：0-9。默认值：0（默认微笑）。",
+        "screenshot_count": "【整数】本次拍照模式中已截图次数。取值范围：0-999。默认值：0。",
+        "photo_mode_active_flag": "【布尔值】拍照模式是否激活。true=激活，false=未激活。默认值：false。",
+        "screenshot_taken_flag": "【布尔值】是否已截图。true=已截图，false=未截图。默认值：false。",
+        "filter_changed_flag": "【布尔值】滤镜是否已切换。true=已切换，false=未切换。默认值：false。",
+        "pose_changed_flag": "【布尔值】姿势是否已切换。true=已切换，false=未切换。默认值：false。",
+        "expression_changed_flag": "【布尔值】表情是否已切换。true=已切换，false=未切换。默认值：false。",
+        "dlc_purchase_timestamp": "【整数】DLC购买时间戳（Unix秒数）。取值范围：0-9999999999。默认值：0。",
+        "purchase_platform": "【整数】购买平台枚举：0=未知，1=iOS，2=Android，3=PC。默认值：0。",
+        "dlc_purchased_flag": "【布尔值】DLC是否已购买。true=已购买，false=未购买。默认值：false。",
+        "payment_success_flag": "【布尔值】支付是否成功。true=成功，false=失败。默认值：false。",
+        "payment_failed_flag": "【布尔值】支付是否失败。true=失败，false=未失败。默认值：false。",
+        "dlc_refunded_flag": "【布尔值】DLC是否已退款。true=已退款，false=未退款。默认值：false。",
+        "character_unlock_status": "【整数】角色解锁状态枚举：0=未解锁，1=已解锁。默认值：0。",
+        "skin_unlock_status": "【整数】皮肤解锁状态枚举：0=未解锁，1=已解锁。默认值：0。",
+        "affection_reward_status": "【整数】好感度联动奖励领取状态：0=未领取，1=已领取。默认值：0。",
+        "story_linkage_status": "【整数】剧情联动状态：0=未联动，1=已联动。默认值：0。",
+        "character_unlocked_flag": "【布尔值】角色是否已解锁。true=已解锁，false=未解锁。默认值：false。",
+        "skin_unlocked_flag": "【布尔值】皮肤是否已解锁。true=已解锁，false=未解锁。默认值：false。",
+        "affection_reward_claimed_flag": "【布尔值】好感度联动奖励是否已领取。true=已领取，false=未领取。默认值：false。",
+        "story_unlocked_in_main_game_flag": "【布尔值】剧情是否已在主游戏中解锁。true=已解锁，false=未解锁。默认值：false。"
       },
       "relations_and_enums": {
-        "跨表外键调用关系": {
-          "player_homepage_config.avatar_id": "引用自 avatar_frame_id 表，需校验玩家是否拥有该头像框",
-          "player_homepage_config.title_id": "引用自 title 表，需校验玩家是否拥有该称号",
-          "player_homepage_config.background_id": "引用自 background 表，需校验玩家是否拥有该背景",
-          "player_homepage_config.display_character_id": "引用自 character 表，需校验玩家是否拥有该角色",
-          "player_homepage_config.skin_id": "引用自 skin 表，需校验玩家是否拥有该皮肤且属于展示角色",
-          "player_homepage_config.action_id": "引用自 action 表，需校验玩家是否拥有该动作且属于展示角色",
-          "player_homepage_featured_achievements": "引用自 achievement 表，最多6个成就ID",
-          "player_homepage_featured_collections": "引用自 collection_item 表，最多3个收集品ID",
-          "player_unlocked_rewards": "引用自 reward 表，记录已解锁的奖励ID",
-          "player_purchased_rewards": "引用自 reward 表，记录已购买的付费奖励ID"
+        "外键关系": {
+          "room_config_data": "引用自角色配置表，每个角色有唯一的room_config_id。",
+          "current_behavior_id": "引用自AI行为配置表，定义每个行为ID对应的动画、语音和移动路径。",
+          "selected_filter_id": "引用自滤镜配置表，定义滤镜ID对应的着色器参数。",
+          "selected_pose_id": "引用自姿势配置表，定义姿势ID对应的动画BlendTree。",
+          "selected_expression_id": "引用自表情配置表，定义表情ID对应的BlendShape权重。",
+          "story_unlock_minigame_achievement_requirement": "引用自小游戏成就配置表，定义成就ID对应的解锁条件。"
         },
         "状态码枚举": {
-          "achievement_category": [
-            "战斗",
-            "收集",
-            "社交",
-            "探索",
-            "活动"
-          ],
-          "collection_category": [
-            "角色",
-            "武器",
-            "皮肤",
-            "家具",
-            "其他"
-          ],
-          "share_content_type": [
-            "link",
-            "image",
-            "card"
-          ],
-          "share_platform_list": [
-            "game_chat",
-            "wechat",
-            "qq",
-            "weibo"
-          ],
-          "character_constellation": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "weapon_refinement_level": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
+          "room_state": "0=未加载, 1=加载中, 2=已加载, 3=互动中, 4=小游戏中, 5=拍照模式",
+          "purchase_platform": "0=未知, 1=iOS, 2=Android, 3=PC",
+          "character_unlock_status": "0=未解锁, 1=已解锁",
+          "skin_unlock_status": "0=未解锁, 1=已解锁",
+          "affection_reward_status": "0=未领取, 1=已领取",
+          "story_linkage_status": "0=未联动, 1=已联动"
         }
       },
-      "implementation_notes": "建议下游程序优先实现个人主页的编辑与保存功能，确保玩家配置数据持久化。成就与收集系统的数据读取需与旧系统做好接口对接，注意处理数据缺失或异常的兜底逻辑。3D角色展示需评估低端机型性能，预置2D立绘作为降级方案。分享功能需提前与外部平台沟通API对接事宜，并做好异常处理。付费内容需严格校验玩家货币与拥有状态，防止重复购买或数据不一致。所有展示内容需通过内容审核流程，确保符合合规要求。"
+      "implementation_notes": "建议下游程序优先实现continuous_formulas中的公式计算逻辑，确保好感度经验值、升级阈值等数值动态生成。discrete_milestones用于处理特定等级触发的解锁事件。注意所有布尔型字段均以_flag结尾，便于识别。拍照模式的相机参数需支持实时插值。AI行为系统建议使用状态机实现，确保行为切换平滑。所有异常兜底逻辑需记录错误日志，并保证玩家体验不中断。"
     },
     "data": {
       "continuous_formulas": {
-        "player_level": {
-          "base": 1,
+        "affection_experience": {
+          "base": 0,
+          "growth": 10,
+          "type": "linear"
+        },
+        "experience_to_next_level": {
+          "base": 100,
+          "growth": 200,
+          "type": "linear"
+        },
+        "affection_increment": {
+          "base": 10,
+          "growth": 5,
+          "type": "linear"
+        },
+        "unlock_progress": {
+          "base": 0.0,
+          "growth": 0.1,
+          "type": "linear"
+        },
+        "hotspot_interaction_count": {
+          "base": 0,
           "growth": 1,
           "type": "linear"
         },
-        "player_homepage_config": {
-          "base": {},
-          "growth": {},
+        "cooldown_timer": {
+          "base": 86400,
+          "growth": 0,
           "type": "linear"
         },
-        "player_character_owned": {
-          "base": [],
-          "growth": [],
+        "daily_play_count": {
+          "base": 0,
+          "growth": 1,
           "type": "linear"
         },
-        "player_achievement_progress": {
-          "base": {},
-          "growth": {},
+        "score_record": {
+          "base": 0,
+          "growth": 100,
           "type": "linear"
         },
-        "player_statistics": {
-          "base": {
-            "main_stage": 0,
-            "abyss_floor": 0,
-            "character_collection_pct": 0.0,
-            "max_constellation_count": 0,
-            "max_level_count": 0,
-            "login_days": 0,
-            "weekly_activity": 0
-          },
-          "growth": {},
+        "highest_score": {
+          "base": 0,
+          "growth": 200,
           "type": "linear"
         },
-        "player_collection_progress": {
-          "base": {},
-          "growth": {},
+        "play_count": {
+          "base": 0,
+          "growth": 1,
           "type": "linear"
         },
-        "player_collection_reward_claimed": {
-          "base": [],
-          "growth": [],
+        "reward_experience": {
+          "base": 10,
+          "growth": 20,
           "type": "linear"
         },
-        "player_skin_owned": {
-          "base": [],
-          "growth": [],
+        "souvenir_fragment_count": {
+          "base": 0,
+          "growth": 1,
           "type": "linear"
         },
-        "player_action_owned": {
-          "base": [],
-          "growth": [],
+        "story_watch_count": {
+          "base": 0,
+          "growth": 1,
           "type": "linear"
         },
-        "player_owned_appearance": {
-          "base": [],
-          "growth": [],
+        "behavior_play_duration": {
+          "base": 0,
+          "growth": 1,
           "type": "linear"
         },
-        "player_weapon_owned": {
-          "base": [],
-          "growth": [],
-          "type": "linear"
-        },
-        "player_stage_progress": {
-          "base": {},
-          "growth": {},
-          "type": "linear"
-        },
-        "player_activity_data": {
-          "base": {},
-          "growth": {},
-          "type": "linear"
-        },
-        "player_base_furniture_collection": {
-          "base": [],
-          "growth": [],
-          "type": "linear"
-        },
-        "player_friend_list": {
-          "base": [],
-          "growth": [],
-          "type": "linear"
-        },
-        "player_chat_channel_list": {
-          "base": [],
-          "growth": [],
+        "screenshot_count": {
+          "base": 0,
+          "growth": 1,
           "type": "linear"
         }
       },
       "discrete_milestones": {
-        "avatar_id": {
-          "1": 1,
-          "default": 1
-        },
-        "title_id": {
-          "0": 0,
-          "default": 0
-        },
-        "signature_text": {
-          "default": ""
-        },
-        "background_id": {
-          "1": 1,
-          "default": 1
-        },
-        "display_character_id": {
-          "1": 1,
-          "default": 1
-        },
-        "skin_id": {
-          "0": 0,
-          "default": 0
-        },
-        "action_id": {
-          "0": 0,
-          "default": 0
-        },
-        "avatar_frame_id": {
-          "0": 0,
-          "default": 0
-        },
-        "achievement_total_unlocked": {
-          "0": 0,
-          "default": 0
-        },
-        "achievement_total_points": {
-          "0": 0,
-          "default": 0
-        },
-        "achievement_completion_percentage": {
-          "0.0": 0.0,
-          "default": 0.0
-        },
-        "achievement_category": {
-          "default": ""
-        },
-        "achievement_name": {
-          "default": ""
-        },
-        "achievement_description": {
-          "default": ""
-        },
-        "achievement_icon": {
-          "default": ""
-        },
-        "achievement_unlock_condition": {
-          "default": ""
-        },
-        "achievement_current_progress": {
-          "0": 0,
-          "default": 0
-        },
-        "achievement_unlock_time": {
-          "0": 0,
-          "default": 0
-        },
-        "achievement_progress_percentage": {
-          "0.0": 0.0,
-          "default": 0.0
-        },
-        "achievement_progress_bar": {
-          "default": ""
-        },
-        "achievement_reward_preview": {
-          "default": ""
-        },
-        "battle_stats_main_stage": {
-          "0": 0,
-          "default": 0
-        },
-        "battle_stats_abyss_max_floor": {
-          "0": 0,
-          "default": 0
-        },
-        "character_collection_percentage": {
-          "0.0": 0.0,
-          "default": 0.0
-        },
-        "max_constellation_character_count": {
-          "0": 0,
-          "default": 0
-        },
-        "max_level_character_count": {
-          "0": 0,
-          "default": 0
-        },
-        "total_login_days": {
-          "0": 0,
-          "default": 0
-        },
-        "weekly_activity": {
-          "0": 0,
-          "default": 0
-        },
-        "collection_total_completion_percentage": {
-          "0.0": 0.0,
-          "default": 0.0
-        },
-        "collection_collected_count": {
-          "0": 0,
-          "default": 0
-        },
-        "collection_total_count": {
-          "0": 0,
-          "default": 0
-        },
-        "collection_category": {
-          "default": ""
-        },
-        "collection_item_name": {
-          "default": ""
-        },
-        "collection_item_rarity": {
-          "1": 1,
-          "default": 1
-        },
-        "collection_item_icon": {
-          "default": ""
-        },
-        "collection_acquisition_description": {
-          "default": ""
-        },
-        "collection_is_collected": {
-          "false": false,
-          "default": false
-        },
-        "collection_collected_detail_properties": {
-          "default": ""
-        },
-        "collection_uncollected_locked_state": {
-          "default": ""
-        },
-        "collection_progress_reward_preview": {
-          "default": ""
-        },
-        "collection_leaderboard": {
-          "default": []
-        },
-        "share_entry_location": {
-          "default": ""
-        },
-        "share_preview_image": {
-          "default": ""
-        },
-        "share_content_type": {
-          "default": ""
-        },
-        "share_platform_list": {
-          "default": []
-        },
-        "share_link_or_qrcode": {
-          "default": ""
-        },
-        "dynamic_3d_character_display": {
-          "true": true,
-          "default": true
-        },
-        "character_skin_display": {
-          "0": 0,
-          "default": 0
-        },
-        "character_idle_action": {
-          "0": 0,
-          "default": 0
-        },
-        "character_close_up_camera": {
-          "true": true,
-          "default": true
-        },
-        "character_action_switch": {
-          "true": true,
-          "default": true
-        },
-        "dynamic_avatar_frame_and_effect_title": {
-          "false": false,
-          "default": false
-        },
-        "homepage_background_character_interaction": {
-          "false": false,
-          "default": false
-        },
-        "free_appearance_display": {
-          "true": true,
-          "default": true
-        },
-        "paid_appearance_display": {
-          "true": true,
-          "default": true
-        },
-        "collection_acceleration_pack_display": {
-          "false": false,
-          "default": false
-        },
-        "appearance_preview_function": {
-          "true": true,
-          "default": true
-        },
-        "character_list": {
-          "default": []
-        },
-        "character_level": {
-          "1": 1,
-          "default": 1
-        },
-        "character_constellation": {
-          "0": 0,
-          "default": 0
-        },
-        "character_skin_list": {
-          "default": []
-        },
-        "weapon_list": {
-          "default": []
-        },
-        "weapon_refinement_level": {
-          "0": 0,
-          "default": 0
-        },
-        "main_stage_clear_record": {
-          "default": {}
-        },
-        "highest_clear_chapter": {
-          "0": 0,
-          "default": 0
-        },
-        "abyss_max_floor": {
-          "0": 0,
-          "default": 0
-        },
-        "activity_milestone_data": {
-          "default": {}
-        },
-        "base_furniture_collection_percentage": {
-          "0.0": 0.0,
-          "default": 0.0
-        },
-        "base_screenshot_or_3d_scene": {
-          "default": ""
-        },
-        "friend_list": {
-          "default": []
-        },
-        "chat_channel_list": {
-          "default": []
+        "affection_level": {
+          "1": {
+            "minigame_unlocked_flag": true,
+            "minigame_unlock_affection_level": 1
+          },
+          "3": {
+            "story_unlocked_flag": true,
+            "story_unlock_affection_level_requirement": 3
+          },
+          "5": {
+            "special_event_triggered": true,
+            "special_event_trigger_level": 5
+          },
+          "6": {
+            "souvenir_collected_flag": true,
+            "story_unlocked_flag": true,
+            "story_unlock_affection_level_requirement": 6
+          },
+          "9": {
+            "story_unlocked_flag": true,
+            "story_unlock_affection_level_requirement": 9
+          },
+          "10": {
+            "affection_maxed_flag": true,
+            "special_event_triggered": true,
+            "special_event_trigger_level": 10
+          }
+        },
+        "daily_play_count": {
+          "3": {
+            "daily_play_limit_reached": true,
+            "hotspot_on_cooldown": true
+          }
+        },
+        "souvenir_fragment_count": {
+          "10": {
+            "souvenir_synthesized_flag": true,
+            "souvenir_collected_flag": true
+          }
         }
       }
     }

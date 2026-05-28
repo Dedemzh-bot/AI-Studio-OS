@@ -47,7 +47,7 @@ from Guards.schema_validator import SchemaValidator
 
 # ---- 配置 ----
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 STATUS_FILE = os.path.join(WORKSPACE_DIR, "task_status.json")
 RESULT_FILE = os.path.join(WORKSPACE_DIR, "current_result.json")
 SCHEMA_FILE = os.path.join(WORKSPACE_DIR, "active_schema.json")
@@ -534,20 +534,8 @@ def main():
                         print("[Router] \U0001f3af 识别为单体技能需求，进入技能管线。")
                         write_state("pending_design")
                     elif task_type == "system":
-                        print("[Router] \U0001f3d7\uFE0F 识别为玩法系统需求，进入知识驱动管线。")
-                        try:
-                            subprocess.run(
-                                [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
-                                check=True, cwd=ROOT_DIR,
-                            )
-                            print("[Router] Visionary Agent 执行完毕。")
-                            write_state("clarifying_requirements")
-                        except subprocess.CalledProcessError as e:
-                            print(f"\033[91m[Router] Visionary 失败（{e.returncode}）\033[0m")
-                            write_state("idle")
-                        except FileNotFoundError:
-                            print("\033[91m[Router] 找不到 Skills/system_visionary.py\033[0m")
-                            write_state("idle")
+                        print("[Router] 🏗️ 识别为玩法系统需求，进入知识驱动管线。")
+                        write_state("clarifying_requirements")
                     else:
                         print(f"\033[91m[Router] 非法类别: '{task_type}'\033[0m")
                         write_state("idle")
@@ -739,10 +727,7 @@ def main():
                                     question = qd.get("question", question)
                             except json.JSONDecodeError:
                                 pass
-                    print(f"\n{YEL_COLOR}============================================================{RESET_CLR}")
-                    print(f"{YEL_COLOR}[主策追问] {question}{RESET_CLR}")
-                    print(f"{YEL_COLOR}============================================================{RESET_CLR}")
-                    user_reply = input("[Router] 请输入您的回复（补充需求信息）: ").strip()
+                    user_reply = input(f"[主策追问]\n{question}\n").strip()
                     if user_reply:
                         try:
                             qa_block = (

@@ -11,7 +11,7 @@ import time
 import re
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-WORKSPACE = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 PROMPT_FILE = os.path.join(WORKSPACE, ".web_prompt.json")
 RESPONSE_FILE = os.path.join(WORKSPACE, ".web_response.json")
 LOG_FILE = os.path.join(WORKSPACE, ".web_log.jsonl")
@@ -36,8 +36,6 @@ def web_print(*args, **kwargs):
 
 def web_input(prompt: str = "") -> str:
     """Web 模式下的 input：写提示到文件，轮询等待响应（最多等待 30 分钟）"""
-    if prompt:
-        web_print(prompt)
     if not _web_mode:
         return input()
 

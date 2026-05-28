@@ -85,13 +85,13 @@ body{display:flex;}
             <label class="mem-label">老板批注</label>
             <textarea class="mem-textarea" id="archComment" placeholder="例: 本案状态机流转极其严谨"></textarea>
             <div style="display:flex;gap:10px;margin:15px 0;">
-                <button class="mem-btn red" id="btnBlack">归入黑榜</button>
-                <button class="mem-btn green" id="btnRed">归入红榜</button>
+                <button class="mem-btn red" id="btnBlack">归入错误案例</button>
+                <button class="mem-btn green" id="btnRed">归入优秀案例</button>
             </div><div class="mem-result" id="archResult"></div>
         </div>
         <div class="file-explorer">
-            <h2>红榜</h2><div id="bestFiles"><div style="color:#999;font-size:13px;">（空）</div></div>
-            <h2>黑榜</h2><div id="antiFiles"><div style="color:#999;font-size:13px;">（空）</div></div>
+            <h2>优秀案例</h2><div id="bestFiles"><div style="color:#999;font-size:13px;">（空）</div></div>
+            <h2>错误案例</h2><div id="antiFiles"><div style="color:#999;font-size:13px;">（空）</div></div>
         </div>
     </div>
 </div>
@@ -154,6 +154,9 @@ function startEngine() {
                 userInput.placeholder = '输入回复内容...';
                 userInput.focus();
                 appendToLog(`\n=== 智能体问询 ===\n${d.msg}\n请输入回复:`, 'hitl');
+            } else if (d.type === 'engine_exit') {
+                appendToLog(`[System] ${d.msg || '引擎已退出'}`);
+                ws.close();
             } else if (d.type === 'error') {
                 appendToLog(`[ERROR] ${d.msg}`);
             }
@@ -230,13 +233,13 @@ async function fetchFiles() {
 async function openFile(f) { await fetch(API+'/api/open_file',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({file:f})}).catch(()=>{}); }
 
 // Input
-userInput.addEventListener('keydown', function(e) {
+userInput.addEventListener('keydown', async function(e) {
     if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
         const text = userInput.value.trim();
         if (!text) return;
         if (!engineRunning) {
-            fetch(API+'/api/concept',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text})});
+            await fetch(API+'/api/concept',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text})});
             startEngine();
         } else if (hitlActive && ws && ws.readyState === WebSocket.OPEN) {
             appendToLog(`>>> ${text}`);

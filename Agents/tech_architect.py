@@ -15,8 +15,9 @@ ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm
+from Skills.rag_loader import load_knowledge_with_context
 
-WORKSPACE_DIR    = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 DETAIL_FILE      = os.path.join(WORKSPACE_DIR, "system_design_detail.md")
 SCHEMA_FILE      = os.path.join(WORKSPACE_DIR, "system_schema.json")
 DOCS_FILE        = os.path.join(WORKSPACE_DIR, "system_numerical_docs.json")
@@ -102,7 +103,13 @@ def main():
         except Exception as e:
             print(f"[Tech Architect][警告] 读取修复指令失败: {e}")
 
-    # ========== 4. 调用大模型 ==========
+    # ========== 4. 注入 RAG 知识上下文 ==========
+    rag_context = load_knowledge_with_context(ROOT_DIR, task_domain="技术架构")
+    if rag_context:
+        user_prompt += f"\n\n{rag_context}"
+        print(f"[Tech Architect] 已注入 RAG 上下文 ({len(rag_context)} 字符)")
+
+    # ========== 5. 调用大模型 ==========
     print("[Tech Architect] 正在呼叫大模型生成技术架构蓝图...")
     try:
         llm_response = ask_llm(system_prompt, user_prompt)

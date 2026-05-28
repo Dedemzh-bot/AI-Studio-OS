@@ -18,7 +18,7 @@ sys.path.insert(0, ROOT_DIR)
 from Skills.llm_client import ask_llm
 
 # ---- 所有读写目标均拼装为绝对路径 ----
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 RESULT_FILE   = os.path.join(WORKSPACE_DIR, "current_result.json")
 OUTPUT_FILE   = os.path.join(WORKSPACE_DIR, "generated_skill.gd")
 STATUS_FILE   = os.path.join(WORKSPACE_DIR, "task_status.json")

@@ -14,8 +14,9 @@ ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm
+from Skills.rag_loader import load_knowledge_with_context
 
-WORKSPACE_DIR   = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 CONCEPT_FILE    = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 DRAFT_FILE      = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
 PLAN_FILE       = os.path.join(WORKSPACE_DIR, "task_plan.md")
@@ -66,11 +67,7 @@ def main():
 
     print(f"[System Planner] 已读取: 简案({len(concept)}c) 草案({len(draft)}c) 排期({len(plan)}c)")
 
-    # 全局记忆
-    codex = load_file(CODEX_FILE)
-    registry = load_file(REGISTRY_FILE)
-    if len(registry) > 5000:
-        registry = registry[:5000]
+    # 全局记忆（统一走 rag_loader）
 
     # ========== 2. 从独立文件加载角色设定 Prompt ==========
     sys_prompt = load_file(PROMPT_FILE)
@@ -88,10 +85,6 @@ def main():
         user_prompt += f"\n\n【PM 排期表（参考任务依赖，不在文档中复述）】:\n{plan}"
     if feedback:
         user_prompt = f"【老板修改意见】: {feedback}\n\n{user_prompt}"
-    if codex:
-        user_prompt += f"\n\n【项目记忆】:\n{codex}"
-    if registry:
-        user_prompt += f"\n\n【资产登记表】:\n```json\n{registry}\n```"
 
     # ---- 定向修复模式 ----
     if os.path.exists(FIX_FILE):
@@ -113,17 +106,13 @@ def main():
         except Exception as e:
             print(f"[System Planner][警告] 读取修复指令失败: {e}")
 
-    # ========== 4. 调用大模型 ==========
-    # ---- RAG 记忆注入（直接从已加载的 Codex + Registry 构建） ----
-    rag_context = ""
-    if codex:
-        rag_context += f"\n【项目记忆 Codex】:\n{codex}"
-    if registry:
-        rag_context += f"\n\n【已有资产登记表】:\n```json\n{registry}\n```"
+    # ========== 4. 注入 RAG 知识上下文 ==========
+    rag_context = load_knowledge_with_context(ROOT_DIR, task_domain="系统逻辑")
     if rag_context:
-        user_prompt += rag_context
-        print(f"[System Planner] 已注入 RAG 记忆 ({len(rag_context)} 字符)")
+        user_prompt += f"\n\n{rag_context}"
+        print(f"[System Planner] 已注入 RAG 上下文 ({len(rag_context)} 字符)")
 
+    # ========== 5. 调用大模型 ==========
     print("[System Planner] 正在呼叫大模型扩写详细设计...")
     try:
         llm_response = ask_llm(system_prompt, user_prompt)

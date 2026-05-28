@@ -13,10 +13,11 @@ import glob
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from Skills.llm_client import ask_llm, safe_extract_json
+from Skills.rag_loader import load_knowledge_with_context
 
 # ---- 路径配置（全部使用绝对路径） ----
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 CONCEPT_FILE = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 SCHEMA_FILE = os.path.join(WORKSPACE_DIR, "active_schema.json")
 REVIEW_FILE = os.path.join(WORKSPACE_DIR, "review_board.md")
@@ -46,22 +47,9 @@ def main():
     print(f"[LeadPlanner] 已读取概念简案 ({len(concept_text)} 字符)")
 
     # ========== 1.5. 加载知识库（RAG 上下文注入） ==========
-    knowledge_context = ""
-    os.makedirs(KNOWLEDGE_DIR, exist_ok=True)  # 目录不存在则自动创建
-    md_files = glob.glob(os.path.join(KNOWLEDGE_DIR, "*.md"))
-    if md_files:
-        print(f"[LeadPlanner] 发现 {len(md_files)} 个知识库文件，正在加载...")
-        for md_file in sorted(md_files):
-            try:
-                with open(md_file, "r", encoding="utf-8") as f:
-                    content = f.read().strip()
-                if content:
-                    knowledge_context += f"\n--- 知识库条目: {os.path.basename(md_file)} ---\n{content}\n"
-                print(f"[LeadPlanner]   [OK] {os.path.basename(md_file)} ({len(content)} 字符)")
-            except Exception as e:
-                print_error(f"读取知识库文件失败: {md_file} - {e}")
-    else:
-        print("[LeadPlanner] 知识库目录为空，跳过上下文注入")
+    knowledge_context = load_knowledge_with_context(ROOT_DIR, task_domain=None)
+    if knowledge_context:
+        print(f"[LeadPlanner] 已加载 RAG 知识上下文 ({len(knowledge_context)} 字符)")
 
     # ========== 2. 构建 System Prompt ==========
     system_prompt = """你是一个顶级的游戏主策划兼系统架构师。你需要把人类的概念简案转化为严谨的数据结构。
@@ -98,37 +86,10 @@ def main():
         system_prompt += knowledge_clause
         print("[LeadPlanner] 已注入知识库上下文到 System Prompt")
 
-    # ========== 2.5. 加载全局项目记忆（Codex） ==========
-    codex_content = ""
-    if os.path.exists(CODEX_FILE):
-        try:
-            with open(CODEX_FILE, "r", encoding="utf-8") as f:
-                codex_content = f.read().strip()
-            if codex_content:
-                print(f"[LeadPlanner] 已加载项目记忆 Codex ({len(codex_content)} 字符)")
-        except Exception:
-            print("[LeadPlanner][警告] 项目记忆 Codex 读取失败，跳过")
-
-    # 将 Codex 注入 user_prompt
-    if codex_content:
-        concept_text = (
-            f"【全局项目记忆】：当前游戏项目已包含以下系统和已被占用的 ID 规范：\n"
-            f"{codex_content}\n\n"
-            f"请在设计时严格参考以上已有设定，确保新设计能与旧系统联动，并且绝对不要使用已被占用的 ID！\n\n"
-            f"---\n\n"
-            f"{concept_text}"
-        )
-
     # ========== 3. 调用大模型 ==========
-    # ---- RAG 记忆注入（直接从已加载的 Codex + 知识库构建） ----
-    rag_context = ""
-    if codex_content:
-        rag_context += f"\n【项目记忆 Codex】:\n{codex_content}"
     if knowledge_context:
-        rag_context += f"\n【知识库】:\n{knowledge_context}"
-    if rag_context:
-        concept_text += rag_context
-        print(f"[LeadPlanner] 已注入 RAG 记忆 ({len(rag_context)} 字符)")
+        concept_text += f"\n{knowledge_context}"
+        print(f"[LeadPlanner] 已注入 RAG 记忆 ({len(knowledge_context)} 字符)")
 
     print("[LeadPlanner] 正在调用大模型生成 Schema 与验收表...")
     try:

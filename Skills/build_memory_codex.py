@@ -11,8 +11,8 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
+KNOWLEDGE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), "Knowledge")
 CODEX_FILE = os.path.join(KNOWLEDGE_DIR, "project_codex.md")
 REGISTRY_FILE = os.path.join(KNOWLEDGE_DIR, "global_asset_registry.json")
 

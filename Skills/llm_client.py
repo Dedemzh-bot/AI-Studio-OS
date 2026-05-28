@@ -6,6 +6,7 @@ LLM Client (大模型底层通道)
 
 import os
 import re
+import sys
 import time
 from pathlib import Path
 
@@ -13,9 +14,14 @@ import httpx
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# ---- 加载 .env ----
-# 从项目根目录加载环境变量
-_env_path = Path(__file__).parent.parent / ".env"
+# ---- 加载 .env（优先可写目录，兼容 EXE 冻结模式）----
+_data_dir = os.environ.get("AI_STUDIO_DATA_DIR")
+if _data_dir:
+    _env_path = Path(_data_dir) / ".env"
+elif getattr(sys, 'frozen', False):
+    _env_path = Path(sys.executable).parent / ".env"
+else:
+    _env_path = Path(__file__).parent.parent / ".env"
 load_dotenv(dotenv_path=_env_path)
 
 LLM_API_KEY = os.getenv("LLM_API_KEY")

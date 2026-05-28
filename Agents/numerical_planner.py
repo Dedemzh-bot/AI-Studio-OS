@@ -16,9 +16,10 @@ ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm, safe_extract_json
+from Skills.rag_loader import load_knowledge_with_context
 
 # ---- 所有读写目标均拼装为绝对路径 ----
-WORKSPACE_DIR    = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 DETAIL_FILE      = os.path.join(WORKSPACE_DIR, "system_design_detail.md")
 SCHEMA_SYS_FILE  = os.path.join(WORKSPACE_DIR, "system_schema.json")
 DOCS_OUTPUT_FILE = os.path.join(WORKSPACE_DIR, "system_numerical_docs.json")
@@ -117,7 +118,13 @@ def main():
         except Exception as e:
             print(f"[Numerical Planner][警告] 读取修复指令失败: {e}")
 
-    # ========== 3. 调用大模型 ==========
+    # ========== 3. 注入 RAG 知识上下文 ==========
+    rag_context = load_knowledge_with_context(ROOT_DIR, task_domain="数值架构")
+    if rag_context:
+        user_prompt += f"\n\n{rag_context}"
+        print(f"[Numerical Planner] 已注入 RAG 上下文 ({len(rag_context)} 字符)")
+
+    # ========== 4. 调用大模型 ==========
     print("[Numerical Planner] 正在呼叫大模型设计数值配置...")
     try:
         llm_response = ask_llm(system_prompt, user_prompt, max_tokens=8192)

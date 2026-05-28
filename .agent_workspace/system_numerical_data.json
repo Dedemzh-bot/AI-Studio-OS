@@ -1,0 +1,121 @@
+{
+  "continuous_formulas": {
+    "affection_experience": {
+      "base": 0,
+      "growth": 10,
+      "type": "linear"
+    },
+    "experience_to_next_level": {
+      "base": 100,
+      "growth": 200,
+      "type": "linear"
+    },
+    "affection_increment": {
+      "base": 10,
+      "growth": 5,
+      "type": "linear"
+    },
+    "unlock_progress": {
+      "base": 0.0,
+      "growth": 0.1,
+      "type": "linear"
+    },
+    "hotspot_interaction_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "cooldown_timer": {
+      "base": 86400,
+      "growth": 0,
+      "type": "linear"
+    },
+    "daily_play_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "score_record": {
+      "base": 0,
+      "growth": 100,
+      "type": "linear"
+    },
+    "highest_score": {
+      "base": 0,
+      "growth": 200,
+      "type": "linear"
+    },
+    "play_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "reward_experience": {
+      "base": 10,
+      "growth": 20,
+      "type": "linear"
+    },
+    "souvenir_fragment_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "story_watch_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "behavior_play_duration": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "screenshot_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  "discrete_milestones": {
+    "affection_level": {
+      "1": {
+        "minigame_unlocked_flag": true,
+        "minigame_unlock_affection_level": 1
+      },
+      "3": {
+        "story_unlocked_flag": true,
+        "story_unlock_affection_level_requirement": 3
+      },
+      "5": {
+        "special_event_triggered": true,
+        "special_event_trigger_level": 5
+      },
+      "6": {
+        "souvenir_collected_flag": true,
+        "story_unlocked_flag": true,
+        "story_unlock_affection_level_requirement": 6
+      },
+      "9": {
+        "story_unlocked_flag": true,
+        "story_unlock_affection_level_requirement": 9
+      },
+      "10": {
+        "affection_maxed_flag": true,
+        "special_event_triggered": true,
+        "special_event_trigger_level": 10
+      }
+    },
+    "daily_play_count": {
+      "3": {
+        "daily_play_limit_reached": true,
+        "hotspot_on_cooldown": true
+      }
+    },
+    "souvenir_fragment_count": {
+      "10": {
+        "souvenir_synthesized_flag": true,
+        "souvenir_collected_flag": true
+      }
+    }
+  }
+}

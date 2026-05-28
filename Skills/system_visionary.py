@@ -15,9 +15,10 @@ ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm
+from Skills.rag_loader import load_knowledge_with_context
 
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
-KNOWLEDGE_DIR = os.path.join(WORKSPACE_DIR, "knowledge")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
+KNOWLEDGE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), "Knowledge")
 CONCEPT_FILE  = os.path.join(WORKSPACE_DIR, "concept_brief.md")
 CODEX_FILE    = os.path.join(KNOWLEDGE_DIR, "project_codex.md")
 VISION_FILE   = os.path.join(KNOWLEDGE_DIR, "project_vision.md")
@@ -68,22 +69,11 @@ def main():
         print(f"{RED}概念简案为空，无法继续{RESET}")
         sys.exit(1)
 
-    vision = load_file(VISION_FILE)
-    codex = load_file(CODEX_FILE)
-    capabilities = load_file(CAPABILITIES_FILE)
-    registry = load_file(REGISTRY_FILE)
-
-    standards_text = load_file(STANDARDS_FILE)
-    if standards_text:
-        try:
-            standards_obj = json.loads(standards_text)
-            standards_text = json.dumps(standards_obj, ensure_ascii=False, indent=2)
-        except json.JSONDecodeError:
-            pass
-
     feedback = load_file(FEEDBACK_FILE)
+    rag_context = load_knowledge_with_context(ROOT_DIR, task_domain="概念设计")
+    vision = load_file(VISION_FILE)
 
-    print(f"[Visionary] 已加载: 概念简案({len(concept)}c) 愿景({len(vision)}c) 规范({len(standards_text)}c) Codex({len(codex)}c)")
+    print(f"[Visionary] 已加载: 概念简案({len(concept)}c) RAG上下文({len(rag_context)}c)")
 
     # ========== 2. 从独立文件加载角色设定 Prompt ==========
     lead_prompt = load_file(PROMPT_FILE)
@@ -91,18 +81,15 @@ def main():
         print(f"{RED}[Visionary] 警告: 未找到主策 Prompt 文件 {PROMPT_FILE}，使用内置回退{RESET}")
         lead_prompt = "你是游戏主策划，输出宏观草案。"
 
-    # 注入项目宪法和设计规范
+    # 注入项目宪法
     if vision:
         lead_prompt += f"\n\n【项目宪法】:\n{vision}"
-    if standards_text:
-        lead_prompt += f"\n\n【输出格式规范】:\n{standards_text}"
 
     system_prompt = lead_prompt
 
     user_prompt = f"以下是老板的概念简案：\n\n{concept}"
 
     if feedback:
-        # 读取现有草案，让 Visionary 基于其上做局部修改
         existing_draft = load_file(DRAFT_OUTPUT)
         if existing_draft:
             user_prompt = (
@@ -113,14 +100,9 @@ def main():
         else:
             user_prompt = f"【老板对上一轮的反驳/补充】: {feedback}\n\n{user_prompt}"
 
-    if codex:
-        user_prompt += f"\n\n【项目记忆 Codex】:\n{codex}"
-
-    if registry and len(registry) > 100:
-        user_prompt += f"\n\n【已有资产登记表（截取5000字）】:\n{registry[:5000]}"
-
-    if capabilities:
-        user_prompt += f"\n\n【下游团队能力】:\n{capabilities}"
+    # 注入统一 RAG 知识上下文（含 Meta-Prompt + 红黑榜 + Codex + 规范等）
+    if rag_context:
+        user_prompt += f"\n\n{rag_context}"
 
     # ========== 3. 调用大模型 ==========
     print("[Visionary] 正在呼叫大模型进行需求审核与起草...")

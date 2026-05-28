@@ -15,8 +15,9 @@ ROOT_DIR = os.path.dirname(FILE_DIR)
 sys.path.insert(0, ROOT_DIR)
 
 from Skills.llm_client import ask_llm
+from Skills.rag_loader import load_knowledge_with_context
 
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 KNOWLEDGE_DIR = os.path.join(ROOT_DIR, "Knowledge")
 DRAFT_FILE     = os.path.join(WORKSPACE_DIR, "system_design_draft.md")
 CAPABILITIES_FILE = os.path.join(KNOWLEDGE_DIR, "team_capabilities.md")
@@ -42,7 +43,7 @@ def load_file(path: str) -> str:
 def main():
     # ========== 1. 读取输入 ==========
     draft = load_file(DRAFT_FILE)
-    capabilities = load_file(CAPABILITIES_FILE)
+    rag_context = load_knowledge_with_context(ROOT_DIR, task_domain="系统逻辑")
     feedback = load_file(FEEDBACK_FILE)
 
     if not draft:
@@ -54,10 +55,9 @@ def main():
     # ========== 2. PM 提示词 ==========
     system_prompt = f"""你是一位资深游戏开发项目经理 (PM)。
 
-请根据终审通过的系统设计草案，以及下游团队的能力花名册，进行 WBS（工作分解结构）拆解。
+请根据终审通过的系统设计草案，进行 WBS（工作分解结构）拆解。
 
-下游团队能力：
-{capabilities}
+{rag_context}
 
 请输出一份详尽的 Markdown 任务拆解计划，包含：
 

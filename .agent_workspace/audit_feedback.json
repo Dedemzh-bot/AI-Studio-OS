@@ -1,0 +1,124 @@
+{
+  "status": "reject",
+  "issues": [
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "互动热点系统",
+      "problem_description": "策划案中互动热点每次触发增加好感度固定值+5点，但数值配表（continuous_formulas）中 interaction_hotspot_system 的 affection_increment 未定义，且数值说明书中 affection_increment 固定为10，与策划案+5矛盾。",
+      "fix_suggestion": "请确认互动热点每次触发增加的好感度经验值应为5还是10，并确保数值配表与策划案一致。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "field_dictionary.affection_increment",
+      "problem_description": "数值说明书中 affection_increment 描述为“每次互动增加的好感度经验值，固定为10”，但策划案中互动热点每次增加+5点，小游戏胜利+20、失败+5，存在冲突。",
+      "fix_suggestion": "请将 affection_increment 拆分为多个字段（如 hotspot_affection_increment、minigame_win_increment、minigame_lose_increment），或明确该字段仅适用于某一类互动。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "field_dictionary.daily_play_count",
+      "problem_description": "数值说明书中 daily_play_count 的默认值为0，取值范围0-3，但策划案中每个小游戏每日可玩5次，且数值配表中 max_daily_play_count 固定为3，与策划案5次矛盾。",
+      "fix_suggestion": "请统一每日游玩次数为5次（策划案）或3次（数值配表），并同步修改数值说明书中的取值范围。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "field_dictionary.experience_to_next_level",
+      "problem_description": "数值说明书中 experience_to_next_level 描述为“计算公式为当前等级*100”，但数值配表中 affection_system 的 experience_to_next_level 的 base=100, growth=100，公式为 100 + (level-1)*100，与描述不一致。",
+      "fix_suggestion": "请统一升级所需经验公式：若为当前等级*100（1级需100，2级需200...），则配表应为 base=100, growth=100；若为固定100+等级*100，则需修改描述。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "小游戏系统",
+      "problem_description": "策划案中每日可玩5次，但数值配表中 max_daily_play_count 固定为3，且程序蓝图也引用3次，存在三方不一致。",
+      "fix_suggestion": "请确认每日游玩次数，并同步修改数值配表和程序蓝图中的对应配置。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "好感度系统",
+      "problem_description": "策划案中好感度等级上限为10级，每级所需经验递增（如1级需100经验，10级需5000经验），但数值配表中 experience_to_next_level 为线性增长（base=100, growth=100），无法达到5000经验（10级时仅需1000经验）。",
+      "fix_suggestion": "请明确每级所需经验的具体数值或公式，确保与数值配表一致。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "AI日常行为系统",
+      "problem_description": "策划案中行为列表包括：看书、发呆、做家务、哼歌、伸懒腰、玩手机、在窗边眺望，共7种行为。但数值说明书枚举中 behavior_id 包含1-8（8为睡觉），且程序蓝图未明确行为数量，存在不一致。",
+      "fix_suggestion": "请统一行为列表，确认是否包含“睡觉”行为（闲置超时触发），并在所有文档中保持一致。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "relations_and_enums.enum_definitions.behavior_id",
+      "problem_description": "枚举中 behavior_id 包含8种行为（1-8），但策划案中仅列出7种，且缺少“走动”行为的描述（枚举中5为玩手机，6为伸懒腰，7为走动，8为睡觉），与策划案不一致。",
+      "fix_suggestion": "请与策划对齐行为列表，确保枚举与策划案完全匹配。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "五、 数值与配置表挂载",
+      "problem_description": "程序蓝图中引用小游戏每日次数为3次（max_daily_play_count），但策划案中为5次，且数值配表中也为3次，但策划案是需求源头，需确认。",
+      "fix_suggestion": "请根据最终确认的每日次数（5次或3次）更新程序蓝图中的配置引用。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "五、 数值与配置表挂载",
+      "problem_description": "程序蓝图中提到“好感度配置：affection_increment（固定10）”，但策划案中互动热点每次+5，小游戏胜利+20、失败+5，固定10与策划案矛盾。",
+      "fix_suggestion": "请根据策划案细化好感度增量配置，区分不同来源的增量值。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "拍照模式",
+      "problem_description": "策划案中滤镜列表为“清新”、“暖阳”、“复古”、“黑白”共4种，但数值说明书枚举中 filter_id 为1:清新, 2:复古, 3:黑白, 4:暖色，缺少“暖阳”且顺序不同。",
+      "fix_suggestion": "请统一滤镜名称和顺序，确保策划案与数值说明书一致。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "relations_and_enums.enum_definitions.filter_id",
+      "problem_description": "枚举中滤镜为“清新”、“复古”、“黑白”、“暖色”，但策划案中为“清新”、“暖阳”、“复古”、“黑白”，缺少“暖阳”且多出“暖色”。",
+      "fix_suggestion": "请与策划对齐滤镜列表，确保枚举与策划案完全匹配。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "互动热点系统",
+      "problem_description": "策划案中每个热点冷却时间为30秒，但数值配表中 cooldown_timer 的 base=30, growth=0，一致。但策划案中未提及冷却时间是否随好感度变化，而数值配表为固定值，需确认是否需动态调整。",
+      "fix_suggestion": "请明确冷却时间是否受好感度等级影响，若需动态调整，请补充公式。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "好感度系统",
+      "problem_description": "策划案中每日通过互动热点获得的好感度经验有上限200点，但数值配表和程序蓝图中均未定义该上限的配置字段。",
+      "fix_suggestion": "请在数值配表中增加每日互动好感度上限字段（如 daily_interaction_affection_cap），并在程序蓝图中引用。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、 后端逻辑划分 (Server)",
+      "problem_description": "程序蓝图中持久化数据未包含互动热点冷却时间字段（cooldown_timer），但该字段在数值说明书中定义且需要服务端校验。",
+      "fix_suggestion": "请在持久化数据中增加互动热点冷却时间相关字段，或明确冷却时间仅由客户端管理。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "纪念品系统",
+      "problem_description": "策划案中纪念品解锁条件包括好感度6级和小游戏成就，但数值说明书中 souvenir_fragment_count 与 minigame_system 联动，策划案未提及碎片合成机制，存在逻辑缺失。",
+      "fix_suggestion": "请补充纪念品碎片合成机制或移除碎片相关字段，确保策划案与数值说明书一致。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "field_dictionary.souvenir_fragment_count",
+      "problem_description": "数值说明书中 souvenir_fragment_count 描述为“纪念品碎片数量”，但策划案中纪念品为直接解锁，无碎片合成机制，存在功能不匹配。",
+      "fix_suggestion": "请与策划确认纪念品解锁方式，若为直接解锁则移除碎片相关字段，若为碎片合成则需在策划案中补充。"
+    }
+  ]
+}

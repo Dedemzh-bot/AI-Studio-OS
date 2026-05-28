@@ -382,5 +382,225 @@
     "base": "[]",
     "growth": 0,
     "type": "linear"
+  },
+  {
+    "affection_level": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "interaction_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "affection_increment": {
+      "base": 10,
+      "growth": 0,
+      "type": "linear"
+    },
+    "unlock_progress": {
+      "base": 0.0,
+      "growth": 0.1,
+      "type": "linear"
+    }
+  },
+  {
+    "hotspot_interaction_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "last_interaction_timestamp": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "affection_increment": {
+      "base": 10,
+      "growth": 0,
+      "type": "linear"
+    },
+    "cooldown_timer": {
+      "base": 30,
+      "growth": 0,
+      "type": "linear"
+    },
+    "unlock_affection_level_requirement": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "minigame_unlock_affection_level": {
+      "base": 0,
+      "growth": 3,
+      "type": "linear"
+    },
+    "daily_play_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "max_daily_play_count": {
+      "base": 3,
+      "growth": 0,
+      "type": "linear"
+    },
+    "score_record": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "highest_score": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "play_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "reward_experience": {
+      "base": 30,
+      "growth": 70,
+      "type": "linear"
+    },
+    "souvenir_fragment_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "affection_experience": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "affection_level": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "experience_to_next_level": {
+      "base": 100,
+      "growth": 100,
+      "type": "linear"
+    },
+    "special_event_trigger_level": {
+      "base": 5,
+      "growth": 3,
+      "type": "linear"
+    }
+  },
+  {
+    "story_unlock_affection_level_requirement": {
+      "base": 3,
+      "growth": 2,
+      "type": "linear"
+    },
+    "story_watch_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "first_watch_timestamp": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "souvenir_fragment_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "souvenir_synthesis_time": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "current_behavior_id": {
+      "base": 1,
+      "growth": 1,
+      "type": "linear"
+    },
+    "behavior_play_duration": {
+      "base": 0.0,
+      "growth": 1.0,
+      "type": "linear"
+    },
+    "behavior_trigger_probability": {
+      "base": 0.3,
+      "growth": 0.1,
+      "type": "linear"
+    },
+    "voice_trigger_probability": {
+      "base": 0.1,
+      "growth": 0.05,
+      "type": "linear"
+    }
+  },
+  {
+    "camera_zoom": {
+      "base": 1.0,
+      "growth": 0.5,
+      "type": "linear"
+    },
+    "selected_filter_id": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "selected_pose_id": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "selected_expression_id": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "screenshot_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "dlc_purchase_timestamp": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "character_unlock_status": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "skin_unlock_status": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "affection_reward_status": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "story_linkage_status": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
   }
 ]

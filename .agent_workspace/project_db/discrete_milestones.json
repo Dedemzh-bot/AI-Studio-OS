@@ -945,5 +945,205 @@
   },
   {
     "default": []
+  },
+  {
+    "dlc_purchase_status": {
+      "0": false,
+      "1": true
+    },
+    "character_ownership_status": {
+      "0": false,
+      "1": true
+    },
+    "room_loaded_flag": {
+      "0": false,
+      "1": true
+    },
+    "interaction_hotspot_active": {
+      "0": false,
+      "1": true
+    },
+    "exit_button_clicked": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "hotspot_unlocked_flag": {
+      "0": false,
+      "1": true
+    },
+    "hotspot_on_cooldown": {
+      "0": false,
+      "1": true
+    },
+    "character_behavior_interruptible": {
+      "0": false,
+      "1": true
+    },
+    "interaction_animation_playing": {
+      "0": false,
+      "1": true
+    },
+    "player_view_aligned": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "minigame_unlocked_flag": {
+      "0": false,
+      "1": true
+    },
+    "daily_play_limit_reached": {
+      "0": false,
+      "1": true
+    },
+    "minigame_loaded_flag": {
+      "0": false,
+      "1": true
+    },
+    "game_rule_shown": {
+      "0": false,
+      "1": true
+    },
+    "game_ended_flag": {
+      "0": false,
+      "1": true
+    },
+    "reward_claimed": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "affection_level_up_flag": {
+      "0": false,
+      "1": true
+    },
+    "special_event_triggered": {
+      "0": false,
+      "1": true
+    },
+    "affection_maxed_flag": {
+      "0": false,
+      "1": true
+    },
+    "reset_affection_flag": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "story_unlocked_flag": {
+      "0": false,
+      "1": true
+    },
+    "story_watched_flag": {
+      "0": false,
+      "1": true
+    },
+    "story_skip_flag": {
+      "0": false,
+      "1": true
+    },
+    "all_stories_unlocked_flag": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "souvenir_synthesized_flag": {
+      "0": false,
+      "1": true
+    },
+    "souvenir_placed_flag": {
+      "0": false,
+      "1": true
+    },
+    "souvenir_collected_flag": {
+      "0": false,
+      "1": true
+    },
+    "all_souvenirs_unlocked_flag": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "behavior_playing_flag": {
+      "0": false,
+      "1": true
+    },
+    "behavior_switching_flag": {
+      "0": false,
+      "1": true
+    },
+    "idle_timeout_flag": {
+      "0": false,
+      "1": true
+    },
+    "interaction_interrupted_flag": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "photo_mode_active_flag": {
+      "0": false,
+      "1": true
+    },
+    "screenshot_taken_flag": {
+      "0": false,
+      "1": true
+    },
+    "filter_changed_flag": {
+      "0": false,
+      "1": true
+    },
+    "pose_changed_flag": {
+      "0": false,
+      "1": true
+    },
+    "expression_changed_flag": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "dlc_purchased_flag": {
+      "0": false,
+      "1": true
+    },
+    "payment_success_flag": {
+      "0": false,
+      "1": true
+    },
+    "payment_failed_flag": {
+      "0": false,
+      "1": true
+    },
+    "dlc_refunded_flag": {
+      "0": false,
+      "1": true
+    }
+  },
+  {
+    "character_unlocked_flag": {
+      "0": false,
+      "1": true
+    },
+    "skin_unlocked_flag": {
+      "0": false,
+      "1": true
+    },
+    "affection_reward_claimed_flag": {
+      "0": false,
+      "1": true
+    },
+    "story_unlocked_in_main_game_flag": {
+      "0": false,
+      "1": true
+    }
   }
 ]

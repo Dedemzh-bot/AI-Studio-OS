@@ -1,6 +1,6 @@
 """
 Archivist Agent (知识库档案管理员)
-职责：从历史文档中提炼逻辑骨架 → 脱水去业务化 → 存入 Knowledge/ 红黑榜。
+职责：从历史文档中提炼逻辑骨架 → 脱水去业务化 → 存入 Knowledge/ 优秀案例与错误案例。
 用法：python Agents/archivist_agent.py <target_file> <anchor> <red|black> "<meta_comment>"
 """
 
@@ -13,13 +13,14 @@ import traceback
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(FILE_DIR)
-WORKSPACE_DIR = os.path.join(ROOT_DIR, ".agent_workspace")
+sys.path.insert(0, ROOT_DIR)
+WORKSPACE_DIR = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), ".agent_workspace")
 META_FILE = os.path.join(WORKSPACE_DIR, "project_meta.json")
 
 from Skills.llm_client import ask_llm
 
-BEST_DIR  = os.path.join(ROOT_DIR, "Knowledge", "best_practices")
-ANTI_DIR  = os.path.join(ROOT_DIR, "Knowledge", "anti_patterns")
+BEST_DIR  = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), "Knowledge", "best_practices")
+ANTI_DIR  = os.path.join(os.environ.get("AI_STUDIO_DATA_DIR", ROOT_DIR), "Knowledge", "anti_patterns")
 PROMPT_FILE = os.path.join(FILE_DIR, "prompts", "archivist_prompt.md")
 
 RED   = "\033[91m"
@@ -113,7 +114,7 @@ def main():
     user_prompt = (
         f"【归档评语】：{meta_comment}\n\n"
         f"【待提炼的文档片段】：\n\n{extracted_text}\n\n"
-        f"请按红榜规范提取逻辑骨架。（红榜=学习优秀范式, 黑榜=规避历史错误）"
+        f"请按优秀案例规范提取逻辑骨架。"
     )
 
     # ========== 4. 呼叫 LLM ==========
@@ -126,7 +127,7 @@ def main():
     # ========== 5. 命名空间继承 + 自动落盘 ==========
     ts = str(int(time.time()))
     safe_anchor = sanitize_filename(anchor)
-    label = "红榜" if list_type == "red" else "黑榜"
+    label = "优秀案例" if list_type == "red" else "错误案例"
 
     # 读取 project_meta.json 获取系统命名空间
     ns_prefix = ""
@@ -147,7 +148,17 @@ def main():
     filepath = os.path.join(target_dir, filename)
 
     with open(filepath, "w", encoding="utf-8") as f:
-        f.write(result.strip())
+        # 方案 2：错误案例由 Python 物理拼接原始文档，彻底杜绝大模型篡改
+        if list_type == "black":
+            appended_skeleton = (
+                f"\n\n#### 🦴 【失败脱水骨架 (原样保留)】 [读取优先级：Low]\n"
+                f"*(⚠️ 最高警告：以下为犯罪现场原貌，绝对不可作为正确格式参考！)*\n"
+                f"```text\n{extracted_text.strip()}\n```\n"
+            )
+            final_content = result.strip() + appended_skeleton
+        else:
+            final_content = result.strip()
+        f.write(final_content)
 
     print(f"{GRN}[Archivist] 记忆切片已归档: {filepath}{RESET}")
     print(f"[Archivist] 类别: {label} | 锚点: {anchor} | 大小: {len(result)} 字符")
