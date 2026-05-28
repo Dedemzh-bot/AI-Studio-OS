@@ -1145,5 +1145,181 @@
       "0": false,
       "1": true
     }
+  },
+  {
+    "local_token": {
+      "0": "",
+      "1": "valid_jwt_token"
+    },
+    "server_guest_id": {
+      "0": "",
+      "1": "uuid_v4"
+    },
+    "server_account_id": {
+      "0": "",
+      "1": "uuid_v4_or_integer"
+    },
+    "server_jwt_token": {
+      "0": "",
+      "1": "valid_jwt_token"
+    },
+    "server_error_code": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    }
+  },
+  {
+    "real_name_status": {
+      "0": 0,
+      "1": 1,
+      "2": 2
+    },
+    "identity_hash": {
+      "0": "",
+      "1": "sha256_hash_string"
+    },
+    "device_list": {
+      "0": [],
+      "1": [
+        {
+          "device_name": "iPhone 15 Pro",
+          "os": "iOS 18.0",
+          "last_login_time": 1700000000,
+          "ip_address": "192.168.1.1"
+        }
+      ]
+    },
+    "device_token_removed": {
+      "0": false,
+      "1": true
+    },
+    "password_hash": {
+      "0": "",
+      "1": "bcrypt_hash_string"
+    },
+    "verification_code_sent_at": {
+      "0": 0,
+      "1": 1700000000
+    },
+    "daily_real_name_attempts": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  {
+    "account_status": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    },
+    "deletion_initiated_at": {
+      "0": 0,
+      "1": 1700000000
+    },
+    "paid_currency_remaining": {
+      "0": 0,
+      "1": 100
+    },
+    "registration_time": {
+      "0": 0,
+      "1": 1700000000
+    },
+    "last_login_time": {
+      "0": 0,
+      "1": 1700000000
+    },
+    "binding_status": {
+      "0": {
+        "phone": false,
+        "email": false,
+        "wechat": false,
+        "qq": false,
+        "apple_id": false
+      },
+      "1": {
+        "phone": true,
+        "email": false,
+        "wechat": true,
+        "qq": false,
+        "apple_id": false
+      }
+    },
+    "real_name_verification_status": {
+      "0": 0,
+      "1": 1,
+      "2": 2
+    }
+  },
+  {
+    "guest_id": {
+      "0": "",
+      "1": "uuid_v4"
+    },
+    "formal_account_id": {
+      "0": "",
+      "1": "uuid_v4_or_integer"
+    },
+    "migration_status": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  {
+    "5": true
+  },
+  {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
+  },
+  {
+    "1": true
   }
 ]

@@ -3,240 +3,165 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "[角色房间系统] 该系统用于管理玩家在购买DLC后，为已拥有角色解锁专属3D房间，并在此房间内进行互动、小游戏、好感度培养、剧情解锁、纪念品收集、AI日常行为观察以及拍照等沉浸式体验。",
+      "system_summary": "[好友系统] 该系统用于管理玩家的社交关系，包括好友添加、删除、拉黑、好友列表展示、好友主页查看、赠送体力、点赞、助战借用等核心社交玩法，并关联友情点经济循环与商业化扩容。",
       "field_dictionary": {
-        "room_config_data": "【整数】角色房间的配置ID，用于加载家具摆放、纪念品位置、装饰颜色方案等。取值范围：1-9999。默认值：1。",
-        "furniture_layout": "【字符串】家具布局的JSON字符串，描述每个家具的位置、旋转和缩放。默认值：空JSON对象。",
-        "decoration_placement": "【字符串】装饰品摆放位置的JSON字符串，描述每个装饰品在房间内的坐标。默认值：空JSON对象。",
-        "affection_level": "【整数】当前角色的好感度等级，初始为0，上限为10。取值范围：0-10。默认值：0。",
-        "room_state": "【整数】房间当前状态枚举：0=未加载，1=加载中，2=已加载，3=互动中，4=小游戏中，5=拍照模式。默认值：0。",
-        "interaction_count": "【整数】玩家在当前房间内累计的互动次数。取值范围：0-99999。默认值：0。",
-        "affection_increment": "【整数】单次互动或小游戏后增加的好感度经验值。取值范围：0-100。默认值：0。",
-        "unlock_progress": "【浮点数】当前好感度等级内经验值进度百分比，0.0-1.0。默认值：0.0。",
-        "dlc_purchase_status": "【布尔值】玩家是否已购买“角色私人宿舍”DLC。true=已购买，false=未购买。默认值：false。",
-        "character_ownership_status": "【布尔值】玩家是否拥有该角色。true=拥有，false=未拥有。默认值：false。",
-        "room_loaded_flag": "【布尔值】房间是否已成功加载。true=已加载，false=未加载。默认值：false。",
-        "interaction_hotspot_active": "【布尔值】当前是否有互动热点处于高亮可交互状态。true=有，false=无。默认值：false。",
-        "exit_button_clicked": "【布尔值】玩家是否点击了退出按钮。true=已点击，false=未点击。默认值：false。",
-        "hotspot_interaction_count": "【整数】特定热点被交互的总次数。取值范围：0-9999。默认值：0。",
-        "last_interaction_timestamp": "【整数】上次互动的时间戳（Unix秒数）。取值范围：0-9999999999。默认值：0。",
-        "cooldown_timer": "【整数】热点冷却剩余秒数，用于每日次数限制。取值范围：0-86400。默认值：0。",
-        "unlock_affection_level_requirement": "【整数】解锁该热点所需的好感度等级。取值范围：0-10。默认值：0。",
-        "hotspot_unlocked_flag": "【布尔值】热点是否已解锁（好感度条件满足）。true=已解锁，false=未解锁。默认值：false。",
-        "hotspot_on_cooldown": "【布尔值】热点是否处于冷却状态（每日次数耗尽）。true=冷却中，false=可用。默认值：false。",
-        "character_behavior_interruptible": "【布尔值】角色当前AI行为是否可被互动打断。true=可打断，false=不可打断。默认值：true。",
-        "interaction_animation_playing": "【布尔值】是否正在播放互动动画。true=播放中，false=未播放。默认值：false。",
-        "player_view_aligned": "【布尔值】玩家视角是否已对齐到互动运镜。true=已对齐，false=未对齐。默认值：false。",
-        "minigame_unlock_affection_level": "【整数】解锁小游戏所需的好感度等级。取值范围：1-10。默认值：1。",
-        "daily_play_count": "【整数】小游戏今日已挑战次数。取值范围：0-3。默认值：0。",
-        "max_daily_play_count": "【整数】小游戏每日最大挑战次数，固定为3。默认值：3。",
-        "score_record": "【整数】最近一次小游戏的得分。取值范围：0-99999。默认值：0。",
-        "highest_score": "【整数】小游戏历史最高得分。取值范围：0-99999。默认值：0。",
-        "play_count": "【整数】小游戏累计游玩次数。取值范围：0-99999。默认值：0。",
-        "reward_experience": "【整数】小游戏结束后获得的好感度经验值。取值范围：0-100。默认值：0。",
-        "souvenir_fragment_count": "【整数】纪念品碎片数量，用于合成纪念品。取值范围：0-999。默认值：0。",
-        "minigame_unlocked_flag": "【布尔值】小游戏是否已解锁。true=已解锁，false=未解锁。默认值：false。",
-        "daily_play_limit_reached": "【布尔值】今日小游戏挑战次数是否已达上限。true=已达上限，false=未达上限。默认值：false。",
-        "minigame_loaded_flag": "【布尔值】小游戏场景是否已加载完成。true=已加载，false=未加载。默认值：false。",
-        "game_rule_shown": "【布尔值】小游戏规则说明是否已展示。true=已展示，false=未展示。默认值：false。",
-        "game_ended_flag": "【布尔值】小游戏是否已结束。true=已结束，false=进行中。默认值：false。",
-        "reward_claimed": "【布尔值】小游戏奖励是否已领取。true=已领取，false=未领取。默认值：false。",
-        "affection_experience": "【整数】当前累计的好感度经验值。取值范围：0-99999。默认值：0。",
-        "experience_to_next_level": "【整数】升到下一级所需的经验值。取值范围：0-99999。默认值：100。",
-        "unlock_content_list": "【字符串】已解锁内容的ID列表JSON字符串。默认值：空数组。",
-        "special_event_trigger_level": "【整数】触发特殊事件（如主游戏联动奖励）的好感度等级。取值范围：5,10。默认值：0。",
-        "affection_level_up_flag": "【布尔值】是否刚刚升级。true=已升级，false=未升级。默认值：false。",
-        "special_event_triggered": "【布尔值】特殊事件是否已触发。true=已触发，false=未触发。默认值：false。",
-        "affection_maxed_flag": "【布尔值】好感度是否已达满级（10级）。true=已满级，false=未满级。默认值：false。",
-        "reset_affection_flag": "【布尔值】好感度是否被重置（异常兜底）。true=已重置，false=未重置。默认值：false。",
-        "story_unlock_affection_level_requirement": "【整数】解锁剧情所需的好感度等级。取值范围：3,6,9。默认值：0。",
-        "story_unlock_minigame_achievement_requirement": "【整数】解锁剧情所需的小游戏成就ID。取值范围：0-999。默认值：0。",
-        "story_watch_count": "【整数】剧情片段已观看次数。取值范围：0-999。默认值：0。",
-        "first_watch_timestamp": "【整数】首次观看剧情的时间戳（Unix秒数）。取值范围：0-9999999999。默认值：0。",
-        "story_unlocked_flag": "【布尔值】剧情片段是否已解锁。true=已解锁，false=未解锁。默认值：false。",
-        "story_watched_flag": "【布尔值】剧情片段是否已观看。true=已观看，false=未观看。默认值：false。",
-        "story_skip_flag": "【布尔值】玩家是否跳过了剧情。true=已跳过，false=未跳过。默认值：false。",
-        "all_stories_unlocked_flag": "【布尔值】所有剧情是否已解锁。true=已全部解锁，false=未全部解锁。默认值：false。",
-        "souvenir_synthesis_time": "【整数】纪念品合成所需的时间（秒）。取值范围：0-3600。默认值：0。",
-        "souvenir_placement_position": "【字符串】纪念品在展示架上的摆放位置坐标JSON字符串。默认值：空对象。",
-        "souvenir_placement_rotation": "【字符串】纪念品在展示架上的摆放旋转角度JSON字符串。默认值：空对象。",
-        "souvenir_synthesized_flag": "【布尔值】纪念品是否已合成。true=已合成，false=未合成。默认值：false。",
-        "souvenir_placed_flag": "【布尔值】纪念品是否已摆放在展示架上。true=已摆放，false=未摆放。默认值：false。",
-        "souvenir_collected_flag": "【布尔值】纪念品是否已被收集（解锁）。true=已收集，false=未收集。默认值：false。",
-        "all_souvenirs_unlocked_flag": "【布尔值】所有纪念品是否已解锁。true=已全部解锁，false=未全部解锁。默认值：false。",
-        "current_behavior_id": "【整数】当前AI行为的ID。取值范围：0-99。默认值：0（空闲）。",
-        "behavior_play_duration": "【整数】当前行为已持续的时间（秒）。取值范围：0-99999。默认值：0。",
-        "behavior_trigger_probability": "【浮点数】触发特定行为的概率权重，0.0-1.0。默认值：0.5。",
-        "voice_trigger_probability": "【浮点数】触发随机语音的概率权重，0.0-1.0。默认值：0.3。",
-        "behavior_playing_flag": "【布尔值】当前是否有行为正在播放。true=播放中，false=未播放。默认值：false。",
-        "behavior_switching_flag": "【布尔值】行为是否正在切换中。true=切换中，false=未切换。默认值：false。",
-        "idle_timeout_flag": "【布尔值】是否因长时间无互动而触发了呼唤行为。true=已触发，false=未触发。默认值：false。",
-        "interaction_interrupted_flag": "【布尔值】AI行为是否被互动打断。true=已打断，false=未打断。默认值：false。",
-        "camera_position": "【字符串】拍照模式下相机位置的JSON字符串（x,y,z）。默认值：空对象。",
-        "camera_rotation": "【字符串】拍照模式下相机旋转的JSON字符串（pitch,yaw,roll）。默认值：空对象。",
-        "camera_zoom": "【浮点数】拍照模式下相机的缩放值。取值范围：0.1-10.0。默认值：1.0。",
-        "selected_filter_id": "【整数】当前选择的滤镜ID。取值范围：0-9。默认值：0（无滤镜）。",
-        "selected_pose_id": "【整数】当前选择的角色姿势ID。取值范围：0-9。默认值：0（默认站立）。",
-        "selected_expression_id": "【整数】当前选择的角色表情ID。取值范围：0-9。默认值：0（默认微笑）。",
-        "screenshot_count": "【整数】本次拍照模式中已截图次数。取值范围：0-999。默认值：0。",
-        "photo_mode_active_flag": "【布尔值】拍照模式是否激活。true=激活，false=未激活。默认值：false。",
-        "screenshot_taken_flag": "【布尔值】是否已截图。true=已截图，false=未截图。默认值：false。",
-        "filter_changed_flag": "【布尔值】滤镜是否已切换。true=已切换，false=未切换。默认值：false。",
-        "pose_changed_flag": "【布尔值】姿势是否已切换。true=已切换，false=未切换。默认值：false。",
-        "expression_changed_flag": "【布尔值】表情是否已切换。true=已切换，false=未切换。默认值：false。",
-        "dlc_purchase_timestamp": "【整数】DLC购买时间戳（Unix秒数）。取值范围：0-9999999999。默认值：0。",
-        "purchase_platform": "【整数】购买平台枚举：0=未知，1=iOS，2=Android，3=PC。默认值：0。",
-        "dlc_purchased_flag": "【布尔值】DLC是否已购买。true=已购买，false=未购买。默认值：false。",
-        "payment_success_flag": "【布尔值】支付是否成功。true=成功，false=失败。默认值：false。",
-        "payment_failed_flag": "【布尔值】支付是否失败。true=失败，false=未失败。默认值：false。",
-        "dlc_refunded_flag": "【布尔值】DLC是否已退款。true=已退款，false=未退款。默认值：false。",
-        "character_unlock_status": "【整数】角色解锁状态枚举：0=未解锁，1=已解锁。默认值：0。",
-        "skin_unlock_status": "【整数】皮肤解锁状态枚举：0=未解锁，1=已解锁。默认值：0。",
-        "affection_reward_status": "【整数】好感度联动奖励领取状态：0=未领取，1=已领取。默认值：0。",
-        "story_linkage_status": "【整数】剧情联动状态：0=未联动，1=已联动。默认值：0。",
-        "character_unlocked_flag": "【布尔值】角色是否已解锁。true=已解锁，false=未解锁。默认值：false。",
-        "skin_unlocked_flag": "【布尔值】皮肤是否已解锁。true=已解锁，false=未解锁。默认值：false。",
-        "affection_reward_claimed_flag": "【布尔值】好感度联动奖励是否已领取。true=已领取，false=未领取。默认值：false。",
-        "story_unlocked_in_main_game_flag": "【布尔值】剧情是否已在主游戏中解锁。true=已解锁，false=未解锁。默认值：false。"
+        "player_level": "【整数】玩家当前等级，用于判断好友系统解锁条件（>=10级解锁），取值范围1-100，默认值1。",
+        "friend_count": "【整数】玩家当前好友数量，取值范围0-50，默认值0。",
+        "friend_capacity": "【整数】玩家好友容量上限，初始值20，可通过扩容提升至50，默认值20。",
+        "friend_point": "【整数】玩家当前持有的友情点数量，用于在友情商店兑换商品，上限99999，默认值0。",
+        "daily_gift_count": "【整数】玩家今日已向好友赠送体力的次数，每日凌晨4:00重置，取值范围0-20（假设最多20个好友），默认值0。每次赠送体力后，发送方立即获得5友情点作为奖励。",
+        "daily_like_count": "【整数】玩家今日已向好友点赞的次数，每日凌晨4:00重置，取值范围0-20，默认值0。",
+        "daily_borrow_count": "【整数】玩家今日已借用好友助战的次数，每日凌晨4:00重置，取值范围0-5，默认值0。",
+        "daily_borrowed_count": "【整数】玩家今日被好友借用助战的次数，每日凌晨4:00重置，取值范围0-10，默认值0。",
+        "friend_application_count": "【整数】玩家今日已发送的好友申请次数，每日凌晨4:00重置，取值范围0-20，默认值0。",
+        "blacklist_count": "【整数】玩家当前黑名单中的玩家数量，取值范围0-100，默认值0。",
+        "friend_invite_count": "【整数】玩家已成功邀请的好友数量（邀请注册并达到特定等级），用于领取邀请奖励，取值范围0-999，默认值0。",
+        "friend_system_unlocked": "【布尔】好友系统是否已解锁，true表示已解锁，false表示未解锁，默认值false。",
+        "friend_capacity_expansion_count": "【整数】玩家已进行的好友位扩容次数（信用点扩容），每次增加5个好友位，共需6次（20→50），取值范围0-6，默认值0。",
+        "friend_capacity_expansion_item_used": "【布尔】玩家是否使用了数据金道具直接扩容至50人上限，true表示已使用，false表示未使用，默认值false。",
+        "friend_achievement_completed": "【布尔】玩家是否已完成所有好友相关成就，true表示已完成，false表示未完成，默认值false。",
+        "friend_application_expired": "【布尔】好友申请是否已过期（超过24小时未处理），true表示已过期，false表示未过期，默认值false。",
+        "friend_deleted": "【布尔】玩家是否已删除指定好友，true表示已删除，false表示未删除，默认值false。",
+        "friend_blocked": "【布尔】玩家是否已拉黑指定玩家，true表示已拉黑，false表示未拉黑，默认值false。",
+        "friend_unblocked": "【布尔】玩家是否已解除对指定玩家的拉黑，true表示已解除，false表示未解除，默认值false。",
+        "friend_borrow_used": "【布尔】玩家今日是否已使用过助战借用（用于UI置灰判断），true表示已使用，false表示未使用，默认值false。",
+        "friend_borrowed_reward_received": "【布尔】玩家是否已领取被借用助战的奖励（邮件通知），true表示已领取，false表示未领取，默认值false。",
+        "friend_gift_sent": "【布尔】玩家今日是否已向指定好友赠送过体力，true表示已赠送，false表示未赠送，默认值false。",
+        "friend_like_sent": "【布尔】玩家今日是否已向指定好友点过赞，true表示已点赞，false表示未点赞，默认值false。",
+        "friend_point_shop_item_purchased": "【布尔】玩家是否已购买友情商店中的指定商品（用于限购判断），true表示已购买，false表示未购买，默认值false。",
+        "friend_invite_reward_claimed": "【布尔】玩家是否已领取指定邀请奖励，true表示已领取，false表示未领取，默认值false。"
       },
       "relations_and_enums": {
-        "外键关系": {
-          "room_config_data": "引用自角色配置表，每个角色有唯一的room_config_id。",
-          "current_behavior_id": "引用自AI行为配置表，定义每个行为ID对应的动画、语音和移动路径。",
-          "selected_filter_id": "引用自滤镜配置表，定义滤镜ID对应的着色器参数。",
-          "selected_pose_id": "引用自姿势配置表，定义姿势ID对应的动画BlendTree。",
-          "selected_expression_id": "引用自表情配置表，定义表情ID对应的BlendShape权重。",
-          "story_unlock_minigame_achievement_requirement": "引用自小游戏成就配置表，定义成就ID对应的解锁条件。"
+        "跨表外键调用": {
+          "player_level": "引用自玩家基础属性表，用于解锁判断。",
+          "friend_borrow_used": "关联至战斗系统，战斗结束后根据助战角色存活状态更新友情点。",
+          "friend_gift_sent": "关联至邮件系统，赠送体力后向接收方发送邮件。",
+          "friend_like_sent": "关联至邮件系统，点赞后向接收方发送邮件。",
+          "friend_invite_reward_claimed": "关联至邮件系统，邀请奖励通过邮件发放。"
         },
         "状态码枚举": {
-          "room_state": "0=未加载, 1=加载中, 2=已加载, 3=互动中, 4=小游戏中, 5=拍照模式",
-          "purchase_platform": "0=未知, 1=iOS, 2=Android, 3=PC",
-          "character_unlock_status": "0=未解锁, 1=已解锁",
-          "skin_unlock_status": "0=未解锁, 1=已解锁",
-          "affection_reward_status": "0=未领取, 1=已领取",
-          "story_linkage_status": "0=未联动, 1=已联动"
+          "friend_system_unlocked": "true/false",
+          "friend_capacity_expansion_item_used": "true/false",
+          "friend_achievement_completed": "true/false",
+          "friend_application_expired": "true/false",
+          "friend_deleted": "true/false",
+          "friend_blocked": "true/false",
+          "friend_unblocked": "true/false",
+          "friend_borrow_used": "true/false",
+          "friend_borrowed_reward_received": "true/false",
+          "friend_gift_sent": "true/false",
+          "friend_like_sent": "true/false",
+          "friend_point_shop_item_purchased": "true/false",
+          "friend_invite_reward_claimed": "true/false"
         }
       },
-      "implementation_notes": "建议下游程序优先实现continuous_formulas中的公式计算逻辑，确保好感度经验值、升级阈值等数值动态生成。discrete_milestones用于处理特定等级触发的解锁事件。注意所有布尔型字段均以_flag结尾，便于识别。拍照模式的相机参数需支持实时插值。AI行为系统建议使用状态机实现，确保行为切换平滑。所有异常兜底逻辑需记录错误日志，并保证玩家体验不中断。"
+      "implementation_notes": "【下游执行建议】1. 所有每日重置字段（daily_*）需在每日凌晨4:00统一重置为0或false。2. 好友列表加载时需每30秒轮询在线状态。3. 助战角色数据需实时读取好友当前配置，每次进入助战选择界面时重新拉取。4. 赠送体力操作需先校验发送方体力是否>=5，以及接收方体力是否已达上限（9999）。5. 友情点上限为99999，超出部分无法获取。6. 好友申请每日上限20次，需在发送时校验。7. 扩容操作需校验货币是否充足，不足时弹出充值引导。8. 所有交互操作（赠送体力、点赞、助战）需处理网络异常回滚。"
     },
     "data": {
       "continuous_formulas": {
-        "affection_experience": {
+        "player_level": {
+          "base": 1,
+          "growth": 1,
+          "type": "linear"
+        },
+        "friend_count": {
           "base": 0,
-          "growth": 10,
+          "growth": 1,
           "type": "linear"
         },
-        "experience_to_next_level": {
-          "base": 100,
-          "growth": 200,
-          "type": "linear"
-        },
-        "affection_increment": {
-          "base": 10,
+        "friend_capacity": {
+          "base": 20,
           "growth": 5,
           "type": "linear"
         },
-        "unlock_progress": {
-          "base": 0.0,
-          "growth": 0.1,
-          "type": "linear"
-        },
-        "hotspot_interaction_count": {
+        "friend_point": {
           "base": 0,
           "growth": 1,
           "type": "linear"
         },
-        "cooldown_timer": {
-          "base": 86400,
-          "growth": 0,
-          "type": "linear"
-        },
-        "daily_play_count": {
+        "daily_gift_count": {
           "base": 0,
           "growth": 1,
           "type": "linear"
         },
-        "score_record": {
-          "base": 0,
-          "growth": 100,
-          "type": "linear"
-        },
-        "highest_score": {
-          "base": 0,
-          "growth": 200,
-          "type": "linear"
-        },
-        "play_count": {
+        "daily_like_count": {
           "base": 0,
           "growth": 1,
           "type": "linear"
         },
-        "reward_experience": {
-          "base": 10,
-          "growth": 20,
-          "type": "linear"
-        },
-        "souvenir_fragment_count": {
+        "daily_borrow_count": {
           "base": 0,
           "growth": 1,
           "type": "linear"
         },
-        "story_watch_count": {
+        "daily_borrowed_count": {
           "base": 0,
           "growth": 1,
           "type": "linear"
         },
-        "behavior_play_duration": {
+        "friend_application_count": {
           "base": 0,
           "growth": 1,
           "type": "linear"
         },
-        "screenshot_count": {
+        "blacklist_count": {
+          "base": 0,
+          "growth": 1,
+          "type": "linear"
+        },
+        "friend_invite_count": {
           "base": 0,
           "growth": 1,
           "type": "linear"
         }
       },
       "discrete_milestones": {
-        "affection_level": {
-          "1": {
-            "minigame_unlocked_flag": true,
-            "minigame_unlock_affection_level": 1
-          },
-          "3": {
-            "story_unlocked_flag": true,
-            "story_unlock_affection_level_requirement": 3
-          },
-          "5": {
-            "special_event_triggered": true,
-            "special_event_trigger_level": 5
-          },
-          "6": {
-            "souvenir_collected_flag": true,
-            "story_unlocked_flag": true,
-            "story_unlock_affection_level_requirement": 6
-          },
-          "9": {
-            "story_unlocked_flag": true,
-            "story_unlock_affection_level_requirement": 9
-          },
-          "10": {
-            "affection_maxed_flag": true,
-            "special_event_triggered": true,
-            "special_event_trigger_level": 10
-          }
+        "friend_system_unlocked": {
+          "10": true
         },
-        "daily_play_count": {
-          "3": {
-            "daily_play_limit_reached": true,
-            "hotspot_on_cooldown": true
-          }
+        "friend_capacity_expansion_count": {
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6
         },
-        "souvenir_fragment_count": {
-          "10": {
-            "souvenir_synthesized_flag": true,
-            "souvenir_collected_flag": true
-          }
+        "friend_capacity_expansion_item_used": {
+          "1": true
+        },
+        "friend_achievement_completed": {
+          "1": true
+        },
+        "friend_application_expired": {
+          "1": true
+        },
+        "friend_deleted": {
+          "1": true
+        },
+        "friend_blocked": {
+          "1": true
+        },
+        "friend_unblocked": {
+          "1": true
+        },
+        "friend_borrow_used": {
+          "1": true
+        },
+        "friend_borrowed_reward_received": {
+          "1": true
+        },
+        "friend_gift_sent": {
+          "1": true
+        },
+        "friend_like_sent": {
+          "1": true
+        },
+        "friend_point_shop_item_purchased": {
+          "1": true
+        },
+        "friend_invite_reward_claimed": {
+          "1": true
         }
       }
     }

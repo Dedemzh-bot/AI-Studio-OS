@@ -4,121 +4,170 @@
     {
       "responsible_agent": "system_planner",
       "target_file": "system_design_detail.md",
-      "anchor": "互动热点系统",
-      "problem_description": "策划案中互动热点每次触发增加好感度固定值+5点，但数值配表（continuous_formulas）中 interaction_hotspot_system 的 affection_increment 未定义，且数值说明书中 affection_increment 固定为10，与策划案+5矛盾。",
-      "fix_suggestion": "请确认互动热点每次触发增加的好感度经验值应为5还是10，并确保数值配表与策划案一致。"
+      "anchor": "二、核心规则与玩法机制 / 2.3 轻交互：赠送体力与点赞",
+      "problem_description": "策划案中描述赠送体力时，发送方扣除5点体力，但未明确发送方是否获得任何奖励（如友情点）。数值说明书和程序蓝图均未定义发送方赠送体力后的奖励。这导致逻辑不闭环，且与后续友情点获取规则（通过赠送体力获得5点/次）矛盾。",
+      "fix_suggestion": "请明确赠送体力后，发送方是否获得友情点奖励。如果获得，请补充说明奖励数值（如5点友情点），并确保与数值说明书中的`friend_point`获取逻辑一致。"
     },
     {
       "responsible_agent": "numerical_planner",
       "target_file": "system_numerical_docs.json",
-      "anchor": "field_dictionary.affection_increment",
-      "problem_description": "数值说明书中 affection_increment 描述为“每次互动增加的好感度经验值，固定为10”，但策划案中互动热点每次增加+5点，小游戏胜利+20、失败+5，存在冲突。",
-      "fix_suggestion": "请将 affection_increment 拆分为多个字段（如 hotspot_affection_increment、minigame_win_increment、minigame_lose_increment），或明确该字段仅适用于某一类互动。"
-    },
-    {
-      "responsible_agent": "numerical_planner",
-      "target_file": "system_numerical_docs.json",
-      "anchor": "field_dictionary.daily_play_count",
-      "problem_description": "数值说明书中 daily_play_count 的默认值为0，取值范围0-3，但策划案中每个小游戏每日可玩5次，且数值配表中 max_daily_play_count 固定为3，与策划案5次矛盾。",
-      "fix_suggestion": "请统一每日游玩次数为5次（策划案）或3次（数值配表），并同步修改数值说明书中的取值范围。"
-    },
-    {
-      "responsible_agent": "numerical_planner",
-      "target_file": "system_numerical_docs.json",
-      "anchor": "field_dictionary.experience_to_next_level",
-      "problem_description": "数值说明书中 experience_to_next_level 描述为“计算公式为当前等级*100”，但数值配表中 affection_system 的 experience_to_next_level 的 base=100, growth=100，公式为 100 + (level-1)*100，与描述不一致。",
-      "fix_suggestion": "请统一升级所需经验公式：若为当前等级*100（1级需100，2级需200...），则配表应为 base=100, growth=100；若为固定100+等级*100，则需修改描述。"
-    },
-    {
-      "responsible_agent": "system_planner",
-      "target_file": "system_design_detail.md",
-      "anchor": "小游戏系统",
-      "problem_description": "策划案中每日可玩5次，但数值配表中 max_daily_play_count 固定为3，且程序蓝图也引用3次，存在三方不一致。",
-      "fix_suggestion": "请确认每日游玩次数，并同步修改数值配表和程序蓝图中的对应配置。"
-    },
-    {
-      "responsible_agent": "system_planner",
-      "target_file": "system_design_detail.md",
-      "anchor": "好感度系统",
-      "problem_description": "策划案中好感度等级上限为10级，每级所需经验递增（如1级需100经验，10级需5000经验），但数值配表中 experience_to_next_level 为线性增长（base=100, growth=100），无法达到5000经验（10级时仅需1000经验）。",
-      "fix_suggestion": "请明确每级所需经验的具体数值或公式，确保与数值配表一致。"
-    },
-    {
-      "responsible_agent": "system_planner",
-      "target_file": "system_design_detail.md",
-      "anchor": "AI日常行为系统",
-      "problem_description": "策划案中行为列表包括：看书、发呆、做家务、哼歌、伸懒腰、玩手机、在窗边眺望，共7种行为。但数值说明书枚举中 behavior_id 包含1-8（8为睡觉），且程序蓝图未明确行为数量，存在不一致。",
-      "fix_suggestion": "请统一行为列表，确认是否包含“睡觉”行为（闲置超时触发），并在所有文档中保持一致。"
-    },
-    {
-      "responsible_agent": "numerical_planner",
-      "target_file": "system_numerical_docs.json",
-      "anchor": "relations_and_enums.enum_definitions.behavior_id",
-      "problem_description": "枚举中 behavior_id 包含8种行为（1-8），但策划案中仅列出7种，且缺少“走动”行为的描述（枚举中5为玩手机，6为伸懒腰，7为走动，8为睡觉），与策划案不一致。",
-      "fix_suggestion": "请与策划对齐行为列表，确保枚举与策划案完全匹配。"
+      "anchor": "field_dictionary / daily_gift_count",
+      "problem_description": "数值说明书中`daily_gift_count`描述为“玩家今日已赠送体力的次数”，但未定义发送方赠送体力后是否获得友情点，以及获得多少。这与策划案中“每日通过赠送体力（5点/次）获得友情点”的描述不一致。",
+      "fix_suggestion": "请在`field_dictionary`中增加一个字段（如`friend_point_from_gift`）或修改`daily_gift_count`的描述，明确每次赠送体力后发送方获得的友情点数量（如5点），并确保与策划案逻辑一致。"
     },
     {
       "responsible_agent": "tech_architect",
       "target_file": "tech_blueprint.md",
-      "anchor": "五、 数值与配置表挂载",
-      "problem_description": "程序蓝图中引用小游戏每日次数为3次（max_daily_play_count），但策划案中为5次，且数值配表中也为3次，但策划案是需求源头，需确认。",
-      "fix_suggestion": "请根据最终确认的每日次数（5次或3次）更新程序蓝图中的配置引用。"
-    },
-    {
-      "responsible_agent": "tech_architect",
-      "target_file": "tech_blueprint.md",
-      "anchor": "五、 数值与配置表挂载",
-      "problem_description": "程序蓝图中提到“好感度配置：affection_increment（固定10）”，但策划案中互动热点每次+5，小游戏胜利+20、失败+5，固定10与策划案矛盾。",
-      "fix_suggestion": "请根据策划案细化好感度增量配置，区分不同来源的增量值。"
+      "anchor": "三、后端逻辑划分 (Server) / 核心校验逻辑 / 赠送体力校验",
+      "problem_description": "程序蓝图中赠送体力校验逻辑未包含发送方获得友情点的处理。策划案中明确“每日通过赠送体力（5点/次）获得友情点”，但蓝图中的校验逻辑仅涉及体力扣除和邮件发送，未提及发送方友情点的增加。",
+      "fix_suggestion": "请在赠送体力校验逻辑中，增加发送方获得友情点的步骤（如5点），并更新`friend_point`字段。同时，确保`Friend_GiftStamina` API的返回参数或后续处理中包含此逻辑。"
     },
     {
       "responsible_agent": "system_planner",
       "target_file": "system_design_detail.md",
-      "anchor": "拍照模式",
-      "problem_description": "策划案中滤镜列表为“清新”、“暖阳”、“复古”、“黑白”共4种，但数值说明书枚举中 filter_id 为1:清新, 2:复古, 3:黑白, 4:暖色，缺少“暖阳”且顺序不同。",
-      "fix_suggestion": "请统一滤镜名称和顺序，确保策划案与数值说明书一致。"
+      "anchor": "二、核心规则与玩法机制 / 2.4 助战系统",
+      "problem_description": "策划案中助战系统描述“借用方通关后获得5点友情点”，但未明确如果助战角色死亡，借用方友情点奖励减半（2点）后，借出方是否仍获得10点友情点。这可能导致逻辑歧义。",
+      "fix_suggestion": "请明确助战角色死亡时，借出方的奖励是否受影响。建议补充说明：助战角色死亡仅影响借用方奖励，借出方仍获得10点友情点。"
     },
     {
       "responsible_agent": "numerical_planner",
       "target_file": "system_numerical_docs.json",
-      "anchor": "relations_and_enums.enum_definitions.filter_id",
-      "problem_description": "枚举中滤镜为“清新”、“复古”、“黑白”、“暖色”，但策划案中为“清新”、“暖阳”、“复古”、“黑白”，缺少“暖阳”且多出“暖色”。",
-      "fix_suggestion": "请与策划对齐滤镜列表，确保枚举与策划案完全匹配。"
-    },
-    {
-      "responsible_agent": "system_planner",
-      "target_file": "system_design_detail.md",
-      "anchor": "互动热点系统",
-      "problem_description": "策划案中每个热点冷却时间为30秒，但数值配表中 cooldown_timer 的 base=30, growth=0，一致。但策划案中未提及冷却时间是否随好感度变化，而数值配表为固定值，需确认是否需动态调整。",
-      "fix_suggestion": "请明确冷却时间是否受好感度等级影响，若需动态调整，请补充公式。"
-    },
-    {
-      "responsible_agent": "system_planner",
-      "target_file": "system_design_detail.md",
-      "anchor": "好感度系统",
-      "problem_description": "策划案中每日通过互动热点获得的好感度经验有上限200点，但数值配表和程序蓝图中均未定义该上限的配置字段。",
-      "fix_suggestion": "请在数值配表中增加每日互动好感度上限字段（如 daily_interaction_affection_cap），并在程序蓝图中引用。"
+      "anchor": "field_dictionary / daily_borrowed_count",
+      "problem_description": "数值说明书中`daily_borrowed_count`描述为“玩家今日助战被借用的次数”，取值范围0-10，但未定义借出方每次获得的友情点数量（10点）。这与策划案中“借出方通过邮件获得10点友情点”的描述不一致。",
+      "fix_suggestion": "请在`field_dictionary`中增加一个字段（如`friend_point_from_borrowed`）或修改`daily_borrowed_count`的描述，明确每次被借用后借出方获得的友情点数量（如10点），并确保与策划案逻辑一致。"
     },
     {
       "responsible_agent": "tech_architect",
       "target_file": "tech_blueprint.md",
-      "anchor": "三、 后端逻辑划分 (Server)",
-      "problem_description": "程序蓝图中持久化数据未包含互动热点冷却时间字段（cooldown_timer），但该字段在数值说明书中定义且需要服务端校验。",
-      "fix_suggestion": "请在持久化数据中增加互动热点冷却时间相关字段，或明确冷却时间仅由客户端管理。"
+      "anchor": "三、后端逻辑划分 (Server) / 核心校验逻辑 / 助战借用校验",
+      "problem_description": "程序蓝图中助战借用校验逻辑未包含借出方获得友情点的处理。策划案中明确“借出方通过邮件获得10点友情点”，但蓝图中的校验逻辑仅涉及借用次数更新，未提及借出方友情点的增加。",
+      "fix_suggestion": "请在助战借用校验逻辑中，增加借出方获得友情点的步骤（如10点），并更新`friend_point`字段。同时，确保`Friend_ConfirmAssist` API的返回参数或后续处理中包含此逻辑。"
     },
     {
       "responsible_agent": "system_planner",
       "target_file": "system_design_detail.md",
-      "anchor": "纪念品系统",
-      "problem_description": "策划案中纪念品解锁条件包括好感度6级和小游戏成就，但数值说明书中 souvenir_fragment_count 与 minigame_system 联动，策划案未提及碎片合成机制，存在逻辑缺失。",
-      "fix_suggestion": "请补充纪念品碎片合成机制或移除碎片相关字段，确保策划案与数值说明书一致。"
+      "anchor": "二、核心规则与玩法机制 / 2.5 友情点与商店",
+      "problem_description": "策划案中描述“每日通过赠送体力（5点/次）、点赞（2点/次）、助战被借用（10点/次）获得，每日上限约50-100点”，但未明确每日上限的具体计算方式。例如，是否所有交互共享一个上限，还是各自独立上限？这可能导致数值实现不明确。",
+      "fix_suggestion": "请明确每日友情点获取上限的计算方式。建议说明：每日通过赠送体力、点赞、助战被借用获得的友情点总和上限为100点，或分别设置上限（如赠送体力50点、点赞20点、助战被借用100点）。"
     },
     {
       "responsible_agent": "numerical_planner",
       "target_file": "system_numerical_docs.json",
-      "anchor": "field_dictionary.souvenir_fragment_count",
-      "problem_description": "数值说明书中 souvenir_fragment_count 描述为“纪念品碎片数量”，但策划案中纪念品为直接解锁，无碎片合成机制，存在功能不匹配。",
-      "fix_suggestion": "请与策划确认纪念品解锁方式，若为直接解锁则移除碎片相关字段，若为碎片合成则需在策划案中补充。"
+      "anchor": "field_dictionary / friend_point",
+      "problem_description": "数值说明书中`friend_point`描述为“玩家当前持有的友情点数量”，但未定义每日获取上限。这与策划案中“每日上限约50-100点”的描述不一致，可能导致玩家无限获取友情点。",
+      "fix_suggestion": "请在`field_dictionary`中增加一个字段（如`daily_friend_point_limit`），定义每日友情点获取上限（如100点），并确保与策划案逻辑一致。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) / 核心校验逻辑 / 每日重置逻辑",
+      "problem_description": "程序蓝图中每日重置逻辑未包含`daily_friend_point_limit`或类似字段的重置。如果策划案中定义了每日友情点获取上限，则需要在每日重置时重置该上限的计数。",
+      "fix_suggestion": "请在每日重置逻辑中，增加对每日友情点获取上限计数的重置（如`daily_friend_point_earned`字段重置为0），确保玩家每日可重新获取友情点。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "二、核心规则与玩法机制 / 2.2 好友管理 / 推荐列表",
+      "problem_description": "策划案中描述推荐列表“根据玩家等级（±5级）、在线状态、助战角色强度（总战力评分）生成”，但未明确“助战角色强度”的具体计算方式（如总战力评分是否包含武器、后勤等）。这可能导致推荐算法实现不明确。",
+      "fix_suggestion": "请明确“助战角色强度”的计算方式，例如：总战力评分 = 角色基础战力 + 武器战力 + 后勤小队战力。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "field_dictionary / friend_capacity_expansion_count",
+      "problem_description": "数值说明书中`friend_capacity_expansion_count`描述为“取值范围0-6”，但策划案中描述“最多扩容至50人上限”，初始容量20，每次扩容+5，最多扩容6次（20+6*5=50）。但数值配表中`friend_capacity_expansion_count`的离散里程碑仅定义了0-6，未定义每次扩容对应的容量值。这可能导致扩容逻辑不完整。",
+      "fix_suggestion": "请在`discrete_milestones`中增加`friend_capacity`的离散里程碑，明确每次扩容后的容量值（如0:20, 1:25, 2:30, 3:35, 4:40, 5:45, 6:50），确保与策划案逻辑一致。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) / 核心校验逻辑 / 好友扩容校验",
+      "problem_description": "程序蓝图中好友扩容校验逻辑仅校验`friend_capacity_expansion_count < 6`，但未校验扩容后的容量是否超过50。虽然逻辑上6次扩容后容量为50，但未明确校验容量上限，可能导致数据溢出。",
+      "fix_suggestion": "请在好友扩容校验逻辑中，增加对扩容后容量是否超过50的校验（如`friend_capacity + 5 <= 50`），确保数据一致性。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "二、核心规则与玩法机制 / 2.4 助战系统 / 借用流程",
+      "problem_description": "策划案中描述“系统调用`Friend_ConfirmAssist`接口，返回`assist_role_data`”，但未明确该接口是否在每次进入战斗前调用。程序蓝图中描述“助战借用流程需在进入战斗前重新拉取好友最新助战数据”，但策划案中未明确说明。这可能导致实现不一致。",
+      "fix_suggestion": "请明确`Friend_ConfirmAssist`接口的调用时机，例如：每次进入战斗前必须调用该接口，以确保助战数据是最新的。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) / 核心校验逻辑 / 助战借用校验",
+      "problem_description": "程序蓝图中助战借用校验逻辑包含“校验好友是否仍设置了助战角色”，但未明确如果好友未设置助战角色，是否返回错误码。策划案中描述“若好友已更换，则提示‘该好友已更换助战角色，请重新选择’”，但蓝图中的校验逻辑未包含此错误码。",
+      "fix_suggestion": "请在助战借用校验逻辑中，增加对好友是否设置助战角色的校验，并返回相应的错误码（如`friend_borrow_result`枚举中的2：好友已更换助战角色）。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "四、经济循环与商业化埋点 / 好友邀请奖励",
+      "problem_description": "策划案中描述“邀请好友注册并达到20级，邀请者获得限定头像框、100数据金”，但未明确是否每个被邀请者达到20级时，邀请者都能获得奖励，还是仅限首次。程序蓝图中描述“校验邀请者是否已领取过该被邀请者的奖励”，暗示每个被邀请者独立计算，但策划案中未明确。",
+      "fix_suggestion": "请明确邀请奖励的发放规则：是每个被邀请者达到20级时，邀请者都能获得一次奖励，还是仅限首次邀请成功？建议补充说明。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "field_dictionary / friend_invite_reward_claimed",
+      "problem_description": "数值说明书中`friend_invite_reward_claimed`描述为“标记玩家是否已领取过邀请奖励”，但未明确是针对单个被邀请者还是全局。程序蓝图中描述“校验邀请者是否已领取过该被邀请者的奖励”，暗示是针对单个被邀请者，但数值说明书中的布尔字段无法区分多个被邀请者。",
+      "fix_suggestion": "请修改`friend_invite_reward_claimed`为数组或字典结构，存储每个被邀请者ID及其奖励领取状态，确保与程序蓝图逻辑一致。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) / 核心校验逻辑 / 邀请奖励校验",
+      "problem_description": "程序蓝图中邀请奖励校验逻辑包含“校验邀请者`friend_invite_reward_claimed`是否为false（针对该被邀请者）”，但数值说明书中的`friend_invite_reward_claimed`是布尔字段，无法针对单个被邀请者进行校验。这可能导致实现与数据模型不匹配。",
+      "fix_suggestion": "请修改邀请奖励校验逻辑，使用数组或字典结构存储每个被邀请者的奖励领取状态，并针对每个被邀请者独立校验。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "三、表现层与角色展示联动 (核心强制项) / 好友列表卡片",
+      "problem_description": "策划案中描述“每个好友卡片展示其看板娘3D模型缩略图（半身，带动态呼吸/待机动作）”，但未明确是否所有好友卡片都加载3D模型，还是仅在线好友。这可能导致性能问题，尤其是好友数量较多时。",
+      "fix_suggestion": "请明确好友卡片3D模型的加载策略，例如：仅在线好友加载3D模型，离线好友使用静态头像，或所有好友都加载但使用LOD降级。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "二、前端模块划分 (Client) / 表现层控制器 / 3D模型加载管理器",
+      "problem_description": "程序蓝图中3D模型加载管理器描述“实现LOD自动降级”，但未明确降级策略（如根据设备性能或好友数量）。策划案中未明确降级策略，可能导致实现不一致。",
+      "fix_suggestion": "请明确LOD降级策略，例如：根据设备性能自动降级，或根据好友列表中的好友数量动态调整模型精度。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "五、旧系统与数据联动 (强依赖) / 邮件系统",
+      "problem_description": "策划案中描述“邮件系统支持‘一键领取’所有好友相关奖励”，但未明确“一键领取”的具体实现方式（如是否领取所有邮件奖励，还是仅好友相关）。程序蓝图中未提及“一键领取”功能。",
+      "fix_suggestion": "请明确“一键领取”功能的范围：是领取所有邮件奖励，还是仅好友相关奖励？建议补充说明，并确保程序蓝图实现此功能。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、前后端通信协议 (API & 数据对接)",
+      "problem_description": "程序蓝图中未定义`Friend_GetAllData` API的返回参数中是否包含`friend_application_count`字段。策划案中描述“主界面社交按钮出现小红点提示（有待处理申请或可领取友情点奖励时）”，但蓝图中的API未返回待处理申请数量，可能导致小红点无法正确显示。",
+      "fix_suggestion": "请在`Friend_GetAllData` API的返回参数中增加`friend_application_count`字段，用于前端判断小红点显示。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、前后端通信协议 (API & 数据对接)",
+      "problem_description": "程序蓝图中未定义`Friend_GetAllData` API的返回参数中是否包含`friend_point`字段。策划案中描述“可领取友情点奖励时”显示小红点，但蓝图中的API未返回友情点数据，可能导致小红点无法正确显示。",
+      "fix_suggestion": "请在`Friend_GetAllData` API的返回参数中增加`friend_point`字段，用于前端判断是否可领取友情点奖励。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "二、核心规则与玩法机制 / 2.4 助战系统 / 借用流程",
+      "problem_description": "策划案中描述“系统打开好友列表，仅展示已设置助战角色的好友，并按助战角色战力排序”，但未明确“助战角色战力”的计算方式。程序蓝图中也未定义排序规则。",
+      "fix_suggestion": "请明确“助战角色战力”的计算方式，例如：使用`assist_role_data`中的角色等级、技能等级、武器、后勤小队配置计算总战力，并按此排序。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、前后端通信协议 (API & 数据对接) / Friend_GetAssistList",
+      "problem_description": "程序蓝图中`Friend_GetAssistList` API的返回参数包含`assist_list`，但未明确是否包含排序后的顺序。策划案中要求按助战角色战力排序，但蓝图中的API未定义排序规则。",
+      "fix_suggestion": "请在`Friend_GetAssistList` API的返回参数中明确排序规则，例如：返回的`assist_list`已按助战角色战力降序排列。"
     }
   ]
 }

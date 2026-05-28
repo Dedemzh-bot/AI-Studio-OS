@@ -602,5 +602,61 @@
       "growth": 1,
       "type": "linear"
     }
+  },
+  {},
+  {
+    "base": 1,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 20,
+    "growth": 5,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 240,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
   }
 ]

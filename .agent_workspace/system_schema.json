@@ -1,168 +1,34 @@
 [
   {
-    "module_name": "character_room_system",
+    "module_name": "friend_system",
     "continuous_fields": [
-      "room_config_data",
-      "furniture_layout",
-      "decoration_placement",
-      "affection_level",
-      "room_state",
-      "interaction_count",
-      "affection_increment",
-      "unlock_progress"
+      "player_level",
+      "friend_count",
+      "friend_capacity",
+      "friend_point",
+      "daily_gift_count",
+      "daily_like_count",
+      "daily_borrow_count",
+      "daily_borrowed_count",
+      "friend_application_count",
+      "blacklist_count",
+      "friend_invite_count"
     ],
     "discrete_fields": [
-      "dlc_purchase_status",
-      "character_ownership_status",
-      "room_loaded_flag",
-      "interaction_hotspot_active",
-      "exit_button_clicked"
-    ]
-  },
-  {
-    "module_name": "interaction_hotspot_system",
-    "continuous_fields": [
-      "hotspot_interaction_count",
-      "last_interaction_timestamp",
-      "affection_increment",
-      "cooldown_timer",
-      "unlock_affection_level_requirement"
-    ],
-    "discrete_fields": [
-      "hotspot_unlocked_flag",
-      "hotspot_on_cooldown",
-      "character_behavior_interruptible",
-      "interaction_animation_playing",
-      "player_view_aligned"
-    ]
-  },
-  {
-    "module_name": "minigame_system",
-    "continuous_fields": [
-      "minigame_unlock_affection_level",
-      "daily_play_count",
-      "max_daily_play_count",
-      "score_record",
-      "highest_score",
-      "play_count",
-      "reward_experience",
-      "souvenir_fragment_count"
-    ],
-    "discrete_fields": [
-      "minigame_unlocked_flag",
-      "daily_play_limit_reached",
-      "minigame_loaded_flag",
-      "game_rule_shown",
-      "game_ended_flag",
-      "reward_claimed"
-    ]
-  },
-  {
-    "module_name": "affection_system",
-    "continuous_fields": [
-      "affection_experience",
-      "affection_level",
-      "experience_to_next_level",
-      "unlock_content_list",
-      "special_event_trigger_level"
-    ],
-    "discrete_fields": [
-      "affection_level_up_flag",
-      "special_event_triggered",
-      "affection_maxed_flag",
-      "reset_affection_flag"
-    ]
-  },
-  {
-    "module_name": "story_unlock_system",
-    "continuous_fields": [
-      "story_unlock_affection_level_requirement",
-      "story_unlock_minigame_achievement_requirement",
-      "story_watch_count",
-      "first_watch_timestamp"
-    ],
-    "discrete_fields": [
-      "story_unlocked_flag",
-      "story_watched_flag",
-      "story_skip_flag",
-      "all_stories_unlocked_flag"
-    ]
-  },
-  {
-    "module_name": "souvenir_system",
-    "continuous_fields": [
-      "souvenir_fragment_count",
-      "souvenir_synthesis_time",
-      "souvenir_placement_position",
-      "souvenir_placement_rotation"
-    ],
-    "discrete_fields": [
-      "souvenir_synthesized_flag",
-      "souvenir_placed_flag",
-      "souvenir_collected_flag",
-      "all_souvenirs_unlocked_flag"
-    ]
-  },
-  {
-    "module_name": "ai_daily_behavior_system",
-    "continuous_fields": [
-      "current_behavior_id",
-      "behavior_play_duration",
-      "behavior_trigger_probability",
-      "voice_trigger_probability"
-    ],
-    "discrete_fields": [
-      "behavior_playing_flag",
-      "behavior_switching_flag",
-      "idle_timeout_flag",
-      "interaction_interrupted_flag"
-    ]
-  },
-  {
-    "module_name": "photo_mode_system",
-    "continuous_fields": [
-      "camera_position",
-      "camera_rotation",
-      "camera_zoom",
-      "selected_filter_id",
-      "selected_pose_id",
-      "selected_expression_id",
-      "screenshot_count"
-    ],
-    "discrete_fields": [
-      "photo_mode_active_flag",
-      "screenshot_taken_flag",
-      "filter_changed_flag",
-      "pose_changed_flag",
-      "expression_changed_flag"
-    ]
-  },
-  {
-    "module_name": "payment_and_unlock_system",
-    "continuous_fields": [
-      "dlc_purchase_timestamp",
-      "purchase_platform"
-    ],
-    "discrete_fields": [
-      "dlc_purchased_flag",
-      "payment_success_flag",
-      "payment_failed_flag",
-      "dlc_refunded_flag"
-    ]
-  },
-  {
-    "module_name": "data_linkage_system",
-    "continuous_fields": [
-      "character_unlock_status",
-      "skin_unlock_status",
-      "affection_reward_status",
-      "story_linkage_status"
-    ],
-    "discrete_fields": [
-      "character_unlocked_flag",
-      "skin_unlocked_flag",
-      "affection_reward_claimed_flag",
-      "story_unlocked_in_main_game_flag"
+      "friend_system_unlocked",
+      "friend_capacity_expansion_count",
+      "friend_capacity_expansion_item_used",
+      "friend_achievement_completed",
+      "friend_application_expired",
+      "friend_deleted",
+      "friend_blocked",
+      "friend_unblocked",
+      "friend_borrow_used",
+      "friend_borrowed_reward_received",
+      "friend_gift_sent",
+      "friend_like_sent",
+      "friend_point_shop_item_purchased",
+      "friend_invite_reward_claimed"
     ]
   }
 ]

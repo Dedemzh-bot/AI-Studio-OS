@@ -30,15 +30,20 @@ def main():
         os.startfile(URL) if sys.platform == "win32" else webbrowser.open(URL)
         input("Press Enter to exit (server stays running)..."); return
 
-    # 用当前 Python 环境（确保安装了 fastapi/uvicorn）
-    python_exe = sys.executable
+    # Use system Python (not sys.executable which is the EXE itself when frozen)
+    python_cmd = "python"
+    try:
+        r = subprocess.run(["py", "-3", "--version"], capture_output=True, timeout=3,
+                           creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0)
+        if r.returncode == 0: python_cmd = "py"
+    except Exception: pass
 
     env = os.environ.copy()
     env["PYTHONIOENCODING"] = "utf-8"
     proc = subprocess.Popen(
-        [python_exe, "-m", "uvicorn", "server:app", "--host", "0.0.0.0", "--port", str(PORT), "--log-level", "warning"],
+        [python_cmd, "-m", "uvicorn", "server:app", "--host", "0.0.0.0", "--port", str(PORT), "--log-level", "warning"],
         cwd=ROOT_DIR, env=env,
-        stdout=subprocess.DEVNULL, stderr=subprocess.PIPE,
+        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
         creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
     )
     print("Starting server...")
@@ -57,15 +62,10 @@ def main():
             except: proc.kill()
             print("Server stopped."); return
 
-    print("ERROR: Server failed to start. Checking logs...")
+    print("ERROR: Server failed to start after 10 seconds.")
     proc.terminate()
     try: proc.wait(timeout=3)
     except: proc.kill()
-    time.sleep(1)
-    if proc.stderr:
-        err = proc.stderr.read().decode("utf-8", errors="replace")
-        if err:
-            print(f"Server error log:\n{err.strip()}")
     input("Press Enter to exit...")
 
 if __name__ == "__main__": main()

@@ -685,3 +685,339 @@
 - 问题描述: 数值说明书中 souvenir_fragment_count 描述为“纪念品碎片数量”，但策划案中纪念品为直接解锁，无碎片合成机制，存在功能不匹配。
 - 修改建议: 请与策划确认纪念品解锁方式，若为直接解锁则移除碎片相关字段，若为碎片合成则需在策划案中补充。
 **当前审查总计问题:** 17 个
+
+--- 审查时间: 2026-05-29 00:38:45 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 安全验证 - 密码修改/找回
+- 问题描述: 策划案中密码找回流程描述为：输入绑定的手机号或邮箱，接收验证码，输入新密码。但未明确说明找回密码时是否需要先验证账号是否存在，以及验证码发送的目标（手机号/邮箱）与账号绑定状态的关系。
+- 修改建议: 建议补充说明：找回密码时，系统应首先校验输入的手机号/邮箱是否已绑定账号，若未绑定则提示“该账号未绑定此手机号/邮箱”。同时明确验证码发送的目标是输入的手机号/邮箱，而非账号绑定的默认联系方式。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.3 账号状态管理 - 账号注销
+- 问题描述: 策划案中账号注销流程提到“第二层验证：输入绑定手机号/邮箱收到的验证码”，但未说明如果账号同时绑定了手机号和邮箱，验证码发送到哪个。也未说明如果账号未绑定任何手机号或邮箱，如何完成验证。
+- 修改建议: 建议补充：若账号同时绑定了手机号和邮箱，默认发送验证码到手机号，并提供切换选项。若账号未绑定任何手机号或邮箱，则无法发起注销，需先完成绑定。
+### Issue 3
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.1 账号创建与登录 - 游客模式
+- 问题描述: 策划案中游客模式描述为“允许玩家进入游戏体验前30分钟内容”，但未明确30分钟是累计游戏时间还是从首次登录开始计算的绝对时间。这会影响程序实现。
+- 修改建议: 建议明确：30分钟为累计游戏时间（即玩家实际在游戏中的时间），还是从首次登录开始计算的绝对时间（即现实时间30分钟）。建议采用累计游戏时间，并说明计时器在后台运行时的处理逻辑。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary - server_error_code
+- 问题描述: 数值说明书中 `server_error_code` 的枚举值中，错误码7定义为“账号冻结”，但策划案中并未明确提及“账号冻结”状态的具体触发条件和处理流程，仅在边界与异常兜底中简单提到“账号处于冻结状态：无法发起注销。需先解冻。”。
+- 修改建议: 建议在策划案中补充账号冻结的完整触发条件（如：多次密码错误、安全风险检测等）和解冻流程，或者在数值说明书中移除该错误码，确保一致性。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary - real_name_verification_status
+- 问题描述: 数值说明书中存在 `real_name_verification_status` 字段，其描述为“与real_name_status同步”，但 `real_name_status` 已存在且功能相同。这造成了字段冗余，可能导致数据不一致。
+- 修改建议: 建议删除 `real_name_verification_status` 字段，统一使用 `real_name_status` 表示实名认证状态，避免数据冗余和同步问题。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary - binding_status
+- 问题描述: 数值说明书中 `binding_status` 字段的默认值为 `{phone: false, email: false, wechat: false, qq: false, apple_id: false}`，但策划案中未明确第三方平台是否包含“Apple ID”，仅在登录方式中提及。
+- 修改建议: 建议在策划案中明确第三方平台列表是否包含Apple ID，并确保与数值说明书一致。如果包含，建议在策划案中明确列出。
+### Issue 7
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、 后端逻辑划分 (Server) - 核心校验逻辑 - 验证码发送校验
+- 问题描述: 程序蓝图中验证码发送频率限制描述为“频繁发送（如24小时内超过10次）临时封禁24小时”，但数值说明书和策划案中均未定义“频繁发送”的具体阈值（10次）。数值说明书中的 `verification_code_frequency_limit` 在程序蓝图中有提及，但未在数值配表中明确列出。
+- 修改建议: 建议在数值配表 `discrete_milestones` 中增加 `verification_code_frequency_limit` 字段，明确24小时内允许的最大发送次数（如10次），并确保与程序蓝图一致。
+### Issue 8
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接) - POST /api/auth/guest-to-formal
+- 问题描述: 程序蓝图中游客转正API `POST /api/auth/guest-to-formal` 的请求参数包含 `formal_account_id` 和 `formal_jwt_token`，但策划案中游客转正流程描述为“系统引导玩家完成注册或登录”，并未明确说明前端需要传递正式账号ID和Token。这可能导致前端实现与后端接口不匹配。
+- 修改建议: 建议明确游客转正流程：前端在玩家完成正式登录后，将游客ID和正式登录返回的JWT Token一起发送给后端，后端根据JWT Token解析出正式账号ID，无需前端传递 `formal_account_id`。
+### Issue 9
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接) - POST /api/auth/real-name-verify
+- 问题描述: 程序蓝图中实名认证API `POST /api/auth/real-name-verify` 的请求参数包含 `id_number_hash`，但策划案中描述为“系统将信息加密后发送至公安实名认证接口”，未明确前端是否需要对身份证号进行哈希处理。
+- 修改建议: 建议明确：前端是否需要对身份证号进行哈希处理后再传输，还是直接传输加密后的明文。如果前端需要哈希，需统一哈希算法（如SHA-256），并确保与后端一致。
+### Issue 10
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接) - POST /api/auth/initiate-deletion
+- 问题描述: 程序蓝图中账号注销API `POST /api/auth/initiate-deletion` 的请求参数包含 `verification_code`，但策划案中账号注销流程描述为“输入绑定手机号/邮箱收到的验证码”，未说明验证码的发送时机和方式。
+- 修改建议: 建议明确：前端在调用注销API前，应先调用发送验证码API，将验证码发送到玩家绑定的手机号或邮箱，然后再调用注销API并传入验证码。
+**当前审查总计问题:** 10 个
+
+--- 审查时间: 2026-05-29 00:45:00 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.1 账号创建与登录 - 游客模式
+- 问题描述: 策划案中游客Token有效期为30分钟（1800秒），但程序蓝图（tech_blueprint.md）中数值配置挂载部分明确从continuous_formulas读取默认值1800秒，而数值配表（data.json）中continuous_formulas为空对象，未定义该关键数值。
+- 修改建议: 请在数值配表（data.json）的continuous_formulas中补充游客Token有效期的配置项，例如"guest_token_ttl": 1800，并确保程序蓝图中的读取路径与此一致。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 账号创建与登录 - 注册与登录
+- 问题描述: 策划案中密码规则为8-20位，必须包含大小写字母和数字，但数值配表（data.json）的discrete_milestones中未定义密码长度与复杂度规则相关的字段，程序蓝图（tech_blueprint.md）却声称从discrete_milestones读取这些规则。
+- 修改建议: 请在数值配表（data.json）的discrete_milestones中补充密码规则配置，例如在account_creation_login下添加"password_min_length": 8, "password_max_length": 20, "password_require_uppercase": true, "password_require_lowercase": true, "password_require_digit": true等字段。
+### Issue 3
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.3 安全验证 - 实名认证
+- 问题描述: 策划案中实名认证触发条件包含单日累计充值200元、单月累计充值1000元，但数值配表（data.json）的discrete_milestones中未定义这些充值阈值，程序蓝图（tech_blueprint.md）却声称从discrete_milestones读取。
+- 修改建议: 请在数值配表（data.json）的discrete_milestones中补充实名认证触发阈值，例如在security_verification下添加"daily_recharge_threshold": 200, "monthly_recharge_threshold": 1000。
+### Issue 4
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.4 安全验证 - 设备管理
+- 问题描述: 策划案中设备管理列表返回最近10条登录设备记录，但数值配表（data.json）和程序蓝图（tech_blueprint.md）均未定义该数量限制的配置项，导致该数值硬编码且不可配置。
+- 修改建议: 请在数值配表（data.json）的discrete_milestones中补充设备列表最大条数配置，例如在security_verification下添加"max_device_list_count": 10。
+### Issue 5
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.5 安全验证 - 密码修改/找回
+- 问题描述: 策划案中密码错误次数限制为5次，锁定15分钟，但数值配表（data.json）的discrete_milestones中未定义密码错误锁定阈值和锁定时长，程序蓝图（tech_blueprint.md）却声称从discrete_milestones和continuous_formulas读取这些值，而continuous_formulas为空。
+- 修改建议: 请在数值配表（data.json）的discrete_milestones中补充"password_error_lock_threshold": 5，在continuous_formulas中补充"password_error_lock_duration": 900。
+### Issue 6
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 账号创建与登录 - 注册与登录
+- 问题描述: 策划案中验证码发送间隔为60秒，每日上限10次，但数值配表（data.json）的discrete_milestones中未定义这些频率限制值，程序蓝图（tech_blueprint.md）却声称从discrete_milestones读取。
+- 修改建议: 请在数值配表（data.json）的discrete_milestones中补充验证码频率限制配置，例如在account_creation_login下添加"verification_code_interval": 60, "daily_verification_code_limit": 10。
+### Issue 7
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.3 安全验证 - 实名认证
+- 问题描述: 策划案中实名认证每日尝试上限为3次，但数值配表（data.json）的discrete_milestones中未定义该上限值，程序蓝图（tech_blueprint.md）却声称从discrete_milestones读取。
+- 修改建议: 请在数值配表（data.json）的discrete_milestones中补充实名认证每日尝试上限配置，例如在security_verification下添加"daily_real_name_attempts_limit": 3。
+### Issue 8
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.6 账号状态管理 - 账号注销
+- 问题描述: 策划案中账号注销冷却期为7天，但数值配表（data.json）的continuous_formulas中未定义该冷却期天数，程序蓝图（tech_blueprint.md）却声称从continuous_formulas读取。
+- 修改建议: 请在数值配表（data.json）的continuous_formulas中补充账号注销冷却期配置，例如"deletion_cooling_off_days": 7。
+### Issue 9
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 账号创建与登录 - 注册与登录
+- 问题描述: 策划案中正式账号Token有效期为30天，但数值配表（data.json）的continuous_formulas中未定义该有效期，程序蓝图（tech_blueprint.md）却声称从continuous_formulas读取。
+- 修改建议: 请在数值配表（data.json）的continuous_formulas中补充正式账号Token有效期配置，例如"formal_token_ttl": 2592000。
+### Issue 10
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.1 账号创建与登录 - 游客模式
+- 问题描述: 策划案中游客Token有效期为30分钟（1800秒），但程序蓝图（tech_blueprint.md）中数值配置挂载部分明确从continuous_formulas读取默认值1800秒，而数值配表（data.json）中continuous_formulas为空对象，未定义该关键数值。
+- 修改建议: 请在数值配表（data.json）的continuous_formulas中补充游客Token有效期的配置项，例如"guest_token_ttl": 1800，并确保程序蓝图中的读取路径与此一致。
+**当前审查总计问题:** 10 个
+
+--- 审查时间: 2026-05-29 01:15:57 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.1 好友容量
+- 问题描述: 策划案中好友位扩容消耗描述存在歧义。第2次扩容（至30人）描述为“消耗10000信用点或50数据金”，但未明确是“信用点或数据金二选一”还是“信用点+数据金”。后续扩容描述类似。这与程序蓝图中的扩容消耗配置表（明确区分信用点消耗和数据金消耗两列）的意图不一致，可能导致实现歧义。
+- 修改建议: 请明确每次扩容的消耗规则：是“信用点或数据金二选一”，还是“信用点+数据金”组合消耗？如果是二选一，请明确描述；如果是组合消耗，请明确具体数值。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.4 助战系统
+- 问题描述: 策划案中助战系统解锁前置条件为“玩家等级达到10级，且至少拥有一个好友”。但数值说明书和程序蓝图中，助战系统解锁校验仅引用了玩家等级（≥10），未提及“至少拥有一个好友”这一条件。存在逻辑不一致。
+- 修改建议: 请确认助战系统的解锁条件是否真的需要“至少拥有一个好友”。如果是，请在数值说明书和程序蓝图中补充该条件；如果不是，请修改策划案中的描述。
+### Issue 3
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.4 助战系统 / 借用流程
+- 问题描述: 策划案中描述助战角色“作为第四人加入编队（不替换己方三人）”，但在战斗规则中又提到“助战角色不占用玩家自身角色出战位”。这两处描述重复且略显冗余，且未明确说明在编队界面如何体现第四人。程序蓝图中的`Friend_ConfirmAssist`接口返回`assist_role_data`用于战斗，但未定义编队数据结构如何处理第四人。
+- 修改建议: 请明确助战角色在编队数据中的定位：是作为独立的“助战位”存在，还是临时加入编队列表？请与程序蓝图对齐，明确`assist_role_data`在战斗系统中的使用方式。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / daily_gift_count
+- 问题描述: 数值说明书中`daily_gift_count`的描述为“玩家当日已赠送体力的次数，取值范围0-20”，但策划案2.5节中赠送体力每次消耗自身5点体力，且每日上限20次。数值配表`continuous_formulas`中`daily_gift_count`的`growth`为1，这仅表示每次增加1，但未体现“消耗5点体力”这一关联数值。数值配表缺少对“赠送体力消耗体力值”的字段定义。
+- 修改建议: 请在数值配表中增加一个字段，例如`gift_stamina_cost`，值为5，用于明确每次赠送体力消耗的体力值。或者，在`implementation_notes`中明确此消耗值。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / friend_point
+- 问题描述: 数值说明书中`friend_point`的描述为“取值范围0-9999”，但策划案4.1节中计算每月总消耗约3750点，每日最大产出240点。数值配表`continuous_formulas`中`friend_point`的`growth`为240，这似乎是每日最大产出，但作为字段的growth值不合适，因为友情点并非线性增长。此外，配表中缺少对友情点获取来源的具体数值定义（如赠送体力得5点、点赞得2点、被借用得10点）。
+- 修改建议: 请将`friend_point`的`growth`值移除或修改为0，因为友情点不是线性增长的字段。同时，请在数值配表中增加一个子表或明确描述，定义各交互行为对应的友情点获取数值（赠送体力：5点，点赞：2点，被借用：10点）。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / friend_capacity_expansion_count
+- 问题描述: 数值说明书中`friend_capacity_expansion_count`的描述为“取值范围0-6”，但策划案2.1节中扩容次数为6次（从20人扩至50人），数值配表`discrete_milestones`中该字段的取值也是1-6。但程序蓝图中的扩容消耗配置表明确列出了0-6共7行（包含初始状态）。数值配表缺少对扩容次数为0（初始状态）的定义。
+- 修改建议: 请在`discrete_milestones`的`friend_capacity_expansion_count`中增加`0: 0`的条目，以表示初始状态（未扩容）。
+### Issue 7
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接) / 核心接口 / Friend_GetAssistList
+- 问题描述: 程序蓝图中的`Friend_GetAssistList`接口返回`assist_list`，其中包含`daily_borrowed`字段。但策划案2.4节中，助战选择界面需要显示“今日已借用”标签，这需要知道当前玩家是否已经借用过该好友。`daily_borrowed`字段名含义模糊，可能被误解为“该好友今日被借用的次数”，而非“当前玩家是否已借用该好友”。
+- 修改建议: 请将`Friend_GetAssistList`返回参数中的`daily_borrowed`字段重命名为`has_borrowed_today`（布尔值），以明确表示当前玩家是否已借用过该好友。
+### Issue 8
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接) / 核心接口 / Friend_GetFriendProfile 与 Friend_GetFriendHomePage
+- 问题描述: 程序蓝图中同时定义了`Friend_GetFriendProfile`和`Friend_GetFriendHomePage`两个接口，返回参数高度重叠（都包含签名、近期战绩、好感度角色、助战角色配置）。策划案3.2节中，好友主页展示的信息与这两个接口的返回内容基本一致。存在接口冗余，可能导致前端调用混乱。
+- 修改建议: 请合并这两个接口，或明确区分它们的用途。例如，`Friend_GetFriendProfile`用于好友列表中的卡片展示（轻量级数据），`Friend_GetFriendHomePage`用于进入好友主页后的完整数据展示。如果合并，请删除冗余接口。
+### Issue 9
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、 后端逻辑划分 (Server) / 核心校验逻辑 / 助战借用校验
+- 问题描述: 程序蓝图描述“战斗开始时再次校验好友关系、借用次数、助战角色配置，防止数据同步延迟”。但策划案2.4节中，借用流程是在关卡选择界面进行的，战斗开始时再次校验是合理的。然而，程序蓝图未定义在`Friend_ConfirmAssist`接口被调用后，如果战斗开始前好友关系发生变化（如被删除），应如何处理。
+- 修改建议: 请明确在`Friend_ConfirmAssist`调用后、战斗开始前，如果好友关系发生变化（如好友删除你），服务端的处理逻辑。例如：是否允许已确认的借用继续战斗，但结算时不再发放奖励？
+### Issue 10
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、 后端逻辑划分 (Server) / 核心校验逻辑 / 邀请奖励校验
+- 问题描述: 程序蓝图提到“仅限新注册玩家通过邀请链接注册”，但未定义如何验证“通过邀请链接注册”。策划案4.2节中描述“被邀请者需通过邀请链接注册”。缺少具体的校验机制描述，例如：邀请链接中是否携带邀请者ID？注册时如何记录该ID？
+- 修改建议: 请补充邀请奖励校验的具体技术实现方案。例如：邀请链接中携带邀请者ID，注册时将该ID写入被邀请者的数据表中，后续通过该ID关联发放奖励。
+**当前审查总计问题:** 10 个
+
+--- 审查时间: 2026-05-29 01:23:56 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.3 轻交互：赠送体力与点赞
+- 问题描述: 策划案中描述赠送体力时，发送方扣除5点体力，但未明确发送方是否获得任何奖励（如友情点）。数值说明书和程序蓝图均未定义发送方赠送体力后的奖励。这导致逻辑不闭环，且与后续友情点获取规则（通过赠送体力获得5点/次）矛盾。
+- 修改建议: 请明确赠送体力后，发送方是否获得友情点奖励。如果获得，请补充说明奖励数值（如5点友情点），并确保与数值说明书中的`friend_point`获取逻辑一致。
+### Issue 2
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / daily_gift_count
+- 问题描述: 数值说明书中`daily_gift_count`描述为“玩家今日已赠送体力的次数”，但未定义发送方赠送体力后是否获得友情点，以及获得多少。这与策划案中“每日通过赠送体力（5点/次）获得友情点”的描述不一致。
+- 修改建议: 请在`field_dictionary`中增加一个字段（如`friend_point_from_gift`）或修改`daily_gift_count`的描述，明确每次赠送体力后发送方获得的友情点数量（如5点），并确保与策划案逻辑一致。
+### Issue 3
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 (Server) / 核心校验逻辑 / 赠送体力校验
+- 问题描述: 程序蓝图中赠送体力校验逻辑未包含发送方获得友情点的处理。策划案中明确“每日通过赠送体力（5点/次）获得友情点”，但蓝图中的校验逻辑仅涉及体力扣除和邮件发送，未提及发送方友情点的增加。
+- 修改建议: 请在赠送体力校验逻辑中，增加发送方获得友情点的步骤（如5点），并更新`friend_point`字段。同时，确保`Friend_GiftStamina` API的返回参数或后续处理中包含此逻辑。
+### Issue 4
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.4 助战系统
+- 问题描述: 策划案中助战系统描述“借用方通关后获得5点友情点”，但未明确如果助战角色死亡，借用方友情点奖励减半（2点）后，借出方是否仍获得10点友情点。这可能导致逻辑歧义。
+- 修改建议: 请明确助战角色死亡时，借出方的奖励是否受影响。建议补充说明：助战角色死亡仅影响借用方奖励，借出方仍获得10点友情点。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / daily_borrowed_count
+- 问题描述: 数值说明书中`daily_borrowed_count`描述为“玩家今日助战被借用的次数”，取值范围0-10，但未定义借出方每次获得的友情点数量（10点）。这与策划案中“借出方通过邮件获得10点友情点”的描述不一致。
+- 修改建议: 请在`field_dictionary`中增加一个字段（如`friend_point_from_borrowed`）或修改`daily_borrowed_count`的描述，明确每次被借用后借出方获得的友情点数量（如10点），并确保与策划案逻辑一致。
+### Issue 6
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 (Server) / 核心校验逻辑 / 助战借用校验
+- 问题描述: 程序蓝图中助战借用校验逻辑未包含借出方获得友情点的处理。策划案中明确“借出方通过邮件获得10点友情点”，但蓝图中的校验逻辑仅涉及借用次数更新，未提及借出方友情点的增加。
+- 修改建议: 请在助战借用校验逻辑中，增加借出方获得友情点的步骤（如10点），并更新`friend_point`字段。同时，确保`Friend_ConfirmAssist` API的返回参数或后续处理中包含此逻辑。
+### Issue 7
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.5 友情点与商店
+- 问题描述: 策划案中描述“每日通过赠送体力（5点/次）、点赞（2点/次）、助战被借用（10点/次）获得，每日上限约50-100点”，但未明确每日上限的具体计算方式。例如，是否所有交互共享一个上限，还是各自独立上限？这可能导致数值实现不明确。
+- 修改建议: 请明确每日友情点获取上限的计算方式。建议说明：每日通过赠送体力、点赞、助战被借用获得的友情点总和上限为100点，或分别设置上限（如赠送体力50点、点赞20点、助战被借用100点）。
+### Issue 8
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / friend_point
+- 问题描述: 数值说明书中`friend_point`描述为“玩家当前持有的友情点数量”，但未定义每日获取上限。这与策划案中“每日上限约50-100点”的描述不一致，可能导致玩家无限获取友情点。
+- 修改建议: 请在`field_dictionary`中增加一个字段（如`daily_friend_point_limit`），定义每日友情点获取上限（如100点），并确保与策划案逻辑一致。
+### Issue 9
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 (Server) / 核心校验逻辑 / 每日重置逻辑
+- 问题描述: 程序蓝图中每日重置逻辑未包含`daily_friend_point_limit`或类似字段的重置。如果策划案中定义了每日友情点获取上限，则需要在每日重置时重置该上限的计数。
+- 修改建议: 请在每日重置逻辑中，增加对每日友情点获取上限计数的重置（如`daily_friend_point_earned`字段重置为0），确保玩家每日可重新获取友情点。
+### Issue 10
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.2 好友管理 / 推荐列表
+- 问题描述: 策划案中描述推荐列表“根据玩家等级（±5级）、在线状态、助战角色强度（总战力评分）生成”，但未明确“助战角色强度”的具体计算方式（如总战力评分是否包含武器、后勤等）。这可能导致推荐算法实现不明确。
+- 修改建议: 请明确“助战角色强度”的计算方式，例如：总战力评分 = 角色基础战力 + 武器战力 + 后勤小队战力。
+### Issue 11
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / friend_capacity_expansion_count
+- 问题描述: 数值说明书中`friend_capacity_expansion_count`描述为“取值范围0-6”，但策划案中描述“最多扩容至50人上限”，初始容量20，每次扩容+5，最多扩容6次（20+6*5=50）。但数值配表中`friend_capacity_expansion_count`的离散里程碑仅定义了0-6，未定义每次扩容对应的容量值。这可能导致扩容逻辑不完整。
+- 修改建议: 请在`discrete_milestones`中增加`friend_capacity`的离散里程碑，明确每次扩容后的容量值（如0:20, 1:25, 2:30, 3:35, 4:40, 5:45, 6:50），确保与策划案逻辑一致。
+### Issue 12
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 (Server) / 核心校验逻辑 / 好友扩容校验
+- 问题描述: 程序蓝图中好友扩容校验逻辑仅校验`friend_capacity_expansion_count < 6`，但未校验扩容后的容量是否超过50。虽然逻辑上6次扩容后容量为50，但未明确校验容量上限，可能导致数据溢出。
+- 修改建议: 请在好友扩容校验逻辑中，增加对扩容后容量是否超过50的校验（如`friend_capacity + 5 <= 50`），确保数据一致性。
+### Issue 13
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.4 助战系统 / 借用流程
+- 问题描述: 策划案中描述“系统调用`Friend_ConfirmAssist`接口，返回`assist_role_data`”，但未明确该接口是否在每次进入战斗前调用。程序蓝图中描述“助战借用流程需在进入战斗前重新拉取好友最新助战数据”，但策划案中未明确说明。这可能导致实现不一致。
+- 修改建议: 请明确`Friend_ConfirmAssist`接口的调用时机，例如：每次进入战斗前必须调用该接口，以确保助战数据是最新的。
+### Issue 14
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 (Server) / 核心校验逻辑 / 助战借用校验
+- 问题描述: 程序蓝图中助战借用校验逻辑包含“校验好友是否仍设置了助战角色”，但未明确如果好友未设置助战角色，是否返回错误码。策划案中描述“若好友已更换，则提示‘该好友已更换助战角色，请重新选择’”，但蓝图中的校验逻辑未包含此错误码。
+- 修改建议: 请在助战借用校验逻辑中，增加对好友是否设置助战角色的校验，并返回相应的错误码（如`friend_borrow_result`枚举中的2：好友已更换助战角色）。
+### Issue 15
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 四、经济循环与商业化埋点 / 好友邀请奖励
+- 问题描述: 策划案中描述“邀请好友注册并达到20级，邀请者获得限定头像框、100数据金”，但未明确是否每个被邀请者达到20级时，邀请者都能获得奖励，还是仅限首次。程序蓝图中描述“校验邀请者是否已领取过该被邀请者的奖励”，暗示每个被邀请者独立计算，但策划案中未明确。
+- 修改建议: 请明确邀请奖励的发放规则：是每个被邀请者达到20级时，邀请者都能获得一次奖励，还是仅限首次邀请成功？建议补充说明。
+### Issue 16
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / friend_invite_reward_claimed
+- 问题描述: 数值说明书中`friend_invite_reward_claimed`描述为“标记玩家是否已领取过邀请奖励”，但未明确是针对单个被邀请者还是全局。程序蓝图中描述“校验邀请者是否已领取过该被邀请者的奖励”，暗示是针对单个被邀请者，但数值说明书中的布尔字段无法区分多个被邀请者。
+- 修改建议: 请修改`friend_invite_reward_claimed`为数组或字典结构，存储每个被邀请者ID及其奖励领取状态，确保与程序蓝图逻辑一致。
+### Issue 17
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 (Server) / 核心校验逻辑 / 邀请奖励校验
+- 问题描述: 程序蓝图中邀请奖励校验逻辑包含“校验邀请者`friend_invite_reward_claimed`是否为false（针对该被邀请者）”，但数值说明书中的`friend_invite_reward_claimed`是布尔字段，无法针对单个被邀请者进行校验。这可能导致实现与数据模型不匹配。
+- 修改建议: 请修改邀请奖励校验逻辑，使用数组或字典结构存储每个被邀请者的奖励领取状态，并针对每个被邀请者独立校验。
+### Issue 18
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 三、表现层与角色展示联动 (核心强制项) / 好友列表卡片
+- 问题描述: 策划案中描述“每个好友卡片展示其看板娘3D模型缩略图（半身，带动态呼吸/待机动作）”，但未明确是否所有好友卡片都加载3D模型，还是仅在线好友。这可能导致性能问题，尤其是好友数量较多时。
+- 修改建议: 请明确好友卡片3D模型的加载策略，例如：仅在线好友加载3D模型，离线好友使用静态头像，或所有好友都加载但使用LOD降级。
+### Issue 19
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 二、前端模块划分 (Client) / 表现层控制器 / 3D模型加载管理器
+- 问题描述: 程序蓝图中3D模型加载管理器描述“实现LOD自动降级”，但未明确降级策略（如根据设备性能或好友数量）。策划案中未明确降级策略，可能导致实现不一致。
+- 修改建议: 请明确LOD降级策略，例如：根据设备性能自动降级，或根据好友列表中的好友数量动态调整模型精度。
+### Issue 20
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 五、旧系统与数据联动 (强依赖) / 邮件系统
+- 问题描述: 策划案中描述“邮件系统支持‘一键领取’所有好友相关奖励”，但未明确“一键领取”的具体实现方式（如是否领取所有邮件奖励，还是仅好友相关）。程序蓝图中未提及“一键领取”功能。
+- 修改建议: 请明确“一键领取”功能的范围：是领取所有邮件奖励，还是仅好友相关奖励？建议补充说明，并确保程序蓝图实现此功能。
+### Issue 21
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、前后端通信协议 (API & 数据对接)
+- 问题描述: 程序蓝图中未定义`Friend_GetAllData` API的返回参数中是否包含`friend_application_count`字段。策划案中描述“主界面社交按钮出现小红点提示（有待处理申请或可领取友情点奖励时）”，但蓝图中的API未返回待处理申请数量，可能导致小红点无法正确显示。
+- 修改建议: 请在`Friend_GetAllData` API的返回参数中增加`friend_application_count`字段，用于前端判断小红点显示。
+### Issue 22
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、前后端通信协议 (API & 数据对接)
+- 问题描述: 程序蓝图中未定义`Friend_GetAllData` API的返回参数中是否包含`friend_point`字段。策划案中描述“可领取友情点奖励时”显示小红点，但蓝图中的API未返回友情点数据，可能导致小红点无法正确显示。
+- 修改建议: 请在`Friend_GetAllData` API的返回参数中增加`friend_point`字段，用于前端判断是否可领取友情点奖励。
+### Issue 23
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.4 助战系统 / 借用流程
+- 问题描述: 策划案中描述“系统打开好友列表，仅展示已设置助战角色的好友，并按助战角色战力排序”，但未明确“助战角色战力”的计算方式。程序蓝图中也未定义排序规则。
+- 修改建议: 请明确“助战角色战力”的计算方式，例如：使用`assist_role_data`中的角色等级、技能等级、武器、后勤小队配置计算总战力，并按此排序。
+### Issue 24
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、前后端通信协议 (API & 数据对接) / Friend_GetAssistList
+- 问题描述: 程序蓝图中`Friend_GetAssistList` API的返回参数包含`assist_list`，但未明确是否包含排序后的顺序。策划案中要求按助战角色战力排序，但蓝图中的API未定义排序规则。
+- 修改建议: 请在`Friend_GetAssistList` API的返回参数中明确排序规则，例如：返回的`assist_list`已按助战角色战力降序排列。
+**当前审查总计问题:** 24 个

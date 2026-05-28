@@ -99,11 +99,13 @@ def main():
     )
 
     # ---- 定向修复模式 ----
+    in_fix_mode = False
     if os.path.exists(FIX_FILE):
         try:
             with open(FIX_FILE, "r", encoding="utf-8") as f:
                 fix_data = json.load(f)
             if fix_data.get("correction_mode"):
+                in_fix_mode = True
                 anchor = fix_data.get("anchor", "?")
                 desc = fix_data.get("problem", "?")
                 user_prompt += (
@@ -197,23 +199,21 @@ def main():
     except Exception:
         loud_fail(f"写入封装结果失败: {RESULT_FILE}")
 
-    # ========== 8. 推动流水线 → completed ==========
+    # ========== 8. 推动流水线（定向修复模式跳过） ==========
     try:
-        if not os.path.exists(STATUS_FILE):
+        if in_fix_mode:
+            print("[Numerical Planner] 定向修复模式 — 不修改 task_status.json")
+        elif not os.path.exists(STATUS_FILE):
             loud_fail(f"任务状态文件不存在: {STATUS_FILE}")
-
-        with open(STATUS_FILE, "r", encoding="utf-8") as f:
-            status_data = json.load(f)
-
-        current_state = status_data.get("current_state", "")
-        status_data["current_state"] = "completed"
-
-        with open(STATUS_FILE, "w", encoding="utf-8") as f:
-            json.dump(status_data, f, ensure_ascii=False, indent=2)
-
-        print(f"[Numerical Planner] 任务状态已更新: {current_state} -> completed")
-        print("[Numerical Planner] 数值策划工作完成，流水线终点。")
-
+        else:
+            with open(STATUS_FILE, "r", encoding="utf-8") as f:
+                status_data = json.load(f)
+            current_state = status_data.get("current_state", "")
+            status_data["current_state"] = "completed"
+            with open(STATUS_FILE, "w", encoding="utf-8") as f:
+                json.dump(status_data, f, ensure_ascii=False, indent=2)
+            print(f"[Numerical Planner] 任务状态已更新: {current_state} -> completed")
+        print("[Numerical Planner] 数值策划工作完成。")
     except Exception:
         loud_fail(f"更新任务状态失败: {STATUS_FILE}")
 

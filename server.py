@@ -74,6 +74,7 @@ def api_files():
     files = []
     for f in os.listdir(WS_DIR):
         fp = os.path.join(WS_DIR, f)
+        # 只取直接文件，排除子目录（如 project_db/）
         if not os.path.isfile(fp) or f.startswith("."):
             continue
         if f in FRAMEWORK_FILES:
