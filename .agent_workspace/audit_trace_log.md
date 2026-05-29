@@ -1021,3 +1021,942 @@
 - 问题描述: 程序蓝图中`Friend_GetAssistList` API的返回参数包含`assist_list`，但未明确是否包含排序后的顺序。策划案中要求按助战角色战力排序，但蓝图中的API未定义排序规则。
 - 修改建议: 请在`Friend_GetAssistList` API的返回参数中明确排序规则，例如：返回的`assist_list`已按助战角色战力降序排列。
 **当前审查总计问题:** 24 个
+
+--- 审查时间: 2026-05-29 12:19:42 ---
+### Issue 1
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary -> daily_affection_experience_cap
+- 问题描述: 数值说明书中的字段名为 'daily_affection_experience_cap'，但程序蓝图持久化数据表中使用的字段名为 'daily_affection_experience'。两者命名不一致，且 'daily_affection_experience_cap' 在策划案中定义为每日上限，而程序蓝图中的 'daily_affection_experience' 更像是当日已获得经验值。这会导致数据同步和逻辑校验混乱。
+- 修改建议: 请与程序蓝图对齐字段命名。建议将数值说明书中的字段名改为 'daily_affection_experience' 并明确其含义为“当日已获得的好感度经验值”，或与程序蓝图统一为 'daily_affection_experience_cap' 并明确其含义为“每日好感度经验上限”。
+### Issue 2
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: discrete_milestones -> economy_commerce -> daily_affection_experience_cap
+- 问题描述: 数值配表中 'daily_affection_experience_cap' 的里程碑配置为所有好感度阶段（0-4）都固定为100。但策划案中并未明确每日好感度经验上限是否与好感度阶段挂钩，且此配置与数值说明书中的字段名 'daily_affection_experience_cap' 对应，但程序蓝图中的字段名为 'daily_affection_experience'。这导致逻辑不一致。
+- 修改建议: 请确认每日好感度经验上限是否应该随好感度阶段变化。如果固定为100，请确保与程序蓝图中的字段名和含义一致。如果应该变化，请提供正确的里程碑配置。
+### Issue 3
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: discrete_milestones -> behavior_scheduling -> active_item_id
+- 问题描述: 数值配表中 'active_item_id' 的里程碑配置为 '0': 0, '1': 301, '2': 302, '3': 303。但策划案中道具效果持续1个时段，且道具触发行为优先级低于好感度行为。此配置似乎将道具ID与好感度阶段绑定，而非与道具使用行为本身绑定，这与策划案逻辑不符。
+- 修改建议: 请重新设计 'active_item_id' 的配置逻辑。它应该是一个动态值，由道具使用行为触发，而非由好感度阶段决定。建议将其从离散里程碑中移除，改为由后端逻辑根据道具使用结果动态设置。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: discrete_milestones -> economy_commerce -> purchased_item_ids
+- 问题描述: 数值配表中 'purchased_item_ids' 的里程碑配置为 '0': '[]', '1': '[301]', '2': '[301,302]', '3': '[301,302,303]'。此配置将已购买道具列表与好感度阶段绑定，但策划案中道具购买是玩家主动行为，不应受好感度阶段限制。这会导致玩家在低好感度阶段无法购买高级道具，与策划案设计相悖。
+- 修改建议: 请移除 'purchased_item_ids' 与好感度阶段的绑定。已购买道具列表应是一个动态累积的列表，由玩家购买行为决定，而非由里程碑配置决定。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: discrete_milestones -> system_data_linkage -> owned_character_ids
+- 问题描述: 数值配表中 'owned_character_ids' 的里程碑配置为 '0': '[]', '1': '[1]', '2': '[1,2]', '3': '[1,2,3]'。此配置将已拥有角色列表与好感度阶段绑定，但策划案中角色拥有是独立于宿舍系统的，玩家通过抽卡或其他方式获得角色。此配置与策划案逻辑严重冲突。
+- 修改建议: 请移除 'owned_character_ids' 与好感度阶段的绑定。已拥有角色列表应由角色系统管理，宿舍系统仅读取该列表。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: discrete_milestones -> system_data_linkage -> owned_skin_ids
+- 问题描述: 数值配表中 'owned_skin_ids' 的里程碑配置为 '0': '[]', '1': '[101]', '2': '[101,102]', '3': '[101,102,103]'。此配置将已拥有皮肤列表与好感度阶段绑定，但策划案中皮肤拥有是独立于宿舍系统的，玩家通过购买或活动获得。此配置与策划案逻辑严重冲突。
+- 修改建议: 请移除 'owned_skin_ids' 与好感度阶段的绑定。已拥有皮肤列表应由皮肤系统管理，宿舍系统仅读取该列表。
+### Issue 7
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: discrete_milestones -> system_data_linkage -> special_behavior_skin_requirements
+- 问题描述: 数值配表中 'special_behavior_skin_requirements' 的里程碑配置为 '0': '{}', '1': '{"201":101}', '2': '{"201":101,"202":102}'。此配置将特殊行为的皮肤要求与好感度阶段绑定，但策划案中特殊行为的皮肤要求是固定的（如换衣行为需要睡衣皮肤），不应随好感度阶段变化。
+- 修改建议: 请移除 'special_behavior_skin_requirements' 与好感度阶段的绑定。皮肤要求应是一个静态映射表，由策划案直接定义，而非由里程碑配置决定。
+### Issue 8
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> behavior_scheduling -> current_behavior_id
+- 问题描述: 数值配表中 'current_behavior_id' 的连续公式为 'base': 0, 'growth': 1, 'type': 'linear'。此公式意味着行为ID会随时间线性增长，但策划案中行为ID是离散的，由行为池随机选择，不应随时间线性变化。此公式逻辑错误。
+- 修改建议: 请移除 'current_behavior_id' 的连续公式。行为ID应由后端逻辑根据行为池权重随机选择，而非由公式计算。
+### Issue 9
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> behavior_scheduling -> behavior_start_time
+- 问题描述: 数值配表中 'behavior_start_time' 的连续公式为 'base': 0, 'growth': 3600, 'type': 'linear'。此公式意味着行为开始时间会线性增长，但策划案中行为开始时间应由行为切换逻辑动态设置，不应由公式计算。
+- 修改建议: 请移除 'behavior_start_time' 的连续公式。行为开始时间应由后端逻辑在行为切换时动态记录。
+### Issue 10
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> behavior_scheduling -> behavior_end_time
+- 问题描述: 数值配表中 'behavior_end_time' 的连续公式为 'base': 7200, 'growth': 3600, 'type': 'linear'。此公式意味着行为结束时间会线性增长，但策划案中行为结束时间应由行为切换逻辑动态设置，不应由公式计算。
+- 修改建议: 请移除 'behavior_end_time' 的连续公式。行为结束时间应由后端逻辑在行为切换时动态记录。
+### Issue 11
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> behavior_scheduling -> affection_stage
+- 问题描述: 数值配表中 'affection_stage' 的连续公式为 'base': 0, 'growth': 1, 'type': 'linear'。此公式意味着好感度阶段会随时间线性增长，但策划案中好感度阶段由好感度经验值决定，不应随时间线性变化。此公式逻辑错误。
+- 修改建议: 请移除 'affection_stage' 的连续公式。好感度阶段应由后端逻辑根据好感度经验值和阶段阈值判断后更新。
+### Issue 12
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> behavior_scheduling -> behavior_pool_id
+- 问题描述: 数值配表中 'behavior_pool_id' 的连续公式为 'base': 1, 'growth': 1, 'type': 'linear'。此公式意味着行为池ID会随时间线性增长，但策划案中行为池ID由游戏内时段决定，不应随时间线性变化。此公式逻辑错误。
+- 修改建议: 请移除 'behavior_pool_id' 的连续公式。行为池ID应由后端逻辑根据当前游戏内时段动态设置。
+### Issue 13
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> behavior_scheduling -> item_effect_end_time
+- 问题描述: 数值配表中 'item_effect_end_time' 的连续公式为 'base': 0, 'growth': 7200, 'type': 'linear'。此公式意味着道具效果结束时间会线性增长，但策划案中道具效果持续1个时段，结束时间应由道具使用逻辑动态计算，不应由公式计算。
+- 修改建议: 请移除 'item_effect_end_time' 的连续公式。道具效果结束时间应由后端逻辑在道具使用时动态计算并设置。
+### Issue 14
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> interaction_feedback -> affection_experience
+- 问题描述: 数值配表中 'interaction_feedback' 下的 'affection_experience' 连续公式为 'base': 0, 'growth': 5, 'type': 'linear'。此公式意味着每次互动好感度经验增长5点，但策划案中互动增加的好感度经验应由数值策划定义，且可能因互动类型而异。此公式过于简化，且与 'economy_commerce' 下的 'affection_experience' 公式（growth: 10）冲突。
+- 修改建议: 请统一并明确不同互动类型（打招呼、送礼物、触摸）增加的好感度经验值，并移除这些连续公式，改为在离散里程碑或配置表中定义。
+### Issue 15
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> interaction_feedback -> touch_region
+- 问题描述: 数值配表中 'touch_region' 的连续公式为 'base': 0, 'growth': 1, 'type': 'linear'。此公式意味着触摸部位ID会线性增长，但策划案中触摸部位由玩家点击决定，不应由公式计算。此公式逻辑错误。
+- 修改建议: 请移除 'touch_region' 的连续公式。触摸部位应由客户端根据玩家点击位置确定，并传递给服务端。
+### Issue 16
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> interaction_feedback -> touch_reaction_id
+- 问题描述: 数值配表中 'touch_reaction_id' 的连续公式为 'base': 0, 'growth': 1, 'type': 'linear'。此公式意味着触摸反应ID会线性增长，但策划案中触摸反应由触摸部位和角色状态决定，不应由公式计算。此公式逻辑错误。
+- 修改建议: 请移除 'touch_reaction_id' 的连续公式。触摸反应应由后端逻辑根据触摸部位和角色好感度阶段动态决定。
+### Issue 17
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> interaction_feedback -> random_event_id
+- 问题描述: 数值配表中 'random_event_id' 的连续公式为 'base': 0, 'growth': 1, 'type': 'linear'。此公式意味着随机事件ID会线性增长，但策划案中随机事件由概率触发，不应由公式计算。此公式逻辑错误。
+- 修改建议: 请移除 'random_event_id' 的连续公式。随机事件应由后端逻辑根据概率和当前时段的事件池随机选择。
+### Issue 18
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> affection_stage_unlock -> affection_experience
+- 问题描述: 数值配表中 'affection_stage_unlock' 下的 'affection_experience' 连续公式为 'base': 0, 'growth': 10, 'type': 'linear'。此公式与 'interaction_feedback' 和 'economy_commerce' 下的 'affection_experience' 公式冲突，且含义不明。好感度经验值不应由多个公式同时定义。
+- 修改建议: 请移除所有 'affection_experience' 的连续公式。好感度经验值应是一个由互动行为动态累积的数值，其增长规则应在离散里程碑或配置表中定义。
+### Issue 19
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> scene_camera_display -> current_camera_id
+- 问题描述: 数值配表中 'current_camera_id' 的连续公式为 'base': 1, 'growth': 1, 'type': 'linear'。此公式意味着视角ID会线性增长，但策划案中视角由玩家切换决定，不应由公式计算。此公式逻辑错误。
+- 修改建议: 请移除 'current_camera_id' 的连续公式。视角ID应由客户端根据玩家操作确定，并记录在本地或服务端。
+### Issue 20
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> economy_commerce -> dormitory_coin_balance
+- 问题描述: 数值配表中 'dormitory_coin_balance' 的连续公式为 'base': 0, 'growth': 50, 'type': 'linear'。此公式意味着宿舍币余额会线性增长，但策划案中宿舍币通过签到、任务等途径获得，不应随时间线性增长。此公式逻辑错误。
+- 修改建议: 请移除 'dormitory_coin_balance' 的连续公式。宿舍币余额应由后端逻辑根据玩家行为（签到、任务、购买）动态更新。
+### Issue 21
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> economy_commerce -> limited_item_ticket_balance
+- 问题描述: 数值配表中 'limited_item_ticket_balance' 的连续公式为 'base': 0, 'growth': 1, 'type': 'linear'。此公式意味着限定道具券余额会线性增长，但策划案中限定道具券通过抽卡副产物、礼包获得，不应随时间线性增长。此公式逻辑错误。
+- 修改建议: 请移除 'limited_item_ticket_balance' 的连续公式。限定道具券余额应由后端逻辑根据玩家行为（抽卡、购买礼包）动态更新。
+### Issue 22
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> system_data_linkage -> current_character_id
+- 问题描述: 数值配表中 'current_character_id' 的连续公式为 'base': 1, 'growth': 1, 'type': 'linear'。此公式意味着当前角色ID会线性增长，但策划案中当前角色由玩家切换决定，不应由公式计算。此公式逻辑错误。
+- 修改建议: 请移除 'current_character_id' 的连续公式。当前角色ID应由玩家切换操作决定，并记录在服务端。
+### Issue 23
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> system_data_linkage -> current_skin_id
+- 问题描述: 数值配表中 'current_skin_id' 的连续公式为 'base': 0, 'growth': 1, 'type': 'linear'。此公式意味着当前皮肤ID会线性增长，但策划案中当前皮肤由玩家切换决定，不应由公式计算。此公式逻辑错误。
+- 修改建议: 请移除 'current_skin_id' 的连续公式。当前皮肤ID应由玩家切换操作决定，并记录在服务端。
+### Issue 24
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: continuous_formulas -> system_data_linkage -> backpack_item_ids
+- 问题描述: 数值配表中 'backpack_item_ids' 的连续公式为 'base': 0, 'growth': 1, 'type': 'linear'。此公式意味着背包道具ID列表会线性增长，但策划案中背包道具通过购买、使用等行为动态变化，不应由公式计算。此公式逻辑错误。
+- 修改建议: 请移除 'backpack_item_ids' 的连续公式。背包道具ID列表应由后端逻辑根据玩家行为（购买、使用、获得）动态更新。
+### Issue 25
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 -> 2.1 行为种类编排
+- 问题描述: 策划案中提到“道具触发行为优先级高于基础行为，但低于好感度行为”，但未明确当道具效果与好感度行为同时存在时的具体表现逻辑。例如，高好感度角色使用道具后，是执行道具行为还是好感度行为？这会导致程序实现歧义。
+- 修改建议: 请明确当道具效果与好感度行为同时存在时的优先级和表现逻辑。例如，是否高好感度行为完全覆盖道具行为，还是两者可以叠加？
+### Issue 26
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 -> 2.2 交互与反馈
+- 问题描述: 策划案中提到“触摸互动仅在高好感阶段解锁”，但未明确触摸互动具体包含哪些操作（如点击、长按、滑动），以及不同操作对应的反馈。这会导致程序实现和数值配置不完整。
+- 修改建议: 请详细定义触摸互动的具体操作方式（点击、长按、滑动等），以及每种操作在不同好感度阶段和触摸区域对应的反馈。
+### Issue 27
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 三、表现层与角色展示联动（核心强制项）
+- 问题描述: 策划案中提到“严禁点击敏感部位（胸部、臀部、大腿内侧）”，但未定义“敏感部位”的具体碰撞体区域和检测逻辑。这会导致程序实现时边界模糊，可能引发合规风险。
+- 修改建议: 请与美术和程序团队共同定义“敏感部位”的具体碰撞体区域，并明确点击这些区域时的检测逻辑和反馈机制。
+### Issue 28
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 (Server) -> 3.1 持久化数据 (DB)
+- 问题描述: 程序蓝图中的持久化数据表缺少 'behavior_pool_id'、'unlocked_behavior_ids'、'random_event_pool_ids'、'special_behavior_ids'、'special_behavior_skin_requirements' 等字段，但这些字段在数值说明书和策划案中均有提及。这会导致数据不完整，影响离线行为推进和功能实现。
+- 修改建议: 请在持久化数据表中补充缺失的字段，确保与数值说明书和策划案中的数据需求一致。
+### Issue 29
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、前后端通信协议 (API & 数据对接) -> 4.1 核心通信接口
+- 问题描述: 程序蓝图中的 'PerformInteraction' 接口返回参数缺少 'new_unlocked_random_event_ids'，但策划案中互动可能解锁新的随机事件。这会导致客户端无法获取最新的随机事件池。
+- 修改建议: 请在 'PerformInteraction' 接口的返回参数中增加 'new_unlocked_random_event_ids' 字段，用于同步解锁的随机事件。
+### Issue 30
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、前后端通信协议 (API & 数据对接) -> 4.1 核心通信接口
+- 问题描述: 程序蓝图中的 'SwitchCharacter' 接口返回参数中包含了 'new_affection_stage' 和 'new_affection_experience'，但切换角色不应改变好感度数据。这会导致数据错误。
+- 修改建议: 请移除 'SwitchCharacter' 接口返回参数中的 'new_affection_stage' 和 'new_affection_experience'。切换角色时，好感度数据应保持不变。
+### Issue 31
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、数值与配置表挂载 -> 5.1 配置表读取
+- 问题描述: 程序蓝图中的配置表读取列表缺少 'interaction_option_ids' 的解锁配置，但策划案中互动选项随好感度阶段解锁。这会导致客户端无法正确显示互动选项。
+- 修改建议: 请在配置表读取列表中增加 'interaction_option_ids' 的解锁配置，确保客户端能根据好感度阶段动态显示互动选项。
+**当前审查总计问题:** 31 个
+
+--- 审查时间: 2026-05-29 12:34:15 ---
+### Issue 1
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.daily_affection_experience_cap
+- 问题描述: 数值说明书中 `daily_affection_experience_cap` 的默认值为 100，但系统策划案中明确写明每日好感度经验上限为 200 点。
+- 修改建议: 请将 `daily_affection_experience_cap` 的默认值修改为 200，以与策划案保持一致。
+### Issue 2
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.affection_stage
+- 问题描述: 数值说明书中 `affection_stage` 的取值范围描述为 '0-4'，但策划案中好感度阶段为 5 个阶段（陌生、熟悉、友好、亲密、爱慕），对应 0-4 是正确的。然而，数值配表中 `affection_stage_unlock` 的 `unlocked_behavior_ids` 等配置使用了 0-4 的 key，但策划案中好感度经验阈值是 [0, 100, 300, 600, 1000, 1500]，这意味着阶段 0 对应经验 0-100，阶段 1 对应 101-300，阶段 2 对应 301-600，阶段 3 对应 601-1000，阶段 4 对应 1001-1500。数值说明书中缺少对阶段阈值（affection_stage_thresholds）的明确定义，仅在程序蓝图中提及。
+- 修改建议: 请在数值说明书的 `field_dictionary` 或 `relations_and_enums` 中增加 `affection_stage_thresholds` 字段，明确各阶段对应的经验值阈值范围，例如：`[0, 100, 300, 600, 1000, 1500]`。
+### Issue 3
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.touch_region
+- 问题描述: 数值说明书中 `touch_region` 的取值范围为 `['head', 'hand', 'shoulder', 'invalid']`，其中 'invalid' 代表敏感部位。但策划案中定义的敏感部位碰撞体包括胸部、臀部、大腿内侧、裆部，这些部位在点击后应触发警告反馈，而 'invalid' 这个枚举值过于笼统，无法区分具体是哪个敏感部位被点击，不利于后续的日志记录和数据分析。
+- 修改建议: 请将 `touch_region` 的枚举值扩展，增加 `['chest', 'buttock', 'inner_thigh', 'crotch']` 等具体敏感部位，或将 'invalid' 替换为一个更细粒度的枚举或数组字段，以记录具体被点击的敏感部位。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.unlocked_touch_regions
+- 问题描述: 数值说明书中 `unlocked_touch_regions` 的默认值为空数组，但策划案中明确提到在陌生/熟悉阶段，玩家可以触摸头部、手部、肩膀（友好/亲密/爱慕阶段逐步解锁）。数值配表中 `interaction_feedback.unlocked_touch_regions` 的配置也正确反映了这一点。然而，数值说明书的 `field_dictionary` 中缺少对 `unlocked_touch_regions` 与好感度阶段之间映射关系的明确说明。
+- 修改建议: 请在数值说明书的 `relations_and_enums` 或 `field_dictionary` 中，增加对 `unlocked_touch_regions` 与 `affection_stage` 之间映射关系的描述，例如：'阶段0-1：[]，阶段2：['head']，阶段3：['head', 'hand']，阶段4：['head', 'hand', 'shoulder']'。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.interaction_option_ids
+- 问题描述: 数值说明书中缺少对 `interaction_option_ids` 字段的定义，但该字段在数值配表 `interaction_feedback` 中被引用，且策划案中明确提到了不同好感度阶段下互动选项菜单的内容（打招呼、送礼物、触摸、拥抱、离开）。
+- 修改建议: 请在数值说明书的 `field_dictionary` 中增加 `interaction_option_ids` 字段的定义，描述其数据类型、取值范围和默认值。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.random_event_pool_ids
+- 问题描述: 数值说明书中缺少对 `random_event_pool_ids` 字段的定义，但该字段在数值配表 `interaction_feedback` 中被引用，且策划案中提到了每个时段有随机事件池。
+- 修改建议: 请在数值说明书的 `field_dictionary` 中增加 `random_event_pool_ids` 字段的定义，描述其数据类型、取值范围和默认值。
+### Issue 7
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.special_behavior_skin_requirements
+- 问题描述: 数值说明书中定义了 `special_behavior_skin_requirements` 字段，但数值配表中 `system_data_linkage.special_behavior_skin_requirements` 的值为空对象 `{}`。策划案中提到部分特殊行为（如“换衣”）需特定皮肤触发，但数值配表中没有提供任何具体的映射关系示例，导致该配置形同虚设。
+- 修改建议: 请根据策划案，在数值配表中为 `special_behavior_skin_requirements` 添加至少一个示例映射，例如：`{'101': 'skin_001'}`，表示行为ID 101 需要皮肤ID skin_001。
+### Issue 8
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.behavior_pool_weights
+- 问题描述: 数值说明书中定义了 `behavior_pool_weights` 字段，但数值配表中 `behavior_scheduling.behavior_pool_weights` 的所有时段对应的权重映射均为空对象 `{}`。策划案中提到行为池包含多个行为，且系统会随机选取一个播放，但权重配置为空意味着无法进行随机选取，系统将无法正常工作。
+- 修改建议: 请根据策划案，为每个时段的行为池填充具体的权重映射，例如：`{'1': 10, '2': 20, '3': 15}`，表示行为ID 1的权重为10，行为ID 2的权重为20，行为ID 3的权重为15。
+### Issue 9
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.unlocked_behavior_ids
+- 问题描述: 数值说明书中定义了 `unlocked_behavior_ids` 字段，但数值配表中 `behavior_scheduling.unlocked_behavior_ids` 和 `affection_stage_unlock.unlocked_behavior_ids` 的配置完全一致。这导致了数据冗余，且如果后续需要修改解锁行为，需要同时修改两处，增加了维护成本和出错风险。
+- 修改建议: 请考虑将 `unlocked_behavior_ids` 的配置统一到 `affection_stage_unlock` 下，并在 `behavior_scheduling` 中通过外键引用，避免数据冗余。
+### Issue 10
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.current_behavior_id
+- 问题描述: 数值说明书中 `current_behavior_id` 的默认值为 0，但数值配表中 `behavior_scheduling.current_behavior_id` 的 base 值也为 0。策划案中提到默认行为ID为0表示无行为，但未明确说明在无行为时角色应如何表现（例如，是静止站立还是播放一个默认的待机动画）。
+- 修改建议: 请与系统策划确认，当 `current_behavior_id` 为 0 时，角色应播放何种默认行为或动画，并在数值说明书中补充说明。
+### Issue 11
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接)
+- 问题描述: 程序蓝图中的 `ReportInteraction` API 请求参数包含 `touch_region`，但策划案中触摸反馈的检测逻辑是先检测敏感部位，再检测可交互部位。如果客户端直接上报 `touch_region`，服务端将无法进行独立的二次校验，因为客户端可能伪造 `touch_region` 的值。
+- 修改建议: 请修改 `ReportInteraction` API 的请求参数，将 `touch_region` 替换为原始的点击坐标 `click_position_x` 和 `click_position_y`，让服务端根据角色骨骼位置进行独立的射线检测，以确定实际触摸的部位。
+### Issue 12
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、 后端逻辑划分 (Server) - 3.2 核心校验逻辑
+- 问题描述: 程序蓝图中的 `ReportSensitiveTouch` API 用于上报敏感部位点击，但策划案中敏感部位点击的检测逻辑是：客户端射线检测命中敏感部位后，立即播放警告反馈，并上报坐标给服务端进行二次校验。这意味着客户端已经处理了敏感部位点击，服务端的二次校验主要用于防作弊和封禁。然而，`ReportSensitiveTouch` API 的返回参数中包含 `is_sensitive`，如果服务端二次校验发现不是敏感部位，客户端已经播放的警告反馈将无法撤回，导致体验不一致。
+- 修改建议: 建议修改流程：客户端点击后，先不上报，而是等待服务端二次校验结果。如果服务端确认是敏感部位，客户端再播放警告反馈。或者，客户端先播放一个短暂的、可被打断的预备反馈（如角色身体微颤），待服务端确认后再播放完整的警告反馈。
+### Issue 13
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接) - 4.1 核心接口
+- 问题描述: 程序蓝图中的 `SwitchCharacter` API 返回参数包含 `unlocked_behavior_ids`、`unlocked_touch_regions`、`interaction_option_ids`，这些数据是客户端初始化角色状态所必需的。但策划案中，这些数据是由好感度阶段决定的，而好感度阶段数据已经在 `user_dormitory_character` 表中。服务端在返回 `SwitchCharacter` 响应时，应该根据当前角色的好感度阶段，从配置表中查询并返回这些数据，而不是让客户端自行计算。
+- 修改建议: 请确保 `SwitchCharacter` API 的后端逻辑正确地从配置表中查询并返回与当前好感度阶段对应的 `unlocked_behavior_ids`、`unlocked_touch_regions` 和 `interaction_option_ids`。
+### Issue 14
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、 数值与配置表挂载 - 5.1 配置表读取
+- 问题描述: 程序蓝图中的 `affection_stage_thresholds` 数组为 `[0, 100, 300, 600, 1000, 1500]`，但策划案中好感度阶段阈值为：陌生 (0-100)、熟悉 (101-300)、友好 (301-600)、亲密 (601-1000)、爱慕 (1001-1500)。程序蓝图中的阈值数组有 6 个元素，对应 5 个阶段（0-4），但策划案中阶段 0 的上限是 100，阶段 1 的上限是 300，以此类推。程序蓝图中的阈值数组 `[0, 100, 300, 600, 1000, 1500]` 是正确的，但需要确保计算逻辑正确地将经验值映射到阶段。例如，经验值 100 应属于阶段 0，经验值 101 应属于阶段 1。
+- 修改建议: 请在程序蓝图中明确 `affection_stage` 的计算逻辑，例如：'遍历阈值数组，找到第一个大于当前经验值的阈值，其索引减1即为当前阶段'，并确保边界值（如经验值恰好等于阈值）的处理与策划案一致。
+### Issue 15
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、 数值与配置表挂载 - 5.2 配置表读取流程
+- 问题描述: 程序蓝图中的 `sensitive_area_collider_config` 配置按角色体型（萝莉/御姐）定义球心偏移和半径，但数值说明书和数值配表中均未提供任何关于角色体型差异的配置数据。这会导致程序无法实现该功能。
+- 修改建议: 请与数值策划和美术沟通，在数值配表中增加 `sensitive_area_collider_config` 配置，按角色体型（或按角色ID）定义敏感部位碰撞体的球心偏移和半径。
+### Issue 16
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 四、 经济循环与商业化埋点
+- 问题描述: 策划案中每日好感度经验上限为 200 点，但数值说明书中 `daily_affection_experience_cap` 的默认值为 100，两者不一致。
+- 修改建议: 请确认每日好感度经验上限的正确值，并确保数值说明书和程序蓝图中的配置与之同步。
+### Issue 17
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 三、 表现层与角色展示联动（核心强制项） - 擦边互动设计 - 敏感部位碰撞体定义与检测逻辑
+- 问题描述: 策划案中定义了敏感部位碰撞体的半径（如胸部半径 0.15 米），但未说明这些半径值是否因角色体型（萝莉 vs 御姐）而有所不同。程序蓝图提到了按体型配置，但策划案中未明确。
+- 修改建议: 请明确敏感部位碰撞体的半径是否因角色体型而异，如果是，请提供不同体型对应的半径值或配置规则。
+### Issue 18
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、 核心规则与玩法机制 - 2.1 行为种类编排（混合型）
+- 问题描述: 策划案中提到“系统每 2 小时（现实时间）自动切换时段”，但未说明游戏内时间与现实时间的换算关系。例如，游戏内 1 小时等于现实时间多少秒？这会影响行为切换和时段提示的实现。
+- 修改建议: 请明确游戏内时间与现实时间的换算比例，例如：'游戏内 1 小时 = 现实时间 10 分钟'，或直接说明时段切换的触发机制（如：每 2 小时现实时间切换一次）。
+### Issue 19
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、 核心规则与玩法机制 - 2.2 交互与反馈 - 主动触发
+- 问题描述: 策划案中互动选项菜单的内容在不同好感度阶段有所不同，但未明确每个选项对应的具体动画、语音和表情反馈。例如，'打招呼'在陌生阶段和爱慕阶段的反馈是否相同？
+- 修改建议: 请为每个互动选项在不同好感度阶段下的反馈（动画、语音、表情）提供更详细的描述或配置表，以便数值策划和程序进行实现。
+### Issue 20
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、 核心规则与玩法机制 - 2.1 行为种类编排（混合型） - 道具触发层
+- 问题描述: 策划案中提到道具触发行为会“打断当前行为”，但未说明如果当前行为是随机事件，道具触发行为是否也会打断随机事件。
+- 修改建议: 请明确道具触发行为与随机事件之间的优先级关系，例如：'道具触发行为优先级高于随机事件，可以打断随机事件播放'。
+### Issue 21
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 五、 旧系统与数据联动（强依赖）
+- 问题描述: 策划案中提到了与角色系统、好感度系统、皮肤系统、背包/道具系统的联动，但未说明与任务系统或成就系统的联动。例如，是否可以通过完成宿舍相关任务获得奖励？
+- 修改建议: 请考虑是否需要在宿舍系统中增加与任务/成就系统的联动，以增加玩家的目标感和留存率。
+**当前审查总计问题:** 21 个
+
+--- 审查时间: 2026-05-29 12:44:04 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.1.2 好感度行为层（好感度驱动）
+- 问题描述: 策划案中描述好感度阶段为5阶段：陌生(0-100)、熟悉(101-300)、友好(301-600)、亲密(601-1000)、爱慕(1001-2000)，但数值说明书和数值配表中爱慕阶段的上限为1500（1001-1500），与策划案中的2000不一致。
+- 修改建议: 请确认好感度阶段爱慕阶段的正确上限值，并统一策划案与数值文档中的阈值范围。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.2.3 随机事件
+- 问题描述: 策划案中描述随机事件触发概率为基础15%，好感度每阶段+5%，最高35%（爱慕阶段）。但程序蓝图中写的是触发概率10%，冷却时间30分钟，与策划案数值不一致。
+- 修改建议: 请确认随机事件触发概率的正确数值，并同步更新程序蓝图中的配置。
+### Issue 3
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 二、核心规则与玩法机制 / 2.1.1 基础行为层（时间驱动）
+- 问题描述: 策划案中描述每现实30分钟=游戏内1小时，每天划分为5个时段。但程序蓝图中写的是每2小时现实时间切换一次时段，与策划案的30分钟换算不一致。
+- 修改建议: 请确认时段切换的现实时间间隔，并统一策划案与程序蓝图中的描述。
+### Issue 4
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 一、系统概述与设计愿景 / 1.1 系统定位
+- 问题描述: 策划案中描述宿舍解锁条件为主线进度达到第2章，但程序蓝图中写的是玩家等级≥5。两个条件不一致。
+- 修改建议: 请确认宿舍系统的解锁条件，并统一策划案与程序蓝图中的描述。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / affection_stage
+- 问题描述: 数值说明书中好感度阶段枚举值中爱慕阶段经验范围为1001-1500，但策划案中为1001-2000，数值配表中continuous_formulas的affection_experience growth为10，未明确阶段阈值数组。
+- 修改建议: 请确认爱慕阶段的正确经验上限，并确保数值配表中的阈值数组与策划案一致。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary / touch_region
+- 问题描述: 数值说明书中touch_region枚举包含敏感部位（胸部、臀部、大腿内侧、裆部），但策划案中明确禁止点击这些部位，且程序蓝图中的敏感部位碰撞体检测使用了默认值，未提供按角色体型区分的配置。
+- 修改建议: 请补充按角色体型区分的敏感部位碰撞体配置数据，或明确所有角色使用统一默认值。
+### Issue 7
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: discrete_milestones / interaction_feedback / unlocked_touch_regions
+- 问题描述: 数值配表中unlocked_touch_regions在阶段2、3、4均为[1,2,3]（头、手、肩膀），但策划案中阶段2（友好）解锁触摸（头/手），阶段3（亲密）解锁触摸（头/手/肩膀），阶段4（爱慕）解锁触摸（头/手/肩膀），与策划案不一致。
+- 修改建议: 请根据策划案的好感度阶段解锁表调整unlocked_touch_regions：阶段2应为[1,2]，阶段3和4应为[1,2,3]。
+### Issue 8
+- 责任方: numerical_planner
+- 目标文件: data.json
+- 锚点: discrete_milestones / interaction_feedback / interaction_option_ids
+- 问题描述: 数值配表中interaction_option_ids在阶段0和1均为[1,2,3]，阶段2和3为[1,2,3,4]，阶段4为[1,2,3,4,5]。但策划案中阶段0和1只有打招呼、送礼物、离开（3个选项），阶段2有打招呼、送礼物、触摸（头/手）、离开（4个选项），阶段3和4有打招呼、送礼物、触摸（头/手/肩膀）、拥抱、离开（5个选项），与策划案不一致。
+- 修改建议: 请根据策划案调整interaction_option_ids：阶段0和1应为[1,2,3]，阶段2应为[1,2,3,4]，阶段3和4应为[1,2,3,4,5]。
+### Issue 9
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、数值与配置表挂载 / 5.1 配置表读取流程
+- 问题描述: 程序蓝图中读取好感度经验阈值数组为[0, 100, 300, 600, 1000, 1500]，但策划案中爱慕阶段上限为2000，数值说明书中为1500，存在不一致。
+- 修改建议: 请确认正确的阈值数组，并确保程序蓝图与数值文档一致。
+### Issue 10
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、数值与配置表挂载 / 5.1 配置表读取流程
+- 问题描述: 程序蓝图中读取随机事件触发概率为10%，但策划案中为基础15%+好感度加成，最高35%。
+- 修改建议: 请确认随机事件触发概率的正确数值，并更新程序蓝图中的配置。
+### Issue 11
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、数值与配置表挂载 / 5.1 配置表读取流程
+- 问题描述: 程序蓝图中读取时段切换间隔为2小时现实时间，但策划案中为每现实30分钟=游戏内1小时，每天5个时段，换算后时段切换间隔应为现实2.4小时（144分钟），与2小时不一致。
+- 修改建议: 请确认时段切换的现实时间间隔，并更新程序蓝图中的描述。
+### Issue 12
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 一、整体架构概述
+- 问题描述: 程序蓝图中主入口组件检测玩家等级≥5且拥有角色，但策划案中解锁条件为主线进度达到第2章。
+- 修改建议: 请确认宿舍系统的解锁条件，并统一程序蓝图与策划案中的描述。
+### Issue 13
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 (Server) / 核心校验逻辑
+- 问题描述: 程序蓝图中敏感部位点击校验提到若检测到异常点击坐标，踢出宿舍并封禁账号。但策划案中仅提示“请不要这样”，没有封禁逻辑。
+- 修改建议: 请确认敏感部位点击的惩罚机制，并统一程序蓝图与策划案中的描述。
+### Issue 14
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 六、开发优先级与依赖链路 / 阶段三 (P2 - 表现层打磨)
+- 问题描述: 程序蓝图中敏感部位连续点击3次锁定交互10秒，但策划案中为拒绝互动5分钟。
+- 修改建议: 请确认敏感部位连续点击的锁定时间，并统一程序蓝图与策划案中的描述。
+**当前审查总计问题:** 14 个
+
+--- 审查时间: 2026-05-29 12:50:53 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 二、核心规则与玩法机制 > 2.2.2 主动触发
+- 问题描述: 策划案中描述互动冷却时间为30秒，但在程序蓝图后端逻辑中提及了“敏感部位连续点击3次后锁定交互5分钟”的机制，该机制在策划案中未定义。
+- 修改建议: 请在策划案中明确是否增加“敏感部位连续点击3次后锁定交互5分钟”的规则，或确认该机制为程序蓝图中的额外设计，并补充到策划案中。
+### Issue 2
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: discrete_milestones > interaction_feedback > interaction_option_ids
+- 问题描述: 数值配表中，好感度阶段0和1的互动选项ID列表为[1,2,3]，但策划案中阶段0（陌生）仅解锁“打招呼”，阶段1（熟悉）解锁“打招呼、送礼物”。配表未区分阶段0和1的选项差异，且缺少“离开”选项的对应关系。
+- 修改建议: 请根据策划案中的好感度阶段解锁表，调整数值配表中阶段0和1的interaction_option_ids，确保阶段0仅包含“打招呼”对应的ID，阶段1包含“打招呼”和“送礼物”对应的ID，并明确“离开”选项的ID归属。
+### Issue 3
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: discrete_milestones > interaction_feedback > random_event_pool_ids
+- 问题描述: 数值配表中，所有好感度阶段的random_event_pool_ids均为空数组，但策划案中阶段1（熟悉）解锁了随机事件“打翻杯子”，阶段2（友好）解锁了“哼歌、对着镜子整理头发”等事件。配表未配置任何随机事件池。
+- 修改建议: 请根据策划案中的好感度阶段解锁表，为阶段1、2、3、4配置对应的随机事件池ID列表，并确保事件池ID与随机事件配置表关联。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: discrete_milestones > affection_stage_unlock > unlocked_behavior_ids
+- 问题描述: 数值配表中，affection_stage_unlock模块的unlocked_behavior_ids在所有阶段均为空数组，但策划案中每个好感度阶段都有对应的解锁行为示例（如阶段0解锁看书、玩手机等）。配表未配置任何行为ID。
+- 修改建议: 请根据策划案中的好感度阶段解锁表，为每个阶段配置对应的行为ID列表，并确保行为ID与行为配置表关联。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: discrete_milestones > behavior_scheduling > behavior_pool_weights
+- 问题描述: 数值配表中，behavior_pool_weights在所有时段均为空对象，但策划案中每个时段对应一个行为池（包含3-5个行为），且行为池中行为有权重。配表未配置任何权重映射。
+- 修改建议: 请根据策划案中的时段行为池设计，为每个时段配置行为池ID对应的权重映射，例如{行为ID: 权重值}。
+### Issue 6
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 四、 前后端通信协议 (API & 数据对接) > TriggerRandomEvent
+- 问题描述: 程序蓝图中的TriggerRandomEvent API由客户端主动调用，但策划案中随机事件是“每个时段开始时，系统根据概率表判定是否触发”，即由服务端或客户端定时器驱动，而非玩家主动触发。API设计不符合策划案逻辑。
+- 修改建议: 请将随机事件触发逻辑改为服务端定时触发（如时段切换时），或由客户端时段管理器在时段开始时自动请求服务端判定，而非提供玩家可调用的API。
+### Issue 7
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 三、 后端逻辑划分 (Server) > 核心校验逻辑
+- 问题描述: 程序蓝图后端逻辑中提到了“敏感部位连续点击3次后锁定交互5分钟”的机制，但策划案中仅定义了触摸冷却时间为10秒，未提及此防滥用规则。该机制在策划案中无依据。
+- 修改建议: 请确认该机制是否为程序蓝图中的额外设计，若是，需与策划对齐并补充到策划案中；若不是，请移除该逻辑，仅保留策划案中定义的10秒触摸冷却。
+### Issue 8
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 二、核心规则与玩法机制 > 2.1.3 道具触发层
+- 问题描述: 策划案中描述道具效果持续时间为“当前时段剩余时间”，但未定义当道具在时段切换时是否强制结束。数值说明书中item_effect_end_time为浮点数，但未明确时段切换时是否重置。
+- 修改建议: 请明确道具效果在时段切换时的处理逻辑：是强制结束还是持续到原定时长？并在策划案中补充说明。
+### Issue 9
+- 责任方: numerical_planner
+- 目标文件: 数值说明书
+- 锚点: field_dictionary > interaction_option_ids
+- 问题描述: 数值说明书中interaction_option_ids字段的描述提到“阶段0和1为[1,2,3]（打招呼、送礼物、离开）”，但策划案中阶段0（陌生）仅解锁“打招呼”，阶段1（熟悉）解锁“打招呼、送礼物”，与说明书描述不符。
+- 修改建议: 请根据策划案修正数值说明书中interaction_option_ids的描述，确保阶段0仅包含“打招呼”对应的ID，阶段1包含“打招呼”和“送礼物”对应的ID。
+### Issue 10
+- 责任方: numerical_planner
+- 目标文件: 数值说明书
+- 锚点: field_dictionary > unlocked_touch_regions
+- 问题描述: 数值说明书中unlocked_touch_regions字段的描述未列出各阶段的具体值，仅说“默认值为空数组”，但策划案中明确列出了各阶段解锁的触摸区域（如阶段1解锁头，阶段2解锁头、手等）。
+- 修改建议: 请根据策划案中的好感度阶段解锁表，在数值说明书中补充unlocked_touch_regions字段在各阶段的具体值列表。
+### Issue 11
+- 责任方: numerical_planner
+- 目标文件: 数值说明书
+- 锚点: field_dictionary > random_event_pool_ids
+- 问题描述: 数值说明书中random_event_pool_ids字段的描述未提及各阶段的具体值，仅说“默认值为空数组”，但策划案中阶段1（熟悉）解锁了随机事件“打翻杯子”，阶段2（友好）解锁了更多事件。
+- 修改建议: 请根据策划案中的好感度阶段解锁表，在数值说明书中补充random_event_pool_ids字段在各阶段的具体值列表。
+### Issue 12
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 五、 数值与配置表挂载 > 好感度阶段配置表 (AffectionStageConfig)
+- 问题描述: 程序蓝图中好感度阶段配置表包含threshold_min和threshold_max字段，但数值配表中affection_stage_unlock模块的discrete_milestones仅定义了阶段对应的解锁列表，未定义阈值范围。配置表与配表不一致。
+- 修改建议: 请确保数值配表中包含好感度阶段阈值的定义（如每个阶段的最小和最大经验值），或调整程序蓝图中的配置表结构以匹配现有配表。
+**当前审查总计问题:** 12 个
+
+--- 审查时间: 2026-05-29 15:19:44 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 2.1 好感度养成循环 - 送礼
+- 问题描述: 系统案中送礼描述为“若礼物符合角色喜好标签，额外获得[GIFT_PREFERENCE_BONUS]倍经验”，但未定义“喜好标签”在数值表中的具体字段或枚举。数值表`field_dictionary`中无角色喜好标签相关字段，`discrete_milestones`中礼物ID也未关联标签。导致程序无法判断礼物是否匹配喜好。
+- 修改建议: 在数值表`field_dictionary`中为礼物或角色增加喜好标签字段（如`gift_preference_tags`或`character_favorite_tags`），并在`discrete_milestones`或独立礼物表中定义每个礼物的标签，以便程序实现加成逻辑。
+### Issue 2
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: continuous_formulas - affection_experience
+- 问题描述: 数值配表中`affection_experience`的公式为`base + growth * (affection_level - 1)`，但系统案2.1节提到好感度等级范围为1至`[MAX_AFFECTION_LEVEL]`（10级），且每级升级所需经验由数值表定义。当前公式为线性增长，但未提供`base`和`growth`的具体数值，也未在`discrete_milestones`中给出每级阈值。程序蓝图5节引用的`EXP_THRESHOLD_LEVEL_X`数组无数据来源。
+- 修改建议: 在`continuous_formulas`中补充`base`和`growth`的具体数值，或在`discrete_milestones`中为每个等级明确列出`exp_threshold`字段，确保程序能获取每级升级所需经验值。
+### Issue 3
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 2.3 日常动作循环
+- 问题描述: 系统案2.3节提到“角色当前动作状态存储在客户端本地，不同步至服务器”，但未定义断线重连后动作状态的恢复逻辑。数值表`field_dictionary`中无`current_action_state`字段，程序蓝图也未涉及客户端本地存储的持久化方案。若玩家断线，动作状态丢失，可能导致表现层不一致。
+- 修改建议: 在系统案中补充断线重连后动作状态的恢复规则（如从上次状态继续或随机初始化），并在数值表`field_dictionary`中增加`current_action_state`字段（整数枚举），程序蓝图需在客户端本地存储该状态并实现恢复逻辑。
+### Issue 4
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 三、后端逻辑划分 - 持久化数据
+- 问题描述: 程序蓝图后端持久化字段列表包含了`skin_inventory`（整数数组），但数值表`field_dictionary`中`skin_inventory`被标注为“与owned_skins冗余，用于付费系统”。系统案5.4节图鉴系统提到“解锁的内容在图鉴系统中可回看”，但未定义`skin_inventory`与`owned_skins`的同步规则。冗余字段可能导致数据不一致。
+- 修改建议: 在程序蓝图中明确`skin_inventory`与`owned_skins`的同步机制（如每次购买皮肤时同时更新两个字段），或删除冗余字段`skin_inventory`，统一使用`owned_skins`。同时，系统案需补充图鉴系统对皮肤数据的引用方式。
+### Issue 5
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 2.6 对话
+- 问题描述: 系统案2.6节提到“玩家可选择2-3个回复选项（仅表现层影响，不改变任何数值）”，但未定义回复选项的文本来源和选择后的表现层反馈细节（如角色表情变化的具体映射）。数值表`field_dictionary`中无`dialog_options`或`dialog_responses`字段，程序蓝图`TriggerDialog`接口的请求参数`dialog_option_id`无对应数据表支持。
+- 修改建议: 在数值表中增加`dialog_options`表，定义每个角色的对话选项ID、文本、关联的表情和语音ID。系统案需补充回复选项与角色表情的映射规则，程序蓝图需在`TriggerDialog`接口中根据`dialog_option_id`返回对应的表现层数据。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: discrete_milestones - affection_level 7
+- 问题描述: 数值配表`discrete_milestones`中，等级7解锁了`unlocked_sensitive_areas: [6, 7]`，但系统案2.4节提到敏感区域为“耳根、腰侧”，且数值表`field_dictionary`中`unlocked_sensitive_areas`描述为“已解锁的敏感区域ID列表（耳根、腰侧）”。然而，`unlocked_touch_zones`在等级7也包含了ID 6和7，导致敏感区域与普通触摸区域ID重叠，可能引发程序逻辑冲突（如触摸区域ID 6同时属于普通和敏感区域）。
+- 修改建议: 在数值表中为触摸区域ID分配独立范围（如普通区域ID 1-5，敏感区域ID 6-7），并确保`unlocked_touch_zones`在等级7时仅包含普通区域ID（1-5），敏感区域通过`unlocked_sensitive_areas`单独管理。程序蓝图需在触摸校验中区分普通和敏感区域。
+### Issue 7
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 5.2 好感度数据
+- 问题描述: 系统案5.2节提到“每`[AFFECTION_STAT_INTERVAL]`级（例如5级），提供微量属性加成”，但未定义具体加成数值（如暴击率`[AFFECTION_CRIT_BONUS]`、伤害`[AFFECTION_DMG_BONUS]`）。数值表`field_dictionary`和`continuous_formulas`中均无这些字段，程序蓝图5节引用的`AFFECTION_CRIT_BONUS`和`AFFECTION_DMG_BONUS`无数据来源。
+- 修改建议: 在数值表`continuous_formulas`或新增`battle_bonus`节中，明确每5级提供的暴击率和伤害加成数值（如`affection_crit_bonus: 0.02`，`affection_dmg_bonus: 0.05`），并补充到`field_dictionary`中。
+**当前审查总计问题:** 7 个
+
+--- 审查时间: 2026-05-29 15:23:05 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 二、核心规则与玩法机制 - 2.1.3 对话
+- 问题描述: 系统策划案中对话的【前置条件】为“每日首次进入宿舍”，但【流转逻辑】中又提到玩家选择回复后更新心情状态，且【边界与异常兜底】提到30秒后自动选择默认选项。这导致逻辑死胡同：如果对话仅在每日首次进入时触发一次，那么后续进入宿舍时是否还能触发对话？如果只能触发一次，则【每日对话次数上限 DAILY_DIALOG_LIMIT】与【DAILY_DIALOG_COUNT】的计数逻辑与“仅首次触发”矛盾。
+- 修改建议: 请明确每日对话的触发机制：是每日首次进入宿舍时触发一次，还是每次进入宿舍都可触发一次（但有每日次数上限）？如果是前者，请删除【DAILY_DIALOG_LIMIT】和【DAILY_DIALOG_COUNT】相关描述；如果是后者，请修正【前置条件】为“玩家进入宿舍时，且当日对话次数未达上限”。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 二、核心规则与玩法机制 - 2.1.1 触摸互动
+- 问题描述: 系统策划案中触摸互动的【前置条件】为“角色好感度等级至少为1”，但【流转逻辑】中又提到敏感区域（耳根、腰侧）需要【AFFECTION_LEVEL】>=【SENSITIVE_AREA_UNLOCK_LEVEL】才能解锁。然而，数值配表中敏感区域（ID 6,7）是在好感度等级7时才解锁的。这意味着在等级1-6期间，玩家触摸小腿（ID 6）和耳根（ID 7）时，系统应如何处理？系统案中仅提到“若未解锁，触发通用反馈（如角色微笑摇头）”，但未明确未解锁区域是否包含在可触摸区域列表中。
+- 修改建议: 请明确在好感度等级1-6期间，小腿（ID 6）和耳根（ID 7）是否属于可触摸区域？如果是，请补充未解锁时的具体反馈逻辑；如果不是，请修正数值配表中【unlocked_touch_zones】在等级1-6时不应包含ID 6和7。
+### Issue 3
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: discrete_milestones.affection_level
+- 问题描述: 数值配表中【unlocked_touch_zones】在所有等级（1-10）中均为[1,2,3,4,5]，从未包含ID 6（小腿）和ID 7（耳根）。但【unlocked_sensitive_areas】在等级7-10中包含了[6,7]。根据数值说明书的【implementation_notes】第3条，程序需优先判断【unlocked_sensitive_areas】。然而，如果【unlocked_touch_zones】从未包含ID 6和7，那么玩家在等级7之前触摸小腿和耳根时，系统应如何判定？这导致了逻辑断裂：玩家在等级1-6时无法触摸小腿和耳根（因为不在【unlocked_touch_zones】中），但系统案中又提到这些是敏感区域，需要等级7才能解锁。
+- 修改建议: 请修正数值配表，在等级7-10的【unlocked_touch_zones】中添加ID 6和7，以确保玩家在等级7后可以触摸这些区域，并触发敏感区域反馈。或者，如果设计意图是这些区域始终可触摸但仅在等级7后触发特殊反馈，请更新【unlocked_touch_zones】在所有等级中包含ID 6和7。
+### Issue 4
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 四、前后端通信协议 (API & 数据对接) - EnterDormitory
+- 问题描述: 程序蓝图中【EnterDormitory】API的返回参数包含【owned_characters: bitmask】，但数值说明书中的【owned_characters】字段类型为【整数数组】。根据领域裁决原则第2条，数据类型冲突以Tech Architect为准，但这里存在不一致：bitmask和整数数组是两种不同的数据结构，会导致客户端解析错误。
+- 修改建议: 请统一【owned_characters】的数据类型。如果使用bitmask，请更新数值说明书中的字段类型；如果使用整数数组，请更新程序蓝图中的API返回参数。
+### Issue 5
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 五、旧系统与数据联动 - 5.2 好感度数据
+- 问题描述: 系统策划案中提到好感度等级每【AFFECTION_STAT_INTERVAL】级（例如5级）提供微量属性加成【AFFECTION_CRIT_BONUS】和【AFFECTION_DMG_BONUS】，并说明数值由数值策划在【numerical_design_dormitory.json】中定义。但数值配表（system_numerical_docs.json和data.json）中完全没有提供【AFFECTION_CRIT_BONUS】和【AFFECTION_DMG_BONUS】这两个字段，也没有任何与战斗属性加成相关的配置。这属于字段遗漏。
+- 修改建议: 请在数值配表中添加【AFFECTION_CRIT_BONUS】和【AFFECTION_DMG_BONUS】字段，并定义每个里程碑等级（如5级、10级）对应的具体加成数值。
+### Issue 6
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 四、经济循环与商业化埋点 - 4.1 免费产出
+- 问题描述: 系统策划案中提到每日互动产出基础货币【BASE_CURRENCY】，并设置了每日免费产出上限【DAILY_FREE_CURRENCY_LIMIT】。但数值说明书和数值配表中均未定义【BASE_CURRENCY】和【DAILY_FREE_CURRENCY_LIMIT】这两个字段，也没有任何与基础货币产出相关的配置。这属于字段遗漏。
+- 修改建议: 请在数值配表中添加【BASE_CURRENCY】和【DAILY_FREE_CURRENCY_LIMIT】字段，并定义每次互动产出的基础货币数量及每日上限。
+**当前审查总计问题:** 6 个
+
+--- 审查时间: 2026-05-29 15:25:46 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: [四、经济循环与商业化埋点 - 4.1 免费产出] - 失败时
+- 问题描述: 系统策划案中描述了【DAILY_FREE_CURRENCY_LIMIT】作为每日基础货币获取上限，并提到触摸和送礼行为会产出【BASE_CURRENCY】。但在数值配表和程序蓝图中，完全没有定义【DAILY_FREE_CURRENCY_LIMIT】这个字段，也没有定义【BASE_CURRENCY】的产出数值（如[CURRENCY_REWARD_PER_TOUCH]、[CURRENCY_REWARD_PER_GIFT]、[CURRENCY_REWARD_PER_GREETING]）。数值配表中只定义了经验值相关的限制（DAILY_TOUCH_LIMIT、DAILY_GIFT_LIMIT），程序蓝图也只校验了触摸和送礼的次数限制，未涉及货币产出逻辑。这导致系统策划案中的经济循环逻辑在数值和程序层面完全缺失。
+- 修改建议: 请系统策划与数值策划确认【DAILY_FREE_CURRENCY_LIMIT】和【BASE_CURRENCY】产出数值是否为本系统的核心设计。如果是，数值策划需在数值配表中补充这些字段和数值；如果不是，系统策划需修改文案，删除或替换为其他已定义的奖励机制（如好感度经验）。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: [四、经济循环与商业化埋点 - 4.1 免费产出] - 异常时
+- 问题描述: 系统策划案中描述了断线重连后补发【BASE_CURRENCY】的逻辑，但程序蓝图的后端核心校验逻辑和API协议中，完全没有实现断线重连后的数据恢复或补发机制。程序蓝图仅在阶段三的‘边缘异常兜底’中笼统提到‘实现断线重连后的数据恢复’，但未定义具体的校验规则、补发接口或日志记录方案。这是一个逻辑死胡同，开发无法落地。
+- 修改建议: 系统策划需细化断线重连补发逻辑的具体规则（如：补发依据是什么？服务器日志如何记录？补发是否有时间窗口限制？），并与主程协商后，由主程在程序蓝图中补充对应的后端校验逻辑和API接口定义。
+### Issue 3
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: [四、经济循环与商业化埋点 - 4.1 免费产出] - 表现层反馈
+- 问题描述: 系统策划案中描述了每日问候对话会产出【BASE_CURRENCY】并显示飘字提示，但在【数据状态变化】中，每日问候对话仅将 `player_daily_greeting_flag` 置为 `true`，并未提及增加【BASE_CURRENCY】。同时，程序蓝图中的对话校验逻辑（`[PerformDialog]`）也只更新了 `mood_state` 和 `daily_dialog_triggered`，没有涉及任何货币产出。这导致对话行为的货币产出逻辑在系统案内部自相矛盾，且与程序蓝图不一致。
+- 修改建议: 系统策划需明确每日问候对话是否产出【BASE_CURRENCY】。如果是，需在【数据状态变化】中补充货币产出逻辑，并通知主程在程序蓝图的 `[PerformDialog]` 接口中增加货币产出和上限校验；如果不是，需修改【表现层反馈】中的飘字提示描述。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: 数值说明书
+- 锚点: field_dictionary.daily_touch_count
+- 问题描述: 数值说明书中 `daily_touch_count` 的取值范围描述为 `0至DAILY_TOUCH_LIMIT（10）`，但数值配表 `continuous_formulas` 中 `daily_touch_count` 的 `growth` 为 `0`，且 `discrete_milestones` 中未定义 `DAILY_TOUCH_LIMIT` 这个常量。程序蓝图引用了 `[DAILY_TOUCH_LIMIT] (10)`，但数值配表中没有提供这个字段的定义或来源。这导致 `DAILY_TOUCH_LIMIT` 的值（10）没有在数值配表中明确声明，属于字段遗漏。
+- 修改建议: 数值策划需在数值配表中明确声明 `DAILY_TOUCH_LIMIT` 这个常量字段及其值（10），或者将其作为 `daily_touch_count` 字段的 `max` 属性进行定义，确保程序可以从数值配表中读取到该限制值。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: 数值说明书
+- 锚点: field_dictionary.daily_gift_count
+- 问题描述: 数值说明书中 `daily_gift_count` 的取值范围描述为 `0至DAILY_GIFT_LIMIT（5）`，但数值配表 `continuous_formulas` 中 `daily_gift_count` 的 `growth` 为 `0`，且 `discrete_milestones` 中未定义 `DAILY_GIFT_LIMIT` 这个常量。程序蓝图引用了 `[DAILY_GIFT_LIMIT] (5)`，但数值配表中没有提供这个字段的定义或来源。这导致 `DAILY_GIFT_LIMIT` 的值（5）没有在数值配表中明确声明，属于字段遗漏。
+- 修改建议: 数值策划需在数值配表中明确声明 `DAILY_GIFT_LIMIT` 这个常量字段及其值（5），或者将其作为 `daily_gift_count` 字段的 `max` 属性进行定义，确保程序可以从数值配表中读取到该限制值。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: 数值配表
+- 锚点: continuous_formulas
+- 问题描述: 程序蓝图在‘数值与配置表挂载’中明确要求读取 `[TOUCH_EXP_BASE]`、`[GIFT_EXP_BASE]`、`[DAILY_FREE_EXP_LIMIT]`、`[DAILY_LOGIN_AFFECTION_EXP]` 等数值常量，但数值配表 `continuous_formulas` 中完全没有定义这些字段。这导致程序无法从数值配表中获取触摸、送礼、每日登录等行为的好感度经验基础值，以及每日经验上限。
+- 修改建议: 数值策划需在数值配表中补充 `TOUCH_EXP_BASE`、`GIFT_EXP_BASE`、`DAILY_FREE_EXP_LIMIT`、`DAILY_LOGIN_AFFECTION_EXP` 等字段及其具体数值，确保程序蓝图引用的所有数值常量都有定义。
+### Issue 7
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 五、数值与配置表挂载
+- 问题描述: 程序蓝图引用了 `[PREFERENCE_BONUS_MULTIPLIER] (1.5)` 和 `[ACTION_CYCLE_INTERVAL]`、`[LOOK_AT_CAMERA_PROBABILITY]`、`[FILTER_LIST]`、`[POSE_LIST]` 等配置，但数值配表和数值说明书中均未定义这些字段。程序蓝图作为技术文档，不应自行定义数值常量，而应引用数值配表中的字段。这属于程序蓝图与数值配表之间的字段遗漏。
+- 修改建议: 主程需与数值策划协商，由数值策划在数值配表中补充 `PREFERENCE_BONUS_MULTIPLIER`、`ACTION_CYCLE_INTERVAL`、`LOOK_AT_CAMERA_PROBABILITY`、`FILTER_LIST`、`POSE_LIST` 等字段及其默认值/列表。然后主程更新程序蓝图，确保所有引用的数值常量都来源于数值配表。
+### Issue 8
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 三、后端逻辑划分 - 核心校验逻辑 - 触摸互动校验
+- 问题描述: 程序蓝图中的触摸互动校验逻辑仅校验了 `[DAILY_TOUCH_COUNT] < [DAILY_TOUCH_LIMIT]`，但系统策划案中明确要求触摸互动产出【BASE_CURRENCY】，且受【DAILY_FREE_CURRENCY_LIMIT】限制。程序蓝图完全忽略了货币产出和货币上限的校验逻辑，与系统策划案不一致。
+- 修改建议: 主程需根据系统策划案的要求，在触摸互动校验逻辑中增加对【BASE_CURRENCY】产出和【DAILY_FREE_CURRENCY_LIMIT】上限的校验。同时，需与数值策划确认【DAILY_FREE_CURRENCY_LIMIT】字段是否已补充到数值配表中。
+### Issue 9
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 三、后端逻辑划分 - 核心校验逻辑 - 送礼校验
+- 问题描述: 程序蓝图中的送礼校验逻辑仅校验了次数和背包数量，但系统策划案中明确要求送礼产出【BASE_CURRENCY】，且受【DAILY_FREE_CURRENCY_LIMIT】限制。程序蓝图完全忽略了货币产出和货币上限的校验逻辑，与系统策划案不一致。
+- 修改建议: 主程需根据系统策划案的要求，在送礼校验逻辑中增加对【BASE_CURRENCY】产出和【DAILY_FREE_CURRENCY_LIMIT】上限的校验。同时，需与数值策划确认【DAILY_FREE_CURRENCY_LIMIT】字段是否已补充到数值配表中。
+### Issue 10
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 四、前后端通信协议 - [PerformTouch] 返回参数
+- 问题描述: 系统策划案中触摸互动成功后，除了增加经验，还会增加【BASE_CURRENCY】。但程序蓝图 `[PerformTouch]` 接口的返回参数中，只包含了 `new_affection_experience`，没有包含货币相关的返回字段（如 `new_base_currency` 或 `new_daily_currency_count`）。这导致客户端无法获取并展示货币变化。
+- 修改建议: 主程需在 `[PerformTouch]` 接口的返回参数中增加货币相关的字段，例如 `new_base_currency`（当前货币总量）和 `new_daily_currency_count`（当日已获取货币量），以便客户端更新UI。
+### Issue 11
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 四、前后端通信协议 - [GiveGift] 返回参数
+- 问题描述: 系统策划案中送礼成功后，除了增加经验，还会增加【BASE_CURRENCY】。但程序蓝图 `[GiveGift]` 接口的返回参数中，只包含了 `new_affection_experience`，没有包含货币相关的返回字段（如 `new_base_currency` 或 `new_daily_currency_count`）。这导致客户端无法获取并展示货币变化。
+- 修改建议: 主程需在 `[GiveGift]` 接口的返回参数中增加货币相关的字段，例如 `new_base_currency`（当前货币总量）和 `new_daily_currency_count`（当日已获取货币量），以便客户端更新UI。
+**当前审查总计问题:** 11 个
+
+--- 审查时间: 2026-05-29 15:30:40 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.4 对话 - 前置条件
+- 问题描述: 对话的前置条件与1.2设计目标中的每日问候逻辑存在冲突。2.4节前置条件要求`player_daily_greeting_flag`为false，但1.2节中每日首次进入宿舍检查的是`player_daily_login_flag`，两者字段名不一致，且1.2节中触发问候后置为`player_daily_greeting_flag`为true，但2.4节中对话完成后也置为true，逻辑重复且字段引用混乱。
+- 修改建议: 统一每日问候的触发条件字段名，建议统一使用`player_daily_greeting_flag`，并明确每日首次进入宿舍时检查该字段，而非`player_daily_login_flag`。同时合并1.2和2.4中关于问候对话的重复描述，确保前置条件、流转逻辑、数据状态变化一致。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.1 好感度养成循环 - 流转逻辑
+- 问题描述: 系统案中描述好感度升级时`[AFFECTION_EXP]`重置为0，但2.1节边界与异常兜底中又提到溢出部分保留至下一级。这两个描述存在逻辑矛盾：如果重置为0，则溢出部分无法保留。
+- 修改建议: 明确升级时的经验处理规则：建议描述为`[AFFECTION_EXP]`减去当前等级阈值，剩余部分作为下一级的起始经验，而非直接重置为0。同时确保与数值配表中`EXP_THRESHOLD_CURRENT_LEVEL`的线性增长公式逻辑一致。
+### Issue 3
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary - daily_dialog_triggered
+- 问题描述: 数值说明书中定义了`daily_dialog_triggered`字段，但系统案中使用的字段名是`player_daily_greeting_flag`，两者功能相同但命名不一致。程序蓝图中同时使用了这两个字段名（后端持久化数据表使用`daily_dialog_triggered`，API返回中使用`player_daily_greeting_flag`），导致数据模型混乱。
+- 修改建议: 统一字段命名，建议统一为`player_daily_greeting_flag`，并在数值说明书中同步更新字段名，确保与系统案和程序蓝图一致。
+### Issue 4
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、后端逻辑划分 - 持久化数据 (DB)
+- 问题描述: 程序蓝图中的角色宿舍数据表包含了`character_action_state`字段，但该字段是客户端表现层状态（日常动作循环），不应由后端持久化。系统案中明确`character_action_state`是客户端实时更新的状态，且拍照模式等纯表现层操作无后台数据变化。后端持久化该字段会导致状态同步问题。
+- 修改建议: 将`character_action_state`从后端持久化数据表中移除，改为客户端本地状态管理。后端仅需在进入宿舍时返回初始状态ID，后续状态切换由客户端状态机控制器独立管理。
+### Issue 5
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、前后端通信协议 - [GiveGift]
+- 问题描述: 送礼API的返回参数中包含了`new_base_currency`，但系统案中送礼行为并未提及会增加基础货币。系统案中只有每日问候对话（2.4节）才会增加`[BASE_CURRENCY]`。送礼API返回基础货币字段会导致数据不一致。
+- 修改建议: 从`[GiveGift]`API的返回参数中移除`new_base_currency`字段，确保送礼行为不涉及基础货币变化。如果送礼确实需要增加基础货币，则需在系统案中补充说明。
+### Issue 6
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.5 日常动作循环 - 前置条件
+- 问题描述: 系统案中日常动作循环的前置条件要求好感度等级至少为`[AFFECTION_LEVEL_MIN]`，但`[AFFECTION_LEVEL_MIN]`默认值为1，而玩家获得角色后好感度等级即为1，这意味着该前置条件永远为真，形同虚设。此外，如果好感度等级为0（未获得角色），玩家根本无法进入宿舍，因此该条件无实际意义。
+- 修改建议: 移除该前置条件，或将其改为更合理的条件（如角色已解锁宿舍场景`character_dormitory_unlocked == true`），避免冗余逻辑。
+### Issue 7
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary - character_battle_stat_bonus
+- 问题描述: 数值说明书中`character_battle_stat_bonus`的类型定义为【浮点数】，但程序蓝图中该字段在后端持久化数据表中也作为浮点数存储。然而，系统案5.2节中描述该字段为“微量属性加成（如暴击率、伤害）”，未明确是百分比还是绝对值。数值配表中该字段的growth为0.0，但discrete_milestones中在等级10、20、30等节点分别设置了0.01、0.02、0.03等值，这些值是否代表百分比加成（如1%、2%）未在数值说明书中明确。
+- 修改建议: 在数值说明书的`character_battle_stat_bonus`字段描述中明确单位（如百分比或千分比），并确保与discrete_milestones中的数值含义一致。例如，如果0.01代表1%，则需在描述中注明。
+### Issue 8
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、数值与配置表挂载
+- 问题描述: 程序蓝图要求挂载`touch_boundary_compliance`字段，但该字段在数值配表的`continuous_formulas`中并未定义。数值说明书中虽然定义了该字段，但类型为布尔值，而程序蓝图将其作为数值配置挂载，类型不匹配。
+- 修改建议: 将`touch_boundary_compliance`从数值配置挂载列表中移除，改为在合规性配置表中定义（如布尔标志位），或由法务/合规团队直接配置，不纳入数值策划的配表范围。
+**当前审查总计问题:** 8 个
+
+--- 审查时间: 2026-05-29 17:01:20 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 互动小游戏 - 水枪射击靶子
+- 问题描述: 系统策划案中，水枪射击小游戏的【流转逻辑】第6点提到“若命中数达到 [HIT_THRESHOLD_SHOOTING]，触发角色特殊奖励”，但【边界与异常兜底】第3点又提到“若玩家多次失败（连续 [FAILURE_THRESHOLD] 次未达标），可消耗 [SKIP_CURRENCY_COST] 基础货币跳过游戏直接获得奖励”。这里存在逻辑死胡同：如果玩家通过“跳过”直接获得奖励，那么“跳过”是否也消耗了“今日该角色已触发过奖励”的机会？如果消耗，则与“多次失败后跳过”的初衷矛盾（跳过是为了避免失败，但跳过本身也消耗了奖励机会）；如果不消耗，则玩家可以无限跳过刷奖励。系统案没有明确说明“跳过”后 `character_daily_game_reward_flag` 的状态变化。
+- 修改建议: 请在【数据状态变化】中明确：当玩家使用“跳过”功能时，`character_daily_game_reward_flag` 是否置为 true。建议统一逻辑：无论达标、未达标还是跳过，只要玩家获得了奖励（包括跳过直接获得），该标志都应置为 true，以保持一致性。
+### Issue 2
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary.daily_free_refresh_count
+- 问题描述: 数值说明书中定义了 `daily_free_refresh_count`（已使用次数），但系统策划案中多处使用的是 `daily_hotspring_free_refresh_count`（剩余次数）。两者语义相反，且数值配表 `continuous_formulas` 中只定义了 `daily_hotspring_free_refresh_count` 的 base 为 3，未定义 `daily_free_refresh_count` 的初始值或公式。这会导致程序蓝图中的后端校验逻辑（3.2节“免费刷新次数校验”）无法确定到底校验哪个字段。
+- 修改建议: 请统一字段命名：要么全部使用 `daily_hotspring_free_refresh_count`（剩余次数），要么全部使用 `daily_free_refresh_count`（已使用次数）。建议删除 `daily_free_refresh_count` 字段，因为系统案和程序蓝图都主要使用 `daily_hotspring_free_refresh_count` 作为剩余次数。
+### Issue 3
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 3.1 持久化数据 (DB)
+- 问题描述: 程序蓝图的持久化数据表中，`current_game_state`、`current_game_hit_count`、`current_game_ball_count`、`camera_mode`、`ui_visibility_state` 等字段被遗漏。这些字段在数值说明书中有明确定义，且系统策划案中明确提到了它们的状态变化（如 `current_game_state` 切换为 `[GAME_STATE_SHOOTING]`）。遗漏这些字段会导致小游戏进行中的状态无法持久化，断线重连后无法恢复游戏状态（虽然系统案说“不保存进度”，但 `current_game_state` 至少应该记录“玩家是否正在游戏中”以防止重复进入）。
+- 修改建议: 请在持久化数据表中补充 `current_game_state` (INT)、`current_game_hit_count` (INT)、`current_game_ball_count` (INT)、`camera_mode` (INT)、`ui_visibility_state` (INT) 字段，并确保与数值说明书中的类型和枚举值一致。
+### Issue 4
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 互动小游戏 - 水枪射击靶子
+- 问题描述: 系统策划案中，水枪射击小游戏的【前置条件】为“当前角色未触发过今日小游戏奖励”，但【边界与异常兜底】第1点提到“若当前角色今日已触发过小游戏奖励，入口按钮置灰”。然而，系统案2.4节【边界与异常兜底】又提到“若该角色所有奖励内容已全部解锁，小游戏奖励入口显示‘已全部解锁’，玩家仍可游玩小游戏但无奖励”。这里存在矛盾：如果所有奖励已解锁，玩家是否还能进入小游戏？前置条件说“未触发过今日小游戏奖励”，但“已全部解锁”意味着奖励已全部触发过，按前置条件应该无法进入。系统案没有明确“已全部解锁”是否覆盖“今日已触发”的判断。
+- 修改建议: 请明确优先级：当角色所有奖励已全部解锁时，应覆盖“今日已触发”的判断，允许玩家进入小游戏（仅游玩无奖励）。建议修改前置条件为：“玩家点击入口按钮，且（当前角色未触发过今日小游戏奖励 或 当前角色所有奖励已全部解锁）”。
+**当前审查总计问题:** 4 个
+
+--- 审查时间: 2026-05-29 17:03:52 ---
+### Issue 1
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 互动小游戏 - 水枪射击靶子
+- 问题描述: 系统案中描述了小游戏开始、命中、结束的数据状态变化，但未明确说明当玩家在游戏过程中主动退出（如点击返回按钮）时的处理逻辑。例如：是否视为放弃？是否重置小游戏状态？是否返还已消耗的射击冷却时间？
+- 修改建议: 补充主动退出小游戏的边界处理逻辑，包括数据状态如何重置、是否消耗免费次数或货币、以及UI反馈。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.4 小游戏奖励共享规则
+- 问题描述: 系统案中说明两个小游戏共享每日奖励次数，但未明确当玩家在第一个小游戏中达标后，第二个小游戏入口的提示文案应统一为'今日奖励已领取'还是'已全部解锁'。同时，未说明若玩家在第一个小游戏中未达标，第二个小游戏是否仍可正常获得奖励。
+- 修改建议: 明确两个小游戏奖励共享的具体规则：若玩家在任意一个小游戏中达标，则当日所有小游戏奖励入口均显示'今日奖励已领取'，且不再发放奖励。若未达标，则两个小游戏均可继续尝试。
+### Issue 3
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 互动小游戏 - 水枪射击靶子
+- 问题描述: 系统案中描述了小游戏结束后的数据状态变化，但未说明当玩家达标后，奖励解锁弹窗关闭后，玩家是留在结算界面还是自动返回主场景。若返回主场景，是否自动重置小游戏相关数据（如current_game_state）？
+- 修改建议: 补充奖励解锁弹窗关闭后的流转逻辑：弹窗关闭后，自动返回温泉中心主场景，并重置小游戏状态（current_game_state置为0）。
+### Issue 4
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.3 互动小游戏 - 捞水球
+- 问题描述: 系统案中描述了小游戏开始、成功捞取、结束的数据状态变化，但未说明当玩家在游戏过程中断线重连后，如何恢复小游戏进度（如剩余水球数、计时器剩余时间）。当前仅说明'已捞取的水球不恢复'，但未说明是否允许玩家继续游戏。
+- 修改建议: 补充断线重连后小游戏进度的恢复逻辑：若断线时游戏仍在进行中，重连后应恢复剩余水球数和剩余时间，允许玩家继续游戏。若断线时间过长导致游戏超时，则按超时处理。
+### Issue 5
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 互动小游戏 - 水枪射击靶子
+- 问题描述: 系统案中描述了小游戏开始、命中、结束的数据状态变化，但未说明当玩家在游戏过程中断线重连后，如何恢复小游戏进度（如剩余靶子数、计时器剩余时间）。当前仅说明'已消耗的射击次数不恢复'，但未说明是否允许玩家继续游戏。
+- 修改建议: 补充断线重连后小游戏进度的恢复逻辑：若断线时游戏仍在进行中，重连后应恢复剩余靶子数和剩余时间，允许玩家继续游戏。若断线时间过长导致游戏超时，则按超时处理。
+### Issue 6
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.1 角色刷新规则
+- 问题描述: 系统案中描述了角色刷新规则，但未说明当玩家使用'今日特惠角色'刷新后，是否还能通过普通刷新（消耗货币）再次刷新出其他角色。若可以，是否影响今日特惠角色的再次出现？
+- 修改建议: 补充说明：使用'今日特惠角色'刷新后，玩家仍可进行普通刷新，但今日特惠角色不会再次出现。
+### Issue 7
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.1 角色刷新规则
+- 问题描述: 系统案中描述了角色刷新规则，但未说明当玩家角色池中所有角色均已解锁全部温泉中心内容时，刷新逻辑是否发生变化（如是否仍可刷新，但无奖励可解锁）。
+- 修改建议: 补充说明：若玩家所有角色均已解锁全部温泉中心内容，刷新逻辑不变，但小游戏奖励入口显示'已全部解锁'，玩家仍可游玩小游戏但无奖励。
+### Issue 8
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中定义了'player_daily_hotspring_first_entry_flag'字段，但系统案中未提及该字段的用途或更新逻辑。该字段在数值配表中被用于离散里程碑，但系统案中仅使用'last_hotspring_entry_timestamp'判断每日首次进入。
+- 修改建议: 确认'player_daily_hotspring_first_entry_flag'字段是否必要，若需要，则在系统案中补充其更新逻辑（如每日首次进入时置为true，次日重置为false）。
+### Issue 9
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中定义了'current_game_ball_count'字段，但系统案中未提及该字段的用途。该字段在数值配表中被定义为'当前捞水球小游戏中剩余的水球数'，但系统案中仅使用'current_minigame_ball_count'记录捞取数。
+- 修改建议: 统一字段命名：将'current_game_ball_count'改为'current_minigame_ball_count'，或确认该字段是否用于记录剩余水球数，并在系统案中补充其更新逻辑。
+### Issue 10
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中定义了'character_hotspring_reward_unlocked'字段，但系统案中使用了'character_hotspring_reward_unlocked'作为数组（记录多条解锁记录），而数值说明书中定义为布尔值。
+- 修改建议: 确认该字段的数据类型：若需记录多条解锁记录，应改为数组或列表；若仅记录是否已解锁过任何奖励，则保持布尔值，并在系统案中明确说明。
+### Issue 11
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json
+- 锚点: field_dictionary
+- 问题描述: 数值说明书中定义了'character_daily_game_reward_flag'字段，但系统案中使用了'daily_minigame_reward_claimed'作为全局标记。字段命名不一致，可能导致开发混淆。
+- 修改建议: 统一字段命名：将数值说明书中的'character_daily_game_reward_flag'改为'daily_minigame_reward_claimed'，或确认该字段是否用于记录角色维度的奖励状态。
+### Issue 12
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、 后端逻辑划分 (Server)
+- 问题描述: 程序蓝图中将'character_hotspring_reward_unlocked'定义为布尔类型，但系统案中该字段用于记录多条解锁记录（数组），存在数据类型冲突。
+- 修改建议: 根据系统案需求，将'character_hotspring_reward_unlocked'改为数组类型，用于存储已解锁的奖励ID列表。
+### Issue 13
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 三、 后端逻辑划分 (Server)
+- 问题描述: 程序蓝图中将'character_daily_game_reward_flag'定义为布尔类型，但系统案中使用了'daily_minigame_reward_claimed'作为全局标记。字段命名不一致，且数据类型可能不匹配。
+- 修改建议: 统一字段名为'daily_minigame_reward_claimed'，并确认其数据类型为布尔值，用于标记当日是否已获得小游戏奖励。
+### Issue 14
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、 数值与配置表挂载
+- 问题描述: 程序蓝图中列出了多个配置项，但未包含系统案中提到的'SHOT_COOLDOWN'（射击冷却时间）、'TARGET_COUNT'（靶子总数，水枪射击）、'BALL_COUNT'（水球总数，捞水球）等具体数值。这些数值在数值配表中也未明确给出。
+- 修改建议: 在数值配表中补充'SHOT_COOLDOWN'、'TARGET_COUNT_SHOOTING'、'BALL_COUNT_SCOOPING'等配置项，并在程序蓝图中挂载。
+### Issue 15
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接)
+- 问题描述: 程序蓝图中的'StartMinigame'接口返回参数包含'game_timer'，但系统案中未明确小游戏计时器是前端本地计时还是服务端同步计时。若为服务端同步计时，需考虑网络延迟对游戏公平性的影响。
+- 修改建议: 明确小游戏计时器的同步方式：建议采用服务端下发开始时间戳，前端本地计时，游戏结束时服务端校验实际耗时。
+### Issue 16
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、 前后端通信协议 (API & 数据对接)
+- 问题描述: 程序蓝图中的'EndMinigame'接口返回参数包含'reward_id'，但系统案中未定义奖励ID的生成规则或取值范围。
+- 修改建议: 定义奖励ID的生成规则（如角色ID+奖励类型+序号），并在数值配表中提供奖励ID与具体奖励内容的映射表。
+**当前审查总计问题:** 16 个
+
+--- 审查时间: 2026-05-29 17:11:37 ---
+### Issue 1
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json & data.json
+- 锚点: field_dictionary.daily_free_refresh_count
+- 问题描述: 数值说明书中 `daily_free_refresh_count` 字段描述为“玩家当日剩余的免费刷新次数”，默认值为 `DAILY_FREE_REFRESH_LIMIT`。但系统策划案中 `daily_free_refresh_count` 被用于记录“已使用的免费刷新次数”。数值配表中 `daily_free_refresh_count` 的 base 值为 3，而 `daily_hotspring_free_refresh_count` 的 base 值为 0。这导致两个字段的语义与系统案中的逻辑完全相反，且数值配表与数值说明书对 `daily_free_refresh_count` 的默认值定义冲突（说明书为 DAILY_FREE_REFRESH_LIMIT，配表为 3）。
+- 修改建议: 建议数值策划统一字段语义：要么将 `daily_free_refresh_count` 定义为“已使用次数”（初始为0），要么定义为“剩余次数”（初始为 DAILY_FREE_REFRESH_LIMIT）。同时，请确认 `daily_hotspring_free_refresh_count` 字段是否冗余，或明确其与 `daily_free_refresh_count` 的关系。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.1 角色刷新规则 - 刷新权重
+- 问题描述: 系统策划案中提到了“刷新权重 = 基础权重（所有角色均等） + 当日首次进入时，若玩家拥有‘今日特惠角色’，则必定刷新该角色（每日限1次）”。但并未定义“今日特惠角色”的配置来源、判定逻辑（如何确定哪个角色是今日特惠）以及该特惠角色的刷新次数限制（每日限1次）的详细数据状态变化。同时，数值配表和程序蓝图中均未提供“今日特惠角色”相关的字段或API参数。这是一个逻辑死胡同。
+- 修改建议: 建议系统策划补充“今日特惠角色”的详细设计：包括配置表结构（如每日特惠角色ID列表）、判定逻辑（进入时检查）、数据字段（如 `daily_special_character_id`、`daily_special_character_used`）以及刷新权重计算的具体公式。
+### Issue 3
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 四、前后端通信协议 - RefreshCharacter
+- 问题描述: 程序蓝图中 `RefreshCharacter` API 的返回参数包含 `daily_special_character_used: bool`，但数值说明书和数值配表中均未定义此字段。同时，系统策划案中提到的“今日特惠角色”逻辑需要此字段来记录是否已使用，但该字段在数据层缺失。这属于字段遗漏。
+- 修改建议: 建议主程在数据库设计（持久化数据）中增加 `daily_special_character_used` 字段（布尔类型，默认 false），并在 `EnterHotspring` 和 `RefreshCharacter` API 中同步该字段的读写逻辑。
+### Issue 4
+- 责任方: system_planner
+- 目标文件: system_design_detail.md
+- 锚点: 2.2 & 2.3 互动小游戏 - 失败阈值跳过
+- 问题描述: 系统策划案中两个小游戏都提到了“若玩家在小游戏中多次失败（连续 `[FAILURE_THRESHOLD]` 次未达标），弹出‘跳过’选项”。但未明确 `FAILURE_THRESHOLD` 的具体数值，也未说明该阈值是全局共享还是每个小游戏独立。此外，系统策划案中未定义 `minigame_failure_count` 字段在切换角色或切换小游戏时的重置逻辑（数值说明书提到“退出小游戏或切换角色时重置”，但系统案未提及切换小游戏时是否重置）。
+- 修改建议: 建议系统策划明确 `FAILURE_THRESHOLD` 的数值（或引用数值表），并补充说明：当玩家从水枪射击切换到捞水球时，`player_game_failure_count` 是否重置。同时，建议在系统案中增加一条边界条件：若玩家在连续失败后选择跳过，`player_game_failure_count` 应重置为0。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: system_numerical_docs.json & data.json
+- 锚点: continuous_formulas
+- 问题描述: 数值配表中所有字段的 `growth` 和 `type` 均被设置为 `1` 和 `linear`，包括布尔类型（如 `player_daily_hotspring_first_entry_flag`）、字符串类型（如 `current_game_state`）和数组类型（如 `character_hotspring_reward_unlocked`）。这不符合数据类型定义，且 `linear` 增长模型对非数值字段无意义。例如，布尔字段的 base 为 0，growth 为 1，按线性增长会变成 1、2、3...，而非 true/false。
+- 修改建议: 建议数值策划根据字段的实际数据类型（整数、布尔、字符串、数组）重新设计 `continuous_formulas` 结构。对于布尔和字符串字段，应使用 `discrete_milestones` 进行枚举映射，而非线性增长。对于数组字段，应定义其增长规则（如每次增加一个元素），而非线性数值增长。
+### Issue 6
+- 责任方: tech_architect
+- 目标文件: tech_blueprint.md
+- 锚点: 五、数值与配置表挂载
+- 问题描述: 程序蓝图中提到“从 `system_numerical_data.json` 中的 `field_dictionary` 和 `implementation_notes` 部分读取常量”，但 `implementation_notes` 中并未包含 `REFRESH_CURRENCY_COST`、`TARGET_COUNT`、`GAME_TIME_LIMIT`、`HIT_THRESHOLD`、`BALL_COUNT`、`BALL_GAME_TIME_LIMIT`、`BALL_THRESHOLD`、`FAILURE_THRESHOLD`、`SKIP_CURRENCY_COST`、`MIN_REWARD_SLOTS` 等具体数值。这些数值在系统策划案中以占位符形式出现（如 `[REFRESH_CURRENCY_COST]`），但在数值配表和说明书中均未定义。这导致程序无法从配置表中读取这些关键参数。
+- 修改建议: 建议数值策划在 `system_numerical_docs.json` 中新增一个 `game_parameters` 或 `constants` 字段，明确列出所有占位符的具体数值（如 `REFRESH_CURRENCY_COST: 100`）。同时，建议主程在程序蓝图中明确这些常量的读取路径，例如从 `system_numerical_data.json` 的 `constants` 字段中读取。
+**当前审查总计问题:** 6 个
+
+--- 审查时间: 2026-05-29 17:14:44 ---
+### Issue 1
+- 责任方: numerical_planner
+- 目标文件: 数值配表 (data.json)
+- 锚点: discrete_milestones.3
+- 问题描述: 离散里程碑3中引用了字段 `daily_special_character_used`，但该字段在 `field_dictionary` 中未定义。系统策划案中多处使用了该字段，数值说明书和配表中均遗漏了其定义和默认值。
+- 修改建议: 请在 `field_dictionary` 中补充 `daily_special_character_used` 字段的定义，包括数据类型（布尔）、默认值（false）和取值范围。
+### Issue 2
+- 责任方: numerical_planner
+- 目标文件: 数值配表 (data.json)
+- 锚点: discrete_milestones.5
+- 问题描述: 离散里程碑5中，主动换人（免费次数耗尽）时扣除 `player_base_currency` 的值为 -10，但系统策划案中此消耗为占位符 `[REFRESH_CURRENCY_COST]`。数值配表直接使用了具体数值，而未定义该常量，导致与系统案中的占位符约定不一致。
+- 修改建议: 请在 `field_dictionary` 或新增的常量表中定义 `REFRESH_CURRENCY_COST` 常量，并将里程碑5中的 -10 替换为该常量的引用。
+### Issue 3
+- 责任方: numerical_planner
+- 目标文件: 数值配表 (data.json)
+- 锚点: discrete_milestones.14
+- 问题描述: 离散里程碑14中，使用跳过功能时扣除 `player_base_currency` 的值为 -50，但系统策划案中此消耗为占位符 `[SKIP_CURRENCY_COST]`。数值配表直接使用了具体数值，而未定义该常量，导致与系统案中的占位符约定不一致。
+- 修改建议: 请在 `field_dictionary` 或新增的常量表中定义 `SKIP_CURRENCY_COST` 常量，并将里程碑14中的 -50 替换为该常量的引用。
+### Issue 4
+- 责任方: numerical_planner
+- 目标文件: 数值说明书 (system_numerical_docs.json)
+- 锚点: field_dictionary
+- 问题描述: 系统策划案中定义了 `daily_minigame_reward_count` 字段，用于记录当日小游戏奖励已领取次数，并在多处逻辑中引用。但该字段在数值说明书的 `field_dictionary` 中完全缺失，导致数据模型不完整。
+- 修改建议: 请在 `field_dictionary` 中补充 `daily_minigame_reward_count` 字段的定义，包括数据类型（整数）、默认值（0）和取值范围（0到DAILY_MINIGAME_REWARD_LIMIT）。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: 数值配表 (data.json)
+- 锚点: discrete_milestones
+- 问题描述: 系统策划案中定义了 `minigame_failure_count` 字段的复杂重置逻辑（退出小游戏、切换小游戏类型、切换角色时重置为0），但数值配表中的离散里程碑仅覆盖了部分重置场景（里程碑8、9、12、13、14、15、16、17），缺少对“切换小游戏类型”时重置的明确里程碑（里程碑15描述为切换小游戏类型，但效果中重置了 `player_game_failure_count`，与系统案一致，但需确认字段名一致性）。
+- 修改建议: 请确认 `player_game_failure_count` 与系统案中的 `minigame_failure_count` 是否为同一字段。如果是，请统一命名；如果不是，请补充 `minigame_failure_count` 的定义和重置逻辑。
+### Issue 6
+- 责任方: numerical_planner
+- 目标文件: 数值配表 (data.json)
+- 锚点: continuous_formulas
+- 问题描述: 数值配表中为 `current_game_state` 定义了连续公式（base='idle', growth=0, type='linear'），但该字段为字符串类型，其值应通过离散里程碑或游戏逻辑直接设置，不应出现在连续公式中。数值说明书中的 `implementation_notes` 已明确指出字符串类型字段不应出现在连续公式中，但配表未遵循此规则。
+- 修改建议: 请将 `current_game_state` 从 `continuous_formulas` 中移除，其值应仅通过离散里程碑（如里程碑6、8、9、10、12、13、17）进行设置。
+### Issue 7
+- 责任方: numerical_planner
+- 目标文件: 数值配表 (data.json)
+- 锚点: continuous_formulas
+- 问题描述: 数值配表中为 `character_hotspring_reward_unlocked` 定义了连续公式（base=[], growth=0, type='linear'），但该字段为数组类型，其元素应通过游戏逻辑动态增删，不应出现在连续公式中。数值说明书中的 `implementation_notes` 已明确指出数组类型字段不应出现在连续公式中，但配表未遵循此规则。
+- 修改建议: 请将 `character_hotspring_reward_unlocked` 从 `continuous_formulas` 中移除，其值应仅通过游戏逻辑动态增删。
+### Issue 8
+- 责任方: numerical_planner
+- 目标文件: 数值配表 (data.json)
+- 锚点: discrete_milestones.8 & 12
+- 问题描述: 离散里程碑8（水枪射击成功）和12（捞水球成功）中，效果均包含 `character_daily_game_reward_flag: 1`，但系统策划案中奖励解锁逻辑使用的是 `daily_minigame_reward_count` 字段来记录当日奖励领取次数，而非 `character_daily_game_reward_flag`。这两个字段的关系和用途不明确，可能导致逻辑冲突。
+- 修改建议: 请明确 `character_daily_game_reward_flag` 和 `daily_minigame_reward_count` 的职责。建议统一使用 `daily_minigame_reward_count` 进行每日上限校验，并删除或重新定义 `character_daily_game_reward_flag`。
+**当前审查总计问题:** 8 个
+
+--- 审查时间: 2026-05-29 17:17:48 ---
+### Issue 1
+- 责任方: numerical_planner
+- 目标文件: 数值说明书 & 数值配表
+- 锚点: field_dictionary / continuous_formulas
+- 问题描述: 系统策划案中多处使用占位符（如 [REFRESH_CURRENCY_COST]、[SHOOTING_TIME_LIMIT]、[FAILURE_THRESHOLD] 等），但数值说明书和数值配表中均未定义这些常量的具体数值或默认值。程序蓝图明确指出这些为待定参数，但数值策划未提供任何初始值或范围，导致开发阶段无法进行有效的数值校验和逻辑实现。
+- 修改建议: 数值策划需补充所有占位符的具体数值或默认值（如 REFRESH_CURRENCY_COST = 100, SHOOTING_TIME_LIMIT = 30 等），并更新到数值说明书和数值配表中。
+### Issue 2
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 2.2 互动小游戏 - 水枪射击靶子
+- 问题描述: 系统策划案中定义了 `minigame_failure_count` 字段及其重置逻辑（退出小游戏、切换小游戏类型、切换角色时重置为0），但未定义该字段的初始值（首次进入小游戏时）以及当玩家连续失败达到阈值后选择“跳过”时，`minigame_failure_count` 是否重置。这可能导致逻辑死胡同：跳过成功后，下次进入同一小游戏时，`minigame_failure_count` 仍为累积值，可能立即触发跳过选项。
+- 修改建议: 系统策划需明确：当玩家使用跳过选项成功后，`minigame_failure_count` 是否重置为0；以及首次进入小游戏时，`minigame_failure_count` 的初始值（应为0）。
+### Issue 3
+- 责任方: tech_architect
+- 目标文件: 程序蓝图
+- 锚点: 四、前后端通信协议 (API & 数据对接)
+- 问题描述: 程序蓝图中的 `GetCharacterRewardStatus` API 请求参数 `character_id` 定义为 `string` 类型，但数值说明书中 `current_hotspring_character_id` 定义为【整数】类型，且角色ID表通常为整数。数据类型不一致可能导致前后端通信时类型转换错误或校验失败。
+- 修改建议: 将 `GetCharacterRewardStatus` 的 `character_id` 参数类型改为 `int`，与数值说明书中的角色ID类型保持一致。
+### Issue 4
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 2.2 & 2.3 互动小游戏
+- 问题描述: 系统策划案中两个小游戏（水枪射击和捞水球）均提到“若玩家连续 `[FAILURE_THRESHOLD]` 次未达标，弹出跳过选项”，但未定义 `minigame_failure_count` 的计数规则：是每次小游戏结束后（无论是否达标）都增加，还是仅当未达标时增加？若玩家中途退出小游戏（不消耗资源），`minigame_failure_count` 重置为0，但退出后重新进入同一小游戏，失败次数是否从0开始累积？这可能导致玩家通过反复退出重进来规避失败计数，从而绕过跳过选项的付费设计。
+- 修改建议: 系统策划需明确 `minigame_failure_count` 的递增规则：仅当小游戏自然结束（计时结束）且未达标时增加；主动退出不增加。同时考虑是否限制每日退出次数以防止滥用。
+### Issue 5
+- 责任方: numerical_planner
+- 目标文件: 数值说明书 & 数值配表
+- 锚点: field_dictionary / discrete_milestones
+- 问题描述: 数值配表中的离散里程碑（discrete_milestones）使用了条件 `current_game_hit_count >= TARGET_COUNT` 和 `current_game_ball_count >= BALL_COUNT`，但 `TARGET_COUNT` 和 `BALL_COUNT` 在数值说明书中仅作为取值范围上限（默认值0），未定义具体数值。同时，里程碑中直接引用 `TARGET_COUNT` 和 `BALL_COUNT` 作为成功条件，但系统策划案中成功条件是 `>= SHOOTING_SUCCESS_THRESHOLD` 和 `>= FISHING_SUCCESS_THRESHOLD`，这两个阈值可能不等于靶子总数或水球总数。数值配表中的条件与系统策划案不一致。
+- 修改建议: 数值策划需明确定义 `SHOOTING_SUCCESS_THRESHOLD` 和 `FISHING_SUCCESS_THRESHOLD` 的具体数值，并更新离散里程碑中的条件，使其与系统策划案一致（例如 `current_game_hit_count >= SHOOTING_SUCCESS_THRESHOLD`）。
+### Issue 6
+- 责任方: system_planner
+- 目标文件: 系统策划案
+- 锚点: 2.4 奖励系统
+- 问题描述: 系统策划案中奖励解锁逻辑提到“从奖励池中随机选取一个未解锁的奖励”，但未定义奖励池的生成规则：奖励池是每个角色固定的一组奖励ID，还是根据角色ID动态生成？若为固定奖励池，需明确每个角色的奖励槽位数（`MIN_REWARD_SLOTS`）及具体奖励ID列表。当前数值说明书中 `character_hotspring_reward_unlocked` 为整数数组，但未提供奖励ID的枚举或范围。
+- 修改建议: 系统策划需补充奖励池的定义：每个角色在温泉中心的奖励列表（如表情ID、语音ID、动作ID），或提供奖励ID的生成规则（如从图鉴系统奖励ID表中筛选出温泉中心分类的奖励）。
+**当前审查总计问题:** 6 个

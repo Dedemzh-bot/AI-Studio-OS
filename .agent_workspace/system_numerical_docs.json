@@ -1,55 +1,48 @@
 {
-  "system_summary": "[好友系统] 该系统用于管理玩家的社交关系，包括好友添加、删除、拉黑、好友列表展示、好友主页查看、赠送体力、点赞、助战借用等核心社交玩法，并关联友情点经济循环与商业化扩容。",
+  "system_summary": "[温泉中心] 该系统用于管理玩家在宿舍场景中进入的温泉中心扩展场景，包括角色刷新、互动小游戏（水枪射击与捞水球）、奖励解锁、表现层联动及经济循环。",
   "field_dictionary": {
-    "player_level": "【整数】玩家当前等级，用于判断好友系统解锁条件（>=10级解锁），取值范围1-100，默认值1。",
-    "friend_count": "【整数】玩家当前好友数量，取值范围0-50，默认值0。",
-    "friend_capacity": "【整数】玩家好友容量上限，初始值20，可通过扩容提升至50，默认值20。",
-    "friend_point": "【整数】玩家当前持有的友情点数量，用于在友情商店兑换商品，上限99999，默认值0。",
-    "daily_gift_count": "【整数】玩家今日已向好友赠送体力的次数，每日凌晨4:00重置，取值范围0-20（假设最多20个好友），默认值0。每次赠送体力后，发送方立即获得5友情点作为奖励。",
-    "daily_like_count": "【整数】玩家今日已向好友点赞的次数，每日凌晨4:00重置，取值范围0-20，默认值0。",
-    "daily_borrow_count": "【整数】玩家今日已借用好友助战的次数，每日凌晨4:00重置，取值范围0-5，默认值0。",
-    "daily_borrowed_count": "【整数】玩家今日被好友借用助战的次数，每日凌晨4:00重置，取值范围0-10，默认值0。",
-    "friend_application_count": "【整数】玩家今日已发送的好友申请次数，每日凌晨4:00重置，取值范围0-20，默认值0。",
-    "blacklist_count": "【整数】玩家当前黑名单中的玩家数量，取值范围0-100，默认值0。",
-    "friend_invite_count": "【整数】玩家已成功邀请的好友数量（邀请注册并达到特定等级），用于领取邀请奖励，取值范围0-999，默认值0。",
-    "friend_system_unlocked": "【布尔】好友系统是否已解锁，true表示已解锁，false表示未解锁，默认值false。",
-    "friend_capacity_expansion_count": "【整数】玩家已进行的好友位扩容次数（信用点扩容），每次增加5个好友位，共需6次（20→50），取值范围0-6，默认值0。",
-    "friend_capacity_expansion_item_used": "【布尔】玩家是否使用了数据金道具直接扩容至50人上限，true表示已使用，false表示未使用，默认值false。",
-    "friend_achievement_completed": "【布尔】玩家是否已完成所有好友相关成就，true表示已完成，false表示未完成，默认值false。",
-    "friend_application_expired": "【布尔】好友申请是否已过期（超过24小时未处理），true表示已过期，false表示未过期，默认值false。",
-    "friend_deleted": "【布尔】玩家是否已删除指定好友，true表示已删除，false表示未删除，默认值false。",
-    "friend_blocked": "【布尔】玩家是否已拉黑指定玩家，true表示已拉黑，false表示未拉黑，默认值false。",
-    "friend_unblocked": "【布尔】玩家是否已解除对指定玩家的拉黑，true表示已解除，false表示未解除，默认值false。",
-    "friend_borrow_used": "【布尔】玩家今日是否已使用过助战借用（用于UI置灰判断），true表示已使用，false表示未使用，默认值false。",
-    "friend_borrowed_reward_received": "【布尔】玩家是否已领取被借用助战的奖励（邮件通知），true表示已领取，false表示未领取，默认值false。",
-    "friend_gift_sent": "【布尔】玩家今日是否已向指定好友赠送过体力，true表示已赠送，false表示未赠送，默认值false。",
-    "friend_like_sent": "【布尔】玩家今日是否已向指定好友点过赞，true表示已点赞，false表示未点赞，默认值false。",
-    "friend_point_shop_item_purchased": "【布尔】玩家是否已购买友情商店中的指定商品（用于限购判断），true表示已购买，false表示未购买，默认值false。",
-    "friend_invite_reward_claimed": "【布尔】玩家是否已领取指定邀请奖励，true表示已领取，false表示未领取，默认值false。"
+    "current_hotspring_character_id": "【整数】当前温泉中心场景中刷新的角色ID，取值范围为玩家已拥有角色ID，默认值为0（表示无角色）。",
+    "last_hotspring_entry_timestamp": "【整数】玩家上次进入温泉中心的时间戳（秒级），用于判断是否为当日首次进入，默认值为0。",
+    "player_daily_hotspring_first_entry_flag": "【布尔】标记玩家当日是否首次进入温泉中心，true表示是，false表示否，默认值为false。",
+    "daily_hotspring_free_refresh_count": "【整数】玩家当日已使用的免费刷新角色次数，取值范围0至DAILY_FREE_REFRESH_LIMIT，默认值为0。",
+    "daily_free_refresh_count": "【整数】玩家当日已使用的免费刷新角色次数（与daily_hotspring_free_refresh_count为同一字段，用于兼容旧系统），取值范围0至DAILY_FREE_REFRESH_LIMIT，默认值为0。",
+    "player_base_currency": "【整数】玩家当前持有的基础货币数量，用于刷新角色或跳过小游戏，取值范围0至系统上限，默认值为0。",
+    "current_game_state": "【字符串】当前小游戏的状态，取值范围为'idle'（空闲）、'shooting'（水枪射击进行中）、'fishing'（捞水球进行中），默认值为'idle'。",
+    "current_game_hit_count": "【整数】当前水枪射击小游戏中已命中的靶子数量，取值范围0至TARGET_COUNT，默认值为0。",
+    "current_game_ball_count": "【整数】当前捞水球小游戏中已成功捞取的水球数量，取值范围0至BALL_COUNT，默认值为0。",
+    "character_hotspring_reward_unlocked": "【整数数组】当前角色在温泉中心已解锁的奖励ID列表，每个ID对应一个专属表情/语音/动作，默认值为空数组。",
+    "character_daily_game_reward_flag": "【布尔】标记当前角色当日是否已领取过小游戏奖励，true表示已领取，false表示未领取，默认值为false。",
+    "camera_mode": "【字符串】当前镜头模式，取值范围为'HOTSPRING_DEFAULT'（默认第三人称近肩视角）、'HOTSPRING_CLOSEUP'（小游戏面部特写），默认值为'HOTSPRING_DEFAULT'。",
+    "ui_visibility_state": "【字符串】当前UI可见性状态，取值范围为'VISIBLE'（可见）、'HIDDEN'（隐藏），默认值为'VISIBLE'。",
+    "player_game_failure_count": "【整数】玩家在当前小游戏类型下的连续失败次数（未达标），用于触发跳过选项，取值范围0至FAILURE_THRESHOLD，默认值为0。",
+    "dormitory_hotspring_unlocked": "【布尔】标记玩家是否已解锁温泉中心系统，true表示已解锁，false表示未解锁，默认值为false。",
+    "character_current_skin_id": "【整数】当前角色在温泉中心中使用的皮肤ID，对应宿舍系统的换装功能，默认值为0（默认泳装）。",
+    "character_hotspring_pool_joined": "【布尔】标记当前角色是否已加入温泉中心角色池，true表示已加入，false表示未加入，默认值为false。",
+    "collection_book_hotspring_entry_unlocked": "【布尔】标记图鉴系统中温泉中心分类是否已解锁，true表示已解锁，false表示未解锁，默认值为false。",
+    "max_simultaneous_characters_hotspring": "【整数】温泉中心场景中同时出现的最大角色数量，初始值为1，后续根据性能优化可调整，默认值为1。",
+    "content_production_phase_hotspring": "【整数】当前内容生产阶段，用于标记角色温泉内容（模型、语音、表情）的覆盖进度，取值范围0至N，默认值为0。"
   },
   "relations_and_enums": {
-    "跨表外键调用": {
-      "player_level": "引用自玩家基础属性表，用于解锁判断。",
-      "friend_borrow_used": "关联至战斗系统，战斗结束后根据助战角色存活状态更新友情点。",
-      "friend_gift_sent": "关联至邮件系统，赠送体力后向接收方发送邮件。",
-      "friend_like_sent": "关联至邮件系统，点赞后向接收方发送邮件。",
-      "friend_invite_reward_claimed": "关联至邮件系统，邀请奖励通过邮件发放。"
+    "外键调用关系": {
+      "current_hotspring_character_id": "引用自角色获取系统的角色ID表，必须为玩家已拥有的角色。",
+      "character_current_skin_id": "引用自宿舍系统的皮肤ID表，必须为玩家已购买的温泉中心可用皮肤。",
+      "character_hotspring_reward_unlocked": "引用自图鉴系统的奖励ID表，每个ID对应一个温泉中心专属表情/语音/动作。"
     },
     "状态码枚举": {
-      "friend_system_unlocked": "true/false",
-      "friend_capacity_expansion_item_used": "true/false",
-      "friend_achievement_completed": "true/false",
-      "friend_application_expired": "true/false",
-      "friend_deleted": "true/false",
-      "friend_blocked": "true/false",
-      "friend_unblocked": "true/false",
-      "friend_borrow_used": "true/false",
-      "friend_borrowed_reward_received": "true/false",
-      "friend_gift_sent": "true/false",
-      "friend_like_sent": "true/false",
-      "friend_point_shop_item_purchased": "true/false",
-      "friend_invite_reward_claimed": "true/false"
+      "current_game_state": {
+        "idle": "无小游戏进行中",
+        "shooting": "水枪射击小游戏进行中",
+        "fishing": "捞水球小游戏进行中"
+      },
+      "camera_mode": {
+        "HOTSPRING_DEFAULT": "默认第三人称近肩视角",
+        "HOTSPRING_CLOSEUP": "小游戏面部特写视角"
+      },
+      "ui_visibility_state": {
+        "VISIBLE": "UI可见",
+        "HIDDEN": "UI隐藏"
+      }
     }
   },
-  "implementation_notes": "【下游执行建议】1. 所有每日重置字段（daily_*）需在每日凌晨4:00统一重置为0或false。2. 好友列表加载时需每30秒轮询在线状态。3. 助战角色数据需实时读取好友当前配置，每次进入助战选择界面时重新拉取。4. 赠送体力操作需先校验发送方体力是否>=5，以及接收方体力是否已达上限（9999）。5. 友情点上限为99999，超出部分无法获取。6. 好友申请每日上限20次，需在发送时校验。7. 扩容操作需校验货币是否充足，不足时弹出充值引导。8. 所有交互操作（赠送体力、点赞、助战）需处理网络异常回滚。"
+  "implementation_notes": "【执行建议】1. 小游戏失败次数(player_game_failure_count)需在切换小游戏类型或角色时重置为0，退出小游戏时也需重置。2. 奖励解锁逻辑应优先检查character_daily_game_reward_flag（当日是否已领奖），再检查character_hotspring_reward_unlocked（是否已解锁全部奖励）。3. 镜头模式切换需平滑过渡，避免突兀。4. 物理效果需根据设备性能动态降级。5. 所有付费消耗需在前端做二次确认弹窗。"
 }

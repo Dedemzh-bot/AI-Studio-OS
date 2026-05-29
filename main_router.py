@@ -922,8 +922,7 @@ def main():
                 elif e.returncode == 2 and retry_count >= 2:
                     _clear_retry_count()
                     print(f"\033[91m[Router] SchemaTranslator 重试 {retry_count} 次仍失败\033[0m")
-                    print("\033[93m[Router] Schema 翻译失败（可能因内容过长）。按 'y' 重试，按 'n' 回 idle: \033[0m", end="")
-                    user_input = input().strip()
+                    user_input = input("[Router] Schema 翻译失败（可能因内容过长）。按 'y' 重试，按 'n' 回 idle: ").strip()
                     if user_input.lower() == "y":
                         write_state("pending_schema_translate")
                     else:
@@ -955,8 +954,7 @@ def main():
                 elif e.returncode == 2 and retry_count >= 2:
                     _clear_retry_count()
                     print(f"\033[91m[Router] NumericalPlanner 重试 {retry_count} 次仍失败（JSON 截断）\033[0m")
-                    print("\033[93m[Router] 数值策划生成数据表失败（可能因为内容过长）。按 'y' 再次重试，或按 'n' 打回至主策划重新拆解: \033[0m", end="")
-                    user_input = input().strip()
+                    user_input = input("[Router] 数值策划生成数据表失败（可能因为内容过长）。按 'y' 再次重试，或按 'n' 打回至主策划重新拆解: ").strip()
                     if user_input.lower() == "y":
                         write_state("pending_numerical")
                     else:
@@ -1049,7 +1047,7 @@ def main():
               2. 若 reject → 遍历 issues，静默唤醒对应 Agent 修正 → 再次审计
               3. 循环至 pass → 生成 final_audit_report.md → HITL 确认结项
             """
-            max_loops = 3
+            max_loops = 4
             loop_count = _get_retry_count("final_audit")
             print(f"[Router] 正在执行全自动审计纠错回环... (第 {loop_count + 1} 轮)")
 
@@ -1089,8 +1087,7 @@ def main():
                     print(f"[Router][警告] 报告生成失败: {e}")
                 report_path = os.path.join(WORKSPACE_DIR, "final_audit_report.md")
                 print(f"[Router] 终极审计报告已生成: {report_path}")
-                print(f"\033[93m[审计通过] 所有内部 Bug 已修复，详见 final_audit_report.md。输入 'y' 确认项目结项: \033[0m", end="")
-                user_input = input().strip()
+                user_input = input("[审计通过] 所有内部 Bug 已修复，详见 final_audit_report.md。输入 'y' 确认项目结项: ").strip()
                 if user_input.lower() == "y":
                     print(f"\033[92m[Router] 老板确认结项！项目建设完毕。\033[0m")
                     write_state("completed")
@@ -1102,8 +1099,7 @@ def main():
                 if loop_count >= max_loops:
                     _clear_retry_count()
                     print(f"\033[91m[Router] 审计纠错已达最大轮次 ({max_loops})，仍有 {len(issues)} 个问题未解决\033[0m")
-                    print("\033[93m[Router] 请老板人工介入。输入 'y' 忽略问题结项，或按其他键回 idle: \033[0m", end="")
-                    user_input = input().strip()
+                    user_input = input("[Router] 请老板人工介入。输入 'y' 忽略问题结项，或按其他键回 idle: ").strip()
                     if user_input.lower() == "y":
                         write_state("completed")
                     else:

@@ -146,7 +146,8 @@ async def api_archive(data: dict):
     cmd = [python_exe,
            os.path.join(BUNDLE_DIR, "Agents", "archivist_agent.py"),
            data.get("doc", ""), "all", data.get("type", "red"),
-           data.get("comment", "") or "（无评语）"]
+           data.get("comment", "") or "（无评语）",
+           data.get("agent", "系统")]
     try:
         env = os.environ.copy()
         env["AI_STUDIO_DATA_DIR"] = DATA_DIR

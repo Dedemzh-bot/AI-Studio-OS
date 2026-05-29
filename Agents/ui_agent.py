@@ -111,6 +111,8 @@ def main():
     if rag_context:
         user_prompt += f"\n\n{rag_context}"
         print(f"[UI Agent] 已注入 RAG 上下文 ({len(rag_context)} 字符)")
+    else:
+        print("[UI Agent] RAG 知识库为空（无匹配领域的案例）")
 
     # ========== 4. 调用大模型 ==========
     print("[UI Agent] 正在呼叫大模型设计前端表现配置...")

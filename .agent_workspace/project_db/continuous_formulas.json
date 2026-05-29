@@ -658,5 +658,187 @@
     "base": 0,
     "growth": 1,
     "type": "linear"
+  },
+  {
+    "current_behavior_id": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "behavior_start_time": {
+      "base": 0,
+      "growth": 3600,
+      "type": "linear"
+    },
+    "behavior_end_time": {
+      "base": 7200,
+      "growth": 3600,
+      "type": "linear"
+    },
+    "affection_stage": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "behavior_pool_id": {
+      "base": 1,
+      "growth": 1,
+      "type": "linear"
+    },
+    "item_effect_end_time": {
+      "base": 0,
+      "growth": 7200,
+      "type": "linear"
+    }
+  },
+  {
+    "affection_experience": {
+      "base": 0,
+      "growth": 5,
+      "type": "linear"
+    },
+    "touch_region": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "touch_reaction_id": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "random_event_id": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "affection_experience": {
+      "base": 0,
+      "growth": 10,
+      "type": "linear"
+    },
+    "affection_stage": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "current_camera_id": {
+      "base": 1,
+      "growth": 1,
+      "type": "linear"
+    },
+    "touch_region": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "touch_reaction_id": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "dormitory_coin_balance": {
+      "base": 0,
+      "growth": 50,
+      "type": "linear"
+    },
+    "limited_item_ticket_balance": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "affection_experience": {
+      "base": 0,
+      "growth": 10,
+      "type": "linear"
+    }
+  },
+  {
+    "current_character_id": {
+      "base": 1,
+      "growth": 1,
+      "type": "linear"
+    },
+    "affection_experience": {
+      "base": 0,
+      "growth": 10,
+      "type": "linear"
+    },
+    "current_skin_id": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "backpack_item_ids": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    }
+  },
+  {
+    "base": 0,
+    "growth": 100,
+    "type": "linear",
+    "description": "好感度经验值，每级升级所需经验为 base + growth * (affection_level - 1)"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear",
+    "description": "当日触摸次数，每日重置为0，上限20次"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear",
+    "description": "当日送礼次数，每日重置为0，上限10次"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear",
+    "description": "基础礼物库存，通过活动或商店获得，无自动增长"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear",
+    "description": "高级礼物库存，通过付费获得，无自动增长"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear",
+    "description": "加速道具库存，通过付费获得，无自动增长"
+  },
+  {
+    "base": 3,
+    "growth": 0,
+    "type": "linear",
+    "description": "每日免费刷新次数，固定为3次。"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear",
+    "description": "基础货币初始为0，通过其他系统获取。"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear",
+    "description": "连续失败次数，初始为0。"
+  },
+  {
+    "base": 1,
+    "growth": 0,
+    "type": "linear",
+    "description": "同时出现角色数，固定为1。"
   }
 ]

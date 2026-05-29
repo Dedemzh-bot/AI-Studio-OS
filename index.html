@@ -80,6 +80,16 @@ body{display:flex;}
 
     <div class="tab-content" id="tab-memory">
         <div class="workspace">
+            <label class="mem-label">来源 Agent</label>
+            <select class="mem-input" id="archAgent">
+                <option value="系统">系统策划</option>
+                <option value="数值">数值策划</option>
+                <option value="主程">主程 / 技术架构</option>
+                <option value="玩法">玩法 / 战斗策划</option>
+                <option value="PM">PM / 任务管理</option>
+                <option value="UI">UI / 表现</option>
+                <option value="审查">审查 Agent</option>
+            </select>
             <label class="mem-label">文档名 (在 .agent_workspace 内)</label>
             <input class="mem-input" id="archDoc" placeholder="例: system_design_draft.md">
             <label class="mem-label">老板批注</label>
@@ -275,10 +285,10 @@ function openKnowledge(t,f){fetch(API+'/api/open_knowledge',{method:'POST',heade
 document.getElementById('btnRed').onclick=()=>archive('red');
 document.getElementById('btnBlack').onclick=()=>archive('black');
 function archive(t){
-    const d=document.getElementById('archDoc').value.trim(),c=document.getElementById('archComment').value.trim()||'（无评语）';
+    const d=document.getElementById('archDoc').value.trim(),c=document.getElementById('archComment').value.trim()||'（无评语）',a=document.getElementById('archAgent').value;
     if(!d) return alert('请输入文档名');
     document.getElementById('archResult').textContent='归档中...';
-    fetch(API+'/api/archive',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({doc:d,type:t,comment:c})})
+    fetch(API+'/api/archive',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({doc:d,type:t,comment:c,agent:a})})
     .then(r=>r.json()).then(r=>{document.getElementById('archResult').textContent=r.ok?'归档成功':'失败: '+(r.error||'');refreshKnowledge();}).catch(()=>{document.getElementById('archResult').textContent='网络错误';});
 }
 fetchFiles();

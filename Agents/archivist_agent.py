@@ -10,6 +10,7 @@ import re
 import sys
 import time
 import traceback
+from datetime import datetime
 
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(FILE_DIR)
@@ -75,6 +76,7 @@ def main():
     anchor = sys.argv[2]
     list_type = sys.argv[3].lower()
     meta_comment = sys.argv[4] if len(sys.argv) > 4 else "（无评语）"
+    source_agent = sys.argv[5] if len(sys.argv) > 5 else "系统"
 
     if list_type not in ("red", "black"):
         loud_fail(f"list_type 必须是 'red' 或 'black'，实际: {list_type}")
@@ -125,26 +127,21 @@ def main():
         loud_fail("大模型调用失败")
 
     # ========== 5. 命名空间继承 + 自动落盘 ==========
-    ts = str(int(time.time()))
+    yyyymmdd = datetime.now().strftime("%Y%m%d")
     safe_anchor = sanitize_filename(anchor)
     label = "优秀案例" if list_type == "red" else "错误案例"
 
-    # 读取 project_meta.json 获取系统命名空间
-    ns_prefix = ""
+    # 读取 project_meta.json 获取系统名称（由 lead_planner 起草时写入）
+    system_name = "未命名"
     if os.path.exists(META_FILE):
         try:
             with open(META_FILE, "r", encoding="utf-8") as f:
                 meta = json.load(f)
-            tag = meta.get("primary_tag", "")
-            name = meta.get("system_name", "")
-            ver = meta.get("version", "v1")
-            if name:
-                parts = [p for p in [tag, name, ver] if p]
-                ns_prefix = "_".join(parts) + "_"
+            system_name = meta.get("system_name", "未命名")
         except Exception:
             pass
 
-    filename = f"{ns_prefix}[{label}]_{safe_anchor}_{ts}.md"
+    filename = f"{source_agent}_{label}_{system_name}_{yyyymmdd}_{safe_anchor}.md"
     filepath = os.path.join(target_dir, filename)
 
     with open(filepath, "w", encoding="utf-8") as f:

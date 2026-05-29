@@ -50,6 +50,8 @@ def main():
     knowledge_context = load_knowledge_with_context(ROOT_DIR, task_domain=None)
     if knowledge_context:
         print(f"[LeadPlanner] 已加载 RAG 知识上下文 ({len(knowledge_context)} 字符)")
+    else:
+        print("[LeadPlanner] RAG 知识库为空（无匹配案例）")
 
     # ========== 2. 构建 System Prompt ==========
     system_prompt = """你是一个顶级的游戏主策划兼系统架构师。你需要把人类的概念简案转化为严谨的数据结构。

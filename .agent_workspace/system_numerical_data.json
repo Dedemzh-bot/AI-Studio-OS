@@ -1,108 +1,122 @@
 {
   "continuous_formulas": {
-    "player_level": {
+    "current_hotspring_character_id": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    },
+    "last_hotspring_entry_timestamp": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    },
+    "player_daily_hotspring_first_entry_flag": {
+      "base": false,
+      "growth": 0,
+      "type": "linear"
+    },
+    "daily_hotspring_free_refresh_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "daily_free_refresh_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "player_base_currency": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    },
+    "current_game_state": {
+      "base": "idle",
+      "growth": 0,
+      "type": "linear"
+    },
+    "current_game_hit_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "current_game_ball_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "character_hotspring_reward_unlocked": {
+      "base": [],
+      "growth": 0,
+      "type": "linear"
+    },
+    "character_daily_game_reward_flag": {
+      "base": false,
+      "growth": 0,
+      "type": "linear"
+    },
+    "camera_mode": {
+      "base": "HOTSPRING_DEFAULT",
+      "growth": 0,
+      "type": "linear"
+    },
+    "ui_visibility_state": {
+      "base": "VISIBLE",
+      "growth": 0,
+      "type": "linear"
+    },
+    "player_game_failure_count": {
+      "base": 0,
+      "growth": 1,
+      "type": "linear"
+    },
+    "dormitory_hotspring_unlocked": {
+      "base": false,
+      "growth": 0,
+      "type": "linear"
+    },
+    "character_current_skin_id": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    },
+    "character_hotspring_pool_joined": {
+      "base": false,
+      "growth": 0,
+      "type": "linear"
+    },
+    "collection_book_hotspring_entry_unlocked": {
+      "base": false,
+      "growth": 0,
+      "type": "linear"
+    },
+    "max_simultaneous_characters_hotspring": {
       "base": 1,
-      "growth": 1,
+      "growth": 0,
       "type": "linear"
     },
-    "friend_count": {
-      "base": 0,
-      "growth": 1,
-      "type": "linear"
-    },
-    "friend_capacity": {
-      "base": 20,
-      "growth": 5,
-      "type": "linear"
-    },
-    "friend_point": {
-      "base": 0,
-      "growth": 1,
-      "type": "linear"
-    },
-    "daily_gift_count": {
-      "base": 0,
-      "growth": 1,
-      "type": "linear"
-    },
-    "daily_like_count": {
-      "base": 0,
-      "growth": 1,
-      "type": "linear"
-    },
-    "daily_borrow_count": {
-      "base": 0,
-      "growth": 1,
-      "type": "linear"
-    },
-    "daily_borrowed_count": {
-      "base": 0,
-      "growth": 1,
-      "type": "linear"
-    },
-    "friend_application_count": {
-      "base": 0,
-      "growth": 1,
-      "type": "linear"
-    },
-    "blacklist_count": {
-      "base": 0,
-      "growth": 1,
-      "type": "linear"
-    },
-    "friend_invite_count": {
+    "content_production_phase_hotspring": {
       "base": 0,
       "growth": 1,
       "type": "linear"
     }
   },
   "discrete_milestones": {
-    "friend_system_unlocked": {
-      "10": true
+    "8": {
+      "condition": "current_game_hit_count >= TARGET_COUNT",
+      "effects": {
+        "character_hotspring_reward_unlocked": "+1",
+        "character_daily_game_reward_flag": true,
+        "player_game_failure_count": 0
+      }
     },
-    "friend_capacity_expansion_count": {
-      "1": 1,
-      "2": 2,
-      "3": 3,
-      "4": 4,
-      "5": 5,
-      "6": 6
-    },
-    "friend_capacity_expansion_item_used": {
-      "1": true
-    },
-    "friend_achievement_completed": {
-      "1": true
-    },
-    "friend_application_expired": {
-      "1": true
-    },
-    "friend_deleted": {
-      "1": true
-    },
-    "friend_blocked": {
-      "1": true
-    },
-    "friend_unblocked": {
-      "1": true
-    },
-    "friend_borrow_used": {
-      "1": true
-    },
-    "friend_borrowed_reward_received": {
-      "1": true
-    },
-    "friend_gift_sent": {
-      "1": true
-    },
-    "friend_like_sent": {
-      "1": true
-    },
-    "friend_point_shop_item_purchased": {
-      "1": true
-    },
-    "friend_invite_reward_claimed": {
-      "1": true
+    "12": {
+      "condition": "current_game_ball_count >= BALL_COUNT",
+      "effects": {
+        "character_hotspring_reward_unlocked": "+1",
+        "character_daily_game_reward_flag": true,
+        "player_game_failure_count": 0
+      }
     }
   }
 }

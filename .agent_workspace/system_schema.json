@@ -1,34 +1,28 @@
 [
   {
-    "module_name": "friend_system",
+    "module_name": "hotspring_center",
     "continuous_fields": [
-      "player_level",
-      "friend_count",
-      "friend_capacity",
-      "friend_point",
-      "daily_gift_count",
-      "daily_like_count",
-      "daily_borrow_count",
-      "daily_borrowed_count",
-      "friend_application_count",
-      "blacklist_count",
-      "friend_invite_count"
+      "current_hotspring_character_id",
+      "last_hotspring_entry_timestamp",
+      "player_daily_hotspring_first_entry_flag",
+      "daily_hotspring_free_refresh_count",
+      "daily_free_refresh_count",
+      "player_base_currency",
+      "current_game_state",
+      "current_game_hit_count",
+      "current_game_ball_count",
+      "character_hotspring_reward_unlocked",
+      "character_daily_game_reward_flag",
+      "camera_mode",
+      "ui_visibility_state",
+      "player_game_failure_count",
+      "dormitory_hotspring_unlocked",
+      "character_current_skin_id",
+      "character_hotspring_pool_joined",
+      "collection_book_hotspring_entry_unlocked",
+      "max_simultaneous_characters_hotspring",
+      "content_production_phase_hotspring"
     ],
-    "discrete_fields": [
-      "friend_system_unlocked",
-      "friend_capacity_expansion_count",
-      "friend_capacity_expansion_item_used",
-      "friend_achievement_completed",
-      "friend_application_expired",
-      "friend_deleted",
-      "friend_blocked",
-      "friend_unblocked",
-      "friend_borrow_used",
-      "friend_borrowed_reward_received",
-      "friend_gift_sent",
-      "friend_like_sent",
-      "friend_point_shop_item_purchased",
-      "friend_invite_reward_claimed"
-    ]
+    "discrete_fields": []
   }
 ]

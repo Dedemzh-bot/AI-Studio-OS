@@ -10,16 +10,23 @@ import re
 import json
 
 RAG_META_PROMPT = """=======================================================
-⚠️ 【全局强制指令：如何阅读以下历史档案】
+⚠️ 【全局强制指令：RAG 记忆库正确使用法则】
 
-下方是系统从知识库中为你检索到的历史红黑榜档案。请你严格遵守以下阅读法则：
+下方是系统为你检索到的历史红黑榜档案。你【绝对禁止】将这些档案视为"排版模板"或"填空题"！你必须按照以下认知逻辑使用它们：
 
-1. **【优先级法则】**：你必须最高优先读取带有 `[读取优先级：Highest]` 的核心总结部分。带有 `[读取优先级：Low]` 的骨架仅作结构参考。
-2. **【领域隔离法则 (Domain Isolation)】**：注意每条档案顶部的 `[适用领域]`。
-   - 强相关：如果该领域与你当前的任务（如：你正在做数值，且标签是"数值架构"）相符，你必须将其中的铁律视为**绝对不可违背的最高准则**！
-   - 弱相关：如果标签是其他领域（如"表现演出"），请忽略其中的具体参数限制，仅学习其行文排版的格式化思路，绝不要让它干扰你的本职逻辑！
-3. **【黑榜免疫法则】**：看到"黑榜"和"错误脱水骨架"时，明确知道那是错误的垃圾案子，绝对不可照搬！
-======================================================="""
+1. **【最高指令：学神不学形】**：
+   你必须将 100% 的注意力集中在带有 `[读取优先级：Highest]` 的【核心经验总结】或【核心问题总结】上。将其作为你此次设计的"避坑指南"和"底层逻辑检查清单"。
+
+2. **【骨架隔离法则 (防格式滥用)】**：
+   带有 `[读取优先级：Low]` 的脱水骨架，仅仅是为了向你展示"过去成功/失败的具体样子"，【绝对不是】让你抄袭它的文档层级、排版格式或标题结构！
+   - 严禁死板套用骨架中的结构（如：不要因为看到别人用了五段式，就把"系统概述"也写成五段式）。
+   - 严禁强行对齐骨架中的名词（如：不要因为过去的案子有"热点"，就在当前无关的案子里硬编一个"热点"）。
+
+3. **【动态结构生成 (独立思考)】**：
+   你当前输出的文档结构、标题层级和排版方式，必须【完全基于当前分配给你的具体需求和系统特征】来动态设计！
+   - 例：如果是剧情系统，结构应该是"分支、节点、演出"；如果是社交系统，结构应该是"关系网、数据流、权限"。
+   - 结合当前需求进行独立思考，用 RAG 的最高优先级经验来审查自己的逻辑是否闭环，而不是用 RAG 的骨架来束缚自己的排版。
+========================================================""" 
 
 TOP_K = 3  # 红/黑榜各最多加载 Top-K 份最新文件
 
@@ -80,10 +87,10 @@ def _scan_and_filter(dir_path: str, task_domain: str | None) -> list[tuple[str, 
     return results
 
 
-def _topk_by_mtime(candidates: list[tuple[str, str]], k: int) -> list[str]:
-    """按文件修改时间降序排列，取前 k 份内容。"""
+def _topk_by_mtime(candidates: list[tuple[str, str]], k: int) -> list[tuple[str, str]]:
+    """按文件修改时间降序排列，取前 k 份 (文件路径, 内容)。"""
     sorted_candidates = sorted(candidates, key=lambda x: os.path.getmtime(x[0]), reverse=True)
-    return [content for _, content in sorted_candidates[:k]]
+    return sorted_candidates[:k]
 
 
 def load_rag_context(knowledge_dir: str, task_domain: str | None = None) -> str:
@@ -122,19 +129,40 @@ def load_rag_context(knowledge_dir: str, task_domain: str | None = None) -> str:
     best_dir = os.path.join(knowledge_dir, "best_practices")
     best_candidates = _scan_and_filter(best_dir, task_domain)
     best_topk = _topk_by_mtime(best_candidates, TOP_K)
+    best_contents = [content for _, content in best_topk]
+    total_best = len(os.listdir(best_dir)) if os.path.isdir(best_dir) else 0
 
     # ========== 3. 扫描黑榜（错误案例）==========
     anti_dir = os.path.join(knowledge_dir, "anti_patterns")
     anti_candidates = _scan_and_filter(anti_dir, task_domain)
     anti_topk = _topk_by_mtime(anti_candidates, TOP_K)
+    anti_contents = [content for _, content in anti_topk]
+    total_anti = len(os.listdir(anti_dir)) if os.path.isdir(anti_dir) else 0
 
-    # ========== 4. 组装：全局 → Meta-Prompt → Top3红 → Top3黑 ==========
-    if best_topk or anti_topk:
+    # ========== 4. 打印 RAG 筛选日志 ==========
+    domain_label = task_domain or "全量"
+    print(f"[RAG] task_domain={domain_label} | best_practices: {len(best_candidates)}/{total_best} 匹配 | anti_patterns: {len(anti_candidates)}/{total_anti} 匹配")
+    if best_topk:
+        print(f"[RAG] 优秀案例 Top{TOP_K}:")
+        for fp, _ in best_topk:
+            print(f"  - {os.path.basename(fp)}")
+    if anti_topk:
+        print(f"[RAG] 错误案例 Top{TOP_K}:")
+        for fp, _ in anti_topk:
+            print(f"  - {os.path.basename(fp)}")
+    total_loaded = len(best_topk) + len(anti_topk)
+    total_chars = sum(len(c) for _, c in best_topk) + sum(len(c) for _, c in anti_topk)
+    print(f"[RAG] 最终加载 {total_loaded} 个文件, {total_chars} 字符")
+
+    # ========== 5. 组装：全局 → Meta-Prompt → Top3红 → Top3黑 ==========
+    if best_contents or anti_contents:
         parts.append(RAG_META_PROMPT)
-        parts.extend(best_topk)
-        parts.extend(anti_topk)
+        parts.extend(best_contents)
+        parts.extend(anti_contents)
 
-    return "\n\n".join(parts)
+    result = "\n\n".join(parts)
+    print(f"[RAG] 总上下文（含全局文件+Meta): {len(result)} 字符")
+    return result
 
 
 def load_knowledge_with_context(root_dir: str, task_domain: str | None = None) -> str:

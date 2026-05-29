@@ -125,6 +125,8 @@ def main():
     if rag_context:
         user_prompt += f"\n\n{rag_context}"
         print(f"[Numerical Planner] 已注入 RAG 上下文 ({len(rag_context)} 字符)")
+    else:
+        print("[Numerical Planner] RAG 知识库为空（无匹配领域的案例）")
 
     # ========== 4. 调用大模型 ==========
     print("[Numerical Planner] 正在呼叫大模型设计数值配置...")

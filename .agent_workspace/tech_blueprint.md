@@ -1,127 +1,137 @@
-# 好友系统 - 程序开发蓝图
+# 温泉中心 - 程序开发蓝图
 
 ## 一、 整体架构概述
-该系统是一个**弱实时、强状态校验**的社交模块。核心性能瓶颈在于**好友列表的3D模型缩略图批量加载**（需做对象池与LOD管理）以及**在线状态轮询**（30秒间隔的轻量HTTP轮询）。后端需保证所有交互（赠送体力、点赞、助战奖励）的**原子性与防刷校验**，并处理每日凌晨4:00的批量数据重置。
+温泉中心是宿舍系统的扩展场景模块，属于**弱联网、强表现**的休闲陪伴系统。核心性能瓶颈在于：角色模型（泳装/浴巾+湿发效果）的实时渲染、水面物理模拟与蒸汽粒子特效的叠加，以及小游戏（射线检测/拖拽物理）的即时响应。所有玩法逻辑（角色刷新、小游戏胜负判定、奖励解锁）均需在服务端完成校验，前端主要负责表现层渲染与用户交互反馈。
 
 ## 二、 前端模块划分 (Client)
 
-### - UI 组件层
-1. **好友系统入口**：主界面“社交”按钮（等级<10时灰色锁定态）。
-2. **好友主界面**：
-   - 好友列表（卡片式，含3D模型缩略图、昵称、等级、在线状态）。
-   - 顶部友情点数值常驻显示 + 友情商店入口。
-   - 黄色警告条（好友位接近上限时显示）。
-3. **好友主页**：
-   - 看板娘3D模型展示（全身，支持双指缩放旋转）。
-   - 签名、近期战绩、好感度角色展示。
-   - 操作按钮区：赠送体力、点赞、删除好友、拉黑。
-4. **助战选择界面**：
-   - 网格布局，每个格子展示助战角色高清3D模型（可旋转）。
-   - 点击后播放“助战登场”动画与语音。
-5. **好友管理界面**：
-   - 好友申请列表（同意/拒绝）。
-   - 推荐列表。
-   - 搜索玩家ID输入框。
-   - 扩容入口（信用点/数据金扩容）。
-6. **轻量级互动弹窗**：赠送体力/点赞成功后，展示感谢动作与语音，2秒自动关闭。
-7. **战斗结算界面**：助战角色存活时，出现在队伍后方庆祝。
+### UI 组件层
+- **温泉入口按钮**：位于宿舍场景，根据 `dormitory_hotspring_unlocked` 控制显隐，根据角色池数量控制置灰状态。
+- **主场景 HUD**：包含角色信息栏、换人按钮、小游戏入口按钮（水枪射击/捞水球）、货币显示、UI 隐藏切换按钮。
+- **小游戏界面**：
+  - 水枪射击：准星、计时器、得分板、跳过弹窗。
+  - 捞水球：拖拽操作区、计时器、进度条、跳过弹窗。
+- **奖励解锁弹窗**：展示解锁内容预览（表情/语音/动作名称与缩略图），播放解锁特效。
+- **纯观赏模式**：一键隐藏所有 UI 的切换状态。
 
-### - 表现层控制器
-- **3D模型加载管理器**：负责好友列表缩略图、助战选择界面、好友主页模型的异步加载与对象池复用。加载失败时显示占位图。
-- **动画/语音播放器**：对接“助战登场”动画、感谢动作（飞吻/比心/鞠躬随机）、胜利庆祝动作。语音文件加载失败时仅播放动画。
-- **在线状态轮询器**：每30秒发起一次轻量HTTP请求，更新好友列表中的在线状态图标。
-- **物理反馈系统**：互动弹窗中模型轻微抖动（物理反馈）。
+### 表现层控制器
+- **场景与运镜控制器**：
+  - 默认第三人称近肩视角（`camera_mode = hotspring_default`），支持旋转/缩放，限制最低角度。
+  - 小游戏触发时自动推近至面部特写（`camera_mode = minigame_closeup`），结束后平滑复位。
+- **角色动画控制器**：
+  - 管理角色入水/出水动画、被水花溅到的后仰/躲闪动画、小游戏反馈动画（开心鼓掌/惊讶害羞）。
+  - 根据 `character_current_skin_id` 加载对应泳装/浴巾模型，启用湿发效果。
+- **物理与特效播放器**：
+  - 水面波纹/涟漪系统（角色移动/互动时触发）。
+  - 水花溅射特效（靶子/水球被击中时播放）。
+  - 蒸汽粒子特效（场景常驻）。
+  - 物理骨骼抖动（头发、浴巾边缘）。
+  - 性能降级方案：关闭水面粒子特效，物理效果切换为预设动画。
 
 ## 三、 后端逻辑划分 (Server)
 
-### - 持久化数据 (DB)
-- **玩家好友数据容器**：
-  - `player_id` (主键)
-  - `friend_list` (好友ID数组)
-  - `blacklist` (拉黑ID数组)
-  - `friend_capacity` (当前好友容量上限，默认20)
-  - `friend_point` (友情点，上限99999)
-  - `friend_capacity_expansion_count` (信用点扩容次数，0-6)
-  - `friend_capacity_expansion_item_used` (是否使用数据金扩容)
-- **每日重置字段**（需在每日凌晨4:00批量重置）：
-  - `daily_gift_count`, `daily_like_count`, `daily_borrow_count`, `daily_borrowed_count`, `friend_application_count`
-- **好友关系记录表**：
-  - `player_id_a`, `player_id_b`, `relationship_status` (好友/已删除/已拉黑), `created_at`
-- **好友申请记录表**：
-  - `applicant_id`, `target_id`, `status` (待处理/已同意/已拒绝/已过期), `created_at`
+### 持久化数据 (DB)
+- **玩家全局存档**：
+  - `last_hotspring_entry_timestamp`：上次进入时间戳。
+  - `dormitory_hotspring_unlocked`：温泉中心解锁状态。
+  - `daily_special_character_used`：今日特惠角色是否已使用。
+  - `daily_free_refresh_count`：当日免费刷新次数。
+  - `daily_minigame_reward_count`：当日小游戏奖励已领取次数。
+  - `current_hotspring_character_id`：当前场景角色 ID。
+  - `minigame_active`：小游戏是否进行中。
+  - `minigame_type`：当前小游戏类型（shooting/fishing）。
+  - `minigame_snapshot`：断线重连时保存的游戏状态快照。
+  - `minigame_failure_count`：当前小游戏类型下的连续失败次数。
+  - `character_hotspring_rewards_unlocked`：每个角色已解锁的奖励 ID 列表（数组）。
+  - `character_hotspring_interaction_record`：互动次数统计（仅记录，不产出经验）。
 
-### - 核心校验逻辑
-1. **好友申请校验**：
-   - 校验发送方等级>=10。
-   - 校验发送方`friend_application_count` < 20。
-   - 校验发送方`friend_count` < `friend_capacity`。
-   - 校验目标方`friend_count` < `friend_capacity`。
-   - 校验目标方不在发送方黑名单中，且发送方不在目标方黑名单中。
-2. **赠送体力校验**：
-   - 校验双方好友关系。
-   - 校验发送方体力值 >= 5。
-   - 校验接收方当前体力值 < 9999（体力上限）。
-   - 校验`friend_gift_sent`为false（今日未赠送过该好友）。
-   - **校验通过后执行**：发送方体力-5，发送方友情点+5，接收方体力+5（通过邮件发送），`friend_gift_sent`置为true，`daily_gift_count`+1。
-3. **点赞校验**：
-   - 校验双方好友关系。
-   - 校验`friend_like_sent`为false。
-   - **校验通过后执行**：发送方友情点+1，接收方友情点+2（通过邮件发送），`friend_like_sent`置为true，`daily_like_count`+1。
-4. **助战借用校验**：
-   - 校验双方好友关系。
-   - 校验`daily_borrow_count` < 5。
-   - 校验关卡类型非高难本（拟境、战术考核）。
-   - 校验目标好友已设置助战角色。
-   - **战斗结束后执行**：根据助战角色存活状态，借用方获得2/5友情点，借出方获得5/10友情点，`daily_borrow_count`+1，`daily_borrowed_count`+1。
-5. **扩容校验**：
-   - 信用点扩容：校验`friend_capacity_expansion_count` < 6，校验信用点 >= 5000。
-   - 数据金扩容：校验`friend_capacity_expansion_item_used`为false，校验数据金 >= 300。
-6. **拉黑校验**：若已是好友，先自动解除好友关系，再添加至黑名单。
+### 核心校验逻辑
+- **角色刷新校验**：
+  - 检查 `daily_special_character_used` 是否已使用，若已使用则不再触发特惠角色。
+  - 检查 `daily_free_refresh_count` 是否超过 `DAILY_FREE_REFRESH_LIMIT`，若超过则校验 `player_base_currency` 是否足够扣除 `REFRESH_CURRENCY_COST`。
+  - 校验角色池是否为空（玩家拥有角色数量 > 0）。
+- **小游戏校验**：
+  - 校验 `daily_minigame_reward_count` 是否已达 `DAILY_MINIGAME_REWARD_LIMIT`。
+  - 校验当前角色奖励池是否已全部解锁。
+  - 小游戏开始/结束状态机校验（防止重复开始或异常结束）。
+  - 命中数/捞取数统计的实时校验（防止前端篡改数据）。
+  - 跳过条件校验：`minigame_failure_count` 是否 >= `FAILURE_THRESHOLD`，以及 `player_base_currency` 是否足够扣除 `SKIP_CURRENCY_COST`。
+- **奖励解锁校验**：
+  - 校验命中数/捞取数是否达标（>= `SHOOTING_SUCCESS_THRESHOLD` / `FISHING_SUCCESS_THRESHOLD`）。
+  - 校验奖励池中是否存在未解锁奖励。
+  - 校验 `daily_minigame_reward_count` 是否已达上限。
+- **异常行为日志**：记录所有尝试通过非正常手段获取战斗数值/抽卡资源的操作。
 
 ## 四、 前后端通信协议 (API & 数据对接)
 
-- **`GetFriendList`**: C->S / 无参数 / 返回好友列表（含在线状态、看板娘配置ID、助战角色配置ID）。
-- **`GetFriendProfile`**: C->S / `target_player_id` / 返回好友主页数据（签名、近期战绩、好感度角色列表、看板娘配置ID）。
-- **`SearchPlayer`**: C->S / `player_id` / 返回玩家基本信息（昵称、等级、看板娘ID）。
-- **`SendFriendApplication`**: C->S / `target_player_id` / 返回成功/失败状态。
-- **`ProcessFriendApplication`**: C->S / `application_id`, `action` (同意/拒绝) / 返回成功/失败状态。
-- **`DeleteFriend`**: C->S / `target_player_id` / 返回成功/失败状态。
-- **`BlockPlayer`**: C->S / `target_player_id` / 返回成功/失败状态。
-- **`UnblockPlayer`**: C->S / `target_player_id` / 返回成功/失败状态。
-- **`SendGift`**: C->S / `target_player_id` / 返回成功/失败状态（失败时附带原因：体力不足/对方体力已满/今日已赠送）。
-- **`SendLike`**: C->S / `target_player_id` / 返回成功/失败状态。
-- **`GetSupportList`**: C->S / 无参数 / 返回可借用的好友助战列表（含角色等级、职业、武器类型、当前配置数据）。
-- **`BorrowSupport`**: C->S / `target_player_id`, `stage_id` / 返回助战角色完整战斗数据（用于战斗系统）。
-- **`ReportBattleResult`**: C->S / `borrow_record_id`, `support_survived` (布尔) / 返回友情点奖励结果。
-- **`ExpandCapacity`**: C->S / `method` (credit/data_gold) / 返回成功/失败状态。
-- **`GetFriendRecommendations`**: C->S / 无参数 / 返回推荐好友列表（按等级相近、在线状态、助战强度排序）。
-- **`PollOnlineStatus`**: C->S / `friend_id_list` (数组) / 返回每个好友的在线状态（在线/离线/战斗中）。
+- **`EnterHotSpring`**: C->S / `{}` / `{ current_character_id, daily_special_available, daily_free_refresh_count, daily_minigame_reward_count, player_base_currency }`
+- **`RefreshCharacter`**: C->S / `{}` / `{ new_character_id, updated_daily_free_refresh_count, updated_player_base_currency }`
+- **`StartMinigame`**: C->S / `{ minigame_type: string }` / `{ minigame_snapshot, game_time_limit }`
+- **`MinigameHit`**: C->S / `{ hit_count_increment: int }` / `{ current_hit_count, updated_minigame_snapshot }`
+- **`MinigameEnd`**: C->S / `{}` / `{ is_success: bool, reward_unlocked_id (optional), updated_daily_minigame_reward_count, updated_minigame_failure_count }`
+- **`SkipMinigame`**: C->S / `{}` / `{ reward_unlocked_id, updated_player_base_currency, updated_daily_minigame_reward_count }`
+- **`ExitMinigame`**: C->S / `{}` / `{ minigame_active: false, minigame_failure_count: 0 }`
+- **`GetCharacterRewardStatus`**: C->S / `{ character_id: string }` / `{ unlocked_rewards: array, all_unlocked: bool }`
+- **`ToggleUI`**: C->S / `{ new_state: string }` / `{ ui_visibility_state }`
+- **`UpdateCameraMode`**: C->S / `{ new_mode: string }` / `{ camera_mode }`
 
 ## 五、 数值与配置表挂载
-程序在启动时，读取 `system_numerical_data.json` 中的以下配置：
-- **`continuous_formulas`**：用于计算扩容消耗（信用点5000/次，数据金300一次性）。
-- **`discrete_milestones`**：用于定义每日重置时间（凌晨4:00）、每日交互次数上限（赠送体力20次、点赞20次、借用5次、被借用10次、申请20次）、友情点上限（99999）、体力上限（9999）。
-- **`field_dictionary`**：用于初始化所有字段的默认值（如`friend_capacity`=20，`friend_point`=0）。
+
+程序启动时，从 `system_numerical_data.json` 中读取以下常量配置。**注意：** 系统策划案中以占位符形式出现的数值（如 `[REFRESH_CURRENCY_COST]`）在数值配表和说明书中均未定义具体数值。程序在开发阶段需将这些占位符作为**待定参数**处理，由数值策划后续补充完整后，再挂载到配置表中。当前阶段，程序应使用默认占位值（如 0 或空字符串）进行开发，并预留配置读取接口。
+
+- **从 `field_dictionary` 读取**：
+  - `DAILY_FREE_REFRESH_LIMIT`：对应 `daily_free_refresh_count` 的取值范围上限（默认值 0，需数值策划补充）。
+  - `DAILY_MINIGAME_REWARD_LIMIT`：对应 `daily_minigame_reward_count` 的取值范围上限（默认值 0，需数值策划补充）。
+  - `TARGET_COUNT`：对应 `current_game_hit_count` 的取值范围上限（默认值 0，需数值策划补充）。
+  - `BALL_COUNT`：对应 `current_game_ball_count` 的取值范围上限（默认值 0，需数值策划补充）。
+- **从 `implementation_notes` 读取**：
+  - 所有布尔类型字段的连续公式规则（base=0, growth=0, type='linear'）。
+  - 所有整数类型字段的连续公式规则（base=0, growth=1, type='linear'）。
+- **待定参数（需数值策划补充）**：
+  - `REFRESH_CURRENCY_COST`：主动换人消耗的基础货币数量。
+  - `SHOOTING_TIME_LIMIT`：水枪射击小游戏倒计时秒数。
+  - `SHOOTING_SUCCESS_THRESHOLD`：水枪射击成功所需命中数。
+  - `FISHING_TIME_LIMIT`：捞水球小游戏倒计时秒数。
+  - `FISHING_SUCCESS_THRESHOLD`：捞水球成功所需捞取数。
+  - `FAILURE_THRESHOLD`：触发跳过选项所需的连续失败次数。
+  - `SKIP_CURRENCY_COST`：跳过小游戏消耗的基础货币数量。
+  - `MIN_REWARD_SLOTS`：每个角色在温泉中心的最小奖励槽位数。
 
 ## 六、 开发优先级与依赖链路 (执行排期) ★ 核心
 
-- **阶段一 (P0 - 底层数据与协议)**：
-  1. 数据库建表（好友关系表、申请记录表、玩家好友数据容器）。
-  2. 定义所有API接口（前后端通信协议）。
-  3. 后端核心校验逻辑实现（好友申请、赠送体力、点赞、助战借用、扩容、拉黑）。
-  4. 每日凌晨4:00重置定时任务开发。
-  5. 邮件系统对接（赠送体力、点赞、助战奖励的邮件发送）。
+### 阶段一 (P0 - 底层数据与协议)
+- **建表**：在玩家全局存档中创建温泉中心相关字段（`last_hotspring_entry_timestamp`, `daily_special_character_used`, `daily_free_refresh_count`, `daily_minigame_reward_count`, `current_hotspring_character_id`, `minigame_active`, `minigame_type`, `minigame_snapshot`, `minigame_failure_count`, `character_hotspring_rewards_unlocked`）。
+- **定义 API**：完成所有前后端通信接口的协议定义（请求/返回参数）。
+- **后端核心校验逻辑**：
+  - 实现角色刷新校验（特惠角色、免费次数、货币消耗）。
+  - 实现小游戏状态机（开始、命中、结束、退出、跳过）的校验逻辑。
+  - 实现奖励解锁校验（达标判定、奖励池检查、每日上限）。
+  - 实现异常行为日志记录。
 
-- **阶段二 (P1 - 前端核心表现)**：
-  1. UI框架搭建（好友列表、好友主页、助战选择界面、管理界面）。
-  2. 接入后端API，实现核心玩法跑通（好友添加/删除、赠送体力、点赞、助战借用）。
-  3. 3D模型加载管理器与对象池实现（好友列表缩略图、助战选择界面模型）。
-  4. 在线状态轮询器实现。
-  5. 战斗系统对接（助战数据加载、战斗结算奖励通知）。
+### 阶段二 (P1 - 前端核心表现)
+- **UI 框架搭建**：
+  - 实现温泉入口按钮（显隐/置灰逻辑）。
+  - 实现主场景 HUD（角色信息、换人按钮、小游戏入口、货币显示、UI 隐藏切换）。
+  - 实现小游戏界面（水枪射击准星/计时器/得分板、捞水球拖拽区/计时器/进度条）。
+  - 实现奖励解锁弹窗。
+- **接入后端 API**：前端所有交互按钮/操作绑定对应的后端接口调用。
+- **核心玩法跑通**：
+  - 角色刷新流程（进入场景 -> 请求角色 -> 显示角色模型）。
+  - 小游戏完整流程（开始 -> 操作 -> 命中/捞取 -> 结束 -> 奖励解锁）。
+  - 跳过选项流程（失败次数达标 -> 弹窗 -> 消耗货币 -> 解锁奖励）。
 
-- **阶段三 (P2 - 表现层打磨)**：
-  1. 特效接入（助战登场动画、感谢动作、胜利庆祝特效）。
-  2. 语音播放器与动画同步。
-  3. 边缘异常兜底（网络异常回滚、模型加载失败占位图、语音加载失败降级）。
-  4. 扩容界面与商业化埋点（信用点/数据金扩容UI、充值引导）。
-  5. 成就/任务系统联动（日常任务、成就进度）。
+### 阶段三 (P2 - 表现层打磨)
+- **特效接入**：
+  - 水面波纹/涟漪系统。
+  - 水花溅射特效。
+  - 蒸汽粒子特效。
+  - 角色物理抖动（头发、浴巾）。
+- **运镜与动画**：
+  - 默认第三人称近肩视角（旋转/缩放/角度限制）。
+  - 小游戏面部特写推近/复位动画。
+  - 角色入水/出水动画、被溅到反应动画、小游戏反馈动画。
+- **边缘异常兜底**：
+  - 断线重连：`minigame_snapshot` 的保存与恢复逻辑。
+  - 性能降级：设备性能不足时关闭水面粒子特效，物理效果切换为预设动画。
+  - 空角色池/奖励池已满/货币不足等 UI 提示与按钮置灰逻辑。
+  - 纯观赏模式（一键隐藏 UI）的切换与恢复。

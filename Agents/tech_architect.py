@@ -110,6 +110,8 @@ def main():
     if rag_context:
         user_prompt += f"\n\n{rag_context}"
         print(f"[Tech Architect] 已注入 RAG 上下文 ({len(rag_context)} 字符)")
+    else:
+        print("[Tech Architect] RAG 知识库为空（无匹配领域的案例）")
 
     # ========== 5. 调用大模型 ==========
     print("[Tech Architect] 正在呼叫大模型生成技术架构蓝图...")

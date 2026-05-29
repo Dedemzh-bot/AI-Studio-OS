@@ -44,6 +44,7 @@ def main():
     # ========== 1. 读取输入 ==========
     draft = load_file(DRAFT_FILE)
     rag_context = load_knowledge_with_context(ROOT_DIR, task_domain="系统逻辑")
+    print(f"[TaskPlanner] RAG 知识上下文: {len(rag_context)} 字符{' (空)' if not rag_context else ''}")
     feedback = load_file(FEEDBACK_FILE)
 
     if not draft:
