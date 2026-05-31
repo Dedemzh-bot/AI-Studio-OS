@@ -1,0 +1,79 @@
+{
+  "system_summary": "[全品类美术图鉴] 该系统用于管理玩家在游戏过程中解锁的所有美术资产（角色、武器、敌人、场景、CG、音乐）的收集、展示与进度奖励。",
+  "field_dictionary": {
+    "category_definition": {
+      "category_id": "【字符串】品类唯一标识，取值范围：character（角色）、weapon（武器）、enemy（敌人）、scene（场景）、cg（CG）、music（音乐）。默认值：无。",
+      "category_name": "【字符串】品类的中文显示名称，如“角色”、“武器”。默认值：无。",
+      "parent_category_id": "【字符串】父级品类ID，用于二级分类。一级分类时为空字符串。默认值：\"\"。",
+      "sub_category_id": "【字符串】二级分类的唯一标识，如“camp_tianqi”（天启阵营）、“type_pistol”（手枪）。默认值：无。",
+      "sub_category_name": "【字符串】二级分类的中文显示名称，如“天启阵营”、“手枪”。默认值：无。"
+    },
+    "category_progress": {
+      "category_id": "【字符串】品类唯一标识，与category_definition中的category_id对应。取值范围同上。默认值：无。",
+      "category_unlocked_count": "【整数】该品类当前已解锁的条目数量。取值范围：0 至 category_total_count。默认值：0。",
+      "category_total_count": "【整数】该品类总条目数量。取值范围：正整数。默认值：0。",
+      "category_progress": "【整数】该品类的收集进度百分比，计算公式为 floor((category_unlocked_count / category_total_count) * 100)，向下取整。取值范围：0 至 100。默认值：0。",
+      "category_milestone_1": "【整数】品类进度里程碑1的阈值百分比。取值范围：1 至 100。默认值：20。",
+      "category_milestone_2": "【整数】品类进度里程碑2的阈值百分比。取值范围：1 至 100。默认值：40。",
+      "category_milestone_3": "【整数】品类进度里程碑3的阈值百分比。取值范围：1 至 100。默认值：60。",
+      "category_milestone_4": "【整数】品类进度里程碑4的阈值百分比。取值范围：1 至 100。默认值：80。",
+      "category_milestone_5": "【整数】品类进度里程碑5的阈值百分比。取值范围：1 至 100。默认值：100。"
+    },
+    "total_progress": {
+      "all_categories_unlocked_count": "【整数】所有品类已解锁条目总数。取值范围：0 至 all_categories_total_count。默认值：0。",
+      "all_categories_total_count": "【整数】所有品类总条目数之和。取值范围：正整数。默认值：0。",
+      "total_progress": "【整数】总收集进度百分比，计算公式为 floor((all_categories_unlocked_count / all_categories_total_count) * 100)，向下取整。取值范围：0 至 100。默认值：0。",
+      "total_milestone_1": "【整数】总进度里程碑1的阈值百分比。取值范围：1 至 100。默认值：20。",
+      "total_milestone_2": "【整数】总进度里程碑2的阈值百分比。取值范围：1 至 100。默认值：40。",
+      "total_milestone_3": "【整数】总进度里程碑3的阈值百分比。取值范围：1 至 100。默认值：60。",
+      "total_milestone_4": "【整数】总进度里程碑4的阈值百分比。取值范围：1 至 100。默认值：80。",
+      "total_milestone_5": "【整数】总进度里程碑5的阈值百分比。取值范围：1 至 100。默认值：100。"
+    },
+    "entry_unlock": {
+      "entry_id": "【字符串】图鉴条目的唯一标识，格式为“品类ID_序号”，如“character_001”。默认值：无。",
+      "unlock_time": "【整数】条目解锁时的Unix时间戳（秒）。取值范围：正整数。默认值：0（表示未解锁）。",
+      "unlock_status": "【布尔值】条目是否已解锁。取值范围：true（已解锁）、false（未解锁）。默认值：false。"
+    },
+    "milestone_reward": {
+      "milestone_id": "【字符串】里程碑奖励的唯一标识，格式为“品类ID_milestone_序号”或“total_milestone_序号”，如“character_milestone_1”。默认值：无。",
+      "reward_content": "【字符串】奖励内容的JSON字符串，包含物品ID和数量，如“{\"item_id\": \"limited_gacha_ticket\", \"count\": 1}”。默认值：\"{}\"。",
+      "claim_status": "【布尔值】该里程碑奖励是否已被领取。取值范围：true（已领取）、false（未领取）。默认值：false。"
+    },
+    "entry_display": {
+      "entry_id": "【字符串】图鉴条目的唯一标识，与entry_unlock中的entry_id对应。默认值：无。",
+      "entry_name": "【字符串】条目的显示名称，如“白夜”、“破晓之刃”。默认值：无。",
+      "rarity": "【整数】条目的稀有度等级，取值范围：1（普通）、2（稀有）、3（史诗）、4（传说）。默认值：1。",
+      "unlock_status": "【布尔值】条目是否已解锁，与entry_unlock中的unlock_status同步。取值范围：true、false。默认值：false。",
+      "acquisition_hint": "【字符串】未解锁条目的获取途径提示文本，如“通过主线关卡3-5解锁”。若条目已绝版，显示“该内容已绝版”。默认值：\"\"。",
+      "is_obsolete": "【布尔值】该条目是否为已绝版内容。取值范围：true（已绝版）、false（未绝版）。默认值：false。"
+    },
+    "sort_filter": {
+      "sort_dimension": "【字符串】排序维度，取值范围：\"unlock_time\"（解锁时间）、\"rarity\"（稀有度）、\"camp\"（阵营）、\"version\"（版本）。默认值：\"unlock_time\"。",
+      "filter_dimension": "【字符串】筛选维度，取值范围：\"unlock_status\"（解锁状态）、\"rarity\"（稀有度）、\"camp\"（阵营）、\"version\"（版本）、\"sub_category\"（二级分类）。默认值：\"unlock_status\"。",
+      "filter_value": "【字符串】筛选维度的具体取值，如\"true\"（已解锁）、\"3\"（稀有度史诗）。默认值：\"all\"（全部显示）。"
+    },
+    "system_linkage": {
+      "source_system": "【字符串】来源系统标识，取值范围：\"character_acquisition\"（角色获取）、\"weapon_acquisition\"（武器获取）、\"battle_level\"（战斗/关卡）、\"story\"（剧情）、\"event\"（活动）。默认值：无。",
+      "trigger_event": "【字符串】触发解锁的事件类型，如\"on_first_encounter\"（首次遭遇）、\"on_first_view\"（首次观看）。默认值：无。",
+      "linked_entry_id": "【字符串】关联的图鉴条目ID，与entry_display中的entry_id对应。默认值：无。"
+    }
+  },
+  "relations_and_enums": {
+    "外键关系": {
+      "category_progress.category_id": "引用 category_definition.category_id，表示该进度记录属于哪个品类。",
+      "entry_unlock.entry_id": "引用 entry_display.entry_id，表示该解锁记录对应的图鉴条目。",
+      "milestone_reward.milestone_id": "命名规则为“品类ID_milestone_序号”或“total_milestone_序号”，与 category_progress 或 total_progress 中的里程碑阈值对应。",
+      "system_linkage.linked_entry_id": "引用 entry_display.entry_id，表示该联动事件对应的图鉴条目。"
+    },
+    "状态码枚举": {
+      "unlock_status": "true（已解锁）、false（未解锁）",
+      "claim_status": "true（已领取）、false（未领取）",
+      "is_obsolete": "true（已绝版）、false（未绝版）",
+      "rarity": "1（普通）、2（稀有）、3（史诗）、4（传说）",
+      "sort_dimension": "unlock_time（解锁时间）、rarity（稀有度）、camp（阵营）、version（版本）",
+      "filter_dimension": "unlock_status（解锁状态）、rarity（稀有度）、camp（阵营）、version（版本）、sub_category（二级分类）",
+      "source_system": "character_acquisition（角色获取）、weapon_acquisition（武器获取）、battle_level（战斗/关卡）、story（剧情）、event（活动）"
+    }
+  },
+  "implementation_notes": "1. 所有进度百分比（category_progress、total_progress）在计算时必须使用向下取整（floor），确保前端展示与后端逻辑一致。2. 解锁事件推送需保证幂等性，重复推送同一entry_id的解锁事件应被忽略。3. 奖励发放采用异步邮件系统，需处理邮箱满、玩家离线等边界情况。4. 模型加载建议采用LOD分级策略，低端设备默认使用立绘模式。5. 活动限定条目在活动结束后，其acquisition_hint应自动切换为“该内容已绝版”。"
+}

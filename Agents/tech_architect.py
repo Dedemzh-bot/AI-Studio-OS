@@ -73,6 +73,14 @@ def main():
 
     print(f"[Tech Architect] 已加载主程 Prompt ({len(system_prompt)} 字符)")
 
+    # ---- 强制注入数值字典 ----
+    if docs:
+        system_prompt += (
+            f"\n\n【绝对指令】：你必须且只能使用以下数值策划定义好的字段类型和默认值建表，"
+            f"绝对不准自己创造新字段或修改默认值：\n\n{docs}"
+        )
+        print(f"[Tech Architect] 已将数值字典注入 System Prompt ({len(docs)} 字符)")
+
     # ========== 3. 构建用户提示词 ==========
     user_prompt = (
         f"【系统策划详细设计案】：\n\n{detail}\n\n"

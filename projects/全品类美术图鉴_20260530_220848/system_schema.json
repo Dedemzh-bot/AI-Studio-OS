@@ -1,0 +1,91 @@
+[
+  {
+    "module_name": "category_progress",
+    "continuous_fields": [
+      "category_unlocked_count",
+      "category_total_count",
+      "category_progress"
+    ],
+    "discrete_fields": [
+      "category_milestone_1",
+      "category_milestone_2",
+      "category_milestone_3",
+      "category_milestone_4",
+      "category_milestone_5"
+    ]
+  },
+  {
+    "module_name": "total_progress",
+    "continuous_fields": [
+      "all_categories_unlocked_count",
+      "all_categories_total_count",
+      "total_progress"
+    ],
+    "discrete_fields": [
+      "total_milestone_1",
+      "total_milestone_2",
+      "total_milestone_3",
+      "total_milestone_4",
+      "total_milestone_5"
+    ]
+  },
+  {
+    "module_name": "entry_unlock",
+    "continuous_fields": [
+      "unlock_time"
+    ],
+    "discrete_fields": [
+      "unlock_status"
+    ]
+  },
+  {
+    "module_name": "milestone_reward",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "milestone_id",
+      "reward_content",
+      "claim_status"
+    ]
+  },
+  {
+    "module_name": "entry_display",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "entry_id",
+      "entry_name",
+      "rarity",
+      "unlock_status",
+      "acquisition_hint",
+      "is_obsolete"
+    ]
+  },
+  {
+    "module_name": "sort_filter",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "sort_dimension",
+      "filter_dimension",
+      "filter_value"
+    ]
+  },
+  {
+    "module_name": "category_definition",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "category_id",
+      "category_name",
+      "parent_category_id",
+      "sub_category_id",
+      "sub_category_name"
+    ]
+  },
+  {
+    "module_name": "system_linkage",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "source_system",
+      "trigger_event",
+      "linked_entry_id"
+    ]
+  }
+]

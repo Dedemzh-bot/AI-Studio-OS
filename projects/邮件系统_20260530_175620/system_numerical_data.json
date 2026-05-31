@@ -1,0 +1,81 @@
+{
+  "continuous_formulas": {
+    "mail_id": {
+      "base": 1,
+      "growth": 1,
+      "type": "linear"
+    },
+    "player_id": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    },
+    "send_timestamp": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    },
+    "title": {
+      "base": "",
+      "growth": "",
+      "type": "linear"
+    },
+    "body": {
+      "base": "",
+      "growth": "",
+      "type": "linear"
+    },
+    "attachment_list": {
+      "base": [],
+      "growth": [],
+      "type": "linear"
+    },
+    "expiration_timestamp": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    },
+    "favorite_capacity": {
+      "base": 100,
+      "growth": 0,
+      "type": "linear"
+    },
+    "mail_content_production_phase": {
+      "base": 0,
+      "growth": 0,
+      "type": "linear"
+    }
+  },
+  "discrete_milestones": {
+    "0": {
+      "mail_type": 0,
+      "is_read": false,
+      "is_claimed": false,
+      "is_favorited": false,
+      "is_deleted": false,
+      "character_id": 0,
+      "activity_id": 0,
+      "admin_id": 0
+    },
+    "1": {
+      "mail_type": 1,
+      "is_read": false,
+      "is_claimed": false,
+      "is_favorited": false,
+      "is_deleted": false,
+      "character_id": 0,
+      "activity_id": 0,
+      "admin_id": 0
+    },
+    "2": {
+      "mail_type": 2,
+      "is_read": false,
+      "is_claimed": false,
+      "is_favorited": true,
+      "is_deleted": false,
+      "character_id": 0,
+      "activity_id": 0,
+      "admin_id": 0
+    }
+  }
+}

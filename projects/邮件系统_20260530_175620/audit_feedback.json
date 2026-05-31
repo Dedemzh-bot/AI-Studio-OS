@@ -1,0 +1,40 @@
+{
+  "status": "reject",
+  "issues": [
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "2.2 收藏机制（混合模式）",
+      "problem_description": "系统策划案中描述收藏匣上限为 `[FAVORITE_CAPACITY]`（如：200封），但数值说明书和数值配表中 `favorite_capacity` 的默认值为100。虽然根据最高裁决法则，数值冲突不报，但此处存在逻辑断裂：系统案中未明确 `favorite_capacity` 是玩家维度字段，也未说明初始默认值，导致下游程序蓝图在挂载配置时只能依赖数值文档，而系统案中的举例（200封）与数值默认值（100）存在误导性矛盾，可能引发实现歧义。",
+      "fix_suggestion": "系统策划应在系统案中明确 `favorite_capacity` 为玩家维度字段，并引用数值文档中的默认值（100），避免使用举例数值（200）造成混淆。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "2.5 邮件删除",
+      "problem_description": "系统策划案中描述删除操作时，若附件未领取则弹出确认弹窗，但未明确弹窗确认后是否执行 `Mail_DeleteMail` API 的调用。程序蓝图中的 `Mail_DeleteMail` API 返回参数仅包含 `success: bool`，未提供区分“附件未领取确认删除”与“附件已领取直接删除”的 `error_code` 或状态码，导致前端无法根据后端返回判断是否需要弹出确认弹窗。这属于逻辑死胡同：系统案描述了交互流程，但程序蓝图缺少对应的接口状态定义。",
+      "fix_suggestion": "系统策划应在系统案中明确删除操作的完整交互流程，包括弹窗确认后的API调用逻辑。程序蓝图应在 `Mail_DeleteMail` API 的返回参数中增加 `error_code` 字段，用于标识“附件未领取”等场景，以便前端决策是否弹窗。"
+    },
+    {
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、 前后端通信协议 (API & 数据对接)",
+      "problem_description": "程序蓝图中 `Mail_GetMailList` API 的返回参数包含 `favorite_count: int` 和 `favorite_capacity: int`，但数值说明书和数值配表中 `favorite_capacity` 是玩家维度的配置字段，存储在 `player_mail_config_table` 中。程序蓝图未定义 `Mail_GetFavoriteCapacity` 或类似独立接口，而是将容量信息混入邮件列表接口。这可能导致每次拉取邮件列表时都返回容量数据，增加不必要的数据传输。更严重的是，程序蓝图未说明 `favorite_capacity` 在 `player_mail_config_table` 中的更新机制（运营后台动态覆盖），存在字段遗漏风险。",
+      "fix_suggestion": "程序蓝图应明确 `favorite_capacity` 的获取方式：建议在 `Mail_GetMailList` 中保留 `favorite_capacity` 字段，但需补充说明该值从 `player_mail_config_table` 读取，并定义运营后台动态覆盖该值的接口或RPC协议。"
+    },
+    {
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "2.3 收藏匣",
+      "problem_description": "系统策划案中描述收藏匣支持按角色ID、邮件类型筛选，但未明确筛选功能是前端本地过滤还是后端接口支持。程序蓝图中的 `Mail_GetFavoriteList` API 虽然提供了可选的 `filter_character_id` 和 `filter_mail_type` 参数，但系统案中未定义筛选逻辑的边界条件（如：当两个筛选参数同时传入时，是AND还是OR逻辑）。这属于流程断裂：系统案描述了功能，程序蓝图实现了接口，但缺少对筛选逻辑的明确约定。",
+      "fix_suggestion": "系统策划应在系统案中明确收藏匣筛选的逻辑（AND/OR），并补充筛选参数的边界条件（如：空值处理、无效ID处理）。程序蓝图需根据系统案补充筛选逻辑的注释说明。"
+    },
+    {
+      "responsible_agent": "numerical_planner",
+      "target_file": "system_numerical_docs.json",
+      "anchor": "field_dictionary",
+      "problem_description": "数值说明书中 `favorite_capacity` 的默认值为100，但系统策划案中举例为200（虽然根据最高裁决法则不报数值冲突），然而数值配表中的 `continuous_formulas` 中 `favorite_capacity` 的 `base` 为100，与说明书一致。但数值说明书和配表均未定义 `favorite_capacity` 的运营后台动态覆盖机制对应的字段或配置表，导致程序蓝图中的 `player_mail_config_table` 缺乏数据来源定义。这属于字段遗漏：数值文档未提供运营后台可动态覆盖的配置字段。",
+      "fix_suggestion": "数值策划应在数值说明书中增加 `favorite_capacity_override` 或类似字段，明确运营后台动态覆盖的配置表结构，或补充说明 `favorite_capacity` 可在运行时被运营后台修改，并定义修改后的数据持久化方式。"
+    }
+  ]
+}

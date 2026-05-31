@@ -48,8 +48,13 @@ def load_file(path: str) -> str:
 
 
 def _extract_meta_field(draft: str, field: str) -> str:
-    """从设计草案的 0_System_Meta 区域提取字段值。"""
-    # 在 draft 的 Markdown 中搜索字段定义
+    """从设计草案的标题行或 0_System_Meta 区域提取字段值。"""
+    # 1. 匹配一级标题: # {system_name} - 宏观设计草案
+    title_match = re.search(r'^#\s*(.+?)\s*-\s*宏观设计草案', draft, re.MULTILINE)
+    if title_match:
+        return title_match.group(1).strip()
+
+    # 2. 匹配 meta 字段: **system_name**: XXX
     for pattern in [
         rf'\*\*{field}\*\*\s*[:：]\s*(.+?)(?:\n|$)',
         rf'{field}\s*[:：]\s*(.+?)(?:\n|$)',
@@ -236,6 +241,16 @@ def main():
                 with open(META_FILE, "w", encoding="utf-8") as f:
                     json.dump(project_meta, f, ensure_ascii=False, indent=2)
                 print(f"{GRN}[Visionary] 元数据已保存: {META_FILE} ({meta_name}/{meta_tag}){RESET}")
+            except Exception:
+                pass
+
+            # ---- 清空审计日志，为新系统立项 ----
+            trace_file = os.path.join(WORKSPACE_DIR, "audit_trace_log.md")
+            try:
+                os.makedirs(WORKSPACE_DIR, exist_ok=True)
+                with open(trace_file, "w", encoding="utf-8") as f:
+                    f.write(f"# {meta_name} - 审查修改日志\n\n")
+                print(f"[Visionary] 审计日志已重置: {trace_file}")
             except Exception:
                 pass
 

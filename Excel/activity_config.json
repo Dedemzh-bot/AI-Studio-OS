@@ -1,0 +1,49 @@
+{
+  "_metadata": {
+    "module": "activity_config",
+    "fields": {
+      "activity_id": "【字符串】活动唯一标识符，如'daily_signin'、'limited_instance'。取值范围：由运营后台定义的合法活动ID。默认值：无。",
+      "activity_name": "【字符串】活动显示名称，如'日签到'、'限时副本'。取值范围：任意字符串。默认值：无。",
+      "activity_type": "【字符串】活动类型标识符，如'daily_signin'、'limited_instance'、'exchange_shop'。取值范围：由运营后台定义的活动类型枚举。默认值：无。",
+      "background_url": "【字符串】活动大厅背景插画资源路径。取值范围：合法的资源路径字符串。默认值：无。",
+      "end_time": "【整数】活动结束时间，Unix时间戳格式（秒级）。取值范围：0到2147483647。默认值：0（表示未设置）。",
+      "entry_url": "【字符串】活动跳转路径，如'activity://daily_signin'。取值范围：合法的URL协议字符串。默认值：无。",
+      "has_reddot": "【布尔】是否支持红点提示。取值范围：true/false。默认值：false。",
+      "icon_url": "【字符串】活动页签图标资源路径。取值范围：合法的资源路径字符串。默认值：无。",
+      "sort_weight": "【整数】排序权重，值越大越靠前。取值范围：0到10000。默认值：0。",
+      "start_time": "【整数】活动开始时间，Unix时间戳格式（秒级）。取值范围：0到2147483647。默认值：0（表示未设置）。",
+      "unlock_chapter": "【整数】解锁所需主线章节，0表示无条件。取值范围：0到主线章节上限。默认值：0。",
+      "unlock_level": "【整数】解锁所需玩家等级，0表示无条件。取值范围：0到玩家等级上限。默认值：0。"
+    }
+  },
+  "data": [
+    {
+      "activity_id": "daily_signin",
+      "activity_name": "日签到",
+      "start_time": 1700000000,
+      "end_time": 1730000000,
+      "unlock_level": 5,
+      "unlock_chapter": 0,
+      "sort_weight": 100,
+      "has_reddot": true,
+      "activity_type": "daily_signin",
+      "entry_url": "activity://daily_signin",
+      "icon_url": "ui/icon/activity_daily_signin.png",
+      "background_url": "ui/background/activity_hall_default.jpg"
+    },
+    {
+      "activity_id": "limited_instance",
+      "activity_name": "限时副本",
+      "start_time": 1701000000,
+      "end_time": 1705000000,
+      "unlock_level": 10,
+      "unlock_chapter": 2,
+      "sort_weight": 80,
+      "has_reddot": false,
+      "activity_type": "limited_instance",
+      "entry_url": "activity://limited_instance",
+      "icon_url": "ui/icon/activity_limited_instance.png",
+      "background_url": "ui/background/activity_hall_event.jpg"
+    }
+  ]
+}

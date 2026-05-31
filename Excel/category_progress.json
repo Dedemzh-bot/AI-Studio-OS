@@ -1,0 +1,86 @@
+{
+  "_metadata": {
+    "module": "category_progress",
+    "fields": {
+      "category_progress": {
+        "category_id": "【字符串】品类唯一标识，与category_definition中的category_id对应。取值范围同上。默认值：无。",
+        "category_unlocked_count": "【整数】该品类当前已解锁的条目数量。取值范围：0 至 category_total_count。默认值：0。",
+        "category_total_count": "【整数】该品类总条目数量。取值范围：正整数。默认值：0。",
+        "category_progress": "【整数】该品类的收集进度百分比，计算公式为 floor((category_unlocked_count / category_total_count) * 100)，向下取整。取值范围：0 至 100。默认值：0。",
+        "category_milestone_1": "【整数】品类进度里程碑1的阈值百分比。取值范围：1 至 100。默认值：20。",
+        "category_milestone_2": "【整数】品类进度里程碑2的阈值百分比。取值范围：1 至 100。默认值：40。",
+        "category_milestone_3": "【整数】品类进度里程碑3的阈值百分比。取值范围：1 至 100。默认值：60。",
+        "category_milestone_4": "【整数】品类进度里程碑4的阈值百分比。取值范围：1 至 100。默认值：80。",
+        "category_milestone_5": "【整数】品类进度里程碑5的阈值百分比。取值范围：1 至 100。默认值：100。"
+      }
+    }
+  },
+  "data": [
+    {
+      "category_id": "character",
+      "category_unlocked_count": 0,
+      "category_total_count": 10,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "weapon",
+      "category_unlocked_count": 0,
+      "category_total_count": 8,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "enemy",
+      "category_unlocked_count": 0,
+      "category_total_count": 5,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "scene",
+      "category_unlocked_count": 0,
+      "category_total_count": 6,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "cg",
+      "category_unlocked_count": 0,
+      "category_total_count": 4,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "music",
+      "category_unlocked_count": 0,
+      "category_total_count": 3,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    }
+  ]
+}

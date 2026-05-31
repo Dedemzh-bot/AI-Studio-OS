@@ -31,10 +31,11 @@ RESET = "\033[0m"
 
 
 def loud_fail(msg: str):
-    print(f"{RED}========== [Archivist] 致命错误 =========={RESET}")
-    print(f"{RED}{msg}{RESET}")
-    traceback.print_exc()
-    print(f"{RED}=========================================={RESET}")
+    print(f"{RED}========== [Archivist] 致命错误 =========={RESET}", file=sys.stderr)
+    print(f"{RED}{msg}{RESET}", file=sys.stderr)
+    if sys.exc_info()[0] is not None:
+        traceback.print_exc()
+    print(f"{RED}=========================================={RESET}", file=sys.stderr)
     sys.exit(1)
 
 
@@ -137,11 +138,11 @@ def main():
         try:
             with open(META_FILE, "r", encoding="utf-8") as f:
                 meta = json.load(f)
-            system_name = meta.get("system_name", "未命名")
+            system_name = sanitize_filename(meta.get("system_name", "未命名"))
         except Exception:
             pass
 
-    filename = f"{source_agent}_{label}_{system_name}_{yyyymmdd}_{safe_anchor}.md"
+    filename = f"{source_agent}_{label}_{system_name}_{yyyymmdd}_{safe_anchor}.md"[:200]
     filepath = os.path.join(target_dir, filename)
 
     with open(filepath, "w", encoding="utf-8") as f:

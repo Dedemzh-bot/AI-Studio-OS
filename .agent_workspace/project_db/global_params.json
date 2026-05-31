@@ -1,0 +1,25 @@
+[
+  {
+    "max_tab_count": 10,
+    "reddot_timeout_duration": 300,
+    "max_retry_count": 3,
+    "signin_unlock_level": 5,
+    "month_max_days": 30,
+    "err_already_signed": 1001,
+    "err_month_full": 1002,
+    "err_already_retroactive": 1003,
+    "consecutive_7_days": 7,
+    "consecutive_14_days": 14,
+    "consecutive_21_days": 21,
+    "consecutive_full_month": 30,
+    "max_missed_days_for_retroactive": 3,
+    "retroactive_cost_per_day": 50,
+    "retroactive_cost_base": 50,
+    "retroactive_cost_max": 500,
+    "accelerate_days": 7,
+    "accelerate_fixed_cost": 300,
+    "gold_coin_amount": 100,
+    "monthly_gacha_ticket_fragments_min": 10,
+    "monthly_gacha_ticket_fragments_max": 30
+  }
+]

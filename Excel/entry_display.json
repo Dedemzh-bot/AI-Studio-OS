@@ -1,0 +1,64 @@
+{
+  "_metadata": {
+    "module": "entry_display",
+    "fields": {}
+  },
+  "data": [
+    {
+      "entry_id": "character_001",
+      "entry_name": "白夜",
+      "rarity": 4,
+      "unlock_status": false,
+      "acquisition_hint": "通过角色卡池抽取",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "character_002",
+      "entry_name": "紫苑",
+      "rarity": 3,
+      "unlock_status": false,
+      "acquisition_hint": "通过主线关卡2-8解锁",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "weapon_001",
+      "entry_name": "破晓之刃",
+      "rarity": 4,
+      "unlock_status": false,
+      "acquisition_hint": "通过武器卡池抽取",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "enemy_001",
+      "entry_name": "森林狼",
+      "rarity": 1,
+      "unlock_status": false,
+      "acquisition_hint": "首次遭遇于主线关卡1-3",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "scene_001",
+      "entry_name": "晨曦森林",
+      "rarity": 2,
+      "unlock_status": false,
+      "acquisition_hint": "首次进入主线关卡1-1",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "cg_001",
+      "entry_name": "初遇",
+      "rarity": 3,
+      "unlock_status": false,
+      "acquisition_hint": "观看主线第一章剧情",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "music_001",
+      "entry_name": "星之旋律",
+      "rarity": 2,
+      "unlock_status": false,
+      "acquisition_hint": "播放主线第一章剧情BGM",
+      "is_obsolete": false
+    }
+  ]
+}

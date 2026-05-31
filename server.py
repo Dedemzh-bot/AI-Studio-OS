@@ -151,10 +151,77 @@ async def api_archive(data: dict):
     try:
         env = os.environ.copy()
         env["AI_STUDIO_DATA_DIR"] = DATA_DIR
-        r = subprocess.run(cmd, capture_output=True, text=True, cwd=BUNDLE_DIR, env=env)
+        r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace", cwd=BUNDLE_DIR, env=env)
         return JSONResponse({"ok": r.returncode == 0, "error": r.stderr[-300:] if r.returncode else ""})
     except Exception as e:
         return JSONResponse({"ok": False, "error": str(e)})
+
+
+@app.post("/api/archive_project")
+def api_archive_project():
+    """将本次产出归档到 projects/{system_name}_{timestamp}/"""
+    import re as _re
+    meta_file = os.path.join(WS_DIR, "project_meta.json")
+    name = "unnamed"
+    if os.path.exists(meta_file):
+        try:
+            with open(meta_file, "r", encoding="utf-8") as f:
+                raw = json.load(f).get("system_name", "unnamed")
+            name = _re.sub(r'[\\/*?:"<>|]', '_', raw)[:30]
+        except: pass
+
+    ts = time.strftime("%Y%m%d_%H%M%S")
+    safe = _re.sub(r'[\\/*?:"<>|]', '_', name)[:40]
+    dest = os.path.join(DATA_DIR, "projects", f"{safe}_{ts}")
+    os.makedirs(dest, exist_ok=True)
+
+    WHITELIST = {
+        "concept_brief.md", "system_design_draft.md", "system_design_detail.md",
+        "task_plan.md", "system_schema.json",
+        "system_numerical_data.json", "system_numerical_docs.json",
+        "tech_blueprint.md", "audit_feedback.json", "audit_trace_log.md",
+        "final_audit_report.md",
+    }
+    copied = []
+    for f in WHITELIST:
+        src = os.path.join(WS_DIR, f)
+        if os.path.exists(src):
+            shutil.copy2(src, os.path.join(dest, f))
+            copied.append(f)
+
+    return JSONResponse({"ok": True, "path": dest, "files": copied})
+
+
+@app.get("/api/projects")
+def api_projects():
+    """返回 projects/ 下所有子目录及文件列表"""
+    projects_dir = os.path.join(DATA_DIR, "projects")
+    if not os.path.exists(projects_dir):
+        return JSONResponse({"projects": []})
+
+    result = []
+    for d in sorted(os.listdir(projects_dir), reverse=True):
+        dp = os.path.join(projects_dir, d)
+        if os.path.isdir(dp):
+            files = sorted(os.listdir(dp))
+            result.append({"name": d, "files": files})
+    return JSONResponse({"projects": result})
+
+
+@app.post("/api/open_project_file")
+async def api_open_project_file(data: dict):
+    folder = data.get("folder", "")
+    filename = data.get("file", "")
+    fp = os.path.join(DATA_DIR, "projects", folder, filename)
+    if os.path.exists(fp):
+        abs_path = os.path.abspath(fp)
+        if sys.platform == "win32":
+            os.startfile(abs_path)
+        elif sys.platform == "darwin":
+            subprocess.call(["open", abs_path])
+        else:
+            subprocess.call(["xdg-open", abs_path])
+    return JSONResponse({"ok": True})
 
 
 # ==================== WebSocket ====================

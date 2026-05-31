@@ -1,0 +1,45 @@
+{
+  "status": "reject",
+  "issues": [
+    {
+      "severity": "致命",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、前后端通信协议 (API & 数据对接) - [GetCategoryDetail]",
+      "problem_description": "系统策划案（2.3.2节）定义了未解锁条目展示逻辑依赖 `acquisition_hint` 和 `is_obsolete` 两个字段，且前端需根据 `is_obsolete` 决定显示内容。但程序蓝图中的 [GetCategoryDetail] API 返回参数仅指定了 `entry_display` 列表，未明确说明该列表是否包含 `acquisition_hint` 和 `is_obsolete` 字段。同时，程序蓝图（二、前端模块划分 - 模型预览控制器）中描述未解锁条目缓存策略时，明确提到了依赖 `acquisition_hint` 和 `is_obsolete`，但API定义缺失导致数据链路断裂，前端无法获取这两个关键字段，将导致未解锁条目展示逻辑无法实现。",
+      "fix_suggestion": "在 [GetCategoryDetail] API 的返回参数中，明确 `entry_display` 列表的每个元素必须包含 `acquisition_hint` (string) 和 `is_obsolete` (bool) 字段，并确保服务端在返回数据时从配置表中正确读取这些字段。"
+    },
+    {
+      "severity": "高",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) - 持久化数据 (DB)",
+      "problem_description": "系统策划案（2.2.3节）规定里程碑奖励达到节点后自动发放至邮箱，并在图鉴界面显示已领取状态。但程序蓝图中的 `player_album_data` 表结构仅存储了 `milestone_reward_claims` 的领取状态，未设计存储奖励发放记录（如邮件ID、发放时间等）的字段。这导致服务端无法追踪奖励是否已成功通过邮件系统发放，若邮件系统发送失败，无法进行重试或状态回滚，可能导致玩家永远丢失奖励。",
+      "fix_suggestion": "在 `player_album_data` 表中增加一个字段，例如 `milestone_reward_sent` (JSON)，用于记录每个里程碑奖励的邮件发送状态（如 pending/sent/failed），并设计对应的重试机制。"
+    },
+    {
+      "severity": "高",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、前后端通信协议 (API & 数据对接) - [UnlockEntry]",
+      "problem_description": "系统策划案（5.1-5.4节）定义了多个解锁事件（如 `on_character_acquired`, `on_first_encounter_enemy` 等），但程序蓝图中的 [UnlockEntry] API 仅是一个通用的推送接口，未定义服务端如何根据不同的来源系统事件（如角色获取 vs 首次遭遇敌人）来映射到对应的 `entry_id`。虽然蓝图（五、数值与配置表挂载）提到了 `SystemLinkageTable`，但API层面没有明确说明服务端在收到外部事件后，应通过该配置表查询 `linked_entry_id` 并调用 [UnlockEntry] 推送的逻辑流程。这可能导致服务端实现时遗漏事件到条目的映射逻辑，造成解锁功能失效。",
+      "fix_suggestion": "在程序蓝图（三、后端逻辑划分）中，明确增加一个“事件路由与映射”模块，描述服务端如何监听外部系统事件，通过 `SystemLinkageTable` 查找对应的 `entry_id`，然后执行解锁逻辑并推送 [UnlockEntry]。"
+    },
+    {
+      "severity": "中",
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "2.3.2 未解锁条目 - 获取途径提示规则",
+      "problem_description": "系统策划案详细描述了“主要条件”的手动标记规则和异常兜底（如字段为空显示“待定”），但未定义当 `is_obsolete` 字段为 `true` 时，`acquisition_hint` 字段是否仍应保留原文本。数值说明书（`entry_display` 字段定义）中 `acquisition_hint` 的默认值为空字符串，而 `is_obsolete` 为 `true` 时，前端逻辑（根据程序蓝图）会直接显示“该内容已绝版”，忽略 `acquisition_hint`。这可能导致数据冗余或歧义：当 `is_obsolete` 为 `true` 时，`acquisition_hint` 字段是否应该被清空或保留原值？缺少明确约定。",
+      "fix_suggestion": "在系统策划案中补充一条规则：当 `is_obsolete` 字段被标记为 `true` 时，`acquisition_hint` 字段应被清空或设置为空字符串，以避免数据冗余和潜在的展示逻辑冲突。"
+    },
+    {
+      "severity": "中",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "二、前端模块划分 (Client) - 模型预览控制器",
+      "problem_description": "程序蓝图描述了模型预览控制器的资源缓存策略，其中提到“根据设备性能（通过API获取设备等级标识）决定缓存策略”。但该API（获取设备等级标识）在前后端通信协议中未定义，也未说明该标识是前端本地获取还是通过服务端接口获取。这导致前端开发时无法确定如何实现设备分级逻辑，可能阻塞P2阶段的开发。",
+      "fix_suggestion": "在程序蓝图（四、前后端通信协议）中增加一个API，例如 [GetDeviceConfig] 或类似接口，用于服务端根据客户端上报的设备信息返回设备等级标识（如 high/mid/low），或者明确说明该标识由前端本地通过特定SDK或硬编码规则获取。"
+    }
+  ]
+}

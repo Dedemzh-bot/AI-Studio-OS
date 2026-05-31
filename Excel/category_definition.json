@@ -1,0 +1,92 @@
+{
+  "_metadata": {
+    "module": "category_definition",
+    "fields": {}
+  },
+  "data": [
+    {
+      "category_id": "character",
+      "category_name": "角色",
+      "parent_category_id": "",
+      "sub_category_id": "camp_tianqi",
+      "sub_category_name": "天启阵营"
+    },
+    {
+      "category_id": "character",
+      "category_name": "角色",
+      "parent_category_id": "",
+      "sub_category_id": "camp_xinghuan",
+      "sub_category_name": "星环阵营"
+    },
+    {
+      "category_id": "weapon",
+      "category_name": "武器",
+      "parent_category_id": "",
+      "sub_category_id": "type_pistol",
+      "sub_category_name": "手枪"
+    },
+    {
+      "category_id": "weapon",
+      "category_name": "武器",
+      "parent_category_id": "",
+      "sub_category_id": "type_rifle",
+      "sub_category_name": "步枪"
+    },
+    {
+      "category_id": "enemy",
+      "category_name": "敌人",
+      "parent_category_id": "",
+      "sub_category_id": "area_forest",
+      "sub_category_name": "森林区域"
+    },
+    {
+      "category_id": "enemy",
+      "category_name": "敌人",
+      "parent_category_id": "",
+      "sub_category_id": "area_desert",
+      "sub_category_name": "沙漠区域"
+    },
+    {
+      "category_id": "scene",
+      "category_name": "场景",
+      "parent_category_id": "",
+      "sub_category_id": "chapter_1",
+      "sub_category_name": "第一章"
+    },
+    {
+      "category_id": "scene",
+      "category_name": "场景",
+      "parent_category_id": "",
+      "sub_category_id": "chapter_2",
+      "sub_category_name": "第二章"
+    },
+    {
+      "category_id": "cg",
+      "category_name": "CG",
+      "parent_category_id": "",
+      "sub_category_id": "main_story_cg",
+      "sub_category_name": "主线CG"
+    },
+    {
+      "category_id": "cg",
+      "category_name": "CG",
+      "parent_category_id": "",
+      "sub_category_id": "event_cg",
+      "sub_category_name": "活动CG"
+    },
+    {
+      "category_id": "music",
+      "category_name": "音乐",
+      "parent_category_id": "",
+      "sub_category_id": "battle_music",
+      "sub_category_name": "战斗音乐"
+    },
+    {
+      "category_id": "music",
+      "category_name": "音乐",
+      "parent_category_id": "",
+      "sub_category_id": "story_music",
+      "sub_category_name": "剧情音乐"
+    }
+  ]
+}

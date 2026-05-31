@@ -993,6 +993,18 @@ def main():
                 except FileNotFoundError:
                     print("\033[91m[Router][警告] 找不到 build_memory_codex.py，跳过\033[0m")
 
+                # ---- 拆表到 Excel/ ----
+                try:
+                    subprocess.run(
+                        [sys.executable, os.path.join(ROOT_DIR, "Skills", "config_splitter.py")],
+                        check=True, cwd=ROOT_DIR,
+                    )
+                    print("[Router] 配置表已拆分为独立 JSON 文件至 Excel/ 目录。")
+                except subprocess.CalledProcessError as e:
+                    print(f"\033[91m[Router][警告] 拆表失败（{e.returncode}）\033[0m")
+                except FileNotFoundError:
+                    print("\033[91m[Router][警告] 找不到 config_splitter.py，跳过\033[0m")
+
             write_state(result)
 
         # ============================== 终态 ==============================

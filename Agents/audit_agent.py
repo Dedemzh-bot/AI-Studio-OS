@@ -132,9 +132,10 @@ def main():
             anchor = issue.get("anchor", "?")
             desc = issue.get("problem_description", "?")
             suggestion = issue.get("fix_suggestion", "?")
+            severity = issue.get("severity", "?")
 
             total_weight += 1
-            log_lines.append(f"### Issue {i}\n")
+            log_lines.append(f"### Issue {i} [严重级别: {severity}]\n")
             log_lines.append(f"- 责任方: {agent}\n")
             log_lines.append(f"- 目标文件: {target}\n")
             log_lines.append(f"- 锚点: {anchor}\n")

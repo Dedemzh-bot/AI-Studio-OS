@@ -1,0 +1,26 @@
+[
+  {
+    "module_name": "mail_system",
+    "continuous_fields": [
+      "mail_id",
+      "player_id",
+      "send_timestamp",
+      "title",
+      "body",
+      "attachment_list",
+      "expiration_timestamp",
+      "favorite_capacity",
+      "mail_content_production_phase"
+    ],
+    "discrete_fields": [
+      "mail_type",
+      "is_read",
+      "is_claimed",
+      "is_favorited",
+      "is_deleted",
+      "character_id",
+      "activity_id",
+      "admin_id"
+    ]
+  }
+]

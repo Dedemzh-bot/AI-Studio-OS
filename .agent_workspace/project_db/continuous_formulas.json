@@ -840,5 +840,85 @@
     "growth": 0,
     "type": "linear",
     "description": "同时出现角色数，固定为1。"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 1,
+    "growth": 1,
+    "type": "linear"
+  },
+  {
+    "base": 1000000,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 1700000000,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "系统通知",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": "这是一封系统邮件。",
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": [],
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 50,
+    "growth": 0,
+    "type": "linear"
+  },
+  {
+    "base": 0,
+    "growth": 0,
+    "type": "linear"
   }
 ]

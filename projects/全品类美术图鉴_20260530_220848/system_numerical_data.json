@@ -1,0 +1,480 @@
+{
+  "category_definition": [
+    {
+      "category_id": "character",
+      "category_name": "角色",
+      "parent_category_id": "",
+      "sub_category_id": "camp_tianqi",
+      "sub_category_name": "天启阵营"
+    },
+    {
+      "category_id": "character",
+      "category_name": "角色",
+      "parent_category_id": "",
+      "sub_category_id": "camp_xinghuan",
+      "sub_category_name": "星环阵营"
+    },
+    {
+      "category_id": "weapon",
+      "category_name": "武器",
+      "parent_category_id": "",
+      "sub_category_id": "type_pistol",
+      "sub_category_name": "手枪"
+    },
+    {
+      "category_id": "weapon",
+      "category_name": "武器",
+      "parent_category_id": "",
+      "sub_category_id": "type_rifle",
+      "sub_category_name": "步枪"
+    },
+    {
+      "category_id": "enemy",
+      "category_name": "敌人",
+      "parent_category_id": "",
+      "sub_category_id": "area_forest",
+      "sub_category_name": "森林区域"
+    },
+    {
+      "category_id": "enemy",
+      "category_name": "敌人",
+      "parent_category_id": "",
+      "sub_category_id": "area_desert",
+      "sub_category_name": "沙漠区域"
+    },
+    {
+      "category_id": "scene",
+      "category_name": "场景",
+      "parent_category_id": "",
+      "sub_category_id": "chapter_1",
+      "sub_category_name": "第一章"
+    },
+    {
+      "category_id": "scene",
+      "category_name": "场景",
+      "parent_category_id": "",
+      "sub_category_id": "chapter_2",
+      "sub_category_name": "第二章"
+    },
+    {
+      "category_id": "cg",
+      "category_name": "CG",
+      "parent_category_id": "",
+      "sub_category_id": "main_story_cg",
+      "sub_category_name": "主线CG"
+    },
+    {
+      "category_id": "cg",
+      "category_name": "CG",
+      "parent_category_id": "",
+      "sub_category_id": "event_cg",
+      "sub_category_name": "活动CG"
+    },
+    {
+      "category_id": "music",
+      "category_name": "音乐",
+      "parent_category_id": "",
+      "sub_category_id": "battle_music",
+      "sub_category_name": "战斗音乐"
+    },
+    {
+      "category_id": "music",
+      "category_name": "音乐",
+      "parent_category_id": "",
+      "sub_category_id": "story_music",
+      "sub_category_name": "剧情音乐"
+    }
+  ],
+  "category_progress": [
+    {
+      "category_id": "character",
+      "category_unlocked_count": 0,
+      "category_total_count": 10,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "weapon",
+      "category_unlocked_count": 0,
+      "category_total_count": 8,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "enemy",
+      "category_unlocked_count": 0,
+      "category_total_count": 5,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "scene",
+      "category_unlocked_count": 0,
+      "category_total_count": 6,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "cg",
+      "category_unlocked_count": 0,
+      "category_total_count": 4,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    },
+    {
+      "category_id": "music",
+      "category_unlocked_count": 0,
+      "category_total_count": 3,
+      "category_progress": 0,
+      "category_milestone_1": 20,
+      "category_milestone_2": 40,
+      "category_milestone_3": 60,
+      "category_milestone_4": 80,
+      "category_milestone_5": 100
+    }
+  ],
+  "total_progress": {
+    "all_categories_unlocked_count": 0,
+    "all_categories_total_count": 36,
+    "total_progress": 0,
+    "total_milestone_1": 20,
+    "total_milestone_2": 40,
+    "total_milestone_3": 60,
+    "total_milestone_4": 80,
+    "total_milestone_5": 100
+  },
+  "entry_unlock": [
+    {
+      "entry_id": "character_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "character_002",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "weapon_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "enemy_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "scene_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "cg_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "music_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    }
+  ],
+  "milestone_reward": [
+    {
+      "milestone_id": "character_milestone_1",
+      "reward_content": "{\"item_id\": \"character_shard\", \"count\": 5}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "character_milestone_2",
+      "reward_content": "{\"item_id\": \"character_shard\", \"count\": 10}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "character_milestone_3",
+      "reward_content": "{\"item_id\": \"character_shard\", \"count\": 15}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "character_milestone_4",
+      "reward_content": "{\"item_id\": \"character_shard\", \"count\": 20}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "character_milestone_5",
+      "reward_content": "{\"item_id\": \"character_shard\", \"count\": 30}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "weapon_milestone_1",
+      "reward_content": "{\"item_id\": \"weapon_material\", \"count\": 5}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "weapon_milestone_2",
+      "reward_content": "{\"item_id\": \"weapon_material\", \"count\": 10}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "weapon_milestone_3",
+      "reward_content": "{\"item_id\": \"weapon_material\", \"count\": 15}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "weapon_milestone_4",
+      "reward_content": "{\"item_id\": \"weapon_material\", \"count\": 20}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "weapon_milestone_5",
+      "reward_content": "{\"item_id\": \"weapon_material\", \"count\": 30}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "enemy_milestone_1",
+      "reward_content": "{\"item_id\": \"enemy_material\", \"count\": 5}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "enemy_milestone_2",
+      "reward_content": "{\"item_id\": \"enemy_material\", \"count\": 10}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "enemy_milestone_3",
+      "reward_content": "{\"item_id\": \"enemy_material\", \"count\": 15}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "enemy_milestone_4",
+      "reward_content": "{\"item_id\": \"enemy_material\", \"count\": 20}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "enemy_milestone_5",
+      "reward_content": "{\"item_id\": \"enemy_material\", \"count\": 30}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "scene_milestone_1",
+      "reward_content": "{\"item_id\": \"scene_ticket\", \"count\": 1}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "scene_milestone_2",
+      "reward_content": "{\"item_id\": \"scene_ticket\", \"count\": 2}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "scene_milestone_3",
+      "reward_content": "{\"item_id\": \"scene_ticket\", \"count\": 3}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "scene_milestone_4",
+      "reward_content": "{\"item_id\": \"scene_ticket\", \"count\": 4}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "scene_milestone_5",
+      "reward_content": "{\"item_id\": \"scene_ticket\", \"count\": 5}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "cg_milestone_1",
+      "reward_content": "{\"item_id\": \"cg_unlock_token\", \"count\": 1}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "cg_milestone_2",
+      "reward_content": "{\"item_id\": \"cg_unlock_token\", \"count\": 2}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "cg_milestone_3",
+      "reward_content": "{\"item_id\": \"cg_unlock_token\", \"count\": 3}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "cg_milestone_4",
+      "reward_content": "{\"item_id\": \"cg_unlock_token\", \"count\": 4}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "cg_milestone_5",
+      "reward_content": "{\"item_id\": \"cg_unlock_token\", \"count\": 5}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "music_milestone_1",
+      "reward_content": "{\"item_id\": \"music_disc\", \"count\": 1}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "music_milestone_2",
+      "reward_content": "{\"item_id\": \"music_disc\", \"count\": 2}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "music_milestone_3",
+      "reward_content": "{\"item_id\": \"music_disc\", \"count\": 3}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "music_milestone_4",
+      "reward_content": "{\"item_id\": \"music_disc\", \"count\": 4}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "music_milestone_5",
+      "reward_content": "{\"item_id\": \"music_disc\", \"count\": 5}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "total_milestone_1",
+      "reward_content": "{\"item_id\": \"limited_gacha_ticket\", \"count\": 1}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "total_milestone_2",
+      "reward_content": "{\"item_id\": \"limited_gacha_ticket\", \"count\": 2}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "total_milestone_3",
+      "reward_content": "{\"item_id\": \"limited_gacha_ticket\", \"count\": 3}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "total_milestone_4",
+      "reward_content": "{\"item_id\": \"limited_gacha_ticket\", \"count\": 4}",
+      "claim_status": false
+    },
+    {
+      "milestone_id": "total_milestone_5",
+      "reward_content": "{\"item_id\": \"limited_gacha_ticket\", \"count\": 5}",
+      "claim_status": false
+    }
+  ],
+  "entry_display": [
+    {
+      "entry_id": "character_001",
+      "entry_name": "白夜",
+      "rarity": 4,
+      "unlock_status": false,
+      "acquisition_hint": "通过角色卡池抽取",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "character_002",
+      "entry_name": "紫苑",
+      "rarity": 3,
+      "unlock_status": false,
+      "acquisition_hint": "通过主线关卡2-8解锁",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "weapon_001",
+      "entry_name": "破晓之刃",
+      "rarity": 4,
+      "unlock_status": false,
+      "acquisition_hint": "通过武器卡池抽取",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "enemy_001",
+      "entry_name": "森林狼",
+      "rarity": 1,
+      "unlock_status": false,
+      "acquisition_hint": "首次遭遇于主线关卡1-3",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "scene_001",
+      "entry_name": "晨曦森林",
+      "rarity": 2,
+      "unlock_status": false,
+      "acquisition_hint": "首次进入主线关卡1-1",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "cg_001",
+      "entry_name": "初遇",
+      "rarity": 3,
+      "unlock_status": false,
+      "acquisition_hint": "观看主线第一章剧情",
+      "is_obsolete": false
+    },
+    {
+      "entry_id": "music_001",
+      "entry_name": "星之旋律",
+      "rarity": 2,
+      "unlock_status": false,
+      "acquisition_hint": "播放主线第一章剧情BGM",
+      "is_obsolete": false
+    }
+  ],
+  "sort_filter": {
+    "sort_dimension": "unlock_time",
+    "filter_dimension": "unlock_status",
+    "filter_value": "all"
+  },
+  "system_linkage": [
+    {
+      "source_system": "character_acquisition",
+      "trigger_event": "on_acquire",
+      "linked_entry_id": "character_001"
+    },
+    {
+      "source_system": "character_acquisition",
+      "trigger_event": "on_acquire",
+      "linked_entry_id": "character_002"
+    },
+    {
+      "source_system": "weapon_acquisition",
+      "trigger_event": "on_acquire",
+      "linked_entry_id": "weapon_001"
+    },
+    {
+      "source_system": "battle_level",
+      "trigger_event": "on_first_encounter",
+      "linked_entry_id": "enemy_001"
+    },
+    {
+      "source_system": "battle_level",
+      "trigger_event": "on_first_enter",
+      "linked_entry_id": "scene_001"
+    },
+    {
+      "source_system": "story",
+      "trigger_event": "on_first_view",
+      "linked_entry_id": "cg_001"
+    },
+    {
+      "source_system": "story",
+      "trigger_event": "on_first_play",
+      "linked_entry_id": "music_001"
+    }
+  ]
+}

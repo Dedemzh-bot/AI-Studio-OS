@@ -1782,5 +1782,87 @@
     "3": 0,
     "4": 0,
     "5": 0
+  },
+  {
+    "board_tile_owner_id": "",
+    "tile_level": 0,
+    "player_board_position": 0,
+    "character_pawn_position": 0,
+    "character_pawn_expression": "neutral",
+    "event_trigger_id": "",
+    "event_result": "none",
+    "tile_building_model_id": "",
+    "tile_building_level": 0,
+    "ui_visibility_state": "visible",
+    "daily_first_play_flag": false,
+    "character_board_unlocked": false,
+    "collection_board_event_unlocked": false,
+    "collection_board_event_progress": 0,
+    "board_content_production_phase": "phase_1",
+    "board_balance_audit_flag": false,
+    "daily_board_quest_progress": 0,
+    "weekly_board_quest_progress": 0,
+    "ai_opponent_list": [],
+    "ai_opponent_position": []
+  },
+  {
+    "mail_type": "system",
+    "is_read": false,
+    "is_claimed": false,
+    "is_favorited": false,
+    "is_deleted": false,
+    "character_id": 0,
+    "activity_id": 0,
+    "admin_id": 0
+  },
+  {
+    "mail_type": "character_interaction",
+    "is_read": false,
+    "is_claimed": false,
+    "is_favorited": true,
+    "is_deleted": false,
+    "character_id": 1001,
+    "activity_id": 0,
+    "admin_id": 0
+  },
+  {
+    "mail_type": "operation",
+    "is_read": false,
+    "is_claimed": false,
+    "is_favorited": false,
+    "is_deleted": false,
+    "character_id": 0,
+    "activity_id": 0,
+    "admin_id": 1
+  },
+  {
+    "mail_type": "system",
+    "is_read": true,
+    "is_claimed": true,
+    "is_favorited": false,
+    "is_deleted": false,
+    "character_id": 0,
+    "activity_id": 2001,
+    "admin_id": 0
+  },
+  {
+    "mail_type": "character_interaction",
+    "is_read": true,
+    "is_claimed": false,
+    "is_favorited": true,
+    "is_deleted": false,
+    "character_id": 1002,
+    "activity_id": 0,
+    "admin_id": 0
+  },
+  {
+    "mail_type": "operation",
+    "is_read": true,
+    "is_claimed": true,
+    "is_favorited": false,
+    "is_deleted": true,
+    "character_id": 0,
+    "activity_id": 0,
+    "admin_id": 2
   }
 ]

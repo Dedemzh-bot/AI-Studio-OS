@@ -49,14 +49,25 @@ body{display:flex;}
 .mem-btn{flex:1;padding:12px;color:#fff;border:none;cursor:pointer;font-size:14px;font-weight:bold;}
 .mem-btn.red{background:#ff3b30;}.mem-btn.green{background:#34a853;}
 .mem-result{color:#666;margin-top:10px;font-size:14px;}
+
+/* ===== Projects ===== */
+.proj-folder{margin-bottom:2px;}
+.proj-header{padding:10px 15px;background:#f0f0f0;cursor:pointer;font-weight:bold;border-bottom:1px solid #ddd;user-select:none;}
+.proj-header:hover{background:#e0e0e0;}
+.proj-files{padding-left:25px;display:none;}
+.proj-files.open{display:block;}
+.proj-file{padding:8px 15px;cursor:pointer;border-bottom:1px solid #eee;font-size:13px;}
+.proj-file:hover{background:#f5f5f5;}
 </style>
 </head>
 <body>
 
 <div class="sidebar">
     <h3>AI Studio OS</h3>
-    <button class="nav-btn active" data-tab="write">写案子</button>
+    <button class="nav-btn active" data-tab="write">设计项目</button>
     <button class="nav-btn" data-tab="memory">记忆积累</button>
+    <button class="nav-btn" data-tab="history">存档项目</button>
+    <button class="nav-btn" data-tab="config">配置表</button>
 </div>
 
 <div id="mainContent">
@@ -74,7 +85,9 @@ body{display:flex;}
             </div>
         </div>
         <div class="file-explorer">
-            <h2>下发文件</h2><div id="fileList"></div>
+            <h2>下发文件</h2>
+            <button id="archiveBtn" style="width:100%;margin-bottom:10px;padding:8px;background:#333;color:#fff;border:none;cursor:pointer;font-weight:bold;">存档项目</button>
+            <div id="fileList"></div>
         </div>
     </div>
 
@@ -103,6 +116,16 @@ body{display:flex;}
             <h2>优秀案例</h2><div id="bestFiles"><div style="color:#999;font-size:13px;">（空）</div></div>
             <h2>错误案例</h2><div id="antiFiles"><div style="color:#999;font-size:13px;">（空）</div></div>
         </div>
+    </div>
+
+    <div class="tab-content" id="tab-history">
+        <div class="workspace" style="padding:20px 30px;">
+            <div class="log-header">往期项目档案</div>
+            <div id="projectList" style="overflow-y:auto;flex:1;"></div>
+        </div>
+    </div>
+
+    <div class="tab-content" id="tab-config">
     </div>
 </div>
 
@@ -145,6 +168,7 @@ document.querySelectorAll('.nav-btn').forEach(b => {
         b.classList.add('active');
         document.getElementById('tab-' + b.dataset.tab).classList.add('active');
         if (b.dataset.tab === 'memory') refreshKnowledge();
+        if (b.dataset.tab === 'history') loadProjects();
     };
 });
 
@@ -291,6 +315,50 @@ function archive(t){
     fetch(API+'/api/archive',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({doc:d,type:t,comment:c,agent:a})})
     .then(r=>r.json()).then(r=>{document.getElementById('archResult').textContent=r.ok?'归档成功':'失败: '+(r.error||'');refreshKnowledge();}).catch(()=>{document.getElementById('archResult').textContent='网络错误';});
 }
+
+// ==================== 存档项目 ====================
+document.getElementById('archiveBtn').onclick = async () => {
+    const btn = document.getElementById('archiveBtn');
+    btn.textContent = '存档中...'; btn.disabled = true;
+    try {
+        const r = await (await fetch(API + '/api/archive_project', {method: 'POST'})).json();
+        if (r.ok) {
+            btn.textContent = '已存档';
+            alert('存档成功！\n' + r.files.length + ' 个文件已保存到:\n' + r.path);
+        } else {
+            btn.textContent = '存档项目';
+            alert('存档失败');
+        }
+    } catch(e) { btn.textContent = '存档项目'; btn.disabled = false; }
+};
+
+// ==================== 往期案子 ====================
+function toggleProj(el) {
+    const files = el.nextElementSibling;
+    files.classList.toggle('open');
+}
+
+async function loadProjects() {
+    try {
+        const d = await (await fetch(API + '/api/projects')).json();
+        document.getElementById('projectList').innerHTML = d.projects.map(p => `
+            <div class="proj-folder">
+                <div class="proj-header" onclick="toggleProj(this)">📁 ${p.name}</div>
+                <div class="proj-files">
+                    ${p.files.map(f => `<div class="proj-file" onclick="openProjectFile('${p.name}','${f}')">📄 ${f}</div>`).join('')}
+                </div>
+            </div>`).join('');
+    } catch(e) {}
+}
+
+async function openProjectFile(folder, filename) {
+    await fetch(API + '/api/open_project_file', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({folder, file: filename})
+    }).catch(() => {});
+}
+
 fetchFiles();
 </script>
 </body>
