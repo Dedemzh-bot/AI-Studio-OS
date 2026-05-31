@@ -30,14 +30,14 @@ body{display:flex;}
 .input-container{height:150px;}
 .chat-input{width:100%;height:100%;padding:15px;font-size:16px;border:2px solid #555;resize:none;outline:none;background:#fcfcfc;}
 
-.file-explorer{width:380px;min-width:380px;padding:20px 15px;overflow-y:auto;}
+.file-explorer{width:380px;min-width:380px;padding:20px 15px;overflow-y:auto;overflow-x:hidden;}
 .file-explorer h2{font-size:20px;font-weight:bold;border-bottom:2px solid #333;padding-bottom:8px;margin-bottom:12px;margin-top:20px;}
 .file-explorer h2:first-child{margin-top:0;}
-.file-item{display:flex;align-items:center;padding:10px 8px;border-bottom:1px solid #eee;cursor:pointer;font-size:13px;}
+.file-item{display:flex;align-items:center;padding:10px 8px;border-bottom:1px solid #eee;cursor:pointer;font-size:13px;overflow:hidden;}
 .file-item:hover{background:#f0f0f0;}
-.file-icon{font-family:monospace;font-weight:bold;width:28px;color:#007acc;}
+.file-icon{font-family:monospace;font-weight:bold;width:28px;flex-shrink:0;color:#007acc;}
 .file-icon.md{color:#333;}.file-icon.json{color:#d4a017;}
-.file-name{color:#555;word-break:break-all;}
+.file-name{color:#555;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 
 .tab-content{display:none;flex:1;overflow:auto;}
 .tab-content.active{display:flex;}
@@ -126,6 +126,21 @@ body{display:flex;}
     </div>
 
     <div class="tab-content" id="tab-config">
+        <div class="workspace">
+            <div class="log-header">配表日志</div>
+            <div class="log-area" id="tableLogArea">[Table] 配表引擎就绪，等待输入需求...</div>
+            <div class="control-bar">
+                <span style="font-size:18px;font-weight:bold;color:#34a853;" id="tableStatus">就绪</span>
+                <button id="tableClearBtn" style="padding:6px 12px;background:#ff3b30;color:#fff;border:none;cursor:pointer;font-size:13px;" onclick="clearTableSession()">清除会话</button>
+            </div>
+            <div class="input-container">
+                <textarea class="chat-input" id="tableInput" placeholder="输入配表需求后按 Enter 提交...&#10;例: 新增一套 UR 装备 / 把 item_id=101 的攻击改成 1200"></textarea>
+            </div>
+        </div>
+        <div class="file-explorer">
+            <h2>本次修改</h2><div id="tableModified"></div>
+            <h2 style="margin-top:15px;">总项目</h2><div id="tableAllFiles"></div>
+        </div>
     </div>
 </div>
 
@@ -358,6 +373,86 @@ async function openProjectFile(folder, filename) {
         body: JSON.stringify({folder, file: filename})
     }).catch(() => {});
 }
+
+// ==================== 配置表 ====================
+const TABLE_API = API;
+const tableLogArea = document.getElementById('tableLogArea');
+const tableInput = document.getElementById('tableInput');
+const tableStatus = document.getElementById('tableStatus');
+const tableModified = document.getElementById('tableModified');
+const tableAllFiles = document.getElementById('tableAllFiles');
+let tablePollTimer = null;
+
+tableInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        const text = tableInput.value.trim();
+        if (!text) return;
+        if (text.startsWith('/quick') || text.includes('改成') || text.includes('修改') || text.includes('改成') || text.toLowerCase().includes('change')) {
+            sendTableQuick(text);
+        } else {
+            sendTableDesign(text);
+        }
+        tableInput.value = '';
+    }
+});
+
+async function sendTableDesign(text) {
+    tableLogArea.textContent += `\n>>> ${text}`;
+    tableStatus.textContent = '执行中...';
+    try {
+        const r = await (await fetch(TABLE_API + '/api/table/design', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text})})).json();
+        if (r.ok) {
+            tableLogArea.textContent += '\n[Table] 配表完成';
+            refreshTableFiles();
+        } else {
+            tableLogArea.textContent += `\n[Table] 错误: ${r.error||'unknown'}`;
+        }
+        tableLogArea.scrollTop = tableLogArea.scrollHeight;
+    } catch(e) { tableLogArea.textContent += '\n[Table] 网络错误'; }
+    tableStatus.textContent = '就绪';
+    tableInput.value = '';
+}
+
+async function sendTableQuick(text) {
+    tableLogArea.textContent += `\n>>> ${text}`;
+    try {
+        const r = await (await fetch(TABLE_API + '/api/table/quick', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text})})).json();
+        tableLogArea.textContent += r.ok ? '\n[Table] 修改完成' : '\n[Table] 错误';
+        if (r.ok) refreshTableFiles();
+        tableLogArea.scrollTop = tableLogArea.scrollHeight;
+    } catch(e) { tableLogArea.textContent += '\n[Table] 网络错误'; }
+}
+
+async function refreshTableFiles() {
+    try {
+        const r = await (await fetch(TABLE_API + '/api/table/files')).json();
+        // 本次修改
+        const mod = r.modified || [];
+        tableModified.innerHTML = mod.length
+            ? mod.map(f => `<div class="file-item" onclick="openTableFile('${f}')"><span class="file-icon json">{}<span class="file-name">${f}</span></div>`).join('')
+            : '<div style="color:#999;font-size:13px;">（暂无）</div>';
+        // 总项目
+        const all = r.files || [];
+        tableAllFiles.innerHTML = all.length
+            ? all.map(f => `<div class="file-item" onclick="openTableFile('${f.name}')"><span class="file-icon json">{}<span class="file-name">${f.name}</span></div>`).join('')
+            : '<div style="color:#999;font-size:13px;">（空）</div>';
+    } catch(e) {}
+}
+
+async function openTableFile(filename) {
+    await fetch(TABLE_API + '/api/table/open_file', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({file:filename})}).catch(()=>{});
+}
+
+async function clearTableSession() {
+    await fetch(TABLE_API + '/api/table/clear', {method:'POST'});
+    tableLogArea.textContent = '[Table] 会话已清除，重新就绪...';
+    tableModified.innerHTML = '<div style="color:#999;font-size:13px;">（暂无）</div>';
+    refreshTableFiles();
+}
+
+// 初始化配置表文件列表
+if (document.getElementById('tableAllFiles')) refreshTableFiles();
 
 fetchFiles();
 </script>

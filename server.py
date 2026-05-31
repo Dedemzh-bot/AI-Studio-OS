@@ -56,6 +56,52 @@ active_ws: WebSocket | None = None
 
 # ==================== REST API ====================
 
+# ---- ConfigTable 桥接 ----
+import httpx
+
+TABLE_BRIDGE = "http://127.0.0.1:8081"
+
+async def _proxy_table(method: str, path: str, data: dict = None):
+    """代理请求到 ConfigTable 子服务"""
+    try:
+        async with httpx.AsyncClient(timeout=30.0) as client:
+            if method == "GET":
+                r = await client.get(f"{TABLE_BRIDGE}{path}")
+            else:
+                r = await client.post(f"{TABLE_BRIDGE}{path}", json=data or {})
+            return JSONResponse(content=r.json(), status_code=r.status_code)
+    except Exception:
+        return JSONResponse({"ok": False, "error": "ConfigTable 服务未启动 (8081)"}, 503)
+
+
+@app.get("/api/table/status")
+async def api_table_status():
+    return await _proxy_table("GET", "/status")
+
+@app.get("/api/table/files")
+async def api_table_files():
+    return await _proxy_table("GET", "/files")
+
+@app.post("/api/table/open_file")
+async def api_table_open_file(data: dict):
+    return await _proxy_table("POST", "/open_file", data)
+
+@app.post("/api/table/design")
+async def api_table_design(data: dict):
+    return await _proxy_table("POST", "/design", data)
+
+@app.post("/api/table/quick")
+async def api_table_quick(data: dict):
+    return await _proxy_table("POST", "/quick", data)
+
+@app.post("/api/table/cancel")
+async def api_table_cancel():
+    return await _proxy_table("POST", "/cancel")
+
+@app.post("/api/table/clear")
+async def api_table_clear():
+    return await _proxy_table("POST", "/clear_session")
+
 @app.get("/api/status")
 def api_status():
     try:

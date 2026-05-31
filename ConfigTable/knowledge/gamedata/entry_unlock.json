@@ -1,0 +1,43 @@
+{
+  "_metadata": {
+    "module": "entry_unlock",
+    "fields": {}
+  },
+  "data": [
+    {
+      "entry_id": "character_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "character_002",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "weapon_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "enemy_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "scene_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "cg_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    },
+    {
+      "entry_id": "music_001",
+      "unlock_time": 0,
+      "unlock_status": false
+    }
+  ]
+}

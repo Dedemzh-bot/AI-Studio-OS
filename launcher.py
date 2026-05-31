@@ -46,7 +46,16 @@ def main():
         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
         creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
     )
-    print("Starting server...")
+    print("Starting main server...")
+
+    # 同时启动配表桥接服务
+    table_proc = subprocess.Popen(
+        [python_cmd, os.path.join(ROOT_DIR, "ConfigTable", "table_server.py")],
+        cwd=os.path.join(ROOT_DIR, "ConfigTable"), env=env,
+        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+        creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
+    )
+    print("Starting table server...")
 
     for _ in range(20):
         time.sleep(0.5)
@@ -57,9 +66,11 @@ def main():
             print("Close this window or press Enter to stop.")
             try: input()
             except: pass
-            print("Stopping..."); proc.terminate()
+            print("Stopping..."); proc.terminate(); table_proc.terminate()
             try: proc.wait(timeout=5)
             except: proc.kill()
+            try: table_proc.wait(timeout=3)
+            except: table_proc.kill()
             print("Server stopped."); return
 
     print("ERROR: Server failed to start after 10 seconds.")
