@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	恒约次日，辰星并没有因为在假期中赖床多睡一会，而是一如既往地早早便起床洗漱。	恆約次日，辰星並沒有因為在假期中賴床多睡一陣，而是一如既往地早早便起床洗漱。	誓約の翌日。休みだからって、辰星は惰眠を貪ることはせず、いつも通り早起きして洗面所へ向かった。	언약한 다음 날, 수성은 휴가라고 늦잠을 자지 않고, 평소처럼 일찍 일어나 세수를 마쳤다.	The day after our Covenant, Chenxing didn't sleep in even though we had the day off. She woke up early as usual to bathe.						0	2.5版本随机事件
+page1.2	辰星，公司给我们批了假期，你不用这么早起床。	辰星，公司給我們批了假期，你不用這麼早起床。	辰星。せっかくの休みだから、もう少し寝てていいぞ。	수성, 회사가 저희에게 휴가를 내줬는데, 이렇게 일찍 일어날 필요 없어요.	Chenxing, the company approved our vacation. You don't have to get up so early.						0	2.5版本随机事件
+page1.3	如果觉得累的话，再睡个回笼觉也可以。	如果覺得累的話，再睡個回籠覺也可以。	疲れているなら、二度寝したっていいんだ。	만약 피곤하면 조금 더 자다 일어나도 돼요.	If you're tired, you can keep sleeping for a bit.						0	2.5版本随机事件
+page1.4	我只是习惯了这个时间起床，并没有逞强。况且……	我只是習慣了這個時間起床，並沒有逞強。況且……	この時間に起きるのに慣れているだけです。それに……	이 시간에 일어나는 게 습관이 돼서 억지로 일어난 건 아니에요. 게다가…	Don't worry, I'm used to getting up this early. Besides...						0	2.5版本随机事件
+page1.5	她的脸上突然泛起一抹嫣红，目光也随之闪烁起来。	她的臉上突然泛起一抹嫣紅，目光也隨之閃爍起來。	辰星は顔を赤らめて、目を泳がす。	그녀는 갑자기 얼굴을 붉혔고, 눈빛도 반짝거리기 시작했다.	Her cheeks suddenly flushed, and her eyes glistened.						0	2.5版本随机事件
+page1.6	累……恒约本就是人生大事，累也无妨……	累……恆約本就是人生大事，累也無妨……	誓約は人生の大事なことですもの、疲れてもかまいません……	피곤하지만… 언약은 원래 인생의 큰일인 만큼, 조금 힘들어도 상관없어요…	After an occasion as big as our Covenant, it's expected for one to be a bit tired...						0	2.5版本随机事件
+page1.7	是我太勉强你了。	是我太勉強你了。	無理をさせすぎたんだな。	제가 당신을 너무 무리시켰네요.	Sorry, I pushed you too hard.						0	2.5版本随机事件
+page1.8	郎君不必如此……辰星已是你的人，郎君要如何……随你的心意就好。	郎君不必如此……辰星已是你的人，郎君要如何……隨你的心意就好。	大丈夫ですよ。辰星はもう、あなたのものですから……あなたの好きにしてください。	그럴 필요 없어요… 전 이미 낭군님의 사람인걸요, 낭군님이 뭘 원하든… 하고 싶은 대로 해도 돼요.	No need for that, My Prince... I'm already yours. Whatever you wish... I shall do.						0	2.5版本随机事件
+page1.9	（嗯……脸更红了呢。）	（嗯……臉更紅了呢。）	（ふむ。顔がさらに赤くなってるな。）	(음… 얼굴이 더 붉어졌네.)	(...Her face got even redder.)						0	2.5版本随机事件
+page1.10	不过，我倒是确实有一件事，想让郎君替我来做。	不過，我倒是確實有一件事，想讓郎君替我來做。	そういえば、ひとつだけ、あなたに手伝ってほしいことがあるんですが。	근데, 낭군님이 대신해 줬으면 하는 일이 한 가지 있어요.	But... there is one thing I'd like you to do for me.						0	2.5版本随机事件
+page1.11	什么事？	什麼事？	なんだろう。	무슨 일인데요?	What is it?						0	2.5版本随机事件
+page1.12	郎君，可以为我梳发吗。	郎君，可以為我梳髮嗎。	髪を梳いてくれますか？	제 머리를 빗겨줄 수 있나요?	Could you comb my hair for me, My Prince?						0	2.5版本随机事件
+page1.13	当然可以，这也是朔州的习俗吗？	當然可以，這也是朔州的習俗嗎？	もちろん大丈夫だ。これも朔州の習俗なのか？	그럼요, 이것도 삭주의 풍습인가요?	Of course. Is that a Shuozhou custom too?						0	2.5版本随机事件
+page1.14	是的。恒约后，我已将自己完全交付与你，由心至身，甚至包括每一缕发丝……大致是这番含义。	是的。恆約後，我已將自己完全交付與你，由心至身，甚至包括每一縷髮絲……大致是這番含義。	はい。誓約を結べば、私の心と体、髪の毛までもが、あなたのものになったという意味です。	네, 언약 후에 제 모든 걸 당신에게 맡긴다는 거예요, 마음부터 몸까지, 심지어는 머리카락 한 올까지… 대체로 그런 뜻이에요.	Yes. After our Covenant, I gave myself to you completely — my heart, body, and every strand of hair... That's the general meaning behind it.						0	2.5版本随机事件
+page1.15	不过，昨日郎君你也相当操劳，若是觉得疲惫，也可以改天再……	不過，昨日郎君你也相當操勞，若是覺得疲憊，也可以改天再……	ですが、あなたも昨日のことで疲れましたよね。日を改めても大丈夫なので……	근데, 낭군님도 어제 많이 피곤했을 텐데, 많이 피곤하면 다음에 해줘도 돼요…	But yesterday was exhausting for you too. If you're tired, we can do it another day...						0	2.5版本随机事件
+page1.16	辰星，你的要求，我怎么会拒绝？	辰星，你的要求，我怎麼會拒絕？	辰星。君の要求なら、私は断らないさ。	수성이 한 부탁인데 제가 어떻게 거절하겠어요.	Chenxing, how could I ever turn you down?						0	2.5版本随机事件
+page1.17	事不宜迟，你来教我应该怎么做吧。	事不宜遲，你來教我該怎麼做吧。	早速だが、やり方を教えてくれるかい？	말이 나온 김에 어떻게 해야 하는지 알려줘요.	C'mon. You can teach me how to do it.						0	2.5版本随机事件
+page1.18	好。	好。	はい。	좋아요.	Okay.						0	2.5版本随机事件
+page1.19	在辰星的辅助下，稍微有些手忙脚乱地为她梳理了头发……	在辰星的輔助下，稍微有些手忙腳亂地為她梳理了頭髮……	辰星に手引きしてもらいながら、私はぎこちない手つきで彼女の髪を整えてあげた。	수성의 도움을 받으며 요란스럽게 그녀의 머리를 빗어줬다…	With Chenxing's help, I fumbled my way through combing her hair...						0	2.5版本随机事件
+page1.20	只是，梳好头发后，她似乎并没有出门的打算，而是撒娇一般地抱住了我。	只是，梳好頭髮後，她似乎沒有出門的打算，而是撒嬌一般地抱住了我。	しかし、髪型が整っても、辰星は出かけようとせず、むしろ私に甘えながら抱きついてきた。	머리를 다 빗었지만 그녀는 문을 나설 생각이 없어 보였고, 애교를 부리듯 나를 껴안았다.	However, after combing her hair, she didn't want to go out. She hugged me like a spoiled child instead.						0	2.5版本随机事件
+page1.21	郎君愿意陪辰星如此践行朔州的风俗，让辰星想起，刚刚……我还少说了一件事。	郎君願意陪辰星如此實踐朔州的風俗，讓辰星想起，剛剛……我還少說了一件事。	朔州の習俗をいっしょにこなしてくれるなんて、嬉しい限りです。そういえば、もうひとつ言い忘れましたが……	낭군님이 수성 때문에 삭주의 풍습을 이렇게 따라주다니, 방금… 말하지 않은 게 한 가지 더 생각났어요.	Your willingness to practice our Shuozhou customs with me reminded me of something, My Prince... I forgot to say something earlier.						0	2.5版本随机事件
+page1.22	温热的躯体贴着我的手臂，幽兰一般的香气在我耳边轻语出声。	溫熱的身體貼著我的手臂，幽蘭一般的香氣在我耳邊輕語出聲。	私の腕から、彼女の暖かい体温が伝わってくる。耳元に感じる彼女の吐息から蘭の香りがする。	따뜻한 몸으로 나의 팔을 감싸고, 좋은 향기가 귓가에서 느껴지며 그녀의 속삭임이 들려왔다.	Her warm body pressed up against my arm, the scent of orchid wafting into my ear with her whisper.						0	2.5版本随机事件
+page1.23	今日，按习俗，郎君应与我……	今日，依習俗，郎君應與我……	習俗通りでしたら、今日のあなたと私は……	오늘, 풍습에 따라, 낭군님은 저와…	According to custom, you and I...						0	2.5版本随机事件
+page1.24	彼此相伴，寸步不离。	彼此相伴，寸步不離。	お互いそばにいて、一歩も離れられませんよ。	서로 곁을 지키며, 한 치도 떨어지지 않아야 해요.	Should spend today in sweet companionship, inseparably~						0	2.5版本随机事件

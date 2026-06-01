@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	找到了！这里面装的确实是<orange>原型抑制剂</>	找到了！這裡面裝的確實是<orange>原型抑制劑</>	ありました！確か中に<orange>プロトタイプ抑制剤</>が入っています。	찾았어요! <orange>프로토타입 억제제</>가 확실해요.	I've found them! There are <orange>Prototype Inhibitors</> in here!						0	
+2	快，装到密码箱里。	快，裝到密碼箱裡。	金庫に入れて、早く！	어서 상자에 집어넣어.	Quick, put them in the safe.						0	
+3	四处看看，尽快回收所有原型抑制剂。	四處看看，盡快回收所有原型抑制劑。	周りをよく見て、プロトタイプ抑制剤をできるだけ早く全部回収しましょう。	좀 더 둘러보자. 주변에 있는 프로토타입 억제제를 서둘러 회수해야 해.	Check all around this area and recover all the Prototype Inhibitors as soon as possible.						0	

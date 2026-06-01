@@ -1,0 +1,37 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	爷爷你看，那是什么……爷爷！我想吃那个！	爺爺你看，那是什麼……爺爺！我想吃那個！	お爺ちゃん、見て見て、あれなに？……お爺ちゃん！あれ、食べたい！	할아버지, 저게 뭐야… 할아버지! 나도 저거 먹고 싶어!	Grandpa, look! What's that? ...Grandpa! I wanna eat that!						0	
+2	跑慢点跑慢点，这儿这么多人，小心跌着。	跑慢點跑慢點，這裡這麼多人，小心跌倒。	ゆっくり走れ、人が多いから転ばないように気をつけるんだぞ。	천천히 가, 천천히. 사람들이 많으니 넘어지지 않게 조심하고.	Slow down, alright? It's crowded, so we need to be careful.						0	
+3	好哦好哦。平常又看不到这些嘛。诶，那不是对面的一家吗？他们还特地穿了漂亮衣服。	好啦好啦~平常又看不到這些嘛。欸~那不是對面的鄰居嗎？他們還特地盛裝打扮耶。	分かった！いつも見かけないものばかりだから。ん？あそこにいるの向かいに住んでるご近所さんだよね？綺麗な服着てるね。	알겠어. 평소에는 이런 것들을 보기 힘들잖아. 응? 근데 저분들은 이웃집 사람들 아니야? 정말 예쁜 옷을 입었네.	Okay, okay. I just never get to see stuff like this! Hey, isn't that the family that lives across from us? They're even wearing special clothes.						0	
+4	呵，小妮子馋了。前头还有不少摊子，我们去前面买杯奶茶给你。	呵，小妮子饞了。前面還有不少攤子，我們去前面買杯奶茶給你。	ふふ、羨ましいのかい？この先にまだまだ屋台があるから、ミルクティーを買ってあげよう。	우리 아가… 배고프지? 앞에 가게들이 많으니 가서 밀크티나 한 잔 마시자꾸나.	Hah, you must be hungry, sweetie. There are a lot of stalls up ahead. Let's go get you a cup of milk tea.						0	
+5	好耶！	好耶！	やった！	좋아! 할아버지!	Hooray!						0	
+6	呵！这要在三年前，谁能想到会有一天连奶茶都成了稀罕物啊……	呵！這要在三年前，誰能想到會有一天連奶茶都成了稀罕物啊……	はは！三年前までは、ミルクティーでさえ珍しがられる日が来るなんて、誰も想像できなかっただろう……	후… 3년 전까지만 해도 밀크티가 이렇게 귀해질 줄은 아무도 몰랐을 게야…	Hah! Who could have imagined three years ago that milk tea would become a rarity...?						0	
+7	都让你别跑了哈哈哈。	都讓你別跑了哈哈哈。	ゆっくり走れと言ったじゃないか、ははは。	뛰지 좀 말래도. 하하하하.	I told you not to run, hahaha.						0	
+8	拐角处突然跑出一群人，他们像在被什么可怕的东西追赶着，踉跄着向前奔逃，女孩的身影则瞬间被淹没在人群之中。	突然間，從轉角處衝出來一群人，他們像是被什麼可怕的東西追趕著，踉蹌著向前奔逃，女孩的身影則瞬間被淹沒在人群之中。	突然、曲がり角から人の群れが、何か恐ろしいものに追われているように逃げ惑い、女の子の姿は一瞬で人混みに飲まれた。	모퉁이에서 갑자기 한 무리의 사람들이 뛰쳐나왔고, 무언가에 쫓기듯 어디론가 다급하게 도망쳤다. 순간 여자아이도 인파 속으로 사라졌는데…	A group of people suddenly burst out from around the corner, seemingly being chased by something horrible. They staggered as they ran forward, and the little girl was instantly carried away by the crowd.						0	
+9	咋了？咋了？你们跑啥！	怎麼了？怎麼了？你們跑什麼！	なんだ？どうした？なんで逃げてるんだ？	무슨 일이지? 이봐요, 무슨 일이에요? 왜 도망가는 거예요!	Eh? What's going on? Why are you running!?						0	
+10	囡囡！囡囡——！	丫頭！丫頭——！	うちの孫娘がっ！！	우리 아가! 아가야…！	Sweetheart! Sweetheart—!						0	
+11	老人徒劳地呼唤着，得不到一声回应。	老人緊張地呼喚著，然而卻無人回應。	老人がどんなに叫んでも、返事は一つも返ってこない。	노인은 힘껏 외쳤지만 아무런 대답도 들려오지 않았다.	The old man called in vain. There was no answer.						0	
+12	嗯，我知道了。她怎么样？	嗯，我知道了。她怎麼樣？	はい、分かりました。彼女の状況はどうですか？	네, 알겠습니다. 그래서 그녀는 어떻게 됐죠?	Alright, I see. What about Siris?						0	
+13	还是没能联系上么？	還是沒能聯繫上嗎？	まだ連絡ができないのですか？	여전히 연락 두절 상태인가요?	You still can't contact her?						0	
+14	久等了。我去确认了一下现在的状况。	久等了。我去確認了一下現在的狀況。	お待たせしました。現状を確認していました。	오래 기다리셨죠. 지금 가서 상황을 한번 확인해 보도록 할게요.	Sorry to keep you waiting. I wanted to confirm the current circumstances.						0	
+15	你的同伴有传来什么消息吗？	你的同伴有傳來什麼訊息嗎？	仲間から何か情報はあるか？	별 다른 소식은 없나요?	Are there any updates from your companions?						0	
+16	他们提到骚乱发生地和安装不明装置的地点重叠度极高。	他們提到騷亂發生地和不明裝置的安裝地點高度重合。	騒ぎが起きた場所と謎の装置が設置された場所に強い相関があるそうです。	소란이 일어난 대부분의 지역에서 정체불명의 장치가 나오고 있다고 하네요.	They mentioned there's been a large amount of overlap between where the riots originated and where the unknown devices were placed.						0	
+17	你是说，这些装置会影响人们情绪，引发争执？	你是說，這些裝置會影響人們情緒，引發爭執？	この装置は人の感情に影響し、争いを引き起こす可能性があるというのか？	그 말은 정체불명의 장치가 사람들 감정에 영향을 줘서 다툼을 유발한다는 건가요?	Are you saying those devices can negatively influence people's emotions?						0	
+auto_207	辰星并没有直接回答对方的问题。	辰星並沒有直接回答對方的問題。	辰星は相手の質問に直接には答えなかった。	수성은 질문에 대답하지 않았다.	Chenxing didn't answer Zhehao's question directly.						0	
+auto_31311	泰古通达分部平日里的情形是怎样的？想必也会有各种原因引起的冲突吧？	泰古通達分部平日裡的情形是怎樣的？想必也會有各種原因引起的衝突吧？	普段の御社はどんな様子でしょうか？様々な理由で争ったことがありますよね？	타이구 물류회사의 지부는 평소에 어떤 모습이죠? 평소에도 다툼이 많이 일어나나요?	What's it like day-to-day here at Taigu-Connect? There must be all kinds of arguments and disputes, right?						0	
+auto_1956	当然，只物资发放这一项就经常惹出各种麻烦，但都很快解决了……	當然，光物資發放這件事就經常惹出各種麻煩，但都能很快平息……	もちろん。物資の配給だけでも、いろんな問題が起こるけど、すぐ解決する……	그렇죠. 물자 배분 하나만 해도 트러블이 엄청 많이 생기는 편이니까. 그래도 해결은 빨리 되는 편이에요…	Of course. Distributing cargo can cause various issues, but they're all resolved pretty quickly...						0	
+auto_9564	等等，你的意思是引发冲突的因素原本就存在，只是被人利用放大？	等等，你的意思是引發衝突的因素原本就存在，只是被人利用放大？	待て、争いのきっかけは元々存在していて、それを増幅させるために利用されただけだと言うのか？	잠깐만… 그러니까 지금 다툼이 유발된 근본적인 원인이 누군가에게 이용을 당했기 때문이라는 건가요?	Wait — are you thinking that the underlying conflicts themselves already existed, but someone is amplifying them?						0	
+auto_8575	或许起到催化作用的正是这些安装在会场各处的不明装置。	或許起到催化作用的正是這些安裝在會場各處的不明裝置。	会場に設置された謎の装置が、その触媒なのかもしれません。	혹은 다툼을 유발시킨 게 축제 장소에 있던 정체불명의 장치들일 수도 있다는 말이죠.	Those unidentified devices placed throughout the venue might have acted as a catalyst.						0	
+18	当然这只是推测，还未能被证实。	當然這只是推測，還未能被證實。	もちろん、これはあくまで推測ですので、確証があるわけではありません。	물론 이건 추측일 뿐, 아직까지 증명된 건 아니에요.	It's only an unconfirmed theory, of course.						0	
+19	哈，将明灯新仪搅得一团乱，同时得罪我们和世界树，幕后之人疯了不成？	哈，將明燈新儀搞得一團亂，同時得罪我們和世界樹，幕後黑手瘋了嗎？	ふん、明灯新祭をめちゃくちゃにして、わしらとユグドラシルの両方を怒らせて……一体黒幕は何を考えておるのじゃ。	후… 등불 의식을 난장판으로 만들고, 타이구랑 위그드라실을 이렇게까지 불쾌하게 만들다니. 누군지는 모르겠지만 정신이 단단히 나간 모양이군.	Hah, messing with the Mingdeng Ritual and defying Yggdrasil in one fell swoop? Whoever's behind this must be out of their mind!						0	
+20	当下最棘手的，就是还不清楚对方的真正动机。	當下最棘手的，就是還不清楚對方真正的動機。	今一番厄介なのは、相手の本当の動機を知らないことです。	지금까지 답답한 건, 아직까지 상대방의 동기를 모르겠다는 거예요.	Well, their motive is still unclear. That's the trickiest part of all this.						0	
+21	没有暴露动机，那就说明——	動機尚未暴露，那就說明——	動機が明らかでないということは――	동기를 밝히지 않았다는 건…	If their motive still hasn't been revealed, that means—						0	
+22	还会有更糟糕的事情发生。	還會有更糟糕的事情發生。	もっと大変なことが起きてしまうかもしれない。	더 골치 아픈 일들이 발생할 수도 있다는 말이죠.	There's still worse to come.						0	
+23	气氛瞬间僵住，玄铠挥挥手臂，似乎想打破这凝滞的空气。	氣氛瞬間凍結，玄鎧揮揮手臂，似乎想打破這凝滯的空氣。	空気が一瞬凍りつき、玄鎧はその淀んだ空気を破るかのように手を振った。	순간 분위기가 딱딱하게 굳었고, 현개는 차가운 분위기를 깨고 싶었는지 팔을 가볍게 흔들었다.	The air tensed around them. Xuankai waved his hand, as if he intended to break up the stagnant atmosphere.						0	
+24	……前面是什么活动？怎么这么吵。	……前面是什麼活動？怎麼這麼吵。	……この先、やけに騒がしいな……ケンカでもしているのか？	… 앞에서 뭘 하고 있길래 이렇게 시끌벅적한 거죠?	...What's going on up there? It's so noisy.						0	
+25	你这丫头，胡说什么？	你這丫頭，胡說什麼？	小娘が物騒なことを言うでない！	지금 무슨 말을 하는 거야?	Lass, what are you trying to say?						0	
+26	不对劲——	不對勁——	おかしい――	뭔가 이상해요…	Something's wrong—						0	
+27	啊——救命！	啊——救命！	ぎゃああ！！早く！！早く逃げろ！！	악… 사람 살려!	Ah—! Help!						0	
+28	人群被驱赶着，相互推搡着，无助地四处逃窜。	被驅趕的人群相互推擠著，眾人無助地四處逃竄。	人混みが押し寄せ、成す術なく逃げ惑う。	무언가가 쫓아오는지 사람들은 서로를 밀쳐가며 도망치고 있었다.	The crowd was herded forward, festivalgoers pushing and shoving each other as they fled around helplessly.						0	
+29	笨重的金属巨物自高处砸落，发出可怖的噪音。	笨重的金屬巨物自高處砸落，發出嚇人的噪音。	重い金属製の何かが高所から落下してきて、恐ろしい音を立てた。	거대한 금속이 높은 곳에서 무시무시한 소음을 내며 떨어졌다.	A giant metal object fell to the ground, emitting a terrible noise.						0	
+30	然而不仅如此，近似野兽般的嘶吼声自远处响起……	不僅如此，從遠處還傳來了宛如野獸嚎叫般的嘶吼聲……	しかし、それだけでなく、獣のような咆哮が遠くから聞こえる……	뿐만 아니라 야수같이 울부짖는 소리가 먼 곳에서 들려오기 시작했다…	To add insult to injury, a beastly roar sounded in the distance...						0	

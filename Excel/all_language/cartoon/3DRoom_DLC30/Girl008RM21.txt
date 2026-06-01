@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	达令~	達令~	ねぇダーリン。	달링~	Darling~						0	3.0版本随机事件
+page1.2	如果你今天不忙的话~陪我在房间里看看电影怎么样？	如果你今天不忙的話~陪我在房間裡看看電影怎麼樣？	今日ヒマだったら、一緒に部屋で映画観ない？	오늘 안 바쁘면~ 나랑 방에서 영화나 볼까?	If you're free today, how about joining me for a movie in my room?						0	3.0版本随机事件
+page1.3	芬妮想好看哪部电影了吗？	芬妮想好看哪部電影了嗎？	何を観るかは決まっているのか？	페니, 무슨 영화 볼지 정했어?	Already picked one out, Fenny?						0	3.0版本随机事件
+page1.4	当然~连爆米花都准备好了呢。	當然~連爆米花都準備好了呢。	もちろん、ポップコーンも準備したわ。	당연하지~ 팝콘도 준비해 뒀다고.	Of course! I even made popcorn!						0	3.0版本随机事件
+page1.5	刚回到房间，芬妮便拿起终端，飞快地操作起来。	剛回到房間，芬妮便拿起終端，飛快地操作起來。	部屋に戻ると、ファニーは端末を取り出して、ものすごい勢いで操作し始めた。	방에 돌아오자마자, 페니는 단말기를 집어 들고 빠르게 조작하기 시작했다.	The moment they settled in, Fenny grabbed her terminal with a determined energy.						0	3.0版本随机事件
+page1.6	唔……该影片为会员尊享，是否开通会员？	嗯……該影片為會員專享，是否開通會員？	ん……この作品、会員限定みたい、登録しちゃう？	음… 이 영화는 회원 전용인데, 회원 가입할까?	Hmm... "This title requires membership. Upgrade now?"						0	3.0版本随机事件
+page1.7	好吧，一个会员也不是很贵。	好吧，一個會員也不是很貴。	まあ、そんなに高くないし。	그래, 회원 가입비도 얼마 안 하니까.	All right, I can afford one subscription.						0	3.0版本随机事件
+page1.8	在芬妮开通完会员后，房间的墙上还是一片空白，没能出现任何影像。	在芬妮開通完會員後，房間的牆上還是一片空白，沒能出現任何影像。	ファニーが会員登録を済ませたが、壁のスクリーンには何も映らない。	페니가 회원 가입을 마쳤지만, 방 벽면은 여전히 하얗기만 할 뿐 아무 영상도 나타나지 않았다.	After the payment went through, the wall stayed blank — nothing happened.						0	3.0版本随机事件
+page1.9	嗯？	嗯？	ん？	응?	Hm?						0	3.0版本随机事件
+page1.10	投屏功能为超级会员尊享，是否开通超级会员？	投影功能為超級會員專享，是否開通超級會員？	スクリーン投影機能はスーパー会員限定です。スーパー会員になりますか？	화면 프로젝터 기능은 프리미엄 회원 전용입니다. 프리미엄 회원에 가입하시겠습니까?	"Projection feature requires a premium membership. Upgrade now?"						0	3.0版本随机事件
+page1.11	芬妮，要不我们……	芬妮，要不然我們……	ファニー、それならもう……	페니, 우리 그냥…	Fenny, maybe we should just...						0	3.0版本随机事件
+page1.12	没关系！我已经开通了！难得亲爱的有空，今天一定得看上才行。	沒關係！我已經開通了！難得親愛的有空，今天一定要看上才行。	大丈夫！もう登録したから！せっかく大好きな人と一緒にいられるんだから、今日は絶対観るって決めたの。	괜찮아! 이미 가입했어! 자기야, 얼마 만에 시간을 냈는데 오늘은 꼭 봐야지.	It's fine! I got this! You finally have some free time, so we are watching this!						0	3.0版本随机事件
+page1.13	终于，房间的墙上出现了影像画面……	終於，房間的牆上出現了影像畫面……	ようやく映像が出たと思ったら……	마침내 방 벽면에 영상이 나타났다…	Finally, the screen flickered to life on the wall...						0	3.0版本随机事件
+page1.14	呃……长达10分钟的广告？	呃……長達10分鐘的廣告？	えっ……10分間の広告？	으음… 10분짜리 광고라고?	Ugh! A 10-minute ad?						0	3.0版本随机事件
+page1.15	跳过广告功能为超级大会员尊享，是否开通……	跳過廣告功能為超級大會員專享，是否開通……	広告スキップ機能はスーパープレミアム会員限定です。登録しますか？	광고 스킵 기능은 프리미엄 플러스 회원 전용입니다. 가입하시겠습…	"Ad Skip feature requires a super premium membership. Upgrade now?"						0	3.0版本随机事件
+page1.16	啊啊！气死我了！	啊啊！氣死我了！	あああっ！もうムリッ！！	아악! 짜증 나!	AAAAH! I've had enough of this!						0	3.0版本随机事件
+page1.17	亲爱的，我们现在就去收购藤原娱乐吧！立刻！马上！	親愛的，我們現在就去收購藤原娛樂吧！立刻！馬上！	ねぇ、藤原エンターテインメントを買収しましょう！今！すぐに！	자기야, 우리 당장 후지와라 엔터테인먼트 인수하러 가자! 지금! 당장!	Darling, we're buying out Fujiwara Entertainment. RIGHT NOW!						0	3.0版本随机事件

@@ -1,0 +1,7 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	行动代号	行動代號	行動コード	미션 코드명	Operation Code						0	
+2	— 隆迪尼耶尔	— 隆迪尼耶爾	一 ロンジニエル	ㅡ론디니어	Londinières						0	
+3	地点  零区北部外围	地點  零區北部外圍	場所  エリアゼロ外郭北	장소: 제로 구역 북부 외곽	Location - North Outskirt of Containment Zone Aleph						0	
+1000	谁	是誰	誰だ？	누구지?	What?!						0	
+1001	这里未免也太安静了吧	這裡也未免太安靜了吧	ここちょっと静かすぎない？	여기… 이상할 정도로 너무 조용해.	We both know it shouldn't be this quiet.						0	

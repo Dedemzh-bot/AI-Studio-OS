@@ -1,0 +1,3 @@
+事件id	备注	事件标题	标题备注	事件内容	内容备注	选项1文本	选项1备注	选项1效果(1.固定buff 2.buff库调取 3.获得货币 4.进入战斗 5.扩充视野 6.治疗角色生命 7.局内商店打折 8.解除诅咒 9.复活)	选项2文本	选项2备注	选项2效果	选项3文本	选项3备注	选项3效果
+ID	Comment	Name	NameComment	Des	DesComment	Options1	Options1Comment	Effect1	Options2	Options2Comment	Effect2	Options3	Options3Comment	Effect3
+1								{2,2001}						

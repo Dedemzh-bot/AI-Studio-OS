@@ -1,0 +1,79 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	结束测试和芙提雅一起回到世界树，已经是晚上了。	結束測試和芙提雅一起回到世界樹，已經是晚上了。	テストを終えてフリティアと一緒にユグドラシル社に帰る頃には、もう夜になっていた。	테스트가 끝나고 나는 프티야와 함께 위그드라실로 돌아왔다. 이미 늦은 저녁이었다.	It was evening by the time I returned to Yggdrasil Enterprises with Fritia, after the test was over.						0	
+2	内部开发委员会此时刚结束评审讨论，正等待着我们过去。	內部開發委員會此時剛結束評審討論，正等待著我們過去。	この時、ちょうど内部開発委員会が討論を終えて私たちを待っていた。	사내 개발 위원회는 방금 막 심사 검토를 마치고 우리가 오기만을 기다리고 있었다.	The internal development committee had just concluded a discussion on the review and was waiting for us to come there.						0	
+3	虽然他们前期没有批准项目开发，但芙提雅自行造出原型还提交了完整的书面报告与视频资料，按规章制度也是必须给予回复的。	雖然他們前期沒有批准項目開發，但芙提雅自行造出原型還提交了完整的書面報告與影片資料，按規章制度也是必須給予回覆的。	これまで開発の許可は下りていないが、フリティアが1人でプロトタイプを作った上に、完全な報告書と映像資料を出したからには、規定に基づいて返事してくれなければならない。	먼저 회사 내규상 컨펌을 안 했던 항목이라, 프티야가 자체적으로 완성한 프로토타입의 보고서와 영상은 회수를 해야만 했다.	They hadn't approved the project, but since Fritia had built the prototype and submitted a comprehensive report on it, they were required to give feedback.						0	
+4	据我得到的消息，芙提雅那门违规的射线炮惊艳到了所有的见证者。委员会这些顽固的家伙也不例外。	據我得到的消息，芙提雅那門違規的射線炮驚豔到了所有的見證者。委員會這些頑固的傢伙也不例外。	情報によると、フリティアのあの反則的な射線砲は全ての立会人を驚かせた。委員会の頑固者たちも例外ではない。	하지만 규칙을 위반하고 진행했음에도 '써머 빔'의 성능이 너무 뛰어나서 모두를 놀래켰다고 한다.	Based on the information I'd gained, Fritia's rule-breaking Thermal Beam stunned everyone who saw it in action, even the stubborn committee members.						0	
+5	看来，我们现在过去，一定能得到好消息吧。	看來，我們現在過去，一定能得到好消息吧。	私たちを待っているのはきっと良い知らせだろう。	좋은 결과를 접할 수 있을 것 같았다.	It sounds like there'll definitely be good news if we head over now.						0	
+6	感谢你陪我这么久呀，分析员。	感謝你陪我這麼久呀，分析員。	長い時間付き合ってくれてありがとう、分析員。	함께해 줘서 고마워, 분석가!	Thanks for sticking by me all this time, Adjutant.						0	
+7	但等会儿，你就能看到委员会那些家伙不情愿地承认我的发明的样子了，哼哼，肯定很有意思。	但等一下，你就能看到委員會那些傢伙不情願地承認我的發明的樣子了，哼哼，肯定很有意思。	後で委員会の奴らが私の発明を渋々認めるところが見られるんだ。ふふん、きっと面白い。	결국엔 위원회 녀석들이 프티야의 발명품을 마지못해 인정할 수밖에 없을 거야. 후후… 그렇게만 된다면 볼만하겠지!	Before long, you'll get to see the committee reluctantly acknowledging the wonders of my invention. Hehe, that'll be fun.						0	
+8	我们走吧~！	我們走吧~！	行こう～！	그럼 들어가 볼까!	Off we go!						0	
+9	委员会的三名评审，早已在里面坐定。	委員會的三名評審，早已在裡面坐定。	委員会の審査員が3人、中に座っていた。	세 명의 위원회 심사위원은 이미 안에서 착석한 채 우리를 기다리고 있었다.	The three committee reviewers were sitting quietly, waiting for us.						0	
+10	而他们的表情，一个比一个凝重。	而他們的表情，一個比一個凝重。	彼らの表情が、順に重くなる。	하지만 이들의 표정은 하나같이 굳어 있었다.	They all looked serious and imposing.						0	
+11	我心中泛起了一阵不好的预感……	我心中泛起了一陣不好的預感……	嫌な予感がする……	이런 모습을 보니 나도 모르게 불길한 예감이 들기 시작했다.	An unpleasant thought popped into my mind...						0	
+12	这件外骨骼，还没有名字是吗？	這件外骨骼，還沒有名字是嗎？	この外骨格、まだ名前が付いていないのですか？	전술 슈트의 이름이 아직 정해진 건 아닌가요?	This exosuit is yet to be named, correct?						0	
+13	单兵武器能发挥这么大的威力，实在出人意料，我们对此都很肯定。	單兵武器能發揮這麼大的威力，實在出人意料，我們對此都很肯定。	これほどの威力があるとは、実に予想外です。我々はこの点について肯定します。	'써머 빔'이 이런 위력을 줄 수 있다니… 솔직히 놀랍긴 하네요. 이 부분은 저희도 긍정적으로 평가하고 있어요.	It's truly surprising to find a weapon designed for solo fighter use capable of such power. We are very approving of that.						0	
+14	但是……	但是……	しかし……	하지만…	But...						0	
+15	巨大的威力意味着巨大的功耗，它在不充能的前提下，能开几发？	巨大的威力意味著巨大的功耗，它在不充能的前提下，能開幾發？	巨大な威力には必ず巨大な出力が必要です。チャージせず、何発撃てますか？	엄청난 위력을 갖고 있다는 건 그만큼 엄청난 전력 소모를 동반해야 하죠. 충전을 안한 상태에서 과연 몇 발이나 발사할 수 있을까요?	Yet great power requires great costs. How many times can it fire, assuming it hasn't been charged?						0	
+16	而且这个重量，让它显得有些拙劣了。	而且這個重量，讓它顯得有些拙劣了。	それにこの重量、些か拙劣ではないでしょうか。	그리고 중량도 하나의 마이너스 요소로 비쳐 보입니다.	Its weight, too, makes it evidently clumsy to move in.						0	
+17	最重要的是……	最重要的是……	そして最も重要なのは……	무엇보다 가장 중요한 건…	Most importantly...						0	
+18	芙提雅·伊格妮丝，你作为天启者中的精英，我们认为你应该将重点放在研究如何利用泰坦力量上。	芙提雅·伊格妮絲，你作為天啟者中的精英，我們認為你應該將重點放在研究如何利用泰坦力量上。	フリティア・イグニス。あなたはエリート覚醒者として、如何にしてタイタンの力を活かすかに目を向けるべきだと我々は思います。	프티야 이그니스씨가 계시자로써 타이탄 힘을 어떻게 활용하면 좋을지, 저희는 이런 쪽으로 초점을 맞춰야 한다고 생각해요.	Fritia Ignis, you are an elite among the Manifestations. We believe you should shift your focus to researching how to best use the power of Titagen.						0	
+19	没错，请问你能给出非得坚持研发这部外骨骼的理由吗？	沒錯，請問你能給出非得堅持研發這部外骨骼的理由嗎？	そう、何としてもこの外骨格を開発しなければならない理由はありますか？	맞는 말이에요. 그래서 그런데 전술 슈트를 이렇게까지 고집하는 이유를 설명해 주시겠어요?	Exactly. Might you be able to give us a reason why you insisted on developing this exosuit?						0	
+20	我本以为芙提雅马上会开始长篇大论的反驳，但我错了。	我本以為芙提雅馬上會開始長篇大論的反駁，但我錯了。	フリティアは即座に長々と反論を行うかと思ったが、そうではなかった。	사실 난 프티야가 심사위원들의 평론을 듣고 곧장 장황하게 반박할 줄 알았다.	I thought Fritia would launch into a lengthy explanation to defend herself, but I was wrong.						0	
+21	她的脸上写满了倔强和不甘，却并无言语。	她的臉上寫滿了倔強和不甘，卻並無言語。	フリティアは悔しそうな顔をして、無言のままだった。	하지만 그녀는 아무 말도 하지 않았다. 비록 얼굴에는 달가워하지 않는 표정이 만연했지만 말이다.	Despite her stubborn unwillingness, she remained silent.						0	
+22	我马上想起了之前在车间的时候，芙提雅给我讲述的事……	我馬上想起了之前在車間的時候，芙提雅給我講述的事……	この前工場にいた時、フリティアに聞いた話を思い出した……	순간 작업장에 있을 때 프티야가 내게 했던 얘기가 떠올랐다.	This immediately reminded me of what she'd explained to me back in the warehouse...						0	
+23	要说一定要坚持的原因……	要說一定要堅持的原因……	やらなきゃいけない理由と言えば……	분석가, 내가 왜 이렇게까지 이런 걸 고집하는지 이유를 말해줄까?	The reason why I insisted on it...						0	
+24	分析员你肯定不知道我为什么加入前线部门吧？	分析員你肯定不知道我為什麼加入前線部門吧？	私が前線部門に入った理由は知らないでしょ？	분석가는 내가 전방 부대에 들어온 배경을 잘 모르지?	Adjutant, you must not know why I joined the front-line department, right?						0	
+25	原先的我啊，成天泡在实验室里，对亲自上阵其实没什么兴趣……	原先的我啊，成天泡在實驗室裡，對親自上陣其實沒什麼興趣……	私ね、昔は毎日実験室で過ごしてたの。自分で戦うことにはあまり興味がなかったんだ……	사실 나는 실험실에 있는 걸 좋아했어. 직접 나서서 뭘 하려는 성향이 아니었지…	Back then, I used to spend all my time in the lab. I had no interest in going on the battlefield...						0	
+26	但有一次，我在实验室里，无意看到了逐光者的深夜“狩猎”直播。	但有一次，我在實驗室裡，無意看到了逐光者的深夜“狩獵”直播。	でもある日、実験室で何気なく逐光者の「狩り」の深夜配信を見たの。	그러던 어느 날, 실험실에 있는데 나도 모르게 축광단에서 진행하는 심야 '사냥'이라는 생방송을 본 적이 있었어.	But one time in the lab, I caught a glimpse of a livestream of the Light Chasers' midnight Hunt.						0	
+27	那是一场……每次想到就会心痛的惨剧……	那是一場……每次想到就會心痛的慘劇……	あれは……思い出すたびに心が痛んだ……	그 장면이 아직까지 생생한데… 매번 생각할 때마다 가슴이 너무 아파…	That was really a tragedy... It's horrible even thinking back to it...						0	
+28	他们的无人机装上了不知哪里得来的新型机枪，并使用它在与郊狼的交战中大获全胜。	他們的無人機裝上了不知哪裡得來的新型機槍，並使用它在與郊狼的交戰中大獲全勝。	彼らのドローンはどこで手に入れたかも分からない新型マシンガンが付いてて、それを使ってコヨーテとの戦いで完勝した。	어디서 구한 건지는 모르겠지만 축광단은 드론에 신형 기관총을 달아 코요테와의 교전에서 대승을 거뒀어.	Their drones were equipped with new machine guns they'd got from somewhere, and they were overwhelmingly victorious fighting with the Coyotes.						0	
+29	到这里，还算正常……	到這裡，還算正常……	ここまでは、普通だけど……	여기까지는 뭐 그렇다고 쳐…	That part was all normal...						0	
+30	直播末尾，一名幸存郊狼女性成员扔下武器逃跑，逐光者的无人机紧随其后，用子弹惊吓她、调戏她，但……偏偏不杀死她……	直播末尾，一名倖存郊狼女性成員扔下武器逃跑，逐光者的無人機緊隨其後，用子彈驚嚇她、調戲她，但……偏偏不殺死她……	配信の最後、あるコヨーテの生き残りの女性が武器を捨てて逃げ始めたの。逐光者のドローンがその人のを追って、弾で驚かせたりからかったりして……でも殺したりはしない……	이후에 생방송 말미에 살아남은 어떤 코요테 여성이 무기를 버리고 도망가는데, 축광단은 드론을 이용해 죽이지는 않고 희롱하고 놀리기만 했지.	At the end, a female Coyote survivor threw down her weapons and fled. The Light Chaser drones pursued her, using bullets to do everything but kill her...						0	
+31	摄像机频繁抓拍逃跑者恐慌的脸，那些直播的逐光者们，笑得如同恶魔……	攝影機頻繁抓拍逃跑者恐慌的臉，那些直播的逐光者們，笑得如同惡魔……	逃げる人たちの怖がっている顔が何度もカメラに映った。それなのに逐光者たちは悪魔のように笑ってた……	드론에 달린 카메라로 놀라 달아나는 여성의 얼굴을 계속해서 녹화했고, 그 모습을 보며 마치 악마와 같이 웃어대며 좋아했어.	The camera often captured her face plastered with terror, while the Light Chasers laughed and laughed as if they were possessed...						0	
+32	最终，逃跑者体力耗尽，跪在地上苦苦求饶，并拿出一张照片，以证明自己是一名孩子的母亲。	最終，逃跑者體力耗盡，跪在地上苦苦求饒，並拿出一張照片，以證明自己是一名孩子的母親。	逃げてた人は結局走れなくなって、跪いて命乞いして、自分に子供がいることを証明するために、一枚の写真を取り出したの。	결국 도망가던 여성은 체력을 전부 소모했는지 바닥에 무릎을 꿇고 용서를 빌었지. 심지어 사진을 꺼내 아이의 엄마인 것까지 증명했고.	Finally, the woman reached the limits of her exhaustion. She fell to the ground pleading for mercy, and took out a photo of her young child.						0	
+33	然而，他们发射的子弹穿过照片……	然而，他們發射的子彈穿過照片……	でも、奴らは写真を撃った……	하지만 그럼에도 그들은 끝내 방아쇠를 당겼고, 그 총알은 사진을 뚫어 결국엔…	The next bullet pierced straight through the photo...						0	
+34	即使只是在回忆，我也能清楚感受到芙提雅哽咽中的愤怒。	即使只是在回憶，我也能清楚感受到芙提雅哽咽中的憤怒。	思い出話をしているだけでも、フリティアの怒りはよく伝わってくる。	설령 과거라 할지라도 나는 프티야의 오열 속에서 분노를 느낄 수 있었다.	Even within the memory, I could still feel Fritia's palpable rage.						0	
+35	而她的眼神中，更是写满了坚定。	而她的眼神中，更是寫滿了堅定。	彼女の目に宿っているのは、決意だ。	그녀의 눈빛에는 결연함이 서려 있었다.	And her gaze... was filled with resolution.						0	
+36	我应该为此负起责任……	我應該為此負起責任……	私には責任がある……	그래서 난 꼭 책임지고 싶어…	I need to take responsibility...						0	
+b-1											0	
+37	不……	不……	いや……	아니…	There's not...						0	
+b-2											0	
+38	这不是你应该背负的。	這不是你應該背負的。	君が背負うべきことじゃない。	이건 네가 책임질 문제가 아니야.	You shouldn't feel responsible for this.						0	
+39	好了啦，分析员你这个老好人，就别安慰我了。	好了啦，分析員你這個老好人，就別安慰我了。	まったく……分析員ってどこまでもお人好し。慰めなくてもいいから。	됐어. 프티야는 분석가가 좋은 사람인 거 다 알아. 그러니까 이제 그만 위로해도 돼.	You're a good person, Adjutant. No need to comfort me.						0	
+40	这就是我的责任。百分之百。	這就是我的責任。百分之百。	これは100％、私の責任なの。	이건 내가 전적으로 책임질 수밖에 없어.	This is 100% my responsibility, without any doubt.						0	
+41	因为逐光者无人机上使用的AI操控引擎，就是我研发的“火种引擎”。	因為逐光者無人機上使用的AI操控引擎，就是我研發的“火種引擎”。	何故なら、逐光者のドローンに搭載されていたAI操作エンジンは、私が開発した「火種エンジン」だから。	왜냐하면 축광단이 사용하는 드론의 AI 조종 엔진이 바로 내가 개발했던 '불씨 엔진' 이거든.	Because the AI control engine used on the drones is the Ember Engine that I developed.						0	
+42	说到这，她深深叹了口气。	說到這，她深深嘆了口氣。	フリティアは深くため息をついた。	프티야는 말을 마치고 가슴이 먹먹했는지 숨을 한번 깊게 내쉬었다.	She paused and let out a deep sigh.						0	
+43	之后我展开过调查，利用无人机作恶其实并不是个例。	之後我展開過調查，利用無人機作惡其實並不是個例。	それから調査してみたけど、ドローンを使って悪いことをしてる人は他にもいる。	그러고 나서 이후에도 드론을 이용한 악행이 적지 않다는 걸 발견할 수 있었지.	Later I ran an investigation and found that it was far from uncommon for drones to be engaged in unspeakable activities.						0	
+44	所以，我应该为更多人开发足以自保和对抗恶势力的武器，让他们……不需要海姆达尔或者其他人介入，也能阻止那一小部分人的暴行！	所以，我應該為更多人開發足以自保和對抗惡勢力的武器，讓他們……不需要海姆達爾或者其他人介入，也能阻止那一小部分人的暴行！	だからより多くの人のために、自分の身を守って悪の勢力に刃向かえる兵器を開発しなきゃ……ヘイムダルや他の人の手を借りなくても、ごく一部の人の暴行を誰でも阻止できるように！	그래서 나는 사람들이 악의 축에 대항하기 위해 자신을 보호할 수 있는 무기를 개발하고 싶었어. 헤임달 부대 없이도 저지할 수 있는!	That's why I need to develop weapons capable of protecting ordinary people. So that they can stand up to bad guys even without Heimdall or other support!						0	
+45	更何况，在神格天启之前，我也不过是个普通人。	更何況，在神格天啟之前，我也不過是個普通人。	それに、覚醒者になる前は……私もただの一般人にすぎなかった。	만트라 계시를 받기 전에는 나 역시 평범한 사람이었으니까.	And I too was just an ordinary person before becoming a Manifestation.						0	
+46	我很明白，力量不应该是极少数人的专利。	我很明白，力量不應該是極少數人的專利。	私はよく知ってるの。力は極めて少ない人の特権であるべきではない。	힘이라는 권력이 극소수만의 전유물이 되어서는 안된다는 걸 깨달았지.	I truly understand what happens when a small group of people has overwhelming power over everyone else.						0	
+47	委员会更重视已经应用的泰坦技术，我能理解，这是他们的职责。	委員會更重視已經應用的泰坦技術，我能理解，這是他們的職責。	委員会がタイタン技術の応用をより重視しているのは理解できる。それが彼らの役目だから。	위원회에서 이미 상용화된 타이탄 기술을 중시하는 건 이해해. 그건 그들이 당연히 해야 하는 업무니까.	The committee prefers to emphasize the Titagen tech that's already in use. I understand, it's their job.						0	
+48	但我依然认为，普通人也能使用的力量，一定是胜过极少数人才能使用的特权。	但我依然認為，普通人也能使用的力量，一定是勝過極少數人才能使用的特權。	でも、一般人でも使える力は、きっと一部の人しか使えない特権より勝ると思う。	하지만 일반인도 힘이라는 권력을 같이 사용해야 한다고 생각해. 극소수의 전유물이 되어서는 안되니까.	But I still think that the power ordinary people can use is without doubt more important than that only those with special authority can use.						0	
+49	你说对吗，分析员！？	你說對嗎，分析員！？	そうでしょ、分析員……	내 말이 틀려, 분석가!?	Don't you agree, Adjutant?!						0	
+50	那时，我给予了芙提雅肯定的回答。	那時，我給予了芙提雅肯定的回答。	私は同意した。	난 프티야에게 고개를 끄덕이며 찬성의 의미를 내비쳤다.	I gave Fritia an affirmative answer that time.						0	
+51	她的意志十分了不起。	她的意志十分了不起。	彼女の意志は強い。	꼭 이루고자 하는 프티야의 의지가 굉장히 단호해 보였기 때문이다.	Her willpower was really remarkable.						0	
+52	如同神话中的普罗米修斯，“火种”为世人带来的一切，最终都成为了她的枷锁。	如同神話中的普羅米修斯，“火種”為世人帶來的一切，最終都成為了她的枷鎖。	まるで神話のプロメテウスのようだ。「火種」が人々にもたらしたものが、最終的に彼女を縛る鎖になった。	신화 속 프로메테우스처럼, 그녀의 '불씨'는 세상을 위해 많은 것을 가져다주는 동시에 하나의 족쇄가 되고 말았다.	Just like Prometheus in the legends, her "fire" brought so much to the world, yet ended up as her chains.						0	
+53	她没有屈服于此，而是不断地去努力着、抗争着……	她沒有屈服於此，而是不斷地去努力著、抗爭著……	彼女はそれに屈せず、絶えず努力し、抗い続けていた……	하지만 프티야는 이에 굴하지 않았고 계속해서 투쟁해 나갔다…	She didn't give in, but continued to persevere and fight back against it...						0	
+54	但此情此景，或许她终于意识到了真正的桎梏何在。	但此情此景，或許她終於意識到了真正的桎梏何在。	しかし今の状況になって、彼女はようやく本当の鎖が何かに気づいたのかもしれない。	이런 과정 중에 그녀는 속박된 느낌이 어떤 것인지 깨달았을 것이다.	Perhaps, faced with this, she'd finally realized where the things really binding her lie.						0	
+55	再绚烂而强大的炮火也只是一瞬间的光芒，打不破重重成见。	再絢爛而強大的炮火也只是一瞬間的光芒，打不破重重成見。	どんなにきらびやかで強い砲火でも、一瞬のきらめきにすぎない。根強い先入観を打ち破ることはできない。	아무리 현란하고 강력한 무기일지라도 한순간의 빛과 같을 것이고,	Even the most enormous and glorious cannon is still but an instant of light. It can't break through the knotted layers of preconceived prejudices.						0	
+56	再怎么美好的科技愿景，也难免被恶意之人歪曲与利用。	再怎麼美好的科技願景，也難免被惡意之人歪曲與利用。	どんなに素晴らしい科学技術のビジョンでも、悪人に歪曲され利用される羽目になる。	아무리 좋은 취지로 만든 비전 있는 과학기술이라 할지라도, 악의 축에게 왜곡되고 이용될 수 있다는 것을…	And even the most beautiful technological landscape will still not be safe from distortion and abuse by those with ill intentions.						0	
+57	但……	但……	けれど……	하지만 무엇보다…	But...						0	
+58	她身旁，不是还有我在吗？	她身旁，不是還有我在嗎？	彼女の傍には、まだ私がいるじゃないか？	이제는 프티야 옆에서 나도 함께 하고 있으니까!	Doesn't she still have me?						0	
+59	我向前一步，拍了拍芙提雅的肩膀，顺势将她掩护在了我的身后。	我向前一步，拍了拍芙提雅的肩膀，順勢將她掩護在了我的身後。	私は一歩前に進んで、フリティアの肩を軽く叩いて、彼女を私の後ろに下げた。	나는 앞으로 다가가 프티야의 어깨를 두드렸고, 여세를 몰아 그녀를 엄호했다.	I stepped forward and patted Fritia on the shoulder, taking the opportunity to stand in a way that put her behind me.						0	
+60	诶……？	欸……？	え……？	응…?	Eh...?						0	
+b-3											0	
+61	后面的陈述，交给我吧。	後面的陳述，交給我吧。	後のことは私に任せて。	지금부터는 나한테 맡겨.	Leave the rest of the explanation to me.						0	
+62	但是……	但是……	でも……	하지만…	But...						0	
+b-4											0	
+63	相信我。	相信我。	私を信じて。	날 믿어도 좋아.	Trust me.						0	
+64	我……我知道了……	我……我知道了……	わ……分かった……	알… 알겠어…	I—I understand...						0	
+65	芙提雅偶尔会独自承担负面情绪，不太容易从坏消息和钻牛角尖里走出来。	芙提雅偶爾會獨自承擔負面情緒，不太容易從壞消息和鑽牛角尖裡走出來。	フリティアはたまに1人で負の感情を背負って、悪い知らせを聞いた悲しみから抜け出せなくなる。	가끔씩 프티야는 혼자서 모든 걸 짊어지려고 해서 외골수적인 면이 있었다.	Fritia often gets herself buried in negative emotions. It's not easy for her to just move on after hearing bad news or hitting a brick wall.						0	
+66	或许我暂时不能解放她的枷锁，但我……	或許我暫時不能解放她的枷鎖，但我……	今はまだ彼女を縛る枷を外すことはできないかもしれないが……	아직까지 그녀의 족쇄를 풀어줄 수 있는 정도는 아니지만…	I might not be able to release her chains just yet, but I can still...						0	
+67	可以帮她分担这份痛苦和压力。	可以幫她分擔這份痛苦和壓力。	苦しみやプレッシャーを分かち合うことはできる。	그녀가 받고 있는 고통과 스트레스는 함께 짊어지고 도와줄 수 있다.	Share her burden and pain.						0	
+68	再怎么说，和委员会这些人讨价还价，我可比只擅长吐槽的芙提雅要熟练。	再怎麼說，和委員會這些人討價還價，我可比只擅長吐槽的芙提雅要熟練。	ツッコミだけが上手なフリティアより、私の方が委員会の人達との駆け引きには慣れている。	어찌 됐건 위원회랑 계속해서 협상을 한다고 하면 불만만 늘어놓는 프티야보다는 내가 나서는 것이 좋을 것 같았다.	Anyway, a lot of negotiation would be needed to get our point across to the committee. I'm more skilled than Fritia, as she focuses her skills on roasting.						0	
+69	我清了清嗓，开始了自信的陈述……	我清了清嗓，開始了自信的陳述……	私は咳払いをして、自信を持って話し始めた……	그렇게 나는 목청을 가다듬었고, 자신감 있는 목소리로 진술을 하기 시작했다.	I cleared my throat, and began confidently explaining...						0	
+b-5											0	
+70	首先，请允许我再度介绍这款外骨骼。它的名字是……	首先，請允許我再度介紹這款外骨骼。它的名字是……	まずは、改めてこの外骨格を紹介させていただきます。その名前は……	다시 한번 설명할 기회를 주셨으면 합니다. 이 전술 슈트의 이름은…	First of all, please allow me to reintroduce this exosuit. Its name is...						0	
+b-6											0	
+71	“缄默”。	“緘默”。	「ベラドンナ」	'사일런트'.	"Hush".						0	

@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	欸？！尤弥尔消失了！不在这里！	欸？！尤彌爾消失了！不在這裡！	あれ！？ユミルの姿が消えた！ここにはいないよ！	엥?! 이미르가 사라졌어! 이곳에 없어!	Huh? Ymir has disappeared! It isn't here!						0	
+2	playername说，它一定会在这里出现。	playername說，它一定會在這裡現身。	playernameの話だと、そいつは間違いなくここに現れるはず。	playername(이)가 이곳에 반드시 나타날 거라고 했어.	According to playername, it's supposed to be here.						0	

@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，可算找到你啦。	分析員，總算找到你啦。	分析員！やっと見つけた。	드디어 찾았네…	There you are, Adjutant!						0	2.5版本随机事件
+page1.2	快尝尝，基地零食柜上新了朔州风味的零食，可好吃了！	快試試看，基地零食櫃新放了朔州風味的零食，可好吃了！	寮の差し入れ棚に朔州の新しいお菓子が入ってたよ！すっごく美味しいから食べてみて！	어서 이것 좀 먹어봐. 숙소 스낵 코너에 새로운 삭주의 간식이 들어왔는데 엄청 맛있어!	There are some new snacks from Shuozhou in the pantry. You should try them out. They're amazing!						0	2.5版本随机事件
+page1.3	消息够灵通的啊，妮塔总是能第一个知道这些。	消息夠靈通的啊，妮塔總是能第一個知道這些。	もう気づいたのか。ニタはいつも早いな。	이런 건 또 어디서 들은 거야? 니타는 항상 이런 정보들에 민감하다니까.	You sure have the latest scoop, Nita. You're always first to know what's happening in the pantry.						0	2.5版本随机事件
+page1.4	天天在零食柜里拿吃拿喝，我觉得我都可以兼任零食柜管理员了，哈哈！	天天在零食櫃裡拿吃拿喝，我覺得我都可以兼任零食櫃管理員了，哈哈！	あはは、だって毎日一回は覗いちゃうからね。そろそろ差し入れ棚の管理員でも兼任しようかな？	매일 스낵 코너에서 이것저것 먹고 마시니까 그렇지. 스낵 코너 관리자 역할을 해도 될 것 같아, 하하하.	Well, I get snacks and drinks from there every single day. I feel like I could work part-time as the pantry manager, haha!						0	2.5版本随机事件
+page1.5	也不是不行，那妮塔觉得咱们零食柜还有什么地方需要改进吗？	也不是不行，那妮塔覺得我們零食櫃還有什麼地方需要改進嗎？	そうだな。それじゃあ、差し入れ棚について、なにかアドバイスでもあるか？	그것도 나쁘지 않네. 그럼 니타는 스낵 코너에서 어떤 부분이 개선됐으면 좋겠다고 생각해?	That's actually not a bad idea. Do you have any ideas for how to make the pantry better?						0	2.5版本随机事件
+page1.6	像现在这样就很好啦，反正我是不挑食的。	像現在這樣就很好啦，反正我是不挑食的。	今のままでいいんじゃない？私、なんでも好きだし。	그냥 지금 이대로면 괜찮아. 어차피 나는 가리는 게 없거든.	I think it's fine how it is. Either way, I'm not picky.						0	2.5版本随机事件
+page1.7	如果能定期上新一些各地特产……对了！更营养、更健康的低脂零食也多来点，那就再好不过了！	如果能定期上新一些各地特產……對了！更營養、更健康的低脂零食也多來點，那就再好不過了！	しいて言えば、定期的に各地の特産品を置いてってほしいかも……あ！健康的なお菓子も増えたら最高だね！	각 지역의 특산물들이 정기적으로 좀 들어오면 좋겠고… 맞아! 더 영양가 있고 건강한 저지방 간식도 좀 더 있으면 좋겠어, 그럼 더할 나위 없지!	But if we could regularly stock up on specialty snacks from different places... Oh! And it would be great if we could get some healthier low-fat snacks!						0	2.5版本随机事件
+page1.8	不错不错，予以采纳。	不錯不錯，予以採納。	わかった、善処しよう。	좋아, 좋은 의견이야.	Good idea. We can make that happen.						0	2.5版本随机事件
+page1.9	不过只吃零食可不行。走吧，正好到饭点了，咱们吃大餐去。	不過只吃零食可不行。走吧，剛好到飯點了，我們吃大餐去。	でも、お菓子ばっかり食べるのはかえって体に悪い。ちょうどメシの時間だし、奢るよ。	하지만 간식만 먹으면 안 돼. 가자, 마침 식사 시간도 됐으니까, 맛있는 거 먹으러 가자.	But you can't just eat snacks. Come on — it's dinnertime. Let's have a nice, big meal.						0	2.5版本随机事件
+page1.11	好哎！	好哎！	やった！	좋아!	Okay!						0	2.5版本随机事件

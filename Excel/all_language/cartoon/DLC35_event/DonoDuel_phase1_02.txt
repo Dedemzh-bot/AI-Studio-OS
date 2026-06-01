@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	亲爱的，先别动。	親愛的，先別動。	あなた、そのまま動かないで。	자기야, 일단 움직이지 마.	Wait just a moment, darling.						0	3.5版本多诺巅峰对决剧情
+page1.2	安卡希雅面色一凛，踮起脚尖、煞有介事地双手扶着我的脸，眼神直直地盯着我。	安卡希雅面色一凜，踮起腳尖、煞有介事地雙手扶著我的臉，眼神直直地盯著我。	アカシアがきゅっと表情を引き締め、つま先立ちになって両手で私の頬を挟む。そのまま、いたって真面目な顔でじっと見上げてきた。	아카시아는 굳은 얼굴로 까치발을 든 채 양손으로 내 얼굴을 잡더니 눈을 똑바로 응시했다.	Acacia's expression suddenly grew serious. She rose up on her tiptoes, placed both hands gently on my cheeks, and gazed into my eyes.						0	3.5版本多诺巅峰对决剧情
+page1.3	到底要干什么？	到底要幹什麼？	いったい何をするつもりだ。	대체 뭘 하려는 거야?	What are you doing?						0	3.5版本多诺巅峰对决剧情
+page1.4	要确认入坑进度呀。	要確認入坑進度啊。	今どれくらいハマってもらえてるか、確認するの。	얼마나 빠졌는지 확인해 보려고.	Checking your initiation status, naturally.						0	3.5版本多诺巅峰对决剧情
+page1.5	如果一开始就没能成功把亲爱的注意力拉进来的话，那岂不是全都白干了。	如果一開始就沒有成功把親愛的注意力拉進來的話，那豈不是全都白做了。	最初の一手であなたの視線をつかめなかったら、ここまでの仕込みが全部パーでしょ。	시작부터 자기의 관심을 사로잡지 못하면, 다 헛수고가 되잖아.	If I can't capture your complete attention from the very beginning, wouldn't all of this effort be wasted?						0	3.5版本多诺巅峰对决剧情
+page1.6	哦呵呵呵呵！从亲爱的眼中，我已经能看到对多诺卡炽热的喜爱了！	哦呵呵呵呵！從親愛的眼中，我已經能看到對多諾卡熾熱的喜愛了！	おほほほ！あなたの瞳から、DOROカードへのアツアツなラブしか見えないよ！	오호호호! 자기의 눈빛에서 이미 도노 카드에 대한 애정이 느껴지는걸!	Ohohoho! I can already see a burning passion for Dono Card igniting in your eyes!						0	3.5版本多诺巅峰对决剧情
+page1.7	（所以是怎么看出来的啊！）	（所以是怎麼看出來的啊！）	（どこをどう見たらそうなるんだ！）	(그걸 어떻게 확인할 수 있는 건데!)	(And exactly how are you determining that!?)						0	3.5版本多诺巅峰对决剧情
+page1.8	确认入坑进度良好，继续推进入坑！	確認入坑進度良好，繼續推進入坑！	沼進度は良好。よし、そのまま一気に沼の最深部までエスコートだよ！	푹 빠졌군, 확인 완료, 계속해 볼까나!	Initiation status confirmed as "excellent." Let's proceed!						0	3.5版本多诺巅峰对决剧情
+page1.9	看到她耍宝的模样，我忍不住笑出声，随后在她的额头上轻弹了一下。	看到她耍寶的模樣，我忍不住笑出聲，隨後在她的額頭上輕彈了一下。	ふざけてみせる様子がおかしくて、つい笑いがこぼれる。その勢いで彼女の額を指で軽く弾いてやった。	장난치는 그녀의 모습에 웃음이 터진 나는 손가락으로 그녀의 이마를 가볍게 튕겼다.	Watching her playful antics, I couldn't help but chuckle and give her a gentle flick on the forehead.						0	3.5版本多诺巅峰对决剧情
+page1.10	嗷呜，欺负人。	噢嗚，欺負人。	いったぁ……ひどい、いじめっ子。	아야, 괴롭히지 마.	Oww, you can't just pick on your initiation guide~						0	3.5版本多诺巅峰对决剧情
+page1.11	还不快快认真教学？	還不快快認真教學？	そろそろ真面目に講義に入ってくれ。	빨리 안 가르쳐주고 뭐 해?	I was just gently reminding my "initiation guide" to actually start her tutorial.						0	3.5版本多诺巅峰对决剧情
+page1.12	亲爱的，真心急~	親愛的，真心急~	ほんとせっかちだな〜あなたは。	우리 자기, 급하긴~	You're so impatient, darling~						0	3.5版本多诺巅峰对决剧情
+page1.13	接下来就让安卡希雅郑重地介绍多诺对决前最重要的事情，<orange>多诺卡探索</>。	接下來就讓安卡希雅鄭重地介紹多諾對決前最重要的事情，<orange>多諾卡探索</>。	それじゃあまず、対決前に一番大事な<orange>DOROカード探索</>を、アカシアが改めて説明するよ。	그럼, 이제 이 아카시아가 도노 대결 전 가장 중요한 포인트, <orange>도노 카드 탐사</>에 관해 설명해 줄게.	Now, allow me to formally introduce the most crucial step before any Dono Duel: <orange>Explore</> mode.						0	3.5版本多诺巅峰对决剧情
+page1.14	和一开始的体验不一样，接下来所有的对决，都要使用自己的多诺卡。	和一開始的體驗不一樣，接下來所有的對決，都要使用自己的多諾卡。	最初のお試しと違って、この先の対決は全部、自分のDOROカードだけで戦うことになるんだよ。	초반부와 달리, 앞으로의 모든 대결에서는, 자신이 가지고 있는 도노 카드를 사용해야 해.	Unlike your first experience, from this point forward, you'll need to compete in duels using the cards you own.						0	3.5版本多诺巅峰对决剧情
+page1.15	而每一张多诺卡，都需要亲爱的亲自去探索获取。	而每一張多諾卡，都需要親愛的親自去探索獲得。	そのDOROカード一枚一枚を、あなた自身が探索して集めていくの。	그리고 모든 도노 카드는 우리 자기가 직접 탐사해서 획득해야 하지.	That means going on explorations to obtain every single card.						0	3.5版本多诺巅峰对决剧情
+page1.16	那就，出发？	那就，出發？	じゃ行くか。	그럼, 출발해 볼까?	Then... shall we get started?						0	3.5版本多诺巅峰对决剧情
+page1.17	Gogogo，出发咯！	Go Go Go，出發囉！	それじゃあレッツ探索スタートだよ！Gogogo！	Go go go, 출발!	That's the spirit, let's go go go!						0	3.5版本多诺巅峰对决剧情

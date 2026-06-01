@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	你在看什么呢？	你在看什麼呢？	リフ、何を見ているんだ？	뭐 보고 있어?	What are you looking at?						0	3.2版本随机事件
+page1.2	我只是在看我以前留下的枪械，不知不觉居然换过这么多把了……	我只是在看我以前留下的槍械，不知不覺居然換過這麼多把了……	昔の私が使っていた銃だ。気づけば、ずいぶん乗り換えてきたものだな。	그냥 예전에 썼던 총들을 보고 있어. 어느새 이렇게 여러 번 바꿨네…	I'm checking my old firearms. Surprised that I'd actually swapped out this many.						0	3.2版本随机事件
+page1.3	你是在怀念过去吗？	你是在懷念過去嗎？	過去を懐かしんでいるのか。	예전이 그리워?	Feeling nostalgic?						0	3.2版本随机事件
+page1.4	也算不上怀念吧，只是……偶尔来看看，也算是见证了自己的成长。	也不算懷念吧，只是……偶爾來看看，也算是見證了自己的成長。	懐かしむ、というほどではない。……だが、たまにこうして眺めてるのも悪くない。自分の歩幅を確認できるからな。	그립진 않아. 그냥… 가끔 보러 와서 나의 성장을 확인하는 정도랄까.	Not exactly... It's... more of a personal review. Checking them every now and then helps me reflect on how far I've come.						0	3.2版本随机事件
+page1.5	其实最一开始我也没想过要有这样的人生。	其實最一開始我也沒想過要有這樣的人生。	最初から、こんな生き方を望んでいたわけじゃない。	사실 처음엔 나도 이런 인생을 살게 될 줄은 몰랐어.	Never thought my life would turn out this way, honestly.						0	3.2版本随机事件
+page1.6	只是加入了瓦尔基里游戏，只是循规蹈矩……若不是经历了那场灾难，我甚至从没想过会真的拿着枪站到战场上。	只是加入了瓦爾基里遊戲，只是循規蹈矩……若不是經歷了那場災難，我甚至沒想過會真的拿著槍站到戰場上。	ヴァルキリーゲームに入り、規則どおりに動いていただけだ。あの災厄がなければ、戦場で銃を構える自分など想像すらしなかっただろう。	발키리 게임에 참가해 규칙대로만 했을 뿐인데… 그 재난이 아니었다면, 실제로 총을 들고 전장에 나가는 건 상상도 못 했을걸.	Taking part in the Valkyrie Games was just about following a set path... If not for that disaster... I never would've imagined actually holding a gun on a real battlefield.						0	3.2版本随机事件
+page1.7	里芙以前可是明星选手啊。	里芙以前可是明星選手啊。	リフはスター選手だったからな。	리브는 예전에 스타 선수였잖아.	You were a star player back then, Lyfe.						0	3.2版本随机事件
+page1.8	其实我从来没有那样的目标，我只是觉得我必须做到最好。	其實我從來沒有那樣的目標，我只是覺得我必須做到最好。	目標はなかった。ただ、最善を尽くすべきだと思っていた。	사실 그런 목표는 없었어. 반드시 최선을 다해야 한다고 생각했을 뿐이지.	That was never intentional. I just thought I had to be the best.						0	3.2版本随机事件
+page1.9	我拿过三次金牌，我还以为我会一直这样下去，一次又一次参加比赛，一次又一次卫冕冠军……	我拿過三次金牌，我還以為我會一直這樣下去，一次又一次參加比賽，一次又一次衛冕冠軍……	金メダルは三度。ずっとこのまま、また出て、また優勝していくのだろうと――そう思っていた。	금메달을 세 번 땄으니, 계속 이렇게 살 줄 알았어. 몇 번이고 대회에 나가면서, 몇 번이고 우승을 따낼 줄 알았지…	I claimed three gold medals, so that's what I thought I had to maintain. Compete, defend my title, repeat...						0	3.2版本随机事件
+page1.10	我只是循规蹈矩地想把这件事做好而已。	我只是循規蹈矩地想把這件事做好而已。	私はただ、定められた枠内で、与えられたことをきちんとやろうとしていただけだ。	그저 규칙대로 이 일을 잘하고 싶었어.	I just wanted to follow the routine, to get that one thing right.						0	3.2版本随机事件
+page1.11	可是总会有什么事情出现在我的人生里，那些平衡和规矩都打破……	可是總會有什麼事情出現在我的人生裡，把那些平衡跟規矩都打破……	だが、人生には割り込んでくる出来事がある。その均衡も規律も、あっさり壊される。	하지만 내 인생에는 늘 이런저런 일이 일어나서 그런 균형과 규칙이 깨지곤 했지…	But something always disrupts the balance, breaks the routine...						0	3.2版本随机事件
+page1.12	不用想那么多了，现在很好不是吗？你成为了全新的自己。	不用想那麼多了，現在很好不是嗎？你成為了全新的自己。	リフ、あれこれ考えすぎるな。今は十分いいじゃないか。もう「新しい自分」になっているだろう。	너무 깊이 생각하지 마. 지금도 좋잖아? 넌 완전히 새로운 사람이 됐어.	Don't overthink it. It's all good now, isn't it? You've become a whole new you.						0	3.2版本随机事件
+page1.13	是啊，很好。	是啊，很好。	ああ、悪くない。	그래, 좋아.	Yeah, you're right.						0	3.2版本随机事件
+page1.14	遇到亲爱的之后，一切都很好。	遇到親愛的之後，一切都很好。	あなたに会ってから、すべてうまくいっている。	자기를 만났더니, 모든 게 좋아졌어.	Everything's been good since I met you, my darling.						0	3.2版本随机事件

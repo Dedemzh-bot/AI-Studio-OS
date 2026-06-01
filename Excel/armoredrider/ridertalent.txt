@@ -1,0 +1,14 @@
+﻿赛季ID	任务流水ID	天赋名称	天赋描述	天赋图标	天赋分支	上一天赋	所需资源	任务达成解锁buff(1.modiferID 2.商品ID)
+seasonID	ID	TalentName	Talentdes	TalentPic	TalentRank	LastRank	NeedScore	TalentBuff
+1	1	armoredrider.ArmoredRiderTalentName01	armoredrider.ArmoredRiderTalentDes01	5273000	1		{65,30}	{1,1016}
+1	2	armoredrider.ArmoredRiderTalentName02	armoredrider.ArmoredRiderTalentDes02	5273001	1	1	{65,90}	{1,1017}
+1	3	armoredrider.ArmoredRiderTalentName03	armoredrider.ArmoredRiderTalentDes03	5273003	1	2	{65,180}	{1,1018}
+1	4	armoredrider.ArmoredRiderTalentName04	armoredrider.ArmoredRiderTalentDes04	5273002	1	3	{65,300}	{1,1019}
+1	5	armoredrider.ArmoredRiderTalentName05	armoredrider.ArmoredRiderTalentDes05	5273004	2		{65,30}	{2,7}
+1	6	armoredrider.ArmoredRiderTalentName06	armoredrider.ArmoredRiderTalentDes06	5273005	2	5	{65,90}	{2,60}
+1	7	armoredrider.ArmoredRiderTalentName07	armoredrider.ArmoredRiderTalentDes07	5273006	2	6	{65,180}	{2,61}
+1	8	armoredrider.ArmoredRiderTalentName08	armoredrider.ArmoredRiderTalentDes08	5273007	2	7	{65,300}	{2,62}
+1	9	armoredrider.ArmoredRiderTalentName09	armoredrider.ArmoredRiderTalentDes09	5273008	3		{65,30}	{1,1012}
+1	10	armoredrider.ArmoredRiderTalentName10	armoredrider.ArmoredRiderTalentDes10	5273009	3	9	{65,90}	{1,1013}
+1	11	armoredrider.ArmoredRiderTalentName11	armoredrider.ArmoredRiderTalentDes11	5273010	3	10	{65,180}	{1,1014}
+1	12	armoredrider.ArmoredRiderTalentName12	armoredrider.ArmoredRiderTalentDes12	5273011	3	11	{65,300}	{1,1015}

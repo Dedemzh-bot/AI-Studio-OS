@@ -1,0 +1,263 @@
+﻿Wwise事件	//描述	气泡文本key	角色的D	中配字幕延迟	中配字幕持续时长	日配字幕延迟	日配字幕持续时长	英配字幕延迟	英配字幕持续时长	韩配字幕延迟	韩配字幕持续时长
+WwiseEvent	Des	VoiceText	card_d	C_Delay	C_EndTime	J_Delay	J_EndTime	E_Delay	E_EndTime	K_Delay	K_EndTime
+//扭蛋seq											
+Play_Vo_girl015b_gacha001_042	分析员，来，一起摇摆啊~	speak.1215_gacha	15								
+Play_Vo_girl017a_gacha001_042	表演开始咯，当当！	speak.1117_gacha	17								
+Play_Vo_girl022_gacha001_042	我是我命运的主宰，夜色正美，不如与我漫步？	speak.1022_gacha	22								
+Play_Vo_girl008c_gacha001_042		speak.1308_gacha	8								
+Play_Vo_girl013b_gacha001_042		speak.1213_gacha	13								
+Play_Vo_girl023_gacha001_042		speak.1023_gacha	23								
+Play_Vo_girl006b_gacha001_042		speak.1206_gacha	6								
+Play_Vo_girl012b_gacha001_042	谁才是好喵~	speak.1212_gacha	12								
+Play_Vo_girl020a_gacha001_042	镜爻，开。乾转坤移，镜纳万象！卜卜是不是很厉害？	speak.1120_gacha	20								
+Play_Vo_girl001b_gacha001_042	万物相变，随你心意，变！哼~	speak.1201_gacha	1								
+Play_Vo_girl005c_gacha001_042	啊，茶冷了……来加热一下吧~亲爱的，请喝茶~	speak.1305_gacha	5								
+Play_Vo_girl024_gacha001_042	是分析员将妾身带回“人间”，所以，要对妾身负责啊。	speak.1024_gacha	24								
+Play_Vo_girl004c_gacha001_042	嗯！准备完毕！启动！哇——嗯？嘿嘿！	speak.1304_gacha	4								
+											
+//结算seq											
+Play_Vo_girl001_win001_026		speak.1001_rikiwin1	1								
+Play_Vo_girl001_win002_027		speak.1001_rikiwin2	1								
+Play_Vo_girl002_win001_026		speak.1002_rikiwin1	2								
+Play_Vo_girl002_win002_027		speak.1002_rikiwin2	2								
+Play_Vo_girl003_win001_026		speak.1003_rikiwin1	3								
+Play_Vo_girl003_win002_027		speak.1003_rikiwin2	3								
+Play_Vo_girl004_win001_026		speak.1004_rikiwin1	4								
+Play_Vo_girl004_win002_027		speak.1004_rikiwin2	4								
+Play_Vo_girl005_win001_026		speak.1005_rikiwin1	5								
+Play_Vo_girl005_win002_027		speak.1005_rikiwin2	5								
+Play_Vo_girl006_win001_026		speak.1006_rikiwin1	6								
+Play_Vo_girl006_win002_027		speak.1006_rikiwin2	6								
+Play_Vo_girl007_win001_026		speak.1007_rikiwin1	7								
+Play_Vo_girl007_win002_027		speak.1007_rikiwin2	7								
+Play_Vo_girl008_win001_026		speak.1008_rikiwin1	8								
+Play_Vo_girl008_win002_027		speak.1008_rikiwin2	8								
+Play_Vo_girl010_win001_026		speak.1010_rikiwin1	10								
+Play_Vo_girl010_win002_027		speak.1010_rikiwin2	10								
+Play_Vo_girl011_win001_026		speak.1011_rikiwin1	11								
+Play_Vo_girl011_win002_027		speak.1011_rikiwin2	11								
+Play_Vo_girl012_win001_026		speak.1012_rikiwin1	12								
+Play_Vo_girl012_win002_027		speak.1012_rikiwin2	12								
+Play_Vo_girl013_win001_026		speak.1013_rikiwin1	13								
+Play_Vo_girl013_win002_027		speak.1013_rikiwin2	13								
+Play_Vo_girl014_win001_026		speak.1014_rikiwin1	14								
+Play_Vo_girl014_win002_027		speak.1014_rikiwin2	14								
+Play_Vo_girl015_win001_026	过于简单了，哼。	speak.1015_rikiwin1	15								
+Play_Vo_girl015_win002_027	去找新目标吧。	speak.1015_rikiwin2	15								
+Play_Vo_girl016_win001_026	过于简单了，哼。	speak.1016_rikiwin1	16								
+Play_Vo_girl016_win002_027	去找新目标吧。	speak.1016_rikiwin2	16								
+Play_Vo_girl020_win001_026	这场胜利，嘿嘿，卜卜早就算到了~	speak.1020_rikiwin1	20								
+Play_Vo_girl020_win002_027	神机妙算，说的就是卜卜我嘛~	speak.1020_rikiwin2	20								
+Play_Vo_girl001a_win001_026		speak.1101_rikiwin1	1								
+Play_Vo_girl001a_win002_027		speak.1101_rikiwin2	1								
+Play_Vo_girl002a_win001_026		speak.1102_rikiwin1	2								
+Play_Vo_girl002a_win002_027		speak.1102_rikiwin2	2								
+Play_Vo_girl004a_win001_026		speak.1104_rikiwin1	4								
+Play_Vo_girl004a_win002_027		speak.1104_rikiwin2	4								
+Play_Vo_girl005a_win001_026		speak.1105_rikiwin1	5								
+Play_Vo_girl005a_win002_027		speak.1105_rikiwin2	5								
+Play_Vo_girl006a_win001_026		speak.1106_rikiwin1	6								
+Play_Vo_girl006a_win002_027		speak.1106_rikiwin2	6								
+Play_Vo_girl007a_win001_026	我做到了吗……	speak.1107_rikiwin1	7								
+Play_Vo_girl007a_win002_027	您看到了吗？	speak.1107_rikiwin2	7								
+Play_Vo_girl008a_win001_026		speak.1108_rikiwin1	8								
+Play_Vo_girl008a_win002_027		speak.1108_rikiwin2	8								
+Play_Vo_girl010a_win001_026		speak.1110_rikiwin1	10								
+Play_Vo_girl010a_win002_027		speak.1110_rikiwin2	10								
+Play_Vo_girl011a_win001_026		speak.1111_rikiwin1	11								
+Play_Vo_girl011a_win002_027		speak.1111_rikiwin2	11								
+Play_Vo_girl012a_win001_026		speak.1112_rikiwin1	12								
+Play_Vo_girl012a_win002_027		speak.1112_rikiwin2	12								
+Play_Vo_girl013a_win001_026		speak.1113_rikiwin1	13								
+Play_Vo_girl013a_win002_027		speak.1113_rikiwin2	13								
+Play_Vo_girl014a_win001_026		speak.1114_rikiwin1	14								
+Play_Vo_girl014a_win002_027		speak.1114_rikiwin2	14								
+Play_Vo_girl015a_win001_026		speak.1115_rikiwin1	15								
+Play_Vo_girl015a_win002_027		speak.1115_rikiwin2	15								
+Play_Vo_girl017_win001_026		speak.1017_rikiwin1	17								
+Play_Vo_girl017_win002_027		speak.1017_rikiwin2	17								
+Play_Vo_girl018_win001_026		speak.1018_rikiwin1	18								
+Play_Vo_girl018_win002_027		speak.1018_rikiwin2	18								
+Play_Vo_girl002b_win001_026		speak.1202_rikiwin1	2								
+Play_Vo_girl002b_win002_027		speak.1202_rikiwin2	2								
+Play_Vo_girl004b_win001_026	分析员，你快看看我有没有进步啊？（接一个笑声）	speak.1204_rikiwin1	4								
+Play_Vo_girl004b_win002_027	怎么样，芙提雅老师是不是特别可靠？（接一个笑声）	speak.1204_rikiwin2	4								
+Play_Vo_girl005b_win001_026	请……继续注视我。（轻笑）	speak.1205_rikiwin1	5								
+Play_Vo_girl005b_win002_027	还不够呢……	speak.1205_rikiwin2	5								
+Play_Vo_girl008b_win001_026	你的目光，永远由我来主宰！	speak.1208_rikiwin1	8								
+Play_Vo_girl008b_win002_027	我想听的，是你只为我喝彩！	speak.1208_rikiwin2	8								
+Play_Vo_girl014b_win001_026		speak.1214_rikiwin1	14								
+Play_Vo_girl014b_win002_027		speak.1214_rikiwin2	14								
+Play_Vo_girl010b_win001_026	好累……就给我稍微靠一下嘛。	speak.1210_rikiwin1	10								
+Play_Vo_girl010b_win002_027	快来……我需要充电才能继续。	speak.1210_rikiwin2	10								
+Play_Vo_girl011b_win001_026	别担心，我不会被这些意识动摇。	speak.1211_rikiwin1	11								
+Play_Vo_girl011b_win002_027	结束了，我们一起平安离开这里。	speak.1211_rikiwin2	11								
+Play_Vo_girl002a_01_win001_026		speak.110201_rikiwin1	2								
+Play_Vo_girl002a_01_win002_027		speak.110201_rikiwin2	2								
+Play_Vo_girl021_win001_026	战斗结束，还有更有挑战性的任务吗？	speak.1021_rikiwin1	21								
+Play_Vo_girl021_win002_027	出手果断，这是我对敌人最大的仁慈。	speak.1021_rikiwin2	21								
+Play_Vo_girl003a_win001_026	胜利时刻，来段庆祝的鼓点吧。	speak.1103_rikiwin1	3								
+Play_Vo_girl003a_win002_027	这种时候，果然还是得热闹点！	speak.1103_rikiwin2	3								
+Play_Vo_girl018a_win001_026	最好的侦探，（自信轻笑）不会有任何遗漏！	speak.1118_rikiwin1	18								
+Play_Vo_girl018a_win002_027	现场勘查完成，(自信轻笑)谜底马上揭晓！	speak.1118_rikiwin2	18								
+Play_Vo_girl004a_02_win001_026	收工回家…诶！？不准抢跑，等等我！	speak.110401_rikiwin1	4								
+Play_Vo_girl004a_02_win002_027	分析员，任务完……哎哟！是谁……诶！站住！别跑！	speak.110401_rikiwin2	4								
+Play_Vo_girl006a_02_win001_026	以前，我从没留意过这些。	speak.110601_rikiwin1	6								
+Play_Vo_girl006a_02_win002_027	这就是花朵凋零的样子吗？	speak.110601_rikiwin2	6								
+Play_Vo_girl011_02_win001_026	嘿咻~分析员，这次是我们赢了哦。	speak.101101_rikiwin1	11								
+Play_Vo_girl011_02_win002_027	哎嘿~不要小瞧姐姐的实力哦。	speak.101101_rikiwin2	11								
+Play_Vo_girl012a_02_win001_026	任务已经结束了吧。	speak.111201_rikiwin1	12								
+Play_Vo_girl012a_02_win002_027	前往下一处标点吧。	speak.111201_rikiwin2	12								
+Play_Vo_girl014a_03_win001_026	此次经历，值得铭记。	speak.111401_rikiwin1	14								
+Play_Vo_girl002a_03_win001_026	你不会停下脚步，我也是。（笑）	speak.110202_rikiwin1	2								
+Play_Vo_girl002a_03_win002_027	我不擅长跳舞，但此刻，我想试试。（笑）	speak.110202_rikiwin2	2								
+Play_Vo_girl008a_03_win001_026	比起绕过障碍，我更喜欢闯过它。	speak.110801_rikiwin1	8								
+Play_Vo_girl008a_03_win002_027	闪闪发光的舞台，又多了一个。	speak.110801_rikiwin2	8								
+Play_Vo_girl017_02_win001_026	兔兔魔术师在谢幕的时候也会保持优雅~	speak.101701_rikiwin1	17	0.1	4						
+Play_Vo_girl017_02_win002_027	我今天表现还不错吧！夸夸我呗！	speak.101701_rikiwin2	17								
+Play_Vo_girl015_02_win001_026	嗯，恰到好处的落幕。	speak.101501_rikiwin1	15								
+Play_Vo_girl015_02_win002_027	都解决了，我们回去吧。	speak.101501_rikiwin2	15								
+Play_Vo_girl004a_03_win001_026	快点带队回去吧~	speak.110402_rikiwin1	4								
+Play_Vo_girl004a_03_win002_027	回去一起烤火吧~	speak.110402_rikiwin2	4								
+Play_Vo_girl001a_03_win001_026	战斗后耍帅是英雄的权利！	speak.110102_rikiwin1	1								
+Play_Vo_girl001a_03_win002_027	胜利姿势要符合角色设定~	speak.110102_rikiwin2	1								
+Play_Vo_girl016_02_win001_026	我没有弄脏新衣服哦！	speak.101601_rikiwin1	16								
+Play_Vo_girl016_02_win002_027	我这次有乖乖听指挥的~	speak.101601_rikiwin2	16								
+Play_Vo_girl008a_04_win001_026	xiu~统统倒下吧。	speak.110803_rikiwin1	8								
+Play_Vo_girl008a_04_win002_027	（笑）甜度满分！	speak.110803_rikiwin2	8								
+Play_Vo_girl007a_02_win001_026	善后工作，就交给我吧！	speak.110702_rikiwin1	7								
+Play_Vo_girl007a_02_win002_027	不好的东西，都解决掉了。	speak.110702_rikiwin2	7								
+Play_Vo_girl011a_02_win001_026	结束了，大家都没有受伤吧？	speak.111102_rikiwin1	11								
+Play_Vo_girl011a_02_win002_027	有不舒服的地方要告诉我哦~	speak.111102_rikiwin2	11								
+Play_Vo_girl013a_02_win001_026	无论忘记多少遍，我也依然是我！	speak.111302_rikiwin1	13								
+Play_Vo_girl013a_02_win002_027	美好总是短暂，这就是记录的价值！	speak.111302_rikiwin2	13								
+Play_Vo_girl002b_02_win001_026	我很庆幸，冰雪的尽头是你在等我。	speak.120202_rikiwin1	2								
+Play_Vo_girl002b_02_win002_027	到这一刻，我心中的坚冰彻底消融。	speak.120202_rikiwin2	2								
+Play_Vo_girl008b_02_win001_026	绝不会把你让给其他人~	speak.120802_rikiwin1	8								
+Play_Vo_girl008b_02_win002_027	你是本小姐唯一的舞台~	speak.120802_rikiwin2	8								
+Play_Vo_girl005a_03_win001_026	任务完成（冷静汇报），（语气突然暧昧）我在老地方等你（加个轻轻笑声）~	speak.110503_rikiwin1	5								
+Play_Vo_girl005a_03_win002_027	行动结束（冷静汇报），（突然换成娇羞语气）等下终于能见面了（加个害羞笑声）。	speak.110503_rikiwin2	5								
+Play_Vo_girl014a_04_win001_026	若你呼唤，我便踏轻风而归~	speak.111404_rikiwin1	14								
+Play_Vo_girl014a_04_win002_027	天涯海角，亦有辰星相随~	speak.111404_rikiwin2	14								
+Play_Vo_girl018_02_win001_026	我会为了你……付出更多！	speak.101802_rikiwin1	18								
+Play_Vo_girl018_02_win002_027	请继续注视我……再多一会！	speak.101802_rikiwin2	18								
+Play_Vo_girl005b_02_win001_026	防晒霜？如果……是分析员来……	speak.120502_rikiwin1	5								
+Play_Vo_girl005b_02_win002_027	按摩？好的，请……用力一些……	speak.120502_rikiwin2	5								
+Play_Vo_girl015a_02_win001_026	无趣的工作就到此为止吧。	speak.111502_rikiwin1	15								
+Play_Vo_girl015a_02_win002_027	去做点更刺激的事情怎么样？	speak.111502_rikiwin2	15								
+Play_Vo_girl011a_03_win001_026	（伸懒腰）嗯~~（被滋水）诶？（转身教育）淘气~	speak.111103_rikiwin1	11								
+Play_Vo_girl011a_03_win002_027	（伸懒腰）嗯~~（被滋水）诶？（转身教育）你呀你呀~	speak.111103_rikiwin2	11								
+Play_Vo_girl004b_02_win001_026	食物充足的话，熊熊是不用冬眠的！	speak.120402_rikiwin1	4								
+Play_Vo_girl004b_02_win002_027	不管什么季节，都要注意营养均衡！	speak.120402_rikiwin2	4								
+Play_Vo_girl013a_04_win001_026	把不开心的记忆写在纸飞机上，就这样飞走吧！	speak.111304_rikiwin1	13								
+Play_Vo_girl013a_04_win002_027	偶尔一起做点幼稚的事，真的很有趣哈哈~	speak.111304_rikiwin2	13								
+Play_Vo_girl016_04_win001_026	嘿嘿~留下伊切尔的标记！嘿！诶？哼！	speak.101604_rikiwin1	16								
+Play_Vo_girl016_04_win002_027	嘎嗷~伊切尔画画进步了！嘿！诶？哼！	speak.101604_rikiwin2	16								
+Play_Vo_girl007a_05_win001_026	分析员……喜欢这样的琴诺吗？	speak.110705_rikiwin1	7								
+Play_Vo_girl007a_05_win002_027	琴诺……有变得更优雅了吗？呵呵~	speak.110705_rikiwin2	7								
+Play_Vo_girl014b_02_win001_026	如此佳酿，（轻笑）自当与郎君共饮。	speak.121402_rikiwin1	14								
+Play_Vo_girl014b_02_win002_027	喜事盈门，（轻笑）我愿与郎君相庆。	speak.121402_rikiwin2	14								
+Play_Vo_girl010b_02_win001_026	郎君，让你久等啦~	speak.121002_rikiwin1	10	5	3						
+Play_Vo_girl010b_02_win002_027	养精蓄锐，只待良宵~	speak.121002_rikiwin2	10	5	3						
+Play_Vo_girl008b_03_win001_026	敲锣打鼓，狮子起舞~	speak.120803_rikiwin1	8								
+Play_Vo_girl008b_03_win002_027	芬妮舞狮到，祝你福星照~	speak.120803_rikiwin2	8								
+Play_Vo_girl011b_02_win001_026	所有幸福、快乐……全部属于你。	speak.121102_rikiwin1	11								
+Play_Vo_girl011b_02_win002_027	我的道标与信仰……只会是你。	speak.121102_rikiwin2	11								
+Play_Vo_girl005b_03_win001_026	会伪装自己的，才是优秀的猎手~	speak.120503_rikiwin1	5								
+Play_Vo_girl005b_03_win002_027	能抓住我的，果然只有分析员你……	speak.120503_rikiwin2	5								
+Play_Vo_girl018_03_win001_026	刚刚有动作失误？那……重来一遍？	speak.101803_rikiwin1	18								
+Play_Vo_girl018_03_win002_027	还想再看一支舞？嗯，我很乐意~	speak.101803_rikiwin2	18								
+Play_Vo_girl003a_02_win001_026	就像抓住这片树叶一样简单，嘿~	speak.110302_rikiwin1	3								
+Play_Vo_girl003a_02_win002_027	和在森林里散步没什么区别，哼哼~	speak.110302_rikiwin2	3								
+Play_Vo_girl021_02_win001_026	（落地的气息音）战场总是如此，不是吗。	speak.102102_rikiwin1	21								
+Play_Vo_girl021_02_win002_027	（落地的气息音）漂亮的指挥，令人赞叹。	speak.102102_rikiwin2	21								
+Play_Vo_girl015a_04_win001_026	嗯？（轻笑）下次，要选更适合我的哦？	speak.111504_rikiwin1	15								
+Play_Vo_girl015a_04_win002_027	哦？（轻笑）比起战斗，你更想要别的吧？	speak.111504_rikiwin2	15								
+Play_Vo_girl020_02_win001_026	头痛医头，腿疼治腿，就这么简单！	speak.102002_rikiwin1	20								
+Play_Vo_girl020_02_win002_027	早睡早起，多喝热水，要遵守医嘱哦！	speak.102002_rikiwin2	20								
+Play_Vo_girl010a_04_win001_026	家务和战斗，都要速战速决。	speak.111004_rikiwin1	10								
+Play_Vo_girl010a_04_win002_027	努力工作，争取准点一起回家。	speak.111004_rikiwin2	10								
+Play_Vo_girl018a_02_win001_026	优雅又成熟的我，分析员一定——哇啊！会喜欢吧……	speak.111802_rikiwin1	18								
+Play_Vo_girl018a_02_win002_027	就这样捕获……分析员的心——哇啊！再来一条吧……	speak.111802_rikiwin2	18								
+Play_Vo_girl004b_04_win001_026	嘿~嘟嘟！现在是芙提雅老师的主场！	speak.120404_rikiwin1	4								
+Play_Vo_girl004b_04_win002_027	嘻嘻~嘟嘟！犯规的人可逃不过我的眼睛！	speak.120404_rikiwin2	4								
+Play_Vo_girl014b_03_win001_026	风光正好，不如与我一起出游吧。	speak.121403_rikiwin1	14								
+Play_Vo_girl014b_03_win002_027	在你身边，世界才会如此明媚动人。	speak.121403_rikiwin2	14								
+Play_Vo_girl015b_win001_026	登临高点，夺取胜利，呵，轻而易举~	speak.1215_rikiwin1	15								
+Play_Vo_girl015b_win002_027	我会为你摘得胜果，一如既往。	speak.1215_rikiwin2	15								
+Play_Vo_girl015b_02_win001_026	接下来，该好好享受只属于我们的时间了。	speak.121502_rikiwin1	15								
+Play_Vo_girl015b_02_win002_027	我很期待，你会有什么让我惊喜的安排。	speak.121502_rikiwin2	15								
+Play_Vo_girl017a_win001_026	任务结束，嘿~一起休息一下吧！	speak.1117_rikiwin1	17								
+Play_Vo_girl017a_win002_027	轻轻松松，嘿~来一个小惊喜吧！	speak.1117_rikiwin2	17								
+Play_Vo_girl017a_02_win001_026	这是为你准备的，最盛大的庆祝魔术~	speak.111702_rikiwin1	17								
+Play_Vo_girl017a_02_win002_027	用最欢乐的笑容，祝福我们幸福的未来~	speak.111702_rikiwin2	17								
+Play_Vo_girl011b_03_win001_026	放松一下，来尝尝新鲜出炉的蛋糕吧~	speak.121103_rikiwin1	11								
+Play_Vo_girl011b_03_win002_027	点心时间，要不要来一杯热牛奶呢？	speak.121103_rikiwin2	11								
+Play_Vo_girl020_03_win001_026	哪里跑——哎呦！嘿！逃不出我的手心~	speak.102003_rikiwin1	20								
+Play_Vo_girl020_03_win002_027	别跑啊——哎呦！哼，可别小看我啊~	speak.102003_rikiwin2	20								
+Play_Vo_girl015_04_win001_026	工作结束，接下来可要好好放松一下。	speak.101504_rikiwin1	15								
+Play_Vo_girl015_04_win002_027	任务完成，庆祝的地方我已经定好了。	speak.101504_rikiwin2	15								
+Play_Vo_girl010a_03_win001_026	呼，该去好好游个泳了。	speak.111003_rikiwin1	10								
+Play_Vo_girl010a_03_win002_027	收工，别忘了我的加班费。	speak.111003_rikiwin2	10								
+Play_Vo_girl022_win001_026	请看着……重获新生的我。	speak.1022_rikiwin1	22								
+Play_Vo_girl022_win002_027	这便是……胜利的芬芳。	speak.1022_rikiwin2	22								
+Play_Vo_girl022_02_win001_026	战场，也可以很从容……	speak.102202_rikiwin1	22								
+Play_Vo_girl022_02_win002_027	胜利，让人渴望更多……	speak.102202_rikiwin2	22								
+Play_Vo_girl003a_03_win001_026	这才是——真正的胜利之舞。	speak.110303_rikiwin1	03								
+Play_Vo_girl003a_03_win002_027	让我为你，献上最美的舞姿。	speak.110303_rikiwin2	03								
+Play_Vo_girl010b_03_win001_026	盔甲还是有点重啊，呼~诶？嘿嘿我玩玩这个！	speak.121003_rikiwin1	10								
+Play_Vo_girl010b_03_win002_027	哎呀肩膀都酸了，呼~嗯？这个好像很有趣！	speak.121003_rikiwin2	10								
+Play_Vo_girl008c_02_win001_026		speak.130802_rikiwin1	8								
+Play_Vo_girl008c_02_win002_027		speak.130802_rikiwin2	8								
+Play_Vo_girl008c_win001_026		speak.1308_rikiwin1	8								
+Play_Vo_girl008c_win002_027		speak.1308_rikiwin2	8								
+Play_Vo_girl013b_02_win001_026		speak.121302_rikiwin1	13								
+Play_Vo_girl013b_02_win002_027		speak.121302_rikiwin2	13								
+Play_Vo_girl013b_win001_026		speak.1213_rikiwin1	13								
+Play_Vo_girl013b_win002_027		speak.1213_rikiwin2	13								
+Play_Vo_girl018a_03_win001_026		speak.111803_rikiwin1	18								
+Play_Vo_girl018a_03_win002_027		speak.111803_rikiwin2	18								
+Play_Vo_girl021_03_win001_026		speak.102103_rikiwin1	21								
+Play_Vo_girl021_03_win002_027		speak.102103_rikiwin2	21								
+Play_Vo_girl023_win001_026		speak.1023_rikiwin1	23								
+Play_Vo_girl023_win002_027		speak.1023_rikiwin2	23								
+Play_Vo_girl006b_win001_026		speak.1206_rikiwin1	6								
+Play_Vo_girl006b_win002_027		speak.1206_rikiwin2	6								
+Play_Vo_girl023_02_win001_026		speak.102302_rikiwin1	23								
+Play_Vo_girl023_02_win002_027		speak.102302_rikiwin2	23								
+Play_Vo_girl006b_02_win001_026		speak.120602_rikiwin1	6								
+Play_Vo_girl006b_02_win002_027		speak.120602_rikiwin2	6								
+Play_Vo_girl015b_03_win001_026		speak.121503_rikiwin1	15								
+Play_Vo_girl015b_03_win002_027		speak.121503_rikiwin2	15								
+Play_Vo_girl012b_win001_026	将我的全部……献给你喵。	speak.1212_rikiwin1	12								
+Play_Vo_girl012b_win002_027	在这里喵~	speak.1212_rikiwin2	12								
+Play_Vo_girl020a_win001_026	分析员……找到你了！	speak.1120_rikiwin1	20								
+Play_Vo_girl020a_win002_027	让我看看……作战成功！	speak.1120_rikiwin2	20								
+Play_Vo_girl012b_02_win001_026	轻松搞定喵~一起放松一下吧？	speak.121202_rikiwin1	12								
+Play_Vo_girl012b_02_win002_027	可喜可贺可喜可贺~愿景实现了喵。	speak.121202_rikiwin2	12								
+Play_Vo_girl020a_02_win001_026	我准备的变身口号，还没来得及念出来呢！	speak.112002_rikiwin1	20								
+Play_Vo_girl020a_02_win002_027	与分析员的羁绊之力，果然可以战胜一切呢。	speak.112002_rikiwin2	20								
+Play_Vo_girl008c_03_win001_026	耶~幸福的未来，已经被宣告！	speak.130803_rikiwin1	8								
+Play_Vo_girl008c_03_win002_027	锵锵！特别的爱，送给你！	speak.130803_rikiwin2	8								
+Play_Vo_girl001b_win001_026	嗯？呵，亲爱的喜欢就好。	speak.1201_rikiwin1	1								
+Play_Vo_girl001b_win002_027	哎？算了，先和亲爱开一把好了。	speak.1201_rikiwin2	1								
+Play_Vo_girl005c_win001_026	我的这些嫁妆，有帮到亲爱的吗？	speak.1305_rikiwin1	5								
+Play_Vo_girl005c_win002_027	无论是军火还是我，都任亲爱的支配。	speak.1305_rikiwin2	5								
+Play_Vo_girl001b_02_win001_026	月有万相——我心唯你。	speak.120102_rikiwin1	1								
+Play_Vo_girl001b_02_win002_027	我会前往——有你的时代，亲爱的。	speak.120102_rikiwin2	1								
+Play_Vo_girl005c_02_win001_026	这是昭示幸福的信号弹哦~	speak.130502_rikiwin1	5								
+Play_Vo_girl005c_02_win002_027	我会永远铭记此刻，亲爱的~	speak.130502_rikiwin2	5								
+Play_Vo_girl013b_03_win001_026	咦，飞去哪儿了……啊！要准备回家啦~	speak.121303_rikiwin1	13								
+Play_Vo_girl013b_03_win002_027	嗯？哎？也不用追这么远吧！	speak.121303_rikiwin2	13								
+Play_Vo_girl023_03_win001_026	哇呼~嘿！分析员，我刚刚的表现怎么样？	speak.102303_rikiwin1	23								
+Play_Vo_girl023_03_win002_027	起跳~降落！嘻嘻，像是飞起来了一样呢~	speak.102303_rikiwin2	23								
+Play_Vo_girl024_win001_026	开始有趣起来了，呵呵~	speak.1024_rikiwin1	24								
+Play_Vo_girl024_win002_027	不负分析员所期，呵呵~	speak.1024_rikiwin2	24								
+Play_Vo_girl024_02_win001_026	妾身还可以再跳多几支舞哦，分析员~	speak.102402_rikiwin1	24								
+Play_Vo_girl024_02_win002_027	活动开身体之后，开始想要更多了呢……	speak.102402_rikiwin2	24								
+Play_Vo_girl004c_win001_026	去吧！大师魔方！咳咳咳……嘿嘿看来失败了。	speak.1304_rikiwin1	4								
+Play_Vo_girl004c_win002_027	看看我的秘密武器！咳咳咳……还有优化空间。	speak.1304_rikiwin2	4								
+Play_Vo_girl004c_02_win001_026	本国主~可是~最聪明的~	speak.130402_rikiwin1	4								
+Play_Vo_girl004c_02_win002_027	这都是~本国主~打下的江山！	speak.130402_rikiwin2	4								
+Play_Vo_girl006b_03_win001_026	一叶，亦一世界！	speak.120603_rikiwin1	6								
+Play_Vo_girl006b_03_win002_027	一招，可化万千！	speak.120603_rikiwin2	6								

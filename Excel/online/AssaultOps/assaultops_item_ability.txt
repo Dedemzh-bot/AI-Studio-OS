@@ -1,0 +1,13 @@
+﻿效果ID	备注	激光样式1-红色 2-绿色 3-蓝色	附加参数1（释放辅助提示技能ID）	附加参数2（释放准备时间）	使用时附加的Buff,填数组{}	物件持续时间(0或不填为永久存在）	使用次数	冷却时间	特殊效果（1技能ID、2蓝图ID、3NPCID）	特殊效果描述Key	特殊效果描述中的数值	是否唯一
+Id	Common	LightType	Param1	Param2	AddBuffs	Duration	UseTime	CDTime	SpEffect	SpDesc	SpDescValue	OnlyOne
+1	重烈爆破：空投1枚重型炸弹，产生1次大范围爆炸，造成大量伤害，有友伤	1	3501401	1		5	2	60	{1,3520101}	online.Forbidzone_WeaponSpEffect1	100	
+2	广面爆破：从信号点向前，安排投放小型炸弹，造成多次小范围伤害，有友伤	1	3501401	1		5	2	60	{1,3520201}	online.Forbidzone_WeaponSpEffect1	100	
+3	轨道光束：引导巨大激光束射向指定坐标，在6秒内持续对地方目标造成伤害，具备一定追踪能力，有友伤	1	3501401	1		5	2	60	{1,3520301}	online.Forbidzone_WeaponSpEffect1	100	
+4	精确打击：轨道激光炮更为精确，在6秒内每秒发射2次光束，每次光束造成65000/75000点固定伤害，攻击锚点附近的随机敌人，锁定攻击到相同的目标，不会锁定到友方	1	3501401	1		5	2	60	{1,3520401}	online.Forbidzone_WeaponSpEffect1	100	
+101	机枪无人机：布置1架机枪无人机跟随自身，使用机枪自动攻击周围敌方目标	2	3501402	2		20	1	40	{3,4601301}	online.Forbidzone_WeaponSpEffect1	20	1
+102	导弹无人机：布置1架导弹无人机，周期性发射密集导弹攻击敌人所在位置，存在一定时间后自动撤除	2	3501402	2		20	1	40	{3,4601602}	online.Forbidzone_WeaponSpEffect1	20	1
+103	激光无人机：布置1架激光无人机，锁定目标后持续向目标方向攻击	2	3501402	2		20	1	40	{3,4601304}	online.Forbidzone_WeaponSpEffect1	20	1
+104	热熔无人机：布置1架热熔射线无人机，锁定目标后持续向目标方向攻击	2	3501402	2		20	1	40	{3,4602304}	online.Forbidzone_WeaponSpEffect1	20	1
+201	电磁炮塔	2	3501402	2		300	1	15	{3,461590801}	online.Forbidzone_WeaponSpEffect1	20	
+202	大地碎裂炮	2	3501402	2		300	1	15	{3,461990801}	online.Forbidzone_WeaponSpEffect1	20	
+203	爆弹发射器	2	3501402	2		300	1	15	{3,461890801}	online.Forbidzone_WeaponSpEffect1	20	

@@ -1,0 +1,89 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	安静的博物馆内回荡着少女急促而轻快的脚步声。	安靜的博物館內迴盪著少女急促而輕快的腳步聲。	静かな博物館に、シーリスの軽やかな足音が響き渡った。	조용한 박물관 안, 소녀의 다급하면서도 경쾌한 발걸음 소리가 울려 퍼졌다.	Her light, brisk footsteps echoed through the quiet museum halls.						0	3.2主线剧情
+2	就在几秒前，她刚刚收获了恋人的回应，如果可以，好想现在就奔赴去他的身边。	就在幾秒前，她剛剛收穫了戀人的回應，如果可以，好想現在就奔到他的身邊。	本当は、今すぐにでも彼の元へ駆けつけたかった。	불과 몇 초 전에 연인의 답장을 받은 그녀는, 가능하다면 지금 당장이라도 그의 곁으로 질주하고 싶었다.	Just moments ago, the one she loved had returned her feelings. If she could've, she'd have run straight into his arms.						0	3.2主线剧情
+3	但眼下还有更重要的事情……	但現在還有更重要的事情……	でも、今はもっと大事な用件がある。	하지만 지금은 더 중요한 일이 있다…	But right now, there was something more urgent to handle.						0	3.2主线剧情
+4	很快，瑟瑞斯就来到了SpH-L12的花根所在。	很快，瑟瑞斯就來到了SpH-L12的花根所在。	SpH-L12の根っこがある場所にたどり着くのに、さほど時間がかからなかった。	세리스는 곧바로 SpH-L12의 꽃 뿌리가 있는 곳에 도착했다.	Before long, Siris arrived at the growth pod containing the remains of the SpH-L12 plant.						0	3.2主线剧情
+5	四周弥漫着细密的粉末，让人视线有些模糊，好在瑟瑞斯现在已经有了抗体，便大胆地上前观察起来。	四周瀰漫著細密的粉末，讓人視線有點模糊，好在瑟瑞斯現在已經有了抗體，便大膽地上前觀察起來。	宙に浮かんでいる細かい粉末で視界が少しぼやけたが、もう抗体を持っているから怖くないと思ったのか、彼女は培養器に思いっきり顔を近づけて、観察した。	사방에 자욱하게 퍼진 미세 가루 때문에 시야가 흐릿했지만, 다행히도 이미 항체가 생긴 세리스는 용기 있게 다가가 관찰할 수 있었다.	A fine mist of motes hung in the air, blurring the edges of her vision. But now that she had antibodies in her system, she stepped forward without hesitation.						0	3.2主线剧情
+6	粗壮的灰蓝茎干早就突破了培养仓的束缚，玻璃碎片散了一地。	粗壯的灰藍莖幹早就突破了培養艙的束縛，玻璃碎片散了一地。	灰青色の太い茎が培養器を突き破ったせいで、ガラスの破片は床一面に散らばっていた。	굵은 청회색 줄기는 육성 캡슐의 구속에서 벗어난 지 오래된 듯했고, 유리 파편이 바닥에 널브러져 있었다.	The plant's thick, gray-blue stalk had long ago broken through the confines of the pod, shattered glass lay scattered across the floor.						0	3.2主线剧情
+7	咔——咔……	咔——咔……	パリッ……パリッ……	바스락… 바스락…	Crack... crunch...						0	3.2主线剧情
+8	瑟瑞斯踩在铺在地上、已经干枯的巨大叶片上，脚下不断传来窸窸窣窣的破裂声。	瑟瑞斯踩在鋪在地上、已經乾枯的巨大葉片上，腳下不斷傳來窸窸窣窣的破裂聲。	床に広がった巨大な枯れ葉の上に足を踏むと、足下から破裂音が聞こえてきた。	세리스가 바닥에 가득 깔린, 메마르고 거대한 잎사귀를 밟자, 발밑에서 바스락거리는 소리가 계속 들려왔다.	Her boots pressed down on the brittle, dried leaves strewn across the tiles.						0	3.2主线剧情
+9	从中心不算大的黑洞来看，确实有孢子成熟并脱离母体的痕迹。	從中心不算大的黑洞來看，確實有孢子成熟並脫離母體的痕跡。	培養器の表面にぽっかりと開いた穴からして、確かに子個体が成熟して母体から離れた痕跡があった。	중간에 그리 크지 않은 검은 구멍이 난 걸 보니, 성숙기에 접어든 포자가 모체에서 분리된 흔적인 듯했다.	A hollow in the center of the plant confirmed it: a spore had fully matured and dispersed.						0	3.2主线剧情
+10	瑟瑞斯小心翼翼地拿出注射装置，在花根处取得满满一管“退化酶”。	瑟瑞斯小心翼翼地拿出注射裝置，在花根處取得滿滿一管「退化酶」。	シーリスは慎重に注射装置を取り出し、根っこから「退化酵素」を注射管いっぱい採取した。	세리스는 조심스럽게 주사 장치를 꺼내, 꽃 뿌리 부분에서 '퇴화 효소'를 가득 추출했다.	Siris carefully withdrew a syringe and extracted a full tube of regression enzyme from the root at the base of the stalk.						0	3.2主线剧情
+11	蓝色的液体在透明管壁中散发着淡淡的荧光。	藍色的液體在透明管壁中散發著淡淡的熒光。	青い液体は透明な管の中で淡く蛍光を放っていた。	파란색 액체가 투명한 관 속에서 희미한 형광을 발산했다.	The blue solution glowed faintly inside the transparent tube.						0	3.2主线剧情
+12	这样的话应该就可以了吧？	這樣的話應該就可以了吧？	よし、これで大丈夫なはず。	이 정도면 됐겠지?	That should do it.						0	3.2主线剧情
+13	赶紧去酒店大厅和分析员汇合吧。	趕快去飯店大廳和分析員會合吧。	早くロビーへ戻って分析員たちと合流しないと。	어서 호텔 로비로 가서 분석가님을 만나야겠어.	Time to head to the lobby and meet up with the Adjutant.						0	3.2主线剧情
+14	就在瑟瑞斯沿着原路返回时，一声惨叫传来，吓得瑟瑞斯立刻止住了脚步。	就在瑟瑞斯沿著原路返回時，一聲慘叫傳來，嚇得瑟瑞斯立刻止住了腳步。	引き返そうとしたとき、突然悲鳴が聞こえた。その声に、シーリスはびっくりして足を止めた。	왔던 길로 되돌아가던 그때 누군가의 비명이 들려왔고, 깜짝 놀란 세리스는 곧바로 발걸음을 멈췄다.	Just as she had started her way back, a sharp scream pierced the silence, freezing her mid-step.						0	3.2主线剧情
+15	啊——！	啊——！	きゃあああーー！	꺄악!	Aah—!						0	3.2主线剧情
+16	这好像是米娅的声音？	這好像是米婭的聲音？	今のは、ミアさんの声……？	미아의 목소리 같은데?	Was that Mia!?						0	3.2主线剧情
+17	心脏在胸腔里急促地跳动着。	心臟在胸腔裡急促地跳動著。	シーリスの鼓動が一気に早くなった。	가슴속에서 심장이 쿵쿵 날뛰었다.	Siris felt her heartbeat quicken.						0	3.2主线剧情
+18	在确定声音来源于大厅方向后，瑟瑞斯拿出了比刚才更快的速度，跑向了目的地。	在確定聲音來源於大廳方向後，瑟瑞斯拿出了比剛才更快的速度，跑向了目的地。	声はロビーのほうから聞こえた。シーリスはさっきよりも速くロビーへ急いだ。	로비 쪽에서 난 소리임을 확인하고, 세리스는 아까보다 더 빠른 속도로 그곳을 향해 달렸다.	The scream had come from the direction of the hotel lobby — without wasting another second, she broke into a full sprint.						0	3.2主线剧情
+19	尖叫同样惊动了我和芬妮。	尖叫同樣驚動了我和芬妮。	ロビーの方から悲鳴が聞こえた。	그 비명에 나와 페니도 깜짝 놀랐다.	The scream had also rattled Fenny and me.						0	3.2主线剧情
+20	怎么回事？	怎麼回事？	一体何かしら……	무슨 일이지?	What was that?						0	3.2主线剧情
+21	她微微蹙眉，脚下的动作不慢反快。	她微微皺眉，腳下的動作不慢反快。	となりのファニーは眉をひそめて、歩みを速めた。	그녀는 미간을 살짝 찌푸리더니 발걸음을 더 재촉했다.	Fenny frowned and picked up her pace without hesitation.						0	3.2主线剧情
+22	奈莉德和米娅那边怕是出了意外，我们得再快些了。	奈莉德和米婭那邊恐怕是出意外了，我們得再快點了。	ネリーダとミアのほうで何かが起きたのかもしれない。急ぐぞ。	네리다와 미아한테 무슨 일이 생겼나 본데, 더 서둘러야겠어.	Something must be going on with Mia and Nerida. We need to hurry.						0	3.2主线剧情
+23	等我们火急火燎冲到大厅，眼前的一切却又让我们摸不着头脑。	等我們火速地衝到大廳，眼前的一切卻又讓我們摸不著頭緒。	慌ててロビーに駆けつけると、目の前の光景に私たちは困惑した。	로비 쪽으로 부랴부랴 달려간 우리는 눈앞의 광경에 어리둥절해졌다.	We rushed into the lobby — only to be met with a baffling scene.						0	3.2主线剧情
+24	只看到一个表面带着淡淡的荧光的蓝色圆球飘浮在空中，每挪动一下，就会发生咕噜咕噜的奇怪声响。	只看到一個表面帶著淡淡螢光的藍色圓球飄浮在空中，每移動一下，就會發生咕嚕咕嚕的奇怪聲響。	淡い蛍光を放つ青い球体が空中に浮かび、動くたびに「クルル」という奇妙な音を立てた。	희미한 형광색을 띠는 파란색 구체가 공중에 떠 있었고, 살짝 움직일 때마다 '꾸륵꾸륵' 하는 이상한 소리가 났다.	A faintly glowing blue sphere hovered mid-air, wobbling gently as it emitted odd, blooping sounds with each bob.						0	3.2主线剧情
+25	这个家伙！不就是……	這個傢伙！不就是……	あれって、もしかして！	이 녀석은…!	Wait, is that...!?						0	3.2主线剧情
+26	芬妮惊呼后，米娅才意识到我们的到来。	芬妮驚呼後，米婭才意識到我們的到來。	ファニーが驚いたように声をあげると、ミアは私たちのほうに振り向いた。	페니가 놀라 외치자, 미아는 그제야 우리가 왔다는 걸 알아챘다.	She gasped, just as Mia finally seemed to notice us.						0	3.2主线剧情
+27	但她脸上却没有丝毫害怕神色，反倒是带着些许怒意，连脸颊都红了几个度。	但她臉上卻沒有絲毫害怕的神情，反而是帶著些許怒意，連臉頰都紅了幾個度。	意外なことに、子個体であろうその球体を前にする彼女はまるで怯えた様子はなく、むしろ怒っているように顔を赤らめていた。	하지만 그녀에게 두려운 기색은 전혀 없었고, 오히려 얼굴을 붉힌 채 약간 화가 난 모습이었다.	But she didn't look frightened in the slightest. If anything, she looked... irritated — cheeks flushed, eyes blazing.						0	3.2主线剧情
+28	看了我们一眼后，她又把视线重新转向这个蓝色圆球。	看了我們一眼後，她又把視線重新轉向這個藍色圓球。	私たちを一瞥するとすぐ視線を戻し、また球体を睨んだ。	그녀는 우리를 한 번 쳐다보더니, 다시 이 파란 구체로 시선을 돌렸다.	She shot us a quick glance, then turned her focus right back to the floating blob.						0	3.2主线剧情
+29	霎时间，一人一球，目光碰撞如电光火石般激烈。	霎時間，一人一球，目光碰撞如電光火石般激烈。	『一般人少女、ＵＭＡと火花散らして睨み合う』の図だ。	그 순간, 사람과 구체의 시선이 마치 전광석화가 튀듯 날카롭게 충돌했다.	In that moment, it was as if the girl and the glowing blob had entered a fierce duel.						0	3.2主线剧情
+30	而一旁的奈莉德早就进入了戒备状态，只不过眼神瞥向米娅时，还是不禁流露出无奈的情态。	而一旁的奈莉德早就進入了戒備狀態，只不過眼神瞥向米婭時，還是不禁流露出無奈的神態。	そのとなりでネリーダは身構えたまま、半ば呆れ顔で見守っている。	옆에 있는 네리다는 진작에 경계 태세에 돌입했지만, 미아를 바라볼 때는 어이없다는 표정을 숨길 수 없었다.	Nerida stood ready, already on guard. But her gaze flicked to Mia, her expression a blend of concern and resignation.						0	3.2主线剧情
+31	呃……这是怎么回事？	呃……這是怎麼回事？	えっと…これはいったい…？	음… 이게 어떻게 된 거지?	Uh... what's going on here?						0	3.2主线剧情
+32	米娅看起来想推走圆球，但就在她的手即将够到时，圆球轻轻一飘，就到了米娅无法企及的高度。	米婭看起來想推走圓球，但就在她的手即將碰到時，圓球輕輕一飄，就到了米婭無法觸及的高度。	ミアは球体を押しのけようとしたが、手が届く前に、球体はふらりとミアが届かない高さに浮上した。	미아는 구체를 밀어내고 싶은 듯했지만, 그녀의 손이 닿을락 말락 할 때 구체가 살짝 떠오르며 미아가 닿을 수 없는 높이로 올라갔다.	Mia reached out to shove the blob away, but before her fingers could touch it, the thing floated just out of reach with a lazy wobble.						0	3.2主线剧情
+33	甚至圆球还左右摇晃起来，似乎在嘲笑米娅的笨拙。	甚至圓球還左右搖晃起來，像是在嘲笑米婭的笨拙。	そして悪戯っぽく左右に揺れはじめ、露骨にミアを煽った。	심지어 그 구체는 미아의 서툰 모습을 비웃는 듯 좌우로 몸을 흔들었다.	It bobbed side to side humorously, as if taunting her.						0	3.2主线剧情
+34	米娅气得脸颊通红，头顶仿佛冒着热气，吹得一双“耳朵”左右摇摆。	米婭氣得臉頰通紅，頭頂彷彿冒著熱氣，吹得一雙「耳朵」左右搖擺。	ミアは顔が真っ赤になって、頭から湯気をたててイヌ耳状のクセ毛をぶんぶん振った。	화난 미아는 얼굴이 새빨개졌고, 머리 위로 피어오르는 김에 '귀'가 흔들리고 있었다.	Her cheeks turned even redder, and her "ears" twitched wildly, as if steam might start shooting out of her head.						0	3.2主线剧情
+35	咕噜噜噜，噜噜！	咕嚕嚕嚕，嚕嚕！	クルルル、クル～	꾸르르륵, 꾸륵!	Bloooop, bloop!						0	3.2主线剧情
+36	这家伙是安卡希雅准备的BOSS吗？	這傢伙是安卡希雅準備的BOSS嗎？	これって、アカシアが用意したボスなの？	아카시아가 준비한 보스가 이 녀석이야?	Is this the boss Acacia set up?						0	3.2主线剧情
+37	可按照剧本，还不到它出现的时候吧？？！	可是按照劇本，還沒到「祂」出現的時候吧？？！	でもシナリオだと、まだ出番じゃなくない！？	하지만 각본을 보니까, 아직 등장할 때가 아닌데??!	But according to the script, it's not supposed to show up yet!						0	3.2主线剧情
+38	米娅虽然恼怒，但还是一脸倔强地研究起眼前的“BOSS”。	米婭雖然惱怒，但還是一臉倔強地研究起眼前的「BOSS」。	ミアはムカッとした顔のまま「ボス」を観察し始めた。	미아는 화가 나면서도, 여전히 깐깐한 표정으로 눈앞의 '보스'를 연구하기 시작했다.	Despite her frustration, Mia narrowed her eyes, analyzing the blob with a frown.						0	3.2主线剧情
+39	是怎么做到突然出现在我身后的？	是怎麼做到突然出現在我身後的？	どうやっていきなり背後に現れたのよ！？	어떻게 갑자기 내 뒤에 나타난 거지?	How did it sneak up on me like that...?						0	3.2主线剧情
+40	背后也没有悬挂绳，难道是投影？	背後也沒有懸掛繩，難道是投影？	ワイヤーが繋がってるわけじゃなさそうだし、もしかしてただのホログラフ？	뒤에 매달린 줄도 없는데, 혹시 홀로그램인가?	No wires... is it a hologram?						0	3.2主线剧情
+41	看着米娅手忙脚乱的样子，我总算理解了现在的状况。	看著米婭手忙腳亂的樣子，我總算理解了現在的狀況。	しばらく眺めていると、大体状況がわかってきた。	허둥대는 미아를 보며, 나는 이게 어떻게 된 일인지 파악할 수 있었다.	As I watched Mia studying the floating blob, it hit me:						0	3.2主线剧情
+42	眼前这个蓝色圆球，应该就是成熟后的SpH-L12孢子。	眼前這個藍色圓球，應該就是成熟後的SpH-L12孢子。	あの青い球体はおそらく、培養器から抜け出したSpH-L12の子個体だろう。	눈앞의 이 파란 구체가 바로 성숙한 SpH-L12 포자일 것이다.	This blue blob had to be the matured spore from SpH-L12.						0	3.2主线剧情
+43	因为差不多到了最终战的环节，所以米娅理所当然把它当成了BOSS。	因為差不多到了最終戰的環節，所以米婭理所當然把它當成了BOSS。	シナリオ的にそろそろ最終戦になるから、ミアは当然これをラスボスだと思い込んだのだ。	최종전까지 머지않았기에, 미아는 당연히 이것을 보스라고 생각한 것이다.	And as we were nearing the climax of the game, Mia had mistaken it for the final boss.						0	3.2主线剧情
+44	至于刚才那声尖叫……	至於剛才那聲尖叫……	そして、さっきの悲鳴は……	아까 그 비명은…	As for that scream we heard earlier...						0	3.2主线剧情
+45	不管怎么说！	不管怎麼說！	何はともあれ！	어쨌든 말이야!	Seriously!						0	3.2主线剧情
+46	现在都不到你出场的时候吧！	現在都沒到你出場的時候吧！	まだアンタの出番じゃないんだから！	지금은 네가 등장할 때가 아니잖아!	You're not supposed to be here yet!						0	3.2主线剧情
+47	咕？咕噜噜~	咕？咕嚕嚕~	ク？クルル～	꾹? 꾸르륵~	Bloop? Bloop~						0	3.2主线剧情
+48	已经忍无可忍的米娅大叫了出来，音量几乎和刚才持平。	已經忍無可忍的米婭大叫了出來，音量幾乎和剛才持平。	我慢の限界を越えたミアは、さっきの悲鳴とほぼ同じくらいの声量で叫んだ。	참다못한 미아가 조금 전과 거의 비슷한 음량으로 버럭 소리를 질렀다.	Furious, Mia let out another scream — just as loud as before.						0	3.2主线剧情
+49	看来那一声尖叫里，惊怒的成分更为浓重。	看來那一聲尖叫裡，驚怒的成分更為濃重。	どうやらさっき私たちが聞こえたのは悲鳴ではなく怒号だったようだ……	아까보다는 분노가 더 많이 섞인 듯했다.	Yep. Definitely more rage than fear.						0	3.2主线剧情
+50	呼……还好赶上了。	呼……還好趕上了。	はぁ～、間に合ってよかったぁ……	휴… 다행히 제때 왔네.	Whew... Made it.						0	3.2主线剧情
+51	就在米娅和SpH-L12还在僵持时，瑟瑞斯气喘吁吁地来到了我和芬妮身后。	就在米婭和SpH-L12還在僵持時，瑟瑞斯氣喘吁吁地來到了我和芬妮身後。	ミアとSpH-L12が膠着状態になっている間に、シーリスが息を切らしながら私とファニーの後ろに現れた。	미아와 SpH-L12가 아직 대립하고 있을 때, 세리스가 숨을 헐떡이며 나와 페니 뒤에서 나타났다.	While Mia was still locked in her one-sided standoff with SpH-L12, Siris jogged up behind me and Fenny, breathless.						0	3.2主线剧情
+52	见“玩家”到齐，米娅也不得不拾起主持人的身份。	看「玩家」到齊，米婭也不得不拾起主持人的身分。	「プレイヤー」が揃ったのを見て、まだ怒りが収まりきれない様子でミアは再びゲームマスター役に戻った。	 '유저'들이 모두 모이자, 미아도 어쩔 수 없이 MC의 역할로 다시 돌아왔다.	Now that the "players" had all assembled, Mia had no choice but to snap back into her role as the gamemaster.						0	3.2主线剧情
+53	她一边瞪着滚圆的球，一边支支吾吾思考着接下来的剧情。	她一邊瞪著滾圓的球，一邊支支吾吾思考著接下來的劇情。	彼女は眉をしかめて球体を睨みながら、これからの展開を考えはじめた。	그녀는 둥근 구체를 노려보면서, 다음 스토리를 어떻게 이어갈지 고민했다.	She shot a frustrated glare at the blob, clearly scrambling to improvise on the fly.						0	3.2主线剧情
+54	携带银粉的调查员们来到了酒店大厅，准备进行最后的驱逐仪式。	攜帶銀粉的調查員們來到了飯店大廳，準備進行最後的驅逐儀式。	調査員たちは銀粉を持ってロビーに駆けこみ、退魔の儀式を行おうとした。	은가루를 손에 넣은 조사원들이 호텔 로비에 도착해 마지막 퇴마 의식을 준비하려 했어요.	The investigators, silver dust in hand, have arrived at the hotel lobby — ready for the exorcism ritual.						0	3.2主线剧情
+55	但令他们没想到的是，“祂”……准确地说是叫“幽语者”的怪物已经提前现身，在这里等待着他们。	但令他們沒想到的是，「祂」……準確地說是叫「幽語者」的怪物已經提前現身，在這裡等待著他們。	ところが、「あのお方」……あ、いや、「ウィスパー」はすでにロビーで待ち構えていた。	하지만 뜻밖에도, '그것'… 정확히 말하자면 '더 위스퍼러'라고 불리는 괴물이 미리 모습을 드러내고 여기서 기다리고 있었어요.	But to their surprise... "It" — the being known as the Whisperer — has already manifested, awaiting their arrival.						0	3.2主线剧情
+56	这是……为什么呢……	這是……為什麼呢……	これは一体、どういうことなのだろうか……	이건… 왜일까요…	Why would that be...?						0	3.2主线剧情
+57	呃……	呃……	えっと……	윽…	Uh...						0	3.2主线剧情
+58	为……为什么呢？	為……為什麼呢？	な、なんでだろうね…？	왜… 왜일까요?	Wh—Why indeed...?						0	3.2主线剧情
+59	米娅舔舔干涩的双唇，眼珠骨碌碌地快速转动着。	米婭舔舔乾澀的雙唇，眼珠骨碌碌地快速轉動著。	ミアは下唇を噛みながら、目をくるくる回しながら考えた。	미아는 건조한 입술을 핥으며 눈을 데굴데굴 굴렸다.	Mia licked her lips nervously, eyes darting left and right as she scrambled for a save.						0	3.2主线剧情
+60	那双“耳朵”也跟着抖动两下，但很快又耷拉下去。	那雙「耳朵」也跟著抖動兩下，但很快又垂下去。	どういう理屈か知らないがクセ毛のお耳も立ったり垂れたりしている。	그 '귀'도 같이 두어 번 흔들렸지만, 금세 축 처지고 말았다.	Even her hair-tuft "ears" gave a few twitches... only to droop again in resigned defeat.						0	3.2主线剧情
+61	想来，此时她脑中的思绪怕是已经搅成一团了。	想來，此時她腦中的思緒怕是已經亂成一團了。	かなり混乱しているみたいだ。	지금쯤 그녀는 머릿속이 뒤죽박죽일 게 뻔했다.	Clearly, her mind was tying itself in knots.						0	3.2主线剧情
+62	救命，到底该怎么编啊！	救命，到底該怎麼編啊！	あーもー、これどーやって説明したらいーの！？	젠장. 대체 무슨 이야기를 어떻게 해야 하냐고?!	Ugh! How am I supposed to make this work!?						0	3.2主线剧情
+63	在米娅冥思苦想时，我打量起眼前的圆球。	在米婭冥思苦想時，我打量起眼前的圓球。	私は球体を見上げた。	미아가 고민하는 동안, 나는 눈앞의 구체를 자세히 살펴보았다.	While Mia fumbled for a fix, I turned my focus to the blob.						0	3.2主线剧情
+64	虽然它看似惬意地飘浮在半空中，丝毫不在意我们的样子。	雖然它看似愜意地飄浮在半空中，絲毫不在意我們的樣子。	ゆったりと宙に浮かんでいて、私たちのことを全く気にしていないように見えるが……	겉보기에는 여유롭게 공중에 떠다니며, 우리를 전혀 신경 쓰지 않는 것 같았다.	It floated there lazily, seemingly uninterested in us...						0	3.2主线剧情
+65	但实际上，它正以极缓慢的速度一点点接近我们。	但實際上，它正以極緩慢的速度一點點接近我們。	実際、それは極めてゆっくりと、少しずつ私たちに近づいてきている。	그러나 사실은 우리를 향해 아주 천천히, 한 걸음씩 다가오고 있었다.	But in truth, it was slowly inching closer.						0	3.2主线剧情
+66	在它身周也出现了些若有若无的荧光粉末。	在它身邊也出現了一些若有若無的螢光粉末。	周りの空気に、かすかに光るチリのような粉を漂わせながら。	그 주위에도 보일 듯 말 듯한 형광 가루가 나타나기 시작했다.	A halo of phosphorescent powder began to shimmer faintly in the air around it.						0	3.2主线剧情
+67	米娅……	米婭……	ミア――	미아…	Mia...						0	3.2主线剧情
+68	就在我想出声提醒米娅时，她却突然小步跳起，给了SpH-L12一记重拳。	就在我想出聲提醒米婭時，她卻突然小步跳起，給了SpH-L12一記重拳。	警戒するようミアに話しかけようとしたとき、彼女は突然地面を強く蹴りつけ、飛び上がってSpH-L12に見事なパンチを食らわせた。	내가 미아에게 주의를 주려던 그때, 그녀가 갑자기 폴짝 뛰어올라 SpH-L12에게 강펀치를 날렸다.	Before I could warn her, she suddenly lunged forward and landed a clean punch right on the spore's surface.						0	3.2主线剧情
+69	圆球表面瞬间凹陷下去，然后又像果冻般颤动着恢复原形。	圓球表面瞬間凹陷下去，然後又像果凍般顫動著恢復原形。	球体の表面は一瞬へこむと、ゼリーのようにミアの拳を弾いて元に戻った。	구체 표면이 순간 움푹 들어갔다가, 젤리처럼 부르르 떨리면서 다시 원래 모양을 되찾았다.	The blob caved inward with the impact, quivered like jelly... then bounced right back.						0	3.2主线剧情
+70	嗯……身手灵活，是当调查员的好苗子呢。	嗯……身手靈活，是當調查員的好苗子呢。	悪くない動きだ。調査員になる素質があるぞ。	음… 민첩한 동작이었어. 조사원으로 키우기 딱 좋겠군.	Hmm... not bad. She has potential as an investigator.						0	3.2主线剧情
+71	奈莉德，现在不是说这个的时候吧。	奈莉德，現在不是說這個的時候吧。	そんなことを言ってる場合じゃないだろう。	네리다, 지금 그런 얘기할 때가 아니잖아.	Is this really the time for that, Nerida?						0	3.2主线剧情
+72	诶？居然不是投影，手感弹弹的？	欸？居然不是投影，手感QQ的？	あれっ？ホログラフじゃない……しかもなんか、ぷにぷにしてる？	엥? 홀로그램이 아니네. 탱글탱글한데?	Wait... it's not a hologram? It's all squishy and bouncy.						0	3.2主线剧情
+73	不管了。总之，现在还不到你出场的时候，快点走开！！	不管了。總之，現在還沒到你出場的時候，快點走開！！	もー知らないっ！とにかく、アンタの出番じゃないんだから、さっさとどっかに消えろしっ！	아, 모르겠다. 어쨌든, 지금은 네가 등장할 때가 아니니까 빨리 비켜!	Whatever — this still isn't your cue. Go away!!						0	3.2主线剧情
+74	等剧情走到最终战的时候，我会发信号的！	等劇情走到最終戰的時候，我會發訊號的！	最後のボス戦になったら、ちゃーんと知らせるしっ！	스토리가 최종전까지 가면 내가 신호를 보낼 거라고!	When it's time for the final boss battle, I'll give the signal, got it!?						0	3.2主线剧情
+75	咕噜噜噜噜噜，咕噜！	咕嚕嚕嚕嚕，咕嚕！	クルルルルル、クル！	꾸르르르르륵, 꾸륵!	Bloooooop, bloop!						0	3.2主线剧情
+76	蓝色圆球一连滚了好几圈，身形也有些膨胀起来。	藍色圓球一連滾了好幾圈，身形也有點膨脹起來。	球体は何度か転がると、体が少し膨らんできた。	파란 구체가 데굴데굴 구르더니, 크기도 점점 부풀어 올랐다.	The blob gave a few wobbly rolls, then started to swell.						0	3.2主线剧情
+77	就在这一瞬间，我嗅到了危险的气息。	就在這一瞬間，我嗅到了危險的氣息。	一瞬、危険な気配が漂った。	바로 그 순간, 나는 위험한 기운을 감지했다.	That's when I caught the scent of danger in the air.						0	3.2主线剧情
+78	奈莉德！	奈莉德！	ネリーダ！	네리다!	Nerida!						0	3.2主线剧情
+79	没有说更多，奈莉德立刻就领悟了我的意思。	沒有說更多，奈莉德立刻就領悟了我的意思。	それ以上の言葉は必要なく、ネリーダはすぐに私の意図を汲み取った。	더 말할 필요도 없이, 네리다는 바로 내 뜻을 파악했다.	No further instruction was needed.						0	3.2主线剧情
+80	她的反应很快，只片刻黑色的束带就缠在了米娅的腰上。	她的反應很快，只片刻黑色的束帶就纏在了米婭的腰上。	彼女は瞬く間に黒いベルトを放ち、ミアの腰に巻き付けた。	그녀는 빠르게 반응해 검은 벨트로 미아의 허리를 순식간에 감쌌다.	In a blur, Nerida reacted — shadowy ribbons shot out, coiling tightly around Mia's waist.						0	3.2主线剧情
+81	唔哇！！！	唔哇！！！	……うわっ！！	으악!!!	Whoa!!!!						0	3.2主线剧情
+82	一道疾影掠过，米娅就这么被带离了战场。	一道疾影掠過，米婭就這樣被帶離了戰場。	次の瞬間、疾走する影がその横を通り抜けると、ミアはあっという間に戦場から連れ去られた。	한 줄기 그림자가 스쳐 지나가더니, 미아는 그렇게 전장에서 벗어났다.	In a flash, she was yanked out of the danger zone.						0	3.2主线剧情
+83	当然，战场两个字用在这里或许有些夸张。因为芬妮和瑟瑞斯的表情都十分淡定。	當然，戰場兩個字用在這裡或許有點誇張。因為芬妮和瑟瑞斯的表情都非常淡定。	「戦場」という言葉は大げさだったのかもしれない。ファニーもシーリスもなんともない顔でそんな雰囲気ではなかったから。	물론 페니와 세리스의 담담한 표정을 보면, 전장이라는 말은 좀 과할지도 모르겠다.	Well, maybe "danger zone" was a stretch — Fenny and Siris looked more relaxed than worried.						0	3.2主线剧情
+84	前者开始活动筋骨，颇有一种要把SpH-L12当排球打的架势，后者则是从口袋里拿出早就准备好的退化酶。	前者開始活動筋骨，頗有一種要把SpH-L12當排球打的架勢，後者則是從口袋裡拿出早就準備好的退化酶。	バレーボール代わりにすると言ったのは本気なのかファニーは真剣に準備体操をしているし、シーリスは退化酵素の入った注射筒の空気を抜いている。	한 명은 SpH-L12를 발리볼처럼 칠 기세로 몸을 풀고 있었고, 또 한 명은 미리 준비해 둔 퇴화 효소를 주머니에서 꺼냈다.	Fenny cracked her knuckles, looking like she was about to spike the spore like a volleyball. Siris, meanwhile, calmly pulled the regression enzyme syringe from her pocket.						0	3.2主线剧情
+85	咕咕咕咕，噜！	咕咕咕咕，嚕！	クククク、ルー！	꾸구구국, 꾸룩!	Bloooop, bloop!						0	3.2主线剧情
+86	似乎察觉到了我们的轻蔑，SpH-L12猛然跃向更高处，以惊人的速度膨胀起来。	似乎察覺到了我們的輕蔑，SpH-L12猛然躍向更高處，以驚人的速度膨脹起來。	こちらの余裕に気づいたのか、SpH-L12は突然高いところへ浮いて、ぷくぷくと体を膨らませる。	우리가 경멸의 눈빛으로 바라보자, SpH-L12는 갑자기 더 높이 뛰어올라 엄청난 속도로 부풀어 올랐다.	As if noticing our casual disregard, the spore swiftly shot upward, growing in mass by the second.						0	3.2主线剧情
+87	下一秒，猛烈的攻击朝我们袭了过来。	下一秒，猛烈的攻擊朝我們襲了過來。	次の瞬間、凄まじい勢いで襲いかかってきた。	다음 순간, 맹렬한 공격이 우리를 향해 쏟아졌다.	And in the next heartbeat, it launched a full-on assault.						0	3.2主线剧情

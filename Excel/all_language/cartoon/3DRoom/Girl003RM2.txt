@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	太难了，我为什么要受这种委屈？	太難了，我為什麼要受這種委屈？	もう無理、なんで私がこんなヒドい目に遭わないといけないの？	후, 왜 이런 시련을 겪어야 하지?	This sucks... What did I do to deserve such injustice?						0	
+page0.2	呃，你受什么委屈了？	呃，你受什麼委屈了？	え、ヒドい目って？	음… 무슨 시련을 겪었는데?	What "injustice" are you talking about...?						0	
+page0.3	唉……分析员儿，这日子没法过了。	唉……分析員，沒辦法過日子了。	はあ……分析員、本当にもうやってらんないよ。	분석가, 사는 게 너무 힘든 것 같아.	*sigh*... Adjutant, I'm not gonna make it through the day.						0	
+page0.4	不是刚发薪水吗，难道是你又花光了——	不是剛發薪水嗎，難道是你又花光了——	給料をもらったばかりじゃん、まさかまた全部――	월급을 받은 지 얼마나 됐다고. 설마 다 쓴 건…	Didn't you just get your paycheck? Don't tell me you already spent it all again—						0	
+page0.5	哎哎，打住打住！揭人不揭短啊分析员儿。	哎哎，停停停！說好不吐槽的耶分析員。	うわあ、やめてやめて！それ以上言わないで！	아잇, 그만 그만! 그런 민망한 이야기는 하지 말아줘, 분석가.	Stop right there! Zip it! Don't let other people hear you talking like that.						0	
+page0.6	我说的不是这件事。	我說的不是這件事。	そういうことじゃないから。	그런 이야기를 하려는 게 아니야.	I'm not talking about that.						0	
+page0.7	那是什么事这么严重？	那是什麼事這麼嚴重？	じゃあ何がそんなに大変なんだ？	그럼 뭔데 이렇게 심각해?	Then, what happened that's so terrible?						0	
+page0.8	是一件无论如何都无法忍受的事！	是一件無論如何都無法忍受的事！	どうしても我慢できない！	정말이지 참을 수 없어!	Something absolutely horrible no matter how you look at it!						0	
+page0.9	知道吗？就因为这事，我原本做的危机管理全部失效了……	知道嗎？就因為這事，我原本做的危機管理全部失效了……	あれのせいで、予め用意してた危機管理も全部パーになった……	그거 알아? 이 일 때문에 예전에 해뒀던 위기관리 패턴이 전부 무산됐어…	Y'know what? All of my efforts in risk management have been ruined...						0	
+page0.10	我还要改变我一直以来的生存习惯。	我還要改變我一直以來的生存習慣。	私の生存戦略も考え直さないといけない……	여태까지 해왔던 생존 습관들을 고쳐야만 한다고.	This is going to completely change the way I live my life.						0	
+page0.11	我严正抗议公司这种剥夺我权利的做法！	我嚴正抗議公司這種剝奪我權利的做法！	会社が私の権利を侵害してる！断固抗議してやる！	회사가 이렇게 내 권리를 침해하는 걸 가만히 지켜볼 순 없어!	I hereby solemnly protest the company's infringement of my rights!						0	
+page0.12	到底是什么事，你倒是说啊？	到底是什麼事，你倒是說啊？	いったい何があったのか、説明してよ。	말해 봐, 대체 무슨 일이냐니까?	What are you even talking about? What actually happened?						0	
+page0.13	拥有后再被夺走，分析员你一定懂这种痛苦吧？	擁有後再被奪走，分析員你一定懂這種痛苦吧？	一度手にしたものを奪われる苦しみ、分析員なら分かるよね？	줬다 뺐는 게 얼마나 나쁜 건지 알지?	You don't know what you've got 'til it's gone... Adjutant, you understand my pain, right?						0	
+page0.14	原本可以随时畅吃的零食柜，被改成了限量供应！！	原本可以隨時爽吃的零食櫃，被改成了限量供應！！	もともと好きに取ってよかったスナック棚が、数量限定に変わったの！！	원래 마음껏 먹을 수 있었던 간식 창고의 수량을 이제 제한하겠대!!	They changed the snack pantry that used to be open 24/7 to limited availability!!						0	
+page0.15	就这？	就這樣？	それだけ……？	고작 그거였어?	...That's it?						0	
+page0.16	那……危机管理是？	那……危機管理是？	じゃあ……危機管理って？	그럼… 위기관리는 도대체 무슨 소리야?	Then... what's the "risk management" you were on about?						0	
+page0.17	没钱的时候，搬空零食柜的食物充饥。	沒錢的時候，搬空零食櫃的食物充飢。	金欠の時、棚の中身を根こそぎ食糧として頂くこと。	돈이 없으면 간식 창고에서 배를 채웠었단 말이야.	I empty the snack pantry when I'm hungry and broke.						0	
+page0.18	改变生存习惯呢？	改變生存習慣呢？	生存戦略を改めるっていうのは？	생존 습관을 고쳐야 한다는 건?	And how will that "completely change the way you live your life"?						0	
+page0.19	得在没钱的时候，找新的方法充饥。	得在沒錢的時候，找新的方法充飢。	食糧を調達する新しい方法を考えること。	이젠 돈이 없으면 다시 새로운 방법을 찾아야 하잖아.	I'll have to find new ways to fill my stomach when I'm broke.						0	
+page0.20	原来零食柜被锁上的罪魁祸首是你啊！	原來零食櫃被鎖上的罪魁禍首是你啊！	棚が施錠されたのニタのせいだったのかよ！	간식 창고가 잠겨있는 게 너 때문이었구나!	So you're to blame for the snack pantry getting locked up!						0	
+aside01	两星期后	兩星期後	二週間後	2주 후	Two weeks later						0	
+page0.21	太难了，我为什么要受这种委屈？	太難了，我為什麼要受這種委屈？	もう無理、なんで私がこんなヒドい目に遭わないといけないの？	후, 왜 이런 시련을 겪어야 하지?	This sucks... What did I do to deserve such injustice?						0	
+page0.22	唉……分析员儿，这日子没法过了。	唉……分析員，沒辦法過日子了。	はあ……分析員、本当にもうやってらんないよ。	분석가, 사는 게 너무 힘든 것 같아.	*sigh*... Adjutant, I'm not gonna make it through the day.						0	
+page0.23	看来附近的自助餐厅变成点餐制，也是你干的好事了。	看來附近的自助餐廳變成點餐制，也是你幹的好事了。	……近所のバイキングが注文式になったのも君のせいだろ。	근처 뷔페가 자율제에서 주문제로 바뀌었다더니, 또 네 짓이구나.	Looks like the buffet place nearby switched over to an ordering system — all thanks to you.						0	

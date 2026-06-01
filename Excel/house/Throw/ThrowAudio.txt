@@ -1,0 +1,96 @@
+﻿角色Id	声音id	//备注	语音（2条用逗号隔开）
+Id	AudioID	Des	Voice
+1	1001	安卡希雅-点单界面	Play_Vo_throw_order_girl001_01,Play_Vo_throw_order_girl001_02
+1	1002	安卡希雅-待机动作时，进入新对局语音	Play_Vo_throw_idle_girl001_01,Play_Vo_throw_idle_girl001_02
+1	1003	安卡希雅-待机动作时，失败1次语音	Play_Vo_throw_idle_girl001_03
+1	1004	安卡希雅-待机动作时，连续失败2次语音	Play_Vo_throw_idle_girl001_04,Play_Vo_throw_idle_girl001_05
+1	1005	安卡希雅-待机动作时，连续失败3次语音	
+1	1006	安卡希雅-待机动作时，成功1次语音	Play_Vo_throw_idle_girl001_06
+1	1007	安卡希雅-待机动作时，连续成功2次语音	Play_Vo_throw_idle_girl001_07,Play_Vo_throw_idle_girl001_08
+1	1008	安卡希雅-待机动作时，连续成功3次语音	
+1	1009	安卡希雅-常规成功动作时的语音	Play_Vo_throw_catch01_girl001_01,Play_Vo_throw_catch01_girl001_02
+1	1010	安卡希雅-特殊成功动作时的语音	Play_Vo_throw_catch02_girl001_01,Play_Vo_throw_catch02_girl001_02
+1	1011	安卡希雅-常规失败动作时的语音	Play_Vo_throw_lose01_girl001_01,Play_Vo_throw_lose01_girl001_02
+1	1012	安卡希雅-特殊失败动作时的语音	Play_Vo_throw_lose02_girl001_01,Play_Vo_throw_lose02_girl001_02
+1	1013	安卡希雅-成功结算表演的语音	Play_Vo_throw_victory_girl001
+1	1014	安卡希雅-失败结算表演的语音	Play_Vo_throw_defeat_girl001
+1	1015	安卡希雅-挑战模式结算表演的语音	Play_Vo_throw_victory_S_girl001
+1	1016	安卡希雅-减速冰镇技能期间的语音	Play_Vo_throw_skill_girl001
+1	1017	安卡希雅-外围界面选择少女时的语音	Play_Vo_throw_choose_girl001_02
+1	1018	安卡希雅-点单小剧场	Play_Vo_throw_choose_girl001_01
+			
+8	1001	芬妮-点单界面	Play_Vo_throw_order_girl008c_01,Play_Vo_throw_order_girl008c_02
+8	1002	芬妮-待机动作时，进入新对局语音	Play_Vo_throw_idle_girl008c_01,Play_Vo_throw_idle_girl008c_02
+8	1003	芬妮-待机动作时，失败1次语音	Play_Vo_throw_idle_girl008c_03
+8	1004	芬妮-待机动作时，连续失败2次语音	Play_Vo_throw_idle_girl008c_04,Play_Vo_throw_idle_girl008c_05
+8	1005	芬妮-待机动作时，连续失败3次语音	
+8	1006	芬妮-待机动作时，成功1次语音	Play_Vo_throw_idle_girl008c_06
+8	1007	芬妮-待机动作时，连续成功2次语音	Play_Vo_throw_idle_girl008c_07,Play_Vo_throw_idle_girl008c_08
+8	1008	芬妮-待机动作时，连续成功3次语音	
+8	1009	芬妮-常规成功动作时的语音	Play_Vo_throw_catch01_girl008c_01,Play_Vo_throw_catch01_girl008c_02
+8	1010	芬妮-特殊成功动作时的语音	Play_Vo_throw_catch02_girl008c_01,Play_Vo_throw_catch02_girl008c_02
+8	1011	芬妮-常规失败动作时的语音	Play_Vo_throw_lose01_girl008c_01,Play_Vo_throw_lose01_girl008c_02
+8	1012	芬妮-特殊失败动作时的语音	Play_Vo_throw_lose02_girl008c_01,Play_Vo_throw_lose02_girl008c_02
+8	1013	芬妮-成功结算表演的语音	Play_Vo_throw_victory_girl008c
+8	1014	芬妮-失败结算表演的语音	Play_Vo_throw_defeat_girl008c
+8	1015	芬妮-挑战模式结算表演的语音	Play_Vo_throw_victory_S_girl008c
+8	1016	芬妮-减速冰镇技能期间的语音	Play_Vo_throw_skill_girl008c
+8	1017	芬妮-外围界面选择少女时的语音	Play_Vo_throw_choose_girl008c_01
+8	1018	芬妮-点单小剧场	Play_Vo_throw_choose_girl008c_02
+			
+13	1001	瑟瑞斯-点单界面	Play_Vo_throw_order_girl013b_01,Play_Vo_throw_order_girl013b_02
+13	1002	瑟瑞斯-待机动作时，进入新对局语音	Play_Vo_throw_idle_girl013b_01,Play_Vo_throw_idle_girl013b_02
+13	1003	瑟瑞斯-待机动作时，失败1次语音	Play_Vo_throw_idle_girl013b_03
+13	1004	瑟瑞斯-待机动作时，连续失败2次语音	Play_Vo_throw_idle_girl013b_04,Play_Vo_throw_idle_girl013b_05
+13	1005	瑟瑞斯-待机动作时，连续失败3次语音	
+13	1006	瑟瑞斯-待机动作时，成功1次语音	Play_Vo_throw_idle_girl013b_06
+13	1007	瑟瑞斯-待机动作时，连续成功2次语音	Play_Vo_throw_idle_girl013b_07,Play_Vo_throw_idle_girl013b_08
+13	1008	瑟瑞斯-待机动作时，连续成功3次语音	
+13	1009	瑟瑞斯-常规成功动作时的语音	Play_Vo_throw_catch01_girl013b_01,Play_Vo_throw_catch01_girl013b_02
+13	1010	瑟瑞斯-特殊成功动作时的语音	Play_Vo_throw_catch02_girl013b_01,Play_Vo_throw_catch02_girl013b_02
+13	1011	瑟瑞斯-常规失败动作时的语音	Play_Vo_throw_lose01_girl013b_01,Play_Vo_throw_lose01_girl013b_02
+13	1012	瑟瑞斯-特殊失败动作时的语音	Play_Vo_throw_lose02_girl013b_01,Play_Vo_throw_lose02_girl013b_02
+13	1013	瑟瑞斯-成功结算表演的语音	Play_Vo_throw_victory_girl013b
+13	1014	瑟瑞斯-失败结算表演的语音	Play_Vo_throw_defeat_girl013b
+13	1015	瑟瑞斯-挑战模式结算表演的语音	Play_Vo_throw_victory_S_girl013b
+13	1016	瑟瑞斯-减速冰镇技能期间的语音	Play_Vo_throw_skill_girl013b
+13	1017	瑟瑞斯-外围界面选择少女时的语音	Play_Vo_throw_choose_girl013b_01
+13	1018	瑟瑞斯-点单小剧场	Play_Vo_throw_choose_girl013b_02
+			
+18	1001	薇蒂雅-点单界面	Play_Vo_throw_order_girl018a_01,Play_Vo_throw_order_girl018a_02
+18	1002	薇蒂雅-待机动作时，进入新对局语音	Play_Vo_throw_idle_girl018a_01,Play_Vo_throw_idle_girl018a_02
+18	1003	薇蒂雅-待机动作时，失败1次语音	Play_Vo_throw_idle_girl018a_03
+18	1004	薇蒂雅-待机动作时，连续失败2次语音	Play_Vo_throw_idle_girl018a_04,Play_Vo_throw_idle_girl018a_05
+18	1005	薇蒂雅-待机动作时，连续失败3次语音	
+18	1006	薇蒂雅-待机动作时，成功1次语音	Play_Vo_throw_idle_girl018a_06
+18	1007	薇蒂雅-待机动作时，连续成功2次语音	Play_Vo_throw_idle_girl018a_07,Play_Vo_throw_idle_girl018a_08
+18	1008	薇蒂雅-待机动作时，连续成功3次语音	
+18	1009	薇蒂雅-常规成功动作时的语音	Play_Vo_throw_catch01_girl018a_01,Play_Vo_throw_catch01_girl018a_02
+18	1010	薇蒂雅-特殊成功动作时的语音	Play_Vo_throw_catch02_girl018a_01,Play_Vo_throw_catch02_girl018a_02
+18	1011	薇蒂雅-常规失败动作时的语音	Play_Vo_throw_lose01_girl018a_01,Play_Vo_throw_lose01_girl018a_02
+18	1012	薇蒂雅-特殊失败动作时的语音	Play_Vo_throw_lose02_girl018a_01,Play_Vo_throw_lose02_girl018a_02
+18	1013	薇蒂雅-成功结算表演的语音	Play_Vo_throw_victory_girl018a
+18	1014	薇蒂雅-失败结算表演的语音	Play_Vo_throw_defeat_girl018a
+18	1015	薇蒂雅-挑战模式结算表演的语音	Play_Vo_throw_victory_S_girl018
+18	1016	薇蒂雅-减速冰镇技能期间的语音	Play_Vo_throw_skill_girl018a
+18	1017	薇蒂雅-外围界面选择少女时的语音	Play_Vo_throw_choose_girl018a_02
+18	1018	薇蒂雅-点单小剧场	Play_Vo_throw_choose_girl018a_01
+			
+21	1001	奈莉徳-点单界面	Play_Vo_throw_order_girl021_01,Play_Vo_throw_order_girl021_02
+21	1002	奈莉徳-待机动作时，进入新对局语音	Play_Vo_throw_idle_girl021_01,Play_Vo_throw_idle_girl021_02
+21	1003	奈莉徳-待机动作时，失败1次语音	Play_Vo_throw_idle_girl021_03
+21	1004	奈莉徳-待机动作时，连续失败2次语音	Play_Vo_throw_idle_girl021_04,Play_Vo_throw_idle_girl021_05
+21	1005	奈莉徳-待机动作时，连续失败3次语音	
+21	1006	奈莉徳-待机动作时，成功1次语音	Play_Vo_throw_idle_girl021_06
+21	1007	奈莉徳-待机动作时，连续成功2次语音	Play_Vo_throw_idle_girl021_07,Play_Vo_throw_idle_girl021_08
+21	1008	奈莉徳-待机动作时，连续成功3次语音	
+21	1009	奈莉徳-常规成功动作时的语音	Play_Vo_throw_catch01_girl021_01,Play_Vo_throw_catch01_girl021_02
+21	1010	奈莉徳-特殊成功动作时的语音	Play_Vo_throw_catch02_girl021_01,Play_Vo_throw_catch02_girl021_02
+21	1011	奈莉徳-常规失败动作时的语音	Play_Vo_throw_lose01_girl021_01,Play_Vo_throw_lose01_girl021_02
+21	1012	奈莉徳-特殊失败动作时的语音	Play_Vo_throw_lose02_girl021_01,Play_Vo_throw_lose02_girl021_02
+21	1013	奈莉徳-成功结算表演的语音	Play_Vo_throw_victory_girl021
+21	1014	奈莉徳-失败结算表演的语音	Play_Vo_throw_defeat_girl021
+21	1015	奈莉徳-挑战模式结算表演的语音	Play_Vo_throw_victory_S_girl021
+21	1016	奈莉徳-减速冰镇技能期间的语音	Play_Vo_throw_skill_girl021
+21	1017	奈莉徳-外围界面选择少女时的语音	Play_Vo_throw_choose_girl021_02
+21	1018	奈莉徳-点单小剧场	Play_Vo_throw_choose_girl021_01

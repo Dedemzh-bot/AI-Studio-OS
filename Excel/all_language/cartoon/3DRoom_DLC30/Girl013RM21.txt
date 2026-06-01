@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员~听说了吗，菲洛索亚地区似乎有重新举办运动会的打算。	分析員~聽說了嗎，菲洛索亞地區似乎有重新舉辦運動會的打算。	分析員、聞いた？フィロゾア地域でまた運動会が開かれるかもしれないって。	분석가님~ 그거 아세요? 필로시아 지역에서 운동회를 다시 개최할 계획이 있대요.	Adjutant, did you hear? Philossia might be bringing back Sports Day!						0	3.0版本随机事件
+page1.2	运动会？我还以为泰坦降临后，这个词不会出现在人们的视野里了。	運動會？我還以為泰坦降臨後，這個詞不會出現在人們的視野裡了。	運動会か、タイタンが現れてから、もう聞くことはないと思っていたよ。	운동회? 타이탄 강림 이후로 사람들이 그 단어를 쓸 줄은 몰랐네.	Sports Day? I thought events like that were a thing of the past after the Titan Descent.						0	3.0版本随机事件
+page1.3	从现在开始筹备的话……差不多还得两三年的时间吧？	從現在開始籌備的話……差不多還得兩三年的時間吧？	今から準備したら……開催までに二、三年はかかるか？	지금부터 준비한다면… 대략 2~3년 정도는 걸리지 않을까?	If they start preparing now... it'll probably take two or three years, I think?						0	3.0版本随机事件
+page1.4	嗯！等运动会重新举办，分析员陪我一起去看看怎么样？	嗯！等運動會重新舉辦，分析員陪我一起去看看怎麼樣？	うん！開催されたら、分析員も一緒に見に行こうよ！	네! 운동회가 다시 열리면, 분석가님이 저랑 같이 보러 가주실래요?	Mhm! When the time comes, will you go with me?						0	3.0版本随机事件
+page1.5	那瑟瑞斯想看什么项目呢？	那瑟瑞斯想看什麼項目呢？	シーリスはどの競技に興味あるんだ？	그럼 세리스는 어떤 종목을 보고 싶어?	What event are you most interested in, Siris?						0	3.0版本随机事件
+page1.6	嘿嘿，其实都不太感兴趣呢。	嘿嘿，其實都不太感興趣呢。	えへへ、実はどれもあんまり興味ないかも。	헤헤, 사실 뭐든 별로 관심이 없어요.	Honestly? None of them, really.						0	3.0版本随机事件
+page1.7	只是听说比赛期间，菲洛索亚当地人会出售一种“火炬”冰淇淋。	只是聽說比賽期間，菲洛索亞當地人會出售一種「火炬」冰淇淋。	運動会の間に、「聖火」ってアイスが販売されるんだって。	그냥 대회 기간에 필로시아 현지인들이 '성화' 아이스크림을 판다고 들었거든요.	But I heard that during the games, the locals sell something called a "torch ice cream."						0	3.0版本随机事件
+page1.8	外层是香甜的巧克力，内里是绵密的奶油，想想都觉得很美味呢！	外層是香甜的巧克力，內裡是綿密的奶油，想想都覺得很美味呢！	外側は甘いチョコ、中はなめらかなクリームで、想像するだけでおいしそう！	겉은 달콤한 초콜릿이고 속은 부드러운 크림이에요. 생각만 해도 맛있을 것 같아요!	It's a chocolate shell with a creamy filling. It sounds so good!						0	3.0版本随机事件
+page1.9	到时候我一口，分析员一口。	到時候我一口，分析員一口。	その時は、私がひと口、分析員がひと口ね。	그때 가서 저랑 분석가님이랑 한 입씩 먹어요.	We can share it. I'll take a bite, then you take one.						0	3.0版本随机事件
+page1.10	这算“火炬传递”吗？听上去还怪有仪式感的。	這算「火炬傳遞」嗎？聽上去還怪有儀式感的。	「聖火リレー」ってことか？なんだか儀式みたいでいいかもな。	이런 것도 '성화 전달'이라고 할 수 있을까? 일종의 의식 같네.	Is that your version of a torch relay? Sounds kinda romantic.						0	3.0版本随机事件
+page1.11	期待期待，希望运动会早点筹备完成~	期待期待，希望運動會早點籌備完成~	楽しみだね、早く運動会が開かれるといいな！	기대돼요, 기대돼. 운동회가 빨리 준비됐으면 좋겠어요~	I can't wait! I hope they finish preparations soon!						0	3.0版本随机事件

@@ -1,0 +1,52 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，海之主被海鸥抓走了！	分析員，海之主被海鷗偷走了!	分析員、海の主がカモメにさらわれました！	분석가, 바다의 주인을 갈매기가 물어갔어!	Adjutant, a seagull caught the king bream!						0	1.3重置
+b-1											0	1.3重置
+2	冷静一点，那可不是什么海鸥。	冷靜一點!那才不是海鷗。	落ち着いて、あれはカモメなんかじゃない。	침착해, 그건 갈매기가 아니야.	Calm down — that's not a seagull.						0	1.3重置
+b-2											0	1.3重置
+3	估计是早就埋伏在附近，故意给我们添乱的。	恐怕是早就埋伏在附近，看準時機故意給我們找麻煩的。	とっくにこの付近に潜伏していて、意図的に妨害してきたんだと思う。	근처에 매복해 있다가 우리를 방해하려는 것 같아.	They must have been lurking around here the whole time to deliberately mess with us.						0	1.3重置
+4	怎么能这样？！	怎麼能這樣?!	そんな！？	어떻게 그럴 수가?!	For real!?						0	1.3重置
+5	应该还来得及。	應該還來得及。	まだ間に合うはずだ。	아직 시간은 충분해.	I think we can still get it.						0	1.3重置
+6	那架无人机带着鱼飞不了多快，只要将它射下来就能夺回海之主了。	那架無人機帶著魚的話飛不了多快，只要擊落它就能奪回海之主了。	魚の重さがある分、ドローンはあまり速く飛べないから、それを撃ち落とせば海の主を取り戻せる。	만약 드론이 물고기를 들고 있으면 빠르게 날지는 못할 거야. 우리가 쏴서 맞추기만 하면 다시 얻을 수 있을 거라고.	That drone can't fly very fast while it's carrying the fish. We just need to shoot it down, and the king bream is ours.						0	1.3重置
+b-3											0	1.3重置
+7	是啊，不过这个距离对我们来说也太……	是啊，不過這個距離對我們來說也太……	確かに。この距離だと、私たちには……	맞아, 근데 이 정도로 거리가 벌어지면…	Yeah, but it's too far away for any of us to hit...						0	1.3重置
+8	你们突然都盯着我做什么……	你們突然都盯著我幹嘛……	何見てんのよ……	왜 다들 날 쳐다보는 거야…	Why are you guys all looking at me...?						0	1.3重置
+10	啊，懂了懂了……	啊，懂了懂了……	はいはい、分かったから……	아, 알겠어, 알겠어…	Ah, okay, I get it...						0	1.3重置
+12	就再帮你们最后一次好了，不过这次……我可要从分析员这里索取点“特殊报酬”哦~	就再幫你們最後一次好了，不過這次……我可要從分析員這裡索取點“特殊報酬”哦~	もう一度だけ手伝ってやるさ。でも今回は…分析員から「特別な報酬」をもらうからね〜	진짜 마지막으로 도와주는 거야. 그런데 이번에는… 분석가가 '특별 보수'를 좀 줬으면 하는데~	I'll help you one last time. But Adjutant, don't forget to calculate my overtime pay for this.						0	1.3重置
+13	肴朝我眨了眨眼，见我点头示意后，她这才重新架起狙击枪，对准了拎着鱼摇摇晃晃的无人机。	肴朝我眨了眨眼，見我點頭示意後，她這才重新架起狙擊槍，對準了拎著魚搖搖晃晃的無人機。	肴はウインクすると、私のうなずきを確認してからスナイパーライフルを構え、揺れるドローンを狙う。	나를 보며 눈을 깜빡이던 야오는 내가 고개를 끄덕이자 그제야 다시 저격총을 꺼내 들었고, 물고기를 운반하며 비틀거리는 드론을 조준했다.	Yao slowly set up her sniper rifle before aiming it at the wobbly drone carrying the fish.						0	1.3重置
+14	接着——	接著——	それから——	이어서…	Then...						0	1.3重置
+15	搞定，收工。呼~累死了，累死了，我要回酒店洗个澡了。	搞定，收工。呼~累死了、累死了，我要回酒店洗個澡了。	終わったよ。はー、疲れた疲れた。ホテルに戻ってお風呂入ろうっと。	처리 완료. 하아암~ 힘들다, 힘들어. 호텔로 돌아가서 샤워나 해야겠다.	Alright, that's a wrap. Whew~ I'm wiped. Heading back to the hotel for a shower.						0	1.3重置
+16	哎？肴要现在就要回去了吗,还有，你说的报酬究竟是什么啊？	哎？肴要現在就要回去了嗎，還有，你說的報酬究竟是什麼啊？	え？もう帰るの？ それと、さっき言ってた報酬って何なの？	응? 야오, 벌써 돌아가는 거야? 그리고, 네가 말한 보수가 대체 뭐야?	Wait, you're leaving already, Yao? And what did you mean by "overtime pay," anyway?						0	1.3重置
+16_1	哼哼~是秘密哦，总之，我先回去准备啦~	哼哼~是秘密哦，總之，我先回去準備啦~	ふふん、秘密さ。じゃ、準備してくるよ〜	흐흥~ 비밀이야. 어쨌든 난 먼저 준비하러 간다~	Hehe~ That's a secret. Gotta go — I've got some prep work to do~						0	1.3重置
+16_2	晚上再见，playername。	晚上再見，playername。	夜にまたね、playername。	저녁에 보자, playername.	See you tonight, playername.						0	1.3重置
+18	喂……她说的“报酬”不会是……	喂……她說的“報酬”不會是……	ちょっと…「報酬」ってまさか……	설마… 야오가 말한 '보수'라는 게…	Wait... don't tell me that the "pay" is...!?						0	1.3重置
+auto_b-7											0	1.3重置
+b-7											0	1.3重置
+7_1	等等……也不是完全没有办法。	等等……也不是完全沒有辦法。	いや……方法がないわけではない。	잠깐… 방법이 없지는 않아.	Wait... There is one way...						0	1.3重置
+19	这都是为了大局，芬妮。	這都是為了大局，芬妮。	大局のためだよ、ファニー。	이게 다 큰 그림을 위한 거야, 페니.	It's all for the greater good, Fenny.						0	1.3重置
+19_1	哼！你这表情已经出卖你了！	哼！你這表情已經出賣你了！	その顔、もう白状してるわよ！	흥! 지금 네 표정을 보니 속이 훤히 보인다!	Hmph! That look on your face has totally sold you out!						0	1.3重置
+19_2	本小姐今天也要“报酬”！！	本小姐今天也要“報酬”！！	あたしも「報酬」もらうんだから！！	이 몸도 오늘 '보수'를 받을 거야!!	Then I want my own "pay" too!!						0	1.3重置
+19_3	嘿嘿嘿，你们这样子“压榨”分析员，姐姐我可是会心疼的哦。	嘿嘿嘿，你們這樣子“壓榨”分析員，姐姐我可是會心疼的哦。	ふふふ、そんなに分析員さんを酷使したら、お姉さんは心配しちゃいますよ。	헤헤헤, 너희가 이렇게 분석가를 '착취'하면 언니가 마음 아프단 말이야.	Hehehe~ Poor Adjutant, getting run ragged by you girls. Big sis might have to step in and whisk him off for some pampering~						0	1.3重置
+19_4	如果分析员晚上实在太累的话，也可以考虑来姐姐这里，姐姐我可不会索要什么报酬哦~	如果分析員晚上實在太累的話，也可以考慮來姐姐這裡，姐姐我可不會索要什麼報酬哦~	もし分析員さんが夜に疲れ切っていたら、お姉さんのところにいらしてくださいね。報酬なんて取りませんから〜	분석가, 만약 저녁에 너무 피곤하다면, 누님에게로 와도 좋아. 누님은 보상 같은 걸 바라지 않으니까~	If you're wiped out later, feel free to crash at my place, Adjutant~ No strings attached~						0	1.3重置
+19_5	借用芬妮刚刚的话，恩雅姐的嘴角已经出卖她心里打的算盘啦。	借用芬妮剛剛的話，恩雅姐的嘴角已經出賣她心裡打的算盤啦。	ファニーの言葉を借りれば、エンヤ姉の口元にも企みが見え見えだった。	방금 페니가 했던 말을 빌리자면, 엔야 누님의 입꼬리로 그녀의 속셈을 훤히 볼 수 있었다.	To borrow Fenny's line — Enya's smirk had already sold her out.						0	1.3重置
+19_6	咳咳，“报酬”的事情晚上再说吧，我们该抓紧时间去回收落地的海之主了。	咳咳，“報酬”的事情晚上再說吧，我們該抓緊時間去回收落地的海之主了。	ゴホン、報酬の話は夜だ。今は落ちた海の主を回収しよう。	크흠, '보수' 얘기는 저녁에 하고, 땅에 떨어진 바다의 주인을 얼른 회수하러 가야 해.	Ahem. Let's table the "pay" talk until tonight — right now, we've got a king bream to recover.						0	1.3重置
+19_7	再晚一些的话，总觉得那条海之主说不定又会被奇怪的无人机捡走了。	再晚一些的話，總覺得那條海之主說不定又會被奇怪的無人機撿走了。	遅れると、海の主がまた妙なドローンにさらわれそうで落ち着かない。	더 늦어진다면 또 이상한 드론이 나타나 그 바다의 주인을 주워갈지도 모른다는 생각이 자꾸 들었다.	Any later, and some weird drone might swoop in and snatch it again.						0	1.3重置
+21	啊？……刚刚的那个声音，是枪声？	什麼?……剛剛那個聲音，是槍聲?	あれ……さっきの音、銃声？	아?… 방금 이 소리는, 총소리?	Ah? ...Was that sound just now... a gunshot?						0	1.3重置
+22	还是我听错了……	還是我聽錯了……	空耳じゃ……	내가 잘못 들었나…	Or maybe I misheard...						0	1.3重置
+23	的确是枪声，不过离这里很远。	確實是槍聲，不過離這裡很遠。	確かに銃声だけど、遠く離れた場所から聞こえてきた。	총소리가 맞다. 하지만 여기서 멀리 떨어진 곳이다.	No, it was a gunshot. But it was far away.						0	1.3重置
+24	啊，是猫汐尔，你也申请了单独行动吗？！	啊，是貓汐爾，你也申請了單獨行動嗎?!	あっ、マーシルだ。あなたも単独行動を要請したの？	아, 시에라! 단독 미션을 신청하신 건가요?	Ah, Mauxir! Did you apply to compete solo too!?						0	1.3重置
+25	什么是“单独行动”喵？	什麼是“單獨行動”喵?	「単独行動」ってなんのことニャ？	'단독 미션'이 무엇인가냥?	What do you mean by "compete solo"?						0	1.3重置
+26	就是一个人独立完成所有任务的特殊挑战模式哦。	就是一個人獨立完成所有任務的特殊挑戰模式喔。	一人で全ミッションをクリアする特別な挑戦モードのことだよ。	그러니까 혼자서 모든 미션을 완수하는 특수 챌린지 모드예요.	It's a special way to compete in the challenges. One person completes all of the tasks by themself.						0	1.3重置
+27	如果这次我能靠自己的力量获胜，那分析员一定会对我刮目相看吧，嘿嘿嘿。	如果這次我能只憑自己的實力獲勝，那麼分析員一定會對我刮目相看吧，嘿嘿嘿。	今回自分の力で勝てれば、分析員も見直してくれるでしょ。えへへ。	이번에 제힘으로 승리를 거머쥔다면 분석가님도 저를 다르게 보겠죠, 헤헤헤.	If I can win all by myself this time, the Adjutant will definitely be super impressed! Hehehe~						0	1.3重置
+28	……	……	……	...	...						0	1.3重置
+29	大致推演了一下，成功率很低呢。	大致推演了一下，成功率很低喵。	簡単に計算した結果、成功率は極めて低いニャ。	대략적으로 유추해 본 결과, 성공률은 현저히 낮다.	According to my calculations, the probability of your success is very low.						0	1.3重置
+30	唔……好过分……	唔……好過分……	う……ひどい……	흑… 너무해요…	Tch... how rude...						0	1.3重置
+31	说起来，你有见过一架黑色的无人机吗？	話說回來，你有看到一架黑色的無人機嗎?	そういえば、黒いドローンを見なかった？	그나저나 검은색 드론을 본 적 있나냥?	By the way, have you seen a black drone?						0	1.3重置
+32	黑色的无人机……我想想……好像……	黑色的無人機……我想想……好像……	黒いドローン……そうだなぁ……えっと……	검은색 드론이라… 잠시만요… 아마도…	A black drone...? Lemme think... hmm...						0	1.3重置
+33	果然是问错人了。	果然是問錯人了喵。	やっぱり聞くんじゃなかった。	아무래도 쓸데없는 말을 한 것 같다.	Sure enough, I asked the wrong person.						0	1.3重置
+34	如果遇到的是分析员就好了。	如果遇到的是分析員就好了。	その辺に分析員がいたらいいのにニャ。	분석가한테 물어봤다면 이런 일은 없었을 것이다.	The Adjutant would be more helpful.						0	1.3重置
+35	唔……猫汐尔果然好过分……可不要小瞧我，这次我可是精心准备过了呢！	唔……貓汐爾好過分……可不要小看我，這次我可是有備而來呢!	うう……マーシルって本当にひどい……今回は入念に準備したんだから、甘く見ないでよね！	흑흑… 너무해요… 저를 너무 얕보지 말았으면 좋겠어요. 이번에는 철저히 준비했다고요!	Hmph... you're not being very nice, Mauxir... Don't underestimate me! I've carefully prepared for this!						0	1.3重置
+auto_35	这是……录像机？	這是……錄影機?	これは……ビデオレコーダー？	이건… 녹화기?	Is that... a video camera?						0	1.3重置
+37	嗯嗯，为了留下宝贵假日的回忆，从登录小岛开始就开启全程录像了哦。	嗯嗯~為了留下寶貴假期的回憶，我從上島之後就開始錄影了喔。	うん。大事な休日の思い出を残すために、島に上陸してから撮影を始めたよ。	네, 맞아요! 소중한 휴가의 추억을 남기고 싶어서 섬에 도착한 이후로 모든 과정을 녹화했어요.	Yeah, I want to preserve these special memories during our vacation. I started recording everything the moment I stepped onto the island.						0	1.3重置
+38	里面说不定就有猫汐尔想要的线索呢。	說不定裡面有貓汐爾想要的線索呢。	その中にマーシルが欲しい手がかりがあるかもしれないよ。	여기에 시에라가 찾고자 하는 단서가 있을지도 몰라요.	Maybe the footage has some clues that could help you, Mauxir.						0	1.3重置
+39	一起来找找吧，嘿嘿。	一起來找找吧，嘿嘿。	一緒に確認しよう、えへへ。	그럼 같이 한번 찾아볼까요? 헤헤…	Let's look at it together, hehe.						0	1.3重置

@@ -1,0 +1,4 @@
+﻿主界面序号	注释	界面umg路径	名字key	页签图标	静态底图	通过什么道具解锁	关联道具信息	指定默认场景ID(scene_change.txt)	图文说明UMG
+Id	Comment	Path	I18n	Icon	Background	UnlockItem	Item	SceneID	HelpId
+1	老版本主界面	/Game/UI/UMG/Main/umg_main.umg_main_C	supplies.mainUI01	1701509	1008008		{21,1,1,1}	1	296
+2	3.7新版主界面	/Game/UI/UMG/Main/umg_main2.umg_main2_C	supplies.mainUI02	1701510	1008008		{21,1,2,1}	3	295

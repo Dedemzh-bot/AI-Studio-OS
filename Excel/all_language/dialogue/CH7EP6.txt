@@ -1,0 +1,78 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	呵呵呵呵呵呵呵呵……	呵呵呵呵呵呵呵呵……	ふふふふふふふふ……	하하하하하하하하…	Hehehehehehe...						0	
+2	看得出来，暴力就是各位仅有的信仰……	看得出來，暴力就是各位僅有的信仰……	暴力だけがあなたたちの信仰のようだ……	폭력을 행사하는 게 당신들의 신앙인가 보군요…	It is clear that you only believe in violence...						0	
+3	大主不会允许你们这样对待我……	大主不會允許你們這樣對待我……	大司教はあなたたちの行為を許しはしない……	교주님이 분명 당신들이 절 이렇게 대하는 걸 허락하지 않을 거예요…	The High Presbyter will not allow you to treat me this way...						0	
+4	哪儿那么多文绉绉的废话！	哪裡那麼多文謅謅的廢話！	くだらないことばかり喋るんじゃねえよ！	제발 혼자서 고상한 척 좀 하지 마!	Enough of your darn babblin'!						0	
+5	跪下！双手抱头！再废话我打爆你的头啊！	跪下！雙手抱頭！再廢話我打爆你的頭啊！	両手を頭に当ててしゃがめ！ごちゃごちゃ言い続けると、その頭をぶち抜くぞ！	무릎 꿇고 두 손 머리 위로 올려! 쓸데없는 소리 하면 대가리를 날려버릴 테니까!	Kneel! Hands on your head! Any more nonsense and I'll blow off that head of yours!						0	
+b-1											0	
+6	芙提雅，检查一下，是萨特本人吗？	芙提雅，檢查一下，是薩特本人嗎？	フリティア、確認してくれ、サルトル本人か？	프티야, 진짜 사르트르인지 좀 확인해 줘.	Fritia, can you confirm if this is really Sartre himself?						0	
+7	遵命遵命！	遵命遵命！	はいはい！	오케이!	Roger that!						0	
+8	报告！分析员，从软体数据上来看，的确是萨特没错！	報告！分析員，從軟體數據上來看，的確是薩特沒錯！	報告！分析員、データから見て、確かにサルトル本人だよ！	보고! 연체 조직 데이터로 보면 사르트르가 확실해!	Reporting! Adjutant, software data tells us that this is indeed Sartre himself!						0	
+9	并且他所使用的这个人偶操纵系统“波伏娃”里，也确实记载着跟“基座”有关的信息。	並且他所使用的這個人偶操縱系統“波伏娃”裡，也確實記載著跟“基座”有關的資訊。	それに、彼が使っている人形システム「ボーヴォワール」の中にも、確かに「ベース」についての情報が記載されてる。	게다가 녀석이 사용하는 인형 조종 시스템 '보브아르'에도 '성지'와 관련된 정보들이 기록되어 있고!	And in the puppet operation system that he uses, Beauvoir, there are indeed records on the Shrines.						0	
+10	看来还是没有走向坏结局嘛！	看來還是沒有走向壞結局嘛！	どうやら、バッドエンドに至らなかったようだね！	이 정도면 최악의 상황은 방지할 수 있겠어!	Looks like this won't be a bad ending after all!						0	
+b-2											0	
+11	任务只完成了一半。	任務只完成了一半。	ミッションは半分しか達成していない。	아직 절반만 성공한 상황이야.	Our mission isn't over yet.						0	
+b-3											0	
+12	做好准备，准备押送萨特撤离天楼区。	做好準備，準備押送薩特撤離天樓區。	サルトルをスカイタワーエリアから押送する準備をして。	사르트르를 호송해서 스카이 타워를 떠나자.	Prepare to send Sartre out of the Towers under escort.						0	
+13	撤离请求已经发送，分析员，都要回去了，开心点！	撤離請求已經發送，分析員，都要回去了，開心點！	撤退の申請は出した。分析員、もう帰れるんだから、もっと喜んで！	철수 요청을 막 발송했어. 왜 이렇게 암담해 보이는 거야? 이제 곧 떠나는데 기분 좀 풀어, 분석가!	We've sent the evacuation request, Adjutant. We're all going back, so cheer up a little!						0	
+14	即使得到芙提雅的安慰，那团蒙在心脏位置的阴云也无法被驱散。	即使得到芙提雅的安慰，那團蒙在心裡的烏雲也無法被驅散。	フリティアに慰められても、私の心にある靄は晴れない。	프티야의 위로에도 마음속 깊이 드리운 검은 구름은 완전히 걷히지 않았다.	Fritia's encouragement still couldn't clear away the stormy clouds in my mind.						0	
+15	一开始的抓捕不利，紧接着暴露行踪，事件发展明明已经脱离了原本的轨迹，但最终又不可思议地完成了闭环。	一開始的抓捕不利，緊接著暴露行蹤，事件發展明明已經脫離了原本的軌跡，但最終又不可思議地完成了閉環。	最初はちゃんと捕縛できず、そのあとは痕跡がバレてしまった。事件は既に本来と違う方向へ発展したが、最後は不思議と正しい道に戻った。	처음 체포 작전을 실패하고, 위치를 들켜서 사건이 원래의 궤적을 이탈했지만, 그럼에도 미션을 원활하게 완수할 수 있었다.	The initial apprehension hadn't gone well, and our location had been exposed. Nothing went according to plan, but we still somehow managed to complete our mission in the end.						0	
+16	我产生了强烈的不安预感。	我產生了強烈的不安預感。	私は強烈に不安を覚えた。	하지만 강한 불안감이 엄습해왔다.	I started to get a horrible feeling of dread.						0	
+17	萨特那家伙嘴皮子还是挺利索的。	薩特那傢伙嘴還是挺伶俐的。	サルトルは結構喋りますね。	사르트르 녀석, 말 하나는 정말 논리적으로 하는군…	Sartre has quite a knack for words.						0	
+18	倒豆子一样。把我们准备的问题挨个回答了一遍。	直截了當的。把我們準備的問題逐個回答了一遍。	全然躊躇いなく、私たちが用意した質問に一通り答えました。	성실하게 아무런 숨김없이 묻는 질문에 전부 답해줬어요.	He gave a perfect answer to each of the questions we've prepared, not giving us anything on him.						0	
+b-4											0	
+19	其实，在返程的飞机上……	其實，在回程的飛機上……	実は、帰りの飛行機で既に……	사실 돌아오는 비행기 안에서…	Actually, on the flight back...						0	
+b-5											0	
+20	他就已经向茉莉安招供了。	他就已經向茉莉安招供了。	マリアンに洗いざらい吐いた。	이미 마리안에게 자백했었어.	He confessed his guilt to Marian.						0	
+21	这样啊……	這樣啊……	そうですか……	그렇군요…	I see...						0	
+22	他招供得未免有些太过容易了？	他招供得未免有些太過容易了？	あっさり白状しすぎじゃないですか？	근데 너무 쉽게 자백하는 거 아니에요?	Isn't it a little too smooth for him to confess just like that?						0	
+b-6											0	
+23	虽然茉莉安确实很擅长这个。	雖然茉莉安確實很擅長這個。	マリアンは尋問が得意なことを考慮しても、	마리안의 실력이 뛰어난 건 하지만,	Marian really is a pro.						0	
+b-7											0	
+24	但萨特还是演得太假了。	但薩特還是演得太假了。	サルトルは喋りすぎだ、演技だと思う。	사르트르가 너무 가식적이었어.	But Sartre's act was ridiculous.						0	
+25	看似可以自圆其说，一到我们所关心的关键问题，信息全部都残缺不全。	看似可以自圓其說，一到我們所關心的關鍵問題，資訊全部都殘缺不全。	一見辻褄が合っているようですが、肝心な問題になると、情報がことごとく欠けています。	대답이 그럴싸한 것 같으면서도, 저희가 듣고 싶어 하는 부분에서는 조금 부족한 것 같기도 하고…	He talks openly about anything, but when it comes to our biggest questions, he manages to talk without disclosing anything at all.						0	
+26	“波伏娃系统”的技术细节、“基座”是如何开发的、开发“基座”的目的、合作伙伴是谁……	“波伏娃系統”的技術細節、“基座”是如何開發的、開發“基座”的目的、合作夥伴是誰……	「ボーヴォワールシステム」の技術詳細とか、「ベース」をどうやって開発したとか、「ベース」を開発した目的とか、協力関係者の正体とか……	'보브아르 시스템'의 기술 요소라던가 '성지' 개발 목적은 뭐고, 협력자는 누구인지 물어보면…	The technical details of the Beauvoir system, how and why the "Shrine" was developed, who they're working with...						0	
+27	要么是含糊其词，要么就把罪责全往自己身上揽。	不是含糊其詞，不然就是把罪責全往自己身上攬。	誤魔化すか、全部自分のせいにしてます。	얼버부리거나 모든 책임을 자기 자신에게만 전가하고 있어요.	Either he uses vague wording that doesn't clarify anything, or he puts all the blame on himself so we don't get any clues.						0	
+28	我不相信所有阴谋都是他一个人导演的，降临团没有这个技术能力，萨特也没有这种头脑。	我不相信所有陰謀都是他一個人導演的，降臨團沒有這個技術能力，薩特也沒有這種頭腦。	全ての陰謀が彼の仕業だなんて信じられません。降臨団にはこういう技術がないし、サルトルもそんな頭脳は持ってません。	전 이 모든 걸 사르트르 혼자서 했다고 생각하지 않아요. 강림단은 그런 기술력을 소유하지 않았을뿐더러, 녀석에게도 그런 두뇌는 없으니까.	I don't believe he was the brains behind everything. The Adventists don't have high-level technical skills, and Sartre isn't smart enough.						0	
+29	呦！大家晚上好！加班的芙提雅老师终于完成了工作！	呦！大家晚上好！加班的芙提雅老師終於完成了工作！	よ！みんな、こんばんは！フリティア先生がやっと残業を終わらせたよ！	여어! 모두 방가방가! 프티야는 드디어 야근 탈출!	Hey, evening everyone! Professor Fritia's finally finished her overtime!						0	
+30	结果怎么样？	結果怎麼樣？	結果はどう？	결과는 좀 어때요?	How'd it go?						0	
+31	“波伏娃”上面记录的数据，全部都是伪造的！	“波伏娃”上面記錄的數據，全部都是偽造的！	「ボーヴォワール」の記録は、全部偽造したもの！	'보브아르'에 기록된 데이터들은 전부 위조됐던 것들이야!	All the data recorded on the Beauvoir was phony!						0	
+32	原始数据被进行了擦除和覆写很多遍！很多很多遍！	原始數據被進行了擦除和覆寫很多遍！很多很多遍！	元のデータは何度も削除と上書きされてる！何度も何度も！	원래 있던 데이터를 삭제하고 덮어씌우기를 여러 번 번복했던 것 같아!	The original data was erased and overwritten, again and again, a crazy amount of times!						0	
+33	还原不出来什么有用的信息了，真是令人生气！	還原不出來什麼有用的訊息了，真是令人生氣！	使える情報は何も復元できない、むかつく！	그리고 유용한 정보는 절대로 복원할 수 없도록 해놨어. 진짜 열받는 거 있지!	We can't recover any information of value at all! How dare they leave nothing for us!						0	
+34	通讯记录和“波伏娃”零件的出厂编号查过了吗？	通訊記錄和“波伏娃”零件的出廠編號查過了嗎？	通信記録と「ボーヴォワール」のパーツのシリアル番号は調べた？	통신 기록이나 '보브아르' 부품의 시리얼 넘버는 찾아봤어요?	Did you check the communication records and serial numbers of the Beauvoir parts?						0	
+35	当然当然，但是通讯记录也被抹除了！	當然當然，但是通訊記錄也被抹除了！	もちのろん！でも、通信記録も削除されてる。	그야 물론이지! 통신 기록도 전부 지워져 있었어.	Yes, of course! But all the communication history was erased!						0	
+36	也已经跟希尔伯特－阿瑟公司交涉过了，“波伏娃系统”使用的明明都是标准件，在他们系统记录上却全部成了报废件！	也已經跟希爾伯特－阿瑟公司交涉過了，“波伏娃系統”使用的明明都是標準件，在他們系統記錄上卻全部成了報廢件！	ヒルベルト・アーサー社とも交渉した。「ボーヴォワールシステム」が使っていたのは全部規格品なのに、システムの記録上では全部廃棄品になってる！	힐베르트-아서에도 물어보니 '보브아르 시스템'은 모두 표준 규격품을 사용했고, 시스템 기록을 보니 전부 폐기된 제품이라 하더라고.	I also spoke with Hilbert-Arthur, but in their records, those clearly authentic Beauvoir parts were all registered as scrap odds and ends!						0	
+37	就像是提前准备过了一样！	就像是提前準備過了一樣！	まるで事前に用意したように！	마치 사전에 준비한 것처럼 말이지!	It's like they prepared everything in advance!						0	
+38	我想起陶上次跟我说的话：“在董事会中，有人借助层层掩护，在隔离区内进行对泰坦的实验。”	我想起τ上次跟我說的話：“在董事會中，有人借助層層掩護，在隔離區內進行對泰坦的實驗。”	あらゆる手段で人目を避けて、封鎖エリア内でタイタンの実験を行うものが理事会にいると、τに言われたことを思い出した。	순간 τ가 나에게 '이사회에서 누군가 이런저런 보호를 받으면서 격리 구역에서 타이탄 실험을 해왔어.'라고 했던 말이 떠올랐다.	I recalled what τ had said to me before — "Someone on the Board has been secretly conducting experiments on Titans in the Containment Zone."						0	
+39	世界树公司，作为市值全球第一的跨国企业，我仍未知晓它到底能够发挥出多大的能量。	世界樹公司，作為市值全球第一的跨國企業，我仍未知曉它到底能夠發揮出多大的能量。	ユグドラシル社、時価総額世界一のグローバル企業として、どこまでの力を発揮できるか、私にはまだ分からない。	시가 총액 1위를 유지하는 다국적 기업 위그드라실이 얼마나 큰 능력을 지니고 있는지 아직까지 가늠하기 힘든 건 사실이다.	Yggdrasil was a multinational company and the world's largest by market value. I was still unaware just how much strength it held within...						0	
+40	而利用它作恶的人，又能够做到什么程度呢？	而利用它作惡的人，又能夠做到什麼程度呢？	悪用する人がいたら、どこまでやれる？	만일 그렇다면 회사를 역이용해서 어디까지 나쁜 짓을 할 수 있을까?	...or just how much evil individuals could take advantage of it.						0	
+b-8											0	
+41	如果是公司内部有人……	如果是公司內部有人……	社内に助っ人がいたとしたら……	만약 회사 내부에 누군가…	If it's someone within Yggdrasil...						0	
+42	分析员！	分析員！	分析員！	분석가님!	Adjutant!						0	
+43	我有点累了……要不要一起去喝一杯咖啡？	我有點累了……要不要一起去喝一杯咖啡？	少し疲れました。一緒にコーヒーでも飲みに行きませんか？	조금 피곤해서 그런데… 커피나 한잔하러 가실래요?	I'm a little tired... Want to have some coffee together?						0	
+44	所以，你是从哪里听到的消息？还是说你自己怀疑公司内部有人帮助萨特？	所以，你是從哪裡聽到的消息？還是說你自己懷疑公司內部有人幫助薩特？	で、その情報はどこから聞いたんですか？それとも単なる勘ですか？	그런 정보는 어디서 들으신 거죠? 회사 내부에 사르트르를 돕는 사람이 있다고 의심하고 있는 건가요?	So, where did you hear that information? Or do you suspect someone in the company is aiding Sartre?						0	
+b-9											0	
+45	是陶跟我说的。	是τ跟我說的。	τが教えてくれたんだ。	τ가 말해준 거야.	τ told me.						0	
+46	董事们之间的权利斗争？大佬们之间的交锋，你和我最好都不要掺和……	董事們之間的權利鬥爭？大佬們之間的交鋒，你和我最好都不要摻和……	取締役たちの権利闘争？偉い人たちのことだから、私たちは首を突っ込まない方がいいですよ……	이사들 사이에 있는 권력 투쟁에 말려들어봤자 저희한테 좋을 거 하나도 없어요…	Could it just be a power struggle within the Board? We'd better not stick our noses where they don't belong...						0	
+47	……老板不会有向你许诺了什么好处吧？你没有答应吧？	……老闆不會有向你許諾了什麼好處吧？你沒有答應吧？	……それともボスが何かメリットとか約束してくれました？まさかもう引き受けたとかじゃ？	… 이사들이 분석가님한테 뭐라도 챙겨주겠다고 말한 건 아니죠?	...The boss didn't promise you anything, did she? You didn't accept, did you?						0	
+b-10											0	
+48	没有，但我已经卷进来了。	沒有，但我已經捲進來了。	いいや、でももう巻き込まれてしまった。	그런 거 없어. 말려든 건 맞는 것 같지만.	No, but I'm already wrapped up in it.						0	
+b-11											0	
+49	只能把它变成一个机会。	只能把它變成一個機會。	これをチャンスに変えるしかない。	어쩔 수 없이 이번 상황을 기회로 삼아야 할 거 같아.	I can only use it as an opportunity.						0	
+50	机会……唉……机会……你不已经是海姆达尔部队的老大了吗？	機會……唉……機會……你不已經是海姆達爾部隊的老大了嗎？	チャンス……はあ、チャンスね……もうヘイムダル部隊のボスになったじゃないですか。	기회라… 어차피 분석가님은 이미 헤임달 부대의 리더 아니신가요?	An opportunity... *sigh*... Aren't you leader of the Heimdall Force already?						0	
+51	多的就不说了，总感觉还是共感神经被切掉前的你比较可爱。	多的就不說了，總感覺還是共感神經被切掉前的你比較可愛。	これ以上は言いませんけど、共感神経が切れる前の分析員の方が可愛げがありましたね。	뭔지 모르겠지만 공감 신경을 잘라내기 전의 분석가님이 더 귀여운 것 같네요.	I won't ramble on... but I feel like you were cuter before your Empathic Ganglia were removed.						0	
+52	话说回来……	話說回來……	ところで……	다시 말하자면…	Anyways...						0	
+53	老板一直和其他几位董事不太对付，董事会也对老板拥有这么大的话语权不满……这是众所周知的事。	老闆一直和其他幾位董事不太對付，董事會也對老闆擁有這麼大的話語權不滿……這是眾所周知的事。	ボスは他の取締役たちとは馬が合わず、理事会も、権力のあるボスが気に食わない……これは誰でも知っていることですよ。	대표님이 일부 이사들하고 잘 맞지 않고, 이사회가 대표님 발언권에 대해 불만을 가지고 있다는 사실은… 모두가 잘 알고있는 사실이에요.	The boss has been having issues with the other members of the Board. They're not happy with how much power she has... Everyone knows that.						0	
+54	据我所知，董事们好像有什么重要的项目在老板手上，所以有时候不得不向老板服软……	據我所知，董事們好像有什麼重要的項目在老闆手上，所以有時候不得不向老闆服軟……	私が知る限りでは、ボスは取締役たちの大事なプロジェクトを担当しているから、嫌でもボスの言いなりになっているとか……	제가 알기로는 이사님들의 중요한 프로젝트를 대표님이 쥐고 있어서 어쩔 수 없이 양보를 해야 한다고 들었어요…	As far as I know, it seems like the boss is handling an important project for the rest of the Board, so they have to give in to her sometimes...						0	
+55	难道这个跟“基座”和“布里希嘉曼”有关？	難道這個跟「基座」和「布里希嘉曼」有關？	まさか、それが「ベース」や「ブリーシンガメン」にも関係しているんですか？	설마 '성지'하고 '브리히가만' 사이에 어떤 관련성이 있는 건 아니겠죠?	Could that have anything to do with the Shrines and Brisingamen?						0	
+b-12											0	
+56	陶的项目也可能跟这些相关。	τ的項目也可能跟這些相關。	τのプロジェクトも関係しているかもな。	τ가 진행하는 프로젝트도 아마 이것들과 연관이 있을 수 있어.	τ's project might have something to do with that.						0	
+57	这未免也太过魔幻了，不对不对……不要去想这些了。	這未免也太過魔幻了，不對不對……不要去想這些了。	まったく実感がありませんね。だめだめ……もう考えない方がいいです。	이건 너무 많이 간 것 같은데요? 아니에요, 아니에요… 그만 말하는 게 좋을 것 같아요.	It's like we're in a fantasy world... No... I don't want to think about it.						0	
+58	playername，下次在公司说话要小心一些！	playername，下次在公司說話要小心一些！	playername、会社で話す時は口を謹んで！	playername, 아무튼 다음부터 회사에서 말을 할 때는 조심하도록 하세요!	playername, you have to be careful when you talk inside the company!						0	
+59	你知不知道雷吉乌斯在公司里有多少个摄像头可以控制！以董事的权限来说，可以随时调取查看！	你知不知道雷吉烏斯在公司裡有多少個攝影機可以控制！以董事的權限來說，可以隨時調取查看！	レイギウスがこの会社でどれぐらいの監視カメラをコントロールできるのか知ってますか！取締役の権限ならいつでも調査できますから！	레지오스가 회사의 CCTV를 몇 대나 제어할 수 있는지 아세요?! 이사회의 권한이면 언제든지 확인이 가능하다고요!	Do you know how many cameras Regius has control over here? The Board has the authority to watch the video surveillance at any time!						0	
+b-13											0	
+60	你刚才的话说到一半，没有说完。	你剛才的話說到一半，沒有說完。	さっきの話がまだ終わっていない。	아직 얘기가 다 안 끝났잖아. 말을 반만하고 가는 게 어딨어.	Everything you just said is only the half of it.						0	
+61	往那个方向猜想对我们没有任何什么好处，你难道还想调查老板吗？	往那個方向猜想對我們沒有任何什麼好處，你難道還想調查老闆嗎？	その方向で考えてみても何のメリットもありません。まさかボスを調査するつもりですか？	어차피 추궁해 봤자 저희한테 좋을 거 없어요. 설마 계속해서 대표님을 조사하려는 건 아니죠?	It's not helpful to speculate. Are you saying you want to investigate the boss?						0	
+62	分析员，出事了！	分析員，出事了！	分析員！緊急事態だ！	분석가, 큰일이야!	Adjutant, something happened!						0	
+63	是萨特。	是薩特。	サルトルだ。	사르트르에 관련된 일이야.	It's Sartre.						0	

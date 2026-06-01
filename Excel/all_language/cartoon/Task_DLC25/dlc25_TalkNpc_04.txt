@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	求助！求助！	求助！求助！	助けて！助けて！	구조 요청! 구조 요청!	Help! Help!						0	2.5新星开拓关卡npc
+page1.2	<orange>赛曼加</>在<orange>怪怪任意洞</>遇到困难！位置坐标<orange>观光区</>，时间特征<orange>夜晚</>！	<orange>賽曼加</>在<orange>怪怪任意洞</>遇到困難！位置坐標<orange>觀光區</>，時間特徵<orange>夜晚</>！	<orange>シマンガ</>が<orange>奇妙などこでも穴</>で遭難したんだ！座標は<orange>観光エリア</>、時間は<orange>夜</>！	<orange>시맨저</>가 <orange>기괴한 임의의 구멍</>에서 곤란을 겪고 있어요! 위치 좌표는 <orange>관광지</>, 시간 특성은 <orange>밤</>입니다!	<orange>Seamanger</> is struggling in the <orange>bizarre portal</>! Location: <orange>Scenic Area</>, Time: <orange>Night</>!						0	2.5新星开拓关卡npc
+page1.3	将<orange>赛曼加</>救出，尖尖耳带您去<orange>新的海岛</>！感谢！感谢！	將<orange>賽曼加</>救出，尖尖耳帶您去<orange>新的海島</>！感謝！感謝！	<orange>シマンガ</>を助けてくれれば、ウサミミが<orange>新しい島</>へ連れてってやる！	<orange>시맨저</>를 구해주세요! 뾰족귀가 동료를 <orange>새로운 섬</>으로 데려갈게요! 감사합니다! 감사합니다!	Rescue <orange>Seamanger</>, and I'll take you to the <orange>new island</>! Thank you!						0	2.5新星开拓关卡npc

@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，尖尖耳已经在期待蓝图岛完成的样子了！	分析員，尖尖耳已經在期待藍圖島完成的樣子了！	分析員、ビジョン島の開発完成が待ちきれないよ！	분석가님, 뾰족귀는 설계의 섬이 완성될 모습이 벌써 너무 기대돼요!	Adjutant, I'm excited to see what the finished Builder Island will end up like!						0	dlc30蓝图岛对话
+page1.2	可以不可以再让尖尖耳一饱眼福，看看您的英姿~	可不可以再讓尖尖耳一飽眼福，看看您的英姿~	もう一度ウサミミに、分析員の勇姿を見せてくれる？	뾰족귀에게 분석가님의 멋진 모습을 한 번 더 보여주시면 안 될까요~	Will you let me admire your heroics again?						0	dlc30蓝图岛对话
+page1.3	说起来，我原本对这个区域有个独特的想法。	說起來，我原本對這個區域有個獨特的想法。	そういえば、このエリアについて、ひとつアイデアが浮かんでたんだ。	그러고 보니, 난 이 구역에 대해 특별한 아이디어가 있었어.	Come to think of it, I had a special idea for this area.						0	dlc30蓝图岛对话
+page1.4	全宇宙不同风格的建筑都将出现在我们的小岛上，每天可以根据心情换一栋想住的房子。听起来是不是很酷？	全宇宙不同風格的建築都將出現在我們的小島上，每天可以根據心情換一棟想住的房子。聽起來是不是很酷？	全宇宙の様々な建物がこの島にあって、毎日の気分に合わせて住む家を変えられる。素敵だと思わない？	우주 각지 다양한 양식의 건물들이 우리 섬에 모두 모이는 거야. 매일 기분에 따라 살고 싶은 집을 바꿔가며 살 수 있지. 멋지지 않아?	What if we had buildings of all kinds from across the universe, and every day we could move into a new house? Wouldn't that be amazing?						0	dlc30蓝图岛对话
+page1.5	分析员，要不要我把之前的测试存档加载出来给你看看？	分析員，要不要我把之前的測試存檔載出來給你看看？	分析員、この前のテストデータを見せてあげようか？	분석가, 내가 이전 테스트 세이브 파일을 불러와서 보여줄까?	Want me to load up one of the old test saves so you can take a look?						0	dlc30蓝图岛对话
+page1.6	别了吧，我担心游戏崩了搞丢我们的存档。	不要吧，我擔心遊戲崩了搞丟我們的存檔。	やめておくよ。クラッシュして私たちのデータが消えないか心配だ。	됐어, 게임이 튕겨서 우리의 세이브 파일이 날아갈 수도 있잖아.	We'd better not. I'm worried the game might crash and we'd lose our save files.						0	dlc30蓝图岛对话
+page1.7	啊！	啊！	あっ！	아!	What!?						0	dlc30蓝图岛对话
+page1.8	真是失职啊安卡希雅制作人，如果发生了那样的悲剧，你还有何颜面继续做制作人？	真是失職啊安卡希雅製作人，如果發生了那樣的悲劇，你還有何顏面繼續當製作人？	そんなことが起きたら、プロデューサー失格だから！	정말 직무유기네. 아카시아 프로듀서, 그런 사태가 일어난다면 프로듀서 일을 계속할 면목이 있겠어?	If something like that happened, how could I even call myself a producer?						0	dlc30蓝图岛对话
+page1.9	倒也没有那么严重……	倒也沒有那麼嚴重……	そこまで深刻なことじゃないだろ……	그렇게 심각한 건 아닌데…	It's not that dramatic...						0	dlc30蓝图岛对话
+page1.10	其实我已经有想法了，我希望在这里建造一座<orange>复古街机大楼</>。	其實我已經有想法了，我希望在這裡建造一座<orange>復古街機大樓</>。	実はもう考えがあるんだ。ここに<orange>レトロアーケードビル</>を建てたい。	사실 이미 생각해 둔 게 있는데, 여기에 <orange>아케이드 게임 센터</>를 만들고 싶어.	Actually, I already have an idea. I want to build a <orange>Retrocade</> here.						0	dlc30蓝图岛对话
+page1.11	不是已经有一座次世代展览馆了吗？	不是已經有一座次世代展覽館了嗎？	もう次世代展示館があるのに？	이미 차세대 전시회가 있잖아?	Isn't there already a Game Gallery?						0	dlc30蓝图岛对话
+page1.12	展览和游玩是不一样的。	展覽和遊玩是不一樣的。	展示じゃなくて、実際にプレイできるんだ。	전시랑 게임은 다르지.	Playing and exhibiting are totally different.						0	dlc30蓝图岛对话
+page1.13	展览馆是存放观赏用、保存用和炫耀用物品的地方，复古街机大楼则注重体验。	展覽館是存放觀賞用、儲存用和炫耀用物品的地方，復古街機大樓則注重體驗。	展示館は観賞用、保存用、自慢用の物を置く場所で、レトロアーケードビルはそういうものを体験できる場所だ。	전시회는 관상용, 보관용, 자랑용 물건을 보관하는 곳이고, 아케이드 게임 센터는 주로 체험을 하는 곳이야.	The Game Gallery is for preserving and showing things off. The Retrocade is all about enjoying the experience.						0	dlc30蓝图岛对话
+page1.14	居然连这个都清楚……不过为什么是“复古”街机大楼。	居然連這個都清楚……不過為什麼是「復古」街機大樓。	そんなのも知ってるんだ……でも、なんで「レトロ」？	이런 것까지 알다니… 근데 왜 하필 '아케이드' 게임 센터야?	You even know that... But why a "Retrocade"?						0	dlc30蓝图岛对话
+page1.15	带一点安卡希雅的特色？	帶有一點安卡希雅的特色？	アカシアらしさを少し加えたいからかな？	아카시아만의 특징을 살리려고?	I want it to have a little bit of your charm?						0	dlc30蓝图岛对话
+page1.16	毕竟你很喜欢搓那些旧式街机，到时候这个大楼所有醒目的地方，都会布置上街机。	畢竟你很喜歡那些舊式街機，到時候這個大樓所有醒目的地方，都会佈置上街機。	古いアーケードゲームが好きだろ？完成したら、このビルの目立つ場所全部にアーケードゲームが設置されるんだ。	네가 아케이드 게임을 좋아하잖아. 나중에 이 건물의 눈에 띄는 곳마다 아케이드 게임기를 설치할 거야.	Since you love classic arcade cabinets, I'll make sure all the best spots are filled with them.						0	dlc30蓝图岛对话
+page1.17	我也会把你沉睡时错过的那些街机搜集过来，然后我们一起补完。	我也會把你沉睡時錯過的那些街機收集過來，然後我們一起補完。	君が休眠している間にできなかったアーケードゲームを集めて、一緒にプレイしよう。	네가 잠들어있는 동안 놓쳤던 아케이드 게임들을 모아둘 테니까, 나중에 같이 해보자.	I'll also track down all the arcade machines you missed while you were in hibernation, and we'll try them together.						0	dlc30蓝图岛对话
+page1.18	分析员……咳，看来到时候要通宵和分析员争出排行榜的榜首了。	分析員……咳，看來到時候要通宵和分析員競爭排行榜的榜首了。	分析員……そうなったら、徹夜して分析員とランキング1位を争わないといけないね。	분석가… 크흠, 그때 되면 밤새 분석가랑 랭킹 1위를 놓고 경쟁해야겠네.	Adjutant... Ahem, looks like I'll be pulling all-nighters, battling you for the top leaderboards then.						0	dlc30蓝图岛对话

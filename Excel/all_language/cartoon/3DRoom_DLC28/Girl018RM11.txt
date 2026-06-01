@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	今晚是《分析之海》第8章。	今晚是《分析之海》第8章。	今夜は『知の潮汐』第8章ですっ。	오늘 밤은 <분석의 바다> CHAPTER VIII이에요.	Tonight, we'll be reading Chapter 8 of Sea of Analysis.						0	2.8版本随机事件
+page1.2	你昨天读到了月光海。	你昨天讀到了月光海。	昨日、読み終えたのは『月映の渚』のところだったな。	어제 달빛 바다까지 읽었잖아.	You only read up to the Moonlit Sea yesterday.						0	2.8版本随机事件
+page1.3	原来上次读到月光海分析员就睡着了哇。那今天接着月光海开始吧。	原來上次讀到月光海時分析員就睡著了啊。那今天接著從月光海開始吧。	ふふっ、前回分析員さんはその辺で寝ちゃいましたもんね～♡。 じゃあ今日はそこからにしましょうか。	아, 지난번에 달빛 바다 부분까지 읽고 분석가님이 잠들어버렸군요. 그럼 오늘은 달빛 바다부터 다시 시작해요.	That must have been when you fell asleep. Alright, let's pick up from there, then.						0	2.8版本随机事件
+page1.4	薇蒂雅说着调暗了灯光。	薇蒂雅說著調暗了燈光。	ヴィディアは囁くように言い、そっと灯りを落とす。	비디야가 그렇게 말하며 조명을 어둡게 조절했다.	Vidya dimmed the light as she spoke.						0	2.8版本随机事件
+page1.5	先重复昨天的段落——你说下午6点回来，于是从3点起……	先重複昨天的段落——你說下午6點回來，於是從3點起……	では昨日の一節をもう一度――『夕方6時に戻ると言ったから、私は3時から……』	먼저 어제 읽은 부분을 다시 읽어봐요. 네가 오후 6시에 온다면, 나는 3시부터…	Let's reread the part from yesterday... "If you come at six in the afternoon, I'll begin to..."						0	2.8版本随机事件
+page1.6	我就开始感到幸福。	我就開始感到幸福。	『もう幸せを感じていた。』	행복해지기 시작할 거야.	"...be happy by three."						0	2.8版本随机事件
+page1.7	薇蒂雅闻言，脸红着用书捂住嘴巴。	薇蒂雅聞言，臉紅著用書摀住嘴巴。	ヴィディアは頬を染め、本で口元を隠す。	그 말을 들은 비디야는 얼굴이 붉어져 책으로 입을 가렸다.	Vidya blushed and covered her mouth with the book.						0	2.8版本随机事件
+page1.9	原来分析员还记得？	原來分析員還記得？	覚えていてくださったんですね……	분석가님, 기억하고 있었네요?	You memorized it?						0	2.8版本随机事件
+page1.10	嗯哼，继续吧。	嗯哼，繼續吧。	もちろんさ。続けて。	물론이지, 계속하자.	Mhm, go on.						0	2.8版本随机事件
+page1.11	薇蒂雅将声线放得更软了些：	薇蒂雅將聲線放得更軟了一點：	声は先ほどより一段と甘く沈む。	비디야는 목소리를 한층 더 부드럽게 낮추었다.	Vidya softened her voice even more.						0	2.8版本随机事件
+page1.12	假如你驯服了我……	假如你馴服了我……	『もし、あなたが私を飼い慣らしてくれたら――』	네가 날 길들인다면…	"If you tame me..."						0	2.8版本随机事件
+page1.13	这句话，怎么跟昨晚听到的不太一样呢？	這句話，怎麼跟昨晚聽到的不太一樣呢？	ん？昨夜聞いたセリフと少し違わないか？	어젯밤에 들었던 내용과는 좀 다른데?	Wait. That line doesn't sound quite the same as it did last night.						0	2.8版本随机事件
+page1.14	因为……今天的剧情，需要……	因為……今天的劇情，需要……	だって……今日の展開には、その、必要なんですから♡	왜냐하면… 오늘의 스토리는…	That's because... today's story needs...						0	2.8版本随机事件
+page1.15	还不待吞吐的辞藻被完整说出，唇齿相碰的声音已碾碎了句末的标点。	還等不到吞吐的辭藻被完整說出，唇齒相碰的聲音已碾碎了句末的標點。	恥じらい混じりの囁きが唇に溶け、二人の距離をゼロにした。	우물쭈물하며 말을 다 내뱉기도 전에, 입술이 서로 맞닿는 소리가 그녀의 말끝을 흐렸다.	Before she'd finished speaking the words, they were broken by the sound of a bitten lip.						0	2.8版本随机事件

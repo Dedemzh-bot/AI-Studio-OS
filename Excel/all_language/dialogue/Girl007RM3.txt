@@ -1,0 +1,64 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	黄油一块……糖半勺。	奶油一塊……半湯匙的糖。	バター一切れ……砂糖小さじ2分の1。	버터 한 조각… 설탕 반 스푼.	One lump of butter... and half a spoonful of sugar.						0	
+2	（小吉为什么一听到我要做东西就让大家离开呢？明明我不害怕大家看着我的。）	（小吉為什麼一聽到我要做東西就讓大家離開呢？明明我不害怕大家看著我的。）	（ギーちゃんは、どうして私が料理を作ると聞いて、みんなを離れさせたんでしょう？私、見られても平気なのに。）	(샤오지는 왜 내가 뭘 만들려고 하면 사람들을 대피시키는 거지? 사람들이 쳐다봐도 무섭지 않은데 대체 왜 그러는 걸까?)	(Why did Gigi make everyone leave the moment she heard I'd be cooking? It's not like I'm afraid of people watching me.)						0	
+3	（或许是为了让我更专心一些吧，如果有其他人看着我的话，我总是想着表现好点。）	（或許是為了讓我能夠專心製作吧，如果有其他人看著我的話，我總是想著要好好表現。）	（私が集中できるようにするためかもしれませんね。誰かに見られていると、背伸びしちゃうから。）	(내가 집중할 수 있게 배려해 주는 거겠지? 누군가 날 보고 있으면 더 잘하려고 눈치를 보게 되니까)	(Maybe he wanted to help me focus. If I'm being watched, I always want to try a little harder.)						0	
+4	琴诺蹲在吧台前，在柜子里拿出一包生咖啡豆，小心地一点点拆开。然后，抓了一把扔进烘焙碗里。	琴諾蹲在吧檯前，從櫃子裡拿出一包咖啡生豆，小心翼翼地拆開後抓了一把扔進烘焙碗裡。	チェルノはバーカウンターの前でしゃがみ込み、棚から生のコーヒー豆を1パック取り出し、慎重に開けた。そして、一つかみの豆をボウルの中に放り込んだ。	체르노는 바 앞에 쪼그리고 앉아서 서랍에 있던 커피 원두 봉지를 조심스럽게 뜯고는 한 움큼 쥐더니 로스터기에 넣었다.	Cherno was standing on her tiptoes at the counter, grabbing a bag of raw coffee beans from the shelf. She carefully tore it open, then took out a handful and popped them into the roasting bowl.						0	
+b-1											0	
+5	琴诺，你在做什么？	琴諾，你在做什麼？	チェルノ、何をしているんだ？	체르노, 뭐 하고 있는 거야?	Cherno, what're you making?						0	
+6	呀！	呀！	ひゃっ！	아앗!	Gya!						0	
+7	哐当一声，琴诺手里的软刀砸翻了她面前排列整齐的器皿。	匡噹一聲，琴諾手裡的刮刀砸翻了她面前排列整齊的器皿。	カランと、チェルノが持っていたゴムべらが落ちて、彼女の前に並べられた容器を倒してしまった。	'쿵…'하는 소리와 함께 체르노가 쥐고 있었던 칼이 앞에 나란히 놓여있는 식기들과 부딪히더니 깨져나갔다.	With a clatter, the blunt knife in Cherno's hands knocked over all the utensils neatly lined up before her.						0	
+b-2											0	
+8	没受伤吧？	沒受傷吧？	ごめん、驚かせちゃったね。怪我はない？	괜찮아? 어디 다친 곳은 없어?	Are you hurt?						0	
+9	没有，没有。都怪我自己没拿住软刀。我自己会把这里收拾干净的！	沒有，沒有。都怪我自己沒拿穩刮刀。我自己會把這裡收拾乾淨的！	いえ、いえ。私が手を滑らせたのが悪いんです。ちゃんと片づけます！	괜찮아요, 괜찮아요! 칼을 잘못 쥐고 있어서 그런 거예요. 제가 깨끗이 치울게요!	No, not at all. It's all my fault for not holding onto the knife tightly. I'll clean up everything here properly myself!						0	
+b-3											0	
+10	交给机器人就好。	交給機器人就好。	ロボットに任せよう。	그냥 로봇한테 맡겨.	You can just let the robot handle it.						0	
+b-12											0	
+11	怎么突然想起来做东西吃？	怎麼突然想做東西吃？	どうして急に料理なんか？	근데 갑자기 뭘 해 먹으려고 그러는 거야?	What gave you the idea to cook something?						0	
+12	这个……那个，因为上次莫尔索好像欺负了分析员，还说了不好听的话。	這個……那個，因為上次莫爾索好像欺負了分析員，還說了不好聽的話。	これは……その、前にムルソーが分析員さんに意地悪なことを言ったようなので。	아… 그게… 저번에 모르소가 분석가님을 무시하고 말을 너무 함부로 한 것 같아서요.	Oh... um, that's because Meursault seemed to have been picking on you last time, Adjutant... She said some mean things.						0	
+13	我跟莫尔索说这样是不对的，但是莫尔索不肯服输。于是就想着给分析员做点吃的道歉……	我跟莫爾索說這樣是不對的，但是莫爾索不肯認錯。於是就想說做些吃的跟分析員道歉……	ムルソーにはダメだよって言ったけど、聞かなくて。それでお詫びに、分析員さんに料理を作ってあげようと……	그러지 말라고 당부했지만 모르소는 그럴 생각이 없는 것 같아요. 그래서 저라도 분석가님한테 맛있는 걸 드리고 사과를 하려 했거든요…	I told Meursault that it's not right to treat you like that, but she just wouldn't give in. And so I thought perhaps I could make you a little snack as an apology...						0	
+b-4											0	
+14	哦哦哦，没事，没事。	哦哦哦，沒關係，沒關係。	そうかそうか。いいんだ、気にしないで。	아… 그렇구나. 신경 쓸 필요 없어. 난 괜찮아.	Ohh, I see. Don't worry about that.						0	
+15	看着混在不成型面糊里的生咖啡豆，我庆幸琴诺刚刚手抖打翻了她的小点心。	看著混在不成型麵糊裡的咖啡生豆，我慶幸琴諾剛剛手抖打翻了她的小點心。	生のコーヒー豆が混ぜこまれた生地を見た。チェルノには申し訳ないが、こぼしてくれてよかった……	엉성하게 반죽된 커피 생두를 보고는 체르노가 그릇을 엎어서 오히려 잘 됐다고 생각했다.	Seeing whole raw coffee beans mixed inside the deformed lump of butter, I felt rather glad that Cherno had accidentally knocked over my would-be snack.						0	
+b-5											0	
+16	我是来问你的有没有空和我一起出去的。	我是來問你有沒有空和我一起出去的。	チェルノ、よかったらこれから私と一緒に出かけないか。	혹시 시간 되면 나랑 잠깐 나갈 수 있는지 물어보러 왔어.	I wanted to ask you whether you had time to go out with me somewhere.						0	
+b-13											0	
+17	我找到了莫尔索丢的东西的线索。	我找到了莫爾索弄丟的東西的線索了。	ムルソーの落とし物の手がかりを見つけたんだ。	모르소가 잃어버린 물건의 단서를 좀 찾았거든.	I found a clue as to where the item Meursault dropped might be.						0	
+18	这不是我第一次说谎，只不过刚说完，就感觉背后已经渗满冷汗。	這不是我第一次說謊，只不過剛說完，就感覺背後已經流滿冷汗。	嘘をつくのは初めてではないが、言った途端、背中に冷や汗がにじんだのを感じた。	거짓말이 서툰 편은 아니지만 말을 마치자마자 등 뒤에서 식은땀이 흐르는 것을 느낄 수 있었다.	It wasn't my first time lying, but the instant the words left my mouth, I could feel cold sweat prickling on the back of my neck.						0	
+19	先顺着琴诺的剧本演下去，她想要什么都给她造出——	先順著琴諾的劇本演下去，她想要什麼都造出來給她——	とりあえずチェルノの芝居に付き合って、彼女が探している物を作れば――	일단은 체르노가 설정한 각본대로 그녀가 원하는 걸 들어주기 위해서였다…	I would play along according to Cherno's script. Whatever she wanted, I'd let her lead...						0	
+20	真的？	真的？	本当ですか？	정말요?	Really?						0	
+21	分析员真的找到了吗？	分析員真的找到了嗎？	本当に見つけたんですか？	정말 찾았다고요?	Adjutant, did you really find it?						0	
+b-6											0	
+22	真的！	真的！	本当だ！	응! 정말이야!	Yes, really!						0	
+23	可是，可是……	可是，可是……	でも、でも……	하… 하지만…	B-But...						0	
+24	我看到过，我跟着过！分析员这几天根本就没去过天楼！	我看到過，我跟著過！分析員這幾天根本就沒去過天樓！	見たんです、後をつけていたから！分析員さんはスカイタワーに行ってないじゃないですか！	며칠 동안 분석가님을 따라다니면서 봤는데, 스카이 타워에 간 적은 없으셨어요…	I've been watching you! Following you! You haven't even gone to the Towers these last few days, Adjutant!						0	
+25	对吧，对吧！为什么要骗我？琴诺做错了什么吗？琴诺是不是惹分析员生气了，分析员才会这样？	對吧，對吧！為什麼要騙我？琴諾做錯了什麼嗎？琴諾是不是惹分析員生氣了，分析員才會這樣？	ねぇ、そうでしょ！なんで嘘をつくんです？チェルノのせい？チェルノが分析員さんを怒らせたからですか？	그렇죠? 맞잖아요! 왜 저한테 거짓말을 하시는 거죠? 제가 뭘 잘못했나요? 제가 분석가님을 화나게 해서 그러시는 건가요?	I-Isn't that right? W-why are you trying to trick me? Did I do something wrong? Did I make you angry, Adjutant, and that's why you're being like this?						0	
+26	我完全没料到的琴诺会跟踪我，她跟踪我干什么？不对不对，现在不是想这个的时候，再不顺两句的话，莫尔索就！	我完全沒料到琴諾會跟蹤我，她跟蹤我幹什麼？不對不對，現在不是想這個的時候，再不安撫她的話，莫爾索又會跑出來了！	チェルノに尾行されていたなんて思ってもみなかった。なぜ？いやいや、そんなことより、何か言い返さないと、ムルソーが！	날 미행했었다니… 전혀 예상 밖이다. 근데 어째서 미행한 거지? 아니야… 그런 걸 생각할 때가 아니다. 여기서 잘못 말하면 모르소가…	I never expected that Cherno had been stalking me. Why on earth would she do that? No — it wasn't the time for questions! At this rate, Meursault would...!						0	
+b-7											0	
+27	琴诺，你冷静一下……	琴諾，你冷靜一下……	チェルノ、落ち着いて……	체르노, 일단 진정하고…	Cherno, just calm down...						0	
+28	没事的，没事的！我很冷静！琴诺很冷静！	沒事的，沒事的！我很冷靜！琴諾很冷靜！	大丈夫、大丈夫！落ち着いてます！チェルノは落ち着いてます！	전 괜찮은 데요!? 전 지금 엄청 차분해요!	I'm fine, all fine! I'm calm! I'm totally calm!						0	
+29	一边说着，一边抱着自己胳膊的琴诺，身体止不住地颤抖。仔细一看，她的袖子已经被她抓得几近撕裂。	一邊說著，一邊抱著自己胳膊的琴諾，身體開始止不住地顫抖。仔細一看，她的袖子已經快被她撕裂了。	そう言いながらチェルノは腕を抱えて体をブルブルと震わせている。よく見ると、彼女の袖が今にも破れそうだ。	체르노는 팔짱을 낀 채 말을 이어갔고, 몸을 바르르 떨고 있었다. 옷깃을 세게 잡고 있어서인지 소매가 찣겨 있었다.	Cherno had her arms wrapped around her body and was trembling violently. Her sleeves were clutched so tightly they were about to rip.						0	
+b-8											0	
+30	琴诺！琴诺！	琴諾！琴諾！	チェルノ！チェルノ！	체르노! 체르노!	Cherno! Cherno!!						0	
+b-8-2	莫尔索没去过那地方，别为她找借口……别害怕。	莫爾索沒去過那地方，別為她找藉口……別害怕。	ムルソーはあそこに行ったことがないんだ、彼女をかばわなくていい……大丈夫。	모르소는 그곳에 간 적이 없었어. 그러니까 모르소 때문에 핑곗거리를 일부러 찾지 않아도 돼… 무서워하지도 말고.	Meursault hasn't been there, so stop making excuses for her... Don't be afraid.						0	
+32	我试图停下她自伤的可能，却发现她紧握的力气大得我连一根手指都掰不开。	我試圖阻止她傷害自己，卻發現她緊握的力氣大得我連一根手指都掰不開。	腕を抱く力が強すぎて、とうとう彼女の小さな爪が自身の白い肌を貫き、赤く滲みだした。急いで腕を解こうとしたが、私にはその指一本すら離すことができなかった。	체르노가 자해를 할 것 같아 저지하려고 했으나 너무 세게 쥐고 있어서인지 손가락을 꿈쩍도 하지 않았다.	I was trying to stop her from hurting herself, yet found her grip so strong that I couldn't unlatch a single finger.						0	
+33	像是什么求救信号被发出来一样，原本空荡的大厅涌入了不少人。	像是誰發送了什麼求救訊號一樣，突然有一群人湧入原本空蕩的大廳。	助けを求める合図でも発信されたのか、誰もいなかったロビーに人々が押し寄せた。	머지않아 구조 신호라도 받은 것처럼 텅 비어 있던 로비에 사람들이 한두 명씩 모여들기 시작했다.	As though a signal for help had been emitted, the once-empty hall became flooded with people.						0	
+34	分析员！退后！你那样只会让她上瘾。	分析員！退後！你那樣只會讓她更加失控。	分析員！下がって！チェルノが依存する！	분석가, 물러서! 그런 행동은 오히려 역효과만 가져올 거야.	Adjutant! Retreat! Doing that will get her addicted.						0	
+35	去准备镇定剂。	去準備鎮定劑。	鎮静剤の用意を。	진정제를 준비해.	Prepare the tranquilizer.						0	
+36	是。	是。	はい。	알겠습니다.	Understood.						0	
+37	不要，我不要！	不要，我不要！	いや！やめっ、いやだーー！！あーー！！	싫어요! 이러지 마세요!	No! Stop it!!						0	
+38	看着离去的医疗部人员，琴诺突然大声尖叫起来。	看著離去的醫療部人員，琴諾突然大聲尖叫起來。	ロビーを出ていく医療部の社員に、チェルノは突然甲高い叫び声をあげた。	자리를 떠나는 의무실 사람들을 보자 체르노는 갑자기 비명을 지르기 시작했다.	Seeing the medical staff leaving, Cherno suddenly began screaming.						0	
+39	小琴诺，小琴诺，别害怕。姐姐在这里哦，过来。过来让姐姐抱抱。	小琴諾，小琴諾，別害怕。姐姐在這裡哦，過來。過來讓姐姐抱抱。	チェルノちゃん、チェルノちゃん、怖がらないで。お姉さんがここにいますよ。さ、抱っこしてあげましょう。	체르노, 착하지~ 겁내지 말고 이리 와. 내가 안아줄게~	Cherno, dear Cherno, don't be afraid. Your Big Sis is right here. Come and let me give you a hug.						0	
+b-9											0	
+40	……我，那个。	……我，那個。	……私は、その。	저… 그게…	...I, uh...						0	
+41	没事没事，分析员别紧张，我们来处理就好。	沒事沒事，分析員別緊張，我們來處理就好。	いいんですよ、分析員さん、安心してください。私たちが対処します。	괜찮아. 분석가도 긴장할 필요 없어. 우리가 알아서 처리할게.	It's okay, Adjutant, don't fret. We'll take care of everything.						0	
+42	我之前教过你，别把和琴诺相处交流想得太简单。	我之前就教過你，別把和琴諾相處交流想得太簡單。	教えたはず、チェルノの扱いを簡単だと思わないこと。	전에 내가 말했었지? 체르노를 대할 때 항상 심사숙고하게 생각하라고.	I told you before. Don't underestimate the difficulty of getting along with Cherno.						0	
+b-10											0	
+43	我没那个意思。	我沒那個意思。	思ってないよ……	이런 상황을 만들려던 건 아니었어.	I didn't mean to do that.						0	
+44	但是你做了……哎，现在不是说这个的时候。交给恩雅吧，琴诺抗拒诊疗的事情你应该也知道，这种时候只能顺着她。	但是你做了……哎，現在不是說這個的時候。交給恩雅吧，琴諾抗拒診療的事情你應該也知道，這種時候只能順著她。	でもこんな真似をした……はぁ。今はこんなことで揉めてる場合じゃない。エンヤに任せよう。チェルノが治療を拒絶しているのは聞いてるでしょ、こういう時は好きにさせるしかない。	근데 이렇게 됐잖아… 우선 엔야한테 맡기자. 체르노가 진료를 거부하고 있어. 지금은 그녀에게 맞춰줘야 해.	But it happened anyway... *sigh*... Now's not the time for this. Let Enya take care of it. You probably know Cherno's refusing treatment. Right now, the best we can do is go along with her.						0	
+45	对不起，对不起！都怪我没有阻止莫尔索，都怪我！	對不起，對不起！都怪我沒有阻止莫爾索，都怪我！	ごめんなさい、ごめんなさい！ムルソーを止められなかった私が悪いんです、私が悪いんです！	죄송해요, 죄송해요! 제가 모르소를 말리지 못해서 이런 상황이 생긴 거예요! 다 제 잘못이에요!	I'm sorry! I'm so sorry! It's all because I didn't stop Meursault... It's all my fault!						0	
+46	好了，没有人怪你。小琴诺很乖很乖，是最听话的孩子。	好了，沒有人怪你。小琴諾很乖很乖，是最聽話的孩子。	よしよし、誰もチェルノちゃんのことを責めませんよ。チェルノちゃんはとってもとってもいい子です。	아무도 체르노 탓이라고 생각하지 않아. 체르노는 세상에서 가장 말을 잘 듣는 아이잖아?	There, there. Nobody's blaming you. Dear little Cherno, you're such a good girl. You haven't done anything wrong.						0	
+b-11											0	
+47	我先去边上等着。	我先去旁邊等著。	じゃあ、私はあっちで待ってるよ……	그럼 전 일단 빠져있을게요.	I'll go wait off to the side.						0	
+48	琴诺被恩雅抱在怀里，一下下地抚摸着发尾。琴诺埋着头抽泣，在一片混乱中，声音却格外清晰。	琴諾被恩雅抱在懷裡，一下下地撫摸著髮尾。琴諾埋著頭抽泣，在一片混亂中，聲音卻格外清晰。	エンヤはチェルノを抱きしめ、彼女の髪の先を撫でている。チェルノは顔をうずめてすすり泣いている。騒ぎの中で、その声はやけにはっきりと響いた。	엔야는 체르노를 껴안고 쓰다듬었다. 체르노는 머리를 파묻고 훌쩍였고, 나는 혼란 속에서 그녀의 목소리가 선명하게 들을 수 있었다.	Enya cuddled Cherno in her arms, stroking her head softly. Cherno was sobbing with her head buried, yet amidst the chaos, her voice rang out exceptionally clearly.						0	
+49	对不起。分析员，不要讨厌琴诺。	對不起。分析員，不要討厭琴諾。	ごめんなさい分析員さん……チェルノのことを嫌いにならないで……	죄송해요, 분석가님. 체르노를 미워하지 말아 주세요…	I'm sorry, Adjutant. Please don't hate me.						0	

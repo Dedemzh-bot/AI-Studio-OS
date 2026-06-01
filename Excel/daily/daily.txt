@@ -1,0 +1,11 @@
+﻿ID(程序会读id顺序作为显示顺序)	注释	章节	开放时间	开放条件	关卡背景图	活动信息{{开始时间,结束时间,活动类型[1、掉落双倍 2、消耗减半 3、限时]}}例：{{20210706,20380101,1},{20210706,20380101,2}}	副本名	内容提示	入口背景图	介绍文字	保底值
+ID	Comments	Chapter	OpenDay	Condition	Bg	Activity	I18N	Tips	EntryBg	Introduction	Guarantee
+1	富饶之壶-金币	{1}	{1,2,3,4,5,6,7}	{{{1,1},{2,11427}},{{1,1},{2,10205}}}	1803026	{{20220331,20220431,3}}	TxtGoldDungeons	TxtGoldDungeonsTips	1803019		
+2	百足之市-角色经验	{2}	{1,2,3,4,5,6,7}	{{{1,1},{2,11427}},{{1,1},{2,10205}}}	1803026	{{20220331,20220431,3}}	TxtRoleExpDungeons	TxtRoleExpDungeonsTips	1803023		
+3	止战之人-武器经验	{3}	{1,2,3,4,5,6,7}	{{{1,1},{2,11427}},{{1,1},{2,10205}}}	1803026	{{20220331,20220431,3}}	TxtWeaponExpDungeons	TxtWeaponExpDungeonsTips	1803021		
+4	重铸之炎-武器突破	{7}	{1,2,3,4,5,6,7}	{{{1,1},{2,11501}},{{1,1},{2,10401}}}	1803026	{{20220331,20220431,3}}	TxtWeaponBreakDungeons	TxtWeaponBreakDungeonsTips	1803020		
+5	永冬之境-神经素材	{6}	{1,2,3,4,5,6,7}	{{{1,1},{2,11428}},{{1,1},{2,10303}}}	1803026	{{20220331,20220431,3}}	TxtRoleMatertialsDungeons	TxtRoleMatertialsDungeonsTips	1803024		
+6	浴火之战-后勤材料	{5}	{1,2,3,4,5,6,7}	{{{1,1},{2,11508}},{{1,1},{2,10412}}}	1803026	{{20220331,20220431,3}}	TxtRoleDungeons	TxtRoleDungeonsTips	1803025	TxtSupportIntroduction	100
+7	浴火之战PLUS-DLC后勤	{10}	{1,2,3,4,5,6,7}	{{{2,11544}},{{4,256},{2,10809}}}	1803026	{{20220331,20220431,3}}	TxtDlcRoleDungeons	TxtDlcRoleDungeonsTips	1803052	TxtSupportIntroduction	100
+8	聚兵之器-DLC武器代币	{11}	{1,2,3,4,5,6,7}	{{{1,20}}}	1803026	{{20220331,20220431,3}}	TxtDlcWeaponDungeons	TxtDlcWeaponDungeonsTips	1803061		
+99	教学关卡	{99}	{1,2,3,4,5,6,7}	{{{2,11502}},{{2,10103}}}	1803026	{{20220331,20220431,3}}	TxtTeachDungeons	TxtTeachDungeonsTips	1803027		

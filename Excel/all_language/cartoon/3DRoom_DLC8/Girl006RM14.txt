@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，要不要一起来喝杯咖啡？	分析員，要不要一起來喝杯咖啡？	分析員、一緒にコーヒーでもどうだ？	분석가님, 같이 커피 한잔 할래?	Adjutant, would you like to drink some coffee together?						0	
+page1.2	好啊。	好啊。	いいよ。	좋죠.	Sure.						0	
+page1.3	一会儿要处理些文件，正好需要提提神。	等一下要處理些文件，正好需要提神。	後で書類仕事があるから、眠気覚ましにちょうどいい。	안 그래도 서류 처리 중이라서요, 정신 좀 들게 커피 한잔하려던 참이였어요.	I need to sort through some documents in a bit, so I need a pick-me-up.						0	
+page1.4	（十分钟后）	（十分鐘後）	（10分後）	(10분 후)	(Ten minutes later)						0	
+page1.5	没想到，晴居然会手冲咖啡。	沒想到，晴居然會手沖咖啡。	晴がコーヒーを淹れられるとは思わなかった。	드립 커피도 내릴 줄 아세요?	I didn't know you could make hand-dripped coffee, Haru.						0	
+page1.6	味道怎么样？	味道怎麼樣？	口に合うだろうか？	커피 맛 어때?	How does it taste?						0	
+page1.7	非常好喝，和机器制作的咖啡相比，口感和香气都突出很多。	非常好喝，和機器製作的咖啡相比，口感和香氣都突出很多。	とても美味しいよ。マシンで作ったものより味も香りも段違いだ。	기계로 만든 커피 보다 향과 맛이 훨씬 좋아요.	It's great. The flavor and aroma are so much better than coffee made by a machine.						0	
+page1.8	严格按照金杯准则冲泡果然不会出错。	嚴格依照金杯準則沖泡果然不會出錯。	レシピを厳守した甲斐があった。	정확히 황금 비율에 맞춰 만든 커피 맛은 분명 좋을 거야.	As long as you strictly adhere to the golden brewing ratio, you can't go wrong.						0	
+page1.9	没想到晴已经对咖啡研究得这么深入了。	沒想到晴已經對咖啡研究得這麼深入了。	晴はもうれっきとしたコーヒーの達人だね。	하루가 커피에 대해 이렇게 깊이 연구할 줄은 몰랐어요.	I didn't know you had such a deep understanding of coffee.						0	
+page1.10	休息的时间，想到分析员之前让我找找自己喜欢的饮料……	休息的時間，想到分析員之前讓我先找找自己喜歡的飲料……	休みの時、分析員に好きな飲み物を試して来いと言われたことを思い出して……	분석가가 나더라 쉬는 시간에 좋아하는 음료수를 찾아보라고 했잖아…	During my time off, I thought about how you told me to find a favorite drink...						0	
+page1.11	在了解了之后，就意外地喜欢上咖啡了。	在了解了之後，就意外地喜歡上咖啡了。	いろいろ試した結果、意外とコーヒーが好きだと気づいたんだ。	찾는 과정에서 커피랑 잘 맞다는 걸 알았지.	After learning about it, I unexpectedly fell in love with coffee.						0	
+page1.12	严谨依照标准制作，就能得到最好品质的咖啡。	嚴謹依照標準製作，就能得到最好品質的咖啡。	ちゃんと基準に従って淹れれば、最高のコーヒーになる。	비율에 따라 엄격하게 내리면 최상의 품질의 커피를 마실 수 있네요.	You can make the best quality coffee by strictly following the standard procedure.						0	
+page1.13	果然是很适合晴的饮料。	果然是很適合晴的飲料。	やっぱり晴らしい飲み物だな。	하루에 딱 맞는 음료수네요.	It really is the perfect drink for you, Haru.						0	

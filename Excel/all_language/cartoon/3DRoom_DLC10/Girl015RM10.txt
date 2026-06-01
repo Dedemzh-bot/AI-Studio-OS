@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	凯茜娅？今天怎么有兴趣在这种地方闲逛。	凱茜婭？今天怎麼有興趣在這種地方閒晃。	カーシア？珍しいな、こんなところで君を見かけるなんて。	캐시아? 오늘은 무슨 바람이 불어서, 이곳에서 돌아다니고 있지?	Katya? What made you want to hang out here today?						0	
+page1.2	钓鱼之前要打窝，捕猎也要埋伏在猎物经常出没的地方。	釣魚前要打窩，捕獵也要埋伏在獵物常出沒的地方。	釣りは下調べが大事なように、狩りもまずは獲物の出没場所を調査しないとね。	낚시를 하려면 미끼부터 던져야 하고, 사냥도 사냥감이 자주 다니는 곳에 매복해야 해.	You need to prepare a home base before fishing. When hunting, you also have to ambush locations your prey frequents.						0	
+page1.3	总觉得你似有所指。	總覺得你似有所指。	含みのある言い方だな。	왠지 뭔가를 암시하는 것 같네.	I always feel like you're implying something.						0	
+page1.4	呵呵，或许吧。	呵呵，或許吧。	ふふ、そうかもね。	후후, 그럴지도.	Hehe, maybe.						0	
+page1.5	猎人和猎物，playername习惯扮演什么样的角色呢？	獵人和獵物，playername習慣扮演什麼樣的角色呢？	狩人と獲物……playernameはどっちの役割が得意？	playername, 넌 사냥꾼과 사냥감 중 어떤 역할이 더 익숙해?	Between hunter and prey, which role do you usually play, playername?						0	
+page1.6	我只适合扮演海姆达尔部队的分析员。	我只適合扮演海姆達爾部隊的分析員。	どちらでもないよ。ヘイムダルの分析員で十分だ。	난 그냥 헤임달 부대의 분석가야.	Me? I'm only fit to be the Adjutant in the Heimdall Force.						0	
+page1.7	这样啊，那现在应该是分析员的休息时间了？要一起去我房间喝一杯吗？	這樣啊，那現在應該是分析員的休息時間了？要一起去我房間喝一杯嗎？	へえ。この時間なら、分析員も退勤してる頃でしょ？一緒に一杯、どう？	그래? 그러면 지금은 분석가의 휴식 시간인가? 같이 내 방 가서 한잔할래?	Oh? Then is the Adjutant on break right now? How about we grab a drink in my room?						0	
+page1.8	要是被灌醉的话，随便分析员做什么我都不知道了吧。	要是被灌醉的話，隨便分析員做什麼我都不知道了吧。	飲んだ後なら、何をされても嫌がったりはしないわよ。	내가 취하면 분석가가 내게 뭐를 한다고 해도 난 모를 텐데.	If I get drunk, you can do whatever you want and I won't know.						0	
+page1.9	……我可不是为了这种事情才答应和你喝一杯。	……我可不是為了這種事情才答應跟你喝一杯的。	……そういうことのために君と飲みに行くつもりはないから。	… 난 그런 이유로 너랑 한잔하려는 게 아니야.	...I'll agree to grab a drink with you, but it's not for that kind of thing.						0	
+page1.10	一个玩笑都受不起，分析员还真是有够纯情的。	一個玩笑都承受不起，分析員還真是有夠純情的。	冗談よ。分析員ってば、純情よね。	농담도 못 받아들이는군, 정말 순수하네.	You can't even take a little joke! You're so innocent, Adjutant.						0	
+page1.11	纯情……我可不适用这种形容词。随随便便喝醉可是会很麻烦的。	純情……我可不適用這種形容詞。隨隨便便喝醉可是會很麻煩的。	純情って……私なんかに使っていい言葉じゃないぞ。酔っぱらったら大変だと思っただけだ。	순수… 난 그런 단어에 안 어울려. 함부로 취하면 큰일 나거든.	Innocent...? I wouldn't say that. Getting drunk can cause a lot of trouble.						0	
+page1.12	哈，所以分析员是担心我啊，不过你放心，我可不会轻易喝醉。	哈，所以分析員是擔心我啊，不過你放心，我可不會輕易喝醉。	あは、私の心配をしてるの？大丈夫よ、そんな簡単に酔ったりしないわ。	하, 그래서 분석가는 지금 나를 걱정하는 거네? 근데 걱정 안 해도 돼, 난 남들 앞에서는 절대 취하지 않거든.	Ah, so you're worried about me, Adjutant? Don't worry. I won't get drunk easily.						0	
+page1.13	结果是喝了很多杯……	結果還是喝了很多杯……	結局、彼女と何杯も飲んでしまった……	결국은 많이 마셨다…	In the end... we drank a lot...						0	
+page1.14	醉醺醺喝到最后，总觉得品尝到的液体，有着不同以往，危险又迷人的香甜气息。	醉醺醺喝到最後，總覺得品嚐到的液體，有著不同以往，危險又迷人的香甜氣息。	最後に飲んだ一杯は、なんだか普段よりも、危険だけど魅力的な甘さが混じっていた。	술에 취해 끝까지 마시다 보면, 그 술에는 예전과는 다르게 위험하고 매력적인, 달콤한 향이 있는 것 같다.	Even though I was drunk, I just kept drinking. I couldn't shake the feeling that the liquid tasted different — it had a dangerous, intoxicating aroma.						0	
+page1.15	迷迷糊糊之间，似乎听到这样湿答答、黏糊糊的声音吹进耳朵里。	迷迷糊糊之間，似乎聽到這樣溼答答、黏糊糊的聲音吹進耳朵裡。	ぼんやりしていると、湿っぽい声が耳元で響いた。	어지러움에 축축하고 끈적끈적한 소리가 귀에 스며드는 것 같았다.	In my daze, I seemingly heard a wet, sticky voice floating into my ear.						0	
+page1.16	不管是猎人还是猎物，到了我的手上，都逃不掉哟。	不管是獵人還是獵物，到了我的手上，都逃不掉喲。	狩人も獲物も、私からは決して逃げられないわ。	사냥꾼이든 사냥감이든 내 손에 들어오면 절대 못 도망가~	Whether you're the hunter or the prey, you can't escape once you're in my grasp.						0	
+page1.17	分析员，可不要随便答应和女孩子喝一杯，很危险的~	分析員，可不要隨便答應跟女孩子喝一杯，很危險的~	危ないから、簡単に女の子の飲みの誘いに乗らないほうがいいわよ？分析員。	분석가, 여자가 술 마시자고 하면 함부로 대답하지 마. 아주 위험하니까~	Adjutant, you shouldn't agree to drink with girls so easily. It's dangerous~						0	

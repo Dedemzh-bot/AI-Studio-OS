@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	呃……	呃……	えっと……	후…	Ah...						0	
+page1.2	你把我叫来，就让我一直坐在这里？	你把我叫來，就讓我一直坐在這裡？	呼ばれて来たけど、ここでただじっと座っていてほしいだけなのか？	사람을 불러놓고 여기서 멍하니 앉아만 있으라는 거야?	You called me here just to have me sit around?						0	
+page1.3	没错！你最好能躺下！	沒錯！你最好能躺下！	そう！横になってくれるともっと嬉しいんだけど。	딩동댕! 누워있으면 더 좋고!	Yes! You better just lie down!						0	
+page1.4	你找我真的不是有其他的事情要说？	你找我真的不是有其他的事情要說？	本当に話したいことがあるとかじゃなくて？	나한테 할 말이 있어서 부른 거 아니었어?	You really don't have anything else to say to me?						0	
+page1.5	放心，绝对没有！	放心，絕對沒有！	そういうつもりは一切ないから、安心して！	그런 거 아니야!	Don't worry! I really, really don't!						0	
+page1.6	我就是想把你拉来，让你好好休息而已。	我就是想把你拉來，讓你好好休息而已。	本当にゆっくり休んでほしいだけなんだ。	그냥 분석가를 불러서 편히 쉬게 하고 싶었을 뿐이야.	I just wanted you to come here so you could rest up.						0	
+page1.7	刚结束耶洛沙的长途跋涉，现在快速解决了零区的紧急任务。	剛結束耶洛沙的長途跋涉，現在快速解決了零區的緊急任務。	イェロシャの長旅が終わったばかりだっていうのに、エリアゼロでの緊急ミッションだなんて……	막 옐로샤의 긴 여정을 마치고 왔는데, 지금은 또 제로 구역의 긴급 미션까지 해결하고 있잖아.	Your long trip to Yehrus just ended, and now you have to handle an urgent mission in Containment Zone Aleph.						0	
+page1.8	铁打的身子也受不了啊。	鐵打的身體也受不了啊。	ロボットじゃあるまいし、体が壊れちゃうよ。	아무리 강인한 신체를 가졌다고 해도 이렇게 많은 일을 감당하기는 버거울 거라고.	No matter how tough you are, it must be hard to handle.						0	
+page1.9	平时分析员总是关心我的生活起居，现在就让我来关心你吧！	平時分析員總是關心我的生活起居，現在就讓我來關心你吧！	いつも色々と分析員の世話になってるから、今回は私が世話を焼いてやる！	이런 상황에서도 분석가는 내 일상생활에까지 관심을 가져주잖아. 나도 어떻게든 보답이라도 해야지!	You always pay close attention to my habits, so let me pay attention to you now!						0	
+page1.10	可为什么一定要在你的房间……	但為什麼一定要在你的房間……	それはいいんだけど、どうして君の部屋で……	근데 굳이 왜 네 방에서…	But why does it have to happen in your room...						0	
+page1.11	还不是因为——	還不是因為——	それは——	그건…	Well, that's because...						0	
+page1.12	每次你在大厅，都会被各种各样的人叫走帮忙。	每次你在大廳，都會被各種各樣的人叫走幫忙。	ロビーにいたら、すぐ誰かに仕事のことで呼ばれるだろ？	분석가가 로비에 있으면 자꾸 사람들이 분석가한테 뭔가를 요청하니까.	Every time you're in the hall, a bunch of people ask you to help them with stuff.						0	
+page1.13	在这里就不用担心你又被人叫走了。	在這裡就不用擔心你又被叫走了。	ここにいればそんな心配せずに済む。	여기 있으면 네가 불려갈 걱정은 없을 것 같아서.	We don't need to worry about people bothering you in here.						0	
+page1.14	我会好好看着你休息的，嘿嘿。	我會好好看著你休息的，嘿嘿。	ちゃんと休んでるか側で見張ってやるからな。へへ。	난 그저 분석가가 편히 쉬는 걸 보고 싶어~ 헤헤.	So I'm gonna watch you relax, hehe~						0	

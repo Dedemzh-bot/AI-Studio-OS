@@ -1,0 +1,9 @@
+﻿渠道id	//备注	渠道图标	分享时附加的文本	地区限制目前可填：0国内外,1国内,2海外	渠道包是否开启（配置的表示屏蔽）
+Id	Des	ScreenshotChannelIcon	ScreenshotTxt	Coverage	OhterPackages
+1	微信聊天	1003062		1	{"bili"}
+2	微信朋友圈	1003068		1	{"bili"}
+3	QQ聊天	1003067		1	{"bili"}
+4	QQ空间	1003061		1	
+5	哔哩哔哩	1003063		1	
+6	facebook	1003066		2	
+7	X	1003065		2	

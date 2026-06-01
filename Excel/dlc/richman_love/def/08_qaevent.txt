@@ -1,0 +1,60 @@
+﻿编号	事件类型	备注	标题key	配图	描述key	选项1	选项2	选项3	2段key1	2段key2	2段key3	选项1数值增加（坚毅;智识;温柔;魅力;幽默增加）	选项2数值增加（勇气;学识;体贴;魅力;灵巧增加）	选项3数值增加（勇气;学识;体贴;魅力;灵巧增加）	角色	触发权重
+Id	Type	Des	TitleKey	Icon	DesTxt1	Answer1	Answer2	Answer3	DesTxt2_1	DesTxt2_2	DesTxt2_3	Value1	Value2	Value3	NpcId	Probability
+101	1	问题1		2012	richmanlove_qaevent_q_01	richmanlove_qaevent_a_01_a	richmanlove_qaevent_a_01_b	richmanlove_qaevent_a_01_c				{0,0,0,0,20}	{0,0,0,0,20}	{0,0,0,0,20}		
+102	1	问题2		2012	richmanlove_qaevent_q_02	richmanlove_qaevent_a_02_a	richmanlove_qaevent_a_02_b	richmanlove_qaevent_a_02_c				{0,0,0,20,0}	{0,0,0,20,0}	{0,0,0,20,0}		
+103	1	问题3		2012	richmanlove_qaevent_q_03	richmanlove_qaevent_a_03_a	richmanlove_qaevent_a_03_b	richmanlove_qaevent_a_03_c				{0,0,20,0,0}	{0,0,20,0,0}	{0,0,20,0,0}		
+104	1	问题4		2012	richmanlove_qaevent_q_04	richmanlove_qaevent_a_04_a	richmanlove_qaevent_a_04_b	richmanlove_qaevent_a_04_c				{0,0,0,20,0}	{0,0,0,20,0}	{0,0,0,20,0}		
+105	1	问题5		2012	richmanlove_qaevent_q_05	richmanlove_qaevent_a_05_a	richmanlove_qaevent_a_05_b	richmanlove_qaevent_a_05_c				{20,0,0,0,0}	{20,0,0,0,0}	{20,0,0,0,0}		
+106	1	问题6		2012	richmanlove_qaevent_q_06	richmanlove_qaevent_a_06_a	richmanlove_qaevent_a_06_b	richmanlove_qaevent_a_06_c				{20,0,0,0,0}	{20,0,0,0,0}	{20,0,0,0,0}		
+107	1	问题7		2012	richmanlove_qaevent_q_07	richmanlove_qaevent_a_07_a	richmanlove_qaevent_a_07_b	richmanlove_qaevent_a_07_c				{0,20,0,0,0}	{0,20,0,0,0}	{0,20,0,0,0}		
+108	1	问题8		2012	richmanlove_qaevent_q_08	richmanlove_qaevent_a_08_a	richmanlove_qaevent_a_08_b	richmanlove_qaevent_a_08_c				{0,0,0,0,20}	{0,0,0,0,20}	{0,0,0,0,20}		
+109	1	问题9		2012	richmanlove_qaevent_q_09	richmanlove_qaevent_a_09_a	richmanlove_qaevent_a_09_b	richmanlove_qaevent_a_09_c				{0,20,0,0,0}	{0,20,0,0,0}	{0,20,0,0,0}		
+110	1	问题10		2012	richmanlove_qaevent_q_10	richmanlove_qaevent_a_10_a	richmanlove_qaevent_a_10_b	richmanlove_qaevent_a_10_c				{20,0,0,0,0}	{20,0,0,0,0}	{20,0,0,0,0}		
+111	1	问题11		2012	richmanlove_qaevent_q_11	richmanlove_qaevent_a_11_a	richmanlove_qaevent_a_11_b	richmanlove_qaevent_a_11_c				{0,20,0,0,0}	{0,20,0,0,0}	{0,20,0,0,0}		
+112	1	问题12		2012	richmanlove_qaevent_q_12	richmanlove_qaevent_a_12_a	richmanlove_qaevent_a_12_b	richmanlove_qaevent_a_12_c				{0,0,20,0,0}	{0,0,20,0,0}	{0,0,20,0,0}		
+113	1	问题13		2012	richmanlove_qaevent_q_13	richmanlove_qaevent_a_13_a	richmanlove_qaevent_a_13_b	richmanlove_qaevent_a_13_c				{0,0,0,0,20}	{0,0,0,0,20}	{0,0,0,0,20}		
+114	1	问题14		2012	richmanlove_qaevent_q_14	richmanlove_qaevent_a_14_a	richmanlove_qaevent_a_14_b	richmanlove_qaevent_a_14_c				{0,0,0,20,0}	{0,0,0,20,0}	{0,0,0,20,0}		
+115	1	问题15		2012	richmanlove_qaevent_q_15	richmanlove_qaevent_a_15_a	richmanlove_qaevent_a_15_b	richmanlove_qaevent_a_15_c				{0,20,0,0,0}	{0,20,0,0,0}	{0,20,0,0,0}		
+116	1	问题16		2012	richmanlove_qaevent_q_16	richmanlove_qaevent_a_16_a	richmanlove_qaevent_a_16_b	richmanlove_qaevent_a_16_c				{0,0,0,0,20}	{0,0,0,0,20}	{0,0,0,0,20}		
+117	1	问题17		2012	richmanlove_qaevent_q_17	richmanlove_qaevent_a_17_a	richmanlove_qaevent_a_17_b	richmanlove_qaevent_a_17_c				{0,0,0,0,20}	{0,0,0,0,20}	{0,0,0,0,20}		
+118	1	问题18		2012	richmanlove_qaevent_q_18	richmanlove_qaevent_a_18_a	richmanlove_qaevent_a_18_b	richmanlove_qaevent_a_18_c				{0,0,0,20,0}	{0,0,0,20,0}	{0,0,0,20,0}		
+119	1	问题19		2012	richmanlove_qaevent_q_19	richmanlove_qaevent_a_19_a	richmanlove_qaevent_a_19_b	richmanlove_qaevent_a_19_c				{0,0,20,0,0}	{0,0,20,0,0}	{0,0,20,0,0}		
+120	1	问题20		2012	richmanlove_qaevent_q_20	richmanlove_qaevent_a_20_a	richmanlove_qaevent_a_20_b	richmanlove_qaevent_a_20_c				{0,0,20,0,0}	{0,0,20,0,0}	{0,0,20,0,0}		
+121	1	问题21		2012	richmanlove_qaevent_q_21	richmanlove_qaevent_a_21_a	richmanlove_qaevent_a_21_b	richmanlove_qaevent_a_21_c				{20,0,0,0,0}	{20,0,0,0,0}	{20,0,0,0,0}		
+201	2	复合随机1		2013	richmanlove_rollevent_q_01	richmanlove_rollevent_q_01_a	richmanlove_rollevent_q_01_b	richmanlove_rollevent_q_01_c				{15,15,0,0,0}	{0,0,15,15,0}	{0,0,15,0,15}		100
+202	2	复合随机2		2013	richmanlove_rollevent_q_02	richmanlove_rollevent_q_02_a	richmanlove_rollevent_q_02_b	richmanlove_rollevent_q_02_c				{0,0,15,0,15}	{0,15,0,0,15}	{15,0,0,0,15}		100
+203	2	复合随机3		2013	richmanlove_rollevent_q_03	richmanlove_rollevent_q_03_a	richmanlove_rollevent_q_03_b	richmanlove_rollevent_q_03_c				{0,15,15,0,0}	{15,0,0,15,0}	{0,15,0,0,15}		100
+204	2	复合随机4		2013	richmanlove_rollevent_q_04	richmanlove_rollevent_q_04_a	richmanlove_rollevent_q_04_b	richmanlove_rollevent_q_04_c				{0,15,0,0,15}	{15,0,15,0,0}	{0,0,15,15,0}		100
+205	2	复合随机5		2013	richmanlove_rollevent_q_05	richmanlove_rollevent_q_05_a	richmanlove_rollevent_q_05_b	richmanlove_rollevent_q_05_c				{15,0,0,0,15}	{0,0,15,15,0}	{0,15,0,0,15}		100
+206	2	复合随机6		2013	richmanlove_rollevent_q_06	richmanlove_rollevent_q_06_a	richmanlove_rollevent_q_06_b	richmanlove_rollevent_q_06_c				{15,15,0,0,0}	{0,0,15,15,0}	{0,15,0,0,15}		100
+207	2	复合随机7		2013	richmanlove_rollevent_q_07	richmanlove_rollevent_q_07_a	richmanlove_rollevent_q_07_b	richmanlove_rollevent_q_07_c				{15,0,0,0,15}	{15,0,0,15,0}	{15,0,15,0,0}		100
+208	2	复合随机8		2013	richmanlove_rollevent_q_08	richmanlove_rollevent_q_08_a	richmanlove_rollevent_q_08_b	richmanlove_rollevent_q_08_c				{15,0,0,0,15}	{0,15,0,0,15}	{0,0,15,0,15}		100
+209	2	复合随机9		2013	richmanlove_rollevent_q_09	richmanlove_rollevent_q_09_a	richmanlove_rollevent_q_09_b	richmanlove_rollevent_q_09_c				{15,15,0,0,0}	{0,0,15,15,0}	{0,15,0,0,15}		100
+210	2	复合随机10		2013	richmanlove_rollevent_q_10	richmanlove_rollevent_q_10_a	richmanlove_rollevent_q_10_b	richmanlove_rollevent_q_10_c				{15,15,0,0,0}	{0,0,15,15,0}	{0,15,0,0,15}		100
+211	2	复合随机11		2013	richmanlove_rollevent_q_11	richmanlove_rollevent_q_11_a	richmanlove_rollevent_q_11_b	richmanlove_rollevent_q_11_c				{15,15,0,0,0}	{0,0,15,15,0}	{0,15,0,0,15}		100
+212	2	复合随机12		2013	richmanlove_rollevent_q_17	richmanlove_rollevent_q_17_a	richmanlove_rollevent_q_17_b	richmanlove_rollevent_q_17_c				{15,0,0,15,0}	{0,15,15,0,0}	{0,0,0,15,15}		100
+213	2	复合随机13		2013	richmanlove_rollevent_q_18	richmanlove_rollevent_q_18_a	richmanlove_rollevent_q_18_b	richmanlove_rollevent_q_18_c				{15,15,0,0,0}	{0,15,0,15,0}	{0,0,15,15,0}		100
+214	2	复合随机14		2013	richmanlove_rollevent_q_20	richmanlove_rollevent_q_20_a	richmanlove_rollevent_q_20_b	richmanlove_rollevent_q_20_c				{0,0,15,15,0}	{0,15,0,0,15}	{15,15,0,0,0}		100
+301	3	普通周里芙约会1	richmanlove_lifuevent_01_title	2014	richmanlove_lifuevent_01_q	richmanlove_lifuevent_01_q_a	richmanlove_lifuevent_01_q_b					{0,30,0,0,0}	{30,0,0,0,0}		1	
+302	3	普通周里芙约会2	richmanlove_lifuevent_02_title	2014	richmanlove_lifuevent_02_q	richmanlove_lifuevent_02_q_a	richmanlove_lifuevent_02_q_b					{0,30,0,0,0}	{30,0,0,0,0}		1	
+303	3	普通周里芙约会3	richmanlove_lifuevent_03_title	2014	richmanlove_lifuevent_03_q	richmanlove_lifuevent_03_q_a	richmanlove_lifuevent_03_q_b					{0,30,0,0,0}	{30,0,0,0,0}		1	
+304	3	普通周里芙约会4	richmanlove_lifuevent_04_title	2014	richmanlove_lifuevent_04_q	richmanlove_lifuevent_04_q_a	richmanlove_lifuevent_04_q_b					{0,30,0,0,0}	{30,0,0,0,0}		1	
+305	3	普通周里芙约会5	richmanlove_lifuevent_05_title	2014	richmanlove_lifuevent_05_q	richmanlove_lifuevent_05_q_a	richmanlove_lifuevent_05_q_b					{0,30,0,0,0}	{30,0,0,0,0}		1	
+306	3	普通周里芙约会6	richmanlove_lifuevent_06_title	2014	richmanlove_lifuevent_06_q	richmanlove_lifuevent_06_q_a	richmanlove_lifuevent_06_q_b					{0,30,0,0,0}	{30,0,0,0,0}		1	
+307	3	普通周芬妮约会1	richmanlove_fennievent_01_title	2014	richmanlove_fennievent_01_q	richmanlove_fennievent_01_q_a	richmanlove_fennievent_01_q_b					{0,0,0,30,0}	{0,0,30,0,0}		2	
+308	3	普通周芬妮约会2	richmanlove_fennievent_02_title	2014	richmanlove_fennievent_02_q	richmanlove_fennievent_02_q_a	richmanlove_fennievent_02_q_b					{0,0,0,30,0}	{0,0,30,0,0}		2	
+309	3	普通周芬妮约会3	richmanlove_fennievent_03_title	2014	richmanlove_fennievent_03_q	richmanlove_fennievent_03_q_a	richmanlove_fennievent_03_q_b					{0,0,0,30,0}	{0,0,30,0,0}		2	
+310	3	普通周芬妮约会4	richmanlove_fennievent_04_title	2014	richmanlove_fennievent_04_q	richmanlove_fennievent_04_q_a	richmanlove_fennievent_04_q_b					{0,0,0,30,0}	{0,0,30,0,0}		2	
+311	3	普通周芬妮约会5	richmanlove_fennievent_05_title	2014	richmanlove_fennievent_05_q	richmanlove_fennievent_05_q_a	richmanlove_fennievent_05_q_b					{0,0,0,30,0}	{0,0,30,0,0}		2	
+312	3	普通周芬妮约会6	richmanlove_fennievent_06_title	2014	richmanlove_fennievent_06_q	richmanlove_fennievent_06_q_a	richmanlove_fennievent_06_q_b					{0,0,0,30,0}	{0,0,30,0,0}		2	
+313	3	普通周茉莉安约会1	richmanlove_molianevent_01_title	2014	richmanlove_molianevent_01_q	richmanlove_molianevent_01_q_a	richmanlove_molianevent_01_q_b					{0,0,0,0,30}	{0,30,0,0,0}		3	
+314	3	普通周茉莉安约会2	richmanlove_molianevent_02_title	2014	richmanlove_molianevent_02_q	richmanlove_molianevent_02_q_a	richmanlove_molianevent_02_q_b					{0,0,0,0,30}	{0,30,0,0,0}		3	
+315	3	普通周茉莉安约会3	richmanlove_molianevent_03_title	2014	richmanlove_molianevent_03_q	richmanlove_molianevent_03_q_a	richmanlove_molianevent_03_q_b					{0,0,0,0,30}	{0,30,0,0,0}		3	
+316	3	普通周茉莉安约会4	richmanlove_molianevent_04_title	2014	richmanlove_molianevent_04_q	richmanlove_molianevent_04_q_a	richmanlove_molianevent_04_q_b					{0,0,0,0,30}	{0,30,0,0,0}		3	
+317	3	普通周茉莉安约会5	richmanlove_molianevent_05_title	2014	richmanlove_molianevent_05_q	richmanlove_molianevent_05_q_a	richmanlove_molianevent_05_q_b					{0,0,0,0,30}	{0,30,0,0,0}		3	
+318	3	普通周茉莉安约会6	richmanlove_molianevent_06_title	2014	richmanlove_molianevent_06_q	richmanlove_molianevent_06_q_a	richmanlove_molianevent_06_q_b					{0,0,0,0,30}	{0,30,0,0,0}		3	
+401	4	特殊周随机1		2015	richmanlove_rollevent_q_12	richmanlove_rollevent_q_12_a	richmanlove_rollevent_q_12_b	richmanlove_rollevent_q_12_c	richmanlove_rollevent_qa_12_a	richmanlove_rollevent_qa_12_b	richmanlove_rollevent_qa_12_c	{20,20,0,0,0}	{0,0,20,0,20}	{0,0,20,20,0}		100
+402	4	特殊周随机2		2015	richmanlove_rollevent_q_13	richmanlove_rollevent_q_13_a	richmanlove_rollevent_q_13_b	richmanlove_rollevent_q_13_c	richmanlove_rollevent_qa_13_a	richmanlove_rollevent_qa_13_b	richmanlove_rollevent_qa_13_c	{0,20,20,0,0}	{20,20,0,0,0}	{0,0,0,20,20}		100
+403	4	特殊周随机3		2015	richmanlove_rollevent_q_14	richmanlove_rollevent_q_14_a	richmanlove_rollevent_q_14_b	richmanlove_rollevent_q_14_c	richmanlove_rollevent_qa_14_a	richmanlove_rollevent_qa_14_b	richmanlove_rollevent_qa_14_c	{20,0,0,0,20}	{0,20,20,0,0}	{0,0,20,20,0}		100
+404	4	特殊周随机4		2015	richmanlove_rollevent_q_15	richmanlove_rollevent_q_15_a	richmanlove_rollevent_q_15_b	richmanlove_rollevent_q_15_c	richmanlove_rollevent_qa_15_a	richmanlove_rollevent_qa_15_b	richmanlove_rollevent_qa_15_c	{0,20,0,20,0}	{20,0,20,0,0}	{20,0,0,0,20}		100
+405	4	特殊周随机5		2016	richmanlove_rollevent_q_16	richmanlove_rollevent_q_16_a	richmanlove_rollevent_q_16_b	richmanlove_rollevent_q_16_c	richmanlove_rollevent_qa_16_a	richmanlove_rollevent_qa_16_b	richmanlove_rollevent_qa_16_c	{520,520,0,0,0}	{0,0,520,520,0}	{0,520,0,0,520}		20

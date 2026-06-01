@@ -1,0 +1,180 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	梦境宛若一柄利刃。	夢境宛如一柄利刃。	夢は鋭い刃のようだ。	꿈은 예리한 칼날과 같다.	Dreams are like sharp blades.						0	2.7版本主线故事
+2	会在夜深人静时，将那些我们埋藏于心底，不愿再触碰的回忆无情地割开。	會在夜深人靜時，將那些我們埋藏於心底，不願再觸碰的回憶無情地割開。	夜になると、心の底に埋まった見たくない記憶を掘り起こしてしまう刃。	모두가 잠드는 깊은 밤에, 우리가 마음속 깊이 묻어둔, 다시는 닿고 싶지 않은 기억이 무정하게 갈라진다.	In the dead of night, they tear open the memories we've buried deep, forcing us to confront what we swore never to relive.						0	2.7版本主线故事
+3	好冷……身体快要动不了了……	好冷……身體快要動不了了……	寒い……体が動かない……	추워… 몸이 얼 것 같아…	So cold... I can't feel my legs...						0	2.7版本主线故事
+4	不久之后，我就要被路过的野兽吃掉了吧……	不久之後，我就要被路過的野獸吃掉了吧……	もうすぐ、通りかかった獣に食べられちゃうだろう……	머지않아 지나가는 산짐승에 먹히고 말겠지…	I guess... it won't be long before some hungry beast finds me...						0	2.7版本主线故事
+5	不过，这也是没办法的事……	不過，這也是沒辦法的事……	でも、仕方ないよね……	그래도 어쩔 수 없어…	But... what can I do?						0	2.7版本主线故事
+6	爸爸妈妈一样，我也一样，无论是谁都一样……在耶洛沙，弱小的生命是没有生存的权利的。	爸爸媽媽一樣，我也一樣，無論是誰都一樣……在耶洛沙，弱小的生命是沒有生存的權利的。	母さんも父さんも、私も、誰だって同じ……イェロシャでは、弱者は生き延びられない。	엄마 아빠도, 나도 똑같아. 누구든지 다 똑같아… 옐로샤에서 약한 생명은 생존할 권리가 없으니까.	Mom and Dad died... and now it's my turn. That's just how it is... In Yehrus, the weak don't get to survive.						0	2.7版本主线故事
+7	真可惜……这些人应该是从北方逃难来的猎户吧。	真可惜……這些人應該是從北方逃難來的獵戶吧。	かわいそうに……おそらく、北から逃げてきた狩人たちね……	정말 안타깝군… 북방에서 피난 온 사냥꾼들인가 본데.	Oh, those poor souls... These hunters must have been refugees fleeing from the north.						0	2.7版本主线故事
+8	没想到战火已经波及林区了吗……连这么小的孩子也——	沒想到戰火已經波及林區了嗎……連這麼小的孩子也——	戦争がここフロストランドにまで広まったとは……こんなに幼い子まで――	전쟁의 불길이 숲까지 퍼졌을 줄이야… 이렇게 어린아이마저…	I didn't know the war had already reached this deep into the forests... And they didn't even spare a child... how cruel...						0	2.7版本主线故事
+9	咳咳……	咳咳……	ごほんごほん……	콜록콜록…	*coughing*...						0	2.7版本主线故事
+10	等等。	等等。	待って。	잠깐.	Wait.						0	2.7版本主线故事
+11	这个孩子，还有呼吸……	這個孩子，還有呼吸……	この子、まだ息があるわ……	이 아이, 아직 호흡이 남아 있네…	This child... she's still breathing.						0	2.7版本主线故事
+12	哎呀……奈莉德，这么多猎物都是你一个人打回来的吗？	唉呀……奈莉德，這麼多獵物都是你一個人打回來的嗎？	あら、ネリーダ。ひとりでたくさん狩ってきたのね。	아이고… 네리다, 이 많은 사냥감을 다 너 혼자서 잡아 온 게냐?	Oh my, did you hunt all this game by yourself, dear?						0	2.7版本主线故事
+13	嗯，因为快要入冬了，这个冬天，我想让奶奶过得更好些。	嗯，因為快要入冬了，這個冬天，我想讓奶奶更好過一點。	うん。もうすぐ冬だから。今年は、おばあちゃんにちゃんとした食事をしてほしくて。	네, 곧 겨울이니까요. 이번 겨울에는 할머니가 더 잘 지내셨으면 해요.	Yeah. Winter's coming soon, and I want you to be more comfortable this time, Nana.						0	2.7版本主线故事
+14	哈哈哈，有你的这份心意奶奶就很开心了。这么多肉，我们两个人恐怕吃到后年都吃不完哦。	哈哈哈，有你的這份心意奶奶就很開心了。這麼多肉，我們兩個人恐怕吃到後年都吃不完哦。	おばあちゃんは、その気持ちだけでうれしいわ。これだけのお肉、ふたりじゃ再来年になっても食べきれないもの。	하하하, 그런 네 마음만 받아도 할머니는 기쁘구나. 고기가 너무 많아서 우리 둘이 내후년까지 먹어도 다 못 먹겠는걸.	Hehe. Just knowing you care warms my heart. This much meat is more than even two winters' worth for the two of us.						0	2.7版本主线故事
+15	那多余的部分，还是和往常一样，分给村子里的孤儿院吧。	那多餘的部分，還是和往常一樣，分給村子裡的孤兒院吧。	じゃあ、余った分はいつも通り、村の孤児院にあげよう。	그럼 남은 건 여느 때처럼 마을의 보육원에 나눠줘요.	How about, as usual, we share the extra with the village orphanage?						0	2.7版本主线故事
+16	嗯，我穿件衣服，一会儿我们一起去吧。	嗯，我穿件衣服，等等我們一起去吧。	ええ。着替えてくるから、あとで一緒に行きましょう。	그래, 옷 좀 입을 테니 이따가 같이 가자.	Alright. I'll grab my coat, and we'll head over together.						0	2.7版本主线故事
+17	……我还是算了。	……我還是算了吧。	……ううん、私はいいや。	… 전 됐어요.	...Actually, can I not go this time?						0	2.7版本主线故事
+18	怎么了吗？	怎麼了嗎？	どうしたの？	왜 그러니?	Is something wrong?						0	2.7版本主线故事
+19	昨天，我刚刚教训完那边的孩子。	昨天，我剛教訓完那邊的孩子。	そこのちびすけ達、おばあちゃんの陰口を言ってたから……	제가 어제 그쪽 아이들을 혼내줬거든요.	I... got into a fight with those kids yesterday.						0	2.7版本主线故事
+20	但都怪她们乱说奶奶的闲话。	但都怪她們亂說奶奶的閒話。	昨日ちょっと懲らしめたんだ。	걔네가 할머니 나쁜 말을 해서 그랬어요.	But it was their fault — they said some mean things about Nana.						0	2.7版本主线故事
+21	如果可以的话，真不想把肉分给她们，像她们这样的弱小的人，明明就……	如果可以的話，真不想把肉分給她們，像她們這樣弱小的人，明明就……	そもそもあんな弱い人間、勝手に飢えてればいいのに……	사실 걔네에게 고기를 나눠주고 싶지 않아요. 그런 약자들은 분명…	Honestly, I don't even want to share our food with them. They're so weak, they don't—						0	2.7版本主线故事
+22	奈莉德。	奈莉德。	ネリーダ。	네리다.	Nerida.						0	2.7版本主线故事
+23	还记得奶奶说过的话吗？	還記得奶奶說過的話嗎？	もしかしておばあちゃんの言ってたこと、忘れたの？	할머니가 했던 얘기 기억하니?	Do you remember what I taught you?						0	2.7版本主线故事
+24	即便是弱小的人，也有权利在风雪中喘息。	即便是弱小的人，也有權利在風雪中喘息。	弱者にだって、吹雪を生き延びる権利が与えられているのよ。	아무리 약자라도 몰아치는 바람과 눈 속에서 숨을 돌릴 권리는 있단다.	Even the weak deserve a place in this world — even in the harshest winter.						0	2.7版本主线故事
+25	而真正的强者，不仅要懂得如何运用力量，还要明白何时该收敛。	而真正的強者，不僅要懂得如何運用力量，還要明白何時該收斂。	強い人間というのはね、力を持つだけじゃなくて、それを正しく使えることができる人のことよ。	그리고 진정한 강자라면 힘을 어떻게 사용하는지, 그리고 언제 힘을 거두어야 하는지 알고 있어야 해.	True strength isn't just about power — it's about knowing when to hold back.						0	2.7版本主线故事
+26	你很强大，所以不会输给他人的恶意，但是，也不要被自己内心的恶意所左右判断。	你很強大，所以不會輸給他人的惡意，但是，也不要被自己內心的惡意所影響。	ネリーダはとても強いから、人の悪意には負けないけれど、でも自分のなかにある悪意に惑わされて、判断を誤っちゃダメよ。	넌 강한 아이니 다른 사람의 악의에 지지 않을 것이야. 하지만 네 마음속의 악의에 판단이 흐려져서도 안 돼.	You're strong, Nerida. And that strength helps you rise above others' cruelty. But don't let anger blind you to what's right.						0	2.7版本主线故事
+27	我知道了……	我知道了……	うん……わかった。	알겠어요…	...I understand.						0	2.7版本主线故事
+28	那就一起去吧。放心，在了解完事发经过后，我会要求她们给我们好好道歉的。	那就一起去吧。放心，在了解完事情經過後，我會要求她們向我們好好道歉的。	それじゃ、一緒に孤児院へ行きましょう。事情はわかったから、みんなにちゃあんと謝ってもらうからね。	그럼 같이 가자꾸나. 걱정하지 말렴, 무슨 일인지 파악하고 나면 내가 제대로 사과하라고 할 테니.	Come on, now. Let's go together. And don't worry — I'll make sure they apologize properly once I hear the full story.						0	2.7版本主线故事
+29	你们是……	你們是……	お前たち……	당신들은…	Who are you...?						0	2.7版本主线故事
+30	没想到会在这里见到你，航空领域的权威学者，莫罗佐娃女士。	沒想到會在這裡見到你，航空領域的權威學者，莫羅佐娃女士。	ここであなたにお会いするとは思いませんでした。航空学の第一人者、マダム・モロゾワ。	이곳에서 만날 줄은 몰랐군요. 항공 분야의 권위적인 학자, 모로조바 님.	I didn't expect to find you here... Madam Morozova, the renowned aerospace scholar.						0	2.7版本主线故事
+31	现在的我只是一个普通的老太太啦，请问你们找我有什么事吗？	現在的我只是一個普通的老太太啦，請問你們找我有什麼事嗎？	今はただの老婆よ。それで、なにかご用でも？	지금의 나는 그저 평범한 할머니일 뿐이라네. 나한테 할 얘기라도 있나?	Now, now — I'm just an old woman trying to live out her days in peace. What is it you want from me?						0	2.7版本主线故事
+32	想必你也很清楚，如今，你所厌恶的古斯塔夫时代即将一去不返。	想必您也很清楚，如今，你所厭惡的古斯塔夫時代即將一去不返。	ご存知かと思うが、あなたが忌み嫌うグスタフの時代はじきに終わりを迎える――	모로조바 님도 잘 알고 계시겠지만, 그토록 혐오하시던 구스타프 시대가 이제 곧 저물어가고 있습니다.	You must know by now — Gustav's reign is crumbling. It's only a matter of time before his rule becomes history.						0	2.7版本主线故事
+33	而为了建设起新的时代，夺回那片曾属于耶洛沙的天空与未来，我们需要您的协力。	而為了建立新的時代，奪回那片曾經屬於耶洛沙的天空與未來，我們需要您的協力。	新しい時代を作り、イェロシャの空と未来を奪い返すためには、ぜひマダムのご協力を仰ぎたいと。	새로운 시대를 세우고, 옐로샤에 속했던 하늘과 미래를 되찾기 위해서는 당신의 협력이 필요합니다.	We need your expertise to help reclaim the skies and build a brighter future for Yehrus.						0	2.7版本主线故事
+34	呵，看来你们似乎是误会我了。	呵，看來你們似乎是誤會我了。	ふふ。私のことを誤解されているようね。	허, 당신들, 나에 대해 오해하고 있나 본데.	Heh. I think you misunderstood something.						0	2.7版本主线故事
+36	这么说，您是无意与我们合作了？	這麼說，您是無意與我們合作了？	つまり、私たちに協力する気はない、と？	그 말씀은, 저희와 협력하지 않겠다는 뜻인가요?	So... you're refusing to cooperate?						0	2.7版本主线故事
+37	喂，你们打算做什么？！	喂，你們打算做什麼？！	お前たち！なにをするつもりだ！？	저기요, 뭘 어쩌려는 거예요?!	Hey! What are you trying to do to my Nana!?						0	2.7版本主线故事
+38	等等奈莉德，不要冲动，她们并不会把我怎么样的。	等等奈莉德，不要衝動，她們不會把我怎麼樣的。	大丈夫よ、ネリーダ。落ち着いて、彼たちに私をどうこうするつもりはないよ。	잠깐, 네리다. 충동적으로 굴지 마라. 이 사람들이 날 어떻게 하진 않을 거란다.	Calm down, Nerida. They won't hurt me.						0	2.7版本主线故事
+39	诸位，如你们所见，我早就已经到退休的年纪了，即便加入你们，恐怕也帮不上什么忙了。	諸位，如你們所見，我早就已經到退休的年紀了，即使加入你們，恐怕也幫不上什麼忙了。	見ての通り、私はもう老いぼれたただの老婆だから。協力したって、なんの役にも立たないだろう。	보다시피 난 이미 은퇴할 나이가 되었네. 당신들에게 합류한다고 해도 크게 도움이 되지는 못할 것이네.	Listen, officers — I'm already at an age where I should be retired. Even if I did join you, I doubt I'd be of much use.						0	2.7版本主线故事
+40	这点还请不用担心。老实说，我们只是希望获得您名义上的支持，这对维持当前形势下的民心至关重要。	這點還請不用擔心。老實說，我們只是希望獲得您名義上的支持，這對維持目前情況下的民心非常重要。	そこはご安心を。お名前だけ貸していただければそれで十分。情勢的に、民意に取り入ることが大事なのでねぇ。	그 점은 걱정하지 않으셔도 됩니다. 사실 저희는 단지 명목상의 지지만을 필요로 할 뿐이에요. 현재와 같은 상황에서는 민심을 안정시키는 것이 무엇보다 중요하니까요.	You don't need to worry about that. To be frank, what we need most is your name — public support is crucial in times like these.						0	2.7版本主线故事
+41	而至于科研工作……那些就是后话了，不过我们绝对不会强迫您的。	而至於研究工作……那些就是後話了，不過我們絕對不會強迫您的。	研究のことなら、また別件になるが、もちろん無理強いするつもりはない。	그리고 과학 기술 연구는… 나중에 다시 얘기하죠. 하지만 저희는 절대 강요하지 않을 겁니다.	As for your research... we can discuss that later. But rest assured, we won't force you into anything.						0	2.7版本主线故事
+42	呵呵呵，如果你一上来就实话实说，说不定我就直接和你们走了，闹到现在这样，我反倒要提个要求了。	呵呵呵，如果你一上來就實話實說，說不定我就直接跟你們走了，鬧到現在這樣，我反而要提個要求了。	ふふふ。最初からそう素直に言ってくれたら、とっくに頷いていたのに……こうなった以上、私からもひとつ条件を聞いてもらわないとね。	허허허, 처음부터 솔직히 얘기했다면 바로 따라갔을지도 모르겠군. 이 지경까지 됐으니 내가 오히려 한 가지 요구를 해야겠는데.	Heh. If you'd been this upfront from the start, I might've agreed right away. But since things have come to this, I have a condition of my own.						0	2.7版本主线故事
+43	请说。	請說。	どうぞなんなりと。	말씀하세요.	Go ahead.						0	2.7版本主线故事
+44	请将我唯一的孩子平安护送至东边的大港口，那里会有我安排的卫城学院调查员作为接头人，你们要确保她可以安全地离开耶洛沙。	請將我唯一的孩子平安護送到東邊的大港口，那裡會有我安排的衛城學院調查員作為接頭人，你們要確保她可以安全地離開耶洛沙。	この子を東の港まで送り届けて、そこにいるアクロポリス学院の調査員に引き渡してちょうだい。それから、この子が安全にイェロシャから出られることを約束して。	하나뿐인 내 아이를 동쪽 항구까지 무사히 호송해 주게나. 그곳에 내가 연락책으로 준비해 둔 아크로폴리스 아카데미 조사원이 있을 거네. 아이가 안전하게 옐로샤를 떠날 수 있도록 해야 해.	Please, take my only child to the eastern port. An investigator from the Academica Acropolis will be waiting there. You must ensure she leaves Yehrus safely.						0	2.7版本主线故事
+45	悉听尊便。	悉聽尊便。	いいとも。お安い御用だ。	분부대로 하겠습니다.	Consider it done.						0	2.7版本主线故事
+46	这个蛮不讲理的世界，真的值得我们倾注所有，为之付出一切吗？	這個蠻不講理的世界，真的值得我們傾盡所有，為之付出一切嗎？	「こんな理不尽な世界のために、自分の全てをつぎ込むのは、本当に意味があるのだろうか」	이런 막무가내인 세상은, 과연 우리가 온 힘을 기울이고 모든 것을 바칠 만한 가치가 있을까?	Is this cruel, unforgiving world truly worth everything we have to give?						0	2.7版本主线故事
+47	等等……不要走……	等等……不要走……	待って……いかないでっ！	잠깐… 가지 마요…	Wait... don't leave me...						0	2.7版本主线故事
+48	谢谢你，奈莉德，借由你，我好像离这个问题的答案，更近一些了。	謝謝你，奈莉德，因為你，我好像離這個問題的答案，更近一點了。	ありがとうね、ネリーダ。あなたのおかげで、答えに一歩近づいた気がするわ。	고맙구나, 네리다. 네 덕에 이 문제의 답에 더 가까워진 것 같아.	Thank you, Nerida. Because of you, I feel like I got a little closer to the answer.						0	2.7版本主线故事
+49	不过只可惜，最终还是没能得出答案……	不過只可惜，最終還是沒能得出答案……	まあ、結局、答えは導き出せなかったけれど……	하지만 안타깝게도, 끝내 답을 얻지 못한 것 같네…	But in the end... I never found it.						0	2.7版本主线故事
+50	扫描完成——侵蚀程度已达百分之九十八。	掃描完成——侵蝕程度已達98%。	スキャン終了――侵食進行度、98%。	스캔 완료, 잠식 정도는 98%입니다.	Scan complete — corrosion level at 98%.						0	2.7版本主线故事
+51	（身体还没感觉到什么异样……但崩溃只在一瞬间。）	（身體還沒感覺到什麼異樣……但崩潰只在一瞬間。）	（体に異変はまだないが……崩壊というのは、いつだって一瞬で起きるものだ。）	(몸은 아무런 이상도 느끼지 못했는데… 하지만 무너지는 건 한순간이야.)	(My body still feels fine... but collapse always comes in an instant.)						0	2.7版本主线故事
+52	时间不多了，这次一定要拿到卡戎系统。	時間不多了，這次一定要拿到卡戎系統。	時間はない。今回こそ、カローンシステムを手に入れなくては。	시간이 없어. 이번에는 반드시 카론 시스템을 손에 넣어야 해.	Time is running out. I have to secure the Charon System this time.						0	2.7版本主线故事
+53	只要有了它，最新一代的无人机兵就会完成，它们将代替我们继续在污染区作战。	只要有了它，最新一代的無人機兵就會完成，它們將代替我們繼續在汙染區作戰。	あれがあれば、最新の無人機兵が完成するはずだ。我々のかわりに、汚染エリアで戦い続けてくれる。	그것만 있으면 최신 로봇이 완성돼. 그게 우릴 대신해 계속해서 오염 구역에서 전투를 벌일 거야.	With its help, we can finally complete development of Acropolis' newest combat mechs. They'll take our place on the front lines in the Contaminated Sections.						0	2.7版本主线故事
+54	这么一来，那些实力不济的普通人，就不必上前线了吧。	這麼一來，那些實力不濟的普通人，就不必上前線了吧。	そうなれば、力を持たない一般人が前線に出ずに済む。	그렇게 되면 실력이 보잘것없는 일반인들도 전선으로 나갈 필요가 없겠지.	This way, innocent civilians won't have to throw their lives away anymore.						0	2.7版本主线故事
+55	是梦啊。	是夢啊。	夢か。	꿈이구나.	A dream, huh...						0	2.7版本主线故事
+56	奈莉德徐徐睁开双眼，耳边回荡着低沉而又重复的浪声。	奈莉德緩緩睜開雙眼，耳邊迴盪著低沉又重複的浪聲。	唸るような波音に、ネリーダはゆっくりと目を開ける。	네리다는 천천히 두 눈을 떴다. 낮게 반복되는 파도 소리가 귓가에 울리고 있었다.	Nerida slowly opened her eyes, the rhythmic crash of waves echoing in her ears.						0	2.7版本主线故事
+57	窗外的天色，依旧是乌云密布，甚至比起昨天，还更差了些。	窗外的天色，依舊是烏雲密佈，甚至比起昨天，還更差了點。	窓越しに、今日も今日とて空模様は怪しい。	창밖의 하늘은 여전히 먹구름으로 가득했다. 어제보다도 더 심한 것 같았다.	Outside, the sky remained cloaked in thick clouds — even darker and heavier than the day before.						0	2.7版本主线故事
+58	最近总是梦到过去的事，真不吉利。	最近總是夢到過去的事，真不吉利。	最近、昔の夢ばかり見るな。不吉だ。	요즘 자꾸 옛일이 꿈에 나오네, 불길하게.	All these recent dreams about the past... not a good sign.						0	2.7版本主线故事
+59	早安，playername哥哥！	早安，playername哥哥！	おはようございます、playernameお兄さん！	좋은 아침이에요, playername 오빠!	Good morning, Mr. playername!						0	2.7版本主线故事
+60	早上我一睁开眼，便看到了守在一边的优格，而身旁的妮塔与奈莉德，都还在梦乡中。	早上我一張開眼，便看到了守在一旁的優格，而身旁的妮塔與奈莉德，都還在夢鄉中。	朝目を開けると、ヨルの顔が視界に飛び込んだ。ニタとネリーダはまだ起きていないようだ。	아침에 눈을 뜨자마자 내 옆을 지키고 있는 요거트가 보였다. 옆의 니타와 네리다는 아직 꿈나라였다.	The first thing I saw upon waking was Yogurt, standing by my side. Nita and Nerida were still fast asleep beside me.						0	2.7版本主线故事
+61	优格？你已经起来了啊。	優格？你已經起來了啊。	ヨル？もう起きたのか。	요거트? 벌써 일어났구나.	Yogurt? You're already up?						0	2.7版本主线故事
+62	嗯嗯，我这个型号的仿生人一天只要休息四个小时就足够了哦。	嗯嗯，我這個型號的仿生人一天只要休息四個小時就足夠了喔。	はい！わたしのモデルは、一日4時間休憩すれば大丈夫ですから。	네. 저 같은 모델의 안드로이드는 하루에 4시간만 쉬면 되거든요.	Mhm! My model only needs four hours of rest to function at full capacity!						0	2.7版本主线故事
+63	还真是令人羡慕的特性。	還真是令人羨慕的特性。	それは、羨ましい限りだな。	그건 정말 부럽네.	Wish I could be like that.						0	2.7版本主线故事
+64	啊对了，playername哥哥，我为大家准备了一些早餐，要去看看吗？	啊對了，playername哥哥，我幫大家準備了一些早餐，要去看看嗎？	そういえば、playernameお兄さんたちのために朝ごはんを用意しましたよ。にひひ、どうですか？	아, 맞다, playername 오빠. 제가 모두를 위해 아침을 준비했어요. 같이 가 볼래요?	Oh, right! Mr. playername, I made breakfast for everyone. Want to see?						0	2.7版本主线故事
+65	看着女孩满脸期待的样子，我笑着点了点头，然后轻手轻脚地起身离开了被窝。	看著女孩滿臉期待的樣子，我笑著點點頭，然後輕手輕腳地起身離開被窩。	にこやかな笑顔に頷いて、私はひっそりと布団から抜け出す。	기대에 찬 여자아이의 얼굴을 보며, 나는 웃으며 고개를 끄덕였다. 그리고 살며시 일어나 이불에서 빠져나왔다.	Her bright, eager expression made it impossible to refuse. Smiling, I nodded and quietly slipped out of bed.						0	2.7版本主线故事
+66	锵锵~	將將~	じゃじゃーん！	짜잔~	Tada~						0	2.7版本主线故事
+67	餐桌之上，纸碟中的压缩饼干被细心地掰成了大小一致的碎块，相互叠加在一起，而在饼干与饼干之间的，则是乳白色的酸奶。	餐桌上，紙碟中的壓縮餅乾被細心地掰成了大小一致的碎塊，相互疊加在一起，而在餅乾與餅乾之間的，則是乳白色的優格。	簡易テーブルの上に置かれた紙皿にはサンドクッキーがのせられていた。食べやすいように小さくちぎられた圧縮ビスケットでヨーグルトを挟んで作られたものらしい。	식탁 위에는 같은 크기의 조각으로 세심하게 쪼개진 건빵이 서로 겹친 채 종이 접시 위에 놓여 있었고, 건빵 사이에는 우윳빛 요구르트가 놓여 있었다.	Hardtack biscuits were neatly arranged on disposable plates, carefully broken into uniform pieces and stacked together. Between each layer was a drizzle of smooth, creamy yogurt.						0	2.7版本主线故事
+68	啊，这就是优格所说的早餐啊，虽然原材料受限，但作为弥补，她似乎是倾注不少心思。	啊，這就是優格所說的早餐啊，雖然原料受限，但作為彌補，她似乎是費了不少心思。	材料こそ簡素なものだが、彼女なりに相当な工夫を凝らしたのがわかる。	이게 바로 요거트가 말한 아침인 것 같다. 재료가 제한적이기는 했지만, 그래도 꽤 공을 들인 것 같았다.	Huh. So this was Yogurt's idea of breakfast. Still, she'd clearly put a lot of thought into making the best of what was available.						0	2.7版本主线故事
+69	请尝尝看。	請品嚐看看。	はい、どうぞ食べてみてください！	드셔 보세요.	Would you like to try one?						0	2.7版本主线故事
+70	她小心翼翼地捧起一块饼干，递到我面前。	她小心翼翼地捧起一塊餅乾，拿到我面前。	紙皿からつまんだビスケットを、ヨルは丁寧に両手で差し出す。	그녀는 조심스럽게 건빵 하나를 들어 나에게 내밀었다.	She held up a biscuit, cradling it carefully in both hands, offering it to me.						0	2.7版本主线故事
+b-1											0	2.7版本主线故事
+71	拿起，然后吃下。	拿起，然後吃下。	受け取って口に入れる。	받아서 먹는다.	Grab it and pop it into your mouth						0	2.7版本主线故事
+72	怎么说呢，搭配上酸奶之后，原本难以下咽的压缩饼干也可以称之为美味了。	怎麼說呢，搭配上優格之後，原本難以下嚥的壓縮餅乾也可以稱得上美味了。	ただの圧縮ビスケットでも、ヨーグルトと一緒に食べるとなかなか美味いな。	뭐랄까, 요구르트를 곁들이니까 퍽퍽한 건빵도 아주 맛있어졌는걸.	Well, the sweet yogurt certainly gives these bland hardtack biscuits some flavor at least.						0	2.7版本主线故事
+73	优格，干得不错。	優格，做得不錯。	ヨル、よくやった。	요거트, 제법인데?	Nice job, Yogurt.						0	2.7版本主线故事
+74	嘿嘿，谢谢夸奖~	嘿嘿，謝謝誇獎~	えへへ、ありがとうございます！	헤헤, 고마워요~	Hehe~ Thank you!						0	2.7版本主线故事
+75	得到了夸奖后，女孩的两只眼睛瞬间闪过亮光。	得到了讚美後，女孩的兩眼瞬間閃過亮光。	褒められて目をぱっと輝かせるヨル。	칭찬을 받자, 여자아이의 두 눈이 순간 반짝 빛났다.	Her eyes lit up at my praise, sparkling with joy.						0	2.7版本主线故事
+76	其表露出的情感之丰富，以至于我在一瞬间差点忘记了她是仿生人。	其表露出的情感非常豐富，以至於我在一瞬間差點忘記她是仿生人。	これまた、人間の女の子らしい。本当にヒューマノイドなのか思わず疑いたくなるくらいだ。	겉으로 드러나는 감정이 너무 풍부한 탓일까, 그녀가 안드로이드라는 것도 잊어버릴 정도였다.	For a moment, I nearly forgot she wasn't human.						0	2.7版本主线故事
+77	那我就再去多做一些，一会儿两位姐姐就该起床了吧。	那我就再去多做一點，等一下兩位姐姐就應該起床了吧。	もうちょっと作ってきますね。あのおふたりももうすぐ起きてきますから。	그럼 제가 조금 더 만들어 올게요. 언니들도 곧 일어날 거니까요.	Then I'll make more! Miss Nita and Miss Nerida should be up soon!						0	2.7版本主线故事
+78	嗯嗯，去吧去吧。	嗯嗯，去吧去吧。	ああ、頼んだぞ。	응, 어서 가봐.	Sure, go ahead.						0	2.7版本主线故事
+79	见我点头示意，她便又踏着啪嗒啪嗒的脚步，边跑向堆放物资的角落，边念念有词道。	見我點頭示意，她便又踏著啪嗒啪嗒的腳步，邊跑向堆放物資的角落，邊唸唸有詞。	パタパタと物資が積まれた隅っこへ走り寄ると、ヨルはぴょこんと跳ねた。	내가 고개를 끄덕이자, 그녀는 또 물자를 쌓아 둔 구석으로 파닥파닥 뛰어가면서 중얼거렸다.	At my nod, she scampered off toward the corner where we kept our supplies, her bare feet pattering against the floor. I could hear her muttering to herself:						0	2.7版本主线故事
+80	优格，干得不错！	優格，做得不錯！	ヨル、よくやったぁ！	요거트, 제법인데?	Nice job, Yogurt!						0	2.7版本主线故事
+81	嘿嘿嘿~	嘿嘿嘿~	にひひ～	헤헤헤~	Hehehe~						0	2.7版本主线故事
+82	哈，早安啊，分析员。	呼哈，早安啊，分析員。	ふあぁ～……はよー、分析員。	하암, 좋은 아침, 분석가.	Morning, Adjutant.						0	2.7版本主线故事
+83	正说着，妮塔便打着哈欠走了出来。	正說著，妮塔便打著哈欠走了出來。	嬉しそうな背中を遠目に眺める私のとなりに、ニタはあくびをしながら並んで立つ。	그때, 니타가 하품하며 걸어 나왔다.	Yawning, Nita emerged from the room.						0	2.7版本主线故事
+84	优格这是怎么了，乐成那样。	優格這是怎麼了，開心成那樣。	ヨル、嬉しそうだね。なんかあったの？	요거트는 왜 저래? 꽤 신이 났는데.	What's got Yogurt so giddy this early?						0	2.7版本主线故事
+85	啊，其实是这样……	啊，其實是這樣……	ああ、実は……	아, 사실은…	Oh, about that...						0	2.7版本主线故事
+86	……	……	――。	…	...						0	2.7版本主线故事
+87	就这样，在享受完宁静而又短暂的早餐时间后，我们很快便又开始了严肃而又紧张的作战会议。	就這樣，在享受完寧靜而又短暫的早餐時間後，我們很快便又開始了嚴肅又緊張的作戰會議。	穏やかな朝の時間はあっけなく終わる。ヨルを入れた４人で、私たちはテーブルを囲み真剣な面持ちで作戦会議に臨んだ。	평온하고 짧았던 아침 식사 시간이 끝난 후, 우리는 다시 엄숙하고 긴장된 분위기 속에서 작전 회의를 시작했다.	After a simple yet peaceful breakfast, we regrouped for a mission briefing, returning to a sense of seriousness and urgency.						0	2.7版本主线故事
+88	最终，鉴于天气正不断变得恶劣，为了抓紧时间启动大货梯，我们决定分头前往不同区域收集电池。	最終，鑑於天氣正不斷變得惡劣，為了把握時間啟動大貨梯，我們決定分頭前往不同區域收集電池。	最終的に天候の調子を鑑みて、リフトを一刻も早く起動させるために、私たちは手分けしてバッテリーを回収することに決めた。	결론은, 계속해서 나빠지는 날씨를 감안해 서둘러 화물용 엘리베이터를 작동시키고자, 각자 다른 구역으로 이동해 배터리를 수집하기로 했다.	With the weather worsening, time was against us. To activate the lift as quickly as possible, we split into two teams to gather the necessary power cells.						0	2.7版本主线故事
+89	妮塔与优格一组，前往危险程度较低的浅层区域，那里虽然敌人稀少，但是却有不少需要优格权限才能打开的大门。	妮塔與優格一組，前往危險程度較低的淺層區域，那裡雖然敵人稀少，但卻有不少需要優格權限才能打開的大門。	ニタとヨルのタッグは比較的安全なエリアへ向かうことになった。そこは敵が少ない反面、ヨルの権限がないと通れない道が多い。	니타와 요거트가 한 팀이 되어 위험 수준이 낮은 얕은 층에 가기로 했다. 그곳은 적이 많지 않지만 요거트의 권한으로 열어야 하는 문이 많았다.	Nita and Yogurt took the safer upper levels. Hostile presence was minimal there, but many doors required Yogurt's access codes to open.						0	2.7版本主线故事
+90	而我与奈莉德一组，负责探索的深层区域。	而我與奈莉德一組，負責探索深層的區域。	私とネリーダは基地の深部のほうを担当した。	그리고 나와 네리다가 한 팀이 되어 심층 구역의 탐색을 맡았다.	Meanwhile, Nerida and I ventured into the depths of the sea base.						0	2.7版本主线故事
+91	那里是我们目前能够到达的，距离目的地海底实验室最近的区域。	那裡是我們目前能夠到達的，距離目的地海底實驗室最近的區域。	そこは今、行ける中で海底研究所に一番近いエリアだ。	그곳은 우리가 현재 갈 수 있는, 목적지인 해저 실험실까지 가장 가까운 구역이었다.	Our destination was the closest accessible area to the seafloor lab.						0	2.7版本主线故事
+92	再过一个转角就到最后一个电池储备点了。	再過一個轉角就到最後一個電池儲備點了。	もうひとつ曲がると、最後のバッテリー保管所だ。	코너를 한 번만 더 돌면 마지막 배터리 저장소야.	One more turn, and we'll reach the final power cell depot.						0	2.7版本主线故事
+93	昏暗的通道中，只有布满墙体的蓝色结晶发出微弱的光芒。我和奈莉德手中紧握着武器，警惕地打量着四周。	在昏暗的通道中，只有布滿牆壁的藍色結晶發出微弱的光芒。我和奈莉德手中緊握著武器，警戒地打量著四周。	薄暗い通路の中、壁一面に広がる青い結晶だけがぼんやりと光っている。私とネリーダは武器を握りしめ、警戒しながら周りを見回した。	어두컴컴한 통로 안, 벽에 가득한 푸른색 결정만이 미약한 빛을 뿜고 있었다. 나와 네리다는 손에 무기를 꼭 쥔 채 경계하며 사방을 살폈다.	The dim corridor pulsed with an eerie blue glow, cast by Titagen crystal clinging to the walls. Weapons at the ready, Nerida and I advanced cautiously.						0	2.7版本主线故事
+94	嗯，动作得快点，这里的污染浓度很高，即便是我们待久也没什么好处。	嗯，動作得快點，這裡的汙染濃度很高，即使我們待久了也沒什麼好處。	早く済ませよう。ここは汚染濃度が高いから、いくら私たちでも長居するのは良くない。	응, 서둘러야 해. 이곳은 오염 농도가 높아서 오래 있어봤자 좋을 게 없어.	We need to pick up the pace. Contamination levels here are too high to linger.						0	2.7版本主线故事
+95	发现入侵者。	發現入侵者。	侵入者発見。	침입자 발견.	Intruders detected.						0	2.7版本主线故事
+96	一阵刺耳的机械启动音从我们身后响起，一架布满了结晶的卫城学院无人机突然“复活”了过来。	一陣刺耳的機械啟動音從我們身後響起，一架布滿了結晶的衛城學院無人機突然「復活」了過來。	耳障りなモーター音が背後から響き、結晶に覆われたアクロポリス学院の無人機が急に動き出した。	귀청을 때리는 기계 작동음이 우리 등 뒤에서 울렸고, 결정으로 가득 덮인 아크로폴리스 아카데미 드론이 갑자기 '부활'했다.	With a sharp, grating whir, an Academica Acropolis drone behind us suddenly roared to life — its frame bristling with jagged Titagen crystal.						0	2.7版本主线故事
+97	精准操控无机物的能力？这不是一般的泰坦能做到的事。	精準操控無機物的能力？這不是一般的泰坦能做到的事。	無機物を操る能力なのか……？普通のタイタンにこんなことはできないはずだ。	무기물을 정확히 조종하는 능력은 일반적인 타이탄이 할 수 있는 일이 아니었다.	Precise control over inorganic matter... That wasn't something a regular Titan could manage.						0	2.7版本主线故事
+98	我扣动扳机，清除了这诡异的哨兵。	我扣動扳機，清除了這詭異的哨兵。	浮遊するドローンを拳銃で排除して、私は接敵を想定して遮蔽物を探しだす。	나는 방아쇠를 당겨 그 괴이한 보초병을 제거했다.	I pulled the trigger of my gun, taking down the strange sentry.						0	2.7版本主线故事
+99	太晚了，我们已经被发现了。	太晚了，我們已經被發現了。	いや、もう遅い。	늦었어. 우린 이미 들켰어.	Too late. We've been compromised.						0	2.7版本主线故事
+100	就在这里迎敌。	就在這裡迎敵。	ここで迎え撃つぞ。	여기서 적을 기다리자.	Let's deal with them here.						0	2.7版本主线故事
+101	奈莉德再次释放出能量束带，覆盖范围远超我们第一次见面时的那次……	奈莉德再次釋放出能量束帶，覆蓋範圍遠超我們第一次見面時的那次……	言ってすかさず「帯」をぶっ放す。その長さも数も初めて見たときのそれをはるかに超えていた。	네리다는 다시 한번 에너지 벨트를 시전했고, 그것은 우리의 첫 만남 때보다 훨씬 더 넓게 퍼져 나갔다…	Once again, Nerida unleashed her energy ribbons — this time covering a far wider area than during our first encounter.						0	2.7版本主线故事
+102	而几乎就在她释放完成的同一时刻，几只泰坦便已冲到我面前。	而幾乎就在她釋放完成的同一時刻，幾隻泰坦便已衝到我面前。	勢いよく伸びていく帯がビシッと張り詰める。それと同時に、数体のタイタンがすぐ目の前にまで迫ってきた――	그녀가 시전을 완료하자, 거의 동시에 타이탄 몇 마리가 우리에게 돌진했다.	Meanwhile, several Titans lunged at me.						0	2.7版本主线故事
+103	伴随着几团鲜红的雾气散开，它们的身体便被贯穿。	伴隨著幾團鮮紅的霧氣散開，它們的身體便被貫穿。	艶やかな血飛沫が舞い、タイタンたちの体にぽっかりと貫通穴が開いた。	선홍색 안개가 펼쳐지며, 타이탄들은 몸이 관통당했다.	A burst of crimson mist filled the air as they were impaled.						0	2.7版本主线故事
+104	而后，我干脆地将其尽数斩杀。	而後，我乾脆地將它們盡數斬殺。	間髪入れずに私はトドメを刺す。	그리고 나는 그것들을 아예 칼로 베어 제거했다.	And I finished them off without hesitation.						0	2.7版本主线故事
+105	呵，那些束带的交叉处多半在我身边啊。	呵，那些束帶的交叉處多半在我身邊啊。	なるほど。帯の結び目はほとんど私のほうにまわしているのか。	후우, 벨트의 교차점이 거의 다 내 옆에 있었다.	Huh. Those ribbons of hers always seem to target the enemies closest to me.						0	2.7版本主线故事
+106	我扭头看了一眼身后的奈莉德，此刻的她眼神锐利如刃，面对张牙舞爪的敌人，即便不依靠束带的力量，依旧自如地穿梭于敌群之中。	我扭頭看了一眼身後的奈莉德，此刻的她眼神銳利如刃，面對張牙舞爪的敵人，即便不依靠束帶的力量，依舊自如地穿梭於敵群之中。	思わず振り返ると、ネリーダは残酷なほどに冷たい目で凶暴な敵の間を縫うように駆け、その命を奪っていた。	나는 고개를 돌려 뒤에 있는 네리다를 바라봤다. 그 순간 그녀의 눈빛은 칼날처럼 예리했다. 흉악한 적군 앞에서 그녀는 벨트의 힘을 빌리지 않고도 적군 가운데서 유연하게 움직일 수 있었다.	Glancing over my shoulder, I caught sight of Nerida — her sharp gaze like a blade, slicing clean through the battlefield's haze.						0	2.7版本主线故事
+107	仿佛在跳一支致命的舞蹈。	彷彿在跳一支致命的舞蹈。	流れるような身のこなしに、私はほとんど見惚れそうになった。	그 모습은 마치 치명적인 춤을 추는 것만 같았다.	Even without her ribbons, she moved with lethal grace, weaving effortlessly between foes and striking with deadly precision. It was like watching a dance of death.						0	2.7版本主线故事
+108	顷刻间，便已将第一波来袭者尽数歼灭。	頃刻間，便已將第一波來襲者盡數殲滅。	あっという間に敵は全員地面に倒れていた。	순식간에 첫 번째 습격자들을 전부 섬멸했다.	Within moments, the first wave was wiped out.						0	2.7版本主线故事
+109	谢谢你的好意，不过接下来，还请节省点体力。	謝謝你的好意，不過接下來，還請省點體力。	ありがとう。でもこれからは体力を温存してほしい。	호의는 고맙지만 이제부터 체력을 좀 아껴 둬.	I appreciate the backup, but you might want to conserve your strength.						0	2.7版本主线故事
+110	我能感知到，后面的敌人正源源不断地涌来。这条通道可禁不起折腾。	我能感知到，後面的敵人正源源不絕地湧來。這條通道可禁不起破壞。	今の倍以上の敵はまだ来る。大混戦になったら、このトンネルじゃ耐えられそうにない。	뒤쪽에서 적군이 계속해서 몰려드는 게 느껴져. 이 통로로는 버텨 내지 못할 거야.	I can sense more coming — we won't be able to hold this corridor for long.						0	2.7版本主线故事
+111	那就从正面突围。	那就從正面突圍。	なら正面突破だ。	그럼 정면으로 돌파하자.	Then we break through the front.						0	2.7版本主线故事
+112	不，我们走上面。	不，我們走上面。	いや、上から行こう。	아니, 위로 올라갈 거야.	No, we go up.						0	2.7版本主线故事
+113	我摇了摇头，然后直接揽向她的腰际。	我搖了搖頭，然後直接攬向她的腰際。	言いながら私はネリーダの腰に腕を回す。	나는 고개를 젓고 그녀의 허리를 끌어안았다.	I shook my head and, without warning, slipped an arm around her waist.						0	2.7版本主线故事
+114	你——	你——	お前――	너…	What are you—						0	2.7版本主线故事
+115	她转过头，眼神中带着一丝错愕与羞恼。	她轉過頭，眼神中帶著一絲錯愕與羞惱。	驚きと恥じらいの混じった顔で振り向いてくる。	그녀가 고개를 돌리자, 놀람과 부끄러움 섞인 눈빛이 보였다.	She turned to me in surprise, her sharp gaze flashing with both irritation and the faintest flicker of shyness.						0	2.7版本主线故事
+116	别逞强了。	別逞強了。	いい加減、カッコつけるのはやめたらどうなんだ。	괜히 무리하지 마.	This is no time to be stubborn.						0	2.7版本主线故事
+117	我笑着在她的耳旁低声说道。	我笑著在她的耳旁低聲說。	私は笑いながら彼女の耳元で囁いた。	나는 웃으며 낮은 목소리로 그녀의 귓가에 말했다.	I murmured into her ear with a soft chuckle.						0	2.7版本主线故事
+118	她的身体温热而紧绷，像是随时准备挣脱，但我没有给她机会，只是略微用力，她很快便意识到自己已经被掐中了死穴。	她的身體溫熱緊繃，像是隨時準備掙脫，但我沒有給她機會，只是略微用力，她很快便意識到自己已經被掐中了死穴。	隙を見て逃げ出す、とでも考えているのかその体は妙にこわばっていた。もちろんそんな機会は与えず、私は腕にさらに力を込める。	그녀의 몸은 따뜻하면서도 경직되어 있었고, 언제든지 벗어날 준비를 하는 것 같았다. 하지만 나는 그녀에게 기회를 주지 않았다. 그녀는 살짝 힘을 주었지만, 금세 약점이 잡혔다는 걸 알아차렸다.	Her body tensed beneath my grip — warm, yet stiff, ready to bolt. But I didn't give her the chance. Just the slightest pressure, and she knew — I had her trapped.						0	2.7版本主线故事
+119	之后她的挣扎渐渐减弱，呼吸却依旧急促，胸口剧烈起伏着，眼神不再像之前那般凌厉。	之後她的掙扎漸漸減弱，呼吸卻依舊急促，胸口劇烈起伏著，眼神不再像之前那樣凌厲。	すると、強張っていた彼女の体が少しほぐれてきたような感じがした。呼吸はやっぱり荒く、胸も激しく上下していたが、目つきはなんだか柔らかくなっている。	이내 그녀의 몸부림은 점점 잦아들었지만, 호흡은 여전히 급박했고 가슴은 격렬하게 오르내렸다. 눈빛은 더 이상 전처럼 날카롭지 않았다.	Gradually, she stopped resisting, though her chest still rose and fell with ragged breaths. The sharp edge in her gaze began to soften.						0	2.7版本主线故事
+120	见状，我握紧拳头，伴随着一阵低沉的嗡鸣声，装甲表面的纹路开始泛起蓝色的光芒，能量迅速向我的右手汇聚。	見狀，我握緊拳頭，伴隨著一陣低沉的嗡鳴聲，裝甲表面的紋路開始泛起藍色的光芒，能量迅速向我的右手匯聚。	おとなしくなったその様子を見て、私は片手で拳を作る。低くうなる音を立てながら、装甲の表面に施された模様が青く光りだす。	그 모습을 본 나는 주먹을 꽉 쥐었다. 낮은 비프음과 함께 전술 슈트 표면의 무늬에 푸른빛이 돌기 시작했고, 에너지가 내 오른손으로 빠르게 모였다.	As enemies closed in, I clenched my free right hand into a fist. A low whir filled the air as glowing blue light surged through the etched grooves of my armor, energy gathering in my knuckles.						0	2.7版本主线故事
+121	要撤了！	要撤了！	撤退だ。	철수한다!	Let's get out of here!						0	2.7版本主线故事
+122	一声巨响过后，整个通道都为之震动。天花板被直接贯穿，露出了一条狭窄通道。	一聲巨響過後，整個通道都為之震動。天花板被直接貫穿，露出了一條狹窄通道。	大きな音とともにトンネル全体が大きく揺れると、突き破られた天井から狭いトンネルが現れた。	거대한 소리가 나더니 통로 전체가 그로 인해 진동했다. 천장은 아예 관통되어 좁은 통로가 드러났다.	With a deafening boom, the ceiling cracked open, revealing a narrow passage above.						0	2.7版本主线故事
+123	为什么？以我们的实力从正面突围也是轻而易举。	為什麼？以我們的實力從正面突圍也是輕而易舉。	なぜだ。我々なら正面突破だって容易いはずだ。	왜 그랬어? 우리 실력이라면 정면으로 돌파해도 거뜬할 텐데.	Why'd you do that? We could've broken through the front easily.						0	2.7版本主线故事
+124	在确认身后没有追兵后，我放下了她。	在確認身後沒有追兵後，我放下了她。	追っ手がいないことを確認して、私は彼女を腕の中から解放した。	뒤에 추격자가 없는지 확인한 후, 나는 그녀를 놓아주었다.	With no pursuers in sight, I finally let go of her.						0	2.7版本主线故事
+125	我知道我们可以，但敌人的目标只是在拖延时间，而且更重要的是——	我知道我們可以，但敵人的目標只是在拖延時間，而且更重要的是——	わかっている。だが敵の狙いは時間稼ぎだ。それに、	나도 알아. 우리라면 할 수 있겠지. 하지만 적들의 목표는 그저 시간을 끄는 것뿐이야. 그리고 더 중요한 건…	We could have. But they were just stalling — no point wasting time on them. And more importantly...						0	2.7版本主线故事
+126	我想告诉奈莉德，有时候可供我们选择的路不止一条。	我想告訴奈莉德，有時候我們可以選擇的路不只一條。	ネリーダに、選択肢はいつも一つじゃないってことを伝えたかった。	네리다한테 알려주고 싶었어. 때론 우리 앞에 놓인 선택지가 하나뿐이 아니라는 걸.	I wanted to show you that there's always more than one way forward, Nerida.						0	2.7版本主线故事
+127	她的眼神闪烁了一下，随后别过头去。	她的眼神閃爍了一下，然後別過頭去。	ネリーダは瞳が一瞬揺らぐと、顔をそむけた。	그녀의 눈이 잠깐 반짝이더니, 이내 곧바로 고개를 돌렸다.	For a fleeting moment, her eyes lit up — then she looked away.						0	2.7版本主线故事
+128	走吧，总之先向着污染浓度较低的地方前进吧。	走吧，總之先向著汙染濃度較低的地方前進吧。	行こう。とにかく汚染濃度の低い方へ進もう。	가자, 아무튼 우선은 오염 농도가 낮은 곳으로 가야 해.	Anyway, let's find a spot with lower contamination.						0	2.7版本主线故事
+129	哔——	嗶——	ピ――	삐…	*beep—*						0	2.7版本主线故事
+130	正当我打算带着她继续前进时，一个小小的黑匣从阴影中“飘出”。	正當我打算帶著她繼續前進時，一個小小的黑盒子從陰影中「飄出」。	足を踏み出そうとしたら、近くの物陰から小さな黒い箱がふわりと浮かび上がった。	그녀를 데리고 계속 전진하려던 중, 그림자 속에서 조그마한 블랙박스 하나가 '날아왔다'.	Just as we were about to press forward, a small black box "drifted" out from the shadows.						0	2.7版本主线故事
+131	它的身上没有那些结晶，也察觉不出泰坦物质。	它的身上沒有那些結晶，也察覺不出泰坦物質。	それには結晶がなく、タイタン物質の気配も感じ取れない。	블랙박스에는 결정도 없었고, 타이탄 물질도 느껴지지 않았다.	No trace of crystal growth. No sign of Titagen corruption.						0	2.7版本主线故事
+132	见我们没有反应，它又闪烁了两下蓝色的信号灯，好似是在示意我们跟上去。	看我們沒有反應，它又閃爍了兩下藍色的信號燈，好像在示意我們跟上。	二人で黙って見つめていると、箱の青い光のランプは素早く２回点滅した。どうやらついてきて、と言っているらしい。	우리가 반응이 없자, 블랙박스는 푸른색 신호등을 두 번 깜빡였다. 따라오라는 신호를 보내는 것 같았다.	It hovered in place, pulsing twice with a faint blue light, as if waiting for us to follow.						0	2.7版本主线故事
+133	这个装置是……？	這個裝置是……？	なんだ、あれは？	이 장치는…?	What is this...?						0	2.7版本主线故事
+134	是卡戎系统真正的载体之一，快跟上。	是卡戎系統真正的載體之一，快跟上。	カローンを格納してる記憶媒体のひとつだ。追うぞ。	카론 시스템의 진짜 매개체 중 하나야. 어서 따라가자.	One of the Charon System's real carriers. Come on, let's follow it.						0	2.7版本主线故事
+135	奈莉德回过神来，一边用不容置疑的语气说着，一边拉起了我的手，似乎是想要再次夺回主导权……	奈莉德回過神來，一邊用不容置疑的語氣說著，一邊拉起了我的手，似乎是想要再次奪回主導權……	ふと我に返ったように言うと私の手を取るネリーダ。どうやら再び主導権を取り戻そうとしているようだ。	정신을 차린 네리다는 확신에 찬 말투로 말했고, 다시 주도권을 되찾으려는 듯 내 손을 잡아 이끌었다…	Nerida snapped back into focus, her tone brooking no argument as she reached for my hand, intent on taking the lead once again.						0	2.7版本主线故事
+136	呵，就先随她吧。	呵，就先隨她吧。	まあ、今は彼女に任せるとしよう。	흠, 우선 내버려두자.	Heh. Guess I'll let her have this one.						0	2.7版本主线故事
+137	黑匣迅速调转方向，带领我们穿过一条条隐蔽的通道，身后的敌人被甩得越来越远，最终消失在了黑暗中。	黑盒子迅速調轉方向，帶領我們穿過一條條隱密的通道，身後的敵人被甩得越來越遠，最後消失在了黑暗中。	箱の後ろを追って狭い通路を何度も曲がっていくと、背後から感じる敵の気配は次第に遠ざかり、最後は闇に消えた。	블랙박스는 빠르게 방향을 바꾸더니 우리를 인도하며 은밀한 통로를 지나갔다. 뒤에 있던 적들은 더 멀리 뒤처졌고, 결국 어둠 속으로 사라졌다.	The black box veered sharply, weaving through a maze of hidden shortcuts as it led us, leaving our pursuers farther behind with every turn.						0	2.7版本主线故事
+138	而最终，在抵达了一间杂物间后，它好似能源耗尽般，停止了运作。	而最終，在抵達了一間雜物室後，它就像能源耗盡一樣，停止了運作。	そしていくつかの扉を抜け、私たちはある物置部屋に入った。エネルギー切れなのか、箱は動かなくなっている。	마침내 우리는 어떤 비품실에 이르렀고, 블랙박스는 에너지를 소진한 듯 작동을 멈추었다.	Eventually, we reached a storage room. The black box flickered and powered down, as if it had run out of breath.						0	2.7版本主线故事
+139	在为墙壁安装好加固装置后，我扭头面向身后的奈莉德。	在為牆壁安裝好加固裝置後，我轉頭面向身後的奈莉德。	壁に補強装置を取り付けた後、私は黒い箱を眺めながらネリーダに話しかけた。	벽에 보강 장치를 설치한 후, 나는 고개를 돌려 뒤에 있는 네리다를 바라봤다.	After reinforcing the room's walls with stabilizers, I turned to Nerida.						0	2.7版本主线故事
+140	你刚刚说的“真正的卡戎”是指“卡戎系统”原本的载体吧。	你剛剛說的「真正的卡戎」是指「卡戎系統」原本的載體吧。	さっき君はこれを、カローンの入っている記憶媒体だと言ったが、実際それは、もう過去の話だろ。	방금 말한 '진짜 카론'이라는 게, '카론 시스템'의 원래 운반체를 말하는 거지?	The real carriers you mentioned — they must be the system's original carriers, right?						0	2.7版本主线故事
+141	正如之前所说，优格的出现，其实算是个意外。	如同之前所說，優格的出現，其實算是個意外。	私たちがヨルを見つけたのは、ただの偶然かもしれない。	전에 말했던 것처럼 요거트의 등장은 사실 예상 밖의 사건이었다.	Just as we suspected, Yogurt's existence had been an accident.						0	2.7版本主线故事
+142	细细观察面前的黑匣后我才想起来，除了位于海底试验场的数据中心外。	細細觀察面前的黑盒子後我才想起來，除了位於海底試驗場的資料中心外。	目の前の黒い箱をじっと見つめていると、ふと、ひとつ思い出したことがあった。	눈앞의 블랙박스를 자세히 관찰하니 그제야 생각났다. 해저 시험장에 있는 데이터 센터 외에도…	As I examined the black box, I remembered that several carriers like this one had also been deployed throughout other areas of the base.						0	2.7版本主线故事
+143	海上平台上还有数个类似面前黑匣一样的载体，它们通过内置的芯片与网络连接，共享视野与“意识”。	海上平台上還有數個類似面前黑盒子一樣的載體，它們透過內建的晶片與網路連接，共享視野與「意識」。	海底のデータセンターの他に、基地の甲板にも似たような黒い箱がいくつかあった。そしてこれらの箱は、内蔵チップでネットワークと繋ぎ、視界と「意識」を共有している。	해상 기지에는 이 블랙박스와 비슷하게 생긴 운반체가 여럿 있었다. 그것들은 내장된 칩으로 인터넷에 연결되어 시야와 '의식'을 공유했다.	They were interconnected through a network, their processors enabling them to share vision and "awareness."						0	2.7版本主线故事
+144	嗯，但是它并没有“自我意识”。	嗯，但是它並沒有「自我意識」。	ああ。だがそれには「意識」はないはずだ。	응. 하지만 '자의식'은 없어.	Yeah. But this one doesn't have self-awareness.						0	2.7版本主线故事
+145	奈莉德熟练地将黑匣与自己的终端连接到了一起，开始细细检索起来。	奈莉德熟練地將黑盒子與自己的終端連接到了一起，開始細細檢查起來。	ネリーダは慣れた手つきで黒い箱をケーブルで自分の端末に繋げて、なにか操作をしだした。	네리다는 능숙하게 블랙박스를 자신의 단말기와 연결해 자세히 검사하기 시작했다.	Nerida deftly connected the device to her terminal, fingers tapping rapidly across the screen.						0	2.7版本主线故事
+146	也就是说刚刚的行为，只是在遵循“保护人类”的基本指令形式吗？	也就是說剛剛的行為，只是在遵循「保護人類」的基本指令形式嗎？	つまり、今この箱は「人類を守る」という原則に従っただけなのか？	그러니까, 방금의 행동은 '인간을 보호하라'는 기본적인 명령을 따랐을 뿐인 거야?	So just now, it was simply acting on its core protocol to protect humans?						0	2.7版本主线故事
+147	奈莉德点了点头，继续操控着终端，突然——	奈莉德點點頭，繼續操控著終端，突然──	ネリーダは端末の操作を続けながら頷いた。	네리다는 고개를 끄덕였고 계속 단말기를 조작했다. 그러다 갑자기…	She nodded, eyes still fixed on the data. Then, suddenly...						0	2.7版本主线故事
+148	啧，系统日志已经被删光了，唯一保留下来的只有开机时间。	嘖，系統日誌已經被刪光了，唯一保留下來的只有開機時間。	チッ……システムログは全部消された。残ってるのは起動履歴だけだ。	쳇, 시스템 일지가 벌써 다 삭제됐군. 유일하게 남아 있는 건 부팅 시간뿐이야.	Tch. System logs have been wiped. Only the activation timestamp remains.						0	2.7版本主线故事
+149	望着屏幕，我发现上面显示的时间正与这里发生泰坦降临的时间吻合。	看著螢幕，我發現上面顯示的時間正與這裡發生泰坦降臨的時間吻合。	画面を見ると、表示されている時間はちょうどここでタイタン降臨が起きた時間とぴったり一致することに気づいた。	화면을 본 나는 그 위에 표시된 시간이 이곳에 타이탄 강림이 발생한 시간과 일치한다는 것을 알아차렸다.	Peering over her shoulder, I saw the activation time — it aligned exactly with the moment of the Titan Descent here.						0	2.7版本主线故事
+150	有“人”将卡戎系统转移到了优格的身上。	有「人」將卡戎系統轉移到了優格的身上。	誰かが「カローン」をヨルに移動させた。	어떤 '사람'이 카론 시스템을 요거트에게 옮긴 거야.	Someone — or something — transferred the Charon System into Yogurt.						0	2.7版本主线故事
+151	我们再次同时说出了相同的判断。	我們再次同時說出了相同的判斷。	揃った声で同時に口に出す。	우리는 또다시 이구동성으로 동일한 판단을 내렸다.	Again, we spoke in unison.						0	2.7版本主线故事
+152	呵，我们这不是挺有默契的。	呵，我們還是蠻有默契的。	フッ、意外と息が合ってるみたいだ。	훗, 우리 호흡이 꽤 잘 맞는걸.	Heh. Guess we're quite in sync.						0	2.7版本主线故事
+153	奈莉德并没有显得太过于惊讶，毕竟在她的视角下，我与她算是一类人。	奈莉德並沒有顯得太過於驚訝，畢竟在她的視角下，我跟她算是同類人。	声音があまり驚いていないのは、前々から私のことを同類だと思っているからだろう。	네리다는 그다지 놀란 기색이 없었다. 아무래도 그녀가 볼 때 우리는 같은 부류일 테니 말이다.	She didn't seem particularly surprised. After all, she saw me as the same type of person as her.						0	2.7版本主线故事
+154	走吧，playername，该回到海面上了。	走吧，playername，該回到海面上了。	さぁ、playername、上に戻るぞ。	가자, playername, 해수면으로 돌아가야 해.	Let's go, playername. Time to head back to the surface.						0	2.7版本主线故事
+155	奈莉德收起终端，随后又将那个黑匣子抛给了我。	奈莉德收起終端，隨後又將那個黑盒子拋給了我。	端末をポケットにしまい込んで、黒い箱を私に投げてよこす。	네리다는 단말기를 집어넣었고, 그 블랙박스를 나에게 던져주었다.	She pocketed her terminal and casually tossed me the black box.						0	2.7版本主线故事
+156	是啊，挺有默契的。	對啊，蠻有默契的。	ああ、そうだな。	그래, 호흡이 잘 맞네.	Yeah, we do make a good team.						0	2.7版本主线故事
+157	然而，这看似自然的动作，在我眼中依旧显得异常刻意。	然而，這看似自然的動作，在我眼中依舊顯得異常刻意。	箱を投げるその動き、どうにもわざとらしく見えてしまう。	그러나 겉보기에는 자연스러운 이 동작이 내 눈에는 여전히 의도적이었다.	And yet, something about the way she acted felt a little too deliberate.						0	2.7版本主线故事
+158	我早就注意到，就在她示意我去看屏幕的间隙，黑匣中的连接芯片，被她扣了下来。	我早就注意到，就在她示意我去看螢幕的間隙，黑盒子裡的連接晶片，被她摳了下來。	というのも、私が画面を見ていた隙に乗じて、彼女はこっそりと箱からチップを取り外したのだ。	나는 진작 눈치챘다. 그녀는 나한테 화면을 보라고 하는 틈에 블랙박스의 연결 칩을 가져갔던 것이다.	I had noticed it — while drawing my attention to the screen, she had quietly slipped the processing chip out of the black box.						0	2.7版本主线故事
+159	但是奈莉德，我觉得还是有必要再多了解——	但奈莉德，我覺得還是有必要再多了解──	そういえば、まだいろいろ聞きたいことが――	하지만 네리다, 나는 좀 더 알아가야 할 것 같은데…	But Nerida, I need to understand—						0	2.7版本主线故事
+160	正当我握住她手腕的刹那，海底再次发生了剧烈的震动，墙壁上的金属板发出刺耳的摩擦声，整个空间再次处于崩溃的边缘……	正當我握住她手腕的剎那，海底再次發生了劇烈的震動，牆壁上的金屬板發出刺耳的摩擦聲，整個空間再次處於崩潰的邊緣……	彼女の手首をつかんだ瞬間、再び激しい揺れが起こり、壁の金属板は耳障りな摩擦音を立て始めた。思わず嫌な予感が頭をよぎった。	그녀의 손목을 잡으려던 찰나, 해저가 다시 한번 격렬하게 요동쳤다. 벽면의 금속판이 날카롭게 삐걱거리더니, 공간 전체가 다시금 아슬아슬하게 붕괴 직전까지 휘청거렸다…	The moment I grabbed her wrist, the seafloor trembled again. The metallic walls groaned under the strain, screeching as if they were moments away from collapse.						0	2.7版本主线故事
+161	回想起来吧——你曾犯下的罪。	回想起來吧——你曾犯下的罪。	思い出して……あなたの犯した罪を。	회상해 보자… 네가 전에 저질렀던 죄를.	Remember — remember your sins.						0	2.7版本主线故事
+162	哎……	欸……	えぇ……	아…	Agh...						0	2.7版本主线故事
+163	几乎是在震动发生的同一时间，优格小小的身体僵在了原地。一抹鲜红的色彩闪过，眼神也变得空洞而迷茫。	幾乎是在震動發生的同一時間，優格小小的身體僵在了原地。一抹鮮紅的色彩閃過，眼神也變得空洞而迷惘。	揺れが起こるのと同時に、ヨルの小さな体は固まった。一瞬だけ赤く光ると、つぶらな目は虚ろな色をたたえた。	진동이 발생한 같은 시각, 요거트의 작은 몸이 그대로 굳어버렸다. 선홍색 빛이 스쳐 지나더니, 이내 눈빛도 텅 빈 듯 아득해졌다.	Almost instantly, Yogurt's small frame froze. A flash of red flickered across her eyes, and her expression went blank, as if her mind had slipped away.						0	2.7版本主线故事
+164	优格，怎么了？	優格，怎麼了？	ヨル、どうかしたの？	요거트, 왜 그래?	Yogurt? You okay?						0	2.7版本主线故事
+165	走在前面的妮塔察觉出了不对，她急忙扭头查看情况。	走在前面的妮塔察覺狀況不對，她急忙轉頭查看。	前を歩いているニタはヨルの様子に気付くと、急いで振り返ってうずくまった。	앞에서 걷던 니타가 이상함을 눈치채고 급히 고개를 돌려 상황을 살폈다.	Sensing something was off, Nita quickly turned to check on her.						0	2.7版本主线故事
+166	然而此时，优格却已恢复了神智，只是眼神中充满了不安与惊恐。	然而此時，優格卻已經恢復神智，只是眼神中充滿了不安與驚恐。	ヨルの目からは、不安と怯えの気持ちが溢れ出していた。	하지만 그때는 이미 요거트가 정신을 차린 후였고, 그 눈빛에는 불안함과 두려움이 가득할 뿐이었다.	But just as quickly, Yogurt's eyes snapped back into focus — though a shadow of unease and fear still lingered behind her gaze.						0	2.7版本主线故事
+167	嗯，是爆炸，就在刚刚，海底试验场，发生了爆炸……	嗯，是爆炸，就在剛剛，海底試驗場，發生了爆炸……	えっと、爆発です……ついさっき、海底実験場で爆発が……	음, 폭발이에요. 방금 해저 시험장에서 폭발이 일어났어요…	There was... an explosion. Just now — at the seafloor lab...						0	2.7版本主线故事
+168	海底试验场……糟了，分析员还在深层区域！	海底試驗場……糟了，分析員還在深層區域！	海底実験場……まずい、分析員が下にいるんだった！	해저 시험장… 이런, 분석가가 아직 심층 구역에 있는데!	The seafloor lab...? Not good! The Adjutant's still down in the lower levels!						0	2.7版本主线故事
+169	她喃喃自语道，而后很快便反应了过来。	她喃喃自語，然後很快反應了過來。	はっと思い出して、ニタは顔を青ざめさせる。	그녀는 혼잣말하다가 곧 반응했다.	Nita muttered under her breath, then sprang into motion.						0	2.7版本主线故事
+170	优格，你先回营地，不要乱跑。	優格，你先回營地，不要亂跑。	ヨル、先にキャンプに戻ってて！どこにもいかないで！	요거트, 넌 우선 캠프로 돌아가. 함부로 돌아다니지 말고.	Yogurt, get back to the camp and stay put!						0	2.7版本主线故事
+171	在嘱托完面前的女孩后，她急促地打开通信终端，同时拔腿向着通往深层的通道冲去。	在囑咐完面前的女孩後，她急促地打開通訊終端，同時拔腿向著通往深層的通道衝去。	言い残して端末を開き、同時に深層につながる通路へ走り出す。	그녀는 눈앞의 여자아이에게 당부한 후 급히 통신 단말기를 켰고, 그와 동시에 심층 구역으로 가는 통로로 급히 발걸음을 옮겼다.	Without hesitation, she activated her terminal and bolted toward the passage leading down below.						0	2.7版本主线故事
+172	拜托，一定要接通……一定要接通……	拜託，一定要接通……一定要接通……	お願い、繋がって……繋がってよ！	제발, 꼭 받아줘… 받아야 해…	Come on... pick up... please...						0	2.7版本主线故事
+173	妮塔姐姐，我也要去！	妮塔姐姐，我也要去！	ニタさん、わたしも行きます！	니타 언니, 저도 갈게요!	Miss Nita, I'm coming with you!						0	2.7版本主线故事
+174	优格？！	優格？！	ヨル！？	요거트?!	Yogurt!?						0	2.7版本主线故事
+175	请放心，我跟得上妮塔姐姐，而且我知道一条更近的路！	請放心，我跟得上妮塔姐姐，而且我知道一條更近的路！	お願いします！ニタさんにちゃんとついていきますから。わたし、近道を知っていますし！	걱정 마세요. 니타 언니를 잘 따라갈게요. 그리고 제가 지름길을 알아요!	Don't worry — I can keep up. And I know a shortcut!						0	2.7版本主线故事
+176	那就拜托了。	那就拜託了。	じゃあ、道案内頼んだね！	그럼 부탁할게.	Okay then. Thanks, Yogurt.						0	2.7版本主线故事
+177	嗯！	嗯！	はい！	네!	Anytime!						0	2.7版本主线故事
+178	我想要永远，永远地守护人类<yincang>分析员</>，哪怕付出“生命”的代价也在所不惜。	我想要永遠，永遠守護人類<yincang>分析員</>，哪怕付出「生命」的代價也在所不惜。	「永遠に人類<yincang>分析員お兄さん</>を守りたいです！……たとえその代償が、『この命』であっても、です！」	저는 영원히, 영원히 인간<yincang>(분석가님)</>을 수호하고 싶어요. '목숨'을 대가로 치르더라도 마다하지 않을 거예요.	I want to protect humanity <yincang>(the Adjutant)</> for all eternity... even at the cost of my life.						0	2.7版本主线故事

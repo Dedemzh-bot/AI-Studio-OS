@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	谢谢分析员长官，既然兄弟们都救出来了……	謝謝分析員長官，既然兄弟們都救出來了……	ありがとう。同胞たちを救ってくれて……	감사합니다, 분석가님! 동료들이 다 구출되었으니…	Thank you, Senior Adjutant. You even saved all our men...						0	
+2	我们就不拖后腿了。	我們就不拖後腿了。	これ以上皆さんに迷惑は掛けられない。	그럼 더 이상 지체 않고 돌아가 보겠습니다.	Well, we won't hold you up any longer.						0	
+3	撤！把战场交给海姆达尔部队！	撤!把戰場交給海姆達爾部隊!	俺たちがここに居ても足まどいだ！退け！戦場はヘイムダル部隊に任せろ！	철수하라! 이곳은 헤임달 부대가 맡는다!	Retreat! Hand over the field to the Heimdall Force!						0	

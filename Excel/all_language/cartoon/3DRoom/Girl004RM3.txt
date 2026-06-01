@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	啊……分析员，为什么每次见到你都很匆忙啊……	啊……分析員，為什麼每次見到你都很匆忙啊……	あの……分析員、どうしていつもそんなに忙しいのかな……	… 분석가는 볼 때마다 항상 바빠 보인다니까…	Hey!... Adjutant, every time I see you, you seem rushed off your feet...						0	
+page0.2	要不要停下来陪我一起闻闻这里的绿植呢？	要不要停下來陪我一起聞聞這裡的綠植呢？	一旦手を止めて、ここの植物を一緒に嗅いでみない？	잠깐 나랑 여기 있는 식물 냄새 좀 맡아볼래?	Stop a moment, smell the flowers with me? I have plants, I have plants right here.						0	
+page0.3	现在可是工作时间吧？	現在是工作時間吧？	おいおい、今勤務時間だぞ？	지금 업무시간인데…	Aren't we both supposed to be working today?						0	
+page0.4	嗯，工作……当然！这也是工作的一部分。	嗯，工作……當然！這也是工作的一部分。	うん、仕事……もちろん仕事だよ。これも仕事の一部だからね。	아… 물론이지! 이것도 업무의 일부분이야!	Working... well, of course! This is work!						0	
+page0.5	可不要小看了周遭环境气味对工作效率的影响哦。	可不要小看了周遭環境氣味對工作效率的影響哦。	仕事場の環境や匂いなんかも仕事の効率に関わるから、甘く見ちゃダメだよ。	주변에 있는 냄새들이 업무 효율에 미치는 영향이 얼마나 큰데! 절대로 무시할 수 없어.	Any serious commercial enterprise has to pay attention to the effect that a working environment has on an employee's performance.						0	
+page0.51	我对宿舍内部的香氛都不太满意，想自己来调制一种呢。	我對宿舍內部的香氛都不太滿意，想自己來調製一種呢。	私は寮のアロマがあまり好きじゃないから、自分で作ろうと思ってね。	안 그래도 숙소에 있는 방향제도 마음에 안 들어서 손 좀 볼 예정이야.	The living quarters the company provides us with... they smell pretty weird. I'm seeing what I can do to fix that.						0	
+page0.6	分析员你有什么比较喜欢的香味吗？	分析員你有什麼比較喜歡的香味嗎？	分析員はどんな匂いが好き？	혹시 좋아하는 향 있어?	What smells do you like, Adjutant?						0	
+page0.7	柠檬……？	檸檬……？	うん…レモン…かな？	레몬…?	Lemon...?						0	
+page0.8	和我猜得一样！	和我猜得一樣！	だと思ったよ！	역시! 프티야가 생각했던 대로야!	I knew it!						0	
+page0.9	柠檬香有助于减少工作中的失误，不过，现在使用的柠檬香大多都是工业香精。	檸檬香有助於減少工作中的失誤，不過，現在使用的檸檬香大多都是工業香精。	レモンの匂いは仕事中のミスを減らせる効果があるよ。でも普段使ってるレモンのアロマは大体人工的に合成したものだね。	레몬향은 업무 중에 실수를 줄여주는 효과가 있어. 하지만 현재 사용되고 있는 레몬향은 대부분이 공업용 향료야.	Citrus fragrances can help to reduce the number of errors that appear in employees' work. They're mostly used in industrial cleaning products though.						0	
+page0.10	真的吗？长见识了……	真的嗎？還真是增長見識了……	本当？それは知らなかった…	그래? 새로운 상식이네…	Huh? I did not know that...						0	
+page0.11	当然分析员你的意见我也会参考的，可以在最终试剂里加上21.8%的柠檬精华。	當然分析員你的意見我也會參考的，可以在最終試劑裡加上21.8%的檸檬精華。	もちろん、分析員の意見も参考にするよ。最後の試薬にはレモンエキスを21.8％入れてみる。	그럼 분석가의 의견을 반영할게! 최종적으로 만든 시약에 레몬 에센스를 21.8% 정도 넣으면 될 것 같아.	I'll take your preference into account, increase the lemon essence in the mix to... let's say... 21.8%.						0	
+page0.12	听起来挺像回事的嘛。	聽起來還蠻像一回事的嘛。	やれるじゃない。	듣기에 엄청 좋아 보이는데!	You're taking this pretty seriously.						0	
+page0.13	当然。	當然。	もちろん。	당연하지	Well, obviously.						0	
+page0.14	可别小瞧了芙提雅老师的发明，到时候一定会拿出一个让分析员也能心旷神怡的超级香氛！	可別小看了芙提雅老師的發明，到時候一定會拿出一個讓分析員也能心曠神怡的超級香氛！	このフリティア先生の発明をなめないでね。必ず分析員にもリラックスできるとびっきりのアロマを作ってあげるよ！	프티야 선생님의 발명을 얕보지 말라구. 분석가의 가슴을 탁 트이게 하는 향기를 만들어 줄 테니까 기대해도 좋아!	You always underestimate the impact of my inventions. Just you wait until you come into work and find your spirits lifted up to unforeseen heights by the power of scent alone!						0	
+page0.15	所以分析员要一起来闻闻，给点建议吗……	所以分析員要一起來聞聞，給點建議嗎……	だから、その時は試作品を試用して、アドバイスをくれるかな？	그러니까 분석가도 같이 시향 좀 하면서 의견을 내줄 수…	Go on then, take a sniff... what do you think?						0	
+page0.16	你慢慢研究吧，我尽量不把你摸鱼的事情说出去，就是对你最大的支持了……	你慢慢研究吧，我盡量不把你摸魚的事情說出去，就是對你最大的支持了……	はぁ、ゆっくり研究して。アドバイスのかわりに、サポートしてあげるよ。できるだけ君がサボってることを誤魔化して……な。	그럼 천천히 연구해 봐~ 다른 사람한테 프티야가 농땡이치고 있다고 말하진 않을 테니까~	Needs some more work. Honestly, the most support I can give you is to just not tell anyone that this is what you're doing during work hours...						0	

@@ -1,0 +1,66 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+2	“雪”凭空出现时，空气中的杂音都消失了，就像“声音”这一概念忽然被抽离这个世界。	“雪”憑空出現時，空氣中的雜音都消失了，就像“聲音”這一概念忽然被抽離這個世界。	「キオーン」が何の前触れも無く現れる時、空気中の雑音は消え、まるで「音」という概念がこの世界から除外されたようになる。	당시 주변엔 '눈'이 내렸었고, 공기 속에 미세한 잡음들도 전혀 들을 수 없었다. 마치 '소리'라는 것이 세상에서 사라진 것처럼…	Snow began to fall, all sound faded away... sound as a concept ceased to exist... that was how it felt anyway.						0	
+3	我产生了强烈的不安预感，紧接着，静谧被“歌唱者”嗡鸣的警报声打破。	我產生了強烈的不安預感，緊接著靜謐被“歌唱者”嗡鳴的警報聲打破。	私は強烈な焦燥感を覚える。しばらくして、この静けさは「シンガー」の警報音によって破られた。	불길한 예감과 동시에 고요했던 '코러스' 시스템에서 엄청난 경보음이 울리기 시작했고,	A powerful foreboding washed over me, made worse by a sudden howl from the Chorus System that pierced the silence.						0	
+4	伴随着“雪的出现”，空间中微不可察的某一点开始塌缩。	伴隨著“雪的出現”，空間中微不可察的某一點開始塌縮。	「キオーンの顕現」によって、空間のある一点から崩壊が始まる。	눈이 나타나고는 동시에 공간이 조금씩 일그러지며 미세한 균열이 일어나기 시작했다.	The snow kept falling and a tiny point in space, a point so tiny as to be completely undetectable, collapsed in on itself...						0	
+5	随后，巨大且材质不明的肢体，开始从坍塌的空间奇点中延伸而出，仅仅是观察这一过程，就使人感到晕眩。	隨後，巨大且材質不明的肢體開始從坍塌的空間交點中延伸而出，僅僅是目睹這一過程就使人感到暈眩。	続いて、膨大で材質不明の肢体が、崩壊する空間の特異点から伸びてきた。この奇天烈な光景を目にするだけで、眩暈がする。	이어서 정체불명의 거대한 의체가 붕괴된 공간 속에서 튀어나왔고, 그 장면을 목격하는 것만으로도 어지러움이 느껴질 정도였는데.	Gigantic limbs reached out of that collapsing point, limbs made of some unidentifiable material... reaching out... to see this happen was enough to make a person faint.						0	
+6	伴随着空间尺度与感知的崩坏，泰坦就那样凭空出现在我眼前……	伴隨著空間尺度與感知的崩壞，泰坦就那樣憑空出現在我眼前……	空間の尺度と感知の崩壊とともに、タイタンが目の前に現れた。	머지않아 공간과 감지 능력이 붕괴됐고, 눈앞에 타이탄이 나타났다…	Perspective warped, perception bent and flexed, and the Titan came into view...						0	
+auto_24101	 		 		Mic check, one, two.						0	
+7	您好，请问……您就是分析员吗？	您好，請問……您就是分析員嗎？	すみません、あの……あなたが分析員さんですか？	실례해요… 혹시 분석가님?	Terribly sorry to bother you... would I be right in thinking you're the Adjutant?						0	
+8	真实，且近在咫尺的声音将我从遭遇泰坦的回忆中唤回。	真實且近在咫尺的聲音將我從遭遇泰坦的回憶中喚回。	すぐ傍で声を掛けられ、タイタンに遭遇する回想から意識が呼び戻された。	기억 속에 있던 중… 가까이서 들려오는 목소리에 현실로 돌아올 수 있었다.	Encountering a Titan up close, hearing what I'd heard, the experience had knocked my mind spinning back to a memory, the first time I had seen a Titan...						0	
+9	此前一直忙于公务，现在终于和您正式见面了……哦，我是茉莉安·安德烈奥蒂，十分感谢您的及时援助。	此前一直忙於公務，現在終於和您正式見面了……哦，我是茉莉安·安德烈奧蒂，十分感謝您的及時援助。	ようやくお会いできました……あ、私はマリアン・アンドレオッチと申します。ご助力を賜り、誠にありがとうございます。	공무 때문에 바쁘다가 이제야 정식으로 인사드리네요… 전 마리안 안드레오티예요. 지원도 와주시고… 정말 감사드려요.	I've been busy working until now. I finally have the chance to meet you officially... Ah, I'm Marian Andreotti. Thank you for your timely aid.						0	
+10	眼前的少女在自我介绍后，右脚向身后轻轻一点，双手拈起并不存在裙摆，微微欠身向我行礼——相当标准自然。	眼前的少女在自我介紹後，右腳向身後輕輕一點，雙手拈起並不存在的裙擺微微欠身向我行禮——相當標準自然。	自己紹介の後、少女は右足の膝を軽く曲げ、存在しないスカートの裾を持ち上げ、頭を下げてお辞儀をする。その動きは正しくて自然だった。	눈앞의 소녀는 자기소개를 한 후, 오른발을 뒤로 살짝 빼며 두 손으로 예를 표했다. 예를 표하는 자세는 아주 정확하고 자연스러워 보였다.	With that already rather formal introduction out of the way, the young woman offered me a slight curtsy then lowered her in a gentle bow... all of it seeming utterly natural and unremarkable.						0	
+12	冒昧打扰了，您……现在方便听我汇报吗？	冒昧打擾了，您……現在方便聽我匯報嗎？	お邪魔して失礼ですが、今……ご報告してもよろしいでしょうか？	실례지만… 지금 바로 저희 쪽 상황을 브리핑해도 될까요?	If it's not too much trouble... would you mind me taking a moment of your time to deliver my report?						0	
+b-2											0	
+13	没问题，请说吧。	沒問題，請說吧。	大丈夫ですよ。教えてください。	그래요. 바로 부탁할게요.	Of course not, please go right ahead.						0	
+14	不知不觉，我说话也加上了敬语……	不知不覺，我說話也加上了敬語……	思わず私も敬語で話してしまった。	나도 모르게 그녀에게 존칭을 하고 있었다…	Her manners were infectious and I found myself speaking in florid pleasantries.						0	
+15	您在来的路上见过<orange>基座</>了吗？	您在來的路上見過<orange>基座</>了嗎？	ここにお越しになるまでに、<orange>ベース</>を見かけましたか？	혹시 오시는 길에 <orange>성지</>를 보셨나요?	Did you perhaps notice the <orange>Shrines</> along the route as you made your way here?						0	
+b-3											0	
+16	基座？	基座？	ベース？	강림단 성지를 말하는 거지?	Shrines?						0	
+17	嗯，就是那个“飘在天上，被紫色光圈环绕”的装置。	嗯，就是那個“飄在天上，被紫色光圈環繞”的裝置。	そうです。宙に浮いて、紫の光環を纏う装置でございます。	네. '하늘에 떠있고 보랏빛 테두리로 둘러싸인' 장치요.	Yes, Shrines, the floating constructions. They glow with a purple light.						0	
+18	中间的部分有些像人彘呢……	中間的部分有點像人彘呢……	中心の部分は四肢を無くした人体にも見えますね……	중간 부분이 항아리 형태처럼 보이기도 하고…	Their central section bears a noticeable resemblance to a severely mutilated corpse...						0	
+b-4											0	
+19	像什么？	像什麼？	何に見えるって？	뭐 같다고?	A what?						0	
+20	啊抱歉失礼了！请不要在意。	啊抱歉失禮了！請不要在意。	あら、お恥ずかしい！どうかお気になさらず。	아… 다름이 아니라…	I'm terribly sorry! Forget I said anything! Slip of the tongue...						0	
+21	您有没有觉得，“基座”的特性和“布里希嘉曼”有些相似呢？	您有沒有覺得，“基座”的特性和“布里希嘉曼”有些相似呢？	「ベース」と「ブリーシンガメン」は、性質上似ていると思いませんか？	'성지'하고 '브리히가만'은 조금 비슷한 성질을 갖고 있는 것 같아요.	Did you perhaps perceive a certain similarity between those Shrines and the Brisingamen?						0	
+22	都会散发出严重的泰坦污染，并且都有相应的精密装置调控。	都會散發出嚴重的泰坦汙染，並且都有相應的精密裝置調控。	同じく強烈なタイタン汚染を発生させ、調節するための精密装置もついています。	두 장치 모두 타이탄 오염을 발산하거든요. 또 굉장히 정밀한 장치로 제어가 되고요.	Both emit large quantities of Titagen, both are fitted with remarkably similar control systems, complex enough for the similarity not to be a coincidence...						0	
+23	欸？是这样吗？可惜已经在刚才的战斗中打坏了！	欸？是這樣嗎？可惜已經在剛才的戰鬥中被打壞了！	ああ、そういうこと？残念だけど、さっきの戦闘で壊れたみたいだよ。	엥… 정말…? 근데 아쉽게도 방금 있었던 전투로 인해 부서졌다는…	Oh? I had no idea... if we'd known, we could have avoided blowing them all up...						0	
+24	不然可以作为芙提雅老师的优秀研究素材！	不然可以作為芙提雅老師的優秀研究素材！	じゃなければフリティア先生の研究素材になったのにね！	전투만 아니었다면 프티야의 훌륭한 연구 소재로 사용됐을 텐데 말이지!	Waste of valuable research materials! And I call myself a scientist!						0	
+b-5											0	
+25	芙提雅可以分析一下“布里希嘉曼”和“基座”异同吗？	芙提雅可以分析一下“布里希嘉曼”和“基座”異同嗎？	フリティアは「ブリーシンガメン」と「ベース」を比較して分析できるのか？	프티야, 혹시 '브리히가만'과 '성지' 차이점에 대해 분석 좀 부탁해도 될까?	Fritia, can you look into this relationship between the Shrines and Brisingamen?						0	
+26	这种程度的对比还是没问题的！	這種程度的對比還是沒問題的！	その程度なら問題ないよ！	그 정도야 식은 죽 먹기지!	Easy as pie, super basic stuff!						0	
+27	星期三，你不想说点什么吗？	星期三，你不想說點什麼嗎？	ウェンズデー、言いたいことない？	웬스데이는 무슨 할 말 없나?	Wednesday, do you have anything you might want to say to everyone?						0	
+28	……	……	……	…	...						0	
+29	就在刚才，把自己的理智给抛到脑后，将“基座”连同泰坦给一起“咔嚓”了的人，是谁呢？	就在剛才把自己的理智給拋到腦後，將“基座”連同泰坦給一起“咔嚓”了的人是誰呢？	ついさっき、知性を失ったように「ベース」まで巻き添えにしてタイタンをぶち壊したのはどこの誰だったかしら？	방금 이성을 잃어서 '성지'랑 타이탄을 칼같이 '싹둑' 썰어버린 사람이 누구시더라…	Who was it who decided to include those Shrines on their list of "Things I'm Going to Smash to Pieces With High Explosives" just now? Alongside that Titan...						0	
+30	……	……	……	…	...						0	
+31	任务结束，我会自己申请处罚。	任務結束後我會自己申請處罰。	……ミッションが終わったら、自分で懲罰を申請する。	미션이 끝나면 상응하는 처벌을 받도록 하지…	Write my self-criticism for me and I'll submit it to Caroline after we get back.						0	
+32	分析员分析员！结果出来了哦！	分析員分析員！結果出來了哦！	分析員分析員！結果出たよ！	분석가, 분석가! 결과 나왔어!	Adjutant, Adjutant! I've got something!						0	
+33	结果为……两者根本就是同一种东西嘛！	結果為……兩者根本就是同一種東西嘛！	結論を言うと……両者は全く同じだったんだよ！	결론적으로… 두 장치는 동일한 성질의 물건이 맞아!	I took a look... the Shrines and Brisingamen both run on the same mechanism!						0	
+34	机械结构发挥的作用完全相同！都是为了保证同一个链式反应的顺利进行！	機械結構發揮的作用完全相同！都是為了保證同一個連鎖反應的順利進行！	機械の構造的機能もそっくり！どちらも連鎖反応の進行を保障するためのものだったよ！	두 장치 모두 사용 용도가 비슷해! 연쇄 반응을 일으키려고 만든 거야!	From a technical perspective, they're implementations of the same design! Both generate a cascading reaction, maintain its stability...						0	
+35	反应的原理暂时还不清楚……要是有完好的“基座”就可以好好研究了！	反應的原理暫時還不清楚……要是有完好的“基座”就可以好好研究了！	連鎖反応の原理はまだ不明……完全状態の「ベース」があれば研究できるはずなのに！	반응의 원리가 어떻게 이루어지는지는 아직 잘 모르겠어. '성지'가 온전히 있었다면 또 모를까…	Can't say I fully understand the underlying principles... yet... would need to get my hands on a working Shrine!						0	
+36	那个，完好的“基座”，在降临团那里，还有。	那個，完好的“基座”在降臨團那裡還有。	あの、完全状態の「ベース」は、降臨団のところにございますよ。	방법이 없는 건 아니에요. '성지'라면 분명 또 있을 테니까.	If we want to find an undamaged Shrine, I'm pretty sure the Adventists still have a few.						0	
+37	真的吗真的吗！也对呀，怎么看都像是从“布里希嘉曼”上拆分下来的独立单元，不可能只有一个嘛！	真的嗎真的嗎！也對呀，怎麼看都像是從“布里希嘉曼”上拆分下來的獨立單元，不可能只有一個嘛！	本当！？確かにそうだね、どう見ても「ブリーシンガメン」から取り外した独立ユニットなんだから、複数個あるはず。	오… 정말? 하긴 아무리 봐도 '브리히가만'으로부터 분리된 부분인 거 같은데, 찾아보면 더 있겠지!	They do!? ...Hmm, makes sense they would have more. I think the Shrines are pieces of the Brisingamen removed and set up to operate as stand-alone units. They certainly would've had the opportunity to make a bunch...						0	
+38	分析员，请问，我可以审问一下那边的降临团俘虏吗？	分析員，請問我可以審問一下那邊的降臨團俘虜嗎？	分析員さん、降臨団の捕虜は私に尋問させてもらえますか？	분석가님, 혹시 저기 있는 강림단 포로를 한번 심문해 봐도 될까요?	With your permission, Adjutant, I'd like to question the Adventist we're currently holding captive. He surrendered to us just now.						0	
+39	也许那位先生知道在哪能找到藏匿的“基座”。	也許那位先生知道在哪能找到藏匿的“基座”。	あの方ならその「ベース」がどこに隠されたのか分かるかもしれません。	저 사람은 아마 숨겨진 '성지'가 어디 있는지 잘 알고 있을 거예요.	I suspect he may be able to point us in the direction of the nearest Shrine.						0	
+40	问出地址的任务，可以交给我吗？	問出地址的任務，可以交給我嗎？	居場所を聞き出すミッションは、私に任せていただけますか？	제게 한번 맡겨주시겠어요?	It would be my pleasure to take this particular problem off your hands, Adjutant...						0	
+b-6											0	
+41	嗯……好。	嗯……好。	うん……いいよ。	그래. 알겠어.	Of course... why not.						0	
+42	应该不会出什么乱子吧？应该吧？	應該不會出什麼麻煩吧？應該吧？	別に問題にはならないよな、たぶん。	무슨 일이 생기진 않겠지?	No reason not to let her question him. What could go wrong?						0	
+43	啊！！！！！！	啊！！！！！！	きゃあ！！！！！	으아악!!!!!	Ahhh!!!!!						0	
+44	我正在和星期三勘定周边环境时，通讯频道中传来尖叫声，好像是……芬妮的声音。	我正在和星期三勘查周邊環境時，通訊頻道中傳來尖叫聲，好像是……芬妮的聲音。	ウェンズデーと周辺環境を調査していると、通信チャンネルから金切り声が聞こえた。これは……ファニーの声だ。	웬스데이와 주변을 살피던 중, 갑자기 통신 중이던 채널에서 비명소리가 들려왔다. 목소리의 주인은… 페니 같았다.	Wednesday and I had just gone out to sweep the area when a piercing scream rang out over the communicator. It sounded like... Fenny.						0	
+45	playername！快来！茉莉安被袭击了！	playername！快來！茉莉安被襲擊了！	playername！早く来て！マリアンが攻撃されてるわ！	playername! 서둘러! 마리안이 기습을 당했어!	playername! Quick! Marian, she's been attacked!						0	
+46	被袭击？茉莉安不是在……糟了！	被襲擊？茉莉安不是在……糟了！	攻撃されてる？マリアンは確か……まずい！	기습? 마리안은 분명 방금까지… 젠장!	Attacked? I thought she was... Oh no...						0	
+47	等我赶到时，挣脱束缚的降临团会员已经重新被芬妮制服。	等我趕到時，掙脫束縛的降臨團會員已經重新被芬妮制伏。	私が駆けつけた時、降臨団教徒たちはすでにファニーに確保されていた。	도착했을 때 이미 강림단 신자는 페니에게 제압되어 있었다.	When we reached them, Fenny already had the Adventist subdued and back in his restraints.						0	
+48	茉莉安笑眯眯地站在一旁，好像伤得不严重。	茉莉安笑瞇瞇地站在一旁，好像傷得不嚴重。	マリアンはニヤついてこれみよがしに傍に立っている。傷は軽いようだ。	마리안은 미소를 띠고 있었다. 크게 다친 것 같지는 않았다.	Marian was off to one side, seemingly unhurt.						0	
+49	分析员，你来了呀，我没事哦，劳您费心了。	分析員您來了呀，我沒事哦，勞您費心了。	分析員さん、来てくれましたか。私なら平気です。気を使わせてしまい申し訳ございませんでした。	분석가님, 오셨어요? 전 별일 없어요. 괜히 신경 쓰게 해서 죄송해요.	As you can see, Adjutant, I'm quite alright. I really don't know what all this fuss is about.						0	
+50	我看见原本牢牢铐在降临团会员手腕上的电磁锁，完好地躺在地上。	我看見原本牢牢銬在降臨團會員手腕上的電磁鎖現正完好地躺在地上。	降臨団教徒の手首を拘束していた電磁枷は、壊された形跡もないのに地面に置かれている。	나는 강림단 신자 손에 채워져있던 전자 수갑이 땅바닥에 널브러져 있는 걸 발견했다.	The locking restraints that the prisoner had been wearing were lying on the ground, intact. Powerful, electromagnetic restraints. He could never have gotten out of them by himself.						0	
+b-7											0	
+51	这是？	這是？	これは？	이건…?	How did this happen?						0	
+52	是我给他解开的。	是我幫他解開的。	私が解いて差し上げました。	제가 풀어줬어요.	I let him out.						0	
+b-8											0	
+53	为什么要做这么危险的事……	為什麼要做這麼危險的事……	どうしてそんな危険をおかす？	왜 이런 위험한 일을…?	Why would you do something like that? You know how dangerous they are...						0	
+54	因为，人只有在看见希望的时候，才会更容易说出真话吧。	因為人只有在看見希望的時候才會更容易說出真話吧。	だって、希望が見えそうな時こそ、人は本当のことを口にするものでしょう。	사람들은 희망이 보일 때 비로소 진실을 말하거든요.	Give a man a little hope, all kinds of truths start falling from his mouth.						0	
+55	我没关系的，分析员。	我沒關係的，分析員。	私は大丈夫ですよ。分析員さん。	전 정말 괜찮아요, 분석가님.	I really am fine, Adjutant.						0	
+56	对于我来说，身体的伤痛会带来教训，也带来……愉悦。	對於我來說，身體的傷痛會帶來教訓，也帶來……愉悅。	私にとって、身体の痛みは、教訓と……喜びをもたらすものです。	상처도 교훈이라고 생각해요… 일종의 자극을 가져다준달까.	As far as I'm concerned, injuries teach me lessons. And they bring me... joy.						0	
+57	茉莉安露出一个温柔的笑容。	茉莉安露出一個溫柔的笑容。	マリアンは穏やかな笑みを浮かべる。	마리안은 계속해서 따듯한 미소를 지었다.	Her words came with a warm smile.						0	
+58	您想知道的信息，我已经问出来啦。	您想知道的資訊，我已經問出來啦。	あなた方がご所望の情報は、聞き出せました。	그래도 필요한 정보는 다 알아냈어요.	And, Adjutant, I have the information you want...						0	

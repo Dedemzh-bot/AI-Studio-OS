@@ -1,0 +1,61 @@
+﻿语音ID	角色ID	Wwise事件	描述	气泡文本key	多个Wwise事件时随机概率	是否播放状态:0-自己播,队友不播;1-自己播,队友也播
+VoiceID	CharacterID	WwiseEvent	Des	VoiceText	Weight	PlayState
+						
+test006000	122002	Play_Vo_rich_player_01	早上好！	callme_talk.TxtCMgirl06_talk05		0
+CMloopA101	122002	Play_Vo_call_stand01_girl020_01	分析员可以一边忙工作，一边和卜卜通话哦。	callme_talk.TxtCMgirl20a_02_loopA01	1	0
+CMloopA102	122002	Play_Vo_call_stand01_girl020_02	卜卜穿这套衣服……可爱吗？	callme_talk.TxtCMgirl20a_02_loopA02	1	0
+CMloopA103	122002	Play_Vo_call_stand01_girl020_03	漫画里的魔法少女总是会去拯救世界呢，但卜卜不想拯救世界，只想陪着分析员。	callme_talk.TxtCMgirl20a_02_loopA03	1	0
+CMloopA104	122002	Play_Vo_call_stand01_girl020_04	嘿嘿，卜卜手上的羽毛笔实际上是魔杖哦~	callme_talk.TxtCMgirl20a_02_loopA04	1	0
+CMloopA105	122002	Play_Vo_call_stand01_girl020_05	以这样的方式和分析员共度时光，总觉得还挺有趣的。	callme_talk.TxtCMgirl20a_02_loopA05	1	0
+CMloopA106	122002	Play_Vo_call_stand01_girl020_06	是不是忍不住想找卜卜聊天呢？	callme_talk.TxtCMgirl20a_02_loopA06	1	0
+CMloopA107	122002	Play_Vo_call_stand01_girl020_07	软软的床榻，很适合两个人一起躺在这里呢。	callme_talk.TxtCMgirl20a_02_loopA07	1	
+CMloopA108	122002	Play_Vo_call_stand01_girl020_08	在分析员眼皮子底下，卜卜都不敢偷懒了呢。	callme_talk.TxtCMgirl20a_02_loopA08	1	
+CMloopA109	122002	Play_Vo_call_stand01_girl020_09	虽然分析员就在眼前，但还是忍不住会想你呢。	callme_talk.TxtCMgirl20a_02_loopA09	1	
+CMloopA110	122002	Play_Vo_call_stand01_girl020_10	现在的氛围，嘿，刚刚好~	callme_talk.TxtCMgirl20a_02_loopA10	1	
+CMloopA111	122002	Play_Vo_call_stand01_girl020_11	在这里学习，会比在房间里更惬意些吧？	callme_talk.TxtCMgirl20a_02_loopA11	1	
+CMloopA112	122002	Play_Vo_call_stand01_girl020_12	无聊的话，就和卜卜说会话吧。	callme_talk.TxtCMgirl20a_02_loopA12	1	
+CMloopA113	122002	Play_Vo_call_stand01_girl020_13	分析员累了的话，也可以稍稍休息一会哦。	callme_talk.TxtCMgirl20a_02_loopA13	1	0
+CMloopA201	122002	Play_Vo_call_stand_key_girl020_02	听说有些人会把毯子当做飞行工具，那卜卜的被褥是不是也可以……	callme_talk.TxtCMgirl20a_02_loopA_key01	1	0
+CMloopA202	122002	Play_Vo_call_stand_key_girl020_03	擅长占卜的魔法少女很少见呢，可巧，可巧，卜卜就是最特别的那一种，占卜、战斗两不误！	callme_talk.TxtCMgirl20a_02_loopA_key02	1	0
+CMloopA203	122002	Play_Vo_call_stand_key_girl020_04	偶尔，也会有“想多独占分析员一会”的想法呢。	callme_talk.TxtCMgirl20a_02_loopA_key03	1	0
+CMloopA204	122002	Play_Vo_call_stand_key_girl020_05	掌握元素魔法后，是不是能省下一些水电费呢？	callme_talk.TxtCMgirl20a_02_loopA_key04	1	0
+CMloopA205	122002	Play_Vo_call_stand_key_girl020_06	既然喝剩咖啡渣可以用来占卜，那以后干脆把煮过的中药也留下来观察观察。	callme_talk.TxtCMgirl20a_02_loopA_key05	1	0
+CMloopA206	122002	Play_Vo_call_stand_key_girl020_07	在没有慎重思考前，可不要轻易尝试怪奇派的新产品哦。	callme_talk.TxtCMgirl20a_02_loopA_key06	1	0
+CMloopAtoB	122002	Play_Vo_call_stand_loop_girl020_01	啊呜……眼皮怎么越来越沉了……	callme_talk.TxtCMgirl20a_02_loopB01		0
+CMloopBtoA01	122002	Play_Vo_call_stand_loop_girl020_02	诶？我刚才怎么……怎么睡着了！	callme_talk.TxtCMgirl20a_02_loopB02		
+CMloopBtoA02	122002	Play_Vo_call_stand_loop_girl020_03	唔……卜卜可没有偷懒哦！分析员什么都没看到！	callme_talk.TxtCMgirl20a_02_loopB03		
+CMloopA301	122002	Play_Vo_call_stand02_girl020_01	今天的天气真好呢，太阳晒在身上，暖烘烘的。	callme_talk.TxtCMgirl20a_02_loopA_SC01	1	
+CMloopA302	122002	Play_Vo_call_stand02_girl020_02	要不要给自己设计几句变身时的口号呢……	callme_talk.TxtCMgirl20a_02_loopA_SC02	1	
+CMloopA303	122002	Play_Vo_call_stand02_girl020_03	变身的时候，一定要大声喊出来吗？总觉得有些丢脸……	callme_talk.TxtCMgirl20a_02_loopA_SC03	1	
+CMloopA304	122002	Play_Vo_call_stand02_girl020_04	啊呜……这本书，字好多……	callme_talk.TxtCMgirl20a_02_loopA_SC04	1	
+CMloopA305	122002	Play_Vo_call_stand02_girl020_05	嗯~难得找了个这么悠闲的地方呢。	callme_talk.TxtCMgirl20a_02_loopA_SC05	1	
+CMloopA306	122002	Play_Vo_call_stand02_girl020_06	诶？嗯……嘿嘿。	callme_talk.TxtCMgirl20a_02_loopA_SC06	1	
+CMloopA307	122002	Play_Vo_call_stand02_girl020_07	凉爽的风里，有淡淡的花香呢。	callme_talk.TxtCMgirl20a_02_loopA_SC07	1	
+						
+CMhu5_101	122002	Play_Vo_call_end_girl020_01	这么快就要挂电话吗？真的不能再聊一会吗？	callme_talk.TxtCMgirl20a_02_hangup5_101		
+CMhu5_102	122002	Play_Vo_call_end_girl020_02	唔……好吧，分析员再见。	callme_talk.TxtCMgirl20a_02_hangup5_102		
+CMhu5_201	122002	Play_Vo_call_end_girl020_03	既然分析员还有事要忙，那卜卜就不给你添乱了，分析员拜拜~	callme_talk.TxtCMgirl20a_02_hangup5_201		
+CMhu30_101	122002	Play_Vo_call_end_girl020_04	有点舍不得挂电话呢，等分析员不忙了，一定要再打给卜卜哦~	callme_talk.TxtCMgirl20a_02_hangup30_101		
+CMhu1h_101	122002	Play_Vo_call_end_girl020_05	唔，卜卜还有好多话想跟你说呢。不过，放到下次或许也不错。	callme_talk.TxtCMgirl20a_02_hangup1h_101		
+CMhu1h_102	122002	Play_Vo_call_end_girl020_06	那今天就先说拜拜咯~	callme_talk.TxtCMgirl20a_02_hangup1h_102		
+CMhu12h_101	122002	Play_Vo_call_end_girl020_07	不知不觉，时间都过去这么久了呀……	callme_talk.TxtCMgirl20a_02_hangup12h_101		
+CMhu12h_102	122002	Play_Vo_call_end_girl020_08	但一直独占分析员，是坏孩子的行为吧。	callme_talk.TxtCMgirl20a_02_hangup12h_102		
+CMhu12h_103	122002	Play_Vo_call_end_girl020_09	卜卜果然不能那么自私，还是跟分析员说再见吧。	callme_talk.TxtCMgirl20a_02_hangup12h_103		
+CMhu12h_104	122002	Play_Vo_call_end_girl020_10	没说完的话，就……留到下次，嘿嘿~	callme_talk.TxtCMgirl20a_02_hangup12h_104		
+						
+CMclock01	122002	Play_Vo_call_clock_girl020_01	分析员今天有什么计划吗？	callme_talk.TxtCMgirl20a_02_clock01		
+CMclock02	122002	Play_Vo_call_clock_girl020_02	都交给卜卜吧~卜卜一定帮你安排的明明白白！	callme_talk.TxtCMgirl20a_02_clock02		
+CMclock03	122002	Play_Vo_call_clock_girl020_03	到吃饭时间啦，今天的饭后甜点，是卜卜哟~	callme_talk.TxtCMgirl20a_02_clock03		
+CMclock04	122002	Play_Vo_call_clock_girl020_04	分析员，到你该出门的时间啦，记得早点回来，卜卜会在家想你的。	callme_talk.TxtCMgirl20a_02_clock04		
+CMclock05	122002	Play_Vo_call_clock_girl020_05	差不多要开始工作咯，结束之后，卜卜会帮分析员好好放松一下的。	callme_talk.TxtCMgirl20a_02_clock05		
+CMclock06	122002	Play_Vo_call_clock_girl020_06	分析员，到运动的时间啦，要像卜卜一样活力满满哦。	callme_talk.TxtCMgirl20a_02_clock06		
+CMclock07	122002	Play_Vo_call_clock_girl020_07	该开始学习啦~快和卜卜一起，把知识装进脑子里。	callme_talk.TxtCMgirl20a_02_clock07		
+CMclock08	122002	Play_Vo_call_clock_girl020_08	分析员~是时候按照计划行动了哦~	callme_talk.TxtCMgirl20a_02_clock08		
+CMclock09	122002	Play_Vo_call_clock_girl020_09	时间到了，分析员~卜卜的提醒是不是很及时？	callme_talk.TxtCMgirl20a_02_clock09		
+						
+CMloopB301	122002	Play_Vo_call_mood_girl020_01	嘿嘿		1	
+CMloopB302	122002	Play_Vo_call_mood_girl020_02	唔……		1	
+CMloopB303	122002	Play_Vo_call_mood_girl020_03	咦？		1	
+CMloopB304	122002	Play_Vo_call_mood_girl020_04	唉……		1	
+CMloopB305	122002	Play_Vo_call_mood_girl020_05	哼哼~		1	
+CMloopB306	122002	Play_Vo_call_mood_girl020_06	诶？		1	

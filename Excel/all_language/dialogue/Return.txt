@@ -1,0 +1,51 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	奇怪，大厅里一个人都没有。	奇怪，大廳裡一個人影都沒有。	おかしなことに、ロビーに一人もいない。	이상하네… 로비에 아무도 없어.	Weird. There's not a single soul in the hall.						0	
+2	大家都跑哪去了？这正好是茉莉安开始泡茶的时间啊……	大家都跑去哪裡了？現在正好是茉莉安開始泡茶的時間啊……	みんなどこに行ったんだろう？マリアンがお茶を入れ始める時間なのに……	다들 어디 간 거지? 지금 이맘때쯤이면 마리안이 차를 우려내고 있어야 하는데…	Where'd everyone disappear to? Marian normally starts making afternoon tea around now...						0	
+3	训练室里也不见一个人的踪影，星期三和晴竟然没在训练吗？	訓練室裡也空蕩蕩的，星期三和晴竟然沒在訓練嗎？	訓練室にも一人もいない。ウェンズデーと晴が訓練していると思ったのに。	훈련실에도 아무도 안 보이고… 어떻게 웬스데이랑 하루가 훈련을 안 할 수 있는 거지?	There's no one in the training room either. Are Wednesday and Haru actually doing something apart from training!?						0	
+b-1											0	
+4	安卡希雅！！！	安卡希雅！！！	アカシア！！！	아카시아!!!	Acacia!!!						0	
+5	没有人回应我，“安卡希雅召唤术”也失效了。	沒有人回應我，“安卡希雅召喚術”也失效了。	返事がない。「アカシア召喚術」も効果なしだ。	아무도 내게 대답이 없었고, '아카시아 소환술'도 무용지물이었다.	No response. My Acacia Summoning Spell had failed.						0	
+6	难道不止我去休假了？陶给所有人都批了假期吗？	難道不止我去休假了？τ對所有人都准假了嗎？	τが私だけでなく、全員に休暇を許可したのか？	설마 나만 휴가 간 게 아니라, τ가 모두 다 휴가를 보낸 건가?	Was I not the only one with a day off? Did τ give everyone a holiday?						0	
+7	感觉不像是她的作风。	感覺不像是她的作風。	τがそんなことをすると思えないが。	그래도 그건 τ 스타일이 아닌데.	That doesn't sound like her.						0	
+7_1	我注意到陶办公室的门禁系统显示为“开放”状态，那么她应该在里面。	我發現τ辦公室的門禁狀態顯示為“開放”，那她應該在裡面才對。	執務室の入退室システムが「OPEN」と表示されていることに気づいた。彼女は中にいるはずだ。	난 τ 사무실의 보안 시스템이 '오픈'으로 표시된 것을 발견하고 그녀가 안에 있을 것이라 추측한다.	I saw that the access panel to τ's office read "Open," so she was probably inside.						0	
+b-8											0	
+7_2	陶董？请问我能进来吗？	τ董?請問我能進來嗎?	τ？入っていいか？	τ 대표님? 들어가도 될까요?	Director τ? Can I come in?						0	
+7_3	我通过门禁系统询问数次，都没有得到回应。难道是因为工作太认真，没有听到我的请求？我决定冒险直接进去。	我透過門禁系統多次詢問，但遲遲沒有回音。難道是她過於投入工作而沒有聽到我的詢問嗎?我決定直接進去。	入退室システムで何度も聞いたが、返事がない。まさか仕事に夢中すぎで、聞こえなかったのだろうか。しばらくためらったが、最終的に思い切って直接入ることにした。	보안 시스템을 통해 수차례 요청하지만 응답이 없다. 혹시 업무를 너무 열중하고 있어서 내 요청마저 듣지 못하는 걸까? 난 위험을 무릅쓰고 직접 들어가기로 결심한다.	I called inside multiple times via the access panel, but there was no response. Perhaps she was so engrossed in her work that she didn't hear my call? I decided to take a chance and just go in.						0	
+b-2											0	
+8	陶董？卡罗琳？	τ董？卡羅琳？	τ？カロリン？	그나저나 τ하고 캐롤린은 어딨는 거지?	Director τ? Caroline?						0	
+9	连陶和卡罗琳也不在？！公司到底发生了什么？	連τ和卡羅琳也不在？！公司到底發生了什麼事？	τとカロリンまで留守！？この会社は一体どうなっているんだ？	τ하고 캐롤린도 사라졌다는 건… 설마 회사에 무슨 일이 생긴 건가?	Even τ and Caroline weren't around!? What on earth was going on in Yggdrasil!?						0	
+10	是不是有什么集体活动被我错过了？有可能！	我是不是錯過了什麼集體活動？有可能！	私に内緒で何か全社規模のイベントでも開かれているのか？それならあり得る！	아니면 내가 단체 활동을 깜빡한 건가? 어쩌면 그럴 수도 있지!	Is there some group event I missed? It seems possible!						0	
+11	大概是团建忘记叫我了吧……休假太久，被忘掉也很正常。	大概是團隊活動忘記叫我了吧……畢竟我休假太久，被遺忘也很正常。	チームビルディングに私を呼ぶのを忘れたのだろう……休暇が長かったから、仕方がないか。	아마 단체 활동에 날 누락했을 수도 있어… 조금은 오래 쉬었으니, 그럴 만도 하지.	The team-building group probably forgot to invite me... I've been away for a while. I wouldn't be surprised if I'd been forgotten.						0	
+12	不管这些，先把行李放回房间。	不管這些了，先把行李放回房間再說。	とりあえず、荷物を部屋に置いてこよう……	신경 쓰지 말고, 일단 방에 돌아가서 짐부터 정리하자.	Anyway, let's put my luggage back in my room first.						0	
+13	不对劲，非常不对劲。	不對勁，非常不對勁。	……おかしい。明らかにおかしい。	이상해… 아무리 생각해도 이상해.	Something's off. Really, really off.						0	
+14	灯光亮起后，我注意到自己的床铺被人动过，远没有我走时那么平整。	開燈後我發現自己的床鋪被人動過，完全不像我走時那麼平整。	明かりをつけてみると、ベッドが出発した時よりかなり乱れていた。間違いなく何者かに動かされている。	방안에 불빛을 켜니 누군가 내 침대를 건드렸음을 알 수 있었다. 휴가를 가기 전까지만 해도 분명히 이렇게까지 정갈하지 않았기 때문이다.	After the lights turned on, I realized someone had moved my bed. It wasn't this tidy when I'd left it.						0	
+15	桌椅、设备的位置也略有不同……	桌椅、設備的位置也略有不同……	机や椅子、他の設備の位置も微妙にずれている……	테이블하고 의자, 그리고 장비의 위치도 조금씩 달라…	The positioning of the desk and other items was also ever so slightly off...						0	
+20	锵锵！惊喜！欢迎回来！	鏘鏘！驚喜！歡迎回來！	じゃじゃーん！サプライズ！お帰り！	짜잔! 서프라이즈! 돌아온 걸 환영해!	Tada! Surprise! Welcome back!						0	
+b-3											0	
+21	这……	這……	これは……	뭐지… 이건…	Well...						0	
+22	快点快点！妮塔！	快點快點！妮塔！	早く早く！ニタ！	빨리, 빨리! 니타 뭐해!	Quick! Nita!						0	
+23	嗷，到我了是吧？	噢，輪到我了是嗎？	おう、私の番だね！	아… 벌써 내 차롄가?	Oh, my turn now, huh?						0	
+24	我们欢声笑语，我们载歌载舞！没有什么能超越我们的深厚情谊，也没有什么能阻挡我们奔向明天的幸……	我們又說又笑，我們載歌載舞！沒有什麼能超越我們的深厚情誼，也沒有什麼能阻擋我們奔向明天的幸……	笑い合い、歌を歌い、踊り明かそう！私たちの絆より深いものはない、私たちの明日への幸せを阻むものは……	같이 웃고 떠들며 춤추자! 우리의 두터운 정을 뛰어넘을 수 있는 건 없고, 우리의 행복한 내일을 막을 수 있는 것도…	We laugh with pure joy, sing melodies of radiance, and dance under the stars! Nothing can surpass the depths of our camaraderie, and our great bonds will propel us forward into the wondrous happiness of tomorrow...						0	
+25	停！你是从哪抄的酸词！	停！你是從哪抄來的爛台詞！	ストップ！その恥ずかしい台詞、どこで拾ってきたのよ！	잠깐! 니타! 너 이거 어디서 베껴온 거야?	Stop right there! Where'd you plagiarize that tacky speech from!?						0	
+26	那咋办，憋了一晚上都写不出来。	那怎麼辦，我絞盡腦汁想了一整晚都寫不出來。	仕方ないだろ！一晩考えてもまともなの書けなかったんだから。	그럼 어떡해. 밤을 새워도 써지지가 않는 걸.	I had no choice, y'know? I spent a whole night rackin' my brains and got nowhere.						0	
+27	行了行了……playername，如你所见……	夠了夠了……playername，如你所見……	分かった分かった……playername、見ての通り……	으휴… playername, 네가 보고 있는 대로…	Alright, fine then... playername, as you can see...						0	
+28	大家都在欢迎你回来。	大家都在歡迎你回來。	みんな、あんたの帰りを歓迎しているわ。	다들 분석가를 환영해 주러 왔어.	Everyone's welcoming you back home.						0	
+b-4											0	
+29	谢……谢谢大家。	謝……謝謝大家。	あ……ありがとう。	고마워… 다들.	Uh... Thanks, guys.						0	
+30	欸，不是你先出的主意吗？说要给分析员一个惊……啊哈哈……我不说了。	欸，不是你出的主意嗎？說要給分析員一個驚……呃哈哈……沒事。	え、ファニーが最初に言い出したんじゃなかった？分析員にサプライズって……	음… 근데 페니가 먼저 해주자고 한 거 아니야? 분석가한테 서프라이즈를 해주자고… 아하하… 아니야, 아무것도…	Eh, wasn't this your idea originally? You said you wanted to give the Adjutant a surp— ...Ahaha, did I say too much?						0	
+b-5											0	
+31	是这样吗？芬妮？	是這樣嗎？芬妮？	そうなのか、ファニー？	정말이야? 페니?	Is that so? Fenny?						0	
+32	那是因为！自从分析员休假以后，我看你们一个一个都心不在焉的！	那是因為！自從分析員休假以後，我看你們一個個都心不在焉的！	だって！分析員が休んでから、みんな上の空って感じだったもの！	그건 분석가가 휴가를 가고부터 너희들이 온종일 다른 데만 신경을 쓰고 있으니까 그렇지!	There's a reason for that! I noticed that ever since the Adjutant left on holiday, every single one of you was totally dejected!						0	
+33	不说这个了！星期三和茉莉安那边应该也备好了茶点……这下playername回来了，总不会再多出一份了吧？	不說這個了！星期三和茉莉安那邊應該也備好了茶點……這下playername回來了，總不會再多出一份沒人吃了吧？	そんなことより！ウェンズデーとマリアンがお茶を用意してるはずよ……playernameが帰ってきたから、また一人分余っちゃうことはないよね？	됐고! 웬스데이하고 마리안이 playername(이)가 돌아온 겸 차를 좀 우려놨으니까, 거기로 가서 한잔하는 건 어때?	But that's not the point! Wednesday and Marian should've prepared some snacks over there... You've got enough for playername too, don't you?						0	
+34	走了走了！饮茶先！	走了走了！先去喝茶再說！	行こう行こう、お茶だ！	가자, 가자! 차부터 마시자!	On it, guys! Snacks galore!						0	
+35	对了，看看安卡希雅还在不在衣柜里，从刚才开始就没动静了，不会睡着了吧……	對了，看看安卡希雅是不是還躲在衣櫃裡，她從剛才開始就沒動靜了，不會是睡著了吧……	そうだ、アカシアがまだクローゼットにいるか確かめないと。さっきから声がしないけど、まさか寝たんじゃ……	맞다. 근데 아카시아는 옷장에 뭐 하는 거야? 시작부터 아무 인기척도 없던데… 설마 자고 있는 건 아니겠지?	Right, check if Acacia's still in the wardrobe. She's gone silent. Hopefully she didn't fall asleep...						0	
+36	分析员，刚才有没有被吓到？开始担心自己太久没有出现，我们把你给忘了？	分析員，剛才有沒有被嚇到？是不是開始擔心自己太久沒有出現，我們已經忘了你？	分析員、心配した？長いこといなかったから、忘れられたと思ってない？	분석가, 솔직히 조금 놀랐지? 하도 오랜만에 와서 우리가 분석가를 잊었을까 봐?	Adjutant, we didn't give you a fright, did we? Were you starting to worry you'd been gone so long that we'd all forgotten you?						0	
+b-6											0	
+37	没有！绝对没有！	沒有！絕對沒有！	思ってない！断じて思ってない！	아니야! 절대 그렇지 않아!	Nope, I would never!						0	
+38	说实话，有一点点。	說實話，有一點點。	正直、ちょっとだけ心配した。	솔직히 말하면… 아주 조금?	Well, to tell the truth, maybe a tiny bit.						0	
+39	欸嘿嘿，总之，现在不担心吧？	欸嘿嘿，總之，現在不擔心了吧？	ヘヘ。じゃ、もう心配してないよね？	헤헤헤~ 아무튼 지금은 괜찮은 거지?	Ehehe. But you're not worried anymore, are you?						0	
+b-7											0	
+40	嗯！不担心！	嗯！不擔心了！	ああ！安心した！	응! 괜찮아!	Nope, not at all!						0	
+41	你不在的时候，大家都在等你回来呦。	你不在的時候，大家都在等你回來唷。	分析員が留守の間、みんな分析員の帰りを待っていたよ。	분석가가 없을 때, 모두 분석가만 기다리고 있었다고.	All this time, we were waiting for you to return, you know?						0	
+42	毕竟对于大家来说，只有一位叫做playername的分析员。	畢竟對於大家來說，只有一位叫做playername的分析員。	みんなにとって、playernameという分析員は一人しかいないから。	우리에게 있어 분석가는 오직 playername 한 명뿐이니까!	Because there's only one Adjutant for us, and that's you, playername.						0	

@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	嗯？	嗯？	ん？	응…?	Hm?						0	
+2	你那边有什么不对吗？	你那邊有什麼不對嗎？	そっちで何か異常でも？	무슨 문제라도 있어?	Is anything out of place over there?						0	
+3	不，没什么……	不，沒什麼……	いや、なんでも……	아니. 아무것도 아니야…	No, not really...						0	
+4	放心吧，这里一切正常。	放心吧，這裡一切正常。	安心して、こっちは何も問題ない。	걱정하지 마. 여긴 정상이니까.	Relax. Everything's normal here.						0	

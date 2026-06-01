@@ -1,0 +1,7 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1000	可恶！可恶！	可惡！可惡！	この！この！	이런, 젠장!	Argh!						0	
+1001	闪开！	閃開！	どけ！	비켜!	Scram!						0	
+1002	你**还要看到什么时候！	你這混帳還要看到什麼時候！	この**いつまで見てるつもりだ！	넌 ** 언제까지 지켜만 볼 거야!	How freakin' long are you going to take?						0	
+1003	就是现在！	就是現在！	今だ！	지금이야!	Here it comes!						0	
+1004	消除会导向坏结局的一切因素！	消除會導向壞結局的一切因素！	バッドエンドに繋がる要素を排除する！	최악의 상황은 어떻게든 막아볼게!	There's no chance we're letting you get out of here!						0	

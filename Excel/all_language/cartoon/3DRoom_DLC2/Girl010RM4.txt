@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	早啊，分析员。	早啊，分析員。	おはよう、分析員。	좋은 아침, 분석가.	Morning, Adjutant.						0	
+page0.2	早……不早了吧。	早……不早了吧。	おはよ……って時間でもないけどね。	좋은 아… 아침은 아닌 것 같은데.	Morning...? It's already afternoon.						0	
+page0.3	我这不是没出任务嘛，就多睡了一会。	我這不是沒有任務嘛，就多睡了一點懶覺。	ミッションがないから、少し長めに寝たの。	미션이 없어서 조금 더 잤어.	I didn't have a mission today, so I slept in.						0	
+page0.4	保持充足的睡眠可是养生的重要秘诀。	保持充足的睡眠可是養生的重要祕訣。	十分な睡眠を取ること、それも養生の秘訣だから。	충분한 수면을 취하는 것도 건강을 유지하는 아주 중요한 비결이라고.	Getting enough sleep is the trick to maintaining good health.						0	
+page0.5	呃……	呃……	うぅ……	음…	Ugh...						0	
+page0.6	你怎么了？	你怎麼了？	どうした？	왜 그래?	What's wrong?						0	
+page0.7	腰……感觉不太对劲。	腰……感覺不太對勁。	腰が……ちょっとね。	허리가… 이상한 것 같아.	My back... doesn't feel too good.						0	
+page0.8	是不小心拉伤了吗？	是不小心拉傷了嗎？	ぎっくり腰？	다친 거야?	Did you pull a muscle?						0	
+page0.9	不，感觉像被星期三轻轻电了一下……有点酸，还有点麻。	不，感覺像被星期三輕輕電了一下……有點痠，還有點麻。	いや、なんかウェンズデーにちょっとだけ感電させられたみたいで……少し痛くてビリビリしてる。	아니, 뭔가 웬스데이한테 약하게 전기찜질을 받은 것처럼… 아프면서 저리네.	No, it feels like Wednesday shocked me... It's slightly sore and numb.						0	
+page0.10	肴，有一句话，我早就想对你说了。	肴，有一句話，我早就想對你說了。	肴、ずっと言いたかったことがあるんだけど。	야오, 사실 하고 싶었던 말이 있었어.	Yao, there's something I've been wanting to tell you for a while.						0	
+page0.11	嗯？	嗯？	ん？	응? 뭔데?	What?						0	
+page0.12	比起养生秘诀，你还是先注意下自己的坐姿吧。	比起養生祕訣，你還是先注意下自己的坐姿吧。	養生の秘訣なんかより、まず自分の座り方を直した方がいいと思う。	건강을 유지하는 비결 같은 걸 신경 쓰기보다는, 평소에 앉는 자세에 더 신경을 써야 할 것 같아.	Rather than giving out tips and tricks for staying healthy, you should focus on your own posture.						0	
+page0.13	长期不良坐姿会造成肌肉酸痛，再严重点就是肌肉劳损。	長期坐姿不良會造成肌肉痠痛，再嚴重點就是肌肉損傷。	長時間悪い座り方していると、筋肉痛はもちろん、ひどくなると筋肉を傷めることになる。	오랫동안 좋지 못한 자세로 앉아있으면 근육에 무리가 와. 조금 더 심하면 근육에 손상이 갈 수도 있고.	Sitting with poor posture for long periods of time can make your muscles feel sore or even strain them in serious cases.						0	
+page0.14	不……不至于吧。	不……不至於吧。	そ、そんな大袈裟な……	그… 그 정도야?	No way... It can't be that serious.						0	
+page0.15	稳妥起见，你最好还是尽快去做个检查。	保險起見，你最好盡快去做個檢查。	念のため、できるだけ早く検査を受けてみて。	혹시 모르니까 어서 가서 검사라도 받아 봐.	You'd better get it checked out ASAP just to be safe.						0	
+page0.16	对了！	對了！	そうだ！	아! 맞다!	Oh!						0	
+page0.17	缓解肌肉酸痛的最好方式之一就是练瑜伽,你不如去请教一下晴？	緩解肌肉酸痛最好的方式之一就是練瑜珈,你不如去請教一下晴？	筋肉痛を和らげるには、ヨガが一番いい。晴に頼んでみたら？	요가를 하는 것도 근육의 통증을 해소하는 좋은 방법 중 하나인데, 하루한테 도와달라고 하는 건 어때?	Yoga is one of the best ways to relieve sore muscles. Why don't you ask Haru?						0	
+page0.18	饶了我吧！	饒了我吧！	勘弁してよ！	그건 됐어!	Ugh, give me a break!						0	
+page0.19	我这就做检查，顺道再要几贴膏药。	我馬上去做檢查，順便拿幾帖膏藥。	今すぐ検査を受けるよ。ついでに湿布ももらわないと。	가서 검사 좀 하고 파스 좀 붙이면 되겠지.	Alright, alright, I'll go get it checked out. I'll grab some pain relief patches while I'm at it.						0	

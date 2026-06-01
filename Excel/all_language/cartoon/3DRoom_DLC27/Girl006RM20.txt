@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	晴……怎么垂头丧气的？	晴……怎麼垂頭喪氣的？	晴……なんか元気ないな？	하루 선배… 왜 그렇게 풀이 죽어 있어요?	Haru... Why are you looking so down?						0	2.7版本随机事件
+page1.2	之前为了改善和新兵之间的关系，学了一些笑话……	之前為了改善和新兵之間的關係，學了一點笑話……	この間、新兵たちと仲良くなりたくて、ジョークを覚えたんだが……	신병들이랑 친해지려고 농담 좀 배워봤는데…	I was trying to build some rapport with the new recruits, so I learned some jokes...						0	2.7版本随机事件
+page1.3	哦，我记得……金天天气晴，对吧？	哦，我記得……金天天氣晴，對吧？	ああ、確か……「天気は晴」ってやつでしょ？	아, 기억나요! '오늘 하루도 참 거시기하다' 그 멘트요?	Oh, let me guess. It was some play on your name like "kang-haru," right?						0	2.7版本随机事件
+page1.4	怎么样，新兵笑了吗？	結果怎樣，新兵笑了嗎？	で、新兵たち、笑ってくれたのか？	어때요? 반응 좋았어요?	Did they laugh?						0	2.7版本随机事件
+page1.5	我也不知道笑没笑……	我也不知道有沒有笑……	それが微妙で……	모르겠어…	Actually, I'm not sure...						0	2.7版本随机事件
+page1.6	……？	……？	……？	…?	...?						0	2.7版本随机事件
+page1.7	她们好像很痛苦似的，就这样——	她們好像很痛苦的樣子，就這樣——	なんというか、苦しそうな顔をされたんだ——	다들 고통스러운 표정을 짓더라고, 이렇게 말이야…	They seemed to be in a lot of pain. Like this...						0	2.7版本随机事件
+page1.8	我是不是没有幽默感……	我是不是沒有幽默感……	自分、ユーモアのセンスがないのだろうか……	난 유머 감각이 없는 걸까…	Maybe I'm just no good at making people laugh...						0	2.7版本随机事件
+page1.9	呃……现在再想想，其实很幽默了……	呃……現在再想想，其實很幽默了啦……	ううん……今思えば、けっこう面白かったよ……	흠… 저는 지금 들어도 웃긴 것 같은데…	Well... now that I think about it, it IS pretty funny...						0	2.7版本随机事件
+page1.10	啊，真的吗？	啊，真的嗎？	本当か？	아, 정말이야?	Huh? Really?						0	2.7版本随机事件
+page1.11	可能是因为大家太尊敬晴了，所以想笑不敢笑？	可能是因為大家太尊敬晴了，所以想笑不敢笑？	みんなは晴のこと尊敬しすぎて、笑いたくても笑えなかったんじゃない？	다들 선배를 너무 존경해서 그런 거 아닐까요?	It's probably just because they respected you so much that they didn't dare laugh.						0	2.7版本随机事件
+page1.12	是这个原因吗！	是因為這樣嗎！	そういうことか！	그런 거였나?!	That makes sense!						0	2.7版本随机事件
+page1.13	那就是说，其实是有效果的！	那就是說，其實是有效果的！	つまり……効果はあったってことだな！	그럼 효과가 있었다는 거네!	So, my efforts paid off after all!						0	2.7版本随机事件
+page1.14	嗯……继续努力……	嗯……繼續努力……	うん……その調子……	네… 계속 노력하시면 될 거예요…	Yeah... Just keep it up...						0	2.7版本随机事件

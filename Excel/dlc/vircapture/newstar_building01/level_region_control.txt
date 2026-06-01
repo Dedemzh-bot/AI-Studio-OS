@@ -1,0 +1,7 @@
+区域ID	注释	区域开启时间	区域关闭时间	空气墙ID	去域名	路径	自定义信息图块	遮罩坐标	信息坐标	解锁所需开拓等级	空气墙解锁（取uniqueID）	完成指定任务后解锁地图块	图层未解锁时，取的语言key
+Id	Des	StartTime	EndTime	WaLLId	AreaName	Path	CustomIntroInfoPath	Position	InfoPosition	UnlockLevel	InteractWall	Condition	CustomKey
+1	区域1	[202401010400]	[202401010400]		vircapture.area_name1		/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C	{-430,154}	{-430,154}				
+2	区域2	[202401010400]	[202401010400]		vircapture.area_name2	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area11.uw_fight_catch_area11_C	/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C	{-800,138}	{-800,138}	5	{523}	{5000}	vircapture.TxtBuildWall2_Des
+3	区域3	[202401010400]	[202401010400]		vircapture.area_name3	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area12.uw_fight_catch_area12_C	/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C	{0,102}	{0,102}	5	{502}	{5001}	vircapture.TxtBuildWall3_Des
+4	区域4	[202401010400]	[202401010400]		vircapture.area_name4	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area13.uw_fight_catch_area13_C	/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C	{-280,-206}	{-280,-206}	5	{504,503}	{5002}	vircapture.TxtBuildWall4_Des
+5	隐藏区域	[202401010400]	[202401010400]		vircapture.area_name5	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area14.uw_fight_catch_area14_C	/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C	{766,196}	{766,196}	5		{3125}	vircapture.TxtBuildWall5_Des

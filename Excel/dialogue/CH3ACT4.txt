@@ -1,0 +1,4 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	芙提雅			快看，快看，那是郊狼的<orange>警戒雷达</>。	0	
+2		0	芙提雅			别看做工粗糙，型号老旧，不尽快毁掉它可是很麻烦的哦！	0	

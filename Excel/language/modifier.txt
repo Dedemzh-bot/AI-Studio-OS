@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+poisioning	中毒	0	
+bleeding	流血	0	
+burning	燃烧	0	
+frozen	冻结	0	
+palsy	麻痹	0	
+stunning	眩晕	0	
+attackdown	攻击减弱	0	
+attackup	攻击加强	0	
+disarm	缴械	0	
+healdown	治疗减弱	0	
+healon	治疗加强	0	
+silence	沉默	0	
+speeddown	迟缓	0	
+speedup	提速	0	
+healSelf	治愈	0	
+shocking	震荡	0	
+vulnerable	易伤	0	
+superarmor	霸体	0	
+godstate	无敌	0	
+defensedown	防御减弱	0	
+energyrecover	充能	0	
+immune	免疫控制	0	
+bounce	跳弹	0	
+destroy	破坏	0	

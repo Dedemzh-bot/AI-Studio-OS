@@ -224,7 +224,7 @@ def _get_agent_script(agent_name: str) -> str | None:
         "combat_agent": "Agents/combat_agent.py",
         "lead_planner": "Agents/lead_planner.py",
         "schema_translator": "Agents/schema_translator.py",
-        "ui_agent": "Agents/ui_agent.py",
+        "ux_agent": "Agents/ux_agent.py",
     }
     return mapping.get(agent_name)
 
@@ -679,7 +679,7 @@ def main():
             print("[Router] --- [2/2] UI Agent ---")
             try:
                 subprocess.run(
-                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "ui_agent.py")],
+                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "ux_agent.py")],
                     check=True, cwd=ROOT_DIR,
                 )
                 print("[Router] [OK] UI Agent 执行成功。")
@@ -687,7 +687,7 @@ def main():
             except subprocess.CalledProcessError as e:
                 print(f"\033[91m[Router] UIAgent 失败（{e.returncode}）\033[0m")
             except FileNotFoundError:
-                print("\033[91m[Router] 找不到 ui_agent.py\033[0m")
+                print("\033[91m[Router] 找不到 ux_agent.py\033[0m")
             if code_ok and ui_ok:
                 print("[Router] Code + UI 均已完成，流水线终结。")
                 write_state("completed")

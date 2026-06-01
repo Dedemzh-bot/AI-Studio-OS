@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	这件……不不，还是这件吧……	這件……不不，還是這件吧……	こっち……ううん、やっぱりこっち……	이거… 아니요, 이걸로 하죠…	This one... Nah, that one is probably better...						0	
+page0.2	茉莉安在挑新衣服？	茉莉安在挑新衣服？	マリアン、服を選んでるのか？	마리안은 새 옷을 고르고 있어?	Are you picking out new outfits, Marian?						0	
+choice01	想看她试穿颜色最鲜艳的一套	想看她試穿顏色最鮮艷的一套	一番色鮮やかなほうを試着してほしい	그녀가 가장 밝은 색의 옷을 입어보는 것을 보고 싶다.	Pick the most vibrant outfit in the wardrobe for her						0	
+page1.1	要看这件红色的吗？	要看這件紅色的嗎？	赤いほうが見たいですか？	이 빨간색으로 보여드릴까요?	You want to see me in this red outfit?						0	
+page1.2	呵呵~没想到分析员喜欢的是这个。	呵呵~沒想到分析員喜歡的是這個。	ふふ……まさか分析員さん、こっちを選ぶなんて。	하하~ 분석가가 좋아하는게 이거일 줄은 몰랐네.	Hehe~ I didn't expect you to choose this one.						0	
+page1.3	以往茉莉安的衣服都是偏冷的色调。	以往茉莉安的衣服都是偏冷的色調。	普段のマリアンはシックな色を着てることが多いからな。	이전에 마리안의 옷은 모두 쿨톤이야.	It's just that you usually dress in cool colors.						0	
+page1.4	所以想好奇你穿鲜艳的颜色会有什么不一样。	所以想好奇穿鮮豔的顏色會有什麼不一樣。	こういうのを着たら、どんな印象になるんだろうと思って。	그래서 네가 비비드한 색을 입으면 뭐가 다를지 궁금했어.	So I'm curious how you'd look in something bright.						0	
+page1.5	那么分析员觉得怎么样？	那麼分析員覺得怎麼樣呢？	どうですか、分析員さん？	그럼 분석가님은 어떻게 생각하세요?	Then how do I look right now, Adjutant?						0	
+page1.6	更加热情奔放的你，很好看。	更熱情奔放的你，很好看。	情熱的な君も綺麗だよ。	더욱 열정적인 당신이 보기 좋아.	You look very spirited and lovely.						0	
+choice02	想看她试穿款式最新颖的一套	想看她試穿款式最新穎的一套	最新デザインのほうを試着してほしい	그녀의 피팅 스타일이 가장 새로운 것을 보고 싶다.	Pick the most stylish outfit in the wardrobe for her						0	
+page2.1	试试这件？	試試這件？	こっちはどうだ？	이거 입어볼래?	How about this one?						0	
+page2.2	啊！偏偏就是这一件。原来分析员喜欢这样的款式么……	啊！偏偏就是這一件。原來分析員喜歡這樣的款式麼……	あ！それですか……分析員さんはこういうのが好きなんですね……	아! 하필이면 이것뿐이군요. 원래 분석가는 이런 스타일을 좋아하나요…?	Ah! This one, really? You like to see me in this outfit...?						0	
+page2.3	我来看看……其实很适合你呢。	我來看看……其實很適合你呢。	どれどれ……いや、似合ってるよ。	내가 한번 보자… 사실 너랑 잘 어울려.	Let's see... it actually suits you quite well.						0	
+page2.4	穿上之后让人有点……难为情呢……	穿上之後讓人有點……難為情呢……	恥ずかしいん……ですが……	입으니까 약간 좀… 민망하네요…	You're making me blush... Adjutant...						0	
+page2.5	但是，很喜欢分析员这样的要求。	但是，很喜歡分析員這樣的要求。	分析員さんにそう言われると、とても嬉しいです。	하지만 분석가의 이런 요구가 마음에 들어요.	But — I love it when you make such requests.						0	
+page2.6	要不要……再为我指定一套试穿呢？	要不要……再為我指定一套試穿呢？	それじゃ……もう一着、選んでくれませんか？	한 벌 더 지정해서 입어보시겠어요?	Would you like to... pick out another outfit for me to try?						0	

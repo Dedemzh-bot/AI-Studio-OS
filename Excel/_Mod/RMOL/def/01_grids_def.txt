@@ -1,0 +1,33 @@
+﻿格子Id	名字	提示	格子背景	文字颜色	名字	描述	图标Id	类型(1地形,2物件)	层级，最大支持3	显示在第几页，默认1	类名	高度偏移	缩放	格子大小	地块类型(walkable/block)	直接购买价格	升级价格	收取过路费	特效id(填特效表中的id)	默认旋转	是否可以交互	标签(start:起点)，可以有多个	参数	状态0	状态1	模型路径	正常材质	灰模材质
+Id	Name	GroundHint	Background	TxtColor	LangName	Desc	Icon	Type	Layer	PageIndex	ClassName	Offset	Scale	Size	LandType	Price	PriceLv	PriceToll	ParticleId	Rotate	Interaction	Tags	TagParam	State0	State1	ModelPath	NormalMat	GreyMat
+1	资源丢失		{0,0,0}	{255,255,255}																								
+																												
+2000	透明地面		{45,45,45,255}	{200,200,200}				1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_empty.RMOL_empty_C		
+2001	地产格子1		{45,45,45,255}	{200,200,200}	rmol.BuildName01			1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_ground_1.RMOL_ground_1_C		
+2002	地产格子2		{45,45,45,255}	{200,200,200}	rmol.BuildName02			1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_ground_2.RMOL_ground_2_C		
+2003	地产格子3		{45,45,45,255}	{200,200,200}	rmol.BuildName03			1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_ground_3.RMOL_ground_3_C		
+2004	地产格子4		{45,45,45,255}	{200,200,200}	rmol.BuildName04			1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_ground_4.RMOL_ground_4_C		
+2005	地产格子5		{45,45,45,255}	{200,200,200}	rmol.BuildName05			1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_ground_5.RMOL_ground_5_C		
+2006	地产格子6		{45,45,45,255}	{200,200,200}	rmol.BuildName06			1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_ground_6.RMOL_ground_6_C		
+2007	地产格子7		{45,45,45,255}	{200,200,200}	rmol.BuildName07			1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_ground_7.RMOL_ground_7_C		
+2008	地产格子8		{45,45,45,255}	{200,200,200}	rmol.BuildName08			1					{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_ground_8.RMOL_ground_8_C		
+																												
+2010	随机卡牌		{45,45,45,255}	{200,200,0}				1					{1,1,1}	{1,1}	walkable							randcard				/Game/Mod/RMOL/Blueprints/Items/RMOL_event.RMOL_event_C		
+																												
+2050	一级通用建筑		{45,45,45,255}	{200,0,0}	rmol.NormalBuildName01		4861001	2	1	1			{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_normal1.RMOL_normal1_C		
+2051	二级通用建筑		{45,45,45,255}	{200,0,0}	rmol.NormalBuildName02		4861002	2	1	1			{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_normal2.RMOL_normal2_C		
+2052	三级通用建筑		{45,45,45,255}	{200,0,0}	rmol.NormalBuildName03		4861003	2	1	1			{1,1,1}	{1,1}	walkable											/Game/Mod/RMOL/Blueprints/Items/RMOL_normal3.RMOL_normal3_C		
+																												
+3001	地标1		{45,45,45,255}	{200,0,0}	rmol.LandmarkBuilding01		4861004	2	1	1			{0.75,0.75,0.75}	{1,1}	walkable							building				/Game/Mod/RMOL/Blueprints/Items/RMOL_building_1.RMOL_building_1_C		
+3002	地标2		{45,45,45,255}	{200,0,0}	rmol.LandmarkBuilding02		4861005	2	1	1			{0.75,0.75,0.75}	{1,1}	walkable							building				/Game/Mod/RMOL/Blueprints/Items/RMOL_building_2.RMOL_building_2_C		
+3003	地标3		{45,45,45,255}	{200,0,0}	rmol.LandmarkBuilding03		4861006	2	1	1			{0.75,0.75,0.75}	{1,1}	walkable							building				/Game/Mod/RMOL/Blueprints/Items/RMOL_building_3.RMOL_building_3_C		
+3004	地标4		{45,45,45,255}	{200,0,0}	rmol.LandmarkBuilding04		4861007	2	1	1			{0.75,0.75,0.75}	{1,1}	walkable							building				/Game/Mod/RMOL/Blueprints/Items/RMOL_building_4.RMOL_building_4_C		
+3005	地标5		{45,45,45,255}	{200,0,0}	rmol.LandmarkBuilding05		4861008	2	1	1			{0.75,0.75,0.75}	{1,1}	walkable							building				/Game/Mod/RMOL/Blueprints/Items/RMOL_building_5.RMOL_building_5_C		
+3006	地标6		{45,45,45,255}	{200,0,0}	rmol.LandmarkBuilding06		4861009	2	1	1			{0.75,0.75,0.75}	{1,1}	walkable							building				/Game/Mod/RMOL/Blueprints/Items/RMOL_building_6.RMOL_building_6_C		
+3007	地标7		{45,45,45,255}	{200,0,0}	rmol.LandmarkBuilding07		4861010	2	1	1			{0.75,0.75,0.75}	{1,1}	walkable							building				/Game/Mod/RMOL/Blueprints/Items/RMOL_building_7.RMOL_building_7_C		
+3008	地标8		{45,45,45,255}	{200,0,0}	rmol.LandmarkBuilding08		4861011	2	1	1			{0.75,0.75,0.75}	{1,1}	walkable							building				/Game/Mod/RMOL/Blueprints/Items/RMOL_building_8.RMOL_building_8_C		
+																												
+4001	出生建筑		{100,80,60}	{255,255,255}				2	1	1			{1,1,1}	{1,1}	walkable	500	200	350			1	building				/Game/Mod/RMOL/Blueprints/Items/RMOL_born.RMOL_born_C		
+4002	无人岛		{100,80,60}	{255,255,255}				2	1	1			{1,1,1}	{1,1}	walkable	500	200	350			1	building				/Game/Mod/RMOL/Blueprints/Items/RMOL_island.RMOL_island_C		
+4003	商店		{100,80,60}	{255,255,255}				2	1	1			{1,1,1}	{1,1}	walkable	500	200	350			1	building				/Game/Mod/RMOL/Blueprints/Items/RMOL_shop.RMOL_shop_C		
+4004	火车站		{100,80,60}	{255,255,255}				2	1	1			{1,1,1}	{1,1}	walkable	500	200	350			1	building				/Game/Mod/RMOL/Blueprints/Items/RMOL_railway.RMOL_railway_C		

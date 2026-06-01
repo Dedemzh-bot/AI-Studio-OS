@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1000	分析员，那东西要来了	分析員，那東西要來了	分析員さん、アレが来ますっ！	분석가님, 그것이 오고 있어요.	Adjutant, that thing is coming.						0	2.8版本协议动画字幕
+1001	哼……	哼……	たぁあーー	흠…	Hmph...						0	2.8版本协议动画字幕

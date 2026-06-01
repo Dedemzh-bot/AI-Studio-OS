@@ -1,0 +1,50 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	行动耗时少于{0}秒	行動耗時少於{0}秒	{0}秒以内に行動を完了する	전투 시간 {0}초 미만	Complete mission within {0}s						0	
+2	撤退人数不超过{0}名	撤退人數不超過{0}名	戦闘不能隊員{0}名以下	철수 인원 {0}명 이하	No more than {0} operative(s) retreat						0	
+3	使用{0}次支援技	使用{0}次支援技	支援技を{0}回使用する	보조 스킬 {0}회 사용	Use Support Skill {0} time(s)						0	
+4	{0}名使用{1}的队员上阵	{0}名使用{1}的隊員上陣	{1}を使用する隊員が{0}人行動に参加する	{1} 사용 팀원 {0}명 출전	{0} operative(s) using {1} deployed						0	
+5	{0}队员上阵	隊員{0}上陣	{0}が行動に参加する	{0} 팀원 출전	Deploy operative {0}						0	
+6	全员生命高于{0}%	全員生命高於{0}%	全員のHPが{0}%以上	모든 팀원 HP {0}% 이상	Complete with all operatives' HP above {0}%						0	
+7	使用{0}次常规技	使用{0}次常規技	通常技を{0}回使用する	일반 스킬 {0}회 사용	Use Standard Skill {0} time(s)						0	
+8	无使用{0}的队员上阵	無使用{0}的隊員上陣	{0}を使用する隊員が行動に参加していない	{0} 미사용 팀원 출전	No operative using {0} deployed						0	
+9	无人撤退	無人撤退	戦闘不能隊員がいない	철수 인원 0명	No operatives forced to retreat						0	
+10	使用{0}次爆发技	使用{0}次爆發技	爆発技を{0}回使用する	특수 스킬 {0}회 사용	Use Ultimate Skills {0} times(s)						0	
+11	切换队员{0}次	切換隊員{0}次	隊員を{0}回切り替える	팀원 {0}회 변경	Change operatives {0} time(s)						0	
+12	闪避达到{0}次	閃避達到{0}次	{0}回回避する	회피 {0}회 진행	Dodge {0} time(s)						0	
+13	换弹达到{0}次	換彈達到{0}次	{0}回装填する	재장전 {0}회 진행	Reload {0} time(s)						0	
+14	使用爆发技少于{0}次	使用爆發技少於{0}次	爆発技の使用回数が{0}回未満	특수 스킬 사용 횟수 {0}회 미만	Use Ultimate Skill less than {0} time(s)						0	
+15	使用支援技少于{0}次	使用支援技少於{0}次	支援技の使用回数が{0}回未満	보조 스킬 사용 횟수 {0}회 미만	Use Support Skill less than {0} time(s)						0	
+16	使用常规技少于{0}次	使用常規技少於{0}次	通常技の使用回数が{0}回未満	일반 스킬 사용 횟수 {0}회 미만	Use Standard Skill less than {0} time(s)						0	
+17	切换队员少于{0}次	切換隊員少於{0}次	隊員の切り替え回数が{0}回未満	팀원 변경 횟수 {0}회 미만	Change operatives less than {0} time(s)						0	
+18	闪避少于{0}次	閃避少於{0}次	回避回数が{0}回未満	회피 {0}회 미만	Dodge less than {0} time(s)						0	
+19	换弹少于{0}次	換彈少於{0}次	装填回数が{0}回未満	재장전 {0}회 미만	Reload less than {0} time(s)						0	
+20	受到攻击少于{0}次	受到攻擊少於{0}次	攻撃を受けた回数が{0}回未満	피격 {0}회 미만	Get hit less than {0} time(s)						0	
+21	通过射击或技能击败目标{0}名	由隊員擊敗目標{0}名	射撃またはスキルで敵を{0}体倒す	사격 및 스킬로 타깃 {0}개 격파하기	Defeat {0} enemies through shooting or skill						1000	
+22	用普通射击击败目标{0}名	用普通射擊擊敗目標{0}名	腰撃ちで敵を{0}体撃破する	일반 사격으로 타깃 {0}개 격파하기	Defeat {0} enemies using standard shots						0	
+23	使用技能击败目标{0}名	使用技能擊敗目標{0}名	スキルで敵を{0}体撃破する	스킬로 타깃 {0}개 격파하기	Defeat {0} enemies using skills						0	
+24	摧毁爆炸物{0}个	摧毀爆炸物{0}個	{0}個の爆発物を破壊した	폭발물 {0}개 파괴하기	Destroy {0} explosives						0	
+25	用爆炸物击败目标{0}名	用爆炸物擊敗目標{0}名	爆発物を利用して敵を{0}体撃破する	폭발물로 타깃 {0}개 격파하기	Defeat {0} enemies using explosives						0	
+26	通过推下高台击败目标{0}名	透過推下高台擊敗目標{0}名	高台から突き落として敵を{0}体撃破する	플랫폼에서 타깃을 밀어내 {0}개 격파하기	Defeat {0} enemies by pushing them off a cliff						0	
+27	对目标进行部位破坏{0}次	對目標進行部位破壞{0}次	敵に{0}回部位破壊する	타깃 부위 파괴 {0}회 진행하기	Destroy enemy parts {0} times						0	
+28	对目标的弱点造成伤害{0}	對目標的弱點造成傷害{0}	敵の弱点位置に{0}のダメージを与える	타깃 약점에 가한 대미지 {0}	Deal {0} DMG to enemy weakspots						0	
+29	行动耗时少于{0}秒	行動耗時少於{0}秒	{0}秒以内に行動を完了する	전투 시간 {0}초 미만	Mission Completed within {0} sec						0	
+30	击败目标{0}名	擊敗目標{0}名	敵を{0}体撃破する	타깃 {0}명 격파하기	Defeat {0} target(s)						0	
+31	撤退伙伴不超过{0}名	撤退夥伴不超過{0}名	撤退した仲間が{0}人以内	철수 파트너 {0}명 이하	No more than {0} unit(s) retreat						0	
+32	获得积分达到{0}	獲得積分達到{0}	獲得したPTが{0}に達する	점수 획득하기 {0}	Get {0} point(s)						0	
+33	获得积分达到{0}	獲得積分達到{0}	獲得したポイントが{0}に達する	점수 획득하기 {0}	Obtain {0} points						0	
+34	行动耗时少于{0}秒	行動耗時少於{0}秒	{0}秒以内に行動を完了する	전투 시간 {0}초 미만	Complete mission within {0} sec						0	
+35	累计造成{0}伤害	累計造成{0}傷害	与えたダメージが累計で{0}に達する	누적 {0} 대미지 입히기	Deal {0} DMG in total						0	
+36	完成关卡	完成關卡	ステージをクリアする	스테이지 완료	Complete the stage						0	
+37	最远距离达到{0}	最遠距離達到{0}	最大到達距離が{0}に達する	도달한 최대 거리 {0}	Max distance reaches {0}						0	
+38	造成{0}电击类型伤害	造成{0}電擊類型傷害	{0}の電撃系ダメージを与える	{0} 번개 유형 대미지를 입히기	Deal {0} Electrical DMG						0	
+39	造成{0}射击伤害	造成{0}射擊傷害	{0}の射撃ダメージを与える	{0} 사격 대미지를 입히기	Deal {0} Ballistic DMG						0	
+40	造成{0}暴击伤害	造成{0}暴擊傷害	{0}の会心ダメージを与える	{0} 크리티컬 대미지를 입히기	Deal {0} CRIT DMG						0	
+41	使用爆发技累计击败{0}个敌方目标	使用爆發技累計擊敗{0}個敵方目標	爆発技で合計{0}体の敵を撃破する	특수 스킬을 사용하여 누적 {0}명의 타깃 처치하기	Defeat a total of {0} enemies using Ultimate Skill						0	
+42	使用爆发技单次击败{0}个敌方目标	使用爆發技單次擊敗{0}個敵方目標	爆発技で一度に{0}体の敵を撃破する	특수 스킬을 사용하여 한 번에 {0}명의 타깃 처치하기	Defeat {0} enemies at once using Ultimate Skill						0	
+43	触发暴击{0}次	觸發暴擊{0}次	会心の一撃を{0}回発生させる	크리티컬 {0}회 발동하기	Trigger {0} Critical Hits						0	
+starfalse1	未达成关卡目标：{0}名使用{1}的队员参与行动	未達成關卡目標：{0}名使用{1}的隊員參與行動	ステージ目標未達成：{1}を使用する隊員が{0}人行動に参加する	목표 달성 실패: {1} 사용 팀원 {0}명 출전	Objective failed: {0} operative(s) using {1} deployed						0	
+starfalse2	未达成关卡目标：{0}队员参与行动	未達成關卡目標：隊員{0}參與行動	ステージ目標未達成：{0}が行動に参加する	목표 달성 실패: {0} 팀원 출전	Objective failed: {0} operative deployed						0	
+starfalse3	未达成关卡目标：无使用{0}的队员参与行动	未達成關卡目標：無使用{0}的隊員參與行動	ステージ目標未達成：{0}を使用する隊員が行動に参加していない	목표 달성 실패: {0} 미사용 팀원 출전	Objective failed: No operative using {0} deployed						0	
+starfalse4	未达成关卡目标：至少2名队员参与行动	未達成關卡目標：至少2名隊員參與行動	ステージ目標未達成：行動に参加する隊員が2人以上	목표 달성 실패: 최소 2명의 팀원 출전	Objective failed: At least 2 operatives deployed						0	
+starfalse5	建议提升当前队伍综合实力	建議提升當前隊伍綜合實力	小隊の総合実力を上げることをおすすめします	TIP: 현재 팀의 종합 전투력을 올려주세요.	Tip: Increase the current squad's power						0	

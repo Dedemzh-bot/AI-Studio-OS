@@ -1,0 +1,86 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+WorldBoss_txt1	冬日接力战	0	DLC34冬日接力战
+WorldBoss_txt2	周期一	0	DLC34冬日接力战
+WorldBoss_txt3	周期二	0	DLC34冬日接力战
+WorldBoss_txt4	暂未上榜	0	DLC34冬日接力战
+WorldBoss_txt5	周期二切换倒计时%s	0	DLC34冬日接力战
+WorldBoss_txt6	当前阵容排行第%s名	0	DLC34冬日接力战
+WorldBossResult_txt1	重新挑战	0	DLC34冬日接力战
+WorldBossResult_txt2	放弃挑战	0	DLC34冬日接力战
+WorldBossResult_txt3	保存退出	0	DLC34冬日接力战
+WorldBossResult_txt4	放弃挑战不消耗次数	0	DLC34冬日接力战
+WorldBossResult_txt5	剩余挑战次数：%s	0	DLC34冬日接力战
+WorldBossResult_txt6	作战记录已经成功保存	0	DLC34冬日接力战
+WorldBossrank_txt1	周期一阵容榜	0	DLC34冬日接力战
+WorldBossrank_txt2	周期一个人榜	0	DLC34冬日接力战
+WorldBossrank_txt3	周期二阵容榜	0	DLC34冬日接力战
+WorldBossrank_txt4	周期二个人榜	0	DLC34冬日接力战
+WorldBossrank_txt5	可挑战	0	DLC34冬日接力战
+WorldBossrank_txt6	本期挑战已结束	0	DLC34冬日接力战
+WorldBossrank_txt7	敬请期待	0	DLC34冬日接力战
+WorldBossrank_txt8	排行榜将在%s后锁定	0	DLC34冬日接力战
+WorldBossrank_txt9	%s后依据最高排名阵容发放邮件奖励	0	DLC34冬日接力战
+WorldBossrank_txt10	本期排行已结束，请查收邮件奖励	0	DLC34冬日接力战
+WorldBossrank_txt11	持有相同阵容	0	DLC34冬日接力战
+WorldBossrank_txt12	未持有相同阵容	0	DLC34冬日接力战
+WorldBossrank_txt13	排行结束后发放	0	DLC34冬日接力战
+WorldBossrank_txt14	排行榜每次进入刷新	0	DLC34冬日接力战
+WorldBossrank_txt15	排行公示剩余%s	0	DLC34冬日接力战
+WorldBossrank_txt16	本期排行榜统计已结束	0	DLC34冬日接力战
+WorldBossrank_txt17	参与挑战后可领取对应奖励	0	DLC34冬日接力战
+WorldBossaward_txt1	阶段奖励	0	DLC34冬日接力战
+WorldBossaward_txt2	阵容奖励	0	DLC34冬日接力战
+WorldBossaward_txt3	已过期	0	DLC34冬日接力战
+WorldBossaward_txt4	周期二开启	0	DLC34冬日接力战
+WorldBossaward_txt5	累计奖励	0	DLC34冬日接力战
+			
+WorldBoss_MissionTitle1	一起来攻略吧！	0	DLC34冬日接力战
+WorldBoss_MissionTitle2	朝着目标前进！	0	DLC34冬日接力战
+WorldBoss_MissionTitle3	合作才是重点！	0	DLC34冬日接力战
+WorldBoss_MissionTitle4	搞定收工！	0	DLC34冬日接力战
+WorldBoss_MissionTitle5	下半场开始！	0	DLC34冬日接力战
+WorldBoss_MissionTitle6	再接再厉啦！	0	DLC34冬日接力战
+WorldBoss_MissionTitle7	前面就是终点！	0	DLC34冬日接力战
+WorldBoss_MissionTitle8	通关留念！	0	DLC34冬日接力战
+WorldBoss_MissionTitle9	积分王1	0	DLC34冬日接力战
+WorldBoss_MissionTitle10	积分王2	0	DLC34冬日接力战
+WorldBoss_MissionTitle11	积分王3	0	DLC34冬日接力战
+WorldBoss_MissionTitle12	重在参与1	0	DLC34冬日接力战
+WorldBoss_MissionTitle13	重在参与2	0	DLC34冬日接力战
+WorldBoss_MissionTitle14	重在参与3	0	DLC34冬日接力战
+WorldBoss_MissionTitle15	二周目-积分王1	0	DLC34冬日接力战
+WorldBoss_MissionTitle16	二周目-积分王2	0	DLC34冬日接力战
+WorldBoss_MissionTitle17	二周目-积分王3	0	DLC34冬日接力战
+WorldBoss_MissionTitle18	二周目-重在参与1	0	DLC34冬日接力战
+WorldBoss_MissionTitle19	二周目-重在参与2	0	DLC34冬日接力战
+WorldBoss_MissionTitle20	二周目-重在参与3	0	DLC34冬日接力战
+WorldBoss_MissionDes1	达成周期一 25%进度	0	DLC34冬日接力战
+WorldBoss_MissionDes2	达成周期一 50%进度	0	DLC34冬日接力战
+WorldBoss_MissionDes3	达成周期一 75%进度	0	DLC34冬日接力战
+WorldBoss_MissionDes4	达成周期一 100%进度	0	DLC34冬日接力战
+WorldBoss_MissionDes5	达成周期二 25%进度	0	DLC34冬日接力战
+WorldBoss_MissionDes6	达成周期二 50%进度	0	DLC34冬日接力战
+WorldBoss_MissionDes7	达成周期二 75%进度	0	DLC34冬日接力战
+WorldBoss_MissionDes8	达成周期二 100%进度	0	DLC34冬日接力战
+WorldBoss_MissionDes9	周期一积分量达到档位1	0	DLC34冬日接力战
+WorldBoss_MissionDes10	周期一积分量达到档位2	0	DLC34冬日接力战
+WorldBoss_MissionDes11	周期一积分量达到档位3	0	DLC34冬日接力战
+WorldBoss_MissionDes12	周期一参与次数1次	0	DLC34冬日接力战
+WorldBoss_MissionDes13	周期一参与次数2次	0	DLC34冬日接力战
+WorldBoss_MissionDes14	周期一参与次数3次	0	DLC34冬日接力战
+WorldBoss_MissionDes15	周期二积分量达到档位1	0	DLC34冬日接力战
+WorldBoss_MissionDes16	周期二积分量达到档位2	0	DLC34冬日接力战
+WorldBoss_MissionDes17	周期二积分量达到档位3	0	DLC34冬日接力战
+WorldBoss_MissionDes18	周期二参与次数1次	0	DLC34冬日接力战
+WorldBoss_MissionDes19	周期二参与次数2次	0	DLC34冬日接力战
+WorldBoss_MissionDes20	周期二参与次数3次	0	DLC34冬日接力战
+			
+WorldBossaward_tip1	挑战次数已经耗尽	0	DLC34冬日接力战
+WorldBossaward_tip2	当前周期boss讨伐完成	0	DLC34冬日接力战
+WorldBossaward_tip3	boss挑战周期已更新	0	DLC34冬日接力战
+			
+bossname1	精准打击	0	DLC34冬日接力战
+bossname2	火力全开	0	DLC34冬日接力战
+bossdes1	自身每15次射击命中，特异类型伤害提升20%，持续10秒，最多叠加至4层。	0	DLC34冬日接力战
+bossdes2	装备特异类型武器时，使用常规技后，会使自身射击伤害提升40%并且无视目标30%的防御力，持续1秒。	0	DLC34冬日接力战

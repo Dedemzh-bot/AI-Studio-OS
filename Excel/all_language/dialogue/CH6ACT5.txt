@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	“峡谷”？听起来，就是我刚才路过的那个……	“峽谷”？聽起來，就是我剛才路過的那個……	まだ使える弾薬があったなんて。	 '협곡'? 방금 내가 지나쳤던 곳인가…	"The Canyon"? That sounds like where I just was...						0	
+2	……	……	ここはいったい何の場所？	…	...						0	
+3	弹匣快用完了。	彈匣快用完了。	弾倉がなくなりそう。	탄창이 거의 비어가네.	I'm almost out of ammo.						0	
+4	顺路补充一些吧。	順路補充一些吧。	ついでに補充しよう。	가는 길에 보충 좀 해야겠군.	Might as well top up.						0	

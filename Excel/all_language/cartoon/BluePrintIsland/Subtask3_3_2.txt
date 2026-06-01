@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	如果才华是种罪，我早该无期宣判！可判决书上写着，“抱歉我们不招人类”！	如果才華是種罪，我早該宣判無期徒刑！可是判決書上寫著，「抱歉我們不招人類」！	才能が罪だというなら、私はとっくに無期懲役！しかし判決書には「申し訳ないが人間は採用しません」と！	재능이 죄라면 난 벌써 무기 징역감이야! 하지만 판결문엔 이렇게 쓰여 있지, '죄송하지만 인간은 뽑지 않습니다!'	If talent's a crime, I'd be doing life! But my judgment reads, "Sorry, we don't hire humans!"						0	dlc30蓝图岛对话
+page1.2	请问……	請問……	あの……	저기…	Excuse me...						0	dlc30蓝图岛对话
+page1.3	正在嗨歌的夏克威弗睁开了紧闭的……单眼，从我和安卡希雅的身上扫过之后，又重新把眼睛眯上。	正在嗨唱的夏克威弗睜開了緊閉的……單眼，從我和安卡希雅的身上掃過之後，又重新把眼睛瞇上。	ノリノリで歌っていたシャークイフは、閉じていた片目を開け、私とアカシアを一瞥した後、また目を閉じた。	신나게 노래를 부르던 샤크 위버가 꼭 감았던… 외눈을 뜨더니, 나와 아카시아를 훑어보고는 다시 눈을 지그시 감았다.	Shackweif, busy jamming, cracked its one closed eye at Acacia and me, then shut it again.						0	dlc30蓝图岛对话
+page1.4	摆谱并不会让你更有魅力，大歌唱家。	擺架子並不會讓你更有魅力，大歌唱家。	カッコつけても魅力は増さないよ、アーティストさん。	잘난 척해 봤자 매력적으로 보이진 않아, 위대한 가수님.	Acting so aloof won't win you the audience, you know, star singer.						0	dlc30蓝图岛对话
+page1.5	究竟是批评还是褒奖，还是对我的先抑后扬？	究竟是批評還是褒獎，還是對我的先抑後揚？	それは批判なのか、賞賛なのか、それともけなしてから褒めるつもりか？	그건 도대체 비판이야, 칭찬이야, 아니면 칭찬을 위한 비판이야?	Is this scorn or sweet acclaim, or a shadow before my name?						0	dlc30蓝图岛对话
+page1.6	如你所见正义已经迟到，我比你们先一步阻止了纷扰。	如你所見正義已經遲到，我比你們先一步阻止了紛擾。	ご覧の通り正義は遅れてきた。私はあなたたちより一足先に騒動を鎮めたよ。	보다시피 정의가 늦었지만, 난 너희보다 먼저 혼란을 막았어.	Justice slept, but I awoke, quelling the coming storm.						0	dlc30蓝图岛对话
+page1.7	可不可以不要说谜语……	可不可以不要說謎語……	その話し方、やめてくれないかな……	수수께끼 같은 말은 하지 말아줄래…	Could you not speak in riddles...?						0	dlc30蓝图岛对话
+page1.8	游荡的恶鬼丑陋又喧闹，我手刃它立下功劳。	遊蕩的惡鬼醜陋又喧鬧，我手刃他立下功勞。	醜く騒がしく彷徨う悪鬼を、仕留めて手柄を立てる。	떠도는 악귀는 추하고 시끄러웠지. 내 손으로 처리하고 공을 세웠다고.	A ghastly fiend howled, and I struck it down with pride.						0	dlc30蓝图岛对话
+page1.9	为了蓝图岛的天朗气清，我在此宣告，我就是向亵渎音乐的恶鬼，射出审判的子弹的王！	為了藍圖島的天朗氣清，我在此宣告，我就是向褻瀆音樂的惡鬼，射出審判的子彈的王！	ビジョン島の青空のために、ここに宣言する。私こそが音楽を冒涜する悪鬼に、審判の弾丸を撃ち込んだキング！	설계의 섬의 맑은 하늘을 위해 선언하노니, 나는 음악을 모독하는 악귀에게 심판의 총알을 쏜 왕이로다!	For music's sake and skies left bright, hear my battle cry: "I am the king whose bullet flies!"						0	dlc30蓝图岛对话
+page1.10	我听懂了。听起来像是眼前这位高人替我们收拾了一个麻烦。	我聽懂了。聽起來像是眼前這位高人替我們收拾了一個麻煩。	わかった。この人が私たちのかわりに面倒事を片付けてくれたようだ。	이해했어. 눈앞의 고수께서 우리 대신 귀찮은 문제를 해결해 준 것 같네.	I think I get it. Sounds like this guy just took care of one of our troublemakers.						0	dlc30蓝图岛对话
+page1.11	确实如此，出于职业原因，我厌恶专业素养低劣还四处撒泼的同行。	確實如此，出於職業原因，我厭惡專業素養低劣還四處無理取鬧的同行。	その通り。職業柄、プロ意識が低い上にそこら中で暴れる同業者には虫唾が走る。	맞아. 직업적인 이유로, 전문성도 떨어지면서 곳곳에서 난동 부리는 동종업계 인간들이 정말 싫거든.	That's right. I can't stand fellow musicians who disrupt things with unprofessional noise.						0	dlc30蓝图岛对话
+page1.12	所以真有恶鬼在这飘荡？	所以真的有惡鬼在這飄蕩？	つまり、ここには本当に悪鬼がいたの？	그래서, 정말로 악귀가 여길 떠돌고 있었다고?	So, there really was a fiend wandering around here?						0	dlc30蓝图岛对话
+page1.13	没错，无敌的我立刻禁止了它的行为。它狰狞地边吼边叫！	沒錯，無敵的我立刻禁止了他的行為。他猙獰地邊吼邊叫！	そうさ。無敵の私が即座にその行為を止めた。奴は獰猛に叫びわめいた！	그래. 무적인 내가 즉시 그 녀석의 행동을 제지했지. 그 녀석이 험악한 얼굴로 고함을 질렀거든!	Yes, and the unstoppable me shut it down instantly. It was flailing and howling until the end!						0	dlc30蓝图岛对话
+page1.14	请问你究竟是怎么做到？	請問你究竟是怎麼做到的？	どうやって倒したんだ？	도대체 어떻게 했는데?	How did you manage that?						0	dlc30蓝图岛对话
+page1.15	抡起电吉他当作狼牙棒！	拿起電吉他當作狼牙棒！	エレキギターを狼牙棒として振り回した！	일렉기타를 곤봉처럼 휘둘렀지!	I swung my electric guitar like a mace!						0	dlc30蓝图岛对话
+page1.16	夏克威弗自说自话地兴奋起来。	夏克威弗自說自話地興奮起來。	シャークイフは一人で興奮し始めた。	샤크 위버가 혼자서 신이 나서 떠들기 시작했다.	Shackweif started getting animated, retelling the story.						0	dlc30蓝图岛对话
+page1.17	……在原地为我和安卡希雅表演了一通武术体操。	……在原地為我和安卡希雅表演了一通武術體操。	……そして、即座に私とアカシアに武術の腕を見せてくれた。	… 제자리에서 나와 아카시아에게 무술 체조를 선보여 주었다.	...And then performed a martial arts demonstration for Acacia and me.						0	dlc30蓝图岛对话
+page1.18	没想到夏克威弗还有这种力量，难怪尖尖耳如此崇拜它。	沒想到夏克威弗還有這種力量，難怪尖尖耳如此崇拜它。	シャークイフにこんな力があったなんて。ウサミミがファンになったのも納得だね。	샤크 위버에게 이런 파워가 있을 줄이야. 뾰족귀가 열성적으로 좋아하는 것도 이해가 되네.	Turns out Shackweif is a lot more powerful than I thought. No wonder Sharpear looks up to it.						0	dlc30蓝图岛对话
+page1.19	既然联络上了夏克威弗，我们为尖尖耳安排一场粉丝见面会吧。	既然聯絡上了夏克威弗，我們為尖尖耳安排一場粉絲見面會吧。	シャークイフと連絡が取れたことだし、ウサミミのためにファンミーティングでも企画しよう。	이제 샤크 위버를 만났으니, 뾰족귀를 위한 팬 미팅을 한번 주선해 볼까?	Now that we've met Shackweif, let's arrange a proper meet-and-greet for Sharpear.						0	dlc30蓝图岛对话

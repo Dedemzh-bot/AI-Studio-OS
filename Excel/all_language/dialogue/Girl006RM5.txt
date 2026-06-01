@@ -1,0 +1,105 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	蛋糕决斗的当天，我和晴都准时到达。	到了烘焙決鬥的當天，我和晴都準時抵達現場。	ケーキ対決の当日、私も晴も時間通りに会場に到着した。	케이크 결투 당일, 나와 하루는 모두 제시간에 맞춰 장소에 도착한다.	On the day of the baking contest, Haru and I arrived right on time.						0	
+2	我在大厅内扫视了一圈之后，最终选定芙提雅作为我的评委。	我在大廳內掃視了一圈之後，最終選定芙提雅作為我的評審。	ホールを見渡した私は、フリティアを審査員に選んだ。	로비를 한 바퀴 둘러본 후, 난 프티야를 심사위원으로 삼았다.	After doing a sweep of the hall, I finally decided on Fritia as my judge.						0	
+b-1											0	
+3	芙提雅小老师，有空吗？	芙提雅小老師，有空嗎？	フリティア先生、ちょっといい？	프티야, 시간 있어?	Professor Fritia, are you free?						0	
+4	怎么了怎么了？不会又有什么麻烦的事情想要麻烦芙提雅老师吧？	怎麼了怎麼了？不會又有什麼麻煩事想要麻煩芙提雅老師幫忙吧?	なになに？また面倒なことを頼みに来たんじゃないよね？	왜 그래? 설마 또 프티야한테 번거로운 걸 부탁하려는 건 아니겠지?	What's going on? Is there some sort of troublesome trouble that you're going to trouble me with?						0	
+b-2											0	
+5	你在说绕口令吗？	你在說繞口令嗎？	心外だな。	무슨 말을 그렇게 해?	Was that a tongue twister...?						0	
+b-3											0	
+6	其实是想请你吃蛋糕。	其實是想請你吃蛋糕。	ただケーキをご馳走したかっただけなのに。	사실은 케이크를 만들어 주고 싶어서 그래.	Actually, I want to invite you to eat some cake.						0	
+7	吃蛋糕？还有这种好事情？	吃蛋糕？還有這種好事？	ケーキ？そんなおいしい話が？	케이크? 갑자기 어쩐 일로?	Eat cake? Sounds too good to be true.						0	
+8	不会吃完蛋糕以后才说，有什么麻烦的事情想要麻烦芙提雅老师吧？	該不會在吃完蛋糕之後才說，又有什麼麻煩事想要請芙提雅老師幫忙吧？	ケーキを食べ終わったら、すぐフリティア先生に面倒なことをおねだりしないよね？	케이크를 먹고 나서 갑자기 프티야한테 번거로운 걸 부탁하려는 생각은 아니겠지?	After I finish the cake, are you going to reveal some troublesome trouble that you're going to trouble me with?						0	
+9	小太阳脸上写满了警惕。	小太陽臉上寫滿了警惕。	おひさまちゃんが思いっきり警戒している。	리틀썬의 표정에 경계심이 가득하다.	Little Sunshine was on high alert.						0	
+b-4											0	
+10	只是单纯品尝！	只是單純品嚐！	試食してもらうだけだから！	그냥 단순히 맛만 보는 거야!	You just need to taste it, okay!						0	
+b-5											0	
+11	想请你做蛋糕比赛的评委。	想請你做蛋糕比賽的評審。	ケーキ勝負の審査員をやってほしいんだ。	케이크 만들기 대결의 심사위원이 되어줬으면 좋겠어.	I want you to be a judge for a baking contest.						0	
+12	蛋糕比赛？	蛋糕比賽？	ケーキ勝負？	케이크 대결?	A baking contest?						0	
+13	她的眼睛立马亮起来。	她的眼睛立刻發亮。	彼女の目が一瞬でキラキラした。	그녀의 눈이 즉시 반짝인다.	Her eyes immediately lit up.						0	
+14	做评委，芙提雅老师可是专业的！	做評審，芙提雅老師可是專業的！	フリティア先生は審査員のプロだよ！	심사위원 역할은 이 프티야 님이 전문이지!	Alright, I'll be a judge! An incredibly professional judge!						0	
+15	与此同时，晴那边也已经找到了评委，竟然是星期三。	與此同時，晴那邊也已經找到了評審，竟然是星期三。	一方、晴も無事審査員を確保した。なんと、ウェンズデーだった。	동시에 하루도 심사위원을 데려왔는데, 의외로 웬스데이를 선택했다.	Haru had also found a judge — Wednesday.						0	
+16	我很怀疑星期三能否对蛋糕给出有参考性的评价……	我很懷疑星期三能否對蛋糕給出有參考性的評價……	ケーキにおいて、ウェンズデーから有意義な評価をもらえるかどうかは疑問だけど……	난 웬스데이가 케이크에 대해 참고 가치가 있는 평가를 할 수 있을지 매우 의문이다…	I was admittedly doubtful that Wednesday would be able to give an informed evaluation of our cakes...						0	
+17	不管怎么样，我已经决定全力以赴了。	不管怎麼樣，我已經決定全力以赴了。	とにかく、私は全力で頑張るつもりだ。	어쨌든 이미 최선을 다하기로 결심했다.	Regardless, I had already decided to give it my all.						0	
+18	分析员，你准备好了吗？	分析員，你準備好了嗎？	分析員、もう準備はいいか？	분석가, 준비됐어?	Adjutant, are you ready?						0	
+19	不知道这次，晴又做了哪些准备？	不知道這次，晴又做了哪些準備？	晴は今回、何を用意してきたんだろう？	하루가 이번에는 어떤 준비를 해왔을까?	Who knew what kind of preparations Haru had made this time?						0	
+b-6											0	
+20	那就开始吧。	那就開始吧。	では、始めようか。	그럼 시작하죠.	Yeah, let's get started.						0	
+21	好的，既然双方选手已经准备就绪……	好的，既然雙方選手已經準備就緒……	よし、選手は両方準備完了みたいだし……	좋아, 그럼 양쪽 선수 모두 준비하시고…	Okay then! Now that both of the contestants are ready...						0	
+22	芙提雅老师宣布！	芙提雅老師宣布！	フリティア先生から！	프티야가 선포한다!	Professor Fritia declares...						0	
+23	比赛！开始！	比賽！開始！	試合スタートを宣言する！	케이크 만들기 시합! 시작~!	Let the contest begin!						0	
+24	开始。	開始。	始め。	시작.	Go.						0	
+25	今天的解说由芙提雅老师与星期三老师担任，很荣幸为大家解说本场比赛。	今天的解說由芙提雅老師與星期三老師擔任，很榮幸為大家解說本場比賽。	フリティア先生からって言ったのに……ゴホン！解説はフリティア先生とウェンズデー先生が担当するよ！楽しもうね！	오늘의 해설은 프티야와 웬스데이가 맡게 되었습니다. 여러분을 위해 해설을 할 수 있게 되어 매우 영광입니다.	Professor Fritia and Miss Wednesday will be providing commentary for our contest today — what a huge honor.						0	
+26	好的，双方选手都气势满满，他们对视了一眼，空气中火花四射，看来今天必然迎来一场激战！	好的，雙方選手都氣勢滿點，他們對視了一眼，空氣中火花四射，看來今天將是一場激戰！	見て見て、選手はどっちも気合が入ってるね。目を合わせただけで火花がバチバチ、白熱の戦いの火蓋が今切られる！	자, 양쪽 선수 모두 기세가 좋습니다. 서로의 시선이 마주쳐서 불꽃이 튀는 것 같은데요, 오늘 정말 치열한 대결이 예상됩니다!	Both of our contestants are raring to go. Sparks are flying through the air as their eyes meet! Looks like we can expect a fierce battle today!						0	
+27	分析员选手与晴选手都在准备好的容器中加入了清水和白糖。哦吼吼，晴选手看来这几天做了不少功课……	分析員選手與晴選手都在容器中加入了清水和白糖。哦吼吼，晴選手看來這幾天做了不少功課……	分析員選手も晴選手も用意した容器に水と砂糖を入れた。ほほう、どうやら晴選手はここ数日随分と勉強してきたみたい……	분석가 선수와 하루 선수 모두 준비한 용기에 물과 설탕을 넣네요. 오호, 하루 선수는 며칠간 연습을 꽤 한 것으로 보입니다…	The Adjutant and Haru have both added water and sugar to their respective bowls. Oho! It appears that Haru has been doing her homework...						0	
+28	什么！晴选手竟然选择用机械臂代替打蛋器来打鸡蛋！天呐，我已经能看见碗里的旋涡了！这简直就是开挂！这简直就是犯……	什麼！晴選手竟然選擇用機械臂代替打蛋器來打雞蛋！天啊，我已經能看見碗裡的漩渦了！這簡直就是開外掛！這簡直就是犯……	なんと！晴選手は泡たて器の代わりに機械腕を使って卵をかき混ぜている！おお、もうボウルの中に渦巻きができている！まさにチート！もはやルール違……	이게 뭔가요! 하루 선수가 핸드믹서 대신 로봇팔로 계란을 젓습니다! 세상에, 그릇에 소용돌이가 생기다니! 치트키를 쓰는 거나 다름없습니다! 이건 반…	Wha—! Rather than using a whisk, Haru is using her mechanical arm to beat the eggs! Wow, it's like a tornado in the bowl! This has to count as cheating! It's against the—						0	
+29	星期三老师，你认为这算犯规吗？	星期三老師，你認為這算犯規嗎？	ウェンズデー先生、これはルールに反する行為だと思う？	웬스데이 씨는 반칙이라고 생각하십니까?	Miss Wednesday, do you think this behavior is against the rules?						0	
+30	不算。	不算。	いや。	아뇨.	No.						0	
+31	这边分析员也使出了绝招，他凭借在战场中丰富的经验，开始多线操作，一只手搅拌面糊，一只手打发奶油！这娴熟的技艺在整个公司都找不出第二人！	這邊分析員也使出了絕招，他憑藉在戰場中豐富的經驗，開始多線操作，一隻手攪拌麵糊，一隻手打發奶油！這嫻熟的技藝在整個公司都找不到第二人！	ここで分析員も奥の手を出した！豊富な戦闘経験を活かして同時作業！片手で生地、片手でクリームを作っているー！！	분석가도 필살기를 사용한 것 같습니다. 전장에서 쌓은 경험을 바탕으로 멀티태스킹 스킬을 발동하고 있습니다. 한 손으로는 반죽을, 나머지 한 손으로는 크림을 젓고 있습니다! 이렇게 숙련된 동작을 보일 수 있는 사람은 위그드라실에서 유일할 것 같은데요!	The Adjutant is also employing a neat trick! Thanks to his abundant experience on the battlefield, he has no problem multi-tasking — stirring the batter with one hand and whipping the cream with the other! No one else in the company could hold a candle to his skill!						0	
+32	星期三老师，你觉得谁会赢呢？	星期三老師，你覺得誰會贏呢？	ウェンズデー先生、この試合を制するのは誰だと思う？	웬스데이 씨, 누가 이길 것 같습니까?	Miss Wednesday, who do you think will win?						0	
+33	分析员。	分析員。	分析員。	분석가.	Adjutant.						0	
+34	原因呢原因呢？	原因呢原因呢？	理由は理由は？	그리고 그 이유는 무엇입니까?	Why? Why???						0	
+35	直觉。	直覺。	勘。	직감.	Call it a hunch.						0	
+36	……	……	……	…	...						0	
+37	伴随着芙提雅的闹腾，蛋糕大赛逐渐接近尾声。	伴隨著芙提雅的吵鬧，蛋糕大賽逐漸接近尾聲。	フリティアの騒ぎとともに、ケーキ大会は終わりに近づいた。	요란한 프티야와 함께, 케이크 대회도 끝을 향해 달려간다.	After Fritia made a scene, the cake contest came to an end.						0	
+38	我和晴各自制作的蛋糕也正慢慢成形。	我和晴分別製作的蛋糕也逐漸成形。	私と晴がそれぞれ作っているケーキも徐々に形になってきている。	나와 하루가 각자 만든 케이크도 점점 모양이 잡힌다.	The cakes that Haru and I both made were slowly coming together.						0	
+39	现在两边的蛋糕都已出炉，并抹好奶油。	現在兩邊的蛋糕都已出爐，並抹好奶油。	すでに両方とも生地を焼きあげ、クリームを塗り終わった。	양쪽의 케이크가 모두 완성되었고, 크림이 올려졌다.	At this point, both cakes were out of the oven and covered with icing.						0	
+40	晴甚至还用裱花袋在蛋糕表面做了几朵奶油花，放上一些自制巧克力装饰作为点缀。	晴甚至還用擠花袋在蛋糕表面做了幾朵奶油花，放上一些自製巧克力裝飾來點綴。	晴は口金でケーキの表面にクリームの花をいくつか作り、手作りチョコも何枚か飾った。	하루는 짤주머니로 케이크 위에 크림으로 된 꽃을 만들고 직접 만든 초콜릿을 올려 장식하기까지 한다.	Haru was even piping a few buttercream flowers and placing some handmade chocolates on her cake as decoration.						0	
+41	比起来，我的蛋糕就朴实多了，只用刮刀平整地抹了奶油——因为时间限制，没来得及做过多装饰。不过，在味道上我有绝对的信心。	相較之下我的蛋糕就樸素多了，只用刮刀平整地抹了奶油——因為時間限制，來不及做裝飾。不過，在味道上我非常有自信。	それに比べて私のケーキは……ただクリームを平らに塗っただけ——飾りに力を入れる暇はなかった。でも、味には絶対的な自信がある。	그와 비교하면 내 케이크는 훨씬 소박하다. 그냥 커터칼로 크림을 펴 발랐을 뿐, 시간이 모자라서 장식을 하진 못했다. 하지만 맛에서는 절대적으로 이길 자신이 있었다.	My cake was much more modest in comparison. I didn't have any time left for decorating, so I ended up just spreading the icing evenly over the cake with a knife. Even so, I had complete confidence in the flavor.						0	
+42	呼……	呼……	ふぅ……	후우…	Phew...						0	
+43	分析员，现在还有信心一定可以赢我吗？	分析員，現在還有信心一定可以贏我嗎？	分析員、まだ勝てる自信があるのか？	분석가, 아직도 날 이길 수 있을 거라고 생각해?	Adjutant, are you still confident that you can beat me?						0	
+b-7											0	
+44	当然，这可是事关荣誉的比赛。	當然，這可是事關榮譽的比賽。	もちろん。誇りに関わる勝負だからな。	당연하죠. 명예가 달린 내기인데.	Of course. This is a matter of honor, after all.						0	
+45	评委们，请开始品尝吧。	評審們，請開始品嚐吧。	では審査員の方々、試食していただこう。	심사위원, 다 됐으니 한 번 먹어봐.	Judges, please begin tasting.						0	
+46	那芙提雅老师开动了呦。	那芙提雅老師開動了喔。	実食〜！いっただっきまーす♪	그럼 프티야가 한번 시식해 볼게.	Alright, Professor Fritia is digging in.						0	
+47	（啊呜啊呜）	（啊姆啊姆）	（モグモグ）	(와구와구)	Mmm, mmm!						0	
+b-8											0	
+48	评委不能光顾着吃哦。	評審不能只顧著吃哦。	審査員は食べるだけじゃダメだからね。	심사위원, 너무 먹는 것에만 집중하지는 말고.	You're a judge — don't just wolf it down.						0	
+49	我正在充分品尝！好不容易破例吃一回甜食！	我正在充分品嚐！好不容易破例吃一次甜食！	せっかくの甘いものだから、じっくり味わっているのよ！	충분히 음미 중이야! 오랜만에 디저트를 맛보는 거라!	I'm simply savoring it a bit first! It's not every day I get to eat this much dessert!						0	
+50	芙提雅老师要开始点评了……	芙提雅老師要開始點評了……	フリティア先生の評価は……	그럼 이제 평가를 시작할게…	Professor Fritia is about to share her thoughts...						0	
+51	嗯……分析员的蛋糕……软硬适中，很甜很好吃！	嗯……分析員的蛋糕……軟硬適中，很甜很好吃！	ふむ……分析員のケーキは……口当たりがいいし、甘くて美味しい！	음… 분석가의 케이크는… 적당히 부드럽고 아주 달아서 맛있어!	Mmm... the Adjutant's cake... has a great texture. It's sweet and yummy!						0	
+52	蛋糕坯的蓬松感很好，奶油打发得绵密均匀，气泡细致，状态稳定，口感很好。整体甜度适中，不会过于甜腻。	蛋糕胚的蓬鬆感很好，奶油綿密均勻且氣泡細緻，整體口感很好。整體甜度適中，不會過於甜膩。	生地がふんわりしていて、綿密に仕上げられたクリームも気泡が細かく安定していてなめらかだ。全体的に甘さが程よく、くどくない。	케이크 시트가 적당히 부푼 느낌이야. 크림을 아주 촘촘하고 균등하게 휘핑해서 입자도 작고 안정적인 상태라서 식감이 아주 좋아. 전체적인 당도도 적당해서 너무 느끼하지 않네.	The cake itself is fluffy and light, with a good amount of air bubbles. The icing is dense and evenly whipped, while the flavor is excellent. It is moderately sweet — not too sugary.						0	
+53	如果要从零到一百打分的话，我给分析员九十分。	如果要從零到一百打分的話，我給分析員九十分。	100点満点中、90点ってところだ。	100점을 만점으로 해서 점수를 매기자면, 분석가에게 90점을 주고 싶어.	I would give the Adjutant's cake a 90 out of 100.						0	
+54	没想到是星期三给出了翔实评价，小太阳反而词穷了。	沒想到是星期三給出了詳細評價，小太陽反而詞窮了。	ウェンズデーが具体的な評価を出し、おひさまちゃんはただの感想しか言えないとは思わなかった。	웬스데이가 이렇게까지 상세하기 평가를 내릴 줄은 몰랐다. 리틀썬이 오히려 말문이 막힌 것 같다.	Unexpectedly, Wednesday gave a very detailed evaluation, while Little Sunshine was at a loss for words.						0	
+55	再评价一下晴小前辈的蛋糕！	再評價一下晴小前輩的蛋糕！	これから晴先輩のケーキを採点するね！ぱくっ♪	이제 하루 선배의 케이크를 평가해 볼게!	Let's try Captain Haru's cake now!						0	
+56	简单来说……需要一边喝水一边吃。	簡單來說……需要一邊喝水一邊吃。	これは……お水飲みながらじゃないとムリかも。	간단하게 말하면… 먹을 때 물을 같이 마셔줘야 할 것 같아.	To put it simply... you need to drink water as you eat it.						0	
+57	蛋糕坯烤制时间过长，水分已经蒸发了。奶油有些过度打发，已经出现油水分离的现象。	蛋糕胚烤製時間過長，水分已經蒸發了。奶油有點過度打發，已經出現油水分離的現象。	生地を焼きすぎて水分が蒸発していて、クリームも必要以上にかき混ぜたせいで油と水分が分離している。	케이크 시트가 너무 오버쿡돼서 수분이 모두 증발했어. 크림도 너무 많이 저어서 그런지 물과 기름이 분리됐고.	The cake was baked for too long, drying it out. The cream is slightly over-whipped, and the oil and water have already begun to separate.						0	
+58	队长的蛋糕，我给五十九分。	隊長的蛋糕，我給五十九分。	隊長のケーキは59点程度だろう。	대장의 케이크는 59점을 줄게.	I would give the Captain's cake a score of 59.						0	
+59	烤制时间过长，这怎么可能？	烤製時間過長，這怎麼可能？	焼きすぎ？そんなまさか？	오버쿡이라니, 그럴 수가?	It was baked for too long? How could that happen?						0	
+60	我严格按照菜谱上的时间……昨天晚上练习也没有出问题。	我嚴格按照食譜上的時間……昨天晚上練習也沒有出問題。	レシピ通りにやってたし……昨夜練習した時にも問題なかった。	레시피에 적힌 시간은 분명 준수했는데… 어제저녁에 한 연습에서도 문제없었고.	I followed the recipe to a T... I even practiced last night with no issues.						0	
+b-9											0	
+61	昨晚你是用这里的烤箱练习的吗？	昨晚你是用這裡的烤箱練習的嗎？	昨夜はここのオーブンで練習したのか？	어제 연습할 때 여기 오븐으로 했어요?	Did you practice with the oven here last night?						0	
+62	是我自己买的烤箱……我明白了，烤箱的火力不同，虽然温度设置相同，但还是有差别。	是我自己買的烤箱……我明白了，烤箱的火力不同，雖然溫度設定相同，但還是有差別。	自分で買ったものだ……そうか、オーブンの火力が違うから、同じ温度に設定しても結果が異なるのか。	내가 산 오븐으로 했어… 그렇구나, 오븐의 화력에 따라서 설정한 온도가 같아도 차이가 있나 보네.	No, it was an oven I bought myself... I understand — the ovens have different wattages, so there was a difference even though I used the same temperatures.						0	
+b-10											0	
+63	奶油的问题也一样。	奶油的問題也一樣。	クリームも同じだ。	크림도 똑같아요.	It's the same with the icing.						0	
+b-11											0	
+64	只能通过眼睛来确认食材的状态，灵活调整烹饪时间。	只能藉由雙眼來確認食材的狀態，隨時調整烹飪時間。	食材の状態を目で確認し、それに合わせて調理時間を調整するしかないから。	육안으로 식재료의 상태를 확인하고 조리 시간을 능동적으로 조절해야 해요.	You have to look at the state of the ingredients and adjust the recipe as necessary.						0	
+65	没有绝对的标准……吗？	沒有絕對的標準……嗎？	絶対的な基準はない……ということか？	절대적인 기준은 없다… 그건가?	There's no set standard...?						0	
+66	分析员，是你赢了。	分析員，是你贏了。	自分の負けだ、分析員。	분석가, 네 승리다.	Adjutant, you win.						0	
+67	在这场比赛里，我学到了很多。	在這場比賽當中，我學到了很多。	この勝負でいろいろ勉強させてもらった。	이번 내기에서 많은 걸 배웠어.	I learned a lot during this contest.						0	
+68	终于出了练瑜伽时受的那口恶气……当然我只是出于玩笑这么想着。	終於出了練瑜珈時受的那股氣……當然我只是出於玩笑這麼想著。	やっとヨガの腹いせが成功した……と、私は面白半分で思っていた。	드디어 요가의 수모를 갚았다… 물론 이런 생각은 장난이지만…	I had finally gotten back at Haru for the humiliation I faced during our yoga session... Of course, I didn't take it that seriously.						0	
+69	跟瑜伽不一样，你做蛋糕确实很厉害。	跟瑜珈不一樣，你做蛋糕確實很厲害。	ヨガと違って、本当にいいケーキを作ったな。	요가와는 다르게 베이킹에 있어서는 상당한 실력자가 분명해.	You're really good at baking, unlike yoga.						0	
+70	胜利的微笑，僵在了我脸上。	勝利的微笑，在我臉上完全僵住。	私の顔には勝利の微笑みが浮かんでいた。	내 얼굴엔 승리의 미소가 번졌다.	A triumphant smile stretched across my face.						0	
+71	本评委宣布，分析员在蛋糕对决中获胜！	本評審宣布，蛋糕對決的獲勝者為分析員！	では、ケーキ勝負の勝者——分析員！	본 심사위원은 분석가가 케이크 만들기 내기에서 승리했음을 발표합니다!	The judges declare that the Adjutant wins the baking showdown!						0	
+72	好了好了，比赛结束！可以开始好好吃了吧？	好了好了，比賽結束！可以讓我專心吃了吧？	さてさて、試合終了！もうちゃんと食べてもいいよね？	자자, 내기 끝! 이제 제대로 먹어볼 수 있겠지?	Okay, okay, the contest is over! So can we finish eating now!?						0	
+73	不够的话，我的冰箱里还有很多，都是这几天练习时制作的。	不夠的話，我的冰箱裡還有很多，都是這幾天練習時製作的。	足りなかったら、冷蔵庫にもたくさんある。ここ数日練習で作ったものだ。	부족하면 냉장고에 아직 더 있으니까 가져가서 먹어. 최근 며칠 동안 연습을 하면서 만들어 놓은 것들이야.	If you want more, there are still several more cakes in the refrigerator that I made while I was practicing.						0	
+b-12											0	
+74	你到底做了多少个蛋糕啊……	你到底做了多少個蛋糕啊……	一体いくつ作ってたんだ……	케이크를 도대체 몇 개나 만들었던 건가요…	How many cakes did you end up making...?						0	
+75	二十三个。	二十三個。	23個だ。	23개.	23.						0	
+76	二十三个……	二十三個……	23……	23개…	23...						0	
+77	没想到练习这么多次，还是输给分析员了。	沒想到練習這麼多次，還是輸給了分析員。	こんなに練習したのに、結局分析員に負けるとは思わなかった。	연습을 이렇게 많이 했는데도 분석가에게 질 줄은 몰랐어.	I didn't think I would lose to you after practicing so many times, Adjutant.						0	
+b-13											0	
+78	既然做了这么多蛋糕，我有一个提议……	既然做了這麼多蛋糕，我有一個提議……	そんなにたくさん作ったんなら、ひとつ提案があるんだが……	케이크를 많이 만들어 놨다고 하니 아이디어가 하나 떠올랐어요…	Well, since you made so many cakes, I have a proposal...						0	
+b-14											0	
+79	不如来一场蛋糕大战吧！	不如來一場蛋糕大戰吧！	ケーキバトルでもやろうか！	케이크 싸움해요!	Let's have a cake fight!						0	
+80	某种意义上，这应该也算是实战训练。	某種意義上，這應該也算是實戰訓練。	ある意味、これも実戦訓練の一環になるはずだ。	어떻게 보면 실전 훈련이라고 할 수 있다.	In a way, this could count as combat training.						0	
+81	我看到芙提雅连忙举手。	我看到芙提雅連忙舉手。	フリティアが速やかに手を挙げた。	프티야가 곧바로 손을 드는 것이 보인다.	I saw Fritia's hand shoot up into the air.						0	
+82	我同意我同意！	我同意我同意！	賛成！	나도! 찬성!	Yes! I agree!						0	
+83	分析员想的话，我也可以。	分析員想的話，我也可以。	分析員がそうしたいなら、私に問題はない。	분석가가 원한다면, 나도 찬성이야.	If the Adjutant wants to, I am okay with it.						0	
+b-15											0	
+84	晴呢？	晴呢？	晴は？	하루는요?	Haru?						0	
+85	等我用力把奶油从脸上抠掉……看见晴正举起另一个蛋糕瞄准我。	在我正用力把奶油從臉上抹掉時……看見晴正舉起另一個蛋糕瞄準我。	私は全力で顔のクリームを拭くと……もう一つのケーキを持ち上げて私を狙っている晴が目に入った。	겨우 크림을 얼굴에서 지웠는데… 하루가 다른 케이크를 들고 나를 조준하고 있는 모습이 보인다.	As I was trying my best to wipe the cream off my face... I saw Haru aiming at me with another cake in hand.						0	
+86	嗯？	嗯？	ん？	왜 그래?	Huh?						0	
+87	分析员？你还没准备好吗？	分析員？你還沒準備好嗎？	まだ準備が終わってないのか、分析員？	분석가? 아직도 준비가 덜 된 거야?	Adjutant? Are you not ready?						0	
+88	战争，可不会等你准备好才开始。	戰爭，可不會等你準備好才開始。	戦場でそんな悠長なことは言ってられないぞ。	전쟁은 네가 준비할 시간을 주지 않는다고.	War waits for no one.						0	

@@ -1,0 +1,104 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	星期三徒手掀开机甲顶端的合金舱门，将驾驶员从缓冲液中拎出。	星期三徒手掀開機甲頂端的合金艙門，將駕駛員從緩衝液中拉出。	ウェンズデーは素手で機甲の頂部にある合金製のハッチを捻じ曲げ、パイロットを緩衝液の中から引き上げる。	웬스데이가 맨손으로 기갑 꼭대기에 있는 합금 게이트를 열고 완충 용액 속에 담긴 조종사를 집어 꺼낸다.	Wednesday opened the hatch on the top of the mech with her bare hands, pulling the pilot from the buffer fluid.						0	
+2	在电浆液泄漏引发连锁反应之前，她单手提着机甲驾驶员跳出了爆炸区域。	在電漿液洩漏引發連鎖反應之前，她單手提著機甲駕駛員跳出了爆炸區域。	イオン液の漏洩で連鎖反応を引き起こす前に、彼女は片手でパイロットを担いで爆発範囲から離れた。	그리고 플라즈마가 누출돼 연쇄 폭발이 일어나기 전, 조종사와 함께 자리를 떠난다.	With the mech pilot in one arm, she leaped away from the explosion as the leaking plasma triggered a chain reaction.						0	
+3	劲风吹拂起少女的发丝，机甲殉爆的火光将星期三映衬得格外娇小。	勁風吹起少女的髮絲，機甲絢爛的火光令星期三顯得格外嬌小。	爆炎が強い風を生み、ウェンズデーの髪を巻き上げる。その姿は戦乙女の様に美しく映った。	강한 바람에 소녀의 머리카락이 날렸고, 기갑의 폭발은 웬스데이를 유독 작아보이게 했다.	The wind whipped through Wednesday's hair, her figure painted tiny against the flames of the exploding mech.						0	
+4	原来是世界树公司的人……海姆达尔部队，对吧？	原來是世界樹公司的人……海姆達爾部隊，對吧？	ユグドラシルの人間か……ヘイムダル部隊、だろ？	위그드라실 출신이었나… 헤임달 부대, 맞지?	So they're from Yggdrasil... The Heimdall Force, right?						0	
+5	看来踢到硬茬子了。	看來踢到鐵板了。	厄介な相手のようだ。	하필 힘든 상대가 걸렸군.	Looks like we've hit a roadblock.						0	
+6	被星期三从机甲残骸中救出的郊狼驾驶员，没有流露出丝毫惧怕或者紧张，只是冷漠地审视我们每个人。	被星期三從機甲殘骸中救出的郊狼駕駛員，沒有顯露絲毫懼怕或者緊張的反應，只是冷漠地審視我們每個人。	ウェンズデーに機甲の残骸から助けられたコヨーテのパイロットは少しも恐れと焦りを見せず、ただ冷静に私たちを見つめた。	웬스데이가 기갑의 잔해 속에서 꺼낸 코요테 조종사는 두려움도 긴장도 보이지 않았다. 오히려 차가운 시선으로 우리를 볼 뿐…	The Coyote pilot who Wednesday rescued from the mech displayed no fear or anxiety, instead gazing at each of us indifferently.						0	
+b-1											0	
+7	你们搬走的武器在哪里？	你們搬走的武器在哪裡？	君たちが持ち去った武器はどこだ？	너희가 옮긴 무기는 어디에 있지?	Where are the weapons you guys took?						0	
+8	说了你们就能放我走吗？	說了你們就能放我走嗎？	吐いたら解放するのか？	말하면 풀어주기라도 하게?	If I tell you, will you let me go?						0	
+b-2											0	
+9	我们会向<snowbreak>军方</>建议从宽处理。	我們會向<snowbreak>軍方</>建議從寬處理。	<snowbreak>軍</>に寛大な処置をとるように提案しよう。	<snowbreak>군부</>에 선처를 요청할 순 있어.	We'll recommend <snowbreak>the Military</> goes easy on you.						0	
+10	你说这话，自己信吗？	你說這話，自己信嗎？	フン……そんなことで説得できるとでも？	본인이 말하고도 뭔가 웃기지 않아?	Do you even believe yourself when you say that?						0	
+11	我总觉得……面前这个戴着面罩的郊狼，眉眼间有一种说不清楚的熟悉感。	我總覺得……眼前這名戴著面罩的郊狼，眉宇之間有一種莫名的熟悉感。	……この仮面をつけたコヨーテに、なぜか言葉では言い表せない懐かしさを感じる。	뭔가… 눈 앞에서 마스크를 쓰고 있는 코요테의 눈을 보니 알 수 없는 익숙함이 느껴진다.	I couldn't help but feel... an inexplicable sense of familiarity in the masked Coyote's eyes before me.						0	
+12	太阳穴有些胀痛，可能是刚才受到了“雪”的影响。	我感到太陽穴有點脹痛，可能是受到剛才“雪”的影響。	こめかみが腫れて少々痛む。さっきの「キオーン」の影響かもしれない。	순간 관자놀이가 지끈거린다. 아마도 방금 있었던 '눈'의 영향을 받아서 그런 것 같다.	My temples throbbed, most likely due to the "Snow" just now.						0	
+13	分析员，我们从他身上搜出来了不少抑制剂。	分析員，我們從他身上搜出來了不少抑制劑。	分析員、彼の持ち物から抑制剤を多数発見した。	분석가, 코요테 녀석한테서 꽤 많은 억제제가 나왔어.	Adjutant, we found quite a few Inhibitors on him.						0	
+14	当看到那几支抑制剂时，我留意到他眼神中带有明显的慌乱。	當看到那幾支抑制劑時，我留意到他眼神中閃過了慌亂。	取り出された抑制剤を見て、彼は明らかに動揺した。	억제제를 본 코요테가 눈에 띄게 당황하는 모습을 보인다.	As soon as he saw those Inhibitors, I noticed the clear panic in his eyes.						0	
+15	……	……	……	…	...						0	
+16	如果你们能把这几支抑制剂还给我，我可以带你们去存放武器的地方。	如果你們能把這幾支抑制劑還給我，我可以帶你們去存放武器的地方。	その抑制剤を返してくれれば、武器の保管場所に案内する。	그 억제제들을 내게 돌려주면, 무기를 둔 곳으로 안내하지.	If you give those Inhibitors back to me, I can show you where the weapons are being held.						0	
+b-3											0	
+17	我需要先看到证明。	我需要先看到證明。	先に案内してくれ。	네가 안내할 능력이 있다는 걸 먼저 증명해야겠어.	I need to see proof first.						0	
+18	……好，跟我来。	……好，跟我來。	……分かった、ついてこい。	… 좋아. 따라와.	...Alright. Come with me.						0	
+19	至少他没有骗我们，遗失的武器确实有一部分在这里。	至少他沒有騙我們，遺失的武器確實有一部分在這裡。	少なくとも嘘は言ってないみたいね、紛失した武器の一部は確かにここにある。	적어도 우릴 속이진 않았어. 유실된 무기의 일부분이 확실히 여기에 있어.	At least he wasn't lying to us. Some of the missing weapons are actually here.						0	
+20	不过嘛，数目还是对不上。	不過嘛，數目還是對不上。	でも、やっぱり数が合わない。	하지만, 숫자가 맞지 않아.	But the numbers still don't match up.						0	
+21	我揉了揉愈发胀痛的太阳穴。	我揉了揉越發脹痛的太陽穴。	頭痛が激しくなってきた。こめかみを揉んでみる。	난 계속해서 지끈거리는 관자놀이를 문질렀다.	I rubbed my temples, which were growing more painful by the minute.						0	
+b-4											0	
+22	其他武器呢？	其他武器呢？	他の武器は？	나머지 무기는 어디에 있지?	What about the other weapons?						0	
+23	其他武器，我卖掉了。	其他武器，我賣掉了。	売った。	나머지는 내가 팔아넘겼어.	I sold them.						0	
+b-5											0	
+24	卖给谁了？	賣給誰了？	誰に売った？	누구한테 팔았지?	To who?						0	
+25	叶，你们可能听过他的另一个名字：“狼王”。	葉，你們可能聽過他的另一個名字：“狼王”。	葉だ。「狼王」って二つ名の方が、有名かもしれないな。	블레이드, 너희가 들어본 이름이라면 '늑대왕'이려나.	Ye. You might know him by his other name, the "Coyote Alpha."						0	
+b-6											0	
+26	在哪能找到“狼王”？	在哪裡能找到“狼王”？	「狼王」はどこだ？	'늑대왕'은 어디에 있지?	Where can we find this "Coyote Alpha"?						0	
+27	如果他想见你，在哪都能找到。如果他不想见你，在哪都找不到。	如果他想見你，在哪裡都能找到。如果他不想見你，在哪裡都找不到。	向こうがお前に会いたければ、簡単に見つけられる。そうでなければ、彼を見つけることはまずできないだろう。	늑대왕이 널 만나고 싶으면 어디에서든지 만나게 될 거야. 하지만 그가 원하지 않는다면 절대 찾을 수 없지.	If he wants to see you, he'll find you, no matter where you are. If he doesn't, you won't find him anywhere.						0	
+28	喂，你到底会不会好好说话？	喂，你到底會不會好好說話？	回りくどいことはいい、要点だけを言って。	어이, 말 똑바로 안 해?	Hey, can you just get to the point?						0	
+29	我真不知道叶的据点在哪里。	我真的不知道葉的據點在哪裡。	俺は葉の拠点がどこにあるのか、本当に知らないんだ。	난 정말 블레이드 아지트가 어디에 있는지 몰라.	I really don't know where Ye's stronghold is.						0	
+30	分析员，要怎么处理他？	分析員，要怎麼處理他？	分析員、彼をどうする？	분석가, 이 녀석을 어떻게 할 거지?	Adjutant, what should we do with him?						0	
+31	还有这些抑制剂。	還有這些抑制劑。	それに、この抑制剤も。	그리고 이 억제제들은?	And these Inhibitors.						0	
+32	我看见这位“郊狼”用恳求的目光看着我，牙齿紧紧咬住嘴唇。那种熟悉感愈发强烈。	我看見這位“郊狼”用懇求的目光看著我，牙齒緊緊咬住嘴唇。那種熟悉感越發強烈。	この「コヨーテ」は、私たちが気に食わないながらも目の奥からは救いを求める色を覗かせ、唇を噛んでいる。自分の中で懐かしさが増すのを感じた。	'코요테'가 입술을 깨문 채, 간절한 눈빛으로 날 바라본다. 그러자 왠지 모르게 그에게 익숙했던 느낌이 더 강해졌다.	I watched as the "Coyote" looked at me expectantly, his lip clenched between his teeth. The sense of familiarity I felt grew more intense.						0	
+b-7											0	
+33	把他移交给军方处理。	把他移交給軍方處理。	彼を軍に引き渡す。	군부에 넘겨.	Turn him over to the Military.						0	
+b-8											0	
+34	抑制剂……放在他刚才指定的位置。	抑制劑……放在他剛才指定的位置。	抑制剤は……彼がさっき指定した場所に置いておく。	억제제는… 아까 녀석이 말했던 곳에 두고.	As for the Inhibitors... put them where he said to.						0	
+35	很快，安全部负责回收运载火箭的人员赶到，着手搬运火箭内尚且完好的武器和设备，同时也对火箭内部进行了详细的勘察取证。	不久後安全部負責回收運載火箭的人員趕來了，他著手搬運火箭內尚且完好的武器和設備，同時也對火箭內部進行了詳細的勘查取證。	程なくして、輸送ロケットの回収を担当する安全部が到着し、ロケット内に残された武器や機器の搬出作業を開始した。同時に、ロケット内部の入念な調査が始まる。	곧 안전부의 로켓 회수 요원이 도착했다. 그들은 로켓에 있는 무기와 장비를 챙기고, 내부를 상세히 조사한 뒤 관련 증거물들을 수집했다.	Soon, personnel from the Security Department arrived to recover the rocket. They began to transport the remaining weapons and equipment from inside the craft.						0	
+36	郊狼藏匿武器的窝点，我也安排了人手仔细搜查。	郊狼藏匿武器的據點，我也安排了人手仔細搜查。	コヨーテが武器を隠した拠点も、人を派遣して徹底的に捜索した。	이어서 난 코요테가 무기를 숨긴 곳에 사람을 보내 수색하게 했고,	I also arranged for a detailed search of the hideout where the Coyotes stashed the weapons.						0	
+37	没想到，很快就有了意外收获……	沒想到，很快就有了意外收穫……	こんなにも早く収穫があるとは思わなかったが……	머지않아 예상외의 수확이 생기는데…	I had no idea that we would soon discover something unexpected...						0	
+38	我跟随星期三和芬妮回到了郊狼藏匿武器的据点……说是据点，倒不如说更像是已经废弃的地下实验室。	我跟隨星期三和芬妮回到了郊狼藏匿武器的據點……說是據點，倒不如說更像是已經廢棄的地下實驗室。	私はウェンズデーとファニーに同行して、コヨーテが武器を隠した拠点に戻った……拠点と言うよりも、廃棄された地下研究室と言った方が適切かもしれない。	웬스데이와 페니를 따라 들어와 보니, 아지트라기보단 그냥 폐기된 지하 실험실 같았다.	I followed Wednesday and Fenny back to the stronghold where the Coyotes had hidden the weapons... It looked more like an underground lab than a hideout.						0	
+39	到处都堆积着郊狼的杂物和已经报废的仪器。	到處都堆積著郊狼的雜物和已經報廢的儀器。	至る所にコヨーテの荷物や廃棄された機器が積み重なっている。	곳곳엔 코요테들의 잡다한 물건들과 폐기된 기계들이 널브러져 있었다.	Junk and obsolete devices were piled up everywhere, left behind by the Coyotes.						0	
+40	他们是在建渣堆里发现那台机器的。	他們是在建築垃圾堆裡發現那台機器的。	彼らは廃墟であの機器を発見したようだ。	폐허 더미에서 기계를 발견했어.	They found that machine in a pile of debris.						0	
+41	目前还在正常运转。	目前還在正常運作中。	今もまだ正常に動作している。	아직까지 잘 돌아가고 있는 것 같아.	It's still functioning normally.						0	
+42	这不是休眠舱吗？	這不是休眠艙嗎？	これ冬眠カプセルじゃない？	이거, 수면 캡슐 아니야?	Isn't this a hibernation pod?						0	
+43	啊！	啊！	あ！	으앗!	Ah–!						0	
+44	芬妮不知触动了什么按键，休眠舱开始恢复运转，厚重的金属保护盖像双翼一样向两侧展开，折叠收起。	芬妮不知觸動了什麼按鍵，休眠艙開始恢復運作，厚重的金屬保護蓋像雙翼一樣向兩側展開並折疊收起。	ファニーがボタンに触れたのか、冬眠カプセルが再起動した。重い金属カバーが機械音と共に両側に展開して折り畳まれていく。	페니가 뭔가를 눌렀는지, 수면 캡슐이 다시 가동하기 시작했다. 묵직한 금속 보호막이 날개처럼 양쪽을 향해 펼쳐졌다가 접혔다.	Without knowing, Fenny had touched a button and caused the pod to activate. The thick, metal cover opened up on both sides like wings before folding down.						0	
+45	冷冻液的蒸汽散去之后，一名银灰发的少女出现在眼前。	冷凍液的蒸汽散去之後，一名銀灰髮的少女出現在眼前。	冷凍液の蒸気が晴れると、中から銀髪の少女が現れた。	냉동액 때문에 생긴 수증기가 조금씩 사라지고, 백발 소녀의 모습이 조금씩 드러나기 시작했다.	The vapor from the cryo-liquid dissipated, revealing a girl with silver hair.						0	
+46	嗯？里面还真躺着一个睡美人？还活着吗？	嗯？裡面還真的躺著一個睡美人？還活著嗎？	え！？本当に眠り姫が中にいたの？生きてる？	응…? 안에 공주님이 잠들어 있잖아? 아직 살아 있나?	Huh? Is there seriously a sleeping beauty inside? Is she still alive?						0	
+47	“身体机能检测完成，无异常。”	“身體機能檢測完成，無異常。”	「身体機能検査完了、異常ありません。」	'신체 기능 검사 완료, 이상 무.'	"Examination of physical functions complete. No abnormalities detected."						0	
+48	“开始执行常规唤醒程序。”	“開始執行常規喚醒程式。”	「通常覚醒プログラムを開始します。」	'기상 절차 개시.'	"Commencing routine wake-up procedure."						0	
+49	我在休眠舱的操作台上找到了少女的个人资料。	我在休眠艙的操作台上找到了少女的個人資料。	冬眠カプセルの操作盤で少女のプロフィールを見つけた。	난 수면 캡슐 시스템에서 그녀에 관한 개인정보를 찾아냈다.	I discovered the girl's personal information on the hibernation pod's console.						0	
+50	姓名：安卡希雅	姓名：安卡希雅	名前：アカシア	이름: 아카시아	Name: Acacia						0	
+51	年龄：17（冷冻休眠启动时）	年齡：17（冷凍休眠啟動時）	年齢：17（冬眠開始時）	나이: 17(냉동 수면 가동 기준)	Age at Time of Hibernation: 17						0	
+52	本次冬眠时长：11032天	本次冬眠時長：11032天	冬眠期間：11032日	수면 기간: 11032일	Number of Days in Hibernation: 11032						0	
+53	这机器已经坏了？还是我眼睛花了？一万多天，也就是三十多年？	這機器已經壞了？還是我眼花了？一萬多天，也就是三十多年？	この機械故障してんの？それともあたしの見間違い？1万日以上前ってことは、つまり30年以上経ってるってこと？	기계가 고장 났나? 아니면 내 눈이 잘못된 거야? 10,000일? 30년이 넘게 잠들어 있었다고?	Is this machine broken, or am I seeing things?						0	
+54	随着唤醒程序的启动，休眠舱里的少女缓缓睁开了眼睛。	隨著喚醒程式的啟動，休眠艙裡的少女緩緩睜開了眼睛。	覚醒プログラムが起動し、冬眠カプセルの中の少女がゆっくりと目を開いた。	기상 절차가 시작되자 수면 캡슐 안의 소녀가 천천히 눈을 떴다.	As the wake-up procedure began, the girl in the hibernation pod slowly opened her eyes.						0	
+55	操作台上弹出最后一行提示：	操作台上彈出最後一行提示：	操作盤に最後の通知が表示された。	시스템 알림(마지막 줄):	The final prompt appeared on the console:						0	
+56	注意，休眠者患有<snowbreak>成年病</>，请勿随意唤醒。	請注意，休眠者患有<snowbreak>成年病</>，請勿隨意喚醒。	警告：休眠者は<snowbreak>ティーン症候群</>を患っているため、安易に覚醒させないでください。	주의: 수면자는 <snowbreak>성인병</>을 앓고 있으므로, 함부로 기상 절차를 진행하지 말 것.	Attention: This hibernator suffers from <snowbreak>Juvosis</>. Please do not awaken them arbitrarily.						0	
+57	看到“成年病”“唤醒”时，头痛开始加剧。	看到“成年病”“喚醒”時，頭痛開始加劇。	「ティーン症候群」と「覚醒」という言葉を見た瞬間、頭痛がますます酷くなった。	'성인병', '기상'이라는 단어를 보니 두통이 심해지기 시작했다.	As soon as I saw the words "Juvosis" and "awaken," my headache only grew stronger.						0	
+58	成年病……为什么我会对成年病产生这么强烈的情绪？	成年病……為什麼我會對成年病產生這麼強烈的情緒？	ティーン症候群……どうして私はそれに対してこんなに強い感情を抱いている？	성인병… 내가 왜 성인병이라는 단어에 이렇게 민감하게 반응하는 걸까?	Juvosis... why did I have such a strong emotional response to it?						0	
+59	刚才“雪”对我的影响还没有消失吗？还是太过疲劳？	剛才“雪”對我的影響還沒有消失嗎？還是太過疲勞？	さっきの「キオーン」の影響がまだ残っているのか？それとも疲れがたまっているせいか？	아까 받았던 '눈'의 영향이 아직 남은 건가? 아니면 너무 피곤해서?	Was the snow still affecting me? Was I overly exhausted?						0	
+60	他到底怎么了？！看起来有点像是神格侵蚀！	他到底怎麼了？！看起來有點像是神格侵蝕！	ねえ、分析員は一体どうしたの！？神格侵蝕に見えるけど！	왜 이러는 거야?! 만트라 침식인 것 같은데?	What's happening to him!? It kinda looks like he's being Flooded!						0	
+61	快给他注射剂！	快給他注射劑！	早く注射しなきゃ！	어서 약물을 주사해!	Give him the injection!						0	
+62	注射了，不起作用。	已經注射了，但是沒有效用。	……だめだ、効果がみられない。	이미 주사했어. 그런데 소용이 없는 것 같아.	I did. It's not working.						0	
+63	为什么会不起作用？！卡罗琳你快点……	為什麼會沒用？！卡羅琳你快點……	どうして！？カロリン、早く……	소용이 없다니?! 캐롤린, 어서…	Why isn't it working!? Caroline, please hurry...						0	
+64	我能听到的声音越来越少……	我能聽到的聲音越來越少……	周囲の声がどんどん遠くなっていく……	점점 소리가 들리지 않는다…	My hearing was fading...						0	
+65	哥，我手上好像长了一些东西……	哥，我手上好像長了一些東西……	お兄ちゃん、わたしの手に何か生えてきたみたい……	오빠, 손에 뭐가 자란 것 같아…	Big bro, there's something growing on my hand...						0	
+66	女孩的指甲变成了灰白色，柔嫩的指尖，此刻爬满了盐粒状的透明晶体。	女孩的指甲變成了灰白色，柔嫩的指尖，此刻爬滿了鹽粒狀的透明晶體。	少女の爪は灰色に変わり、柔らかな指先には透明な塩のような結晶が伸びている。	여자아이의 손톱은 새하얗게 변했고, 부드러운 손끝은 소금처럼 투명한 결정체로 뒤덮여 있었다.	The girl's nails turned an off-white color, her soft fingertips covered with transparent crystals that looked like salt.						0	
+67	如果用手摸，那些晶体会从肌肤表面脱落……然后湮灭在空气中。	如果用手摸，那些晶體會從肌膚表面脫落……然後湮滅在空氣中。	手で触れると、結晶は肌から剥がれ落ち……消えてしまう。	손으로 만지면 표면에서 떨어져 공기 속으로 사라지는데…	If they were touched, the crystals would fall off the surface of her skin... evaporating in the air.						0	
+68	那些晶体此刻正爬向整条手臂。	那些晶體此刻正逐漸布滿整條手臂。	その結晶は徐々に少女の体を侵食し、指先から腕全体に広がっていった。	결정체들이 천천히 팔을 타고 기어오른다.	The crystals began crawling up her entire arm.						0	
+69	哥哥，你身上……也有……	哥哥，你身上……也有……	お兄ちゃんの身体にも……	오빠, 오빠 몸에도… 있어…	Big bro, you have some... too...						0	
+b-9											0	
+70	去找世界树公司的人，他们会帮我们。	去找世界樹公司的人，他們會幫我們。	ユグドラシルの人を探そう、彼らが助けてくれる。	위그드라실 회사의 사람들을 찾아가자. 그 사람들이 우리를 도와줄 거야.	We need to find someone from Yggdrasil. They'll help us.						0	
+71	那个……叔叔……	那個……叔叔……	あの……おじさん……	저기… 아저씨…	That... man...						0	
+72	……	……	……	…	...						0	
+73	叔叔！我们……感觉……不太舒服。	叔叔！我們……感覺……不太舒服。	おじさん！わたしたち……ちょっと……気分が悪くて。	아저씨! 저희… 느낌이… 너무 이상해요.	Sir! We... don't feel... so good.						0	
+74	什么时候可以轮到我们？	什麼時候可以輪到我們？	いつになったらわたしたちの番になるの？	저희 차례는 언제 오는 거죠?	When will it be our turn?						0	
+75	这里正在实行管控，请理解一下。	這裡正在實行管控，請理解一下。	ここでは規制が行われています、ご理解ください。	이곳은 지금 통제 중이니 많은 이해 바란다.	There is a system in place here. Please understand.						0	
+76	我们会根据实际情况来分批次进行救助，请耐心等待。	我們會根據實際情況來分批次進行救助，請耐心等待。	状況を鑑みて、段階的に救助を行ってますので、お待ちください	상황에 따라 순서대로 구조를 실시할 예정이니 차분히 기다려.	We'll carry out the treatments in batches. Please be patient.						0	
+77	叔叔，你可以帮我看看这是怎么回事吗？	叔叔，你可以幫我看看這是怎麼回事嗎？	おじさん、これがどうなっているのか診てくれない？	아저씨, 제 팔이 어떻게 된 건지 봐주실 수 있어요?	Sir, can you help me figure out what's going on?						0	
+78	女孩将被污染的手臂展示给安全部干员。	女孩將被汙染的手臂展示給安全部幹員。	少女は汚染された腕を安全部のオペレーターに見せた。	여자아이가 오염된 팔을 안전부 요원에게 보인다.	The girl showed her contaminated arm to the Security Department officer.						0	
+79	退后！	退後！	下がれ！	물러서!	Get back!						0	
+80	干员本能地抬枪指向了女孩。	幹員本能地抬槍指向了女孩。	オペレーターは反射的に少女に銃を向けた。	요원은 본능적으로 여자아이에게 총구를 겨눈다.	The officer instinctively raised his gun, pointing it at the girl.						0	
+81	呜……	嗚……	うぅ……	흐윽…	Ah...						0	
+82	退回线后面！	退回線後面！	ラインの後ろに下がってください！	경계선 뒤까지 물러서!	Move to the back of the line!						0	
+83	playername长官，这里发现有两个遭到污染的民众……	playername長官，這裡發現有兩個遭到汙染的民眾……	playername様、ここで汚染された市民を2人発見しました……	playername 장관님, 이곳에 오염된 민간인 두 명을 발견했습니다…	Commander playername, there are two contaminated civilians here...						0	
+84	其中一个是小女孩……另一个应该是她的哥哥，请问，这一批还有空位吗？	其中一個是小女孩……另一個應該是她的哥哥，請問，這一批還有空位嗎？	1人は小さな女の子で……もう1人は彼女の兄のようです。救出する空きはありますか？	한 명은 여자아이이고… 나머지 한 명은 여자아이의 오빠로 보입니다. 이번 치료 대상 리스트에 남는 자리가 있습니까?	One is a little girl... The other seems to be her brother. Are there any spots left in this batch?						0	
+85	……我的意思不是……嗯……嗯……不能开这个先例。	……我的意思不是……嗯……嗯……不能開這個先例。	……そうではなく……ええと……その……この前例を作るわけにはいきませんね。	… 제 말은… 네… 네… 이런 선례는 둬서는 안 되죠.	...I just mean... Yes... I understand... We can't make exceptions.						0	
+86	明白，我会严格执行。	明白，我會嚴格執行。	……了解、対処します。	알겠습니다. 그럼 더 엄격하게 통제하겠습니다.	Understood. I will strictly enforce the procedure.						0	
+87	干员挂断通讯。	幹員掛斷通訊。	オペレーターは通信を切った。	요원이 통신을 마친다.	The officer hung up his communicator.						0	
+88	请退回警戒线内，下一批救援马上就到。	請退回警戒線內，下一批救援馬上就到。	警戒線内に戻ってください、次の救援がまもなく到着します。	경계선 뒤로 물러서있어! 다음 치료 지원이 곧 도착할 거야.	Please return to the cordon. The next batch will be arriving soon.						0	
+89	星期三……她应该没事吧？	星期三……她應該沒事吧？	ウェンズデー……彼女は大丈夫？	웬스데이는… 괜찮겠지?	Wednesday... She's okay, right?						0	
+90	如果我是世界树公司的领导，肯定会先救她。	如果我是世界樹公司的長官，肯定會先救她。	もしわたしがユグドラシルの偉い人なら、きっとまず彼女を助ける。	내가 만약 위그드라실의 지도자였다면 웬스데이를 먼저 구했을 거야.	If I was the Yggdrasil boss, I would definitely save her first.						0	
+91	哥哥，突然觉得……有点口渴……想……喝水……	哥哥，突然覺得……有點口渴……想……喝水……	お兄ちゃん、急に喉が……渇いてきて……水を……飲みたい……	오빠, 갑자기… 목이 말라… 물… 마시고 싶어…	Big bro, I'm... a little thirsty... I want... water...						0	
+92	喉咙……好干。	喉嚨……好乾。	喉が……	목이… 말라.	My throat is... so dry.						0	
+93	她再也说不出话来。	她再也說不出話來。	彼女はそれ以上言葉を発することができなかった。	동생은 더 이상 말을 할 수 없었다.	After that, she could no longer speak.						0	

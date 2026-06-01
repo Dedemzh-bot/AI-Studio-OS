@@ -1,0 +1,793 @@
+﻿riki表种的ID	语音顺序	Voices_wwise表中的ID	备注	角色音频ID	UI表中的key	备注2	角色形态
+rikiID	index	VoiceID	remark	CharacterID	UIkey	remark2	Characterform
+5003	1	rikienterlevel1	战斗开始1	110201	ui.RikiskinSound10	宵宴绯盏	
+5003	2	rikienterlevel2	战斗开始2	110201	ui.RikiskinSound11	宵宴绯盏	
+5003	3	rikiwin1	战斗胜利1	110201	ui.RikiskinSound12	宵宴绯盏	
+5003	4	rikiwin2	战斗胜利2	110201	ui.RikiskinSound13	宵宴绯盏	
+5003	5	rikimain001	看板娘展示1	110201	ui.RikiskinSound3	宵宴绯盏	
+5003	6	rikimain002	看板娘展示2	110201	ui.RikiskinSound4	宵宴绯盏	
+5003	7	rikimain003	看板娘展示3	110201	ui.RikiskinSound5	宵宴绯盏	
+5003	8	rikimain101	看板娘展示4	110201	ui.RikiskinSound6	宵宴绯盏	
+5003	9	rikimain201	看板娘展示5	110201	ui.RikiskinSound7	宵宴绯盏	
+							
+							
+							
+							
+5005	1	rikienterlevel1	战斗开始1	110401	ui.RikiskinSound10	行疾脱兔	
+5005	3	rikiwin1	战斗胜利1	110401	ui.RikiskinSound12	行疾脱兔	
+5005	4	rikiwin2	战斗胜利2	110401	ui.RikiskinSound13	行疾脱兔	
+5005	6	rikimain002	看板娘展示2	110401	ui.RikiskinSound4	行疾脱兔	
+5005	7	rikimain003	看板娘展示3	110401	ui.RikiskinSound5	行疾脱兔	
+5005	8	rikimain101	看板娘展示4	110401	ui.RikiskinSound6	行疾脱兔	
+5005	9	rikimain201	看板娘展示5	110401	ui.RikiskinSound7	行疾脱兔	
+							
+							
+5007	3	rikiwin1	战斗胜利1	110601	ui.RikiskinSound12	凛冽冬花	
+5007	4	rikiwin2	战斗胜利2	110601	ui.RikiskinSound13	凛冽冬花	
+5007	5	rikimain001	看板娘展示1	110601	ui.RikiskinSound3	凛冽冬花	
+5007	6	rikimain002	看板娘展示2	110601	ui.RikiskinSound4	凛冽冬花	
+5007	7	rikimain003	看板娘展示3	110601	ui.RikiskinSound5	凛冽冬花	
+5007	8	rikimain101	看板娘展示4	110601	ui.RikiskinSound6	凛冽冬花	
+5007	9	rikimain201	看板娘展示5	110601	ui.RikiskinSound7	凛冽冬花	
+							
+							
+							
+							
+							
+							
+							
+							
+							
+5013	3	rikiwin1	战斗胜利1	101101	ui.RikiskinSound12	情迷炎日	
+5013	4	rikiwin2	战斗胜利2	101101	ui.RikiskinSound13	情迷炎日	
+5013	5	rikimain001	看板娘展示1	101101	ui.RikiskinSound3	情迷炎日	
+5013	6	rikimain002	看板娘展示2	101101	ui.RikiskinSound4	情迷炎日	
+5013	7	rikimain003	看板娘展示3	101101	ui.RikiskinSound5	情迷炎日	
+5013	8	rikimain101	看板娘展示4	101101	ui.RikiskinSound6	情迷炎日	
+5013	9	rikimain201	看板娘展示5	101101	ui.RikiskinSound7	情迷炎日	
+							
+							
+5014	5	rikimain001	看板娘展示1	101201	ui.RikiskinSound3	魂灵缚痕	
+5014	6	rikimain002	看板娘展示2	101201	ui.RikiskinSound4	魂灵缚痕	
+5014	7	rikimain003	看板娘展示3	101201	ui.RikiskinSound5	魂灵缚痕	
+							
+							
+5015	1	rikienterlevel1	战斗开始1	111201	ui.RikiskinSound10	灼阳假期	
+5015	2	rikienterlevel2	战斗开始2	111201	ui.RikiskinSound11	灼阳假期	
+5015	3	rikiwin1	战斗胜利1	111201	ui.RikiskinSound12	灼阳假期	
+5015	4	rikiwin2	战斗胜利2	111201	ui.RikiskinSound13	灼阳假期	
+5015	5	rikimain001	看板娘展示1	111201	ui.RikiskinSound3	灼阳假期	
+5015	6	rikimain002	看板娘展示2	111201	ui.RikiskinSound4	灼阳假期	
+5015	7	rikimain003	看板娘展示3	111201	ui.RikiskinSound5	灼阳假期	
+5015	8	rikimain101	看板娘展示4	111201	ui.RikiskinSound6	灼阳假期	
+5015	9	rikimain201	看板娘展示5	111201	ui.RikiskinSound7	灼阳假期	
+							
+							
+							
+							
+5017	1	rikienterlevel1	战斗开始1	111401	ui.RikiskinSound10	波光倩影	
+5017	2	rikienterlevel2	战斗开始2	111401	ui.RikiskinSound11	波光倩影	
+5017	3	rikiwin1	战斗胜利1	111401	ui.RikiskinSound12	波光倩影	
+5017	5	rikimain001	看板娘展示1	111401	ui.RikiskinSound3	波光倩影	
+5017	6	rikimain002	看板娘展示2	111401	ui.RikiskinSound4	波光倩影	
+5017	7	rikimain003	看板娘展示3	111401	ui.RikiskinSound5	波光倩影	
+5017	8	rikimain101	看板娘展示4	111401	ui.RikiskinSound6	波光倩影	
+5017	9	rikimain201	看板娘展示5	111401	ui.RikiskinSound7	波光倩影	
+							
+							
+5019	3	rikiwin1	战斗胜利1	110202	ui.RikiskinSound12	霜舞盛典	
+5019	4	rikiwin2	战斗胜利2	110202	ui.RikiskinSound13	霜舞盛典	
+5019	5	rikimain001	看板娘展示1	110202	ui.RikiskinSound3	霜舞盛典	
+5019	6	rikimain002	看板娘展示2	110202	ui.RikiskinSound4	霜舞盛典	
+5019	7	rikimain003	看板娘展示3	110202	ui.RikiskinSound5	霜舞盛典	
+5019	8	rikimain101	看板娘展示4	110202	ui.RikiskinSound6	霜舞盛典	
+5019	9	rikimain201	看板娘展示5	110202	ui.RikiskinSound7	霜舞盛典	
+							
+							
+							
+							
+5020	3	rikiwin1	战斗胜利1	110801	ui.RikiskinSound12	初晴金雪	
+5020	4	rikiwin2	战斗胜利2	110801	ui.RikiskinSound13	初晴金雪	
+5020	5	rikimain001	看板娘展示1	110801	ui.RikiskinSound3	初晴金雪	
+5020	6	rikimain002	看板娘展示2	110801	ui.RikiskinSound4	初晴金雪	
+5020	7	rikimain003	看板娘展示3	110801	ui.RikiskinSound5	初晴金雪	
+5020	8	rikimain101	看板娘展示4	110801	ui.RikiskinSound6	初晴金雪	
+5020	9	rikimain201	看板娘展示5	110801	ui.RikiskinSound7	初晴金雪	
+							
+							
+							
+							
+5018	1	rikienterlevel1	战斗开始1	101701	ui.RikiskinSound10	流放欢愉	
+5018	2	rikienterlevel2	战斗开始2	101701	ui.RikiskinSound11	流放欢愉	
+5018	3	rikiwin1	战斗胜利1	101701	ui.RikiskinSound12	流放欢愉	
+5018	4	rikiwin2	战斗胜利2	101701	ui.RikiskinSound13	流放欢愉	
+5018	5	rikimain001	看板娘展示1	101701	ui.RikiskinSound3	流放欢愉	
+5018	6	rikimain002	看板娘展示2	101701	ui.RikiskinSound4	流放欢愉	
+5018	7	rikimain003	看板娘展示3	101701	ui.RikiskinSound5	流放欢愉	
+5018	8	rikimain101	看板娘展示4	101701	ui.RikiskinSound6	流放欢愉	
+5018	9	rikimain201	看板娘展示5	101701	ui.RikiskinSound7	流放欢愉	
+							
+							
+							
+							
+5022	1	rikienterlevel1	战斗开始1	101501	ui.RikiskinSound10	远曲独舞	
+5022	2	rikienterlevel2	战斗开始2	101501	ui.RikiskinSound11	远曲独舞	
+5022	3	rikiwin1	战斗胜利1	101501	ui.RikiskinSound12	远曲独舞	
+5022	4	rikiwin2	战斗胜利2	101501	ui.RikiskinSound13	远曲独舞	
+5022	5	rikimain001	看板娘展示1	101501	ui.RikiskinSound3	远曲独舞	
+5022	6	rikimain002	看板娘展示2	101501	ui.RikiskinSound4	远曲独舞	
+5022	7	rikimain003	看板娘展示3	101501	ui.RikiskinSound5	远曲独舞	
+5022	8	rikimain101	看板娘展示4	101501	ui.RikiskinSound6	远曲独舞	
+5022	9	rikimain201	看板娘展示5	101501	ui.RikiskinSound7	远曲独舞	
+							
+							
+							
+							
+5023	3	rikiwin1	战斗胜利1	110402	ui.RikiskinSound12	狂曲雅跃	
+5023	4	rikiwin2	战斗胜利2	110402	ui.RikiskinSound13	狂曲雅跃	
+5023	6	rikimain002	看板娘展示2	110402	ui.RikiskinSound4	狂曲雅跃	
+5023	7	rikimain003	看板娘展示3	110402	ui.RikiskinSound5	狂曲雅跃	
+5023	8	rikimain101	看板娘展示4	110402	ui.RikiskinSound6	狂曲雅跃	
+5023	9	rikimain201	看板娘展示5	110402	ui.RikiskinSound7	狂曲雅跃	
+							
+							
+							
+							
+5026	1	rikienterlevel1	战斗开始1	110102	ui.RikiskinSound10	东流映荷	
+5026	2	rikienterlevel2	战斗开始2	110102	ui.RikiskinSound11	东流映荷	
+5026	3	rikiwin1	战斗胜利1	110102	ui.RikiskinSound12	东流映荷	
+5026	4	rikiwin2	战斗胜利2	110102	ui.RikiskinSound13	东流映荷	
+5026	5	rikimain001	看板娘展示1	110102	ui.RikiskinSound3	东流映荷	
+5026	6	rikimain002	看板娘展示2	110102	ui.RikiskinSound4	东流映荷	
+5026	7	rikimain003	看板娘展示3	110102	ui.RikiskinSound5	东流映荷	
+5026	8	rikimain101	看板娘展示4	110102	ui.RikiskinSound6	东流映荷	
+5026	9	rikimain201	看板娘展示5	110102	ui.RikiskinSound7	东流映荷	
+							
+							
+							
+							
+5029	3	rikiwin1	战斗胜利1	101601	ui.RikiskinSound12	迟到花蕾	
+5029	4	rikiwin2	战斗胜利2	101601	ui.RikiskinSound13	迟到花蕾	
+5029	1	rikienterlevel1	战斗开始1	101601	ui.RikiskinSound10	迟到花蕾	
+5029	2	rikienterlevel2	战斗开始2	101601	ui.RikiskinSound11	迟到花蕾	
+5029	5	rikimain001	看板娘展示1	101601	ui.RikiskinSound3	迟到花蕾	
+5029	6	rikimain002	看板娘展示2	101601	ui.RikiskinSound4	迟到花蕾	
+5029	7	rikimain003	看板娘展示3	101601	ui.RikiskinSound5	迟到花蕾	
+5029	8	rikimain101	看板娘展示4	101601	ui.RikiskinSound6	迟到花蕾	
+5029	9	rikimain201	看板娘展示5	101601	ui.RikiskinSound7	迟到花蕾	
+							
+							
+							
+							
+5028	3	rikiwin1	战斗胜利1	110803	ui.RikiskinSound12	甜蜜统治	
+5028	4	rikiwin2	战斗胜利2	110803	ui.RikiskinSound13	甜蜜统治	
+5028	1	rikienterlevel1	战斗开始1	110803	ui.RikiskinSound10	甜蜜统治	
+5028	2	rikienterlevel2	战斗开始2	110803	ui.RikiskinSound11	甜蜜统治	
+5028	5	rikimain001	看板娘展示1	110803	ui.RikiskinSound3	甜蜜统治	
+5028	6	rikimain002	看板娘展示2	110803	ui.RikiskinSound4	甜蜜统治	
+5028	7	rikimain003	看板娘展示3	110803	ui.RikiskinSound5	甜蜜统治	
+5028	8	rikimain101	看板娘展示4	110803	ui.RikiskinSound6	甜蜜统治	
+5028	9	rikimain201	看板娘展示5	110803	ui.RikiskinSound7	甜蜜统治	
+							
+							
+5031	1	rikienterlevel1	战斗开始1	110702	ui.RikiskinSound10	见习侍奉	
+5031	2	rikienterlevel2	战斗开始2	110702	ui.RikiskinSound11	见习侍奉	
+5031	3	rikiwin1	战斗胜利1	110702	ui.RikiskinSound12	见习侍奉	
+5031	4	rikiwin2	战斗胜利2	110702	ui.RikiskinSound13	见习侍奉	
+5031	5	rikimain001	看板娘展示1	110702	ui.RikiskinSound3	见习侍奉	
+5031	6	rikimain002	看板娘展示2	110702	ui.RikiskinSound4	见习侍奉	
+5031	7	rikimain003	看板娘展示3	110702	ui.RikiskinSound5	见习侍奉	
+5031	8	rikimain101	看板娘展示4	110702	ui.RikiskinSound6	见习侍奉	
+5031	9	rikimain201	看板娘展示5	110702	ui.RikiskinSound7	见习侍奉	
+							
+							
+							
+							
+5032	1	rikienterlevel1	战斗开始1	111102	ui.RikiskinSound10	轻语疗法	
+5032	2	rikienterlevel2	战斗开始2	111102	ui.RikiskinSound11	轻语疗法	
+5032	3	rikiwin1	战斗胜利1	111102	ui.RikiskinSound12	轻语疗法	
+5032	4	rikiwin2	战斗胜利2	111102	ui.RikiskinSound13	轻语疗法	
+5032	5	rikimain001	看板娘展示1	111102	ui.RikiskinSound3	轻语疗法	
+5032	6	rikimain002	看板娘展示2	111102	ui.RikiskinSound4	轻语疗法	
+5032	7	rikimain003	看板娘展示3	111102	ui.RikiskinSound5	轻语疗法	
+5032	8	rikimain101	看板娘展示4	111102	ui.RikiskinSound6	轻语疗法	
+5032	9	rikimain201	看板娘展示5	111102	ui.RikiskinSound7	轻语疗法	
+							
+5034	1	rikienterlevel1	战斗开始1	110803	ui.RikiskinSound10	甜蜜统治	
+5034	2	rikienterlevel2	战斗开始2	110803	ui.RikiskinSound11	甜蜜统治	
+5034	3	rikiwin1	战斗胜利1	110803	ui.RikiskinSound12	甜蜜统治	
+5034	4	rikiwin2	战斗胜利2	110803	ui.RikiskinSound13	甜蜜统治	
+5034	5	rikimain001	看板娘展示1	110803	ui.RikiskinSound3	甜蜜统治	
+5034	6	rikimain002	看板娘展示2	110803	ui.RikiskinSound4	甜蜜统治	
+5034	7	rikimain003	看板娘展示3	110803	ui.RikiskinSound5	甜蜜统治	
+5034	8	rikimain101	看板娘展示4	110803	ui.RikiskinSound6	甜蜜统治	
+5034	9	rikimain201	看板娘展示5	110803	ui.RikiskinSound7	甜蜜统治	
+							
+							
+5035	1	rikienterlevel1	战斗开始1	111302	ui.RikiskinSound10	须臾蹁跹	
+5035	2	rikienterlevel2	战斗开始2	111302	ui.RikiskinSound11	须臾蹁跹	
+5035	3	rikiwin1	战斗胜利1	111302	ui.RikiskinSound12	须臾蹁跹	
+5035	4	rikiwin2	战斗胜利2	111302	ui.RikiskinSound13	须臾蹁跹	
+5035	5	rikimain001	看板娘展示1	111302	ui.RikiskinSound3	须臾蹁跹	
+							
+5035	6	rikimain002	看板娘展示2	111302	ui.RikiskinSound4	须臾蹁跹	
+5035	7	rikimain003	看板娘展示3	111302	ui.RikiskinSound5	须臾蹁跹	
+5035	8	rikimain101	看板娘展示4	111302	ui.RikiskinSound6	须臾蹁跹	
+5035	9	rikimain201	看板娘展示5	111302	ui.RikiskinSound7	须臾蹁跹	
+							
+							
+							
+							
+							
+							
+5042	1	rikienterlevel1	战斗开始1	120202	ui.RikiskinSound10	爱意凝晶	
+5042	2	rikienterlevel2	战斗开始2	120202	ui.RikiskinSound11	爱意凝晶	
+5042	3	rikiwin1	战斗胜利1	120202	ui.RikiskinSound12	爱意凝晶	
+5042	4	rikiwin2	战斗胜利2	120202	ui.RikiskinSound13	爱意凝晶	
+5042	5	rikimain001	看板娘展示1	120202	ui.RikiskinSound3	爱意凝晶	
+5042	6	rikimain002	看板娘展示2	120202	ui.RikiskinSound4	爱意凝晶	
+5042	7	rikimain003	看板娘展示3	120202	ui.RikiskinSound5	爱意凝晶	
+5042	8	rikimain101	看板娘展示4	120202	ui.RikiskinSound6	爱意凝晶	
+5042	9	rikimain201	看板娘展示5	120202	ui.RikiskinSound7	爱意凝晶	
+							
+							
+							
+							
+5045	1	rikienterlevel1	战斗开始1	120802	ui.RikiskinSound10	绽于恋时	
+5045	2	rikienterlevel2	战斗开始2	120802	ui.RikiskinSound11	绽于恋时	
+5045	3	rikiwin1	战斗胜利1	120802	ui.RikiskinSound12	绽于恋时	
+5045	4	rikiwin2	战斗胜利2	120802	ui.RikiskinSound13	绽于恋时	
+5045	5	rikimain001	看板娘展示1	120802	ui.RikiskinSound3	绽于恋时	
+5045	6	rikimain002	看板娘展示2	120802	ui.RikiskinSound4	绽于恋时	
+5045	7	rikimain003	看板娘展示3	120802	ui.RikiskinSound5	绽于恋时	
+5045	8	rikimain101	看板娘展示4	120802	ui.RikiskinSound6	绽于恋时	
+5045	9	rikimain201	看板娘展示5	120802	ui.RikiskinSound7	绽于恋时	
+							
+							
+							
+							
+5043	1	rikienterlevel1	战斗开始1	110503	ui.RikiskinSound10	绯染夜幕	
+5043	2	rikienterlevel2	战斗开始2	110503	ui.RikiskinSound11	绯染夜幕	
+5043	3	rikiwin1	战斗胜利1	110503	ui.RikiskinSound12	绯染夜幕	
+5043	4	rikiwin2	战斗胜利2	110503	ui.RikiskinSound13	绯染夜幕	
+5043	5	rikimain001	看板娘展示1	110503	ui.RikiskinSound3	绯染夜幕	
+5043	6	rikimain002	看板娘展示2	110503	ui.RikiskinSound4	绯染夜幕	
+5043	7	rikimain003	看板娘展示3	110503	ui.RikiskinSound5	绯染夜幕	
+5043	8	rikimain101	看板娘展示4	110503	ui.RikiskinSound6	绯染夜幕	
+5043	9	rikimain201	看板娘展示5	110503	ui.RikiskinSound7	绯染夜幕	
+							
+							
+							
+							
+5049	1	rikienterlevel1	战斗开始1	111404	ui.RikiskinSound10	点墨化龙	
+5049	2	rikienterlevel2	战斗开始2	111404	ui.RikiskinSound11	点墨化龙	
+5049	3	rikiwin1	战斗胜利1	111404	ui.RikiskinSound12	点墨化龙	
+5049	4	rikiwin2	战斗胜利2	111404	ui.RikiskinSound13	点墨化龙	
+5049	5	rikimain001	看板娘展示1	111404	ui.RikiskinSound3	点墨化龙	
+5049	6	rikimain002	看板娘展示2	111404	ui.RikiskinSound4	点墨化龙	
+5049	7	rikimain003	看板娘展示3	111404	ui.RikiskinSound5	点墨化龙	
+5049	8	rikimain101	看板娘展示4	111404	ui.RikiskinSound6	点墨化龙	
+5049	9	rikimain201	看板娘展示5	111404	ui.RikiskinSound7	点墨化龙	
+							
+							
+							
+							
+5050	1	rikienterlevel1	战斗开始1	101802	ui.RikiskinSound10	翠翎倩姿	
+5050	2	rikienterlevel2	战斗开始2	101802	ui.RikiskinSound11	翠翎倩姿	
+5050	3	rikiwin1	战斗胜利1	101802	ui.RikiskinSound12	翠翎倩姿	
+5050	4	rikiwin2	战斗胜利2	101802	ui.RikiskinSound13	翠翎倩姿	
+5050	5	rikimain001	看板娘展示1	101802	ui.RikiskinSound3	翠翎倩姿	
+5050	6	rikimain002	看板娘展示2	101802	ui.RikiskinSound4	翠翎倩姿	
+5050	7	rikimain003	看板娘展示3	101802	ui.RikiskinSound5	翠翎倩姿	
+5050	8	rikimain101	看板娘展示4	101802	ui.RikiskinSound6	翠翎倩姿	
+5050	9	rikimain201	看板娘展示5	101802	ui.RikiskinSound7	翠翎倩姿	
+							
+							
+							
+							
+5052	1	rikienterlevel1	战斗开始1	120502	ui.RikiskinSound10	灿阳一刻	
+5052	2	rikienterlevel2	战斗开始2	120502	ui.RikiskinSound11	灿阳一刻	
+5052	3	rikiwin1	战斗胜利1	120502	ui.RikiskinSound12	灿阳一刻	
+5052	4	rikiwin2	战斗胜利2	120502	ui.RikiskinSound13	灿阳一刻	
+5052	5	rikimain001	看板娘展示1	120502	ui.RikiskinSound3	灿阳一刻	
+5052	6	rikimain002	看板娘展示2	120502	ui.RikiskinSound4	灿阳一刻	
+5052	7	rikimain003	看板娘展示3	120502	ui.RikiskinSound5	灿阳一刻	
+5052	8	rikimain101	看板娘展示4	120502	ui.RikiskinSound6	灿阳一刻	
+5052	9	rikimain201	看板娘展示5	120502	ui.RikiskinSound7	灿阳一刻	
+							
+							
+							
+							
+5051	1	rikienterlevel1	战斗开始1	111502	ui.RikiskinSound10	沐浪倦姿	
+5051	2	rikienterlevel2	战斗开始2	111502	ui.RikiskinSound11	沐浪倦姿	
+5051	3	rikiwin1	战斗胜利1	111502	ui.RikiskinSound12	沐浪倦姿	
+5051	4	rikiwin2	战斗胜利2	111502	ui.RikiskinSound13	沐浪倦姿	
+5051	5	rikimain001	看板娘展示1	111502	ui.RikiskinSound3	沐浪倦姿	
+5051	6	rikimain002	看板娘展示2	111502	ui.RikiskinSound4	沐浪倦姿	
+5051	7	rikimain003	看板娘展示3	111502	ui.RikiskinSound5	沐浪倦姿	
+5051	8	rikimain101	看板娘展示4	111502	ui.RikiskinSound6	沐浪倦姿	
+5051	9	rikimain201	看板娘展示5	111502	ui.RikiskinSound7	沐浪倦姿	
+							
+							
+							
+							
+5054	1	rikienterlevel1	战斗开始1	111103	ui.RikiskinSound10	浅憩之处	
+5054	2	rikienterlevel2	战斗开始2	111103	ui.RikiskinSound11	浅憩之处	
+5054	3	rikiwin1	战斗胜利1	111103	ui.RikiskinSound12	浅憩之处	
+5054	4	rikiwin2	战斗胜利2	111103	ui.RikiskinSound13	浅憩之处	
+5054	5	rikimain001	看板娘展示1	111103	ui.RikiskinSound3	浅憩之处	
+5054	6	rikimain002	看板娘展示2	111103	ui.RikiskinSound4	浅憩之处	
+5054	7	rikimain003	看板娘展示3	111103	ui.RikiskinSound5	浅憩之处	
+5054	8	rikimain101	看板娘展示4	111103	ui.RikiskinSound6	浅憩之处	
+5054	9	rikimain201	看板娘展示5	111103	ui.RikiskinSound7	浅憩之处	
+							
+							
+							
+							
+5055	1	rikienterlevel1	战斗开始1	120402	ui.RikiskinSound10	毛绒派对	
+5055	2	rikienterlevel2	战斗开始2	120402	ui.RikiskinSound11	毛绒派对	
+5055	3	rikiwin1	战斗胜利1	120402	ui.RikiskinSound12	毛绒派对	
+5055	4	rikiwin2	战斗胜利2	120402	ui.RikiskinSound13	毛绒派对	
+5055	5	rikimain001	看板娘展示1	120402	ui.RikiskinSound3	毛绒派对	
+5055	6	rikimain002	看板娘展示2	120402	ui.RikiskinSound4	毛绒派对	
+5055	7	rikimain003	看板娘展示3	120402	ui.RikiskinSound5	毛绒派对	
+5055	8	rikimain101	看板娘展示4	120402	ui.RikiskinSound6	毛绒派对	
+5055	9	rikimain201	看板娘展示5	120402	ui.RikiskinSound7	毛绒派对	
+							
+							
+5056	1	rikienterlevel1	战斗开始1	111304	ui.RikiskinSound10	斑斓水色	
+5056	2	rikienterlevel2	战斗开始2	111304	ui.RikiskinSound11	斑斓水色	
+5056	3	rikiwin1	战斗胜利1	111304	ui.RikiskinSound12	斑斓水色	
+5056	4	rikiwin2	战斗胜利2	111304	ui.RikiskinSound13	斑斓水色	
+5056	5	rikimain001	看板娘展示1	111304	ui.RikiskinSound3	斑斓水色	
+5056	6	rikimain002	看板娘展示2	111304	ui.RikiskinSound4	斑斓水色	
+5056	7	rikimain003	看板娘展示3	111304	ui.RikiskinSound5	斑斓水色	
+5056	8	rikimain101	看板娘展示4	111304	ui.RikiskinSound6	斑斓水色	
+5056	9	rikimain201	看板娘展示5	111304	ui.RikiskinSound7	斑斓水色	
+							
+							
+5060	1	rikienterlevel1	战斗开始1	101604	ui.RikiskinSound10	捕猎演习	
+5060	2	rikienterlevel2	战斗开始2	101604	ui.RikiskinSound11	捕猎演习	
+5060	3	rikiwin1	战斗胜利1	101604	ui.RikiskinSound12	捕猎演习	
+5060	4	rikiwin2	战斗胜利2	101604	ui.RikiskinSound13	捕猎演习	
+5060	5	rikimain001	看板娘展示1	101604	ui.RikiskinSound3	捕猎演习	
+5060	6	rikimain002	看板娘展示2	101604	ui.RikiskinSound4	捕猎演习	
+5060	7	rikimain003	看板娘展示3	101604	ui.RikiskinSound5	捕猎演习	
+5060	8	rikimain101	看板娘展示4	101604	ui.RikiskinSound6	捕猎演习	
+5060	9	rikimain201	看板娘展示5	101604	ui.RikiskinSound7	捕猎演习	
+							
+							
+5061	1	rikienterlevel1	战斗开始1	110705	ui.RikiskinSound10	清荷雅弈	
+5061	2	rikienterlevel2	战斗开始2	110705	ui.RikiskinSound11	清荷雅弈	
+5061	3	rikiwin1	战斗胜利1	110705	ui.RikiskinSound12	清荷雅弈	
+5061	4	rikiwin2	战斗胜利2	110705	ui.RikiskinSound13	清荷雅弈	
+5061	5	rikimain001	看板娘展示1	110705	ui.RikiskinSound3	清荷雅弈	
+5061	6	rikimain002	看板娘展示2	110705	ui.RikiskinSound4	清荷雅弈	
+5061	7	rikimain003	看板娘展示3	110705	ui.RikiskinSound5	清荷雅弈	
+5061	8	rikimain101	看板娘展示4	110705	ui.RikiskinSound6	清荷雅弈	
+5061	9	rikimain201	看板娘展示5	110705	ui.RikiskinSound7	清荷雅弈	
+							
+							
+5066	1	rikienterlevel1	战斗开始1	121402	ui.RikiskinSound10	辰星-欣描红妆	
+5066	2	rikienterlevel2	战斗开始2	121402	ui.RikiskinSound11	辰星-欣描红妆	
+5066	3	rikiwin1	战斗胜利1	121402	ui.RikiskinSound12	辰星-欣描红妆	
+5066	4	rikiwin2	战斗胜利2	121402	ui.RikiskinSound13	辰星-欣描红妆	
+5066	5	rikimain001	看板娘展示1	121402	ui.RikiskinSound3	辰星-欣描红妆	
+5066	6	rikimain002	看板娘展示2	121402	ui.RikiskinSound4	辰星-欣描红妆	
+5066	7	rikimain003	看板娘展示3	121402	ui.RikiskinSound5	辰星-欣描红妆	
+5066	8	rikimain101	看板娘展示4	121402	ui.RikiskinSound6	辰星-欣描红妆	
+5066	9	rikimain201	看板娘展示5	121402	ui.RikiskinSound7	辰星-欣描红妆	
+							
+							
+							
+							
+							
+							
+5065	1	rikienterlevel1	战斗开始1	121002	ui.RikiskinSound10	肴-暖夜情醺	
+5065	2	rikienterlevel2	战斗开始2	121002	ui.RikiskinSound11	肴-暖夜情醺	
+5065	3	rikiwin1	战斗胜利1	121002	ui.RikiskinSound12	肴-暖夜情醺	
+5065	4	rikiwin2	战斗胜利2	121002	ui.RikiskinSound13	肴-暖夜情醺	
+5065	5	rikimain001	看板娘展示1	121002	ui.RikiskinSound3	肴-暖夜情醺	
+5065	6	rikimain002	看板娘展示2	121002	ui.RikiskinSound4	肴-暖夜情醺	
+5065	7	rikimain003	看板娘展示3	121002	ui.RikiskinSound5	肴-暖夜情醺	
+5065	8	rikimain101	看板娘展示4	121002	ui.RikiskinSound6	肴-暖夜情醺	
+5065	9	rikimain201	看板娘展示5	121002	ui.RikiskinSound7	肴-暖夜情醺	
+							
+							
+							
+							
+5067	1	rikienterlevel1	战斗开始1	120803	ui.RikiskinSound10	芬妮-金狮舞瑞	
+5067	2	rikienterlevel2	战斗开始2	120803	ui.RikiskinSound11	芬妮-金狮舞瑞	
+5067	3	rikiwin1	战斗胜利1	120803	ui.RikiskinSound12	芬妮-金狮舞瑞	
+5067	4	rikiwin2	战斗胜利2	120803	ui.RikiskinSound13	芬妮-金狮舞瑞	
+5067	5	rikimain001	看板娘展示1	120803	ui.RikiskinSound3	芬妮-金狮舞瑞	
+5067	6	rikimain002	看板娘展示2	120803	ui.RikiskinSound4	芬妮-金狮舞瑞	
+5067	7	rikimain003	看板娘展示3	120803	ui.RikiskinSound5	芬妮-金狮舞瑞	
+5067	8	rikimain101	看板娘展示4	120803	ui.RikiskinSound6	芬妮-金狮舞瑞	
+5067	9	rikimain201	看板娘展示5	120803	ui.RikiskinSound7	芬妮-金狮舞瑞	
+							
+5070	1	rikienterlevel1	战斗开始1	121102	ui.RikiskinSound10	恩雅换装2-修女	
+5070	2	rikienterlevel2	战斗开始2	121102	ui.RikiskinSound11	恩雅换装2-修女	
+5070	3	rikiwin1	战斗胜利1	121102	ui.RikiskinSound12	恩雅换装2-修女	
+5070	4	rikiwin2	战斗胜利2	121102	ui.RikiskinSound13	恩雅换装2-修女	
+5070	5	rikimain001	看板娘展示1	121102	ui.RikiskinSound3	恩雅换装2-修女	
+5070	6	rikimain002	看板娘展示2	121102	ui.RikiskinSound4	恩雅换装2-修女	
+5070	7	rikimain003	看板娘展示3	121102	ui.RikiskinSound5	恩雅换装2-修女	
+5070	8	rikimain101	看板娘展示4	121102	ui.RikiskinSound6	恩雅换装2-修女	
+5070	9	rikimain201	看板娘展示5	121102	ui.RikiskinSound7	恩雅换装2-修女	
+							
+5071	1	rikienterlevel1	战斗开始1	101803	ui.RikiskinSound10	龙舌兰-旗袍	
+5071	2	rikienterlevel2	战斗开始2	101803	ui.RikiskinSound11	龙舌兰-旗袍	
+5071	3	rikiwin1	战斗胜利1	101803	ui.RikiskinSound12	龙舌兰-旗袍	
+5071	4	rikiwin2	战斗胜利2	101803	ui.RikiskinSound13	龙舌兰-旗袍	
+5071	5	rikimain001	看板娘展示1	101803	ui.RikiskinSound3	龙舌兰-旗袍	
+5071	6	rikimain002	看板娘展示2	101803	ui.RikiskinSound4	龙舌兰-旗袍	
+5071	7	rikimain003	看板娘展示3	101803	ui.RikiskinSound5	龙舌兰-旗袍	
+5071	8	rikimain101	看板娘展示4	101803	ui.RikiskinSound6	龙舌兰-旗袍	
+5071	9	rikimain201	看板娘展示5	101803	ui.RikiskinSound7	龙舌兰-旗袍	
+							
+5072	1	rikienterlevel1	战斗开始1	120503	ui.RikiskinSound10	茉莉安幽潮-风格化时装	
+5072	2	rikienterlevel2	战斗开始2	120503	ui.RikiskinSound11	茉莉安幽潮-风格化时装	
+5072	3	rikiwin1	战斗胜利1	120503	ui.RikiskinSound12	茉莉安幽潮-风格化时装	
+5072	4	rikiwin2	战斗胜利2	120503	ui.RikiskinSound13	茉莉安幽潮-风格化时装	
+5072	5	rikimain001	看板娘展示1	120503	ui.RikiskinSound3	茉莉安幽潮-风格化时装	
+5072	6	rikimain002	看板娘展示2	120503	ui.RikiskinSound4	茉莉安幽潮-风格化时装	
+5072	7	rikimain003	看板娘展示3	120503	ui.RikiskinSound5	茉莉安幽潮-风格化时装	
+5072	8	rikimain101	看板娘展示4	120503	ui.RikiskinSound6	茉莉安幽潮-风格化时装	
+5072	9	rikimain201	看板娘展示5	120503	ui.RikiskinSound7	茉莉安幽潮-风格化时装	
+							
+5075	1	rikienterlevel1	战斗开始1	102102	ui.RikiskinSound10	奈丽德-军官制服	
+5075	2	rikienterlevel2	战斗开始2	102102	ui.RikiskinSound11	奈丽德-军官制服	
+5075	3	rikiwin1	战斗胜利1	102102	ui.RikiskinSound12	奈丽德-军官制服	
+5075	4	rikiwin2	战斗胜利2	102102	ui.RikiskinSound13	奈丽德-军官制服	
+5075	5	rikimain001	看板娘展示1	102102	ui.RikiskinSound3	奈丽德-军官制服	
+5075	6	rikimain002	看板娘展示2	102102	ui.RikiskinSound4	奈丽德-军官制服	
+5075	7	rikimain003	看板娘展示3	102102	ui.RikiskinSound5	奈丽德-军官制服	
+5075	8	rikimain101	看板娘展示4	102102	ui.RikiskinSound6	奈丽德-军官制服	
+5075	9	rikimain201	看板娘展示5	102102	ui.RikiskinSound7	奈丽德-军官制服	
+							
+5076	1	rikienterlevel1	战斗开始1	110302	ui.RikiskinSound10	妮塔换装-暗夜精灵	
+5076	2	rikienterlevel2	战斗开始2	110302	ui.RikiskinSound11	妮塔换装-暗夜精灵	
+5076	3	rikiwin1	战斗胜利1	110302	ui.RikiskinSound12	妮塔换装-暗夜精灵	
+5076	4	rikiwin2	战斗胜利2	110302	ui.RikiskinSound13	妮塔换装-暗夜精灵	
+5076	5	rikimain001	看板娘展示1	110302	ui.RikiskinSound3	妮塔换装-暗夜精灵	
+5076	6	rikimain002	看板娘展示2	110302	ui.RikiskinSound4	妮塔换装-暗夜精灵	
+5076	7	rikimain003	看板娘展示3	110302	ui.RikiskinSound5	妮塔换装-暗夜精灵	
+5076	8	rikimain101	看板娘展示4	110302	ui.RikiskinSound6	妮塔换装-暗夜精灵	
+5076	9	rikimain201	看板娘展示5	110302	ui.RikiskinSound7	妮塔换装-暗夜精灵	
+							
+5077	1	rikienterlevel1	战斗开始1	111504	ui.RikiskinSound10	凯茜娅换装2-战术旗袍	
+5077	2	rikienterlevel2	战斗开始2	111504	ui.RikiskinSound11	凯茜娅换装2-战术旗袍	
+5077	3	rikiwin1	战斗胜利1	111504	ui.RikiskinSound12	凯茜娅换装2-战术旗袍	
+5077	4	rikiwin2	战斗胜利2	111504	ui.RikiskinSound13	凯茜娅换装2-战术旗袍	
+5077	5	rikimain001	看板娘展示1	111504	ui.RikiskinSound3	凯茜娅换装2-战术旗袍	
+5077	6	rikimain002	看板娘展示2	111504	ui.RikiskinSound4	凯茜娅换装2-战术旗袍	
+5077	7	rikimain003	看板娘展示3	111504	ui.RikiskinSound5	凯茜娅换装2-战术旗袍	
+5077	8	rikimain101	看板娘展示4	111504	ui.RikiskinSound6	凯茜娅换装2-战术旗袍	
+5077	9	rikimain201	看板娘展示5	111504	ui.RikiskinSound7	凯茜娅换装2-战术旗袍	
+							
+5078	1	rikienterlevel1	战斗开始1	102002	ui.RikiskinSound10	卜卜-护士装	
+5078	2	rikienterlevel2	战斗开始2	102002	ui.RikiskinSound11	卜卜-护士装	
+5078	3	rikiwin1	战斗胜利1	102002	ui.RikiskinSound12	卜卜-护士装	
+5078	4	rikiwin2	战斗胜利2	102002	ui.RikiskinSound13	卜卜-护士装	
+5078	5	rikimain001	看板娘展示1	102002	ui.RikiskinSound3	卜卜-护士装	
+5078	6	rikimain002	看板娘展示2	102002	ui.RikiskinSound4	卜卜-护士装	
+5078	7	rikimain003	看板娘展示3	102002	ui.RikiskinSound5	卜卜-护士装	
+5078	8	rikimain101	看板娘展示4	102002	ui.RikiskinSound6	卜卜-护士装	
+5078	9	rikimain201	看板娘展示5	102002	ui.RikiskinSound7	卜卜-护士装	
+							
+5080	1	rikienterlevel1	战斗开始1	111004	ui.RikiskinSound10	肴冬至-女仆-累充和谐追加皮肤	
+5080	2	rikienterlevel2	战斗开始2	111004	ui.RikiskinSound11	肴冬至-女仆-累充和谐追加皮肤	
+5080	3	rikiwin1	战斗胜利1	111004	ui.RikiskinSound12	肴冬至-女仆-累充和谐追加皮肤	
+5080	4	rikiwin2	战斗胜利2	111004	ui.RikiskinSound13	肴冬至-女仆-累充和谐追加皮肤	
+5080	5	rikimain001	看板娘展示1	111004	ui.RikiskinSound3	肴冬至-女仆-累充和谐追加皮肤	
+5080	6	rikimain002	看板娘展示2	111004	ui.RikiskinSound4	肴冬至-女仆-累充和谐追加皮肤	
+5080	7	rikimain003	看板娘展示3	111004	ui.RikiskinSound5	肴冬至-女仆-累充和谐追加皮肤	
+5080	8	rikimain101	看板娘展示4	111004	ui.RikiskinSound6	肴冬至-女仆-累充和谐追加皮肤	
+5080	9	rikimain201	看板娘展示5	111004	ui.RikiskinSound7	肴冬至-女仆-累充和谐追加皮肤	
+							
+5081	1	rikienterlevel1	战斗开始1	111802	ui.RikiskinSound10		
+5081	2	rikienterlevel2	战斗开始2	111802	ui.RikiskinSound11		
+5081	3	rikiwin1	战斗胜利1	111802	ui.RikiskinSound12		
+5081	4	rikiwin2	战斗胜利2	111802	ui.RikiskinSound13		
+5081	5	rikimain001	看板娘展示1	111802	ui.RikiskinSound3		
+5081	6	rikimain002	看板娘展示2	111802	ui.RikiskinSound4		
+5081	7	rikimain003	看板娘展示3	111802	ui.RikiskinSound5		
+5081	8	rikimain101	看板娘展示4	111802	ui.RikiskinSound6		
+5081	9	rikimain201	看板娘展示5	111802	ui.RikiskinSound7		
+							
+5082	1	rikienterlevel1	战斗开始1	120404	ui.RikiskinSound10		
+5082	2	rikienterlevel2	战斗开始2	120404	ui.RikiskinSound11		
+5082	3	rikiwin1	战斗胜利1	120404	ui.RikiskinSound12		
+5082	4	rikiwin2	战斗胜利2	120404	ui.RikiskinSound13		
+5082	5	rikimain001	看板娘展示1	120404	ui.RikiskinSound3		
+5082	6	rikimain002	看板娘展示2	120404	ui.RikiskinSound4		
+5082	7	rikimain003	看板娘展示3	120404	ui.RikiskinSound5		
+5082	8	rikimain101	看板娘展示4	120404	ui.RikiskinSound6		
+5082	9	rikimain201	看板娘展示5	120404	ui.RikiskinSound7		
+							
+5083	1	rikienterlevel1	战斗开始1	121403	ui.RikiskinSound10		
+5083	2	rikienterlevel2	战斗开始2	121403	ui.RikiskinSound11		
+5083	3	rikiwin1	战斗胜利1	121403	ui.RikiskinSound12		
+5083	4	rikiwin2	战斗胜利2	121403	ui.RikiskinSound13		
+5083	5	rikimain001	看板娘展示1	121403	ui.RikiskinSound3		
+5083	6	rikimain002	看板娘展示2	121403	ui.RikiskinSound4		
+5083	7	rikimain003	看板娘展示3	121403	ui.RikiskinSound5		
+5083	8	rikimain101	看板娘展示4	121403	ui.RikiskinSound6		
+5083	9	rikimain201	看板娘展示5	121403	ui.RikiskinSound7		
+							
+5087	1	rikienterlevel1	战斗开始1	121502	ui.RikiskinSound10		
+5087	2	rikienterlevel2	战斗开始2	121502	ui.RikiskinSound11		
+5087	3	rikiwin1	战斗胜利1	121502	ui.RikiskinSound12		
+5087	4	rikiwin2	战斗胜利2	121502	ui.RikiskinSound13		
+5087	5	rikimain001	看板娘展示1	121502	ui.RikiskinSound3		
+5087	6	rikimain002	看板娘展示2	121502	ui.RikiskinSound4		
+5087	7	rikimain003	看板娘展示3	121502	ui.RikiskinSound5		
+5087	8	rikimain101	看板娘展示4	121502	ui.RikiskinSound6		
+5087	9	rikimain201	看板娘展示5	121502	ui.RikiskinSound7		
+							
+5088	1	rikienterlevel1	战斗开始1	111702	ui.RikiskinSound10		
+5088	2	rikienterlevel2	战斗开始2	111702	ui.RikiskinSound11		
+5088	3	rikiwin1	战斗胜利1	111702	ui.RikiskinSound12		
+5088	4	rikiwin2	战斗胜利2	111702	ui.RikiskinSound13		
+5088	5	rikimain001	看板娘展示1	111702	ui.RikiskinSound3		
+5088	6	rikimain002	看板娘展示2	111702	ui.RikiskinSound4		
+5088	7	rikimain003	看板娘展示3	111702	ui.RikiskinSound5		
+5088	8	rikimain101	看板娘展示4	111702	ui.RikiskinSound6		
+5088	9	rikimain201	看板娘展示5	111702	ui.RikiskinSound7		
+							
+5089	1	rikienterlevel1	战斗开始1	121103	ui.RikiskinSound10		
+5089	2	rikienterlevel2	战斗开始2	121103	ui.RikiskinSound11		
+5089	3	rikiwin1	战斗胜利1	121103	ui.RikiskinSound12		
+5089	4	rikiwin2	战斗胜利2	121103	ui.RikiskinSound13		
+5089	5	rikimain001	看板娘展示1	121103	ui.RikiskinSound3		
+5089	6	rikimain002	看板娘展示2	121103	ui.RikiskinSound4		
+5089	7	rikimain003	看板娘展示3	121103	ui.RikiskinSound5		
+5089	8	rikimain101	看板娘展示4	121103	ui.RikiskinSound6		
+5089	9	rikimain201	看板娘展示5	121103	ui.RikiskinSound7		
+							
+5090	1	rikienterlevel1	战斗开始1	102003	ui.RikiskinSound10		
+5090	2	rikienterlevel2	战斗开始2	102003	ui.RikiskinSound11		
+5090	3	rikiwin1	战斗胜利1	102003	ui.RikiskinSound12		
+5090	4	rikiwin2	战斗胜利2	102003	ui.RikiskinSound13		
+5090	5	rikimain001	看板娘展示1	102003	ui.RikiskinSound3		
+5090	6	rikimain002	看板娘展示2	102003	ui.RikiskinSound4		
+5090	7	rikimain003	看板娘展示3	102003	ui.RikiskinSound5		
+5090	8	rikimain101	看板娘展示4	102003	ui.RikiskinSound6		
+5090	9	rikimain201	看板娘展示5	102003	ui.RikiskinSound7		
+							
+5047	1	rikienterlevel1	战斗开始1	101504	ui.RikiskinSound10		
+5047	2	rikienterlevel2	战斗开始2	101504	ui.RikiskinSound11		
+5047	3	rikiwin1	战斗胜利1	101504	ui.RikiskinSound12		
+5047	4	rikiwin2	战斗胜利2	101504	ui.RikiskinSound13		
+5047	5	rikimain001	看板娘展示1	101504	ui.RikiskinSound3		
+5047	6	rikimain002	看板娘展示2	101504	ui.RikiskinSound4		
+5047	7	rikimain003	看板娘展示3	101504	ui.RikiskinSound5		
+5047	8	rikimain101	看板娘展示4	101504	ui.RikiskinSound6		
+5047	9	rikimain201	看板娘展示5	101504	ui.RikiskinSound7		
+							
+5036	1	rikienterlevel1	战斗开始1	101504	ui.RikiskinSound10		
+5036	2	rikienterlevel2	战斗开始2	101504	ui.RikiskinSound11		
+5036	3	rikiwin1	战斗胜利1	101504	ui.RikiskinSound12		
+5036	4	rikiwin2	战斗胜利2	101504	ui.RikiskinSound13		
+5036	5	rikimain001	看板娘展示1	101504	ui.RikiskinSound3		
+5036	6	rikimain002	看板娘展示2	101504	ui.RikiskinSound4		
+5036	7	rikimain003	看板娘展示3	101504	ui.RikiskinSound5		
+5036	8	rikimain101	看板娘展示4	101504	ui.RikiskinSound6		
+5036	9	rikimain201	看板娘展示5	101504	ui.RikiskinSound7		
+							
+5012	1	rikienterlevel1	战斗开始1	111003	ui.RikiskinSound10		
+5012	2	rikienterlevel2	战斗开始2	111003	ui.RikiskinSound11		
+5012	3	rikiwin1	战斗胜利1	111003	ui.RikiskinSound12		
+5012	4	rikiwin2	战斗胜利2	111003	ui.RikiskinSound13		
+5012	5	rikimain001	看板娘展示1	111003	ui.RikiskinSound3		
+5012	6	rikimain002	看板娘展示2	111003	ui.RikiskinSound4		
+5012	7	rikimain003	看板娘展示3	111003	ui.RikiskinSound5		
+5012	8	rikimain101	看板娘展示4	111003	ui.RikiskinSound6		
+5012	9	rikimain201	看板娘展示5	111003	ui.RikiskinSound7		
+							
+5093	1	rikienterlevel1	战斗开始1	102202	ui.RikiskinSound10		
+5093	2	rikienterlevel2	战斗开始2	102202	ui.RikiskinSound11		
+5093	3	rikiwin1	战斗胜利1	102202	ui.RikiskinSound12		
+5093	4	rikiwin2	战斗胜利2	102202	ui.RikiskinSound13		
+5093	5	rikimain001	看板娘展示1	102202	ui.RikiskinSound3		
+5093	6	rikimain002	看板娘展示2	102202	ui.RikiskinSound4		
+5093	7	rikimain003	看板娘展示3	102202	ui.RikiskinSound5		
+5093	8	rikimain101	看板娘展示4	102202	ui.RikiskinSound6		
+5093	9	rikimain201	看板娘展示5	102202	ui.RikiskinSound7		
+							
+5094	1	rikienterlevel1	战斗开始1	110303	ui.RikiskinSound10		
+5094	2	rikienterlevel2	战斗开始2	110303	ui.RikiskinSound11		
+5094	3	rikiwin1	战斗胜利1	110303	ui.RikiskinSound12		
+5094	4	rikiwin2	战斗胜利2	110303	ui.RikiskinSound13		
+5094	5	rikimain001	看板娘展示1	110303	ui.RikiskinSound3		
+5094	6	rikimain002	看板娘展示2	110303	ui.RikiskinSound4		
+5094	7	rikimain003	看板娘展示3	110303	ui.RikiskinSound5		
+5094	8	rikimain101	看板娘展示4	110303	ui.RikiskinSound6		
+5094	9	rikimain201	看板娘展示5	110303	ui.RikiskinSound7		
+							
+5095	1	rikienterlevel1	战斗开始1	121003	ui.RikiskinSound10		
+5095	2	rikienterlevel2	战斗开始2	121003	ui.RikiskinSound11		
+5095	3	rikiwin1	战斗胜利1	121003	ui.RikiskinSound12		
+5095	4	rikiwin2	战斗胜利2	121003	ui.RikiskinSound13		
+5095	5	rikimain001	看板娘展示1	121003	ui.RikiskinSound3		
+5095	6	rikimain002	看板娘展示2	121003	ui.RikiskinSound4		
+5095	7	rikimain003	看板娘展示3	121003	ui.RikiskinSound5		
+5095	8	rikimain101	看板娘展示4	121003	ui.RikiskinSound6		
+5095	9	rikimain201	看板娘展示5	121003	ui.RikiskinSound7		
+							
+5099	1	rikienterlevel1	战斗开始1	130802	ui.RikiskinSound10		
+5099	2	rikienterlevel2	战斗开始2	130802	ui.RikiskinSound11		
+5099	3	rikiwin1	战斗胜利1	130802	ui.RikiskinSound12		
+5099	4	rikiwin2	战斗胜利2	130802	ui.RikiskinSound13		
+5099	5	rikimain001	看板娘展示1	130802	ui.RikiskinSound3		
+5099	6	rikimain002	看板娘展示2	130802	ui.RikiskinSound4		
+5099	7	rikimain003	看板娘展示3	130802	ui.RikiskinSound5		
+5099	8	rikimain101	看板娘展示4	130802	ui.RikiskinSound6		
+5099	9	rikimain201	看板娘展示5	130802	ui.RikiskinSound7		
+							
+5100	1	rikienterlevel1	战斗开始1	121302	ui.RikiskinSound10		
+5100	2	rikienterlevel2	战斗开始2	121302	ui.RikiskinSound11		
+5100	3	rikiwin1	战斗胜利1	121302	ui.RikiskinSound12		
+5100	4	rikiwin2	战斗胜利2	121302	ui.RikiskinSound13		
+5100	5	rikimain001	看板娘展示1	121302	ui.RikiskinSound3		
+5100	6	rikimain002	看板娘展示2	121302	ui.RikiskinSound4		
+5100	7	rikimain003	看板娘展示3	121302	ui.RikiskinSound5		
+5100	8	rikimain101	看板娘展示4	121302	ui.RikiskinSound6		
+5100	9	rikimain201	看板娘展示5	121302	ui.RikiskinSound7		
+							
+5102	1	rikienterlevel1	战斗开始1	111803	ui.RikiskinSound10		
+5102	2	rikienterlevel2	战斗开始2	111803	ui.RikiskinSound11		
+5102	3	rikiwin1	战斗胜利1	111803	ui.RikiskinSound12		
+5102	4	rikiwin2	战斗胜利2	111803	ui.RikiskinSound13		
+5102	5	rikimain001	看板娘展示1	111803	ui.RikiskinSound3		
+5102	6	rikimain002	看板娘展示2	111803	ui.RikiskinSound4		
+5102	7	rikimain003	看板娘展示3	111803	ui.RikiskinSound5		
+5102	8	rikimain101	看板娘展示4	111803	ui.RikiskinSound6		
+5102	9	rikimain201	看板娘展示5	111803	ui.RikiskinSound7		
+							
+5103	1	rikienterlevel1	战斗开始1	102103	ui.RikiskinSound10		
+5103	2	rikienterlevel2	战斗开始2	102103	ui.RikiskinSound11		
+5103	3	rikiwin1	战斗胜利1	102103	ui.RikiskinSound12		
+5103	4	rikiwin2	战斗胜利2	102103	ui.RikiskinSound13		
+5103	5	rikimain001	看板娘展示1	102103	ui.RikiskinSound3		
+5103	6	rikimain002	看板娘展示2	102103	ui.RikiskinSound4		
+5103	7	rikimain003	看板娘展示3	102103	ui.RikiskinSound5		
+5103	8	rikimain101	看板娘展示4	102103	ui.RikiskinSound6		
+5103	9	rikimain201	看板娘展示5	102103	ui.RikiskinSound7		
+							
+5104	1	rikienterlevel1	战斗开始1	120602	ui.RikiskinSound10		
+5104	2	rikienterlevel2	战斗开始2	120602	ui.RikiskinSound11		
+5104	3	rikiwin1	战斗胜利1	120602	ui.RikiskinSound12		
+5104	4	rikiwin2	战斗胜利2	120602	ui.RikiskinSound13		
+5104	5	rikimain001	看板娘展示1	120602	ui.RikiskinSound3		
+5104	6	rikimain002	看板娘展示2	120602	ui.RikiskinSound4		
+5104	7	rikimain003	看板娘展示3	120602	ui.RikiskinSound5		
+5104	8	rikimain101	看板娘展示4	120602	ui.RikiskinSound6		
+5104	9	rikimain201	看板娘展示5	120602	ui.RikiskinSound7		
+							
+5106	1	rikienterlevel1	战斗开始1	121503	ui.RikiskinSound10		
+5106	2	rikienterlevel2	战斗开始2	121503	ui.RikiskinSound11		
+5106	3	rikiwin1	战斗胜利1	121503	ui.RikiskinSound12		
+5106	4	rikiwin2	战斗胜利2	121503	ui.RikiskinSound13		
+5106	5	rikimain001	看板娘展示1	121503	ui.RikiskinSound3		
+5106	6	rikimain002	看板娘展示2	121503	ui.RikiskinSound4		
+5106	7	rikimain003	看板娘展示3	121503	ui.RikiskinSound5		
+5106	8	rikimain101	看板娘展示4	121503	ui.RikiskinSound6		
+5106	9	rikimain201	看板娘展示5	121503	ui.RikiskinSound7		
+							
+5107	1	rikienterlevel1	战斗开始1	102302	ui.RikiskinSound10		
+5107	2	rikienterlevel2	战斗开始2	102302	ui.RikiskinSound11		
+5107	3	rikiwin1	战斗胜利1	102302	ui.RikiskinSound12		
+5107	4	rikiwin2	战斗胜利2	102302	ui.RikiskinSound13		
+5107	5	rikimain001	看板娘展示1	102302	ui.RikiskinSound3		
+5107	6	rikimain002	看板娘展示2	102302	ui.RikiskinSound4		
+5107	7	rikimain003	看板娘展示3	102302	ui.RikiskinSound5		
+5107	8	rikimain101	看板娘展示4	102302	ui.RikiskinSound6		
+5107	9	rikimain201	看板娘展示5	102302	ui.RikiskinSound7		
+							
+5109	1	rikienterlevel1	战斗开始1	130803	ui.RikiskinSound10	芬妮澄意驯鹿皮肤-颂夜欢歌	
+5109	2	rikienterlevel2	战斗开始2	130803	ui.RikiskinSound11	芬妮澄意驯鹿皮肤-颂夜欢歌	
+5109	3	rikiwin1	战斗胜利1	130803	ui.RikiskinSound12	芬妮澄意驯鹿皮肤-颂夜欢歌	
+5109	4	rikiwin2	战斗胜利2	130803	ui.RikiskinSound13	芬妮澄意驯鹿皮肤-颂夜欢歌	
+5109	5	rikimain001	看板娘展示1	130803	ui.RikiskinSound3	芬妮澄意驯鹿皮肤-颂夜欢歌	
+5109	6	rikimain002	看板娘展示2	130803	ui.RikiskinSound4	芬妮澄意驯鹿皮肤-颂夜欢歌	
+5109	7	rikimain003	看板娘展示3	130803	ui.RikiskinSound5	芬妮澄意驯鹿皮肤-颂夜欢歌	
+5109	8	rikimain101	看板娘展示4	130803	ui.RikiskinSound6	芬妮澄意驯鹿皮肤-颂夜欢歌	
+5109	9	rikimain201	看板娘展示5	130803	ui.RikiskinSound7	芬妮澄意驯鹿皮肤-颂夜欢歌	
+							
+5111	1	rikienterlevel1	战斗开始1	121202	ui.RikiskinSound10	猫汐尔修女皮肤-喵语祈念	
+5111	2	rikienterlevel2	战斗开始2	121202	ui.RikiskinSound11	猫汐尔修女皮肤-喵语祈念	
+5111	3	rikiwin1	战斗胜利1	121202	ui.RikiskinSound12	猫汐尔修女皮肤-喵语祈念	
+5111	4	rikiwin2	战斗胜利2	121202	ui.RikiskinSound13	猫汐尔修女皮肤-喵语祈念	
+5111	5	rikimain001	看板娘展示1	121202	ui.RikiskinSound3	猫汐尔修女皮肤-喵语祈念	
+5111	6	rikimain002	看板娘展示2	121202	ui.RikiskinSound4	猫汐尔修女皮肤-喵语祈念	
+5111	7	rikimain003	看板娘展示3	121202	ui.RikiskinSound5	猫汐尔修女皮肤-喵语祈念	
+5111	8	rikimain101	看板娘展示4	121202	ui.RikiskinSound6	猫汐尔修女皮肤-喵语祈念	
+5111	9	rikimain201	看板娘展示5	121202	ui.RikiskinSound7	猫汐尔修女皮肤-喵语祈念	
+							
+5112	1	rikienterlevel1	战斗开始1	112002	ui.RikiskinSound10	卜卜魔法少女-绮恋星灵	
+5112	2	rikienterlevel2	战斗开始2	112002	ui.RikiskinSound11	卜卜魔法少女-绮恋星灵	
+5112	3	rikiwin1	战斗胜利1	112002	ui.RikiskinSound12	卜卜魔法少女-绮恋星灵	
+5112	4	rikiwin2	战斗胜利2	112002	ui.RikiskinSound13	卜卜魔法少女-绮恋星灵	
+5112	5	rikimain001	看板娘展示1	112002	ui.RikiskinSound3	卜卜魔法少女-绮恋星灵	
+5112	6	rikimain002	看板娘展示2	112002	ui.RikiskinSound4	卜卜魔法少女-绮恋星灵	
+5112	7	rikimain003	看板娘展示3	112002	ui.RikiskinSound5	卜卜魔法少女-绮恋星灵	
+5112	8	rikimain101	看板娘展示4	112002	ui.RikiskinSound6	卜卜魔法少女-绮恋星灵	
+5112	9	rikimain201	看板娘展示5	112002	ui.RikiskinSound7	卜卜魔法少女-绮恋星灵	
+							
+5113	1	rikienterlevel1	战斗开始1	120102	ui.RikiskinSound10	安卡测试形态1	1
+5113	2	rikienterlevel2	战斗开始2	120102	ui.RikiskinSound11	安卡测试形态1	1
+5113	3	rikiwin1	战斗胜利1	120102	ui.RikiskinSound12	安卡测试形态1	1
+5113	4	rikiwin2	战斗胜利2	120102	ui.RikiskinSound13	安卡测试形态1	1
+5113	5	rikimain001	看板娘展示1	120102	ui.RikiskinSound3	安卡测试形态1	1
+5113	6	rikimain002	看板娘展示2	120102	ui.RikiskinSound4	安卡测试形态1	1
+5113	7	rikimain003	看板娘展示3	120102	ui.RikiskinSound5	安卡测试形态1	1
+							
+5113	1	rikienterlevel1	战斗开始1	120102	ui.RikiskinSound10	安卡测试形态2	2
+5113	2	rikienterlevel2	战斗开始2	120102	ui.RikiskinSound11	安卡测试形态2	2
+5113	3	rikiwin1	战斗胜利1	120102	ui.RikiskinSound12	安卡测试形态2	2
+5113	4	rikiwin2	战斗胜利2	120102	ui.RikiskinSound13	安卡测试形态2	2
+5113	5	rikimain001	看板娘展示1	220102	ui.RikiskinSound3	安卡测试形态2	2
+5113	6	rikimain002	看板娘展示2	220102	ui.RikiskinSound4	安卡测试形态2	2
+5113	7	rikimain003	看板娘展示3	220102	ui.RikiskinSound5	安卡测试形态2	2
+							
+5114	1	rikienterlevel1	战斗开始1	130502	ui.RikiskinSound10		
+5114	2	rikienterlevel2	战斗开始2	130502	ui.RikiskinSound11		
+5114	3	rikiwin1	战斗胜利1	130502	ui.RikiskinSound12		
+5114	4	rikiwin2	战斗胜利2	130502	ui.RikiskinSound13		
+5114	5	rikimain001	看板娘展示1	130502	ui.RikiskinSound3		
+5114	6	rikimain002	看板娘展示2	130502	ui.RikiskinSound4		
+5114	7	rikimain003	看板娘展示3	130502	ui.RikiskinSound5		
+5114	8	rikimain101	看板娘展示4	130502	ui.RikiskinSound6		
+5114	9	rikimain201	看板娘展示5	130502	ui.RikiskinSound7		
+							
+5115	1	rikienterlevel1	战斗开始1	121303	ui.RikiskinSound10		
+5115	2	rikienterlevel2	战斗开始2	121303	ui.RikiskinSound11		
+5115	3	rikiwin1	战斗胜利1	121303	ui.RikiskinSound12		
+5115	4	rikiwin2	战斗胜利2	121303	ui.RikiskinSound13		
+5115	5	rikimain001	看板娘展示1	121303	ui.RikiskinSound3		
+5115	6	rikimain002	看板娘展示2	121303	ui.RikiskinSound4		
+5115	7	rikimain003	看板娘展示3	121303	ui.RikiskinSound5		
+5115	8	rikimain101	看板娘展示4	121303	ui.RikiskinSound6		
+5115	9	rikimain201	看板娘展示5	121303	ui.RikiskinSound7		
+							
+5116	1	rikienterlevel1	战斗开始1	102303	ui.RikiskinSound10		
+5116	2	rikienterlevel2	战斗开始2	102303	ui.RikiskinSound11		
+5116	3	rikiwin1	战斗胜利1	102303	ui.RikiskinSound12		
+5116	4	rikiwin2	战斗胜利2	102303	ui.RikiskinSound13		
+5116	5	rikimain001	看板娘展示1	102303	ui.RikiskinSound3		
+5116	6	rikimain002	看板娘展示2	102303	ui.RikiskinSound4		
+5116	7	rikimain003	看板娘展示3	102303	ui.RikiskinSound5		
+5116	8	rikimain101	看板娘展示4	102303	ui.RikiskinSound6		
+5116	9	rikimain201	看板娘展示5	102303	ui.RikiskinSound7		
+							
+5119	1	rikienterlevel1	战斗开始1	102402	ui.RikiskinSound10		胧嫣_珠光曳影_DLC_3.6
+5119	2	rikienterlevel2	战斗开始2	102402	ui.RikiskinSound11		胧嫣_珠光曳影_DLC_3.6
+5119	3	rikiwin1	战斗胜利1	102402	ui.RikiskinSound12		胧嫣_珠光曳影_DLC_3.6
+5119	4	rikiwin2	战斗胜利2	102402	ui.RikiskinSound13		胧嫣_珠光曳影_DLC_3.6
+5119	5	rikimain001	看板娘展示1	102402	ui.RikiskinSound3		胧嫣_珠光曳影_DLC_3.6
+5119	6	rikimain002	看板娘展示2	102402	ui.RikiskinSound4		胧嫣_珠光曳影_DLC_3.6
+5119	7	rikimain003	看板娘展示3	102402	ui.RikiskinSound5		胧嫣_珠光曳影_DLC_3.6
+5119	8	rikimain101	看板娘展示4	102402	ui.RikiskinSound6		胧嫣_珠光曳影_DLC_3.6
+5119	9	rikimain201	看板娘展示5	102402	ui.RikiskinSound7		胧嫣_珠光曳影_DLC_3.6
+							
+5120	1	rikienterlevel1	战斗开始1	130402	ui.RikiskinSound10		芙提雅_炬芯_国主驾到_DLC_3.6
+5120	2	rikienterlevel2	战斗开始2	130402	ui.RikiskinSound11		芙提雅_炬芯_国主驾到_DLC_3.6
+5120	3	rikiwin1	战斗胜利1	130402	ui.RikiskinSound12		芙提雅_炬芯_国主驾到_DLC_3.6
+5120	4	rikiwin2	战斗胜利2	130402	ui.RikiskinSound13		芙提雅_炬芯_国主驾到_DLC_3.6
+5120	5	main001	看板娘展示1	130402	ui.RikiskinSound3		芙提雅_炬芯_国主驾到_DLC_3.6
+5120	6	main002	看板娘展示2	130402	ui.RikiskinSound4		芙提雅_炬芯_国主驾到_DLC_3.6
+5120	7	main003	看板娘展示3	130402	ui.RikiskinSound5		芙提雅_炬芯_国主驾到_DLC_3.6
+5120	8	main101	看板娘展示4	130402	ui.RikiskinSound6		芙提雅_炬芯_国主驾到_DLC_3.6
+5120	9	main201	看板娘展示5	130402	ui.RikiskinSound7		芙提雅_炬芯_国主驾到_DLC_3.6
+							
+5121	1	rikienterlevel1	战斗开始1	120603	ui.RikiskinSound10		剑意逍遥_LDC3.6
+5121	2	rikienterlevel2	战斗开始2	120603	ui.RikiskinSound11		剑意逍遥_LDC3.6
+5121	3	rikiwin1	战斗胜利1	120603	ui.RikiskinSound12		剑意逍遥_LDC3.6
+5121	4	rikiwin2	战斗胜利2	120603	ui.RikiskinSound13		剑意逍遥_LDC3.6
+5121	5	main001	看板娘展示1	120603	ui.RikiskinSound3		剑意逍遥_LDC3.6
+5121	6	main002	看板娘展示2	120603	ui.RikiskinSound4		剑意逍遥_LDC3.6
+5121	7	main003	看板娘展示3	120603	ui.RikiskinSound5		剑意逍遥_LDC3.6
+5121	8	main101	看板娘展示4	120603	ui.RikiskinSound6		剑意逍遥_LDC3.6
+5121	9	main201	看板娘展示5	120603	ui.RikiskinSound7		剑意逍遥_LDC3.6

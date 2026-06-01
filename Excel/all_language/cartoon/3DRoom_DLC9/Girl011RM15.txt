@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	恩雅姐起得真早，有什么事吗？	恩雅姐起得真早，有什麼事嗎？	今日は早いね、エンヤ姉。何か用？	엔야 누님 일찍 일어났네요, 무슨 일 있어요?	Enya, you're up early. What's up?						0	
+page1.2	嗯~嗯~今天有要调查的事情哦，那就是——分析员哥哥在新恒提罗的一天！	嗯~嗯~今天有要調查的事情哦，那就是－－分析員哥哥在新恆提羅的一天！	ええ、今日は調べたいことがありまして。何かと言うと、分析員のお兄ちゃんのニューガントラでの一日です！	음~ 오늘 조사할 게 있어. 바로… 분석가의 뉴헨틸로에서의 하루 말이야!	Mm-hmm~ There's something special on the agenda today — to investigate Mr. Adjutant's one day of life in New Hentiro!						0	
+page1.3	……嗯？	……嗯？	……え？	… 어?	...Huh?						0	
+page1.4	孩子们都很好奇外面的世界，总是缠着我想知道分析员哥哥的冒险故事。	孩子們都很好奇外面的世界，總是纏著我想知道分析員哥哥的冒險故事。	子供たちは外の世界に興味津々で、いつも分析員のお兄ちゃんの冒険話を聞きたがるんです。	아이들은 바깥세상이 궁금했고 분석가의 모험담을 알고 싶다고 자꾸 매달렸거든.	The kids are curious about the outside world, always bugging me for tales about your adventures.						0	
+page1.5	素~材~告~急~，所以恩雅姐姐要代替大家来采访一下分析员哥哥哟。	素~材~告~急~，所以恩雅姐姐要代替大家來採訪分析員哥哥喲。	ネタが切れそうだったので、みんなの代わりに私がインタビューしようかと。	소~ 재~ 고~ 갈~ 그래서 엔야 언니가 분석가를 대신해서 인터뷰하러 왔어.	We're running low on stories, so I'm here to collect some fresh material from Mr. Adjutant.						0	
+page1.6	在新恒提罗的一天是怎样度过的呢？	在新恆提羅的一天是怎麼度過的呢？	ニューガントラでの一日はどのように過ごされたのでしょうか？	뉴헨틸로에서의 하루는 어땠어?	So, what's a typical day for you in New Hentiro like?						0	
+page1.7	我想想……首先乘坐空艇去往新恒提罗……小朋友们可以理解空艇吗？	我想想……先搭乘空艇去往新恆提羅……小朋友們可以理解空艇嗎？	えっと……まずは飛空艇でニューガントラへ……子供たちに飛空艇は分かるかな？	생각해 볼게… 우선 비행선을 타고 뉴헨틸로에 가자… 어린이들은 비행선을 이해할 수 있을까요?	Let's see... it starts with a ride on a skyskiff to New Hentiro... Do the kids know what a skyskiff is?						0	
+page1.8	可以~在孩子们的眼中，分析员哥哥搭乘会飞的小船，在天空中奔赴目的地……	可以~在孩子們的眼中，分析員哥哥搭乘會飛的小船，在天空中奔赴目的地……	大丈夫、分かりますよ～。子供たちの目には、分析員のお兄ちゃんが空飛ぶボートに乗り、目的地を目指して空を駆けるような姿が映っています。	가능해~ 아이들 눈에는 분석가가 날 수 있는 비행선을 타고 하늘에서 목적지로 달려가는데…	Yes~ In their eyes, Mr. Adjutant sails across the sky in a flying boat to his destination...						0	
+page1.9	白天在机器人的带领下参观城市，偶尔可能遇到怪异的现象……	白天在機器人的帶領下參觀城市，偶爾可能會遇到怪異的現象……	昼間はロボットに案内されて街を歩いたり、たまに不思議なことに遭遇したり……	낮에 로봇에 이끌려 도시를 구경하다 보면 가끔 괴이한 현상을 만날 수 있어요…	During the day, robot guides take me around the city, and occasionally, I might have some odd encounters...						0	
+page1.10	嗯嗯，那就这样讲，分析员哥哥去往的地方，潜藏着许多危险……	嗯嗯，那就這樣講，分析員哥哥去往的地方，潛藏著許多危險……	うんうん。こうしてみると、分析員のお兄ちゃんが行った場所には危険が満ちていますね……	네, 네, 그럼 이렇게 말씀드리면 분석가가 가는 곳에는 많은 위험이 도사리고 있고…	I'll tell them the places Mr. Adjutant visits are filled with dangers...						0	
+page1.11	他一不小心踏入了另一个世界，不得不在敌人布下的重重迷宫里寻找出口。	他一不小心踏入了另一個世界，只好在敵人布下的重重迷宮裡尋找出口。	うっかり異世界に足を踏み入れた彼は、敵が仕掛けた迷宮の中で出口を探さなければならなかった。	그는 실수로 다른 세계에 발을 들여놓아 적이 깔아놓은 첩첩한 미궁 속에서 출구를 찾아야 했어요.	He accidentally steps into another dimension and is forced to navigate a complex maze of enemy traps.						0	
+page1.12	呀！分析员被魔王的陷阱困住了！	呀！分析員被魔王的陷阱困住了！	まあ！分析員は魔王の罠にかかってしまったのですね！	야! 분석가가 마왕의 함정에 걸렸네!	Oh, no! Mr. Adjutant got caught in an evil overlord's trap!						0	
+page1.13	他必须要识破谎言，翻山越岭，才能得到解救自己和朋友的钥匙……这样说如何？	他必須要識破謊言，翻山越嶺，才能得到解救自己和朋友的鑰匙……這樣說如何？	彼は嘘を見抜き、困難を乗り越え、自分と仲間を助けるための鍵を手に入れなければならない……というのはどうだ？	그는 거짓말을 간파하고 산을 넘어야 자신과 친구를 구할 수 있는 열쇠를 얻게 되는데… 라고 하면 어떨까요?	He'd have to see through lies and trek up mountains to find the key that would save himself and his friends... How does that sound?						0	
+page1.14	太精彩了！我觉得分析员给小朋友讲故事的天赋比我更好呢！	太精彩了！我覺得分析員給小朋友講故事的天份比我好呢！	素晴らしいです！分析員は、子供たちに物語を話す才能が私より高いと思います！	너무 멋져! 난 분석가가 어린이에게 이야기를 들려주는 재능이 저보다 더 좋은 것 같아!	Brilliant! You might have a better knack for storytelling than I do!						0	

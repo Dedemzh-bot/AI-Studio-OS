@@ -1,0 +1,29 @@
+﻿任务流水ID	所属少女	同步技能名称	同步技能描述	同步技能图标	同步技能分支	上一同步技能	解锁所需条件描述	解锁所需条件(1使用任意武器，次数；2累计击杀敌人，数量；3携带同一武器通关，次数；4累计购买护盾道具，次数；5累计购买火焰防线道具，次数；6购买护盾道具通关，次数；7累计移动距离，距离；8累计购买机枪防线道具，次数；9累计购买导弹防线道具，次数）	达成解锁buff(1.modiferID 2.商品ID)
+ID	ReferGirl	SystemName	Systemdes	SystemPic	SystemRank	LastRank	UnlockConditionDes	UnlockCondition	SystemBuff
+1	1	armoredrider.ArmoredRiderSyestemName01	armoredrider.ArmoredRiderSyestemDes01	5271000	1		armoredrider.ArmoredRiderSyestemUnlockDes01	{1,3}	{1,1009}
+2	1	armoredrider.ArmoredRiderSyestemName02	armoredrider.ArmoredRiderSyestemDes02	5271001	1	1	armoredrider.ArmoredRiderSyestemUnlockDes02	{2,1000}	{1,1010}
+3	1	armoredrider.ArmoredRiderSyestemName03	armoredrider.ArmoredRiderSyestemDes03	5271002	1	2	armoredrider.ArmoredRiderSyestemUnlockDes03	{3,3}	{1,1011}
+4	1	armoredrider.ArmoredRiderSyestemName04	armoredrider.ArmoredRiderSyestemDes04	5271003	2		armoredrider.ArmoredRiderSyestemUnlockDes04	{4,3}	{1,1001}
+5	1	armoredrider.ArmoredRiderSyestemName07	armoredrider.ArmoredRiderSyestemDes07	5271006	2	4	armoredrider.ArmoredRiderSyestemUnlockDes11	{9,3}	{1,1003}
+6	1	armoredrider.ArmoredRiderSyestemName08	armoredrider.ArmoredRiderSyestemDes08	5271007	2	5	armoredrider.ArmoredRiderSyestemUnlockDes06	{6,3}	{1,1002}
+7	1	armoredrider.ArmoredRiderSyestemName09	armoredrider.ArmoredRiderSyestemDes09	5271008	3		armoredrider.ArmoredRiderSyestemUnlockDes07	{7,1000}	{1,1006}
+8	1	armoredrider.ArmoredRiderSyestemName10	armoredrider.ArmoredRiderSyestemDes10	5271009	3	7	armoredrider.ArmoredRiderSyestemUnlockDes08	{7,2000}	{1,1007}
+9	1	armoredrider.ArmoredRiderSyestemName11	armoredrider.ArmoredRiderSyestemDes11	5271010	3	8	armoredrider.ArmoredRiderSyestemUnlockDes09	{7,3000}	{1,1008}
+10	2	armoredrider.ArmoredRiderSyestemName01	armoredrider.ArmoredRiderSyestemDes01	5271000	1		armoredrider.ArmoredRiderSyestemUnlockDes01	{1,3}	{1,1009}
+11	2	armoredrider.ArmoredRiderSyestemName02	armoredrider.ArmoredRiderSyestemDes02	5271001	1	10	armoredrider.ArmoredRiderSyestemUnlockDes02	{2,1000}	{1,1010}
+12	2	armoredrider.ArmoredRiderSyestemName03	armoredrider.ArmoredRiderSyestemDes03	5271002	1	11	armoredrider.ArmoredRiderSyestemUnlockDes03	{3,3}	{1,1011}
+13	2	armoredrider.ArmoredRiderSyestemName04	armoredrider.ArmoredRiderSyestemDes04	5271004	2		armoredrider.ArmoredRiderSyestemUnlockDes04	{4,3}	{1,1001}
+14	2	armoredrider.ArmoredRiderSyestemName05	armoredrider.ArmoredRiderSyestemDes05	5271006	2	13	armoredrider.ArmoredRiderSyestemUnlockDes05	{5,3}	{1,1004}
+15	2	armoredrider.ArmoredRiderSyestemName08	armoredrider.ArmoredRiderSyestemDes08	5271007	2	14	armoredrider.ArmoredRiderSyestemUnlockDes06	{6,3}	{1,1002}
+16	2	armoredrider.ArmoredRiderSyestemName09	armoredrider.ArmoredRiderSyestemDes09	5271008	3		armoredrider.ArmoredRiderSyestemUnlockDes07	{7,1000}	{1,1006}
+17	2	armoredrider.ArmoredRiderSyestemName10	armoredrider.ArmoredRiderSyestemDes10	5271009	3	16	armoredrider.ArmoredRiderSyestemUnlockDes08	{7,2000}	{1,1007}
+18	2	armoredrider.ArmoredRiderSyestemName11	armoredrider.ArmoredRiderSyestemDes11	5271010	3	17	armoredrider.ArmoredRiderSyestemUnlockDes09	{7,3000}	{1,1008}
+19	3	armoredrider.ArmoredRiderSyestemName01	armoredrider.ArmoredRiderSyestemDes01	5271000	1		armoredrider.ArmoredRiderSyestemUnlockDes01	{1,3}	{1,1009}
+20	3	armoredrider.ArmoredRiderSyestemName02	armoredrider.ArmoredRiderSyestemDes02	5271001	1	19	armoredrider.ArmoredRiderSyestemUnlockDes02	{2,1000}	{1,1010}
+21	3	armoredrider.ArmoredRiderSyestemName03	armoredrider.ArmoredRiderSyestemDes03	5271002	1	20	armoredrider.ArmoredRiderSyestemUnlockDes03	{3,3}	{1,1011}
+22	3	armoredrider.ArmoredRiderSyestemName04	armoredrider.ArmoredRiderSyestemDes04	5271005	2		armoredrider.ArmoredRiderSyestemUnlockDes04	{4,3}	{1,1001}
+23	3	armoredrider.ArmoredRiderSyestemName06	armoredrider.ArmoredRiderSyestemDes06	5271006	2	22	armoredrider.ArmoredRiderSyestemUnlockDes10	{8,3}	{1,1005}
+24	3	armoredrider.ArmoredRiderSyestemName08	armoredrider.ArmoredRiderSyestemDes08	5271007	2	23	armoredrider.ArmoredRiderSyestemUnlockDes06	{6,3}	{1,1002}
+25	3	armoredrider.ArmoredRiderSyestemName09	armoredrider.ArmoredRiderSyestemDes09	5271008	3		armoredrider.ArmoredRiderSyestemUnlockDes07	{7,1000}	{1,1006}
+26	3	armoredrider.ArmoredRiderSyestemName10	armoredrider.ArmoredRiderSyestemDes10	5271009	3	25	armoredrider.ArmoredRiderSyestemUnlockDes08	{7,2000}	{1,1007}
+27	3	armoredrider.ArmoredRiderSyestemName11	armoredrider.ArmoredRiderSyestemDes11	5271010	3	26	armoredrider.ArmoredRiderSyestemUnlockDes09	{7,3000}	{1,1008}

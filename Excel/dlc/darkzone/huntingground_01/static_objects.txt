@@ -1,0 +1,25 @@
+﻿静态物件名	Id(程序自动生成)	类型(1:门;2:电梯)
+Name	Id
+gear001_02_bp4	2	1
+gear001_02_bp6	3	1
+switch_11	4	1
+switch_12	5	1
+switch_13	6	1
+switch_15	7	1
+switch_16	8	1
+switch_17	9	1
+switch_18	10	1
+switch_20	11	1
+switch_21	12	1
+switch_24	13	1
+switch_25	14	1
+switch_26	15	1
+switch_27	16	1
+switch_28	17	1
+switch_29	18	1
+switch_30	19	1
+switch_31	20	1
+switch_32	21	1
+switch_04	22	2
+switch_05	23	2
+gear003_01_bp2	24	2

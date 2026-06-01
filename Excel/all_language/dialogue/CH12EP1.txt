@@ -1,0 +1,157 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	哈啊……果然会是这种结局。从一上路开始，所有人就都不能再回头了。	哈啊……果然會是這種結局。從踏上這條路開始，所有人就無法回頭了。	はあ……はあ……やっぱり、こうなってしまうんだね。一歩踏み出した時点でもう……元には戻れないんだ……	하아… 역시 이런 결말이구나. 길을 떠난 이상, 되돌릴 수 없는 법이지.	Hah... so it's gonna end like that. Once you're on this path, no one can turn back.						0	
+2	……苔丝！	……黛斯！	……ス！	… 테스!	...Tess!						0	
+3	喂！苔丝！！	喂！黛斯！！	テス！	이봐! 테스!!	Hey! Tess!!!						0	
+4	回神！别发呆了！！	回神！別發呆了！！	いつまでぼーとしているのですか？	정신 차려요! 멍하니 있지 말아요!!	Snap out of it! Stop zoning out!!!						0	
+5	辰星姐，你看见了吗？	辰星姐，你看見了嗎？	辰星姉さん……見てたの？	수성 언니, 봤어요?	Chenxing, did you see that?						0	
+6	看见何物？	看見何物？	なにをですか？	뭘요?	See what?						0	
+7	嗯……算了，没什么，小秘密！嘿嘿……	嗯……算了，沒什麼，小秘密！嘿嘿……	んーまあ……やっぱりいいや！秘密です★えへへ。	음… 아무것도 아니에요. 비밀이에요! 헤헤…	Um... never mind. It's nothing. It's a secret! Hehe...						0	
+8	省点胡言乱语的力气。我知道你和分析员一定有事瞒着我们，眼下先不做计较，得尽快查清楚是什么人在攻击我们！	省點胡言亂語的力氣。我知道你跟分析員一定有事情瞞著我，眼下先不跟你計較，得盡快查明是誰攻擊我們！	なら、構いません。あなたと分析員が私に隠し事をしていることは知っています。でも、今は我々を襲っている敵の正体を突き止めるために専念してください。	쓸데없는 소리 말고 힘을 아껴요. 테스와 분석가가 뭔가를 숨기고 있다는 거 알아요. 일단은 우리를 공격하는 게 누구인지 알아내는 게 급선무예요!	Save your breath. I know you and the Adjutant are hiding something from us, but that's not important right now. We need to figure out who's attacking us!						0	
+9	还有，分析员那边还是联系不上吗？	還有，還是聯繫不上分析員嗎？	それと、分析員とはまだ連絡がつかないのですか？	그리고, 분석가님과는 아직 연락이 안 되나요?	You still can't make contact with the Adjutant?						0	
+10	所有通讯手段都被屏蔽了，对方应该是用了强干扰的静默技术。	所有訊號都被遮蔽了，對方應該是用了強干擾的靜默技術。	あらゆる通信手段が無効化されてるからね……かなり強力なジャミングが使われてるっぽいよ。	모든 통신 수단이 차단되었어요, 상대가 강력한 신호 통제 기술을 사용한 것 같아요.	All comms channels have been blocked. The enemy must be using advanced interference tech to keep us silent.						0	
+11	你要是不介意，我可以试试变只鸽子出来，替咱们送个手信出去？	你要是不介意，我可以試試變隻鴿子出來，幫我們送信？	あっ、姉さんさえよければ、私のハトに手紙を持たせて、分析員に届けさせることもできるけど★～？	혹시 괜찮다면, 제가 비둘기 마술을 사용해서 편지를 보내도 될까요?	Hmm, should I try to conjure up a pigeon and have it carry out a letter for us?						0	
+12	我不习惯开这种玩笑。	我不習慣開這種玩笑。	今は冗談を言ってる場合じゃありませんよ。	그런 농담에는 적응이 안 되네요.	...I don't make jokes in the field.						0	
+13	别板着脸嘛辰星姐。哎呀，边境地区就是这样，哪怕只是办一件简单的小事都恨不得一秒钟一个变故。	別這麼嚴肅嘛辰星姐。唉呀～邊境就是這樣，就算是辦一件簡單的小事都需要臨機應變。	うええ……ごめんなさい。でも、辺境じゃこんなの日常茶飯事だよ？どれだけ簡単な仕事だって、すぐにトラブルに繋がっちゃうんだから。	그렇게 쌀쌀맞게 굴지 말아요, 수성 언니. 어휴, 국경 지역은 늘 이런가 봐요. 간단한 일에도 변수가 끊이지 않네요.	Loosen up, Chenxing. That's just how it is in the border region. Things can turn sour in the blink of an eye, even for the simplest stuff.						0	
+14	深谋远虑的脑袋在这里可是要昏头的。	深謀遠慮的腦袋在這裡可是很難存活的。	だから計画を立ててもたいてい予定が狂っちゃうんだよね。	아무리 주도면밀한 사람이라도 여기서는 어리숙해지네요.	You'll go crazy here if you can't handle any deviations from the plan.						0	
+15	我们离开零区一千多公里了，期间一直风平浪静，为什么偏偏到了<snowbreak>耶洛沙</><orange>边境线</>就有人动手了。	我們離開零區一千多公里了，期間一直風平浪靜，為什麼偏偏到了<snowbreak>耶洛沙</><orange>邊境線</>就有人動手了。	エリアゼロからここまでおよそ1000キロ以上移動して来ましたが、その間何もありませんでした。なのに、<snowbreak>イェロシャ</><orange>辺境</>に入った途端襲撃を受けるなんて。	제로 구역을 떠난 지 천 킬로미터가 넘었는데, 그동안 잠잠하다가 왜 하필 <snowbreak>옐로샤</> <orange>국경</>에서 습격을 받은 걸까요?	We've already come over a thousand kilometers from the Containment Zone, and everything had been going smoothly before this. Why is someone only making a move now that we've reached the <snowbreak>Yehrus</> <orange>border</>?						0	
+16	明知道我们是世界树，还敢这么大张旗鼓地做动作，有这种胆子的武装集团可没几个。	明知道我們是世界樹，還敢如此大張旗鼓地搞鬼，有這種膽量的武裝集團可沒幾個。	我々をユグドラシル社所属だと知った上で、こうも大胆なことをできる武装組織など、そう多くはないはずですが。	우리가 위그드라실 소속이라는 걸 알면서도 이렇게 대담한 행동을 보였어요. 그런 배짱 두둑한 무장세력이 얼마나 있을까요?	They know we're from Yggdrasil but still have the nerve to make such a bold move. There aren't many militant groups that brave.						0	
+17	最奇怪的点是他们一直只肯使用轻步兵火力，很努力地在装出一副小打小闹的匪帮模样来。	最奇怪的一點是，他們只使用輕裝步兵的火力，很努力地佯裝成小規模的武裝團體。	しかも、今のところ軽歩兵だけだよね。騒ぎにならないように、がんばって盗賊を装ってる感じ。	제일 이상한 건 그들이 경보병의 화력만 사용한다는 점이에요. 일부러 일개 건달처럼 행동하고 있어요.	The weirdest part is they're only using light firepower. It's like they're trying to masquerade as a small-time gang or something.						0	
+18	恐怕一旦用上重武器，他们的身份就该立刻昭然若揭了！	一旦用上了重裝武器，他們的身分便立刻昭然若揭了。	重火器を使えば、素性がすぐにバレてしまうからでしょう。	중무기를 사용하면 그들의 정체가 바로 드러날 거예요!	Maybe their identity would be revealed the second they started using heavy weaponry!						0	
+19	或者是自大到了认为这样就足够干掉我们……	或者是有自信以為這樣就能幹掉我們……	もしくは……私たちを相手にするなら、これで十分って思い込んでいるのかもね……	아니면 이 정도면 우릴 충분히 해치울 거라 자신한 걸지도 모르고요…	Or maybe they're so arrogant, they think this is enough to defeat us...						0	
+20	小心，辰星姐！	小心，辰星姐！	辰星姉さん、危ない！	조심해요, 수성 언니!	Chenxing, look out!						0	
+21	一星期前	一星期前	一週間前	일주일 전	One week earlier						0	
+22	噫……好痛！	啊……好痛！	んぎゃっ……あいたたた！	윽… 아파라!	Ow... that hurts!						0	
+23	这新家伙的脾气可真大！我的肩膀不会脱臼吧……	這新傢伙的脾氣可真壞！我的肩膀不會脫臼吧……	もー、加減してくれないと……肩外れちゃったらどうするのさ……	이 녀석 성깔 한번 대단하네! 어깨가 탈골된 건 아니겠지…	This new guy has an awful temper! My shoulder isn't dislocated... right?						0	
+24	老板说了，下周是你第一次跟分析员一起出任务，装具配置要用最高规格的。	老闆說了，下週是你第一次跟分析員一起出任務，要使用最頂級的特殊武器。	来週には分析員との初の共同ミッションがあるので、あなたには一番良い装備を支給するようにと、ボスからの指令があったのです。	이사님이 말씀하셨어요. 다음 주에 당신과 분석가가 함께하는 첫 미션에 나갈 예정이니, 최고 사양의 장비를 사용해야 한다고요.	The boss said you'll have your first mission with the Adjutant next week. All of the equipment needs to be configured to the highest specifications.						0	
+25	这次和你之前习惯的单兵作战，特种侦察不一样，而且……	這次和你習以為常的單兵作戰、特殊偵查不一樣，而且……	あなたが今まで経験して来た単独作戦や特殊偵察とは性質が異なるものです。しかも……	이번에는 전에 주로 했던 단독 작전이나 특수 정찰과 달라요, 그리고…	It's going to be different than the solitary combat and special recon missions you're used to, and...						0	
+26	没有后勤，没有补给，没有支援。一旦失败，公司会第一时间拒绝承认我们的身份。	沒有後勤、沒有補給、沒有支援。一旦失敗，公司會第一時間拒絕承認我們的身分。	後方支援も、補給も、援護もない。失敗した時点で会社との契約は解除されたと思ってください。	지원도, 보급도 없고요. 실패하는 경우, 회사는 우리의 신원을 인정하지 않을 거예요.	There won't be any logistics, supplies, or support. If we fail, Yggdrasil will deny any connection to us.						0	
+27	这些例行公事的话她每次都会叮嘱我，早习惯了。	這些例行公事的話她每次都會跟我嘮叨，早聽膩了。	ってやつでしょ？もう耳にタコができるぐらい聞かされたよ。	이런 형식적인 공무라면 이사님이 매번 당부해서 익숙해요.	The boss gives me that same speech every single time. I've heard it all before.						0	
+28	苔丝……你不会真以为老板是个言语轻佻的人吧？	黛斯……你不會真的覺得老闆在跟你開玩笑吧？	テス。ボスが軽口を叩くタイプだとでも思っているのですか？	테스… 설마 이사님이 경솔한 사람이라고 생각하는 건 아니죠?	Tess... you know she doesn't say those things lightly, right?						0	
+29	不会啊。	不會啊。	まさか。	아니에요.	Of course.						0	
+30	外人总觉得我是她的私兵什么的，其实她……	外人總說我是她的私人武裝，但其實她……	私を彼女の私兵みたいに捉える人もいるみたいだけどさ……	사람들은 제가 이사님의 사병 같은 존재라고 생각하지만, 사실은…	People on the outside looking in think I'm her own private soldier or something, but actually...						0	
+31	她只是喜欢每次都把我欺负个半死，看着我在近乎绝境的前提下完成一个又一个不可能任务而已。	她只是喜歡每次都我把欺負個半死，看著我在近乎絕境的情況下完成一個又一個不可能的任務。	あの人って、単純に意地悪なんだよね。私がほとんど不可能に近いミッションを、青息吐息でなんとか片付けて来るのを眺めて喜んでんだよ。	제가 죽도록 고생하는 걸 즐기는 것뿐이에요. 제가 절망에 빠졌을 때 불가능한 미션을 하나씩 완수하는 모습을요.	She just likes to bully the crap out of me and throw me into dangerous, impossible missions one after another.						0	
+32	这是她的个人爱好？对我的考验？都不要紧。	這是她的興趣？對我的考驗？我不在乎。	ま、私への試練だとか、あの人の趣味だとか、そんなことはどうだっていいんだけどさ。	그게 이사님의 취미일까요? 아니면 저에 대한 시험? 뭐든 상관없어요.	Is it just her hobby? Or is she testing me? Either way, it doesn't matter.						0	
+33	从我加入海姆达尔开始，个人的荣誉、安危、生死……都不再是什么重要的事了。	從我加入海姆達爾那一刻，名譽、尊嚴、生死……都不是什麼重要的事了。	ヘイムダルに入った時点で、私の個人的な栄誉も、命も、身の安全も……ぜーんぶ無意味なんだから。	제가 헤임달에 합류했을 때부터 개인적인 명예나 안위, 생사는… 별로 중요한 게 아니었어요.	Since I joined the Heimdall Force, my own honor, safety, even my life... aren't important anymore.						0	
+34	那你在乎什么？	那你在乎什麼？	けれど、あなたにだって大切なものぐらいあるはずでは。	그럼 당신에게 중요한 건 뭔가요?	So what do you care about?						0	
+35	怎么？情报官小姐对我感兴趣呀？	唉呀？情報官小姐對我感興趣呀？	あれれ？情報官さん、私のこと気にしてくれてるんだ★	그건 왜 물으세요? 정보관님, 저에게 관심 있으세요?	Why do you ask? Are you curious about me, Miss Intelligence Officer?						0	
+36	咳……你的资料对内部也一直都是绝密，除了老板之外，没人清楚你的底细。	咳……你的資料對內部也一直是機密，除了老闆之外，沒人清楚你的底細。	コホン……あなたの資料は機密情報でしたからね。ボス以外、あなたの正体を知る人はいません。	흠… 당신의 자료는 내부적으로도 극비라서, 이사님 외에는 당신의 내막을 아는 사람이 없어요.	Ahem... All of your info is strictly confidential, even internally. No one knows any details about you other than the boss.						0	
+37	出于我的职责和立场，我认为有必要在你陪同分析员出发之前，对你做一个最基本的判断了解。	基於我的職責和立場，我認為有必要在你陪同分析員一起出發之前，對你有基本的瞭解。	私の立場上、あなたが分析員に同行する前に、あなたのことを知っておく必要があるかと思っただけです。	저의 직책과 입장 관계상, 당신이 분석가와 함께 출발하기 전에 당신에 대한 최소한의 정보를 알 필요가 있다고 생각해요.	Due to my responsibilities and position, I think I need to gain a basic understanding of you before you begin working with the Adjutant.						0	
+38	嗯嗯……有道理！	嗯嗯……有道理！	うーん……確かにそうだね！	음… 듣고 보니 그렇네요!	Alright... that makes sense!						0	
+39	可我偏不告诉你。	可我就不告訴你！	でも残念。それはヒ、ミ、ツ～	하지만 역시 말하지 않을래요.	But I'm not gonna tell you.						0	
+40	你……！	你……！	なっ……！	정말…!	You...!						0	
+41	是把好枪，谢啦！顺带一问，那个人……他现在会在哪儿？	這是把好槍，謝啦！順便問一下，那個人……現在在哪？	いい銃をありがとう★それと……あの人が行きそうな場所、知らない？	좋은 총이네요, 고마워요! 그런데 그 사람은… 지금 어디 있나요?	This is a great gun — thanks! By the way... where's that guy now?						0	
+42	按惯例，他现在应该在医疗室门口傻站着。不过我建议你最好别去打扰他。	按照慣例，他現在應該呆站在醫療室門口。不過我建議你最好別去打擾他。	これまで通りなら、医療室の前で突っ立っていると思いますよ。ただ、今はそっとしておいた方がいいと思います。	평소대로라면 지금쯤 아마 의무실 문 앞에서 멍하니 서 있겠죠. 하지만 그를 방해하지 않는 게 좋을 것 같아요.	If his recent routine is any indication, he's probably standing around in front of the medical bay. But I suggest you don't bother him.						0	
+43	自从<orange>断点行动</>之后，他就变得很难以捉摸。	自從<orange>絕境行動</>之後，他就變得難以捉摸。	<orange>ブレーク作戦</>以来、どうも様子が変ですので。	<orange>중단 작전</> 이후로 도무지 종잡을 수 없게 됐거든요.	He's become a bit unpredictable since <orange>Operation Breakpoint</>.						0	
+44	很冷，很累，嘴唇很干，心脏跳得很快。	很冷、很累、嘴巴很乾，心跳得很快。	寒さと、疲労。唇は乾き、心臓も早鐘のように脈打っている。	춥고, 피곤하고, 입술이 바짝바짝 마르고, 심장이 두근거렸다.	I was freezing and exhausted. My dry lips slowly cracked as my heart beat quickly in my chest.						0	
+45	我从来都不喜欢公司总部的廊灯。这种墙灰一般的苍白色总是透着一股超然的理性。	我一向不喜歡公司走廊的燈，這種面無血色的蒼白總是透著冷漠的理性。	本社の廊下に設置されている照明器具はどうも好きになれない。あの青白い光を浴びていると、何もかもかなぐり捨てろと言わんばかりの、冷たい合理性を押し付けられている気がした。	난 회사 본부의 복도 전등을 좋아하지 않는다. 벽의 먼지처럼 창백한 색에는 어떤 초연한 이성이 스며있었다.	I never liked the fluorescent lighting at Yggdrasil Headquarters. The pale hue was tinged with a sense of detachment.						0	
+46	灯光刺进眼睛里的时候，我总会想起很久以前，自己曾经是个什么样的人。	刺眼的燈光照到眼睛時，總是會讓我想起以前的自己。	あの光が網膜に差し込むたびに、遠い過去の自分を嫌でも思い出してしまうのだ。昔の自分が、どんな人間だったのかを。	불빛에 눈이 부실 때마다, 오래전에 내가 어떤 사람이었는지 떠오르곤 했다.	Whenever that light shone into my eyes, I couldn't help thinking about the person I once was.						0	
+47	冷漠，理性，谨慎，敏锐，从不会感情用事……	冷漠、理性、謹慎、敏銳，從不會感情用事……	何事にも無関心で理性的。慎重で、機敏で、感情に決して流されなかったあの頃の自分のことを……	냉담하고 이성적이었다. 신중하고 예민해서 일을 감정적으로 처리하는 법이 없었다…	Cold, rational, cautious, perceptive, and never emotional...						0	
+b-1											0	
+48	里芙，起床吧，拜托你……	里芙，起床吧，拜託你……	リフ。頼むから……	리브, 일어나. 제발…	Lyfe, wake up. Please...						0	
+49	星期三，醒过来……！	星期三，快醒來……！	目を覚ましてくれ、ウェンズデー……！	웬스데이, 일어나…!	Wednesday, wake up...!						0	
+50	告诉我，我是那样的人，对吗？	告訴我，我是那樣的人，對嗎？	なあ。私はそういう人間だって、言ってくれよ。	말해줘, 내가 정말 그런 사람이야?	Tell me... I'm that kind of person, right?						0	
+51	告诉我，一个月前，就在这里，就在这座总部大楼里。	告訴我，一個月前就在這裡，就在這座總部大樓裡。	一か月前、この本社ビルで。	말해줘. 한 달 전에 바로 여기, 바로 여기 본부 건물에 있었다고 말이야.	Tell me... one month ago, right here in the headquarters building...						0	
+52	你替我挡下那些子弹，是因为我这种人只会发出……最正确的命令，而你从来都是个好士兵！	你替我擋下那些子彈，是因為我這種人只會發出……最正確的命令，而你從來都是個好士兵！	君が私をかばって銃弾に倒れたのは、私が出した「正しい指示」に従ったせいだって。	네가 나 대신 탄약을 막아준 이유가 나 같은 사람은 언제나… 가장 정확한 명령만 내릴 수 있기 때문이고, 넌 언제나 좋은 병사이기 때문이야?!	You took those bullets for me because... people like me only give the right orders, and you've always been a good soldier!						0	
+53	告诉我你只是一如既往地！认真地！刻板地！不带任何杂念地履行了你的义务，对吗？！	告訴我你只是一如既往地！認真地！刻板地！不帶任何雜念地履行了你的義務，對嗎？！	いつも通り、真面目に、まっすぐに、自分の義務を果たしたまでだって！	넌 늘 한결같이! 진지하게! 융통성 없이! 아무런 잡념도 없이 너의 의무를 수행한 것뿐이라고 말해줘!	Tell me you're the same as you've always been! Serious and rigid! Carrying out your duties without any distractions, right!?						0	
+54	醒过来啊！里芙……呜咳……！	快醒過來啊！里芙……嗚咳……！	リフ……お願いだ……！うう……	일어나… 리브… 흐흑…!	Wake up! Lyfe... *cough*...!						0	
+55	口鼻之间满是腥甜，掌心里攥着一把黏腻，明明是饱含愤怒的拳头，砸在医疗室玻璃上却像是在求饶一样……	口鼻之間滿是腥甜味道，掌心盡是黏膩感，明明是滿含怒意的拳頭，砸在醫療室的玻璃上卻像是在求饒……	ひどい有り様だった。汗の滲む手で医療室のガラスに怒りをぶつけている私は、傍から見ればみっともなく許しを乞うているようにしか見えなかったはずだ。	눈물과 콧물이 범벅된 채 분노에 찬 주먹으로 의무실 유리를 때려 부쉈지만, 그 주먹은 어쩐지 용서를 구하는 것 같았다…	I had a sickly lump in my throat and clutched my sweaty hand into a fist. It was clearly filled with anger, but I slammed it on the medical bay's glass door as if I was begging for mercy...						0	
+56	分析员，你果然在这……你怎么了？！	分析員，你果然在這……你怎麼了？！	分析員、ここにいたのか……って、どうしたんだ！？	분석가, 역시 여기 있었구나… 무슨 일이야?!	Adjutant, you're here... What's wrong!?						0	
+57	分析员！	分析員！	分析員！	분석가!	Adjutant!						0	
+58	她的义肢很硬，这种没有体温的东西正环绕在我的脖颈上，我该觉得冷才对，可为什么……会没有知觉呢。	她毫無溫度的義肢環繞著我的肩膀，我應該感到冷才對，但為什麼……會沒有知覺呢。	彼女の体温を持たない、固い義肢が私の首に回された。本来なら冷たさを感じるべきなのに、どういうわけか……私は何も感じ取ることができなかった。	온기가 느껴지지 않는 그녀의 단단한 로봇팔이 내 목덜미를 감쌌다. 차갑다고 느껴져야 정상인데, 어째서… 느껴지지 않는 걸까.	Her stiff prosthesis emitted no body heat as it wrapped around my shoulders. I should have felt a chill, but... why didn't I?						0	
+59	我扶你进去，你需要治疗。	我扶你進去，你需要治療。	中に入れ。治療が必要だ。	내가 부축해 줄게, 치료해야겠다.	Let me help you in. You need to be treated.						0	
+b-2											0	
+60	握住晴的手。	握住晴的手。	晴の手をそっと握り返すと。	하루의 손을 잡는다.	Hold Haru's hand						0	
+61	轻轻摇头。	輕輕搖頭。	私は首を横に振った。	살며시 고개를 젓는다.	Refuse						0	
+62	她克制住了想要反驳我的欲望，默默地扶起我，离开了医疗室门口。	她克制了想要反駁我的衝動，默默地扶起我離開醫療室門口。	彼女は何か言いたそうだったけれど、そのまま私に肩を貸しながら、医療室を後にした。	그녀는 나에게 반박하고 싶은 욕구를 꾹 억누르고, 조용히 나를 부축하더니 의무실을 떠났다.	She resisted the urge to argue with me. Instead, she helped me up silently and moved away from the medical bay door.						0	
+63	为什么会这样？难道还有弹片留在心脏里？	為什麼會這樣？難道還有彈片留在心臟裡？	なんでこんなことになってるんだ？弾丸の破片がまだ心臓に残っているせいか？	왜 이러는 거야? 아직 심장에 파편이 남아 있는 거야?	What's going on? Is there still shrapnel in your heart?						0	
+64	对。十五米的距离，从后心处射入的子弹就产自世界树公司武器车间。经由专业人士改造过的空尖弹上甚至附着了微量的神经毒素。	對，十五公尺的距離，從心臟後方射穿的子彈就來自於世界樹公司的武器工廠。專家改造過的彈頭上甚至含有微量的神經毒素。	そうだ。15メートルの距離から背中に撃ち込まれた弾丸は、ユグドラシル社のものだった。プロの手による加工が施されたそのJHP弾には、微量ではあるけれど神経毒が仕込まれていたのである。	그렇다. 15미터 거리에서 발사되어 등 쪽으로 파고든 탄약은 위그드라실 무기 작업장에서 생산되었다. 전문가의 솜씨로 개조된 중공탄에는 미량의 신경독까지 묻어 있었다.	Precisely. The bullet fired from behind me at 15 meters away had been produced in the Yggdrasil weapons workshop. Modified by professionals, the hollow-point bullet even carried trace amounts of neurotoxin.						0	
+65	别说恢复正常行动，哪怕只是慢悠悠地从基地走到这里的几百米，整个人都像一台要报废了的机器一样。	別說要恢復成以往的狀態，那怕只是緩慢地從基地走到這裡的幾百公尺距離，整個人都像是要報廢的機器一樣。	普段通りの生活どころか、寮からここまでの、ほんの数百メートルの距離を移動するのでさえ、やっとという状態だ。	정상적으로 움직이는 건 바라지도 않았지만, 숙소에서 여기까지 고작 몇백 미터 걸어오는 데도 느려터진 고철 덩어리 같았다.	Even slowly plodding across the few hundred meters from the Base had made me feel like a stiff robot, and a broken one at that. I certainly wasn't in any shape to return to the field yet.						0	
+66	你现在的身体状况没有办法正常执行任务，更别提要离开零区，去耶洛沙那么动荡的地方。	你現在的身體狀況沒有辦法正常執行任務，更不要說是離開零區，去耶洛沙那種龍蛇混雜的地方。	これじゃミッションをこなすなんて無理だ。ましてやエリアゼロからイェロシャに向かうなんて。	지금 네 몸 상태로는 미션을 정상 수행할 수 없어. 더군다나 제로 구역을 떠나 격동의 옐로샤로 간다는 건 더더욱 말이 안 돼.	There's no way for you to go on missions in your current state, let alone leave the Containment Zone and head somewhere as chaotic as Yehrus.						0	
+67	我先送你回去休息，然后就去找陶董摊牌！	我先送你回去休息，然後就去找τ董攤牌！	今は休め。τさんには自分が話をしておくから。	일단 쉴 수 있게 데려다줄 테니, τ 이사님과 결판을 내봐!	I'll take you back so you can rest first. Then I'll go discuss this with Director τ!						0	
+68	分析员你什么都不要担心。内务监察针对我们的监禁都已经结束了，不管发生什么情况，全体海姆达尔队员都会立场坚定，保护你的安全！	分析員你什麼都不要擔心。內務監察針對我們的監禁都已經結束了，不管發生什麼情況，全體海姆達爾隊員都會立場堅定，保護你的安全！	内部監査が指定した監禁期間だってとっくに終わっているんだ。だから何の心配もいらない。これからはなにがあっても、ヘイムダルの全員で分析員を守ってやれる。	분석가, 넌 아무 걱정도 하지 마. 내무 감찰도 더 이상 우리에게 간섭하지 않아. 무슨 일이 생기면 모든 하임델 대원이 너의 안전을 지켜줄 거야!	Adjutant, you have nothing to worry about. We aren't under Internal Affairs' house arrest anymore. No matter what, all of the Heimdall operatives will remain steadfast in protecting you!						0	
+69	去耶洛沙的事情已经决定了。	去耶洛沙的事情已經決定了。	イェロシャの件はもう決定済みだ。	옐로샤에 가기로 한 일은 이미 결정됐어요.	The decision for me to go to Yehrus has already been made.						0	
+70	你还要相信她？她能骗你一次就能骗你无数次！要不是她，你和里芙也不会……	你還要相信她？她能騙你一次就能騙你無數次！要不是她，你和里芙也不會……	まだあいつを信じているのか？分析員を騙したのだって、一度や二度じゃないんだぞ！あいつのせいで、分析員も、リフも、こんなことに……	아직도 이사님을 믿는 거야? 이사님은 한 번 속이면 수십 번도 속일 수 있는 사람이야! 그녀가 아니었다면, 너와 리브는…	Do you still trust her? If she lied to you once, she can lie to you again! If it weren't for her, you and Lyfe wouldn't...						0	
+71	我没有相信她。但离开总部，不止是对我一个人的保护。	我沒有相信她。但離開總部不止是對我一個人的保護。	信用してるわけじゃないさ。けれど本社を離れることは、私ひとりを守る以上の意味があるんだ。	이사님을 믿는 게 아니에요. 하지만 고작 저 한 사람을 보호하기 위해 본부를 떠나려는 건 아니에요.	I don't trust her. But leaving headquarters is about more than just protecting me.						0	
+72	晴的担忧，焦虑和关心让我的大脑变得清醒，所以一直困扰着我的问题也变得更明晰——我们该把枪口对着谁呢？	晴的擔憂、焦慮和關心讓我的大腦變得清醒，而一直困擾著我的問題也變得更清晰——我們該把槍口指向誰呢？	私のことを案じる晴の言葉に、ようやく冷静さを取り戻せた気がした。それと同時に、私を悩ませて来たあの問題──自分たちの銃口を誰に向けるべきか？──も、はっきりとした輪郭が見えた気がした。	하루의 걱정과 불안, 그리고 관심 덕분에 난 정신을 차렸다. 줄곧 날 괴롭히던 문제도 더 명확해졌다. 우리는 누구에게 총구를 겨눠야 할까?	Haru's worry, anxiety, and concern cleared my head. With that, the question that had been bothering me became apparent — who was our real enemy?						0	
+73	送我去见她吧。	送我去見她吧。	……彼女と会わせてほしい。	절 이사님에게 데려다주세요.	Take me to see her.						0	
+74	……好。	……好。	……分かった。	… 알았어.	...Alright.						0	
+75	我会守在门外。从现在开始，你需要寸步不离的保护了。	我會守在門外。從現在開始，你需要貼身保鑣了。	ただし、自分はドアの外で待たせて貰うぞ。分析員に何かあった時のためにな。	내가 문밖에서 지키고 있을게. 지금부터 넌 밀착 보호가 필요해.	I'll stand guard outside. From now on, you'll need constant protection.						0	
+76	我苦笑着任由她架住我的肩膀，慢慢向着陶的办公室迈开腿。	我苦笑著任由她架住我的肩膀，慢慢地往τ的辦公室前進。	そうきっぱり言い切った彼女に苦笑いを浮かべつつ、私は彼女に支えられながら、ゆっくりとτのオフィスへ向かった。	난 쓴웃음을 지으며 그녀가 날 부축하도록 내버려 두고, τ의 사무실을 향해 천천히 걸음을 뗐다.	I smiled wryly as she supported me by my shoulder, and we slowly walked toward τ's office.						0	
+77	忍受着轻微的目眩，我的余光瞥到走廊尽头的转角处有一抹橘红色的影子一闪而过。	我強忍著輕微的暈眩，眼角餘光瞥到走廊盡頭的轉角有一抹橘紅色的影子一閃而過。	時折襲ってくるめまいをこらえながら歩いていると、廊下の向こうをオレンジ色の人影が横切るのがみえた。	난 약간의 어지러움을 참으며 곁눈질로 복도 끝 모퉁이에 주황색 그림자가 스쳐 지나가는 것을 보았다.	Through some light dizziness, I spotted a flash of orangish-red hair disappear around the corner at the end of the hallway.						0	
+78	我把晴留在门外，自己推开了陶办公室的大门。	我讓晴在門外等待，自己推開了τ辦公室的門。	晴の宣言通り、彼女にはドアの外で待機させたまま、私は自分の手でτのオフィスのドアを開けた。	난 하루를 문밖에 두고 직접 τ의 사무실 문을 열었다.	I left Haru outside and pushed open the door to τ's office myself.						0	
+79	……陶董，那我先回去了。	……τ董，那我先回去了。	……では、私はこれで……	… τ 이사님, 그럼 전 이만 가보겠습니다.	...Director τ, I'll head back now.						0	
+80	啊！分析员……好久不见，早……早上好。	啊！分析員……好久不見，早……早安。	あ！分析員……おはよう、お久しぶりだね……	어! 분석가님… 오랜만이에요. 아… 안녕하세요.	Ah! Adjutant... It's been a while. G—Good morning.						0	
+81	她慌慌张张的，但这反应并不奇怪。过去的一个月发生了很多事，我和大部分海姆达尔队员也正如她所说的一般。	看她慌張的樣子，但這反應並不奇怪。畢竟已過的一個月發生了很多事，我和絕大多數的海姆達爾隊員都跟她一樣。	彼女は慌てた様子だったけれど、この一か月で起きたことを考えれば、その反応も別におかしくはなかった。私も、ヘイムダル部隊のみんなも、彼女の言葉通り……	세리스는 당황했지만, 그건 정상적인 반응이었다. 지난 한 달 동안 많은 일들이 있었고, 나와 대부분의 헤임달 대원들도 그녀가 말한 대로였다.	She appeared flustered, but her reaction wasn't out of the ordinary — a lot had happened in the past month. What she'd said was true for me and most of the other Heimdall operatives...						0	
+82	已经好久不见了。	已經很久不見了。	久しく会っていないのだから。	정말 오랜만이었다.	It really had been a while.						0	
+83	呵……想让这些队员在你面前保守秘密恐怕不容易了。	呵……想讓這些隊員在你面前保守秘密恐怕不容易了。	ふふ……あなたの前で何かを隠し通せるような隊員となると、そうそういませんかね。	후후… 대원들이 네 앞에서 비밀을 지키는 건 기대하면 안 될 것 같네.	Hah... I'm afraid it won't be easy for these operatives to keep any secrets from you.						0	
+b-3											0	
+84	反问她	反問她。	問い返す	그녀에게 반문한다.	Confront her						0	
+85	世界树里有什么东西是她们能知道，但我不能知道的吗。	世界樹裡有什麼事情是她們能知道，而我不能知道的嗎。	ユグドラシルには彼女たちには教えられても、私には教えられないことがあるとでも？	그녀들은 알 수 있지만 저는 알 수 없는 것, 그런 게 위그드라실에 있긴 한가요?	Is there something they know about Yggdrasil that I can't?						0	
+86	揶揄她	揶揄她	軽口を叩く	그녀를 비꼰다.	Mock her						0	
+87	不要紧。你多给我点信任就不会有这种顾虑了。	沒關係。你多給我點信任就不會有這種顧慮了。	そう思うくらいなら、もっと私を信じたほうがいいじゃないのか？	걱정 마세요. 이사님이 저에게 좀 더 믿음을 주시면 그런 걱정은 없을 거예요.	It doesn't matter. If you really trusted me, you wouldn't be worried.						0	
+88	不该你知道的事情有很多，这和信任没关系。	你不該知道的事情有很多，這和信任沒關係。	あなたが知らないほうがいいことはたくさんありますよ。あなたに対する信頼とは無関係にね。	네가 알아선 안 되는 일들은 아주 많아. 그건 믿음과는 관계가 없어.	There are several things you shouldn't know, but none of them have to do with trust.						0	
+89	那和什么有关系呢。	那和什麼有關係呢。	だったら、何と関係があるって言うんだ。	그럼 무엇과 관계가 있나요?	Then what do they have to do with?						0	
+90	你的生命安全。	你的生命安全。	あなたの命です。	너의 목숨과 안전.	Your safety.						0	
+91	我以为昨天的晚宴上我们已经把这个事情说得很清楚了。	我以為昨天的晚宴上我們已經把這件事說得很清楚了。	その話なら、昨日ディナーの席でちゃんと説明したはずですが。	이 일은 어제 저녁 식사 자리에서 분명히 설명한 줄 알았는데.	I thought I made that very clear during yesterday's dinner.						0	
+92	去耶洛沙的随行队员名单还没定下来，这能叫说清楚了吗？	去耶洛沙的隨行隊員名單還沒決定，這能叫說清楚了嗎？	同行者リストすら見せずにか？	옐로샤에 가는 수행 대원 명단조차 아직 정해지지 않았는데, 분명히 설명했다고 단언할 수 있을까요?	The list of operatives accompanying you to Yehrus still hasn't been finalized — is that clear?						0	
+93	我所有的队员平白无故被软禁了一个月，这也叫说清楚了？	我所有的隊員無緣無故被軟禁了一個月，這也叫說清楚了？	私の部隊全員が、理由も告げられずに一か月の軟禁を食らったんだぞ。	저의 모든 대원이 아무런 이유도 없이 한 달 동안 연금되었는데, 분명히 설명했다고 할 수 있을까요?	All of my squadmates were put under house arrest for a month for no reason — is that clear?						0	
+94	我很想知道你现在是平等地对每个人都多疑，还是只对我有所怀疑。	我很想知道你現在平等地懷疑每個人，還是只懷疑我。	あなたは誰に対してもそんな風に疑ってかかるのですか？それとも、単に私を疑っているだけ？	지금 네가 공평하게 모든 사람을 의심하는 건지, 아니면 나만 의심하는 건지 궁금한걸?	I'd love to know if you're currently this suspicious of everyone or just me.						0	
+95	克制一下自己的情绪，分析员。我们最近虽然有很多分歧，但过去有更多的默契。	控制一下自己的情緒，分析員。我們最近雖然有許多分歧，但過去有更多默契。	何はともあれ、私情は控えてください。あなたとは意見が食い違うことも増えましたが、かつてはそうではなかったはずです。	감정을 컨트롤하도록 해, 분석가. 최근 우리 사이에 많은 이견이 생겼지만, 과거에는 더 많은 팀워크를 맞췄었지.	Get your emotions in check, Adjutant. I know we've had our differences recently, but we had a kind of unspoken understanding in the past.						0	
+96	我能出现在这就是因为我们还有默契！所以告诉我，这段时间你都对我的队员们做了什么。	我能出現在這就是因為我們還有默契！所以告訴我，這段時間你都對我的隊員們做了什麼。	だからこそここまで来たんだ。教えてくれ。この間に、私の隊員たちに何をしたのかを。	팀워크가 아직 조금이라도 남아 있으니까 제가 여기에 나타난 게 아닐까요? 그러니까 그동안 우리 대원들에게 무슨 짓을 한 건지 말해주세요.	I'm only here because we still have a sliver of that unspoken understanding! So tell me what you've been doing to my operatives recently.						0	
+97	这就是所谓的不该你知道的事情。	這就是所謂的你不該知道的事。	それこそ、いわゆるあなたが知ってはいけないこと、ですよ。	그게 바로 네가 알아선 안 되는 일이야.	That was what you're not supposed to know.						0	
+98	出发日期提前了，你们后天一早就走。	出發日期提前了，你們後天一早就走。	それと、出発日は変更されました。明後日の朝に出発してください。	출발 날짜가 당겨졌으니, 너희는 모레 아침에 떠나도록 해.	Your departure has been moved up. You'll leave first thing the day after tomorrow.						0	
+99	去一趟作战指挥室。人员，计划，行程和任务细节，会有人向你汇报。	去一趟作戰指揮室。會有人跟你匯報人員、計劃、行程和任務細節。	その前に作戦指揮室を訪ねてください。参加者、スケジュールやミッション詳細については、そこで説明を受けられます。	작전 지휘실에 가봐. 인원, 계획, 일정, 미션 세부 사항을 누군가 보고해 줄 거야.	Go to the command room. Someone will report all personnel, plans, schedules, and mission details to you there. 						0	
+100	她的擅自安排让我不悦，但她的命令我仍要执行。	她擅自的安排令我感到不悅，但她的命令我仍要執行。	彼女の身勝手な指示には腹が立ったけれど、それでも私は、その命令に従うほかなかった。	그녀의 독단적인 지시가 불쾌했지만, 난 여전히 그녀의 명령을 따를 수밖에 없었다.	I wasn't happy with her unilateral arrangements, but I still followed her orders.						0	
+101	我忍住又一次咳血的冲动，转身准备离开这个让我连喘气都不怎么痛快的房间。	我忍住再次咳血的衝動，轉身打算離開這個充滿壓迫感的房間。	またもやこみあげて来た激しい吐き気をこらえながら、その息苦しい部屋から出ようとした時だった。	난 또 한 번의 각혈을 애써 참으며, 숨조차 편하게 쉴 수 없는 이 방을 나서려고 몸을 돌렸다.	I suppressed the urge to cough up blood again, turning around to leave that room where even the air itself was difficult to breathe.						0	
+102	playername，我说过了。	playername，我說過了。	繰り返しますが、playername。	playername, 내가 말했지.	playername, I told you.						0	
+103	这一次我们是要一起把真相找出来。你一定要小心。	這次我們是要一起找出真相。你務必小心。	今回の目的は、みんなで真実を探し出すことです。道中、くれぐれも気を付けくださいね。	이번엔 우리가 함께 진실을 찾아내야 한다고. 몸조심해.	We're going to discover the truth together this time. You have to be careful.						0	
+104	<orange>礼物和侍卫</>我都替你准备好了。专心把这件事办好，把该交的朋友交到手。	<orange>禮物和侍衛</>都替你準備好了。專心辦好這件事，把該交的朋友都交到手。	こちらで予め<orange>プレゼントや護衛</>を用意しておきました。ミッションそのものもそうですが、人間関係の構築も疎かにはしないでください。	<orange>선물과 경호원</>을 준비해놨어. 일 처리에만 집중하고, 사귀어야 할 친구가 있다면 손에 넣어.	I've prepared <orange>gifts and guards</> for you. Focus on getting this done and making the necessary friends.						0	
+105	最近所有的事，不是只有你一个人需要解释。	最近發生的事情，不是只有你一個人需要得到解釋。	最近の出来事について、明確な説明を欲しているのは、あなただけではありません。	최근 그 일에 대해선, 설명이 필요한 사람이 어디 너뿐이겠어?	You're not the only one who wants to understand everything that's happened recently.						0	
+106	你在外面，我在里面，想知道真相的话，我们得一起把它找出来。	你在外面，我在裡面，想知道真相的話，我們得一起把它找出來。	あなたは外にいて、私は中にいる。真実を知りたければ、私達は協力しなければならないのです。	넌 외부에 있고 난 내부에 있으니, 진실을 알고 싶으면 함께 찾아내야 해.	With you on the outside and me on the inside, we need to work together to find the truth.						0	
+b-4											0	
+107	沉默不语	沉默不語	黙り込む	대답하지 않는다.	Remain silent						0	
+108	我没有理会她模棱两可的话语，径直推门走了出去。	我沒有理她模稜兩可的話語，逕自推門離開。	真意の分からないその言葉には答えないまま、私は彼女のオフィスを後にした。	난 그녀의 애매모호한 말을 외면하고 곧바로 문을 열고 나갔다.	I ignored her vague statement, opening the door and walking out.						0	
+109	愤怒回应	憤怒回應	腹を立てながら問い返す	분노에 차 대답한다.	Retort angrily						0	
+110	我小心什么？！	我小心什麼？！	気を付けろだって！？	뭘 조심하라는 건가요?!	What do I need to be careful of!?						0	
+111	做了亏心事的才该小心，不是吗？	做了虧心事的人才該小心，不是嗎？	それは後ろめたい人間のすることだろ？	조심해야 할 쪽은 떳떳하지 못한 사람 아닌가요?	Only people who have done something bad need to be careful, right?						0	
+112	你该磨练一下演技了，分析员。虽然刚刚的……也勉强合格。	你該磨練一下演技了，分析員。雖然剛剛的……勉強及格。	これを機に演技力も磨いておくことです、分析員。まあ……さっきのも悪くはありませんでしたが。	연기 연습 좀 해야겠어, 분석가. 아까도… 간신히 합격했지만 말이야.	You might want to work on your acting, Adjutant. Just now... that was barely passable.						0	
+113	接下来的这一路上，陪你演戏的可不会有我这么包容。	接下來這一路上，陪你演戲的可不會像我這麼包容。	これからあなたの相手を務める人たちは、私ほどの懐の広さは持っていないと思いますから。	앞으로 너와 함께 연기할 사람은 나처럼 관대하지 않을 거야.	From now on, the one acting alongside you won't be as forgiving as me.						0	
+114	我盯着全息屏幕上分类叠放的几页资料。	我盯著全息螢幕上分類疊放的幾頁資料。	スクリーンに映し出された資料を見つめた。	난 홀로그램 스크린에 겹쳐진 여러 페이지의 자료를 바라봤다.	I stared at the pages full of information piled up in various categories on the holographic screen.						0	
+115	如果这些数据和报告没有造假的话，那么它们所记录的当事人无疑是极为出色的战斗精英。	如果這些數據和報告沒有作假的話，那麼記錄中的當事人無疑是位優秀的戰鬥菁英。	データに間違いさえなければ、そこに示されている人物は、飛びぬけた腕を持つ戦闘のプロらしかった。	만일 이 데이터와 보고서들이 조작된 것이 아니라면, 이 자료들의 주인공은 매우 특출난 전투 엘리트가 틀림없다.	If those reports and data were legitimate, the individual they detailed undoubtedly possessed outstanding combat abilities.						0	
+116	化妆潜入，定点狙击，窃听并破坏了四次耶洛沙地区的军阀联合会议，绘制了完整的边境地下补给路线图。	喬裝潛入、定點狙擊，竊聽並破壞了四次耶洛沙地區的軍閥聯合會議，繪製了完整的邊境地下補給路線圖。	変装と潜入。潜伏と狙撃。イェロシャ地区の軍閥連合会議の盗聴に成功し、それを4回に渡って妨害。辺境地下補給ルートを探索し、完全な構造図を書き上げた張本人。	위장 잠입, 목표물 저격, 옐로샤 지역의 군벌 연합 회의 도청 및 파괴 4회, 완벽한 국경 지하 보급 노선도 제작.	Sneaking around in disguises, sniping targets, eavesdropping on and disrupting four militant meetings in Yehrus, drawing a complete underground supply route map of the border region...						0	
+117	找出了七十多处军方和抵抗组织的暗哨，甚至还有十次以上的成功策反吗……	找出了七十多處軍方和反抗組織的暗哨，甚至還有高達十次以上的成功策反嗎……	軍やレジスタンスの潜伏先を70回以上に渡って突き止め、しかも寝返り工作の成功も10回はくだらない……	70여 곳의 군대와 저항조직의 은신처를 찾아내고, 심지어 10회 이상의 반란까지 성공하다니…	Discovering over 70 secret military and resistance camps, and even instigating over 10 successful rebel insurgencies...						0	
+118	记忆里那个喜欢变魔术的小姑娘，不知不觉间变成了让人生畏的兵器了么。	印象中那個喜歡變魔術的小姑娘，不知不覺間變成了令人生畏的兵器了嗎。	記憶の中にある、あのマジック好きの少女が、今ではこんなにも恐ろしい存在になっているのか。	마술을 좋아하던 소녀는 어느새 끔찍한 병기가 되어버린 것인가.	But I remembered her as an innocent girl who loved doing magic... At what point had she become a fearsome killing machine?						0	
+119	苔丝，你究竟……都遭遇了什么……	黛斯，你到底……遭遇了什麼……	テス……あなたの身に一体なにがあったんだ。	테스, 너에게 대체… 무슨 일이 있었던 걸까…	Tess, what... really happened to you...?						0	
+120	你看个差不多就行啦，收起来别让其他人看见！	你大致瀏覽就好啦，收起來別被其他人看到！	もういいでしょう！誰にも見付からないように隠しておいてくださいよ！	대충 다 보셨으면 다른 사람이 보지 못하도록 숨기세요!	If you're done looking over it, put it away so no one else sees!						0	
+121	老板吩咐过任何人都不能看她的资料！包括你在内！	老闆吩咐過任何人都不能看她的資料！包括你在內！	彼女のデータは誰にも見せるなってボスに言われてるんです。もちろん、あなたにもです！	이사님은 아무도 그녀의 자료를 봐선 안 된다고 분부하셨어요! 당신을 포함해서요!	The boss said no one can read her info! Including you!						0	
+122	我费了好大力气才搞到手的，这人情等你从耶洛沙回来可要记得还……	我花了好大的力氣才用到手的，這人情等你從耶洛沙回來記得還……	これを手に入れるだけでも、どれだけ骨が折れたか。イェロシャから戻ったら、忘れずご飯を奢っ……	정말 힘들게 손에 넣은 거니까, 옐로샤에서 돌아오면 신세는 꼭 갚으세요…	I went through a lot of trouble to get my hands on this. Just remember to return the favor when you come back from Yehrus...						0	
+123	我切断了通讯，却没有关闭全息战术沙盘，让名为“苔丝”的海姆达尔队员资料依然曝光在整个指挥室里。	我切斷了通訊，卻沒有關閉全息戰術沙盤，我在指揮室內故意開著名為「黛斯」的海姆達爾隊員的資料。	通信は切ったけれど、スクリーンのほうはそのままにしておいた。「テス」という名のヘイムダル隊員の資料は、依然として指揮室の壁に映し出されている。	난 통신을 끊고도 홀로그램 전술 모형을 닫지 않았다. '테스'라는 이름의 헤임달 대원의 자료는 여전히 지휘실 전체에 그대로 노출되고 있었다.	I hung up the call but didn't turn off the battlefield hologram. All information on the Heimdall operative named "Tess" was on display for the entire command room.						0	
+124	如此一来，那个刚刚悄无声息走进室内，一言不发站在我身后的人就也能把这些资料看得清楚明白了。	這樣一來，剛剛悄無聲息走進來，一言不發的站在我身後的人也能看清楚這些資料。	これなら、さきほどから足音も立てず部屋に侵入し、私のすぐ後ろに立ち尽くしている人物にもよく見えているはずだ。	그렇다면 좀 전에 소리 없이 들어와 조용히 내 뒤에 서 있던 사람도 이 자료를 보았을 것이다.	With that, the person who quietly entered the room and was standing behind me could clearly see everything.						0	
+125	……上一次见你，要叫你<orange>老师</>。	……上一次見到你，要叫你<orange>老師</>。	……前回会った時には、まだあなたのことを<orange>先生</>って呼んでいたけど。	… 지난번에 당신을 만났을 땐, 당신을 <orange>선생님</>이라고 불렀었죠.	...Last time we met, I called you <orange>Teacher</>.						0	
+126	这次呢，要叫你分析员。	這次呢，要叫你分析員。	今回は、分析員って呼ぶね。	이번에는, 분석가님.	This time, I should call you Adjutant.						0	
+127	那下次见的时候，我该叫你什么呀？	那下次見面的時候，我該叫你什麼呀？	そうすると、次に会う時はどう呼べばいいのかな？	그럼 다음에 만날 땐 뭐라고 불러야 할까요?	So what should I call you next time we meet?						0	
+128	她不等我作答就从我身后绕过来，轻巧地背负双手，微微弯着腰，抬起眼睛盯着我。	她不等我回應便從我身後繞到我面前，俏皮地將雙手放在背後，微微彎著腰並抬頭盯著我。	私の返事を待つことなく、彼女は素早く私の正面に回った。腕を後ろで組んで、少し屈み、上目遣いで私の顔を覗き込んできた。	그녀는 대답을 기다리지 않고 뒤에서 나타났다. 가볍게 뒷짐을 쥐고 살며시 허리를 숙인 채 나를 올려다봤다.	Without waiting for me to respond, she moved out from behind me, put her hands behind her back, and bent forward slightly. She then raised her gaze, staring at me.						0	
+129	怎么样？我还合格吗？	怎麼樣？我還算及格嗎？	どう？私、合格かな？	어때요? 저 합격인가요?	What do you think? Am I qualified enough?						0	
+b-5											0	
+130	板起脸来	板起臉來	真剣な表情で	무표정한 얼굴을 한다.	Show no reaction						0	
+131	苔丝·科特金。	黛斯·科特金。	テス・コトキン。	테스 코트킨.	Tess Kotkin.						0	
+132	她愣住了。	她愣住了。	彼女は固まった。	그녀는 순간 당황했다.	She froze.						0	
+133	苔丝·科特金！	黛斯·科特金！	テス・コトキン！	테스 코트킨!	Tess Kotkin!						0	
+134	到！	到！	は、はい！	네!	Reporting for duty!						0	
+135	开始任务简报。	開始任務簡報。	ミッションの報告を。	미션 브리핑 시작해.	Commence mission briefing.						0	
+136	留意门外	留意門外	ドアの外を見る	문밖을 살핀다.	Look out the door						0	
+137	她很惹眼，但我此刻的注意力并不全在她身上。身后的门外角落里似乎藏着什么，总给我一种如芒在背的不适感。	她很顯眼，但此時此刻我的注意力並不在她身上。身後的門外角落裡似乎藏著什麼東西，總給我一種芒刺在背的異樣感。	彼女にはもちろん目を惹かれたけれど、意識はもっと別の場所へと向けられていた。背後のドアの外に何かが隠れているような、そんな不快感を覚えていたからだ。	그녀가 시선을 끌었지만 내가 주시하고 있는 건 그녀뿐만이 아니었다. 등 뒤의 문밖에 뭔가 감춰져 있는 것 같은 불안감이 들었다.	She was quite striking, but my attention wasn't entirely focused on her at the moment. It seemed there was someone hiding in the corner outside the door behind me, giving me the unnerving feeling of being watched.						0	
+138	你……我……对不起，我是不是太没规矩了。我……	你……我……對不起，我是不是太不規矩了。我……	えっと、その……ご、ごめんなさい、失礼なことしちゃったかな……	저… 죄송해요, 제가 너무 버릇없이 굴었나요? 전…	You... I... Sorry, where are my manners? I...						0	
+139	这种胆小得像兔子一样的反应……她跟三年前相比几乎没什么变化。而发现了这一点后，我的心脏就变得更不舒服。	這種宛如膽怯小兔子般的反應……她跟三年前相比沒什麼改變。發現到這一點後，我感到更加不適。	ウサギみたいに臆病な反応。その３年前と変わらない反応が、私の心をさらに苦しめることになった。	토끼처럼 소심한 그런 반응은… 3년 전과 달라진 게 없었다. 그리고 그 점을 발견한 나는 심장이 더 불편해졌다.	That reaction reminded me of a timid rabbit... She had barely changed from three years ago. After realizing that, I grew even more unnerved.						0	
+140	苔丝·科特金。	黛斯·科特金。	テス・コトキン。	테스 코트킨.	Tess Kotkin.						0	
+141	到！	到！	は、はい！	네!	Reporting for duty!						0	
+142	开始任务简报。	開始任務簡報。	ミッションの報告を。	미션 브리핑 시작해.	Commence mission briefing.						0	
+143	小心，辰星姐！	小心，辰星姐！	辰星姉さん、危ない！	조심해요, 수성 언니!	Chenxing, look out!						0	
+144	你……你在想什么？！	你……你在想什麼？！	……なにを考えているんですか！？	대… 대체 무슨 생각이에요?!	Wh—What are you thinking!?						0	
+145	啊……啊！抱歉，我……我一着急就……	啊……啊！抱歉，我……我一著急就……	あ……ああ！ごめんなさい、私……無意識に……	아… 아! 죄송해요, 제… 제가 마음이 급해서…	Ah... ah! Sorry... as soon as I get anxious, I...						0	
+146	我们都是海姆达尔队员。可以互相帮助，互相支援。但你这种下意识用自己身体替别人挡子弹的行为……	我們都是海姆達爾隊員。可以互相幫助、互相支援。但你這這種下意識用自己身體幫人擋子彈的行為……	同じヘイムダル部隊の仲間ですから、助け合うのは当然です。ただ、身を呈して弾丸を受けようとするなんて……	우린 모두 헤임달 대원이에요. 서로 돕고 지원해 줄 수 있는 존재죠. 하지만 그렇게 무의식적으로 자기 몸으로 탄약을 막아 주는 행동은…	We're both Heimdall operatives — we can help and support each other. But your habit of acting as a human shield to protect others from getting shot...						0	
+147	那个，我……我这应该是第一次执行有队友的任务，还有点不习惯，辰星姐你别介意，嘿嘿……	那個，我……我這次是第一次跟隊友一起執行任務，還有點不習慣，辰星姐你別介意，嘿嘿……	それはその、えっと……み、味方がいるミッションは今回が初めてだから、まだ慣れないっていうか……とにかく気にしないで！え、えへへ……	저… 저는 다른 대원과 함께 미션을 수행하는 게 처음이라 아직 익숙하지가 않아요. 수성 언니, 너무 신경 쓰지 말아요. 헤헤…	Well, about that... It's my first time going on a mission with other squadmates, so I'm still not used to it. Don't take it personally, Chenxing, hehe...						0	
+149	枪声全都停了。我们出去，把那辆车还有被冲散的护送队员都找回来。	槍聲停了。我們出去找回那輛車還有分散的護送隊員。	銃声が止まったようです。車と、散らばった護衛隊員を探しましょう。	총성이 멈췄어요. 나가서 차량과 흩어진 호송 대원들을 찾아야 해요.	Sounds like the gunshots stopped. Let's go retrieve the vehicle and the scattered escort team members.						0	
+150	既然分析员提前打过招呼，说让你我这边行事招摇一些……	既然分析員提前打過招呼，要你我招搖行事……	分析員には「派手に」と言われたことですし……	분석가가 우리 쪽에서 시선을 끌어 보라고 했으니…	Since the Adjutant told us to be more bold before...						0	
+151	那就看一看，招摇之后能带来什么结果吧。	那就看看招搖之後能帶來什麼結果吧。	では、やってみましょうか。派手に動いた結果がどうなるのか。	시선을 끌면 어떻게 되는지 해보죠.	Let's see just how far it will get us.						0	

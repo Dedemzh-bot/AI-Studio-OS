@@ -1,0 +1,126 @@
+﻿字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Speaker	WwiseEventID	zh_CN	disable	Remark
+player			主角	0	
+girl1			安卡希雅	0	
+girl2			里芙	0	
+girl3			妮塔	0	
+girl4			芙提雅	0	
+girl5			茉莉安	0	
+girl6			晴	0	
+girl7			琴诺	0	
+girl8			芬妮	0	
+girl9			测试	0	
+girl10			肴	0	
+girl11			恩雅	0	
+girl12			猫汐尔	0	
+girl13			瑟瑞斯	0	
+girl14			辰星	0	
+girl15			凯茜娅	0	
+girl16			伊切尔	0	
+girl17			苔丝	0	
+girl18			薇蒂雅	0	
+girl20			卜卜	0	2.7版本宿舍剧情角色名
+girl21			奈莉德	0	2.8版本宿舍剧情角色名
+girl22			克罗瑞娜	0	3.3版本宿舍剧情角色名
+girl23			米娅	0	3.4版本宿舍剧情角色名
+					
+					
+girl001			安卡希雅	0	3.0版本开拓剧情角色名
+girl003			妮塔	0	2.7版本宿舍剧情角色名
+girl006a			晴	0	
+girl007			莫尔索	0	
+girl011a			恩雅	0	
+girl015			凯茜娅	0	
+girl017			苔丝	0	
+					
+girl003_01a			妮塔	0	2.7版本温泉剧情角色名
+girl010_01a			肴	0	2.5版本温泉剧情角色名
+girl014_01a			辰星	0	2.5版本温泉剧情角色名
+					
+					
+girl10a_03			肴	0	
+girl11_02			恩雅	0	
+girl12a_02			猫汐尔	0	
+girl14a_03			辰星	0	
+					
+					
+npc101			卡罗琳	0	2.7版本宿舍剧情角色名
+npc201			悠闲的员工	0	2.7版本宿舍剧情角色名
+npc202			纠结的员工	0	2.7版本宿舍剧情角色名
+npc203			忙碌的安保	0	2.7版本宿舍剧情角色名
+npc205			热情的员工	0	2.7版本宿舍剧情角色名
+npc206			员工琪琪	0	2.7版本宿舍剧情角色名
+npc207			员工莉莉	0	2.7版本宿舍剧情角色名
+					
+					
+					
+dlc2.npc202			研究员宝琳	0	
+dlc2.npc403			卡罗琳	0	
+dlc2.npc408			干员布琪	0	
+dlc2.npc401_1			干员马利	0	
+dlc2.npc401_2			干员路易	0	
+dlc3_npc406			谜之无人机	0	
+dlc3_npc406_02			谜之无人机	0	
+dlc3_npc406_03			谜之无人机	0	
+dlc3_npc_interaction			？？？	0	
+dlc3_npc_interaction_2			互动触摸板	1	
+					
+					
+dlc5_TalkNpc_01			被解救的人质	0	
+					
+dlc6_TalkNpc_01			融合士兵	0	
+dlc6_TalkNpc_02			奥米茄亲卫	0	
+dlc6_TalkNpc_03			意识模糊的融合士兵	0	
+dlc6_TalkNpc_04			融合士兵	0	
+dlc6_TalkNpc_05			融合士兵	0	
+					
+dlc7_TalkNpc_01			惊慌失措的男人	0	
+dlc7_TalkNpc_02			精神崩溃的女人	0	
+dlc7_TalkNpc_03			正在祈祷的男人	0	
+					
+dlc12_TalkNpc_01			本地村民甲	0	
+dlc12_TalkNpc_02			恐惧的村民	0	
+dlc12_TalkNpc_03			疯癫的村民	0	
+dlc12_TalkNpc_04			慌乱的村民	0	
+					
+					
+dlc25_TalkNpc_01			急脾气	0	2.5版本新星开拓npc名字
+dlc25_TalkNpc_02			慢半拍	0	2.5版本新星开拓npc名字
+dlc25_TalkNpc_03			说胡话	0	2.5版本新星开拓npc名字
+dlc25_TalkNpc_04			尖尖耳	0	2.5版本新星开拓npc名字
+dlc25_TalkNpc_05			赛曼加	0	2.5版本新星开拓npc名字
+dlc25_TalkNpc_06			尖尖耳	0	2.5版本新星开拓npc名字
+					
+					
+dlc27_TalkNpc_52			机器人		2.7版本npc名字
+					
+item021			扫地机器人	0	2.7版本宿舍剧情角色名
+10001			全员	0	2.7版本宿舍剧情角色名
+10002			莫尔索	0	2.5版本随机事件角色名字
+10003			卡罗琳	0	2.7版本宿舍剧情角色名
+10005			恒沙	0	2.7版本宿舍剧情角色名
+10006			超能战士妮塔	0	2.7版本宿舍剧情角色名
+10007			？？？	0	3.0新星开拓npc名字
+10008			密室AI	0	3.0新星开拓npc名字
+10009			众人	0	3.5多诺巅峰对决角色名字
+					
+					
+spine_girl002a_q			里芙	0	
+spine_girl005a_q			茉莉安	0	
+spine_girl008a_q			芬妮	0	
+spine_player002_q			主角	0	
+					
+dlc30_TalkNpc_01			拉面匠人	0	3.0新星开拓npc名字
+dlc30_TalkNpc_02			尖尖耳	0	3.0新星开拓npc名字
+dlc30_TalkNpc_03			巡逻机器人	0	3.0新星开拓npc名字
+dlc30_TalkNpc_04			神秘球	0	3.0新星开拓npc名字
+dlc30_TalkNpc_05			透墨索斯	0	3.0新星开拓npc名字
+dlc30_TalkNpc_06			夏克威弗	0	3.0新星开拓npc名字
+dlc30_TalkNpc_07			卡比	0	3.0新星开拓npc名字
+dlc30_TalkNpc_08			卡洛提斯	0	3.0新星开拓npc名字
+dlc30_TalkNpc_09			沃诺	0	3.0新星开拓npc名字
+dlc30_TalkNpc_10			戈迪尔	0	3.0新星开拓npc名字
+dlc30_TalkNpc_11			林德拉	0	3.0新星开拓npc名字
+dlc30_TalkNpc_12			埃勒奥斯	0	3.0新星开拓npc名字
+dlc30_TalkNpc_13			乌尔贡	0	3.0新星开拓npc名字
+dlc30_TalkNpc_14			安卡希雅的赠礼	0	3.0新星开拓npc名字

@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	克罗瑞娜似乎爱上了环形大厅的咖啡机。	克羅瑞娜似乎愛上了圓形大廳的咖啡機。	クラウリナは、このところロビーのコーヒーマシンにすっかりご執心だ。	클라리나는 원형 로비에 있는 커피 머신에 푹 빠진 듯했다.	Clarina seemed to have fallen in love with the coffee machine in the Oval Hall.						0	
+page1.2	味道很苦，却泛着甜蜜的滋味。	味道很苦，卻泛著甜蜜的滋味。	香りはビターなのに、あと口が甘いの。	맛이 꽤 쓴데, 살짝 달콤한 맛도 있어.	It tastes bitter, but there's a trace of sweetness.						0	
+page1.3	真是新奇的味道……	真是新奇的味道……	新鮮なお味だわ……	정말 신기한 맛이야…	Such a novel flavor...						0	
+page1.4	怎么了，克罗瑞娜，喜欢喝咖啡吗？	怎麼了，克羅瑞娜，喜歡喝咖啡嗎？	コーヒーは気に入ったのか、クラウリナ。	응? 클라리나, 커피 좋아해?	What is it, Clarina? Do you like coffee?						0	
+page1.5	倒也说不上喜欢啦，不过……这种做法的咖啡我倒是第一次喝。	倒也說不上喜歡啦，不過……這種做法的咖啡我倒是第一次喝。	べつに……ただ、こういう淹れ方のコーヒーは初めてだわ。	좋아한다기보다는… 이렇게 만든 커피는 처음 마셔봐.	I wouldn't say I like it, exactly... But this way of making coffee is a first for me.						0	
+page1.6	这种做法？	這種做法？	淹れ方？	이렇게 만든 커피?	This way?						0	
+page1.7	对呀。	對啊。	ええ。	응.	Yeah.						0	
+page1.8	你看，只要按一下这里，再按一下这里……咖啡就出来了！	你看，只要按一下這裡，再按一下這裡……咖啡就出來了！	ここをタップして、それからここ……はい、もう抽出開始。	이것 좀 봐, 여기를 눌렀다가 또 여기를 한 번 누르면… 커피가 나온다고!	Look, just press here, then here... And the coffee comes out!						0	
+page1.9	真是好神奇呀！	真是神奇啊！	魔法みたいでしょう？	정말 신기해!	It's so amazing!						0	
+page1.10	我很好奇你以前是怎么喝咖啡的。	我很好奇你以前是怎麼喝咖啡的。	前はどうやって飲んでいた？	예전에는 커피를 어떻게 마셨는데?	I'm curious. How did you drink coffee before?						0	
+page1.11	就是用罗森兰那种老传统的煮咖啡方法啦——	就是用羅森蘭那種老式傳統的煮咖啡方法啦——	ローズラン式の昔ながらよ。	로젠란의 전통 방식으로 커피를 끓였지~	The old traditional Luchellan way...						0	
+page1.12	先用研磨机将豆子研磨成粉，前后一共磨三道，然后将咖啡粉放入摩卡壶里加热，注意火焰不能超过壶底，不然会流出来——	先用研磨機將豆子研磨成粉，前後一共磨三道，然後將咖啡粉放入摩卡壺裡加熱，注意火焰不能超過壺底，不然會流出來——	まずミルで三段階のグラインド。モカポットに詰めて、炎が底からはみ出ないように加熱——	먼저 그라인더로 원두를 갈아서 가루로 만드는데, 총 세 번을 갈아야 해. 그런 다음 모카포트에 커피 가루를 넣고 가열하는데, 불꽃이 포트 밑바닥을 넘지 않도록 조심해야 해, 안 그러면 넘쳐버리거든.	First, you grind the beans into powder three times using a grinder. Then, put the grounds in a moka pot and heat it. Make sure the flames don't go beyond the base, or it'll spoil.						0	
+page1.13	关火也是个细致的事情，要卡在等咖啡液刚刚好被萃取出来的时候。然后就是倒出咖啡，加入香料，确定配比，打泡沫什么的……	關火也是個細緻的事情，要卡在等咖啡液剛剛好被萃取出來的時候。然後就是倒出咖啡，加入香料，確定配比，打泡沫什麼的……	抽出が「ちょうど」立ち上がった瞬間に消火、注いで、スパイスの配合を見て、フォームを立てて……	불을 끄는 것도 무척 섬세한 작업이야. 커피가 딱 추출되는 순간에 꺼야 하거든. 그다음엔 커피를 따라내고, 향신료를 넣고, 비율을 맞추고, 거품을 내고, 기타 등등…	Turning off the heat is just as tricky, too. You have to catch the exact moment when the extraction is just finished. Then pour it out, add spices, set the ratio, froth it, and so on...						0	
+page1.14	总之步骤很繁琐，还有好多条条框框，一大串规矩，关键是这些规矩其实都是不必要的……	總之步驟很繁瑣，還有好多細節，一大串規矩，重點是這些規矩其實都是不必要的……	手順は山ほど、決まり事も山ほど。しかも、その多くは「儀式」でしかないの。	아무튼 과정이 엄청 복잡한 데다가 지켜야 할 규칙도 많고, 절차가 여러 가지야. 중요한 건 그런 규칙들이 사실은 불필요하다는 거지…	All in all, it's a tedious process full of little rules and rituals, most of which, honestly, aren't even necessary.						0	
+page1.15	况且，比起家里，我更喜欢这里的味道，酸酸甜甜的，独特的味道……	況且，比起家裡，我更喜歡這裡的味道，酸酸甜甜的，獨特的味道……	それに――お屋敷の味より、ここで飲む一杯のほうが好きだわ。ほら、酸味と甘みが重なる、この独特の味……	게다가, 집보다는 여기서 마시는 게 더 맛있어. 새콤달콤하고, 독특한 맛이 나거든…	Besides, compared to back home, I prefer the taste here, sweet and sour, with a unique flavor...						0	
+page1.16	你是指咖啡？	你是指咖啡？	コーヒーのことを言っている？	커피 말하는 거야?	You mean the coffee?						0	
+page1.17	不，不是咖啡，这是你的味道……	不，不是咖啡，這是你的味道……	違うわ。これは――分析員さんの味。	아니, 커피가 아니라 너에게서 나는 맛…	No, not the coffee. It's your flavor...						0	
+page1.18	我的意思是，这是和你一起喝才会有的味道！	我的意思是，這是和你一起喝才會有的味道！	……じゃなくて、分析員さんと一緒に飲むから「そう感じる」という意味よ。	내 말은, 너랑 같이 마셔야 그런 맛이 난다고!	I mean... the flavor that's only there when I drink with you!						0	
+page1.19	这么说着，她将刚做好的咖啡塞进了我的手心，暖意顺着杯壁蔓延开来。	這麼說著，她將剛做好的咖啡塞進了我的手心，暖意順著杯子蔓延開來。	そう言うやいなや、淹れたてのカップをぐいっと握らせてくる。カップ越しの温もりが掌に移る。	그렇게 말하며 그녀는 방금 완성된 커피를 내 손에 쥐여주었고, 따스함이 컵을 타고 퍼져나갔다.	With that said, she pressed the freshly brewed coffee into my hand, and warmth spread through the cup into my palm.						0	
+page1.20	playername,一起来喝吧，这可是我做给你的哦！	playername，一起來喝吧，這可是我做給你的喔！	ご一緒にどう？ playernameさんのために淹れたのよ。	playername, 같이 마시자. 너 주려고 만들었어!	playername, let's drink together. I made this for you!						0	

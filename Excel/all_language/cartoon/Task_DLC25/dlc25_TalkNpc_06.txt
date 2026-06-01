@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	赛曼加！回来了！	賽曼加！回來了！	シマンガ、帰ってきた！	시맨저! 돌아왔어요!	Seamanger! You're back!						0	2.5新星开拓关卡npc
+page1.2	感谢！感谢！	感謝！感謝！	ありがとう！ありがとう！	감사합니다! 감사합니다!	Thank you! Thank you!						0	2.5新星开拓关卡npc
+page1.3	尖尖耳！履行诺言！带您去<orange>新的海岛</>！<orange>新的海岛</>！	尖尖耳！履行諾言！帶您去<orange>新的海島</>！<orange>新的海島</>！	ウサミミ、約束は守る！<orange>新しい島</>へ連れて行く！<orange>新しい島</>へ！	뾰족귀! 약속 지킬게요! 동료를 <orange>새로운 섬</>으로 데려갈게요! <orange>새로운 섬</>으로!	Sharpear always keeps its word! Let me show you the way to <orange>the new island</>! <orange>The new island</>!						0	2.5新星开拓关卡npc

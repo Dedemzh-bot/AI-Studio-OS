@@ -1,0 +1,28 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	要不要一起去哪里转转？	要不要一起去哪裡走走？	一緒に見て回らないか？	같이 어디 구경하러 가지 않을래?	Wanna hang out somewhere?						0	
+page1.2	嗯，只要是分析员想去的地方，我都可以。	嗯，只要是分析員想去的地方，我都可以。	はい。私は分析員さんが行きたい場所なら、どこでも構いません。	응, 저는 분석가가 원하는 곳이면 다 괜찮아요.	Sure. I'm fine with any places you like.						0	
+page1.3	有一项还不错的项目，我猜茉莉安之前一定没有体验过。	有一項還不錯的項目，我猜茉莉安之前一定沒有體驗過。	いい場所があるんだ。マリアンもまだ体験していないと思う。	괜찮은 프로젝트가 하나 있는데 마리안은 전에 경험해 본 적이 없을 것 같아.	I know this cool activity I bet you haven't tried before.						0	
+page1.4	呵呵，其实不用在意我的。	呵呵，其實不用在意我的。	ふふ……私のことなんか気にしなくてもいいですよ。	허허, 사실 절 신경 안 써도 돼요.	Hehe, don't worry about me.						0	
+page1.5	茉莉安只要能和分析员一起的，就——	茉莉安只要能和分析員一起的，就——	マリアンは分析員さんと一緒にいれれば、それで——	마리안은 분석가와 함께할 수만 있다면…	As long as I'm with you—						0	
+page1.6	不要再说那种话了。	不要再說那種話了。	そんな言い方はもうよせ。	다시는 그런 말 하지 마.	Don't say stuff like that.						0	
+page1.7	既然我约了茉莉安一起出来，就不可能让你受到委屈。	既然我約了茉莉安一起出來，就不可能讓你受到委屈。	マリアンを呼び出したからには、君に嫌な思いをさせたくないんだ。	내가 마리안과 함께 나오기로 했으니, 네가 억울하게 둘 수 없어.	When I take you out, it's my job to make sure you have a good time.						0	
+page1.8	分析员……	分析員……	分析員さん……	분석가…	Adjutant...						0	
+page1.9	湖心游览，好像是这里的特色项目。	湖心遊覽，好像是這裡的特色項目。	湖がここの名所みたいだ。	호수 한가운데 유람은 이곳의 특색 있는 프로그램인 것 같다.	I hear the lake tour here is a local highlight.						0	
+page1.10	很有趣的一点是，我们可以自己划船抵达湖心。	很有趣的一點是，我們可以自己划船抵達湖心。	しかもレンタルボートもあるから、自分たちでボートを漕いで湖に出ることもできるらしい。	재미있는 점은 우리가 직접 배를 저어 호수 한가운데까지 갈 수 있다는 것이다.	The fun part is, we get to row ourselves out to the middle of the lake.						0	
+page1.11	划船？	划船？	ボートですか？	노젖기?	Row a boat?						0	
+page1.12	和茉莉安一起出发，并示范了划船的姿势。	和茉莉安一起出發，並示範了划船的姿勢。	マリアンと一緒に船旅を楽しむ。	마리안과 함께 출발해 노 젓기 시범을 보였다.	You set off with Marian and demonstrated how to row a boat.						0	
+page1.13	唔……好原始的驱动方式……	唔……好原始的驅動方式……	わあ……原始的な駆動システムですね……	음… 정말 원시적인 구동 방식이네…	Hmm... That seems like such a primitive way of propulsion.						0	
+page1.14	不过湖面好平静，如果是乘轮渡出行的话，确实看不到这样的景色。	不過湖面好平靜，如果是搭渡輪的話，確實看不到這樣的景色。	それにしても、湖は穏やかですね。客船に乗っていたらこんな景色は見れなかったでしょうね。	하지만 호수면은 너무 조용해서 페리로 이동하면 이런 경치를 볼 수 없다.	Huh, the lake is so calm. You wouldn't get such a peaceful view on a ferry.						0	
+page1.15	怪不得……	怪不得……	なるほど……	어쩐지…	I see...						0	
+page1.16	什么？	什麼？	どうかしたのか？	뭐라고?	What?						0	
+page1.17	我有点理解，划船的乐趣了。	我有點理解，划船的樂趣了。	ボートの楽しさが、ちょっとだけ分かった気がします。	조금 이해가 되네요, 노 젓기의 즐거움이 있어요.	I'm starting to feel the fun of rowing...						0	
+page1.18	和分析员一起慢慢地在水面上行进时，目的地已经不重要了。	和分析員一起慢慢地在水面上行進時，目的地已經不重要了。	分析員さんと一緒に湖面をゆっくり進んでいることが大切で、目的地なんてどうでもいいんです。	분석가와 함께 천천히 물 위를 행진할 때 목적지는 더 이상 중요하지 않아요.	Slowly drifting on the water with you, the destination doesn't seem to matter anymore.						0	
+page1.19	我现在感受着分析员划船的频率，好像心跳的速度也逐渐向您靠近。	我現在感受著分析員划船的頻率，好像心跳的速度也逐漸向您靠近。	分析員さんの船を漕ぐスピードを感じていると、私の鼓動までそれと同調するような気がしてきます。	지금 분석가가 노를 젓는 빈도를 느끼고 있는데, 심장 박동의 속도가 점점 당신에게 다가오는 것 같아요.	I can feel the rhythm of your strokes — it's like our heartbeats are syncing up.						0	
+page1.20	啊，分析员，我也可以试试吗？	啊，分析員，我也可以試試嗎？	分析員さん。私も試しに漕いでみてもいいですか？	아, 분석가님, 저도 해봐도 될까요?	Adjutant, can I try?						0	
+page1.21	可以是可以，不过这个很累的，还容易伤到手。	可以是可以，不過這個很累的，還容易傷到手。	いいけど、結構疲れるよ。手をケガするかもしれないし。	가능은 한데 이게 힘든데 손도 잘 다치니까.	Sure, though it's quite a workout and can be tough on your hands.						0	
+page1.22	我可是天启者啊。	我可是天啟者啊。	大丈夫です。私、覚醒者ですよ？	저는 계시자니까요.	But I'm a Manifestation, remember?						0	
+page1.23	受伤的话……就能留下的很重要的痕迹了……	受傷的話……就能留下的很重要的痕跡了……	ケガしたら……それはそれで大事な思い出になりますし……	다치면… 아주 중요한 흔적을 남길 수 있는…	If I hurt my hands... it would only leave a mark worth remembering.						0	
+page1.24	不可以，我来给你缠上保护带。	不可以，我來幫你纏上保護帶。	いや、やっぱりダメだ。保護用の包帯を巻いてあげるよ。	안 돼, 내가 보호대를 감아 주겠어.	Not on my watch — I'll get those protective bands for your hands.						0	
+page1.25	茉莉安，我不想在你的身上留下伤痕，那样你会很痛。	茉莉安，我不想在你的身上留下傷痕，那樣你會很痛。	マリアン……私は君に傷跡を残すような真似はゴメンだ。	마리안, 난 네 몸에 상처를 남기고 싶지 않아, 그러면 네가 많이 아플 거야.	Marian, I don't want to leave any marks on you — that would hurt.						0	
+page1.26	即便是留下痕迹，我也只想在你的心上，留下温暖的痕迹。	即便是留下痕跡，我只想在你的心上，留下溫暖的痕跡。	どうせ残すなら、君の心に温かい思い出を残したい。	흔적을 남긴다 해도 난 네 마음에 따뜻한 흔적을 남기고 싶어.	If I were to leave a mark, I'd only want it to be a mark of warmth on your heart.						0	

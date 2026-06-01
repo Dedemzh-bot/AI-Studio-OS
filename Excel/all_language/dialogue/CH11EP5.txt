@@ -1,0 +1,119 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	首领，时间快到了哈。	首領，時間快到了啊。	ボス、もうすぐ時間だな。	대장, 시간이 거의 다 됐습니다.	Boss, it's almost time.						0	
+2	还要再来一针抑制剂？没感觉这地方有啥特殊的啊，除了有莫名其妙的幽灵……	還要再來一針抑制劑？沒感覺到這地方有啥特殊的啊，除了有莫名其妙的幽靈……	それにしても……抑制剤をもう一本って本気か?確かにここには変な幽霊がいるけど、大したことないだろ？	억제제를 한 개 더 말입니까? 이곳은 그 이상한 유령만 빼면 특별한 것이 없는 것 같은데요…	Another inhibitor injection? But I don't think there's anything special about this place, other than those freaky ghosts...						0	
+3	一定要按照我说的时间注射。	一定要按照我說的時間注射。	必ず時間通りに注射を受けるように。	꼭 내가 말한 시간에 주사를 주입해.	Inject it at the exact time I told you.						0	
+4	好吧好吧……	好吧好吧……	へいへい……	알겠습니다…	Alright, alright...						0	
+5	你们都看到那个自称少校的家伙了吗？他每次塞给我的芯片最后都会消失，我要是能联系上军方还搁这当什么郊狼啊哈哈。	你們都看到那個自稱少校的傢伙了嗎？他每次塞給我的晶片最後都會消失，我要是能聯繫上軍方還在這當什麼郊狼啊哈哈。	あの自称「少佐」ヤロー、見たか？渡されたチップはいつも消える……ケッ、軍と連絡できたらこんなとこでコヨーテなんぞやってねーわ。	너희들 저기 소령이라고 자칭하는 녀석 봤어? 매번 칩을 주곤 하는데 이상하게 사라지더군. 내가 만약 군대에 연락이 닿을 수 있다면 여기서 코요테 대원이나 하고 있을 리가 없잖아, 하하.	Did you guys see that guy calling himself a major? Every time he gives me that chip, it just disappears! Besides, why does he think a Coyote would contact the military in the first place? Hah.						0	
+6	嘶，这些抑制剂运出去能卖多少钱啊……扎这一针我胳膊倒是不疼，我心疼啊！	唉，這些抑制劑運出去能賣多少錢啊……打這一針我手臂倒是不痛，但心好痛啊！	って！おいおいなんだこの抑制剤の数は！？外で売り捌いたらいくら儲かるか……注射は構わないけどよ、なんかもったいねぇな！	후, 억제제들을 모두 밖으로 운반할 수만 있다면 떼돈을 벌 수 있을 텐데… 주사를 주입할 때면 팔이 아니라 내 마음이 아프다니까!	Hey, how much would these inhibitors sell for if we brought them out with us? The injections don't hurt — but my wallet does!						0	
+7	再搜索三十分钟，如果还是没有收获，我们就先撤出去。	再搜索三十分鐘，如果還是沒有收穫，我們就先撤出去。	もう三十分探索する。それでも収穫がなかったら、一旦撤退だ。	30분만 더 탐색하고, 그래도 수확이 없으면 철수하도록.	Keep looking for another 30 minutes. If we can't find anything, we'll retreat.						0	
+8	唉，到底在找什么啊？这么多抑制剂就白白浪费了……就算不卖也能多救几条拾荒者的贱命。	唉，到底在找什麼啊？這麼多抑制劑就白白浪費了……就算不賣也能多救幾條拾荒者的賤命。	はぁ、探すって一体何をだ？抑制剤をこんなに無駄にして……売れなくてもスカベンジャーの命なら数人分、救えたっていうのによ。	하아, 도대체 뭘 찾는다는 거지? 이 많은 억제제를 이렇게 낭비하다니… 굳이 안 팔아도 피난민 몇 명은 더 살릴 수 있을 텐데.	Hey, what're we looking for anyway? We're wasting so many inhibitors... Even if we don't sell them, they could save a few Scavengers.						0	
+9	哎呦！等下……首领！约瑟夫先生那里好像有发现！	唉呦！等下……首領！約瑟夫先生那裡好像有發現！	おっと！……ボス！ロシフさんとこから発見があるって！	어라! 잠깐만요… 대장님! 조셉 님께서 뭔가 발견하신 것 같습니다!	Whoa! Hang on a sec... Boss! Looks like Joseph found something!						0	
+10	叶，就是这里吗？	葉，就是這裡嗎？	葉、ここか？	이곳인가요?	Ye, is this the place?						0	
+11	嗯，老师，接下来就麻烦你把他们带回去了。	嗯，老師，接下來就麻煩你把他們帶回去了。	ああ。あとは彼らを連れ帰ってくれ、先生。	네, 어르신. 이제 그들을 돌려보내 줘야 할 것 같습니다.	Yes. Next, I'll have to ask you to escort them back.						0	
+12	我会安排人轮流守在这里，以防……	我會安排人輪流守在這裡，以防……	人を呼んでここで当番制で見張りをし、これで……	사람을 시켜 이곳을 지키게 하겠습니다. 만일의 사태를 대비해서…	I'll arrange people to take turns on guard duty here—						0	
+13	我说过的，老师，瓦尔哈拉的时间感知和现实中不一样，可能需要很久。	我說過的，老師，瓦爾哈拉的時間感知和現實中不一樣，可能需要很久。	以前も伝えたが、先生。ヴァルハラの時間の流れは現実と違う。とても時間がかかる……	제가 말씀드리지 않았습니까, 어르신. 발할라의 시간은 현실과 달라서 정말 오랜 시간이 걸릴 수도 있습니다.	Like I said, time is perceived differently in Valhalla. It might take a very long time.						0	
+14	你有多大的把握？	你有多大的把握？	できると思うか？	어느 정도로 확신하고 계신 거죠?	How sure are you?						0	
+15	我……没有把握，但这是郊狼唯一的希望，我必须冒这个风险。	我……沒有把握，但這是郊狼唯一的希望，我必須冒這個風險。	それは……言い切れない。しかし、これはコヨーテの唯一の希望。リスクがあろうともやりぬく。	확신까지는 아니지만 이건 코요테의 유일한 희망이기도 합니다. 그래서 이런 위험을 감수해야 하는 거죠.	I'm... not sure at all. But this is the Coyotes' only hope. It's a risk I have to take.						0	
+16	爱思特……她在有些地方没有说错，想要带领<orange>所有隔离区</>的郊狼度过严冬，我必须拥有力量！	愛思特……有些事情她說得沒錯，想要帶領<orange>所有隔離區</>的郊狼度過嚴冬，我必須擁有力量！	エステル……彼女が言ったことの一部は確かだ。<orange>全封鎖エリア</>のコヨーテが厳冬を凌ぐには、力を手に入れないと！	에스터… 그녀가 한 말도 어느 정도 일리는 있습니다. <orange>격리 구역에 있는 모든</> 코요테들을 이끌고 이 추운 겨울을 나려면, 그만한 힘이 필요하기도 해요!	Esther... she's right about some things. If I want to lead the Coyotes in <orange>every Containment Zone</> to survive the harsh winter, I have to be strong!						0	
+17	老师，我离开的时间里，“郊狼”就拜托给你了。	老師，在我離開的時間裡，“郊狼”就拜託你了。	先生、離れてる間は「コヨーテ」を頼む。	어르신, 제가 떠나있는 동안 '코요테'를 부탁드리겠습니다.	While I'm away, I entrust the Coyotes to your command.						0	
+17_1	我们，在未来再会。	我們，在未來再會。	また、未来で会おう。	이후에 뵙도록 하죠.	Until we meet again.						0	
+18	叶向前迈出一步，消失在雾中。	葉向前邁出一步，消失在霧中。	葉は前へと進んで、霧の中に消えた。	블레이드는 한 발짝 앞으로 나아가 안개 속으로 사라졌다.	Ye took a step forward, disappearing into the fog.						0	
+22	我赞同！这个标记的确在把我们引向第五研究所。	我贊同！這個標記的確在把我們引向第五研究所。	やっぱり！このマークは私たちを第5研究所に誘導してるんだよ！	난 찬성이야! 이 표식은 분명 우리를 제5연구소로 이끌고 있어.	Agreed! This marker is leading us to the Fifth Research Institute.						0	
+23	如果我没有理解错，鸣濑少校希望我们远离这里。	如果我沒有記錯，鳴瀨少校希望我們遠離這裡。	……私には、鳴瀬少佐に「ここから離れろ」と言われているような気さえする……	내가 잘못 이해한 게 아니라면, 나루세 소령은 우리가 이곳을 떠나길 희망하고 있어.	If I'm not mistaken, Major Naruse wants us to stay away from here.						0	
+b-1											0	
+24	我们的目标是“找到第五研究所”。	我們的目標是“找到第五研究所”。	私たちの目的は「第5研究所を見つけること」だ。	우리의 목표는 제5연구소를 찾는 거야.	Our mission objective is to find the Fifth Research Institute.						0	
+25	分析员，你还是没有联系上小陶老板吗！	分析員，你還是沒有聯繫上小τ老闆嗎！	分析員、まだτボスと連絡できないの？	분석가, 아직도 τ 대표랑 연락이 안 닿고 있는 거야?	Adjutant, you still haven't been able to contact Director τ?						0	
+b-2											0	
+26	一直都没有联系上，我有点担心……	一直都沒有聯繫上，我有點擔心……	ずっと連絡が取れないから、少し心配だ……	아직도 연락이 안 닿아. 조금 걱정이 되긴 하는데…	Not yet. I'm starting to get worried...						0	
+b-3											0	
+27	是不是遇到危险了……	是不是遇到危險了……	もしかしたら危ない目にでも……	무슨 일이라도 생긴 걸까…	Could she be in danger...?						0	
+28	不可能不可能，小陶老板肯定已经算好了所有东西！	不可能不可能，小τ老闆肯定已經算好了所有東西！	そんなわけないない！τボスのことだから、きっと何があっても予想通りのはずだよ！	그럴 리 없어! 대표님은 분명 모든 것을 계획해 뒀을 거라고!	No way! Director τ always plans everything out beforehand!						0	
+29	这肯定也在她的算计之中！	這肯定也在她的算計之中！	この状況もきっと、彼女の予想通り！	이것도 전부 계획된 것이 분명해!	This must be part of her plan too!						0	
+30	……	……	……	…	...						0	
+30_1	playername，有什么事吗？	playername，有什麼事嗎？	playername、何か？	playername, 무슨 일이라도 있나?	playername, is something wrong?						0	
+b-4											0	
+31	离开公司不是一个明智的决定。	離開公司不是一個明智的決定。	会社を辞めるのは賢明な決断ではないかと。	회사를 떠나기로 한 건 현명한 선택이 아니었어요.	Leaving the company isn't a smart decision.						0	
+32	你担心董事会对我采取极端手段？	你擔心董事會對我採取極端手段？	理事会が私に対して極端な手段を取ると思いますか？	이사회에서 날 위협이라도 할까 봐 걱정하는 건가?	Are you worried the Board might take action against me?						0	
+b-19											0	
+32_1	不能排除这种可能。	不能排除這種可能。	可能性としては。	그런 가능성도 배제할 수 없죠.	It can't be ruled out.						0	
+32_2	我准备了应对这种可能的办法。	我準備了應對這種可能的辦法。	その可能性への対処法も当然用意しています。	벌써 그런 상황에 대응할 방법은 전부 생각해 놨어.	I'm prepared for that outcome.						0	
+32_3	但是一切都建立在你能找到“第五研究所”这个前提之上。	但是一切都建立在你能找到“第五研究所”這個前提之上。	しかし、それも「第5研究所」が見つからなければ意味を為しません。	하지만 그 모든 건 네가 '제5연구소'를 찾아낸다는 전제하에 구상되었지.	But everything depends on you finding the Fifth Research Institute.						0	
+32_4	一切是否还在陶的掌握中？我不确定……	一切是否還在τ的掌握中？我不確定……	何もかもτがコントロールしているのか？私には言い切れない……	모든 게 τ의 계획대로일까? 아무것도 확정할 수가 없다…	Was everything still under τ's control? I couldn't be sure...						0	
+32_5	分析员，留下这个标记的人，他的目的到底是什么？	分析員，留下這個標記的人，他的目的到底是什麼？	分析員、このマークを残した者の目的は一体なんだと思う？	분석가, 이 표식을 남긴 사람은 도대체 무슨 목적으로 이랬을까?	Adjutant, why was this marker left here?						0	
+b-20											0	
+32_6	从结果上推论，是希望我们找到第五研究所。	從結果上推論，是希望我們找到第五研究所。	結果から推測すると、その人は私たちが第5研究所を見つけることを望んでいる。	결과적으로 봤을 때, 우리가 제5연구소를 찾아내길 바랐을 거야.	It seems like whoever left it wanted us to find the Fifth Research Institute.						0	
+33	是谎言的味道！哦不对！是阴谋的味道！	是謊言的味道！哦不對！是陰謀的味道！	くんくん！不吉なニオイ！不吉な予感！	거짓말의 냄새가 나! 아니! 음모의 냄새!	I smell deception! Ah, not only that—! I smell a conspiracy!						0	
+34	恍惚间，我好像又听到了海浪的声音。	恍惚間，我好像又聽到了浪潮的聲音。	恍惚としてる間に、また波の音が聞こえた気がする。	순간 파도 소리가 들려오는 것 같았다.	As if in a trance, I seemed to hear the sound of waves again.						0	
+35	分析员，请站在我身后！	分析員，請站到我身後！	分析員、私の後ろに！	분석가, 내 뒤에 서!	Adjutant, get behind me!						0	
+36	又是威尔·安德森。	又是威爾·安德森。	またウィル・アンダーソンだ。	또다시 윌 앤더슨이 나타났다.	It was Will Anderson again.						0	
+37	我制止所有海姆达尔队员采取进一步行动，本能地感受到，他将不再继续沉默地观察。	我制止所有海姆達爾隊員採取進一步行動，我下意識地感受到，他將不再繼續沉默地觀察。	私はヘイムダル部隊の行動を止めた。彼がもう、黙って私たちを観察することはないと本能的に感じたからだ。	난 헤임달 대원들의 행동을 저지했다. 그리고 더 이상 그가 침묵한 채로 방관하지 않을 거라는 사실을 본능적으로 깨닫게 됐다.	I ordered all Heimdall Force operatives to cease further action. I had a gut feeling that Will would no longer continue to observe quietly from the background.						0	
+38	playername，没想到会在这里见到你。	playername，沒想到會在這裡見到你。	playername、まさかここでお前に会うとはな。	playername, 이곳에서 만날 줄은 몰랐군.	playername, I wasn't expecting to see you here.						0	
+b-5											0	
+39	你身上到底发生了什么？	在你身上到底發生了什麼事？	あなたに一体何があった？	도대체 당신에게 무슨 일이 벌어졌던 건가요?	What happened to you?						0	
+40	人类毒死了苏格拉底，只因他知晓了理性的真相。	人類毒死了蘇格拉底，只因他知曉了理性的真相。	人間はソクラテスを毒殺した。ただ彼が理性の真相を知っていただけで。	사람들은 소크라테스를 독살했지. 그가 이성에 대한 진실을 알아냈다는 이유로 말이야.	You know of Socrates...? Humanity poisoned Socrates because he understood the truth behind logic. He relentlessly questioned everything.						0	
+41	并非每个人都能从梦中苏醒，睁眼看到世界的颠倒与疯狂。	並非每個人都能從夢中甦醒，睜眼看到世界的顛倒與瘋狂。	誰もが夢の中から目覚め、目を開けて世界の転覆と狂気を見ることができるわけではない。	모든 사람이 꿈에서 깨어났다고 해서 미치고 뒤집어진 세상의 모습을 볼 수 있는 건 아니야.	Not everyone wakes up from the dream and recognizes the madness of this world.						0	
+b-6											0	
+42	我听不明白。	我聽不懂。	言いたいことが分からない。	무슨 말씀을 하시는지 잘 모르겠어요.	I don't understand.						0	
+b-21											0	
+43_1	有话就直说，不要谜语人。	有話就直說，不要謎語人。	言いたいことがあるなら曖昧なことを言わずはっきり言ってくれ。	할 말이 있으면 그냥 하세요. 어렵게 얘기하실 필요 없어요.	If you have something to say, say it. Don't talk in riddles.						0	
+44	你也被董事会摆上了牺牲品的祭台，还毫无自觉。	你也被董事會擺在了犧牲品的祭台上，還毫無自覺。	お前も理事会に犠牲者として扱われているのに、まったく自覚していないとは。	너 역시 이사회의 희생물일 뿐이야. 아직도 그 사실을 모르나 보군.	The Board has laid you down on its altar of victims as well, you just aren't aware of it yet.						0	
+45	你知道第五研究所里，藏着什么秘密吗……	你知道第五研究所裡，藏著什麼秘密嗎……	第5研究所にどんな秘密があるか、分かっているのか……	제5연구소에 어떤 비밀이 숨겨져 있는지 알고 있나…	Do you know what secrets lie hidden within the Fifth Research Institute...?						0	
+45_1	他将手搭上了我的肩膀，就像之前进入泰坦网络一样，我看见了某些东西……	他將手搭上了我的肩膀，就像之前進入泰坦網路一樣，我看見了某些東西……	彼は手を私の肩に置いた。前にタイタンネットワークに進入したときと同じ、何かを目にした……	윌은 내 어깨에 손을 얹었고, 난 타이탄 네트워크에 접속했을 때와 같이 무언가가 보이기 시작했다…	He placed his hand on my shoulder. Just like when I had entered the Titagen Network before, I saw something...						0	
+45_2	漂浮着的意识方块彼此碰撞、溶解。	漂浮著的意識方塊彼此碰撞、溶解。	漂う意識のキューブがぶつかり合って、溶けていく。	떠다니는 의식 조각들이 서로 부딪히면서 녹아내렸다.	Floating cubes of consciousness collided with each other, subsequently dissolving.						0	
+45_3	心灵的质料在虚幻而欢乐的歌声中坠落。	心靈的質料在虛幻而歡樂的歌聲中墜落。	心の材料は、虚ろで歓喜の歌声に落ちていく。	영혼의 물질이 비현실적인 노랫가락 속에 추락하고 있다.	Fragments of souls crashing down in an illusory, joyful melody.						0	
+b-22											0	
+45_4	能够把人变成泰坦的设备……	能夠把人變成泰坦的設備……	人間をタイタンにする設備……	사람을 타이탄으로 변하게 할 수 있는 설비…	A device that can turn people into Titans...						0	
+b-23											0	
+45_5	利用生物研究制造泰坦……这对董事会有什么好处？	利用生物學製造出泰坦……這對董事會有什麼好處？	生物研究という名目でタイタンを作るなんて……理事会にメリットがあるのか？	생물을 연구해서 타이탄을 제조하면… 이사회에 무슨 이득이 있죠?	Utilizing biological research to create Titans... How does that benefit the Board?						0	
+45_6	也许你和我一样，永远都没有机会得知真相。	也許你和我一樣，永遠都沒有機會得知真相。	俺と同じように、一生をかけても真実の欠片にすら手が届かない。	어쩌면 너도 나처럼 영원히 진실에 대해 알 기회가 주어지지 않을 수도 있어.	Maybe you'll be like me, never with a chance to learn the truth.						0	
+45_7	我们都在第一次共振时变成了“幽灵”。	我們都在第一次共振時變成了“幽靈”。	俺たちは最初の共振で「幽霊」となった。	우리는 첫 공진으로 인해 '유령'이 되었지.	We were all transformed into phantoms during the first Resonance.						0	
+45_8	我正要继续发问，晴却突然打断了我。	我正要繼續發問，晴卻突然打斷了我。	私は質問を続けようとしたが、突然晴が私の話を遮った。	계속해서 질문을 하려던 찰나, 하루가 갑자기 대화에 끼어들었다.	Just as I was going to continue inquiring, Haru suddenly interrupted.						0	
+45_9	那个少校呢？！他也被共振波及了吗？！	那個少校呢？！他也被共振波及了嗎？！	じゃああの少佐は！？彼も巻き込まれたのか！？	그 소령님은?! 그분도 공진의 영향을 받은 건가?!	What about the major!? Was he also transformed by the Resonance!?						0	
+45_10	他作为军方代表发现了这里的研究，而我们是来毁灭证据的……	他作為軍方代表發現了這裡的研究，而我們是來毀滅證據的……	彼は軍の代表としてここの研究を知った。そして……俺たちは証拠隠滅のために来た。	군대의 대표였던 그는 이곳에서 진행하고 있던 연구를 발견했지. 우리는 증거를 인멸하러 온 거고…	With the Military, he had discovered what was being researched here. Thus, we were sent to destroy the evidence...						0	
+45_11	在共振发生前，他被我们逼进了冷库中。	在共振發生前，他被我們逼進了冷藏庫中。	共振が発生する前に、俺たちは彼を冷凍庫に——	공진이 발생하기 전, 그는 우리에 의해 냉동되었어.	We locked him in a freezer before the Resonance occurred.						0	
+45_12	是你们……害死了他！	是你們……害死了他！	お前たちが……彼を殺した！	당신들이… 아버지를 죽였던 거야!	You... you killed him!						0	
+90	我第一次看到晴在执行任务的过程中，放任自己情绪失控。	我第一次看到晴在執行任務的過程中，放任自己情緒失控。	ミッション中は何があっても冷静な晴が、こんなに感情的になったのを……初めて目の当たりにした。	하루가 미션을 수행하는 과정에서 개인적인 감정을 억제하지 못하는 모습은 처음 봤다.	For the first time ever, I saw Haru lose control of her emotions during a mission.						0	
+90_1	我侧身挡住了晴，同时按下了她拔枪的手。	我側身擋住了晴，同時按住她拔槍的那隻手。	私は身を捩って晴を庇い、銃を抜く手を押さえた。	난 하루를 가로막으며 그녀가 총을 뽑으려는 것을 저지했다.	I stepped in front of Haru, placing my hand over hers as she drew her gun.						0	
+91	而威尔·安德森只是冷漠地笑着。	而威爾·安德森只是冷漠地笑著。	ウィル・アンダーソンは、哀れと言わんばかりの目をして鼻で笑った。	하지만 윌 앤더슨은 그저 차갑게 웃고 있을 뿐이었다.	Will Anderson just smiled coldly.						0	
+92	我不会道歉，我也不必道歉。	我不會道歉，我也不必道歉。	謝ったりはしない、その必要もないと思う。	난 사과하지 않을 거야. 아니, 사과할 필요성도 못 느끼겠군.	I won't apologize. I don't need to.						0	
+92_1	“他们”从来没有给我选择的权力，就连现在也一样……	“他們”從來沒有給我選擇的權力，就連現在也一樣……	「やつら」は選択する権利など、一度もくれなかった、今になってもな……	'그들'은 내게 선택할 권리를 준 적이 없으니까. 지금도 마찬가지고…	They didn't give me the power to choose. Even now...						0	
+b-10											0	
+93	你告诉我们这些的目的是什么？	你告訴我們這些的目的是什麼？	そんなことを教えて、どういうつもりだ？	이런 걸 알려주는 목적이 뭐죠?	Why are you telling us this?						0	
+94	了解历史唯一的作用，就是知道它会如何重演。	了解歷史的唯一用處，就是知道它會如何重演	歴史がどう繰り返されるのかを知る、それが歴史を理解する唯一のメリットと言える。	과거를 알아야 하는 이유는 그것이 어떻게 되풀이될지 이해하는 데 유용하지.	The only value in understanding history is knowing how it shall repeat itself.						0	
+95	谋杀者已经备好了毒酒与匕首。	謀殺者已經備好了毒酒與匕首。	犯人はすでに毒酒と短剣を用意している。	살인자는 독을 탄 술과 비수를 모두 준비한 상태야.	The murderers are ready with poisoned wine and daggers.						0	
+95_1	他们会从你背后袭来，刺穿那一小片未浸龙血的肌肤。	他們會從你背後襲來，刺穿那一小片未浸龍血的肌膚。	背後から襲い掛かり、その龍血に蝕まれていない一部の肌を刺す。	그들은 뒤에서 너희를 공격해 올 거야. 피를 한 번도 흘려본 적이 없는 연한 살결을 뚫으며 말이지.	They will approach you from behind, swiftly piercing that fragile patch of skin that has never spilled blood before.						0	
+95_2	即使你是最伟大的英雄——playername。	即使你是最偉大的英雄——playername。	お前が——playernameが最も偉大なる英雄だとしても。	이건 네가 가장 위대한 영웅이라 할지라도 어쩔 수 없는 일이야, playername.	Even if you are the mightiest hero — playername.						0	
+96	威尔·安德森再次坍缩了，我将他最后这段意义不明的话理解为某种警告。	威爾·安德森再次坍縮了，我將他最後這段意義不明的話視為某種警告。	情報体のウィル・アンダーソンはまた崩壊した。その遠回しで意味不明な言葉は、彼からの警告だろう。	윌 앤더슨의 모습이 또다시 붕괴되었다. 난 그가 마지막으로 남긴 의미심장한 말을 일종의 경고로 받아들였다.	Will Anderson collapsed into fragments again. I took his last ambiguous remark as a kind of warning.						0	
+97	我转向晴，解释自己阻止她的原因。	我轉向晴，解釋自己阻止她的原因。	晴に向かって、止めた理由を説明した。	곧이어 난 하루에게 그녀의 행동을 막았던 이유에 관해 설명했다.	I turned to Haru, explaining why I stopped her.						0	
+b-11											0	
+99	刚才，我们需要了解更多的信息……	剛才，我們需要獲得更多的情報……	さっきは、より多くの情報を手に入れたかったから……	저희는 방금 더 많은 정보를 얻었어야 했어요…	We needed to gather more information...						0	
+b-12											0	
+101	晴，你还好吗？	晴，你還好嗎？	晴、大丈夫か？	하루, 괜찮아요?	Haru, are you okay?						0	
+104	分析员……不用担心，刚才是我没有控制好情绪。	分析員……不用擔心，剛才是我不小心失控了。	分析員……心配するな。ちょっと冷静を失っただけだ。	분석가… 걱정하지 마. 방금은 내가 감정을 제어하지 못한 것뿐이야.	Adjutant... I lost control of my emotions just now, but don't worry about me.						0	
+105	我不会再犯这种错误了，请你相信我。	我不會再犯這種錯誤了，請你相信我。	信じてくれ、もう二度とあんなミスを犯さない。	똑같은 실수는 하지 않을게, 날 믿어줘.	I won't make that same mistake again. Believe me.						0	
+106	她带着与父亲相同的坚持与骄傲，这样坚定地告诉我。	她帶著和父親相同的堅持與驕傲，如此堅定地告訴我。	彼女の力強い宣言は、まるで彼女の父親が持っていた信念と誇りのように感じられた。	그녀는 자신의 부친과 같은 강인함과 긍지를 걸고 내게 약속했다.	She spoke firmly, with the same determination and pride as her father.						0	
+auto_b-20											0	
+106_1	嗯，我相信你。	嗯，我相信你。	ああ、信じるよ。	네, 믿을게요.	I believe you.						0	
+107	分析员，你有呼叫支援吗？	分析員，你有呼叫支援嗎？	分析員、支援を要請したか？	분석가, 지원 요청했어?	Adjutant, did you call in support?						0	
+b-14											0	
+108	没有，刚才起就一直联系不上营地。	沒有，從剛才就一直聯繫不上營地。	いや、さっきからずっとキャンプと連絡できないんだ。	아니, 아까부터 야영지와 연락이 닿지 않고 있어.	No, I haven't been able to make any contact with the camp.						0	
+109	看通讯器，有很多带有友军识别的信号正在接近我们。	看通訊器，有很多帶著友軍識別的信號正在接近我們。	通信機を見ると、友軍と識別された信号が近づいている。	통신기를 보면 아군 표시로 되어 있는 다수의 신호가 우리를 향해 접근하고 있어.	My communicator is detecting several friendly military signals approaching us.						0	
+110	请问是分析员长官吗？	請問是分析員長官嗎？	すみません、分析員ですか？	실례합니다, 분석가님이신가요?	Are you the Senior Adjutant?						0	
+111	我们收到陶董的指示前来支援。	我們收到τ董的指示前來支援。	τさんの指示を受けて支援しにきました。	τ 이사님의 지시에 따라 지원을 왔습니다.	We received orders from Director τ to provide backup.						0	
+b-15											0	
+112	我没有听陶董提起过。	我沒有聽τ董提起過。	τさんからは聞いていないが。	τ 이사님한테 들은 얘기가 없는데요.	Director τ didn't mention anything about that to me.						0	
+113	可以允许我们靠近一些吗？陶董和我们在一起。	可以允許我們靠近一點嗎？τ董和我們在一起。	もう少し近づいてもいいですか？τさんは私たちに同行しています。	조금 더 가까이 접근해도 괜찮겠습니까? 현재 τ 이사님은 저희와 함께하고 계십니다.	Requesting permission to approach. Director τ is here with us.						0	
+114	麻烦先解除警戒，这里的雾太浓了，很容易发生误伤。	麻煩先解除警戒，這裡的霧太濃了，很容易誤傷。	そんなに警戒しないでくれませんか？ここは霧が濃いから、誤射しやすい距離です。	죄송하지만 경계 상태 좀 풀어주십시오. 이곳은 안개가 너무 짙어 오인사격이 발생할 수 있습니다.	And if you wouldn't mind lifting the alert first. The fog is so thick here — I'm worried about friendly fire.						0	
+b-16											0	
+115	请不要再接近，否则我们将按照规定自卫。	請不要再靠近了，否則我們將按照規定自衛。	これ以上近づかないで。でないとルール通りに自衛する。	접근하지 마세요. 더 이상 접근하면 규정에 따라 방어 사격을 하겠습니다.	Please don't come any closer, or we will defend ourselves accordingly.						0	
+b-17											0	
+116	如果陶董和你们在一起，请让我跟陶董通话。	如果τ董和你們在一起，請讓我跟τ董通話。	τさんが本当に同行しているのなら、まずは彼女と連絡させてくれ。	τ 이사님과 함께 있다면 저와 통화를 할 수 있게 해주세요.	If Director τ is with you, let me speak with her.						0	
+117	稍等，我请示一下陶董。	稍等，我請示一下τ董。	今すぐτさんに連絡してみます。少々お待ちを。	잠시만 기다려 주십시오. 이사님께 전달하겠습니다.	Stand by. I'll ask Director τ for further instructions.						0	
+118	通讯没有再拨过来。	通訊沒有再撥過來。	通信機から連絡が来ない。	통신은 다시 연결되지 않았다.	The communication fell silent.						0	
+118_1	看来，威尔·安德森的警告，很快就要应验了。	看來威爾·安德森的警告，馬上就要應驗了。	どうやら、ウィル・アンダーソンの警告通りに、何かが起きるようだ。	아무래도 윌 앤더슨의 경고가 어느 정도 들어맞는 것 같다.	Will Anderson's warning was seemingly coming to fruition.						0	
+b-18											0	
+119	海姆达尔部队，准备迎战！	海姆達爾部隊，準備迎戰！	ヘイムダル部隊、迎撃準備！	헤임달 부대, 전투 준비 태세!	Heimdall Force, prepare for combat!						0	
+120	我发出命令后，感到自己的心脏正在猛烈搏动。	我下達命令之後，感到自己的心臟在猛烈搏動。	命令を出したあと、心臓がバクバクと脈動するのが分かる。	나는 명령을 내린 후 내 심장이 격렬하게 뛰고 있다는 것을 느꼈다.	My heart began to beat furiously as I shouted the order.						0	
+121	原来，威尔·安德森所说的“历史重演”是这样的含义。	原來，威爾·安德森所說的“歷史重演”是這樣的含義。	ウィル・アンダーソンが言っていた「歴史が繰り返される」とはこういう事だったか。	윌 앤더슨이 언급한 '역사의 재연'은 이런 의미였을까.	This was what Will Anderson meant by history repeating itself.						0	
+122	我们就像两年前的他一样，成为弃子。	我們就像兩年前的他一樣，成為棄子。	二年前の彼みたいに、捨て駒になるわけだ。	우리도 2년 전의 그들처럼 버려진 것이다.	We had been abandoned, perhaps betrayed — just like Will was two years ago.						0	

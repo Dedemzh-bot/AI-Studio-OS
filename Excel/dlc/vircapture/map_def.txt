@@ -1,0 +1,7 @@
+地图名	地图大小	地图块数量	地图块大小	大地图	大地图背景	第一个小地图切片	白日场景	夜晚场景	白日音乐	夜晚音乐	白日环境音效	夜晚环境音效	初始传送点	跟地图等级挂钩的点
+MapName	MapSize	MapPieceNum	PieceSize	ImgBigMap	ImgBigMapBg	ImgSmallMapStart	DayLevel	NightLevel	DayMusic	NightMusic	DayAmbience	NightAmbience	DefaultDeliver	LevelPoint
+huntingground_01	{2048,2304}	{8,9}	{256,256}	1012000	1012001	1012002								
+huntingground_02	{2304,2304}	{9,9}	{256,256}	1012074	1012075	1012076								
+palwild_01	{2304,2304}	{9,9}	{256,256}	1011000	1011001	1011002		area10_night	BGM|Fight|Activity|DLC03,DLC|Fight02,Battle|Off	BGM|Fight|Activity|DLC14,DLC|Fight04,Stage|Stage03	Amb_2D|DLC25|HaiDaoZhou	Amb_2D|DLC25|HaiDaoYe	{{501,892}}	
+palwild_02	{2304,2304}	{9,9}	{256,256}	1012157	1012158	1012159		bigworld02_night	BGM|Fight|Activity|DLC14,DLC|Fight04,Stage|Stage01	BGM|Fight|Activity|DLC14,DLC|Fight04,Stage|Stage02	Amb_2D|DLC25|XueDiZhou	Amb_2D|DLC25|XueDiYe	{{829}}	
+newstar_building01	{2304,1536}	{9,6}	{256,256}	1012240	1012241	1012242		area10_night	BGM|UI|DLC09_Rich_Stage02	BGM|UI|DLC09_Rich_Stage02	Amb_2D|DLC25|HaiDaoZhou	Amb_2D|DLC25|HaiDaoZhou	{{514,577},{567,610}}	{{2,579},{3,580}}

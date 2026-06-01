@@ -1,0 +1,35 @@
+战斗id	注释	关卡名	关卡唯一Id	地图id	关联growintensity怪物强度模板	任务资源	编队限制	试用角色	首通掉落ID	固定掉落ID	随机掉落ID	关卡描述	推荐等级
+Id	Nul	Name	LevelId	MapId	LevelStrength	TaskPath	TeamRuleID	TrailCard	FirstDropID	BaseDropID	RandomDropID	Desc	Rank
+1	测试关卡		10101	10101					1000				
+2	A1·图1	season_item.chess10	4201	4201	4	ChessMapLevel/Task_Chess_Level_001.Task_Chess_Level_001		{103006,103007}	7009			season_task.chessbattle1.2	55
+3	A7·图3	season_item.chess9	4202	4202	1	ChessMapLevel/Task_Chess_Level_002.Task_Chess_Level_002		{103006,103007}	7008			season_task.chessbattle1.3	55
+4	A8·图3	season_item.chess10	4203	4203	4	ChessMapLevel/Task_Chess_Level_003.Task_Chess_Level_003		{103006,103007}	7009			season_task.chessbattle1.4	55
+5	A10·图4	season_item.chess9	4204	4204	1	ChessMapLevel/Task_Chess_Level_004.Task_Chess_Level_004		{103006,103007}	7008			season_task.chessbattle1.5	55
+6	A2·图1	season_item.chess9	4205	4205	1	ChessMapLevel/Task_Chess_Level_005.Task_Chess_Level_005		{103006,103007}	7008			season_task.chessbattle1.6	55
+7	A11·图4	season_item.chess9	4206	4206	1	ChessMapLevel/Task_Chess_Level_006.Task_Chess_Level_006		{103006,103007}	7008			season_task.chessbattle1.7	55
+8	A3·图2复用	season_item.chess9	4210	4210	1	ChessMapLevel/Task_Chess_Level_010.Task_Chess_Level_010		{103006,103007}	7008			season_task.chessbattle1.8	55
+9	A9·图2	season_item.chess11	4208	4208	2	ChessMapLevel/Task_Chess_Level_008.Task_Chess_Level_008		{103006,103007}	7010			season_task.chessbattle1.9	55
+10	A4·图1	season_item.chess9	4209	4209	1	ChessMapLevel/Task_Chess_Level_009.Task_Chess_Level_009		{103006,103007}	7008			season_task.chessbattle1.10	55
+11	A3·图2	season_item.chess9	4210	4210	1	ChessMapLevel/Task_Chess_Level_010.Task_Chess_Level_010		{103006,103007}	7008			season_task.chessbattle1.11	55
+12	A5·图2	season_item.chess9	4211	4211	1	ChessMapLevel/Task_Chess_Level_011.Task_Chess_Level_011		{103006,103007}	7008			season_task.chessbattle1.12	55
+13	A6·图2	season_item.chess9	4212	4212	1	ChessMapLevel/Task_Chess_Level_012.Task_Chess_Level_012		{103006,103007}	7008			season_task.chessbattle1.13	55
+14	B4·图3	season_item.chess10	4213	4213	4	ChessMapLevel/Task_Chess_Level_013.Task_Chess_Level_013		{103006,103007}	7009			season_task.chessbattle1.14	55
+15	A13·图5	season_item.chess9	4214	4214	1	ChessMapLevel/Task_Chess_Level_014.Task_Chess_Level_014		{103006,103007}	7008			season_task.chessbattle1.15	55
+16	B5·图4	season_item.chess10	4215	4215	4	ChessMapLevel/Task_Chess_Level_015.Task_Chess_Level_015		{103006,103007}	7009			season_task.chessbattle1.16	55
+17	B2·图1	season_item.chess11	4216	4216	2	ChessMapLevel/Task_Chess_Level_016.Task_Chess_Level_016		{103006,103007}	7010			season_task.chessbattle1.17	55
+18	B1·图2	season_item.chess9	4217	4217	1	ChessMapLevel/Task_Chess_Level_017.Task_Chess_Level_017		{103006,103007}	7008			season_task.chessbattle1.18	55
+19	A12·图5	season_item.chess9	4218	4218	1	ChessMapLevel/Task_Chess_Level_018.Task_Chess_Level_018		{103006,103007}	7008			season_task.chessbattle1.19	55
+20	C1·图4	season_item.chess11	4219	4219	2	ChessMapLevel/Task_Chess_Level_019.Task_Chess_Level_019		{103006,103007}	7010			season_task.chessbattle1.20	55
+21	C2·图5	season_item.chess11	4220	4220	2	ChessMapLevel/Task_Chess_Level_020.Task_Chess_Level_020		{103006,103007}	7010			season_task.chessbattle1.21	55
+22	B3·图3	season_item.chess10	4221	4221	4	ChessMapLevel/Task_Chess_Level_021.Task_Chess_Level_021		{103006,103007}	7009			season_task.chessbattle1.22	55
+23	D1·图6	season_item.chess11.1	4222	4222	1	ChessMapLevel/Task_Chess_Level_022.Task_Chess_Level_022	4005		7011			season_task.chessbattle1.23	55
+24	D2·图6	season_item.chess11.1	4223	4223	1	ChessMapLevel/Task_Chess_Level_023.Task_Chess_Level_023	4006		7011			season_task.chessbattle1.24	55
+25	D3·图6	season_item.chess11.1	4224	4224	1	ChessMapLevel/Task_Chess_Level_024.Task_Chess_Level_024			7011			season_task.chessbattle1.25	55
+26	D4·图6	season_item.chess11.1	4225	4225	1	ChessMapLevel/Task_Chess_Level_025.Task_Chess_Level_025			7011			season_task.chessbattle1.26	55
+27	A13·图5复用	season_item.chess9	4214	4214	1	ChessMapLevel/Task_Chess_Level_014.Task_Chess_Level_014		{103006,103007}	7008			season_task.chessbattle1.27	55
+28	A13·图5复用	season_item.chess9	4214	4214	1	ChessMapLevel/Task_Chess_Level_014.Task_Chess_Level_014		{103006,103007}	7008			season_task.chessbattle1.28	55
+29	D3·图2复用（废弃）	season_item.chess11.1	4224	4224	1	ChessMapLevel/Task_Chess_Level_024.Task_Chess_Level_024			7011			season_task.chessbattle1.29	55
+30	A10·图6复用1	season_item.chess9	4204	4204	1	ChessMapLevel/Task_Chess_Level_004.Task_Chess_Level_004		{103006,103007}	7008			season_task.chessbattle1.30	55
+31	A10·图6复用2	season_item.chess9	4204	4204	1	ChessMapLevel/Task_Chess_Level_004.Task_Chess_Level_004		{103006,103007}	7008			season_task.chessbattle1.31	55
+32	A10·图3复用	season_item.chess9	4203	4203	1	ChessMapLevel/Task_Chess_Level_004.Task_Chess_Level_004		{103006,103007}	7008			season_task.chessbattle1.32	55
+33	A7·图3复用	season_item.chess9	4202	4202	1	ChessMapLevel/Task_Chess_Level_002.Task_Chess_Level_002		{103006,103007}	7008			season_task.chessbattle1.33	55

@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	伊切尔一边用叉子胡乱戳着碗里的蔬菜沙拉，一边发出嫌弃又犹豫的声音。	伊切爾一邊用叉子亂戳著碗裡的蔬菜沙拉，一邊發出嫌棄又猶豫的聲音。	イチェルはフォークで野菜サラダをつつきながら、嫌そうな声をもらした。	이첼은 포크로 그릇 안의 야채 샐러드를 마구 찌르면서, 싫어하면서도 망설이는 소리를 냈다.	Eatchel poked listlessly at her bowl of vegetable salad with a fork, making a hesitant, disgruntled noise.						0	3.0版本随机事件
+page1.2	不想吃。	不想吃。	食べたくない。	먹기 싫어.	Don't want this.						0	3.0版本随机事件
+page1.3	（结果还是放弃了）	（結果還是放棄了。）	（やっぱりやめようとしているな。）	(결국 포기했구나)	(Failed again...)						0	3.0版本随机事件
+page1.4	分析员说过，蔬菜都是好伙伴，会帮助我长高变强，对吧？	分析員說過，蔬菜都是好夥伴，會幫助我長高變強，對吧？	分析員言ってたよね、野菜は頼れる仲間で、背も伸びるし、強くなれるって。	분석가가 그랬잖아, 야채들은 좋은 친구라서 키도 크고 힘도 세지게 도와준다고, 맞지?	Adjutant, you said veggies are our friends, right? That they'll help me grow bigger and stronger?						0	3.0版本随机事件
+page1.5	是啊，怎么了？	是啊，怎麼了？	ああ、どうかしたか？	그랬지, 왜 그래?	Yes, why?						0	3.0版本随机事件
+page1.6	那它们为什么不把自己长得好吃些呢？味道有苦的有涩的，好奇怪哦！	那它們為什麼不把自己長得好吃點呢？味道有苦的有澀的，好奇怪喔！	なんで野菜たちはもっとおいしくならないんだ？苦かったり渋かったり、ヘンな味ばっかりだぞ。	그러면 왜 맛있게 자라나지 않는 거지? 쓴맛도 있고 떫은맛도 있고, 너무 이상해!	Then why don't they taste better? Some are bitter, some are just weird... It's so strange!						0	3.0版本随机事件
+page1.7	这个嘛……	這個嘛……	それはだな……	그건 말이지…	Well...						0	3.0版本随机事件
+page1.8	嗯？这个怎么？	嗯？這個怎樣？	うん、どういうこと？	응? 이건 어떻게 된 거지?	Mmm? Well what?						0	3.0版本随机事件
+page1.9	咳咳，伊切尔，你在爆爆菜园里和蔬菜伙伴们一起并肩作战过对吧？	咳咳，伊切爾，你在爆爆菜園裡和蔬菜夥伴們一起並肩作戰過對吧？	ゴホン、イチェルはガーデン＆ガードで、野菜たちと一緒に戦ったことがあるだろ？	크흠, 이첼, 너 야채의 역습에서 야채 파트너들이랑 같이 싸워봤지?	Ahem, Eatchel. You've fought side by side with veggies in Garden Mayhem, haven't you?						0	3.0版本随机事件
+page1.10	嗯嗯！	嗯嗯！	うん！	으응!	Uh—huh!						0	3.0版本随机事件
+page1.11	其实在长年累月的战斗中，蔬菜们为了避免被侵略者吃掉，特地把自己进化得不好吃了。	其實在長年累月的戰鬥中，蔬菜們為了避免被侵略者吃掉，特地把自己演化得不好吃了。	実は、長年の戦いの中で、野菜たちは侵略者に食べられないように、わざとまずく進化したんだ。	사실 오랜 세월 동안의 전투에서 야채들은 침략자들에게 먹히지 않으려고 일부러 맛없게 진화했어.	The truth is, after years of battle, veggies evolved to taste bad on purpose, so invaders wouldn't eat them.						0	3.0版本随机事件
+page1.12	竟然是这样吗？！	竟然是這樣嗎？！	そうなのか！？	그런 거였어?!	Really?						0	3.0版本随机事件
+page1.13	都是为了守护大家，为了把营养留给大家。	都是為了守護大家，為了把營養留給大家。	みんなを守って、栄養を私たちに残すために、そうしてるんだよ。	모두를 지키고, 영양분을 모두에게 남겨주기 위해서였지.	They did it to protect everyone. To preserve their nutrients for us.						0	3.0版本随机事件
+page1.14	可是不好吃的话，我们也不会吃啊。	可是不好吃的話，我們也不會吃啊。	でもまずかったら、ボクたちだって食べたくないぞ。	근데 맛이 없으면 우리도 안 먹잖아.	But if they taste bad, we won't eat them either.						0	3.0版本随机事件
+page1.15	因为……	因為……	それでも……	그건 왜냐하면…	Well, that's because...						0	3.0版本随机事件
+page1.16	因为？	因為？	でも？	왜냐하면?	Because?						0	3.0版本随机事件
+page1.17	因为蔬菜伙伴们相信我们，无论变得多么难吃，我们都会接受伙伴们，毕竟唯有变得难吃，才能把营养保护好，留给我们。	因為蔬菜夥伴們相信我們，無論變得多麼難吃，我們都會接受夥伴們，畢竟唯有變得難吃，才能把營養保護好，留給我們。	野菜は私たちを信じているんだ。どれだけまずくなっても、仲間だから受け入れてくれるって。まずくなることでしか栄養を守れないから、それを全部私たちに託してくれているんだ。	야채 파트너들은 우리를 믿으니까. 아무리 맛이 없어져도 우리가 그 친구들을 받아들일 거라고 믿어. 결국 맛없어져야만 영양분을 잘 보호해서 우리에게 줄 수 있으니까.	Because they trust us. No matter how hard to eat they become, they know that we'll always accept them. After all, it's the only way to keep their nutrients safe for us.						0	3.0版本随机事件
+page1.18	呜呜呜原来是这样！	嗚嗚嗚原來是這樣！	ううう……そういうことだったのか！	으아앙! 그런 거였어?	Ah! What a sad truth...						0	3.0版本随机事件
+page1.19	伊切尔，蔬菜伙伴们一直相信你，你要对这份信任做出回应才行。	伊切爾，蔬菜夥伴們一直相信你，你要對這份信任做出回應才行。	イチェル、野菜の仲間たちはずっと君を信じている。その信頼に応えないとな。	이첼, 야채 파트너들은 계속 널 믿어왔어. 넌 그 믿음에 보답해야 해.	Eatchel, your veggie allies have always believed in you. You've got to answer that trust.						0	3.0版本随机事件
+page1.20	嗯嗯！我现在就把沙拉吃掉！	嗯嗯！我現在就把沙拉吃掉！	うん！全部食べる！	응! 지금 당장 샐러드를 먹어 치울게!	Mhm! I'll finish the salad right away!						0	3.0版本随机事件

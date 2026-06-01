@@ -1,0 +1,168 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	在人类尚未彻底征服大洋的时代	在人類尚未征服海洋的時代	人類がまだ海を完全に征服していない時代	인류가 아직 완전히 대양을 정복하지 못한 시대,	In an era when humans were yet to conquer the sea,						0	
+2	满身伤痕，从海岛另一端漂流至此的奴隶们祈祷着	傷痕累累的奴隸們從海島另一端漂流至此，他們滿心祈禱著	島の反対側から流れ着いた奴隷たちは、傷だらけになりながら祈った。	섬 반대편에서 떠내려온 노예들이 온몸에 상처를 입은 채 기도하고 있었다.	Their bodies rife with scars, the slaves who drifted here from the other end of the island prayed,						0	
+3	“让我们自此与世间苦痛诀别”	「讓我們與世間痛苦訣別」	「この世の苦しみに別れを告げましょう」と。	"우리를 세상의 고통에서 벗어나게 하소서."	Allow us to bid this earthly pain farewell.						0	
+4	于是，在献上了无数祭品之后，图拉卡斯终于给予了他们回应	在獻上了無數的祭品之後，圖拉卡斯終於回應了他們	そして無数の生け贄を捧げた後、トゥーラカスはついに彼らに報いた。	끝없이 제물을 바치자, 투라카스는 마침내 그들의 기도를 들어주었다.	And so, after countless sacrifices, Thuyakhash finally graced them with a response,						0	
+5	没有痛觉的孩子降生了	沒有痛覺的孩子降生了	痛覚のない子供が生まれたのだ。	통각이 없는 아이가 태어났다.	A baby unable to feel pain was born,						0	
+6	这便是第一位神使诞生的故事	這便是第一位神使誕生的故事	これは、最初の神の使い誕生の物語	첫 번째 신의 사자가 탄생한 이야기다.	This is the story of the first high priest's birth.						0	
+7	——摘自安提克勒娅《雅卢岛风土见闻录》	——摘自安提克勒婭《雅盧島風土見聞錄》	——アンティクレイア著《ガルーアイランド見聞録》より抜粋	——안티클레아 <야루섬 기행록>	— Excerpt from Anticlea's "Recorded Observations of Yallu Island"						0	
+8	分析员，你的通讯终端响了喵。	分析員，你的通訊終端響了喵。	分析員、通信端末が鳴ってるニャ。	분석가, 통신 단말기가 울린다냥.	Adjutant, your terminal is beeping, nya.						0	
+b-1											0	
+9	听到了，但是有鱼在咬钩了。	聽到了，但是剛好有魚上鉤了。	分かってるが、魚がかかったんだ。	응, 알아. 근데 물고기가 미끼를 물었어.	I know, but I got a bite.						0	
+b-2											0	
+10	所以稍等……噢啊！	所以稍等……唉呀！	だからもう少し……うわぁ！	그러니 잠깐만… 으앗!	So wait just one— Ah!						0	
+11	线绷断了。	魚線斷了。	糸、切れちゃったね。	줄이 끊어졌다.	The line broke.						0	
+12	这就是所谓的鱼与熊掌不可兼得吗？	這就是所謂的魚與熊掌不可兼得嗎?	いわゆる「二兎を追うものは一兎をも得ず」ってやつ？	두 마리 토끼를 잡으려다 하나도 못 잡았구나?	Is that what they mean by "you can't have your fish and eat it too"?						0	
+b-3											0	
+13	那句话不是这么用的……	那句話不是用在這種地方……	ビミョーに違うと思うんだけどな……	그건 이럴 때 쓰는 말이 아니야…	That's not quite right...						0	
+14	不过也正是因为心里一直惦记着通讯终端，才忘记调整泄力……果然一心不能二用。	不過也是因為受到終端影響，所以才忘記卸力放線……果然一心不能二用。	でも確かに、通信端末に気を取られて力加減が乱れた……やはり集中しないとダメだ。	속으로 통신 단말기가 신경 쓰여서 힘 조절하는 것을 잊었다…한눈팔면 역시나 일을 그르치는 법이다.	Either way, I'd forgotten to give the line some slack precisely because I was distracted by my terminal... Looks like I couldn't do two things at once.						0	
+15	摇了摇头，从兜中掏出了还在滴滴滴响个不停的终端。	我搖搖頭，從口袋拿出響個不停的終端。	ため息をつきながら、鳴り続けている端末をポケットから取り出した。	난 고개를 저으며 주머니에서 아직도 따르릉 울리고 있는 통신 단말기를 꺼냈다.	I shook my head, then pulled the beeping terminal out of my pocket.						0	
+16	上面是一串陌生的通讯代码。	上面是一連串陌生的通訊代碼。	見覚えのない通信コードが並んでいる。	화면에는 낯선 통신 코드가 표시되고 있었다.	There were several communication codes I'd never seen before displayed on the screen.						0	
+b-4											0	
+17	（接通）	（接通）	(接続されています)	(통신을 받는다)	(Answer call)						0	
+18	请问，您是世界树的分析员，playername吗？	請問，您是世界樹的分析員playername嗎?	あの、ユグドラシル社の分析員、playername様ですか？	안녕하세요, 혹시 위그드라실의 분석가 playername 님 맞으세요?	Excuse me, are you the Yggdrasil Adjutant, playername?						0	
+b-5											0	
+19	你是？	你是?	どちら様？	그런데요, 누구시죠?	Who is this?						0	
+20	太好了……终于联系上您了，我是拉美西斯集团雅卢岛服务器维修部的部员。	太好了……終於聯絡上了，我是拉美西斯集團雅盧島伺服器維修部的人員。	よかった……やっと連絡を取れました。こちらはラムセスグループ・ガルーアイランドサーバー修理部のものですが。	다행이네요… 드디어 연락이 닿았군요. 저는 람세스 그룹의 야루섬 서버 정비부 직원입니다.	Thank goodness... I finally got ahold of you. I work in the Ramses Group maintenance department on Yallu Island.						0	
+21	接下来要和您说的事情绝非玩笑，请您务必认真对待。	接下來告訴您的事情非常重要，並不是開玩笑。	これからする話は決して冗談ではありません。どうか真剣に聞いてください。	지금 말씀드릴 내용은 절대 농담이 아니니, 진지하게 들어주세요.	What I'm about to tell you isn't a joke — please take it seriously.						0	
+22	这座岛屿，正在遭遇不明身份的势力袭击……	這座島嶼正遭到不明人士的襲擊……	この島は正体不明の勢力に襲われています……	이 섬은 정체불명 세력에게 습격을 받고 있어요…	An unknown force is waging war on this island...						0	
+b-6											0	
+23	什么意思？	什麼意思?	どういう意味だ？	무슨 말씀이죠?	What does all this mean?						0	
+24	来大闹一场吧——来大闹一场吧——	來大鬧一場吧——來大鬧一場吧——	思いっきり遊ぼう——思いっきり遊ぼう——	한바탕 놀아보자… 한바탕 놀아보자…	Come and have some fun... Come and have some fun...						0	
+25	寻宝游戏——寻宝游戏——	尋寶遊戲——尋寶遊戲——	宝探しゲーム——宝探しゲーム——	보물찾기… 보물찾기…	Scavenger hunt... Scavenger hunt...						0	
+26	海姆达尔的各位，来一起玩吧——	海姆達爾的各位，來一起玩吧——	ヘイムダルの皆さん、遊びましょう——	헤임달 여러분, 같이 놀아요…	Everyone from the Heimdall Force, let's enjoy ourselves together!						0	
+27	分析员，有奇怪的家伙靠近了喵。	分析員，有奇怪的傢伙靠近了喵。	分析員、変な奴が近づいてきたニャ。	분석가, 이상한 녀석이 다가온다냥.	Adjutant, someone strange is approaching, nya.						0	
+28	分析员先生？您还在听吗？	分析員先生?您還在聽嗎?	分析員さん？聞こえますか？	분석가님? 듣고 계세요?	Adjutant, Sir? Are you still listening?						0	
+b-7											0	
+29	嗯，你继续说。	嗯，你繼續說。	ああ、続けて。	네, 말씀하세요.	Yeah, go ahead.						0	
+30	今天早上我在海底机房进行例行检查时被人从身后猛击头部，醒来后就发现自己被反锁在机房里了。	今早我在海底機房例行檢查時被人從後被襲擊，醒來後發現自己被反鎖在機房內。	私は今朝、海底エンジン室で定例検査をしていたところ、後ろから頭を殴られ……目が覚めるとエンジン室に閉じ込められていました。	오늘 아침에 제가 해저 전산실에서 정기 점검을 하고 있었는데, 뒤에서 누가 머리를 세게 때렸어요. 정신을 차리고 보니 전산실 안에 갇혀 버렸어요.	This morning, someone hit me in the back of the head while I was doing a routine inspection in the seabed server room. I realized I was locked inside after I woke up.						0	
+31	如果还来得及的话，我想拜托你……	如果還來得及的話，想拜託您……	もしまだ間に合うのなら、どうか……	괜찮으시다면, 부탁드리고 싶은 게 하나 있는데…	If there's still enough time, I'd like to ask you to...						0	
+32	不许交头接耳，不许交头接耳——	不准交頭接耳——不准交頭接耳——	私語を慎め、私語を慎め——	소곤거리지 마라, 소곤거리지 마라…	No whispering... No whispering...						0	
+33	嘻嘻嘻——射中了——没法用那个终端了吧——	嘻嘻嘻——射中了——沒辦法用終端了吧——	クスクス——命中だ——もう端末を使えないでしょう——	후후후… 명중이다… 그 통신 단말기는 이제 사용할 수 없겠군…	Hehehe... Bullseye... That terminal is out of commission...						0	
+34	这些机器人好像失控了，要干掉它们吗？	這些機器人好像失控了，要幹掉它們嗎?	ここのロボット、制御不能になってるみたい。壊す？	로봇들이 통제 불능 상태인 것 같다, 녀석들을 해치울까?	Seems like these robots are out of control. Should we take care of them?						0	
+b-8											0	
+35	看样子是被黑客入侵了……	看樣子是被駭了……	どうやらハッカーに操られてるみたいだ……	해커의 짓인 것 같아…	It looks like they were hacked...						0	
+b-9											0	
+36	猫汐尔，通知大家去观光码头集合。	貓汐爾，通知大家到觀光碼頭集合。	マーシル、観光埠頭で集合するようみんなに通達を。	캣 시에라, 관광 부두에 집합하라고 모두에게 알려줘.	Mauxir, tell everyone to meet up at the sightseeing wharf.						0	
+b-10											0	
+37	这些小家伙我来解决。	這些傢伙由我來解決。	こいつらは私が片付けよう。	이 녀석들은 내가 처리할게.	I'll take care of these little guys.						0	
+38	收到喵。	收到喵。	んニャ。	알았다냥.	Understood, nya.						0	
+39	另外，分析员，你有没有听见远处的动静。	另外，分析員，你有沒有聽到遠方的動靜?	ところで分析員、遠くから何か音が聞こえなかった？	그런데 분석가, 멀리서 무슨 소리가 나는 것 같은데, 못 들었나?	By the way, Adjutant, did you hear something in the distance?						0	
+b-11											0	
+40	嗯？	嗯？	ん？	음?	Huh?						0	
+41	帕特拉西部海域-雅卢岛	帕特拉西部海域-雅盧島	パトラ西部海域-ガルーアイランド	파트라 서쪽 해역-야루섬	West Patra Sea - Yallu Island						0	
+42	上午八点四十二分	上午八點四十二分	午前8時42分	오전 8시 42분	08:42						0	
+43	正当我还忙着对付眼前失控的机器人时，	當我正忙著對付眼前的失控機器人時，	私が暴走ロボットに対処している時、	내가 눈앞에 있는 통제 불능 로봇을 상대하느라 정신없을 때,	While I was still busy handling the rogue robots...						0	
+44	天空被巨大的电流声击碎，	天空突然被強力的電流擊碎，	空が巨大な電流の音に砕かれ、	하늘이 거대한 전류 소리에 갈라지더니,	The sky split with the booming sound of an electric current.						0	
+45	数面电磁高墙拔地而起，将岛屿切割成了三个区域。	數道電磁波高牆拔地而起，將島嶼分割成了三個區域。	いくつかの電磁波の壁が突然現れ、島を3つのエリアに分断した。	여러 개의 전자 장벽이 솟아올라 섬을 3개 구역으로 갈라놓았다.	Several towering electromagnetic barriers rose up from the ground, dividing the island into three sections.						0	
+46	观光区，遗迹区，游客区……	觀光區、遺跡區、遊客區……	観光エリア、遺跡エリア、観光客エリア……	관광 구역, 유적지, 여행객 구역…	The Scenic Area, the Ruins Area, and the Resort Area...						0	
+47	三个区域间的物理与信息通路全部阻断，所有机器人也陷入失控状态。	三個區域之間的交通以及通訊全被阻隔，所有機器人也陷入狂暴狀態。	3つのエリアの物理的および情報通路は全て遮断され、ロボットも例外なく暴走状態に陥っている。	3개 구역 사이의 물리적 통로와 정보 통로 모두 차단되었고, 로봇도 모두 통제 불능 상태에 빠졌다.	Any physical and digital communication between the three areas was cut off. All of the robots also lost control.						0	
+48	躲藏在暗处，操控着这一切的幕后黑手，绝非等闲之辈。	操縱這一切的幕後黑手有這麼大的能耐，他絕非等閒之輩。	姿を隠したまま、それを操る黒幕は決して只者ではないだろう。	베일에 싸인 채 이 모든 것을 조종하는 배후 세력은, 결코 평범한 사람이 아닐 것이다.	Whoever was lurking in the shadows orchestrating all of this was far from ordinary.						0	
+49	然而，当初的我却还没有意识到这些。	然而當時的我還沒意識到這一點。	でも、当時の私はまだそれに気づいていなかった。	그러나 당시의 난 그걸 알아차리지 못했다.	However, I didn't realize it at the time.						0	
+50	只是下意识地觉得，码头处也许停靠着可以出海的船只。	只是下意識覺得，碼頭也許停靠著可以出海的船隻。	ただ、埠頭になら海に出られる船が停泊しているかもしれないと無意識に思っていた。	부두에 출항할 수 있는 배가 정박해 있을지도 모른다고 무의식적으로 생각할 뿐이었다.	I thought there might be some ships docked at the wharf that could go out on the ocean.						0	
+51	不行，就连游艇也被锁定了……	不行，就連遊艇也被鎖定了……	ダメです、遊覧船までロックされています……	이런, 요트도 잠겨있어요…	Even the yacht's access system is locked...						0	
+52	嗯，看样子岛上所有的设备暂时都没法用了。	嗯，看來島上所有設備都暫時無法使用了。	ええ、どの設備もしばらく使えそうにないわね。	흠, 섬 안의 모든 장치는 당분간 쓸 수 없을 것 같아.	Yeah, looks like we can't use any of the equipment on the island for the time being.						0	
+53	分析员还没有到吗？	分析員還沒到嗎?	分析員はまだですか？	분석가님은 아직인가요?	The Adjutant isn't here yet?						0	
+b-12											0	
+54	久等了。	久等了。	お待たせ。	오래 기다렸지?	Sorry to keep you waiting.						0	
+55	太慢了，也不知道让猫汐尔回个信，你知道本小姐有多担心你嘛。	慢死了!也不知道讓貓汐爾回個信，你知道本小姐有多擔心你嗎!	遅い！どれだけ心配したと思ってるの？	응, 오래 기다렸어. 캣 시에라한테 회신 좀 하라고 하지 그랬어? 내가 널 얼마나 걱정했는지 알기나 해?	You're way too slow! You didn't ask Mauxir to reply either. You know how worried I was about you?						0	
+56	你的担心是多余的，分析员被我保护的很好哦喵。	你的擔心是多餘的，分析員被我保護的很好喔喵。	余計な心配しなくても、分析員ならちゃんと守るニャ。	쓸데없는 걱정이다. 분석가는 내가 잘 보호하고 있었다냥.	There is no need to worry. The Adjutant is under my protection, nya.						0	
+57	哈？！	什麼?!	はあ！？	뭐?!	Huh!?						0	
+b-13											0	
+58	等等，现在不是开玩笑的时候猫汐尔。	等等，現在不是開玩笑的時候貓汐爾。	ちょっとマーシル、冗談言ってる場合じゃないだろう？	잠깐, 지금은 농담할 때가 아니야, 캣 시에라.	Stop girls, now isn't the time for bickering.						0	
+b-14											0	
+59	这里只有你们吗？辰星。	這裡只有你們嗎?辰星。	辰星、ここには君たちしかいないのか？	수성, 이곳에는 우리뿐인가요?	Are you the only ones here, Chenxing?						0	
+60	嗯，其他人都被锁在另外两个区了。	嗯，其他人都被鎖在另外兩個區域了。	ええ、ほかのみんなは残りの二つのエリアに閉じ込められています。	네, 다른 사람들은 모두 다른 두 구역에 갇혔어요.	Yeah, everyone else is trapped in the other two areas.						0	
+61	我们没有办法突破那面电磁墙。	我們沒有辦法突破那面電磁波牆。	私たちは電磁波の壁を突破するすべを持っていません。	그 전자 장벽을 뚫을 방법은 없을 거예요.	There's no way for us to break through the electromagnetic barrier.						0	
+62	弄出那么的大的动静，对面一定是早就准备好了的……	搞出這麼大的事情，對方一定是有備而來……	派手なことするのね……相手はきっと用意周到なはずよ。	그렇게 큰 움직임이 있었으니, 반대편은 이미 철저히 준비했을 거야…	Whoever's behind this must have planned everything in advance if they're making a huge move like this...						0	
+63	真是的，拉美西斯集团那帮人怎么那么大意啊。	真是的，拉美西斯集團那幫人怎麼這麼大意啊。	無頓着にも程があるわ。まったくラムセスグループの連中は……	하여튼, 람세스 그룹 사람들은 왜 그렇게 부주의한 건지.	Seriously! How can Ramses Group be so careless?						0	
+b-15											0	
+64	万一那个黑客是内鬼呢？	萬一那個駭客是間諜呢?	もしあのハッカーがスパイだったら？	만일 그 해커가 스파이라면?	What if the hacker is a mole?						0	
+65	回答错误~人家才不是什么拉美西斯集团的内鬼呢~	答錯了~人家才不是什麼拉美西斯集團的間諜呢~	ぶぶー、ラムセスグループのスパイなんてやるもんか～	틀렸어~ 난 람세스 그룹의 스파이가 아니야~	Incorrect~ I'm not a mole from Ramses Group~!						0	
+66	呜哇哇，什么人？！分析员你听到了吗？	哇啊啊!是誰?!分析員你有聽到嗎?!	え！？だっ誰！？分析員も聞こえた！？	으아아, 누구야?! 분석가, 너도 들었어?	Ahh!!! Wh—Who was that!? Adjutant, did you hear that?						0	
+67	总觉得是似曾相识的一幕……	這一幕感覺似曾相似……	前にもこんなことがあったような……	데자뷔 같은 장면이었다…	Why does this feel so familiar...						0	
+68	啊，是没什么收藏价值的谜之无人机，原来你会说话喵。	啊，是沒有收藏價值的謎樣無人機，原來你會說話喵。	ただのドローン、ニャ。だけど、会話できるなんてね。	앗, 쓸데없어 보이는 이상한 드론이 말을 할 줄 안다냥.	Ah, that mysterious drone with no collectible value. So you can talk, nya.						0	
+69	哎？猫汐尔认识它吗？	欸?貓汐爾認識它嗎?	え？マーシルの知り合い？	음? 캣 시에라, 저게 뭔지 알아?	Huh? You know that thing, Mauxir?						0	
+70	分析员，来者不善，请退到我们身后。	分析員，來者不善，請退到我們身後。	分析員、相手の意図を測りかねます。どうかお下がりを。	분석가님, 상대의 의도가 좋지 않은 것 같으니 뒤로 물러서세요.	Adjutant, it might not be friendly. Please get behind us.						0	
+71	呼呼呼~果然和传闻中的一样，你真是受女孩子欢迎啊~分——析——员~	呼呼呼~果然和傳聞中的一樣，你真是受女孩子歡迎啊~分——析——員~	フフフ～噂通りモテるネ～分——析——員～	후후후~ 역시 소문대로 여자들한테 인기가 많구나~ 분~ 석~ 가~	Ohoho~ Looks like you're pretty popular with the ladies, Adjutant~						0	
+b-16											0	
+72	你的目的是什么？	你有什麼目的？	目的はなんだ？	네가 원하는 게 뭐야?	What do you want?						0	
+73	你把那个维修部的部员怎么样了？	你對那個維修部的人員做了什麼?	あの修理部の職員に何をした？	그 정비부 직원을 어떻게 한 거야?	What did you do to the maintenance worker?						0	
+74	哎~还真是冷淡啊，人家明明也是女孩子哦，不先问些更有趣的问题吗？	唉~好冷淡喔，人家明明也是女孩子，不問一些更有趣的問題嗎?	え～冷たいね。女の子相手なら、面白い質問をするのが普通じゃない？	에이~ 너무 쌀쌀맞다, 나도 여자인데 말이야. 좀 더 재미있는 질문부터 해보는 게 어때?	Aw, don't be so cold. Can't you tell I'm a girl? Why don't you ask some more interesting questions first?						0	
+75	比如说人家的名字，人家的来历……	比如說人家的名字、人家的來歷……	名前とか、出身とか……	내 이름이라던가, 내 정체라던가…	Like my name, or where I come from...?						0	
+76	啊，还有人家的身材~分析员不感兴趣吗？	啊!還有人家的身材~分析員都不感興趣嗎?	あとはスリーサイズとか！興味ないの？分析員。	아, 그리고 내 몸매라던가~ 어때, 분석가? 관심 있어?	Oh! Or about how my body looks~ You don't wanna know, Adjutant?						0	
+b-17											0	
+77	我像是会对那种事情感兴趣的人吗？	我像是會對那種事情感興趣的人嗎?	あると思うか？	내가 그런 거에 관심 가질 것 같아?	Do I seem like someone who would care about that kind of thing?						0	
+78	别套近乎了。	別跟我裝熟。	馴れ馴れしくするな。	친한 척하지 마.	Stop trying to act friendly.						0	
+79	不老实交代的话，本小姐就一枪把你的无人机打烂！	不從實招來的話，本小姐就一槍打爛你的無人機!	白状しないとこのあたしがあんたのドローンを撃ち落として粉々にしてやるわよ！	솔직하게 말하지 않으면 네 드론을 박살 내버릴 거야!	Tell us what's going on, or I'll shoot your little drone to pieces!						0	
+80	另外，如果本部的同事长时间联系不上我们，他们也会对这里情况展开调查。	還有，如果本部的同事一直聯絡不到我們的話，他們也會針對這裡展開調查的。	それに。私たちと連絡が取れない状況が続けば、本部もこちらの状況を調査するでしょう。	게다가 동료가 장시간 연락 두절되는 경우, 본부에서 이곳의 상황을 조사할 거예요.	If our coworkers are unable to contact us for an extended period, they'll come here and investigate.						0	
+81	我们这边也有天才黑客喵。	我們這邊也有天才駭客喵。	こっちにも天才ハッカーがいるもんニャ。	우리 쪽에도 천재 해커가 있다냥.	We also have a hacking genius with us, nya.						0	
+82	……	……	……	…	...						0	
+83	哎呀~没想到分析员本人和海姆达尔部队居然这么无趣，真是害我白期待了。	哎呀~沒想到分析員本人跟海姆達爾部隊竟然沒有幽默感，害我白期待了。	あーあ。分析員やヘイムダル部隊って意外とつまらないのね。期待して損しちゃったー。	이런~ 분석가와 헤임달 부대가 이렇게 재미없을 줄은 몰랐네, 괜히 기대했잖아.	Geez~ I didn't expect the Adjutant and the Heimdall Force to be so boring. I guess I got all excited for nothing.						0	
+84	不过，既然大名鼎鼎的分析员都亲自拜托我了，那么就来聊聊你们感兴趣的吧~	不過，既然大名鼎鼎的分析員親自拜託我了，那就來聊聊你們感興趣的吧~	でもぉ、名高い分析員が個人的に質問そてくれたし、あなたが興味があることについて話しましょう♪	그래도 그 유명한 분석가의 부탁이니, 질문에 대답해 줄게~	But since you asked me personally, let's talk about what you want to know, famous Adjutant~						0	
+85	其实，我只是想和海姆达尔部队，或者说分析员玩一场“寻宝游戏”。	其實我只是想和海姆達爾部隊，應該說想和分析員玩一場「尋寶遊戲」。	実はね、私はただあなたたちと「宝探しゲーム」をしたいだけなの。	난 그냥 헤임달 부대나 분석가와 함께 '보물찾기' 놀이를 하고 싶은 것뿐이야.	Actually, I just wanted to do a "scavenger hunt" with you and the Heimdall Force.						0	
+86	寻宝游戏？你是想让我们找什么东西吗？	尋寶遊戲?你是想讓我們找什麼東西嗎?	宝探しゲーム？……何か探してるものがあるってこと？	보물찾기? 우리가 뭔가를 찾아야 하는 거야?	A scavenger hunt? You want us to find something?						0	
+87	那是一个被拉美西斯集团以及贵司联手隐瞒起来的真相……	那是一個被拉美西斯集團以及貴公司聯手隱瞞的真相……	それはラムセスグループと御社サマサマが共同で隠蔽していた真実……	그건 바로 람세스 그룹과 너희 회사가 손을 잡고 숨긴 진실이야…	It's the truth that was concealed by both your own company and Ramses Group...						0	
+88	大约距今两千年前，一群奴隶从今天的帕特拉地区西海岸出海。	距今約兩千年前，一群奴隸從現今的帕特拉地區的西海岸出海。	むかーしむかし、それも今から約2千年前、奴隷たちが今のパトラ地域の西海岸から海に出て、	지금으로부터 약 2,000년 전, 노예들이 지금의 파트라 지역 서쪽 해안에서 바다로 나갔어.	Around 2,000 years ago, a group of slaves sailed out from what is now the west coast of the Patra region.						0	
+89	在跨越了无数风暴与巨浪之后，他们最终踏上了如今我们脚下的这片土地。	克服了無數暴風與巨浪之後，他們艱難地踏上了我們腳下所踩的這片土地。	幾多の嵐と大波を乗り越え、やがてこの地にたどり着きました。	수많은 폭풍과 거센 파도를 뚫고, 결국 지금 우리가 서 있는 이 땅을 밟았지.	After facing countless storms and turbulent waves, they finally set foot on the land we're standing on today.						0	
+90	由此，自称“香蒲族”的奴隶们开始在这座与世隔绝的小岛上建造起只属于他们的乐土。	從此，自稱「香蒲族」的奴隸們開始在這座與世隔絕的小島上建造只屬於他們的樂土。	「アヤメ族」と名乗る奴隷たちはこの世から隔絶された島に彼らだけの楽土を建て始めました。	그렇게 자칭 '부들족'이라는 노예들이 세상과 단절된 이 작은 섬에 자신들의 터전을 만들기 시작했어.	With that, the slaves who called themselves the "Typha" began to construct their own paradise on this island, isolated from the rest of the world.						0	
+91	但大概在一千三百年前，这个文明却突然开始由盛转衰，而所有的香蒲人也在某日突然“蒸发”。	然而在大約一千三百年前，這個文明卻突然由盛轉衰，所有的香蒲人在某天突然「蒸發」。	ところが約1300年前、この文明は突如として衰退へと向かい始め、アヤメ族は突然全て「蒸発」……	그런데 약 1,300년 전쯤, 이 문명은 갑자기 쇠퇴하기 시작했고, 부들족도 어느 날 갑자기 '증발'해 버렸어.	But around 1,300 years ago, the prosperity of their civilization suddenly took a turn for the worse. One day, it seems that the Typha people simply vanished.						0	
+92	蒸发？	蒸發?	蒸発？	증발했다고요?	Vanished?						0	
+93	嗯，没有留下任何痕迹与遗骸，就像这样，“嘭”的一声全部消失了。	嗯，沒有留下任何痕跡與遺骸，就像這樣「砰」地一聲全部消失了。	ええ、何の痕跡も遺骨も残さず、「ポン」って跡形もなく消えてしまった。	그래, 어떤 흔적이나 유해도 남기지 않고, 그냥 '펑'하고 모두 사라져 버렸어.	Yes. No traces of them or remains were left behind. It was as if everyone simply disappeared with a "bang."						0	
+94	目前所有的文献都没有明说他们是如何消失的，这不是很奇怪吗？	目前所有的文獻都沒有說到他們是如何消失的，這不是很奇怪嗎?	どんな文献にも彼らの消失について記述がないなんて、変だと思わない？	현재의 어떤 문헌에도 그들이 어떻게 사라졌는지 나와 있지 않아, 참 이상하지 않아?	Isn't it odd that none of the current literature details how they disappeared?						0	
+95	并不是这样的，在卫城学院中曾经流传过一个说法。	不是這樣的，在衛城學院中曾流傳著一個說法。	違うよ。アクロポリス学院にはとある噂がある。	그렇지 않다, 아크로폴리스 아카데미에 이런 가설이 떠돌았었다.	That's not the case at all. There was a theory going around the Academia Acropolis.						0	
+96	香蒲人消失的时间点，刚好和岛屿北面祭坛建设完成的时间吻合。	香蒲人消失的時間點，剛好跟島嶼北面祭壇完工的時間點吻合。	アヤメ人が消えたのは、ちょうど島の北側の祭壇が完成した時であると。	부들족이 사라진 시기는, 섬 북쪽 제단의 건설이 완성된 시기와 맞아떨어진다.	It claimed that the Typha's disappearance coincided with the completion of the altar on the north side of the island.						0	
+97	……嘿嘿嘿~	……嘿嘿嘿~	……ふふふ～	헤헤헤~	...Hehehe~						0	
+98	看来你们当中也有了解这段历史的人在呢~	看來你們當中也有知道這段歷史的人呢~	どうやらお仲間の中にも、その歴史に詳しい人がいるようね～	그 역사에 대해 아는 사람이 너희 중에 있는 모양이구나~	Looks like one of you knows the history of this place~						0	
+99	没错，香蒲人坚信还存在另一个“精神世界”，为了能够前往那个世界，他们建造了如今位于岛屿北面的祭坛。	沒錯，香蒲人堅信有「精神世界」的存在，他們為了前往那個世界所建造的祭壇就位於這座島嶼的北面。	そう、アヤメ族は「精神世界」の存在を信じるの。その世界に行くために、彼らは島の北にある祭壇を建てたんだ。	맞아, 부들족은 또 다른 '정신세계'가 존재한다고 믿었고, 그 세계에 가기 위해 현재 섬 북쪽에 있는 제단을 건설했어.	Yes, the Typha believed in the existence of a "spirit world." They built the altar on what is now the north side of the island to travel to that world.						0	
+100	而在祭坛建好后，他们便动身前往了“另一个世界”，没有留下一丝痕迹。	而在祭壇建好後，他們變動身前往了「另一個世界」，沒有留下絲毫痕跡。	そして祭壇を完成させた直後に「異世界」へ旅立って、なんの痕跡も残さなかった。	그리고 제단이 완성되자마자, 그들은 흔적도 없이 '또 다른 세계'로 떠났지.	After the altar was built, they set out for the "other world" and didn't leave a single trace behind.						0	
+101	前往另一个世界……那种事情真的能做到吗？	前往另一個世界……真的能做到那種事情嗎?	異世界……？そんなことできるの？	또 다른 세계로 떠났다니… 그런 일이 정말 가능한 거야?	Is going to another world... actually possible?						0	
+102	只是一个过去流行的假说而已，不过因为太过于不切实际，所以没多久就被人淡忘了。	只是曾經流行的假說而已，不過由於太不切實際，所以沒過多久就被眾人淡忘了。	かつて流行った仮説、ニャ。非現実的すぎてすぐにみんな忘れた。	과거에 유행했던 가설일 뿐이다. 너무 현실성이 없어서 머지 않아 사람들에게 잊혀졌다.	But it was only a hypothesis that gained some traction in the past. It was soon forgotten due to being too unrealistic.						0	
+b-18											0	
+103	瓦尔哈拉……	瓦爾哈拉……	ヴァルハラ……	발할라…	Valhalla...						0	
+104	分析员，你说什么？	分析員，你說什麼?	分析員、今なんと？	분석가님, 뭐라고요?	What did you say, Adjutant?						0	
+b-19											0	
+105	没什么只是下意识联想到瓦尔哈拉了。	沒什麼，只是下意識地聯想到了瓦爾哈拉。	いや、ただなんとなくヴァルハラを思い出したんだ。	아무것도 아니에요, 그냥 무의식중에 발할라가 연상되어서요.	It's nothing. I just couldn't help thinking of Valhalla.						0	
+106	好啦~讨论就此打住~	好啦~討論到此為止~	はいはい～この話はここまで～	좋아~ 토론은 여기까지~	Okay~ That's enough for the history lesson~						0	
+107	既然你们当中有非常了解这段历史的人，那么我就不展开介绍了。	既然你們當中有知道這段歷史的人，那我就不多介紹了。	あなたたちの中にその歴史に詳しい人がいるなら、私も説明の手間が省けたね。	너희 중에 이 역사에 대해 잘 아는 사람이 있으니, 소개는 그만둘게.	Since at least one of you is well aware of the island's past, I won't bore you with any more details.						0	
+108	接下来就来说一下我们的寻宝游戏的规则吧~	接下來說明一下我們尋寶遊戲的規則吧~	それじゃ、これから宝探しのルールを教えるね～	이제 보물찾기 규칙에 대해 설명할게~	Let's talk about the rules of our scavenger hunt~						0	
+109	喂，等等，我们还没答应要玩那个什么寻宝游戏吧？	喂!等等!我們還沒答應要玩那什麼尋寶遊戲吧?	待ちなさいよ！あんたの探し物ゲームに付き合うなんて誰も言ってないわ！	이봐, 잠깐만, 우린 보물찾기 따위는 안 할 건데?	Hey, wait a sec — we still haven't agreed to that, have we?						0	
+110	很遗憾，你们可是有不得不陪我玩的理由哦。	很遺憾，你們沒有選擇的權利喔。	残念ながら、参加するしかない理由がそっちにはあるらしいよ。	유감이지만, 너희가 나와 놀아줄 수밖에 없는 이유가 있어.	How unfortunate. In that case, I'll make it impossible to refuse~						0	
+111	你们也不想让无辜的人丧命吧？分——析——员？	你們也不想害無辜的人喪命吧?分——析——員?	犠牲者を出したくないんでしょ？分——析——員？	너희도 무고한 사람이 목숨을 잃기를 바라지 않겠지? 분~ 석~ 가?	You guys wouldn't want an innocent person to die, right? Adjutant~?						0	
+112	这个女人是？	這個女人是?	この女性は？	이 사람은?	Who's that girl?						0	
+113	我们认识她吗？	我們認識她嗎?	知り合い？	누구지?	Do we know her?						0	
+b-20											0	
+114	她是拉美西斯服务器维修部的人。	她是拉美西斯伺服器維修部的人。	ラムセスのサーバー修理部の職員なんだ。	람세스 서버 정비부 직원이야.	She works in the Ramses server maintenance department.						0	
+115	哎？！节目组那帮人撤走后，这个岛上除了我们居然还有活人吗？	欸?!節目組的人離開後，島上還有除了我們之外的人嗎?	えっ！？番組の連中が退散してからも、この島にあたしたち以外の人がいたわけ？	뭐?! 스태프들은 다 철수했는데, 이 섬에 우리 말고 다른 사람이 또 있단 말이야?	Huh!? But the show's production crew already left. There are still people on this island other than us?						0	
+116	听说是例行进行服务器检查时被抓住的，用你们人类的话来说，就是“倒霉孩子”喵。	聽說是在例行檢查伺服器時被抓住的，用你們人類的話來說，就是「倒楣的孩子」喵。	サーバーの定期点検中に捕まったそうで、あなたたち人間の言葉で言えば「運が尽きた」ニャ。	정기 서버 점검을 진행하다가 붙잡혔다고 한다, 너희 인간 말로 하자면 '재수'가 없었던 거다냥.	Apparently, they caught her while she was doing a routine server check. I believe you humans would call her a "poor kid."						0	
+117	这样就不好办了……	這樣就很棘手了……	厄介ですね……	이거 곤란하군요…	We don't have much of a choice now...						0	
+b-21											0	
+118	先说说规则吧。	先說說規則吧。	……ルールを説明してくれ。	규칙부터 말해 봐.	Let's hear the rules.						0	
+119	果然还是分析员明事理呢~听好了哦，这场游戏的规则很简单。	果然還是分析員明理呢~這場遊戲的規則很簡單，聽好了喔。	やっぱり分析員は物分かりがいいね～、よく聞いて、ルールはとても簡単だよ。	역시 분석가와는 말이 통하네~ 잘 들어, 게임의 규칙은 간단해.	I knew you'd make the smart choice, Adjutant~ Alright, listen up. The rules are very simple.						0	
+120	香蒲人在这个岛上留下了很多文字信息，其中有些呢，正是和“香蒲人突然消失之谜”有关哦。	香蒲人在這座島上留下了許多文字資訊，其中有些就和「香蒲人蒸發之謎」有關喔。	アヤメ族がこの島にたくさんの文字メッセージを残していて、その一部はまさに「アヤメ人がいなくなった謎」に関わるものなの。	부들족은 이 섬에 여러 문자 정보를 남겼어. 그중 일부는 '부들족이 갑자기 사라진 비밀'과 관련이 있어.	The Typha left many carvings of writing around this island. Some of them are related to the mystery of the Typha's own disappearance.						0	
+121	我会将这些信息的坐标通过终端发送给你们~如果你们能找齐，并破译出古文的话，就能获得“奖励”。	我會將這些資訊的座標發到你們的終端~如果你們能集齊並破譯古文的話，就能獲得「獎勵」。	一連のメッセージの座標を送信してあげるね～、もしそれを全部見つけて古代語を解読できれば、私が「報酬」をあげるよ。	내가 통신 단말기로 그 정보들의 좌표를 보내줄 거야~ 정보들을 찾아서 고문을 해독하면 '보상'을 받을 수 있어.	I'll send the coordinates to your terminals~ If you find all of them and decipher the ancient text, you'll earn yourselves a "reward."						0	
+b-22											0	
+122	这么说你其实已经知道所谓的“真相”了吧。	其實你已經知道所謂的「真相」了吧。	つまり君は「真実」を知っているんだな？	그럼 넌 그 '진실'에 대해 이미 잘 알고 있는 모양이구나.	But you already know the so-called "truth," don't you?						0	
+123	看来你对这座岛屿很了解。	看來你很瞭解這座島嶼。	この島に詳しいらしいな。	이 섬에 대해서도 잘 알고 있고 말이야.	It looks like you know this island really well.						0	
+124	哎呀呀，一不小心就暴露了呢~下次和分析员说话可得小心些了。	哎呀呀~一不小心就露餡了呢~下次和分析員說話可要更謹慎呢。	あらら、もうバレたのね～、分析員の前では用心しないと。	어머나, 잘못하면 들통나겠는걸~ 다음부터는 분석가와 이야기할 때 조심해야겠는걸.	Oh my, you saw right through me~ I have to be more careful next time I talk to you, Adjutant.						0	
+125	嘿嘿嘿，总之，如果想知道更多有关人家的信息，就先完成第一轮寻宝游戏吧。	嘿嘿嘿~總之，如果想要知道更多人家的資訊，就先完成第一輪的尋寶遊戲吧。	うふふ。とにかく、私の情報が欲しければ最初の宝探しゲームをクリアしてね。	헤헤헤, 아무튼 나에 대해 더 많은 정보를 얻고 싶다면, 첫 번째 보물찾기부터 끝내도록 해.	Hehehe~ If you want to know more about me, just finish the first round of the scavenger hunt.						0	
+126	那么，一会再见。	那麼等下見囉~	それじゃ、また後でね〜♪	그럼, 또 보자.	Well then, see you later.						0	
+127	竟然用人命要挟我们，真是个卑鄙的小人……	竟然用人質威脅我們，這個卑鄙的小人……	人質を取るなんて、なんて卑劣な……	사람 목숨을 가지고 우릴 협박하다니, 정말 비겁해…	Threatening us with someone's life... How despicable...						0	
+128	那就不管那个部员好了，我倒是有办法绕过屏蔽系统直接联系到芙提雅。	那就不管那個部員好了，我倒是有辦法繞過通訊屏蔽直接連絡到芙提雅。	早速悪いけどその職員のことはとりあえず置いといて。妨害突破してフリティアに直接連絡する方法がある。	그럼 그 직원은 신경 쓰지 말자, 나에게 차단 시스템을 우회해 프티야와 직접 연락할 방법이 있다.	We don't have to go along with the hacker's game. I have a way to bypass the barrier and directly contact Fritia.						0	
+129	哎？可以这么做吗？	欸?可以這樣做嗎?	え……大丈夫なんですか？	뭐? 그렇게 할 수 있어?	Huh? Can we do that?						0	
+130	当然可以，我至少也算半个技术人员喵，不过倒是有可能被那个黑客发现。	當然可以，我至少也算半個技術人員，但有可能會被那個駭客發現。	問題ない、こう見えても技術者の端くれニャ。例のハッカーにバレるかもしれないけど。	물론이지, 나도 나름 엔지니어다냥, 하지만 그 해커에게 들킬 가능성도 있다.	Of course we can. I'm something of a technician myself, nya. But there's a chance the hacker might find out.						0	
+b-23											0	
+131	不能将无辜的人卷进来。	不能牽連無辜的人。	無実の人を巻き込んではいけないから。	무고한 사람을 끌어들일 수는 없어.	We can't let an innocent girl get dragged into this.						0	
+b-27											0	
+132	我们先按照她的意思去收集信息好了。	我們先聽從她的規則去收集資訊好了。	まずは彼女の言う通り、情報を集めてみよう。	일단 그녀가 시키는 대로 정보를 수집하자.	Let's just go along with what the hacker wants for now and collect information.						0	
+134	呜……真是不爽，不过既然分析员都这么说了，那就这样吧。	嗚……真是不爽，但既然分析員都這麼說了，那就這樣做吧。	フン……分析員がそういうなら……	흐엉… 짜증 나. 어쨌든 분석가의 의견대로 해보자.	Ugh... I have a bad feeling about this. But if you say so, Adjutant, I'm with you.						0	
+135	嗯，路上可以再想想有没有什么其他办法将这里的情况传出去。	嗯，路上可以再想想是否有其他辦法能跟外部聯絡。	ええ、こちらの状況を知らせる方法について途中で考えましょう。	네, 이곳의 상황을 알릴 방법은 일단 가면서 계속 생각해 봐요.	Alright. In the meantime, we can think of other ways to let someone know what's going on here.						0	
+b-24											0	
+136	那么就先行动吧。	那麼就先行動吧。	じゃあ、行動しようか。	그럼 일단 움직이자.	Then let's get moving.						0	
+b-26											0	
+137	对了，猫汐尔。	對了貓汐爾。	そうだ、マーシル。	참, 캣 시에라.	Oh, Mauxir.						0	
+139	喵？	喵？	ニャ？	냐옹?	Nya?						0	
+b-25											0	
+140	“破译古文”的工作，可以交给你吗？	「破譯古文」的工作可以拜託你嗎?	「古代語」の解読を任せられる？	'고문 해독' 작업은 너에게 맡겨도 돼?	Can you handle deciphering the ancient text?						0	
+141	没问题喵。	沒問題喵。	問題ないニャ。	문제없다냥.	No problem, nya.						0	

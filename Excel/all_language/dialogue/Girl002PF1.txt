@@ -1,0 +1,79 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	哗啦——	嘩啦——	バシャッ――	와르르…	*SPLASH*						0	
+2	女武神——不，现在是奥丁的她从冰冷的水中猛然站起，用睥睨天下的眼神打量着周围。	女武神——不，現在是奧丁的她從冰冷的水中猛然站起，用睥睨天下的眼神打量著周圍。	ヴァルキリー――いや、今はオーディンである彼女は冷たい水の中から立ち上がり、天下を睥睨する目つきで周りを観察した。	발키리… 아니, 지금 그녀는 오딘이다. 얼음처럼 찬 물 속에서 일어나 매섭게 주변을 훑어본다.	The Battle Idol... No, it was Odin who stood up in the icy water, looking around with a contemptuous gaze.						0	
+3	身体无异常，报告结束。	身體無異常，報告結束。	身体に異常なし、報告は以上。	신체는 문제없어. 보고도 끝났고.	I don't seem to be suffering any more physical symptoms. Nothing to report, really.						0	
+4	记得按时按剂量服药哦。	記得按時按劑量服藥哦。	指示通りに薬を飲んでくださいね。	시간 맞춰서 약 복용하는 거 잊지 마시고요.	With the medication, remember to stick to the schedule.						0	
+5	我知道。	我知道。	分かってる。	응.	Of course.						0	
+6	对了，今天在复健部大厅会举行新年活动，有很多好吃的，要参加吗？	對了，今天在復健部大廳會舉行新年活動，有很多好吃的，你要參加嗎？	ところで、今日リハビリテーション部のホールで新年イベントが行われます。美味しいものがたくさん出されますから、参加してみませんか？	참… 금일 재건부 로비에서 신년 행사를 한다고 하던데… 참가하시겠어요?	Oh, and... there's going to be a New Year's party later, in the main hall of the Rehab Center. There'll be food, the Rehab Center has much better food than you would think... Maybe I'll see you there?						0	
+7	不用。	不用。	遠慮する。	아니.	I don't think so.						0	
+8	这样啊……那你早点休息。	這樣啊……那你早點休息。	そうですか……ではゆっくり休んでください。	알겠습니다… 그럼 일찍 쉬세요.	Alright... get some rest then.						0	
+9	还有，你这个房间总是把空调开得很低，注意别感冒哦。	還有，你這個房間總是把冷氣開得很低，注意別感冒哦。	それから、この部屋のエアコンの温度はいつも低く設定してあるので、風邪に気をつけてください。	방에 에어컨 온도가 낮으니, 감기 조심하시구요…	Before I go... you always have the air conditioning set very low in here... don't make yourself sick.						0	
+10	终于安静了。	終於安靜了。	やっと静かになった。	이제서야 조용해졌군…	Peace. Finally.						0	
+11	模拟沙盘推演，进行到哪一步了？	模擬沙盤推演，進行到哪一步了？	サンドボックスのシミュレーションはどこまで進めていたか……	모의로 하던 모래판 시연은 어디까지 진행됐는지 한번 볼까?	I wonder where the battlesim is up to...						0	
+12	………………	………………	………………	……	..................						0	
+13	接下来，红方步兵前出至高地下方低洼处隐蔽，躲避蓝方火力准备。	接下來，紅方步兵前出至高地下方低窪處隱蔽，躲避藍方火力準備。	次は、青軍の攻撃を避けるために、赤軍の歩兵が高地の下にある窪みに移動して隠れる。	이어서 레드팀 보병들은 블루팀 화력을 피하기위해 고지 아래쪽 저지대로 전진…	Red forces took cover on the low ground, mitigating the advantage the blue forces had claimed when they took control of the heights.						0	
+14	……蓝方的动作是动用装甲兵正面推进。	……藍方的動作是動用裝甲兵正面推進。	……青軍は装甲兵を動かして正面から進む。	블루팀은 기갑부대 병사를 동원해서 앞으로 전진…	... Blue used its turn to advance armor on the red position...						0	
+15	不论侦察是否被遮蔽，都很合理。那么……	不論偵察是否被遮蔽，都很合理。那麼……	赤軍の偵察兵が発見されていてもいなくても、青軍は移動するはず。なら……	정찰이 은폐되든 아니든 모든게 맞아떨어져. 그렇다면…	That makes sense, whether or not Red had spotters hidden along the route. Then...						0	
+16	红方步兵在蓝方装甲兵推进至100米时，启动携带的爆破无人机，全部。	紅方步兵在藍方裝甲兵推進至100公尺時，啟動攜帶的爆破無人機，全部。	青軍の装甲兵が100メートル進んだ時、赤軍の歩兵が自爆ドローンを一斉に起動した。	블루팀 기갑부대 병사가 100m 정도 밀고 나올 때, 레드팀은 폭파용 드론을 작동시키고,	Blue armor comes within 100 meters of the red position, and red unleashes a barrage of single-use, kamikaze micro-drones.						0	
+17	这一轮推演的结果是……	這一輪推演的結果是……	今回のシミュレーションの結果は……	이렇게 하면 이번 모래판 시연의 결과가…	Simulation result...						0	
+18	蓝方战损超过设定值，撤退，红方损失五成兵力。红方防御成功。	藍方戰損超過設定值，撤退，紅方損失五成兵力。紅方防禦成功。	青軍は損傷が設定値を超え、撤退した。赤軍は5割の兵力を損失。赤軍防御成功。	블루팀은 설정했던 목표치를 초과해 손실을 입게 되고, 레드팀은 50%의 병력만 손실을 입어 성공적으로 방어를 하게 돼.	Blue losses exceeded acceptability threshold, blue retreated. Red preserved 50% of its forces, a successful defense by red.						0	
+19	还算……不错。	還算……不錯。	うん……悪くない。	나쁘지 않은데…	That's... that's not bad.						0	
+20	呼啊！呼啊！	呼啊！呼啊！	はぁ！はぁ！	와아아! 와아아!	Hooah! Hooah!						0	
+21	吼！！！！！	吼！！！！！	うおお！！！	와아아아아아아!!!!!	Raawrrrrrr!!!!!						0	
+22	什么人！？	什麼人！？	何者だ！？	누구지!?	Who's yelling!?						0	
+23	呼啊！呼啊！呼啊！！	呼啊！呼啊！呼啊！！	はぁ！はぁ！はぁ！	와아아! 와아아! 와아아!	Hooah! Hooah! Hooah!						0	
+24	……声音是从沙盘上发出的。	……聲音是從沙盤上發出的。	……声はサンドボックスから出ている。	모래판에서 소리가 들려와…	...Are those voices coming from the simulator?						0	
+25	程序错误？这些兵人在……跳舞？	程式錯誤？這些兵人在……跳舞？	エラー？この兵士たちは……踊ってる？	프로그램 에러인가? 병사들이…춤을?	This a glitch? Are these troops... dancing?						0	
+26	吼！战争！吼！征服！	吼！戰爭！吼！征服！	うおお！戦争だ！うおお！征服だ！	와아아! 전쟁이다!!! 와아아! 정복하라!!!	Raarr! Victory! Raaaarrr! VICTORY!						0	
+27	我们将生命献给你，奥丁！	我們將生命獻給你，奧丁！	オーディンに、命を捧げます！	오딘! 당신을 위해 기꺼이 희생하겠습니다!	Odin! Spear Master! We offer up our blood to you!						0	
+28	！？	！？	！？	!?	!?						0	
+29	发生……什么了？	發生……什麼了？	何が……あった？	무슨 일이 일어나고 있는 거지…?	What... what just happened?						0	
+30	哈啊……冷……	哈啊……冷……	はぁ……寒い……	하아… 추워…	Huh... it's cold...						0	
+30.1											0	
+30.2											0	
+30.3											0	
+b-7											0	
+b-7-1	是治疗液起效了吧？	是治療液產生效果了吧？	治療液が効いたのかな？	치료약이 효과가 있었나 보네?	You think the treatment baths are having an effect?						0	
+2.96	这盆水是特殊调配的抑制剂，以前我总认为和普通的洗澡水没区别。	這盆水是特殊調配的抑制劑，以前我總認為和普通的洗澡水沒區別。	この水は特別に調合した抑制剤だ。ただの入浴とあまり変わらないと思ったけど。	통에 있었던 물이 특수 제작된 억제제던데… 난 샤워하는 물하고 별반 다를 거 없다고 생각했었지.	To be honest, I used to think I was just being given a bath, it took me a while to realize they were infusing the water with inhibitors.						0	
+2.97	会不会是……因为你？	會不會是……因為你？	お前の……おかげかもな……	혹시 분석가가 그런 거야?	Today was different... was that something you did?						0	
+2.98	我还没来得及做出惊讶的表情，就意识到今天的确是我加入海姆达尔之后，第一次独自为星期三进行常规诊疗。	我還沒來得及做出驚訝的表情，就意識到今天的確是我加入海姆達爾之後，第一次獨自為星期三進行常規診療。	驚きの表情をする前に気づいた。確かに今日は私がヘイムダルに入って以来、初めて一人でウェンズデーの診療をした。	갑작스러운 질문에 당황스러웠지만, 오늘은 내가 헤임달에 들어온 후 웬스데이를 처음으로 진료한다는 사실을 깨달았다.	I'd straight up forgotten that this was actually the first time I was running this procedure on my own. I suppressed an awkward expression before Lyfe noticed it.						0	
+2.99	要不要……听我讲讲过去的事情？	要不要……聽我講講過去的事情？	昔話……聞いてくれないか？	분석가, 내 이야기를 좀 들어볼래…?	If I... if I talk about the past a little bit, would that be alright with you?						0	
+2.991	我还是头一次看到她这么吞吞吐吐的模样。	我還是頭一次看到她這麼吞吞吐吐的模樣。	リフのこんな言いよどむ姿。今までに見たことはなかった。	평소 모습과는 달리 사뭇 망설여하는 모습이었다.	These words didn't come easily to her. I'd never seen her quite this hesitant before.						0	
+2.992	就像是久经折磨的病人，突然听闻一个或许有用的偏方。	就像是久經折磨的病人，突然聽聞一個或許有用的偏方。	まるで病苦に苛まれた病人が、突然効き目があるかもしれない療法を聞いたようだった。	마치 오랫동안 투병했던 환자가 어느 날 갑자기 도움이 될 치료법에 대해 들었을 때와 같았다.	She seemed... she seemed... like a terminal cancer patient, hearing word of a potential cure... torn between a need to ward off disappointment and her heart's capacity for hope...						0	
+2.993	我怎么可能拒绝她的？	我怎麼可能拒絕她呢？	断るわけがないだろう？	거절할 이유가 없었다.	Wasn't like I was going to refuse her.						0	
+2.994	谢谢。	謝謝。	ありがとう。	고마워.	Thank you.						0	
+2.995	我想想，要从哪里说起……	我想想，要從哪裡說起……	そうだな、どこから話そうか……	어디서부터 얘기할지 생각 좀 해볼게…	Let me think about where to start...						0	
+2.996	2057年12月30日	2057年12月30日	2057年12月30日	때는 2057년 12월 30일	December 30th, 2057						0	
+2.997	20:00	20:00	20:00	20:00	20:00:00						0	
+b-5											0	
+b-5-1	神格神经在继续生长，但速度和以往记录相比差异不大。	神格神經在繼續生長，但速度和以往記錄相比差異不大。	神格神経は成長しているが、速度は以前の記録と比べるとさほど差がない。	만트라 신경은 계속해서 자라고 있어. 속도는 예전처럼 큰 변화는 없어 보이고.	Your results show an increase in theotropic neural tissue mass compared to when you were tested last. The rate of growth seems to be holding steady though.						0	
+b-6											0	
+b-6-1	你自己感觉如何？	你自己感覺如何？	体調はどう？	네가 느끼기엔 어때?	How have you been feeling?						0	
+2.9	没什么特别的，该疼的地方还是会疼。	沒什麼特別的，該痛的地方還是會痛。	別に。痛むけど、いつものことだ。	특별한 건 없는 거 같아. 아픈 곳은 여전히 아프고.	Same as before, nothing new. It hurts in the places it usually hurts.						0	
+2.91	这个病症并非局限于精神层面，而是具有生理性器质性变化。	這個病症並非局限於精神層面，而是具有生理器官質性變化。	この病気は精神面だけでなく、生理的な病変がある。	질병은 정신적인 것뿐만 아니라, 생리적 기질의 변화도 수반했다.	Manifestations consistently present with a specific physical abnormality, in addition to their psychiatric issues.						0	
+2.92	天启者的大脑皮层浅表生长出了新的脑神经结构。	天啟者的大腦皮層淺表生長出了新的腦神經結構。	覚醒者の大脳皮質に新しい脳神経が生成される。	계시자들의 뇌피 표면에는 새로운 신경 구조가 만들어지는데,	Hypertrophy of the cerebral cortex, neural tissue growth at a rate far beyond anything you would see in a normal healthy adult.						0	
+2.93	其发育程度与神格的发展进程紧密相关，一部分研究者认为这就是神格的生理基础，直接命名为了<orange>“神格神经”</>。	其發育程度與神格的發展過程緊密相關，一部分研究者認為這就是神格的生理基礎，直接將此命名為<orange>“神格神經”</>。	その成長具合は神格の発達過程と深く関係している。一部の研究者はそれを神格の生理的な基盤と考え、<orange>「神格神経」</>と名付けた。	성장하는 과정이 만트라하고 연계되어 있어 연구진들은 이를 <orange>'만트라 신경'</>이라고 일컬었다.	There's clear evidence linking the onset of this tissue growth to the onset of the other symptoms Manifestations present with. One theory that attempts to explain the manifestation process posits that the additional neural tissues are in fact foundational to all of the Manifestations' other symptoms. Because the Manifestations believe themselves to be gods, some wise guy somewhere suggested calling these additional neural tissues <orange>Theotropic Nerves</>. The name stuck.						0	
+2.94	但也有持不同观点的研究者存在，理由我就不太清楚了。	但也有持不同觀點的研究者存在，理由我就不太清楚了。	違う観点を持つ研究者もいるが、理由はよく分からない。	연계성이 없다고 보는 연구진도 있지만, 정확한 이유는 아직까지 알 수 없다.	It's a controversial subject. We're a long way from a scientific consensus on how the manifestation process works. My own opinion... I don't even know what I think myself...						0	
+2.95	但是……这次好像好些了。	但是……這次好像好點了。	でも……今回はマシな方。	근데… 이번에는 조금 더 괜찮아진 것 같기도 해.	... maybe this time wasn't quite so bad.						0	
+b-4											0	
+b-4-1	奥丁走了吗？	奧丁走了嗎？	オーディンは行ったか？	오딘은 갔어?	Odin's gone?						0	
+2.4	嗯，我的神格暂时沉默了。	嗯，我的神格暫時沉默了。	ああ、しばらく沈黙した。	응. 만트라는 안정됐어.	He seems to be dormant, I'm not actively manifesting anymore.						0	
+2.5	这是天启者们的共同病症。伴随着力量的觉醒，出现了时常认为自己是某位神明的状况。	這是天啟者們的共同病症。伴隨著力量的覺醒，出現了時常認為自己是某位神明的狀況。	これは覚醒者たち共通の症状だ。力の覚醒に伴い、まるで頭の中にもう一つの人格があるかのような錯覚が起こる。	계시자들은 각성할 때, 본인이 어떤 신이라도 된 것처럼 생각할 때가 있다.	All of the Manifestations present symptoms like these. They develop strange powers beyond anything that a normal human could ever be capable of, and at the same time they begin to speak, periodically, as if they believe themselves to be gods. Specific gods, each Manifestation believes themself to be a specific pre-existing god from one or another human culture.						0	
+2.6	持续时间不定，对星期三来说，一般是与启动化身系统的时长成正比。	持續時間不定，對星期三來說，通常是與啟動化身系統的時間成正比。	持続時間は不定。ウェンズデーの場合、いつもはアバターシステムの作動時間と正比例する。	규칙적인 패턴은 없지만 웬스데이의 경우 일반적인 아바타 시스템과 비례했다.	The Manifestations only speak this way from time to time. There's no reliable way to predict how long each episode will last. With Lyfe, there is some evidence of a link between the amount of time she spends using her Apotheosis System and how long her episodes last.						0	
+2.7	很像是脑子里多了一个人格，因此被类比着称为<orange>“神格”</>。	很像是腦子裡多了一個人格，因此被類比著稱為<orange>“神格”</>。	もう一つの人格がなんらかの神であるように錯覚するという……よって<orange>「神格」</>と呼ばれている。	마치 하나의 인격이 더 생긴 것 같아 <orange>'만트라'</>로 불리기도 한다.	Witnessing a Manifestation go through one of their episodes is an experience that's difficult to describe in objective terms. The vast majority of onlookers come away convinced they were in the presence of an actual god. The term <orange>Deiwos</> was proposed as a workable scientific term for the god-personae that the Manifestations speak as. Just using the word god felt unscientific.						0	
+2.8	但经过多方研究确认并非常见的解离性同一性障碍，因为……	但經過多方研究確認並非常見的解離性身分疾患，因為……	多方の研究によって、これはよくある解離性同一性障害ではないと判明している。何故なら……	하지만 연구결과에 따르면 다중인격은 아니다.	Despite how the symptoms that present during these episodes could look when written down on paper, there have been a considerable number of studies confirming that whatever it is that is going on neurologically within a Manifestation's brain as an episode runs its course, the Deiwos phenomenon can't be written off as disassociative personality disorder, because...						0	
+b-3											0	
+b-3-1	……遵命。	……遵命。	……はい。	네… 전하…	... as you command.						0	
+2.2	过了一会儿……	過了一陣子……	少し時間が経った……	잠시 후…	Moments pass...						0	
+2.3	呼……分析员，这次结果怎么样？	呼……分析員，這次結果怎麼樣？	ふぅ……分析員、今回の結果はどうだ？	후… 분석가, 결과는 좀 어때?	Mmmmm... oh, it's you... how were the results?						0	
+b-1											0	
+b-1-1	诊疗结束，吾王。	診療結束，吾王。	診療が完了しました、マイロード。	진료는 끝났습니다… 전하.	The tests are complete, Host Father.						0	
+b-2											0	
+b-2-1	您的战袍在此。	您的戰袍在此。	貴殿の戦衣はここです。	전술 슈트는 여기 있사옵니다.	High One, your cloak...						0	
+2.1	嗯，汝，即刻为吾更衣。	嗯，汝，即刻為吾更衣。	うむ、汝、直ちに我の服を変えたまえ。	그래. 그럼 어서 과인의 옷을 갈아입혀 주겠나.	Robe me, child.						0	
+31	暴风雪吹破了窗户？	暴風雪吹破了窗戶？	キオーンで窓が割れた？	눈보라 때문에 창문이 깨진 건가?	... a blizzard blew the windows in?						0	
+32	这座城市会发生暴风雪？闻所未闻……	這座城市會發生暴風雪？聞所未聞……	この街でキオーンだなんて、聞いたこともない……	이 도시에 눈보라가 발생했었나? 금시초문인데…	I didn't even know that it snowed here...						0	
+33	………………	………………	………………	……	..................						0	
+34	雪……下雪了……	雪……下雪了……	キオーン……キオーンだ……	눈이야…	It's... snowing...						0	
+35	那么我应该……	那麼我應該……	じゃあ私は……	그렇다는 건… 아마…	I should...						0	

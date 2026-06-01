@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	小琴诺，感觉你最近心情不错。	小琴諾，你最近好像心情不錯。	チェルノ、最近気分が良さそうだね。	체르노, 요즘 기분이 좋아 보여.	Cherno, it seems like you're in a good mood lately.						0	
+page0.2	你和莫尔索的关系还好吗？	你和莫爾索都還好嗎?	ムルソーとの仲はどう？	모르소와 사이는 좋아?	Are you getting along with Meursault?						0	
+page0.3	唔，莫尔索她，最近总是说困，已经很久没找过我了。	唔，莫爾索她最近總是說累，已經很久沒來找我了。	ムルソーは……最近眠いって言ってて、しばらく会ってないんです……	음, 모르소가 요즘 계속 피곤하다고 해서, 한동안 만나지 못했어요.	Um, Meursault said she's been feeling sleepy lately. She hasn't visited me in a long time.						0	
+page0.4	一开始，我还是有一点不适应。	剛開始，我還有點不習慣。	いつも一緒だったから……最初はソワソワして、不安になることもあったんです……	처음에는 좀 적응이 안 되더라고요.	At first, I couldn't get used to it.						0	
+page0.5	不过，我知道莫尔索一直都在。	不過，我知道莫爾索一直都在。	でも……それでもムルソーがいつもちゃんと傍にいてくれてるのは分かってます……	하지만 저도 알아요, 모르소가 늘 함께 있다는 사실을요.	But I know that Meursault is always with me.						0	
+page0.6	就像是出任务的时候，分析员一直是我们坚强的后盾一样。	就像是出任務的時候，分析員一直都是我們堅強的後盾一樣。	ミッションのとき、分析員さんがずっと私と一緒にいるみたいな感じ。	미션을 수행할 때, 분석가님이 늘 우리의 든든한 버팀목이 되어주는 것처럼요.	Just like when we go on a mission and you're always there supporting us, Adjutant.						0	
+page0.7	嗯？哈哈，这些都是我的分内之事。	嗯?哈哈，這些都是我應該做的。	そう言われると……なんだか恥ずかしいな。	어라? 하하, 전부 내 일이네.	Huh? Haha, this is all part of my job.						0	
+page0.8	你这么说，搞得我有点不好意思了。	你這麼說，害我有點不好意思了。	気にしなくていいんだよ、それが私の仕事なんだから。	그렇게 말하니까 내가 다 민망해지잖아.	When you say it like that, I feel a little embarrassed.						0	
+page0.9	啊啊啊啊！对不起，是琴诺说、说错话了。	啊啊啊啊!對不起，是琴諾說、說錯話了。	ああああ！ごっごめんなさい！チェルノは本当に悪い子……！！	아아아아! 죄송해요, 제, 제가 잘못했어요.	Ah, ah, ah! I'm sorry... I—I shouldn't have said that.						0	
+page0.10	对不起对不起，是琴诺让分析员不舒服了。	對不起對不起，是琴諾讓分析員感到不舒服了。	本当にごめんなさい……チェルノのせいで分析員さんに恥をかかせて……	죄송해요, 죄송해요, 체르노가 분석가님을 불편하게 했어요.	I'm so sorry... I made you feel uncomfortable...						0	
+page0.11	别道歉啊小琴诺，我并没有不舒服，只是感到欣慰。	別道歉啊小琴諾，我並沒有不舒服，只是感到欣慰罷了。	違うんだ、誤解させてごめん……チェルノは謝らなくていいんだ。	사과하지 마, 체르노, 난 불편하지 않아, 뿌듯할 뿐이지.	Don't apologize, Cherno. I'm not uncomfortable. I'm actually relieved.						0	
+page0.12	能被伙伴依靠，是值得开心的事啊。	能成為夥伴的依靠，是件令人開心的事啊。	「恥ずかしい」じゃなくて「照れる」が正解かな？仲間に頼りにされて、とても嬉しいよ。	동료에게 의지가 된다는 건 기쁜 일이니까.	I'm really glad that you know you can rely on me.						0	

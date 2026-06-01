@@ -1,0 +1,10 @@
+表情id	备注	资源	多语言KEY	类型(0表情1喊话)
+Id	Comment	Icon	Key	Type
+1	救我（肴）	2700000		
+2	救我（肴）		ui.onlinetalk1	1
+3	防守（装置）	2700001		
+4	干得好（芬妮）		ui.onlinetalk4	1
+5	加油（恩雅）	2700002		
+6	加油（恩雅）		ui.onlinetalk3	1
+7	干得好（芬妮）	2700003		
+8	防守（装置）		ui.onlinetalk2	1

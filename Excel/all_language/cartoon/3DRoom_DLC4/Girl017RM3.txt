@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	好饿……	好餓……	お腹へったぁ……	배고파요…	I'm starving...						0	
+page0.2	这次任务强度确实很高，辛苦了。	這次任務的困難度確實很高，辛苦了。	確かに厳しいミッションだったな。お疲れ様。	이번 미션은 강도가 높아서 힘들구나.	Today's mission was pretty tough. Great work.						0	
+page0.3	待会一起去吃饭吧。	等下一起去吃飯吧。	これから一緒に食事でもどうだ？	좀 이따 같이 밥 먹으러 가자.	Let's go grab dinner together in a bit.						0	
+page0.4	好耶，我要吃好多好多甜点。	好耶！！我要吃超～多～甜點！	やった！私、甘い物が食べたいなぁ。	좋아요. 저는 디저트를 아주 많이 먹을 거예요.	Alright! I want to eat a bunch of stuff for dessert.						0	
+page0.5	可丽饼，布丁，草莓圣代，还有……	可麗餅、布丁、草莓聖代，還有……	クレープと、プリンと、イチゴパフェと……	크레이프, 푸딩, 딸기 선데이 아이스크림, 그리고…	A crepe, pudding, a strawberry sundae...						0	
+page0.6	甜点饭后再吃吧，正餐还是需要吃点肉和碳水。	甜點等飯後再吃吧，正餐還是需要多吃點肉和碳水化合物。	スイーツは食事が終わってからだ。まずは肉と炭水化物を取っておかないと。	디저트는 식사 후에 먹자. 식사로는 고기와 탄수화물을 먹어야 해.	You can eat dessert after you finish dinner. You need some meat and carbs first.						0	
+page0.7	呜，可吃完饭就吃不下甜点了。	嗚嗚～可是等吃完飯就吃不下甜點了。	うぅ……でもそれだとスイーツが入らなくなっちゃうじゃん。	힝, 하지만 밥을 먹고 나면 배가 불러서 디저트를 못 먹을 텐데요?	Ugh, but I'm going to be too full for dessert after dinner.						0	
+page0.8	我听说美少女都有专门用来放甜食的胃来着。	我聽說美少女都有專門用來吃甜點的胃。	美少女にはスイーツ用の胃袋があるって聞いたけど。	아름다운 소녀들은 밥 배와 디저트 배가 따로 있다고 하던데.	I thought all pretty girls' stomachs were made for eating sweets.						0	
+page0.9	不要相信这种只存在于动画中的设定啊！	不要相信這種只存在於動畫內的設定啊！	そんなアニメキャラ限定の設定を本気にしないでよ！	애니메이션에나 나오는 그런 설정은 믿지 마세요!	Don't believe everything you see in cartoons!						0	
+page0.10	分析员，我们今天就直接去吃甜点嘛，好不好？	分析員，我們今天就直接去吃甜點嘛～好不好？	分析員～今日はスイーツだけを食べに行こうよ～ね？	분석가님, 오늘은 바로 디저트 먹으러 가면 안 될까요?	Adjutant, let's just skip straight to dessert, okay?						0	
+choice1	答应苔丝	答應黛斯	テスの提案に同意する	승낙한다.	Agree with Tess						0	
+page1.1	好吧好吧，出发，可丽饼店，我请客。	好吧好吧，朝可麗餅店出發，我請客。	はいはい。じゃあクレープ屋に行こう。私のおごりで。	알았어, 알았어. 크레이프 가게로 가자. 내가 살게.	Alright, alright. Let's go to the crepe shop — my treat.						0	
+page1.2	耶！	耶！	やった～！	오예!	Yay!						0	
+choice2	拒绝苔丝	拒絕黛斯	テスの提案を却下する	거절한다.	Turn Tess down						0	
+page2.1	听话，我们先去吃些简餐，再去吃甜点。	聽話，我們先去吃一點簡餐，之後才去吃甜點。	ダ～メ。軽く食事を取ってからスイーツを食べに行こう。	내 말 들어. 간단하게 식사부터 하고 나서 디저트를 먹으러 가자.	Let's have something light to eat first, then have dessert later, okay?						0	
+page2.2	好东西总要留到后面。	好東西總要留到最後。	美味しい物は後に取っておくもんだぞ。	좋은 건 뒤에 남겨둬야 하는 거야.	We should save the good stuff for later.						0	
+page2.3	唔……有道理。那我们现在就出发吧！	唔……有道理。那我們現在就出發吧！	うーん……それもそうだね！じゃあ行こっか！	음… 분석가님 말이 맞아요. 그럼 지금 출발해요!	Hmm... that makes sense. Then let's head out right away!						0	

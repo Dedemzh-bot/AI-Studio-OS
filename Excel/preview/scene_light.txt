@@ -1,0 +1,18 @@
+﻿ID	备注	场景名称	光照场景名称	Lua脚本 	环境球缩放	地板半径	地板平铺	地板旋转	灯光旋转	是否卸载	地板平移	地面特效旋转	地面特效大小	地面特效数量	特效尺寸
+Type	Comment	Scene	LightScene	Class	Env_mesh_Scale	entry02_Line_Radius	entry02_Line_Tile	entry02_Line_Rotate	RoleLighting_Rotation	Unload	entry02_Line_OffsetV	e_Rotate	e_size	e_x_count	e_dimension
+main	主界面	Entry_01b	CharacterLighting	Main											
+gacha	抽卡	Entry_03		Gacha											
+dungeonsboss	Boss	Entry_05	CharacterLighting1	Monster	{13,2.6,13}	1000	0.01	80	{-10,0,0}		0.08				
+role_lvup	角色	Entry_05	CharacterLighting1	Role	{18,3.6,18}	1300	0.008	80	{-10,-10,0}		0.08	{0,10,0}	4	20	{50,50,0}
+weapon	武器	Entry_05	WeaponLighting	Weapon	{3,0.9,3}	200	0.02	80			0.08	{0,10,0}	1.5	8	{40,50,0}
+weapon_info	武器配件	Entry_05	WeaponLighting	WeaponPart		200	0.02	80			0.08	{0,10,0}	1.5	8	{40,50,0}
+formation	编队界面	Entry_05	CharacterLighting1		{20,4,20}	500	0.008	90	{-44,332,0}		1	{0,0,0}	4	20	{50,50,0}
+dlc1_main	dlc1主界面	UI_DLC1Map	CharacterLighting1												
+dungeons	选关界面	Entry_06	 	Dungeons											
+darkzone	暗区界面	area09_91	area09_91_light												
+party1	海姆向前冲活动界面	party06_00	part05_00_RoleLightController												
+seasonboss	弑神斗场场景	Entry_07													
+victorySeq	结算表演	vr02_02													
+rmol	3.2大富翁编队界面	chess_dlc32_00													
+worldboss	WorldBoss	worldwar_00													
+donoduel	多诺主场景	bw_dnuo01		DonoDuel											

@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	……感觉气氛逐渐阴冷了起来。	……感覺氣氛逐漸陰冷了起來。	……なんか寒くなってきた。	… 주변 분위기가 갑자기 음침해진 거 같아.	...I feel like the air is getting colder.						0	
+2	这儿怎么连太阳都照不到？	這裡怎麼連太陽都照不到？	ここは太陽も当たらないんだ。	이곳은 햇빛도 안 들어오는데?	Why isn't there any sunshine here?						0	
+auto_15008	这里是天楼低区，大多数天楼居民就住在这里的“蜗居”。	這裡是天樓低區，大多數天樓居民就住在這裡的“蝸居”。	ここは低層部だ。スカイタワーの住民のほとんどがここに住んでいる。	스카이 타워 저층 구역이라 그래. 대다수 스카이 타워 주민들이 여기 있는 이 '누추한 집'에서 살고 있지.	These are the lower levels of the Towers. Most of the Towers' residents live here in the "shanties."						0	
+auto_23512	我记得这里在隔离墙建立起来之前，就不是什么富人区。	我記得這裡在隔離牆建立起來之前，就不是什麼富人區。	ウォールが建つ前から、富裕層の街ではなかったわ。	이곳은 격리 장벽이 세워지기 전부터 부자들이 사는 구역은 아니었던 걸로 기억해.	This used to be a rich area before the Containment Wall was built.						0	

@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这里没有基座的踪影。	這裡沒有基座的蹤影。	ここにベースはない。	이곳에서는 성지의 흔적을 전혀 찾아볼 수 없어.	The Shrine is nowhere to be found.						0	
+2	多找找！肯定会有收获的！	多找找!肯定會有收穫的!	ちゃんと探して！何かあるはずだから！	조금만 더 찾아보자! 분명 뭐라도 찾을 수 있을 거야.	Search harder! We'll definitely find something!						0	
+3	靠，这外边怎么又出现这么多异化人……	靠，這外面怎麼又出現這麼多異化人……	くそ、外に変異者がまたウジャウジャと……	젠장… 도대체 어디서 이렇게 많은 변이자가 나타나는 거지…	Darn it! Why are there so many Changed out there!?						0	

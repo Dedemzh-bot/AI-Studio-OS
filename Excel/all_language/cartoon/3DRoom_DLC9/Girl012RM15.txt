@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，听说新恒提罗的人，都很流行肉体改造喵？	分析員，聽說新恆提羅的人，都很流行肉體改造喵？	分析員、ニューガントラでは肉体改造が流行っているそうだニャ？	분석가, 들어보니 뉴헨틸로에 있는 사람들 사람에서 육체 개조가 유행이라는 소문이 있던데. 그게 사실이다냥?	Adjutant, I hear body mods are all the rage in New Hentiro, nya?						0	
+page0.2	嗯，只能说是一部分吧，但这些人也依据不同的理念分成了两派。	嗯，只能說是一部分吧，但這些人也依據不同的理念分成了兩派。	まあ、一部の人の間でだけど。でもみんなそれぞれの考えがあって2つの派閥に分かれている。	일부 맞는 사실이긴 해. 근데 그들은 서로 다른 이념에 따라 두 파벌로 나뉘어있어.	Well, it's popular among some folks, who are basically split into two camps:						0	
+page0.3	升格派选择了上传意识，刚体派则选择了替换义体。	升格派選擇了上傳意識，剛體派則選擇了替換義體。	昇格派はネットワークに意識をアップロードする人たちで、剛体派は身体を義体に交換する人たちだ。	승격파는 의식을 업로드하고, 강체파는 의체로 교체를 하지.	The transcendents who upload their consciousness, and the bionics who opt for prosthetic augmentation.						0	
+page0.4	唔……有意思。那分析员猜猜，我会是哪一派呢？	嗯……有意思。那分析員猜猜，我會是哪一派呢？	ふむ……興味深いね。分析員は、私はどっちだと思う？	음… 흥미롭다냥. 그럼 분석가는 내가 어느 파벌일 것 같다냥?	Hmm... fascinating. So, which camp do you think I'd fall into, Adjutant?						0	
+choice01	刚体派	剛體派	剛体派	강체파	The bionics						0	
+page1.1	依据现状的话，应该会是刚体……不。	依據現狀的話，應該會是剛體……不。	現状から見て、剛体派だと思う……いや。	현 상황을 보면, 아무래도 강체파가… 아니.	Based on the current situation, you'd lean towards the bionics... no, wait.						0	
+page1.2	喵？	喵？	ニャ？	냥?	Nya?						0	
+page1.3	虽然有些冒犯，但我想如果是猫汐尔的话，应该还是想保留原本的身体吧。	雖然有些冒犯，但我想如果是貓汐爾的話，應該還是想保留原本的身體吧。	ちょっと失礼だけど、マーシルはやっぱり元の体を保ちたいんじゃないかな。	좀 무례할 수도 있지만, 내 생각에 캣 시에라라면 원래의 몸을 유지하고 싶어할 것 같아서.	I hope this isn't inappropriate, but I think you'd prefer to keep your original body, Mauxir.						0	
+choice02	升格派	升格派	昇格派	승격파	The transcendents						0	
+page2.1	你那么天马行空，应该会选升格……不。	你那麼天馬行空，應該會選升格……不。	君は自由奔放だから、昇格を選ぶはず……いや。	넌 너무 제멋대로라 아무래도 업로드를 해야… 아니.	For a free spirit like you, I'd say the transcendents... no, wait.						0	
+page2.2	唔？	唔？	ん？	냥?	Hmm?						0	
+page2.3	虽然有些冒犯，但我想如果是猫汐尔的话，应该还是想保留原本的身体吧。	雖然有些冒犯，但我想如果是貓汐爾的話，應該還是想保留原本的身體吧。	ちょっと失礼だけど、マーシルはやっぱり元の体を保ちたいんじゃないかな。	좀 무례할 수도 있지만, 내 생각에 캣 시에라라면 원래의 몸을 유지하고 싶어할 것 같아서.	I hope this isn't inappropriate, but I think you'd prefer to keep your original body, Mauxir.						0	
+choice03	两者都不	兩者都不	どちらでもない	둘 다 해당되지 않음	Neither						0	
+page3.1	答案是两者都不会选。	答案是兩者都不會選。	答えはどっちも選ばない。	두 파벌 전부 시에라랑은 달라.	Neither, I'd say.						0	
+page3.2	如果是猫汐尔的话，还是想保留原本的身体吧。	如果是貓汐爾的話，還是想保留原本的身體吧。	マーシルはやっぱり元の体を保ちたいんじゃないかな。	만약 캣 시에라라면 원래의 몸을 유지하고 싶어할 것 같아서.	I think you'd prefer to keep your original body, Mauxir.						0	
+page4.1	唔喵，真是什么都难不倒你。	唔喵，真是什麼都難不倒你。	ウニャ。やっぱりあなたにとって難しいことなんて何もないみたい。	음냥, 정말이지, 분석가는 모르는 게 없는 것 같다냥.	Nya, I'm impressed.						0	
+page4.2	因为我试着站在你的立场思考了下，最后才做出了选择。	因為我試著站在你的立場思考了下，最後才做出了選擇。	君の立場になって考えてみたら、そう思ったんだ。	시에라 입장에서 생각해보니까 그럴 것 같더라고.	I just tried thinking from your perspective.						0	
+page4.3	是喵……分析员能理解我真是太好了……	是喵……分析員能理解我真是太好了……	ニャ……理解してくれてありがとう……	그렇긴 하다냥… 분석가가 날 알아주니 기분 좋다냥.	Aw, nya~ You understand me so well...						0	
+page4.4	如果我也有像大家一样的身体，是不是就更容易与你感同身受了呢？	如果我也有像大家一樣的身體，是不是就更容易與你感同身受了呢？	私もみんなと同じような体だったら、もっと共感できるんじゃないかって。	만약 나도 다른 사람들처럼 똑같은 몸을 가진다면 분석가처럼 공감할 수 있을까?	If I had a body like everyone else's, would it make it easier for me to relate to you?						0	
+page4.5	没差别，在我眼里，你一直都是最棒的猫猫。	沒差別，在我眼裡，你一直都是最棒的貓貓。	そんなことない。私に言わせれば、君はいつも最高のネコちゃんだ。	그럼 당연하지. 적어도 내 눈에는 시에라가 최고로 멋진 고양이라고.	It makes no difference to me. You're always the best Mauxir in my book.						0	
+page4.6	……	……	……	…	...						0	
+page4.7	果然，你很擅长应付女孩。	果然，你很擅長應付女生。	分析員、やっぱり女の子の扱いがうまいね。	역시나 그런 거였다냥. 분석가가 여자들을 잘 다루는 이유가 다 있었다냥.	You are quite the charmer with the girls.						0	
+page4.8	哎？！	哎？ ！	えっ！？	뭐?!	Huh!?						0	
+page4.9	不过，我并不在意喵，以后请再多应付我两句吧。	不過，我並不在意喵，以後再多應付我兩句吧。	まあ、気にしてないけどニャ。これからもそうやって扱ってくれニャ。	상관없다냥. 앞으로 나한테도 이렇게 몇 마디 해달라냥.	But I don't mind, nya. Feel free to charm me anytime.						0	

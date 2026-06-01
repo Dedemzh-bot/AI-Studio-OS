@@ -1,0 +1,3 @@
+﻿流水id	开启时间	结束时间	解锁条件(例{{1,1}})（1账号等级 2前置关卡 3获得某个道具 23战区挑战期数）	活动关卡	玩法说明	UI名字(类似OnlineBossXXX 默认OnlineBoss)	当期主题名	地区限制目前可填：0国内外,1国内,2海外	调用剧情
+Id	StartTime	EndTime	Condition	LevelList	Intro	UIName	Title	Coverage	PlotID
+1	[202505151000]	[202505290400]	{{1,20}}	{{8656,8657,8658,8659,8660,8661,8671,8672,8673}}	173	Dlc10OnlineBoss	ui.TxtDLC10.BtnOnline		8227301

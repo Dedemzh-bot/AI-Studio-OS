@@ -1,0 +1,63 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	……………………	……………………	……………………	……	...						0	
+3	多久了？	多久了？	どれくらい？	얼마나 됐어?	How long?						0	
+4	不知道，我意识到之后，一直在。	不知道，我意識到之後，一直在。	分からない。気づいてから、ずっといた。	나도 잘 모르겠어. 내가 있었을 때부터 쭉 저기 있었으니까.	I don't know. She's been standing there ever since I noticed.						0	
+5	连你都没注意到，她是什么时候开始在那里的……	連你都沒注意到，她是什麼時候開始在那裡的……	あんたも気づかないなんて、いつからあそこにいたの……	너도 눈치를 못 챌 정도였으면… 대체 언제부터 저기 있었던 거지…	So no one knows how long it's been since she moved...?						0	
+6	被她盯着看了几次，我居然觉得你都变得温柔了。	被她盯著看了幾次，我居然覺得你都變得溫柔了。	彼女に何度も見つめられて、あんたが優しくなったような気がしたわ。	계속 여길 뚫어져라 쳐다보는데, 네가 나한테 평소에 대하던 태도가 오히려 부드럽게 느껴질 정도야.	The way she just stares at me, it makes even you seem warm and friendly in comparison.						0	
+7	因为陶紧急召集了一次会议，我来到基地生活区大厅寻找队员，打算与大家集合后再前往作战指挥室。	因為τ緊急召集了一次會議，我來到基地生活區大廳尋找隊員，打算與大家集合後再前往作戰指揮室。	τが緊急会議を招集したため、私はみんなと合流してから作戦室に向かおうと思い、寮のロビーに隊員を探しに来た。	τ가 긴급 소집령을 내려서 나는 숙소 생활 구역 로비에서 팀원들을 찾아 다 같이 작전 지휘실로 가고자 했다.	I had come to the Base hall looking for the operatives, as τ had called an urgent meeting. I hoped to assemble everyone then head to the command room.						0	
+8	远远听了几句就大致猜到，她们正在讨论前段时间来到海姆达尔部队的姬辰星。	遠遠聽了幾句就大致猜到，她們正在討論前段時間來到海姆達爾部隊的姬辰星。	遠くで聞いていると、彼女たちはこの間ヘイムダル部隊に来た姫辰星の話をしているらしい。	멀리서 말하는 팀원들의 몇 마디로, 얼마 전 헤임달에 온 희수성에 대해 토론하고 있다는 것을 어느 정도 짐작할 수 있었다.	I overheard them discussing Ji Chenxing, who had recently joined the Heimdall Force.						0	
+b-1											0	
+9	大明星不是应该习惯粉丝的视线吗？	大明星不是應該習慣粉絲的視線嗎？	大スターなら、ファンの視線に慣れてるんじゃないの？	슈퍼스타라면 팬의 시선에 적응해야 하는 거 아닌가?	Shouldn't superstars like you be used to stares from your fans?						0	
+10	分析员，你把那叫做粉丝的视线？粉丝的视线不是应该饱含崇拜和喜爱吗？	分析員，你把那叫做粉絲的視線？粉絲的視線不是應該飽含崇拜和喜愛嗎？	分析員、あれがファンの視線だというの？ファンの視線は愛と憧れに満ちたものでしょ？	넌 저게 팬의 눈빛으로 보이니? 팬의 눈빛은 보통 숭배나 사랑으로 가득 차 있다고.	Adjutant, you call that the stare of a fan? Shouldn't that include love and admiration?						0	
+11	她那个，更像是……监视器吧。	她那個，更像是……監視器吧。	あれはまるで……監視カメラよ。	저 눈빛은 말이야… 마치 CCTV 같아.	Hers feels more like... surveillance.						0	
+12	我没觉得奇怪。	我沒覺得奇怪。	別に変わらない。	그렇게 이상한 거 같지는 않은데.	It hasn't seemed strange to me.						0	
+13	……这方面你们倒是有些微妙的相似。	……這方面你們倒是有些微妙的相似。	……あんたたちそういうところ似てるわ。	아… 그래… 다시 보니까 어떤 면에서는 너랑 조금 비슷한 거 같기도 하네.	...Maybe you two are a little similar after all.						0	
+auto_1434	呜哇……居然又换了一本书。	嗚哇……居然又換了一本書。	うわ……また新しい本。	오… 책을 또 바꿨어.	Wow... She has a new book again.						0	
+b-2											0	
+14	书？	書？	本？	책?	Book?						0	
+15	我也是偶然发现的，她总是捧着又厚又重的纸质书，而且两三天就会换一本不重样的，看得完吗？	我也是偶然發現的，她總是捧著又厚又重的紙質書，而且兩三天就會換一本不重複的，看得完嗎？	あたしもたまたま気づいたの。彼女はいつも分厚くて重い本を持ってる。しかも数日で違う本に変わる。こんなにたくさんの本、読み終わるの？	나도 우연히 안 건데, 그녀는 항상 두꺼운 책을 들고 다녀. 2~3일에 간격으로 책이 바뀌더라고. 다 읽기는 하는 걸까?	I discovered that she always carries a thick book with her. And she swaps to a new one every few days. I wonder, does she actually read them all?						0	
+16	啧啧，她的书看起来都是高级货啊，一定很值钱。	嘖嘖，她的書看起來都是高級貨啊，一定很值錢。	彼女の本は全部高級品らしい、価値があるに違いない。	쯧쯧… 딱 봐도 고급 져 보이는데. 엄청 비싼 거겠지?	Tch, her books look like the expensive ones. Surely worth a lot.						0	
+17	不愧是出身名门，连炫富的手段都比别人有格调。	不愧是出身名門，連炫富的手段都比別人有格調。	さすが名門出身、見せびらかし方も違うね。	뭐… 명문 집안 출신이라 그런지 부를 과시하는 방법도 세련되긴 했군.	From a distinguished family, right? She even flaunts her status with style.						0	
+18	随着会议时间临近，队员们陆续出现，妮塔自然没放过参与这个话题。	隨著會議時間臨近，隊員們陸續出現，妮塔自然沒放過參與這個話題。	会議の時間が近づき、隊員が次々と現れた。当然ニタもこの話に割り込んできた。	회의 시간이 다가오자 팀원들이 하나둘씩 모이기 시작했고 니타도 자연스럽게 대화에 끼어들었다.	As the meeting time approached, the squad members were showing up one by one. Nita had naturally jumped right into the gossip.						0	
+b-3											0	
+19	出身名门？	出身名門？	名門出身？	명문 집안 출신?	From a distinguished family?						0	
+20	分析员知道的吧，她身份可不一般，用不着通过层层筛选，就这么“啪”地一下直接空降，好像还是什么……安全部特殊行动小队的头头。	分析員知道的吧，她身分特殊，用不著通過層層篩選，就這麼“啪”地一下直接空降，好像還是什麼……安全部特殊行動小隊的頭頭。	分析員は知ってるよね。彼女は特別な身分だから、選別もせず、直接入社したって。確か……安全部特殊作戦小隊のリーダーを務めてたらしい。	분석가, 너도 그녀가 평범하지 않다는 건 알고 있었지? 낙하산으로 들어왔잖아. 무슨 안전부 특수 행동 소대의 우두머리라고 들었는데.	Her background is anything but ordinary, Adjutant. She skipped all those layers of screening and parachuted right to the top. I think she's even head of a special ops squad in the Security Department.						0	
+21	谁能让我也当个头头啊！头头的薪水一定很多吧——	誰能讓我也當個頭頭啊！頭頭的薪水一定很多吧——	うらやましいやつ！リーダーの給料は多いよな――	난 누가 우두머리 좀 안 시켜주나? 우두머리 월급은 분명 어마어마할 텐데 말이야.	Who's gonna make me a head of a squad, huh!? Think about how much salary I'd rake in...						0	
+b-4											0	
+22	我们走吧，卡罗琳要催了。	我們走吧，卡羅琳要催了。	行こう、でないとカロリンがうるさくなる。	우리도 어서 가자. 캐롤린이 재촉하겠어.	Let's go. Caroline's in a hurry.						0	
+b-5											0	
+23	迟到了可是要扣钱的。	遲到了可是要扣錢的。	遅刻したら減給されるぞ。	지각하면 월급 깎인다고.	She'll fine us if we're too late.						0	
+24	走！	走！	行こう！	진짜야? 빨리 가자!	I'm off!						0	
+25	我及时打断了妮塔的不着边际的联想，离开前向姬辰星的方向看了一眼，她看起来并未生气，依旧面无表情地翻着手中的书。	我及時打斷了妮塔的不著邊際的聯想，離開前向姬辰星的方向看了一眼，她看起來並未生氣，依舊面無表情地翻著手中的書。	ニタの空想を遮って立ち去る前に姫辰星の方を見ると、彼女は怒っていないらしく、無表情のまま本をめくっている。	난 니타의 말도 안 되는 루머를 상상하며 자리를 뜨기 전 수성을 한번 쳐다봤다. 그녀는 평온한 표정으로 계속해서 책을 읽고 있었다.	After cutting off Nita's wild imagination, I glanced at Chenxing before leaving. She was flipping through her book, expressionless as usual.						0	
+auto_17004	 		 		Mic check, one, two.						0	
+26	唔……	唔……	う……	…	Hmph...						0	
+27	看着一众人离开的背影，少女这才合上了书，回到了自己的房间。	看著一眾人離開的背影，少女這才合上了書，回到了自己的房間。	去っていく人たちの背中を見て、少女はようやく本を閉じ、自分の部屋へ戻った。	자리를 떠나는 사람들의 뒷모습을 확인한 후, 수성은 책을 덮고 자신의 방으로 돌아갔다.	Seeing the group leave, the girl finally shut her book and returned to her room.						0	
+28	她用指肚感受着书的侧边厚度，在感受到与刚才一致的厚度时，精准翻到了还没读完的那一页，继续看了下去。	她用指腹感受著書的側邊厚度，在感受到與剛才一致的厚度時，精準翻到了還沒讀完的那一頁，繼續看了下去。	彼女は本の横の厚みを指で感じ、さっきと同じ厚みを感じたところで、読みかけのページを正確にめくり、読み続けていた。	수성은 손가락으로 책을 넘기며 보지 못했던 부분의 두께를 느낄 때 정확히 해당되는 부분을 짚었고, 계속 이어서 읽어나가기 시작했다.	She brushed the edges of the pages with her fingertips. When she felt the right thickness, she opened it back to the page she was on and continued reading.						0	
+29	提示音响起，她知道该去见那些人了。	提示音響起，她知道該去見那些人了。	通知の音が鳴り、あの人たちに会う時間だと分かった。	알림음이 울리자, 수성은 사람들을 만나러 갈 시간이라는 걸 알아차렸다.	A notice sounded. She knew she had to go see those people.						0	
+30	接入通讯之前，她长吁了一口气。	接入通訊之前，她長吁了一口氣。	通信に出る前に、彼女は長い息を吐いた。	통신이 연결되기 전, 그녀는 깊은 한숨을 내쉬었고.	Before opening the communicator, she breathed out a long sigh.						0	
+31	提前进入通讯的姬辰星观察着空荡的“博德宫”，默默等待这间议事厅的主人们——世界树高层领导“老人会”的到来。	提前進入通訊的姬辰星觀察著空蕩的“博德宮”，默默等待這間議事廳的主人們——世界樹高層領導“老人會”的到來。	先に通信に入った姫辰星は何もない「博徳宮」を眺めながら、議事堂の主たち――ユグドラシル社上層部「OLD6」の到着を待っていた。	통신에 연결한 수성은 텅 빈 '보덕궁'을 바라보며 묵묵히 의사당 주인인 위그드라실 고위직들의 '장로회'를 기다렸다.	Her hologram having joined the meeting early, Ji Chenxing observed the empty Bodø Palace silently as she waited for Yggdrasil's high-ranking Elders to arrive.						0	
+32	早到是她长期以来的习惯，也是家族所教导的必须要遵守的礼节之一。	早到是她長期以來的習慣，也是家族所教導的必須要遵守的禮節之一。	早く着くのは彼女の昔からの習慣であり、家族に教わった守らなければならない礼儀の一つでもあった。	일찍 도착해서 기다리는 건 수성의 습관이자 가족들이 가르쳐준 예의범절 중 하나였다.	Punctuality had long been a habit of hers, essential etiquette that her family had taught her.						0	
+33	“适宜的社交距离、合乎身份的言辞，还有必要的等待”，这是她每时每刻都在践行的生活教条。	“適宜的社交距離、合乎身分的措辭，還有必要的等待”，這是她每時每刻都在踐行的生活教條。	「適切な社交距離、身分に相応しい言葉遣い、必要な待ち時間」は、彼女が常に実践すること。	'적절한 거리 두기, 신분에 맞는 언행, 필요에 따른 기다림'은 그녀가 매 순간 지키고 있는 생활신조들이었다.	Maintaining appropriate social distances, using words fitting of her status, waiting patiently... Not simply manners, these were life teachings she adhered to constantly.						0	
+34	等待的过程中，她观察着博德宫的装饰，思绪不禁回到第一次来到这里的时候。	等待的過程中，她觀察著博德宮的裝飾，思緒不禁回到第一次來到這裡的時候。	待つ間に、彼女は博徳宮の装飾を眺め、思わず初めてここに来たときのことを思い出した。	기다리던 중, 그녀는 보덕궁의 외관을 감상하며 처음 이곳에 왔을 때를 떠올렸다.	As she observed the decorations of Bodø Palace, her mind returned to the time she first came here...						0	
+35	作为老人会的成员之一，陶老人拥有对公司部分事务的独立决策权。	作為老人會的成員之一，τ老人擁有對公司部分事務的獨立決策權。	OLD6のメンバーの一人として、τは会社の一部の事務を単独で判断する権利がある。	장로회의 일원 중, τ 장로는 회사의 일부 업무에 있어 단독 결정권을 가지고 있어.	As one of the Elders, τ possesses the right to make independent decisions for certain company affairs.						0	
+36	但为了公司的安全和未来，我们有必要及时掌握我们应该知道的情报。	但為了公司的安全和未來，我們有必要及時掌握我們應該知道的情報。	しかし、会社の安全と未来のために、我々は知るべき情報をすぐに把握する必要がある。	하지만 회사의 안보와 미래를 위해서 우리도 알고 있어야 할 정보는 제때 알아야 하지.	But for the company's security and its future, we must gain full access to all necessary intel.						0	
+37	舍塔老人向我们推荐了你，你的履历也证明了你是个难得的人才……你拥有我们需要的才能，我们给你这个任务的机会。	θ老人向我們推薦了你，你的履歷也證明了你是個難得的人才……你擁有我們需要的才能，我們給你這個任務的機會。	Θが我々にあなたを推薦した。あなたの経歴もあなたの価値を裏付けている……あなたは我々が必要な才能を持っている。あなたに任務を与える。	θ 장로가 자넬 추천했고, 이력을 보니 믿을만하더군… 마침 우리에게 필요한 재능을 가지고 있으니 자네에게 미션을 주도록 하지.	Elder θ recommended you. Your CV proves you are a rare talent... You have the skills we need, and we're giving you this mission as an opportunity.						0	
+38	去观测，去记录，然后及时向我们转达陶老人和海姆达尔部队的一切动向。	去觀測，去記錄，然後及時向我們轉達τ老人和海姆達爾部隊的一切動向。	観察して、記録して、そして我々にτとヘイムダル部隊全ての動向を伝えてくれ。	τ 장로와 헤임달 부대의 모든 움직임을 관찰하고 기록한 다음 제때 우리에게 보고하도록.	Observe, record, then report back to me each and every movement of Elder τ and the Heimdall Force.						0	
+39	孩子，这就是我能为你争取的。你的表现不仅会影响你自己的未来，还有你身后的家族。	孩子，這就是我能為你爭取的。你的表現不僅會影響你自己的未來，還有你身後的家族。	我が子よ、これは私があなたのために勝ち取ってきたチャンスだ。あなたの成果は自分の未来だけではなく、家族にも影響を与える。	우리가 자네를 위해서 해줄 수 있는 건 이것밖에 없네. 자네가 어떻게 하냐에 따라 자네의 미래와 가족이 달려 있으니 이점 유념하도록…	Child, this is the best I can get for you. Your performance will influence not only your future, but also that of your family.						0	
+40	这是来之不易的机会……	這是來之不易的機會……	これはせっかくのチャンスだ……	이건 정말 어렵게 만든 기회야…	A truly rare opportunity...						0	
+41	不要辜负我们这么多年的期待！	不要辜負我們這麼多年的期待！	長年の我々の期待を裏切るな！	부디 우리의 오랜 기대를 저버리지 않도록 해!	Don't fail to meet the expectations of generations of our family!						0	
+42	能不能抓住这个机会，就看你自己了。	能不能抓住這個機會，就看你自己了。	このチャンスを掴めるかどうかは、あなた次第だ。	이번 기회를 잡을 수 있을지 없을지는 자네한테 달렸어.	Whether you can seize this opportunity depends on yourself alone.						0	
+43	通讯接入的声音让她的思绪回到当下。	通訊接入的聲音讓她的思緒回到當下。	通信が入った音が、彼女を現実に引き戻した。	통신이 연결되는 소리가 들려오며, 깊은 생각에 빠져있던 그녀는 현실로 돌아왔다.	The sound of an incoming call brought her back to the present.						0	
+44	世界树打算突入花园区，在那之前，老人会一致决议进行一次联合演习。	世界樹打算突入花園區，在那之前，老人會一致決議進行一次聯合演習。	ユグドラシル社はガーデンエリアに突入するつもりだ。その前に、OLD6はもう一度合同演習をすると決定した。	위그드라실에서 가든 구역에 돌입하려고 한창 준비 중인데, 그전에 장로회에서 연합 훈련을 하기로 결정했어.	Yggdrasil is planning to enter the Gardens. The Elders have unanimously decided to perform a joint exercise in preparation for that.						0	
+45	突入花园区的演习？	突入花園區的演習？	ガーデンエリア突入の演習？	가든 구역에 돌입하기 위한 연합 훈련인가요?	Enter the Gardens?						0	
+46	没错，花园区作为首次降临事件的第一现场，为了避免泰坦污染扩散，早在三年前我们就在第一时间将其封锁。	沒錯，花園區作為首次降臨事件的第一現場，為了避免泰坦汙染擴散，早在三年前我們就在第一時間將其封鎖。	そうだ。初降臨の第一現場であるガーデンエリアは、タイタン汚染の拡散を避けるため、三年前に封鎖した。	맞아. 가든 구역은 첫 강림 사건이 발생했던 구역이라, 타이탄 오염의 확산을 막기 위해 3년 전에 가장 먼저 봉쇄를 했던 곳이지.	Yes, the Gardens were the scene of the First Descent. The area was sealed away as soon as possible to keep the Titagen from spreading, three years ago.						0	
+47	三年来，那里一直是最危险的无人禁区，没有人能够掌握关于那里的详细情报。	三年來，那裡一直是最危險的無人禁區，沒有人能夠掌握關於那裡的詳細情報。	ここ三年間、あそこはずっと最も危険な立入禁止エリアのまま、詳しい情報は誰にも掴めなかった。	3년 동안 가장 위험한 무인 금지 구역으로 그곳에 대해서 자세한 정보를 알아냈던 사람은 단 한 명도 없었어.	It's been the most dangerous area in the Containment Zone, and to this day, none have been able to gain detailed intel about the situation within.						0	
+48	我们不希望看到公司宝贵的人才遭到损失，因此在那之前，进行充足的准备是必要的。	我們不希望看到公司寶貴的人才遭到損失，因此在那之前，進行充足的準備是必要的。	我々は会社の貴重な人材を失いたくないので、その前に、十分な準備が必要だ。	회사의 소중한 인재들을 잃는 건 원치 않으니 그전에 충분한 준비를 했으면 좋겠네.	We don't want to lose our company's treasured talents, so before that, we'll need to carry out thorough preparation.						0	
+49	安全部届时也会参与突入花园区的行动。姬辰星，我要你带着特殊行动小队一起参与这次演习。	安全部屆時也會參與突入花園區的行動。姬辰星，我要你帶著特殊行動小隊一起參與這次演習。	その時は、安全部もガーデンエリア突入行動に参加する。姫辰星、あなたは特殊作戦小隊と共に参加しろ。	안전부도 가든 구역 돌입 작전에 참여할 거야. 수성, 자네가 특수 행동 소대와 같이 이번 훈련에 참여했으면 하네.	The Security Department will also take part in entering the Gardens. Ji Chenxing, I need your special ops squad to participate in the exercise too.						0	
+50	记住，你的首要任务是盯紧海姆达尔部队动向，尤其是陶老人在意的那名分析员，不要做多余的事。	記住，你的首要任務是盯緊海姆達爾部隊動向，尤其是τ老人在意的那名分析員，不要做多餘的事。	あなたの一番大事な任務はヘイムダル部隊の動向を観察すること。特にτのお気に入りの分析員だ。忘れるなよ、余計なことはするな。	기억해. 본 미션은 헤임달 부대의 동향을 관찰하는 거야. 특히 τ 장로가 신경 쓰는 그 분석가를 주시해. 쓸데없는 짓은 하지 말고.	Remember, your mission is to keep watch on the Heimdall Force's movements, particularly the Adjutant that τ cares about so much. Don't do anything excessive.						0	
+51	……我明白。	……我明白。	……分かりました。	… 알겠습니다.	...Understood.						0	
+52	没疑问的话，你先退下吧。	沒疑問的話，你先退下吧。	質問がないなら、下がっていい。	추가적으로 궁금한 게 없다면 이만 나가봐도 좋네.	If you don't have any questions, you may leave.						0	
+53	孩子，好好表现，不要让我们失望。	孩子，好好表現，不要讓我們失望。	しっかりやれ、我々を失望させるな。	잘 해야 할 거야. 실망시키는 일은 없었으면 하네.	Child, perform well. Do not disappoint us.						0	
+54	突然举办的演习，不知意图的合作，需要特殊关注的人……	突然舉辦的演習，不知意圖的合作，需要特殊關注的人……	突然の演習、意図の分からない協力、特別な観察対象……	갑작스러운 연합 훈련, 의도를 알 수 없는 협력, 특별 감시 대상…	A sudden exercise, a mysterious collaboration, and people needing special observation...						0	
+55	大脑一视同仁地把各种信息吸纳，她习惯性地摆弄起手中的绳结，企图理顺这些思绪。	大腦一視同仁地接收各種訊息，她習慣性地擺弄起手中的繩結，企圖整理這些思緒。	脳が全ての情報を平等に吸収し、それらを整理しようと、彼女は手の中の結び目をいじっている。	머릿속으로 여러 정보들을 주입하고, 그녀는 습관적으로 손에 들고 있는 매듭을 만지며 생각을 정리했다.	Her brain absorbed all kinds of information without discrimination. She fiddled with the string in her hands out of habit, trying to organize her thoughts.						0	

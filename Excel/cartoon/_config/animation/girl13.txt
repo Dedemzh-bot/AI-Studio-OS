@@ -1,0 +1,44 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	待机站立	sequence	girl013_01_house_stand01	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_stand01.girl013_01_house_stand01'	
+2	走路开始	sequence	girl013_01_house_dialogue_walk_start	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_walk_start.girl013_01_house_dialogue_walk_start'	
+3	走路循环	sequence	girl013_01_house_dialogue_walk_loop	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_walk_loop.girl013_01_house_dialogue_walk_loop'	
+4	走路结束	sequence	girl013_01_house_dialogue_walk_end	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_walk_end.girl013_01_house_dialogue_walk_end'	
+5	转身左	sequence	girl013_01_house_dialogue_turn_L	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_turn_L.girl013_01_house_dialogue_turn_L'	
+6	转身右	sequence	girl013_01_house_dialogue_turn_R	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_turn_R.girl013_01_house_dialogue_turn_R'	
+7	思考-开始	sequence	girl013_01_house_dialogue_think_strat	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_think_strat.girl013_01_house_dialogue_think_strat'	
+8	思考-循环	sequence	girl013_01_house_dialogue_think_loop	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_think_loop.girl013_01_house_dialogue_think_loop'	
+12	思考-结束	sequence	girl013_01_house_dialogue_think_end	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_think_end.girl013_01_house_dialogue_think_end'	
+13	肯定	sequence	girl013_01_house_dialogue_sure	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_sure.girl013_01_house_dialogue_sure'	
+14	否定	sequence	girl013_01_house_dialogue_deny02	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_deny02.girl013_01_house_dialogue_deny02'	
+15	打招呼	sequence	girl013_01_house_dialogue_greet	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_greet.girl013_01_house_dialogue_greet'	
+16	开心	sequence	girl013_01_house_dialogue_satisfy	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_satisfy.girl013_01_house_dialogue_satisfy'	
+17	惊讶	sequence	girl013_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_amaze.girl013_01_house_dialogue_amaze'	
+18	待机2-开始	sequence	girl013_01_house_dialogue_stand02_start	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_stand02_start.girl013_01_house_dialogue_stand02_start'	
+19	待机2-循环	sequence	girl013_01_house_dialogue_stand02_loop	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_stand02_loop.girl013_01_house_dialogue_stand02_loop'	
+20	待机2-结束	sequence	girl013_01_house_dialogue_stand02_end	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_stand02_end.girl013_01_house_dialogue_stand02_end'	
+21	讲述	sequence	girl013_01_house_talk01	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_talk01.girl013_01_house_talk01'	
+22	感谢-戳手指	sequence	girl013_01_house_thank01	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_thank01.girl013_01_house_thank01'	
+23	依靠站立抱单臂	sequence	girl013_01_house_lean_stand01	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_lean_stand01.girl013_01_house_lean_stand01'	
+24	沙发坐	sequence	girl013_01_house_sofa_sit01	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_sofa_sit01.girl013_01_house_sofa_sit01'	
+25	吧台坐（有咖啡杯）	sequence	girl013_01_house_stool_sit01	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_stool_sit01.girl013_01_house_stool_sit01'	
+26	拍照	sequence	girl013_01_house_shot_idle01	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_shot_idle01.girl013_01_house_shot_idle01'	
+27	打叉叉	sequence	girl013_01_house_dialogue_deny	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_deny.girl013_01_house_dialogue_deny'	
+28	躺	sequence	girl013_01_house_bed_sleep01	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_bed_sleep01.girl013_01_house_bed_sleep01'	
+29	合掌开心-前	sequence	girl013_01_house_dialogue_satisfy02_start	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_satisfy02_start.girl013_01_house_dialogue_satisfy02_start'	
+30	合掌开心-循环	sequence	girl013_01_house_dialogue_satisfy02_loop	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_satisfy02_loop.girl013_01_house_dialogue_satisfy02_loop'	
+31	合掌开心-后	sequence	girl013_01_house_dialogue_satisfy02_end	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_satisfy02_end.girl013_01_house_dialogue_satisfy02_end'	
+32	戳脸思考	sequence	girl013_01_house_think	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_think.girl013_01_house_think'	
+					
+					
+					
+					
+97	左转	sequence	girl013_01_house_dialogue_turn_L	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_turn_L.girl013_01_house_dialogue_turn_L'	
+98	右转	sequence	girl013_01_house_dialogue_turn_R	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_turn_R.girl013_01_house_dialogue_turn_R'	
+99	呼吸叠加素材	sequence	girl013_01_house_dialogue_Tpose	AnimSequence'/Game/Characters/Girl/girl013_01/Anim/house/girl013_01_house_dialogue_Tpose.girl013_01_house_dialogue_Tpose'	
+100	一次思考	custom_seq	7;8;12		
+101	一次待机2	custom_seq	18;19;20		
+102	思考循环	custom_loop_last	7;8		
+103	待机2循环	custom_loop_last	18;19		
+104	一次合掌	custom_seq	29;30;31		
+105	合掌循环	custom_loop_last	29;30		

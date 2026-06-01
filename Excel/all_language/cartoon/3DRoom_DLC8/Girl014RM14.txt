@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，要喝杯茶休息一下吗？	分析員，要喝杯茶休息一下嗎？	分析員、少し休憩にお茶でもしませんか？	분석가, 차 마실래요?	Adjutant, would you like some tea?						0	
+page1.2	啊没错，正想去呢。	啊沒錯，正想去呢。	ああ、そうしよう。	좋아요, 안 그래도 마시려던 참이었어요.	Ah, sure. I was just about to take a break.						0	
+page1.3	走，一起吧。	走，一起吧。	さあ、一緒に行こうか。	그럼 같이 가요.	Let's go together.						0	
+page1.4	分析员，你刚刚拿杯子的那只手臂，抬起的角度比平时低了，看起来是肌肉紧张。	分析員，你剛剛拿杯子的手臂，抬起的角度比平常低了，看起來是肌肉緊張。	分析員、カップを持つ手の角度がいつも低くなっています、筋肉が凝っているのでは。	분석가, 방금 컵을 든 팔을 평소보다 낮은 각도로 들어 올렸는데 근육이 긴장한 것 같아요.	Adjutant, it seems like your arm was at a lower angle than normal when you picked up the cup just now. It looks like your muscles are tense.						0	
+page1.5	要不要来试试朔州地区的传统推拿，对放松肌肉很有用的。	要不要來試試朔州地區的傳統推拿，對放鬆肌肉很有用的。	朔州の本格マッサージを試してみませんか？リラックスできると思います。	삭주 지역의 전통 마사지를 받아보지 않을래요? 근육을 풀어주는 데 매우 효과가 좋아요.	Would you like to try a traditional Shuozhou massage? It's great for relaxing your muscles.						0	
+page1.6	朔州传统推拿？辰星你竟然掌握了这么古老的技艺？	朔州傳統推拿？辰星你竟然掌握了這麼古老的技藝？	朔州の本格マッサージ？辰星、そんな特技があったのか？	삭주 전통 마사지? 이젠 그런 전통적인 것도 마스터했다고요?	A traditional Shuozhou massage? Chenxing, do you really know how to use those ancient techniques?						0	
+page1.7	我之前在家里的藏书阁找到了一本古书，上面对此有着非常详尽的记载。	我之前在家裡的藏書閣找到了一本古書，上面對此有著非常詳盡的記載。	この前自宅の書庫から古い本を一冊見つけて、詳しく書かれていました。	제가 전에 살던 집에 있는 서재에서 이에 대한 상세한 설명이 담긴 고서를 발견한 적이 있어요.	I found an ancient book in the library at my house before. It had extremely detailed records on the process.						0	
+page1.8	等等？我该不会是你实践这套技艺的第一个对象吧？	等等？我該不會是你實踐這套技藝的第一個對象吧？	待てよ？まさかと思うが、私は最初の実験台じゃないだろうな？	잠깐, 설마 제가 수성의 마사지를 받는 첫 상대는 아니겠죠?	Wait— I won't be the first person you practice on, right?						0	
+page1.9	请放心，我已经记住了那本书上的每一个字，绝对不会出错的。	請放心，我已經記住了那本書上的每一個字，絕對不會出錯的。	ご安心ください。本の内容は完全に覚えていますから、絶対に失敗しません。	걱정 마세요. 그 책을 통달할 정도로 읽었으니 절대 실수하지 않을 거예요.	Don't worry. I memorized every word in that book. I won't make any mistakes.						0	
+page1.10	在接下来的半小时内，我拼命忽略身上像挠痒痒一样的力道。告诫自己是男人就要忍住，绝不能笑，毕竟不能辜负辰星的好意。	在接下來的半小時內，我拼命忽略身上像搔癢一樣的力道。告誡自己是男人就要忍住，絕不能笑，畢竟不能辜負辰星的好意。	その後30分間、体中を細かくまさぐられ、私は男として笑ったり辰星の好意を裏切ってはならないと必死に自分に言い聞かせ続けた。	그 후 30분 동안 난 몸의 간지러움을 힘껏 참아냈다. 남자라면 참아야 한다고, 절대 웃으면 안 된다고, 수성의 기대에 부응해야 한다고…	Over the next half hour, I tried my best to ignore the ticklish sensations all over my body. As a man, I warned myself to hold my laughter in no matter what. After all, I couldn't disappoint Chenxing.						0	
+page1.11	分析员，感觉如何？	分析員，感覺如何？	分析員、いかがですか？	분석가, 느낌 어때요?	Adjutant, how do you feel?						0	
+page1.12	唉……辰星，你以后还是只在我一个人身上实践你的推拿技艺吧。	唉……辰星，你以後還是只在我一個人身上實踐你的推拿技藝吧。	はあ……辰星、今後そのマッサージは私以外には試さないでくれ。	흠… 앞으로 저 말고는 다른 사람에게 해주지 마세요.	Ah... Chenxing, you should only practice giving massages on me from now on.						0	
+page1.13	至于这门技艺的要领，我想我应该已经掌握一二了。	至於這門技藝的要領，我想我應該已經掌握一二了。	私も要領は大体分かったから。	그나저나 저도 마사지 요령을 어느 정도 익힌 것 같아요.	I think I have a pretty good understanding of the basics now, too.						0	
+page1.14	下次，换我来帮你放松吧。	下次，換我來幫你放鬆吧。	今度は私がやってあげよう。	다음에는 제가 몸을 풀어줄게요.	Next time, I'll help you relax.						0	

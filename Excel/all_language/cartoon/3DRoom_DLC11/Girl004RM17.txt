@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	返回基地的时候，我看到小老师站在过道上盯着通讯终端发呆。	返回基地的時候，我看到小老師站在走道上盯著通訊終端發呆。	寮に戻る途中で、フリティア先生が廊下で通信端末を眺めながらポツンと立ち尽くしているのを見かけた。	숙소로 돌아가는 길에, 프티야가 복도에서 통신 단말기를 바라보며 멍하니 서있는 걸 보았다.	When I returned to the Base, I noticed Fritia standing in the hallway, staring at her comms terminal.						0	
+page1.2	去问问是什么情况吧。	去問問是什麼情況吧。	何があったのか聞いてみよう。	가서 물어보자.	Better go check on her.						0	
+page1.3	芙提雅在看什么？	芙提雅在看什麼？	フリティア、なにを見ているんだ？	프티야, 뭐 보고 있어?	Fritia, what are you looking at?						0	
+page1.4	是分析员啊，我在统计聊天记录。	是分析員啊，我在統計聊天記錄。	ああ、分析員。通信ログを集計しているんだ。	분석가구나, 난 지금 채팅 기록을 정리하고 있어.	Oh! Hi, Adjutant! I'm analyzing chat logs.						0	
+page1.5	聊天记录？	聊天記錄？	通信ログ？	채팅 기록?	Chat logs?						0	
+page1.6	嗯啊，和分析员的聊天记录。	嗯啊，和分析員的聊天記錄。	うん、分析員との通信ログだよ。	응, 분석가랑 주고받은 채팅 기록 말이야.	Uh-huh! The logs of our chats.						0	
+page1.7	芙提雅统计这个做什么？	芙提雅統計這個做什麼？	そんなもの集計してどうするんだ？	그걸 왜 정리해?	But why analyze them?						0	
+page1.8	这样方便直观看出分析员都什么时候找我聊天，也方便芙提雅老师合理安排时间。	這樣方便直觀看出分析員都什麼時候找我聊天，也方便芙提雅老師合理安排時間。	こうすると、分析員がどういう時間帯に私に話しかけているのかがわかるんだ。これに合わせて、スケジュールを調整すると……	이렇게 하면 분석가가 나한테 언제 말을 거는지 한눈에 볼 수 있고 프티야도 시간을 더 잘 배정할 수 있게 되거든.	It helps me figure out the time slots you usually message me, so I can optimize my calendar accordingly.						0	
+page1.9	……以免分析员需要芙提雅老师的时候找不到！	……以免分析員需要芙提雅老師的時候找不到！	……分析員がいつでもフリティア先生と話せるようにできるからね！	… 분석가가 프티야를 필요할 때 찾지 못하는 일이 없도록!	...Just to make sure I'm always available when you need me!						0	
+page1.10	芙提雅真是可靠。	芙提雅真是可靠。	さすがだな、頼りになるよ。	프티야는 정말 믿음직스럽네.	I know I can always count on you, Fritia.						0	
+page1.11	嘿嘿，是吧。	嘿嘿，是吧。	へへ、そうでしょう？	헤헤, 그렇지?	Hehe, you bet!						0	
+page1.12	分析员需要芙提雅老师统计下你的聊天记录吗？也帮你安排下时间！	分析員需要芙提雅老師統計下你的聊天記錄嗎？也幫你安排下時間！	分析員の通信ログも、先生が集計してあげよっか？ついでにスケジュールを調整してあげるよ！	분석가도 필요하면 내가 채팅 기록을 정리해 줄까? 시간 배정을 도와줄게!	Do you want me to sort through your other chats, Adjutant? I could help optimize your calendar too!						0	
+page1.13	……我，我就算了吧。	……我，我就算了吧。	……いや、私はいいよ。	… 난 괜찮아.	...Uh, thank you, but I think I'll pass.						0	
+page1.14	很难想象我的聊天记录全部统计出来，会形成怎样可怕的图表。	很難想像我的聊天記錄全部統計出來，會形成怎樣可怕的圖表。	私の通信ログを集計したら、どんな恐ろしいグラフになるのか、想像するだけでも怖くなる。	내 채팅 기록을 전부 정리한다면 어떤 무서운 그래프가 나올지 상상도 못하겠네.	I couldn't even imagine what kind of terrifying charts all of my chat logs would produce.						0	

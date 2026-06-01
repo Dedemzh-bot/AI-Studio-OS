@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	好奇怪。	好奇怪。	おかしいぞ。	이상해.	How weird.						0	
+page1.2	有什么问题吗，伊切尔？	有什麼問題嗎，伊切爾？	なにがおかしいんだ？イチェル。	무슨 일이야, 이첼?	Is something wrong, Eatchel?						0	
+page1.3	我告诉别人自己的姓氏是古斯塔夫的时候，大家好像都很惊讶。	我告訴別人自己的姓氏是古斯塔夫的時候，大家好像都很驚訝。	苗字を訊かれた時にグスタフって答えると、みんなびっくりするんだ。	내 성이 구스타프라고 알려주면 다른 사람들이 놀라는 것 같더라고.	When I tell people my last name is Gustav, they all seem really surprised.						0	
+page1.4	嗯，大概是因为整片大陆上就只有你们一家是这个姓氏吧。	嗯，大概是因為整片大陸上就只有你們一家是這個姓氏吧。	あ～、それはたぶん、この大陸でその苗字を使っているのは、君たちの家族だけだからだよ。	아마 대륙 전체를 통틀어 이첼의 가족만 그 성을 가지고 있어서 그럴 거야.	Well, it's probably because your family is the only one on the whole continent with that last name.						0	
+page1.5	呜？！真的吗？为什么？	嗚嗚嗚？！真的嗎？為什麼？	んん！？ホント？どうして？	아?! 정말? 왜 그럴까?	Eh!? Really? Why?						0	
+page1.6	我没记错的话，你爷爷没有姓氏，所以你们家族将他的名字传承了下来。	我沒記錯的話，你爺爺沒有姓氏，所以你們家族將他的名字傳承了下來。	確か、君のおじいさんは苗字がなかったから、君の家族は彼の名前を苗字として引き継いだんだっけ。	내 기억이 틀리지 않다면, 이첼의 할아버지가 성이 없었고, 그래서 이첼의 가족들이 할아버지의 이름을 계승해 왔던 것 같아.	If I remember correctly, your grandpa didn't have a last name. So your family used his first name instead.						0	
+page1.7	爷爷……	爺爺……	おじいさん……	할아버지…	Grandpa...						0	
+page1.8	毕竟是那位“第一公民”，其他人感到惊讶也很正常。	畢竟是那位「第一公民」，其他人感到驚訝也很正常。	あの「第一公民」の名前を聞けば、みんなが驚くのも無理ないよ。	확실히 할아버지는 '제1시민'이시니 다른 사람이 듣고 놀라는 게 이상한 건 아니야.	He was known as "Leader Gustav" after all — it's normal for people to be surprised.						0	
+page1.9	第一公民，也就是出门时候走最前面，聚会时候第一个发言。	第一公民，也就是出門時候走最前面，聚會時候第一個發言。	第一公民って、出かけるときは一番前を歩いて、集会のときも最初に発言しなきゃいけないよね？	제1시민이라는 건 밖으로 나갈 때 제일 먼저 앞장서있는 사람, 혹은 모임을 가질 때 가장 먼저 모임에서 말을 하는 사람을 말하는 거지?	Being the leader means walking in the very front when you go out and being the first to speak at big events.						0	
+page1.10	爷爷带我坐永磁列车时候也要乖乖排队。	爺爺帶我坐永磁列車時候也要乖乖排隊。	でも、おじいさんと永磁列車に乗った時は、ちゃんと列に並んでたぞ。	할아버지는 열차에 타실 때 항상 줄을 지켜서 서곤 했어.	But when Grandpa took me on the hard-maglev train, we still had to wait in line.						0	
+page1.11	所以伊切尔觉得第一公民没什么厉害的。	所以伊切爾覺得第一公民沒什麼厲害的。	だから、第一公民は別にすごくないと思うぞ。	그래서 난 제1시민이 대단하다고 생각하지 않아.	We didn't go to the front, so what's so great about being the leader?						0	
+page1.12	……	……	……	…	...						0	
+page1.13	伊切尔，或许这才是他厉害的地方吧。	伊切爾，或許這才是他厲害的地方吧。	イチェル、それこそがあの人のすごいところなんだよ。	어쩌면 이런 게 이첼의 매력일지도 모르지…	Eatchel, maybe that was what made him great.						0	

@@ -1,0 +1,22 @@
+编号	备注	道具类型	道具参数列表	旋转	蓝图
+Id	Common	ClassName	Args	Rotate	BP_Path
+1	机枪1级	turrets	{300,10101}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C
+2	机枪2级	turrets	{400,10101}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C
+3	机枪3级	turrets	{500,10101}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C
+4	榴弹炮1级	howitzer	{120,10107}	180	/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C
+5	榴弹炮2级	howitzer	{150,10107}	180	/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C
+6	榴弹炮3级	howitzer	{180}	180	/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C
+7	血瓶1级	hp	{222}		/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C
+8	血瓶2级	hp	{223}		/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C
+9	血瓶3级	hp	{224}		/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C
+10	能量瓶1级	energy	{225}		/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C
+11	能量瓶2级	energy	{226}		/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C
+12	能量瓶3级	energy	{227}		/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C
+13	榴弹炮分支1	howitzer	{180,10110}	180	/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C
+14	榴弹炮分支2	howitzer	{180,10111}	180	/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C
+15	激光炮台	turrets	{200,10112}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretLaser_ForbidZone.TurretLaser_ForbidZone_C
+16	激光炮台	turrets	{250,10112}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretLaser_ForbidZone.TurretLaser_ForbidZone_C
+17	激光炮台	turrets	{300,10112}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretLaser_ForbidZone.TurretLaser_ForbidZone_C
+18	激光炮台分支1	turrets	{300,10116,3500415}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretLaser_ForbidZone.TurretLaser_ForbidZone_C
+19	机枪3级分支1	turrets	{500,10101,3500416}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C
+20	机枪3级分支2	turrets	{500,10101,3500418}	180	/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C

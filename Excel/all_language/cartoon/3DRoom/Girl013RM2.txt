@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员你好呀，我来吃饭，今天餐厅有什么好吃的呀？	分析員你好呀，我來吃飯，今天餐廳有什麼好吃的呀？	分析員こんにちは。ご飯を食べに来たよ。今日のメニューは美味しいものある？	안녕하세요, 분석가님. 전 방금 밥 먹으러 왔어요. 오늘 메뉴는 뭐예요?	Hey, Adjutant. I'm here to eat. What's good in the dining hall today?						0	
+page0.2	似乎只是普通的营养配餐。	似乎只是普通的營養餐。	ただの栄養のいい給食だよ。	그냥 영양분에 맞게 나온 일반식인 것 같아.	Seems like it's all just the same old healthy meals.						0	
+page0.3	哦，那我先去下盥洗室，一会儿回来。	哦，那我先去下盥洗室，一會兒回來。	ふーん、じゃあ先にトイレ行ってくるね。すぐ戻る。	아, 그럼 일단 화장실을 좀 다녀와야겠어요.	Oh, then I'll head to the bathroom first. Be right back.						0	
+aside01	五分钟后	五分鐘後	5分後	5분 뒤	Five minutes later						0	
+page0.4	分析员你好呀，我来吃饭，今天餐厅有什么好吃的呀？	分析員你好呀，我來吃飯，今天餐廳有什麼好吃的呀？	分析員こんにちは。ご飯を食べに来たよ。今日のメニューは美味しいものある？	안녕하세요, 분석가님. 전 방금 밥 먹으러 왔어요. 오늘 메뉴는 뭐예요?	Hey, Adjutant. I'm here to eat. What's good in the dining hall today?						0	
+page0.5	……只是普通的营养配餐……	……只是普通的營養餐……	……ただの栄養のいい給食。	… 그냥 영양분에 맞게 나온 일반식…	...The same old healthy meals...						0	
+page0.6	哦，那我先去下盥洗室，一会儿回来。	哦，那我先去下盥洗室，一會兒回來。	ふーん、じゃあ先にトイレ行ってくるね。すぐ戻る。	아, 그럼 일단 화장실을 좀 다녀와야겠어요.	Oh, then I'll head to the bathroom first. Be right back.						0	
+page0.7	分析员你好呀，我来吃饭，今天餐厅有什么好吃的呀？	分析員你好呀，我來吃飯，今天餐廳有什麼好吃的呀？	分析員こんにちは。ご飯を食べに来たよ。今日のメニューは美味しいものある？	안녕하세요, 분석가님. 전 방금 밥 먹으러 왔어요. 오늘 메뉴는 뭐예요?	Hey, Adjutant. I'm here to eat. What's good in the dining hall today?						0	
+page0.8	……你是什么游戏的NPC吗！	……你是什麼遊戲的NPC嗎！	……ゲームのNPCか！	…무슨 게임 NPC도 아니고!	...Are you pretending to be an NPC or something!?						0	
+page0.9	……咦，难道我刚才忘记了……对不起！我这就去取餐！	……咦，難道我剛才忘記了……對不起！我這就去取餐！	……あれ、もしかして忘れ……ごめん！今ご飯取ってくるね！	…아, 깜빡했나 보네요… 죄송해요! 밥 가지러 갈게요!	...Eh? Did I forget just now...? Sorry! I'll go grab some food!						0	
+aside02	十分钟后	十分鐘後	10分後	10분 뒤	Ten minutes later...						0	
+page0.10	分析员你好呀，你来吃饭吗，今天餐厅只有普通的营养配餐呢，味道并不是很惊艳。	分析員你好呀，你來吃飯嗎，今天餐廳只有普通的營養餐呢，味道並不是很驚艷。	分析員こんにちは、ご飯を食べに来たの。今日は普通の給食しかないね、味も普通だね。	안녕하세요, 분석가님. 밥 먹으러 오신 거예요? 오늘은 그냥 영양분에 맞게 나온 일반식인 것 같아요. 맛은 그저 그래요.	Hey, Adjutant. Are you here to eat? The dining hall just has the same old healthy meals today. The flavor isn't anything special.						0	
+page0.11	……	……	……	…	...						0	

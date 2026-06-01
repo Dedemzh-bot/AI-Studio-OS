@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	烟花表演还挺有趣的，不过总感觉少了点什么。	煙火表演還挺有趣的，不過總覺得少了點什麼。	花火大会は面白いけど、なんだか物足りないわね。	불꽃놀이는 재미있었는데 뭔가 빠진 것 같아.	The fireworks show was quite fun, but it felt like something was missing.						0	
+choice01	少了热闹的游玩夜市？	少了熱鬧的遊玩夜市？	賑やかな祭りをご所望かい？	번화한 야시장이 없어졌다고?	Was it the lively night market?						0	
+page1.1	再往前面走走应该就是烟花表演的游玩夜市了。	再往前面走走應該是煙火表演的遊玩夜市了。	もう少し歩いたらお祭り会場につくはずだ。	앞으로 더 가면 불꽃놀이 야시장이 있을 거야.	Just a bit further and we should reach the night market for the show.						0	
+page1.2	芬妮，你的手突然握得好紧。	芬妮，你的手突然握得好緊。	ファニー、手を握る力が急に強くなったんだけど。	페니, 네 손이 갑자기 꽉 쥐었어.	Fenny, why are you suddenly gripping my hand harder?						0	
+page1.3	还问！本小姐不握紧一点和你走散了怎么办？	還問！本小姐不握緊一點跟你走散了怎麼辦？	うるさいわね！強く握っとかないと、あんたとはぐれちゃったらどうするのよ？	묻기는? 이 몸이 조금 더 붙잡지 않고 당신과 헤어지면 어떻게 할거야?	Need you ask! If I don't hold on tight, what if we get separated?						0	
+page1.4	分析员也要一直这样牢牢地牵住本小姐哦！	分析員也要一直這樣牢牢地牽住本小姐哦！	分析員も、あたしから手を離さないでよね！	분석가도 이 몸을 계속 이렇게 꽉 잡아줘!	Adjutant, you must also keep holding on to me like this!						0	
+choice02	少了美味的糖果小吃？	少了美味的糖果小吃？	おいしいお菓子をご所望かい？	맛있는 사탕이 빠진 간식?	Was it the yummy candy treats?						0	
+page2.1	分析员快看！这里有卖双棒糖果！	分析員快看！這裡有賣雙棒糖果！	見て、分析員！ダブルペロペロキャンディーよ！	분석가 빨리 봐! 여기 쌍봉 캔디 팝니다!	Adjutant, look! They sell double-bar lollipops here.						0	
+page2.2	看起来像是两个并排连在一起的棒棒糖。	看起來像是兩個並排連在一起的棒棒糖。	2つのキャンディーを繋いだみたいな形状だな。	두 개가 나란히 붙어 있는 막대사탕처럼 보이네	It looks like two lollipops stuck together.						0	
+page2.3	快来，分析员，我们两个一人一半！	快來，分析員，我們兩個一人一半！	来て、分析員！半分こするわよ！	어서 와, 분석가, 우리 둘이 반반씩 먹어!	Come on, Adjutant, let's share one!						0	

@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	棚户区地形复杂，到处都可作为埋伏点。	棚戶區地形複雜，到處都可作為埋伏點。	スラムエリアの地形は非常に複雑で、待ち伏せされる可能性が高い。	판자촌은 지형이 복잡해서 언제 어디서든 매복을 조심해야 해.	The camps have a complex terrain, with potential ambush points left, right, and center.						0	
+2	提高警惕。	提高警惕。	警戒を怠らないように。	경계를 늦추지 마.	Be more vigilant.						0	

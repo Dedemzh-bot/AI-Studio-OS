@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	应邀，来到了里芙的住处。	應邀，來到了里芙的住處。	リフの部屋に誘われた。	초청을 받아 리브의 숙소에 왔다.	Lyfe invited you over to her place.						0	
+page1.2	playername，我学到了一个可以帮你迅速入眠的妙招。	playername，我學到了一個可以幫你快速入眠的妙招。	playername。すぐ眠りにつけるコツを聞いたんだ。	playername, 내가 너의 빠른 잠에 도움을 줄 수 있는 묘수를 하나 배웠다.	playername, I've learned a trick that can help you fall asleep quickly.						0	
+page1.3	你背对着坐到我前面。然后躺下。	你背對著坐到我前面。然後躺下。	背中を私に向けて、そこに座って、後ろ向きに倒れてみてくれ。	너는 내 앞에 등을 돌리고 앉아라. 그다음에 누워.	Could you sit with your back to me and lie down?						0	
+page1.4	里芙用双手托住我的头，缓缓向下放，接着我的后脑感受到充满弹性而不失柔软的挤压感。	里芙用雙手托住我的頭，緩緩向下放，接著我的後腦感受到充滿彈性而不失柔軟的擠壓感。	リフに両手で頭を支えて貰いながら、私はゆっくりと後ろへ倒れた。すると、後頭部が柔らかくて弾力のあるものに触れた。	리브는 두 손으로 내 머리를 받치고 천천히 아래로 내려갔고, 이어서 내 뒷머리는 탄력이 넘치면서도 부드러운 압착감을 느꼈다.	Lyfe cradled your head with both hands, gently easing it down, and then your head rested against something soft yet supportive.						0	
+page1.5	啊……这不是！	啊……這不是！	こ……これは……！	아… 이건 아니다!	Ah, are these...!?						0	
+page1.6	你从哪儿学到的这些啊……	你從哪裡學到的這些啊……	こんなの……どこで学んだんだ？	그런 걸 어디서 배웠어…	Where did you learn all this?						0	
+page1.7	那位升格体偶像发给我的《心动花招指南》。	那位升格體偶像發給我的《心動花招指南》。	あの昇格者のアイドルが『トキメキテクニック大全』というやつを送ってくれたんだ。	그 승격체 아이돌이 보내준 심쿵 수작 안내서.	From the "Loverush Tricks Handbook" — that transcendent idol gave it to me.						0	
+page1.8	居然还有这种东西……这还怎么入眠啊……	居然還有這種東西……這還怎麼入眠啊……	そんなものまであるのか……これでどうやって寝ろっていうんだ……	이런 게 있다니… 그러면 어떻게 잠이 오지…	Do they just have a handbook for everything...? How's anyone supposed to fall asleep like this?						0	
+page1.9	稍等一下。	稍等一下。	ちょっと待って。	조금만 기다려.	Just a moment.						0	
+page1.10	她微凉的手指爬上我的太阳穴，凉意倒是让紧张瞬时消散。	她微涼的手指爬上我的太陽穴，涼意倒是讓緊張瞬間消散。	ひんやりとした指が私のこめかみに触れた。その冷たさに、私の緊張は一気に落ち着いた。	그녀의 약간 차가운 손가락이 나의 관자놀이에 올라가자, 차분한 기운이 오히려 긴장을 한순간에 풀었다.	Her cool fingers brushed your temples, the chill instantly easing your tension.						0	
+page1.11	我会稍微用些力气。这样呢……	我會稍微用些力氣。這樣呢……	少し力を入れるぞ。これでどうだ？……	힘을 좀 쓰겠습니다. 글쎄…	I'll apply a little pressure. How do you feel now?						0	
+page1.12	很舒服。	很舒服。	気持ちいいよ。	편하네.	It feels really good.						0	
+page1.13	分析员，能与你有这样一段不被打扰的独处时光，我真的很开心。	分析員，能與你有這樣一段不被打擾的獨處時光，我真的很開心。	分析員。誰にも邪魔されずに、お前と一緒にゆっくり過ごせて、とても嬉しかった。	분석가, 방해받지 않는 혼자만의 시간을 가질 수 있어서 정말 기뻐	Adjutant, I'm really happy that I get to have some time alone with you these days.						0	
+page1.14	考虑着去哪里约会，约会的时候做点什么，就像一对普通的情侣。	考慮去哪裡約會，約會的時候做點什麼，就像一對普通的情侶。	どこでデートするか、デート中になにをするのかを考えるのは、まるで恋人のようだった。	어디서 데이트를 할지, 데이트할 때 무엇을 할지 고민하는 평범한 커플 같다.	Planning where to go and what to do on our dates — just like any other couple.						0	
+page1.15	虽然我知道分析员不是沉迷温柔乡的人，这里只是暂时的休憩。	雖然我知道分析員不是沉迷溫柔鄉的人，這裡只是暫時的休憩。	もちろん、お前は平和ボケするような人間じゃない。ここでは単に一時的な休息を取っているだけなのも知っている。	분석가가 부드러운 향에 푹 빠진 사람은 아니라는 걸 알지만 이곳은 잠시 휴식할 뿐이다.	I know you're not one to indulge in the pleasures of romance, and our stay here is just a brief respite.						0	
+page1.16	只是人如果绷太紧就会断掉，这种休憩能帮我们恢复弹性，这点还是分析员教会我的。	只是人如果繃太緊就會斷掉，這種休憩能幫我們恢復彈性，這點還是分析員教會我的。	だが神経がずっと張り詰めたままではいずれ無理が来てしまう。そういう事態を回避したいなら、休むことも大切。そう教えてくれたのも分析員だ。	다만 사람이 너무 당기면 끊어지는데 이런 휴식이 탄력 회복에 도움이 된다는 건 분석가가 가르쳐준 거야.	But as you've taught me — stretching too tightly for too long can break even the toughest of us. This kind of respite helps us bounce back.						0	
+page1.17	弹性？哈——就像膝枕吗？	彈性？哈——就像膝枕嗎？	無理が来る、か。はは……だから膝枕してくれたのか？	신축성? 하… 무릎베개 같은 건가?	Bounce? Ha — like how this lap pillow feels?						0	
+page1.18	从这个视角看不见里芙的脸，却能感觉到她笑了。	從這個視角看不見里芙的臉，卻能感覺到她笑了。	この角度からはリフの顔がよく見えない。でも、なぜか彼女も笑っているような気がした。	이 시점에서는 리브의 얼굴은 보이지 않지만, 그녀가 웃는 것을 느낄 수 있다.	Though you couldn't see Lyfe's face from this angle, you felt her smiling.						0	
+page1.19	就像膝枕。	就像膝枕。	そうだ。	무릎 베개 같아.	Exactly.						0	
+page1.20	当然，恢复弹性的方式还有别的。	當然，恢復彈性的方式還有別的。	もちろん、他の方法もあると思う。	물론 탄력을 회복하는 방식은 또 있어.	Of course, there are other ways to unwind.						0	
+page1.21	需要你来教我。	需要你來教我。	それを、ぜひ私に教えてくれ。	네가 가르쳐줘야 해.	And you'll have to teach me some.						0	
+page1.22	门外传来一阵急促的敲门声。	門外傳來一陣急促的敲門聲。	誰かが必死にドアを叩いてる音がした。	문 밖에서 다급하게 문을 두드리는 소리가 한바탕 들려왔다.	A sudden rapid knocking at the door interrupted you.						0	
+page1.23	是你叫了客房服务吗？	是你叫了客房服務嗎？	ルームサービスを呼んだのか？	룸서비스는 네가 시킨거야?	Did you order room service?						0	
+page1.24	不用理，我们继续研究……	不用理會，我們繼續研究……	いや、気にするな。こっちに集中しろ。	아랑곳하지 말고, 우리는 계속 연구…	Ignore it. Let's keep focusing on what we were doing...						0	

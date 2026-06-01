@@ -1,0 +1,4 @@
+ID	注释	资源(1:视频 2:spine)	背景音乐
+ID	comment	loginscreen	music
+1	默认	{2,'/Game/Plot/CgPlot/Login_Plots/PoltAsset/Scene/login_bg001.login_bg001'}	BGM|UI|Login
+--2	DLC1	{2,'/Game/Plot/CgPlot/Dlc1_Plots/PoltAsset/Scene/login_dlc01_01.login_dlc01_01'}	BGM|UI|DLC01_Theme

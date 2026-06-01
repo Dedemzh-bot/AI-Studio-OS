@@ -1,0 +1,41 @@
+﻿池组id	注释	池组名	组icon（空着不显示）	池组角标（剩余时间自动读取，1庆典，2定向，3新手）	蛋池id（关联gacha.txt)
+poolid	Comment	poolname	poolicon	poolmark	gachaid
+1	胧嫣	card.girl241_suits	130540004		199
+2	胧嫣	card.girl241_suits	130540004		200
+3	胧嫣	card.girl241_suits	130540004		99
+4	胧嫣	card.girl241_suits	130540004		100
+5	小克	card.girl221_suits	130460004		175
+6	小克	card.girl221_suits	130460004		176
+7	小克	card.girl221_suits	130460004		75
+8	小克	card.girl221_suits	130460004		76
+9	米娅	card.girl231_suits	130500004		187
+10	米娅	card.girl231_suits	130500004		188
+11	米娅	card.girl231_suits	130500004		87
+12	米娅	card.girl231_suits	130500004		88
+13	安卡	card.girl013_suits	130510006	1	191
+14	安卡	card.girl013_suits	130510006	1	192
+15	安卡	card.girl013_suits	130510006	1	91
+16	安卡	card.girl013_suits	130510006	1	92
+17	茉莉安	card.girl054_suits	130520004	1	193
+18	茉莉安	card.girl054_suits	130520004	1	194
+19	茉莉安	card.girl054_suits	130520004	1	93
+20	茉莉安	card.girl054_suits	130520004	1	94
+21	芬妮-澄意	card.girl084_suits	130470004		179
+22	芬妮-澄意	card.girl084_suits	130470004		180
+23	芬妮-澄意	card.girl084_suits	130470004		79
+24	芬妮-澄意	card.girl084_suits	130470004		80
+25	瑟瑞斯-悠游	card.girl133_suits	130480004		181
+26	瑟瑞斯-悠游	card.girl133_suits	130480004		182
+27	瑟瑞斯-悠游	card.girl133_suits	130480004		81
+28	瑟瑞斯-悠游	card.girl133_suits	130480004		82
+29	心之回响（选2）	gacha.diyup3		2	195
+30	心之回响（选2）	gacha.diyup3		2	196
+31	心之回响（选2）	gacha.diyup3		2	95
+32	心之回响（选2）	gacha.diyup3		2	96
+33	心之回响（选1）	gacha.diyup3		2	197
+34	心之回响（选1）	gacha.diyup3		2	198
+35	心之回响（选1）	gacha.diyup3		2	97
+36	心之回响（选1）	gacha.diyup3		2	98
+37	常驻池	gacha.gacha4			1
+38	常驻池	gacha.gacha4			2
+39	新手池	gacha.gacha5		3	3

@@ -1,0 +1,7 @@
+﻿ID(和level.txt ID唯一)	备注	关卡类型(0、通常关,1、Boss关,2、st剧情,3、重要,4、爬塔关,5、Boss挑战关,6、联机,7、ep剧情)	地图ID	战斗逻辑配置ID	解锁条件(1：账号等级；2：Level ID，3：是否拥有某道具，4：曜日本专用是否通关xx关卡)	出场怪物信息{{怪物编号,等级(填0不显示等级)}}	怪物强度模板	关卡详情是否显示怪物列表 0或不配显示奖励列表 1显示怪物列表	推荐战力	战斗力增减等级数	队伍规则	首通掉落ID	固定掉落ID	随机掉落ID	UI展示固定物品{{G,D,P,L,N}}	UI展示随机物品{{G,D,P,L,N}}	UI展示首通物品{{G,D,P,L,N}}	Boss概念图	关卡概念图	任务资源
+ID	Comments	Type	MapID	FightID	Condition	Monster	LevelStrength	ShowListType	RecommendPower	RecommendLevelOffset	TeamRuleID	FirstDropID	BaseDropID	RandomDropID	ShowAward	ShowRandomAward	ShowFirstAward	PictureBoss	PictureLevel	TaskPath
+10	第一期单机关卡1	0	9000	1		{{6001302,40}}	4					{1020}	{1034}		{{4,3,1,1,600},{4,3,3,1,6},{5,1,1,1,1}}		{{4,3,2,1,50},{5,1,1,2,1}}		1803038	MultiTask/RandomTest/MultTask_9000.MultTask_9000
+11	第一期单机关卡2	0	9000	1	{{18,10}}	{{6001302,50}}	4					{1002}	{1035}		{{4,3,1,1,600},{4,3,3,1,6},{5,2,1,1,1}}		{{1,8,1,1,1},{4,3,2,1,50},{5,2,1,2,1}}		1803038	MultiTask/RandomTest/MultTask_9001.MultTask_9001
+12	第一期单机关卡3	0	9000	1	{{18,11}}	{{6001302,60}}	4					{1020}	{1034}		{{4,3,1,1,600},{4,3,3,1,6},{5,1,1,1,1}}		{{4,3,2,1,50},{5,1,1,2,1}}		1803038	MultiTask/RandomTest/MultTask_9002.MultTask_9002
+9502	脉冲连袭引导关卡	0	9502	1		{{6001302,40}}	10				7005	{7401}					{{4,3,2,1,20},{4,3,1,1,2000}}		1803038	MultiTask/RandomTest/TowerRush_01/Multi_TowerRush_Guide.Multi_TowerRush_Guide
+60208	进击行动引导关卡	0	60208	1		{{6001302,40}}	10				7005	{7401}					{{4,3,2,1,20},{4,3,1,1,2000}}		1803038	MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60208.Multi_AssaultOps_60208

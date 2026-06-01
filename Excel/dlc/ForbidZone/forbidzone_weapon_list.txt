@@ -1,0 +1,27 @@
+﻿技能ID(最大900)	备注	类型 1轨道武器 2辅助武器	激光样式1-红色 2-绿色 3-蓝色	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	名字key	图标	描述key	描述中的数值	描述备注	升级消耗配置	最大等级(>3 2级分叉)	等级对应的效果Id	默认解锁,默认携带	是否唯一
+Id	Common	Type	LightType	Color	I18n	Icon	Desc	DescValue	DescCommon	CostId	MaxLevel	AbilityList	InitInfo	OnlyOne
+1	电流爆破	1	3	4	online.Forbidzone_WeaponName22	1001327	online.Forbidzone_WeaponDesc22			1	3	{11,12,13}		
+2	重火投射	1	1	4	online.Forbidzone_WeaponName23	1001328	online.Forbidzone_WeaponDesc23			1	3	{21,22,23}		
+3	余焰爆破	1	1	4	online.Forbidzone_WeaponName21	1001326	online.Forbidzone_WeaponDesc21			1	3	{31,32,33}		
+4	精准光束	1	1	4	online.Forbidzone_WeaponName24	1001329	online.Forbidzone_WeaponDesc24			1	3	{41,42,43}		
+5	广面爆破	1	1	4	online.Forbidzone_WeaponName4	1001249	online.Forbidzone_WeaponDesc4			1	4	{51,52,275,276}		
+6	重烈爆破	1	1	4	online.Forbidzone_WeaponName2	1001247	online.Forbidzone_WeaponDesc2			1	4	{61,62,63,274}	{1,1}	
+7	模拟重力	1	1	4	online.Forbidzone_WeaponName5	1001250	online.Forbidzone_WeaponDesc5			1	3	{71,72,73}	{1}	
+8	集束爆破	1	1	4	online.Forbidzone_WeaponName3	1001248	online.Forbidzone_WeaponDesc3			1	3	{81,82,83}		
+9	轨道光束	1	1	4	online.Forbidzone_WeaponName1	1001246	online.Forbidzone_WeaponDesc1			1	3	{91,92,93}		
+10	无人机护卫	2	2	4	online.Forbidzone_WeaponName26	1001331	online.Forbidzone_WeaponDesc26			1	3	{101,102,103}	{1}	1
+11	自动射击台	2	2	4	online.Forbidzone_WeaponName25	1001330	online.Forbidzone_WeaponDesc25			1	3	{111,112,113}		
+12	爆破布雷	2	1	4	online.Forbidzone_WeaponName27	1001332	online.Forbidzone_WeaponDesc27			1	3	{121,122,123}	{1}	
+13	模拟黑洞	2	1	4	online.Forbidzone_WeaponName28	1001333	online.Forbidzone_WeaponDesc28			1	4	{131,132,134,135}		
+14	机枪塔	2	2	4	online.Forbidzone_WeaponName6	1001251	online.Forbidzone_WeaponDesc6			1	4	{141,142,144,145}	{1,1}	
+17	榴弹发射台	2	2	4	online.Forbidzone_WeaponName7	1001252	online.Forbidzone_WeaponDesc7			1	4	{171,172,271,272}		
+18	无缝防护	2	2	4	online.Forbidzone_WeaponName11	1001256	online.Forbidzone_WeaponDesc11			1	3	{181,182,183}		
+19	腐蚀气弹	1	1	4	online.Forbidzone_WeaponName29	1001403	online.Forbidzone_WeaponDesc29			1	4	{191,192,277,278}		
+20	移动重火	1	1	4	online.Forbidzone_WeaponName30	1001404	online.Forbidzone_WeaponDesc30			1	3	{201,202,203}		
+21	空投燃尘弹	1	1	4	online.Forbidzone_WeaponName31	1001405	online.Forbidzone_WeaponDesc31			1	3	{211,212,213}		
+22	激光发射台	2	2	4	online.Forbidzone_WeaponName36	1001406	online.Forbidzone_WeaponDesc36			1	4	{221,222,223,224}	{1}	
+23	切割光束网	2	2	4	online.Forbidzone_WeaponName32	1001407	online.Forbidzone_WeaponDesc32			1	3	{231,232,233}		
+24	无人机炮兵	2	2	4	online.Forbidzone_WeaponName33	1001408	online.Forbidzone_WeaponDesc33			1	4	{241,242,243,244}		
+25	高效补给瓶	2	2	4	online.Forbidzone_WeaponName34	1001409	online.Forbidzone_WeaponDesc34			1	4	{251,252,279,280}		
+26	嘲讽罐罐	2	2	4	online.Forbidzone_WeaponName35	1001410	online.Forbidzone_WeaponDesc35			1	3	{261,262,263}		
+27	弹药补给	2	2	4	online.Forbidzone_WeaponName10	1001255	online.Forbidzone_WeaponDesc10			1	3	{161,162,163}		

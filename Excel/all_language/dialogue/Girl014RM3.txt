@@ -1,0 +1,139 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	一下就变得灰蒙蒙的天空，雨滴丝丝缕缕落下。	一下就變得灰濛濛的天空，雨滴絲絲縷縷落下。	一気に曇った空から、雨粒がパラパラと落ちてきた。	갑자기 하늘이 흐려졌고, 빗줄기가 주룩주룩 내렸다.	The sky was gray as raindrops poured down.						0	辰星好感度剧情
+2	该回去了啊。	該回去了啊。	もう帰らないといけませんね。	돌아갈 시간인가요?	We should head back.						0	辰星好感度剧情
+3	少女脸上浅浅的笑靥慢慢消逝。她怔怔看着屋檐外落下的雨滴，摊开掌心，外面的雨点落在手心的感觉冰冷湿润。	少女臉上淺淺的笑靨慢慢消逝。她怔怔看著屋簷外落下的雨滴，攤開掌心，外面的雨點落在手心的感覺冰冷濕潤。	辰星の笑顔が次第に薄れていく。彼女は軒先に落ちる雨粒をじっと見つめ、手のひらを広げると、雨粒を受け取って、その冷たくて湿った感覚を感じた。	소녀의 얼굴에는 점점 웃음기가 사라졌고, 그녀는 멍하니 처마에서 떨어지는 빗방울을 바라보며 손바닥을 내밀었다. 손바닥 위로 떨어지는 빗방울은 차갑고 축축했다.	The faint smile on her lips gradually vanished. She stared at the rain falling from the eaves blankly. Opening her palm, she felt the cold, wet raindrops on her skin.						0	辰星好感度剧情
+4	这场雨突如其来。像是她读过很多本有趣的故事一样，每本故事都是会有终局的，于是读书的乐趣便在翻到结尾的那一刻戛然而止。	這場雨突如其來。就像她讀過很多本有趣的故事一樣，每本故事都是會有終局的，於是讀書的樂趣便在翻到結尾的那一刻戛然而止。	突然な雨を見ていると、彼女が読んだいろんな本みたいに、どの物語にもいずれ終わりがくると気づく。読書の楽しみも最後のページをめくった瞬間に突然終わってしまう。	갑작스러운 비였다. 마치 그녀가 읽은 수많은 재미있는 이야기들처럼, 모든 이야기는 결말이 있듯, 책을 읽는 재미도 마지막 장을 피는 순간 끝이 난다.	The rain had come suddenly. Just like the countless stories she had read, each one had an ending. The pleasure of reading abruptly concluded when she turned the final page.						0	辰星好感度剧情
+5	而想到这里辰星便明白了一件事……她收回手掌轻轻按住自己的胸口……她不想就这么结束。	而想到這裡辰星便明白了一件事……她收回手掌輕輕按住自己的胸口……她不想就這麼結束。	そう思うと、辰星はあることに気付いた……彼女は手のひらを引っ込めてそっと胸に当てた。このまま、終わりたくない。	수성은 이런 생각을 하며 한 가지 깨달았다… 그녀는 손을 거두고 자신의 가슴에 얹었다… 그녀는 이렇게 끝을 내고 싶지 않았다.	Realizing this, Chenxing finally understood something... She pulled her hand back and gently pressed it to her chest... She didn't want it to end like this.						0	辰星好感度剧情
+6	蓦地身后脚步声响起，她转头回望，便见着分析员刚从店里取了把雨伞出来。	驀身後腳步聲響起，她轉頭回望，便見著分析員剛從店裡取了把雨傘出來。	ふと背後から足音が聞こえ、振り返ると、分析員が傘を持って店から出てきた。	갑자기 등 뒤에서 발걸음 소리가 들려와 그녀는 고개를 돌려 쳐다봤고, 분석가가 가게에서 우산을 가져 나오는 것이 보였다.	Suddenly, she heard footsteps behind her. She turned to see the Adjutant walk out of the store, umbrella in hand.						0	辰星好感度剧情
+7	玩累了吗？	玩累了嗎？	疲れたのか？	피곤해요?	Are you tired yet?						0	辰星好感度剧情
+8	雨伞是我向店员借来的。不过我完全没想到，我只是去借会雨伞的功夫，辰星好像忽然变得消沉起来。	雨傘是我向店員借來的。不過我完全沒想到，我只是去借會雨傘的功夫，辰星好像忽然變得消沉起來。	私は店員から傘を借りてきた。しかし、その短い間に、辰星は急に落ち込んだようだ。	우산은 직원에게 빌린 것이었다. 근데 우산을 빌리러 간 사이, 수성이 갑자기 차분해져서 살짝 놀랐다.	I borrowed this from the shop assistant. But I wasn't expecting you to get so down in the short time I was gone.						0	辰星好感度剧情
+9	没有。	沒有。	いいえ。	괜찮아요.	I'm not.						0	辰星好感度剧情
+10	那你的表情……这算是疲惫，还是不开心？	那你的表情……這算是疲憊，還是不開心？	でも、その顔は……疲れじゃなかったら、楽しくないだけか？	그럼 지금 그 표정은… 피곤해서 그런 거예요. 아니면 기분이 안 좋아서 그런 거예요?	Then, that look... is it because you're tired or upset?						0	辰星好感度剧情
+11	我，我不是……	我，我不是……	私は、別に……	그, 그런 거 아니에요…	I—I'm not...						0	辰星好感度剧情
+12	辰星啊，有没有人跟你说过，你很不擅长撒谎。	辰星啊，有沒有人跟你說過，你很不擅長說謊。	辰星、誰かに言われたことはなかったか？君は嘘が下手なんだ。	수성 씨, 사람들이 수성 씨 보고 거짓말을 잘 못한다고 안 그러던가요?	Chenxing, has anyone ever told you that you're a bad liar?						0	辰星好感度剧情
+13	……	……	……	……	...						0	辰星好感度剧情
+14	看来还真给我猜对了，刚才不还挺好的吗？	看來還真給我猜對了，剛才不還挺好的嗎？	やっぱり私の予想通りだ。さっきまで元気だっただろう。	제가 맞췄나 보네요. 방금까지만 해도 괜찮다고 하지 않았나요?	Looks like I was right on the money. Didn't you have a good time earlier?						0	辰星好感度剧情
+15	我见她沉默，心下完全确定了猜想。	我見她沉默，心下完全確定了猜想。	彼女の沈黙を見て、私は自分の推測を確信した。	그녀가 침묵에 빠지자, 마음속으로 내 추측이 맞다는 걸 확신했다.	Her silence confirmed my suspicions.						0	辰星好感度剧情
+16	……分析员……是诈我……	……分析員……是騙我……	……謀りましたね。	…분석가님이… 절 속인…	...Adjutant... you're trying to trick me...						0	辰星好感度剧情
+17	兵不厌诈嘛。	兵不厭詐嘛。	戦いは偽りをいとわない、だろう。	속임수도 일종의 전략이죠.	All's fair in war.						0	辰星好感度剧情
+18	我凝望着辰星，揣摩她的想法，而少女抿了抿粉色的唇，没能说话。	我凝望著辰星，揣摩她的想法，而少女抿了抿粉色的唇，沒能說話。	私は辰星を見つめ、彼女の考えを推測した。辰星はというと、桃色の唇を噛みしめて、何も言わなかった。	수성을 바라보며, 그녀의 생각을 알아맞히려 했지만 소녀는 분홍빛 입술을 삐죽거리며 아무 말도 하지 않았다.	I looked at Chenxing, trying to figure out what was on her mind. She pursed her lips, remaining silent.						0	辰星好感度剧情
+19	可当我要说什么时，辰星忽然抬起了头，认真看着我，咬着嘴唇开口了。	但當我要說什麼時，辰星忽然抬起了頭，認真看著我，咬著嘴唇開口了。	しかし、私が何かを言おうとしたとき、辰星は突然顔を上げ、真剣な眼差しで私を見て、唇を噛みながら口を開いた。	내가 무언가를 말하려는 순간, 수성이 갑자기 고개를 들어 진지한 표정을 짓고, 입술을 깨물며 입을 열었다.	But just as I was about to say something, Chenxing suddenly raised her head. She looked at me seriously, biting her lip.						0	辰星好感度剧情
+20	我只是……不想这么快回去。	我只是……不想這麼快回去。	まだ……帰りたくないだけです。	전 그냥… 이렇게 빨리 돌아가기 싫어서 그런 거예요.	I just... don't want to go back so soon.						0	辰星好感度剧情
+21	她用细若蚊蚋般的声音念叨，我仔细盯着她发烫的耳垂，忽地有些奇妙的情绪在我胸口升腾。	她用細若蚊蚋般的聲音念叨，我仔細盯著她發燙的耳垂，忽然有些奇妙的情緒在我胸口升騰。	彼女は蚊のように小さな声で言った。赤くなった彼女の耳を見て、私は不思議な感情で胸を満たされたような気がした。	그녀는 모기마냥 작은 목소리로 중얼거렸다. 그녀의 뜨거운 귓불을 바라보자, 갑자기 가슴속에서 기묘한 감정이 솟구쳤다.	She spoke in a low voice, as quiet as a mouse. As I carefully stared at her red ears, an amazing feeling rose up inside my chest.						0	辰星好感度剧情
+22	稳住有些加速的心跳，我走到她的面前。	穩住有些加速的心跳，我走到她的面前。	少し速くなった鼓動を抑えながら、私は彼女に歩み寄った。	빠르게 뛰는 심장을 진정시키고, 그녀의 앞으로 걸어갔다.	Calming my rapid heartbeat, I walked over to her.						0	辰星好感度剧情
+23	我们是要回去，可在回去前，还有能体验的东西。	我們是要回去，可在回去前，還有能體驗的東西。	これから帰るけど、その前に、まだ体験できることが残ってるぞ。	돌아가는 건 맞는데, 돌아가기 전에 아직 체험할 수 있는 게 있어요.	We have to head back. But there's something else we can try before that.						0	辰星好感度剧情
+24	你上来吧。	你上來吧。	さぁ、乗って。	업혀요.	Hop on.						0	辰星好感度剧情
+25	我说着在辰星的面前半蹲下。	我說著在辰星的面前半蹲下。	そう言って、辰星の前にしゃがみ込んだ。	난 말을 하며 수성 앞에 반쯤 웅크리고 앉았다.	With that, I squatted down in front of Chenxing.						0	辰星好感度剧情
+26	上……来？	上……來？	乗って……？	업…히라고요?	Hop... on?						0	辰星好感度剧情
+27	是啊，上来，我背你。我和店员说好了，轮椅就放在这，明天我让其他人帮忙来取。	是啊，上來，我背你。我跟店員說好了，輪椅就放在這，明天我讓其他人幫忙來拿。	そうだ、私の背中に乗れ。車椅子はここに置いておくって店員に話しておいたから。回収は明日、ほかの誰かに頼むつもりだ。	맞아요, 제가 업어줄게요. 직원이랑 휠체어는 잠시 이곳에 맡기기로 했어요. 사람을 시켜 내일 가져간다고요.	Yeah, hop on. I'll carry you. I told the clerk we're leaving the wheelchair here. I'll have someone pick it up tomorrow.						0	辰星好感度剧情
+28	雨中漫步，有试过吗？	雨中漫步，有試過嗎？	雨のなかで歩いて帰る経験は？	빗속을 산책해 본 적 있어요?	Have you ever gone for a walk in the rain?						0	辰星好感度剧情
+29	没有……	沒有……	いいえ……	아니요…	No...						0	辰星好感度剧情
+30	那么，想试试吗？	那麼，想試試嗎？	じゃあ、試してみる？	그러면 한번 해보지 않을래요?	Then, do you want to try?						0	辰星好感度剧情
+31	想……	想……	はい……	좋아요…	Yeah...						0	辰星好感度剧情
+32	少女说着语气一顿，随后声音渐渐大了几分。	少女說著語氣一頓，隨後聲音漸漸大了幾分。	少女は一瞬言葉を詰まらせたが、少し声を大きくして言った。	소녀는 무언가 깨달은 듯 목소리가 조금씩 커지기 시작했다.	The girl paused for a moment before her voice slowly grew louder.						0	辰星好感度剧情
+33	分析员，我想试试。	分析員，我想試試。	分析員。私、試してみたいです。	분석가님, 해보고 싶어요.	Adjutant, I want to try.						0	辰星好感度剧情
+34	我笑了笑，将伞递给辰星后，转过头去。	我笑了笑，將傘遞給辰星後，轉過頭去。	私は微笑むと、辰星に傘を渡して、振り向いた。	난 웃으며 우산을 수성에게 건넨 뒤, 고개를 돌렸다.	I chuckled, handing the umbrella to Chenxing before turning around.						0	辰星好感度剧情
+35	那还愣着干嘛。	那還愣著幹嘛。	さぁ、来い。	무슨 생각 해요?	Then what are you waiting for?						0	辰星好感度剧情
+36	我话音落下的时候，一团柔软就扑到了我的背后。	我話音落下的時候，一團柔軟就撲到我的背後了。	そう言った瞬間、柔らかい何かが背中に飛び込んできた。	말이 끝나기도 전에, 등 뒤에서 부드러운 느낌이 느껴졌다.	Just as I finished speaking, I felt a tender sensation on my back.						0	辰星好感度剧情
+37	而这样的触感却也让我一下子有些猝不及防。	而這樣的觸感卻也讓我一下子有些猝不及防。	その感触に、私も少し驚いてしまった。	이런 촉감 때문에 난 순간 당황해 버렸다.	It was a feeling that caught me by surprise.						0	辰星好感度剧情
+38	她的身体是那样的温软，有玉的温润，和棉花的柔软。又像是一团飘满香气的云，一下子就将我包裹住了。	她的身體是那樣的溫軟，有玉的溫潤，和棉花的柔軟。又像是一團飄滿香氣的雲，一下子就將我包裹住了。	彼女の体は温かく、玉石のように滑らかで、綿のように柔らかい。香り高い雲のように、私を包み込んだ。	그녀의 몸은 따듯하면서 부드러웠다, 옥 같은 따듯함, 솜 같은 부드러움, 어떻게 보면 향기로운 구름이 나를 감싸 안은 듯한 느낌을 받았다.	Her body was soft as cotton, her skin smooth as jade. It was like a fragrant cloud had suddenly enveloped me.						0	辰星好感度剧情
+39	我定了定心神，压下心中的旖旎站起身子。	我定了定心神，壓下心中的旖旎站起身子。	私は自分を落ち着かせ、胸の高鳴りを抑えながら立ち上がった。	난 정신을 차리고, 마음을 다스린 다음 몸을 일으켰다.	I calmed myself down, pushing aside the alluring sensation as I stood up.						0	辰星好感度剧情
+40	出发喽。	出發嘍。	さぁ、いくぞ。	출발하죠.	Let's go.						0	辰星好感度剧情
+41	……嗯！	……嗯！	……はい！	…네!	...Okay, yeah!						0	辰星好感度剧情
+42	只是“嗯”可不够，你也得配合我喊一句。	只是「嗯」不夠，你也得配合我喊一句。	それじゃない。私がなんて言ったか覚えてるか？	 '네'로는 부족하고, 저랑 같이 외쳐야 해요.	You can't just say "okay." You need to shout with me.						0	辰星好感度剧情
+43	出，出发喽……	出，出發嘍……	い、いくぞー……	출, 출발…	L—Let's go...!						0	辰星好感度剧情
+44	她用发颤的声音喊着，我不用回头，也能想到少女脸上的表情大抵娇艳如花。	她用發顫的聲音喊著，我不用回頭，也能想到少女臉上的表情大抵嬌艷如花。	彼女は震え声でそう言った。振り返らなくても、辰星の花のような笑顔を想像できる。	그녀는 떨리는 목소리로 외쳤고, 난 고개를 돌리지 않아도 소녀의 표정이 얼마나 붉어졌는지 알 수 있었다.	She shouted, her voice shaking. I didn't need to turn around to imagine the expression on her face.						0	辰星好感度剧情
+45	抓好了。	抓好了。	しっかりつかまって。	꽉 잡아요.	Hold on tight.						0	辰星好感度剧情
+46	我说完就跑出门，辰星连忙将伞撑开，用一只手环住我的脖子，一只手将伞撑在我们的头顶。	我說完就跑出門，辰星連忙將傘撐開，用一隻手環住我的脖子，一手將傘撐在我們的頭頂。	そう言うと、店から飛び出した。辰星は慌てて傘を開き、片手で私の首に腕を回し、もう片方の手で傘をさした。	난 말이 끝나기 무섭게 뛰어나갔고, 수성은 황급히 우산을 펴며, 한 손으로는 나의 목을 감싸고, 한 손으로는 우산을 머리 위로 들었다.	With that, I ran out the door as Chenxing hurriedly opened the umbrella. One of her arms was around my neck, and the other held the umbrella over our heads.						0	辰星好感度剧情
+47	她的呼吸吹在我的脸颊上，我能够清楚感觉到她有些兴奋和喜悦的呼吸节奏，闻见她的香味，受到少女这份心情的浸染，我的脚步也格外轻快有力。	她的呼吸吹在我的臉頰上，我能夠清楚感覺到她有些興奮和喜悅的呼吸節奏，聞見她的香味，受到少女這份心情的浸染，我的腳步也格外輕快有力。	私の頬にかかる彼女の興奮と喜びに満ちた呼吸を、かすかに漂う香りで感じた。少女の高ぶりに感化されて、私の足取りも軽快になった。	얼굴에 그녀의 숨결이 느껴졌다. 그녀의 즐거운 기분과 격양된 숨소리, 그리고 향기를 느낄 수 있었다. 소녀의 이런 기분에 영향을 받아, 나의 발걸음 유난히 가볍고 힘차게 느껴졌다.	As Chenxing's rhythmic breaths cascaded onto my cheek, I could clearly sense her elation and take in her scent. Her good mood put a spring in my step.						0	辰星好感度剧情
+48	雨中的城市到处闪亮的霓虹灯光，在水汽的散射中显得迷离又绚丽。	雨中的城市到處閃亮的霓虹燈光，在水汽的散射中顯得迷離又絢麗。	雨の街にキラキラと輝くネオンが、水蒸気に反射されてより幻想的に見えた。	비가 내리는 도시의 곳곳은 반짝이는 네온사인으로 가득 차 있었고, 물안개에 반사되어 더 흐릿하고 아름답게 느껴졌다.	The rain-soaked city was full of dazzling neon lights, blurred and enhanced by the scattered water vapor.						0	辰星好感度剧情
+49	我背着辰星穿行在雨幕间，与她一起浏览着这与方才又不一样的城市街景。	我背著辰星穿行在雨幕間，與她一起瀏覽著這與方才又不一樣的城市街景。	辰星を背負って雨のなかを歩きながら、一緒にさっきと違った街の景色を眺めた。	난 수성을 업고 빗줄기 속을 뛰어다니며 그녀와 함께 방금과 또 다른 분위기를 풍기는 거리를 둘러봤다.	As I carried Chenxing through the rain, we looked at the city together. It was different from the scenery we'd seen earlier.						0	辰星好感度剧情
+50	只是最初向着雨天飞奔而出的兴奋渐渐消散后，这些景色也渐渐变得平庸起来……不过对我和辰星而言，享受的或许不只是这个雨天了。	只是最初向著雨天飛奔而出的興奮漸漸消散後，這些景色也漸漸變得平庸起來……不過對我和辰星而言，享受的或許不只是這個雨天了。	しかし、雨のなかに飛び込んだときの興奮が冷めてくると、景色もありふれたものになる……はずだが、私と辰星にとって、楽しみは雨だけじゃなくなった。	처음에 빗줄기 속으로 뛰어가던 그 즐거움이 서서히 가라앉자, 주변 풍경도 평범하게 느껴지기 시작했다… 하지만 나와 수성은 단순히 비 오는 날씨만을 즐긴 것만은 아니었다.	After our initial enthusiasm for dashing into the rain faded, our surroundings grew lackluster... However, the rainy day wasn't the only thing for me and Chenxing to enjoy.						0	辰星好感度剧情
+51	正在我思考着该怎样带给辰星更加特殊体验时，一只手忽然轻柔地擦过我的脸颊，拂过落在我脸上的飘雨。	當我思考著該怎麼帶給辰星更特殊體驗時，一隻手忽然輕柔地擦過我的臉頰，拂過落在我臉上的飄雨。	どうやって辰星にもっと特別なことを体験させられるかと考えていると、突然、何かが私の頬を優しく撫で、顔にかかった雨を拭ってくれた。	수성에게 어떤 특별한 경험을 가져다줄지 고민을 하고 있을 때, 어떤 손이 나의 뺨을 쓰다듬으며 얼굴에 묻은 빗물을 닦았다.	Just as I was wondering how to make things more special for Chenxing, a hand suddenly brushed against my cheek, wiping away some errant raindrops.						0	辰星好感度剧情
+52	我回头望了一眼，却发现脸颊发红的辰星装作什么都没发生的样子，定定看着前方的景色。	我回頭望了一眼，卻發現臉頰發紅的辰星裝作什麼都沒發生的樣子，定定看著前方的景色。	振り返ると、顔を赤らめた辰星が、何事もなかったかのように前の景色をじっと見つめていた。	고개를 돌려 확인해 보니 수성의 얼굴이 붉게 물들어 있었고, 아무 일도 없었다는 표정으로 눈앞의 풍경을 바라보고 있었다.	I looked back to see Chenxing's flushed cheeks, but she pretended nothing had happened. Her gaze was fixed on the cityscape ahead.						0	辰星好感度剧情
+53	分析员，你看那边。	分析員，你看那邊。	分析員、あそこを見てください。	분석가님, 저기 좀 보세요.	Look, Adjutant! Over there!						0	辰星好感度剧情
+54	我顺着她指的方向看去，看见了一圈围在一起，正在踩着水坑玩的小孩。	我順著她指的方向看去，看見了一圈圍在一起，正在踩著水坑玩的小孩。	彼女が指さす方向を見ると、水たまりに子どもたちが集まって遊んでいた。	그녀가 가리킨 방향을 보자, 같이 모여 물웅덩이를 밟고 노는 아이들이 보였다.	I looked in the direction she was pointing and spotted some kids playing in puddles.						0	辰星好感度剧情
+55	她们比着谁能踩出更多的水花，互相炫耀着漂亮的雨衣，在雨天里转着圈圈。	她們比著誰能踩出更多的水花，互相炫耀著漂亮的雨衣，在雨天裡轉著圈圈。	誰が一番水しぶきを跳ねさせられるかを競いながら、可愛いレインコートを自慢し合い、雨のなかをくるくると回っていた。	아이들은 누가 더 물보라를 크게 일으키는지 시합했고, 누구의 우비가 더 이쁜지 자랑을 하며 빗속에서 빙글빙글 돌았다.	They were competing to see who could make a bigger splash, showing off their gorgeous raincoats, and spinning in circles in the rain.						0	辰星好感度剧情
+58	我收回目光时，转头看到辰星眸光亮晶晶地望着她们。	我收回目光時，轉頭看到辰星眸光亮晶晶地望著她們。	視線を戻すと、辰星が輝いた目で彼女たちを見つめていた。	시선을 돌려 수성을 바라보니, 반짝거리는 눈빛으로 그녀들을 바라보고 있었다.	I looked back at Chenxing to see her staring at them, her eyes glistening.						0	辰星好感度剧情
+59	我们也过去玩玩吧。	我們也過去玩玩吧。	私たちも遊んでいこうか。	저희도 가서 놀아요.	Let's go have some fun too.						0	辰星好感度剧情
+60	咦？诶……可是我们没穿雨衣。	咦？欸……可是我們沒穿雨衣。	え？でも……レインコートを着てませんよ。	네? 음… 근데 우리는 우비가 없잖아요.	Huh? But... we're not wearing raincoats.						0	辰星好感度剧情
+61	放心，水花不会溅到我们的。	放心，水花不會濺到我們的。	大丈夫、私たちには水がかからないから。	걱정하지 마요, 물보라가 우리 쪽으로 튀지 않을 거예요.	Don't worry. We won't get splashed.						0	辰星好感度剧情
+62	我和小姑娘们商量了一会，让她们让出了些空间，随后我搂紧辰星的双腿，开始加速向着水坑冲去。	我和小姑娘們商量了一下，讓她們讓出了些空間，隨後我摟緊辰星的雙腿，開始加速朝水坑衝去。	私は女の子たちと話し合って、少しスペースを空けてもらった。それから辰星を背負い直すと、私は加速して水たまりに向かって走った。	소녀들과 상의하여 공간을 좀 양보하게 한 후, 난 수성의 두 발을 꽉 잡고, 속도를 올려 물웅덩이를 향해 달려갔다.	I spoke with the girls, asking them to make some space. Then, I hugged Chenxing's legs tightly and began to speed towards the puddle.						0	辰星好感度剧情
+63	速度在冲进水坑的那一刻，彻底地爆发，然后掀起两排巨大的水花。	速度在衝進水坑的那一刻，徹底爆發，然後掀起兩排巨大的水花。	水たまりに入った瞬間、私は思いっきり水を蹴り、少女たちに飛ばした。	물웅덩이를 지나는 순간, 속도를 최고치로 올렸고, 양쪽에 거대한 물보라를 일으켰다.	My speed completely exploded the second we made contact with the puddle. Two massive splashes of water erupted into the air.						0	辰星好感度剧情
+64	啊呀呀呀。	啊呀呀呀。	きゃー！	꺄아아아!	Ahhhh!						0	辰星好感度剧情
+65	咦呀呀呀。	咦呀呀呀。	ひゃっ！	으아아악!	Ahhhh!						0	辰星好感度剧情
+66	哈哈哈！	哈哈哈！	あはは！	하하하!	Hahaha...						0	辰星好感度剧情
+67	大哥哥，好厉害！！	大哥哥，好厲害！！	お兄ちゃん、すごい！！	오빠, 진짜 짱이다!!	Mister, you're amazing!!						0	辰星好感度剧情
+68	跑过水坑一段距离，兴奋的声音还不断从我们身后传来。	跑過水坑一段距離，興奮的聲音還不斷從我們身後傳來。	水たまりを通り過ぎてしばらく走ると、まだ興奮した声が後ろから聞こえてきた。	물웅덩이를 지나 조금 더 달렸고, 흥분한 목소리가 뒤에서 계속해서 들려왔다.	After running some distance from the puddle, we heard excited voices from behind us.						0	辰星好感度剧情
+69	怎么样，好玩吗。	怎麼樣，好玩嗎。	どう、面白かった？	어때요, 재밌어요?	So, did you have fun?						0	辰星好感度剧情
+70	我听着背后起伏的呼吸，有些好笑想着方才辰星与那些女孩一同漏出的惊呼。	我聽著背後起伏的呼吸，有些好笑想著方才辰星與那些女孩一同漏出的驚呼。	後ろの呼吸を聞きながら、私はさっきの辰星が驚く声を思い出して、少し笑ってしまった。	등 뒤에서 들려오는 가쁜 숨소리를 들으며, 수성이 그 여자아이들과 함께 비명을 지른 모습을 떠올리니 조금 웃기게 느껴졌다.	I listened to Chenxing breathing deeply behind me, amused as I thought about her and the girls' excited screams just now.						0	辰星好感度剧情
+71	好玩……	好玩……	面白かったです……	재밌어요…	Yeah, I did...						0	辰星好感度剧情
+72	辰星用红扑扑的脸蛋小心点头表示赞同。	辰星用紅撲撲的臉蛋小心點頭表示贊同。	辰星は紅潮した顔で小さく頷いた。	수성은 붉게 물든 얼굴을 조심스럽게 끄덕였다.	Chenxing nodded her head cautiously, her face red.						0	辰星好感度剧情
+73	现在开心了吗。	現在開心了嗎。	楽しくなった？	이제 좀 즐거워졌어요?	Are you feeling happier now?						0	辰星好感度剧情
+74	不是现在……是今天…今天一直都很开心！	不是現在……是今天……今天一直都很開心！	今だけじゃありません……今日は……ずっと楽しかったです！	이제가 아니라… 오늘… 오늘 하루 종일 즐거웠어요!	Not just now... I've been... happy all day long!						0	辰星好感度剧情
+75	很奇怪，明明是在做着很普通，很平常的事情，但辰星发现自己却能从这段时光中收获到源源不断的温暖与满足。	很奇怪，明明是在做著很普通，很平常的事情，但辰星發現自己卻能從這段時光中收穫到源源不絕的溫暖與滿足。	不思議だ。ごく普通のこと、当たり前のことをやっているだけなのに、この時間から途切れない温かさと満足感を感じた。	이상하다. 분명 일반적이고, 평범한 일을 했을 뿐인데 수성은 이 짧은 기간에 끊임없는 따뜻함과 만족감을 느낄 수 있었다.	It was odd... They had been doing such ordinary, commonplace things, but Chenxing realized she'd felt unlimited warmth and satisfaction in those simple moments.						0	辰星好感度剧情
+76	这些情绪填补她的心灵，像是被烧化的蜜糖一样，包裹住她的灵魂。	這些情緒填補她的心靈，像是被燒化的蜜糖一樣，包裹著她的靈魂。	これらの感情は彼女の心を満たし、まるで溶けた蜜のように、彼女の魂を包み込んだ。	이 감정들이 그녀의 마음을 채워주고, 녹은 설탕처럼 그녀의 영혼을 감싸줬다.	These emotions welled up in her heart, enveloping her soul like warm, melted honey.						0	辰星好感度剧情
+77	分析员……可以再来一次吗？	分析員……可以再來一次嗎？	分析員……もう一回、お願いできますか？	분석가님… 한 번만 더 해줄 수 있나요?	Adjutant... can we do it again?						0	辰星好感度剧情
+78	我闻言不禁失笑。	我聞言不禁失笑。	その言葉を聞いて、思わず笑ってしまった。	이 말을 듣고, 나도 모르게 웃음이 터져 나왔다.	Hearing this, I couldn't help but laugh.						0	辰星好感度剧情
+79	总觉得现在这种情况像是我将姬家的大小姐一点点带坏了啊。	總覺得現在這種情況像是我將姬家的大小姐一點點帶壞了啊。	姫家のお嬢様にちょっとずつ悪いことを教えている気がするなぁ。	아무래도 지금 상황이, 제가 '희'씨 가문의 아가씨에게 조금씩 나쁜 물을 들이는 것 같네요.	At times like these, I feel like I'm slowly leading the eldest daughter of the Ji family astray.						0	辰星好感度剧情
+80	我不想被分析员当作是什么大小姐……而且……我也不是被分析员带坏了……我觉得挺好的……分析员今天陪我做的这些。	我不想被分析員當作是什麼大小姐……而且……我也不是被分析員帶壞了……我覺得挺好的……分析員今天陪我做的這些。	分析員にお嬢様扱いされるのは嫌です……それに……別に悪いことを学んだのではなく……今日、分析員と一緒にしたこと、全部良かったと思います。	분석가님이 저를 아가씨라고 생각 안 했으면 좋겠어요… 게다가… 분석가님에게 나쁜 물이 든 게 아니라… 그냥 분석가님이 오늘 저랑 같이 해준 모든 것들이… 다 좋았어요.	I don't want you to think of me as a "young lady," Adjutant... And you didn't corrupt me... I had a good time doing everything with you today.						0	辰星好感度剧情
+81	好好好，那算我说错话了。	好好好，那算我說錯話了。	わかった、わかった。私が間違っていた。	알았어요, 제가 말실수를 했다고 치죠.	Okay, okay. I take it all back.						0	辰星好感度剧情
+82	哼，我知道分析员是在逗我。	哼，我知道分析員在逗我。	ふん。やっぱり、わざと私をからかっていたんですね。	흥, 절 놀리고 있다는 거 다 알아요.	Hmph. I know you were messing with me.						0	辰星好感度剧情
+83	这都能听出来，短短一天，你成长不少。	這都聽得出來，短短一天，你成長不少。	それに気づくとはな。一日で随分と成長したようだ。	그것도 알아차리다니, 하루 사이에 정말 많이 발전했네요.	You could tell? You've made so much progress in just one day.						0	辰星好感度剧情
+84	这就是我想要的改变。	這就是我想要的改變。	だって、変わりたいって言ったじゃないですか。	이게 바로 제가 원하는 변화에요.	This is the change I wanted.						0	辰星好感度剧情
+89	分析员。	分析員。	分析員。	분석가님.	Adjutant.						0	辰星好感度剧情
+90	其实我从加入海姆达尔部队开始，就一直想要改变……不想成为大家口中的大小姐。	其實我從加入海姆達爾部隊開始，就一直想要改變……不想成為大家口中的大小姐。	実は、私……ヘイムダル部隊に入ったときから、変わりたいと思っていました……皆にお嬢様と呼ばれたくないんです。	실은 헤임달 부대에 들어오고 나서부터 계속 바뀌고 싶었어요… 사람들이 절 아가씨라고 생각하는 게 싫었거든요.	I've wanted to change ever since I joined the Heimdall Force... I don't want to be the "young lady" everyone thinks I am.						0	辰星好感度剧情
+91	嗯。我多少也能感受到，你好像一直想要摆脱自己生人勿近的状况。	嗯。我多少也能感受到，你好像一直想要擺脫自己生人勿近的狀況。	ああ。私もなんとなくそう感じていたよ。君は人との距離を縮めようとしていたようだった。	저도 어느 정도 느껴졌어요, 쉽게 접근할 수 없는 이미지를 벗어나려고 하는 모습이요.	Yeah. I got the sense you were trying to close the distance between yourself and other people.						0	辰星好感度剧情
+92	只是……我一直没能迈出去，真正改变的那步，看上去好像是我在努力了，可我知道……我始终都是在原地转着圈圈。	只是……我一直沒能踏出去，真正改變的那步，看上去好像是我在努力了，可我知道……我始終都是在原地轉著圈圈。	ただ……一歩を踏み出すことができなくて……変わろうと努力してるつもりでしたが、ずっと同じところをぐるぐる回っているだけで……	하지만… 실행은 하지 못했어요. 진짜 변하는 그 단계까지요. 노력을 한 것처럼 보이겠지만, 전 알고 있어요… 전 처음부터 계속 제자리걸음이었다는 걸요.	It's just... I haven't been able to take the first step toward real change. I think I'm trying really hard, but... it feels like I'm running in circles.						0	辰星好感度剧情
+93	仔细想想，或许还是我不够……	仔細想想，或許還是我不夠……	よく考えてみると、私はやっぱりまだ……	곰곰이 생각해 보면, 아마 제가…	When I really think about it, I wonder if I'm just not...						0	辰星好感度剧情
+94	少女轻声呢喃着，不过我笑着打断她的话。	少女輕聲呢喃著，不過我笑著打斷她的話。	辰星は小さく呟いたが、私は笑顔で彼女の言葉を遮った。	소녀는 작은 목소리로 중얼거렸지만 난 웃으며 그녀의 말을 끊었다.	Chenxing spoke in a whisper, but I interrupted her with a chuckle.						0	辰星好感度剧情
+95	你不是不够勇敢。	你不是不夠勇敢。	まだ勇気を出せずにいるとか、そういうのじゃない。	용감하지 못했던 게 아니에요.	It's not that you aren't brave enough.						0	辰星好感度剧情
+96	只是你需要一点信心，也需要有人引导你，帮你走出这一步，然后告诉你……往前走，风景挺好的。	只是你需要一點信心，也需要有人引導你，幫你走出這一步，然後告訴你…往前走，風景挺好的。	君は自信がないだけで、導いてもらえる人……最初の一歩を踏みだしたあと、さらに背中を押してくれる人が必要だっただけだ。	단지 당신에게는 믿음이 필요하고, 누군가 앞으로 나아갈 수 있게 이끌어줘야 해요, 그리고 당신에게… 앞으로 나아가자고, 풍경이 정말 멋지다고 알려주는 거죠.	You just need confidence. And you need someone to guide you, someone to help you take that first step and tell you... to keep moving forward because the future is bright.						0	辰星好感度剧情
+97	……	……	……	……	...						0	辰星好感度剧情
+98	我静静回望少女颤抖的眸光，也能看出她的茫然……她的不解，显然她并不知晓，我一直都很了解她。	我靜靜回望少女顫抖的眸光，也能看出她的茫然……她的不解，顯然她並不知曉，我一直都很了解她。	私は震える辰星の瞳を静かに見つめた。そこからは、彼女の迷いや戸惑いが見える。きっと彼女には分からないだろうが、私は前から彼女のことをよく知っている。	난 조용히 흔들리는 소녀의 눈동자에서 막연함이 느껴졌고… 이해하지 못한다는 것을 알 수 있었다. 그녀는 내가 그녀에 대해 잘 알고 있다는 걸 전혀 모르고 있는 것 같았다.	I silently glanced at the girl's quivering eyes. I could see her confusion... She clearly didn't know I understood her all this time.						0	辰星好感度剧情
+99	超忆症将你困在了一个牢笼里，姬家又将你困在了一个牢笼里。	超憶症將你困在了一個牢籠裡，姬家又將你困在了一個牢籠裡。	超記憶症候群は君を牢獄に閉じ込めた。姫家もまた、君をもうひとつの牢獄に閉じ込めた。	과잉 기억 증후군이 당신을 감옥에 가두었고, 희씨 가문이 당신을 다시 한번 감옥에 가둔 거예요.	Your hyperthymesia, along with your family, trapped you in a cage.						0	辰星好感度剧情
+100	不管是好的，还是坏的，你都必须全盘接受。	不管是好的，還是壞的，你都必須全盤接受。	良いことも悪いことも、全てを受け入れなければならなかった。	좋은 거든, 나쁜 거든, 모두 다 받아들여야 했죠.	Good or bad, you had to accept everything as it came.						0	辰星好感度剧情
+101	所以你选择了停留在原地。这样一来，不管好的坏的，都不会靠近你。	所以你選擇了停留在原地。這樣一來，不管好的壞的，都不會靠近你。	だから君はその場にとどまることを選んだ。そうしていれば、良いことも悪いことも、君に近づかないと思っているから。	그래서 당신은 제자리에 머무르는 것을 택한 거예요. 그렇게 되면 나쁜 것이든 좋은 것이든 다 당신에게 접근하지 않을 테니까요.	So you chose to stand still. As long as you didn't move... nothing good or bad would ever get close.						0	辰星好感度剧情
+102	被关在里面小小的姑娘其实对外界的一切有着无限的好奇与热情吧。	被關在裡面小小的姑娘其實對外界的一切有著無限的好奇與熱情吧。	でも、閉じこもっている君は、実は外の世界に無限の好奇心と情熱を持っていたんだと思う。	안에 갇힌 아가씨는 사실 외부 세상에 대한 모든 것에 무한한 호기심과 열정을 가지고 있어요.	But that little girl locked inside had infinite curiosity and passion for everything outside.						0	辰星好感度剧情
+103	我这人啊虽然不太擅长帮人解开心结，但我很擅长……暴力拆解它。也擅长……聆听小姑娘的渴望与愿望……帮她们实现愿望。	我這人啊雖然不太擅長幫人解開心結，但我很擅長……暴力拆解它。也擅長……聆聽小姑娘的渴望與願望……幫助她們實現願望。	私は人のコンプレックスを解消してあげるのは苦手だけど、力づくで檻を壊すのは結構得意なんだ。少女たちの願いを聞いて、叶えてあげるのもね。	다른 사람의 마음속 응어리를 풀어주는 게 익숙하지 않지만… 폭력적으로 해결하는 건 잘해요. 또… 갈망과 소원을 듣고… 그녀들을 도와 실현하는 것도 잘하죠.	I'm not very good at unraveling emotional knots, but... I'm good at forcing them apart. I'm also good at... listening to girls' hopes and dreams... and helping them come true.						0	辰星好感度剧情
+104	辰星。从那样的牢笼里走出，感觉怎么样？	辰星。從那樣的牢籠走出，感覺怎麼樣？	辰星。牢獄から抜け出して、どんな気分だ？	수성, 그 감옥에서 나온 기분이 어때요?	Chenxing, what does it feel like to leave that cage?						0	辰星好感度剧情
+105	……很好。	……很好。	……いい……気分です。	…정말 좋아요.	...It feels really good.						0	辰星好感度剧情
+106	分析员……	分析員……	分析員……	분석가님…	Adjutant...						0	辰星好感度剧情
+107	等等，我们先说好啊，不说谢谢的。	等等，我們先說好啊，不說謝謝的。	ちょっと待って、先に言っておくけど、「ありがとう」はいらないぞ。	잠깐, 미리 말하지만 고맙다고 할 필요 없어요.	Wait. Let's make a deal—no thank-yous.						0	辰星好感度剧情
+108	我没想说谢谢……但我不是不想说谢谢，我是……	我沒想說謝謝……但我不是不想說謝謝，我是……	「ありがとう」じゃなくて……あ、感謝はしたいんですけど、ただ……	고맙다고 하려는 게 아니에요… 그렇다고 안 고맙다는 건 아닌데, 전…	I wasn't going to thank you... but it's not like I don't want to... I was jus—						0	辰星好感度剧情
+109	好啦，不用解释，就直接说吧，你想说什么。	好啦，不用解釋，就直接說吧，你想說什麼。	いいよ、説明しなくても。君の言いたいことをそのままぶつけてこい。	알고 있으니 설명할 필요 없어요. 하고 싶은 말이 있으면 그냥 말해요.	Alright, you don't need to explain yourself. Just say whatever you want to.						0	辰星好感度剧情
+110	我再次笑着打断有些慌乱的少女。辰星沉默了一下，可随后，她那好似染着桃花般粉红的漂亮小脸贴到了我的耳边，像是倾诉般小心翼翼问道。	我再次笑著打斷有些慌張的少女。辰星沉默了一下，可隨後，她那好像染著桃花般粉紅的漂亮小臉貼到了我的耳邊，像是傾訴般小心翼翼問道。	私は再び慌てだした少女の言葉を遮った。辰星は少し黙った後、桃色の頬を私の耳元に寄せて、そっと囁くように聞いてきた。	난 다시 한번 웃으며 당황해하는 소녀의 말을 끊었다. 수성은 잠시 침묵하다 복숭아꽃처럼 붉어진 얼굴을 나의 귓가로 갖다 대며 속마음을 털어놓듯 조심스레 말을 이어갔다.	I interrupted the flustered girl once more. She was silent for a moment before her beautiful pink cheek pressed up against my ear. She spoke cautiously as if telling a secret.						0	辰星好感度剧情
+111	我是想问……	我是想問……	その……	묻고 싶은 게 있는데…	I wanted to ask...						0	辰星好感度剧情
+112	未来……我能够……和分析员……一起往前吗。	未來……我能夠……和分析員……一起往前嗎。	これからも……分析員と一緒に……進めますか……？	나중에… 혹시… 분석가님이랑… 함께 나아가도 되나요.	From now on... can I... keep moving forward... with you, Adjutant?						0	辰星好感度剧情
+113	少女的气息带着如兰的香气吹入我的内心，我能够感受到，她在将某种极具重量的东西托付在我的身上。	少女的氣息帶著如蘭的香氣吹入我的內心，我能夠感受到，她在將某種極具重量的東西託付在我的身上。	少女の吐息は香りとともに私の心に染みた。彼女から、ずっしりと重いものを私に託そうとしているようだ。	소녀의 숨결에서 향긋한 냄새가 나며 나의 마음속으로 파고들었다. 그녀가 엄청난 무게를 가진 무언가를 나의 몸에 의지한 것이 느껴졌다.	The girl's breath crashed into my heart with the sweet aroma of an orchid. I understood that she was trusting me with something extremely important.						0	辰星好感度剧情
+114	当然。	當然。	もちろんだ。	물론이죠.	Of course.						0	辰星好感度剧情
+115	我会陪你一起。	我會陪你一起。	君と一緒にいるよ。	제가 함께할게요.	I'll be right by your side.						0	辰星好感度剧情
+116	所以你不要有任何的顾忌，不管未来会发生什么，往前走到底有多少好的或者坏的。	所以你不要有任何的顧忌，不管未來會發生什麼，往前走到底有多少好的或壞的。	だから何も心配するな。未来になにが起ころうと、なにが待っていようと。	그러니 미래에 어떤 일이 일어나도, 앞으로 나아가는 게 좋은 일이든 나쁜 일이든 망설이지 말아요.	So let go of your reservations. No matter what happens in the future, good or bad, just keep moving forward.						0	辰星好感度剧情
+117	我都会给你我能想到的所有的美好，只要美好的记忆足够多，就足够掩埋掉所有的悲伤。	我都會給你我能想到的所有的美好，只要美好的記憶夠多，就足夠掩埋所有的悲傷。	私が思いつく限りの素敵なことを君にあげよう。素敵な思い出があれば、どんな悲しみも忘れられる。	제가 아는 모든 아름다움을 줄게요. 아름다운 추억이 많으면 모든 슬픔을 다 덮을 수 있거든요.	I'll give you as much happiness as I can. With enough beautiful memories, you can bury all of your sadness.						0	辰星好感度剧情
+118	嗯……	嗯……	はい……	네…	Yeah...						0	辰星好感度剧情
+119	分析员……我们该再来一次啦。	分析員……我們該再來一次啦。	分析員……さっきのをもう一度やりましょう。	분석가님… 한 번만 더 해요.	Adjutant... we should do it again.						0	辰星好感度剧情
+120	得到我的答复，她像是长长松了口气，心满意足将脸蛋贴在了我的肩膀上。	得到我的答復，她像是長長鬆了口氣，心滿意足將臉蛋貼在了我的肩膀上。	私の返事を聞いて、彼女はホッとしたように、満足そうに頭を私の肩に預けた。	나의 답을 듣고 그녀는 한시름 놓았는지, 만족해하며 나의 어깨에 얼굴을 올렸다.	She seemed relieved at my reply, resting her cheek on my shoulder contentedly.						0	辰星好感度剧情
+121	好啊，我们再来一次。	好啊，我們再來一次。	ああ、そうだな。	좋아요, 다시 한번 해요.	Alright. Let's do it again.						0	辰星好感度剧情
+122	我再次面对水坑，面对小姑娘们期待的欢呼，向前奔去。	我再次面對水坑，面對小姑娘們期待的歡呼，向前奔去。	私は再び水たまりに向き合い、少女たちの期待に満ちた歓声に応え、走り出した。	난 다시 한번 물웅덩이 앞에 섰고, 건너편에 있는 아이들이 기대에 찬 환호성을 질렀고, 난 앞으로 뛰어갔다.	Amidst the girls' excited cheers, I faced the puddle again and ran forward.						0	辰星好感度剧情
+123	此刻的我并没有注意到，在我背上的少女，用带着怎样柔情的光芒注视着我。	此刻的我並沒有注意到，在我背上的少女，用帶著怎樣柔情的光芒注視著我。	その瞬間、背中にいる少女が優しい眼差しで私を見つめていることに、私は気づいていなかった。	그 순간, 나는 등에 있는 소녀가 어떤 부드러운 눈빛으로 날 바라보고 있을지 신경 쓰지 못했다.	At that moment, I didn't notice the girl on my back was gazing at me with a gentle warmth.						0	辰星好感度剧情
+124	——游戏的时候，刚才兴奋的时候，辰星都没那么多时间遐想。	——遊戲的時候，剛才興奮的時候，辰星都沒那麼多時間遐想。	――ゲーム中も、さっき興奮していたときも、辰星にはそんなことを考える暇はなかった。	…게임을 할 때도, 즐거워 흥분했을 때도, 수성은 많은 시간을 가지고 생각을 한 적이 없었다.	Chenxing hadn't had time to get lost in her thoughts during the competition or excitement just now.						0	辰星好感度剧情
+125	现在细细感受，她忽然觉得他的背部是那么的宽敞，那么的厚实，沉稳得就像是能承载她的一生。	現在細細感受，她突然覺得他的背部是那麼的寬敞，那麼的厚實，沉穩得就像是能承載她的一生。	今、じっくりと考えてみると、彼の背中はとても広くて、頼もしくて、まるで自分の一生を支えられるかのようにどっしりとしていた。	지금 자세히 느껴보니, 그의 등이 이렇게 넓고, 탄탄하며 그녀의 평생을 온전히 맡길 수 있을 안정적이라는 것을 느낄 수 있었다.	Thinking about it carefully, she suddenly realized how big and strong his back was, seemingly stable enough to carry her for the rest of her life.						0	辰星好感度剧情
+126	接近傍晚时，我才和辰星回到公司，将她送回了她的房间，推来了新的轮椅。	接近傍晚時，我才和辰星回到公司，將她送回了她的房間，推來了新的輪椅。	夕方に近づく頃、私は辰星と一緒に会社に戻り、彼女を部屋まで送り届け、新しい車椅子を持ってきた。	저녁이 다가왔고, 나와 수성은 회사로 돌아왔다, 그녀를 방으로 데려다준 다음 새로운 휠체어를 가지고 왔다.	As dusk neared, Chenxing and I returned to the company. I pushed her back to her room in a new wheelchair.						0	辰星好感度剧情
+127	之后的事情，自己能搞定吧？	之後的事情，自己能搞定吧？	あとは自分で大丈夫なのか？	지금부터는 혼자 할 수 있겠죠?	You can handle it from here, right?						0	辰星好感度剧情
+128	嗯。	嗯。	はい。	네.	Okay.						0	辰星好感度剧情
+129	那我先走了，回见。	那我先走了，回見。	それじゃあ、私はこれで。また。	그럼 이만 가볼게요, 다음에 또 봐요.	Then I'll head out. See you later.						0	辰星好感度剧情
+130	回见。	回見。	……はい。	다음에 봐요.	...See you later.						0	辰星好感度剧情
+131	嘴上给出这样的答复，可少女的心中，却好像有个声音，想要明天……就见面。	嘴上給出這樣的答復，可少女的心中，卻好像有個聲音，想要明天……就見面。	口ではそう答えたが、辰星の心の底では、誰かの声が「明日にでも会いたい」と囁いていた。	말은 그렇게 했지만, 소녀는 속으로는 이렇게 말하고 있었다, 내일… 봐요라고 말이다.	Though she said this, it seemed like a voice in Chenxing's heart... wanted to see him tomorrow.						0	辰星好感度剧情
+132	她凝望着走到房门口的那道背影，不由自主地在心中想到——如果分析员能回头再看一眼的话。	她凝望著走到房門口的那道背影，不由自主地在心中想到——如果分析員能回頭再看一眼的話。	部屋の入り口まで歩いていく後ろ姿を見つめながら、思わず思った――もし、分析員がもう一度私に振り向いてくれたら。	그녀는 문으로 다가가고 있는 그의 뒷모습을 보며 속으로 분석가가 뒤돌아서 한 번 더 봐주길 원하고 있었다.	She stared at his back as he walked to the door. She couldn't help wondering if he would turn around.						0	辰星好感度剧情
+133	好像是听到她内心的呢喃，那道身影转过身来。	好像是聽到她內心的呢喃，那道身影轉過身來。	彼女の心の声を聞いたかのように、彼は振り返った。	그녀의 속마음을 들었는지, 가다가 뒤돌아섰다.	As if he heard her inner dialogue, he turned around.						0	辰星好感度剧情
+134	对了，辰星，你明天——	對了，辰星，你明天——	そうだ、辰星、明日は――	맞다, 수성, 내일…	Oh, Chenxing...						0	辰星好感度剧情
+135	有想去的地方吗？	有想去的地方嗎？	行きたい場所はあるか？	가고 싶은 곳 있어요?	Do you want to go somewhere tomorrow?						0	辰星好感度剧情
+136	稍微地愣神后，辰星一双眼眸填满了光亮，用力点头。	稍微愣神後，辰星一雙眼眸填滿了光亮，用力點頭。	少しボーッとした後、辰星は両目を輝かせて、力強く頷いた。	수성은 잠시 멍하니 있다가, 눈동자가 반짝거리더니 힘껏 고개를 끄덕였다.	After a stupefied pause, Chenxing's eyes lit up. She nodded vigorously.						0	辰星好感度剧情
+137	有！	有！	あります！	네!	Yes!						0	辰星好感度剧情
+138	如果这个世界真有神明，一定善解人意。	如果這個世界真有神明，一定善解人意。	もしこの世界に本当に神様がいるなら、きっと人の心の機微を察してくれるに違いない。	만약 이 세상에 진짜 신이 있다면, 분명히 사람의 마음을 잘 이해할 것이다.	If there really are gods in this world, they must be considerate.						0	辰星好感度剧情
+139	那就明天见了，老地方。既然将你从那“暗无天日”的地方拉出来，答应了给你更多不一样的体验，可得趁热打铁才行。	那就明天見了，老地方。既然將你從那「暗無天日」的地方拉出來，答應了給你更多不一樣的體驗，可得趁熱打鐵才行。	じゃあ、明日はいつもの場所で会おう。君を「牢獄」から連れ出したんだから、約束した通り、もっといろんなことを体験させてあげないと。	그럼 내일 늘 보던 곳에서 봐요. 제가 수성을 '어두운 세상'에서 데리고 나와, 더 많은 경험을 시켜주겠다고 약속했으니 쇠뿔도 단김에 빼버리죠.	Then let's meet tomorrow at the same place. I pulled you out of that darkness and promised to help you try new things, so we'd better strike while the iron's hot.						0	辰星好感度剧情
+140	不过明天见面时，不要在阳光下看书了。	不過明天見面時，不要在陽光下看書了。	でも、明日は眩しいところで本を読むなよ。	근데 내일 만날 때는 햇빛 아래에서 책 읽고 있으면 안 돼요.	But when we meet up tomorrow, you can't be reading in the sun.						0	辰星好感度剧情
+141	嗯！我会记住的。	嗯！我會記住的。	はい！覚えておきます。	네! 기억하고 있을게요.	Okay! I'll remember.						0	辰星好感度剧情
+142	有些话，有些经历，用脑子记住，和用心记住，是不一样的感觉。	有些話，有些經歷，用腦子記住，和用心記住，是不一樣的感覺。	言葉も、経験も、頭で覚えているのと、心で覚えているのでは、全然違う。	어떤 말과 어떤 경험을 머리로 기억하는 것과 마음으로 기억하는 것은 전혀 다른 느낌이다.	Some words and experiences are stored in the brain; others are stored in the heart. They feel completely different.						0	辰星好感度剧情
+143	她心中翻滚着今日的一切。所有光景都纤毫毕现，分析员手掌的温度，身体令人留恋的气味，这都是她想要的美好。	她心中翻滾著今日的一切。所有光景都纖毫畢現，分析員手掌的溫度，身體令人留戀的氣味，這都是她想要的美好。	今日の出来事を彼女は心のなかで何度も繰り返した。すべての光景が鮮明に蘇る。分析員の手の温もり、肌の香り、まさに彼女が求めるものだった。	그녀는 마음속으로 오늘 있었던 일들을 되새겨 보며 모든 광경을 떠올렸다. 분석가의 손 온도부터 향기까지, 하지만 과거의 기억들은 지금의 아름다운 기억을 따라오지 못했다.	She thought about everything that had happened today. Each moment was so vivid—the warmth of his palm, his lingering scent... It was all of the happiness she'd wanted.						0	辰星好感度剧情

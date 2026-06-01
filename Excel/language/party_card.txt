@@ -1,0 +1,27 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+girl023_p	无限之视	0	
+girl053_p	幽潮	0	
+girl083_p	辉耀	0	
+girl152_p	朝翼	0	
+player02_p	分析员	0	
+girl103_p	夜天光	0	
+girl143_p	琼弦	0	
+girl084_p	澄意	0	3.2QQ人
+girl133_p	悠游	0	3.2QQ人
+Name1	海姆头衔	0	3.5海姆称号
+Name2	海姆尖兵	0	3.5海姆称号
+Describe2	在优化吧模式中，累计击败<span color="#c25c02">%d/%d</>个哈姆。	0	3.5海姆称号
+Name3	哈姆团长	0	3.5海姆称号
+Describe3	在优化吧模式中，累计优化<span color="#c25c02">%d/%d</>个海姆大玩家。	0	3.5海姆称号
+Name4	驱除专家	0	3.5海姆称号
+Describe4	在决战哈姆模式中，累计击败<span color="#c25c02">%d/%d</>个哈姆。	0	3.5海姆称号
+Name5	支援达人	0	3.5海姆称号
+Describe5	在决战哈姆模式中，累计使用<span color="#c25c02">%d/%d</>次道具。	0	3.5海姆称号
+girl013_p	时之重奏	0	3.5QQ人
+girl054_p	霄鹰	0	3.5QQ人
+girl241_p	瑞狐	0	3.6QQ人
+Name6	拟态大师	0	3.6海姆称号
+Describe6	捉迷藏模式中，作为躲藏方累计获胜<span color="#c25c02">%d/%d</>局。	0	3.6海姆称号
+Name7	洞察之眼	0	3.6海姆称号
+Describe7	在捉迷藏模式中，作为追捕方累计追捕<span color="#c25c02">%d/%d</>名选手。	0	3.6海姆称号

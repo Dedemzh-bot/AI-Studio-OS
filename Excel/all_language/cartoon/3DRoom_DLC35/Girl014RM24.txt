@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	郎君，明灯节快乐。	郎君，明燈節快樂。	あなた、明灯祭おめでとうございます。	낭군님, 등명제 즐겁게 보내세요.	Happy Mingdeng Jie, My Prince.						0	3.5版本随机剧情
+page1.2	明灯节当日的早晨，我便收到了辰星的祝福。	明燈節當日的早晨，我便收到了辰星的祝福。	明灯祭の朝、私は辰星からお祝いの言葉をかけられた。	등명제 당일 아침, 나는 수성의 축복을 받았다.	On the morning of the festival, I received Chenxing's blessing.						0	3.5版本随机剧情
+page1.3	明灯节快乐，辰星。	明燈節快樂，辰星。	明灯祭おめでとう、辰星。	등명제 즐겁게 보내세요, 수성.	Happy Mingdeng Jie, Chenxing.						0	3.5版本随机剧情
+page1.4	郎君，我的家里从朔州寄来了礼物。	郎君，我的家裡從朔州寄來了禮物。	朔州の実家から贈り物が届きました。	낭군님, 삭주에서 온 선물이 도착했어요.	My Prince, my family sent gifts from Shuozhou.						0	3.5版本随机剧情
+page1.5	这是给你的红包。	這是給你的紅包。	これはあなたへの祝儀で。	이건 당신을 위한 세뱃돈이에요.	Here is a red envelope for you.						0	3.5版本随机剧情
+page1.6	这是给我们两人的被子。	這是給我們兩人的被子。	こちらは私たち二人用の布団です。	이건 우리 둘을 위한 이불이고요.	Here is a quilt for both of us.						0	3.5版本随机剧情
+page1.7	以及一些肉类和有机蔬菜，我拿到厨房了。	以及一些肉類和有機蔬菜，我拿到廚房了。	それからお肉と有機野菜はキッチンに運んでおきました。	그리고 육류와 유기농 채소도 있는데, 주방에 가져다 놨어요.	As well as some meat and organic vegetables, which I put in the kitchen.						0	3.5版本随机剧情
+page1.8	辛苦了，朔州的明灯节礼物还是这么隆重。	辛苦了，朔州的明燈節禮物還是這麼隆重。	ありがとう、明灯祭の贈り物は相変わらず豪勢だな。	수고했어요, 삭주의 등명제 선물은 역시 성대하네요.	Thank you. The Shuozhou gifts for Mingdeng Jie are as grand as ever.						0	3.5版本随机剧情
+page1.9	也替我谢谢姬家的长辈们。	也替我謝謝姬家的長輩們。	姫家の方々にもお礼を伝えておいてくれ。	희씨 가문의 어른들께 감사 인사 전해주세요.	Please pass on my thanks to the elders in your family.						0	3.5版本随机剧情
+page1.10	每次和她们提起郎君你，她们都赞不绝口。	每次和她們提起郎君你，她們都讚不絕口。	あなたの話になると、みんな口をそろえて褒めちぎるんです。	어른들께 낭군님 이야기를 꺼낼 때마다 모두 칭찬을 아끼지 않으세요.	Every time I talk to them about you, they have nothing but good things to say.						0	3.5版本随机剧情
+page1.11	有时候……还挺不好意思的。	有時候……還挺不好意思的。	少し……気恥ずかしいです。	가끔은… 부끄러울 때도 있답니다.	It can even be... embarrassing sometimes.						0	3.5版本随机剧情
+page1.12	有这种事，那我可有动力变得更优秀些了。	有這種事，那我可有動力變得更優秀些了。	そんなふうに言われたら、私ももっと頑張って、もっと立派にならないとな。	그렇다면 제가 더 훌륭해져야겠는걸요.	Is that so? Now I have the motivation to be even better.						0	3.5版本随机剧情
+page1.13	郎君在我心中，早就是最优秀的了。	郎君在我心中，早就是最優秀的了。	私にとって、あなたはずっと一番ですよ。	낭군님은 제 마음속에서 이미 가장 훌륭한 분이세요.	You've always been the best in my heart, My Prince.						0	3.5版本随机剧情
+page1.14	对了，还有一件事情……	對了，還有一件事情……	そういえば……	아, 한 가지 더 말씀드릴 게 있는데…	And one more thing...						0	3.5版本随机剧情
+page1.15	什么事情？	什麼事情？	どうした？	무슨 일이죠?	What is it?						0	3.5版本随机剧情
+page1.16	按朔州习俗，明灯节后我们需要一起游船、放花灯，可能得占用郎君一整天的时间……	按朔州習俗，明燈節後我們需要一起遊船、放花燈，可能得佔用郎君一整天的時間……	朔州の明灯祭では、一緒に船に乗り、花灯籠を流す習わしがありまして、あなたの一日をいただくかもしれません……	삭주의 풍습에 따르면, 등명제 후에는 함께 유람선을 타고 등불을 띄워야 하는데, 아마 낭군님의 하루를 통째로 차지하게 될 것 같아요…	According to Shuozhou custom, after Mingdeng Jie, we need to go on a boat ride together and release flower lanterns. It might occupy an entire day...						0	3.5版本随机剧情
+page1.17	这习俗可真不赖，能陪辰星一整天，我很开心。	這習俗可真不賴，能陪辰星一整天，我很開心。	悪くない習わしだな。辰星と一日いられて嬉しいよ。	좋은 풍습이네요. 수성과 하루 종일 함께할 수 있어서 정말 기뻐요.	That sounds like an excellent custom. I'd be happy to spend the whole day with you.						0	3.5版本随机剧情
+page1.18	郎君……	郎君……	あなた……	낭군님…	My Prince...						0	3.5版本随机剧情
+page1.19	我笑着捏了捏辰星的脸颊，看着她的脸渐渐染上幸福的绯色。	我笑著捏了捏辰星的臉頰，看著她的臉漸漸染上幸福的緋色。	笑って、そっと辰星の頬に触れた。みるみるうちに赤く染まっていく彼女の顔が、愛おしかった。	나는 웃으며 수성의 볼을 살짝 꼬집었고, 그녀의 얼굴이 점점 행복한 홍조로 물들어가는 것을 지켜보았다.	I smiled as I pinched Chenxing's cheek, watching it blush with a bashful delight.						0	3.5版本随机剧情

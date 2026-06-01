@@ -1,0 +1,3 @@
+﻿地图名	地图大小	地图块数量	地图块大小	大地图	大地图背景	第一个小地图切片
+MapName	MapSize	MapPieceNum	PieceSize	ImgBigMap	ImgBigMapBg	ImgSmallMapStart
+multi_forbidzone_9991	{2048,2304}	{8,9}	{256,256}	1010000	1010001	1010003

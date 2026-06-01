@@ -1,0 +1,341 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案
+Key	zh_CN	disable
+season_title_name1	塑界一	0
+season_title_name2	塑界二	0
+season_level_des1	当前难度：1	0
+season_level_des2	当前难度：2	0
+season_level_des3	当前难度：3	0
+season_level_des4	当前难度：4	0
+season_level_des5	当前难度：5	0
+season_mission_title1	塑界1 探知	0
+season_mission_title2	塑界1 深潜	0
+season_mission_title3	塑界1 排异	0
+season_mission_title4	塑界1 噬灭	0
+season_mission_title5	塑界1 降临	0
+season_mission_title6	塑界2 探知	0
+season_mission_title7	塑界2 深潜	0
+season_mission_title8	塑界2 排异	0
+season_mission_title9	塑界2 噬灭	0
+season_mission_title10	塑界2 降临	0
+season_mission_title11	塑界1 探知	0
+season_mission_title12	塑界1 深潜	0
+season_mission_title13	塑界1 排异	0
+season_mission_title14	塑界1 噬灭	0
+season_mission_title15	塑界1 降临	0
+season_mission_title16	塑界2 探知	0
+season_mission_title17	塑界2 深潜	0
+season_mission_title18	塑界2 排异	0
+season_mission_title19	塑界2 噬灭	0
+season_mission_title20	塑界2 降临	0
+season_mission_des1	通关噬神斗场·生域 塑界1 难度1	0
+season_mission_des2	通关噬神斗场·生域 塑界1 难度2	0
+season_mission_des3	通关噬神斗场·生域 塑界1 难度3	0
+season_mission_des4	通关噬神斗场·生域 塑界1 难度4	0
+season_mission_des5	参与噬神斗场·生域 塑界1 难度5	0
+season_mission_des6	通关噬神斗场·生域 塑界2 难度1	0
+season_mission_des7	通关噬神斗场·生域 塑界2 难度2	0
+season_mission_des8	通关噬神斗场·生域 塑界2 难度3	0
+season_mission_des9	通关噬神斗场·生域 塑界2 难度4	0
+season_mission_des10	参与噬神斗场·生域 塑界2 难度5	0
+season_mission_des11	通关噬神斗场·冥域 塑界1 难度1	0
+season_mission_des12	通关噬神斗场·冥域 塑界1 难度2	0
+season_mission_des13	通关噬神斗场·冥域 塑界1 难度3	0
+season_mission_des14	通关噬神斗场·冥域 塑界1 难度4	0
+season_mission_des15	参与噬神斗场·冥域 塑界1 难度5	0
+season_mission_des16	通关噬神斗场·冥域 塑界2 难度1	0
+season_mission_des17	通关噬神斗场·冥域 塑界2 难度2	0
+season_mission_des18	通关噬神斗场·冥域 塑界2 难度3	0
+season_mission_des19	通关噬神斗场·冥域 塑界2 难度4	0
+season_mission_des20	参与噬神斗场·冥域 塑界2 难度5	0
+seasonbossname1	爆裂跃击	0
+seasonbossname2	蓄能暗噬	0
+seasonbossname3	特速覆攻	0
+seasonbossname4	逆势破围	0
+seasonbossname5	烁点闪迷	0
+seasonbossname6	动能转续	0
+seasonbossname7	轻装急援	0
+seasonbossname8	意刃入髓	0
+seasonbossname9	岿巍焚炼	0
+seasonbossname10	寒庭疾奔	0
+seasonbossname11	冰感突袭	0
+seasonbossname12	暴焰震颤	0
+seasonbossname13	限域催化	0
+seasonbossname14	酥麻寒颤	0
+seasonbossname15	特异速攻	0
+seasonbossname16	焦灼激战	0
+seasonbossname17	冷境偏锋	0
+seasonbossname18	威势贯透	0
+seasonbossname19	低则防疏	0
+seasonbossname20	战逢对手	0
+seasonbossname21	士气高涨	0
+seasonbossname22	常规跃击	0
+seasonbossname23	耐久避让	0
+seasonbossname24	防御回馈	0
+seasonbossname25	换阵登场	0
+seasonbossname26	异响弹射	0
+seasonbossname27	电芒回旋	0
+seasonbossname28	特异熔蚀	0
+seasonbossname29	冷境异袭	0
+seasonbossname30	蜕甲增韧	0
+seasonbossname31	壁垒对阵	0
+seasonbossname32	意刃入髓	0
+seasonbossname33	动能转续	0
+seasonbossname34	烈焰叠加	0
+seasonbossname35	常规跃击	0
+seasonbossname36	耐久避让	0
+seasonbossname37	换阵登场	0
+seasonbossname101	热寒易破	0
+seasonbossname102	异动增援	0
+seasonbossname103	冷境偏锋	0
+seasonbossname104	异芒炎盾	0
+seasonbossname105	意刃入髓	0
+seasonbossname106	暴伤转续	0
+seasonbossname107	士气高涨	0
+seasonbossname108	动能转续	0
+seasonbossname109	爆裂跃击	0
+seasonbossname110	伤害清算	0
+seasonbossname111	换阵登场	0
+seasonbossname112	伤害清算	0
+seasonbossname113	电芒回旋	0
+seasonbossname114	凛刃突进	0
+seasonbossname115	炽炎蚀形	0
+seasonbossname116	异响闪刺	0
+seasonbossname117	极戮伤伐	0
+seasonbossname118	动能转续	0
+seasonbossname119	弹雨蚀光	0
+seasonbossname120	战逢对手	0
+seasonbossname121	伤害清算	0
+seasonbossname122	换阵登场	0
+seasonbossname123	伤害清算	0
+seasonbossname124	恒常存续	0
+seasonbossname125	寒庭疾奔	0
+seasonbossname126	霜烽禁锢	0
+seasonbossname127	超链脉冲	0
+seasonbossname128	凛刃突进	0
+seasonbossname129	伤害叠积	0
+seasonbossname130	意刃入髓	0
+seasonbossname131	暴伤转续	0
+seasonbossname132	伤害反噬	0
+seasonbossname133	特速轰射	0
+seasonbossname134	勇破困围	0
+seasonbossname135	烈焰叠加	0
+seasonbossname136	愈战愈勇	0
+seasonbossname137	超导攻势	0
+seasonbossname138	王道机能	0
+seasonbossname139	寒庭疾奔	0
+seasonbossname140	魂体共驱	0
+seasonbossname141	深度伤痕	0
+seasonbossname142	聚力于技	0
+seasonbossname143	狂暴反噬	0
+seasonbossname144	战意高昂	0
+seasonbossname145	特速轰射	0
+seasonbossname146	威力流转	0
+seasonbossname147	愈战愈勇	0
+seasonbossname148	精技流转	0
+seasonbossname201	渊烬归元	0
+seasonbossname202	雷蜕寒枢	0
+seasonbossname203	炽湮凝相	0
+seasonbossname204	霜骸化电	0
+seasonbossname205	电荷猛击	0
+seasonbossname206	异火融毁	0
+seasonbossname207	伏特幽灵	0
+seasonbossname208	元素连袭	0
+seasonbossname209	影蚀双律	0
+seasonbossname210	战意高昂	0
+seasonbossname211	焰蚀承殇	0
+seasonbossname212	深度伤痕	0
+seasonbossname213	秘密武器	0
+seasonbossname214	影蚀双律	0
+seasonbossname215	重刃无锋	0
+seasonbossname216	深度伤痕	0
+seasonbossname217	秘密武器	0
+seasonbossname218	影蚀双律	0
+seasonbossname219	重刃无锋	0
+seasonbossname220	深度伤痕	0
+seasonbossname221	爆裂跃击	0
+seasonbossname222	烈焰叠加	0
+seasonbossname223	勇破困围	0
+seasonbossname224	特速轰射	0
+seasonbossname225	力贯金石	0
+seasonbossname226	特速轰射	0
+seasonbossname227	迅捷开场	0
+seasonbossname228	蓄势待发	0
+seasonbossname229	怒火不歇	0
+seasonbossname230	绝命酣战	0
+seasonbossname231	稳扎稳打	0
+seasonbossname232	无惧伤痛	0
+seasonbossname233	刺骨冰寒	0
+seasonbossname234	幽冷禁域	0
+seasonbossname235	伏特幽灵	0
+seasonbossname236	异火燎原	0
+seasonbossname250	雷霆炽威	0
+seasonbossname251	极寒之刃	0
+seasonbossname252	灼燃之刃	0
+seasonbossname253	幽影弧光	0
+seasonbossname254	冰火二重	0
+seasonbossname255	以巧破敌	0
+seasonbossname256	狂暴转化	0
+seasonbossname257	制胜法宝	0
+seasonbossname258	弱点看破	0
+seasonbossname259	突破极限	0
+seasonbossname260	水滴石穿	0
+seasonbossname261	光辉时刻	0
+seasonbossname270	3.7抗性1	1
+seasonbossname271	3.7抗性2	1
+seasonbossname272	3.7抗性3	1
+seasonbossname273	3.7抗性4	1
+seasonbossname274	3.7环境1	1
+seasonbossname275	3.7环境2	1
+seasonbossname276	3.7环境3	1
+seasonbossname277	3.7环境4	1
+seasonbossname278	3.7对抗1	1
+seasonbossname279	3.7对抗2	1
+seasonbossname280	3.7对抗3	1
+seasonbossname281	3.7对抗4	1
+seasonbossdes1	使用爆发技时，暴击伤害增幅提升45%，持续8秒。	0
+seasonbossdes2	支援技的技能急速增加100。	0
+seasonbossdes3	每次射击命中目标时，使目标受到持续0.5秒且提升3%的技能伤害，最多叠加10层。	0
+seasonbossdes4	当前上场队员射击伤害将无视目标25%的防御力。	0
+seasonbossdes5	队员射击伤害提升40%，同时队员被命中后有30%概率被眩晕1秒，每5秒内最多被眩晕1次。	0
+seasonbossdes6	使用常规技时，技能伤害提升40%，同时射击伤害降低40%，持续10秒。	0
+seasonbossdes7	全队及附属单位获得50%治疗加成提升，同时全队队员防御力降低40%。	0
+seasonbossdes8	射击命中目标时，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	0
+seasonbossdes9	噬体的高热/电击抗性降低30%，同时动能/低温抗性提升30%。	0
+seasonbossdes10	噬体的动能/低温抗性降低30%，同时高热/电击抗性提升30%。	0
+seasonbossdes11	噬体的特异/低温抗性降低30%，同时电击/高热抗性提升30%。	0
+seasonbossdes12	噬体的高热/电击抗性降低30%，同时动能/低温抗性提升30%。	0
+seasonbossdes13	当前塑界关卡挑战时间限制为90秒。	0
+seasonbossdes14	噬体的电击/低温类型抗性降低30%，特异/动能类型抗性提升30%。	0
+seasonbossdes15	噬体的动能/特异类型抗性降低30%，低温/高热类型抗性提升30%。	0
+seasonbossdes16	噬体的电击/高热类型抗性降低30%，低温/特异类型抗性提升30%。	0
+seasonbossdes17	噬体的低温/特异类型抗性降低30%，电击/高热类型抗性提升30%。	0
+seasonbossdes18	暴击伤害无视目标20%的抗性，其余类型伤害最终伤害降低15%。	0
+seasonbossdes19	队员生命高于50%时，攻击力提升40%；生命低于50%时，防御力降低40%。	0
+seasonbossdes20	敌方与我方攻击力均提升30%。	0
+seasonbossdes21	全队队员全类型伤害提升40%，队员上场后全类型伤害每秒降低3%，至多降低90%，离场后伤害降低效果移除。	0
+seasonbossdes22	使用常规技后，暴击伤害增幅提升45%，持续8秒。	0
+seasonbossdes23	战术闪避和冲刺不消耗耐力。	0
+seasonbossdes24	射击暴击后，全队防御力提升10%，至多叠加5层。	0
+seasonbossdes25	切换队员后，当前场上队员所有技能伤害提升40%，持续10秒。	0
+seasonbossdes26	噬体的动能/特异类型抗性降低30%，电击/低温类型抗性提升30%。	0
+seasonbossdes27	噬体的电击/高热类型抗性降低30%，动能/特异类型抗性提升30%。	0
+seasonbossdes28	噬体的特异/高热类型抗性降低30%，电击/低温类型抗性提升30%。	0
+seasonbossdes29	噬体的低温/特异类型抗性降低30%，高热/动能类型抗性提升30%。	0
+seasonbossdes30	噬体极夜幽影右肩与腰部的护甲失去防护作用，但其受到的射击伤害降低30%，受到的技能伤害提升20%。	0
+seasonbossdes31	噬体与我方队员的防御力均提升30%。	0
+seasonbossdes32	射击命中目标时，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	0
+seasonbossdes33	使用常规技时，技能伤害提升40%，同时射击伤害降低40%，持续10秒。	0
+seasonbossdes34	使用常规技后，下一次爆发技伤害提升20%。该效果至多叠加3次。	0
+seasonbossdes35	使用常规技后，暴击伤害增幅提升45%，持续8秒。	0
+seasonbossdes36	战术闪避和冲刺不消耗耐力。	0
+seasonbossdes37	切换队员后，当前场上队员所有技能伤害提升40%，持续10秒。	0
+seasonbossdes101	噬体的高热/低温类型抗性降低30%，电击/动能类型抗性提升30%。	0
+seasonbossdes102	噬体的特异/动能类型抗性降低30%，低温/电击类型抗性提升30%。	0
+seasonbossdes103	噬体的低温/特异类型抗性降低30%，电击/高热类型抗性提升30%。	0
+seasonbossdes104	噬体的特异/高热类型抗性降低30%，动能/低温类型抗性提升30%。	0
+seasonbossdes105	射击命中目标时，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	0
+seasonbossdes106	使用常规技时，技能伤害提升40%，同时暴击伤害增幅降低50%，持续8秒。	0
+seasonbossdes107	全队队员全类型伤害提升40%，队员上场后全类型伤害每秒降低3%，至多降低90%，离场后伤害降低效果移除。	0
+seasonbossdes108	使用常规技时，技能伤害提升40%，同时射击伤害降低40%，持续10秒。	0
+seasonbossdes109	使用爆发技时，暴击伤害增幅提升45%，持续8秒。	0
+seasonbossdes110	战斗过程中，噬体的生命及能质护盾不会降低，但噬体受到的技能伤害额外提升25%。	0
+seasonbossdes111	切换队员后，当前场上队员所有技能伤害提升40%，持续10秒。	0
+seasonbossdes112	战斗过程中，噬体的生命及能质护盾不会降低，但噬体受到的技能伤害额外提升25%。	0
+seasonbossdes113	噬体的电击/高热类型抗性降低30%，同时动能/特异类型抗性提升30%。	0
+seasonbossdes114	噬体的特异/低温类型抗性降低30%，同时动能/高热类型抗性提升30%。	0
+seasonbossdes115	噬体的高热/动能类型抗性降低30%，同时电击/低温类型抗性提升30%。	0
+seasonbossdes116	噬体的特异/动能类型抗性降低30%，同时电击/高热类型抗性提升30%。	0
+seasonbossdes117	使用常规技后，我方全队暴击伤害增幅提升50%，但防御力降低20%，持续8秒。	0
+seasonbossdes118	使用常规技时，技能伤害提升40%，同时射击伤害降低40%，持续10秒。	0
+seasonbossdes119	使用常规技后，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	0
+seasonbossdes120	敌方与我方攻击力均提升30%。	0
+seasonbossdes121	战斗时噬体受到的射击伤害将额外提升25%。但在难度5关卡中，噬体的生命及能质护盾不会降低。	0
+seasonbossdes122	切换队员后，当前场上队员所有技能伤害提升40%，持续10秒。	0
+seasonbossdes123	战斗时噬体受到的伤害将额外提升25%。但在难度5关卡中，噬体的生命及能质护盾不会降低。	0
+seasonbossdes124	使用常规技后，技能伤害提升40%，持续10秒。	0
+seasonbossdes125	噬体的动能/低温类型抗性降低30%，同时高热/电击类型抗性提升30%。	0
+seasonbossdes126	噬体的高热/低温类型抗性降低30%，同时动能/特异类型抗性提升30%。	0
+seasonbossdes127	噬体的动能/电击类型抗性降低30%，同时低温/特异类型抗性提升30%。	0
+seasonbossdes128	噬体的特异/低温类型抗性降低30%，同时动能/高热类型抗性提升30%。	0
+seasonbossdes129	战斗过程中，噬体的能质护盾及生命不会降低，且噬体攻击力提升25%，但被射击命中后，噬体防御力将降低0.5%，该防御力降低效果至多叠加至50层。	0
+seasonbossdes130	战斗过程中，噬体的能质护盾及生命不会降低。射击命中目标时，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	0
+seasonbossdes131	战斗过程中，噬体的能质护盾及生命不会降低。使用常规技时，队员的技能伤害提升40%，同时暴击伤害增幅降低50%，持续8秒。	0
+seasonbossdes132	战斗过程中，噬体的能质护盾及生命不会降低，且噬体攻击力提升25%，但噬体受到的伤害将额外提升25%。	0
+seasonbossdes133	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	0
+seasonbossdes134	战斗过程中，我方队员的射击伤害将无视目标25%的防御力。	0
+seasonbossdes135	使用常规技后，爆发技伤害将提升20%，持续到战斗结束。该效果至多叠加至3层。	0
+seasonbossdes136	使用常规技后，队员自身攻击力将提升30%，持续5秒，且每次射击命中目标后，该效果持续时间将延长1秒。	0
+seasonbossdes137	噬体的低温/电击类型抗性降低30%，同时特异/高热类型抗性提升30%。	0
+seasonbossdes138	噬体的动能/高热类型抗性降低30%，同时特异/电击类型抗性提升30%。	0
+seasonbossdes139	噬体的低温/动能类型抗性降低30%，同时高热/电击类型抗性提升30%。	0
+seasonbossdes140	噬体的动能/特异类型抗性降低30%，同时低温/电击类型抗性提升30%。	0
+seasonbossdes141	战斗过程中，噬体的生命不会降低，被射击命中后，噬体的防御力降低20%，持续5秒，期间队员受到的伤害提升20%。	0
+seasonbossdes142	战斗过程中，噬体的生命不会降低，队员使用常规技后，技能伤害提升40%，但射击伤害降低40%，持续10秒。	0
+seasonbossdes143	战斗过程中，噬体的生命不会降低且攻击力提升25%，但其受到的伤害额外提升25%。	0
+seasonbossdes144	战斗过程中，噬体的生命不会降低且攻击力提升30%，但队员攻击力提升30%。	0
+seasonbossdes145	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	0
+seasonbossdes146	队员爆发技伤害提升30%，使用爆发技时立刻回复最大生命100%的生命。	0
+seasonbossdes147	使用常规技后，队员自身攻击力将提升30%，持续5秒，且每次射击命中目标后，该效果持续时间将延长1秒。	0
+seasonbossdes148	队员技能伤害提升30%，使用爆发技时立刻回复最大生命100%的生命。	0
+seasonbossdes201	噬体的低温/高热类型抗性降低30%，同时特异/动能类型抗性提升30%。	0
+seasonbossdes202	噬体的特异/电击类型抗性降低30%，同时低温/动能类型抗性提升30%。	0
+seasonbossdes203	噬体的高热/电击类型抗性降低30%，同时特异/低温类型抗性提升30%。	0
+seasonbossdes204	噬体的低温/动能类型抗性降低30%，同时特异/电击类型抗性提升30%。	0
+seasonbossdes205	噬体的电击/动能类型抗性降低30%，同时特异/低温类型抗性提升30%。	0
+seasonbossdes206	噬体的高热/特异类型抗性降低30%，同时动能/电击类型抗性提升30%。	0
+seasonbossdes207	噬体的电击/特异类型抗性降低30%，同时高热/低温类型抗性提升30%。	0
+seasonbossdes208	噬体的低温/高热类型抗性降低30%，同时电击/动能类型抗性提升30%。	0
+seasonbossdes209	战斗过程中，噬体的高淬能质护盾与生命值不会降低；场上我方角色每次造成射击伤害时，会使目标受到的技能伤害提升10%，但目标攻击力同步提升10%，持续10秒，该效果最多叠加3层。	0
+seasonbossdes210	战斗过程中，噬体的生命不会降低，敌我双方攻击力均提升30%。	0
+seasonbossdes211	战斗过程中，噬体的高淬能质护盾和生命不会降低且全队队员的治疗加成下降30%；每次射击命中后，技能伤害提升4%，持续10秒，该效果最多叠加10层。	0
+seasonbossdes212	战斗过程中，噬体的高淬能质护盾与生命值不会降低；每次射击命中目标后，目标防御力降低20%，持续5秒，但全队队员受到的伤害提升20%。	0
+seasonbossdes213	战斗过程中，噬体的高密通常护盾和生命不会降低；队员持有【特殊弹匣】时，射击伤害提升40%，未持有特殊弹匣时，攻击力降低40%。	0
+seasonbossdes214	战斗过程中，噬体的高淬能质护盾和生命不会降低；队员每次造成射击伤害时，会使该目标受到的技能伤害提升10%但攻击力提升10%，持续10秒，该效果最多叠加3层。	0
+seasonbossdes215	战斗过程中，噬体的高密通常护盾和生命不会降低，队员暴击伤害增幅提升45%，但使用常规技后攻击力降低50%，持续6秒。	0
+seasonbossdes216	战斗过程中，噬体的高密通常护盾和生命不会降低，队员射击命中目标后，目标防御降低20%，但队员受到的伤害提升20%，持续5秒。	0
+seasonbossdes217	战斗过程中，噬体的高密通常护盾和生命不会降低；队员持有【特殊弹匣】时，射击伤害提升40%，未持有特殊弹匣时，攻击力降低40%。	0
+seasonbossdes218	战斗过程中，噬体的高淬能质护盾和生命不会降低；队员每次造成射击伤害时，会使该目标受到的技能伤害提升10%但攻击力提升10%，持续10秒，该效果最多叠加3层。	0
+seasonbossdes219	战斗过程中，噬体的高密通常护盾和生命不会降低，队员暴击伤害增幅提升45%，但使用常规技后攻击力降低50%，持续6秒。	0
+seasonbossdes220	战斗过程中，噬体的高密通常护盾和生命不会降低，队员射击命中目标后，目标防御降低20%，但队员受到的伤害提升20%，持续5秒。	0
+seasonbossdes221	使用爆发技后，暴击伤害增幅提升45%，持续8秒。	0
+seasonbossdes222	使用常规技后，爆发技伤害提升20%，至多叠加3次。	0
+seasonbossdes223	战斗过程中，我方队员的射击伤害将无视目标25%的防御力。	0
+seasonbossdes224	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	0
+seasonbossdes225	战斗过程中，我方队员的技能伤害将无视目标25%的防御力。	0
+seasonbossdes226	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	0
+seasonbossdes227	使用常规技后技能伤害提升40%，持续10秒。	0
+seasonbossdes228	使用常规技后，爆发技伤害提升20%，至多叠加3层。	0
+seasonbossdes229	战斗过程中，噬体的高淬能质护盾和生命不会降低；我方队员每次造成技能伤害时，会使该目标受到的技能伤害提升10%，同时使该目标攻击力提升10%，持续10秒，该效果最多叠加3层。	0
+seasonbossdes230	战斗过程中，噬体的高密通常护盾和生命不会降低；我方队员射击命中目标后，目标防御降低20%，同时我方队员受到的伤害提升20%，持续5秒。	0
+seasonbossdes231	战斗过程中，噬体的高淬能质护盾和生命不会降低；我方队员使用常规技后，暴击伤害增幅降低50%，同时技能伤害提升40%，持续8秒。	0
+seasonbossdes232	战斗过程中，噬体的高淬能质护盾和生命不会降低；我方队员每次射击命中后，技能伤害提升4%，该效果最多叠加10层，同时我方队员的治疗加成下降30%，持续10秒。	0
+seasonbossdes233	噬体的动能/低温类型抗性降低30%，同时高热/特异类型抗性提升30%。	0
+seasonbossdes234	噬体的特异/低温类型抗性降低30%，同时高热/电击类型抗性提升30%。	0
+seasonbossdes235	噬体的电击/动能类型抗性降低30%，同时高热/低温类型抗性提升30%。	0
+seasonbossdes236	噬体的高热/特异类型抗性降低30%，同时电击/低温类型抗性提升30%。	0
+seasonbossdes250	噬体的高热/电击类型抗性降低30%，同时特异/动能类型抗性提升30%。	0
+seasonbossdes251	噬体的动能/低温类型抗性降低30%，同时高热/电击类型抗性提升30%。	0
+seasonbossdes252	噬体的动能/高热类型抗性降低30%，同时特异/电击类型抗性提升30%。	0
+seasonbossdes253	噬体的电击/特异类型抗性降低30%，同时高热/低温类型抗性提升30%。	0
+seasonbossdes254	战斗过程中，噬体的高密通常护盾和生命不会降低；我方队员造成高热/低温伤害时会使目标受到的低温/高热伤害提升40%，持续2秒，同时队员受到的伤害提升20%。	0
+seasonbossdes255	战斗过程中，噬体的高淬能质护盾及生命不会降低；我方队员使用常规技后，技能伤害提升40%但射击伤害降低40%，持续10秒。	0
+seasonbossdes256	战斗过程中，噬体的高密通常护盾和生命不会降低；噬体攻击力提升25%，被射击命中后，防御力降低0.5%，该防御力降低效果至多叠加至50层。	0
+seasonbossdes257	战斗过程中，噬体的高密通常护盾和生命不会降低，持有【特殊弹匣】时，射击伤害提升40%，未持有【特殊弹匣】时，攻击力降低40%。	0
+seasonbossdes258	战斗过程中，我方队员的射击伤害将无视目标25%的防御力。	0
+seasonbossdes259	队员爆发技伤害提升30%，使用爆发技时，立刻回复自身最大生命100%的生命。	0
+seasonbossdes260	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	0
+seasonbossdes261	使用爆发技后，暴击伤害增幅提升45%，持续8秒。	0
+seasonbossdes270	噬体的低温/电击类型抗性降低30%，同时特异/高热类型抗性提升30%。	0
+seasonbossdes271	噬体的高热/特异类型抗性降低30%，同时动能/电击类型抗性提升30%。	1
+seasonbossdes272	噬体的电击/高热类型抗性降低30%，同时特异/动能类型抗性提升30%。	1
+seasonbossdes273	噬体的动能/特异类型抗性降低30%，同时高热/低温类型抗性提升30%。	1
+seasonbossdes274	射击命中后0.5秒内目标受到的技能伤害提升30%	1
+seasonbossdes275	使用常规技后技能伤害提升40%，持续10秒	1
+seasonbossdes276	战斗过程中，我方队员的技能伤害将无视目标25%的防御力。	1
+seasonbossdes277	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	1
+seasonbossdes278	战斗过程中，噬体的强化技能护盾和生命不会降低；射击命中目标后自身攻击力提升30%，但是使用常规技后防御力降低10%，持续5秒，该效果最多叠加3层	1
+seasonbossdes279	战斗过程中，噬体的强化技能护盾和生命不会降低；射击命中目标后，目标防御降低20%，持续5秒但队员受到的伤害提升20%；	1
+seasonbossdes280	战斗过程中，噬体的强化技能护盾和生命不会降低；我方角色每次造成技能伤害时，会使该目标受到的技能伤害提升10%但攻击力提升10%，持续10秒，该效果最多叠加3层	1
+seasonbossdes281	战斗过程中，噬体的强化射击护盾和生命不会降低，，射击命中目标后，目标防御降低20%，持续5秒但队员受到的伤害提升20%。	1
+		
+seasonboss_quicktips1	通关难度4即视作通关同塑界中的所有前置难度关卡，是否继续当前挑战？	0

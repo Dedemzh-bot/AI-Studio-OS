@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	呃……嗯……	呃……嗯……	ええと……うーん……	윽… 음…	Uh... Hmm...						0	2.3版本随机事件
+page1.2	……成熟之爱，成为他的贤内助……表现出我的气度……	……成熟之愛，成為他的賢內助……展現我的氣度……	大人の愛、彼の支えとなって、あたしの器量を見せる……	…성숙한 사랑, 그를 내조해 주며… 나의 기품을 뽐내라…	...Offer him mature love, be his perfect better half... show him my grace and poise...						0	2.3版本随机事件
+page1.3	最近芬妮有时会这样一个人待着念叨些什么——	最近芬妮有時會這樣一個人待著碎念些什麼——	ファニーは最近、よくこんなふうに一人でつぶやくようになった。	요즘 페니는 가끔 이렇게 혼자서 무언가를 중얼거리곤 한다…	(Lately, Fenny's been muttering things like this to herself when she thinks no one's around.)						0	2.3版本随机事件
+page1.4	芬妮。	芬妮。	ファニー。	페니.	Fenny.						0	2.3版本随机事件
+page1.5	达令——	達令——	ダーリン～	달링…	Darling~!						0	2.3版本随机事件
+page1.6	你从公司回来啦！累不累？饿不饿？先休息还是先吃饭？	你從公司回來啦！累不累？餓不餓？先休息還是先吃飯？	会社から戻ったのね！疲れた？お腹空いた？先に休む？それともご飯食べる？	회사 마치고 온 거야? 힘들지는 않았어? 배는 안고파? 조금 쉬다가 밥 먹을까, 아니면 지금 바로 먹을까?	You're home! Are you tired? Hungry? Do you want to rest first, or should we grab dinner?						0	2.3版本随机事件
+page1.7	感觉芬妮最近变得更加懂事体贴了。	感覺芬妮最近變得更懂事體貼了。	なんだかファニーは最近気配りができるようになったな。	페니가 요즘 들어 더 다정해진 거 같아.	You've been extra thoughtful and caring lately, Fenny.						0	2.3版本随机事件
+page1.8	哼哼……作为伴侣应该的啦。	哼哼……作為伴侶應該的啦。	ふふん……パートナーとして当然のことよ。	흠흠… 커플로서 당연히 해야 하는 일인 걸.	Well, that's just what a good partner should be, right?						0	2.3版本随机事件
+page1.9	前段时间一直忙，度假的时候人多事也多，没有专门多陪陪你。	前段時間一直忙，度假的時候人多事也多，沒有專門多陪陪你。	この前は忙しくて、バカンスの時も人が大勢いてやることも多かったし、ファニーに付き合う時間が作れなかった。	얼마 전까지는 계속 바빴어, 바캉스 갔을 때는 사람도 많았고, 일도 많아서 널 제대로 못 챙겨준 거 같네.	Yeah, I've been tied up with work, and our last vacation was a whirlwind. I know we haven't had much time together lately.						0	2.3版本随机事件
+page1.10	今天没有其他安排了，去芬妮一直念叨着想去的那家餐厅怎么样？	今天沒有其他安排了，去芬妮一直念著想去的那家餐廳怎麼樣？	今日は他の用事がないから、ファニーがいつも行きたいと言ってたあのレストランに行こうか？	오늘은 다른 일정이 없는데, 계속 가고 싶어 했던 그 식당에 가볼까?	But I wrapped up early today, so how about we finally hit up that restaurant you've been raving about? I'm all yours tonight.						0	2.3版本随机事件
+page1.11	好啊好啊！	好啊好啊！	やった！	좋아, 좋아!	Really? Yay! Let's go!						0	2.3版本随机事件
+page1.12	咳咳！那个，最近达令你也辛苦了，陪不陪我其实我都理解……	咳咳！那個，最近達令你也辛苦了，陪不陪我其實我都懂……	こほん！ええと、最近ダーリンも疲れてるし、付き合ってもらえないのも仕方ないし……	흠흠! 그게, 달링, 그동안 고생 많았어, 날 못 챙겨준 것도 사실 다 이해해…	Ahem... But, you know, darling, you've been working hard, so even if we couldn't spend much time together, I totally understand...						0	2.3版本随机事件
+page1.13	真的？既然芬妮这么慷慨，那我再去楼上逛逛好了。	真的？既然芬妮這麼慷慨，那我再去樓上逛逛好了。	本当か？ファニーがそこまで言うなら、上の階を歩き回ることにしようか。	정말? 페니가 이렇게 이해심이 넓다니, 그럼 위층에 가서 조금 더 둘러보고 와도 될까?	Wow, thank you for being so understanding, Fenny. Guess that means I'll have time to take a quick look around upstairs, then.						0	2.3版本随机事件
+page1.14	哎——！怎么不按套路走啊！	哎——！怎麼不按套路走啊！	ええー！なんでそうなるの！	쳇…! 왜 내 장단에 안 맞춰주는 거야!	What—!? That's not how this is supposed to go!						0	2.3版本随机事件
+page1.15	你可说了今天只陪我的，不许再看其他地方啦！	你說好了今天只陪我的，不准再看其他地方啦！	今日はあたしに付き合うって言ったでしょ、もうよそ見しないの！	오늘 나랑 같이 있기로 약속했잖아, 다른데 가는 건 허락 못 해!	You promised you're all mine tonight — no sidetracks allowed!						0	2.3版本随机事件
+page1.16	（还是这样的芬妮比较可爱，哈哈。）	（還是這樣的芬妮比較可愛，哈哈。）	（やっぱりファニーはこうしてた方がかわいいな、はは）	(역시 지금의 페니가 더 귀여워, 하하.)	(Haha, that's my Fenny. Adorable.)						0	2.3版本随机事件

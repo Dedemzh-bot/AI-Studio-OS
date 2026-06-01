@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	他们就把弹药箱这样随意摆放在路边吗？	他們就把彈藥箱這樣隨意擺放在路邊嗎？	あいつら弾薬箱をこんな適当に道端に置いてるの？	저 녀석들은 탄약함을 이렇게 막 내팽개치고 다니나?	They just leave their ammo boxes by the side of the road like that?						0	
+2	不像是接受过系统性的军事训练。	不像是接受過系統性的軍事訓練。	体系的に軍事訓練を受けたわけじゃなさそう。	군사 훈련을 체계적으로 받은 모양은 아닌 것 같군.	Seems like they haven't had any formal military training.						0	
+3	不过拿起来方便的。	不過拿起來蠻方便的。	でもくすねるのが簡単で助かる。	가져가는데 편하긴 하겠어.	But it makes things easier for us.						0	

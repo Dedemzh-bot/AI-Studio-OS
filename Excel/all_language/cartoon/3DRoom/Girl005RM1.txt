@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	做新的周报，维护外骨骼装置，参加训练考核……	做新的周報，維護外骨骼裝置，參加訓練考核……	新しい週報を書く、外骨格装置の点検、訓練評価に参加する……	새 주간지 만들기, 전술 슈트 장치 수리, 훈련 테스트…	Draw up a new weekly report, perform maintenance on the exosuit, do a training assessment...						0	
+page0.2	读新一期的《枪械大全》，和恩雅姐确认茶点的口味，给阴极科技的新型战术套装提反馈意见……	讀新一期的《槍械大全》，和恩雅姐確認茶點的口味，給陰極科技的新型戰術套裝提反饋意見……	最新号の『銃図鑑』を読む、エンヤさんとお菓子の味を確認する、カソードテクノロジーの新型戦術装備の感想を書くっと……	<총기 대백과> 신간 읽기, 엔야 언니랑 다과 맛보기, 케소드 테크윈의 신형 전술 세트 피드백하기…	Read the newest issue of "The Firearm Encyclopedia," confirm the snack flavors with Enya, give feedback on the new Cathode Technologies tactical gear...						0	
+page0.3	唔，时间可能调不开了，先把这两项放到次级备选事项里吧。	唔，時間可能排不開了，先把這兩項放到次級備選事項裡吧。	んー……時間的が足りませんね、この二つは候補にしておきましょうか。	음, 시간이 모자라겠어. 일단 이 두 가지는 다음으로 미루자.	Well, looks like there isn't enough time. I'll mark these two as secondary priorities for now.						0	
+page0.4	茉莉安，需要帮忙吗，你看起来好像遇到困难了？	茉莉安，需要幫忙嗎，你看起來好像遇到困難了？	マリアン、何か困っているのか？私が手伝おうか。	마리안, 도와줄까? 뭔가 곤란한 상황인 것 같은데.	Marian, do you need some help? It looks like you're having a tough time.						0	
+page0.5	是分析员啊，抱歉没注意到你。	是分析員啊，抱歉沒注意到你。	分析員さん。すみません、気づきませんでした。	분석가님 오셨어요? 죄송해요. 온 걸 미처 눈치채지 못했어요.	Ah, Adjutant. Sorry, I didn't see you there.						0	
+page0.6	没事，我只是路过，看你在一副很为难的样子，是在愁报告的事吗？	沒事，我只是路過，看你一副很為難的樣子，是在煩惱報告的事嗎？	たまたま通りすがっただけだ。困ってそうな顔だけど、報告のことで困ってるのか？	괜찮아, 지나가던 길에 뭔가 곤란해 보여서. 보고 때문에 걱정하는 거야?	It's alright. I was just passing by and saw you having trouble. Are you worried about writing a report?						0	
+page0.7	呼，报告我已经准备好了，只是还没来得及二次整理和润色，现在是在为时间管理的事情烦恼着……	呼，報告我已經準備好了，只是還沒來得及二次整理和潤色，現在是在為時間管理的事情煩惱著……	いえ、再整理と添削はまだですが、報告ならもう用意しました。今は時間管理のことで悩んでいまして……	후… 보고는 이미 준비됐어요. 다시 정리하고 다듬는 건 아직이지만요. 지금은 시간 분배 때문에 고민 중이에요…	Well, I wrote the report, but I haven't had time to go over it again and polish it. Now I'm worried about managing my time...						0	
+page0.8	昨天临时替补了一个棚户区清理任务，导致后面所有的行程都要重新排列了。	昨天臨時替補了一個棚戶區清理任務，導致後面所有的行程都要重新排列了。	昨日臨時でスラムエリアの清掃任務に当たったせいで、その後のスケジュールを最初から並べ直さなきゃいけなくなって。	어제 급하게 판자촌 클리닝 미션을 대타로 나가는 바람에, 원래 일정이 전부 꼬였거든요.	I was a sub on the cleanup mission in The Camps yesterday and it threw off my entire schedule.						0	
+page0.9	昨天真是辛苦你了，难为你立刻就能进队替补。	昨天真是辛苦你了，難為你立刻就能進隊替補。	昨日はすぐ対応してくれて、助かったよ。	어젠 정말 고생했어. 갑자기 대타라서 정말 곤란했을 텐데.	Thanks for your hard work yesterday. Sorry to make you join the team as a sub at the last minute.						0	
+page0.10	在我这里，分析员指派的任务都是优先级最高的哦。何况，这可是多了一次体验“愉悦”的机会呢。	在我這裡，分析員指派的任務都是優先級最高的哦。何況，這可是多了一次體驗“愉悅”的機會呢。	私にとって、分析員さんから指定されるミッションは全部最優先なんですよ。これも「愉悦」を感じるチャンスですから。	제게 있어 분석가님이 주시는 미션은 언제나 최우선이에요. 게다가 '상처'를 입을 수 있는 좋은 기회잖아요.	The way I see it, the missions you assign me are my top priority. And it was another chance for me to experience "joy."						0	
+page0.11	咳，看来你有一个条理清晰的计划表，难怪总是能做到事事从容，滴水不漏。	咳，看來你有一個條理清晰的計劃表，難怪總是能做到事事從容，滴水不漏。	……ええと。どうやら君は綿密に計画を立ててるみたいだな。道理で何もかもそつなくこなせるわけだ。	흠흠… 일정표를 아주 세세하게 짰네. 어쩐지 늘 침착하고 꼼꼼하더라.	Ahem... it seems like your schedule is really organized. No wonder you're able to handle everything so effortlessly and flawlessly.						0	
+page0.12	嗯，这算我一直以来的习惯。	嗯，這算我一直以來的習慣。	まあ、いつもの習慣ですから。	네, 이건 제가 지금까지 해왔던 습관이에요.	Yes, I suppose it's a habit of mine.						0	
+page0.14	唔！	唔！	っ！	그렇구나…	Um...!						0	
+page0.15	好啦，我已经想好怎么调整之后的行程了。	好啦，我已經想好怎麼調整之後的行程了。	あ、この後のスケジュールをどう調整するか浮かびました。	아, 이제 이후의 일정을 마저 해야 해서.	There we go. I figured out how to adjust my schedule.						0	
+page0.16	按照计划表，现在可是喝茶的时间哦。	按照計劃表，現在可是喝茶的時間哦。	スケジュール通り、今はお茶の時間です。	일정표대로라면, 지금은 티타임이에요.	And according to my schedule, it's time for tea.						0	
+page0.17	刚好我买的新茶具到了，分析员也一起来吧~	剛好我買的新茶具到了，分析員也一起來吧~	ちょうど新しく買った茶道具が届きましたから、分析員さんも一緒にどうですか？	마침 새로 산 다기가 배송됐어요. 분석가님도 함께 하시겠어요?	My new tea set arrived just in time. Let's enjoy some together, Adjutant~						0	

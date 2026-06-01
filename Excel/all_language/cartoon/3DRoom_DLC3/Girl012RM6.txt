@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	猫汐尔，资源部那边说有你的包裹，记得去拿。	貓汐爾，資源部說有你的包裹，記得去拿。	マーシル、宅配便があるって資源部が言ってたから、受け取るのを忘れないで。	캣 시에라, 자원부에 네 택배가 와 있다고 하니까 잊지 말고 찾아가.	Mauxir, the Resource Department said they have a package for you. Remember to pick it up.						0	
+page0.2	好的喵。	好的喵。	んニャ。	알았다냥.	Alright, nya.						0	
+page0.3	猫汐尔，资源部，包裹。	貓汐爾，資源部，包裹。	マーシル、資源部、宅配便。	캣 시에라, 자원부, 택배.	Mauxir, Resource Department. Package.						0	
+page0.4	好的喵。	好的喵。	んニャ。	알았다냥.	Alright, nya.						0	
+page0.5	猫汐尔。	貓汐爾。	マーシル。	캣 시에라.	Mauxir.						0	
+page0.6	是有我的包裹吗？	是有我的包裹嗎?	宅配便でしょ？	내 택배가 온 건가?	Is there a package for me?						0	
+page0.7	你也知道啊，你到底从雅卢岛带了多少东西回来？	你也知道啊，到底從雅盧島帶了多少東西回來?	よく知ってるな。ガルーアイランドからどれだけのものを持ち帰ってきたんだ？	대체 야루섬에서 뭘 그렇게 많이 가지고 온 거야?	You got it. How much stuff did you ship back from Yallu Island?						0	
+page0.8	海螺，树果，花瓣，石头……	海螺、樹果、花瓣、石頭……	サザエ、木の実、花びら、石……	소라, 열매, 꽃잎, 돌멩이…	Shells, fruit, petals, rocks...						0	
+page0.9	前面的我都能接受，石头是？	前面的我都能接受，但石頭是?	ほかのやつはともかく、石って？	앞의 세 개는 이해가 가는데, 돌멩이는 왜?	I can understand the first few, but why rocks?						0	
+page0.10	从祭坛遗迹下面挖出来的。	從祭壇遺跡下面挖出來的。	祭壇の遺跡から掘り出したもの。	제단 유적 밑에서 발견한 거다.	I excavated them from under the altar ruins.						0	
+page0.11	……行，那这些东西一个箱子就能带走了吧，为什么寄回来这么多包裹？	……好吧，那這些東西一個箱子就能帶走了吧，為什麼寄那麼多包裹回來?	……分かった。じゃあ一つの箱に入るはずなのに、こんなにたくさんの小包に分けた理由は？	… 알았어, 근데 이 물건들은 상자 하나에 담을 수 있는 건데, 왜 택배를 여러 개 보낸 거야?	...Okay, but couldn't you have brought them back in one box? Why are there so many packages?						0	
+page0.12	我还灌了三桶岛上的水回来。	我還灌了三桶島上的水回來。	あと島の水も3タル持ち帰ってきたよ。	섬의 물도 세 통으로 나눠 담아서 가져왔다.	I also filled up three buckets with water from the island.						0	
+page0.13	分别是海水、山泉水和雨水，很有价值的喵。	分別是海水、山泉水和雨水，很有價值的喵。	海水と山泉水と雨水で、とても価値のあるものニャ。	바닷물, 샘물, 빗물, 모두 다 값진 것이다냥.	I collected ocean water, mountain spring water, and rainwater. It's all really valuable.						0	
+page0.14	真不愧是你。	真不愧是你。	さすがだな。	정말 너답다.	Why am I not surprised?						0	

@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	里芙			那是尤弥尔！	0	
+2		0	芬妮			它好像在故意把我们逼向某处。	0	
+3		0	辰星			撤退，先观察一下。	0	

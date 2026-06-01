@@ -1,0 +1,46 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	已经换装“倒头就睡”，锁定目标完毕。	已經換裝“倒頭就睡”，鎖定目標完畢。	「ぐっすり弾」に切り替えた、ターゲットをロックオン。	'수면제' 탄약 교체 완료, 타깃 확보 완료.	I've reloaded with Sleepers. Target locked.						0	
+2	继续锁定目标，先观察情况。	繼續鎖定目標，先觀察情況。	続けてロックして、まずは様子を見るか……	계속해서 타깃을 주시하고 상황을 살펴보도록.	Keep locked on and observe.						0	
+3	局势看起来很紧张喵。	局勢看起來很緊張喵。	状況は緊張がかなり高まっている感じニャン。	상황이 엄청 긴박해 보인다냥.	Things look rather tense.						0	
+4	一旦发现有交火迹象，我们就立刻介入。	一旦發現有交火跡象，我們就立刻介入。	交戦の予兆を見つけたら、すぐ介入する。	일이 커질 것 같으면 바로 개입하도록 하지.	The moment we find any signs of crossfire, we're joining in.						0	
+5	双方都用枪指着对方，按照科幻小说的理论，难道不会陷入猜疑链吗？	雙方都用槍指著對方，按照科幻小說的理論，難道不會陷入猜疑鏈嗎？	お互い銃を向け合っていたら……SF小説の理論によれば、疑いの連鎖に陥るんじゃ？	양측 모두 서로를 겨냥하고 있다. 판타지 소설 이론처럼 서로에 대한 의심이 꼬리에 꼬리를 물지 않을까?	If both sides are aiming their guns at each other, then according to one science fiction novel I've read, wouldn't that create a chain of suspicion?						0	
+6	按照这个方向推论，发生交火只是时间问题。	按照這個方向推論，發生交火只是時間問題。	この方向で推測すれば、交戦するのも時間の問題。	해당 이론대로라면 서로가 싸우는 건 시간문제다.	Thus, we can speculate that it's only a matter of time until they open fire.						0	
+7	但是，对峙双方还在沟通，并且，各自的领袖还在保持克制。	但是，對峙雙方還在溝通，並且各自的領袖還在保持克制。	しかし、双方はまだ話し合っている。それに、各々のリーダーも自制している。	하지만 양측 모두 소통 중이고, 각 리더들도 현상을 유지하고 있으니 지나친 추측은 금물이야.	But the two sides are still communicating, and both leaders are remaining cautious.						0	
+8	逐光者的无人机，真的会在这里出现喵？	逐光者的無人機，真的會在這裡出現喵？	逐光者のドローンは本当にここに現れるのかニャン？	축광단 드론이 이곳에 정말 나타날까냥?	Will the Light Chaser drones really appear here?						0	
+9	等等看吧。	等等看吧。	待ってみよう。	조금만 더 지켜보도록 하지.	Wait and see.						0	
+10	外来者！滚出去！天楼不欢迎你们。	外來者！滾出去！天樓不歡迎你們。	侵略者！出ていけ！スカイタワーはお前らを歓迎しない！	어이, 외부인! 이만 물러나지? 스카이 타워에서는 네 녀석들을 반기지 않으니.	Outsiders! Get outta here! The Towers do not welcome you.						0	
+11	你代表不了天楼，说话小心点。	你代表不了天樓，說話小心點。	お前はスカイタワーの代表じゃない、言葉に気を付けろ。	네가 스카이 타워 대표라도 돼? 입 조심하는 게 좋을 거야.	You don't represent the Towers. Watch what you say.						0	
+12	我只有一句话，你们没资格在这里当蛀虫。	我只有一句話，你們沒資格在這裡當蛀蟲。	言いたいことは一つだけだ、お前らウジ虫はここにいる資格がない。	한 마디 충고하자면 너희들은 이곳에서 기생충처럼 있을 자격조차 없어.	I just have one thing to say to you. You have no right to be parasites here.						0	
+13	爱思特首领正在跟其他管事协商，会有什么结果，不由你我说了算。	愛思特首領正在跟其他管事協商，會有什麼結果，不是由你我說了算。	エステルさんが他の幹事と話し合っている。どんな結果になるか、俺らが決められることじゃない。	현재 에스터 두목님이 다른 관리자와 협상 중에 있어. 어떤 결과가 나올지 네 뜻대로 되는 것도 아니고.	Boss Esther is negotiating with the other Administrators, and the outcome has yet to be decided. Your word doesn't go here.						0	
+14	而且，在降临事件前，我就住在这里，九栋二单元八零二，就是我家。	而且在降臨事件前，我就住在這裡，九棟二號樓八零二，就是我家。	それに、俺は降臨事件前からここに住んでいた。第9ビル第2エリアの802が俺の家だ。	그리고 강림 사건 전에 난 이곳의 주민이었어. 정확히 주소까지 말해줄까? 9동 2단지에 있는 802호가 우리집이었지.	Plus, I lived here before the Descent. In no. 802, Unit 2, Building 9.						0	
+15	呵呵。	呵呵。	はは。	하하하하하하…	Heh.						0	
+16	野狗一样的东西也配有家？	野狗一樣的東西也配有家？	野良犬どもに家を持つ権利があるのか？	들개한테도 집이라는 게 있었나?	Even street mutts get their own kennel, huh?						0	
+17	郊狼所占据的一侧立刻喧闹了起来，叫骂中夹杂着枪械上膛的声音。	郊狼所佔據的一側立刻喧鬧了起來，叫罵聲中夾雜著槍械上膛的聲音。	コヨーテが占拠した側がすぐ騒がしくなり、銃弾を込める音が混ざった罵声が聞こえる。	순간 코요테 측에 있던 사람들이 분노로 고함을 치기 시작했고, 고함을 치는 목소리와 함께 총기를 장전하는 소리까지 들려왔다.	The Coyote side erupted in cries and yells, and the sound of guns being loaded could be heard amongst the racket.						0	
+18	而天楼居民那边也不甘示弱，一边张嘴回应，一边也纷纷扣紧扳机。	而天樓居民那邊也不甘示弱，一邊叫囂回應，一邊也紛紛扣緊扳機。	スカイタワーの住民も負けじと張り合いながら銃を構える。	이에 질세라 스카이 타워 주민들도 총기를 장전했는데…	The Towers residents weren't showing any weakness either, yelling back in response while gripping their triggers.						0	
+19	频道内的所有人听着！在爱思特首领下令前，谁都不准开枪！	頻道內的所有人聽著！在愛思特首領下令前，誰都不准開槍！	チャンネル内の全員聞け！エステルさんが指示を出すまで、誰も撃つな！	채널에 있는 전원 모두 잘 들어라! 에스터 두목님이 명령을 내리기 전까지는 아무도 발포해서는 안 된다!	Everyone on the channel, listen up! Nobody's allowed to fire until Esther gives the order!						0	
+20	喂，你很希望开战吗？要是打起来，最先遭殃的就是我们两个。	喂，你很希望開戰嗎？要是打起來，最先遭殃的就是我們兩個。	おい、お前は開戦したいのか？やるなら俺ら二人が一番ひどい目に遭うぞ！	이봐, 정말 전쟁이라도 하고 싶어서 그래? 이대로 싸우면 가장 피해가 막심한 건 결국 우리일 텐데?	Hey, you really wanna start a war? If anything happens, the first casualties will be us two.						0	
+21	而且，你的投影面积可比我大多了，不知道一身肉能接多少子弹？	而且，你的投影面積可比我大多了，不知道一身肉能接多少子彈？	それに、お前の面積は俺より広い。どれだけの弾を食らうんだろうなぁ……	그리고 네 몸뚱어리를 보니까 나보다 훨씬 커 보이는데. 대체 얼마나 많은 총알을 받아내고 싶어서 그러는 거야?	Plus, your frame area is much bigger than mine. I wonder how many bullets that body can take?						0	
+22	如果不想开战，就乖乖带着你的人离开。	如果不想開戰，就乖乖帶著你的人離開。	開戦したくないのなら、お前の仲間を連れて大人しく帰れ。	그럼 네 부하들을 데리고 얌전히 돌아가면 되겠네.	If you don't wanna start a war, lead your people out of here.						0	
+23	如果有机会的话，真想试试你的光头防不防弹。	如果有機會的話，真想試試你的光頭防不防彈。	機会があれば、その坊主頭が防弾できるかどうか試してみたいものだ。	기회가 된다면 네 대머리가 방탄이 되는지 좀 확인해 보고 싶군.	I'd really like to see if that skull of yours is bulletproof, if I get the chance.						0	
+24	无人机，果然像前辈说的那样又出现了。	無人機，果然像前輩說的那樣又出現了。	ドローンだ。やっぱり先輩の言う通りまた現れた。	드론이 나타났다. 역시 선배 말대로다.	The drones showed up again, just like you said.						0	
+25	它正准备向郊狼开火，挑起双方冲突。还有一台伴飞的摄像机型，都被我一并击落了。	它正準備向郊狼開火，挑起雙方衝突。還有一台隨行的攝影機型，都被我一併擊落了。	コヨーテを狙って、両方の衝突を起こすつもりだ。もう一体のカメラ型と一緒に私が撃ち落とした。	코요테한테 총을 쏴서 양측 충돌을 유발하려는 것 같다. 카메라가 달린 드론도 한 대 있었는데 그건 방금 내가 격추시켰다.	One was about to fire at the Coyotes to trigger a conflict between the two sides, accompanied by a filming drone. I shot them both down.						0	
+26	做得不错！	做得不錯！	よくやった。	잘했어!	Nice work!						0	
+27	但是前辈，如果逐光者释放更多无人机，即使是我也没有那么多线程一一击落。	但是前輩，如果逐光者釋放更多無人機，即使是我也沒有那麼多辦法可以一一擊落。	でも先輩、もし逐光者がもっと多くのドローンを出したら、全部撃ち落とすことはできない。	그렇지만 축광단이 계속해서 드론을 날리면 아무리 나라도 전부 격추시키는 건 무리다.	But, Captain, if the Light Chasers send a fleet of drones, I won't be able to handle all of them at once.						0	
+28	继续盯紧现场，小太阳他们应该快到了。	繼續盯緊現場，小太陽他們應該快到了。	現場を続けて見張ってろ。おひさまちゃんたちもすぐ着くはず。	일단 계속해서 지켜보자. 리틀썬이 곧 도착할 테니.	Keep an eye out for developments. Fritia and the others should be here soon.						0	
+29	明白。	明白。	分かった。	알겠다.	Got it.						0	
+30	跑，跑慢点……呼……呼……	跑、跑慢點……呼……呼……	も、もっとゆっくり走って……ぜえ……ぜえ……	조… 조금만 천천히. 하아… 하아…	D—Don't run so fast... huff... huff...						0	
+31	让芙提雅老师稍微喘口气……	讓芙提雅老師稍微喘口氣……	フリティア先生に休憩させて……	숨이 벅차… 하아…	Give Professor Fritia some time to catch her breath...						0	
+32	体力不合格也能加入海姆达尔部队吗？	體力不合格也能加入海姆達爾部隊嗎？	体力が不合格でもヘイムダル部隊には入れるの？	아니… 체력도 안되는데 도대체 헤임달 부대는 어떻게 들어온 거야?	Does the Heimdall Force really let people who don't meet the stamina requirement join?						0	
+33	你走后门了吗？	你走後門了嗎？	コネでも使った？	설마 뒷거래를 한 거야?	Did you use your connections?						0	
+34	才……才没有！芙提雅老师可是宝贵的技术人员！	才……才沒有！芙提雅老師可是寶貴的技術人員！	つ……使ってない！フリティア先生は貴重な技術者なの！	말… 말도 안 돼! 프티야가 얼마나 뛰어난 엔지니어인데!	Of... Of course not! Professor Fritia is a highly valuable technician!						0	
+35	况且！人和人的体质不能一概而论！	況且！人和人的體質不能一概而論！	それに！人と人の体質は違うもの！	그리고 모든 사람 체질이 전부 동일할 수는 없는 법이라고!	And furthermore, everyone's different physically! You can't sum it up just like that!						0	
+36	……	……	……	…	...						0	
+37	那就休息三十秒吧。	那就休息三十秒吧。	なら30秒休憩しよう。	그럼 30초만 쉬었다가 다시 출발하자.	Okay, let's have a 30-second break.						0	
+38	抱歉抱歉！突然有通讯打过来了！三十秒之内结束！	抱歉抱歉！突然有通訊打過來了！三十秒之內結束！	ごめんごめん！急に通信が入った！30秒以内に終わる！	미안! 미안! 갑자기 통신이 왔네! 30초만 기다려줘!	Sorry, sorry! I've suddenly got an incoming call! I'll finish up in 30 seconds!						0	
+39	小贝翠斯呀！难得你打过来，可是我在执行任务欸……	小貝翠斯呀！難得你打過來，可是我在執行任務欸……	ベアトリスちゃん！せっかくかけてくれたのに、私は今任務中なんだ……	베아트리체! 연락 닿느라 힘들었을 텐데 어쩌지… 지금 미션 수행 중이라…	Beatrice! I'm overjoyed that you called me out of the blue, but I'm on a mission right now...						0	
+40	迪特里希！他准备将所有的郊狼都……	迪特里希！他準備將所有的郊狼都……	ディートリッヒが！彼が全てのコヨーテを……	디트릭! 디트릭이 코요테를 전부 다…	It's Dietrich! He's planning to... all the Coyotes...						0	
+42	三十秒到了。	三十秒到了。	時間だよ。	30초 지났어.	30 seconds is up.						0	
+43	安卡希雅，请你看一下这段影像，跟我们的任务有关……	安卡希雅，請你看一下這段影像，跟我們的任務有關……	アカシア、この映像を見て、私たちの任務に関係してる……	아카시아, 여기 영상 좀 봐봐. 우리 미션하고 관련이 있어 보이는데…	Acacia, have a look at this clip. It's related to the mission...						0	
+44	而且，我……	而且，我……	それに、私……	게다가 난 꼭…	Plus, I...						0	
+45	我有责任制止他们，消除导向坏结局的因素！	我有責任制止他們，消除導向壞結局的因素！	彼らを止めて、バッドエンドに繋がる全ての要素を排除する責任がある！	녀석들이 최악의 상황을 초래하지 않도록 막아야 할 책임이 있거든!	I have a duty to stop them! And eradicate all elements that'll lead to a bad ending!						0	

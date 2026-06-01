@@ -1,0 +1,67 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	现在离撤出污染区只有咫尺之遥。	現在離撤出汙染區只有咫尺之遙。	もうすぐ汚染エリアから脱出できる。	이제 곧 오염 구역을 빠져나갈 수 있을 것 같다.	We were getting close to the exit of the Contaminated Sections.						0	
+2	安卡希雅的飞刀，和肴的狙击配合默契，应该足以应对一般的泰坦了吧。	安卡希雅的飛刀，和肴的狙擊配合默契，應該足以應對一般的泰坦了吧。	アカシアの投げナイフと肴の狙撃が合わされば、普通のタイタンには対応できるはず。	아카시아의 비수와 야오의 저격이 완벽한 조합을 이룬다면 일반 타이탄 정도는 손쉽게 상대할 수 있을 것이다.	Acacia's dagger and Yao's sniper rifle working in unison should have been enough to deal with normal Titans.						0	
+3	但最后出现的，恰恰是<orange>海拉</>。	但最後出現的，恰恰是<orange>海拉</>。	だが最後に現れたのは、よりにもよって<orange>ヒーラ</>だ。	하지만 마지막으로 출현한 타이탄이 하필 <orange>헬라</>였다…	But the final thing to appear just had to be <orange>Hela</>.						0	
+4	除了尤弥尔外，我没有见过比海拉更具备威能的存在……	除了尤彌爾外，我沒有見過比海拉更具威脅的存在……	ユミルを除けば、ヒーラより強力な存在を見たことがない……	이미르를 제외하면, 헬라보다 더 위험한 존재는 아직까지 본 적이 없었다…	Apart from Ymir, I'd never seen anything as fearsome and formidable as Hela...						0	
+5	它在遮蔽天空的“雪”中，出现和隐没，每一次攻击都带来致命威胁。	它在遮蔽天空的“雪”中，出現和隱沒，每一次攻擊都帶來致命威脅。	空を覆う「キオーン」の中で現れたり消えたりして、攻撃するたびに致命的な脅威を与える。	헬라는 '눈' 속에 숨었다가 순간적으로 나타날 수 있는 능력이 있었고, 모든 공격이 치명적이었다.	Obscured by the snow in the sky, it fleeted in and out of my vision. Each attack it launched was fatal.						0	
+6	肴，你那边还没有解决吗？	肴，你那邊還沒有解決嗎？	肴、そっちはまだ解決してないの？	야오, 아직 멀었어?	Yao, still no solution over there yet?						0	
+7	我刚才击中了……但是那个操纵者，它不是人类。	我剛才擊中了……但是那個操縱者，它不是人類。	今当たった……でも操縦者は人間じゃない。	방금 명중하긴 했는데… 조종자가 인간이 아닌 거 같아.	I found the controller... I landed a hit just now, but he's not human.						0	
+b-1											0	
+8	操纵者？	操縱者？	操縦者？	조종자?	Controller?						0	
+9	嗯，操纵泰坦攻击你们的人。	嗯，操縱泰坦攻擊你們的人。	うん、タイタンを操ってあなたたちを攻撃する人。	응. 타이탄을 조종해서 너희를 공격한 사람 말이야.	Yeah. The one controlling the Titans, making them attack you.						0	
+b-2											0	
+10	泰坦……可以被人操纵吗？	泰坦……可以被人操縱嗎？	タイタンは……操れるのか？	인간이… 타이탄을 조종할 수 있다는 거야?	Titans... can be controlled?						0	
+13	小心，“海拉”朝你们那边去了。	小心，“海拉”朝你們那邊去了。	気を付けて。「ヒーラ」がそちらへ向かった。	조심해! '헬라'가 너희 쪽으로 갔으니까.	Careful. Hela's heading toward you.						0	
+14	泰坦庞大的身影在瞬息间化为泡影。	泰坦龐大的身影在瞬息間化為泡影。	まるで泡のように、ヒーラの巨大な姿は一瞬で消えた。	거대한 타이탄의 모습이 순식간에 물거품처럼 사라졌다.	The behemoth Titan disappeared in an instant.						0	
+15	它转化为信息态了！我看不见它……	它轉化為訊息態了！我看不見它……	情報相に変わった！クソ、どこに……	녀석이 이념 형태로 변했어! 확인이 불가능해…	It transformed into its fragmented state! I can't see it...						0	
+auto_15	等等……分析员！它出现在你背后……	等等……分析員！它出現在你背後……	待って……分析員！あいつは後ろから……	잠깐… 분석가! 네 등 뒤에 나타났어…	Wait... Adjutant! It's behind you...!						0	
+16	不用肴提醒，海拉在我背后凝聚成形时投射下了巨大的阴影。	不用肴提醒，海拉在我背後凝聚成形時投射下了巨大的陰影。	肴に言われるまでもなく、自分が立っている地面にヒーラの巨影が結集している事に気付いた。後ろだ！	야오가 신호를 주지 않아도 알 수 있었다. 헬라는 내 등 뒤에서 모습을 드러내며 거대한 그림자를 만들어 냈다.	Even without Yao's warning, I could see Hela's enormous shadow enveloping me when it materialized behind me.						0	
+17	我立刻沉下重心，利用滑铲躲过了致命一击，但接着……	我立刻沉下重心，利用滑鏟躲過了致命一擊，但接著……	私はすぐに体勢を低くして影からスライディングで離れ、致命的な一撃を避けた。しかし、次の一撃が……	난 곧바로 중심을 낮췄고, 미끄러지듯 헬라의 치명타를 피했다. 하지만…	My heart immediately sank. I slid to dodge its attack, but...						0	
+20	海拉跪倒下来，用它比重型压路机还要庞大的手掌向我拍来。	海拉跪倒下來，用它比重型壓路機還要龐大的手掌向我拍來。	ヒーラは跪き、そして……ロードローラーより大きな手で私を叩き潰そうとする。	헬라는 무릎을 꿇고 대형 로드 롤러보다 더 큰 손바닥으로 날 향해 휘둘렀다.	Hela bent to the ground, then swung at me with its gigantic palm bigger than a heavy-duty road roller.						0	
+21	在最后时刻，安卡希雅拽着我躲开了攻击。	在最後時刻，安卡希雅拽著我躲開了攻擊。	最後の一瞬で、アカシアは私を引っ張って攻撃を躱した。	그 순간, 아카시아가 날 잡아당겼고 가까스로 그 자리를 벗어날 수 있었다.	Acacia dragged me out of the line of attack right at the last moment.						0	
+22	又过来了！跑起来！	又過來了！跑起來！	また来る！走れ！	다시 오고 있어! 어서 달려!	It's coming again! Run!						0	
+26	等等。	等等。	……待って。	잠깐만…	Hold on.						0	
+b-6											0	
+27	怎么了？	怎麼了？	どうした？	무슨 일이야?	What's wrong?						0	
+28	好像听到有声音。	好像聽到有聲音。	声が聞こえるみたい。	무슨 소리 안 들려?	I think I can hear a voice.						0	
+29	安卡希雅指向海拉。	安卡希雅指向海拉。	アカシアはヒーラを指差した。	아카시아가 헬라를 가리켰다.	Acacia pointed at Hela.						0	
+30	声音响起来的时候，它停下来了。	聲音響起來的時候，它停下來了。	声が響く時、あれは止まる。	소리가 들릴 때마다 녀석이 멈추고 있어.	When the voice rings out, it stops.						0	
+31	我仔细侧耳倾听，好像确实有极轻极细的韵律从不可见的远方传来。	我仔細側耳傾聽，好像確實有極輕極細的韻律從不可見的遠方傳來。	耳を澄ませると、確かに声が遠くから微かに聞こえる。	자세히 들어보니 미세할 정도로 아주 작은 멜로디가 먼 곳에서 들려오고 있었다.	I tilted my head and listened carefully. It was an extremely fine, high-pitched melodic sound from somewhere far away.						0	
+32	那声音，像是歌声……	那聲音，像是歌聲……	これは、歌声のようだ……	그 소리는 누군가의 노랫소리처럼 들렸다…	It sounded like someone was singing...						0	
+33	海拉果然像安卡希雅所说那样，呆呆伫立在原地，就好像也在倾听这声音。	海拉果然像安卡希雅所說那樣，呆呆佇立在原地，就好像也在傾聽這聲音。	やはりアカシアの言う通り、ヒーラは突っ立って、この声を聞いているようだ。	헬라는 아카시아가 말한 것처럼 멍하니 제자리에 멈춰 서서 그 노랫소리를 듣는 것 같아 보였다.	Just like Acacia had said, Hela stood blankly, as though also listening to the voice.						0	
+34	像是歌声。	像是歌聲。	歌声みたい。	노랫소리 같아.	Sounds like a song.						0	
+b-7											0	
+35	很耳熟，好像在什么地方听过。	很耳熟，好像在什麼地方聽過。	懐かしい、どこかで聞いたような気がする。	어디선가 들어본 것같이 익숙해…	It feels so familiar. I must've heard it somewhere before.						0	
+36	嘘，别引起注意，它去追歌声了。	噓，別引起注意，它去追歌聲了。	しー、静かに。あいつ歌声を追っていったみたい。	쉿… 녀석이 노랫소리를 쫓아가는 것 같으니 더 이상 주의를 끌지 말자.	Shh, don't draw its attention. It's following the song.						0	
+37	海拉庞大的体型逐渐隐没在无边无际的白色中。	海拉龐大的體型逐漸隱沒在無邊無際的白色中。	ヒーラの巨大な影が、どんどん果てしない白に消えていった。	헬라의 거대한 몸체가 끝이 보이지 않는 새하얀 눈 속으로 사라졌다.	Hela's giant body lumbered away, gradually disappearing into the boundless white.						0	
+38	海拉消失后，“雪”也渐渐停止了。	海拉消失後，“雪”也漸漸停止了。	ヒーラが消えた後、「キオーン」も止んだ。	동시에 '눈'도 조금씩 멈추기 시작했다.	After Hela disappeared, it didn't take long for the snow to stop too.						0	
+39	终于撤出来了！	終於撤出來了！	やっと出られた！	드디어 빠져나왔어!	We finally made it out!						0	
+40	所有人，清点装备，检查运送目标是否完好。	所有人，清點裝備，檢查運送目標是否完好。	全員、装備と運送目標の状態を点検しろ。	다들 한 번씩 장비 점검을 해보고 운송 물품도 잘 있는지 확인해 봐.	Everyone, wipe down your gear and check that the delivery item's still in good condition.						0	
+47	那，那个……恩雅姐……到这里就可以了。	那，那個……恩雅姐……到這裡就可以了。	あ、あの……エンヤ姉さん……ここまででいいです。	저기… 엔야 언니… 이제 됐어요.	Um... M—Miss Enya... h—here should be good.						0	
+48	琴诺……琴诺可以自己走了。	琴諾……琴諾可以自己走了。	私……自分で歩けます。	체르노도… 이제 혼자 걸을 수 있어요.	Cherno... Cherno can walk by herself.						0	
+49	嗯？真的不用我帮忙了吗？	嗯？真的不用我幫忙了嗎？	ん？本当に手伝わなくていいの？	응? 정말 괜찮겠어?	Oh? Are you sure you don't need my help anymore?						0	
+50	那接下来我们可要加快行进速度了哦。	那接下來我們可要加快行進速度了哦。	これから、ペースを上げないといけませんね。	그럼 진행 속도를 조금 높여볼까?	We'll need to pick up our pace a bit.						0	
+51	虽然海拉消失了，但我还是很担心分析员的状况。	雖然海拉消失了，但我還是很擔心分析員的狀況。	ヒーラは消えたけど、やはり分析員が心配ですから。	헬라가 사라지긴 했지만 분석가 상황이 조금 걱정돼서.	Even though Hela disappeared, I'm still worried about the Adjutant.						0	
+52	我……我会努力加快脚步的！	我……我會努力加快腳步的！	が、頑張ってついていきます！	저… 저도 발걸음을 빨리 할 수 있도록 노력해 볼게요!	I'll... I'll do my best to hurry up!						0	
+53	琴诺也想早点见到分析员。	琴諾也想早點見到分析員。	私も、早く分析員に会いたいです。	체르노도 분석가님을 빨리 만나고 싶어요.	I want to see the Adjutant as soon as possible too.						0	
+55	喏，你要的视频已经发送过去了。	喏，你要的影片已經發送過去了。	ほら、欲しがってた映像は送った。	자, 네가 말했던 동영상 보냈어.	Hey, I sent you that video you wanted.						0	
+56	嗯，再见。	嗯，再見。	うん、バイバイ。	그래. 그럼 다음에 보자.	Okay. See ya.						0	
+57	等一下，我有个问题想问。	等一下，我有個問題想問。	待って、一つ聞きたいことがある。	잠깐. 궁금한 게 하나 있는데.	Wait, I've got a question.						0	
+58	海姆达尔部队，加班多吗？	海姆達爾部隊，加班多嗎？	ヘイムダル部隊は、残業多い？	헤임달 부대는 야근이 많아?	Does Heimdall Force do a lot of overtime?						0	
+59	据我了解，工作还算轻松。	據我了解，工作還算輕鬆。	私の知る限り、仕事は楽なはず。	내 생각에 업무 강도는 비교적 수월한 거 같아.	As far as I know, it's pretty easygoing here.						0	
+60	……“你的轻松”不会和正常的轻松不太一样吧？	……“你的輕鬆”不會和正常的輕鬆不太一樣吧？	……その「楽」は普通の楽とは違うよね？	… '네 기준의 수월한 거'랑 일반인들이 수월한 거랑 동일한 거겠지?	...Your idea of "easygoing" wouldn't be anything like mine, I guess?						0	
+61	工资水平呢？	薪資水準呢？	給料は？	월급은 좀 어때?	How about the pay?						0	
+62	好像还不错。	好像還不錯。	悪くない。	월급도 그럭저럭 괜찮은 거 같아.	Seems decent.						0	
+63	这个视频，算是我帮了你一个忙吧？	這個影片，算是我幫了你一個忙吧？	この映像、一つ貸しになったね？	여기 있는 동영상 말이야. 내가 널 도왔다고 봐도 되겠지?	I did you a favor by sending you this video, right?						0	
+64	你要索取回报吗？可以。	你要索取回報嗎？可以。	見返りが欲しい？いいよ。	보답을 바라는 거야? 말해봐.	You want something in return? Sure.						0	
+65	哇，好直接。不过，可以帮我内推一下吗？	哇，好直接。不過，可以幫我內推一下嗎？	わ、直球。なら、内部推薦してくれない？	와… 이해가 빨라서 좋네! 그럼 나 좀 내부에 추천해 주면 안 될까?	Wow, that was direct. Well, do you think you could give my application a little push?						0	
+66	嗯，没问题。	嗯，沒問題。	うん、問題ないよ。	그래. 그 정도는 문제없어.	Sure, no problem.						0	
+67	好耶~	好耶~	やった～	오예~~!	Yippee!						0	
+68	噢我是不是还忘了自我介绍？我叫肴，特等射手，兴趣是……	噢我是不是還忘了自我介紹？我叫肴，特等射手，興趣是……	あ、自己紹介がまだだよね？私は肴、特等シューター、趣味は……	아… 자기소개를 깜빡했네. 난 야오라고 하고, 베테랑 사수야. 그리고 취미는…	Oh, did I forget to introduce myself? I'm Yao, a senior sniper. I'm interested in...						0	
+69	简历上也会是这个名字吗？	履歷上也會是這個名字嗎？	履歴書もこの名前？	이력서에도 그 이름을 사용하는 거야?	Is your intro like that on your CV as well?						0	
+70	嗯嗯，当然，当然……	嗯嗯，當然，當然……	うんうん、もちろん、もちろん……	그럼. 물론이지 물론이지…	Yeah, of course...						0	
+71	playername，看一下这个视频。	playername，看一下這個影片。	playername、この映像を見て。	playername, 여기 이 영상 좀 봐봐.	playername, have a look at this video.						0	
+b-8											0	
+72	这是……	這是……	これは……	이게 뭐야…?	This is...						0	
+73	“操纵泰坦”的过程，被记录下来了，也许对你有价值。	“操縱泰坦”的過程，被記錄下來了，也許對你有價值。	「タイタンを操る」過程、全て記録した。役に立つはず。	'타이탄 조종' 과정이 기록되어 있어. 너에게 큰 도움이 될 거야.	We recorded the process of a Titan being controlled. It might be of value.						0	

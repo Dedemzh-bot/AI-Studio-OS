@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	这个小东西是什么？	這個小東西是什麼？	この小さいのはなんだ？	이건 뭐야?	What's this little thing?						0	3.5版本多诺巅峰对决剧情
+page1.2	啊，这个是<orange>毛球币</>，是一种游戏内的通用货币。	啊，這個是<orange>毛球幣</>，是一種遊戲內的通用貨幣。	あ、それはね、ゲーム内通貨の<orange>毛玉コイン</>だ。	아, 이건 <orange>털뭉치 코인</>이야, 게임 내 통용 화폐지.	Ah, that's a <orange>Furball Coin</>, a common currency in this game.						0	3.5版本多诺巅峰对决剧情
+page1.3	别看它外形这么可爱，其实用处非常大。	別看它外形這麼可愛，其實用處非常大。	見た目はこんなに可愛いけど、じつはめちゃくちゃ役に立つんだ。	그냥 귀엽기만 한 게 아니라, 다양한 곳에서 사용할 수 있어.	Don't let its cute appearance fool you. It's incredibly useful.						0	3.5版本多诺巅峰对决剧情
+page1.4	那就请多诺卡特约入坑讲解官为我好好讲解一下？	那就請多諾卡特約入坑講解官為我好好講解一下？	それじゃあ、DOROカード専任・沼インストラクター殿に、詳しく教えてもらおうかな。	그럼 도노 카드 특별 초청 해설 위원님께서 자세히 설명해 주시겠습니까?	Then I trust my special Dono card initiation guide will provide me with a proper explanation?						0	3.5版本多诺巅峰对决剧情
+page1.5	咳咳——	咳咳——	こほん――	크흠…	Ahem, naturally~						0	3.5版本多诺巅峰对决剧情
+page1.6	如果想在接下来的对决中常胜不败，就要注意手中多诺卡的<orange>属性数值</>。	如果想在接下來的對決中常勝不敗，就要注意手中多諾卡的<orange>屬性數值</>。	この先も勝ち続けたいなら、手持ちDOROカードの<orange>ステータス</>にちゃんと気を配ること。	앞으로 진행될 대결에서 무패의 기록을 거두고 싶다면, 수중에 있는 도노 카드의 <orange>속성 수치</>에 신경을 써 줘.	If you want to remain undefeated in the upcoming duels, you'll need to pay close attention to the <orange>stats</> of your Dono cards.						0	3.5版本多诺巅峰对决剧情
+page1.7	所有的属性数值加点都要用到毛球币，攒好的毛球币要注意好好分配哦。	所有的屬性數值加點都要用到毛球幣，存好的毛球幣要注意好好分配喔。	各ステータスの強化には全部毛玉コインを使うから、貯めた分はきちんと配分考えて振っていくんだ。	속성 수치를 올리려면 털뭉치 코인이 필요하니까, 모아둔 털뭉치 코인을 잘 분배하도록 해.	You'll need Furball Coins to raise their stats points, so be strategic with the coins you've saved up.						0	3.5版本多诺巅峰对决剧情
+page1.8	嗯……	嗯……	うん……	음…	Got it...						0	3.5版本多诺巅峰对决剧情
+page1.9	亲爱的还有什么疑问吗？	親愛的還有什麼疑問嗎？	まだ分かんないところある？あなた。	자기, 뭐 궁금한 거 있어?	Any other questions, darling?						0	3.5版本多诺巅峰对决剧情
+page1.10	如果这个货币上印的是安卡希雅就好了。	如果這個貨幣上印的是安卡希雅就好了。	この通貨、アカシアの顔が刷ってあれば完璧だが。	이 화폐에 아카시아가 그려져 있다면 좋았을 텐데.	Not a question, feedback really. It'd be better if your face were printed on these coins instead.						0	3.5版本多诺巅峰对决剧情
+page1.11	有品。	有品。	センスいいね。	아주 좋은 아이디어야.	Mm, such fine taste~						0	3.5版本多诺巅峰对决剧情
+page1.12	有机会的话，下次给你定制一套印上安卡希雅的专属货币。	有機會的話，下次為你特製一套印上安卡希雅的專屬貨幣。	機会があったら、アカシア柄の専用コイン作ってあげるよ。	기회가 된다면, 다음에 내가 그려진 전용 화폐를 커스텀해 줄게.	If we get the opportunity, I'll have a custom set made featuring yours truly, just for you.						0	3.5版本多诺巅峰对决剧情
+page1.13	那我得抓紧把手上这些挥霍干净了。	那我得趕快把手上這些揮霍乾淨了。	じゃあ、その前に今あるぶんは全部パーッと使わないとな。	그럼 가지고 있는 거 빨리 다 써 버려야겠다.	Then I'd better hurry up and spend all the ones I have now.						0	3.5版本多诺巅峰对决剧情

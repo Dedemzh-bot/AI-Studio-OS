@@ -36,7 +36,7 @@ body{display:flex;}
 .file-item{display:flex;align-items:center;padding:10px 8px;border-bottom:1px solid #eee;cursor:pointer;font-size:13px;overflow:hidden;}
 .file-item:hover{background:#f0f0f0;}
 .file-icon{font-family:monospace;font-weight:bold;width:28px;flex-shrink:0;color:#007acc;}
-.file-icon.md{color:#333;}.file-icon.json{color:#d4a017;}
+.file-icon.md{color:#333;}.file-icon.json{color:#d4a017;}.file-icon.excel{color:#217346;}.file-icon.txt{color:#666;}
 .file-name{color:#555;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 
 .tab-content{display:none;flex:1;overflow:auto;}
@@ -100,7 +100,7 @@ body{display:flex;}
                 <option value="主程">主程 / 技术架构</option>
                 <option value="玩法">玩法 / 战斗策划</option>
                 <option value="PM">PM / 任务管理</option>
-                <option value="UI">UI / 表现</option>
+                <option value="UX">UX / 表现</option>
                 <option value="审查">审查 Agent</option>
             </select>
             <label class="mem-label">文档名 (在 .agent_workspace 内)</label>
@@ -160,10 +160,10 @@ const LABEL_MAP = {
     "system_schema.json":"系统Schema","system_flow.mmd":"系统流程图",
     "tech_blueprint.md":"程序开发蓝图","task_plan.md":"PM任务拆解",
     "audit_feedback.json":"审查报告","audit_trace_log.md":"审查追踪",
-    "ui_config.json":"UI配置","generated_skill.gd":"生成代码",
+    "ui_interaction_blueprint.md":"UX说明书","generated_skill.gd":"生成代码",
     "project_meta.json":"项目元数据","review_board.md":"验收表","current_result.json":"当前数据"
 };
-const ICON = {".md":"M",".mmd":"M",".json":"{}",".gd":"G",".py":"P"};
+const ICON = {".md":"M",".mmd":"M",".json":"{}",".gd":"G",".py":"P",".xlsx":"X",".xls":"X",".txt":"T"};
 
 const engineBtn = document.getElementById('engineBtn');
 const statusDisplay = document.getElementById('statusDisplay');
@@ -272,7 +272,7 @@ async function fetchFiles() {
         const d = await (await fetch(API + '/api/files')).json();
         if (!d.files.length) { fileList.innerHTML = ''; return; }
         fileList.innerHTML = d.files.map(f => {
-            const ext = f.name.endsWith('.json') ? 'json' : 'md';
+            const ext = f.name.endsWith('.json') ? 'json' : (f.name.match(/\.(xlsx|xls)$/i) ? 'excel' : (f.name.endsWith('.txt') ? 'txt' : 'md'));
             return `<div class="file-item" onclick="openFile('${f.name}')">
                 <span class="file-icon ${ext}">${ICON['.'+f.name.split('.').pop()]||'-'}</span>
                 <span class="file-name">${(LABEL_MAP[f.name]||f.name)}</span></div>`;
@@ -430,12 +430,12 @@ async function refreshTableFiles() {
         // 本次修改
         const mod = r.modified || [];
         tableModified.innerHTML = mod.length
-            ? mod.map(f => `<div class="file-item" onclick="openTableFile('${f}')"><span class="file-icon json">{}<span class="file-name">${f}</span></div>`).join('')
+            ? mod.map(f => { const fx = f.endsWith('.json') ? 'json' : (f.match(/\.(xlsx|xls)$/i) ? 'excel' : 'txt'); return `<div class="file-item" onclick="openTableFile('${f}')"><span class="file-icon ${fx}">${ICON['.'+f.split('.').pop().toLowerCase()]||'-'}</span><span class="file-name">${f}</span></div>`}).join('')
             : '<div style="color:#999;font-size:13px;">（暂无）</div>';
         // 总项目
         const all = r.files || [];
         tableAllFiles.innerHTML = all.length
-            ? all.map(f => `<div class="file-item" onclick="openTableFile('${f.name}')"><span class="file-icon json">{}<span class="file-name">${f.name}</span></div>`).join('')
+            ? all.map(f => { const fx = f.name.endsWith('.json') ? 'json' : (f.name.match(/\.(xlsx|xls)$/i) ? 'excel' : 'txt'); return `<div class="file-item" onclick="openTableFile('${f.name}')"><span class="file-icon ${fx}">${ICON['.'+f.name.split('.').pop().toLowerCase()]||'-'}</span><span class="file-name">${f.name}</span></div>`}).join('')
             : '<div style="color:#999;font-size:13px;">（空）</div>';
     } catch(e) {}
 }

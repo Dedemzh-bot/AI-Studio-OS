@@ -1,0 +1,23 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	奇怪……这里原本有这扇门吗？	奇怪……這裡原本有這扇門嗎？	おかしいな……ここにこんなドアあったか？	이상한데… 원래 이곳에 문이 있었나?	Wait a minute... was this door here before?						0	
+page1.2	哟，分析员总算注意到了吗~	喲，分析員總算注意到了嗎~	お？ようやく気づいたか、分析員。	오~ 분석가 눈치챈 거야?	Ah, you catch on at last, Adjutant!						0	
+page1.3	突然出现的门后面究竟藏着什么，你一定很好奇吧。	突然出現的門後面究竟藏著什麼，你一定很好奇吧。	突然現れたドアの向こうに何が隠されているのか、気になるよね？	문 뒤에 뭐가 숨겨져 있을 것 같아? 궁금하지 않아?	I bet you're dying to know what's behind this mysterious door that popped up out of nowhere.						0	
+page1.4	不如趁着四下没人，我们两个人偷偷溜进去探索一番？	不如趁著四下沒人，我們兩個人偷偷溜進去探索一番？	誰もいないうちに二人でこっそり探索してみない？	주변에 아무도 없을 때 몰래 들어가서 한 번 보는 건 어때?	How about we sneak in and check it out while the coast is clear?						0	
+page1.5	……	……	……	…	...						0	
+page1.6	喂，其实妮塔已经知道里面有什么了吧。	喂，其實妮塔已經知道裡面有什麼了。	とか言って、ニタはもう中に何があるのか知ってるんだろ。	넌 이미 안에 뭐가 있는지 알고 있는 거지?	You already know what's inside, don't you, Nita?						0	
+page1.7	啊哈哈哈，被发现了啊……	啊哈哈哈，被發現了啊……	あははは、バレたか……	아하하하, 들켜버렸군…	Hahaha, guilty as charged!						0	
+page1.8	既然如此那我就不卖关子了，这其实是新开放的疗愈中心，是让大家好好放松身心的地方。	既然如此那我就不賣關子了，這其實是新開放的療癒中心，是讓大家好好放鬆身心的地方。	じゃあ、もったいぶるのはやめよう。ここはみんなでゆっくりくつろぐために新しくオープンしたヒールサロンだ。	그럼 더 이상 뜸 들일 필요도 없겠군. 사실 이곳은 새로 오픈한 힐링 센터로 몸과 마음을 편안하게 할 수 있는 곳이야.	Alright, full disclosure — it's a new healing center designed to help everyone kick back and unwind.						0	
+page1.9	疗愈……就好像“舒缓术”一样吗？	療癒……就好像「舒緩術」一樣嗎？	ヒールサロン……何か「癒し術」みたいなことでもやるのか？	힐링이라면… '테라피'과 같은 건가?	Healing... Like some kind of Shanti Art?						0	
+page1.10	哎？分析员知道俱卢的“舒缓术”？	哎？分析員知道俱盧的「舒緩術」？	え？グロの「癒し術」を知ってるんだ。	응? 설마 분석가도 쿠루의 '테라피'를 아는 거야?	Huh, you've heard of the Shanti Art from Kuru?						0	
+page1.11	知道是知道，只是一直没机会体验。	知道是知道，只是一直沒機會體驗。	知ってるけど、今まで体験する機会はなかった。	알고는 있지. 직접 경험할 기회가 없었을 뿐이야.	Yeah, I just never got the chance to try it, though.						0	
+page1.12	新恒提罗不流行这个吗？	新恆提羅不流行這個嗎？	ニューガントラでも流行ってるんじゃないの？	뉴헨틸로에서도 인기가 있는 거 아니었어?	Why don't people in New Hentiro care for it?						0	
+page1.13	倒也还行，只是那段时间太忙了。	倒也還行，只是那段時間太忙了。	そうだけど、あの時期は忙しかったから。	그런 뜻이 아니라 그냥 그때는 너무 바빴어.	Nah, I've just been swamped.						0	
+page1.14	……那还真是可惜。	……那還真是可惜。	……それは残念だな。	… 안타깝네.	That's too bad.						0	
+page1.15	不过没关系，如果分析员感兴趣的话，到我房间交流一下？不瞒你说，我可是这方面的行家。	不過沒關係，如果分析員有興趣的話，到我房間交流一下？不瞞你說，我可是這方面的專家。	でも大丈夫。実は私、プロなんだよね。興味があるなら、部屋で話さない？	뭐 어찌 됐건 분석가가 이쪽으로 관심이 있으면 내 방에 가서 마저 얘기를 더 해도 상관없어. 사실 내가 이쪽으로는 전문가거든.	Well, if you're interested, would you like to try it in my room? Trust me, I'm an expert at this.						0	
+page1.16	那就拜托妮塔了。	那就拜託妮塔了。	じゃあよろしく頼む、ニタ。	그럼 부탁 좀 할게.	Sounds great! Thank you, Nita.						0	
+page1.17	嘿嘿，放心好了，我保证让你精神焕发。	嘿嘿，放心好了，我保證讓你精神煥發。	へへ。心配しないで、元気にしてあげるから。	헤헤, 맡겨만 두라고. 내가 기분 전환 좀 해줄게.	I promise you'll come out feeling like a new person.						0	
+page1.18	不，我想你弄错重点了。	不，我想你弄錯重點了。	いや、そういうのを頼みたいんじゃなくて。	내 생각엔 뭔가 요점을 놓친 것 같은데.	Actually, that's not what I'm looking forward to.						0	
+page1.19	比起单纯体验，我对这门手艺本身更感兴趣，到时候可以教教我吗？	比起單純體驗，我對這門手藝本身更有興趣，到時候可以教我嗎？	体験よりも、技術が気になるから、教えてくれないかな。	단순히 체험하는 것보다는 기술 자체에 더 관심이 가긴 해. 때가 되면 좀 알려줄 수 있을까?	I'm more interested in learning the tricks myself rather than simply enjoying the therapy. Could you teach me?						0	
+page1.20	哎？！啊……当然可以，你要想学我自然会倾囊相授。	哎？！啊……當然可以，你想要學我自然會傾囊相授。	え！？ああ……もちろん。分析員が学びたいなら全部教えるよ。	응?! 아… 물론이지! 나한테 배우고 싶으면 뭐든지 알려줄게.	Really!? Um, sure, I'd love to share everything I know with you.						0	
+page1.21	不过作为学费，今晚请我吃个饭如何~回来后再教你。	不過作為學費，今晚請我吃個飯如何~回來後再教你。	でも学費として、今夜の夕飯は奢ってね。帰ってきたら教えてあげるよ。	수업료로 오늘 저녁이나 한턱 쏴~ 나중에 알려줄 테니까.	But how about this for a deal: you treat me to dinner tonight as tuition, and then I'll show you everything.						0	

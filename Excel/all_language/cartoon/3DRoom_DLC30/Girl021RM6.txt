@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	奈莉德好像很喜欢海洋生物嘛？	奈莉德好像很喜歡海洋生物嘛？	ネリーダは海の生物が好きなのか？	네리다는 해양 생물을 좋아하나 봐?	You like marine life very much, Nerida.						0	3.0版本随机事件
+page1.2	是啊，这可是我的专业方向，专门研究这些生活在深海中的家伙。	是啊，這可是我的專業方向，專門研究這些生活在深海中的傢伙。	ああ。深海生物を専攻にしていたんだ。	응, 내 전공이야. 심해에 사는 이 녀석들을 전문적으로 연구하고 있지.	Indeed. It's my field of expertise — studying those mysterious deep-sea dwellers.						0	3.0版本随机事件
+page1.3	在那么极端的环境里，竟然能孕育出如此多样又美丽的生命。分析员，你不觉得很神奇吗？	在那麼極端的環境裡，竟然能孕育出如此多樣又美麗的生命。分析員，你不覺得很神奇嗎？	極限環境でありながら、あれほど美しい命が暮らしているなんて、すごいと思わないか？分析員。	그런 극한의 환경에서 이토록 다양하고 아름다운 생명이 태어난다니. 분석가, 신기하지 않아?	Isn't it amazing how life can take such beautiful and diverse forms in such extreme environments?						0	3.0版本随机事件
+page1.4	确实很神奇。不过，这就是全部原因吗？	確實很神奇。不過，這就是全部原因嗎？	確かに。けど、たったそれだけで専攻を決めたってこと？	정말 신기하네. 하지만 좋아하는 이유가 그게 다야?	It is indeed. But is that the whole story?						0	3.0版本随机事件
+page1.5	不完全是，分析员，你知道吗？	不完全是，分析員，你知道嗎？	違う。伝わるかどうかは分からないけど……	다는 아니야. 분석가, 그거 알아?	Not exactly. Adjutant, you know...						0	3.0版本随机事件
+page1.6	在大家眼中看起来漆黑一片的海底深处，在我的眼中，却散发着不可思议的光芒……	在大家眼中看起來漆黑一片的海底深處，在我的眼中，卻散發著不可思議的光芒……	みんなからすれば黒一色の深海でも、私には不思議な光を放っているように見えるんだ。	모두의 눈에는 칠흑같이 어두워 보이는 깊은 바닷속이, 내 눈에는 신비로운 빛을 발하지…	What most people see as pitch-black ocean depths... To me, they shine with an incredible light.						0	3.0版本随机事件
+page1.7	小时候，每当我感到孤独和痛苦时，只要静静注视着那片光芒，心里就会平静下来。	小時候，每當我感到孤獨和痛苦時，只要靜靜注視著那片光芒，心裡就會平靜下來。	子どもの頃は、孤独と苦痛に苛まれるたびに、あの光を見て心を落ち着かせていた。	어렸을 때, 외롭고 힘들 때면 그 빛을 조용히 바라보기만 해도 마음이 평온해졌어.	When I was a child, whenever I felt lonely or in pain, just quietly watching that light would calm my heart.						0	3.0版本随机事件
+page1.8	奈莉德……	奈莉德……	ネリーダ……	네리다…	Nerida...						0	3.0版本随机事件
+page1.9	不过，在遇到你以后，我才发现——	不過，在遇到你以後，我才發現——	だが、おまえに出会ったことで、私は――	하지만 널 만난 후에 깨달았어…	But after meeting you, I realized...						0	3.0版本随机事件
+page1.10	原来还有另一种光芒，如果不抬起头，就永远看不到。	原來還有另一種光芒，如果不抬起頭，就永遠看不到。	もうひとつの光を見つけたんだ。顔をあげないと、永遠に気づかない光。	고개를 들지 않으면 영원히 볼 수 없는, 또 다른 빛이 있다는 걸.	There's another kind of light. One you'll miss if you don't look up.						0	3.0版本随机事件
+page1.11	和海底那种令人感到平静的光芒不同，这束光让我第一次产生了想要紧紧抓住的冲动。	和海底那種令人感到平靜的光芒不同，這束光讓我第一次產生了想要緊緊抓住的衝動。	それは心を落ち着かせる深海の光と違って、初めて手を伸ばして触れてみたいと思えるような光だった。	심해의 평온한 빛과는 달리, 이 빛은 내가 처음으로 꼭 붙잡고 싶다는 충동이 들었어.	Unlike the soothing glow of the deep sea, this light makes me want to reach out and grip it tight.						0	3.0版本随机事件
+page1.12	所以啊……	所以啊……	だから――	그래서 말이야…	So...						0	3.0版本随机事件
+page1.13	现在的我，已经不需要依靠那片黑暗中那些零零散散的光芒来寻求慰藉了。	現在的我，已經不需要依靠那片黑暗中那些零零散散的光芒來尋求慰藉了。	もう、暗闇の中を漂うかすかな光にすがる必要はない。	지금의 난 더 이상 그 어둠 속의 희미한 빛들로 위로를 찾을 필요가 없어.	I no longer need to cling to the scattered lights in that darkness for comfort.						0	3.0版本随机事件
+page1.14	就只是单纯地喜欢这些神奇的生物而已。	就只是單純地喜歡這些神奇的生物而已。	今はただ、こういう奇妙な生物が好きなだけだ。	그저 단순히 이 신비한 생명체들이 좋을 뿐이야.	Now, I simply love these fascinating creatures. That's all.						0	3.0版本随机事件
+page1.15	啊，对了分析员，说起来，你有没有觉得长满须齿的鲸鱼是不是特别可爱呢？	啊，對了分析員，說起來，你有沒有覺得長滿鯨鬚的鯨魚是不是特別可愛呢？	分析員も、ヒゲの多いクジラとか、かわいいと思うだろ？	아, 맞다. 분석가, 그래서 말인데 긴 수염이 달린 고래가 정말 귀엽지 않아?	By the way, Adjutant, don't you think whales with baleen are especially adorable?						0	3.0版本随机事件
+page1.16	我能理解鲸鱼的可爱之处……不过为什么非要强调须齿那部分就……	我能理解鯨魚的可愛之處……不過為什麼非要強調鯨鬚那部分就……	かわいいとは思うけど、なんでヒゲの多さを強調するんだ……	고래가 귀여운 건 알겠지만… 굳이 수염을 강조할 필요가…	I can appreciate the charm of whales themselves, but the baleen...						0	3.0版本随机事件

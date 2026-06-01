@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	你的身体不要紧了吗？医疗部明明嘱咐过让你再多休息一段时间的。	你的身體不要緊了嗎？醫療部明明囑咐過要你再多休息一段時間的。	リフ、体の調子はどうだ？医療部はもっと休むように言ってたはずだ。	건강은 좀 괜찮아졌어? 의료부에서 더 쉬라고 했잖아.	Are you already feeling okay? The Medical Department definitely ordered you to rest for a bit longer.						0	
+page1.2	我想早点归队……早点回到分析员的身边。	我想早點歸隊……早點回到分析員的身邊。	早く戻りたい……分析員のそばに。	어서 부대로 돌아가서 분석가랑 함께 하고 싶어…	I want to get back to work sooner... and back to your side, Adjutant.						0	
+page1.3	前提是，你的身体要先恢复最佳状态。	前提是，你的身體要先恢復最佳狀態。	まずは体を十分に回復させることが先決だ。	그러기 위해서라도 최적의 건강 상태로 돌아와야지.	Before that can happen, you need to make sure you're back in tip-top shape.						0	
+page1.4	你的体温又升高了，别逞强了，我扶你回房间。	你的體溫又升高了，別逞強了，我扶你回房間。	また熱が上がってるじゃないか。無理をするな、部屋に戻るぞ。	체온이 또 올라간 것 같아. 너무 무리하지 마. 방으로 데려가줄게.	Your temperature is rising again. Don't push yourself. I'll help you back to your room.						0	
+page1.5	要不，你先休息，我晚些时间再来看你？	不然，你先休息，我晚點再來看你？	まずは休んで。また後で様子を見に来るから、な？	아니면, 좀 쉬고 있어. 나중에 다시 올게.	How about this — you rest first, and I'll come see you later?						0	
+page1.6	分析员，在这里坐一坐吧，陪我聊聊。	分析員，在這裡坐一坐吧，陪我聊聊。	分析員、ここに座って。少し話がしたいんだ。	분석가, 여기 앉아서 나랑 조금만 더 얘기 좀 해줘.	Adjutant, sit down here and talk to me.						0	
+page1.7	（里芙难得流露出这副脆弱的样子……）	（里芙難得流露出這副脆弱的樣子……）	（リフが珍しく弱っている……）	(리브가 이렇게 약한 모습을 보이는 건 드문 일인데…)	(Lyfe doesn't usually show her vulnerable side...)						0	
+page1.8	我又梦到了首次降临事件。	我又夢到了首次降臨事件。	また初降臨の夢を見た。	또다시 첫 강림 사건 때를 꿈꿨어.	I had another dream about the First Descent.						0	
+page1.9	嗯？	嗯？	ん？	뭐?	Yeah?						0	
+page1.10	我在废墟中醒来，看到的是你在指挥安全部的成员救治伤者的身影。	我在廢墟中醒來，看到的是你在指揮安全部的成員救治傷者的身影。	廃墟で目を覚ますと、お前が安全部を指揮して負傷者を救助しているところだった。	폐허 속에서 깨어났는데 네가 안전부를 이끌고 부상자들을 치료하는 걸 봤어.	I woke up in the middle of the rubble and saw you ordering the Security Department officers to treat everyone who was injured.						0	
+page1.11	那时的我内心充满悲痛、仇恨以及无力感，唯独没有恐惧。	那時的我內心充滿悲痛、仇恨以及無力感，唯獨沒有恐懼。	私は悲しみや憎しみ、無力感でいっぱいだったが、恐怖だけは感じなかった。	그때의 난 슬픔이나 원한으로 가득 차 있었지만 두려움 따윈 없었지.	My heart was filled with so much pain, hatred, and helplessness, but there was no fear.						0	
+page1.12	在你加入海姆达尔部队后，我更加安心了。	在你加入海姆達爾部隊後，我更加安心了。	お前がヘイムダル部隊に来てから、私はより安心できるようになった。	분석가가 헤임달 부대에 들어오고 나서는 더 안심이 됐고.	I felt even more reassured after you joined the Heimdall Force.						0	
+page1.13	可断点事件中……我害怕了。	但斷點事件中……我害怕了。	でも、「ブレーク作戦」事件で……私は怖くなった。	하지만 사건이 중단됐을 때는… 정말 두려웠어.	But during Operation Breakpoint... I was scared.						0	
+page1.14	在医疗部我曾短暂醒来一次，我忙向身边的医疗后勤打听你的情况。	在醫療部我曾短暫醒來一次，我忙著向身邊的醫療後勤打聽你的狀況。	医療部で少し目を覚ましたとき、すぐに医療班にお前のことを尋ねた。	의료부에서 잠깐 깨어났을 때, 주변에 있는 의료진에게 너의 상태를 물었는데,	I woke up once in the Medical Department and asked a logistics officer how you were doing.						0	
+page1.15	她说，你中了弹。	她說，你中了彈。	彼女は、お前が撃たれたと言っていた。	의료진은 네가 총에 맞았다고 했어.	She said you were shot.						0	
+page1.16	那之后，我又陷入了昏睡。	那之後，我又陷入了昏睡。	それから、私はまた気を失った。	그 이후에 또 다시 깊은 잠에 들었어.	After that, I fell back into a coma.						0	
+page1.17	我做了好长的一场噩梦，梦里无论我如何拼命寻找就是找不到你的身影。	我做了好長的一場噩夢，夢裡無論我如何拼命尋找就是找不到你的身影。	とても長い悪夢を見た。どれだけ必死に探してもお前の姿が見つからなかった。	긴 악몽을 꿨어. 꿈 속에서 널 열심히 찾았지만 아무것도 찾을 수 없었지.	I had a really long nightmare then. No matter how hard I searched, I still couldn't find you.						0	
+page1.18	这只是一场噩梦。你看，我就在你的眼前。	不過是一場噩夢。你看，我就在你的眼前。	それはただの悪夢だ！ほら、私はここにいる。	그건 그냥 악몽일 뿐이야. 봐, 지금은 네 앞에 이렇게 서 있잖아.	It was only a nightmare. Look — I'm right here in front of you.						0	
+page1.19	别像我父母那样离开我好吗，分析员？	別像我父母一樣離開我好嗎，分析員？	うん……分析員。私の両親みたいに、私を置いていかないでくれるか？	부모님이 날 떠난 것처럼, 분석가한테 그런 일이 생기지는 않겠지?	Don't leave me like my parents, okay, Adjutant?						0	
+page1.20	我答应你。	我答應你。	あぁ、約束するよ、リフ。	그럼 당연하지. 약속할게.	I promise I won't.						0	

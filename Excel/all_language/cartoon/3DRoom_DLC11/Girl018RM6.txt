@@ -1,0 +1,23 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	这次……肯定是分析员的短信！	這次……肯定是分析員的簡訊！	今度こそ、分析員さんのメッセージのはず……！	이번에는… 분명 분석가님의 문자일 거야!	This has to be a message from the Adjutant this time!						0	
+page1.2	可恶，居然又不是。	可惡，居然又不是。	……はあ、また違いました。	짜증나, 또 아니잖아.	Drat! Still not him.						0	
+page1.3	难道今天分析员都不打算给我发个短信问候之类的吗……	難道今天分析員都不打算傳個簡訊給我問候之類的嗎……	もう、分析員さん……今日くらい、私にメッセージを送ってくれないんですか？	설마 오늘 분석가님이 나한테 안부 문자를 보내줄 생각이 없는 건가…	Is the Adjutant really not going to text me today? Not even a quick "hi"?						0	
+page1.4	呜，总是我主动问候分析员……也不知道会不会让分析员觉得厌烦。	嗚，總是我主動問候分析員……也不知道會不會讓分析員覺得厭煩。	いつも私から送っているけど……もし分析員さんに嫌われたらどうしよう。	흑, 항상 내가 먼저 안부를 묻는데… 분석가님이 귀찮아하지는 않을까?	Ohhh, It's always me reaching out first... I wonder if the Adjutant thinks I've been too clingy...						0	
+page1.5	一整天没见到分析员……我的分析员能量已经要消失殆尽了……	一整天沒見到分析員……我的分析員能量已經要消失了……	丸一日分析員さんと会っていませんし……そろそろエネルギー切れが起きちゃいそうです……	하루 종일 분석가님을 보지 못했어… 나만의 '분석가 에너지'가 거의 다 사라질 것 같아…	I haven't seen him all day... I'm seriously running low on Adjutant-energy...						0	
+page1.6	要是能和分析员偶遇的话，就算让我接下来一周看的电影都是大烂片都没关系！	要是能跟分析員偶遇的話，就算讓我接下來一週看的電影都是大爛片都沒關係！	今すぐ分析員さんに会えたら、次の一週間で見る映画がぜんぶ最低な出来でも我慢できるのに！	분석가님과 우연히 만날 수 있다면, 앞으로 일주일 동안 보는 영화가 전부 망작이어도 상관없을 텐데!	If I could run into him today, I'd be willing to do anything — even watch terrible movies all week!						0	
+page1.7	薇蒂雅？	薇蒂雅？	ヴィディア？	비디야?	Vidya?						0	
+page1.8	在路上的我注意到了驻足不前的薇蒂雅，她表现得很是苦恼。	在路上的我注意到了駐足不前的薇蒂雅，她表現得很是苦惱。	私は道端で、立ち止まって何かに悩んでいるヴィディアを見付けた。	길을 걷던 나는 멈춰서 있는 비디야를 발견했다. 그녀는 매우 고민스러워 보였다.	I noticed Vidya standing still in the hallway, looking a bit frustrated.						0	
+page1.9	分，分析员！	分，分析員！	分、分析員さん！	분, 분석가님!	A—Adjutant!						0	
+page1.10	薇蒂雅看上去很困扰的样子？	薇蒂雅看起來很困擾的樣子？	なんだか困っているようだな。	비디야가 곤란해 보이는데?	You look upset, Vidya. Something troubling you?						0	
+page1.11	确，确实是……	的確，確實是……	あ、そ、そうですね……	맞, 맞아요…	Well... yes, kind of...						0	
+page1.12	是遇到什么麻烦了吗？	是遇到什麼麻煩了嗎？	悩み事でもあるのか？	무슨 문제라도 생겼어?	What happened?						0	
+page1.13	没什么……只是接下来一周，都要看烂片来积攒运气了。	沒什麼……只是接下來一周，都要看爛片來存運氣了。	い、いいえ……これから一週間、くだらない映画を見て運気を溜めなければいけなくなったので……	별거 아니에요… 다만 앞으로 일주일 동안은 형편없는 영화를 보면서 운을 모아야 할 것 같아요.	Nothing much... It's just that, I'm in for a week of bad movies to rebuild my luck.						0	
+page1.14	不过……我很开心！	不過……我很開心！	でも、うれしいです！	그래도… 정말 기뻐요!	But... I'm actually very happy about it!						0	
+page1.15	啊？	啊？	え？	아?	Huh?						0	
+page1.16	虽然不知道薇蒂雅为什么看烂片也会开心，但是只要她没事我就放心了。	雖然不知道薇蒂雅為什麼看爛片也會開心，但只要她沒事我就放心了。	くだらない映画を見てうれしくなる理由はよくわからないが……ヴィディアが無事なら安心だ。	왜 비디야가 형편없는 영화를 봐야 하는데 기뻐하는지는 모르겠지만, 그녀가 괜찮다면 안심이다.	I was puzzled why watching bad movies would make her happy, but I was just relieved she was okay.						0	
+page1.17	我有空的时候，也陪薇蒂雅一起看吧。	我有空的時候，也陪薇蒂雅一起看吧。	それじゃ、時間が合えば、私もヴィディアと一緒に見てみようかな。	시간 날 때 나도 비디야랑 같이 볼게.	How about I join you when I have time? We can watch them together.						0	
+page1.18	咦！！？？真的可以吗？	咦！！？？真的可以嗎？	え！？！？い、いいんですか？	네!!?? 정말요!?	R—Really!? You mean it?						0	
+page1.19	那个……这次我没许愿……应该不用再付出额外的代价吧？	那個……這次我沒許願……應該不用再付出額外的代價吧？	あわわ……願い事していないのにこんな……他に対価を払わなくてもいいですよね？	그… 이번에는 소원을 빌지 않았으니까… 추가 비용은 필요 없겠죠?	Hm... I didn't make a wish this time... so I shouldn't have to pay a price for this, right?						0	
+page1.20	一路上，薇蒂雅都十分兴奋地嘀咕一些我听不太清楚的话，又有些患得患失的样子。	一路上，薇蒂雅都十分興奮地嘀咕一些我聽不太清楚的話，又有些患得患失的樣子。	道中、ヴィディアはずっと興奮気味でよくわからないことをつぶやきながら、また何かに頭を悩ませている様子だった。	가는 내내, 비디야는 굉장히 신난 듯 내가 잘 알아듣지 못하는 말들을 중얼거리면서, 또 불안해하는 모습이었다.	As we walked, Vidya muttered excitedly and anxiously under her breath, though I couldn't make out what she was saying.						0	
+page1.21	……很可爱。	……很可愛。	そんな彼女もかわいいんだけどな。	… 귀여웠다.	...It was really adorable.						0	

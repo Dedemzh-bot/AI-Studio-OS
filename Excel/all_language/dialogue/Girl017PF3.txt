@@ -1,0 +1,73 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	从陶的办公室离开时已是傍晚。	離開τ辦公室的時候已經是傍晚了。	τのオフィスを出た時には、すでに日が沈みかけていた。	τ 사무실에서 떠날 때는 이미 저녁 무렵이었다.	By the time Tess left τ's office, it was already dark out.						0	
+2	肚子好饿。	肚子好餓。	お腹空いたー。	배고파.	I'm so hungry.						0	
+3	没记错的话，之前看到这条街上有家可丽饼店来着。	印象中之前有看到這條街上有一家可麗餅店。	そういえば、確かこのあたりにクレープ屋さんがあったっけ。	전에 이 거리에서 크레이프 가게를 본 것 같은데.	I think I saw a crepe shop somewhere on this street before...						0	
+4	哎？前面那是？	欸？前面那是？	ん？あれって……	어? 앞에 저건 뭐지?	Huh? What's going on over there?						0	
+5	不要管我了，求求你……	不要管我了，求求你……	お願いだから、私のことはもうほっといて！	날 내버려 둬, 부탁이야…	Leave me alone, please...						0	
+6	检查结果你不是都看到了吗，我们没那么多钱去买新型抑制剂的！	你不是也看到檢查結果了嗎，我們沒有那麼多錢去買新型抑制劑的！	検査結果を見たでしょ！私たちには新型抑制剤を買えるお金なんてないのよ……！	검사 결과 다 봤잖아. 우리에겐 신형 억제제를 살 돈이 없어!	Didn't you see the test results? We don't have enough money to buy new inhibitors!						0	
+7	但那个医生不是说，保守治疗也还有希望吗？	但那個醫生不是說，保守治療也還有希望嗎？	保存療法でもまだ希望はあるって先生が言ってたじゃないか！	하지만 의사 선생님이 말씀하셨잖아, 치료를 유지하는 것만으로도 희망이 있다고.	But didn't the doctor say conservative treatment might help?						0	
+8	你都已经坚持了这么久了，怎么能在这种时候放弃！	你都已經堅持這麼久了，怎麼能在這種時候放棄！	お前だってここまで頑張ってきたんだ、ここで諦めてどうするんだよ！	당신, 오랫동안 견뎌왔잖아. 어떻게 이제 와서 포기할 수 있어?!	You've hung in there this long — why are you giving up now?						0	
+9	你根本什么都不知道！在深夜凌晨，被喉咙中长出的晶体堵住喉咙，这样的事情你能想象吗！	你根本什麼都不知道！在深夜，被從喉嚨長出的晶體堵住支氣管而無法呼吸，這種痛苦你能想像嗎！	喉から生えてくる結晶のせいで、呼吸ができずに深夜に目を覚ます体験すらしたことのないあなたに、何が分かるっていうのよ！？	당신은 아무것도 몰라! 한밤중에도, 새벽에도, 목구멍에서 자란 결정체에 목이 막히면 어떨지 상상이나 가?!	You don't know anything! Can you even imagine what it's like having crystals growing in your throat in the middle of the night, suffocating you!?						0	
+10	我……	我……	お、俺は……	나는…	I...						0	
+11	你要是真的爱我，就别让我再忍耐了。	你要是真的愛我，就別再讓我忍耐了。	本当に私を愛しているなら、もう……これ以上は……	당신이 날 정말 사랑한다면, 더 이상 견디라고 하지 말아줘.	If you really loved me, you wouldn't make me endure this anymore.						0	
+12	……	……	……	…	...						0	
+13	那我这么久以来的努力，就这么全部白费吗？！	那我長久以來的努力不都全白費了嗎？！	だったら俺が今までして来た努力は？ぜんぶムダだったって言うのか！？	그럼 그동안 내가 한 노력은 이렇게 물거품이 되는 거야?!	So you're saying everything I've done has been for nothing!?						0	
+14	你在痛苦的时候，难道我没有在更辛苦地赚钱吗？你的眼中就只有你自己吗？	當你在痛苦的時候，難道我沒有在更努力地賺錢嗎？你就只想到你自己嗎？	お前が苦しんでいる間に、俺だって必死に金を貯めたんだ！お前には自分の苦労しか見えてないんだよ！	당신이 고통과 싸울 때, 나도 힘들게 돈을 벌었잖아? 당신 눈에는 자기밖에 안 보여?	When you were in pain, didn't I work even harder to make money? Aren't you only thinking about yourself?						0	
+15	似乎是察觉到周围越来越多的目光，男人抛下这句话后头也不回地离开了。	因為爭吵而吸引了越來越多人圍觀，男人拋下這句話後便頭也不回地走了。	周囲から投げかけられる視線に気付いたのか、男はそれだけ吐き捨てると、その場を後にした……	주위의 시선이 점점 쏠리는 것을 느낀 듯, 남자는 다음 말을 삼키고 뒤도 돌아보지 않고 자리를 떠났다.	As if he noticed the growing number of gazes fixed on him, the man left without looking back as he finished speaking.						0	
+16	呜……	嗚……	うぅ……	흐흐흑…	*sobbing*...						0	
+17	女人则像是耗尽了力气，索性在原地蹲下哭了起来。	女人則像是耗盡了力氣，索性蹲在原地哭了起來。	女性は全身の力が抜けたように、その場にうずくまって泣き始めた。	여자는 기운이 다 빠진 듯, 그 자리에 주저앉아 울기 시작했다.	Seemingly drained of all her strength, the woman fell to her knees and began to cry.						0	
+18	啊这……	啊……	うわあ……	아…	Ah...						0	
+19	（这种时候，应该上去帮个忙吧。）	（這種時候，應該過去幫個忙吧。）	（こういう時は、助けなきゃだよね？）	(이럴 땐 도와줘야 하는 거겠지)	(In this kind of situation, I should go over and help.)						0	
+20	（但在情绪失控时突然被陌生人关心，没准会更没有安全感。）	（但在情緒失控的時候突然被陌生人關心，說不定會更沒有安全感。）	（でも、情緒不安定のときに知らない人から大丈夫ですかって聞かれても、余計警戒しちゃいそう。）	(하지만 감정을 추스르지 못한 상태에서 갑자기 낯선 사람이 관심을 보이면, 더 불안할지도 몰라)	(But if a stranger tries to comfort you when you're really upset, it might make you feel even more vulnerable.)						0	
+21	（而且，我好像也没法帮上她……）	（而且，我好像也沒辦法幫助她……）	（それに、この私にできることなんて……）	(그리고, 내가 과연 도움이 될까…)	(And I don't think I can do anything to help her...)						0	
+22	（如果是成年病的话，是不是找陶董帮忙会好一点？）	（如果是成年病的話，是不是該找τ董幫忙呢？）	（ティーン症候群の話なら、τさんに聞いてみたほうがいいかな。）	(만일 성인병이라면, τ 이사님에게 도움을 청하는 게 낫지 않을까?)	(If it's about Juvosis, maybe I should ask Director τ if she could help?)						0	
+23	借过。	借過。	失礼。	실례합니다.	Excuse me.						0	
+24	在苔丝还在脑中妄想时，一个有些熟悉的声音出现在了耳旁，她下意识地侧过了身子。	當黛斯還在腦中小劇場時，一個聽起來有點耳熟的聲音從她身旁傳來，她下意識地禮讓對方。	考え事をしている時だった。聞き覚えのある声がして、彼女は思わず道を譲った。	테스가 머릿속으로 망상하고 있을 때, 귀에 익은 목소리가 들려왔다. 테스는 무의식적으로 몸을 돌렸다.	As Tess was lost in thought, she heard the sound of a familiar voice next to her. Without thinking, she turned to the side.						0	
+25	谢谢。	謝謝。	感謝する。	고마워요.	Thank you.						0	
+26	咦？！	咦？！	あ、あれ！？	엇?!	Eh!?						0	
+27	虽然同为天启者，但此前苔丝一直只在网络和屏幕上见过里芙。	雖然同樣身為天啟者，但黛斯從來沒見過里芙本人，只有在網路和螢幕上看過她。	同じ覚醒者でありながら、リフのことはネット越しでしか見たことがなかった。	같은 계시자이지만, 테스는 그동안 인터넷과 스크린을 통해서만 리브를 봐왔다.	Even though they were both Manifestations, Tess had only ever seen Lyfe online or on a screen.						0	
+28	当里芙在瓦尔基里游戏中崭露头角时，苔丝仍在高中的沉重学业中苦读。而在最近海姆达尔部队风头正盛之时，苔丝仍游走于阴影中。	當里芙已經在瓦爾基里遊戲嶄露頭角時，黛斯還在高中被課業壓得喘不過氣來。而當現在海姆達爾部隊正意氣風發之時，黛斯仍遊走於陰影之中。	ヴァルキリーゲームでリフが活躍していた当時、テスはまだ高校在学中で、ヘイムダル部隊が有名になりつつある頃も、テスは影の中に身を潜めていたからだ。	리브가 발키리 게임에서 두각을 나타냈을 때, 테스는 아직 고등학교의 무거운 학업에 시달리고 있었다. 최근 헤임달 부대가 활약을 보일 때, 테스는 여전히 그림자 속에서 방황하고 있었다.	When Lyfe was an up-and-coming star in the Valkyrie Games, Tess had just been a struggling student. And while the Heimdall Force had been in the spotlight recently, Tess was still operating in the shadows.						0	
+29	苔丝看着里芙走上前去，在落寞的女人身边说了些什么。后者很快露出了惊讶的表情，起身朝着男人消失的路口跑去了。	黛斯眼看著里芙走上前去，在悲傷的女人身旁說了些什麼。女人露出了驚訝的表情之後，便起身朝著男人消失的路口跑了過去。	そっと女性に近づいたリフが、彼女に何事か話しかけると、女性は驚いたように顔をあげ、すぐに男性を追いかけて走り去った。	테스는 홀로 남겨진 여자 곁으로 다가가는 리브를 바라봤다. 리브가 무슨 이야기를 하자, 여자는 이내 깜짝 놀란 표정으로 일어나 남자가 사라진 길목을 향해 달려갔다.	Tess watched as Lyfe walked over and said something to the lonely woman, who suddenly looked surprised. She then stood up and ran off in the direction the man had disappeared.						0	
+30	嗯。	嗯。	うむ。	음.	Well then.						0	
+31	等，等一下！	等、等一下！	ま……待って！	자, 잠깐만요!	W—Wait up!						0	
+32	那个，里芙小姐！	那個，里芙小姐！	あの……リフさん！	저기요, 리브!	M—Miss Lyfe!						0	
+33	里芙？真的是里芙吗！	里芙？真的是里芙嗎！	リフだって？本物か？	리브? 정말 그 리브란 말이야?!	Lyfe? It's really her!						0	
+34	围观的群众一下子转移了注意力，朝着苔丝和里芙涌了过来，苔丝这才后知后觉地意识到了自己的失言。	圍觀的群眾紛紛將注意力轉向了此處，眾人興奮地朝著黛斯跟里芙這裡圍了過來，此時黛斯才發現自己失言了。	通行人たちの視線が彼女たちに集まると、ようやくテスは自分がしてしまったことに気付いた。	구경하던 사람들이 테스와 리브 쪽으로 시선을 돌리자, 테스는 그제야 자신이 말실수했다는 것을 깨달았다.	The bystanders' attention quickly shifted to Tess and Lyfe. Only then did Tess realize her mistake.						0	
+35	……	……	……	…	...						0	
+36	又搞砸了……	又搞砸了……	ま、またやっちゃった……	또 사고 쳤네…	I screwed up again...						0	
+37	但是，厉害的魔术师总会有后手的！	但是！偉大的魔術師總是有留一條後路！	でも、すごいマジシャンなら、こんなときは！	하지만, 위대한 매지션에게는 언제나 해결 방법이 있는 법!	But a good magician always has a trick up their sleeve!						0	
+38	砰！	砰！	ドカーン！	펑!	*bang*!						0	
+39	随着烟雾散去，两人在众目睽睽之下消失了。	隨著煙霧散去，她們兩人竟然在眾目睽睽之下消失了！	煙が消え去った時には、ふたりの姿は影も形もなかった。	두 사람은 자욱한 연기와 함께 사람들의 시선 속에서 사라졌다.	As the smoke cleared, the two had already vanished.						0	
+40	呼，呼，逃出来了——	呼、呼，逃出來了——	はあ、はあ、助かったぁ……	후우, 후우, 도망쳤다…	Whew, we escaped...						0	
+41	有什么事吗？	有什麼事嗎？	なんの用だ？	무슨 일이지?	Do you need something?						0	
+42	稍等，稍等，我缓口气。	等一下、等一下，先讓我喘口氣。	ちょ、ちょっとだけ待って……息を整えるから！	잠시, 잠시만요. 숨 좀 돌릴게요.	Wait a sec — let me catch my breath.						0	
+43	面对着狼狈的苔丝，里芙的表情仍没有任何变化。这让苔丝硬生生把到嘴边的客套话咽了回去，选择直入主题。	里芙面無表情的看著狼狽喘氣的黛斯。這讓黛斯硬生生把到嘴邊的客套話吞了回去，她決定直接切入主題。	うろたえるテスを前にしても、リフは眉ひとつ動かさなかった。そんな彼女の態度を見て、テスは社交辞令を引っ込め、さっさと本題から話すことに決めた。	허둥대는 테스를 보는 리브의 표정은 아무런 변화도 없었다. 그래서 테스는 인사말을 꿀꺽 삼키고 바로 본론으로 들어갔다.	Faced with Tess' embarrassment, Lyfe's expression remained unchanged. Tess swallowed the pleasantries on the tip of her tongue and decided to get straight to the point.						0	
+44	其实也没什么事，我就是想问问你和那个人说了什么。	其實也沒什麼事，我就是想問問你跟那個女人說了什麼。	特に用があるわけじゃないんだけど……さっきの人には、なんて言ったの？	별건 아니고요, 당신이 그 사람에게 무슨 말을 했는지 궁금해서요.	It's actually nothing. I just wanted to ask you what you said to the woman just now.						0	
+45	只是告诉她，刚才离开的男人朝着那边的义体诊所跑去了。	只是告訴她，剛才離開的男人朝著那邊的義體診所跑過去了。	あの男が向こうの義体クリニックに入った、と伝えただけだ。	방금 가버린 그 남자가 저쪽의 의체 진료소 쪽으로 갔다고 이야기해 줬어.	I just told her that man was running toward the prosthetic center over there.						0	
+46	然后呢？	然後呢？	それで？	그리고는요?	And then?						0	
+47	就这些。	就這樣。	それだけだ。	그게 다야.	That's it.						0	
+48	只需要这样就可以了吗？	只說了這句話就沒了嗎？	たったそれだけ？	정말 그게 다예요?	That's all you did?						0	
+49	嗯。	嗯。	ああ。	응.	Yes.						0	
+50	（呜哇，好难交流的样子。）	（嗚哇，好像很難交流的樣子。）	(うわ～話しづらいな……)	(와, 정말 대화하기 힘든 스타일이네)	(Wow, she's not much of a talker.)						0	
+51	我没猜错的话，那个男人应该想卖掉身上的东西。	我沒猜錯的話，那個男人應該是想賣掉身上的某些東西。	私の推測が正しければ、あの男は体の一部を売ろうとでも考えたのだろう。	내 짐작이 맞는다면, 그 남자는 자신의 물건을 팔려고 했을 거야.	If my guess is correct, that man is probably going to try to sell a body part.						0	
+52	这样的事每天都在发生。	這種事情每天都在發生。	よくある話だ。	이런 일들은 매일 일어나고 있어.	Things like this happen every day.						0	
+53	她需要一个起身的理由，我能做的也仅此而已，剩下的仍需他们两人自己决定。	她需要一個起身的理由，我能做的事情也僅此而已，問題仍需要他們兩位當事人自己解決。	彼女に必要だったのは、立ち上がるための理由だ。私にできたのも、その事実を伝えることだけ。あとはふたりが解決するしかないんだ。	그녀는 일어설 이유가 필요했고, 내가 해줄 수 있는 것도 오직 그것뿐이었어. 나머지는 그 두 사람이 스스로 결정해야 해.	She needed a reason to get back up, and that was all I could do. The rest is up to them to figure out.						0	
+54	听起来很像playername会说的话…	聽起來很像playername會說的話…	なんか、playernameが言いそうな話だな……	playername, 꼭 그가 하실 만한 말이네요…	That really sounds like something playername would say...						0	
+55	你果然认识分析员。	你果然認識分析員。	やはり分析員のことを知っていたか。	역시 분석가를 아는구나.	So you know playername.						0	
+56	里芙突然迫近了苔丝，眼神中的寒霜仿佛要将对方吞没。	里芙突然逼近黛斯，她眼中的寒霜彷彿要將黛斯吞沒。	リフはそう言うと、出し抜けにテスに詰め寄った。彼女の鋭い眼差しは、まるでテスを撃ち抜こうとしているかのようだった。	리브가 갑자기 테스에게 다가와, 집어삼킬 듯한 매서운 눈빛으로 그녀를 노려봤다.	Lyfe suddenly moved closer, as if her frosty gaze was ready to swallow Tess up.						0	
+57	你有什么目的？	你有什麼目的？	なにが目的だ？	목적이 뭐지?	What are you playing at?						0	
+58	哎哎？不，不是，你误会了！我我我我也是天启者啊！	欸欸？不、不是，你誤會了！我我我我也是天啟者啊！	ええ？ち、違うよ、誤解だって！わわわ私も覚醒者なの！	네? 아, 아니에요, 오해예요! 저, 저, 저도 계시자거든요!	Eh? N—No, you're misunderstanding! I—I—I'm a Manifestation too!						0	
+59	我确实认识你们分析员，也认识陶董。只不过我刚从分公司回来，还没来得及和你们正式见面。	我認識你們的分析員，也認識τ董。只不過我才剛從分公司回來，還來不及跟你們打招呼。	あなたと分析員のことはもちろん知ってるし、τさんとも知り合いだよ！分社から帰って来たばかりで、まだみんなと顔合わせしてないだけなの。	전 분석가님도 알고, τ 이사장님도 알아요. 단지 이제 막 지사에서 돌아와서 정식으로 인사를 하지 못했을 뿐이에요.	I know the Adjutant and Director τ. I just got here from one of Yggdrasil's branch divisions, so we haven't officially met yet.						0	
+60	在不合时宜的场合说出的实话反而像是无助的辩白。	在這種情況之下的解釋反而讓人更加懷疑了……	タイミングが悪ければ、たとえ事実でも言い訳のように聞こえてしまうものだ。	부적절한 장소에서 털어놓은 진실은 무력한 변명처럼 들리기도 한다.	You know, the truth can seem like a helpless excuse when shared at the wrong time.						0	
+61	我会把你的事情告诉给分析员。	我會把你的事情告訴分析員。	……分析員にそう伝えておく。	이 일을 분석가에게 이야기할 거야.	I'm going to tell the Adjutant about you.						0	
+62	不！绝对绝对不行！	不！絕對絕對不行！	だ、だめ！絶対にダメ！！	안 돼요! 절대, 절대 안 돼요!	No! You absolutely can't do that!						0	
+63	一阵熟悉而猛烈的眩晕感袭来。	一陣猛烈的暈眩感突然襲來。	彼女にとってはおなじみの、あの眩暈がテスを襲った。	익숙하고 강렬한 현기증이 엄습했다.	A familiar, intense dizziness washed over Tess.						0	
+64	我和playername之间有一些…不愉快的回忆，我不确定他现在愿不愿意见我。	我和playername之間有一些…不愉快的回憶，我不確定他現在是否想見我。	私、playernameとは昔……揉めたことがあって。今でも会ってくれるか怪しいぐらいで……	저와 playername 님 사이에는 좀… 유쾌하지 않은 기억이 있어요. 분석가님은 저를 만나고 싶지 않을 거예요.	playername and I share some... unhappy memories. I don't even know if he wants to see me now.						0	
+65	我，也还没有做好去见他的准备。	而且我…也還沒做好去見他的心理準備。	私も、まだ分析員と会う心の準備ができていないっていうか。	저도 아직 그를 만날 준비가 되지 않았어요.	And I'm... still not ready to see him.						0	
+66	拜托了，里芙小姐，只有这件事请务必保密。	拜託你了！里芙小姐，這件事情請務必幫我保密！	お願い、リフさん。このことは、秘密にしてくれないかな……	제발 부탁이에요, 이 일은 비밀로 해주세요.	Please, Miss Lyfe, just keep this a secret for now.						0	
+67	……	……	……	…	...						0	
+68	我会和其他人确认的。	我會跟其他人確認你的身分的。	他のみんなには確認する。	다른 사람에게 확인해 보겠어.	Then I'll confirm your story with someone else.						0	
+69	在此之前，我答应你，不会让分析员知道。	在此之前，我答應你，不會讓分析員知道。	それまでは、分析員には言わない。それは約束しよう。	그전까지는 분석가에게 말하지 않겠다고 약속할게.	Before that, I promise you I won't tell the Adjutant.						0	
+70	但你也需要答应我，你会自己和分析员说明情况，尽快。	但你也要答應我，你會自己跟分析員解釋，而且要盡快。	だが、分析員には必ず事情を説明するんだ。自分の口から、できるだけ早くな。分かったか？	하지만 너도 분석가에게 직접 상황을 설명하겠다고 약속해, 가능한 한 빨리 말이야.	But you also need to promise me you'll explain everything to the Adjutant as soon as possible.						0	
+71	我保证。	我答應你。	うん、私も約束する。	약속할게요.	I will.						0	

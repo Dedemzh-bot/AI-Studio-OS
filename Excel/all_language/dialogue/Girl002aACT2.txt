@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	<red>子弹没了？小腿肌肉失能，无法加速跑……</>	<red>子彈沒了？小腿肌肉失能，無法加速跑……</>	<red>弾がなくなった？足に力が入らず、走れない……</>	<red>탄약이 다 떨어졌나? 종아리 근육이 마비됐는지 뛸 수가 없어…</>	<red>I'm out of ammo? And my legs won't respond... can't run like this.</>						0	
+2	我……还要战斗！	我……還要戰鬥！	私は……まだ戦う！	아직… 포기하기는 일러!	I... have to keep fighting!						0	
+3	这个信号是……事先放置的弹药箱？很好……	這個訊號是……事先放置的彈藥箱？很好……	この信号は……事前に置かれた弾薬箱？よし……	이건… 사전에 놓아둔 탄약 상자인가? 좋아…	That signal... an ammo cache? That helps...						0	

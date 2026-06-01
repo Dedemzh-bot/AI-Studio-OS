@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	怎么样？	怎麼樣？	どうだ？	좀 어때요?	How is it?						0	
+page0.2	很好听。	很好聽。	とても素敵だよ。	고마워.	It's great.						0	
+page0.3	不过，我没想到你喜欢这种老歌。	不過，我沒想到你喜歡這這種老歌。	でも、こういう古い曲が好きとは意外だった。	근데, 네가 이런 옛날 노래를 좋아할 줄은 몰랐어.	I just never knew you liked old songs like this.						0	
+page0.4	这唱片不会是货真价实的古董吧？	這唱片不會是真的骨董吧?	このレコードって正真正銘の骨董品じゃないんだろう？	이 레코드 설마 진짜 골동품은 아니지?	Is this a real antique record?						0	
+page0.5	不，只是用现代的技术复原了当时的音质。	不，只是用現代技術復原了當時的音質。	ああ、ただ現代の技術で当時の音質を復元しただけだ。	그건 아니고, 현대 기술로 당시 음질을 복원한 거야.	No, the vintage sound quality is being replicated by modern technology.						0	
+page0.6	这些歌基本都创作于六十年前，想找到这么古老的唱片可不容易。	這些歌曲幾乎都是六十年前創作的，想找到這麼古老的唱片很不容易。	ほとんど60年以上も前に作られた歌だ。古すぎてそう簡単に見つからない。	이 노래들은 60년 전에 만들어진 것들이라 오래된 레코드를 찾는 건 쉽지 않아.	Most of these songs came out around sixty years ago. It's difficult to find records that old.						0	
+page0.7	分析员，你从刚才的歌里听出了什么？	分析員，你從剛才的歌裡聽出了什麼?	分析員、さっきの歌が表現したいのはなんだと思う？	분석가, 방금 노래를 들을 때 어떤 느낌이 들었어?	Adjutant, what did you hear in the song just now?						0	
+choice1	对现实的无奈和迷茫。	對現實的無奈和迷茫。	現実を前に感じたやるせなさ、そして迷い。	현실에 대한 체념과 막막함.	Frustration and confusion toward reality.						0	
+page1.1	嗯，歌手来自耶洛沙地区。	嗯，歌手來自耶洛沙地區。	ああ。歌手はイェロシャエリア出身だ。	응, 가수는 옐로샤 지역 출신이었어.	I see. The singer was from the Yehrus region.						0	
+page1.2	在这首歌发布的时候，那里已经处于第一次内战的边缘。	在這首歌問世的時候，那裡正處於爆發第一次內戰的臨界點。	この歌が発表された頃、そこは第一次内戦で緊迫していた。	이 노래가 출시됐을 때, 그곳은 제1차 내전의 영향권에 있었지.	The country was already on the brink of its first civil war when this song was released.						0	
+page1.3	或许她试图做些什么，但还是失败了。	或許她試圖做些什麼，但還是失敗了。	彼女が何かしようとしたかもしれないが、結局失敗に終わった。	무언가를 시도하려고 했지만, 실패했을지도 몰라.	Maybe he tried to do something but failed in the end.						0	
+choice2	对未来的憧憬和期待。	對未來的憧憬和期待。	未来への憧れや期待。	미래에 대한 동경과 기대.	Hope and anticipation for the future.						0	
+page2.1	嗯，这首歌是在千禧年第一天发布的。	嗯，這首歌是在千禧年第一天發布的。	そう、この歌はミレニアムの初日に発表されたんだ。	응, 이 노래는 밀레니엄인 2,000년의 첫째 날에 출시됐어.	I see. This song was released on the first day of the new millennium.						0	
+page2.2	那时候每个人都相信，美好的未来即将来临。	那時候每個人都堅信，美好的未來即將來臨。	素敵な未来がすぐそこにあると、あの時は誰もが信じていた。	그땐 모든 사람이 아름다운 미래가 올 거라고 믿었었지.	Back then, everyone believed a better future was on the horizon.						0	
+page2.3	如果后来没有成年病危机的话……	如果後來沒有成年病危機的話……	ティーン症候群さえなければ……	이후에 성인병 위기가 없었더라면…	If the Juvosis crisis hadn't happened...						0	
+page3.1	真是世事难料。	真是世事難料。	運命は不思議だな。	이 세상은 한 치 앞을 내다볼 수가 없어.	You really never know what's going to happen next.						0	
+page3.2	再过几十年，我们也许也会成为某一首歌的主角。	再過幾十年，我們也許會成為某一首歌的主角。	あと数十年すれば、私たちも歌の主人公になるかもしれない。	수십 년 후에는 우리도 어떤 노래의 주인공이 될지도 모르지.	Who knows? In a few decades, we might be the subjects of a different song.						0	

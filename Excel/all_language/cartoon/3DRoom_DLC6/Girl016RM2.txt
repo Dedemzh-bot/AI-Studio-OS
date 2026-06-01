@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	……	……	……	…	...						0	
+page1.2	伊切尔？	伊切爾？	イチェル？	이첼?	Eatchel?						0	
+page1.3	啊，是分析员。	啊，是分析員。	あ、分析員だ。	아, 분석가.	Ah, Adjutant.						0	
+page1.4	分析员，耶洛沙现在怎么样了？	分析員，耶洛沙現在怎麼樣了？	分析員、イェロシャは今どうなってるの？	분석가, 지금 옐로샤는 어때?	Adjutant, how are things in Yehrus?						0	
+page1.5	军方维持了治安，公司正在处理北风航天中心附近的污染，以及提供物资。	軍方維持了治安，公司正在處理北風航太中心附近的汙染，以及提供物資。	治安維持は軍が担当しているよ。北風宇宙センター周辺での除染と物資支援は、会社が進めてる。	군에서는 치안을 유지 중이고, 회사는 노스윈드 우주센터 부근의 오염을 처리하고 물자를 지원하고 있는 중이야.	The Military is maintaining order, while Yggdrasil is handling the contamination surrounding Northwind Aerospace Center and providing supplies.						0	
+page1.6	总的来说，虽然还有很多问题，但至少是在慢慢变好了。	總的來說，雖然還有很多問題，但至少在慢慢變好了。	全体的に見れば問題はまだまだたくさん残ってるけど、少しずつよくなってると思うよ。	전반적으로 봤을 때, 아직도 문제는 많지만 조금씩 나아지고 있는 건 확실해.	There are still a lot of problems, but things are slowly getting better.						0	
+page1.7	那我是不是不用回去当第一公民了？	那我是不是不用回去當第一公民了？	じゃあ、ボクはもう、第一公民になるために帰らなくていいの？	그럼 난 더 이상 제1시민이 될 필요는 없겠지?	Does that mean I don't have to go back and be the leader?						0	
+page1.8	嗯，伊切尔做自己喜欢的事情就好。	嗯，伊切爾做自己喜歡的事就好。	ああ。イチェルはイチェルの好きなことだけをすればいい。	맞아, 이제는 이첼이 좋아하는 일을 찾아서 하면 돼.	Yeah. You can do whatever you want now, Eatchel.						0	
+page1.9	喜欢的事情……	喜歡的事……	好きなこと……	좋아하는 일…	Whatever I want...						0	
+page1.10	烤肉、睡午觉，再不然打打泰坦。	烤肉、睡午覺，再不然打打泰坦。	焼肉とか、お昼寝とか、タイタン討伐とかでもいいんだ。	바베큐를 해먹거나, 낮잠을 자거나, 아니면 타이탄을 처치하거나…	Eat barbeque, take a nap, fight Titans...						0	
+page1.11	至于管理一个地区这种事，就交给无聊的大人们吧。	至於管理一個地區這種事，就交給無聊的大人們吧。	地区の管理なんてそんなことは、つまらない大人たちに押し付けちゃえばいいよ。	지역을 관리하는 일은 어르신들한테 넘기면 돼.	We can leave running a country to the boring adults.						0	
+page1.12	嗯嗯！	嗯嗯！	うんうん！	응! 알겠어!	Okay!						0	

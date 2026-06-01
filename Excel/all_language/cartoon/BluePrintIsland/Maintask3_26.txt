@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	巡逻中——巡逻中——巡逻中——	巡邏中——巡邏中——巡邏中——	パトロール中――パトロール中――パトロール中――	순찰 중… 순찰 중… 순찰 중…	Patrolling — patrolling — patrolling—						0	dlc30蓝图岛对话
+page1.2	分析员您好，分析员您好，分析员您好——	分析員您好，分析員您好，分析員您好——	分析員、こんにちは。分析員、こんにちは。分析員、こんにちは――	분석가님, 안녕하세요. 분석가님, 안녕하세요. 분석가님, 안녕하세요…	Hello, Adjutant. Hello, Adjutant. Hello, Adjutant—						0	dlc30蓝图岛对话
+page1.3	（只是普通的巡逻通知提示，为什么要复制三遍……）	（只是普通的巡邏通知提示，為什麼要複製三遍……）	（普通のパトロールのお知らせなのに、なんで三回も繰り返すんだ……）	(그냥 평범한 순찰 알림인데, 왜 세 번이나 복사한 거지…)	(It's just a regular patrol notice. Why does it repeat it three times...)						0	dlc30蓝图岛对话
+page1.4	会不会是在复制数据的时候，不小心复制了其他的指令……	會不會是在複製資料的時候，不小心複製了其他的指令……	データをコピーする時に、うっかり他のコマンドまでコピーしちゃったのか……	데이터를 복사하다가 실수로 다른 명령어까지 복사한 걸까…	Maybe someone duplicated the instructions by accident while copying data...						0	dlc30蓝图岛对话
+page1.5	连这个你也要复制三份吗？	連這個你也要複製三份嗎？	これも3回コピーするのか？	이것도 세 번이나 복사할 거야?	Did you really have to get everything in triplicate?						0	dlc30蓝图岛对话
+page1.6	嗯，和分析员手把手一起钓到超大鱼时用的特殊饵料，一份观赏用，一份保存用……	嗯，和分析員手把手一起釣到超大魚時用的特殊魚餌，一份觀賞用，一份保存用……	うん。分析員と一緒に超大物を釣り上げた時に使った特別なエサだから、一つは観賞用、一つは保存用……	응. 분석가랑 손잡고 같이 대어를 낚을 때 쓸 특수 미끼야. 하나는 관상용이고, 하나는 보관용이고…	Yeah, for the bait I use when fishing with you: one for display, one for storage...						0	dlc30蓝图岛对话
+page1.7	还有一份安利新星开拓钓鱼玩法用？	還有一份推薦新星開拓釣魚玩法時用？	もう一つは、惑星開拓釣りシステムの布教用？	하나는 신성 개척의 낚시 콘텐츠 홍보용이고?	And one for the Star Master's fishing feature?						0	dlc30蓝图岛对话
+page1.8	不对。剩下的那份是炫耀用，炫耀我和分析员一起钓了大鱼。	不對。剩下的那份是炫耀用，炫耀我和分析員一起釣了大魚。	違う。残りの一つは自慢用。分析員と一緒に大物を釣ったって自慢する。	아니. 남은 하나는 자랑용이야. 분석가랑 같이 대어를 낚았다고 자랑하려고.	Nope. The last one's for bragging, to show off how I caught a big one with you.						0	dlc30蓝图岛对话
+page1.9	……	……	……	……	...						0	dlc30蓝图岛对话
+page1.10	鱼饵数据倒是方便存储……	魚餌資料倒是方便儲存……	釣り餌のデータは保存しやすいけど……	미끼 데이터는 저장하기 편하긴 한데…	Fishing bait data is easy enough to store alright...						0	dlc30蓝图岛对话
+page1.11	但我一直好奇，你之前买的那些三倍的游戏机、游戏卡和模型都存在哪里了。	但我一直好奇，你之前買的那些三倍的遊戲主機、遊戲卡和模型都存在哪裡了。	でもずっと気になっていたんだ。ゲーム機、ゲームソフト、フィギュアも一回で3つ買うけど、それはどこに置いているんだ？	근데 궁금한 게 있어. 네가 전에 3배로 구매한 게임기랑 게임 카드, 모형은 다 어디에 보관하고 있어?	But I've always wondered where you store all those triples of game consoles, cartridges, and models you keep buying.						0	dlc30蓝图岛对话
+page1.12	我在公司租了一间仓库，专门存放它们。	我在公司租了一間倉庫，專門存放它們。	それを保存するために、会社に倉庫を借りたから。	회사에 창고를 한 칸 빌려서 거기에 전부 보관하고 있어.	I rent a warehouse just for that.						0	dlc30蓝图岛对话
+page1.13	虽然很安全，但每次要进去都要输很多次不同类型的密码，好麻烦……	雖然很安全，但每次要進去都要輸很多次不同類型的密碼，好麻煩……	安全だけど、入るたびに違うパスワードを何個か入力しなきゃいけなくて、面倒なんだよね……	안전하긴 한데, 들어갈 때마다 여러 비밀번호를 입력해야 해서 귀찮아…	To keep them safe, I've set all kinds of different passwords. It's such a hassle even for me to get in...						0	dlc30蓝图岛对话
+page1.14	可惜的是观赏用的那份不能时时刻刻看到了。	可惜的是觀賞用的那份不能時時刻刻看到了。	観賞用のがいつでも見られないのは残念だよ。	아쉽지만 관상용은 언제든지 볼 수는 없어.	It's a shame I can't always see my display pieces whenever I feel like it.						0	dlc30蓝图岛对话
+page1.15	看来是上次在一起劝降到完美属性的伙伴时，不小心复制的。	看來是上次在一起勸降到完美屬性的夥伴時，不小心複製的。	この前、完璧な仲間を説得した時に、うっかりコピーしてしまったようだな。	지난번에 완벽한 속성을 가진 동료를 설득할 때 실수로 복사한 것 같아.	She must have accidentally copied it last time when we persuaded that unit with perfect attributes.						0	dlc30蓝图岛对话
+page1.16	不过说起来，在这里为她建造一座<orange>次世代展览馆</>吧。	不過說起來，在這裡為她建造一座<orange>次世代展覽館</>吧。	そういえば、彼女のために<orange>次世代展示館</>を建ててもいいかもしれない。	말 나온 김에, 여기에 그녀를 위한 <orange>차세대 전시회</>를 지어볼까.	Speaking of which, I should build her a <orange>Game Gallery</> here.						0	dlc30蓝图岛对话
+page1.17	这样就不愁没办法时时“观赏”了。	這樣就不煩惱沒辦法時時「觀賞」了。	そうしたら、いつでも「観賞」できるな。	이러면 원할 때 언제든 '감상'할 수 있겠지.	That way, she'll never have to worry about not being able to "admire" her collections whenever she wants.						0	dlc30蓝图岛对话

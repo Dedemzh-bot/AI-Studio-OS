@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	已确认里芙·贝斯特拉的安全。	已確認里芙·貝斯特拉的安全。	リフ・ベストラの安全を確認しました。	리브 베스트라의 안전을 확인했어요.	Operative Bestla: status confirmed secure.						0	
+2	继续在这个区域搜索芬妮·戈尔登。	繼續在這個區域搜索芬妮·戈爾登。	このエリアで続けてファニー・ゴールデンを捜索します。	이 구역에서 페니 골든을 계속해서 수색합니다.	Continue to search the area, Operative Golden should be here.						0	

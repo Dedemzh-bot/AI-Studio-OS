@@ -1,0 +1,8 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员、分析员，拉面博物馆发生紧急情况！	分析員、分析員，拉麵博物館發生緊急情況！	分析員！ラーメン博物館で緊急事態発生！	분석가님, 분석가님, 라면 박물관에 긴급 상황이 발생했습니다!	Adjutant, Adjutant! There's an emergency at the Ramen Museum!						0	dlc30蓝图岛对话
+page1.2	这不是建造经营游戏吗？怎么还有突发事件……	這不是建造經營遊戲嗎？怎麼還有突發事件……	シミュレーションゲームなのに、なんで緊急事態が……	이거 경영 시뮬레이션 게임 아닌가? 왜 돌발 상황까지 있는 거지…	Isn't this supposed to be a builder sim? Why are there emergencies all of a sudden...?						0	dlc30蓝图岛对话
+page1.3	拉面贤者携带同伙前来与拉面匠人比拼，擂台赛已经开始了。	拉麵賢者帶著同夥前來與拉麵匠人比拼，擂台賽已經開始了。	ラーメン賢者が味方と一緒になって、ラーメン職人と力比べをはじめたよ。	라면 현자가 일행을 데리고 와서 라면 장인과 대결을 벌이고 있습니다. 시합이 이미 시작됐어요.	Someone called the Ramen Sage has arrived to challenge the Ramen Master. They've started a duel!						0	dlc30蓝图岛对话
+page1.4	拉面……擂台赛？	拉麵……擂台賽？	ラーメンなのに……力比べ？	라면… 시합?	Ramen... duel?						0	dlc30蓝图岛对话
+page1.5	怎么npc就自顾自地战斗起来了……作为拉面师傅，未免有些太燃了。	怎麼NPC就自顧自地戰鬥起來了……作為拉麵師傅，未免有些太燃了。	NPCが勝手に戦闘を始めたのか。ラーメン職人なのに血の気がすごいな。	NPC들이 왜 멋대로 싸움을 시작한 거지… 라면 사부로서 너무 과열된 것 같은데.	Why are these NPCs suddenly throwing down? That's way too intense for a couple of ramen chefs.						0	dlc30蓝图岛对话
+page1.6	不过为了蓝图岛经营的稳定，还是去看看吧。	不過為了藍圖島經營的穩定，還是去看看吧。	まあ、ビジョン島の安定のためにも、放っておくわけにはいかないか。	하지만 설계의 섬의 안정적인 운영을 위해서라도, 가서 확인해 봐야겠어.	I'd better take a look, for the sake of peace on the island.						0	dlc30蓝图岛对话

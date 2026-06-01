@@ -1,0 +1,85 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	游艇靠岸后，在无人机的指引下，我们逐一踏上了这座人工建造的大型浮岛。	遊艇靠岸後，在無人機的指引下，我們逐一踏上了這座人工建造的大型浮島。	船が着岸すると、私達はドローンに導かれて人工島に足を踏み入れた。	요트가 도착한 뒤 드론의 안내를 따라 우리는 하나씩 이 인공으로 만든 대형 물놀이 섬에 올랐다.	After the yacht docked, we stepped onto the large manmade island one after another, led by a drone.						0	
+2	然而回头望去，却发现空荡荡的甲板上还留着一个人。	然而回頭望去，卻發現空蕩蕩的甲板上還留著一個人。	ふと振り向くと、みんなが降りた後の船の上に、まだひとり残っている者がいた。	그런데 나는 뒤를 돌아보니 텅 빈 갑판 위에 아직 한 사람이 남아있었다.	However, when I looked back, I realized there was still one person left standing alone on the empty deck.						0	
+3	不知为何，略显乏力的凯茜娅正独自一人倚靠在栏杆上，一双翠青的瞳孔也失去了往日的神采。	不知為何，略顯乏力的凱茜婭正獨自一人倚靠在欄桿上，一雙翠青的瞳孔也失去了往日的神采。	それはカーシアだった。なぜか気だるそうに手すりに体を預け、瞳にもいつもの輝きがみられなかった。	왠지 모르게 기운이 없어 보이는 캐시아가 혼자서 난간에 기대고 있었고, 그녀의 에메랄드빛 눈동자는 예전처럼 빛나지 않았다.	For some reason, Katya was leaning against the railing, and she looked somewhat fatigued. Her emerald eyes had lost their usual sheen.						0	
+4	自打从新恒提罗回来后，她偶尔就会像这样，望着天空发呆……	自打從新恆提羅回來後，她偶爾就會像這樣，望著天空發呆……	ニューガントラから戻ってきてから、彼女がこんな風に空を眺める時間が増えた気がする……	뉴헨틸로에서 돌아온 이후로 그녀는 가끔 이렇게 하늘을 멍하니 바라보곤 했었다…	After we had returned from New Hentiro, she would occasionally stare up at the sky in a daze like this...						0	
+5	身体不舒服吗？	身體不舒服嗎？	体調が悪いのか？	몸이 불편해?	Are you not feeling well?						0	
+6	嗯？没有，只是想再吹吹风而已，老实说，我还没习惯像这样优哉游哉的度假，有一种脱离了现实的荒诞感……	嗯？沒有，只是想再吹吹風而已，老實說，我還沒習慣像這樣悠哉悠哉的度假，有一種脫離了現實的荒誕感……	ん？ううん。もっと風に当たっていたいだけよ。正直、こうやってゆっくりとバカンスを楽しむことにまだ慣れてないの。なんだか、現実離れした気持ちになるのよ……	응? 아니야, 그냥 바람 좀 더 쐬고 싶어서. 솔직히 말하면 이렇게 여유한 휴가를 보내는 게 아직 익숙하지 않아, 현실에서 벗어난 듯한 황당한 느낌이 들어…	Huh? No, I just wanted to enjoy the breeze a little longer. To be honest, I'm not really used to relaxed vacations like this. It all feels a little unreal...						0	
+7	另外从这个高度，可以隐隐约约看到酒店的顶端哦。	另外從這個高度，可以隱約看到酒店的頂端哦。	それに、この高さなら、ここからホテルの屋上も見えるし。	게다가 이 높이에서 호텔 꼭대기가 살짝 보이거든.	And from up here, I can just make out the top of the hotel.						0	
+8	嗯，你也注意到了吗？那个酒店的外观是仿照瓦尔基里会场的<snowbreak>白蜡高台</>建的。	嗯，你也注意到了嗎？那家旅館的外觀是仿照瓦爾基里會場的<snowbreak>白蠟高台</>蓋的。	お、君も気付いたのか。あのホテルはヴァルキリーゲーム会場の<snowbreak>トネリコ台</>をモチーフに作られたんだ。	응, 너도 눈치챘구나? 그 호텔의 외관은 발키리 경기장의 <snowbreak>프락시너스 플랫폼</>을 본따서 지은 거야.	Yeah, you noticed too? The outside of the hotel was modeled after the <snowbreak>Ashen Tower</> from the old Valkyrie Games venue.						0	
+9	当然，除此之外，这里还有挺多设施都是仿照过去会场风格建造的吧。	當然，除此之外，這裡還有挺多設施都是仿照過去會場風格建造的吧。	もちろん、昔の会場を真似て作られた施設は、あれ以外にもたくさんあるはずさ。	물론 그 외에도 여기 많은 시설들이 과거 회장 스타일을 본떠서 지은 것 같아.	Of course. A lot of the other facilities here are inspired by the old venue as well.						0	
+10	回过神来的凯茜娅冲着我笑了笑，随后一个闪身，瞬移到了我的身边。	回過神來的凱茜婭朝我笑了笑，隨後一個閃身，瞬移到了我的身邊。	いつの間に我に返ったカーシアは私に微笑むと、素早く私の横についた。	정신을 차린 캐시아는 나를 향해 웃더니 몸을 돌려 순식간에 내 곁으로 옮겨왔다.	After coming back to her senses, Katya smiled at me. She then teleported to my side with a flicker.						0	
+11	不过，我不太喜欢太高的地方。	不過，我不太喜歡太高的地方。	まぁ、高い場所はあまり好きじゃないんだけどね。	근데 나 높은 곳은 별로 안 좋아해.	But... I don't really like heights.						0	
+12	高高扎起的马尾左右摇摆，她故意迈着略显慵懒的步伐，伸着懒腰与我擦身而过。	高高紮起的馬尾左右搖擺，她故意邁著略顯慵懶的步伐，伸著懶腰與我擦身而過。	ポニーテールスタイルで束ねられたカーシアの髪が、彼女のゆったりとした歩みに合わせて揺れていた。そんな彼女は伸びをしながら私の横を通り過ぎようとしたけれど……	높게 묶은 그녀의 포니테일이 좌우로 흔들리며, 일부러 느긋한 걸음걸이로 기지개를 켜면서 내 곁을 지나갔다.	Her high ponytail swayed as she purposefully walked with a lazy stride, stretching out as she brushed past me.						0	
+13	但很明显，她心里似乎正压着什么……	但很明顯，她心裡似乎正壓著什麼……	明らかに、彼女は心の奥底に何かを押し隠しているみたいだった……	하지만 분명 그녀 속엔 무언가 고민이 있는 것 같았다…	But it was clear that something was weighing on her mind...						0	
+14	说来也奇怪，这里怎么全是无人机，一个活人都没有……	說來也奇怪，這裡怎麼全是無人機，一個活人都沒有……	それにしても、おかしいわね。ドローンだらけで、生きてる人間がひとりも見当たらないけど……	참 이상하네, 여기는 드론만 있고 사람은 하나도 없네…	It's strange — there are only drones here. I haven't seen a single living person...						0	
+15	以我之前的经验，再往前走走就能遇到会说人话的家伙了。	以我之前的經驗，再往前走走就能遇到會說人話的傢伙了。	今までの経験からすると、もう少し歩けば話が聞けるはずさ。	내 이전의 경험으로 조금 더 앞으로 가면 인간 말을 할 줄 아는 놈을 만나게 될 거야.	In my experience, if we keep moving forward, we're bound to run into someone who can talk to us.						0	
+16	之前的经验……	之前的經驗……	今までの経験、ね……	이전의 경험…	In your experience...?						0	
+17	别担心，跟着我走就是了。	別擔心，跟著我走就是了。	まぁ心配するな。私についてきてくれ。	걱정하지 마, 나만 따라오면 돼.	Don't worry. Just follow me.						0	
+18	不过我暂时也不打算继续追问下去，至少现在并不是适合追问的时候。	不過我暫時也不打算繼續追問下去，至少現在不是適合追問的時候。	今の私には彼女を問い詰めるつもりはなかった。少なくとも、今はその時ではないからだ。	하지만 지금 당장은 더 이상 캐묻지 않기로 했어, 적어도 지금은 그럴 때가 아니니까.	For the time being, I didn't want to press her about what was wrong. It wasn't the right time — at least not yet.						0	
+19	结果没走多远我们便在酒店正门发现了三个娇小的身影——	結果沒走多遠我們便在酒店正門發現了三個嬌小的身影——	少し歩くと、私達はホテルの入り口で三人の小柄な人影を見付けた。	결국 얼마 걷지 않아 호텔 정문에서 세 명의 작은 모습을 발견했다…	We didn't have to walk far before we ran into three petite figures standing at the main entrance to the hotel.						0	
+20	你们为什么会在这里？	你們為什麼會在這裡？	なんで君達がここに？	너희 왜 여기 있어?	What are you guys doing here?						0	
+21	既然你诚心诚意地发问了。	既然你誠心誠意地發問了。	なんだかんだと聞かれたら。	굳이 진지하게 묻는다면.	Well, since you asked so keenly...						0	
+22	那么就让胸襟广阔的小老师大发慈悲地告诉你。	那就讓胸襟廣闊的小老師大發慈悲地告訴你。	答えてあげるが、心の広いフリティア先生からの情け！	가슴 넓은 선생님이 대답해 주는 것이 인지상정.	Please allow the ever-intelligent Professor Fritia to kindly explain.						0	
+23	“胸襟广阔”这句是多余的。	「胸襟廣闊」這句是多餘的。	「心の広い」は余計だ。	 '가슴 넓은'이 말은 필요 없잖아.	...Ahem. "Ever-intelligent" is unnecessary.						0	
+24	……	……	……	…	...						0	
+25	知道啦，知道啦，快接上快接上……	知道啦，知道啦，快接上快接上…	わ、分かったから！続けて！	알았어, 알았어, 빨리 이어서 해…	Alright, alright. C'mon, keep going...						0	
+26	为了防止分析员卷入不必要的纷争。	為了防止分析員捲入不必要的紛爭。	分析員が争いに巻き込まれるのを防ぐため。	분석가가 불필요한 분쟁에 휘말리는 것을 막기 위해.	To protect the Adjutant from needless tussles...						0	
+27	为了守护分析员健硕的好身体。	為了守護分析員健碩的好身體。	分析員の健康を守るため。	분석가의 튼튼한 몸을 지키기 위해.	To unite all people under his strong muscles...						0	
+28	贯彻爱与真实的正义。	貫徹愛與真實的正義。	愛と真実の正義を貫く。	사랑과 진실의 정의를 관철하는	Standing up in the world for truth and love...						0	
+29	可爱又精致的场外角色。	可愛又精緻的場外角色。	ラブリーチャーミーな不参加者。	러블리하고 정교한 장외 캐릭터.	Iconic cuties reaching for the stars above...						0	
+30	安卡希雅。	安卡希雅。	アカシア。	아카시아!	Acacia.						0	
+31	胸襟广阔的芙提雅老师。	胸襟廣闊的芙提雅老師。	心の広いフリティア先生。	가슴이 넓은 프티야 선생!	The ever-intelligent Professor Fritia.						0	
+32	我们是海姆达尔最公正的裁定者。	我們是海姆達爾最公正的裁定者。	公平を賭けたヘイムダルの2人には。	헤임달의 가장 공정한 심판자에게는	Heimdall Force's righteous refs, blasting off at the speed of light...						0	
+33	湿漉漉，咸咸的海风在召唤着我们。	濕漉漉，鹹鹹的海風在召喚我們。	湿っぽくてしょっぱい海風が待ってるよ。	축축하고 짭짤한 바닷바람이 부르고 있다.	As the sea breeze blows, prepare to fight!						0	
+34	完全不是这样的！	完全不是這樣的！	ぜんっぜん違います！	전혀 그렇지 않습니다!	This is all wrong!						0	
+35	喵。	喵。	ニャン。	냐옹.	Nya, that's right.						0	
+b-1											0	
+36	果然~	果然~	そうなんす～	역시~	...I wouldn't expect anything less.						0	
+37	果然什么……	果然什麼……	そうなんすって……なんなんですか、これは？	역시 뭐가요…	What do you mean...						0	
+38	这里是捏他宝**（不能说的词）里**（不能说的词）队的台词。	這裡是捏他寶**（不能說的字）裡**（不能說的字）隊伍的台詞。	ポケ〇〇に出てくる〇〇団のセリフだよ。	여기는 포** (말할 수 없는 대사)에서 로**(말할 수 없는 대사)의 대사야.	This is Team R*****'s motto from P******.						0	
+39	抱歉啊，平时不关注这些的我和你们格格不入了。另外……	抱歉啊，平常不關注這些的我和你們格格不入了。另外……	すみませんね、そういうのに詳しくなくて！ちなみに……	미안하지만, 평소에 이런 것에 관심을 두지 않던 저는 당신들과 어울리지 못하겠네요. 그리고…	Sorry, I don't really know about that kind of stuff. I'm out of the loop. And...						0	
+40	话说卡罗琳你的泳装呢？	話說卡羅琳你的泳裝呢？	カロリン、水着は？	그런데 캐롤린, 너 수영복은 어디 갔어?	Hey, where's your swimsuit, Caroline?						0	
+41	你这问题是不是问得有些太过直白些了……人家好歹也是个女孩子……	你這問題是不是問得有些太過直白點了……人家好歹也是個女孩子……	あなた、もっと気の利いた聞き方はできないのですか？こっちは腐っても女子ですよ！	너무 직설적으로 묻는 거 아이에요? …그래도 여자아이인데…	Isn't that a little too straightforward...? I can be sensitive too, okay...						0	
+42	但我其实还挺期待的。	但我其實還蠻期待的。	だって、楽しみにしてたからね。	나는 사실 기대하고 있었어.	But I was actually really looking forward to seeing it.						0	
+43	是……是吗，但我明明没有什么看点吧……那么小，还那么平……	是……是嗎，但我明明沒有什麼看點吧……那麼小，還那麼平……	へ、へぇ……そうなんですか……でも私のスタイルなんて、特に見どころはないと思いますけど？小柄だし、平らだし……	그, 그런가요… 하지만 저는 볼 것도 없잖아요… 작고, 평평하고…	R—Really? But it's not like I have anything worth looking at... Everything is small... and flat...						0	
+44	没关系的，分析员什么类型都能接受~再说，女孩的魅力可不光光只看大小哦。	沒關係的，分析員什麼類型都能接受~再說，女孩子的魅力可不光只看大小哦。	大丈夫ですよ～分析員はどういうタイプでも平等に接しますから。それに、大きさだけがすべてじゃないと思いますよ～	괜찮아, 분석가는 어떤 타입이든 괜찮아~ 게다가, 여자의 매력은 크기만으로 결정되지 않으니까.	It's okay. The Adjutant isn't limited to any single type~ Besides, a girl's charm isn't all about size.						0	
+45	这话由恩雅姐说出来还真没说服力……真是的，话题都被你们带偏了。	這話由恩雅姐說出來還真沒說服力……真是的，話題都被你們帶偏了。	あなたから言われても、説得力をまったく感じませんが……もう、話が本題から大きく逸れちゃったじゃないですか。	이 말은 엔야 언니가 하니까 설득력이 없잖아요… 정말, 화제가 전부 다 엇나갔잖아요.	That isn't very convincing coming from you, Enya... Seriously, you guys have totally derailed the conversation.						0	
+46	你们这么早就到了吗？	你們這麼早就到了嗎？	私達の前に着いていたのか？	너희 이렇게 일찍 도착했어?	You guys got here early?						0	
+47	因为要提前准备一些东西嘛。	因為要提前準備一些東西嘛。	事前準備をしないといけないからね。	준비할 게 좀 있었거든.	We had stuff to prepare ahead of time!						0	
+48	同时，也是为了给你一个惊喜。你看，女孩子数量增加了哦。	同時，也是為了給你一個驚喜。你看，女孩子數量增加了哦。	それに、これはサプライズでもあるんだ。女の子の数が増えてうれしいでしょ。	그리고 너에게 깜짝 놀랄 선물을 주기 위해서지. 봐봐, 여자 아이들 수가 늘었어.	And we also wanted to surprise you. See? There are even more girls now.						0	
+49	咳咳，playername不是问我们为什么会在这里吗？	咳，playername不是問我們為什麼會在這裡嗎？	こほん。playernameは、どうして私達がここにいるんだって聞いてるんですよ。	흠흠, playername은(는) 우리가 왜 여기 있냐고 물어보지 않았어요?	Ahem... Didn't playername ask what we're doing here?						0	
+50	那是因为我们是这次比赛的裁判组。	那是因為我們是這次比賽的裁判組。	今回の試合、私達が審判を務めることになったんだ。	그건 우리가 이번 대회의 심판팀이기 때문이야.	It's because we're the judges for the competition.						0	
+51	秉持着绝对中立的角度，来为大家评分~	秉持絕對中立的角度，來為大家評分~	絶対中立の立場から、みんなに点数を付けていくよ～！	절대 중립의 입장에서 모든 사람을 평가하러 왔지~	We'll be judging everyone, absolutely objectively~						0	
+52	下面就由卡罗琳来为你们介绍一下这次比赛的流程与规则吧。	下面就由卡羅琳來為你們介紹一下這次比賽的流程與規則吧。	それじゃ、試合の流れとルールはカロリンに説明してもらおうかな。	다음은 캐롤린이 이번 대회의 진행 방식과 규칙을 소개할 거야.	Now, Caroline will explain the rules and how the competition will proceed.						0	
+53	语毕，安卡希雅便退向了后处。而卡罗琳则捧起了一个半米高的纸盒，走到了我们面前。	語畢，安卡希雅便退向了後處。而卡羅琳則捧起了一個半公尺高的紙盒，走到了我們面前。	そう言うと、アカシアは後ろに一歩引いた。入れ替わりにカロリンが50センチほどの高さがある紙箱を持って私達の前に出て来た。	말을 마치고, 아카시아는 뒤쪽으로 물러섰고, 캐롤린은 50cm 높이의 종이 상자를 들고 우리 앞에 다가왔다.	After saying this, Acacia moved to the back. Caroline then picked up a cardboard box about half a meter tall and walked toward us.						0	
+54	首先，根据抽签结果，两队将先后被分配到三关风格迥异的闯关挑战中去。	首先，根據抽籤結果，兩隊將先後被分配到三關風格迥異的闖關挑戰中去。	まずは、両チームはくじ引きの結果通りに雰囲気の違った3つのステージチャレンジに挑戦することになります。	먼저, 추첨 결과에 따라 두 팀은 각각 3개의 독특한 스타일의 도전 스테이지에 배정됩니다.	First, the two teams will each be assigned to three different stages based on the results of a random drawing.						0	
+55	每关除了分析员外，只限定一人参与，而我们也会根据每关的完成情况为你们打分。	每關除了分析員外，只限定一人參與，而我們也會根據每關的完成情況為你們評分。	どのステージも、分析員と、それ以外の隊員から選ばれたひとり、つまりふたりでの参加となります。私達も、ステージのクリア割合に応じて評価をつけます。	분석가를 제외하고 스테이지마다 한 명만 참여할 수 있고, 저희는 스테이지를 완성한 상황에 따라 점수를 매깁니다.	One contestant, alongside the Adjutant, will participate in each stage's challenge. We'll score them on how well they complete the challenge.						0	
+56	也就是说我一个人要参加六关闯关挑战？	也就是說我一個人要參加六關闖關挑戰？	つまり私は6ステージ全部に参加しなければいけないのか？	내가 6개의 도전 스테이지를 모두 참가해야 한다는 말인가?	Does that mean I'll have to do six stages?						0	
+57	没错，可能要辛苦一下分析员了。	沒錯，可能要辛苦一下分析員了。	はい、残念ですがそうなりますね。	맞습니다, 분석가님 좀 고생하셔야 할 것 같습니다.	Yep. You're going to have to hang in there, Adjutant.						0	
+58	不，其实也没有多辛苦。老实说如果只有区区六关，我还觉得有点少了。	不，其實也沒多辛苦。老實說如果只有區區六關，我還覺得有點少了。	いや、大丈夫だ。6ステージだけなんて、ちょっと物足りないぐらいさ。	아니, 사실 그다지 힘들지 않아. 솔직히 6개 정도면 조금 적다고 생각했거든.	It shouldn't be too difficult. To be honest, I think six stages might be too few.						0	
+59	咳嗯，不要高兴得太早，每关关底的大礼盒中还藏着一项趣味挑战。	咳嗯，不要高興得太早，每關關底的大禮盒中還藏著一項趣味挑戰。	こほん、まだ調子に乗らないでくださいね。すべてのステージの最後にもうひとつのユニークチャレンジが残っていますから。	크흠, 너무 일찍 기뻐하지 마시고요, 각 스테이지의 선물 상자 안에는 취미 도전이 숨어있어요.	Ahem, don't get too excited. There are also fun challenges in the huge giftbox at the end of each stage.						0	
+60	与之前的闯关挑战不同，趣味挑战需要全组合作完成，完成后也能获得相应的额外分。	與先前的闖關挑戰不同，趣味挑戰需要全組合作完成，完成後也能獲得相對應的額外分數。	ステージチャレンジと違って、ユニークチャレンジはチーム戦です。もちろん成功すると、相応のボーナスポイントがもらえます。	이전의 전 스테이지와 달리 취미 도전은 팀 전체의 협력이 필요하며, 완성 후에도 상응하는 추가 점수를 얻을 수 있습니다.	Unlike the stage challenges, these fun challenges require the entire group to work together. You can also earn extra points by completing them.						0	
+61	以上，就是本次比赛规则的简要说明。接下来，那就请两队各先派出一个代表，参与第一轮比试的抽签与挑战。	以上，就是本次比賽規則的簡要說明。接下來，那就請兩隊各先派出一個代表，參與第一輪比試的抽籤與挑戰。	以上が今回の試合についての説明ですね。では今から、各チームからステージ1のくじ引き担当兼挑戦者を選出してください。	이상은 이번 대회 규칙에 대한 간단한 설명이었습니다. 그럼 이제 두 팀의 대표 한 명을 보내 첫 번째 라운드 추첨과 도전에 참여해주세요.	That's a quick explanation of the rules. Next, each team needs to choose a contestant for the random drawing of the first round of the competition.						0	
+62	至于两队的先后顺序嘛……就依据分析员早上第一个见到的人来定。	至於兩隊的先後順序嘛…就依據分析員早上第一個見到的人來定。	両チームの順番は……そうだね、分析員が今朝最初に会った人に決めて貰おう。	두 팀의 순서는… 분석가가 아침에 처음 본 사람을 기준으로 정하자.	As for the order in which the two teams compete... it will be determined by whoever the Adjutant saw first this morning.						0	
+63	这么说……是我们优先？	這麼說……是我們優先？	ということは……私達が先に引くんですか？	그렇다면… 저희가 우선인가요?	In that case... we go first?						0	
+64	那当然咯~	那當然咯~	そうだな！	물론이지~	Naturally~						0	
+65	茉莉安，做得好喵。	茉莉安，做得好喵。	マリアン、よくやったニャン。	마리안, 잘했다냥.	Nya, good job, Marian.						0	
+66	那么……我先去打头阵吧。	那麼……我先去打頭陣吧。	それでは……私から参りましょう。	그러면… 제가 먼저 나서볼게요.	Then... I'll start things off.						0	
+67	茉莉安深吸了一口气，随后将手伸进了卡罗琳捧着的纸盒中。	茉莉安深吸了一口氣，隨後將手伸進了卡羅琳捧著的紙盒中。	マリアンは深く息を吸い込んで、カロリンが持っていた箱に手を入れた。	마리안은 심호흡을 한 뒤 캐롤린이 들고 있던 종이 상자에 손을 넣었다.	Marian took a deep breath before reaching into the cardboard box in Caroline's hands.						0	
+68	滚石派对？分析员，我抽到了这个。	滾石派對？分析員，我抽到了這個。	ローリングストーンパーティー……？というのを引いたんですが。	롤링스톤 파티? 분석가님, 전 이걸 뽑았어요.	Boulder Bash? Adjutant, take a look.						0	
+69	接过茉莉安递来的纸条思索片刻。然而，面对这个抽象的名字，我也没什么头绪。	接過茉莉安遞來的紙條思索片刻。然而，面對這個抽象的名字，我也沒什麼頭緒。	私はマリアンから渡されたくじを見て少し考え込んだが、どんな競技かまではさすがに予想はつかない。	마리안이 건네준 쪽지를 받아들고 잠시 생각했다. 하지만 이 추상적인 이름을 보고도 난 감이 잡히지 않았다.	After taking the slip of paper from Marian and thinking for a moment, I still had no idea what this would entail.						0	
+70	那么接下来就到我们了吧~我们这边该派谁先去呢。	那接下來就到我們了吧~我們這邊該派誰先去呢。	それじゃ、私達の番ですね～誰から行きましょうか？	그럼 다음은 우리 차례야~ 우리 쪽에서는 누가 먼저 갈까?	Then we're up next~ Who should we nominate first from our team?						0	
+71	哼，就让我来……\N还请允许由我……	哼，就讓我來……\N還請允許由我……	フッ、なら私が……\Nでは、ここは私が……	흥, 그냥 내가 할게…\n제가 가게 해줘요…	Hmph, put me in...\NPlease, allow me...						0	
+72	同时迈步向前的两人一时间愣在了原地。	同時邁步向前的兩人一時間愣在了原地。	同じタイミングで前へ踏み出したふたりは、やはり同じタイミングで固まった。	동시에 앞으로 나선 두 사람이 잠시 멈췄다.	After the two girls stepped forward simultaneously, they froze in place for a moment.						0	
+73	算了……就先让辰星去吧，我正好先观察一轮。	算了……就先讓辰星去吧，我剛好先觀察一輪。	まあ……辰星が行きたいなら行っていいわ。私はもうしばらく様子を見ておこうかな。	됐어… 수성이 먼저 가도록 해. 난 관찰 좀 할게.	It's fine... Chenxing can go first. That way, I can see how things play out for the first round.						0	
+74	片刻过后，凯茜娅收回了伸出的手，笑着退到了一边。	片刻過後，凱茜婭收回了伸出的手，笑著退到了一邊。	しばらくすると、カーシアは微笑みながら後ろに引いた。	잠시 후, 캐시아는 내민 손을 거두며 웃으면서 뒤로 물러섰다.	After a second, Katya withdrew her outstretched hand and stepped aside, smiling.						0	
+75	我们这边的结果也出来了。	我們這邊的結果也出來了。	こっちも結果が出ました。	저희 쪽에서도 결과가 나왔어요.	I've got our challenge right here.						0	
+76	护送大挑战……是要去护送什么吗？	護送大挑戰……是要去護送什麼嗎？	推進チャレンジ……なにかを推進するんですか？	에스코트 도전… 무엇을 에스코트하러 가는 거예요?	Exciting Escort... Do we have to take something somewhere?						0	
+77	都是些很模糊的名字呢……	都是些很模糊的名字呢……	曖昧な名前ばかりですね……	다 애매한 이름들이네…	All of these names seem pretty vague...						0	
+78	放心，一会儿会再做详细说明的，与其在这里长篇大论说一通，不如直接到现场看看？	放心，等一下會再做詳細說明的，與其在這裡長篇大論說一通，不如直接到現場看看？	あとでちゃんと説明しますから、安心してください。それに、ここで長々と説明するより、自分の目で見た方が早いですよ。	걱정 마요, 자세한 설명은 곧 할 테니까 여기서 장황하게 얘기하시느니 직접 현장에 나가 보시겠어요?	Don't worry, I'll give you a more detailed explanation later. Instead of going on about it here, why don't we head to the venue and have a look?						0	
+79	卡罗琳好似早就料到了大家的反应，她翻了翻手中拿着的电子计分板，随后便转身登上游艇，冲着我们做了个跟上的手势。	卡羅琳好像早就料到了大家的反應，她翻了翻手中拿著的電子計分板，隨後便轉身登上遊艇，朝著我們做了個跟上的手勢。	カロリンはみんなの反応を予想していたかのように平然と自分の電子集計板を片付けて、船に乗ってみんなに手招きをした。	캐롤린은 이미 다들의 반응을 예상한 듯 손에 든 전자 점수판을 확인하곤 요트에 올라 우리를 따라오라는 손짓을 했다.	It seemed like Caroline had been expecting these reactions. She scrolled through the electronic scoreboard she was holding, turned around, and walked onto the yacht, motioning for us to follow her.						0	
+80	分析员，那我们……	分析員，那我們……	分析員さん、私達も……	분석가님, 그럼 우리…	Adjutant, we—						0	
+81	我一把牵过身旁茉莉安的手，登上了游艇。	我一把牽過身旁茉莉安的手，登上了遊艇。	私はマリアンの手を取って、続いて船に乗った。	나는 옆에 있던 마리안의 손을 잡고 요트에 올랐다.	I took Marian's hand and boarded the yacht.						0	
+82	我知道，就让我们来为大家开个好头是吧？	我知道，就讓我們來為大家開個好頭是吧？	分かってるよ。私達でみんなに手本を見せてやろう。	알아, 우리가 모두에게 좋은 시작을 보여주면 되잖아?	I know. We should start things off on the right foot for everyone, yeah?						0	

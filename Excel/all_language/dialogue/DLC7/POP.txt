@@ -1,0 +1,72 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	最近，海姆达尔部队里的一部分队员很奇怪，在基地大厅休息的时间明显少了，经常在房间里闭门不出，十分诡异。	最近，海姆達爾部隊裡的一部分隊員很奇怪，在基地大廳休息的時間明顯少了，經常在房間裡閉門不出，十分詭異。	最近、ヘイムダル部隊の一部の隊員の様子がおかしい。社員寮のロビーにあまり姿を見せなくなり、ずっと部屋の中に引き籠もっている。	최근 헤임달의 일부 대원들이 알 수 없는 행동들을 하고 있다. 숙소에서 쉬는 시간이 현저하게 줄어들고 방에 머무는 일이 많아졌다.	Some of the Heimdall operatives had been acting strange lately. They were spending far less time relaxing in the Base hall and much more time in their rooms.						0	
+2	出于担心，我逐个找了她们谈话。	出於擔心，我逐一找了她們談話。	私は少し心配になり、彼女たちと一人ずつ話をすることにした。	난 노파심에 그녀들과 대화를 나눠본다.	This worried me, so I decided to investigate.						0	
+3	我最近在帮一个朋友的忙。	我最近在幫一個朋友的忙。	最近は友達の手助けをしている。	최근에 한 친구를 도와주고 있는 중이야.	I've been helping a friend recently.						0	
+4	她拜托我设计一些战斗地图，说我经常用沙盘，比较有经验。	她拜託我設計一些戰鬥地圖，說我經常用沙盤，比較有經驗。	私がよくサンドボックスを使っているからと、バトルマップのデザインを頼まれた。	전투 지도를 만들어 달라고 하더라고. 내가 종종 샌드박스로 시뮬레이션을 하는 것을 보고 경험이 많다나.	She asked me to design some battle maps for her since I use holograms pretty often and have a lot of combat experience.						0	
+5	我帮一个朋友做一些战斗方面的设计。	我幫一個朋友做一些戰鬥方面的設計。	友達の戦闘デザインを手伝っているんだ。	최근에 한 친구를 도와서 전투 방안을 세워주고 있어.	I'm helping a friend with some fighting designs.						0	
+6	她拜托我给各种角色设计不同的战斗方式，但是具体用途我也不清楚。	她拜託我為各種角色設計不同的戰鬥方式，但具體用途我也不清楚。	様々なキャラに合わせた戦闘方法のデザインを頼まれた。詳しい用途は自分も知らない。	내게 여러 캐릭터들의 전투 방안을 알려달라고 하더라고. 구체적인 용도는 나도 잘 모르겠어.	She asked me to design various combat styles for different characters, but I don't really know what she needs them for.						0	
+7	哈啊——好困哦……	哈啊——好睏哦……	はぁ——眠い……	하아암… 피곤하다…	*yawn—* I'm so sleepy...						0	
+8	我最近都在忙着帮一个朋友开发能兼容老设备的游戏引擎，还有自动生成模型和地图的AI。都差不多完成了，就是可能还有点BUG……	我最近都在忙著幫一個朋友開發能相容老設備的遊戲引擎，還有自動產生模型和地圖的AI。都差不多完成了，但可能還有一些BUG……	友達の手伝いで、古いデバイスでも使えるゲームエンジンの開発をしているんだ。モデルとマップを自動生成できるAIとかもね。ほとんど完成しているんだけど、ちょっとバグを吐くんだよね……	최근에 한 친구를 도와서 오래된 장치와 호환되는 게임 엔진을 개발하고 있는데, 모형하고 지도를 자동으로 생성하는 AI를 개발 중이야. 거의 다 끝났는데, 아마도 약간의 버그가 있을 것 같기도 하고…	I've been busy lately helping a friend develop a video game engine that's compatible with retro consoles. I'm also making an AI to automatically generate models and maps. It's almost done, but there might still be some bugs...						0	
+9	我吗？也没怎么忙吧？	我嗎？也沒怎麼忙吧？	私？言うほど忙しそう？	나? 난 별로 바쁘진 않아.	Me? I haven't been that busy.						0	
+10	我就是花了点时间帮别人写几首曲子罢了。	我就是花了點時間幫別人寫幾首曲子罷了。	ちょっと人に頼まれて曲を書いてるだけだよ。	그냥 몇몇 사람들을 위해 몇 곡을 작곡하는 데 시간을 투자한 것을 제외하면 별다른 일은 없어.	I've just been spending my time writing some music for someone.						0	
+11	而这一切的罪魁祸首，那个“朋友”，我终于找到了。	而這一切的罪魁禍首，那個「朋友」，我終於找到了。	ようやく分かった。何もかも、その「友達」のせいであると。	그리고 난 마침내 이 모든 것을 주작했던 범인, 대원들이 말하는 그 친구를 찾아냈다.	I finally discovered the culprit behind all of this — that "friend" everyone was referring to.						0	
+b-1											0	
+12	安卡希雅！！！	安卡希雅！！！	アカシア！！！	아카시아!!!	Acacia!!!						0	
+13	现在没空，你自己进来吧。	現在沒空，你自己進來吧。	今は忙しい。勝手に入っていいから。	지금은 시간이 없으니까 들어와서 말해.	I'm busy, just open the door and come in.						0	
+14	她也在忙？到底在搞什么……	她也在忙？到底在搞什麼……	彼女も忙しいのか？一体何をしている……	아카시아가 바쁠 때도 있나? 도대체 뭘 하고 있길래…	She was busy too? What was she up to...?						0	
+15	哟~	喲~	よっ。	여기야~	Hey.						0	
+16	安卡希雅随便跟我打了个招呼，手上的动作一点也没耽搁。	安卡希雅隨便跟我打了個招呼，手上的動作一點也沒耽擱。	アカシアが手を止めずに適当に挨拶をした。	아카시아는 한 치의 망설임도 없이 내게 인사를 건넸다.	Acacia greeted me casually, continuing what she was doing without skipping a beat.						0	
+17	此时的她，被她那些打游戏的设备团团围住，仿佛筑起了一道结界。	此時的她，被她那些打遊戲的裝備團團圍住，彷彿築起了一道結界。	今の彼女は、ゲームデバイスに囲まれていて、まるで結界でも張っているかのようだ。	그녀는 마치 장벽에 갇힌 것처럼 게임 장비들 사이에 둘러싸여 있었다.	She was surrounded by gaming equipment like she'd constructed a wall around herself.						0	
+18	有事？	有事？	何か用？	무슨 일이지?	What's up?						0	
+19	她一句轻描淡写的提问，差点淹没在噼里啪啦的游戏音效中。	她一句輕描淡寫的提問，差點淹沒在劈哩啪啦的遊戲音效中。	彼女が軽い声で発した質問は、ピコンピコンと鳴り響くゲームの効果音に覆い隠されそうになった。	그녀의 내던진 가벼운 말 한마디가 하마터면 게임 장치 효과음 속에 묻힐 뻔했다.	Her understated question was nearly drowned out by the loud noise of her game.						0	
+20	你的“没空”，就是指打游戏吗？	你的「沒空」，就是指打遊戲嗎？	「忙しい」って、ゲームのこと？	또 게임하느라 시간이 없다고 했던 거지?	So "busy" means you're playing games?						0	
+21	这次不一样，是我的游戏。	這次不一樣，是我的遊戲。	今回はワケが違うよ。これは私のゲーム。	이번에는 달라. 이건 내 게임이라고.	It's different this time. This is my game.						0	
+22	什么意思？	什麼意思？	どういう意味だ？	무슨 뜻이야?	What do you mean?						0	
+23	等下，这轮马上结束。	等下，這輪馬上結束。	ちょっと待って。もうすぐ終わる。	기다려봐. 곧 끝나니까.	Wait a sec. This round is almost over.						0	
+24	呼……跑出一堆bug。	呼……跑出一堆bug。	はぁ……バグを吐きまくってる。	후… 버그가 왜 이렇게 많은 건지. 처리하느라 애 좀 먹었네.	Phew... I found a bunch of bugs.						0	
+25	结束了？	結束了？	終わった？	이제 끝났어?	All done?						0	
+26	嗯，你找我什么事？	嗯，你找我什麼事？	うん、何の用？	응. 무슨 일이야?	Yep. So what's up? Need something?						0	
+27	你最近是不是前前后后拜托了好几个人给你帮忙？并且要求她们帮你保密？	你最近是不是前後拜託了好幾個人幫你幫忙？並且要求她們幫你保密？	最近、いろんな人に手伝いを頼んでない？しかも内緒にするように言ってたりして？	최근에 대원들한테 도움을 요청했던 게 너지? 비밀 유지까지 요구했던데…	Have you asked a bunch of people to do you favors lately? And did you tell them to keep it a secret?						0	
+28	看来保密工作失败了，你都找上门来了。海姆达尔部队的分析员果然很擅长“拷问”啊。	看來保密工作失敗了，你都找上門來了。海姆達爾部隊的分析員果然很擅長「拷問」啊。	分析員がここに来たってことは、内緒にできなかったみたいだね。ヘイムダル部隊の分析員さんは、「拷問」が上手だもんね。	네가 나한테 찾아온 걸 보면 비밀 유지가 안된 모양이네. 분석가가 대원들 사생활을 이렇게 파헤쳐도 되는 건가?	Since you're here, looks like they couldn't keep it confidential. You sure are good at extracting information, Adjutant.						0	
+29	你的行为占用了队员们大量休息时间，我当然要知情。而且我没拷问，是她们自愿说的。	你的行為佔據了隊員們大量休息時間，我當然要知情。而且我沒拷問，是她們自願說的。	君の手伝いで隊員たちの休憩時間が犠牲になっている。状況を把握しておく必要くらいあるでしょ。それに拷問なんてしていない。彼女たちが自分から教えてくれたんだよ。	다른 대원들이 휴식하고 있어야 할 시간에 네 일을 돕고 있으니까 그렇지. 이런 건 당연히 분석가가 알아야 하는 거고. 그리고 내가 자발적으로 물어본 것도 아니고 대원들이 내게 말해준 거야.	This is eating up a lot of the other operatives' free time, so I'd naturally want to know what's going on. And I didn't "extract" anything. They told me willingly.						0	
+30	那我换个说法，海姆达尔部队的分析员果然很擅长“蛊惑人心”啊。	那我換個說法，海姆達爾部隊的分析員果然很擅長「蠱惑人心」啊。	じゃあ言い方を変えよう。ヘイムダル部隊の分析員さんが得意としているのは、「人を惑わす」ことかな。	오케이~ 그럼 말을 좀 바꿔서 말해 줄게. 분석가가 대원들을 꽤 잘 꼬시는 모양이네.	Lemme put it another way then — you sure are good at playing on people's emotions.						0	
+31	别转移话题，快交代一下你最近都在干嘛。	別轉移話題，快交代一下你最近都在幹嘛。	そんなのはいいから。最近何をしているのかを教えて。	말 바꾸지 말고 요즘에 뭘 하고 다니는 건지 좀 말해봐.	Don't change the subject. Just tell me what you've been up to recently.						0	
+32	在开发我的游戏。	在開發我的遊戲。	ゲームの開発だよ。	게임을 개발 중이야.	Working on my game.						0	
+33	所以里芙、晴、芙提雅、凯茜娅都在帮你开发游戏？	所以里芙、晴、芙提雅、凱茜婭都在幫你開發遊戲？	リフも晴もフリティアもカーシアも、みんな君のゲーム開発を手伝っているってこと？	그래서 리브, 하루, 프티야, 캐시아를 모두 끌어들여서 게임을 개발하는 데 협조하도록 한 거야?	So Lyfe, Haru, Fritia, and Katya are all helping you make this game?						0	
+34	对啊，里芙是关卡策划，晴是战斗策划，芙提雅是程序员，凯茜娅是音乐音效总监，我是制作人。	對啊，里芙是關卡策劃，晴是戰鬥策劃，芙提雅是程式設計師，凱茜婭是音樂音效總監，我是製作人。	そうだよ。リフはステージデザイン担当で、晴はバトルデザイン。フリティアはプログラミングで、カーシアは音楽やSE担当。で、私がプロデューサー。	응, 리브는 스테이지 전략, 하루는 전투 방안 수립, 프티야는 프로세스, 그리고 캐시아는 오디오 사운드 총괄을 담당했어. 나는 프로듀서고.	Yep. Lyfe is the level planner, Haru is handling combat design, Fritia is the main programmer, Katya is the music and sound effects director, and I'm the producer.						0	
+35	你在我的部队里成立了一个游戏制作组？	你在我的部隊裡成立了一個遊戲製作團隊？	私の部隊の中でゲーム制作チームでも立ち上げたのか？	그 말은 네가 내 부대에 게임 제작팀을 꾸렸다는 말이네?	You put together a video game production team with my operatives?						0	
+36	理论上这也不算挖你的墙脚，毕竟我不付工资。	理論上這不算挖你的牆腳，畢竟我不付薪水。	厳密に言えばこれは引き抜きじゃないよ。給料も出してないし。	이론적으로 보면 그렇진 않아. 내가 월급을 주고 있는 건 아니니까.	Technically, it doesn't count as stealing your employees or anything. I'm not paying them, after all.						0	
+37	重点不是这个……	重點不是這個……	そういう話じゃない。	핵심은 그게 아니야…	That isn't the point...						0	
+38	对了，你来得正好，制作组还差个人。	對了，你來得剛好，製作組還差個人。	分析員もちょうどいいところに来たね。制作陣にまだ1人足りないんだ。	그러고 보니 분석가가 마침 잘 와줬네. 마침 한 명이 부족하던 참인데.	Oh, this is actually perfect. We still need one more person on the production team.						0	
+39	你连我也要挖？	你連我也要挖？	私までスカウトする気か？	나까지 데려다가 쓰겠다?	You want to rope me into this too?						0	
+40	安卡希雅没回答我，直接拉着我坐到了屏幕前，把手柄塞进了我手里。	安卡希雅沒回答我，直接拉著我坐到了螢幕前，把手把塞進了我手裡。	アカシアは答えず、私を引っ張ってスクリーンの前に座らせ、コントローラーを押し付けてきた。	아카시아는 내 말에 대답하지 않았다. 그녀는 나를 끌어당겨 화면 앞에 앉혀놓고 조이스틱을 내 손에 쥐여주었다.	Acacia didn't respond. Instead, she simply dragged me over in front of the screen and shoved a controller into my hands.						0	
+41	你现在就是测试组组长了。	你現在就是測試組組長了。	今から分析員はテストチームのリーダーだよ。	이제부터는 분석가가 테스트 팀의 리더야.	Congrats. You're the lead game tester.						0	
+42	请问我有组员吗？	請問我有組員嗎？	ほかにチームメンバーは？	그럼 팀원들은?	Is there anyone else on the testing team?						0	
+43	以后招。	以後招。	そのうち探す。	그건 지금부터 천천히 뽑으면 되지.	We can recruit other people later.						0	
+44	因为是第一次正式的封闭测试，还没有新手教程，我来教你玩吧。	因為是第一次正式的封閉測試，還沒有新手教程，所以我來教你玩吧。	これは初回の内部テストで、まだチュートリアルがないから、遊び方は私が教えるよ。	베타 테스트라서 튜토리얼이라던가 설명서는 따로 없어. 내가 직접 알려줄게.	This is the first official closed beta test, so I don't have a tutorial yet. I'll just teach you how to play.						0	
+45	据我所知，封闭测试应该不止需要一个人吧……	據我所知，封閉測試應該不只需要一個人吧……	私の知る限り、内部テストっていうのは、1人だけじゃ足りないよね？	베타 테스트라고 해도 한 명으로는 부족하지 않나…	I think you need more than one person for a closed beta...						0	
+46	所以你是测试组长啊，你测完没问题了才能找玩家测。	所以你是測試組長啊，你測完沒問題了才能找玩家測試。	分析員はテストチームのリーダーなんだよ？他のテスターを探す前に、まずリーダーに問題ないと言ってもらわないと。	그러니까 널 테스트 팀의 리더로 임명한 거야. 네가 테스트를 꼼꼼히 해줘야 플레이어들이 게임을 할 수 있지.	That's why you're the lead game tester. You need to finish the beta and make sure there aren't any major bugs before I have players try it.						0	
+47	不要这么理所当然就把压力转移给我啊。	不要這麼理所當然就把壓力轉移給我。	当たり前のように私に重責を押し付けないでよ。	그렇게 당연한 듯이 나한테 이래라저래라 하지 마!	Don't put all that pressure on me like it's nothing.						0	
+48	这里是基础的抓捕区域“杂鱼星”，还有一个高级的“高手星”，待会儿给你看。	這裡是基礎的抓捕區域「雜魚星」，還有一個高級的「高手星」，等一下給你看。	ここが基本となる捕獲エリア「雑魚の星」。上位に「手練れの星」もある。あとで見せるからね。	여기에 초급자를 위한 포획 구역으로 '일반 스타'도 있고, 상급자들을 위한 '슈퍼 스타'도 있어. 조금 있다가 보여줄게.	Here's the basic hunting area, Planet Noob. There's also Planet Expert, which is more difficult. I'll show you later.						0	
+49	抓捕？要抓捕什么？	抓捕？要抓捕什麼？	捕獲って？何を？	포획? 뭘 잡아야 하는 거야?	Hunt? What am I hunting?						0	
+50	比如这个。	比如這個。	例えばこれ。	예를 들자면 이런 거?	Guys like this.						0	
+51	这是？	這是？	これは？	이게 뭔데?	What?						0	
+52	玩法就是把这些家伙打到残血，然后抓捕，收编成自己的队员，就可以用他们去挑战更难的副本了。	玩法就是把這些傢伙打到殘血，然後抓捕，收編成自己的隊員，就可以用他們去挑戰更難的副本了。	こいつのHPを削ってから、捕まえるゲームなんだ。捕まえたやつをチームに編成して、もっと難しいステージに進む。	플레이 방식은 체력이 남아있을 때까지 녀석들을 물리치고 포획해서 자신의 팀원으로 편성해야 해. 그리고 나서 새롭게 편성된 팀원들하고 더 어려운 던전에 도전할 수 있는 형식이지.	So the idea is to beat these guys until they only have a little HP left, then add them to your own party. Then you can use them to challenge harder stages.						0	
+53	你等等你等等！你这玩法问题很大啊！	你等等你等等！你這玩法問題很大啊！	ちょっと待ってくれ！このルールはちょっと問題があるんじゃないか？	잠깐만! 이런 플레이 방식은 문제점이 많아.	Wait a second! There's a big problem with that concept!						0	
+54	怎么了吗？	怎麼了嗎？	どうかしたの？	뭐가 문제지?	What's wrong with it?						0	
+55	先不计较为什么场景是零区，还抓捕人类来当劳动力，你是真不把人道主义当回事啊。	先不計較為什麼場景是零區，還抓捕人類來當勞動力，你是真不把人道主義當一回事。	フィールドがなぜかエリアゼロなのは一旦おいとくにしても、人間を捕まえて働かせるのはアウトじゃないか！？人権意識はどうなっている！	제로 구역이 배경인 것도 그렇고, 사람들을 포획해서 노동력으로 착취하려고 한다니… 너한테는 인도주의라는 게 없는 거야?	Besides the fact that your planet environment looks like the Containment Zone, you're hunting humans and forcing them to work for you! That's barbaric.						0	
+56	资源太匮乏了，而且海姆达尔部队里并没有美术人才。芙提雅设计的引擎可以直接录入现实数据生成场景和模型。	資源太匱乏了，而且海姆達爾部隊裡並沒有美術人才。芙提雅設計的引擎可以直接輸入現實資料生成場景和模型。	リソースが足りないんだよ。ヘイムダル部隊にビジュアルを担当できる人材なんていないもん。フリティアが作ったエンジンなら現実にあるデータをそのままインプットしてフィールドとモデルを生成できるから。	리소스도 너무 없고 헤임달 부대에 그렇다고 디자인 인력이 있는 것도 아니잖아. 프티야가 설계한 엔진을 사용하면 현실 데이터를 반영해서 필드나 모형을 손쉽게 만들 수 있어서 그래.	I don't have many resources here, okay? No one on the Heimdall Force is good at art. The engine Fritia designed inputs real data to generate settings and models.						0	
+57	至少说法上要改一下吧……	至少說法上要改一下……	言い方だけでも変えようね……	그럼 말이라도 조금 순화해서 말하던가…	At the very least, you need to change the wording...						0	
+58	那把“抓捕”改成<orange>“劝降”</>？	那把「抓捕」改成<orange>「勸降」</>？	なら、「捕獲」を<orange>「説得」</>にするのはどう？	그럼 '포획'을 <orange>'투항'</>이라고 하는 건 어때？	Hmm, okay. I'll change "hunt" to <orange>"capture"</>. Happy?						0	
+59	有个问题，你是不是……还缺个文案策划？	有個問題，你是不是……還缺個文案策劃？	あの、もしかして……まだシナリオ担当がいないんじゃないの？	잠깐, 근데 문서 작성자랑 기획자는 따로 있어? 따로 없는 것 같아 보여서.	Well, it's an improvement... I have another question. Do you... still need a game writer?						0	
+60	你怎么知道？	你怎麼知道？	なんで分かるの？	그건 어떻게 알았지?	How'd you know?						0	
+61	各种功能的命名都随意又中二，也没有剧情，甚至新手引导也没有……很容易猜到吧。	各種功能的命名都隨意又中二，也沒有劇情，甚至新手引導也沒有……很容易猜到吧。	色々な機能の名前が適当で痛々しいし、ストーリーどころかチュートリアルもないんじゃ……誰でも分かるよ。	기능들의 명칭들이 언뜻 보기에 너무 막무가내로 지은 것 같아서. 스토리도 없고 튜토리얼도 없고… 이런 것만 봐도 쉽게 유추할 수 있는 거 아닌가?	She was arbitrarily naming game mechanics, there was no plot, and she didn't even have a tutorial yet... It was kind of obvious.						0	
+62	毕竟我的队员里也没有写作人才。	畢竟我的隊員裡也沒有寫作人才。	部隊に文章書ける人もいないしね。	하긴… 우리 팀에 글을 잘 쓸줄 아는 사람이 있는 것도 아니긴 하지.	I mean, I know my operatives are generally better at speaking than writing, so...						0	
+63	以后招。	以後招。	そのうち探す。	그럼 문서 작성자도 나중에 구하면 되지.	We can recruit other people later.						0	
+64	在画饼方面你挺像个制作人的。	在畫餅方面你挺像個製作人的。	大風呂敷を広げることに関しては立派なプロデューサーらしいな。	꿈도 참 야무진 프로듀서같네.	With all these empty promises, you're really starting to sound like a producer.						0	
+65	你放心，不会让你白打工，等将来游戏上线了我会好好答谢你。数据金肯定少不了，说不定还可以送你全服限定道具。	你放心，不會讓你白打工，等將來遊戲上線了我會好好報答你。數據金肯定少不了，說不定還可以送你全服限定道具。	安心していいよ。ただで働かせるつもりはないから。いつかゲームがリリースできたらちゃんとお礼をさせてもらう。デジギボスはもちろん、上手く行ったらサーバー限定アイテムもプレゼントするよ。	네 노력이 헛되게 하지는 않을 테니까 너무 걱정하지는 마. 앞으로 게임이 출시되고 나면 제대로 보답해 줄게. 디지털 코인은 물론 전체 서버에 한정 아이템을 줄 수 있을지 또 누가 알아?	Don't worry. I won't let your hard work go to waste. I'll make sure to show my appreciation after the game is launched. You'll definitely get some DigiCash, and there might even be some exclusive items in it for you.						0	
+66	你这话的可信度不高啊，明明之前还借我钱买游戏。	你這話的可信度不高啊，明明之前還跟我借錢買遊戲。	信用できないなあ。この前ゲームを買うために私から借金をしたでしょ。	네 말엔 신뢰성이 없어서 말이지… 예전에도 내 돈을 빌려서 게임을 사놓고 지금까지 깜깜무소식인걸.	I don't know if I can trust you on that. You still owe me the money you borrowed before to buy games.						0	
+67	好了，快开始吧。有什么问题随时问我就行。	好了，快開始吧。有什麼問題隨時問我就行。	いいから始めようか。分からないことがあったら聞いてね。	그럼 한 번 시작해 볼까? 궁금한 점이 있으면 그때 다시 물어봐도 좋아.	Alright, time to start. Just ask me if you have any questions.						0	
+68	你是这个游戏的第一个玩家，你的建议我都会慎重考虑，那么……	你是這個遊戲的第一個玩家，你的建議我都會慎重考慮，那麼……	分析員がこのゲームの初めてのプレイヤーなんだ。あなたの意見はちゃんと取り入れるつもりだよ。じゃあ……	안 그래도 넌 첫 번째 플레이어라 네 의견을 전적으로 중시할 예정이야.	You're the first person to play this game. I'll take all of your suggestions seriously. So...						0	
+69	游戏开始！	遊戲開始！	ゲームスタート！	게임 시작!	Start!						0	

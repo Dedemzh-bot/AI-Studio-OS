@@ -1,0 +1,8 @@
+﻿ID	//备注	文本描述	音频	spine
+ID	Des	I18n	Audio	Spine
+1	这些订单很有性价比嘛，要带走么？	ui.TxtShopwindow1	Play_Vo_npc002_shopwindow_giftbox_01	{"sp_npc002_stand", "sp_npc002_huanying", "sp_npc002_rentong"}
+2	都是实用的物资，应该会有用。	ui.TxtShopwindow2	Play_Vo_npc002_shopwindow_giftbox_02	{"sp_npc002_stand", "sp_npc002_huanying", "sp_npc002_rentong"}
+3	我想其他人也会推荐你买这个的。	ui.TxtShopwindow3	Play_Vo_npc002_shopwindow_giftbox_03	{"sp_npc002_stand", "sp_npc002_huanying", "sp_npc002_rentong"}
+4	采购时间，随时听候分析员的指令。	ui.TxtShopwindow4	Play_Vo_npc002_shopwindow_general_01	{"sp_npc002_stand", "sp_npc002_huanying", "sp_npc002_rentong"}
+5	咳嗯，这是在为未来的胜利做投资。	ui.TxtShopwindow5	Play_Vo_npc002_shopwindow_general_02	{"sp_npc002_stand", "sp_npc002_huanying", "sp_npc002_rentong"}
+6	我来陪分析员一起选吧。	ui.TxtShopwindow6	Play_Vo_npc002_shopwindow_general_03	{"sp_npc002_stand", "sp_npc002_huanying", "sp_npc002_rentong"}

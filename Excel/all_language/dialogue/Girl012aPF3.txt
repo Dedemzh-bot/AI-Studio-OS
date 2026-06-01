@@ -1,0 +1,75 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	咳咳……	咳咳……	ゴホゴホ……	큭…	*coughing*...						0	
+2	右腿被落石卡死了喵……	右腿被落石卡死了喵……	右足が落石に挟まれたニャ……	오른쪽 다리가 떨어진 돌에 끼었어…	My right leg is stuck under a rock...						0	
+3	爆炸引起了坍塌，原本的出入口已被完全封死。	爆炸造成坍塌，原本的出入口已被完全封死。	爆発による崩落が起きて、本来の出入り口は完全に閉ざされていた。	폭발이 건물을 무너뜨렸고 입구가 완전히 막혔다.	The explosion had triggered a collapse, completely sealing off the exit.						0	
+4	而在爆炸瞬间吸入了过量泰坦物质的猫汐尔也在恍惚间不幸被落石击中。	而在爆炸瞬間不慎吸入過量泰坦物質的貓汐爾，也在恍神間不幸被落石擊中。	そして爆発した瞬間、過剰なタイタン物質を吸入してしまったマーシルも、ぼんやりしている間に落石に巻き込まれた。	폭발이 발생한 순간 타이탄 물질을 과다 흡입한 캣 시에라도 정신을 차렸을 때에는 이미 돌에 깔린 후였다.	In addition to being hit by a falling rock in the confusion, Mauxir had also breathed in a large amount of Titagen when the explosion took place.						0	
+b-1											0	
+5	猫——尔——听得到吗——在哪里——	貓——爾——聽得到嗎——在哪裡——	マ——ル——聞こえる——どこ——	캣… 에라… 들려… 어디에…	Mau...xir... Can you hear me... Where are...						0	
+6	通讯终端……是playername……	通訊終端……是playername……	通信端末から……playernameだ……	통신 단말기… playername의 목소리야…	My terminal... It's playername...						0	
+7	我在……在……	我在……在……	私……は……	나는… 에…	Wh—Where...						0	
+8	在哪里呢……	在哪裡呢……	ここはどこだ……	어디 있는 거야…	Where am I...?						0	
+9	鲜血混杂着意识不断从躯体中流出。	鮮血混著意識不斷從身軀中流出。	意識が血とともに体から流れ去っていく。	피는 의식과 뒤섞여 몸에서 흘러나오고 있었다.	As blood flowed out of her wounds and left her body, so did her consciousness.						0	
+10	分……分析……………	分……分析……………	ぶ……分析…………	분… 분석……	Ad... Adjutant...						0	
+11	朦胧中，她仿佛又回到了八年前的事故现场。	朦朧之中，她彷彿又回到了八年前的事故現場。	朦朧とする中、彼女の意識は8年前の事故現場に戻ったようだ。	정신이 희미한 상태에서 문득 그녀는 8년 전에 있었던 사고 현장을 떠올렸다.	Her thoughts hazy, she seemingly returned to the scene of the accident eight years ago.						0	
+11_1	那是猫汐尔学生时期，在一场大型实验装置的实操课上发生的意外……	那是貓汐爾學生時期，一場大型實驗裝置的操作課上所發生的意外……	あれはまだ学生だったマーシルの身に、大型実験装置の実技授業に降りかかった不幸だった……	캣 시에라의 학생 시절, 실험 수업에서 대형 실험 장치에서 발생한 사고였다…	During a practicum while Mauxir was still a student, an accident occurred while operating a large-scale experimental device...						0	
+12	因为先天性无痛症的缘故，回过神来，自己大部分的身体已经被卷入了那台实验用压缩机中。	因為無痛症的緣故，當她回過神來時，自己的身體已大部分都被捲入了那台實驗用壓縮機中。	先天性無痛症のため、気がついたら自分の体がほとんど実験用の圧縮機に飲み込まれていた。	선천적으로 무통증을 가진 이유로 캣 시에라는 정신을 차려보니 신체 대부분이 실험용 롤러에 빨려 들어가 있었다.	Due to her inability to feel pain, by the time Mauxir realized what was happening, most of her body had already been sucked into the experimental compressor.						0	
+13	惊恐，茫然，以及对同类血肉本能的厌恶爬满了围观者的面部。	驚恐、茫然，以及對同類血肉本能的厭惡布滿了圍觀者的臉上。	恐怖、茫然、そして同類の血肉に対する本能的な嫌悪が野次馬の顔に溢れている。	두려움, 막막함, 그리고 동족의 피와 살점에 대한 본능적 혐오가 방관자들의 얼굴에 드러났다.	Fear, confusion, and an instinctive revulsion directed at the mess of flesh and blood before them overcame the faces of the onlookers.						0	
+14	失去人形的少女在他们眼中仿佛变成了非人的异物……	被捲入機器中的少女在他們眼中彷彿變成了非人的異物……	人の姿を失った少女は、彼らの目には人ではない異物のように映っていた……	인간의 형체를 잃은 소녀는 그들의 눈에 인간이 아닌 혐오스러운 존재가 된 듯했다.	This young girl, who had lost all semblance of her human form, seemed to become a foreign object in their eyes...						0	
+15	然而——	然而——	しかし——	하지만…	However...						0	
+16	作为当事人，除了浑身湿黏冰冷，猫汐尔却依旧什么都感觉不到。	身為當事人的貓汐爾除了渾身濕黏冰冷之外，依舊什麼都感覺不到。	彼女にとって、自分の全身が濡れて冷たいこと以外には何も感じられなかった。	정작 당사자인 캣 시에라는 온몸이 축축하고 끈적이는 액체에 젖어 있는 것 빼고는 아무것도 느낄 수 없었다.	Mauxir, the person affected, felt nothing other than a wet, sticky, and cold sensation on her body.						0	
+17	不光光是痛苦，就连自己即将死亡的这一事实她也感受不到。	不光光是痛苦，就連自己即將死亡的這一事實她也無法感受到。	苦痛だけでなく、死が迫っているという事実さえも。	고통뿐만 아니라 자신이 곧 죽음을 맞이하리라는 사실조차 그녀는 느낄 수 없었다.	Her inability to feel pain notwithstanding, she couldn't even tell that she was about to die.						0	
+18	“如果无法‘感同身受’，那么便无法建立共情。”	「如果無法"感同身受"，那麼便無法建立共情。」	「相手の気持ちを理解できなければ、共感を求めるのは無理だろう。」	만약 자신이 직접 겪은 것이 아니라면 공감을 이룰 수 없어.'	If you can't relate to others, it's impossible to have empathy for them.						0	
+19	“长久以来，都是这样的……”	「長久以來，都是這樣的……」	「それは変わらない現実である……」	오랜 시간 동안 그래왔어…'	It's been like this for a very long time...						0	
+20	那一瞬间，少女意识到了，自己与周围的生物并非“同类”的事实。	在那瞬間，少女意識到了自己與周圍的生物並非「同類」。	あの瞬間、少女は理解した。自分は周りの生物と「同類」ではないという事実を。	그 순간 소녀는 자신과 주위의 생명체가 '동족'이 아님을 깨달았다.	In that moment, the young girl realized she was different from the beings around her.						0	
+21	先天性无痛症剥夺得不光光有痛觉，还有她作为人类而存在的实感。	無痛症所剝奪的不僅僅是痛覺，還有她作為人類而存在的真實感。	先天性無痛症は痛覚だけでなく、人間として存在している実感を彼女から奪った。	선천적 무통증은 통증 말고도 인간으로서 존재한다는 실감까지 앗아갔다.	CIPA not only deprived her of the feeling of pain, but also the feeling of her existence as a human.						0	
+22	可是，即便是这样，身为异类的自己……	可是即便如此，身為異類的自己……	それでも、異質な存在である自分は……	그렇지만, 비록 동족이 아니더라도…	But even so, as an outcast...						0	
+23	在经历了漫长的孤独之后，果然还是想要——	在經歷了漫長的孤獨之後，果然還是想要——	長い孤独を味わってきて、やはり——	기나긴 고독을 견뎌왔음에도, 역시나…	After being lonely for so long, she still wanted to...						0	
+24	被理解。	被理解。	理解して欲しい。	이해받고 싶어.	Be understood.						0	
+25	被理解。	被理解。	理解して欲しい。	이해받고 싶어.	Be understood.						0	
+26	被理解。	被理解。	理解して欲しい。	이해받고 싶어.	Be understood.						0	
+27	在这绝对孤独的世界中，寻遍了无数“意义”之后……	在這絕對孤獨的世界中，尋遍了無數「意義」之後……	この絶対孤独の世界で、無数の「意味」を探した末……	절대적으로 고독한 세상에서 '의미'를 무수히 찾았음에도…	After searching endlessly for meaning in this absolute, lonely world...						0	
+28	被某个人……	被某個人……	誰かに……	누군가에게…	By someone, anyone, she yearned to be...						0	
+29	理解。	理解。	分かってもらいたい。	이해받고 싶어.	Understood.						0	
+32	腰部水平脊髓受损，记得术后为她处理妥当。	腰部脊髓受損，記得術後為她妥善處理。	腰と水平の部分の脊髄が損傷、手術後にちゃんと対応するように。	허리 수평 척수가 손상됐어. 수술이 끝나면 후처리를 신경 써줘.	There's damage to her lumbar spinal cord. Make sure to take proper care of it for her after surgery.						0	
+33	右侧胫腓骨处理得怎么样了？	右側脛腓骨處理如何了?	右側脛骨の処理はどうなってる？	우측 경골과 비골의 상태는 어때?	What about the right tibia and fibula?						0	
+34	再次“醒来”时，自己又回到了当年的手术台上。	再次「醒來」時，自己又回到了當年那個手術台上。	再び「目が覚める」と、自分はまた当時の手術台に戻った。	다시 깨어났을 때 당시의 수술대 위로 돌아왔다.	When she next awoke, Mauxir found herself back on the operating table from all those years ago.						0	
+35	无影灯下，拥有金色瞳孔的死神正立于床前。	無影燈下，金色瞳孔的死神正立於床前。	無影灯の下で、金色の瞳を持つ死神がベッドの前に立っている。	어두운 조명 아래 금색 동공을 가진 사신이 침대 앞에 서 있었다.	The god of death, with his golden eyes, was standing at the foot of the bed under the shadowless light.						0	
+36	和那时一样，你是……	和那時一樣，你是……	あの時と同じ。あなたは……	그때와 똑같아, 너는…	Just like before... You're...						0	
+37	阿努比斯，好久不见猫汐尔。	阿努比斯，貓汐爾好久不見。	アヌビスだよ。久しぶり、マーシル。	아누비스. 오랜만이네 캣 시에라.	Anubis. Long time no see, Mauxir.						0	
+38	你的生命已行至尽头，所见皆为过去的幻象。	你的生命已行至盡頭，所見皆為過去的幻象。	君の生命は既に終わった。見ているものは全て過去の幻。	자네의 생명은 끝을 맞이했네. 방금 본 것들은 과거의 환상이다.	Your life is coming to an end. Everything you see is an illusion.						0	
+39	幻象？	幻象？	幻？	환상?	An illusion?						0	
+40	没错，万物均依附于你的感官而存在。	沒錯，萬物均依附於你的感官而存在。	その通り、全てのものは君の感覚に依存する。	그렇다. 만물은 자네의 감각에 의해서 존재한다네.	Yes. The existence of everything depends on your senses.						0	
+41	而当生命消散，感官凋零之时，这些也都将如同幻象般破灭。	當生命消散、感官凋零之時，這些也都將如同幻象般破滅。	そして命の灯火が消えそうになると、記憶も幻のように破滅するだろう。	생명이 사그라지고 감각이 소멸할 때 이 모든 건 환상처럼 부서진다네.	When life fades away and those senses wither, everything will collapse, just like an illusion.						0	
+42	还记得你一直笃信的信条吗？	還記得你一直篤信的信條嗎?	自分の信条をまだ覚えているか？	자네 일생의 신조를 기억하는가?	Do you still remember the tenet you have lived by?						0	
+43	……	……	……	…	...						0	
+44	“感知便是生存的本质，万物之间并不存在连接，只是相互感知……”。	「感知即是生存的本質，萬物之間並不存在連結，只是互相感知……」	「感知は生存の本質であり、万物の間につながりは存在せず、感知し合うだけである……」	인지는 생존의 본질이며 만물에는 연결이 존재하지 않는다. 그저 서로 인지할 뿐…'.	Perception is the essence of survival. There are no connections between living beings. They simply perceive one another...						0	
+45	然而人类的躯体受限于五感，能感知到事物更是少之又少……更何况是本就残缺的你。	然而人類的軀體受限於五感，能感知到事物更是少之又少……更何況是本就殘缺的你。	しかし人間の体は五感に縛られ、感じられるものはごく僅か……ましてや不完全な君にとっては。	하지만 인간의 몸은 오감의 제한으로 인지할 수 있는 사물이 빙산의 일각이네… 태생부터 결여되어 있는 자네는 더더욱 그렇지.	But the human body is limited to the five senses. There are many things that humans don't even perceive... That is even more true for you and your incomplete senses.						0	
+46	来吧，到我这边来，抛弃这幅肉身，我将解放你的感知……	來吧，到我這邊來，拋棄這個肉身，我將解放你的感知……	さあ、こっちに来て。肉体を捨てて、知覚を解放させて……	오거라. 비루한 육신을 버리고 내게로 오거라. 내가 자네의 인지를 해방시켜 주리라…	Come with me. Abandon your flesh, and I will free those senses...						0	
+47	……	……	……	…	...						0	
+48	这可不像是以前的你。	這可不像是以前的你。	らしくないね。	과거의 자네와 다르구나.	You weren't like this before.						0	
+49	不曾经历痛苦，未曾萌生的自我意识，你本应和我一样，对生死不抱有任何执念……	不曾經歷過痛苦，未曾萌生的自我意識，你本應和我一樣，對生死不抱有任何執念……	苦痛を知らず、芽生えなかった自意識。君は私と同じ、生死になど執着していないはず……	고통을 겪은 바 없으며 자아 의식이 깨어나지도 않았으니, 나와 똑같이 생사에 어떠한 집념을 가지지 않아야 할 터…	Considering you've never experienced pain or possessed self-awareness, you should be like me, indifferent toward both life and death...						0	
+50	我……	我……	私は……	아…	I...						0	
+51	无需踟躇，无需彷徨，行走在自我选定的道路上便好。	無需躊躇，無需彷徨，行走在自我選定的道路上便好。	迷わず、躊躇わず、自分が選んだ道に進むといい。	망설일 필요도, 방황할 필요도 없네. 자신이 선택한 길을 걷게나.	There is no need for hesitation or indecision. Just move forward on the path determined by the self.						0	
+b-2											0	
+52	猫……	貓……	マ……	캣…	Mau...						0	
+53	颅骨中传来模糊的回响，一抹亮光也在此时刺破了这个被旧影遮蔽的世界。	腦中傳來模糊的聲響，一抹亮光也在此時刺破了這個被舊影遮蔽的世界。	頭蓋骨の中からかすかな反響が聞こえてきて、古い影に遮られた世界が差し込んだ一筋の光に貫かれた。	두개골에서 흐릿하게 메아리가 울린다. 눈부신 빛이 내리쬐며 과거의 그림자로 뒤덮인 세계를 깨부쉈다.	A fuzzy voice echoed throughout her head, and a bright light pierced her world obscured by old shadows.						0	
+b-3											0	
+54	猫汐尔。	貓汐爾。	マーシル。	캣 시에라.	Mauxir.						0	
+55	原来……这就是你动摇的原因吗？	原來……這就是讓你動搖的原因嗎?	これが……君が動揺した理由？	그것이… 자네가 동요한 이유인가?	So... this is why you are wavering?						0	
+auto_55	为了那种来路不明，身份可疑的半吊子男人，你居然……	為了那種來路不明，身份可疑的半吊子男人，你居然……	ただの人間のために、君は……	그 출신 성분도 모르는 반쪽자리 인간 때문에 어떻게…	For this suspicious, unidentifiable man, you actually...						0	
+56	不过，事到如今，看来只能等下次再……	不過，事到如今，看來只能等下次再……	……また会おう、マーシル。バイバイ。	허나 여기까지 온 이상 다음에…	Well, in that case, it seems we will have to wait until next time...						0	
+57	我这是……	我這是……	私は一体……	여기는…	What...?						0	
+b-4											0	
+58	没事了，没事了，抑制剂已经注射完毕。	沒事了、沒事了，已經注射了抑制劑。	もう大丈夫、抑制剤の注射は終わったよ。	괜찮아, 괜찮아. 억제제를 투여했어.	It's alright. It's okay. I already gave you an inhibitor injection.						0	
+59	分析员……是怎么找到我的？	分析員……是怎麼找到我的?	分析員……どうやって見つけてくれたの？	분석가… 날 어떻게 찾은 건가?	Adjutant... how did you find me?						0	
+b-5											0	
+60	当然是因为我拥有远超常人的第六感。	當然是因為我擁有異於常人的第六感。	こう見えても並外れた第六感の持ち主だから。	당연히 보통 사람들을 뛰어넘는 제6감이 있기 때문이지.	Because my sixth sense is much stronger than other people's, of course.						0	
+61	多亏你在我身边留了分身，它带我找到了这里。	多虧你留了分身在我身邊，它帶我找到了這裡。	分身を残してくれたおかげで、ここまで来られたんだよ。	네가 나에게 분신을 남겨준 덕분이야. 분신이 나를 이곳으로 이끌었어.	Thankfully, the clone you left with me led me here.						0	
+62	长官，医疗组的人到了，接下来就交给他们吧。	長官，醫療組的人到了，接下來就交給他們吧。	分析員さん、医療班が到着しました。後のことは彼らに……	분석가님, 의료팀이 도착했습니다. 지금부터는 그들에게 맡겨 주시죠.	Sir, the medical team has arrived. Let's let them handle it.						0	
+b-6											0	
+63	嗯，麻烦你们了。	嗯，麻煩你們了。	ああ、よろしく頼む。	그래, 부탁할게.	Sure. I really appreciate you guys.						0	
+64	哪里，这次任务还真多亏了猫汐尔，如果不是她，这伙恐怖分子还能搞出更大的动静。	哪里，這次任務還真多虧了貓汐爾，如果不是她，這幫恐怖分子還打算大鬧一番。	いいえ、マーシルさんがいなければ、テロリストによる損害がもっと拡大していたでしょう。	아닙니다. 이번 미션은 캣 시에라의 공이 컸습니다. 캣 시에라가 아니었다면 이 테러리스트는 더 위험한 짓거리를 저지를 수도 있었습니다.	It's nothing. Thank goodness Mauxir was on this mission. If it weren't for her, the insurgents would have done way more damage.						0	
+65	安全部的干员戳了戳我的腰，半开玩笑似的打趣道。	安全部的幹員戳了戳我的腰，半開玩笑似的說道。	安全部の人が私の腰を突いて冗談半分に言った。	안전부의 직원이 내 허리를 찌르더니 반농담으로 말했다.	The Security Department officer poked at my waist and spoke half-jokingly.						0	
+66	不过下次最好还是让她别再擅自行动了，毕竟不是每次都这么走运~	不過下次最好還是叫她別再擅自行動了，畢竟不是每次都這麼走運~	次はあまり運に頼らず、勝手な行動をさせないでくださいね。	그래도 다음부터 단독 행동은 하지 못하도록 해 주세요. 항상 이번처럼 운이 좋으리라는 보장이 없으니까요~	But next time, you should make sure she doesn't do anything without permission. After all, she can't be so lucky every time~						0	
+67	好了，任务完成，该回去了各位，别让在家等着我们平安归来的孩子担心。	好了，任務完成，該回去了各位。別讓在家等著我們平安歸來的孩子擔心。	任務は達成……そろそろ戻りましょう。他の隊員たちはきっと帰りを待っていますよ。	미션이 완료되었으니 다들 돌아갈 시간입니다. 집에서 안전하게 귀가하기를 바라는 아이가 걱정하겠어요.	Alright, mission complete. Time to head back. We don't want everyone who's waiting for our safe return to worry.						0	

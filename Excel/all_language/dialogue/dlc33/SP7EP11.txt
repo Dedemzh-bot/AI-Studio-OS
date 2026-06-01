@@ -1,0 +1,405 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这一次，不会再让你从我这儿溜走了！	這一次，不會再讓你從我這裡溜走了！	今回は、絶対に逃がさないからっ！	이번에는 도망가게 내버려두지 않을 거다!	You're not getting away this time!						0	3.3主线剧情
+2	唔呃！！！！	嗚呃！！！！	ぐっ……！	으악!!!!	Urrgh!!!						0	3.3主线剧情
+3	那怪物本想振翅起飞，但是那刚刚羽化出的翅膀，却被米娅一枪轰碎。	那怪物本來想振翅起飛，但是剛剛羽化出的翅膀，卻被米婭一槍轟碎。	起源種は飛んで逃げようとしたが、生えたばかりの翼はミアの銃弾に撃ち抜かれた。	괴물은 날개를 펼쳐 날아오르려 했지만, 날개가 막 생겨나자마자 미아의 사격에 산산조각 났다.	The creature tried to unfurl new wings and escape, but with a single shot, Mia blasted them apart.						0	3.3主线剧情
+4	霎时间，璀璨的羽翼碎片如同星屑般飘满整个宇宙，而后，下坠。成为了将其死死扣牢在这片大地上的暴雨。	霎時間，璀璨的羽翼碎片如同星屑般飄滿整個宇宙，而後，下墜。成為了將其死死扣牢在這片大地上的暴雨。	その瞬間、キラキラ輝く翼の欠片は星屑のように宇宙の中を舞い、起源種の頭上から降り注ぐ豪雨となった。	그 순간, 찬란한 날개 파편이 별 가루처럼 우주를 가득 채우더니 금세 추락했고, 이 땅에 단단히 고정시키는 폭우가 되었다.	In an instant, radiant fragments scattered like stardust across the cosmos, then rained down in a storm that drove it crashing to the ground.						0	3.3主线剧情
+5	分析员，晴姐姐，就是现在！	分析員，晴姐姐，就是現在！	分析員、晴姉、今だよっ！	분석가, 하루 언니, 바로 지금이야!	Adjutant, Miss Haru, now!						0	3.3主线剧情
+6	收到，最后一击就交给我……	收到，最後一擊交給我……	わかった。トドメは自分が……	응, 마지막 일격은 나한테 맡겨…	Got it. I'll give it the final blow...						0	3.3主线剧情
+b-1											0	3.3主线剧情
+7	站到晴的身边。	站到晴的身邊。	晴の横に立つ	하루의 곁으로 간다.	Step up beside Haru						0	3.3主线剧情
+8	分析员？！	分析員？！	分析員！？	분석가?!	Adjutant...!?						0	3.3主线剧情
+9	晴，一起上吧。	晴，一起上吧。	晴、一緒に行こう。	하루, 같이 가요.	Let's end this together, Haru.						0	3.3主线剧情
+10	……嗯！	……嗯！	……ああ！	… 응!	...Mm!						0	3.3主线剧情
+11	无数的光粒从我们的脚下涌现，流向少女的剑刃上，汇聚成了切开黑暗的光柱。	無數的光粒從我們的腳下湧現，流向少女的劍刃上，匯聚成了切開黑暗的光柱。	無数の光の粒が私たちの足元から湧き出し、\n晴の剣に集まり、闇を切り裂く光の柱となった。	무수한 빛의 입자가 우리의 발밑에서 솟아나고 소녀의 검날로 흘러 들어가더니, 어둠을 가르는 빛의 기둥이 되었다.	Countless motes of light surged from beneath us, streaming into her blade. They converged into a radiant beam that tore through the dark.						0	3.3主线剧情
+b-2											0	3.3主线剧情
+12	握紧她手中的剑柄	握緊她手中的劍把	彼女と一緒に剣を握る	그녀의 검자루를 함께 잡는다	Grasp her hand, wrapped tight around the hilt						0	3.3主线剧情
+13	仅以此剑为引——	僅以此劍為引——	この剣に導かれて——	오직 이 검으로…	With this sword as my guide...						0	3.3主线剧情
+14	万般思念，化作光芒，汇聚此刃——	萬般思念，化作光芒，匯聚此刃——	万感の思いよ！光と化し、剣に宿れ――	모든 그리움이 빛이 되어, 이 칼날에 모인다…	Let every longing blaze into light, and gather upon this edge...						0	3.3主线剧情
+15	霆光，永劫断绝！！！	霆光，永劫斷絕！！！	雷光、永劫断絶！！！	번개여, 영원히 단절하라!!!	Raikou, sever eternity!						0	3.3主线剧情
+16	咳……	咳……	ぐはっ……	크윽…	Ghhk—!						0	3.3主线剧情
+17	还没有结束……我……	還沒結束……我……	私は……まだ……終わって……いない……	아직 안 끝났어… 나는…	This isn't... over... I...						0	3.3主线剧情
+18	最后的言语还没有说完，自它胸口那狰狞的空洞开始，崩塌便已开始蔓延。	最後的話語還沒有說完，自它胸口那猙獰的空洞開始，崩塌便已開始蔓延。	最後の言葉を言い終わらないうちに、彼女の体が胸の禍々しくおぞましい裂け目から崩壊し始めた。	마지막 말을 못다 한 채, 녀석의 가슴에 난 섬뜩한 구멍으로부터 붕괴가 시작되었다.	Its last words faded into silence. The collapse began, radiating outward from the gaping void in its chest.						0	3.3主线剧情
+19	伴随着响彻虚空的巨响，那头诞生于恐惧中的巨兽轰然倒地。	伴隨著響徹虛空的巨響，那頭誕生於恐懼中的巨獸轟然倒地。	虚空に響き渡る轟音と共に、恐怖から生まれた巨大な獣は地面に倒れ込んだ。	허공을 울리는 거대한 굉음과 함께, 공포 속에서 태어난 그 거대한 괴물이 쓰러졌다.	With a thunderous crash that echoed through the void, the colossus born of fear finally fell.						0	3.3主线剧情
+20	它的身躯寸寸破溃，化作炙热的能量，在虚空中激荡起一股强劲的飓风。	它的身軀寸寸破潰，化為炙熱的能量，在虛空中激盪起一股強勁的颶風。	その身体は砕け散り、灼熱のエネルギーとなり、虚空で激しい旋風を巻き起こした。	녀석의 몸이 조각조각 부서지며 뜨거운 에너지가 되어, 허공에 강력한 회오리바람을 일으켰다.	Its form unraveled piece by piece, boiling away into searing light, and with it came a violent gale that howled through the hollow space.						0	3.3主线剧情
+21	整个空间似乎也被这股飓风洗涤，色彩，如同潮水般褪去。	整個空間似乎也被這股颶風洗滌，色彩，如同潮水般褪去。	空間全体がその嵐によって洗い流され、色彩も潮が引くように消えていった。	이 공간도 마치 이 회오리바람에 씻겨 나가듯, 색채가 물결처럼 빠져나갔다.	Even the void itself seemed scoured clean by the blast, its colors draining like the sea pulled back from a fading shore.						0	3.3主线剧情
+22	“心流内景，于此展开”	「心流內景，於此展開」	「心象風景、展開」	"내면의 흐름, 가동."	"Inner mind — manifest."						0	3.3主线剧情
+23	最后在意识即将消散的边际，她听见身旁的人这么念道。	最後在意識即將消散的邊際，她聽見身邊的人這麼唸著。	晴は意識が消える前に、横にいる彼がそう呟くのを聞いた。	그녀는 의식이 흐려질 즘, 옆 사람이 그렇게 말하는 것을 들었다.	As her consciousness wavered on the edge of oblivion, she heard those words whispered beside her.						0	3.3主线剧情
+24	紧接着，一阵温柔的辉光将她轻轻包裹……	緊接著，一陣溫柔的光輝將她輕輕包裹……	すると、優しい光がそっと彼女を包み込んだ……	그리고 부드러운 빛이 그녀를 살며시 감쌌다…	Then a gentle radiance wrapped around her...						0	3.3主线剧情
+25	这里是……啊，分析员？！	這裡是……啊，分析員？！	ここは……分析員は！？	여긴… 아, 분석가?!	Where am I...? Adjutant!?						0	3.3主线剧情
+26	再次醒来后，身边没有任何人。	再次醒來後，身邊沒有任何人。	もう一度目を覚ますと、そばには誰もいなかった。	다시 깨어났을 때, 주변에는 아무도 없었다.	When she opened her eyes again, no one stood beside her.						0	3.3主线剧情
+27	但这里似乎又处处遍布着playername的气息。	但這裡似乎又處處遍布著playername的氣息。	しかし、周囲にplayernameの気配を感じた。	하지만 이곳은 어디에나 playername의 기운이 가득한 것 같았다.	Yet traces of playername lingered in the air all around.						0	3.3主线剧情
+28	掌心的郁金香发卡忽然泛起微光。	掌心的鬱金香髮夾忽然泛起微光。	握っているチューリップの髪飾りがほのかに光り出す。	손안의 튤립 머리핀에서 갑자기 희미한 빛이 일어났다.	Suddenly, the tulip hairpin in her palm glowed with faint light.						0	3.3主线剧情
+29	“他一定在前方。”	「他一定在前方。」	「彼はきっと前にいる」。	"그는 분명 앞에 있을 거야."	"He must be ahead."						0	3.3主线剧情
+30	这个念头让剧烈跳动的心脏渐渐平息。	這個念頭讓劇烈跳動的心臟漸漸平息。	そう考えると、彼女の鼓動は徐々に静まった。	이 생각에 격렬하게 뛰던 심장이 점차 진정되었다.	The thought steadied her racing heart.						0	3.3主线剧情
+31	她拍了拍身上的星屑，向着通道的尽头迈出脚步。	她拍了拍身上的星屑，朝著通道的盡頭邁出腳步。	体に落ちている星屑を払い落とし、彼女は道の向こうへ向かって歩き出した。	그녀는 몸에 묻은 별 가루를 툭툭 털어내고, 통로의 끝을 향해 걸어갔다.	She brushed stardust from her clothes and set off toward the tunnel's end.						0	3.3主线剧情
+32	而奇怪的是，随着她的移动，整个世界也飞速变化起来。	而奇怪的是，隨著她的移動，整個世界也飛速變化起來。	しかし、不思議なことに、彼女が動くたびに、世界は目まぐるしい変化を遂げた。	그런데 이상하게도, 그녀가 걸어갈 때마다 이 세상도 같이 빠르게 변화했다.	Oddly, with each step, the world shifted more rapidly around her.						0	3.3主线剧情
+33	啪。	啪。	ぱっ。	팡.	*Pop—!*						0	3.3主线剧情
+34	第一朵粉色郁金香在脚边绽放。	第一朵粉紅鬱金香在腳邊綻放。	一輪のピンク色のチューリップが咲いた。	첫 번째 분홍빛 튤립이 발치에서 피어났다.	A pink tulip bloomed at her feet.						0	3.3主线剧情
+35	接着是第二朵、第三朵……	接著是第二朵、第三朵……	そして、さらに一輪、もう一輪と……	이어서 두 번째, 세 번째…	Then a second, a third...						0	3.3主线剧情
+36	等回过神来时，少女已置身于无垠的花海中。	等回過神來時，少女已置身於無垠的花海中。	気が付けば、晴は無限に広がる花の海のなかにいた。	정신을 차려보니, 소녀는 이미 끝없이 펼쳐진 꽃바다 한가운데 있었다.	Before she knew it, she stood in a boundless sea of blossoms.						0	3.3主线剧情
+37	啊……	啊……	あっ……	아…	Ah...						0	3.3主线剧情
+38	绵延的小路中段，露出了两道熟悉又陌生的剪影。	綿延的小路中段，露出了兩道熟悉又陌生的剪影。	連綿と広がる小道の途中で、どこか見覚えがあるような人の影がいた。	끝없이 이어진 작은 길 중간에, 낯설면서도 익숙한 두 실루엣이 보였다.	Halfway down the winding path, two figures emerged — familiar, yet hard to place.						0	3.3主线剧情
+39	那是曾在黑洞中为她指引方向的朦胧人影。	那是曾在黑洞中為她指引方向的朦朧人影。	それは、黒い渦の中で道案内をしてくれた人たちだ。	블랙홀 속에서 그녀에게 방향을 알려주었던 희미한 사람의 실루엣이었다.	They were the same hazy silhouettes who once guided her through the black hole.						0	3.3主线剧情
+40	只是这一次，雾气已然散开，少女看清了面前人影的模样。	只是這一次，霧氣已然散開，少女看清了面前人影的模樣。	しかし、今度はふたりを覆う霧が散り、晴はその面影を確認できた。	이번에는 안개가 걷혔기에, 소녀는 앞에 있는 사람의 모습을 또렷이 볼 수 있었다.	But this time, the mist had lifted, and their faces came clearly into view.						0	3.3主线剧情
+41	其中一人，是在那时未能来得及道别的父亲。而另一人则是……	其中一人，是在那時未能來得及道別的父親。而另一人則是……	ひとりは別れを告げることができなかった父。もうひとりは……	한 사람은, 그때 작별 인사도 못 한 채 떠나간 아버지였다. 그리고 다른 한 사람은…	One was her father, the man she never had the chance to say goodbye to. And beside him stood a woman...						0	3.3主线剧情
+42	纵使记忆中的面容早已褪色，可当那双如出一辙的琥珀色眼眸映入瞳孔时，一切过往如梦初醒。	縱使記憶中的面容早已褪色，但當那雙如出一轍的琥珀色眼眸映入瞳孔時，一切過往如夢初醒。	記憶はとっくに色褪せていたが、自分と瓜二つの琥珀色の瞳を目にした瞬間、晴はハッとなった。	얼굴은 이미 기억 속에서 바래졌지만, 그 똑 닮은 호박색 눈동자가 시선에 들어오자, 모든 과거가 꿈에서 깨어나듯 선명해졌다.	Her memories of her were faint, but those amber eyes, so much like her own, told her everything she needed to know.						0	3.3主线剧情
+43	在尚未学会行走的岁月中，正是面前的女人，用她那双温暖且轻柔的手臂，支撑起了自己全部的重量。	在尚未學會行走的歲月中，正是眼前的女人，用她那雙溫暖且輕柔的手臂，支撐起了自己全部的重量。	歩くことさえままならない頃、目の前の女性はその優しい腕で自分の体を支えてくれた。	걸음마도 떼지 못했던 시절, 눈앞의 이 여인이 따뜻하고 부드러운 팔로 내 모든 무게를 지탱해 주었다.	When she was just a toddler, still learning to walk, her entire world had been held in that woman's gentle arms.						0	3.3主线剧情
+44	于是，下意识地，一声轻柔的呼唤，就此脱口而出。	於是，下意識地，一聲輕柔的呼喚，就此脫口而出。	晴は本能のまま、小さな声でふたりを呼んだ。	그때, 저도 모르게 나지막한 한마디가 저절로 흘러나왔다.	Before she could even think, a soft whisper escaped her lips.						0	3.3主线剧情
+45	父亲……还有母亲？	父親……還有母親？	父さん……母さんも？	아버지… 그리고 어머니?	Father... Mother?						0	3.3主线剧情
+46	真是一次漂亮的斩击，你已经合格……不，已经满足了吧？晴。	真是一次漂亮的斬擊，你已經及格……不，已經滿足了吧？晴。	見事な一撃だったぞ。お前は合格……いや。もう満足したのだろう？晴。	훌륭한 참격이었다. 너는 이제 합격… 아니, 만족했겠지? 하루.	That was a splendid strike. You've proven yourself... or rather, you've already found what you were searching for, haven't you, Haru?						0	3.3主线剧情
+47	为什么……	為什麼……	なんで……	어째서…	But why....						0	3.3主线剧情
+48	她的声音渐渐哽咽了起来。	她的聲音漸漸哽咽了起來。	彼女は涙ぐみ、声を詰まらせた。	그녀는 점점 목이 메어왔다.	Her voice caught, thick with emotion.						0	3.3主线剧情
+49	是残影吧，现在的我们大概只是你记忆中的残影。	是殘影吧，現在的我們大概只是你記憶中的殘影。	この姿は、お前の記憶の一部なのかもな。	잔영이란다. 지금 우린 네 기억 속의 잔영일 뿐일 거야.	We're only phantoms. What you see now is no more than fragments of your memory.						0	3.3主线剧情
+50	然后经由某个人创造出来的奇迹，而具现化了罢了。	然後經由某個人創造出來的奇蹟，而具現化罷了。	誰かが作り出した奇跡のおかげで、こうやって具現化したんだ。	그리고 누군가가 창조한 기적으로 인해 구현됐을 뿐이지.	And by some miracle, someone's will gave us form.						0	3.3主线剧情
+51	但说到底……也不过是亡者所留下的执念。	但說到底……也不過是亡者所留下的執念。	だがこんなのは、亡者の執念でしかない。	하지만 결국은… 죽은 자가 남긴 집념에 불과해.	But in the end... we're only the lingering will of the dead.						0	3.3主线剧情
+52	也就是说，你们只是残留于我记忆深处的影像吗……	也就是說，你們只是殘留於我記憶深處的影像嗎……	自分の奥底の記憶ということか？	그러니까, 저의 깊은 기억 속에 남아있는 형상일 뿐인가요…	So you're not real... just echoes from the depths of my memory...?						0	3.3主线剧情
+53	嗯，所以晴也无须留恋，该继续往前走了哦。	嗯，所以晴也無須留戀，該繼續往前走了喔。	そうだ。だからここに留まらずに、進み続けたほうがいい。	그래, 그러니 하루도 미련을 버리고 앞으로 나아가야 해.	That's right. You don't need to hold on anymore, Haru. It's time to move on.						0	3.3主线剧情
+54	毕竟生者的路，不应该被亡者的执念所阻挠。	畢竟生者的路，不應該被亡者的執念所阻撓。	命あるものの道は、亡者の執念に邪魔されてはならないからな。	살아있는 자의 길은, 죽은 자의 집념에 막혀서는 안 되니까.	Don't let those who've gone ahead hold you back.						0	3.3主线剧情
+55	……	……	……	……	...						0	3.3主线剧情
+56	这种道理不用你们说我也知道！	這種道理不用你們說我也知道！	そんなこと、言われなくても分かっている！	그런 이치는 말씀하시지 않아도 알아요!	I know! You don't have to tell me that...						0	3.3主线剧情
+57	毕竟那个时候我就已经下定决心，要忘记过去，继续向前了。	畢竟那時候我就已經下定決心，要忘記過去，繼續往前了。	自分は過去を忘れて、前に進むと決めたんだから。	그때부터 이미 과거는 잊고 앞으로 나아가기로 결심했다고요.	I made up my mind long ago — to leave the past behind and keep moving forward.						0	3.3主线剧情
+58	晴……抱歉……	晴……抱歉……	……すまんな、晴。	하루… 미안하다…	Haru... we're sorry...						0	3.3主线剧情
+59	但至少……	但至少……	でも……	하지만 적어도…	But at least...						0	3.3主线剧情
+60	至少，还请再多停留一会儿。	至少，還請再多停留一下下。	もう少しだけ、ここにいてほしい。	적어도, 조금만 더 머물러주세요.	Please... stay just a little longer.						0	3.3主线剧情
+61	我还有很多话想对你们说……	我還有很多話想對你們說……	父さんと母さんに、話したいことがいっぱい……	전 아직 아버지, 어머니에게 하고 싶은 말이 많아요…	I have so much to tell y—						0	3.3主线剧情
+62	哎？！	欸？！	……！？	앗?!	Huh!?						0	3.3主线剧情
+63	话音未落，突然被揽入一个温暖的怀抱。	話音未落，突然被攬入一個溫暖的懷抱。	言葉が終わらないうちに、彼女は誰かに抱きしめられた。	그 순간, 말이 채 끝나기도 전에 누군가가 따뜻한 품으로 그녀를 끌어안았다.	Before she could finish, she was pulled into a warm embrace.						0	3.3主线剧情
+64	那是久违的……来自妈妈的拥抱，而爸爸也露出了自己从未见过的，释怀的微笑……	那是久違的……來自媽媽的擁抱，而爸爸也露出了自己從未見過的，釋懷的微笑……	――懐かしい。母の抱擁の温もりだった。父も、今まで見たことのない、安堵の笑顔を浮かべている……。	그건 오랜만에 느껴보는… 엄마의 포옹이었고, 아빠도 이제껏 본 적 없는 안도의 미소를 지었다…	It was a long-missed embrace from her mother. Her father only watched, a smile of gentle release on his face, one she had never seen before.						0	3.3主线剧情
+65	对不起，一直以来，都没能好好陪在你身边……	對不起，一直以來，都沒能好好陪在你身邊……	ごめんね。あなたのそばにいてあげられなくて……	미안하다. 계속 네 곁에서 함께 있어 주지 못해서…	We're sorry we couldn't be there for you...						0	3.3主线剧情
+66	一直以来也都没有更清楚地告诉你，你的到来，究竟对爸爸妈妈而言，又意味着什么。	一直以來也都沒有更清楚地告訴你，你的到來，究竟對爸爸媽媽而言，又意味著什麼。	私たちにとってあなたが、どんなに大事なのかを教えられなくて。	네가 우리 곁에 온 것이 아빠와 엄마에게 어떤 의미였는지, 그동안 제대로 말해주지 못했어.	And for never telling you clearly enough just how much you meant to us.						0	3.3主线剧情
+67	……	……	……	……	...						0	3.3主线剧情
+68	在军队里，“荣耀”是最崇高的词汇。它代表着责任、信念和无悔的选择……	在軍隊裡，「榮耀」是最崇高的詞彙。它代表著責任、信念和無悔的選擇……	軍において、「栄誉」はなによりも崇高で、責任、信念、悔いのない選択を意味する言葉……	군대에서 '영광'은 가장 숭고한 단어다. 책임, 신념, 그리고 후회 없는 선택을 의미하지…	In the army, "honor" is the highest ideal. It means duty, conviction — a life lived without regret.						0	3.3主线剧情
+69	可当我们亲手抱着襁褓中的你时，才意识到，这个词的分量，远不止如此。	但當我們親手抱著襁褓中的你時，才意識到，這個詞的分量，遠不止如此。	でも、赤子のあなたを抱きしめたとき、私たちはようやくその言葉の重さに気づいたよ。	하지만 강보에 싸인 너를 우리가 직접 안아 보니 깨달았다. 이 단어의 무게는 그뿐만이 아니더구나.	But when we held you in our arms... we realized that word carried far more weight than we ever imagined.						0	3.3主线剧情
+70	但我们，实在想不出还有什么词比它更能表达我们的感受了。	但我們，實在是想不出還有什麼詞比它更能表達我們的感受了。	でも、私たちの気持ちを現わすのに、それ以上の言葉が見つからなかった。	하지만 우리는, 이보다 더 우리의 감정을 잘 표현해 주는 단어를 찾질 못했단다.	We searched for a better word, but none existed. In the end, only honor could hold what we felt.						0	3.3主线剧情
+71	晴……	晴……	晴……	하루…	Haru...						0	3.3主线剧情
+72	对我们而言，你不仅仅是我们的荣耀，更是穿透了我们的生命……	對我們而言，你不僅是我們的榮耀，更是穿透了我們的生命……	あなたは私たちの栄誉、私たちの命を貫いて……	우리에게 너는 영광을 넘어서서, 우리의 생명에 깊이 스며들었고…	To us, you are more than our honor. You are the light of our lives...						0	3.3主线剧情
+73	将我们一家人永远维系在一起的——	將我們一家人永遠連繫在一起的——	私たち家族を繋ぐ――	우리 가족을 영원히 하나로 이어주는…	The light that binds us together, forever.						0	3.3主线剧情
+74	阳光。	陽光。	光を。	햇살이란다.	Like the sun.						0	3.3主线剧情
+75	晴，谢谢你……你是爸爸妈妈相遇后，最美好的意外。	晴，謝謝你……你是爸爸媽媽相遇後，最美好的意外。	ありがとう、晴。あなたは、私たちが出会ってからの最高の思い出。	하루, 고마워… 너는 우리가 만나서 생긴 가장 아름다운 우연이야.	Thank you, Haru... For being the most beautiful surprise we ever had.						0	3.3主线剧情
+76	谢谢你，让我们体会到了为人父母的幸福。	謝謝你，讓我們體會到了為人父母的幸福。	親としての幸せを教えてくれて。	부모로서 행복을 느끼게 해줘서 고마워.	Thank you for letting us know the joy of being parents.						0	3.3主线剧情
+77	谢谢你，继承了我们的荣耀与温柔。	謝謝你，繼承了我們的榮耀與溫柔。	私たちの栄光と優しさを受け継いでくれた。	우리의 영광과 온화함을 이어받아 줘서 고마워.	Thank you for carrying both our honor... and our tender heart.						0	3.3主线剧情
+78	谢谢你，一直这么坚强，即使独自一人也能照顾好自己。	謝謝你，一直這麼堅強，即使獨自一人也能照顧好自己。	そして強く、ひとりでもちゃんと生きていけるように成長してくれて。	계속 이렇게 강하게, 혼자서도 잘 지내줘서 고마워.	Thank you for staying strong, even when you had to face the world alone.						0	3.3主线剧情
+79	然后……最重要的是——	然後……最重要的是——	それと、一番大事なのは――	그리고… 가장 중요한 건…	And most of all...						0	3.3主线剧情
+80	谢谢你，来到我们身边，成为了我们最宝贵的女儿。	謝謝你，來到我們身邊，成為了我們最寶貴的女兒。	私たちの娘になってくれて、ありがとう。	우리 곁에 와 주고, 가장 소중한 딸이 되어줘서 고마워.	Thank you... for coming into our lives... for becoming our precious little girl.						0	3.3主线剧情
+81	爸爸妈妈……	爸爸媽媽……	父さん、母さん……	아버지… 어머니…	Mom... Dad...						0	3.3主线剧情
+82	我也一样，谢谢你们。	我也一樣，謝謝你們。	ありがとう。	저도 마찬가지예요, 감사합니다.	I feel the same way. Thank you.						0	3.3主线剧情
+83	谢谢你们，给予了我生命。	謝謝你們，給予了我生命。	自分を産んでくれて。	저에게 생명을 주셔서 감사해요.	Thank you for giving me life.						0	3.3主线剧情
+84	谢谢你们，教会我什么是荣耀，什么是温柔。	謝謝你們，教會我什麼是榮耀，什麼是溫柔。	栄誉と優しさを教えてくれて。	영광이 무엇이고, 온화함이 무엇인지 가르쳐 주셔서 감사해요.	Thank you for teaching me the meaning of honor... and what it means to have a tender heart.						0	3.3主线剧情
+85	谢谢你们，支撑起了这个家……	謝謝你們，支撐起了這個家……	家を支えてくれて……	우리 가족을 지탱해 주셔서 감사해요…	Thank you for giving me a family.						0	3.3主线剧情
+86	最后……谢谢你们，谢谢你们将我培养长大，让我成为了既坚强，又出色的大人！	最後……謝謝你們，謝謝你們將我培養長大，讓我成為了既堅強，又出色的大人！	育ててくれてありがとう。おかげで、強くて立派な大人になれたよ。	마지막으로… 저를 키워주시고, 강하고 훌륭한 어른으로 만들어주셔서 감사합니다!	And most of all, thank you for raising me to be someone strong... someone I can be proud to be.						0	3.3主线剧情
+87	所以，所以现在的我已经可以毫无遗憾地挺起胸膛。	所以，所以現在的我已經可以毫無遺憾地挺起胸膛。	だから、今の自分は胸を張って……	그래서, 그래서 이젠 후회 없이 자신 있게 어깨를 펼 수 있어요.	So now... I can stand tall, without a single regret.						0	3.3主线剧情
+88	说出那句一直压在我心底，在当时没能说出的道别了。	說出那句一直壓在我心底，在當時沒能說出的道別了。	あの時、言えずに心の奥に押し込めていた言葉を、ようやく言える。	그동안 마음속에 담아두었던, 그때는 하지 못했던 작별 인사를 할 수 있게 되었네요.	At last... I can finally say the words I couldn't before: Goodbye.						0	3.3主线剧情
+89	爸爸妈妈，谢谢你们！	爸爸媽媽，謝謝你們！	ありがとう。	아버지, 어머니, 감사합니다!	Thank you, Mom. Thank you, Dad.						0	3.3主线剧情
+90	你们最引以为豪的孩子，现在已经长大了！！！	你們最引以為傲的孩子，現在已經長大了！！！	誇りに思ってもらえる、立派な大人になれたよ。	여러분이 그토록 자랑스러워하시던 아이가, 이제 어른이 되었어요!!!	Your little girl... the one you were always so proud of... has grown up!!!						0	3.3主线剧情
+91	于是，最后的道别从“抱歉”沉淀成了“感谢”。	於是，最後的道別從「抱歉」沉澱成了「感謝」。	最後の別れの言葉は、「ごめんなさい」から「ありがとう」になり……	그렇게 마지막 작별 인사는 '사과'에서 '감사'가 되었다.	And so, her final farewell settled not on an apology, but on gratitude.						0	3.3主线剧情
+92	而遗憾也终将变为传承。	而遺憾也終將變為傳承。	未練も伝承へと変わった。	그리고 아쉬움마저 이어질 가치가 되었다.	And the regret she once carried was replaced by resolve. A will to live on, and to carry their light forward.						0	3.3主线剧情
+93	是啊……我们的晴已经长大了呢。	是啊……我們的晴已經長大了呢。	そうだな。晴はもう大人になったんだ。	그래… 우리 하루가 정말 많이 자랐구나.	Ah... our little Haru has truly grown.						0	3.3主线剧情
+94	所以继续前进吧——	所以繼續前進吧——	だから、進み続けるといい。	그러니 계속 전진하렴…	So go on, Haru...						0	3.3主线剧情
+95	向着属于你的荣耀，继续前进。\N向着属于你的幸福，继续前进。	朝著屬於你的榮耀，繼續前進。\N朝著屬於你的幸福，繼續前進。	お前の栄光と幸せを目指すんだ。	너만의 영광을 향해 계속 전진하렴.\N너만의 행복을 향해 계속 전진하렴.	Go chase the honor you deserve.\NGo find the happiness you deserve.						0	3.3主线剧情
+96	似乎是被人从身后推了一下肩膀，少女再次迈开了脚步。	像是被人從身後推了一下肩膀，少女再次邁開了腳步。	背中を押されたかのように、晴は再び歩き出した。	마치 누군가가 뒤에서 어깨를 밀어주듯, 소녀는 다시 발걸음을 내디뎠다.	It felt as if a warm hand rested on her shoulder, then gently pushed her forward. She began to walk again.						0	3.3主线剧情
+97	一股无形的力量驱使着她，穿过花丛。	一股無形的力量驅使著她，穿過花叢。	見えない力に駆られ、彼女は花の海のなかを歩き始めた。	보이지 않는 힘이 그녀를 이끌어 꽃밭을 지나게 했다.	The unseen force carried her onward, down the path of blooming flowers.						0	3.3主线剧情
+98	嗯，永别了……爸爸妈妈。	嗯，永別了……爸爸媽媽。	うん……さようなら。	음, 영원히 안녕… 아버지, 어머니.	...Farewell, Mom and Dad.						0	3.3主线剧情
+99	之后，又不知前行了多久。	之後，又不知前行了多久。	あれからどれだけ進んだのか。	그 후, 얼마나 더 걸었을까.	She didn't know how long she walked after that.						0	3.3主线剧情
+100	总算，少女抵达了这片花海的尽头。	總算，少女抵達了這片花海的盡頭。	晴はついに花の海を越えた。	마침내 소녀는 이 꽃밭의 끝에 이르렀다.	At last, she reached the edge of the ocean of flowers.						0	3.3主线剧情
+b-3											0	3.3主线剧情
+101	晴，我在这里哦。	晴，我在這裡喔。	晴、私はここだ	하루, 저 여기 있어요.	Haru, over here.						0	3.3主线剧情
+102	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	3.3主线剧情
+103	啊，你没有受伤的吧？！	啊，你沒有受傷吧？！	あっ……ケガはないか！？	아, 다치지는 않았어?!	Ah... are you hurt!?						0	3.3主线剧情
+104	哈哈哈，我没事哦。	哈哈哈，我沒事喔。	ははは、私は大丈夫だよ。	하하하, 전 괜찮아요.	Haha, I'm fine.						0	3.3主线剧情
+105	那就好……说起来，这里是……	那就好……話說，這裡是……	それはよかった……ところで、ここは……	다행이네… 그나저나 여긴…	Good... So, this place is...?						0	3.3主线剧情
+106	是由我的心流内景衍生而出的“应急通道”。	是由我的心流內景衍生而出的「緊急通道」。	私の心象風景から生まれた「非常口」だ。	제 내면의 흐름에서 파생된 '비상 통로'예요.	It's an "emergency passage" created by my inner mind.						0	3.3主线剧情
+107	不过为了方便维持稳定，就先把大家分配到不同的起点了，但放心，道路的尽头全都指向一个位置。	不過為了方便維持穩定，就先把大家分配到不同的起點了，但放心，道路的盡頭全都指向同一個位置。	ただ、安定性を保つために、みんなをそれぞれ違う場所に配置するしかなかった。道なりに進めば、同じ場所へ辿り着けるようにしているよ。	안정성 유지를 위해 일단 모두를 다른 출발점으로 배치했지만요. 길의 끝은 모두 한곳을 향하고 있으니 걱정 말아요.	To keep it stable, I split everyone into different starting points. But don't worry, every path leads to the same destination.						0	3.3主线剧情
+108	此刻，宇迦应该已经在那里为我们架设好返回现实世界的“出口”。	此刻，宇迦應該已經在那裡為我們架設好返回現實世界的「出口」。	ユガはそこに、私たちが帰還するための「出口」を設けたはずだ。	지금쯤 우카가 현실 세계로 돌아갈 '출구'를 만들어놨을 거예요.	By now, YUGA should already have the "exit" back to reality waiting for us there.						0	3.3主线剧情
+109	是吗……	是嗎……	そうか……	그렇구나…	I see...						0	3.3主线剧情
+110	对了晴。	對了晴。	そういえば、晴。	아 참, 하루.	By the way, Haru...						0	3.3主线剧情
+111	怎么了分析员？	怎麼了，分析員？	どうかしたのか？	왜 그래, 분석가?	What is it, Adjutant?						0	3.3主线剧情
+112	这一次，已经好好道别了吧。	這一次，已經好好道別了吧。	今回は、ちゃんと別れを告げられたか？	이번에는 작별 인사를 잘하고 왔죠?	This time, you really said your goodbye, didn't you?						0	3.3主线剧情
+113	……	……	……	……	...						0	3.3主线剧情
+114	嗯，已经好好道别了。	嗯，已經好好道別了。	ああ。きちんと別れを告げてきた。	응, 잘하고 왔어.	Mm. I did.						0	3.3主线剧情
+115	说起来这里的光好像有些刺眼呢。	話說這裡的光好像有點刺眼呢。	ここの光は眩しいな。	그나저나 여긴 빛이 좀 눈 부신 것 같네요.	Feels a little too bright in here, doesn't it?						0	3.3主线剧情
+116	确实……好刺眼。	確實……好刺眼。	ああ……そうだな。	그러게… 정말 눈 부셔.	Yes... it's really bright.						0	3.3主线剧情
+117	……	……	……	……	...						0	3.3主线剧情
+118	已经可以哭出来了哦。	已經可以哭出來了喔。	だから、泣いていいんだよ。	이제 울어도 돼요.	It's okay to cry now, Haru.						0	3.3主线剧情
+119	哎？	欸？	え？	응?	Huh?						0	3.3主线剧情
+120	这里没有其他人，所以，已经没有必要再忍耐了。	這裡沒有其他人，所以，已經沒有必要再忍耐了。	ここにはほかに誰もいない。我慢しなくていいぞ。	여긴 다른 사람도 없으니까, 더 이상 참지 않아도 돼요.	There's no one else here. You don't have to hold it in anymore.						0	3.3主线剧情
+121	呜……	嗚……	うぅ……	흑…	Uhh...						0	3.3主线剧情
+b-4											0	3.3主线剧情
+122	抱紧她。	抱緊她。	彼女を強く抱きしめる。	그녀를 꼭 안아준다.	Hold her tight						0	3.3主线剧情
+123	对不起，让您看到我这么难堪的样子……实在是……对不起……	對不起，讓您看到我這麼難堪的樣子……實在是……對不起……	すまん、見苦しいところを……見せてしまって……	미안, 이렇게 힘든 모습을 보여서… 정말… 미안해…	I'm sorry you had to see me like this... I'm... so sorry...						0	3.3主线剧情
+124	没有什么好道歉的，晴。	沒有什麼好道歉的，晴。	謝る必要はない、晴。	사과할 필요 없어요, 하루.	There's nothing to apologize for, Haru.						0	3.3主线剧情
+125	失去重要的亲人，会感到悲伤是再正常不过的事哦。	失去重要的親人，會感到悲傷是再正常不過的事喔。	大切な家族を失って悲しくなるのは当たり前だ。	소중한 가족을 잃고 슬퍼하는 건 너무나 당연한 일이잖아요.	Losing a loved one is bound to hurt. It's perfectly normal to feel sad.						0	3.3主线剧情
+126	可是……我是您的剑，我不应该……	可是……我是您的劍，我不應該……	でも、分析員の剣でありながら、こんなことを……	하지만… 너의 검으로서, 이러면 안 되는데…	But... I'm your blade. I shouldn't...						0	3.3主线剧情
+127	晴还是跟过去一样，无论什么时候，都这么喜欢较真……	晴還是跟過去一樣，無論什麼時候，都這麼喜歡較真……	君はいつになっても、真面目だな……	하루는 정말 여전하네요. 이런 상황에서도 그렇게 진지하다니…	You haven't changed, Haru. Always so hard on yourself.						0	3.3主线剧情
+128	即便再锋利的剑，也会有疲惫的时候，也是可以贪慕剑鞘的温暖的啊。	即便再鋒利的劍，也會有疲憊的時候，也是可以貪慕劍鞘的溫暖的啊。	剣がどんなに鋭くても、疲れるときはある。そんな時は、鞘の温もりに甘えてもいいんだ。	아무리 날카로운 검이라도 지칠 때가 있고, 검집의 따뜻함을 그리워할 수 있죠.	Even the sharpest blade grows weary and longs for the warm embrace of its scabbard.						0	3.3主线剧情
+129	你已经足够坚强了。	你已經夠堅強了。	君は十分に強い。	하루는 이미 충분히 강해요.	You're already very brave.						0	3.3主线剧情
+130	所以偶尔脆弱一下也无所谓。	所以偶爾脆弱一下也無所謂。	だから、たまに泣いてもいいんだよ。	그러니까 가끔은 약해져도 괜찮아요.	It's alright to bend a little once in a while.						0	3.3主线剧情
+131	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	3.3主线剧情
+132	至少在我怀里，就先卸下那些重担吧……	至少在我懷裡，就先卸下那些重擔吧……	少なくとも、私の腕のなかでは、重荷をおろして甘えていいんだ。	적어도 내 품에서는 그 무거운 부담을 내려놓아요…	Just for now, while you're in my arms, set down the weight of your duty.						0	3.3主线剧情
+133	因为，即便晴自己重复了无数遍，你是我的剑，但我自己现在却很清楚。	因為，就算晴自己重複了無數遍，你是我的劍，但我自己現在卻很清楚。	君が私の剣だと何遍繰り返し言っても、私にはわかる。	하루가 저의 검이라는 말은 수없이 반복해서 말했지만, 그래도 저는 분명히 알고 있어요.	You keep calling yourself my blade, but I know better.						0	3.3主线剧情
+134	现在在我怀里颤抖的，并不是什么冰冷的武器。	現在在我懷裡顫抖的，並不是什麼冰冷的武器。	私の腕のなかで震えている君は冷たい兵器なんかじゃない。	지금 제 품에서 떨고 있는 건 차가운 무기가 아니에요.	What's trembling in my arms isn't some cold, unfeeling weapon.						0	3.3主线剧情
+135	而是一个会痛苦，会悲伤，会为父母离去而哭泣的女孩子。	而是一個會痛苦，會悲傷，會為父母離去而哭泣的女孩。	悲しみ、苦しみを感じる、両親の死で泣くような少女だってね。	고통스러워하고, 슬퍼하고, 부모님과의 작별을 슬퍼하며 우는 한 소녀일 뿐이죠.	It's a girl who hurts, who grieves, who cries when she misses her parents.						0	3.3主线剧情
+136	呜……	嗚……	うう……	흑…	Uhh...						0	3.3主线剧情
+137	爸爸妈妈，也一定希望晴能坦然面对自己的心情吧？	爸爸媽媽，也一定希望晴能坦然面對自己的心情吧？	ご両親も君に、自分の気持ちに素直になってほしいんだろう。	부모님께서도 분명 하루가 자기 감정을 솔직하게 마주하길 바라시지 않을까요?	Wouldn't your parents want you to be true to your feelings?						0	3.3主线剧情
+138	呜呜呜…………呜呜呜哇啊……	嗚嗚嗚…………嗚嗚嗚哇啊……	うう…うあああ……	흐으윽… 흐아앙…	*sniff*... *sob*...						0	3.3主线剧情
+139	晴，为了至亲之人而流下的眼泪并不可耻……	晴，為了至親之人而流下的眼淚並不可恥……	愛する人のために涙を流すのは、全然恥ずかしいことじゃないから。	하루, 소중한 사람을 위해 흘리는 눈물은 부끄러운 게 아니에요…	Crying for the people you love doesn't make you weak. There's nothing to be ashamed of.						0	3.3主线剧情
+140	一直以来，你已经做得非常好了。	一直以來，你已經做得非常好了。	君はこれまでずっと頑張ってきた。	하루는 여태까지 정말 잘 해냈어요.	You've been strong for so long.						0	3.3主线剧情
+141	真的，真的非常好了。	真的，真的非常好了。	本当によく頑張ったよ。	정말, 정말 잘했어요.	I'm proud of you, Haru.						0	3.3主线剧情
+142	所以，尽情哭泣吧，并不是作为剑……	所以，盡情地哭吧，並不是作為劍……	だから、思う存分泣けばいい。剣としてではなく……	그러니까 마음껏 울어요. 검으로서가 아니라…	So let it out. Cry as loud as you want. Not as my sword...						0	3.3主线剧情
+143	而仅仅是作为一个女孩子，尽情哭泣吧。	而是僅身為一個女孩子，盡情哭泣吧。	ただの女の子として、ね。	그저 한 소녀로서, 마음껏 울어요.	But just as a girl... my girl.						0	3.3主线剧情
+144	呜呜…………呜……啊……	嗚嗚…………嗚……啊……	う……うう……	흑흑… 흑… 흐아…	*sob*... ahhh... *sob*...						0	3.3主线剧情
+145	许久过后，少女的眼泪流尽，但她的身体依旧微微颤抖。她攥紧我那被泪水沾湿的前衣襟，久久不愿松手，好似，在害怕着我会消失在眼前一般……于是，我俯身，给予了她回应。证明，我绝对不会离开的回应……	許久過後，少女的眼淚流尽，但她的身體依舊微微顫抖。她攥緊我那被淚水沾濕的前衣襟，久久不願鬆手，好似，在害怕著我會消失在眼前一般……於是，我俯身，給予了她回應。證明，我絕對不會離開的回應……	涙は尽きても彼女は震え、濡れた襟を握りしめて離さなかった。\n私が消えるのを恐れているかのように。\nだから私は身をかがめ、決して離れないと応えた。	한참이 지나서야 소녀는 마침내 마음을 추슬렀다.	After a long while, Haru's sobs quieted, yet her body still trembled faintly. She clutched the front of my tear-soaked coat, unwilling to let go, as if afraid I might vanish before her eyes. So I leaned down and held her close... showing her, without words, that I would never go.						0	3.3主线剧情
+146	在那之后……我们再次踏上归途。	在那之後……我們再次踏上歸途。	しばらくして、私たちは再び出発した。	그리고 우리는 다시 돌아가는 길에 올랐다.	Afterward... with warmth still between us, we began our journey back.						0	3.3主线剧情
+150	分析员阁下，出口，已经准备好了。	分析員閣下，出口，已經準備好了。	分析員さん、出口の準備が整いマシタ。	분석가님, 출구가 준비되었습니다.	Adjutant, the exit is ready.						0	3.3主线剧情
+151	嗯，让你们久等了。	嗯，讓你們久等了。	ああ。すまない、待たせてしまって。	응, 오래 기다렸지?	Mm. Sorry to keep you waiting.						0	3.3主线剧情
+152	既然全员都到齐了……那么就抓紧回去吧。	既然全員都到齊了……那就趕快回去吧。	全員揃ったな。じゃあ帰るか。	이제 모두 모였으니… 빨리 돌아가자.	Now that we're all here, let's head back.						0	3.3主线剧情
+153	嗯嗯，大家一起回去吧~	嗯嗯，大家一起回去吧~	うん、みんなで一緒に帰ろう~	응응, 다 같이 돌아가자~	Mhm~ Let's go home~!						0	3.3主线剧情
+154	……	……	……	……	...						0	3.3主线剧情
+155	我们转身迈向那个连通着现实世界的出口。	我們轉身邁向那個連通著現實世界的出口。	私たちは現実世界に繋がる出口に向かった。	우리는 현실 세계로 이어진 출구를 향해 돌아섰다.	We turned and started toward the exit that would return us to reality.						0	3.3主线剧情
+156	但唯独，只有一个女孩子没有跟上来。	但唯獨，只有一個女孩子沒有跟上來。	しかし、ひとりだけがついてこなかった。	하지만 한 소녀는 따라오지 않았다.	But one girl fell behind.						0	3.3主线剧情
+157	她悄悄地停下脚步，自以为不会有任何人察觉，但是——	她悄悄地停下腳步，自以為不會有任何人察覺，但是——	こっそり足を止めれば、誰にも気づかれないとでも思ったのだろう――	아무도 눈치채지 못할 거라 생각한듯, 그녀는 살며시 발걸음을 멈췄지만…	She slowed to a stop, hoping no one would notice, until...						0	3.3主线剧情
+158	果然……	果然……	やっぱり……	역시…	Ah, I knew it...						0	3.3主线剧情
+159	分析员？	分析員？	分析員？	분석가?	Adjutant?						0	3.3主线剧情
+160	米娅，你是要留在这里吗？	米婭，你是要留在這裡嗎？	ミア。ここに残るつもりなのか？	미아는 여기 남으려고?	Mia. You're staying, aren't you?						0	3.3主线剧情
+161	嘿嘿嘿，被分析员看出来了啊……	嘿嘿嘿，被分析員看出來了啊……	あはは……やっぱりバレたか……	헤헤헤, 분석가한테 들켜버렸네…	Heheh... busted. You're really sharp, Adjutant...						0	3.3主线剧情
+162	这种程度的伪装怎么可能骗得过人，天真也要有个限度啊。	這種程度的偽裝怎麼可能騙得過人，天真也要有個限度啊。	その程度でバレないわけないだろ。甘いよ。	그렇게 어설퍼서 누굴 속이려고 그래, 순진한 것도 정도가 있지.	You really thought that bluff would work on me? I expected better from you.						0	3.3主线剧情
+163	……	……	……	……	...						0	3.3主线剧情
+164	唔……对不起。	唔……對不起。	うーん……ごめんなさい。	으음… 미안해.	Ah... Sorry.						0	3.3主线剧情
+165	等等，“要留在这里”是指……	等等，「要留在這裡」是指……	待て。ここに残るって、まさか……	잠깐, '여기 남는다'라는 건…	Wait — "staying"...?						0	3.3主线剧情
+166	我明白了，米娅是要留在这里重启恒沙系统吗？	我明白了，米婭是要留在這裡重啟恆沙系統嗎？	ゴウシャシステムを再起動するために、ここに残るというのか？	그렇구나, 미아는 여기 남아서 항사 시스템을 리부팅하려는 거지?	I get it. Mia, you're staying behind to reboot the GANGES system, aren't you?						0	3.3主线剧情
+167	晴反应了过来，没错，虽然幕后黑手已经被铲除，但是其造成的破坏并未被修复。	晴反應了過來，沒錯，雖然幕後黑手已經被剷除，但是其造成的破壞並未被修復。	晴も状況を掴めたようだ。確かに黒幕を倒したが、破壊は修復されていない。	하루는 문득 깨달았다. 그렇다. 배후 세력은 제거됐지만, 그들이 파괴한 것들은 아직 복구되지 않았다.	Haru caught on. The mastermind was gone, but the damage remained.						0	3.3主线剧情
+168	一切又绕回了起点。	一切又繞回了原點。	すべては振り出しに戻っただけだ。	모든 것이 다시 원점으로 돌아왔다.	We were right back where we started.						0	3.3主线剧情
+169	嗯，我刚刚已经和宇迦确认过了。	嗯，我剛剛已經跟宇迦確認過了。	うん、さっきユガと確認したよ。	응, 방금 우카랑 확인했어.	Yeah. I just confirmed it with YUGA.						0	3.3主线剧情
+170	现在我是唯一的最高权限者，所以这个任务，必须交由我来完成。	現在我是唯一的最高權限者，所以這個任務，必須交由我來完成。	現在の最高権限者はあたしなの。だからこの任務は……あたしがやるしかないっしょ。	지금은 내가 유일한 최고 권한자라서, 이 임무는 내가 완수해야만 해.	I'm the only one with top clearance left, so... it has to be me.						0	3.3主线剧情
+171	难道没有其他方案吗？或者等我们出去后再从长计议。	難道沒有其他方案嗎？或者等我們出去後再從長計議。	ほかに方法はないのか？出てからまた対策を考えるとか。	다른 방법은 없을까? 아니면 같이 나가서 천천히 의논해 보는 건…	Isn't there another way? Couldn't we get out first and figure out a plan?						0	3.3主线剧情
+172	抱歉……必须在歧路宇宙完全崩塌前完成重启。	抱歉……必須在歧路宇宙完全崩塌前完成重啟。	残念デスが……歧路宇宙が完全に崩壊する前に、再起動を完了しなければなりマセン。	죄송하지만… 크로스버스가 완전히 붕괴되기 전에 리부팅을 완료해야 합니다.	Apologies... the reboot must be completed before the Divergent Cosmos collapses entirely.						0	3.3主线剧情
+173	宇迦摇了摇头。	宇迦搖了搖頭。	ユガは首を横に振った。	우카가 고개를 저었다.	YUGA shook her head.						0	3.3主线剧情
+174	否则，所有升格体数据都将永久丢失……	否則，所有升格體資料都將永久遺失……	さもなくば、すべての昇格体データが完全に失われマス……	그렇지 않으면, 모든 승격체 데이터가 영구적으로 손실됩니다…	Otherwise, all transcendent data will be permanently lost...						0	3.3主线剧情
+175	的确，她所说的是事实，也是我们不得不面对的问题。	的確，她所說的是事實，也是我們必須面對的問題。	確かに彼女の言う通りで、私たちもこの問題をちゃんと考えなければならない。	그렇다. 그녀의 말은 사실이고, 우리가 직면해야 할 문제이기도 했다.	She was right, and it was the one problem we couldn't bypass.						0	3.3主线剧情
+176	怎么这样……	怎麼這樣……	くっ……	어떻게 이럴 수가…	How can this be...?						0	3.3主线剧情
+177	哎呀，没关系的没关系的，比起冲进黑洞砍核心什么的，这任务安全多啦！	哎呀，沒關係的沒關係的，比起衝進黑洞砍核心什麼的，這任務安全多了啦！	もう、心配しすぎ～！黒い渦に突っ込んで、コアぶっ壊すとかに比べたら楽勝っしょ～！	에이, 괜찮아, 괜찮아. 블랙홀에 쳐들어가서 코어를 베는 것보다는 이 임무가 훨씬 안전하지!	Pfft, it's nothing! Compared to diving into a black hole and slicing up its core, this job's a walk in the park!						0	3.3主线剧情
+178	米娅拍了拍自己的胸脯，用“若无其事”的语气，安慰着我们。	米婭拍了拍自己的胸脯，用「若無其事」的語氣，安慰著我們。	ミアは自分の胸を軽く叩き、ケロッとした様子で私たちを安心させようとした。	미아는 자기 가슴팍을 팡팡 두드리며 '아무렇지도 않은' 말투로 우리를 안심시켰다.	Mia patted her chest, trying to lighten the mood with a breezy tone.						0	3.3主线剧情
+179	放心，我现在也算是个天启者了，不过就是十年而已。	放心，我現在也算是個天啟者了，不過就是十年而已。	こう見えてもあたし、立派な覚醒者なんだから、10年なんて余裕余裕！	걱정 마. 나도 이제 나름 계시자라고. 10년만 버티면 되잖아.	Relax~ I'm basically a Manifestation now. Ten years in there? Piece of cake~!						0	3.3主线剧情
+180	卡尔帕娜女士能做到的事，作为新恒提罗的继任者，我一定可以做到！	卡爾帕娜女士能做到的事，身為新恆提羅的繼任者，我一定可以做到！	カルパナさんにできるなら、ニューガントラの後継者であるあたしにだってできるっしょ！	칼파나 여사가 하실 수 있는 일이라면, 나도 뉴헨틸로의 계승자로서 반드시 해낼 수 있을 거야!	Lady Kalpana did it once, so as the successor of New Hentiro, I can do it too!						0	3.3主线剧情
+181	正好，利用这段时间我也可以好好沉淀一下。	剛好，利用這段時間我也可以好好沉澱一下。	自分磨きのいい機会だよ！	마침 잘됐지. 이참에 나도 차분하게 마음을 정리해 볼 수 있겠어.	Besides, I could use some quiet time to train and reflect.						0	3.3主线剧情
+182	没错！就像是《龙球》里主人公在神天殿里修行那样！	沒錯！就像是《龍球》裡主角在神天殿裡修行那樣！	これって、少年漫画の主人公みたいじゃん？	그래! <드래곤 마블> 속 주인공이 신들의 궁전에서 수행하는 것처럼 말이야!	Yup! Like those manga heroes who vanish for years to hone their strength.						0	3.3主线剧情
+183	哼哼，十年过后，等出来的时候，我的实力一定会超越所有天启者！	哼哼，十年過後，等出來的時候，我的實力一定會超越所有天啟者！	ふふ～ん♪10年後、ここから出たら、すべての覚醒者よりも強くなってるし！	흐흥, 10년이 지나고 내가 나올 때가 되면, 분명 모든 계시자를 뛰어넘을 만큼 성장해 있을 거야!	That's right! Ten years from now, when I walk out, I'll be the strongest Manifestation of all!						0	3.3主线剧情
+184	啊，另外休息的时候，我还可以继续完善演绎桌团，把这次冒险经历都做成新模组~	啊，另外休息的時候，我還可以繼續完善演繹桌團，把這次冒險經歷都做成新模組~	休憩中に、リアルRPGのシナリオに今回の冒険内容を組み入れよっかな！	아, 그리고 쉴 때는 테이블 추리단 시나리오를 보완해 나가도 되겠네. 이번 모험을 새로운 모듈로 만들어보는 거야~	Oh, and during breaks, I'll keep working on Tabletop Expedition. I'll even turn this whole adventure into a brand-new expansion~!						0	3.3主线剧情
+185	不过，可能还要增加些特殊的细节，总之需要补充的内容还真不少~	不過，可能還要增加點特殊的細節，總之需要補充的內容還真不少~	いろいろと細かいところを書き足さないといけないけどね～	물론 특별히 디테일한 부분도 좀 추가해야겠지. 이렇게 보니 보충할 내용이 정말 많다~	Of course, I'll have to cook up some special rules. That's gonna be a ton of work~						0	3.3主线剧情
+186	拯救了新恒提罗的英雄，还有……追逐着他，爱上了他的少女的故事。	拯救了新恆提羅的英雄，還有……追逐著他，愛上了他的少女的故事。	ニューガントラのヒーローを助けたり……彼を追いかけて、恋する乙女の話にするんだから。	뉴헨틸로를 구한 영웅과… 그를 따라가다 사랑에 빠진 소녀의 이야기.	The hero who saved New Hentiro... and the girl who chased after him, and fell in love with him.						0	3.3主线剧情
+187	光是设计这些，可能就要花上……	光是設計這些，可能就要花上……	これだけでも……	이것들을 구상하는 데만 해도…	Just writing that backstory alone could take...						0	3.3主线剧情
+188	好长好长，好长的时间呢……	好長好長，好長的時間呢……	ずっと、ずーっと……長い時間が……必要なんだから……	긴 시간… 정말 긴 시간이 필요하겠네…	A very, very long time...						0	3.3主线剧情
+189	她的声音越来越小，拳头也渐渐握紧了起来。	她的聲音越來越小，拳頭也漸漸握緊了起來。	彼女の声は次第に小さくなり、拳をゆっくりと握り締めた。	그녀는 목소리가 점점 작아졌고, 주먹에도 힘이 더 들어갔다.	Her voice grew softer, and her fists slowly tightened.						0	3.3主线剧情
+190	没错，还有好多好多故事要讲……	沒錯，還好多好多故事要講……	うん、いろんな物語も書けるし……	그래, 아직도 많은 이야기가 남아 있어…	That's right... I've got so many stories to tell...						0	3.3主线剧情
+191	这些故事…足够我坚持下去了……	這些故事……足夠我堅持下去了……	そういうことができるだけで……最後まで頑張れる……	이 이야기들로… 난 충분히 잘 버틸 수 있을 거야…	Those stories... they'll be enough to carry me through all those years...						0	3.3主线剧情
+192	嗯…我一定没问题的……	嗯……我一定沒問題的……	うん……大丈夫だよ。	응… 분명 잘 해낼 수 있을 거야…	Mm... I can do this...						0	3.3主线剧情
+193	一定……	一定……	たぶん……	반드시…	Absolutely...						0	3.3主线剧情
+b-5											0	3.3主线剧情
+194	将手轻轻放到米娅的头上。	將手輕輕放到米婭的頭上。	そっとミアの頭に手を置く	미아의 머리에 살짝 손을 얹는다.	Reach out and gently place a hand on her head						0	3.3主线剧情
+195	没错，米娅一定能做好的。	沒錯，米婭一定能做好的。	そうだ、ミアならきっとやれる。	그래, 미아는 분명 잘 해낼 거야.	That's right. You'll do great, Mia.						0	3.3主线剧情
+196	分析员？	分析員？	分析員？	분석가?	Adjutant?						0	3.3主线剧情
+197	虽然和你相处的时间并不长，但无论你如何看待自己……我都可以肯定——	雖然和你相處的時間並不長，但無論你如何看待自己……我都可以肯定——	君と過ごした時間は短かったが、君が自分のことをどう評価していようと、私は断言できる――	함께한 시간이 길진 않았지만, 네가 너 자신을 어떻게 생각하든… 나는 확신해.	We haven't known each other that long. But no matter how you see yourself... there's one thing I know for sure:						0	3.3主线剧情
+198	那个仰望着英雄的背影，拼命追赶的少女，如今早已成为新恒提罗当之无愧的英雄。	那個仰望著英雄的背影，拼命追趕的少女，如今早已成為新恆提羅當之無愧的英雄。	ヒーローの背中を必死に追いかけた君は、今ではニューガントラで誰もが認めるヒーローになった。	영웅의 뒷모습을 바라보며 필사적으로 따라가던 그 소녀는, 이제 뉴헨틸로의 당당한 영웅이 되었어.	The girl who once chased after her hero... is now the true hero of New Hentiro.						0	3.3主线剧情
+199	更是我心中……	更是我心中……	私から見ても……	게다가 내 마음속에서는…	And to me, she's already...						0	3.3主线剧情
+b-6											0	3.3主线剧情
+200	真正的天启者了。	真正的天啟者了。	十分に立派な覚醒者だ	진정한 계시자가 되었지.	A true Manifestation.						0	3.3主线剧情
+201	我……我也想加入海姆达尔，成为天启者！	我……我也想加入海姆達爾，成為天啟者！	あ……あたしもヘイムダルに入って、覚醒者になりたい！	나… 나도 헤임달에 가입해서 계시자가 되고 싶어!	I... I want to join Heimdall! I want to become a Manifestation!						0	3.3主线剧情
+202	穿越闪耀的帷幕，跨过幽暗的门扉——	穿越閃耀的帷幕，跨過幽暗的門扉——	輝く幕をくぐり抜け、暗闇の扉を開けて――	빛나는 장막을 뚫고, 어두운 문을 넘어…	Through the radiant veil, beyond the shadowed gate...						0	3.3主线剧情
+203	群星啊——	群星啊——	群星よ——	별들이여…	Stars above...						0	3.3主线剧情
+204	笼罩万物吧！	籠罩萬物吧！	万物を包み込め！	만물을 감싸라!	Descend and smite them all!						0	3.3主线剧情
+205	嗯，等我完成分析员交给我的任务后，我一定会回来跟上大家的！	嗯，等我完成分析員交給我的任務後，我一定會回來跟上大家的！	うんっ！任務を終えたら、必ず戻ってくるからねっ！	응, 분석가가 맡긴 임무만 마무리하고 나면, 곧바로 돌아와서 합류할게!	Got it! I'll catch up as soon as I'm done!						0	3.3主线剧情
+206	对了，那个……我刚刚说我不想成为天启者的那句，现在，我收回……	對了，那個……我剛剛說我不想成為天啟者的那句，現在，我收回……	さっきの……覚醒者になるのを諦めるって話、撤回してもいい？	아 참, 그… 아까 계시자가 되고 싶지 않다고 했던 말은, 이제 취소하고 싶은데…	Um... about what I said earlier — about not wanting to become a Manifestation... I take it back.						0	3.3主线剧情
+207	所以，我决定了——	所以，我決定了——	だから。あたし、決めたの――	그러니까, 결심했어…	So... I've made up my mind...						0	3.3主线剧情
+208	既不是刚体，也不是升格体……	既不是剛體，也不是升格體……	剛体でも、昇格者でもなく……	강체도, 승격체도 아닌…	I won't become a bionic, or a transcendent either...						0	3.3主线剧情
+209	我要成为，天启者。	我要成為，天啟者。	覚醒者になるって！	난, 계시자가 될 거야!	I'll become a Manifestation!						0	3.3主线剧情
+210	真是的……	真是的……	もう……	정말이지…	Aww...						0	3.3主线剧情
+211	说这种话……会让我舍不得走的啊……	說這種話……會讓我捨不得走的啊……	そんなこと言われたら……行けなくなっちゃうじゃん……	그런 말을 하면… 차마 발걸음이 떨어지질 않는다고…	Why would you say that...? That just makes saying goodbye even harder...						0	3.3主线剧情
+212	而且，明明这些话该是我对你说的才对。	而且，明明這些話應該是我對你說的才對。	それに、それはあたしのセリフだし。	게다가, 그런 말은 내가 너에게 해 줘야 하는데.	Besides, those are my lines, you know.						0	3.3主线剧情
+213	在你来到这座城市之前，我的世界就像褪了色的画卷。	在你來到這座城市之前，我的世界就像褪了色的畫卷。	分析員がこの街に来る前、あたしの世界は色褪せてた。	네가 이 도시에 오기 전까지, 내 세상은 마치 색이 바랜 그림 같았어.	Before you came to this city, my world was like a faded canvas.						0	3.3主线剧情
+214	是你的出现，才让我，第一次敢正视内心的憧憬，也是第一次，找到了人生的方向。	是你的出現，才讓我，第一次敢正視內心的憧憬，也是第一次，找到了人生的方向。	あなたが現れてくれたから、自分の夢にちゃんと向き合えた。そして、人生の目標が見えたの。	너의 등장으로, 내가 처음으로 마음속 동경을 직시할 수 있었고, 또 처음으로 인생의 방향을 찾을 수 있었지.	You were the one who made me stop running from my own heart... and helped me find my way forward for the first time.						0	3.3主线剧情
+215	所以我才会说……	所以我才會說……	だから……	그래서 내가 그랬잖아…	That's why I always say...						0	3.3主线剧情
+216	分析员才是米娅真正的英雄。	分析員才是米婭真正的英雄。	分析員が、あたしの真のヒーローなんだよ。	분석가야말로 미아의 진정한 영웅이라고.	You are my true hero, Adjutant.						0	3.3主线剧情
+217	少女仓促地擦干眼泪，挤出一抹倔强的笑容。	少女倉促地擦乾眼淚，擠出一抹倔強的笑容。	ミアは慌てて涙を拭い、意地っぱりな笑みを浮かべた。	소녀는 황급히 눈물을 닦고 강한 척 미소 지었다.	She brushed away her tears and forced a stubborn smile.						0	3.3主线剧情
+218	所以放心好了，既然是英雄的委托，那我一定会完美完成任务的。	所以放心好了，既然是英雄的委託，那我一定會完美完成任務的。	安心して、ヒーローから託された任務だもん。絶対、ちゃんとやり遂げてみせるから！	그러니까 걱정 마. 영웅님의 부탁이라면, 꼭 완벽하게 임무를 완수해 낼 테니까.	So don't worry. Since it's my hero's request... I'll nail it, absolutely.						0	3.3主线剧情
+219	只是……有个小小的请求，想要拜托分析员。	只是……有個小小的請求，想要拜託分析員。	ただ、ひとつだけ……お願いしてもいい？	하지만… 작은 부탁 하나 해도 될까, 분석가?	But... I do have one little favor to ask, Adjutant.						0	3.3主线剧情
+220	是什么？	是什麼？	聞こう。	뭔데?	What is it?						0	3.3主线剧情
+221	悬在睫毛尖的泪珠，随着她歪头的弧度，落在地上，碎成了一颗颗星星。	懸在睫毛尖的淚珠，隨著她歪頭的弧度，落在地上，碎成了一顆顆星星。	涙の粒が、彼女が首を傾げた動きに合わせて地面に落ち、星のように砕けた。	그녀가 고개를 기울이자, 속눈썹 끝에 맺힌 눈물방울이 바닥으로 뚝 떨어지며 작은 별들처럼 부서졌다.	A tear slipped from her lashes as she tilted her head, scattering on the floor like stardust.						0	3.3主线剧情
+222	就是等我醒来后，第一眼见到的人，必须得是分析员！	就是等我醒來後，第一眼看到的人，必須得是分析員！	あたしが目を覚ました瞬間、目の前にいて！	내가 깨어날 때 처음 보는 사람은, 꼭 분석가여야만 해!	When I wake up, the very first person I see has to be you!						0	3.3主线剧情
+223	仅仅是这个，就足够了吗？	僅僅是這個，就足夠了嗎？	それだけでいいのか？	그걸로 충분해?	Just that?						0	3.3主线剧情
+224	嘿嘿，之后当然还有更多更多的请求啦，不过，分析员先答应我这条好嘛~	嘿嘿，之後當然還有更多更多的請求啦，不過，分析員先答應我這一個好嘛~	えへへ……ほんとは他にもあるけど、今はこれだけにしとくね。	헤헤, 물론 나중에는 부탁이 더 많아지겠지만, 일단 이거 먼저 약속해 달라고~	Hehe~ There'll be plenty more after that, of course. But... can you grant me this one first?						0	3.3主线剧情
+225	没问题，一言为定。	沒問題，一言為定。	問題ない。約束だ。	물론이지, 약속할게.	No problem. It's a promise.						0	3.3主线剧情
+226	那么……就说好了哦~	那麼……就說好了喔~	じゃあ、そういうことで！	그럼… 약속한 거야~	Then... pinky swear~						0	3.3主线剧情
+227	一言为定。	一言為定。	約束だからね。	약속.	It's a promise.						0	3.3主线剧情
+228	少女勾起了我伸出的小指，用力地摇了摇又摇，仿佛要把这个约定刻进彼此的灵魂般。	少女勾起了我伸出的小指，用力地搖了搖，彷彿要把這個約定刻進彼此的靈魂般。	ミアは私が差し出した小指に自分の指を絡ませ、何度も、何度も強く揺らした。まるで、この約束を互いの魂に刻み込むかのように。	소녀는 내가 내민 새끼손가락을 걸었고, 마치 이 약속을 서로의 영혼에 새기려는 듯 세게 흔들었다.	She hooked her pinky around mine and shook it hard, again and again, as if trying to carve the promise into our very souls.						0	3.3主线剧情
+229	却在最用力的瞬间松开了手。	卻在最用力的瞬間鬆開了手。	だが、一番強く握ったその瞬間に、彼女は手を離した。	하지만 가장 세게 흔드는 순간, 손을 놓았다.	And at that most emotional moment, she let go.						0	3.3主线剧情
+230	她转身踏上星辉铺就的阶梯，那是通往歧路宇宙的道路。	她轉身踏上星輝鋪就的階梯，那是通往歧路宇宙的道路。	彼女は身を翻し、星の輝きで出来た、岐路宇宙へと続く階段に足を踏み入れた。	그녀는 뒤돌아서 별빛이 깔린 계단을 올랐다. 크로스버스로 향하는 길이었다.	She turned and stepped onto the starlit stair, the path into the Divergent Cosmos.						0	3.3主线剧情
+231	只是。	只是……	だが。	그러나.	However...						0	3.3主线剧情
+232	只是，在阶梯的中端，她停了下来。	只是，在階梯的中間，她停了下來。	階段の途中で、彼女は立ち止まった。	그러나 그녀는 계단 중간에서 멈춰 섰다.	Halfway up, she stopped.						0	3.3主线剧情
+233	……	……	……	……	...						0	3.3主线剧情
+234	似乎是突然想到了什么般，突然回首。	像是突然想到了什麼一樣，突然回首。	何かを急に思い出したかのように、ふと振り返った。	무언가가 갑자기 떠올랐다는 듯이, 갑자기 뒤돌아보았다.	As if struck by a sudden thought, she looked back.						0	3.3主线剧情
+235	朱红色的瞳孔中，那些不舍，爱恋与决意，正如划破夜空的赤红彗星般，熊熊燃烧着。	朱紅色的瞳孔中，那些不捨，愛戀與決意，正如劃破夜空的赤紅彗星般，熊熊燃燒著。	朱色の瞳の中には、未練と恋慕、それから決意の炎が、夜空を切り裂く赤き彗星のように燃え盛っていた。	주홍빛 눈동자 속에서, 그 미련과 사랑, 그리고 결심이 밤하늘을 가르는 진홍색 혜성처럼 맹렬히 타오르고 있었다.	In her crimson eyes, the pain of parting, admiration, and determination burned like a scarlet meteor shower across the night.						0	3.3主线剧情
+236	从高高的阶梯上跃下，她的身体宛若一片花瓣般，飘向了我。	從高高的階梯上躍下，她的身體宛若一片花瓣，飄向了我。	高い階段から飛び降り、彼女の体は花びらのようにひらりと私へと舞い降りた。	그녀는 높은 계단에서 폴짝 뛰어내리더니, 마치 꽃잎처럼 살랑거리며 나에게 다가왔다.	From that height, she leaped, drifting toward me like a falling petal.						0	3.3主线剧情
+237	我下意识地，张开了双臂——	我下意識地，張開了雙臂——	私は思わず両腕を広げた――	나는 무의식적으로 두 팔을 벌렸다.	Instinctively, I opened my arms...						0	3.3主线剧情
+238	呼……呼……	呼……呼……	あっ……はぁ……	후우… 후우…	Huff... huff...						0	3.3主线剧情
+239	面色潮红的少女，得意地看着我嘴唇上的印记。	面色潮紅的少女，得意地看著我嘴唇上的印記。	顔を赤らめた少女が、私の唇に残った跡を見て――	얼굴이 발개진 소녀는 내 입술에 내려앉은 자국을 의기양양하게 바라봤다.	Her cheeks flushed as she inspected the lip gloss print she'd left on my lips, clearly proud of her work.						0	3.3主线剧情
+240	得意地笑道。	得意地笑道。	得意げに笑いながら言い放った。	그리고 의기양양하게 웃으며 말했다.	And with a grin, she said:						0	3.3主线剧情
+241	在我醒来之前，不许擦掉这个唇印哦~	在我醒來之前，不准擦掉這個唇印哦~	あたしが目を覚ますまで、その跡、消しちゃダメだからね！	내가 깨어날 때까지, 이 입술 자국 지우면 안 돼~	Don't wipe it off until I wake up, alright~?						0	3.3主线剧情
+242	随后她便转身，迈着毅然决然的步伐，踏入了那片刺目的光芒中。	隨後她便轉身，邁著毅然決然的步伐，踏入了那片刺目的光芒中。	そして彼女は背を向け、毅然とした足取りで、あの眩い光の中へと足を踏み入れた。	그러고는 돌아서서 주저 없는 발걸음으로 그 눈 부신 빛 속으로 걸어갔다.	Then she turned, stepped forward with unwavering resolve, and walked into the blinding light.						0	3.3主线剧情
+243	但是，只有我知道，少女的心依旧在颤抖着。	但是，只有我知道，少女的心依舊在顫抖著。	でも、少女の心は今も震えていると、私はよく知っている。	하지만 오직 나만 알고 있을 것이다. 소녀의 마음은 여전히 떨리고 있다는 걸.	But only I could see... her heart was still trembling.						0	3.3主线剧情
+244	歧路宇宙重启程序即将启动，分析员，晴阁下，现在该登出了。	歧路宇宙重啟程序即將啟動，分析員，晴閣下，現在該登出了。	岐路宇宙再起動プログラムがまもなく起動しマス。分析員さん、晴さん、そろそろログアウトしてクダサイ。	크로스버스 리부팅 프로그램이 곧 가동됩니다. 분석가님, 하루 님, 이제 로그아웃하셔야 합니다.	Reboot sequence for the Divergent Cosmos is about to begin. Adjutant, Miss Haru — please prepare to log out.						0	3.3主线剧情
+245	再给我一些时间。	再給我一點時間。	もう少し時間をくれ。	조금만 더 시간을 줘.	Give me a little more time.						0	3.3主线剧情
+246	系统崩溃进度已过半，继续停留随时可能——	系統崩潰進度已過半，繼續停留隨時可能——	システム崩壊の進捗50%以上……このままだと……	시스템 붕괴 진도가 이미 절반을 넘어섰습니다. 더 머무르셨다간…	System collapse has exceeded 50%. Remaining here could—						0	3.3主线剧情
+247	无论如何，都给我再挤出点时间，我绝对不能让那个女孩，有任何闪失。	無論如何，都給我再擠出點時間，我絕對不能讓那個女孩，有任何閃失。	なんとか時間を作ってほしいんだ。ミアを危険な目に合わせたくない。	어떻게든 시간을 더 내줘. 절대로 그 아이에게 무슨 일이 생기게 할 수는 없어.	Even so, buy me a little more time. I can't let anything happen to her.						0	3.3主线剧情
+248	……	……	……	……	...						0	3.3主线剧情
+249	宇迦很快便看穿了我的想法。	宇迦很快便看穿了我的想法。	ユガはすぐに私の考えを見透かした。	우카는 바로 내 생각을 꿰뚫어 보았다.	YUGA read my intentions instantly.						0	3.3主线剧情
+250	我打算陪着米娅，一起进入那个空白的世界。	我打算陪著米婭，一起進入那個空白的世界。	ミアと一緒に、あの空白の世界に入るつもりだと。	나는 미아와 함께 그 공백의 세계로 들어가려 했다.	I meant to follow Mia into that world of void.						0	3.3主线剧情
+251	明白了，但最多只能争取五分钟。	明白了，但最多只能爭取五分鐘。	わかりマシタ。5分だけなんとかしマス。	알겠습니다. 하지만 최대 5분밖에 드릴 수 없습니다.	Understood. But I can give you only five minutes at most.						0	3.3主线剧情
+252	谢谢你，宇迦五分钟足够了，足够我进去找到她了。	謝謝你，宇迦，五分鐘就夠了，足夠我進去找到她了。	ありがとう、ユガ。5分あれば、彼女を見つけるのに十分だ。	고마워, 우카. 5분이면 미아를 찾기에 충분할 거야.	Thank you. Five minutes is enough to get in and find her.						0	3.3主线剧情
+253	可是我必须要提醒您，即便是您选择留在那里，只要权限者还是米娅，那么你们所度过的时间依旧还是十年。	但我必須要提醒您，即便是您選擇留在那裡，只要權限者還是米婭，那麼你們所度過的時間依舊還是十年。	先に言っておきマスが、たとえそこに残留すると決めたとしても、権限所持者がミアさんであれば、かかる時間が短くなることはありマセン。	하지만 한 가지 꼭 알려드릴 게 있습니다. 분석가님이 그곳에 머물기로 하더라도, 권한자가 미아 님인 이상 여러분은 여전히 10년의 세월을 보내게 될 것입니다.	I'm obligated to warn you: with Mia holding clearance, the time you experience inside will still be ten years. Your presence won't shorten it.						0	3.3主线剧情
+254	而且，世界生成时所产生的乱流依旧存在，虽然对您来说，已经无法构成伤害，但是依旧可能会将您的形体冲散……	而且，世界生成時所產生的亂流依舊存在，雖然對您來說，已經無法構成傷害，但是依舊可能會將您的形體沖散……	それから、世界が生成されるときの乱流は、依然として発生しマス。ダメージを受けることはありマセンが、意識が乱れる恐れがありマス……	그리고 세계가 생성될 때 발생한 난류가 아직 존재합니다. 분석가님을 해칠 순 없겠지만, 여전히 의식을 흩어놓을 수 있습니다…	And the turbulence from the reboot will persist. It can no longer harm you physically... but it could still disperse your consciousness.						0	3.3主线剧情
+255	就像是在瓦尔哈拉中一样，并非最高权限者的我可能会被分解成无数信息态粒子，飘散在那个空间。	就像是在瓦爾哈拉中一樣，並非最高權限者的我可能會被分解成無數資訊態粒子，飄散在那個空間。	ヴァルハラのように、最高権限者ではない私は、無数の情報体粒子に分解され、あの空間の塵と化すかもしれない。	발할라에서와 같이, 나는 최고 권한자가 아니기에 무수한 이념 형태 입자로 해체되어 그 공간을 떠돌게 될지도 모른다.	Like in Valhalla, without top clearance, I might scatter into countless Titagen particles drifting through that space.						0	3.3主线剧情
+256	但是，这对我而言并非绝境。	但是，這對我而言並非絕境。	でも、それは私にとって絶望的な状況ではない。	하지만 나에게는 그리 절망적인 상황이 아니었다.	But this wasn't as apocalyptic for me as it sounded.						0	3.3主线剧情
+257	只要意识尚存，那么聚合出形体也不过是时间问题。	只要意識尚存，那麼聚合出形體也不過是時間問題。	意識が残っている限り、形を取り戻すのは時間の問題だ。	의식이 남아있기만 한다면, 형체를 다시 모으는 건 시간문제일 뿐이다.	As long as my mind endured, it would only be a matter of time before I regenerated a physical body.						0	3.3主线剧情
+258	毕竟类似的情况，已经发生过多次了。	畢竟類似的情況，已經發生過多次了。	何しろ、似たような状況を何度も経験してきたからな。	비슷한 상황을 한두 번 겪은 것도 아니었다.	It had happened to me many times before.						0	3.3主线剧情
+259	他从不食言。	他從不食言。	彼は決して約束を破らない。	분석가는 허투루 말하는 사람이 아니야.	He always keeps his promises.						0	3.3主线剧情
+260	她坚定地站到我身旁，轻轻捧起我的手，贴在温热的颊边。	她堅定地站到我身旁，輕輕捧起我的手，貼在溫熱的頰邊。	彼女は強い意志を込めた表情を浮かべ、私の手をそっと取って、自分の頬に当てた。	그녀는 단호하게 내 곁에 서서, 내 손을 살며시 들어 올려 따뜻한 뺨에 갖다 대었다.	Haru stood firm at my side, took my hand, and pressed it to her warm cheek.						0	3.3主线剧情
+261	分析员，去吧。	分析員，去吧。	分析員、行ってきてくれ。	분석가, 어서 가.	Go on, Adjutant. Do what you must.						0	3.3主线剧情
+262	我明白，那个孩子，应该还需要你的帮助。	我明白，那個孩子，應該還需要你的幫助。	彼女には、分析員の助けが必要だから。	나도 알아. 그 아이는 아직 네 도움이 필요할 거야.	I understand. She needs your help.						0	3.3主线剧情
+263	望着她那清澈如晴空般的目光。我郑重颔首，随后转身迈向光芒。	望著她那清澈如晴空般的目光。我鄭重頷首，隨後轉身邁向光芒。	彼女の透き通った瞳を見つめたあと、私は頷いてから、光に足を踏み入れた。	맑은 하늘처럼 깨끗한 그녀의 눈빛을 바라보며, 나는 진지하게 고개를 끄덕이고 빛을 향해 돌아섰다.	I met her eyes, clear as a blue sky, gave a solemn nod, and turned toward the light.						0	3.3主线剧情
+264	等你回来的时候，迎接你的，一定会是个大“晴”天！	等你回來的時候，迎接你的，一定會是個大「晴」天！	帰ってきたときは、空もきっと「晴れやか」になってるから～！	네가 돌아올 때면, 분명 맑은 '하루'가 널 맞이할 거야!	When you come back, I'll make sure it's a perfect Haru day — all sunshine, no clouds.						0	3.3主线剧情
+265	空白的走廊中，少女的脚步渐渐迟疑。	空白的走廊中，少女的腳步漸漸遲疑。	真っ白な廊下で、少女の足取りが次第に遅くなった。	텅 빈 복도에서, 소녀의 발걸음은 점점 머뭇거렸다.	As she walked through the empty corridor, Mia's steps began to falter.						0	3.3主线剧情
+266	不似先前的果决，当真正踏上旅程时，心底还是泛起了涟漪。	不像先前的果決，真正踏上旅程時，心底還是泛起了漣漪。	先程までの決意とは裏腹に、いざ旅立ちの時となると、心にはさざ波が立っていた。	단호했던 모습과는 달리, 실제로 여정을 시작하려 하니 마음속에 불안감이 밀려왔다.	She wasn't as sure of herself as before. Doubt stirred in her heart now that she was truly walking the void.						0	3.3主线剧情
+267	呼……	呼……	ふぅ……	후우…	*sigh*...						0	3.3主线剧情
+268	连叹息都被寂静吞没。	連嘆息都被寂靜吞沒。	ため息さえも静寂に飲み込まれた。	한숨조차 고요함 속에 집어삼켜졌다.	Even her sigh was swallowed by the silence.						0	3.3主线剧情
+269	真是个一无所有的世界……	真是個一無所有的世界……	何もない世界だね。	정말 아무것도 없는 세계네…	So this really is a world of nothing...						0	3.3主线剧情
+270	忽然，肩头传来一丝温暖的触感。	突然，肩頭來一絲溫暖的觸感。	不意に、肩に温かい感触が伝わった。	그때, 갑자기 어깨에 따뜻한 감촉이 전해졌다.	Suddenly, a warm hand landed on her shoulder.						0	3.3主线剧情
+271	哎……	欸……	え……	아…	Hm...?						0	3.3主线剧情
+272	哇呼~	哇呼~	ワフー！	와후~	Wha-hoo~!						0	3.3主线剧情
+273	我学着她的口癖，打了声招呼。	我學著她的口癖，打了聲招呼。	私は彼女の口癖を真似て、声をかけた。	나는 그녀의 말버릇을 따라 하며 인사했다.	I greeted her, borrowing her own catchphrase.						0	3.3主线剧情
+274	哎？！！分析员怎么跟上来了？！	哎？！！分析員怎麼跟上來了？！	え！？なんでここに！？	엥?!! 분석가, 어떻게 따라온 거야?!	Wha—!? Adjutant!? Why are you here!?						0	3.3主线剧情
+275	呵呵，这会儿轮到我吓你一跳了吧。	呵呵，這次輪到我嚇你一跳了吧。	ふふっ、今度は私が驚かせる番だな。	하하, 이번엔 내가 널 놀라게 했네?	Heh. My turn to give you a scare.						0	3.3主线剧情
+276	才，才没有吓到！看到分析员突然出现，我高兴还来不及呢~	才、才沒有嚇到！看到分析員突然出現，我高興還來不及呢~	び、びっくりしてないし！分析員に会って、嬉しくなっただけだもん！	아, 안 놀랐거든! 분석가가 갑자기 나타났는데, 당연히 기뻐해야지~	No way! I couldn't be happier to see you here~!						0	3.3主线剧情
+277	少女眼底再次跃动起繁星般的光彩，头顶的“耳朵”也欢快地抖动着。	少女眼底再次躍動起繁星般的光彩，頭頂的「耳朵」也歡快地抖動著。	ミアの瞳が再び輝き出し、頭の「耳」も嬉しそうに跳ねた。	소녀의 눈빛이 또다시 별처럼 반짝였고, 머리 위의 '귀'도 즐거운 듯 쫑긋거렸다.	Her eyes lit up, stars sparkling in their depths, while the "ears" atop her head gave a joyful wiggle.						0	3.3主线剧情
+278	可转眼间，那雀跃便凝固了，她突然皱起了眉头。	但轉眼間，那雀躍便凝固了，她突然皺起了眉頭。	しかし、その喜びは一瞬で凍りつき、彼女は突然眉をひそめた。	하지만 그 기쁨은 순식간에 굳어버렸고, 갑자기 미간을 찌푸리기 시작했다.	But in the next heartbeat, her joy froze. A frown creased her brow.						0	3.3主线剧情
+279	正如宇迦所说，乱流此刻正想将我冲向别处。	正如宇迦所說，亂流此刻正想將我沖向別處。	ユガが言った通り、乱流が今まさに私を別の場所へ押し流そうとしている。	우카가 말한 대로, 난류가 나를 다른 곳으로 밀어내려 하고 있었다.	Just as YUGA had warned, the turbulence tried to tear me away.						0	3.3主线剧情
+280	放心，这并不会影响到现实的身体。不过……我可能确实在这里停留不了多久了。	放心，這並不會影響到現實的身體。不過……我可能確實在這裡停留不了多久了。	心配するな、元の体に影響はない。だが……確かに長くはここにいられないかもな。	걱정하지 마, 이건 현실의 몸에 지장을 주지 않거든. 그래도… 난 아마 여기서 오래 머물 수 없을 거야.	Don't worry. It won't affect my body in reality. But... I might not be able to stay long.						0	3.3主线剧情
+281	那分析员是……	那分析員是……	じゃあ、分析員は……	그럼 분석가는…	Then why—						0	3.3主线剧情
+282	米娅，别动。	米婭，別動。	ミア、動くな。	미아, 움직이지 마.	Mia. Don't move.						0	3.3主线剧情
+283	我握住女孩的手，随后将她拉入怀中。	我握住女孩的手，隨後將她拉入懷中。	私は彼女の手を握り、そのまま腕の中に引き寄せた。	나는 소녀의 손을 잡아 그녀를 품 안으로 끌어당겼다.	I took her hand and drew her into my arms.						0	3.3主线剧情
+284	分……分析员？！	分……分析員？！	分……分析員！？	분… 분석가?!	A—Adjutant!?						0	3.3主线剧情
+285	呵，刚刚亲我时也不见你这么害羞啊。	呵，剛剛親我時也沒看你這麼害羞啊。	おや、さっきより恥ずかしがっているのか？	흠, 아까 나한테 입 맞출 땐 이렇게 수줍어하지 않았잖아.	Heh. You weren't this shy when you kissed me earlier.						0	3.3主线剧情
+286	那，那是因为……	那、那是因為……	だ、だってぇ……	그, 그건…	W—Well... that's because...						0	3.3主线剧情
+287	别想着捉弄完我就溜走。	別想捉弄完我就溜走。	からかってすぐ逃げられると思うなよ。	장난쳐놓고 도망가려 하지 마.	You don't get to tease me and run.						0	3.3主线剧情
+288	唔嗯。	唔嗯。	うっ……うん……	으음.	Mm...						0	3.3主线剧情
+289	闭眼，等我说“好了”之后再睁开。	閉眼，等我說「好了」之後再睜開。	私がいいって言うまで、目を閉じてて。	눈 감고, 내가 '됐어'라고 할 때까지 뜨지 마.	Close your eyes. Don't open them until I say so.						0	3.3主线剧情
+290	哦……	哦……	うん……	응…	Okay...						0	3.3主线剧情
+291	我将她紧紧搂在怀中，心跳声如鼓点般起伏。	我將她緊緊摟在懷中，心跳聲如鼓點般起伏。	彼女を強く抱きしめると、太鼓の音のように響く鼓動が聞こえた。	나는 그녀를 꼭 껴안았고, 심장 소리가 북소리처럼 울렸다.	I held her close, my heartbeat racing like a drum in my chest.						0	3.3主线剧情
+292	……终于，在最后一刻，我将那精心准备的“礼物”，顺利地递到了她的眼前。	……終於，在最後一刻，我將那精心準備的「禮物」，順利地遞到了她的眼前。	……ついに、最後の瞬間、私は念入りに準備した「プレゼント」を、無事に彼女に渡した。	… 마침내, 마지막 순간에 정성스럽게 준비한 '선물'을 그녀 눈앞에 전달했다.	...At last, the gift I had prepared with such care unfolded before her eyes.						0	3.3主线剧情
+293	好了。	好了。	もう開けていいよ	됐어.	You can open them now.						0	3.3主线剧情
+294	少女缓缓睁开双眼，澄澈如洗的晴空在视野中铺展开来。	少女緩緩睜開雙眼，澄澈如洗的晴空在視野中鋪展開來。	ミアがゆっくりと目を開けると、澄み渡った晴天が目の前に広がっていた。	소녀가 서서히 눈을 뜨자, 티 없이 맑은 하늘이 시야에 펼쳐졌다.	She opened her eyes. A clear blue sky stretched out before her.						0	3.3主线剧情
+295	阳光穿透云层，温暖的触感轻轻裹住两人的身影。	陽光穿透雲層，溫暖的觸感輕輕裹住兩人的身影。	陽の光が雲を突き抜け、温かい感触が二人の身体を優しく包み込む。	햇살이 구름을 통과하며, 따뜻한 감촉이 두 사람의 모습을 부드럽게 감쌌다.	Sunlight poured through drifting clouds, wrapping the two of us in warmth.						0	3.3主线剧情
+296	这是……啊，好美的天空……	這是……啊，好美的天空……	うわあ……キレイな空……	이건… 와아, 참 아름다운 하늘이네…	Aww... what a beautiful sky...						0	3.3主线剧情
+297	每一缕风，每一寸光。	每一縷風，每一寸光。	吹き抜ける風も、降り注ぐ光も。	바람 한 줄기, 빛 한 자락.	The gentle breeze, the clear daylight...						0	3.3主线剧情
+298	都与方才那片虚无的世界，形成了鲜明的对比。	都與剛才那片虛無的世界，形成了鮮明的對比。	先程までの虚無の世界とは対照をなしていた。	모든 것이 아까 그 텅 빈 세계와는 완전히 대조적이었다.	Everything was a world apart from the empty void we'd just left behind.						0	3.3主线剧情
+299	我用自己的能力，将这个空白的世界稍微装饰了一下。	我用自己的能力，將這個空白的世界稍微裝飾了一下。	自分の力で、空白の世界を少し飾ってみたんだ。	내 능력으로 이 텅 빈 세계를 조금 장식해 봤어.	I dressed this empty world up a little with my ability.						0	3.3主线剧情
+300	虽然只能投影出我去过的地方，但应该足够支撑起你的毕业旅行了。	雖然只能投影出我去過的地方，但應該足夠支撐起你的畢業旅行了。	私が行ったことのある場所しか映せないが、君の卒業旅行には十分だろう。	내가 가봤던 곳만 투영할 수 있지만, 네가 졸업여행을 하기엔 충분할 것 같아.	I can only recreate places I've actually been, but it should do for your graduation trip.						0	3.3主线剧情
+301	毕业旅行……	畢業旅行……	卒業旅行……	졸업여행…	My graduation trip...?						0	3.3主线剧情
+302	没记错的话，米娅应该刚刚毕业吧。	沒記錯的話，米婭應該才剛畢業吧。	君は卒業したばかりだったよな？	내가 기억하기론, 미아는 이제 막 졸업했지?	You just graduated, didn't you?						0	3.3主线剧情
+303	嗯，前不久我还在纠结毕业了要去做什么呢。	嗯，前陣子我還在煩惱畢業了要去做什麼呢。	うん、この前まで卒業したら何をしようかなって考えてたの。	응. 얼마 전까지만 해도 졸업하고 나서 뭘 할지 계속 고민했거든.	Yeah. Not long ago I was still stressing over what to do after graduation.						0	3.3主线剧情
+304	等旅行回来再做决定也不迟吧？	等旅行回來再做決定也不遲吧？	旅行から帰ってきてから決めても遅くないよ。	여행에서 돌아온 뒤에 결정해도 늦지 않을 텐데?	Then decide after the trip.						0	3.3主线剧情
+305	哪有……我不是已经决定好了嘛。	哪有……我不是已經決定好了嘛。	なに言ってんの……あたし、もう決めたじゃん。	아니야… 난 이미 결정했잖아.	Uh-uh — I've already decided.						0	3.3主线剧情
+306	毕业之后，我想要成为天启者，想要正式加入海姆达尔。	畢業之後，我想要成為天啟者，想要正式加入海姆達爾。	卒業したら、覚醒者になってヘイムダルに入るって。	졸업 후에는, 계시자가 되어 헤임달에 정식으로 가입하고 싶어.	After graduation, I want to become a Manifestation and officially join Heimdall.						0	3.3主线剧情
+308	所以，我会继续追逐你的光芒，直到再次追上你为止！	所以，我會繼續追逐你的光芒，直到再次追上你為止！	だから、分析員の光を追いかけ続けるよ！	그렇게 해서, 빛나는 널 계속 쫓아갈 거야. 다시 따라잡을 때까지!	That's right — I'll keep chasing your light... until I catch up again!						0	3.3主线剧情
+309	庞大的投影耗尽了最后一丝能量，乱流的干扰下我的身形开始闪烁。	龐大的投影耗盡了最後一絲能量，亂流的干擾下我的身形開始閃爍。	巨大な投影で最後のエネルギーを使い果たし、私の姿は乱流の干渉で揺らぎ始めた。	거대한 투영이 마지막 남은 에너지까지 소진했고, 난류의 방해로 나의 몸이 깜빡이기 시작했다.	The extensive projection drained the last of my energy. My form began to flicker under the turbulence.						0	3.3主线剧情
+310	时间好像快要到了。	時間好像快要到了。	そろそろ時間だな。	시간이 다 된 것 같네.	Looks like my time's up.						0	3.3主线剧情
+311	一道不可见的玻璃幕墙，正悄然落下，两人的声音在彼此的耳中，渐渐模糊了起来。	一道不可見的玻璃幕牆，正悄然落下，兩人的聲音在彼此的耳中，漸漸模糊了起來。	見えないガラスの壁が静かに降りてきて、お互いの声がだんだんとぼやけていった。	보이지 않는 유리 벽이 조용히 내려왔고, 두 사람은 서로의 목소리가 점점 희미하게 들렸다.	An invisible barrier began to rise between us. Our voices grew faint... until we could no longer hear each other at all.						0	3.3主线剧情
+312	该启程了，米娅。\N等等……	該啟程了，米婭。\N等等……	そろそろ行かないと。\N待って……	이제 출발해야 해, 미아.\N잠깐만…	Time to set out, Mia.\NWait...						0	
+314	等再见面的时候……\N至少，让我最后，再好好看看你的脸……	等再見面的時候……\N至少，讓我最後，再好好看看你的臉……	また会うときは……\Nせめて、最後、ちゃんと顔を見せて……	다시 만날 때까지…\N적어도 마지막으로, 얼굴만이라도 제대로 보고 싶어…	When we meet again...\NAt least let me take a good look at your face one last time...						0	3.3主线剧情
+315	一定要记得——\N我只是——	一定要記得——\N我只是——	きっと――\Nただ――	꼭 기억해 줘…\N난 그저…	Promise me you'll...\NI just...						0	3.3主线剧情
+316	要将笑容挂在脸上！\N只是想记住，你现在微笑的样子！	要將笑容掛在臉上！\N只是想記住，你現在微笑的樣子！	笑顔のままでいるんだ！\Nあなたの微笑みを覚えていたいの！	언제나 웃는 모습을 잃지 말아 줘!\N그저, 지금 너의 웃는 모습을 간직하고 싶어!	...wear that big smile of yours!\N...want to remember your smile!						0	3.3主线剧情
+317	因为米娅我啊……果然…最喜欢PlayerName了！！！	因為米婭我啊……果然……最喜歡PlayerName了！！！	あたし……やっぱり、playernameのことが大好き！！！	왜냐하면 미아는… 역시… PlayerName, 네가 제일 좋으니까!!!	Because... it's always been you. I love you, PlayerName!!!						0	3.3主线剧情
+318	啊……	啊……	あっ……	아…	Ah...						0	3.3主线剧情
+319	微风徐过，楼顶，只剩下少女一人。	微風徐徐吹過，樓頂，只剩下少女一人。	そよ風が吹き、屋上には少女一人だけが残された。	바람이 스쳐 지나가고, 옥상에는 소녀 한 사람밖에 없었다.	A breeze skimmed across the rooftop. Only she remained in the space.						0	3.3主线剧情
+320	真是的……	真是的……	もう……	정말이지…	Aww...						0	3.3主线剧情
+321	明明从分析员那里，得到了这么多珍贵的礼物……	明明從分析員那裡，得到了這麼多珍貴的禮物……	分析員から大切なものをたくさんもらったのに……	분석가에게서 이렇게 소중한 선물을 받았는데…	The Adjutant gave me so many precious gifts...						0	3.3主线剧情
+322	但结果，却连重要的话，都没能好好传递过去。	但結果，卻連重要的話，都沒能好好傳遞過去。	最後に大事なことすら伝えられないなんて……	결국에는 중요한 말도 제대로 전하지 못했네.	And yet... I never even got to tell him the one thing that mattered most.						0	3.3主线剧情
+323	……	……	……	……	...						0	3.3主线剧情
+324	但是，没问题的，一定还有机会的。	但是，沒問題的，一定還有機會的。	でも大丈夫、きっとまたチャンスはある。	그래도 괜찮아. 분명 기회가 또 있을 거야.	But that's okay. I'll get another chance.						0	3.3主线剧情
+325	我能感知到，分析员还在这个世界，只要追寻他的足迹，总有一天，我们还会再次相遇。	我能感知到，分析員還在這個世界，只要追尋他的足跡，總有一天，我們會再次相遇。	あたしにはわかる。分析員はまだ、この世界のどこかにいるって。だから、追いかけていれば、いつかまた会えるはず。	분석가가 아직 이 세계에 있다는 게 느껴져. 그 발자취를 따라가다 보면, 우린 언젠가 다시 만나게 될 거야.	I can feel it — he's still out there in this world. If I follow his trail... someday, we'll meet again.						0	3.3主线剧情
+326	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	3.3主线剧情
+327	米娅的毕业旅行，要开始了哦。	米婭的畢業旅行，要開始了喔。	ミアの卒業旅行が、始まるよ。	미아의 졸업여행, 이제 곧 시작이야.	The graduation trip you gave me... it starts now.						0	3.3主线剧情
+328	等待在我面前的，一定会是一段漫长的旅途吧。	等待在我面前的，一定會是一段漫長的旅程吧。	きっと、長い長い旅になるんだろうな。	분명 기나긴 여정이 날 기다리고 있겠지.	A long, long journey must be waiting ahead.						0	3.3主线剧情
+329	一场，不知何时才会相逢的旅程。	一場，不知何時才會相逢的旅程。	いつ再会できるかわからない、そんな旅。	언제 다시 만날 수 있을지 알 수 없는 여정.	A journey with no promise of when we'll meet again.						0	3.3主线剧情
+330	但即便如此，心底那份思念，却愈发鲜明地跳动着。	但即便如此，心底那份思念，卻越發鮮明地跳動著。	なのに、この思いはさらに強まっていく。	그래도, 마음속의 그리움은 더욱 선명하게 뛰고 있어.	But the longing in my heart — it only grows brighter, with every beat.						0	3.3主线剧情
+331	没错，无论多久，这份情感也永不褪色。	沒錯，無論多久，這份情感也永不褪色。	そう……あなたへの思いは色褪せない。	그래. 아무리 긴 시간이 흘러도, 이 감정은 절대 빛이 바래지 않을 거야.	Yes... no matter how long it takes, this feeling won't fade.						0	3.3主线剧情
+332	它将永恒地闪耀着，如同亘古不变的星辰般。	它將永恆地閃耀著，如同亙古不變的星辰般。	大昔から存在する星のように、ずっと輝き続ける。	영원히 변치 않는 별처럼, 영원히 빛날 거야.	It'll shine on — like a star that never dims.						0	3.3主线剧情
+333	在记忆的夜空中——	在記憶的夜空中——	記憶の夜空で――	기억의 밤하늘 속에서…	In the night sky of memory...						0	3.3主线剧情
+334	温柔地……	溫柔地……	優しく……	부드럽게…	It shines...						0	3.3主线剧情
+335	温柔地……	溫柔地……	優しく……	부드럽게…	It shines...						0	3.3主线剧情
+336	绽放光芒。	綻放光芒。	光り続ける。	빛을 발할 거야.	Forever.						0	3.3主线剧情
+b-8											0	3.3主线剧情
+339	轻轻抱起熟睡的米娅	輕輕抱起熟睡的米婭	眠るミアを優しく抱き上げる	잠든 미아를 살며시 안아 든다	Gently lift Mia						0	3.3主线剧情
+340	经过漫长，漫长的跋涉后，在旅途的第五年，我的内心终于归于宁静。	經過漫長的跋涉後，在旅程的第五年，我的內心終於歸於寧靜。	ずっとずっと歩いてたら、旅の5年目で、あたしの心はようやく落ち着いた。	길고도 긴 여정 끝에, 여행 5년 차가 되어서야 내 마음은 평온을 찾았다.	After a long, long trek, in the fifth year of my journey, I finally found peace of mind.						0	3.3主线剧情
+341	喧嚣止息，躁动平息，不再为那些无解的抉择而辗转难眠。	喧囂止息，躁動平息，不再為那些無解的抉擇而輾轉難眠。	喧騒も、不安もなくなり、迷って眠れない夜も消えていった。	소음이 멈추고, 동요가 잦아들었으며, 더 이상 해답 없는 선택들로 뒤척이지 않게 되었다.	The noise in my thoughts faded. The restlessness quieted. I no longer toss and turn over those difficult choices.						0	3.3主线剧情
+342	然而，唯有一个立于光芒中的人影，始终轻轻拨动着我的心弦……	然而，唯有一個立於光芒中的人影，始終輕輕撥動著我的心弦……	だけど、あの光の中の姿に、まだ心が揺れてしまう……	하지만, 빛 속에 서 있는 한 사람의 그림자만은 여전히 내 마음을 흔들고 있었다…	But there was still one figure, bathed in light, who kept tugging gently at my heartstrings...						0	3.3主线剧情
+343	某一夜的梦境里。	某一夜的夢境裡。	ある夜、夢のなかで。	어느 날 밤의 꿈속에서.	Then one night, in a dream...						0	3.3主线剧情
+344	我终于再度看清了他的轮廓。	我終於再度看清了他的輪廓。	あたしはもう一度彼を見た。	나는 마침내 그의 실루엣을 다시 볼 수 있었다.	I finally saw his silhouette.						0	3.3主线剧情
+345	可画面依旧蒙着薄纱。	但畫面依舊蒙著薄紗。	でも……やっぱり、ぼんやりしてて……	하지만 여전히 베일에 가려져 있었다.	But he was still veiled in a soft mist.						0	3.3主线剧情
+346	“啊，再靠近一些吧。”	「啊，再靠近一點吧。」	「ああ、もう少し近づけたらいいのに」	"아, 좀 더 가까이…"	"Ah... could you come a little closer?"						0	3.3主线剧情
+347	“让我……让我再看看你的脸。”	「讓我……讓我再看看你的臉。」	「もっと……もっと顔を見せてよ」	"너의 얼굴을… 다시 보게 해 줘."	"Let me... just let me see your face again."						0	3.3主线剧情
+348	我不自觉地抬起手臂。	我不自覺地抬起手臂。	思わず、腕を伸ばしてた。	나도 모르게 팔을 들어 올렸다.	My arm reached out on its own.						0	3.3主线剧情
+349	呼吸渐渐变得急促。	呼吸漸漸變得急促。	呼吸もだんだん、速くなる。	호흡은 점점 가빠졌다.	My breath quickened.						0	3.3主线剧情
+350	意识也顺着伸出的指尖，像振翅欲飞的蝴蝶。	意識也順著伸出的指尖，像振翅欲飛的蝴蝶。	指先から意識が、羽ばたく蝶みたいに飛んでいく……	의식도 뻗은 손끝을 따라, 날갯짓하려는 나비 같았다.	And as my fingers stretched toward him, my awareness followed — like a butterfly ready to take flight...						0	3.3主线剧情
+351	又好似海面上即将羽化的朝阳般，即将脱离这片空间。	又好像海面上將要升起的朝陽般，即將脫離這片空間。	まるで、海の水面から昇ってくる朝日のように。この夢から抜け出そうとしているみたいだった。	마치 바다 위로 떠오르는 새벽 햇살처럼, 이 공간을 벗어나려 했다.	Like dawn breaking over the sea, slipping free from the night.						0	3.3主线剧情
+352	某种久违的悸动在胸腔蔓延。	某種久違的悸動在胸腔蔓延。	久しぶりに、胸の奥がときめいて――	오랫동안 잊고 있던 떨림이 가슴 속에 퍼져나갔다.	A long-lost flutter welled up in my chest...						0	3.3主线剧情
+353	于是，带着这份悸动，我挣扎着……	於是，帶著這份悸動，我掙扎著……	あたしは、そのときめきを抱きしめて……必死に、	그리고 그 떨림과 함께, 나는 몸부림치며…	And with that flutter...						0	3.3主线剧情
+354	睁开了双眼。	睜開了雙眼。	目を開いた。	눈을 떴다.	I struggled to open my eyes.						0	3.3主线剧情
+b-9											0	3.3主线剧情
+355	早上好啊，米娅。	早安啊，米婭。	おはよう、ミア	좋은 아침이야, 미아.	Good morning, Mia.						0	3.3主线剧情
+356	唔……早上好啊，playername……	嗯……早安啊，playername……	んん……おはよ、playername……	음… 좋은 아침, playername…	Nngh... morning, playername...						0	3.3主线剧情
+357	我这是……提前醒来了吗？	我這是……提前醒來了嗎？	あたし、予定より早く起きたの……？	나… 예정보다 일찍 깨어난 거야?	Did I... wake up early?						0	3.3主线剧情
+358	女孩虚弱地从被窝中伸出手，揉了揉自己的眼睛。	女孩虛弱地從被窩中伸出手，揉揉自己的眼睛。	ミアは弱々しく布団から腕を伸ばし、自分の目をこすった。	소녀는 힘없이 이불 속에서 손을 뻗어 눈을 비볐다.	She weakly stretched out a hand from beneath the covers and rubbed her eyes.						0	3.3主线剧情
+359	还没有呢，不过，接下来的五年，我将陪在你身边。	還沒有呢，不過，接下來的五年，我將陪伴在你身邊。	まだだけど、これからの5年間、君のそばにいる。	아직이야. 하지만 앞으로의 5년 동안, 내가 네 곁에 있을 거야.	Not quite. But for the next five years, I'll be right here, by your side.						0	3.3主线剧情
+360	米娅，久等了。	米婭，久等了。	ミア、お待たせ。	미아, 오래 기다렸지?	Sorry it took me so long, Mia.						0	3.3主线剧情
+361	啊……	啊……	えっ……	아…	Ah...						0	3.3主线剧情
+362	笑容再次绽放。	笑容再次綻放。	彼女に再び笑顔がこぼれた。	미소가 다시 피어났다.	A smile bloomed across her face.						0	3.3主线剧情
+363	我追上你了吗……不，应该是分析员找到我了吗？	我追上你了嗎……不，應該是分析員找到我了嗎？	あたし、追いついたの？それとも……分析員が見つけてくれたの？	드디어 널 따라잡은 건가… 아니면, 분석가가 나를 찾으러 온 거야?	Did I finally catch up to you...? No — did you come and find me?						0	3.3主线剧情
+364	女孩笨拙地擦着眼泪，但是却好像无论如何都擦不完。	女孩笨拙地擦著眼淚，但是卻好像無論如何都擦不完。	少女は不器用に涙を拭っていた。しかし、拭いてもまだ流れてくるようだった。	소녀는 서툴게 눈물을 닦았지만, 아무리 닦아도 멈추질 않았다.	Clumsily, she wiped away her tears, but they just kept falling.						0	3.3主线剧情
+365	是双向奔赴哦。	是雙向奔赴喔。	お互いに追いついたんだ。	둘 다 서로를 향해 달렸어.	Both.						0	3.3主线剧情
+366	这个世界再大，但只要我们的指尖还朝着彼此的方向——	這個世界再大，但只要我們的指尖還朝著彼此的方向——	この世界がどんなに広くても、私たちが互いに向かっている限り――	이 세계가 아무리 넓어도, 우리의 손끝이 서로를 향하고 있다면…	No matter how wide the world is, as long as we keep walking toward each other...						0	3.3主线剧情
+367	再微小的概率，也会变成命中注定。	再微小的機率，也會變成命中注定。	どんなに小さな確率も、運命になる。	아무리 미미한 확률이라도, 운명이 되어버리지.	Even the slimmest chance will turn into destiny.						0	3.3主线剧情
+368	我握住了她伸出的手。	我握住了她伸出的手。	私は彼女の差し出した手を握った。	나는 그녀가 내민 손을 잡았다.	I reached for her hand and held it tight.						0	3.3主线剧情
+369	总之……	總之……	とにかく……	아무튼…	Anyway...						0	3.3主线剧情
+370	接下来的五年，我会继续当你的分析员，陪着你一同度过。	接下來的五年，我會繼續當你的分析員，陪著你一起度過。	これからの5年間、引き続き君の分析員として一緒に過ごすから。	앞으로의 5년 동안 너의 분석가로서, 너와 계속 함께하고 싶어.	For the next five years, I'll stay by your side as your Adjutant, walking this path with you.						0	3.3主线剧情
+371	嘿嘿嘿，不只是以“分析员”的身份哦，playername还是米娅的英雄，是米娅的初恋。	嘿嘿嘿，不只是以「分析員」的身分喔，playername還是米婭的英雄，是米婭的初戀。	えへへ～、「分析員」ってだけじゃないよ、playernameはあたしのヒーローで……初恋の人だし。	헤헤헤, 어디 '분석가'라는 신분뿐이겠어. playername, 넌 미아의 영웅이자, 미아의 첫사랑이라고.	Hehe... not just my Adjutant. You're also my hero... my first and only love, playername.						0	3.3主线剧情
+372	所以，接下来的五年，不，应该是“接下来的未来”……	所以，接下來的五年，不，應該是「接下來的未來」……	だから、これからの5年……ううん。これからもずっと……	그러니까, 앞으로의 5년… 아니, '앞으로의 미래'에서…	So for the next five years... No, for all the years to come...						0	3.3主线剧情
+373	请和我一起，创造更多更多，更多美好而又甜蜜的回忆吧~	請跟我一起，創造更多更多，更多美好又甜蜜的回憶吧~	一緒に、もっともっと、キュンキュンする思い出いっぱい作ろ～ね。	나랑 같이 아름답고 달콤한 추억을 많이, 더 많이 만들어 줘~	Let's make soooo many sweet and beautiful memories together~!						0	3.3主线剧情
+374	至此，少女孤独旅途终于抵达了终点。	至此，少女孤獨旅程終於抵達了終點。	こうして、少女の孤独な旅はついに終点にたどり着いた。	이로써 소녀의 외로운 여정은 마침내 종착점에 도달했다.	And so, the girl's lonely journey finally came to an end.						0	3.3主线剧情
+375	而属于两人的旅程，也在新生的光芒中，徐徐展开……	而屬於兩人的旅程，也在新生的光芒中，緩緩展開……	そして二人の旅路が、新たな光の中でゆっくりと幕を開ける……	그리고 두 사람의 여정도 새로운 빛 속에서 서서히 펼쳐지기 시작했다…	And a new journey, shared by two souls, unfolded in newborn light.						0	3.3主线剧情
+376	而在那之后……	而在那之後……	それから……	그리고 그 후…	Later...						0	3.3主线剧情
+377	阳光透过玻璃，洒落在床前少女的脸庞上。	陽光透過玻璃，灑落在床前少女的臉龐上。	ガラス越しの陽射しが、ベッドのそばの少女の顔にそっと降りかかる。	햇살이 유리창을 통해 침대 앞 소녀의 얼굴을 비추었다.	Sunlight spilled through the window, casting a soft glow on the girl by the bedside.						0	3.3主线剧情
+378	她的睫毛轻轻颤动，却难以睁开双眼，或许是经历了连番苦战，又彻夜未眠地守候，此刻的她早已耗尽力气。	她的睫毛輕輕顫動，卻難以睜開雙眼，或許是經歷了連番苦戰，又徹夜未眠地守候，此刻的她早已耗盡力氣。	まつげがわずかに震えるものの、瞳は開かれない。幾重もの苦闘と、夜を徹しての見守りが重なり、彼女の力はすでに尽き果てていた。	속눈썹이 살짝 떨렸지만, 그녀는 좀처럼 눈을 뜰 수가 없었다. 연이은 고난을 겪었고, 또 밤새 지켜보느라 이미 기력이 다했을 것이다.	Her lashes trembled, but her eyes didn't open. After countless battles and a sleepless vigil, she was spent.						0	3.3主线剧情
+379	但她的手，却始终没有松开。	但她的手，卻始終沒有放開。	だが、手は離さなかった。	하지만 그녀는 끝까지 손을 놓지 않았다.	But her hand never let go.						0	3.3主线剧情
+380	那只手紧紧地，固执地攥着我的手指，仿佛那是她与那个世界唯一的联结。	那隻手緊緊地，固執地握著我的手指，彷彿那是她與那個世界唯一的連結。	彼女は私の指を強く握りしめていた。それが世界との唯一のつながりであるかのように。	그 손은 강하고도 고집스럽게 내 손가락을 움켜쥐고 있었다. 마치 그것이 그 세계와 그녀를 잇는 유일한 연결고리인 것처럼.	Fingers curled tightly around mine, as if it were the last thread tying her to this world.						0	3.3主线剧情
+381	然后……	然後……	そして……	그리고…	Then...						0	3.3主线剧情
+auto_b-10											0	3.3主线剧情
+b-10											0	3.3主线剧情
+382	缓缓睁开双眼	緩緩睜開雙眼	晴が目を開けた。	천천히 눈을 뜬다	Slowly open your eyes						0	3.3主线剧情
+383	啊……	啊……	あっ……	아…	Ah...						0	3.3主线剧情
+384	仅仅是睁眼这样一个微小的动作，却瞬间牵动了她的全部感知。	光是睜眼這樣一個微小的動作，卻瞬間牽動了她的全部感知。	たった「目を開ける」という小さな動作だけで、瞬く間に彼女の全感覚が揺さぶられた。	눈을 뜨는 작은 동작만으로도, 그녀의 모든 감각이 순식간에 깨어났다.	The flutter of my lashes stirred all her senses awake at once.						0	3.3主线剧情
+385	她脸上的疲惫顷刻消散，转而化作深情的凝视。	她臉上的疲憊瞬間消散，轉而化為深情的凝視。	彼女の顔の疲れは瞬く間に消え去り、代わりに深い愛情をたたえた視線に変わった。	얼굴에 드리워진 피로가 순식간에 사라지고, 깊은 감정이 담긴 시선이 대신했다.	The weariness on her face melted away in an instant, giving way to a gaze full of quiet affection.						0	3.3主线剧情
+386	欢迎回家……playername	歡迎回家……playername。	おかえり……playername。	집에 온 걸 환영해… playername	Welcome home... playername.						0	3.3主线剧情
+387	泪珠无声地滑过她的脸颊，滴落在我的枕边。	淚珠無聲地滑過她的臉頰，滴落在我的枕邊。	涙が音もなく彼女の頬を伝い、私の枕元に落ちた。	눈물이 소리 없이 그녀의 뺨을 타고 내 베개 위로 떨어졌다.	Tears slipped down her cheeks, falling softly onto the pillow beneath my head.						0	3.3主线剧情
+388	她在哭泣，可在晨光中的面容却明亮得动人，令人恍若看见雨后天晴的天空。	她在哭泣，可在晨光​​中的面容卻明亮得動人，恍若令人看見雨後晴的天空。	彼女は泣いているのに、朝の光に照らされたその顔は明るく美しく、まるで雨上がりの晴れた空を見ているかのようだった。	그녀는 울고 있었지만, 아침 햇살 속의 그 얼굴은 눈부시게 아름다웠다. 마치 비가 갠 하늘을 보는 것 같았다.	She was crying, yet in the morning light, her face shone like a clear sky after rain.						0	3.3主线剧情
+389	果然，你说得没错。	果然，你說得沒錯。	やはり、君の言う通りだな。	역시, 하루 말이 맞았어요.	You were right.						0	3.3主线剧情
+390	什么……	什麼……	え……	응…?	Hm...?						0	3.3主线剧情
+391	今天，果然是个大晴天。	今天，果然是個大晴天。	今日はやはり、澄み渡る大晴天だ。	오늘은, 역시 맑은 하루네요.	It really is a perfect Haru day.						0	3.3主线剧情
+392	……	……	……	……	...						0	3.3主线剧情
+393	真是的！	真是的！	もうっ！	너도 참!	Adjutant!						0	3.3主线剧情
+394	少女不再矜持，一下子扑进我的怀里。	少女不再矜持，一下子就撲進我的懷裡。	晴はためらいを捨て、その身を私の胸元へ飛び込んできた。	소녀는 더 이상 망설이지 않고 내 품으로 뛰어들었다.	Her shyness vanished as she threw herself into my arms.						0	3.3主线剧情
+395	那份沉甸甸的重量压在胸前，却不令人窒息，反而带来前所未有的安心。	那份沉甸甸的重量壓在胸前，卻不令人窒息，反而帶來前所未有的安心。	胸に感じる重みは、窒息ではなく、かえって深い安らぎを運んできた。	가슴을 짓누르는 그 무게는 전혀 답답하지 않았고, 오히려 깊은 안도감을 가져다주었다.	Her weight settled against my chest, warm and steady — a quiet kind of peace.						0	3.3主线剧情
+396	嗯，我回来了，晴……	嗯，我回來了，晴……	晴、ただいま……	네. 저 왔어요, 하루…	Yeah... I'm home, Haru.						0	3.3主线剧情
+397	我紧紧回抱住她，任这份温暖在阳光中静静融化。	我緊緊回抱她，任這份溫暖在陽光中靜靜融化。	私は彼女をぎゅっと抱きしめ、この温もりが陽光の中で静かに溶けていくのを感じた。	나는 그녀를 꼭 안아주었고, 이 따스함이 햇살 속에서 조용히 녹아들게 했다.	I held her tight, letting the warmth of our reunion melt into the sunlight.						0	3.3主线剧情
+398	仿佛被我们的动静轻轻唤醒，身旁，米娅也缓缓睁开了双眼。	彷彿被我們的動靜輕輕喚醒，身旁，米婭也緩緩睜開了雙眼。	まるで私たちの動きにそっと呼び覚まされたかのように、そばでミアもゆっくりと目を開けた。	우리의 움직임에 살며시 깨어난 듯, 옆에 있던 미아도 천천히 눈을 떴다.	And as if awakened by that warmth, Mia slowly opened her eyes beside us.						0	3.3主线剧情
+399	唔……	嗯……	うぅ……	으음…	Nngh...						0	3.3主线剧情
+400	新的故事，正从这个喧闹而温柔的清晨正式开始。	新的故事，正從這個喧鬧而溫柔的清晨正式開始。	新しい物語は、この賑やかで優しい朝から始まろうとしている。	새로운 이야기가, 이 시끌벅적하고도 따스한 아침부터 본격적으로 시작되었다.	And on that gentle, light-filled morning, a new story began.						0	3.3主线剧情

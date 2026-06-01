@@ -1,0 +1,29 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	琴、琴诺……害怕……	琴、琴諾……害怕……	チェ、チェルノ……怖い……	무… 무서워요…	I-I'm... afraid...						0	
+b-1											0	
+2	琴诺总要到处看看，享受一下庆典活动。	琴諾總要到處看看，享受一下慶典活動。	チェルノはお祭りを見て回りたいんだね。	체르노, 여기저기 돌아다니면서 축제 분위기도 즐겨야지.	You've been looking around this whole time. You should enjoy the celebration.						0	
+b-2											0	
+3	那这样，我给你一个任务。	那這樣，我給你一個任務。	じゃ、ミッションを託すよ。	그럼 이렇게 하자. 체르노한테 미션을 하나 줄게.	How about I give you a mission—						0	
+4	任、任务？琴诺……能完成吗？如果失败了……怎么办……	任、任務？琴諾……能完成嗎？如果失敗了……怎麼辦……	ミ、ミッション？チェルノ……できるでしょうか？もし失敗したら……どうしましょう……	미… 미션? 체르노가… 할 수 있을까요? 실패하면… 어떻하죠?	A-A mission? Can... can I really do it? What if... I can't?						0	
+b-3											0	
+5	不会。这个任务只有琴诺能胜任。	不會。這個任務只有琴諾能勝任。	そんなことない。このミッションはチェルノにしかできないんだよ。	그럴 리 없어. 이 미션은 오직 체르노만이 할 수 있는 미션이거든.	You can. You're the only one who can handle this mission, Cherno.						0	
+6	只有琴诺……能胜任吗？	只有琴諾……能勝任嗎？	チェルノにしか……できない？	체르노만이… 할 수 있는 미션이요?	Only I... can handle it?						0	
+b-4											0	
+7	琴诺是个安静又细心的孩子。	琴諾是個安靜又細心的孩子。	チェルノは穏やかで注意深い子だから。	체르노는 조용하고 섬세한 사람이잖아.	Cherno, you're quiet and attentive.						0	
+b-5											0	
+8	所以你可以不被人发现，准确找到做坏事的人。	所以你可以不被人發現，準確找到做壞事的人。	だからチェルノは誰にも気付かず、正確に悪い人を見つけ出すことができる。	그러니까 다른 사람에게 안 들키고 나쁜 짓을 한 사람을 정확하게 찾아낼 수 있을 거야.	So you can go unnoticed while you find the bad guy.						0	
+b-6											0	
+9	然后，回来找我们就可以。	然後，回來找我們就可以。	済んだら私たちのところに戻って。	그리고 나서 다시 우리한테 돌아오면 돼.	Then, just report back to us.						0	
+10	找到……做坏事的人？	找到……做壞事的人？	悪い人を……見つけ出す？	그러니까… 나쁜 짓을 한 사람을… 찾으라는 거죠?	Find... the bad guy?						0	
+11	分析员，你不会是忘了琴诺过去的身份了吧？	分析員，你不會是忘了琴諾以前的身分了吧？	分析員、チェルノちゃんの過去を忘れてませんよね？	분석가, 체르노의 이전 신분을 잊은 건 아니겠지?	Adjutant, have you forgotten Cherno's past identity?						0	
+12	明灯节期间，让会员们看到琴诺的话……可是会出大事的。	明燈節期間，讓會員們看到琴諾的話……可是會出大事的。	明灯祭の間、チェルノちゃんがメンバーたちに見られたら……大事になります。	만일 등명제 기간에 신자들이 체르노를 목격한다면… 엄청난 일이 일어날 거야.	If the Adventists spot Cherno during Mingdeng Jie... there's going to be trouble.						0	
+b-7											0	
+13	啊！对不起！琴诺她——	啊！對不起！琴諾她——	あ！ごめん！チェルノは――	아! 죄송해요! 체르노는…	Oh, I'm sorry! Cherno—						0	
+14	啊——看你紧张的样子，真的是太可爱了。	啊——看你緊張的樣子，真的是太可愛了。	ふふ、取り乱すなんて。可愛い。	하하하… 분석가는 당황해하는 모습이 정말 귀엽다니까.	Ah... you're so cute when you're nervous.						0	
+15	抱歉，总是忍不住捉弄你呢。	抱歉，總是忍不住捉弄你呢。	ごめんなさい、ついからかいたくなって。	미안, 분석가만 보면 장난을 치고 싶어지거든.	Sorry, I just can't stop myself from teasing you.						0	
+16	放心，我从一开始就跟着琴诺那孩子了，用了一点小方法让她避开了降临团的人。	放心，我從一開始就跟著琴諾那孩子了，用了一點小方法讓她避開了降臨團的人。	安心してください。私が最初からチェルノちゃんを見ていました。降臨団と会わないように手を打っています。	걱정하지 마. 내가 계속해서 체르노를 따라다니면서 강림단 사람들을 피할 수 있게 몇 가지 조치를 취해놨거든.	Don't worry. I've been with Cherno since the beginning. I have a little trick to keep her away from the Adventists.						0	
+17	不过，那孩子表现得真不错，也有享受庆典活动呢。琴诺呀，还和其他孩子们一起进行了射击比赛呢。	不過，那孩子表現得真不錯，也有享受慶典活動呢。琴諾呀，還和其他孩子們一起進行了射擊比賽呢。	しかし、あの子はなかなか活躍していますよね。お祭りもちゃんと楽しんでいますし。他の子と一緒に射撃ゲームもしてましたよ。	어쨌든 정말 잘 적응하고 있어. 축제도 즐기고 말이야. 심지어 다른 아이들하고 사격 시합도 한 거 있지?	Anyway, she's a good kid, and she's been enjoying the festivities. She even had a shooting competition with some other kids.						0	
+18	不过……分析员，还有一件事。	不過……分析員，還有一件事。	それと……分析員、もうひとつ。	아… 그보다 분석가한테 할 말이 있는데.	But... Adjutant, there's something else.						0	
+19	我发现这些装置，几乎都被安装在平民最容易聚集的位置，并且安装的位置非常隐秘。	我發現這些裝置，幾乎都被安裝在平民最容易聚集的位置，並且安裝的位置非常隱密。	あの装置は、ほとんど一般市民が密集している場所に設置されていると分かりました。それにすごく見つかりにくい位置に隠されています。	장치들은 대부분 사람들이 쉽게 모여있는 장소에 설치 되어있고 엄청 은밀한 곳에 숨겨져 있어.	I realized that those devices were almost all placed in areas where people are most likely to gather. And they were all hidden extremely well.						0	
+20	想来这些人应该对泰古通达分部的位置也十分熟悉……	想必這些人應該對泰古通達分部的位置也十分熟悉……	その人たちはタグにもかなり詳しいでしょうね……	그래서 녀석들은 분명 타이구 지부의 위치를 아주 잘 알고 있을 거야.	It's not a stretch to assume these people are really familiar with this Taigu-Connect branch...						0	

@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	里芙，我发现你最近申请增加了训练强度。	里芙，我發現你最近申請了提高訓練強度。	リフ、このところトレーニング強度を上げてるみたいだね。	리브, 최근에 훈련 강도를 높여달라고 신청했던데?	Lyfe, I noticed you applied for a more intense training regimen recently.						0	
+page0.2	你看起来脸色有点苍白，真的不要紧吗？	你的臉色看起來有點蒼白，真的不要緊嗎？	顔色が良くない気がするけど、大丈夫かい？	안색이 창백한데, 정말 괜찮은 거야?	You look a little pale... Are you sure you aren't overdoing it?						0	
+page0.3	我没事，上次去雅卢岛已经休息得足够久了。	我沒事，上次去雅盧島已經充分休息了。	問題ない。休息ならガルーアイランドでちゃんと取った。	괜찮아. 지난번에 야루섬에 가서 쉴 만큼 쉬었어.	I'm alright. I relaxed enough last time we went to Yallu Island.						0	
+page0.4	距离上次休假已经过去很长时间了。	距離上次休假已經有一段時間了。	休息ったって、あれはもうだいぶ前の話だろ。	지난 휴가는 벌써 한참 지난 일이잖아.	It's been a long time since that vacation.						0	
+page0.5	这几个月，你不是出任务就是将自己关在训练室。	這幾個月，你不是出任務就是將自己關在訓練室裡。	ここ数か月は、ミッションに出るか、訓練室に閉じこもってばかりじゃないか。	요 몇 달 동안 넌 미션이 없는 날엔 온종일 훈련실에만 있었어.	Over the past few months, if you haven't been on a mission, you've been holed up in the training room.						0	
+page0.6	“芬布尔之冬”后，你将自己逼得更紧了。	「芬布爾之冬」後，你又更勉強自己了。	「フィンブルの冬」以降、ずっとそうだ。少し追い込みすぎだぞ。	 '핌불윈터' 이후로, 넌 스스로를 더 강하게 몰아붙였어.	Ever since "Fimbulvetr," you've been pushing yourself even harder.						0	
+page0.7	俱卢、阿尔斯特、千羽……这些地区的隔离区建设完全跟不上泰坦污染扩散的速度。	俱盧、阿爾斯特、千羽……這些地區內的隔離區建設完全跟不上泰坦汙染的擴散速度。	グロ、アルスター、千羽……どこもタイタン汚染の拡大速度に封鎖エリアの建設が追い付いていない。	쿠루, 울스터, 센바… 그 지역들의 격리 구역 건설이 타이탄 오염의 확산 속도를 따라가지 못하고 있어.	In Kuru, Ulster, and Senba... the construction of Containment Zones can't keep up with the spread of Titagen.						0	
+page0.8	位于耶洛沙的九十一区已经发布了大量人员失踪报告。	位於耶洛沙的九十一區已經發布了大量人員失蹤報告。	イェロシャの91区では、行方不明事件も大量に起こっている。	옐로샤의 91구역에서는 이미 대규모 실종 보고서가 발표되었어.	And Containment Zone 91 in Yehrus has made heaps of missing persons reports.						0	
+page0.9	哪怕是零区……分析员，你我都知道，尤克特拉希尔变得更加“茂盛”了。	那怕是零區……分析員，你我都很明白，尤克特拉希爾變得更加「茂盛」了。	エリアゼロもそうだ……「ユグドラシル」はその枝葉を更に拡大しつつある。	하물며 제로 구역도… 분석가, 세계수가 더 '무성하게' 변했다는 건 우리 둘 다 알고 있잖아.	Even in Containment Zone Aleph... Adjutant, you and I both know that the Titagen-made World Tree is thriving even more than before.						0	
+page0.10	隔离墙阻止不了“那种力量”蔓延，只能挡住墙里的人。	隔離牆阻止不了「那種力量」蔓延，只能擋住牆裡的人。	ウォールにできるのは壁の内側の人々を守ることだけだ。「力」の拡大を防ぎきることはできない。	격리 장벽은 단지 벽에 둘러싸인 사람들을 막아줄 뿐, '그 힘'이 퍼지는 것은 막을 수는 없어.	The wall can't stop that kind of power from spreading. It can only hold people within its bounds.						0	
+page0.11	而我们是唯一有能力与其对抗的，“海姆达尔部队能否成为人类新的神明”么……	而我們是唯一有能力與其抗衡的，「海姆達爾部隊能否成為人類新的神明」嗎……	そうだな。そして、唯一対抗できるのも私たちだけ。「ヘイムダル部隊は新しい神になれるのか」ってね……	유일하게 그것과 맞설 수 있는 존재가 바로 우리야. '헤임달 부대가 인류의 새로운 신으로 거듭날 수 있는가'…?	And we're the only ones with the ability to fight it. Can the Heimdall Force really "ascend as mankind's new saviors...?"						0	
+page0.12	我不是神， 我只是个复仇者。	我不是神，我只是個復仇者。	私は神じゃない。ただの復讐者だ。	난 신이 아니야, 그저 복수자일 뿐이야.	I'm no savior. I'm just someone trying to get vengeance.						0	
+page0.13	而你……只要有你在，我就不会迷失。	而你……只要有你在，我就不會迷失。	そして……分析員、お前さえいれば、私が道に迷うことはない。	그리고 네가… 네가 있는 한, 난 길을 잃지 않을 거야.	And... as long as you're here, I won't lose sight of that.						0	
+page0.14	所以，别皱着眉了。	所以，別皺著眉頭了。	だから、そんな顔はしないでくれ。	그러니 인상 찌푸리지 말아줘.	So there's no need for that concerned expression.						0	

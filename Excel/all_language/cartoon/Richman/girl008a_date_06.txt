@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，猜猜我背后的哪只手里有惊喜~	分析員，猜猜我背後的哪一隻手上有驚喜~	分析員！プレゼントがどっちの手にあるのか、当ててみて？	분석가, 제 뒤에 서프라이즈가 어느 손에 있는지 맞혀봐~	Adjutant, guess which hand of mine has a surprise for you~						0	
+choice01	猜左手	猜左手	左手	왼손을 맞힌다.	The left hand						0	
+page1.1	锵锵~特意为分析员挑选的帅气面具！	錵鏘~特地為分析員挑選的帥氣面具！	じゃじゃーん！分析員のために選んだかっこいいお面よ！	짜잔~ 분석가를 위해 특별히 고른 멋진 가면!	Ta-da~ Check out this cool mask I picked out for you!						0	
+page1.2	快快快，戴上让我看看！	快快快，戴上讓我看看！	早くつけてみて！	빨리, 내가 좀 볼 수 있게 착용해 줘!	Come on, put it on — let's see how it looks!						0	
+page1.3	我也有一只，是狮子造型的，怎么样，可爱吗？	我也有一隻，是獅子造型的，怎麼樣，可愛嗎？	あたしのもあるわ。どう？ライオンのお面、かわいいでしょ？	나도 있어, 라이언 스타일인데 어때 귀여워?	I got one too — it's a lioness. Isn't she adorable?						0	
+page1.4	感觉和分析员的很配呢！	感覺和分析員的很配呢！	分析員のとすごくお似合いでしょ！	분석가와 잘 어울리는 것 같네!	We'd look so cute together with our masks on!						0	
+choice02	猜右手	猜右手	右手	오른손을 맞힌다.	The right hand						0	
+page2.1	芬妮慢慢把握拳的右手举到前方，朝向天空……	芬妮慢慢掌握拳頭的右手舉到前方，朝向天空……	ファニーは拳を握った右手を高く上げて、空へ向けると……	페니는 천천히 주먹 쥔 오른손을 앞으로 들어 하늘을 향해…	Fenny slowly raised her clenched right hand toward the sky...						0	
+page2.2	3，2……1！	3，2……1！	3……2……1！	3，2… 1!	3... 2... 1!						0	
+page2.3	“砰！——砰！——”	「砰！——砰！——」	「ドカーン！ドカーン！」	'펑! 펑…!'	BOOM! BOOM!						0	
+page2.4	烟花拼出了我的名字……是送给我的？	煙火拼出了我的名字……是送給我的？	花火が……私の名前に？プレゼントって……	불꽃놀이에서 내 이름을… 나한테 주는 거야?	The fireworks just spelled out my name... Is this for me?						0	
+page2.5	是为分析员特别定制的！还有很多呢，一定要全部看完哦！	是為分析員特別訂製的！還有很多呢，一定要全部看完！	わざわざ分析員のために用意したのよ！まだまだたくさん上がるから、ちゃんと最後まで見てよね！	분석가를 위해 특별히 맞춤 제작되었어! 아직 많이 있어, 꼭 다 봐!	Custom-made just for you! And there's more to come! Keep your eyes peeled!						0	

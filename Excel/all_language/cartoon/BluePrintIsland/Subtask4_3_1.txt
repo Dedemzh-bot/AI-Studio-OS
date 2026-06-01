@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	可算来了！两位好，我是岛上新雇佣的工程师，急匆匆地将两位请来实在抱歉…………	總算來了！兩位好，我是島上新雇傭的工程師，急急忙忙地將兩位請來實在是抱歉…………	やっと来てくれました！こんにちは。新しく雇われたエンジニアです。急に呼び立ててすみません……	오셨군요! 안녕하세요, 저는 이 섬에 새로 고용된 엔지니어입니다. 이렇게 갑자기 두 분을 불러내어 대단히 죄송합니다…	You're finally here! Hello, I'm the island's new engineer. Sorry for asking you over in such a hurry...						0	dlc30蓝图岛对话
+page1.2	出什么事了？	出什麼事了？	何かあった？	무슨 일이야?	What's the problem?						0	dlc30蓝图岛对话
+page1.3	入职第一天，我检查了岛上设施的运转状态，找到了一些……不，很多很多异常。	入職第一天，我檢查了島上設施的運轉狀態，找到了一些……不，很多很多異常。	入社初日、施設の稼働状況をチェックしたところ、いくつか……いえ、たくさんの異常を見つけたんです。	처음 출근하자마자 섬의 시설 가동 상태를 점검했는데, 몇 가지… 아니, 수많은 이상 징후를 발견했습니다.	It's my first day here. I was checking the island's systems and found a bunch of... well, honestly, a lot of anomalies.						0	dlc30蓝图岛对话
+page1.4	唔，虽然异常很多，但却能正常运转，很神奇吧。	唔，雖然異常很多，但卻能正常運轉，很神奇吧。	うーん、確かに異常はあるけど、ちゃんと稼働してるんだよね。	음, 이상 징후가 많긴 하지만, 그래도 정상적으로 작동하고 있어. 신기하지 않아?	Even with all those issues, everything still runs. It's actually kind of impressive, isn't it?						0	dlc30蓝图岛对话
+page1.5	很神奇。	很神奇。	それはそうですが……	정말 신기해요.	It really is.						0	dlc30蓝图岛对话
+page1.6	但，也有一些安全隐患是必须解决的……不然会有一些恶性影响，例如，建设进度消失。	但，也有一些安全隱患是必須解決的……不然會有一些惡性影響，例如，建設進度消失。	悪影響が出るので、解決しないといけない、安全面の問題もあるんです……開発進捗が消えるかもしれないので。	하지만 반드시 해결해야 할 안전 문제도 있어요… 그렇지 않으면 건설 진도가 사라지는 등, 부정적인 영향이 있을 거예요.	But some of these safety problems need urgent attention... Otherwise, one mistake and your entire building progress could disappear.						0	dlc30蓝图岛对话
+page1.7	眼下我还得继续检查其他安全问题，两位可以通过我标注的那些传送门，直接进去。	現在我還得繼續檢查其他安全問題，兩位可以透過我標記的那些傳送門，直接進去。	私はここでほかに問題がないか調査するので、あなたたちは私がマークした転送ポイントを確認しに向かってください。	제가 지금은 다른 안전 문제도 계속 점검해야 해서, 두 분은 제가 표시해 둔 워프 게이트를 통해 바로 들어가시면 됩니다.	I still have other checks to make. You two can use the marked portals to head straight in.						0	dlc30蓝图岛对话
+page1.8	好吧……我们去看一下。顺带一提，进行维修行为需要什么专业的工具吗？	好吧……我們去看一下。順便一提，進行維修行為需要什麼專業的工具嗎？	わかった、行ってみるよ。ついでに聞くけど、修理には専門的な道具が必要なのか？	알았어… 가서 한번 볼게. 그런데 수리할 때 특별한 전문 도구가 필요하진 않아?	Alright... we'll go take a look. Should we bring any special tools for the repairs?						0	dlc30蓝图岛对话
+page1.9	不需要，把一些地下水道的流向调整正确就好。可能会用到一些电路维修方面的知识。	不需要，把一些地下水道的流向調整正確就好。可能會用到一些電路維修方面的知識。	地下水道の流れを正せばいいので、道具は必要ありません。電気修理の知識は必要かもしれませんが。	아뇨, 지하 수로의 흐름만 제대로 조정하면 돼요. 전기 회로 수리 관련 지식이 약간 필요할 수도 있고요.	No, just reroute some underground waterways. A little basic wiring knowledge might help.						0	dlc30蓝图岛对话
+page1.10	听起来很专业呢。	聽起來很專業呢。	専門的だな。	되게 전문적인 것 같은데.	Sounds pretty technical.						0	dlc30蓝图岛对话
+page1.11	说不定维修过程比你想得还简单，分析员。	說不定維修過程比你想得還簡單，分析員。	まあまあ。思ってるより簡単かもしれないよ。	수리 과정은 네 생각보다 간단할 수도 있어, 분석가.	It might not be as complicated as you think, Adjutant.						0	dlc30蓝图岛对话
+page1.12	就像有些游戏里的治疗，只是两个人在摸来摸去而已。	就像有些遊戲裡的治療，只是兩個人在摸來摸去而已。	ゲームでもよくあるでしょ。ふたりが触れ合ってるだけで、傷が治っちゃうの。	게임에서의 치유처럼, 그냥 두 사람이 이것저것 만지작거리는 정도일 수도 있어.	Could be like healing in some video games, just two people fumbling around.						0	dlc30蓝图岛对话
+page1.13	总之我们先去看看。	總之我們先去看看。	まず見に行ってみるか。	일단 가서 보자.	Either way, let's check it out.						0	dlc30蓝图岛对话

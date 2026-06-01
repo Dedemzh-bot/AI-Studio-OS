@@ -1,0 +1,30 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，我前几天不小心弄丢了一些收藏品。如果你在地上看到了一些没见过的瓶盖，可以找我来兑换东西。	分析員，我前幾天不小心弄丟了一些收藏品。如果你在地上看到了一些沒看過的瓶蓋，可以找我來兌換東西。	分析員。この前、コレクションの一部を無くしちゃったから、見たことのない瓶の王冠とかを拾ったら、私のところに持ってきてね。なにかと交換してあげる。	분석가, 나 며칠 전에 몇 가지 소장품을 잃어버렸어. 만약 길에서 본 적 없는 병뚜껑을 보면, 나한테 와서 물건이랑 교환할 수 있어.	Hey, Adjutant. I misplaced some of my collectibles the other day. If you stumble across any unusual bottle caps, bring them to me. I'll trade you something for them.						0	
+page1.2	可以兑换什么？	可以兌換什麼？	なにかって？	뭘로 교환할 수 있는데?	And what exactly can I trade them for?						0	
+page1.3	谢谢……	謝謝……	まい……	'고마워'…	A thank you...						0	
+page1.4	只是兑换一句感谢吗？	只是兌換一句感謝嗎？	まい？	그냥 감사 한마디로 끝이야?	That's it? Just a thank you?						0	
+page1.5	谢谢惠顾。	謝謝惠顧。	「毎度あり」だね。	'와주셔서 감사합니다.'	Thank you for your patronage.						0	
+page1.6	？？？？	？？？？	？？？？	????	...!?						0	
+page1.7	也可以是再来一瓶。如果这个时代还能找到那些饮料的生产线的话。	也可以是再來一瓶。如果這個時代還能找到那些飲料的生產線的話。	それから「もう一本」もあるよ。この時代にそういう飲み物がまだあるならの話だけど。	아니면 '한병 더'일 수도 있어. 이 시대에 아직도 그런 음료 생산라인이 있는지 모르겠지만.	Or maybe a free soda, if they're still in production today.						0	
+page1.8	不要这么看我，那些瓶盖上就是这样的奖励。	不要這麼看我，那些瓶蓋上就是這樣的獎勵。	そんな目で見ないでよ。あれはそういう賞品付きの王冠なんだよ。	그렇게 쳐다보지 마, 그 뚜껑에 그렇게 적혀 있거든.	Don't give me that look. These are the prizes that come with the bottle caps.						0	
+page1.9	我只是想收集那些瓶盖，瓶盖可以换到的奖励都可以给你……不过要是你能找到我掉的多诺卡，我倒是可以个人付奖励给你。	我只是想收集那些瓶蓋，瓶蓋可以換到的獎勵都可以給你……不過要是你能找到我掉的多諾卡，我倒是可以個人付獎勵給你。	私は王冠自体を集めたいから、王冠でもらえる賞品は全部分析員にあげる。……でも、もし私が無くしたDOROカードも見つけてくれるなら、私からなにか報酬をあげてもいいよ。	난 그냥 그 병뚜껑들을 모으고 싶을 뿐이야. 병뚜껑으로 교환할 수 있는 보상은 다 줄게… 근데 만약 내 도노 카드를 찾아주면 개인적으로 보상을 줄 수 있어.	Honestly, I'm just interested in the caps themselves. Whatever they can grant is yours to keep... Though, if by some miracle you find my missing Dono cards, I'll give you a real reward.						0	
+page1.10	多诺卡是什么？	多諾卡是什麼？	DOROカードって？	도노 카드가 뭔데?	Dono cards? What are those?						0	
+page1.11	是旧世用于一种特殊对战游戏的卡牌，因为每次抽卡前都要大喊“多诺”而得名。	是舊世用於一種特殊對戰遊戲的卡牌，因為每次抽卡前都要大喊「多諾」而得名。	昔の対戦型カードゲームだよ。引くたびに「DORO！」って言わないといけないから、そういう名前になったんだ。	옛날에 특별한 대전 게임에 쓰였던 카드야, 카드를 뽑기 전에 '도노'를 외쳐야 해서 그렇게 불렀어.	An old-world card game. Players had to shout "Dono!" before drawing a card.						0	
+page1.12	顺便一提，我掉的卡片可是只要集齐五张就能直接赢得胜利的超稀有卡牌。	順便一提，我掉的卡片可是只要集齊五張就能直接贏得勝利的超稀有卡牌。	ちなみに、私が落としたのは5種類集めると即座に勝利できるっていう、超レアカードなんだ。	참고로, 내가 잃어버린 카드는 다섯 장만 모으면 바로 승리할 수 있는 레어한 카드야.	The ones I lost are ultra-rare — if you draw five of them, you win the game right away.						0	
+page1.13	这么珍贵的东西也能弄丢的吗……话说你到底弄丢了多少东西？	這麼珍貴的東西也能弄丟的嗎……話說你到底弄丟了多少東西？	そんなに大事なカードまで落としたのか……というか、一体どれだけ落とし物をしてるんだ？	그렇게 소중한 걸 어떻게 잃어버릴 수 있냐… 너 도대체 얼마나 잃어버린 거야?	You actually lost something that valuable...? How much stuff have you lost anyway?						0	
+page1.14	你能记得你吃掉多少块面包吗？	你能記得你吃掉多少塊麵包嗎？	じゃあ、自分が今まで食べたパンの数を覚えているの？	네가 먹은 빵 조각 수를 기억할 수 있겠어?	Do you keep track of how many slices of bread you've had?						0	
+page1.15	？？？？	？？？？	？？	????	...!?						0	
+page1.16	都怪公司太大了，能藏东西的地方太多了。	都怪公司太大了，能藏東西的地方太多了。	会社が広すぎて、いろんなところに物を隠せるのが悪いんだよ。	다 회사가 너무 커서 숨길 곳이 너무 많은 탓이야.	It's all because this place is too big, with too many nooks and crannies to hide stuff.						0	
+page1.17	可东西是你自己弄丢的吧……	但東西是你自己弄丟的吧……	いやいや、そもそも物を隠したのは君だろう……	근데 물건은 네가 잃어버린 거잖아…	But aren't you the one responsible for keeping your own stuff in order?						0	
+page1.18	分析员也可以把这看做我给你的机会。	分析員也可以把這看做我給你的機會。	私からのチャンスと思ってくれてもいいよ。	분석가는 이걸 내가 당신에게 준 기회라고 볼 수도 있어.	Think of it as a golden ticket I'm offering you.						0	
+page1.19	什么机会？	什麼機會？	チャンスって、なんの？	무슨 기회?	A golden ticket to what?						0	
+page1.20	如果分析员找到我的卡片，说不定有机会对我这样做呢——	如果分析員找到我的卡片，說不定有機會對我這樣做呢——	私のカードを見つけてくれたら、私にこんなことが言えるんだ。	분석가가 내 카드를 찾으면, 나한테 이렇게 할 기회가 생길지도 몰라…	If you find those cards, you might get to say something like this to me:						0	
+page1.21	“安卡希雅，你也不想你珍贵的多诺卡被我弄坏吧？”	“安卡希雅，你也不想你珍貴的多諾卡被我弄壞吧？”	「アカシア。君の大事なDOROカードが私に破れられるのを、見たくないよな？」	"아카시아, 너도 네 소중한 도노 카드를 내가 망가뜨리는 걸 원치 않겠지?"	"Acacia, you wouldn't want your precious Dono cards getting trashed, would you?"						0	
+page1.22	这样说完，然后胁迫我去做一些不情愿的事情。	這樣說完，然後脅迫我去做一些不情願的事。	って言って、私にあんなことやこんなことをさせられるんだよ。	이렇게 말하고 나서 날 협박해서 내가 하기 싫은 일을 시키는 거야.	And then you'd have the perfect excuse to make me do something I normally wouldn't do.						0	
+page1.23	虽然安卡希雅说这句话的语气没有多少起伏，但我总觉得她这句话很不对劲。	雖然安卡希雅說這句話的語氣沒有太多起伏，但我總覺得她這句話很不對勁。	アカシアは口調こそいつもと変わらないけれど、その言葉からはやはりどこか不穏なものを感じた。	아카시아가 이 말을 할 때 별로 감정이 없었지만, 뭔가 이상하다고 느꼈다.	Acacia's voice was as deadpan as ever, but I couldn't shake the feeling that something was off about what she just said.						0	
+page1.24	另外看她这态度，像是我不答应就要一直缠着我。	另外看她這態度，像是我不答應就要一直纏著我。	それに、この様子じゃ、私が首を縦に振るまで付き纏うつもりだろう。	게다가, 그녀의 태도를 보니 내가 안 도와주면 계속 괴롭힐 것 같았다.	And with that look she was giving me, it was clear she was going to pester me until I said yes.						0	
+page1.25	有空的时候，我帮你找就是了。	有空的時候，我幫你找就是了。	分かったよ。時間があるときに探してみるから。	시간 있으면 찾아줄게.	Fine, I'll keep an eye out for them.						0	
+page1.26	嗯。不过分析员这么主动，果然是心动了吧？你想要胁迫我这样可爱的美少女去做什么呢？	嗯。不過分析員這麼主動，果然是心動了吧？你想要脅迫我這樣可愛的美少女去做什麼？	うん。それにしても……分析員、めずらしく前向きだね。私みたいな美少女になにをさせる気なのかな？	응. 근데 분석가가 이렇게 적극적이니까 역시 설렜나봐? 나같이 귀여운 미소녀를 협박해서 뭐 하고 싶은데?	Hmm, seeing you jump at the task, Adjutant, are you perhaps a little too excited? What are you planning to make this pretty girl do?						0	
+page1.27	？？？	？？？	？？？	???	...						0	
+page1.28	（真找到卡片，我就胁迫你几天不打游戏吧！）	（真找到卡片，我就脅迫你幾天不打遊戲吧！）	本当にカードを見つけたら、数日間ゲーム禁止にしてやろうかな！	(카드를 진짜 찾으면, 며칠 동안 게임 못 하게 협박할 거야!)	(If I ever find those cards, I'll make you swear off gaming for a couple of days!)						0	

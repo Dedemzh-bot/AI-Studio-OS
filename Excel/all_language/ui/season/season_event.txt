@@ -1,0 +1,263 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+richmanlove_qaevent_q_01	请问管理新恒提罗的超级计算机的名称是？	請問管理新恆提羅的超級電腦的名稱是？	ニューガントラを管理するスーパーコンピュータの名称は？	뉴헨틸로를 관리하는 슈퍼컴퓨터 이름은?	What's the name of the supercomputer that manages New Hentiro?						0	
+richmanlove_qaevent_q_02	请问在新恒提罗前来接待分析员一行人的莱瓦汀成员是？	請問在新恆提羅前來接待分析員一行人的萊瓦汀成員是？	ニューガントラで分析員一行を迎えに来た「レーヴァテイン」のメンバーは？	뉴헨틸로에 분석가와 일행을 맞이하러 온 레바틴 멤버는?	Who's the Laevatain member who greeted the Adjutant and the operatives in New Hentiro?						0	
+richmanlove_qaevent_q_03	请问里芙在新恒提罗去的疗养基地名称是？	請問里芙在新恆提羅去的療養基地名稱是？	ニューガントラでリフが行った療養基地の名称は？	리브가 뉴헨틸로에서 갔던 요양기지 이름은?	What's the name of the treatment center that Lyfe went to in New Hentiro?						0	
+richmanlove_qaevent_q_04	请问新恒提罗最高的建筑是？	請問新恆提羅最高的建築是？	ニューガントラで一番高い建物は？	뉴헨틸로에서 가장 높은 건물은?	What is the tallest building in New Hentiro?						0	
+richmanlove_qaevent_q_05	在新恒提罗，上传意识并以虚拟形象出现的人被统一称为？	在新恆提羅，上傳意識並以虛擬形像出現的人被統一稱為？	ニューガントラで、意識をアップロードしてアバターとして現れる人を何と呼ぶ？	뉴헨틸로에서 자신의 의식을 업로드하고 가상 형상으로 나타나는 사람들을 통칭해서 부르는 표현은?	What is the term for a person who uploads their consciousness and lives as a virtual avatar in New Hentiro?						0	
+richmanlove_qaevent_q_06	请问瑟瑞斯在汉诺塔中身穿的战术套装名称是什么？	請問瑟瑞斯在漢諾塔中身穿的戰術套裝名稱是什麼？	シーリスがハノイの塔で着ていた戦術装備の名称は？	세리스가 하노이 타워에서 입은 전술 슈트 이름은?	What is the name of the exosuit that Siris wore in the Tower of Hanoi?						0	
+richmanlove_qaevent_q_07	没有与分析员搭乘同一班空艇来到新恒提罗的人是？	沒有與分析員搭乘同一班空艇來到新恆提羅的人是？	分析員とは別行動でニューガントラに来たのは誰ですか？	분석가와 같은 비행선을 타고 뉴헨틸로에 오지 않은 인물은?	Who did not ride on the same Skyskiff to New Hentiro together with the Adjutant?						0	
+richmanlove_qaevent_q_08	请问龙舌兰在哪里初次见到分析员？	請問龍舌蘭在哪裡第一次見到分析員？	アガベと分析員が初めて出会った場所はどこ？	아가베가 분석가를 처음 만난 곳은?	Where did Agave first meet the Adjutant?						0	
+richmanlove_qaevent_q_09	请问分析员担任了安卡希雅所开发游戏的哪个职位？	請問分析員擔任了安卡希雅所開發遊戲的哪個職位？	アカシアが開発したゲームで、分析員が担当したのはどの部分？	아카시아가 개발한 게임에서 분석가가 맡은 역할은?	What is the Adjutant's role on the development team for Acacia's game "Star Master"?						0	
+richmanlove_qaevent_q_10	请问哪一种是凯茜娅最喜欢听的音乐类型？	請問哪一種是凱茜婭最喜歡聽的音樂類型？	カーシアが一番好きな音楽のジャンルは？	캐시아가 가장 좋아하는 음악은?	Which music genre does Katya love most?						0	
+richmanlove_qaevent_q_11	请问伊切尔是分析员从哪个地区带回来的？	請問伊切爾是分析員從哪個地區帶回來的？	分析員がイチェルを連れ帰ったのはどの地域？	분석가가 이첼을 데려왔던 지역은?	Where did the Adjutant bring back Eatchel from?						0	
+richmanlove_qaevent_q_12	请问恩雅喜欢的别人对她的称呼是？	請問恩雅喜歡的別人對她的稱呼是？	エンヤが喜ぶ呼び方は？	다른 대원들이 엔야를 부르는 호칭은?	What does Enya prefer to be called?						0	
+richmanlove_qaevent_q_13	请问云篆的原型来自辰星哪位家属的设计稿？	請問雲篆的原型來自辰星哪位家屬的設計稿？	雲篆のプロトタイプは辰星の家族の誰がデザインした？	미스트의 프로토타입을 디자인한 사람은 수성의 가족 중 누구일까요?	The design for Chenxing's exosuit Ethereal Cloud comes from a design draft made by which of her family members?						0	
+richmanlove_qaevent_q_14	请问妮塔平常深夜出现在基地大厅最有可能是在做什么？	請問妮塔平常深夜出現在基地大廳最有可能是在做什麼？	ニタが深夜に社員寮のロビーに現れたら、大抵何をしている？	니타가 늦은 밤에 숙소 로비에 나타날 때 하는 행동은?	What is Nita most likely doing in the Base hall late at night?						0	
+richmanlove_qaevent_q_15	请问芙提雅是以下哪个系统的开发者？	請問芙提雅是下列哪一個系統的開發者？	フリティアが開発したシステムはどれ？	프티야가 개발한 시스템의 이름은?	Which of the following systems did Fritia develop?						0	
+richmanlove_qaevent_q_16	请问谁曾是苔丝中学时期的老师？	請問誰曾經是黛斯中學時期的老師？	テスが中学生の頃に先生をやっていたのは誰？	테스의 중학교 시절 선생님은?	Who was once Tess' high school teacher?						0	
+richmanlove_qaevent_q_17	请问晴的追求与信仰是受到了哪位亲人的影响？	請問晴的追求與信仰是受到了哪位親人的影響？	晴の追求と信仰はどの家族の影響を受けた？	하루의 가치와 신념에 영향을 준 인물은?	Who in Haru's life influenced her ambitions and beliefs?						0	
+richmanlove_qaevent_q_18	请问琴诺的另一个人格的名字是？	請問琴諾的另一個人格的名字是？	チェルノのもう一人の人格の名前は？	체르노의 이중인격 인물 이름은?	What's the name of Cherno's other personality?						0	
+richmanlove_qaevent_q_19	请问肴的生日与哪一天离得最近？	請問肴的生日與哪一天最近？	肴の誕生日に一番近い日はどれ？	야오의 생일과 가까운 날은?	Which day is nearest to Yao's birthday?						0	
+richmanlove_qaevent_q_20	请问猫汐尔说话的句尾喜欢带哪个字？	請問貓汐爾說話的句尾喜歡帶哪個字？	マーシルがよく使う語尾はどれ？	시에라가 즐겨 쓰는 말투는?	What word does Mauxir like to add to the end of her sentences?						0	
+richmanlove_qaevent_q_21	请问恒沙的创造者是？	請問恆沙的創造者是？	ゴウシャを創ったのは誰？	항사의 창시자는?	Who is the creator of GANGES?						0	
+richmanlove_qaevent_a_01_a	恒沙	恆沙	ゴウシャ	항사	GANGES						0	
+richmanlove_qaevent_a_02_a	龙舌兰	龍舌蘭	アガベ	아가베	Agave						0	
+richmanlove_qaevent_a_03_a	心流园	心流園	フローガーデン	마음의 정원	Heartflow Garden						0	
+richmanlove_qaevent_a_04_a	汉诺塔	漢諾塔	ハノイの塔	하노이 타워	Tower of Hanoi						0	
+richmanlove_qaevent_a_05_a	升格体	升格體	昇格者	승격체	Transcendent						0	
+richmanlove_qaevent_a_06_a	瞬刻	瞬刻	刹那	크샤나	Ksana						0	
+richmanlove_qaevent_a_07_a	芬妮	芬妮	ファニー	페니	Fenny						0	
+richmanlove_qaevent_a_08_a	瓦尔基里比赛	瓦爾基里比賽	ヴァルキリーゲーム	발키리 게임	Valkyrie Games						0	
+richmanlove_qaevent_a_09_a	测试组组长	測試組組長	テストチームのリーダー	테스트 팀 리더	Lead Game Tester						0	
+richmanlove_qaevent_a_10_a	摇滚	搖滾	ロック	록	Rock						0	
+richmanlove_qaevent_a_11_a	耶洛沙	耶洛沙	イェロシャ	옐로샤	Yehrus						0	
+richmanlove_qaevent_a_12_a	姐姐大人	姐姐大人	お姉さま	누님	Big Sis						0	
+richmanlove_qaevent_a_13_a	母亲	母親	母親	수성 어머니	Her mother						0	
+richmanlove_qaevent_a_14_a	从零食柜拿吃的	從零食櫃拿吃的	スナック棚から食べ物を取る	캐비닛에서 간식 꺼내먹기	Taking something from the snack cabinet						0	
+richmanlove_qaevent_a_15_a	火种	火種	火種	불씨	Ember						0	
+richmanlove_qaevent_a_16_a	爷	爺	この私だ	플레이어	Me						0	
+richmanlove_qaevent_a_17_a	晴的父亲	晴的父親	晴の父親	하루 아버지	Haru's father						0	
+richmanlove_qaevent_a_18_a	莫尔索	莫爾索	ムルソー	모르소	Meursault						0	
+richmanlove_qaevent_a_19_a	冬至	冬至	冬至	동지	Winter solstice						0	
+richmanlove_qaevent_a_20_a	喵	喵	ニャ	냥	Nya						0	
+richmanlove_qaevent_a_21_a	陶的导师	τ的導師	τの恩師	τ 멘토	τ's mentor						0	
+richmanlove_qaevent_a_01_b	数码体	數位體	デジタル体	디지털체	Citizen Data						0	
+richmanlove_qaevent_a_02_b	望	望	ノゾム	노조미	Nozomi						0	
+richmanlove_qaevent_a_03_b	心汇园	心匯園	ブローガーデン	심련의 정원	Heartsink Garden						0	
+richmanlove_qaevent_a_04_b	巴别塔	巴別塔	バベルの塔	바벨 타워	Tower of Babel						0	
+richmanlove_qaevent_a_05_b	数码体	數位體	デジタル体	디지털체	Digital pet						0	
+richmanlove_qaevent_a_06_b	瞬息	瞬息	一瞬	크산나	Kasync						0	
+richmanlove_qaevent_a_07_b	里芙	里芙	リフ	리브	Lyfe						0	
+richmanlove_qaevent_a_08_b	新恒提罗空港	新恆提羅空港	ニューガントラ空港	뉴헨틸로 공항	Skyport of New Hentiro						0	
+richmanlove_qaevent_a_09_b	运营组组长	營運組組長	運営チームのリーダー	운영팀 리더	Operations Team Lead						0	
+richmanlove_qaevent_a_10_b	古典	古典	クラシック	클래식	Classical						0	
+richmanlove_qaevent_a_11_b	零区	零區	エリアゼロ	제로 구역	Containment Zone Aleph						0	
+richmanlove_qaevent_a_12_b	恩雅小姐	恩雅小姐	エンヤさん	아가씨	Miss Enya						0	
+richmanlove_qaevent_a_13_b	姐姐	姐姐	姉	수성 언니	Her older sister						0	
+richmanlove_qaevent_a_14_b	检查设备安全性	檢查裝置安全性	設備の点検	설비 안정성 검측하기	Checking the security of devices						0	
+richmanlove_qaevent_a_15_b	火源	火源	火源	불티	Little Fire						0	
+richmanlove_qaevent_a_16_b	凯茜娅	凱茜婭	カーシア	캐시아	Katya						0	
+richmanlove_qaevent_a_17_b	晴的母亲	晴的母親	晴の母親	하루 어머니	Haru's mother						0	
+richmanlove_qaevent_a_18_b	爱思特	愛思特	エステル	에스터	Esther						0	
+richmanlove_qaevent_a_19_b	夏至	夏至	夏至	하계	Summer solstice						0	
+richmanlove_qaevent_a_20_b	呜	嗚	うぅ	우	Ungh						0	
+richmanlove_qaevent_a_21_b	陶的同学	τ的同學	τの同級生	τ 교우	τ's classmate						0	
+richmanlove_qaevent_a_01_c	刚体	剛體	剛体	강체	Bionic						0	
+richmanlove_qaevent_a_02_c	黑色蜀葵	黑色蜀葵	アルセア	검은 접시꽃	Black Alcea Rosea						0	
+richmanlove_qaevent_a_03_c	心养园	心養園	フラーガーデン	심성의 정원	Heartgrow Garden						0	
+richmanlove_qaevent_a_04_c	香槟塔	香檳塔	シャンパンタワー	샴페인 타워	Champagne Tower						0	
+richmanlove_qaevent_a_05_c	信息体	資訊體	インフォメーション体	소식체	Informationist						0	
+richmanlove_qaevent_a_06_c	瞬间	瞬間	瞬間	크샨나	Kanskrit						0	
+richmanlove_qaevent_a_07_c	瑟瑞斯	瑟瑞斯	シーリス	세리스	Siris						0	
+richmanlove_qaevent_a_08_c	世界树公司	世界樹公司	ユグドラシル社	위그드라실	Yggdrasil headquarters						0	
+richmanlove_qaevent_a_09_c	画饼组组长	畫餅組組長	大風呂敷チームのリーダー	아트팀 리더	Lead Producer						0	
+richmanlove_qaevent_a_10_c	爵士	爵士	ジャズ	재즈	Jazz						0	
+richmanlove_qaevent_a_11_c	空间站	太空站	宇宙ステーション	우주정거장	Mistilteinn Station						0	
+richmanlove_qaevent_a_12_c	妹妹大人	妹妹大人	妹さま	언니	Sis Sama						0	
+richmanlove_qaevent_a_13_c	妹妹	妹妹	妹	여동생	Her younger sister						0	
+richmanlove_qaevent_a_14_c	睡不着四处活动	睡不著四處活動	眠れず歩き回る	이곳저곳 돌아다니기	Walking around everywhere, unable to sleep						0	
+richmanlove_qaevent_a_15_c	小太阳	小太陽	おひさまちゃん	리틀썬	Little Sunshine						0	
+richmanlove_qaevent_a_16_c	陶	τ	τ	τ	τ						0	
+richmanlove_qaevent_a_17_c	晴的朋友	晴的朋友	晴の友達	하루 친구	Haru's friend						0	
+richmanlove_qaevent_a_18_c	卡罗琳	卡羅琳	カロリン	캐롤린	Caroline						0	
+richmanlove_qaevent_a_19_c	春分	春分	春分	춘분	Spring equinox						0	
+richmanlove_qaevent_a_20_c	哼	哼	ふん	흥	Heh						0	
+richmanlove_qaevent_a_21_c	陶的助手	τ的助手	τの助手	τ 조수	τ's assistant						0	
+richmanlove_rollevent_q_01	路遇升格体偶像的街头表演，你选择？	路遇升格體偶像的街頭表演，你選？	道中で昇格者アイドルがストリートライブをしているのを見かけた。どうしますか？	길에서 승격체 아이돌의 길거리 퍼포먼스를 마주쳤다. 당신의 선택은?	You come across the street performance of a transcendent idol. You choose to:						0	
+richmanlove_rollevent_q_02	是时候展现真正的实力了！你选择？	是時候展現真正的力量了！你選？	財力を見せつける時が来た！どうしますか？	진정한 실력을 보여줄 시간이다! 당신의 선택은?	It's time to show the power of your wallet! What do you choose?						0	
+richmanlove_rollevent_q_03	你希望回家前能遥控家居终端为你预备好……？	你希望回家前能遙控家居終端為你預備好…？	家に着く前にスマートホーム端末に用意しておいてほしいのは何ですか？	집에 가기 전, 사전 준비를 위해 어떤 가구의 단말기를 조종하길 원하는가?	Before you arrive home, what do you remotely request your smart-home system to prepare?						0	
+richmanlove_rollevent_q_04	打算从这里带点纪念品回去，你选择？	打算從這裡帶點紀念品回去，你選？	ここの記念品を持ち帰るとしたら、どれにしますか？	이곳에서 기념품을 가져갈 계획이다. 당신의 선택은?	You want to bring back a souvenir. What do you choose?						0	
+richmanlove_rollevent_q_05	虚拟社区菜品上新，你选择？	虛擬社區菜色上新，你選？	バーチャルコミュニティに新しい料理が登場しています。どれにしますか？	가상 커뮤니티에 새로운 메뉴가 나왔다. 당신의 선택은?	New dishes are available in the community. What do you choose?						0	
+richmanlove_rollevent_q_06	面前有一个手势识别锁，你认为解锁动作会是？	面前有手勢辨識鎖，你認為解鎖動作會是？	目の前にジェスチャー認識ロックがあります、それを解除できるジェスチャーはどれですか？	눈앞에 손동작 인식 잠금장치가 있다. 잠금을 해제할 동작은?	There is a gesture recognition lock in front of you. What action do you think will unlock it?						0	
+richmanlove_rollevent_q_07	奇妙约会场景人气榜~请投出你宝贵的一票！	奇妙約會場景人氣榜~請投出你寶貴的一票！	不思議なデートシーン人気ランキング！貴重な一票を！	기묘한 데이트 장면에서 좋아하는 장면은?	Please cast your precious vote for the Most Magical Date Location!						0	
+richmanlove_rollevent_q_08	现在什么时候了？	現在什麼時候了？	時間は大丈夫ですか？	지금이 몇 시쯤이지…	What time is it now?						0	
+richmanlove_rollevent_q_09	下一步打算……？	下一步打算…？	次はどうしますか……？	다음 계획은…?	Your next step is...?						0	
+richmanlove_rollevent_q_10	你最喜欢的心动派对宣传语是？	你最喜歡的心動派對宣傳語是？	一番お気に入りのトキメキ大合戦のキャッチコピーはどれですか？	가장 좋아하는 바운스 파티 문구는?	What's your favorite Loverush Party slogan?						0	
+richmanlove_rollevent_q_11	派对惊喜！幸运的分析员，以下体验你希望选择……？	派對驚喜！幸運的分析員，以下體驗你希望選擇…？	大合戦サプライズ！幸運な分析員さん、次のうち、どれを体験したいですか？	짜잔! 서프라이즈! 다음 체험으로 원하시는 콘텐츠는?	Party surprise! Hey, lucky guy, which of the following experiences would you choose...?						0	
+richmanlove_rollevent_q_12	心动派对体验回访之——您偏好的房间类型是？	心動派對體驗回訪之－您偏好的房型是？	トキメキ大合戦についてのアンケート：お気に入りの部屋のタイプは？	바운스 파티 체험 ㅡ 선호하는 방 유형은?	Loverush Party Returning Player Survey: What type of room would you prefer?						0	
+richmanlove_rollevent_q_13	心动派对体验回访之——为自己选择一个社区账号的个性标签吧！	心動派對體驗回訪之－為自己選擇一個社區帳號的個人標籤吧！	トキメキ大合戦についてのアンケート：自分のコミュニティアカウントの個性に合ったタグを選択しましょう！	바운스 파티 체험 ㅡ 스스로를 위해 커뮤니티 계정의 개성있는 태그를 선택해 보자!	Loverush Party Returning Player Survey: Choose a personalized signature for your community account!						0	
+richmanlove_rollevent_q_14	心动派对体验回访之——请为进入心动派对的通道起个超棒的名字！	心動派對體驗回訪之－請為進入心動派對的通道取個超棒的名字！	トキメキ大合戦についてのアンケート：トキメキ大合戦に入る時の通路に素敵な名前をつけましょう！	바운스 파티 체험 ㅡ 바운스 파티로 진입하는 입구에 멋진 이름을 지어보자!	Loverush Party Returning Player Survey: Please come up with an excellent name for the entranceway to Loverush Party!						0	
+richmanlove_rollevent_q_15	信箱提示！检测到连续多封空白邮件，请问如何处理？	信箱提示！偵測到連續多封空白郵件，請問如何處理？	メール通知！白紙のメールが何件も連続で届いていました。どうしますか？	메일 알림! 연속으로 여러 개의 빈 메일을 감지했다. 어떻게 처리할 건가?	Mailbox Prompt: Consecutive empty messages have been detected in your mail. How would you like to proceed?						0	
+richmanlove_rollevent_q_16	派对惊喜！派对构建者在底层代码中为分析员准备了三份礼物，你选择？	派對驚喜！派對建構者在底層程式碼中為分析員準備了三份禮物，你選？	大合戦サプライズ！大合戦の開発者がソースコードの中にプレゼントを3つ用意しました。どれにしますか？	짜잔! 서프라이즈! 파티 빌더가 분석가를 위해 코드로 세 가지 선물을 준비했다. 무엇을 고를 것인가?	Party surprise! The party planner hid three gifts deep in the game's code for the Adjutant. What do you choose?						0	
+richmanlove_rollevent_q_17	接下来想做什么？	接下來想做什麼？	次は何がしたいですか？	계속해서 무엇을 할 것인가?	What would you like to do now?						0	
+richmanlove_rollevent_q_18	从天空落下一根洁白羽毛，你觉得这会是？	從天空落下一根潔白羽毛，你覺得這會是？	空から1枚の真っ白な羽が舞い落ちてきました。これは何だと思いますか？	하늘에서 하얀 깃털이 떨어졌다. 그 정체는 무엇일까?	A white feather is falling from the sky. What do you think it is?						0	
+richmanlove_rollevent_q_19	前方有三扇门，你想要推开的是？	前方有三扇門，你想推開的是？	目の前に3つの扉があります、どれを開けたいですか？	전방에 세 개의 문이 있다. 열고 싶은 문은?	There are three doors in front of you. Which one do you open?						0	
+richmanlove_rollevent_q_20	突发！街上的投影屏出现了不同程度的故障，你选择？	突發！街上的投影螢幕出現了不同程度的故障，你選擇？	突発！街中のスクリーンが故障しているようです。どうしますか？	긴급 상황! 거리의 프로젝터 스크린이 고장났다. 어떻게 할 것인가?	Emergency! The display screens on the street are malfunctioning. What do you choose?						0	
+richmanlove_rollevent_q_01_a	强势穿过	強勢穿過	まっすぐ通り抜ける	억지로 통과한다	Pass through assertively						0	
+richmanlove_rollevent_q_02_a	V50	課金50	50送金する	V50	Send 50 DigiCash						0	
+richmanlove_rollevent_q_03_a	全套设施的浴室	全套設施的浴室	道具の揃ったバスルーム	완비된 욕실	A fully-equipped shower						0	
+richmanlove_rollevent_q_04_a	心动派对纪念徽章	心動派對紀念徽章	トキメキ大合戦の記念紋章	바운스 파티 기념 훈장	Loverush Party commemorative badge						0	
+richmanlove_rollevent_q_05_a	柔柔~浓香蛋包饭	柔柔~濃香蛋包飯	ふんわりとろける激ウマオムライス	향기로운 오므라이스	Soft, fragrant omelette rice						0	
+richmanlove_rollevent_q_06_a	比个心	比個心	指ハート	하트	Hand heart						0	
+richmanlove_rollevent_q_07_a	沙漠荒原废土风	沙漠荒原廢土風	砂漠や荒地	사막의 황무지 바람	Desert wasteland style						0	
+richmanlove_rollevent_q_08_a	莫慌，还早	莫慌，還早	大丈夫、まだ時間はある	긴장은 금물이다. 아직 이르다	No worries, it's still early						0	
+richmanlove_rollevent_q_09_a	先迈左脚	先邁左腳	左足を先に踏み出す	왼발부터 내딛기	Left foot first						0	
+richmanlove_rollevent_q_10_a	在心动派对，拥有一切	在心動派對，擁有一切	トキメキ大合戦ですべてを手に入れる	바운스 파티에서 모든 것을 누려보세요	Have it all in Loverush Party						0	
+richmanlove_rollevent_q_11_a	每天拥有一个新的身份	每天擁有一個新的身分	毎日身分が変わる	매일 새로운 정체성 확립하는 것	Have a new identity every day						0	
+richmanlove_rollevent_q_12_a	能看到庆典活动的房间	能看到慶典活動的房間	フェスティバルを眺められる部屋	축제 행사를 볼 수 있는 방	A room where I can see the Celebration Event						0	
+richmanlove_rollevent_q_13_a	渊博的分析员	淵博的分析員	博識の分析員	지식이 풍부한 분석가	Erudite Adjutant						0	
+richmanlove_rollevent_q_14_a	“怦怦快线”	“怦怦快線”	「トキメキエキスプレス」	쿵쿵 익스프레스	Heartbeat Express						0	
+richmanlove_rollevent_q_15_a	邮箱故障排查	信箱故障排查	メールの不具合を調査	이메일 문제 해결하기	Troubleshoot the mailbox						0	
+richmanlove_rollevent_q_16_a	第一份礼物	第一份禮物	1つ目のプレゼント	첫 번째 선물	The first gift						0	
+richmanlove_rollevent_q_17_a	e属性爆发！去集市逛街~	暴走屬性觸發！去市集逛街~	外交的な気分だ！市場に行こう！	극 E 발동! 마트로 쇼핑하러~	Extrovert attribute boost! Go shopping at the market~						0	
+richmanlove_rollevent_q_18_a	秘境的钥匙	祕境的鑰匙	秘境の鍵	비밀의 영역으로 가는 열쇠	The key to a mystery						0	
+richmanlove_rollevent_q_19_a	聊门	聊門	交流の扉	채팅방	Chat Door						0	
+richmanlove_rollevent_q_20_a	速速联络管理部门	速速聯絡管理部門	すぐ管理部門に連絡する	신속히 관리부서에 연락하기	Quickly contact the management department						0	
+richmanlove_rollevent_q_01_b	绕道而行	繞道而行	迂回する	우회해서 간다	Go around						0	
+richmanlove_rollevent_q_02_b	V500	課金500	500送金する	V500	Send 500 DigiCash						0	
+richmanlove_rollevent_q_03_b	色香味全的美食	色香全的美食	完璧な料理	색과 향, 그리고 맛을 모두 갖춘 음식	A delicious, fragrant meal						0	
+richmanlove_rollevent_q_04_b	心动对象形象玩偶	心動對象形像玩偶	トキメキ相手のぬいぐるみ	마음에 드는 대상의 이미지 인형	Loverush Party girl doll						0	
+richmanlove_rollevent_q_05_b	砰砰！！心动气泡水	怦怦！！心動氣泡水	うっとり！トキメキソーダ	톡! 톡! 심장이 뛰는 탄산수	"Heartbeat" sparkling water						0	
+richmanlove_rollevent_q_06_b	比个耶	比個耶	ピース	빅토리	Peace sign						0	
+richmanlove_rollevent_q_07_b	热带雨林神秘风	熱帶雨林神秘風	不思議なジャングル	열대 우림의 신비한 바람	Mystical rainforest style						0	
+richmanlove_rollevent_q_08_b	留给我的时间不多了	留給我的時間不多了	残された時間はもう多くない	시간이 별로 안남았다	We're running out of time						0	
+richmanlove_rollevent_q_09_b	先迈右脚	先邁右腳	右足を先に踏み出す	오른발부터 내딛기	Right foot first						0	
+richmanlove_rollevent_q_10_b	爱意充盈，心动无限	愛意充盈，心動無限	愛に満たされ、止まらない心臓の鼓動	두근거리는 가슴, 알콩달콩한 사랑	Let the heart beat and the love flow						0	
+richmanlove_rollevent_q_11_b	每天重生在不同世界	每天重生在不同世界	毎日違う世界に転生する	매일 다른 세상에서 다시 태어나는 것	Be reborn in a different world every day						0	
+richmanlove_rollevent_q_12_b	位于安静地带的房间	位於安靜地帶的房間	静かな部屋	조용한 지역의 방	A quiet room in a peaceful area						0	
+richmanlove_rollevent_q_13_b	勇敢的分析员	勇敢的分析員	勇敢な分析員	용감한 분석가	Brave Adjutant						0	
+richmanlove_rollevent_q_14_b	“心动隧道”	“心動隧道”	「トキメキトンネル」	바운스 터널	Loverush Tunnel						0	
+richmanlove_rollevent_q_15_b	举报邮件来源	檢舉郵件來源	メールの発信者を通報する	메일 소스 신고하기	Report the source of the messages						0	
+richmanlove_rollevent_q_16_b	第二份礼物	第二份禮物	2つ目のプレゼント	두 번째 선물	The second gift						0	
+richmanlove_rollevent_q_17_b	i属性爆发！去小巷饮茶~	休閒屬性觸發！去小巷飲茶~	内向的な気分だ！路地裏でお茶を飲む！	극 I 발동! 골목에서 차 한잔~	Introvert attribute boost! Go to the alley for a cup of tea~						0	
+richmanlove_rollevent_q_18_b	退出的开关	退出的開關	ログアウトボタン	출구 스위치	An exit switch						0	
+richmanlove_rollevent_q_19_b	芙门	芙門	ファンの扉	공방	Lyfe's Door						0	
+richmanlove_rollevent_q_20_b	检修之魂觉醒~看我的！	檢修之魂覺醒~看我的！	点検の魂が覚醒した！私に任せて！	스스로 점검해 보기	The repairman in you awakens... Watch this!						0	
+richmanlove_rollevent_q_01_c	不急，跟她耍耍	不急，跟她耍耍	落ち着いて彼女に付き合う	서두르지 않고 그녀와 놀아준다	No rush, play with her a bit						0	
+richmanlove_rollevent_q_02_c	V5000	課金5000	5000送金する	V5000	Send 5,000 DigiCash						0	
+richmanlove_rollevent_q_03_c	我全都要！	我全都要！	全部欲しい！	전부 다 원한다	I want all of them!						0	
+richmanlove_rollevent_q_04_c	心动体验纪念相册	心動體驗紀念相簿	トキメキ記念アルバム	바운스 체험 기념 앨범	Loverush Party commemorative album						0	
+richmanlove_rollevent_q_05_c	闪闪*绵密小蛋糕	閃閃*綿密小蛋糕	きらり☆ゆるふわケーキ	샤방샤방*촘촘한 미니 케이크	Sparkle fluffy cupcakes						0	
+richmanlove_rollevent_q_06_c	比个OK	比個OK	OKサイン	오케이	OK gesture						0	
+richmanlove_rollevent_q_07_c	赛博朋克电子风	賽博朋克電子風	サイバーパンクスタイルの場所	사이버펑크 일렉트로닉 스타일	Cyberpunk electronic style						0	
+richmanlove_rollevent_q_08_c	现在是，幻想时间！	現在是，幻想時間！	今は妄想の時間だ！	지금이야 말로 최적의 시간이다	It's fantasy time!						0	
+richmanlove_rollevent_q_09_c	等灯等灯	等燈等燈	信号が変わるのを待つ	신호를 기다리기	Wait in place						0	
+richmanlove_rollevent_q_10_c	加入这场心动派对！	加入這場心動派對！	トキメキ大合戦に参加しましょう！	바운스 파티에 참여해 보세요!	Join this Loverush Party!						0	
+richmanlove_rollevent_q_11_c	每天试用一种超能力	每天試用一種超能力	毎日超能力を1つ使える	매일 초능력을 시험해 보는 것	Try out a new superpower every day						0	
+richmanlove_rollevent_q_12_c	有可爱宠物的房间	有可愛寵物的房間	かわいいペットがいる部屋	귀여운 애완동물이 있는 방	A room with cute pets						0	
+richmanlove_rollevent_q_13_c	帅气的分析员	帥氣的分析員	かっこいい分析員	잘생긴 분석가	Handsome Adjutant						0	
+richmanlove_rollevent_q_14_c	“甜蜜邀约”	“甜蜜邀請”	「甘い誘い」	달콤한 초대	Sweet-Date Way						0	
+richmanlove_rollevent_q_15_c	重启系统试试	重啟系統試試	システムを再起動してみる	시스템 다시 시작하기	Try restarting the system						0	
+richmanlove_rollevent_q_16_c	第三份礼物	第三份禮物	3つ目のプレゼント	세 번째 선물	The third gift						0	
+richmanlove_rollevent_q_17_c	分析员属性爆发！连线海姆达尔队员~	分析員屬性觸發！連線海姆達爾隊員~	仲間と話したい気分だ！ヘイムダル隊員に連絡！	분석가 발동! 헤임달 대원과 연결~	Adjutant attribute boost! Call the Heimdall operatives~						0	
+richmanlove_rollevent_q_18_c	某人的收藏	某人的收藏	誰かのコレクション	어떤 사람의 수집품	Someone's treasure						0	
+richmanlove_rollevent_q_19_c	任意门	任意門	好きな場所に行ける扉	랜덤방	Anywhere Door						0	
+richmanlove_rollevent_q_20_c	出门方式不对，重出！	出門方式不對，重出！	出かけるときに何か間違ったんだろう。仕切り直し！	나가는 방식이 잘못됐다. 다시 나가자!	Try going out again to see if it changes						0	
+richmanlove_rollevent_qa_12_a	我们将为您增设更多精彩活动，敬请关注！	我們將為您增設更多精彩活動，敬請關注！	もっと面白いイベントを追加する予定です！乞うご期待！	흥미로운 이벤트를 계속해서 추가할 예정이오니 지켜봐 주시기 바랍니다!	We will add more exciting activities for you. Please stay tuned!						0	
+richmanlove_rollevent_qa_13_a	现在你已经是渊博的分析员了！请领取属于你的奖品！	現在你已經是淵博的分析員了！請領取屬於你的獎品！	あなたは博識の分析員になりました！賞品をお受け取りください！	이제 지식이 풍부한 분석가가 되었어요! 보상을 수령해 주세요!	Now you're the Erudite Adjutant! Please claim your prize!						0	
+richmanlove_rollevent_qa_14_a	怦怦快线，即刻发车~感谢您活泼的命名！	怦怦快線，即刻發車~感謝您活潑的命名！	トキメキエキスプレス、まもなく発車！活気のある名前をありがとうございます！	쿵쿵 익스프레스가 지금 바로 출발합니다~ 생기발랄한 이름을 지어주셔서 감사드려요!	All aboard the Heartbeat Express~ Thanks for the cute name!						0	
+richmanlove_rollevent_qa_15_a	滴滴！邮箱自检完成，已更新至稳定版本	滴滴！信箱自我檢測完成，已更新至穩定版本	ピピッ！メールシステム自己検査完了、安定しているバージョンに更新しました	띵동! 메일 자가 진단 완료. 안정적인 버전으로 업데이트 되었어요.	Beep beep! Mail self-check completed, updated to stable version.						0	
+richmanlove_rollevent_qa_16_a	象征着爱与智慧的心动礼包~奖励给不断精进的你！	象徵愛與智慧的心動禮包~獎勵給不斷精進的你！	愛と知恵を象徴するトキメキパック！精進し続けるあなたへのご褒美！	사랑과 지혜를 상징하는 바운스 패키지~ 부단한 발전에 드리는 보상이에요~	The gift pack symbolizing love and wisdom for your continuous improvement~						0	
+richmanlove_rollevent_qa_12_b	我们将为您管理居所的周边环境，还请放心！	我們將為您管理居所的周邊環境，也請放心！	住所周辺の環境を整えますので、ご安心ください！	거주지 주변을 관리해 드릴 것이니 안심하세요!	Rest assured, we will take care of the area around your room!						0	
+richmanlove_rollevent_qa_13_b	现在你已经是勇敢的分析员了！请领取属于你的奖品！	現在你已經是勇敢的分析員了！請領取屬於你的獎品！	あなたは勇敢な分析員になりました！賞品をお受け取りください！	이제 용감한 분석가가 되었어요! 보상을 수령해 주세요!	Now you're the Brave Adjutant! Please claim your prize!						0	
+richmanlove_rollevent_qa_14_b	心动隧道，连通无限~感谢您专业的命名！	心動隧道，連通無限~感謝您專業的命名！	トキメキトンネル、無限につなぐ！立派な名前をありがとうございます！	바운스 터널, 무한연결~ 전문적인 이름을 지어주셔서 감사드려요!	Loverush Tunnel, come out of it in love~ Thanks for the professional name!						0	
+richmanlove_rollevent_qa_15_b	滴滴！感谢反馈，请查收系统奖励。	滴滴！感謝回饋，請查收系統獎勵。	ピピッ！フィードバックありがとうございます。システム報酬をお受け取りください。	띵동! 피드백 완료. 시스템 보상을 확인해주세요.	Beep beep! Thanks for the feedback, please claim your system rewards.						0	
+richmanlove_rollevent_qa_16_b	象征着爱与勇气的心动礼包~奖励给奋勇向前的你！	象徵愛與勇氣的心動禮包~獎勵給奮勇向前的你！	愛と勇気を象徴するトキメキパック！邁進するあなたへのご褒美！	사랑과 용기를 상징하는 바운스 패키지~ 용감하게 전진하는 모습에 드리는 보상이에요~	The gift pack symbolizing love and bravery for your brave journey forward~						0	
+richmanlove_rollevent_qa_12_c	我们将为您准备可爱的陪伴爱宠，包您满意！	我們將為您準備可愛的陪伴愛寵，包您滿意！	満足いただけるようかわいいペットをご用意いたします！	만족하실 수 있도록 사랑스러운 반려동물을 준비해 드릴게요!	We will prepare an excellent pet companion for you. Satisfaction guaranteed!						0	
+richmanlove_rollevent_qa_13_c	现在你已经是帅气的分析员了！请领取属于你的奖品！	現在你已經是帥氣的分析員了！請領取屬於你的獎品！	あなたはかっこいい分析員になりました！賞品をお受け取り下さい！	이제 멋진 분석가가 되었어요! 보상을 수령해 주세요!	Now you're the Handsome Adjutant! Please claim your prize!						0	
+richmanlove_rollevent_qa_14_c	与你共赴，甜蜜邀约~感谢您浪漫的命名！	與你共赴，甜蜜邀約~感謝您浪漫的命名！	甘い誘い、あなたと共に！ロマンチックな名前をありがとうございます！	함께하는 달콤한 초대~ 낭만적인 이름을 지어주셔서 감사드려요!	Meet me today, down Sweet-Date Way~ Thanks for the romantic name!						0	
+richmanlove_rollevent_qa_15_c	滴滴！故障已排查，请继续使用。	滴滴！故障已排查，請繼續使用。	ピピッ！不具合修正完了、引き続きご利用ください。	띵동! 오류가 해결되었어요! 계속해서 이용해 주세요~	Beep beep! The issue has been fixed, please continue using as normal.						0	
+richmanlove_rollevent_qa_16_c	象征着爱与梦想的心动礼包~奖励给从未放弃的你！	象徵愛與夢想的心動禮包~獎勵給從未放棄的你！	愛と夢を象徴するトキメキパック！諦めないあなたへのご褒美！	사랑과 꿈을 상징하는 바운스 패키지~ 포기하지 않는 모습에 드리는 보상이에요~	The gift pack symbolizing love and dreams for your never-give-up attitude~						0	
+richmanlove_rollevent_game	感谢您为少女们整理好了三双鞋子！散落的鞋子归位后，您发现她们都缺少一双很重要的鞋子。于是你决定给少女们送上一双	感謝您為女孩們整理了三雙鞋！散落的鞋子歸位後，您發現她們都缺少一雙很重要的鞋子。於是你決定送給少女們一雙	少女たちのために3足の靴を整理してくれてありがとうございます！散らかった靴を元の場所に戻すと、あなたは彼女たちのとても重要な一足が欠けていることに気付きました。あなたは少女たちに靴を贈ることに決めました。	소녀들을 위해 세 켤레의 신발을 정리해 주셔서 감사해요! 흩어져 있던 신발을 제자리에 돌려놓고 나서 아주 중요한 신발 한 켤레가 사라졌다는 사실을 깨달았어요. 그래서 소녀들에게 신발을 한 켤레 선물하기로 결정했어요.	Thank you for sorting 3 pairs of the girls' shoes! After you tidied up, you realize that they are all missing one very important type of shoe. You decide to give each of them a pair of:						0	
+richmanlove_rollevent_gamefail	看着少女们散落的鞋子，您发现她们还缺少一双很重要的鞋子。于是你决定给少女们送上一双	看著女孩們散落的鞋子，您發現她們還缺少一雙很重要的鞋子。於是你決定送給少女們一雙	少女たちが散らかした靴を見ていると、とても重要な一足が欠けていることに気付いた。そこで、少女たちに靴を贈ることを決めた。	소녀들의 흩어진 신발을 보며 그녀들에게 중요한 신발 한 켤레가 사라졌다는 사실을 깨달았어요. 그래서 소녀들에게 신발을 한 켤레 선물하기로 결정했어요.	While looking at the girls' disorderly shoes, you realize that they are all missing one very important type of shoe. You decide to give each of them a pair of:						0	
+richmanlove_rollevent_a_1	长筒靴	長筒靴	ロングブーツ	부츠	Boots						0	
+richmanlove_rollevent_a_2	乐福鞋	樂福鞋	ローファー	로퍼	Loafers						0	
+richmanlove_rollevent_a_3	拖鞋	拖鞋	スリッパ	슬리퍼	Flip flops						0	
+richmanlove_rollevent_a_4	芭蕾舞鞋	芭蕾舞鞋	トウシューズ	발레 신발	Ballet shoes						0	
+richmanlove_rollevent_a_5	滑板鞋	滑板鞋	スケートボードシューズ	보드 신발	Skate shoes						0	
+richmanlove_lifuevent_01_title	温泉还是泳池？	溫泉還是泳池？	温泉かプールか？	온천 or 수영장	Hot Spring or Swimming Pool?						0	
+richmanlove_lifuevent_02_title	雨中心曲	雨中心曲	雨の中の思い	빗속의 멜로디	Romance in the Rain						0	
+richmanlove_lifuevent_03_title	装点新居	裝點新居	新居の装飾	리모델링	Redecorating						0	
+richmanlove_lifuevent_04_title	纸上谈情	紙上談情	机上の恋	형식적인 감정	Feelings on the Table						0	
+richmanlove_lifuevent_05_title	同游观察	同遊觀察	二人で旅	동행 관찰	Observational Stroll						0	
+richmanlove_lifuevent_06_title	心动瞬间	心動瞬間	トキメキ瞬間	바운스 타임	Loverush Moments						0	
+richmanlove_lifuevent_01_q	里芙收到了一张温泉酒店的宣传单，你选择？	里芙收到了一張溫泉酒店的宣傳單，你選？	リフは温泉旅館のチラシをもらいました。どうしますか？	리브가 온천 호텔의 광고 전단지를 받았다. 당신의 선택은?	Lyfe received a flyer for a luxury hot spring resort. What do you choose?						0	
+richmanlove_lifuevent_02_q	和里芙一同散步的时候突然下起了雨，你选择？	和里芙一同散步的時候突然下起了雨，你選？	リフと一緒に散歩していると突然雨が降り始めました。どうしますか？	리브와 산책을 하던 중 갑자기 비가 내리기 시작했다. 당신의 선택은?	Suddenly it's raining while walking with Lyfe. What do you choose?						0	
+richmanlove_lifuevent_03_q	准备给里芙的新房间送点家具摆设，你选择？	準備給里芙的新房間送點傢俱擺設，你選？	リフの新しい部屋に置く家具や置物を贈るとしたら、どれにしますか？	리브의 방에 새로운 가구를 보내려고 한다. 당신의 선택은?	You're getting some furniture for Lyfe's new room. What do you choose?						0	
+richmanlove_lifuevent_04_q	里芙邀请你一起玩双人桌游，你选择？	里芙邀請你一起玩雙人桌遊，你選？	リフはアナログゲームに誘ってくれました。どうしますか？	리브가 2인용 보드게임을 하자고 제안한다. 당신의 선택은?	Lyfe invites you to play a two-player board game together. What do you choose?						0	
+richmanlove_lifuevent_05_q	碰见里芙在社区的花园里，你选择？	碰見里芙在花園裡，你選？	コミュニティの庭園でリフに出会いました。どうしますか？	커뮤니티의 가든 구역에서 리브를 만났다. 당신의 선택은?	You meet Lyfe in the community garden. What do you choose?						0	
+richmanlove_lifuevent_06_q	里芙邀请你一同制作影像合集，你选择？	里芙邀請你一同製作影像合集，你選？	リフは一緒にアルバムを作ろうと誘ってくれました。どうしますか？	리브가 영상 모음집을 만들자고 제안한다. 당신의 선택은?	Lyfe invites you to make a photo collage together. What do you choose?						0	
+richmanlove_lifuevent_01_q_a	走！去泡汤！	走！去泡湯！	温泉に行こう！	가자! 가서 몸 좀 담그자!	Let's go in the hot springs!						0	
+richmanlove_lifuevent_02_q_a	就近找个屋檐和她躲躲雨	就近找個屋簷和她躲躲雨	近くの軒下を探して彼女と雨宿りする	가까운 곳에 있는 지붕 밑으로 가서 비를 피한다.	Take shelter with her under the nearest roof						0	
+richmanlove_lifuevent_03_q_a	摆在房间的温馨装饰	擺在房間的溫馨裝飾	温もりのある飾り	방 안에 아늑한 장식으로 사용할 수 있는 것을 보낸다.	A warm decoration for the room						0	
+richmanlove_lifuevent_04_q_a	选择轻策类双人竞技游戏	選擇輕策略類雙人競技遊戲	ストラテジーバトルゲーム	간단하게 할 수 있는 2인용 전략형 대전 게임을 선택한다.	A competitive game light on strategy						0	
+richmanlove_lifuevent_05_q_a	带她去日光室看植物	帶她去日光室看植物	サンルームで一緒に植物を見る	그녀를 일광실로 데려가서 식물을 보여준다.	Take her to the sunroom to see the plants						0	
+richmanlove_lifuevent_06_q_a	选一张意外抓拍的搞怪影像	選一張意外抓拍的搞怪影像	偶然撮れたお茶目な写真を選ぶ	우연히 찍힌 웃긴 영상을 선택한다.	A funny photo of you two randomly posing						0	
+richmanlove_lifuevent_01_q_b	走！去住宿！	走！去住宿！	さあ！行こう！	가자! 숙소로!	Let's go stay there a night!						0	
+richmanlove_lifuevent_02_q_b	脱下外套遮雨快快跑回家	脫下外套遮雨快快跑回家	コートで雨を防ぎながら家まで走る	외투를 벗고 비를 맞으며 집으로 돌아간다.	Remove your coat to shield her from the rain and run home						0	
+richmanlove_lifuevent_03_q_b	冰山造型的冰激凌机	冰山造型的冰淇淋機	氷山の形のアイスクリームメイカー	빙산 모양의 아이스크림 기계를 보낸다.	An iceberg-shaped ice cream machine						0	
+richmanlove_lifuevent_04_q_b	选择重策类合作闯关游戏	選擇重策略類合作闖關遊戲	ストラテジー協力プレイゲーム	복잡한 전략형 게임을 선택한다.	A collaborative game heavy on strategy						0	
+richmanlove_lifuevent_05_q_b	和她一起在林荫道散步	和她一起在林蔭道散步	彼女と一緒に並木道を散歩する	그녀와 함께 산책을 한다.	Take a walk on the tree-covered path with her						0	
+richmanlove_lifuevent_06_q_b	选一张动作亲密的温馨影像	選一張動作親密的溫馨影像	二人が親しそうに見える写真を選ぶ	다정한 동작의 훈훈한 영상을 선택한다.	A heartfelt photo of you two intimately posing						0	
+richmanlove_fennievent_01_title	双人舞曲	雙人舞曲	デュエット舞曲	듀엣곡	Duet Dance						0	
+richmanlove_fennievent_02_title	户外运动	戶外運動	野外運動	야외 운동	Outdoor Sports						0	
+richmanlove_fennievent_03_title	奇妙晚餐	奇妙晚餐	不思議な夕食	기묘한 저녁 식사	Wonderful Dinner						0	
+richmanlove_fennievent_04_title	猫咪宝贝	貓咪寶貝	かわいいにゃんこ	고양이 아기	Baby Kitty						0	
+richmanlove_fennievent_05_title	鼻尖微甜	鼻尖微甜	ほろ甘い鼻先	코끝의 달콤함	Sweet Nose						0	
+richmanlove_fennievent_06_title	微涩伤痕	微澀傷痕	ほろ苦い傷跡	씁쓸한 상처	Slight Scars						0	
+richmanlove_fennievent_01_q	芬妮想邀请你和她跳一支舞，你选择？	芬妮想邀請你跟她跳一支舞，你選？	ファニーはあなたをダンスに誘いました。どうしますか？	페니가 당신과 춤을 추고자 한다. 당신의 선택은?	Fenny wants to invite you to dance with her. What do you choose?						0	
+richmanlove_fennievent_02_q	和芬妮一起打网球，你选择？	和芬妮一起打網球，你選？	ファニーと一緒にテニスをするとしたら、どうしますか？	페니와 함께 테니스를 친다. 당신의 선택은?	When playing tennis with Fenny, what do you do?						0	
+richmanlove_fennievent_03_q	与芬妮共进晚餐，服务机器人端来一盘颜色诡异的菜品，你选择？	與芬妮共進晚餐，服務機器人端來一盤顏色詭異的菜色，你選？	ファニーと一緒にディナーに行くと、ロボットが怪しい色の料理を出しました。どうしますか？	페니와 함께 저녁 식사를 하는 중이다. 서빙 로봇이 이상한 색깔의 요리를 가져왔다. 당신의 선택은?	While having dinner with Fenny, the service bot brings you a plate of strangely colored food. What do you choose?						0	
+richmanlove_fennievent_04_q	芬妮想和你共同抚养一只宠物，你选择？	芬妮想和你共同養寵物，你選？	ファニーはあなたと一緒にペットを飼いたがっています。どうしますか？	페니가 당신과 함께 애완동물을 키우고 싶어한다. 당신의 선택은?	Fenny wants to raise a pet with you. What do you choose?						0	
+richmanlove_fennievent_05_q	芬妮在吃冰淇淋的时候，蹭到了鼻尖上，你选择？	芬妮在吃冰淇淋的時候，蹭到了鼻尖上，你選擇？	ファニーがアイスクリームを食べる時に鼻先についた。どうしますか？	페니가 아이스크림을 먹다가 코에 묻히면 어떻게 하실 건가요?	While Fenny was enjoying an ice cream cone, she accidentally smeared some on her nose. What do you do?						0	
+richmanlove_fennievent_06_q	芬妮向你跑来时不小心磕到了膝盖，你选择？	芬妮向你跑來時不小心磕到了膝蓋，你選？	ファニーはあなたに駆け寄る時にうっかり膝をぶつけてしまいました。どうしますか？	패니가 당신을 향해 달려가다가 실수로 무릎을 부딪혔다. 당신의 선택은?	Fenny accidentally scraped her knee when she was running towards you. What do you choose?						0	
+richmanlove_fennievent_01_q_a	热烈奔放的双人探戈	熱烈奔放的雙人探戈	情熱的なタンゴ	경쾌한 듀오 탱고를 춘다.	A passionate tango						0	
+richmanlove_fennievent_02_q_a	全力以赴，这是对对手的尊重	全力以赴，這是對對手的尊重	相手を尊重して、全力を出す	전력을 다한다. 상대방에 대한 예의이기 때문이다.	Give your best effort, showing respect for your opponent						0	
+richmanlove_fennievent_03_q_a	上吧！英雄可不能临阵脱逃啊	上吧！英雄可不能臨陣脫逃啊	もちろん食べる！ヒーローはいざという時に逃げてはいけないのだ！	도전한다! 영웅은 도망치지 않는 법이니까.	Go for it! A hero doesn't get cold feet						0	
+richmanlove_fennievent_04_q_a	活泼好动的短毛卷耳猫	活潑好動的短毛捲耳貓	活発なカール耳の短毛猫	활발하고 활동적인 단모 곱슬 고양이를 선물한다.	An energetic, short-haired cat with curly ears						0	
+richmanlove_fennievent_05_q_a	偷偷拍下她可爱的样子	偷偷拍她可愛的樣子	こっそり彼女の可愛い姿を撮る	그녀의 귀여운 모습을 몰래 찍는다.	Sneak a pic of her adorable face						0	
+richmanlove_fennievent_06_q_a	扶着她到一边包扎	扶著她到一旁包紮	彼女を支えて道端に行き、手当てしてあげる	그녀를 부축하고 옆으로 가서 붕대를 감아준다.	Help her to the side and bandage her						0	
+richmanlove_fennievent_01_q_b	缓步轻摇的双人华尔兹	緩步輕搖的雙人華爾滋	穏やかなワルツ	부드러운 보폭으로 두 사람을 위한 왈츠를 춘다.	A slow-swinging waltz						0	
+richmanlove_fennievent_02_q_b	点到为止，充分体验互动乐趣	點到為止，充分體驗互動樂趣	全力を出さず、一緒に運動することを十分に楽しむ	적당히 하고 충분히 상호작용 체험을 즐긴다.	Savor the moment and enjoy the fun together						0	
+richmanlove_fennievent_03_q_b	慢着！没见过的食物先研究研究	慢著！沒看過的食物先研究研究	待て！見たことのない食べ物はまず調べないと	경계한다! 본 적이 없는 음식은 먼저 연구부터 해야하기 때문이다.	Wait a minute! Study the food you haven't seen before						0	
+richmanlove_fennievent_04_q_b	安静乖巧的长毛立耳猫	安靜乖巧的長毛立耳貓	静かでおとなしい立ち耳の長毛猫	조용하고 온순한 장모 직립 고양이를 선물한다.	A well-behaved, long-haired cat with straight ears						0	
+richmanlove_fennievent_05_q_b	帮她擦掉冰淇淋顺便亲一口	幫她擦掉冰淇淋順便親一口	ついたアイスクリームを拭き取り、ついでにキスする	아이스크림을 닦아주면서 그녀에게 입맞춤을 한다.	Help her wipe off the ice cream and kiss her						0	
+richmanlove_fennievent_06_q_b	背起她回房间休息	背起她回房間休息	彼女を背負って部屋に戻って休む。	그녀를 업고 방으로 데려간다.	Carry her back to her room to rest						0	
+richmanlove_molianevent_01_title	公园野餐	公園野餐	公園でピクニック	공원 피크닉	Picnic in the Park						0	
+richmanlove_molianevent_02_title	观影时光	觀影時光	映画の時間	영화 감상 시간	Movie Time						0	
+richmanlove_molianevent_03_title	惊险回忆	驚險回憶	スリルに満ちた思い出	아찔한 추억	Thrilling Memory						0	
+richmanlove_molianevent_04_title	怪怪滋味	怪怪滋味	変な味	이상한 맛	Strange Taste						0	
+richmanlove_molianevent_05_title	雏鸟浅眠	雛鳥淺眠	居眠りするひよこ	아기 새의 얕은 잠	Sleeping Fledgling						0	
+richmanlove_molianevent_06_title	亲密定制	親密訂製	親密なカスタム	친밀한 커스텀	Intimate and Custom						0	
+richmanlove_molianevent_01_q	茉莉安约你去户外野餐，你选择？	茉莉安約你去戶外野餐，你選？	マリアンはあなたをピクニックに誘いました。どこにしますか？	마리안이 야외 피크닉에 당신을 초대했다. 당신의 선택은?	Marian asks you out for a picnic. What do you choose?						0	
+richmanlove_molianevent_02_q	和茉莉安一起看电影，你选择？	和茉莉安一起看電影，你選？	マリアンと一緒に映画を見るとしたら、どうしますか？	마리안과 함께 영화를 보려 한다. 당신의 선택은?	You're going to watch a movie with Marian. What do you choose?						0	
+richmanlove_molianevent_03_q	茉莉安想体验刺激的高难度运动，你选择？	茉莉安想體驗刺激的高難度運動，你選？	マリアンは刺激的で難易度の高いアクティビティを試したがっています。どうしますか？	마리안과 자극적이고 고난이도의 운동을 체험하고자 한다. 당신의 선택은?	Marian wants to try an exciting and challenging sport. What do you choose?						0	
+richmanlove_molianevent_04_q	茉莉安用当地特产煮了一壶味道奇怪的茶邀请你品尝，你选择？	茉莉安用當地特產煮了一壺味道奇怪的茶邀請你品嚐，你選？	マリアンが地元の特産品のちょっと変わった味のお茶を淹れてくれました。どうしますか？	모리건은 지역 특산품을 사용해 이상한 맛의 차를 끓여 맛보기를 권유한다. 당신의 선택은?	Marian brews a strange-smelling pot of a special local tea and invites you to taste it. What do you choose?						0	
+richmanlove_molianevent_05_q	茉莉安在活动大厅的沙发一角睡着了，你选择？	茉莉安在活動大廳的沙發一角睡著了，你選？	マリアンがロビーのソファーで眠っています。どうしますか？	모리건은 행사장 소파 구석에서 잠들었다. 당신의 선택은?	Marian is asleep in a corner of the couch in the lobby. What do you choose?						0	
+richmanlove_molianevent_06_q	茉莉安希望你来制定她接下来的安排，你选择？	茉莉安希望你來製定她接下來的安排，你選？	マリアンは今後のスケジュールをあなたに立ててもらいたがっています。どうしますか？	마리안이 당신에게 그녀의 다음 일정을 편성해달라고 한다. 당신의 선택은?	Marian wants you to arrange her upcoming schedule. What do you choose?						0	
+richmanlove_molianevent_01_q_a	绿荫浓郁的林中草坪	綠蔭茂盛的林中草坪	芝生の生い茂る森の中	그늘지고 나무가 우거진 잔디밭으로 간다.	Grassy field in a lush forest						0	
+richmanlove_molianevent_02_q_a	有惊悚元素的悬疑片	有驚悚元素的懸疑片	スリリングなサスペンス映画	스릴러 요소가 가미된 ​​추리 영화를 본다.	A suspenseful thriller film						0	
+richmanlove_molianevent_03_q_a	能够紧密拥抱的跳伞运动	能夠緊密擁抱的跳傘運動	抱きしめることができるスカイダイビング	긴밀히 안아야 하는 낙하산 운동을 한다.	Skydiving that allows you to hug closely						0	
+richmanlove_molianevent_04_q_a	神秘食物要谨慎	神秘食物要謹慎	謎の飲食物に対しては慎重に	신비한 음식이라며 조심해한다.	Be cautious about mystery foods						0	
+richmanlove_molianevent_05_q_a	给她盖上毛毯	給她蓋上毛毯	彼女に毛布をかける	그녀를 담요로 덮어준다.	Put a blanket on her						0	
+richmanlove_molianevent_06_q_a	给她安排合理明确的计划表	給她安排合理明確的計畫表	合理的で明確なスケジュールを立てる	합리적이고 명확한 일정을 제공해 준다.	Make a reasonable and clear schedule for her						0	
+richmanlove_molianevent_01_q_b	花团锦簇的浪漫庭院	花團錦簇的浪漫庭院	花に囲まれたロマンチックな庭	꽃이 만발한 로맨틱 정원에 간다.	Romantic courtyard full of flowers						0	
+richmanlove_molianevent_02_q_b	有爱情元素的故事片	有愛情元素的劇情片	ロマンチックな恋愛映画	사랑이 가득한 이야기의 영화를 본다.	A romantic drama film						0	
+richmanlove_molianevent_03_q_b	讲究配合默契的接力速滑	講究配合默契的接力速滑	息を合わせることが大事なスピードスケートリレー	협업을 중시하는 릴레이 스피드 스케이팅을 탄다.	Relay speed skating that requires close coordination						0	
+richmanlove_molianevent_04_q_b	含泪痛饮三大杯……	含淚痛飲三大杯……	涙ながらにたくさん飲む……	눈물이 그렁그렁한 채 큰 잔으로 세 잔을 마신다.	Three cups filled with tears						0	
+richmanlove_molianevent_05_q_b	把她抱回房间	把她抱回房間	彼女を抱き上げて部屋まで運ぶ	그녀를 방으로 데려간다.	Carry her back to her room						0	
+richmanlove_molianevent_06_q_b	把待办事项纸条放到罐子里抽签	把待辦事項紙條放到罐子裡抽籤	やることを書いたメモを缶に入れて抽選で決める	몇 가지 일정의 메모를 병에 넣고 뽑기를 한다.	Put to-do notes in a jar and have her pick them out randomly						0	
+weeklyTitle	共度邀请	共度邀請	共に過ごす誘い	연인 초대장	Day Together Invite						0	
+weeklyTitledes	快乐的周末开始了，请邀请一位少女共度这一天	快樂的週末開始了，請邀請一位少女共度這一天	1人の少女を誘って、一緒に楽しい週末を過ごそう	행복한 주말이 시작됐으니 함께 데이트할 소녀를 초대해 보세요.	The weekend's arrived! Why not invite a special someone to spend the day together?						0	
+weeklyanswer	自己度过	自己度過	自分で過ごす	그냥 혼자서 보내고 싶어.	You prefer some alone time						0	

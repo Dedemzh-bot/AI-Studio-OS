@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	猫汐尔，你在看什么？	貓汐爾，你在看什麼？	マーシル、何を見てるの？	시에라, 뭘 보고 있는 거야?	Mauxir, what are you looking at?						0	
+page0.2	看扫地机器人喵。	看掃地機器人喵。	掃除ロボットを見てるニャン。	로봇청소기를 보고 있다냥.	I'm watching the robot vacuum, nya.						0	
+page0.3	嗯？它有什么不正常的地方吗？	嗯？它有什麼不正常的地方嗎？	あれ？何か変か？	왜? 어디 고장 났어?	Hmm? Is there something wrong with it?						0	
+page0.4	它和你们人类没什么区别，都只会按照预设的指令行动。	它和你們人類沒什麼區別，都只會按照預設的指令行動。	コイツはあなたたち人間と同じ、設定された命令に従って動くことしかできない。	인간이랑 다를 게 없다. 다들 예약한 대로 작동할 뿐이다.	It is no different from you humans. It only acts according to its pre-programmed instructions.						0	
+page0.5	你一脸平静地说出了很骇人听闻的话啊。	你一臉平靜地說出了很駭人聽聞的話啊。	その澄まし顔でなんて恐ろしいことを言うんだい。	아무렇지 않게 그런 무서운 말 좀 하지 마.	You said something so terrifying with such a calm expression...						0	
+page0.6	在卫城学院读书的时候，她们就经常讨论这个。	在衛城學院讀書的時候，她們就經常討論這個。	アクロポリス学院にいる時、学生たちがよくこういう話をしてた。	아크로폴리스 아카데미에 있을 때, 다들 이 얘기를 자주 했었다.	While I was studying at the Academica Acropolis, they often discussed this topic.						0	
+page0.7	“自由意志是否存在？”	“自由意志是否存在？”	「自由意思は存在するか否か。」	'자유로운 의지는 존재하는가?'	"Does free will truly exist?"						0	
+page0.8	至少我认为是存在的，比如我下午打算去外面买点薯条。	至少我認為是存在的，比如我下午打算去外面買點薯條。	存在すると思うよ。例えば、私は午後出かけてフライドポテトを買ってこようと考えている。	적어도 나는 존재한다고 생각해. 예를 들면, 난 오후에 나가서 감자튀김을 사 올 거거든.	I think it does, at least. For instance, I'm going out to buy some chips this afternoon.						0	
+page0.9	你相信你是自由的，但摄入食物是人类的本能。	你相信你是自由的，但攝入食物是人類的本能。	自分は自由だと信じていても、食事は人間の本能だよ。	넌 네가 자유롭다고 생각하겠지만, 음식을 섭취하는 건 인간의 본능이다.	You believe you are free, but it's only human nature to ingest food.						0	
+page0.10	另一方面，如果你不工作，拿不到工资，你就吃不上你的薯条了。	另一方面，如果你不工作，拿不到工資，你就吃不上你的薯條了。	しかも、働かないと給料がもらえないし、フライドポテトも食べられなくなってしまう。	게다가 네가 일하지 않으면 월급도 못 받고, 감자튀김도 못 먹게 될 거다.	On the other hand, if you don't work, you won't get paid, and you can't eat your chips.						0	
+page0.11	总而言之，到底是什么驱动着你做出决定呢？	總而言之，到底是什麼驅動著你做出決定呢？	ならば、あなたにそう決めさせるものはいったい何かな？	그럼 도대체 무엇이 네 결정을 조종하고 있는 건가?	Overall, what really drives your decision?						0	
+page0.12	你说得对，但我还是决定去买点薯条。	你說得對，但我還是決定去買點薯條。	なるほど。だが私はフライドポテトを買いに行く。	그래… 그래도 난 감자튀김을 사러 가야겠어.	You're right, but I'm going to get some chips anyway.						0	
+page0.13	你们人类还真是难懂喵。	你們人類還真是難懂喵。	あなたたち人間って難しいニャン。	인간은 정말 어렵다냥.	You humans are really hard to understand, nya.						0	

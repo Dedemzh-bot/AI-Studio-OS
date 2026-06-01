@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，放心，制作人早就为您设置了备用方案。	分析員，放心，製作人早就為您設定了備用方案。	安心して、分析員！プロデューサーがプランBを用意してるから！	분석가님, 걱정 마세요. 프로듀서가 분석가님을 위해 대비책을 마련해 두었습니다.	Don't worry, Adjutant, the developer already set up a backup plan for you.						0	dlc30蓝图岛对话
+page1.2	这是她为您准备的“小金库”~	這是她為您準備的「小金庫」~	彼女が用意した「ポケットマネー」をどうぞ～	프로듀서가 당신을 위해 준비한 '비상금'이에요~	This is the "secret stash" she prepared just for you~						0	dlc30蓝图岛对话

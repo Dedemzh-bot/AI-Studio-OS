@@ -1,0 +1,71 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	……将意识放在双脚，吸气，脚跟尽最大努力向上微微抬起。	……將力量集中在雙腳然後吸氣，盡力向上抬起腳跟。	……意識を両足に集中し、息を吸って、かかとをできるだけゆっくりと上げるんだ。	… 양발에 정신을 집중하고 숨을 들이마셔. 그리고 발뒤꿈치를 최대한 들어봐.	...Focus on your feet. Inhale, then slowly lift your heels up, as high as you can.						0	
+2	很好，就这样保持十次呼吸的时间。	很好，保持這個姿勢呼吸十次。	よし、10回呼吸するまでこのポーズを維持するぞ。	좋아, 계속해서 10번만 호흡하면 돼.	Excellent. Maintain this position for 10 breaths.						0	
+b-1											0	
+3	我……感觉……不太好……	我……感覺……不太好……	なんか……やばい……感じが……	느낌이… 별로… 좋지 않아요…	I don't... feel... so good...						0	
+4	分析员，最大的敌人不是体能，而是你想要放弃的意志。	分析員，最大的敵人不是體能，而是你想要放棄的念頭。	分析員、一番の敵は体力ではなく、諦めようとする意志なんだ。	분석가, 가장 큰 적은 체력이 아니라 포기하려는 의지야.	Adjutant, your biggest obstacle isn't a lack of strength — it's the temptation to give up.						0	
+5	再坚持一下。	再堅持一下。	もうちょっと頑張れ。	조금만 더 버텨봐.	Hang in there a little longer.						0	
+6	我觉得我需要转移一下注意力。	我覺得我需要轉移一下注意力。	ほかのことを考えたほうがいいかも。	주의력을 다른 쪽으로 돌려야 할 것만 같았다.	I needed to distract myself.						0	
+b-2											0	
+7	（想象自己在海边休假）	（想像自己在海邊休假）	（浜辺で休日を堪能する様子を想像する）	(해변에서 휴가를 보내고 있다고 생각하자)	(Imagining myself on vacation at the beach)						0	
+8	（想象自己在升职加薪）	（想像自己在升職加薪）	（自分が昇進昇給した様子を想像する）	(승진하고 월급이 올랐다고 생각하자)	(Imagining myself getting a promotion and a raise)						0	
+9	完全没用！我感到脚尖传来火辣辣的疼痛。	完全沒用！我感到腳尖傳來火辣的疼痛感。	効果なし！足先がヒリヒリする。	전혀 소용이 없다! 발끝에서 불타는 듯한 통증이 느껴진다.	It was hopeless! I started to feel a burning pain in my toes.						0	
+10	不好！只是因为疼痛稍稍分心，我立马感觉到自己正在失去平衡。	慘了！只是因為疼痛稍稍分心，我的身體立刻失去平衡。	やばい！痛みで少し集中が途切れただけなのに、すぐにバランスが崩れるのを感じる。	이런! 통증 때문에 잠깐 주의력이 분산되었더니, 금세 내 몸이 균형을 잃고 있는 것이 느껴진다.	Uh oh! After only focusing on the pain for a few seconds, I immediately started to feel like I was losing my balance.						0	
+11	我以不太得体的方式摔倒在地上。	我姿勢難看的摔倒在地上。	私はみっともなく転んだ。	결국에 난 처참하게 바닥으로 꼬꾸라진다.	I fell to the ground clumsily.						0	
+12	没有受伤吧？	沒有受傷吧？	大丈夫か？	다친 건 아니지?	Are you alright?						0	
+13	作为“教练”的晴立马将我扶起来，然后开始安慰我。	作為“教練”的晴立刻扶我起來，然後開始安慰我。	「コーチ」である晴はすぐに私を立ち上がらせ、優しい声をかけてくれた。	'코치'의 역할을 하는 하루가 바로 날 부축하고 위로한다.	Yogi Haru helped me up right away, then began to comfort me.						0	
+14	没关系，摔倒了也很厉害。	沒關係，堅持這麼久也很厲害了。	大丈夫、転んでしまったが、とてもヨガらしさが出ていたぞ。	괜찮아, 넘어졌지만 충분히 훌륭했어.	It's okay. You did a great job lasting that long.						0	
+b-3											0	
+15	……	……	……	...	...						0	
+16	不知道为什么，晴的安慰反而莫名刺痛我。	不知道為什麼，晴的安慰反而莫名刺痛我。	なぜかは分からないが、その慰め言葉がかえって私にダメージを与えた。	왠지 모르겠지만, 하루의 위로가 오히려 나를 자극한다.	For some reason, Haru's words of comfort stung.						0	
+b-4											0	
+17	晴……	晴……	晴……	하루…	Haru...						0	
+b-5											0	
+18	继续，我还能继续！	繼續，我還能繼續！	まだ、まだ頑張れるから！	계속해요, 아직 더 할 수 있어요!	Let's try again! I can keep going!						0	
+19	一段时间后……	一段時間後……	しばらく経つと……	한참 뒤…	After some time...						0	
+20	每个人都有不擅长的事情，不必勉强……	每個人都有不擅長的事情，不必勉強……	人にはそれぞれ向き不向きがあるから、無理しなくても……	누구나 못 하는 게 있는 법이야, 너무 무리할 필요는 없어…	Everyone has things they struggle with. Don't force yourself...						0	
+21	分析员，你为什么这样看我。	分析員，你為什麼這樣看我。	分析員、なぜそんな目で見る？	분석가, 왜 그런 눈으로 보는 거야?	Adjutant, why are you looking at me like that?						0	
+b-6											0	
+22	你不用再安慰我了，真的。	你不用再安慰我了，真的。	もう慰めなくてもいいから、本当。	더 위로해 줄 필요 없어요, 정말이에요.	You don't need to comfort me. Really.						0	
+23	可是……	可是……	しかし……	그렇지만…	But...						0	
+b-7											0	
+24	真的，真的，不用了。	真的，真的，不用了。	もう本当に、いいから。	정말, 정말로 괜찮아요.	Really, it's okay.						0	
+25	再安慰下去可能会出人命……因为自尊心受挫，我硬生生加练了两个小时。	再安慰下去可能會出人命……因為自尊心受損，我硬是加練了兩個小時。	このまま慰められ続ければ命に関わる……プライドが傷つき、私は2時間も練習時間を延ばした。	더 위로하다간 내 자존심이 허락할 것 같지 않았다… 난 자존심 때문에 2시간을 더 연습했다.	If she kept comforting me, I would probably die... My self-esteem was shaken, so I'd already practiced for an extra two hours.						0	
+26	现在感觉走路轻飘飘的，已经完全感受不到疼痛了。	現在感覺走路輕飄飄的，已經完全感受不到疼痛了。	足元がふわふわしていて、もう痛みは全く感じられなくなった。	그 결과 걷는 게 아니라 가볍게 붕 뜬 느낌이 들었고, 더 이상 통증이 느껴지지 않는다.	I felt weak and numb as I walked.						0	
+27	要是传出去，让其他人知道，估计会被笑三天三夜。	要是傳出去讓其他人知道，恐怕會被笑個三天三夜。	このことがバレたら、末代までの恥になる。	나의 이런 모습이 자칫 소문이라도 난다면 사람들에게 한참을 비웃음 살 것이다.	If everyone else found out about this, I knew I'd never hear the end of it.						0	
+b-8											0	
+28	晴，你有不擅长的事情吗？	晴，你有不擅長的事情嗎？	晴、苦手なことはあるのか？	하루도 못 하는 게 있어요?	Haru, is there anything you're not good at?						0	
+29	不擅长的事情？	不擅長的事情？	苦手なこと？	못하는 거?	Something I'm not good at?						0	
+30	上次告诉过你，我不擅长烘焙。	上次告訴過你，我不擅長烘焙。	前に言った通り、菓子作りは苦手だが。	저번에 말했잖아, 베이킹을 잘 못하는 것 같다고.	I told you last time — I'm not good at baking.						0	
+b-9											0	
+31	既然这样，我们来比赛做蛋糕吧。	既然這樣，我們來比賽做蛋糕吧。	だったら、ケーキ作りで勝負しよう。	그럼 우리 베이킹 내기를 해볼까요?	Then let's have a baking contest.						0	
+32	我知道提出这种要求很像是小孩赌气，但我现在确实需要恢复一些自信。	我知道提出這種要求很像是小孩賭氣，但我現在確實需要恢復一些自信。	大人げない提案なのは承知の上だが、今の私には自信が必要だ。	이런 요구를 하는 게 다소 유치하다는 것은 알고 있다. 하지만 지금의 난 자존심을 회복할 필요가 있었다.	I knew it was a childish request, but I needed to regain some of my confidence.						0	
+33	我拒绝。	我拒絕。	お断りする。	거절하지.	No.						0	
+34	出乎意料的是，晴拒绝了我。	令我出乎意料，晴拒絕了我。	予想外なことに、晴に断られた。	예상치 못한 일이 발생했다. 하루가 나의 제안을 거절했다.	Haru unexpectedly turned me down.						0	
+35	她眼里噙着笑意。	她眼裡含著笑意。	彼女は目に笑みを浮かべている。	그녀는 미소를 머금은 눈빛으로 날 쳐다본다.	But there was an inexplicable smile in her eyes.						0	
+36	我为什么要在不擅长的领域跟你比赛？	我為什麼要在不擅長的領域跟你比賽？	なぜわざわざ苦手な分野で勝負しなければならないんだ？	내가 왜 잘하지 못하는 영역에서 분석가와 내기해야 하지?	Why should I take part in a contest at something I'm not good at?						0	
+b-10											0	
+37	这个……	這個……	それは……	그건…	Well...						0	
+b-11											0	
+38	这事关我的荣誉。	這事關我的榮譽。	私の誇りに関わるから。	제 명예와 관련되어 있기 때문이에요.	It's about my honor.						0	
+39	我思考片刻，说出了一个晴无法拒绝的理由。	我思考片刻，說出了一個晴無法拒絕的理由。	私はしばらく考え、晴が断れない理由を思いついた。	난 잠시 고민하다가 하루가 거절할 수 없는 이유를 댄다.	After thinking for a moment, I had given Haru an answer she couldn't refuse.						0	
+40	我接受你的挑战。	我接受你的挑戰。	その勝負、受けて立とう。	도전 요청을 받아들이지.	...I will accept your challenge.						0	
+41	晴一下子严肃起来。	晴一下子嚴肅了起來。	晴が一瞬で真剣な顔になった。	순간 하루의 분위기가 사뭇 진지해진다.	Haru suddenly grew serious.						0	
+42	既然是事关荣誉的比赛，我们还需要各自挑选评委。	既然是事關榮譽的比賽，我們還需要各自挑選評審。	誇りに関わる勝負ならば、それぞれ審査員を選ばなくてはいけない。	명예가 달린 내기니까 각자의 심사위원을 선택해야 할 거야.	Since this contest is a matter of honor, we will have to select judges.						0	
+43	分析员，时间就约定在三天之后。	分析員，時間就約定在三天之後。	分析員、三日後に勝負しよう。	분석가, 그럼 3일 뒤에 보자.	Adjutant, the contest will take place in three days.						0	
+44	地点就在这里。	地點就在大廳。	場所はここだ。	장소는 이곳으로 하지.	It will be held right here.						0	
+45	我会全力以赴，也请你认真对待。	我會全力以赴，也請你認真對待。	自分は全力を尽くすつもりだから、そちらも気を抜かないように。	최선을 다해볼게. 그러니 분석가도 진지하게 임해줘.	I'll do my best. I ask that you take this seriously as well.						0	
+b-12											0	
+46	挑选评委？	挑選評審？	審査員を選ぶ？	심사위원이요?	Select judges?						0	
+b-13											0	
+47	需要这么……正式吗？	需要這麼……正式嗎？	そこまで……本格的にやるのか？	그렇게까지… 격식을 갖추고 해야 하나요?	Does it have to be so... formal?						0	
+48	当然需要，这有关你的荣誉。	當然需要，這有關你的榮譽。	もちろん。誇りに関わるんだろう？	당연하지, 네 명예가 달린 일인데.	Of course. This is a matter of your honor.						0	
+49	看来用荣誉来做借口，效果似乎好过头了。	看來用榮譽做藉口的效果似乎好過頭了。	誇りを言い訳にする効果は、良すぎみたいだ。	명예를 핑계 삼은 게 역효과를 불러온 것 같다.	It was beginning to look like my "honor" excuse was a little too effective.						0	
+50	晴认真严肃的态度让我产生了几分犹豫和负罪感。	晴認真嚴肅的態度讓我產生了幾分猶豫和罪惡感。	真剣に臨んできた晴を前に、私は幾ばくかのためらいと罪悪感を覚えた。	하루의 진지하고 엄숙한 태도에 난 흔들렸고, 심지어 죄책감까지 들었다.	Haru's earnest and serious attitude made me feel some hesitation and guilt.						0	
+51	等等……话说回来，我也并没有什么厨艺技能。在进入世界树公司前，我的厨艺仅限于给速食食品加热水。	等等……話說回來，我也並沒有什麼廚藝才能。在進入世界樹公司前，我的廚藝僅限於給速食品加熱水。	待てよ……そういえば、私にも料理に疎かった。ユグドラシル社に入るまで、インスタント食品にお湯を注ぐ程度しかしてこなかった。	잠깐… 그러고 보니 나도 요리를 썩 잘하는 실력은 아닌데… 위그드라실에 오기 전에, 내 요리 실력은 인스턴트에 뜨거운 물을 부을 수 있는 정도였다.	Then again... I didn't really know my way around the kitchen either. The most I could do before joining Yggdrasil was heat up instant meals.						0	
+52	既然这样，那应该算公平对决，嗯。	既然這樣，那應該算公平對決，嗯。	つまり両方の条件は対等だ、うん。	그렇다면 공평한 대결이 되겠네, 그래.	In that case, it would likely be a fair match.						0	
+53	好！	好！	よし！	좋았어!	Alright!						0	
+b-15											0	
+b-14											0	
+54	那就一决胜负！	那就一決勝負！	では勝負しようか！	그럼 승부다!	Let's see who will win!						0	

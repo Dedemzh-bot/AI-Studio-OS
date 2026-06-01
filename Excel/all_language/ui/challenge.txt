@@ -1,0 +1,75 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1001_Desc	%d秒内完成本区域行动	%d秒內完成本區域行動	%d秒以内にこのエリアの作戦を達成する。	%d초 내 해당 구역 전투 완료하기	Complete Area Operation within %d sec.						0	
+1002_Desc	击败目标间隔低于%d秒	擊敗目標間隔低於%d秒	敵を撃破する間隔が%d秒未満。	타깃 간 처리 간격 시간 %d초 미만	Time between defeating each enemy less than %d sec.						0	
+1003_Desc	在%d秒内击败%d个敌方目标	在%d秒內擊敗%d個敵方目標	%d秒以内に敵を%d体撃破する。	%d초 내 타깃 %d개 처치하기	Defeat %d enemies within %d sec.						0	
+1004_Desc	本区域全队损血低于%d%%	本區域全隊損血低於%d%%	このエリアで、小隊全員のHP減少%d%%未満。	해당 구역 모든 팀원 손실 HP %d%% 미만	Full squad lose less than %d%% HP in this area.						0	
+1005_Desc	本区域全队无队员撤退	本區域全隊無隊員撤退	このエリアで、戦闘不能の隊員なし。	해당 구역 모든 팀원 철수 없이 진행하기	No retreats in this area.						0	
+1006_Desc	本区域敌方伤害提高30%	本區域敵方傷害提高30%	このエリアで、敵の与ダメージ+30%。	해당 구역 타깃의 대미지가 30% 증가한다.	Enemy damage increased by 30% in this area.						0	
+1007_Desc	本区域敌方持续恢复生命	本區域敵方持續恢復生命	このエリアで、敵のHPは継続的に回復している。	해당 구역 타깃은 지속적으로 HP를 회복한다.	Enemies continuously recover HP in this area.						0	
+1008_Desc	本区域敌方持续霸体	本區域敵方持續霸體	このエリアで、敵は継続的に鉄壁効果を持つ。	해당 구역 타깃은 지속적으로 슈퍼아머 상태에 진입한다.	Enemies have permanent Iron Body in this area.						0	
+1009_Desc	本区域敌方防御力提升	本區域敵方防禦力提升	このエリアで、敵の防御力が増加する。	해당 구역 타깃의 방어력이 증가한다.	Enemy defense increased in this area.						0	
+1101_Desc	%d秒内完成本区域行动	%d秒內完成本區域行動	%d秒以内にこのエリアの作戦を達成する。	%d초 내 해당 구역 전투 완료하기	Complete Area Operation within %d sec.						0	
+1102_Desc	击败敌方间隔低于%d秒	擊敗敵方間隔低於%d秒	敵を撃破する間隔が%d秒未満。	타깃 간 처리 간격 시간 %d초 미만	Time between defeating enemies is less than %d sec.						0	
+1103_Desc	在%d秒内击败%d个敌方目标	在%d秒內擊敗%d個敵方目標	%d秒以内に敵を%d体撃破する。	%d초 내 타깃 %d개 처치하기	Defeat %d enemies within %d sec.						0	
+1104_Desc	本区域全队损血低于%d%%	本區域全隊損血低於%d%%	このエリアで、小隊全員のHP減少%d%%未満。	해당 구역 모든 팀원 손실 HP %d%% 미만	Full squad lose less than %d%% HP in this area.						0	
+1105_Desc	本区域全队无队员撤退	本區域全隊無隊員撤退	このエリアで、戦闘不能の隊員なし。	해당 구역 모든 팀원 철수 없이 진행하기	No retreats in this area.						0	
+1106_Desc	本区域敌方伤害提升	本區域敵方傷害提升	このエリアで、敵の与ダメージがアップする。	해당 구역 타깃의 대미지가 증가한다.	Enemy damage increased in this area.						0	
+1107_Desc	本区域敌方持续恢复生命	本區域敵方持續恢復生命	このエリアで、敵のHPは継続的に回復している。	해당 구역 타깃은 지속적으로 HP를 회복한다.	Enemies continuously recover HP in this area.						0	
+1108_Desc	本区域敌方持续霸体	本區域敵方持續霸體	このエリアで、敵は継続的に鉄壁状態を持つ。	해당 구역 타깃은 지속적으로 슈퍼아머 상태에 진입한다.	Enemies have permanent Iron Body in this area.						0	
+1109_Desc	本区域敌方防御力提升	本區域敵方防禦力提升	このエリアで、敵の防御力がアップする。	해당 구역 타깃의 방어력이 증가한다.	Enemy defense increased in this area.						0	
+5001_Desc	%d秒内完成本区域行动	%d秒內完成本區域行動	%d秒以内にこのエリアの作戦を達成する。	%d초 내 해당 구역 전투 완료하기	Complete Area Operation within %d sec.						0	
+5002_Desc	本区域全队损血低于%d%%	本區域全隊損血低於%d%%	このエリアで、小隊全員のHP減少%d%%未満。	해당 구역 모든 팀원 손실 HP %d%% 미만	Full squad lose less than %d%% HP in this area.						0	
+5003_Desc	本区域全队撤退不超过%d次	本區域全隊撤退不超過%d次	このエリアで、戦闘不能回数%d回以下。	해당 구역 모든 팀원 철수 횟수 %d회 이하	No more than %d full-squad retreat(s) in this area						0	
+5004_Desc	本区域敌方伤害提升	本區域敵方傷害提升	このエリアで、敵の与ダメージがアップする。	해당 구역 타깃의 대미지가 증가한다.	Enemy damage increased in this area.						0	
+5005_Desc	本区域敌方防御力提升	本區域敵方防禦力提升	このエリアで、敵の防御力がアップする。	해당 구역 타깃의 방어력이 증가한다.	Enemy defense increased in this area.						0	
+5101_Desc	%d秒内完成本区域行动	%d秒內完成本區域行動	%d秒以内にこのエリアの作戦を達成する。	%d초 내 해당 구역 전투 완료하기	Complete Area Operation within %d sec.						0	
+5102_Desc	本区域全队损血低于%d%%	本區域全隊損血低於%d%%	このエリアで、小隊全員のHP減少%d%%未満。	해당 구역 모든 팀원 손실 HP %d%% 미만	Full squad lose less than %d%% HP in this area.						0	
+5103_Desc	本区域全队撤退次数低于%d次	本區域全隊撤退次數低於%d次	このエリアで、戦闘不能回数%d回未満。	해당 구역 모든 팀원 철수 횟수 %d회 미만	Less than %d total retreats in this area.						0	
+5104_Desc	本区域敌方伤害提升	本區域敵方傷害提升	このエリアで、敵の与ダメージがアップする。	해당 구역 타깃의 대미지가 증가한다.	Enemy damage increased in this area.						0	
+5105_Desc	本区域敌方防御力提升	本區域敵方防禦力提升	このエリアで、敵の防御力がアップする。	해당 구역 타깃의 방어력이 증가한다.	Enemy defense increased in this area.						0	
+2001_Desc	%d秒内完成本区域行动	%d秒內完成本區域行動	%d秒以内にこのエリアの作戦を達成する	%d초 내 해당 구역 전투 완료하기	Complete Area Operation within %d sec.						0	
+2101_Desc	%d秒内完成本区域行动	%d秒內完成本區域行動	%d秒以内にこのエリアの作戦を達成する	%d초 내 해당 구역 전투 완료하기	Complete Area Operation within %d sec.						0	
+challenge_126_name	击杀怪物间隔时间不超过10秒	擊殺怪物間隔時間不超過10秒	敵を撃破する間隔が10秒以下。	10초 간격으로 타깃 처치하기	Defeat at least 1 enemy every 10 sec						0	
+challenge_127_name	限时击杀3个怪物	限時擊殺3個怪物	制限時間内に敵を3体撃破する。	제한 시간 내 타깃 3기 처치하기	Defeat 3 enemies within the time limit						0	
+challenge_128_name	（全队）本区域损失血量不超过50%	（全隊）本區域損失血量不超過50%	このエリアで、小隊全員のHP減少50%以下。	(모든 팀원) 해당 구역 손실 HP 50% 이하	(Full Squad) Lose no more than 50% HP in this area						0	
+challenge_129_name	（全队）本区域角色死亡次数不超过2次	（全隊）本區域角色死亡次數不超過2次	このエリアで、戦闘不能回数2回以下。	(모든 팀원) 해당 구역 캐릭터 사망 횟수 2회 이하	(Full Squad) No more than 2 operative deaths in this area						0	
+challenge_130_name	（全队）本区域损失血量不超过50%	（全隊）本區域損失血量不超過50%	このエリアで、小隊全員のHP減少50%以下。	(모든 팀원) 해당 구역 손실 HP 50% 이하	(Full Squad) Lose no more than 50% HP in this area						0	
+challenge_131_name	限时完成区域任务	限時完成區域任務	制限時間内にエリアミッションをクリアする。	제한 시간 내 구역 미션 완료하기	Complete area objective within the time limit						0	
+challenge_132_name	击杀怪物间隔时间不超过10秒	擊殺怪物間隔時間不超過10秒	敵を撃破する間隔が10秒以下。	10초 간격으로 타깃 처치하기	Defeat at least 1 enemy every 10 sec						0	
+challenge_133_name	限时击杀3个怪物	限時擊殺3個怪物	制限時間内に敵を3体撃破する。	제한 시간 내 타깃 3기 처치하기	Defeat 3 enemies within the time limit						0	
+challenge_134_name	（全队）本区域损失血量不超过50%	（全隊）本區域損失血量不超過50%	このエリアで、小隊全員のHP減少50%以下。	(모든 팀원) 해당 구역 손실 HP 50% 이하	(Full Squad) Lose no more than 50% HP in this area						0	
+challenge_135_name	（全队）本区域角色死亡次数不超过2次	（全隊）本區域角色死亡次數不超過2次	このエリアで、戦闘不能回数2回以下。	(모든 팀원) 해당 구역 캐릭터 사망 횟수 2회 이하	(Full Squad) No more than 2 operative deaths in this area						0	
+challenge_136_name	（全队）本区域损失血量不超过50%	（全隊）本區域損失血量不超過50%	このエリアで、小隊全員のHP減少50%以下。	(모든 팀원) 해당 구역 손실 HP 50% 이하	(Full Squad) Lose no more than 50% HP in this area						0	
+challenge_defeat	区域挑战 失败	區域挑戰失敗	エリアチャレンジ 失敗	구역 도전 실패	Area Challenge - Failed						0	
+1001_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1002_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1003_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1004_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1005_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1006_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1007_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1008_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1009_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1101_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1102_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1103_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1104_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1105_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1106_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1107_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1108_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+1109_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5001_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5002_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5003_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5004_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5005_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5101_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5102_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5103_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5104_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+5105_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+2001_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+2101_Name	区域挑战	區域挑戰	エリアチャレンジ	구역 도전	Area Challenge						0	
+101_Spe	幸运盲盒即将出现！击破可获取良性效果！	幸運盲盒即將出現！擊破可獲取良性效果！	ラッキーボックスがまもなく現れます！撃破するとバフが付与されます！	럭키 가챠 출현! 파괴 시 버프 획득!	Lucky Gacha is about to appear! Destroy it to gain buffs!						0	

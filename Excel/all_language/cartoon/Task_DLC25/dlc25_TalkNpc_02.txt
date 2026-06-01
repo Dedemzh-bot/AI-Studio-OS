@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	老大你来了！可恶！要是我没受伤……肯定跑得掉！	老大你來了！可惡！要是我沒受傷…肯定跑得掉！	帰ってきたか！クソッ、俺が怪我を負っていなかったら……きっと逃げ切れたはずだ！	보스, 오셨군요! 망할 놈들! 내가 다치지만 않았어도… 분명히 도망칠 수 있었을 텐데!	Boss, you're here! Argh! If I hadn't gotten hurt... I definitely would've escaped!						0	2.5新星开拓关卡npc
+page1.2	老大想要劝降那个高手？等等！不会是……	老大想要勸降那個高手？等等！不會是……	あの凄腕を説得する気か？待ってくれ、まさか……	보스가 그 고수를 설득하려고요? 잠깐만요! 설마…	You want to capture that strong fella? Hold on! You mean...						0	2.5新星开拓关卡npc

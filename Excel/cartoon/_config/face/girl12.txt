@@ -1,0 +1,15 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	正常	sequence	girl012_01_house_dialogue_stand01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_stand01.girl012_01_house_dialogue_stand01'	
+2	微笑	sequence	girl012_01_house_dialogue_smile01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_smile01.girl012_01_house_dialogue_smile01'	
+3	开心	sequence	girl012_01_house_dialogue_happy01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_happy01.girl012_01_house_dialogue_happy01'	
+4	疑问	sequence	girl012_01_house_dialogue_doubt01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_doubt01.girl012_01_house_dialogue_doubt01'	
+5	严肃	sequence	girl012_01_house_dialogue_serious01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_serious01.girl012_01_house_dialogue_serious01'	
+6	生气	sequence	girl012_01_house_dialogue_angry01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_angry01.girl012_01_house_dialogue_angry01'	
+7	委屈	sequence	girl012_01_house_dialogue_complain01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_complain01.girl012_01_house_dialogue_complain01'	
+8	闭眼睡觉	sequence	girl012_01_house_dialogue_rest_idle01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_rest_idle01.girl012_01_house_dialogue_rest_idle01'	
+9	积极（动作套）	sequence	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_satisfy.girl012_01_house_dialogue_satisfy'	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_satisfy.girl012_01_house_dialogue_satisfy'	
+10	思考（动作套）	sequence	girl012_01_house_dialogue_wondering	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_wondering.girl012_01_house_dialogue_wondering'	
+					
+					
+100	说话	sequence	girl012_01_house_dialogue_talk01	AnimSequence'/Game/Characters/Girl/girl012_01/AnimPart00/girl012_01_house_dialogue_talk01.girl012_01_house_dialogue_talk01'	

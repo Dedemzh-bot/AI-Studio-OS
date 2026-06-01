@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	捡起掉在地上的精致的黑色石块，形状椭圆一面光滑一面粗糙。粗糙一面的凹凸上似乎是刻上去的纹路，肉眼无法看清到底刻了什么。	撿起掉在地上的精緻的黑色石塊，形狀橢圓一面光滑一面粗糙。粗糙一面的凹凸上似乎是刻上去的紋路，肉眼無法看清到底刻了什麼。	地面に落ちていた綺麗な黒い石を拾い上げてみると、それは楕円形をしており、片面はすべすべで片面はザラザラだった。ザラザラとした面の凸凹は模様が刻まれているようだが、肉眼でははっきりと見えない。	정교한 무늬의 검은 돌을 주웠다. 한 면은 매끈했고 한 면은 까끌했다. 까끌한 쪽은 무늬를 새긴 것 같았지만 눈으로 확인하기 어려웠다.	I picked up a delicate black stone that had fallen on the ground. It was ovular, smooth on one side, and rough on the other. The bumps on the rough side seemed to be an engraving, but it was impossible to tell exactly what it was with the naked eye.						0	
+2	环顾四周，只有面前的一人匆匆离开的背影，应该是那人不小心遗落的东西。	環顧四周，只有面前的一人匆匆離開的背影，應該是那人不小心遺落的東西。	見渡すと、慌てて去っていく一人の後ろ姿しか見えない。あの人がうっかり落としたものだろうか。	주변을 둘러보니 황급히 자리를 뜨는 한 사람의 모습이 보였다. 보아하니 물건은 그가 떨어뜨린 것 같았다.	Looking around, I spotted the receding form of the person who had accidentally dropped it in front of me.						0	
+b-1											0	
+3	前面的朋友，你掉了东西！	前面的朋友，你的東西掉了！	そこのあなた、落とし物だよ！	저기… 물건을 떨어뜨린 것 같은데요!	Hey, you up there! You dropped something!						0	
+4	我不是，我没有……	我不是，我沒有……	いや、違う……	아니야. 내가 떨어뜨린 게 아니야…	Not me... I didn't...						0	
+5	是你啊！头可以“防弹”的大叔！	是你啊！頭可以“防彈”的大叔！	あなたは！頭が「防弾」仕様のおじさん！	당신 것이 확실하다. 머리도 보아하니 방탄이 되는 것 같아 보인다냥.	It was you, egghead!						0	
+6	可以让我摸摸你的光头吗？很想研究一下它的构造，和其他的头有什么区别！	可以讓我摸摸你的光頭嗎？很想研究一下它的構造，和其他的頭有什麼區別！	そのツルツル頭触らせて？その頭が他の頭とどう違うのか、構造を調べたいの！	민머리 좀 만져봐도 될까냥? 다른 사람하고 어떤 구조적 차이를 지니고 있는지 한번 연구해 보고 싶다.	Can I feel your bald head? I want to study it and see how it's different from other heads!						0	
+7	管事似乎在极力躲避接触。	管事似乎在極力躲避接觸。	幹事は極力接触を避けているようだ。	관리자는 최대한 우리와의 접촉을 피하려는 것처럼 보였다.	The Administrator seemed to be trying his best to avoid eye contact.						0	
+b-2											0	
+8	这个好像是你掉的东西。	這個好像是你掉的東西。	これはあなたが落としたものじゃないのか。	이건 당신이 떨어뜨린 물건이 맞는 것 같은데요.	I think you dropped this.						0	
+9	几位长官，这东西不是我的……是个降临团会员落在我这儿的。我怕麻烦才打算丢了，你喜欢就拿走吧。	幾位長官，這東西不是我的……是個降臨團會員遺留在我這的。我怕麻煩才打算丟了，你喜歡就拿走吧。	こ、これは元々私のものではありません……とある降臨団のメンバーが私のところに落としたもので、面倒事に巻き込まれたくなくて捨てただけ……欲しければお好きに持っていってください。	이건 내 물건이 아니야… 강림단 신자가 두고 간 건데 일이 번거로워 질까 봐 그냥 버리려고 했던 거야. 마음에 들면 가져가.	Seniors, that isn't mine... An Adventist left it here. I don't want any trouble, so I was planning to throw it away. If you like it, keep it.						0	
+10	管事模样的人匆忙地离开了，猫汐尔聚精会神地盯着那人的头，居然跟着离开了。	管事模樣的人匆忙地離開了，貓汐爾聚精會神地盯著那人的頭，居然也跟著一起離開了。	幹事であろう人は慌てて立ち去った。マーシルはあの人の頭に見惚れて、なぜかついて行ってしまった。	관리자 모습을 한 사람은 황급히 자리를 피했고, 캣 시에라는 관리자 머리에 꽂혔는지 뚫어져라 쳐다보고는 그를 따라 사라졌다.	The Administrator ran off in a hurry. Mauxir stared at his head intently, then followed closely behind him.						0	

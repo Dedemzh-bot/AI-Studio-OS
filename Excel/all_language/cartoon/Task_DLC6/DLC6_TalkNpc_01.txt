@@ -1,0 +1,8 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	站住。说出口令。	站住。說出口令。	待て。合言葉を言え。	멈춰! 암구호를 말해!	Halt. State the password.						0	
+page1.2	别跟我来这套，你们知道我是谁。	別跟我來這套，你們知道我是誰。	冗談。私が誰だか分からないの？	수작 부리지 마, 내가 누군지 알잖아.	Don't try that with me. You know who I am.						0	
+page1.3	哼……佣兵“蓝闪”，你迟到了。	哼……傭兵“藍閃”，你遲到了。	フッ……傭兵「ブルーフラッシュ」か。遅刻だぞ。	… '푸른 빛' 용병, 늦었군.	Heh... Blue Bolt, the mercenary. You're late.						0	
+page1.4	注意你跟我说话的语气，杂碎。	注意你跟我說話的語氣，雜碎。	言葉には気を付けることね、雑魚さん。	조금 예의 있게 말해줬으면 좋겠는데, 졸병 나부랭이 주제에.	Watch your tone when you're talking to me, urchin.						0	
+page1.5	压价是你老板该做的事情……小姑娘我带来了，他人呢？	壓價是你老闆該做的事……小姑娘我帶來了，他人呢？	価格交渉はあなたの仕事じゃないでしょ。小娘を連れてきたわ。あなたのボスはどこにいるの？	꼬마 아가씨를 데려왔는데, 너네 대장은 어디에 있지?	Lowering the price is the least your boss can do... I brought the girl. Where are the others?						0	
+page1.6	……里面，第二个房间。	……裡面，第二個房間。	……中の、二番目の部屋だ。	… 안에 두 번째 방에 있다.	...Inside. In the second room.						0	

@@ -1,0 +1,32 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	加文已经没有路可逃了，可这里是……	加文已經沒有路可逃了，可這裡是……	ガビンはもう逃げ場がない、しかしここは……	게빈은 더 이상 도망갈 곳이 없었다. 하지만 이곳은…	Gavin had nowhere to run, but now we were...						0	
+1_1	一眼看不到尽头的高墙上悬挂着有着降临团标识的巨大旗帜，这里明显是是一处举办特殊仪式的场所。	一眼看不到盡頭的高牆上懸掛著有著降臨團標誌的巨大旗幟，這裡明顯是一處舉辦特殊儀式的場所。	部屋の見上げるほど高い壁には、降臨団のマークが描かれた巨大な旗が掛かっていた。いかにも、特別な儀式を行う場所のようだ。	끝이 보이지 않는 높은 벽에 강림단 로고가 새겨진 거대한 깃발이 내걸려 있었다. 특별한 의식을 치르는 장소임이 분명하다.	A massive flag with the Adventist symbol hung on the towering wall. It was clearly a venue where special ceremonies were held.						0	
+1_2	眼前的男人虽然尽力挺直了脊背，神情却显得有些狼狈，走投无路时还是下意识地选择了神明的庇护吗？	眼前的男人雖然盡力挺直了脊背，神情卻顯得有些狼狽，走投無路時還是下意識地選擇了神明的庇護嗎？	目の前の男は背筋を伸ばし、懸命に虚勢を張ってはいるものの、動揺しているのは明らかだった。退路を立たれてもまだ神の庇護にすがろうとするのは、信者の性なのだろうか。	눈앞에 있는 남성은 애써 등을 꼿꼿이 세웠지만 서투른 기색이 역력해 보였다. 막다른 길에 몰려서 자신도 모르게 신의 비호를 선택한 걸까?	Even though the man in front of us attempted to stand tall, his expression betrayed some uneasiness. Would he still faithfully rely on divine protection when backed into a corner?						0	
+2	诸位，一定要这样逼迫鄙人吗？	諸位，一定要這樣逼迫鄙人嗎？	あなたたちは何故そこまで私に執着する？	다들 꼭 이렇게까지 날 몰아붙여야 하는 건가?	Must you all force my hand like this?						0	
+3	鄙人知道箱中之物，名为“原型抑制剂”。	鄙人知道箱中之物，名為“原型抑制劑”。	箱の中身は知っている。「バルダー抑制剤」というものだろう。	상자 안에 '프로토타입 억제제'가 있다는 거 알아.	The inhibitors within this box, I know that you call them "Prototype Inhibitors."						0	
+4	我取此物，实为拯救他人性命。	我取此物，實為拯救他人性命。	これを奪ったのは、降臨団のメンバーたちの命を救うためだ。	내가 이걸 가져가면 다른 사람의 목숨을 구할 수 있지.	I have taken them to save the lives of others.						0	
+8	为何？偌大世界树公司，要执着于鄙人所取这几支抑制剂？	為何？偌大世界樹公司，要執著於鄙人所取這幾支抑制劑？	ユグドラシル社は大企業だ、なぜこの些細な抑制剤にそこまでこだわる？	대체 왜 위그드라실 같은 큰 회사에서 내가 빼앗은 이 억제제 몇 개에 집착하는 거지?	Why? What makes the mighty Yggdrasil so determined to find this little box of inhibitors?						0	
+9	难道也是为了拯救性命吗？	難道也是為了拯救性命嗎？	あなたたちも命を救うためか？そうではないだろう。	너희들도 사람 목숨을 구하려고 그러는 거야?	Surely it's not also to save lives?						0	
+11	不过是攫取财富的手段罢了。	不過是攫取財富的手段罷了。	これはユグドラシル社にとって金を掠め取るための手段に過ぎない。	위그드라실은 그저 돈을 벌려는 거라고.	They're just another way for Yggdrasil to hoard more wealth.						0	
+12	为什么一定非“原型抑制剂”不可？	為什麼一定非“原型抑制劑”不可？	なぜ「プロトタイプ抑制剤」に固執するんだ？	왜 반드시 '프로토타입 억제제'여야만 하는 거지?	Why do you need Prototype Inhibitors?						0	
+13	维欧尔兄弟他已经……只有成为天启者才能救他的命。	維歐爾兄弟他已經……只有成為天啟者才能救他的命。	我が同胞ヴィオルは、もはや……覚醒者になることしか、彼を救う方法はないのだ。	비올 형제는 이미… 오직 계시자가 되어야만 해. 안그러면 그의 생명을 구할 수 없지.	Brother Viaur, he... Becoming a Manifestation is the only way to save his life.						0	
+13_1	果然啊……我在心底不禁为男人的天真愚钝叹气。	果然啊……我在心底不禁為男人的天真愚鈍嘆氣。	やっぱりか……この男の甘さに、私は胸の内で溜息を漏らした。	과연… 난 그의 순진함과 어리석음에 한숨밖에 나오지 않았다.	I expected him to say something like this, but I couldn't help sighing when faced with his innocent naivety.						0	
+13_2	加文，我理解你想救人的心情。	加文，我理解你想救人的心情。	ガビン。その誰かを救いたいという気持ちはよく分かる。	사람을 구하고 싶은 심정은 이해해, 게빈.	Gavin, I understand that you want to save people.						0	
+13_3	但你并不知道你口中所谓的“原型抑制剂”，到底意味着什么。	但你並不知道你口中所謂的“原型抑制劑”，到底意味著什麼。	ただし、あなたは「プロトタイプ抑制剤」の意味するところを何も知らないようだ。	하지만 당신은 '프로토타입 억제제'가 무엇을 의미하는지 모르지.	But you don't actually know what a Prototype Inhibitor really is.						0	
+13_4	它被严格监管是有理由的。你以及你的朋友，根本无法承受擅自使用它的后果。	它被嚴格監管是有理由的。你以及你的朋友，根本無法承受擅自使用它的後果。	こうまで厳しい規制を受けているのには、ちゃんとした理由があるんだ。この抑制剤は、あなたやあなたの同胞の手には負えない代物なんだぞ。	프로토타입 억제제가 엄격하게 규제되는 데는 전부 이유가 있어. 그런 걸 무단으로 사용하면 그 결과를 책임질 수 없게 될 거야.	There's a reason they're strictly regulated. You and your friend can't afford to use them arbitrarily.						0	
+14	难道在你们手中，抑制剂所用之途会更加高尚？	難道在你們手中，抑制劑所用之途會更加高尚？	あなたたちが持った方が、抑制剤をより素晴らしい用途で使えるとでも言いたいのか？	너희들 손에 들어가면 억제제가 조금 더 선한 곳에 사용될 거라고 말하고 싶은 건가?	Is it perhaps, with you, these inhibitors will be used for a more noble cause?						0	
+15	难道所救权贵、高官、将领之性命，就要比我降临团兄弟之性命更加宝贵？	難道所救權貴、高官、將領之性命，就要比我降臨團兄弟之性命更加寶貴？	権力を持つ者たちの命は、私の同胞、降臨団の人々の命より大事か？	설마 권력가, 고위 관직, 장군들과 같은 목숨이 우리 강림단 신자들 목숨보다 더 소중하다고 생각하는 거야?	Do you mean to suggest that the lives of senior officials, leaders, and executives are worth more than those of my Adventist brothers?						0	
+16	不是这样的！	不是這樣的！	違います！	그렇지 않아!	That's not it at all!						0	
+17	恩雅上前一步想要帮我辩白。我对她比了个稍安勿躁的手势，她出于对我的信任，安静地退了回去。	恩雅上前一步想要幫我辯白。我對她比了個稍安勿躁的手勢，她出於對我的信任，安靜地退了回去。	私を庇うために前に出ようとしたエンヤを、私はジェスチャーで制止した。私の意図が伝わったのか、彼女は静かに後ろへと下がった。	엔야는 한발 앞서서 나를 대신해 변론을 하려 했다. 난 그녀에게 조급해하지 말라는 손짓을 했고, 그녀는 날 신뢰하는 마음으로 조용히 뒤로 물러섰다.	Enya stepped forward, intending to defend me. I gestured for her to remain calm, and she quietly retreated out of trust.						0	
+17_1	你搞错重点了。	你搞錯重點了。	あなたは論点を取り違えている。	논제를 흐리는군.	You missed the point.						0	
+17_2	没有了世界树的配套技术，想通过注射原型抑制剂激发天启无异于自寻死路。	沒有了世界樹的配套技術，想透過注射原型抑制劑激發天啟無異於自尋死路。	ユグドラシルの技術サポートなしに、プロトタイプ抑制剤を注射することでアポカリプスを引き起そうとするなんて、ほとんど自殺行為だ。	위그드라실에의 기술 지원이 없이 프로토타입 억제제를 주입해 계시를 자극하려는 것은 스스로 죽음을 자초하는 것이나 다름없어.	Without Yggdrasil's supporting tech, attempting to stimulate the Manifestation process with Prototype Inhibitors is practically a death sentence.						0	
+17_3	何况以你朋友的身体状况，恐怕无法达到诱发天启的各项参数要求。	何況以你朋友的身體狀況，恐怕無法達到誘發天啟的各項參數要求。	なによりその言い方からするに、あなたの同胞が覚醒に耐えられるとは到底思えない。	그리고 지금 네 친구의 몸 상태로 보아 아마도 계시를 유발하기 위한 조건을 충족시키기는 어려울 거고.	And considering your friend's condition, he probably won't be able to meet the requirements to become a Manifestation.						0	
+17_4	加文，你醒醒吧！	加文，你醒醒吧！	目を覚ましてください、ガビン！	게빈, 이제 정신 좀 차려!	Gavin, wake up!						0	
+17_5	盲目的执着并不能解决一切问题啊。	盲目的執著並不能解決一切問題。	盲目的に突き進んだところで、何もかも解決する保証はないんですよ。	그런 맹목적인 집착은 아무 문제도 해결할 수 없어.	Blind determination can't solve everything.						0	
+17_6	男人沉默了片刻，紧皱的眉和抽动的面部肌肉暴露了他内心的挣扎。	男人沉默了片刻，緊皺的眉和抽動的臉部肌肉暴露了他內心的掙扎。	男は黙り込んだ。きつく結んでいる眉毛やぴくぴくと痙攣する頬が、彼の苦悩の深さを物語っていた。	그는 사색에 빠진 채 미간을 찌푸렸다. 내적으로 갈등을 하는 모습처럼 보였다.	The man went silent for a moment. His furrowed brow and twitching face revealed how much he was struggling inside.						0	
+17_7	他深深呼出一口气，似是已做出了最终决定。	他深深呼出一口氣，似是已做出了最終決定。	しばらくすると、決心が固まったように、彼は長く息を吐き出した。	그리고 깊은 한숨을 내쉬었는데, 마치 그의 모습은 최후의 결정을 내린 것만 같았다.	He took a deep breath, seemingly making his decision.						0	
+18	看来，鄙人还是与你们无法达成共识。	看來，鄙人與你們還是無法達成共識。	どうやら、あなた達とはどこまでも意見が食い違う定めのようだ。	보아하니 상호 간 더 이상 타협의 여지는 없을 것 같군.	It seems we have no way to reach a common understanding.						0	
+19	你们的话听起来似乎很有道理，但哪怕只有一丝可能，都值得鄙人舍命一搏！	你們的話聽起來似乎很有道理，但就算只有一絲可能，都值得鄙人捨命一搏！	あなた達の言葉には確かに一理ある。だが今は、それがたとえ1％の可能性でも構わない！縋らないわけにはいかないのだ！	너희들이 말하는 것도 일리가 있어 보이지만 일말의 가능성이 조금이라도 있다면 난 여지없이 목숨을 걸고 싸울 것이다!	I understand what you're saying, but even if there's only a sliver of hope, it's worth risking my life!						0	
+21	拔出武器！	拔出武器！	武器を構えろ！	그럼 무기를 들어!	It's time to fight!						0	
+22	就以武力来为鄙人之正义证道！	就以武力來為鄙人之正義證道！	私は武力で自分の正義を全うする！	무력으로라도 내 정의를 증명해 보일테니!	I shall prove the righteousness I defend with military might!						0	

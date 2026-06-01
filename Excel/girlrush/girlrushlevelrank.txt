@@ -1,0 +1,5 @@
+﻿关卡类型(歼灭1 通关时间（单位秒） 坚守2 防线血量 （百分比） 无尽3 波数 )	【极】评分依据	【极】评分依据描述	【卓】评分依据	【极】评分依据描述	【优】评分依据	【极】评分依据描述	【良】评分依据	【极】评分依据描述
+LevelType	AceRank	AceRankDEs	SRank	SRankDEs	ARank	ARankDEs	BRank	BRankDEs
+1	90	girl_levelrankdes_01	150	girl_levelrankdes_02	210	girl_levelrankdes_03	240	girl_levelrankdes_04
+2	95	girl_levelrankdes_05	90	girl_levelrankdes_06	85	girl_levelrankdes_07	80	girl_levelrankdes_08
+3	9	girl_levelrankdes_09	7	girl_levelrankdes_10	5	girl_levelrankdes_11	3	girl_levelrankdes_12

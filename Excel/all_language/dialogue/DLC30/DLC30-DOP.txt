@@ -1,0 +1,67 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	事情发生在大约一周前……	事情發生在大約一週前……	一週間ほど前……	일주일 전쯤에 일어난 일이었다…	About a week ago...						0	3.0爆爆菜园开场剧情
+2	分析员！！！	分析員！！！	分析員！！	분석가님!!!	Adjutant!!!						0	3.0爆爆菜园开场剧情
+3	卡罗琳急冲冲地闯进我的房间，看得出是有要事找我，仿生义体的胸腔似乎也因为太着急而大幅起伏着。	卡羅琳急衝衝地闖進我的房間，看得出是有要事找我，仿生義體的胸腔似乎也因為太著急而大幅起伏著。	カロリンが切羽詰まった様子で、勢いよく私の部屋へ飛び込んでくる。義体の胸部を激しく上下させていた。	캐롤린이 급하게 내 방으로 쳐들어왔다. 중요한 일이 있어 보였고, 바이오닉 신체의 가슴팍도 너무 급한 나머지 크게 오르내리고 있었다.	Caroline burst into my room in a flurry, clearly urgent about something. Even her synthetic chest was heaving with anxiety.						0	3.0爆爆菜园开场剧情
+4	非常抱歉打扰你休息了，不过能捕捉到你独处的时间可不容易，女孩儿几乎占用了你所有空闲时间。	非常抱歉打擾你休息了，不過能捕捉到你獨處的時間可不容易，女孩幾乎佔用了你所有空閒時間。	お休みのところすみません、あなたにはいつも女の子たちが付きっきりだから、一人になる時間がほとんどなくて。	쉬는 데 방해해서 정말 죄송하지만, 분석가님과 단둘이 있을 시간이 좀처럼 나지 않네요. 소녀들이 당신의 모든 자유 시간을 차지하고 있으니까요.	I'm so sorry to disturb you, but it's nearly impossible to catch you alone. The other girls take up almost every spare moment you have.						0	3.0爆爆菜园开场剧情
+5	她以极快的语速抱怨着，眼睛还不停观察着周围，仿佛在被什么猛兽追杀中。	她以極快的語速抱怨著，眼睛還不停觀察著周圍，彷彿在被什麼猛獸追殺中。	彼女は早口で不満をまくしたてながら、まるで獣にでも追われているかのように、そわそわと周囲を見回していた。	그녀는 엄청나게 빠른 속도로 불평하면서 주변을 계속 살폈다. 마치 무서운 짐승에게 쫓기고 있는 것 같았다.	She rattled off, eyes darting nervously as if something dangerous was on her tail.						0	3.0爆爆菜园开场剧情
+6	有什么事吗？	有什麼事嗎？	どうかしたのか。	무슨 일이야?	Is something wrong?						0	3.0爆爆菜园开场剧情
+7	应该没跟来这里，快把门关上，只有拥有最高权限的分析员房间能阻止那孩子了……	應該沒跟來這裡，快把門關上，只有擁有最高權限的分析員房間能阻止那孩子了……	たぶんここなら安全ですよね。早くドアを閉めないと。分析員の部屋なら、あの子も絶対に入ってこられないから……	여기까지는 따라오지 않은 것 같으니 빨리 문 닫아주세요. 최고 권한을 가진 분석가님의 방에 있어야만 그 아이를 막을 수 있거든요…	I don't think she followed me. Quick, close the door! Your room's the only place with clearance high enough to keep her out...						0	3.0爆爆菜园开场剧情
+8	那孩子？	那孩子？	あの子？	그 아이라니?	Keep who out?						0	3.0爆爆菜园开场剧情
+9	说出来或许有点荒唐，但我正在被伊切尔追捕。	說出來或許有點荒唐，但我正在被伊切爾追捕。	信じてもらえるかわかりませんけど、私、イチェルに追われてるんです。	좀 황당한 말이지만, 저는 지금 이첼에게 쫓기고 있어요.	This might sound ridiculous, but... Eatchel is after me.						0	3.0爆爆菜园开场剧情
+10	……？	……？	……？	……?	...?						0	3.0爆爆菜园开场剧情
+11	事情是这样的……	事情是這樣的……	説明します……	어떻게 된 일이냐면요…	Let me explain...						0	3.0爆爆菜园开场剧情
+12	卡罗琳十分委屈地讲述了事情的来龙去脉，在最近的体检中，医生第六次批评了伊切尔的营养师团队，担心失去工作的营养师们找到了卡罗琳，希望她能提供帮助。	卡羅琳十分委屈地講述了事情的來龍去脈，在最近的體檢中，醫生第六次警告了伊切爾的營養師團隊，擔心失去工作的營養師們找到了卡羅琳，希望她能提供幫助。	カロリンは悔しげに経緯を語った。最近の健康診断で、\nイチェルの栄養士たちは医師から六度目の指摘を受けた。\n失職を恐れた彼女たちは、カロリンに助けを求めたそうだ。	캐롤린은 매우 억울한 표정으로 사건의 자초지종을 설명했다. 최근 건강검진에서 의사가 이첼의 영양사 팀을 질책한 게 벌써 여섯 번째로, 일자리를 잃을까 봐 걱정된 영양사들이 캐롤린을 찾아와 도움을 요청했다고 한다.	Caroline filled me in on her troubles. During Eatchel's last check-up, the doctor criticized her nutritionists for the sixth time. Fearing for their jobs, they turned to Caroline for help.						0	3.0爆爆菜园开场剧情
+13	看着齐刷刷鞠躬的营养师们，卡罗琳心软了，决定扮演一个强制伊切尔吃蔬菜的“坏人”。	看著整齊鞠躬的營養師們，卡羅琳心軟了，決定扮演一個強制伊切爾吃蔬菜的「壞人」。	一斉に頭を下げる栄養士たちに同情したカロリンは、イチェルに無理やり野菜を食べさせる『嫌われ役』を引き受けることにした。	일제히 고개 숙여 인사하는 영양사들을 본 캐롤린은 마음이 약해졌고, 이첼에게 강제로 야채를 먹이는 '나쁜 사람' 역할을 맡기로 했다.	Their pleading got to her, so Caroline agreed to be the "bad guy" and force Eatchel to eat her vegetables.						0	3.0爆爆菜园开场剧情
+14	当伊切尔质问餐厅所有窗口为什么自己的食物中蔬菜份量都翻了好几倍时，厨师们的回答都是“卡罗琳女士要求的”。	當伊切爾質問餐廳所有窗口為什麼自己的食物中蔬菜分量都翻了好幾倍時，廚師們的回答都是「卡羅琳女士要求的」。	食堂の窓口でイチェルに「なんでボクの料理だけ、こんなに野菜が多いんだ？」と問い詰められた料理人たちは、口を揃えて「カロリンさんの指示です」と答えたのだ。	이첼이 식당의 모든 창구에서 자기 음식에 들어간 야채가 왜 몇 배나 늘었냐고 따지자, 요리사들은 모두 '캐롤린 님의 지시입니다'라고 대답했다.	When Eatchel confronted the canteen, demanding to know why her meals were suddenly packed with veggies, they replied, "Ms. Caroline told us to."						0	3.0爆爆菜园开场剧情
+15	我为了保命决定说是你指使我做的。	我為了保命決定說是你指使我做的。	で、私は身を守るためにあなたの要請ってことにしたんですけど。	저는 살아남기 위해 당신이 시켰다고 말할 거예요.	I had no choice — I told her you made me do it, just to save myself.						0	3.0爆爆菜园开场剧情
+16	但是伊切尔不会相信的，对吧？	但是伊切爾不會相信的，對吧？	イチェルが信じるとは思えないが。	하지만 이첼이 안 믿을 거잖아, 그렇지?	Eatchel's not going to believe that, is she?						0	3.0爆爆菜园开场剧情
+17	我这不就来找你对齐一下“口供”吗！	我這不就來找你對齊一下「口供」嗎！	だからこうして口裏合わせに来たんですよ！	그래서 지금 '진술'을 맞추려고 당신한테 왔잖아요!	That's exactly why I'm here — to make sure she does!						0	3.0爆爆菜园开场剧情
+18	为什么不一开始就来找我呢？	為什麼不一開始就來找我呢？	最初から相談してくれればよかったじゃないか。	왜 처음부터 나한테 오지 않았어?	Why didn't you come to me in the first place?						0	3.0爆爆菜园开场剧情
+19	恕我直言，你不是在拯救世界，就是和少女们在一起，上次我接通不了你的终端，上上次接通了却听到我不该听到的动静！还有一周前……	恕我直言，你不是在拯救世界，就是和少女們在一起，上次我接通不了你的終端，上上次接通了卻聽到我不該聽到的動靜！還有一週前……	失礼ですけど、あなたっていつも世界を救っているか、女の子たちと一緒にいるかのどっちかですよね。	솔직히 말하자면, 당신은 세상을 구하느라 바쁘거나 소녀들과 함께 있잖아요. 지난번엔 당신 단말기에 연결할 수가 없었고, 그 전엔 연결됐지만 제가 들으면 안 되는 소리를 들었어요! 그리고 일주일 전에는…	With all due respect, you're always either saving the world or spending time with the girls. Last time, I couldn't even get through to you, and the time before that... I heard things I definitely shouldn't have! And a week ago—						0	3.0爆爆菜园开场剧情
+20	咳，抱歉，失态了。	咳，抱歉，失態了。	この前は通信が繋がらなかったし、その前は私が聞いちゃいけない音が聞こえてきたし！先週だって……ゴホン、すみません、取り乱しました。	크흠, 미안해요. 실례했네요.	Ahem, sorry for the outburst.						0	3.0爆爆菜园开场剧情
+21	确实需要干预了，伊切尔的身体比较特殊，长此以往可能出现我们无法控制的变化。	確實需要干預了，伊切爾的身體比較特殊，長此以往可能出現我們無法控制的變化。	確かに、これ以上見過ごせないな。イチェルの身体は特殊だから、このままだと、私たちにも手に負えない変化が起きるかもしれない。	이젠 정말 간섭 좀 해야겠네. 이첼의 신체는 특이한 편이라 이대로 가다간 우리가 통제할 수 없는 변화가 일어날 수도 있어.	Well, something needs to be done. Eatchel's unique physiology could cause complications if we keep ignoring this.						0	3.0爆爆菜园开场剧情
+22	很高兴你这么想，那么就拜托你尽快停止对那孩子的溺爱了。	很高興你這麼想，那麼就拜託你儘快停止對那孩子的溺愛了。	わかってくれて助かります。そういうわけなので、これ以上あの子を甘やかさないでくださいね。	그렇게 생각하신다니 다행이네요. 그럼, 그 아이를 응석받이로 키우는 건 인제 그만두세요. 부탁할게요.	I'm glad you agree. We really can't keep spoiling her like this.						0	3.0爆爆菜园开场剧情
+23	卡罗琳如释重负地长呼一口气，然后蹑手蹑脚地离开了。	卡羅琳如釋重負地長嘆一口氣，然後躡手躡腳地離開了。	カロリンは安堵の息をつき、忍び足で部屋を後にした。	캐롤린은 안도의 한숨을 푹 내쉬고는 조용히 자리를 떠났다.	Caroline let out a long sigh of relief and slipped quietly out of my room.						0	3.0爆爆菜园开场剧情
+24	那么，该怎么办呢……	那麼，該怎麼辦呢……	さて、どうしたものかな。	그럼, 어떻게 해야 하지…	Hmm, how should I deal with this...?						0	3.0爆爆菜园开场剧情
+25	一周后。	一週後。	一週間後。	일주일 후.	One week later.						0	3.0爆爆菜园开场剧情
+26	分析员！	分析員！	分析員！	분석가!	Adjutant!						0	3.0爆爆菜园开场剧情
+27	伊切尔一个飞扑，撞进了我的怀里，毛绒绒的小脑袋蹭了好一会儿才抬头。	伊切爾一個飛撲，撞進了我的懷裡，毛絨絨的小腦袋磨蹭了好一下子才抬頭。	イチェルが勢いよく飛びついてきて、ふわふわの頭をしばらく私の胸に擦りつけてから顔を上げた。	이첼이 날아오르듯 내 품으로 뛰어들더니, 폭신폭신한 머리를 한참 동안 비비다가 고개를 들었다.	Eatchel launched herself into my arms, happily nuzzling her fluffy head against me before tilting her face up.						0	3.0爆爆菜园开场剧情
+28	分析员，我跟你说哦！卡罗琳太坏了，她让所有的厨师都在我的饭里放好多好多蔬菜，连蛋糕上的草莓都换成小番茄了！	分析員，我跟你說喔！卡羅琳太壞了，她叫所有的廚師都在我的飯裡放好多好多蔬菜，連蛋糕上的草莓都換成小番茄了！	分析員、聞いて！カロリンがひどいんだよ！全部の料理に野菜を山ほど入れさせて、ケーキのいちごまでミニトマトにしたんだ！	분석가, 들어봐! 캐롤린 너무 나빴어. 모든 요리사한테 내 밥에 야채를 많이 많이 넣으라고 했고, 케이크 위에 있던 딸기도 방울토마토로 바꿔버렸어!	Adjutant! Caroline's bad. She made the canteen put so many vegetables in my food. They even replaced the strawberries on my cake with cherry tomatoes!						0	3.0爆爆菜园开场剧情
+29	冷静点，伊切尔，事情不是这样的。	冷靜點，伊切爾，事情不是這樣的。	落ち着け、イチェル、違うんだ。	진정해, 이첼. 그렇지 않아.	That's not true, Eatchel, calm down.						0	3.0爆爆菜园开场剧情
+30	她还说，是分析员要她这么做的，分析员才不会呢！	她還說，是分析員要她這麼做的，分析員才不會呢！	しかも、分析員に言われたって！分析員がそんなことするわけないじゃん！	게다가 분석가가 시켰다고 그랬어. 분석가는 절대 그럴 리가 없는데!	She also said it was your idea, but I know you'd never do that!						0	3.0爆爆菜园开场剧情
+31	的确是我拜托她的，伊切尔，我想我们需要好好谈谈了。	的確是我拜託她的，伊切爾，我想我們需要好好談談了。	頼んだのは確かに私だよ、イチェル、ちゃんと話そう。	맞아, 내가 캐롤린에게 부탁했어. 이첼, 우리 이제 제대로 이야기 좀 해야겠어.	Actually, I did ask her to. We should talk about this.						0	3.0爆爆菜园开场剧情
+32	分析员，不喜欢我了吗？	分析員，不喜歡我了嗎？	分析員、ボクのこと嫌いになっちゃったのか？	분석가, 이젠 내가 싫어?	Adjutant, do you not like me anymore?						0	3.0爆爆菜园开场剧情
+33	伊切尔的眼泪已经在眼眶中打转。	伊切爾的眼淚已經在眼眶中打轉。	イチェルの目には大粒の涙が湛えられていた。	이첼의 눈에는 눈물이 그렁그렁 맺혀있었다.	Tears were springing up in Eatchel's eyes.						0	3.0爆爆菜园开场剧情
+34	我俯下身，轻轻揉搓着她的小脑袋。	我俯下身，輕輕揉搓著她的小腦袋。	私はしゃがんで、そっと彼女の頭をなでた。	나는 몸을 숙여 그녀의 작은 머리를 살살 쓰다듬었다.	I bent down and gently ruffled her hair.						0	3.0爆爆菜园开场剧情
+35	恰恰相反，我非常喜欢伊切尔。	剛好相反，我非常喜歡伊切爾。	まさか、私はイチェルのことが大好きだよ。	그 반대야, 나는 이첼을 정말 좋아해.	On the contrary, Eatchel, I like you very much.						0	3.0爆爆菜园开场剧情
+36	那为什么要让我吃那么难吃的东西？	那為什麼要讓我吃那麼難吃的東西？	じゃあ、なんであんなマズイの食べさせるんだ？	그런데 왜 그렇게 맛없는 걸 먹으라고 하는 거야?	Then why make me eat those yucky things?						0	3.0爆爆菜园开场剧情
+37	这不是伊切尔第一次问这个问题，“对身体好”之类的理由对她来说确实是没什么说服力，反复强调可能还会激发她的逆反心理。还好我有备而来。	這不是伊切爾第一次問這個問題，「對身體好」之類的理由對她來說確實是沒什麼說服力，反覆強調可能還會激發她的逆反心理。還好我有備而來。	この問答は初めてのことではない。「体にいいから」なんて理由では納得しないし、繰り返せば反発を生むだろう。しかし、今回は策がある。	이첼이 이런 질문을 하는 건 이번이 처음이 아니었다. '몸에 좋다'는 이유는 그녀에게 설득력이 없었고, 계속 강조하다 보면 오히려 반항심만 생길 것 같았다. 다행히 나는 준비가 되어 있었다.	This wasn't the first time Eatchel had asked. Telling her, "It's good for you," never got far, and repeating it might just bring out her rebellious side. Fortunately, I had a new approach in mind.						0	3.0爆爆菜园开场剧情
+38	因为蔬菜一直在保护你。	因為蔬菜一直在保護你。	イチェルはずっと、野菜に守られてきたんだ。	야채들이 널 지켜주고 있기 때문이야.	Because the vegetables have always been there to protect you.						0	3.0爆爆菜园开场剧情
+39	才没有！蔬菜只会伤害我的嘴巴！	才沒有！蔬菜只會傷害我的嘴巴！	そんなわけない！野菜なんて、ボクをいじめるだけだもん！	아니야! 야채는 내 입만 아프게 한다고!	No way! They're just here to hurt my mouth!						0	3.0爆爆菜园开场剧情
+40	现在的蔬菜，都是耗尽了力量的样子，但曾经都是人类的强大伙伴哦。	現在的蔬菜，都是耗盡了力量的樣子，但曾經都是人類的強大夥伴喔。	今の野菜は、もう力を使い果たした姿だけど、昔は人間の強い味方だったんだよ。	지금의 야채들은 힘이 다 빠진 모습이지만, 예전에는 모두 인류의 강력한 동료였어.	Believe it or not, vegetables were once powerful allies of humanity. They're only like this now because they used up all their strength.						0	3.0爆爆菜园开场剧情
+41	耗尽了力量？是什么意思啊？	耗盡了力量？是什麼意思啊？	力を使い果たした？どういうこと？	힘이 다 빠졌다고? 그게 무슨 뜻이야	Huh? What do you mean?						0	3.0爆爆菜园开场剧情
+42	我给你带了一个游戏，这个游戏是根据曾经蔬菜和人类并肩作战的故事改编的。	我帶了一個遊戲給你，這個遊戲是根據蔬菜和人類曾經並肩作戰的故事改編的。	イチェルのためにゲームを持ってきたよ。昔、野菜たちが人間と一緒に戦っていた物語をもとに作られたゲームなんだ。	내가 게임 하나를 가져왔는데, 옛날에 야채들이 인류와 함께 전투했던 이야기를 바탕으로 만든 게임이야.	I brought you a game. It's based on legends of how vegetables once fought alongside humans.						0	3.0爆爆菜园开场剧情
+43	好耶！可以打游戏了！	好耶！可以打遊戲了！	やったー！ゲームしていいのか！？	우와! 게임이다!	A game? Yay!						0	3.0爆爆菜园开场剧情
+44	（完全没抓住重点啊）	（完全沒抓住重點啊）	（本題はそこじゃないんだけど）	(완전히 핵심을 놓쳤네)	(She's completely missing the point.)						0	3.0爆爆菜园开场剧情
+45	伊切尔，在这个游戏里你会遇到各种危险，但是我们不在你身边哦。	伊切爾，在這個遊戲裡你會遇到各種危險，但是我們不在你身邊喔。	イチェル、このゲームではいろんな危険があるけど、私はそばにいられないんだ。	이첼, 이 게임에서 너는 여러 위험을 만나게 되지만, 우리는 네 곁에 없을 거야.	Eatchel, in this game, you'll face all sorts of dangers, but we won't be able to stay by your side.						0	3.0爆爆菜园开场剧情
+46	分析员不一起玩吗？	分析員不一起玩嗎？	分析員はいっしょにやらないの？	분석가는 같이 안 할 거야?	Aren't you going to play with me, Adjutant?						0	3.0爆爆菜园开场剧情
+47	嗯，我需要从后方指挥蔬菜伙伴们保护伊切尔哦。	嗯，我需要從後方指揮蔬菜夥伴們保護伊切爾喔。	うん、私は後方から野菜の仲間たちを指揮して、イチェルを守る役目なんだよ。	응, 난 후방에서 야채 파트너들을 지휘해서 이첼을 보호해야 해.	No, I need to command the veggies to protect you.						0	3.0爆爆菜园开场剧情
+49	嗯嗯！有分析员指挥，伊切尔什么都不怕！	嗯嗯！有分析員指揮，伊切爾什麼都不怕！	うん！分析員が指揮してくれるなら、イチェルは何も怖くないよ！	응, 응! 분석가가 지휘하면 이첼은 무서울 게 없어!	Okay! If you're the one giving orders, I'm not scared of anything!						0	3.0爆爆菜园开场剧情
+50	去吧，玩得开心。	去吧，玩得開心。	じゃあ、楽しんでね。	가봐, 재미있게 놀아.	That's the spirit. Have fun.						0	3.0爆爆菜园开场剧情
+51	好~	好~	うん！	오예~	Alright~						0	3.0爆爆菜园开场剧情
+52	两小时后。	兩小時後。	二時間後。	2시간 후.	Two hours later.						0	3.0爆爆菜园开场剧情
+53	分析员……南、南瓜为了保护大家，爆炸碎掉了……呜……	分析員……南、南瓜為了保護大家，爆炸碎掉了……嗚……	分析員……ぱ、パンプキンがみんなを守って、爆発してバラバラに……うぅ……	분석가… 호… 호박이 모두를 지키려다가 폭발해서 산산조각이 났어… 흑…	Adjutant, P—Pumpkin exploded to save us... *sobbing*						0	3.0爆爆菜园开场剧情
+54	让苔丝和薇蒂雅一起写主线故事无疑是正确的决定，一个保证了故事的真善美内核，一个保证了戏剧张力。	讓黛斯和薇蒂雅一起寫主線故事無疑是正確的決定，一個確保了故事的核心真善美，一個確保了戲劇張力。	テスとヴィディアにメインストーリーを任せたのは正解だった。ひとりは物語の善意と誠実さを、もうひとりはしっかりとしたドラマ性を保証してくれる。	테스와 비디야한테 같이 메인 스토리를 쓰도록 부탁한 건 확실히 옳은 결정이었다. 한 명은 이야기의 이상적인 핵심을 보장하고, 다른 한 명은 극적인 긴장감을 보장했으니 말이다.	Having Tess and Vidya team up on the main story turned out to be perfect. One gave it a bona fide core, and the other delivered the dramatic flair.						0	3.0爆爆菜园开场剧情
+55	都是我，没有快点把麻辣能量拿过去呜……	都是我，沒有快點把麻辣能量拿過去嗚……	全部ボクのせいだ、アツアツエナジーをもっと早く届けてたら……	내 잘못이야. 매콤 에너지를 더 빨리 가져가야 했는데…	It's all my fault. I didn't get Spicy Energy there in time... *sobbing*						0	3.0爆爆菜园开场剧情
+56	不要自责，还记得我说的吗？这只是根据以前的故事改编的游戏，不是伊切尔的错。	不要自責，還記得我說的嗎？這只是根據以前的故事改編的遊戲，不是伊切爾的錯。	自分を責めなくてもいい。言っただろ、これは昔の物語をもとに作られたゲームなんだ。イチェルのせいじゃないよ。	자책하지 마. 내가 한 말 기억 나지? 이건 예전 이야기를 바탕으로 각색한 게임일 뿐이야. 이첼의 잘못이 아니야.	Don't beat yourself up. Remember, it's just a game inspired by an old legend. Nothing is truly lost.						0	3.0爆爆菜园开场剧情
+57	可是，可是……刚刚就在我眼前……	可是，可是……剛剛就在我眼前……	でも、でも……さっき、目の前で……	그치만, 그치만… 방금 내 눈앞에서…	But... But it happened right in front of me...						0	3.0爆爆菜园开场剧情
+58	现在伊切尔相信了吧，蔬菜会保护你。	現在伊切爾相信了吧，蔬菜會保護你。	これでわかったよな？野菜はイチェルを守ってくれる。	이제 이첼도 믿지? 야채들이 널 지켜준다고.	Now, do you believe that vegetables are here to protect you?						0	3.0爆爆菜园开场剧情
+59	嗯！！！	嗯！！！	うん！！	응!!!	Yes!!!						0	3.0爆爆菜园开场剧情
+60	伊切尔使劲地点头，眼神和两个小时前相比已经完全不同。	伊切爾用力點頭，眼神和兩個小時前相比已經完全不同。	イチェルは強くうなずいた。その目は、二時間前とはまるで別人のようだった。	이첼은 힘차게 고개를 끄덕였고, 2시간 전과는 완전히 달라진 눈빛이었다.	Eatchel nodded furiously, her attitude completely changed from just two hours ago.						0	3.0爆爆菜园开场剧情
+61	这个游戏还有后续哦，伊切尔还想玩吗？说不定可以救回已经牺牲的蔬菜伙伴。	這個遊戲還有後續喔，伊切爾還想玩嗎？說不定可以救回已經犧牲的蔬菜夥伴。	このゲーム、まだ続きがあるんだけど、やってみるか？もしかしたら、いなくなった野菜の仲間たちを取り戻せるかもしれない。	이 게임은 후속편도 있어. 이첼, 더 해볼래? 희생된 야채 파트너들을 구할 수 있을지도 몰라.	The story isn't over yet. Want to keep playing? You might even get a chance to save your veggie friends who have sacrificed themselves.						0	3.0爆爆菜园开场剧情
+62	真的吗？那我还想玩！	真的嗎？那我還想玩！	ほんとか？やりたい！	정말? 그럼 더 할래!	Really? Then I want to keep going!						0	3.0爆爆菜园开场剧情
+63	在那之前先答应我一个要求，以后盘子里都不可以剩下蔬菜，能做到吗？	在那之前先答應我一個要求，以後盤子裡都不可以剩下蔬菜，能做到嗎？	その前にひとつだけ約束しよう。これからは、残さず野菜を食べること、いいな？	그 전에 내 부탁 하나만 들어줘. 앞으로는 접시에 야채를 남기지 않기로 해. 할 수 있지?	But first, promise me one thing. From now on, you won't avoid the vegetables in your meals. Can you do that?						0	3.0爆爆菜园开场剧情
+64	能！我可以拉钩哦！	能！我可以打勾勾喔！	食べる！ゆびきりしよっ！	할 수 있어! 손가락 약속!	I can! Pinky promise!						0	3.0爆爆菜园开场剧情
+65	伊切尔拉过我的手，用小小的手指勾住我的小指。	伊切爾把我的手拉過去，用小小的手指勾住我的小指。	イチェルは私の手を引っ張って、小さな指を私の小指に絡めた。	이첼은 내 손을 잡고, 작디작은 손가락으로 내 새끼손가락을 걸었다.	She took my hand and wrapped her little finger around mine.						0	3.0爆爆菜园开场剧情
+66	勾勾手，盖盖印，骗人的是小笨笨~	打勾勾，蓋蓋印，騙人的是小笨笨~	ゆびきりげんまん、うそついたら、はりせんぼん、のーます！	손가락 걸고, 도장 찍고, 거짓말하는 사람은 바보~	Pinky swear, seal the deal, whoever lies is a rotten peel!						0	3.0爆爆菜园开场剧情

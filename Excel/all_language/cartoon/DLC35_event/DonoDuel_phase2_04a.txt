@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	漆黑的焰……漆黑……黑火焰？	漆黑的焰……漆黑……黑火焰？	漆黒の焔……漆黒……ブラックフレイム、だっけ……？	칠흑의 불꽃… 칠흑… 어둠의 불꽃?	The Shadow... Wait, or was it Inferno...?						0	3.5版本多诺巅峰对决剧情
+page1.2	什么焰来着？	什麼焰來著？	あれ……なんの焔だったかな？	무슨 불꽃이더라?	What was it again?						0	3.5版本多诺巅峰对决剧情
+page1.3	这么认真地记什么呢？	這麼認真地記什麼呢？	そんなに真剣に、何を書き留めているんだ？	뭘 그렇게 열심히 외우고 있어?	You're looking rather focused. What are you typing?						0	3.5版本多诺巅峰对决剧情
+page1.4	啊，是分析员！	啊，是分析員！	わっ、分析員！	아, 분석가님!	Ah, Adjutant!						0	3.5版本多诺巅峰对决剧情
+page1.5	嘿嘿，安卡希雅说，只要能记下来所有的牌组，了解它们之间各种连携效果，就能很轻松地赢下对决啦。	嘿嘿，安卡希雅說，只要能記下來所有的牌組，了解它們之間各種連攜效果，就能很輕鬆地贏下對決啦。	えへへ、アカシアがね、全部のデッキと連携覚えたら楽に勝てるって言ってたの。	헤헤, 아카시아가 그러는데, 모든 덱을 외우고 카드의 다양한 콤보 효과를 이해하면, 대결에서 쉽게 이길 수 있대요.	Hehe, Acacia said if I can memorize every deck and learn all their links, I'll be able to win the duels with ease.						0	3.5版本多诺巅峰对决剧情
+page1.6	我现在，正在尝试攻克技能大关！	我現在，正在嘗試攻克技能大關！	今はその「スキルの壁」を越えようとしてるの！	그래서 지금 스킬을 공략하는 중이에요!	So right now, I'm studying all the skills!						0	3.5版本多诺巅峰对决剧情
+page1.7	（对瑟瑞斯来说，第一步已经很难了吧……）	（對瑟瑞斯來說，第一步已經很難了吧……）	（シーリスにとっては、その最初の一歩から大仕事だよな……）	(세리스한테는, 첫 단계부터 너무 어려운 것 같은데…)	(For Siris, even the first step must be pretty challenging...)						0	3.5版本多诺巅峰对决剧情
+page1.8	如果瑟瑞斯觉得太难，也可以试试用自己的第一感觉去对决。	如果瑟瑞斯覺得太難，也可以試試用自己的第一直覺去對決。	難しすぎると思ったら、感覚で動いてみてもいいんだぞ。	세리스, 너무 어렵다 싶으면, 그냥 감을 믿어 봐.	If you feel like it's too overwhelming, Siris, you could try going with your instincts instead.						0	3.5版本多诺巅峰对决剧情
+page1.9	我相信你对战局的感知能力。	我相信你對戰局的感知能力。	シーリスの戦況を読む力は、私も信頼している。	난 전세를 읽어내는 너의 능력을 믿어.	I trust your ability to read the flow of a match.						0	3.5版本多诺巅峰对决剧情
+page1.10	对哦！嗯嗯，加油瑟瑞斯，分析员说你可以的！	對哦！嗯嗯，加油瑟瑞斯，分析員說你可以的！	そっか。うん、うん……よし。がんばれ、シーリス。――分析員も「いける」って言ってたもんね。	맞아요! 응응, 화이팅 세리스, 분석가님이 넌 할 수 있다고 하셨어!	Oh, right! Mm-hmm, okay! If you think so, then I can do it!						0	3.5版本多诺巅峰对决剧情

@@ -1,0 +1,48 @@
+﻿天赋ID	天赋图标	名称Key	描述Key	解锁条件	覆盖生效	消耗天赋点	效果类型	效果参数	归属页签(0为基础功能,1为流派强化	备注
+TalentID	TalrntUIID	Name	Des	Condition	Cover	MoonNum	EffectID	Count	Tab	Com
+501	4106001	dreamcard.talent_name01	dreamcard.talent_desc01			1	{1}	{{1}}	0	生命上限
+502	4106002	dreamcard.talent_name02	dreamcard.talent_desc02	501		1	{2}	{{24,1,101}}	0	小红花
+503	4106010	dreamcard.talent_name03	dreamcard.talent_desc03		504	1	{3}	{{150}}	0	初始能量
+504	4106010	dreamcard.talent_name04	dreamcard.talent_desc04	503	505	1	{3}	{{250}}	0	初始能量
+505	4106010	dreamcard.talent_name05	dreamcard.talent_desc05	504		1	{3}	{{500}}	0	初始能量
+506	4106003	dreamcard.talent_name06	dreamcard.talent_desc06			1	{4}	{{1}}	0	回合增加
+507	4106004	dreamcard.talent_name07	dreamcard.talent_desc07	506		1	{5}	{{2,1}}	0	额外选宝
+508	4106004	dreamcard.talent_name08	dreamcard.talent_desc08	507		1	{5}	{{3,1}}	0	额外选宝
+509	4106004	dreamcard.talent_name09	dreamcard.talent_desc09	508		1	{5}	{{4,1}}	0	额外选宝
+510	4106005	dreamcard.talent_name10	dreamcard.talent_desc10		511	1	{6}	{{3}}	0	删除棋子
+511	4106005	dreamcard.talent_name11	dreamcard.talent_desc11	510	512	1	{6}	{{5}}	0	删除棋子
+512	4106005	dreamcard.talent_name12	dreamcard.talent_desc12	511		1	{6}	{{7}}	0	删除棋子
+513	4106007	dreamcard.talent_name13	dreamcard.talent_desc13			1	{8}	{{5}}	0	刷新选宝
+514	4106006	dreamcard.talent_name14	dreamcard.talent_desc14	513	515	1	{7}	{{4}}	0	刷新选棋
+515	4106006	dreamcard.talent_name15	dreamcard.talent_desc15	514	516	1	{7}	{{6}}	0	刷新选棋
+516	4106006	dreamcard.talent_name16	dreamcard.talent_desc16	515		1	{7}	{{8}}	0	刷新选棋
+517	4106008	dreamcard.talent_name17	dreamcard.talent_desc17		520	1	{9}	{{3,16,1,102}}	0	击败敌人
+518	4106008	dreamcard.talent_name18	dreamcard.talent_desc18	517	520	1	{9}	{{5,24,1,102}}	0	击败敌人
+519	4106008	dreamcard.talent_name19	dreamcard.talent_desc19	518	520	1	{9}	{{7,32,1,102}}	0	击败敌人
+520	4106009	dreamcard.talent_name20	dreamcard.talent_desc20	519		1	{10}	{{24,1,102}}	0	每次击败
+521	4106011	dreamcard.talent_name21	dreamcard.talent_desc21		522	1	{11}	{{111,1}}	1	冰雪迷宫
+522	4106011	dreamcard.talent_name22	dreamcard.talent_desc22	521		1	{11}	{{111,2}}	1	冰雪迷宫
+523	4106012	dreamcard.talent_name23	dreamcard.talent_desc23		524	1	{15}	{{126,4}}	1	惊奇鬼屋
+524	4106012	dreamcard.talent_name24	dreamcard.talent_desc24	523		1	{15}	{{126,8}}	1	惊奇鬼屋
+525	4106013	dreamcard.talent_name25	dreamcard.talent_desc25		526	1	{12}	{{79,1}}	1	甜蜜乐园
+526	4106013	dreamcard.talent_name26	dreamcard.talent_desc26	525		1	{12}	{{79,2}}	1	甜蜜乐园
+527	4106014	dreamcard.talent_name27	dreamcard.talent_desc27		528	1	{13}	{{2,1}}	1	专属舞台
+528	4106014	dreamcard.talent_name28	dreamcard.talent_desc28	527		1	{13}	{{2,2}}	1	专属舞台
+529	4106015	dreamcard.talent_name29	dreamcard.talent_desc29		530	1	{14}	{{40,1}}	1	电玩城
+530	4106015	dreamcard.talent_name30	dreamcard.talent_desc30	529		1	{14}	{{40,2}}	1	电玩城
+531	4106016	dreamcard.talent_name31	dreamcard.talent_desc31		532	1	{15}	{{53,50}}	1	藏书阁
+532	4106016	dreamcard.talent_name32	dreamcard.talent_desc32	531		1	{15}	{{53,100}}	1	藏书阁
+533	4106017	dreamcard.talent_name33	dreamcard.talent_desc33		534	1	{16}	{{93,1,97}}	1	偷闲花园
+534	4106017	dreamcard.talent_name34	dreamcard.talent_desc34	533		1	{16}	{{93,2,97}}	1	偷闲花园
+535	4106018	dreamcard.talent_name35	dreamcard.talent_desc35		536	1	{18}	{{{65,71,73},1,62}}	1	宝藏海湾
+536	4106018	dreamcard.talent_name36	dreamcard.talent_desc36	535		1	{18}	{{{65,71,73},2,62}}	1	宝藏海湾
+537	4104010	dreamcard.talent_name37	dreamcard.talent_desc37		538	1	{15}	{{145,1}}	2	小发明家
+538	4104010	dreamcard.talent_name38	dreamcard.talent_desc38	537		1	{15}	{{145,2}}	2	小发明家
+539	4104011	dreamcard.talent_name39	dreamcard.talent_desc39		540	1	{15}	{{161,1}}	2	大魔术师
+540	4104011	dreamcard.talent_name40	dreamcard.talent_desc40	539		1	{15}	{{161,2}}	2	大魔术师
+541	4104012	dreamcard.talent_name41	dreamcard.talent_desc41		542	1	{15}	{{174,1}}	2	吸血鬼少女
+542	4104012	dreamcard.talent_name42	dreamcard.talent_desc42	541		1	{15}	{{174,2}}	2	吸血鬼少女
+543	4104013	dreamcard.talent_name43	dreamcard.talent_desc43		544	1	{15}	{{186,1}}	2	神秘连接
+544	4104013	dreamcard.talent_name44	dreamcard.talent_desc44	543		1	{15}	{{186,2}}	2	神秘连接
+545	4104014	dreamcard.talent_name45	dreamcard.talent_desc45		546	1	{13}	{{9,1}}	2	记忆水族馆
+546	4104014	dreamcard.talent_name46	dreamcard.talent_desc46	545		1	{13}	{{9,2}}	2	记忆水族馆

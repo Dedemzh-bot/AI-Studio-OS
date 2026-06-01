@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	苔丝			任务内容是解决在边境进行军火走私的黑帮组织。	0	
+2		0	苔丝			要求是快速机动，全部解决。	0	
+3		0	苔丝			在确认目标完成后，使用准备好的滑雪板离开。	0	

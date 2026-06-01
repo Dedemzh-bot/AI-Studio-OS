@@ -1,0 +1,4 @@
+﻿ 	关卡ID	备注	开启时间	结束时间	战区buff（调用buff表）	ui场景模型（调用scenendata）	关卡标题	关卡描述
+ID	LevelID	Comments	StartTime	EndTime	AreaBuff	SceneData	LevelTitle	LevelDes
+2501	3401	一期战区一第1关	[202512120400]	[202512140400]	{3101}	1	season_title_name1	season_level_des1
+2511	3402	一期战区一第2关	[202512140400]	[202512160400]	{3101,3102}	1	season_title_name1	season_level_des2

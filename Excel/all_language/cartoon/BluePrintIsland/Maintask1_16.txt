@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，终于到了激动人心的那一刻了。	分析員，終於到了激動人心的那一刻。	やっとこの瞬間が訪れたね、分析員。	분석가님, 드디어 설레는 그 순간이 왔어요.	Adjutant, the big moment has finally arrived.						0	dlc30蓝图岛对话
+page1.2	已经要到大结局的时刻了吗？	已經要到大結局的時刻了嗎？	もうエンディングか？	벌써 엔딩을 볼 순간이 온 건가?	Are we about to roll credits or something?						0	dlc30蓝图岛对话
+page1.3	我们的流程还没有短到这么离谱！不过……算是到了古火龙初见杀的程度了吧。	我們的流程還沒有短到這麼離譜！不過……算是到了古火龍初見殺的程度了吧。	まさか！まあ……エンシェントドラゴンを初見で倒すくらいのスピード感はあったかな。	저희 게임이 그렇게까지 짧진 않아요! 하지만… 첫 번째 고대 드래곤을 처치할 정도라고는 할 수 있겠네요.	This game is not that short! Well... Let's just say... you've reached your first mini-boss.						0	dlc30蓝图岛对话
+page1.4	好诡异的类比……	好詭異的比喻……	なんだその例えは……	되게 이상한 비유네…	That's a strange way to put it for a builder game...						0	dlc30蓝图岛对话
+page1.5	看到蓝图岛慢慢变化，我已经迫不及待想住进去和你一起度假了。	看到藍圖島慢慢變化，我已經迫不及待想住進去和你一起度假了。	ビジョン島の変化を見ていると、ここであなたとバカンスを過ごすのが待ち切れない気持ちになってきたよ。	설계의 섬이 점점 변화하고 있네. 정말이지, 빨리 너랑 같이 들어가서 휴가를 보내고 싶어.	With everything coming together on Builder Island, I can't wait to move in and enjoy a vacation with you.						0	dlc30蓝图岛对话
+page1.6	看来我之前为了你苦练的那些游戏技术，终于得到了制作人的认可呀！	看來我之前為了你苦練的那些遊戲技術，終於得到了製作人的認可啊！	へぇ。プロデューサーさまにようやくゲームの腕を認められたみたいだな。	그동안 널 위해 열심히 갈고닦은 게임 실력이 드디어 프로듀서의 인정을 받는구나!	The developer acknowledged my efforts! All those hours honing my gaming skills for you are finally paying off.						0	dlc30蓝图岛对话
+page1.7	既然分析员这么说了，我也得加倍努力，抓紧做出更有挑战性的玩法。	既然分析員這麼說了，我也得加倍努力，趕快做出更有挑戰性的玩法。	私も、もっとチャレンジしがいのあるゲームを作らないとね。	분석가가 그렇게 말한다니, 나도 두 배로 노력해서 더 도전적인 콘텐츠를 만들어내야겠어.	In that case, I'll double my efforts and come up with more challenging features.						0	dlc30蓝图岛对话
+page1.8	饶了我吧。	饒了我吧。	それは勘弁してくれ……	적당히 해도 돼.	Please don't.						0	dlc30蓝图岛对话
+page1.9	现在，我有点理解建造类游戏为什么一直受人欢迎了。	現在，我有點理解建造類遊戲為什麼一直受人歡迎了。	まだまだシミュレーションゲームの魅力がわかってきた段階なんだから。	이제 건설 게임이 왜 이렇게 인기가 많은지 조금은 이해가 가.	I think I finally understand why builder games are so popular.						0	dlc30蓝图岛对话
+page1.10	从无到有，不断点缀小岛，看着小岛一点点被填满，感觉我的时间也慢下来了。	從無到有，不斷點綴小島，看著小島一點點被填滿，感覺我的時間也慢下來了。	けど、島の施設がゼロから少しずつ増えていくのを見ていると、スローライフって言葉の意味も実感が湧いてきたよ。	무에서 유를 창조하고, 섬을 계속 꾸미고, 섬이 하나둘 채워지는 걸 보니 내 시간도 천천히 흘러가는 것 같아.	Starting with nothing, then slowly seeing the island fill out piece by piece... it's like time itself slows down for me, too.						0	dlc30蓝图岛对话
+page1.11	也许，我就是在建设属于我们两个的家。	也許，我就是在建設屬於我們兩個的家。	この場所はこれから、私たちの家になっていくのかもしれないな。	내가 짓고 있는 건, 우리 둘만의 집일지도 모르겠네.	Maybe... I'm building a home for both of us.						0	dlc30蓝图岛对话
+page1.12	安卡希雅的脸上闪过惊讶的表情，很快便恢复正常。	安卡希雅的臉上閃過驚訝的表情，很快便恢復正常。	アカシアは一瞬だけ驚いた表情を浮かべてから、すぐにまたいつもの顔に戻った。	아카시아의 얼굴에 잠시 놀란 기색이 보이더니 곧 평온을 되찾았다.	A flicker of surprise crossed Acacia's face, but she quickly regained her composure.						0	dlc30蓝图岛对话
+page1.13	但一抹微红，却停留在脸颊上很久没有褪去。	但一抹微紅，卻停留在臉頰上很久沒有褪去。	けれど彼女の頬は、しばらく赤くなったままだった。	하지만 볼을 물들인 붉은빛은 오랫동안 머물렀다.	Yet the blush on her cheeks lingered for quite a while.						0	dlc30蓝图岛对话
+page1.14	分析员，待会儿再对我说一遍刚才的话。	分析員，待會再對我說一遍剛才的話。	分析員、さっきの話は、あとでもう一回聞かせて。	분석가, 그 말은 이따가 한 번 더 해줘.	Adjutant, could you say that again for me in a bit?						0	dlc30蓝图岛对话
+page1.15	现在，我要开启激动人心的时刻了，恭喜分析员，我们的<orange>蓝图岛升级</>了。	現在，我要開啟激動人心的時刻了，恭喜分析員，我們的<orange>藍圖島升級</>了。	今はそれより大事な話があるから。おめでとう！<orange>ビジョン島がレベルアップ</>したよ！	이제부터 설레는 순간이 시작될 거야. 축하해 분석가, 우리의 <orange>설계의 섬이 레벨 업</>됐어.	Now, time to kick off the big moment. Congratulations, Adjutant, our <orange>Builder Island has leveled up</>!						0	dlc30蓝图岛对话

@@ -1,0 +1,344 @@
+﻿字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	zh_CN	disable	Remark
+chess1	饕享券	0	
+chess1.desc	明灯新仪期间限定发放的稀有数字卡券，凭此可以在明灯新仪中享受贵宾服务，换取高价商品，通常只有一些“特殊贵宾”持有。但对于分析员来说，没什么用处。	0	
+chess2	泰古通达门禁卡	0	
+chess2.desc	伊尔提供的门禁卡，仅从外观看与泰古通达员工的门禁卡别无二致，但被磨去的名字和编号已经说明，这是一张使用非常规手段获得的门禁卡。	0	
+chess3	还原装置	0	
+chess3.desc	当转运路线规划错误时，可以使用该装置重现货箱最初的分布位置，重新进行转运路线规划。	0	
+chess4	信石	0	
+chess4.desc	精致打磨的龟背石，龟背花纹的另一面能摸到一些凹凸感，似乎刻了些东西，用肉眼很难看清内容，据说是天楼十分流行的一种礼物。	0	
+chess5	送福宝箱-小	0	
+chess5.desc	明灯节这一天，仓尧为世界树前来协助安保工作的伙伴们准备了一些基础补给。	0	
+chess6	送福宝箱-大	0	
+chess6.desc	明灯节这一天，仓尧为世界树前来协助安保工作的伙伴们准备了一些特别的礼物。	0	
+chess7	未知事件	0	
+chess7.desc	前面似乎发生了事件，作为会场安保负责人，你需要及时处理。	0	
+chess8	偶遇事件	0	
+chess8.desc	熟悉的身影出现，是海姆达尔的伙伴们。	0	
+chess9	纷乱四起	0	
+chess10	直面危局	0	
+chess11	险象环生	0	
+chess11.1	佳节享趣	0	
+chess12	天工福灯纪念品	0	
+chess12.desc	仿照天工福灯制造的微缩模型，是在一些游玩摊位作为奖品发放的纪念奖励。离开天楼后，似乎就没什么用了。	0	
+chess13	开运古币	0	
+chess13.desc	据说是能够带来好运的古老钱币、古董收藏者的最爱，却闪烁着廉价的金色光泽，让人怀疑它的真实来历，只是不值钱的小玩具。	0	
+chess14	瑟瑞斯的语音记录	0	
+chess14.desc	瑟瑞斯留下的录音记录，通过这些记录可以知道瑟瑞斯一路上在干什么，从而推测她所在的方位，也可以根据记录推测瑟瑞斯是否遇到险境。	0	
+chess15	泰古通达门禁卡	0	
+chess15.desc	伊尔提供的门禁卡，仅从外观看与泰古通达员工的门禁卡别无二致，但被磨去的名字和编号已经说明，这是一张使用非常规手段获得的门禁卡。	0	
+chess16	物资箱	0	
+chess16.desc	在活动会场上营业的摊贩使用的物资箱，只需协助做简单的规划，移动到他处，不影响人群行走即可。	0	
+chess17	货箱	0	
+chess17.desc	泰古通达专用货箱，在明灯新仪举办期间因管理问题堆积在各处。帮助仓尧规划这些货箱，将其移动至处理点，交给泰古通达员工处置。	0	
+chess18	货箱	0	
+chess18.desc	泰古通达专用货箱，在明灯新仪举办期间因管理问题堆积在各处。帮助仓尧规划这些货箱，将其移动至处理点，交给泰古通达员工处置。	0	
+chess19	处理点	0	
+chess19.desc	泰古通达的物资箱集中处理点，将货箱移动到此处后，会有泰古通达的员工前来协助处理，让安保小队正常通行。	0	
+chess20	请折返！	0	
+chess20.desc	请探查并处理活动会场内，一切可能引发事件的因素。	0	剧情触发
+chess22	灯笼	0	
+chess22.desc	燃起灯光，许下愿望。\n这是零区居民在明灯新仪上一定会做的事。	0	
+chess23	轨道电梯	0	
+chess23.desc	连接天楼不同区域的轨道电梯，搭乘电梯可离开当前区域，完成本阶段任务。	0	
+chess25	未知事件	0	
+chess25.desc	一位零区的女性青年在四处张望，似乎有什么话要说。	0	
+chess26	未知事件	0	
+chess26.desc	一位零区的男性青年在四处张望，似乎有什么话要说。	0	
+chess27	请折返！	0	
+chess27.desc	前方为泰古通达封锁区域，暂无权限进入该。	0	钥匙卡触发
+chess28	请折返！	0	
+chess28.desc	请协助仓尧，处理现场散乱的货箱及物资箱。	0	箱子触发
+			
+TxtRichUIMapName1	逐浪派对	0	
+TxtRichUIMapName2	密林派对	0	
+TxtRichUIMapName3	溯影派对	0	
+TxtRichUIMapName4	共斗派对	0	
+TxtRichManMode1	1V1	0	
+TxtRichManMode2	1V2	0	
+TxtRichManMode3	1V3	0	
+TxtRichManMode4	3V1	0	
+TxtRichUIMapdes1	掀起滔天巨浪，与少女们来一场绝对公正的一对一竞技吧~	0	
+TxtRichUIMapdes2	两道倩影邀请你共赴密林探险，在这里与她们来一场以少胜多的漂亮对决吧~	0	3.0复刻捞金派对文案优化
+TxtRichUIMapdes3	皎洁的月光下，少女们将你团团包围，与她们开启一场勇气与智慧并重的对决吧~	0	3.0复刻捞金派对文案优化
+TxtRichUIMapdes4	海风轻拂，沙滩之上出现不速之客的身影，与少女们携手对抗最后的敌人吧~	0	3.0复刻捞金派对文案优化
+TxtRichUIModeDes	该模式下可以自由配置游玩角色和基础设置	0	
+TxtRichUIModeDes2	检测到没有更改角色配置，是否用原始角色游玩？	0	
+			
+			
+			
+TxtRichManQA1	安卡希雅表示运气也是实力的一环，请凭运气做出选择吧。	0	
+TxtRichManQA2	请问瑟瑞斯的昵称是什么？	0	
+TxtRichManQA3	请问芙提雅是以下哪个系统的开发者？	0	
+TxtRichManQA4	请问猫汐尔与以下哪位角色是校友？	0	3.0复刻捞金派对文案优化
+TxtRichManQA5	请问恩雅没有在以下哪个地方实习过？	0	
+TxtRichManQA6	请问辰星的红色绳结是系在以下哪个部位？	0	
+TxtRichManQA1Answer1	我选安卡希雅	0	
+TxtRichManQA1Answer2	我选钝角	0	
+TxtRichManQA1Answer3	阿巴阿巴	0	
+TxtRichManQA2Answer1	小金鱼	0	
+TxtRichManQA2Answer2	小银鱼	0	
+TxtRichManQA2Answer3	小铜鱼	0	
+TxtRichManQA3Answer1	火种	0	
+TxtRichManQA3Answer2	火源	0	
+TxtRichManQA3Answer3	小太阳	0	
+TxtRichManQA4Answer1	芙提雅	0	
+TxtRichManQA4Answer2	安卡希雅	0	
+TxtRichManQA4Answer3	爷	0	
+TxtRichManQA5Answer1	后勤部	0	
+TxtRichManQA5Answer2	幼儿园	0	
+TxtRichManQA5Answer3	孤儿院	0	
+TxtRichManQA6Answer1	左侧锁骨上	0	
+TxtRichManQA6Answer2	右侧锁骨上	0	
+TxtRichManQA6Answer3	我心上	0	
+			
+TxtRichManEvent1	发现了雅卢平壳蛤，卖了获得一些派对金币	0	
+TxtRichManEvent11	发工资了！每人都获得了一些派对金币！	0	
+TxtRichManEvent2	路过的陶董留下%d张卡牌	0	
+TxtRichManEvent3	钱包被偷了	0	
+TxtRichManEvent4	税率上涨，每人额外交一些土地税	0	
+TxtRichManEvent5	与海之主缠斗，休息一回合	0	
+TxtRichManEvent6	无人机故障了在到处乱跑！需要每人上缴一些派对金币修复无人机	0	3.0复刻捞金派对文案优化
+TxtRichManEvent7	接到世界树公司的加班电话，气急攻心晕过去住院2回合	0	
+			
+TxtRichManEvent5Tips	与海之主缠斗中，当前回合不能行动	0	
+TxtRichManAskTip1	回答正确！	0	
+TxtRichManAskTip2	回答错误，没有奖励	0	
+			
+TxtRichManCardTips1	派对金币不足，使用失败	0	
+TxtRichManMoneyTips1	派对金币不足，购买失败	0	
+			
+TxtRichManTips1	因为路上摆着修复舱，无法继续前进	0	
+TxtRichManTips2	翻牌挑战开始！	0	
+TxtRichManTips3	物价上涨了！	0	
+TxtRichManTips4	离游戏结束还剩3回合！	0	
+TxtRichManTips5	身体不适，进医院休息%d回合	0	
+TxtRichManTips6	是否使用%s？	0	
+TxtRichManTips7	这里已经有道具了，不能再堆放其他道具	0	
+TxtRichManTips8	周围没有可占领的土地	0	
+TxtRichManTips9	没有可清除的道具，无法使用	0	
+TxtRichManTips10	周围只有你自己，无法使用道具	0	
+TxtRichManTips11	对方已经没有卡片啦~	0	
+TxtRichManTips12	该角色已加入游戏	0	
+TxtRichManTips13	医院休息中，还有%d回合		
+TxtRichManTips14	身体恢复，出院啦		
+TxtRichManTips15	%s消耗了一张「自由逃离」，保住了自己的钱包		
+TxtRichManTips16	{{Owner}}对{{Target}} 使用了「替身木遁」，让对方帮自己垫付了		
+TxtRichManTips17	附近没有选手拥有卡牌，使用失败		
+TxtRichManTips18	附近已经没有可以摆放的位置了		
+TxtRichManWalk	前进%d步		
+TxtRichVoteAwardsTips			
+TxtRichManTips19	%s步伐变得沉重，持续%d回合只能前进一步		
+TxtRichManTips20	传送成功		
+			
+			
+chess03_1	特殊事件·加班电话		
+chess03_1.desc	接了后反而能进医院睡觉		
+chess03_2	地块·医疗地块		
+chess03_2.desc	医院门口的地块		
+chess03_3	空地皮		
+chess03_3.desc	等一个不回家的人		
+chess03_4	小木屋1级		
+chess03_4.desc	小木屋1级，属于%s		
+chess03_5	小木屋2级		
+chess03_5.desc	小木屋2级，属于%s	0	
+chess03_6	小木屋3级	0	
+chess03_6.desc	小木屋3级，属于%s	0	
+chess03_7	小木屋「灰色」1级	0	
+chess03_7.desc	小木屋「灰色」1级，暂无归属	0	
+chess03_8	小木屋「灰色」2级	0	
+chess03_8.desc	小木屋「灰色」2级，暂无归属	0	
+chess03_9	小木屋「灰色」3级	0	
+chess03_9.desc	小木屋「灰色」3级，暂无归属	0	
+chess03_10	度假中心1级	0	
+chess03_10.desc	度假中心1级，属于%s	0	
+chess03_11	度假中心2级	0	
+chess03_11.desc	度假中心2级，属于%s	0	
+chess03_12	度假中心3级	0	
+chess03_12.desc	度假中心3级，属于%s	0	
+chess03_13	度假中心「灰色」1级	0	
+chess03_13.desc	度假中心「灰色」1级，暂无归属	0	
+chess03_14	度假中心「灰色」2级	0	
+chess03_14.desc	度假中心「灰色」2级，暂无归属	0	
+chess03_15	度假中心「灰色」3级	0	
+chess03_15.desc	度假中心「灰色」3级，暂无归属	0	
+chess03_16	花园餐厅1级	0	
+chess03_16.desc	花园餐厅1级，属于%s	0	
+chess03_17	花园餐厅2级	0	
+chess03_17.desc	花园餐厅2级，属于%s	0	
+chess03_18	花园餐厅3级	0	
+chess03_18.desc	花园餐厅3级，属于%s	0	
+chess03_19	花园餐厅「灰色」1级	0	
+chess03_19.desc	花园餐厅「灰色」1级，暂无归属	0	
+chess03_20	花园餐厅「灰色」2级	0	
+chess03_20.desc	花园餐厅「灰色」2级，暂无归属	0	
+chess03_21	花园餐厅「灰色」3级	0	
+chess03_21.desc	花园餐厅「灰色」3级，暂无归属	0	
+chess03_22	道具点		
+chess03_22.desc	获得即刻引爆		
+chess03_23.desc	获得特制地雷		
+chess03_24.desc	获得泰坦降临		
+chess03_25	翻牌游戏		
+chess03_25.desc	挑战一下眼力和手速吧		
+chess03_26	吧台问答	0	3.0复刻捞金派对文案优化
+chess03_26.desc	来，试试看		
+chess03_27	随机事件		
+chess03_27.desc	这里会发生什么呢		
+chess03_28	传送门		
+chess03_28.desc	传送到其他的地方去		
+chess03_29	睡眠舱		
+chess03_29.desc	禁止通行		
+chess03_30	螺丝钉		
+chess03_30.desc	路过就会爆炸哦		
+chess03_31	保险箱		
+chess03_31.desc	踩中就会爆炸哦		
+chess03_32	无		
+chess03_32.desc	这里什么也没有		
+chess03_33	随机道具		
+chess03_33.desc	随机获得四张卡牌		
+			
+TxtRichManInfoTitle1	活动说明	0	
+TxtRichManInfoTitle2	游戏操作	0	
+TxtRichManInfoTitle3	游戏模式	0	
+TxtRichManInfo1des1	欢迎游玩捞金派对，尽量在游戏中获得派对金币吧！	0	
+TxtRichManInfo1des2	所在队伍派对金币在结算时排名第一，则获胜。	0	
+TxtRichManInfo1des3		0	
+TxtRichManinfo2des1	点击前进按钮可随机前进1~6格，使用遥控骰子可指定前进格数。	0	
+TxtRichManinfo2des2	合理规划手中的派对金币和卡片道具，购买地产，升级建筑，从别人手中获得更多的金钱吧！	0	
+TxtRichManinfo2des3	前进的过程中还将遇到各种事件，积极应对吧！	0	
+TxtRichManinfo3des1	传统模式：主要通过房产来获得派对金币，被道具卡功能可能会进医院。	0	
+TxtRichManinfo3des2	道具战：地图上房屋减少，通过「特制地雷」「即刻引爆」「泰坦降临」来攻击对手，使对手金钱减少，此模式不会进医院。	0	
+TxtRichManinfo3des3	共斗战：在传统模式的基础上合力使透墨索斯破产，透墨索斯有更高的初始资产和技能，和队员们一起战胜透墨索斯吧。	0	3.0复刻捞金派对文案优化
+			
+TxtRichManCardName1	行向变更	0	
+TxtRichManCardName2	过量负重	0	
+TxtRichManCardName3	万里挑一	0	
+TxtRichManCardName4	跌破谷底	0	
+TxtRichManCardName5	看看工资	0	
+TxtRichManCardName6	小手一摸	0	
+TxtRichManCardName7	替身木遁	0	
+TxtRichManCardName8	自由逃离	0	
+TxtRichManCardName9	毁天灭地	0	
+TxtRichManCardName10	特制地雷	0	
+TxtRichManCardName11	即刻引爆	0	
+TxtRichManCardName12	泰坦降临	0	
+TxtRichManCardName13	禁止通行	0	
+TxtRichManCardNameDes1	指定选中的角色转身，朝着相反方向前行		
+TxtRichManCardNameDes2	指定选中的角色在接下来的3回合中，每回合只能前进1格		
+TxtRichManCardNameDes3	使用后，使用者的角色在当前回合可选择前方1~6格指定前进		
+TxtRichManCardNameDes4	使用后，可购买角色所在的土地，土地购买价格会根据转盘停留的数字变化。数字＞3时，可半价购买当前土地；数字≤3时，则原价购买。		
+TxtRichManCardNameDes5	从指定角色获得20%的资产		
+TxtRichManCardNameDes6	使用后，可指定身处自己所在格子附近6格范围内的角色，从其所持事件卡牌中，随机获得一张。		
+TxtRichManCardNameDes7	因为任何原因入院或者受到攻击造成一定金钱损失时，可以用此卡找人替代，不可再次被「自由逃离」和「替身木遁」抵消。		
+TxtRichManCardNameDes8	资金即将损失时，使用后，可逃过此次损失，不可用来抵消「替身木遁」		
+TxtRichManCardNameDes9	使用后，可摧毁指定范围内格子上的所有障碍		
+TxtRichManCardNameDes10	使用后，在指定格子上放置螺丝钉，碰到就爆炸		
+TxtRichManCardNameDes11	使用后，在指定格子上放置实验箱，踩中后爆炸		
+TxtRichManCardNameDes12	向指定对手释放「泰坦降临」，且所处地块的建筑降低一级（已经是初始等级的房子不会降级），并引爆周围三格内的螺丝钉和实验箱		
+TxtRichManCardNameDes13	使用后，在选中的格子上放置路障，阻碍角色前行		
+			
+TxtSkill1	第一回合可获得一张「看看工资」	0	
+TxtSkill2	翻牌游戏直接获得最高奖励	0	
+TxtSkill3	随机道具点额外获得「行向变更」	0	
+TxtSkill4	陷阱点（睡眠舱 保险箱 螺丝钉）概率无效	0	
+TxtSkill5	陷阱点（睡眠舱 保险箱 螺丝钉）概率无效	0	
+TxtSkill6	住院时间减少1天	0	
+TxtSkill7	联排房屋租金上升20%	0	
+TxtSkill8	住院时间减少1天，所有房产租金上涨20%	0	
+			
+TxtSkillTips1	芙提雅预先拆除了陷阱		
+TxtSkillTips2	猫汐尔躲开了陷阱！		
+TxtSkillTips3	%s提前出院了		
+TxtSkillTips4	安卡希雅主宰了游戏，直接赢得奖励		
+			
+TxtSkillTips5	「看看工资」被「替身木遁」转移给你了，卡牌使用失败		
+TxtGameTips5	时间到，游戏结束！		
+TxtGameTips6	如果提前完成翻牌游戏可以提前提交进度		
+TxtGameTips7	是否放弃翻牌游戏？		
+			
+TxtRichManDes1_1	操作说明：点击前进按钮，可随机前进1~6格，前进过程中可能会触发各种事件，根据情况应对吧！物价指数：物价指数会影响场上所有地产的租金，和事件所产生的金钱收支；当物价指数增加时，游戏内会提示物价指数上涨。		
+TxtRichManDes1_2	物价指数：物价指数会影响场上所有地产的租金，和事件所产生的金钱收支；当物价指数增加时，游戏内会提示物价指数上涨		
+			
+TxtRichManDes2_1	房产是捞金派对活动中主要资金来源，购买房产后可向其他队伍收取租金，如果房产拥有者住院了，则无法收取租金。普通地皮购买后只能获得1级房屋，再次停留时才可以升级，升级后可以获得更多租金，最多升到3级。		
+TxtRichManDes2_2	普通地皮购买后只能获得1级房屋，再次停留时才可以升级，升级后可以获得更多租金，最多升到3级。		
+TxtRichManDes2_3	如果遇到了初始等级高的建筑请优先购买，可以更早收取更多租金，节约升级的时间。		
+			
+TxtRichManDes3	将道具卡成对翻面，倒计时结束时根据配对数量和剩余时间获得派对金币。（安卡希雅可直接获得奖励，不用翻牌。）		
+			
+TxtRichManDes4_1	剧情模式有固定的参赛选手和游玩天数，当玩家通关剧情模式会解锁自由模式，自由模式下玩家可调整参赛选手与游戏设置。每个角色有其专属技能，可在自由模式中进行查看。		
+TxtRichManDes4_2	每个角色有其专属技能，可在自由模式中进行查看。		
+			
+TxtRichManDes5_1	结算时总排名根据现金+房产来排列，房产根据结算时的实时购买价格折算。	0	3.0复刻捞金派对文案优化
+TxtRichManDes5_2			
+			
+TxtRichManDes6_1	道具战模式中，螺丝钉和保险箱爆炸范围扩大，角色不会受伤进入医院，受到伤害后金钱会减少。		
+			
+TxtItemTips1	住院剩余回合数：%d		
+TxtItemTips2	「过量负重」剩余回合数：%d		
+TxtItemTips3	持有道具卡：%d		
+			
+TxtRichManCardotherdes1	今天的训练是折返跑，以晴所在的地为折返点，快点，动起来！		
+TxtRichManCardotherdes2	背着重重的包，一步一步地，往前爬。		
+TxtRichManCardotherdes3	请求安卡希雅使用了她百发百中的飞刀技巧，一定能够选中想要的步数		
+TxtRichManCardotherdes4	只要贴上这个标签，琴诺喜欢的东西就都会变成琴诺的了……难道不是吗？如果给分析员贴上的话……		
+TxtRichManCardotherdes5	世界树员工禁止交流薪资相关，违者依合同进行罚款。		
+TxtRichManCardotherdes6	“哼哼，宝物就由我收下了，”安卡希雅摆出某个动漫角色的招牌姿势后，迅速端走了吧台上最后一份甜点。		
+TxtRichManCardotherdes7	据说在遥远的千羽地区存在一类名为“忍术”的戏法，其中便有一种脱身之术。		
+TxtRichManCardotherdes8	肴的工作守则第N条，下班！打工人终将免费！		
+TxtRichManCardotherdes9	妮塔的机械臂总在一些非战斗的场合下起到关键作用。		
+TxtRichManCardotherdes10	芙提雅小老师动手维修时洒落的螺丝钉，要是踩到了会疼得原地打滚。		
+TxtRichManCardotherdes11	疑似芙提雅遗落的实验箱，打开的话才知道它会不会爆炸。		
+TxtRichManCardotherdes12	如果尤弥尔想找工作的话，当个建筑拆除工一定会被评为年度最佳员工吧？		
+TxtRichManCardotherdes13	不知是谁将里芙的神经修复舱搬到了此处，完全堵住了前路……		
+			
+TxtArrowsTips	请选择前进方向		
+Txt2XTips1	已开启2倍速		
+Txt2XTips2	已关闭2倍速		
+Txt2XTips3	已开启{1}倍速	0	3.0复刻捞金派对
+Txt2XTips4	已关闭{1}倍速	0	3.0复刻捞金派对
+			
+			
+TxtRichVoteTips1			
+TxtRichVoteTips2			
+TxtRichManCardNameDes14	使用后与指定角色平分资金		
+			
+TxtRichManPlayerName	分析员	1000	
+			
+			
+TxtRichManLoveCardName1	随心所欲骰	0	
+TxtRichManLoveCardName2	流连忘返卡	0	
+TxtRichManLoveCardName3	派对空艇卡	0	
+TxtRichManLoveCardName4	超前点映卡	0	
+TxtRichManLoveCardName5	派对狂欢卡	0	
+TxtRichManLoveCardNameDes1	可自由前往6格以内距离的目的地	0	
+TxtRichManLoveCardNameDes2	接下来3回合内，每次投掷出的点数固定为3，使用同类卡片可延长3回合	0	
+TxtRichManLoveCardNameDes3	任选一种属性，接下来3回合内，每次前进都会提升该属性的数值，使用同类卡片不可叠加效果，可延长3回合	0	
+TxtRichManLoveCardNameDes4	仅在星期一可以使用，使用后立即进入活动周，持续到当周结束。该卡牌为限量卡牌，仅此一张，请分析员注意使用时机~	0	
+TxtRichManLoveCardNameDes5	可以选择为指定属性大量提升数值	0	
+			
+TxtRichManLovegroundname1	派对起点	0	
+TxtRichManLovegroundname2	心动问答	0	
+TxtRichManLovegroundname3	随机事件	0	
+TxtRichManLovegroundname4	约会事件	0	
+TxtRichManLovegroundname5	收纳挑战	0	
+TxtRichManLovegroundname6	活动周随机事件	0	
+TxtRichManLovegroundname7	活动周约会事件	0	
+TxtRichManLovegrounddes1	心动派对，从这里启程	0	
+TxtRichManLovegrounddes2	考验分析员的时刻到了	0	
+TxtRichManLovegrounddes3	这里会发生有趣的事哦	0	
+TxtRichManLovegrounddes4	约上少女共度一天吧	0	
+TxtRichManLovegrounddes5	翻开卡片给少女的鞋子配对，整理好三双鞋子后可获得属性数值奖励	0	
+TxtRichManLovegrounddes6	活动周期间，这里会发生有趣的事哦	0	
+TxtRichManLovegrounddes7	活动周期间，约上少女共度一天吧	0	
+			
+TxtRichManLovehelp1	心动派对游玩手册	0	
+TxtRichManLovehelp2	欢迎来到心动派对，体验浪漫约会！	0	
+TxtRichManLovehelp3	掷骰子前进1次即度过1天，心动派对一轮的总时长为42天，共6周。6周后，根据分析员的属性，会得到不同的社区成就。	0	
+TxtRichManLovehelp4	当属性数值达到指定值后，每周星期日与心仪的少女约会，可以提升少女心动指数！	0	
+TxtRichManLovehelp5	不同的社区成就会带给分析员不同的属性增益，让分析员在下一次体验心动派对时更有优势！	0	
+TxtRichManLovehelp6	在体验心动派对时会遇到各种事件。活动周开启后，事件也会发生变化哦！	0	
+TxtRichManLovehelp7	解锁不同社区成就会获得各种奖励，希望分析员玩得开心！	0	
+TxtRichManLovehelp8	操作说明	0	
+TxtRichManLovehelp9	点击前进按钮可随机前进1~6格，使用随心所欲骰可指定前进格数。	0	
+TxtRichManLovehelp10	点击前进按钮左上角的数字，调整单次点击后连续前进的轮数，连续前进轮次的最大值为当周剩余天数。	0	

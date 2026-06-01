@@ -1,0 +1,82 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	啊啊……难得的休假，早知道我就该拉着分析员在房间里健身。	啊啊……難得的休假，早知道我就該拉著分析員在房間裡健身。	ああ……せっかくの休暇なのに、こんなことなら分析員を呼んで筋トレでもしてればよかった。	후… 쉬는 날인데 일찍 알았으면 분석가랑 방에서 운동이나 했을텐데.	Ahhh... some day off this turned out to be. If I'd known it would be this tiring, I would've dragged the Adjutant to my room to work out instead.						0	
+2	果然，天下没有免费的午餐。	果然，天下沒有白吃的午餐。	やっぱり世の中そううまい話はないよな。	역시나 세상에 공짜는 없다니까.	Sure enough, there's no such thing as a free lunch.						0	
+3	就算是有，也不好吃。	就算是有，也不好吃。	あったとしても都合よくことは運ばない。	있어도 맛도 없고.	And if it is free, it won't taste good.						0	
+4	伴随着夜色，妮塔走下飞机，脸色略显疲惫。	伴隨著夜色，妮塔走下飛機，臉色略顯疲憊。	夜、ニタは飛行機から降りて、少し疲れた顔を見せた。	밤이 되자 비행기에 내린 니타의 얼굴에는 피곤한 기색이 역력했다.	Nita stepped off the plane as night fell, her expression somewhat fatigued.						0	
+5	分析员，最后一个打卡景点，就是这了吧？	分析員，最後一個打卡景點，就是這裡了吧？	分析員、ここが最後の場所だよね？	분석가, 여기가 마지막 체크인 장소지?	Adjutant, this is the last sightseeing spot, right?						0	
+6	如果时间可以倒流，我真想回到那天，阻止一时鬼使神差的自己。	如果時間可以倒流，我真想回到那天，阻止一時鬼使神差的自己。	もし時間を戻せたら、あの日に戻って魔が差した自分を止めてやりたいものだ。	만약에 시간을 되돌릴 수 있다면 그 날로 돌아가 실수를 만회하고 싶다.	If I could go back in time, I'd go back to that day and stop myself from doing something without thinking.						0	
+7	十天前——	十天前——	十日前——	10일 전…	Ten days ago...						0	
+8	妮塔，你上周买的彩票刚刚开奖了，你中奖了。	妮塔，你上週買的彩券剛剛開獎了，你中獎了。	先週の宝くじの当選結果が発表されたんだ。ニタ、当たってたよ。	니타, 네가 지난주에 샀던 그 복권 말이야! 그거 당첨된 것 같아!	Nita, the winners of the raffle you entered last week were just announced. You won.						0	
+9	呃……啊？	呃……啊？	うん……えっ？	어… 뭐, 뭐라고?	Huh... Ah?						0	
+10	真的假的？!	真的是假的？!	本当！？	진짜야??!	Really!?						0	
+11	我刚刚收到了中奖通知，是二等奖，有奖金还有免费的双人自由行。	我剛剛收到了中獎通知，是二等獎，有獎金還有免費的雙人自由行。	さっき当選のお知らせが届いた。二等賞だって。賞金以外にも、行き先を選べる二人分の旅行券が貰える。	방금 당첨 통지를 받았는데 2등 당첨금하고 무료로 2인 자유여행권을 받았어!	I just got a notification that you won the second-place prize. You get a cash prize plus a free trip for two to anywhere.						0	
+12	四天前——	四天前——	四日前——	4일 전…	Four days ago...						0	
+13	你明天把这些东西送到我们的合作伙伴手里。	你明天把這些東西送到我們的夥伴手上。	明日これをうちの各提携会社に届けてください。	내일 이 물건 좀 우리 파트너들에게 전달해줄 수 있을까?	You need to deliver these things to our business partners tomorrow.						0	
+14	这是？	這是？	これは？	이게 뭐죠?	What's that?						0	
+15	我筛选过的前董事的资料，一点表示诚意的见面礼。	我篩選過的前董事的資料，一點表示誠意的見面禮。	私が厳選した前任役員の資料です。誠意を示すためのちょっとしたプレゼント、といったところですね。	이전 이사들의 자료를 선별했어. 최소한의 성의로 보답을 좀 할까해서.	I sifted through the information on the former Directors. Consider them greeting gifts.						0	
+16	我们需要借这些公司的力量共同监视那几个老家伙的动向。	我們需要藉這些公司的力量共同監視那幾個老傢伙的動向。	いくつかの提携会社の力を借りて、共にあの老人たちの動きを監視する必要があります。	장로회의 동향을 파악하려면 이 회사의 도움이 좀 필요하거든.	We need to use these companies' power to collectively monitor the former Directors' movements.						0	
+17	安排别人去吧，我已经和妮塔约好了明天要一起旅行。	安排別人去吧，我已經和妮塔約好了明天要一起旅行。	他の人に頼めませんか？ニタと出かける約束をしたんですよ。	다른 사람한테 시키시면 안될까요? 내일은 니타랑 여행을 가기로 해서요.	Have someone else go. I told Nita I'd take a trip with her tomorrow.						0	
+18	哦？又约了一个女孩吗？	哦？又約了一個女孩嗎？	へぇ？また女の子と？	… 이번에도 데이트 약속이 있나?	Oh? You're spending time with another girl again?						0	
+19	我假装没看见陶挑起的眉毛。	我假裝沒看見τ挑起的眉毛。	τの跳ね上がる眉から目を逸らすことにした。	난 찌푸려진 τ의 눈썹을 모른척했다.	I pretended not to notice τ's raised brow.						0	
+20	我已经和他们打好招呼了，这件事非你亲自去不可。	我已經和他們打好招呼了，這件事非你親自去不可。	すでに話を通してあります。あなたが行かなければなりません。	사전에 말을 해둬서 취소할 수는 없는 상황이야.	I already made the initial preparations. You need to be there to personally handle this.						0	
+21	总得让我们的合作伙伴见见堂堂海姆达尔部队的分析员，好让他们知道自己该站的位置，别产生多余的想法。	總得讓我們的合作夥伴見見堂堂海姆達爾部隊的分析員，好讓他們知道自己該站的位置，別產生多餘的想法。	うちのヘイムダル部隊の分析員の堂々とした風格を、提携会社たちに見せてやらないと。分を弁えさせて、妙な考えを起こさせないように。	헤임달 부대의 분석가로서 파트너들을 만나야 하고. 그래야 파트너들이 자신의 위치를 되짚어보고 불필요한 생각을 하지 않게 될 거야.	Our collaborators need to meet someone as dignified as the Heimdall Force Adjutant so they know which side they should stand on. We don't want to leave a poor impression.						0	
+22	不如这次你就带上妮塔一起，把该办的事办了，剩下的随你安排。	不如這次你就帶上妮塔一起，把該辦的事辦了，剩下的隨你安排。	なんならニタも連れて行ってください。やることを済ませたら、余った時間は好きにして構いません。	아니면 니타랑 같이 가던가. 같이 일을 처리하고 나머지 시간은 분석가가 알아서 안배하면 되잖아.	Why don't you take Nita with you? After you take care of this, then you can do whatever you want.						0	
+23	这样你也不算失信于那女孩。	這樣你也不算失信於那個女孩。	これで約束を違えることもありませんね。	이렇게 하면 그 여자애한테 신뢰도 잃지 않고 좋겠네.	That way, you technically won't be breaking your promise to her.						0	
+24	喂！	喂！	ちょっと！	무슨 말을 하시는 거예요!	Hey!						0	
+25	我已经嘱咐卡罗琳安排好飞机，随时都能出发。	我已經囑咐卡羅琳安排好飛機，隨時都能出發。	すでにカロリンに飛行機を予約してもらいました。いつでも行けます。	아무튼 이미 캐롤린한테 비행기 안배를 요청했어. 언제든지 출발해도 좋아.	I already asked Caroline to get the plane ready. You can leave anytime.						0	
+26	至于其他，你就自己想想办法吧。	至於其他，你就自己想想辦法吧。	それ以外は、自分でなんとかしてくださいね。	나머지는 분석가 스스로 알아서 하도록.	As for everything else, you'll need to figure it out on your own.						0	
+27	三天前——	三天前——	三日前——	3일 전…	Three days ago...						0	
+28	藤原娱乐、拉美西斯集团、幻莲科技……怎么我们要去的都是这些世界树合作商的所在地？	藤原娛樂、拉美西斯集團、幻蓮科技……怎麼我們要去的都是這些世界樹合作商的所在地？	藤原エンターテインメント、ラムセスグループ、ロータステクノロジー……行き先はどこもユグドラシルの提携会社の所在地ばかりじゃないか。	후지와라 엔터테인먼트, 람세스 그룹, 매직로터스 테크윈… 어떻게 가는 곳마다 전부 파트너들이 있는 곳이지?	Fujiwara Entertainment, the Ramses Group, Ghost Lotus... Why are we visiting Yggdrasil's business partners?						0	
+29	难道彩票也是他们赞助的？	難道彩券也是他們贊助的？	もしかしてこいつらが宝くじのスポンサーなのか？	설마 파트너들이 복권도 후원해?	Did these companies sponsor the raffle?						0	
+30	呃，大概吧。	呃，大概吧。	えっと、そうかも。	어… 그런 것 같아.	Uh, right.						0	
+31	三天两夜游，要去这么多地方。	三天兩夜遊，要去這麼多地方。	たった3日間で、こんなにいろんな場所にいかないといけないのか。	2박 3일 동안 갈 수 있는 곳이 이렇게나 많다니.	We have to visit this many places in just three days?						0	
+32	雇佣兵式旅行么？这看着比出外勤还累人啊。	僱傭兵式旅行嗎？這看著比出外勤還累人啊。	何が旅行だよ！外勤よりもハードじゃないか！	거의 용병급 여행인데? 외근보다 더 힘들 것 같기도 하고.	What is this, a mercenary vacation? It's even more exhausting than going on a mission.						0	
+33	等等，这其实是那种借免费旅行的名头，把我们拉到店里，强行让我们买东西的套路吧？	等等，這其實是那種借免費旅行的藉口，把我們拉到店裡，強行讓我們買東西的套路吧？	ちょっと待てよ、これは無料旅行の名目で、店で買い物させる策略なんじゃないの？	잠깐만, 사실은 공짜 여행이라는 명목으로 우리를 가게로 끌고 가서 물건을 강매하는 그런 수법아니야?	Wait... Is this some kind of scheme where they use this "free trip" to lure us into their gift shops and force us to buy stuff?						0	
+34	想抢咱的钱可没门啊！	想搶我的錢可沒門啊！	思い通りになってたまるか！	그런 거라면 어림도 없지!	I won't be tricked out of my money that easily!						0	
+35	我已经深刻意识到，什么叫“只要说一句谎话，就需要无数个谎话来圆”。	我已經深刻意識到，什麼叫「只要說一句謊話，就需要無數個謊話來圓」。	「一つの嘘が七つの嘘を生む」という言葉の正しさを、身をもって知った。	나는 이 순간 깨달았다. 거짓말에는 거짓말을 낳게 된다고…	With one little lie after another, I truly began to understand what it meant to get yourself tangled in a web of lies.						0	
+36	分析员，我好像……	分析員，我好像……	分析員、私…	분석가, 아무래도…	Huh... Adjutant, I think I...						0	
+37	妮塔突然跑了起来，我只得跟随在她身后。	妮塔突然跑了起來，我只好跟著她。	ニタが急に走り出した。私は彼女を追いかけるしかなかった。	니타는 갑자기 달리기 시작했다. 나는 그녀의 뒤를 쫓아갈 수밖에 없었다.	Suddenly, Nita took off. I could only follow after her.						0	
+38	没错！就是这里，我来过这！	沒錯！就是這裡，我來過這裡！	そうそう！ここだよ、来たことがある！	맞아! 여기야! 전에 이곳에 와본 적이 있었어!	Yeah! It's here! I've been here before!						0	
+39	虽然这里变化很大，但我认得出这里就是当初我们穿越边境线，进入霍尔姆地区后藏身的巷子。	雖然這裡變化很大，但我認得出這裡就是當初我們穿越邊境線，進入霍爾姆地區後藏身的巷子。	だいぶ変わったけど、あの時私たちが辺境線を越えて、ホルム地域に入って身を隠した裏路地はここで間違いない。	많이 변하긴 했지만 국경선을 넘고 홀름 지역으로 들어갔을 때의 골목인 것 같아.	Even though it's changed a lot, I recognize it. This is the alleyway we hid in after crossing the border into Holme.						0	
+40	哈，真不可思议，我居然还能回到这里。	哈，真不可思議，我居然還能回到這裡。	ふふ、不思議だね。またここに戻ってくるなんて。	하하, 믿기지가 않아. 내가 다시 이곳에 오게 될 줄이야.	Hah, I can't believe I'm actually back here.						0	
+41	分析员，你看！	分析員，你看！	分析員、見て！	분석가, 이거 봐봐!	Adjutant, look!						0	
+42	这里还有我当时刻下的涂鸦呢！	這裡還有我當時刻下的塗鴉呢！	あの時残したラクガキ！	여기에 그때 새겼던 그라피티가 아직도 있어!	Here's the graffiti I did back then!						0	
+43	妮塔的绘画技巧和苔丝相比不相伯仲，我眯起眼睛辨认半天。	妮塔的繪畫技巧和黛斯相比不相伯仲，我瞇起眼睛辨認半天。	ニタの絵をカビの跡と見分けるのが難しく、私は目を細めてじっと見つめた。	니타의 그림 실력은 테스와 비교가 되지 않아서 나는 눈을 가늘게 떠서 봐야만 했다.	Nita's art skills were on the same level as Tess', and I squinted for a while trying to make it out.						0	
+44	这难道是？	這難道是？	これは、もしかして……	이건…	This is...?						0	
+45	你看出来了？	你看出來了？	分かった？	알아보겠어?	Can you tell what it is?						0	
+46	我是看出来了，这涂鸦倒是符合妮塔的一贯风格，但我怎么好对面前的女孩比出那种手势？	我是看出來了，這塗鴉倒是符合妮塔的一貫風格，但我怎麼好對面前的女孩比出那種手勢？	なんとか分かった。確かにいつものニタらしい絵だが、描かれているのは、人に向けてはいけないあのジェスチャーの絵だった。	확실히 그라피티가 니타의 평소 스타일과 일치하는 것을 확인할 수 있었다. 근데 여자아이가 취하고 있는 제스처가…	Eventually, I made out what it was — one finger especially prominent above the rest. It certainly matched Nita's style, but I refrained from mimicking the gesture in front of her.						0	
+47	嘿，看到这涂鸦我想起来了。	嘿，看到這塗鴉我想起來了。	ふふ、このラクガキを見て思い出したよ。	하하, 그라피티를 보니까 생각나네.	Heh, seeing this really makes me remember...						0	
+48	当时好不容易爬出了那个鬼地方，想着新生活就要开始了。就想和过去的日子比这个手势。	當時好不容易爬出了那個鬼地方，想著新生活就要開始了。就想和過去的日子比這個手勢。	あの時なんとかあの地獄から抜け出して、新生活が始まったと思いながら、それまでの日々に対してこのジェスチャーをキメてやったのさ。	그 지옥 같은 곳에서 벗어나는 건 정말이지 상상도 할 수 없었는데… 그래서 그곳에 빠져나오고 나서는 새 삶이 시작되겠거니 했지.	Back then, I'd finally clawed my way out of that hellhole and my new life was about to begin. This graffiti expressed my feelings toward the past, and it still does.						0	
+49	我绝对绝对再也不想回去了！	我絕對絕對再也不想回去了！	もう絶対に、あの時には戻りたくない。	다시는 그런 지옥 속으로 돌아가고 싶지 않아…	I absolutely never ever want to go back!						0	
+50	如我所料，托霍尔姆特别法案的福，我们被送到福利机构集中收治，有了正式的公民身份，终于不用继续流浪了。	如我所料，托霍爾姆特別法案的福，我們被送到福利機構集中收治，有了正式的公民身分，終於不用繼續流浪了。	思った通り、ホルム特別法案のおかげで、私たちは孤児院に送られて治療を受けられるようになった。正式に市民としても認められたし、路上生活とはおさらばだ。	당시에 운이 따라줘서 홀름의 특별법으로 우리는 복지 기관에 들어갈 수 있었고 정식 시민권까지 얻을 수 있었어. 더 이상 방황할 필요가 없었지.	Thanks to a special policy in Holme, we were sent to a juvenile refugee facility to be taken care of. Our days of wandering were over — we finally had a home.						0	
+51	在那之后……	在那之後……	それから……	하지만 이후에…	After that...						0	
+52	在那之后发生降临事件，隔离墙修建，位于零区内的福利机构被封闭，妮塔为了求生，成了拾荒者的一员。	在那之後發生降臨事件，隔離牆修建，位於零區內的福利機構被封閉，妮塔為了求生，成了拾荒者的一員。	それから降臨事件が起こって、ウォールが建てられた。エリアゼロに位置する孤児院も閉鎖され、生き延びるためニタはスカベンジャーとなったのだ。	또 강림 사건이 터지게 됐지… 그렇게 격리 장벽이 세워졌고 제로 구역에 있던 복지 기관들은 문을 다시 닫게 됐어. 나는 또다시 생계를 위한 피난민이 되었고.	Of course, after that, the Descent occurred and the Containment Wall was built. Then the welfare facility in the Containment Zone shut down, and Nita became a scavenger to survive.						0	
+53	其实我在零区混得还不赖，对吧，分析员？	其實我在零區混得還不賴，對吧，分析員？	私がエリアゼロにいた頃もそれなりにうまくやってたしね。そうだろ、分析員？	사실 난 제로 구역에서도 꽤 잘 지내는 편이었어. 안 그래, 분석가?	I actually did pretty well for myself in the Containment Zone. Right, Adjutant?						0	
+54	如果你指的是你那些替人打架的买卖，以及倒卖物资的活计，倒也经营得还算不错。	如果你指的是你那些替人打架的買賣，以及倒賣物資的工作，倒也經營得還算不錯。	喧嘩代行と物資転売のことなら、確かに上手く経営してたな。	네가 말하는 게 싸우거나 물건을 매매하는 일을 일컫는 거면, 그런 부분에서는 확실히 뒤지지 않았지.	If you're talking about all that fighting and reselling supplies you did, yeah, you did pretty well for yourself.						0	
+55	结果我还是被公司抓了，原来的买卖也做不成了。	結果我還是被公司抓了，原來的買賣也做不成了。	結局、会社に捕まったんだけどね。そういう商売もできなくなった。	결국에 회사에 붙잡혀서 더 이상 장사를 할 수 없게 됐지만…	I got caught by Yggdrasil, and I couldn't do my little black-market business anymore.						0	
+56	哦？那些外快是……	哦？那些外快是……	あれ？確かニタの副業は今も……	응? 그럼 그 부수입은…	Oh? Then all that extra money...						0	
+57	嘿，兴趣爱好，兴趣爱好，这都是小打小闹，钱多不压身嘛。	嘿，興趣愛好，興趣愛好，這都是小打小鬧，錢多不壓身嘛。	へへ、趣味だよ趣味。遊び半分でやってんだ、小遣い稼ぎってところかな。	헤헤, 그건 그냥 취미일 뿐이라고. 그냥 뭔가 돈이 많으면 좋잖아.	Heh, that was just for fun. Nothing serious. I didn't have much anyway, so there wasn't any pressure.						0	
+58	水往低处流，人都想往高处爬，有机会不抓的是傻子。	水往低處流，人都想往高處爬，有機會不抓的是傻子。	人は向上心を持ってしかるべきだよ。せっかくのチャンスを見逃してちゃダメだ。	물은 낮은 곳으로 흐르고 싶어하고 사람은 높은 곳으로 올라가고 싶어 하듯이… 기회가 왔을 때 그걸 놓치려는 바보가 어딨겠어.	Everyone longs for a better life. People who don't seize the chance when it comes are just idiots.						0	
+59	得知海姆达尔部队对我有兴趣后，我立马同意了人工诱发天启的协议。	得知海姆達爾部隊對我有興趣後，我立刻同意了人工誘發天啟的協議。	ヘイムダル部隊が私に興味を持っていることを知って、私はすぐアポカリプスの人工誘発に同意したんだ。	그래서 헤임달 부대가 나한테 관심을 갖고 있다는 것을 알고 나도 바로 계시자 협의서에 동의를 한 거라고.	After learning that the Heimdall Force was interested in me, I immediately agreed to artificially trigger the Manifestation process.						0	
+60	我做到了！我撑过了巴德尔抑制剂带来的不良反应，成了天启者，加入了海姆达尔。	我做到了！我撐過了巴德爾抑制劑帶來的不良反應，成了天啟者，加入了海姆達爾。	そして私はやってのけた！バルダー抑制剤の副作用にも耐えて、覚醒者になってヘイムダルに入った。	그리고 끝내 해냈어! 발드르 억제제의 부작용을 이겨냈고 계시자가 되어 헤임달에 합류할 수 있었지.	And I did it! I survived the side effects from the Baldr Inhibitors, became a Manifestation, and joined the Heimdall Force.						0	
+61	不用再犯愁下一顿吃啥，今晚睡在什么地方比较安全。	不用再擔心下一頓吃啥，今晚睡在什麼地方比較安全。	お腹を空かせる心配も、安全な寝床を探す必要もなくなった。	더 이상 끼니를 굶지 않고 어디에서 잠을 자야 하는지 걱정할 필요가 없게 됐어.	Then I didn't need to worry about where my next meal would come from, or where to sleep each night.						0	
+62	我生活在基地里，想睡软床就睡软床，想睡沙发就睡沙发，零食柜里随时可以找到东西吃。	我生活在基地裡，想睡軟床就睡軟床，想睡沙發就睡沙發，零食櫃隨時可以找到東西吃。	社員寮に住めばベッドは選び放題だし、ソファで寝たっていい。スナック棚があるから好きな時に腹拵えもできる。	숙소에서 살면서 부드러운 침대에서 마음껏 잘 수 있고 간식도 언제든지 가져다가 먹을 수 있고.	I live in the Base. I can sleep in my bed if I want. I can even sleep on the couch if I want, and there's always stuff to eat in the pantry.						0	
+63	那里没有泰坦污染，就连空气都该死的要好闻很多。	那裡沒有泰坦汙染，就連空氣都該死的好聞很多。	しかもタイタン汚染がなくて、空気までうまい。まったく癪に障るくらいだ。	타이탄 오염도 없고 공기도 빌어먹을 제로 구역보다 훨씬 깨끗하고.	There's no Titagen contamination, and the air smells a hell lot better.						0	
+64	对，还有你！	對，還有你！	それに、分析員もいて。	맞아, 그리고 분석가!	Ah, and you're there too!						0	
+65	还有你，playername。	還有你，playername。	playernameがいて。	그리고 너 말이야, playername.	You're there too, playername...						0	
+66	妮塔无比认真地看着我，眼底仿佛在燃烧着什么。	妮塔無比認真地看著我，眼底彷彿在燃燒著什麼。	ニタが真剣に私を見つめた。その瞳の奥には何かが燃え上がっているようだ。	니타는 나를 뚫어져라 쳐다봤다. 눈동자 안에는 무언가가 불타고 있는 것 같았다.	Nita looked at me incredibly seriously, as if there was something burning in her gaze.						0	
+67	我以前从不管别人怎么看我，但你让我不知该怎么办。	我以前從來不管別人怎麼看我，但你讓我不知該怎麼辦。	昔は、他人が私をどう見ているのかなんて知ったこっちゃないと思ってた。だけど、分析員と出会ってから私は動揺した。	이전에는 다른 사람들이 나를 어떻게 생각하든 신경 쓰지 않았는데, 유독 분석가는 나를 신경 쓰이게 만든단 말이지.	I never cared what other people thought of me before, but you make me question everything.						0	
+68	你是第一个会让我觉得不自在，会让我觉得自卑的人。	你是第一個會讓我覺得不自在，會讓我覺得自卑的人。	分析員と出会ってから初めて、私は自由でいられなくなって、初めて劣等感を覚えた。	분석가는 날 불편하게 만들기도 하고 열등감을 느끼게도 해.	You're the first person to make me worry about myself, to make me feel humble.						0	
+69	我好怕让你失望，开始在意我在你眼中是什么样的，我都变得不像我了。	我好怕讓你失望，開始在意我在你眼中是什麼樣的，我都變得不像我了。	分析員をがっかりさせるのが怖くて、分析員が私のことをどう見ているのか気になってきた。私は、私らしくなくなったんだ。	또 뭔가 분석가한테 실망감을 안길 것 같아 두렵기도 하고 분석가의 눈에는 내가 어떻게 보이는지 궁금하기도 하고. 뭔가 분석가 앞에서는 나답지가 않은 것 같아.	I'm so scared to disappoint you that I started to care about what you think of me. It's totally unlike me.						0	
+70	我在你眼里是什么样，分析员？	我在你眼裡是什麼樣，分析員？	分析員は、私のことをどう見てるの？	분석가 눈에는 내가 어떻게 보여?	So... What do you think of me, Adjutant?						0	
+b-1											0	
+71	你就是你，妮塔	你就是你，妮塔	ニタはニタだよ。	넌 그냥 너다워, 니타.	You're just you, Nita.						0	
+72	你在我眼中独一无二	你在我眼中獨一無二	ニタは特別だ。	넌 내 눈에 유일무이한 존재야.	To me, you're completely unique.						0	
+73	不断地毁灭，然后重生。如果谁给了妮塔一拳，她会狠狠再揍回去。	不斷地毀滅，然後重生。如果是誰給了妮塔一拳，她會狠狠再揍回去。	ニタは何度も何度も倒されて、そして立ち直る。誰かがニタに殴りかかれば、彼女は全力でやり返すだろう。	끊임없이 파괴하고 다시 태어나는 존재. 누군가가 니타에게 주먹을 날리면 그녀도 당당하게 대갚음해 줄 것이다.	She always stood back up after getting knocked down. If someone hit her, she'd strike back ten times harder.						0	
+74	我不用费神猜她的心思，她的喜怒哀乐都坦荡荡地写在脸上。	我不用費神猜她的心思，她的喜怒哀樂都坦蕩蕩地寫在臉上。	神経を削って彼女の本心を探るまでもなく、彼女は素直に喜怒哀楽を表情で見せてくれる。	굳이 그녀의 마음을 추측하지 않아도 그녀가 느끼는 감정은 그녀의 얼굴에서 고스란히 느낄 수 있다.	I didn't need to worry about guessing what she was thinking. All of her emotions were clearly written on her face.						0	
+75	看似有些粗鲁的言行下，有一颗细致温暖的心。	看似有些粗魯的言行下，有一顆細緻溫暖的心。	些か乱暴な振る舞いとは裏腹に、彼女は繊細で温かい心の持ち主でもある。	사실 그녀의 거칠어 보이는 언행 뒤에는 항상 섬세하고 따뜻한 마음이 숨겨져 있다.	Underneath her tough exterior, she had a gentle, warm heart.						0	
+76	这样的姑娘既独一无二，又丰富多彩。	這樣的姑娘既獨一無二，又多采多姿。	彼女はユニークで、飽きさせない子だ。	이런 그녀를 보면 유일무이해 보이고 다채로워 보인다.	A girl like that is unique, and there was never a dull moment with her.						0	
+b-2											0	
+77	把手给我，我们回家	把手給我，我們回家	帰るよ、手を握って。	내 손을 잡아. 이제 집으로 돌아가자.	Give me your hand. Let's go home.						0	
+auto_12913	哎哎？这就回去吗？还有一个打卡点，不能浪费……	哎哎？這樣就回去嗎？還有一個打卡點，不能浪費……	え、もう帰るの？まだ行ってないところがあって、折角だから……	뭐? 이렇게 돌아간다고? 아직 체크인해야 할 곳이 더 남아있는데…	Huh? We're going back already? But there's another spot to check out...						0	

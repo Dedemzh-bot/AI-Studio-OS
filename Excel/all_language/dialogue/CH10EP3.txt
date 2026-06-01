@@ -1,0 +1,66 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	喂喂……试抗干扰通讯……到请……回答。	喂喂……整抗干擾通訊……到請……回答。	もしもし……妨害防止通信テスト……聞こえ……応答してください。	아… 아… 통신 신호 테스트 중… 들리… 시… 나요? 응답 바람.	Hello... Testing anti-interference communications... Please respond...						0	
+2	听不……吗……切换信道……	聽不……嗎……切換訊道……	……ませんか……チャンネルを変更……	안 들리… 나… 그럼 채널… 변경…	Can't you hear...? Change channels...						0	
+3	喂喂？正在调试抗干扰通讯频道，听到请回答。	喂喂？正在調整抗干擾通訊頻道，聽到請回答。	もしもし？妨害防止通信チャンネルを調整中です。聞こえたら応答してください。	들리시나요? 통신 신호 테스트 중. 들리면 응답 바람.	Hello? Please respond if you can hear me while we test the anti-interference communication channel.						0	
+b-1											0	
+4	虽然还是有点不清楚。	雖然還是有點不清楚。	まだ完全に聞こえたわけじゃないけど。	아직 깔끔하지는 않지만…	There's still a bit of static.						0	
+b-2											0	
+5	但是至少能用。	但是至少能用。	なんとか使えそうだ。	사용할 수 있을 것 같아.	But it does the job.						0	
+6	……旁边研发部的同事，麻烦把你们的欢呼声压低一点好吗？还没有在污染程度更高的区域通过测试哦。	……旁邊研發部的同事，麻煩把你們的歡呼聲壓低一點好嗎？還沒有在汙染程度更高的區域通過測試哦。	……開発部、喜ぶのは後にしてもらっていいですか？汚染がもっとひどいエリアでのテストはまだですよ。	…저기 연구부 팀원분들? 환호는 나중에 하시고… 오염 수치가 높은 곳에서 테스트하는 것도 아닌데.	...Please keep your cheers to a minimum, R&D Department. The test has yet to pass in locations with greater contamination levels.						0	
+7	分析员，既然这玩意能用，就让所有队员都装备上吧。	分析員，既然這東西能用，就讓所有隊員都裝備上吧。	分析員、これが使えるなら、隊員たちに装備させてあげましょう。	분석가님, 일단 사용할 수는 있을 것 같으니 팀원분들한테 나눠주세요.	Adjutant, since this thing works, we should provide it to everyone on the team.						0	
+8	唉……终于不用在作战指挥室干着急，像等待开盲盒一样等待任务结果了。	唉……終於不用在作戰指揮室乾著急，像等待開盲盒一樣等待任務結果了。	はぁ……これでようやく作戦室でお祈りしながらミッション結果を待つ必要もなくなります。	후… 이제 지휘실에서 가슴 졸이면서 미션 결과를 기다릴 필요는 없겠어요…	*sigh*... I don't have to sit in the command room waiting for mission updates without knowing how you're doing anymore.						0	
+b-3											0	
+9	卡罗琳你真是承担了太多……	卡羅琳你真是承擔了太多……	カロリンは苦労してるね……	이것저것 신경 쓰느라 힘들었겠어…	Caroline, You've been working extremely hard...						0	
+10	是啊是啊……行了，测试结束，就不耽误你继续执行任务了。	是啊是啊……行了，測試結束，就不耽誤你繼續執行任務了。	ええ、そりゃあもう……さてと、テスト完了。これ以上ミッションを邪魔してはいられません。	맞아요… 그럼 이제 테스트도 끝났으니 더 이상 방해하지 않을게요.	Yeah, yeah... Okay, the test is over. You can now return to your mission.						0	
+11	刚才那个地下通道，应该已经是处于炸毁坍塌的状态。	剛才那個地下通道，應該已經是處於炸毀坍塌的狀態。	さっきのトンネルは、爆破されて崩壊しているはずです。	사실 방금 봤던 지하 통로는 폭발로 이미 무너진 상태였어야 했어요.	Seems like the tunnel just now had been blown up and collapsed.						0	
+b-4											0	
+12	从痕迹推测，是被降临团重新掘开的。	從痕跡推測，是被降臨團重新掘開的。	痕跡から見て、降臨団が掘り直したと考えられる。	흔적을 보니 강림단이 새롭게 발굴한 것 같네요.	The clues here indicate that it was dug out again by the Adventists.						0	
+13	多半是也察觉到泰坦向零区中央汇集，开始“虔诚之路”什么的。	多半是也察覺到泰坦向零區中央匯集，開始“虔誠之路”什麼的。	多分タイタンがエリアゼロの中心部に集まってることに気づいて、「信心の道」とかいうのを始めようとしたとか？	타이탄이 제로 구역으로 모이는 걸 발견하고, '신성한 길'을 개척한 게 분명해.	They probably noticed that the Titans were gathering in the center of the Containment Zone, then started their "Church Progress" or something.						0	
+14	我认为降临团也有可能了解尤克特拉希尔出现异变的原因。	我認為降臨團也有可能了解尤克特拉希爾出現異變的原因。	降臨団ならユグドラシルに異変が起きた原因が分かるかもしれません。	추측이지만 세계수에서 변이가 일어난 이유를 강림단 측에서 알고 있을 것 같아요.	I believe it's also possible that the Adventists know the reason behind the World Tree mutation.						0	
+15	小太阳那边不是抓到一个舌头吗？问问就知道了。	小太陽那邊不是抓到一個敵人嗎？問問就知道了。	おひさまちゃんの方に生け捕りにした人がいたじゃない？聞いてみればいい。	안 그래도 리틀썬이 포로를 한 명 잡았잖아? 물어보면 답이 나오겠지.	Didn't Little Sunshine catch someone over there? We'll never know unless we ask.						0	
+16	给芙提雅老师乖乖站好！挺胸！抬头！不要撅屁股！	給芙提雅老師乖乖站好！挺胸！抬頭！不要翹屁股！	ちゃんと立ちなさい！胸を張って！顔を上げて！お尻を突き出さないで！	똑바로 서! 가슴 펴고! 머리 들고! 엉덩이 빼지마!	Stand up straight! Lift your chest! Keep your head held high! Don't stick out your butt!						0	
+17	……	……	……	…	...						0	
+18	哇啊！什么嘛！你那种蔑视的眼神！	哇啊！什麼嘛！你那種蔑視的眼神！	うわっ！なによ！その見下すような目！	와… 그 눈빛 뭐야? 이거 사람 무시하는 눈빛 맞지?!	Wha—! What's up with that hateful look you're giving me!?						0	
+19	惩罚你青蛙跳二十下！一边数一边报数！	懲罰你青蛙跳二十下！一邊跳一邊報數！	罰としてカエル跳び20回！跳びながら数えといてね！	벌로 제자리 뛰기 20회 실시! 횟수 세면서 하도록!	20 frog jumps as punishment! Count while you jump!						0	
+b-5											0	
+20	你在干嘛？	你在幹嘛？	何をしているの？	프티야… 여기서 뭐해?	What are you doing?						0	
+21	她刚才故意叫我“小朋友”！相当过分相当过分！你看她现在还是这种居高临下的姿态！	她剛才故意叫我“小朋友”！相當過分相當過分！你看她現在還是這種居高臨下的姿態！	わざと私のことを「子供」扱いするの！ひどくない？ほら、今も上から目線だよね！	이 녀석이 방금 나더러 '꼬맹이'라고 하는 거 있지? 너무하잖아! 지금도 봐! 완전히 날 무시하는 태도를 보이고 있잖아!	She just called me "kid" on purpose! Seriously! Just look at her — she still has a condescending attitude!						0	
+b-6											0	
+22	有没有一种可能……	有沒有一種可能……	もしかすると……	혹시 말이야…	Is it possible that...						0	
+23	请，继续说，芙提雅老师在听哦。	請，繼續說，芙提雅老師在聽哦。	はい、どうぞ。聞いてるよ。	아아… 네! 말씀하시죠! 프티야 님이 경청해 드리지요.	Please continue. Professor Fritia is listening.						0	
+24	我听出了重音落在“请”字上的弦外之音，急忙运用理智消灭了想要捉弄芙提雅的冲动。	我聽出了重音落在“請”字上的弦外之音，急忙運用理智消滅了想要捉弄芙提雅的衝動。	アクセントが「はい」にあって、そのニュアンスを感じた私は慌ててフリティアをからかいたい衝動を理性で抑えた。	갑작스러운 공손함에 프티야를 골려주려고 했던 마음이 순간 달아났다.	I heard her emphasize the word "please," causing me to quickly repress the urge to mess with Fritia.						0	
+b-7											0	
+25	好了，我想问她几个问题。	好了，我想問她幾個問題。	コホン……彼女に聞きたいことがあって。	음… 다름이 아니라, 이 사람한테 몇 가지 물어보고 싶은 게 있는데.	Alright, I want to ask her a few questions.						0	
+26	这样呀……那只能一会再青蛙跳了。	這樣呀……那只能等一下再青蛙跳了。	なるほどね……それじゃ、カエル跳びは後にするしかない。	그래? 그럼 제자리 뛰기는 잠시 후에 시켜야 하나.	I see... then she'll have to do her frog jumps later.						0	
+27	谁允许你休息了！问问题完全不影响罚站！给我站直！挺胸！不要翘屁股！	誰允許你休息了！問問題完全不影響罰站！給我站直！挺胸！不要翹屁股！	休憩は許可してないよ！質問されても姿勢を崩さないでね！まっすぐ立って！胸を張って！お尻を突き出さないで！	누가 쉬라고 했나! 질문한다고 서 있지 못하는 건 아니잖아! 똑바로 서! 가슴 펴고! 엉덩이 빼지마!	Who said you could take a break? Answering questions has nothing to do with your punishment! Stand up straight! Lift your chest! Don't stick out your butt!						0	
+28	小太阳竟然还有这样恶魔的一面。	小太陽竟然還有這樣惡魔的一面。	おひさまちゃんにもこんな悪魔的な一面があるとは。	리틀썬에게 이렇게 사악한 면이 있었다니.	I was surprised to find that Little Sunshine actually had quite a devilish side.						0	
+29	好不容易安抚了气呼呼的小太阳，我开始向这位自称朝觐者的降临团会员询问。	好不容易安撫了氣呼呼的小太陽，我開始向這位自稱朝覲者的降臨團會員詢問。	ぷんぷんしていたおひさまちゃんをやっとの思いで宥めて、この巡礼者を自称する降臨団メンバーに質問を始めた。	흥분해있는 프티야를 어렵게 달래고… 알현자라고 자칭하는 강림단 신자에게 몇 가지 질문을 했다.	After calming Little Sunshine down, I began to question the Adventist who identified herself as a pilgrim.						0	
+b-8											0	
+30	能问你几个问题吗？	能問你幾個問題嗎？	少し質問してもいいか？	몇 가지 좀 여쭤봐도 될까요?	Can I ask you a few questions?						0	
+31	请问。	請問。	どうぞ。	네, 말씀하시죠.	Go ahead.						0	
+32	她用温柔的语调回答，礼貌且理智，全然不像其他降临团会员那样无法沟通。	她用溫柔的語調回答，禮貌且理智，全然不像其他降臨團會員那樣無法溝通。	彼女は優しい口振りで答えてくれた。礼儀正しいし、理性に満ちている。他の降臨団メンバーと違い、話も通じない様子はない。	그녀는 부드러운 어조로 대답했는데, 예의 있고 지성을 겸비한 것이 다른 강림단 신자들처럼 막혀 보이진 않았다.	She responded in a calm, polite, and sensible tone, unlike other Adventists who were typically indifferent.						0	
+33	也许能从她这里得到真正有用的信息。	也許能從她這裡得到真正有用的訊息。	もしかしたら、彼女から本当に役に立つ情報が聞けるかもしれない。	이 사람이라면 유용한 정보를 얻을 수 있을 것 같다.	She could provide us with extremely important information.						0	
+b-9											0	
+34	降临团为什么要掘开炸毁的隧道。	降臨團為什麼要掘開炸毀的隧道。	降臨団はどうして爆破されたトンネルを掘り返した？	강림단에서 무너진 터널을 무엇 때문에 개척하는 거죠?	Why did the Adventists dig out the collapsed tunnel?						0	
+35	是为了朝觐。	是為了朝覲。	巡礼のためよ。	알현을 하기 위해서랍니다.	For the pilgrimage.						0	
+b-10											0	
+36	朝觐的含义是？	朝覲的含義是？	巡礼というのは？	알현이라는 게 뭐죠?	What do you mean by "pilgrimage"?						0	
+37	经历磨炼，穿越风雪，去追寻神迹的诞生。	經歷磨煉，穿越風雪，去追尋神蹟的誕生。	試練を経て、吹雪を通り抜け、神跡の誕生を追い求める。	일종의 단련을 통해 눈보라를 뚫고, 기적을 쫓아가는 거죠.	To seek out the miracle's birth by overcoming tribulations, passing through blizzards and storms.						0	
+b-11											0	
+38	神迹？	神蹟？	神跡？	기적이요?	The miracle?						0	
+39	祂降下神谕，只要前来朝觐，就能让我跟女儿团聚。	祂降下神諭，只要前來朝覲，就能讓我跟女兒團聚。	神託をいただいたの。巡礼に来れば、娘と会わせてくれると。	신께서 이런 말씀을 하셨었죠. 자신을 알현하러 오면 딸과 만나게 해주겠다고.	The Divine told me through a prophecy that I can reunite with my daughter through the pilgrimage.						0	
+b-12											0	
+40	你女儿在哪里？	你女兒在哪裡？	娘さんはどこに？	따님은 지금 어디에 있나요?	Where is your daughter?						0	
+41	她在三年前的“降临”中消失了。	她在三年前的“降臨”中消失了。	3年前の「降臨」で行方不明になった。	3년 전, '강림' 사건으로 사라졌습니다.	Three years ago, she vanished in the "Descent."						0	
+42	提到女儿，她的声音开始不再沉静，而是颤抖起来。但随后又充满了希望。	提到女兒，她的聲音開始不再沉靜，而是顫抖起來。但隨後又充滿了希望。	娘のことを話すと、彼女の声は冷静さを失い、震え始めた。しかしすぐにまた希望に満ちる。	딸 이야기가 나오자 그녀의 부드러웠던 목소리는 조금씩 떨리기 시작했고, 희망에 가득 찬 것처럼 말하기 시작했다.	Instead of going quiet, her voice began to shake as she mentioned her daughter. However, her voice quickly returned to a hopeful tone.						0	
+43	那是真正的神迹，我们都看到了神的真正形象，都与……祂，进行了对话……	那是真正的神蹟，我們都看到了神的真正形象，都與……祂，進行了對話……	あれは本当の神跡だ。私たちは神の本当の姿を見られたし、しかも彼女と……会話ができた……	그건 정말 기적이었어요! 저희 모두 신을 봤고, 신과 대화도 나눴었죠…	It was a true miracle. We all beheld the Divine's true appearance... and even conversed...						0	
+44	降临团从大主到刚刚加入的会员，几千人同时做了同样一个梦。	降臨團從大主到剛剛加入的會員，幾千人同時做了同樣一個夢。	降臨団は大司教から新しく入ったメンバーまで、何千人も同じ夢を見た。	강림단의 교주부터 막 입단한 신자까지, 수천 명이 똑같은 꿈을 꿨죠.	Several thousand Adventists, from the High Presbyter to the newest members, had the same dream at the same moment.						0	
+45	我开始改变看法，认为这位“朝觐者”和其他精神失常的降临团会员没有什么不同，只是沉溺在荒诞的幻想与虚假的信仰中。	我開始改變看法，認為這位“朝覲者”和其他精神失常的降臨團會員沒有什麼不同，只是沉溺在荒誕的幻想與虛假的信仰中。	この「巡礼者」は他の気が狂っている降臨団メンバーと変わらぬ、ただ不条理な幻想とむなしい信仰の中に囚われている人だと私は考え始めた。	그녀에 대한 인식이 조금씩 바뀌기 시작했다. 결국엔 그녀도 다른 신자들과 같이 허무한 환상과 거짓된 신앙에 빠져있음이 분명했다.	This "pilgrim" started to resemble other mentally unstable Adventists who indulge in ridiculous fantasies and false beliefs.						0	
+46	但她随后说出的内容，如同压在胸口的巨石，使我几乎无法呼吸。	但她隨後說出的內容，如同壓在胸口的巨石，使我幾乎無法呼吸。	でも彼女がその後に話した内容に、私は大岩を胸に押し付けられたかのように息が詰まった。	하지만 그녀가 이어서 한 말은 내게 큰 충격을 안겨다 줬는데…	But what she said next hit my chest like a train, leaving me feeling suffocated.						0	
+47	祂在泰坦的簇拥下，踏着“雪”降临。身穿白裙，系着红色领结。	祂在泰坦的簇擁下，踏著“雪”降臨。身穿白裙，繫著紅色領結。	タイタンに囲まれ、「キオーン」を踏みながら降臨した彼女は、白いワンピースを着て、赤いリボンを結んでいた。	신은 타이탄에 둘러싸여 있었고, '눈'을 밟으며 강림했어요. 흰 치마에 붉은 리본을 매고 있었죠.	She descended upon the "Snow" while surrounded by Titans. She was dressed in a white gown with a red bow.						0	
+48	恍惚中，我仿佛听到风雪中传来“埃达”的低声窃笑。	恍惚中，我彷佛聽到風雪中傳來“埃達”的低聲竊笑。	ふと、吹雪の中から「エッダ」の低い笑い声が聞こえた気がした。	순간 눈보라 속에서 '에다'의 웃음소리가 들려오는 것 같았다.	In a daze, I imagined I could hear Edda's muffled giggles coming from the blizzard.						0	
+49	神说出祂的真名，名为<orange>“埃达”</>。	神說出祂的真名，名為<orange>“埃達”</>。	神は真名を口にした。<orange>「エッダ」</>と。	신께서는 본인을 <orange>'에다'</>라고 말씀하셨어요.	The Divine pronounced her true name as <orange>"Edda"</>.						0	
+49_1	神还说……	神還說……	神は……	신께서는…	And the Divine said...						0	
+50	只要触摸“树”，就能够到达神的所在。	只要觸摸「樹」，就能夠到達神的所在。	「デンドロン」に触れれば、神の所在地に辿り着く。	'나무'를 만지면 신이 있는 곳에 도달할 수 있다고 했죠.	If you touch the " Tree," you may enter the realm of the Divine.						0	
+50_1	瓦尔哈拉！	瓦爾哈拉！	ヴァルハラ！	'발할라'로!	Valhalla!						0	

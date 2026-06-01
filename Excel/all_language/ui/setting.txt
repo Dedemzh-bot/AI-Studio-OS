@@ -1,0 +1,356 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+low	低	低	低	낮음	Low						0	
+middle	中	中	中	중간	Medium						0	
+high	高	高	高	높음	High						0	
+extra_high	极高	極高	極めて高い	매우 높음	Extreme						0	
+open	开启	開啟	オン	켜기	On						0	
+close	关闭	關閉	オフ	끄기	Off						0	
+normal	普通	普通	ノーマル	일반	Normal						0	
+advanced	高级	高級	詳細設定	고급	Advanced						0	
+definition	画面清晰度	畫面清晰度	画面解像度	그래픽 해상도	Display Definition Quality						0	
+effect	视觉效果	視覺效果	視覚効果	시각 효과	Visual Effects						0	
+shadow	阴影质量	陰影品質	シャドウ品質	음영	Shadow Quality						0	
+jag	抗锯齿	抗鋸齒	アンチエイリアス	안티 앨리어싱	Anti-Aliasing						0	
+resolution	分辨率	分辨率	解像度	해상도	Resolution						0	
+fps	帧率上限	影格率上限	フレームレート上限	프레임	Frame Rate						0	
+mirror	实时反射	即時反射	照り返し	실시간 리플렉션	Reflection Realism						0	
+post	后期效果	後期效果	後処理効果	포스트 프로세싱	Post-Processing						0	
+glow	辉光	輝光	グロー	밝기	Glow						0	
+wrap	扭曲	扭曲	歪み	왜곡	Distortion						0	
+depath	景深	景深	被写界深度	피사체 심도	Depth of Field						0	
+blur	动态模糊	動態模糊	モーションブラー	모션 블러	Motion Blur						0	
+two	2倍	2倍	2倍	2배	2x						0	
+four	4倍	4倍	4倍	4배	4x						0	
+eight	8倍	8倍	8倍	8배	8x						0	
+fps1	30	30	30	30	30						0	
+fps2	45	45	45	45	45						0	
+fps3	60	60	60	60	60						0	
+fps4	90	90	90	90	90						0	
+fps5	120	120	120	120	120						0	
+img_quality	图像质量	畫質	画質	그래픽 품질	Image Quality						0	
+language_select	语音语言选择	語音語言選擇	ボイスの言語	언어 선택	Language						0	
+zh_CN	简体中文	简体中文	简体中文	简体中文	简体中文						0	
+ja_JP	繁體中文	繁體中文	繁體中文	繁體中文	繁體中文						0	
+zh_TW	日本語	日本語	日本語	日本語	日本語						0	
+ko_KR	한국어	한국어	한국어	한국어	한국어						0	
+en_US	English	English	English	English	English						0	
+de_DE	Deutsch	Deutsch	Deutsch	Deutsch	Deutsch						0	
+es_ES	Español	Español	Español	Español	Español						0	
+fr_FR	Français	Français	Français	Français	Français						0	
+th_TH	ไทย	ไทย	ไทย	ไทย	ไทย						0	
+id_ID	Bahasa Indonesia	Bahasa Indonesia	Bahasa Indonesia	Bahasa Indonesia	Bahasa Indonesia						0	
+1003050	中文-普通话	中文配音	中国語	중국어-표준어	Mandarin Chinese						0	
+1003039	日语	日文配音	日本語	일본어	Japanese						0	
+1003038	英语	英語配音	英語	영어	English						0	
+1003040	韩语	韓語	韓国語	한국어	Korean						0	
+font_size	提示字大小	提示字體大小	ヒント文字のサイズ	알림 폰트 크기	Font Size						0	
+general	正常	正常	普通	정상	Common						0	
+small	小	小	小さめ	소	Small						0	
+operation_setting	操作设置	操作設定	操作設定	조작 설정	Controls						0	
+frame_setting	画面设置	畫面設定	画面設定	그래픽 설정	Graphics						0	
+sounds_setting	声音设置	聲音設定	サウンド設定	사운드 설정	Audio						0	
+other_setting	其他设置	其他設定	その他の設定	기타 설정	Other						0	
+sensitivity_setting	灵敏度设置	靈敏度設定	感度設定	감도 설정	Sensitivity						0	
+basis_setting	基础设置	基本設定	基本設定	기본 설정	Basic						0	
+push_setting	推送设置	通知設定	プッシュ通知設定	알림 설정	Notifications						0	
+gameplay_setting	游戏性设置	遊戲性設定	ゲーム設定	플레이 설정	Gameplay						0	
+mouse_setting	鼠标设置	滑鼠設定	マウス設定	마우스 설정	Mouse						0	
+operation_setting_en	OPERATION SETTING	OPERATION SETTING	OPERATION SETTING	OPERATION SETTING	Controls						0	
+frame_setting_en	GRAPHICS SETTING	GRAPHICS SETTING	GRAPHICS SETTING	GRAPHICS SETTING	Graphics						0	
+sounds_setting_en	SOUND SETTING	SOUND SETTING	SOUND SETTING	SOUND SETTING	Sound						0	
+other_setting_en	OTHER SETTING	OTHER SETTING	OTHER SETTING	OTHER SETTING	Other						0	
+sound_role	语音	語音	ボイス	음성	Voice						0	
+music_game	音乐	音樂	BGM	배경음	Music						0	
+sounds_game	音效	音效	効果音	효과음	SFX						0	
+pc_slide	鼠标灵敏度	滑鼠靈敏度	マウス感度	마우스 감도	Mouse Sensitivity						0	
+slide	转向灵敏度	轉向靈敏度	ステアリング感度	회전 감도	View Sensitivity						0	
+aim_fire	瞄准开火	瞄準開火	ADS	조준 발사	Aim and Fire						0	
+aim	瞄准灵敏度	瞄準靈敏度	ADS感度	조준 감도	Aim Sensitivity						0	
+fire	开火	開火	射撃	발사	Open Fire						0	
+skill	技能	技能	スキル	스킬	Skills						0	
+acc	加速度	加速度	加速度	가속도	Acceleration						0	
+awm_aim_slide	狙击开镜灵敏度	狙擊開鏡靈敏度	狙撃サイト感度	저격 ADS 감도	Sniper Scope Sensitivity						0	
+custom	自定义	自訂	カスタム	사용자 설정	Custom						0	
+BBBS_mode	游戏射击模式	遊戲射擊模式	ゲーム射撃モード	사격 모드	Fire Mode						0	
+BBBStype1	智能瞄准	智能瞄準	スマートエイム	스마트 조준	Smart Aim						0	
+BBBStype2	普通瞄准	普通瞄準	通常エイム	일반 조준	Normal Aim						0	
+aim_assist_strength	辅助瞄准	輔助瞄準	ADS補助	조준 보조	Aim Assist						0	
+crosshair_adsorb	准心吸附	準心吸附	サイティング吸着	크로스헤어 조정	ADS Correction						0	
+crosshair_force	瞄准矫正	瞄準矯正	ADS補正	조준 교정	Aim Correction						0	
+strong	强	強	強	강	Strong						0	
+weak	弱	弱	弱	약	Weak						0	
+skill_frame	技能锁定提示	技能鎖定提示	スキルロックのヒント	스킬 고정 표시	Skill Lock Indicator						0	
+Auto_Fire	长按开火键可持续开火	長按開火鍵可持續開火	射撃ボタンを長押しすると連射します	길게 누를 시 연속 발사 가능	Hold Fire to Keep Shooting						0	
+keyboard	键鼠设置	鍵鼠設定	キーバインド設定	키보드&마우스 설정	Keyboard						0	
+protocolTitle	账号相关	帳號相關	アカウント関連	계정 관련	Account						0	
+protocolBtn1	用户协议	使用者協議	ユーザー規約	게임 이용약관	Terms of Service						0	
+protocolBtn2	隐私政策	隱私權政策	プライバシーポリシー	개인정보 처리 방침	Privacy Policy						0	
+protocolBtn3	儿童隐私协议	兒童隱私協議	児童プライバシーポリシー	미성년자 개인정보 처리 방침	Privacy Policy for Minors						0	
+protocolBtn4	测试协议	測試協議	テストプロトコル	테스트 이용약관	Testing Agreement						0	
+gyroscope_aim	陀螺仪模式	陀螺儀模式	ジャイロスコープモード	자이로스코프 모드	Gyroscope Mode						0	
+gyroscope_invert	陀螺仪反转	陀螺儀反轉	ジャイロスコープ反転	자이로스코프 반전	Invert Gyroscope Aiming						0	
+damage_show	显示伤害数字	顯示傷害數字	ダメージ表示	대미지 표시	Display DMG number						0	
+pc_mouse_invert	鼠标反转	滑鼠反轉	マウス反転	마우스 반전	Invert Mouse						0	
+gyroscope_scale	陀螺仪灵敏度	陀螺儀靈敏度	ジャイロスコープ感度	자이로스코프 감도	Gyroscope Sensitivity						0	
+invertX	反转横轴	反轉橫軸	横軸反転	좌우 반전	Invert X-Axis						0	
+invertY	反转纵轴	反轉縱軸	縦軸反転	상하 반전	Invert Y-Axis						0	
+invertXY	都反转	都反轉	横軸・縦軸反転	전체 반전	Invert All						0	
+fight_broadcast	战斗中通知显示	戰鬥中通知顯示	戦闘中の通知表示	전투 중 알림 표시	In-Combat Notifications						0	
+joystic_fixed	固定摇杆	固定搖桿	ジョイスティック固定	스틱 고정	Fixed Joystick						0	
+skill_range	技能范围提示	技能範圍提示	スキル範囲表示	스킬 범위 표시	Skill Range Indicator						0	
+skill_tip	技能范围提示方式	技能範圍提示方式	スキル範囲の表示方式	스킬 범위 표시 방식	Skill Range Indicator						0	
+click	单击按键	單擊按鍵	クリック	클릭	Tap						0	
+press	持续按键	持續按鍵	長押し	홀드	Hold						0	
+sounds_game_volume	总音量	總音量	マスターボリューム	마스터 볼륨	Master Volume						0	
+sounds_game_quality	音效品质	音效品質	音質	효과음 품질	Sound Quality						0	
+sounds_game_effects	低弹量音效	低彈量音效	残弾警告音	탄약 부족 효과음	Low Ammo Sound Effect						0	
+notice_disturb	公告弹出	公告彈出	お知らせポップアップ	공지 알림 표시	Notice Popup						0	
+notice_login	每日首次登录时	每日首次登入時	毎日初ログイン時	첫 로그인 시	First Daily Login						0	
+notice_new	仅新公告时	僅新公告時	新通知がある時	신규 공지 시	New Notices Only						0	
+shoot_auto	自动射击	自動射擊	自動射撃	자동 사격	Auto Fire						0	
+shoot_auto_bunker	躲在掩体后自动射击	躲在掩護物後自動射擊	掩体に入って自動射撃	엄폐 중 자동 사격	Auto-Fire When Behind Cover						0	
+shoot_auto_guntype	自动射击枪械类型	自動射擊槍械類型	自動射撃銃器タイプ	자동 사격 총기 유형	Auto Fire Gun Type						0	
+shoot_auto_explosive	自动射击可破坏物品	自動射擊可破壞物品	破壊可能な物を自動射撃	파괴 가능 아이템 자동 사격	Auto-Fire at Destructible Objects						0	DLC2.3设置新增项
+guntype1	手枪	手槍	ピストル	피스톨	Pistol						0	
+guntype2	冲锋枪	衝鋒槍	サブマシンガン	기관단총	Submachine Gun						0	
+guntype3	突击步枪	突擊步槍	アサルトライフル	돌격 소총	Assault Rifle						0	
+guntype4	狙击枪	狙擊槍	スナイパーライフル	저격총	Sniper Rifle						0	
+guntype5	霰弹枪	霰彈槍	ショットガン	산탄총	Shotgun						0	
+guntype6	弩	弩	クロスボウ	석궁	Crossbow						0	
+guntype7	双枪·冲锋枪	雙槍·衝鋒槍	デュアルサブマシンガン	쌍·기관단총	Dual Submachine Guns						0	
+guntype8	弓	弓	アーチェリー	활	Bow						0	
+guntype9	格林机枪	格林機槍	ガトリングガン	개틀링 건	Gatling Gun						0	
+guntype10	飞剑	飛劍	飛剣	비행검	Flying Sword						0	
+smart_casting	释放技能辅助（使用手柄时，本功能无法关闭）	釋放技能輔助(使用手把時，無法關閉此功能)	スマートキャスト（コントローラモードではオフできません）	보조 스킬 사용(게임패드 사용 시, 해당 기능 끄기 불가)	Smart Cast (Can't be turned off when using controller)						0	
+sniper_fire	狙击枪击发方式	狙擊槍射擊方式	スナイパーライフルの射撃方式	저격총 발사 방식	Sniper Rifle Fire Mode						0	
+shot_gun_fire	霰弹枪击发方式	霰彈槍射擊方式	ショットガンの射撃方式	산탄총 발사 방식	Shotgun Fire Mode						0	
+pisto_fire	手枪击发方式	手槍射擊方式	ピストルの射撃方式	피스톨 발사 방식	Pistol Fire Mode						0	
+mix_aim	混合射击按钮	混合射擊按鈕	ミックス射撃ボタン	종합 사격 버튼	Mixed Fire Button						0	
+left_hand_fire	显示左手开火	顯示左手開火	左手射撃を表示	왼손 발사 표시	Left-Hand Trigger						0	
+aim_swerve	瞄准按钮转向	瞄準按鈕轉向	ADSボタン反転	조준 버튼 회전	ADS Button Movement						0	
+aim_model	瞄准方式	瞄準按鈕模式	ADS方式	조준 방식	Aim Down Sights						0	
+fire_adsorb	开火吸附	開火吸附	射撃吸着	발포 흡착	Fire Correction						0	
+sniper_slide	狙击枪瞄准灵敏度	狙擊槍瞄準靈敏度	スナイパーライフルADS感度	저격총 조준 감도	Sniper Rifle ADS Sensitivity						0	
+null	无	無	無	없음	None						0	
+after_aim	只在瞄准后开火	只在瞄準後開火	照準後のみ射撃可能	조준 후 발사	Fire After Entering ADS						0	
+meantime_aim	进瞄准同时开火	進瞄準同時開火	照準と同時に射撃可能	조준 및 발사	Fire While Entering ADS						0	
+mix	混合	混合	ミックス	종합	Mixed						0	
+permanent_show	常驻显示	常駐顯示	常に表示	항상 표시	Permanent Display						0	
+normal_show	常驻开启	常駐開啟	常設開放	상시 켜기	Always Enable						0	
+aim_show	开镜开启	開鏡開啟	照準時に表示	ADS 오픈	Enable in ADS Only						0	
+bunker_show	掩体内开启	在掩護物內開啟	掩体内開放	엄폐물 내부 켜기	Enable Behind Cover						0	
+display_none	不显示	不顯示	非表示	숨김	Do not display						0	
+click_switch_aim	切换瞄准	點擊切換瞄準	クリック	전환	Toggle						0	
+long_press_aim	按住瞄准	按住瞄準	長押し	고정	Hold						0	
+mix_effect	混合瞄准	混合瞄準	ミックス	조준 종합	Mixed						0	
+shot_auto	自动射击	自動射擊	自動射撃	자동 사격	Auto Fire						0	
+shot_hand	手动射击	手動射擊	手動射撃	수동 사격	Manual Fire						0	
+press_fire	按下开火	按下開火	押して射撃	클릭 시 발사	Tap to Fire						0	
+release_fire	松手开火	鬆手開火	離して射撃	해제 시 발사	Fire on Release						0	
+only_aim_open	开镜开启	開鏡開啟	ADS時オン	ADS 오픈	Enable in ADS Only						0	
+always_open	始终开启	始終開啟	常にオン	항상 오픈	Always Enable						0	
+turning_accelerate	转向加速度	轉向加速度	ステアリング加速度	회전 가속도	Swing Acceleration						0	
+rush_model	疾跑方式	疾跑方式	スプリント方式	스퍼트 모드	Sprint						0	
+autorush_model	自动疾跑	自動疾跑	オートスプリント	자동 스퍼트	Auto Sprint						0	
+rush_press	按住疾跑	按住疾跑	長押し	스퍼트 홀딩	Hold						0	
+rush_switch	切换疾跑	切換疾跑	クリック	스퍼트 변경	Toggle						0	
+boomwarn	显示炸药桶预警圈	顯示炸藥桶預警圈	樽爆弾ダメージ範囲の表示	폭약통 범위 표시	Display Barrel Blast Radius						0	
+protocolBtn5	游戏使用协议	遊戲使用者協議	ゲーム利用規約	게임 이용약관	Terms of Service						0	
+protocolBtn6	《尘白禁区》第三方SDK列表	《塵白禁域》第三方SDK列表	『スノウブレイク』サードパーティSDK一覧	<스노우 브레이크: 포비든 존> 제3자 SDK 리스트	Third-Party SDK List						0	
+protocolBtn7	《尘白禁区》隐私政策	《塵白禁域》隱私權政策	『スノウブレイク』プライバシーポリシー	<스노우 브레이크: 포비든 존> 개인정보 처리 방침	Privacy Policy						0	
+protocolBtn8	注销游戏账号	刪除遊戲帳號	ゲームアカウントを削除する	계정 탈퇴	Delete Account						0	
+protocolBtn9	資金決済法		資金決済法								1000	
+protocolBtn10	特定商取引法										1000	
+protocolCtrl	查看	查看	表示	보기	View						0	
+protocolGoto	前往	前往	向かう	바로가기	Go						0	
+language	语言设置	語言設定	言語設定	언어 설정	Language						0	
+game_language	游戏语言	遊戲語言	ゲーム言語	게임 언어	Text						0	
+game_voice	游戏整体语音	遊戲整體語音	ゲーム全体のボイス	게임 전체 음성	All Voice-Over						0	
+game_voice_tips	设置游戏整体语音为“%s”，将修改部分队员单独的语音设置，是否确认设置？	設定遊戲整體語音為「%s」，將修改部分隊員單獨的語音設置，是否確認設定？	ゲーム全体のボイスを「%s」に設定すると、一部の隊員の個別ボイス設定が変更されます。よろしいですか？	전체 게임 음성을 '%s'로 설정하면 일부 팀 구성원의 개별 음성 설정이 수정됩니다. 설정을 확인하시겠습니까?	Setting all voice-over to "%s" will change the voice-over settings of some individual operatives. Confirm to change?						0	
+fire_swerve	开火按钮转向	開火按鈕轉向	射撃ボタン反転	사격 버튼 회전	Fire Button Movement						0	
+cn_voice	国语	國語	中国語	중국어	Mandarin Chinese						0	
+customer_service	客户服务	客戶服務	カスタマーサービス	고객센터	Customer Service						0	
+contact	联系客服	聯繫客服	カスタマーサービスに連絡	문의사항	Contact						0	
+goto	前往	前往	向かう	바로가기	Go						0	
+keyboardType	键盘	鍵盤	キーボード	키보드	Keyboard						0	
+gamepadType	手柄	手把	コントローラー	게임패드	Gamepad						0	
+window_size	显示模式	顯示模式	表示モード	스크린 모드	Display						0	
+no_border_full_screen	无边框全屏	無邊框全螢幕	フルスクリーン	테두리 없는 전체화면	Borderless Fullscreen						0	
+full_screen	全屏	全螢幕	全画面	전체화면	Fullscreen						0	
+windowed	窗口化	視窗化	ウィンドウ	창모드	Windowed						0	
+2560x1440	2560x1440	2560x1440	2560x1440	2560x1440	2560x1440						0	
+1920x1080	1920x1080	1920x1080	1920x1080	1920x1080	1920x1080						0	
+1680x1050	1680x1050	1680x1050	1680x1050	1680x1050	1680x1050						0	
+1600x1024	1600x1024	1600x1024	1600x1024	1600x1024	1600x1024						0	
+1600x900	1600x900	1600x900	1600x900	1600x900	1600x900						0	
+1366x768	1366x768	1366x768	1366x768	1366x768	1366x768						0	
+1360x768	1360x768	1360x768	1360x768	1360x768	1360x768						0	
+1280x960	1280x960	1280x960	1280x960	1280x960	1280x960						0	
+1280x800	1280x800	1280x800	1280x800	1280x800	1280x800						0	
+1280x768	1280x768	1280x768	1280x768	1280x768	1280x768						0	
+1280x720	1280x720	1280x720	1280x720	1280x720	1280x720						0	
+1152x864	1152x864	1152x864	1152x864	1152x864	1152x864						0	
+1024x768	1024x768	1024x768	1024x768	1024x768	1024x768						0	
+800x600	800x600	800x600	800x600	800x600	800x600						0	
+1280x1024	1280x1024	1280x1024	1280x1024	1280x1024	1280x1024						0	
+3840x2160	3840x2160	3840x2160	3840x2160	3840x2160	3840x2160						0	
+2560x1600	2560x1600	2560x1600	2560x1600	2560x1600	2560x1600						0	
+2048x1536	2048x1536	2048x1536	2048x1536	2048x1536	2048x1536						0	
+1960x2160	1960x2160	1960x2160	1960x2160	1960x2160	1960x2160						0	
+rendering	渲染精度	渲染精細度	レンダリング精度	렌더링	Rendering Precision						0	
+run_type	奔跑方式	奔跑方式	スプリント方式	스퍼트 모드	Sprint Control						0	
+run_type1	长按闪避	長按閃避	長押しで回避	홀드 후 회피	Hold Dodge Button						0	
+run_type2	拖动摇杆	移動搖桿	ジョイスティックをドラッグ	스틱 드래그	Drag Joystick						0	
+run_type3	都开启	全開啟	全てオン	전부 오픈	Enable Both						0	
+deflection	显示跳弹提示	顯示跳彈提示	跳弾注意を表示する	도탄 알림 표시	Display ricochet prompts						0	
+shoot_view1	瞄准按钮支持转动视角	瞄準按鈕支援轉動視角	ADSで視点を回す	조준 버튼으로 시점 이동	Can Rotate View in ADS Fire						0	
+shoot_view2	开火按钮支持转动视角	開火按鈕支援轉動視角	射撃ボタンで視点を回す	사격 버튼으로 시점 이동	Can Rotate View in Basic Fire						0	
+shoot_view3	混合射击按钮支持转动视角	混合射擊按鈕支援轉動視角	ミックス射撃で視点を回す	종합 사격 버튼으로 시점 이동	Can Rotate View in Mixed Fire						0	
+sensitivity	灵敏度设置	靈敏度設定	感度設定	감도 설정	Sensitivity						0	
+sensitivity1	不开镜	不開鏡	非ADS	ADS 비활성화	Standard						0	
+sensitivity2	开镜	開鏡	ADS	ADS 활성화	Aim Down Sights						0	
+sensitivity3	狙击枪开镜	狙擊槍開鏡	ADS（スナイパーライフル）	저격총 ADS 활성화	Sniper Scope						0	
+datainput	原始数据输入	輸入原始數據	オリジナルデータ入力	기본 데이터 입력	Enter original data						0	
+msg_push	消息推送	訊息通知	プッシュ通知	메시지 알림	Push Notifications						0	
+energy_full	感知回满	感知回滿	最大センス回復	감지 회복 완료	Presence is full						0	
+effects	特效质量	特效品質	エフェクト品質	이펙트 효과	Special Effect Quality						0	
+scene	场景细节	場景細節	シーン細部	필드 디테일	Scenery Detail						0	
+texture	贴图质量	貼圖品質	テクスチャ品質	텍스처 품질	Texture Quality						0	
+FXTAA	FXAA	FXAA	FXAA	FXAA	FXAA						0	
+TAA	TAA	TAA	TAA	TAA	TAA						0	
+PlusTAA	增强TAA	增強TAA	TAA増強	TAA 강화	Enhance TAA						0	
+plus	增强	增強	増強	강화	Enhance						0	
+fpsMax	最大帧率	最大影格率	最大フレームレート	최대 프레임	Max Frame Rate						0	
+vertical	垂直同步	垂直同步	垂直同期	수직 동기화	V-Sync						0	
+frog	体积雾	體積霧	ボリュームフォグ	안개 효과	Volume Fog						0	
+vacuumization	虚化效果	虛化效果	ブラーエフェクト	허상 효과	Blur Effect						0	
+verticalslide	纵向滑动比值	上下滑動比值	縦の感度割合	수직 드래그 비율	Vertical Scroll Ratio						0	
+damage_txt_show	显示战斗跳字	顯示戰鬥跳字	戦闘情報の表示	전투 표시 활성화	Display Combat Text						0	
+damage_txt_show1	伤害数字	傷害數字	ダメージ数値	대미지 표시	Damage Values						0	
+damage_txt_show2	“跳弹”提示	跳彈提示	「跳弾」の通知	'도탄' 표시	Ricochet Prompts						0	
+damage_txt_show3	“破坏”提示	破壞提示	「破壊」の通知	'파괴' 표시	Destroy Prompts						0	
+damage_txt_show4	“免疫控制”提示	免疫控制提示	「拘束無効」の通知	'CC기 면역' 표시	Control Immunity Prompts						0	
+selectall	全选	全選	全てを選択	전체 선택	All						0	
+selectpart	部分选择	部分選擇	一部を選択	지정 선택	Some						0	
+selectnone	暂未选择	暫未選擇	未選択	미선택	None						0	
+Account1	官方账号	官方帳號	公式アカウント	공식 사이트 계정	Official						0	
+Account2	X账号	X帳號	Xアカウント	X(트위터) 계정	X						0	
+Account3	苹果账号	Apple ID	Apple ID	애플 계정	Apple						0	
+Account4	脸书账号	Facebook帳號	Facebookアカウント	페이스북 계정	Facebook						0	
+Account5	谷歌账号	Google帳號	Googleアカウント	구글 계정	Google						0	
+Account6	Steam账号	Steam帳號	Steamアカウント	Steam 계정	Steam						0	
+Account7	DMM账号	DMM帳號	DMMアカウント	DMM 계정	DMM						0	
+exchange_code	兑换码	兌換碼	特典コード	교환 코드	Redeem Code						0	
+exchange_go	前往兑换	前往兌換	交換へ	교환하기	Go Redeem						0	
+relevancy	关联	關聯	連携する	연동	Associate						0	
+back_to_login_title	返回登录界面	返回登入介面	ログイン画面に戻る	로그인 화면	Return to Login Screen						0	
+back_to_login_btn	前往界面	前往介面	戻る	돌아가기	Go						0	
+handle_keyboard	键位配置	鍵位設定	キーコンフィグ	키 설정	Key Bindings						0	
+handle_autoaim	辅助瞄准	輔助瞄準	ADS補助	조준 보조	Aim Assist						0	
+handle_shake	手柄震动	手把震動	コントローラー振動	게임패드 진동	Gamepad Vibration						0	
+senior_angle_view	高级设置	高級設定	ハードモード設定	고급 설정	Advanced Settings						0	
+detail_setting	高级设置详情	高級設定詳情	ハードモード設定詳細	고급 설정 정보	Advanced Settings Details						0	
+steering_sensitivity	普通视角控制灵敏度	普通視角控制靈敏度	ノーマル視点感度	일반 시점 감도	Normal Camera Control Sensitivity						0	
+aiming_sensitivity	瞄准视角控制灵敏度	瞄準視角控制靈敏度	ADS感度	조준 시점 감도	Aiming Camera Control Sensitivity						0	
+sniperaiming_sensitivity	狙击枪瞄准视角控制灵敏度	狙擊槍瞄準視角控制靈敏度	スナイパーライフルの照準視点感度	저격총 조준 시점 감도	Sniper Scope Control Sensitivity						0	
+steering_curve	视角控制直接响应度	視角控制直接反應度	視点反応時間	시점 반응 정도	Camera Control Direct Responsiveness						0	
+steering_corner	中心无反应区	中心死角區	デッドゾーン	내부 데드존	Central Deadzone						0	
+sterring_inverse	控制方向反向	控制方向反向	逆方向設定	역방향 설정	Reverse Control Direction						0	
+move_corner	中心无反应区	中心死角區	デッドゾーン	내부 데드존	Central Deadzone						0	
+handle	手柄设置	手把設定	コントローラー設定	게임패드 설정	Controller						0	
+go_set	进入	進入	設定へ	설정	Enter						0	
+corner	中心无反应区	中心死角區	デッドゾーン	내부 데드존	Central Deadzone						0	
+external_threshold	边缘无反应区	邊緣死角區	入力限界	외부 데드존	Peripheral Deadzone						0	
+response_curve	摇杆响应曲线	搖桿回應曲線	反応曲線	스틱곡선	Joystick Response Curve						0	
+handle_lr_speed	视角控制灵敏度（水平）	視角控制靈敏度（水平）	左右視点感度	시점 감도(좌우)	Camera Control Sensitivity (Horizontal)						0	
+handle_ud_speed	视角控制灵敏度（垂直）	視角控制靈敏度（垂直）	上下視点感度	시점 감도(상하)	Camera Control Sensitivity (Vertical)						0	
+extra_lr_speed	推至边缘后视线加速（水平）	推至邊緣後視線加速（水平）	左右視点移動加速	시점 감도 가속(좌우)	Line of Sight Peripheral Acceleration (Horizontal)						0	
+extra_ud_speed	推至边缘后视线加速（垂直）	推至邊緣後視線加速（垂直）	上下視点移動加速	시점 감도 가속(상하)	Line of Sight Peripheral Acceleration (Vertical)						0	
+extra_start_steering_delay	推至边缘后视线加速生效时间	推至邊緣後視線加速啟動時間	視点移動付与時間	시점 감도 가속 효력 시간	There is a slight accelerating effect on the line of sight when pushed to the periphery						0	
+extra_start_steering_time	推至边缘后视线加速生效延时	推至邊緣後視線加速啟動延遲	視点移動付与ディレイ	시점 감도 가속 효력 시간	Delay in line of sight acceleration when pushed to the periphery						0	
+aimed_handle_lr_speed	视角控制灵敏度（水平）	視角控制靈敏度（水平）	左右視点感度	시점 감도(좌우)	Camera Control Sensitivity (Horizontal)						0	
+aimed_handle_ud_speed	视角控制灵敏度（垂直）	視角控制靈敏度（垂直）	上下視点感度	시점 감도(상하)	Camera Control Sensitivity (Vertical)						0	
+aimed_extra_lr_speed	推至边缘后视线加速（水平）	推至邊緣後視線加速（水平）	左右視点移動加速	시점 감도 가속(좌우)	Line of Sight Peripheral Acceleration (Horizontal)						0	
+aimed_extra_ud_speed	推至边缘后视线加速（垂直）	推至邊緣後視線加速（垂直）	上下視点移動加速	시점 감도 가속(상하)	Line of Sight Peripheral Acceleration (Vertical)						0	
+aimed_extra_start_steering_delay	推至边缘后视线加速生效时间	推至邊緣後視線加速啟動時間	視点移動付与時間	시점 감도 가속 효력 시간	There is a slight accelerating effect on the line of sight when pushed to the periphery						0	
+aimed_extra_start_steering_time	推至边缘后视线加速生效延时	推至邊緣後視線加速啟動延遲	視点移動付与ディレイ	시점 감도 가속 효력 시간	Delay in line of sight acceleration when pushed to the periphery						0	
+sniper_aimed_handle_lr_speed	视角控制灵敏度（水平）	視角控制靈敏度（水平）	左右視点感度	시점 감도(좌우)	Camera Control Sensitivity (Horizontal)						0	
+sniper_aimed_handle_ud_speed	视角控制灵敏度（垂直）	視角控制靈敏度（垂直）	上下視点感度	시점 감도(상하)	Camera Control Sensitivity (Vertical)						0	
+sniper_aimed_extra_lr_speed	推至边缘后视线加速（水平）	推至邊緣後視線加速（水平）	左右視点移動加速	시점 감도 가속(좌우)	Line of Sight Peripheral Acceleration (Horizontal)						0	
+sniper_aimed_extra_ud_speed	推至边缘后视线加速（垂直）	推至邊緣後視線加速（垂直）	上下視点移動加速	시점 감도 가속(상하)	Line of Sight Peripheral Acceleration (Vertical)						0	
+sniper_aimed_extra_start_steering_delay	推至边缘后视线加速生效时间	推至邊緣後視線加速啟動時間	視点移動付与時間	시점 감도 가속 효력 시간	There is a slight accelerating effect on the line of sight when pushed to the periphery						0	
+sniper_aimed_extra_start_steering_time	推至边缘后视线加速生效延时	推至邊緣後視線加速啟動延遲	視点移動付与ディレイ	시점 감도 가속 효력 시간	Delay in line of sight acceleration when pushed to the periphery						0	
+Quick_Burst	队员快捷爆发后离场	隊員快捷爆發技後離場	クイック発動直後退場	팀원 빠른 특수 스킬 발동 후 퇴장	Operative Switches Out After Ultimate						0	
+controler_model_custom	自定义键位	自訂鍵位	キーバインド編集	사용자 설정 키	Custom Key Bindings						0	
+controler_model1	专注技能模式	專注技能模式	スキル集中モード	집중 스킬 모드	Focus Skill Mode						0	
+controler_model2	专注射击模式	專注射擊模式	射撃集中モード	집중 사격 모드	Focus Shot Mode						0	
+controler_model3	技能使用配套模式	技能使用配套模式	関連性特化モード	일반 스킬 전용 키	Off-Field Skill Mode						0	
+controler_model_custom_Desc	可根据您的使用手柄的习惯，自行设定按键布局。标有*号的设置项，支持将已占用的功能按键设置为长按。	可根據您使用手把的習慣，自行設定按鍵布局。標有*的設定選項支持重複按鍵設定，支持將已佔用的功能按鍵設定為長按。	ご自身の操作方法に合わせて設定が可能です。*がついた項目は、既に設定した操作ボタンを長押しに設定できます。	사용자가 선호하는 단축키로 설정할 수 있으며, *가 표시된 설정 항목은 이미 사용 중인 기능을 [길게 누르기]로 설정할 수 있습니다.	Adjust the button layout based on your own controller preferences. Settings marked with * can be assigned as "long-press" to buttons with "tap" already occupied by other settings.						0	
+controler_model1_Desc	使用该预设配置，可以更方便、快捷地释放技能，达到伤害最大化。	使用此預設設定，可以更便利、快捷地釋放技能，達到傷害最大化。	このデフォルト設定を使用すると、より便利で素早くスキルを発動してダメージを最大化することができます。	해당 설정 사용 시, 더욱 편리하고 빠르게 스킬을 사용할 수 있으며, 대미지를 극대화할 수 있습니다.	Quickly and easily use skills and maximize damage with this preset configuration.						0	
+controler_model2_Desc	使用该预设配置，更易做到精准射击，并可以更快地进行视角移动。	使用此預設設定，更容易做到精準射擊，並可以更快速地移動視角。	このデフォルト設定を使用すると、正確な射撃が容易になり、視点の移動をよりに行うことができます。	해당 설정 사용 시, 더욱 정확하게 사격이 가능하며, 더욱 빠르게 시점 전환을 할 수 있습니다.	Experience more accurate shooting and faster camera movement with this preset configuration.						0	
+controler_model3_Desc	使用该预设配置，换人、支援技释放、后台队员爆发技快捷使用等操作的按键更具有关联性、更便于记忆。	使用該預設設定，換人、支援技釋放、後台隊員爆發技快捷使用等操作的按鍵更具關聯性、更便於記憶。	このデフォルト設定を使用すると、隊員の切り替えや支援技の発動、控え隊員の爆発技クイック発動などを実行するボタンが関連付けられ、覚えやすくなります。	미리 설정해놓은 전용 키를 사용하면 팀원 변경, 보조 스킬 사용, 오프 필드 팀원의 특수 스킬 사용 등 더 손쉽게 조작이 가능합니다. 	Easily change operatives and use off-field operatives' Support and Ultimate Skills with this easy-to-remember preset configuration.						0	
+Quick_Burst_Hint	所有可设置队员将改为快捷使用爆发技后<span color="#d68238">%s</>，\n您是否确定？	所有可設置隊員將改為快捷使用爆發技後<span color="#d68238">%s</>，\n您是否確定？	爆発技クイック発動直後<span color="#d68238">%s</>に設定、設定可能の隊員全員に有効。\nよろしいですか？	빠른 특수 스킬 사용 후 팀원들은 <span color="#d68238">%s</>하게 됩니다.\n진행하시겠습니까?	All available operatives will be set to <span color="#d68238">%s</> after using Ultimate Skills,\nplease confirm to change						0	
+Quick_Burst_Set1	驻场	上場	出撃	입장	Stay In						0	
+Quick_Burst_Set2	离场	離場	退場	퇴장	Switch Out						0	
+protocolURL	https://www.amazingseasun.com/privacy.html?lang=zh-cn&gamecode=111111680	https://www.amazingseasun.com/privacy.html?lang=zh-Hant&gamecode=111111680	https://www.amazingseasun.com/privacy.html?lang=ja&gamecode=111111680	https://www.amazingseasun.com/privacy.html?lang=ko&gamecode=111111680	https://www.amazingseasun.com/privacy.html?lang=en&gamecode=111111680						1000	
+protocolURL.domestic	https://www.cbjq.com/show-7126-8-1.html		https://www.cbjq.com/show-7126-8-1.html								1000	
+useUrl	https://www.amazingseasun.com/user.html?lang=zh-cn&gamecode=111111680	https://www.amazingseasun.com/user.html?lang=zh-Hant&gamecode=111111680	https://www.amazingseasun.com/user.html?lang=ja&gamecode=111111680	https://www.amazingseasun.com/user.html?lang=ko&gamecode=111111680	https://www.amazingseasun.com/user.html?lang=en&gamecode=111111680						1000	
+useUrl.domestic	https://m.xoyo.com/agreements/agreements.html?name=kingsoft-network-game-agreement&hide-header-menu=true										1000	
+auto_enterBlintage	疾跑状态自动进入掩体	疾跑狀態自動進入掩護物	スプリント中自動で掩体に入る	스퍼트 모드 시, 자동으로 엄폐물 진입	Automatically hide behind cover when sprinting						0	
+auto_climbBlintage	疾跑状态自动翻越掩体（开启后角色不会进入小型掩体）	疾跑狀態自動翻越掩護物（開啟後角色不會進入小型掩護物）	スプリント中に掩体を自動で越える（オンにすると、キャラクターは小型掩体に入らない）	스퍼트 모드 시, 자동으로 엄폐물 넘기(소형 엄폐물은 제외)	Automatically climb over cover while sprinting (Operative will not automatically hide behind cover after turning on)						0	
+dmmUrl	https://snowbreak.amazingseasun.com/show-679-10-1.html		https://snowbreak.amazingseasun.com/show-679-10-1.html								1000	
+dmmUrl.domestic	https://snowbreak.amazingseasun.com/show-679-10-1.html		https://snowbreak.amazingseasun.com/show-679-10-1.html								1000	
+block_friend_request	拒绝好友申请	拒絕好友申請	フレンド申請を拒否	친구 신청을 거절합니다.	Block Friend Requests						0	
+modify_bound_phone	修改绑定手机	修改綁定手機	認証携帯番号を変更	연동된 휴대폰 변경	Change Linked Mobile Number						0	
+modify_bound_phone_other	GM修改绑定手机	GM修改綁定手機	GMで認証携帯番号を変更	GM 권한으로 연동된 휴대폰 변경	Change Linked Mobile Number by GM						0	
+modify_bound_email	修改绑定邮箱	修改綁定信箱	認証メールを変更	연동된 메일 변경	Change Linked Email						0	
+detail.10	账号注销后，所有金山旗下产品均无法使用该账号进行登录，且该账号无法再次注册成为账号。申请账号注销后账号会永久冻结，且该账号下的所有角色均会被注销，请谨慎选择操作。	帳號刪除後，所有金山旗下產品均無法使用該帳號進行登入，且該帳號無法再次註冊成為帳號。申請賬號註銷後帳號會永久凍結，且該賬號下的所有角色均會被註銷，請謹慎選擇操作。	アカウントを削除すると、弊社のいかなるタイトルでもこのアカウントは使用できなくなります。また、同じアカウントは再登録できません。削除した後、当該アカウントは永遠に使用禁止となります。この操作によって当該アカウントのキャラクターはすべて削除されますので、慎重に操作してください。	계정이 해지된 후에는 Kingsoft 관련 제품에 로그인할 수 없으며 해당 계정으로 재등록이 불가합니다. 계정 해지를 신청하시면 해당 계정은 영구적으로 동결되며 계정 내 모든 캐릭터는 영구적으로 소멸되오니 이점을 유념하시고 조작해 주시기 바랍니다.	After deleting your account, you will not be able to use it to log into any Amazing Seasun products and it cannot be re-registered. After requesting account deletion, your account will be permanently frozen and all characters on the account will be deleted. Please consider carefully before proceeding.						0	
+detail.20	当前账号绑定手机若无法使用，可申请该业务进行修改。业务办理期间账号会冻结。	當前帳號綁定手機若無法使用，可申請該業務進行修改。業務辦理期間帳號會凍結。	認証携帯番号を現在使用していない場合、この操作で認証携帯番号を変更できます。審査期間中、関連するアカウントは使用禁止となります。	현재 계정에 연동된 휴대폰을 사용할 수 없는 경우, 해당 업무를 통해 변경을 신청하실 수 있습니다. 업무 처리 기간에 계정이 동결될 수 있습니다.	If you can't access the mobile number linked to this account, you can request to change the linked number. While processing this change, your account will be temporarily frozen.						0	
+detail.bilics	请打开Bilibili App-游戏中心-我的-联系客服，或打开游戏详情页-联系客服										1000	b站专用
+resetplayer	角色复位	角色復位	隊員リセット	캐릭터 복귀	Reset Operative						0	
+reset_monster	敌人复位	敵人復位	敵リセット	타깃 복귀	Reset Enemies						0	
+reset	复位	復位	リセット	복구	Reset						0	
+mutiskillshield	联机隐藏队友技能特效	多人配對隱藏隊友技能特效	マルチプレイ時の味方スキルエフェクト表示	팀원 스킬 이펙트 숨기기	Hide Teammate Skill Visual Effects						0	
+mutiskillshield_effectclosed	隐藏特效	隱藏特效	エフェクト非表示	이펙트 숨기기	Hide						0	
+mutiskillshield_effectopen	显示特效	顯示特效	エフェクト表示	이펙트 표시	Show						0	
+hpbarshield	联机隐藏队友头顶生命值	多人配對隱藏隊友頭頂生命值	マルチプレイ時、味方の頭上にHPバーを表示しません	멀티 모드에서 팀원의 HP 숨기기	Hide HP Bar Above Teammates						0	
+ultimate_perform	爆发技动画播放设置	爆發技動畫播放設定	爆発技演出設定	특수 스킬 애니메이션 재생 설정	Ultimate Skill Animation Settings						0	
+everytime	总是播放	總是播放	常に再生する	항상 재생	Always Play						0	
+fightone	每次战斗仅播放第一次	每次戰鬥僅播放第一次	各戦闘で最初の1回だけ再生する	전투 중 처음 한 번만 재생	Play First Time in Battle						0	
+onlynew	每名队员仅播放一次	每位隊員僅播放一次	隊員ごとに1回だけ再生する	각 팀원당 한 번만 재생	Play Once per Operative						0	
+noperform	不播放	不播放	再生しない	재생하지 않음	Never Play						0	
+ultimate_perform_tips	设置在下次进入关卡时生效	設定在下次進入關卡時生效	設定は次回ステージに入る時に有効になります	다음 스테이지 진입 시 설정이 적용됩니다.	Settings will take effect the next time you enter a stage						0	
+girl_settingdes01	已选思绪	已選思緒	選択中の思い出	선택한 생각	Obtained Mood Buffs						0	
+girl_settingdes02	游戏性设置	遊戲性設定	ゲーム設定	플레이 설정	Gameplay						0	
+girl_settingdes03	基础设置	基礎設定	基本設定	기본 설정	Basic						0	
+girl_settingdes04	自动射击模式	自動射擊模式	自動射撃モード	자동 사격 모드	Auto Fire						0	
+girl_settingdes05	手动射击模式	手動射擊模式	手動射撃モード	수동 사격 모드	Manual Fire						0	
+girl_settingdes06	准星移动灵敏度	準星移動靈敏度	エイム移動感度	조준 움직임 감도	Crosshair Sensitivity						0	
+girl_settingdes07	重置	重置	リセット	리셋	Reset						0	
+subSetting_title	字幕显示	字幕顯示	字幕表示	자막 표시	Show Subtitles						0	字幕设置
+subSetting_option1	全部关闭	全部關閉	すべてオフ	모두 끄기	All Off						0	字幕设置
+subSetting_option2	开启互动字幕	開啟互動字幕	ふれあい字幕をオンにする	상호작용 자막 켜기	Show Interaction Subtitles						0	字幕设置
+subSetting_option3	开启其他字幕	開啟其他字幕	その他の字幕をオンにする	기타 자막 켜기	Show Other Subtitles						0	字幕设置
+subSetting_option4	全部开启	全部開啟	すべてオン	모두 켜기	All On						0	字幕设置
+subSetting_tips	互动、关卡结算、共鸣动画、少女出浴字幕均会受到本设置影响	互動、關卡結算、共鳴動畫、少女出浴字幕均會受到本設定影響	字幕設定適用範囲：ふれあい、ステージリザルト、レゾナンス演出、シャワー後	상호작용, 스테이지 결산, 공명 애니메이션, 소녀 목욕 신 자막 등이 본 설정의 영향을 받습니다.	This setting affects subtitles for interactable scenes, stage results animations, Echo animations, and shower exits.						0	字幕设置
+ultra	至臻	至臻	至高	최고급	Ultimate						0	五档画质设置
+download.lock	暂未开放	暫未開放	未開放	일시 잠금	Unavailable						0	3.1预下载
+download.check	开始下载	開始下載	ダウンロード開始	다운로드 시작	Download Now						0	3.1预下载
+download.downloading	下载中：%s%%	下載中：%s%%	ダウンロード中：%s%%	다운로드 중: %s%%	Downloading: %s%%						0	3.1预下载
+download.pause	已暂停：%s%%	已暫停：%s%%	一時停止中：%s%%	일시 정지됨: %s%%	Paused: %s%%						0	3.1预下载
+download.completed	已完成	已完成	ダウンロード完了	완료	Completed						0	3.1预下载
+download.title	预下载	預先下載	事前ダウンロード	사전 다운로드	Pre-install						0	3.1预下载
+gamestop	游戏后台暂停	背景執行暫停	バックグラウンド一時停止	백그라운드에서 게임 일시 정지	Pause Game in Background						0	3.2后台设置相关
+gamemute	游戏后台静音	背景執行靜音	バックグラウンドミュート	백그라운드에서 게임 음소거	Mute Game in Background						0	3.2后台设置相关
+gamestoptips	开启后，若在战斗中将游戏置于后台，游戏将自动暂停（联机除外）	開啟後，若在戰鬥中將遊戲置於背景，遊戲將自動暫停（多人配對模式除外）	オンにすると、戦闘中にゲームをバックグラウンドにした際、自動的に一時停止します（マルチプレイを除く）。	이 기능을 켜면, 전투 중 게임을 백그라운드로 돌릴 경우 자동으로 일시 정지됩니다(멀티 제외).	When enabled, the game will auto-pause if it is switched to the background during combat (co-op modes excluded).						0	3.2后台设置相关
+gamemutetips	开启后，若将游戏置于后台，游戏将自动静音	開啟後，若將遊戲置於背景，遊戲將自動靜音	オンにすると、ゲームをバックグラウンドにした際、自動的に音声がミュートされます。	이 기능을 켜면, 게임을 백그라운드로 돌릴 경우 자동으로 음소거됩니다.	When enabled, the game will auto-mute if it is switched to the background.						0	3.2后台设置相关
+TxtSetupVoiceDownloadTitle1	语音包下载	語音包下載	音声パックダウンロード	음성팩 다운로드	Download Voice-Over Pack						0	3.2语音下载
+farmwar_autoclose	种植蔬菜伙伴后自动关闭种植界面	種植蔬菜夥伴後自動關閉種植介面	野菜仲間の栽培完了後、リスト画面が自動的に閉じる	야채 파트너를 재배한 후 자동으로 재배 화면을 닫습니다.	Auto-close the planting panel after planting a veggie						0	3.4爆爆菜园
+ARGameset01	操作设置										1	装甲战骑设置
+ARGameset02	基础设置										1	装甲战骑设置
+ARGameset03	重置										1	装甲战骑设置
+ARGameset04	自动射击模式										1	装甲战骑设置
+ARGameset05	手动射击模式										1	装甲战骑设置
+ARGameset06	灵敏度设置										1	装甲战骑设置
+ARGameset07	准星移动灵敏度										1	装甲战骑设置

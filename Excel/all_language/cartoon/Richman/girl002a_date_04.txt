@@ -1,0 +1,11 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	里芙专注地浏览着烟花表演的资料……	里芙專注地瀏覽著煙火表演的資料……	リフは花火大会の資料を真面目に読み込んでいる……	리브는 불꽃놀이 자료를 열심히 훑어보는데…	Lyfe was intently browsing through a brochure about the fireworks show...						0	
+choice01	里芙有什么想游玩的吗？	里芙有什麼想遊玩的嗎？	リフ、なにか気になったものは？	리브는 뭐 여행하고 싶은 거 있어?	Did you see any activities you're interested in?						0	
+page1.1	资料上说表演场地附近会举办游玩夜市。	資料上說表演場地附近會舉辦遊玩夜市。	大会の近くで祭りをやってるらしい。	자료에 따르면 공연장 근처에서 야시장 놀이가 열린다고 해.	The brochure mentions that there's a night market near the venue of the fireworks show.						0	
+page1.2	可以一边看烟花一边在夜市上游玩，有的摊位还可以玩游戏赢取纪念品。	可以一邊看煙火一邊在夜市上游玩，有的攤位還可以玩遊戲贏取紀念品。	花火を見ながら祭りで遊ぶこともできるようだ。記念品がもらえる遊びの屋台もあるらしい。	불꽃놀이를 보면서 야시장 상류에서 놀 수 있고, 게임을 해서 기념품을 받을 수 있는 부스도 있어.	We can enjoy the fireworks and explore the night market at the same time. There are stalls with games to win souvenirs.						0	
+page1.3	好，到时候看我的！	好，到時候看我的！	本当か？私の腕の見せ所だな。	좋아, 그때 내 활약을 기대해!	Sounds fun. I'm going to win the biggest prize for you!						0	
+page1.4	嗯，那么我就紧紧跟在分析员身边，为你加油喝彩。	嗯，那我就緊緊跟在分析員身邊，為你加油喝采。	そうだな。その時は、分析員の傍で見守るよ。	응, 그럼 분석가 옆에 꼭 붙어서 응원할게.	Okay, then I'll stick close by to cheer you on.						0	
+choice02	里芙有什么想品尝的吗？	里芙有什麼想品嚐的嗎？	リフ、なにか食べたいものは？	리브는 뭐 먹어보고 싶은 거 있어?	Anything you'd like to try, Lyfe?						0	
+page2.1	有很多特色的小吃，至于具体选择哪个……	有很多特色的小吃，至於具體選擇哪一個……	たくさんあるみたいだな。どれと言われると……	특색있는 먹거리들이 많은데 구체적으로 어떤 걸 고를지…	These are all interesting street foods. As for which to choose...						0	
+page2.2	如果是和分析员一起，我觉得不论尝试哪个都很好。	如果是跟分析員一起，我覺得不論嘗試哪一個都很好。	分析員と一緒なら、どれでもいい。	분석가와 함께라면 어떤 시도를 해도 좋을 것 같아.	As long as I'm with you, everything will taste great.						0	

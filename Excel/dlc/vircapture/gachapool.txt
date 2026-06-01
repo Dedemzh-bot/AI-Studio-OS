@@ -1,0 +1,3 @@
+蛋池id	开启时间	结束时间	解锁条件(例{{1,1}})（1账号等级 2前置关卡 3获得某个道具 20开拓等级）	怪物池子索引	已解锁权重	未解锁权重	每抽花费	说明	地区限制目前可填：0国内外,1国内,2海外
+Id	StartTime	EndTime	Condition	PoolFile	UnlockWeight	LockWeight	Cost	Info	Coverage
+1	[202405301000]	[203012121000]	{{20,10}}	pool01	900	100	{5,25,2,6,1}	vircapture.vircapture_GachaTips	

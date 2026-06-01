@@ -1,0 +1,42 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	在“海姆达尔海岛运动会”结束之后，\N我与猫汐尔便踏上了寻找谜之无人机的冒险。	在「海姆達爾海島運動會」結束之後，\N我與貓汐爾便踏上了尋找謎樣無人機的冒險。	ガルーアイランド運動会終了後、\N私はマーシルと謎のドローンを追う冒険に出た。	 '헤임달 섬 운동회'가 끝난 후,\N나와 캣 시에라는 미지의 드론을 찾아 모험을 떠났다.	After the Heimdall Island Games wrapped up,\NMauxir and I set off on a new adventure — to chase down the mystery drone.						0	1.3重置
+2	不过就在此时之前趁乱潜入控制中心的谜之无人机，\N也成功接管了岛屿中控系统。	不過就在此時之前趁亂潛入控制中心的謎樣無人機，\N也成功接管了島嶼中控系統。	混乱に乗じて制御センターに潜り込んだドローンは、\N島の中枢システムを掌握。	하지만 그 전에 미지의 드론이 혼란을 틈타 통제 센터에 잠입했고,\N섬의 중앙 통제 시스템도 성공적으로 장악했다.	It had slipped into the control center during the earlier chaos —\Nand now, it had seized control of the island's central systems.						0	1.3重置
+3	随着岛屿被墙面分割成三片区域，\N谜之无人机背后的操控者总算现身。	隨著島嶼被牆面分割成三片區域，\N謎樣無人機背後的操控者總算現身。	島は壁で三つに分断され、\Nその混乱の影に潜んでいた黒幕が、ついに姿を現した。	섬이 벽에 의해 세 구역으로 갈라졌고,\N미지의 드론 배후의 조종자도 마침내 모습을 드러냈다.	With the island now divided into three sectors,\Nthe mastermind behind the mystery drone finally revealed themselves.						0	1.3重置
+4	“寻找岛屿上残破的石板发掘香蒲族消失的秘密吧。”	“尋找島嶼上殘破的石版發掘香蒲族消失的秘密吧。”	「島に散らばる欠けた石板を集め、\nアヤメ族消失の謎を暴け。」	"섬에서 부서진 석판을 찾아 부들족이 사라진 비밀을 파헤쳐라."	"Search the island for shattered stone tablets — and uncover the secrets of the vanished Typha."						0	1.3重置
+5	于是，我们被强行卷入了这样的调查游戏。	於是，我們被強行捲入了這樣的調查遊戲。	こうして私たちは強制的な「調査ゲーム」に巻き込まれた。	그렇게 우리는 강제로 이 조사 게임에 휘말리게 됐다.	And just like that, we found ourselves caught up in another mystery game.						0	1.3重置
+6	香蒲族。	香蒲族。	アヤメ族――	부들족.	The Typha.						0	1.3重置
+7	大约距今两千年前被称为“香蒲族”的族群，\N于今天的帕特拉地区西海岸出海。	大約距今兩千年前被稱為“香蒲族”的族群，\N於今天的帕特拉地區西海岸出海。	二千年前、パトラ西岸を船出し、\N嵐と大波を越えてこの孤島へ辿り着いた人々。	지금으로부터 약 2,000년 전, '부들족'이라 불리던 종족이 있었고,\N그들은 지금의 파트라 지역 서쪽 해안에서 출항했다.	Roughly 2,000 years ago,\Nthey set sail from what is now Patra's western coast.						0	1.3重置
+8	在跨越了无数风暴与巨浪之后，\N他们最终踏上了如今我们脚下的这片土地。	克服了無數暴風與巨浪之後，\N他們艱難地踏上了我們腳下所踩的這片土地。	幾多の嵐と大波を乗り越え、\Nやがてこの地にたどり着いた。	수많은 폭풍과 거센 파도를 뚫고,\N그들은 결국 지금 우리가 서 있는 이 땅을 밟았다.	After weathering countless storms and waves,\Nthey finally made landfall — right here.						0	1.3重置
+9	由此他们开始在这座与世隔绝的小岛上，\N建造起只属于他们的乐土。	由此他們開始在這座與世隔絕的小島上，\N建造起只屬於他們的樂土。	「アヤメ族」と名乗る人たちはこの世から隔絶された島に\N彼らだけの楽土を建て始めた。	그렇게 그들은 세상과 단절된 이 작은 섬에서,\N자신들만의 터전을 만들기 시작했다.	On this secluded island,\Nthey built a paradise of their own.						0	1.3重置
+10	但大概在一千三百年前，\N这个文明却突然开始由盛转衰。	但大概在一千三百年前，\N這個文明卻突然開始由盛轉衰。	しかし約千三百年前、\N文明は突如として衰退し――	하지만 약 1,300년 전,\N이 문명은 갑자기 쇠퇴하기 시작했다.	But around 1,300 years ago,\Ntheir civilization mysteriously declined.						0	1.3重置
+11	而所有的香蒲人也在某日突然“蒸发”……	而所有的香蒲人也在某日突然“蒸發”……	住民はある日を境に、痕跡も残さず姿を消した。\nまるで、もともと存在していなかったかのように。	부들족도 어느 날 갑자기 '증발'해 버렸다.	Over one single night, the entire Typha vanished without a trace...						0	1.3重置
+12	传言，他们集体前往了“另一个世界”。	傳言，他們集體前往了“另一個世界”。	噂では「もう一つの世界」――	소문에 의하면 그들은 모두 '다른 세상'에 갔다고 한다.	Legend has it they journeyed to another world.						0	1.3重置
+13	与瓦尔哈拉类似的，“精神世界”。	與瓦爾哈拉類似的，“精神世界”。	ヴァルハラに似た精神世界へ旅立ったと言う。	발할라와 같은 '정신세계' 말이다.	A realm of consciousness — like Valhalla.						0	1.3重置
+14	随着游戏的推进除了香蒲族的真相外，\N我们渐渐揭开了神秘人的面纱。	隨著遊戲的推進除了香蒲族的真相外，\N我們漸漸揭開了神秘人的面紗。	ゲームの進行とともに、アヤメ族の真実が明らかになり、\N黒幕の仮面も剥がれる。	게임이 진행되면서 부들족의 진실 외에도,\N우리는 의문의 인물에게 드리워진 베일을 점차 밝혀낼 수 있었다.	As the game progressed, we uncovered not only the truth behind the Typha\Nbut also the figure pulling the strings from the shadows.						0	1.3重置
+15	安提克勒娅——\N这位曾隶属于"色雷斯"卫城学院调查团的学者。	安提克勒婭——\N這位曾隸屬於"色雷斯"衛城學院調查團的學者。	アンティクレイア――\Nアクロポリス学院調査団「トラキア」の学者。	앤티클레아.\N한때 '트라케' 아크로폴리스 아카데미 조사단에 소속되었던 학자다.	Anticlea —\Na scholar once part of the Thrace investigative team at the Academica Acropolis.						0	1.3重置
+16	过去她们曾经在这个小岛上，\N展开过有关成年病起源的调查活动。	過去她們曾經在這個小島上，\N展開過有關成年病起源的調查活動。	かつて彼女たちはこの島で、\Nティーン症候群の起源を探っていた。	그들은 과거 이 작은 섬에서,\N성인병의 기원에 관한 조사 활동을 펼쳤다.	Years ago, her team came to this island\Nin search of the origin of Juvosis.						0	1.3重置
+17	但当调查工作刚刚到了关键点，\N即将破译开启遗迹中一扇密闭的石门时……却被学院叫停。	但當調查工作剛剛到了關鍵點，\N即將破譯開啟遺跡中一扇密閉的石門時……卻被學院叫停。	調査はようやく核心にさしかかり、遺跡の石門を解読して開こうとしたが、\Nその直前、学院の命令で計画は打ち切られ――	하지만 조사 작업이 최고조에 다다르고,\N유적지의 봉인된 돌문을 해독하려는 그때… 아카데미에 의해 중단되었다.	But just as they reached a breakthrough —\Non the verge of unlocking a sealed stone door in the ruins... the Acropolis abruptly shut the project down.						0	1.3重置
+18	拉美西斯集团与世界树公司便接管了这里，\N世界树公司带走了所有的研究成果。	拉美西斯集團與世界樹公司便接管了這裡，\N世界樹公司帶走了所有的研究成果。	その後、ラムセスグループとユグドラシルがこの地を引き継ぎ──\N研究成果はすべて、ユグドラシルによって持ち去られた。	그 후 람세스 그룹과 위그드라실이 이곳을 인계했고,\N위그드라실은 모든 연구 성과를 가져갔다.	Rameses Group and Yggdrasil stepped in,\Nand the latter confiscated all the research data.						0	1.3重置
+19	色雷斯倾注所有的项目流产了，\N卫城学院也撤回了她们的研究资金。	色雷斯傾注所有的計畫流產了，\N衛城學院也撤回了她們的研究資金。	トラキアが全力を注いでいたプロジェクトは頓挫、\Nアクロポリス学院も研究資金を撤回した。	트라케가 심혈을 기울인 모든 프로젝트가 무산되었고,\N얼마 후 아크로폴리스 아카데미도 연구 자금을 철회했다.	All of Thrace's efforts were scrapped.\NThe Acropolis pulled its funding entirely.						0	1.3重置
+20	而安提克勒娅此番前来，正是想要借我们之手，\N打开那扇密闭石门，拼凑齐最后的石板。	而安提克勒婭此番前來，正是想要借我們之手，\N打開那扇密閉石門，拼湊齊最後的石版。	アンティクレイアは私たちを利用し、\N扉を開き、最後の石板を揃えさせようとしていたのだ。	앤티클레아가 이번에 찾아온 것은 우리의 힘을 빌리고,\N그 봉인된 돌문을 열고 마지막 석판을 맞추기 위해서였다.	This time, Anticlea returned hoping to use us...\Nto open the sealed stone door — and complete the final tablet.						0	1.3重置
+21	可惜她的算计终成泡影，\N我们提前看穿了她诡计并设局将其擒获。	可惜她的算計終成泡影，\N我們提前看穿了她詭計並設局將其擒獲。	残念ながら彼女の計算は水泡に帰し、\N先手を打った私たちに捕えられた。	하지만 그녀의 계략은 물거품이 되고 말았다.\N우리는 미리 그녀의 속임수를 간파하고 함정을 설치해 체포했다.	But her scheme fell apart.\NWe saw through it — and caught her in a trap of our own.						0	1.3重置
+22	而至于香蒲族消失的真相则令人惋惜。	而至於香蒲族消失的真相則令人惋惜。	アヤメ族消失の真相は痛ましかった。	한편, 사라진 부들족에 대한 진실은 매우 안타까운 일이었다.	As for the truth behind the Typha's disappearance... it's a tragic tale.						0	1.3重置
+23	那个被神秘瘟疫吞噬的族群，\N如同今天的降临团一般。	那個被神秘瘟疫吞噬的族群，\N如同今天的降臨團一般。	謎の疫病に蝕まれた彼らは、\N今日の降臨団のように虚無の神に救いを求め――	신비한 역병에 삼켜진 그 종족은,\N오늘날의 강림단과 같았다.	A people consumed by a mysterious plague...\Nmuch like the Adventists of today.						0	1.3重置
+24	将未来寄托于虚无的神明，\N丧失了再生活下去的勇气。	將未來寄托於虛無的神明，\N喪失了再繼續生活下去的勇氣。	彼らは、虚ろな神へ未来を預けることで、\N生き続ける勇気すら手放してしまった。	허상의 신에게 미래를 맡기고,\N더 이상 살아갈 용기를 잃어버렸다.	They placed their faith in the hands of a hollow god...\Nand lost the will to carry on.						0	1.3重置
+25	在虚构的谎言中，他们选择集体步入永恒的安眠，\N用长眠逃避现实的苦难。	在虛構的謊言中，他們選擇集體步入永恆的安眠，\N用長眠逃避現實的苦難。	そして彼らは、綿密に練られた幻想の中で永遠の眠りを選んで、\N苦しい現実から目を背けた。	허구의 거짓말 속에서 그들은 함께 영원한 안식으로 향했고,\N긴 잠으로 현실의 고통을 피했다.	Clinging to comforting lies, they chose collective slumber...\Nescaping the world's pain through eternal sleep.						0	1.3重置
+26	……	……	……	……	...						0	1.3重置
+27	然而。	然而。	しかし。	그러나.	And yet...						0	1.3重置
+28	事实也许并非全部如此。	事實也許並非全部如此。	真実はそれだけではないかもしれない。	사실은 그것이 다가 아닐지도 모른다.	That might not be the whole truth.						0	1.3重置
+29	在人类尚未彻底征服大洋的时代	在人類尚未征服海洋的時代	人類がまだ海を完全に征服していない時代。	인류가 아직 완전히 대양을 정복하지 못한 시대,	In an era when humans were yet to conquer the sea						0	1.3重置
+30	满身伤痕，饱受战争摧残，从海岛另一端漂流至此的人们祈祷着	滿身傷痕，飽受戰爭摧殘，從海島另一端漂流至此的人們祈禱著	島の反対側から流れ着いた奴隷たちは、傷だらけになりながら祈った。	온몸에 상처를 입고, 전쟁으로 고통받은 노예들이 섬 반대편에서 내려와 기도하고 있었다.	Battered by war, their bodies scarred, the drifters from the far shore of the island prayed						0	1.3重置
+31	“让我们自此与世间苦痛诀别”	「讓我們與世間痛苦訣別」	「この世の苦しみに別れを告げましょう」と。	"우리를 세상의 고통에서 벗어나게 하소서."	"Allow us to bid this earthly pain farewell"						0	1.3重置
+32	于是，在献上了无数祭品之后，\N图拉卡斯终于给予了他们回应	於是，在獻上了無數的祭品之後，\N圖拉卡斯終於回應了他們	そして無数の生け贄を捧げた後、\Nトゥーラカスはついに彼らに報いた。	끝없이 제물을 바치자,\N투라카스는 마침내 그들의 기도를 들어주었다.	And so, after countless offerings,\NThuyakhash answered their plea at last						0	1.3重置
+33	没有痛觉的孩子降生了	沒有痛覺的孩子降生了	痛覚のない子供が生まれたのだ。	통각이 없는 아이가 태어났다.	A baby unable to feel pain was born						0	1.3重置
+34	这便是第一位神使诞生的故事	這便是第一位神使誕生的故事	これは、最初の神の使い誕生の物語。	첫 번째 신의 사자가 탄생한 이야기다.	This is the story of the first Emissary's birth						0	1.3重置
+35	——摘自安提克勒娅《雅卢岛风土见闻录》	——摘自安提克勒婭《雅盧島風土見聞錄》	——『ガルーアイランド見聞録』より抜粋\n　　（著：アンティクレイア）	——앤티클레아 <야루섬 풍토 견문록>	— Excerpt from Anticlea's "Recorded Observations of Yallu Island"						0	1.3重置
+36	虽说只是神话，\N但是其特殊的血脉，依然延续至今……	雖說只是神話，\N但是其特殊的血脈，依然延續至今……	神話にすぎないが、\Nその血は今も息づく。	비록 신화일 뿐이지만,\N그 특별한 혈통은 지금까지도 이어지고 있다…	Myth though it may be,\Ntheir unique bloodline lives on to this day...						0	1.3重置
+37	无论在哪个时代，\N都会有勇敢面对生活，扬帆远航之人。	無論在哪個時代，\N都會有勇敢面對生活，揚帆遠航之人。	いつの時代にも、\N荒波を越える者がいる。	어느 시대에서든,\N용감하게 삶에 맞서 항해를 떠나는 이들이 있기 마련이다.	In every era,\Nthere are always those who rise to brave the tides of fate, and chart new paths forward.						0	1.3重置
+38	以上便是有关这个岛屿的，\N最后的故事……吗？	以上便是有關這個島嶼的，\N最後的故事……嗎？	これが島に残る\N「最後の物語」――だろうか。	여기까지 이 섬에 관한,\N마지막 이야기… 일까?	So — was that\Nthe final tale of this island...?						0	1.3重置
+39	一年后的夏末，\N我与猫汐尔的故事。	一年後的夏末，\N我與貓汐爾的故事。	一年後の夏の終わり、\N私とマーシルの物語は――	일 년 후 여름이 끝날 무렵,\N나와 캣 시에라의 이야기는.	A year later, as summer waned,\Nthe story between Mauxir and me...						0	1.3重置
+40	将继续在这个岛屿上延续下去……	將繼續在這個島嶼上延續下去……	この島で、まだ続いていく。	이 섬에서 계속 이어질 것이다…	Continues upon this island...						0	1.3重置

@@ -1,0 +1,17 @@
+Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	站立	sequence	girl010_01a_house_stand01	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_stand01.girl010_01a_house_stand01'	
+2	感谢	sequence	girl010_01a_house_thank01	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_thank01.girl010_01a_house_thank01'	
+3	握拳开心	sequence	girl010_01a_house_dialogue_satisfy02	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_satisfy02.girl010_01a_house_dialogue_satisfy02'	
+4	惊讶	sequence	girl010_01a_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_amaze.girl010_01a_house_dialogue_amaze'	
+5	拒绝	sequence	girl010_01a_house_dialogue_deny	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_deny.girl010_01a_house_dialogue_deny'	
+6	肯定	sequence	girl010_01a_house_dialogue_sure	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_sure.girl010_01a_house_dialogue_sure'	
+7	伸懒腰	sequence	girl010_01a_house_dialogue_depressed03	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_depressed03.girl010_01a_house_dialogue_depressed03'	
+8	打呵欠	sequence	girl010_01a_house_dialogue_depressed04	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_depressed04.girl010_01a_house_dialogue_depressed04'	
+9	思考-前	sequence	girl010_01a_house_dialogue_think_start	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_think_start.girl010_01a_house_dialogue_think_start'	
+10	思考-循环	sequence	girl010_01a_house_dialogue_think_loop	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_think_loop.girl010_01a_house_dialogue_think_loop'	
+11	思考-后	sequence	girl010_01a_house_dialogue_think_end	AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_think_end.girl010_01a_house_dialogue_think_end'	
+					
+					
+100	一次思考	custom_seq	8;9;10		
+101	思考循环	custom_loop_last	8;9		

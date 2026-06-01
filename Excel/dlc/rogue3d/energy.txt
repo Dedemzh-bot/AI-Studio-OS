@@ -1,0 +1,5 @@
+ID	精力值	备注	钥匙收益比率（万分比）	规则描述	简要描述（气泡）
+ID	energy	Comment	RewardMultiple	Des	AbbreviateDes
+1	0	0-19点时，20%收益	10000	rogue3.energyTips1	rogue3.energyTips1_A
+2	20	20-49点时，40%收益	10000	rogue3.energyTips2	rogue3.energyTips2_A
+3	50	50点以上时，满收益	10000	rogue3.energyTips3	rogue3.energyTips3_A

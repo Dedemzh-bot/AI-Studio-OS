@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	唔……哼……	唔……哼……	ん……むぅ〜……	음… 흠…	Mmm... Huh...						0	3.5版本多诺巅峰对决剧情
+page1.2	米娅发出了软糯的哼唧声，让我忍不住一把揉了揉她毛茸茸的头顶。	米婭發出了軟軟的哼唧聲，讓我忍不住一把揉了揉她毛茸茸的頭頂。	柔らかく拗ねた声が可愛くて、思わずそのふわふわの頭をわしゃわしゃと撫でてしまう。	우물거리는 미아의 목소리에 나도 모르게 그녀의 복슬복슬한 머리를 쓰다듬었다.	Mia let out a soft, whiny hum, and I couldn't help but reach out and ruffle the fluffy top of her head.						0	3.5版本多诺巅峰对决剧情
+page1.3	谁让你在卡牌上阵阶段就超时……当然会被判定输掉。	誰叫你在卡牌上陣階段就超時……當然會被判定輸掉。	だって、デッキ選出のときに時間切れ起こしたのはそっちでしょ。そりゃ負け判定になるに決まってるよ。	그러게, 누가 카드 출전 단계에서 시간을 그렇게 오래 잡아먹으래… 당연히 패배 판정이지.	You went over the time limit during the deployment phase... That counts as a loss.						0	3.5版本多诺巅峰对决剧情
+page1.4	安卡希雅一如既往，不留情面。	安卡希雅一如既往，不留情面。	アカシアは今日も容赦がない。	아카시아는 늘 그렇듯, 봐주는 법이 없었다.	Acacia, as always, showed absolutely no mercy.						0	3.5版本多诺巅峰对决剧情
+page1.5	米娅当时在犹豫什么？	米婭當時在猶豫什麼？	あのとき何でそんなに迷っていたんだ？	미아는 그때 뭘 망설였던 거야?	What were you hesitating over, Mia?						0	3.5版本多诺巅峰对决剧情
+page1.6	左面的卡和右面的卡，所以到底应该选哪张嘛……	左面的卡和右面的卡，所以到底應該選哪張嘛……	左のカードと右のカード、どっち取るか決めきれなくてさ〜	왼쪽 카드랑 오른쪽 카드, 도대체 어떤 걸 선택해야 하나…	The card on the left and the card on the right... How was I supposed to choose just one?						0	3.5版本多诺巅峰对决剧情
+page1.7	米娅觉得哪张更强呢？	米婭覺得哪張更強呢？	どっちのほうが強いと思っているんだ？	미아는 어떤 게 더 강하다고 생각했어?	Which one did you think was stronger?						0	3.5版本多诺巅峰对决剧情
+page1.8	从数值上看，其中一张有些数值高得离谱，有些数值又低得令人咂舌；而另一张则是非常平均的优秀。	從數值上看，其中一張有些數值高得離譜，有些數值又低得令人咋舌；而另一張則是非常平均的優秀。	ステータスだけ見ると、一枚は極端に尖ってて、もう一枚はバランス良すぎって感じでさ。	수치상으로 보면, 한 장은 어떤 수치가 터무니없이 높았지만, 다른 수치는 혀를 차게 만들 정도로 낮았어. 대신에 다른 한 장은 밸런스가 좋았고.	One had some ridiculously high and low stats, while the other was a very well-balanced choice.						0	3.5版本多诺巅峰对决剧情
+page1.9	但它们又都可以和其他卡组成不同的强力连携效果……	但它們又都可以和其他卡組成不同的強力連攜效果……	どっちも他のカードと組ませると、別々の強い連携が出るんだよね……	하지만 양쪽 다 다른 카드와 덱을 짰을 때 만들 수 있는 강력한 콤보 효과가 달랐지…	But both of them could form different powerful links with other cards...						0	3.5版本多诺巅峰对决剧情
+page1.10	两张卡都很优秀啊，米娅根本就选不出来嘛。	兩張卡都很優秀啊，米婭根本就選不出來嘛。	二枚とも優秀すぎてさ、ミアじゃ一枚に絞り切れないんよね〜	두 카드 모두 너무 훌륭해서, 미아는 도무지 선택을 못 하겠더라고.	They were both so good. I just couldn't decide at all.						0	3.5版本多诺巅峰对决剧情
+page1.11	如果是分析员，一定能很顺利地做出选择吧！	如果是分析員，一定能很順利地做出選擇吧！	分析員なら、迷わずスパッと決めてくれそうなのに〜！	분석가라면, 분명 순조롭게 선택했겠지!	If it were you, Adjutant, you'd be able to see the better choice, right?						0	3.5版本多诺巅峰对决剧情

@@ -1,0 +1,63 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	结束了今天的任务之后，我和琴诺马不停蹄赶往医疗室。	結束了今天的任務之後，我和琴諾馬不停蹄趕往醫療室。	任務を終えたあと、私とチェルノは急ぎ足で医療室に向かった。	미션을 마치자마자 체르노와 의무실로 달려갔다.	After the day's mission was finished, Cherno and I rushed right to the medical bay.						0	
+2	由脑部神经检查仪器改造而来的<orange>锚定装置</>就放置在这里，如今我已经十分熟悉使用方法。	由腦部神經檢查儀器改造而來的<orange>定錨裝置</>就放置在這裡，如今我已經十分熟悉使用方法。	脳神経検査装置から改造した<orange>アンカリング装置</>はここに保管されている。私はもうすっかり使い方を覚えていた。	의무실에는 뇌 신경 검사 장치를 개조해서 만든 <orange>앵커 장치</>가 놓여 있었다. 최근에 난 이미 앵커 장치를 다루는 데 익숙해져 있었다.	The <orange>anchoring device</>, made from a modified neural scanner, was kept there. I had already become very familiar with how to use it.						0	
+3	在琴诺的帮助下，我将磁极贴片一一贴到头部的各个位置，随后在充满氟化碳的医疗舱中躺下，一旁的显示屏上开始出现代表大脑活动状态的波形图。	在琴諾的幫助下，我將磁極貼片一一貼到頭部的各個位置，隨後在充滿氟化碳的醫療艙中躺下，一旁的顯示屏上開始出現代表大腦活動狀態的波形圖。	チェルノに手伝ってもらいながら、頭部に電極を貼ると、フルオロカーボンで満たされた医療カプセルの中で横になった。すると横のモニターが、私の脳活動を示す波形を映し出した。	체르노의 도움을 받으며 나는 자극 패치를 머리에 붙였고 불화탄소가 가득한 의료 캡슐 안으로 들어갔다. 이어서 캡슐 옆에 있는 디스플레이가 뇌 활동 상태를 나타내는 파동 그래프가 보여준다.	With Cherno's help, I stuck the magnetic patches in various places on my head before laying down in a medical pod filled with perfluorocarbon fluid. The waveforms displaying my neural activity appeared on the screen next to me.						0	
+4	为了避免意外情况——例如在记忆中受到严重冲击而被困于记忆中，一旦波形图上出现异常，琴诺就会立刻关闭锚定装置，而我会在大约5秒后回到现实。	為了避免意外情況——例如在記憶中受到嚴重衝擊而被困於記憶中，一旦波形圖上出現異常，琴諾就會立刻關閉定錨裝置，而我會在大約5秒後回到現實。	それは私の意識が記憶の中に囚われる事態を避けるための、保険のようなものだった。波形が異常を示すと、チェルノがすぐアンカリング装置を止める。そうすれば、私はおよそ５秒以内に意識を取り戻すはずだ。	미처 예기치 못하게 기억 속에서 심각한 충격을 받고 기억에 갇히는 것을 방지하기 위해 파동 그래프에 이상이 생기면 체르노가 즉시 고정 장치를 종료했고 나는 대략 5초 이후에 현실로 돌아올 수 있었다.	We had a plan to avoid any emergencies, like getting trapped in memories due to excessive trauma. The second Cherno noticed an abnormality on the waveform display, she would immediately turn off the anchoring device, and it would take me about five seconds to come back to reality.						0	
+5	我准备好了，开始吧。	我準備好了，開始吧。	準備はできた。始めてくれ。	난 준비됐어. 시작해.	I'm ready. Let's start.						0	
+6	分析员，请，请把手给我。	分析員，請，請把手給我。	分析員……その、手を。	분석가님, 손을 제게 주세요.	Adjutant, p—please give me your hand.						0	
+7	琴诺的手抓住了我伸出的左手。为了在找到莫尔索后将她送回琴诺那里，这是必要的肢体接触。	琴諾的手抓住了我伸出的左手。為了在找到莫爾索後將她送回琴諾那裡，這是必要的肢體接觸。	私が左手を差し出すと、チェルノは私の手を握った。ムルソーをチェルノの中に取り戻すためには、肉体が触れている必要があるのだ。	체르노는 내가 내민 손을 잡는다. 모르소를 체르노에게 되돌리기 위해 이러한 신체적 접촉은 필수였다.	Cherno grasped my outstretched left hand in hers. Physical contact was necessary to return Meursault to Cherno after I found her.						0	
+8	伴随着装置启动的蜂鸣声，我眼前的一切逐渐模糊消散。	伴隨著裝置啟動的蜂鳴聲，我眼前的一切逐漸模糊消散。	装置の作動音と共に、私の視線がぼやけはじめた。	장치가 가동하는 소리와 함께 내 앞에 모든 것이 점점 흐릿하게 사라져갔다.	As the beeping sound of the anchoring device faded away, everything else before my eyes also gradually blurred and faded away.						0	
+9	这次去第一次见到琴诺的地方看看吧，我在心里这样默念着，同时尽力构想出当天的画面。	這次去第一次見到琴諾的地方看看吧，我在心裡這樣默念著，同時盡力構想出當天的畫面。	今度は、チェルノと初めて会った場所に行こう。私は心の中でそう念じながら、あの時の情景を思い浮かべた。	'체르노를 처음 만난 곳으로 가보자', 나는 마음속으로 이렇게 중얼거리면서 그날의 상황을 최대한 떠올리려 노력했다.	I decided to go to the place where I first met Cherno. I did my best to picture that day.						0	
+10	满是灰尘的公司安全屋，卡罗琳，茉莉安，琴诺……记忆中的一切逐渐变得清晰，黑暗中慢慢亮起了白炽灯的光芒——	充滿灰塵的公司安全屋，卡羅琳，茉莉安，琴諾……記憶中的一切逐漸變得清晰，黑暗中慢慢亮起了白熾燈的光芒——	埃だらけのセーフハウス。カロリン、マリアン、チェルノ……記憶が次第に鮮明に浮かび上がり、暗闇の中で白熱電球の光が広がった……	먼지로 가득찬 회사의 벙커, 캐롤린, 마리안, 체르노… 기억 속의 모든 것이 점점 선명해지며 어둠 속에서 백열등의 빛이 천천히 밝아오기 시작했다.	Inside the dusty company safe room with Caroline, Marian, Cherno... Everything slowly grew clear in my memory as the incandescent lights began to illuminate the darkness...						0	
+11	对了，你见过这边的队员了吗？	對了，你有見過這邊的隊員了嗎？	そういえば、こちらの隊員にはもう会いました？	맞다. 분석가님, 이곳에 있는 대원들은 보셨나요?	Have you met the team members here yet?						0	
+12	出现了，我可靠的情报官小姐。	出現了，我可靠的情報官小姐。	頼りになる情報官が目の前にいた。	좋아, 나타났어, 우리의 헤임달 부대 정보관이.	There she was — my dependable intelligence officer.						0	
+13	接下来我会说“还没有”，然后卡罗琳就会给我介绍茉莉安和琴诺。而如果不这样回答的话……	接下來我會說“還沒有”，然後卡羅琳就會給我介紹茉莉安和琴諾。而如果不這樣回答的話……	私は「まだだね」と答える。するとカロリンはマリアンとチェルノを紹介してくれる。ここで返答を間違えば……	이제 '본 적 없어'라고 얘기해야겠군. 그래야 캐롤린이 내게 마리안하고 체르노를 소개해 주지. 만약에 이렇게 대답하지 않으면…	I was supposed to say "not yet" next, and then Caroline would introduce me to Marian and Cherno. But if I answered differently...						0	
+b-1											0	
+14	其实我见过了。	其實我見過了。	もう会っているよ。	응, 본 적 있어.	Actually, I have met them.						0	
+15	……	……	……	…	...						0	
+16	连同我在内，周围的一切骤然停止，像是被按下了暂停键。	連同我在內，周圍的一切驟然停止，像是被按下了暫停鍵。	私を含め、周りの全てが止まった。まるで動画の停止ボタンを押したみたいに。	나를 포함한 주변의 것들이 순간 모두 멈추었다. 마치 일시 정지 버튼이 눌린 것처럼 말이다.	Everything around me, including my own body, suddenly froze, as if someone had pressed "pause."						0	
+17	果然还是不行。	果然還是不行。	やっぱりダメか。	역시 이렇게 하면 안되겠어.	No surprise there. Still couldn't go off script.						0	
+18	在第一次使用锚定装置时我就发现，记忆就是记忆，我并不能在“已经发生的”记忆中做出改变。	在第一次使用定錨裝置時我就發現，記憶就是記憶，我並不能在“已經發生的”記憶中做出改變。	初めてアンカリング装置を使った時から分かっていたことだ。記憶は所詮記憶。既に「決定事項」となっている記憶を変えることはできない。	처음으로 앵커 장치를 사용할 때 발견한 건 그저 기억은 기억일 뿐이라는 것이었다. '이미 벌어진 일'은 되돌릴 수 없었기 때문이다.	The first time I used the anchoring device, I had discovered that memories are set in stone. I couldn't make changes to memories that had already happened.						0	
+19	就像已经排列好的多米诺骨牌，抽走任何一块都无法继续下去。	就像已經排列好的骨牌，抽走任何一塊都無法繼續下去。	丁寧に並べられたドミノのように、どれか一つでも抜けば、キレイに倒れてくれなくなるのだ。	마치 이미 배열되어 있는 도미노 조각처럼 한 조각이라도 잃으면 계속될 수 없는 도미노 세트와 같았다.	It was like a line of dominoes. They couldn't continue falling if I took one away.						0	
+b-2											0	
+20	还没有。	還沒有。	まだだね。	아직 본 적 없어.	Not yet.						0	
+21	我已经通知她们了，应该也快到了。	我已經通知她們了，應該也快到了。	もう連絡はしてあるので、すぐに着くと思います。	공지가 갔을테니 아마 다들 곧 도착할 거예요.	I've notified them of the location. They should be here soon.						0	
+22	随着我的“正确回答”，卡罗琳恢复了正常。	隨著我的“正確回答”，卡羅琳恢復正常了。	私が「正解」を口にすると、時が動き出した。	다시 과거의 기억대로 제대로 대답을 하니 캐롤린도 정상으로 돌아왔다.	At my "correct answer," Caroline returned to normal.						0	
+23	噔~噔噔~噔~噔！	噔~噔噔~噔~噔！	ドン～ドン～ドン～ドン！	두두두두두두둥… 개봉 박두!	TA-DAHHH!						0	
+24	这位是茉莉安，你们应该挺熟了。	這位是茉莉安，你們應該蠻熟了。	こちらはマリアンです、もうご存じですよね。	이쪽은 마리안~ 이미 잘 알고 있을 거예요.	This is Marian. I'm assuming you've met.						0	
+25	又见面了，分析员，您路途上没遇到什么危险吧？	又見面了，分析員，您路途上沒遇到什麼危險吧？	また会いましたね、分析員さん。ここまで来る間に、何か危険なことはありませんでしたか？	분석가님, 또 뵙네요. 오시면서 별일 없으셨죠?	We meet again, Adjutant. I do hope you didn't encounter any danger on your journey here?						0	
+b-3											0	
+26	都很顺利。	都很順利。	順調だよ。	응. 별일 없었어.	It went well.						0	
+27	有了前车之鉴，我并不打算再让记忆卡住。	有了前車之鑑，我並不打算再讓記憶卡住。	私は記憶通りに答えた。	기억을 바탕으로 기억이 멈추지 않도록 계속해서 노력을 해야 한다.	After previous run-throughs in my memories, I didn't plan on getting stuck.						0	
+28	我也和您有相同的感受。	我也和您有相同的感受。	私もです……	저도 같은 생각이에요.	I feel likewise.						0	
+29	这边是琴诺……	這邊是琴諾……	そして、こちらはチェルノです。	여기는 체르노…	This here is Cherno...						0	
+30	我随着卡罗琳的目光看去，所见的却是一头显眼的白发。	我隨著卡羅琳的目光看去，所見的卻是一頭顯眼的白髮。	カロリンの視線の先を追うと、目に飛び込んできたのはひと際目立つ白い頭髪だった。	캐롤린의 시선을 따라가니 눈에 띄는 하얀 머리카락의 소녀가 보인다.	I followed Caroline's gaze, spotting a head of striking white hair.						0	
+31	与记忆中初次见面无比怯懦的琴诺不同，站在卡罗琳身后的是一脸茫然的莫尔索。	與記憶中第一次見面無比怯懦的琴諾不同，站在卡羅琳身後的是一臉茫然的莫爾索。	おどおどしているチェルノではなく、どこか呆然とした様子のムルソーがそこに立っていた。	기억 속에서 처음 만났을 때의 겁먹은 체르노와는 다르게 캐롤린 뒤에 서있는 건 혼란스러운 표정의 모르소였다.	This time, Meursault stood behind Caroline. Unlike Cherno, who I remembered being extremely shy when we first met, Meursault had a vacant look on her face.						0	
+32	与上一次的梦境相似，这次莫尔索直接代替了琴诺出现吗？	與上一次的夢境相似，這次莫爾索直接取代了琴諾出現嗎？	この前の夢と似ている。今回はムルソーがチェルノのポジションで登場したのだろうか？	지난번의 꿈과 비슷해. 모르소가 체르노를 대신해서 나타난 걸까?	Was this like my last dream? Was Meursault appearing in place of Cherno?						0	
+b-4											0	
+33	尝试接触莫尔索	嘗試接觸莫爾索	ムルソーに触れてみよう。	모르소와의 접촉을 시도한다.	Try to touch Meursault						0	
+34	我试着向莫尔索伸出手，可这个念头刚一出现，记忆立刻又定格下来，来自于“规则”的桎梏便是如此难以突破。	我試著向莫爾索伸出手，但這個念頭剛一出現，記憶立刻又定格下來，來自於「規則」的桎梏便是如此難以突破。	私はムルソーに手を伸ばそうとした。でもそうしようと考えた瞬間、記憶がまた止まってしまった。厳しい「ルール」だ。	모르소에게 손을 내밀어 보려고 시도했지만 이런 생각이 들자마자 기억이 또다시 멈추었다. '규칙'에서 온 구속을 깨는 게 쉬운 일은 아니었다.	I tried to reach out to Meursault, but as soon as the thought popped into my head, the memory immediately froze. The constraints brought on by this "rule" were so difficult to break through.						0	
+b-5											0	
+35	和莫尔索打招呼	和莫爾索打招呼	ムルソーに挨拶する	모르소에게 인사를 한다.	Greet Meursault						0	
+36	如果按照原本的记忆进行下去，也许还有转机。	如果按照原本的記憶進行下去，也許還有轉機。	記憶通りに事を運べば、まだチャンスがあるかもしれない。	원래의 기억대로 진행한다면 아마도 희망이 있을지도 모른다.	If I continued on with the original memory, maybe there would later be a turning point.						0	
+37	我正准备开口，面前的莫尔索却忽然流出了眼泪。	我正準備開口，面前的莫爾索卻忽然流出了眼淚。	私が口を開こうとすると、目の前のムルソーが突然泣き出した。	내가 말을 걸려고 하던 찰나… 갑자기 눈 앞에 있던 모르소가 눈물을 흘리는데…	I was about to speak when Meursault suddenly began to cry.						0	
+38	紧接着，她艰难地迈着步子，向我走来。	緊接著，她艱難地邁著步子，向我走來。	彼女は重い足取りで、私に近寄ってきた。	그리고 이어서 그녀는 발걸음을 내디디며 내게 다가왔다.	She then walked toward me with some difficulty.						0	
+39	为什么——	為什麼——	なんでだ……	왜…	Why...						0	
+40	看不到我呢——	看不到我呢——	なんで私のことが見えねーんだよ……	날 보지 못하는 거지…	Can't you see me...						0	
+41	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	
+42	梦中的一切再次重演，她丢了魂般地扑到我的身上，泣不成声。	夢中的一切再次重演，她丟了魂般地撲到我的身上，泣不成聲。	夢の中で見た光景がまた繰り返されていた。ムルソーは私に抱き着き、声にならない声で泣いた。	꿈 속에서 모든 것이 다시 재연되었다. 그녀는 영혼을 잃은 듯이 내게 달려와 울음을 터뜨렸다.	Everything from my dream happened once again. She threw herself on me like a lost soul, weeping.						0	
+43	她的身体轻盈而温暖，湿热的呼吸无比真实地充斥着我的胸口。	她的身體輕盈而溫暖，濕熱的呼吸無比真實地充斥著我的胸口。	彼女の体の柔らかさと、吐息の熱まではっきり感じられる。	그녀의 몸은 가볍고 따뜻했다. 습하고 따뜻한 숨결이 내 가슴을 채웠는데 뭔가 현실처럼 느껴졌다.	She felt light and warm against me. The way her hot, moist breath enveloped my chest felt so real.						0	
+44	可是，为什么？	可是，為什麼？	なのに、なぜ？	근데 왜일까?	But... what was going on?						0	
+45	我显然已经接触到了莫尔索，可锚定装置并没有任何反应。	我顯然已經接觸到了莫爾索，可定錨裝置並沒有任何反應。	私は間違いなくムルソーに触れている。しかしアンカリング装置は何の反応も示さない。	분명히 모르소와 접촉했지만 앵커 장치가 반응하지 않았다.	I'd clearly touched Meursault, but nothing happened to the anchoring device.						0	
+46	换而言之，出现在我面前的并不是真正的莫尔索。	換而言之，出現在我面前的並不是真正的莫爾索。	それを言い換えると、目の前にいる彼女は、本当のムルソーではないということだ。	바꿔 말하면 내 앞에 있는 모르소가 사실상 존재하고 있는 모르소가 아니라는 소리다.	In other words, this wasn't the real Meursault.						0	
+47	这是记忆的世界，唯一的解释是，我现在看到的“莫尔索”是莫尔索的意识在这里留下的痕迹，她在那时拥抱的则是在我的记忆中一无所知的“我自己”。	這是記憶的世界，唯一的解釋是，我現在看到的“莫爾索”是莫爾索的意識在這裡留下的痕跡，她在那時擁抱的則是在我的記憶中一無所知的“我自己”。	ここは記憶の世界。目の前にいる「ムルソー」はムルソーの意識が残した痕跡の可能性もある。彼女が抱きついたのは私ではなく、記憶の中の「まだ何も知らなかった私」だ。	이것은 기억의 세계다. 유일하게 해석할 수 있는 건 내가 지금 보고 있는 모르소는 남겨진 모르소의 의식때문에 볼 수 있다는 것이다. 그녀가 안은 것은 내 기억 속에서 알 수 없는 '나 자신'일 뿐이다.	This was a world within my memories. The "Meursault" before me must have been a trace of her consciousness. She'd embraced a "me" that I knew nothing about in my memories.						0	
+48	刚好错位了吗……	剛好錯位了嗎……	ちょうどズレていたのか……	혹시 위치가 잘못됐나…	Is there something off here...?						0	
+49	事情愈发复杂起来了。	事情愈發複雜起來了。	ややこしいことになってきたな。	상황이 점점 복잡해지고 있다.	Things were getting more and more complex.						0	
+50	我被琴诺从医疗舱中扶起，额头上已经满是因为压力而渗出的汗珠。	我被琴諾從醫療艙中扶起，額頭上已經滿是因為壓力而滲出的汗珠。	チェルノの肩を借りながら、私は医療カプセルから起き上がった。アンカリング装置の負荷のせいで、私はかなり汗をかいていた。	나는 체르노의 도움으로 의료 캡슐에서 일으켜 세워졌고, 압력 때문인지 이마에는 온통 땀방울로 뒤덮였다.	Cherno helped me out of the medical pod. My forehead was already covered in sweat from the stress.						0	
+51	锚定装置只是辅助，构建过去的记忆还是需要靠我的大脑来完成，也因此每次使用都会带来不小的负荷。	定錨裝置只是輔助，建構過去的記憶還是需要靠我的大腦來完成，也因此每次使用都會帶來不小的負荷。	アンカリング装置はあくまで補助用の機械だ。実際に記憶の世界を構築しているのは、私の脳だ。そのため、装置を使う時の負荷もかなり大きい。	앵커 장치는 보조용일 뿐, 기억을 구축하는 것은 내 두뇌에 달려있기 때문에 사용할 때마다 적지 않은 부하가 걸렸다.	The anchoring device was only a supplement. It still required my brain to construct memories, so it was extremely taxing each time I used it.						0	
+52	分析员，你的脸色不太好……	分析員，你的臉色不太好……	分析員……顔色が良くないですよ。	분석가님, 안색이 안 좋아 보여요…	Adjutant, you don't look very good...						0	
+53	我记得瑟瑞斯说这种时候需要停止使用锚定装置，休息三到五天……	我記得瑟瑞斯說這種時候需要停止使用定錨裝置，休息三到五天……	こういう時はアンカリング装置の使用を中断して、3～5日ほど休憩を挟んだ方がいいって、シーリスから聞いていますが……	충격을 받게 되면 세리스가 앵커 장치의 사용을 중단하고 3~5일 정도 휴식을 취해야 한다고 했던 기억이 나네요…	I remember Siris saying that if this happens, you need to stop using the anchoring device and take a few days off...						0	
+54	我没事的，琴诺。	我沒事的，琴諾。	大丈夫だ、チェルノ。	난 괜찮아, 체르노.	I'm alright, Cherno.						0	
+55	我勉强挤出一个微笑——大概谁都骗不过的微笑。	我勉強擠出一個微笑──大概誰都騙不過的微笑。	私は強がって彼女に微笑んでみせた。たぶん、ひどい笑顔になっていたはずだ。	나는 억지로 미소를 지었다. 물론 누구도 속일 수 없는 미소였지만 말이다.	I forced a smile, though it wasn't fooling anyone.						0	
+56	我去找一下芙提雅她们吧。	我去找一下芙提雅她們吧。	フリティアと話してくるよ。	한번 프티야를 찾아가 볼게.	I'll go get Fritia and the others.						0	

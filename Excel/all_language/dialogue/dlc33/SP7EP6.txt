@@ -1,0 +1,234 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，公寓楼里的居民，已经成功疏散到安全的地方了！	分析員，公寓裡的居民，已經成功疏散到安全的地方了！	分析員、マンションの住民は全員、安全な場所に避難させたよ！	분석가, 아파트 주민들은 모두 안전한 곳으로 대피했어!	Adjutant! All civilians from the apartment block have been safely evacuated!						0	3.3主线剧情
+2	我这边也已经按照您的指示，将所有从天界乐土中撤离的升格体找到了。	我這邊也已經按照您的指示，將所有從天界樂土中撤離的升格體找到了。	こちらも、天界楽土から撤退した全昇格者を見つけマシタ。	이쪽도 지시하신 대로 천계 낙원에서 대피한 승격체들을 모두 찾았습니다.	Per your orders, I've compiled the data on all transcendents evacuated from the Elysium.						0	3.3主线剧情
+3	辛苦你们了，米娅，宇迦。	辛苦你們了，米婭、宇迦。	ああ、ご苦労。	수고 많았어, 미아, 우카.	Good work, Mia. Well done, YUGA.						0	3.3主线剧情
+4	随着最后一只怪物的倒下，这场防御作战总算是以我们的胜利落下帷幕。	隨著最後一隻怪物的倒下，這場防禦作戰總算是以我們的勝利落下帷幕。	最後の敵を倒し、防衛戦はようやく私たちの勝利で幕を閉じた。	마지막 괴물이 쓰러지면서, 이 방어전은 결국 우리의 승리로 막을 내렸다.	With the last monster down, the battle came to an end — a hard-won victory.						0	3.3主线剧情
+5	硝烟弥漫的战场上，破碎的建筑物残骸散落各处，曾经繁华的居住区如今满目疮痍。	硝煙瀰漫的戰場上，破碎的建築物殘骸散落各處，曾經繁華的居住區如今滿目瘡痍。	硝煙が立ち込める戦場には、破壊された建物の残骸が散らばり、かつて賑わっていた居住区は今や見る影もない。	연기 자욱한 전장에는 부서진 건물 잔해가 곳곳에 흩어져 있었고, 한때 번화했던 거주지는 이제 눈 뜨고 볼 수 없을 만큼 처참해졌다.	Smoke curled through the broken streets, winding past shattered walls and hollow shells of homes. The once-bustling residential district now lay in ruins.						0	3.3主线剧情
+6	漆黑的浓烟如幕布般笼罩着天空之城，恍惚间，仿佛又回到了那个被罗赞大军入侵的黑暗时期……	漆黑的濃煙如布幕般籠罩著天空之城，恍惚間，彷彿又回到了那個被羅贊大軍入侵的黑暗時期…⋯	真っ黒な濃煙がカーテンのように天空城を覆い、ロザン軍が侵攻してきたあの暗黒時期に戻ったような気すらしてきた……	시커먼 연기가 장막처럼 공중 도시를 뒤덮었고, 로잔 군대의 침공으로 암흑기에 빠졌던 그때로 다시 돌아간 듯했다…	Overhead, thick black smoke veiled the sky — like a curtain drawn across the heavens. For a moment, it felt like the dark days of the Rozan invasion had returned.						0	3.3主线剧情
+7	宇迦上前一步，继续向我汇报这另一边的战况。	宇迦上前一步，繼續向我報告另一邊的戰況。	ユガが一歩前に出て、こちらの戦況を私に報告してくれた。	우카가 한 발짝 앞서 다른 쪽의 전황을 이어서 보고했다.	YUGA stepped forward to report on the situation at the other front.						0	3.3主线剧情
+8	情况与您预测的一致，她们都陷入昏迷，成为了异化人入侵现实世界的“大门”。	情況與您預測的一致，她們都陷入昏迷，成為了異化人入侵現實世界的「大門」。	アナタの予測通り、全員昏睡状態に陥り、変異者が現実世界に侵入する「ゲート」となってイマシタ。	예측하신 대로입니다. 모두 의식을 잃고 변이자가 현실 세계로 침입하는 '문'이 되어버렸습니다.	Just as you suspected — they all fell unconscious, becoming gateways for the Changed to breach reality.						0	3.3主线剧情
+9	不过，在芙提雅和猫汐尔阁下的协助下，所有跨界通道现已被封闭。	不過，在芙提雅和貓汐爾閣下的協助下，所有跨界通道現已被封閉。	デスが、フリティアさんやマーシルさんのおかげで、全パスを閉鎖できマシタ。	하지만 프티야 님과 캣 시에라 님의 도움으로, 차원 통로는 모두 봉쇄되었습니다.	But thanks to Miss Fritia and Miss Mauxir, all portals have now been sealed.						0	3.3主线剧情
+10	安全屋内避难者的引渡与安置工作，也已在汉诺塔完成。	安全屋內避難者的引渡與安置工作，也已在漢諾塔完成。	隠れ家に避難していた人の引き渡しや移送作業も、完了しマシタ。	대피소 내 피난민들의 이송과 수용 작업도 하노이 타워에서 완료되었습니다.	Those sheltered in the safe house have been transferred and resettled at the Tower of Hanoi.						0	3.3主线剧情
+11	大家平安无事就好。	大家平安無事就好。	みんなが無事で何よりだ。	모두 무사해서 다행이야.	As long as everyone's safe, that's what matters.						0	3.3主线剧情
+12	嗯，另外，我们也获悉了一些黑洞内的情况。	嗯，另外，我們也獲悉了一些黑洞內的情況。	ハイ、それから、黒い渦内部の状況についても一部把握デキマシタ。	음, 그리고 블랙홀 내부 상황에 대해서도 알아냈습니다.	We've also gathered intel on the black hole.						0	3.3主线剧情
+13	位于天界乐土的黑洞并非是入侵者的安全屋，而是信息态处理中心，一个专门吸收并转化负面情绪的处理中心。	位於天界樂土的黑洞並非是入侵者的安全屋，而是資訊態處理中心，一個專門吸收並轉化負面情緒的處理中心。	天界楽土に位置する黒い渦は、侵略者の安全な隠れ家ではなく、負の感情を吸収し、変換する情報体処理センターだったのデス。	천계 낙원의 블랙홀은 침입자들의 대피소가 아니라, 이념 형태 처리 센터, 즉 부정적인 감정을 흡수하고 변환하는 처리 센터였습니다.	As it turns out, it isn't the invaders' hideout as we once thought, but a Titagen processing hub, designed to absorb and convert negative emotions.						0	3.3主线剧情
+14	处理中心？	處理中心？	処理センター？	처리 센터라고?	A processing hub?						0	3.3主线剧情
+15	嗯，黑洞的中心有着核心部件，其主要作用就是将收集到的情绪数据转化成方便运输的信息态粒子。	嗯，黑洞的中心有著核心部件，其主要作用就是將收集到的情緒數據轉化成方便運輸的資訊態粒子。	ハイ、黒い渦の中心にはコア部品が存在しマス。この主な役割は、収集した感情データを、輸送に適した情報状態の粒子に変換することデス。	네. 블랙홀 중심에는 핵심 부품이 있는데, 수집된 감정 데이터를 운반하기 쉬운 이념 형태 입자로 변환하는 것이 주요 기능입니다.	Correct. At its center lies a core module built to convert harvested emotional data into portable Titagen particles.						0	3.3主线剧情
+16	其实长久以来，恒沙也在做类似的事情。	其實長久以來，恆沙也在做類似的事情。	実はゴウシャも、長らく似たようなことをしていマシタ。	사실 항사도 오랫동안 비슷한 일을 해왔습니다.	In fact, GANGES operated on a similar system.						0	3.3主线剧情
+17	它通过吸收并解析大家的情绪从而辅助决策。	它透過吸收並解析大家的情緒從而輔助決策。	みなの感情を吸収し、解析することで、その後の方針を決めていたのデス。	모두의 감정을 흡수하고 분석해서 의사결정을 보조했죠.	It would absorb and analyze human emotions to assist in decision-making.						0	3.3主线剧情
+18	无论是正面还是负面的情绪，都被转化为信息态，并分区储存在了不同的虚拟天体中。	無論是正面還是負面的情緒，都被轉化為資訊態，並分區儲存在了不同的虛擬天體中。	感情はすべて、情報体に転化され、バーチャル天体に保存されマス。	긍정적이든 부정적이든 모든 감정이 이념 형태로 변환되어, 서로 다른 가상 천체에 구역별로 저장되었습니다.	Both positive and negative emotions were converted into Titagen, then stored in separate virtual celestial bodies.						0	3.3主线剧情
+19	结果，被人利用了吗？	結果，被人利用了嗎？	で、それを利用されたのか？	그래서, 누군가에게 이용당했나?	And someone hijacked that system?						0	3.3主线剧情
+20	嗯，黑洞的另一端，便是那颗位于歧路宇宙最深处，用于储存这些负面情绪的天体。	嗯，黑洞的另一端，便是那顆位於歧路宇宙最深處，用來儲存這些負面情緒的天體。	ハイ。黒い渦の向こうにあるのが、岐路宇宙の最深部にある、ネガティブな感情を保存するための天体デス。	네. 블랙홀의 반대편은 크로스버스 깊은 곳에 있는, 이 부정적인 감정들을 저장하는 천체입니다.	Exactly. On the other side of the black hole lies a virtual celestial sphere at the very depths of the Divergent Cosmos — a vault for all harvested negative emotions.						0	3.3主线剧情
+21	而天界乐土，仅仅是一所前哨站……另外，虽然目前所有跨界通道已被封闭，但眼下，我们还是检测到了大量异化人正在天界乐土集结。	而天界樂土，僅僅是一所前哨站……另外，雖然目前所有跨界通道已被封閉，但眼下，我們還是檢測到了大量異化人正在天界樂土集結。	天界楽土はその前哨に過ぎマセン……ちなみに、現時点でパスはすべて封鎖されマシタが、天界楽土には、今でも多くの変異者が集まっているようデス。	천계 낙원은 그저 전초기지에 불과했고요… 게다가 현재 차원 통로가 모두 봉쇄되었지만, 아직도 많은 변이자가 천계 낙원에 집결하고 있는 게 감지되었습니다.	The Elysium is merely an outpost... While all portals to reality have been sealed, our scans still show a massive swarm of the Changed gathering inside the Elysium.						0	3.3主线剧情
+22	数量已经快要超出天界乐土的承载上限。	數量已經快要超出天界樂土的承載上限。	その数は、そろそろ天界楽土の限界を越えるかもしれマセン。	천계 낙원의 수용 한계를 거의 초과할 정도로 많은 숫자입니다.	Their numbers are nearing its capacity threshold.						0	3.3主线剧情
+23	得赶紧回天界乐土阻止它们才行……	得趕快回天界樂土阻止它們才行…⋯	早く戻って阻止しないと……	빨리 천계 낙원으로 돌아가서 막아야만 해…	Then we've got to go back — stop them before it's too late!						0	3.3主线剧情
+24	现在还不行。	現在還不行。	今はまだダメだ。	지금은 안 돼.	Not yet.						0	3.3主线剧情
+25	哎？	欸？	え？	응?	Huh?						0	3.3主线剧情
+26	我们的人手有限，它们有可能趁我们不在这里时，再次发动袭击。	我們的人手有限，它們有可能趁我們不在這裡時，再次發動攻擊。	こちらの人手に限りがある。私たちがいない間にまた襲ってくるかもしれない。	우리 인원이 부족해. 저들이 우리가 자리를 비운 틈을 타서 다시 공격할 수도 있어.	If we move now, we risk leaving this site unguarded — and they could strike again.						0	3.3主线剧情
+27	罗赞事件后，我们以汉诺塔为中心，建造了十二处避难所。	羅贊事件後，我們以漢諾塔為中心，建造了十二處避難所。	ロザン事件以降、ワタシたちはハノイの塔を中心に、12か所の避難所を建設しマシタ。	로잔 사건 이후, 우리는 하노이 타워를 중심으로 12개의 피난소를 건설했습니다.	Following the Rozan invasion, we established 12 emergency shelters around the Tower of Hanoi.						0	3.3主线剧情
+28	如果需要的话，那些场所可以为新恒提罗全体市民提供安全保障。	如果需要的話，那些場所可以為新恆提羅全體市民提供安全保障。	必要ならば、ニューガントラの全住民に安全保障を提供いたしマス。	필요하다면, 그 장소들을 이용해 뉴헨틸로 시민들을 보호할 수 있습니다.	If needed, they can house every citizen in New Hentiro.						0	3.3主线剧情
+29	那就尽快安排吧，不过首先……	那就盡快安排吧，不過首先…⋯	なら早急に手配してくれ。だが、まずは……	그럼 어서 준비하자. 그런데 일단…	Then start the arrangements immediately. But first...						0	3.3主线剧情
+30	我转头望向广场上聚拢而来的人群，刚才的战斗显然引发了恐慌。	我轉頭望向廣場上聚集而來的人群，剛才的戰鬥顯然引發了恐慌。	私は広場に集まってきた人々の方へ視線を向けた。先の戦闘は明らかにパニックを引き起こした。	나는 스퀘어로 모여드는 군중을 바라보았다. 아까의 전투가 공포를 불러일으킨 게 분명했다.	I turned toward the plaza, where a panicked crowd had begun to gather — drawn by the commotion of battle.						0	3.3主线剧情
+31	人们下意识地聚集到她们心中“绝对安全”的地方，我的所在之处。	人們下意識地聚集到她們心中「絕對安全」的地方，我的所在之處。	人々は無意識のうちに、「絶対安全」と感じる場所――私のいる場所に集まってきた。	사람들은 무의식적으로 자신들이 생각하는 '절대 안전'한 곳, 즉, 내가 있는 곳으로 모여들었다.	Instinctively, they clustered in the one place that still felt safe... near me.						0	3.3主线剧情
+32	许多人已经认出了我。	許多人已經認出我了。	多くの人が、すでに私の正体に気づいていた。	이미 나를 알아본 사람이 많았다.	Many had already recognized who I was.						0	3.3主线剧情
+33	首先？	首先？	まずは？	일단?	Hm?						0	3.3主线剧情
+34	首先得确保大家的安全，安抚她们受惊的心。	首先得確保大家的安全，安撫她們受驚的心。	まずは皆の安全を確保し、落ち着かせなければ。	일단 모두의 안전을 확보하고, 놀란 마음을 진정시켜야 해.	First, we make sure they're safe — and that they feel safe.						0	3.3主线剧情
+35	话音未落，我利落地脱下外套，朝人群挥了挥手。	話音未落，我俐落地脫下外套，朝人群揮了揮手。	そう言い終わらないうちに、私は素早く上着を脱ぎ、人々に向かって振ってみせた。	말이 채 끝나기도 전에 나는 재빨리 외투를 벗고 군중을 향해 손을 흔들었다.	Even before I'd finished speaking, I shrugged off my jacket and raised a hand to the crowd.						0	3.3主线剧情
+36	敌人已经清理干净了！但楼里可能还有受伤没来得及撤离的人。	敵人已經清理乾淨了！但樓裡可能還有受傷來不及撤離的人。	敵は掃討した！だが、中にはまだ負傷して逃げ遅れた人がいるかもしれない！	적들은 모두 처리했습니다! 하지만 건물 안에 아직 대피하지 못한 부상자가 있을 수 있어요.	The enemies are cleared! But there might still be wounded trapped inside.						0	3.3主线剧情
+37	有人能帮我先把她们带出来吗？	有人能幫我先把她們帶出來嗎？	運び出すのを手伝ってくれないか？	저와 함께 그들을 데리고 나올 사람이 있습니까?	Can anyone help get them out?						0	3.3主线剧情
+38	人群沉默了片刻，随即人群中突然举起了一只小小的手。	人群沉默了片刻，隨後在其中突然舉起了一隻小小的手。	人々は一瞬沈黙したが、すぐに群衆の中から幼い手がすっと挙がった。	잠시 침묵하던 군중 속에서, 작은 손 하나가 불쑥 올라왔다.	The plaza went still for a moment — then, a small hand shot up.						0	3.3主线剧情
+39	我……我来！	我……我來！	わ、私、やるよ！	제… 제가 하겠습니다!	I—I'll go!						0	3.3主线剧情
+40	我也来！	我也來！	私も！	저도요!	Me too!						0	3.3主线剧情
+41	嗯，一起上吧，有分析员在身边，不会有事的！	嗯，一起上吧，有分析員在身邊，不會有事的！	ええ、一緒に行きましょう！分析員がいれば、きっと大丈夫よ！	좋아요, 함께 가죠. 분석가님이 곁에 있으면 안전할 거예요!	Let's go together! With the Adjutant here, we'll be okay!						0	3.3主线剧情
+42	多谢大家。	謝謝大家。	ありがとう、みんな。	감사합니다, 여러분.	Thanks, everyone.						0	3.3主线剧情
+43	我点了点头，转身一脚踹开地上异化人的残骸。	我點了點頭，轉身一腳踹開地上異化人的殘骸。	私はうなずき、振り返って地面に転がる変異者の残骸を蹴り飛ばした。	나는 고개를 끄덕이고 돌아서서 바닥에 있는 변이자의 잔해를 걷어찼다.	I nodded, then turned and kicked aside the broken remains of the Changed at my feet.						0	3.3主线剧情
+44	紧接着弯腰发力，利落地搬开堵门的石块，率先冲进楼内。	緊接著彎腰發力，俐落地搬開堵門的石塊，率先衝進樓內。	そして腰を落とし、扉を塞いでいた瓦礫を退けると、真っ先に建物の中へ飛び込んだ。	그리고 몸을 숙여 힘을 주고, 문을 막고 있던 돌덩이를 빠르게 치워내고는 제일 먼저 건물 안으로 뛰어들었다.	I bent low, carried the boulder blocking the doorway aside, and dashed into the building.						0	3.3主线剧情
+45	这一幕，瞬间点燃了人群。先前的恐惧被一股强烈的决心取代。	這一幕，瞬間點燃了人群。先前的恐懼被一股強烈的決心取代。	その光景が、一瞬にして人々の心に火をつけ、さっきまで怯えていた人々の心に、強い決意を芽生えさせた。	이 광경이 순식간에 군중의 마음에 불을 지폈다. 이전의 공포는 강렬한 결의로 대체되었다.	The crowd erupted at the sight. Fear instantly gave way to a surge of determined resolve.						0	3.3主线剧情
+46	他做到了……大家的心，再次被凝聚在一起了……	他做到了……大家的心，再次被凝聚在一起了……	すごいよ分析員……みんなの気持ちが、またひとつになった……	분석가가 해냈어… 모두의 마음이 다시 하나로 뭉쳤어…	He did it... He brought everyone together again.						0	3.3主线剧情
+47	嗯，playername就是这样的人……	嗯，playername就是這樣的人…⋯	ああ。playernameはそういう存在の人だからな。	응. playername, 그는 그런 사람이야…	That's just who playername is...						0	3.3主线剧情
+48	他总能在最黑暗的时候，将所有人都吸引到他身边，并将希望传递到每一个人手上。	他總能在最黑暗的時候，將所有人都吸引到他身邊，並將希望傳遞到每一個人手上。	最も不安なときに、みんなを勇気づけ、希望を与える。	그는 항상 가장 어두운 순간에 모든 사람을 자신의 곁으로 이끌어 모으고, 희망을 모두에게 전달해 주지.	Even in the darkest hour, he draws people in and gives each of them hope.						0	3.3主线剧情
+49	就像光芒一样……	就像光芒一樣…⋯	光のように……	마치 빛처럼…	Like a beam of light...						0	3.3主线剧情
+50	对，像光芒一样。	對，像光芒一樣。	ああ、その通りだ。	그래, 마치 빛처럼.	Yes... just like light.						0	3.3主线剧情
+51	之后，在成功救出楼内被困人员后，我向大家说明了现状。	之後，在成功救出樓內受困人員後，我向大家說明了現狀。	逃げ遅れた人を救出すると、私は住民たちに現状を説明した。	그 후, 나는 건물 안에 갇힌 사람들을 무사히 구출한 뒤 모두에게 현재 상황을 설명했다.	After rescuing the last residents trapped inside, I gathered the crowd and explained the situation.						0	3.3主线剧情
+52	不过，此时的众人已不再惊慌，反而凝聚成一股坚实的力量。	不過，此時的眾人已不再驚慌，反而凝聚成一股堅實的力量。	ここまで来ると、人々はすでに怯えておらず、むしろ一つの強固な力として結束していた。	하지만 이때의 사람들은 더 이상 당황하지 않았고, 오히려 단단한 힘으로 뭉쳐있었다.	But by then, their panic had already faded — replaced by quiet determination.						0	3.3主线剧情
+53	星芒刺破云层，洒落在每个人的脸上，驱散了阴霾与恐惧。	星芒刺破雲層，灑落在每個人的臉上，驅散了陰霾與恐懼。	星の光が雲を突き抜け、一人一人の顔に降り注ぎ、暗闇と恐怖を吹き飛ばした。	별빛이 구름을 뚫고 모든 이의 얼굴을 비추며, 어둠과 공포를 몰아냈다.	Starlight pierced the clouds, casting its glow across every face, driving out the fear and gloom.						0	3.3主线剧情
+54	这一刻，勇气与希望在这片饱经创伤的土地上，重新破土萌芽。	這一刻，勇氣與希望在這片飽受創傷的土地上，重新破土萌芽。	この瞬間、勇気と希望が、傷だらけのこの土地で再び芽吹き始めた。	그 순간, 용기와 희망이 상처투성이인 이 땅에서 다시 싹을 틔웠다.	In this wounded land, courage and hope pushed through once more... like the tender green of a new spring.						0	3.3主线剧情
+55	接着，时间来到了后半夜，敌人并没有再发动袭击，而市民们也在陆陆续续地按照计划般撤离至避难所。	接著，時間來到了後半夜，敵人並沒有再發動襲擊，而市民們也在陸陸續續地按照計畫撤離至避難所。	深夜になると敵が襲撃してくることもなくなり、住民たちは計画通り、次々と避難所へ退避していった。	그러다가 밤이 깊었고, 적들은 더 이상 공격해 오지 않았다. 시민들도 계획대로 차례차례 피난소로 대피했다.	As the night wore on, no further attacks came. Evacuation continued steadily just as we'd planned.						0	3.3主线剧情
+56	此时此刻，也就只剩下最后一批居民等待撤离了。	此時此刻，也就只剩下最後一批居民等待撤離了。	今、まだ避難していない住民は最後の一組だけとなった。	이제는 마지막 주민들만이 대피를 기다리고 있었다.	Only one last group remained.						0	3.3主线剧情
+57	走出建在屋顶的临时指挥部，我望向远方的灯火通明的汉诺塔，长长地舒了一口气。	走出搭建在屋頂的臨時指揮部，我望向遠方燈火通明的漢諾塔，長長地嘆了一口氣。	屋上に設けられた臨時指揮所を出て、遠くに灯るハノイの塔を眺めながら、私はようやくホッとすることができた。	나는 옥상에 설치된 임시 지휘부에서 나와, 저 멀리 환한 불빛의 하노이 타워를 바라보며 길게 안도의 한숨을 내쉬었다.	I stepped out from the makeshift command post on the rooftop. In the distance, the Tower of Hanoi shone like a beacon against the dark.						0	3.3主线剧情
+58	芙提雅，猫汐尔以及海姆达尔的其他增援应该很快就会到了。	芙提雅、貓汐爾以及海姆達爾的其他增援應該很快就會到了。	フリティアやマーシル、そしてヘイムダルからの増援もすぐに到着するはずだ。	프티야, 캣 시에라, 그리고 헤임달의 다른 지원군들이 곧 도착할 것이다.	Fritia, Mauxir, and the other Heimdall reinforcements would be arriving soon.						0	3.3主线剧情
+59	到时候，就由宇迦和米娅在那里负责接应好了，正因为有了她们的帮助，我才能留在这里安心殿后。	到時候，就由宇迦和米婭在那裡負責接應好了，正因為有了她們的幫助，我才能留在這裡安心殿後。	そしたら、現地での対応はユガとミアに任せよう。彼女たちがいるからこそ、私はここで安心してしんがりを務められたのだ。	그때가 되면 우카와 미아한테 마중을 나가달라고 해야겠다. 내가 안심하고 후방에 남아 있을 수 있는 건 모두 그녀들의 도움 덕분이다.	YUGA and Mia were already in position to receive them. Thanks to them... I could stay behind to cover the rescue and evacuation without worrying.						0	3.3主线剧情
+60	伸展着酸痛的肩膀，我无意间抬头望了望天。	伸展著酸痛的肩膀，我無意間抬頭望向天空。	凝った肩を動かしながら、私は無意識に空を見上げた。	뻐근한 어깨를 펴면서, 나는 무심코 하늘을 올려다보았다.	I stretched my sore shoulders and let my gaze drift upward.						0	3.3主线剧情
+61	新恒提罗的夜空总是格外清澈。而今夜，满月悬在苍穹，银辉洒满整座浮空城，为残破的战场镀上一层柔和的微光……	新恆提羅的夜空總是格外清澈。而今夜，滿月懸在蒼穹，銀輝灑滿整座浮空城，為殘破的戰場鍍上一層柔和的微光…⋯	ニューガントラの夜空はいつも澄んでいるが、今夜は格別だ。満月が天に懸かり、銀色の光が天空城全体を包み、傷ついた戦場に優しい微光を注ぐ……	뉴헨틸로의 밤하늘은 여느 때처럼 유난히 맑았다. 오늘 밤은 하늘에 보름달이 걸려 있고, 은은한 달빛이 공중 도시 전체를 비추고 황폐해진 전장을 부드럽게 비췄다…	The night skies over New Hentiro were always clear — and tonight, a full moon hung high above, its silver light spilling across the floating city... bathing the shattered battlefield in a soft, dreamlike glow.						0	3.3主线剧情
+62	呵，这份美丽的月色，就当是命运给我刚刚的努力，一点小小的犒赏吧。	呵，這份美麗的月色，就當是命運給我剛剛那些努力的一點小小犒賞吧。	ふっ……この美しい月は、さっきまで努力した私への、運命からのプレゼントといったところか。	하아, 이 아름다운 달빛은, 방금 내가 들인 노력에 대한 운명의 작은 보답인가 보군.	Heh. Let's call this moonlight a small reward from fate.						0	3.3主线剧情
+63	只可惜……	只可惜……	しかし……	아쉽게도…	Shame that—						0	3.3主线剧情
+64	分析员，打扰了。	分析員，打擾了。	失礼、分析員。	실례할게, 분석가.	Adjutant — sorry to interrupt.						0	3.3主线剧情
+65	身后，清冽的晚风将一股若隐若现的花香送来。	身後，清冽的晚風將一股若隱若現的花香送來。	後ろから、かすかな花の香りを帯びた涼しい夜風が吹いてきた。	뒤편에서 불어오는 시원한 저녁 바람이 어렴풋한 꽃향기를 실어 왔다.	A cool evening breeze carried the faint scent of flowers.						0	3.3主线剧情
+66	我扭头望去，只见月光下，满脸绯红的少女正手捧着一束鲜花，静立于此。	我轉頭望去，只見月光下，滿臉緋紅的少女正手捧著一束鮮花，靜立於此。	振り返ると、頬を赤らめた晴が花束を持って、静かに月明りの中で立っていた。	고개를 돌리자, 달빛 아래서 얼굴을 붉힌 소녀가 꽃다발을 들고 조용히 서 있었다.	I turned — and there she stood in the moonlight, cheeks flushed, a bouquet in her hands.						0	3.3主线剧情
+67	风吹开她的刘海，那双眼眸，比起今夜的月色还要轻柔娇俏几分。	風吹開她的瀏海，那雙眼眸，比起今夜的月色還要輕柔嬌俏幾分。	彼女の前髪は風に揺らされ、瞳は今夜の月よりも幾分愛らしく見える。	바람이 그녀의 앞머리를 흩날렸고, 그 눈동자는 오늘 밤 달빛보다도 더 부드럽고 사랑스러웠다.	The breeze lifted her bangs, revealing eyes more tender than the moonlight itself.						0	3.3主线剧情
+68	花瓣随风飘落。	花瓣隨風飄落。	花束から散った花びらは風に舞った。	꽃잎이 바람에 휘날렸다.	Petals danced in the air between us.						0	3.3主线剧情
+69	这个……给你。	這個……給你。	これを……	이거… 받아.	This is... for you.						0	3.3主线剧情
+70	谢谢晴，话说你是从哪里找来那么大一捧鲜花的啊。	謝謝晴，話說你是從哪裡找來那麼大一捧鮮花的啊。	ありがとう、晴。どこでこんな立派な花束を？	고마워요, 하루. 근데 이렇게 큰 꽃다발은 어디서 구했어요?	Thanks, Haru. But... where'd you get such a big bouquet?						0	3.3主线剧情
+71	我伸手接过花束，却无意间触碰到她的指尖，却又激起一番波澜。	我伸手接過花束，卻無意間觸碰到她的指尖，卻又激起一番波瀾。	花束を受け取ろうとしたとき、私の手が彼女の指に触れると、彼女はまた慌てた。	꽃다발을 건네받으려다 의도치 않게 그녀의 손끝과 맞닿았고, 순간 마음이 다시 출렁였다.	I reached out to take the flowers. The brief touch of her fingers sent a quiet ripple through my heart.						0	3.3主线剧情
+72	并，并不是我……是一位老妇人在临行前，托人转交分析员的。	並、並不是我……是一位老婦人在臨行前，托人轉交給分析員的。	じ、自分ではなく、出発前に、ある老婦人があなたにと。	내, 내가 구한 건 아니고… 한 노부인께서 떠나시기 전에 분석가에게 전해달라고 부탁하셨어.	I—It's not from me... An elderly woman asked me to pass it on before she left.						0	3.3主线剧情
+73	哦，是新恒提罗的市民啊。	哦，是新恆提羅的市民啊。	ああ、ニューガントラの住民か？	아, 뉴헨틸로의 시민이시군요.	Ah... a citizen of New Hentiro.						0	3.3主线剧情
+74	嗯，一起传过来的还有这句话。	嗯，一起傳過來的還有這句話。	それと、一緒にこのメッセージも。	응, 이 말씀도 함께 전해달라고 하셨어.	Mm. She also left a message with the flowers:						0	3.3主线剧情
+75	“请把花献给新恒提罗的英雄”。	「請把花獻給新恆提羅的英雄」。	「ニューガントラの英雄さんへ」と。	"뉴헨틸로의 영웅에게 이 꽃을 바칩니다"라고.	"Please give them to the hero of New Hentiro."						0	3.3主线剧情
+76	英雄吗……	英雄嗎…⋯	英雄、か……	영웅이라…	Hero, huh...						0	3.3主线剧情
+77	我笑了笑，将鲜花小心地放在身旁的石柱上。	我笑了笑，將鮮花小心地放在身旁的石柱上。	私は小さく笑って、気を付けながら花束を横の柱の上に置いた。	나는 웃어 보이며 꽃다발을 옆의 돌기둥 위에 조심스럽게 올려놓았다.	I smiled and set the bouquet gently on the stone pillar beside me.						0	3.3主线剧情
+78	看来必须得更加努力一些才行了，晴，接下来就用一场胜利来回应大家的期待吧。	看來必須要更加努力一點才行了，晴，接下來就用一場勝利來回應大家的期待吧。	じゃあ、もっと頑張らないとな。ここからは勝利をもってみんなの期待に応えよう。	계속 힘내야겠네요. 하루, 이제 승리로 모두의 기대에 부응해야 해요.	Looks like I'll have to work even harder. Haru, let's give them a victory that lives up to what they see in us.						0	3.3主线剧情
+79	嗯！当然。	嗯！當然。	ああ、もちろんだ。	응! 물론이지.	Absolutely!						0	3.3主线剧情
+80	少女用力地点了点头。	少女用力地點了點頭。	晴は力強くうなずいた。	소녀가 힘차게 고개를 끄덕였다.	She nodded firmly.						0	3.3主线剧情
+81	嗯？晴你另一只手上的是？	嗯？晴你另一隻手上的是？	ところで、手に持っているのは？	응? 하루, 다른 손에 든 건 뭐예요?	Hm? What's that in your other hand?						0	3.3主线剧情
+82	啊，这个是矿泉水！	啊，這個是礦泉水！	ああ、これはミネラルウォーターだ。	아, 이건 생수야!	Ah! It's... just a bottle of water!						0	3.3主线剧情
+83	我想着分析员刚刚指挥了那么久救援，喉咙一定很干很涩吧？	我想說分析員剛剛指揮了那麼久的救援，喉嚨一定很乾很澀吧？	ずっと救援の行動指示を出していたから、喉が乾いたかと思って。	장시간 구조 작업을 지휘하느라, 분석가가 목이 많이 말랐을 것 같아서.	I figured... after all that coordinating, your throat must be dry.						0	3.3主线剧情
+84	所以，我就去贩卖机那边买了一瓶水。	所以，我就去販賣機那邊買了一瓶水。	自販機で買ってきたんだ。	그래서 자판기에 가서 물을 한 병 샀어.	So I ran over to the vending machine and got you one.						0	3.3主线剧情
+85	她拧开盖子，递了过来。	她轉開蓋子，遞了過來。	彼女はフタを開けてから、私に手渡してくれた。	그녀가 뚜껑을 열어 건네주었다.	She twisted the cap open and offered it to me.						0	3.3主线剧情
+86	请用。我一直捂在怀里，这会儿已经不冰了。	請用。我一直放在懷裡，現在已經不冰了。	どうぞ。ふところに入れて温めておいたから、もう冷たくないはずだ。	마셔. 내가 계속 품고 있었으니 차갑진 않을 거야.	Here. I've been keeping it close to me, so the temperature should be just fine.						0	3.3主线剧情
+87	哈哈哈，晴还真是贴心。	哈哈哈，晴還真是貼心。	あはは、晴は親切だな。	하하하, 하루는 정말 세심하네요.	Haha... Haru, you really are thoughtful.						0	3.3主线剧情
+88	没有，这是应该的。	沒有，這是應該的。	当たり前のことだ。	아니야, 당연히 해야 할 일인걸.	No, it's nothing... just what I should do.						0	3.3主线剧情
+89	因为被分析员的行为所鼓舞的，不只有新恒提罗的市民。	因為被分析員的行為所鼓舞的，不只有新恆提羅的市民。	分析員に鼓舞されたのは、ニューガントラの住民だけじゃない。	분석가의 행동에 용기를 얻은 건 뉴헨틸로 시민들뿐만이 아니니까.	And it wasn't only the people of New Hentiro who felt inspired by your actions.						0	3.3主线剧情
+90	我也一样，在跟着你转身进入大楼的瞬间，感觉对自己所肩负的使命，也更加清晰了。	我也一樣，在跟著你轉身進入大樓的瞬間，感覺對自己所肩負的使命，也更加清晰了。	自分もだ。あなたとビルに入った瞬間、自分が背負っている使命を再認識できた気がする。	나도 마찬가지였어. 분석가를 따라 건물로 들어서는 순간, 내가 짊어진 사명도 더욱 선명해지는 것 같더라.	I did too. The moment I followed you into that building, I felt my own responsibility more clearly.						0	3.3主线剧情
+91	脸上的绯红褪去，晴露出了略微有些怀念的微笑。	臉上的緋紅褪去，晴露出了略微感到懷念的微笑。	晴の頬の赤みがだんだんと消え、いつの間にか懐かしそうな表情になった。	얼굴의 홍조가 가라앉은 하루는 약간 그리움이 섞인 듯한 미소를 지었다.	The blush faded from her cheeks, replaced by a quiet, nostalgic smile.						0	3.3主线剧情
+92	……不过，就在那时，我稍微恍惚了一下。	……不過，就在那時，我稍微恍惚了一下。	……ただ、あのとき、一瞬ぼんやりしてしまったんだ。	… 하지만 그때, 잠시 다른 생각이 들었어.	...Though, I have to admit, I was a little lost in thought at that moment.						0	3.3主线剧情
+93	恍惚了一下？	恍惚了一下？	ぼんやり？	다른 생각이 들었다고요?	Lost in thought?						0	3.3主线剧情
+94	嗯，你转身迈向废墟的样子，让我想起了几年前的零区救援任务。	嗯，你轉身邁向廢墟的樣子，讓我想起了幾年前的零區救援任務。	ああ。廃墟へ向かうplayernameの背中が、数年前のエリアゼロ救援作戦のときと似ていた気がして。	응. 폐허를 향해 걸어가는 네 모습을 보니까, 몇 년 전의 제로 구역 구조 임무가 떠올랐어.	Mm. The way you turned toward the ruins... it reminded me of the rescue operation years ago, in the Containment Zone.						0	3.3主线剧情
+95	那个时候我还只是个安全部的见习生。	那個時候我還只是個安全部的見習生。	当時の自分は、安全部に研修生として入ったばかりで……	그때 난 아직 안전부 견습생이었지.	Back then, I was just a Security Department trainee.						0	3.3主线剧情
+96	是我亲自认证亲自颁奖的最优见习生。不过……	是我親自認證並頒獎的最優秀見習生。不過……	君は、私が認めてこの手で表彰した最優秀研修生だよ。ただし……	제가 직접 인정하고 시상한 최우수 견습생이죠. 그런데…	You were the Ace Trainee — certified and honored by me personally. Although...						0	3.3主线剧情
+97	我故意压低声线。	我故意壓低聲線。	私はわざと声を低くした。	나는 일부러 목소리를 낮췄다.	I lowered my voice theatrically.						0	3.3主线剧情
+98	下面有请——在接力棒赛跑比赛时稳如磐石，却在领奖台上差点绊倒的晴选手！	接下來有請——在接力棒賽跑比賽中穩如磐石，卻在領獎台上差點絆倒的晴選手！	リレー中は危なげなく走っていたのに。表彰台に上がるときにつまずきかけたんだよな？	릴레이 달리기 대회에선 안정적인 실력을 보여줬으면서, 시상대에서는 넘어질 뻔했던 하루 선수! 큰 박수로 맞아주세요!	Let's not forget the real highlight — the relay champ who held it together the whole way through, but almost face-planted on the podium. Ladies and gentlemen — give it up for Haru!						0	3.3主线剧情
+99	噗呵呵。	噗呵呵。	ぷっ……	푸흐흐.	Hahaha!						0	3.3主线剧情
+100	被我的话逗笑，晴捂住了嘴巴。	被我這番話逗笑了，晴摀住了嘴巴。	私の言葉を聞いて、晴は思わず手を口に当てて、笑いをこらえた。	내 말을 들은 하루가 입을 가리며 웃음을 터뜨렸다.	She broke into laughter, covering her mouth.						0	3.3主线剧情
+101	原来分析员还记得啊，当时要不是你及时伸手扶住我，估计那张奖状就要被收回了。	原來分析員還記得啊，當時要不是你及時伸手扶住我，那張獎狀大概就要被收回去了。	覚えていたのか。あなたが支えてくれなければ、表彰式が台無しになっていたところだった。	분석가, 아직도 기억하는구나. 그때 네가 제때 잡아줘서 다행이었지, 안 그랬으면 그 수상증은 회수됐을 거야.	So you still remember... If you hadn't reached out in time to steady me, I probably would've made such a fool of myself that they'd have taken the award back.						0	3.3主线剧情
+102	是啊……虽然挂着“最优见习生”头衔，但其实我什么都不懂。	是啊……雖然掛著「最優秀見習生」頭銜，但其實我什麼都不懂。	あのときの自分は、「最優秀研修生」ではあったが、なにもわかっていなかった。	그래… '최우수 견습생'이란 타이틀을 달고 있었지만, 사실 난 아무것도 몰랐지.	Honestly, even after I earned the title, I didn't really know much at all.						0	3.3主线剧情
+103	不会应对颁奖典礼，更不懂得如何面对真实的战场……	不會應對頒獎典禮，更不懂得如何面對真實的戰場……	表彰式すらぎこちなくて……ましてや実戦なんてまったく……	시상식에서의 대처법도 모르고, 실제 전장에서 어떻게 해야 하는지는 더더욱 몰랐어…	I didn't know how to handle a ceremony, and even less how to face a real battlefield...						0	3.3主线剧情
+104	不过，每次我快要跌倒的时候，总有一双手稳稳地接住我。	不過，每次我快要跌倒的時候，總有一雙手穩穩地接住我。	だが、転びそうになると、いつも誰かが支えてくれた。	하지만 내가 휘청거릴 때마다, 언제나 누군가의 손이 날 단단히 붙잡아주었지.	But every time I stumbled, there was always... a steady pair of hands there to catch me.						0	3.3主线剧情
+105	她说着说着，看向我的眼神再次变得朦胧，拳头也不自觉地握紧了起来。	她說著說著，看向我的眼神再次變得朦朧，拳頭也不自覺地握緊了起來。	彼女は話しながら、おぼろげな瞳でこちらを見て、拳を握り締めた。	그녀는 그렇게 말하다가 나를 보는 눈빛이 다시 몽롱해졌고, 무의식적으로 주먹을 꽉 쥐었다.	Her gaze grew misty again, and without realizing it, her hands had curled into fists.						0	3.3主线剧情
+106	晴……	晴……	晴……	하루…	Haru...						0	3.3主线剧情
+107	而且……还不止那两次。	而且……還不止那兩次。	それに……それだけじゃない。	그리고… 그 두 번뿐만이 아니야.	And... it wasn't just those two times.						0	3.3主线剧情
+108	那年，因为父亲的事，我差点就要离开安全部。	那年，因為父親的事，我差點就要離開安全部。	あの年、父の件で、自分は安全部を離れようとしたとき、	그해, 내가 아버지 일 때문에 안전부를 떠나려고 했을 때.	That year, because of what happened to my father, I almost quit the Security Department.						0	3.3主线剧情
+109	是分析员追到车站，在最后一班列车发车前，对我说“这里永远是你的家”。	是分析員追到車站，在最後一班火車發車前，對我說「這裡永遠是你的家」。	あなたは駅に駆けつけて、「ここが君の家だ」と言ってくれた。	분석가가 역까지 달려와서 마지막 열차가 떠나기 전에 내게 말했었지. "여긴 영원히 하루의 집이에요"라고.	It was you who chased me to the station, right before the last train, and told me that the Security Department would always be my second home.						0	3.3主线剧情
+110	就是那一刻，我找到了继续前进的勇气，继而，才能有今天的成就。	就是那一刻，我找到了繼續前進的勇氣，並且才能有今天的成就。	あの瞬間、自分は歩み続ける勇気を得て、今まで頑張ってこれた。	그때 그 순간에 나는 계속 전진할 용기를 얻었고, 오늘날의 성과를 거머쥘 수 있었지.	That's when I found the courage to keep going. And because of that, I've come this far.						0	3.3主线剧情
+111	回想起来……我人生中每一个重要转折点，好像都有分析员在身边呢。	回想起來……我人生中每個重要轉折點，好像都有分析員在身邊呢。	今振り返れば……人生の分岐点には、いつもあなたがいてくれた。	돌이켜보면… 내 인생의 모든 중요한 전환점마다 분석가가 늘 곁에 있었어.	Looking back now... It feels like you've been there at every important turning point in my life.						0	3.3主线剧情
+112	但是真正做出选择的人，是晴吧？	但是真正做出選擇的人，是晴吧？	そうはいっても、道を選んだのは君自身だろう。	하지만 실제로 결정을 내린 사람은 하루였잖아요?	But Haru, you were the one who made those choices.						0	3.3主线剧情
+113	我只是在你迷茫的时候，给了你一个方向而已。	我只是在你迷茫的時候，給了你一個方向而已。	私はただ、迷っている君に方向を示しただけだ。	저는 그저 하루가 방황할 때마다 방향을 제시해 줬을 뿐이에요.	I only pointed the way when you lost sight of it.						0	3.3主线剧情
+114	呵呵呵，真像是分析员会说的话。	呵呵呵，真像是分析員會說的話。	はは……あなたらしいな。	하하하, 정말 분석가다운 대답이네.	Hehe... that's exactly the kind of thing you'd say.						0	3.3主线剧情
+115	既谦虚，又温柔……	既謙虛，又溫柔……	謙虚で、優しくて……	겸손하고도 따뜻해…	Always so humble... and so gentle.						0	3.3主线剧情
+116	温柔倒是没错，但我才没有谦虚，那是晴本身就很出色。	溫柔倒是沒錯，但我才沒有謙虛，那是晴本身就很出色。	優しいところはあるかもしれないが、謙虚ではないよ。晴は元から優秀さ。	따뜻한 건 맞지만, 겸손하진 않아요. 하루가 훌륭한 사람인 거죠.	Gentle, sure. But I'm not being humble. You're just that good, Haru.						0	3.3主线剧情
+117	即便我不在的那三年，你也做得比任何人都出色。	即便我不在的那三年，你也做得比任何人都出色。	私は3年間不在だったが、君は誰よりも頑張ってきたんだろう。	내가 없었던 그 3년 동안에도, 누구보다 훌륭하게 해냈잖아요.	Even in the three years I was gone, you outshone everyone.						0	3.3主线剧情
+118	——！	——！	……！	……!	...!						0	3.3主线剧情
+119	从“最优见习生”到“最优安全部干员”，最后再到海姆达尔部队的队长。	從「最優秀見習生」到「最優秀安全部幹員」，最後再到海姆達爾部隊的隊長。	「最優秀研修生」から「最優秀部員」、最後はヘイムダル部隊の隊長にまでなった。	 '최우수 견습생'에서 '최우수 안전부 요원'이 되고, 결국 헤임달 부대의 대장이 되기까지.	From "Ace Trainee" to "Model Security Officer", and now, Captain of the Heimdall Force.						0	3.3主线剧情
+120	这些成就，没有任何人能替你完成。它们只属于你——属于那个永远在前进的晴。	這些成就，沒有任何人能替你完成。它們只屬於你——屬於那個永遠在前進的晴。	この成果はほかの誰でもない、君の――ずっと進み続けている晴のものだ。	이런 성과들은 그 누구도 대신할 수 없어요. 이건 오직 당신 것이죠. 끊임없이 전진하는 하루만의 것이에요.	No one else could've completed that journey for you. Those honors — they're yours, and yours alone.						0	3.3主线剧情
+121	而且……	而且……	それに……	그리고…	Besides...						0	3.3主线剧情
+122	我也有要感谢晴的地方。	我也有要感謝晴的地方。	私も晴に感謝したいことがある。	저도 하루한테 고마운 게 있어요.	There's something I should thank you for too.						0	3.3主线剧情
+123	分析员……你在说什么呢……	分析員……你在說什麼呢……	急に…何言い出すんだ……	분석가… 무슨 말이야…?	Adjutant...? What do you mean...?						0	3.3主线剧情
+124	少女哽咽了起来。	少女哽咽了起來。	晴は息を詰めて黙った。	소녀의 목소리가 흔들렸다.	Her voice caught, thick with emotion.						0	3.3主线剧情
+125	我伸出手，轻轻地托在她炙热的脸颊上。	我伸出手，輕輕地托在她炙熱的臉頰上。	彼女の熱くなった頬を、私は手で優しく触れた。	나는 손을 뻗어 그녀의 뜨거운 뺨을 살며시 감쌌다.	I reached out and gently cupped her burning cheeks.						0	3.3主线剧情
+126	咦……	咦……	え……	앗…	Hmm...?						0	3.3主线剧情
+127	谢谢你，一直等了我三年。	謝謝你，等了我三年。	ありがとう、3年も待っていてくれて。	고마워요, 3년 동안 기다려줘서.	Thank you... for waiting for me. All those three years.						0	3.3主线剧情
+128	……	……	……	……	...						0	3.3主线剧情
+129	少女压制着从喉头挤出的呜咽，身体也因此不断颤抖着。	少女壓抑著想從喉嚨擠出的嗚咽，身體也因此不斷顫抖著。	晴は嗚咽を我慢しながら体を震わせた。	소녀는 목구멍에서 새어 나오는 흐느낌을 꾹 참으려 하자, 몸도 같이 떨리고 있었다.	She bit back the sob rising in her throat. Her body trembled with the effort.						0	3.3主线剧情
+130	正是因为有你在，海姆达尔部队才能顺利执行那么多次零区作战任务。	正是因為有你在，海姆達爾部隊才能順利執行那麼多次零區作戰任務。	君がいたからこそ、ヘイムダル部隊は何度もエリアゼロの任務を順調にこなせた。	헤임달 부대가 그동안의 제로 구역 전투 임무를 성공적으로 수행할 수 있었던 건, 다 하루 덕분이에요.	It was because of you that Heimdall pulled through so many missions in the Containment Zone.						0	3.3主线剧情
+131	而也正是因为有你在，当我刚接手海姆达尔部队时，才会感觉这里仿佛当年的安全部一样……	而也正是因為有你在，當我剛接手海姆達爾部隊時，才會感覺這裡彷彿像當年的安全部一樣……	君がいたからこそ、私がヘイムダル部隊を引き継いだとき、ここは当時の安全部のままだった……	그리고 하루가 있었기에 제가 헤임달 부대를 처음 넘겨받았을 때, 예전의 안전부에 온 것 같다는 느낌을 받을 수 있었죠…	And when I first took over, it didn't feel like some new assignment — it felt like coming home. Just like the old days with the Security Department.						0	3.3主线剧情
+132	让我始终觉得，无论何时，这里都会有个能回来的家。	讓我始終覺得，無論何時，這裡都會有個能回來的家。	いつ帰ってきてもいい家なんだと感じたんだ。	언제든지 돌아올 수 있는 집이 있단 걸 계속 느끼게 해줬어요.	You made Heimdall feel like home, a home I could always return to.						0	3.3主线剧情
+133	呜……	嗚……	っ…！	흑…	Uhh...						0	3.3主线剧情
+134	我知道这就是晴一直以来追求的东西，无论战斗还是生活，你都践行着自己的信念。	我知道這就是晴一直以來追求的東西，無論戰鬥還是生活，你都在踐行著自己的信念。	晴がずっとそれを求めていることは分かっている。戦闘においても生活においても、君は己の信念を貫いている。	하루가 간절히 원해온 게 바로 이런 거란 걸 난 알고 있어요. 전투든, 일상생활이든, 하루는 항상 자신의 신념을 따르고 있으니까요.	I know this is what you've always fought for. On the battlefield, and in life... you've always stayed true to your convictions.						0	3.3主线剧情
+135	除此之外，郁金香也有重逢的意思。	除此之外，鬱金香也有重逢的意思。	他にも、チューリップには「再会」の意味もある。	그리고 튤립에는 '재회'라는 의미도 담겨 있어요.	And besides, tulips mean reunion.						0	3.3主线剧情
+136	很高兴能再次见到你。	很高興能再次見到你。	また会えてうれしいよ。	다시 만나서 반가워요.	I'm glad we found our way back to each other.						0	3.3主线剧情
+137	最终豆大泪珠无声地滑落，滴在了我的手心上。	最終豆大的眼淚無聲滑落，滴在了我的手心上。	彼女の涙がついに私の手のひらにこぼれ落ちた。	결국 굵은 눈물방울이 조용히 흘러내려 내 손바닥에 뚝 떨어졌다.	In the end, the tears she'd held back slipped free — falling gently into the center of my palm.						0	3.3主线剧情
+138	……失礼了。	⋯⋯失禮了。	失礼……取り乱してしまった。	… 실례했어.	...Forgive me...						0	3.3主线剧情
+139	她慌乱地抬起手臂，用袖子仓促地拭去眼角的泪水。	她慌亂地抬起手臂，用袖子匆忙擦去眼角的淚水。	彼女は慌てて、袖で目元を拭った。	그녀는 허둥대며 팔을 들어 올려 눈가에 맺힌 눈물을 옷소매로 훔쳤다.	Flustered, she raised an arm and wiped at her eyes with the sleeve of her jacket.						0	3.3主线剧情
+140	那三年来，我不过是在执行着你留给我的任务……	那三年來，我不過是在執行著你留給我的任務……	あの3年間は、あなたが自分に残した任務を遂行していただけで……	그 3년 동안은, 네가 내게 남겨준 임무를 수행했을 뿐이야…	Those past three years... all I did was carry out the tasks you entrusted to me.						0	3.3主线剧情
+141	至于那些作战方案，也都只是在拙劣地模仿着你罢了。	至於那些作戰方案，也都只是在拙劣地模仿著你罷了。	作戦から何もかも、あなたの真似事をしていただけだ。	전투 계획도, 모두 네가 했던 걸 서툴게 모방했을 뿐이지.	Every operation plan I drafted were just clumsy echoes of yours.						0	3.3主线剧情
+142	说到底，根本没有你说得那样厉害，我只是，只是想成为你手中最锋利的剑。	說到底，根本沒有你說的那麼厲害，我只是，只是想成為你手中最鋒利的劍。	自分はあなたが思うほどすごくない。自分はただ、あなたの一番鋭利な剣になりたいだけだ。	어찌 보면 네가 말한 것처럼 대단하지도 않아. 난 그저, 그저 네 손에 쥔 가장 날카로운 검이 되고 싶었을 뿐이지.	Truth is, I was never as capable as you said. I only ever wanted to become the sharpest blade in your hand.						0	3.3主线剧情
+143	而且，即便是作为剑而言，我做得也不够好……	而且，即便是作為劍而言，我做得也不夠好……	剣としても、まだまだ未熟だ。	게다가, 난 검의 역할조차 제대로 해내지 못했어…	And even as a blade... I don't think I ever measured up.						0	3.3主线剧情
+144	虽然我很舍不得，但身为刀刃，我不能再贪恋这种被刀鞘所保护的温柔了。	雖然我很捨不得，但身為刀刃，我不能再貪戀這種被刀鞘所保護的溫柔了。	残念ではあるが、あなたの剣である以上、ずっと鞘に守られているわけにはいかない。	아쉬운 마음은 크지만, 칼날로서 난 더 이상 이런 칼집의 온기에 미련을 둬선 안 돼.	Much as I hate to admit it, a sword cannot linger forever in the warmth of its scabbard.						0	3.3主线剧情
+145	请您记住我现在的样子，然后……去做您该做的事情吧。	請您記得我現在的樣子，然後……去做您該做的事情吧。	今のこの姿を覚えておいて、そして……分析員として、あなたのやるべきことをしてほしい。	부디 지금의 내 모습을 기억해 주기 바라. 그리고… 이젠 분석가도 분석가 일을 하러 가야지.	So please... remember me as I am now — and go do what you must.						0	3.3主线剧情
+146	唔呃！！！	唔呃！！！	くっ！！	으윽!!!	Urrgh...!!!						0	3.3主线剧情
+147	哎？！	欸？！	なにっ！？	앗?!	What—!?						0	3.3主线剧情
+148	为什么我的剑会被……	為什麼我的劍會被……	剣が……	어째서 내 검이…	Why... why did my sword...						0	3.3主线剧情
+149	呀，果然，还是太早了吗。	啊，果然，還是太早了嗎。	おっと、この話はまだ早かったか。	아, 역시 아직은 이른가.	Ah. Still too soon, huh?						0	3.3主线剧情
+150	不过总会有一天，当你能真正做到人剑合一时，也许就会明白了。	不過總會有一天，當你能真正做到人劍合一時，也許就會明白了。	まあ、君が剣と一つになれば、いつかわかることさ。	하지만 언젠가는 깨달을 거다. 네가 진정으로 검과 하나가 되면 이해하게 될 거야.	But someday, when you truly become one with the blade... maybe then you'll understand.						0	3.3主线剧情
+151	只有当人剑合一时，方可斩断一切阻碍。	只有當人劍合一時，方可斬斷一切阻礙。	剣と一つになれば、万の障壁も斬り伏せられる。	검과 한 몸이 되었을 때, 비로소 모든 장애물을 베어낼 수 있다.	Only when I become one with my sword... can I sever anything in my way.						0	3.3主线剧情
+152	但我似乎还是无法参透其中的道理……	但我似乎還是無法參透其中的道理……	自分は、まだその真意を理解できずにいる……	하지만 난 아직도 그 뜻을 깨닫지 못한 것 같아…	But I still don't really know what that means...						0	3.3主线剧情
+153	或许……他的意思，并不仅仅是指让晴化身为剑。	或許……他的意思，並不僅僅是指讓晴化身為劍。	たぶん……君が剣と一つになれという意味ではなく。	어쩌면… 그분의 뜻은, 하루가 그저 검이 되길 바라는 게 아닐지도 몰라요.	Maybe... he didn't mean you should become the sword.						0	3.3主线剧情
+154	而是反过来，让剑成为人的延伸。	而是反過來，讓劍成為人的延伸。	むしろその逆で、剣を人の延長として扱ってくれ、という意味だと思う。	오히려 반대로, 검이 사람의 연장선이 되는 것이에요.	Maybe it's the other way around — the sword should become an extension of you.						0	3.3主线剧情
+155	延伸……？	延伸……？	人の……延長？	연장선…?	An extension... of me?						0	3.3主线剧情
+156	嗯，想象武器是自己身体的一部分，是自己内心真正愿望的延伸，而非击倒敌人的工具。	嗯，想像武器是自己身體的一部分，是自己內心真正願望的延伸，而非擊倒敵人的工具。	ああ。武器は敵を倒すための道具ではなく、体の一部として、真の願いの延長線にあるものと考えるんだ。	네. 무기가 자신의 일부라고, 자기 마음속 진짜 소원의 연장선이라고 상상하는 거예요. 적을 쓰러뜨리는 도구가 아니고요.	Yeah. Think of it not as a tool, but as an extension of your will — of who you are.						0	3.3主线剧情
+157	我不太懂剑，但如果用枪来举例的话——	我不太懂劍，但如果用槍來舉例的話——	私は剣に詳しくないから、銃で例えるが――	제가 검은 잘 모르지만, 총으로 예를 들자면…	I'm no expert on swords, so let me put it in gun terms...						0	3.3主线剧情
+158	初学者只会关注自己的动作，渐渐熟练后的射手则会解读对手的动作。	初學者只會關注自己的動作，漸漸熟練後的射手則會解讀對手的動作。	二流の射手は自分の動きしか考えないが、一流の射手は相手の動きを読む。	이류 사수는 자신의 동작에만 신경 쓰지만, 일류 사수는 상대의 동작을 파악하죠.	Novice shooters focus only on their own motions. With experience, they learn to read the enemy's movements instead.						0	3.3主线剧情
+160	而成熟的射手，关注的只有一点。	而成熟的射手，關注的只有一點。	トップクラスの射手は、どんな状況でも、常に自分の考えを優先するということだ。	최고의 사수와 그들의 차이점은 바로, 언제나 자신의 마음을 따른다는 거예요.	The veterans, though, only focus on one thing.						0	3.3主线剧情
+161	“抬枪，并非为了击杀敌人，而是为了胜利”。	「舉槍，不是為了擊殺敵人，而是為了勝利」。	「銃を構えるのは、敵を殺すためではなく、勝利のためである」って感じかな。	"적을 죽이기 위해서가 아니라, 승리하기 위해서 총을 드는 거죠."	"Raise your gun — not to kill, but to win."						0	3.3主线剧情
+162	分析员是说，我太在意“斩断什么”，反而忘了“为何而斩”？	分析員是說，我太在意「斬斷什麼」，反而忘了「為何而斬」？	自分は「斬ること」に気をとられ、「なんのために斬るのか」という点を忘れていたということか？	분석가, 그 말은 내가 '무엇을 베는가'에 너무 신경 쓴 나머지 '왜 베는가'를 잊었다는 뜻이야?	So you're saying... I've been too focused on what to sever, and not why?						0	3.3主线剧情
+163	嗯，下次挥剑时，试着忘记面前之物，以及剑的存在吧。	嗯，下次揮劍時，試著忘記面前之物，以及劍的存在吧。	ああ。次は目の前のものや剣そのものを忘れて、振ってみるといい。	네. 이제부터 검을 휘두를 때는, 눈앞의 대상과 검의 존재를 잊어 봐요.	Exactly. Next time you swing your sword, try forgetting what's in front of you. Forget the sword itself, even.						0	3.3主线剧情
+164	让真正支撑起你不断挥剑的理由，通过刀刃自然流淌到前方就好。	讓真正支撐起你不斷揮劍的理由，透過刀刃自然流淌到前方就好。	君が剣を振り続ける本当の理由を、刃先に沿って流れさせればいい。	하루가 계속 검을 휘두르는 진정한 이유가, 자연스럽게 칼날을 타고 앞으로 흘러가게 하면 돼요.	Let the reason you swing your sword... flow straight through it.						0	3.3主线剧情
+165	说着，我比试了一下挥剑的动作。	說著，我比試了一下揮劍的動作。	そう言いながら、私は剣を振る仕草をしてみせた。	나는 그렇게 말하며 검을 휘두르는 동작을 시험 삼아 보여주었다.	As I spoke, I demonstrated with a swing.						0	3.3主线剧情
+166	我试试！	我試試！	わかった！	해볼게!	I'll give it a try!						0	3.3主线剧情
+167	而晴见状也跃跃欲试，她竟直接抽出了腰间的佩剑。	而晴見狀也躍躍欲試，她竟直接抽出了腰間的佩劍。	私の言葉に鼓舞されたように、晴は腰に差していた剣を抜いた。	하루는 내 모습을 보고 의욕이 돋은 듯, 곧바로 허리춤의 검을 뽑아 들었다.	Seeing me move, Haru lit up. Without a second thought, she drew her sword.						0	3.3主线剧情
+168	要在这里吗？	要在這裡嗎？	え、ここで？	여기서 하려는 건가?	Here? Now?						0	3.3主线剧情
+169	我先是心头一跳，但看到她专注的眼神后，还是微笑着点了点头。	我先是心頭一跳，但看到她專注的眼神後，還是微笑著點點頭。	そう一瞬驚いたが、彼女の目を見ると、私は微笑みながらうなずいた。	나는 살짝 놀랐지만, 그녀의 진지한 눈빛을 보고 미소 지으며 고개를 끄덕였다.	I was a bit surprised at first. But when I saw the determination in her eyes, I smiled and gave a nod.						0	3.3主线剧情
+170	加油。	加油。	がんばって。	힘내요.	Good luck.						0	3.3主线剧情
+171	晴的目光锁定在一根断裂的石柱上。但随即，她又缓缓闭上了双眼。	晴的目光鎖定在一根斷裂的石柱上。但隨後，她又緩緩閉上了雙眼。	晴は折れた石柱に狙いを定めて、ゆっくりと目を閉じた。	하루의 시선이 부러진 돌기둥에 고정되었다. 그러나 곧 그녀는 천천히 눈을 감았다.	Haru's gaze shifted to a broken stone pillar nearby. Then — she closed her eyes.						0	3.3主线剧情
+172	周围的气息瞬间变得沉寂下来。	周圍的氣息瞬間變得沉寂下來。	周囲の空気が一瞬で静まり返った。	주변의 기운이 순식간에 고요해졌다.	The air around us stilled, heavy with tension.						0	3.3主线剧情
+173	然后——	然後——	そして――	그리고…	And then...						0	3.3主线剧情
+174	喝！	喝！	ハッ！	하앗!	HAAH!						0	3.3主线剧情
+175	随着一声厉呵，刀光闪过。	隨著一聲厲喝，刀光一閃。	彼女の覇気と共に、刀の光が閃いた。	날카로운 기합과 함께, 칼날의 빛이 번쩍였다.	With a sharp cry, her blade flashed through the air.						0	3.3主线剧情
+176	那一瞬，光芒仿佛将夜色都劈开，石柱应声而断。	那一瞬，光芒彷彿將夜色都劈開，石柱應聲而斷。	その光は夜空を切り裂いたように、石柱を一瞬で断ち切った。	그 순간 빛이 밤하늘을 가를 듯하더니, 그 소리와 함께 돌기둥이 끊어졌다.	For a heartbeat, it felt as if the night itself had been sliced apart. The stone pillar split in two with a ringing crack.						0	3.3主线剧情
+177	而断面，则如缸中之水般平滑……	而斷面，則如缸中之水般平滑……	柱の断面は水面のように滑らかだった。	마치 항아리 속 물처럼 매끄러운 단면이었다…	The exposed surfaces were smooth as glass.						0	3.3主线剧情
+178	原来如此。	原來如此。	なるほど。	그렇다.	Ahh... I see.						0	3.3主线剧情
+179	她刚刚那一剑，削去的并非是石柱，而是石柱所在的空间本身。	她剛剛那一劍，削去的並非是石柱，而是石柱所在的空間本身。	さっきの一斬りは柱ではなく、柱が存在する空間そのものを狙ったのか。	방금 그녀가 휘두른 검은 돌기둥이 아니라, 돌기둥이 있던 공간 자체를 베어낸 것이다.	What she'd sliced wasn't the stone... It was the very space it occupied.						0	3.3主线剧情
+180	那把曾经刺入过共振器的剑，此刻似乎也被赋予了类似的能力。	那把曾經刺入過共振器的劍，此刻似乎也被賦予了類似的能力。	解樹(かいじゅ)を刺して以来、その剣には似たような力が付与されたようだ。	한때 공진기에 꽂혔던 그 검이, 이제는 그와 비슷한 능력을 부여받은 것 같았다.	The sword that once pierced the resonator now seemed to hold a similar power.						0	3.3主线剧情
+181	那是，将包括空间在内的一切物质，震荡为纯粹信息态的能力……虽说并非是什么魔法，但的确，这是只有晴才能做到的事。	那是，將包括空間在內的一切物質，震盪為純粹資訊態的能力……雖然並不是什麼魔法，但的確，這是只有晴才能做到的事。	空間を含めたすべての物質を振動させ、純粋な情報体へ転換させる力……魔法と言うほどのものではないが、それを実現できるのは晴だけだ。	공간을 포함한 모든 물질을 순수한 이념 형태로 진동하는 능력이었다… 마법이라 할 순 없지만, 하루만이 할 수 있는 일이 확실했다.	A power that could unravel all things — even space itself — into raw Titagen. It wasn't exactly magic, but it was something only Haru could do.						0	3.3主线剧情
+182	漂亮！	漂亮！	すばらしい！	잘했어요!	A perfect strike.						0	3.3主线剧情
+183	原来如此……就是这种感觉！	原來如此……就是這種感覺！	なるほど……こういうことか！	그렇구나… 바로 이런 느낌이구나!	So this is what it feels like... I get it now!						0	3.3主线剧情
+184	谢谢你，分析员！	謝謝你，分析員！	ありがとう、分析員！	고마워, 분석가!	Thank you, Adjutant!						0	3.3主线剧情
+185	她拉着我的手腕，激动地欢呼着，像是一个刚得了一百分的小女孩一样。	她拉著我的手腕，激動地歡呼著，像是一個剛得了一百分的小女孩一樣。	彼女は私の手を取って、テストで満点を取れた少女のように、歓喜の声をあげた。	그녀는 내 손목을 잡고 들뜬 목소리로 환호했다. 마치 100점을 받은 소녀 같은 모습이었다.	She grabbed my wrist and bounced with joy — like a girl who'd just won her first gold star.						0	3.3主线剧情
+186	你看，又来了，刚刚挥出那一剑的人可不是我哦。	你看，又來了，剛剛揮出那一劍的人可不是我喔。	またそんなことを。さっき剣を振ったのは君だぞ。	이것 봐요, 또 그러네요. 방금 검을 휘두른 사람은 제가 아니라고요.	There you go again, Haru. The credit's all yours.						0	3.3主线剧情
+187	我捏了捏她的脸蛋。	我捏了捏她的臉蛋。	私は彼女の頬を軽くつまんだ。	나는 그녀의 볼을 꼬집었다.	I pinched her cheek.						0	3.3主线剧情
+188	唔哎——	唔——	ぐえっ……	으앗!	Mmph—!						0	3.3主线剧情
+189	她红扑扑的脸颊格外柔软，刚刚斩断空间的剑士此刻又变回了那个容易害羞的少女。	她紅紅的臉頰格外柔軟，剛剛斬斷空間的劍士此刻又變回了那個容易害羞的少女。	彼女の赤く染まった頬は柔らかった。空間を斬った剣士は一瞬で恥ずかしがり屋の少女に逆戻りした。	그녀의 발그레한 볼은 유난히 부드러웠고, 조금 전에 공간을 베어냈던 그 검사는 수줍음 많은 소녀로 다시 돌아왔다.	Her cheeks, flushed and warm, were soft beneath my fingers. The swordmaster who just split space itself was once again just a bashful girl.						0	3.3主线剧情
+190	我探出身子，看了看远方渐渐离去的人群，随后拿上了鲜花，伸手招呼道。	我探出身，看了看遠方漸漸離去的人群，隨後拿上了鮮花，伸手招呼道。	私は身を乗り出して、帰っていく人たちの様子を眺めると、花束を手に取って晴を呼んだ。	나는 몸을 앞으로 기울여 멀어져가는 군중을 바라보다가, 꽃을 집어 들고 손을 흔들며 말했다.	I leaned forward, watching the last of the civilians disappear into the distance. Then I picked up the bouquet and gave her a small wave.						0	3.3主线剧情
+191	好了，时候也不早了，最后一批市民已经撤离完毕，我们也去汉诺塔集合吧。	好了，時候也不早了，最後一批市民已經撤離完成，我們也去漢諾塔集合吧。	ほら、住民の避難もそろそろ終わるころだ。私たちもハノイの塔に向かおうか。	자, 시간도 늦었고 마지막 시민들도 모두 대피했으니, 이제 우리도 하노이 타워로 가서 집합해야겠어요.	It's getting late. The last group's cleared out. Let's regroup at the Tower of Hanoi.						0	3.3主线剧情
+192	……	……	……	……	...						0	3.3主线剧情
+193	红着脸的晴没有马上应答。	紅著臉的晴沒有馬上應答。	赤面したままの晴は黙っていた。	하루는 얼굴을 붉힌 채 바로 대답하지 않았다.	Haru didn't answer right away. Her face was still red.						0	3.3主线剧情
+194	然而，就在我的肩膀与少女擦身而过的瞬间——	然而，就在我的肩膀與少女擦身而過的瞬間——	しかし、彼女の横を通ったとき――	하지만, 내 어깨가 소녀와 스치는 순간…	But just as I began to walk back, and my shoulder brushed past hers...						0	3.3主线剧情
+195	衣角突然传来细微的拉扯感。	衣角突然傳來細微的拉扯感。	彼女に裾を引っ張られた。	옷자락이 살짝 당겨지는 느낌이 전해졌다.	I felt the faintest tug at the hem of my coat.						0	3.3主线剧情
+196	分析员，等等！	分析員，等等！	待ってくれ！	분석가, 잠시만!	Adjutant, wait...!						0	3.3主线剧情
+197	哦？还有什么事吗？	哦？還有什麼事嗎？	ん？まだなにか？	음? 또 무슨 일 있어요?	Hm? Anything else?						0	3.3主线剧情
+198	请先不要回头……	請先不要回頭……	まだ振り返らないで……	뒤돌아보지 말아 줘…	Please... don't turn around just yet.						0	3.3主线剧情
+199	晴？	晴？	晴？	하루?	Haru?						0	3.3主线剧情
+200	我会不好意思的……	我會不好意思的……	恥ずかしいから……	부끄러워질 것 같아서…	It's embarrassing...						0	3.3主线剧情
+201	……我明白了。	……我明白了。	……分かった。	… 알았어요.	...Understood.						0	3.3主线剧情
+202	随着云层渐渐移动，两人的影子也如少女的心思般慢慢晕染在这一片宁静的夜色中。	隨著雲層漸漸移動，兩人的影子也如少女的心思般慢慢暈染在這一片寧靜的夜色中。	雲がゆっくりと動き、ふたりの影も彼女の思いのように、静かな夜に溶け込んだ。	구름이 서서히 움직이고, 두 사람의 그림자도 소녀의 마음처럼 고요한 밤하늘 속으로 천천히 번져갔다.	Above us, clouds drifted slowly past the moon. Our shadows blended on the ground — soft and hazy, like the thoughts of a girl in love.						0	3.3主线剧情
+203	此刻，世间唯有两颗心跳动的声音。	此刻，世上唯有兩顆心跳動的聲音。	この瞬間、世界には2つの鼓動しか存在していなかった。	이 순간, 오직 두 사람의 심장 소리만이 이 세상에 울리고 있었다.	In that quiet stillness, the only sound left in the world... was the rhythm of two hearts.						0	3.3主线剧情
+204	而打破这一份寂静的，则是——	而打破這份寂靜的，則是——	そして、彼女は静けさを破った。	그러다가 이 고요를 깨트린 것은…	And then, a voice broke the silence.						0	3.3主线剧情
+205	你说，要我每次挥剑时，都要“让真正支撑我挥剑的理由，通过刀刃自然地流淌到前方”。	你說，要我每次揮劍時，都要「讓真正支撐我揮劍的理由，透過刀刃自然地流淌到前方」。	さっき、「剣を振り続ける本当の理由を、己の信念を刃に乗せ、迷いなく進め」と言っていたが。	네가 그랬지. 내가 검을 휘두를 때마다, "검을 휘두를 수 있도록 지탱하는 진정한 이유가, 칼날을 타고 앞으로 자연스럽게 흘러가게 하면 된다"라고.	You said... "Let the reason you swing your sword flow straight through it."						0	3.3主线剧情
+206	那个理由……	那個理由……	その理由なんだが……	그 이유는…	That very reason...						0	3.3主线剧情
+207	她纤白的手指攥紧我的衣角，整个人轻轻贴在我的后背上。	她纖白的手指緊抓著我的衣角，整個人輕輕貼在我的背後。	彼女は繊細な指で私の裾を握り締め、そっと私の背中に体をくっつけた。	그녀의 하얀 손가락이 내 옷자락을 꼭 쥐었고, 그녀의 몸은 살며시 내 등에 기대왔다.	Her pale fingers tightened around my coat, and she leaned gently into my back.						0	3.3主线剧情
+208	既不是为了他人，也不是为了自己。	既不是為了他人，也不是為了自己。	他人や、自分のためではなく。	다른 사람을 위해서도, 나 자신을 위해서도 아니야.	It was never for others. Not even for myself.						0	3.3主线剧情
+209	当然，更不是为了什么荣耀。	當然，更不是為了什麼榮耀。	もちろん、名誉のためでもない。	물론, 어떤 영광을 위해서는 더더욱 아니고.	And certainly not for honor.						0	3.3主线剧情
+210	我大概，只是为了守护一个绝不能失约的承诺……所以才坚持到现在的吧。	我大概，只是為了守護一個絕不能失約的承諾……所以才堅持到現在的吧。	たぶん、大事な約束を守るために……ここまで来たのだと思う。	아마도 난, 절대로 어겨서는 안 될 한 가지 약속을 지키기 위해서… 지금까지 버텨온 것 같아.	I think... I held on all this time for the sake of a promise — a promise I could never let myself break.						0	3.3主线剧情
+211	……总之约定好了，在我回来前，不许再写辞职信了哦。	……總之約定好了，在我回來之前，不准再寫辭職信了喔。	……とにかく、約束したからな。私が帰ってくるまで、退職願を出すのはナシだ。	… 그러니까 약속해요. 제가 돌아올 때까지, 사직서는 더 이상 쓰면 안 돼요?	...Anyway, promise me this: no more resignation letters until I'm back, alright?						0	3.3主线剧情
+212	月光下，长长地，长长地舒了一口气。	月光下，她深深地鬆了一口氣。	月明りのなかで、彼女の長い長いため息が聞こえてきた。	달빛 아래서, 그녀는 길게, 아주 길게 한숨을 내쉬었다.	Beneath the moonlight, she let out a slow, deep breath.						0	3.3主线剧情
+213	好似要将这五年来所有的情愫都汇聚成一口气，吐露而出。	像是要將這五年來的所有情愫都匯聚成一口氣，吐露而出。	まるで5年分の思いをすべて集約して、一気に吐き出そうとしているみたいだ。	마치 이 5년간의 모든 감정을 단번에 담아 토해내려는 듯.	As if releasing every emotion she'd held onto across five long years in a single breath.						0	3.3主线剧情
+214	然后，从这份承诺中，又孕育出了新的情感……	然後，從這份承諾中，又孕育出了新的情感……	そして、その約束から、新しい感情が芽生えてきたんだ……	그리고 이 약속으로부터, 새로운 감정이 피어났어…	And from that promise... a new emotion began to grow...						0	3.3主线剧情
+215	其实……这五年来的每一天每一刻，我都在深深地，深深地喜欢着你。	其實……這五年來的每一天每一刻，我都在深深地，深深地喜歡著你。	実は……この5年間、ずっとplayernameのことを考えていた。	사실 이 5년 동안… 모든 순간마다 널 깊이, 아주 깊이 사랑해 왔어.	Every day, every moment of these five years... I've loved you.						0	3.3主线剧情
+216	并不是作为下属的仰慕，而是，作为一个女孩子的，最纯粹的恋慕。	並不是作為下屬的仰慕，而是，作為一個女孩子的，最純粹的戀慕。	部下としてではなく、一人の女性としての純粋な恋心だ。	부하로서의 존경이 아닌, 한 소녀로서의 가장 순수한 연모였지.	Not the admiration of an operative for her superior, but the pure, unreserved love of a girl... for the man who captured her heart.						0	3.3主线剧情
+217	而这份恋慕，便是支撑起现在的我——	而這份戀慕，便是支撐起現在的我——	その恋心が、今の自分を支え——	그리고 그런 연모가 지금의 나를 지탱해 주고…	And that love...						0	3.3主线剧情
+218	继续挥剑的理由。	繼續揮劍的理由。	剣を振り続けている理由だ。	계속해서 검을 휘두르는 이유가 되었어.	Is what drives me to swing my sword.						0	3.3主线剧情
+219	……	……	……	……	...						0	3.3主线剧情
+220	我没有说话，只是缓缓转身。	我沒有說話，只是緩緩轉身。	私は何も言わず、ゆっくりと振り返った。	나는 대답하는 대신 천천히 몸을 돌렸다.	Without a word, I slowly turned to face her.						0	3.3主线剧情
+221	分析员？！	分析員？！	分析員！？	분석가?!	Adjutant...!?						0	3.3主线剧情
+b-1											0	3.3主线剧情
+222	亲吻面前的少女	親吻面前的少女	晴にキスをする	눈앞의 소녀에게 키스한다	Kiss Haru						0	3.3主线剧情
+223	唔……	嗯……	はぁ……	으음…	Nngh...						0	3.3主线剧情
+224	汉诺塔静静地屹立于夜色中，远处的灯火如此明亮。	漢諾塔靜靜地屹立在夜色中，遠處的燈火如此明亮。	ハノイの塔が静かに夜の中にそびえ立ち、遠くの灯りが明るく輝いている。	하노이 타워는 밤하늘 아래 조용히 서 있었고, 멀리서 환한 불빛을 밝혔다.	The Tower of Hanoi stood quiet in the night, its lights shining bright.						0	3.3主线剧情
+225	亮过了三年来停机坪上所有的灯光。	比過去三年來停機坪上所有的燈光都還要亮。	この三年間、駐機場を照らしたどの光よりも明るかった。	지난 3년간 탑승장의 모든 불빛보다도 더 밝았다.	Brighter than any light that ever touched the Helipad... in all the years she waited.						0	3.3主线剧情
+226	若干小时前	若干小時前	その頃。	몇 시간 전	A few hours earlier						0	3.3主线剧情
+227	罗赞……啊……原来如此，我的名字是罗赞啊。	羅贊……啊……原來如此，我的名字是羅贊啊。	ロザン……なるほど。私の名前はロザンというのか。	로잔… 아… 그렇구나, 내 이름이 로잔이었지.	Rozan... ah, so that is my name.						0	3.3主线剧情
+228	呵呵呵，估计那边的“我”也不会料到还有这一步吧。	呵呵呵，那邊的「我」大概也不會料到還有這一步吧。	ふふふ。そっちの「私」も、こんなことになるとは思わなかっただろう。	흐흐흐, 저쪽의 '나'도 여기까진 예상 못 했을 거야.	Heh. I doubt even the other "me" saw this coming.						0	3.3主线剧情
+229	毕竟，那可是无意间才设下的“伏兵”。	畢竟，那可是無意間才設下的「伏兵」。	なにしろ、偶然の産物だからね。	그건 무심결에 설치해 둔 '복병'이니까.	After all... I came into being like an ambush, born without intent.						0	3.3主线剧情
+230	分析员，你不会以为这盘棋只靠那些漂亮话就能赢吧？	分析員，你不會以為這盤棋只靠那些漂亮的話就能贏吧？	分析員。今回はきれいごとだけで、私に勝てると思っていないだろうな？	분석가, 설마 그런 멋들어진 말로 이 게임에서 이길 수 있다고 생각한 건 아니겠지?	Adjutant, you don't really think this game can be won with just empty rhetoric, do you?						0	3.3主线剧情
+231	不，早在你高谈阔论的时候，我就已经悄悄把恐惧种在了每个人的心里。	不，早在你高談闊論的時候，我就已經悄悄把恐懼種在了每個人的心裡。	実はお前がそんなことを言ってる間に、みんなの心に恐怖を植え付けたのさ。	아니, 네가 거창한 말을 늘어놓고 있을 때, 난 이미 모두의 마음속에 공포를 심어두었어.	No. While you were busy giving speeches, I had already sown seeds of fear in everyone's hearts.						0	3.3主线剧情
+232	就像是野兽本能地畏惧着火焰，恐惧才是让物种趋利避害，得以延续的唯一手段。	就像是野獸本能地畏懼著火焰，恐懼才是讓物種趨利避害，得以延續的唯一手段。	野獣が本能的に炎を恐れるように、恐怖こそが、生物を害から遠ざけ、種を繋ぎ、存続させる唯一の手段なのさ。	야수가 본능적으로 화염을 두려워하듯이, 공포야말로 생물이 이해득실을 따지며 생명을 이어 나가게 하는 유일한 수단이야.	Just as beasts instinctively fear fire, it is fear alone that drives life to survive, adapt, and endure.						0	3.3主线剧情

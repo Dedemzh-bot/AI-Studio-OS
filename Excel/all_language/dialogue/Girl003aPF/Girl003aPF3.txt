@@ -1,0 +1,124 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	如果一开始，就坚信自己能赢。	如果一開始，就堅信自己能贏。	――最初から、自分が勝つと信じている者は…	처음부터 자신의 승리를 굳게 믿는 사람.	If from the very beginning, one firmly believes they can win—						0	dlc27版本妮塔悸响个人剧情
+2	这样的人还算赌徒吗？	這樣的人還算賭徒嗎？	果たしてそれを「ギャンブラー」と呼ぶんだろうか？	그런 사람도 도박꾼이라고 할 수 있을까?	Can such a person truly be called a gambler?						0	dlc27版本妮塔悸响个人剧情
+3	在妮塔吐露所有后，我没有急着回应，只是递过一杯热水。	在妮塔吐露所有後，我沒有急著回應，只是遞過一杯熱水。	何も言わず、彼女に温かい飲み物を手渡す。	니타가 모든 것을 토로한 뒤, 나는 곧바로 대답하지 않고 따뜻한 물 한 잔을 건넸다.	After Nita revealed everything, I didn't rush to respond, simply handing her a cup of warm water.						0	dlc27版本妮塔悸响个人剧情
+4	她咕咚咕咚灌下去三分之二，热水的温暖让她的脸上总算有了些血色。	她咕嚕咕嚕灌下去三分之二，熱水的溫暖讓她的臉上總算有了點血色。	ニタはごくごく半分以上飲んだところで、やっと血色が戻った気がする。	그녀는 3분의 2 정도를 벌컥벌컥 마셨고, 따뜻한 물의 온기 덕분에 그녀의 얼굴에 혈색이 돌았다.	She gulped down two-thirds of it, the warmth finally bringing some color back to her pale face.						0	dlc27版本妮塔悸响个人剧情
+5	做完这些，我看向她，缓缓吐出话语。	做完這些，我看向她，緩緩吐出話語。	それから、意を決して口を開く。	그제야 나는 그녀를 바라보며 천천히 입을 열었다.	Afterward, I looked at her and slowly began to speak.						0	dlc27版本妮塔悸响个人剧情
+6	我见过很多赌徒，牌桌前、战场上。但不管在哪里，她们都有些共同的特点。	我看過很多賭徒，牌桌前、戰場上。但不管在哪裡，她們都有些共同的特點。	今までいろんな賭け事をする人を見てきた。カジノでも戦場でも、場所は違えど同じだ。	난 도박꾼을 많이 봤어. 도박판에서도, 전장에서도. 하지만 어디에서든, 그녀들은 같은 특징을 갖고 있었어.	I've seen many gamblers — at card tables, on battlefields. No matter where they are, they all share certain traits.						0	dlc27版本妮塔悸响个人剧情
+7	比如，即使她们已经掌握许多筹码，但在骰点揭晓前，她们的手在桌前永远颤抖不已。	比如，即使她們已經掌握許多籌碼，但在骰子點數揭曉前，她們的手在桌前永遠顫抖不已。	共通しているのは、勝ち確の手札を掴んでいても、サイコロが止まるまで手が震えてることだ。	이를테면 이미 많은 패를 쥐고 있는데도, 주사위 숫자가 공개되기 전까지 그들은 테이블 앞에서 계속 손을 떨었어.	For instance, however many chips they hold, their hands always tremble before the dice reveal their fate.						0	dlc27版本妮塔悸响个人剧情
+8	又比如，她们信仰运气。	又比如，她們信仰運氣。	それに運命を崇拝してる――	또 어떤 이들은 운을 신봉했어.	Also, luck is their faith.						0	dlc27版本妮塔悸响个人剧情
+9	我用了“信仰”这个词，因为幸运已经成了她们的神。信徒就该匍匐跪地，虔诚地祈求眷顾与赐福。	我用了「信仰」這個詞，因為幸運已經成了她們的神。信徒就該匍匐跪地，虔誠地祈求眷顧與賜福。	「信仰」って言ってもいい。幸運を神と仰ぎ、ひれ伏して祈りを捧げるんだ。	내가 '신봉'이라는 단어를 쓴 이유는, 행운이 이미 그들의 신이 됐기 때문이야. 신자들은 바닥에 엎드려 경건한 자세로 보살핌과 은총을 간구하지.	I use the word "faith" because luck becomes a god for them. True believers prostrate themselves, devoutly praying for favors.						0	dlc27版本妮塔悸响个人剧情
+10	但就在刚才……	但就在剛才……	でもさ…	하지만 방금…	But just now...						0	dlc27版本妮塔悸响个人剧情
+11	她们膜拜的神，在你心里还比不上一些拾荒技巧。	她們膜拜的神，在你心裡還比不上一些拾荒技巧。	さっきのニタは、神様より拾いのコツを選んだろ。	그들이 엎드려 절하는 그 신이 네 마음속에서는 폐품 줍기보다도 못했어.	That belief meant less to you than scavenging techniques.						0	dlc27版本妮塔悸响个人剧情
+12	还以为你会把好运水晶给她，是舍不得吗？	還以為你會把好運水晶給她，是捨不得嗎？	てっきりクリスタルを渡すかと思ったけど…惜しかったか？	네가 행운 수정을 주려는 줄 알았는데, 그러기엔 아까웠어?	I thought you'd give her the lucky crystal. Didn't want to part with it?						0	dlc27版本妮塔悸响个人剧情
+13	没有，没有舍不得。	沒有，沒有捨不得。	…ううん、惜しくはないよ。	아니, 아깝지는 않았어.	Nah, I wasn't being stingy.						0	dlc27版本妮塔悸响个人剧情
+14	我只是觉得，拾荒经验对她来说可能会更有用。	我只是覺得，拾荒經驗對她來說可能會更有用。	ただ、あの子には拾いのコツのほうが大事かなって思っただけ。	폐품 줍는 경험이 저 여자아이에게는 더 도움이 되겠다고 생각한 것뿐이야.	Just figured my street smarts might help her more.						0	dlc27版本妮塔悸响个人剧情
+15	这样的你，怎么会是个赌徒呢？	這樣的你，怎麼會是個賭徒呢？	そんなニタは、「運」なんかあてにしていない。	그런 네가 어떻게 도박꾼이겠어?	How could someone like that possibly be a gambler?						0	dlc27版本妮塔悸响个人剧情
+16	妮塔眼神茫然，意识似乎坠入了一个绚丽又混沌的异空间	妮塔眼神茫然，意識似乎墜入了一個絢麗又混沌的異空間。	ニタはぼんやり目を見開き、頭が混乱しているようだ。	니타는 아름답고 혼탁한 차원에 의식이 빠진 듯 멍한 눈빛이었다.	Nita's gaze grew vacant, her consciousness seemingly falling into a dazzling yet chaotic alternate reality.						0	dlc27版本妮塔悸响个人剧情
+17	咳咳……好痛……	咳咳…好痛……	苦しい…	콜록콜록… 아파…	*cough* Ugh, it hurts...						0	dlc27版本妮塔悸响个人剧情
+18	我……还活着？撑过了巴德尔抑制剂的不良反应？	我……還活著？撐過了巴德爾抑制劑的不良反應？	けど…生きてる？バルダー抑制剤に耐えきったのか？	나… 아직 살아 있어? 발드르 억제제의 부작용을 이겨낸 거야?	Am I... still alive? Did I survive the Baldr Inhibitors' side effects?						0	dlc27版本妮塔悸响个人剧情
+19	火焰席卷了回忆，妮塔又坠落到那个名为“卡戎海上平台”的战场。	火焰襲捲了回憶，妮塔又墜落到那個名為「卡戎海上平台」的戰場。	再び記憶の海を炎がよぎり、ニタはカローンの海上基地へ引き戻される。	화염이 기억을 휩쓸었고, 니타는 또다시 그 '카론 해상 기지'라는 이름의 전장으로 추락했다.	Flames consumed the memory, and Nita found herself back on that battlefield called Charon Sea Base.						0	dlc27版本妮塔悸响个人剧情
+20	她站在火海中央，呼吸急促如风，试图控制体内涌动的狂暴力量。	她站在火海中央，呼吸急促如風，試圖控制體內湧動的狂暴力量。	荒れ狂う火の海の真ん中で、なんとか制御しようともがいていた。	그녀는 불바다의 중앙에 서서 숨을 급히 몰아쉬며, 몸 안에서 용솟음치는 난폭한 힘을 통제하려고 했다.	She stood at the center of a sea of fire, breathing rapidly as the wind, struggling to control the raging power within her.						0	dlc27版本妮塔悸响个人剧情
+21	呼……呼……	呼……呼……	はぁ…はぁ…	후우… 후우…	*panting*						0	dlc27版本妮塔悸响个人剧情
+22	我控制住了火焰，没有失控……	我控制住了火焰，沒有失控……	暴走は…しなかった…	화염을 제어했어. 폭주하지 않았어…	I kept the flames in check. I didn't lose control...						0	dlc27版本妮塔悸响个人剧情
+23	我成功了……一次又一次。世界上没有赌徒能有这样完美的胜率。	我成功了……一次又一次。世界上沒有賭徒能有這樣完美的勝率。	何度も何度も、生き延びた。こんな「パーフェクト勝率」を叩き出すギャンブラーなんて、どこにもいないはずだよ。	성공했어… 한 번, 또 한 번. 이 세상에 이렇게 완벽한 승률을 가진 도박꾼은 없어.	I pulled it off... time after time. No gambler could have such a perfect win streak.						0	dlc27版本妮塔悸响个人剧情
+24	或许真的如分析员所说，幸运没有眷顾过我，我也从未信仰它。	或許真的如分析員所說，幸運沒有眷顧過我，我也從未信仰它。	もしかして本当に「運」なんて存在しなかったのかも。	어쩌면 정말 분석가가 말한 것처럼 행운이 내 곁에 있었던 적도 없고, 나도 행운을 신봉한 적이 없었던 거야.	Maybe the Adjutant's right — luck never favored me, and I never really believed in it.						0	dlc27版本妮塔悸响个人剧情
+25	那么支撑我走到现在的……到底是什么呢？	那麼支撐我走到現在的……到底是什麼呢？	じゃあ私を支えてるのは…何だろう？	그럼 지금까지 날 지탱해 온 건… 대체 뭐였을까?	Then what... has been keeping me going all this time?						0	dlc27版本妮塔悸响个人剧情
+26	意识在迷幻多彩的海中漂流，妮塔无法找到边际，只能任由思绪自由游荡。	意識在迷幻多彩的海中漂流，妮塔無法找到邊際，只能任由思緒自由遊蕩。	意識が幻想的な深海に溶け込み、思考は漂い続ける。	의식이 몽환의 바다에서 떠다녔고, 끝을 찾을 수가 없던 니타는 생각이 자유롭게 떠돌도록 내버려둘 수밖에 없었다.	Her consciousness drifted in a psychedelic, colorful sea. Nita couldn't find its edge, letting her thoughts wander freely.						0	dlc27版本妮塔悸响个人剧情
+27	即使身处最深重的黑暗，也能找到前行方向的本能。	即使身處最深重的黑暗，也能找到前行方向的本能。	どんな深い闇でも道を探す勘。	아무리 깊은 어둠에 있더라도 앞으로 나아갈 방향을 찾는 본능.	The instinct to find your way forward even in the darkest places.						0	dlc27版本妮塔悸响个人剧情
+28	被迷雾蒙蔽，仍能看清光亮的敏锐。	被迷霧蒙蔽，仍能敏銳地看清光亮。	濃い霧に覆われても光を感じ取る鋭さ。	안개에 가려져도 빛을 분명히 볼 수 있는 예리함.	The sharpness to see the light, even when blinded by fog.						0	dlc27版本妮塔悸响个人剧情
+29	还有面对无数次挫折后，能毫不犹豫继续前进的勇气。	還有面對無數次挫折後，能毫不猶豫繼續前進的勇氣。	何度くじけても前へ進む勇気。	그리고 수많은 좌절을 겪은 후에도 망설임 없이 계속해서 앞으로 나아갈 용기.	And the courage to keep going without hesitation after countless setbacks.						0	dlc27版本妮塔悸响个人剧情
+30	带你一次又一次走出绝境，就是你自己。	帶你一次又一次走出絕境，就是你自己。	君をここまで導いてきたのは、君自身だ。	한 번, 또 한 번 너를 궁지에서 데리고 나온 건 바로 너 자신이야.	What kept pulling you through desperate situations was yourself.						0	dlc27版本妮塔悸响个人剧情
+31	妮塔，你注定会漂亮地赢下所有。	妮塔，你注定會漂亮地贏下所有。	…ニタ、君なら必ず全部を勝ち取れるはずだ。	니타, 넌 모든 것을 완벽하게 이겨낼 운명이야.	Nita, you're destined to win every time.						0	dlc27版本妮塔悸响个人剧情
+32	话语余音在空气中缓缓消散，妮塔闭上了眼睛，感受内心深处一直存在的力量。	話語餘音在空氣中緩緩消散，妮塔閉上了眼睛，感受內心深處一直存在的力量。	声の残響が遠のく中、ニタは静かに目を閉じ、自分の内にずっと宿っていた力を確かめる。	말소리의 메아리가 공기 중에서 천천히 흩어졌고, 니타는 눈을 감고 마음속 깊은 곳에 항상 존재하는 힘을 느꼈다.	As the words slowly dissolved in the air, Nita closed her eyes, feeling the power that had always existed deep within her.						0	dlc27版本妮塔悸响个人剧情
+33	嗒——嗒——嗒。	答——答——答。	タッ——タッ——タッ。	탁… 탁… 탁.	Tak — tak — tak.						0	dlc27版本妮塔悸响个人剧情
+34	骰子的每一次翻滚，她都不曾逃避。	骰子的每一次翻滾，她都不曾逃避。	サイコロが転がる音から、彼女は一度だって逃げたことはない。	주사위가 구를 때마다, 그녀는 한 번도 도피한 적이 없었다.	With every roll of the dice, she never backed down from challenges.						0	dlc27版本妮塔悸响个人剧情
+35	那个坐在红丝绒椅上的少女……	那個坐在紅絲絨椅上的少女……	あの真っ赤なビロード椅子に腰かけた少女――	레드벨벳 의자에 앉아 있는 저 소녀…	The girl sitting in the red velvet chair...						0	dlc27版本妮塔悸响个人剧情
+36	她的心跳，坚定而无法动摇。	她的心跳，堅定而無法動搖。	その鼓動は揺るぎなく、ただ力強く鳴っている。	그녀의 심장 박동은 확고하고 흔들림이 없었다.	Her heartbeat, steady and unwavering.						0	dlc27版本妮塔悸响个人剧情
+37	分析员……我想重新进行适应性测试，可以吗？	分析員……我想重新進行適應性測試，可以嗎？	分析員…もう一度、適合テストさせて。	분석가… 나 적응력 테스트를 다시 받고 싶어. 가능할까?	Adjutant... I want to do the adaptive training test again, is that okay?						0	dlc27版本妮塔悸响个人剧情
+38	当然可以。	當然可以。	あぁ。	물론이지.	Of course.						0	dlc27版本妮塔悸响个人剧情
+39	随着我在屏幕上完成最后一道指令，拟境瞬间在妮塔周围铺展开来。	隨著我在螢幕上完成最後一道指令，擬境瞬間在妮塔周圍鋪展開來。	端末に最後のコマンドを入力すると、ニタの周囲に再び模擬空間が展開される。	내가 화면에서 마지막 명령을 끝내자, 순식간에 니타 주위에 시뮬레이션 환경이 펼쳐졌다.	As I entered the final command on the screen, the virtual environment instantly materialized around Nita.						0	dlc27版本妮塔悸响个人剧情
+40	火焰再次在她身边翻腾，但这一次，它们更加自由不羁，而“悸响”的性能读数也不断攀升。	火焰再次在她身邊翻騰，但這一次，它們更加自由不羈，而「悸響」的性能讀數也不斷攀升。	――今度の炎は前よりのびのびと踊り、「ドゥンドゥビ」の数値もぐんぐん伸びる。	화염이 다시 한번 그녀의 주변에서 이글거렸고, 이번에는 더욱 세차게 타올랐다. '펄스'의 성능 수치도 계속 높아졌다.	Flames swirled around her again, but this time more unrestrained, and the Pulse performance reading continued to climb.						0	dlc27版本妮塔悸响个人剧情
+41	紫色的能量将周围的尘埃震开，继而化作汹涌的潮汐向外扩张。	紫色的能量將周圍的塵埃震開，繼而化作洶湧的潮汐向外擴張。	紫色のオーラが塵を吹き飛ばし、波のように広がっていく。	보라색 에너지가 주변의 먼지를 진동해 퍼뜨렸고, 뒤이어 용솟음치는 파도처럼 더욱 확장했다.	Purple energy pushed away the surrounding dust, then transformed into an expanding, surging tide.						0	dlc27版本妮塔悸响个人剧情
+42	而在这幽焰跃动的中心，妮塔发现了一个若隐若现的、微小而明亮的光点。	而在這幽焰躍動的中心，妮塔發現了一個若隱若現、微小而明亮的光點。	そこに、小さく揺れる光の粒が見えた――	이글거리는 어두운 화염의 중심에서, 니타는 보일 듯 말 듯한, 조그마하면서도 밝은 빛을 발견했다.	And in the center of the flickering flames, Nita discovered a faint, tiny yet brilliantly bright point of light.						0	dlc27版本妮塔悸响个人剧情
+43	像大火中孤儿院唯一的出口、又像是即将越过边境线升起的晨曦。	像大火中孤兒院唯一的出口，又像是即將越過天際線升起的晨曦。	かつて孤児院が燃える中、唯一見えた出口のような…国境を越えた先に昇る朝日のような。	그것은 불에 휩싸인 보육원의 유일한 출구 같기도, 곧 국경선을 넘어 떠오를 아침 햇살 같기도 했다.	Like the only escape route from the burning orphanage, or the first hint of dawn as one crosses the border.						0	dlc27版本妮塔悸响个人剧情
+44	分析员，谢谢你让我看清自己。	分析員，謝謝你讓我看清自己。	分析員…私、やっと自分が見えてきたよ。	분석가, 나 자신을 제대로 보게 해줘서 고마워.	Adjutant, thank you for helping me find myself.						0	dlc27版本妮塔悸响个人剧情
+45	妮塔伸出手，将那个光点，本就属于她的所有，牢牢握在掌心。	妮塔伸出手，將那個光點，本就屬於她的所有，牢牢握在掌心。	ニタはその光を手に収めるようにぎゅっと握る。	니타는 손을 뻗어 그 빛을, 원래 그녀에게 속했던 모든 것을 단단히 손에 쥐었다.	Nita extended her hand, firmly grasping the point of light that had always belonged to her.						0	dlc27版本妮塔悸响个人剧情
+46	我专注地盯着监控屏幕上的实时数据，不知不觉间，嘴角已挂上了欣慰的笑容。	我專注地看著監控螢幕上的即時數據，不知不覺間，嘴角已掛上了欣慰的笑容。	モニター越しにその数値の上昇を見守っていた私の口元は、いつのまにか笑みがこぼれていた。	나는 CCTV 화면 속 실시간 데이터를 집중해 관찰했고, 어느새 입가에 기분 좋은 웃음이 걸려 있었다.	I intently focused on the data displayed on the monitoring screen, a satisfied smile forming on my lips.						0	dlc27版本妮塔悸响个人剧情
+47	再次通过适应性测试后，妮塔像颗迸发着能量的流星，直直地撞入我的怀中。	再次通過適應性測試後，妮塔像顆散發著能量的流星，直直地撞入我的懷中。	テストを再び突破すると、ニタはエネルギーが迸る流星のように私の胸へ飛び込んできた。	적응력 테스트를 다시 통과하자, 니타는 에너지를 뿜어내는 유성처럼 곧바로 내 품속으로 파고들었다.	After passing the adaptive training test again, Nita, like a bursting meteor, crashed straight into my arms.						0	dlc27版本妮塔悸响个人剧情
+48	分析员，我已经完全驾驭“悸响”了！	分析員，我已經完全駕馭「悸響」了！	分析員っ！「ドゥンドゥビ」、もう完全に使いこなせるよ！	분석가, 나 이제 '펄스'를 완벽하게 제어할 수 있어!	Adjutant, I got total control over my Pulse now!						0	dlc27版本妮塔悸响个人剧情
+49	做得好。	做得好。	よくやったな。	잘했어.	Well done.						0	dlc27版本妮塔悸响个人剧情
+50	咚、咚、咚——！	咚、咚、咚——！	ドン、ドン、ドン――	두근, 두근, 두근!	Thump, thump, thump—!						0	dlc27版本妮塔悸响个人剧情
+51	嗯？	嗯？	ん？何の音…？	응?	Hmm?						0	dlc27版本妮塔悸响个人剧情
+52	突然，妮塔抬起头，眨了眨眼，惊喜的表情浮现在她脸上。	突然，妮塔抬起頭，眨了眨眼，驚喜的表情浮現在她臉上。	ニタはふと耳をすまして、目を輝かせる。	니타는 갑자기 고개를 들고 눈을 깜빡였다. 기쁜 표정이 얼굴에 나타났다.	Suddenly, Nita lifted her head, blinked, and a surprised expression washed over her face.						0	dlc27版本妮塔悸响个人剧情
+53	怎么了？	怎麼了？	どうした？	왜 그래?	What's wrong?						0	dlc27版本妮塔悸响个人剧情
+54	她贴近我的胸口，静静地聆听着，像在确定些什么。	她貼近我的胸口，靜靜地聆聽著，像在確定些什麼。	私の胸元に頬を寄せて、何かを確認しているようだ。	그녀는 나의 가슴에 가까이 붙더니 무언가를 확인하려는 듯 가만히 소리를 들었다.	She leaned close to my chest, listening quietly, as if confirming something.						0	dlc27版本妮塔悸响个人剧情
+55	分析员，我好像可以听见你的心跳声，很清晰！	分析員，我好像可以聽見你的心跳聲，很清晰！	分析員の鼓動がすごくはっきり聞こえる…	분석가, 네 심장 소리가 들리는 것 같아. 엄청 또렷해!	Adjutant, I think I can hear your heartbeat, real clear!						0	dlc27版本妮塔悸响个人剧情
+56	这难道是彻底掌控“悸响”后，觉醒的新能力？	這難道是徹底掌控「悸響」後，覺醒的新能力？	そうか…「ドゥンドゥビ」を完全制御したあとの新しい力なのかな？	설마 '펄스'를 완벽히 제어한 후 각성한 새로운 능력인가?	Could this be a new ability you've awakened with control over your Pulse?						0	dlc27版本妮塔悸响个人剧情
+57	妮塔带着笑意，再度贴近并环抱住我，一边聆听我的心跳，一边吸着我身上的气息，仿佛要把这一刻永远铭记。	妮塔帶著笑意，再度貼近並環抱住我，一邊聆聽我的心跳，一邊吸著我身上的氣息，彷彿要把這一刻永遠銘記。	さらに体を寄せ、私の鼓動を丁寧にすくい取るように耳を澄ますニタ。まるでこの一瞬を永遠に刻みつけようとしているかのように。	니타는 미소를 띤 채 다시 한번 가까이 붙어 나를 안았고, 내 심장 소리를 들으며 나의 체취를 들이마셨다. 이 순간을 영원히 기억하려는 것 같았다.	Nita, smiling, pressed close and embraced me again, listening to my heart while inhaling my scent, as if trying to permanently engrave this moment in her memory.						0	dlc27版本妮塔悸响个人剧情
+58	分析员的心跳声……	分析員的心跳聲……	分析員の鼓動…	분석가의 심장 박동 소리…	Your heartbeat...						0	dlc27版本妮塔悸响个人剧情
+59	真是怎么都听不够呢。	真的是怎麼都聽不夠呢~	このままずっと、離れたくないな。	아무리 들어도 질리지 않아.	I just can't get enough of it.						0	dlc27版本妮塔悸响个人剧情
+60	一时间，训练室内弥漫着温暖而静谧的氛围。	一時間，訓練室內瀰漫著溫暖而靜謐的氣氛。	温かい空気が訓練室を包み…	순간, 훈련실 안에 따뜻하면서 조용한 분위기가 감돌았다.	For a moment, a warm and peaceful atmosphere filled the training room.						0	dlc27版本妮塔悸响个人剧情
+61	地上水晶的碎末被微风扬起，为这个时刻增添了几分梦幻的色彩。	地上水晶的碎片被微風揚起，為這個時刻增添了幾分夢幻的色彩。	床に散らばるクリスタルの粉末が、かすかな風で舞い上がり、この光景を一層夢のように彩った。	바닥의 수정 가루가 미풍에 휘날렸고, 지금 이 순간에 몽환적인 분위기를 더해주었다.	Crystal shards on the ground lifted in a gentle breeze, adding a dreamlike quality to this moment.						0	dlc27版本妮塔悸响个人剧情
+62	虽然这块好运水晶没能在测试中帮上妮塔，但很难证明它和盲盒里的大礼没有关系。	雖然這塊好運水晶沒能在測試中幫到妮塔，但很難證明它和盲盒裡的大禮沒有關係。	結局、「ラッキークリスタル」はテストでの力にはならなかったかもしれないけど、ブラインドボックスで大当たりを引き当てたのは事実――絶対に関係ないとも言えないだろう。	이 행운 수정이 테스트에서 니타를 도와주지 않았지만, 랜덤 박스의 선물과 관련이 없는 건 아니었다.	Although this lucky crystal didn't help Nita during the test, it's hard to prove it had nothing to do with the grand prize in the blind bag.						0	dlc27版本妮塔悸响个人剧情
+63	按照妮塔最初的计划，那瓶香水会很快在网上售出，让她美美赚上一笔。	按照妮塔最初的計畫，那瓶香水會很快在網路上售出，讓她穩穩賺上一筆。	ニタはその香水をネットに出品して、一儲けするつもりだったけど…	니타가 처음 계획했던 대로 그 향수는 인터넷에서 금방 판매되었고, 그녀에게 꽤 큰 돈을 가져다주었다.	According to Nita's original plan, she would sell the luxury perfume online for a tidy profit.						0	dlc27版本妮塔悸响个人剧情
+64	但几天后，她却垂头丧气地出现在我面前。	但幾天後，她卻垂頭喪氣地出現在我面前。	数日後、しょんぼりした顔で私のところにやってきた。	하지만 며칠 후, 그녀는 의기소침해져서 내 앞에 나타났다.	But a few days later, she appeared before me, utterly crestfallen.						0	dlc27版本妮塔悸响个人剧情
+65	分析员~气死我了！	分析員~氣死我了啦！	クソが！むかつくよ！	분석가~ 열 받아 죽겠어!	Adjutant~ I'm so freaking mad!						0	dlc27版本妮塔悸响个人剧情
+66	她满脸愁容地坐到我对面，又因为实在郁闷，端过我没加糖的咖啡一口闷下。	她滿臉愁容地坐到我對面，又因為真的太鬱悶了，端過我沒加糖的咖啡一口喝下。	相当イライラしているのか、疲れた顔で向かいに腰かけると、砂糖の入っていない私のコーヒーを一気飲みしてしまう。	그녀는 수심이 가득한 얼굴로 내 맞은편에 앉았다. 얼마나 답답했는지 설탕도 넣지 않은 내 커피를 벌컥 마셨다.	She sat across from me with a troubled face and, out of frustration, grabbed my black coffee and downed it in one gulp.						0	dlc27版本妮塔悸响个人剧情
+67	嗯？我还等你赚了钱请我好好吃一顿，怎么就气成这样了？	嗯？我還在等你賺了錢請我好好吃一頓，怎麼就氣成這樣了？	一体どうした？てっきり金が入るからご馳走してくれると思ってたんだけど。	응? 돈 벌어서 나한테 밥 한 끼 대접해 줄 줄 알았는데, 왜 화가 났어?	Why? I was looking forward to a nice meal after you make some money. What's got you so upset?						0	dlc27版本妮塔悸响个人剧情
+68	唉，这件事说来很复杂。	唉，這件事說來很複雜。	それが、話せば長いんだよ…	아, 설명하기에 좀 복잡해.	*sigh* It's complicated.						0	dlc27版本妮塔悸响个人剧情
+69	那就慢慢说，说清楚。	那就慢慢說，說清楚。	ゆっくり話せばいい。しっかり聞くさ。	그럼 천천히 잘 얘기해 봐.	Take your time. I'm not going anywhere.						0	dlc27版本妮塔悸响个人剧情
+70	我没用过啥好东西，不知道香水没了外面的包装盒，就会大大贬值！	我沒用過什麼好東西，不知道香水沒了外面的包裝盒，就會大大貶值！	実はさ、箱がない香水って値が下がるんだって。	내가 좋은 물건을 써본 적이 없잖아. 향수 포장 상자가 없다고 값이 그렇게 깎일 줄은 몰랐어!	I've never owned anything fancy before, so I didn't know that perfume loses tons of value without its original box!						0	dlc27版本妮塔悸响个人剧情
+71	按照现在的价格出售，连盲盒的本都回不来。	按照現在的價格出售，連盲盒的本都回不來。	このままだと元も取れないよ！	지금 가격에 팔면 랜덤 박스 본전만큼도 못 받아.	At the price it's going for now, I can't even make back what I spent on the blind bag!						0	dlc27版本妮塔悸响个人剧情
+72	她趴在桌上，脸颊贴着冰冷的桌面，发出一连串哀怨的叹息。	她趴在桌上，臉頰貼著冰冷的桌面，發出一連串哀怨的嘆息。	うなだれてテーブルに突っ伏し、ため息を連発している。	그녀는 탁자에 엎드린 채 차가운 표면 위에 볼을 붙이고 연이어 불만을 터뜨렸다.	She collapsed onto the table, pressing her cheek against the cold surface while letting out a series of mournful sighs.						0	dlc27版本妮塔悸响个人剧情
+73	原来是为了这个事情。	原來是為了這個事情。	なるほどな。だからそんなにイライラしてるのか。	그거 때문이었구나.	So that's the issue.						0	dlc27版本妮塔悸响个人剧情
+74	嗯？分析员怎么一点都不吃惊，难道你早就知道没有礼盒，香水卖不出好价钱？	嗯？分析員怎麼一點都不驚訝，難道你早就知道沒有禮盒，香水賣不出好價錢？	あれ？分析員、知ってた？	응? 분석가는 왜 전혀 안 놀라? 설마 상자가 없으면 향수를 비싸게 못 파는 걸 미리 알았던 거야?	Huh? Why aren't you surprised? Did you already know perfume can't fetch a good price without its box?						0	dlc27版本妮塔悸响个人剧情
+75	算是听说过。	算是聽說過。	まぁ聞いたことはある。	들어본 적은 있지.	I've heard about it.						0	dlc27版本妮塔悸响个人剧情
+76	诶？那分析员不早点告诉我！	欸？那分析員不早點告訴我！	だったらもっと早く教えてよ！	어? 그럼 왜 진작 말 안 했어!	Eh? Then why didn't you tell me!?						0	dlc27版本妮塔悸响个人剧情
+77	就算我早点告诉你，你也会把盒子给那孩子的，不是吗？	就算我早點告訴你，你也會把盒子給那個孩子的，不是嗎？	聞いたとしても、ニタはあの子に箱を渡してただろ？結局変わらなかったんじゃないか？	미리 알려줬어도 결국 상자를 그 아이한테 줬을 테니까. 안 그래?	Even if I had told you, you would have still given the box to that child, wouldn't you?						0	dlc27版本妮塔悸响个人剧情
+78	妮塔想了想，也只能无奈地点点头。	妮塔想了想，也只能無奈地點點頭。	ニタはしばらく考え込んでから、うなずいた。	니타는 잠시 생각하더니 어쩔 수 없다는 듯 고개를 끄덕였다.	Nita thought for a moment and gave a reluctant nod.						0	dlc27版本妮塔悸响个人剧情
+79	与其低价卖掉，妮塔干嘛不考虑自己留着用？	與其低價賣掉，妮塔幹嘛不考慮自己留著用？	そもそも、自分で使ったらどうだ？	낮은 가격에 팔 바에는 차라리 니타가 쓰는 건 어때?	Instead of selling it at a low price, why not keep it for yourself?						0	dlc27版本妮塔悸响个人剧情
+80	诶？自……自己用？我……不太会用这种玩意儿。	欸？自……自己用？我……不太會用這種東西。	じ、自分で？いや…あんまりそういうの慣れなくて…	어? 내… 내가 써? 난… 이런 건 잘 못 쓰는데.	What? F—For myself? I... don't really know how to use this kind of thing.						0	dlc27版本妮塔悸响个人剧情
+81	她的反应出乎意料地羞涩，声音骤然变小，脸颊泛起淡淡的粉红色。	她的反應出乎意料地害羞，聲音驟然變小，臉頰泛起淡淡的粉紅色。	声が急に小さくなり、頬をほんのり染めるニタは珍しく照れた様子。	그녀는 예상치 못했다는 듯 부끄러워했다. 갑자기 목소리가 작아지고 볼이 연분홍빛으로 물들었다.	Her reaction was unexpectedly shy, voice suddenly softening, cheeks flushing a light pink.						0	dlc27版本妮塔悸响个人剧情
+82	可是，我很期待见到妮塔展现出女人味儿的那一面哦。	可是，我很期待看到妮塔展現出女人味的那一面哦~	でも、それを身につけたときのニタを想像すると、ちょっと楽しみだけどな。	하지만 난 니타의 여성스러운 모습이 기대되는걸.	But I'm looking forward to seeing you as a delicate, aromatic enchantress.						0	dlc27版本妮塔悸响个人剧情
+83	我故意压低声音，让语调带上一丝逗弄的意味，仔细打量着她慌乱的模样。	我故意壓低聲音，讓語調帶著一絲逗弄的意味，仔細打量著她慌亂的模樣。	からかうように声を低めてみると、ニタはさらに落ち着かなくなる。	나는 일부러 목소리를 낮추고 장난스럽게 말하며 그녀가 당황하는 모습을 자세히 관찰했다.	I deliberately lowered my voice, teasing while carefully observing her flustered appearance.						0	dlc27版本妮塔悸响个人剧情
+84	那，分析员可以教我怎么用吗？	那，分析員可以教我怎麼用嗎？	じゃ…じゃあ…分析員がつけ方、教えて…	그럼, 분석가가 어떻게 쓰는지 알려줄래?	Then... can you help teach me how to use it?						0	dlc27版本妮塔悸响个人剧情
+85	去你房间吧，我一步步教你。	去你房間吧，我一步步教你。	いいぞ。ニタの部屋でじっくりやろうか。	네 방으로 가자. 내가 천천히 알려줄게.	Let's go to your room. I'll guide you step by step.						0	dlc27版本妮塔悸响个人剧情
+86	来到妮塔房间后，她小心翼翼地取出了那瓶香水。阳光透过，在液体表面落下些奇妙的光影。	來到妮塔房間後，她小心翼翼地拿出了那瓶香水。陽光透過，在液體表面落下了奇妙的光影。	ニタの部屋に移動して、彼女はそっと香水を取り出す。光を受けて、瓶の中身がふわりと揺らぐ。	니타의 방에 도착한 후, 그녀는 조심스럽게 그 향수를 꺼냈다. 햇볕이 투과하며 액체 표면에 기묘한 그림자가 드리워졌다.	After arriving at Nita's room, she carefully took out the perfume. Sunlight streamed through it, casting curious light patterns across the liquid's surface.						0	dlc27版本妮塔悸响个人剧情
+87	整个瓶身没有任何标签，只在底部刻着一枚几乎难以察觉的签名，证明了它的独特价值。	整個瓶身沒有任何標籤，只在底部刻著一枚幾乎難以察覺的簽名，證明了它的獨特價值。	瓶には何のラベルもなく、底面にかすかなサインが彫られているだけ。特別調合の証らしい。	병에는 아무 라벨도 없었고, 거의 눈에 띄지 않는 서명이 아래쪽에 각인되어 이 향수만의 가치를 증명할 뿐이었다.	The bottle bore no labels, only a barely noticeable signature engraved at the bottom, confirming its unique value.						0	dlc27版本妮塔悸响个人剧情
+88	接过香水时，我们的手指轻轻相触，那一刻似乎有一股微小的电流从指尖蔓延开来。	接過香水時，我們的手指輕輕相觸，那一刻似乎有一股微小的電流從指尖蔓延開來。	手渡される瞬間、ニタの指と触れ合って、ちょっとした電流が走るようなドキリがあった。	향수를 건넬 때 우리의 손가락이 가볍게 스쳤고, 그 순간 미묘한 전류가 손끝에서 퍼지는 것 같았다.	As I took the bottle, our fingers touched, and it felt like a small current spread from our fingertips.						0	dlc27版本妮塔悸响个人剧情
+89	我示意她坐在床边，自己则在她身旁坐下。	我示意她坐在床邊，自己則在她身旁坐下。	ベッドに腰かけるよう彼女に促し、その隣に座る。	나는 그녀에게 침대 끝에 앉으라고 손짓했고, 나는 그녀의 옆에 앉았다.	I gestured for her to sit on the bed, then sat down beside her.						0	dlc27版本妮塔悸响个人剧情
+90	留香的话，可以先考虑手腕。	留香的話，可以先考慮手腕。	まずは手首につけるといい。ここは香りが立ちやすいからな。	향이 오래가려면 손목에 뿌리는 게 좋을 거야.	For fragrance, let's start with the wrist.						0	dlc27版本妮塔悸响个人剧情
+91	只在那片柔软的皮肤上喷洒了一点，冰柠混合花香的气息就开始缓缓释放，从最初的浓郁逐渐变得柔和而持久。	只在那片柔軟的皮膚上噴灑了一點，冰檸混合花香的氣味就開始慢慢釋放，從最初的濃郁逐漸變得柔和而持久。	手首の内側にひと吹きすると、柑橘とフローラルが混ざった香りがしっとり広がり始め、次第に柔らかく落ち着いた残り香へ変わる。	부드러운 피부에 향수를 살짝 뿌리자, 레몬 향이 섞인 꽃향기가 서서히 퍼졌고, 처음의 짙었던 향이 점차 부드럽게 변해 오래 지속되었다.	With just a spray on that soft skin, the scent of icy lemon mixed with floral notes began to slowly release, turning from initial richness to a soft and lingering fragrance.						0	dlc27版本妮塔悸响个人剧情
+92	真好闻，原来香水就是这么用的？	真好聞，原來香水就是這樣用的？	うわ…いい匂い…香水って、こういう感じなんだね…	냄새 좋다. 향수는 이렇게 쓰는 거구나?	That's a nice smell. So this is how perfume's supposed to work?						0	dlc27版本妮塔悸响个人剧情
+93	不完全是，香水喷洒在不同的部位，就会结合出不同的气味。	也不完全是，香水噴灑在不同的部位，就會結合出不同的氣味。	いや、つける所によって香り立ちも変わるさ。	꼭 그런 건 아냐. 향수는 뿌리는 부위에 따라서 다른 향이 만들어져.	Not entirely. Perfume on different parts of the body creates unique scents.						0	dlc27版本妮塔悸响个人剧情
+94	接下来，我们试试耳后如何？	接下來，我們試試耳後如何？	次は耳の後ろを試すぞ。	이제 귀 뒤에 뿌려볼까?	Next, should we try behind the ear?						0	dlc27版本妮塔悸响个人剧情
+95	手指轻轻拂过她的头发，我在她耳后那片敏感区域轻轻涂抹。	手指輕輕拂過她的頭髮，我在她耳後那片敏感區域輕輕塗抹。	彼女の髪をそっとかき上げ、うなじ近くへ香りを乗せる。	나는 손끝으로 그녀의 머리카락을 살짝 스쳤고, 그녀의 귀 뒤 민감한 부위에 가볍게 발랐다.	My fingers lightly brushed past her hair as I gently applied the fragrance to that sensitive area behind her ear.						0	dlc27版本妮塔悸响个人剧情
+96	我能感受到她因我的靠近而屏住呼吸，耳垂也因为紧张染上了明艳的血红色。	我能感受到她因我的靠近而摒住呼吸，耳垂也因為緊張染上了明豔的血紅色。	ニタははっと息を呑み、耳たぶが赤く染まっていく。	바싹 다가온 나 때문인지, 그녀가 숨을 참는 모습이 보였다. 귓불도 긴장해서 새빨갛게 물들었다.	I could feel her holding her breath at my proximity, her earlobe turning a vivid crimson from nervousness.						0	dlc27版本妮塔悸响个人剧情
+b-1											0	dlc27版本妮塔悸响个人剧情
+97	咬住耳垂	咬住耳垂	そっと耳たぶに歯を立てる	귓불을 깨문다	Bite her earlobe						0	dlc27版本妮塔悸响个人剧情
+98	分析员……	分析員……	分析員…	분석가…	Adjutant...						0	dlc27版本妮塔悸响个人剧情
+99	怎么了？	怎麼了？	どうした？	왜 그래?	What's wrong?						0	dlc27版本妮塔悸响个人剧情
+100	你这是在……品鉴香气吗？	你這是在……品鑑香氣嗎？	そ、それ…香りを確かめてるの…？	지금… 향기를 맡는 거야?	Are you... checking out the smell?						0	dlc27版本妮塔悸响个人剧情
+101	对，凑近点，才能更好地识别出调香所用的材料。	對，靠近點，才能更好地識別出調香所用的材料。	そうさ。近づかないと、調香のニュアンスが把握しづらい。	맞아. 가까이 다가가야 조향에 사용된 재료를 더 잘 느낄 수 있거든.	Yes, getting closer helps better identify the ingredients used.						0	dlc27版本妮塔悸响个人剧情
+102	接下来是……	接下來是……	じゃあ次は…	다음은…	Next is...						0	dlc27版本妮塔悸响个人剧情
+103	我的指尖滑过她的后颈，来到锁骨处。就在我准备继续动作时，她抚上了我的指尖。	我的指尖滑過她的後頸，來到鎖骨處。就在我準備繼續動作時，她撫上了我的指尖。	指先を首筋から鎖骨に滑らせる。そのまま胸のあたりまで触れようとしたとき、ニタは軽く手を添えてきた。	내 손끝은 그녀의 목덜미를 스쳐 지나 쇄골로 향했고, 계속 움직이려고 하자, 그녀가 내 손끝을 어루만졌다.	My fingers traced down her neck to her collarbone. Just as I prepared to continue, she gently touched my fingertips.						0	dlc27版本妮塔悸响个人剧情
+104	分析员，我听说还有一个留香的地方，你能帮我试试吗？	分析員，我聽說還有一個留香的地方，你能幫我試試嗎？	ね、分析員…私、聞いたことあるんだけど、こっちにつけるのもいいって…	분석가, 향이 오래가는 곳이 한 군데 더 있다고 들었는데 한번 뿌려줄래?	Adjutant, I heard there's another spot you could put perfume on. Help me try it?						0	dlc27版本妮塔悸响个人剧情
+105	妮塔转身侧躺在床上。	妮塔轉身側躺在床上。	そう言うとニタはベッドに横向きに倒れ込んで。	니타는 몸을 돌려 침대에 옆으로 누웠다.	Nita turned to lie on her side on the bed.						0	dlc27版本妮塔悸响个人剧情
+106	她缓缓伸直了一条腿，将膝盖后侧面向我。	她緩緩伸直了一條腿，將膝蓋後側面向我。	片脚をゆっくり伸ばし、膝の裏を私のほうへ向ける。	그녀는 천천히 한쪽 다리를 뻗어 무릎 뒷부분을 내 쪽으로 향하게 했다.	She slowly extended one leg, presenting the back of her knee.						0	dlc27版本妮塔悸响个人剧情
+115	分析员，你说过我总会赢的，对吧？	分析員，你說過我總會贏的，對吧？	…分析員、「ニタは絶対勝つ」って言ってたでしょ？	분석가, 넌 내가 이길 거라고 했잖아. 그렇지?	Adjutant, you said I'd always win, right?						0	dlc27版本妮塔悸响个人剧情
+116	我想和你赌一场。	我想和你賭一場。	ちょっと賭けをしない？	너랑 내기 한 판 하고 싶은데.	I want to make a bet with you.						0	dlc27版本妮塔悸响个人剧情
+117	想赌什么？	想賭什麼？	何を賭けるんだ？	무슨 내기?	What do you have in mind?						0	dlc27版本妮塔悸响个人剧情
+118	赌，我和分析员谁先忍不住。	賭，我和分析員誰先忍不住。	どっちが先に我慢できなくなるか…	나랑 분석가 중 누가 더 참을성이 없는지.	Betting on which one of us gives in first.						0	dlc27版本妮塔悸响个人剧情
+119	哦？难道你认为我会输？	哦？難道你認為我會輸？	ほう、それで私が負けると？	응? 설마 내가 질 거라고 생각해?	Oh? Do you think I'd lose?						0	dlc27版本妮塔悸响个人剧情
+120	当然。	當然。	当然…負かすよ。	당연하지.	Of course.						0	dlc27版本妮塔悸响个人剧情
+121	妮塔缓缓起身，牵起我的手。	妮塔緩緩起身，牽起我的手。	ゆっくりと起き上がり、私の手を取る。	니타는 천천히 몸을 일으켜 내 손을 잡았다.	Nita slowly rose and took my hand.						0	dlc27版本妮塔悸响个人剧情
+123	然后，她慢慢引导我的手向上移动，滑过腰部后，再继续向上……	然後，她慢慢引導我的手向上移動，滑過腰部後，再繼續往上……	そのまま腰から上へと誘っていく。	그 후, 그녀는 천천히 내 손을 위로 옮겼고, 허리를 지나 계속 위로 향했다…	Then, she slowly guided my hand upward, sliding past her waist, then continuing higher...						0	dlc27版本妮塔悸响个人剧情
+124	我的筹码很多，这里，还有这里……	我的籌碼很多，這裡，還有這裡……	私、たくさん「チップ」を持ってるんだよ。ここも、ここも…	나는 패가 많은데. 여기랑 여기…	I got plenty of chips to bet, here, and here...						0	dlc27版本妮塔悸响个人剧情
+125	当然，最大的筹码在这里。	當然，最大的籌碼在這裡。	それに、一番大きな賭け金は…ここ。	물론 가장 큰 패는 여기 있어.	Of course, the best I got is right here.						0	dlc27版本妮塔悸响个人剧情
+126	她的指尖停留在我的胸口，感知着皮肤和骨骼之下，那不安分的跳动。	她的指尖停留在我的胸口，感受著皮膚和骨骼之下，那不安分的跳動。	彼女の指は私の胸へ添い、ドクンと高鳴る鼓動を感じとる。	그녀의 손끝이 내 가슴에 멈춘 채, 피부와 뼈 아래의 요란한 박동을 느꼈다.	Her fingertips rested on my chest, feeling the restless beating beneath my ribcage.						0	dlc27版本妮塔悸响个人剧情
+127	分析员的心跳很快，被我听得一清二楚……	分析員的心跳很快，被我聽得一清二楚……	ね、分析員。心拍がすごく速いの、私にはぜーんぶ聞こえちゃうんだ…	분석가의 심장이 빠르게 뛰네. 또렷하게 들려…	Your heart's racing, I can hear it clear as day...						0	dlc27版本妮塔悸响个人剧情
+128	所以我想……我会赢的~	所以我想……我會贏的~	だから、たぶん私が勝つんじゃないかな♪	그래서 난… 내가 이길 거라고 생각해~	So I think... I'm going to win~						0	dlc27版本妮塔悸响个人剧情
+130	嗒——嗒——嗒。	答——答——答。	タッ——タッ——タッ。	탁… 탁… 탁.	Tak — tak — tak.						0	dlc27版本妮塔悸响个人剧情
+131	命运掷骰子的声音似乎再度响起，不知道骰子停下时，是谁将沉溺于对方的温暖，一败涂地。	命運擲骰子的聲音似乎再度響起，不知道骰子停下時，是誰將沉溺於對方的溫暖，一敗塗地。	再び聞こえる「運命のサイコロ」が転がる音。果たして、その出目が止まるとき、先に溺れてしまうのはどっちだろう？	운명의 주사위 소리가 다시 울리는 듯했다. 주사위가 멈출 때, 상대방의 온기에 빠져 참패하는 쪽은 과연 누구일까.	The sound of fate rolling dice seemed to echo once more, and when it finally stopped, who knew which of us would be drowning in the other's warmth, utterly defeated.						0	dlc27版本妮塔悸响个人剧情

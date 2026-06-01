@@ -1,0 +1,31 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	宿舍站	sequence	girl023_01_house_stand	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/girl023_01_house_stand.girl023_01_house_stand'	
+2	打招呼	sequence	girl023_01_house_dialogue_greet	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_greet.girl023_01_house_dialogue_greet'	
+3	讲述	sequence	girl023_01_house_dialogue_talk	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_talk.girl023_01_house_dialogue_talk'	
+4	肯定	sequence	girl023_01_house_dialogue_sure	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_sure.girl023_01_house_dialogue_sure'	
+5	否定	sequence	girl023_01_house_dialogue_deny	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_deny.girl023_01_house_dialogue_deny'	
+6	惊讶	sequence	girl023_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_amaze.girl023_01_house_dialogue_amaze'	
+7	满足	sequence	girl023_01_house_dialogue_satisfy01	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_satisfy01.girl023_01_house_dialogue_satisfy01'	
+8	开心	sequence	girl023_01_house_dialogue_satisfy02	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_satisfy02.girl023_01_house_dialogue_satisfy02'	
+9	生气	sequence	girl023_01_house_dialogue_depressed01	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_depressed01.girl023_01_house_dialogue_depressed01'	
+10	混乱	sequence	girl023_01_house_dialogue_confuse	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_confuse.girl023_01_house_dialogue_confuse'	
+11	害羞	sequence	girl023_01_house_dialogue_shy	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_shy.girl023_01_house_dialogue_shy'	
+12	思考-前	sequence	girl023_01_house_dialogue_think_start	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_think_start.girl023_01_house_dialogue_think_start'	
+13	思考-循环	sequence	girl023_01_house_dialogue_think_loop	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_think_loop.girl023_01_house_dialogue_think_loop'	
+14	思考-后	sequence	girl023_01_house_dialogue_think_end	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_think_end.girl023_01_house_dialogue_think_end'	
+15	抱胸-前	sequence	girl023_01_house_dialogue_stand02_start	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_stand02_start.girl023_01_house_dialogue_stand02_start'	
+16	抱胸-循环	sequence	girl023_01_house_dialogue_stand02_loop	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_stand02_loop.girl023_01_house_dialogue_stand02_loop'	
+17	抱胸-后	sequence	girl023_01_house_dialogue_stand02_end	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_stand02_end.girl023_01_house_dialogue_stand02_end'	
+18	床上坐	sequence	girl023_01_house_bed_sit01	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_bed_sit01.girl023_01_house_bed_sit01'	
+19	床上躺	sequence	girl023_01_house_bed_sleep01	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_bed_sleep01.girl023_01_house_bed_sleep01'	
+20	吧台坐	sequence	girl023_01_house_stool_sit01	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_stool_sit01.girl023_01_house_stool_sit01'	
+					
+					
+97	左转	sequence	girl023_01_house_dialogue_turn_L	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_turn_L.girl023_01_house_dialogue_turn_L'	
+98	右转	sequence	girl023_01_house_dialogue_turn_R	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_turn_R.girl023_01_house_dialogue_turn_R'	
+99	呼吸叠加素材	sequence	girl023_01_house_dialogue_Tpose	AnimSequence'/Game/Characters/Girl/girl023_01/Anim/house/girl023_01_house_dialogue_Tpose.girl023_01_house_dialogue_Tpose'	
+100	一次思考	custom_seq	12;13;14		
+101	思考循环	custom_loop_last	12;13		
+102	一次抱胸	custom_seq	15;16;17		
+103	抱胸循环	custom_loop_last	15;16		

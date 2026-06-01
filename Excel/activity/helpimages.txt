@@ -1,0 +1,1254 @@
+﻿类别ID	图片路径ID	标题	说明	解锁条件(1：账号等级；2：Level ID，3：是否拥有某道具，4：曜日本专用是否通关xx关卡)	是否显示页码	是否循环	切页方式（默认滑动加按钮）1：仅可滑动	备注
+ID	Path	Title	Caption	Condition	ShowPage	Loop	ChangeMode	
+1	2000001	TxtTutorialTowerTitle01	ui.TxtTutorialTower01		1	1		爬塔玩法介绍
+1	2000002	TxtTutorialTowerTitle02	ui.TxtTutorialTower02		1	1		爬塔玩法介绍
+1	2000003	TxtTutorialTowerTitle03	ui.TxtTutorialTower03		1	1		爬塔玩法介绍
+1	2000004	TxtTutorialTowerTitle04	ui.TxtTutorialTower04		1	1		爬塔玩法介绍
+2	2000005	TxtTutorialBossTitle01	ui.TxtTutorialBoss01		1	1		BOSS挑战教学图1
+2	2000006	TxtTutorialBossTitle01	ui.TxtTutorialBoss02		1	1		BOSS挑战教学图2
+2	2000007	TxtTutorialBossTitle03	ui.TxtTutorialBoss03		1	1		BOSS挑战教学图3
+2	2000008	TxtTutorialBossTitle04	ui.TxtTutorialBoss04		1	1		BOSS挑战教学图4
+2	2000009	TxtTutorialBossTitle05	ui.TxtTutorialBoss05		1	1		BOSS挑战教学图5
+3	1902000	TxtTutorialFightTitle	ui.TxtTutorialFight01					战斗指引图
+4	1902002	TxtTutorialFightTitle	ui.TxtTutorialFight03		1	1		战斗指引图
+4	1902006	TxtTutorialFightTitle	ui.TxtTutorialFight07		1	1		战斗指引图
+4	1902007	TxtTutorialFightTitle	ui.TxtTutorialFight08		1	1		战斗指引图
+5	1902001	TxtTutorialFightTitle	ui.TxtTutorialFight02					战斗指引图
+6	1902003	TxtTutorialFightTitle	ui.TxtTutorialFight04					战斗指引图
+7	1902004	TxtTutorialFightTitle	ui.TxtTutorialFight05					战斗指引图
+8	1902005	TxtTutorialFightTitle	ui.TxtTutorialFight06					战斗指引图
+9	1902008	TxtTutorialFightTitle	ui.TxtTutorialFight09		1	1		战斗指引图
+9	1902009	TxtTutorialFightTitle	ui.TxtTutorialFight10		1	1		战斗指引图
+10	2000010	TxtTutorialFightTitle	ui.TxtTutorialFight11					喷漆罐美宣图
+11	2000011	TxtTutorialFightTitle	ui.TxtTutorialFight12					罐头投掷者美宣图
+12	2000012	TxtTutorialMultiTitle01	ui.TxtTutorialMulti01		1	1		联机玩法介绍
+12	2000014	TxtTutorialMultiTitle02	ui.TxtTutorialMulti02		1	1		联机玩法介绍
+12	2000034	TxtTutorialMultiTitle03	ui.TxtTutorialMulti03		1	1		联机玩法介绍
+12	2000015	TxtTutorialMultiTitle04	ui.TxtTutorialMulti04		1	1		联机玩法介绍
+12	2000056	TxtTutorialMultiTitle05	ui.TxtTutorialMulti05		1	1		联机玩法介绍
+12	2000017	TxtTutorialMultiTitle06	ui.TxtTutorialMulti06		1	1		联机玩法介绍
+12	2000018	TxtTutorialMultiTitle07	ui.TxtTutorialMulti07		1	1		联机玩法介绍
+12	2000035	TxtTutorialMultiTitle08	ui.TxtTutorialMulti08		1	1		联机玩法介绍
+13	2000019	TxtTutorialDefenseTitle01	ui.TxtTutorialDefense01		1	1		【荣誉冲突】背景
+13	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【荣誉冲突】史诗系统
+13	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【荣誉冲突】跳跃
+13	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【荣誉冲突】限时挑战
+13	2000071	TxtTutorialDefenseTitle0802	ui.TxtTutorialDefense0802		1	1		【荣誉冲突】龙息令
+13	2000072	TxtTutorialDefenseTitle0803	ui.TxtTutorialDefense0803		1	1		【荣誉冲突】存档&局内商店
+13	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【荣誉冲突】补给装置
+13	2000073	TxtTutorialDefenseTitle10	ui.TxtTutorialDefense10		1	1		【荣誉冲突】重置
+14	2000028	TxtTutorialFightTitle2	ui.TxtTutorialFight13		1	1		跳弹介绍
+16	2000032	TxtTutorialDailyTitle01	ui.TxtTutorialDaily01					欲火之战介绍
+18	2000051	TxtTutorialDLC1Title01	ui.TxtTutorialDLC101				1	DLC1射击机关教学图
+19	2000036	TxtTutorialChess1Title01	ui.TxtTutorialChess101		1	1		棋盘格一期介绍
+19	2000055	TxtTutorialChess1Title07	ui.TxtTutorialChess107		1	1		棋盘格一期介绍7
+19	2000037	TxtTutorialChess1Title02	ui.TxtTutorialChess102		1	1		棋盘格一期介绍
+19	2000038	TxtTutorialChess1Title03	ui.TxtTutorialChess103		1	1		棋盘格一期介绍
+19	2000039	TxtTutorialChess1Title04	ui.TxtTutorialChess104		1	1		棋盘格一期介绍
+19	2000040	TxtTutorialChess1Title05	ui.TxtTutorialChess105		1	1		棋盘格一期介绍
+19	2000041	TxtTutorialChess1Title06	ui.TxtTutorialChess106		1	1		棋盘格一期介绍
+20	2000038	TxtTutorialChess1Title03	ui.TxtTutorialChess103		1	1	1	棋盘格一期介绍，自动弹出用
+21	2000039	TxtTutorialChess1Title04	ui.TxtTutorialChess104		1	1	1	棋盘格一期介绍，自动弹出用
+22	2000052	TxtTutorialFightTitle5	ui.TxtTutorialFight04		1	1		特化怪出场介绍
+23	2000041	TxtTutorialFightTitle6	ui.TxtTutorialFight16		1	1		特化阻断介绍
+24	2000052	TxtTutorialFightTitle2	ui.TxtTutorialFight13		1	1		跳弹概率介绍
+25	2000055	TxtTutorialChess1Title07	ui.TxtTutorialChess107		1	1		棋盘格一期操作介绍，自动弹出用
+26	2000042	TxtTutorialDefenseDLC01Title01	ui.TxtTutorialDefenseDLC0101		1	1		【天楼纷争】背景介绍
+26	2000047	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【天楼纷争】史诗系统
+26	2000043	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【天楼纷争】跳跃
+26	2000044	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【天楼纷争】限时挑战
+26	2000101	TxtTutorialDefenseTitle0802	ui.TxtTutorialDefense0802		1	1		【荣誉冲突】龙息令
+26	2000072	TxtTutorialDefenseTitle0803	ui.TxtTutorialDefense0803		1	1		【荣誉冲突】存档&局内商店
+26	2000045	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【天楼纷争】补给装置
+26	2000102	TxtTutorialDefenseTitle10	ui.TxtTutorialDefense10		1	1		【天楼纷争】重置
+27	2000057	TxtTutorialFightTitle7	ui.TxtTutorialFight17		1	1		护盾介绍
+28	2000058	TxtTutorialRogueTitle01	ui.TxtTutorialRogue01		1	1		dlc1肉鸽—玩法教学
+28	2000059	TxtTutorialRogueTitle02	ui.TxtTutorialRogue02		1	1		dlc1肉鸽—任务教学
+28	2000062	TxtTutorialRogueTitle05	ui.TxtTutorialRogue05		1	1		dlc1肉鸽—节点类型说明
+28	2000064	TxtTutorialRogueTitle06	ui.TxtTutorialRogue06		1	1		dlc1肉鸽—代币教学
+28	2000063	TxtTutorialRogueTitle07	ui.TxtTutorialRogue07		1	1		dlc1肉鸽—角色教学
+28	2000065	TxtTutorialRogueTitle08	ui.TxtTutorialRogue08		1	1		dlc1肉鸽—重置教学
+28	2000066	TxtTutorialRogueTitle09	ui.TxtTutorialRogue09		1	1		dlc1肉鸽—每日增益教学
+28	2000067	TxtTutorialRogueTitle10	ui.TxtTutorialRogue10		1	1		dlc1肉鸽—buff栏教学
+29	2000068	TxtTutorialRogueTitle11	ui.TxtTutorialRogue11		1	1		dlc1肉鸽—商店角色商品教学
+29	2000060	TxtTutorialRogueTitle03	ui.TxtTutorialRogue03		1	1		dlc1肉鸽—商店教学
+30	2000061	TxtTutorialRogueTitle04	ui.TxtTutorialRogue04					dlc1肉鸽—buff背包教学
+31	2000069	TxtTutorialFightTitle	ui.TxtTutorialFight18		1	1		常规能量教学PC
+32	2000070	TxtTutorialFightTitle	ui.TxtTutorialFight18		1	1		常规能量教学安卓
+33	2000096	TxtTutorialOW01Title16	ui.TxtTutorialOW0116		1	1		DLC2_暗区_总览
+33	2000083	TxtTutorialOW01Title03	ui.TxtTutorialOW0103		1	1		DLC2_暗区_存档
+33	2000088	TxtTutorialOW01Title08	ui.TxtTutorialOW0108		1	1		DLC2_暗区_周期性
+33	2000093	TxtTutorialOW01Title13	ui.TxtTutorialOW0113		1	1		DLC2_暗区_数据样本
+33	2000081	TxtTutorialOW01Title01	ui.TxtTutorialOW0101		1	1		DLC2_暗区_超对称样本
+33	2000092	TxtTutorialOW01Title12	ui.TxtTutorialOW0112		1	1		DLC2_暗区_数据分析平台
+33	2000089	TxtTutorialOW01Title09	ui.TxtTutorialOW0109		1	1		DLC2_暗区_激励点数
+33	2000084	TxtTutorialOW01Title04	ui.TxtTutorialOW0104		1	1		DLC2_暗区_大型晶体
+33	2000090	TxtTutorialOW01Title10	ui.TxtTutorialOW0110		1	1		DLC2_暗区_晶体附着物
+33	2000086	TxtTutorialOW01Title06	ui.TxtTutorialOW0106		1	1		DLC2_暗区_等离子体
+33	2000082	TxtTutorialOW01Title02	ui.TxtTutorialOW0102		1	1		DLC2_暗区_传送点
+33	2000085	TxtTutorialOW01Title05	ui.TxtTutorialOW0105		1	1		DLC2_暗区_地图事件
+34	2000093	TxtTutorialOW01Title13	ui.TxtTutorialOW0113		1	1		DLC2_暗区_数据样本_单独弹出
+35	2000081	TxtTutorialOW01Title01	ui.TxtTutorialOW0101		1	1		DLC2_暗区_超对称样本_单独弹出
+36	2000092	TxtTutorialOW01Title12	ui.TxtTutorialOW0112		1	1		DLC2_暗区_数据分析平台_单独弹出
+37	2000089	TxtTutorialOW01Title09	ui.TxtTutorialOW0109		1	1		DLC2_暗区_激励点数_单独弹出
+40	2000084	TxtTutorialOW01Title04	ui.TxtTutorialOW0104		1	1		DLC2_暗区_大型晶体_单独弹出
+41	2000090	TxtTutorialOW01Title10	ui.TxtTutorialOW0110		1	1		DLC2_暗区_晶体附着物_单独弹出
+42	2000086	TxtTutorialOW01Title06	ui.TxtTutorialOW0106		1	1		DLC2_暗区_等离子体_单独弹出
+43	2000082	TxtTutorialOW01Title02	ui.TxtTutorialOW0102		1	1		DLC2_暗区_传送点_单独弹出
+44	2000085	TxtTutorialOW01Title05	ui.TxtTutorialOW0105		1	1		DLC2_暗区_地图事件_单独弹出
+46	2000075	TxtTutorialRepressionTitle1	ui.TxtTutorialRepression1		1	1		DLC2_危境战幕_概述
+46	2000077	TxtTutorialRepressionTitle3	ui.TxtTutorialRepression3		1	1		DLC2_危境战幕_临时阵地
+46	2000076	TxtTutorialRepressionTitle2	ui.TxtTutorialRepression2		1	1		DLC2_危境战幕_通行密钥
+46	2000078	TxtTutorialRepressionTitle4	ui.TxtTutorialRepression4		1	1		DLC2_危境战幕_战幕绩点
+46	2000079	TxtTutorialRepressionTitle5	ui.TxtTutorialRepression5		1	1		DLC2_危境战幕_驻守队伍
+46	2000080	TxtTutorialRepressionTitle6	ui.TxtTutorialRepression6		1	1		DLC2_危境战幕_战线挑战
+46	2000106	TxtTutorialRepressionTitle7	ui.TxtTutorialRepression7		1	1		DLC2_危境战幕_相位协调仪
+47	2000098	TxtTutorialDormTitle1	ui.TxtTutorialDormDesc1		1	1		宿舍_拼图_收集碎片
+47	2000099	TxtTutorialDormTitle2	ui.TxtTutorialDormDesc2		1	1		宿舍_拼图_进行拼图
+48	2000097	TxtTutorialWeaponPartTitle	ui.TxtTutorialWeaponPartDesc		1	1		武器配件教学图
+49	2000416	TxtTutorialMultiTitle_2_01	ui.Txt26Multhelp1		1	1		2.6 永续新商店
+49	2000417	TxtTutorialMultiTitle_2_01	ui.Txt26Multhelp2		1	1		2.6 永续新特殊怪
+49	2000018	TxtTutorialMultiTitle_2_03	ui.TxtTutorialMulti_2_03		1	1		2.6 永续新防守装置
+49	2000012	TxtTutorialMultiTitle_2_01	ui.TxtTutorialMulti_2_01		1	1		联机-永续联战玩法介绍1
+49	2000100	TxtTutorialMultiTitle_2_02	ui.TxtTutorialMulti_2_02		1	1		联机-永续联战玩法介绍2
+49	2000336	TxtTutorialMultiTitle_2_04	ui.TxtTutorialMulti_2_04		1	1		联机-永续联战玩法介绍4
+50	2000105	TxtTutorialSettingTitle	ui.TxtTutorialSetting		1	1		序章设置终端
+51	2000104	TxtTutorialOverBunkerTitle	ui.TxtTutorialOverBunker1					移动端翻越掩体
+52	2000103	TxtTutorialOverBunkerTitle	ui.TxtTutorialOverBunker2					PC端翻越掩体
+53	2000012	TxtTutorialMultiTitle_2_05	ui.TxtTutorialMulti_2_05					联机-勇者游戏玩法介绍
+54	2000019	TxtTutorialDefenseTitle0101	ui.TxtTutorialDefense01		1	1		【荣誉冲突】背景
+54	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【荣誉冲突】史诗系统
+54	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【荣誉冲突】跳跃
+54	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【荣誉冲突】限时挑战
+54	2000071	TxtTutorialDefenseTitle0802	ui.TxtTutorialDefense0802		1	1		【荣誉冲突】龙息令
+54	2000072	TxtTutorialDefenseTitle0803	ui.TxtTutorialDefense0803		1	1		【荣誉冲突】存档&局内商店
+54	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【荣誉冲突】补给装置
+54	2000107	TxtTutorialDefenseTitle0901	ui.TxtTutorialDefense0901		1	1		【荣誉冲突】低频振荡器
+54	2000073	TxtTutorialDefenseTitle10	ui.TxtTutorialDefense10		1	1		【荣誉冲突】重置
+55	2000108	TxtTutorialJumpTitle	ui.TxtTutorialJump1					11-1跳跃教学移动端
+56	2000108	TxtTutorialJumpTitle	ui.TxtTutorialJump2					11-1跳跃教学PC端
+57	2000112	TxtTutorialOnlineBossTitle1	ui.TxtTutorialOnlineBoss1		1	1		DLC3联机BOSS挑战-概览
+57	2000113	TxtTutorialOnlineBossTitle2	ui.TxtTutorialOnlineBoss2		1	1		DLC3联机BOSS挑战-总伤害
+57	2000114	TxtTutorialOnlineBossTitle3	ui.TxtTutorialOnlineBoss3		1	1		DLC3联机BOSS挑战-BOSS
+57	2000115	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		DLC3联机BOSS挑战-奖励
+58	2000116	TxtTutorialFishTitle1	ui.TxtTutorialFish1		1	1		DLC3钓鱼模式说明
+58	2000117	TxtTutorialFishTitle2	ui.TxtTutorialFish2		1	1		DLC3钓鱼模式说明
+58	2000118	TxtTutorialFishTitle3	ui.TxtTutorialFish3		1	1		DLC3钓鱼模式说明
+58	2000119	TxtTutorialFishTitle4	ui.TxtTutorialFish4		1	1		DLC3钓鱼模式说明
+59	2000127	TxtTutorialElementTitle1	ui.TxtTutorialElementDes1		1	1		DLC3乱战宝礁说明
+59	2000128	TxtTutorialElementTitle2	ui.TxtTutorialElementDes2		1	1		DLC3乱战宝礁说明
+59	2000129	TxtTutorialElementTitle3	ui.TxtTutorialElementDes3		1	1		DLC3乱战宝礁说明
+59	2000130	TxtTutorialElementTitle4	ui.TxtTutorialElementDes4		1	1		DLC3乱战宝礁说明
+59	2000131	TxtTutorialElementTitle5	ui.TxtTutorialElementDes5		1	1		DLC3乱战宝礁说明
+59	2000132	TxtTutorialElementTitle6	ui.TxtTutorialElementDes6		1	1		DLC3乱战宝礁说明
+60	2000005	TxtTutorialBossTitle01	ui.TxtTutorialBoss06		1	1		BOSS挑战新版教学图1
+60	2000109	TxtTutorialBossTitle01	ui.TxtTutorialBoss07		1	1		BOSS挑战新版教学图2
+60	2000007	TxtTutorialBossTitle03	ui.TxtTutorialBoss03		1	1		BOSS挑战新版教学图3
+60	2000110	TxtTutorialBossTitle04	ui.TxtTutorialBoss08		1	1		BOSS挑战新版教学图4
+60	2000111	TxtTutorialBossTitle06	ui.TxtTutorialBoss09		1	1		BOSS挑战新版教学图5
+61	2000019	TxtTutorialDefenseDLC03Title01	ui.TxtTutorialDefenseDLC0301		1	1		【荣誉冲突】背景
+61	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【荣誉冲突】史诗系统
+61	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【荣誉冲突】跳跃
+61	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【荣誉冲突】限时挑战
+61	2000071	TxtTutorialDefenseTitle0802	ui.TxtTutorialDefense0802		1	1		【荣誉冲突】龙息令
+61	2000072	TxtTutorialDefenseTitle0803	ui.TxtTutorialDefense0803		1	1		【荣誉冲突】存档&局内商店
+61	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【荣誉冲突】补给装置
+61	2000126	TxtTutorialDefenseTitle1001	ui.TxtTutorialDefense1001		1	1		【荣誉冲突】炸弹车
+61	2000073	TxtTutorialDefenseTitle10	ui.TxtTutorialDefense10		1	1		【荣誉冲突】重置
+62	2000019	TxtTutorialDefenseDLC04Title01	ui.TxtTutorialDefenseDLC0401		1	1		【DLC4荣誉冲突】背景
+62	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC4荣誉冲突】史诗系统
+62	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC4荣誉冲突】跳跃
+62	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC4荣誉冲突】限时挑战
+62	2000071	TxtTutorialDefenseTitle0802	ui.TxtTutorialDefense0802		1	1		【DLC4荣誉冲突】龙息令
+62	2000072	TxtTutorialDefenseTitle0803	ui.TxtTutorialDefense0803		1	1		【DLC4荣誉冲突】存档&局内商店
+62	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC4荣誉冲突】补给装置
+62	2000073	TxtTutorialDefenseTitle10	ui.TxtTutorialDefense10		1	1		【DLC4荣誉冲突】重置
+63	2000120	TxtTutorialRichManTitle1	season_item.TxtRichManDes1_1		1	1		大富翁教学图1
+63	2000121	TxtTutorialRichManTitle2	season_item.TxtRichManDes2_1		1	1		大富翁教学图2
+63	2000122	TxtTutorialRichManTitle3	season_item.TxtRichManDes3		1	1		大富翁教学图3
+63	2000125	TxtTutorialRichManTitle4	season_item.TxtRichManDes4_1		1	1		大富翁教学图4
+								
+63	2000124	TxtTutorialRichManTitle6	season_item.TxtRichManDes6_1		1	1		大富翁教学图6
+64	2000133	TxtTutorialexploreTitle1	ui.TxtTutorialexplore1		1	1		海岛探索说明1
+64	2000134	TxtTutorialexploreTitle2	ui.TxtTutorialexplore2		1	1		海岛探索说明2
+64	2000135	TxtTutorialexploreTitle3	ui.TxtTutorialexplore3		1	1		海岛探索说明3
+64	2000136	TxtTutorialexploreTitle4	ui.TxtTutorialexplore4		1	1		海岛探索说明4
+64	2000137	TxtTutorialexploreTitle5	ui.TxtTutorialexplore5		1	1		海岛探索说明5
+64	2000116	TxtTutorialFishTitle1	ui.TxtTutorialFish1		1	1		海岛探索说明6
+65	2000144	TxtTutorialRepressionTitle1_2	ui.TxtTutorialRepression1		1	1		DLC4_危境战幕_概述
+65	2000146	TxtTutorialRepressionTitle3	ui.TxtTutorialRepression3		1	1		DLC4_危境战幕_临时阵地
+65	2000145	TxtTutorialRepressionTitle2	ui.TxtTutorialRepression2		1	1		DLC4_危境战幕_通行密钥
+65	2000147	TxtTutorialRepressionTitle4	ui.TxtTutorialRepression4		1	1		DLC4_危境战幕_战幕绩点
+65	2000148	TxtTutorialRepressionTitle5	ui.TxtTutorialRepression5		1	1		DLC4_危境战幕_驻守队伍
+65	2000149	TxtTutorialRepressionTitle6	ui.TxtTutorialRepression6_2		1	1		DLC4_危境战幕_战线挑战
+66	2000138	TxtTutorialOnlineBossTitle2_1	ui.TxtTutorialOnlineBoss2_1		1	1		DLC4联机BOSS挑战-概览
+66	2000139	TxtTutorialOnlineBossTitle2_2	ui.TxtTutorialOnlineBoss2_2		1	1		DLC4联机BOSS挑战-概览
+66	2000140	TxtTutorialOnlineBossTitle2_3	ui.TxtTutorialOnlineBoss2_3		1	1		DLC4联机BOSS挑战-概览
+66	2000141	TxtTutorialOnlineBossTitle2_4	ui.TxtTutorialOnlineBoss2_4		1	1		DLC4联机BOSS挑战-概览
+67	2000150	TxtTutorialOnlineBossTitle3_1	ui.TxtTutorialOnlineBoss3_1		1	1		DLC5联机BOSS挑战-概览
+67	2000151	TxtTutorialOnlineBossTitle3_2	ui.TxtTutorialOnlineBoss3_2		1	1		DLC5联机BOSS挑战-总伤害
+67	2000152	TxtTutorialOnlineBossTitle3_3	ui.TxtTutorialOnlineBoss3_3		1	1		DLC5联机BOSS挑战-BOSS
+67	2000153	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		DLC5联机BOSS挑战-奖励
+68	2000156		ui.TxtTutorialSneak1		1	1		12-1潜行教学图1
+68	2000157		ui.TxtTutorialSneak2		1	1		12-1潜行教学图2
+69	2000019	TxtTutorialDefenseDLC05Title01	ui.TxtTutorialDefenseDLC0501		1	1		【DLC5荣誉冲突】背景
+69	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC5荣誉冲突】史诗系统
+69	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC5荣誉冲突】跳跃
+69	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC5荣誉冲突】限时挑战
+69	2000071	TxtTutorialDefenseTitle0802	ui.TxtTutorialDefense0802		1	1		【DLC5荣誉冲突】龙息令
+69	2000072	TxtTutorialDefenseTitle0803	ui.TxtTutorialDefense0803		1	1		【DLC5荣誉冲突】存档&局内商店
+69	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC5荣誉冲突】补给装置
+69	2000155	TxtTutorialDefenseDLC05MGTitle	ui.TxtTutorialDefenseDLC05MG		1	1		【DLC5荣誉冲突】机枪塔
+69	2000073	TxtTutorialDefenseTitle10	ui.TxtTutorialDefense10		1	1		【DLC5荣誉冲突】重置
+70	2000160	TxtTutorialRogue3Title1	ui.TxtTutorialRogue3Des1		1	1		悖论迷宫（大肉鸽）
+70	2000162	TxtTutorialRogue3Title3	ui.TxtTutorialRogue3Des3		1	1		悖论迷宫（大肉鸽）
+70	2000161	TxtTutorialRogue3Title2	ui.TxtTutorialRogue3Des2		1	1		悖论迷宫（大肉鸽）
+70	2000163	TxtTutorialRogue3Title4	ui.TxtTutorialRogue3Des4		1	1		悖论迷宫（大肉鸽）
+70	2000164	TxtTutorialRogue3Title5	ui.TxtTutorialRogue3Des5		1	1		悖论迷宫（大肉鸽）
+70	2000165	TxtTutorialRogue3Title6	ui.TxtTutorialRogue3Des6		1	1		悖论迷宫（大肉鸽）
+70	2000196	TxtTutorialRogue3Title9	ui.TxtTutorialRogue3Des9		1	1		悖论迷宫（大肉鸽）
+71	2000167	TxtTutorialOnlineBossTitle4_1	ui.TxtTutorialOnlineBoss4_1		1	1		DLC6联机BOSS挑战-概览
+71	2000168	TxtTutorialOnlineBossTitle4_2	ui.TxtTutorialOnlineBoss4_2		1	1		DLC6联机BOSS挑战-总伤害
+71	2000169	TxtTutorialOnlineBossTitle4_3	ui.TxtTutorialOnlineBoss4_3		1	1		DLC6联机BOSS挑战-BOSS
+71	2000170	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		DLC6联机BOSS挑战-奖励
+72	2000019	TxtTutorialDefenseDLC06Title01	ui.TxtTutorialDefenseDLC0601		1	1		【DLC6荣誉冲突】背景
+72	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC6荣誉冲突】史诗系统
+72	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC6荣誉冲突】跳跃
+72	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC6荣誉冲突】限时挑战
+72	2000071	TxtTutorialDefenseTitle0802	ui.TxtTutorialDefense0802		1	1		【DLC6荣誉冲突】龙息令
+72	2000072	TxtTutorialDefenseTitle0803	ui.TxtTutorialDefense0803		1	1		【DLC6荣誉冲突】存档&局内商店
+72	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC6荣誉冲突】补给装置
+72	2000073	TxtTutorialDefenseTitle10	ui.TxtTutorialDefense10		1	1		【DLC6荣誉冲突】重置
+73	2000180	TxtTutorialRepressionTitle1_3	ui.TxtTutorialRepression1		1	1		DLC6_危境战幕_概述
+73	2000181	TxtTutorialRepressionTitle3	ui.TxtTutorialRepression3		1	1		DLC6_危境战幕_临时阵地
+73	2000182	TxtTutorialRepressionTitle2	ui.TxtTutorialRepression2		1	1		DLC6_危境战幕_通行密钥
+73	2000183	TxtTutorialRepressionTitle4	ui.TxtTutorialRepression4		1	1		DLC6_危境战幕_战幕绩点
+73	2000184	TxtTutorialRepressionTitle5	ui.TxtTutorialRepression5		1	1		DLC6_危境战幕_驻守队伍
+73	2000185	TxtTutorialRepressionTitle6	ui.TxtTutorialRepression6_3		1	1		DLC6_危境战幕_战线挑战
+74	2000166	TxtFashionArmTip12	ui.TxtFashionArmTip13		1	1		武器小分类介绍
+75	2000012	TxtMultiiTower_name	ui.TxtMultiiTower_des		1	1		塔防联机
+75	2000199	TxtMultiiTower_name8	ui.TxtMultiiTower_des8		1	1		塔防联机
+75	2000174	TxtMultiiTower_name2	ui.TxtMultiiTower_des2		1	1		塔防联机
+75	2000175	TxtMultiiTower_name3	ui.TxtMultiiTower_des3		1	1		塔防联机
+75	2000201	TxtMultiiTower_name9	ui.TxtMultiiTower_des9		1	1		塔防联机
+75	2000202	TxtMultiiTower_name11	ui.TxtMultiiTower_des11		1	1		塔防联机
+75	2000203	TxtMultiiTower_name12	ui.TxtMultiiTower_des12		1	1		塔防联机
+75	2000176	TxtMultiiTower_name4	ui.TxtMultiiTower_des4		1	1		塔防联机
+75	2000200	TxtMultiiTower_name10	ui.TxtMultiiTower_des10		1	1		塔防联机
+76	2000171	TxtTutorialRotateTitle01	ui.TxtTutorialRotate01		1	1		12-6B旋转门教学图1
+76	2000172	TxtTutorialRotateTitle02	ui.TxtTutorialRotate02		1	1		12-6B旋转门教学图2
+76	2000173	TxtTutorialRotateTitle03	ui.TxtTutorialRotate03		1	1		12-6B旋转门教学图3
+77	2000174	TxtMultiiTower_name2	ui.TxtMultiiTower_des2		1	1		塔防联机关卡内教学图1
+78	2000177	TxtMultiiTower_name5	ui.TxtMultiiTower_des5		1	1		塔防联机关卡内教学图2
+79	2000186	TxtTutorialDlcSupportTitle1	ui.TxtTutorialDlcSupport1					DLC后勤本炼心之战介绍
+80	2000019	TxtTutorialDefenseDLC07Title01	ui.TxtTutorialDefenseDLC0701		1	1		【DLC7荣誉冲突】背景
+80	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC7荣誉冲突】史诗系统
+80	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC7荣誉冲突】跳跃
+80	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC7荣誉冲突】限时挑战
+80	2000071	TxtTutorialDefenseTitle0802	ui.TxtTutorialDefense0802		1	1		【DLC7荣誉冲突】龙息令
+80	2000072	TxtTutorialDefenseTitle0803	ui.TxtTutorialDefense0803		1	1		【DLC7荣誉冲突】存档&局内商店
+80	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC7荣誉冲突】补给装置
+80	2000073	TxtTutorialDefenseTitle10	ui.TxtTutorialDefense10		1	1		【DLC7荣誉冲突】重置
+81	2000243	TxtTutorialVircaptureTitle1	ui.TxtTutorialVircapture1		1	1		新星开拓_概述
+81	2000245	TxtTutorialVircaptureTitle3	ui.TxtTutorialVircapture3		1	1		新星开拓_劝降名单
+81	2000246	TxtTutorialVircaptureTitle4	ui.TxtTutorialVircapture4		1	1		新星开拓_收编分配
+81	2000247	TxtTutorialVircaptureTitle5	ui.TxtTutorialVircapture5		1	1		新星开拓_关卡挑战
+81	2000248	TxtTutorialVircaptureTitle6	ui.TxtTutorialVircapture6		1	1		新星开拓_战斗环境
+81	2000249	TxtTutorialVircaptureTitle11	ui.TxtTutorialVircapture11		1	1		新星开拓_快捷劝降
+81	2000250	TxtTutorialVircaptureTitle12	ui.TxtTutorialVircapture12		1	1		新星开拓_钓鱼攻略
+81	2000369	TxtTutorialVircaptureTitle13	ui.TxtTutorialVircapture13		1	1		新星开拓_昼夜切换
+81	2000510	TxtTutorialVircaptureTitle14	ui.TxtTutorialVircapture14		1	1		新星开拓_蓝图岛
+82	2000192	TxtTutorialVircaptureTitle6	ui.TxtTutorialOnlineBoss5_1		1	1		DLC7联机BOSS挑战-概览
+82	2000193	TxtTutorialOnlineBossTitle5_2	ui.TxtTutorialOnlineBoss5_2		1	1		DLC7联机BOSS挑战-总伤害
+82	2000194	TxtTutorialOnlineBossTitle5_3	ui.TxtTutorialOnlineBoss5_3		1	1		DLC7联机BOSS挑战-BOSS
+82	2000195	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		DLC7联机BOSS挑战-奖励
+83	2000204	TxtTutorialVircaptureTitle7	ui.TxtTutorialVircapture7		1	1		新星开拓_关卡引导1
+84	2000205	TxtTutorialVircaptureTitle8	ui.TxtTutorialVircapture8		1	1		新星开拓_关卡引导2
+85	2000206	TxtTutorialVircaptureTitle9	ui.TxtTutorialVircapture9		1	1		新星开拓_关卡引导3
+85	2000207	TxtTutorialVircaptureTitle10	ui.TxtTutorialVircapture10		1	1		新星开拓_关卡引导4
+86	2000204	TxtTutorialVircaptureTitle7	ui.TxtTutorialVircapture7		1	1		新星开拓_帮助_关卡引导1
+86	2000205	TxtTutorialVircaptureTitle8	ui.TxtTutorialVircapture8		1	1		新星开拓_帮助_关卡引导2
+86	2000206	TxtTutorialVircaptureTitle9	ui.TxtTutorialVircapture9		1	1		新星开拓_帮助_关卡引导3
+86	2000207	TxtTutorialVircaptureTitle10	ui.TxtTutorialVircapture10		1	1		新星开拓_帮助_关卡引导4
+87	2000208	TxtTutorialOnlineBossTitle6_1	ui.TxtTutorialOnlineBoss6_1		1	1		DLC8联机BOSS挑战-概览
+87	2000209	TxtTutorialOnlineBossTitle6_2	ui.TxtTutorialOnlineBoss6_2		1	1		DLC8联机BOSS挑战-总伤害
+87	2000210	TxtTutorialOnlineBossTitle6_3	ui.TxtTutorialOnlineBoss6_3		1	1		DLC8联机BOSS挑战-BOSS
+87	2000211	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		DLC8联机BOSS挑战-奖励
+88	2000176	TxtMultiiTower_name4	ui.TxtMultiiTower_des4		1	1		塔防联机NEW
+89	2000225	TxtTutorialRepressionTitle1_4	ui.TxtTutorialRepression1		1	1		DLC8_危境战幕_概述
+89	2000227	TxtTutorialRepressionTitle3	ui.TxtTutorialRepression3		1	1		DLC8_危境战幕_临时阵地
+89	2000226	TxtTutorialRepressionTitle2	ui.TxtTutorialRepression2		1	1		DLC8_危境战幕_通行密钥
+89	2000228	TxtTutorialRepressionTitle4	ui.TxtTutorialRepression4		1	1		DLC8_危境战幕_战幕绩点
+89	2000229	TxtTutorialRepressionTitle5	ui.TxtTutorialRepression5		1	1		DLC8_危境战幕_驻守队伍
+89	2000230	TxtTutorialRepressionTitle6	ui.TxtTutorialRepression6_4		1	1		DLC8_危境战幕_战线挑战
+90	2000019	TxtTutorialDefense08_Main_Title	ui.TxtTutorialDefense08_Main		1	1		【DLC8荣誉冲突】主界面
+90	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC8荣誉冲突】难度选择
+90	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC8荣誉冲突】技巧挑战
+90	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC8荣誉冲突】史诗系统
+90	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC8荣誉冲突】重选难度
+90	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC8荣誉冲突】连杀
+90	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC8荣誉冲突】积分显示
+90	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC8荣誉冲突】局内暂停
+90	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC8荣誉冲突】跳跃
+90	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC8荣誉冲突】限时挑战
+90	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC8荣誉冲突】补给装置
+91	2000217	TxtDLC8Level13_05Defence_Name	ui.TxtDLC8Level13_05Defence_Des1		1	1		DLC8第五关教学图1
+91	2000218	TxtDLC8Level13_05Defence_Name	ui.TxtDLC8Level13_05Defence_Des2		1	1		DLC8第五关教学图2
+91	2000219	TxtDLC8Level13_05Defence_Name	ui.TxtDLC8Level13_05Defence_Des3		1	1		DLC8第五关教学图3
+92	2000221	TxtMonsterIntroTitle4	ui.TxtMonsterIntro4		1	1		低效部位
+93	2000223	TxtMonsterIntroTitle6	ui.TxtMonsterIntro6		1	1		普通护盾
+94	2000224	TxtMonsterIntroTitle1	ui.TxtMonsterIntro1		1	1		可破坏部位
+95	2000231	TxtMonsterIntroTitle7	ui.TxtMonsterIntro7		1	1		元素抗性
+96	2000220	TxtMonsterIntroTitle3	ui.TxtMonsterIntro3		1	1		弱点部位
+97	2000222	TxtMonsterIntroTitle2	ui.TxtMonsterIntro2		1	1		不可破坏部位
+98	2000239	TxtTutorialOnlineBossTitle7_1	ui.TxtTutorialOnlineBoss7_1		1	1		DLC9联机BOSS挑战-概览
+98	2000240	TxtTutorialOnlineBossTitle7_2	ui.TxtTutorialOnlineBoss7_2		1	1		DLC9联机BOSS挑战-总伤害
+98	2000241	TxtTutorialOnlineBossTitle7_3	ui.TxtTutorialOnlineBoss7_3		1	1		DLC9联机BOSS挑战-BOSS
+98	2000242	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		DLC9联机BOSS挑战-奖励
+99	2000234	TxtContainerBox1	ui.TxtContainerBox1_des		1	1		DLC9主线集装箱教学
+99	2000232	TxtContainerBox2	ui.TxtContainerBox2_des		1	1		DLC9主线集装箱教学
+100	2000233	TxtContainerBox3	ui.TxtContainerBox3_des		1	1		DLC9主线集装箱教学
+101	2000235	TxtTutorialRealTower01Title	ui.TxtTutorialRealTower01		1	1		DLC9战术考核优化
+101	2000236	TxtTutorialRealTower02Title	ui.TxtTutorialRealTower02		1	1		DLC9战术考核优化
+102	2000257	TxtTutorialRichManLoveTitle2	ui.TxtRichManLoveDes2		1	1		dlc9大富翁教学图1
+102	2000258	TxtTutorialRichManLoveTitle3	ui.TxtRichManLoveDes3		1	1		dlc9大富翁教学图2
+102	2000259	TxtTutorialRichManLoveTitle4	ui.TxtRichManLoveDes4		1	1		dlc9大富翁教学图3
+102	2000260	TxtTutorialRichManLoveTitle5	ui.TxtRichManLoveDes5		1	1		dlc9大富翁教学图4
+102	2000261	TxtTutorialRichManLoveTitle6	ui.TxtRichManLoveDes6		1	1		dlc9大富翁教学图5
+103	2000256	TxtTutorialRichManLoveTitle1	ui.TxtRichManLoveDes1		1	1		dlc9大富翁教学图特殊周说明
+104	2000259	TxtTutorialRichManLoveTitle4	ui.TxtRichManLoveDes4		1	1		dlc9大富翁教学图翻牌说明
+105	2000261	TxtTutorialRichManLoveTitle6	ui.TxtRichManLoveDes6		1	1		dlc9大富翁教学图图鉴说明
+108	2000019	TxtTutorialDefense09_Main_Title	ui.TxtTutorialDefense09_Main		1	1		【DLC9荣誉冲突】主界面
+108	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC9荣誉冲突】难度选择
+108	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC9荣誉冲突】技巧挑战
+108	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC9荣誉冲突】史诗系统
+108	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC9荣誉冲突】重选难度
+108	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC9荣誉冲突】连杀
+108	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC9荣誉冲突】积分显示
+108	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC9荣誉冲突】局内暂停
+108	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC9荣誉冲突】跳跃
+108	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC9荣誉冲突】限时挑战
+108	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC9荣誉冲突】补给装置
+109	2000286	TxtRogueMapTitle	rogue3.SeasonHelp1		1	1		【悖论迷宫】思维深潜已开启，请与少女们共同踏入这些曾经并肩作战的地方。
+109	2000287	TxtRogueTitleKey	rogue3.SeasonHelp2		1	1		【悖论迷宫】在迷宫推演中，上阵不同队员可获得不同类型的思维译码。
+109	2000288	TxtRogueMapTitle	rogue3.SeasonHelp3		1	1		【悖论迷宫】使用对应类型思维译码可以解锁思维深潜中的节点，持续推进，获取各种奖励。
+109	2000290	TxtRogueHelpMasterKey	rogue3.SeasonHelp4		1	1		【悖论迷宫】通关高难度的战局或成功挑战滚球关卡均可获得万用思维译码
+109	2000289	TxtDLC5.RogueExchange	rogue3.SeasonHelp5		1	1		【悖论迷宫】可以使用万用思维译码兑换任意类型的思维译码
+109	2000291	TxtOnlineHardTryRole	rogue3.SeasonHelp6		1	1		【悖论迷宫】如果感到挑战困难，可尝试使用试用队员进行战斗
+110	2000255	TxtLittleRobot1	ui.TxtLittleRobot1_des		1	1		DLC9主线小机器人切换教学
+111	2000266	TxtTutorialMassageTitle01	ui.TxtTutorialMassageDes01		1	1		按摩游戏教学1
+111	2000267	TxtTutorialMassageTitle02	ui.TxtTutorialMassageDes02		1	1		按摩游戏教学2
+111	2000268	TxtTutorialMassageTitle03	ui.TxtTutorialMassageDes03		1	1		按摩游戏教学3
+112	2000251	TxtTutorialCombine01Title	online.CombineHelpDes1		1	1		火线突击
+112	2000252	TxtTutorialCombine02Title	online.CombineHelpDes2		1	1		火线突击
+112	2000253	TxtTutorialCombine03Title	online.CombineHelpDes3		1	1		火线突击
+112	2000254	TxtTutorialCombine04Title	online.CombineHelpDes4		1	1		火线突击
+113	2000019	TxtTutorialDefense10_Main_Title	ui.TxtTutorialDefense10_Main		1	1		【DLC10荣誉冲突】主界面
+113	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC10荣誉冲突】难度选择
+113	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC10荣誉冲突】技巧挑战
+113	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC10荣誉冲突】史诗系统
+113	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC10荣誉冲突】重选难度
+113	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC10荣誉冲突】连杀
+113	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC10荣誉冲突】积分显示
+113	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC10荣誉冲突】局内暂停
+113	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC10荣誉冲突】跳跃
+113	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC10荣誉冲突】限时挑战
+113	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC10荣誉冲突】补给装置
+113	2000155	TxtTutorialDefense10_MG_Title	ui.TxtTutorialDefense10_MG		1	1		【DLC10荣誉冲突】机枪塔
+114	2000269	TxtDLC2_1Level13_31Moniter_Name1	ui.TxtDLC2_1Level13_31Moniter_Des1		1	1		2.1场景机制教学图1
+114	2000270	TxtDLC2_1Level13_31Moniter_Name2	ui.TxtDLC2_1Level13_31Moniter_Des2		1	1		2.1场景机制教学图2
+115	2000271	TxtTutorialOnlineBossTitle8_1	ui.TxtTutorialOnlineBoss8_1		1	1		2.1联机BOSS挑战-概览
+115	2000272	TxtTutorialOnlineBossTitle8_2	ui.TxtTutorialOnlineBoss8_2		1	1		2.1联机BOSS挑战-概览
+115	2000273	TxtTutorialOnlineBossTitle8_3	ui.TxtTutorialOnlineBoss8_3		1	1		2.1联机BOSS挑战-概览
+115	2000274	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		2.1联机BOSS挑战-概览
+								
+116	2000012	TxtMultiiTower07_name01	ui.TxtMultiiTower07_des01		1	1		塔防联机
+116	2000199	TxtMultiiTower07_name08	ui.TxtMultiiTower07_des08		1	1		塔防联机
+116	2000278	TxtMultiiTower07_name06	ui.TxtMultiiTower07_des06		1	1		塔防联机
+116	2000279	TxtMultiiTower07_name02	ui.TxtMultiiTower07_des02		1	1		塔防联机
+116	2000175	TxtMultiiTower07_name03	ui.TxtMultiiTower07_des03		1	1		塔防联机
+116	2000201	TxtMultiiTower07_name09	ui.TxtMultiiTower07_des09		1	1		塔防联机
+116	2000277	TxtMultiiTower07_name10	ui.TxtMultiiTower07_des10		1	1		塔防联机
+116	2000275	TxtMultiiTower07_name04	ui.TxtMultiiTower07_des04		1	1		塔防联机
+116	2000276	TxtMultiiTower07_name05	ui.TxtMultiiTower07_des05		1	1		塔防联机
+116	2000200	TxtMultiiTower_name10	ui.TxtMultiiTower_des10		1	1		塔防联机
+117	2000280	TxtTutorialStoneTitle	ui.TxtTutorialStone		1	1		【DLC2.2主线】滚石关卡
+118	2000281	TxtTutorialCarTitle	ui.TxtTutorialCar		1	1		【DLC2.2主线】推车关卡
+119	2000282	TxtTutorialMatchKillTitle	ui.TxtTutorialMatchKill		1	1		【DLC2.2主线】双消关卡
+120	2000283	TxtTutorialMalonKillTitle	ui.TxtTutorialMalonKill		1	1		【DLC2.2主线】打小球关卡
+121	2000284	TxtTutorialFanPlatFormTitle	ui.TxtTutorialFanPlatForm		1	1		【DLC2.2主线】螺旋桨平台关卡
+122	2000285	TxtTutorialRollerCoasterTitle	ui.TxtTutorialRollerCoaster		1	1		【DLC2.2主线】云霄飞车关卡
+123	2000292	TxtTutorialOnlineBossTitle9_1	ui.TxtTutorialOnlineBoss9_1		1	1		2.2联机BOSS挑战-概览
+123	2000293	TxtTutorialOnlineBossTitle9_2	ui.TxtTutorialOnlineBoss9_2		1	1		2.2联机BOSS挑战-概览
+123	2000294	TxtTutorialOnlineBossTitle9_3	ui.TxtTutorialOnlineBoss9_3		1	1		2.2联机BOSS挑战-概览
+123	2000295	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		2.2联机BOSS挑战-概览
+124	2000301	TxtForbidzone01_name01	ui.TxtForbidzone01_desc01		1	1		禁区协议
+124	2000302	TxtForbidzone01_name02	ui.TxtForbidzone01_desc02		1	1		禁区协议
+124	2000303	TxtForbidzone01_name03	ui.TxtForbidzone01_desc03		1	1		禁区协议
+124	2000304	TxtForbidzone01_name04	ui.TxtForbidzone01_desc04		1	1		禁区协议
+124	2000305	TxtForbidzone01_name05	ui.TxtForbidzone01_desc05		1	1		禁区协议
+124	2000306	TxtForbidzone01_name06	ui.TxtForbidzone01_desc06		1	1		禁区协议
+124	2000307	TxtForbidzone01_name07	ui.TxtForbidzone01_desc07		1	1		禁区协议
+124	2000308	TxtForbidzone01_name08	ui.TxtForbidzone01_desc08		1	1		禁区协议
+124	2000309	TxtForbidzone01_name09	ui.TxtForbidzone01_desc09		1	1		禁区协议
+124	2000414	TxtForbidzone01_name10	ui.TxtForbidzone01_desc10		1	1		禁区协议
+124	2000415	TxtForbidzone01_name11	ui.TxtForbidzone01_desc11		1	1		禁区协议
+125	2000296	TxtParty.hlepimgs_Title1	ui.TxtParty.hlepimgs_des1		1	1		海姆向前冲教学图1
+125	2000297	TxtParty.hlepimgs_Title2	ui.TxtParty.hlepimgs_des2		1	1		海姆向前冲教学图2
+125	2000298	TxtParty.hlepimgs_Title3	ui.TxtParty.hlepimgs_des3		1	1		海姆向前冲教学图3
+125	2000299	TxtParty.hlepimgs_Title4	ui.TxtParty.hlepimgs_des4		1	1		海姆向前冲教学图4
+125	2000300	TxtParty.hlepimgs_Title5	ui.TxtParty.hlepimgs_des5		1	1		海姆向前冲教学图5
+126	2000019	TxtTutorialDefense11_Main_Title	ui.TxtTutorialDefense11_Main		1	1		【DLC11荣誉冲突】主界面
+126	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC11荣誉冲突】难度选择
+126	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC11荣誉冲突】技巧挑战
+126	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC11荣誉冲突】史诗系统
+126	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC11荣誉冲突】重选难度
+126	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC11荣誉冲突】连杀
+126	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC11荣誉冲突】积分显示
+126	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC11荣誉冲突】局内暂停
+126	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC11荣誉冲突】跳跃
+126	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC11荣誉冲突】限时挑战
+126	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC11荣誉冲突】补给装置
+127	2000308	TxtForbidzone01_name08	ui.TxtForbidzone01_desc08		1	1		禁区协议-关卡内补给箱教学图
+128	2000019	TxtTutorialDefense23_Main_Title	ui.TxtTutorialDefense23_Main		1	1		【DLC2.3荣誉冲突】主界面
+128	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC2.3荣誉冲突】难度选择
+128	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC2.3荣誉冲突】技巧挑战
+128	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC2.3荣誉冲突】史诗系统
+128	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC2.3荣誉冲突】重选难度
+128	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC2.3荣誉冲突】连杀
+128	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC2.3荣誉冲突】积分显示
+128	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC2.3荣誉冲突】局内暂停
+128	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC2.3荣誉冲突】跳跃
+128	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC2.3荣誉冲突】限时挑战
+128	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC2.3荣誉冲突】补给装置
+128	2000155	TxtTutorialDefense10_MG_Title	ui.TxtTutorialDefense10_MG		1	1		【DLC2.3荣誉冲突】机枪塔
+129	2000310	TxtTutorialSevendaysTitle1_1	ui.TxtTutorialSevendays1_1		1	1		2.3七日派对
+129	2000311	TxtTutorialSevendaysTitle1_2	ui.TxtTutorialSevendays1_2		1	1		2.3七日派对
+129	2000321	TxtTutorialSevendaysTitle1_3	ui.TxtTutorialSevendays1_3		1	1		2.3七日派对
+129	2000322	TxtTutorialSevendaysTitle1_4	ui.TxtTutorialSevendays1_4		1	1		2.3七日派对
+129	2000323	TxtTutorialSevendaysTitle1_5	ui.TxtTutorialSevendays1_5		1	1		2.3七日派对
+129	2000324	TxtTutorialSevendaysTitle1_6	ui.TxtTutorialSevendays1_6		1	1		2.3七日派对
+129	2000325	TxtTutorialSevendaysTitle1_7	ui.TxtTutorialSevendays1_7		1	1		2.3七日派对
+130	2000312	TxtDLC2_3Level14_04Stepped_Name1	ui.TxtDLC2_3Level14_04Stepped_Des1		1	1		【DLC2.3主线关卡】走格子玩法教学图1
+130	2000313	TxtDLC2_3Level14_04Stepped_Name2	ui.TxtDLC2_3Level14_04Stepped_Des2		1	1		【DLC2.3主线关卡】走格子玩法教学图2
+131	2000012	TxtMultiiTower08_name01	ui.TxtMultiiTower08_des01		1	1		塔防联机
+131	2000399	TxtMultiiTower08_name11	ui.TxtMultiiTower08_des11		1	1		塔防联机
+131	2000199	TxtMultiiTower08_name02	ui.TxtMultiiTower08_des02		1	1		塔防联机
+131	2000175	TxtMultiiTower08_name03	ui.TxtMultiiTower08_des03		1	1		塔防联机
+131	2000314	TxtMultiiTower08_name04	ui.TxtMultiiTower08_des04		1	1		塔防联机
+131	2000315	TxtMultiiTower08_name05	ui.TxtMultiiTower08_des05		1	1		塔防联机
+131	2000319	TxtMultiiTower08_name06	ui.TxtMultiiTower08_des06		1	1		塔防联机
+131	2000317	TxtMultiiTower08_name07	ui.TxtMultiiTower08_des07		1	1		塔防联机
+131	2000316	TxtMultiiTower08_name08	ui.TxtMultiiTower08_des08		1	1		塔防联机
+131	2000320	TxtMultiiTower08_name09	ui.TxtMultiiTower08_des09		1	1		塔防联机
+131	2000318	TxtMultiiTower08_name10	ui.TxtMultiiTower08_des10		1	1		塔防联机
+132	2000321	TxtTutorialSevendaysTitle1_3	ui.TxtTutorialSevendays1_3		1	1		2.3七日派对-关卡引导
+133	2000322	TxtTutorialSevendaysTitle1_4	ui.TxtTutorialSevendays1_4		1	1		2.3七日派对-关卡引导
+134	2000323	TxtTutorialSevendaysTitle1_5	ui.TxtTutorialSevendays1_5		1	1		2.3七日派对-关卡引导
+135	2000324	TxtTutorialSevendaysTitle1_6	ui.TxtTutorialSevendays1_6		1	1		2.3七日派对-关卡引导
+136	2000325	TxtTutorialSevendaysTitle1_7	ui.TxtTutorialSevendays1_7		1	1		2.3七日派对-关卡引导
+137	2000326	TutorialOnlineHardTitle1	ui.TutorialOnlineHardDesc1		1	1		2.3火线突击系统引导
+137	2000327	TutorialOnlineHardTitle2	ui.TutorialOnlineHardDesc2		1	1		2.3火线突击系统引导
+137	2000328	TutorialOnlineHardTitle3	ui.TutorialOnlineHardDesc3		1	1		2.3火线突击系统引导
+137	2000329	TutorialOnlineHardTitle4	ui.TutorialOnlineHardDesc4		1	1		2.3火线突击系统引导
+137	2000330	TutorialOnlineHardTitle5	ui.TutorialOnlineHardDesc5		1	1		2.3火线突击系统引导
+137	2000331	TutorialOnlineHardTitle6	ui.TutorialOnlineHardDesc6		1	1		2.3火线突击系统引导
+138	2000327	TutorialOnlineHardTitle2	ui.TutorialOnlineHardDesc2		1	1		2.3火线突击关卡引导
+139	2000328	TutorialOnlineHardTitle3	ui.TutorialOnlineHardDesc3		1	1		2.3火线突击关卡引导
+140	2000329	TutorialOnlineHardTitle4	ui.TutorialOnlineHardDesc4		1	1		2.3火线突击关卡引导
+141	2000330	TutorialOnlineHardTitle5	ui.TutorialOnlineHardDesc5		1	1		2.3火线突击关卡引导
+142	2000331	TutorialOnlineHardTitle6	ui.TutorialOnlineHardDesc6		1	1		2.3火线突击关卡引导
+143	2000332	TxtTutorialOnlineBossTitle10_1	ui.TxtTutorialOnlineBoss10_1		1	1		2.3联机BOSS挑战-概览
+143	2000333	TxtTutorialOnlineBossTitle10_2	ui.TxtTutorialOnlineBoss10_2		1	1		2.3联机BOSS挑战-概览
+143	2000334	TxtTutorialOnlineBossTitle10_3	ui.TxtTutorialOnlineBoss10_3		1	1		2.3联机BOSS挑战-概览
+143	2000335	TxtTutorialOnlineBossTitle4	ui.TxtTutorialOnlineBoss4		1	1		2.3联机BOSS挑战-概览
+144	2000337	TxtTutorialBackPackTitle1	bagrogue.HelpDes1		1	1		背包肉鸽帮助图1
+144	2000338	TxtTutorialBackPackTitle2	bagrogue.HelpDes2		1	1		背包肉鸽帮助图1
+144	2000339	TxtTutorialBackPackTitle3	bagrogue.HelpDes3		1	1		背包肉鸽帮助图1
+144	2000340	TxtTutorialBackPackTitle4	bagrogue.HelpDes4		1	1		背包肉鸽帮助图1
+144	2000341	TxtTutorialBackPackTitle5	bagrogue.HelpDes5		1	1		背包肉鸽帮助图1
+144	2000342	TxtTutorialBackPackTitle6	bagrogue.HelpDes6		1	1		背包肉鸽帮助图1
+144	2000347	TxtTutorialBackPackTitle11	bagrogue.HelpDes11		1	1		背包肉鸽帮助图1
+144	2000343	TxtTutorialBackPackTitle7	bagrogue.HelpDes7		1	1		背包肉鸽帮助图1
+144	2000344	TxtTutorialBackPackTitle8	bagrogue.HelpDes8		1	1		背包肉鸽帮助图1
+144	2000408	TxtTutorialBackPackTitle12	bagrogue.HelpDes12		1	1		背包肉鸽帮助图1
+144	2000409	TxtTutorialBackPackTitle13	bagrogue.HelpDes13		1	1		背包肉鸽帮助图1
+144	2000345	TxtTutorialBackPackTitle9	bagrogue.HelpDes9		1	1		背包肉鸽帮助图1
+144	2000346	TxtTutorialBackPackTitle10	bagrogue.HelpDes10		1	1		背包肉鸽帮助图1
+145	2000341	TxtTutorialBackPackTitle5	bagrogue.HelpDes5		1	1		背包肉鸽帮助图2
+145	2000342	TxtTutorialBackPackTitle6	bagrogue.HelpDes6		1	1		背包肉鸽帮助图2
+145	2000347	TxtTutorialBackPackTitle11	bagrogue.HelpDes11		1	1		背包肉鸽帮助图2
+145	2000343	TxtTutorialBackPackTitle7	bagrogue.HelpDes7		1	1		背包肉鸽帮助图2
+145	2000344	TxtTutorialBackPackTitle8	bagrogue.HelpDes8		1	1		背包肉鸽帮助图2
+146	2000348	TxtTeamBoss.PicTitle1	ui.TxtTeamBoss.Picdes1		1	1		噬神斗场帮助图1
+146	2000349	TxtTeamBoss.PicTitle2	ui.TxtTeamBoss.Picdes2		1	1		噬神斗场帮助图2
+146	2000350	TxtTeamBoss.PicTitle3	ui.TxtTeamBoss.Picdes3		1	1		噬神斗场帮助图3
+146	2000351	TxtTeamBoss.PicTitle4	ui.TxtTeamBoss.Picdes4		1	1		噬神斗场帮助图4
+146	2000361	TxtTeamBoss.PicTitle5	ui.TxtTeamBoss.Picdes5		1	1		噬神斗场帮助图5
+								
+147	2000310	TxtTutorialSevendaysTitle1_1	ui.TxtTutorialSevendays1_1		1	1		2.4七日派对
+147	2000311	TxtTutorialSevendaysTitle1_2	ui.TxtTutorialSevendays1_2		1	1		2.4七日派对
+147	2000352	TxtTutorialSevendaysTitle1_24	ui.TxtTutorialSevendays1_24_1		1	1		2.4七日派对
+147	2000353	TxtTutorialSevendaysTitle1_24	ui.TxtTutorialSevendays1_24_2		1	1		2.4七日派对
+147	2000354	TxtTutorialSevendaysTitle2_24	ui.TxtTutorialSevendays2_24		1	1		2.4七日派对
+147	2000355	TxtTutorialSevendaysTitle3_24	ui.TxtTutorialSevendays3_24		1	1		2.4七日派对
+147	2000356	TxtTutorialSevendaysTitle4_24	ui.TxtTutorialSevendays4_24		1	1		2.4七日派对
+147	2000357	TxtTutorialSevendaysTitle5_24	ui.TxtTutorialSevendays5_24		1	1		2.4七日派对
+147	2000358	TxtTutorialSevendaysTitle6_24	ui.TxtTutorialSevendays6_24		1	1		2.4七日派对
+								
+148	2000352	TxtTutorialSevendaysTitle1_24	ui.TxtTutorialSevendays1_24_1		1	1		2.4七日派对
+148	2000353	TxtTutorialSevendaysTitle1_24	ui.TxtTutorialSevendays1_24_2		1	1		2.4七日派对
+								
+149	2000356	TxtTutorialSevendaysTitle4_24	ui.TxtTutorialSevendays4_24		1	1		2.4七日派对
+								
+150	2000019	TxtTutorialDefense24_Main_Title	ui.TxtTutorialDefense24_Main		1	1		【DLC24荣誉冲突】主界面
+150	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC24荣誉冲突】难度选择
+150	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC24荣誉冲突】技巧挑战
+150	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC24荣誉冲突】史诗系统
+150	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC24荣誉冲突】重选难度
+150	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC24荣誉冲突】连杀
+150	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC24荣誉冲突】积分显示
+150	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC24荣誉冲突】局内暂停
+150	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC24荣誉冲突】跳跃
+150	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC24荣誉冲突】限时挑战
+150	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC24荣誉冲突】补给装置
+								
+151	2000359	TxtTutorialLightPuzzleTitle	ui.TxtTutorialLightPuzzle01		1	1		【DLC24主线】act3光线解谜
+151	2000360	TxtTutorialLightPuzzleTitle	ui.TxtTutorialLightPuzzle02		1	1		【DLC24主线】act3光线解谜
+								
+152	2000382	TxtTutorialRogueScore_modelTitle1	ui.TxtTutorialRogueScore_modelTitle1_Des		1	1		悖论迷宫2.5赛季帮助测试版
+152	2000387	TxtTutorialRogueScore_modelTitle6	ui.TxtTutorialRogueScore_modelTitle6_Des		1	1		悖论迷宫2.5赛季帮助测试版
+152	2000534	TxtTutorialRogueScore_modelTitle7	ui.TxtTutorialRogueScore_modelTitle7_Des		1	1		悖论迷宫2.5赛季帮助测试版
+152	2000383	TxtTutorialRogueScore_modelTitle2	ui.TxtTutorialRogueScore_modelTitle2_Des		1	1		悖论迷宫2.5赛季帮助测试版
+152	2000385	TxtTutorialRogueScore_modelTitle4	ui.TxtTutorialRogueScore_modelTitle4_Des		1	1		悖论迷宫2.5赛季帮助测试版
+152	2000386	TxtTutorialRogueScore_modelTitle5	ui.TxtTutorialRogueScore_modelTitle5_Des		1	1		悖论迷宫2.5赛季帮助测试版
+152	2000479	TxtTutorialRogueScore_modelTitle21	ui.TxtTutorialRogueScore_modelTitle21_Des		1	1		悖论迷宫3.0赛季帮助-连击
+152	2000346	TxtTutorialRogueScore_modelTitle8	ui.TxtTutorialRogueScore_modelTitle8_Des		1	1		悖论迷宫2.5赛季帮助测试版
+152	2000384	TxtTutorialRogueScore_modelTitle3	ui.TxtTutorialRogueScore_modelTitle3_Des		1	1		悖论迷宫2.5赛季帮助测试版
+153	2000386	TxtTutorialRogueScore_modelTitle9	ui.TxtTutorialRogueScore_modelTitle9_Des		1	1		悖论迷宫2.5赛季帮助测试版2
+153	2000390	TxtTutorialRogueScore_modelTitle10	ui.TxtTutorialRogueScore_modelTitle10_Des		1	1		悖论迷宫2.5赛季帮助测试版2
+153	2000391	TxtTutorialRogueScore_modelTitle11	ui.TxtTutorialRogueScore_modelTitle11_Des		1	1		悖论迷宫2.5赛季帮助测试版2
+153	2000392	TxtTutorialRogueScore_modelTitle12	ui.TxtTutorialRogueScore_modelTitle12_Des		1	1		悖论迷宫2.5赛季帮助测试版2
+153	2000393	TxtTutorialRogueScore_modelTitle13	ui.TxtTutorialRogueScore_modelTitle13_Des		1	1		悖论迷宫2.5赛季帮助测试版2
+153	2000387	TxtTutorialRogueScore_modelTitle14	ui.TxtTutorialRogueScore_modelTitle14_Des		1	1		悖论迷宫2.5赛季帮助测试版2
+154	2000386	TxtTutorialRogueScore_modelTitle15	ui.TxtTutorialRogueScore_modelTitle15_Des		1	1		悖论迷宫2.5赛季帮助测试版3
+154	2000387	TxtTutorialRogueScore_modelTitle16	ui.TxtTutorialRogueScore_modelTitle16_Des		1	1		悖论迷宫2.5赛季帮助测试版3
+154	2000394	TxtTutorialRogueScore_modelTitle17	ui.TxtTutorialRogueScore_modelTitle17_Des		1	1		悖论迷宫2.5赛季帮助测试版3
+154	2000395	TxtTutorialRogueScore_modelTitle18	ui.TxtTutorialRogueScore_modelTitle18_Des		1	1		悖论迷宫2.5赛季帮助测试版3
+154	2000396	TxtTutorialRogueScore_modelTitle19	ui.TxtTutorialRogueScore_modelTitle19_Des		1	1		悖论迷宫2.5赛季帮助测试版3
+								
+155	2000362	Alien_GuideTitle01	ui.Alien_GuideDes01		1	1		异星守护教学图1
+155	2000526	Alien_GuideTitle08	ui.Alien_GuideDes08		1	1		异星守护教学图2
+155	2000525	Alien_GuideTitle09	ui.Alien_GuideDes09		1	1		异星守护教学图3
+155	2000363	Alien_GuideTitle02	ui.Alien_GuideDes02		1	1		异星守护教学图4
+155	2000364	Alien_GuideTitle03	ui.Alien_GuideDes03		1	1		异星守护教学图5
+155	2000685	Alien_GuideTitle10	ui.Alien_GuideDes10		1	1		异星守护教学图10
+155	2000365	Alien_GuideTitle04	ui.Alien_GuideDes04		1	1		异星守护教学图6
+155	2000366	Alien_GuideTitle05	ui.Alien_GuideDes05		1	1		异星守护教学图7
+155	2000367	Alien_GuideTitle06	ui.Alien_GuideDes06		1	1		异星守护教学图8
+155	2000368	Alien_GuideTitle07	ui.Alien_GuideDes07		1	1		异星守护教学图9
+								
+156	2000019	TxtTutorialDefense25_Main_Title	ui.TxtTutorialDefense25_Main		1	1		【DLC25荣誉冲突】主界面
+156	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC25荣誉冲突】难度选择
+156	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC25荣誉冲突】技巧挑战
+156	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC25荣誉冲突】史诗系统
+156	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC25荣誉冲突】重选难度
+156	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC25荣誉冲突】连杀
+156	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC25荣誉冲突】积分显示
+156	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC25荣誉冲突】局内暂停
+156	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC25荣誉冲突】跳跃
+156	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC25荣誉冲突】限时挑战
+156	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC25荣誉冲突】补给装置
+								
+157	2000377	TxtDLC25Title_01	ui.TxtDLC25txt_01		1	1		【DLC25主线】飞鸟交互01
+157	2000378	TxtDLC25Title_02	ui.TxtDLC25txt_02		1	1		【DLC25主线】飞鸟交互02
+158	2000379	TxtDLC25Title_03	ui.TxtDLC25txt_03		1	1		【DLC25主线】飞鸟升降
+159	2000380	TxtDLC25Title_04	ui.TxtDLC25txt_04		1	1		【DLC25主线】表里世界切换
+160	2000381	TxtDLC25Title_05	ui.TxtDLC25txt_05		1	1		【DLC25主线】集装箱
+								
+161	2000374	TxtDLC25Title_06	ui.TxtDLC25txt_06		1	1		【DLC25主线】精英怪教学图1
+161	2000375	TxtDLC25Title_06	ui.TxtDLC25txt_07		1	1		【DLC25主线】精英怪教学图2
+161	2000376	TxtDLC25Title_06	ui.TxtDLC25txt_08		1	1		【DLC25主线】精英怪教学图3
+								
+								
+162	2000296	TxtParty.hlepimgs_Title1	ui.TxtParty.hlepimgs_des1		1	1		海姆向前冲教学图1
+162	2000397	TxtParty.hlepimgs_Title6	ui.TxtParty.hlepimgs_des6		1	1		2.5海姆向前冲教学图1
+162	2000398	TxtParty.hlepimgs_Title7	ui.TxtParty.hlepimgs_des7		1	1		2.5海姆向前冲教学图2
+162	2000297	TxtParty.hlepimgs_Title2	ui.TxtParty.hlepimgs_des2		1	1		海姆向前冲教学图2
+162	2000298	TxtParty.hlepimgs_Title3	ui.TxtParty.hlepimgs_des3		1	1		海姆向前冲教学图3
+162	2000299	TxtParty.hlepimgs_Title4	ui.TxtParty.hlepimgs_des4		1	1		海姆向前冲教学图4
+162	2000300	TxtParty.hlepimgs_Title5	ui.TxtParty.hlepimgs_des5		1	1		海姆向前冲教学图5
+								
+163	2000400	TxtRoulette.helpimgs_Title1	ui.TxtRoulette.helpimgs_des1		1	1		心动水弹教学图1
+163	2000401	TxtRoulette.helpimgs_Title2	ui.TxtRoulette.helpimgs_des2		1	1		心动水弹教学图2
+163	2000402	TxtRoulette.helpimgs_Title3	ui.TxtRoulette.helpimgs_des3		1	1		心动水弹教学图3
+163	2000403	TxtRoulette.helpimgs_Title4	ui.TxtRoulette.helpimgs_des4		1	1		心动水弹教学图4
+163	2000404	TxtRoulette.helpimgs_Title5	ui.TxtRoulette.helpimgs_des5		1	1		心动水弹教学图5
+163	2000405	TxtRoulette.helpimgs_Title6	ui.TxtRoulette.helpimgs_des6		1	1		心动水弹教学图6
+163	2000406	TxtRoulette.helpimgs_Title7	ui.TxtRoulette.helpimgs_des7		1	1		心动水弹教学图7
+163	2000407	TxtRoulette.helpimgs_Title8	ui.TxtRoulette.helpimgs_des8		1	1		心动水弹教学图8
+								
+164	2000448	Alien_Inlevel_GuideTitle05	ui.Alien_Inlevel_GuideDes05		1	1		异星守护二期PC关卡内教学图1
+164	2000449	Alien_Inlevel_GuideTitle06	ui.Alien_Inlevel_GuideDes06		1	1		异星守护二期PC关卡内教学图2
+164	2000370	Alien_Inlevel_GuideTitle01	ui.Alien_Inlevel_GuideDes01		1	1		异星守护二期PC关卡内教学图3
+164	2000371	Alien_Inlevel_GuideTitle02	ui.Alien_Inlevel_GuideDes02		1	1		异星守护二期PC关卡内教学图4
+164	2000372	Alien_Inlevel_GuideTitle03	ui.Alien_Inlevel_GuideDes03		1	1		异星守护二期PC关卡内教学图5
+164	2000373	Alien_Inlevel_GuideTitle04	ui.Alien_Inlevel_GuideDes04		1	1		异星守护二期PC关卡内教学图6
+								
+165	2000310	TxtTutorialSevendaysTitle1_1	ui.TxtTutorialSevendays1_1		1	1		2.6七日派对
+165	2000311	TxtTutorialSevendaysTitle1_2	ui.TxtTutorialSevendays1_2		1	1		2.6七日派对
+165	2000418	TxtTutorialSevendaysTitle1_26	ui.TxtTutorialSevendays1_26		1	1		2.6七日派对-正常
+165	2000419	TxtTutorialSevendaysTitle2_26	ui.TxtTutorialSevendays2_26		1	1		2.6七日派对-漂移
+165	2000420	TxtTutorialSevendaysTitle3_26	ui.TxtTutorialSevendays3_26		1	1		2.6七日派对-道具
+165	2000426	TxtTutorialSevendaysTitle8_26	ui.TxtTutorialSevendays8_26		1	1		2.6七日派对
+165	2000427	TxtTutorialSevendaysTitle9_26	ui.TxtTutorialSevendays9_26		1	1		2.6七日派对
+165	2000428	TxtTutorialSevendaysTitle10_26	ui.TxtTutorialSevendays10_26		1	1		2.6七日派对
+165	2000425	TxtTutorialSevendaysTitle11_26	ui.TxtTutorialSevendays11_26		1	1		2.6七日派对
+								
+166	2000410	TxtTutorialLuckyTitle01	ui.TxtTutorialLuckyDes01		1	1		2.6纷愿绮梦教学图1
+166	2000411	TxtTutorialLuckyTitle02	ui.TxtTutorialLuckyDes02		1	1		2.6纷愿绮梦教学图2
+166	2000412	TxtTutorialLuckyTitle03	ui.TxtTutorialLuckyDes03		1	1		2.6纷愿绮梦教学图3
+166	2000413	TxtTutorialLuckyTitle04	ui.TxtTutorialLuckyDes04		1	1		2.6纷愿绮梦教学图4
+								
+167	2000019	TxtTutorialDefense26_Main_Title	ui.TxtTutorialDefense26_Main		1	1		【DLC8荣誉冲突】主界面
+167	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC8荣誉冲突】难度选择
+167	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC8荣誉冲突】技巧挑战
+167	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC8荣誉冲突】史诗系统
+167	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC8荣誉冲突】重选难度
+167	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC8荣誉冲突】连杀
+167	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC8荣誉冲突】积分显示
+167	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC8荣誉冲突】局内暂停
+167	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC8荣誉冲突】跳跃
+167	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC8荣誉冲突】限时挑战
+167	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC8荣誉冲突】补给装置
+								
+168	2000409	TxtTutorialBackPackTitle13	bagrogue.HelpDes13		1	1		背包肉鸽帮助图3
+								
+169	2000418	TxtTutorialSevendaysTitle1_26	ui.TxtTutorialSevendays1_26		1	1		2.6七日派对-关卡引导-扭扭车PC端
+169	2000419	TxtTutorialSevendaysTitle2_26	ui.TxtTutorialSevendays2_26		1	1		2.6七日派对-关卡引导-扭扭车PC端
+169	2000420	TxtTutorialSevendaysTitle3_26	ui.TxtTutorialSevendays3_26		1	1		2.6七日派对-关卡引导-扭扭车PC端
+								
+170	2000418	TxtTutorialSevendaysTitle5_26	ui.TxtTutorialSevendays5_26		1	1		2.6七日派对-关卡引导-扭扭车手机端-转向
+170	2000419	TxtTutorialSevendaysTitle7_26	ui.TxtTutorialSevendays7_26		1	1		2.6七日派对-关卡引导-扭扭车手机端-刹车
+170	2000420	TxtTutorialSevendaysTitle4_26	ui.TxtTutorialSevendays4_26		1	1		2.6七日派对-关卡引导-扭扭车手机端-刹车
+								
+171	2000426	TxtTutorialSevendaysTitle8_26	ui.TxtTutorialSevendays8_26		1	1		2.6七日派对-关卡引导-气球挑战
+171	2000427	TxtTutorialSevendaysTitle9_26	ui.TxtTutorialSevendays9_26		1	1		2.6七日派对-关卡引导-气球挑战
+171	2000428	TxtTutorialSevendaysTitle10_26	ui.TxtTutorialSevendays10_26		1	1		2.6七日派对-关卡引导-气球挑战
+								
+172	2000425	TxtTutorialSevendaysTitle11_26	ui.TxtTutorialSevendays11_26		1	1		2.6七日派对-关卡引导-推进挑战
+								
+173	2000434	TxtGirlrushGuideTitle01	ui.TxtGirlrushGuidedes01		1	1		2.7异绪消解
+173	2000435	TxtGirlrushGuideTitle02	ui.TxtGirlrushGuidedes02		1	1		2.7异绪消解
+173	2000436	TxtGirlrushGuideTitle03	ui.TxtGirlrushGuidedes03		1	1		2.7异绪消解
+173	2000437	TxtGirlrushGuideTitle04	ui.TxtGirlrushGuidedes04		1	1		2.7异绪消解
+								
+174	2000012	TxtMultiiTower10_name04	ui.TxtMultiiTower10_des04		1	1		塔防联机
+174	2000399	TxtMultiiTower08_name11	ui.TxtMultiiTower08_des11		1	1		塔防联机
+174	2000199	TxtMultiiTower08_name02	ui.TxtMultiiTower08_des02		1	1		塔防联机
+174	2000175	TxtMultiiTower08_name03	ui.TxtMultiiTower08_des03		1	1		塔防联机
+174	2000314	TxtMultiiTower08_name04	ui.TxtMultiiTower08_des04		1	1		塔防联机
+174	2000315	TxtMultiiTower08_name05	ui.TxtMultiiTower08_des05		1	1		塔防联机
+174	2000431	TxtMultiiTower10_name02	ui.TxtMultiiTower10_des02		1	1		塔防联机_新机枪
+174	2000432	TxtMultiiTower10_name03	ui.TxtMultiiTower10_des03		1	1		塔防联机_特殊怪
+174	2000316	TxtMultiiTower08_name08	ui.TxtMultiiTower08_des08		1	1		塔防联机
+174	2000433	TxtMultiiTower10_name01	ui.TxtMultiiTower10_des01		1	1		塔防联机_空投
+174	2000616	TxtMultiiTower12_name01	ui.TxtMultiiTower12_des01		1	1		3.4绝地防线
+174	2000617	TxtMultiiTower12_name02	ui.TxtMultiiTower12_des02		1	1		3.4绝地防线
+174	2000618	TxtMultiiTower12_name03	ui.TxtMultiiTower12_des03		1	1		3.4绝地防线
+174	2000619	TxtMultiiTower12_name04	ui.TxtMultiiTower12_des04		1	1		3.4绝地防线
+								
+175	2000429	TxtDLC27BoxTitle_01	ui.TxtDLC27BoxTxt_01		1	1		【DLC27主线】推箱子01
+175	2000430	TxtDLC27BoxTitle_02	ui.TxtDLC27BoxTxt_02		1	1		【DLC27主线】推箱子02
+								
+176	2000296	TxtParty.hlepimgs_Title1	ui.TxtParty.hlepimgs_des1		1	1		海姆向前冲教学图1
+176	2000398	TxtParty.hlepimgs_Title7	ui.TxtParty.hlepimgs_des7		1	1		2.5海姆向前冲教学图2
+176	2000297	TxtParty.hlepimgs_Title2	ui.TxtParty.hlepimgs_des2		1	1		海姆向前冲教学图2
+176	2000298	TxtParty.hlepimgs_Title3	ui.TxtParty.hlepimgs_des3		1	1		海姆向前冲教学图3
+176	2000299	TxtParty.hlepimgs_Title4	ui.TxtParty.hlepimgs_des4		1	1		海姆向前冲教学图4
+176	2000300	TxtParty.hlepimgs_Title5	ui.TxtParty.hlepimgs_des5		1	1		海姆向前冲教学图5
+								
+177	2000019	TxtTutorialDefense27_Main_Title	ui.TxtTutorialDefense27_Main		1	1		【DLC27荣誉冲突】主界面
+177	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC27荣誉冲突】难度选择
+177	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC27荣誉冲突】技巧挑战
+177	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC27荣誉冲突】史诗系统
+177	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC27荣誉冲突】重选难度
+177	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC27荣誉冲突】连杀
+177	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC27荣誉冲突】积分显示
+177	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC27荣誉冲突】局内暂停
+177	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC27荣誉冲突】跳跃
+177	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC27荣誉冲突】限时挑战
+177	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC27荣誉冲突】补给装置
+								
+178	2000019	TxtTutorialDefense28_Main_Title	ui.TxtTutorialDefense28_Main		1	1		【DLC2.8荣誉冲突】主界面
+178	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC2.8荣誉冲突】难度选择
+178	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC2.8荣誉冲突】技巧挑战
+178	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC2.8荣誉冲突】史诗系统
+178	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC2.8荣誉冲突】重选难度
+178	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC2.8荣誉冲突】连杀
+178	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC2.8荣誉冲突】积分显示
+178	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC2.8荣誉冲突】局内暂停
+178	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC2.8荣誉冲突】跳跃
+178	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC2.8荣誉冲突】限时挑战
+178	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC2.8荣誉冲突】补给装置
+178	2000155	TxtTutorialDefense10_MG_Title	ui.TxtTutorialDefense10_MG		1	1		【DLC2.8荣誉冲突】机枪塔
+								
+179	2000443	TxtTutorialNitaMonopoly_Main_Title1	ui.TxtTutorialNitaMonopoly_Des1		1	1		【DLC2.7妮塔之邀】玩法
+179	2000444	TxtTutorialNitaMonopoly_Main_Title2	ui.TxtTutorialNitaMonopoly_Des2		1	1		【DLC2.7妮塔之邀】玩法
+179	2000445	TxtTutorialNitaMonopoly_Main_Title3	ui.TxtTutorialNitaMonopoly_Des3		1	1		【DLC2.7妮塔之邀】玩法
+179	2000446	TxtTutorialNitaMonopoly_Main_Title4	ui.TxtTutorialNitaMonopoly_Des4		1	1		【DLC2.7妮塔之邀】玩法
+179	2000447	TxtTutorialNitaMonopoly_Main_Title5	ui.TxtTutorialNitaMonopoly_Des5		1	1		【DLC2.7妮塔之邀】玩法
+								
+180	2000445	TxtTutorialNitaMonopoly_Main_Title3	ui.TxtTutorialNitaMonopoly_Des3					【DLC2.7妮塔之邀】种植
+181	2000446	TxtTutorialNitaMonopoly_Main_Title4	ui.TxtTutorialNitaMonopoly_Des4					【DLC2.7妮塔之邀】奇物
+								
+182	2000450	TxtTutorialBackPackTitle14	bagrogue.HelpDes14		1	1		背包肉鸽帮助图4
+182	2000451	TxtTutorialBackPackTitle15	bagrogue.HelpDes15		1	1		背包肉鸽帮助图4
+182	2000452	TxtTutorialBackPackTitle16	bagrogue.HelpDes16		1	1		背包肉鸽帮助图4
+								
+183	2000456	TxtMonsterIntroTitle13	ui.TxtMonsterIntro8		1	1		战斗内能质护盾教学图1
+								
+184	2000310	TxtTutorialSevendaysTitle1_1	ui.TxtTutorialSevendays1_1		1	1		2.8七日派对
+184	2000311	TxtTutorialSevendaysTitle1_2	ui.TxtTutorialSevendays1_2		1	1		2.8七日派对
+								
+185	2000453	TxtTowerRush	ui.TxtTowerRush_help1		1	1		2.8脉冲连袭
+185	2000454	TxtTowerRush	ui.TxtTowerRush_help2		1	1		2.8脉冲连袭
+185	2000455	TxtTowerRush	ui.TxtTowerRush_help3		1	1		2.8脉冲连袭
+185	2000597	TxtTowerRush_Title11	ui.TxtTowerRush_help11		1	1		脉冲连袭
+								
+186	2000457	TxtTowerRush	ui.TxtTowerRush_help4		1	1		2.8脉冲连袭局内一
+								
+187	2000458	TxtTowerRush	ui.TxtTowerRush_help5		1	1		2.8脉冲连袭局内二
+187	2000459	TxtTowerRush	ui.TxtTowerRush_help6		1	1		2.8脉冲连袭局内二
+187	2000460	TxtTowerRush	ui.TxtTowerRush_help7		1	1		2.8脉冲连袭局内二
+187	2000594	TxtTowerRush	ui.TxtTowerRush_help8		1	1		【DLC33脉冲连袭】局内教学图
+								
+188	2000480	TxtTutorialRogueScore_modelTitle20	ui.TxtTutorialRogueScore_modelTitle20_Des		1	1		悖论迷宫怪物图鉴说明
+								
+189	2000473	TxtDLC2_8Level15_22Blink_Name1	ui.TxtDLC2_8Level15_22Blink_Des1		1	1		DLC2.8主线跃迁装置教学图
+								
+190	2000475	TxtDLC2_8Level15_22Pressure_Name1	ui.TxtDLC2_8Level15_22Pressure_Des1		1	1		DLC2.8主线压感装置教学图
+								
+191	2000476	TxtDLC2_8Level15_23Pressure_Name1	ui.TxtDLC2_8Level15_23Pressure_Des1		1	1		DLC2.8主线限制型跃迁平台教学图
+								
+192	2000461	TxtTutorialSevendaysTitle1_28	ui.TxtTutorialSevendays1_28		1	1		2.8七日派对传送门
+192	2000462	TxtTutorialSevendaysTitle2_28	ui.TxtTutorialSevendays2_28		1	1		2.8七日派对传送门
+192	2000463	TxtTutorialSevendaysTitle3_28	ui.TxtTutorialSevendays3_28		1	1		2.8七日派对传送门
+								
+193	2000466	TxtTutorialSevendaysTitle4_28	ui.TxtTutorialSevendays4_28		1	1		2.8七日派对突进挑战
+193	2000467	TxtTutorialSevendaysTitle5_28	ui.TxtTutorialSevendays5_28		1	1		2.8七日派对突进挑战
+193	2000468	TxtTutorialSevendaysTitle6_28	ui.TxtTutorialSevendays6_28		1	1		2.8七日派对突进挑战
+								
+194	2000464	TxtTutorialSevendaysTitle7_28	ui.TxtTutorialSevendays7_28		1	1		2.8七日派对消消乐
+194	2000465	TxtTutorialSevendaysTitle8_28	ui.TxtTutorialSevendays8_28		1	1		2.8七日派对消消乐
+								
+195	2000469	TxtTutorialSevendaysTitle9_28	ui.TxtTutorialSevendays9_28		1	1		2.8七日派对箭靶挑战
+195	2000470	TxtTutorialSevendaysTitle10_28	ui.TxtTutorialSevendays10_28		1	1		2.8七日派对箭靶挑战
+195	2000471	TxtTutorialSevendaysTitle11_28	ui.TxtTutorialSevendays11_28		1	1		2.8七日派对箭靶挑战
+195	2000472	TxtTutorialSevendaysTitle12_28	ui.TxtTutorialSevendays12_28		1	1		2.8七日派对箭靶挑战
+								
+196	2000477	TxtDLC30BuffBoxTitle_01	ui.TxtDLC30BuffBoxTxt_01		1	1		3.0禁区协议buff装置教学
+								
+197	2000474	TxtDLC2_8Level15_22Blink_Name1	ui.TxtDLC2_8Level15_22Blink_Des2		1	1		DLC2.8主线传送教学图
+								
+198	2000478	TxtDLC2_8Level15_22Blink_Name4	ui.TxtDLC2_8Level15_22Blink_Des4		1	1		DLC2.8主线传送教学图移动端
+								
+199	2000473	TxtDLC2_8Level15_22Blink_Name3	ui.TxtDLC2_8Level15_22Blink_Des3		1	1		DLC2.8主线跃迁装置教学图移动端
+								
+200	2000019	TxtTutorialDefense30_Main_Title	ui.TxtTutorialDefense30_Main		1	1		【DLC3.0荣誉冲突】主界面
+200	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC3.0荣誉冲突】难度选择
+200	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC3.0荣誉冲突】技巧挑战
+200	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC3.0荣誉冲突】史诗系统
+200	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC3.0荣誉冲突】重选难度
+200	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC3.0荣誉冲突】连杀
+200	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC3.0荣誉冲突】积分显示
+200	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC3.0荣誉冲突】局内暂停
+200	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC3.0荣誉冲突】跳跃
+200	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC3.0荣誉冲突】限时挑战
+200	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC3.0荣誉冲突】补给装置
+200	2000155	TxtTutorialDefense10_MG_Title	ui.TxtTutorialDefense10_MG		1	1		【DLC3.0荣誉冲突】机枪塔
+								
+201	2000496	TxtDlc3_0Tutorial_GuessPoker01Title	ui.TxtDlc3_0Tutorial_GuessPoker01Desc		1	1		DLC3.0酒馆小游戏教程图
+201	2000497	TxtDlc3_0Tutorial_GuessPoker02Title	ui.TxtDlc3_0Tutorial_GuessPoker02Desc		1	1		DLC3.0酒馆小游戏教程图
+201	2000498	TxtDlc3_0Tutorial_GuessPoker03Title	ui.TxtDlc3_0Tutorial_GuessPoker03Desc		1	1		DLC3.0酒馆小游戏教程图
+201	2000499	TxtDlc3_0Tutorial_GuessPoker04Title	ui.TxtDlc3_0Tutorial_GuessPoker04Desc		1	1		DLC3.0酒馆小游戏教程图
+201	2000500	TxtDlc3_0Tutorial_GuessPoker05Title	ui.TxtDlc3_0Tutorial_GuessPoker05Desc		1	1		DLC3.0酒馆小游戏教程图
+201	2000501	TxtDlc3_0Tutorial_GuessPoker06Title	ui.TxtDlc3_0Tutorial_GuessPoker06Desc		1	1		DLC3.0酒馆小游戏教程图
+201	2000502	TxtDlc3_0Tutorial_GuessPoker07Title	ui.TxtDlc3_0Tutorial_GuessPoker07Desc		1	1		DLC3.0酒馆小游戏教程图
+201	2000503	TxtDlc3_0Tutorial_GuessPoker08Title	ui.TxtDlc3_0Tutorial_GuessPoker08Desc		1	1		DLC3.0酒馆小游戏教程图
+201	2000504	TxtDlc3_0Tutorial_GuessPoker09Title	ui.TxtDlc3_0Tutorial_GuessPoker09Desc		1	1		DLC3.0酒馆小游戏教程图
+								
+202	2000485	TextTutorialFarmWarEnergyPlantTitle	ui.TextTutorialFarmWarEnergyPlant		1	1		【DLC30FarmWar】能量植物
+202	2000486	TextTutorialFarmWarFightPlantTitle	ui.TextTutorialFarmWarFightPlant		1	1		【DLC30FarmWar】攻击植物
+202	2000484	TextTutorialFarmWarPlantTitle	ui.TextTutorialFarmWarPlant		1	1		【DLC30FarmWar】种植
+202	2000483	TextTutorialFarmWarDefendLineTitle	ui.TextTutorialFarmWarDefendLine		1	1		【DLC30FarmWar】防线与防线血量
+204	2000488	TextTutorialFarmWarBuffMachineTitle	ui.TextTutorialFarmWarBuffMachine		1	1		【DLC30FarmWar】增益机
+204	2000487	TextTutorialFarmWarMonsterDropTitle	ui.TextTutorialFarmWarMonsterDrop		1	1		【DLC30FarmWar】怪物掉落
+211	2000489	TextTutorialFarmWarSpicyBombTitle	ui.TextTutorialFarmWarSpicyBomb		1	1		【DLC30FarmWar】辣椒炸弹
+203	2000490	TextTutorialFarmWarAirWarTitle	ui.TextTutorialFarmWarAirWar		1	1		【DLC30FarmWar】空战
+								
+205	2000481	VisualPuzzle_GuideTitle01	ui.VisualPuzzle_GuideDes01		1	1		DLC30主线视觉错位解密教学图1
+205	2000482	VisualPuzzle_GuideTitle02	ui.VisualPuzzle_GuideDes02		1	1		DLC30主线视觉错位解密教学图2
+								
+206	2000491	TxtTutorialNewstarBuildTitle1_30	ui.TxtTutorialNewstarBuild1_30		1	1		【DLC30新星开拓】捡金币玩法教学图
+207	2000492	TxtTutorialNewstarBuildTitle2_30	ui.TxtTutorialNewstarBuild2_30		1	1		【DLC30新星开拓】任务界面传送教学图
+208	2000493	TxtTutorialNewstarBuildTitle3_30	ui.TxtTutorialNewstarBuild3_30		1	1		【DLC30新星开拓】大地图传送教学图
+209	2000494	TxtTutorialNewstarBuildTitle4_30	ui.TxtTutorialNewstarBuild4_30		1	1		【DLC30新星开拓】岛屿升级教学图1
+209	2000495	TxtTutorialNewstarBuildTitle5_30	ui.TxtTutorialNewstarBuild5_30		1	1		【DLC30新星开拓】岛屿升级教学图2
+								
+210	2000505	TextTutorialFarmWarOutTitle1	ui.TextTutorialFarmWarOut1		1	1		【DLC30FarmWar】外围
+210	2000506	TextTutorialFarmWarOutTitle2	ui.TextTutorialFarmWarOut2		1	1		【DLC30FarmWar】外围
+210	2000507	TextTutorialFarmWarOutTitle3	ui.TextTutorialFarmWarOut3		1	1		【DLC30FarmWar】外围
+210	2000508	TextTutorialFarmWarOutTitle4	ui.TextTutorialFarmWarOut4		1	1		【DLC30FarmWar】外围
+210	2000509	TextTutorialFarmWarOutTitle5	ui.TextTutorialFarmWarOut5		1	1		【DLC30FarmWar】外围
+								
+212	2000019	TxtTutorialDefense31_Main_Title	ui.TxtTutorialDefense31_Main		1	1		【DLC3.1荣誉冲突】主界面
+212	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC3.1荣誉冲突】难度选择
+212	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC3.1荣誉冲突】技巧挑战
+212	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC3.1荣誉冲突】史诗系统
+212	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC3.1荣誉冲突】重选难度
+212	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC3.1荣誉冲突】连杀
+212	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC3.1荣誉冲突】积分显示
+212	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC3.1荣誉冲突】局内暂停
+212	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC3.1荣誉冲突】跳跃
+212	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC3.1荣誉冲突】限时挑战
+212	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC3.1荣誉冲突】补给装置
+212	2000155	TxtTutorialDefense10_MG_Title	ui.TxtTutorialDefense10_MG		1	1		【DLC3.1荣誉冲突】机枪塔
+								
+213	2000530	TxtTutorialRogueScore_modelTitle22	ui.TxtTutorialRogueScore_modelTitle22_Des		1	1		dlc3.2悖论迷宫-无人机
+213	2000531	TxtTutorialRogueScore_modelTitle23	ui.TxtTutorialRogueScore_modelTitle23_Des		1	1		dlc3.2悖论迷宫-核心与技能
+213	2000532	TxtTutorialRogueScore_modelTitle24	ui.TxtTutorialRogueScore_modelTitle24_Des		1	1		dlc3.2悖论迷宫-无人机改造
+213	2000533	TxtTutorialRogueScore_modelTitle25	ui.TxtTutorialRogueScore_modelTitle25_Des		1	1		dlc3.2悖论迷宫-技能分支
+213	2000534	TxtTutorialRogueScore_modelTitle26	ui.TxtTutorialRogueScore_modelTitle26_Des		1	1		dlc3.2悖论迷宫-部件获取
+213	2000535	TxtTutorialRogueScore_modelTitle27	ui.TxtTutorialRogueScore_modelTitle27_Des		1	1		dlc3.2悖论迷宫-部件合成
+								
+214	2000523	TxtDLC31_1Level15_44Moniter_Name1	ui.TxtDLC31_1Level15_44Moniter_Des1		1	1		DLC3.1主线监控玩法教学
+214	2000524	TxtDLC31_1Level15_44Moniter_Name2	ui.TxtDLC31_1Level15_44Moniter_Des2		1	1		DLC3.1主线监控玩法教学
+								
+215	2000522	TxtRocketTeach	ui.TxtRocketTeachDetail		1	1		DLC3.1七日派对-冲刺挑战
+								
+216	2000581	TxtOnlineSeaHelpTitle1	ui.TxtOnlineSeaHelpDescription1		1	1		DLC3.6激浪联航二期-玩法主界面
+216	2000582	TxtOnlineSeaHelpTitle2	ui.TxtOnlineSeaHelpDescription2		1	1		DLC3.6激浪联航二期-玩法主界面
+216	2000583	TxtOnlineSeaHelpTitle3	ui.TxtOnlineSeaHelpDescription3		1	1		DLC3.6激浪联航二期-玩法主界面
+216	2000584	TxtOnlineSeaHelpTitle4	ui.TxtOnlineSeaHelpDescription4		1	1		DLC3.6激浪联航二期-玩法主界面
+216	2000585	TxtOnlineSeaHelpTitle5	ui.TxtOnlineSeaHelpDescription5		1	1		DLC3.6激浪联航二期-玩法主界面
+216	2000586	TxtOnlineSeaHelpTitle6	ui.TxtOnlineSeaHelpDescription6		1	1		DLC3.6激浪联航二期-玩法主界面
+216	2000587	TxtOnlineSeaHelpTitle7	ui.TxtOnlineSeaHelpDescription7		1	1		DLC3.6激浪联航二期-玩法主界面
+216	2000588	TxtOnlineSeaHelpTitle8	ui.TxtOnlineSeaHelpDescription8		1	1		DLC3.6激浪联航二期-玩法主界面
+216	2000716	TxtOnlineSeaHelpTitle9	ui.TxtOnlineSeaHelpDescription9					DLC3.6激浪联航二期-玩法主界面
+								
+217	2000581	TxtOnlineSeaHelpTitle1	ui.TxtOnlineSeaHelpDescription1		1	1		DLC3.6激浪联航二期-玩法主界面
+217	2000582	TxtOnlineSeaHelpTitle2	ui.TxtOnlineSeaHelpDescription2		1	1		DLC3.6激浪联航二期-玩法主界面
+217	2000583	TxtOnlineSeaHelpTitle3	ui.TxtOnlineSeaHelpDescription3		1	1		DLC3.6激浪联航二期-玩法主界面
+217	2000584	TxtOnlineSeaHelpTitle4	ui.TxtOnlineSeaHelpDescription4		1	1		DLC3.6激浪联航二期-玩法主界面
+								
+218	2000019	TxtTutorialDefense32_Main_Title	ui.TxtTutorialDefense32_Main		1	1		【DLC3.2荣誉冲突】主界面
+218	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC3.2荣誉冲突】难度选择
+218	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC3.2荣誉冲突】技巧挑战
+218	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC3.2荣誉冲突】史诗系统
+218	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC3.2荣誉冲突】重选难度
+218	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC3.2荣誉冲突】连杀
+218	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC3.2荣誉冲突】积分显示
+218	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC3.2荣誉冲突】局内暂停
+218	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC3.2荣誉冲突】跳跃
+218	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC3.2荣誉冲突】限时挑战
+218	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC3.2荣誉冲突】补给装置
+								
+219	2000527	TxtTutorial_backtrack_001_Title	ui.TxtTutorial_backtrack_001		1	1		DLC32主线时空错位玩法教学图1
+219	2000528	TxtTutorial_backtrack_002_Title	ui.TxtTutorial_backtrack_002		1	1		DLC32主线时空错位玩法教学图2
+								
+220	2000527	TxtTutorial_backtrack_001_Title	ui.TxtTutorial_backtrack_001		1	1		DLC32主线时空错位玩法教学图1
+220	2000529	TxtTutorial_backtrack_003_Title	ui.TxtTutorial_backtrack_003		1	1		DLC32主线时空错位玩法教学图3
+								
+221	2000598	TxtClimbHelp_Title01	ui.TxtClimbHelp_Des01		1	1		【DLC3.3乐土之扉】占位玩法说明1
+221	2000599	TxtClimbHelp_Title02	ui.TxtClimbHelp_Des02		1	1		【DLC3.3乐土之扉】占位玩法说明2
+221	2000600	TxtClimbHelp_Title03	ui.TxtClimbHelp_Des03		1	1		【DLC3.3乐土之扉】占位玩法说明3
+								
+222	2000555	TxtTutorialRMOLTitle2	rmol.helpDesc2		1	1		【DLC3.2绘梦沙盘】玩法说明2
+222	2000556	TxtTutorialRMOLTitle3	rmol.helpDesc3		1	1		【DLC3.2绘梦沙盘】玩法说明3
+223	2000558	TxtTutorialRMOLTitle5	rmol.helpDesc5		1	1		【DLC3.2绘梦沙盘】玩法说明5
+223	2000559	TxtTutorialRMOLTitle6	rmol.helpDesc6		1	1		【DLC3.2绘梦沙盘】玩法说明6
+224	2000561	TxtTutorialRMOLTitle8	rmol.helpDesc8		1	1		【DLC3.2绘梦沙盘】玩法说明8
+224	2000562	TxtTutorialRMOLTitle9	rmol.helpDesc9		1	1		【DLC3.2绘梦沙盘】玩法说明9
+224	2000563	TxtTutorialRMOLTitle10	rmol.helpDesc10		1	1		【DLC3.2绘梦沙盘】玩法说明10
+224	2000560	TxtTutorialRMOLTitle7	rmol.helpDesc7		1	1		【DLC3.2绘梦沙盘】玩法说明7
+225	2000567	TxtTutorialRMOLTitle12	rmol.helpDesc12		1	1		【DLC3.2绘梦沙盘】玩法说明12
+226	2000565	TxtTutorialRMOLTitle18	rmol.helpDesc18		1	1		【DLC3.2绘梦沙盘】玩法说明18
+226	2000572	TxtTutorialRMOLTitle17	rmol.helpDesc17		1	1		【DLC3.2绘梦沙盘】玩法说明17
+227	2000566	TxtTutorialRMOLTitle19	rmol.helpDesc19		1	1		【DLC3.2绘梦沙盘】玩法说明19
+								
+228	2000532	TxtTutorialRogueScore_modelTitle24	ui.TxtTutorialRogueScore_modelTitle24_Des		1	1		dlc3.2悖论迷宫-无人机改造
+228	2000533	TxtTutorialRogueScore_modelTitle25	ui.TxtTutorialRogueScore_modelTitle25_Des		1	1		dlc3.2悖论迷宫-技能分支
+229	2000535	TxtTutorialRogueScore_modelTitle27	ui.TxtTutorialRogueScore_modelTitle27_Des		1	1		dlc3.2悖论迷宫-部件合成
+								
+230	2000557	TxtTutorialRMOLTitle4	rmol.helpDesc4		1	1		【DLC3.2绘梦沙盘】玩法说明4
+230	2000558	TxtTutorialRMOLTitle5	rmol.helpDesc5		1	1		【DLC3.2绘梦沙盘】玩法说明5
+230	2000559	TxtTutorialRMOLTitle6	rmol.helpDesc6		1	1		【DLC3.2绘梦沙盘】玩法说明6
+230	2000560	TxtTutorialRMOLTitle7	rmol.helpDesc7		1	1		【DLC3.2绘梦沙盘】玩法说明7
+230	2000561	TxtTutorialRMOLTitle8	rmol.helpDesc8		1	1		【DLC3.2绘梦沙盘】玩法说明8
+230	2000562	TxtTutorialRMOLTitle9	rmol.helpDesc9		1	1		【DLC3.2绘梦沙盘】玩法说明9
+230	2000563	TxtTutorialRMOLTitle10	rmol.helpDesc10		1	1		【DLC3.2绘梦沙盘】玩法说明10
+230	2000564	TxtTutorialRMOLTitle11	rmol.helpDesc11		1	1		【DLC3.2绘梦沙盘】玩法说明11
+231	2000567	TxtTutorialRMOLTitle12	rmol.helpDesc12		1	1		【DLC3.2绘梦沙盘】玩法说明12
+231	2000557	TxtTutorialRMOLTitle4	rmol.helpDesc4		1	1		【DLC3.2绘梦沙盘】玩法说明4
+231	2000558	TxtTutorialRMOLTitle5	rmol.helpDesc5		1	1		【DLC3.2绘梦沙盘】玩法说明5
+231	2000559	TxtTutorialRMOLTitle6	rmol.helpDesc6		1	1		【DLC3.2绘梦沙盘】玩法说明6
+231	2000560	TxtTutorialRMOLTitle7	rmol.helpDesc7		1	1		【DLC3.2绘梦沙盘】玩法说明7
+231	2000561	TxtTutorialRMOLTitle8	rmol.helpDesc8		1	1		【DLC3.2绘梦沙盘】玩法说明8
+231	2000562	TxtTutorialRMOLTitle9	rmol.helpDesc9		1	1		【DLC3.2绘梦沙盘】玩法说明9
+231	2000563	TxtTutorialRMOLTitle10	rmol.helpDesc10		1	1		【DLC3.2绘梦沙盘】玩法说明10
+231	2000564	TxtTutorialRMOLTitle11	rmol.helpDesc11		1	1		【DLC3.2绘梦沙盘】玩法说明11
+232	2000568	TxtTutorialRMOLTitle13	rmol.helpDesc13		1	1		【DLC3.2绘梦沙盘】玩法说明13
+232	2000569	TxtTutorialRMOLTitle14	rmol.helpDesc14		1	1		【DLC3.2绘梦沙盘】玩法说明14
+232	2000570	TxtTutorialRMOLTitle15	rmol.helpDesc15		1	1		【DLC3.2绘梦沙盘】玩法说明15
+232	2000571	TxtTutorialRMOLTitle16	rmol.helpDesc16		1	1		【DLC3.2绘梦沙盘】玩法说明16
+232	2000557	TxtTutorialRMOLTitle4	rmol.helpDesc4		1	1		【DLC3.2绘梦沙盘】玩法说明4
+232	2000558	TxtTutorialRMOLTitle5	rmol.helpDesc5		1	1		【DLC3.2绘梦沙盘】玩法说明5
+232	2000559	TxtTutorialRMOLTitle6	rmol.helpDesc6		1	1		【DLC3.2绘梦沙盘】玩法说明6
+232	2000560	TxtTutorialRMOLTitle7	rmol.helpDesc7		1	1		【DLC3.2绘梦沙盘】玩法说明7
+232	2000561	TxtTutorialRMOLTitle8	rmol.helpDesc8		1	1		【DLC3.2绘梦沙盘】玩法说明8
+232	2000562	TxtTutorialRMOLTitle9	rmol.helpDesc9		1	1		【DLC3.2绘梦沙盘】玩法说明9
+232	2000563	TxtTutorialRMOLTitle10	rmol.helpDesc10		1	1		【DLC3.2绘梦沙盘】玩法说明10
+232	2000564	TxtTutorialRMOLTitle11	rmol.helpDesc11		1	1		【DLC3.2绘梦沙盘】玩法说明11
+232	2000567	TxtTutorialRMOLTitle12	rmol.helpDesc12		1	1		【DLC3.2绘梦沙盘】玩法说明12
+233	2000572	TxtTutorialRMOLTitle17	rmol.helpDesc17		1	1		【DLC3.2绘梦沙盘】玩法说明17
+233	2000565	TxtTutorialRMOLTitle18	rmol.helpDesc18		1	1		【DLC3.2绘梦沙盘】玩法说明18
+233	2000557	TxtTutorialRMOLTitle4	rmol.helpDesc4		1	1		【DLC3.2绘梦沙盘】玩法说明4
+233	2000558	TxtTutorialRMOLTitle5	rmol.helpDesc5		1	1		【DLC3.2绘梦沙盘】玩法说明5
+233	2000559	TxtTutorialRMOLTitle6	rmol.helpDesc6		1	1		【DLC3.2绘梦沙盘】玩法说明6
+233	2000560	TxtTutorialRMOLTitle7	rmol.helpDesc7		1	1		【DLC3.2绘梦沙盘】玩法说明7
+233	2000561	TxtTutorialRMOLTitle8	rmol.helpDesc8		1	1		【DLC3.2绘梦沙盘】玩法说明8
+233	2000562	TxtTutorialRMOLTitle9	rmol.helpDesc9		1	1		【DLC3.2绘梦沙盘】玩法说明9
+233	2000563	TxtTutorialRMOLTitle10	rmol.helpDesc10		1	1		【DLC3.2绘梦沙盘】玩法说明10
+233	2000564	TxtTutorialRMOLTitle11	rmol.helpDesc11		1	1		【DLC3.2绘梦沙盘】玩法说明11
+233	2000567	TxtTutorialRMOLTitle12	rmol.helpDesc12		1	1		【DLC3.2绘梦沙盘】玩法说明12
+233	2000568	TxtTutorialRMOLTitle13	rmol.helpDesc13		1	1		【DLC3.2绘梦沙盘】玩法说明13
+233	2000569	TxtTutorialRMOLTitle14	rmol.helpDesc14		1	1		【DLC3.2绘梦沙盘】玩法说明14
+233	2000570	TxtTutorialRMOLTitle15	rmol.helpDesc15		1	1		【DLC3.2绘梦沙盘】玩法说明15
+233	2000571	TxtTutorialRMOLTitle16	rmol.helpDesc16		1	1		【DLC3.2绘梦沙盘】玩法说明16
+233	2000572	TxtTutorialRMOLTitle17	rmol.helpDesc17		1	1		【DLC3.2绘梦沙盘】玩法说明17
+233	2000565	TxtTutorialRMOLTitle18	rmol.helpDesc18		1	1		【DLC3.2绘梦沙盘】玩法说明18
+233	2000566	TxtTutorialRMOLTitle19	rmol.helpDesc19		1	1		【DLC3.2绘梦沙盘】玩法说明19
+234	2000554	TxtTutorialRMOLTitle1	rmol.helpDesc1		1	1		【DLC3.2绘梦沙盘】玩法说明1
+234	2000557	TxtTutorialRMOLTitle4	rmol.helpDesc4		1	1		【DLC3.2绘梦沙盘】玩法说明4
+234	2000558	TxtTutorialRMOLTitle5	rmol.helpDesc5		1	1		【DLC3.2绘梦沙盘】玩法说明5
+234	2000559	TxtTutorialRMOLTitle6	rmol.helpDesc6		1	1		【DLC3.2绘梦沙盘】玩法说明6
+234	2000560	TxtTutorialRMOLTitle7	rmol.helpDesc7		1	1		【DLC3.2绘梦沙盘】玩法说明7
+234	2000561	TxtTutorialRMOLTitle8	rmol.helpDesc8		1	1		【DLC3.2绘梦沙盘】玩法说明8
+234	2000562	TxtTutorialRMOLTitle9	rmol.helpDesc9		1	1		【DLC3.2绘梦沙盘】玩法说明9
+234	2000563	TxtTutorialRMOLTitle10	rmol.helpDesc10		1	1		【DLC3.2绘梦沙盘】玩法说明10
+234	2000564	TxtTutorialRMOLTitle11	rmol.helpDesc11		1	1		【DLC3.2绘梦沙盘】玩法说明11
+								
+235	2000585	TxtOnlineSeaHelpTitle5	ui.TxtOnlineSeaHelpDescription5		1	1		DLC3.2激浪联航-普通难度局内首次教学
+235	2000587	TxtOnlineSeaHelpTitle7	ui.TxtOnlineSeaHelpDescription7		1	1		DLC3.2激浪联航-普通难度局内首次教学
+235	2000588	TxtOnlineSeaHelpTitle8	ui.TxtOnlineSeaHelpDescription8		1	1		DLC3.2激浪联航-普通难度局内首次教学
+								
+236	2000543	TxtParty.hlepimgs_Title13	ui.TxtParty.hlepimgs_des13		1	1		3.2海姆向前冲教学图1
+236	2000544	TxtParty.hlepimgs_Title14	ui.TxtParty.hlepimgs_des14		1	1		3.2海姆向前冲教学图2
+236	2000545	TxtParty.hlepimgs_Title15	ui.TxtParty.hlepimgs_des15		1	1		3.2海姆向前冲教学图3
+236	2000546	TxtParty.hlepimgs_Title16	ui.TxtParty.hlepimgs_des16		1	1		3.2海姆向前冲教学图4
+236	2000547	TxtParty.hlepimgs_Title17	ui.TxtParty.hlepimgs_des17		1	1		3.2海姆向前冲教学图5
+236	2000548	TxtParty.hlepimgs_Title18	ui.TxtParty.hlepimgs_des18		1	1		3.2海姆向前冲教学图6
+236	2000549	TxtParty.hlepimgs_Title19	ui.TxtParty.hlepimgs_des19		1	1		3.2海姆向前冲教学图7
+236	2000550	TxtParty.hlepimgs_Title20	ui.TxtParty.hlepimgs_des20		1	1		3.2海姆向前冲教学图8
+236	2000551	TxtParty.hlepimgs_Title21	ui.TxtParty.hlepimgs_des21		1	1		3.2海姆向前冲教学图9
+236	2000552	TxtParty.hlepimgs_Title22	ui.TxtParty.hlepimgs_des22		1	1		3.2海姆向前冲教学图10
+236	2000553	TxtParty.hlepimgs_Title23	ui.TxtParty.hlepimgs_des23		1	1		3.2海姆向前冲教学图11
+								
+237	2000511	TxtNurturanceHelp_Title1	ui.TxtNurturanceHelp_des1		1	1		3.2角色养成教学图1
+237	2000512	TxtNurturanceHelp_Title2	ui.TxtNurturanceHelp_des2		1	1		3.2角色养成教学图2
+								
+238	2000513	TxtNurturanceHelp_Title3	ui.TxtNurturanceHelp_des3		1	1		3.2武器养成教学图1
+238	2000514	TxtNurturanceHelp_Title4	ui.TxtNurturanceHelp_des4		1	1		3.2武器养成教学图2
+238	2000515	TxtNurturanceHelp_Title5	ui.TxtNurturanceHelp_des5		1	1		3.2武器养成教学图3
+238	2000516	TxtNurturanceHelp_Title6	ui.TxtNurturanceHelp_des6		1	1		3.2武器养成教学图4
+238	2000166	TxtFashionArmTip12	ui.TxtFashionArmTip13		1	1		武器小分类介绍
+238	2000028	TxtTutorialFightTitle2	ui.TxtTutorialFight13	{{2,10304}}	1	1		跳弹介绍(武器界面
+								
+239	2000520	TxtNurturanceHelp_Title10	ui.TxtNurturanceHelp_des10		1	1		3.2后勤养成教学图1
+239	2000521	TxtNurturanceHelp_Title11	ui.TxtNurturanceHelp_des11		1	1		3.2后勤养成教学图2
+								
+240	2000517	TxtNurturanceHelp_Title7	ui.TxtNurturanceHelp_des7		1	1		3.2神格神经养成教学图1
+240	2000518	TxtNurturanceHelp_Title8	ui.TxtNurturanceHelp_des8		1	1		3.2神格神经养成教学图2
+240	2000519	TxtNurturanceHelp_Title9	ui.TxtNurturanceHelp_des9		1	1		3.2神格神经养成教学图3
+								
+241	2000536	TxtFormationChangeLevel_Title1	ui.TxtFormationChangeLevel_des1		1	1		3.2能力适应教学图1
+241	2000537	TxtFormationChangeLevel_Title2	ui.TxtFormationChangeLevel_des2		1	1		3.2能力适应教学图2
+241	2000538	TxtFormationChangeLevel_Title3	ui.TxtFormationChangeLevel_des3		1	1		3.2能力适应教学图3
+241	2000539	TxtFormationChangeLevel_Title4	ui.TxtFormationChangeLevel_des4		1	1		3.2能力适应教学图4
+241	2000540	TxtFormationChangeLevel_Title5	ui.TxtFormationChangeLevel_des5		1	1		3.2能力适应教学图5
+								
+242	2000573	TxtThrow.hlepimgs_title1	ui.TxtThrow.hlepimgs_des1		1	1		3.2沙滩游戏教学图1
+242	2000574	TxtThrow.hlepimgs_title2	ui.TxtThrow.hlepimgs_des2		1	1		3.2沙滩游戏教学图2
+242	2000575	TxtThrow.hlepimgs_title3	ui.TxtThrow.hlepimgs_des3		1	1		3.2沙滩游戏教学图3
+242	2000576	TxtThrow.hlepimgs_title4	ui.TxtThrow.hlepimgs_des4		1	1		3.2沙滩游戏教学图4
+242	2000577	TxtThrow.hlepimgs_title5	ui.TxtThrow.hlepimgs_des5		1	1		3.2沙滩游戏教学图5
+242	2000578	TxtThrow.hlepimgs_title6	ui.TxtThrow.hlepimgs_des6		1	1		3.2沙滩游戏教学图6
+242	2000579	TxtThrow.hlepimgs_title7	ui.TxtThrow.hlepimgs_des7		1	1		3.2沙滩游戏教学图7
+242	2000580	TxtThrow.hlepimgs_title8	ui.TxtThrow.hlepimgs_des8		1	1		3.2沙滩游戏教学图8
+								
+243	2000568	TxtTutorialRMOLTitle13	rmol.helpDesc13		1	1		【DLC3.2绘梦沙盘】玩法说明13
+243	2000569	TxtTutorialRMOLTitle14	rmol.helpDesc14		1	1		【DLC3.2绘梦沙盘】玩法说明14
+243	2000570	TxtTutorialRMOLTitle15	rmol.helpDesc15		1	1		【DLC3.2绘梦沙盘】玩法说明15
+243	2000571	TxtTutorialRMOLTitle16	rmol.helpDesc16		1	1		【DLC3.2绘梦沙盘】玩法说明16
+								
+244	2000566	TxtTutorialRMOLTitle19	rmol.helpDesc19		1	1		【DLC3.2绘梦沙盘】玩法说明19
+244	2000557	TxtTutorialRMOLTitle4	rmol.helpDesc4		1	1		【DLC3.2绘梦沙盘】玩法说明4
+244	2000558	TxtTutorialRMOLTitle5	rmol.helpDesc5		1	1		【DLC3.2绘梦沙盘】玩法说明5
+244	2000559	TxtTutorialRMOLTitle6	rmol.helpDesc6		1	1		【DLC3.2绘梦沙盘】玩法说明6
+244	2000560	TxtTutorialRMOLTitle7	rmol.helpDesc7		1	1		【DLC3.2绘梦沙盘】玩法说明7
+244	2000561	TxtTutorialRMOLTitle8	rmol.helpDesc8		1	1		【DLC3.2绘梦沙盘】玩法说明8
+244	2000562	TxtTutorialRMOLTitle9	rmol.helpDesc9		1	1		【DLC3.2绘梦沙盘】玩法说明9
+244	2000563	TxtTutorialRMOLTitle10	rmol.helpDesc10		1	1		【DLC3.2绘梦沙盘】玩法说明10
+244	2000564	TxtTutorialRMOLTitle11	rmol.helpDesc11		1	1		【DLC3.2绘梦沙盘】玩法说明11
+244	2000567	TxtTutorialRMOLTitle12	rmol.helpDesc12		1	1		【DLC3.2绘梦沙盘】玩法说明12
+244	2000568	TxtTutorialRMOLTitle13	rmol.helpDesc13		1	1		【DLC3.2绘梦沙盘】玩法说明13
+244	2000569	TxtTutorialRMOLTitle14	rmol.helpDesc14		1	1		【DLC3.2绘梦沙盘】玩法说明14
+244	2000570	TxtTutorialRMOLTitle15	rmol.helpDesc15		1	1		【DLC3.2绘梦沙盘】玩法说明15
+244	2000571	TxtTutorialRMOLTitle16	rmol.helpDesc16		1	1		【DLC3.2绘梦沙盘】玩法说明16
+244	2000572	TxtTutorialRMOLTitle17	rmol.helpDesc17		1	1		【DLC3.2绘梦沙盘】玩法说明17
+244	2000565	TxtTutorialRMOLTitle18	rmol.helpDesc18		1	1		【DLC3.2绘梦沙盘】玩法说明18
+								
+245	2000557	TxtTutorialRMOLTitle4	rmol.helpDesc4		1	1		【DLC3.2绘梦沙盘】玩法说明4
+245	2000558	TxtTutorialRMOLTitle5	rmol.helpDesc5		1	1		【DLC3.2绘梦沙盘】玩法说明5
+245	2000559	TxtTutorialRMOLTitle6	rmol.helpDesc6		1	1		【DLC3.2绘梦沙盘】玩法说明6
+245	2000560	TxtTutorialRMOLTitle7	rmol.helpDesc7		1	1		【DLC3.2绘梦沙盘】玩法说明7
+245	2000561	TxtTutorialRMOLTitle8	rmol.helpDesc8		1	1		【DLC3.2绘梦沙盘】玩法说明8
+245	2000562	TxtTutorialRMOLTitle9	rmol.helpDesc9		1	1		【DLC3.2绘梦沙盘】玩法说明9
+245	2000563	TxtTutorialRMOLTitle10	rmol.helpDesc10		1	1		【DLC3.2绘梦沙盘】玩法说明10
+245	2000564	TxtTutorialRMOLTitle11	rmol.helpDesc11		1	1		【DLC3.2绘梦沙盘】玩法说明11
+245	2000567	TxtTutorialRMOLTitle12	rmol.helpDesc12		1	1		【DLC3.2绘梦沙盘】玩法说明12
+245	2000568	TxtTutorialRMOLTitle13	rmol.helpDesc13		1	1		【DLC3.2绘梦沙盘】玩法说明13
+245	2000569	TxtTutorialRMOLTitle14	rmol.helpDesc14		1	1		【DLC3.2绘梦沙盘】玩法说明14
+245	2000570	TxtTutorialRMOLTitle15	rmol.helpDesc15		1	1		【DLC3.2绘梦沙盘】玩法说明15
+245	2000571	TxtTutorialRMOLTitle16	rmol.helpDesc16		1	1		【DLC3.2绘梦沙盘】玩法说明16
+245	2000572	TxtTutorialRMOLTitle17	rmol.helpDesc17		1	1		【DLC3.2绘梦沙盘】玩法说明17
+245	2000565	TxtTutorialRMOLTitle18	rmol.helpDesc18		1	1		【DLC3.2绘梦沙盘】玩法说明18
+245	2000566	TxtTutorialRMOLTitle19	rmol.helpDesc19		1	1		【DLC3.2绘梦沙盘】玩法说明19
+								
+246	2000601	TextTutorialJigsawPuzzleTitle1	ui.TextTutorialJigsawPuzzle1		1	1		【DLC3.3适格启忆录】
+246	2000602	TextTutorialJigsawPuzzleTitle2	ui.TextTutorialJigsawPuzzle2		1	1		【DLC3.3适格启忆录】
+246	2000603	TextTutorialJigsawPuzzleTitle3	ui.TextTutorialJigsawPuzzle3		1	1		【DLC3.3适格启忆录】
+								
+247	2000019	TxtTutorialDefense33_Main_Title	ui.TxtTutorialDefense33_Main		1	1		【DLC33荣誉冲突】主界面
+247	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC33荣誉冲突】难度选择
+247	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC33荣誉冲突】技巧挑战
+247	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC33荣誉冲突】史诗系统
+247	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC33荣誉冲突】重选难度
+247	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC33荣誉冲突】连杀
+247	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC33荣誉冲突】积分显示
+247	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC33荣誉冲突】局内暂停
+247	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC33荣誉冲突】跳跃
+247	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC33荣誉冲突】限时挑战
+247	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC33荣誉冲突】补给装置
+								
+248	2000610	TxtFormationWorldboss_Title1	ui.TxtFormationWorldboss_des1		1	1		【DLC34冬日接力战】
+248	2000611	TxtFormationWorldboss_Title2	ui.TxtFormationWorldboss_des2		1	1		【DLC34冬日接力战】
+248	2000613	TxtFormationWorldboss_Title4	ui.TxtFormationWorldboss_des4		1	1		【DLC34冬日接力战】
+248	2000614	TxtFormationWorldboss_Title5	ui.TxtFormationWorldboss_des5		1	1		【DLC34冬日接力战】
+248	2000615	TxtFormationWorldboss_Title6	ui.TxtFormationWorldboss_des6		1	1		【DLC34冬日接力战】
+								
+249	2000589	TxtTutorial_EnergyWall_Name01	ui.TxtTutorial_EnergyWall_Dec01		1	1		【DLC33主线屏障玩法】教学图1
+249	2000590	TxtTutorial_EnergyWall_Name02	ui.TxtTutorial_EnergyWall_Dec02		1	1		【DLC33主线屏障玩法】教学图2
+								
+250	2000591	TxtTutorial_InsectEgg_Name01	ui.TxtTutorial_InsectEgg_Dec01		1	1		【DLC33主线新刷怪玩法】教学图1
+								
+251	2000592	TxtTutorial_WormHole_Name01	ui.TxtTutorial_WormHole_Dec01		1	1		【DLC33主线虫洞玩法】教学图1
+251	2000593	TxtTutorial_WormHole_Name02	ui.TxtTutorial_WormHole_Dec02		1	1		【DLC33主线虫洞玩法】教学图2
+								
+252	2000604	TxtFormationPurge_Title1	ui.TxtFormationPurge_Des1		1	1		【DLC33联合清剿】教学图
+252	2000605	TxtFormationPurge_Title2	ui.TxtFormationPurge_Des2		1	1		【DLC33联合清剿】教学图
+252	2000417	TxtFormationPurge_Title3	ui.TxtFormationPurge_Des3		1	1		【DLC33联合清剿】教学图
+252	2000606	TxtFormationPurge_Title4	ui.TxtFormationPurge_Des4		1	1		【DLC33联合清剿】教学图
+252	2000607	TxtFormationPurge_Title5	ui.TxtFormationPurge_Des5		1	1		【DLC33联合清剿】教学图
+252	2000608	TxtFormationPurge_Title6	ui.TxtFormationPurge_Des6		1	1		【DLC33联合清剿】教学图
+252	2000609	TxtFormationPurge_Title7	ui.TxtFormationPurge_Des7		1	1		【DLC33联合清剿】教学图
+								
+253	2000595	TxtTowerRush_Title9	ui.TxtTowerRush_help9		1	1		【DLC33脉冲连袭】局内教学图
+253	2000596	TxtTowerRush_Title10	ui.TxtTowerRush_help10		1	1		【DLC33脉冲连袭】局内教学图
+								
+255	2000622	TxtCallMehelp_Title1	ui.TxtCallMehelp_des1		1	1		【3.4】陪伴教学图
+255	2000623	TxtCallMehelp_Title2	ui.TxtCallMehelp_des2		1	1		【3.4】陪伴教学图
+255	2000624	TxtCallMehelp_Title3	ui.TxtCallMehelp_des3		1	1		【3.4】陪伴教学图
+255	2000625	TxtCallMehelp_Title4	ui.TxtCallMehelp_des4		1	1		【3.4】陪伴教学图
+255	2000626	TxtCallMehelp_Title5	ui.TxtCallMehelp_des5		1	1		【3.4】陪伴教学图
+								
+256	2000019	TxtTutorialDefense34_Main_Title	ui.TxtTutorialDefense34_Main		1	1		【DLC34荣誉冲突】主界面
+256	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC34荣誉冲突】难度选择
+256	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC34荣誉冲突】技巧挑战
+256	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC34荣誉冲突】史诗系统
+256	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC34荣誉冲突】重选难度
+256	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC34荣誉冲突】连杀
+256	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC34荣誉冲突】积分显示
+256	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC34荣誉冲突】局内暂停
+256	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC34荣誉冲突】跳跃
+256	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC34荣誉冲突】限时挑战
+256	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC34荣誉冲突】补给装置
+								
+257	2000620	TxtTutorial_CrackedGlass_GuideTitle01	ui.TxtTutorial_CrackedGlass_GuideDes01		1	1		【DLC34主线打碎玻璃玩法】教学图
+								
+258	2000621	TxtTutorial_GravityAlter_GuideTitle01	ui.TxtTutorial_GravityAlter_GuideDes01		1	1		【DLC34主线重力玩法】教学图
+								
+259	2000636	TxtTutorial_starwish_GuideTitle01	starwish.TxtTutorial_GuideDes01		1	1		【DLC34星祈心愿】教学图
+259	2000637	TxtTutorial_starwish_GuideTitle02	starwish.TxtTutorial_GuideDes02		1	1		【DLC34星祈心愿】教学图
+259	2000638	TxtTutorial_starwish_GuideTitle03	starwish.TxtTutorial_GuideDes03		1	1		【DLC34星祈心愿】教学图
+259	2000639	TxtTutorial_starwish_GuideTitle04	starwish.TxtTutorial_GuideDes04		1	1		【DLC34星祈心愿】教学图
+259	2000640	TxtTutorial_starwish_GuideTitle05	starwish.TxtTutorial_GuideDes05		1	1		【DLC34星祈心愿】教学图
+								
+260	2000019	TxtTutorialDefense35_Main_Title	ui.TxtTutorialDefense35_Main		1	1		【DLC35荣誉冲突】主界面
+260	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC35荣誉冲突】难度选择
+260	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC35荣誉冲突】技巧挑战
+260	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC35荣誉冲突】史诗系统
+260	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC35荣誉冲突】重选难度
+260	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC35荣誉冲突】连杀
+260	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC35荣誉冲突】积分显示
+260	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC35荣誉冲突】局内暂停
+260	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC35荣誉冲突】跳跃
+260	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC35荣誉冲突】限时挑战
+260	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC35荣誉冲突】补给装置
+								
+261	2000629	TextTutorialFarmWarStoneTitle	ui.TextTutorialFarmWarStone		1	1		【DLC34】FarmWar碎石教学图
+262	2000630	TextTutorialFarmWarSuperOilTitle	ui.TextTutorialFarmWarSuperOil		1	1		【DLC34】FarmWar精土教学图
+263	2000631	TextTutorialFarmWarSpringboardTitle	ui.TextTutorialFarmWarSpringboard		1	1		【DLC34】FarmWar跳板教学图
+264	2000632	TextTutorialFarmWarIceCubeTitle	ui.TextTutorialFarmWarFightIceCube		1	1		【DLC34】FarmWar冰块教学图
+265	2000633	TextTutorialFarmWarSnowballTitle	ui.TextTutorialFarmWarSnowball		1	1		【DLC34】FarmWar雪球教学图
+266	2000634	TextTutorialFarmWarEndlessTitle	ui.TextTutorialFarmWarEndless		1	1		【DLC34】FarmWar无尽教学图
+267	2000635	TextTutorialFarmWarSniperTitle	ui.TextTutorialFarmWarSniper		1	1		【DLC34】FarmWar特殊蔬菜教学图
+								
+268	2000196	TxtTutorialRogue3Title9	ui.TxtTutorialRogue3Des9		1	1		悖论迷宫模式说明
+								
+269	2000641	TextTutorialFarmWarOutTitle1	ui.TextTutorialFarmWarOut1		1	1		【DLC3.4FarmWar】外围
+269	2000642	TextTutorialFarmWarOutTitle2	ui.TextTutorialFarmWarOut2		1	1		【DLC3.4FarmWar】外围
+269	2000643	TextTutorialFarmWarOutTitle3	ui.TextTutorialFarmWarOut3		1	1		【DLC3.4FarmWar】外围
+269	2000644	TextTutorialFarmWarOutTitle4	ui.TextTutorialFarmWarOut4		1	1		【DLC3.4FarmWar】外围
+269	2000645	TextTutorialFarmWarOutTitle5	ui.TextTutorialFarmWarOut5		1	1		【DLC3.4FarmWar】外围
+								
+270	2000646	TxtTutorialRogueScore_modelTitle29	ui.TxtTutorialRogueScore_modelTitle29_Des		1	1		悖论迷宫3.5迭代
+270	2000647	TxtTutorialRogueScore_modelTitle28	ui.TxtTutorialRogueScore_modelTitle28_Des		1	1		悖论迷宫3.5迭代
+270	2000648	TxtTutorialRogueScore_modelTitle11	ui.TxtTutorialRogueScore_modelTitle11_Des		1	1		悖论迷宫3.5迭代
+270	2000649	TxtTutorialRogueScore_modelTitle12	ui.TxtTutorialRogueScore_modelTitle12_Des		1	1		悖论迷宫3.5迭代
+270	2000650	TxtTutorialRogueScore_modelTitle13	ui.TxtTutorialRogueScore_modelTitle13_Des		1	1		悖论迷宫3.5迭代
+								
+271	2000686	HelpName1	ui.HelpDescription1		1	1		进击行动教学图
+271	2000687	HelpName2	ui.HelpDescription2		1	1		进击行动教学图
+271	2000688	HelpName3	ui.HelpDescription3		1	1		进击行动教学图
+271	2000689	HelpName4	ui.HelpDescription4		1	1		进击行动教学图
+271	2000690	HelpName5	ui.HelpDescription5		1	1		进击行动教学图
+271	2000691	HelpName6	ui.HelpDescription6		1	1		进击行动教学图
+271	2000692	HelpName7	ui.HelpDescription7		1	1		进击行动教学图
+271	2000693	HelpName9	ui.HelpDescription9		1	1		进击行动教学图
+271	2000694	HelpName11	ui.HelpDescription11		1	1		进击行动教学图
+271	2000695	HelpName12	ui.HelpDescription12		1	1		进击行动教学图
+271	2000696	HelpName10	ui.HelpDescription10		1	1		进击行动教学图
+								
+272	2000662	TxtDlc3_5Tutorial_Coinpusher01Title	ui.TxtDlc3_5Tutorial_Coinpusher01Desc		1	1		DLC3.5宿舍推币游戏教学图
+272	2000663	TxtDlc3_5Tutorial_Coinpusher02Title	ui.TxtDlc3_5Tutorial_Coinpusher02Desc		1	1		DLC3.5宿舍推币游戏教学图
+272	2000664	TxtDlc3_5Tutorial_Coinpusher03Title	ui.TxtDlc3_5Tutorial_Coinpusher03Desc		1	1		DLC3.5宿舍推币游戏教学图
+272	2000665	TxtDlc3_5Tutorial_Coinpusher04Title	ui.TxtDlc3_5Tutorial_Coinpusher04Desc		1	1		DLC3.5宿舍推币游戏教学图
+272	2000666	TxtDlc3_5Tutorial_Coinpusher05Title	ui.TxtDlc3_5Tutorial_Coinpusher05Desc		1	1		DLC3.5宿舍推币游戏教学图
+272	2000667	TxtDlc3_5Tutorial_Coinpusher06Title	ui.TxtDlc3_5Tutorial_Coinpusher06Desc		1	1		DLC3.5宿舍推币游戏教学图
+272	2000668	TxtDlc3_5Tutorial_Coinpusher07Title	ui.TxtDlc3_5Tutorial_Coinpusher07Desc		1	1		DLC3.5宿舍推币游戏教学图
+272	2000669	TxtDlc3_5Tutorial_Coinpusher08Title	ui.TxtDlc3_5Tutorial_Coinpusher08Desc		1	1		DLC3.5宿舍推币游戏教学图
+272	2000670	TxtDlc3_5Tutorial_Coinpusher09Title	ui.TxtDlc3_5Tutorial_Coinpusher09Desc		1	1		DLC3.5宿舍推币游戏教学图
+								
+273	2000651	TxtTutorial_ExplosiveIce_GuideTitle01	ui.TxtTutorial_ExplosiveIce_GuideDes01		1	1		【DLC35主线冰冻桶玩法】教学图
+274	2000652	TxtTutorial_Firehydrant_GuideTitle01	ui.TxtTutorial_Firehydrant_GuideDes01		1	1		【DLC35主线消防装置玩法】教学图
+276	2000656	TxtTutorial_SpeedBoat_GuideTitle01	ui.TxtTutorial_SpeedBoat_GuideDes01		1	1		【DLC35主线快艇玩法】教学图
+275	2000657	TxtTutorial_SpeedBoat_GuideTitle02	ui.TxtTutorial_SpeedBoat_GuideDes02		1	1		【DLC35主线快艇玩法】教学图
+276	2000658	TxtTutorial_SpeedBoat_GuideTitle03	ui.TxtTutorial_SpeedBoat_GuideDes03		1	1		【DLC35主线快艇玩法】教学图
+275	2000659	TxtTutorial_SpeedBoat_GuideTitle04	ui.TxtTutorial_SpeedBoat_GuideDes04		1	1		【DLC35主线快艇玩法】教学图
+276	2000660	TxtTutorial_SpeedBoat_GuideTitle05	ui.TxtTutorial_SpeedBoat_GuideDes05		1	1		【DLC35主线快艇玩法】教学图
+275	2000661	TxtTutorial_SpeedBoat_GuideTitle06	ui.TxtTutorial_SpeedBoat_GuideDes06		1	1		【DLC35主线快艇玩法】教学图
+275	2000653	TxtTutorial_SpeedBoat_GuideTitle07	ui.TxtTutorial_SpeedBoat_GuideDes07		1	1		【DLC35主线快艇玩法】教学图
+275	2000654	TxtTutorial_SpeedBoat_GuideTitle08	ui.TxtTutorial_SpeedBoat_GuideDes08		1	1		【DLC35主线快艇玩法】教学图
+275	2000655	TxtTutorial_SpeedBoat_GuideTitle09	ui.TxtTutorial_SpeedBoat_GuideDes09		1	1		【DLC35主线快艇玩法】教学图
+276	2000653	TxtTutorial_SpeedBoat_GuideTitle07	ui.TxtTutorial_SpeedBoat_GuideDes07		1	1		【DLC35主线快艇玩法】教学图
+276	2000654	TxtTutorial_SpeedBoat_GuideTitle08	ui.TxtTutorial_SpeedBoat_GuideDes08		1	1		【DLC35主线快艇玩法】教学图
+276	2000655	TxtTutorial_SpeedBoat_GuideTitle09	ui.TxtTutorial_SpeedBoat_GuideDes09		1	1		【DLC35主线快艇玩法】教学图
+								
+277	2000698	TxtDonoDuel_GuideTitle02	ui.TxtDonoDuel_GuideDes02		1	1		dlc35-多诺巅峰对决-擂台-引导弹图2
+								
+278	2000697	TxtDonoDuel_GuideTitle01	ui.TxtDonoDuel_GuideDes01		1	1		dlc35-多诺巅峰对决-擂台
+278	2000698	TxtDonoDuel_GuideTitle02	ui.TxtDonoDuel_GuideDes02		1	1		dlc35-多诺巅峰对决-擂台
+278	2000699	TxtDonoDuel_GuideTitle03	ui.TxtDonoDuel_GuideDes03		1	1		dlc35-多诺巅峰对决-擂台
+								
+279	2000700	TxtDonoDuel_GuideTitle04	ui.TxtDonoDuel_GuideDes04		1	1		dlc35-多诺巅峰对决-肉鸽教学图
+279	2000701	TxtDonoDuel_GuideTitle05	ui.TxtDonoDuel_GuideDes05		1	1		dlc35-多诺巅峰对决-肉鸽教学图
+								
+280	2000702	TxtDonoDuel_GuideTitle06	ui.TxtDonoDuel_GuideDes06		1	1		dlc35-多诺巅峰对决-多诺培养
+280	2000703	TxtDonoDuel_GuideTitle07	ui.TxtDonoDuel_GuideDes07		1	1		dlc35-多诺巅峰对决-多诺培养
+280	2000704	TxtDonoDuel_GuideTitle08	ui.TxtDonoDuel_GuideDes08		1	1		dlc35-多诺巅峰对决-多诺培养
+280	2000705	TxtDonoDuel_GuideTitle09	ui.TxtDonoDuel_GuideDes09		1	1		dlc35-多诺巅峰对决-多诺培养
+280	2000706	TxtDonoDuel_GuideTitle10	ui.TxtDonoDuel_GuideDes10		1	1		dlc35-多诺巅峰对决-多诺培养
+								
+281	2000671	Alien_Inlevel_GuideTitle07	ui.Alien_Inlevel_GuideDes07		1	1		异星守护4期关卡内教学图7
+281	2000672	Alien_Inlevel_GuideTitle08	ui.Alien_Inlevel_GuideDes08		1	1		异星守护4期关卡内教学图8
+								
+282	2000019	TxtTutorialDefense36_Main_Title	ui.TxtTutorialDefense36_Main		1	1		【DLC36荣誉冲突】主界面
+282	2000212	TxtTutorialDefense08_Diff_Title	ui.TxtTutorialDefense08_Diff		1	1		【DLC36荣誉冲突】难度选择
+282	2000213	TxtTutorialDefense08_Skill_Title	ui.TxtTutorialDefense08_Skill		1	1		【DLC36荣誉冲突】技巧挑战
+282	2000074	TxtTutorialDefenseTitle04	ui.TxtTutorialDefense04		1	1		【DLC36荣誉冲突】史诗系统
+282	2000073	TxtTutorialDefense08_Reset_Title	ui.TxtTutorialDefense08_Reset		1	1		【DLC36荣誉冲突】重选难度
+282	2000214	TxtTutorialDefense08_Combo_Title	ui.TxtTutorialDefense08_Combo		1	1		【DLC36荣誉冲突】连杀
+282	2000215	TxtTutorialDefense08_Score_Title	ui.TxtTutorialDefense08_Score		1	1		【DLC36荣誉冲突】积分显示
+282	2000216	TxtTutorialDefense08_Pause_Title	ui.TxtTutorialDefense08_Pause		1	1		【DLC36荣誉冲突】局内暂停
+282	2000020	TxtTutorialDefenseTitle07	ui.TxtTutorialDefense07		1	1		【DLC36荣誉冲突】跳跃
+282	2000021	TxtTutorialDefenseTitle08	ui.TxtTutorialDefense08		1	1		【DLC36荣誉冲突】限时挑战
+282	2000022	TxtTutorialDefenseTitle09	ui.TxtTutorialDefense09		1	1		【DLC36荣誉冲突】补给装置
+								
+283	2000673	TxtPartyZbugPVE.hlepimgs_Title1	ui.TxtPartyZbugPVE.hlepimgs_des1		1	1		3.5决战哈姆教学图1
+283	2000674	TxtPartyZbugPVE.hlepimgs_Title2	ui.TxtPartyZbugPVE.hlepimgs_des2		1	1		3.5决战哈姆教学图2
+283	2000675	TxtPartyZbugPVE.hlepimgs_Title3	ui.TxtPartyZbugPVE.hlepimgs_des3		1	1		3.5决战哈姆教学图3
+283	2000676	TxtPartyZbugPVE.hlepimgs_Title4	ui.TxtPartyZbugPVE.hlepimgs_des4		1	1		3.5决战哈姆教学图4
+283	2000677	TxtPartyZbugPVE.hlepimgs_Title5	ui.TxtPartyZbugPVE.hlepimgs_des5		1	1		3.5决战哈姆教学图5
+283	2000678	TxtPartyZbugPVE.hlepimgs_Title6	ui.TxtPartyZbugPVE.hlepimgs_des6		1	1		3.5决战哈姆教学图6
+283	2000679	TxtPartyZbugPVE.hlepimgs_Title7	ui.TxtPartyZbugPVE.hlepimgs_des7		1	1		3.5决战哈姆教学图7
+								
+284	2000687	HelpName2	ui.HelpDescription2		1	1		进击行动教学图
+284	2000688	HelpName3	ui.HelpDescription3		1	1		进击行动教学图
+284	2000689	HelpName4	ui.HelpDescription4		1	1		进击行动教学图
+								
+285	2000363	Alien_GuideTitle02	ui.Alien_GuideDes02		1	1		异星守护教学图4
+285	2000364	Alien_GuideTitle03	ui.Alien_GuideDes03		1	1		异星守护教学图5
+285	2000685	Alien_GuideTitle10	ui.Alien_GuideDes10		1	1		异星守护教学图10
+								
+286	2000694	HelpName11	ui.HelpDescription11		1	1		进击行动教学图
+								
+287	2000696	HelpName10	ui.HelpDescription10		1	1		进击行动教学图
+								
+288	2000694	HelpName11	ui.HelpDescription11		1	1		进击行动教学图
+288	2000695	HelpName12	ui.HelpDescription12		1	1		进击行动教学图
+								
+289	2000426	TxtTutorialSevendaysTitle8_26	ui.TxtTutorialSevendays1_36		1	1		3.6七日派对对称打气球
+289	2000428	TxtTutorialSevendaysTitle10_26	ui.TxtTutorialSevendays2_36		1	1		3.6七日派对对称打气球
+289	2000627	TxtTutorialSevendaysTitle1_36	ui.TxtTutorialSevendays3_36		1	1		3.6七日派对对称打气球
+								
+290	2000464	TxtTutorialSevendaysTitle7_28	ui.TxtTutorialSevendays7_28		1	1		3.6七日派对消消乐
+290	2000465	TxtTutorialSevendaysTitle8_28	ui.TxtTutorialSevendays8_28		1	1		3.6七日派对消消乐
+290	2000628	TxtTutorialSevendaysTitle2_36	ui.TxtTutorialSevendays4_36		1	1		3.6七日派对消消乐
+								
+291	2000718	Armored_GuideTitle01	ui.Armored_GuideDes01		1	1		3.7装甲战骑教学图
+291	2000719	Armored_GuideTitle02	ui.Armored_GuideDes02		1	1		3.7装甲战骑教学图
+291	2000720	Armored_GuideTitle03	ui.Armored_GuideDes03		1	1		3.7装甲战骑教学图
+291	2000721	Armored_GuideTitle04	ui.Armored_GuideDes04		1	1		3.7装甲战骑教学图
+291	2000722	Armored_GuideTitle05	ui.Armored_GuideDes05		1	1		3.7装甲战骑教学图
+291	2000723	Armored_GuideTitle06	ui.Armored_GuideDes06		1	1		3.7装甲战骑教学图
+291	2000724	Armored_GuideTitle07	ui.Armored_GuideDes07		1	1		3.7装甲战骑教学图
+291	2000725	Armored_GuideTitle08	ui.Armored_GuideDes08		1	1		3.7装甲战骑教学图
+								
+292	2000438	TxtParty.hlepimgs_Title8	ui.TxtParty.hlepimgs_des8		1	1		3.6海姆向前冲教学图1
+292	2000439	TxtParty.hlepimgs_Title9	ui.TxtParty.hlepimgs_des9		1	1		3.6海姆向前冲教学图2
+292	2000440	TxtParty.hlepimgs_Title10	ui.TxtParty.hlepimgs_des10		1	1		3.6海姆向前冲教学图3
+292	2000441	TxtParty.hlepimgs_Title11	ui.TxtParty.hlepimgs_des11		1	1		3.6海姆向前冲教学图4
+292	2000442	TxtParty.hlepimgs_Title12	ui.TxtParty.hlepimgs_des12		1	1		3.6海姆向前冲教学图5
+								
+293	2000723	Armored_GuideTitle06	ui.Armored_GuideDes06		1	1		3.7装甲战骑教学图
+294	2000724	Armored_GuideTitle07	ui.Armored_GuideDes07		1	1		3.7装甲战骑教学图
+295		TxtTutorialMainUISimpleTitle	ui.TxtTutorialMainUI01		1	1		简约布局说明1
+295		TxtTutorialMainUISimpleTitle	ui.TxtTutorialMainUI02		1	1		简约布局说明2
+295		TxtTutorialMainUISimpleTitle	ui.TxtTutorialMainUI03		1	1		简约布局说明3
+295		TxtTutorialMainUISimpleTitle	ui.TxtTutorialMainUI04		1	1		简约布局说明4
+295		TxtTutorialMainUISimpleTitle	ui.TxtTutorialMainUI05		1	1		简约布局说明5
+296		TxtTutorialMainUIInitTitle	ui.TxtTutorialMainUI06		1	1		初始布局说明1
+296		TxtTutorialMainUIInitTitle	ui.TxtTutorialMainUI07		1	1		初始布局说明2
+296		TxtTutorialMainUIInitTitle	ui.TxtTutorialMainUI08		1	1		初始布局说明3

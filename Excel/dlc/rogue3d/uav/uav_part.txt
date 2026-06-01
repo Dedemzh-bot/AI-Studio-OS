@@ -1,0 +1,41 @@
+ID（类型-品质-二级类型）	备注	图标（200）	图标（130）	名称	品质	类型（1动力 2框架 3武器 4控制）	二级类型（1☽ 2△ 3◇）	词条随机组
+ID	Comment	Icon	Icon2	Name	Quality	Type	SubType	BuffGroupId
+1	高级动力-反应堆-☽	1001643	1001642	rogue3.uav_PartName1	3	1	1	103
+2	高级动力-反应堆-△	1001643	1001642	rogue3.uav_PartName1	3	1	2	103
+3	高级动力-反应堆-◇	1001643	1001642	rogue3.uav_PartName1	3	1	3	103
+4	中级动力-大蓄电池-☽	1001645	1001644	rogue3.uav_PartName2	2	1	1	102
+5	中级动力-大蓄电池-△	1001645	1001644	rogue3.uav_PartName2	2	1	2	102
+6	中级动力-大蓄电池-◇	1001645	1001644	rogue3.uav_PartName2	2	1	3	102
+7	低级动力-小蓄电池-☽	1001647	1001646	rogue3.uav_PartName3	1	1	1	101
+8	低级动力-小蓄电池-△	1001647	1001646	rogue3.uav_PartName3	1	1	2	101
+9	低级动力-小蓄电池-◇	1001647	1001646	rogue3.uav_PartName3	1	1	3	101
+								
+10	高级框架-超反射材料-☽	1001649	1001648	rogue3.uav_PartName4	3	2	1	203
+11	高级框架-超反射材料-△	1001649	1001648	rogue3.uav_PartName4	3	2	2	203
+12	高级框架-超反射材料-◇	1001649	1001648	rogue3.uav_PartName4	3	2	3	203
+13	中级框架-钛合金框架-☽	1001651	1001650	rogue3.uav_PartName5	2	2	1	202
+14	中级框架-钛合金框架-△	1001651	1001650	rogue3.uav_PartName5	2	2	2	202
+15	中级框架-钛合金框架-◇	1001651	1001650	rogue3.uav_PartName5	2	2	3	202
+16	低级框架-静音螺旋桨-☽	1001653	1001652	rogue3.uav_PartName6	1	2	1	201
+17	低级框架-静音螺旋桨-△	1001653	1001652	rogue3.uav_PartName6	1	2	2	201
+18	低级框架-静音螺旋桨-◇	1001653	1001652	rogue3.uav_PartName6	1	2	3	201
+								
+19	高级武器-高超音速导弹-☽	1001655	1001654	rogue3.uav_PartName7	3	3	1	303
+20	高级武器-高超音速导弹-△	1001655	1001654	rogue3.uav_PartName7	3	3	2	303
+21	高级武器-高超音速导弹-◇	1001655	1001654	rogue3.uav_PartName7	3	3	3	303
+22	中级武器-短程导弹-☽	1001657	1001656	rogue3.uav_PartName8	2	3	1	302
+23	中级武器-短程导弹-△	1001657	1001656	rogue3.uav_PartName8	2	3	2	302
+24	中级武器-短程导弹-◇	1001657	1001656	rogue3.uav_PartName8	2	3	3	302
+25	低级武器-机炮-☽	1001659	1001658	rogue3.uav_PartName9	1	3	1	301
+26	低级武器-机炮-△	1001659	1001658	rogue3.uav_PartName9	1	3	2	301
+27	低级武器-机炮-◇	1001659	1001658	rogue3.uav_PartName9	1	3	3	301
+								
+28	高级控制-相控阵雷达-☽	1001661	1001660	rogue3.uav_PartName10	3	4	1	403
+29	高级控制-相控阵雷达-△	1001661	1001660	rogue3.uav_PartName10	3	4	2	403
+30	高级控制-相控阵雷达-◇	1001661	1001660	rogue3.uav_PartName10	3	4	3	403
+31	中级控制-热成像系统-☽	1001663	1001662	rogue3.uav_PartName11	2	4	1	402
+32	中级控制-热成像系统-△	1001663	1001662	rogue3.uav_PartName11	2	4	2	402
+33	中级控制-热成像系统-◇	1001663	1001662	rogue3.uav_PartName11	2	4	3	402
+34	低级控制-可靠芯片-☽	1001665	1001664	rogue3.uav_PartName12	1	4	1	401
+35	低级控制-可靠芯片-△	1001665	1001664	rogue3.uav_PartName12	1	4	2	401
+36	低级控制-可靠芯片-◇	1001665	1001664	rogue3.uav_PartName12	1	4	3	401

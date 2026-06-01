@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	英明神武的分析员平息了一场风波，蓝图岛重归宁静祥和——	英明神武的分析員平息了一場風波，藍圖島重歸寧靜祥和——	勇猛果敢な分析員が事件を解決したことで、ビジョン島に平和が訪れた――	슬기롭고 용감한 분석가님이 한바탕 소동을 잠재우셔서, 설계의 섬은 다시 평화를 되찾았어요.	The wise and mighty Adjutant saves the day once again, and Builder Island regains its peace—						0	dlc30蓝图岛对话
+page1.2	我说，安卡希雅，丰富体验也不能就这么地暴力加入战斗……	我說，安卡希雅，豐富體驗也不能就這樣暴力地加入戰鬥……	なぁ、アカシア。コンテンツを増やしたいからって、戦闘への導入が強引すぎないか。	있잖아, 아카시아. 아무리 풍부한 체험을 위해서라고 해도 이렇게 무작정 전투에 뛰어드는 건 안 되지…	Acacia, I get that you want more features, but you can't just throw a random fight at me...						0	dlc30蓝图岛对话
+page1.3	添加额外程序的做法有点太耗时了，想早些呈现给分析员没想到还是搞砸了。	增加額外程式的做法有點太耗時了，想早點呈現給分析員沒想到還是搞砸了。	ミスったか……できるだけ早く、追加したコンテンツをあなたに見せたかったの。	추가 프로그램을 넣는 건 너무 시간이 오래 걸려서 그랬어. 분석가에게 빨리 보여주고 싶었는데, 결국 망쳐버렸네.	I got impatient and rushed things so you could try it sooner. It backfired.						0	dlc30蓝图岛对话
+page1.4	至少得加一段剧情，完善一下流程体验吧？	至少得加一段劇情，完善一下流程體驗吧？	せめて状況説明から入ってくれよ。	최소한 스토리라도 좀 넣고, 흐름을 다듬어야 하지 않을까?	At the very least, add a little story to polish the flow.						0	dlc30蓝图岛对话
+page1.5	比如一些游手好闲的家伙强占了蓝图岛用来开发的土地……	例如一些遊手好閒的傢伙強佔了藍圖島用來開發的土地……	ならずものが開発用地を不法占拠したとか……	예를 들어 건달들이 설계의 섬의 개발 부지를 강제로 점거했다거나…	Like, say, some deadbeats have taken over land reserved for the project...						0	dlc30蓝图岛对话
+page1.6	通过一些展现实力的手段，让这些闹事的家伙离开那片土地，给这群人安排一些正经营生，恢复蓝图岛的宁静祥和。	透過一些展現實力的手段，讓這些鬧事的傢伙離開那片土地，給這群人安排一些正規營生，恢復藍圖島的寧靜祥和。	そうしたら、そいつらに実力を示して開発用地から追い出すついでに、職を与えることで平和を取り戻すとかできるだろ？	실력을 발휘해서 소란을 피우는 자들을 제압해 그 땅에서 내쫓고, 그들에게 제대로 된 일거리를 마련해 줘서 설계의 섬의 평화와 안정을 되찾는 거야.	So maybe I demonstrate strength to drive them away, give them proper jobs, and restore peace to Builder Island.						0	dlc30蓝图岛对话
+page1.7	剧本交给你了，分析员，看好你哦。	劇本交給你了，分析員，看好你喔。	じゃあ、シナリオは分析員に任せるね。	각본은 네가 맡아줘, 분석가. 기대하고 있을게.	Great idea, I'll let you handle the script, Adjutant.						0	dlc30蓝图岛对话
+page1.8	安卡希雅！	安卡希雅！	あのなぁ……	아카시아!	Acacia!						0	dlc30蓝图岛对话
+page1.9	嗯……	嗯……	んー……	음…	Mm...						0	dlc30蓝图岛对话
+page1.10	怎么了？突然这么安静，在想什么？	怎麼了？突然這麼安靜，在想什麼？	どうかしたのか？急に静かになって。	왜 그래? 갑자기 조용해졌네, 무슨 생각 해?	You suddenly got quiet. What's on your mind?						0	dlc30蓝图岛对话
+page1.11	在想分析员。	在想分析員。	分析員のことを考えてる。	분석가 생각을 하고 있어.	I'm thinking about you.						0	dlc30蓝图岛对话
+page1.12	无论我怎么天马行空地胡闹，分析员都会耐心地陪在我身边。	無論我怎麼天馬行空地胡鬧，分析員都會耐心地陪在我身邊。	私がどんな無茶振りをしても、分析員は辛抱強くそばにいてくれる。	내가 아무리 터무니없는 짓을 해도 분석가는 늘 참고 내 곁을 지켜줬어.	No matter how wild and whimsical my ideas are, you always stay by my side.						0	dlc30蓝图岛对话
+page1.13	能在有分析员的时代醒过来，真是太好了。	能在有分析員的時代醒過來，真是太好了。	分析員がいる時代に目覚めて良かったよ。	분석가가 있는 시대에 깨어나다니, 정말 다행이야.	I'm so lucky I woke up in a time with you, Adjutant.						0	dlc30蓝图岛对话
+page1.14	因为和你在一起真的很有趣……好啦，蓝图岛还等着我们去建设呢，走喽！	因為和你在一起真的很有趣……好啦，藍圖島還等著我們去建設呢，走嘍！	君と一緒にいると楽しいからな……さぁ、ビジョン島が私たちを待ってるよ。早く行こう！	너랑 함께하면 정말 재미있단 말이지… 자, 설계의 섬이 우리를 기다리고 있으니 이제 가 볼까!	Because it's always fun being with you... Anyway, Builder Island won't build itself. Let's get going!						0	dlc30蓝图岛对话

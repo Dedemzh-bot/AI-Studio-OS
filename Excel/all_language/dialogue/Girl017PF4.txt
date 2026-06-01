@@ -1,0 +1,122 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	今天的治疗排期已经满了，请预约明天的吧。	今天的治療預約已經額滿了，請預約明天吧。	今日の分はすべて予約済みです。明日また……	오늘은 치료 일정이 모두 찼습니다. 내일 다시 예약해 주세요.	Today's treatment schedule is already full. Please make an appointment for tomorrow.						0	
+2	是我，苔丝·科特金。	是我，黛斯·科特金。	私だよ。テス・コトキンです。	저예요, 테스 코트킨.	It's me — Tess Kotkin.						0	
+3	哦？	喔？	おや？	네?	Oh?						0	
+4	大魔术师，你怎么又回来了？	大魔術師，你怎麼又回來了？	あのマジシャンの。どうして戻って来る気になったんですか？	위대한 매지션님이 어쩐 일로 다시 오셨죠?	So the Great Magician returns. What are you doing back here?						0	
+5	我想再做一次神经检查。	我想再做一次神經檢查。	もう一回、脳神経検査を受けたいの。	신경 검사를 한 번 더 받아보려고요.	I want to attempt the neurological exam again.						0	
+6	你确定？	你確定？	本当に？	정말인가요?	Are you sure?						0	
+7	拜托了。	拜託了。	お願い。	부탁드릴게요.	Yes. Please.						0	
+8	既然这样，躺下吧。	既然如此，那就在這躺下吧。	なら、そこで横になってください。	그렇다면 여기 누우세요.	I see. Please lay down then.						0	
+9	氟化碳液体从管道阀中潺潺涌出，逐渐漫过少女的身体，充盈整个医疗舱。	碳氟化合物從閥門內潺潺湧出，液體逐漸漫過少女的全身直至充滿整個醫療艙。	パーフルオロカーボンが流れ出し、少女の体を緩やかに覆いながら、医療カプセルを満たした。	퍼플루오로카본 액체가 관을 타고 흘러나와 소녀의 몸을 넘어 의료 캡슐 전체를 꽉 채웠다.	Perfluorocarbon fluid poured in from the pipe, gradually covering the girl's body and filling the entire recovery pod.						0	
+10	从出生到死亡，世界树公司竭诚为您服务。	從出生到死亡，世界樹公司竭誠為您服務。	ゆりかごから墓場まで、ユグドラシル社が貴方に真心をお届け致します。	태어나서 죽을 때까지 위그드라실에서 당신을 성심성의껏 모시겠습니다.	From birth to death, Yggdrasil is here to happily serve you.						0	
+11	哈…果然还是这里。	哈…果然還是這裡。	あは……やっぱりここに戻っちゃうんだ。	하아… 역시 또 여기네요.	Hah... so it's the same place.						0	
+12	这里是你脑中神经波动最大的地方，我们也无法干预。	這裡是你大腦神經波動最激烈的地方，我們也無法干預。	ここがあなたの脳内で最も神経の波動が大きい箇所です。私たちにも干渉することができません。	여기가 당신의 뇌신경 파동이 가장 큰 부분이라, 저희도 관여할 수 없습니다.	This is the region of your brain with the most neural fluctuation. We're unable to interfere with it.						0	
+13	那，可以开始了吗？	那，可以開始了嗎？	じゃ、もう始めていい？	그럼, 시작하면 되나요?	Then, can we start?						0	
+14	嗯，为了取得可靠的数据，这次我会把问题顺序反过来。	嗯，為了獲得可靠的研究資料，這次我會把問題的順序反過來問。	ええ。では信ぴょう性のあるデータを集めるためにも、今回は問題の順番をひっくり返して質問していきます。	네. 신뢰할 만한 데이터를 얻기 위해 이번엔 질문 순서를 반대로 하겠습니다.	Yes. In order to obtain reliable data, I will ask the questions in reverse order this time.						0	
+15	苔丝小姐，你记忆最深刻的地方是哪？	黛斯小姐，你最難以忘懷的事情是什麼？	テスさん。あなたが一番印象深かった場所はどこですか？	테스 씨, 가장 기억에 남는 곳은 어디입니까?	Miss Tess, are there any places in your memory that left a deep impression on you?						0	
+16	那次魔术失败后，我一个人回家的路上，就是这……	那次魔術失敗以後，我一個人在回家的路上，就是這……	あの時、マジックに失敗して、1人で帰路についたとき。つまり、こ……	그 마술에 실패하고 나서 혼자서 집으로 돌아가는 길이요, 바로 이곳…	That time after I failed my magic trick. I was walking home by myself, right here...						0	
+17	不，不是这里。	不、不是這個。	いや、ここじゃない。	아, 아니, 여기가 아니에요.	No — it wasn't here.						0	
+18	少女听到自己这样说。	少女聽到自己如此說。	少女は、自らがこう語る声を聞いた。	소녀는 자신의 속마음을 들었다.	Tess heard herself speaking.						0	
+19	是在学校外的餐厅，我第一次和他一起吃饭。	是在校外的餐廳，我第一次和他一起吃飯。	学校の外のレストラン。あそこで、初めてあの人と一緒にご飯を食べたの。	학교 밖의 식당이에요. 처음으로 그와 함께 식사했던 곳이죠.	It was at a restaurant outside my school. The first time he and I ate together.						0	
+b-1											0	
+20	好巧。	真巧。	すごい偶然だね。	우연이네.	What a coincidence.						0	
+b-2											0	
+21	你是苔丝·科特金吧？	你是黛斯·科特金吧？	君は確か、テス・コトキンだったよね？	네가 테스 코트킨이지?	Tess Kotkin, right?						0	
+22	是。哎？playername老师！	是。欸？playername老師！	は、はい……あなたは……playername先生でしたよね！	네. 어? playername 선생님!	Yeah? Oh! Mr. playername!						0	
+23	抱，抱歉，我没注意到您过来了。	抱、抱歉，我沒注意到您過來了。	ご、ごめんなさい。気が付きませんでした……	죄, 죄송해요. 오신 줄 몰랐어요.	I—I'm sorry, I didn't notice you came over.						0	
+b-3											0	
+24	没关系，我也是第一次来这里吃饭。	沒關係，我也是第一次來這裡吃飯。	いいよ。私もここに来るのは初めてなんだ。	괜찮아. 나도 여기서 밥 먹는 건 처음이야.	It's alright. This is my first time coming here to eat.						0	
+25	啊，毕竟您是刚调到我们学校不久。	啊，畢竟您剛調來這裡不久。	うちの学校に来られたばかりですもんね。	아, 우리 학교로 오신 지 얼마 안 되셨으니까요.	Ah, well you did just transfer to our school recently.						0	
+26	这里的鸡排饭很好吃哦，老师下次一定要试试，嘿嘿。	這裡的雞排飯很好吃喔，老師您下次一定要試試，嘿嘿～	ここのチキンカツ定食、ものすごく美味しいので、ぜひ食べてみてください、えへへ。	여기는 닭갈비 덮밥이 맛있어요. 선생님도 다음에 꼭 드셔보세요, 헤헤.	The chicken here is really good. You have to try it next time, hehe.						0	
+b-4											0	
+27	谢谢。	謝謝。	ありがとう。	고마워.	Thank you.						0	
+28	话说回来，老师竟然认出我了。明明只来过一堂课哎，好厉害。	話說回來，老師竟然認出我了！明明只來過一堂課欸，好厲害！	というか、もう私の名前を覚えたんですか。授業だってまだ一回しかやってないはずなのに。すごいなぁ。	그보다, 절 알아보셨네요? 수업을 한 번밖에 안 들었는데, 대단하시네요.	Anyway, I'm surprised you recognized me, Mr. playername. We only had one class — that's impressive.						0	
+29	而且老师看起来这么年轻，我最开始都以为是转校生来着。	而且老師看起來這麼年輕，剛開始我還以為您是轉學生呢！	それに、すごく若く見えるので、最初は転校生かと思いましたよ。	게다가 선생님이 너무 젊어 보이셔서 처음엔 전학생이 온 줄 알았어요.	And you look really young. I thought you were a transfer student at first.						0	
+30	啊！不好意思，自顾自地说了这么多……	啊！不好意思，自顧自地說了一堆……	あ！ごめんなさい、ペラペラしゃべっちゃって……	아! 죄송해요. 생각 없이 혼자 주절거렸네요…	Ah! Sorry, I just keep blabbering on and on...						0	
+31	少女连忙在嘴里塞了一大口饭，堵住了继续絮叨的欲望。	少女急忙往自己嘴裡塞了一大口飯，以便堵住自己聒噪的嘴	止まらない口を塞ぐためか、少女は口いっぱいにご飯を詰め込んだ。	소녀는 황급히 입 안에 밥을 쑤셔 넣고, 계속 떠들고 싶은 욕망을 억눌렀다.	The girl hurriedly stuffed a huge bite of food into her mouth, suppressing the urge to say anything else.						0	
+b-5											0	
+32	呵呵，苔丝同学，吃慢点吧，没事的。	呵呵，黛斯同學你慢慢吃，不用急。	はは。ゆっくり食べていいよ、テスさん。	하하, 테스 학생. 괜찮으니까 천천히 먹어.	Heh, slow down, Tess. It's alright.						0	
+b-6											0	
+33	至于为什么能认出你，当然是因为你与众不同。	至於為什麼能認出你，當然是因為你與眾不同。	君のことを知っているのは、もちろん、君が特別だからさ。	왜 널 단번에 알아본 건, 네가 다른 학생과 다르기 때문이야.	Of course I recognized you — you're special.						0	
+34	与众不同…我吗？	與眾不同…我嗎？	特別って……私がですか？	다르다고요…? 제가요?	Special... Me?						0	
+b-7											0	
+35	嗯，硬要说的话——	嗯，硬要說的話——	ああ。しいて言えば……	응, 굳이 이야기하자면…	Yeah. If I had to put it into words...						0	
+36	“就像金苹果一样吧”，他是这么说的。	「就像是金蘋果一樣吧」，他是這麼說的。	「黄金の林檎のようなもの」って。	 '황금 사과 같다고나 할까', 그는 이렇게 말했어요.	"You're like a golden apple." That's what he said.						0	
+37	对女高中生说这种话，也太犯规了。	對女高中生說這種話也太犯規了吧！	女子高生にそんなこと言うなんて、さすがに反則でしょ。	여고생에게 그런 말을 하는 건, 정말 반칙이에요.	Saying that to a high school girl... It really left an impression.						0	
+38	后来，我们就经常一起吃饭，一起喂学校的流浪猫，有时候他还带我偷偷在晚自习后，去学校的小礼堂练习魔术。	後來我們就常常一起吃飯、一起餵流浪貓，有時候他還會在晚自習結束之後偷偷帶我去學校的小禮堂練習魔術。	それからは、よく一緒にご飯を食べたり、校内の野良猫にエサをあげたり、たまに夜の自習の後で、学校の講堂でマジックの練習に付き合ってくれたこともあったかな。	나중에는 우리끼리 같이 밥을 먹기도 하고, 학교 길고양이에게 먹이를 주기도 하고, 야간 자율학습이 끝나고 나면 몰래 학교 소강당에 가서 마술 연습을 하기도 했어요.	Later on, we ate together pretty often and fed the stray cats around the school together. Sometimes, he would sneak me into the auditorium after night classes to practice magic.						0	
+39	不要移开目光哦，3，2，1——锵锵，杯子消失了！	不要移開目光喔！3、2、1——鏘鏘！杯子消失了！	絶対に目を離さないでくださいね！3、2、1——ジャジャーン！ご覧ください、コップがきれいさっぱり消えました！	선생님, 눈을 떼지 마세요. 3, 2, 1… 짜잔, 컵이 사라졌어요!	Don't look away! 3, 2, 1... Taaa-daaa! The cup has disappeared!						0	
+b-8											0	
+40	厉害。	真厲害。	すごいなあ。	대단해.	Amazing.						0	
+b-9											0	
+41	已经能够骗过我的眼睛了。	已經能夠騙過我了。	もう私の目じゃ追いきれないよ。	대단한 눈속임인걸.	You're already able to trick my eyes.						0	
+42	真的吗真的吗？	真的嗎真的嗎？	本当ですか！？	정말요? 정말요?	Really? Really???						0	
+b-10											0	
+43	真的。	真的。	もちろんだ。	정말이야.	Really.						0	
+b-11											0	
+44	苔丝，你为什么不在别人面前表演魔术呢？	黛斯，你為什麼不在別人面前表演魔術呢？	でも、どうしてテスはもっと人前でマジックを披露しないんだ？	테스, 왜 다른 사람 앞에서는 마술을 보여주지 않는 거야?	Tess, why don't you practice magic in front of other people?						0	
+45	唔，因为每个人都说，这是不务正业的爱好。	唔，因為每個人都說這是不務正業的愛好。	う……だってみんな、こんなの見たって受験勉強の助けにならないだろって言うから。	음, 왜냐하면 다른 사람은 마술이 제대로 된 직업이 아닌 취미라고 하거든요.	Well, everyone says it's a silly hobby.						0	
+46	为了顺利升学，我还是不去影响大家了。	為了順利升學，我還是不要去影響大家吧。	邪魔になると悪いから、それでみんなには遠慮しちゃって。	순조로운 진학을 위해서라도 그들 눈에 띄지 않는 게 좋을 것 같아서요.	We should be focusing on school. I don't want to distract anyone.						0	
+b-12											0	
+47	爱好而已，没那么严重。	只是愛好而已，沒那麼嚴重。	趣味ぐらい、別にいいじゃないか。	그저 취미일 뿐이잖아. 다들 그렇게 안 좋게 생각하지 않을 거야.	It wouldn't be a distraction. It wouldn't take up any more time than other hobbies.						0	
+b-13											0	
+48	而且，我认为你是有魔术的才能在的。	而且，我覺得你有魔術的天賦。	それに、君にはマジックの才能があると思うよ。	그리고 난 네가 마술에 재능이 있다고 생각해.	And I think you have a talent for magic.						0	
+49	才能吗……我一直认为自己是平庸的。成绩中游，体能普通，也就朋友多一些。	天賦嗎……我一直覺得自己很平庸。成績中等、體能普通，頂多就是朋友比較多。	才能かぁ……私なんて平凡な学生だよ。成績も、運動神経も普通だし。友達が少し多いぐらいでさ。	재능이라… 전 항상 제가 평범하다고 생각했어요. 성적도 중간, 체력도 보통이고, 친구만 적당히 많은 정도예요.	Talent...? I've always seen myself as ordinary. My grades are nothing special and I'm just average at sports. I do have quite a few friends though.						0	
+50	其实我在初中时候也尝试过魔术表演啦，结果大家都说，我虽然手上没有一点破绽，表情却已经完全暴露了。	其實我在國中的時候也試著表演過魔術啦，結果卻被大家說：「雖然你手上絲毫沒有破綻，但是表情已經完全出賣你囉！」	中学の時に、一度だけみんなにマジックを披露したことがあるんだけど、技術はあるのに表情でバレバレだって言われたっけ。	사실 중학교 때도 마술쇼를 해봤어요. 친구들이 그랬는데, 손기술에는 조금의 허점도 없었지만 제 표정에서 속임수가 다 드러난다고 하더라고요.	I actually tried to perform magic for my friends when I was in middle school. Everyone said that while my tricks were good, my demeanor completely gave away every surprise.						0	
+51	也许，我只有魔术的才能，却没有表演的才能吧。	或許我只有魔術的天賦，卻沒有表演的才能吧。	要するに、マジックの才能はあっても、演技の才能がないんだと思う。	제가 마술에만 재능이 있지 연기에는 재능이 없는 걸지도 몰라요.	Maybe I have a talent for magic, but not the stage.						0	
+b-14											0	
+52	自信一些吧，你会闪闪发光的。	拿出自信來，你將來會在舞台上大放異彩的。	自信を持つことだ。君ならできるよ。	자신감을 가져. 넌 반짝반짝 빛날 거야.	Have some confidence in yourself and you'll shine.						0	
+53	嗯嗯！我相信老师。	嗯嗯！我相信老師。	そっか、そうだよね！先生がそう言うなら、私、信じてみるよ。	네! 전 선생님을 믿어요.	Okay! I trust you, Mr. playername.						0	
+54	你和playername早就认识？	你跟playername早就認識了？	playernameさんとは以前からの知り合いなのですか？	playername, 그와는 예전부터 아는 사이였습니까?	You knew playername before?						0	
+55	嗯，在我高中时候，他当了一段时间我的老师。	嗯，我高中的時候，他在我們學校任教過一段時間。	うん。高校の時に、しばらく私の先生をやってたことがあるんだ。	네. 고등학교 다닐 때, 한동안 저의 선생님이었어요.	Yeah, he was my teacher for a while when I was in high school.						0	
+56	我那时按所有人期望的那样，循规蹈矩地上学，读书。是他主动问起了我的爱好，鼓励我去做自己喜欢的事情。	那時候的我按照大家對我的期望，努力上學讀書。是他主動問了我的愛好，並且鼓勵我去做自己喜歡的事情。	当時の私は周りから言われるまま、学校に通って勉強をこなしているだけだった。あの人だけが、私の趣味を応援してくれたの。	저는 그때 모든 사람이 기대한 대로 규칙적으로 학교에 가고, 공부를 했어요. 그가 먼저 제 취미에 대해 물어보고, 제가 좋아하는 일을 하라고 격려해 줬어요.	Back then, I followed the rules, went to school, and studied hard just like everyone expected me to. He was the only one who asked me about my hobbies and encouraged me to pursue the things I liked.						0	
+57	当然，我很久以后才知道，他那时就是公司安全部的队员，来到学校是为了调查与公司有关的事件，老师只是个乔装的身份。	當然我也是過了很久之後才知道，他那時候是公司安全部的隊員，喬裝成老師的身分來到學校是為了調查跟公司有關的事件。	まあ、実際にはユグドラシルの安全部の一員で、学校には会社絡みの事件を調査するために来てたんだけど。先生っていう立場も、まったくのデタラメだったし。	물론 오랜 시간이 지난 후에 알았어요. 그는 그때 회사의 안전부 대원이었고, 회사와 관련된 사건을 조사하러 학교에 왔다는 것을요. 선생님은 그저 위장 신분이었다는 것을요.	Of course, I later learned that he was an Yggdrasil Security Department operative who only came to the school to investigate something. The teaching gig was nothing more than his cover.						0	
+58	从头到尾，我认识的他都是虚假的。	從頭到尾，我所認識的他都是虛假的。	私が見ていたあの人は、なにもかもウソだらけだったってわけ。	처음부터 끝까지, 제가 아는 그는 모든 것이 가짜였어요.	From the very beginning, I only knew a fake version of him.						0	
+59	……	……	……	…	...						0	
+60	请继续吧。	請繼續吧。	続けて。	다음 질문해 주세요.	Let's move on.						0	
+61	你最渴望的东西是什么？	你最渴望的東西是什麼？	では、あなたが一番やりたいことはなんですか？	당신의 가장 큰 소원은 무엇입니까?	What do you desire most?						0	
+62	我想完成那场表演，让他看到那场表演。	我想完成那場演出，並邀他做我的觀眾。	あの人に、私がショーをやり遂げるところを見て欲しい。	그 쇼를 마치는 것이요. 그에게 쇼를 보여주는 것이요.	I want to finish that performance. I want him to see it.						0	
+63	老师！多谢你这几天陪我一起练习，我觉得自己的魔术手法越来越娴熟了呢！	老師！謝謝你這幾天陪我一起練習，我覺得自己的魔術手法越來越嫻熟了喔！	先生！この間練習に付き合ってくれてありがとう！なんだか、マジックが上達した気がするよ！	선생님! 요 며칠간 함께 연습해 주셔서 감사해요. 제 마술 실력이 나날이 발전하는 것 같아요!	Mr. playername! Thanks for watching me practice these last few days. I feel like I'm getting better at magic!						0	
+64	今天我请客，请你吃超好吃的可丽饼。	今天讓我請你吃超好吃的可麗餅。	今日はめちゃくちゃ美味しいクレープを食べにいこうよ！もちろん私の奢りで！	오늘은 제가 살게요. 엄청 맛있는 크레이프를 사드릴게요.	It's my treat today — I'm going to get you a delicious crepe.						0	
+65	嘿嘿，在毕业晚会上，有老师做我的助手的话，我一定能让所有人都吓一跳的！	嘿嘿～要是老師能在畢業晚會上當我的助手的話，我的魔術一定會為所有人帶來驚喜！	ふふ～ん、卒業式のときに、私の助手が先生だって分かったら、みんなきっとびっくりするだろうな～！	헤헤, 졸업 파티 때 선생님이 저의 조수 역할을 해주시면 모두가 깜짝 놀랄 거예요!	Hehe, if you play the role of my assistant at the graduation ceremony, I'll definitely be able to surprise everyone!						0	
+b-15											0	
+66	苔丝，其实……	黛斯，其實……	テス……その。	테스, 사실은…	Tess, actually...						0	
+b-16											0	
+67	我可能过段时间就会调走了，抱歉。	我可能過段時間就要被調走了，抱歉。	実は、転勤が決まったんだ。もうすぐ別の学校に移ることになる。ごめん。	난 얼마 후에 전근을 가게 될 것 같아, 미안해.	I might be getting transferred again soon. I'm sorry.						0	
+68	哎？	欸？	え？	네?	Huh?						0	
+69	不…不会吧，老师又没做错什么事情，怎么会被调走呢！	不、不會吧…，老師又沒犯什麼錯，怎麼會被調走呢！	そ、そんな！先生は何も問題なんか起こしてないでしょ。どうして急に転勤なんて……	이…이럴 수가, 선생님이 잘못한 것도 없는데, 왜 전근을 가세요?!	No way... You didn't do anything wrong, so why are they transferring you?						0	
+b-17											0	
+70	是正常的工作调动。	就是常見的工作調動。	処分じゃない。ただの異動なんだ。	일반적인 업무 이동이야.	It's just a normal transfer.						0	
+71	像是光短暂地穿过了乌云，又被吝啬地收了回去。	就像是即將撥雲見日，卻又被烏雲籠罩般絕望。	それはまるで、ようやく雲間から差し込んだ一筋の光が、瞬く間に隠れてしまったかのような感覚だった。	마치 찰나의 빛줄기가 먹구름을 뚫고 들어왔다가, 다시 인색하게 사라져 버린 듯한 느낌이었다.	It was as if the sun rays shining through a cluster of dark clouds had suddenly vanished.						0	
+72	想说很多话，但面前的老师，眼中也带着难以掩饰的落寞。	有很多話想說，但就連站在我面前的老師眼中都帶著難以掩飾的落寞。	言いたいことは沢山あった。けれど、目の前の先生の瞳にも、隠しきれないほどの寂しさが溢れていた。	하고 싶은 말이 많았지만, 소녀 앞에 있는 선생님 눈에도 감출 수 없는 쓸쓸함이 배어 있었다.	There were so many things she wanted to say, but the teacher's gaze in front of her conveyed an ill-concealed loneliness.						0	
+73	不能再给他添麻烦了。	不能再給他添麻煩了。	だから、これ以上迷惑はかけられないと思った。	더 이상 그에게 폐를 끼칠 수는 없다.	She didn't want to bother him any more than she already had.						0	
+74	既然这样，老师，我就去申请出演两周后的新年晚会节目吧。	既然這樣的話，那我就改成去申請在兩週後的新春聯歡晚會上表演吧。	じゃあ……卒業式じゃなくて、2週間後の新年イベントに出ることにする！	그렇다면 선생님, 제가 2주 뒤에 있을 신년 파티 공연에 출연을 신청할게요.	In that case, I'm going to apply to perform in the New Year's party show in two weeks.						0	
+b-18											0	
+75	两周吗？这么短的时间，准备起来会很累的。	兩週後嗎？準備時間太短了，這樣你會很累的。	2週間後？準備期間も短いし、厳しいんじゃないか。	2주 뒤라고? 그 짧은 시간 안에 준비하려면 꽤 힘들 텐데.	In two weeks? It's going to be tough to get everything ready in such a short time.						0	
+76	我会努力的！	我會加倍努力的！	私、頑張るもん！	열심히 해볼게요!	I'm going to give it my all!						0	
+77	就相信我一次，好吗？	這一次就相信我吧，好嗎？	だから信じて。お願い！	절 믿어주세요, 알겠죠?	Just trust me, okay?						0	
+78	他答应了，为此专门在任务结束后请假留下来看我表演。	他答應了，為此還特地在任務結束後請假留下來看我表演。	あの人はそんな私の言葉を信じて、ミッションが終わった後にわざわざ休みを取って、私のショーを見に来てくれた。	그는 미션이 끝난 뒤 특별히 휴가를 신청해 제 공연을 보러 오기로 약속했어요.	He promised me that he would watch me perform. He even asked for leave after the mission just to come watch.						0	
+79	但当我走上舞台，看着下面的人山人海时，却晕了过去。	表演那天，當我走上舞台看著下面人山人海的景象時，卻因為太過緊張而昏倒了。	なのに舞台に上がった私は、集まった沢山の観客を見ただけで、失神しちゃったの。	그런데 저는 무대에 오르자마자 수많은 관객을 보고 기절했어요.	But when I got on stage and saw the countless people in the audience, I blacked out.						0	
+80	三天后我醒来时，他刚好在当天早上离开，病房的桌上还摆着他削好的苹果。	三天後當我醒來時，正好也是他離開的日子。在我病房的桌上還放著他幫我削好的蘋果。	3日後、目を覚ました時には、あの人はとっくに帰った後だった。当日朝の便で立ったんだって。病室の机の上には、あの人が剥いてくれたリンゴがそのまま残されてた。	사흘 뒤에 깨어났을 때 그는 그날 아침에 이미 떠났고, 병실 탁자 위에는 그가 깎아 놓은 사과가 놓여 있었어요.	I woke up three days later, and he just happened to leave that morning. He'd left a peeled apple on the table in the medical ward.						0	
+81	看来，第三个问题的答案也已经呼之欲出了。	看來，第三個問題的答案已經呼之欲出了。	どうやら、それは３つ目の質問に対する答えでもあるようですね。	세 번째 질문에 대한 답도 이미 나온 것 같군요.	Looks like the answer to the third question is about to be revealed.						0	
+82	是的，我成为天启者的原因，是为了找到他。	沒錯，我會成為天啟者的理由，就是為了要找到他。	うん。私が覚醒者になったのも、あの人を探すためだよ。	네. 제가 계시자가 된 것은 그를 찾기 위해서예요.	Yes. The reason I became a Manifestation was to find him.						0	
+83	他的一切都是虚假的，但他留给我的记忆不是。	雖然當時他的一切都是虛假的，但我們一起創造的美好回憶卻是真實的！	あの人に関することは全部ウソだったけど、あの人が残してくれた思い出だけは、ウソなんかじゃなかったから。	그의 모든 것은 가짜였지만, 저에게 남긴 기억은 진짜였어요.	Everything about him was fake, but the memories he left me with were real.						0	
+84	找到playername，为了追逐他在四年前给我留下的光，我参加了天启者选拔。	為了找到playername、為了追逐他在四年前為我留下的光，於是我參加了天啟者選拔。	playernameとまた会いたい。あの人が４年前に見せてくれた光をまた追いかけるために、私は覚醒者選抜に参加したの。	playername, 그를 찾기 위해서, 4년 전 그가 남긴 빛줄기를 쫓기 위해서 전 계시자 선발에 참가했어요.	I participated in the Manifestation selection process to find playername and chase the light he left with me four years ago.						0	
+85	本来以为进入了公司就能见到他，但来了以后我才知道，他已经参加了夺回槲寄生空间站的任务。	原本以為只要進入公司就能見到他，但來了之後我才知道，他正在執行奪回槲寄生太空站的任務。	入社さえできれば再会できるって思ってたけど、その頃には、すでにヤドリギ宇宙ステーション奪還の任務に就いてる頃だった。	회사에 들어가면 그를 만날 수 있을 줄 알았는데, 들어온 뒤에 알게 되었어요. 그는 이미 미스틸테인 우주정거장 탈환 미션에 투입되었다는 걸요.	I thought I'd be able to see him as soon as I joined the company, but then I learned he was on a mission at Mistilteinn Station when I arrived.						0	
+86	在那时，我几乎已经放弃了重新见他一面的想法，就按照陶董的要求，去了耶洛沙。	那時候我差不多已經放棄了再見他一面的念頭了，因此我聽從τ董的要求去了耶洛沙。	その時に、もう会えない運命なのかもしれないなって思って。それでτさんに言われた通りに、イェロシャに向かったんだよね。	그때 전 그를 다시 만난다는 생각은 접어두고, τ 이사장님의 지시에 따라 옐로샤로 갔어요.	So I pretty much gave up on ever seeing him again. I just listened to Director τ's order and went to Yehrus.						0	
+87	结果，当我得知他从空间站返回，火急火燎地赶回来，却没有勇气去见他一面……	結果，當我知道他從太空站返回時，我急急忙忙地趕了回來，但卻沒有勇氣去找他……	で、ヤドリギから戻ったって聞いたから、私も急いで駆けつけたんだけど、結局今度は会う勇気が持てなくって。	그가 우주 정거장에서 돌아왔다는 소식을 듣고 부리나케 돌아왔지만, 그를 만날 용기가 나지 않았어요…	But when I learned he'd come back from the station, I rushed back right away. Still, I didn't have the courage to face him...						0	
+88	可以理解。	可以理解。	その気持ち、わかる気がします。	이해합니다.	That's understandable.						0	
+89	是吗？我还以为我这样已经能算得上奇怪了。	是嗎？我還以為這種行為很奇怪呢。	本当に？自分でも変だなって思うのに。	정말요? 저를 이상하게 생각하실 줄 알았는데.	Is it? I thought it was pretty weird.						0	
+90	看来你对海姆达尔部队的其他人缺少认知。	看來你缺少對海姆達爾部隊其他人的認識。	あなたがそう感じるのは、ヘイムダル部隊の隊員たちをまだよく知らないからでしょう。	당신은 헤임달 부대의 다른 사람들을 잘 모르는 것 같군요.	It appears that you don't know much about the other Heimdall Force operatives.						0	
+91	不管怎么样，恭喜你完成了诊断，结果我会尽快分析后告知你。	不管怎麼樣，恭喜你順利完成診斷，我會盡快分析診斷結果並告訴你。	とにかく、検査はこれで終了です。結果については、解析でき次第連絡する予定です。	아무튼 축하드립니다, 진료가 끝났습니다. 결과는 분석이 끝나는 대로 통지해 드리겠습니다.	Regardless, congratulations on completing the diagnostic exam this time. I'll get the results to you soon.						0	
+92	谢谢。	謝謝。	うん、ありがとう。	고마워요.	Thank you.						0	
+93	苔丝，你的休假不得不提前结束了。	黛斯，你的休假不得不提前結束了。	テス。残念ですが、休暇を繰り上げてもらうことになりました。	테스, 네 휴가는 부득이하게 일찍 끝내야 할 것 같아.	Tess, your vacation is going to have to end early.						0	
+94	你需要立刻返回耶洛沙，找到并带回目标，伊切尔·古斯塔夫。	你必須立刻返回耶洛沙，找到並帶回目標「伊切爾·古斯塔夫」。	急いでイェロシャに戻り、ターゲットであるイチェル・グスタフを見付け、奪還してください。	넌 즉시 옐로샤로 돌아가서 목표물을 찾아 가져와야 해. 목표는 이첼 구스타프다.	You need to return to Yehrus immediately. I need you to locate and bring back a target — Eatchel Gustav.						0	
+95	她脱离控制的时间越久，耶洛沙生变的可能性就越高。	只要她脫離控制的時間越久，耶洛沙生變的風險就越高。	彼女が我々の目を離れている時間が長くなればなるほど、イェロシャで異変が起こる可能性は高まります。	그녀가 통제를 벗어나는 시간이 길어질수록, 옐로샤에 사고가 터질 가능성이 높아.	The longer she isn't under control, the more likely it is that something will shift in Yehrus.						0	
+96	（唉，可我刚做好了去见playername的准备啊。）	（唉，我才剛做好去見playername的心理準備啊。）	（はあ。やっとplayernameに会いに行く準備ができたのに……）	(아, 이제야 playername 님을 만날 준비가 되었는데)	(Ugh, just when I finally felt ready to go see playername...)						0	
+97	我明白了，陶董。	我明白了，τ董。	はい、わかりました。	알겠어요, τ 이사님.	Understood, Director τ.						0	
+98	嗯，这次任务风险很高，保护好自己。	嗯，這次任務風險很高，保護好自己。	かなり危険なミッションです。気をつけてください。	그래. 이번 미션은 위험도가 높으니, 각별히 조심하도록 해.	This mission is extremely high-risk. Be careful.						0	
+99	回来以后，你就会正式加入海姆达尔，成为分析员手下的一员。	回來以後，你就能正式加入海姆達爾，成為分析員手下的一員。	このミッションが終われば、あなたは正式にヘイムダル部隊に加わり、分析員の部下となります。	네가 돌아오면 정식으로 헤임달에 들어가서 분석가 팀의 일원이 될 거야.	After you return, you'll officially join the Heimdall Force as one of the Adjutant's operatives.						0	
+100	你期待这一天很久了，不是吗？	你不是很期待這一天的到來嗎？	あなたもそれを望んでいるのでしょう？	넌 그날을 오랫동안 기다려 왔잖아, 안 그래?	You've been waiting for this day for a long time, right?						0	
+101	您说得对。	您說得沒錯。	うん、もちろん。	맞아요.	Yes, Ma'am.						0	
+102	这一次，我会圆满完成任务的。	這次我也會順利完成任務的！	今回も完璧にこなしてみせるよ。	이번엔 무사히 미션을 완수할 거예요.	This time, I'll make sure the mission is a success.						0	

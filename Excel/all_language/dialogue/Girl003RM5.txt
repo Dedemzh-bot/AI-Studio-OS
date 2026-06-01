@@ -1,0 +1,57 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	家，甜蜜的家！	家，甜蜜的家！	愛しい我が家！	홈 스윗 홈~	Home sweet home!						0	
+2	我们回来了！	我們回來了！	帰ってきたぞ！	돌아왔다~ 드디어~	We're back!						0	
+3	妮塔夸张地张开双臂奔向基地大厅的沙发。	妮塔誇張地張開雙臂奔向基地大廳的沙發。	ニタは大げさに両腕を広げ、社員寮ロビーにあるソファに飛び込む。	니타는 양팔을 벌리며 숙소 로비의 소파로 뛰어갔다.	Nita threw her arms open dramatically and ran toward the coach in the hall of the Base.						0	
+4	经过这次“旅行”，我有些理解了她对这里为何这么依恋。	經過這次「旅行」，我有些理解了她對這裡為何這麼依戀。	今度の「旅行」を経て、彼女がこの場所に愛着を持つ理由も少し理解できた。	이번 '여행'을 통해 나는 니타가 왜 이렇게 이곳에 대해 이토록 애착하는지 이해할 수 있었다.	After our "vacation," I'd started to realize why she was so attached to this place.						0	
+5	你也累了，早点回房间休息吧。	你也累了，早點回房間休息。	ニタも疲れたよね。早くに部屋に戻って休もう。	피곤할텐데 어서 방으로 돌아가서 쉬어.	You must be tired. Head back to your room and get some rest.						0	
+6	下次我们去一个更合适的地方，只是单纯地旅行，别的什么都不要管。	下次我們去一個比較適合的地方，只是單純地旅行，別的什麼都不要管。	次はもっと良さげな場所に行って、他のことなんて忘れて旅行を楽しもう。	다음에는 조금 더 편안하게 여행할 수 있는 곳으로 가자. 아무 것도 생각하지 않고 재밌게 놀 수 있는 곳으로.	Next time, let's go somewhere better for a vacation. Somewhere we can just travel without worrying about anything else.						0	
+7	呃，那个……	呃，那個……	あのさ、えっと……	흠, 근데 말이야…	Uh, well...						0	
+8	其实我根本没中什么二等奖，对吧？	其實我根本沒中什麼二等獎，對吧？	もしかしてだけど、そもそも二等賞あたってないよね？	사실 2등으로 당첨됐다고 했던 거, 그거 사실 아니지?	I didn't actually win the second prize, did I?						0	
+9	果然，被她察觉了。	果然，被她察覺了。	やっぱり、気づかれた。	과연… 니타의 감각이란.	As expected, she finally saw right through me.						0	
+10	……抱歉，妮塔。	……抱歉，妮塔。	……ごめん、ニタ。	… 미안해, 니타.	...Sorry, Nita.						0	
+11	接下来，我向妮塔说明了这一系列的阴差阳错。\N一边说着，一边想着该如何补偿她。	接下來，我向妮塔說明了這一系列的陰差陽錯。\N一邊說著，一邊想著該如何補償她。	私はこの一連のことを彼女に説明しながら、\Nどうやって彼女に埋め合わせするかを考えた。	나는 그제야 이렇게 할 수밖에 없던 이유를 니타에게 일일이 말해주었다. 그리고 한편으로 미안한 마음에 니타에게 뭘 보상해 줘야할지 고민했다.	I explained the series of events that led to this. As I spoke, I thought about how to make it up to her.						0	
+12	……哈，原来这些都是分析员的心意。	……哈，原來這些都是分析員的心意。	……ふふ、全部、分析員の気持ちだったんだね。	나 참, 이 모든 게 분석가가 계획했던 일이었다니.	...Hah, so that's what actually happened.						0	
+13	我就说我的运气好得有点离奇了，还担心是不是接下来要倒霉一整年。	我就說我的運氣好得有點離奇了，還擔心是不是接下來要倒楣一整年。	我ながら運が良すぎると思ってたよ。あれに運を使い切っちゃって、これから一年どうなるだろうと心配してたんだ。	난 또 내 운이 왜 이렇게 좋나 했네. 오히려 다음에 운이 나빠질까 봐 고민한 거 있지?	I had a feeling it was too lucky to be true. I was even worried that I'd used up all my luck for the year!						0	
+14	为什么会这么想？	為什麼會這麼想？	どうしてそう思うの？	왜 그렇게 생각하는데?	Why do you say that?						0	
+15	以前一直都是这个样子。	以前一直都是這個樣子。	昔からずっとそうだったから。	예전엔 줄곧 그랬으니까.	Because it was always like that before.						0	
+16	一旦有什么稍微好点的事情发生，接下来一定会倒霉。	一旦有什麼稍微好點的事情發生，接下來一定會倒楣。	何かいいことがあったら、その後はきっと悪いことが起こる。	조금이라도 좋은 일이 생기면 반드시 재수가 없어지더라고.	As soon as something even a little good happens, I'll definitely have bad luck afterward.						0	
+17	我已经习惯了。	我已經習慣了。	もう慣れたから。	그래서 이미 습관이 됐지 뭐야.	I'm used to it.						0	
+18	这种事不要习惯啊。	這種事不要習慣啊。	そんなことに慣れるなよ。	그런 식으로 안 좋은 쪽으로 익숙해져선 안돼.	Don't resign yourself to that.						0	
+19	妮塔值得过更好的人生。	妮塔值得過更好的人生。	ニタにはもっといい人生が相応しいと思う。	니타는 훨씬 좋은 인생을 살 자격이 있다고.	You deserve a better life.						0	
+b-1											0	
+20	将她揽在怀里	將她攬在懷裡	彼女を抱きしめる	그녀를 품에 안는다.	Wrap her in your embrace						0	
+21	更何况，现在有我在呢。	更何況，現在有我在。	それに、今は私もいる。	그리고 지금은 내가 옆에 있잖아.	And I'm here now.						0	
+22	她先是愣了一下，接着在我怀中放松了下来。	她先是愣了一下，接著在我懷中放鬆了。	彼女は驚いて、それから私の腕の中でリラックスした。	그녀는 순간 멍하니 있다가 이어서 내 품에서 긴장을 풀었다.	She was astonished for a moment before relaxing in my arms.						0	
+23	与她额头相贴	與她額頭相貼	彼女と額を合わせる	그녀와 이마를 맞댄다.	Touch her forehead						0	
+24	我会陪着你。	我會陪著你。	私がそばにいるからね。	내가 니타 옆에 있어줄게.	I'll be here for you.						0	
+25	我能感觉到她一瞬间屏住了呼吸，接着她放松了下来，闭上了双眼。	我感覺到她一瞬間屏住了呼吸，接著她放鬆了下來，閉上了雙眼。	彼女は一瞬呼吸を止めてから、ゆっくりと吐いた。そして彼女は目を閉じた。	나는 그녀가 순간 숨을 죽이고 있는 것을 느낄 수 있었다. 그녀는 긴장을 푼 채 두 눈을 감았다.	I could feel her holding her breath for a moment before she relaxed and let her eyelids fall shut.						0	
+26	不要对我这么温柔啊，我……	不要對我這麼溫柔啊，我……	そんなに、優しくしないで。私は……	너무 이렇게 다정하게 굴지 마. 난…	Don't be so gentle with me. I...						0	
+27	眼前的少女深深地吸了一口气。	眼前的少女深深吸了一口氣。	目の前の少女は深く息を吸い込んだ。	눈앞의 소녀는 숨을 깊게 들이마신다.	The girl in front of me took a deep breath.						0	
+28	你知道吗？playername。	你知道嗎？playername。	知ってる、playername？	그거 알아? playername.	You know something, playername?						0	
+29	我好喜欢你，最喜欢你了。	我好喜歡你，最喜歡你了。	私は分析員のことが好き、大好きなんだ。	난 네가 좋아… 그것도 제일…	I like you. I really, really like you.						0	
+30	不，不对！	不，不對！	ち、違う！	아, 아니지!	N—No! That's not right!						0	
+31	不应该只是这样。	不應該只是這樣。	それだけじゃない。	사실 이것뿐만이 아니라.	That's not all I want to say.						0	
+32	我其实真正想要对你说的是——	我其實真正想要對你說的是——	私が本当に言いたいのは——	내가 진지하게 얘기하고 싶은 게 있는데…	I actually want to tell you...						0	
+33	我想成为你的家人。	我想成為你的家人。	あなたの家族になりたい。	한 가족이 되고 싶어.	I want to become your family.						0	
+34	成为你未来人生旅途的旅伴。	成為你未來人生旅程的旅伴。	あなたと共に人生の旅を歩みたい。	평생 미래를 함께 동반할 동반자.	I want to be your travel partner on your journey through life.						0	
+35	陪你吃饱，睡好，一直到老……	陪你吃飽，睡好，一直到老……	一緒に食べて、寝て、年を重ねたい……	밥도 같이 먹고, 잠도 같이 자고, 죽을 때까지…	I want to be there when you eat, when you sleep, until we grow old...						0	
+36	这会让你感到困扰吗？	這會讓你感到困擾嗎？	……なんて言ったら、困る？	너무 과분한 생각인 걸까?	Does that bother you?						0	
+37	分析员？	分析員？	分析員？	분석가?	Adjutant?						0	
+38	在瓦尔哈拉空间内，与那么多人的意识相触碰。	在瓦爾哈拉空間內，與那麼多人的意識相觸碰。	ヴァルハラ空間の中で、たくさんの人の意識に触れたはずだよね。	발할라 공간에서 사람들의 의식과 맞닿았을 때 말인데.	When you were in Valhalla, you encountered so many people's consciousnesses.						0	
+39	告诉我，那是一种怎样的感觉？	告訴我，那是怎樣的感覺？	あれってどんな感じ？	그때 어떤 느낌이었어?	Tell me — what did it feel like?						0	
+40	就像在一片由不同意识构成的海洋里，不停地下沉。	就像在一片由不同意識構成的海洋裡，不停地下沉。	色々な意識で満たされた海の中を、ひたすら沈んでいくような感覚だった。	서로 다른 의식으로 이루어진 바닷속에서 끊임없이 가라앉는 느낌이랄까.	It was like constantly sinking in an ocean made up of different thoughts, personalities, pasts, and hopes.						0	
+41	你会听到很多人的很多声音，那些声音未必是真实的，它们会像海妖的歌声一样一直纠缠着你。	你會聽到很多人的許多聲音，那些聲音未必是真實的，它們會像海妖的歌聲一樣一直糾纏著你。	たくさんの人の声が聞こえた。だけど、そのすべてが本当の声ではない。その声たちが、まるでセイレーンの歌声のように絡みついてきた。	여러 사람들의 목소리를 들려오는데 모두가 진실된 목소리는 아니었어. 마치 바다에 있는 귀신의 노랫소리가 계속해서 몸에 얽혀있는 느낌이었어.	I heard so many voices from different people, but those voices might not have been real... They haunt me like a siren song.						0	
+42	你在瓦尔哈拉也听到过我的声音吗？	你在瓦爾哈拉也聽過我的聲音嗎？	ヴァルハラで私の声も聞こえた？	발할라에서도 내 목소리가 들렸어?	Did you hear my voice in Valhalla too?						0	
+43	我现在就在听着你的声音，这才是真实的。	我現在就在聽著你的聲音，這才是真實的。	ニタの声なら今聞いているよ。この声だけが本物だ。	지금도 이렇게 들려오는 니타의 목소리야말로 진실된 목소리지.	I can hear your voice right now. This is real.						0	
+44	在瓦尔哈拉……你必须要告诫自己什么才是真实，否则你会失去你自己。	在瓦爾哈拉……你必須告誡自己什麼才是真實，否則你會失去你自己。	ヴァルハラでは……何が真実なのかを、常に自分に言い聞かせないといけない。じゃないと、自分を見失ってしまうから。	발할라에서는… 진실이 무엇인지를 스스로가 계속해서 인지를 하고 있어야 해. 그렇지 않으면 자신을 잃어버리게 될 거야.	In Valhalla... you need to remind yourself what's real, or you could lose yourself.						0	
+45	那一定很辛苦吧，分析员。	那一定很辛苦吧，分析員。	……辛いだろうね、きっと。	정말 힘들었겠네.	That must have been really hard, Adjutant.						0	
+46	说服自己从或许更加美好的梦境中醒来。	說服自己從或許更加美好的夢境中醒來。	現実よりも幸せかもしれない夢から、目を覚まさないといけないんだから。	꿈에서 깨어나도록 자신을 설득해야 했으니 말이야.	You have to convince yourself to wake up from a dream that might feel better than reality.						0	
+47	选择真实从来都不是一件轻松的事，这点妮塔你比我更加了解。	選擇真實從來都不是一件輕鬆的事，這點妮塔你比我更了解。	真実を選ぶことは、いつだって難しいことだ。ニタのほうがよく知っているだろう。	진실을 선택하는 게 결코 쉬운 일이 아니라는 건 니타가 나보다 더 잘 알고 있을 것 같은데?	Choosing what's real is never easy. You know that better than I do, Nita.						0	
+48	是，这样的温度。	是，這樣的溫度。	へへっ、そうかもなぁ。この温もりも……	맞아, 이런 온도…	Yeah, this warmth.						0	
+49	这样的相触。	這樣的相觸。	こうやって触れ合うことも……	이런 접촉…	This touch.						0	
+51	这些都是如此真实。	這些都是如此真實。	何よりも、真実なんだよね。	이 모든 게 다 진실이라고 할 수 있지.	They are all real.						0	
+52	我们真实存在于此刻。	我們真實存在於此刻。	ああ。私たちは確かに、今を生きている。	우리는 지금 이 순간에 이곳에서 존재하고 있는 거야.	We really exist in this moment.						0	
+53	未来我们要去往何处呢？	未來我們要去哪裡呢？	これからどこに行けばいいの？	그럼 앞으로 어디로 나아가야 하는 걸까?	Where will we go in the future?						0	
+54	哈，总归是和分析员一起的。	哈，總歸是和分析員一起的。	まぁ、どこに行っても分析員がそばにいてくれるし。	하하, 뭐든 좋아. 분석가랑 함께 하는 거라면.	Hah, I know I'll be with you.						0	
+55	想想就让人兴奋！	想想就讓人興奮！	そう考えるだけで、嬉しくなっちゃう！	생각만 해도 신이 나는걸!	I'm getting excited just thinking about it!						0	

@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	别过来！别过来！！	別過來！別過來！！	来るな！俺に触れるな！！	오지 마! 오지 마!	Stay back! Stay back!!!						0	
+page1.2	别怕，我们是来救你的。	別怕，我們是來救你的。	落ち着いてください。私達は助けに来たんですよ。	그렇게 무서워하지 마, 우린 그저 널 구해주러 온 거니까.	Don't be afraid. We're here to help you.						0	

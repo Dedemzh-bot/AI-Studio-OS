@@ -1,0 +1,10 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+shop	商店(%s)	0	
+gacha	共鸣(%s)	0	
+tower	地下清理	0	
+boss	精神拟境	0	
+role	个人故事：%s	0	
+chapterhard	【困难】	0	
+monthcard	月卡奖励	0	
+daily	日常任务奖励	0	

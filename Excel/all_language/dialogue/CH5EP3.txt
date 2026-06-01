@@ -1,0 +1,93 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	自称贝奥武夫中队的军方小队一路上都保持缄默。	自稱貝奧武夫中隊的軍方小隊一路上都保持緘默。	ベーオウルフ中隊と名乗った軍隊は、それからずっとだんまりだった。	베오울프 중대의 군부 인원들은 언행에 있어 굉장히 신중했다.	The Beowulf Battalion remained quiet the whole way.						0	
+2	除了与我们共享目的地坐标外，对于此行的目的只字不提。	除了與我們共享目的地座標外，對於此行的目的隻字不提。	目的地の座標を共有してくれる以外に、今回の行動の目的について全く口にしなかった。	우리에게 목적지 좌표를 공유한 것 외에는 미션에 대해서 단 한마디도 언급하지 않았다.	Apart from sharing the coordinates of the destination, not a word was said about the mission objective.						0	
+3	海姆达尔部队的战斗力，真令人惊叹！不过我们这边也不差。	海姆達爾部隊的戰鬥力，真令人驚嘆！不過我們這邊也不差。	ヘイムダル部隊の戦力は大したものだ、驚いたぞ。こちらもヤワなつもりはないが。	헤임달 부대 전투력은 정말 말도 안 될 정도로 놀랍네요! 하지만 저희 군부도 만만치 않습니다.	The Heimdall Force's combat power is really incredible! We're not bad either, though.						0	
+4	侦察兵！排查交火区域潜在威胁！	偵察兵！排查交火區域潛在威脅！	偵察兵！戦場の潜在的脅威を偵察しろ！	정찰병! 숨겨진 위험 요소들을 확인하기 바란다!	Scout! Check for potential threats in the crossfire zone!						0	
+5	通讯兵！核实一下坐标！	通訊兵！核實一下座標！	通信兵！座標を確認しろ！	통신병! 좌표를 다시 한번 확인하도록!	Communications unit! Confirm the coordinates!						0	
+6	地铁月台看起来都差不多，别搞错了。	地鐵月台看起來都差不多，別搞錯了。	地下鉄のホームはどこも似ているからな。間違えるなよ。	지하철 승강장은 대체로 비슷하게 생겼으니 혼선에 유의하고!	Subway platforms all look the same, so make sure you get the right one.						0	
+b-1											0	
+7	那么李上尉，可以说明一下此行的真实目的吗？	那麼李上尉，可以說明一下此行的真實目的嗎？	李大尉、今回の行動について本当の目的を教えてくれないか？	이대위님, 미션의 목적을 말씀해 주실 수 있을까요?	So, Captain Li. Would you mind telling us the true objective of this mission?						0	
+8	我终于忍不住开口发问。	我終於忍不住開口發問。	ついに我慢できず聞いてしまった。	난 끝내 참지 못하고 물어봤다.	I'd finally had enough of being left in the dark.						0	
+9	分析员阁下，你是第一次执行这个任务吗？	分析員閣下，你是第一次執行這個任務嗎？	この任務、分析員殿は初めてか？	분석가님, 이번이 첫 미션이십니까?	Mr. Adjutant, is it your first time on this type of joint mission?						0	
+10	按照规章流程，我们当然可以共享情报。	按照規章流程，我們當然可以共享情報。	もちろん、規則に基づいて情報は共有できる。	규정에 따라 정보를 공유할 수는 있습니다만,	Of course, we're able to share intelligence according to the rules and procedures.						0	
+11	只不过，有一些保密级别上的问题，你还是问自己人吧。	只不過，有一些保密級別上的問題，你還是問自己人吧。	ただし、機密保護レベルの問題があるので、仲間に聞いてくれ。	기밀 사항에 있어선 대원들한테 물어보시는 게 더 좋을 것 같습니다.	But for certain confidential information, it's best you ask your own people.						0	
+b-2											0	
+12	自己人？	自己人？	仲間に？	저희 대원을 말하는 건가요?	My own people?						0	
+13	远处漆黑的地铁隧道中忽然亮起两盏照明灯的光芒。	遠處漆黑的地鐵隧道中忽然亮起兩盞照明燈的光芒。	暗い地下鉄のトンネルの向こう、二台の照明が急についた。	먼 곳에 있는 어두운 터널에서 순간 두 개의 조명 불빛이 보이기 시작했다.	In the distant depths of the pitch-black subway tunnel, two blaring lights suddenly shone.						0	
+14	左右交替，明暗闪烁……那是灯语？	左右交替，明暗閃爍……那是燈語？	左右交互に、点滅している……あれは灯火信号？	좌우로 교차시키며 껐다 켰다를 반복했고… 그 모습은 마치 등불로 신호를 보내오는 것 같았다.	They alternated between left and right, between bright and dull... were they signaling something?						0	
+15	在李上尉的示意下，贝奥武夫中队的通讯兵也向对方做出了回应。	在李上尉的示意下，貝奧武夫中隊的通訊兵也向對方做出了回應。	李大尉の指示で、ベーオウルフ中隊の通信兵が相手に返事をした。	이대위 지시에 따라 베오울프 중대의 통신병도 상대방에게 호응을 했다.	Under Captain Li's directions, Beowulf Battalion's communication unit began signaling a reply.						0	
+16	在通过灯语沟通过后，从隧道中走出一位女性。	在通過燈語溝通過後，從隧道中走出一位女性。	信号で交信した後、トンネルから1人の女性が現れた。	등불 신호로 상호 간 소통을 한 후 터널 속에서 한 여성이 걸어 나왔다.	After the lamp exchange was over, a woman walked out from the tunnel.						0	
+17	抱歉，这里的污染程度没法用通讯来联络呢。	抱歉，這裡的汙染程度沒法用通訊來聯絡呢。	すみません、こちらの汚染が酷くて、通信が繋がらないようですね。	미안해. 이곳은 오염 노출이 심한 편이라 단말기를 사용할 수 없었어.	Sorry, the Titagen contamination is too dense to use the communicator.						0	
+18	还是只能用这种办法，添麻烦啦。	還是只能用這種辦法，給您添麻煩啦。	こういう方法しかないので、迷惑をかけました。	그래서 어쩔 수 없이 이런 방법을 사용하고 있었지. 번거롭게 해서 미안해.	This was the only method left. I'm sorry to make you go through that.						0	
+19	哪有哪有，在零区，还是这种方式最可靠。	哪有哪有，在零區還是這種方式最可靠。	いや、エリアゼロではこういう方法が一番いい。	아닙니다. 제로 구역에선 이 방법이 더 확실하니까요.	Oh, not at all. Signaling is the most reliable method in the Containment Zone, after all.						0	
+20	李上尉真是好人呢。	李上尉真是好人呢。	李大尉は良い方ですね。	역시 이대위는 참 믿음직스러워.	You're very kind, Captain Li.						0	
+21	您是？	您是？	あなたは……	여긴 누구?	And who might you be?						0	
+22	分析员？对吧？真人比照片要更可爱呢。	分析員？對吧？真人比照片要更可愛呢。	分析員、ですね？写真よりも可愛いです。	분석가? 맞지? 실물이 훨씬 귀엽네!	Adjutant? Is that right? You look much sweeter in person than you do in your photo.						0	
+23	我是恩雅·墨尔菲，这次任务的协调人，请多关照。	我是恩雅·墨爾菲，這次任務的協調人，請多關照。	私はエンヤ・マーフィー。今回の任務のコーディネーターです、よろしくお願いします。	난 엔야 머피라고 해. 미션의 협조자로 왔고! 잘 부탁해!	It's lovely to meet you. I'm Enya Murphy, the coordinator of this mission.						0	
+24	可爱……倒是不常被这样形容。	可愛……倒是不常被這樣形容。	可愛いって……そんなふうに言われたことはないけど……	귀엽다라… 자주 들어본 말은 아닌데…	Sweet... was not a word people commonly described me with.						0	
+b-4											0	
+26	恩雅……姐，协调人是指？	恩雅……姐，協調人是指？	エンヤ……姉、コーディネーターとは？	엔야… 누님이시군요. 협조자는 무슨 역할인가요?	Enya... Ms. Enya, what do you mean by coordinator?						0	
+27	不自觉就加上了一个“姐”字，大概是因为气质吧……	不自覺就加上了一個“姐”字，大概是因為氣質吧……	思わず「姉」を付けた、彼女の雰囲気に影響されたかもしれない……	기세 때문이었을까… 나도 모르게 '누님'이라는 단어를 붙였다…	I'd unconsciously added a "Ms." to her name. I guess she just gave off that feeling...						0	
+28	欸？脸红扑扑，看起来更可爱了呢！	欸？臉紅撲撲，看起來更可愛了呢！	あら……！お顔を真っ赤にして……可愛い！	어머? 얼굴 달아오른 것 좀 봐! 너무 귀여워!	Eh? Look at you blush like that. Aren't you adorable!						0	
+29	协调人，顾名思义，是指协调海姆达尔部队和军方的统一行动的人。	協調人，顧名思義，是指協調海姆達爾部隊和軍方的統一行動的人。	コーディネーターとは、文字通り、ヘイムダル部隊と軍の行動を調整する人のことです。	협조자는 말 그대로 헤임달 부대와 군부가 같이 움직일 수 있도록 협조하는 사람을 말해.	A coordinator, as the name suggests, coordinates the operation between the Heimdall Force and the military.						0	
+30	像这样特殊的任务，合作双方必须步调统一，才能顺利推进。	像這樣特殊的任務，合作雙方必須步調統一，才能順利推進。	こういう特殊任務は、両方の息が合わなければうまくいきません。	이런 특수한 미션은 양측에서 협조를 해야 순조롭게 진행할 수 있지.	This particular type of mission can only go well with both sides working in unison.						0	
+b-5											0	
+31	其实……我还不太清楚任务的细节。	其實……我還不太清楚任務的細節。	実は……任務の詳細をまだ聞いてない。	실은… 아직까지 미션의 세부 내용까지는 공유가 안 된 상황이에요.	I actually still... don't really know the details of this mission.						0	
+32	对了，关于任务细节，这位分析员阁下刚才还问我来着。	對了，關於任務細節，這位分析員閣下剛才還問我來著。	そうだ。さっき分析員殿が任務に関することを聞いてきた。	아… 맞습니다… 분석가님이 미션 세부 내용에 대해서 저한테 물어봤었습니다.	That's right, Mr. Adjutant here asked me just earlier about the mission.						0	
+33	啊呀！抱歉忘记了，因为保密级别的原因，公司不会给出有关这个任务的详细资料。	啊呀！抱歉忘記了，因為保密級別的原因，公司不會給出有關這個任務的詳細資料。	あっ！すみません、忘れてました。機密保護のために、社内ではこの任務に関する詳しい資料を出しません。	아! 내 정신 좀 봐! 깜빡했네… 기밀이라 미션에 대한 상세 자료까지는 전달하지 않았거든.	Oh dear! I'm so sorry, I completely forgot. The company doesn't give out detailed information about the mission due to confidentiality requirements.						0	
+34	不过分析员的权限……嗯，是满足解密等级的。	不過分析員的權限……嗯，是滿足解密等級的。	しかし、分析員の権限なら……うん、ちょうど足りてます。	어디 있어보자… 분석가 권한을 좀 볼까… 아! 마침 딱 볼 수 있는 등급이네!	But your authorization level, Adjutant... Yes, it's just enough to meet the disclosure requirements.						0	
+35	分析员应该是第一次执行这种任务吧？	分析員應該是第一次執行這種任務吧？	こういう任務、分析員は初めてですよね？	분석가는 이런 미션이 처음이지?	It's your first time carrying out this type of mission, isn't it, Adjutant?						0	
+b-6											0	
+36	嗯，第一次。	嗯，第一次。	うん、初めてだ。	네. 처음이에요.	Yeah, it's my first time.						0	
+37	分析员，李上尉，我们最好到边上继续这个话题。	分析員，李上尉，我們最好到旁邊繼續這個話題。	分析員、李大尉、場所を変えて話を続けましょう。	분석가, 이대위, 자리를 옮겨서 얘기하는 게 좋을 것 같은데.	Adjutant, Captain Li. We'd better move to the side to continue discussing this.						0	
+38	从定义上来说，这属于“回收物资”类任务哦，只是保密级别上和普通回收任务有区别。	從定義上來說，這屬於“回收物資”類任務哦，只是保密級別上和普通回收任務有區別。	簡単に言うと、これは「物資回収」の任務です。しかし、機密保護のレベルは一般の回収任務と異なります。	이번 미션의 경우 '물자 회수'를 해야 하는데 일반 회수 미션과는 미세한 차이가 있어.	By definition, this is technically a salvage mission. However, it's classified at a higher level of confidentiality than other similar tasks.						0	
+39	回收的目标是一批<orange>“特殊的巴德尔抑制剂”</>。	回收的目標是一批<orange>“特殊的巴德爾抑制劑”</>。	回収するものは<orange>「特殊なバルダー抑制剤」</>です。	우리가 회수해야 할 물건은 <orange>'특수 발드르 억제제'</>야.	The target to salvage this time is a batch of <orange>Special Baldr Inhibitors</>.						0	
+40	我不确定分析员到底了解多少，不过，只要有疑问的地方，都尽管问哦。	我不確定分析員到底了解多少，不過，只要有疑問的地方都別客氣儘管問哦。	分析員がどこまで知っているのかは分かりませんが、疑問があれば、何でも聞いてくださいね。	분석가가 얼마나 알고 있을지 잘 모르겠네. 궁금한 점이 있으면 그 부분을 얘기해 줘.	I'm not sure exactly how much you know, but do feel free to ask about anything you're not clear on.						0	
+b-7											0	
+41	好的，恩雅姐，那么第一个问题……	好的，恩雅姐，那麼第一個問題……	分かった。ならエンヤ姉、まず聞きたいのは……	네… 엔야 누님. 그럼 첫 번째로…	Sure, Ms. Enya. Then I'll start by asking...						0	
+b-8											0	
+42	抑制剂之间……还有不同吗？	抑制劑之間……還有不同嗎？	抑制剤に……違いがあるの？	억제제마다… 어떤 차이점이 있는 거죠?	Are there differences... between different kinds of inhibitors?						0	
+43	我想想，要从哪里说起呢？	我想想，要從哪裡說起呢？	そうですね、どこから話しましょうか。	그래, 그래! 어디 보자… 어디서부터 말해야 하나?	Let's see, where should I start?						0	
+44	其中最关键的不同，也是大多数人都不知道的，就是抑制剂分为两个批次。	其中最關鍵的不同，也是大多數人都不知道的，就是抑制劑分為兩個批次。	最も重要な違いはほとんどの人には分かりませんが、抑制剤には2種類のロットがあります。	가장 중요한 게 달라. 대다수의 사람들은 모르지만, 사실 억제제는 두 가지로 나뉘거든.	The key difference is something most people also aren't aware of, which is that all inhibitors belong to one of two batches.						0	
+45	最早期的第一批次“<snowbreak>原型抑制剂</>”，据说是由某个AI主导的<orange>无重力工厂</>所生产出来的。	最早的第一批「<snowbreak>原型抑制劑</>」，據說是由某位AI主導的<orange>無重力工廠</>所生產出來的。	初期ロットの「<snowbreak>プロトタイプ抑制剤</>」は、とあるAIが主導の<orange>無重力工場</>で生産されたものです。	가장 초창기에는 '<snowbreak>프로토타입 억제제</>'로 AI가 <orange>무중력 공장</>에서 생산한다는 소문이 있었어.	The earliest batch was the <snowbreak>Prototype Inhibitors</> that were apparently produced in a <orange>zero-gravity factory</> under the guidance of an AI.						0	
+45a	无重力工厂就建设在槲寄生空间站上……	無重力工廠就建設在槲寄生太空站上……	無重力工場はヤドリギ宇宙ステーションにある……	무중력 공장은 미스틸테인 우주정거장 위에 있는데…	The zero-gravity factory had been constructed on Mistilteinn Station...						0	
+46	因为AI“算力”和“无重力工厂”设备产能的双重限制，第一批次产量并不高。	因為AI“算力”和“無重力工廠”設備產能的雙重限制，第一批次產量並不高。	AIの「計算力」と「無重力工場」設備の生産力による制限のため、初期ロットの産出量は多くないです。	하지만 AI의 '해시 레이트'와 '무중력 공장' 설비 생산량의 이중 제한으로 첫 번째 생산량은 그렇게 많지 않았다고 해.	The dual limitations of the AI's computing power and the zero-gravity factory meant that the first batch was small.						0	
+47	我还记得，当时的价格已经贵上天了。	我還記得，當時的價格已經貴翻天了。	私の記憶では、あの時の値段はバカ高かった。	저도 그때가 기억나네요. 그 당시 억제제 가격은 정말 무시무시했죠.	I still remember how crazy their prices were back then.						0	
+49	“降临”事件后的第二年，公司的抑制剂产量突然暴涨，是因为所生产的，已经是“第二个”批次了。	“降臨”事件後的第二年，公司的抑制劑產量突然暴漲，是因為所生產的，已經是“第二個”批次了。	降臨事件後の二年目、会社の抑制剤の産出量が急に上がったのは、それが第2ロットの抑制剤だからです。	'강림' 사건이 일어나고 두번째 해에 회사의 억제제 생산량이 대폭 늘었어. 그게 바로 '두 번째' 생산량이었고.	The year after the Descent, Yggdrasil's inhibitor production volume suddenly skyrocketed. That's because they'd begun producing the second batch.						0	
+50	没猜错的话，这个时候改变了生产流程。	沒猜錯的話，這個時候改變了生產流程。	うん…その時点で生産プロセスを変更したんだよね。	제 생각이 맞다면, 이때 생산 과정에 변화를 줬던 걸로 알아요.	If I'm not mistaken, the manufacturing process changed then.						0	
+51	降临事件后，槲寄生空间站失控，无重力工厂自然也就停止生产了。	降臨事件後，槲寄生太空站失控，無重力工廠自然也就停止生產了。	降臨事件の後、ヤドリギ宇宙ステーションは制御不能となり、無重力工場も当然生産を停止した。	강림 사건 이후, 미스틸테인 우주정거장은 제어를 잃었고, 이에 무중력 공장도 생산을 중단할 수밖에 없었다.	After the Descent, Mistilteinn Station went rogue, and the zero-gravity factory ceased production as a result.						0	
+52	嗯，这个时候因为研发部门发现，泰坦物质可以作为生产抑制剂的原料……	嗯，這個時候因為研發部門發現，泰坦物質可以作為生產抑制劑的原料……	そう、開発部門がタイタン物質を抑制剤の原料として使えることを発見したから……	맞아. 이때 연구부에서 타이탄 물질을 억제제 원료로 사용할 수 있다는 걸 발견해서 그래…	Right. Then the R&D Department discovered that Titagen could be used to produce inhibitors...						0	
+b-11											0	
+54	第二批次的原料是泰坦物质？	第二批次的原料是泰坦物質？	第2ロットの原料はタイタン物質！？	그럼 두 번째 제품의 원료가 타이탄 물질이라는 말씀인가요?!	Titagen was used in the second batch!?						0	
+b-12											0	
+55	难道不会有副作用？	難道不會有副作用？	副作用はないのか？	그럼에도 부작용이 없었다고요?	Wouldn't that have side effects!?						0	
+56	哈哈，我第一次听到这个消息的时候，反应和你一样。	哈哈，我第一次聽到這個消息的時候，反應和你一樣。	はは、私が聞いた時も貴官と同じ反応をした。	하하하… 저도 처음 소식을 들었을 때 같은 반응이었습니다.	Haha, I was about as shocked as you the first time I found out.						0	
+57	为了扩大产能，悄悄把上市产品的原料配方换了，还欺瞒自己的消费者……哼。	為了擴大產能，悄悄把上市產品的原料配方換了，還欺瞞自己的消費者……哼。	生産力を拡張するために、市販品の原料をこっそり変えて消費者を騙す……フン。	생산량을 늘리려고 상품의 원료를 몰래 바꾸고 소비자들을 기만한 거였죠… 후…	To expand production capacity, Yggdrasil quietly altered the raw ingredient formula of a product already on the market, deceiving their own consumers... hmph.						0	
+58	这些资本家永远都是同一副嘴脸。	這些資本家永遠都是同一副嘴臉。	資本家はどいつもこいつも同じ面をしている。	그러고 보니 자본가들은 다 똑같은 녀석들뿐이군…	Corporate greed never changes.						0	
+59	军方不也是这个秘密的共同保守者吗？	軍方不也是這個秘密的共同保守者嗎？	軍の方もこの秘密を一緒に守っているではありませんか？	군부도 이런 기밀을 공동으로 함구하고 있던 거 아니야?	But isn't the military also keeping this a secret?						0	
+60	我们保密的原因，和你们可不一样。	我們保密的原因，和你們可不一樣。	我々が秘密を守る理由はあなたたちと違う。	저희가 기밀을 지키는 이유는 헤임달과 다릅니다.	Our reason for not disclosing that happens to be different.						0	
+61	以泰坦物质为原料所生产的抑制剂，副作用在可以接受的范围内，而这个世界上需要医治的成年病患者，实在太多了……	以泰坦物質為原料所生產的抑制劑，副作用在可以接受的範圍內，而這個世界上需要醫治的成年病患者，實在太多了……	タイタン物質を原料として生産された抑制剤の副作用はまだ許容範囲内、しかもこの世界には治療が必要なティーン症候群患者が多すぎる……	타이탄 물질이 부작용이 있어도 세상엔 치료해야 할 성인병 환자들이 너무 많았으니까요.	The side effects of the inhibitors produced using Titagen were within an acceptable range. And with the number of Juvosis patients needing treatment...						0	
+62	军方是出于可以挽救更多生命的动机，再加上世界树公司同意降低抑制剂的价格……	軍方是出於可以挽救更多生命的動機，再加上世界樹公司同意降低抑制劑的價格……	軍もより多くの命を助けたい。それに、ユグドラシル社は抑制剤の価格を下げることに同意したから……	군 측에서는 더 많은 사람들을 살리고자 위그드라실이 이런 억제제를 생산한다는 거에 반대할 수 없었던 거죠…	The military's reasoning was that more lives could be saved this way. And given that Yggdrasil agreed to lower the inhibitor prices...						0	
+63	那是……无可奈何的事！想要实现正义总会有所妥协……	那是……無可奈何的事！想要實現正義總會有所妥協……	これは……仕方のないこと！正義を全うするには、犠牲が必要だ……	하지만… 이건 저도 정말 어쩔 수 없는 일이라고 생각해요! 정의를 실현하려면 늘 타협이 필요한 법이니까…	Well... it's beyond our control! There'll always be things that have to be compromised to achieve justice.						0	
+b-13											0	
+64	那我们回收的目标，就是最初生产的那一批？	那我們回收的目標，就是最初生產的那一批？	じゃ、私たちが回収するのは初期ロットの抑制剤？	그럼 저희가 지금 회수하려는 건 최초로 생산됐던 억제제를 말하는 건가요?	So the originally produced batch is our recovery target?						0	
+65	没错，就是那批“原型抑制剂”。	沒錯，就是那批“原型抑制劑”。	そう、「プロトタイプ抑制剤」です。	맞아… '프로토타입 억제제'.	Exactly, the batch of Prototype Inhibitors.						0	
+auto_b-14											0	
+b-14											0	
+66	你刚才用“特殊”来形容它……	你剛才用“特殊”來形容它……	さっき、「特殊」と言ったよな……？	좀 전에 '프로토타입 억제제'가 '특수'하다고 하셨는데… 그 이유는 뭐죠?	You described them as "special" earlier...						0	
+68	这批“原型抑制剂”，可是诱发普通人“神格天启”的关键啊。	這批“原型抑制劑”，可是誘發普通人“神格天啟”的關鍵啊。	この「プロトタイプ抑制剤」は、一般人の「アポカリプス」を引き出せます。	'프로토타입 억제제'는 일반인이 '만트라 계시'를 받을 수 있는 아주 중요한 매개체야.	The Prototype Inhibitors are the key to inducing Manifestation in ordinary people.						0	
+69	没有它，可就没法变出更多的“天启者”呢。	沒有它，可就沒法變出更多的“天啟者”呢。	それがないと、より多くの「覚醒者」を生み出せないんですよ。	그게 없으면 더 이상 '계시자'는 나올 수 없으니까.	Without them, there wouldn't be any more new Manifestations.						0	
+70	我瞬间明白了……所以才会由世界树公司和军方共同回收……所以才会派出这样的阵容来执行任务……所以才会拥有这样的保密等级。	我瞬間明白了……所以才會由世界樹公司和軍方共同回收……所以才會派出這樣的陣容來執行任務……所以才會擁有這樣的保密等級。	一瞬で理解した……なぜユグドラシル社が軍と協力して、抑制剤を回収するのか……なぜこのような人員配置で任務に出すか……なぜ機密保護レベルがそこまで高いのか。	이제서야 어느 정도 이해가 됐다… 왜 위그드라실과 군부가 힘을 합쳐 회수하려 하는지… 그리고 왜 이런 기밀 등급을 유지하고 있었는지.	It all suddenly came together... Why Yggdrasil was cooperating with the military... the lineup of people on this mission... and why it was confidential.						0	
+71	分析员，刚才恩雅所说的情报，都是拥有高保密等级的机密。	分析員，剛才恩雅所說的情報，都是擁有高保密等級的機密。	分析員。今エンヤが話した情報は全て、上級保護レベルの機密だ。	분석가님, 방금 엔야씨가 말한 정보는 기밀 사항입니다.	Adjutant, all the intel Enya gave you just now is highly confidential.						0	
+72	如果你擅自泄露，不光会在世界树公司内部受到处罚，军方也会对你进行追究责任。	如果你擅自洩露，不光會在世界樹公司內部受到處罰，軍方也會對你進行追究責任。	もし勝手に漏洩した場合、社内で罰を受けるだけではなく、軍からも責任を追及される。	만약 함부로 누설했다간 위그드라실 내부뿐만 아니라 군부에서도 책임을 묻을 겁니다.	If you leak any of it without permission, the military will hold you accountable. You'll also be subject to punishment from Yggdrasil's internal departments.						0	
+73	毕竟这个情报一旦流出，会严重影响到社会秩序，我希望你能谨言慎行。	畢竟這個情報一旦流出，會嚴重影響到社會秩序，我希望你能謹言慎行。	社会の秩序に大きな影響を与えるので、くれぐれも気を付けるように。	그리고 정보가 유출되면 여론도 심상치 않을 테니 항상 유념 바랍니다.	Any leaks would severely impact the order and stability of society. I hope you can exercise appropriate caution to mitigate that risk.						0	
+b-15											0	
+74	我明白了……	我明白了……	分かった……	네… 잘 알겠습니다.	I understand...						0	
+75	接下来，分析员，我会向你说明如何使用三方授权协议密钥。	接下來，分析員，我會向你說明如何使用三方授權協議密鑰。	では、分析員、これからライセンスキーの使用方法を説明します。	자, 그럼 이제 암호 키 사용 방법을 알려줄게.	Now, Adjutant, I'll tell you how to use the third-party authorization protocol key.						0	
+76	密钥可以开启仓库大门，以及装有抑制剂的密码箱。	密鑰可以開啟倉庫大門，以及裝有抑制劑的密碼箱。	鍵は倉庫の扉と、抑制剤が入った暗号箱を開けられます。	암호 키를 사용하면 창고 문과 억제제가 보관된 상자를 열 수 있어.	The key opens the warehouse doors, as well as lockboxes containing inhibitors.						0	
+77	卡罗琳应该提前将密钥以加密文件的形式，发送到了你的个人终端上。	卡羅琳應該提前將金鑰以加密檔案的形式，發送到了你的個人終端上。	カロリンは事前に、鍵を暗号化されたデータの形であなたの個人端末に送ったはずです。	아마 암호 키는 캐롤린이 암호화 문서 형태로 개인 단말기에 보냈을 거야.	Caroline should have already sent it to your personal terminal as an encrypted file.						0	
+78	接下来，在恩雅姐的指导下，我和李上尉按照流程轮流验证了虹膜，共同激活了存储在个人终端上的密钥。	接下來，在恩雅姐的指導下，我和李上尉依照流程輪流驗證了虹膜，共同啟動了儲存在個人終端上的金鑰。	それから、エンヤ姉に教わった通りに、私と李大尉は順番に虹彩認証し、個人端末に保存されている鍵を起動した。	이어서 엔야의 안내에 따라 나와 이대위는 절차대로 홍채 인식을 진행했고, 개인 단말기에 저장되어 있는 암호 키를 활성화시켰다.	Captain Li and I took turns verifying our irises under Ms. Enya's guidance. We jointly activated the keys saved in our personal terminals.						0	
+79	就在我们开启隐藏在安全通道中的仓库大门时……	就在我們開啟隱藏在安全通道中的倉庫大門時……	私たちが安全ルートの中に隠れていた倉庫の扉を開ける時……	그리고 비밀통로에 숨겨져 있는 창고 문을 열려고 하는 순간…	When I opened the door to the warehouse, hidden in a secure channel...						0	
+80	降临团的会员们，高喊着狂热的口号，从四面八方冲来。	降臨團的會員們，高喊著狂熱的口號從四面八方衝來。	降臨団の団員たちが熱狂的な言葉を叫びながら、四方から押し寄せてきた。	강림단 신자들이 이상한 구호를 외치며 사방에서 달려들기 시작했다.	Adventists started screaming in a frenzy, rushing toward us from every possible angle.						0	
+81	就像早知道我们会在这里出现一样。	就像早知道我們會出現在這裡一樣。	ここに来ることをとっくに知っていたように。	마치 우리가 이곳에 나타날 걸 미리 알고 있었다는 듯이…	It was as if they knew we would show up here.						0	

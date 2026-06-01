@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	恩雅在房间认真地伏案工作了很久，快到中午时才在大厅现身。	恩雅在房間認真工作，直到快中午時才在大廳現身。	朝から自室で仕事に集中していたエンヤは、昼過ぎにロビーにやってきた。	엔야는 방에서 업무에 몰두하다가 점심때가 다 돼서야 로비에 나타났다.	Enya had been hunched over working diligently in her room for a long time. She didn't come out into the hall until almost noon.						0	
+page0.2	听琴诺说，你一大早就在忙，连早餐都没吃。	聽琴諾說你一大早就很忙碌，連早餐都沒時間吃。	エンヤ！チェルノから聞いたよ、早朝から忙しくて食事してなかったんだって？	체르노가 그러던데, 아침부터 바빠서 아침 식사도 못 했다면서요?	Cherno told me that you were so busy this morning that you didn't even have breakfast.						0	
+page0.3	分析员，你来得正好，快帮看看这些。	分析員你來的正好，快幫我看看這些。	分析員！グッドタイミングですね、これをみて欲しいんです。	분석가, 마침 잘 왔어. 이것 좀 봐봐.	Ah, Adjutant! Perfect timing. Come take a look at this.						0	
+page0.4	这是……青月亮鱼？	這些是……青月亮魚?	これは……冷月魚？	이건… 푸른 배불뚝치?	Is that... a blue-moon fish?						0	
+page0.5	分析员居然一眼就看出来了，真厉害！	分析員居然一眼就看出來了，真厲害!	分析員、一目で分かるなんて、本当にすごいです！	한눈에 알아보다니. 분석가, 정말 대단한데!	You can tell right away? You're amazing, Adjutant!						0	
+page0.6	觉得我画得怎么样？	覺得我畫的怎麼樣?	私の絵はどうでしょうか？	내 그림 어떤 것 같아?	What do you think of my drawing?						0	
+page0.7	虽然不是写实手法，但完全抓住了青月亮鱼的特征。	雖然不是寫實畫風，但完全凸顯了青月亮魚的特徵。	写実的な手法じゃないけど、冷月魚の特徴を完全に捉えている。	사실적인 기법은 아니지만, 푸른 배불뚝치의 특징을 아주 잘 살렸어요.	Even though it isn't realistic, it totally captures the essence of a blue-moon fish.						0	
+page0.8	再加上充满想象力的填色……很有恩雅的风格。	再加上充滿想像力的用色……很有恩雅的風格。	さらに想像力に富んだ着色……エンヤらしい絵だと思うよ。	거기에 톡톡 튀는 컬러까지… 딱 엔야의 스타일이에요.	And paired with the imaginative color choice... It's very you, Enya.						0	
+page0.9	分析员这么说我就放心了。	既然分析員這麼說，那我就放心了。	ふふっ♪ありがとうございます、分析員にそう言われて安心しました。	분석가가 그렇게 말해주니 안심이야.	I feel really good about it after hearing you say that, Adjutant.						0	
+page0.10	怎么突然画起了这些？	怎麼突然想畫這些?	どうして急に絵を描き始めたの？	이건 갑자기 왜 그린 거예요?	Why did you draw that all of a sudden?						0	
+page0.11	我一直在尝试着自己制作绘本，这次去雅卢岛，正好有了很多新的素材。	我一直在嘗試製作繪本，這次去雅盧島剛好多了不少新素材。	私、ずっと自分で絵本を作ってみたかったんです！今回ガルーアイランドで、いろんな素材も持って帰りました♪	줄곧 직접 그림책을 만들어 보려고 했었는데, 야루섬에 다녀오면서 새로운 소재가 많이 생겼거든.	I've been trying to make my own picture books, and I found a bunch of new material when we went to Yallu Island.						0	
+page0.12	接下来，我会把分析员也画进绘本里噢~	接下來，我會把分析員也畫進繪本裡面喔~	次は、分析員も絵本に登場させますね。	다음엔 분석가도 그림책에 그려 넣어줄게~	I'm going to paint you in my picture book too, Adjutant~						0	
+page0.13	那就期待恩雅姐的大作了。	很期待恩雅姐的作品喔。	エンヤの作品を楽しみにしてるよ。	그럼 엔야의 작품을 기대하고 있을게요.	I can't wait to see your masterpiece when it's finished, Enya.						0	
+page0.14	不过，必须要先好好吃饭！	不過，首先要好好吃飯才行!	でも、まずしっかりご飯を食べないと！	하지만, 밥은 꼭 챙겨 먹어야 해요!	But you need to eat something first!						0	

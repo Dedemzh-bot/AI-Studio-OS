@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	夜晚的绿茵场真安静啊……	夜晚的綠茵場真安靜啊……	夜の芝生は静かですね……	밤의 그라운드는 정말 조용하네요…	It's so quiet here on the turf at night...						0	
+page0.2	茉莉安，来。	茉莉安，來。	マリアン、こっちに来て。	마리안, 자.	Come here, Marian.						0	
+choice01	要求她在草坪上躺下	請她在草坪上躺下	芝生で横になるよう指示する	그녀에게 잔디밭에 누울 것을 요구한다.	Ask her to lie down on the grass						0	
+page1.1	诶诶？这这这里可以躺下吗？	誒誒？這裡可以躺下嗎？	え？いいい、いいんですか？	에에? 여기 여기 누워도 돼요?	Hmm? C—Can we really lie down like this?						0	
+page1.2	作为千金小姐的你应该没有过这样随意的体验吧。	身為千金小姐的你應該沒有過這樣隨意的體驗吧。	君みたいなお嬢様じゃ体験したことがないだろうと思って。	귀한 따님의 사람치고는 이런 막연한 경험을 해본 적이 없겠지.	As someone who's lived a sheltered life, this must be quite a novel experience for you.						0	
+page1.3	来，手给我。	來，手給我。	さぁ、手を出して。	자, 손 이리 줘.	Give me your hand.						0	
+page1.4	唔！好柔软的草坪……	唔！好柔軟的草坪……	うっ！芝生、柔らかいです……	오! 정말 잔디가 부드럽네요…	Aww! The grass is so soft...						0	
+page1.5	很真实的触感，似乎能闻见了草地与露水混合的清新味道。	很真實的觸感，似乎能聞到了草地與露水混合的清新味道。	すごくリアルですね。芝生と露の匂いがします……	풀밭과 이슬이 섞인 싱그러운 냄새가 사실적으로 느껴지네요.	The touch feels so real — I think I can even smell the fresh scent of grass and dew.						0	
+page1.6	觉得冷吗？	覺得冷嗎？	寒いか？	추워?	Do you feel chilly?						0	
+page1.7	不冷，分析员的手很温暖哦。	不冷，分析員的手很溫暖哦。	いいえ。分析員さんの手が、とっても暖かいので。	춥지 않아요, 분석가의 손이 따뜻해요.	Not at all, your hands are very warm.						0	
+choice02	要求她挨着自己坐下	要求她挨著自己坐下	自分のとなりに座るよう指示する	그녀에게 자기 옆에 앉으라고 요구한다.	Ask her to sit close to you						0	
+page2.1	如果是分析员的要求，我很乐意听从。	如果是分析員的要求，我很樂意聽從。	分析員さんがそう言うなら……喜んで。	분석가의 요구라면 기꺼이 따르겠어요.	If that's your request, Adjutant, I'm more than happy to comply.						0	
+page2.2	嗯……好像还从没和分析员两个人挨着坐在这么空旷的地方呢。	嗯……好像還從來沒和分析員兩個人挨著坐在這麼空曠的地方。	そういえば……こんな広い場所で分析員さんとふたりきりで座るなんて、今までなかったことですね。	음… 분석가랑 둘이 이렇게 허허벌판에 붙어 앉아본 적은 없었던 것 같아요.	Mmm... I don't think we've ever sat this close together in such an open space.						0	
+page2.3	分析员快看，这里也能看到星星！	分析員快看，這裡也看得到星星！	見てください、分析員さん！ここでも星が見えますよ！	분석가님 빨리 봐요, 여기도 별이 보여요!	Adjutant, look, we can even see the stars from here!						0	
+page2.4	这里比天台好太多了，至少某人不会动不动就要跳下去。	這裡比天台好太多了，至少某人不會動不動就要跳下去。	ここはいいな。屋上にいたら、誰かさんはなぜか飛び降りようとするからさ。	여기는 옥상보다 훨씬 좋아, 적어도 누군가 걸핏하면 뛰어내리지는 않을 거야.	This place is much better than the roof. At least it's not possible for a certain someone to jump off every now and then.						0	
+page2.5	呜……不会了。有分析员在身边，我哪里都不会去。	嗚……不會了。有分析員在身邊，我哪裡都不會去。	も、もうしませんよ……分析員さんが傍にいてくれれば、私はどこにもいきませんから。	우…그럴리가요. 분석가가 곁에 있으면 저는 아무 데도 가지 않을 거예요	Mmm... I won't do that anymore. With Adjutant by my side, there's nowhere else I'd rather be.						0	

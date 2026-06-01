@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	那是尤弥尔！	那是尤彌爾！	あれは……ユミル！	저건 이미르야!	It's Ymir!						0	
+2	它好像在故意把我们逼向某处。	它好像在故意把我們逼向某處。	わざとあたしたちをどこかへ追いやっているようだけど。	일부러 우릴 어디론가 몰아가는 거 같아.	It's like it's intentionally forcing us somewhere.						0	
+3	撤退，先观察一下。	撤退，先觀察一下。	一旦引いて、まずは様子を見ましょう。	일단은 철수하고 계속해서 상황을 지켜보죠.	Let's retreat and observe it first.						0	

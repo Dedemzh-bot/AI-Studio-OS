@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	在棚户区跑了整整一天，整个上半身都麻麻酥酥的……	在棚戶區跑了整整一天，上半身好痠痛……	一日中スラムエリアでお仕事したせいかしら、上半身が痛むなぁ……♪	하루 종일 판자촌을 돌았더니 상반신 전체가 멍이 든 것 같네…	My whole upper body is sore after running around the Camps all day...						0	
+page0.2	要是分析员能来帮我捏捏肩膀就好了哦~	要是分析員能來幫我捏捏肩膀就好了哦~	どなたかお姉さんの肩を揉んでくれないかしら……分析員とか、分析員とか……♪	분석가가 어깨 안마를 좀 해주면 참 좋을 텐데~	It'd be great if you could give me a shoulder rub, Adjutant.						0	
+page0.3	……哎？	……欸？	……え？	… 아?	...Huh?						0	
+page0.4	呵呵呵呵，让分析员为难了吗？	呵呵呵呵，讓分析員感到困擾了嗎？	ふふ、ドキっとしましたか？	호호호호, 분석가는 곤란한가 보네?	Hehehe... Are you embarrassed to, Adjutant?						0	
+page0.5	放心好了，我只是想和分析员开个小玩笑哦。	放心好了，我只是想和分析員開個小玩笑哦。	安心して、ただの冗談ですよ。	걱정하지 마. 그냥 농담한 거니까.	Don't worry. I just wanted to tease you~						0	
+page0.6	不过总觉得……分析员其实比我们更加辛苦呢。	不過總覺得……分析員其實比我們更加辛苦呢。	でも……分析員さんは私たちよりもっともっと苦労されているんですよね。	그런데 생각해 보니… 분석가가 우리보다는 더 고생할 것 같아.	But I always feel like... you work even harder than we do, Adjutant.						0	
+page0.7	你看，在带领海姆达尔部队作战的同时，还要协调公司内外各方势力的关系……	你在帶領海姆達爾部隊作戰的同時，還要協調公司內外各方勢力的關係……	ほら、ヘイムダル部隊を率いると同時に、会社でもまたいくつもの勢力の関係を維持しないといけません……	그러니까, 헤임달 부대의 작전을 지휘하는 동시에 회사 내외로 각 세력 간의 관계를 조정해야 하니까…	I mean, you lead the Heimdall Force in combat, and you also have to manage relationships between forces inside and outside the company...						0	
+page0.8	正常情况下，这不是应该由不同的人负责吗？	通常這不是應該由不同的人負責嗎？	普通なら、他の人の役割ですよね？	원래대로라면 각각 책임자가 따로 있어야 하지 않을까?	Wouldn't those responsibilities normally be handled by different people instead of just one?						0	
+page0.9	啊，被恩雅姐这么一说好像确实如此，不知不觉中好像干了不少分外事。	啊，被恩雅姐這麼一說好像確實如此，不知不覺中做了不少分外的事。	ああ、確かにエンヤ姉に言われてみれば、知らず知らずのうちに役割以外のこともやっている気がする。	아, 엔야 누님이 그렇게 말씀하시니 정말 그런 것 같네요. 뭔가 업무 외의 일을 저도 모르게 했던 것 같아요.	Well, now that you mention it, I guess I've been doing a lot of extra work without even realizing it.						0	
+page0.10	所以，相较于身为队员的我们而言，分析员才是值得被好好照顾的那个人哦。	所以相較於身為隊員的我們而言，分析員才是值得被細心照顧的那個人哦。	私たち隊員より、分析員さんの方こそもっと大切にされるべきだと思います。	그래서 대원 신분인 우리에게는 사실 분석가야말로 보살핌을 받아야 하는 사람인 거지.	So compared to us, you're the one who deserves to be pampered, Adjutant.						0	
+page0.11	恩雅姐过誉了，我只不过是因为某些私愿，不得不来回奔波的普通职员罢了。	恩雅姐過獎了，我只不過是因為某些私人原因，不得不來回奔波的普通員工罷了。	いやいや、私はただ個人的な事情で、仕方なくあちこち走り回ることになっただけの、ごく普通の職員だよ。	고마워요, 엔야 누님. 전 그냥 개인적인 바람 때문에 어쩔 수 없이 이리저리 뛰게 된 평범한 직원일 뿐이에요.	You're being way too generous, Enya. I'm just a normal employee with some personal ambitions.						0	
+page0.12	那不是更需要被人关照了吗！	那不是更需要被人關照了嗎！	そんなの！尚更放っておけません！	그러니까 더 보살핌을 받아야 한다는 거야!	Doesn't that mean you should be pampered even more?						0	
+page0.13	不行不行，不如分析员现在就坐下，让我来帮你按摩一下肩膀吧。	不行不行，不如分析員現在就坐下，讓我來幫你按摩一下肩膀吧。	だめですよ。やっぱり分析員さんはここに座って！肩を揉んであげますからね。	안 되겠다, 분석가. 여기 바로 앉아 봐, 내가 어깨 좀 주물러 줄게.	Adjutant, sit down and let me give you a shoulder massage. I won't take "no" for an answer.						0	
+page0.14	等等，就在这里吗？！	等等，就在這裡嗎？！	待って、ここで！？	잠시만요, 여기에서요?	Wait — right here!?						0	
+page0.15	（恩雅姐偶尔也有这么强势的一面啊……）	（恩雅姐偶爾也有這麼強勢的一面啊……）	（エンヤ姉にもこういう強引な一面があるのか……）	(엔야 누님도 가끔은 이렇게 적극적인 면이 있구나…)	(Even Enya has a pushy side...)						0	

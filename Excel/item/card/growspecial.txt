@@ -1,0 +1,2 @@
+	当前品质	注释	类型(1星期三雷电能,2丽达怒气,3丽达背包能量)	特殊能量最大容量	特殊能量初始值	空值后保持时间	空值后瞬时提升值	满值后保持时间	满值后瞬时回落值	自然变化间隔	自然变化值	自然衰减间隔	自然衰减值	命中回能	击杀回能	受击回能	参数1	参数2	参数3	参数4	参数5	参数6	参数7	参数8	参数9	参数10	参数11	参数12	参数13	参数14	参数15
+ID	CurLevel	des	Type	MaxValue	InitValue	KeepEmptyTime	AddAfterEmptyTime	KeepFullTime	ReduceAfterFullTime	NaturalChangeIntervalTime	NaturalChangeValue	ReduceIntervalTime	ReduceValue	HitRecoverValue	KillRecoverValue	ReceiveDamageRecoverValue	Param1														

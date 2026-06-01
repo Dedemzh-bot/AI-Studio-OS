@@ -1,0 +1,29 @@
+﻿饮品ID	//注释	名称	描述	图标	基底层	中间层	最上层
+DrinkID	Comment	Name	Description	Icon	Bottom	Middle	Top
+1	香草巧巧杯 = 牛奶+香草冰淇淋+巧克力碎	house.ThrowDrinkName1	house.ThrowDrinkDes1	1544010	101	201	301
+2	梦幻七彩筒 = 牛奶+香草冰淇淋+彩针糖	house.ThrowDrinkName2	house.ThrowDrinkDes2	1544011	101	201	303
+3	草莓心语 = 牛奶+香草冰淇淋+草莓酱	house.ThrowDrinkName3	house.ThrowDrinkDes3	1544012	101	201	302
+4	巧克力奶旋风 = 牛奶+黑巧冰淇淋+巧克力碎	house.ThrowDrinkName4	house.ThrowDrinkDes4	1544013	101	202	301
+5	巧克力七彩板 = 牛奶+黑巧冰淇淋+彩针糖	house.ThrowDrinkName5	house.ThrowDrinkDes5	1544014	101	202	303
+6	巧克力奶莓冰 = 牛奶+黑巧冰淇淋+草莓酱	house.ThrowDrinkName6	house.ThrowDrinkDes6	1544015	101	202	302
+7	果味撞可可 = 牛奶+果味冰淇淋+巧克力碎	house.ThrowDrinkName7	house.ThrowDrinkDes7	1544016	101	203	301
+8	七彩水果梦 = 牛奶+果味冰淇淋+彩针糖	house.ThrowDrinkName8	house.ThrowDrinkDes8	1544017	101	203	303
+9	莓果奶香筒 = 牛奶+果味冰淇淋+草莓酱	house.ThrowDrinkName9	house.ThrowDrinkDes9	1544018	101	203	302
+10	抹茶巧巧筒 = 抹茶+香草冰淇淋+巧克力碎	house.ThrowDrinkName10	house.ThrowDrinkDes10	1544019	102	201	301
+11	茶香缤纷 = 抹茶+香草冰淇淋+彩针糖	house.ThrowDrinkName11	house.ThrowDrinkDes11	1544020	102	201	303
+12	草莓碰碰绿 = 抹茶+香草冰淇淋+草莓酱	house.ThrowDrinkName12	house.ThrowDrinkDes12	1544021	102	201	302
+13	巧克力抹茶风情 = 抹茶+黑巧冰淇淋+巧克力碎	house.ThrowDrinkName13	house.ThrowDrinkDes13	1544022	102	202	301
+14	绿巧星辰杯 = 抹茶+黑巧冰淇淋+彩针糖	house.ThrowDrinkName14	house.ThrowDrinkDes14	1544023	102	202	303
+15	绿莓巧旋风 = 抹茶+黑巧冰淇淋+草莓酱	house.ThrowDrinkName15	house.ThrowDrinkDes15	1544024	102	202	302
+16	果茶巧巧筒 = 抹茶+果味冰淇淋+巧克力碎	house.ThrowDrinkName16	house.ThrowDrinkDes16	1544025	102	203	301
+17	果茶七彩杯 = 抹茶+果味冰淇淋+彩针糖	house.ThrowDrinkName17	house.ThrowDrinkDes17	1544026	102	203	303
+18	莓果七彩筒 = 抹茶+果味冰淇淋+草莓酱	house.ThrowDrinkName18	house.ThrowDrinkDes18	1544027	102	203	302
+19	橙香巧巧 = 橙汁+香草冰淇淋+巧克力碎	house.ThrowDrinkName19	house.ThrowDrinkDes19	1544028	103	201	301
+20	七彩橙风暴 = 橙汁+香草冰淇淋+彩针糖	house.ThrowDrinkName20	house.ThrowDrinkDes20	1544029	103	201	303
+21	橙莓诱惑 = 橙汁+香草冰淇淋+草莓酱	house.ThrowDrinkName21	house.ThrowDrinkDes21	1544030	103	201	302
+22	浓浓巧巧橙 = 橙汁+黑巧冰淇淋+巧克力碎	house.ThrowDrinkName22	house.ThrowDrinkDes22	1544031	103	202	301
+23	橙巧七彩杯 = 橙汁+黑巧冰淇淋+彩针糖	house.ThrowDrinkName23	house.ThrowDrinkDes23	1544032	103	202	303
+24	橙莓巧巧杯 = 橙汁+黑巧冰淇淋+草莓酱	house.ThrowDrinkName24	house.ThrowDrinkDes24	1544033	103	202	302
+25	巧克力果皇杯 = 橙汁+果味冰淇淋+巧克力碎	house.ThrowDrinkName25	house.ThrowDrinkDes25	1544034	103	203	301
+26	酸甜七彩筒 = 橙汁+果味冰淇淋+彩针糖	house.ThrowDrinkName26	house.ThrowDrinkDes26	1544035	103	203	303
+27	水果大亨 = 橙汁+果味冰淇淋+草莓酱	house.ThrowDrinkName27	house.ThrowDrinkDes27	1544036	103	203	302

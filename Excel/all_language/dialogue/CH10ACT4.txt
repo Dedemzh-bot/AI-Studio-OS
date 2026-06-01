@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	他要往哪里去？	他要往哪裡去？	彼はどこへ？	어디로 가려는 걸까?	Where's he going?						0	
+2	抓住揍一顿就知道了。	抓住他揍一頓就知道了。	捕まえてぶん殴りゃ分かるでしょ？	잡아서 한대 맞아야 술술 불려나.	I guess we'll find out after we capture him and beat him up!						0	
+3	哈哈……真不愧是妮塔。	哈哈……真不愧是妮塔。	はは……さすがニタ、というべきか。	하하… 역시 니타 답군.	Haha... that's the Nita I know.						0	

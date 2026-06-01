@@ -1,0 +1,236 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	费尽心思，凭借对地形的熟悉，终于暂时甩开了罗赞。	費盡心思，憑藉對地形的熟悉，終於暫時甩開了羅贊。	地形に詳しいおかげで、私たちはどうにかロザンを振り切ることができた。	온갖 수단과 익숙한 지형을 이용해 마침내 일시적으로 로잔을 따돌렸다.	Relying on wits and familiarity with the terrain, we finally managed to shake off Rozan for the time being.						0	3.4主线剧情
+2	找到了一处隐蔽的房间，我决定先进行修整。	找到了一處隱蔽的房間，我決定先進行休整。	身を隠せそうな部屋を見つけ、私たちは体勢を整えることにした。	몸을 숨길 만한 방을 찾아내어, 먼저 정비를 하기로 했다.	When we found a room that was less exposed, I decided we should rest.						0	3.4主线剧情
+3	你来警戒。看着点儿她。	你來警戒。看著她。	ブブ、エステルの様子を見張ってて。	경계를 서서 그녀를 감시해 줘.	Bubu, keep a close eye on her.						0	3.4主线剧情
+4	哦、好！	哦，好！	うん、わかった！	응, 알았어!	Okay, got it!						0	3.4主线剧情
+5	我把爱思特丢到地上。实际上也不需要看守——我刚刚检查过了。她的体内一点儿泰坦物质都没有了，只是个身体壮实些的普通人而已。	我把愛思特丟到地上。實際上也不需要看守——我剛剛檢查過了。她的體內一點泰坦物質都沒有了，只是個身體健壯點的普通人而已。	私はエステルを床に放り投げた。念のためブブに警戒してもらったが、エステルの体からタイタン物質はほぼ消えていた。今の彼女は体の丈夫な一般人と変わらない。	나는 에스터를 바닥에 내던졌다. 사실 감시할 필요도 없었다. 내가 방금 확인했으니까. 그녀의 체내에는 타이탄 물질이 조금도 남아있지 않아 그저 좀 튼튼한 일반인에 불과했다.	I dropped Esther to the ground. Truth be told, there was no real need to watch her — I had already checked, there wasn't a trace of Titagen left in her body. She was just an ordinary person, though stronger than most.						0	3.4主线剧情
+6	卜卜把猫汐尔放到了床上。她的状态比之前好了一些，但还是不容乐观。	卜卜把貓汐爾放到了床上。她的狀態比之前好了一些，但還是不容樂觀。	ブブはマーシルをベッドに寝かせた。彼女の状態は少しだけ回復したように見えるが、まだ楽観できる状況ではなかった。	보보는 캣 시에라를 침대에 눕혔다. 그녀의 상태는 전보다 나아졌지만 여전히 낙관할 수 없었다.	Bubu placed Mauxir on the bed. Her condition had improved slightly since before, but still far from reassuring.						0	3.4主线剧情
+7	脸上的汗把头发都打湿了。小指止不住地抽搐，好像在经受什么痛苦。	臉上的汗把頭髮都打濕了。小指止不住地抽搐，好像在經受什麼痛苦。	顔に大きな汗の粒を浮かべ、濡れた髪を頬に張り付かせている。ひどい痛みに耐えているだろうか、両手の指が小刻みに震えていた。	얼굴에 흐른 땀이 머리카락을 흠뻑 적셨다. 새끼손가락의 경련이 멈추지 않는 모습은 어떤 고통을 겪고 있는 것 같았다.	Sweat had matted her hair to her face. Her pinky finger trembled, as though she were enduring some kind of agony.						0	3.4主线剧情
+8	我把她抱了起来。抱在怀里，摸着她的脸。	我把她抱了起來。抱在懷裡，摸著她的臉。	マーシルを抱き上げ、蒼白いその顔を撫でた。	나는 그녀를 품에 안고 그녀의 얼굴을 어루만졌다.	I lifted her into my arms, holding her close, gently stroking her face.						0	3.4主线剧情
+9	心跳微弱，但仍然保持着频率。握着她的手，手指不自觉地抓紧了我。	心跳微弱，但仍然保持著頻率。握著她的手，手指不自覺地抓緊了我。	脈動は弱いが乱れてはいない。手を握ってみると、ほんのかすかに握り返してくれた。	심장은 미약하게나마 일정한 박동을 유지하고 있었다. 그녀의 손을 잡자, 손가락이 무의식적으로 나를 꽉 잡았다.	Her heartbeat was faint, but it still held a steady rhythm. As I held her hand, her fingers unconsciously tightened around mine.						0	3.4主线剧情
+10	猫汐尔？	貓汐爾？	マーシル？	캣 시에라?	Mauxir...?						0	3.4主线剧情
+11	轻声呼唤着她，抚摸着她的后背。	輕聲呼喚著她，撫摸著她的後背。	背中をさすりながら、優しく呼んでみる。	그녀를 나지막이 부르며, 그녀의 등을 쓰다듬었다.	I called her name softly as I soothed her back.						0	3.4主线剧情
+12	我在这里，猫汐尔。	我在這裡，貓汐爾。	マーシル、目を覚ましてくれ。	나 여기 있어, 캣 시에라.	I'm here, Mauxir.						0	3.4主线剧情
+13	从她的口袋里掏出强心针，对着她的手臂扎了下去。	從她的口袋裡掏出強心針，對著她的手臂扎了下去。	彼女の服のポケットから強心剤を取り出し、腕に注射した。	그녀의 주머니에서 강심제를 꺼내, 그녀의 팔에 찔러 넣었다.	I retrieved a cardiac stimulant from her pocket and injected it into her arm.						0	3.4主线剧情
+14	过了一会儿，她终于有了反应。	過了一下子，她終於有了反應。	しばらくして、彼女はようやく反応を見せた。	잠시 후, 그녀가 드디어 반응을 보였다.	After a moment, she finally began to stir.						0	3.4主线剧情
+15	呜……	嗚……	うう……	으윽…	Agh...						0	3.4主线剧情
+16	好点了吗？	好點了嗎？	少しは楽になったか？	좀 나아졌어?	Feeling any better?						0	3.4主线剧情
+17	……没事。	……沒事。	……大丈夫。	… 괜찮아.	...I'm fine.						0	3.4主线剧情
+18	还没事？	還沒事？	大丈夫じゃないだろう。	괜찮다고?	"Fine"?						0	3.4主线剧情
+19	都疼成什么样了？	都痛成什麼樣了？	こんなに痛そうなのに。	이렇게 아파 보이는데?	Look at how much pain you're in.						0	3.4主线剧情
+20	不知道该怎么责备她。因为她是为了我才做到这种地步的。	不知道該怎麼責備她。因為她是為了我才做到這種地步的。	責める言葉も見つからない。なぜなら、彼女は私のためにあんな無謀な行動を取ったのだ。	어떻게 그녀를 나무라야 할지 알 수 없었다. 그녀는 나를 위해 이렇게 된 거였으니까.	I didn't know how to scold her. Because she had pushed herself to this extent for my sake.						0	3.4主线剧情
+21	泰坦……多了好多泰坦……	泰坦……多了好多泰坦……	タイタンの数が……一気に増えてる……	타이탄이… 타이탄이 너무 많아…	There are... Titans... so many Titans...						0	3.4主线剧情
+22	嗯，我知道。	嗯，我知道。	ああ、分かっている。	응, 알아.	Yeah. I know.						0	3.4主线剧情
+23	在来的路上，确认了战斗时那种尖锐的刺痛感从何而来。	在來的路上，確認了戰鬥時那種尖銳的刺痛感從何而來。	来る途中で、戦闘中に感じたあの鋭い痛みの正体がわかった。	여기로 오는 도중, 전투 중 느꼈던 그 날카로운 통증의 근원을 확인했다.	On the way, I had confirmed the source of that sharp, stinging sensation I had felt during the fight.						0	3.4主线剧情
+24	——数不清的泰坦。从此时的窗前，能看到泰坦在疗养中心的外墙处聚集。	——數不清的泰坦。從此時的窗前，能看到泰坦在療養中心的外牆處聚集。	――無数のタイタンの気配だったのだ。この部屋の窓からも、タイタンが療養センターの外に集まっているのが見える。	수없이 많은 타이탄. 지금 이 창밖으로, 요양센터 외벽에 집결하는 타이탄들의 모습이 보인다.	Countless Titans. From the window now, I could see them gathering outside the sanatorium's walls.						0	3.4主线剧情
+25	也确认了一点——最初靠近疗养中心时感受到的泰坦物质，一定是由埃达布置的。	也確認了一點——最初靠近療養中心時感受到的泰坦物質，一定是由埃達佈置的。	もう一つ、確信したことがある。初めて療養センターに入ったときに感じたタイタン物質は、間違いなくエッダが仕込んだものだ。	한 가지 더. 처음 요양센터에 접근할 때 느꼈던 타이탄 물질은, 분명 에다가 배치한 것이다.	I also had confirmed something else — the immense Titagen I had sensed when we first got near the sanatorium must have been the work of Edda.						0	3.4主线剧情
+26	耶洛沙区域的“树”早就被拔掉了。只有预先布设巨量的泰坦物质，才能使这片区域成为“树”的中继节点，从而直接降临泰坦。	耶洛沙區域的「樹」早就被拔掉了。只有預先設下巨量的泰坦物質，才能使這片區域成為「樹」的中繼節點，從而直接降臨泰坦。	イェロシャの「デンドロン」はとっくに引き抜かれている。事前に大量のタイタン物質を仕込んでこそ、ここに直接タイタンを降臨させることができる。	옐로샤 구역의 '나무'는 진작에 뽑혔다. 막대한 양의 타이탄 물질을 미리 배치해야만, 이 구역을 '나무'의 중간 거점으로 만들어 곧바로 타이탄을 강림시킬 수 있다.	The Tree in Yehrus had long been destroyed, yet she was still able to elicit Titan descents. She must have planted a massive amount of Titagen in the area, creating a relay node connected to other Trees far away.						0	3.4主线剧情
+27	那么，目标显然是北风航天中心。在“树”被拔除后，为了保证对北风航天中心的干涉，埃达便在这里埋下一颗钉子，等待我将目光投向槲寄生空间站的那一天。	那麼，目標顯然是北風航太中心。在「樹」被拔除後，為了確保對北風航太中心的干涉，埃達便在這裡埋下一顆釘子，等待我將目光投向槲寄生太空站的那一天。	となれば、エッダの狙いは北風宇宙センターだ。「デンドロン」がなくなってからも、北風宇宙センターに手出しができるよう、エッダは予めここにタイタン物質を埋め込み、私がヤドリギ宇宙ステーションに目を向けるのを構えていたのだ。	그렇다면 목표는 분명 노스윈드 우주센터다. '나무'가 제거된 후, 노스윈드 우주센터에 대한 간섭을 보장하기 위해 에다는 여기에 못을 박고 내가 미스틸테인 우주정거장으로 시선을 돌리는 날을 기다린 것이다.	After the Tree was destroyed, she still wanted a way to disrupt our use of Northwind Aerospace Center. So she hid a trigger here, waiting until I turned my attention to Mistilteinn Station to set it off.						0	3.4主线剧情
+28	……但我的目的从来就不是槲寄生空间站。	……但我的目的從來就不是槲寄生太空站。	……だが、私の目的は最初からヤドリギ宇宙ステーションではなかった。	… 하지만 내 목적은 애초부터 미스틸테인 우주정거장이 아니었다.	...But my true goal was never Mistilteinn Station.						0	3.4主线剧情
+29	世界树公司，特制的房间内。	世界樹公司，特製的房間內。	ユグドラシル社、ブラック・チャンバーの中。	위그드라실, 특수 제작된 어느 방.	Inside a specially built chamber within Yggdrasil.						0	3.4主线剧情
+30	……时间是去新恒提罗之前。	……時間是去新恆提羅之前。	……ニューガントラへ行く前に、私とτはこんな会話を交わしていた。	… 뉴헨틸로에 가기 전.	A while before leaving for New Hentiro.						0	3.4主线剧情
+31	计划成功，封闭血清正在作用。	計畫成功，封閉血清正在作用。	作戦成功だ。ブロックセラムはうまく作用している。	계획 성공이에요. 폐쇄 혈청이 작동하고 있어요.	The plan worked. The Confinement Serum is taking effect.						0	3.4主线剧情
+32	我顿了顿，对面的陶眯起了眼睛。	我頓了頓，對面的τ瞇起了眼睛。	私は少し間を置いた。向かいのτが目を細める。	내가 뜸을 들이자, 맞은편의 τ가 눈을 가늘게 떴다.	I paused, and across from me, τ's eyes narrowed slightly.						0	3.4主线剧情
+33	北风航天中心，应该已经准备完毕了吧。	北風航太中心，應該已經準備完畢了吧。	北風宇宙センターも、準備が整っているはずだ。	노스윈드 우주센터는 준비됐겠죠?	Northwind Aerospace Center should be ready by now.						0	3.4主线剧情
+34	……你要上槲寄生空间站？！	……你要上槲寄生太空站？！	ヤドリギ宇宙ステーションへ行くと……？	… 미스틸테인 우주정거장에 가겠다고?!	...You're going up to Mistilteinn Station!?						0	3.4主线剧情
+35	你怎么看？	你怎麼看？	まず、あなたの考えを聞かせてくれ。	어떻게 생각해요?	What do you think?						0	3.4主线剧情
+36	……这种事情要从长计议。	……這種事情要從長計議。	……まだ要検討の部分が多いと言うべきでしょう。	… 이런 일은 장기적으로 검토해야 해.	...This isn't something you can just rush into.						0	3.4主线剧情
+37	单说埃达——从它诞生意识那天起，每时每刻，哪怕是现在，她都在加固槲寄生空间站的防火墙。	單說埃達——從它誕生意識那天起，每時每刻，哪怕是現在，她都在加固槲寄生太空站的防火牆。	エッダは意識が芽生えた日から、毎日のようにヤドリギ宇宙ステーションのファイアーウォールを強化しています。	에다만 해도… 의식이 생긴 이후 수시로, 심지어 지금 이 순간에도 미스틸테인 우주정거장의 방화벽을 강화하고 있어.	Ever since she became self-aware, Edda's been reinforcing the station's firewall — even now.						0	3.4主线剧情
+38	哪怕它完全不管，防火墙也不是一时半会儿能攻破的。	就算它完全不管，防火牆也不是一時半刻能攻破的。	仮にエッダから妨害を受けなくとも、あのファイアーウォールはそう容易く破れるようなものではありません。	에다가 손 놓고 있다고 해도, 방화벽은 쉽게 뚫을 수 없지.	Even if she ignored your attack entirely, that firewall would take a while to break.						0	3.4主线剧情
+39	如果算上恒沙呢？	如果算上恆沙呢？	ゴウシャも考慮に入れて考えてみよう。	항사까지 계획에 넣으면요?	What if we factor in GANGES?						0	3.4主线剧情
+40	会不会让埃达觉得，有可能对它造成一些威胁？	會不會讓埃達覺得，有可能對它造成一些威脅？	ゴウシャの力を借りても、それは変わらないのか？	그러면 에다가 위협을 느끼지 않을까요?	Would that be enough to make Edda even slightly react as if she were threatened?						0	3.4主线剧情
+41	……就算有恒沙的帮助，也不可能压制埃达。	……就算有恆沙的幫助，也不可能壓制埃達。	……こちらにゴウシャがついているとは言え、相手はエッダです。演算能力で負かすのは不可能でしょう。	… 항사의 도움이 있더라도 에다를 제압하는 건 불가능해.	...Even with GANGES, we couldn't suppress Edda.						0	3.4主线剧情
+42	我反对。这太危险了。	我反對。這太危險了。	リスクを鑑みて、承認はできません。	난 반대야. 너무 위험해.	I'm opposed to this. It's far too risky.						0	3.4主线剧情
+43	你不要总是这样。我知道你想早点解决这一切，但至少在去空间站这件事上，你要有耐心。	你不要總是這樣。我知道你想早點解決這一切，但至少在去太空站這件事上，你要有耐心。	一刻も早くこの事態を解決したいでしょうけど、少なくとも宇宙ステーションへ向かう事に関しては、もう少し時機を待つべきかと。	자꾸 그러지 마. 모든 걸 빨리 해결하고 싶은 마음은 알지만, 우주정거장에 가는 일만큼은 시간을 갖고 생각해 봐야 해.	You always do this. I know you want to end it once and for all, but at least when it comes to the station, be patient.						0	3.4主线剧情
+44	……你真的觉得我想去？	……你真的覺得我想去？	……私が本気で行こうとしていると思っているのか？	… 제가 정말 가고 싶은 것 같아요?	...You really think I'd actually go?						0	3.4主线剧情
+45	……	……	……。	……	...						0	3.4主线剧情
+46	呼……	呼……	ふぅ……	휴…	*sigh*...						0	3.4主线剧情
+47	吓唬我干嘛？我还不够忙么？	嚇我幹嘛？我還不夠忙嗎？	冗談なら行き過ぎですよ。それともあなたには、私がそんなに暇に見えます？	놀라게 하지 좀 마. 안 그래도 바쁜 거 안 보여?	Did you have to scare me like that? I've already got enough on my plate.						0	3.4主线剧情
+48	陶的眼里多了几分无奈。我略带歉意地笑了笑。	τ的眼裡多了幾分無奈。我略帶歉意地笑了笑。	呆れた目で私を見るτに、私は謝るような笑みを向ける。	못 말리겠다는 듯한 τ의 눈빛에 나는 미안한 마음을 담아 살짝 웃었다.	I saw resignation in her eyes. I gave her a faint, apologetic smile.						0	3.4主线剧情
+49	我只是想确认，在别人眼里，我有没有足够的动机。	我只是想確認，在別人眼裡，我有沒有足夠的動機。	周りから見て私にそうする動機が十分にあるかどうか。それを確かめたかったんだ。	그냥 확인하고 싶었어요. 다른 사람이 볼 땐 제가 그럴 만한 동기가 있는 사람일까 해서요.	I just needed to make sure that my motive is convincing enough in other people's eyes.						0	3.4主线剧情
+50	说不准。在外人看来，你比罗赞和埃达可怕多了。	說不準。在外人看來，你比羅贊和埃達可怕多了。	さぁ、どうでしょう。一つだけ言えるのは、他人からするとあなたはすでに、ロザンやエッダなどよりも恐ろしい存在になっているのかもしれません。	글쎄. 다른 사람 눈에는 네가 로잔이나 에다보다 훨씬 더 무서워 보일걸.	Hard to say. To outsiders, you come off as even more intimidating than Rozan or Edda.						0	3.4主线剧情
+51	怎么说得我像个反派……	怎麼說得我像個反派……	まるで私が悪役みたいな言い方だな……	제가 무슨 악당인 것처럼 말씀하시네요…	You make it sound like I'm a villain here...						0	3.4主线剧情
+52	像逼迫敌人那样逼迫自己……谁都不想与这样的人为敌。	像逼迫敵人那樣逼迫自己……誰都不想與這樣的人為敵。	まるで敵のように自分を追い込む――おそらく誰もそんな人を相手にしたくないでしょう。	적을 몰아세우듯 자신을 몰아세우는 사람과는… 누구도 맞서 싸우고 싶지 않을 거야.	You push yourself like your own worst enemy. No one wants someone like that as an opponent.						0	3.4主线剧情
+53	嗯……总之，你刚刚也相信了，我觉得还是有可行性的。	嗯……總之，你剛剛也相信了，我覺得還是有可行性的。	まあな……ともかく、さっきはあなたも一瞬信じかけたんだから、作戦としては成立すると思う。　	음… 아무튼, 이사님도 믿으신 것처럼 이건 실현 가능성이 있는 일이에요.	Mm... Point is, even you believed it. I think it could work.						0	3.4主线剧情
+54	罗赞也好，埃达也罢……她们应该都会觉得，我是真打算上槲寄生空间站的。	羅贊也好，埃達也罷……她們應該都會覺得，我是真的打算上槲寄生太空站的。	ロザンにせよ、エッダにせよ……私が本気でヤドリギ宇宙ステーションに向かおうとしていると勘違いするはずだ。	로잔이든 에다든… 아마 제가 정말로 미스틸테인 우주정거장에 갈 거라고 생각할 거예요.	Rozan, Edda... both of them would believe I really intend to go up to Mistilteinn Station.						0	3.4主线剧情
+55	我认真地看着陶的眼睛。	我認真地看著τ的眼睛。	私は真剣にτの目を見た。	나는 진지하게 τ의 눈을 바라보았다.	I looked τ straight in the eye.						0	3.4主线剧情
+56	我要借着这个机会，把所有可能影响到上空间站的人和事都揪出来。	我要藉著這個機會，把所有可能影響到上太空站的人和事都揪出來。	これを機に、ヤドリギへ行くための厄払いを済ませるつもりだ。	저는 이 기회에 우주정거장 진입에 방해가 될 만한 모든 걸 찾아낼 거예요.	I'll use this as a chance to flush out anyone — and anything — that might interfere with the launch.						0	3.4主线剧情
+57	埃达，罗赞，甚至军方内部的反对派。	埃達、羅贊，甚至軍方內部的反對派。	エッダ、ロザン、それから軍内部の反対派もな。	에다, 로잔, 군대 내부의 반대파까지요.	Edda. Rozan. And the opposition within the military.						0	3.4主线剧情
+58	各地的航天中心一直在尝试重建。但无一例外，建设进度都被埃达的干扰严重拖慢了。	各地的航太中心一直在嘗試重建。但無一例外，建設進度都被埃達的干擾嚴重拖慢了。	各地では今も宇宙センターの再建が進められていますが、そのどれもエッダの妨害で進捗が遅れています。	각 지역의 우주센터에서 계속 재건을 시도해 왔지만, 모두 예외 없이 에다의 교란으로 재건은 심하게 지연되었어.	Aerospace centers everywhere have tried to rebuild, but Edda's interference has stalled every attempt.						0	3.4主线剧情
+59	连军方自己建设的航天中心也被埃达重点关照了。目前只有北风航天中心刚刚竣工，做好了发射准备。	連軍方自己建設的航太中心也被埃達特別關照了。目前只有北風航太中心剛剛竣工，做好了發射準備。	軍の施設だってそれから逃れるどころか、エッダから「格別なお世話」を受けています。そのため今建設を終え、発射準備が出来ているのは北風宇宙センターのみです。	군대에서 직접 건설한 우주센터조차 에다의 집중 관심을 받는 바람에, 현재 완공되어 발사 준비를 마친 건 노스윈드 우주센터뿐이야.	Even the military's own centers have caught her unwanted attention. Only Northwind has managed to finish reconstruction and prepare for launch.						0	3.4主线剧情
+60	我记得。你一直留意着这件事。那确实是个理想的位置——没有“树”，埃达不好干预。	我記得。你一直留意著這件事。那確實是個理想的位置——沒有「樹」，埃達不好干預。	知っているさ。あなたはずっとそのことを気にかけていたな。「デンドロン」がなく、エッダが邪魔立てできないあそこは、確かに理想的な場所だ。	기억나요. 그 일을 계속 주목하셨잖아요. 확실히 이상적인 위치긴 하죠. '나무'가 없어서 에다가 개입하기 어려우니까요.	I know. You've been monitoring it from the start. It's the ideal site — no Tree, and harder for Edda to interfere.						0	3.4主线剧情
+61	就是因为没有“树”，才选了那里。这一直是我心目中最适合重回空间站的发射地点。	就是因為沒有「樹」，才選了那裡。這一直是我心目中最適合重回太空站的發射地點。	まさに「デンドロン」がないからそこにしたのです。前から、宇宙ステーションへ再征するのに理想的な発射地点と見ていました。	 '나무'가 없어서 그곳을 선택했지. 내가 볼 땐 그곳이야말로 우주정거장으로 돌아가기에 가장 완벽한 발사 지점이거든.	Exactly. That's why we chose it — it's always been the optimal launch point for a return to the station.						0	3.4主线剧情
+62	北风航天中心的重建工作是由公司和军方合作重建的，驻守的军队也是对我们最亲和、最有可能被影响的贝奥武夫中队。	北風航太中心的重建工作是由公司和軍方合作重建的，駐守的軍隊也是對我們最親和、最有可能被影響的貝奧武夫中隊。	北風宇宙センターの再建は我が社と軍が合同で進めています。そこに駐屯しているのも、軍の中で最も我々に協力的なベーオウルフ中隊です。	노스윈드 우주센터는 회사와 군대가 협력해 재건했고, 주둔하고 있는 군대도 우리에게 가장 우호적이고 가장 영향받기 쉬운 베오울프 중대야.	Northwind was rebuilt through a joint effort between Yggdrasil and the military. The garrison stationed there, Beowulf Battalion, is the most sympathetic to us — and the easiest to sway.						0	3.4主线剧情
+63	我们先假定它会被毁掉。	我們先假設它會被毀掉。	まずは、そこが破壊されると仮定しよう。	그럼 거기가 파괴될 거라고 가정해 보죠.	Suppose it gets destroyed.						0	3.4主线剧情
+64	……	……	……。	……	...						0	3.4主线剧情
+65	陶捂了捂自己的脸，揉了揉眉心。	τ捂了捂自己的臉，揉了揉眉心。	τは顔を覆い、眉間を揉んだ。	τ는 얼굴을 가리며 미간을 문질렀다.	τ covered her face, rubbing at her brow.						0	3.4主线剧情
+66	……好。	……好。	……いいでしょう。	… 그래.	...Fine.						0	3.4主线剧情
+67	放心，我可不会胡乱糟蹋你的成果。	放心，我才不會亂糟蹋你的成果。	安心してくれ。あなたの仕事の成果を台無しにする気はない。	이사님의 성과를 함부로 망치진 않을 테니 걱정 마세요.	Don't worry. I won't let your work go to waste for nothing.						0	3.4主线剧情
+68	——“丧钟”快要做好了。	——「喪鐘」快要做好了。	――「弔鐘」はもうすぐ完成する。	 '데스 벨'이 곧 완성될 거예요.	The Death Knell is almost ready.						0	3.4主线剧情
+69	嗯？你的意思是……	嗯？你的意思是……	……？ということは……	뭐? 그 말은…	Hmm. You mean...						0	3.4主线剧情
+70	罗赞？	羅贊？	狙いはロザン…ですか？	로잔?	Rozan?						0	3.4主线剧情
+71	嗯。	嗯。	ああ。	네.	Mm.						0	3.4主线剧情
+72	我等她很久了。	我等她很久了。	チャンスを待っていたんだ。	오랫동안 로잔을 기다려왔어요.	I've waited a long time for this.						0	3.4主线剧情
+73	如果她真敢出现，我绝对要把她留下来。	如果她真的敢出現，我絕對要把她留下來。	もし本当にそこで彼女が姿を現したなら、絶対に、逃がさない。	겁도 없이 다시 나타난다면, 무슨 일이 있어도 붙잡을 거예요.	If she shows up, I won't let her get away.						0	3.4主线剧情
+74	从罗赞出场的那一刻，任务的目标就确定了。	從羅贊出場的那一刻，任務的目標就確定了。	ロザンが姿を現わした瞬間から、任務のターゲットは彼女に変わっていたのだ。	로잔이 등장한 그 순간부터 임무의 목표는 확실해졌다.	From the moment Rozan appeared, our mission objective was set in stone.						0	3.4主线剧情
+75	先前和陶的通讯里，我也向她传达了这个事实——	先前和τ的通訊裡，我也向她傳達了這個事實——	先ほどτとの通信でも、私は彼女にその事実を伝えていた――	앞서 τ와의 통신에서도 이 사실을 전달했다.	I'd already told τ as much during our earlier transmission.						0	3.4主线剧情
+76	陶。	τ。	τ。	τ 이사님.	τ.						0	3.4主线剧情
+77	计划不变，作战继续。	計畫不變，作戰繼續。	計画通りにいくぞ。	계획은 변함없어요. 작전을 계속하겠습니다.	Plan stands. The operation continues.						0	3.4主线剧情
+78	……	……	……。	……	...						0	3.4主线剧情
+79	我明白了。	我明白了。	分かりました。	알겠어.	I see.						0	3.4主线剧情
+80	playername，保重。	playername，保重。	playername、くれぐれも気をつけてください。	playername, 몸조심해.	Stay safe, playername.						0	3.4主线剧情
+81	但……罗赞刚刚展现的变身能力，变成那种几米高的怪物，泰坦物质完全护住了要害——“丧钟”几乎失去作用了。	但……羅贊剛剛展現的變身能力，變成那種幾公尺高的怪物，泰坦物質完全護住了要害——「喪鐘」幾乎失去作用了。	だが、先ほどロザンが見せた変身能力が気がかりだ。高さ数メートルの怪物に変身し、急所はタイタン物質で完全に固められ――「弔鐘」の意味もほとんどなくなった。	하지만… 로잔이 방금 변신 능력을 사용해 수 미터에 달하는 괴물이 되었고, 타이탄 물질이 급소를 완벽히 보호해 '데스 벨'은 사실상 무력화되었다.	But with Rozan's new towering form — several stories tall, weak points armored in Titagen — the Death Knell was now almost useless against her.						0	3.4主线剧情
+82	退路是有的。现在赶去北风航天中心，和贝奥武夫中队一同撤离，丢弃北风航天中心——	退路是有的。現在趕去北風航太中心，和貝奧武夫中隊一同撤離，丟棄北風航太中心——	逃げる方法ならまだある。今すぐ北風宇宙センターに向かい、ベーオウルフ中隊と共に撤退し、北風宇宙センターを放棄すれば――	아직 빠져나갈 방법은 있다. 지금 노스윈드 우주센터로 가서 베오울프 중대와 함께 철수하고, 노스윈드 우주센터를 포기하면…	There was a fallback plan: rush to Northwind, retreat with Beowulf Battalion, and abandon the aerospace center entirely.						0	3.4主线剧情
+83	（……不，还有机会。）	（……不，還有機會。）	……いや、まだだ。	(… 아니, 아직 기회가 있어.)	(...No. There's still chance.)						0	3.4主线剧情
+84	只有那么一瞬间，升起的退意就被按下了。	只有那麼一瞬間，升起的退意就被按下了。	一瞬だけ湧き上がった退却の意思は、すぐに押し殺された。	포기하려는 생각이 고개를 들었다가 곧바로 가라앉았다.	For a moment, the thought of retreat flickered, but I pushed it aside.						0	3.4主线剧情
+85	甩了甩头，我重新开始整理线索。	甩了甩頭，我重新開始整理線索。	首を横に振り、私は再び手がかりを整理し始めた。	나는 고개를 흔들고는 다시 단서를 정리했다.	I shook my head and began piecing the situation back together.						0	3.4主线剧情
+86	——那种能力一定不是无限制的。否则，罗赞没有必要现在才用。好几次都被我们逼进了绝境，那应该就是她的底牌了。	——那種能力一定不是無限制的。否則，羅贊沒有必要現在才用。好幾次都被我們逼進了絕境，那應該就是她的底牌了。	あの能力が無制限のはずがない。さもなければ、ロザンが今になって使う必要はない。何度も私たちに窮地に追い込まれたのだから、彼女の切り札だったに違いない。	그런 능력은 분명 제한이 있다. 그렇지 않으면 굳이 이제 와서 사용할 이유가 없다. 몇 번이나 우리 때문에 궁지에 몰렸으니, 그게 로잔의 마지막 카드였을 것이다.	That form can't be limitless. Otherwise, she'd have used it earlier. We'd cornered her several times before — this had to be her last trump card.						0	3.4主线剧情
+87	但还是不能如此假定。在这之前，我也一度认为罗赞没有别的手段了。	但還是不能如此假設。在這之前，我也一度認為羅贊沒有別的手段了。	だが、そう決めつけるわけにもいかない。これまでだって、私は何度もロザンの切り札をすべて引き出せたと勘違いしてしまったのだ。	하지만 그렇게 단정 지을 수는 없다. 나도 여태껏 로잔에게 다른 수단이 없을 거라고 생각했으니까.	But assumptions get you killed. I'd thought she was out of tricks before.						0	3.4主线剧情
+88	漏算了爱思特——虽然把她当作了第一目标，却下意识忽视了一点——我突然想起来，在猫汐尔第一次遭遇爱思特的时候，“丧钟”也对爱思特生效了。	漏算了愛思特。雖然把她當作了第一目標，卻下意識忽視了一點——我突然想起來，在貓汐爾第一次遭遇愛思特的時候，「喪鐘」也對愛思特生效了。	エステルのこともそうだ――彼女を真っ先に狙おうとしたにも関わらず、あることを無意識に見落としていた。初めてエステルと遭遇したとき、「弔鐘」はエステルにも有効だったのだ。	에스터는 예상에 없었다. 그녀를 첫 번째 목표로 삼기는 했지만, 무의식적으로 한 가지 간과한 것이 있다. 캣 시에라가 처음 에스터를 맞닥뜨렸을 때, '데스 벨'이 에스터에게도 효과가 있었다는 사실이 떠올랐다.	Esther was our first target, yet I'd overlooked the fact that the Death Knell had affected her during Mauxir's first encounter.						0	3.4主线剧情
+89	罗赞应该是在爱思特身上储存了大量的泰坦物质。顺着这一点往下想，那个变身能力应该会消耗巨量的泰坦物质，以至于罗赞会下手把爱思特完全抽成一个废人。	羅贊應該是在愛思特身上儲存了大量的泰坦物質。順著這一點往下想，那個變身能力應該會消耗巨量的泰坦物質，以至於羅贊會下手把愛思特完全抽成一個廢人。	おそらく、ロザンはエステルの体に大量のタイタン物質を蓄えていた。従って、あの変身能力を発動するには莫大なタイタン物質が必要、ということになる。でなければ、エステルからタイタン物質を吸いつくす必要はなかったはずだ。	로잔은 에스터의 몸에 대량의 타이탄 물질을 저장해 두었을 것이다. 그렇다면 그 변신 능력은 엄청난 양의 타이탄 물질을 소모할 테고. 그래서 에스터는 로잔에게 완전히 흡수되어 폐인이 되고 만 것이다.	That meant Rozan must have stored a massive amount of Titagen inside Esther. Transforming into that form must require an unimaginable quantity — otherwise she wouldn't have drained Esther to a husk.						0	3.4主线剧情
+90	再看我这边——从罗赞手里逃出来之后，我就一直分着精力，控制泰坦物质修复“丧钟”所带来的伤势。现在已经好得差不多了。	再看我這邊——從羅贊手裡逃出來之後，我就一直分散著精力，控制泰坦物質修復「喪鐘」所帶來的傷勢。現在已經好得差不多了。	一方――ロザンから逃れたあと、私はずっと合間を縫ってタイタン物質を操り、「弔鐘」による傷を治していた。今ではほぼ完治している。	그리고 나는 로잔의 손아귀에서 벗어난 이후 나는 계속 정신을 집중하며 타이탄 물질을 제어해 '데스 벨'이 남긴 상처를 치유했고, 이제 거의 다 나았다.	Since breaking free, I'd been using Titagen to repair the damage left by the Death Knell — and I was nearly back to full strength.						0	3.4主线剧情
+91	相比第一次使用这种能力时的头昏脑涨，现在已经熟练多了。如果能除掉所有的泰坦，那面对罗赞也未尝没有胜算。	相比第一次使用這種能力時的頭昏腦脹，現在已經熟練多了。如果能除掉所有的泰坦，那面對羅贊也未嘗沒有勝算。	初めてこの能力を使ったときの頭痛やめまいと比べれば、今はずいぶんと楽だ。もしタイタンをすべて排除できれば、ロザンに勝ち目がないわけでもなかろう。	이 능력을 처음 사용했을 당시 느꼈던 현기증에 비하면 지금은 훨씬 능숙해졌다. 타이탄을 전부 제거할 수 있다면, 로잔을 상대해도 승산이 없진 않을 것이다.	Less vertigo than before. I was adapting. If we could neutralize the Titans first, Rozan might just be beatable.						0	3.4主线剧情
+92	罗赞刚刚那种形态不适合在疗养中心这种地形战斗，看样子也无法长时间维持。只要趁她还是人形的时候动手，未必没有机会。	羅贊剛剛那種形態不適合在療養中心這種地形戰鬥，看樣子也無法長時間維持。只要趁她還是人形的時候動手，未必沒有機會。	ロザンが見せた新形態は、療養センターのような地形での戦闘には不向きで、長時間維持するのも難しいはずだ。彼女が人の姿でいるうちに手を打てば、勝算はある。	아까 로잔이 보였던 그런 형태는 요양센터 같은 지형에서 전투하기에 불리한 데다가, 오래 유지할 수도 없을 것 같았다. 그녀가 인간 형태일 때를 노린다면 기회가 있을지도 모른다.	That new monstrous form wasn't made for confined spaces like the sanatorium — and it clearly couldn't last. If I struck when she eventually returned to human form, there was a chance.						0	3.4主线剧情
+93	可……无论如何，猫汐尔不能再参与战斗了。	但……無論如何，貓汐爾不能再參與戰鬥了。	だが……どうあがいても、これ以上マーシルを戦わせるのはダメだ。	하지만… 어찌 됐든 캣 시에라는 더 이상 전투에 투입시킬 수 없다.	But... Mauxir couldn't rejoin the fight. No matter what.						0	3.4主线剧情
+94	低头看她——强心针的药效逐渐发挥作用，她的状态终于稳定了下来。	低頭看她——強心針的藥效逐漸發揮作用，她的狀態終於穩定了下來。	顔を伏せて彼女を見ると――強心剤が効いてきたのか、容体はついに安定してきたようだ。	고개를 숙여 그녀를 바라보았다. 강심제의 약효가 점차 나타나면서 그녀의 상태가 마침내 안정되었다.	I looked down. The cardiac stimulant was taking effect, and her vitals were finally stabilizing.						0	3.4主线剧情
+95	猫汐尔现在的状态无论如何都不能再使用“丧钟”了。现在看来，先前医疗部专家的推论是正确的。	貓汐爾現在的狀態無論如何都不能再使用「喪鐘」了。現在看來，先前醫療部專家的推論是正確的。	どんなことがあっても、マーシルにはこれ以上「弔鐘」を使わせられない。医療部専門家の推論は正しかったようだ。	현재 캣 시에라의 상태로는 절대 '데스 벨'을 사용해선 안 된다. 이제 생각해 보니 의료부 전문가의 추론이 옳았다.	She was in no condition to use the Death Knell again. The Medical Department's theory was right.						0	3.4主线剧情
+96	一方面，“丧钟”使猫汐尔的无痛症逐渐治愈。另一方面，“丧钟”对猫汐尔造成剧烈的痛苦，可能直接导致疼痛性休克——就像之前在战斗中那样。	一方面，「喪鐘」使貓汐爾的無痛症逐漸治癒。另一方面，「喪鐘」對貓汐爾造成劇烈的痛苦，可能直接導致疼痛性休克——就像之前在戰鬥中那樣。	「弔鐘」はマーシルの無痛症を徐々に治癒させている一方で、マーシルに激しい痛みをもたらし、この前の戦闘でも起きたショックを引き起こしてしまう。	 '데스 벨'이 캣 시에라의 무통증을 점차 치유한다는 점. 그리고 '데스 벨'이 캣 시에라에게 극심한 고통을 주어, 이전 전투에서처럼 통증성 쇼크를 일으킬 수 있다는 점.	The Death Knell was gradually curing Mauxir's analgesia, restoring her body's pain response. But the pain itself was intense enough to trigger shock, just like in the last battle.						0	3.4主线剧情
+97	而卜卜和我是没有办法使用“丧钟”的。猫汐尔的战术套装专门强化了天启者力量的输出，所以卜卜的天启者力量完全不足以启动“丧钟”。	而卜卜和我是沒有辦法使用「喪鐘」的。貓汐爾的戰術套裝專門強化了天啟者力量的輸出，所以卜卜的天啟者力量完全不足以啟動「喪鐘」。	しかし、ブブと私には「弔鐘」が使えない。マーシルの戦術装備は覚醒者の力の出力を強化したもののため、ブブでは「弔鐘」を起動することができない。	그러나 보보와 나는 '데스 벨'을 사용할 수 없다. 캣 시에라의 전술 슈트는 계시자 힘의 출력을 특별히 강화했기에, '데스 벨'을 작동시키기에는 보보가 가진 계시자 힘이 매우 부족하다.	Only Mauxir could operate the Death Knell, because her exosuit amplified her Manifestation output. Bubu's power wasn't nearly enough to activate it.						0	3.4主线剧情
+98	我的话——我试过使用能量态的泰坦物质驱动“丧钟”。启动的瞬间，“丧钟”释放的振荡波直接使我体内的泰坦物质被同频锁影响，完全难以控制。	我的話——我試過使用能量態的泰坦物質驅動「喪鐘」。啟動的瞬間，「喪鐘」釋放的振盪波直接使我體內的泰坦物質被同頻鎖影響，完全難以控制。	私もタイタン物質を使って「弔鐘」を起動してみたが、それが動き出した瞬間、パルスによって体内でタイタン物質の共振が起き、「弔鐘」を制御するのは困難だった。	나 역시 에너지 형태의 타이탄 물질로 '데스 벨'을 구동해 보려 했다. 하지만 작동하는 순간, '데스 벨'이 방출하는 진동파로 인해 내 체내의 타이탄 물질이 공명 잠금의 직접적인 영향을 받아 통제할 수 없었다.	As for me, I tried powering it with Titagen. But the moment it fired, its wave phase-locked the Titagen in my body, completely disrupting my control.						0	3.4主线剧情
+99	同时，“丧钟”还在持续抽取着我体内的泰坦物质，直到抽干为止。最后的结果是“丧钟”差点炸掉。所以，我也没办法使用“丧钟”。	同時，「喪鐘」還在持續抽取著我體內的泰坦物質，直到抽乾為止。最後的結果是「喪鐘」差點炸掉。所以，我也沒辦法使用「喪鐘」。	しかも、「弔鐘」は私の体内からタイタン物質を空になるまで抽出し続ける。そのせいで「弔鐘」が一度爆発しそうになったため、私は二度と「弔鐘」を無理に動かそうとしなかった。	그와 동시에 '데스 벨'은 내 체내의 타이탄 물질이 고갈될 때까지 흡수했고, 결국 '데스 벨'은 하마터면 폭발할 뻔했다. 그래서 나도 더 이상 '데스 벨'을 사용할 수 없다.	At the same time, it kept siphoning Titagen from me until I was dry. In the end, it nearly imploded. So I couldn't use the Death Knell either.						0	3.4主线剧情
+100	卜卜。	卜卜。	ブブ。	보보.	Bubu.						0	3.4主线剧情
+101	我在。	我在。	はい！	응.	Yeah?						0	3.4主线剧情
+102	你和猫汐尔，带着爱思特，去北风航天中心。	你和貓汐爾，帶著愛思特，去北風航太中心。	君とマーシルは、エステルを連れて、北風宇宙センターへ行ってくれ。	너랑 캣 시에라는 에스터를 데리고 노스윈드 우주센터로 가.	You and Mauxir head to Northwind Aerospace Center. Take Esther with you.						0	3.4主线剧情
+103	啊？那你呢？	啊？那你呢？	え？じゃあ分析員は……？	응? 그럼 너는?	Huh? What about you?						0	3.4主线剧情
+104	我留在这里，牵制罗赞。	我留在這裡，牽制羅贊。	私はここに残って、ロザンを牽制する。	난 여기 남아서 로잔을 상대할 거야.	I'm staying behind — to hold Rozan here.						0	3.4主线剧情
+105	诶？可是！可是……	欸？可是！可是……	え！？でも！でも……	엥? 하지만! 하지만…	What!? But— but...						0	3.4主线剧情
+106	卜卜的声音渐渐小了下去。	卜卜的聲音漸漸小了下去。	ブブの声は次第に小さくなっていった。	보보의 목소리가 점점 작아졌다.	Bubu's voice trailed off.						0	3.4主线剧情
+107	分析员，任务……是不是失败了？	分析員，任務……是不是失敗了？	分析員……もしかして任務って、もう失敗したの？	분석가, 임무는… 실패한 거야?	Adjutant, did we... fail the mission?						0	3.4主线剧情
+108	……还不算。	……還不算。	……まだだ。	… 아직은 아니야.	...Not yet.						0	3.4主线剧情
+109	你和猫汐尔接下来的任务很重要。你们不能引起罗赞的注意，不能把罗赞吸引到北风航天中心那边去。	你和貓汐爾接下來的任務很重要。你們不能引起羅贊的注意，不能把羅贊吸引到北風航太中心那邊去。	これから、君とマーシルに大事な任務を頼みたい。	이제 너와 캣 시에라의 역할이 매우 중요해. 로잔의 주의를 끌면 안 돼. 로잔이 노스윈드 우주센터 쪽으로 가게 하면 안 되거든.	Your next move is critical. Don't attract Rozan's attention, we need to keep her away from Northwind.						0	3.4主线剧情
+110	这么多泰坦聚集在这里，这附近的通讯手段都会失效。但北风航天中心是例外。	這麼多泰坦聚集在這裡，這附近的通訊手段都會失效。但北風航太中心是例外。	これだけ多くのタイタンが集まっていると、この付近ではすべての通信手段が使えなくなってるんだろう。だが北風宇宙センターは例外なはずだ。	이 많은 타이탄이 다 이곳에 모여있으니, 이 근처의 통신 수단은 모두 무용지물일 거야. 하지만 노스윈드 우주센터는 예외지.	With so many Titans in the area, local comms are down. Northwind is the only exception.						0	3.4主线剧情
+111	那里有军方的通讯基站，有无视泰坦物质辐射的有线通讯，还有黑室。在那里，你们就能联系上总部了。	那裡有軍方的通訊基地台，有無視泰坦物質輻射的有線通訊，還有黑室。在那裡，你們就能聯繫到總部了。	そこの軍の通信基地には、タイタン物質の放射を無視できる有線通信や、ブラック・チャンバーがある。そこなら、本部に連絡が取れる。	거긴 군대의 통신 기지국이 있고, 타이탄 물질의 방사능을 무시하는 유선 통신과 블랙룸이 있어. 너희는 거기서 본부와 연락하면 돼.	It has a military relay station, equipped with a Black Room and hardwired comms shielded from Titagen radiation. From there, you'll be able to contact headquarters.						0	3.4主线剧情
+112	会有增援吗？	會有增援嗎？	……増援は来ないの？	지원군이 있을까?	Are we calling for backup?						0	3.4主线剧情
+113	……陶的压力也很大。她要拦住所有的真神者，还要应对埃达的牵制。	……τ的壓力也很大。她要攔住所有的真神者，還要應對埃達的牽制。	……τのほうはすべての至上者を食い止め、さらにエッダの牽制に対処しなければならないんだ。	… τ 이사님도 스트레스가 심해. 모든 조물주를 막아내야 하고, 에다도 상대해야 하지.	...τ's fully engaged with holding the Demiurges back and countering Edda's interference.						0	3.4主线剧情
+114	我也必须考虑其他人的安全。人数本来就处于劣势，贸然抽人手过来，其他人也可能陷入危险。	我也必須考慮其他人的安全。人數本來就處於劣勢，貿然抽人手過來，其他人也可能陷入危險。	他の隊員の安全も考えないといけない。そもそも人数的に劣勢に立たされているんだ。無闇に人員を引き抜けば、他のみんなが危険に陥ってしまうかもしれない。	나도 다른 사람들의 안전을 신경 써야 해. 숫자로 이미 밀리는 상황에서 섣불리 인력을 빼 오면, 다른 인원들도 위험해질 수 있어.	I can't pull others off their fronts — they're already stretched thin. I have to consider everyone's safety.						0	3.4主线剧情
+115	埃达的目的是航天中心。这是战局中最明面的东西，我必须有足够的耐心，一点一点往外拆。	埃達的目的是航太中心。這是戰局中最明面的東西，我必須有足夠的耐心，一點一點往外拆。	エッダの目的は北風宇宙センター。これが現状で最も明白なことだ。その現状を打開するのが私たちの役割だ。	에다의 목표는 우주센터다. 이는 이번 전투에서 가장 명확한 사실이다. 나는 서두르지 말고 바깥에서부터 천천히 공략해야만 한다.	Edda's target was Northwind Aerospace Center — our only solid lead. I needed to stay patient and break her plan down, step by step.						0	3.4主线剧情
+116	——你们要联系上陶，让她获得军方的许可。	——你們要聯絡到τ，讓她獲得軍方的許可。	――τと連絡して、軍の許可を取ってきてもらう。	너희는 τ 이사님과 연락해서 군대의 허가를 받아달라고 해.	Contact τ. Ask her to push for military clearance.						0	3.4主线剧情
+117	……许可？	……許可？	許可……？	… 허가?	...Clearance?						0	3.4主线剧情
+118	<snowbreak>湮灭炸药</>的使用权。	<snowbreak>湮滅炸藥</>的使用權。	ああ。<snowbreak>広域タイタン殲滅用爆弾</>の使用許可。	<snowbreak>소멸 폭약</> 사용 권한.	For <snowbreak>annihilation charges</>.						0	3.4主线剧情
+119	湮灭炸药——专门针对泰坦物质而研发的炸药。作为针对泰坦的特种部队，贝奥武夫中队一定会配备大量的湮灭炸药。	湮滅炸藥——專門針對泰坦物質而研發的炸藥。作為針對泰坦的特種部隊，貝奧武夫中隊一定會配備大量的湮滅炸藥。	タイタン物質の破壊に特化した爆弾だ。対タイタン特殊部隊のベーオウルフ中隊なら、きっと大量に配備しているはずだ。	소멸 폭약은 타이탄 물질을 겨냥해 개발된 폭약이야. 베오울프 중대는 타이탄 대응 특수부대니까 소멸 폭약을 대량으로 보유하고 있을 게 분명해.	They're explosives designed specifically to neutralize Titagen. Beowulf Battalion is a Titan-killer unit, so they'll have plenty on hand.						0	3.4主线剧情
+120	在核心舱里装满湮灭炸药，然后用火箭，把泰坦都砸掉。这样既可以清除到处乱跑的泰坦物质，又可以保护北风航天中心不被破坏。	在核心艙裡裝滿湮滅炸藥，然後用火箭，把泰坦都炸掉。這樣既可以清除到處亂跑的泰坦物質，又可以保護北風航太中心不被破壞。	それを搭載したミサイルでタイタンを爆撃する。そうすればタイタン物質を一掃でき、北風宇宙センターも守れる。	코어 모듈에 소멸 폭약을 가득 채우고 로켓으로 타이탄들을 박살 내는 거야. 그러면 이곳저곳에 흩어져 있는 타이탄 물질도 제거하고, 노스윈드 우주센터가 파괴되는 것도 막을 수 있어.	Load the rocket's core module with the charges. Then launch it straight into the Titans. That'll wipe the residual Titagen and keep Northwind intact.						0	3.4主线剧情
+121	那你怎么办？！	那你怎麼辦？！	じゃあ分析員はどうするの？	그럼 넌 어떡해?!	But what about you!?						0	3.4主线剧情
+122	没关系的。湮灭炸药是针对泰坦物质的武器，对其他物质的伤害有限。危险的是泰坦物质被湮灭炸药消灭时产生的能量。	沒關係的。湮滅炸藥是針對泰坦物質的武器，對其他物質的傷害有限。危險的是泰坦物質被湮滅炸藥消滅時產生的能量。	心配するな。私は大丈夫だ。あの爆弾はタイタン物質にだけ作用する。危ないのは、タイタン物質が消滅する瞬間に放出されるエネルギーだけだ。	걱정 마. 소멸 폭약은 타이탄 물질을 겨냥한 무기라 다른 물질엔 큰 피해를 줄 수 없어. 타이탄 물질이 소멸 폭약에 의해 소멸될 때 발생하는 에너지야말로 위험 요소지.	Don't worry. The blast only reacts with Titagen — it barely affects anything else. The main risk is the energy surge when Titagen's neutralized.						0	3.4主线剧情
+123	所以只要离泰坦远一点就好了。	所以只要離泰坦遠一點就好了。	だからタイタンから離れていれば安全だ。	그러니까 타이탄에서 좀 멀리 떨어져 있기만 하면 돼.	So as long as I'm not too close, I'll be fine.						0	3.4主线剧情
+124	火箭发射之后，你们就跟随贝奥武夫中队一起撤离。	火箭發射之後，你們就跟隨貝奧武夫中隊一起撤離。	ロケットが発射されたら、君たちはベーオウルフ中隊とともに撤退しろ。	로켓이 발사되면 너희는 베오울프 중대와 함께 철수해.	Once the rocket's been launched, withdraw with Beowulf.						0	3.4主线剧情
+125	……不要。	……不要。	……イヤだ。	… 싫다.	...No.						0	3.4主线剧情
+126	猫汐尔一直在怀里听着，这时候冷不丁跟我来了一句。	貓汐爾一直在懷裡聽著，這時候突然跟我來了一句。	ずっと腕の中で聞いていたマーシルは、不意に口を挟んだ。	품 안에서 이야기를 듣고 있던 캣 시에라가 불쑥 말했다.	Held against my chest, Mauxir had been quietly listening — until she suddenly spoke up.						0	3.4主线剧情
+127	我还可以——	我還可以——	私は、まだたたかえ――	난 괜찮다…	I can still—						0	3.4主线剧情
+128	你不可以。	你不可以。	ダメだ。	안 괜찮아.	No, you can't.						0	3.4主线剧情
+129	撤退，这是命令。	撤退，這是命令。	撤退しろ、これは命令だ。	철수해, 이건 명령이야.	Withdraw after the launch — that's an order.						0	3.4主线剧情
+130	我很少这么严肃。猫汐尔缩了缩脖子，卜卜也把张着的嘴闭上了。	我很少這麼嚴肅。貓汐爾縮了縮脖子，卜卜也把張著的嘴閉上了。	私は珍しく真剣な口調になった。マーシルは首をすくめ、ブブも開きかけた口を閉じた。	내가 이렇게 엄격하게 구는 경우는 드물었다. 캣 시에라는 어깨를 움츠렸고, 보보도 벌리고 있던 입을 다물었다.	I rarely used such a stern tone. Mauxir flinched, and Bubu's mouth snapped shut as well.						0	3.4主线剧情
+131	不用担心我这边。只要能确保消灭所有泰坦，我就有把握拿下罗赞。	不用擔心我這邊。只要能確保消滅所有泰坦，我就有把握拿下羅贊。	心配するな。タイタンを殲滅すれば、必ずロザンを仕留めてみせる。	난 걱정하지 마. 타이탄을 전부 다 확실히 제거할 수만 있다면, 로잔은 내가 처리할 수 있어.	Don't worry about me. Once the Titans are cleared, I'm confident I can take Rozan down.						0	3.4主线剧情
+132	猫汐尔贴着我的胸口动了动。	貓汐爾貼著我的胸口動了動。	マーシルが私の胸に寄り添いながら身じろぎした。	캣 시에라가 내 가슴에 기대어 살짝 움직였다.	Mauxir shifted against my chest.						0	3.4主线剧情
+133	我……我知道了。	我……我知道了。	……うん、わかった。	아… 알겠어.	...Understood.						0	3.4主线剧情
+134	卜卜……保证完成任务！	卜卜……保證完成任務！	ブブ……必ずやり遂げてみせるよ！	보보가… 책임지고 임무를 완수할게!	I'll... make sure it gets done!						0	3.4主线剧情
+135	我低头看猫汐尔的眼睛，她哼了一声，不情不愿地点了点头。	我低頭看貓汐爾的眼睛，她哼了一聲，不情不願地點了點頭。	私は顔を伏せて、マーシルの目を見ると、彼女は鼻を鳴らしてから、しぶしぶうなずいた。	고개를 숙여 캣 시에라의 눈을 바라보자, 그녀는 '흥' 하고 콧방귀를 뀌더니 마지못해 고개를 끄덕였다.	I looked down at Mauxir. She gave a grunt, then nodded reluctantly.						0	3.4主线剧情
+136	她的传感器突然闪了闪，人也转头看向爱思特的方向。	她的感測器突然閃了閃，人也轉頭看向愛思特的方向。	すると、彼女のセンサーが突然光りだし、彼女もエステルの方を振り向いた。	그러다 갑자기 센서가 깜빡였고, 캣 시에라는 에스터 쪽을 돌아보았다.	Suddenly, her sensors flashed. She turned toward Esther.						0	3.4主线剧情
+137	她快醒了。	她快醒了。	もうすぐ目覚めるみたい。	곧 깨어날 것 같다.	She's waking up.						0	3.4主线剧情
+138	等等，我有个想法——	等等，我有個想法——	待て、考えがある――	잠깐, 좋은 생각이 있는데…	Hold on — I've got an idea.						0	3.4主线剧情
+139	能让她再睡一会儿吗？	能讓她再睡一下嗎？	もう少し眠らせることはできるか？	좀 더 재울 수 있을까?	Can you keep her asleep a little longer?						0	3.4主线剧情
+140	猫汐尔从战术腰带里取出一颗子弹，徒手掰断，子弹的断面处有一个小孔。	貓汐爾從戰術腰帶裡取出一顆子彈，徒手掰斷，子彈的斷面處有一個小孔。	マーシルは戦術ベルトから弾丸を一発取り出し、へし折った。弾丸の断面に小さな穴があった。	캣 시에라가 전술 벨트에서 탄약 하나를 꺼내 맨손으로 부러뜨렸는데, 탄약 절단면에 작은 구멍이 나 있었다.	Mauxir pulled a bullet from her belt and snapped it open — a vent hissed where it split.						0	3.4主线剧情
+141	她一边把子弹的小孔凑到爱思特的鼻子前，一边观察着手上传感器终端的数据。	她一邊把子彈的小孔凑到愛思特的鼻子前，一邊觀察著手上感測器終端的數據。	彼女はその穴をエステルの鼻先に近づけながら、手元のセンサー端末のデータを確認した。	그녀가 탄약의 작은 구멍을 에스터의 코 앞에 가져다 대면서 손안의 단말기 센서로 데이터를 관찰했다.	She held the vent to Esther's nose while monitoring the sensor readout on her wrist.						0	3.4主线剧情
+142	这是一枚“倒头就睡”，里面有液态麻醉剂，可以让她再睡一会儿。	這是一枚「倒頭就睡」，裡面有液態麻醉劑，可以讓她再睡一下。	「ぐっすり弾」だよ、中に麻酔剤が入ってる。これでもう少し眠ってもらえるはず。	이건 '수면제'다. 액상 마취제가 들어있어서 좀 더 재울 수 있다.	This one's a Sleeper — liquid anesthetic, keeps her down a bit longer.						0	3.4主线剧情
+143	好。我想尝试一下，看看能不能从她口中套出来点东西。	好。我想嘗試一下，看看能不能從她口中套出來點東西。	よし。彼女の口から何か聞き出せないか、試してみよう。	좋아. 한번 해 보자. 뭔가 정보를 얻어낼 수 있지 않을까?	Good. Let's try something — see if we can get anything out of her.						0	3.4主线剧情
+144	卜卜，之前的战斗中，镜爻搜集过罗赞的外表数据和声纹特征了吧？	卜卜，之前的戰鬥中，鏡爻搜集過羅贊的外表數據和聲紋特徵了吧？	ブブ、ジンヤオでロザンの外見データと声紋特徴を記録したか？	보보, 그때 전투에서 거울괘로 로잔의 외형 데이터와 음성 특징을 수집했지?	Bubu, during the fight, did the Specular Array record Rozan's visual and voiceprint?						0	3.4主线剧情
+145	啊，那个功能一直开着的！	啊，那個功能一直開著的！	うん、その機能ならずっと起動したままにしてるの！	아, 그 기능은 계속 켜져 있어!	Yeah — the recording module's always active!						0	3.4主线剧情
+146	除了抵抗“丧钟”外，伪装是镜爻最重要的功能。因为可以裂解成多个飞行单元，所以镜爻可以从多个角度轻易地收集各种视觉信息。	除了抵抗「喪鐘」外，偽裝是鏡爻最重要的功能。因為可以分裂成多個飛行單元，所以鏡爻可以從多個角度輕易地收集各種視覺資訊。	「弔鐘」のパルスを防ぐこと以外、ジンヤオの最も重要な機能は偽装だ。複数のユニットに分裂できるため、ジンヤオは様々な角度から画像を拾える。	 '데스 벨'에 대한 저항뿐만 아니라, 위장도 거울괘의 주요 기능이다. 거울괘는 여러 개의 비행 유닛으로 분리될 수 있기에, 여러 각도에서 다양한 시각 정보를 쉽게 수집할 수 있다.	The Specular Array's primary function, aside from shielding against the Death Knell, is disguise. It can split into multiple drones, capturing visual data from every angle.						0	3.4主线剧情
+147	把罗赞的模型调出来。	把羅贊的模型調出來。	ロザンのモデルを呼び出してくれ。	로잔의 모델을 불러와.	Bring up Rozan's model.						0	3.4主线剧情
+148	稍等——	稍等——	ちょっと待ってね――	잠시만~	On it!						0	3.4主线剧情
+149	镜爻瞬间分解重组成一面透明的玻璃，隔在我和卜卜之间。	鏡爻瞬間分解重組成一面透明的玻璃，隔在我和卜卜之間。	ジンヤオは瞬時に展開・再構成され、透明なガラスのようになって私とブブの間に割り込んだ。	순식간에 거울괘가 분리되고 투명한 유리로 재구성되더니, 나와 보보 사이에 놓였다.	In a blink, the Array unfolded into a transparent screen between us.						0	3.4主线剧情
+150	透过镜爻，我看见卜卜的脸上和身上出现了一层层的乱码——	透過鏡爻，我看見卜卜的臉上和身上出現了一層層的亂碼——	ジンヤオ越しに、ブブの顔と体に幾重ものノイズが重なり――	거울괘를 통해 보니, 보보의 얼굴과 몸에 여러 줄의 오류 코드가 나타나 있었다.	Through it, I saw lines of code crawl across Bubu's visor and armor.						0	3.4主线剧情
+151	从侧面看，镜爻不断扫描着卜卜的身体，卜卜的战术套装也依次亮起，像是一套动捕服。	從側面看，鏡爻不斷掃描著卜卜的身體，卜卜的戰術套裝也依次亮起，像是一套動作捕捉服。	横から見ると、ジンヤオは絶えずブブの体をスキャンしている。ブブの戦術装備もモーションキャプチャースーツみたいに、順に点灯している。	옆에서 보니 거울괘가 보보의 몸을 계속 스캔하고 있었고, 보보의 전술 슈트도 마치 모션 캡처 슈트처럼 차례로 빛났다.	The Specular Array continuously swept over her, her exosuit lighting up piece by piece, like a motion-capture suit.						0	3.4主线剧情
+152	好了，同步完毕！	好了，同步完畢！	うん、これでばっちり！	좋아, 동기화 완료!	Sync complete!						0	3.4主线剧情
+153	再回到正面，镜爻里的卜卜已经变成了罗赞的样子。	再回到正面，鏡爻裡的卜卜已經變成了羅贊的樣子。	再び表面を見ると、ジンヤオに映し出されたブブはすでにロザンの姿に変わっていた。	다시 정면을 보니 거울괘 속 보보는 로잔의 모습으로 변해 있었다.	When I looked back, Bubu — now wrapped in the projection — had taken on the appearance of Rozan.						0	3.4主线剧情
+154	分析员！	分析員！	分析員ッ！	분석가!	Adjutant!						0	3.4主线剧情
+155	……停！好了！先关上！	……停！好了！先關上！	ストップ。一旦もとに戻ってくれ……	… 그만! 됐어! 일단 꺼!	...Stop! That's enough. Turn it off now!						0	3.4主线剧情
+156	就算是在镜爻里——看见这张脸说出这种话，浑身的汗毛都要炸起来了。	就算是在鏡爻裡——看見這張臉說出這種話，渾身的汗毛都要炸起來了。	たとえジンヤオの中でも――その顔で名前を呼ばれると、全身の毛が逆立ってしまう。	아무리 거울괘라지만, 그 얼굴로 그런 말을 하는 걸 보니 온몸의 털이 곤두서는 것 같았다.	Even knowing it was only an overlay, seeing Rozan's face say my name still made my skin crawl.						0	3.4主线剧情
+157	诶？玩笑开过头了……	欸？玩笑開過頭了……	えへへ、やりすぎちゃったかな。	응? 장난이 너무 심했나…	Huh? Too much?						0	3.4主线剧情
+158	重来重来——	重來重來——	もう一回やってみるね！	다시, 다시~	Alright, I'll try again...						0	3.4主线剧情
+159	哼，分析员，好久不见。	哼，分析員，好久不見。	フッ、分析員。久しぶりだね。	흥, 분석가, 오랜만이군.	Hmph. Adjutant. It's been a while.						0	3.4主线剧情
+160	嗯，这个感觉是对的。	嗯，這個感覺是對的。	よし。これならイメージ通りだ。	그래, 이 느낌이야.	Yeah. That feels right.						0	3.4主线剧情
+161	等她醒了之后，整体的对话逻辑是这样的……	等她醒了之後，整體的對話邏輯是這樣的……	彼女が目覚めたら、こうやって会話を進めてくれ……	그녀가 깨어나면, 전체적인 대화 흐름은 이럴 거야…	When she wakes, this is the conversation we'll steer her into...						0	3.4主线剧情
+162	茫茫白的空间里，爱思特躺在地上。	白茫茫的空間裡，愛思特躺在地上。	真っ白な空間の中、エステルは地面に寝転んでいる。	한없이 흰 공간 속, 에스터가 바닥에 누워있다.	In an endless white void, Esther lay motionless on the ground.						0	3.4主线剧情
+163	杀掉他。杀掉她们。	殺掉他。殺掉她們。	殺せ。あの男と――周りにおる娘達を。	그를 죽여라. 그녀들을 죽여라.	Kill him. Kill them all.						0	3.4主线剧情
+164	天空像一面镜子，她在镜子里看见了自己的神格。	天空像一面鏡子，她在鏡子裡看見了自己的神格。	鏡のような空に、彼女の神格が映し出されていた。	하늘은 마치 거울 같았다. 그녀는 거울에 비친 자신의 만트라를 보았다.	The sky above shimmered into a mirror — and within it, she saw her Deiwos.						0	3.4主线剧情
+165	厄里倪厄斯，愤怒的复仇女神。	厄里倪厄斯，憤怒的復仇女神。	エリニュエス、怒り狂う復讐の女神。	에리니에스, 분노에 휩싸인 복수의 여신.	Erinys — one of the Furies, a goddess of vengeance.						0	3.4主线剧情
+166	这是你存在的唯一意义。	這是你存在的唯一意義。	それはそなたの存在意義じゃ。	이것이 네가 존재하는 유일한 이유다.	This is the only reason you exist. Nothing else.						0	3.4主线剧情
+167	……	……	……。	……	...						0	3.4主线剧情
+168	起来。没时间休息。	起來。沒時間休息。	起きたまえ。休んでいる暇は無いぞ。	일어나라. 쉴 시간이 없어.	Get up. No time to rest.						0	3.4主线剧情
+169	……你不是死了吗？	……你不是死了嗎？	……お前、死んだんじゃ……	… 넌 죽지 않았나?	...I thought you were dead.						0	3.4主线剧情
+170	我？死？你开什么玩笑。	我？死？你開什麼玩笑。	わらわが死ぬと？フッ、口を慎めよ。	내가? 죽었다고? 말 같지도 않은 소리.	Me? Dead? Don't be ridiculous.						0	3.4主线剧情
+171	只会也只能在我们复仇的那一刻死。我就是为那一刻而活的。	只會，也只能在我們復仇的那一刻死。我就是為那一刻而活的。	わらわの死は、そなたと復讐を果たした瞬間にのみ訪れる。その時の為に、わらわは生きてきたのじゃ。	죽는다면 그건 우리가 복수하는 그 순간일 거다. 나는 그 순간만을 위해 살아가는 거야.	I can only die at the moment of our revenge. I live for that moment.						0	3.4主线剧情
+172	可是……罗赞把你抽干了。我以为你死了。	可是……羅贊把你抽乾了。我以為你死了。	でも……ロザンはお前を食い尽くしたはずだ。だから、もう死んだのだと……	하지만… 로잔이 너를 완전히 흡수했잖아. 난 네가 죽은 줄 알았어.	But... Rozan drained you dry. I thought you were gone.						0	3.4主线剧情
+173	那是很痛。但只要能复仇，再痛十倍我也愿意。	那是很痛。但只要能復仇，再痛十倍我也願意。	あれは確かに痛かったのう。じゃが、復讐のためなら、痛みなぞ構わぬ。	물론 아팠지만, 복수할 수만 있다면 고통이 열 배가 되더라도 난 상관없어.	It hurt. But for revenge, I'd endure ten times more.						0	3.4主线剧情
+174	你不这么认为吗？	你不這麼認為嗎？	そなたはそうと思わぬか？	너도 같은 생각 아닌가?	You feel the same — don't you?						0	3.4主线剧情
+175	你说得对。	你說得對。	ああ。	맞아.	You're right.						0	3.4主线剧情
+176	那还不赶紧起来。	那還不趕緊起來。	ならトットと起きぬか！	그럼 어서 일어나지 그래?	Then get up already.						0	3.4主线剧情
+177	爱思特试了试，一根手指都没有回应。	愛思特試了試，一根手指都沒有回應。	エステルは体を動かしそうとしてみるが、指一本も動かなかった。	에스터는 일어나려 해봤지만, 손가락 하나도 까딱할 수 없었다.	Esther tried to move — not even a finger stirred.						0	3.4主线剧情
+178	厄里倪厄斯眨了眨眼。	厄里倪厄斯眨了眨眼。	エリニュエスは瞬きをした。	에리니에스가 눈을 깜빡였다.	Erinys blinked.						0	3.4主线剧情
+179	playername不会站在原地等着你。	playername不會站在原地等著你。	playernameは待ってくれぬ。	playername은(는) 제자리에서 기다려주지 않을 텐데.	playername won't just stand there waiting for you.						0	3.4主线剧情
+180	你忘了你告诉我的那些话了吗？你多恨海姆达尔啊？	你忘了你告訴我的那些話了嗎？你多恨海姆達爾啊？	もしや、そなたが言ったことを忘れたかえ？ヘイムダルが憎いのじゃろう？	네가 나에게 했던 말들은 잊었나? 네가 헤임달을 얼마나 증오하는지 말이야.	Have you already forgotten what you told me — how much you hate Heimdall?						0	3.4主线剧情
+181	是你告诉我的吧。是你跟我说你有多恨墙外的人，你求了我那么多遍——	是你告訴我的吧。是你跟我說你有多恨牆外的人，你求了我那麼多遍——	ウォール外の人間が憎いと、何度もわらわに話し、懇願したじゃろう――	네가 그랬잖아. 벽 밖의 사람들을 증오한다고, 나한테 그토록 애원하더니…	You told me yourself — how you despised those outside the walls. You begged me, again and again...						0	3.4主线剧情
+182	……你好像确实撑不住了。	……你好像確實撐不住了。	……ほう。確かに心の支えを失ったように見えるぞ。	… 정말 못 버티겠나 보구나.	...Seems you're really breaking down.						0	3.4主线剧情
+183	那我再讲一遍吧，你讲过的那些东西。毕竟仇恨就是我们的食粮。	那我再講一遍吧，你講過的那些東西。畢竟仇恨就是我們的糧食。	ならもう一度繰り返してやろう。そなたが話したことをな。なぜならその憎しみが我々の糧なのじゃ。	그럼 네가 했던 이야기들을 다시 들려주지. 증오야말로 우리의 식량이니까.	Then let me remind you of your own past. After all, hate is what sustains us.						0	3.4主线剧情
+184	——你忘了孤儿院吗？	——你忘了孤兒院嗎？	――孤児院の事を忘れたかえ？	… 보육원을 잊었나?	Have you forgotten the orphanage?						0	3.4主线剧情
+185	你不记得一边屠杀你的同胞一边开着直播的墙外人了吗？	你不記得一邊屠殺你的同胞一邊開著直播的牆外人了嗎？	そなたの同胞を殺す光景を生配信した、ウォール外の住人を――	네 동포들을 학살하면서 생중계하던 벽 밖의 사람들을 잊었나?	Forgotten those people from outside the walls, laughing as they butchered your kin, broadcasting the massacre for all to see?						0	3.4主线剧情
+186	你不记得想要获得墙外居住资格时的屈辱吗？	你不記得想要獲得牆外居住資格時的屈辱嗎？	ウォール外に出してもらうために受けた屈辱を、忘れたとでも言うのかえ？	벽 밖에서 거주할 자격을 얻으려 할 때 느꼈던 그 굴욕을 잊은 거야?	Don't you remember the humiliation they heaped upon you, when you begged to live beyond the walls?						0	3.4主线剧情
+187	……我都记得。	……我都記得。	……覚えてる。	… 전부 기억나.	...I remember it all.						0	3.4主线剧情
+188	想想那些追随你的郊狼。想想背叛者，她们死在零区，死在新恒提罗，甚至被你变成了那种样子——	想想那些追隨你的郊狼。想想背叛者，她們死在零區，死在新恆提羅，甚至被你變成了那種樣子——	そなたを追随していたコヨーテたちを見よ。裏切者たちがエリアゼロやニューガントラで命を散らし、そなたにあのような姿に変えられたのは――	너를 따르던 코요테를 생각해 봐. 배신자들을 생각해 봐. 제로 구역에서 죽었고, 뉴헨틸로에서 죽었지. 심지어 네가 그런 꼴로 만들어버렸어.	Think of the Coyotes who followed you. Think of the traitors — those who died in the Containment Zone, in New Hentiro, even those you twisted into monsters...						0	3.4主线剧情
+189	这一切都是为了什么？	這一切都是為了什麼？	何の為に？	이 모든 게 무엇을 위해서지?	What was all of that for?						0	3.4主线剧情
+190	……复仇。	……復仇。	……復讐のため。	… 복수.	...Revenge.						0	3.4主线剧情
+191	向墙外的人复仇。	向牆外的人復仇。	ウォール外の奴らに、復讐するために……	벽 밖의 사람들에 대한 복수.	Revenge against those outside the walls.						0	3.4主线剧情
+192	太平淡了。一点气势都没有。	太平淡了。一點氣勢都沒有。	淡々としてるのう。勢いがまるでない。	시시하긴. 기세가 하나도 없잖아.	That's it? So dull. Where's the fire?						0	3.4主线剧情
+193	肉体的孱弱不是意志软弱的理由。这样的你，不如死了算了。	肉體的孱弱不是意志軟弱的理由。這樣的你，不如死了算了。	肉体が弱ってるとて、意識まで弱っていい理由にはならぬ。その様なら、そなたは死んだのと変わらぬのじゃ。	육체가 약하다고 의지마저 약해지면 안 되지. 이럴 거면 차라리 죽는 게 나아.	Weakness of flesh is no excuse for losing your will. If this is all that remains of you... then death would be a mercy.						0	3.4主线剧情
+194	你的决心呢？把手足同胞转化成怪物的决心呢？	你的決心呢？把手足同胞轉化成怪物的決心呢？	そなたの決心はどこへやった？同胞をバケモノに変えるのも辞さぬあの覚悟は？	네 결심은 어디 갔어? 수족 같은 동포들을 괴물로 만들었던 그 결심은?	Where's your resolve — the one that turned your own kin into monsters?						0	3.4主线剧情
+195	对郊狼的残忍去哪了？放弃道德，把一切都献给仇恨的决心都去哪了？	對郊狼的殘忍去哪了？放棄道德，把一切都獻給仇恨的決心都去哪了？	コヨーテへの残酷さをどこへやった？人間の心を捨て、全てを憎しみに捧ぐあの決心は？	코요테에 대한 잔혹함은 어디 갔지? 도덕을 버리고 모든 것을 증오에 바치겠다던 결심은 어디 간 거야?	Where's the cruelty you showed the Coyotes? The determination that let you cast aside morality, to offer everything up to hate?						0	3.4主线剧情
+196	可是……我什么都没有了。	可是……我什麼都沒有了。	でも……私にはもう何もないんだ。	하지만… 난 모든 걸 잃었어.	But... there's nothing left in me.						0	3.4主线剧情
+197	你早就什么都没有了。	你早就什麼都沒有了。	そんなの、とっくにそうであろう。	넌 이미 오래전부터 아무것도 없었어.	You lost everything long ago.						0	3.4主线剧情
+198	唯有仇恨。只有仇恨。	唯有仇恨。只有仇恨。	憎しみだけ。残るは憎しみだけじゃ。	오직 증오. 증오만 있을 뿐.	Nothing remains but hate. Only hate.						0	3.4主线剧情
+199	只要你的仇恨还在，我就是不死不灭的。力量自然也会有的，你仍然是仇恨的容器。	只要你的仇恨還在，我就是不死不滅的。力量自然也會有的，你仍然是仇恨的容器。	憎しみが尽きぬ限り、わらわは不滅じゃ。力はもちろんついてくるが、そなたは変わらず憎しみの容器じゃ。	네 증오가 남아있는 한, 나는 불사불멸이야. 힘도 자연스레 따르겠지. 네가 여전히 증오의 그릇이니까.	As long as you still hate, I cannot die. Power will come to you — you are still a vessel of vengeance.						0	3.4主线剧情
+200	如果仇恨是依托于力量存在的，那就是虚假的。有了一身蛮力才敢发起冲锋的，反而是懦弱的人。	如果仇恨是依托於力量存在的，那就是虛假的。有了一身蠻力才敢發起衝鋒的，反而是懦弱的人。	力あってこその憎しみなら、偽物じゃ。力を持って初めて勇気が出る者なぞ、只の小心者に過ぎぬ。	증오가 힘에 의해 존재한다면 그건 거짓이야. 강력한 힘이 있어야만 돌진할 용기가 생기는 사람은 오히려 겁쟁이지.	If hatred only exists in strength, then it was never true hatred. The one who only strikes once they've grown strong — that's the coward.						0	3.4主线剧情
+201	……我明白了。	……我明白了。	……わかった。	… 알겠어.	...I see it now.						0	3.4主线剧情
+202	我要醒过来，一切还没结束。	我要醒過來，一切還沒結束。	目を覚まさなきゃ…まだ終わっちゃいない。	난 깨어나야 해. 아직 끝나지 않았어.	I'm waking up. This isn't over yet.						0	3.4主线剧情
+203	她挣扎地坐了起来——	她掙扎地坐了起來——	彼女はもがきながら起き上がった――	그녀는 힘겹게 일어나 앉았다.	She struggled to rise.						0	3.4主线剧情
+204	咳——咳咳——呕——	咳……咳咳……嘔……	ケホ……ケホケホ……	크헉! 켁켁… 우웩…	Cough—! Cough, cough— ghhk—!						0	3.4主线剧情
+205	强烈的头疼和晕眩。她并没有坐起来，刚刚是梦，而她正趴在房间的地上，佝偻着身体。	強烈的頭痛和暈眩。她並沒有坐起來，剛剛是夢，而她正趴在房間的地上，佝僂著身體。	激しい頭痛とめまいがする。夢では床から起き上がっていたはずなのに、現実では床にうつ伏せになって、体を丸めていた。	심한 두통과 현기증이 밀려왔다. 사실 그녀는 몸을 일으켜 앉지 않았다. 방금 그것은 꿈이었고, 지금 그녀는 방바닥에 몸을 웅크린 채 누워있었다.	A wave of pain and vertigo slammed into her. She hadn't sat up at all — it was just a dream. In reality, she lay crumpled on the cold floor, her body curled tight in pain.						0	3.4主线剧情
+206	爱思特勉强睁开了眼。	愛思特勉強睜開了眼。	エステルは重たい目蓋をこじ開けた。	에스터는 간신히 눈을 떴다.	Esther forced her eyes open.						0	3.4主线剧情
+207	醒了？	醒了？	起きたのかい？	깼어?	You're awake?						0	3.4主线剧情
+208	没睡够就再躺一会儿。	沒睡夠就再躺一下。	もう少し寝ても構わない。	피곤하면 더 자든가.	If you're tired, stay down.						0	3.4主线剧情
+209	……首领。	……首領。	……主様。	… 보스.	...Boss.						0	3.4主线剧情
+210	爱思特艰难地撑起上半身——她只觉得浑身的骨头都要散架了。	愛思特艱難地撐起上半身——她只覺得渾身的骨頭都要散架了。	エステルはなんとか上半身だけ起こす。体中の骨が悲鳴を上げるようにきしんだ。	힘겹게 몸을 일으키자, 에스터는 온몸의 뼈가 으스러질 것만 같았다.	She forced herself to sit upright. Pain raked through every inch of her body.						0	3.4主线剧情
+211	很狼狈。以往她都是站在罗赞的身后——虽然她很少敢去看罗赞的眼睛，但至少她还站着。	很狼狽。以往她都是站在羅贊的身後——雖然她很少敢看羅贊的眼睛，但至少她還站著。	ひどく無様な姿を晒している自覚はある。普段ならいつもは主様の後ろに立っていた。その目を見る勇気はほとんどないが、少なくともその時の自分は立っている。	처참했다. 예전에 그녀는 늘 로잔의 뒤에 서 있었다. 로잔과 감히 눈을 마주칠 순 없었지만, 적어도 서 있을 수는 있었다.	She was a wreck. She had always stood behind Rozan — never brave enough to meet her eyes, but still on her feet.						0	3.4主线剧情
+212	她付出了几乎所有东西——手下的信任、尊严、自我的意志，才换来了一个复仇的机会。	她付出了幾乎所有東西——手下的信任、尊嚴、自我的意志，才換來了一個復仇的機會。	部下からの信頼、己の尊厳や意志――彼女は持ちうるすべてを犠牲にして、ようやく復讐の機会を得た。	그녀는 거의 모든 것을 바쳤다. 부하들의 신뢰, 존엄성, 자아의 의지를 바치고 겨우 복수할 기회를 얻었다.	She'd traded almost everything — her pack's loyalty, her pride, even her will — for a single shot at vengeance.						0	3.4主线剧情
+213	而现在，她连站起来都做不到。只能跪坐在地上，等待罗赞的处理。	而現在，她連站起來都做不到。只能跪坐在地上，等待羅贊的處理。	しかし今、彼女は立ち上がることすらできない。ただ地面に膝をつき、ロザンの処分を待つだけだった。	하지만 지금은 일어설 수조차 없었다. 그저 무릎을 꿇은 채 로잔의 처분을 기다렸다.	And now? She couldn't even stand. She just knelt there, waiting for whatever Rozan had in store for her.						0	3.4主线剧情
+214	发现了？你已经不再是真神者了。	發現了？你已經不再是真神者了。	ほう。自分が至上者でなくなったことに気がついたのかい？	눈치챘겠지? 넌 더 이상 조물주가 아니야.	So, you've realized. You're no longer a Demiurge.						0	3.4主线剧情
+215	不，还没有……我还可以成为容器！只要有泰坦物质，我可以再次恢复——	不，還沒有……我還可以成為容器！只要有泰坦物質，我可以再次恢復——	い、いえ……容器にはまだなれます！タイタン物質があれば、まだ――	아닙니다. 저는 아직… 그릇이 될 수 있어요! 타이탄 물질만 있다면, 다시 회복할 수 있습니다…	No — not yet! I can still serve as a vessel! If I get more Titagen, I can recover!						0	3.4主线剧情
+216	啧……	嘖……	チッ……	쯧…	Tch...						0	3.4主线剧情
+217	那倒也可以。外面还有很多泰坦呢。	那倒也可以。外面還有很多泰坦呢。	それもそうか。外にはタイタンが沢山いるんだし。	가능하긴 하지. 밖에는 아직 타이탄이 많으니까.	That might work. There are plenty of Titans out there.						0	3.4主线剧情
+218	不过，你不会忘了我是来干嘛的吧？	不過，你不會忘了我是來幹嘛的吧？	だが、もしかして私の目的を忘れてしまったのかい？	그런데, 설마 내가 왜 왔는지 잊은 건 아니겠지?	But you haven't forgotten why I'm here, have you?						0	3.4主线剧情
+219	泰坦……	泰坦……	タイタン……	타이탄…	Titans...						0	3.4主线剧情
+220	我记得！杀死playername，或者借playername的手杀死西西弗斯，彻底掌握神格融合……	我記得！殺死playername，或者借playername的手殺死薛西弗斯，徹底掌握神格融合……	もちろん覚えています！playernameを殺し、もしくはplayernameの手を借りてシシュフォスを殺し、主様の神格融合を完全なものにする……	잊지 않았어요! playername을(를) 죽이거나, playername의 손으로 시시포스를 죽이고, 만트라 융합을 완전히 장악해야죠…	Ah, I remember! Kill playername, or use him to kill Sisyphus, and perfect your fusion with the Deiwos...						0	3.4主线剧情
+221	泰坦，外面有泰坦的话——我可以再容纳一次的！厄里倪厄斯也会苏醒，到时候——	泰坦，外面有泰坦的話——我可以再容納一次的！厄里倪厄斯也會甦醒，到時候——	タイタン……外にタイタンがいるなら、もう一度それを取り込んでみせます！エリニュエスだって蘇りますし、そうなったら――	타이탄, 밖에 타이탄이 있다면… 다시 받아들일 수 있어요! 에리니에스도 깨어날 거고, 그러면…	If there are Titans out there, I can host their Titagen again! Erinys will awaken, and—						0	3.4主线剧情
+222	再容纳一次……？	再容納一次……？	もう一度、取り込むと…？	다시 받아들인다고…?	Host Titagen again...?						0	3.4主线剧情
+223	嗯……	嗯……	ふん……	음…	Mm...						0	3.4主线剧情
+224	也不是没有办法。但你确定能承受那么多……	也不是沒有辦法。但你確定能承受那麼多……	本気で言っているのかい？あれだけのタイタン物質を……	가능하긴 하겠다만, 네가 과연 그 많은 걸 견딜 수 있을…	It's possible. But are you sure your body can take it...?						0	3.4主线剧情
+225	我可以的——只要能帮您杀死playername！	我可以的——只要能幫您殺死playername！	できます！主様のためにplayernameを殺せるなら、なんだって……！	할 수 있어요! playername을(를) 죽이는 데 제가 도움이 될 수만 있다면요!	I can! I swear it — if it helps you kill playername!						0	3.4主线剧情
+226	……维持这个形态的消耗很大。	……維持這個形態的消耗很大。	……この姿を維持するには、結構な量が必要となるが、それでもかい？	… 이 형태를 유지하려면 대가가 커.	...It takes a lot to maintain this form, you know.						0	3.4主线剧情
+227	我……我想我可以撑下来。求求您给我一次机会，让我试试，您也不会耗费什么！	我……我想我可以撐下來。求求您給我一次機會，讓我試試，您也不會耗費什麼！	……な、なんとかできるはずです！もう一度チャンスをくださいっ！お願いします、主様に不利益はないはずですっ！	버… 버틸 수 있어요. 제발 한 번만 기회를 주세요. 한 번만요. 보스는 아무런 손해도 보지 않을 거예요!	I... I think I can make it happen. Please, just give me one more chance — it won't cost you anything!						0	3.4主线剧情
+228	如果成功的话，您就又有了两次尝试神格融合的机会！	如果成功的話，您就又有了兩次嘗試神格融合的機會！	成功したら、主様が神格融合をさらに2回できますからっ！	성공한다면, 보스에겐 만트라 융합을 시도할 기회가 두 번 더 주어지는 거예요!	If it works, you'll have two chances to perform the fusion!						0	3.4主线剧情
+229	……	……	……。	……	...						0	3.4主线剧情
+230	两次。	兩次。	2回。	두 번.	Two chances...						0	3.4主线剧情
+231	“罗赞”喃喃自语着。	「羅贊」喃喃自語著。	「ロザン」は呟いた。	 '로잔'이 중얼거렸다.	"Rozan" murmured to herself.						0	3.4主线剧情
+232	铿——	鏗——	ドスッ。なんの予兆もなかった。	쾅!	*clang—!*						0	3.4主线剧情
+233	毫无征兆的，爱思特的眼前黑了下去。	毫無徵兆的，愛思特的眼前黑了下去。	エステルは視界が暗くなってゆく。	에스터는 갑자기 눈앞이 어두워졌다.	Without warning, Esther's vision went black again.						0	3.4主线剧情
+234	后颈传来一阵剧痛，她又陷入了昏迷之中。	後頸傳來一陣劇痛，她又陷入了昏迷之中。	首筋に走った激痛が、彼女から意識をもう一度うばったのだった。	목덜미에 느껴지는 극심한 고통과 함께, 그녀는 다시 의식을 잃었다.	Pain exploded at the back of her neck, and she slipped under once more.						0	3.4主线剧情

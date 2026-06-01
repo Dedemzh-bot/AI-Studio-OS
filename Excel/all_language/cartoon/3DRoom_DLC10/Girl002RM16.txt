@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	你回来啦。	你回來啦。	おかえり。	돌아왔구나.	Oh, you're back.						0	
+page1.2	里芙也起床了，不再多睡会儿了吗？	里芙也起床了，不再多睡會兒了嗎？	もう起きたのか。もうちょっと寝てれば？	리브도 일어났네, 조금 더 자지 그랬어?	You're up too, Lyfe? You don't want to sleep in a little longer?						0	
+page1.3	你早早出门之后，我一个人也没什么意思，不如出来走走。	你早早出門之後，我一個人也沒無聊，不如出來走走。	もう目を覚ましたから、一人でつまらなくて……暇つぶしに散歩に出てた。	분석가가 일찍 나가니까, 혼자서 할 것도 없고 재미없어서 그냥 나왔어.	You left so early, and I had nothing to do all alone. I figured I should come out for a walk.						0	
+page1.4	研发部那边的数据分析临时遇到点问题，这才紧急叫我过去。	研發部那邊的資料分析臨時遇到點問題，這才緊急叫我過去。	なるほど。開発部のデータ分析にちょっと問題があって、急に呼び出されたんだ。	개발부 쪽 데이터 분석에 문제가 생겨서 급하게 불려 갔어.	The R&D Department ran into some urgent problems with their data analysis. They asked me to head over ASAP.						0	
+page1.5	好在现在已经处理完了。真是久等了，里芙。	好在現在已經處理好了。真是久等了，里芙。	もう全部解決した。待たせてごめん、リフ。	다행히 이제 다 처리했어. 오래 기다렸지, 리브.	Thankfully, everything's taken care of now. Sorry to keep you waiting so long, Lyfe.						0	
+page1.6	等你的时候我也为你做了一些事情，尝尝我准备的饮品吧。	等你的時候我也為你做了一些事情，嚐嚐我準備的飲品吧。	うん、大丈夫。待ってる間に、これを用意した。味わってみてほしい。	기다리는 동안 널 위해 준비를 좀 해봤는데, 내가 만든 음료야, 한번 마셔봐.	I made something for you while I was waiting. Here, try this drink.						0	
+page1.7	说起来，你觉得这个房间换成什么色调比较好呢？	說起來，你覺得房間換成什麼色調比較好呢？	ところで、あなたはどんな色の部屋がいい？	그러고 보니, 자기는 이 방을 어떤 색감으로 바꿨으면 해?	By the way, what color do you like best for a room?						0	
+page1.8	这个还真没想过……蓝色吧，和里芙很相称，你觉得呢？	這個還真沒想過……藍色吧，和里芙很相稱，你覺得呢？	うーん……考えたことなかったけど、青かな。リフにぴったりだと思う。そっちは？	그건 생각 안 해봤는데… 파란색? 리브랑 잘 어울릴 것 같아, 안 그래?	I've never really thought about it... Probably blue. I think it's perfect for you, Lyfe. What do you think?						0	
+page1.9	我也喜欢。如果能加上灰色就更好了，蓝灰相间或者灰蓝色……	我也喜歡。如果能加上灰色就更好了，藍灰相間或灰藍色……	私も青だ。灰色も少し入れたらもっと良いかもな。青と灰のストライプとか、灰青色とか……	나도 파란색 좋아해. 거기에 회색을 더해도 좋고. 청회색으로…	I think so too. It would be even better if I could incorporate some gray. Like a grayish-blue...						0	
+page1.10	里芙的眼光真不错。	里芙的眼光真不錯。	さすがリフ、センスがいいな。	리브는 안목이 참 좋은 것 같아.	You've got good taste, Lyfe.						0	
+page1.11	在以前，房间对我来说也许只是个休息的地方。	在以前，房間對我來說也許只是個休息的地方。	昔は、部屋は私にとってただの休む場所に過ぎなかった。	예전에는 방을 단지 휴식 장소로만 이용했어.	Before, I only saw my room as a place to rest.						0	
+page1.12	但今早一个人躺着的时候，突然想让房间充满更多我们共同的气息。	但今早一個人躺著的時候，突然想讓房間充滿更多我們共同的氣息。	でも今朝、一人で横になっていたら、ふと思った。私たち二人の気配で、この部屋をいっぱいに満たしたいと。	근데 오늘 아침 혼자 누워있으니까 갑자기 방을 우리 둘만의 분위기로 가득 채우고 싶어졌어.	But when I was lying there alone this morning, I suddenly got the urge to fill the room with things that represent the two of us.						0	
+page1.13	用我们一起决定的色调，共同挑选的家具，喜欢的……	用我們一起決定的色調，共同挑選的傢俱，喜歡的……	一緒に決めた色で、一緒に選んだ家具で、好きな……	우리가 함께 결정한 색으로, 같이 고른 가구로, 좋아하는 걸로…	Using a color we decide on together, furniture we pick out together, things we both like...						0	
+page1.14	喝完咖啡后一起回房间好吗？	喝完咖啡後一起回房間好嗎？	コーヒーを飲んだら、一緒に部屋に戻ろうか？	그럼 커피나 마저 마시고 방으로 갈까?	After you finish your coffee, can we go back to my room together?						0	
+page1.15	还有很多很多布置，想要等你来一起决定。	還有很多很多佈置，想要等你來一起決定。	部屋をどう飾ろうか。二人で決めたいことが、まだたくさんあるんだ。	아직 꾸밀 게 많아서 분석가랑 같이 결정하고 싶거든.	There are still a lot of things I want to decide on together.						0	

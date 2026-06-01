@@ -1,0 +1,28 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	不去看看吗？你的人好像遇到麻烦了。	不去看看嗎？你的人好像遇到麻煩了。	確認しなくていいのか？あなたの部下がトラブルに遭っているようだが。	안 가봐도 돼? 네 부하들에게 문제가 생긴 것 같은데.	Aren't you going to check on them? Your guys look like they're in trouble.						0	
+2	一码归一码，先谈完眼前的生意。	一碼歸一碼，先談完眼前的生意。	それはそれとして、まずはこの商談を終わらせよう。	그건 그거고 이건 이거야. 일단 눈앞에 있는 것부터 얘기하지.	One thing at a time. Let's talk business first.						0	
+3	这一批武器我可以用上次的价格给你，还是一样，不收数据金。	這一批武器我可以用上次的價格給你，還是老樣子不收數據金。	ここにある武器は前回の価格で提供できる。同じくデジギボスなしだ。	이 무기들은 지난번하고 동일한 가격으로 넘긴다. 디지털 코인은 사양하지.	I can give you this batch of weapons for the same price as last time. No DigiCash.						0	
+4	但是机甲，卖不了。	但是機甲，賣不了。	でも機甲は売れない。	그리고 기갑은 팔지 않아.	But the mech isn't for sale.						0	
+5	如果我们多加十支抑制剂呢？	如果我們多加十支抑制劑呢？	抑制剤をもう10本追加したら？	억제제를 10개 더 준다면?	What if we throw in 10 more Inhibitors?						0	
+6	卖不了就是卖不了。	賣不了就是賣不了。	売れないものは売れないんだ。	그래도 팔지 않는다.	What don't you understand about "not for sale"?						0	
+7	大家都知道，在零区，这东西就是活下去的资本。	大家都知道在零區，這東西就是活下去的資本。	知っての通り、エリアゼロでは、これを頼って生きているんだ。	제로 구역에서 생존하려면 기갑이 필요하다는 건 어린애도 알아.	Everyone knows these are necessary for surviving in the Containment Zone.						0	
+8	如果我要买你的命，你卖吗？	如果我要買你的命，你賣嗎？	もし俺がお前の命を買いたいと言ったら、お前は売るか？	내가 네 목숨을 사겠다고 하면, 나한테 팔 건가?	If I wanted to buy your life, would you sell it?						0	
+9	看着合作这么多次的份上，我最后再问一次……	看在合作這麼多次的份上，我最後再問一次……	これまでの協力関係を鑑みて、最後にもう一度聞くが……	지금까지 여러 번 거래했던 것을 봐서 마지막으로 묻는다…	Seeing as we've done business so many times in the past, I'll ask one more time...						0	
+10	爱思特，我们不强求。	愛思特，我們不強求。	よせエステル、僕らは強要したいんじゃない。	에스터, 우린 강요하지 않아.	Esther, don't push it.						0	
+11	这样才对，买卖不成仁义在。	這樣才對，買賣不成仁義在。	賢明だな、うまくいかなくても感情を害するべきじゃない。	흥, 이렇게 나와야지. 거래는 못 터도 도리는 지켜야 하는 법.	Yeah. There's no such thing as righteousness when it comes to business.						0	
+12	我再多付你两支抑制剂。	我再多付你兩支抑制劑。	抑制剤を2本追加する。	억제제를 2개 더 지불할게.	I'll give you two more Inhibitors.						0	
+13	你想要什么？	你想要什麼？	何が欲しい？	그 대가는?	What do you want?						0	
+14	在你把那台机甲开出去收拾残局之前，我可以坐进去看看吗？	在你把那台機甲開出去收拾殘局之前，我可以坐進去看看嗎？	その機甲を使って部下を助けに行く前に、少しだけでいい、僕を乗らせてくれないか？	네가 기갑을 몰고 현장을 수습하기 전에, 내가 한번 들어가서 앉아봐도 되나?	Before you send that mech out to clean up that mess, could I sit in it and take a look?						0	
+15	……	……	……	…	...						0	
+16	启动机甲的密钥在你手里，我没法直接把它开走。	啟動機甲的金鑰在你手裡，我沒辦法直接把它開走。	機甲の起動キーは持っていてくれ、そうすれば僕は起動できないだろ。	기갑을 가동시키는 열쇠도 네게 있으니, 내가 훔쳐서 달아날 순 없잖아.	You have the activation key. It's not like I can just drive it away.						0	
+17	可以，你有五分钟。	可以，你有五分鐘。	いいだろう、5分やる。	좋아. 딱 5분 주겠다.	Alright. You've got five minutes.						0	
+18	两支抑制剂只能换五分钟？在开什么玩笑？！	兩支抑制劑只能換五分鐘？在開什麼玩笑？！	抑制剤2本で5分だと？ふざけんな！	억제제 2개에 겨우 5분? 무슨 말 같잖은 소리를 하는 거야?!	Two Inhibitors for five minutes!? Are you serious?						0	
+19	成交，五分钟足够了。	成交，五分鐘足夠了。	取引成立、5分で十分だ。	좋아. 5분이면 충분해.	It's a deal. Five minutes is enough.						0	
+20	叶……你不想解释一下吗？我们白白多花了两支抑制剂。	葉……你不想解釋一下嗎？我們白白多花了兩支抑制劑。	葉……説明してくれ。抑制剤を2本も無駄にしたんだぞ。	블레이드… 어떻게 된 건지 설명은 좀 해줘야 할 것 같은데? 억제제를 2개나 더 날렸어.	Ye... what are you up to? We just threw away two Inhibitors for nothing.						0	
+21	回去以后，按照这个清单搜集物资。	回去以後，按照這個清單搜集物資。	帰った後、このリストに沿って物資を収集する。	돌아가면 이 리스트에 있는 물자들을 수집해.	After you get back, collect the goods on this list.						0	
+22	这上面的东西都是什么……空速管是什么？	這上面的東西都是什麼……空速管是什麼？	何が書いてあるんだ……空速パイプってなんだ？	무슨 물건들이길래… 공속관은 또 뭔데?	What's all this stuff...? What's a "pitot tube"?						0	
+23	都是好东西。	都是好東西。	全部いいものだよ。	다 쓸만한 것들이야.	It's all stuff we need.						0	
+24	把它们组合在一起，就能变成一台机甲。	把它們組合在一起，就能變成一台機甲。	それを組み合わせると、機甲になる。	그것들을 조합하면 기갑을 만들 수 있어.	We're going to put them together to build a mech.						0	
+25	……你摸清了机甲的内部构造？在这么短的时间里？	……你摸清了機甲的內部構造？在這麼短的時間裡？	……機甲の内部構造を把握したのか？あんな短い時間で？	… 벌써 기갑의 내부 구조를 다 파악한 거야? 그렇게 짧은 시간 안에?	...You figured out the mech's internal structure that fast?						0	
+26	只花了两支抑制剂，是不是很划算？	只花了兩支抑制劑，是不是很划算？	抑制剤たった2本で済むなんて、お得だろ？	겨우 억제제 2개를 대가로 말이지, 이 정도면 정말 괜찮은 장사 아니야?	And it only cost two Inhibitors. Not a bad deal, right?						0	

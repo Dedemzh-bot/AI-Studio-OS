@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	安卡希雅辉夜			playername，你帮忙调用一下热成像侦察无人机。	0	
+2		0	安卡希雅辉夜			这里建筑太杂乱很容易有漏网之鱼。	0	
+3		0	安卡希雅辉夜			他们一个都别想跑。	0	

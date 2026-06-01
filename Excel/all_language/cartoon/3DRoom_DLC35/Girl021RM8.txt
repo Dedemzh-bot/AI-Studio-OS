@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	外面好热闹。	外面好熱鬧。	外は賑やかだな。	밖이 정말 시끌벅적하네.	It's so lively out there.						0	3.5版本随机剧情
+page1.2	嗯，过节了嘛。	嗯，過節了嘛。	ああ、お祭りだからな。	응, 명절이잖아.	Well, it is a festival.						0	3.5版本随机剧情
+page1.3	我到处都没看见你，所以过来找你了。	我到處都沒看見你，所以過來找你了。	君が見当たらないから、探しに来た。	아무리 둘러봐도 네가 안 보이길래 찾아왔어.	I didn't see you anywhere, so I came looking for you.						0	3.5版本随机剧情
+page1.4	怎么，不适应？	怎麼，不習慣？	どうしたんだ、楽しくなかった？	왜 그래, 적응이 안 돼?	What's wrong? Not used to it?						0	3.5版本随机剧情
+page1.5	也没有。	也沒有。	そういうわけではないが。	그런 건 아니야.	It's not that.						0	3.5版本随机剧情
+page1.6	就是……不知道怎么融入进这种节日的气氛。	就是……不知道怎麼融入進這種節日的氣氛。	ただ……お祭りの雰囲気にどう溶け込めばいいのか、わからなくて。	그냥… 이런 명절 분위기에 어떻게 어울려야 할지 모르겠어.	It's just... I don't know how to fit into this festive atmosphere.						0	3.5版本随机剧情
+page1.7	什么融入不融入的，这是咱们自己家。	什麼融入不融入的，這是我們自己家。	溶け込むも何も、ここは私たちの家だよ。	어울리고 말고 할 게 어디 있어, 여기가 집인데.	This is our home. You're already part of it.						0	3.5版本随机剧情
+page1.8	我、我不知道说什么——	我、我不知道說什麼——	その、なんと言うか——	나, 난 뭐라고 말해야 할지 모르겠어…	I—I don't know what to say...						0	3.5版本随机剧情
+page1.9	那我们一起去厨房帮厨。我带你炸丸子去。	那我們一起去廚房幫廚。我帶你炸丸子去。	じゃあキッチンを手伝ってくれないか。私が肉団子の揚げ方を教えるから。	그럼 같이 주방 일을 도와주자. 완자를 튀기는 거야.	Then let's go help out in the kitchen. We can fry some meatballs.						0	3.5版本随机剧情
+page1.10	诶，我不会，搞砸了怎么办——	誒，我不會，搞砸了怎麼辦——	えっ、待ってくれ。失敗したら——	어, 난 못 해, 그러다 망치면 어떡해…	Eh? But I don't know how. What if I mess it up...?						0	3.5版本随机剧情
+page1.11	没事，你做成什么样我都爱吃！	沒事，你做成什麼樣我都愛吃！	大丈夫。どんな出来でも、私が食べるから！	괜찮아, 네가 어떻게 만들든 다 맛있게 먹을게!	It's all right. I'll love whatever you make!						0	3.5版本随机剧情
+page1.12	在我的帮助下，奈莉德做的炸丸子受到了大家的一致好评。	在我的幫助下，奈莉德做的炸丸子受到了大家的一致好評。	私の手助けもあって、ネリーダの作った肉団子はみんなに大好評だった。	내 도움을 받아 네리다가 만든 완자 튀김은 모두에게 호평을 받았다.	With my help, Nerida's fried meatballs received unanimous praise.						0	3.5版本随机剧情

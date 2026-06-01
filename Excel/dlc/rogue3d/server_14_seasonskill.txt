@@ -1,0 +1,20 @@
+id	备注	词条名称	词条描述	词条图标	词条作用对象(0:全部, 1:角色, 2:怪物，3:召唤物)	词条效果类型(1:buff-skillinfo，2:buff-skillfix，3:机制类型，4:环境类型)	效果参数
+ID	Comment	Name	Des	Icon	TargetType	EffectType	EffectParameter
+1	【正面】每次进入新房间时，自动补满大招能量，释放常规技和大招时，有概率不消耗能量也不进入cd	rogue3.season_skill_name1	rogue3.season_skill_des1	1001141	1	{1,3}	{{7015003,7015004,7015005},{1}}
+2	【正面】在迭战模式中进行推演，将更容易获得稀有增益，也可获取更多思维译码、推演经验及智略点	rogue3.season_skill_name2	rogue3.season_skill_des2	1001190			
+3	所有主动技能造成伤害时对敌人造成一次水泡爆炸，爆炸伤害为本次技能伤害的50%的低温伤害，每次水泡爆炸会为目标额外附加一层持续5秒的【溺水】效果，每层【溺水】效果使敌人受到来自水泡的伤害额外提升20%，【溺水】至多叠加10层	rogue3.season_skill_name3	rogue3.season_skill_des3	1001264	1	{2}	{{7016006}}
+4	【正面】射击时，有概率消耗金币发动金币攻击，造成巨额范围伤害	rogue3.season_skill_name4	rogue3.season_skill_des4	1001102			
+5	【正面】低重力环境，允许跳跃，跳跃后将短暂制空并缓慢下落，在空中可以射击，且射击将造成范围爆炸伤害	rogue3.season_skill_name5	rogue3.season_skill_des5	1001082			
+6	【正面】每移动5米，将自动布设一个炸弹	rogue3.season_skill_name6	rogue3.season_skill_des6	1001086			
+7	【正面】通关战斗房间会随机掉落合成配方，在补给点可以合成buff、特殊道具、限定武器	rogue3.season_skill_name7	rogue3.season_skill_des7	1001082			
+8	【正面】可以使用道具烟雾弹，使用后x秒内不会被怪物发现，也不会吸引仇恨	rogue3.season_skill_name8	rogue3.season_skill_des8	1001108			
+9	【正面】场下角色的属性将转移30%至场上角色	rogue3.season_skill_name9	rogue3.season_skill_des9	1001110			
+10	【正面】击败敌人后有概率收服敌人（获得敌人召唤卡道具），战斗中可以使用敌人召唤卡召唤敌人	rogue3.season_skill_name10	rogue3.season_skill_des10	1001108			
+11	【负面】怪物半血以上时，受到的射击伤害减半；半血以下时，受到的技能伤害减半	rogue3.season_skill_name11	rogue3.season_skill_des11	1001119			
+12	【负面】敌方每被射击10次，就会在周围引爆一个大范围的爆炸波	rogue3.season_skill_name12	rogue3.season_skill_des12	1001142	2	{1}	{{7014012}}
+13	【负面】挑战悖论迷宫将消耗精力值，低精力值时收益降低	rogue3.season_skill_name13	rogue3.season_skill_des13	1001191			
+14	【负面】偶尔将出现滚球关卡，通关后可获得万用思维译码	rogue3.season_skill_name14	rogue3.season_skill_des14	1001265			
+15	【负面】所有技能cd时间+200%	rogue3.season_skill_name15	rogue3.season_skill_des15	1001100			
+16	【负面】关卡被浓雾笼罩，可见范围极低	rogue3.season_skill_name16	rogue3.season_skill_des16	1001106			
+17	【负面】天空中会掉落鲨鱼，砸到地面发生爆炸伤害玩家	rogue3.season_skill_name17	rogue3.season_skill_des17	1001098			
+18	【负面】地面会出现烫脚地板，造成持续伤害，爆开后还会禁锢玩家2s不能移动	rogue3.season_skill_name18	rogue3.season_skill_des18	1001084			

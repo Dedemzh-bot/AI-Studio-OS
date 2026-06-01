@@ -1,0 +1,5 @@
+﻿商店id	备注	商品槽数量	buff库id	库等级范围
+StoreID	Comment	Num	BuffGroupID	BuffLevel
+101	通用商店-低级	4	101	{2,3}
+102	通用商店-中级	4	101	{3,4}
+103	通用商店-高级	4	101	{4,5}

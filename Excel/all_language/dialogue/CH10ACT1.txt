@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	嘘，听，有动静，在右边！	噓，聽，有動靜，在右邊！	シーッ！右の方で物音がするわ！	잠깐… 들었어? 오른쪽에서 분명 무슨 소리가 들린 것 같은데!	Shh, listen! There's something on the right!						0	
+2	分析员的意思，是想要过去看看？	分析員的意思，是想要過去看看？	確認に行くつもりか、分析員？	분석가 뜻은 가서 확인해 보고 싶다는 거야?	You recommend going over there to investigate, Adjutant?						0	
+3	降临团？在污染这么严重的地方？他们不要命了？	降臨團？在汙染這麼嚴重的地方？他們不要命了？	降臨団？こんなにも汚染がひどい場所に現れるなんて、いったい何を考えてるの？	강림단? 오염 수치가 이렇게까지 높은데 왜 여기 있는 거지? 목숨이 아깝지도 않나?	Adventists in a contaminated environment like this? Have they lost their minds!?						0	

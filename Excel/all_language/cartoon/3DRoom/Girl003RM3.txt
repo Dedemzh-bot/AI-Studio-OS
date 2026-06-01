@@ -1,0 +1,25 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员儿，你说……当有钱人是什么感觉呢？	分析員，你說……當有錢人是什麼感覺呢？	分析員、あのさ……お金持ちになるってどんな感じかな。	분석가, 부자가 된다는 건 어떤 기분일까?	Adjutant, tell me... What's it like to be rich?						0	
+page0.2	我也想知道啊。	我也想知道啊。	私だって知りたい。	나도 알고 싶어.	I wish I knew.						0	
+page0.3	唉……	唉……	はぁ……	아…	*sigh*...						0	
+page0.4	对不住，是我问错人了。	對不起，是我問錯人了。	ごめん、訊く人を間違えた。	미안, 다른 사람에게 물어볼 걸 그랬네.	Sorry about that. Looks like I asked the wrong person.						0	
+page0.5	唉……	唉……	はぁ……	아…	*sigh*...						0	
+page0.6	分析员儿，看在咱俩的关系上，我带你一起搞钱吧。	分析員，看在我們的關係上，我帶你一起搞錢吧。	分析員、私たちの仲でしょ、一緒に稼いでみない？	분석가, 우리 같이 돈 좀 벌어보는 건 어때?	Adjutant, since we're close, let me show you how to make some cash.						0	
+page0.7	我最近学了几个不错的搞钱方法，咱们一起努力，互相监督。	我最近學了幾個不錯的搞錢方法，我們一起努力，互相監督。	最近いい感じのシノギを知ったんだ、一緒にサポートし合おうよ。	최근에 돈을 벌 수 있는 방법을 몇 가지 알아 왔거든. 우리 같이 힘내서 한번 왕창 벌어보자.	I recently picked up a few tricks to make some dough. How 'bout we work together and keep an eye on each other?						0	
+page0.8	展开讲讲。	你先說說看。	ほう。聞かせてもらおうか。	어디 한번 말해봐.	I'm listening.						0	
+page0.9	首先，要想搞大钱，视角必须比常人更广一些。	首先，要想搞大錢，視角必須比常人更廣一些。	まずはね、でかい稼ぎを掴むには、常人よりも視野を広く持つべし。	일단, 큰돈을 만지려면 보통 사람들보다 넓은 시야를 갖고 있어야 해.	First off, if you wanna make the big bucks, you have to expand your field of view.						0	
+page0.10	这样一定会更容易发现他人难以觉察到的财富。	這樣一定會更容易發現他人難以覺察到的財富。	そうすればきっと他人では気づかないチャンスを見出すことができる。	그러면 분명 사람들이 찾지 못한 돈을 쉽게 찾을 수 있을 거야.	That'll definitely make it easier to weed out cash that's invisible to others.						0	
+page0.11	我已经练习了一段时间了，靠出售在各种角落里捡到的终端，已经有了一笔不错的收入。	我已經練習了一段時間了，靠出售在各種角落裡撿到的終端，已經有了一筆不錯的收入。	私もずいぶん練習したよ。いろんなところで拾った端末を売って、それなりに稼いでる。	한동안 연습해서 여기저기에서 주운 단말기를 팔았더니 수입이 꽤나 쏠쏠해.	I've been trying it out for a bit, and I've made a good chunk of change selling terminals I pick up here and there.						0	
+page0.12	总觉得你的方法不太对劲。	總覺得你的方法不太對勁。	……なんか怪しい。	네 방법은 항상 어딘가 좀 이상한 것 같아.	Why do I feel like there's something wrong with your business model...?						0	
+page0.13	分析员，这你就不懂了，财富也是要靠慢慢积累的。	分析員，這你就不懂了，財富也是要靠慢慢累積的。	いい？分析員、利益というのは、少しずつ積み上げるものなんだよ。	분석가, 네가 아직 뭘 모르는 것 같은데, 돈이란 게 원래 티끌 모아 태산인 거야.	Adjutant, you don't get it. Wealth has to be accumulated gradually.						0	
+page0.14	让我继续教你。	讓我繼續教你。	授業を続けるよ。	내가 더 알려줄게.	Let me continue.						0	
+page0.15	你知道，这世界上最宝贵的东西是什么？	你知道，這世界上最寶貴的東西是什麼？	この世で最も大切なものは何？	세상에서 가장 귀한 게 뭔지 알아?	You know what the most precious thing in the world is?						0	
+page0.16	没错，就是时间。	沒錯，就是時間。	そう、時間なんだよ。	맞아, 바로 시간이야.	Correct — it's time.						0	
+page0.17	原来不是问我啊……	原來不是問我啊……	私に聞いてるんじゃないのか……	질문이 아니었구나…	Weren't you asking me...?						0	
+page0.18	时间就是钱，所以要让我们的每一秒，都保持入账状态。	時間就是錢，所以要讓我們的每一秒，都保持入帳狀態。	時間は金そのもの、だから一分一秒も金に換えてやらないと。	시간은 금이야. 그러니 우리는 매 순간마다 돈을 벌어야 해.	Time is money, so we have to make use of each and every second.						0	
+page0.19	所以，我把自己租给了肴，在我没任务的时候，就会替肴出勤。	所以，我把自己租給了肴，在我沒任務的時候，就會替肴出勤。	だから私は私自身を肴に貸したの。私のミッションがない時、肴のかわりに仕事に出るってわけ。	그래서 나는 나 자신을 야오에게 빌려줬지. 미션이 없을 땐 야오 대신 출근도 하면서 말이야.	So I rented myself out to Yao. When I wasn't on a mission, I did work for her.						0	
+page0.20	嘻嘻，肴老板出手还挺大方呢。	嘻嘻，肴老闆出手還挺大方呢。	へへ、肴って結構太っ腹だね。	히히, 야오 사장님은 정말 큰 손이라니까.	Hehe, Yao is a pretty generous employer.						0	
+page0.21	你都是从哪儿学到的这些？	你都是從哪裡學到的這些？	そんなのどこで覚えたの？	이런 건 다 어디서 배운 거야?	Where did you learn all this?						0	
+page0.22	畅销书《人人都能在30天内成为富豪》。	暢銷書《人人都能在30天內成為富豪》。	ベストセラー『30日でお金持ちになる方法』	<누구나 30일 만에 부자가 될 수 있다>, 무려 베스트셀러라고!	The best-selling book, "How to Get Rich in 30 Days."						0	
+page0.23	……	……	……	…	...						0	

@@ -1,0 +1,161 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+skin10001	融月流金	融月流金	クラシックタイム	황금빛 초승달	Golden Crescent						0	
+skin10001_des	朔州地区限定发售涂装，以当地某著名节日为主题，纹样考究，极为精致奢华	朔州地區限定發售塗裝，以當地某著名節慶為主題，紋樣考究，極為精緻奢華	朔州地域限定発売の塗装で、地元の有名な祝日をテーマとしている。精巧な紋様が施されており、非常に豪華なデザインが特徴である。	삭지 지역 한정 판매 도장으로 지역의 유명한 축제를 주제로 하며 문양이 정교하고 화려하다	An aesthetic design exclusively released in Shuozhou. Its theme takes cues from a famous local festival, boasting intricate and luxuriously crafted patterns.						0	
+skin10001_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin10002	春携良缘	春攜良緣	縁結びし睦月	봄의 인연	Kindling Love						0	
+skin10002_des	朔州人非常喜欢在春季之初将家中装点上红色装饰以祈求幸福良缘，连武器也不例外	朔州人非常喜歡在春季之初將家中裝點上紅色裝飾以祈求幸福良緣，連武器也不例外	朔州の人々は春の初めに幸福と良縁を求め、赤い飾りを家に飾る。武器も例外ではない。	삭주 사람들은 봄이 시작될 때 행복한 인연을 기원하며 붉은 장식으로 꾸미는 것을 매우 좋아한다. 무기 역시 예외가 아니다.	Shuozhou people decorate their homes with red at the start of spring to invite happiness and good luck — even their weapons share in this tradition.						0	
+skin10002_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin10003	忠诚之勋	忠誠之勳	ソヴリン・オナー	충성의 훈장	Armorial Loyalty						0	3.1枪皮
+skin10003_des	古朴传统的骑士元素作为视觉主题，跨越时空连接了古今两个时代的武者精神	古樸傳統的騎士元素作為視覺主題，跨越時空連接了古今兩個時代的武者精神	古き騎士文化の要素をビジュアルテーマとし、時を超えた古今の武士の精神をつなぎ合わせる。	전통적인 기사의 요소를 시각적 테마로 사용해, 시간과 공간을 초월하여 고대와 현대의 전사 정신을 연결하였다.	This weapon skin features a timeless knight motif that unites the valor of warriors across the ages.						0	3.1枪皮
+skin10003_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.1枪皮
+skin10004	铂金密信	鉑金密信	ルナ・シグナル	루센트 시크릿	Lucent Secret						0	3.1枪皮
+skin10004_des	纯粹而坚定的信念，总会得体地穿越乱流、突破障碍，直达目标	純粹而堅定的信念，總會得體地穿越亂流、突破障礙，直達目標	純粋で揺るがぬ信念は、いつか必ず障害を乗り越え、目指す場所へ辿り着く。	순수하고 확고한 신념은 언제나 격류를 우아하게 헤쳐나가고 장애물을 돌파하여 목표에 다다른다.	Pure and unwavering, it cuts through chaos to strike true.						0	3.1枪皮
+skin10004_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.1枪皮
+skin10005	清波储备	清波儲備	トワイライト	햇볕의 세례	Sunfire Soaker						0	3.2枪皮
+skin10005_des	夏日限定发售的涂装，令人安心的超大储备量，是清凉感的来源	夏日限定發售的塗裝，令人安心的超大儲備量，是清涼感的來源	夏季限定の塗装。大容量による安心感が、清涼感あふれるデザインの魅力となっている。	여름 한정판 도장으로, 안심할 수 있는 대용량이 상쾌함의 원천이다.	A summer-exclusive design with massive ammo capacity for water fights, delivering a refreshing sense of cool.						0	3.2枪皮
+skin10005_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2枪皮
+skin10006	冬愿银装	冬願銀裝	ピュア・ホワイト	실버 위시	Winter Wish						0	3.4枪皮
+skin10006_des	星祈节限定发售的涂装，象征着星祈节的新生与祝福	星祈節限定發售的塗裝，象徵著星祈節的新生與祝福	星祈祭限定の塗装、星祈祭の新生と祝福を象徴している。	성원절에 한정 판매되는 도색으로, 성원절의 신생과 축복을 상징한다.	A Starwish Day limited weapon skin, symbolizing renewal and blessings of the holiday.						0	3.4枪皮
+skin10006_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.4枪皮
+skin10007	爱语明釉	愛語明釉	アモレルーチェ	러브 글레이즈	Glaze of Vows						0	3.5枪皮
+skin10007_des	象征着美好、永恒的爱，如同少女最初许下的誓言	象徵著美好、永恆的愛，如同少女最初許下的誓言	少女がかつて捧げた最初の誓いのように、美しさと永遠の愛を象徴する。	소녀의 첫 서약처럼 아름답고 영원한 사랑을 상징한다.	A symbol of beauty and everlasting love, just like the promise the girl made at the very start.						0	3.5枪皮
+skin10007_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5枪皮
+skin10008	约束禁律										0	3.7枪皮
+skin10008_des	诠释了新涂装理念——适当的约束也是一种独特的浪漫										0	3.7枪皮
+skin10008_use	通过供应站购买获得										0	3.7枪皮
+skin20001	拒绝加班	拒絕加班	残業拒否	노 오버타임	No Overtime						0	
+skin20001_des	由海姆达尔部队知名狙击手肴代言的狙击枪涂装设计，据说代言费非常高昂	由海姆達爾部隊知名狙擊手肴代言的狙擊槍塗裝設計，據說代言費非常高	ヘイムダル部隊の有名なスナイパー、肴をイメージキャラクターに起用したスナイパーライフルの塗装デザイン。契約料はかなり高いらしい。	저격총의 도장 디자인은 헤임달 부대의 유명한 저격수 야오가 직접 광고한 것으로 광고료가 굉장히 비싸다고 한다.	A sniper rifle aesthetic design endorsed by Yao, renowned sniper of the Heimdall Force. Rumors say that the endorsement fee was extremely high.						0	
+skin20001_use	通过供应站员工惠利获得	透過供應站員工福利獲得	配給所従業員割引で獲得	공급 센터 직원 복지로 획득	Obtained from Quartermaster Employee Benefit.						0	
+skin20003	熊熊突击	熊熊突擊	ベア突撃	테디 스트라이크	Teddy Strike						0	
+skin20003_des	多处醒目的毛绒熊装饰，只有一个目的——更加更加更加可爱！	多處醒目的毛絨熊裝飾，只有一個目的——更加更加更加可愛！	人目を引くいくつものクマのぬいぐるみの装飾には、ただ一つの目的——もっともっともっと可愛くなるため！	여러 곳에 눈에 띄는 플러시 곰 인형의 목적은 하나 뿐이다. 그건 바로… 더욱더 사랑스럽게 보이기 위해서!	With its adorable teddy bear aesthetics, this decorative skin was designed with one purpose — to increase cuteness!						0	
+skin20003_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin20004	爱彻青空	愛徹青空	空駆ける恋	창공의 황홀	Skyward Swoon						0	
+skin20004_des	从设计上融合了“自由向往”和“安全守则”的理念，毕竟安全是自由飞翔的前提	從設計上融合了「自由嚮往」與「安全守則」的概念，畢竟安全是自由飛翔的前提	「自由への憧れ」と「安全への配慮」の理念がデザインに組み込まれている。安全こそが、自由に飛ぶための前提なのだから。	'자유를 향한 갈망'과 '안전 수칙'의 개념을 융합한 디자인이다. 안전이야말로 자유로운 비행의 전제조건이다.	The design merges the spirit of freedom with the principles of safety. After all, a flight of pleasure can only truly take off once trust is ensured.						0	
+skin20004_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin20005	清凉公式	清涼公式	清涼の法則	냉각의 법칙	Cooldown Theorem						0	
+skin20005_des	以水上娱乐项目为主题的涂装，视觉上有着十足的跃动感	以水上娛樂項目為主題的塗裝，視覺上充滿躍動感	水上アトラクションをモチーフとしたこの塗装は、視覚的にも強い躍動感を放っている。	물놀이를 테마로 한 코팅으로, 시각적인 생동감이 넘친다.	An aesthetic design themed around water-based recreation, featuring a vibrant and dynamic visual style.						0	
+skin20005_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin20006	紫晶盛放	紫晶盛放	紫光ノ水晶	해양의 자수정	Seaborn Amethyst						0	3.2枪皮
+skin20006_des	参考了上世纪末的一些流行绘图手法，绽放瞬间的喜悦感呼之欲出	參考了上世紀末的一些流行繪圖手法，綻放瞬間的喜悅感呼之欲出	20世紀末の描画手法を参考に、水晶が咲く瞬間の輝きと喜びを鮮やかに表現した塗装。	지난 세기 말에 유행했던 그림 기법을 참고한 작품으로, 꽃피는 순간의 기쁨이 생생하게 전해진다.	Drawing on art styles from the end of the last century, it bursts with the exhilaration of the sparkling moment.						0	3.2枪皮
+skin20006_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2枪皮
+skin20007	赤玫臻言	赤玫臻言	レッド・ローズ	장미의 맹세	Roseveil Promise						0	3.4枪皮
+skin20007_des	玫瑰代表着最炙热的爱意，圣洁的外表下含着最真诚的愿景	玫瑰代表著最炙熱的愛意，聖潔的外表下含著最真誠的願景	薔薇は最も熱い愛を象徴し、その清らかな外見の奥には心からの願いが秘められている。	장미는 가장 열정적인 사랑을 상징하고, 그 순수한 모습 아래에는 가장 진실한 소원이 숨겨져 있다.	Roses embody the fire of the fiercest love, their pure exteriors concealing the truest of promises.						0	3.4枪皮
+skin20007_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.4枪皮
+skin20008	花影映爱										0	3.7枪皮
+skin20008_des	这并非一次普通的涂装设计，而是对爱的显形表达，萦绕的花瓣象征着真挚热烈爱意										0	3.7枪皮
+skin20008_use	通过供应站购买获得										0	3.7枪皮
+skin30001	全糖蜜令	全糖蜜令	甘い指令	달콤한 지시	Sweet Decree						0	
+skin30001_des	最近在年轻群体中非常受欢迎的艳丽涂装，经常被当做情侣之间相赠的礼物	最近在年輕族群中非常受歡迎的艷麗塗裝，經常被當作情侶相贈的禮物	最近、若者の間で大人気の艶やかな塗装。よく恋人へのプレゼントに使われる。	최근 젊은 층에서 인기를 끌고 있는 화사한 색감의 도장으로 커플들 사이에서 선물용으로 많이 활용된다고 한다.	A vibrant aesthetic design that appeals to young people of the time. It is styled like a gift exchanged between romantic partners.						0	
+skin30001_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin30002	未来心跳	未來心跳	未来の鼓動	퓨처 바운스	Future Heartbeat						0	
+skin30002_des	灵感源自著名科幻作品，前卫的造型和时尚的流光，使其成为年轻群体追捧的商品	靈感源自著名科幻作品，前衛的造型和時尚的流光，使其成為年輕族群追捧的商品	有名なSF作品に啓発された逸品。未来的な造形とファッショナブルな発光で、若者からの人気を博している。	유명한 공상과학 작품에서 영감을 받아 아방가르드한 형태와 패셔너블한 조명으로 젊은이들 사이에서 인기가 높은 제품이다.	Taking cues from iconic sci-fi works, its cutting-edge design and sleek shine have made it a trendy item among young people.						0	
+skin30002_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin30004	澈海之约	澈海之約	海の約束	오션 가디언	Ocean Guardian						0	
+skin30004_des	以海洋生物为主题元素，是某市立海洋馆与涂鸦艺术家的联名之作，以此呼吁年轻一代保护海洋	以海洋生物為主題元素，是某市立海洋館與塗鴉藝術家的聯名之作，以此呼籲年輕一代保護海洋	ある市立水族館とグラフィティアーティストによる、海洋生物をモチーフにしたコラボ作品。若い世代に海を守ることを呼びかけている。	해양 생물을 테마로 젊은 세대에게 바다를 보호하자는 마음을 어필하기 위한 시립 수족관과 그래피티 아티스트의 공동 작품이다.	With thematic elements of deep-sea creatures, this collaboration between a municipal aquarium and popular artist encourages the younger generation to protect our world's marine environments.						0	
+skin30004_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin30005	豹豹饱饱	豹豹飽飽	ミス・リトルカブ	배고픈 표범	Hungry Cubbie						0	
+skin30005_des	模拟冰雪配色，以幼小的猛兽形象为主题，容易让人联想到冬季雪原，但其实一年四季在售	模擬冰雪配色，以幼小的猛獸形象為主題，容易讓人聯想到冬季雪原，但其實一年四季在售	幼い猛獣をモチーフに、氷と雪を参考にした色合いのデザイン。雪に覆われた冬の大地を連想させるが、実は一年中販売されている。	가상의 빙설 색상을 사용하여 어린 표범의 이미지를 주제로 하며, 겨울의 설원을 연상케 하지만 사실은 사계절 내내 판매되는 품목이다.	Featuring a snow-inspired color palette and tundra animal theme, this design screams winter — but don't worry, it's available all year round.						0	
+skin30005_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin30006	危甜信号	危甜訊號	甘美な罠	유혹의 신호	Deadly Cuddle						0	
+skin30006_des	俏皮灵动的涂装设计，宛如可爱的装饰品，似乎是想平衡一下原本的危险气质。	俏皮靈動的塗裝設計，宛如可愛的裝飾，似乎想平衡原本的危險氣質。	生き生きとした塗装のデザインは、まるで可愛らしい装飾品のようだ。本来の物騒な雰囲気を中和することを目的としていると思われる。	발랄하고 생동감 넘치는 도색 디자인으로 마치 사랑스러운 장식처럼 본래의 위협적인 기운을 상쇄하려는 듯하다.	This vibrant, playful design gives off a cute, decorative vibe, almost like it's trying to soften its true dangerous nature.						0	
+skin30006_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin30007	聆听本真	聆聽本真	真に耳を	본연의 소리	Heed to Truth						0	
+skin30007_des	以让人联想到美好回忆的元素为设计主题的复古涂装，或许在提示着战斗的意义。	以讓人聯想到美好回憶的元素為設計主題的復古塗裝，或許在提示著戰鬥的意義。	美しい思い出を呼び起こすことをコンセプトにしたレトロ調の塗装が、まるで戦う意味を象徴しているかのように感じる。	행복한 추억을 떠올리게 하는 디자인 요소로 꾸며진 복고풍 도색, 아마도 전투의 본질을 일깨우려는 메시지가 숨어 있을지도 모른다.	This vintage paint design, themed around elements that evoke beautiful memories, may also hint at the purpose of battle.						0	
+skin30007_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin30008	深林微光	深林微光	木漏れ日	숲속의 미광	Forest Gleam						0	
+skin30008_des	兼具科技和魔法的设计元素，巧妙融合了不同风格，突显优雅与智慧的气质	兼具科技與魔法的設計元素，巧妙融合了不同風格，突顯優雅與智慧的氣質	テクノロジーと魔法を融合させたデザインは、異なるスタイルを見事に組み合わせ、優雅さと知性が際立っている。	기술과 마법의 디자인 요소를 겸비하고, 다양한 스타일을 교묘하게 결합한 이 무기는 우아함과 지혜로움을 강조한다.	This design integrates technology and magic harmoniously, blending different styles to reflect an aura of natural elegance and wisdom.						0	
+skin30008_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin30009	午夜轻触	午夜輕觸	フェザータッチ	야밤의 케어	Midnight Caress						0	3.0枪皮
+skin30009_des	以枪托极度柔软的触感为主要卖点，据说在保证安全的前提下可以当抱枕使用	以槍托極度柔軟的觸感為主要賣點，據說在保證安全的前提下可以當抱枕使用	極めて柔らかいストックの触感が最大の特徴で、安全性が確保されていれば抱き枕代わりにもなると噂される。	개머리판의 극도로 부드러운 촉감을 주요 특징으로 내세웠으며, 안전이 보장되는 범위 내에서 베개로도 사용할 수도 있다고 한다.	Marketed for its exceptionally soft gunstock, it's said that it can double as a throw pillow under safe conditions.						0	3.0枪皮
+skin30009_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0枪皮
+skin30010	寂夜覆纱	寂夜覆紗	ナイトヴェール	숨겨진 갈망	Hidden Yearning						0	3.1枪皮
+skin30010_des	轻纱隔绝夏夜的燥热，纱下的细语将迷途的旅者引入一场酣梦	輕紗隔絕夏夜的燥熱，紗下的細語將迷途的旅者引入一場酣夢	顔を覆うベールが夏夜の暑さを遮り、瞳に輝くヴェールが旅人の心を夢へと誘う。	가벼운 망사는 여름밤의 무더위를 가로막고, 그 아래 속삭임은 방랑자를 달콤한 꿈으로 안내한다.	Its delicate veil cools the summer night, its whispers drawing travelers into reverie.						0	3.1枪皮
+skin30010_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.1枪皮
+skin30011	迅焰溢彩	迅焰溢彩	ときめきバレット	도둑 키스	Heistress' Kiss						0	3.3枪皮
+skin30011_des	简洁冷酷的构造搭配时尚炫彩的火焰效果，不同设计元素碰撞出别样的美感	簡潔冷酷的構造搭配時尚炫彩的火焰效果，不同設計元素碰撞出別樣的美感	シンプルでクールな造形に、カラフルで躍動感のある火炎効果が施され、相反するスタイルが融合し、独特の美しさを放つ。	심플하고 세련된 구조에 화려한 불꽃 효과가 더해져, 다양한 디자인 요소의 조화가 자아내는 독특한 아름다움을 느낄 수 있다.	Clean, cold construction meets vibrant, fiery aesthetics, producing a striking clash that's unexpectedly beautiful.						0	3.3枪皮
+skin30011_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.3枪皮
+skin30012	意如流火	意如流火	流火夢銃	블레이즈 하트	Heart Ablaze						0	3.5枪皮
+skin30012_des	符合朔州传统节日风格的外观设计，夸张的流火形线条和极具张力的颜色搭配，让它一经问世便成了流行产品	符合朔州傳統節日風格的外觀設計，誇張的流火形線條和極具張力的顏色搭配，讓它一經問世便成了流行產品	朔州の伝統祝祭をモチーフに、流れる炎のようなラインと鮮烈な配色が融合。発売と同時に爆発的な人気を博した。	삭주의 전통 명절 스타일에 맞춘 외관 디자인으로, 과장된 불 모양의 선과 두드러진 색감을 선보이며 출시 직후부터 인기 상품이 되었다.	With a design inspired by Shuozhou's traditional festivals, its exaggerated flowing-fire lines and striking color accents made it an instant hit the moment it launched.						0	3.5枪皮
+skin30012_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5枪皮
+skin40001	治愈准则	治癒準則	治癒の規則	치유 원칙	Sensual Care						0	
+skin40001_des	温馨可爱的配色，特殊的圆筒设计，让使用者随时随地回忆起被治愈的时光	溫馨可愛的配色，特殊的圓筒設計，讓使用者隨時隨地回憶起被治癒的時光	温かく可愛らしい配色、特別な円筒形のデザインは、いつでも使用者に癒しの時間を思い出させる。	온화하고 사랑스러운 색상과 특별한 원통 디자인으로 사용자가 언제 어디서나 치유된 순간을 떠올릴 수 있게 해준다.	Its warm, inviting colors and distinctive cylindrical design can evoke memories of the nurse's tender treatment anytime and anywhere.						0	
+skin40001_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin40002	星夜流沙	星夜流沙	星と砂	유성의 흐름	Nighttime Flow						0	
+skin40002_des	灵感源自著名童话故事，风格贴近故事起源地，设计者认为武器和沙漠的夜晚一样，危机与浪漫共存。	靈感源自著名童話故事，風格貼近故事起源地，設計者認為武器和沙漠的夜晚一樣，危機與浪漫共存。	有名なおとぎ話から着想を得て、物語の起源地を意識した造形となっている。デザイナー曰く、武器は砂漠の夜のように、危険とロマンが共存するものだという。	유명한 동화 이야기에서 영감을 받은 디자인, 이야기의 원산지와 가까운 스타일로 디자이너는 무기와 사막의 밤이 마치 위기와 낭만이 공존하는 것 같다고 생각한다.	Inspired by a classic folk tale, this design echoes the arid land that the story originated from. The creator envisioned the weapon as a desert night, filled with both peril and romance.						0	
+skin40002_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin40003	浅粉印象	淺粉印象	桃一点	비타민 버스트	Vitamin Burst						0	
+skin40003_des	造型或许会勾起些许回忆，这恰好是设计意图，为了唤起对手童年时期的恐惧	造型或許會勾起些許回憶，這恰好是設計意圖，為了喚起對手童年時期的恐懼	対戦相手の幼少期の恐怖を呼び覚ますため、懐かしさを感じさせるデザインが施されている。	추억을 상기시킬 수 있는 이 무기의 외관은 상대의 어린 시절의 두려움을 불러일으키기 위한 절묘한 디자인이기도 하다.	This aesthetic might bring back certain memories in enemies, a deliberate design choice aimed at invoking subconscious fears from their childhood.						0	
+skin40003_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin40004	软绒紧缚	軟絨緊縛	Little Fur♥	솜털의 속박	Fluffy Tether						0	3.0枪皮
+skin40004_des	以象征幸运、姻缘的传统红绳，搭配当下流行的毛绒饰品，一经推出，深受喜爱	以象徵幸運、姻緣的傳統紅繩，搭配當下流行的毛絨飾品，一經推出，深受喜愛	幸運と縁結びを象徴する伝統的な赤い紐に、流行中のふわふわマスコット飾りを組み合わせた塗装。発売直後から高い人気を集めている。	행운과 인연의 상징인 빨간 실에 귀여운 털 장식을 더한 이 장식품은 출시하자마자 폭발적인 인기를 얻었다.	Combining traditional red string motifs symbolizing luck and union with trendy plush elements, this aesthetic design saw immediate popularity upon release.						0	3.0枪皮
+skin40004_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0枪皮
+skin40005	经典气泡	經典氣泡	ブルー・バブル	끝없는 버블	Timeless Bubbles						0	3.2枪皮
+skin40005_des	意图唤起对夏日中清凉感的最纯真回忆，造型致敬了曾经风靡一时的饮料	意圖喚起對夏日中清涼感的最純真回憶，造型致敬了曾經風靡一時的飲料	夏の清涼感を呼び起こすデザイン。かつて一世を風靡した飲料をオマージュし、純粋な思い出を表現している。	여름의 청량감에 대한 가장 순수한 기억을 불러일으키려는 의도로, 한때 큰 인기를 끌었던 음료의 디자인을 오마주했다.	Aiming to awaken the purest memories of cool refreshment on a summer day, this design is a nostalgic nod to a beloved drink of the past.						0	3.2枪皮
+skin40005_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2枪皮
+skin40006	羽落莲芯	羽落蓮芯	羽衣ノ鯉心	로터스의 심장	Lotus Veil						0	3.5枪皮
+skin40006_des	羽翼半掩枪身，莲花含苞待放，尽显独属于朔州人的浪漫与含蓄	羽翼半掩槍身，蓮花含苞待放，盡顯獨屬於朔州人的浪漫與含蓄	翼が銃身を覆い、蕾のままの蓮が、朔州人ならではのロマンと奥ゆかしさを映し出す。	총신을 반쯤 가린 날개 아래, 꽃망울은 곧 만개한다. 삭주 사람들의 특유의 낭만과 절제미를 품고 있다.	Wings partially cloak the gun, while the lotus bud prepares to bloom, reflecting the unique romance and subtlety of Shuozhou.						0	3.5枪皮
+skin40006_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5枪皮
+skin40007	龙吟威光	龍吟威光	ドラゴンロアー	드래곤 로어	Dragon's Roar						0	
+skin40007_des	采用了朔州的神话生物龙为设计元素，彰显着大气，毕竟龙可是威严之征啊	採用了朔州的神話生物龍作為設計元素，彰顯著氣派，畢竟龍可是威嚴的象徵啊	朔州の神話生物であり、威厳の象徴たる龍をデザインに取り入れ、力強い存在感を引き立てた。	위엄을 상징하는 삭주의 신화 생물인 용을 모티브하여 웅장함을 드러낸다.	Designed with Shuozhou's legendary creature as inspiration, it radiates imposing presence — after all, dragons are symbols of ultimate power.						0	
+skin40007_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin50001	恋染花途	戀染花途	恋色の花道	사랑의 꽃길	Blossoming Passion						0	
+skin50001_des	以“季节交错，相遇不易”为主题的涂装设计，提醒珍惜眼前人	以「季節交錯，相遇不易」為主題的塗裝設計，提醒珍惜眼前人	「四季折々、出会いを大切に」をテーマにした塗装デザイン。目の前の人を大切にする。	‘계절의 교차, 만남의 소중함'을 주제로 한 도장 디자인으로 눈앞의 사람을 소중히 여겨야 한다는 의미를 지니고 있다.	A paint design that invokes a long yearning to meet as the seasons come and go. It reminds us to cherish the people in front of us.						0	
+skin50001_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin50002	碳酸假日	氣泡假日	炭酸の休日	스파클링 파티	Sparkling Soiree						0	
+skin50002_des	模拟碳酸饮料气泡的动态外观，让使用者随时能从视觉上感受到清凉	模擬飲料氣泡的動態塗裝，讓使用者隨時能從視覺上感受到夏日清涼	炭酸飲料の泡を模したアニメーション付きのデザインで、いつでも視覚的に涼しさを感じられる。	탄산 음료 거품의 역동적인 모습을 시뮬레이션하여 사용자가 언제든지 시각적으로 상쾌한 느낌을 받을 수 있도록 한다.	Inspired by fizzy soda bubbles, the dynamic appearance ensures users can always see and feel a cool, refreshing effect.						0	
+skin50002_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin50003	耀舞迎春	耀舞迎春	春迎えの舞踏	봄맞이 댄스	Festive Prance						0	
+skin50003_des	如果有一种动物同时象征武德充沛和繁荣幸运，那做成武器涂装是必然的事	如果有一種動物同時象徵武德充沛和繁榮幸運，那做成武器塗裝是必然的事	武徳と幸運の両方を象徴する動物がいれば、武器の塗装が作られるのも当然のことだ。	덕이 넘치고 번영과 행운을 상징하는 동물이 있다면, 그것을 무기 도장으로 만드는 것은 당연한 일이다	When an animal symbolizes the essence of martial spirit and prosperity, then a weapon skin inspired by it is bound to happen.						0	
+skin50003_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin50004	游云焕绮	遊雲煥綺	雲の裏地	구름의 광휘	Cloud Tapestry						0	
+skin50004_des	由朔州著名画家设计的联名涂装，极具历史韵味的流云花纹深受大众喜爱	由朔州著名畫家設計的聯名塗裝，極具歷史韻味的流雲花紋深受大眾喜愛	朔州の名高い画家が手掛けたコラボ塗装。歴史の趣を感じさせる流れる雲のデザインが、多くの人々に愛されている。	삭주 출신의 유명 화가가 디자인한 콜라보레이션 도색을 포인트로 한 무기로, 대중에게 사랑받는 역사적인 매력을 지닌 유운 무늬가 특징적이다.	A decorative look designed by a renowned Shuozhou artist as a co-branded product, it features a flowing cloud pattern and is beloved for its historical elegance.						0	
+skin50004_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin50005	绯霞诫律	緋霞誡律	夕焼けの誡め	선홍빛 신념	Carmine Creed						0	
+skin50005_des	十分考究的复古造型，连颜料选用都参考了大量资料，意在辅助使用者彰显自身的威严	十分考究的復古造型，連顏料選用都參考了大量資料，意在輔助使用者彰顯自身的威嚴	緻密な考証に基づいて生み出されたレトロな造形。塗料の選定まで多くの資料を参考にし、使用者の権威を際立たせる。	매우 정교한 복고풍 외관을 가진 이 무기는 안료 선택부터 많은 자료를 기반으로 참조했고, 사용자의 위엄을 보여주는 것에 포인트를 주었다.	An aesthetic design based on military antiques, the colors meticulously selected from extensive references. Its style enhances the user's authoritative presence.						0	
+skin50005_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin50006	白纱奏鸣	白紗奏鳴	ブライドベール	미스터리 소나타	Sonata in Veil						0	3.0枪皮
+skin50006_des	弹匣镌刻铭文，奏响长笛，半个世纪前的轮廓再次于前沿回响	彈匣銘刻銘文，奏響長笛，半個世紀前的輪廓再次於前沿回響	旋律を刻んだ銘文がマガジンに施され、フルートのような優雅なデザインが、半世紀前の栄光を戦場に響かせる。	탄창에는 각인이 새겨지고, 플루트의 울림과 함께 반세기 전의 윤곽이 저편에서 다시 울려 퍼진다.	Featuring an engraved magazine and flute-like firing resonance, this design revives a timeless classic with a modern performance frame.						0	3.0枪皮
+skin50006_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0枪皮
+skin50007	渊底警戒	淵底警戒	淵底の睥睨	심연의 결단	Abyssal Ultimatum						0	3.2枪皮
+skin50007_des	突显神秘感的色彩搭配，和锐利的线条融为一体，提示深海的魅力往往伴随危险	突顯神秘感的色彩搭配，和銳利的線條融為一體，提示深海的魅力往往伴隨危險	神秘的な配色と鋭いラインが融合し、深海の魅力とその危険性を示唆している。	신비로운 색상 조합과 날카로운 선이 결합되어, 심해의 매력은 종종 위험을 동반한다는 사실을 상기시켜 준다.	Mysterious hues merge with sleek, sharp lines, suggesting that the deep sea's captivating beauty is often paired with peril.						0	3.2枪皮
+skin50007_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2枪皮
+skin50008	红居覆霜	紅居覆霜	紅刃霊銃	얼어붙은 성지	Snowveiled Shrine						0	3.3枪皮
+skin50008_des	色彩浓郁厚重，整体都充满了千羽地区传统文化元素，精致而神秘	色彩濃郁厚重，整體都充滿了千羽地區傳統文化元素，精緻而神秘	千羽地域の伝統的な紋様が刻まれ、精巧で神秘的な美しさを放つ。	진한 색조와 함께 전체적으로 센바 지역의 전통문화가 깃들어 있어 정교함과 신비로움이 느껴진다.	This assault rifle, rich and vibrant in color, is decorated with traditional Senba motifs. It exudes a refined and sacred aura.						0	3.3枪皮
+skin50008_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.3枪皮
+skin50009	云游青霄	雲遊青霄	クラウズナイン	창공 여행	Cloud Wanderer						0	
+skin50009_des	仗剑一方，云游四海一直是朔州人的独特浪漫之一，朔州的设计师将这种浪漫展现在了武器的涂装上	仗劍一方，雲遊四海一直是朔州人的獨特浪漫之一，朔州的設計師將這種浪漫展現在了武器的塗裝上	剣を携えて四海を旅する――朔州人の古くからのロマン。その想いを武器の塗装に落とし込んだ。	검을 잡고 사방을 떠도는 건 삭주 사람들만의 특별한 낭만이다. 삭주의 디자이너들은 이런 낭만을 무기의 코팅에 담아 표현했다.	Traveling the lands with sword in hand has been a romantic fantasy of Shuozhou stories throughout the ages. The Shuozhou designers captured this distinctive spirit in the weapon's finish.						0	
+skin50009_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin60001	测试皮肤1										1000	
+skin60001_des	测试皮肤1描述										1000	
+skin60001_use	临时获取途径										1000	
+skin70001	恒冰眷侣	恆冰眷侶	恒氷の恋人	영원한 반려자	Permafrost Lovers						0	
+skin70001_des	以冰与花为主题，清冷而优雅的定制涂装，象征心意永恒	以冰與花為主題，清冷而優雅的訂製塗裝，象徵心意永恆	氷と花をテーマにしたクールでエレガントな塗装。不変の気持ちを象徴する。	얼음과 꽃을 모티브로 한 시원하고 우아한 도장 디자인으로 영원한 마음을 상징한다.	A custom paintjob with the themes of ice and flowers. Its cool elegance symbolizes an eternal love.						0	
+skin70001_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin70002	心悦魔法	心悅魔法	ラブマジック	설렘의 마법	Love Spell						0	3.4枪皮
+skin70002_des	以魔法为灵感设计全新涂装，魔法美好又奇妙的幻想在枪身上跃然显现	以魔法為靈感設計的全新塗裝，魔法美好又奇妙的幻想在槍身上躍然顯現	魔法をモチーフにした新塗装、銃身に美しく不思議な魔法の幻想が広がる。	마법에서 영감받은 최신 도장으로, 마법의 아름답고 신비한 환상을 총신에 가지런히 펼쳐 보인다.	This magic-inspired skin transforms the weapon into a canvas of enchanting and delightful fantasies.						0	3.4枪皮
+skin70002_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.4枪皮
+skin70003	魅银华饰	魅銀華飾	シルバーアリュール	실버 그랜저	Silver Grandeur						0	
+skin70003_des	简约的配饰组合出最富丽的气质，低调，奢华，浪漫在一把武器上完全体现	簡約的配飾組合出最富麗的氣質，低調，奢華，浪漫在一把武器上完全體現	シンプルなアクセサリーの組み合わせが、華やかな雰囲気を引き立てる。控えめさと豪奢さ、そしてロマンがこれ一つに凝縮された。	가장 간단한 액세서리로 가장 화려한 분위기를 완성하면서 절제된 화려함을 한 자루의 무기에 담아냈다.	Minimalist adornments combine elegantly to give the gun a most resplendent character, where subtlety, luxury, and romance are fully expressed.						0	
+skin70003_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin70004	玉盘寻鲜										0	3.7枪皮
+skin70004_des	被誉为最接地气的涂装设计，完美融合了民以食为天的朔州文化										0	3.7枪皮
+skin70004_use	通过供应站购买获得										0	3.7枪皮
+skin80001	终古比翼	終古比翼	久遠の比翼	영원한 동행	Bond Eternal						0	
+skin80001_des	设计灵感源于朔州流传数千年的爱情传说的定制涂装，意指守护所爱之人	設計靈感源於朔州流傳數千年的愛情傳說的訂製塗裝，意指守護所愛之人	朔州で数千年にわたって語り継がれてきた恋物語に由来するカスタム塗装。愛する人を守るという意味が込められている。	삭주에서 수천 년간 전해 내려오는 사랑의 전설에서 영감을 받은 맞춤형 도장 디자인은 사랑하는 사람을 보호하겠다는 의미를 지니고 있다.	The inspiration for this design comes from a legendary love story in Shuozhou, representing the act of protecting those cherished.						0	
+skin80001_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin80002	灵跃心弦	靈躍心弦	踊る心音	심금의 울림	Heartstring Echo						0	
+skin80002_des	意在结合传统风格和现代流行元素的定制涂装，由于设计复杂，定制周期比较长	結合傳統風格與現代流行元素的訂製塗裝，因設計精緻複雜，定製週期較長	伝統的な様式と現代のトレンドを融合させたカスタム塗装。緻密なデザインゆえに、完成までには時間を要する。	전통적인 스타일과 현대적이고 대중적인 요소를 결합한 커스텀 문양이다. 복잡한 디자인으로 인해 제작 주기가 비교적 길다.	A bespoke finish that blends classic charm and modern flair — its intricate design means an extended production timeline.						0	
+skin80002_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin90001	千雪诉情	千雪訴情	銀翼の恋慕	설렘의 바운스	Avalanche Heartbeat						0	3.0枪皮
+skin90001_des	被风雪纹样包裹的枪体，以永不停歇的轮回和冻结时间的意象表现“不渝”的主题	被風雪紋樣包裹的槍體，以永不停歇的輪回和凍結時間的意象表現「不渝」的主題	吹雪の紋様が銃身を彩り、終わりなき輪廻と凍結された時間をモチーフに「不変の誓い」を象徴している。	눈보라 문양으로 감싸인 총신은 끝없는 윤회와 동결된 시간을 상징으로 '불변'의 주제를 구현했다.	Encased in blizzard-patterned plating, this design evokes eternal cycles and frozen time, delivering a message of unwavering resolve.						0	3.0枪皮
+skin90001_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0枪皮
+skin90002	幻蝶之引	幻蝶之引	フェアリス	나비의 안내	Winged Snare						0	3.3枪皮
+skin90002_des	以极致流畅的线条勾勒大众印象的幻想元素，突显优雅，但不会有距离感	以極致流暢的線條勾勒大眾印象的幻想元素，突顯優雅，但不會有距離感	最もシンプルなラインで幻想的な輝きを描き、優雅で魅惑的な美しさを放つ。	극도로 매끄러운 라인을 통해 대중이 인식하는 환상적인 요소를 그려내어, 우아함이 두드러지면서도 거리감이 느껴지지 않는다.	Dreamlike elements are rendered in flawlessly flowing lines, highlighting an elegance that attracts one's gaze.						0	3.3枪皮
+skin90002_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.3枪皮
+skin100001	钻光礼赞	鑽光禮讚	宝石ノ賛歌	보석의 예찬	Diamond Oath						0	3.5枪皮
+skin100001_des	点缀了各种对爱情祝福的花卉与钻石，赠与最爱之人永恒的誓言	點綴了各種對愛情祝福的花卉與鑽石，贈與最愛之人永恆的誓言	愛の祝福を込めた花々と輝くダイヤモンドが彩る、最愛の人へ捧げる永遠の誓いの証。	사랑의 축복을 기원하는 다양한 꽃과 다이아몬드가 장식되어 있다. 가장 사랑하는 사람에게 선물하는 영원한 서약이다.	Embellished with blooms and diamonds celebrating love, it conveys an eternal pledge to the one dearest to the girl's heart.						0	3.5枪皮
+skin100001_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5枪皮
+skin110001	星羽倾慕										0	3.7枪皮
+skin110001_des	爱如羽翼相随，似星辰永恒。这不只是涂装，更是永续的深情										0	3.7枪皮
+skin110001_use	通过供应站购买获得										0	3.7枪皮

@@ -1,0 +1,3 @@
+﻿Id	类型	说明	美宣图	Spine资源Key
+ActId	ActType	Intro	Img	SpineResKey
+5	1	ui.TxtNewTaskTips	1602045	

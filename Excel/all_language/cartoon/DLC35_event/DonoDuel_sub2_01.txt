@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	咣！	咣！	ガンッ！	쾅!	BAM!						0	3.5版本多诺巅峰对决剧情
+page1.2	估计安卡希雅又给了培养多诺卡的机器一记回旋踢。	安卡希雅大概是又給了培養多諾卡的機器一記迴旋踢。	またアカシアが、DOROカード育成マシンに回し蹴りでも入れたのだろう。	아카시아가 도노 카드 육성 기계에 또 돌려차기를 날린 것 같다.	It sounded like Acacia had just delivered another spinning kick to the Dono card machine.						0	3.5版本多诺巅峰对决剧情
+page1.3	你不会是在修理这台机器吧……	你不會是在修理這台機器吧……	まさか、それでマシンを直しているわけじゃないだろうな。	설마 기계를 수리하고 있는 건 아닐 테고…	Don't tell me that's how you're fixing it...						0	3.5版本多诺巅峰对决剧情
+page1.4	亲爱的很懂嘛，没错，这是一种古法机械复原术，是修理机械最简单快速的办法。	親愛的很懂嘛，沒錯，這是一種古法機械復原術，是修理機械最簡單快速的辦法。	さすがあなた、その通り。古式の「機械復元術」で一番早く直るんだ。	역시 뭘 좀 아네. 맞아, 이건 고대부터 전해져 온 기계 복구 방법이야. 기계를 수리하는 가장 간단하고도 빠른 방법이지.	You guessed it. Yep, this is an ancient restoration technique — the simplest and fastest repair trick.						0	3.5版本多诺巅峰对决剧情
+page1.5	我的礼品盒一直卡在里面，我只能用上这个禁忌的方法了。	我的禮品盒一直卡在裡面，我只能用上這個禁忌的方法了。	景品ボックスがずっと詰まっててね、この禁断の手を使うしかなかったの。	네 선물 상자가 안에서 끼어 버리는 바람에, 금지된 방법을 쓸 수밖에 없었어.	My gift box got stuck in there, so I had no choice but to use this secret trick.						0	3.5版本多诺巅峰对决剧情
+page1.6	就在安卡希雅刚和我解释完之后，机器发出不和谐的链条拉扯音。	就在安卡希雅剛和我解釋完之後，機器發出不和諧的鏈條拉扯聲。	説明が終わった途端、マシンの中からギチギチと嫌なチェーン音が鳴り始める。	아카시아가 설명을 끝내기 무섭게, 기계에서 조화롭지 못한 체인 소리가 울려 퍼졌다.	Just as Acacia finished explaining, the machine let out a harsh, grating clatter of chains.						0	3.5版本多诺巅峰对决剧情
+page1.7	在喷出了一团似有还无的薄烟之后，一个小小的礼品盒掉落在地上。	在噴出了一團似有若無的薄煙之後，一個小小的禮品盒掉落在地上。	うっすら煙を噴き出したあと、小さな景品箱がぽとりと床に落ちる。	그러고는 희미한 연기가 뿜어져 나오더니, 작은 선물 상자가 바닥에 떨어졌다.	After puffing out a faint wisp of smoke, a small box dropped to the floor.						0	3.5版本多诺巅峰对决剧情
+page1.8	所以这算是修好了？	所以這算是修好了？	つまり、直ったってことでいいのか？	이건 고쳐진 거라고 봐야 하나?	Does that mean it's fixed?						0	3.5版本多诺巅峰对决剧情
+page1.9	急救算是成功了，不过还得联系卡罗琳帮我对它进行系统性的治疗。	急救算是成功了，不過還得聯絡卡羅琳幫我對它進行系統性的治療。	応急処置は成功、ってところかな。でも後でカロリンに連絡して、ちゃんと診てもらわないと。	응급 처치는 끝냈지만, 그래도 캐롤린한테 연락해서 시스템상으로 치료 좀 해달라고 해야겠어.	It's only emergency treatment. I still need to ask Caroline to help me give it a proper checkup.						0	3.5版本多诺巅峰对决剧情
+page1.10	所以，这个东西这是？	所以，這個東西這是？	で、その箱は何なんだ？	그래서, 이건 뭐야?	So, what's this thing?						0	3.5版本多诺巅峰对决剧情
+page1.11	锵锵，这就是我为了亲爱的提供的独家礼品——多诺卡培养奖励！	鏘鏘，這就是我為了親愛的提供的獨家禮品——多諾卡培養獎勵！	じゃじゃーん、これはあなた専用のスペシャルギフト――DOROカード育成ボーナスだよ！	짜잔, 바로 내가 자기한테만 주는 특별 선물, 도노 카드 육성 보상이야!	Tada! This is something I prepared just for you, darling — Dono upgrade reward!						0	3.5版本多诺巅峰对决剧情
+page1.12	每当亲爱的为多诺卡提升潜能、星级，让其符合一定的标准后，都可以获得相应的培养奖励。	每當親愛的為多諾卡提升潛能、星級，讓其符合一定的標準後，都可以獲得相應的培養獎勵。	あなたがDOROカードの潜在能力や星ランクを一定値まで育てるたびに、その分のご褒美がもらえるの。	도노 카드의 잠재력과 성급을 올려서 일정 기준을 달성할 때마다 육성 보상을 획득할 수 있지.	Whenever you raise Dono cards' potential or star level to meet certain standards, you'll receive some rewards.						0	3.5版本多诺巅峰对决剧情
+page1.13	我拿到的也是这个吗？	我拿到的也是這個嗎？	私がもらえるのも、これってことか？	내가 받은 것도 그거야?	Like this here?						0	3.5版本多诺巅峰对决剧情
+page1.14	我指了指安卡希雅手中的小礼盒。	我指了指安卡希雅手中的小禮盒。	アカシアの手の中の小さなギフトボックスを指さした。	나는 아카시아 손에 들린 작은 선물함을 가리켰다.	I pointed at the little box in her hand.						0	3.5版本多诺巅峰对决剧情
+page1.15	哦，那不是。这是我为了仪式感，仅作表演和展示的道具而已。	哦，那不是。這是我為了儀式感，僅作表演和展示的道具而已。	あ、それは違うよ。これは「儀式感」のためだけの見せ道具だから。	앗, 아니. 이건 그냥 분위기 살리려고 준비해뒀어. 연출이나 보여주기 용도로 준비한 소품이지.	Oh, not really. This is just a prop make the moment feel special.						0	3.5版本多诺巅峰对决剧情

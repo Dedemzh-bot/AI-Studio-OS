@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	芬妮，今天你不是休息吗，怎么坐在这里？	芬妮，你今天不是休息嗎，怎麼會坐在這？	ファニー、今日は休みじゃないのか？なんでこんなところに座ってるんだ。	페니, 오늘 쉬는 날 아니야? 왜 여기에 앉아 있어?	Fenny, don't you have the day off? Why are you sitting here?						0	
+page0.2	等人啊。	等人啊。	人を待ってるの。	누구 좀 기다리고 있었어.	I'm waiting for someone.						0	
+page0.3	行啦，跟我走吧。	好啦，跟我走吧。	よし、行きましょ。	이제 됐어, 날 따라 와.	Alright. Let's go.						0	
+page0.4	啊？去哪里？	走？走去哪？	え？どこへ？	응? 어디 가는데?	Huh? Where?						0	
+page0.5	陪我逛街啊。	陪我逛街啊。	あたしと買い物よ。	나랑 쇼핑하자.	Let's go shopping.						0	
+page0.6	所以，你是在等我？	所以你是在等我？	ということは、私を待ってたのか？	그래서, 날 기다리고 있었던 거야?	So you were waiting for me?						0	
+page0.7	可以说是，也可以说不是。	可以說是，也可以說不是。	んー……そうだけど、違うとも言えるわ。	그렇기도 하고, 아니기도 하고.	Yes, and no.						0	
+page0.8	我刚刚看的“今日运势”，我在大厅等到的第一个人，会给我带来好运。	我剛剛看了「今日運勢」，我在大廳等到的第一個人會為我帶來好運。	さっき見た「今日の運勢」によると、ロビーで初めて会った人が、あたしに幸運をもたらすんだって。	방금 '오늘의 운세'를 봤는데, 로비에서 처음 만난 사람이 나에게 행운을 가져다줄 거래.	My "Daily Fortune" said the first person I met in the hall would bring me good luck.						0	
+page0.9	正好，最近我很想去试试化妆品扭蛋，正好等到了你。	最近我很想去試試化妝品轉蛋，正好就等到你了。	ちょうど最近化粧品のガチャが気になっててね。で、分析員が来たってわけ。	마침 화장품 뽑기를 해보고 싶었는데, 딱 널 만난 거지.	This is perfect — I've been wanting to try out a cosmetics gachapon, and you're the one who showed up.						0	
+page0.10	用你给我带来的好运，一定能扭到绝版~	用你幫我帶來的好運，絕對能轉到絕版貨！	分析員がくれる幸運で、もうどこにも売ってないレア物を引いてやるわよ～！	네가 행운을 가져왔으니, 한정판을 뽑을 수 있을 것 같아~	With you as my good-luck charm, I'll totally be able to draw something super rare~						0	
+page0.11	今天休息的应该只有我们两个吧？所以会出现在大厅的……	今天休息的應該也只有我們兩人吧？所以會出現在大廳的……	今日休みの人は私たち二人だけだよね？だからロビーに現れる人は……	오늘 쉬는 사람은 우리 둘뿐이잖아? 그러니 로비에 나타날 사람은…	I think we're the only ones off today, right? So of course I would be the one to show up in the hall...						0	
+page0.12	别废话了，快走快走，不然好运就溜走啦。	少說廢話了，快走快走～不然好運要溜走啦。	ごちゃごちゃ言わないの。早く行きましょ、幸運が逃げるわよ。	쓸데없는 소리 하지 말고 빨리 가자. 안 그러면 행운이 달아나 버릴 거야.	Alright, that's enough chitchat. Hurry up or we're going to lose all our good luck.						0	

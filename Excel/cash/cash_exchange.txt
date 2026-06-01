@@ -1,0 +1,4 @@
+置换货币CashID	置换目标货币CashID	汇率，即一单位置换货币可以获得多少置换目标货币	需要跳转到商店的某个页面置换，对应shop_tab中的ID，可以为空	需要跳转到商城的某个页面置换，对应ibshoptab中的WidgetType，可以为空
+Exchage	BeEchanged	Rate	Shop	Mall
+	1			2
+	2			6

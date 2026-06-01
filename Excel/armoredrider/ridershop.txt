@@ -1,0 +1,124 @@
+﻿ID	商品类型（1.buff 2.全局道具 3.防线 4.回复 5.数值碎片宝箱,6.具体碎片 1001-1008武器类型，2001-2004发电机类型）	商品图片	商品标签（1-5（全局/武器/发电机/角色/子弹），6-10（伤害/增益/治疗/衍生/其他），11-14（自动/控制/DOT/随机））	商品名称	商品描述	商品价格	商品复购增加价格	作用对象（1.我方 2.发电机 3.敌人）	商品效果	商品效果（调用蓝图文件参数）	参数名（AddBuffToPlayer/AddBuffToArmor/AddOneArmorGun/UpgradeWeapon）	参数数值	商品权重	商品刷新后增加权重	商品出现前置道具	商品限购次数（0不限购 ，1及以上限购）	商品价值	商品稀有度(1.普通 2稀有 3罕见 4传说)	商品角标(0.不需要 1.实弹 2.能量 3.通用)
+ID	ItemType	ItemPic	ItemTag	ItemName	Itemdes	Itemprice	ReapeatPrice	ReferActor	ItemBuff	ItemEff	ItemFunc	FuncParam	ItemWeight	ItemWeightAdd	ItemNeed	ItemBuyLimit	ItemPrice	ValueLevel	ItemLittleTag
+1001	1001	1546054	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName01	armoredrider.ArmoredRiderWeaponshopDes01	100	0	1	1001	1001	AddOneArmorGun	{1005}	30000	100		1	0	2	0
+1002	1001	1546055	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName02	armoredrider.ArmoredRiderWeaponshopDes02	100	0	1		1002	UpgradeWeapon	{1005}	30000	0	{1001}	1	0	3	0
+1003	1001	1546056	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName03	armoredrider.ArmoredRiderWeaponshopDes03	100	0	1		1003	UpgradeWeapon	{1005}	30000	0	{1002}	1	0	4	0
+1004	1002	1546051	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName04	armoredrider.ArmoredRiderWeaponshopDes04	100	0	1	1001	1001	AddOneArmorGun	{1002}	30000	100		1	0	2	0
+1005	1002	1546052	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName05	armoredrider.ArmoredRiderWeaponshopDes05	100	0	1		1002	UpgradeWeapon	{1002}	30000	0	{1004}	1	0	3	0
+1006	1002	1546053	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName06	armoredrider.ArmoredRiderWeaponshopDes06	100	0	1		1003	UpgradeWeapon	{1002}	30000	0	{1005}	1	0	4	0
+1007	1003	1546069	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName07	armoredrider.ArmoredRiderWeaponshopDes07	100	0	1	1001	1001	AddOneArmorGun	{1001}	30000	100		1	0	2	0
+1008	1003	1546070	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName08	armoredrider.ArmoredRiderWeaponshopDes08	100	0	1		1002	UpgradeWeapon	{1001}	30000	0	{1007}	1	0	3	0
+1009	1003	1546071	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName09	armoredrider.ArmoredRiderWeaponshopDes09	100	0	1		1003	UpgradeWeapon	{1001}	30000	0	{1008}	1	0	4	0
+1010	1004	1546057	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName10	armoredrider.ArmoredRiderWeaponshopDes10	100	0	1	1001	1001	AddOneArmorGun	{1004}	30000	100		1	0	2	0
+1011	1004	1546058	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName11	armoredrider.ArmoredRiderWeaponshopDes11	100	0	1		1002	UpgradeWeapon	{1004}	30000	0	{1010}	1	0	3	0
+1012	1004	1546059	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName12	armoredrider.ArmoredRiderWeaponshopDes12	100	0	1		1003	UpgradeWeapon	{1004}	30000	0	{1011}	1	0	4	0
+1013	1005	1546048	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName13	armoredrider.ArmoredRiderWeaponshopDes13	100	0	1	1001	1001	AddOneArmorGun	{1007}	30000	100		1	0	2	0
+1014	1005	1546049	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName14	armoredrider.ArmoredRiderWeaponshopDes14	100	0	1		1002	UpgradeWeapon	{1007}	30000	0	{1013}	1	0	3	0
+1015	1005	1546050	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName15	armoredrider.ArmoredRiderWeaponshopDes15	100	0	1		1003	UpgradeWeapon	{1007}	30000	0	{1014}	1	0	4	0
+1016	1006	1546060	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName16	armoredrider.ArmoredRiderWeaponshopDes16	100	0	1	1001	1001	AddOneArmorGun	{1003}	30000	100		1	0	2	0
+1017	1006	1546061	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName17	armoredrider.ArmoredRiderWeaponshopDes17	100	0	1		1002	UpgradeWeapon	{1003}	30000	0	{1016}	1	0	3	0
+1018	1006	1546062	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName18	armoredrider.ArmoredRiderWeaponshopDes18	100	0	1		1003	UpgradeWeapon	{1003}	30000	0	{1017}	1	0	4	0
+1019	1007	1546063	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName19	armoredrider.ArmoredRiderWeaponshopDes19	100	0	1	1001	1001	AddOneArmorGun	{1008}	30000	100		1	0	2	0
+1020	1007	1546064	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName20	armoredrider.ArmoredRiderWeaponshopDes20	100	0	1		1002	UpgradeWeapon	{1008}	30000	0	{1019}	1	0	3	0
+1021	1007	1546065	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName21	armoredrider.ArmoredRiderWeaponshopDes21	100	0	1		1003	UpgradeWeapon	{1008}	30000	0	{1020}	1	0	4	0
+1022	1008	1546066	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName22	armoredrider.ArmoredRiderWeaponshopDes22	100	0	1	1001	1001	AddOneArmorGun	{1006}	30000	100		1	0	2	0
+1023	1008	1546067	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName23	armoredrider.ArmoredRiderWeaponshopDes23	100	0	1		1002	UpgradeWeapon	{1006}	30000	0	{1022}	1	0	3	0
+1024	1008	1546068	{1,6,9}	armoredrider.ArmoredRiderWeaponshopName24	armoredrider.ArmoredRiderWeaponshopDes24	100	0	1		1003	UpgradeWeapon	{1006}	30000	0	{1023}	1	0	4	0
+2001	2001	1546073	{2,9}	armoredrider.ArmoredRiderWeaponshopName25	armoredrider.ArmoredRiderWeaponshopDes25	1000	0	2		2001	DeploymentMachine	{"/Game/Blueprints/ArmoredRider/Monster/ArmoredRiderDefendTarget_ChargeStation.ArmoredRiderDefendTarget_ChargeStation"}	20000	0		0	0	2	0
+2002	2002	1546074	{2,9}	armoredrider.ArmoredRiderWeaponshopName26	armoredrider.ArmoredRiderWeaponshopDes26	1000	0	2		2002	DeploymentMachine	{"/Game/Blueprints/ArmoredRider/Monster/ArmoredRiderDefendTarget_Flamethrower.ArmoredRiderDefendTarget_Flamethrower"}	20000	0		0	0	2	0
+2003	2003	1546075	{2,9}	armoredrider.ArmoredRiderWeaponshopName27	armoredrider.ArmoredRiderWeaponshopDes27	1000	0	2		2003	DeploymentMachine	{"/Game/Blueprints/ArmoredRider/Monster/ArmoredRiderDefendTarget_MachineGun.ArmoredRiderDefendTarget_MachineGun"}	20000	0		0	0	2	0
+2004	2004	1546076	{2,9}	armoredrider.ArmoredRiderWeaponshopName28	armoredrider.ArmoredRiderWeaponshopDes28	1000	0	2		2004	DeploymentMachine	{"/Game/Blueprints/ArmoredRider/Monster/ArmoredRiderDefendTarget_MissileLauncher.ArmoredRiderDefendTarget_MissileLauncher"}	20000	0		0	0	2	0
+1	1	1546001	{5,7}	armoredrider.ArmoredRiderWeaponshopName38	armoredrider.Levelbuffdes20	100	0	1			AddBuffToWeapon	{1}	10000	0		0	0	1	1
+2	1	1546002	{5,7}	armoredrider.ArmoredRiderWeaponshopName39	armoredrider.Levelbuffdes21	100	0	1			AddBuffToWeapon	{2}	100000	0		0	0	1	1
+3	1	1546003	{5,7}	armoredrider.ArmoredRiderWeaponshopName40	armoredrider.Levelbuffdes22	100	0	1			AddBuffToWeapon	{3}	10000	0		0	0	1	1
+4	1	1546004	{5,7,11}	armoredrider.ArmoredRiderWeaponshopName41	armoredrider.Levelbuffdes23	100	0	1			AddBuffToWeapon	{4}	10000	0		0	0	1	1
+5	1	1546040	{5,6,13}	armoredrider.ArmoredRiderWeaponshopName42	armoredrider.Levelbuffdes24	100	0	1			AddBuffToWeapon	{5}	10000	0		0	0	1	1
+6	1	1546006	{5,7}	armoredrider.ArmoredRiderWeaponshopName43	armoredrider.Levelbuffdes25	100	0	1			AddBuffToWeapon	{6}	10000	0		0	0	1	1
+7	1	1546007	{5,6}	armoredrider.ArmoredRiderWeaponshopName44	armoredrider.Levelbuffdes26	100	0	1			AddBuffToWeapon	{7}	10000	0		0	0	1	1
+8	1	1546023	{5,9}	armoredrider.ArmoredRiderWeaponshopName45	armoredrider.Levelbuffdes27	100	0	1			AddBuffToWeapon	{8}	100000	0		0	0	1	1
+9	1	1546024	{5,9}	armoredrider.ArmoredRiderWeaponshopName46	armoredrider.Levelbuffdes28	100	0	1			AddBuffToWeapon	{9}	10000	0		0	0	1	1
+10	1	1546025	{5,9}	armoredrider.ArmoredRiderWeaponshopName47	armoredrider.Levelbuffdes29	100	0	1			AddBuffToWeapon	{10}	10000	0		0	0	1	1
+11	1	1546026	{5,9}	armoredrider.ArmoredRiderWeaponshopName48	armoredrider.Levelbuffdes30	100	0	1			AddBuffToWeapon	{11}	10000	0		0	0	1	1
+12	1	1546008	{5,6,11}	armoredrider.ArmoredRiderWeaponshopName49	armoredrider.Levelbuffdes31	100	0	1			AddBuffToWeapon	{12}	10000	0		0	0	1	2
+13	1	1546009	{5,13}	armoredrider.ArmoredRiderWeaponshopName50	armoredrider.Levelbuffdes32	100	0	1			AddBuffToWeapon	{13}	10000	0		0	0	1	2
+14	1	1546010	{5,7}	armoredrider.ArmoredRiderWeaponshopName51	armoredrider.Levelbuffdes33	100	0	1			AddBuffToWeapon	{14}	10000	0		0	0	1	2
+15	1	1546038	{5,7,13}	armoredrider.ArmoredRiderWeaponshopName52	armoredrider.Levelbuffdes34	100	0	1			AddBuffToWeapon	{15}	10000	0		0	0	1	2
+16	1	1546031	{5,9,11}	armoredrider.ArmoredRiderWeaponshopName53	armoredrider.Levelbuffdes35	100	0	1			AddBuffToWeapon	{16}	10000	0		0	0	1	2
+17	1	1546032	{5,9,11}	armoredrider.ArmoredRiderWeaponshopName54	armoredrider.Levelbuffdes36	100	0	1			AddBuffToWeapon	{17}	10000	0		0	0	1	2
+18	1	1546033	{5,9,11}	armoredrider.ArmoredRiderWeaponshopName55	armoredrider.Levelbuffdes37	100	0	1			AddBuffToWeapon	{18}	10000	0		0	0	1	2
+19	1	1546019	{2,7}	armoredrider.ArmoredRiderWeaponshopName56	armoredrider.Levelbuffdes38	100	0	1			AddBuffToWeapon	{19}	10000	0		0	0	1	3
+20	1	1546020	{2,7}	armoredrider.ArmoredRiderWeaponshopName57	armoredrider.Levelbuffdes39	100	0	1			AddBuffToWeapon	{20}	10000	0		0	0	1	3
+21	1	1546012	{5,10}	armoredrider.ArmoredRiderWeaponshopName58	armoredrider.Levelbuffdes40	100	0	1			AddBuffToWeapon	{21}	10000	0		0	0	1	3
+22	1	1546034	{4,10}	armoredrider.ArmoredRiderWeaponshopName59	armoredrider.Levelbuffdes41	100	0	1			AddBuffToWeapon	{22}	10000	0		0	0	1	3
+23	1	1546044	{5,10,11}	armoredrider.ArmoredRiderWeaponshopName60	armoredrider.Levelbuffdes42	100	0	1			AddBuffToWeapon	{23}	10000	0		0	0	1	3
+24	1	1546035	{3,8,11}	armoredrider.ArmoredRiderWeaponshopName61	armoredrider.Levelbuffdes43	100	0	1			AddBuffToWeapon	{24}	10000	0		0	0	1	3
+25	1	1546046	{10}	armoredrider.ArmoredRiderWeaponshopName62	armoredrider.Levelbuffdes44	100	0	1			AddBuffToWeapon	{25}	10000	0		0	0	1	3
+26	1	1546014	{5,7}	armoredrider.ArmoredRiderWeaponshopName63	armoredrider.Levelbuffdes45	100	0	1			AddBuffToWeapon	{26}	10000	0		0	0	1	3
+27	1	1546015	{5,6}	armoredrider.ArmoredRiderWeaponshopName64	armoredrider.Levelbuffdes46	100	0	1			AddBuffToWeapon	{27}	10000	0		0	0	1	3
+28	1	1546045	{4,10}	armoredrider.ArmoredRiderWeaponshopName65	armoredrider.Levelbuffdes47	100	0	1			AddBuffToWeapon	{28}	10000	0		0	0	1	3
+29	1	1546016	{5,10}	armoredrider.ArmoredRiderWeaponshopName66	armoredrider.Levelbuffdes48	100	0	1			AddBuffToWeapon	{29}	10000	0		0	0	1	3
+30	1	1546017	{5,12}	armoredrider.ArmoredRiderWeaponshopName67	armoredrider.Levelbuffdes49	100	0	1			AddBuffToWeapon	{30}	10000	0		0	0	1	3
+31	1	1546021	{2,7}	armoredrider.ArmoredRiderWeaponshopName68	armoredrider.Levelbuffdes50	100	0	1			AddBuffToWeapon	{31}	10000	0		0	0	1	3
+32	1	1546044	{5,11,12}	armoredrider.ArmoredRiderWeaponshopName69	armoredrider.Levelbuffdes51	100	0	1			AddBuffToWeapon	{32}	10000	0		0	0	1	3
+33	1	1546037	{5,7,13}	armoredrider.ArmoredRiderWeaponshopName70	armoredrider.Levelbuffdes52	100	0	1			AddBuffToWeapon	{33}	10000	0		0	0	1	3
+34	1	1546018	{5,7}	armoredrider.ArmoredRiderWeaponshopName71	armoredrider.Levelbuffdes53	100	0	1			AddBuffToWeapon	{34}	10000	0		0	0	1	3
+35	1	1546039	{5,6,13}	armoredrider.ArmoredRiderWeaponshopName72	armoredrider.Levelbuffdes54	100	0	1			AddBuffToWeapon	{35}	10000	0		0	0	1	3
+36	1	1546027	{2,7}	armoredrider.ArmoredRiderWeaponshopName73	armoredrider.Levelbuffdes55	100	0	1			AddBuffToWeapon	{36}	10000	0		0	0	1	3
+37	2	1546047	{1,7}	armoredrider.ArmoredRiderWeaponshopName74	armoredrider.Levelbuffdes56	100	0	1			AddBuffToWeapon	{37}	10000	0		0	0	1	0
+38	2	1546047	{1,7}	armoredrider.ArmoredRiderWeaponshopName75	armoredrider.Levelbuffdes57	100	0	1			AddBuffToWeapon	{38}	10000	0		0	0	1	0
+39	2	1546047	{1,10}	armoredrider.ArmoredRiderWeaponshopName76	armoredrider.Levelbuffdes58	100	0	1			AddBuffToWeapon	{39}	10000	0		0	0	1	0
+40	2	1546047	{1,11}	armoredrider.ArmoredRiderWeaponshopName77	armoredrider.Levelbuffdes59	100	0	1			AddBuffToWeapon	{40}	10000	0		0	0	1	0
+41	2	1546047	{1,6,12}	armoredrider.ArmoredRiderWeaponshopName78	armoredrider.Levelbuffdes60	100	0	1			AddBuffToWeapon	{71}	10000	0		0	0	1	0
+42	2	1546047	{1,2,10}	armoredrider.ArmoredRiderWeaponshopName79	armoredrider.Levelbuffdes61	100	0	1			AddBuffToWeapon	{72}	10000	0		0	0	1	0
+43	2	1546047	{1,10}	armoredrider.ArmoredRiderWeaponshopName80	armoredrider.Levelbuffdes62	100	0	1			AddBuffToWeapon	{73}	10000	0		0	0	1	0
+44	2	1546047	{1,12,13}	armoredrider.ArmoredRiderWeaponshopName81	armoredrider.Levelbuffdes63	100	0	1			AddBuffToWeapon	{57}	10000	0		0	0	1	0
+45	2	1546047	{1,7}	armoredrider.ArmoredRiderWeaponshopName82	armoredrider.Levelbuffdes64	100	0	1			AddBuffToWeapon	{58}	10000	0		0	0	1	0
+46	2	1546047	{1,4,7}	armoredrider.ArmoredRiderWeaponshopName83	armoredrider.Levelbuffdes65	100	0	1			AddBuffToWeapon	{59}	10000	0		0	0	1	0
+47	2	1546047	{1,3,10}	armoredrider.ArmoredRiderWeaponshopName84	armoredrider.Levelbuffdes66	100	0	1			AddBuffToWeapon	{60}	10000	0		0	0	1	0
+48	2	1546047	{1,4,7}	armoredrider.ArmoredRiderWeaponshopName85	armoredrider.Levelbuffdes67	100	0	1			AddBuffToWeapon	{61}	10000	0		0	0	1	0
+49	2	1546047	{1,10}	armoredrider.ArmoredRiderWeaponshopName86	armoredrider.Levelbuffdes68	100	0	1			AddBuffToWeapon	{62}	10000	0		0	0	1	0
+50	2	1546047	{1,2,6}	armoredrider.ArmoredRiderWeaponshopName87	armoredrider.Levelbuffdes69	100	0	1			AddBuffToWeapon	{64}	10000	0		0	0	1	0
+51	2	1546047	{1,10}	armoredrider.ArmoredRiderWeaponshopName88	armoredrider.Levelbuffdes70	100	0	1			AddBuffToWeapon	{63}	10000	0		0	0	1	0
+52	2	1546047	{1,2,14}	armoredrider.ArmoredRiderWeaponshopName89	armoredrider.Levelbuffdes71	100	0	1			AddBuffToWeapon	{65}	10000	0		0	0	1	0
+53	2	1546047	{1,3,10}	armoredrider.ArmoredRiderWeaponshopName90	armoredrider.Levelbuffdes72	100	0	1			AddBuffToWeapon	{66}	10000	0		0	0	1	0
+54	2	1546047	{1,10,14}	armoredrider.ArmoredRiderWeaponshopName92	armoredrider.Levelbuffdes74	100	0	1			AddBuffToWeapon	{77}	10000	0		0	0	1	0
+55	2	1546047	{1,7,14}	armoredrider.ArmoredRiderWeaponshopName93	armoredrider.Levelbuffdes75	100	0	1			AddBuffToWeapon	{78}	10000	0		0	0	1	0
+56	2	1546047	{1,7,13}	armoredrider.ArmoredRiderWeaponshopName94	armoredrider.Levelbuffdes76	100	0	1			AddBuffToWeapon	{74}	10000	0		0	0	1	0
+57	2	1546047	{1,10,13}	armoredrider.ArmoredRiderWeaponshopName95	armoredrider.Levelbuffdes77	100	0	1			AddBuffToWeapon	{75}	10000	0		0	0	1	0
+58	2	1546047	{1,3,12}	armoredrider.ArmoredRiderWeaponshopName96	armoredrider.Levelbuffdes78	100	0	1			AddBuffToWeapon	{76}	10000	0		0	0	1	0
+59	2	1546047	{1,6}	armoredrider.ArmoredRiderWeaponshopName97	armoredrider.Levelbuffdes79	100	0	1			AddBuffToWeapon	{67}	10000	0		0	0	1	0
+60	2	1546047	{1,10}	armoredrider.ArmoredRiderWeaponshopName98	armoredrider.Levelbuffdes80	100	0	1			AddBuffToWeapon	{68}	10000	0		0	0	1	0
+61	2	1546047	{1,4,7}	armoredrider.ArmoredRiderWeaponshopName99	armoredrider.Levelbuffdes81	100	0	1			AddBuffToWeapon	{69}	10000	0		0	0	1	0
+62	2	1546047	{1,4,7}	armoredrider.ArmoredRiderWeaponshopName100	armoredrider.Levelbuffdes82	100	0	1			AddBuffToWeapon	{70}	10000	0		0	0	1	0
+101	5	1546079	{1,7,14}	armoredrider.ArmoredRiderWeaponshopName35	armoredrider.Levelbuffdes114	100	0	1				{10101,10102,10103,10104,10105,10106,10107,10108,10109,10110,10111,10112,10201,10202,10203,10204,10205,10206,10207,10208,10209,10210,10211,10212}	10000	0		0	0	1	0
+102	5	1546080	{1,7,14}	armoredrider.ArmoredRiderWeaponshopName36	armoredrider.Levelbuffdes115	100	0	1				{10201,10202,10203,10204,10205,10206,10207,10208,10209,10210,10211,10212,10301,10302,10303,10304,10305,10306,10307,10308,10309}	10000	0		0	0	1	0
+103	5	1546081	{1,7,14}	armoredrider.ArmoredRiderWeaponshopName37	armoredrider.Levelbuffdes116	100	0	1				{10301,10302,10303,10304,10305,10306,10307,10308,10309}	10000	0		0	0	1	0
+10101	6			armoredrider.ArmoredRiderWeaponshopName101	armoredrider.Levelbuffdes83	100	0	1				{2001}	10000	0		0	0	1	0
+10102	6			armoredrider.ArmoredRiderWeaponshopName102	armoredrider.Levelbuffdes84	100	0	1				{2002}	10000	0		0	0	1	0
+10103	6			armoredrider.ArmoredRiderWeaponshopName103	armoredrider.Levelbuffdes85	100	0	1				{2003}	10000	0		0	0	1	0
+10104	6			armoredrider.ArmoredRiderWeaponshopName104	armoredrider.Levelbuffdes86	100	0	1				{2004}	10000	0		0	0	1	0
+10105	6			armoredrider.ArmoredRiderWeaponshopName105	armoredrider.Levelbuffdes87	100	0	1				{2005}	10000	0		0	0	1	0
+10106	6			armoredrider.ArmoredRiderWeaponshopName106	armoredrider.Levelbuffdes88	100	0	1				{2006}	10000	0		0	0	1	0
+10107	6			armoredrider.ArmoredRiderWeaponshopName107	armoredrider.Levelbuffdes89	100	0	1				{2007}	10000	0		0	0	1	0
+10108	6			armoredrider.ArmoredRiderWeaponshopName108	armoredrider.Levelbuffdes90	100	0	1				{2008}	10000	0		0	0	1	0
+10109	6			armoredrider.ArmoredRiderWeaponshopName109	armoredrider.Levelbuffdes91	100	0	1				{2009}	10000	0		0	0	1	0
+10110	6			armoredrider.ArmoredRiderWeaponshopName110	armoredrider.Levelbuffdes92	100	0	1				{2010}	10000	0		0	0	1	0
+10111	6			armoredrider.ArmoredRiderWeaponshopName111	armoredrider.Levelbuffdes93	100	0	1				{2011}	10000	0		0	0	1	0
+10112	6			armoredrider.ArmoredRiderWeaponshopName113	armoredrider.Levelbuffdes95	100	0	1				{2012}	10000	0		0	0	1	0
+10201	6			armoredrider.ArmoredRiderWeaponshopName114	armoredrider.Levelbuffdes96	100	0	1				{2013}	5000	0		0	0	1	0
+10202	6			armoredrider.ArmoredRiderWeaponshopName115	armoredrider.Levelbuffdes97	100	0	1				{2014}	5000	0		0	0	1	0
+10203	6			armoredrider.ArmoredRiderWeaponshopName116	armoredrider.Levelbuffdes98	100	0	1				{2015}	5000	0		0	0	1	0
+10204	6			armoredrider.ArmoredRiderWeaponshopName117	armoredrider.Levelbuffdes99	100	0	1				{2016}	5000	0		0	0	1	0
+10205	6			armoredrider.ArmoredRiderWeaponshopName118	armoredrider.Levelbuffdes100	100	0	1				{2017}	5000	0		0	0	1	0
+10206	6			armoredrider.ArmoredRiderWeaponshopName119	armoredrider.Levelbuffdes101	100	0	1				{2018}	5000	0		0	0	1	0
+10207	6			armoredrider.ArmoredRiderWeaponshopName120	armoredrider.Levelbuffdes102	100	0	1				{2019}	5000	0		0	0	1	0
+10208	6			armoredrider.ArmoredRiderWeaponshopName121	armoredrider.Levelbuffdes103	100	0	1				{2020}	5000	0		0	0	1	0
+10209	6			armoredrider.ArmoredRiderWeaponshopName122	armoredrider.Levelbuffdes104	100	0	1				{2021}	5000	0		0	0	1	0
+10210	6			armoredrider.ArmoredRiderWeaponshopName123	armoredrider.Levelbuffdes105	100	0	1				{2022}	5000	0		0	0	1	0
+10211	6			armoredrider.ArmoredRiderWeaponshopName124	armoredrider.Levelbuffdes106	100	0	1				{2023}	5000	0		0	0	1	0
+10212	6			armoredrider.ArmoredRiderWeaponshopName126	armoredrider.Levelbuffdes108	100	0	1				{2024}	5000	0		0	0	1	0
+10301	6			armoredrider.ArmoredRiderWeaponshopName127	armoredrider.Levelbuffdes109	100	0	1				{2025}	2000	0		0	0	1	0
+10302	6			armoredrider.ArmoredRiderWeaponshopName128	armoredrider.Levelbuffdes110	100	0	1				{2026}	2000	0		0	0	1	0
+10303	6			armoredrider.ArmoredRiderWeaponshopName129	armoredrider.Levelbuffdes111	100	0	1				{2027}	2000	0		0	0	1	0
+10304	6			armoredrider.ArmoredRiderWeaponshopName130	armoredrider.Levelbuffdes112	100	0	1				{2028}	2000	0		0	0	1	0
+10305	6			armoredrider.ArmoredRiderWeaponshopName131	armoredrider.Levelbuffdes113	100	0	1				{2029}	2000	0		0	0	1	0

@@ -1,0 +1,3 @@
+ID	备注	名称	属性(仅显示）	核心列表	部件槽位（{区域id，一级类型，槽位数量}）	在关卡中的等级
+ID	Comment	Name	Attribute	CoreList	ComponentColumn	Level
+1	3.2无人机	rogue3.uavName1	{Attack=5000,AlllEmentDamageBonus=0}	{1,2}	{{1,1,4},{2,2,5},{3,3,4},{4,3,4},{5,4,5},{6,1,4}}	80

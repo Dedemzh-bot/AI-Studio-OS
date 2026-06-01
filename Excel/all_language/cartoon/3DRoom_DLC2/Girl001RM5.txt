@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	奇怪……	奇怪……	おかしい。	이상하네…	Weird...						0	
+page0.2	安卡希雅？你在干什么啊？	安卡希雅？你在幹什麼啊？	アカシア？何してるの？	아카시아? 뭐 하고 있는 거야?	Acacia? What are you doing?						0	
+page0.3	在找东西。	在找東西。	探し物。プラモデルのパーツ。	물건을 찾고 있어.	I'm looking for something.						0	
+page0.4	一个拼装模型的配件，我房间里没有，就出来找了。	一個組裝模型的配件，我在房間裡沒找到，所以就出來找了。	部屋にないから、外を探してる。	모형 조립에 쓰이는 부품인데, 내 방에 없길래 찾으러 나왔어.	I'm missing a piece from a model in my room, so I came out to look for it.						0	
+page0.5	是什么啊？	是什麼配件啊？	どんなパーツ？	뭔데?	What is it?						0	
+page0.6	机甲关羽的激光青龙偃月刀。	機甲關羽的雷射青龍偃月刀。	機甲関羽のレーザー青龍偃月刀。	관우 기갑의 레이저 청룡언월도야.	The Blue Dragon Crescent Blade from my Guan Yu mech.						0	
+page0.7	这都什么跟什么啊……	這都什麼跟什麼啊……	えんげ……？なんなのそれ……	그게 뭔데…	The Blue Dragon what now...?						0	
+page0.8	你没看过《机动三国志》吗？	你沒看過《機動三國志》嗎？	『機動三国志』は観たことない？	'기동 삼국지' 본 적 없어?	You've never seen "Mechs of the Three Kingdoms"?						0	
+page0.10	应该是不久前播出的吧。	應該是不久前播出的吧。	放送してたのは最近だと思う。	얼마 전에 방송된 건데.	It came out not too long ago.						0	
+page0.11	不久前是……	不久前是……	え、最近？２ヶ月くらい前とか？	얼마 전이라는 게…	And "not too long ago" was...?						0	
+page0.12	13年前冬天。	13年前的冬天。	13年前の冬。	13년 전 겨울.	The winter 13 years ago.						0	
+page0.13	已经很久了好不好！	那就是很久之前了好不好！	13年前の冬！？	엄청 오래됐잖아!	That was a really long time ago, okay!?						0	
+page0.14	干嘛看那么早的剧啊？	幹嘛看那麼久之前的劇啊？	なんでそんな古いもの観るの？	왜 그렇게 오래된 작품들을 보는 거야?	Why are you watching such an old show?						0	
+page0.15	我的目标是三个月内把人工冬眠期间错过的动画漫画电影都补回来。	我的目標是三個月內把人工冬眠期間錯過的動畫漫畫電影都補回來。	人工冬眠中に見逃したアニメと漫画と映画、三ヶ月で全部履修するつもりだけど。	내 목표는 인공 수면 기간 동안 놓친 애니, 만화, 영화를 3개월 안에 모두 챙겨 보는 거야.	I missed a bunch of anime and movies while I was in cryosleep, so I'm trying to catch up on all of them in a span of three months.						0	
+page0.16	三个月补三十年的份……不愧是你。	三個月補三十年的量……不愧是你。	三ヶ月で三十年分……すごいな。	3개월 동안 30년 분량을… 정말 너답다.	Three months to make up for thirty years... I wouldn't expect any less from you.						0	
+page0.17	这附近也没有……	這附近也沒有……	この辺りにもない……	이 근처에는 없는 것 같아…	It's not here either...						0	
+page0.18	会不会有人捡到了？我帮你挂个失物招领吧。	會不會是有人撿到了？我幫你掛個失物招領吧。	誰かが拾ったのかもしれない。紛失届けを出そうか。	누가 주워간 게 아닐까? 분실물로 등록해 줄게.	What if someone picked it up? I'll check the lost and found.						0	
+page0.19	嗯，谢了。	嗯，謝了。	うん、そうする。	응, 고마워.	Alright, thanks.						0	

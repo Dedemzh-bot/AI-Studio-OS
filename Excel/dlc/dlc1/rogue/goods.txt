@@ -1,0 +1,60 @@
+﻿角色ID	注释（程序内不使用）	唯一（1为唯一出现，0为重复出现）	套组（用于buff分类成套）	Buff类型（1获得Modifire 2收益结算增加 3获得试用角色 4恢复行动力）	试用角色ID	SkillInfoId	收益结算增加百分比	价格	组别（用于buff图标归类）	图标	Buff名称	描述	描述备注	简略描述	在描述中的数值
+ID	Desc	Only	Sets	Type	TrialID	Modifire	Percent	Price	Group	Icon	BuffName	Desc	DescComment	SimpleDesc	BuffParamPerCount
+1001	安卡希雅-辉夜形态	1		3	100015			200			rogue.TxtShopRole	rogue.shoprole1			
+1002	安卡希雅-「不予显示」	1		3	100001			100			rogue.TxtShopRole	rogue.shoprole2			
+1003	鸣濑晴-旧日王牌	1		3	100007			100			rogue.TxtShopRole	rogue.shoprole3			
+1004	恩雅-姐姐大人	1		3	100013			100			rogue.TxtShopRole	rogue.shoprole4			
+1101	里芙-狂猎形态	1		3	103002			200			rogue.TxtShopRole	rogue.shoprole5			
+1102	里芙-星期三	1		3	100002			100			rogue.TxtShopRole	rogue.shoprole6			
+1103	琴诺-双面	1		3	100008			100			rogue.TxtShopRole	rogue.shoprole7			
+1104	猫汐尔	1		3	100016			100			rogue.TxtShopRole	rogue.shoprole8			
+1201	芙提雅-缄默形态	1		3	100014			200			rogue.TxtShopRole	rogue.shoprole9			
+1202	a姬辰星-云篆	1		3	103001			200			rogue.TxtShopRole	rogue.shoprole10			
+1203	芙提雅-小太阳	1		3	100004			100			rogue.TxtShopRole	rogue.shoprole11			
+1204	a姬辰星	1		3	103004			100			rogue.TxtShopRole	rogue.shoprole12			
+1301	芬妮-咎冠	1		3	100018			200			rogue.TxtShopRole	rogue.shoprole14			
+1302	芬妮-黄金狮子	1		3	100009			100			rogue.TxtShopRole	rogue.shoprole15			
+1303	妮塔-四手	1		3	100003			100			rogue.TxtShopRole	rogue.shoprole16			
+1304	瑟瑞斯	1		3	103003			100			rogue.TxtShopRole	rogue.shoprole17			
+1391	茉莉安-雨燕形态	1		3	100006			200			rogue.TxtShopRole	rogue.shoprole18			
+1392	肴-冬至形态	1		3	100017			200			rogue.TxtShopRole	rogue.shoprole19			
+1393	茉莉安-绷带小姐	1		3	100005			100			rogue.TxtShopRole	rogue.shoprole20			
+1401	肴-养生专家	1		3	103005			100			rogue.TxtShopRole	rogue.shoprole21			
+2001	恢复行动力	0		4				20		1001012	rogue.TxtShopMove	rogue.shopgoods2			
+2002	战斗后获得的货币增加	1		2			50	50		1001011	rogue.buffname32	rogue.buff32	战斗后获得的青蓝之羽提升{1}%（下个节点生效）	rogue.buff32	{50}
+3001	动能类型伤害提升60%	1		1		{8400012}		50		1001004	rogue.buffname33	rogue.buff33	动能类型伤害提升{1}%	rogue.buff33	{60}
+3002	高温类型伤害提升60%	1		1		{8400013}		50		1001004	rogue.buffname34	rogue.buff34	高温类型伤害提升{1}%	rogue.buff34	{60}
+3003	低温类型伤害提升60%	1		1		{8400014}		50		1001004	rogue.buffname35	rogue.buff35	低温类型伤害提升{1}%	rogue.buff35	{60}
+3004	异能类型伤害提升60%	1		1		{8400015}		50		1001004	rogue.buffname36	rogue.buff36	异能类型伤害提升{1}%	rogue.buff36	{60}
+3005	电击类型伤害提升60%	1		1		{8400016}		50		1001004	rogue.buffname37	rogue.buff37	电击类型伤害提升{1}%	rogue.buff37	{60}
+3006	所有元素类型的伤害增加75%	1		1		{8400017}		100		1001004	rogue.buffname38	rogue.buff38	所有元素类型的伤害增加{1}%	rogue.buff38	{75}
+3007	使用步枪的角色，造成的所有伤害70%	1		1		{8400061}		50		1001000	rogue.buffname39	rogue.buff39	使用步枪的角色，造成的所有伤害{1}%	rogue.buff39	{70}
+3008	使用冲锋枪的角色，造成的所有伤害70%	1		1		{8400062}		50		1001000	rogue.buffname40	rogue.buff40	使用冲锋枪的角色，造成的所有伤害{1}%	rogue.buff40	{70}
+3009	使用霰弹枪的角色，造成的所有伤害70%	1		1		{8400063}		50		1001000	rogue.buffname41	rogue.buff41	使用霰弹枪的角色，造成的所有伤害{1}%	rogue.buff41	{70}
+3010	使用狙击枪的角色，造成的所有伤害70%	1		1		{8400064}		50		1001000	rogue.buffname42	rogue.buff42	使用狙击枪的角色，造成的所有伤害{1}%	rogue.buff42	{70}
+3011	使用手枪的角色，造成的所有伤害70%	1		1		{8400065}		50		1001000	rogue.buffname43	rogue.buff43	使用手枪的角色，造成的所有伤害{1}%	rogue.buff43	{70}
+3012	爆发能量为100时，暴击伤害提升80%	1		1		{8400026}		50		1001001	rogue.buffname44	rogue.buff44	爆发能量为100时，暴击伤害提升{1}%	rogue.buff44	{80}
+3013	爆发能量值为100时，常规技能伤害提升80%	1		1		{8400023}		50		1001002	rogue.buffname45	rogue.buff45	爆发能量值为100时，常规技能伤害提升{1}%	rogue.buff45	{80}
+3014	使用常规技能后，射击速度提升30%，持续5秒	1		1		{8400028}		50		1001000	rogue.buffname46	rogue.buff46	使用常规技能后，射击速度提升{1}%，持续{2}秒	rogue.buff46	{30,5}
+3015	使用常规技能后，接下来3秒射击不消耗子弹	1		1		{8400051}		50		1001002	rogue.buffname47	rogue.buff47	使用常规技能后，接下来{1}秒射击不消耗子弹	rogue.buff47	{3}
+3016	使用爆发技能后，射击速度提升50%，持续10秒	1		1		{8400052}		50		1001004	rogue.buffname48	rogue.buff48	使用爆发技能后，射击速度提升{1}%，持续10秒	rogue.buff48	{50}
+3017	释放常规技能后，移动速度+50%，持续10秒	1		1		{8400070}		50		1001012	rogue.buffname49	rogue.buff49	释放常规技能后，移动速度提升{1}%，持续10秒	rogue.buff49	{50}
+3018	命中目标时为其施加易伤效果，使其受到的射击伤害提升6%，持续2.5秒，最多叠加10层	1		1		{8400034}		100		1001009	rogue.buffname50	rogue.buff50	命中目标时为其施加易伤效果，使其受到的射击伤害提升{1}%，持续{2}秒，最多叠加{3}层	rogue.buff50	{6,2.5,10}
+3019	击倒敌方目标后，常规技能使用间隔减少5秒	1		1		{8400020}		100		1001002	rogue.buffname51	rogue.buff51	击倒敌方目标后,常规技能使用间隔减少{1}秒	rogue.buff51	{5}
+3020	击败目标时，回复自身25常规能量并刷新常规技能的冷却时间，这个效果有1秒的冷却时间	1		1		{8400055}		100		1001002	rogue.buffname52	rogue.buff52	击败目标时，回复自身{1}常规能量并刷新常规技能的冷却时间，这个效果有1秒的冷却时间	rogue.buff52	{25}
+3021	5米范围内，每存在1个敌对目标，暴击伤害提升30%	1		1		{8400049}		50		1001001	rogue.buffname53	rogue.buff53	5米范围内，每存在1个敌对目标，暴击伤害提升{1}%	rogue.buff53	{30}
+3022	冲刺状态耐力消耗提升20%，常规技能伤害提升80%	1		1		{8400040}		50		1001002	rogue.buffname54	rogue.buff54	冲刺状态耐力消耗提升{1}%,常规技能伤害提升{2}%	rogue.buff54	{20,80}
+3023	换弹附带无敌效果,持续3秒	1		1		{8400008}		50		1001008	rogue.buffname55	rogue.buff55	换弹附带无敌效果,持续{1}秒	rogue.buff55	{3}
+3024	每次射击有20%的概率回复1爆发能量，这个效果有1秒的冷却时间	1		1		{8400050}		100		1001004	rogue.buffname56	rogue.buff56	每次射击有{1}%的概率回复1爆发能量，这个效果有1秒的冷却时间	rogue.buff56	{20}
+3025	生命低于20%时，获得一个最大生命30%的护盾，触发间隔15秒	1		1		{8400045}		50		1001005	rogue.buffname57	rogue.buff57	生命低于{1}%时，获得一个最大生命{2}%的护盾，触发间隔{3}秒	rogue.buff57	{20,30,15}
+3026	拥有护盾时，射击不消耗子弹，同时射击伤害提升20%	1		1		{8400058}		100		1001005	rogue.buffname58	rogue.buff58	拥有护盾时，射击不消耗子弹，同时射击伤害提升{1}%	rogue.buff58	{20}
+3027	每次切换角色时，当前场上角色获得一个自身最大生命15%的护盾，持续5秒，触发间隔5秒	1		1		{8400059}		50		1001005	rogue.buffname59	rogue.buff59	每次切换角色时，当前场上角色获得一个自身最大生命{1}%的护盾，持续5秒，触发间隔5秒	rogue.buff59	{15}
+3028	拥有护盾时，自身受到的伤害降低40%	1		1		{8400060}		100		1001005	rogue.buffname60	rogue.buff60	拥有护盾时，自身受到的伤害降低{1}%	rogue.buff60	{40}
+3029	射击暴击后，有50%概率额外造成1次特异类型伤害，触发间隔3秒	1		1		{8400031}		50		1001009	rogue.buffname61	rogue.buff61	射击暴击后，有{1}%概率额外造成1次特异类型伤害，触发间隔{2}秒	rogue.buff61	{50,3}
+3030	射击命中目标时，有30%概率额外造成1次低温类型伤害	1		1		{8400032}		50		1001009	rogue.buffname62	rogue.buff62	射击命中目标时，有{1}%概率额外造成1次低温类型伤害	rogue.buff62	{30}
+3031	射击命中目标时，有30%概率引发1次特异震荡波，对范围内的所有地方目标造成特异类型伤害	1		1		{8400033}		100		1001009	rogue.buffname63	rogue.buff63	射击命中目标时，有{1}%概率引发1次特异震荡波，对范围内的所有地方目标造成特异类型伤害	rogue.buff63	{30}
+3032	射击命中目标时，有60%的概率对其施加【灼烧】状态，持续造成高热类型伤害	1		1		{8400029}		100		1001009	rogue.buffname64	rogue.buff64	射击命中目标时，有{1}%的概率对其施加【灼烧】状态，持续造成高热类型伤害	rogue.buff64	{60}
+3033	命中目标时，添加1层【电气】印记，当印记达到5层时触发1次电击类型伤害，并施加麻痹状态，持续1秒	1		1		{8400030}		100		1001009	rogue.buffname65	rogue.buff65	命中目标时，添加1层【电气】印记，当印记达到{1}层时触发1次电击类型伤害，并施加麻痹状态，持续{2}秒	rogue.buff65	{5,1}
+3034	对目标造成最后一击时，引发一次范围低温伤害，并添加冻结效果，持续4秒，触发间隔6秒	1		1		{8400035}		100		1001009	rogue.buffname66	rogue.buff66	对目标造成最后一击时，引发一次范围低温伤害，并添加冻结效果，持续{1}秒，触发间隔{2}秒	rogue.buff66	{4,6}
+3035	造成技能伤害时，有70%的概率造成冻结效果，持续0.5秒	1		1		{8400056}		100		1001009	rogue.buffname67	rogue.buff67	造成技能伤害时，有{1}%的概率造成冻结效果，持续0.5秒	rogue.buff67	{70}
+3036	对减速、冻结的敌人，射击伤害提升70%	1		1		{8400057}		100		1001000	rogue.buffname68	rogue.buff68	对减速、冻结的敌人，射击伤害提升{1}%	rogue.buff68	{70}

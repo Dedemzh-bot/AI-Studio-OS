@@ -1,0 +1,4 @@
+﻿Id	活动Id(activities表格的id)	图片id(按钮灰色,按钮可点击,标题,名字底图,拍脸弹窗背景)	弹窗介绍文本
+Id	ActivitiesId	Image	text
+1	356	{1602851,1602852,1602853,1602854,1602856}	activity.template_18_face_des
+2	557	{1602851,1603132,1603133,1602854,1603149}	activity.template_20_face_des

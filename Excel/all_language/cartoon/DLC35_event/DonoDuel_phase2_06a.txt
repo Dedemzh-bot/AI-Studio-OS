@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	亲爱的，来一局吗？	親愛的，來一局嗎？	あなた、一局やってみる？	자기야, 한 판 할래?	Darling, up for a game?						0	3.5版本多诺巅峰对决剧情
+page1.2	我现在已经很厉害了哦，安卡希雅输了可不准耍赖。	我現在已經很厲害了喔，安卡希雅輸了可不准耍賴。	今の私はかなり強いぞ。アカシアが負けても、言い訳はなしだ。	나 이제 엄청 잘 해, 그러니까 아카시아가 지면 두말하기 없기다?	I'm pretty good at it now, you know. If you lose, Acacia, you'll have to admit it.						0	3.5版本多诺巅峰对决剧情
+page1.3	请不要质疑游戏大师在体验游戏的信念！	請不要質疑遊戲大師在體驗遊戲的信念！	ゲームマスターの信念を疑わないでほしいな。	게임을 즐기는 게임 마스터의 신념을 의심하지 말도록!	Of course! My integrity as a gaming prodigy is not to be questioned!						0	3.5版本多诺巅峰对决剧情
+page1.4	那就，请多指教了。	那就，請多指教了。	それじゃあ、よろしく頼む。	그럼, 잘 부탁해.	Alright, let's play then.						0	3.5版本多诺巅峰对决剧情

@@ -1,0 +1,5 @@
+﻿期数id	备注	图标	Pass名称	Pass描述	奖励展示	每级经验	等级上限
+Id	Comment	Icon	NameKey	DescriptionKey	RewardShow	ExpStep	MaxLevel
+1	轨道轰炸	1004250	assaultops.Bp1Name	assaultops.Bp1Description	{{4,3,2,1},{4,1,40,1},{4,3,1,1}}	1000	15
+2	集群打击	1004251	assaultops.Bp2Name	assaultops.Bp2Description	{{4,3,2,1},{4,1,40,1},{4,3,1,1}}	1000	15
+3	钢铁防线	1004252	assaultops.Bp3Name	assaultops.Bp3Description	{{4,3,2,1},{4,1,40,1},{4,1,46,1},{4,3,1,1}}	1000	20

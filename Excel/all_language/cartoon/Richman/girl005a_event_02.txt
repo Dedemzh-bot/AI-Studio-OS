@@ -1,0 +1,31 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	还记得你穿着雨燕第一次实战时的地方吗？	還記得你穿著雨燕第一次實戰時的地方嗎？	君が初めて「アマツバメ」を着て、実際に戦闘に出た時のことを覚えているか？	당신이 스위프트를 입고 처음 실전했던 곳을 기억해?	Remember where you first wore your Swift exosuit in the field?						0	
+page0.2	怎么会不记得……那个废旧的摩天轮上，只有分析员看到了真正的我。	怎麼會不記得……那個廢舊的摩天輪上，只有分析員看到了真正的我。	忘れるはずがありません。あの古い観覧車で、分析員さんだけに本当の私を見せた時のことを……	어떻게 기억이 안 날 수가… 그 낡은 관람차에서 분석가만이 진짜 나를 보았잖아요.	How could I forget...? It was on that old Ferris wheel, and you were the only one who saw the real me.						0	
+page0.3	分析员，您不会再用那时候的照片当屏保了吧……	分析員，您不會再用那時候的照片當螢幕保護程式了吧……	分析員さん……もうあの時の写真を端末の壁紙にしてませんよね？	분석가님, 더 이상 그때의 사진으로 화면보증을 하지 않으시겠죠…	Adjutant, you're not still using that old photo as your screensaver, are you?						0	
+page0.4	说起来，屏保是该更新了，不如我们再拍一张更棒的照片。	說起來，是該更新了，不如我們再拍一張更棒的照片。	そう言えば、そろそろ壁紙も更新しないとな。どうせだし、一緒にもっと良い写真を撮ろうか？	말하자면, 화면 보호기를 업데이트해야 할 때인데, 더 멋진 사진을 찍는 게 어때?	You're right — it might be time for a change. How about we take an even better photo together?						0	
+page0.5	茉莉安小姐，与我一起共乘一次摩天轮吧？	茉莉安小姐，與我一起共乘一次摩天輪吧？	マリアン。一緒に観覧車に乗るのはどうかな？	마리안 씨, 나와 함께 관람차 탈래?	Miss Marian, would you do me the honor of taking a ride on the Ferris wheel with me?						0	
+page0.6	playername先生，我接受你的邀请，荣幸之至。	playername先生，我接受你的邀請，榮幸之至。	playernameさん……喜んで。	playername 씨, 당신의 초대에 응하게 되어 영광입니다.	Mr. playername, the honor is mine.						0	
+page0.7	和茉莉安一起坐上了摩天轮。	和茉莉安一起坐上了摩天輪。	マリアンと一緒に観覧車に乗り込んだ。	마리안과 함께 관람차를 탔다.	You boarded the Ferris wheel with Marian.						0	
+page0.8	比我想象中的慢很多。	比我想像中的慢很多。	想像してたよりずっとゆっくりなんですね。	생각보다 많이 느리네요.	This is much slower than I expected.						0	
+page0.9	会觉得有点无聊吗？	會覺得有點無聊嗎？	退屈か？	좀 지루하지 않을까?	Do you find it a bit dull?						0	
+page0.10	完全没有！慢慢看着景物的变化，逐渐接近天空的感觉很有趣。	完全沒有！慢慢看著景物的變化，逐漸接近天空的感覺很有趣。	いいえ、全然！景色がゆっくりと変わりながら、空に段々と近づいていくのを見ていると、とても奇妙な気持ちになります。	전혀요! 천천히 경치의 변화를 보면서 하늘로 가까워지는 느낌이 재미있어요.	Not at all! It's fascinating to watch the landscape shrink slowly as we gradually get closer to the sky.						0	
+page0.11	坐在摩天轮里面，和那天的感觉也完全不一样了。	坐在摩天輪裡面，和那天的感覺也完全不一樣了。	観覧車の中に座っていても、あの日とは全く感じ方が違いますね。	관람차 안에 앉으니 그날과는 느낌이 확 달라졌어요.	On this Ferris wheel, it feels completely different from that day.						0	
+page0.12	那时我希望有人看见我……	那時我希望有人看見我……	あの時は、誰かに気づいてほしかったんです……	그때 저는 누군가가 저를 보길 바랐는데…	Back then, I wanted people to see me...						0	
+page0.13	但现在，我只希望面前的人能看见我，这就足够了。	但現在，我只希望眼前的人能看見我，這就夠了。	でも今は、目の前にいる人が私のことを見ていてくれるだけで、満足です。	하지만 지금은 내 앞에 있는 사람이 날 봤으면 좋겠어요, 그걸로 충분해요.	But now, I only want to be seen by the person in front of me, and that's enough.						0	
+page0.14	我从没挪开过视线。	我從沒挪開過視線。	君から目を離したことは一度もないよ。	나는 한 번도 눈을 뗀 적이 없어.	I have never looked away.						0	
+page0.15	嗯……谢谢你，分析员。	嗯……謝謝你，分析員。	はい……ありがとうございます、分析員さん。	음… 감사합니다, 분석가님.	Thank you, Adjutant...						0	
+page0.16	分析员！快看，快要接近顶点了~	分析員！快看，快要接近頂點了~	分析員さん！見てください。もうすぐ頂点ですよ。	분석가님! 빨리 봐, 거의 정점이에요~	Look, Adjutant! We're near the top!						0	
+page0.17	分析员……我曾经看过一篇文章……	分析員…我曾經看過一篇文章……	分析員さん……記事で見たことがあるんですけど……	분석가님… 전 일찍이 한 문장을 본 적이 있어요…	Adjutant, I once read that...						0	
+page0.18	和心仪的人一起坐摩天轮，升到最高点时一起许愿的话……	和心儀的人一起坐摩天輪，升到最高點時一起許願的話……	想いを寄せる人と一緒に観覧車に乗って、頂点で願い事をすると……	사랑하는 사람과 관람차를 타고 최고점까지 올라갔을 때 같이 소원을 빌면…	If you make a wish with someone special at the highest point of a Ferris wheel...						0	
+choice01	闭眼和茉莉安一起许愿	閉眼與茉莉安一起許願	目を瞑って、マリアンと一緒に願い事をする	눈을 감고 마리안과 함께 소원을 빈다.	Close your eyes and make a wish with Marian						0	
+page1.1	脸上感受到一阵温热的气息。	臉上感受到一陣溫熱的氣息。	暖かい息が私の頬にかかった。	얼굴에 따뜻한 기운이 느껴졌다.	A warm breath brushed against your face.						0	
+page1.2	希望没错过最高点，你也许完愿了吗？	希望沒錯過最高點，你也許完願了嗎？	頂点を通り過ぎてないといいけど。君も願い事をした？	희망이 최고점을 지나갔다, 너는 아마 소원 다 빌었어?	I hope we didn't miss the highest point. Did you make your wish?						0	
+page1.3	嗯嗯……许完了。	嗯嗯……許完了。	はい……しましたよ。	네… 다 빌었어요.	Yes... I did.						0	
+page1.4	所以，升到最高点时一起许愿，会发生什么？	所以，升到最高點時一起許願，會發生什麼事？	それで、頂点で願い事をしたらどうなるんだ？	그래서 최고점까지 올라갔을 때 같이 소원을 빌면 어떤 일이 일어날까?	So what's supposed to happen when we make a wish together at the highest point?						0	
+page1.5	秘密~	秘密~	ふふ。秘密、です……	비밀이에요~	It's a secret~						0	
+choice02	注视着茉莉安的眼睛许愿	注視著茉莉安的眼睛許願	マリアンの目を見つめながら願い事をする	마리안의 눈을 바라보며 소원을 빈다.	Look into Marian's eyes and make a wish						0	
+page2.1	我还以为，分析员会闭上眼许愿。	我還以為，分析員會閉上眼許願。	分析員さんは、目を瞑るかと思っていたのですが。	나는 분석가님의 눈을 감고 소원을 빌 줄 알았어요.	I thought you'd close your eyes, Adjutant.						0	
+page2.2	我早就说过，我不会移开视线的。	我早就說過，我不會移開視線的。	言っただろ。目を離さないって。	저는 진작에 말했잖아요, 저는 눈을 떼지 않을 거야.	I told you — I have never, and will never look away.						0	
+page2.3	所以，升到最高点时一起许愿，会发生什么？	所以，升到最高點時一起許願，會發生什麼事？	それで、頂点で願い事をしたらどうなるんだ？	그래서 최고점까지 올라갔을 때 같이 소원을 빌면 어떤 일이 일어날까?	So what's supposed to happen when we make a wish together at the highest point?						0	
+page2.4	秘密~	秘密~	ふふ。秘密、です……	비밀이에요~	It's a secret~						0	

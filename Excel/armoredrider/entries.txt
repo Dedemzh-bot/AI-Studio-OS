@@ -1,0 +1,25 @@
+﻿ID	注释	关联buffID	词条名称	词条描述	词条参数
+ID	Comment	BuffID	Name	Desc	DescValue
+1	高温技能伤害增加20%	3821005	aliendefence.LevelPassive_01_name	aliendefence.LevelPassive_01_des	
+2	电击技能伤害增加20%	3821005	aliendefence.LevelPassive_02_name	aliendefence.LevelPassive_02_des	
+3	低温技能伤害增加20%	3821005	aliendefence.LevelPassive_03_name	aliendefence.LevelPassive_03_des	
+4	动能技能伤害增加20%	3821005	aliendefence.LevelPassive_04_name	aliendefence.LevelPassive_04_des	
+5	所有技能冷却时间减少20%	3821005	aliendefence.LevelPassive_06_name	aliendefence.LevelPassive_06_des	
+1001	发电机充能速度提高20%	43	armoredrider.ARLevelbuffname01	armoredrider.ARLevelbuffdes01	{5}
+1002	发电机充能速度提高20%	43	armoredrider.ARLevelbuffname02	armoredrider.ARLevelbuffdes02	{5}
+1003	实弹武器伤害提高5%	44	armoredrider.ARLevelbuffname03	armoredrider.ARLevelbuffdes03	{5}
+1004	能量武器伤害提高5%	45	armoredrider.ARLevelbuffname04	armoredrider.ARLevelbuffdes04	{5}
+1005	火箭弹伤害提高5%	3620007	armoredrider.ARLevelbuffname05	armoredrider.ARLevelbuffdes05	{5}
+1006	燃烧弹伤害提高5%	3620008	armoredrider.ARLevelbuffname06	armoredrider.ARLevelbuffdes06	{5}
+1007	弩箭伤害提高5%	3620009	armoredrider.ARLevelbuffname07	armoredrider.ARLevelbuffdes07	{5}
+2001	敌人根据受击的次数增加移动速度（每次增加2%上限50%）	46	armoredrider.ARLevelbuffname08	armoredrider.ARLevelbuffdes08	{2,50}
+2002	敌人在未受到伤害的5秒后，为自身套上最大生命值50%的护盾（若护盾已存在，该功能不生效）	47	armoredrider.ARLevelbuffname09	armoredrider.ARLevelbuffdes09	{5,50}
+2003	敌人在血量低于30%后会清除自身所有debuff	48	armoredrider.ARLevelbuffname10	armoredrider.ARLevelbuffdes10	{30}
+2004	禁用1个武器格子	49	armoredrider.ARLevelbuffname11	armoredrider.ARLevelbuffdes11	{1}
+2005	敌人三围增强（移速增加25%、血量50%、伤害50%）	50	armoredrider.ARLevelbuffname12	armoredrider.ARLevelbuffdes12	{25,50,50}
+3001	炮台搭载火箭弹时，炮台的移动速度增加10%	51	armoredrider.ARLevelbuffname13	armoredrider.ARLevelbuffdes13	{10}
+3011	子弹分裂的数量+1	52	armoredrider.ARLevelbuffname14	armoredrider.ARLevelbuffdes14	{1}
+3012	对怪物造成控制时，攻击间隔减少1%，持续1s，最高可叠加至100%，每次触发时持续时间刷新	53	armoredrider.ARLevelbuffname15	armoredrider.ARLevelbuffdes15	{1,1,100}
+3013	武器开火间隔越久，下次射击的伤害越高（每0.5s提高20%）	54	armoredrider.ARLevelbuffname16	armoredrider.ARLevelbuffdes16	{0.5,20}
+3014	dot间隔减少50%	55	armoredrider.ARLevelbuffname17	armoredrider.ARLevelbuffdes17	{50}
+3015	敌人身上的异常属性越多，受到伤害越高（1种10%，两种40%，3种100%）	56	armoredrider.ARLevelbuffname18	armoredrider.ARLevelbuffdes18	{1,10,2,40,3,100}

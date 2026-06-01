@@ -1,0 +1,62 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	在这片空间里。	在這片空間裡。	この空間の中で。	이 공간에는	In this space...						0	
+2	所有的意识与记忆都被搅成碎屑。	所有的意識與記憶都被攪成碎屑。	あらゆる意識と記憶が粉々に潰される。	모든 의식과 기억들이 조각조각 섞여 있다.	All consciousness and memory are crushed into fragments.						0	
+3	在揭开盖子之前，我不知道自己能拾起哪些碎片。	在掀開蓋子之前，我不知道自己能拾起哪些碎片。	蓋を開けるまで、どのような破片を拾えるかは分からない。	뚜껑을 열어보기 전에, 난 내가 어떤 조각을 선택할지 알 수 없다.	Until the cover is lifted, I don't know which pieces I can pick up.						0	
+4	除了那个少校，其他人都“处理”干净了。	除了那個少校，其他人都“處理”乾淨了。	あの少佐以外の連中を全員「処分」した。	소령을 제외한 나머지 사람들도 모두 깔끔하게 '처리'했습니다.	We've taken care of everyone except the major.						0	
+5	他＊的，那个＊东西把自己锁在八十毫米厚的冷库钢门后面，蜜蜂他们正在准备切割。	他＊的，那個混蛋把自己鎖在八十公釐厚的冷藏庫鋼製門內，蜜蜂他們正在準備切開鋼製門。	クソが、80ミリもある冷凍庫のドアを盾にするなんてよ。ミツバチたちが切断の準備をしている。	젠장, 망할 녀석이 80mm 두께의 냉동고 강철문 속으로 숨어들었습니다. 꿀벌들이 절단을 준비하고 있고요.	That blasted coward locked himself behind an 80-millimeter-thick steel freezer door. Honeybee and the others are preparing to cut through it.						0	
+6	往冷库里面躲，真他*是个怂蛋。对了，你没事吧老大？	往冷藏庫裡面躲，真他*是個孬種。對了，你沒事吧老大？	冷凍庫の中に隠れるなんてとんだ臆病もんだ。そういえば兄貴、大丈夫か？	냉동고에 숨어들다니, 정말 빌어먹을 겁쟁이죠. 아, 그나저나 괜찮으신 겁니까? 대장?	Hiding in the freezer! He really is an idiot... Oh, are you alright, boss?						0	
+7	血止住了，不影响行动……	血止住了，不影響行動……	血は止まったから、行動に支障はない……	피는 멈췄고, 움직이는 데는 지장 없어…	The bleeding stopped. It won't affect the mission...						0	
+8	我会保留这枚弹头，当作纪念。	我會保留這枚彈頭，當作紀念。	この弾丸は記念にとっておこう。	이 탄피는 기념으로 남기지.	I'll keep this bullet as a reminder.						0	
+9	刚才没注意到，到底是哪个怂蛋能把你打伤？	剛才沒注意到，到底是哪個孬種能把你打傷？	さっきはちゃんと見れなかったが、兄貴に怪我を負わせたのはどこのどいつだ？	제대로 못 봐서 그런데 대체 어떤 녀석이 대장을 다치게 한 거죠?	Which of those cowards did that to you? I didn't see.						0	
+10	就是冷库里的那个少校。	就是冷藏庫裡的那個少校。	冷凍庫に立てこもってる例の少佐だ。	냉동고에 숨은 소령이었어.	It was that major in the freezer.						0	
+11	苍蝇，定时设置怎么样了？	蒼蠅，定時設定怎麼樣了？	ソウヨウ、定時装置は用意できたか？	파리, 타이머 설정은 어떻게 됐지?	Gnat, did you set the timer?						0	
+12	放心吧，定时已经按你要求搞好了，随时都可以启动。嘿嘿嘿，就是不知道战术核武器对下面那些<orange>“东西”</>管不管用……	放心吧，定時已經按你要求搞定了，隨時都可以啟動。嘿嘿嘿，就是不知道戰術核武對下面那些<orange>“東西”</>是否管用……	言われた通りやっておいたから、いつでも起動できるぜ。戦術核兵器が下にいる<orange>「連中」</>に効くかどうかは知らねぇけど……	걱정하지 않으셔도 됩니다. 타이머는 분부하신 대로 설정해 두었으니 언제든지 작동할 수 있습니다. 하하하, 그런데 전술 핵무기 밑에 있는 <orange>'물건'</>들이 제 역할을 발휘할지 모르겠네요…	Don't worry — I prepared the countdown just as you asked, we can start it at any time. Heh, I just don't know how well nukes are gonna work on those <orange>things</> down below...						0	
+13	反正那个少校肯定连渣都剩不下来。	反正到時候那個少校肯定連渣都不剩。	あの少佐が粉々になるのは間違いねぇ。	어차피 그 소령은 분명 재도 남지 않았을 겁니다.	Either way, it will work just fine on the major. Nothing will be left of him.						0	
+14	苍蝇，在我们处理掉的人里面，你有没有见过这个人？	蒼蠅，在我們處理掉的人裡面，你有沒有看過這個人？	ソウヨウ、俺たちが処分したやつの中に、こいつはいたか？	파리, 우리가 처리한 사람 중에 이 사람을 본 적이 있나?	Gnat, did you see this man among the targets we terminated?						0	
+15	帕特里克·肯特，共振实验室负责人……没有，我没印象。	帕特里克·肯特，共振實驗室負責人……沒有，我沒印象。	パトリック・ケント、共振研究室の責任者……いや、見覚えねぇな。	패트릭 켄트, 공진 실험실 책임자… 아니요, 제 기억엔 없습니다.	Patrick Kent, head of the resonance lab...? Nah, didn't see him.						0	
+16	确认一下，到底有没有他。	確認一下，到底有沒有他。	こいつがいたかどうかよく確認してくれ。	확인해 봐, 있었는지.	Confirm, was he here or not?						0	
+17	确实没有。	確實沒有。	いねぇよ、間違いなく。	확실히 없습니다.	...Yep, he wasn't.						0	
+18	苍蝇，拆除核武器。	蒼蠅，拆除核武。	ソウヨウ、核兵器を撤去せよ。	파리, 핵무기를 해체해.	Gnat, disarm the nukes.						0	
+19	什么意思，老大？	什麼意思，老大？	どういうことだ、兄貴？	왜 그러시죠, 대장?	What d'ya mean, boss?						0	
+20	看来，我们才是董事会的弃子。	看來，我們才是董事會的棄子。	どうやら、理事会に捨てられたのは俺らの方だ。	아무래도 이사회에 의해 버려진 건 우리인 것 같아.	It looks like we are the real ones the Board is abandoning.						0	
+21	……	……	……	…	...						0	
+22	克莱因，去检查一下那台机器。	克萊因，去檢查一下那台機器。	クライン、あの機械を確認して来い。	클레인, 저기에 있는 기계를 점검해 봐.	Klein, go check on that machine.						0	
+23	队长，共振器已经启动了。	隊長，共振器已經啟動了。	隊長、”解樹”がすでに起動された。	대장, 공진기가 작동하기 시작했습니다.	Captain, the resonator has already been activated.						0	
+24	怎么启动的？能停下来吗？	怎麼啟動的？能停下來嗎？	何だと？一体どうやって……	어떻게 작동된 거지? 멈출 수 있나?	How? Can we stop it?						0	
+25	是遥控启动……	是遙控啟動……	おそらく、元々遠隔操作できるようになっていた……この時のために。	원격 제어를 통해 작동되었습니다…	It was activated remotely...						0	
+26	共振已经开始了，任何靠近它的东西都会在瞬间被分解，我们阻止不了。	共振已經開始了，任何靠近它的東西都會在瞬間被分解，我們無法阻止。	共振はすでに始まってて、あれに近づいた瞬間どんなものでも分解されるから、止めることはできない。	공진이 시작되었습니다. 그것에 접근하는 모든 물체는 순식간에 분해될 겁니다. 저희가 막기에는 역부족입니다.	The resonance countdown has already started. Anything nearby will be annihilated in an instant. We can't stop it.						0	
+27	我从终端信息查到，定时刚好在核武器引爆之前，范围是……整个城区，看来也没时间逃出去了。	我從終端訊息查到，定時剛好是在核武引爆之前啟動了，範圍是……整個城區，看來也沒時間逃出去了。	端末の情報によると、時間はちょうど核兵器が爆発する寸前に設定されてて、範囲は……街全体だから、脱出する時間もなさそう。	단말기에 나타난 정보에 따르면, 타이머가 핵무기 폭발 이전으로 설정되어 있습니다. 범위는… 도시 전체입니다. 대피할 시간이 없을 것 같습니다.	The terminal data shows the resonance is timed for right before the nuclear detonation. The range is... this entire city. It looks like we don't have time to escape.						0	
+28	老子……	老子……	よくも……	후…	I...						0	
+29	……老子终于明白了！	……老子終於明白了！	……やってくれたな！	… 이제야 알겠어.	...I finally get it!						0	
+30	＊他＊的！你不是说要安排我们去千羽的海边度假吗？	去他＊的！你不是說要安排我們去千羽的海邊度假嗎？	チクショー！リゾート地で有名な千羽浜を手配してくれるって言ってたのによ！	이런 빌어먹을! 휴가 때 우리를 센바 해변으로 보내준다고 했잖아?	Argh! What about that beach vacation to Senba you promised us?						0	
+31	老子就知道，脏活做多了，总他＊的有这么一天！	老子就知道，骯髒事做多了，總他＊的有這麼一天！	汚れ仕事ばかり引き受けたら、いつかこんな日が来るのはとっくに分かってたさ！	이럴 줄 알았어. 더러운 일을 하다가 결국엔 개죽음당하는 날이 올 거라고!	I always knew that doing this type of dirty work would get me in trouble one day!						0	
+32	＊你＊的世界树公司！＊你＊的社会！	去你＊的世界樹公司！ 去你＊的社會！	ユグドラシル！！一生恨んでやる！！クソが！！	빌어먹을 위그드라실! 이 거지 같은 세상!	Screw Yggdrasil! Screw this world!						0	
+33	真是好算盘啊……等我们把活干完了才灭口，灭了我们核弹再一爆炸……	真是會打如意算盤啊……等我們把事情幹完了才滅口，滅了我們核彈再一爆炸……	よく考えたもんだな……こっちが仕事を終えたら口封じをして、それから核兵器でバーン……	아주 치밀하네, 그래… 우리가 일을 마치면 우리를 제거하고, 그리고 핵폭탄이 터뜨려서…	What a perfect little plan... Have us do their dirty work, then finish us off, then destroy all the evidence with a nuke...						0	
+34	嘭！什么都不会留下。嘿嘿嘿嘿……这些老家伙，可真会算计……	砰！什麼都不會留下。嘿嘿嘿嘿……這些老傢伙，可真會算計……	何の証拠も残せねぇ。げっへっへっ……老いぼれどもめ、ずいぶんと頭が回るじゃねぇか……	펑! 그러면 아무것도 남지 않겠지. 하하하… 이 늙은이들, 정말 치밀하기도 하지…	BOOM! There'll be nothing left! Hah... those geezers are such snakes...						0	
+35	苍蝇，跟我来。	蒼蠅，跟我來。	ソウヨウ、ついてこい。	파리, 날 따라와.	Gnat, come with me.						0	
+36	还有后路？	還有後路？	逃げる道があんのかよ？	도망갈 길이 있나요?	Is there a way out?						0	
+37	实验所内有一个安全屋，应该可以容纳几个人。	實驗所內有一個安全屋，應該可以容納幾個人。	研究所にはセーフハウスがある、数人なら収容できるはずだ。	실험소에 벙커가 있어. 아마 몇 명 정도는 들어갈 수 있을 거야.	There's a safe room in the lab. A few people should be able to fit.						0	
+38	你是不是当老子傻？安全屋能顶个屁用！就算他*的有用，黄蜂和狼蛛他们怎么办？！	你是不是當老子傻？安全屋能有個屁用！就算他*的有用，黃蜂和狼蛛他們怎麼辦？！	俺をバカしてんのか？セーフハウスなんて役に立つかよ！万が一俺が助かっても、キバチとコモリグモたちはどうすんだ！？	절 바보로 아는 겁니까? 그래서 벙커가 뭐요! 정말로 소용이 있다고 해도, 와스프와 타란툴라는 어쩔 셈이죠?!	You think I'm stupid? A safe room won't do any good! And even if it did work, what about Wasp and Tarantula!?						0	
+39	老子跟你不一样，老子不是那种能把队友卖个好价钱的软蛋！	老子跟你不一樣，老子不是那種會出賣隊友的窩囊廢！	俺はテメェと違って、仲間を売るような真似ができるクズじゃねぇんだ！	대장이랑 전 다릅니다. 동료들을 좋은 값에 팔아치우는 물러빠진 놈들과는 다르다고요!	I'm not like you. I'm not a coward who'd sell out my team for a paycheck!						0	
+40	＊你＊，小队现在解散了！你说的话屁也不算！再给我多说一句废话老子一枪把你……	去你＊，小隊現在解散了！你說的話連屁都不是！再給我多說一句廢話老子一槍把你……	黙れよ！小隊はもう解散したから、テメェなんかに従うもんか！これ以上ふざけたことを喋ると……	제길, 소대는 해산이야! 명령 따윈 필요 없다고! 더 쓸데없는 소리를 지껄이면 이 총으로…	Argh, there's no more team anymore! You're full of crap! Say one more thing and I'll shoot you myself...						0	
+41	老子最后要找个安静的地方等死！	老子要找個安靜的地方等死！	俺は誰にも邪魔されずにくたばりたいんだ！	난 조용한 곳으로 가서 죽음을 기다리겠어!	I just want to find a quiet place to die!						0	
+42	克莱因，你还有选择。	克萊因，你還有選擇。	クライン、お前はまだ選べる。	클레인, 넌 아직 선택의 기회가 남았어.	Klein, you have a choice.						0	
+43	躲进安全屋，然后回家……他们一定很高兴。	躲進安全屋，然後回家……他們一定很高興。	セーフハウスに隠れて、それから家に帰る……彼らはきっと喜ぶはずだ。	벙커에 숨었다가 집으로 가… 분명 다들 좋아할 거야.	Hide in the safe room, then go home... I'm sure they'll be happy.						0	
+44	蜷缩在安全屋里，然后在绝望中被共振为一团信息态粉末？	蜷縮在安全屋裡，然後在絕望中被共振為一團資訊態粉末？	セーフハウスで震えながら、絶望しながら共振により情報体の塵になれっていうのね？	벙커에 웅크린 채 절망 속에서 공진으로 인한 이념 형태의 가루가 되라는 건가요?	Squeeze into the safe room, then be turned into nothing but a miserable, fragmented mess of particles by the resonance?						0	
+45	你不会是感到愧疚了吧？威尔。	你不會是感到愧疚了吧？威爾。	罪悪感を感じているのではないでしょうね。ウィル？	죄책감을 느끼고 있는 건 아니겠죠? 윌.	Are you starting to feel guilty, Will?						0	
+46	我的父母永远等不到女儿回家……让你联想到了自己？	我的父母永遠等不到女兒回家……讓你聯想到了自己？	どれだけ待っても娘が戻ってこない両親の姿に……自分のことを思い出したんでしょう？	제 부모님이 영원히 돌아오지 않는 딸을 기다릴까 봐… 그래서 당신도 자신의 처지가 떠오른 건가요?	My parents will wait and wait, but I'll never come home... Does that remind you of yourself?						0	
+47	我猜，你会接这个任务，也是因为你女儿？	我猜，你會接這個任務也是因為你女兒？	あなたがこの任務を引き受けたのも、自分の娘のためではなくって？	제 생각에, 당신이 이번 미션을 수락한 것도 딸 때문일 텐데요?	I'm guessing you accepted this mission for your daughter?						0	
+48	……	……	……	…	...						0	
+49	她病得很重。	她病得很重。	あの子は重い病気にかかってるんだ。	그 아이는 많이 아파.	She's really sick.						0	
+50	成年病吗？我也得过……	成年病嗎？我也得過……	ティーン症候群ね？そのつらさは痛いほどわかるわ。だけどここで生き残れたとしても……	성인병인가요? 저도 걸렸었는데…	Juvosis? I had it before...						0	
+51	但就算活下来了，又有什么意义呢……对不起，无意冒犯。	但就算活下來了，又有什麼意義呢……對不起，無意冒犯。	……ごめん、私も必死になって余計なことばかり喋り過ぎね。	살아남는다고 해도 무슨 의미가 있을까요… 미안해요, 기분 나쁘게 하려던 건 아니에요.	But what's the point of surviving it anyway? ...Sorry, it's just...						0	
+52	我预想过很多种更差的死法，有些会很疼……有些会花很多时间，然后你会慢慢开始感到后悔和害怕……	我預想過很多種更慘的死法，有些會很痛……有些會花很多時間，然後你會慢慢開始感到後悔和害怕……	もっとひどい死に方をたくさん予想していた。とても痛いものや……長い時間がかかるものも。そしたら、徐々に後悔と恐怖を感じ始めた……	더 나쁘게 죽는 방법을 수도 없이 상상해 봤어요. 어떤 것들은 괴롭고… 어떤 것들은 시간이 많이 들죠. 그리고 서서히 후회와 두려움을 느끼게 돼요…	I've imagined so many different ways to die. Some hurt... some are slow. You start to feel regret and fear...						0	
+53	现在这样，比我期望的，还要更好一些……我们这种人，本来就不该继续活下去。	現在這樣，比我期望的還要更好一點……我們這種人，本來就不該繼續活下去。	今の状況は期待を上回るものだった……私たちはもともと、生きるために足掻くんじゃなかった。	어떻게 보면 지금 상황이 제가 예상했던 것보다 오히려 나아요… 저희 같은 사람은 원래부터 계속 살아가면 안 됐으니까요.	So going out this way, so instantaneous, it's actually better than I expected... People like us shouldn't have been able to live in the first place.						0	
+54	你在笑什么？	你笑什麼？	何を笑ってるの？	왜 웃으시는 거죠?	What are you laughing at?						0	
+55	以前流行过“旅鼠自愿跳海”的谎言。	以前流行過“旅鼠自願跳海”的謊言。	昔、「海に飛び込むレミング」というデマが流行っていた。	예전에 '쥐들이 바다에 뛰어들어 자살한다'라는 유언비어가 퍼진 적이 있었어.	There used to be a popular myth that lemmings would commit suicide by jumping into the sea.						0	
+56	纪录片的拍摄者买来几十只旅鼠放在悬崖边，准备记录它们的“自愿牺牲”。	紀錄片的拍攝者買來幾十隻旅鼠放在懸崖邊，準備記錄它們的“自願犧牲”。	ドキュメンタリーの撮影者は数十匹のレミングを買って崖の前に並べ、「飛び込もうとする」瞬間を記録しようとしていた。	다큐멘터리 제작자는 쥐 수십 마리를 사서 절벽에 두고, 쥐들의 '자살'을 기록할 생각이었지.	A documentary filmmaker bought dozens of lemmings, then put them on the edge of a cliff. He wanted to record their "voluntary sacrifice."						0	
+57	等待两天之后，恼羞成怒的拍摄者不得不亲自把旅鼠推下悬崖……	等待兩天之後，惱羞成怒的拍攝者不得不親自把旅鼠推下懸崖……	2日も待ってから、イライラして我慢できなくなった撮影者はついにレミングを崖から突き落とした……	이틀 후, 인내심에 한계를 느낀 제작자는 직접 쥐들을 절벽 아래로 밀쳐냈어…	After waiting around for two days, the frustrated filmmaker decided to push the lemmings off the cliff himself...						0	
+58	直到后来才有人发现，那些跳崖的旅鼠并不是“自愿牺牲”……	直到後來才有人發現，那些跳崖的旅鼠並不是“自願犧牲”……	そしてついにバレたんだ。崖から落ちたレミングたちは「飛び込んだ」んじゃなかったことが……	그리고 한참 후에야 사람들은 절벽 아래로 뛰어내린 쥐들이 '자살'했던 게 아니라는 것을 알아차렸지…	Only later did they discover lemmings didn't jump into the sea as a "voluntary sacrifice."						0	
+59	它们深信自己能够游渡深海，抵达对岸……它们不得不这样相信……因为悬崖边已经没有了生存的空间。	牠們深信自己能夠泳渡深海，抵達對岸……牠們不得不這樣相信……因為懸崖邊已經沒有生存的空間。	レミングたちは深海を渡って対岸に着くことができると信じている……死と隣り合わせの崖に追い込まれ、信じざるを得なかったからだ……	쥐들은 깊은 바다를 헤엄쳐 건너편 해안에 도착할 수 있을 거라고 믿었어… 그렇게 믿을 수밖에 없었지… 왜냐하면 절벽 위에는 더 이상 살아남을 공간이 없었으니까 말이야.	They believed that they could swim across the sea and reach the other shore... They had to believe it, because they wanted to survive. There was no more space for them to live on the cliff.						0	
+60	此时此刻，我就像一只……即将溺毙的旅鼠。	此時此刻，我就像一隻……即將溺斃的旅鼠。	今の俺は……まさに溺れそうなレミングのようだ。	지금 이 순간에도 난 마치… 곧 익사할 한 마리의 쥐가 된 것 같군.	At this moment, I feel just like... a drowning lemming.						0	

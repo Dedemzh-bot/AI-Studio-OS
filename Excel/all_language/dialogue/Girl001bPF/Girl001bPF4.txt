@@ -1,0 +1,120 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	第二天早上。	第二天早上。	翌朝。	다음 날 아침.	The next morning.						0	3.5版本安卡希雅时之重奏个人故事
+2	我早早地起来，却发现安卡希雅不见踪影。	我早早地起來，卻發現安卡希雅不見蹤影。	早めに起きた――が、アカシアの姿が見当たらない。	나는 일찍 일어났지만, 아카시아는 어디에도 보이지 않았다.	I got up early, only to find that Acacia was nowhere to be seen.						0	3.5版本安卡希雅时之重奏个人故事
+3	起身看去，纯白色的方盒静置在桌前，浅蓝色的缎带系成略显笨拙的蝴蝶结。	起身看去，純白色的方盒靜置在桌前，淺藍色的緞帶繫成略顯笨拙的蝴蝶結。	起き上がって目をやると、机の上に真っ白な小箱がひとつ。淡い水色のリボンが、不器用な蝶結びで結ばれている。	몸을 일으켜 보니, 순백색의 상자가 책상 앞에 조용히 놓여 있었고, 연한 파란색 리본이 조금 서툴게 나비매듭으로 묶여 있었다.	As I looked around, something caught my eye. A white box sat on the table, tied with a pale blue ribbon.						0	3.5版本安卡希雅时之重奏个人故事
+4	——那手法我认得，正是安卡希雅的杰作。	——那手法我認得，正是安卡希雅的傑作。	――その結び方、見覚えがある。アカシアの「作品」だ。	솜씨를 보면 알 수 있었다, 아카시아의 작품이었다.	The bow was uneven, unmistakably her work.						0	3.5版本安卡希雅时之重奏个人故事
+5	掀开盒盖时，香氛气息轻轻散开，一盘光碟整齐地铺在丝绒衬垫上。	掀開盒蓋時，香氛氣息輕輕散開，一盤光碟整齊地鋪在絲絨襯墊上。	箱のふたを持ち上げた瞬間、ふわりと香りがほどけた。ベルベットの中敷きにはディスクが整然と並び、その下から真っ白な便箋がすべり出てくる。	상자 뚜껑을 열자 향료의 향기가 은은하게 퍼졌고, 디스크 한 장이 벨벳 안감 위에 가지런히 놓여 있었다.	When I lifted the lid, a gentle fragrance wafted out. A disc lay neatly on a velvet cushion.						0	3.5版本安卡希雅时之重奏个人故事
+6	素白信笺从光碟下滑出，字迹是刻意工整的稚气。	素白信箋從光碟下滑出，字跡是刻意工整的稚氣。	字は――わざと丁寧に整えた、どこか幼い筆跡。	디스크 아래에서 미끄러져 나온 순백색의 편지지에는 서툴지만 또박또박 정성 들여 쓴 글씨가 적혀 있었다.	A plain white letter slipped out from under the disc, the handwriting deliberately neat, though the lines still carried a hint of her usual clumsiness.						0	3.5版本安卡希雅时之重奏个人故事
+7	致，我的挚爱playername：	致，我的摯愛playername：	いちばん大切なplayernameへ	내 사랑, playername에게	To my beloved playername,						0	3.5版本安卡希雅时之重奏个人故事
+8	\n制作人安卡希雅的全新力作，	\n製作人安卡希雅的全新力作，	\nプロデューサー・アカシアの全身全霊の新作、	\n아카시아 프로듀서의 최신작이자,	\nHere's a brand-new title from producer Acacia,						0	3.5版本安卡希雅时之重奏个人故事
+9	献给亲爱的，	獻給親愛的，	あなたに捧げる。	자기에게 바치는,	Dedicated to my darling,						0	3.5版本安卡希雅时之重奏个人故事
+10	恋爱模拟游戏《安卡希雅~致我的挚爱~》现已完工，	戀愛模擬遊戲《安卡希雅~致我的摯愛~》現已完工，	恋愛シミュレーションゲーム『アカシア～愛しい人へ～』、完成。	연애 시뮬레이션 게임 <아카시아: 사랑을 위하여>가 완성됐어.	The romance sim game ~From Acacia: To My Beloved~ is now complete.						0	3.5版本安卡希雅时之重奏个人故事
+11	欢迎前往安卡希雅的宿舍参加测试！	歡迎前往安卡希雅的宿舍參加測試！	アカシアの部屋まで、テストプレイに来てね。	아카시아의 숙소로 와서 테스트에 참여해 줘!	You are officially invited to my room for testing!						0	3.5版本安卡希雅时之重奏个人故事
+12	盒底躺着那枚常在她发间闪烁的新月状饰品，边缘还留着细微的体温。	盒底躺著那枚常在她髮間閃爍的新月狀飾品，邊緣還留著細微的體溫。	箱の底には、彼女の髪の間でいつも小さく瞬く――三日月形のアクセサリー。縁に、ほんのり体温が残っていた。	상자 밑바닥에는 그녀의 머리에서 늘 반짝이던 초승달 모양의 장식품이 놓여 있었고, 그 가장자리에는 아직 미세하게 체온이 남아 있었다.	At the bottom of the box rested her crescent-moon hair clip, its edge still holding a trace of her warmth.						0	3.5版本安卡希雅时之重奏个人故事
+13	原来这么早起来是去准备惊喜啊。	原來這麼早起來是去準備驚喜啊。	こんな朝早く起きたのは、サプライズの準備か。	서프라이즈 준비 때문에 일찍 일어났구나.	So that's why she got up so early.						0	3.5版本安卡希雅时之重奏个人故事
+14	吱呀——	吱呀——	ギギ――	끼익…	*creak*						0	3.5版本安卡希雅时之重奏个人故事
+15	门微微开了缝，信件的传递者、那道蓝白色的身影正在透过缝隙隐隐注视着我。	門微微開了縫，信件的傳遞者、那道藍白色的身影正在透過縫隙隱隱注視著我。	ドアがほんの少しだけ開き、手紙の差出人――青白い影が、隙間からこちらをうかがっている。	문이 살짝 열렸고, 편지를 전해준 주인공의 파랗고 하얀 모습이 그 틈새로 나를 주시하고 있는 게 보이는 듯했다.	The door opened a crack. The girl in blue and white, the one who wrote this letter, was peeking at me through the gap.						0	3.5版本安卡希雅时之重奏个人故事
+16	在看到我目光后，那道身影缩了回去，似乎生怕我发现一般。	在看到我目光後，那道身影縮了回去，像是怕被我發現。	目が合うと、影はさっと引っ込み、見つかるのが怖いみたいに息まで殺した。	내 시선을 알아채자, 마치 내가 발견하면 안 되는 것처럼 그녀는 뒤로 물러났다.	When she noticed me looking, she froze, then quickly drew back out of sight.						0	3.5版本安卡希雅时之重奏个人故事
+17	朝着她的方向笑了笑，揣上光碟，将信笺收好，去往安卡希雅的房间。	朝著她的方向笑了笑，拿上光碟，將信箋收好，去往安卡希雅的房間。	その方向へ小さく笑いかけ、ディスクを手に取り、便箋を丁寧にしまって――アカシアの部屋へ向かった。	그녀가 있는 방향으로 미소 지으며, 디스크를 챙기고 편지지를 잘 접어 넣은 후, 아카시아의 방으로 향했다.	I smiled in her direction, slipped the disc into my pocket, put the letter away, and headed to Acacia's room.						0	3.5版本安卡希雅时之重奏个人故事
+18	欢迎亲爱的来参加试玩~	歡迎親愛的來參加试玩~	テストプレイへようこそ、あなた。	자기의 테스트 참여를 환영해~	Welcome to the test, darling~						0	3.5版本安卡希雅时之重奏个人故事
+19	今天的游戏是为你专门准备的恋爱模拟游戏。	今天的遊戲是為你專門準備的戀愛模擬遊戲。	今日のゲームは――あなたのためだけに用意した恋愛シミュレーションだよ。	오늘의 게임은 너를 위해 특별히 준비한 연애 시뮬레이션 게임이야.	Today's game is a romance sim created just for you.						0	3.5版本安卡希雅时之重奏个人故事
+20	尽管已经知道了游戏的内容，但我还是假装一副没看过的样子。	儘管已經知道了遊戲的內容，但我還是假裝一副沒看過的樣子。	内容はもう知っているのに、私は初見みたいな顔をしてみせる。	게임 내용은 이미 알고 있었지만, 나는 모르는 척 연기했다.	Even though I already knew what the game was about, I pretended I hadn't seen any of it.						0	3.5版本安卡希雅时之重奏个人故事
+21	好啊，我很期待安卡希雅的最新大作。	好啊，我很期待安卡希雅的最新大作。	いいな。アカシアの最新作、楽しみにしていた。	좋아, 아카시아의 최신 대작이 정말 기대돼.	Alright, I'm really looking forward to your latest masterpiece, Acacia.						0	3.5版本安卡希雅时之重奏个人故事
+22	环顾房间，游戏机已经准备就绪，两个手柄被精心地摆放在垫子上。	環顧房間，遊戲機已經準備就緒，兩個手把被精心地擺放在墊子上。	部屋を見回すと、ゲーム機はすでに起動待ち。二つのコントローラーが、座布団の上に「きちんと」置かれている。	방을 둘러보니 게임기가 이미 준비되어 있었고, 두 개의 게임패드가 방석 위에 정성스럽게 놓여 있었다.	I glanced around the room, noticing that the console was set up and that two controllers had been carefully placed on the cushions.						0	3.5版本安卡希雅时之重奏个人故事
+23	我走到坐垫前，顺势坐下，将光碟置入光驱之中。	我走到坐墊前，順勢坐下，將光碟置入光碟機之中。	座布団の前に腰を下ろし、ディスクをドライブに差し込んだ。	나는 방석 앞으로 걸어가 자연스럽게 앉고, 디스크를 드라이브에 넣었다.	I walked over, sat down, and slid the disc into the drive.						0	3.5版本安卡希雅时之重奏个人故事
+24	咔嚓——	咔嚓——	カチャッ――	[딸칵!]	Click—						0	3.5版本安卡希雅时之重奏个人故事
+25	伴随着光碟连接的清脆提示音，少女也紧贴着我坐下。	伴隨著光碟連上的清脆提示音，少女也緊貼著我坐下。	接続音が小気味よく鳴るのと同時に、少女がぴたりと私の隣へ座る。	디스크가 연결되는 경쾌한 알림음과 함께, 소녀도 나에게 바짝 붙어 앉았다.	A clear chime sounded as the system recognized it. She sat down beside me at once, close enough that our shoulders touched.						0	3.5版本安卡希雅时之重奏个人故事
+26	一起。	一起。	一緒にやろう。	같이 하자.	Let's do this together.						0	3.5版本安卡希雅时之重奏个人故事
+27	她一边说着，一边撕开了薯片包装。	她一邊說著，一邊撕開了洋芋片包裝。	そう言いながら、彼女はポテチの袋をびりっと開けた。	그녀는 그렇게 말하며 감자칩 봉지를 뜯었다.	As she spoke, she tore open a bag of chips.						0	3.5版本安卡希雅时之重奏个人故事
+28	伴随着一阵轻松愉快的BGM，屏幕亮起，游戏主界面出现在眼前。	伴隨著一陣輕鬆愉快的BGM，螢幕亮起，遊戲主介面出現在眼前。	軽やかなBGMとともに画面が明るくなり、メインメニューが表示される。	경쾌하고 즐거운 BGM과 함께 화면이 밝아지면서 게임 메인 화면이 눈앞에 나타났다.	With light, cheerful BGM, the screen lit up, and the game's main menu appeared.						0	3.5版本安卡希雅时之重奏个人故事
+29	背景是我和安卡希雅的合照，一串按钮精妙地排在左侧。	背景是我和安卡希雅的合照，一串按鈕精妙地排在左側。	画面の背景は、私とアカシアの写真。左側にはボタンが整然と並んでいた。	배경은 나와 아카시아가 함께 찍은 사진이었고, 왼쪽에는 버튼들이 가지런하게 배치되어 있었다.	The background was a photo of Acacia and me, with a row of options artfully arranged along the left side.						0	3.5版本安卡希雅时之重奏个人故事
+30	喏。	喏。	ほら。	자.	Mm.						0	3.5版本安卡希雅时之重奏个人故事
+31	安卡希雅用嘴叼起一块薯片，自然地伸到我的嘴边。	安卡希雅用嘴叼起一塊洋芋片，自然地伸到我的嘴邊。	アカシアはポテチを一枚、口にくわえたまま、自然な動きで私の唇の前まで差し出してくる。	아카시아는 입으로 감자칩 한 조각을 물고 자연스럽게 내 입가로 다가왔다.	Acacia held a chip between her lips and leaned in, as if it were the most natural thing in the world.						0	3.5版本安卡希雅时之重奏个人故事
+32	在接过薯片的同时，我也顺势按下了“开始游戏”。	在接過洋芋片的同時，我也順勢按下了「開始遊戲」。	それを受け取るのと同時に、私は「はじめる」を押した。	감자칩을 받아먹으면서 나는 자연스럽게 '게임 시작'을 눌렀다.	Taking the chip from her, I pressed "Start Game."						0	3.5版本安卡希雅时之重奏个人故事
+33	……	……	……	……	...						0	3.5版本安卡希雅时之重奏个人故事
+34	依旧是那个熟悉的校园恋爱故事。	依舊是那個熟悉的校園戀愛故事。	やっぱり、あの「いつもの」学園恋愛ストーリーだ。	여전히 그 익숙한 캠퍼스 로맨스 스토리였다.	It was still that same familiar campus romance story.						0	3.5版本安卡希雅时之重奏个人故事
+35	相遇、组建社团、废部危机、泳装回、成功解决。	相遇、組建社團、廢部危機、泳裝回、成功解決。	出会い、二人だけのサークル結成、廃部の危機、そして水着回。ちゃんと解決して、きちんと成功。	만남, 동아리 창설, 해산 위기, 수영복 에피소드, 성공적인 해결.	Two people meeting. A club formed together. The looming threat of disbandment. A summer break by the sea, swimsuits and all. A crisis faced side by side.						0	3.5版本安卡希雅时之重奏个人故事
+36	不过，因为我们彼此甜蜜回忆的存在，这次的故事更加生动。	不過，因為我們彼此甜蜜回憶的存在，這次的故事更加生動。	だけど――私たちの甘い記憶が下地にあるせいで、今回の物語は前よりずっと息づいていた。	하지만, 우리의 달콤한 추억들 덕분에 이번 스토리는 더욱 생생했다.	But because of the sweet memories we shared, this playthrough of the story felt much more vivid.						0	3.5版本安卡希雅时之重奏个人故事
+37	我们曾共同创立的社团。	我們曾共同創立的社團。	一緒に作ったサークル。	우리가 함께 만든 동아리.	The club we had founded together.						0	3.5版本安卡希雅时之重奏个人故事
+38	我们曾在雅卢岛上共同经历的假期。	我們曾在雅盧島上共同經歷的假期。	ガルーアイランドで過ごした、あの休日。	우리가 야루섬에서 함께 보낸 휴가.	The vacation we had spent together on Yallu Island.						0	3.5版本安卡希雅时之重奏个人故事
+39	我们曾齐心协力解决了尘白恶魔号的危机……	我們曾齊心協力解決了塵白惡魔號的危機……	Snowbreak Aku-MAの危機を、二人で乗り越えたこと……	우리가 힘을 합쳐 해결한 순백의 악마 위기…	The Snowbreak Aku-MA crisis that we had joined forces to overcome...						0	3.5版本安卡希雅时之重奏个人故事
+40	无数美好的回忆化作故事的养料，为这个独属于我的游戏增色不少。	無數美好的回憶化作故事的養料，為這個專屬於我的遊戲增色不少。	そうした全部が「物語の栄養」になって、このゲームを私だけのものにしていく。	수없이 많은 아름다운 추억들이 스토리의 자양분이 되어, 나만을 위한 이 게임을 한층 더 빛나게 했다.	Endless beautiful memories had turned into nourishment for the story, adding extra color to this game made just for me.						0	3.5版本安卡希雅时之重奏个人故事
+41	而曾经缺少的表白情节，被如今的安卡希雅，以最浪漫的方式描绘了出来。	而曾經缺少的表白情節，被如今的安卡希雅，以最浪漫的方式描繪了出來。	そして、かつて欠けていた「告白」は――今のアカシアの手で、いちばんロマンチックな形に塗り替えられていた。	그리고 예전엔 없었던 고백 장면은, 지금의 아카시아에 의해 가장 로맨틱한 방식으로 그려졌다.	And Acacia depicted the love confession scene that had been missing before in the most romantic way.						0	3.5版本安卡希雅时之重奏个人故事
+42	教学楼的天台上，暖风徐徐，温柔且舒适。	教學樓的頂樓暖風徐徐，溫柔且舒適。	校舎の屋上。あたたかい風が吹き、優しくて、心地よい。	강의동 건물 옥상에서 불어오는 따뜻한 바람은 온화하고 편안했다.	On the rooftop of the school building, a warm breeze was blowing, gentle and comfortable.						0	3.5版本安卡希雅时之重奏个人故事
+43	她背对着夕阳，侧身看向我，茜红色的光芒与脸庞的绯色交织。	她背對著夕陽，側身看向我，橘紅色的光芒與臉龐的緋色交織。	彼女は夕陽を背に、横顔でこっちを見る。茜の光と頬の紅が重なり合って――	그녀는 석양을 등지고 옆으로 나를 바라봤고, 석양빛이 그녀 얼굴의 홍조와 교차했다.	She stood with the setting sun at her back, turning slightly to face me. The crimson light caught the color in her cheeks, blending the two together.						0	3.5版本安卡希雅时之重奏个人故事
+44	嘴唇微微开合，深吸了一口气。	嘴唇微微開合，深吸了一口氣。	息を吸う唇が、小さく震えた。	입술을 살짝 열었다 닫으며, 깊게 숨을 들이마셨다.	Her lips parted slightly as she drew in a deep breath.						0	3.5版本安卡希雅时之重奏个人故事
+45	随后用最大声音，将自己的心意，以最直接方式，彻底地抒发出来——	隨後用最大的聲音，將自己的心意，以最直接方式，徹底地抒發出來——	そして、胸の奥にある気持ちを、いちばん真っ直ぐな言葉で吐き出す。	그리고 가장 큰 소리로, 자신의 마음을 가장 직접적인 방식으로 완전히 쏟아냈다.	Then, at the top of her lungs, she laid bare her feelings in the most direct way possible—						0	3.5版本安卡希雅时之重奏个人故事
+46	playername前辈，我喜欢你！	playername前輩，我喜歡你！	私、playername先輩のことが、好き。	playername 선배, 좋아해!	playername senpai, I love you!						0	3.5版本安卡希雅时之重奏个人故事
+47	安卡希雅，我喜欢你，一直一直都喜欢你！	安卡希雅，我喜歡你，一直一直都喜歡你！	私もアカシアのことが好きだ。ずっと、ずっと。	아카시아, 좋아해, 전부터 계속 좋아하고 있었어!	I love you too, Acacia. I've always, always loved you!						0	3.5版本安卡希雅时之重奏个人故事
+48	我同时致以我最真挚的回应。	我同時致以我最真摯的回應。	同じだけ真剣に返した。	나도 동시에 가장 진심 어린 답을 전했다.	I offered my most sincere reply.						0	3.5版本安卡希雅时之重奏个人故事
+49	眼角的泪滴闪过夕阳的光芒，随后轻轻滴落在地上。	眼角的淚滴閃過夕陽的光芒，隨後輕輕滴落在地上。	目尻に溜まった雫が夕陽を拾って、ぽとりと地面に落ちる。	눈가의 눈물방울이 석양빛을 반짝이더니, 이내 가볍게 땅에 떨어졌다.	Tears at the corner of her eyes caught the light of the setting sun before gently falling to the ground.						0	3.5版本安卡希雅时之重奏个人故事
+50	注视着安卡希雅略带泪花的眼眸，此刻她一言不发，只是含情脉脉地看着我。	注視著安卡希雅略帶淚花的眼眸，此刻她一言不發，只是含情脈脈地看著我。	涙を宿した彼女の瞳を見つめると、アカシアは何も言わないまま――ただ、愛しそうに私を見返してきた。	눈물 맺힌 아카시아의 눈동자를 바라보았다. 지금 그녀는 아무 말 없이 그저 애틋하게 나를 바라보고 있었다.	She didn't speak. She only looked at me, her gaze full and unguarded.						0	3.5版本安卡希雅时之重奏个人故事
+51	随后回握住了我的手掌，十指纠缠在一起，身体紧紧相拥着。	隨後回握住了我的手掌，十指糾纏在一起，身體緊緊相擁著。	そして手を握り返し、指を絡め、身体ごと抱きしめてくる。	그녀는 내 손을 살며시 붙잡더니, 손가락을 깊게 얽히며 단단히 품에 안겨왔다.	Our fingers found each other, and we held on, closing the distance between us.						0	3.5版本安卡希雅时之重奏个人故事
+52	playername前辈……	playername前輩……	playername先輩……	playername 선배…	playername senpai...						0	3.5版本安卡希雅时之重奏个人故事
+53	她用满怀期待的眼神注视着我，而我又怎会拒绝少女的邀请。	她用滿懷期待的眼神注視著我，而我又怎會拒絕少女的邀請。	期待に満ちた視線。この誘いを、断れるはずがない。	그녀는 기대에 찬 눈빛으로 나를 주시했고, 내가 소녀의 초대를 거절할 수 있을 리 없었다.	The look in her eyes needed no explanation. I leaned in.						0	3.5版本安卡希雅时之重奏个人故事
+54	嘴唇互相碰撞在了一起，就是如此青涩而温馨的初吻。	嘴唇互相碰撞在了一起，就是如此青澀而溫馨的初吻。	唇が触れ合う。青くて、あたたかい――そんな初めてのキス。	입술이 서로 부딪쳤다. 풋풋하고 따뜻한 첫 키스였다.	Our lips met. Awkward, unpracticed, and warm. A first kiss that was clumsy in all the right ways.						0	3.5版本安卡希雅时之重奏个人故事
+55	稍许之后，我们互相松开。	片刻之後，我們互相鬆開。	少しして、ゆっくり唇を離す。	잠시 후, 우리는 서로를 놓아주었다.	Then, slowly, we drew apart.						0	3.5版本安卡希雅时之重奏个人故事
+56	看着略显狼狈的彼此，都笑了起来，紧绷的心弦也终于放下。	看著略顯狼狽的彼此，都笑了起來，緊繃的心弦也終於放下。	互いの少し不格好さが可笑しくて、二人同時に笑ってしまった。張りつめていた胸の糸が、そこでようやくほどけていく。	조금 어색한 서로의 모습에 두 사람은 웃음을 터뜨렸고, 긴장된 마음의 끈도 마침내 풀어졌다.	Seeing how disheveled we both looked, we burst into laughter, and the tension eased.						0	3.5版本安卡希雅时之重奏个人故事
+57	从此之后，我们就是恋人了，安卡希雅。	從此之後，我們就是戀人了，安卡希雅。	これからは恋人だな、アカシア。	이제부터 우리는 연인이야, 아카시아.	Guess that makes us lovers now, Acacia.						0	3.5版本安卡希雅时之重奏个人故事
+58	嗯，现在，我是playername的恋人了。	嗯，現在，我是playername的戀人了。	うん。これから、playername先輩の恋人だね。	응, 지금부터 나는 playername의 연인이야.	Yeah, I'm playername's lover now.						0	3.5版本安卡希雅时之重奏个人故事
+61	剧本 安卡希雅 Playername	劇本 安卡希雅 Playername	脚本　アカシア／Playername	각본 아카시아 playername	Script: Acacia, Playername						0	
+62	特别致谢 亲爱的Playername	特別感謝 親愛的playername	Special Thanks　大切なplayername	특별 감사 사랑하는 playername	Special Thanks: Dear Playername						0	
+59	恭喜亲爱的达成HappyEnd！	恭喜親愛的達成Happy Ending！	――おめでとう、あなた。Happy End達成！	자기의 해피 엔딩 달성을 축하해!	Congratulations on achieving the happy ending, darling!						0	3.5版本安卡希雅时之重奏个人故事
+60	制作人 安卡希雅 Playername	制作人 安卡希雅 Playername	プロデューサー　アカシア／Playername	프로듀서 아카시아 playername	Production: Acacia, Playername						0	3.5版本安卡希雅时之重奏个人故事
+63	完成了。	完成了。	……完成。	완료되었다.	It was complete.						0	3.5版本安卡希雅时之重奏个人故事
+64	象征少女与这个时代正式接轨的起点之作，总算在其迈入人生的下一个阶段前——	象徵少女與這個時代正式接軌的起點之作，總算在其邁入人生的下一個階段前——	少女がこの時代と「ちゃんと繋がる」ための、はじまりの一作。彼女が人生の次のステージへ進む、その前に――	소녀가 이 시대와 정식으로 연결되는 출발점을 상징하는 작품이, 마침내 그녀가 인생의 다음 단계로 나아가기 전에…	Before stepping into the next chapter of her life, Acacia had finally completed the title that marked her arrival in this era.						0	3.5版本安卡希雅时之重奏个人故事
+65	借由我们的手，共同完成了。	藉由我們的手，共同完成了。	私たちの手で、ようやく最後まで形になった。	우리의 손을 통해, 완료되었다.	And we had finished it together.						0	3.5版本安卡希雅时之重奏个人故事
+66	其实，游戏的结局早已在前期测试的过程中体验过无数次了。	其實，遊戲的結局早已在前期測試的過程中體驗過無數次了。	このエンディング自体は、テストの段階で何度も何度も見てきたはずなのに。	사실, 게임의 결말은 이미 초기 테스트 과정에서 수없이 경험했었다.	In fact, I'd already experienced the ending countless times during earlier test runs.						0	3.5版本安卡希雅时之重奏个人故事
+67	可当它以“完成品”的姿态真正呈现在眼前时，心中却依然涌起一阵陌生的悸动。	但當它以「完成品」的姿態真正呈現在眼前時，心中卻依然湧起一陣陌生的悸動。	「完成品」として目の前に現れた瞬間、胸の奥が、知らない鼓動で跳ねた。	하지만 그것이 '완성품'의 모습으로 눈앞에 진정으로 나타나자, 여전히 낯선 설렘이 마음속에서 밀려왔다.	But seeing it now in its finished form, I still felt an unfamiliar flutter in my chest.						0	3.5版本安卡希雅时之重奏个人故事
+68	大概，因为这是我和安卡希雅共同完成的吧。	大概……因為這是我和安卡希雅共同完成的吧。	たぶん――これは、私とアカシアが一緒に作り上げたものだから。	아마 나와 아카시아가 함께 완료했기 때문일 것이다.	Probably because this was something Acacia and I had made together.						0	3.5版本安卡希雅时之重奏个人故事
+69	是的，就像《新星开拓》一样，这只是我们携手写下的美好故事中的一篇。	是的，就像《新星開拓》一樣，這只是我們攜手寫下的美好故事中的一篇。	そう――『惑星開拓』と同じ。これは、私たちが二人で書き足してきた物語の一篇にすぎない。	그렇다. <신성 개척>처럼, 이것도 우리가 손을 잡고 써 내려간 아름다운 이야기 중 한 편이다.	Yes, just like Star Master, this was just one chapter in the series of beautiful stories we wrote together.						0	3.5版本安卡希雅时之重奏个人故事
+70	但这一篇，终究有些不同。	但這一篇，終究有些不同。	けれど、この一篇だけは、やっぱり少し違う。	하지만, 이 편은 조금 다르다.	But this chapter was different.						0	3.5版本安卡希雅时之重奏个人故事
+71	因为它是“恒约”的见证。	因為它是「恆約」的見證。	――「誓約」の証だから。	왜냐하면 이것은 '언약'의 증거니까.	Because it was the witness to our "Covenant."						0	3.5版本安卡希雅时之重奏个人故事
+72	我们为美好之物赋予了新的意义。	我們為美好之物賦予了新的意義。	私たちは「美しいもの」に、新しい意味を与えた。	우리는 아름다운 것에 새로운 의미를 부여했다.	We had given new meaning to something already beautiful.						0	3.5版本安卡希雅时之重奏个人故事
+73	而后——	而後——	そして――	그리고…	And then—						0	3.5版本安卡希雅时之重奏个人故事
+74	《安卡希雅~致我的挚爱~》	《安卡希雅~致我的摯愛~》	『アカシア～愛しい人へ～』	<아카시아: 사랑을 위하여>	From Acacia~ To My Beloved~						0	3.5版本安卡希雅时之重奏个人故事
+74_1	\n后日谈	\n後日談	\n後日談	\n후일담	\nEpilogue						0	
+75	如同恒约仪式本身所象征的那般，迈入了下一个阶段……	如同恆約儀式本身所象徵的那般，邁入了下一個階段……	誓約の儀式が象徴するように、物語は次のステージへ……	언약 의식이 상징하는 것처럼, 다음 단계로 나아갔다…	As symbolized by the Covenant ceremony, we stepped into our next stage...						0	3.5版本安卡希雅时之重奏个人故事
+76	以心意渲染的无数旧日时光，奏响了属于我们的旋律，在礼堂中不断回响。	以心意渲染的無數舊日時光，奏響了屬於我們的旋律，在禮堂中不斷迴響。	想いで染めた無数の「あの頃」が旋律になって、礼堂に幾重にも響きわたる。	마음으로 물들인 과거의 수많은 시간들이 우리만의 선율을 연주하며 예배당 안에서 끊임없이 울려 퍼졌다.	Fragments of the past, filled with shared feelings and quiet moments, began to weave together, forming a gentle melody that echoed through the hall.						0	3.5版本安卡希雅时之重奏个人故事
+77	哦，这是？	哦，這是？	ん？ これは――	어, 이건…?	Oh, what's this?						0	3.5版本安卡希雅时之重奏个人故事
+78	在原本的游戏里，并没有后日谈这个环节。	在原本的遊戲裡，並沒有後日談這個環節。	元のゲームには、後日談なんてはなかった。	원래는 게임에 후일담 부분이 없었다.	In the original game, there wasn't an epilogue like this.						0	3.5版本安卡希雅时之重奏个人故事
+79	我看向身旁的安卡希雅，她露出了一个意味深长的微笑，目光示意我看向屏幕。	我看向身旁的安卡希雅，她露出了個意味深長的微笑，目光示意我看向螢幕。	私は隣のアカシアを見る。彼女は意味ありげに口角を上げ、視線で「ほら」と画面を促す。	옆에 있는 아카시아를 바라보니, 그녀는 의미심장한 미소를 지으며 눈빛으로 화면을 보라고 알려주었다.	I turned to look at Acacia. She met my gaze with a knowing smile and gestured subtly toward the screen.						0	3.5版本安卡希雅时之重奏个人故事
+80	见她如此，我便也明白了她的心思，将视线重新投回屏幕。	見她如此，我便也明白了她的心思，將視線重新投回螢幕。	……なるほど。そういうことか。私はもう一度、視線をスクリーンへ戻した。	그 모습에 나도 그녀의 의도를 알아차렸고, 시선을 다시 화면으로 돌렸다.	Realizing what her reaction meant, I turned my gaze back.						0	3.5版本安卡希雅时之重奏个人故事
+81	屏幕闪烁之后，出现在眼前的是一所明媚的礼堂。	螢幕閃爍之後，出現在眼前的是一所明媚的禮堂。	画面がちかり、と瞬いて――眩しい式場が映し出される。	화면이 깜빡인 후, 밝고 환한 예배당이 눈앞에 나타났다.	After a flicker, a bright, sunlit hall appeared before my eyes.						0	3.5版本安卡希雅时之重奏个人故事
+82	周围是庄严肃穆的瓷白色大理石瓷砖，绣满花纹的红色地毯静静落在地板上。	周圍是莊嚴肅穆的瓷白色大理石瓷磚，繡滿花紋的紅色地毯靜靜落在地板上。	白磁のような大理石の床。荘厳な空気。刺繍の施された赤い絨毯が、音もなく足元に伸びている。	주변은 장엄하고 엄숙한 도자기 흰색 대리석 타일로 되어 있고, 꽃무늬가 수놓인 빨간 카펫이 조용히 바닥에 깔려 있었다.	White marble tiles, solemn and dignified, surrounded us. An embroidered red carpet lay on the floor.						0	3.5版本安卡希雅时之重奏个人故事
+83	而在正中央，少女正穿着一袭白纱，微笑地看着我。	而在正中央，少女正穿著一襲白紗，微笑地看著我。	そして中央には――白いヴェールをまとった少女が、私を見て微笑んでいる。	그리고 정중앙에는, 소녀가 순백의 베일을 두른 채 웃는 얼굴로 나를 바라보고 있었다.	And in the very center, she stood there in a white dress, smiling at me.						0	3.5版本安卡希雅时之重奏个人故事
+84	漫天的花瓣随着微风缓缓落下，浅浅地染在那片纯净的薄纱身上。	漫天的花瓣隨著微風緩緩落下，淺淺地染在那片純淨的薄紗身上。	花びらが風に乗って、はらはらと舞い落ち、薄布に淡く色を落とす。	하늘 가득 흩날리는 꽃잎이 미풍을 따라 천천히 떨어지며, 순수한 얇은 베일 위를 살짝 물들였다.	Petals drifted down on a gentle breeze, brushing against her veil and tinting it faintly with color.						0	3.5版本安卡希雅时之重奏个人故事
+85	那本应是会在未来的几日后才上演的光景。	那本應該是會在未來的幾日後才上演的光景。	本来なら、数日「先」に訪れるはずの光景。	그것은 앞으로 며칠 후에나 보게 될 광경이었다.	It was a scene meant to happen in just a few days' time.						0	3.5版本安卡希雅时之重奏个人故事
+86	而如今却提前，映入了我的眼帘。	而如今卻提前，映入了我的眼簾。	それが今、いち早く私の瞳に焼き付く。	하지만 지금, 미리 내 눈앞에 펼쳐졌다.	Yet here it was, appearing before me ahead of schedule.						0	3.5版本安卡希雅时之重奏个人故事
+87	这是独属于安卡希雅的邀请，同时是只有我能回应的请求。	這是專屬於安卡希雅的邀請，同時是只有我能回應的請求。	これはアカシアだけの「招待」で、私だけが返せる「お願い」だ。	이것은 아카시아만의 초대이자, 오직 나만이 응답할 수 있는 요청이다.	This was an invitation only Acacia could offer, and a question only I could answer.						0	3.5版本安卡希雅时之重奏个人故事
+88	望向一旁略显得意的“始作俑者”，我笑了笑。	望向一旁略顯得意的「始作俑者」，我笑了笑。	少し得意げな「仕掛け人」へ目を向け、私は小さく笑った。	옆에서 살짝 득의양양한 '범인'을 바라보며, 나는 웃었다.	I looked to the side at the slightly smug "culprit" and smiled.						0	3.5版本安卡希雅时之重奏个人故事
+b-1											0	3.5版本安卡希雅时之重奏个人故事
+89	是否要与安卡希雅缔结恒约	是否要與安卡希雅締結恆約	アカシアと誓約を結びますか。	아카시아와 언약을 맺으시겠습니까?	Form a Covenant with Acacia?						0	3.5版本安卡希雅时之重奏个人故事
+90	随后，在按下“确认”的按钮的同时，搂住了她的腰际。	隨後，在按下「確認」按鈕的同時，摟住了她的腰際。	――そして「はい」を押すのと同時に、私は彼女の腰を抱き寄せた。	 '확인' 버튼을 누르는 동시에, 그녀의 허리를 껴안았다.	Then, as I pressed "Yes," I wrapped my arm around her waist.						0	3.5版本安卡希雅时之重奏个人故事
+91	相同的答案，还要再让我说一次吗？	相同的答案，還要再讓我說一次嗎？	同じ答えを、もう一度言わせる気か。	같은 대답을 또 하게 하려고?	Do you really need to hear the same answer again?						0	3.5版本安卡希雅时之重奏个人故事
+92	咚咚咚——	怦怦怦——	ドクン――ドクン――	쿵쿵쿵.	Thump, thump, thump—						0	3.5版本安卡希雅时之重奏个人故事
+93	此刻，我清楚地听到她热意而剧烈的心跳。	此刻，我清楚地聽到她熱切而劇烈的心跳。	腕の中で、熱くて乱暴な鼓動がはっきり聞こえる。	그 순간, 나는 그녀의 뜨겁고 격렬한 심장 박동을 분명히 들었다.	I could clearly hear her heart pounding fast and passionately.						0	3.5版本安卡希雅时之重奏个人故事
+94	这一次，是亲爱的来问我。	這一次，是親愛的來問我。	今回は……あなたが、私に聞く番。	이번에는 자기가 나한테 물어보는 거야.	This time, you're the one who gets to ask, darling.						0	3.5版本安卡希雅时之重奏个人故事
+95	不用再确认吧。	不用再確認吧。	確認なんて、いらないだろ。	더 이상 확인할 필요 없잖아.	You don't need to keep confirming.						0	3.5版本安卡希雅时之重奏个人故事
+96	我轻轻吻上她的唇。	我輕輕吻上她的唇。	そっと、彼女の唇に口づける。	나는 그녀의 입술에 가볍게 입을 맞췄다.	I gently kissed her lips.						0	3.5版本安卡希雅时之重奏个人故事
+97	安卡希雅，我将与你，缔结恒约，直至永远。	安卡希雅，我將與你，締結恆約，直至永遠。	アカシア。私は君と誓約を結ぶ――\nこれから先も、ずっと変わらない。	아카시아, 너와 언약을 맺을게, 영원히.	Acacia, I will form a Covenant with you, for all eternity.						0	3.5版本安卡希雅时之重奏个人故事
+98	我大声地念出了屏幕上的台词，随后看向安卡希雅。	我大聲地唸出了螢幕上的台詞，隨後看向安卡希雅。	画面の台詞を、わざと声に出して読み上げてみせた。それから、隣のアカシアに目をやる。	나는 화면 속 대사를 크게 읊은 후, 아카시아를 바라보았다.	I read the lines on the screen out loud, then looked at her.						0	3.5版本安卡希雅时之重奏个人故事
+99	屏幕中与现实中，她轻柔而饱含情意的声音传入我的耳畔。	螢幕中與現實中，她輕柔而飽含情意的聲音傳入我的耳畔。	スクリーンの中と同じ――柔らかく、満ちた想いの声が、耳元へ落ちてくる。	화면과 현실 속에서, 그녀의 부드럽고 애정 가득한 목소리가 내 귓가에 전해졌다.	From the screen, and from her lips beside me, her answer reached me at the same time, soft and full of feeling.						0	3.5版本安卡希雅时之重奏个人故事
+100	嗯……我愿意……	嗯……我願意……	……うん……よろこんで。	응… 나도 좋아…	Yes, I'd love that...						0	3.5版本安卡希雅时之重奏个人故事
+101	她眼神微微湿润，紧紧地抱住了我，身体彼此贴合，感受着彼此之间的温度。	她眼神微微濕潤，緊緊地抱住了我，身體彼此貼合，感受著彼此之間的溫度。	瞳がわずかに潤み、彼女は私をぎゅっと抱きしめた。身体がぴたりと重なって、互いの温度が一つに溶けていく。	그녀는 눈빛이 살짝 촉촉해지며 나를 꽉 껴안았고, 몸이 밀착되면서 서로의 온기를 느꼈다.	Her eyes grew moist as she hugged me tightly, our bodies pressed together, sharing each other's warmth.						0	3.5版本安卡希雅时之重奏个人故事
+102	……	……	……	……	...						0	3.5版本安卡希雅时之重奏个人故事
+103	稍许，怀中的她缓缓抬起头。	片刻後，懷中的她緩緩抬起頭。	しばらくして、腕の中の彼女がゆっくり顔を上げる。	잠시 후, 품 안의 그녀가 천천히 고개를 들었다.	After a moment, she slowly lifted her head in my arms.						0	3.5版本安卡希雅时之重奏个人故事
+104	她嘴角挂过一丝微笑，将红唇贴到我的耳畔，棉花糖般绵柔甜蜜的话语响起。	她嘴角掛起一絲微笑，將紅唇貼到我的耳畔，棉花糖般綿柔甜蜜的話語響起。	口元に小さな笑み。赤い唇が私の耳たぶに寄り、綿菓子みたいに甘い声が囁く。	그녀의 입가에 미소가 스쳤고, 붉은 입술이 내 귓가에 다가와 솜사탕처럼 부드럽고 달콤한 말을 전했다.	A faint smile played at the corner of her lips as she brought them to my ear. Her words were as soft and sweet as cotton candy.						0	3.5版本安卡希雅时之重奏个人故事
+105	现实中，亲爱的要不要也触发下，安卡希雅的特殊CG呢？	現實中，親愛的要不要也觸發一下，安卡希雅的特殊CG呢？	ねえ、現実でも……「アカシアのスペシャルCG」、解放してみる？	자기, 현실에서도 아카시아의 특수 CG를 발동시켜 볼래?	So... darling, would you like to trigger my special cutscene in real life as well?						0	3.5版本安卡希雅时之重奏个人故事
+106	相变核心的启动声响起，怀中安卡希雅的触感突然发生一些变化。	相變核心的啟動聲響起，懷中安卡希雅的觸感突然發生一些變化。	フェーズコアの起動音がして、抱きしめた感触が、ふっと変わる。	페이즈 코어의 작동음이 울리고, 품속 아카시아의 촉감이 조금 변했다.	The activation hum of the Transphase Core rang out, and the feeling in my arms suddenly changed.						0	3.5版本安卡希雅时之重奏个人故事
+107	看来安卡希雅是早有准备啊。	看來安卡希雅是早有準備啊。	抜かりないな、アカシア。	아카시아는 일찍부터 준비했던 모양이네.	I see you came prepared.						0	3.5版本安卡希雅时之重奏个人故事
+108	那、是、当、然、	那、是、當、然！	あ・た・り・ま・え。	당.연.하.지.	But of course.						0	3.5版本安卡希雅时之重奏个人故事
+109	现实中的甜蜜故事，也请由亲、爱、的、一起填补。	現實中的甜蜜故事，也請由親、愛、的一起填補。	現実の「甘い続き」も――あ・な・たが、一緒に埋めて。	현실 속 달콤 스토리도 자.기.가 함께 채워줘.	I was hoping you'd help me... fill in this part of the story, too. Here, in real life.						0	3.5版本安卡希雅时之重奏个人故事
+110	她说着，手臂似蛇般顺着我的身体游走，如捕获猎物般紧紧扣住我的手掌。	她說著，手臂似蛇般順著我的身體游走，如捕獲獵物般緊緊扣住我的手掌。	そう言いながら、指先が探るみたいに撫でてくる。獲物を捕らえるように私の手をしっかりと握り締める。	그녀는 그렇게 말하며 팔을 뱀처럼 내 몸을 따라 천천히 움직여 사냥감을 붙잡듯 내 손을 단단히 움켜쥐었다.	As she spoke, her hands roamed over my body like serpents, eventually tightening around my hand, as if she'd finally claimed her prey.						0	3.5版本安卡希雅时之重奏个人故事
+111	我下意识地翻动手腕，掌心扣合在一起，身体也顺势与她紧紧贴合。	我下意識地翻動手腕，掌心扣合在一起，身體也順勢與她緊緊貼合。	無意識に手首を返し、掌を重ねて彼女に寄り添う。	나는 본능적으로 손목을 돌려 손바닥을 맞잡았고, 몸도 자연스럽게 그녀와 더욱 밀착되었다.	Almost instinctively, I turned my wrist, our palms locking together as my body followed.						0	3.5版本安卡希雅时之重奏个人故事
+112	汹涌的爱意将我们彼此浸没，空气也变得粘稠。	洶湧的愛意將我們彼此浸沒，空氣也變得黏稠。	溢れ出す想いにふたりは呑まれ、空気さえも甘く重く溶けていく。	우리는 밀려드는 감정에 깊이 잠겼고, 공기마저 끈적하게 느껴졌다.	A surge of overwhelming affection washed over us, filling the air until it felt thick between us.						0	3.5版本安卡希雅时之重奏个人故事
+113	燥热感袭来，看着她柔情的眼眸，我慢慢贴过脸庞，用一个深吻，将爱意尽数向她倾诉。	燥熱感襲來，看著她柔情的眼眸，我慢慢貼過臉龐，用一個深吻，將愛意盡數向她傾訴。	熱に焦がれ、彼女の潤んだ瞳を見つめながら、そっと顔を寄せる。深い口づけに、溢れる想いのすべてを託した。	뜨거운 열기가 스며들고, 그녀의 다정한 눈빛을 바라보며 나는 천천히 얼굴을 가까이했다. 그리고 깊은 입맞춤으로 마음속 사랑의 감정을 모두 그녀에게 전했다.	A restless heat crept in. Meeting the tenderness in her eyes, I slowly leaned in and kissed her, pouring every unspoken feeling into it.						0	3.5版本安卡希雅时之重奏个人故事
+114	世界在此时静默，唯有彼此的呼吸，与她温柔的包围。	世界在此時靜默，唯有彼此的呼吸，與她溫柔的包圍。	世界は静まり、残るのは彼女の温もりとふたりの息づかいだけ。	그 순간, 세상은 고요해지고 오직 서로의 숨결만이 남았다. 그리고 그녀의 부드러운 온기가 나를 감싸고 있었다.	The world fell silent in that moment. There was only our breathing, and the gentle warmth of her surrounding me.						0	3.5版本安卡希雅时之重奏个人故事
+115	而属于我们的幸福时光，才刚刚开始。	而屬於我們的幸福時光，才剛剛開始。	そして、ふたりの幸せな時間は、まだ始まったところだった。	우리의 행복한 시간은 이제 막 시작되었다.	And I know, our time of happiness had only just begun.						0	
+116	我们还有很长很长的时间，去留下更多美好的回忆。	我們還有很長很長的時間，去留下更多美好的回憶。	時間は長い。私たちはこれからも、いくらでも――「続き」を書ける。	우리는 앞으로도 아주 긴 시간을 함께하며, 아름다운 추억을 더 많이 쌓아갈 것이다.	We still had a long, long future ahead of us. One filled with moments like this, and countless more memories yet to be made.						0	

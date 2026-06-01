@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	头……好痛。	頭……好痛。	うえ……気持ち悪い……	머리가… 너무 아파.	Ouch... my head hurts...						0	
+page0.2	我昨晚真不该喝那么多小麦碳酸饮料。	我昨晚真不該喝那麼多小麥碳酸飲料。	昨日あんなテンションで強い炭酸ガバガバ飲むんじゃなかった……おまけにあんまり覚えてないなんて……	어제 밀 탄산음료를 그렇게 많이 마시는 게 아니었는데.	I drank wayyy too much malt soda last night.						0	
+page0.3	分析员，我……我没干什么吧？	分析員，我……我什麼都沒做吧？	分析員、その……私、昨日何か迷惑かけたりしてない？	분석가, 내가… 무슨 이상한 짓이라도 한 건 아니지?	Adjutant, I... I didn't do anything, right?						0	
+page0.4	没什么，你只是一边喊热，一边开始脱衣服，芬妮和芙提雅两个人才勉强按住你……	沒什麼，你只是一邊喊熱，一邊開始脫衣服，芬妮和芙提雅兩個人花了一番功夫才成功阻止你……	うーん、暑い暑いって言いながら服を脱ごうとしてたかな。ファニーとフリティアが必死で止めたけど……	딱히 없어. 그냥 덥다면서 옷을 벗기 시작하길래, 페니랑 프티야가 힘을 합쳐서 겨우 말렸지.	Not much. You were just shouting about how hot it was before you started taking your clothes off. Fenny and Fritia could barely hold you down...						0	
+page0.5	！！！	！！！	！！！	!!!	!!!						0	
+page0.6	瑟瑞斯还要拍照，我赶紧和她说这种事就用不着记录了，当事人醒来不会想看见的。	瑟瑞斯還打算拍照，我急忙告訴她這種事就沒必要記錄了，當事人醒來不會想看的。	シーリスが、楽しいからって写真を撮ろうとしてたんだけど……状況が状況だったし撮らせなかったよ。	세리스가 사진을 찍으려고 하길래, 이런 일은 당사자가 정신을 차렸을 때 보기 민망할 테니 기록할 필요는 없다고 해줬어.	Siris wanted to take a picture, but I told her that she didn't need to record stuff like that, and you wouldn't want to see it after you woke up either.						0	
+page0.7	不是吧……	不會吧……	嘘だろ……	그럴 리가…	No way...						0	
+page0.8	还有。	還有。	それから……	그리고…	There's more.						0	
+page0.9	还有！？	還有！？	それから！？	그리고!?	There's more!?						0	
+page0.10	你拉着我到一边，偷偷和我说你有个秘密憋了很久，一定要告诉我。	你拉著我到角落，偷偷跟我說你有個秘密忍了很久，一定要告訴我。	私を引っ張って、秘密を教えるって、こっそり言ってきた。	갑자기 날 한쪽으로 끌고 가더니, 계속 나한테 알려주고 싶던 비밀이 있다고 했어.	You pulled me aside and told me you had a secret you've been keeping for a long time, but you had to tell me.						0	
+page0.11	啊？	什麼？	は？	뭐?	Huh!?						0	
+page0.12	你告诉我你需要很多钱去修建一座孤儿院，现在已经攒了不少。	你告訴我你需要很多錢去修建一座孤兒院，現在已經存了不少。	孤児院を建てるための大金が必要だけど、もう貯金がたくさんあるって。	보육원을 짓기 위해 돈이 많이 필요한데, 이미 어느 정도 모았다고 했어.	You told me you're working to get a bunch of money to build an orphanage, and you've already saved a lot.						0	
+page0.13	妮塔，真没想到你能坚持这么久，看来用不了多久你的目的就能实现了。	妮塔，真沒想到你能堅持這麼久，看來你的目標過沒多久就能實現了。	ニタが地道に貯金してたなんて。その目標はすぐ達成できそうだね。	니타, 네가 이렇게까지 오랫동안 버틸 줄은 정말 예상치 못했어. 이제 곧 네 목표를 실현할 수 있겠네.	I had no idea you've been saving for so long, Nita. Looks like you're going to reach your goal in no time.						0	
+page0.14	这些事看起来很愚蠢吧。	這些事看起來很愚蠢吧。	馬鹿馬鹿しいよね。	되게 어리석어 보일 것 같아.	You must think it's pretty stupid, right?						0	
+page0.15	我并不会这么认为。	我並不這麼認為。	そうは思わない。	난 그렇게 생각하지 않아.	Not at all.						0	
+page0.16	那既然你知道了我的秘密，我们就是“共犯”了。	既然你知道了我的秘密，那我們就是“共犯”了。	私の秘密を知った以上、これからは「共犯者」ね。	분석가도 내 비밀에 대해 알았으니, 이제부터 우린 '공범'인 거야.	Now that you know my secret, we're "accomplices."						0	
+page0.17	在我实现之前可别告诉其他人啊，万一失败可就太丢脸了。	在我實現之前可別告訴其他人啊，萬一失敗可就太丟臉了。	実現するまで誰にも言わないでよ？失敗したら大恥かくから。	내가 목표를 실현하기 전까지는 절대로 아무한테도 말하면 안 돼. 만약 실패하면 너무 부끄러우니까.	Don't tell anyone before I actually do it — it'll be way too embarrassing if I fail.						0	

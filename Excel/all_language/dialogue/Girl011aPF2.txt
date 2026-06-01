@@ -1,0 +1,77 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	……	……	……	…	...						0	
+2	全副武装的士官冲进走廊，把作为“入侵者”的我们团团围住。	全副武裝的士官衝進走廊，把身為「入侵者」的我們團團圍住。	完全武装した兵士が廊下に突入し、「侵入者」の私たちを取り囲んだ。	무장한 사관이 복도로 뛰어들어 '침입자'인 우리를 겹겹이 에워쌌다.	Heavily armed sergeants rushed into the hallway and had us surrounded like intruders.						0	
+3	站住！不许动！！	站住！不許動！！	とまれ！動くな！！	멈춰! 움직이지 마!	Freeze! Don't move!!!						0	
+4	我们现在的任务是……解救前来参加舞会的宾客，嗯……	我們現在的任務是……拯救前來參加舞會的賓客，嗯……	今のミッションは……舞踏会に参加している賓客の救出。うーん……	현재 우리의 미션은… 무도회에 온 하객들을 구하는 거지? 음…	Our current mission is... to save the guests at the ball...						0	
+5	恩雅专注地盯着电子屏幕，屏幕里上演的是我曾在耶洛沙奥尔洛夫公馆经历的一幕。	恩雅專注地盯著電子螢幕，螢幕裡上演的是我曾在耶洛沙奧爾洛夫公館經歷的一幕。	エンヤ姉は一心不乱にスクリーンを見つめている。そこには、イェロシャのオルロフ公邸で経験した一幕が映っていた。	엔야는 오를로프 저택에서 겪었던 장면의 스크린을 바라보았다.	Enya stared at the screen, completely focused. The image on the screen was from one of my experiences at Orlov Mansion in Yehrus.						0	
+6	她紧紧攥住摇杆操控移动，想冲在前面快速解决掉敌人，但却总被出其不意的偷袭打乱阵脚。	她緊緊握住搖桿操控移動，想衝在前面快速解決敵人，但卻總被出其不意的偷襲打亂陣腳。	彼女はコントローラを力いっぱい握りしめながら、いち早く敵を倒そうと焦っていた。そのせいで、何度も奇襲に遭い、ペースを乱されていた。	조이스틱을 움켜쥐고 앞으로 돌진해 타깃을 처리하려 했지만, 예상치 못한 습격에 속수무책이었다.	She gripped the joystick to move, attempting to rush forward and quickly handle the enemy. However, she kept getting interrupted by unexpected sneak attacks.						0	
+7	与此同时，我也对越来越密集的攻击应接不暇，自身难保。	同時，我也對越來越密集的攻擊應接不暇，自身難保。	その一方で、休む暇もない攻撃に晒され、私自身も余裕を失っていた。	동시에 점점 더 집중되는 공격에 압도되어 결국엔 자신조차 보호할 수 없게 되었다.	Meanwhile, I was getting overwhelmed by the increasingly powerful attacks and was unable to hold them off.						0	
+8	恩雅，小心你的后面！	恩雅，小心你的後面！	エンヤ姉！後ろ！	엔야, 뒤를 조심해요!	Enya, watch out behind you!						0	
+9	唔！呃……哎呀！	唔！呃……哎呀！	うん！あ……きゃっ！	윽! 으악… 앗!	Oh! Um... Ah!						0	
+10	啊，游戏结束了！还是……不太行呢……	啊，遊戲結束了！還是……不太行呢……	あ、ゲームオーバーになっちゃった。やっぱり……ダメですね……	아, 게임이 끝나버렸어! 잘 풀리는데?…	Ah, game over! Looks like... it's not right yet...						0	
+11	几小时前，休息日的上午	幾小時前，休息日的上午	数時間前、休日の朝。	몇 시간 전(휴일 오전)…	A few hours earlier on our day off						0	
+12	分析员，我们今天要做什么呢？	分析員，我們今天要做什麼呢？	ここで何をするんですか？	분석가, 오늘 뭐할까?	Adjutant, what are we going to do today?						0	
+13	恩雅最近太辛苦了，今天我们不工作也不训练。	恩雅最近太辛苦了，今天我們不工作也不訓練。	いや。最近のエンヤ姉は頑張りすぎだから。今日は訓練も仕事もなしだよ。	요즘에 너무 고생하셨으니까 오늘은 일이나 훈련은 절대 금지예요.	Enya, you've been working too hard recently. We aren't going to work or train today.						0	
+14	嗯……其实还好啦，尽快通过测试，姐姐也可以早点回到分析员和大家的身边呀~	嗯……其實還好啦，盡快通過測試，姊姊也可以早點回到分析員和大家的身邊呀~	だって……お姉さんも早くテストに合格して、分析員やみんなの傍に戻りたいじゃないですか。	아… 뭐, 사실 괜찮아! 내가 테스트를 빨리 통과해야 분석가랑 대원들 곁에서 함께 할 수 있잖아~	Oh... I'm alright though. I just want to pass as soon as possible so I can get back to you and everyone else~						0	
+b-1											0	
+15	话虽如此，说好了要劳逸结合。	話雖如此，說好了要勞逸結合。	それでも、息抜きは必要だ。	그렇지만 쉴 때는 쉬어야죠.	I understand, but we talked about keeping a good work-life balance.						0	
+b-2											0	
+16	今天就彻底放松一下吧！	今天就徹底放鬆一下吧！	今日は練習のことを忘れて、思いっきりリラックスしよう！	오늘은 한없이 즐겨요!	Today, we're going to totally relax!						0	
+b-3											0	
+17	跟我来。	跟我來。	さあ、こっちだ。	따라와요.	Come with me.						0	
+18	改造之后的公共游戏室恩雅应该还没有来过吧。	改造後的公共遊戲室恩雅應該還沒來過。	改装後のゲーム室にはまだ来てないよな？	리뉴얼된 오락실에 가본 적 있으세요?	You haven't seen the renovated game room yet, right?						0	
+19	前段时间在安卡希雅的建议下，公司给这里新添了一批特别订购的游戏机。	前段時間在安卡希雅的建議下，公司為這裡新設了一批特別訂購的遊戲機。	この前、アカシアの提案で、会社は新型のゲーム機を購入したんだ。	얼마 전에 아카시아의 건의로 화사에서 게임기를 새로 추가했어요.	A while ago, the company specially ordered a bunch of different video game consoles at Acacia's suggestion.						0	
+20	比如这台，按照安卡希雅的说法，是上个世纪九十年代经典街机的迷你复刻版。	例如這台，按照安卡希雅的說法，是上個世紀九十年代經典街機的迷你復刻版。	例えばこれ。アカシアによると、前世紀の90年代に一世を風靡したアーケードゲームのミニ復刻版らしい。	아카시아에 말에 따르면 이건 1990년대의 클래식 아케이드 기계의 미니 복제품이라고 해요.	Like this one, for example. Acacia said it's a miniature replica of a classic arcade machine from the 1990s.						0	
+21	很可爱的外形呢~那姐姐我就来试试吧~	很可愛的外形呢~那姊姊我就來試試吧~	形がすでに可愛いですね～早速試してみましょうか。	비주얼이 엄청 귀여운데? 그럼 한번 시도해 볼까?	How cute~ I'm going to give it a try~						0	
+22	恩雅选择了一款二人配合闯关、躲避攻击的游戏。	恩雅選擇了一款兩人配合闖關、躲避攻擊的遊戲。	エンヤはいくつもある中から、2人で協力して攻撃を避けながら進んでいくタイプのゲームを選んだ。	엔야는 두 사람이 협력해서 공격을 피하는 유형의 게임을 선택했다.	Enya chose a game where two players work together to dodge attacks and move through various stages.						0	
+23	有趣的是，游戏内置的关卡地图正是根据现实环境制作的。	有趣的是，遊戲內建的關卡地圖正是根據現實環境製作的。	このゲームのミソは、現実に起きた事件に基づいて作られたステージが実装されているところだ。	게임에 내장된 스테이지 맵은 현실 환경에 맞춰져서 제작됐는지 굉장히 흥미로워 보였다.	Interestingly, the level maps in the game were modeled after real environments.						0	
+24	角色选择……嗯，这个紫色头发的小人和姐姐我很像呢，就她了。	角色選擇……嗯，這個紫色頭髮的小人和姊姊我很像呢，就她了。	キャラはどれにしましょうか……この紫色の髪の女の子、私に似てるかも。この子にしましょう。	캐릭터 선택이라… 흠, 가만 보자. 보라색 머리를 하고 있는 캐릭터가 나랑 닮은 것 같아. 이 캐릭터를 선택해야겠어.	Choose a character... Hey, that girl with the purple hair looks a lot like me. I'll pick her.						0	
+25	那我就选这个戴兜帽的小人好了。	那我就選這個戴兜帽的小人好了。	じゃあ、私はこのフードをかぶっているキャラだな。	그럼 저는 후드를 쓴 캐릭터를 선택할게요.	Then I'll choose this guy who's wearing a hood.						0	
+26	关卡地图……唔……	關卡地圖……唔……	ステージは……これにしようかな……	스테이지 맵이라… 음…	Level map... Hmm...						0	
+27	出乎意料，恩雅直接选择了她从没去过的耶洛沙地区，然后按下了开始。	出乎意料，恩雅直接選擇了她從未去過的耶洛沙地區，然後按下了開始。	意外なことに、エンヤは迷わず行ったことのないイェロシャステージを選び、そのまま開始ボタンを押した。	예상과 달리 엔야는 자신이 한 번도 가보지 않은 옐로샤 지역을 선택한 뒤 게임 시작을 눌렀다.	Unexpectedly, even though she'd never been there before, Enya chose the Yehrus map and pressed start.						0	
+28	随着游戏关卡加载完成，我们二人开始在一望无际的雪原上跋涉……	隨著遊戲關卡加載完成，我們兩人開始在一望無際的雪原上跋涉……	読み込みが終わった後、私たちは広大な雪原を歩きはじめた……	게임의 스테이지 로딩이 완료되고, 우리는 끝없이 펼쳐진 설원을 걷기 시작했는데…	As the level loaded in, we began to travel across the endless snowfield...						0	
+29	在昏暗的奥尔洛夫公馆里解救宾客……	在昏暗的奧爾洛夫公館裡解救賓客……	オルロフ公邸に向かい、賓客を救出してから……	어두컴컴한 오를로프 저택에서 하객을 구출하고…	We rescued guests under the dim light of the Orlov Mansion...						0	
+30	在鱼龙混杂的黑街与“皇后”的手下对峙……	在魚龍混雜的黑街與「皇后」的手下對峙……	無法者が集まる裏町で、「クイーン」の手下と睨み合った。	블랙 스트릿에서 '퀸'의 부하들과 대치해야 했다…	And confronted the Queen's men in the shady Black-Ice Alley...						0	
+31	恩雅操作的角色可以给身边人提供支援和掩护，我则主要负责探路和解谜。	恩雅操作的角色可以提供身邊人支援和掩護，我則主要負責探路和解謎。	エンヤ姉のキャラは支援向けなので、マップ探索や謎解きは私の担当だ。	엔야의 포지션은 주변 사람들에게 지원과 엄호를 해주는 역할이었고 나는 길을 찾고 수수께끼를 푸는 역할이었다.	Enya's character was good for providing support and cover, while I took care of exploring and solving puzzles.						0	
+32	啊！对不起……我没注意到分析员旁边的陷阱……	啊！對不起……我沒注意到分析員旁邊的陷阱……	あ！ごめんなさい……分析員の傍にあるトラップに気付かなかったです……	아! 미안… 분석가 옆에 있는 함정을 알아차리지 못했어…	Ah! I'm sorry... I didn't notice that trap next to you, Adjutant...						0	
+33	不要紧的，我已经破解了。唔，看来这一关的难度不低呢。	不要緊的，我已經破解了。唔，看來這一關的難度不低呢。	大丈夫だ、もう解除したから。それにしても、随分ハードルの高いステージだな。	괜찮아요. 그건 제가 이미 해결했어요. 음, 스테이지 난이도가 꽤 높은 것 같아요.	It's alright. I already figured it out. Looks like this level isn't that hard.						0	
+34	是我选的关卡……抱歉。	是我選的關卡……抱歉。	すみません……こんなステージを選んでしまって……	내가 고른 거야… 미안.	I chose this level... Sorry.						0	
+35	之前分析员在耶洛沙受了伤，我却没能陪在你身边。	之前分析員在耶洛沙受了傷，我卻沒能陪在你身邊。	分析員がイェロシャで負傷したのに、私は傍に居てあげられなかったから。	전에 분석가가 옐로샤에서 다쳤을 때 내가 옆에 있어 주지 못했잖아.	You got hurt in Yehrus, but I couldn't be there with you.						0	
+36	所以，哪怕是在游戏里，我也想和分析员一起走一遍你当时走过的路……	所以，那怕是在遊戲裡，我也想和分析員一起走一遍你當時走過的路……	せめてゲームの中で、分析員が通った道を追体験してみたくて……	그래서 게임 안에서라도 분석가와 함께 분석가가 걸었던 길을 걸어보고 싶었어…	So even if it's just in a video game, I want to walk with you along the same path you took back then...						0	
+37	游戏紧张危险的氛围很快把我们的注意力拉了回去，我一边和恩雅四处观察，一边根据回忆谨慎地向前探索。	遊戲緊張危險的氛圍很快把我們的注意力拉了回去，我一邊和恩雅四處觀察，一邊根據回憶謹慎地向前探索。	ひりつく雰囲気に呑まれながら、私たちはまたゲームにのめり込んでいった。周囲を警戒しつつ、記憶を頼りにゲームを進めていく。	게임의 긴장과 위험한 분위기가 다시 우리의 집중력을 끌어올렸고, 나는 엔야와 함께 사방을 살피면서 기억을 기반으로 조심스럽게 앞으로 나아갔다.	The tense atmosphere in the game quickly captured our attention once again. As Enya and I observed the map around us, we cautiously continued forward based on what we could remember.						0	
+38	现在我们所在的位置是……	現在我們所在的位置是……	今いる場所は……	지금 우리가 있는 위치는.…	With that, our current location was...						0	
+39	接下来要小心，前面的拐角处应该会有埋伏！	接下來要小心，前方的轉角應該會有埋伏！	気を付けて！前の曲がり角から伏兵が出てくるはずだ！	조심하세요. 아마 앞쪽 모퉁이에 매복이 있을 거예요!	Be careful. There's going to be an ambush at the corner up ahead!						0	
+40	果然，当我们踏入这片区域便触发了周围埋伏着的敌人，一时间，四面八方的攻击都朝我们涌来。	果然，當我們踏入這片區域便觸發了周圍埋伏著的敵人，一時間，四面八方的攻擊都朝我們湧來。	私の記憶通り、このエリアに踏み込んだ瞬間、全方位から伏兵が現れた。	아니나 다를까… 해당 지역에 발을 들여놓자마자 주변에 잠복해 있던 적이 나타났고 순식간에 사방에서 우리를 향해 공격해왔다.	Just as I expected, we triggered an enemy ambush as soon as we stepped into the area. In an instant, we were swarmed with attacks from all directions.						0	
+41	分析员！你找出路，我来对付这些追兵。	分析員！你找出路，我來對付這些追兵。	逃げ道を探してください！伏兵は私が対処します！	분석가! 길 좀 찾아봐! 내가 추격해 오는 타깃들을 상대할게.	Adjutant! You find a way out! I'll handle the guys chasing us.						0	
+b-4											0	
+42	好。	好。	分かった。	네.	Got it.						0	
+43	恩雅给我增加了护盾，而她自己则在伺机对付那些冲上来的追兵。	恩雅為我增加了護盾，而她自己則在伺機對付那些衝上來的追兵。	エンヤは私にシールドを付与すると、1人で伏兵に立ち向かった。	엔야는 내게 실드를 부여했고, 돌진해 오는 추격병을 상대할 기회를 노리고 있었다.	Enya cast a shield on me while she waited for her chance to handle our pursuers.						0	
+44	有了恩雅的协助，我绕开前方埋伏，解决了几个跳出来的敌人，终于在更隐蔽处找到一条逃生通道。	有了恩雅的協助，我繞過前方埋伏，解決了幾個跳出來的敵人，終於在更隱密處找到一條逃生通道。	エンヤの援護のおかげで、私は敵の包囲を突破し、何とか逃げ道を確保することができた。	엔야의 협조로 난 전방에 매복해 몇 명의 타깃을 처치하고 마침내 더 은밀한 곳에서 탈출구를 찾았다.	With Enya's help, I avoided the ambushing enemies up ahead, deflected several sneak attacks, and finally located a hidden escape route.						0	
+b-5											0	
+45	恩雅，找到路了，跟我来这边。	恩雅，找到路了，跟我來這邊。	エンヤ姉！こっちだ！	엔야 누님, 출구를 찾았어요, 이쪽으로 오세요.	Enya, I found the way out. Come over here.						0	
+46	随着我和恩雅一起逃出“黑街”，游戏也终于来到了尾声。	隨著我和恩雅一起逃出「黑街」，遊戲也終於來到了尾聲。	私とエンヤ姉が「裏町」を脱出するのと同時に、ステージクリアの文字が表示された。	나와 엔야는 '블랙 스트릿'을 탈출했고 게임은 막바지에 다다른다.	As Enya and I escaped Black-Ice Alley together, the game finally ended.						0	
+47	……我们，通关了？	……我們，通關了？	……クリアできたのですか？	우리가 정말 클리어를 한 거야… ?	...Did we beat the level?						0	
+48	是啊，恩雅最后放护盾的时机非常完美，我们俩的配合可以说是天衣无缝。	是啊，恩雅最後放護盾的時機非常完美，我們兩個的配合可以說是天衣無縫。	ああ。最後のシールドはかなり助かったよ。ベストなタイミングだった！	그럼요. 누님이 마지막에 실드를 준 타이밍이 너무 완벽했어요. 저희 둘의 호흡이 정말 완벽했어요.	Yep. You timed that shield at the end perfectly. Our teamwork was impeccable.						0	
+49	姐姐我果然是分析员的最佳拍档哦！	姐姐我果然是分析員的最佳拍檔！	やっぱりお姉さんと分析員はベストコンビですね！	역시 난 분석가의 베스트 파트너야!	Sure enough, I'm the best partner for you!						0	
+50	恩雅开心地拍了拍手，看来打打游戏确实能让她轻松不少。	恩雅開心地拍了拍手，看來打打遊戲確實能讓她輕鬆不少。	エンヤは楽しそうに拍手した。どうやらゲームで遊ぶことで、大分リラックスできたようだ。	엔야는 신이 난 듯 박수를 쳤다. 긴장을 푸는 데는 역시 게임이 최고인 것 같다.	Enya clapped happily. It looked like playing video games could really help her relax.						0	
+51	游戏打完了，走吧，我们去吃饭。	遊戲打完了，走吧，我們去吃飯。	さて、ゲームもクリアできたことだし、食事にでも行こうか。	게임도 했으니 이제 밥을 먹으러 가볼까요?	That's enough gaming for now. C'mon, let's go get something to eat.						0	
+52	几天之后。	幾天之後。	数日後。	며칠 후.	A few days later.						0	
+53	分析员，有一件事我想我该在第一时间告知你。	分析員，有一件事我想我應該在第一時間告知你。	分析員、あなたに知らせたいことがあります。	분석가님, 아무래도 분석가님한테 먼저 알려드려야 할 일이 좀 있어요.	Adjutant, there's something I need to tell you right away.						0	
+54	安全部在第五研究所附近执行清理任务的时候发现了这个。	安全部在第五研究所附近執行清理任務的時候發現了這個。	安全部のメンバーが、第5研究所の近くでこれを発見したそうです。	안전부에서 제5연구소 인근을 클리닝하던 중 이걸 발견했다고 해요.	The Security Department found this during a cleanup mission at the Fifth Research Institute.						0	
+55	活体药剂？！	活體藥劑？！	人体実験用の薬剤！？	생체 포션?!	A live serum!?						0	
+56	为什么这东西会出现在零区，难道……？	為什麼這東西會出現在零區，難道……？	なぜエリアゼロにこんなものが？まさか……！？	이게 왜 제로 구역에 나타난 거지? 설마… ？	What was this doing in the Containment Zone? What if...?						0	
+57	不可能！奥米茄已经被我们干掉了，我是亲眼看着他……	不可能！ω已經被我們幹掉了，我是親眼看著他…	いや、そんなはずはない！ωは確実に仕留めた。私はこの目で見たんだ……	말도 안 돼! ω는 이미 우리가 처치했는데? 내가 직접 봤고…	That's impossible! We killed ω. I saw it with my own eyes...						0	
+58	基于对泰坦物质的研究，我们已经能在理想条件下实现生物的三相转化。	基於泰坦物質的研究，我們已經能在理想條件下實現生物的三相轉換。	タイタン物質の研究により、理想的な条件で生物の三形態変換を実現できるようになった。	타이탄 물질에 대한 연구를 기반으로 이상적인 조건에서 유기체의 3상 전환을 달성할 수 있습니다.	Based on our research into Titagen, we were able to achieve the three-step transformation process for organisms under ideal conditions.						0	
+59	以下是成果展示。	以下是成果展示。	これがその研究成果だ。	아래에 관련 성과를 보여드리겠습니다.	The following are the results.						0	
+60	第五研究所……莫非是那个人……	第五研究所……莫非是那個人……	第5研究所……あいつか……	제5연구소… 설마 그 사람인가…	The Fifth Research Institute... Could it have been him...?						0	
+61	肯特博士，他还活着，而且至今不知去向。	肯特博士，他還活著，而且至今不知去向。	ドクターケントだ。彼はまだ生きていて、しかもその足取りは掴めないままだった。	켄트 박사, 그는 아직 살아있고 지금까지도 행방불명이다.	Dr. Kent. He was still alive and missing.						0	
+62	卡罗琳，我得亲自去看看是怎么回事。	卡羅琳，我得親自去看看是怎麼回事。	カロリン、今から研究所に向かいたいんだが。	캐롤린, 어떻게 된 일인지 내가 직접 알아봐야 겠어.	Caroline, I need to go figure out for myself what's going on.						0	
+63	让我看看，现在没出外勤，还在基地待命的是……	讓我看看，現在沒出外勤，還在基地待命的是……	ちょっと待ってください。いま社員寮で待機中なのは……	현재 외근을 안 나가고 숙소에서 대기하고 있는 사람은…	Let me see who's not on a mission and at the Base right now...						0	
+64	出任务的人选我来安排。	出任務的人選我來安排。	いや、人選は私が決めるよ。	동행할 사람은 내가 선택할게.	I'll decide who comes on the mission with me.						0	
+65	至于恩雅，就让她安心在基地训练吧。	至於恩雅，就讓她安心在基地訓練吧。	エンヤにはまだ訓練が残ってる。彼女を邪魔するつもりはない。	엔야 누님은 계속해서 숙소에서 훈련을 진행할 수 있도록 해줘.	Let Enya train at the Base.						0	
+66	好吧，如果发现情况不对，可以随时联络我这边。	好吧，如果發現情況不對，可以隨時聯絡我這邊。	わかりました。ですが、何かあった場合はすぐに連絡してくださいね。	네. 무슨 일이 생기면 바로 제 쪽으로 연락 주세요.	Alright. If something goes wrong, contact me anytime.						0	
+67	离开指挥室后，我顺路又去看了看训练中的恩雅。	離開指揮室後，我順路又去看了看訓練中的恩雅。	指揮室を後にした私は、ついでにエンヤの様子を見るために訓練室に立ち寄った。	지휘실을 나서는 길에 훈련 중인 엔야를 다시 찾았다.	After I left the command room, I stopped by the training room to see Enya.						0	
+68	不同于前几日，恩雅现在在无人机的密集扫射下越来越游刃有余。看来前几天的劳逸结合效果不错。	不同於前幾日，恩雅現在在無人機的密集掃射下越來越游刃有餘。看來前幾天的勞逸結合效果不錯。	先日とは違い、エンヤの動きに余裕が戻っていた。どうやらこの前の息抜きに効果があったようだ。	엔야는 며칠 전과는 달리 드론을 사격 하는게 좀 더 편안해 보였다. 며칠 전 적절한 휴식을 취한 게 어느 정도 효과를 본 것 같았다.	Compared to the past few days, Enya looked much more comfortable with the drones' intense attacks. It seemed like balancing her work and life did her some good.						0	
+69	无论是活体药剂还是肯特博士，都不该继续存在，我不会容忍他们带来破坏，更不会放任他们威胁到我的队员。	無論是活體藥劑或肯特博士，都不該繼續存在，我不會容忍他們帶來破壞，更不會放任他們威脅到我的隊員。	人体実験もドクターケントも野放しにするわけにはいかない。これ以上の被害は、なんとしても防がないと。	생체 포션이든 켄트 박사든 더 이상 존재해서는 안 되며 그들이 파괴를 초래하도록 둘 수는 없다. 더 이상 우리 대원들을 위협하도록 놔두지 않을 것이다.	I needed to put an end to the live serum and Dr. Kent. I couldn't allow the destruction they caused, and I certainly couldn't allow them to threaten my operatives.						0	
+70	卡罗琳，分析员……是有新的任务吗？	卡羅琳，分析員……是有新的任務嗎？	カロリン。分析員がまた……新しいミッションに向かったのですか？	캐롤린, 분석가… 혹시 새로운 미션이라도 있어?	Caroline, Adjutant... is there a new mission?						0	

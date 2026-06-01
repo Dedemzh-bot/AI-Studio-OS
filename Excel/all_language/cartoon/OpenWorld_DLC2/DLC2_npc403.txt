@@ -1,0 +1,31 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+hi01.1	看你忙挺久了，别太压榨自己，在营地多休息一会也没关系的。	看你也忙一陣子了，別給自己太大壓力，在營地多休息一下也沒有關係。	随分忙しそうですね、分析員。頑張りすぎるのは程々にしてくださいね。キャンプでもっと休憩してもいいですよ。	그동안 바쁘게 움직이신 것 같은데 너무 자신을 혹사시키지는 마세요. 야영지에서 적당히 쉬어도 아무 상관 없어요.	I see how busy you've been lately. Don't work yourself too hard, you can take a break at the camp whenever you need.						0	
+choice.01	谢谢，你也辛苦了	謝謝，你也辛苦了	ありがとう、カロリンもお疲れ様。	고마워, 너도 고생 많았어.	Thanks. Remember to not overdo it yourself, either.						0	
+choice.02	这里问题还没解决	這裡的問題尚未解決	問題はまだ解決してないから、とても安心できないよ。	아직 문제가 완벽하게 해결된 건 아니라서.	The job here isn't done yet.						0	
+page01.1	要是真关心我，就别随随便便在零区内失联。	你要是真的關心我，就別隨便在零區內搞失聯。	私に気を遣うつもりなら、エリアゼロで簡単に通信途絶になったりしないでほしいですね。	만약 정말로 제가 신경 쓰인다면, 제로 구역에서 무단으로 연락을 끊는 일은 없었으면 좋겠어요.	If you really care about me, try harder to not lose contact in the Containment Zone. It adds to my work, you know?						0	
+page02.1	你老是这样说，但事情哪有能做完的时候。	你每次都這樣說，但事情哪有做完的一天。	いつもそう言ってるけど、仕事に終わりなんてありませんよ。	항상 그런 식으로만 말씀하시죠. 세상에 완벽하게 해결될 문제가 어딨겠어요.	You always say that. But when does the job ever end?						0	
+hi02.1	这次任务太紧急，我都没来得及带上电热水壶，好累……	這次任務太緊急，害我來不及帶電熱水壺，好累......	今回は緊急ミッションもあって、電気ケトルを取りに行く暇もなかったんですよ、しんどい……	미션이 너무 급해서 전기포트를 가져온다는 걸 깜빡했어요. 너무 힘드네요…	This mission got started with such haste that I didn't even have time to bring my electric kettle with me.						0	
+choice.03	我带了，待会给你	我帶了，等下拿給你	持ってきたよ。後で渡すね。	내가 챙겨왔어. 이따가 줄게.	I brought one. I can give it to you later.						0	
+choice.04	保温杯代替一下？	用保溫杯代替一下?	代わりに魔法瓶を使う？	보온병으로 대체하는 건 어때?	Would a heated travel flask do?						0	
+page03.1	嗯嗯？！你怎么会随身带这个！	嗯嗯?!你怎麼會隨身攜帶這個!	えぇ！？持ち歩いてるんですか？	네에?! 어떻게 이런 걸 계속 들고 다니신 거죠!	Oh!? You like to take one wherever you go, too?						0	
+page04.1	不可能的，我不接受。	不可能，我無法接受。	無理、絶対使いません。	그건 말도 안 돼요. 받아들일 수 없어요.	Sorry, it's just not the same.						0	
+hi03.1	这次出了这么大的事，公司内估计乱成一团了吧。	這次出了這種大事，公司內應該亂成一團了吧。	今回の大騒ぎのせいで、会社の方はめちゃくちゃになってるでしょうね。	이번에 큰 일이 터져서 회사 내부도 정신이 없을 것 같네요.	With an incident as big as this to worry about, the company is probably pretty chaotic at the moment.						0	
+choice.05	陶总能解决的	τ總有辦法解決的	τがなんとかしてくれるよ。	τ가 어떡해서든지 해결해 줄 거야.	τ will find a way to resolve it.						0	
+choice.06	这边也得加快了	我們也要加快進度了	こっちも巻きで行かないとね。	이쪽에서도 더 분발해야겠어.	We need to work faster on our end.						0	
+page05.1	也是，老板应该早有准备。	說的也是，老闆應該早有備案了。	そうですね、ボスならきっと事前準備もバッチリですもんね。	맞아요. 대표님이라면 진작에 준비를 마쳤을 거예요.	True. I bet she was already prepared.						0	
+page06.1	知道了，工作狂。	知道了，工作狂。	はいはい、ワーカホリックさん。	네… 저희 워커홀릭 분석가님.	Okay, Senior Workaholic.						0	
+hi04.1	欢迎回来，是要先吃饭，先洗澡，还是先交接任务？	歡迎回來，是要先吃飯、先洗澡、還是先交接任務?	お帰りなさい。ご飯にしますか、お風呂にしますか、それとも、ミッションの処理を？	다시 오신 걸 환영해요. 식사부터 하실래요, 아니면 샤워부터 하실래요, 아니면 미션 보고부터 하실래요?	Welcome back. What would you like first: food, shower, or mission briefing?						0	
+choice.07	事已至此先吃饭吧	事已至此，先吃飯吧	それなら、ご飯をいただこうかな。	일단 이렇게 된 이상 먼저 밥부터 먹을게.	Knowing how much work is still ahead, I should eat first.						0	
+choice.08	没有隐藏选项吗？	沒有隱藏選項嗎?	隠し選択肢はない？	히든 선택지 같은 건 없을까?	No other options?						0	
+page07.1	今天的午餐是——锵锵，任选18种口味的压缩饼干。	今天的午餐是－－鏘鏘，18種口味任選的壓縮餅乾。	今日のお昼は、なんと——ジャジャーン！18種の味がある堅パンです。	오늘의 점심은 바로바로~ 짜잔, 골라 먹는 재미가 있는 18가지 맛의 건빵이에요.	On today's menu for lunch is... Wow. MRE crackers, 18 different flavors to choose from.						0	
+page08.1	你要是想再义务加班几个小时，我也没意见。	你要是想再自主加班幾個小時我也是沒意見。	サビ残をもう数時間伸ばすつもりなら別に構いませんけど。	몇 시간이나 야근을 더 하겠다면야 말리지는 않을게요.	If you wanted to put in a few hours of overtime, I wouldn't stop you.						0	
+hi05.1	我一直很在意一件事情。	有件事情我一直很在意。	ずっと気になってることがあるんですよね。	한 가지 줄곧 신경이 쓰였던 일이 있었어요.	There's something I've been thinking about.						0	
+hi05.2	那个男人……威尔·安德森，他真的消失了吗？	那個男人......威爾·安德森，他真的消失了嗎?	あの男……ウィル・アンダーソン、彼は本当に消えてしまったのでしょうか？	그 남자… 윌 앤더슨 말이에요. 정말 영영 사라진 걸까요?	That guy... Will Anderson. Did he really disappear for good?						0	
+hi05.3	唉，总感觉无法理解他们存在的方式。	唉，總感覺無法理解他們的生存方式。	ふん、彼らの生き方はいまいち理解できませんね。	후… 정말이지, 그들의 존재 방식은 이해하기가 참 어려워요.	*sigh* I can't fully understand what they are now, how they exist in this form...						0	
+choice.09	他确实不复存在了	他確實消失了	彼は確かにいなくなったよ。	그는 이제 이 세상에서 사라졌어.	He really isn't coming back.						0	
+choice.10	他仍有归来的可能	他還是有可能再次出現	彼はいつか帰ってくる可能性がある。	아직 돌아올 가능성이 있어.	He could possibly return one day.						0	
+choice.11	威尔？	威爾?	ウィル？	빌?	Will?						0	
+page09.1	这样最好，那这片街区还有恢复的可能性。	那就好，這片街區還有可能恢復原樣。	それならよかったじゃないですか。この街は回復する可能性がまだ残っているってことですよ。	그게 최선일 것 같네요. 그러면 이 지역의 회복 가능성도 있을 테니까.	Good. Then we have a chance to get this area back to normal.						0	
+page10.1	也许吧，那我希望是很久很久以后。	或許吧，我希望是遙遠的未來之後。	そうかもしれませんね。それが遠い未来のことだといいんですけど。	그럴지도 모르죠… 만약 그런 거면 아주 오랜 시간이 흐른 뒤였으면 좋겠어요.	Maybe. But if so, I hope that day is far from now.						0	
+page11.1	喂！你不会已经忘记了吧。	喂!你該不會忘記了吧!	あのですね！忘れたわけじゃないですよね？	저기요?!… 벌써 잊어버리신 건 아니겠죠?	What!? Don't tell me you already forgot him.						0	

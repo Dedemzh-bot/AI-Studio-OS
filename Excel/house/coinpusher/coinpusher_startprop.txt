@@ -1,0 +1,6 @@
+﻿道具ID	//注释	类型1泛用开局决定被动道具格数2流派开局决定主动道具格数	图标	名字	物品描述	效果参数	额外参数	未解锁提示	解锁条件	携带主动道具初始数量	携带被动道具初始数量	商店兑换内容
+ID	Comment	Type	Icon	Name	Desc	Param	ExtraParam	LockTip	UnlockCondition	ActivePropNums	PassivePropNums	StoreContent
+1	小花花梳子-商店出现优惠机制的概率提升5%（含硬币买一送一、硬币免费）（参数：{1}概率）	1	1545001	house.Coinpusher_StartPropName1	house.Coinpusher_StartPropDesc1	20		house.Coinpusher_StartProp1LockTip	{1,30}		5	
+2	小星星糖果罐-每回合兑币次数+1（参数：{1}次数增值）	1	1545002	house.Coinpusher_StartPropName2	house.Coinpusher_StartPropDesc2	1		house.Coinpusher_StartProp2LockTip	{8,1}		5	
+3	袜子-每回合进入商店时，额外获得当前票券的20%\n每回合结束时，每1次未使用的兑币次数，使分数倍率+0.2（上限15）（参数：{1}获得百分比；{2}次数；{3}对应倍率增值；{4}上限）	2	1545003	house.Coinpusher_StartPropName3	house.Coinpusher_StartPropDesc3	20,1,0.1,10		house.Coinpusher_StartProp3LockTip	{8,1}	2		1
+4	打底上衣-每回合开始时，赠送基础币+5\n兑币时，随机获得1枚种子币或小花币（币盒无空位时无法获得）（参数：{1}币数增值；{2}获得数量）	2	1545004	house.Coinpusher_StartPropName4	house.Coinpusher_StartPropDesc4	5,1		house.Coinpusher_StartProp4LockTip	{2,5}	2		2

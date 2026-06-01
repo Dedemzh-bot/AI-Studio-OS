@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，我刚才餐厅回来，捎带给你打包了一些。	分析員，我剛剛從餐廳回來，順便幫你打包了一些。	分析員、食堂の帰りに料理を少し持ち帰ってきてやったぞ。	분석가, 방금 식당에 가서 네 것도 좀 포장해 왔어.	Adjutant, I brought you something from the canteen.						0	2.8版本随机事件
+page1.2	奈莉德怎么知道我没吃饭？	奈莉德怎麼知道我沒吃飯？	よく私が食べていないのが分かったな。	네리다, 내가 밥을 안 먹은 걸 어떻게 알았어?	How'd you know I hadn't eaten?						0	2.8版本随机事件
+page1.3	我不知道。	我不知道。	いや、分からん。	몰랐어.	I didn't.						0	2.8版本随机事件
+page1.4	小时候，奶奶每次出门，都会给我带些零嘴回来。	小時候，奶奶每次出門，都會帶一些零嘴回來。	ただ小さい頃、おばあちゃんは出かけるたびに何かしら菓子を持って帰ってきてくれた。	어렸을 때 할머니께서는 외출할 때마다 간식거리를 사다 주셨어.	When I was little, my Nana always brought me back a treat whenever she went out somewhere.						0	2.8版本随机事件
+page1.5	有时候是一个苹果，有时候是一根烤香肠。	有時候是一個蘋果，有時候是一根烤香腸。	リンゴだったり、焼きソーセージだったりしたが……	때로는 사과 한 개, 때로는 구운 소시지 한 개.	Sometimes it was an apple, sometimes a grilled sausage.						0	2.8版本随机事件
+page1.6	不过这都不重要，重要的是这种被人记挂着的感觉很好。	不過這都不重要，重要的是這種被記掛著的感覺很好。	大切なのは、それを貰う時の、気にかけられているという感覚なのだ。	하지만 간식이 중요한 게 아니야. 누군가가 날 챙겨준다는 그 마음이 참 좋았어.	The food itself didn't matter. What mattered was the feeling that someone cared about me.						0	2.8版本随机事件
+page1.7	看来莫罗佐娃女士真的很疼爱你呢。	看來莫羅佐娃女士真的很疼愛你呢。	マダム・モロゾワはネリーダをとても大切にしていたんだな。	모로조바 여사님께서 널 많이 예뻐해 주셨구나.	Sounds like Madam Morozova really cared about you.						0	2.8版本随机事件
+page1.9	嗯，奶奶还告诉我，打猎回家是人类潜藏在基因里的本能。	嗯，奶奶還告訴我，打獵回家是人類潛藏在基因裡的本能。	ああ。おばあちゃんは言った、「狩りから帰って家族を支えるのは、人に流れる古の血がそうさせる――」と。	응. 할머니께서 이런 말씀도 하셨어. 사냥을 하고 집으로 돌아오는 것이 인간 유전자에 숨겨진 본능이라고 말이야.	She did. She even used to say that coming back with food after a hunt is human nature.						0	2.8版本随机事件
+page1.10	我现在也算有个家了，所以我想学着奶奶一样，做个合格的猎手。	我現在也算有個家了，所以我想學奶奶一樣，當個合格的獵手。	今の私にも家がある。だからおばあちゃんのような狩人を目指したいと思っている。	이제 나도 나름대로 집이 생겼으니까, 할머니처럼 훌륭한 사냥꾼이 되고 싶어.	And now that I have a home of my own, I want to be a proper hunter just like her.						0	2.8版本随机事件
+page1.11	让你也感受到……我的……我的记挂。	讓你也感受到……我的……我的記掛。	おまえにも……私の気持ちを届けたいのだ。	너도… 내 마음을… 느낄 수 있도록.	So that you know how much I... care.						0	2.8版本随机事件
+page1.12	有趣的“耶洛沙式”比喻。	有趣的「耶洛沙式」比喻。	なるほど、イェロシャ語録にまたひとつ、って感じだな。	재미있는 '옐로샤식' 비유네.	Yehrusians have such a way with words.						0	2.8版本随机事件
+page1.13	我不仅感受到了，还觉得很幸福哦。	我不僅感受到了，還覺得很幸福哦。	ちゃんと届いているし、幸せだよ。	네 마음을 느꼈을 뿐만 아니라, 엄청난 행복도 느꼈지.	I do know that you care, and I'm glad.						0	2.8版本随机事件
+page1.14	那……那就赶紧享用“猎物”吧，少说这些让人脸红的话。	那……那就趕快享用「獵物」吧，少說這些讓人臉紅的話。	ふん…ならさっさと食べろ。余計なことを言うな。	그… 그럼 어서 '사냥감'을 맛보든가. 그런 낯 뜨거운 말은 그만하고.	Right, quit embarrassing me... Just enjoy your "prey."						0	2.8版本随机事件

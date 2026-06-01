@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，总算等到你啦！	分析員，總算等到你啦！	分析員、やっと来てくれましたね！	분석가! 드디어 찾았네.	Finally, Adjutant!						0	3.5版本随机剧情
+page1.2	是恩雅啊，特意等在这里，是有什么事吗？	是恩雅啊，特意等在這裡，是有什麼事嗎？	エンヤ、こんなところで待っていたのか。どうした？	엔야 누님이네요. 여기서 일부러 기다리다니, 무슨 일 있어요?	Enya? Is there a reason you're waiting here?						0	3.5版本随机剧情
+page1.3	嗯~在那之前，先让姐姐抱抱问候一下吧~	嗯~在那之前，先讓姐姐抱抱問候一下吧~	んー、とりあえず挨拶代わりに、ちょっと抱きしめさせて？	음~ 그 전에, 먼저 반갑다는 뜻으로 누나가 안아줄게~	Yes~ But before that, let me give you a hug and proper greeting~						0	3.5版本随机剧情
+page1.4	真是一个长长的拥抱呢。	真是一個長長的擁抱呢。	いつまで続けるんだ。	참 긴 포옹이네요.	That was quite a long hug.						0	3.5版本随机剧情
+page1.5	因为总是觉得和哥哥大人抱不够嘛！	因為總是覺得和哥哥大人抱不夠嘛！	だってお兄さまは、いくら抱きしめても足りないんですもの！	오라버니와의 포옹은 아무리 길어도 부족한 것 같거든!	That's because I feel like I can never hug you enough, Big Bro~						0	3.5版本随机剧情
+page1.6	呵呵~其实我等在这里，是有一个好消息想要告诉你。	呵呵~其實我等在這裡，是有一個好消息想要告訴你。	ふふ、実はいい知らせがあって、ここで待ってたの。	후후~ 사실 여기서 기다린 이유는 좋은 소식을 전하고 싶어서야.	Hehe~ Actually, I was waiting here for you with some good news.						0	3.5版本随机剧情
+page1.7	之前和哥哥大人一起玩“纷愿绮梦”时，我就觉得那些立体的故事书真是可爱。	之前和哥哥大人一起玩「紛願綺夢」時，我就覺得那些立體的故事書真是可愛。	この前、お兄さまと一緒に「夢の絵本」で遊んだ時、あの立体絵本がすっごく可愛いなって思って。	전에 오라버니와 함께 '얽힌 소망과 꿈'을 플레이할 때, 그 입체 동화책들이 정말 귀엽다고 생각했거든.	When we were playing Paper Dreamland, I thought those pop-up storybooks were absolutely adorable.						0	3.5版本随机剧情
+page1.8	所以就自己试着又做了一本……今天终于顺利完成了！	所以就自己試著又做了一本……今天終於順利完成了！	だから私も作ってみたんです……それで今日、ついに完成！	그래서 직접 만들어 보려고 했는데… 오늘 드디어 완성했어!	So I tried to make one myself... and I finished it today!						0	3.5版本随机剧情
+page1.9	不愧是恩雅，连立体书这样复杂的东西都能制作出来。	不愧是恩雅，連立體書這樣複雜的東西都能製作出來。	さすがエンヤ。あんな複雑なものまで作れるなんて。	역시 엔야 누님이네요, 팝업북 같은 복잡한 것도 만들다니.	You're amazing, Enya. Pop-up books are very complex.						0	3.5版本随机剧情
+page1.10	啊呀，哥哥大人夸得我都要不好意思了……	啊呀，哥哥大人誇得我都要不好意思了……	お兄さまに褒められると、なんだか照れちゃう……	아이참, 오라버니가 그렇게 말하니까 부끄럽잖아…	Aw, thanks, you're making me blush...						0	3.5版本随机剧情
+page1.11	这一次的故事，是关于我们在那个“小木屋”里的回忆。	這一次的故事，是關於我們在那個「小木屋」裡的回憶。	今回は私たちがあの「木の小屋」で過ごした時の話で。	이번 이야기는 그 '오두막'에서 있었던 우리의 추억에 관한 거야.	This story is about our memories in that cabin.						0	3.5版本随机剧情
+page1.12	我把好多值得纪念的场景都做了进去。	我把好多值得紀念的場景都做了進去。	思い出の場面をたくさん詰め込んだんですよ。	기억에 남는 장면들을 많이 담았어.	I put so many memorable scenes in it.						0	3.5版本随机剧情
+page1.13	有森林，有阁楼……对了，还有我们相拥取暖的那架柔软沙发。	有森林，有閣樓……對了，還有我們相擁取暖的那架柔軟沙發。	森も、屋根裏も……そして、抱き合ってぬくもりを分け合った、あのふかふかのソファも。	숲, 다락방… 아, 그리고 우리가 서로 안고 따뜻한 온기를 나눴던 그 푹신한 소파도 있어.	There's the forest, the attic... Oh, and that soft sofa where we hugged for warmth.						0	3.5版本随机剧情
+page1.14	如果哥哥大人翻看到客厅壁炉的那一页，会发现壁炉里真的可以发光呢！	如果哥哥大人翻看到客廳壁爐的那一頁，會發現壁爐裡真的可以發光呢！	リビングの暖炉のページをめくったら、暖炉の中が本当に光るんですよ！	오라버니가 거실 벽난로가 있는 페이지를 펼치면, 벽난로에서 빛이 나는 걸 볼 수 있을 거야!	If you turn to the page with the living room fireplace, you'll see that it even lights up!						0	3.5版本随机剧情
+page1.15	这么神奇？	這麼神奇？	本当か？	그렇게 신기한 것도 가능해요?	Amazing, how'd you manage that?						0	3.5版本随机剧情
+page1.16	那是因为，我在书页中嵌入了彩色灯带哦，呵呵~	那是因為，我在書頁中嵌入了彩色燈帶哦，呵呵~	ページの中にテープライトを組み込んでみたんです、ふふん。	책장 안에 컬러 조명 테이프를 넣었거든, 헤헤~	I embedded colorful light strips in the pages. Hehe~						0	3.5版本随机剧情
+page1.17	我开始好奇这本书里的故事了。	我開始好奇這本書裡的故事了。	ますます気になってきた。	이 책의 이야기가 궁금해지기 시작했어요.	I'm starting to get curious about the story in this book.						0	3.5版本随机剧情
+page1.18	那就约定了哦，今晚就换哥哥大人来给我讲故事听吧。	那就約定了哦，今晚就換哥哥大人來給我講故事聽吧。	じゃあ約束、今夜はお兄さまが私に読み聞かせてくださいね。	그럼 약속해, 오늘 밤은 오라버니가 나한테 이야기를 들려주는 거야.	Then, we have a promise. Tonight, it's your turn to read me a story.						0	3.5版本随机剧情

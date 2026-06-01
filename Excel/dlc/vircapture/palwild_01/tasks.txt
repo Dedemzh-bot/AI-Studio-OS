@@ -1,0 +1,34 @@
+任务id	备注	任务类型(1劝降2情报4挑战)	失败情况(1:重置状态重新激活任务;2:只重置状态)	货币掉落量	怪物等级偏移	任务文件路径(Content/Blueprints/LevelTask/Tasks/)	任务点名	子关卡逻辑，父目录(/Game/Blueprints/LevelTask/Level/)	触发期数（对应level_time.txt)	任务完成后发的道具	限时挑战任务，请填1，其他任务不用管	是否为揭露型任务（废弃字段）	任务类型（1,解密任务，不显示任务栏；0，普通任务，显示任务栏；2，特殊活动用，完成后不加载且大地图不显示点位）
+Id	Comments	Type	FailType	DropMoney	LevelOffset	TaskPath	PointName	LevelLogic	UseId	tbItem	UnLoadOnEnd	IsInfoTask	IsSecret
+20101		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task01_01.Wild_01_Task01_01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task01_01.Wild_01_Task01_01		{{4,1,6,8,500}}		0	0
+20201		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task02_01.Wild_01_Task02_01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task02_01.Wild_01_Task02_01		{{4,1,6,8,500}}		0	0
+20202		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task02_02.Wild_01_Task02_02		DLC9Level/Pal/Wilds/tasks/Wild_01_Task02_02.Wild_01_Task02_02		{{4,1,6,8,500}}		0	0
+20301		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task03_01.Wild_01_Task03_01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task03_01.Wild_01_Task03_01		{{4,1,6,8,500}}		0	0
+20302		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task03_02.Wild_01_Task03_02		DLC9Level/Pal/Wilds/tasks/Wild_01_Task03_02.Wild_01_Task03_02		{{4,1,6,8,500}}		0	0
+20401		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task04_01.Wild_01_Task04_01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task04_01.Wild_01_Task04_01		{{4,1,6,8,500}}		0	0
+20402		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task04_02.Wild_01_Task04_02		DLC9Level/Pal/Wilds/tasks/Wild_01_Task04_02.Wild_01_Task04_02		{{4,1,6,8,500}}		0	0
+20403		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task04_03.Wild_01_Task04_03		DLC9Level/Pal/Wilds/tasks/Wild_01_Task04_03.Wild_01_Task04_03		{{4,1,6,8,500}}		0	0
+20404		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task04_04.Wild_01_Task04_04		DLC9Level/Pal/Wilds/tasks/Wild_01_Task04_04.Wild_01_Task04_04		{{4,1,6,8,500}}		0	0
+20405		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task04_05.Wild_01_Task04_05		DLC9Level/Pal/Wilds/tasks/Wild_01_Task04_05.Wild_01_Task04_05		{{4,1,6,8,500}}		0	0
+20501		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_01.Wild_01_Task05_01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_01.Wild_01_Task05_01		{{4,1,6,8,500}}		0	0
+20502		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_02.Wild_01_Task05_02		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_02.Wild_01_Task05_02		{{4,1,6,8,500}}		0	0
+20503		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_03.Wild_01_Task05_03		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_03.Wild_01_Task05_03		{{4,1,6,8,500}}		0	0
+20504		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_04.Wild_01_Task05_04		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_04.Wild_01_Task05_04		{{4,1,6,8,500}}		0	0
+20505		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_05.Wild_01_Task05_05		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_05.Wild_01_Task05_05		{{4,1,6,8,500}}		0	0
+20506		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_06.Wild_01_Task05_06		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_06.Wild_01_Task05_06		{{4,1,6,8,500}}		0	0
+													
+20601		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task06_01.Wild_01_Task06_01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task06_01.Wild_01_Task06_01		{{4,1,6,8,500}}		0	0
+20602		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task06_02.Wild_01_Task06_02		DLC9Level/Pal/Wilds/tasks/Wild_01_Task06_02.Wild_01_Task06_02		{{4,1,6,8,500}}		0	0
+20603		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task06_03.Wild_01_Task06_03		DLC9Level/Pal/Wilds/tasks/Wild_01_Task06_03.Wild_01_Task06_03		{{4,1,6,8,500}}		0	0
+20604		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task06_04.Wild_01_Task06_04		DLC9Level/Pal/Wilds/tasks/Wild_01_Task06_04.Wild_01_Task06_04		{{4,1,6,8,500}}		0	0
+22101		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task01_N01.Wild_01_Task01_N01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task01_N01.Wild_01_Task01_N01		{{4,1,6,8,500}}		0	0
+22201		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task02_N01.Wild_01_Task02_N01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task02_N01.Wild_01_Task02_N01		{{4,1,6,8,500}}		0	0
+22301		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task03_N01.Wild_01_Task03_N01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task03_N01.Wild_01_Task03_N01		{{4,1,6,8,500}}		0	0
+22401		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task04_N01.Wild_01_Task04_N01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task04_N01.Wild_01_Task04_N01		{{4,1,6,8,500}}		0	0
+22402		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task04_N02.Wild_01_Task04_N02		DLC9Level/Pal/Wilds/tasks/Wild_01_Task04_N02.Wild_01_Task04_N02		{{4,1,6,8,500}}		0	0
+22403		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task04_N03.Wild_01_Task04_N03		DLC9Level/Pal/Wilds/tasks/Wild_01_Task04_N03.Wild_01_Task04_N03		{{4,1,6,8,500}}		0	0
+22501		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_N01.Wild_01_Task05_N01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_N01.Wild_01_Task05_N01		{{4,1,6,8,500}}		0	0
+22502		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_N02.Wild_01_Task05_N02		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_N02.Wild_01_Task05_N02		{{4,1,6,8,500}}		0	0
+22503		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task05_N03.Wild_01_Task05_N03		DLC9Level/Pal/Wilds/tasks/Wild_01_Task05_N03.Wild_01_Task05_N03		{{4,1,6,8,500}}		0	0
+22601		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task06_N01.Wild_01_Task06_N01		DLC9Level/Pal/Wilds/tasks/Wild_01_Task06_N01.Wild_01_Task06_N01		{{4,1,6,8,500}}		0	0
+22602		1	1			DLC9Task/Pal/Wilds/tasks/Wild_01_Task06_N02.Wild_01_Task06_N02		DLC9Level/Pal/Wilds/tasks/Wild_01_Task06_N02.Wild_01_Task06_N02		{{4,1,6,8,500}}		0	0

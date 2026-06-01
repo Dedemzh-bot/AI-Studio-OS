@@ -1,0 +1,185 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	你们刚才有没有听到什么动静？	你們剛才有沒有聽到什麼動靜？	さっき、何か聞こえなかったか？	방금 무슨 소리 들리지 않았어?	Did you hear that just now?						0	3.2主线剧情
+2	嗯？	嗯？	……？	응?	Hm?						0	3.2主线剧情
+3	没有啊。	沒有啊。	何も聞こえなかったけど。	아니, 안 들렸는데.	Nope, nothing.						0	3.2主线剧情
+4	芬妮摇摇头，又往四周看了看。	芬妮搖搖頭，又往四周看了看。	言ってファニーは辺りを見回す。	페니가 고개를 저으며 주변을 둘러보았다.	Fenny shook her head and glanced around.						0	3.2主线剧情
+5	突然她像想起了什么似的，表情变得难看起来。	突然她像想起了什麼似的，表情變得難看起來。	そしてパンフレットの内容を思い出したのか、顔を青白くさせた。	갑자기 무언가가 떠오른 듯, 그녀의 표정이 굳어졌다.	Then something seemed to dawn on her — her face darkened.						0	3.2主线剧情
+6	该不会是……	該不會是……	まさか……	설마…	Wait, could it be—?						0	3.2主线剧情
+7	咚——咚——！	咚——咚——！	ボーン、ボーン。	뎅! 뎅!	*dong—dong—!*						0	3.2主线剧情
+8	她的话还没说完，远处就传来了沉重的钟声。	她的話還沒說完，遠處就傳來了沉重的鐘聲。	ファニーの言葉を鐘の音が遮った。	그녀의 말이 채 끝나기도 전에 멀리서 둔탁한 종소리가 울려 퍼졌다.	Before she could finish, deep, heavy chimes echoed through the corridor.						0	3.2主线剧情
+9	整整十下。	整整十下。	同じ音が１０回聞こえたあと、辺りはまた静かになった。	정확히 열 번이었다.	Ten tolls in all.						0	3.2主线剧情
+10	钟声是在提醒我们，现在是晚上十点。	鐘聲是在提醒我們，現在是晚上十點。	10時の鐘だな。	종소리가 지금 밤 10시라고 알려주고 있네.	That bell... it's telling us it's ten o'clock.						0	3.2主线剧情
+11	按照电话里所说，如果我们没办法在十二点前解开酒店的秘密……	按照電話裡所說，如果我們沒辦法在十二點前解開飯店的秘密……	電話の女が言ってたことが本当なら、１２時までにホテルの呪いを解かないと……	전화에서 말한 대로, 우리가 12시 전까지 호텔의 비밀을 풀지 못하면…	And if that caller was right, if we don't break the hotel's curse by midnight...						0	3.2主线剧情
+12	就，就会永远留在这里。	就，就會永遠留在這裡。	えええ、永遠に閉じ込められるぅぅ…！	그, 그러면 여기에 영원히 갇히게 돼요.	...We'll be stuck here. Forever.						0	3.2主线剧情
+13	瑟瑞斯不自觉地贴近了我，又惯性地伸出手想要攥紧我的衣服。	瑟瑞斯不自覺地貼近了我，又慣性地伸出手想要抓緊我的衣服。	もう観念しているかのような声で言うと、シーリスは私の腰のほうへ手を伸ばした。	세리스가 무의식적으로 내게 바짝 붙었고, 또 습관처럼 손을 뻗어 내 옷을 움켜쥐려 했다.	Siris instinctively edged closer, her hand reaching out for the hem of my shirt.						0	3.2主线剧情
+14	但由于我今天穿得清凉，她的小手在抓了个空后，只能转而捏住我裤衩的一角。	但由於我今天穿得清涼，她的小手在抓了個空後，只能轉而捏著我褲子的一角。	服の裾を掴もうとしたのだろう。しかしあいにく今日は短パン一丁だからそれが叶わず、結果シーリスは私の短パンのゴム部分を手に掴んだ。	하지만 오늘은 내가 시원하게 입은 탓에, 그녀의 작은 손은 허공을 한번 잡고 나서 내 반바지의 끝자락을 잡았다.	But I was only in swim trunks today. Her hand fumbled, then awkwardly latched onto my waistband instead.						0	3.2主线剧情
+15	那不是就剩两个小时了？	那不是就剩兩個小時了？	じゃあ、残り２時間しかないじゃない！	그럼 이제 두 시간밖에 안 남았네?	Wait — that means we've only got two hours!?						0	3.2主线剧情
+16	嗯，所以我们得加快寻找线索的速度了。	嗯，所以我們要加快尋找線索的速度了。	そうだな。だから、早く手がかりを探しにいかないと。	응, 그러니 서둘러서 단서를 찾아야 해.	Exactly. We'll need to move fast.						0	
+17	先从周边探查起吧。	先從周邊探查起吧。	とりあえず近くを調べてみよう。	일단 주변부터 살펴보자.	Let's start by searching the area.						0	3.2主线剧情
+19	死寂笼罩的瞬间，调查员们骇然发现地毯上浮现出一串血红色的脚印。	死寂籠罩的瞬間，調查員們駭然發現地毯上浮現出一串血紅色的腳印。	調査員たちが神経を研ぎ澄まして周りを調べていると、カーペットに突如、真っ赤な足跡がどこからともなく現れた。	쥐 죽은 듯 고요한 순간, 조사원들은 카펫 위에 나타난 핏빛 발자국을 보고 경악합니다.	As a chilling stillness creeps in, the investigators are stunned to see a trail of blood-red footprints slowly materializing across the carpet.						0	3.2主线剧情
+20	足迹沿着某条看不见的路径向前延伸……	足跡沿著某條看不見的路徑向前延伸……	トン、トン…まるで見えない何かに導かれているように、足跡は遠くへ進んでいった……	발자국은 보이지 않는 어떤 길을 따라 앞으로 쭉 이어져 있죠…	The trail winds forward, following some unseen course...						0	3.2主线剧情
+21	而靠近调查员们的几处痕迹，正慢慢渗透进地毯。	而靠近調查員們的幾處痕跡，正慢慢滲透進地毯。	同時に調査員たちの近くに残っている跡は、ゆっくりとカーペットに染み込んでいった。	조사원들 근처의 몇몇 흔적은 카펫 속으로 서서히 스며들고 있어요.	Near the group, fresh prints begin to bloom into the fabric — still wet.						0	3.2主线剧情
+22	显然，有什么看不见的存在正在向前奔跑着。	顯然，有什麼看不見的存在正在向前奔跑著。	どうやら、見えないナニカが前へ走っていったようだ。	보이지 않는 무언가가 앞으로 달려가고 있는 게 틀림없죠.	Whatever left them is clearly invisible, and still on the move.						0	3.2主线剧情
+23	随着米娅话音落下，血色脚印的投影也同步浮现，看上去很是逼真。	隨著米婭話音落下，血色腳印的投影也同步浮現，看上去很逼真。	ナレーションと同時に地面には真っ赤な足跡が現れた。ホログラムなのは分かっているが、それでもなかなかのリアル感だ。	미아가 그렇게 말하는 동시에 핏빛 발자국의 홀로그램이 매우 사실적인 모양으로 나타났다.	As Mia wrapped up her narration, a ghostly projection of the footprints flickered into view — uncannily lifelike.						0	3.2主线剧情
+25	死寂笼罩的瞬间，调查员们骇然发现地毯上浮现出一串血红色的脚印。	死寂籠罩的瞬間，調查員們駭然發現地毯上浮現出一串血紅色的腳印。	調査員たちが神経を研ぎ澄まして周りを調べていると、カーペットに突如、真っ赤な足跡がどこからともなく現れた。	쥐 죽은 듯 고요한 순간, 조사원들은 카펫 위에 나타난 핏빛 발자국을 보고 경악합니다.	As a chilling stillness creeps in, the investigators are stunned to see a trail of blood-red footprints slowly materializing across the carpet.						0	3.2主线剧情
+26	而仔细观察后，分析员断定这脚印应该出自两个不同的人。	而仔細觀察後，分析員斷定這腳印應該出自兩個不同的人。	よく見ると、その足跡は２人のものだった。	분석가는 자세히 관찰했고, 이 발자국은 서로 다른 두 사람의 것으로 판단합니다.	But with a sharper eye, the Adjutant discerns something more — the prints come from two different individuals.						0	3.2主线剧情
+27	足迹沿着某条看不见的路径向前延伸……	足跡沿著某條看不見的路徑向前延伸……	トン、トン…まるで見えない何かに導かれているように、足跡は遠くへ進んでいった……	발자국은 보이지 않는 어떤 길을 따라 앞으로 쭉 이어져 있죠…	The trail winds forward, following some unseen course...						0	3.2主线剧情
+28	而靠近调查员们的几处痕迹，正慢慢渗透进地毯。	而靠近調查員們的幾處痕跡，正慢慢滲透進地毯。	同時に調査員たちの近くに残っている跡は、ゆっくりとカーペットに染み込んでいった。	조사원들 근처의 몇몇 흔적은 카펫 속으로 서서히 스며들고 있어요.	Near the group, fresh prints begin to bloom into the fabric — still wet.						0	3.2主线剧情
+29	显然，有什么看不见的存在正在向前奔跑着。	顯然，有什麼看不見的存在正在向前奔跑著。	どうやら、見えないナニカが前へ走っていったようだ。	보이지 않는 무언가가 앞으로 달려가고 있는 게 틀림없죠.	Whatever left them is clearly invisible, and still on the move.						0	3.2主线剧情
+30	随着米娅话音落下，血色脚印的投影也同步浮现，看上去很是逼真。	隨著米婭話音落下，血色腳印的投影也同步浮現，看上去很逼真。	ナレーションと同時に地面には真っ赤な足跡が現れた。ホログラムなのは分かっているが、それでもなかなかのリアル感だ。	미아가 그렇게 말하는 동시에 핏빛 발자국의 홀로그램이 매우 사실적인 모양으로 나타났다.	As Mia wrapped up her narration, a ghostly projection of the footprints flickered into view — uncannily lifelike.						0	3.2主线剧情
+31	奈莉德有什么发现吗？	奈莉德有什麼發現嗎？	ネリーダ、そっちは何か見つかったか？	네리다, 뭔가 발견한 거 있어?	Nerida, anything on your end?						0	3.2主线剧情
+32	我试着听听周围的动静。	我試著聽聽周圍的動靜。	「私は、周りの音に聞き耳をたてた」	주변 인기척을 들어볼게.	Let me try my skill.						0	3.2主线剧情
+34	就在奈莉德调查员专心聆听的瞬间，一阵令人毛骨悚然的尖笑声钻入了她的耳中。	就在奈莉德調查員專心聆聽的瞬間，一陣令人毛骨悚然的尖笑聲鑽入了她的耳中。	周囲の音に集中していると、ふとネリーダは不気味な笑い声に気づいた。	네리다 조사원이 집중해서 듣고 있던 그때, 소름 끼치는 날카로운 웃음소리가 그녀의 귓가를 파고들었습니다.	As Investigator Nerida tunes into the silence, a shrill, blood-curdling giggle suddenly pierces her ears.						0	3.2主线剧情
+35	嘻嘻嘻。	嘻嘻嘻。	キシシシ。	키키킥.	Heeheehee...						0	3.2主线剧情
+36	谁？	誰？	誰だ？	누구야?	Who's there!?						0	3.2主线剧情
+37	要和我们一起玩捉迷藏吗？	要和我們一起玩捉迷藏嗎？	カクレンボ、シヨーヨ……	우리랑 같이 숨바꼭질할래?	Wanna play hide-and-seek with us?						0	3.2主线剧情
+38	我们来藏，你们来抓。	我們來藏，你們來抓。	ワタシタチヲ、ツカマエテ。	우리가 숨을 테니까, 너희가 술래해.	We'll hide, and you seek.						0	3.2主线剧情
+39	那如果被他们抓到怎么办？	那如果被他們抓到怎麼辦？	ツカマエラレタラ、ドーナル…？	잡히면 어떡해?	What if they catch us?						0	3.2主线剧情
+40	嘻嘻嘻，那就把他们做成我们的新玩偶。	嘻嘻嘻，那就把他們做成我們的新玩偶。	キシシシ……ワタシタチノ、アタラシイオモチャニナル……	키키킥, 그러면 우리의 새로운 인형으로 만들어버리지 뭐.	Heeheehee... Then we'll add them to our doll collection.						0	3.2主线剧情
+42	就在奈莉德调查员专心聆听的瞬间，一阵令人毛骨悚然的尖笑声钻入了她的耳中。	就在奈莉德調查員專心聆聽的瞬間，一陣令人毛骨悚然的尖笑聲鑽入了她的耳中。	周囲の音に集中していると、ふとネリーダは不気味な笑い声に気づいた。	네리다 조사원이 집중해서 듣고 있던 그때, 소름 끼치는 날카로운 웃음소리가 그녀의 귓가를 파고들었습니다.	As Investigator Nerida tunes into the silence, a shrill, blood-curdling giggle suddenly pierces her ears.						0	3.2主线剧情
+43	嘻嘻嘻。	嘻嘻嘻。	キシシシ。	키키킥.	Heeheehee...						0	3.2主线剧情
+44	谁？	誰？	誰だ？	누구야?	Who's there!?						0	3.2主线剧情
+45	新食材又送来了呢~	新食材又送來了呢~	アタラシイショクザイガ、トドイタミタイ……	새로운 식재료가 또 도착했네~	Ooh~ fresh meat's arrived~						0	3.2主线剧情
+46	明明昨天才刚吃掉一个，还有点饱呢。	明明昨天才剛吃掉一個，還有點飽呢。	キノー、ショクジシタバカリダケド……	어제도 한 명을 먹어서, 아직 배부른데.	But we just had one yesterday... I'm still kinda full.						0	3.2主线剧情
+47	不可以哦~他们是幽语者大人的食物	不可以哦~他們是幽語者大人的食物。	ダメヨ…コノヒトタチハ、ウィスパーサマノブン……	안 돼~ 더 위스퍼러 님의 음식이야.	These ones aren't for us~ They're for Lord Whisperer!						0	3.2主线剧情
+48	瞧他们的表情，还什么都不知道呢~嘻嘻嘻。	看他們的表情，還什麼都不知道呢~嘻嘻嘻。	ウフフフ、ミテ、アノカオ、マダナニモ、シラナイミタイ。キシシシ。	표정 좀 봐, 아직 아무것도 모르고 있어~ 키키킥.	Just look at those clueless little faces. Heeheehee...						0	3.2主线剧情
+49	追上去看看。	追上去看看。	追いかけてみよう。	쫓아가서 확인해 보자.	Let's go after them.						0	3.2主线剧情
+50	我们一路追踪，穿过数个回廊，那些诡异的痕迹却突然消失得无影无踪。	我們一路追蹤，穿過數個迴廊，那些詭異的痕跡卻突然消失得無影無蹤。	赤い足跡を追っていくつかの角を曲がったあと、足跡が途絶えた。	우리는 여러 복도를 지나며 추적을 이어갔지만, 그 기이한 흔적들은 코빼기도 안 보이고 사라졌다.	We gave chase, weaving through hallway after hallway, only to watch the eerie footprints fade into nothing.						0	3.2主线剧情
+51	这是怎么回事？	這是怎麼回事？	ど、どういうこと？	어떻게 된 거지?	Huh!? Where'd they go!?						0	3.2主线剧情
+52	那看不见的存在速度惊人的快，仅凭人类的脚力，完全无法追赶。	那看不見的存在速度驚人的快，僅憑人類的腳力，完全無法追趕。	どうやら、その見えないナニカの速度は恐ろしく速く、人間の足では追いつけないようだ。	그 보이지 않는 존재는 놀라울 정도로 빨라서, 인간의 발로는 도저히 따라잡을 수 없죠.	Whatever they might be, they moved unnaturally fast — way too fast for any ordinary human to keep up.						0	3.2主线剧情
+53	可我们也不是普通人类，而是天……	但我們也不是普通人類，而是天……	ほざけ、私たちはただの人間ではな……	하지만 우리는 평범한 인간이 아니라, 계시…	But we're not just ordinary humans, we're Manifes—						0	3.2主线剧情
+54	嗯？	嗯？	……？	네?	Hmm~?						0	3.2主线剧情
+55	米娅侧过头来，意味深长地看向奈莉德，仿佛用表情在说“要有代入感哦”。	米婭側過頭來，意味深長地看向奈莉德，彷彿用表情在說「要有代入感喔」。	ミアはネリーダに目配せを送った。キャラ設定を大事に、という意味合いなのだろうか。	미아가 고개를 돌려 네리다를 의미심장하게 바라봤어. 마치 표정으로 '게임에 몰입 좀 해'라고 말하는 것 같았다.	Mia tilted her head at Nerida with a knowing look, as if silently reminding her: "stay in character."						0	3.2主线剧情
+56	好吧，我们就是普通人类。	好吧，我們就是普通人類。	いや、わるい。確かに私たちはただの人間だ。	그래, 우린 그냥 평범한 인간이야.	Right... we're just ordinary humans.						0	3.2主线剧情
+57	唔，追不上的话就没办法得到新线索，好像陷入僵局了呢。	嗯……追不到的話就沒辦法得到新線索，好像陷入僵局了呢。	うーん、追いつけないと、手がかりもなくなるでしょ、つまり…手詰まりだね。	음, 쫓아갈 수 없다면 새로운 단서도 얻지 못하겠네요. 막다른 길에 들어선 것 같은데요?	Ohh... If we can't catch them, we won't get any new leads. Feels like we're hitting a dead end...						0	3.2主线剧情
+58	怎么会，调查员们还可以去别的地方探索~毕竟演绎桌团可是个很自由的游戏呢！	怎麼會，調查員們還可以去別的地方探索~畢竟演繹桌團是個很自由的遊戲呢！	そんなことないって。ほかの場所をウロついてみたら？「リアルRPG」は自由度の高さが売りだし！	그럴 리가요? 조사원분들, 다른 곳도 한번 탐사해 보세요~ 테이블 추리단은 자유도가 높은 게임이니까요!	No worries~ You're free to explore other areas! That's the beauty of Tabletop Expedition — total freedom!						0	3.2主线剧情
+59	当然，要是你们坚持想要深入调查这条线索，机会也还是有的。	當然，要是你們堅持想要深入調查這條線索，機會也還是有的。	まーでも、今の線を引き続き追いたいならできなくもないよ。	물론, 이 단서를 계속 조사해 나가고 싶다면 기회가 없는 건 아니죠.	But~ If you're dead set on this lead, don't give up hope just yet~						0	3.2主线剧情
+60	每位调查员天生就拥有“幸运”的属性。	每位調查員天生就擁有「幸運」的屬性。	調査員はみんな、「幸運」ってステータスを持ってんの。	모든 조사원은 태생적으로 '행운' 속성을 가지고 있거든요.	Every Investigator has a pool of Luck points.						0	3.2主线剧情
+61	所以我们可以通过检定幸运，来看看会不会有意外之喜发生哦~	所以我們可以利用檢定幸運，來看看會不會有意外之喜發生喔~	「幸運」の判定に成功したら、何か良い事が起きるかもしんないよ♪	그러니까 행운 판정을 통해, 예상치 못한 좋은 일이 있을지 한번 확인해 보세요~	So we can roll for Luck and see if fate cuts you a break~						0	3.2主线剧情
+62	线索都快到手了，现在放弃未免有些不划算了。	線索都快到手了，現在放棄未免有點太不划算了。	手がかりゲット一歩手前だ。	단서를 거의 잡을 뻔했는데, 이제 와서 포기하기엔 좀 아깝잖아.	We're so close to a breakthrough — it'd be a waste to stop now.						0	3.2主线剧情
+63	就来试试我们今天的运气如何吧。	就來試試我們今天的運氣如何吧。	運試しにやってみよう。	오늘 우리의 운이 어떤지 한번 확인해 보자.	Let's test our luck and see what happens.						0	3.2主线剧情
+64	嗯哼，那谁来成为“幸运”的检定对象呢？	嗯哼，那誰來成為「幸運」的檢定對象呢？	じゃー、「幸運」判定をしたい人～	으흥~ 그럼 '행운' 판정의 대상은 누가 될까요?	Alrighty then — who's feeling lucky?						0	3.2主线剧情
+b-2											0	3.2主线剧情
+65	我	我	ここは私が…	나	Me						0	3.2主线剧情
+66	芬妮	芬妮	ファニー	페니	Fenny						0	3.2主线剧情
+67	瑟瑞斯	瑟瑞斯	シーリス	세리스	Siris						0	3.2主线剧情
+68	奈莉德	奈莉德	ネリーダ	네리다	Nerida						0	3.2主线剧情
+70	幸运降临在了调查员们的身上。	幸運降臨在了調查員們的身上。	足跡に追いつく方法がなく、調査員たちが立ち往生しているその時、なんと――	조사원들에게 행운이 찾아왔어요.	Luck smiles upon the investigators.						0	3.2主线剧情
+71	就在她们为无法追上那个看不见的存在而苦恼时，眼前赫然出现了一辆……	就在她們為無法追上那個看不見的存在而苦惱時，眼前赫然出現了一輛……	彼らの前にどこからともなく、アレが現れたのだった！……そう、現れたのは――	보이지 않는 존재를 쫓아갈 수 없어 고민하고 있을 때, 갑자기 눈앞에 나타난 것은 바로…	Just as they're despairing over the trail going cold... a miracle appears!						0	3.2主线剧情
+72	一辆？	一輛？	現れたのは？	바로?	Hmm?						0	3.2主线剧情
+73	豪华音响、电动尾翼、冰箱……这些都没有，但是百公里加速仅需三秒的扭扭车！	豪華音響、電動尾翼、冰箱……這些都沒有，但是想上百公里加速僅需三秒的扭扭車！	最高峰のスピーカー、電動リアウイング、ポータブル冷蔵庫……そのどれもついていないけど、３秒台で時速１００キロに達する加速性能を持つ、プラズマカーだった！	고급 음향 시스템, 전동식 스포일러, 냉장고… 이런 건 하나도 없지만, 3초 만에 시속 100킬로미터까지 가속할 수 있는 붕붕카입니다!	No premium sound system, no rear spoiler, no built-in mini fridge... But this baby goes zero to 60 in three seconds — a wiggle car!						0	3.2主线剧情
+74	米娅兴奋地张开双臂，展示出身后的小车。	米婭興奮地張開雙臂，展示出身後的小車。	ミアが一歩脇へひく。開けた場所の後ろには一台のプラズマカーがあった。	들뜬 미아가 두 팔을 활짝 벌려 뒤에 있는 작은 차를 선보였다.	Mia threw her arms wide, proudly presenting the toy-sized vehicle behind her.						0	3.2主线剧情
+75	什么？！让我们骑着扭扭车去追吗？	什麼？！讓我們騎著扭扭車去追嗎？	はぁ？プラズマカー漕いで追えっていうの！？	뭐라고?! 붕붕카를 타고 쫓아가라고?	What!? You want us to ride a wiggle car to chase some ghosts!?						0	3.2主线剧情
+76	百公里加速仅需三秒的话，得用“开”这个动词吧……	百公里加速僅需三秒的話，要用「開」這個動詞吧……	加速性能もなにも、そもそもあれの速度は乗ってる人の足の性能ありきだろう……	겨우 3초 만에 시속 100킬로미터까지 달릴 수 있다면, '타다'가 아니라 '폭주하다'라는 표현이 맞지 않을까…	If it goes zero to 60 in three seconds, I'd say "drive" is the right verb here...						0	3.2主线剧情
+77	这些都不重要，重要的是……	這些都不重要，重要的是……	いや、そんなことよりも……	그런 건 다 중요하지 않아요. 진짜 중요한 건…	That's not the point! What's important is...						0	3.2主线剧情
+78	扭扭车是无法自动驾驶的，所以得从你们之中选一位驾驶员出来。	扭扭車是無法自動駕駛的，所以得從你們之中選一位駕駛員出來。	これ…自動運転機能がついてないから、誰か運転できる人いないと使えないんよねー。	붕붕카는 자율주행이 불가하니, 여러분 중에서 운전자를 한 명 골라야 해요.	The wiggle car doesn't come with autopilot. You'll need someone to take the wheel.						0	3.2主线剧情
+79	那！那当然是本小姐啦。	那！那當然是本小姐啦。	じゃ、じゃあ、あたしがやるしかないのよね！	그! 그러면 당연히 이 몸이 해야지!	Ooh! Ooh! Me! Pick me!						0	3.2主线剧情
+80	还没等米娅说完，芬妮已经兴奋地在我面前蹦个不停了。	還沒等米婭說完，芬妮已經興奮地在我面前蹦個不停了。	どこか嬉しそうな表情になって、ファニーは言葉を続けた。	미아가 말을 끝내기도 전에, 페니는 이미 내 앞에서 신나게 폴짝폴짝 뛰고 있었다.	Before Mia could even finish, Fenny was already bouncing with excitement in front of me.						0	3.2主线剧情
+81	达令~让我来，让我来。	達令~讓我來，讓我來。	ダーリン！あたしに任せなさい！	달링~ 내가 할게, 내가 할게!	Darling~ Pick me, pick me!						0	3.2主线剧情
+82	人家可是学了“汽车驾驶”技能的哦~	人家可是學了「汽車駕駛」技能的喔~	スキル、運転カッコ四輪を持ってるもの！	난 '자동차 운전' 스킬을 배웠다고~	I totally picked Driving as one of my skills, remember~?						0	3.2主线剧情
+83	没想到意外勾错的技能，居然真的派上了用场。	沒想到意外勾錯的技能，居然真的派上了用場。	間違えて選んだスキルが役に立つなんてラッキーね～	실수로 찍은 스킬이 쓸모가 있을 줄이야.	Who knew that accidental choice would actually come in handy? Ha~!						0	3.2主线剧情
+84	最佳人选，好像的确非芬妮莫属呢。	最佳人選，好像的確非芬妮莫屬呢。	諸行無常ってやつだな。運転、任せたぞ。	아무래도 페니가 최적의 인물인 것 같네.	Indeed, you're the best pick for this, Fenny.						0	3.2主线剧情
+85	（哈哈哈哈~看本小姐怎么拿下本局MVP吧~）	（哈哈哈哈~看本小姐怎麼拿下本局MVP吧~）	（うっひょ～、やっぱりMVPはあたし以外ありえない！）	(하하하하~ 다들 지켜봐, 이 몸이 이번 MVP를 따낼 거라고~)	(Hehehe~ MVP of the night, here I come~)						0	3.2主线剧情
+86	（不过演绎桌团有这种设定吗？哈哈，不管了，只要有本小姐的表现空间就好。）	（不過演繹桌團有這種設定嗎？哈哈，不管了，只要有本小姐的表現空間就好。）	（って、リアルRPGにMVPって概念があるかしら…？まあいっか。活躍さえできればそんなのどうだっていいわ！）	(근데 테이블 추리단에 이런 설정도 있나? 하하, 상관없어. 이 몸이 활약할 수만 있다면야.)	(Wait... does Tabletop Expedition even have MVPs? Eh, who cares! As long as I get the spotlight, I'm happy~)						0	3.2主线剧情
+87	刚坐上扭扭车，芬妮就冲我娇俏地眨眼示意。	剛坐上扭扭車，芬妮就對著我嬌俏地眨眼示意。	プラズマカーに乗り込むと、ファニーが振り向いて完璧なウィンクをしてみせた。	붕붕카에 타자마자, 페니가 나를 보며 귀엽게 윙크했다.	The moment Fenny hopped onto the wiggle car, she threw me a cheeky little wink.						0	3.2主线剧情
+88	达令~待会可要抱紧我哦，毕竟扭扭车的车速可是很快的。	達令~待會可要抱緊我喔，畢竟扭扭車的車速可是很快的。	ダ～リン！落ちないようにぎゅっとしててね！このプラズマカー、結構速いんだから。	달링~ 이따가 나를 꼭 안고 있어. 붕붕카는 속도가 엄청 빠르거든.	Darling~ Hold on tight — this little baby's way faster than it looks!						0	3.2主线剧情
+89	唔哇！	唔哇！	……あっ！	으악!	Uwaaah!						0	3.2主线剧情
+90	然而当三个人都试图挤上这辆小车时，芬妮却一下子从坐垫上滑了下去。	然而當三個人都試圖擠上這輛小車時，芬妮卻一下子從坐墊上滑了下去。	私に次いでネリーダとシーリスも乗り込むと、あまりもの狭さでファニーがシートからはみ出て鮮やかな尻餅をついた。	하지만 이 작은 차에 세 사람이나 비집고 타려다가, 페니가 그만 좌석에서 미끄러져 떨어졌다.	The moment the rest of us tried to pile on, Fenny slipped right off the tiny seat.						0	3.2主线剧情
+91	扭扭车哪能坐这么多人啊？！	扭扭車哪能坐這麼多人啊？！	そもそも４人乗れるスペースないじゃない！！	이 많은 사람이 붕붕카에 다 어떻게 타?!	How are we supposed to fit on this thing!?						0	3.2主线剧情
+92	后面空间有些小，不过分析员放心，我会抓紧你的。	後面空間有點小，不過分析員放心，我會抓緊你的。	確かに狭いな。でも安心しろ、分析員、しっかりおまえにしがみつくから。	뒷자리가 좀 좁은데, 걱정하지 마. 내가 꽉 잡아줄 테니까.	It's cramped back here, but don't worry, Adjutant — I'll keep a firm grip.						0	3.2主线剧情
+93	我也会紧紧贴着分析员的。	我也會緊緊貼著分析員的。	私も、分析員にしっかり掴まる！	저도 분석가님 몸에 꼭 붙어있을게요.	I'll stick real close to you too, Adjutant.						0	3.2主线剧情
+94	可恶……	可惡……	もうぅ……	젠장…	Ugh...						0	3.2主线剧情
+95	见到小狮子一脸恼怒的样子，我将她抱回扭扭车上，用下巴蹭了蹭蓬松的金发。	看到小獅子一臉惱怒的樣子，我將她抱回扭扭車上，用下巴磨蹭了蓬鬆的金髮。	私は少し後ろに座り直してファニーをシートに座らせ、きれいな金髪に顎を埋めて頬をすり寄せた。	분노에 찬 리틀 라이언을 본 나는 그녀를 안아 들어 붕붕카 위에 다시 앉힌 뒤, 턱 끝으로 그녀의 폭신한 금발을 살짝 비볐다.	Seeing Fenny all puffed up with frustration, I scooped her back into the seat and gave her fluffy golden mane a gentle nudge with my chin.						0	3.2主线剧情
+96	只是一个小动作，小狮子又瞬间喜笑颜开起来。	只是一個小動作，小獅子又瞬間喜笑顏開起來。	こうするとまたご機嫌になるので。	작은 동작 하나에, 리틀 라이언의 얼굴에는 다시 환한 미소가 피어났다.	Just like that, my little lioness lit up again.						0	3.2主线剧情
+97	都坐好了吧？本小姐要冲咯~~	都坐好了吧？本小姐要衝囉~~	三人とも掴まったわね！一気に、かっ飛ばすわよ！	다들 잘 앉았지? 이제 달린다~~	All aboard? Hold on — I'm about to put the pedal to the metal~!						0	3.2主线剧情
+98	就这样，我们保持着颇为滑稽的姿势，重新开始了对刚才那些异象的追逐。	就這樣，我們保持著頗為滑稽的姿勢，重新開始了對剛才那些異象的追逐。	こうして私たちは、四輪だけれど人力でしか動くことのできない車に乗って、足跡の追跡を再開した。	그렇게 우리는 꽤 우스꽝스러운 자세로 아까 봤던 그 이상한 존재를 다시 추적하기 시작했다.	And just like that, squished into one hilariously awkward pile, our little chase was back on.						0	3.2主线剧情
+99	虽然扭扭车在设定上，速度甚至可以比肩跑车。但实际上……	雖然扭扭車在設定上，速度甚至可以比肩跑車。但實際上……	設定ではスーパーカー並みの走行能力を持つこの乗り物だが、	붕붕카가 설정상으로는 스포츠카에 버금가는 속도를 낼 수 있다지만, 실제로는…	In the game's lore, the wiggle car was as fast as a sports car...						0	3.2主线剧情
+100	在旁边主持的米娅只用走的，都能追上我们。	在旁邊主持的米婭只用走的，都能追上我們。	いざ走らせてみれば、ゆったりとした足取りでミアが横で併走してしまうのが現実だった。	진행을 맡은 미아는 옆에서 걷기만 해도 우리를 따라잡을 수 있었다.	But in reality, Mia kept pace beside us at a leisurely stroll, not even breaking a sweat.						0	3.2主线剧情
+101	刚才还热情满满的芬妮顿时泄了气，目光无奈地瞥向一边。	剛才還熱情滿滿的芬妮頓時洩了氣，目光無奈地瞥向一邊。	しばらく車を走らせ足も疲れてきたところで、ファニーはどこかしらけたような顔で振り向いた。	좀 전까지만 해도 의욕이 넘쳤던 페니는 순간 기운이 빠졌고, 체념하며 옆을 바라봤다.	Fenny's earlier excitement vanished in a puff. She threw me a helpless little side glance.						0	3.2主线剧情
+102	达令……我们能在今年结束前开启下一段剧情吗？	達令……我們能在今年結束前開啟下一段劇情嗎？	ダーリン……今年のうちに次の展開が見れるかしら？	달링… 우리 올해 안에는 다음 스토리를 시작할 수 있을까?	Darling... are we gonna make it to the next scene before the year's out?						0	3.2主线剧情
+103	总觉得马上就能追上了，小狮子加油！	總覺得馬上就能追到了，小獅子加油！	……あと少しで足跡に追いつける気がする！がんばれ、ファニー！	곧 따라잡을 수 있을 것 같은데, 리틀 라이언, 힘내!	Feels like we're close. Hang in there, my little lioness!						0	3.2主线剧情
+104	突然间，酒店走廊里吹起了阴冷的怪风，恐怖的氛围瞬间笼罩了整个空间。	突然間，飯店走廊裡吹起了陰冷的怪風，恐怖的氣氛瞬間籠罩了整個空間。	その時、廊下でひんやりとした風が吹き始め、不気味な雰囲気が一瞬にして辺りを包み込んだ。	갑자기 호텔 복도에 음산한 바람이 불어왔고, 공포스러운 분위기가 순식간에 이 공간을 감쌉니다.	Suddenly, a cold wind howled through the hotel corridor, smothering the air in a chilling dread.						0	3.2主线剧情
+105	而之前那位侍应生的声音，幽幽回荡于空中。	而之前那位接待員的聲音，幽幽迴盪於空中。	同時に調査員たちが聞こえたのは、あのベルスタッフのか細い声……	그리고 아까 그 직원의 목소리가 허공에 어렴풋이 울려 퍼졌어요.	The bellhop's voice echoed faintly through the gloom.						0	3.2主线剧情
+106	哎呀~都是些不听话的客人呢。	哎呀~都是些不聽話的客人呢。	聞き分けがないお客様たちですね。	어머~ 말 안 듣는 손님들이네.	Oh my~ Naughty little guests, aren't you?						0	3.2主线剧情
+107	不是告诉过你们，不要在入夜之后离开房间吗？	不是告訴過你們，不要在入夜之後離開房間嗎？	夜は外出禁止だって書いてありませんでしたか？	밤에는 방 밖으로 나가지 말라고 했을 텐데요?	Didn't I specifically say not to leave your room after dark?						0	3.2主线剧情
+108	祂已经开始巡视了，但愿……你们别被捉到吧。	祂已經開始巡視了，但願……你們別被抓到吧。	「あのお方」が徘徊を始めましたよ。捕まらないよう、せいぜい頑張ってくださいね。	그것이 순찰을 시작했어요. 부디… 잡히지만 않길 바랄게요.	"It" has already begun its rounds... Let's hope you don't get caught~						0	3.2主线剧情
+109	咦咦咦？剧情变化这么快吗？	咦咦咦？劇情變化這麼快嗎？	へ…展開急すぎないっ！？	으에엥? 스토리 전개가 왜 이렇게 빨라?	What!? The story changed real fast!						0	3.2主线剧情
+110	芬妮紧张地微微耸肩，连带着扭扭车也开始左摇右摆。	芬妮緊張地微微聳肩，連扭扭車也跟著開始左搖右擺。	言って、ファニーは懸命に足を蹴り続ける。するとプラズマカーも蛇行し始める。	페니가 긴장한 듯 어깨를 살짝 으쓱이자, 붕붕카도 좌우로 흔들렸다.	Fenny tensed up, and the wiggle car beneath her wobbled like it felt her nerves.						0	3.2主线剧情
+111	情况急转直下，祂！意外出现在了调查员们的身后。	情況急轉直下，祂！意外出現在了調查員們的身後。	まさか！一行の後ろに、「あのお方」が立っていたのだった！	상황이 급변하는 가운데, 그것이! 조사원들 뒤에 불쑥 나타났습니다!	Things have taken a turn for the worse — "It" has appeared right behind the investigators!						0	3.2主线剧情
+112	能不能摆脱这致命的危险，就取决于芬妮调查员的驾驶技术了！	能不能擺脫這致命的危險，就取決於芬妮調查員的駕駛技術了！	さー！絶体絶命の危機から一行は逃げ切れるのだろうか！全てはファニーの運転の腕にかかっている！	이 치명적인 위험에서 벗어날 수 있을지는 오로지 페니 조사원의 운전 실력에 달렸어요!	Their escape now hinges entirely on Fenny's driving skills!						0	3.2主线剧情
+113	取……取决于我吗？	取……取決於我嗎？	あ、あ、あたし…！？	나… 나한테 달렸다고?	O—On me...!?						0	3.2主线剧情
+115	啊呜，失败了呢……	啊嗚，失敗了呢……	あわわ、失敗しちゃった……	어라, 실패했네요…	Aww no, she failed...						0	3.2主线剧情
+116	面对眼前的检定结果，芬妮疑惑地挠挠头。	面對眼前的檢定結果，芬妮疑惑地撓撓頭。	ファニーはうなじを掻いた。	눈앞의 판정 결과를 보며, 페니가 의아한 듯 머리를 긁적였다.	Fenny scratched her head, clearly baffled by the result.						0	3.2主线剧情
+117	诶？不是吧，本小姐不是玩演绎桌团的天才吗？	欸？不是吧，本小姐不是玩演繹桌團的天才嗎？	え、ウソ……あたし、このゲームの才能があるんじゃなかったの？	엥? 말도 안 돼. 난 테이블 추리단의 천재 아니었나?	Huh? No way! I'm supposed to be a tabletop RPG prodigy!						0	3.2主线剧情
+118	尽管芬妮调查员已经拼尽全力驾驶着扭扭车，但“祂”的速度实在是太快了。	儘管芬妮調查員已經拼盡全力駕駛著扭扭車，但「祂」的速度實在是太快了。	ファニーは必死にプラズマカーを飛ばしたものの、「あのお方」の速さには敵わなかった。	비록 페니 조사원이 전력을 다해 붕붕카를 운전했지만, '그것'의 속도는 너무나도 빨랐어요.	Despite Investigator Fenny's best efforts, the wiggle car just can't outrun "It."						0	3.2主线剧情
+119	阴影在不断逼近，诡异的低语如魔咒般钻入了你们的耳朵。	陰影在不斷逼近，詭異的低語如魔咒般鑽入了你們的耳朵。	じわじわと黒い影が迫ってくる。おぞましい唸り声が耳をつんざく。	어두운 그림자가 계속해서 다가오고, 기괴한 속삭임은 악마의 주문처럼 여러분의 귀를 파고들었어요.	The shadows close in, and eerie whispers slide into your ears like a creeping curse.						0	3.2主线剧情
+120	你们战胜祂的几率非常渺茫，游戏几乎已经走到了结局。	你們戰勝祂的機率非常渺茫，遊戲幾乎已經走到了結局。	強敵を前に、調査員たちが勝つ確率はほぼ０に近い。一行の冒険は、もはやここまでか……	여러분이 그것을 이길 확률은 매우 희박하고, 게임은 거의 엔딩을 향해 달려가고 있어요.	The odds are grim — looks like you're headed for a bad ending.						0	3.2主线剧情
+121	芬妮的嘴角微微下垂，似是对这样的现状有些不甘心，眸中浮现出几分沮丧。	芬妮的嘴角微微下垂，像是對這樣的現狀有點不甘心，眼眸中浮現出幾分沮喪。	ファニーはしょげたように眉を下げる。	페니의 입꼬리는 살짝 처져있었고, 이런 상황이 못내 아쉬운 듯 실망스러운 눈빛이었다.	Fenny's lips turned downward, frustration and bitterness flickering in her eyes.						0	3.2主线剧情
+122	我连忙摸了摸她的头顶，轻声安慰。	我連忙摸了摸她的頭，輕聲安慰。	私は急いでその頭を撫で、慰めの言葉をかける。	나는 서둘러 그녀의 머리를 쓰다듬으며 나지막이 위로했다.	I gently patted her head, trying to comfort her with a soft voice.						0	3.2主线剧情
+123	演绎桌团本身就是充满随机性的游戏，结局有好有坏是很正常的事，别太纠结。	演繹桌團本身就是充滿隨機性的遊戲，結局有好有壞是很正常的事，別太在意。	気にしなくていいよ。誰だって運が悪い時くらいあるのさ。	테이블 추리단은 원래 랜덤 요소가 가득한 게임이야. 당연히 엔딩이 좋을 수도, 나쁠 수도 있으니 너무 신경 쓰지 마.	Tabletop RPGs are all about randomness. Good or bad endings — they're all part of the fun. Don't let it get to you.						0	3.2主线剧情
+124	而一旁的瑟瑞斯和奈莉德，也加入到了打气的队伍中。	而一旁的瑟瑞斯和奈莉德，也加入到了打氣的隊伍中。	隣のシーリスとネリーダもファニーを慰め始める。	옆에 있던 세리스와 네리다도 응원 대열에 합류했다.	Siris and Nerida chimed in, trying to lift the mood.						0	3.2主线剧情
+125	没事的，芬妮~	沒關係的，芬妮~	大丈夫だよ、ファニー！	괜찮아요, 페니~	It's okay, Fenny~						0	3.2主线剧情
+126	说不定，我们能在待会的战斗环节，打败这个家伙！	說不定，我們能在待會的戰鬥環節，打敗這個傢伙！	このあとの戦闘で、敵をやっつけちゃえばいいんだよ！	어쩌면 곧 있을 전투에서, 그 녀석을 해치울 수 있을지도 몰라요!	We might turn things around in the combat phase!						0	3.2主线剧情
+127	没错，战斗……可是我最擅长的事。	沒錯，戰鬥……可是我最擅長的事。	ああ。戦闘なら、私が本領発揮するところだ。	맞아, 전투는… 내가 가장 잘하는 일이지.	Yeah, and fighting's what I do best.						0	3.2主线剧情
+128	是吗？	是嗎？	……それはどうだろう、だって、	그런가요?	Is that so?						0	3.2主线剧情
+129	可我记得“聆听”和“恐吓”才是奈莉德现在最擅长的事哦。	但我記得「聆聽」和「恐嚇」才是奈莉德現在最擅長的事喔。	今のネリーダは耳がいいのと脅しが上手い以外は、ほぼ一般人じゃないか……	하지만 내가 알기로는, 지금 네리다가 가장 잘하는 일은 '경청'과 '위협' 아니었나?	I thought your specialties were "Listen" and "Intimidate."						0	3.2主线剧情
+130	嗯？！	嗯？！	……！	응?!	Huh!?						0	3.2主线剧情
+131	奈莉德带着几分埋怨，又一本正经的表情，让我忍不住弯了嘴角。	奈莉德帶著幾分埋怨，又一本正經的表情，讓我忍不住彎了嘴角。	雷にでも打たれたかのような顔になるネリーダに、私は思わず吹き出す。	네리다의 약간 원망스러우면서도 진지한 표정에, 나도 모르게 입꼬리가 올라갔다.	Nerida shot me a look that was half pout, half dead serious — a look that made the corners of my mouth twitch as I tried not to chuckle.						0	3.2主线剧情
+132	而笑意就像会传染一样，只听到芬妮也发出“噗嗤”的声音。	而笑意就像會傳染一樣，只聽到芬妮也發出「噗嗤」的聲音。	そしてファニーも釣られて吹き出した。	그리고 웃음이 전염되듯, 페니가 '풉'하고 웃음을 터뜨렸다.	But laughter's contagious — and sure enough, Fenny let out a snort.						0	3.2主线剧情
+133	噗，不要在这个时候逗我笑啦！	噗，不要在這種時候逗我笑啦！	ぷっ……もう、笑わせないでよ！	풉, 이럴 때 날 웃기지 말라고!	Heh... Don't make me laugh right now, okay!?						0	3.2主线剧情
+135	大失败？这下糟糕了。	大失敗？這下糟糕了。	ファンブル…？すごく…嫌な気が……	대실패? 이거 큰일인걸요.	A crit fail?! That's really bad...						0	3.2主线剧情
+136	面对眼前的检定结果，芬妮疑惑地挠挠头。	面對眼前的檢定結果，芬妮疑惑地撓撓頭。	ファニーはうなじを掻いた。	눈앞의 판정 결과를 보며, 페니가 의아한 듯 머리를 긁적였다.	Fenny scratched her head, clearly baffled by the result.						0	3.2主线剧情
+137	诶？不是吧，本小姐不是玩演绎桌团的天才吗？	欸？不是吧，本小姐不是玩演繹桌團的天才嗎？	え、ウソ……あたし、このゲームの才能があるんじゃなかったの？	엥? 말도 안 돼. 난 테이블 추리단의 천재 아니었나?	Huh? No way! I'm supposed to be a tabletop RPG prodigy!						0	3.2主线剧情
+138	走廊里的怪风肆虐起来，无论芬妮调查员如何努力操控方向盘，都无法行驶出直线。	走廊裡的怪風肆虐起來，無論芬妮調查員如何努力操控方向盤，都無法行駛出直線。	たちまち、廊下で吹きすさぶ風はさらに勢いを増す。ファニーが急いでハンドルを切るも、時は既に遅し……	복도에서는 기이한 바람이 거세게 불어오고, 페니 조사원은 아무리 핸들을 조작해 봐도 직선으로 달릴 수가 없었죠.	A fierce wind howls through the hallway, and no matter how hard Investigator Fenny tries, she can't keep the car straight.						0	3.2主线剧情
+139	最终，扭扭车彻底失控，猛烈地撞击在墙壁上。	最終，扭扭車徹底失控，猛烈地撞擊在牆壁上。	制御を失ったプラズマカーは蛇行しながら、まっすぐ壁に突っ込んでいく――	결국, 붕붕카는 완전히 폭주하다가 벽에 세게 부딪혔죠.	The wiggle car finally spins out and slams into the wall.						0	3.2主线剧情
+140	调查员们被抛飞出去，痛苦地翻滚着，最终倒在了“祂”那令人绝望的阴影之中。	調查員們被拋飛出去，痛苦地翻滾著，最終倒在了「祂」那令人絕望的陰影之中。	衝突で投げ飛ばされ、あまりの痛みに転げまわっている一行に、絶望を意味する黒い影が落ちた。	조사원들은 공중으로 튕겨 나가 고통스럽게 구르다가, 결국 절망적인 '그것'의 그림자 속에서 쓰러집니다.	The investigators are thrown clear, crashing to the floor in pain — right beneath "Its" looming shadow.						0	3.2主线剧情
+141	没有人敢抬头看向上方，因为光是感受到的那股恐怖威压，就已经让每个人的灵魂都在颤栗。	沒有任何人敢抬頭看向上方，因為光是感受到的那股恐怖威壓，就已經讓每個人的靈魂都在戰慄。	顔を上げてその影を見ようとする者はいなかった。得体の知れない恐怖に襲われ、調査員たちは全身が氷のように冷たくなり、震えが止まらなかった。	아무도 감히 위를 올려다볼 수 없었어요. 그 무서운 위압감만으로도 모두의 영혼이 떨리고 있었으니까요.	No one dares look up. The sheer weight of "Its" presence makes their very souls tremble.						0	3.2主线剧情
+142	在受伤的情况下，你们已经没有战胜祂的可能，游戏已然走到了结局。	在受傷的情況下，你們已經沒有戰勝「祂」的可能，遊戲已然走到了結局。	ケガを負ってしまった調査員たちには、もはや逃げ場はない。一行の旅路は、もはやここまでか……	다친 상태로는 승산이 거의 없으니, 게임은 이미 엔딩에 다다른 셈이에요.	Injured and overwhelmed, the team stands no chance. The game is headed straight for a tragic end.						0	3.2主线剧情
+143	因为我的失误，让大家走到了这么坏的结局吗？	因為我的失誤，讓大家走到了這麼壞的結局嗎？	あたしのせいで、みんながこんな目に遭ってしまったの……？	내 실수 때문에 모두가 이런 최악의 엔딩을 맞게 됐다고?	Is it... my fault we've ended up with such a bad ending...?						0	3.2主线剧情
+144	芬妮的语气有些吃惊，随后嘴角垂了下来，眸中满是失落和沮丧。	芬妮的語氣有點吃驚，隨後嘴角垂了下來，眼眸中滿是失落和沮喪。	ファニーは呆れたように言って、ガクリと肩を落とした。	페니는 깜짝 놀란 목소리로 물었고, 입가는 축 처지고 눈빛에 실망과 낙담이 가득했다.	Fenny blinked, stunned. Her expression fell, eyes clouded with frustration and disappointment.						0	3.2主线剧情
+145	我连忙摸了摸她的头顶，轻声安慰。	我連忙摸了摸她的頭，輕聲安慰。	私は急いでその頭を撫で、慰めの言葉をかける。	나는 서둘러 그녀의 머리를 쓰다듬으며 나지막이 위로했다.	I gently patted her head, trying to comfort her with a soft voice.						0	3.2主线剧情
+146	这怎么能算芬妮的失误呢？演绎桌团本身就是充满随机性的游戏。	這怎麼能算芬妮的失誤呢？演繹桌團本身就是充滿隨機性的遊戲。	気にすることないよ。たまたま上手く行かなかっただけだから。	이게 어떻게 페니의 실수겠어? 테이블 추리단은 원래 랜덤 요소가 가득한 게임이야.	Come on, Fenny. Don't beat yourself up. Tabletop RPGs are all about randomness.						0	3.2主线剧情
+147	而且，游戏结局有好有坏是很正常的事，别太纠结。	而且，遊戲結局有好有壞是很正常的事，別太在意。	それに、失敗するほどクリアした時の感動が大きいだろう。	게다가 게임은 당연히 엔딩이 좋을 수도, 나쁠 수도 있으니 너무 신경 쓰지 마.	Good or bad endings — they're all part of the fun. Don't let it get to you.						0	3.2主线剧情
+148	现在，调查员们已经几乎走入了绝境。	現在，調查員們已經幾乎走入了絕境。	てか、もーヤバみの極みじゃん。	이제 조사원들은 거의 막다른 길에 들어섰어요.	Now then... our investigators stand at the brink of despair.						0	3.2主线剧情
+149	不过，还有一个特别的规则可以救你们。	不過，還有一個特別的規則可以救你們。	まーでも、だからって詰んだってわけでもないよ。	하지만 여러분을 구할 수 있는 특별한 규칙이 하나 있죠.	But there's one last rule that just might tip the scales.						0	3.2主线剧情
+150	每个玩家都有一次“孤注一掷”的机会，可以重新掷骰，改变故事。	每個玩家都有一次「孤注一擲」的機會，可以重新擲骰子，改變故事。	プレイヤーはゲーム中に１回だけ、展開を変えられる「プッシュロール」を宣言できるの。	모든 유저에게는 '승부수' 기회가 한 번씩 주어지고, 주사위를 다시 굴려 스토리를 바꿀 수 있어요.	Each player has a one-time "All-or-Nothing" chance — a reroll that could change everything.						0	3.2主线剧情
+151	不过在“孤注一掷”的情况下，只要失败就会被算作大失败哦~	不過在「孤注一擲」的情況下，只要失敗就會被算作大失敗喔~	ただー、失敗したら百パーでファンブルになっちゃうんだよね～	하지만 '승부수'를 던졌을 때 실패하면 대실패로 간주하니 명심하세요~	But beware — in an All-or-Nothing roll, even a Standard Fail counts as a Critical Fail.						0	3.2主线剧情
+152	本来听到有转机时，芬妮表情和缓了一些。	本來聽到有轉機時，芬妮的表情和緩了一些。	ミアの言葉にファニーは闘志を燃やしたように目をキラッと光らせたが、	기회가 있다는 말을 들었을 때, 페니의 표정이 조금 누그러졌다.	Fenny's face lit up with hope at first...						0	3.2主线剧情
+153	但“大失败”三个字，却又让她的眉头再度紧锁。	但「大失敗」三個字，卻又讓她的眉頭再度緊鎖。	失敗したら１００％ファンブルになると聞いて、また浮かない顔になった。	하지만 '대실패'라는 말에 그녀의 미간이 다시 찌푸려졌다.	But the moment she heard those final words, her brows knit with worry.						0	3.2主线剧情
+154	这……	這……	うーん……	그러면…	Uh...						0	3.2主线剧情
+155	我要使用孤注一掷的机会吗？可要又是大失败……	我要使用孤注一擲的機會嗎？如果又是大失敗……	プッシュロールを宣言しようかしら……でも、ファンブルになっちゃったら……	승부수를 던져볼까? 하지만 또 대실패가 나오면…	Should I really take the gamble? What if I blow it again...?						0	3.2主线剧情
+156	芬妮看向我，神色忐忑。	芬妮看向我，神色忐忑。	見てくる不安げな視線。	페니가 불안한 듯 나를 바라봤다.	She turned to me, anxious and uncertain, her eyes silently asking what to do.						0	3.2主线剧情
+157	别担心，不管芬妮掷出什么结果，我都会和你一起面对的。	別擔心，不管芬妮骰出什麼結果，我都會和你一起面對的。	心配するな。どんな結果になっても、ファニーと一緒に立ち向かう。	걱정 마. 페니의 선택에 어떤 결과가 나오든, 내가 함께할게.	Don't worry. Whatever happens, I'm with you — all the way.						0	3.2主线剧情
+158	既然达令都这么说了，那我选孤注一掷！	既然達令都這麼說了，那我選孤注一擲！	ダーリンがそう言うなら、やってみるわ！	달링이 그렇게 말했으니, 한번 시도해 보겠어!	Well~ If my darling believes in me... then I'm going for it!						0	3.2主线剧情
+159	泛着光的两颗十面骰，在少女的掌心微微颤动。	泛著光的兩顆十面骰，在少女的掌心微微顫動。	ファニーは２個のダイスを手のひらに乗せ、拳をつくる。	빛나는 10면체 주사위 두 개가 소녀의 손바닥 위에서 살살 흔들리고 있었다.	The two shimmering ten-sided dice trembled lightly in her palm.						0	3.2主线剧情
+160	芬妮并没有急着掷骰，而是紧握成拳，带着浅浅笑意将手伸到了我面前。	芬妮並沒有急著擲骰，而是緊握成拳頭，帶著淺淺笑意將手伸到了我面前。	そして笑顔のまま、ダイスを握った拳を私のほうへ突き出す。	페니는 급하게 주사위를 던지지 않았고, 주먹을 꼭 쥔 채 살짝 미소를 지으며 내 앞으로 손을 내밀었다.	But instead of rolling them right away, she closed her hand into a fist and held it out toward me with a soft smile.						0	3.2主线剧情
+161	而我也心领神会，覆住她的手，两个人一起将决定调查员命运的骰子投了出去。	而我也心領神會，包覆住她的手，兩個人一起將決定調查員命運的骰子投了出去。	一緒に振りましょう、という意味なのだろう。私は小さなその拳を手で包み、ダイスを振った。	그 마음을 알아챈 나는 그녀의 손을 감쌌고, 조사원의 운명을 결정할 주사위를 함께 던졌다.	I understood immediately — and placed my hand over hers. Together, we cast the dice that would decide all our fates.						0	3.2主线剧情
+162	那芬妮调查员的这次检定，到底能不能成功呢~？	那芬妮調查員的這次檢定，到底能不能成功呢~？	さて、ファニーの判定結果は～？	과연 페니 조사원은 이번 판정에서 성공할 수 있을까요~?	Now then... will Investigator Fenny's desperate gamble pay off~?						0	3.2主线剧情
+164	呼……这下应该可以活下来了吧？	呼……現在應該可以活下來吧？	ふー……これで生き残れたわよね？	휴… 이제 살 수 있겠지?	Phew... so we're safe now, right?						0	3.2主线剧情
+165	尽管走廊中弥漫着令人窒息的恐怖气息，但芬妮调查员还是死死握紧了方向盘。	儘管走廊中彌漫著令人窒息的恐怖氣息，但芬妮調查員還是死死握緊了方向盤。	廊下では恐ろしく不気味な気配が漂っていた。息が詰まりそうになりながらも、ファニーはハンドルを回す手を決して止めなかった。	복도에는 공포스러운 분위기가 숨 막히게 감돌고 있지만, 페니 조사원은 여전히 핸들을 꽉 붙잡고 있네요.	Even as dread thickens the air, Investigator Fenny clings tightly to the wheel.						0	3.2主线剧情
+166	她猛踩油门，漂移过弯，一番精彩的操作后，顺利带大家逃离了眼前的险境。	她猛踩油門，漂移過彎，一番精彩的操作後，順利帶大家逃離了眼前的險境。	アクセルを踏み込み、勢いそのままで角を曲がる……ファニーの華麗な運転のおかげで、一行はようやく瀕死の危機から脱したのだった。	액셀을 밟아 드리프트 하며 코너를 돌았고, 그녀의 멋진 운전 실력 덕분에 모두가 위험에서 벗어났어요.	She slams on the gas, skids into a clean drift — and after a heart-pounding flurry of turns, she pulls the whole team out of danger.						0	3.2主线剧情
+167	做得好，小狮子。	做得好，小獅子。	よくやったな、ファニー。	잘했어, 리틀 라이언.	Nice work, my little lioness.						0	3.2主线剧情
+169	尽管走廊中弥漫着令人窒息的恐怖气息，但经验丰富的芬妮调查员无所畏惧。	儘管走廊中彌漫著令人窒息的恐怖氣息，但經驗豐富的芬妮調查員無所畏懼。	廊下では恐ろしく不気味な気配が漂っていたが、ベテラン調査員のファニーは少しも動じなかった。	복도에는 공포스러운 분위기가 숨 막히게 감돌고 있지만, 노련한 페니 조사원은 두렵지 않아 보이네요.	Even as dread thickens the air, the seasoned Investigator Fenny stays cool as ever.						0	3.2主线剧情
+170	只见她单手开车、猛踩油门、漂移过弯，轻轻松松就将“祂”抛在了身后。	只見她單手開車、猛踩油門、漂移過彎，輕輕鬆鬆就將「祂」拋在了身後。	片手で送りハンドルを回しながら、アクセルを奥まで踏み込んだままカーブを抜ける……気づけば、後ろから迫る足音はほとんど聞こえなくなっていた。	한 손으로 운전하며 액셀을 밟아 드리프트로 코너를 돌더니, '그것'을 손쉽게 뿌리쳤어요.	With one hand on the wheel, she floors the gas, nails a sharp drift, and leaves "It" choking in her dust.						0	3.2主线剧情
+171	好厉害的小狮子。	好厲害的小獅子。	すごいぞ、ファニー！	정말 대단해, 리틀 라이언.	That was incredible, my little lioness.						0	3.2主线剧情
+172	喂！这跟刚才也差得太多了吧！	喂！這跟剛才也差得太多了吧！	ねえ！さっきの展開と全然違うんだけど！？	이봐! 아까랑 너무 다르잖아!	What the—!? How'd I suddenly get this good? Last time was a total disaster.						0	3.2主线剧情
+173	哎呀~这不就是演绎桌团的魅力吗？	哎呀~這不就是演繹桌團的魅力嗎？	だからー、これがリアルRPGの醍醐味なんだし。	어머~ 이게 바로 테이블 추리단의 묘미 아니겠어요?	Hehe~ That's the magic of Tabletop Expedition!						0	3.2主线剧情
+174	在开车逃离的途中，技术高超的芬妮甚至还抽出空来，打量了那个东西一眼。	在開車逃離的途中，技術高超的芬妮甚至還能抽出空來，打量了那個東西一眼。	――颯爽とプラズマカーを走らせながら、ファニーはチラリと後ろを確かめた。追っ手であるアレの姿を確認するためだ。	운전하며 도망치는 와중에도, 능력자 페니는 그것을 훑어보는 여유로운 모습까지 보여줍니다.	And as she pulls off the escape, our ace driver even manages to sneak a peek at the thing that was chasing them.						0	3.2主线剧情
+175	只看到祂……	只看到祂……	彼女が目にしたのは……	그것의 모습은…	And what she sees is...						0	3.2主线剧情
+176	嗯……？	嗯……？	ん…？	음…?	Uh...?						0	3.2主线剧情
+177	圆滚滚的，头顶上还戴着奇怪的……帽子？	圓滾滾的，頭頂上還戴著奇怪的……帽子？	全身丸くて、そして変な帽子…？みたいなのをつけてて。	동그랗고, 머리 위에는 이상한… 모자를 쓰고 있네?	Kinda plump? With something weird on its head... a hat?						0	3.2主线剧情
+178	芬妮的目光忽然被什么东西牢牢吸引住，神情也随之迷茫起来。	芬妮的目光忽然被什麼東西牢牢吸引住，神情也隨之迷茫起來。	ファニーは遠くを眺めながら、戸惑った顔でミアの言葉を継いだ。	페니의 시선은 갑자기 무언가에 완전히 빼앗겼고, 표정도 멍해졌다.	Fenny's eyes glazed over, locking on something unseen in the distance.						0	3.2主线剧情
+179	喃喃自语的声音，甚至打断了正在演绎的米娅。	喃喃自語的聲音，甚至打斷了正在演繹的米婭。	ミアは小首をかしげた。	중얼거리는 소리가 미아의 연기를 끊었다.	Her voice dropped to a mumble, cutting off Mia's narration mid-sentence.						0	3.2主线剧情
+180	诶？	欸？	は？	어라?	Wait, what?						0	3.2主线剧情
+181	剧本里……可没这么写过哦。	劇本裡……可沒這麼寫過喔。	シナリオにそんなこと書いてなくない…？	각본에는… 이런 내용이 없는데.	That... wasn't in the script.						0	3.2主线剧情
+182	米娅又仔细地翻阅了剧本，笃定地说道。	米婭又仔細地翻閱了劇本，篤定地說道。	ミアは台本から目を剥がして困惑したように言った。	미아가 각본을 다시 꼼꼼히 살펴보며 확신에 차 말했다.	Mia flipped through her gamemaster notes, brows furrowed.						0	3.2主线剧情
+183	嗯？难道是我眼花了？	嗯？難道是我眼花了？	え？あたしの見間違いなの？	응? 내가 헛것을 봤나?	Huh...? Did I... imagine it?						0	3.2主线剧情
+184	趁着芬妮揉眼睛的时候，我也顺着她凝视的方向望去。	趁著芬妮揉眼睛的時候，我也順著她凝視的方向望去。	私はファニーの見た方向へ目をやる。	페니가 눈을 비비자, 나도 그녀가 응시하던 방향을 바라보았다.	As Fenny rubbed her eyes, I glanced in the same direction she had.						0	3.2主线剧情
+185	虽然什么都没有看见，但心中却莫名升起一种异样的感觉	雖然什麼都沒有看見，但心中卻莫名升起一種異樣的感覺。	特に異常も何もなかったが、なぜか私は胸が騒ぎだした。	아무것도 보이지 않았지만, 마음속에 이상한 감정이 불현듯 피어올랐다.	There was nothing there. Still... an odd chill ran down my spine.						0	3.2主线剧情
+186	这段剧情还真是惊险。不知道接下来还有什么意外等着我们。	這段劇情還真是驚險。不知道接下來還有什麼意外等著我們。	危ない展開だったな。はてさて、次は何が待ち受けているやら……	이번 스토리는 정말 아슬아슬했네. 앞으로는 또 어떤 돌발 상황이 기다리고 있을지 모르겠군.	That got tense fast. I have a bad feeling about what's next.						0	3.2主线剧情
+187	唔哇！你们看！	哇！你們看！	わっ！見て！	으악! 저기 좀 봐요!	Ahh! Look—!						0	3.2主线剧情
+188	地……地上有……	地……地上有……	じ、地面になんかあるよ……	바… 바닥에…	Th—The floor...!						0	3.2主线剧情
+189	瑟瑞斯忽然发出一声惊叫，循着她指的方向，我们纷纷将视线投向脚下。	瑟瑞斯忽然發出一聲驚叫，循著她指的方向，我們紛紛將視線投向腳下。	シーリスの声に私たちは目の前の地面へ視線を集めた。	세리스의 갑작스러운 비명에, 우리는 그녀가 가리키는 방향을 따라 시선을 바닥으로 돌렸다.	Siris shrieked and pointed down. Our eyes followed — and there it was:						0	3.2主线剧情
+190	只见地面上出现了一串凌乱的血色足迹，正断断续续地向前方铺展开去。	只見地面上出現了一串凌亂的血色足跡，正斷斷續續地向前方鋪展開去。	先ほどの赤い足跡が、途切れ途切れになりながら廊下の先へと早いスピードで進んでいた。	바닥에는 핏빛 발자국이 어지럽게 찍힌 채, 드문드문 앞쪽으로 이어져 있었다.	A jagged trail of blood-red footprints, scattered and uneven, leading off into the distance.						0	3.2主线剧情
+191	看来，我们追踪的目标，就在前方不远处了。	看來，我們追蹤的目標，就在前方不遠處了。	もうすぐ追いつけるようだ。	우리가 추적하는 목표가 저 앞쪽 어딘가에 있는 것 같다.	Looks like we were closing in on our target.						0	3.2主线剧情

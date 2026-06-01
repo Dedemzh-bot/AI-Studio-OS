@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	琴诺今天看起来心情很好呢。	琴諾今天看起來心情很好呢。	チェルノはご機嫌だな。	체르노, 오늘은 기분이 좋은 것 같네.	Looks like you're in a good mood today, Cherno.						0	
+page0.2	啊，是分析员！	啊，是分析員！	あっ、分析員さん！	아, 분석가님!	Ah, Adjutant!						0	
+page0.3	嗯嗯，因为恩雅姐送了我一本新菜谱，我又可以学习一些新的烹饪方法了。	嗯嗯，因為恩雅姐送了我一本新食譜，我又可以學一些新的烹飪方法了。	ええ、エンヤ姉から新しい料理本を貰いまして、また新しい料理を勉強できるようになりました。	네, 엔야 언니가 새로운 레시피를 선물해 주셨거든요. 또 새로운 요리들을 배울 수 있게 되었어요.	Yep, I am, because Enya gave me a new cookbook. Now I can learn some new recipes.						0	
+page0.4	啊哈哈……	啊哈哈……	あははは……	아하하…	Ah, haha...						0	
+page0.5	话说回来，琴诺为什么这么喜欢做菜呢？	話說回來，琴諾為什麼這麼喜歡做菜呢？	そういえば、どうしてチェルノは料理を作るのが好きなの？	그런데, 체르노는 왜 그렇게 요리를 좋아하는 거야?	By the way, why do you like cooking so much, Cherno?						0	
+page0.6	嗯？我没有认真考虑过这个问题……	嗯？我沒有認真想過這個問題……	えっ？今まで考えたこともなかったですけど……	네? 아, 그 문제에 대해선 진지하게 고민해 본 적이 없어서…	Huh? I guess I haven't really thought about it before...						0	
+page0.7	在做菜的时候，我会感觉很安心，做完之后也很开心。	在做菜的時候，我會感覺很安心，做完之後也很開心。	料理してる時は安心できますし、作ったあとも嬉しいです。	요리를 하면 마음이 편안해지는 것 같아요. 음식을 만들고 나면 기분이 좋아지고요.	Cooking really relaxes me, and I feel so happy after I finish.						0	
+page0.8	而且莫尔索也很喜欢，她在我做菜的时候总是安安静静的。	而且莫爾索也很喜歡，她在我做菜的時候總是很安靜。	それにムルソーも料理している私が好きで、いつも静かに私を見ています。	그리고 모르소도 좋아하고요. 그래서 요리할 때면 조용해요.	And Meursault likes it too. She's always quiet while I'm cooking.						0	
+page0.9	原来如此。	原來如此。	なるほど。	그렇구나.	I see.						0	
+page0.10	（看来为了琴诺的心理健康，还是有必要让她继续练习做菜。）	（看來為了琴諾的心理健康，還是有必要讓她繼續練習做菜。）	（チェルノのメンタルヘルスのためには、引き続き料理をやらせる必要があるみたいだ。）	(체르노의 정신적 건강을 위해서라도 계속 요리를 하게 할 필요가 있겠어)	(Looks like practicing her cooking is essential to Cherno's mental health.)						0	
+page0.11	（虽然现阶段，她的成果确实有些，不太理想。）	（雖然現階段，她做菜的成果確實...不太理想。）	（今のところはまあ、理想的な成果とは言えないが。）	(지금의 성과는 아직 기대에 미치지 못하지만)	(But at this point, her results are less than stellar...)						0	
+page0.12	琴诺，如果还需要菜谱的话，我也可以帮你找一些。	琴諾，如果你還需要食譜的話，我也可以幫你找一些。	チェルノ、もしまた料理本が必要になったら、探すの手伝うよ。	체르노, 레시피가 필요하면 내가 더 찾아줄 수도 있어.	Cherno, if you still need more recipes, I could help you find some.						0	
+page0.13	哎？真，真的吗！谢谢分析员，我一定会做出好吃的报答你的！	哎？真、真的嗎！謝謝分析員，我一定會做出好吃的菜來報答你的！	えっ、ほ、本当ですか？ありがとうございます、分析員さん。必ず美味しい料理を作ってみせます！	에? 저, 정말요! 감사해요, 분석가님. 꼭 맛있는 요리를 해서 보답할게요!	Ah? R—Really? Thank you, Adjutant! I'm going to make you something delicious in return!						0	
+page0.14	好，要加油啊琴诺。	好，要加油啊琴諾。	ああ、頑張ってね、チェルノ。	그래, 체르노도 힘내.	Okay, do your best, Cherno.						0	
+page0.15	就当是为了我的肠胃……	就當是為了我的腸胃……	私の胃腸のためにも……	나의 편안한 속을 위해서라도… 꼭…	(Or maybe I should be saying that to my stomach...)						0	

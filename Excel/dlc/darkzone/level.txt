@@ -1,0 +1,4 @@
+ID	备注	关卡类型(0、通常关,1、Boss关,2、st剧情,3、重要,4、爬塔关,5、Boss挑战关,6、联机,7、ep剧情)	地图ID	战斗逻辑配置ID	解锁条件(1：账号等级；2：Level ID，3：是否拥有某道具，4：曜日本专用是否通关xx关卡)	体力消耗(包含进入和通关)	星级条件 {{1,300},{1,180},{2,2}}	出场怪物信息{{怪物编号,等级(填0不显示等级)}}	怪物强度模板	关卡详情是否显示怪物列表 0或不配显示奖励列表 1显示怪物列表	推荐战力	战斗力增减等级数	是否允许多重战斗	是否显示再次挑战	下一关ID	玩家经验值	角色经验值	队伍规则	首次达成星级奖励	首通掉落ID	固定掉落ID	随机掉落ID	UI展示固定物品{{G,D,P,L,N}}	UI展示随机物品{{G,D,P,L,N}}	UI展示首通物品{{G,D,P,L,N}}	Boss概念图	关卡概念图	任务资源	dlc版本
+ID	Comments	Type	MapID	FightID	Condition	ConsumeVigor	StarCondition	Monster	LevelStrength	ShowListType	RecommendPower	RecommendLevelOffset	MultipleFight	AgainFight	NextID	PlayerExp	RoleExp	TeamRuleID	StarAward	FirstDropID	BaseDropID	RandomDropID	ShowAward	ShowRandomAward	ShowFirstAward	PictureBoss	PictureLevel	TaskPath	DLCVersion
+																													
+4550	DLC3探索任务-特效关卡	0	4550	1		{0,0}		{400130101,400130301,400130401,400130601}	1	0			0	0					{}									DLC3Task/DLC3_Cave.DLC3_Cave	3

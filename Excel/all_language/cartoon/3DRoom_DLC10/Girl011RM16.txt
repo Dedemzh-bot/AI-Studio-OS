@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	这里也不行……伊切尔那孩子不会喜欢。	這裡也不行……伊切爾那孩子不會喜歡。	ここもダメですね。イチェルが気に入らないかも。	여기도 안 돼… 이첼이 싫어할 거야.	No good... Eatchel won't like it.						0	
+page1.2	恩雅姐好像很烦恼的样子？	恩雅姐好像很煩惱的樣子？	エンヤ姉、何か悩んでるのか？	엔야 누님이 고민하는 것 같네요?	Enya, is something bothering you?						0	
+page1.3	啊，是分析员。	啊，是分析員。	あ、分析員。	아, 분석가네.	Ah, Adjutant.						0	
+page1.4	吓到你了吗？	嚇到你了嗎?	ごめん、驚いた？	놀라셨어요?	Did I scare you?						0	
+page1.5	没有哦，要说的话，更多是惊喜。这种时候能见到分析员很开心呢。	沒有哦，要說的話，更多是驚喜。這種時候能見到分析員很開心呢。	いいえ。むしろ、嬉しいサプライズです。こんな時に分析員に会えて嬉しいですよ。	아니, 오히려 더 기뻐. 이런 때에 분석가를 만나다니 정말 반가워.	Not at all. If anything, it was more of a pleasant surprise. I'm always happy to see you at times like these, Adjutant.						0	
+page1.6	哈哈。所以刚才恩雅姐是在苦恼什么？	哈哈。所以剛才恩雅姐是在苦惱什麼？	あはは。で、どうしたんだ？	하하. 그래서 아까 엔야 누님은 무슨 고민을 하고 있었어요?	Haha. So what was bothering you just now?						0	
+page1.7	这个啊，大家约好下个假日要一起出去玩，要确定一个大家都会喜欢的地方。	這個啊，大家約好下個假期要一起出去玩，要確定一個大家都會喜歡的地方。	実は、今度の休日にみんなと遊びに行く約束をしたんです。だから、みんなが好きそうな場所を決めなければなりません。	그게, 다 같이 다음 휴일에 놀러 가려고 하는데, 모두가 좋아할 만한 장소를 정해야 해서 그래.	Well, we all decided to go on a trip together next weekend, so we need to decide on a place everyone will like.						0	
+page1.8	每个人的爱好都不一样，需要考虑的点有很多。	每個人的喜好都不一樣，需要考慮的點很多。	人の好みはそれぞれなので、考えるべきことがいっぱいあるんです。	각자 취향이 다 다르니까 고려해야 할 것들이 많아.	Everyone has different hobbies, so there are a lot of factors to consider.						0	
+page1.9	我看看……恩雅姐居然都列出来了啊，每个人的喜好，不过……	我看看……恩雅姐居然都列出來了啊，每個人的喜好，不過……	どれどれ……なるほど、みんなの好みをリスト化したのか。でも……	어디 보자… 엔야 누님이 각자의 취향을 다 적어놨네요, 근데…	Let me see... Wow, Enya. You actually listed out everyone's preferences. But...						0	
+page1.10	不过？	不過？	でも？	근데?	But?						0	
+page1.11	不过为什么没有恩雅姐自己呢？	不過為什麼沒有恩雅姐自己呢？	エンヤ姉の好みが書かれてないみたいだけど？	근데 왜 엔야 누님이 자신은 없지?	Why didn't you put yourself on the list?						0	
+page1.12	我觉得恩雅姐其实没必要这么烦恼，可以适当多考虑下自己喜欢的地方。	我覺得恩雅姐其實沒必要這麼煩惱，可以適當多考慮下自己喜歡的地方。	そんなに悩むより、エンヤ姉の好きな場所にしたらいいと思う。	제 생각엔 엔야 누님이 그렇게 고민할 필요 없어요, 자기가 좋아하는 곳도 좀 더 고려해 봐도 좋아요.	You don't need to worry so much, Enya. You should think more about where you want to go.						0	
+page1.13	哦哦，分析员是照顾我吗？	哦哦，分析員是照顧我嗎？	あら、私のことを気遣ってくださるんですか？	오오, 분석가가 날 챙겨주는구나?	Oh? Are you looking out for me, Adjutant?						0	
+page1.14	我想去的地方啊……对了，如果是分析员的话，会想去哪？	我想去的地方啊……對了，如果是分析員的話，會想去哪？	私の好きな場所……あっ、分析員だったら、どこに行きたいと思いますか？	내가 가고 싶은 곳이라… 맞다, 분석가라면 어디 가고 싶어?	Where I want to go, huh? ...Hey, where would you want to go, Adjutant?						0	
+page1.15	为什么皮球被踢到我这里来了。	為什麼皮球被踢到我這裡來了。	なぜ私に聞く？	왜 갑자기 저한테 패스해요.	Why is the ball in my court now?						0	
+page1.16	这个嘛，或许是突然想到，我……和大家都会更想去分析员去的地方吧？	這個嘛，或許是突然想到，我……跟大家都會更想去分析員去的地方吧？	ふと思ったんですけど、分析員の行きたい場所なら、私……ではなく、みんなも行きたいんじゃないかと。	그냥 문득 떠올라서 그랬는데… 분석가가 가고 싶은 곳이라면 나랑 모두가 더 가고 싶지 않을까?	Well, maybe I suddenly realized I... and everyone else would want to go wherever you want to, Adjutant.						0	
+page1.17	我是房间休息党。	我是房間休息黨。	私は部屋でゴロゴロする派。	저는 방에서 쉬는 게 좋아요.	I'm a fan of relaxing in my room.						0	
+page1.18	那就决定了，在分析员房间里聚会吧。	那就決定了，在分析員房間裡聚會吧。	じゃあ決まり。分析員の部屋でパーティーをしましょう。	그럼 결정됐네, 분석가 방에서 모이는 걸로.	Then it's settled. We'll have a party in your room, Adjutant.						0	
+page1.19	！！？	！！？	！！？	!!?	!?						0	
+page1.20	放心放心，要是分析员的房间被弄得乱糟糟，姐姐会全部帮你收拾好的。	放心放心，要是分析員的房間被弄得亂糟糟，姐姐會全部幫你收拾好的。	心配いりませんよ。もし分析員の部屋が散らかることになっちゃっても、お姉さんがキレイに片付けてあげますから。	걱정 마, 분석가 방이 엉망이 되면 누나가 다 치워줄게.	Don't worry. I'll help you clean up your room if it gets messy, Adjutant.						0	

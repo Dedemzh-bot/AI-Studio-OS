@@ -1,0 +1,172 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	是本小姐眼花了吗？车上的女孩子是……	是本小姐眼花了嗎?攤車上的女孩子是……	あたしの見間違いかしら、車に乗っているのって……	내가 눈이 잘못된 건가? 차에 있는 여자아이는…	Am I seeing things? That girl with the cart is...						0	1.3重置
+2	冰淇淋——冰淇淋——比棒冰好吃的冰淇淋——	冰淇淋——冰淇淋——比冰棒好吃的冰淇淋——	アイス〜アイス〜あまーいアイス〜ミルクを入れて～いちごを乗せて～あまーいアイスの出来上がり～	아이스크림~ 아이스크림~ 막대 아이스크림보다 더 달콤한 아이스크림~	♪ Ice cream, ice cream! The very bestest ice cream! ♪						0	1.3重置
+4	恩雅，芬妮还有……	恩雅、芬妮還有……	……ん？あれは……エンヤとファニー、そして……	엔야, 페니, 그리고…	Enya, Fenny, and...						0	1.3重置
+6	分析员……也在吗？	分析員……也在嗎？	……分析員……	분석가님도… 있는 건가?	The Adjutant... all here?						0	1.3重置
+6_1	（如果只有分析员的话那也无妨，但……）	（如果只有分析員的話那也無妨，但……）	（もし分析員だけなら問題ないのですが……）	(분석가님만 있다면 상관없겠지만…)	(If it were just the Adjutant, that'd be fine... but...)						0	1.3重置
+8	……	……	……	…	...						0	1.3重置
+9	稍加思索后，辰星转动把手，驾驶着冰淇淋车冲下了山坡。	辰星思索片刻後隨即轉動把手，駕駛著冰淇淋攤車衝下山坡。	少し考えた辰星はハンドルを回し、キッチンカーに乗って山を降りた。	잠시 고민을 하던 수성은 페달을 밟고 아이스크림 차를 몰아 내리막길을 잽싸게 내려갔다.	After thinking about it for a moment, Chenxing turned the handlebars and drove the ice cream cart straight down the hillside.						0	1.3重置
+10	她好像没有看见我们呢……	她好像沒有看到我們呢……	私たちのことに気づいてないみたいですね……	아무래도 우리를 보지 못한 모양인데…	I don't think she saw us...						0	1.3重置
+11	不，绝对看见了吧！姬辰星和星期三一样，对谁都冷冰冰的！	不，她絕對看到了!姬辰星和星期三一樣，對誰都冷冰冰的!	いや、絶対気づいたでしょ！姫辰星はウェンズデーみたいに、誰に対しても冷たいんだから！	아냐, 분명히 봤어! 수성은 웬스데이처럼 쌀쌀맞아서 그런 걸 수 있어!	No, she totally saw us! Chenxing is just like Wednesday — she's cold to everyone!						0	1.3重置
+b-1											0	1.3重置
+12	先追上去吧。	先追上去吧。	追いかけよう。	일단 쫓아가 보자.	Let's go after her.						0	1.3重置
+13	被追上了。	被追上了。	追いつかれましたね。	따라잡혀 버렸어.	Looks like you caught up to me.						0	1.3重置
+14	什么叫“被追上了”啊？辰星你果然是在故意躲着我们的吧？！	什麼“被追上了”啊?辰星你果然是故意躲著我們的吧?!	何が「追いつかれた」よ？やっぱりわざと避けたんでしょ、辰星！	'따라잡혀 버렸어'라니? 일부러 우리를 피했던 거야?!	What do you mean we "caught up to you"? Chenxing, are you actually avoiding us on purpose!?						0	1.3重置
+15	只是……突然想来这里逛一逛。	只是……突然想來這逛逛。	私はただ……急に散策してみたくなっただけで。	그냥… 이곳을 좀 둘러보고 싶었어요.	No, I just... suddenly had the urge to enjoy the scenery here.						0	1.3重置
+16	好刻意的借口。	好拙劣的藉口。	わざとらしい。	어쩜 거짓말도 이렇게 못할까…	What an obvious excuse.						0	1.3重置
+17	等等，姐姐我才发现，小辰星这身衣服还真是大胆哎，难道说…是为了分析员特意准备的~	等等，姐姐我才發現，小辰星這身衣服還真是大膽哎，難道說…是為了分析員特意準備的~	あら、辰星、その水着ずいぶん大胆ですね。もしかして…分析員のために用意したんですか〜？	잠깐만, 언니가 이제야 알아봤는데, 오늘 수성의 옷차림이 꽤 파격적인걸? 설마… 분석가를 위해 특별히 준비한 건가~?	Hold on — that's a pretty daring outfit, Chenxing. Don't tell me... you wore it for the Adjutant~?						0	1.3重置
+17_1	没，没有那回事……	沒，沒有那回事……	そ、そんなことは……	그, 그런 거 아니에요…	N—No, it's not like that...						0	1.3重置
+17_2	哎？我记得小辰星明明也有说过想要加入我们小组吧？	哎？我記得小辰星明明也有說過想要加入我們小組吧？	え？ 辰星も私たちのチームに入りたいって言ってましたよね？	어머? 수성도 우리 팀에 들어오고 싶다고 했던 것 같은데?	Hm? Didn't you say you wanted to join our team too, Chenxing?						0	1.3重置
+17_3	哼哼~不过被本小姐抢先了~	哼哼~不過被本小姐搶先了~	フフン♪ でも先手を打ったのはこのあたしよ～	흐흥~ 하지만 이 몸이 먼저 들어왔지~	Hmph~ Too bad! I called dibs first~						0	1.3重置
+18	唔……	唔……	う……	으음…	Nngh...						0	1.3重置
+18_1	小辰星这样可不行哦，喜欢一个人的话就要大胆承认，不然的话就会被人抢先哦。	小辰星這樣可不行哦，喜歡一個人的話就要大膽承認，不然的話就會被人搶先哦。	辰星、それじゃダメですよ。好きならおとなしく認めないと、先を越されちゃいますからね〜	수성, 그러면 안 돼. 좋아하는 사람이 있으면 용기 있게 인정해야지. 안 그러면 다른 사람한테 빼앗기고 말 거야.	Uh-uh, Chenxing. If you have a crush on someone, you've got to say it out loud — or someone else might swoop in first~						0	1.3重置
+18_2	大胆承认？那我……我喜欢……	大膽承認？那我……我喜歡……	おとなしく認める、ですか？ わ、私は……のことが……す……	용기 있게 인정하라고요? 그럼, 저… 저는…	Out loud...? Then I... I—						0	1.3重置
+18_3	辰星的目光在我的脸与自己的脚尖反复游离，两腮的绯红几乎要蔓延到耳根。	辰星的目光在我的臉與自己的腳尖反復游離，兩腮的緋紅幾乎要蔓延到耳根。	辰星の視線が私の顔と自分のつま先を行き来し、頬の赤みが耳まで広がる。	수성의 눈빛이 내 얼굴과 자신의 발끝 사이에서 떠돌았고, 두 볼의 홍조는 귓가까지 번졌다.	Her eyes darted between my face and her toes, the blush rising all the way to her ears.						0	1.3重置
+18_4	看来真的是害羞了。	看來真的是害羞了。	どうやら本当に照れているらしい。	정말 부끄러운가 보다.	She was completely flustered.						0	1.3重置
+18_5	对于向来优雅委婉的她来说，这样直白的情感表达，果然还是太过刺激了。	對於向來優雅委婉的她來說，這樣直白的情感表達，果然還是太過刺激了。	いつも上品で控えめな彼女にとって、こんな直球は刺激が強すぎるのだろう。	늘 우아하고 완곡한 모습만 보여주던 그녀에게, 이런 직설적인 감정 표현은 역시 너무 자극적이었나 보다.	For someone as poised and reserved as her, saying her feelings out loud must've been overwhelming.						0	1.3重置
+18_6	看着她手足无措的样子，我心里是又心疼又好笑。但最终，还是不忍心让她继续煎熬，决定替她解围。	看著她手足無措的樣子，我心裡是又心疼又好笑。但最終，還是不忍心讓她繼續煎熬，決定替她解圍。	戸惑う姿が愛おしくも可笑しく、これ以上苦しませたくなくて助け舟を出すことにした。	어쩔 줄 몰라 하는 그녀의 모습을 보니 안쓰럽기도 하고 웃음도 났다. 하지만 결국, 더 이상 힘들게 하고 싶지 않아 화제를 돌리기로 했다.	Watching her struggle like that was both funny and a little painful — so I stepped in to bail her out.						0	1.3重置
+18_7	啊，对了辰星，说起来为什么你会在这里卖冰淇淋呢？	啊，對了辰星，說起來為什麼你會在這裡賣冰淇淋呢？	ああ、そうだ辰星。どうしてここでアイスを売っているんだ？	아, 그러고 보니 수성은 왜 여기서 아이스크림을 팔고 있죠?	Oh — Chenxing, what brings you here selling ice cream?						0	1.3重置
+18_8	因为没有加入分析员的小组后我就想着一个人单独行动	因為沒有加入分析員的小組後我就想著一個人單獨行動	分析員のチームに入れなかったので、一人で行動しようと思いまして……	분석가님 팀에 들어가지 못해서 혼자 행동하려고 했어요.	I didn't get to join the Adjutant's team, so I figured I'd go solo...						0	1.3重置
+18_8_1	然后制造偶遇的机会再借机向分析员展示我自己穿着泳装的可爱样子	然後製造偶遇的機會再借機向分析員展示我自己穿著泳裝的可愛樣子	偶然を装って分析員に水着姿を見せるチャンスを作ろうと……	그리고 우연을 가장해, 수영복 차림의 귀여운 모습을 분석가님한테 보여주려고 했어요.	Then maybe I'd just "happen" to run into him and show off how cute I look in my bathing suit...						0	1.3重置
+18_8_2	这样一来的话分析员一定会对我有新的认知然后再借机说出啊分析员其实我喜欢粒（你）——	這樣一來的話分析員一定會對我有新的認知然後再借機說出啊分析員其實我喜歡粒（你）——	そうすれば分析員に新しい一面を知ってもらえて、それから……あ、実は私、分析員のこ——	그러면 분석가님이 저를 다시 보게 될 테고 그 기회를 빌려 이렇게 말하려고 했죠. 아, 사실 좋아해요, 분석가닝(님)…	And maybe he'd see me in a new light and I'd say "Adjutant, l thike (like) you"...						0	1.3重置
+18_8_3	本以为换个话题可以舒缓一下她的情绪，但没想到我的搭话似乎起到了反作用，一瞬间，辰星的语速变得飞快。	本以為換個話題可以舒緩一下她的情緒，但沒想到我的搭話似乎起到了反作用，一瞬間，辰星的語速變得飛快。	話題を変えれば落ち着くと思ったが、逆効果だったようで、辰星の早口は加速する。	화제를 바꾸면 그녀의 마음이 차분해질 거라고 생각했는데, 내가 말을 거는 바람에 오히려 역효과가 난 듯했고, 수성의 말이 순식간에 빨라졌다.	I thought changing the subject might ease her nerves, but it totally backfired — Chenxing launched into a full-speed ramble.						0	1.3重置
+18_9	啊呜，咬到舌头了。	啊嗚，咬到舌頭了。	あう、舌を噛みました。	아욱, 혀를 깨물었어요.	Oof — did she just bite her tongue?						0	1.3重置
+18_10	话说她叽里咕噜说了什么……	話說她叽里咕噜說了什麼……	ねえ、今の早口…何て言ってたのかしら……	근데 방금 뭐라고 중얼거린 거지…	What did she even say...?						0	1.3重置
+18_11	咳咳，辰星冷静一点。	咳咳，辰星冷靜一點。	ゴホン、辰星、落ち着いてくれ。	크흠, 수성, 진정해요.	Ahem. Take it easy, Chenxing.						0	1.3重置
+18_12	抱歉……	抱歉……	申し訳ありません……	죄송해요…	Sorry...						0	1.3重置
+18_13	总之，你是申请了单独行动，然后收到的任务是卖光冰淇淋吧。	總之，你是申請了單獨行動，然後收到的任務是賣光冰淇淋吧。	つまり、単独行動を申請して、課題はアイスを売り切ることなんだな。	그러니까, 수성은 단독 행동을 신청했고, 그래서 아이스크림을 모두 판매하라는 미션을 받은 거죠?	So let me get this straight — you signed up solo, and your mission was to sell all the ice cream?						0	1.3重置
+18_14	哎？！分析员居然能听出来辰星说了什么吗？！	哎？！分析員居然能聽出來辰星說了什麼嗎？！	えっ？！ 分析員、今の早口を聞き取れたの？	엥?! 분석가는 수성이 한 말을 알아들었단 말이야?!	What!? You actually understood all that!?						0	1.3重置
+18_15	勉强听清了吧，对吗辰星？	勉強聽清了吧，對嗎辰星？	何とかな。そういうことだよな、辰星。	겨우 알아들었어. 그렇죠, 수성?	More or less. That about right, Chenxing?						0	1.3重置
+18_16	嗯……大致就是这么一回事。	嗯……大致就是這麼一回事。	はい…大体その通りです。	네… 대충 그렇게 된 일이에요.	Mm... yeah, the Adjutant got it right.						0	1.3重置
+18_17	我向辰星眨了眨眼，她立即心领神会，投来一个充满感激的目光。	我向辰星眨了眨眼，她立即心領神會，投來一個充滿感激的目光。	辰星にウインクすると、彼女はすぐに悟り、感謝の眼差しを返した。	내가 수성에게 눈짓을 보내자, 그녀는 즉시 알아차리고는 감사한 눈빛을 보냈다.	I gave Chenxing a quick wink. She caught on instantly and shot me a grateful look.						0	1.3重置
+26	对了，三位请稍等一下……	對了，三位請稍等一下……	あの、少々お待ちください……	잠시만요, 세 분, 잠시만 기다려 주세요…	Hold on, guys...						0	1.3重置
+27	接着稍微松了一口气的辰星转过身去，略显僵硬地做出了三个甜筒冰淇淋。	接著稍微鬆了一口氣的辰星轉過身去，略顯僵硬地做出了三個甜筒冰淇淋。	少し肩の力を抜いた辰星が振り向くと、不慣れながらも3つのアイスクリームを作った。	한숨 놓은 수성은 몸을 돌려 다소 어색한 모습으로 아이스크림콘 세 개를 만들었다.	With a quiet sigh of relief, Chenxing turned and, with slightly clumsy hands, put together three ice cream cones.						0	1.3重置
+28	就当做是刚刚无礼之举的补偿，请大家吃冰淇淋。	當作是剛剛無禮之舉的補償，請大家吃冰淇淋。	さっきの無礼のお詫びとして、これをどうぞ。	방금 무례했던 점에 대한 보상이에요. 여러분을 위해 아이스크림을 준비했어요.	Here, take this ice cream as an apology for my rudeness just now.						0	1.3重置
+b-3											0	1.3重置
+29	好大的冰淇淋！	好大的冰淇淋!	大きなアイスだな！	엄청나게 큰 아이스크림인데!	This ice cream is huge!						0	1.3重置
+30	我们的分量也不小呢。	我們的量也不小呢。	こちらもです。	우리 것도 작지 않은걸.	Mine is pretty big too.						0	1.3重置
+31	那我们就不客气啦~	那我們就不客氣啦~	じゃあ遠慮なく～	그럼 사양하지 않고 잘 먹을게~	Well, let's dig in~						0	1.3重置
+32	（可恶，明明昨天才下定决心要减肥……）	(可惡!明明昨天才下定決心要減肥……)	（あーあ、昨日ダイエットするって決めたばかりなのに……）	(젠장, 어제부터 다이어트하기로 했는데…)	(Darn it, I had just decided to go on a diet yesterday...)						0	1.3重置
+33	趁着大家正在吃冰淇淋的空隙，辰星将我拉到了一边。	趁著大家在吃冰淇淋的空檔，辰星將我拉到一旁。	みんながアイスを食べている間、辰星は私を引き寄せた。	모든 사람이 아이스크림을 먹고 있는 동안, 수성은 나를 옆으로 끌어당겼다.	As everyone was eating their ice cream, Chenxing pulled me aside.						0	1.3重置
+34	分析员，可以说说你的打算吗？	分析員，可以告訴我你的計劃嗎?	分析員、あなたのお考えを聞かせてもらえませんか？	분석가님, 혹시 계획을 여쭤봐도 될까요?	Adjutant, can you tell me what you guys are up to?						0	1.3重置
+35	我想，这应该不是偶遇吧？	我想，這應該不是偶遇吧?	これは偶然の出会い……ではないんですよね？	제 생각에 이건 우연한 만남이 아닌 것 같아서요.	I don't think you just happened to run into me, right?						0	1.3重置
+b-4											0	1.3重置
+36	是这样的……	事情是這樣的……	ああ……	그게 사실은…	Well, here's the thing...						0	1.3重置
+37	这么说，你们是想用这辆车上的设备做出海盐西瓜冰？	這麼說，你們是想用這輛車上的設備做出海鹽西瓜冰?	つまり、このキッチンカーの設備を使って塩スイカかき氷を作りたいのですね？	그러니까, 이 차의 장비를 이용해서 시솔트 수박바를 만들고 싶다고요?	So you're saying you want to use the equipment in this cart to make sea-salt watermelon ice?						0	1.3重置
+b-5											0	1.3重置
+38	嗯，这是我们最后一项挑战了。	嗯，這是我們最後一項挑戰了。	うん、それが私たちの最後の挑戦だから。	응, 이게 우리의 마지막 챌린지거든.	Yeah, that's our last challenge.						0	1.3重置
+39	原来如此，那么……就让我也来助分析员一臂之力吧。	原來如此，那麼……就讓我也來助分析員一臂之力吧。	なるほど。それでは……私も分析員をお手伝いさせてください。	그렇군요, 그럼… 저도 분석가님을 도와드릴게요.	I see... In that case, let me help.						0	1.3重置
+41	虽然很果断，但辰星回答中，似乎还是有些犹豫，我很快便察觉到了这一点。	雖然很果斷，但辰星的回答中，似乎還是有些猶豫，我很快便察覺到了這一點。	辰星はきっぱり答えたものの、声の奥にわずかな迷いがあった。それを私はすぐに感じ取った。	수성의 대답은 단호하면서도 약간의 망설임이 있었고, 나는 그걸 금방 알아차렸다.	Her tone was firm, but I still caught a trace of hesitation in her voice.						0	1.3重置
+41_0	其实，你心底也想要赢下代理岛主的位置，对吗？	其實，你心底也想要贏下代理島主的位置，對嗎？	辰星、本当は名誉島主の座も狙っているんだろう？	사실은 수성도 마음속으로는 대리 섬 주인이 되고 싶은 거죠?	Be honest, Chenxing — deep down, you want the honorary title too, don't you?						0	1.3重置
+41_1	哎？没有，我只是……嗯，确实有稍微想过……	哎？沒有，我只是……嗯，確實有稍微想過……	えっ？い、いいえ……その……少しだけ考えたことはありますが……	네? 아뇨, 저는 그저… 음, 사실 그런 생각도 해보긴 했어요…	Huh? No, I just... well, maybe a little...						0	1.3重置
+41_2	随着脸上绯红色渐浓，辰星的声音也越来越小。	隨著臉上紅暈越來越深，辰星的聲音也越來越小。	辰星の顔がだんだん赤くなり、声がますます小さくなった。	얼굴이 붉어지면서 수성의 목소리는 작아져만 갔다.	As the redness on her face grew more pronounced, Chenxing's voice got quieter and quieter.						0	1.3重置
+41_3	因为这里真的很有趣……不光光可以潜水……还有我从未见过的……啊，当然！如果是能帮上分析员的话，这些都已经无所谓了。	因為這裡真的很有趣……不光光可以潛水……還有我從未見過的……啊，當然！如果是能幫上分析員的話，這些都已經無所謂了。	その、この島が本当に魅力的で……ダイビングという体験の素晴らしさに感動して……ただ分析員の為なら私は……	여긴 정말 재미있거든요… 잠수도 해 볼 수 있고… 처음 보는 것들도 있고요… 아, 물론! 분석가님을 도울 수 있다면 이런 건 다 상관없어요.	It's just... this place is incredible. There's diving, and so many things I've never seen before... But if it's to help you, Adjutant — then none of that really matters.						0	1.3重置
+41_4	毕竟之后，之后应该还会有机会的吧。	畢竟之後，之後應該還會有機會的吧。	機会はまた巡ってきますから。	어차피 나중에, 나중에 또 기회가 있을 테니까요.	Besides... I'll get another chance someday. Right?						0	1.3重置
+41_5	女孩歪头，眼中闪烁着期待的光芒，嘴角扬起羞涩却明媚的笑容。	女孩歪頭，眼中閃爍著期待的光芒，嘴角揚起羞澀卻明媚的笑容。	少女は首を傾げ、瞳に期待の光を宿しながら、はにかんだ笑みを浮かべる。	소녀가 고개를 갸우뚱했고, 기대에 찬 눈빛으로 수줍고도 찬란한 미소를 지었다.	She tilted her head slightly, hope shimmering in her eyes, a shy, radiant smile tugging at her lips.						0	1.3重置
+41_6	那是当然。	那是自然。	もちろんだ。	물론이죠.	Absolutely.						0	1.3重置
+41_7	我郑重地承诺道。	我鄭重地承諾道。	はっきりと請け負う。	나는 진지하게 약속했다.	I made a promise from the heart.						0	1.3重置
+42	仔细一想，辰星也许潜意识里还真是一个喜欢玩乐的女孩，只是小时候的环境让她习惯性压抑了自己的需求。	仔細想想，也許在辰星的潛意識中她還是一個喜歡玩樂的小女孩，只是家族環境讓她習慣壓抑自己的所想。	よく考えてみると、辰星は潜在意識は遊び盛りの少女で、子供の頃の環境が彼女の欲求を無意識に抑えつけているだけなのかもしれない。	잘 생각해 보면 수성도 사실은 내면으로 마냥 놀고 싶어 하는 여자아이일 것이다. 그저 자라온 환경 때문에 자신의 욕구를 억누르려는 것일 뿐이다.	As I thought about it more, I realized that, deep down, Chenxing actually liked to have fun. However, her upbringing forced her to constantly suppress her own needs.						0	1.3重置
+42_1	但未来一定会有一天，她终将会放下这些，一定能毫无负担地，展露最真实的笑容。	但未來一定會有一天，她終將會放下這些，一定能毫無負擔地，展露最真實的笑容。	いつかきっと、その蓋を外し、ありのままの笑顔を見せてくれる――そう信じている。	하지만 언젠가는 이 모든 것을 내려놓고, 부담 없이 가장 진실한 미소를 지을 수 있을 것이다.	But I knew that one day, she'd be honest with herself — and show the world a smile that was fully, unapologetically her own.						0	1.3重置
+45	抱歉……	抱歉……	すみません……	죄송해요…	Sorry...						0	1.3重置
+b-8											0	1.3重置
+47	为什么又要道歉呢？	為什麼又要道歉呢？	どうしてまた謝るんだ？	왜 또 사과하는 거죠?	Huh? What are you apologizing for this time?						0	1.3重置
+48	我不该有所犹豫的，明明那个时候就下定决心，今后要遵从自己的意愿成为你的左膀右臂的。	我不該有所猶豫的，明明那個時候就下定決心，今後要遵從自己的意願成為你的左膀右臂的。	迷うべきではなかったのに。あの時決めたはずです、これからは己の意思で分析員の右腕になるって。	주저하지 말아야 했어요. 그때 이미 결심했으니까요. 앞으로는 제가 원하는 대로, 당신의 오른팔이 되기로요.	I shouldn't have hesitated. I promised myself I'd follow my heart... and be someone you could always count on.						0	1.3重置
+auto_48_2_1	所以分析员，这一次……这辆餐车和我本人，就交给你了。	所以分析員，這一次……這輛餐車和我本人，就交給你了。	分析員、今回は……このキッチンカーも私もあなたに捧げます……	그러니까, 분석가님. 이번에는… 이 아이스크림 카트와 저 자신을 전부 드릴게요.	So, Adjutant... from now on, both this food cart and I are at your disposal.						0	1.3重置
+48_3	只是，现在还有一个问题……	只是，現在有一個問題……	ただ、まだ一つ問題が……	근데, 문제가 하나 있어요…	It's just that, there's a little problem...						0	1.3重置
+49	虽然制作西瓜冰的设备有了，但是还缺少关键的原料，西瓜。	雖然製作西瓜冰的設備齊了，但是還缺少關鍵原料:西瓜。	スイカのかき氷を作る設備はあるのですが、肝心のスイカが不足しています。	수박바를 만들 장비는 있는데, 정작 가장 중요한 수박이 없어요.	I have all the equipment to make watermelon shaved ice. But the key ingredient is still missing — watermelons.						0	1.3重置
+b-9											0	1.3重置
+50	啊这，难道说我们还要去找西瓜吗？	哎呀，難道說還要我們自己去找西瓜嗎?	そんな……スイカも調達しなければならないのか？	설마 그럼 우리가 수박도 구해와야 하는 거야?	Ah, so we still have to figure out where we can find watermelons?						0	1.3重置
+52	那倒不必，在卖冰淇淋的途中，我恰巧看到里芙和晴正在附近进行着俗称“打西瓜”的挑战。	倒也不用，我在賣冰淇淋的途中，正好看到里芙和晴在進行一種俗稱「打西瓜」的挑戰。	アイスクリームを売っている最中、リフと晴が「スイカ打ち」に挑戦しているのを偶然見かけました。	그럴 필요는 없어요. 아이스크림을 팔면서 리브와 하루가 '수박 깨기'라는 챌린지를 진행하고 있거든요.	Actually, I already know where. While I was selling ice cream, I happened to spot Lyfe and Haru completing a watermelon-smashing challenge.						0	1.3重置
+b-10											0	1.3重置
+53	可以从那里弄到西瓜吧。	可以從那裡獲得西瓜吧。	そこでスイカを入手できるってことだな？	그러면 거기에서 수박을 구할 수 있겠네.	We could get the watermelons from there.						0	1.3重置
+55	嗯，坐标已经发送到你们的终端上了。	嗯，座標已經發到你們的終端上了。	はい、座標は既にそちらの端末に送りました。	네, 좌표는 단말기로 보냈어요.	Yes. I just sent the coordinates over to your terminal.						0	1.3重置
+b-11											0	1.3重置
+57	真让人省心，辰星。	辰星，你真讓人感到放心。	心強いな、辰星。	수성이 있으니 정말 마음이 놓인다.	That's a huge relief, Chenxing.						0	1.3重置
+58	对了，还有件事想单独找分析员确认一下……刚刚人太多了…………	對了，還有一件事想單獨跟分析員確認一下……剛剛人太多了……	ところで、ちょっと分析員に確認したいことが……さっきは騒がしかったので…………	아, 분석가님한테 직접 확인하고 싶은 내용이 있었어요… 좀 전엔 사람이 너무 많아서…	Oh, there's one more thing I wanted to ask you about in private, Adjutant... There were too many people just now...						0	1.3重置
+b-17											0	1.3重置
+auto_58	嗯？	嗯？	ん？	음?	Hm?						0	1.3重置
+59	就是分析员……你觉得……	就是分析員……你覺得……	分析員……あなたも……	그게, 그러니까, 분석가님… 분석가님은…	Adjutant... do you think...						0	1.3重置
+59_1	这件衣服真的很可爱吗……	這件衣服真的很可愛嗎……	この服は可愛いと思いますか……	이 옷이 정말 귀여워 보이나요…?	My outfit is cute...?						0	1.3重置
+59_2	我想……听听你的看法……	我想……聽聽你的看法……	ご意見を……お聞きしたいのです……	전… 분석가님 생각을 듣고 싶어요…	I want... to hear what you think...						0	1.3重置
+59_3	很可爱哦，辰星。	很可愛哦，辰星。	可愛いよ、辰星。	귀여워요, 수성.	You look very cute, Chenxing.						0	1.3重置
+59_4	……	……	……	……	...						0	1.3重置
+59_5	嗯！太好了……	嗯！太好了……	よ、よかったです……！	네! 너무 기뻐요…	Okay! That's good!						0	1.3重置
+60	里芙，确认敌人数量以及方位。	里芙，確認敵人數量以及方位。	リフ、敵の数と方位を。	리브, 타깃의 숫자와 방향을 확인해.	Lyfe, confirm enemy numbers and location.						0	1.3重置
+61	三点钟方向四名，七点钟方向两名。	三點鐘方向四名，七點鐘方向兩名。	3時方向に4体、7時方向に2体。	3시 방향 4명, 7시 방향 2명.	Four targets at 3 o'clock, two targets at 7 o'clock.						0	1.3重置
+62	好，等倒数结束后向七点钟方向移动，我来解决正面的敌人，其余的就交给你了。	好，等倒數結束後往七點鐘方向移動，我來解決正面的敵人，其餘的就交給你了。	よし、カウントダウンが終わったら7時方向に移動してくれ。正面の敵は自分が、背後は頼んだぞ。	좋아, 내가 셋을 세면 7시 방향으로 이동하는 거야. 정면에 있는 적은 내가 해치울 테니 나머지를 부탁할게.	Roger. On my count, move to seven o'clock. I'll take the front — you cover the rear.						0	1.3重置
+63	没问题。	沒問題。	問題ない。	알겠습니다.	Sure.						0	1.3重置
+64	3……2……	3……2……	3……2……	3… 2…	3... 2...						0	1.3重置
+65	1！	1！	1！	1!	1!						0	1.3重置
+66	敌人清除完……等等！怎么还会有一只！！	敵人清除完……等等!怎麼還有漏網之魚!!	敵の全滅を確……待て！まだ1体残ってる！！	타깃 처리 완료… 잠깐! 타깃이 1명이 더 있었어!	Enemy targets cleared... Wait! Why is there still one more!?						0	1.3重置
+67	啧，被算计了。	嘖，被計算了。	チッ、やられた。	젠장, 간파당했어.	Tsk... They tricked us.						0	1.3重置
+68	没事，敌人只剩下一名，我已锁定。	沒關係，只剩一名敵人，我已鎖定目標。	大丈夫、残ってるのは1体だけ。もうロック済みだ。	괜찮아. 타깃은 한 기 뿐이야. 내가 주시하고 있어.	It's alright — there's only one. I'm already locked on.						0	1.3重置
+70	那么接下来，就……	那麼接下來就……	では、次は……	그렇다면, 지금…	In that case, fir—						0	1.3重置
+71	等一下——！！！！	等一下——！！！！	待ったーー！！！！	잠ㅡ깐ㅡ만!!!!	WAIT!!!						0	1.3重置
+72	就当里芙打算向着那最后的西瓜射出子弹时，芬妮骑着冰淇淋车载着另外两人赶到了。	正當里芙準備朝最後一顆西瓜射擊時，騎著冰淇淋車的芬妮載著另外兩人及時趕到。	リフが最後のスイカを撃とうとしたとき、ファニーがキッチンカーに乗って他の2人を連れて駆けつけた。	리브가 마지막 수박을 향해 방아쇠를 당기려던 순간, 페니가 아이스크림 차에 두 사람을 태우고 도착했다.	Just as Lyfe was about to pull the trigger and shoot the last watermelon, Fenny arrived driving the ice cream cart with two other people in tow.						0	1.3重置
+b-12											0	1.3重置
+73	你们刚刚是在……演情景剧？	你們剛剛是在……演情境劇?	さっきのは……小芝居？	방금… 둘이 콩트라도 한 거야?	Were you guys... playing pretend?						0	1.3重置
+74	这，这其实是……	這、這其實是……	あ、あれは……	그게, 사실은…	Uh, w—we were just...						0	1.3重置
+75	鲜红的西瓜汁顺着晴的发梢滴落，她支支吾吾的样子与平日干练的形象形成鲜明对比。	鮮紅的西瓜汁順著晴的髮梢滴落，她支支吾吾的樣子與平日幹練的形象形成鮮明對比。	真っ赤なスイカジュースが晴の髪先を伝い落ちる。しどろもどろの姿は、普段のきびきびした印象とまるで別人だ。	새빨간 수박 과즙이 하루의 머리카락을 타고 뚝뚝 떨어졌고, 그녀가 당황하는 모습은 평소의 능숙한 이미지와 확실히 비교되었다.	Bright red watermelon juice dripped from Haru's hair — she stammered awkwardly, a far cry from her usual crisp and composed self.						0	1.3重置
+76	是战斗预演。即利用当下环境对未来可能发生的事件进行战术模拟的行为。	是作戰預演。即利用當下環境對未來可能發生的事件進行戰術模擬的行為。	これは戦闘予演だ。つまり現状を利用し、未来に起こる可能性のある事件をシミュレーションする行為だな。	전투 시뮬레이션 중이었어. 현재 환경을 이용해 앞으로 일어날 수 있는 돌발 상황에 대해 전술 시뮬레이션을 진행하는 거지.	It was a combat rehearsal — a tactical sim using real-world conditions to prep for potential scenarios.						0	1.3重置
+77	嗯…那个……其实就是把打西瓜比赛想象成实战现场，在娱乐的同时稍微保持一下战斗直觉的感觉。	嗯…那個……其實就是把打西瓜比賽想象成實戰現場，在娛樂的同時稍微保持一下戰鬥直覺的感覺。	あ…その……スイカ割りを実戦に見立てて、遊びながらも戦闘勘を錆びさせないようにしてただけだ。	음… 그게… 사실 수박 깨기 시합을 실전 현장이라고 상상하면서, 시합을 즐기는 동시에 전투 감각을 좀 유지하려는 거야.	Well... we figured we'd turn the challenge into a mock battle. You know — keep things fun and our instincts sharp.						0	1.3重置
+78	哦？听上去好有趣的样子啊。	喔?聽起來很有趣的樣子啊。	へえ、面白そうですね。	음? 듣고 보니 재밌을 것 같은데?	Oh? That sounds like fun.						0	1.3重置
+79	什么嘛，不就是小孩子过家家~哈哈哈~~	什麼嘛，不過就是小孩子扮家家酒嘛~哈哈哈~	なーんだ、おままごとか～、あはは！	뭐야, 그냥 아이들 소꿉장난 아니야? 하하하~	Who are you trying to fool? You're just a couple of kids playing pretend~ Hahaha!						0	1.3重置
+80	……让你们见笑了。	……讓你們見笑了。	……笑わせてしまった。	… 창피하게 됐네.	...Glad we could be your entertainment.						0	1.3重置
+81	看着晴难得一见的窘态和里芙认真的模样，我不禁嘴角上扬，没想到平日里最严肃的两位，也会有这样孩子气的一面。	看著晴難得一見的窘態和里芙認真的模樣，我不禁嘴角上揚，沒想到平日裡最嚴肅的兩位，也會有這樣孩子氣的一面。	晴の珍しい照れ顔と、真剣なリフの様子に、思わず口元が緩む。	평소에는 보기 드문 하루의 당황한 모습과 리브의 진지한 표정을 보니, 나는 절로 미소가 지어졌다. 평소에 가장 진지한 두 사람도 이렇게 아이 같은 모습을 보일 수 있구나.	Watching Haru uncharacteristically flustered and Lyfe still dead serious, I couldn't help but smile. Who knew the two most stoic operatives had such a playful side?						0	1.3重置
+82	……这个话题稍后再议。	……這個話題稍後再議。	……その件は後だ。	… 그 얘기는 나중에 하자.	...For now, let's leave this matter be.						0	1.3重置
+82_1	虽然言语依旧淡定，但转向我时，里芙还是不自觉地整理了下被打湿的头发。	雖然言語依舊淡定，但轉向我時，里芙還是不自覺地整理了下被打濕的頭髮。	平静を装いながらも、濡れた髪をそっと整える仕草に照れが滲む。	리브는 차분하게 말했지만, 내 쪽으로 돌아서면서 무의식적으로 젖은 머리카락을 매만졌다.	Her voice stayed calm as ever, but as she turned to me, she tucked a damp strand behind her ear — almost unconsciously.						0	1.3重置
+83	分析员……是有什么事要找我们呢？	分析員……是有什麼事要找我們呢？	分析員、用件は？	분석가… 어쩐 일이야?	Adjutant. Did you need something from us?						0	1.3重置
+b-13											0	1.3重置
+84	啊，是这样的……	啊，是這樣的……	ああ、実は……	아, 무슨 일이냐면…	Yeah, about that...						0	1.3重置
+85	明白了，也就是说为了完成比赛，分析员你们需要这最后一颗西瓜。	明白了，也就是說為了完成比賽，分析員你們需要這最後一顆西瓜。	了解した。つまり、その最後のスイカが要るわけだな。	알겠어. 그러니까 시합을 완료하려면, 분석가 일행에게 이 마지막 수박이 꼭 필요하다는 거네.	I see. So to complete your challenge, you need this last watermelon.						0	1.3重置
+85_1	不过看样子，你们应该也需要它吧。	不過看樣子，你們應該也需要它吧。	でも君たちも要るようだな。	하지만 너희에게도 이게 필요해 보이는데.	But it looks like you two need it as well.						0	1.3重置
+85_2	嗯，不瞒分析员，我们最后的任务便是“摧毁岛上所有的西瓜”。	嗯，不瞞分析員，我們最後的任務便是“摧毀島上所有的西瓜”。	ああ、正直に言えば、私たちの最終任務は「島にある全スイカの破壊」だ。	응. 분석가, 솔직히 말해서 '섬의 모든 수박을 파괴하는 것'이 우리의 마지막 미션이거든.	Correct. To be honest... our final task is "destroy every watermelon on the island."						0	1.3重置
+85_3	看来大家的命运最后还是交织在一起了呢。	看來大家的命運最後還是交織在一起了呢。	結局、皆の運命は交差するようですね。	결국 우리 모두의 운명이 얽혀버렸네.	Guess it was fate that we'd cross paths in the end~						0	1.3重置
+85_4	那就堂堂正正比试一场，用实力决定西瓜归谁吧~	那就堂堂正正比試一場，用實力決定西瓜歸誰吧~	なら正々堂々勝負よ！実力でスイカの持ち主を決めましょ〜♪	그럼 정정당당하게 겨뤄서, 실력으로 수박의 주인을 정하자고~	Then let's settle this fair and square — winner gets the watermelon!						0	1.3重置
+85_5	……	……	……	……	...						0	1.3重置
+85_6	喂，星期三，你今天怎么怪怪的？	喂，星期三，你今天怎麼怪怪的？	ねえ、ウェンズデー、今日は様子がおかしくない？	이봐, 웬스데이, 너 오늘 좀 이상한데?	Hey, Wednesday — what's with you? You're acting kinda off today.						0	1.3重置
+85_7	小里芙和小晴……大概是不太想和我们，不，应该是分析员正面对抗吧。	小里芙和小晴……大概是不太想和我們，不，應該是分析員正面對抗吧。	リフと晴…たぶん分析員と真正面からやり合うのをためらっているんですね。	리브와 하루는… 우리랑, 아니, 분석가랑 정면으로 맞서고 싶지 않은 것 같아.	Lyfe and Haru... They probably don't want to go up against us — or more accurately, they don't want to go up against the Adjutant.						0	1.3重置
+85_8	嗯，毕竟对手可是分析员，要我向分析员出手的话，即便是演习也……	嗯，畢竟對手可是分析員，要我向分析員出手的話，即便是演習也……	ああ、相手が分析員となると、たとえ訓練でも手を出しにくい……	응, 아무래도 상대가 분석가니까. 분석가에게 손을 쓰라니, 아무리 연습이라고 해도…	Yes. If our opponent is the Adjutant, even if it's just a drill, I...						0	1.3重置
+85_9	哈哈哈哈，无需顾虑，我倒是希望大家不要保留实力，痛痛快快地比上一场。	哈哈哈哈，無需顧慮，我倒是希望大家不要保留實力，痛痛快快地比上一場。	ハハハ、遠慮はいらない。全力で来てくれた方が楽しいさ。	하하하하, 걱정 마요. 저는 오히려 모두가 실력 발휘해서 신나게 한판 붙었으면 좋겠는걸요.	Hahaha, no need to hold back. I'd rather you go all in. Make it a real fight.						0	1.3重置
+85_12	我，我明白！……那就如分析员所愿吧！	我，我明白！……那就如分析員所願吧！	わ、分かった！……では望み通りに！	아, 알겠어!… 그럼 분석가 말대로 할게!	U—Understood! Then... as you wish, Adjutant!						0	1.3重置
+85_14	嗯，我们已经很久没有这样切磋了吧？	嗯，我們已經很久沒有這樣切磋了吧？	久々に本気でやり合えるな？	그래요. 우리도 실력을 겨룬 지 꽤 오래됐잖아요?	It's been a while since we had a good spar, hasn't it?						0	1.3重置
+85_15	确实，能有机会和分析员切磋，我们应该感到高兴才是。	確實，能有機會和分析員切磋，我們應該感到高興才是。	ああ。分析員と手合わせできる機会を喜ぶべきだろう。	그건 그래. 분석가와 실력을 겨룰 기회라니, 오히려 기뻐해야겠는걸.	Indeed. The chance to spar with you again is something we should be grateful for.						0	1.3重置
+85_16	终于，在我的劝说下，里芙与晴露出了笑容，摆出了战斗架势。	終於，在我的勸說下，里芙與晴露出了笑容，擺出了戰鬥架勢。	説得の末、リフと晴の顔に笑みが戻り、構えを取る。	나의 설득 끝에, 리브와 하루는 마침내 미소를 지으며 전투 자세를 취했다.	Finally, Lyfe and Haru cracked smiles and readied their stances.						0	1.3重置
+85_17	看着她们眼中重燃的战意，我的心跳也不由加快。	看著她們眼中重燃的戰意，我的心跳也不由加快。	再び燃え上がる闘志を前に、私の鼓動も高鳴る。	다시 투지가 타오르는 그녀들의 눈빛을 보며 내 심장도 저절로 들끓었다.	Seeing that spark reignite in their eyes, my pulse quickened in response.						0	1.3重置
+85_18	好！为了孤儿院的孩子们，大家就请全力以赴吧！	好！為了孤兒院的孩子們，大家就請全力以赴吧！	よし！孤児院の子どもたちのためだ、全力で来い！	좋았어! 보육원 아이들을 위해서, 모두 힘을 내 보자고!	Alright — for the kids at the orphanage, let's give it everything we've got!						0	1.3重置
+85_19	我转头向着恩雅和芬妮说道，然而得到的答复却是——	我轉頭向著恩雅和芬妮說道，然而得到的答復卻是——	エンヤとファニーにも目を向けたが、返ってきたのは――	나는 고개를 돌려 엔야와 페니를 향해 말했지만, 돌아온 대답은…	I turned to Enya and Fenny — only to be met with an unexpected chorus...						0	1.3重置
+85_20	好！	好！	了解！	좋아!	Let's do this!						0	1.3重置
+85_21	哎？	欸？	え？	음?	Huh?						0	1.3重置
+85_22	什么情况啊？等等！刚才里芙和晴也说"好"了吧？！	什麼情況啊？等等！剛才里芙和晴也說“好”了吧？！	どういうこと！？今リフと晴も「了解」って言ったわよね？！	이게 무슨 상황이야? 잠깐! 방금 리브랑 하루도 '좋아'라고 대답했지?!	Wait, what just happened!? Did Lyfe and Haru actually say it with us!?						0	1.3重置
+85_23	因为…分析员说了"为了孤儿院的孩子们"。	因為…分析員說了“為了孤兒院的孩子們”。	だって…分析員が「孤児院の子どもたちのため」って…	그야… 분석가가 '보육원 아이들을 위해서'라고 했으니까.	Well... the Adjutant said it was for the kids at the orphanage.						0	1.3重置
+85_24	啊~	啊~	あら〜	아~	Ahh~						0	1.3重置
+85_25	恩雅姐率先反应了过来——	恩雅姐率先反應了過來——	エンヤ姉がいち早く状況を察した――	엔야 누님이 제일 먼저 눈치챘다.	Enya was the first to catch on.						0	1.3重置
+85_26	这么说里芙你们参赛的目的也是……	這麼說里芙你們參賽的目的也是……	つまりリフ、君たちの目的も……	그렇다면 리브와 하루가 시합에 참여하는 목적도…	So that's what brought you both to the Games...						0	1.3重置
+85_27	所以里芙，可以告诉我你参赛的理由吗？	所以里芙，可以告訴我你參賽的理由嗎？	リフ、参戦理由を話しても？	그래서 리브, 네가 시합에 참여하는 이유를 말해주겠어?	Lyfe, can I ask... why did you sign up?						0	1.3重置
+85_28	你听说了吗？最近一批拾荒者的孩子脱离了郊狼，孤儿院正在为安置她们寻找新场地。	你聽說了嗎？最近一批拾荒者的孩子脫離了郊狼，孤兒院正在為安置她們尋找新場地。	最近、スカベンジャーの子どもたちがコヨーテを逃れて…孤児院は新たな居場所を探しているそうだ。	하루도 들었는지 모르겠지만, 최근에 피난민 아이들이 코요테에게서 벗어났는데, 보육원에서 그 아이들을 수용할 새로운 장소를 찾고 있대.	Did you hear? Some scavenger kids recently escaped the Coyotes. The orphanage is trying to find a new place for them.						0	1.3重置
+85_29	嗯，我知道，不过是今天刚刚到这里后才听说的，里芙是怎么……	嗯，我知道，不過是今天剛剛到這裡後才聽說的，里芙是怎麼……	ああ、ここに来てから聞いた。どうしてリフが……？	응, 알고 있어. 오늘 여기 오고 나서야 알게 됐지만 말이지. 리브는 어떻게…	Yeah, I just heard about that today. But how did you...?						0	1.3重置
+85_30	只是……因为这批孩子，是我和分析员执行任务的时候救出来的。然后，又想起了一些过去的事……	只是……因為這批孩子，是我和分析員執行任務的時候救出來的。然後，又想起了一些過去的事……	その子たちは、私と分析員が救出した。…そして昔を思い出した。	그냥… 내가 분석가랑 미션 수행 중에 구출했던 아이들이거든. 그러다 보니 과거의 일이 떠올라서…	Because... those are the kids the Adjutant and I rescued on a mission. It brought back a lot of memories...						0	1.3重置
+85_31	过去，我也经历过类似的事。虽然活下来了，内心却变得一片空白，只留下无尽的仇恨。	過去，我也經歷過類似的事。雖然活下來了，內心卻變得一片空白，只留下無盡的仇恨。	かつて同じ目に遭った。生き延びたが、胸に残ったのは空虚と憎しみだけだった。	나도 과거에 비슷한 일을 겪었어. 살아남긴 했지만 마음은 텅 비어버렸고, 끝없는 증오만 남았지.	I went through something like that myself. I survived... but was left empty inside, with only hatred to hold onto.						0	1.3重置
+85_32	但是还好……有分析员在。他不仅从废墟中救出我，还给了我继续前进的勇气。	但是還好……有分析員在。他不僅從廢墟中救出我，還給了我繼續前進的勇氣。	だが——分析員がいた。瓦礫の中から私を救い、進む勇気をくれた。	하지만 다행히… 분석가가 있었어. 나를 폐허에서 구해줬을 뿐만 아니라, 앞으로 나아갈 용기도 주었지.	But I was lucky. The Adjutant pulled me out of the rubble... and gave me the strength to keep going.						0	1.3重置
+85_33	他一直都是这样，总是在拼尽全力地帮助周围的人呢。	他一直都是這樣，總是在拼尽全力地幫助周圍的人呢。	分析員はいつも、全力で周りを助けるからな。	분석가는 늘 그랬어. 항상 온 힘을 다해 주변 사람들을 도와주곤 했지.	That's him — always doing whatever he can to help the people around him.						0	1.3重置
+85_34	嗯，所以我想……即便我做不到像他那样的程度，但至少，说不定可以替他分担些。	嗯，所以我想……即便我做不到像他那樣的程度，但至少，說不定可以替他分擔些。	だから…私に同じことは無理でも、少しは肩代わりしたい。	응, 그래서 생각했지… 분석가만큼 할 수는 없더라도, 적어도 그의 짐을 조금이나마 나눌 수 있지는 않을까.	Exactly. I know I can't do everything he does... but maybe I can carry a part of that burden.						0	1.3重置
+85_35	我完全理解这种心情呢。	我完全理解這種心情呢。	その気持ち、よく分かる。	그 마음, 충분히 이해해.	I completely understand how you feel.						0	1.3重置
+85_36	原来，里芙是为了这个才参赛的……	原來，里芙是為了這個才參賽的……	リフがそのために参戦したわけか……	리브가 그래서 시합에 참여하려는 거였구나…	So that's why you signed up, Lyfe...						0	1.3重置
+85_37	嗯，所以两位觉得怎么样？	嗯，所以兩位覺得怎麼樣？	そうだ。どうだ？	응. 두 사람은 어떻게 생각해?	Yes. So... what do you say?						0	1.3重置
+85_38	……	……	……	……	...						0	1.3重置
+85_39	如果是这样的话，那看来大家不用争了嘛~	如果是這樣的話，那看來大家不用爭了嘛~	それなら争う必要はないですね〜	그렇다면 더 이상 싸울 필요가 없겠네~	Well, if that's the case... then I guess there's no need to fight over it, is there~?						0	1.3重置
+87	……既然大家都是海姆达尔的成员，那互相帮助应该是理所应当的吧。	……既然大家都是海姆達爾的成員，互相幫助也是理所當然的吧。	……ヘイムダルの仲間として、助け合うのは当たり前のことだろう。	… 모두 헤임달의 팀원들이니 서로 도와야겠지.	We're all a part of the Heimdall Force, so naturally, we should help each other out...						0	1.3重置
+89	平常我肯定会这样说，但是不要忘了，现在我们可是在比赛中哦。	換做平常我肯定會這樣說，但是不要忘了，現在我們可是在比賽中哦。	……普段ならそう言うところだが、今は試合中であることを忘れない方がいい。	평소라면 그렇게 말했겠지만, 다들 잊지 마. 지금 우린 시합 중이라고.	That's what I'd normally say. But let's not forget — this is a competition.						0	1.3重置
+90	将胜利的果实拱手让人，这样的行为岂不是毫无荣誉感可言？	將勝利的果實拱手讓人，這種行為豈不是毫無榮譽感可言？	目の前の勝利を譲るなど言語道断、そんなの恥じるべき行為だろう。	승리의 결실을 그냥 양보하는 행동은 명예를 포기하는 거나 다름없잖아?	Handing over victory without a fight? That wouldn't be very honorable, would it?						0	1.3重置
+96	真拿分析员没办法……那姐姐就陪大家再多胡闹一会儿吧。	真拿分析員沒辦法……那姐姐就陪大家再多胡鬧一會吧。	もう…分析員には敵いませんね。ではお姉さんも、もう少し付き合います。	분석가도 참… 그럼 이 언니가 좀 더 같이 놀아줘야겠네?	Adjutant... you sure don't make things easy. Alright then, Big Sis will stick around and play a little longer~						0	1.3重置
+97	正好我早就想活动一下筋骨了，一路上的敌人完全都不够看，即便获胜了也毫无实感。	正好我早就想活動一下筋骨了，一路上的敵人完全都不夠看，即便獲勝了也毫無實感。	ちょうど身体を動かしたかったんだよ。途中の敵なんて歯ごたえゼロだったし、勝っても実感がないもの！	나도 마침 몸 좀 풀어보고 싶었어. 지금까지 만난 적들은 전혀 상대가 안 됐다고. 이겨도 별다른 감흥이 없었고.	Finally! I've been dying for a real workout. All those pushovers on the way here — even winning felt lame.						0	1.3重置
+98	呵呵呵，看来终究免不了一战吗？	呵呵呵，看來终究免不了一战吗？	ふふ…やはり一戦は避けられないか。	흐흐, 결국 한판 붙어야겠네?	Heh... So we really can't avoid a showdown, can we?						0	1.3重置
+98_0	好，那就如分析员所愿————	好，那就如分析員所願————	いいだろう、分析員の望み通り――	좋아, 그럼 분석가의 뜻대로…	Very well — as you wish, Adjutant...						0	1.3重置
+98_1	由我来助分析员一臂之力吧。	由我來助分析員一臂之力吧。	それでは私が分析員をお手伝いします。	제가 분석가님을 도와드리죠.	Then let me lend a hand, Adjutant.						0	1.3重置
+b-20											0	1.3重置
+98_2	辰星？什么时候来的？	辰星？什麼時候來的？	辰星？いつの間に？	수성? 언제 왔어요?	Chenxing? When did you get here?						0	1.3重置
+98_3	因为我承诺过一定会鼎力相助，所以就跟着过来了。不过又因为脚力有限实在追不上电动车所以才来晚了……	因為我承諾過一定會鼎力相助，所以就跟著過來了。不過又因為腳力有限實在追不上電動車所以才來晚了……	全力支援を約束しましたから。ですが…電動カートに追いつけなくて遅くなりました……	제가 꼭 도와주겠다고 약속했잖아요. 그래서 따라왔죠. 그런데 전동차를 따라잡기엔 다리 힘이 부족해서 늦었어요…	I promised I'd help, so I followed you. But I couldn't keep up with the ice cream cart on foot... so I got here a bit late.						0	1.3重置
+98_4	正当我被辰星可爱的回答逗得哭笑不得时，远处却突然响起了奇怪声响——	正當我被辰星可愛的回答逗得哭笑不得時，遠處卻突然響起了奇怪聲響——	辰星の可愛い言い訳に苦笑しかけたその時、遠くで奇妙な音が――	수성의 귀여운 대답에 어처구니가 없을 때, 멀리서 갑자기 이상한 소리가 들려왔다.	I was amused by her adorable explanation — but then, a strange sound echoed in the distance...						0	1.3重置
+auto_b-13											0	1.3重置
+99	……啊，等等那边的声音是？	……啊等等，那邊的聲音是?	……待て、あれは何の音だ？	… 잠깐, 저기서 이상한 소리가 들려오는 것 같은데?	...Huh? Hold on, what's that sound coming from over that way?						0	1.3重置

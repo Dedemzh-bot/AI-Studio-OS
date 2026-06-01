@@ -1,0 +1,57 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	青鸟倏地飞起，化作仓尧的模样。	青鳥倏地飛起，化作倉堯的模樣。	青鳥が急に飛び上がり、倉尭のホログラムが映し出された。	청새가 갑자기 날아오르며 창요의 모습으로 변했다.	Qingniao flew up swiftly, transforming to show Cangyao's appearance.						0	
+2	发生什么事了，主管？	發生什麼事了，主管？	何があった、倉さん？	무슨 일이죠, 관리자님?	What's going on, Manager?						0	
+3	会场多处爆发骚乱，我已经派人去处理。	會場多處爆發騷亂，我已經派人去處理。	会場のあちこちで騒ぎがあったので、処理するために人を向かわせました。	축제 현장에 누군가 소란을 피워서 사람을 보냈어.	Riots have broken out in many locations around the venue. I've sent people to handle them.						0	
+4	是那群伪装者干的，还是又有机器人失控？	是那群偽裝者幹的，還是又有機器人失控？	あの偽者たちの仕業か、それともロボットが暴走したのか？	사칭범들 짓이야? 아니면 로봇이 또 제어를 잃은 건가?	Are those impostors behind this? Or are the security robots acting up again?						0	
+5	不，都是些来参加庆典的平民。	不，都是些來參加慶典的平民。	いいえ、全員お祭りに参加した民間人です。	아니. 그냥 축제에 참가하러 온 일반 시민들이야.	No, they were all civilians here for the celebration.						0	
+6	平民，为什么？	平民，為什麼？	民間人が、どうして？	일반 시민들이 대체 왜 그러는 건데?	Civilians? Then... why?						0	
+7	…………	…………	…………	……	...						0	
+8	（分析员方才在通讯中说，瑟瑞斯和他们失去了联系。）	（分析員方才在通訊中說，瑟瑞斯和他們失去了聯繫。）	（さっきの通信で、分析員がシーリスと連絡が取れなくなったと言っていた）	(분석가 측에서 방금 통신으로 세리스와 연락이 두절됐다고 했어)	(During our call, the Adjutant just said they'd lost contact with Siris.)						0	
+9	（就算是海姆达尔部队，也不能轻易对平民出手，若是遇上骚乱，那她……）	（就算是海姆達爾部隊，也不能輕易對平民出手，若是遇上騷亂，那她……）	（ヘイムダル部隊としても、民間人には迂闊に手を出せない。もし騒ぎが起きたら、彼女は……）	(아무리 헤임달 부대라고 할지라도 일반 시민들한테 손을 쓸 수는 없을 텐데… 게다가 소란까지 일어난 거라면 세리스는…)	(Even Heimdall Force can't easily subdue civilians. If there's a riot, then she...)						0	
+10	姬辰星小姐？	姬辰星小姐？	姫辰星様？	희수성 님? 괜찮으세요?	Miss Chenxing?						0	
+11	我没事，请继续。	我沒事，請繼續。	私は平気です、続けてください。	괜찮아요. 계속해서 말씀하세요.	I'm fine. Please, go on.						0	
+12	有人慌不择路，进入了运输路线，那里恐怕不再安全。	有人慌不擇路，進入了運輸路線，那裡恐怕不再安全。	慌てて運送ルートに入った人がいますが、あそこは安全ではありません。	누군가 정신없이 도망가다가 운송 루트까지 진입했다고 하더라고요. 그곳도 더 이상 안전하지는 않을 것 같아요.	Some of the civilians panicked and ran into the transport channel. I'm afraid it's no longer safe there.						0	
+13	这是你们该解决的问题。	這是你們該解決的問題。	それはあなたたちが解決すべき問題です。	이런 건 사실 타이구에서 해결해야 할 문제죠.	That's your own problem to worry about.						0	
+14	抱歉，看来赭毫他们没有告知清楚。	抱歉，看來赭毫他們沒有說明清楚。	申し訳ございません、赭毫たちがはっきりとお伝えしきれていなかったようで……	죄송합니다. 자호와 현개가 아직 설명을 안 했나 보네요.	I apologize. It seems Zhehao and them didn't make it clear enough.						0	
+15	我们还有另外一条轨道运输系统，可以按时将货送到目的地。	我們還有另外一條軌道運輸系統，可以準時將貨送達目的地。	別の運送パイプがありますので、荷物は時間通りにお届けできます。	저희 측에 선로 운송 시스템이 하나 더 있긴 한데, 해당 시스템을 이용하면 물건을 제때 목적지까지 배송할 수 있을 거예요.	We do have another rail transportation system, so the cargo will be able to make it on time.						0	
+16	不过轨道运输只能运货，姬辰星小姐需要另行前往。	不過軌道運輸只能運貨，姬辰星小姐需要另行前往。	ただし運送できるのは荷物のみでして、姫辰星様には別の手段で移動してもらう必要があります。	하지만 선로 운송 시스템의 경우, 화물만 옮길 수 있기 때문에 희수성 님은 다른 길로 가셔야 할 겁니다.	However, the rail is only able to transport cargo. Miss Chenxing, you will have to take another route.						0	
+17	只要能在燃灯仪式开始时到达燃灯台，确认东西送达收件人手上，你作为代理人的任务便也算完成了。	只要能在燃燈儀式開始時到達燃燈臺，確認東西送達收件人手上，你作爲代理人的任務便也算完成了。	点灯儀式が開始するまでに点灯台に到着し、荷物が受取人のところに届いたことを確認できれば、代理人としての任務も完了となります。	연등 의식이 시작되기 전에 물건이 수령인 손에만 들어갈 수 있다면, 희수성 님도 대리인으로서 미션을 완수한 거나 마찬가지고요.	As long as you reach the stage and confirm that the cargo has been delivered before the lighting ceremony begins, your mission will be considered complete.						0	
+18	当然，如何抉择，由你来定。	當然，如何抉擇，由你來定。	辰星様にご迷惑をおかけしていること、重々承知しております。ご判断は辰星様にお任せいたします。いかがでしょうか？	물론 어떤 선택을 할지는 희수성 님한테 달렸습니다.	Of course, the decision is up to you.						0	
+19_1	辰星没有犹豫太久便采纳了仓尧的提议，对于这中间会有什么隐患，她并没有思考太多。她清楚地知道比起完成任务，这一次私心占了上风。	辰星沒有猶豫太久便採納了倉堯的提議，對於這中間會有什麼隱患，她並沒有思考太多。她清楚地知道比起完成任務，這一次私心佔了上風。	辰星はためらうことなく倉尭の提案を採用した。どんな仕掛けや落とし穴があっても彼女はあまり深く考えなかった。任務を完成するより今回は個人的な感情が勝った。	수성은 별다른 망설임 없이 창요의 제의를 받아들였고, 도중에 있을 위험에 대해서는 크게 생각하지 않았다. 미션을 완수하는 것보다는 개인적인 감정이 앞섰기 때문이다.	Without much hesitation, Chenxing decided to do as Cangyao suggested. She didn't think much about the danger it might put her in. The most important thing was completing the mission.						0	
+20	她坚定地转身，迈出了脚步。	她堅定地轉身，邁出了腳步。	彼女は決心して振り向き、歩き出した。	그녀는 곧장 몸을 돌려 앞으로 나아갔다.	She turned with resolute determination and took a step.						0	
+21	起码在这一点有限的时间里，她可以依照自己的心意行动。	起碼在這一點有限的時間裡，她可以依照自己的心意行動。	少なくともこの限られた時間、彼女は自分の好きなように行動できる。	비록 시간에 제약이 있었지만, 해당 시간에 적어도 본인의 의지대로 움직일 수는 있었다.	At the very least, she would make her own decisions when things were down to the wire.						0	
+22	赭毫，玄铠。你们也跟上去吧，不要怠慢我们的代理人小姐。	赭毫，玄鎧。你們也跟上去吧，不要怠慢我們的代理人小姐。	赭毫、玄鎧。あなたたちも同行なさい。代理人の安全を守るように。	자호, 현개, 너희들도 따라가도록 해. 대리인 아가씨를 잘 모시도록.	Zhehao, Xuankai, you'd better go with her. Watch over our agent.						0	
+23	顺便，把麻烦解决掉。	順便，把麻煩解決掉。	面倒事の解決、期待していますよ。	가다가 골칫거리가 있으면 같이 좀 해결해주고.	Take care of any trouble you run into along the way.						0	
+24	你这算盘打得可真响啊。	你這算盤打得可真響啊。	なかなか計算高いんだな。	너무 속 보이는 거 아니에요?	You really thought of everything.						0	
+25	是代理人自己选择改变执行方案，之后若出了问题，泰古通达无需负责。	是代理人自己選擇改變執行方案，之後若出了問題，泰古通達無需負責。	あくまでも、元の計画ルートから変更することを選択したのは代理人です。何か問題が発生したとしても、タグが全責任を追う必要はないでしょう。	대리인이 직접 선택한 일이야. 추후에 무슨 일이 생기더라도 타이구의 책임은 없어.	It's up to the agent to change the mission procedure. Taigu-Connect won't be responsible if something goes wrong as a result.						0	
+26	你怎么知道她会听取你的建议？	你怎麼知道她會聽取你的建議？	……どうして彼女があんたの意見を聞くと思うんだ？	제안을 받아들일 거라곤 어떻게 확신하신 거죠?	How did you know she would take your advice?						0	
+27	作为分部主管，要看清客户的真正诉求。你要想成为我的副手，要学的还有很多。	作爲分部主管，要看清客戶的真正訴求。你要想成爲我的副手，要學的還有很多。	支社の責任者として、客が本当に求めているものを見極めなければなりません。私の補佐になりたいのなら、学ぶことがまだまだ多くあるということでしょう。	지부 관리자면 고객이 진정으로 원하는 게 무엇인지도 잘 알아야 하지. 내 부사수가 되고 싶으면, 배워야 할 게 아직도 많을 거야.	As a branch manager, I have to understand our clients' true needs. You still have a lot to learn if you want to become an assistant manager.						0	
+28	那你是不是早就料到会发生这些？	那你是不是早就料到會發生這些？	じゃあ、こうなることをとっくに想定していたのか？	그럼 이런 일이 일어날 걸 미리 예상했었던 건가요?	So... you knew this was going to happen?						0	
+29	哎呀呀……不可说，不可说。	哎呀呀……不可說，不可說。	まあ……どうでしょう。	흠흠… 이런, 이런… 그런 얘기는 함부로 하면 안 돼.	Whoops... No comment.						0	
+30	哼，老夫就是看不惯你们这些弯弯绕绕。再不跟上，人就要走没影了！	哼，老夫就是看不慣你們這些彎彎繞繞。再不跟上，人就要走沒影了！	ふん、わしはお前らの紛らわしいところが気にくわんのじゃ。ついて行かないと、あいつがいなくなってしまうぞ！	흥, 어디 시원하게 말해주면 덧나나. 아무튼 더 지체하다간 놓치겠어!	Hmph, your elder's head is spinning. You're on a whole 'nother level!						0	
+31	呼呼……可算是追上你了！	呼呼……可算是追上你了！	ふぅ……ふぅ……やっと追いついた。	후우… 드디어 따라잡았네요!	Heh... I think I can keep up!						0	
+32	既然货物无需护送，那就不劳烦二位了。	既然貨物無需護送，那就不勞煩二位了。	荷物を護送する必要がなければ、お二人の手を煩わせることはありません。	호송할 물건도 없는데, 이제 번거롭게 따라오지 않으셔도 됩니다.	Since the cargo doesn't need to be escorted anymore, you two are free to go.						0	
+33	现在会场内乱成一团，有我们跟着能帮你省掉很多麻烦。	現在會場內亂成一團，有我們跟着能幫你省掉很多麻煩。	会場が混乱している今、私たちが同行すれば、あなたの手間を省くことができる。	지금은 현장이 엉망이라 저희가 따라다니면 귀찮은 일은 덜 수 있을 거예요.	The venue is in chaos right now. We'll tag along and save you some trouble.						0	
+34	还有这个，喏，没了这只“青鸟”，就无法使用仓尧的授权，那些“捷径”也就走不了啦。	還有這個，看，沒了這隻“青鳥”，就無法使用倉堯的授權，那些“捷徑”也就走不了啦。	それにほら、この「青鳥」がないと、倉尭の権限が使えないし、「近道」も使えなくなるよ。	그리고 여기 있는 이거, '청새'가 없으면 창요의 권한을 이용할 수 없어서 '지름길'로 갈 수 없을 거고요.	And... well, without Qingniao, you won't be able to use Cangyao's authorization to take any "shortcuts."						0	
+35	距离燃灯仪式还有一段时间，丫头，你现在有什么打算？	距離燃燈儀式還有一段時間，丫頭，你現在有什麼打算？	点灯儀式ももうじき始まる。どうするつもりじゃ？	연등 의식까지 아직 시간이 남았는데, 아가씨, 이제 어떻게 할 생각이지?	There's still some time before the lighting ceremony, lass. What's your plan?						0	
+36	我打算深入会场，往燃灯台方向行进。	我打算深入會場，往燃燈臺方向行進。	会場の奥へ進み、点灯台へと向かうつもりです。	현장에 침투해서 연등대가 있는 곳으로 나아갈 거예요.	I plan to go deep into the venue and make my way toward the lighting stage.						0	
+37	我有一位朋友，暂时失去联系，我猜她应该也在往那边走，我想确认一下她的安危。	我有一位朋友，暫時失去聯繫，我猜她應該也在往那邊走，我想確認一下她的安危。	一時的に連絡が取れなくなった友人がいて、彼女もそちらに向かっているはずなので、無事を確認したいです。	친구가 있는데 연락이 두절됐거든요. 아마 친구도 그쪽으로 향할 것 같아서, 친구의 안위를 한번 확인해 봐야겠어요.	We've temporarily lost contact with one of my friends, and I'm guessing she's heading there too. I want to make sure she's safe.						0	
+38	辰星的视线仿佛穿透了层层楼宇的遮蔽，看向燃灯台。	辰星看向燃燈臺，她的視線彷彿穿透了層層樓宇的遮蔽。	辰星の視線はまるで幾重にも連なったビルを突き抜けるかのように、点灯台に向いた。	수성의 시선은 마치 시야를 막고 있는 모든 건물을 투사한 후의 연등대를 바라보고 있는 것 같았다.	Chenxing's gaze seemed to penetrate the thick walls and reach the lighting stage.						0	
+39	朋友啊……	朋友啊……	友人か……	친구라…	Your friend...						0	
+40	分析员给的这个巡逻路线图我怎么看不懂，刚刚不是来过吗。哎，人好多，挤得我都看不清路了。	分析員給的這個巡邏路線圖我怎麼看不懂，剛剛不是來過嗎。哎，人好多，擠得我都看不清路了。	分析員がくれたパトロール経路図、よく分からないんだよね。さっきもここ通らなかったっけ？もう、混んでて道もよく見えないし。	분석가가 준 순찰 루트를 전혀 못 알아보겠어. 여긴 방금 지나왔던 길인데? 후우… 사람이 많아서 길을 파악할 수가 없어.	I can't make heads or tails of the patrol map the Adjutant gave me. Wasn't I just here? Ugh, there are so many people. I can't see where I'm going.						0	
+41	上次人这么多还是上次——	人實在是太多了——	こんなに人がいたのは、あの時以来――	이곳에 사람이 많은 건 늘 한결같네…	The last time I saw this many people was when—						0	
+42	现在比赛已经到了焦灼的阶段！芬妮选手主动发起了进——	現在比賽進入到白熱化階段！芬妮選手主動發起了進——	白熱したこの試合！ファニー選手が攻めて――	시합이 하이라이트에 달했습니다! 페니 선수가 먼저 공격을 시작했습니다…	The competition is reaching its climax! Contestant Fenny is taking the initiative to—						0	
+43	（比赛？什么比赛……我怎么在这里。）	（比賽？什麼比賽……我怎麼在這裡。）	（試合？何の試合だろう……どうして私はここに？）	(시합? 무슨 시합이지… 내가 왜 여기 있는 거지?)	(Competition? What competition...? What am I doing here?)						0	
+44	（好像，在等谁。为什么我会这么想？）	（好像，在等誰。為什麼我會這麼想？）	（誰かを、待っているような気がする。いや、どうしてそう思う？）	(누군가를 기다리고 있었던 거 같은데. 갑자기 왜 이런 생각이 떠오르는 거지?)	(Why do I get the feeling I'm waiting for someone?)						0	
+45	芬妮选手被里芙选手击中了腹部！哎，时机不佳。等等，她又站了起来！芬妮选手，又……	芬妮選手被里芙選手擊中了腹部！哎，時機不佳。等等！她又站了起來！芬妮選手又……	リフ選手！ファニー選手の腹部に大きな一撃！おっと、タイミングが悪かったようですね。いやしかし、彼女は再び立ち上がった！ファニー選手が再び……	페니 선수가 리브 선수에게 복부 공격을 허용했습니다! 타이밍이 좋지않아 보입니다. 잠깐… 그녀가 또 일어서는군요! 페니 선수가 또…	Fenny is hit in the stomach by Lyfe! Ah, it was just bad timing. Wait a minute... She's standing up again! Contestant Fenny is...						0	
+46	（看不清他们的脸。我在等谁呢？感觉，有点空荡荡的。）	（看不清他們的臉。我在等誰呢？感覺，有點空蕩蕩的。）	（あの人たちの顔がよく見えない、私は誰を待っている？なんだか、ちょっと虚しい感じがする）	(얼굴들이 전혀 보이질 않아. 근데 누굴 기다리고 있는 거지? 왜 이렇게 허전한 느낌이 드는 거지?)	(I can't make out their faces. Who am I waiting for? I feel... a little empty.)						0	
+47	我去看了比赛，然后就……哎，想不起来。	我去看了比賽，然後就……哎，想不起來。	私は試合を見て、それで……はぁ、思い出せない。	시합을 보러 갔다가 그만… 후우, 더 이상 생각이 안 나.	I went to the competition, then... *sigh* I can't remember.						0	
+48	是什么时候的事呢，呃，脑袋好懵。	是什麼時候的事呢，呃，腦袋好混亂。	いつのことだろう……う、頭が……	언제 적 일이지… 윽… 머리가 깨질 것 같아.	When did it happen? Ugh, I'm so confused.						0	
+49	……诶？！路怎么又不一样了！	……欸？！怎麼又是不同的路！	……え！？また違う道に！	…?! 길이 왜 또 달라진 거야!	...Huh!? Why does the road look different again?						0	
+50	嗯……她叫瑟瑞斯。我最好的朋友。我曾经和她约好一起去看一场比赛。	嗯……她叫瑟瑞斯。我最好的朋友。我曾經和她約好一起去看一場比賽。	はい……彼女の名前はシーリス、私の一番の親友です。一緒に試合を見に行く約束をしていました。	그녀의 이름은 세리스고 저한테 있어 가장 소중한 친구죠. 예전에 같이 시합을 보러 가기로 약속했었어요.	Yeah... her name is Siris. She's my best friend. I once made a promise to watch a competition with her.						0	
+51	因为一些事情，我没赶上。	因為某些事情，導致我沒來得及赴約。	諸事情があって、間に合いませんでした。	하지만 어떤 일들로 인해 가지 못했죠.	I got caught up in something, and I couldn't make it.						0	
+52	她呢，也忘记我失约了……	她呢，也忘記我失約了……	彼女も、私が約束を破ったことを忘れていました……	세리스는 제가 약속을 지키지 않았다는 것도 기억하지 못하고 있어요…	As for her, she forgot I even broke my promise...						0	
+53	这一次，我们重新约好了。	這一次，我們重新約好了。	今回、また彼女と約束をしました。	이번에 다시 한번 약속을 했어요.	So this time, we made a new promise.						0	
+54	等任务完成。	等任務完成。	任務が終わった後。	미션이 끝나면,	After I finish the mission...						0	
+55	要和大家一起去看燃灯仪式……	我要和大家一起看燃燈儀式……	彼女と一緒に点灯儀式を見に行くのです……	다 같이 연등 의식을 보러 가기로 말이죠…	I'm going to go watch the lighting ceremony with everyone...						0	

@@ -1,0 +1,70 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我们的位置已经暴露了啊……	我們的位置已經暴露了啊……	私達の場所はもうバレているようね。	위치가 발각됐잖아…	We've been spotted...						0	
+2	不知从何时起，仓库中的树枝仿佛被某种力量激活了般，疯狂地蔓延开来。	不知從何時起，倉庫中的樹枝彷彿被某種力量啟動了般，瘋狂地蔓延開來。	いつの間にか、なんらかの力で突如活性化したみたいに、倉庫内の木の枝が狂った勢いで蔓延し始めた。	언제부터 시작됐는지 모르겠지만 창고에 있던 나뭇가지가 어떤 힘에 의해 살아난 것처럼 미친 듯이 퍼져 나가기 시작했다.	Before I knew it, the Titagen branches in the warehouse started growing rapidly in our direction as if awakened by some force.						0	
+3	很快，随着第一个货架的坍塌，无数细碎的枝条开始汇聚，最终裹挟着钢铁，汇成了一股洪流，向我们奔涌而来。	很快，隨著第一個貨架的坍塌，無數細碎的枝條開始匯聚，最終裹挾著鋼鐵，匯成了一股洪流，向我們奔湧而來。	棚を倒しながら、無数の細い枝が混ざり合い、最終的には鋼鉄をも巻き込んで、洪水のような勢いで私達に襲い掛かってきた。	그리고 첫 번째 선반이 무너지면서 잘게 부서진 나뭇가지들이 다시 모여들기 시작했고, 강철을 감싸고 하나의 물줄기를 이룬 것처럼 우리에게 쏟아지기 시작했다.	Soon after, the first row of shelves collapsed. Countless tiny branches began to converge, engulfing the steel and surging toward us in a torrent.						0	
+4	快走，去电梯口。	快走，去電梯口。	急ごう。エレベーターホールだ！	어서 엘리베이터 입구로 가.	Quick, get to the elevator.						0	
+5	利用炸弹拉开了距离后，我急忙带着队员向着通往圣坛的入口前进。	利用炸彈拉開了距離後，我急忙帶著隊員向著通往聖壇的入口前進。	爆弾を使ってなんとかけん制すると、私は隊員たちを連れて聖壇の入口へと向かった。	폭탄으로 거리를 벌린 나는 서둘러 대원들을 데리고 제단으로 향하는 입구로 향했다.	After throwing a few bombs to create some distance, I hurriedly led the operatives toward the altar entrance.						0	
+6	呜嗯——	嗚嗚嗚——	あっ——	으윽…	Wha—						0	
+7	小安卡！！	小安卡！！	アカシアちゃん……！	아카시아!!	Acacia!!!						0	
+8	树枝抓住了位于队尾的安卡希雅，企图将其拉走。	樹枝抓住了位於隊尾的安卡希雅，企圖將其拉走。	枝が最後尾にいたアカシアを捕らえ、引きずり寄せようとしていた。	나뭇가지가 후방에 있는 아카시아를 붙잡고 끌고 가려 했다.	A branch had grabbed Acacia at the back of our group, attempting to pull her away.						0	
+b-1											0	
+9	瞄准缠住安卡希雅的树枝开枪	瞄準纏住安卡希雅的樹枝開槍	アカシアに巻きついた枝を狙って撃つ	아카시아의 나뭇가지를 겨누어 총을 쏜다.	Aim at the branch wrapped around Acacia and shoot						0	
+10	好准……得救了……	好準……得救了……	すごい……助かっちゃった……	정확했어… 겨우 살았네…	Nice shot... You saved me...						0	
+11	傻愣着干嘛，快爬起来！	傻愣著幹嘛，快爬起來！	なにボーッとしてるの？急ぐわよ！	뭐 하고 있는 거야! 빨리 일어나!	What're you doing still lying around? Get up!						0	
+12	架起射击支架的凯茜娅对面前宛若蛇群般的树枝发起了猛烈的反击，一时间竟将它们逼退了回去。	架起射擊支架的凱茜婭對面前宛若蛇群般的樹枝發動了猛烈的反擊，一時間竟將它們逼退了回去。	カーシアはバイポットを立て、目の前でヘビのようにうねる枝の束を攻撃した。その猛烈な反撃に怯んだのか、枝の津波が一瞬だけ退いた。	사격대를 세운 캐시아는 뱀떼처럼 생긴 나뭇가지를 향해 맹렬한 반격을 가해 그들을 잠시 뒤로 밀어냈다.	After setting up her shooting mount, Katya began an intense counterattack against the snake-like branches, momentarily holding them off.						0	
+13	而刚刚获救的安卡希雅也掷出飞刀，做好了原地迎击敌人的准备。	而剛剛獲救的安卡希雅也擲出飛刀，做好了原地迎擊敵人的準備。	解放されたばかりのアカシアも、間髪おかずナイフを投げ、その場で迎撃に加わっていた。	방금 구조된 아카시아도 비수를 던지며 그 자리에서 타깃을 맞설 준비를 마쳤다.	Acacia hurled some of her daggers too, ready to stand her ground and face the enemy.						0	
+14	恩雅姐，跟上我，去电梯入口。	恩雅姐，跟上我，去電梯入口。	エンヤ姉、エレベーター前までカバーして。	엔야 누님, 저를 따라 엘리베이터 입구로 가요.	Enya, cover me while I move over to the elevator.						0	
+15	嗯！	嗯！	わかりました！	응!	Got it!						0	
+16	等你们到了圣坛再联系。	等你們到了聖壇再聯絡。	聖壇についたら連絡してよ。	제단에 도착하면 연락해 줘.	Let us know when you guys get to the altar.						0	
+17	只用一个眼神，我们便能知晓对方心中所想。	只用一個眼神，我們便能知曉對方心中所想。	私達の仲だ。視線を交わすだけで相手の考えが分かった。	눈빛 하나만으로도 우리는 서로의 마음을 알 수 있었다.	We glanced at each other, knowing what the other was thinking.						0	
+18	在与断后的两人进行了短暂的告别后，我便与恩雅向着眼前的电梯口发起了最后的冲刺——	在與斷後的兩人進行了短暫的告別後，我便與恩雅向著眼前的電梯口發起了最後的衝刺——	敵の迎撃に回った2人と別れ、私とエンヤはエレベーターへと走った——	두 사람과 짧은 인사를 나눈 후, 나는 엔야와 함께 엘리베이터 입구를 향해 전력 질주를 했다…	After saying a quick goodbye to the two behind us, Enya and I sprinted the final distance over to the elevator in front of us...						0	
+19	受邀参加仪式只有你一个人哦，playername~	受邀參加儀式只有你一個人哦，playername~	儀式に誘われたのはあなただけだよ、playername～。	의식에 초대를 받은 사람은 너뿐이야, playername.	You're the only one invited to the ceremony, playername~						0	
+20	然而，电梯的闸门却先一步向我们敞开了。	然而，電梯的閘門卻先一步向我們敞開了。	けれど、エレベーターのドアは私達が到着するよりも先に開かれた。	그런데 엘리베이터의 문이 우리가 도착하기도 전에 미리 열려있었다.	However, the elevator door was one step ahead of us, opening first.						0	
+21	幽灵般的身影转瞬即逝，取而代之的是从门中涌现出的大量枝条。	幽靈般的身影轉瞬即逝，取而代之的是從門中湧現的大量枝條。	幽霊のような影が一瞬だけ顔を見せた後にまた姿を消したかと思うと、それに取って代わってドアの内側から大量の枝が湧き出してきた。	그러더니 갑자기 눈 깜짝할 사이에 사라지고 순간 수많은 나뭇가지로 변해 내게 쏟아져 나왔다.	The spectral figure faded away, replaced by a cluster of Titagen branches emerging from the door.						0	
+22	分析员！	分析員！	分析員！	분석가!	Adjutant!						0	
+23	最后一刻，她拉住了我的手，但是却无济于事，强大的拉力足以将我们两人一同拽入深渊。	最後一刻，她拉住了我的手，但卻無濟於事，強大的拉力足以將我們兩人一同拽入深淵。	彼女は咄嗟に私の手を掴んでくれたけれど、枝の力はあまりに強大で、そのままではどちらも深淵へと引きずり込まれてしまうのは明らかだった。	마지막 순간에 그녀는 내 손을 잡았지만 소용이 없었다. 강력한 장력은 우리 둘을 심연으로 끌어들이기에 충분했다.	She grabbed my hand at the last second, but it was no use. The strong branches were dragging me into the dark abyss, and her along with me.						0	
+24	唔嗯……	唔嗯……	ぐぅ……	으윽…	Ugh...						0	
+25	在强大的拉力和泰坦污染的作用下，失去了天启者优势的恩雅估计也支撑不了多久。	在強大的拉力和泰坦汙染的作用下，失去了天啟者優勢的恩雅估計也支撐不了多久。	その上、ただでさえタイタン汚染まであるのだ。覚醒者としての優勢を失ったエンヤでも、長くは持たないだろう。	장력과 타이탄 오염으로 계시자의 이점을 잃은 엔야도 얼마 버티지 못할 것이다.	Even a tough Manifestation like Enya struggled against the combination of Titagen contamination and the strong pull of the branches.						0	
+26	……	……	……	…	...						0	
+27	恩雅姐，很抱歉又要让你担心了，我果然还是……	恩雅姐，很抱歉又要讓你擔心了，我果然還是……	エンヤ姉、ごめん……また心配かけることになるけど、やっぱり私は……	엔야 누님, 또 이렇게 걱정을 안겨다드려서 죄송해요. 하지만 전…	Sorry to make you worry again, Enya. Looks like I still...						0	
+b-2											0	
+29	更喜欢搏命的冒险。	更喜歡搏命的冒險。	命がけの冒険の方が好みなんだ。	이런 모험을 선호하는 타입이라서요…	...prefer putting my life in danger.						0	
+30	松开恩雅的手	鬆開恩雅的手	エンヤの手を離す	엔야의 손을 놓는다.	Let go of Enya's hand						0	
+31	……！	……！	……！	…!	...!						0	
+32	去支援凯西娅她们，我去解决下面的东西。	去支援凱茜婭她們，我去解決下面的東西。	カーシアたちに協力してやってくれ。下のやつらは私がなんとかするから。	캐시아를 지원해 주세요. 아래에 있는 물건은 제가 해결할게요.	Go help Katya and the others. I'll take care of things down below.						0	
+33	等等——	等等——	待って！	잠깐만…	Wait—						0	
+34	等着我，我会回来的。	等著我，我會回來的。	待っててくれ。必ず戻ってくるから。	꼭 돌아올 테니 걱정하지 마세요.	Wait for me. I'll be back.						0	
+35	被大量的白色枝条裹挟着，我被强行拉入了漆黑的电梯井。	被大量的白色枝條裹挾著，我被強行拉入了漆黑的電梯井。	大量の白い枝に包まれながら、私は真っ暗なエレベーターシャフトへと引きずり込まれた。	나는 흰 나뭇가지에 싸인 채 강제로 엘리베이터 통로 속으로 끌려들어갔다.	Enveloped in a sea of white branches, I was helplessly pulled down the pitch-black elevator shaft.						0	
+36	playername！！！！！！	playername！！！！！！	playername！！！！！！	playername!	playername!!!						0	
+37	这里……就是永恒乐土吗……	這裡……就是永恆樂土嗎……	ここが……エターナルパラダイスなのですか……	이곳이… 영원한 낙원인가요…	Is this... the eternal promised land...?						0	
+38	简直无法想象，为什么地下会有这样的空间，我们头顶为什么是星空……	簡直無法想像，為什麼地下會有這樣的空間，我們頭頂為什麼是星空……	どういうことなの……地下にこんな空間があるなんて……どうして上には星空が広がっているの……	지하에 왜 이런 공간이 있는 거죠? 저희 머리 위에 어떻게 별하늘이 있는 거죠…	It's unbelievable... How could there be a space like this underground, with stars above us...?						0	
+39	赞叹吧，这也是由纯白之神带来的神迹。	讚歎吧，這也是由純白之神帶來的神蹟。	ご覧ください。これも純白な神による奇跡です。	이것도 순백의 신이 가져온 기적이니…	Impressive, no? This is another miracle brought about by the lily-white deity.						0	
+40	好了诸位，还请入座吧，降临仪式马上就要开始了。	好了諸位，還請入座吧，降臨儀式馬上就要開始了。	さあさあ、どうぞお座りくださいませ。降臨儀式はもうすぐ始まりますから。	어서 자리에 앉으십시오. 의식이 곧 시작되니…	Alright, everyone. Please take your seats. The Advent Ceremony is about to begin.						0	
+41	乐土中央突然涌现出粗壮的根茎，而被其托举而起的则是一枚纯白的茧。	樂土中央突然湧現出粗壯的根莖，而被其托舉而起的則是一枚純白的繭。	パラダイスの中央から、太い枝が突如湧き出てきた。純白な繭がひとつ、その枝の頂上に鎮座していた。	낙원의 중심에 갑자기 굵은 뿌리의 줄기가 솟아올랐다. 줄기 위에는 순백의 고치가 있었다.	A thick root of Titagen suddenly appeared in the center of the paradise, lifting up a pure white cocoon.						0	
+42	被人们唤作大主的男人也在此刻登场，他跪拜在白茧前，背对着人们，发出了庄重有力的声音。	被人們喚作大主的男人也在此刻登場，他跪拜在白繭前，背對著人們，發出了莊重有力的聲音。	それに合わせて、大司教と呼ばれている男も登場した。彼は人々に背を向けたまま繭の前に膝をつくと、厳粛かつ力強い声をあげた。	교주라 불리는 남성이 흰 고치 앞에 무릎을 꿇고 사람들에게 등을 돌린 채 정중하고 힘찬 목소리로 말했다.	The man known as the High Presbyter appeared and knelt before the white cocoon, his back facing the crowd as he spoke in a dignified and booming voice.						0	
+43	尤克特拉希尔之根，长久以来我们一直对外保守着这个秘密，悉心照料着它。	尤克特拉希爾之根，長久以來我們一直對外保守著這個秘密，悉心照料著它。	ユグドラシルの根。我々は長い間、この秘密を守り、細心の注意を払いながら育ててきました。	세계수의 뿌리, 오랫동안 저희는 대외적으로 이 사실을 세상에 숨겨왔습니다.	The Root of the World Tree. For a long time, we have kept it secret from the outside world, looking after it with the utmost care.						0	
+44	而在今夜，正是用它向诸位展示神迹之时。其体内储备着庞大的能量，将为我们的纯白之神所用。	而在今夜，正是用它向諸位展示神蹟之時。其體內儲備著龐大的能量，將為我們的純白之神所用。	そして今宵、この根が皆さんに奇跡を示すのです。ここに蓄えられた強大なエネルギーは、我らが純白な神の力となることでしょう。	그리고 오늘 밤, 여러분에게 기적을 보여주기 위해 그것을 사용할 시간입니다. 그것은 엄청난 양의 에너지를 보관하고 있으며 이는 순백의 신에 의해 사용될 것입니다.	Tonight, it is time to use it to show you all a miracle. A massive amount of energy is stored within it, which will be utilized by our lily-white deity.						0	
+45	来吧，饱受苦难的折磨的兄弟们，一起祈祷吧，祈祷苦难远离，祈祷我们的纯白之神能顺利降临。	來吧，飽受苦難的折磨的兄弟們，一起祈禱吧，祈禱苦難遠離，祈禱我們的純白之神能順利降臨。	来たれ、苦しみに耐え続けてきた兄弟たちよ！苦難が去り、純白な神が降臨することを、共に祈りましょう。	고통받는 형제들이여, 함께 기도합시다. 고통이 멀리 떠나기를, 그리고 순백의 신이 순조롭게 내려오기를 기도합시다.	Come, my brothers and sisters who have long suffered, let us pray together. Let us pray for an end to our suffering, pray for the smooth arrival of our lily-white deity.						0	
+46	在短时间内见证多场神迹的人们被在场的氛围所感染，无论是否曾是降临团的一员，他们都选择了屈身祷告……	在短時間內見證多場神蹟的人們被在場的氛圍所感染，無論是否曾是降臨團的一員，他們都選擇了屈身禱告……	この短期間に多くの奇跡を目にしてきた人々は、その雰囲気に圧倒されたのか、降臨団に所属していない者までもが、自ずと頭を下げて祈り始めた。	짧은 시간 동안 기적을 목격한 사람들은 현장 분위기에 영향을 받았는지 저절로 몸을 굽혀 기도를 올렸다…	After witnessing several miracles, those present were all drawn into the atmosphere. Long-time Adventists and newcomers alike all bowed down and began to pray...						0	
+47	殊不知，肉眼无法察觉的细小根须早已缠上他们的脚踝，他们的生命也在此刻沦为了滋养不幸的养分。	殊不知，肉眼無法察覺的細小根鬚早已纏上他們的腳踝，他們的生命也在此刻淪為了滋養不幸的養分。	けれど、彼らは気付いていなかった。すでに細い根の先端が彼らの踝へと絡み付き、自らが不幸を育む養分となってしまっていることに。	눈에 보이지 않는 잔뿌리가 그들의 발목을 감싸고 있었고, 그들의 생명은 지금 이 순간 불행의 자양분으로 전락하고 있었다.	Little did they know that fine roots, undetectable by the naked eye, had already begun winding around their ankles, tragically reducing their lifeforce to nourishment.						0	
+48	另一个圣坛中，萨特飘于空中，他正通过加文的视野细细品味着每个与会人员脸上的虔诚表情。	另一個聖壇中，薩特飄於空中，他正透過加文的視野細細品味著每個與會人員臉上的虔誠表情。	旧聖壇において、空に浮かぶサルトルはガビンの視野を借り、信者たちの顔に浮かぶ信心深い表情をじっくりと眺めていた。	또 다른 제단에서는 사르트르가 공중에 떠서 게빈의 시야를 통해 사람들의 경건한 표정을 감상하고 있었다.	In the other altar, Sartre hovered mid-air as he savored the devout expression of each person in attendance through Gavin's vision.						0	
+49	就仿佛是正在接受众人顶礼膜拜的人是他一样。	就彷彿正在接受眾人頂禮膜拜的人是他一樣。	まるで、自分こそが崇められている対象であるかのように。	마치 많은 사람의 절을 받는 사람이 그인 것처럼 말이다.	It was as if he was the one the crowd was truly worshipping.						0	
+50	多么美妙的光景，一切都如计划般进行。	多麼美妙的光景，一切都如計畫般進行。	美しい。すべて計画通りだ。	이 얼마나 아름다운 광경인가요. 모든 게 계획대로 진행되고 있으니.	What a fantastic spectacle. Everything is going according to plan.						0	
+51	很快，很快就要完成了……我献给大主的礼物，就要降临了。	很快，很快就要完成了……我獻給大主的禮物，就要降臨了。	もうすぐ……完成するんだ。僕が大司教に捧げるプレゼントが、じきに降臨する……	이제 곧 완성될 겁니다… 교주님께 바치는 선물이 곧 강림할 것입니다.	It will be complete soon, very soon... The gift I will offer to the High Presbyter will be arriving imminently.						0	
+52	然而——	然而——	しかし——	하지만…	However...						0	
+53	嗯？	嗯？	おや？	응?	Hm?						0	
+54	电子监控传来的蜂鸣声将他拉回了现实，投影展开，地下通道中出现了一个熟悉的身影。	電子監視器傳來的蜂鳴聲將他拉回了現實，投影展開，地下通道中出現了一個熟悉的身影。	監視カメラの警告音が彼を現実に引き戻した。映し出された地下通路には、あの見慣れた人影があった。	전자 감시 장치에서 들려오는 '삐' 소리가 그를 현실로 되돌렸고 투영이 펼쳐지면서 지하 통로에 낯익은 인물이 나타났다.	As his electronic monitoring device beeped, Sartre was pulled back to reality. A projection expanded to reveal a familiar figure in the underground tunnel.						0	
+55	闹人的臭虫还没死透吗？果然，人工智能办事就是不靠谱。	鬧人的臭蟲還沒死透嗎？果然，人工智慧辦事就是不太可靠。	うるさい虫けらめ。まだ生きていたのか。やっぱり人工知能は頼りにならないね。	아직 해충이 완전히 죽은 게 아니었나 보네요? 역시 인공지능은 신뢰할 게 못되나 봐요.	That pesky insect is still alive? Looks like you really can't rely on AI for everything.						0	
+56	不过也无所谓了，那个家伙的身体很特殊，做成新的藏品也不错，呵呵呵。	不過也無所謂了，那傢伙的身體很特殊，做成新的收藏也不錯，呵呵呵。	でも、まあいいや。あいつは特殊体質だから、新しくコレクションに加えるのも悪くないか。ふふふ。	하지만 괜찮습니다. 이 사람의 몸도 꽤 특이하니까. 새로운 소장품으로 만들어도 나쁘지 않을 것 같네요, 하하하.	It doesn't matter either way. That guy's body is quite special. It would make a nice addition to my collection, heheh...						0	
+57	越往下泰坦污染越严重……	越往下泰坦汙染越嚴重……	下に行くにつれて、タイタン汚染がひどくなってるな……	내려갈수록 타이탄 오염이 심해지고 있어…	The further down I go, the worse the Titagen contamination gets...						0	
+58	从冰冷的水滩中起身，我先确认了下自己的身体状况。	從冰冷的水灘起身，我先確認了一下自己的身體狀況。	冷たい水溜まりから抜け出すと、私はまず自分の状況を確認した。	찬물에서 일어나 먼저 몸 상태를 확인했다.	Standing up in the ice-cold water, I examined my physical condition.						0	
+59	毫发无损……和预想中一样。	毫髮無損……和預想中一樣。	傷ひとつないなんて。やっぱり予想していた通りだ……	손상이 없었다… 예상대로다.	I was completely fine... just as I'd expected.						0	
+60	在松手的瞬间，恩雅启动了羽蜕的<snowbreak>生灵守护舱</>装置。多亏了她，我平安落地了。	在鬆手的瞬間，恩雅啟動了羽蛻的<snowbreak>生靈守護艙</>裝置。多虧了她，我平安落地了。	私が手を離した瞬間、エンヤが戦術装備の<snowbreak>ライフセーバーカプセル</>装置を起動してくれたのだ。そのおかげで、こうして無事に着地できたというわけだった。	엔야의 손을 놓는 순간 엑수비아의 <snowbreak>인명 구조 캐비닛</> 장치를 작동시켰다. 그녀 덕분에 무사히 착지할 수 있었다.	The second I let go, Enya activated her Exuvia exosuit's <snowbreak>Guardian Pod</> device. Thanks to her, I landed safely.						0	
+61	当然，也只是当下平安无事而已。	當然，也只是當下平安無事而已。	まあ、無事と言っても今はまだ、という条件付きだが。	물론 잠깐에 불과하지만 말이다.	Of course, it only meant I was safe for the moment.						0	
+62	我凝视着面前黑洞洞的通道，拔出了腰间的枪。	我凝視著前方黑洞洞的通道，拔出了腰間的槍。	目の前で真っ暗な口を開けているトンネルを睨みながら、私は腰に提げている銃を抜いた。	나는 전방의 캄캄한 통로를 바라보며 허리에 찬 총을 뽑았다.	I stared down the dark tunnel in front of me, drawing the gun at my hip.						0	
+63	而原本成球状的守护舱装置也好似读懂了我的心意般，分解成了片片装甲，紧紧地包裹住了我的身体，形成了一身贴身的外骨骼。	而原本成球狀的守護艙裝置也好像讀懂了我的心意般，分解成了片片裝甲，緊緊地包裹住了我的身體，形成了一身貼身的外骨骼。	その動きを感知したセーバーカプセルが、球体の状態から複数の装甲へと変化し、私の体に貼り付いた。ちょうど鎧を着込んだような状態だ。	공 모양으로 되어있던 캐비닛 장치가 내 마음을 읽기라도 한듯 조각조각 분해되어 내 몸을 단단히 감싸는 전술 슈트를 형성했다.	As if reading my mind, the spherical Guardian Pod fractured into shards of armor, tightly encasing my body to create a form-fitting exosuit.						0	
+64	原来还有专门为我定制的防护模式吗……	原來還有專門為我訂製的防護模式嗎……	私専用の防御モードまであるのか……	나를 위해 커스텀 된 보호 모드가 따로 설정되어 있었다니…	Had she designed a defensive mode customized for me...?						0	
+65	——	——	――	…	Argh—!						0	
+66	还没等我彻底适应这身外骨骼，一队异化人便发出凄厉的惨叫围了上来。	還沒等我徹底適應這身外骨骼，一隊異化人便發出淒厲的慘叫圍了上來。	その鎧の感触に慣れる暇もなく、数人の変異者が凄惨な唸り声を上げながら私を取り囲んだ。	아직 전술 슈트에 완전히 적응하기도 전에 한 무리의 변이자들이 비명을 지르며 나를 에워싸기 시작했다.	Before I had time to get used to the exosuit, a group of Changed surrounded me and let out agonized screams.						0	
+67	好久没单独行动了……正好拿你们热个身吧。	好久沒單獨行動了……正好拿你們熱身吧。	ソロは随分久しぶりだからな……お前らでウォーミングアップと行くか。	오랜만에 혼자인데… 몸이나 조금 풀어보지 뭐.	I haven't fought on my own in a long time... I'll use you guys to warm up.						0	

@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	从两边都堵死了，还有铁丝网，炸开好了。	從兩邊都堵死了，還有鐵絲網，炸開好了。	両側は塞がってるし、鉄条網が張られてる。爆破しよう。	양쪽 모두 막혔어. 철조망까지 둘러져 있고.	There are dead ends both ways, plus barbed wire. Let's blow it up.						0	
+2	炸药？那些郊狼应该有。	炸藥？那些郊狼應該有。	爆薬は？コヨーテが持っているはず。	폭탄? 코요테 녀석들이 가지고 있을 것 같은데.	Dynamite? Those Coyotes probably have some.						0	
+3	等等……	等等……	いや……	가만있어 보자…	Hold on...						0	

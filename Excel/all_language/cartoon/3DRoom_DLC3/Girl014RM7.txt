@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	辰星，一起去吃饭啊？	辰星，一起去吃飯嗎?	辰星、一緒にご飯行かない？	수성, 같이 밥 먹으러 갈래요?	Chenxing, do you want to eat together?						0	
+page0.2	抱歉，我已经吃过了。	抱歉，我已經吃過了。	すみません、もう済ませました。	죄송하지만, 이미 먹었어요.	Sorry, I already ate.						0	
+page0.3	医疗部给每位天启者设计了不同的饮食建议表，我平时都是在表中推荐的时间段吃饭。	醫療部幫每位天啟者設計了不同的飲食建議表，我平常都是在表中建議的時間段吃飯。	医療部門は、各覚醒者に異なる食事の提案をしていて、私はいつも提案された時間帯に食事をとっています。	의무실에서 각 계시자에게 맞춤 식단표를 설계해 줬어요. 그래서 전 식단표에 적힌 시간에 맞춰 식사해요.	The Medical Department designed a unique dietary recommendation list for each Manifestation. I usually eat during the recommended times outlined on the list.						0	
+page0.4	怪不得很少在餐厅见到你，原来是和大家错开了。	難怪很少在餐廳看到你，原來是時間跟大家錯開了。	食堂であまり見かけないのは、みんなとタイミングがずれているからか。	어쩐지 식당에서 잘 못 본다 했더니, 사람들과 시간이 안 맞았던 거군요.	No wonder I barely see you in the canteen — your meal times are staggered.						0	
+page0.5	那你今天打算吃什么？	那你今天打算吃什麼?	今日は何を食べたの？	그럼 오늘은 뭘 먹을 예정이에요?	So what are you going to eat today?						0	
+page0.6	今天应该吃第二个周期的第六个套餐，鲜蔬三明治。	今天應該吃第二個週期的第六個套餐，蔬菜三明治。	食事の提案表の第2サイクルの6番目、新鮮な野菜サンドイッチを。	오늘은 2주일 차의 6번째 식사인, 베지터블 샌드위치를 먹어야 해요.	I should eat the sixth meal in the second cycle — a fresh vegetable sandwich.						0	
+page0.7	辰星，你不会一直只吃那些建议表里的食物吧？	辰星，該不會你都只吃那些建議表裡面的食物吧。	辰星、君は一生提案表に載った物しか食べないつもり？	수성, 설마 계속 그 식단표에 나온 음식만 먹는 거예요?	Chenxing, you don't only eat foods listed on the recommendations, right?						0	
+page0.8	是的，有固定的进食时间和明确食物品类，这对我来说很方便。	是的，有固定的用餐時間以及明確的食物種類，對我來說很方便。	はい、決まった食事時間と特定の食品カテゴリーがあり、私にとっては非常に便利ですので。	맞아요, 식사 시간과 음식 종류가 정해져 있어서 무척 편해요.	I do. It's more convenient for me to have set meal times and clearly categorized food.						0	
+page0.9	……	……	……	…	...						0	
+page0.10	辰星，下一次和我一起去餐厅吧。	辰星，下次跟我一起去餐廳吧。	辰星、今度一緒に食堂に行こう。	수성, 다음에 저와 함께 식당에 가요.	Chenxing, come to the canteen with me next time.						0	
+page0.11	试一试从来没有尝过的食物，感受一下有点吵闹的就餐氛围。	試試看從來沒有吃過的食物，感受一下有點吵雜的用餐氛圍。	にぎやかな食事の雰囲気を楽しんでみて、試したことのない物も試してみよう。	한 번도 먹어보지 못한 음식을 먹어보고, 시끌벅적한 식당 분위기도 느껴봐요.	You can try some food you've never had before and enjoy the fun atmosphere while everyone is eating together.						0	
+page0.12	和分析员一起吃饭吗……好的，我很期待。	和分析員一起吃飯嗎……好的，我很期待。	分析員と一緒に食事ですか……いいですね、楽しみです。	분석가님과 함께 식사를 한다라… 좋아요, 기대돼요.	You want me to have dinner with you...? Alright, I'm looking forward to it.						0	

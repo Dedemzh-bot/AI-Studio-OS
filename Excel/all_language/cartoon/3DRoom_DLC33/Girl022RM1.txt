@@ -1,0 +1,35 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	我一直没能看明白克罗瑞娜房间里壁炉上的那幅油画究竟画的是什么。	我一直沒看懂克羅瑞娜房間裡壁爐上的那幅油畫究竟畫的是什麼。	クラウリナの部屋、暖炉の上に掛かった一枚の油彩――いつ見ても、何が描かれているのか判別しかねていた。	클라리나의 방 안 벽난로 위에 걸린 유화는 도대체 뭘 그린 건지 도통 알 수가 없었다.	I never could quite make out what the oil painting above the fireplace in Clarina's room was meant to be.						0	
+page1.2	以紫色为主基调，抽象的、不规则的色块充斥着画面，狂野且复古，处处透露着诡异。	以紫色為主基調，抽象的、不規則的色塊充斥著畫面，狂野且復古，處處透露著詭異。	紫を基調に、不規則な色塊がうねる。奔放で、どこかヴィンテージ。だが全体に漂う気配は、少しばかり不気味。	보라색을 메인 컬러로 사용해 추상적이고 불규칙한 컬러로 화폭을 가득 채웠는데, 거칠면서도 복고적인 데다가 구석구석 기묘한 느낌이 풍겼다.	Shades of purple dominated the canvas, with abstract, irregular blocks of color everywhere. It looked wild, a little old-fashioned, and... undeniably strange.						0	
+page1.3	难道这是某种抽象艺术？	難道這是某種抽象藝術？	抽象画……なのか？	일종의 추상 예술일까?	Is it some sort of abstract art?						0	
+page1.4	我驻足良久。	我駐足許久。	思わず足を止め、しばし見入っていた。	나는 한참을 서서 바라보았다.	I stood looking for a long while.						0	
+page1.5	你在看什么呢？	你在看什麼呢？	何を見ているかしら？	뭐 보고 있어?	What are you looking at?						0	
+page1.6	克罗瑞娜突如其来的声音让我从思绪中回过神来。	克羅瑞娜突如其來的聲音讓我從思緒中回過神來。	不意にかけられた声で、現実へ引き戻される。	갑자기 클라리나의 목소리가 들려와 나를 깊은 생각에서 깨웠다.	Clarina's sudden voice pulled me out of my thoughts.						0	
+page1.7	你这幅画……画的究竟是什么？	你這幅畫……畫的究竟是什麼？	この絵、何を描いたものなんだ？	이 그림… 도대체 뭘 그린 거야?	This painting... What exactly is it about?						0	
+page1.8	克罗瑞娜俏皮地笑了笑。	克羅瑞娜俏皮地笑了笑。	クラウリナが、いたずらっぽく口元だけで笑う。	클라리나가 장난스럽게 웃었다.	She chuckled mischievously.						0	
+page1.9	你猜？	你猜？	うふふ。さあ、何だと思う？	맞혀봐.	Would you like to guess?						0	
+page1.10	给你个小提示，这幅画是我特意定制的，可不是什么普通作品哦。	給你個小提示，這幅畫是我特地訂製的，可不是什麼普通作品喔。	ヒントを差し上げるわ。これは特注品、そこらの作品とは違うの。	힌트를 줄게. 이 그림은 내가 특별히 주문 제작한 거야. 평범한 작품이 아니라고!	Here's a little hint: I had this piece specially commissioned. It's not just any ordinary piece.						0	
+choice01	这是恐怖片现场？	這是恐怖片現場？	ホラー映画のワンシーン？	공포 영화 촬영장?	A horror movie scene?						0	
+choice02	这是抽象派脑洞？	這是抽象派？	抽象派の大暴走？	추상파 예술가의 머릿속?	A wild abstract art piece?						0	
+page2.1	……	……	……	……	...						0	
+page2.2	当然不是啊。	當然不是啊。	違うわよ。	아니지.	Of course not.						0	
+page2.3	这是我家啦，吉诺拉庄园的风景写实画！	這是我家啦，吉諾拉莊園的風景寫實畫！	わたくしの家――ディノーラ庭園の風景写生なの。	우리 집이야. 제노라 장원의 풍경 사실화라고!	It's my home, a realistic landscape of Genoura Manor!						0	
+page2.4	还记得庄园正门的样貌吗？这里是大门，下方是庭院……你应该都有去过的。	還記得莊園正門的樣貌嗎？這裡是大門，下方是庭院……你應該都有去過的。	正門を覚えている？ここがゲートで、下が庭園……どちらにもいらしたはずだわ。	장원 정문은 어떻게 생겼는지 기억나? 여기가 정문이고, 아래쪽이 정원이야… 너도 다 가봤잖아.	Remember what the front gate looked like? Here's the gate, and down there is the courtyard... You've been there.						0	
+page2.5	我再次端详这张油画，似乎看出点儿轮廓来了。	我再次端詳這幅油畫，似乎看出點輪廓來了。	改めて目を凝らすと、輪郭が立ち上がってくる。	유화를 다시 자세히 살펴보니, 뭔가 윤곽이 좀 보이는 것 같았다.	I looked again, and a faint outline began to emerge.						0	
+page2.6	——好像还真是吉诺拉庄园。	——好像還真是吉諾拉莊園。	――たしかに、ディノーラ庭園だ。	… 정말 제노라 장원이 맞는 것 같다.	It really does look like Genoura Manor.						0	
+page2.7	只不过这氛围有股说不清道不明、与吉诺拉庄园大相径庭的诡异，再加之画匠的独特笔触，乍一看我居然真没看出来。	只不過這氛圍有股說不清道不明、與吉諾拉莊園大相逕庭的詭異，再加上畫匠的獨特筆觸，乍看之下我居然真的沒看出來。	ただ、絵の空気は実物とは似ても似つかない妖しさを帯び、画工の筆致も相まって、最初は気づけなかった。	다만 분위기가 제노라 장원과는 어딘가 동떨어진 기묘한 느낌이 있는 데다 화가의 독특한 붓 터치까지 더해져, 자세히 보지 않으면 정말 알아챌 수가 없었다.	The atmosphere felt indescribably off from the real manor, though. With the painter's distinctive brushstroke on top of that, no wonder I didn't recognize it at first glance.						0	
+page2.8	这颜色可真是……独特。	這顏色可真是……獨特。	色使いが……ずいぶん個性的だな。	이 색감은 정말… 독특하네.	The colors are really... unique.						0	
+page2.9	我斟酌着字句。	我斟酌著字句。	言葉を選びつつ評すると――	나는 조심스럽게 단어를 선택했다.	I chose my words carefully.						0	
+page2.10	嘿嘿，我特意选了紫色配色，因为你送我的家具大多数都是这个颜色。	嘿嘿，我特地選了紫色配色，因為你送我的傢俱大部分都是這個顏色。	でしょう？分析員さんが贈ってくれた家具、紫が多いでしょう。合わせて選んだのよ。	헤헤, 일부러 보라색으로 골랐어. 네가 선물해 준 가구는 대부분 이 색깔이잖아.	Hehe, I picked a purple palette on purpose, because most of the furniture you gave me is that color.						0	
+page2.11	至少从视觉层面上来看，这幅画和房间是浑然一体的。克罗瑞娜这么说，我还真找不到什么反驳的理由。	至少從視覺層面上來看，這幅畫和房間是混為一體的。克羅瑞娜這麼說，我還真的找不到什麼反駁的理由。	視覚的には部屋と一体。そう言われると、もはや反論の余地はない。	최소한 시각적으로는 이 방과 완벽하게 어우러지는 그림이었다. 클라리나의 말을 듣고 나니 정말 반박할 수가 없었다.	Visually, at least, the painting and the room felt like a seamless whole. To put it the way Clarina did, I didn't have much to argue with.						0	
+page2.12	怎么样？搭配起来很不错吧？	怎麼樣？搭配起來很不錯吧？	どうかしら。いい感じでしょ？	어때? 잘 어울리지?	Well? Looks pretty good together, right?						0	
+page2.13	相当不错。	相當不錯。	かなり良い。	아주 잘 어울려.	Indeed.						0	
+page2.14	那你是不是很喜欢啊？	那你是不是很喜歡啊？	じゃあ、気に入ってくれたのね？	그럼, 네 마음에 쏙 들어?	Then do you like it?						0	
+page2.15	当然喜欢。	當然喜歡。	もちろんだ。	당연히 마음에 들지.	Of course I do.						0	
+page2.16	我就知道你喜欢。	我就知道你喜歡。	やっぱり、ふふ。	역시 네가 좋아할 줄 알았어.	I knew you would.						0	
+page2.17	那下次我再多买几张画，碰到你喜欢的，就送给你！	那下次我再多買幾幅畫，遇到你喜歡的，就送給你！	なら今度、数枚まとめて買っておくわ。分析員さんが好きそうなの、見つけたら贈るわね。	그럼 다음에는 그림을 몇 점 더 사서, 네가 마음에 드는 게 있으면 선물해 줄게!	Next time I'll buy a few more paintings. If you like any of them, I'll give it to you!						0	
+page2.18	好啊，一言为定。	好啊，一言為定。	約束だな。	좋아, 약속이야.	Deal. Guess I'll thank you in advance.						0	
+page2.19	其实我也不知道我究竟喜不喜欢这幅画，但我喜欢克罗瑞娜的笑容里的那一抹灿烂。	其實我也不知道我究竟喜不喜歡這幅畫，但我喜歡克羅瑞娜笑容裡的那一抹燦爛。	本当のところ、この絵そのものを好きかどうか――判断はつかない。けれど、絵の前で綻ぶクラウリナの笑みは、確かに胸に残る。	사실 나조차도 이 그림이 내 마음에 드는지 잘 모르겠지만, 클라리나의 찬란한 웃음은 마음에 들었다.	Honestly, I didn't even know if I liked this painting. But I did like the bright gleam of Clarina's smile.						0	
+page2.20	与之相比，这幅画究竟是什么风格，我又有什么可纠结的呢？	與之相比，這幅畫究竟是什麼風格，我又有什麼可糾結的呢？	だったら細かいところなんて、もう取るに足らない。	이에 비하면, 이 그림의 화풍이 어떤지 따위가 뭐 그리 중요하겠는가?	Compared to that, what was the point of fussing over the painting's style?						0	
+page2.21	——随她喜好就好了。	——隨她喜好就好了。	――彼女に委ねればいい。	… 클라리나가 좋아하면 그만이지.	I was fine with anything she liked.						0	

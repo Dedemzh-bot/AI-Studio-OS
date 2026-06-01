@@ -1,0 +1,34 @@
+﻿道具大类	道具子类	道具ID	等级	注释	禁用道具	类名	名字key	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	类型图标（手动配置对应小图标）	图标(17+d(xx)+p(xx)+l	使用方式，0不可使用，1自动，2手动  不填为0	获取类型（1默认，2供应站，3活动，4成就，5通行证	获取途径	附加参数1	附加参数2	附加参数3	修正时间	JsonID	皮肤ID	GM投放	是否默认拥有
+Genre	Detail	Particular	Level	Comment	Close	LuaType	I18n	Color	Tag	Icon	UseMode	GetType	GetWay	Param1	Param2	Param3	ATime	JsonID	SkinId	GMnum	DefaultOwn
+23	1	99	1	分析员换装1动作1		housephoto	manifestation.scene		5	46010005		1						1109901	79900	1	
+23	1	99	2	分析员换装1动作2		housephoto	manifestation.scene01		5	46010006		1						1109902	79900	1	
+23	1	99	4	分析员换装1动作4		housephoto	manifestation.scene02		5	46010008		1						1109904	79900	1	
+23	1	99	5	分析员换装1动作5		housephoto	manifestation.scene		5	46010009		1						1109905	79900	1	
+23	1	99	6	分析员换装1动作6		housephoto	manifestation.scene03		5	46010010		1						1109906	79900	1	
+23	1	99	7	分析员换装1正常站		housephoto			5	46010001		1						1109907	79900	1	
+23	1	99	8	分析员换装1沙发躺		housephoto			5	46010002		1						1109908	79900	1	
+23	1	99	9	分析员换装1葛优瘫		housephoto			5	46010003		1						1109909	79900	1	
+23	1	99	11	分析员换装2动作1		housephoto	manifestation.scene		5	46020005		1						1209901	79901	1	
+23	1	99	12	分析员换装2动作2		housephoto	manifestation.scene01		5	46020006		1						1209902	79901	1	
+23	1	99	14	分析员换装2动作4		housephoto	manifestation.scene02		5	46020008		1						1209904	79901	1	
+23	1	99	15	分析员换装2动作5		housephoto	manifestation.scene		5	46020009		1						1209905	79901	1	
+23	1	99	16	分析员换装2动作6		housephoto	manifestation.scene03		5	46020010		1						1209906	79901	1	
+23	1	99	17	分析员换装2正常站		housephoto			5	46020001		1						1209907	79901	1	
+23	1	99	18	分析员换装2沙发躺		housephoto			5	46020002		1						1209908	79901	1	
+23	1	99	19	分析员换装2葛优瘫		housephoto			5	46020003		1						1209909	79901	1	
+23	1	99	21	分析员换装3动作1		housephoto	manifestation.scene		5	46030005		1						1309901	79902	1	
+23	1	99	22	分析员换装3动作2		housephoto	manifestation.scene01		5	46030006		1						1309902	79902	1	
+23	1	99	24	分析员换装3动作4		housephoto	manifestation.scene02		5	46030008		1						1309904	79902	1	
+23	1	99	25	分析员换装3动作5		housephoto	manifestation.scene		5	46030009		1						1309905	79902	1	
+23	1	99	26	分析员换装3动作6		housephoto	manifestation.scene03		5	46030010		1						1309906	79902	1	
+23	1	99	27	分析员换装3正常站		housephoto			5	46030001		1						1309907	79902	1	
+23	1	99	28	分析员换装3沙发躺		housephoto			5	46030002		1						1309908	79902	1	
+23	1	99	29	分析员换装3葛优瘫		housephoto			5	46030003		1						1309909	79902	1	
+23	1	99	31	分析员换装4动作1		housephoto	manifestation.scene		5	46040005		1						1409901	79903	1	
+23	1	99	32	分析员换装4动作2		housephoto	manifestation.scene01		5	46040006		1						1409902	79903	1	
+23	1	99	34	分析员换装4动作4		housephoto	manifestation.scene02		5	46040008		1						1409904	79903	1	
+23	1	99	35	分析员换装4动作5		housephoto	manifestation.scene		5	46040009		1						1409905	79903	1	
+23	1	99	36	分析员换装4动作6		housephoto	manifestation.scene03		5	46040010		1						1409906	79903	1	
+23	1	99	37	分析员换装4正常站		housephoto			5	46040001		1						1409907	79903	1	
+23	1	99	38	分析员换装4沙发躺		housephoto			5	46040002		1						1409908	79903	1	
+23	1	99	39	分析员换装4葛优瘫		housephoto			5	46040003		1						1409909	79903	1	

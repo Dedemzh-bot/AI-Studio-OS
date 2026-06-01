@@ -1,0 +1,9 @@
+Id	角色ID	演出动画(引用,权重)
+Id	CharacterId	PlayAnimation
+1	1001	/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_rush_stop,10;/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_launch
+2	1002	/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_rush_stop,10;/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_launch
+3	1003	/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_rush_stop,10;/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_launch
+4	1004	/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_rush_stop,10;/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_launch
+5	1005	/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_rush_stop,10;/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_launch
+6	1006	/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_rush_stop,10;/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_launch
+7	1007	/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_rush_stop,10;/Game/Blueprints/Character/Hero/girl001/NormalBehaviour/wp04a/AM_girl001_wp04a_launch

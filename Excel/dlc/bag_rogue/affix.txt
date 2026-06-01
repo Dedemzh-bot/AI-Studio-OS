@@ -1,0 +1,146 @@
+﻿词缀ID	效果备注	描述	显示分组（同组合并数值显示）	描述中的数值	效果类型（1.buff 2.影响格子 3.物件数量 4.经验超上限 ）	SkillInfo（ID+等级）	SkillFix（ID+等级）	特殊效果参数（影响的对象 1自己 2相邻格子，影响的模块1基础属性 2所有天赋点 3主天赋点，影响的值）	ModifierInfo（ID+等级）
+ID	Comment	Des	ShowGroup	AffixParamPerCount	AffixType	SkillInfo	SkillFix	SpecialEffects	ModifierInfo
+1	生命值+6%	bagrogue.AffixDes3	1	{3}	1	{7011057,3}			
+2	生命值+9%	bagrogue.AffixDes3	1	{6}	1	{7011057,6}			
+3	生命值+12%	bagrogue.AffixDes3	1	{9}	1	{7011057,9}			
+4	生命值+15%	bagrogue.AffixDes3	1	{12}	1	{7011057,12}			
+5	攻击力+3%	bagrogue.AffixDes3	1	{15}	1	{7011057,15}			
+6	攻击力+6%	bagrogue.AffixDes1	2	{3}	1	{7011055,3}			
+7	攻击力+9%	bagrogue.AffixDes1	2	{6}	1	{7011055,6}			
+8	攻击力+12%	bagrogue.AffixDes1	2	{9}	1	{7011055,9}			
+9	攻击力+15%	bagrogue.AffixDes1	2	{12}	1	{7011055,12}			
+10	防御力+3%	bagrogue.AffixDes1	2	{15}	1	{7011055,15}			
+11	防御力+6%	bagrogue.AffixDes2	3	{3}	1	{7011056,3}			
+12	防御力+9%	bagrogue.AffixDes2	3	{6}	1	{7011056,6}			
+13	防御力+12%	bagrogue.AffixDes2	3	{9}	1	{7011056,9}			
+14	防御力+15%	bagrogue.AffixDes2	3	{12}	1	{7011056,12}			
+15	暴击率+3%	bagrogue.AffixDes2	3	{15}	1	{7011056,15}			
+16	暴击率+6%	bagrogue.AffixDes4	4	{3}	1	{7011058,3}			
+17	暴击率+9%	bagrogue.AffixDes4	4	{6}	1	{7011058,6}			
+18	暴击率+12%	bagrogue.AffixDes4	4	{9}	1	{7011058,9}			
+19	暴击率+15%	bagrogue.AffixDes4	4	{12}	1	{7011058,12}			
+20	暴击伤害增幅+6%	bagrogue.AffixDes4	4	{15}	1	{7011058,15}			
+21	暴击伤害增幅+12%	bagrogue.AffixDes5	5	{6}	1	{7011059,3}			
+22	暴击伤害增幅+18%	bagrogue.AffixDes5	5	{12}	1	{7011059,6}			
+23	暴击伤害增幅+24%	bagrogue.AffixDes5	5	{18}	1	{7011059,9}			
+24	暴击伤害增幅+30%	bagrogue.AffixDes5	5	{24}	1	{7011059,12}			
+25	技能急速+3	bagrogue.AffixDes5	5	{30}	1	{7011059,15}			
+26	技能急速+6	bagrogue.AffixDes6	6	{3}	1	{7011060,3}			
+27	技能急速+9	bagrogue.AffixDes6	6	{6}	1	{7011060,6}			
+28	技能急速+12	bagrogue.AffixDes6	6	{9}	1	{7011060,9}			
+29	技能急速+15	bagrogue.AffixDes6	6	{12}	1	{7011060,12}			
+30	技能伤害+3%	bagrogue.AffixDes6	6	{15}	1	{7011060,15}			
+31	技能伤害+6%	bagrogue.AffixDes7	7	{3}	1	{7011061,3}			
+32	技能伤害+9%	bagrogue.AffixDes7	7	{6}	1	{7011061,6}			
+33	技能伤害+12%	bagrogue.AffixDes7	7	{9}	1	{7011061,9}			
+34	技能伤害+15%	bagrogue.AffixDes7	7	{12}	1	{7011061,12}			
+35	常规技伤害+4.5%	bagrogue.AffixDes7	7	{15}	1	{7011061,15}			
+36	常规技伤害+9%	bagrogue.AffixDes8	8	{4.5}	1	{7011062,3}			
+37	常规技伤害+13.5%	bagrogue.AffixDes8	8	{9}	1	{7011062,6}			
+38	常规技伤害+18%	bagrogue.AffixDes8	8	{13.5}	1	{7011062,9}			
+39	常规技伤害+22.5%	bagrogue.AffixDes8	8	{18}	1	{7011062,12}			
+40	支援技伤害+3%	bagrogue.AffixDes8	8	{22.5}	1	{7011062,15}			
+41	支援技伤害+6%	bagrogue.AffixDes9	9	{3}	1	{7011063,3}			
+42	支援技伤害+9%	bagrogue.AffixDes9	9	{6}	1	{7011063,6}			
+43	支援技伤害+12%	bagrogue.AffixDes9	9	{9}	1	{7011063,9}			
+44	支援技伤害+15%	bagrogue.AffixDes9	9	{12}	1	{7011063,12}			
+45	爆发技伤害+3%	bagrogue.AffixDes9	9	{15}	1	{7011063,15}			
+46	爆发技伤害+6%	bagrogue.AffixDes10	10	{3}	1	{7011064,3}			
+47	爆发技伤害+9%	bagrogue.AffixDes10	10	{6}	1	{7011064,6}			
+48	爆发技伤害+12%	bagrogue.AffixDes10	10	{9}	1	{7011064,9}			
+49	爆发技伤害+15%	bagrogue.AffixDes10	10	{12}	1	{7011064,12}			
+50	爆发能量获取率+3%	bagrogue.AffixDes10	10	{15}	1	{7011064,15}			
+51	爆发能量获取率+6%	bagrogue.AffixDes11	11	{3}	1	{7011065,3}			
+52	爆发能量获取率+9%	bagrogue.AffixDes11	11	{6}	1	{7011065,6}			
+53	爆发能量获取率+12%	bagrogue.AffixDes11	11	{9}	1	{7011065,9}			
+54	爆发能量获取率+15%	bagrogue.AffixDes11	11	{12}	1	{7011065,12}			
+55	射击伤害+3%	bagrogue.AffixDes11	11	{15}	1	{7011065,15}			
+56	射击伤害+6%	bagrogue.AffixDes12	12	{3}	1	{7011066,3}			
+57	射击伤害+9%	bagrogue.AffixDes12	12	{6}	1	{7011066,6}			
+58	射击伤害+12%	bagrogue.AffixDes12	12	{9}	1	{7011066,9}			
+59	射击伤害+15%	bagrogue.AffixDes12	12	{12}	1	{7011066,12}			
+60	非瞄准射击伤害+4.5%	bagrogue.AffixDes12	12	{15}	1	{7011066,15}			
+61	非瞄准射击伤害+9%	bagrogue.AffixDes13	13	{4.5}	1	{7011067,3}			
+62	非瞄准射击伤害+13.5%	bagrogue.AffixDes13	13	{9}	1	{7011067,6}			
+63	非瞄准射击伤害+18%	bagrogue.AffixDes13	13	{13.5}	1	{7011067,9}			
+64	非瞄准射击伤害+22.5%	bagrogue.AffixDes13	13	{18}	1	{7011067,12}			
+65	瞄准射击伤害+4.5%	bagrogue.AffixDes13	13	{22.5}	1	{7011067,15}			
+66	瞄准射击伤害+9%	bagrogue.AffixDes14	14	{4.5}	1	{7011068,3}			
+67	瞄准射击伤害+13.5%	bagrogue.AffixDes14	14	{9}	1	{7011068,6}			
+68	瞄准射击伤害+18%	bagrogue.AffixDes14	14	{13.5}	1	{7011068,9}			
+69	瞄准射击伤害+22.5%	bagrogue.AffixDes14	14	{18}	1	{7011068,12}			
+70	射击速度+3%	bagrogue.AffixDes14	14	{22.5}	1	{7011068,15}			
+71	射击速度+6%	bagrogue.AffixDes15	15	{3}	1	{7011069,3}			
+72	射击速度+9%	bagrogue.AffixDes15	15	{6}	1	{7011069,6}			
+73	射击速度+12%	bagrogue.AffixDes15	15	{9}	1	{7011069,9}			
+74	射击速度+15%	bagrogue.AffixDes15	15	{12}	1	{7011069,12}			
+75	换弹速度+3%	bagrogue.AffixDes15	15	{15}	1	{7011069,15}			
+76	换弹速度+6%	bagrogue.AffixDes16	16	{3}	1	{7011070,3}			
+77	换弹速度+9%	bagrogue.AffixDes16	16	{6}	1	{7011070,6}			
+78	换弹速度+12%	bagrogue.AffixDes16	16	{9}	1	{7011070,9}			
+79	换弹速度+15%	bagrogue.AffixDes16	16	{12}	1	{7011070,12}			
+80	常规能量恢复速度+6%	bagrogue.AffixDes16	16	{15}	1	{7011070,15}			
+81	常规能量恢复速度+12%	bagrogue.AffixDes17	17	{6}	1	{7011071,3}			
+82	常规能量恢复速度+18%	bagrogue.AffixDes17	17	{12}	1	{7011071,6}			
+83	常规能量恢复速度+24%	bagrogue.AffixDes17	17	{18}	1	{7011071,9}			
+84	常规能量恢复速度+30%	bagrogue.AffixDes17	17	{24}	1	{7011071,12}			
+85	附属单位强度+9	bagrogue.AffixDes17	17	{30}	1	{7011071,15}			
+86	附属单位强度+18	bagrogue.AffixDes18	18	{9}	1	{7011072,3}			
+87	附属单位强度+27	bagrogue.AffixDes18	18	{18}	1	{7011072,6}			
+88	附属单位强度+36	bagrogue.AffixDes18	18	{27}	1	{7011072,9}			
+89	附属单位强度+45	bagrogue.AffixDes18	18	{36}	1	{7011072,12}			
+90	附属单位强度+15	bagrogue.AffixDes18	18	{45}	1	{7011072,15}			
+501	自身提供的基础属性提升10%	bagrogue.AffixDes19	19	{10}	2			{{1,1,1.1}}	
+502	自身提供的基础属性提升20%	bagrogue.AffixDes19	19	{20}	2			{{1,1,1.2}}	
+503	自身提供的基础属性提升30%	bagrogue.AffixDes19	19	{30}	2			{{1,1,1.3}}	
+504	自身提供的基础属性提升50%	bagrogue.AffixDes19	19	{50}	2			{{1,1,1.5}}	
+511	自身提供的天赋点提升10%	bagrogue.AffixDes20	20	{10}	2			{{1,2,1.1}}	
+512	自身提供的天赋点提升20%	bagrogue.AffixDes20	20	{20}	2			{{1,2,1.2}}	
+513	自身提供的天赋点提升30%	bagrogue.AffixDes20	20	{30}	2			{{1,2,1.3}}	
+514	自身提供的天赋点提升50%	bagrogue.AffixDes20	20	{50}	2			{{1,2,1.5}}	
+521	自身提供的基础属性和天赋点提升10%	bagrogue.AffixDes21	21	{10}	2			{{1,1,1.1},{1,2,1.1}}	
+522	自身提供的基础属性和天赋点提升20%	bagrogue.AffixDes21	21	{20}	2			{{1,1,1.2},{1,2,1.2}}	
+523	自身提供的基础属性和天赋点提升30%	bagrogue.AffixDes21	21	{30}	2			{{1,1,1.3},{1,2,1.3}}	
+524	自身提供的基础属性和天赋点提升50%	bagrogue.AffixDes21	21	{50}	2			{{1,1,1.5},{1,2,1.5}}	
+531	使周围物件提供的基础属性提升10%	bagrogue.AffixDes22	22	{10}	2			{{2,1,1.1}}	
+532	使周围物件提供的基础属性提升20%	bagrogue.AffixDes22	22	{20}	2			{{2,1,1.2}}	
+533	使周围物件提供的基础属性提升30%	bagrogue.AffixDes22	22	{30}	2			{{2,1,1.3}}	
+534	使周围物件提供的基础属性提升50%	bagrogue.AffixDes22	22	{50}	2			{{2,1,1.5}}	
+541	使周围物件提供的天赋点提升10%	bagrogue.AffixDes23	23	{10}	2			{{2,2,1.1}}	
+542	使周围物件提供的天赋点提升20%	bagrogue.AffixDes23	23	{20}	2			{{2,2,1.2}}	
+543	使周围物件提供的天赋点提升30%	bagrogue.AffixDes23	23	{30}	2			{{2,2,1.3}}	
+544	使周围物件提供的天赋点提升50%	bagrogue.AffixDes23	23	{50}	2			{{2,2,1.5}}	
+551	使周围物件提供的基础属性和天赋点提升10%	bagrogue.AffixDes24	24	{10}	2			{{2,1,1.1},{2,2,1.1}}	
+552	使周围物件提供的基础属性和天赋点提升20%	bagrogue.AffixDes24	24	{20}	2			{{2,1,1.2},{2,2,1.2}}	
+553	使周围物件提供的基础属性和天赋点提升30%	bagrogue.AffixDes24	24	{30}	2			{{2,1,1.3},{2,2,1.3}}	
+554	使周围物件提供的基础属性和天赋点提升50%	bagrogue.AffixDes24	24	{50}	2			{{2,1,1.5},{2,2,1.5}}	
+601	“无人机”攻击速度翻倍	bagrogue.RelicAffixDes31	25		1		{720120003}		
+602	额外召唤一个“无人机”	bagrogue.RelicAffixDes32	26		1		{720120004}		
+603	【宝石】的伤害增加50%	bagrogue.RelicAffixDes3	27	{50}	1		{701100008}		
+604	15米范围内的敌人，全类型抗性减少30%	bagrogue.RelicAffixDes4	28	{20}	1	{7011096,1}			
+605	触发【甲胄】时，同时对目标周围造成范围伤害	bagrogue.RelicAffixDes5	29		1		{701100012}		
+606	回复造成伤害的{1}%	bagrogue.TalentDes5	30	{1}	1	{7011049,1}			
+607	对生命值大于70%的敌人，最终伤害提升30%	bagrogue.RelicAffixDes7	31	{30}	1	{7011094,1}			
+608	每次换弹后，下一次射击，必定暴击	bagrogue.RelicAffixDes8	32		1	{7011095,1}			
+609	【流血】叠满后，非首领目标立即死亡	bagrogue.RelicAffixDes9	33		1		{701100011}		
+610	最大【流血】层数-3，每层伤害翻倍	bagrogue.RelicAffixDes10	34	{5}	1		{701100010}		
+611	单次受到的伤害，最多不会超过最大生命的30%	bagrogue.RelicAffixDes11	35	{10}	1	{7011082,1}			
+612	生命值低于50%时，获得相当于50%最大生命值的护盾，持续到战斗结束，每场战斗只能触发一次	bagrogue.RelicAffixDes12	36	{50}	1	{7011083,1}			
+613	无需高热类型伤害，其他类型伤害也能触发【远古科技】	bagrogue.RelicAffixDes13	37		1		{720120001}		
+614	【远古科技】不再触发炎爆，灼烧伤害提升至300%。	bagrogue.RelicAffixDes33	38	{300}	1		{720120002}		
+615	【雷电】只对范围内最近的人造成伤害，但伤害翻倍	bagrogue.RelicAffixDes15	39		1		{701100003}		
+616	【雷电】的触发间隔变更为{1}秒 (浮点数)	bagrogue.RelicAffixDes16	40	{2}	1		{701100004}		
+617	对 BOSS 造成 低温伤害时，使其受到的伤害增加{1}%，持续10s。	bagrogue.RelicAffixDes34	41	{20}	1	{7201208,1}			
+618	无需低温类型伤害，其他类型伤害也能触发【风雪】	bagrogue.RelicAffixDes18	42		1		{701100006}		
+619	背包内每有一个【学者】物品，射击速度增加{1}%（出后面的效果，叠加层数由系统功能去做）	bagrogue.RelicAffixDes19	43	{10}	3			{10}	{7011104,1}
+620	背包内每有一个【学者】物品，技能伤害增加{1}%（出后面的效果，叠加层数由系统功能去做）	bagrogue.RelicAffixDes20	44	{20}	3			{10}	{7011105,1}
+621	生机的篆刻经验超过上限时，每超出1点，附属单位强度+1	bagrogue.RelicAffixDes21	45	{1.5}	4			{1}	{7201209,1}
+622	甲胄的篆刻经验超过上限时，每超过1点，增加30点防御	bagrogue.RelicAffixDes22	46	{10}	4			{2}	{7201211,1}
+623	背包中每有一个【锋刃】，射击伤害增加15%	bagrogue.RelicAffixDes23	47	{10}	3			{11}	{7201210,1}
+624	风雪的篆刻经验超过上限时，每超出1点，低温类型伤害+1.5%	bagrogue.RelicAffixDes24	48	{1}	4			{8}	{7201214,1}
+625	远古科技篆刻经验超过上限时，每超出1点，高热类型伤害+1.5%	bagrogue.RelicAffixDes25	49	{1}	4			{7}	{7201204,1}
+626	闪电的篆刻经验超过上限时，每超过1点，电击类型伤害+1.5%	bagrogue.RelicAffixDes26	50	{1}	4			{9}	{7201215,1}
+627	击败敌人时，15%概率掉落补给包：回自身生命值20%的血量	bagrogue.RelicAffixDes27	51	{20}	1	{7201209,1}			
+628	神秘礼器的篆刻经验超过上限时，每超过1点，增加1%伤害	bagrogue.RelicAffixDes28	52	{1}	4			{6}	{7201217,1}
+629	宝石的篆刻经验超过上限时，每超过1点，生命上限+1%	bagrogue.RelicAffixDes29	53	{1}	4			{3}	{7201218,1}
+630	猎枪的篆刻经验超过上限时，每超过1点，暴击伤害增幅+2%	bagrogue.RelicAffixDes30	54	{1.5}	4			{4}	{7201219,1}

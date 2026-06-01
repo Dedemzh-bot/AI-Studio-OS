@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+auto_1	我……我刚才怎么了？是不是她又出现了……	我……我剛才怎麼了？是不是她又出現了……	え……今、私どうなっていました？彼女がまた出てましたよね……	방금… 어떻게 된 거죠? 그녀가 나타났던 걸까요?…	What... happened to me? Was it her again...?						0	
+auto_26259	我们需要立刻转移。	我們需要立刻轉移。	すぐに移動しないといけません。	즉시 이동해야 해요.	We need to move, ASAP.						0	
+auto_13941	分析员，李上尉建议，在转移之前最好先摧毁降临团的那些宣传机器。	分析員，李上尉建議，在轉移之前最好先摧毀降臨團的那些宣傳機器。	分析員さん、李大尉の提案ですが、移動する前にまず降臨団の宣伝マシンを壊しておいては？	분석가님, 이대위님 의견대로 옮기기 전에 먼저 강림단 홍보 장치부터 처리하는 게 좋을 것 같아요.	Adjutant, Captain Li advised that it's best we destroy the Adventists' propaganda machines before leaving.						0	
+auto_20513	它会暴露我们的位置，刚才也有可能是它引来了泰坦。	它會暴露我們的位置，剛才也有可能是它引來了泰坦。	それでは私たちの位置が見つかりますし、さっきもそれのせいでタイタンを引き寄せたのかもしれません。	저게 저희 위치를 폭로할 뿐만 아니라 타이탄까지 몰고 올 수 있거든요.	Those machines expose our location, and it's likely they were what summoned the Titans earlier.						0	

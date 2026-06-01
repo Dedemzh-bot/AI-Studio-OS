@@ -1,0 +1,38 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员你来了？星期三她们刚走哟。	分析員你來了？星期三她們剛走喔。	分析員も来てたの？リフたちは今帰ったばかりだよ。	분석가, 왔구나? 리브 일행은 방금 떠났어.	You're here, Adjutant? Wednesday and them just left.						0	
+b-1											0	
+2	说正事。	說正事。	本題に入って。	본론부터 말해줘.	Let's get down to business.						0	
+3	看你愁眉苦脸的，芙提雅老师想活跃活跃气氛嘛。	看你愁眉苦臉的，芙提雅老師想活躍活躍氣氛嘛。	浮かない顔してるから、このフリティア先生が場を盛り上げてあげる。	표정이 너무 굳어있길래 분위기를 조금 띄어보려던 것뿐이야…	I, Professor Fritia, just want to liven things up after seeing your troubled expression.						0	
+4	经典的选择题，一个好消息和一个坏消息。	經典的選擇題，一個好消息和一個壞消息。	お決まりの選択肢で、良い知らせと悪い知らせがある。	선택지를 줄게. 좋은 소식과 나쁜 소식이 있는데, 어떤 소식부터 알려줄까?	Here's a classic multiple-choice question for you — do you want to hear the good news or the bad news?						0	
+e-2											0	
+5	好消息。	好消息。	良い知らせから。	좋은 소식.	Good news.						0	
+6	我拆解完了。你们拿回来的装置，核心果然是一些经过提炼的泰坦物质。	你們拿回來的裝置我已經拆解完畢，核心果然是一些經過提煉的泰坦物質。	解体が終わったよ。持ち帰ってきた装置のコアはやっぱり、少し精錬されたタイタン物質だった。	해체는 다 마쳤어. 너희들이 가져왔던 장치의 코어는 역시나 제련된 타이탄 물질로 이루어졌던 거야.	I finished dismantling the device you guys brought back. Its core is made up of some sort of refined Titagen.						0	
+7	我们之前的推测果然没错。	我們之前的推測果然沒錯。	この前の推測は間違ってない。	우리가 전에 했던 추측 대로야.	Our suspicions turned out to be correct.						0	
+8	这种装置利用了泰坦物质对精神方面产生影响的特质，再通过自身机械结构达成影响甚至放大情绪的效果。	這種裝置利用了泰坦物質對精神方面產生影響的特性，再透過自身機械結構造成影響甚至放大情緒的效果。	こういう装置は、タイタン物質が精神面に与える影響の特性を利用してる。そして、あの機械的構造によって、うまく影響を与えて感情を増幅させることができたんだ。	해당 장치는 타이탄 물질이 감정에 영향을 주는 특성을 이용했고, 장치 자체가 기계 구조라는 것을 이용해 감정을 촉진시켰어.	The device uses aspects of Titagen that affect mental functions. Through its own mechanical structure, it can affect or even amplify emotions.						0	
+9	坏消息。	壞消息。	悪い知らせは？	나쁜 소식.	Bad news.						0	
+10	未知泰坦的出现肯定和这个装置肯定脱不开关系。	未知泰坦的出現肯定和這個裝置有關。	未知のタイタンの出現は、きっとこの装置と関係してる。	미지의 타이탄이 나타난 건 분명 해당 장치와 연관이 있을 거야.	The appearance of that unknown Titan must have something to do with these devices.						0	
+11	几乎聚集了零区所有居民的明灯新仪、种种骚乱、可以催化情绪的装置、泰坦……未知泰坦……	幾乎聚集了零區所有居民的明燈新儀、種種騷亂、可以催化情緒的裝置、泰坦……未知泰坦……	エリアゼロのほぼ全ての住民を集めた明灯新祭、様々な騒ぎ、感情に影響する装置、タイタン……未知のタイタン……	제로 구역에서 개최한 등불 의식, 소란, 감정을 촉진시켰던 장치, 타이탄… 그리고 미지의 타이탄까지 관련된 걸 모두 모아봤지만…	Nearly all of the residents in the Containment Zone gathered here for the Mingdeng Ritual, riots, devices that can influence people's emotions, Titans... an unknown Titan...						0	
+12	这中间一定有什么联系，我暂时无法得出明确结论。	這中間一定有什麼關聯，我暫時還無法得出明確結論。	これらにはきっと何かの繋がりがある。今のところまだ結論は出せないけど。	어떤 연관이 있는지는 아직까지 결론을 내리지 못했어.	There has to be something connecting all of it, but I still can't make any definite conclusions.						0	
+13	然后……完全查不出制作者。这种技术理应登记在案，但似乎有意被抹掉了存在痕迹。	然後……完全查不出製作者。這種技術理應登記在案，但似乎被人為抹掉了相關痕跡。	そして……製作者のことも、全然分からない。こういう技術は登録されているはずだけど、その痕跡が意図的に消されているみたい。	그리고… 누가 이런 걸 만들었는지도 모르겠고. 원래대로면 이런 기술은 사용 흔적이 남아있어야 하는데 일부러 흔적을 지운 거 같아.	Furthermore... we have no idea who's behind it. This technology should be documented, but it looks like it was intentionally wiped clean.						0	
+14	我能掌握的信息就这些咯。	我能掌握的資訊就只有這些啦。	私が持っている情報はこれだけだよ。	내가 알아낸 정보는 이것뿐이야.	That's all the information I have.						0	
+b-3											0	
+15	听你这样一说，有点像……	聽你這麼一說，有點像……	そう言われると、なんだか……	듣다 보니까 한 가지 떠오른 게 있는데…	When you say it like that, it almost sounds like...						0	
+16	布里希嘉曼。	布里希嘉曼。	ブリーシンガメンに似ている。	브리히가만.	Brisingamen.						0	
+b-4											0	
+17	那，那个泰坦呢？	那，那個泰坦呢？	じゃあ、あのタイタンは？	맞아… 그 타이탄은?	What about that Titan?						0	
+18	虽然不想承认，我的确查不到任何相关资料，甚至，我连是否该称呼那家伙为“泰坦”都不确定。	雖然不想承認，但我的確查不到任何相關資料，甚至，我都不確定是否該稱呼那傢伙為“泰坦”。	認めたくないけど、確かに何の資料も見つらなかった。そして、あいつを「タイタン」と呼んでいいのかさえも分からない。	인정하기 싫지만 관련 자료를 하나도 찾을 수 없었어. 심지어 그걸 '타이탄'이라고 불러야 하는 건지도 잘 모르겠고.	I don't want to admit it, but I can't find anything. I'm not even sure if we could call that thing a "Titan."						0	
+19	只有这个，事后从我从辰星和现场居民口中得到了调查录音。	只有這個，事後我從辰星和現場居民口中得到了調查錄音。	事件の後、辰星と現場の住民から聞いた、この調査録音しかないの。	그리고 이거는 사건 후에 수성하고 현장에 있던 주민들을 통해 얻은 조사 녹음 파일이야.	This is all I've got — a recording of Chenxing and the residents at the scene.						0	
+b-5											0	
+20	那些居民，把那个泰坦叫成“祟”。	那些居民，把那個泰坦叫成“祟”。	あの住民たちは、タイタンのことを「祟り」と呼んでいる。	주민들은 그 타이탄을 '악령'이라고 부르던데.	Those residents called the Titan "Fiend."						0	
+21	传说中的灾兽嘛，好像也符合认知。	傳說中的災獸嘛，好像也符合認知。	明灯祭の伝説の化け物の名前だよ、言い得て妙だね。	전설 속에서 전해져 내려오는 재앙 괴수, 우리가 알고 있는 것과 비슷해.	It's not far off from the disaster beasts told of in legends.						0	
+22	决定了，就以这个名字向上汇报吧。	決定了，就用這個名字跟上頭匯報吧。	よし、決めた。この名前で上に報告しよう。	좋아. 결정했어. 상부에는 해당 이름으로 보고해야겠어.	It's settled. I'll report that name to the higher-ups.						0	
+b-6											0	
+23	？！	？！	！？	?!	!?						0	
+b-7											0	
+24	这么迅速吗！	這麼快就決定了嗎！	早くない！？	이렇게 빨리 결정을 한다고!?	Aren't you moving a little fast?						0	
+25	没有采集到任何有效数据，我给它留了个有名字的空档已经不错咯……	在沒有採集到任何有效數據的情況下，我還給它留了個名字就已經不錯囉……	何の有効な情報も手に入らなかったのに、名前付きの枠を残してあげたんだから、感謝するべきだよ……	아무런 데이터도 얻지 못했어. 이름이 있는 빈 파일을 남긴 것도 얼마나 힘들었는데…	I wasn't able to collect any data. Giving it a name is the least I can do...						0	
+26	况且，还是不要再遇到比较好。	況且，還是不要再遇到比較好。	それに、二度と遭遇しない方がいい。	그런 건 다시는 만나고 싶지 않아.	Anyway, I hope we don't run into it again.						0	
+b-8											0	
+27	……未知的泰坦会越来越多吗？	……未知的泰坦會越來越多嗎？	……未知のタイタンは増えていくのか？	… 미지의 타이탄이 앞으로도 더 많아질까?	...Are we going to face even more unknown Titans?						0	
+28	谁也不敢保证的哦。	誰也不敢保證的哦。	それは……誰にもわからないことだよ……	그건 아무도 모르는 일이지.	There's no way to know.						0	

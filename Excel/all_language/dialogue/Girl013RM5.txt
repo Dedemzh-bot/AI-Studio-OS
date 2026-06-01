@@ -1,0 +1,62 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	任务空暇正在读书消磨时间的我，突然听到了轻巧的敲门声。	任務空暇正在讀書消磨時間的我，突然聽到了輕巧的敲門聲。	ミッションがなく暇つぶしに本を読んでいたら、突然、ドアを軽くノックする音が聞こえてきた。	마침 미션이 없어 여유롭게 독서를 하며 시간을 때우려던 중, 갑자기 누군가 노크를 하는 소리가 들려왔다.	I was reading to pass the time between missions when I heard a soft knock on my door.						0	
+b-1											0	
+2	请进。	請進。	どうぞ。	들어오세요.	Come in.						0	
+3	分析员，你的报恩干洗袋到了。	分析員，你的報恩乾洗袋到了。	分析員さん、恩返しのクリーニングバッグをお届けに来ました。	분석가님, 이번엔 제가 배달 왔어요.	Adjutant, here's your dry-cleaning bag. I didn't forget I owed you.						0	
+b-2											0	
+4	竟然真的送来了！	竟然真的送來了！	まさか本当に届けに来るなんて！	어떻게… 정말 왔네!	You really brought it!						0	
+5	嘻嘻，我定了专门的备忘提醒。	嘻嘻，我特地設定了備忘提醒。	ふふ、専用のリマインダーを設定したからね。	헤헤헤… 특별히 알람까지 설정해 뒀었거든요.	Hehe, I made myself a special reminder.						0	
+6	这是我第一次来分析员的宿舍，感觉还不错嘛！	這是我第一次來分析員的宿舍，感覺還不錯嘛！	分析員の寮は初めてだけど、なんか悪くないね！	분석가님의 숙소는 처음 와보는 거 같은데, 굉장히 좋네요!	It's my first time seeing your dorm, Adjutant. It feels rather nice!						0	
+b-3											0	
+7	多亏我勤于打扫。	多虧我勤於打掃。	清潔を心がけているからな。	청소를 열심히 해둔 보람이 있네.	Probably because I've been working hard cleaning it lately.						0	
+8	这次来其实还是有一件事拜托分析员的。	這次來其實還是有一件事拜託分析員的。	実は、分析員さんに頼みたいことがあって、ここに来たの。	실은 분석가님한테 부탁하고 싶은 게 있어서 왔어요.	I actually came with a request for you as well, Adjutant.						0	
+9	瑟瑞斯从口袋里掏出一支录音笔，我认出这是上次从莱拉储物柜中拿到的那支。	瑟瑞斯從口袋裡掏出一支錄音筆，我認出這是上次從萊拉置物櫃中拿到的那支。	シーリスはポケットからレコーダーを取り出す。それはこの前ライラのロッカーから取り出したものだ。	세리스는 주머니에서 볼펜 녹음기를 꺼내 들었고, 난 그게 라일라 캐비닛에서 찾은 펜이라는 걸 한눈에 알아챘다.	Siris took a recording device from her pocket, and I noticed it was the one we'd found in Leila's locker.						0	
+b-4											0	
+10	难道……	難道……	まさか……	설마… 함정…?	Don't tell me...						0	
+11	我还是有些忐忑，不知道莱拉会说些什么……	我還是有點忐忑，不知道萊拉會說些什麼……	一体何を言い出すのか、少し不安だ……	라일라가 무슨 말을 했을지 몰라서… 켜기가 조금 불안해서요…	I'm still a bit hesitant to listen. I don't know what kind of things Leila said...						0	
+12	瑟瑞斯少有的表现出犹豫的一面，跟她在战场上的表现大相径庭。	瑟瑞斯很難得展現出了猶豫的一面，跟她在戰場上的表現大相逕庭。	戦場での姿とは全く別人のように、シーリスは珍しく迷いを見せた。	세리스가 이렇게 초조한 모습을 보이는 건 사실 굉장히 드문 일이다. 전장에서의 모습과는 전혀 정반대였다.	It was rare indeed for Siris to appear hesitant, and a stark contrast from her performance on the battlefield.						0	
+13	或许现在，她需要有人给予支持。	或許現在，她需要有人給予支持。	今の彼女には、支えてやる人が必要なのかもしれない。	어쩌면 지금, 그녀는 누군가의 지지가 필요할지도 모른다.	Perhaps what she needed now was support.						0	
+b-5											0	
+14	我们一起来听吧。	我們一起來聽吧。	一緒に聴こうか。	그럼 같이 들어보자.	Let's listen to it together.						0	
+15	可以吗？那我打开了啊？	可以嗎？那我打開了喔？	いいの？じゃ再生するね？	정말요? 그럼 재생할게요?	Can we? I'll turn it on, then.						0	
+16	瑟瑞斯拨动了录音笔的开关，开头是一片沙沙声的电子杂音，大约十几秒后，录音笔内出现一个略显成熟的女子声音。	瑟瑞斯撥動了錄音筆的開關，開頭是一片沙沙聲的電子雜音，大約十幾秒後，錄音筆內出現一個略顯成熟的女子聲音。	シーリスがレコーダーのスイッチを押すと、初めはガサガサとした雑音がして、10秒ほど待つと、少し大人びた女性の声が聞こえた。	세리스는 볼펜 녹음기를 재생했다. 처음에는 지지직거리는 잡음이 들려왔지만, 몇 초 후 성숙한 여성의 목소리가 흘러나왔다.	Siris switched on the recorder. It began with static noise, but after 10 or so seconds, a mature-sounding woman's voice could be heard from the recorder.						0	
+17	嗨，瑟瑞斯，最近还好吗，在战斗中没有逞强吧？我就知道你会找到这根录音笔的，是不是已经忘记我了？	嗨，瑟瑞斯，最近還好嗎，在戰鬥中沒有逞強吧？我就知道你會找到這支錄音筆的，是不是已經忘記我了？	やっほー、シーリス。久しぶり。元気にしてる？あんまり無茶しないでね。あなたならきっと、このレコーダーを見つけると思った。ってか、私のことすっかり忘れてたりしてない？	안녕, 세리스. 잘 지내? 전장에서 또 무리하면서 싸우고 다니는 건 아니지? 네가 볼펜 녹음기를 찾을 줄 알고 있었어. 이미 날 잊었겠지?	Hey, Siris. Are you doing okay? I hope you're not pushing yourself too much on the battlefield. I knew you'd eventually find this recorder. Have you forgotten me already?						0	
+18	本来不应该这么快告别的，毕竟我才入职没多久嘛，但实在是家中出了点状况。	本來不應該這麼快道別的，畢竟我才入職沒多久嘛，但實在是很無奈，因為家中有一些狀況。	まだ入社して間もないのにね。こんなに早く別れを告げるつもりじゃなかったんだけど、実家にちょっと事情があってね。	온 지도 얼마 안 돼서 이렇게 빨리 헤어질 필요는 없었는데, 집에 갑자기 일이 생겨버려서.	I never meant to say goodbye so soon, as I haven't even been in this position for very long. Something's come up at home that I need to deal with though.						0	
+19	之前跟你说过我的父亲，最近已经逐渐不记事了，医生说是记忆受损，但是发展速度这么快，可能与之前泰坦物质泄漏脱不开干系。	之前跟你說過，我的父親最近已經漸漸記不住事情了，醫生說是記憶受損，但是惡化速度非常快，很可能是之前泰坦物質外洩所造成的。	前に話した父のことだけど、最近どんどん物覚えが悪くなってきて……医者には記憶障害と言われたんだけど、こんなに早く発症したのは以前のタイタン物質流出と関係があるかもしれない。	요새 아빠가 계속해서 기억을 잊어버린다고 했잖아. 의사는 기억력이 손상돼서 그렇다 하지만, 사실은 타이탄 물질 때문인 것 같아.	I told you about my dad, right? His memory is getting worse and worse. The doctor said it's memory impairment, but given how fast it's come on, it probably has something to do with that Titagen leakage.						0	
+20	海姆达尔部队的工作让我无法分身去照顾他，只好申请离职了，好在一切顺利。	海姆達爾部隊的工作讓我無法分身去照顧他，只好申請離職了，好在一切順利。	ヘイルダム部隊の仕事をしていると、父の面倒を見られなくなるから、退職を申請することにした。幸い、すべてうまくいった。	헤임달 부대에 있으면 아빠를 돌볼 시간이 없을 것 같아서… 이렇게 갑자기 퇴사 신청을 하게 됐어. 그래도 모든 게 순조로워서 다행이야.	Working on the Heimdall Force made it difficult to take care of him, so I had to resign. Fortunately, everything worked out.						0	
+21	离开前还是对你不放心，所以留了这支录音笔。你会来找它，肯定是对忘记我这件事耿耿于怀吧……	離開前還是對你不放心，所以留了這支錄音筆。你會來找它，肯定是對忘記我這件事耿耿於懷吧……	ただ、あなたのことが心配だから、このレコーダーを残すことにしたんだ。これを見つけたのも、私のことを思い出したくて探してくれたのよね……	떠나기 전에 네가 많이 걱정돼서 이렇게 볼펜 녹음기를 준비했어. 아마 이걸 찾은 걸 보니 날 잊은 것 때문에 마음고생 좀 했나 봐…	I was still a little concerned about you, so I left this recorder here. Given that you found it, you must be struggling with forgetting me...						0	
+22	回忆这东西，发生过就是发生过的，哪怕你忘记了，我也还记得，哪怕我也忘记了，所有人都忘记了，也不会改变它存在过的事实呀。	回憶這東西，發生過就是發生過的，哪怕你忘記了，我也還記得，哪怕我也忘記了，所有人都忘記了，也不會改變它存在過的事實呀。	思い出というものはね、一度存在したら消えないものよ。あなたが忘れても、私はまだ覚えている。たとえ私まで忘れて、みんな忘れたとしても、それが存在していた事実は変わらない。	일어난 일은 일어난 일일뿐이야. 네가 잊었어도, 내가 잊었어도, 그리고 모두가 잊었어도, 그것이 존재했었다는 사실은 변하지 않아.	Things that happened don't cease to exist just because you lose the memories. You might forget, but I still remember. Even if I forget, even if everyone forgets, it won't change the fact that it really did happen.						0	
+23	瑟瑞斯，你是个坚强的孩子，不要再因为这种事内疚了。	瑟瑞斯，你是個堅強的孩子，不要再因為這種事而感到內疚了。	シーリス。あなたは強い子だから、もうこんなことで悩まなくていい。	세리스, 넌 강한 아이니까 결코 이런 소소한 걸로 자책할 필요 없어.	Siris, you're a strong girl. Don't stress yourself over this any longer.						0	
+24	你要做的，就是接受这些遗忘，然后昂首挺胸的走下去。	你要做的，就是接受已經遺忘的事實，然後昂首挺胸的走下去。	忘れることを受け入れて、胸を張って進めば良い。	그저 잊는 걸 그대로 받아들이고 당당하게 가슴을 펴고 앞으로 나아가면 돼.	What you need to do is embrace forgetting, hold your head high, and keep moving forward.						0	
+auto_14902	你看，你救了我的命，现在，你一定拯救了更多人的命，你要为自己感到骄傲才对。	你看，你救了我的命，現在，你一定拯救了更多人的命，你要為自己感到驕傲才對。	ほら、だってあなたは私の命を救ったんだよ。今はもっとたくさんの人を救ってる。もっと自分を褒めなきゃ。	봐, 네가 내 목숨을 구했고, 이제 너는 더 많은 사람의 생명을 구했을 것이지, 너 자신을 자랑스럽게 여겨야 한다.	See? You saved my life. And you've surely saved even more lives. You should be proud of yourself.						0	
+25	好了，就说这些吧。等你恢复记忆的时候，要早早把我们这些老朋友从那个“已封存”文件夹中放出来呀！	好了，就說這些吧。等你恢復記憶的時候，要早早把我們這些老朋友從那個“已封存”資料夾中放出來呀！	まあ、そんなところかな。記憶が戻ったら、早く私たちを「Sealed」のフォルダから出してね！	자, 그럼 이쯤 하고, 기억을 회복하게 되면 서둘러서 우리를 '봉인' 파일에서 꺼내줘!	Alright, that's about it. Remember to release us old friends from your "archive" folder after you restore your memory!						0	
+26	随着“滴”的一声，录音笔上的音频播放完毕了。瑟瑞斯将录音笔捧在胸前，久久没有动作……	隨著“滴”的一聲，錄音筆中的語音播放完畢。瑟瑞斯將錄音筆捧在胸前，久久沒有動作……	「ビッ」という音とともに、レコーダーの再生が終了した。シーリスは長い間、レコーダーを胸に抱いていた……	'삑'하는 소리와 함께 볼펜 녹음기에 녹음되어 있던 목소리가 멈췄고, 세리스는 볼펜 녹음기를 가슴 앞에 움켜쥔 채 오랫동안 움직이지 않았다.	There was a click, and the recorder finished playing. Siris held the recorder to her chest and stayed still for quite some time...						0	
+b-6											0	
+27	看来前同事也放心不下你呀……	看來前同事也很關心你呀……	元同僚も、君のことを心配してるみたいだね……	옛 동료가 걱정을 많이 한 모양이네…	I guess our former colleague really felt bad leaving you, huh...						0	
+28	听到我的声音，瑟瑞斯长长呼出一口气，缓慢的睁开了眼睛，我从她的眼神中，已经看不到之前的迷茫和内疚。	聽到我的聲音，瑟瑞斯呼出長長一口氣，緩慢的睜開了眼睛，我從她的眼神中，已經看不到之前的迷茫和內疚。	声をかけられたシーリスは、長く息を吐いては、ゆっくりと目を開けた。その眼差しには、以前に感じた戸惑いや後ろめたさはもうすっかり消えていた。	내 목소리에 세리스는 깊을 한숨을 내쉬며 천천히 눈을 떴고, 그녀의 눈빛에서는 더 이상 막막함이나 죄책감이 느껴지지 않았다.	Hearing my voice, Siris let out a long sigh and gradually opened her eyes. In her gaze, I saw that the confusion and inner turmoil were no longer there.						0	
+29	真好……	真好……	良かった……	정말 다행이에요…	I'm so glad...						0	
+30	瑟瑞斯又做了一次深呼吸，并且长长的伸了一个懒腰，然后抬头看向了我。	瑟瑞斯又做了一次深呼吸，並且大大的伸了一個懶腰，然後抬頭看向了我。	シーリスはもう一度深呼吸をし、長く伸びをしてから、私を見上げた。	세리스는 심호흡을 한 뒤 기지개를 켰고, 고개를 들어 날 쳐다봤다.	Siris let out another deep breath, took a deep stretch, then raised her head and looked at me.						0	
+31	谢谢你，分析员，陪我找到这根录音笔，还陪我听完这段录音。	謝謝你，分析員，陪我找到這支錄音筆，還陪我聽完這段錄音。	ありがとう、分析員。一緒にこのレコーダーを見つけてくれて、この録音に付き合ってくれて、本当にありがとう。	고마워요, 분석가님. 같이 볼펜 녹음기를 찾고, 녹음 내용까지 들어줘서.	Thank you, Adjutant, for helping me find this recording and listening to it with me.						0	
+b-7											0	
+32	可惜没帮到什么忙。	可惜沒幫到什麼忙。	私が特別何かをしたわけじゃないけどね。	별로 내가 도움을 준 것도 없는데 뭐.	I'm sorry I couldn't do anything more.						0	
+33	你已经帮的够多啦！	你已經幫的夠多啦！	分析員が一緒にいてくれて、いつも支えてくれて、私は幸せ者なんだ。	당신은 이미 충분히 많이 도와줬어요!	You've truly done more than enough for me!						0	
+34	说完，瑟瑞斯就冲到面前给我了一个大大的拥抱，让我有些措手不及。	說完，瑟瑞斯就衝到我面前給了我一個大大的擁抱，讓我有點措手不及。	そう言って、シーリスが駆け寄ってきて、私を大きく抱きしめてくれた。	세리스는 말이 말치고는 달려와 날 껴안았고, 난 당황했다.	After saying that, Siris rushed up to me and gave me a great big hug, catching me unaware.						0	
+35	我决定了，为了感谢分析员你，我要做一件重要的事。	我決定了，為了感謝分析員你，我要做一件很重要的事。	私、分析員に感謝するために、大事なことをやるって決めた。	분석가님한테 고마움을 전하기 위해 한 가지 중요한 일을 하기로 결정했어요.	I've made up my mind. I'm going to do something very important to thank you.						0	
+36	跟我来！	跟我來！	ついてきて！	절 따라오세요!	Come with me!						0	
+b-8											0	
+37	诶？	欸？	え？	네? 아…	Eh?						0	
+38	没等我反应过来，就被瑟瑞斯拽出了自己宿舍，拽进了她的宿舍。	還沒等我反應過來，就被瑟瑞斯從自己的房間拉進了她的房間。	私が反応する間もなくシーリスに引きずり出され、そのまま彼女の寮へと連れて行かれた。	내가 반응을 하기도 전에 세리스는 날 데리고 그녀의 숙소로 데리고 왔다.	Without any time to respond, I was dragged out of my dorm and all the way into hers.						0	
+39	个人终端启动的声音后，屏幕上出现了瑟瑞斯的记忆备份，只见她轻车熟路的点击了几下，就来到了存放关于我记忆的“分析员”文件夹。	她啟動個人終端，螢幕上出現了瑟瑞斯的記憶備份，只見她熟練的點選了幾下，就來到了存放關於我記憶的“分析員”資料夾。	個人端末の起動音がすると、シーリスの記憶のバックアップが画面に表示された。彼女は慣れた動きで数回クリックし、私に関する記憶が保存されているフォルダ「Analyst」に辿り着いた。	단말기가 작동되는 소리와 함께 화면에는 세리스의 기억 저장소 파일이 나타났고, 그녀는 민첩하게 나에 대한 기억을 '분석가' 파일에 저장했다.	Following the sound of her personal terminal starting up, Siris' memory backups appeared on the screen. She clicked through them expertly before arriving at my folder, under "Adjutant."						0	
+40	随后瑟瑞斯又操作了下，文件夹标签上，星星符号前面多了“特殊”两个字。	隨後瑟瑞斯又操作了一下，資料夾標籤上，星星符號前面多了「特殊」兩個字。	それからいくつか操作して、私の名前で書かれたフォルダーに「特別」「重要」のタグが現れた。	이어 세리스는 무언가를 조작했고, 폴더 라벨의 별표 앞에 '특수' 표기했음을 볼 수 있었다.	Next, with simple, efficient motions, she added the keyword "Special" to the folder before the star.						0	
+41	这是我之前就建好的特殊档案，这是唯一一份，是只属于分析员你的。	這是我之前就建好的特殊檔案，這是唯一一份，是只屬於分析員你的。	これは、私が初めて作った、特別なプロフィール。分析員、あなただけのためのもの。	이건 제가 처음으로 만든 특수 폴더에요. 분석가님만을 위한 오직 하나뿐인 폴더죠.	This is the first special folder I've ever created. It belongs to you and you alone, Adjutant.						0	
+auto_20624	现在我将它全部展示给你看。	現在我將它全部展示給你看。	今は、全部あなたに見せるよ。	이제 분석가님께 전부 보여드리겠어요.	I want to show the entire thing to you now.						0	
+42	如果有一天，我像忘记莱拉一样把分析员忘记了……	如果有一天，我像忘記萊拉一樣把分析員忘記了……	いつか、ライラを忘れたように、分析員のことも忘れてしまったら……	만약 어느 날 제가 분석가님을 라일라처럼 잊는 날이 오면…	If, one day, I end up forgetting you, Adjutant, just like I forgot Leila, then...						0	
+b-9											0	
+43	请微笑着封存它。	請微笑著封存它。	そのときは、笑ってこれをしまっておいてよ。	그때는 웃으면서 그 폴더를 봉인해 줘.	Then please seal my folder away with a smile.						0	
+44	瑟瑞斯笑了笑，眼睛湿润清澈。	瑟瑞斯笑了笑，她的眼睛微微濕潤但卻無比清澈。	シーリスは、潤んだ瞳で笑顔を見せた。	세리스는 미소를 지었고, 눈가도 촉촉해졌다.	Siris gave a gentle laugh, her eyes moist.						0	
+45	不，标记“特殊”就意味着我永远不会封存这份档案。	不，標記「特殊」意味著我永遠不會封存這份檔案。	うん、約束する。もしいつか分析員のことまで忘れたとしたら、笑顔で、この特別なプロフィールをしまうね。	아니요, '특수' 표기는 이 파일을 영원히 봉인하지 않겠다는 뜻이에요.	No, marking this folder "special" means I'll never seal it.						0	
+auto_8469	我不会忘了你，你也不会让我忘记你。	我不會忘了你，你也不會讓我忘記你。	もうあなたを忘れたりしない。あなたも、私を忘れさせようとしないだろうし。	전 당신을 잊지 않을 것이고 당신도 내가 당신을 잊게 하지 않게 할 것입니다.	I won't forget you, and you won't let me forget you.						0	
+auto_22969	瑟瑞斯珍而重之地注视着这份档案，安静地等着我查阅。	瑟瑞斯珍而重之地注視著這份檔案，安靜地等我查閱。	シーリスは大事そうにファイルを見つめている。私に読まれるのを静かに待っているようだ。	세리스는 이 파일을 소중히 여기며 내가 열람할 때까지 조용히 기다리고 있었다.	Siris looked at the folder with a cherishing expression, quietly waiting for me to look over it.						0	
+auto_16998	这是瑟瑞斯所珍藏的关于我们二人的独家记忆。	這是瑟瑞斯所珍藏的關於我們兩人的獨家記憶。	シーリスが大事に保存していた、私達ふたりだけの記憶。	세리스가 간직하고 있는 우리 둘만의 특별한 기억이다.	They were memories that belonged to Siris and me alone, and she clearly treasured them.						0	
+auto_23813	也是我与瑟瑞斯之间的，一个永恒的约定。	也是我與瑟瑞斯之間的，一個永恆的約定。	同時に、私がシーリスとした永遠の約束である。	이건 나와 세리스 사이의 영원한 약속이기도 하다.	There was also an eternal agreement between us two.						0	

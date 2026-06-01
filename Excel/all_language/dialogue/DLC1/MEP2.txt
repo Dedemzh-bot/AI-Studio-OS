@@ -1,0 +1,59 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	抓住你了！	抓到你了！	捕まえた！	잡았다!	Got you!						0	
+2	老夫面前你还能往哪跑？哎，怎么晕了，也太不禁打了。	老夫面前你還能往哪跑？哎，怎麼暈了，也太不禁打了。	わしの前でどこへ逃げる気だ？なんじゃ、気絶したのか？骨がないのう。	내 앞에서 도망갈 수 있을 거 같아? 음? 기절했군… 이 정도도 못 버틴다고?	You think you can run from your elder? ...Eh? He fainted? What a weakling!						0	
+3	先把他带回去再问个清楚。	先把他帶回去再問個清楚。	まず連れて帰ってから尋問しよう。	일단 데려가서 자초지종 물어보죠.	Let's take him back and ask for an explanation first.						0	
+4	等一下！	等一下！	待ってください！	잠시만요!	Wait a second!						0	
+5	这是什么？	這是什麼？	これは何ですか？	이게 뭐죠?	What's this?						0	
+6	一个深色的方盒子从伪装者身上掉了出来。	一個深色的方盒子從偽裝者身上掉了出來。	タグ社員に偽装した犯人の体から、暗い色をした四角い箱が落ちた。	짙은 색을 띤 상자가 방금 잡은 사칭범 몸에서 떨어졌다.	A dark, square box slipped out from somewhere on the impostor's person.						0	
+7	别看我，老夫一碰到这种高科技玩意儿就头疼。	別看我，老夫一碰到這種高科技玩意兒就頭痛。	こっちを見るな。ハイテクなものに触れると、頭が痛くなるんじゃ。	날 봐도 소용없어. 늙은이는 이런 최첨단 기술을 보면 머리가 아프거든.	Don't look at me! These high-tech gadgets give your elder a headache.						0	
+8	像是什么装置，一时看不出是什么质地。	像是什麼裝置，一時也看不出是什麼材質。	何かの装置のようだが……よくわからないな。	무슨 장치 같아 보이는데, 이렇게 봐서는 무슨 장치인지 잘 모르겠네요.	Looks like some kind of mechanical device, but I can't tell what it's made of.						0	
+9	这东西很轻，也没有任何机械运作的噪音，奇怪……	這東西很輕，也沒有任何機械運作的噪音，奇怪……	とても軽くて、機械的な作動音もない、妙だな……	엄청 가벼워요. 기계가 작동하는 소리도 전혀 들리지 않고요. 이상하네요…	It's pretty light and not making any noise. Strange...						0	
+10	难道安保机械人的异常是因为它？	難道保全機械人的異常是因為它？	まさか警備ロボの異常はこいつのせいか？	설마 보안 로봇이 이상 현상을 보였던 게 이것 때문은 아니겠죠?	Could it be responsible for the security robot anomaly?						0	
+11	我来看下。	我來看下。	私が確認してみます。	제가 한번 확인해 볼게요.	Let me see it.						0	
+12	喂！	喂！	ちょっと！	잠깐만요!	Hey!						0	
+13	辰星突然对装置进行重击。	辰星突然重擊裝置。	辰星はいきなり装置に打撃を加えた。	수성은 갑자기 해당 장치를 아주 강하게 내리친다.	Chenxing suddenly struck the device.						0	
+14	看来无法轻易破坏。	看來無法輕易破壞。	どうやら簡単には破壊できないようです。	쉽게 부서지지도 않네요.	Doesn't look like it can be broken easily.						0	
+15	哈哈，你这丫头，有点意思！	哈哈，你這丫頭，有點意思！	はは、面白い娘じゃのう！	하하하, 보기보다 재미있는 아가씨네!	Hah! You're quite an interesting little lass!						0	
+16	这个装置我要带回公司。还有，这个人也是。	這個裝置我要帶回公司。還有這個人也是。	この装置は会社に持って帰ります。それと、この人も。	일단 이 장치는 회사로 가져가도록 하죠. 여기 있는 이 사람도 마찬가지고요.	I'd like to bring this device and that guy back to our company.						0	
+17	嗯？你这是什么意思？	嗯？你這是什麼意思？	え？どういう意味？	네? 그게 무슨 말씀이신지?	Huh? What do you mean?						0	
+18	抱歉，在我查看“货物”时贵司的安保恰好出了批漏，我不确定是否要继续信任你们。	抱歉，在我查看“貨物”時貴司的保全恰好出了紕漏，我不確定是否還能繼續信任你們。	申し訳ありませんが、「荷物」を確認する際に、御社のセキュリティの欠陥が見つかったので、今後も信用できるかどうか分かりません。	'물건'을 조사하는 과정에서 타이구 물류회사 보안에 문제가 생겼기 때문에 계속해서 당신들을 믿어야 할지 의문이 생겨서요.	Sorry, but your company security just happened to fail when I was checking on the "cargo." I'm not sure if I can trust you guys.						0	
+19	哎，都说了不是我们的人……	哎，都說了不是我們的人……	もう、こいつは仲間じゃないってば。	후우… 저희 쪽 사람이 아니라니까요…	Geez, I already said they weren't our guys...						0	
+20	劣质的冒充手段反而有可能是烟雾弹。据我了解，上层的一些临时决定往往会绕过许多手续。	劣質的冒充手段反而有可能是煙霧彈。據我瞭解，上層的一些臨時決定往往會繞過許多手續。	下手な偽装はカモフラージュの可能性があります。私の知る限りでは、上層部がとっさに決めたことというのは、多くの手続きを省略してしまう傾向があるので。	이 악질적인 수법들은 모두 눈속임을 위한 것일 수도 있어요. 상부에서 급하게 내린 결정은 종종 많은 절차를 생략하기도 하니까.	Those impersonators might just be a red herring. For all I know, temporary decisions from higher-ups could bypass normal protocol.						0	
+21	你想说的是，我们会对保险间的“货物”监守自盗？	你想說的是，我們會對保險間的“貨物”監守自盜？	私たちが安全室の「荷物」を盗むとでも言いたいのか？	그러니까 지금 저희가 보안실에서 '물건'을 스스로 훔칠 수도 있다는 말씀인가요?	You think this is an inside job? That we're going to steal the "cargo" in the vault?						0	
+22	哼，多费口舌！	哼，多費口舌！	ふん、ごたごたうるさいのう。	흥, 쓸데없는 말을 하는군.	Hmph! Preposterous!						0	
+23	泰古通达的合同条款第一条，对货物内容绝对保密，除了寄件人和收件人，绝无其他人知道内容。这也是我们发展至今天规模的原因之一。	泰古通達的合約條款第一條，對貨物內容絕對保密，除了寄件人和收件人，絕無其他人知道內容。這也是我們發展至今天規模的原因之一。	タグの契約書第一条、荷物の内容は絶対秘密。差出人と受取人以外にその内容を知る者はおらん。至極当然、これも今の規模まで成長した理由の一つじゃ。	타이구 계약 제1조, 물건의 내용물은 절대적으로 기밀 사항이다. 물건을 주고받는 사람 외에는 어느 누구도 내용물을 알 수 없지. 그래서 우리가 현재 이런 상황에 놓여있는 거고.	The first clause of the Taigu-Connect contract states that the contents of each shipment are strictly confidential. Only the sender and recipient know what's inside — that's one of the reasons Taigu-Connect was able to grow into what it is today.						0	
+24	就算你是世界树的人，也不能没凭没据地置疑泰古通达！	就算你是世界樹的人，也不能沒憑沒據地置疑泰古通達！	たとえユグドラシルの人であろうと、根拠もなしにタグを疑うなど許さんぞ！	아가씨가 아무리 위그드라실 사람이라고 해도 타이구를 함부로 의심하는 건 못 참겠군!	Even if you are an Yggdrasil employee, I won't allow you to cast baseless doubt on Taigu-Connect!						0	
+25	两位，两位……都是替人办事的人，就不要互相为难了。	兩位，兩位……都是替人辦事的人，就不要互相為難了。	まぁ落ち着こう……他人に代わって仕事をする者同士なんだから、お互い迷惑をかけるのはやめよう。	자자… 두 사람 모두… 요청을 받고 일을 도와주러 온 건데 서로 얼굴 붉히지들 마요.	Alright, you two... We're all on the same side. Let's not make things difficult for each other.						0	
+26	老爷子你也少呛两句，怎么你今天的脾气比平时还火爆？	老爺子你也少嗆兩句，怎麼你今天的脾氣比平時還火爆？	ジジイもその辺にしてくれ、どうして今日はいつもより短気なんだ？	어르신도 그만하시죠. 왜 오늘따라 평소보다 더 예민하게 구시는 건지… 참…	Take it easy, old man. Why do you have such a temper today?						0	
+27	（方才激烈的言行并不是我一贯的行事风格，有什么不对……）	（方才激烈的言行並不是我一貫的行事風格，有什麼不對勁……）	（らしくない、冷静さを欠いていた……でも、何か違和感が……）	(방금 격렬했던 언행들은 나답지 못했어… 뭔가 잘못…)	(I don't normally get so heated... What's going on...?)						0	
+28	就在辰星心怀疑惑的时候，被抓住的人悠悠转醒。	就在辰星感到懷疑的時候，被抓住的人突然醒了。	辰星が困惑していると、捕まえていた犯人が目を覚ました。	수성이 의아해하고 있을 때, 붙잡아뒀던 사람이 천천히 깨어났다.	Just as Chenxing began to wonder, the captured impostor slowly started to awaken.						0	
+29	别打了！别打了！我真的什么都不知道！	別打了！別打了！我真的什麼都不知道！	やめて！もうやめてくれ！本当に何も知らないんだ！	그만 좀 때리세요! 제발 그만! 전 정말 아무것도 모른다고요!	Please don't hurt me! I don't know anything, really!						0	
+30	说，你的目的是什么，安保机器人是不是你搞的鬼，谁主使你来的，这套制服你又是从哪拿的？	說！你的目的是什麼，保全機器人是不是你搞的鬼，誰指使你來的，這套制服你又是從哪拿的？	お前の目的は何じゃ？警備ロボはお前の仕業か？誰に頼まれた、どこでその制服を手に入れたんじゃ！全部吐け！	말해봐. 목적이 뭐지? 보안 로봇들은 네가 한 짓인가? 누구의 명을 받아서 왔고, 이 제복은 또 어디서 난 거지?	What are you doing here? Were you responsible for hacking the security robots? Who sent you here, and where did you get that uniform?						0	
+31	我真的什么都不知道，哎！哎！你别捏拳头，我说，我说。	我真的什麼都不知道，哎！哎！你別握拳頭，我說，我說。	本当に何も知らないって、ちょっ、待て！ぶたないで！話す！話しますから！	전 정말 아무것도 몰라요. 으윽… 아… 알겠어요! 주먹 좀 펴세요! 말하면 되잖아요!	I really don't know anythin— Hey! Hey! Don't hit me! I'll talk!						0	
+32	以往泰古通达也曾雇佣过天楼居民充当临时工，听说和楼层管事搞好关系，就有可能拿到这个机会。	以往泰古通達也曾僱傭過天樓居民充當臨時工，聽說和樓層管事打好關係，就有可能拿到這個機會。	タグは以前、スカイタワーの住民をアルバイトとして雇っていたことがあるから、フロアの幹事と仲良くなれば、そのチャンスをもらえるかもしれないと聞いたんだよ。	예전에 타이구 물류회사에서 스카이 타워 주민들을 임시직으로 고용했을 때, 관리자와 사이가 좋으면 좋은 기회를 얻을 수 있다고 들었어요.	Taigu-Connect has hired residents from the Towers as temp workers before. I heard you could get in if you're chummy with a floor administrator.						0	
+33	他们一般会把工作内容和报酬会放在门口收件箱里。	通常他們會把工作內容和報酬放在門口的信箱內。	彼らは基本、仕事の説明と報酬を入り口前の郵便受けに入れている。	그들은 보통 업무 내용하고 보수를 입구에 있는 편지함에 넣곤 하죠.	They usually put the job description and pay in the mailboxes at the door.						0	
+34	这话倒是不假。我们会定期“喂饱”管事，通过这些人帮把手，起码让居民过得下去。	這話倒是不假。我們會定期“餵飽”管事，僱傭這些人來幫忙，起碼能讓居民維生。	確かに。ワシらは定期的に幹事たちの「腹ごしらえ」をして、住民たちが暮らせるように、その人たちを通じて、最小限の手助けをしておる。	사실이야. 우린 정기적으로 관리자한테 '뇌물'을 주거든. 관리자들을 도와주면 주민들이 편히 지낼 수 있지.	He's right. We regularly give "incentives" to the Administrators. With their help, at least the residents can survive.						0	
+35	今早我打开收件箱，看到那么多钱，再看到这套衣服，还以为我被重用了。	今早我打開信箱看到那麼多錢，再看到這套衣服，還以為我受到重用了。	今朝、郵便受けを開けて、たくさんのお金とこの服を見た時、自分が重用されたと思った。	오늘 아침에 편지함을 열었는데, 엄청난 양의 돈과 옷들이 있어서 누군가 절 고용했다고 생각했어요.	I opened my mailbox this morning and saw a pile of money and this uniform. I thought I'd been chosen for an important job.						0	
+36	明灯新仪搞这么大阵仗，肯定要增加人手是不是？	明燈新儀搞這麼大陣仗，肯定要增加人手是不是？	明灯祭の規模がこんなに大きいなら、人手を増やすのも当然だろう？	등불 의식 같은 큰 행사에는 일손이 항상 부족하니까요.	The Mingdeng Ritual is a big deal, so they'd need more manpower, right?						0	
+37	我刚刚还美滋滋地干得起劲，想着装完最后一个，今天就收工了，谁曾想……	我剛剛還暗自竊喜地幹得起勁，想著裝完最後一個，今天就收工了，沒想到……	最後の一つを仕上げて終わりにしようと思って頑張っていたところだったのに、まさか……	하여튼… 방금까지만 해도 즐겁게 일하고 있었어요. 마지막 하나만 설치하면 모든 일정을 마칠 수 있었는데… 이렇게까지 될 줄은…	I was working so hard just now, thinking about packing up the last one and clocking out... Who would have thought...						0	
+38	你是说，这个装置不只一个？！	你是說，這個裝置不只一個？！	この装置はこの一つだけではないと！？	그 말은, 여러 대를 설치했다는 말인가요?!	Are you saying there's more than one device!?						0	
+39	对啊，只我自己就装了不少，其他人我也不认识，估计差不多吧。	對啊，光我自己就裝了不少，其他人我也不認識，可能也跟我差不多吧。	ああ。自分だけでも結構設置したし、他の人は知り合いじゃないけど、まぁたぶん似たようなものだと思うぜ。	네. 이미 꽤 많이 설치했는걸요. 다른 사람들은 잘 모르지만, 아마 저랑 비슷할 거예요.	Yeah, I packed up quite a few myself. I didn't know the other guys, but they probably did around the same amount.						0	
+40	喂，该说的我都说了，放我回去！我真的啥都不知道啊！	喂，該說的我都說了，放我回去！我真的啥都不知道啊！	おい、全部話したんだから、解放してくれよ！本当に何も知らないんだ！	저기… 이제 말한 건 다 말한 것 같은데 좀 놓아주시죠! 전 정말 아무것도 모른단 말이에요!	C'mon, I told you everything I know! Let me go! I really don't know anything!						0	
+41	两位怎么看？	兩位怎麼看？	お二人とも、どう思いますか？	두 분은 어떻게 생각하시나요?	What do you guys think?						0	
+42	辰星垂下眼帘，故意不去看玄铠和赭毫泛青的脸色。	辰星垂下眼眸，故意不去看玄鎧和赭毫鐵青的臉色。	二人の顔を見た辰星は目を伏せた。玄鎧と赭毫の顔はすっかり青ざめていた。	수성은 눈을 살짝 감으며, 현개와 자호의 시선을 일부러 피했다.	Chenxing lowered her eyes, avoiding meeting Zhehao and Xuankai's stern expressions.						0	
+43	老夫看得出来，这家伙虽然没什么脑子，但说得都是实话。	老夫看得出來，這傢伙雖然沒什麼頭腦但說的都是實話。	わしには分かる。こいつは頭は悪そうじゃが、嘘はついておらん。	좀 멍청하긴 해도 하는 말은 전부 사실인 것 같아.	This guy has no brains, but your elder can see he's telling the truth.						0	
+44	这些伪装者，彼此互不相识。有的和这家伙一样搞不清状况，有的攻击性很强，应该是受了另外的指示。	這些偽裝者彼此互不相識。有的和這傢伙一樣搞不清狀況，有的攻擊性很強，應該是受到了另外的指使。	この偽者たちはお互いのことを知らん。こいつと同じように状況が読めない者も、別の指示を受けた攻撃的な者もおるのじゃろう。	사칭범들은 서로가 서로를 잘 모르지. 게다가 이 녀석처럼 상황을 잘 모를 거고. 공격성이 높은 녀석들은 다른 지시를 받았을 수 있어.	Those impostors didn't know each other. Some were just as clueless as this guy, and some got aggressive. They must have received other instructions.						0	
+45	失控的安保机器人、安装在整个会场各处的不明装置。	失控的保全機器人、安裝在整個會場各處的不明裝置。	暴走する警備ロボと、会場のあらゆるところに設置された謎の装置。	제어를 잃은 보안 로봇, 축제 장소에 심은 알 수 없는 각종 장치들…	Out-of-control security robots and mysterious devices placed all over the venue...						0	
+46	似乎是觊觎货物，又像在搞乱会场，对方的动机是什……	似乎是覬覦貨物，又像在搞亂會場，對方的動機是什……	荷物を狙ってるかのようで、会場を混乱させるつもりのようでもある。黒幕の動機はいったい……	물건을 노리는 것 같기도 하고, 축제 장소를 어지럽히는 것 같기도 하고… 도대체 목적이 뭘까요?	Is someone using these devices to ruin the venue? What's their angle...?						0	
+47	抱歉，我有个通讯接进来了。	抱歉，我有個通訊接進來了。	すみません、通信が入りました。	잠시 실례 좀 할게요. 갑자기 통신이 와서.	Sorry, I'm getting a call.						0	
+49	我知道了，那分析员怎么想？	我知道了，那分析員怎麼想？	……そうですか。私にはまだ任務があります。どうされますか？	알겠습니다. 분석가님은 어떻게 생각하세요?	Understood. And what does the Adjutant think?						0	
+50	……是么。	……是嗎。	……そうですか。	… 그런가요.	...Oh.						0	
+51	辰星结束了通讯，短暂的陷入了沉默。	辰星結束了通訊，短暫的陷入了沉默。	辰星が通信を切り、しばらく沈黙が続いた。	수성은 통신을 끊고 잠시 깊은 생각에 빠졌다.	Chenxing finished her call and briefly fell silent.						0	
+52	赭毫和玄铠无从得知辰星和通讯的另一方说了什么，默契地没有出声打扰，任她沉浸在思绪里，直到她自己打破沉默。	赭毫和玄鎧無從得知辰星和通訊的另一端說了些什麼，但兩人很有默契地沒有出聲打擾，而是任她沉浸在思緒裡，直到她自己打破沉默。	赭毫と玄鎧は辰星の通信内容を知る由もなく、ただ邪魔しないようにと黙って、彼女が沈黙を破るまで思考を巡らせていた。	자호와 현개는 수성의 통신 내용을 몰랐지만, 수성의 생각이 끝날 때까지 묵묵히 기다려주었다.	Zhehao and Xuankai had no way of knowing what Chenxing and the caller discussed. They tactfully chose not to bother her, letting her remain immersed in her thoughts until she broke the silence.						0	
+53	我的同伴也在会场中发现了这种装置，已经上报给公司。	我的同伴也在會場中發現了這種裝置，已經上報給公司。	私の仲間も会場で同じ装置を見つけていて、既に会社に報告しています。	제 동료도 축제 장소에서 해당 장치를 발견하고 나서 회사 측에 보고를 했다고 하네요.	My companion found some of these devices around the venue too. It's been reported to the company.						0	
+54	暂时还无法分析出作用，不过可以确定这东西不会对机械造成影响。	暫時還無法分析出裝置的作用，不過可以確定這東西不會對機械造成影響。	今はまだ用途の分析はできていませんが、機械に影響がないことは確定しています。	해당 장치가 무슨 역할을 하는지는 정확하게 분석하지 못했지만, 기계에 영향을 끼치지 않는다는 건 확실해요.	Their effects haven't been fully analyzed yet, but we're certain they can't affect machinery.						0	
+55	谨慎起见，他们已经分散到各处尽量拆除，并交给专人回收。	謹慎起見，他們已經分頭尋找裝置並拆除後交給專人回收。	念のため、各所に設置された装置を撤去し、専門家に回収してもらいました。	그래도 혹시 모르니 곳곳에 있는 장치를 해체하고, 전문가에게 회수하라고 시켰어요.	Just to be safe, they've been dismantled and handed over to special personnel for disposal.						0	
+56	我们的员工也在排查可疑人员。	我們的員工也在清查可疑人員。	私たちの社員も不審者を洗い出している。	저희 직원도 의심스러운 사람을 찾고 있는 중이에요.	Our staff is also investigating the suspicious personnel.						0	
+57	那么，我将继续执行我的任务，也请你们继续履行你们的职责。	那麼，我將繼續執行我的任務，也請你們繼續履行你們的職責。	では、私は任務を続行します。あなたたちも職務を全うしてください。	그럼 계속해서 미션을 수행하도록 하죠. 두 분도 하던 일을 계속해서 하시면 될 것 같아요.	In that case, I'll complete my mission. I have to ask that you two do the same.						0	
+58	恐怕要打断你们的计划了。	恐怕要打斷你們的計劃了。	残念ながら、あなたたちの計画は中断することになりそうです。	여러분, 하던 일을 전부 멈춰야 할 것 같습니다.	I'm afraid you'll have to put those plans on hold.						0	

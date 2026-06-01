@@ -1,0 +1,152 @@
+ID	备注	关卡类型(0:通常关,1:Boss关)	地图ID	战斗逻辑配置ID	解锁条件(1：账号等级；2：Level ID，3：是否拥有某道具，4：曜日本专用是否通关xx关卡)	获得buff	获得积分(int|{}  小关卡固定积分|{类型, 参数下限,参数上限,积分下限，积分上限} 1：剩余时间百分比 2：击杀怪物数量 3：剩余血量 4：总伤害量 5：敌人突破数量)	体力消耗(包含进入和通关)	星级条件 {{1,300},{1,180},{2,2}}	出场怪物信息{{怪物编号,等级(填0不显示等级)}}	关联growintensity怪物强度模板	关卡详情是否显示怪物列表 0或不配显示奖励列表 1显示怪物列表	推荐等级	试玩角色	战斗力增减等级数	是否允许多重战斗	是否显示再次挑战	下一关ID	玩家经验值	角色经验值	队伍规则	首次达成星级奖励	首通掉落ID	固定掉落ID	随机掉落ID	UI展示固定物品{{G,D,P,L,N}}	UI展示随机物品{{G,D,P,L,N}}	UI展示首通物品{{G,D,P,L,N}}	Boss概念图	关卡概念图	任务资源
+ID	Comments	Type	MapID	FightID	Condition	Buff	Score	ConsumeVigor	StarCondition	Monster	LevelStrength	ShowListType	RecommendLevel	TrailCard	RecommendLevelOffset	MultipleFight	AgainFight	NextID	PlayerExp	RoleExp	TeamRuleID	StarAward	FirstDropID	BaseDropID	RandomDropID	ShowAward	ShowRandomAward	ShowFirstAward	PictureBoss	PictureLevel	TaskPath
+450	难度1-补给点A1	0	450	1		101	{200}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	35			0	0					{}									DLC2Task/Area_Repression/Area_Repression01.Area_Repression01
+451	难度1-补给点A2	0	451	1		102	{200}	{0,0}		{4001116,4002106,4001108}	1	1	35			0	0					{}									DLC2Task/Area_Repression/Area_Repression02.Area_Repression02
+452	难度1-补给点B1	0	452	1		103	{200}	{0,0}		{500110902}	1	1	35			0	0					{}									DLC2Task/Area_Repression/Area_Repression023.Area_Repression023
+453	难度1-补给点B2	0	453	1		104	{200}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	35			0	0					{}									DLC2Task/Area_Repression/Area_Repression04.Area_Repression04
+454	难度1-补给点C1	0	454	1		105	{200}	{0,0}		{4001116,4002103,4001108}	1	1	35			0	0					{}									DLC2Task/Area_Repression/Area_Repression05.Area_Repression05
+455	难度1-补给点C2	0	455	1		106	{200}	{0,0}		{5001209}	1	1	35			0	0					{}									DLC2Task/Area_Repression/Area_Repression020.Area_Repression020
+456	难度2-补给点A1	0	456	1		201	{300}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression07.Area_Repression07
+457	难度2-补给点A2	0	457	1		202	{300}	{0,0}		{4001116,4002106,4001108}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression08.Area_Repression08
+458	难度2-补给点A3	0	458	1		203	{300}	{0,0}		{5001001}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression016.Area_Repression016
+459	难度2-补给点B1	0	459	1		204	{300}	{0,0}		{4001212,4001211,4001215}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression09.Area_Repression09
+460	难度2-补给点B2	0	460	1		205	{300}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression010.Area_Repression010
+461	难度2-补给点B3	0	461	1		206	{300}	{0,0}		{500110901}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression017.Area_Repression017
+462	难度2-补给点C1	0	462	1		207	{300}	{0,0}		{4001102,4001108,4002103,4001116}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression027.Area_Repression027
+463	难度2-补给点C2	0	463	1		208	{300}	{0,0}		{4001102,4001108,4002103,4001116}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression014.Area_Repression014
+464	难度2-补给点C3	0	464	1		209	{300}	{0,0}		{5002010}	1	1	50			0	0					{}									DLC2Task/Area_Repression/Area_Repression015.Area_Repression015
+465	难度3-补给点A1	0	450	1		301	{500}	{0,0}		{4001005,4001004,4001002,4001008}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression03.Area_Repression03
+466	难度3-补给点A2	0	451	1		302	{500}	{0,0}		{4001116,4002106,4001108}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression025.Area_Repression025
+467	难度3-补给点A3	0	452	1		303	{500}	{0,0}		{5001001}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression018.Area_Repression018
+468	难度3-补给点A4	0	453	1		304	{500}	{0,0}		{4001008,4003006,4003004}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression06.Area_Repression06
+469	难度3-补给点B1	0	454	1		305	{500}	{0,0}		{4001116,4002103,4001108}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression011.Area_Repression011
+470	难度3-补给点B2	0	455	1		306	{500}	{0,0}		{5001208}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression019.Area_Repression019
+471	难度3-补给点B3	0	456	1		307	{500}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression012.Area_Repression012
+472	难度3-补给点B4	0	457	1		308	{500}	{0,0}		{4001005,4003004,4003006,4003007}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression013.Area_Repression013
+473	难度3-补给点C1	0	458	1		309	{500}	{0,0}		{4001104}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression021.Area_Repression021
+474	难度3-补给点C2	0	459	1		310	{500}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression026.Area_Repression026
+475	难度3-补给点C3	0	460	1		311	{500}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression024.Area_Repression024
+476	难度3-补给点C4	0	461	1		312	{500}	{0,0}		{5001203}	1	1	65			0	0					{}									DLC2Task/Area_Repression/Area_Repression022.Area_Repression022
+481	难度1-群攻	1	465	1		111	{{2,{10,100},{50,1000},{100,1400},{150,1600},{180,1800},{200,2000}}}	{0,0}		{4003003,4003007,4003006,4003004,4001008,5001010}	12	1	50	{103018,103021,103024}		0	0					{}									DLC2Task/Area_Repression/Area_Repression028.Area_Repression028
+482	难度1-生存	1	466	1		112	{{3,{0.1,100},{0.5,1000},{0.7,1400},{0.85,1600},{0.95,1800},{1,2000}}}	{0,0}		{4001005,4002004,4003003,400100802,400160601,400901304,4003006,400160202}	12	1	50	{103018,103021,103024}		0	0					{}									DLC2Task/Area_Repression/Area_Repression029.Area_Repression029
+483	难度1-单体	1	467	1		113	{{1,{0.1,100},{0.5,1000},{0.8,1400},{0.85,1600},{0.941,1800},{0.966,2000}}}	{0,0}		{4001211,4001213}	12	1	50	{103018,103021,103024}		0	0					{}									DLC2Task/Area_Repression/Area_Repression030.Area_Repression030
+484	难度2-群攻	1	465	1		221	{{2,{10,150},{50,1500},{100,2100},{140,2400},{170,2700},{200,3000}}}	{0,0}		{4003003,4003007,4003006,4003004,4001008,5001001,5001010}	12	1	65	{103019,103022,103025}		0	0					{}									DLC2Task/Area_Repression/Area_Repression028_1.Area_Repression028_1
+485	难度2-生存	1	466	1		222	{{3,{0.1,150},{0.5,1500},{0.7,2100},{0.85,2400},{0.95,2700},{1,3000}}}	{0,0}		{4001005,4002004,4003003,400100802,400160601,4001002,4001016,400901304,4003006,400160202}	12	1	65	{103019,103022,103025}		0	0					{}									DLC2Task/Area_Repression/Area_Repression029_1.Area_Repression029_1
+486	难度2-单体	1	467	1		223	{{1,{0.1,150},{0.5,1500},{0.8,2100},{0.85,2400},{0.933,2700},{0.966,3000}}}	{0,0}		{4001215,4001213}	12	1	65	{103019,103022,103025}		0	0					{}									DLC2Task/Area_Repression/Area_Repression030_1.Area_Repression030_1
+487	难度3-群攻	1	465	1		331	{{2,{10,250},{50,2500},{100,3500},{130,4000},{160,4500},{200,5000}}}	{0,0}		{4003003,4003007,4003006,4003004,4001008,5001010,500201003}	12	1	80	{103020,103023,103026}		0	0					{}									DLC2Task/Area_Repression/Area_Repression028_2.Area_Repression028_2
+488	难度3-生存	1	466	1		332	{{3,{0.1,250},{0.5,2500},{0.7,3500},{0.85,4000},{0.95,4500},{1,5000}}}	{0,0}		{4001005,4002004,400100304,400160601,4002002,4001016,400100601,400160202}	12	1	80	{103020,103023,103026}		0	0					{}									DLC2Task/Area_Repression/Area_Repression029_2.Area_Repression029_2
+489	难度3-单体	1	467	1		333	{{1,{0.1,250},{0.5,2500},{0.8,3500},{0.85,4000},{0.925,4500},{0.966,5000}}}	{0,0}		{4003103}	12	1	80	{103020,103023,103026}		0	0					{}									DLC2Task/Area_Repression/Area_Repression030_2.Area_Repression030_2
+																															
+																															
+4500	DLC4-难度1-补给点A1	0	4650	1		2101	{200}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	35			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression201.Area_Repression201
+4501	DLC4-难度1-补给点A2	0	4651	1		2102	{200}	{0,0}		{5002010}	1	1	35			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression215.Area_Repression215
+4502	DLC4-难度1-补给点B1	0	4652	1		2103	{200}	{0,0}		{4001116,4002106,4001108}	1	1	35			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression202.Area_Repression202
+4503	DLC4-难度1-补给点B2	0	4653	1		2104	{200}	{0,0}		{5001001}	1	1	35			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression216.Area_Repression216
+4504	DLC4-难度1-补给点C1	0	4654	1		2105	{200}	{0,0}		{4001005,4001004,4001002,4001008}	1	1	35			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression203.Area_Repression203
+4505	DLC4-难度1-补给点C2	0	4655	1		2106	{200}	{0,0}		{500110901}	1	1	35			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression217.Area_Repression217
+4506	DLC4-难度2-补给点A1	0	4656	1		2201	{300}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression204.Area_Repression204
+4507	DLC4-难度2-补给点A2	0	4657	1		2202	{300}	{0,0}		{4001116,4002103,4001108}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression205.Area_Repression205
+4508	DLC4-难度2-补给点A3	0	4658	1		2203	{300}	{0,0}		{5001001}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression218.Area_Repression218
+4509	DLC4-难度2-补给点B1	0	4654	1		2204	{300}	{0,0}		{4001008,4003006,4003004}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression206.Area_Repression206
+4510	DLC4-难度2-补给点B2	0	4655	1		2205	{300}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression207.Area_Repression207
+4511	DLC4-难度2-补给点B3	0	4656	1		2206	{300}	{0,0}		{5001208}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression219.Area_Repression219
+4512	DLC4-难度2-补给点C1	0	4657	1		2207	{300}	{0,0}		{4001116,4002106,4001108}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression208.Area_Repression208
+4513	DLC4-难度2-补给点C2	0	4658	1		2208	{300}	{0,0}		{4001212,4001211,4001215}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression209.Area_Repression209
+4514	DLC4-难度2-补给点C3	0	4659	1		2209	{300}	{0,0}		{5001209}	1	1	50			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression220.Area_Repression220
+4515	DLC4-难度3-补给点A1	0	4660	1		2301	{500}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression210.Area_Repression210
+4516	DLC4-难度3-补给点A2	0	4661	1		2302	{500}	{0,0}		{4001116,4002103,4001108}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression211.Area_Repression211
+4517	DLC4-难度3-补给点A3	0	4662	1		2303	{500}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression212.Area_Repression212
+4518	DLC4-难度3-补给点A4	0	4663	1		2304	{500}	{0,0}		{4001104}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression221.Area_Repression221
+4519	DLC4-难度3-补给点B1	0	4657	1		2305	{500}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression201.Area_Repression201
+4520	DLC4-难度3-补给点B2	0	4658	1		2306	{500}	{0,0}		{4001116,4002106,4001108}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression202.Area_Repression202
+4521	DLC4-难度3-补给点B3	0	4659	1		2307	{500}	{0,0}		{4001005,4001004,4001002,4001008}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression203.Area_Repression203
+4522	DLC4-难度3-补给点B4	0	4660	1		2308	{500}	{0,0}		{5001203}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression222.Area_Repression222
+4523	DLC4-难度3-补给点C1	0	4661	1		2309	{500}	{0,0}		{4001116,4002106,4001108}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression202.Area_Repression202
+4524	DLC4-难度3-补给点C2	0	4662	1		2310	{500}	{0,0}		{4001005,4003004,4003006,4003007}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression213.Area_Repression213
+4525	DLC4-难度3-补给点C3	0	4664	1		2311	{500}	{0,0}		{4001102,4001108,4002103,4001116}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression214.Area_Repression214
+4526	DLC4-难度3-补给点C4	0	4663	1		2312	{500}	{0,0}		{500110902}	1	1	65			0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression223.Area_Repression223
+4527	DLC4-难度1-强袭	1	4666	1		2113	{{4,{400000,100},{800000,1000},{1600000,1400},{3000000,1600},{4000000,1800},{6000000,2000}}}	{0,0}		{4001802}	12	1	50	{103062,103065,103068}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression229_1.Area_Repression229_1
+4528	DLC4-难度1-驻防	1	4665	1		2112	{{5,{-15,100},{-12,1000},{-10,1400},{-6,1600},{-4,1800},{0,2000}}}	{0,0}		{34003007,34003006,400100802,35001001}	12	1	50	{103062,103065,103068}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression228_1.Area_Repression228_1
+4529	DLC4-难度1-速攻	1	4667	1		2111	{{2,{5,100},{10,1000},{20,1400},{35,1600},{45,1800},{55,2000}}}	{0,0}		{4001103,4001102,4001112,4001114,4002106,5001111,5003110}	12	1	50	{103062,103065,103068}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression230_1.Area_Repression230_1
+4530	DLC4-难度2-强袭	1	4666	1		2223	{{4,{400000,150},{800000,1500},{1600000,2100},{2500000,2400},{3500000,2700},{6000000,3000}}}	{0,0}		{4001008,400160202}	12	1	65	{103063,103066,103069}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression229_2.Area_Repression229_2
+4531	DLC4-难度2-驻防	1	4665	1		2222	{{5,{-15,150},{-12,1500},{-10,2100},{-8,2400},{-4,2700},{0,3000}}}	{0,0}		{34003007,34003006,34001015,4001016,400100802,35001001}	12	1	65	{103063,103066,103069}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression228_2.Area_Repression228_2
+4532	DLC4-难度2-速攻	1	4667	1		2221	{{2,{5,150},{10,1500},{20,2100},{30,2400},{35,2700},{45,3000}}}	{0,0}		{4001103,4001102,4001112,4001114,4002106,5003110,4002104}	12	1	65	{103063,103066,103069}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression230_2.Area_Repression230_2
+4533	DLC4-难度3-强袭	1	4666	1		2333	{{4,{400000,250},{800000,2500},{1600000,3500},{3000000,4000},{4500000,4500},{6000000,5000}}}	{0,0}		{6001201}	12	1	80	{103064,103067,103070}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression229_3.Area_Repression229_3
+4534	DLC4-难度3-驻防	1	4665	1		2332	{{5,{-15,250},{-12,2500},{-10,3500},{-8,4000},{-6,4500},{0,5000}}}	{0,0}		{34003007,34003006,4001015,400160202,400100802,35001001,4001016}	12	1	80	{103064,103067,103070}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression228_3.Area_Repression228_3
+4535	DLC4-难度3-速攻	1	4667	1		2331	{{2,{5,250},{10,2500},{20,3500},{25,4000},{30,4500},{45,5000}}}	{0,0}		{4001102,4001112,4001114,4002106,4002104,5001111,5003110,4001103}	12	1	80	{103064,103067,103070}		0	0					{}								1801016	DLC4Task/Area_Repression2/Area_Repression230_3.Area_Repression230_3
+																															
+																															
+5300	DLC6-难度1-补给点A1	0	5300	1		3101	{200}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	35			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression301.Area_Repression301
+5301	DLC6-难度1-补给点A2	0	5301	1		3102	{200}	{0,0}		{5001001}	1	1	35			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression316.Area_Repression316
+5302	DLC6-难度1-补给点B1	0	5302	1		3103	{200}	{0,0}		{4001005,4001004,4001002,4001008}	1	1	35			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression303.Area_Repression303
+5303	DLC6-难度1-补给点B2	0	5303	1		3104	{200}	{0,0}		{5002010}	1	1	35			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression315.Area_Repression315
+5304	DLC6-难度1-补给点C1	0	5304	1		3105	{200}	{0,0}		{4001116,4002106,4001108}	1	1	35			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression302.Area_Repression302
+5305	DLC6-难度1-补给点C2	0	5305	1		3106	{200}	{0,0}		{5001208}	1	1	35			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression319.Area_Repression319
+5306	DLC6-难度2-补给点A1	0	5306	1		3201	{300}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression307.Area_Repression307
+5307	DLC6-难度2-补给点A2	0	5307	1		3202	{300}	{0,0}		{4001212,4001211,4001215}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression309.Area_Repression309
+5308	DLC6-难度2-补给点A3	0	5308	1		3203	{300}	{0,0}		{500110901}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression317.Area_Repression317
+5309	DLC6-难度2-补给点B1	0	5309	1		3204	{300}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression304.Area_Repression304
+5310	DLC6-难度2-补给点B2	0	5310	1		3205	{300}	{0,0}		{4001116,4002103,4001108}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression305.Area_Repression305
+5311	DLC6-难度2-补给点B3	0	5311	1		3206	{300}	{0,0}		{5001001}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression318.Area_Repression318
+5312	DLC6-难度2-补给点C1	0	5312	1		3207	{300}	{0,0}		{4001008,4003006,4003004}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression306.Area_Repression306
+5313	DLC6-难度2-补给点C2	0	5313	1		3208	{300}	{0,0}		{4001116,4002106,4001108}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression308.Area_Repression308
+5314	DLC6-难度2-补给点C3	0	5314	1		3209	{300}	{0,0}		{5001209}	1	1	50			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression320.Area_Repression320
+5315	DLC6-难度3-补给点A1	0	5303	1		3301	{500}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression312.Area_Repression312
+5316	DLC6-难度3-补给点A2	0	5304	1		3302	{500}	{0,0}		{4001005,4003004,4003006,4003007}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression313.Area_Repression313
+5317	DLC6-难度3-补给点A3	0	5305	1		3303	{500}	{0,0}		{4001102,4001108,4002103,4001116}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression314.Area_Repression314
+5318	DLC6-难度3-补给点A4	0	5306	1		3304	{500}	{0,0}		{4001104}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression321.Area_Repression321
+5319	DLC6-难度3-补给点B1	0	5307	1		3305	{500}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression310.Area_Repression310
+5320	DLC6-难度3-补给点B2	0	5308	1		3306	{500}	{0,0}		{4001116,4002103,4001108}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression311.Area_Repression311
+5321	DLC6-难度3-补给点B3	0	5309	1		3307	{500}	{0,0}		{4001102,4001108,4002103,4001116}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression327.Area_Repression327
+5322	DLC6-难度3-补给点B4	0	5310	1		3308	{500}	{0,0}		{5001203}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression322.Area_Repression322
+5323	DLC6-难度3-补给点C1	0	5311	1		3309	{500}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression324.Area_Repression324
+5324	DLC6-难度3-补给点C2	0	5312	1		3310	{500}	{0,0}		{4001116,4002106,4001108}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression325.Area_Repression325
+5325	DLC6-难度3-补给点C3	0	5313	1		3311	{500}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression326.Area_Repression326
+5326	DLC6-难度3-补给点C4	0	5314	1		3312	{500}	{0,0}		{500110902}	1	1	65			0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression323.Area_Repression323
+5327	DLC6-难度1-速攻	1	5315	1		3111	{{2,{10,100},{100,1000},{130,1400},{150,1600},{170,1800},{185,2000}}}	{0,0}		{5001101,5003110,500110902,4002003,4002004,4001008,400160202,400160601,4001016,4001002,4001005,4008013,4001015,4002006}	12	1	50	{103085,103088,103091}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression328.Area_Repression328
+5328	DLC6-难度1-闪击	1	5316	1		3112	{{1,{0.1,50},{0.5,500},{0.8,700},{0.85,800},{0.95,900},{0.965,1000}},{3,{0.1,50},{0.5,500},{0.7,700},{0.85,800},{0.95,900},{1,1000}}}	{0,0}		{5001001,5001010,5001019,5001018,4002004,4001008}	12	1	50	{103085,103088,103091}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression329_1.Area_Repression329_1
+5329	DLC6-难度1-强袭	1	5318	1		3113	{{4,{400000,100},{800000,1000},{1500000,1400},{2500000,1600},{4000000,1800},{5000000,2000}}}	{0,0}		{6001302}	12	1	50	{103085,103088,103091}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression330_1.Area_Repression330_1
+5330	DLC6-难度2-速攻	1	5315	1		3221	{{2,{10,150},{80,1500},{100,2100},{130,2400},{150,2700},{165,3000}}}	{0,0}		{5002110,500110901,4001108,4001112,4001114,4001116,4003102,4003103,400110601}	12	1	65	{103086,103089,103092}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression328_2.Area_Repression328_2
+5331	DLC6-难度2-闪击	1	5316	1		3222	{{1,{0.1,75},{0.5,750},{0.8,1050},{0.85,1200},{0.945,1350},{0.96,1500}},{3,{0.1,75},{0.5,750},{0.7,1050},{0.85,1200},{0.95,1350},{1,1500}}}	{0,0}		{5001101,500110901,5003110,4001108,4001116,4001112}	12	1	65	{103086,103089,103092}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression329_2.Area_Repression329_2
+5332	DLC6-难度2-强袭	1	5317	1		3223	{{4,{400000,150},{800000,1500},{1500000,2100},{2500000,2400},{5000000,2700},{6000000,3000}}}	{0,0}		{6001102}	12	1	65	{103086,103089,103092}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression330_2.Area_Repression330_2
+5333	DLC6-难度2-速攻	1	5315	1		3331	{{2,{10,250},{60,2500},{80,3500},{110,4000},{130,4500},{145,5000}}}	{0,0}		{4002104,500110901,500110102,4001108,4001112,4001114,4001116,4003102,4003103,400110601}	12	1	80	{103087,103090,103093}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression328_3.Area_Repression328_3
+5334	DLC6-难度2-闪击	1	5316	1		3332	{{1,{0.1,125},{0.5,1250},{0.8,1750},{0.85,2000},{0.94,2250},{0.955,2500}},{3,{0.1,125},{0.5,1250},{0.7,1750},{0.85,2000},{0.95,2250},{1,2500}}}	{0,0}		{5001214,5001207,5003208,5001209,400121102,400121302,4001216}	12	1	80	{103087,103090,103093}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression329_3.Area_Repression329_3
+5335	DLC6-难度2-强袭	1	5317	1		3333	{{4,{400000,250},{800000,2500},{1500000,3500},{2500000,4000},{5000000,4500},{6500000,5000}}}	{0,0}		{6001004}	12	1	80	{103087,103090,103093}		0	0					{}								1801016	DLC6Task/Area_Repression3/Area_Repression330_3.Area_Repression330_3
+																															
+																															
+5610	DLC8-难度1-补给点A1	0	5610	1		4101	{200}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	35			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression401.Area_Repression401
+5611	DLC8-难度1-补给点A2	0	5611	1		4102	{200}	{0,0}		{5001001}	1	1	35			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression416.Area_Repression416
+5612	DLC8-难度1-补给点B1	0	5612	1		4103	{200}	{0,0}		{4001005,4001004,4001002,4001008}	1	1	35			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression403.Area_Repression403
+5613	DLC8-难度1-补给点B2	0	5613	1		4104	{200}	{0,0}		{5002010}	1	1	35			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression415.Area_Repression415
+5614	DLC8-难度1-补给点C1	0	5614	1		4105	{200}	{0,0}		{4001116,4002106,4001108}	1	1	35			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression402.Area_Repression402
+5615	DLC8-难度1-补给点C2	0	5615	1		4106	{200}	{0,0}		{5001001}	1	1	35			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression419.Area_Repression419
+5616	DLC8-难度2-补给点A1	0	5616	1		4201	{300}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression407.Area_Repression407
+5617	DLC8-难度2-补给点A2	0	5617	1		4202	{300}	{0,0}		{4001212,4001211,4001215}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression409.Area_Repression409
+5618	DLC8-难度2-补给点A3	0	5618	1		4203	{300}	{0,0}		{500110901}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression417.Area_Repression417
+5619	DLC8-难度2-补给点B1	0	5619	1		4204	{300}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression404.Area_Repression404
+5620	DLC8-难度2-补给点B2	0	5620	1		4205	{300}	{0,0}		{4001116,4002103,4001108}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression405.Area_Repression405
+5621	DLC8-难度2-补给点B3	0	5621	1		4206	{300}	{0,0}		{5001001}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression418.Area_Repression418
+5622	DLC8-难度2-补给点C1	0	5622	1		4207	{300}	{0,0}		{4001008,4003006,4003004}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression406.Area_Repression406
+5623	DLC8-难度2-补给点C2	0	5618	1		4208	{300}	{0,0}		{4001116,4002106,4001108}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression408.Area_Repression408
+5624	DLC8-难度2-补给点C3	0	5619	1		4209	{300}	{0,0}		{5001209}	1	1	50			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression420.Area_Repression420
+5625	DLC8-难度3-补给点A1	0	5620	1		4301	{500}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression412.Area_Repression412
+5626	DLC8-难度3-补给点A2	0	5621	1		4302	{500}	{0,0}		{4001005,4003004,4003006,4003007}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression413.Area_Repression413
+5627	DLC8-难度3-补给点A3	0	5622	1		4303	{500}	{0,0}		{4001102,4001108,4002103,4001116}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression414.Area_Repression414
+5628	DLC8-难度3-补给点A4	0	5623	1		4304	{500}	{0,0}		{4001104}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression421.Area_Repression421
+5629	DLC8-难度3-补给点B1	0	5624	1		4305	{500}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression410.Area_Repression410
+5630	DLC8-难度3-补给点B2	0	5625	1		4306	{500}	{0,0}		{4001116,4002103,4001108}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression411.Area_Repression411
+5631	DLC8-难度3-补给点B3	0	5623	1		4307	{500}	{0,0}		{4001102,4001108,4002103,4001116}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression427.Area_Repression427
+5632	DLC8-难度3-补给点B4	0	5624	1		4308	{500}	{0,0}		{5001203}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression422.Area_Repression422
+5633	DLC8-难度3-补给点C1	0	5622	1		4309	{500}	{0,0}		{4001212,4001213,4001215,4001211}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression424.Area_Repression424
+5634	DLC8-难度3-补给点C2	0	5618	1		4310	{500}	{0,0}		{4001116,4002106,4001108}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression425.Area_Repression425
+5635	DLC8-难度3-补给点C3	0	5619	1		4311	{500}	{0,0}		{4001003,4001004,4001005,4003007}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression426.Area_Repression426
+5636	DLC8-难度3-补给点C4	0	5620	1		4312	{500}	{0,0}		{500110902}	1	1	65			0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression423.Area_Repression423
+5637	DLC8-难度1-闪击	1	5626	1		4111	{{1,{0.1,50},{0.5,500},{0.8,700},{0.85,800},{0.875,900},{0.91,1000}},{3,{0.1,50},{0.5,500},{0.7,700},{0.8,800},{0.9,900},{1,1000}}}	{0,0}		{4001103,4001102,4001112,4001114,5001111,4002106,5003110}	12	1	50	{103105,103108,103111}		0	0					{}								1803057	DLC8Task/Area_Repression4/Area_Repression428_1.Area_Repression428_1
+5638	DLC8-难度1-驻防	1	5627	1		4112	{{5,{-20,100},{-15,1000},{-10,1400},{-6,1600},{-4,1800},{0,2000}}}	{0,0}		{34003007,34003006,400100802}	12	1	50	{103105,103108,103111}		0	0					{}								1803056	DLC8Task/Area_Repression4/Area_Repression429_1.Area_Repression429_1
+5639	DLC8-难度1-重装	1	5628	1		4113	{{4,{500000,75},{1500000,750},{4000000,1050},{6000000,1200},{10000000,1350},{16000000,1500}},{3,{0.1,25},{0.3,250},{0.5,350},{0.7,400},{0.8,450},{1,500}}}	{0,0}		{5001009,4001002,4001004}	12	1	50	{103105,103108,103111}		0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression430_1.Area_Repression430_1
+5640	DLC8-难度2-闪击	1	5626	1		4221	{{1,{0.1,75},{0.5,750},{0.75,1050},{0.8,1200},{0.875,1350},{0.9,1500}},{3,{0.1,75},{0.5,750},{0.7,1050},{0.8,1200},{0.9,1350},{1,1500}}}	{0,0}		{4001103,4001102,4001112,4001114,5003110,4002104}	12	1	65	{103106,103109,103112}		0	0					{}								1803057	DLC8Task/Area_Repression4/Area_Repression428_2.Area_Repression428_2
+5641	DLC8-难度2-驻防	1	5627	1		4222	{{5,{-20,150},{-15,1500},{-10,2100},{-8,2400},{-4,2700},{0,3000}}}	{0,0}		{34003007,34003006,34001015,4001016,400100802,4001017}	12	1	65	{103106,103109,103112}		0	0					{}								1803056	DLC8Task/Area_Repression4/Area_Repression429_2.Area_Repression429_2
+5642	DLC8-难度2-重装	1	5628	1		4223	{{4,{500000,100},{1500000,1000},{4000000,1400},{6000000,1600},{10000000,1800},{16000000,2000}},{3,{0.1,50},{0.3,500},{0.5,700},{0.7,800},{0.8,900},{1,1000}}}	{0,0}		{5002010,500101002,4001016,4001007}	12	1	65	{103106,103109,103112}		0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression430_2.Area_Repression430_2
+5643	DLC8-难度3-闪击	1	5626	1		4331	{{1,{0.1,125},{0.5,1250},{0.75,1750},{0.8,2000},{0.875,2250},{0.9,2500}},{3,{0.1,125},{0.5,1250},{0.7,1750},{0.8,2000},{0.9,2250},{1,2500}}}	{0,0}		{4001102,4001112,4001114,4002104,4002106,5001111,5003110}	12	1	80	{103107,103110,103113}		0	0					{}								1803057	DLC8Task/Area_Repression4/Area_Repression428_3.Area_Repression428_3
+5644	DLC8-难度3-驻防	1	5627	1		4332	{{5,{-20,250},{-15,2500},{-10,3500},{-8,4000},{-6,4500},{0,5000}}}	{0,0}		{34003007,34003006,4001015,400160202,400100802,4001017,4001016}	12	1	80	{103107,103110,103113}		0	0					{}								1803056	DLC8Task/Area_Repression4/Area_Repression429_3.Area_Repression429_3
+5645	DLC8-难度3-重装	1	5628	1		4333	{{4,{500000,150},{1500000,1650},{4000000,2350},{6000000,2650},{10000000,3000},{16000000,3350}},{3,{0.1,100},{0.3,850},{0.5,1150},{0.7,1350},{0.8,1500},{1,1650}}}	{0,0}		{5001009,5001019,500201003,4003007}	12	1	80	{103107,103110,103113}		0	0					{}								1803058	DLC8Task/Area_Repression4/Area_Repression430_3.Area_Repression430_3

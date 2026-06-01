@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，请查看一下您的资金状况，您当前已经拥有了一笔蓝图币。	分析員，請查看一下您的資金狀況，您目前已經擁有了一筆藍圖幣。	分析員、あなたが所持しているビジョンコインを確認してみて。	분석가님, 자금 현황을 확인해 보세요. 지금 설계 코인을 보유하고 계시네요.	Adjutant, please check your funds. You start with a sum of Builder Coins.						0	dlc30蓝图岛对话
+page1.2	各类建筑的经营维护也需要<orange>蓝图币</>，安卡希雅早就细心地为您考虑到了！	各類建築的經營維護也需要<orange>藍圖幣</>，安卡希雅早就細心地為您考慮到了！	建物の経営や維持にも<orange>ビジョンコイン</>が必要だけど、その辺はアカシアがちゃんと考えてくれてるはずだよ！	각종 건물의 경영과 점검에도 <orange>설계 코인</>이 필요한데요, 아카시아 님이 이미 당신을 위해 세심하게 준비해 뒀답니다!	Maintaining buildings costs <orange>Builder Coins</>, and Acacia already planned for that!						0	dlc30蓝图岛对话
+page1.3	不用在意尖尖耳，虽然尖尖耳对您二位的感情羡慕得要死，请继续经营你们二人的未来蓝图哦~	不用在意尖尖耳，雖然尖尖耳對您二位的感情羨慕得要死，請繼續經營你們兩人的未來藍圖喔~	ウサミミのことは気にしないで！二人の仲良しっぷりは超羨ましいけど、二人を未来へ導くために頑張ってね～！	뾰족귀는 신경 쓰지 마세요. 뾰족귀는 두 분의 사랑이 부러워 죽을 것 같긴 하지만, 두 분은 그냥 미래의 설계를 계속 이어 나가시면 돼요~	Don't mind me. I'm just touched by the bond you two share. Please keep building your future together~						0	dlc30蓝图岛对话

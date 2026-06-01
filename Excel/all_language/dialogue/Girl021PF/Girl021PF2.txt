@@ -1,0 +1,95 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	手术顺利结束了，各项指标都在可控范围内。隔着无菌医疗舱看着她——脸色不太好，闭着眼，皱着眉。	手術順利結束了，各項指標都在安全範圍內。隔著無菌醫療艙看著她——臉色不太好，閉着眼，皺着眉。	幸い手術は無事終わり、各種指標も管理可能な範囲に収まっている。医療カプセルのガラス越しに見えるネリーダは、まだ顔色が悪く、眉間に皺を寄せている。	수술은 무사히 끝났고, 각종 수치도 통제 가능한 범위였다. 무균 의료실 너머로 바라본 그녀는 표정이 좋지 않았고, 눈을 감은 채 미간을 찡그리고 있었다.	The surgery was successful, with all indicators within a stable range. Through the sterile medical pod, I could see her complexion wasn't good — eyes closed, brows furrowed.						0	2.7版本奈莉德个人剧情
+2	（倒是很少见到这副模样。）	（倒是很少看到這副模樣。）	（こんな表情は滅多に見られないな…）	(이런 모습은 정말 보기 드문데.)	(It's rare to see her like this.)						0	2.7版本奈莉德个人剧情
+3	她睁开眼睛，立刻就看见了我，冲我勉强笑了一下。	她睜開眼睛，立刻就看見了我，勉強對我笑了一下。	彼女――ネリーダはゆっくりと目を開くと、まず私を見つけ、わずかに苦笑いを浮かべる。	그녀는 눈을 뜨자마자 나를 발견하고는 억지로 웃어 보였다.	She opened her eyes, immediately spotted me, and forced a slight smile.						0	2.7版本奈莉德个人剧情
+4	哪里不舒服吗？	哪裡不舒服嗎？	具合が悪いか？	어디 아파?	Is something wrong?						0	2.7版本奈莉德个人剧情
+5	有点头疼。不过还好。	有點頭痛，不過還好。	少し頭が痛むが、耐えられないほどではない。	머리가 조금 아픈데, 그래도 괜찮아.	I have a bit of a headache. But it's nothing serious.						0	2.7版本奈莉德个人剧情
+6	经过电子转换的声音有些失真，但能听出她的平静和镇定。	經過電子轉換的聲音有些失真，但能聽出她的平靜和鎮定。	電子フィルタを通す声には若干の歪みがあるが、その冷静さは変わらない。	전자음으로 전환된 목소리는 다소 왜곡되게 들렸지만, 여전히 그녀의 평온함과 침착함이 느껴졌다.	Her voice sounded somewhat distorted through the electronics, but still calm and composed.						0	2.7版本奈莉德个人剧情
+7	接下来要静养，逐渐适应这种力量。嗯……你大概是唯一一个在神格天启前就使用过泰坦力量的天启者，应该比别人更有经验。	接下來要靜養，逐漸適應這種力量。嗯……你大概是唯一一個在神格天啟前就使用過泰坦力量的天啟者，應該比別人更有經驗。	これからは安静にして、ゆっくりその力に慣れていくんだ。アポカリプス前タイタンの力を使ってたのは君くらいだろうし、他の人よりは慣れが早いかもな。	이제 잘 쉬면서 점차 이런 힘에 적응해야 해. 음… 넌 거의 유일하게 만트라 계시 전에 타이탄의 힘을 써 본 계시자니까, 다른 사람보다 괜찮을 거야.	Now you need to rest and gradually adjust to this power. Hmm, you're probably the only Manifestation who used Titagen before surgery, so you should have more experience than most.						0	2.7版本奈莉德个人剧情
+8	对了，要小心神格侵蚀。	對了，要小心神格侵蝕。	ただし神格侵蝕には気をつけるんだ。	맞다, 만트라 침식을 조심해야 해.	But be careful not to get Flooded.						0	2.7版本奈莉德个人剧情
+9	如果突然看见了幻象、不存在的神明或者明显让你不舒服的幻觉，就告诉我。	如果突然看到幻象、不存在的神明或是明顯讓你不舒服的幻覺，就告訴我。	変な幻覚や、得体の知れない「存在」を見たりしたら教えてほしい。	갑자기 환영이 보이거나 존재하지 않는 신, 또는 너를 불편하게 하는 환각이 보이면 나한테 알려줘.	If you ever find yourself seeing hallucinations, non-existent deities, or visions that make you feel unwell, let me know.						0	2.7版本奈莉德个人剧情
+10	我来处理。	我來處理。	私が対処する。	내가 처리할게.	I can help.						0	2.7版本奈莉德个人剧情
+11	我会注意。	我會注意。	わかった。	조심할게.	I'll keep that in mind.						0	2.7版本奈莉德个人剧情
+12	什么时候能从这里出来？	什麼時候能從這裡出來？	いつここを出られる？	여기는 언제 나갈 수 있어?	When can I get out of here?						0	2.7版本奈莉德个人剧情
+13	我问一下。	我問一下。	あぁ、聞いてくる。	물어봐 줄게.	Let me check.						0	2.7版本奈莉德个人剧情
+14	在征求了医疗部的意见之后，我打开了医疗舱的门。	在徵求了醫療部的意見之後，我打開了醫療艙的門。	医療部に確認すると、どうやら短時間なら外に出ても問題ないらしい。私は医療カプセルを開けた。	나는 의료부의 의견을 물어본 다음, 의료실 문을 열었다.	After consulting with the Medical Department, I opened the medical pod.						0	2.7版本奈莉德个人剧情
+15	呼……	呼……	…ふぅ。	후우…	Whew...						0	2.7版本奈莉德个人剧情
+16	里面很闷？	裡面很悶？	息苦しかったのか？	답답해?	Was it stuffy in there?						0	2.7版本奈莉德个人剧情
+17	有一些。	有一點。	まぁな…	조금은.	A little.						0	2.7版本奈莉德个人剧情
+18	她扶了扶额头，吸了口气，站了起来。	她扶了扶額頭，吸一口氣，並站起來。	彼女はこめかみを押さえつつ、深呼吸してゆっくり立ち上がる。	그녀는 이마를 짚더니 숨을 들이마시고 자리에서 일어났다.	She steadied herself, took a deep breath, and stood up.						0	2.7版本奈莉德个人剧情
+19	慢点——	慢點——	無理するなよ。	조심해…	Careful—						0	2.7版本奈莉德个人剧情
+20	我没事。	我沒事。	…平気だ。	괜찮아.	I'm fine.						0	2.7版本奈莉德个人剧情
+21	她脸上还是有些苍白，皱着眉头，走出了医疗舱。	她臉上還是有些蒼白，皺著眉頭，走出了醫療艙。	顔はまだ青ざめているが、本人は歩きだそうとする。	그녀는 얼굴이 다소 창백했고, 미간을 찡그린 채 의료실에서 나왔다.	Her face was still pale, her brow furrowed as she stepped out of the pod.						0	2.7版本奈莉德个人剧情
+22	小心。	小心。	気をつけろよ。	조심해.	Let me help.						0	2.7版本奈莉德个人剧情
+23	不……我要自己来。	不……我要自己來。	…自分で大丈夫。	아냐… 나 혼자 할게.	No... I need to do this myself.						0	2.7版本奈莉德个人剧情
+24	她一个踉跄，但还是自己站住了。站在原地匀了口气，接着慢慢往门外走去。	她一個踉蹌，但還是自己站住了。站在原地調整了呼吸，接著慢慢往門外走去。	ぐらりと体が揺れかけるが、なんとか踏みとどまり、呼吸を整えながらゆっくりと部屋の扉へ向かう。	그녀는 비틀거렸지만, 그래도 혼자서 일어났다. 제자리에 서서 잠시 호흡을 고르더니 천천히 문밖으로 나갔다.	She stumbled but quickly caught herself. After taking a moment to catch her breath, she slowly started walking toward the exit.						0	2.7版本奈莉德个人剧情
+25	我则跟在她的身后，随时准备接住她。	我則跟在她的身後，隨時準備接住她。	私は後ろにつき、何かあったら支えるつもりで身構えていた。	나는 그녀의 뒤를 따르며 언제든지 그녀를 부축하려 준비했다.	I followed behind, ready to catch her.						0	2.7版本奈莉德个人剧情
+26	意外的是，她虽然走得慢，但却越来越稳，安全地走到了房间里。	意外的是，她雖然走得慢，但卻越來越穩，安全地走到了房間裡。	ところが彼女は数歩ずつ慎重に歩を進めるうち、だんだん安定してきて、そのまま何事もなく部屋へ到着する。	그녀는 걸음이 느렸지만 의외로 점차 안정되었고, 안전하게 방에 도착했다.	To my surprise, even though her pace was slow, she became steadier with each step, safely making it to the room.						0	2.7版本奈莉德个人剧情
+27	她出了很多汗，顺着她的脸颊往下淌，几缕碎发贴着头皮。	她流了很多汗，順著她的臉頰往下淌，幾縷碎髮貼著頭皮。	体じゅう汗をかいているらしく、額から頬へ伝う汗が髪の生え際を湿らせている。	그녀는 땀을 많이 흘렸다. 땀이 볼을 따라 흘러내렸고, 잔머리 몇 가닥이 얼굴에 달라붙어 있었다.	Sweat beaded and streamed down her cheeks, with strands of hair sticking to her face.						0	2.7版本奈莉德个人剧情
+28	但神情却相当自然——比手术刚结束时好多了。有了几分血色，不像刚做过手术的样子。	但神情卻非常自然——比手術剛結束時好多了。有了幾分血色，不像剛做過手術的樣子。	でも表情には先ほどまでの辛そうな感じがなく、むしろいくらか血色が戻ってきたようだ。	하지만 표정은 꽤 자연스러웠고, 수술이 막 끝났을 때보다 훨씬 좋아졌다. 얼굴에 혈색이 돌았고, 방금 수술을 받은 사람처럼 보이지 않았다.	Still, her expression was natural — far better than it had been right after the surgery. Color had returned, and she no longer looked like someone who had just undergone an operation.						0	2.7版本奈莉德个人剧情
+29	这样走一走，对适应泰坦力量有好处。	這樣走一走，對適應泰坦力量有好處。	こうやって身体を動かしたほうが、タイタンの力に馴染みやすいかもな。	좀 걸어 다니는 게 타이탄 힘에 적응하기에 좋아.	Walking like this will help me adjust to the Titagen power.						0	2.7版本奈莉德个人剧情
+30	但很疼吧？	但很痛吧？	でも痛いだろ？	그래도 아프지?	But it must hurt, right?						0	2.7版本奈莉德个人剧情
+31	能感觉到疼是好事。	能感覺到痛是好事。	痛みを感じるというのは、生きている証拠だ。	아픔이 느껴진다는 건 좋은 일이지.	Being able to feel pain is a good thing.						0	2.7版本奈莉德个人剧情
+32	她抬起手，看着萦绕在掌心的黑色能量流，其中掺杂着赤红色的暗潮。	她抬起手，看着縈繞在掌心的黑色能量流，其中掺雜著赤紅色的暗潮。	そう言いながら、彼女は手のひらに生まれる漆黒のエネルギーを見つめる。その中に赤い波がまざって渦巻いている。	그녀는 손을 들어 손바닥에 맴도는 검은 에너지 흐름을 바라보았다. 그중에는 진홍색의 어두운 기류가 섞여 있었다.	She raised her hand, watching as black energy swirled in her palm, streaked with crimson currents.						0	2.7版本奈莉德个人剧情
+33	别太心急。这里不是菲洛索亚，不需要你一个人跑来跑去的。	別太心急。這裡不是菲洛索亞，不需要你一個人跑來跑去的。	無理をしなくていい。ここはフィロゾアじゃないんだ。何でも一人で駆け回る必要なんかないさ。	조급해하지 마. 여긴 필로시아가 아냐. 너 혼자 바삐 다닐 필요 없어.	Take it slow. This isn't Philossia — you don't have to push yourself so hard.						0	2.7版本奈莉德个人剧情
+34	听你安排。但，别总让我闲着。	聽你安排。但，別讓我一直閒著。	わかっている。だが、退屈だけは御免だ。	네 말대로 할게. 대신 한가하게 두지는 마.	I'll follow your arrangements, but don't let me sit idle for too long.						0	2.7版本奈莉德个人剧情
+35	行了，怎么说也是做了个手术，总归是要有恢复期的。	好了，再怎麼說也是做了個手術，還是要有恢復期的。	まあ手術したばかりだし、まずは休んでくれ。	알겠어. 그래도 수술은 수술이니까, 회복 기간이 필요해.	Alright, but you've just had surgery. Give yourself some time to recover.						0	2.7版本奈莉德个人剧情
+36	看你身上的汗……	看你身上的汗……	…汗もだいぶかいているな。	땀 많이 흘렸네…	Look at you — you're drenched in sweat...						0	2.7版本奈莉德个人剧情
+37	不能洗澡？	不能洗澡？	シャワーは…やめたほうがいいのか？	씻으면 안 돼?	I can't take a shower?						0	2.7版本奈莉德个人剧情
+38	当然不能。擦擦身子吧。	當然不能。擦擦身體吧。	まだだめだ。体を拭くぐらいにしとけ。	당연히 안 되지. 수건으로 닦아.	Not yet. Just wipe yourself down for now.						0	2.7版本奈莉德个人剧情
+39	我接了一盆温水放在她旁边，把拧干的毛巾递给她。	我接了一盆溫水放在她旁邊，把擰乾的毛巾拿給她。	洗面器に湯を用意して、タオルを絞って手渡す。	나는 따뜻한 물을 받아 그녀 옆에 두고, 꽉 짠 수건을 그녀에게 건넸다.	I brought over a basin of warm water and set it beside her, handing her a towel.						0	2.7版本奈莉德个人剧情
+40	她接了过去，把脸埋在温热的毛巾里捂了一会儿。在毛巾拿开的时候，我似乎捕捉到一丝东西。	她接了過去，把臉埋在溫熱的毛巾裡摀了一下。在毛巾拿開的時候，我似乎捕捉到一絲東西。	ネリーダはそれを受け取り、しばらく顔をうずめていたが、何か感じたのか息をつく。	그녀는 수건을 받아 따뜻한 수건에 얼굴을 잠시 묻었다. 그녀가 수건을 떼어낼 때, 나는 미묘한 무언가를 발견했다.	She took the warm towel and pressed it to her face for a moment. When she lowered it, I thought I saw a fleeting expression.						0	2.7版本奈莉德个人剧情
+41	我来帮你吧。	我來幫你吧。	手が届かないところ、やってやろうか？	내가 도와줄게.	Let me help you.						0	2.7版本奈莉德个人剧情
+42	嗯。	嗯。	あぁ。	응.	Alright.						0	2.7版本奈莉德个人剧情
+43	我接过她手里的毛巾，撩起她的头发，帮她擦着脖颈。	我接過她手裡的毛巾，撩起她的頭髮，幫她擦著脖頸。	タオルを受け取り、髪を上に持ち上げて首筋や背中を拭く。	나는 그녀가 들고 있던 수건을 받은 다음, 머리카락을 들어 올려 목덜미를 닦아주었다.	I took the towel from her hand, lifted her hair, and gently wiped the back of her neck.						0	2.7版本奈莉德个人剧情
+44	重点照顾了她碰不到的后背。当然，敏感的部分还是交给她自己来处理。	重點照顧了她碰不到的後背。當然，敏感的部分還是交給她自己來處理。	敏感な部分はさすがに自分でやらせたけど。	그녀가 손이 닿지 않는 등 부분을 집중적으로 닦아주었고, 물론 민감한 부분은 그녀에게 맡겼다.	I focused on the areas she couldn't reach, like her back, leaving the more delicate spots for her to manage herself.						0	2.7版本奈莉德个人剧情
+45	房间的温度不低，加上热毛巾的擦拭，她的脸蛋红彤彤的，眼神也没有平时那么锋利了。	房間的溫度不低，加上熱毛巾的擦拭，她的臉蛋紅通通的，眼神也沒有平常那麼鋒利了。	部屋の温度とお湯の温かさで、彼女の頬は赤く染まり、厳しかった目つきも少し和らいで見える。	실내 온도가 다소 높은 데다가 뜨거운 수건으로 몸을 닦으니 그녀의 얼굴이 새빨개졌고, 눈빛도 평소처럼 날카롭지 않았다.	The room temperature was rather pleasant, and the warmth of the towel gave her cheeks a rosy glow. Even her eyes had softened to a more gentle look.						0	2.7版本奈莉德个人剧情
+46	别着凉。时候也不早了，好好休息吧。	別著涼。時候也不早了，好好休息吧。	冷えないようにな。時間も遅いし、ゆっくり休め。	감기 걸리지 말고. 시간도 늦었는데 푹 쉬어.	Don't catch a chill. It's getting late — get some rest.						0	2.7版本奈莉德个人剧情
+47	我把我的外套披在她的身上，帮她关上了灯。	我把我的外套披在她的身上，幫她關上了燈。	自分の上着を彼女の肩にかけ、部屋の明かりを消してやった。	나는 내 외투를 그녀에게 덮어주고 불을 꺼 주었다.	I draped my coat over her and turned off the light.						0	2.7版本奈莉德个人剧情
+48	晚安。	晚安。	おやすみ。	잘 자.	Good night.						0	2.7版本奈莉德个人剧情
+49	晚安。	晚安。	おやすみ。	잘 자.	Good night.						0	2.7版本奈莉德个人剧情
+50	次日上午，我敲响了奈莉德的房门。	次日上午，我敲響了奈莉德的房門。	翌朝、ネリーダの部屋をノックしても返事はない。	다음 날 오전, 나는 네리다의 방문을 두드렸다.	The next morning, I knocked on Nerida's door.						0	2.7版本奈莉德个人剧情
+51	床褥叠得整齐，可奈莉德并不在房间里。	床褥疊得整齊，但奈莉德並不在房間裡。	ベッドはきれいに整えられているが、彼女の姿はどこにも見当たらない。	이불이 가지런히 개어져 있었고, 네리다는 방 안에 없었다.	The bed was neatly made, but Nerida herself was nowhere in sight.						0	2.7版本奈莉德个人剧情
+52	我拨通了奈莉德的通讯终端——	我撥通了奈莉德的通訊終端——	通信端末で連絡をとると――	나는 네리다의 통신 단말기로 연결했다.	I called her terminal—						0	2.7版本奈莉德个人剧情
+53	playername，有任务吗？	playername，有任務嗎？	playernameか、早速ミッションか？	playername, 임무야?	playername, do you have a mission for me?						0	2.7版本奈莉德个人剧情
+54	你跑哪去了？	你跑去哪了？	今どこだ？	어디 갔어?	Where did you run off to?						0	2.7版本奈莉德个人剧情
+55	我在靶场练枪。	我在靶場練槍。	射撃場だ。体を動かしている。	사격장에서 사격 연습 중이야.	I'm at the shooting range practicing.						0	2.7版本奈莉德个人剧情
+56	……你是不是忘了你昨天才做过手术？	……你是不是忘了你昨天才做過手術？	…昨日手術したばっかりだろ。	… 잊었어? 너 어제 수술 받았어.	...Did you forget you just had surgery yesterday?						0	2.7版本奈莉德个人剧情
+57	睡醒之后没什么特别的感觉，就来这里热热身。	睡醒之後沒什麼特別的感覺，就來這裡熱熱身。	寝起きが良かったから、体を温めているところだ。	일어났는데 별다른 느낌이 없길래 여기서 몸 좀 풀고 있었어.	I felt fine when I woke up, so I decided to come and warm up.						0	2.7版本奈莉德个人剧情
+58	好吧，我去找你。	好吧，我去找你。	はぁ…わかった、そっちへ行く。	알겠어. 너한테 갈게.	Fine... I'll come find you.						0	2.7版本奈莉德个人剧情
+59	我推开门，奈莉德拿着一把手枪练习着。子弹命中金属标靶的悦耳声音连成了串，移动靶被子弹的动能打得几乎要反倒过去。	我推開門，奈莉德拿著一把手槍練習著。子彈命中金屬標靶的悅耳聲音連成了一串，移動靶被子彈的動能打得幾乎要翻倒。	射撃場に行くと、ネリーダはハンドガンでターゲットを撃ちまくっていた。弾丸が金属の標的を撃ち抜き、連続でカンカンと小気味いい音を響かせる。	문을 열어 보니 네리다는 피스톨을 들고 연습하고 있었다. 총알이 금속 표적에 명중하며 경쾌한 소리가 이어졌고, 이동 과녁은 총알의 힘을 이기지 못하고 거의 넘어질 뻔했다.	I opened the door to find Nerida practicing with a pistol. The rhythmic sound of bullets striking metal filled the air, the moving targets jolting back from the force of impact.						0	2.7版本奈莉德个人剧情
+60	隔音耳套放在桌子上，她的身体随着手枪的后坐力有节奏地摆动，退出的弹壳抛飞成线。整个弹匣的子弹打完，手枪空仓挂机，她这才放下枪，走了过来。	隔音耳罩放在桌子上，她的身體隨著手槍的後座力有節奏地擺動，退出的彈殼拋飛成線。整個彈匣的子彈打完，手槍空匣掛機，她這才放下槍，走了過來。	耳栓もせず、体を揺らしながら撃ち続ける。薬莢が光のように舞い、スライドが止まるまで引き金を離さない。弾が尽きるとようやく銃を置いてこっちに近づいてきた。	방음 귀마개는 탁자에 놓여 있었다. 그녀의 몸은 피스톨의 반동에 따라 리듬감 있게 흔들렸고, 빠져나온 탄피가 줄지어 떨어졌다. 탄창 속 탄약이 소진되어 빈 탄창이 걸리자, 그녀는 그제야 총을 내려놓고 다가왔다.	The earmuffs were left on the table. Her body moved with the recoil, empty casings flying in arcs. Only when the magazine was empty did she put it down and walk toward me.						0	2.7版本奈莉德个人剧情
+61	除了格斗还会射击。军方竟然能漏掉你这种人才。	除了格鬥還會射擊。軍方竟然能漏掉你這種人才。	格闘だけじゃなく射撃までこなす人材を見逃すとは、軍の人材発掘も甘いな。	격투 아니면 사격뿐이구나. 군대에서 너 같은 인재를 놓치다니.	On top of melee combat, you're also incredible at shooting. Hard to believe the military let someone with your skills slip by.						0	2.7版本奈莉德个人剧情
+62	还有不会用枪的耶洛沙人？	還有不會用槍的耶洛沙人？	イェロシャ人で銃を扱えない者など、そうはいないだろう。	총을 못 쓰는 옐로샤인도 있나?	Is there anyone from Yehrus who doesn't know how to use a gun?						0	2.7版本奈莉德个人剧情
+63	我耸耸肩，不置可否。	我聳聳肩，不予置評。	軽く肩をすくめる。	나는 어깨를 으쓱할 뿐 대답하지 않았다.	I shrugged, choosing not to answer her rhetorical question.						0	2.7版本奈莉德个人剧情
+64	后勤部专门为你设计了突击步枪。现在看来你也不需要射击教学了。	後勤部專門為你設計了突擊步槍。現在看來你也不需要射擊教學了。	後方支援部が、君専用のアサルトライフルを仕上げたらしい。見たところ、射撃指導の必要もなさそうだな。	지원부가 너를 위한 돌격 소총을 만들었는데. 지금 보니 사격 교육은 필요 없겠네.	The Logistics Department designed an assault rifle for you. And it looks like there's no need for any shooting lessons.						0	2.7版本奈莉德个人剧情
+65	所以，什么时候轮到我出任务？	所以，什麼時候輪到我出任務？	で、ミッションは？いつ出られる？	그래서, 내 임무는 언제야?	So, when will I get to go on a mission?						0	2.7版本奈莉德个人剧情
+66	……如果你真这么想试试身手的话，去医疗部再做一趟检查。	……如果你真的這麼想試試身手的話，去醫療部再做一次檢查。	…そんなに動きたいなら、まずもう一度医療部へ行って検査を受けろ。	… 그렇게 실력 발휘해 보고 싶으면 의료부에 가서 다시 검사받아 봐.	...If you're really that eager to test yourself, head to the Medical Department for a follow-up.						0	2.7版本奈莉德个人剧情
+67	没问题的话，我给你派个任务。	沒問題的話，我就派個任務給你。	OKが出たら仕事を回そう。	문제없다고 하면 임무를 줄게.	If everything checks out, I'll assign you a mission.						0	2.7版本奈莉德个人剧情
+68	一言为定，你在这里等我。	一言為定，你在這裡等我。	話は早いな。じゃ、しばし待っていろ。	약속한 거다, 여기서 기다려.	Deal. Wait for me here.						0	2.7版本奈莉德个人剧情
+69	半个小时后，奈莉德拿着一张纸，风风火火地走了进来。	半個小時後，奈莉德拿著一張紙，急忙地走了進來。	三十分後、書類を手にしたネリーダが意気揚々と戻ってきた。	30분 후, 네리다는 종이 한 장을 들고 기세등등하게 걸어왔다.	Half an hour later, Nerida strode back into the room with a piece of paper in hand.						0	2.7版本奈莉德个人剧情
+70	检查报告。	檢查報告。	診断書、問題なしだ。	검사 보고서야.	The examination report.						0	2.7版本奈莉德个人剧情
+71	我仔细看了看，确认了医疗部的意见是“可以出勤”之后，叹了口气。	我仔細看了看，確認了醫療部的意見是「可以出勤」之後，嘆了口氣。	その結果を確認し、諦めたように小さく息をつく。	나는 자세히 살펴봤고, '근무 가능'이라는 의료부의 의견을 확인한 후 한숨을 내쉬었다.	I carefully reviewed it, and the Medical Department's verdict was "fit for duty." I let out a sigh.						0	2.7版本奈莉德个人剧情
+72	好吧。	好吧。	…わかった。	알겠어.	Alright.						0	2.7版本奈莉德个人剧情
+73	这是你的枪，后勤部的同事刚刚送过来了。	這是你的槍，後勤部的同事剛剛送過來了。	ほら、ちょうど銃が届いた。	이건 네 총이야. 방금 지원부에서 보낸 거야.	Here's your rifle. A logistics colleague just brought it over.						0	2.7版本奈莉德个人剧情
+74	试试看。	試試看。	試してみろ。	한번 쏴 봐.	Go ahead and give it a try.						0	2.7版本奈莉德个人剧情
+75	奈莉德拿起那把突击步枪，先是掂了掂重量，然后检查了一遍瞄具、弹仓、枪托和扳机，最后打开了保险，瞄准了标靶——	奈莉德拿起那把突擊步槍，先是感覺一下重量，然後檢查了一遍瞄具、彈匣、槍托和扳機，最後打開保險，瞄準標靶——	差し出されたアサルトライフルを、ネリーダは素早く点検。重さの感触を確かめ、照準器、マガジン、ストック、トリガー…最後にセーフティを外し、標的を狙う。	네리다는 그 돌격 소총을 들고 무게부터 가늠했다. 그 후 조준기, 탄창, 개머리판, 방아쇠를 살펴보더니 마지막으로 안전장치를 푼 후 표적을 조준했다.	Nerida picked up the assault rifle, weighing it in her hands. She checked the sights, magazine, stock, and trigger before finally releasing the safety and aiming at the target—						0	2.7版本奈莉德个人剧情
+76	先是一串短点射，接着是有节奏地火力压制。被折磨的金属标靶终于不堪重负，被奈莉德的子弹撕成了几瓣。	先是一串短點射，接著是有節奏地火力壓制。被折磨的金屬標靶終於不堪重負，被奈莉德的子彈撕成了幾瓣。	短いバースト射撃のあと、間を置いた抑え込みの連射。もうボロボロになっていた金属ターゲットがついに真っ二つに砕けた。	우선은 짧은 연발 사격이었고, 리드미컬한 제압 사격이 이어졌다. 계속 시달린 금속 표적은 결국 이겨내지 못하고 네리다의 총알에 몇 조각으로 갈라졌다.	A short burst of bullets came first, followed by rhythmic fire. The battered metal target couldn't hold out for long and was finally torn into pieces.						0	2.7版本奈莉德个人剧情
+77	还算好用。	還算好用。	悪くない。	나쁘지 않네.	This will do.						0	2.7版本奈莉德个人剧情
+78	那就好。任务的话，先从侦查开始做吧。	那就好。任務的話，先從偵查開始做吧。	いい感じか。じゃあ、最初のミッションは偵察にしておく。	잘됐네. 우선 정찰 임무부터 시작하자.	Good. As for the mission, let's start with reconnaissance.						0	2.7版本奈莉德个人剧情
+79	和你的调查工作很像。主要是收集任务区域内的各种情况，包括地形、资源、敌人分布之类的。	和你的調查工作很像。主要是收集任務區域內的各種情況，包括地形、資源、敵人分布之類的。	調査員の経験を活かして、地形や資源、敵の分布を集めてきてくれ。	네 조사 업무랑 비슷해. 주로 임무 구역 내의 각종 상황을 수집하는 거야. 지형, 자원, 적 분포 등등.	It's similar to the investigative work you've done. You'll collect information about the mission area — terrain, resources, enemy positions, and the like.						0	2.7版本奈莉德个人剧情
+80	知道了。	知道了。	了解した。	알겠어.	Understood.						0	2.7版本奈莉德个人剧情
+81	别急着走。	別急著走。	ちょっと待て。	서두르지 마.	Don't rush off yet.						0	2.7版本奈莉德个人剧情
+82	你还不太熟悉霍尔姆的环境，我给你找个队友，万一有突发情况也有个照看。	你還不太熟悉霍爾姆的環境，我幫你找個隊友，萬一有突發狀況也有個照應。	この辺りの地理は慣れていないはずだ。誰か隊員を一人つける。万が一のときに備えてな。	아직 홀름 상황을 잘 모르잖아. 내가 파트너를 찾아줄게. 돌발 상황이 생기면 도와줄 수 있으니까.	You're not that familiar with Holme. I'll assign an operative to accompany you, just in case of emergencies. Someone to watch your back.						0	2.7版本奈莉德个人剧情
+83	我一个人就能胜任。	我一個人就能勝任。	一人でも十分だ。	나 혼자면 충분해.	I can handle it alone.						0	2.7版本奈莉德个人剧情
+84	（是一个人惯了吗？）	（是一個人習慣了嗎？）	(ずっと一人でやってきたんだろうな…)	(혼자가 익숙한가?)	(Is it because she's used to doing everything on her own?)						0	2.7版本奈莉德个人剧情
+85	我拉住她的手，感受着她体内的泰坦物质浓度。	我拉住她的手，感受著她體內的泰坦物質濃度。	とりあえずネリーダの手を軽く取って、体内のタイタン物質の反応を感じ取ってみる。	나는 그녀의 손을 잡고 체내의 타이탄 물질 농도를 느꼈다.	I grabbed her hand, feeling the concentration of Titagen in her body.						0	2.7版本奈莉德个人剧情
+86	……	……	…	…	...						0	2.7版本奈莉德个人剧情
+87	好吧。保持联系，不要勉强，随时汇报情况。	好吧。保持聯絡，不要勉強，隨時彙報情況。	…わかった。でも連絡だけは絶対怠るな。	좋아. 계속 연락하고, 무리하지 말고, 수시로 상황 보고해.	Fine. But stay in touch, don't push yourself, and make regular reports.						0	2.7版本奈莉德个人剧情
+88	相信我。	相信我。	心配するな。	나를 믿어.	Trust me.						0	2.7版本奈莉德个人剧情
+89	奈莉德用拳头碰了碰我的胸口，离开了靶场。	奈莉德用拳頭碰了碰我的胸口，離開了靶場。	ネリーダは軽く拳を私の胸に当てて、射撃場をあとにする。	네리다는 주먹으로 내 명치를 두드리고 사격장을 떠났다.	Nerida bumped her fist lightly against my chest before walking off.						0	2.7版本奈莉德个人剧情
+90	在刚刚的接触中，还是清晰地感受到了泰坦物质的存在。	在剛剛的接觸中，還是清晰地感受到了泰坦物質的存在。	先ほど触れたとき、わずかにタイタン物質を感じたが…	방금 그 접촉에서 타이탄 물질의 존재를 분명하게 느낄 수 있었다.	During that brief contact, I could distinctly sense the presence of Titagen.						0	2.7版本奈莉德个人剧情
+91	我不确定在她身上有没有发生过神格侵蚀。泰坦物质浓度很低，她并没有明显的痛苦或者不适的症状。除非她自己告诉我，否则暂时无从判断。	我不確定在她身上有沒有發生過神格侵蝕。泰坦物質濃度很低，她並沒有明顯的痛苦或不適的症狀。除非她自己告訴我，否則暫時無從判斷。	…彼女自身は痛みや異変が無いようだ。もし神格侵蝕が起きていても、本人が言わない限り把握は難しい。	나는 그녀의 몸에 만트라 침식이 일어났는지 확신할 수 없었다. 타이탄 물질 농도는 낮았고, 그녀에게는 분명한 고통 또는 불편 증상이 나타나지 않았다. 그녀가 직접 알려주지 않는 이상 나는 당분간 판단할 방법이 없다.	I wasn't sure if she had ever experienced Flooding. Her Titagen concentration was low, and she showed no signs of discomfort. Unless she told me herself, there was no way to confirm.						0	2.7版本奈莉德个人剧情
+92	于是，我也走出了靶场。	於是，我也走出了靶場。	そう思いつつ、射撃場を出る。	그래서 나도 사격장을 나섰다.	And so, I left the shooting range as well.						0	2.7版本奈莉德个人剧情
+93	（我来做你的队友吧，奈莉德。）	（我來當你的隊友吧，奈莉德。）	（放っておけないな、ネリーダ…）	(내가 네 파트너가 될게, 네리다.)	(I'll tag along this time, Nerida.)						0	2.7版本奈莉德个人剧情

@@ -1,0 +1,155 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	听得到吗？喂？能听见吗？	聽得到嗎？喂？能聽見嗎？	聞こえる？もしもし？聞こえる？	들려? 여보세요? 들려?	Can you hear me? Hello? Is this coming through?						0	3.2版本新序章
+2	现在好多了。泰坦物质的浓度已经到临界点了，这应该是最后一次通讯。	現在好多了。泰坦物質的濃度已經到臨界點了，這應該是最後一次通訊。	さっきより聞こえているよ。タイタン物質の濃度が臨界点に達したから、これが最後の通信になりそうだ。	이제 좀 낫네. 타이탄 물질 농도가 임계치에 도달했어. 아마 이게 마지막 통신이 될 거야.	Coming in clearer now. Titagen levels just hit critical — this'll likely be our last transmission.						0	3.2版本新序章
+3	噢……知道了。你们打得怎么样？	噢……知道了。你們打得怎麼樣？	そう……わかった。そっちはどう？	아… 알겠어. 전투는 어땠어?	...Understood. How's it going on your end?						0	3.2版本新序章
+4	还算顺利。清除了泰坦之后，直到现在都没再遇见过敌人。	還算順利。清除了泰坦之後，直到現在都沒再遇到過敵人。	順調だ。タイタンを排除してから、まだ敵に遭遇していない。	순조로운 편이야. 타이탄을 제거하고 나서 지금까지 적과 마주치지 않았어.	Rather smoothly. We haven't encountered any enemies since we took down the Titan.						0	3.2版本新序章
+5	好了，坐标已经传给你了。	好了，座標已經傳給你了。	座標も送っておいた。	자, 좌표 보냈어.	I've sent you our coordinates.						0	3.2版本新序章
+6	好。我这边的雪也很大了，发射之后我就出发。	好。我這邊的雪也很大了，發射之後我就出發。	うん。こっちも結構吹雪いてきたから、発射させたら出発するね。	응. 이쪽도 눈이 많이 오네. 발사 후에 바로 출발할게.	Snow's heavy here too. I'll move out once I send the airdrop.						0	3.2版本新序章
+7	收到了。正在校准位置。	收到了。正在校準位置。	座標、受け取ったよ。位置修正中。	받았어. 위치 조정 중이야.	Coordinates received — calibrating now.						0	3.2版本新序章
+8	空投物资已发射，预计五分钟后到达。	空投物資已發射，預計五分鐘後抵達。	物資発射完了、5分くらいで到着すると思う。	공수 물자 발사 완료. 5분 후 도착 예정이야.	Payload is airborne. ETA five minutes.						0	3.2版本新序章
+9	嗯。我们会就地补给，你到达目标位置之后发射信号弹，我们会就地扎营，然后回应信号弹。	嗯。我們會就地補給，你到達目標位置之後發射信號彈，我們會就地紮營，然後回應信號彈。	ああ。ここでしばらく休憩するから、目標地点に着いたら信号弾をあげてくれ。そしたらキャンプ地を建てて、信号弾に答える。	응. 현장에서 바로 보급할게. 네가 목표 지점에 도착해서 신호탄을 발사하면, 우리는 그 자리에서 야영하고 신호탄으로 응답할게.	We'll resupply on the spot. Once you get near the target location, pop a flare — we'll make camp and respond in kind.						0	3.2版本新序章
+10	收到。预计……当地时间晚上六点到达坐标位置。	收到。預計……當地時間晚上六點到達座標位置。	了解。だいたい…現地時間の午後6時に座標位置に到着する予定だ。	알겠어. 예상 시간은… 현지 시각 오후 6시에 좌표 위치로 도착할 거야.	Copy. ETA... 18:00 local.						0	3.2版本新序章
+11	好。	好。	了解。	알겠어.	Copy that. Stay sharp.						0	3.2版本新序章
+12	略微迟疑，但还是挂掉了通讯。	略微遲疑，但還是掛掉了通訊。	私は少し戸惑ったが、通信を切ることにした。	나는 잠시 망설이다가 통신을 끊었다.	I paused for a moment, then cut the transmission.						0	3.2版本新序章
+13	上一场遭遇战之后，就几乎没再看见过异化人和泰坦了。雪时深时浅，乌云却始终横在前头，怎么绕也绕不过去。	上一場遭遇戰之後，就幾乎就沒再看到過異化人和泰坦了。雪時深時淺，烏雲卻始終橫在前面，怎麼繞都繞不過去。	前回敵に襲われて以降、変異者とタイタンには一切遭遇していない。雪は積もり続けているが、暗雲は終始目の前に浮かんでおり、どれだけ進んでも変わらなかった。	지난 교전 이후로 변이자와 타이탄을 거의 보지 못했다. 눈은 깊어졌다 얕아졌다 하는데, 먹구름은 계속 앞을 가로막고 있어 아무리 돌아가도 피할 수 없었다.	Since the last engagement, there hadn't been another sighting of the Changed or Titans. Snow came and went in waves, but those heavy clouds never lifted. There was no getting around them.						0	3.2版本新序章
+14	“树”好像收缩起了所有力量。大风渐起，远远看去，“树”的外围正凝聚着一道风暴。如果前进，走哪条路也都一样了。	「樹」好像收縮起了所有力量。大風漸起，遠遠看去，「樹」的外圍正凝聚著一道風暴。如果前進，走哪條路也都一樣了。	「デンドロン」は力を温存しているようだ。いつの間にか風が吹き始め、遠くを眺めると、「デンドロン」の周りは嵐のようだ。進むと決めたら、どのルートも同じなのかもしれない。	 '나무'가 모든 힘을 수축한 것 같았다. 바람이 점점 거세지고, 멀리서 보니 '나무' 주변에 폭풍이 몰아치고 있었다. 앞으로 나아간다면 어느 길을 택해도 똑같을 것이다.	In the distance, the Tree seemed to be concentrating its strength. A windstorm had gathered at its perimeter. No matter which path we took, it would be the same hell.						0	3.2版本新序章
+15	降落伞挂着空投箱慢慢落下。原地补给好物资，我们继续前进。	降落傘掛著空投箱慢慢落下。原地補給好物資，我們繼續前進。	物資のパラシュートがゆっくりと落ちてくる。その場で物資を素早く補給し、また進みはじめた。	낙하산에 매달린 공수 물자 상자가 천천히 내려왔다. 우리는 그 자리에서 물자를 보급하고 계속 전진했다.	The parachute drifted down slowly, cargo crate in tow. We resupplied on the spot and pressed on.						0	3.2版本新序章
+16	雪没过了小腿。走在最前面的人用身体分开一条道路，后面的人搭着肩膀，沿着走出的路前进。	雪沒過了小腿。走在最前面的人用身體分開出一條道路，後面的人搭著肩膀，沿著走出的路前進。	雪は膝の下まで積もっている。先頭を歩く人は体で路を作り、後ろを歩く人はお互いの肩に手を置き、その路に沿って歩く。	눈이 종아리까지 찼다. 선두에 선 사람이 몸으로 길을 열고, 뒤따르는 사람들은 어깨를 잡은 채 그 길을 따라 나아갔다.	The snow was up to our calves. Whoever took point had to break trail with their body — the others close behind, hand to shoulder, single file.						0	3.2版本新序章
+17	每过一个小时，最前面的人就要退下来休息。等雪没过膝盖，这个时间就又缩短了。	每過一個小時，最前面的人就要退下來休息。等雪沒過膝蓋，這個時間就又縮短了。	そして、1時間置きに先頭を交代し、休ませる。膝が埋まるほど雪が高くなると、早めに交代するようにした。	선두에 선 사람은 한 시간마다 쉬어야 했다. 눈이 무릎까지 차오르자, 그 간격은 더 짧아졌다.	Every hour, we rotated. The lead dropped to the back for a breather. Once the snow hit our lap, we had to switch even faster.						0	3.2版本新序章
+18	深一脚浅一脚。雪埋住了地形，每一脚都要坚定无比地踏下去，踩实、踩死，然后才能迈出下一步。	深一腳淺一腳。雪埋住了地形，每一腳都要堅定無比地踏下去，踩實、踩死，然後才能邁出下一步。	我々は、ふらつきながらも、雪で見えない地形の上を歩くうち、思いっきり雪を踏まなければ、次の一歩を踏み出せなくなっていた。	발걸음도 깊어졌다 얕아졌다 했다. 눈이 지형을 덮어버려, 모든 발걸음을 확실히 내디뎌야만 다음 걸음을 뗄 수 있었다.	Step by step, half-blind. The snow had erased the terrain. Every footfall had to be planted hard, crushed down solid — only then could we push forward.						0	3.2版本新序章
+19	风更大了。时而迎面而来，要伏着身子才不会被掀翻过去。时而背后袭来，要躺在风里，用上百斤的装备来压住身形。	風更大了。時而迎面而來，要伏著身體才不會被掀翻過去。時而背後襲來，要躺在風裡，用上百斤的裝備來壓住身形。	風がさらに強くなってきた。身をかがめなければ、吹き飛ばされてしまいそうになる。ときには後ろから襲い掛かり、装備の重さで身体を押さえつけなければならなかった。	바람이 더 거세졌다. 때로는 정면에서 불어오는 바람에 몸을 숙여야 휘청이지 않을 수 있었고, 때로는 뒤에서 불어와 수백 킬로그램의 장비로 몸을 눌러야 했다.	The wind kept picking up. In headwinds, we had to hunch low to keep from toppling. In tailwinds, the hundred-pound gear strapped on our backs was our only anchor.						0	3.2版本新序章
+20	想交谈都成了困难。一张嘴，风便混着雪灌进嘴里。喊出声，也会在半米内便淹没在怒号的风声中。	想交談都成了困難。一張開嘴，風便混著雪灌進嘴裡。喊出聲，也會在半公尺內便淹沒在怒號的風聲中。	こんな状況では会話もろくにできない。不注意にも口を開ければ、雪が風とともに口に入って来てしまい、大声で叫んでも、すぐに風にかき消されてしまう。	대화조차 힘들어졌다. 입을 열면 바람 섞인 눈이 입안으로 들어왔고, 크게 외쳐도 반 미터도 못 가 매서운 바람 소리에 묻혀버렸다.	Talking was pointless. Open your mouth, and snow-laced wind rushed straight in. Shout, and your voice died in the gale before it left your lips.						0	3.2版本新序章
+21	“树”凛然站在终点，奋力挥舞着它的雪连枷，一圈又一圈加快，不知疲倦。	「樹」凜然站在終點，奮力揮舞著它的雪連枷，一圈又一圈加快，不知疲倦。	それはまるで、「デンドロン」は私たちの終着点に佇み、必死に雪をまき散らしているようだ。	 '나무'가 종착점에 우뚝 서서 세찬 눈보라를 휘몰아치며, 지칠 줄도 모르고 점점 더 빠르게 돌고 있었다.	The Tree loomed at the end of our path, like it was swinging bludgeons made of snowstorm — each sweep faster, heavier, more brutal.						0	3.2版本新序章
+22	站在最前面的我停了下来，回过头。	站在最前面的我停了下來，回過頭。	私は立ち止まり、振り返って見た。	선두에 선 나는 멈춰 서서 뒤를 돌아보았다.	As I was leading, I halted and turned around.						0	3.2版本新序章
+23	满眼都是白，连脚下的雪的轮廓都几乎看不清了。	眼前都是雪，連腳印的輪廓都幾乎看不清了。	すると、どこもかしこも真っ白だ。吹雪で足元の雪でさえ霞んで見えない。	시야를 가득 메우는 흰색에, 발밑에 있는 눈의 윤곽조차 보이지 않았다.	All around us — nothing but white. No sky, no ground, no horizon. Even our own tracks were vanishing.						0	3.2版本新序章
+24	解下包，丢在地上。一瞬间几乎要被狂风吹走。	解下包，丟在地上。一瞬間幾乎要被狂風吹走。	カバンを地面におろすと、一瞬にして吹き飛ばされそうになった。	가방을 벗어 땅에 던졌다. 순간 강풍에 날아갈 뻔했다.	I shrugged off my pack — the wind nearly tore it away.						0	3.2版本新序章
+25	里芙和芬妮立刻凑了过来，把耳朵凑在我嘴边——如果不这样，根本没办法听清我要说的话。	里芙和芬妮立刻靠了過來，把耳朵湊在我嘴邊——如果不這樣，根本沒辦法聽清我要說的話。	リフとファニーがすぐに近づいてきて、私の口元に耳を寄せた。そうしないと私の言葉が聞き取れないからだ。	리브와 페니가 곧바로 다가와 내 입가에 귀를 가져다 댔다. 이러지 않으면 내 말을 전혀 들을 수 없었다.	Lyfe and Fenny immediately leaned in, pressing their ears to my lips — it was the only way to hear through the storm.						0	3.2版本新序章
+26	停——下——！不——走——了——！	停——下——！不——走——了——！	止まれ――！ここで休もう――！	멈… 춰…! 더는… 못… 가…!	STOP—MOVING—! WE—CAMP—HERE!						0	3.2版本新序章
+27	还——没——到——！	還——沒——到——！	まだついてないでしょ――！	아직… 도착… 안 했어…!	WE'RE—NOT—THERE—YET—!						0	3.2版本新序章
+28	安——卡——希——雅——！	安——卡——希——雅——！	ア――カ――シ――ア――！	아… 카… 시… 아…!	A—CA—CIA—!						0	3.2版本新序章
+29	芬妮马上理解了我的意思。她和里芙一起解下背上的包裹。	芬妮馬上理解了我的意思。她和里芙一起解下背上的包裹。	ファニーはすぐに私の言いたいことを理解した。ふたりは一斉にカバンを置いた。	페니는 바로 내 의도를 이해했다. 그녀는 리브와 함께 등에 멘 짐을 내려놓았다.	Fenny quickly understood what I meant. She and Lyfe both shrugged off their packs.						0	3.2版本新序章
+30	取出包里的放热棒，拧动后丢进雪地里。被放热棒融化的雪，在放热结束后又被严寒冻成了冰。	拿出包裡的放熱棒，擰動後丟進雪地裡。被放熱棒融化的雪，在放熱結束後又被嚴寒凍成了冰。	バッグから発熱棒を取り出し、ねじってから雪の中に投げ込んだ。発熱棒で溶けた雪は、熱が尽きたあと、厳しい寒さによって再び氷になった。	가방에서 발열 봉을 꺼내어 작동시킨 뒤, 눈에 던져 넣었다. 발열 봉에 녹았던 눈이 열기를 잃자, 다시 찬 공기에 얼음이 되었다.	We pulled out the heating rods, snapped them, and tossed them into the snow. As soon as their warmth faded, the meltwater quickly froze solid again.						0	3.2版本新序章
+31	顶着要把人刮走的风，我们把地上的冰切成一块一块的，再一圈一圈地垒起来。	頂著要把人刮走的風，我們把地上的冰切成一塊一塊的，再一圈一圈地疊起來。	強風に耐えながら、私たちは氷を切り分けて、積み上げた。	사람을 날려버릴 듯한 바람을 맞으며, 우리는 땅의 얼음을 조각내어 동그랗게 쌓아 올렸다.	Battling winds that threatened to knock us over, we carved blocks of ice and stacked them in tight rings.						0	3.2版本新序章
+32	每垒一圈，就要再取些雪水来加固，不然马上就会被吹倒。	每疊一圈，就要再拿些雪水來加固，不然馬上就會被吹倒。	一段積むたびに、また水を取ってきて補強する必要がある。じゃないと、すぐに風に負けて倒れてしまう。	한 층을 쌓을 때마다 눈을 녹인 물로 단단히 고정해야 했다. 그렇지 않으면 금방 무너질 테니까.	Each new layer had to be sealed with slush to hold it together — or the whole thing would collapse under the next gust.						0	3.2版本新序章
+33	天要黑了。临时营地也终于建好了。我们又取出防潮垫铺在地面，再把墙上都钉上防潮布。这个临时住所终于建成了。	天要黑了。臨時營地也終於搭建好了。我們又拿出防潮墊鋪在地面，再把牆上都釘上防潮布。這個臨時住所終於建成了。	空が暗くなって来たころ、臨時キャンプがようやく出来上がった。防水シートを地面と壁にも貼り付ければ完成だ。	날이 어두워졌고, 임시 야영지가 드디어 완성됐다. 우리는 방수 매트를 땅에 깔고 벽에 방수천을 고정했다. 이 임시 거처가 마침내 완성됐다.	By dusk, we'd rolled out insulated mats and strung up a tarp, turning the bunker into something halfway livable. Our makeshift camp was finally in place.						0	3.2版本新序章
+34	可，已经七点半了，我们还是没有看到安卡希雅的信号弹。	可是，已經七點半了，我們還是沒有看到安卡希雅的信號彈。	しかし、時間はすでに7時半なのに、アカシアの信号弾は見えなかった。	하지만 7시 30분이 되었는데도, 아카시아의 신호탄은 보이지 않았다.	But it was already 19:30 — and still no flare from Acacia.						0	3.2版本新序章
+35	风雪太大了。	風雪太大了。	吹雪もひどくなってきた。	바람과 눈이 거세게 휘몰아쳤다.	The storm was swallowing everything.						0	3.2版本新序章
+36	要不要往回去接她？	要不要往回去接她？	探しにいったほうがいいんじゃない？	데리러 돌아갈까?	Should we head back and get her?						0	3.2版本新序章
+37	……	……	……	…	...						0	3.2版本新序章
+38	一个人留下，两个人回去。	一個人留下，兩個人回去。	ひとりを残して、ふたりで探しに行こう。	한 명은 여기 남고, 두 명은 돌아가자.	One of us stays. Two go.						0	3.2版本新序章
+39	里芙，你留下准备晚饭。如果直到明天我们都没有回来，你就原路返回。	里芙，你留下準備晚飯。如果直到明天我們都沒有回來，你就原路返回。	リフ、ここで晩ごはんの用意をしていてくれ。もし明日になっても帰ってこなかったら、君も折り返してくれ。	리브, 넌 남아서 저녁 식사를 준비해. 내일까지 우리가 돌아오지 않으면, 넌 왔던 길로 돌아가.	Lyfe — stay here and get dinner ready. If we're not back by morning, retrace the route.						0	3.2版本新序章
+40	芬妮，你跟我回去找安卡希雅。	芬妮，你跟我回去找安卡希雅。	ファニー、一緒にアカシアを探しに行こう。	페니, 넌 나랑 같이 아카시아를 찾으러 가자.	Fenny, you're with me. We're going to get Acacia.						0	3.2版本新序章
+41	里芙点了点头。我和芬妮对视了一眼，又一头扎进了风雪中。	里芙點點頭。我和芬妮對視了一眼，又一頭扎進了風雪中。	リフが頷くと、私はファニーと見つめ合い、吹雪のなかに突っ込んでいった。	리브가 고개를 끄덕였다. 나와 페니는 눈을 마주치고는 다시 바람과 눈 속으로 뛰어들었다.	Lyfe gave a silent nod. Fenny met my eyes — and we plunged into the blizzard.						0	3.2版本新序章
+42	万幸的是，风雪没有白天那么站不住人了。天完全黑了下来。芬妮打开了身上的探照灯，我则走在几米之外，时时观察着周围的信息。	萬幸的是，風雪沒有白天那麼令人站不住了。天完全黑了下來。芬妮打開身上的探照燈，我則走在幾公尺之外，時時觀察著周圍的環境。	幸い、夜は昼時ほど吹雪いていなかった。しかし空は完全に暗くなっていた。サーチライトをつけたファニーの数メートル後ろで、私はずっと周りを観察していた。	다행히도 눈보라가 낮에 비해 잦아들었고, 휘청거릴 정도로 심하지 않았다. 하늘이 완전히 어두워지자, 페니는 몸에 달린 탐조등을 켰고, 나는 몇 미터 떨어져서 주변을 살폈다.	Fortunately, the wind had eased a little — not as vicious as before. Night had fallen. Fenny switched on her searchlight. I kept pace a few meters away, scanning as we advanced.						0	3.2版本新序章
+43	每过十分钟，我就会发射一颗信号弹。走到现在，只剩下最后一颗了。	每過十分鐘，我就會發射一顆信號彈。走到現在，只剩下最後一顆了。	私は10分おきに信号弾をあげていたが、残り一発となっていた。	나는 10분마다 신호탄을 쏘았다. 그렇게 걸어오면서, 이제 마지막 한 발만 남았다.	I'd fired a flare every 10 minutes. This one was the last.						0	3.2版本新序章
+44	不管往前走多久，都是一样的景色。无尽的黑，无尽的雪，无尽的风。	不管往前走多久，都是一樣的景色。無盡的黑，無盡的雪，無盡的風。	どれだけ歩いても、暗い空、吹雪で、周りの景色はまったく変わらなかった。	앞으로 얼마를 가도 풍경은 똑같았다. 끝없는 어둠, 끝없는 눈, 끝없는 바람이 있을 뿐이었다.	No matter how far we pushed, everything stayed the same — just darkness, snow, and wind, on and on.						0	3.2版本新序章
+45	永远也走不完。永远也找不到。看不到一点希望。	永遠也走不完。永遠也找不到。看不到一點希望。	ゴールもなく、見つけることもできず、希望のかけらすら見えない。	걸어도, 걸어도 끝이 없었고, 영원히 찾을 수 없을 것만 같았다. 조금의 희망도 보이지 않았다.	Like a nightmare caught in repeat. No end. No light. No way out.						0	3.2版本新序章
+46	芬妮的头垂了下来。她关了灯，走到我身边，胸口起伏着，一句话也不说。	芬妮的頭垂了下來。她關了燈，走到我身邊，胸口起伏著，一句話也不說。	気が付くとファニーはうなだれていた。彼女はサーチライトを切り、私に近寄り、無言で胸を起伏させた。	페니가 고개를 떨구었다. 그녀는 불을 끄고 내 옆으로 왔고, 가슴이 오르내릴 뿐, 아무 말도 하지 않았다.	Fenny's head drooped. She switched off her light and stepped beside me, chest rising and falling, wordless.						0	3.2版本新序章
+47	我知道她在想什么。拉起她的手，隔着厚厚的手套，用力攥紧。	我知道她在想什麼。拉起她的手，隔著厚厚的手套，用力握緊。	ファニーが言いたいことは、私にはよくわかる。彼女の手を取って、手袋ごと強く握りしめた。	그녀가 무슨 말을 하려는지 알고 있었다. 나는 두꺼운 장갑 너머로 그녀의 손을 잡고 꽉 쥐었다.	I knew what was on her mind. I reached out and took her hand in mine, squeezing through the gloves.						0	3.2版本新序章
+48	她深吸了一口气，重新打开了探照灯。我们手挽着手，继续往前走去。	她深吸了一口氣，重新打開了探照燈。我們手挽著手，繼續往前走去。	すると彼女も深呼吸をしてサーチライトを付け直した。私はファニーと手を取り合い再び歩き出した。	그녀는 깊게 숨을 들이쉬고는 다시 탐조등을 켰다. 우리는 팔짱을 끼고 계속 앞으로 나아갔다.	She inhaled deep, flicked her light back on. Hand in hand, we pressed on.						0	3.2版本新序章
+49	比来时的路更难走些。又走了很久很久，我停下脚步，把最后一颗信号弹填进枪膛。	比來時的路更難走了點。又走了很久很久，我停下腳步，把最後一顆信號彈填進槍膛。	道は来たときよりも険しくなっていた。長い時間を歩いた後、私は足を止めて、最後の信号弾を装填した。	올 때보다 더 힘들었다. 또 한참을 걷고 또 걷다가, 나는 걸음을 멈추고 마지막 신호탄을 장전했다.	The way back felt even harsher than the way out. After what felt like an eternity, I stopped and loaded my final flare.						0	3.2版本新序章
+50	举枪，发射。曳着红色的焰尾，斜飞出去，隐没在远处的覆着雪的山丘之后。	舉槍，發射。搖曳著紅色的焰尾，斜飛出去，隱沒在遠處覆著雪的山丘之後。	発射銃をあげて発射すると、信号弾は赤い軌跡を描きながら斜め上に飛んでいき、雪に覆われた丘の後ろに消えていった。	총을 들어 발사했다. 붉은 불꽃이 비스듬히 날아가며, 멀리 눈 덮인 언덕 너머로 사라졌다.	I raised the barrel and fired. A red streak shot into the distance and vanished into the snowbound hills.						0	3.2版本新序章
+51	没有回应。	沒有回應。	なんの反応もない。	응답이 없다.	Still no response.						0	3.2版本新序章
+52	……怎么办。	……怎麼辦。	……どうする？	… 어떡하지.	...What should we do now?						0	3.2版本新序章
+53	芬妮的语气很平静。但她很少有这样平静的表情。平静之下压抑着愤怒和焦躁，似乎想要把眼前的暴风雪完全轰散——那样，安卡希雅就能看见我们的位置了。	芬妮的語氣很平靜。但她很少有這樣平靜的表情。平靜之下壓抑著憤怒和焦躁，似乎想要把眼前的暴風雪完全轟散——那樣，安卡希雅就能看見我們的位置了。	ファニーは静かに言った。そんな静かに話す彼女は実にめずらしい。その冷静さの裏に隠れている怒りと焦燥は、まるで目の前の吹雪をまるごと吹き飛ばすかのようだ――だが吹き飛ばせれば、アカシアが見つかるかもしれない。	페니가 차분하게 말했지만, 그녀가 이렇게 차분한 표정을 짓는 건 드문 일이었다. 차분함 아래 분노와 초조함이 억눌려 있었고, 눈앞의 폭설을 완전히 흩어버리고 싶은 듯했다. 그러면 아카시아가 우리의 위치를 볼 수 있을 테니까.	Fenny's voice was calm — too calm for her. Beneath it simmered frustration, helplessness. If she could blast the storm away, she would've — just so Acacia could see our flare.						0	3.2版本新序章
+54	再等等。	再等等。	待つんだ。	좀 더 기다려보자.	Give it a minute.						0	3.2版本新序章
+55	风还是扯着耳朵。雪还是像流沙一样倾盆而下。黑夜还是让人分不清四面八方。	風還是拉扯著耳朵。雪還是像流沙一樣傾盆而下。黑夜還是讓人分不清四面八方。	吹雪はまだ収まる気配はない。闇夜に包まれた私たちは、方向すらわからない状況だ。	바람은 여전히 귀청을 때렸고, 눈은 여전히 모래처럼 쏟아졌다. 칠흑 같은 밤 아래서 여전히 방향을 분간하기 어려웠다.	The wind kept clawing at our ears. Snow poured like loose sand. And the dark still stripped away every sense of bearing.						0	3.2版本新序章
+56	但一缕红光仍是挤破夜幕，从山丘对面跃起，逶迤着落了下来。	但一縷紅光仍是擠破夜幕，從山丘對面躍起，扭曲著落了下來。	しかし、一すじの赤い光が夜空を引き裂き、丘の向こうからゆっくりと地面に落ちてきた。	그 순간, 붉은 빛줄기가 밤하늘을 뚫고 언덕 너머로 솟아올라 굽이치며 떨어졌다.	Then — a streak of red pierced the dark, arcing from beyond the ridge in a wavering trail.						0	3.2版本新序章
+57	是信号弹——信号弹！！	是信號彈——信號彈！！	あ……信号弾よ！！	신호탄이다! 신호탄!!	It's a signal flare — A SIGNAL FLARE!!						0	3.2版本新序章
+58	一颗星星爬上了山丘。那是探照灯的光，被雪压得像星星一样闪烁。	一顆星星爬上了山丘。那是探照燈的光，被雪壓得像星星一樣閃爍。	一番星が丘に登った。サーチライトの光だった。降り注ぐ雪に遮られたその光は、星のように輝いていた。	언덕 너머로 별 하나가 떠올랐다. 탐조등의 빛이 눈에 짓눌려 별처럼 반짝이고 있었다.	A star blinked over the ridge. It was from a headlamp, smothered by snow until it flickered like starlight.						0	3.2版本新序章
+59	它走得很慢，但很均匀、很坚定地往这边走着。星星越来越亮，延伸成一道光。	它走得很慢，但很均勻、很堅定地往這邊走著。星星越來越亮，延伸成一道光。	ゆっくりだが、確固たる意志をもってこっちへ近づいてきている。星はさらに明るくなり、光の柱になった。	느리지만 일정하고 단단하게 이쪽을 향해 왔다. 별은 점점 밝아지며 한 줄기 빛으로 늘어났다.	It moved slow but steady, drawing closer. The star grew brighter, its glow sharpening into a beam.						0	3.2版本新序章
+60	在光的下面，是安卡希雅覆着雪的眉毛和睫毛。	在光的下面，是安卡希雅覆蓋著雪的眉毛和睫毛。	光の裏に、雪の粒をつけたアカシアの眉毛とまつげが見えた。	빛 아래에는 눈으로 뒤덮인 아카시아의 눈썹과 속눈썹이 있었다.	And beneath it — Acacia's frost-dusted lashes and brows.						0	3.2版本新序章
+61	我抱住她，她晃了晃，拍了拍我的后背，咧了咧嘴。	我抱住她，她晃了晃，拍拍我的後背，咧開嘴。	アカシアを思いっきり抱きしめると、彼女はふらつきながらも、私の背中を手で叩き、微笑んだ。	그녀를 안자, 그녀는 몸을 흔들더니 내 등을 두드리고 씩 웃었다.	I pulled her into a hug. She wobbled a bit, patted my back, and flashed a lopsided grin.						0	3.2版本新序章
+62	嘿嘿。	嘿嘿。	えへへ。	헤헤.	Hehe~						0	3.2版本新序章
+63	脚步轻快。顺利——情不自禁想用这个词。同样的黑夜和风雪，心情却完全不同了。	腳步輕快。順利——情不自禁想用這個詞。同樣的黑夜和風雪，心情卻完全不同了。	私たちは力強い足並みで帰路についた。順調だ――思わずそう考えてしまった。気候は最悪だが、気分は晴れていた。	발걸음이 가벼웠다. '순조롭다'라는 단어가 자연스레 떠올랐다. 똑같은 어둠과 눈보라 속에서도 기분이 완전히 달랐다.	The walk back felt... almost easy. Each step seemed lighter than before. The night and the blizzard hadn't changed, but something in us had.						0	3.2版本新序章
+64	在伸手不见五指的黑白世界里，我们终于回到了临时营地里。	在伸手不見五指的黑白世界裡，我們終於回到了臨時營地。	手を伸ばせば指すらろくに見えない白と黒の世界で、私たちはようやく臨時キャンプに辿り着いた。	한 치 앞도 보이지 않는 흑백의 세계 속에서, 우리는 마침내 임시 야영지로 돌아왔다.	Through that world of swirling black and white, we made it back to our makeshift camp at last.						0	3.2版本新序章
+65	掀开遮风的布，热腾腾的香气顿时裹住了人。头上湿漉漉的，里芙接过我解下的衣服，搭在旁边的暖炉上。	掀開擋風的布，熱騰騰的香氣頓時裹住了人。頭上濕漉漉的，里芙接過我脫下的衣服，搭在旁邊的暖爐上。	防風用の布をくぐると、いい香りに包まれた。服を脱いで、湿った髪の毛を気にしていると、リフが私の服を受け取り、横の暖炉の上にかけた。	바람을 막는 천을 들추자, 후끈한 향기가 온몸을 감쌌다. 머리는 축축했고, 리브는 내가 벗은 옷을 받아 옆 난로 위에 걸쳤다.	We pulled back the tarp, and warm, savory aromas enveloped us instantly. My hair was damp and cold. Lyfe helped me out of my coat and hung it by the heater to dry.						0	3.2版本新序章
+66	又禁不住抱住了安卡希雅。	又忍不住抱了安卡希雅。	私は思わずアカシアをもう一度抱きしめた。	그리고 참지 못하고 아카시아를 껴안았다.	I couldn't help pulling Acacia into another hug.						0	3.2版本新序章
+67	怎么这么迟？	怎麼這麼慢？	ずいぶん遅かったじゃないか？	왜 이렇게 늦었어?	What took you so long?						0	3.2版本新序章
+68	我发了信号弹，但是那会儿雪太大了。	我發射了信號彈，但是那時雪太大了。	信号弾を打ち上げたけど、雪が強くて。	신호탄을 쏘았는데, 그때 눈이 너무 많이 내렸어.	I did send a flare, but the snow was so heavy.						0	3.2版本新序章
+69	信号弹飞上天，连我自己都看不见，更别提你们了。	信號彈飛上天，連我自己都看不到，更別說你們了。	打ってる私すら見えてなかったのだから、あなたたちが気づかなくても当然よ。	신호탄이 하늘로 올라갔는데, 나조차도 안 보이더라. 너희는 더 말할 것도 없겠지.	Even I couldn't see it — let alone you.						0	3.2版本新序章
+70	直到雪变小了，我才出发。	直到雪變小了，我才出發。	だから、雪が弱くなるのを待ってから出発したの。	눈이 잦아들고 나서야 출발했어.	So I waited for the snow to let up.						0	3.2版本新序章
+71	大概知道你们的方向，所以只是在保证状态的情况下慢慢往前走。	大概知道你們的方向，所以只是在確保狀態的情況下慢慢往前走。	方角は知っていたから、力を温存しながらゆっくりと進んできたんだ。	너희들의 방향을 대충 알고 있어서, 컨디션 유지하면서 천천히 앞으로 나아갔어.	Then I just kept a steady pace and headed the way I figured you'd be, preserving my strength.						0	3.2版本新序章
+72	边吃边说。	邊吃邊說。	食べながら話そう。	먹으면서 말해.	Talk while you eat.						0	3.2版本新序章
+73	里芙做的是红菜汤。我接过她递过来的碗，尝了一口。	里芙做的是紅菜湯。我接過她遞過來的碗，嚐了一口。	リフが野菜スープを作ってくれた。私は彼女が差し出した茶碗を受け取り、一口啜った。	리브는 보르시를 만들었다. 나는 그녀가 건넨 그릇을 받아 한 모금 맛보았다.	Lyfe had made borscht. I took the bowl of the soup and took a sip.						0	3.2版本新序章
+74	酸味刺激着味蕾，身子很快暖了起来。	酸味刺激著味蕾，身體很快暖了起來。	ちょうどいい酸味と暖かさが体中に染み渡り、私の体は一気に暖かくなった。	새콤한 맛이 미각을 자극하자, 몸이 금세 따뜻해졌다.	Tangy, rich — it warmed me to the core.						0	3.2版本新序章
+75	总之，成功会合了。人没事就好！	總之，成功會合了。人沒事就好！	とりあえず、無事に合流できてよかったわ。アカシアも無事で何より！	어쨌든 합류해서 다행이야. 다들 무사하면 됐어!	Anyway, we found each other, and everyone's safe — that's what matters!						0	3.2版本新序章
+76	是啊。	是啊。	そうだな。	그래.	Yeah.						0	3.2版本新序章
+77	雪好像又下大了。	雪好像又下大了。	雪がまた強くなってきたようだ。	눈이 또 많이 내리나 봐.	The snow's picking up again.						0	3.2版本新序章
+78	芬妮望着临时营地外的雪，又堆了半米高。里芙盯着碗里的红菜汤，好像什么都没听见。安卡希雅则抬头看我。	芬妮望著臨時營地外的雪，又堆了半公尺高。里芙盯著碗裡的紅菜湯，好像什麼都沒聽見。安卡希雅則抬頭看我。	ファニーは臨時キャンプの外の雪原を眺め、リフは何も聞こえていなかったようにスープを眺めていた。アカシアはというと、私を見つめていた。	페니는 임시 야영지 밖의 눈을 바라봤고, 또 반 미터나 쌓였다. 리브는 보르시만 뚫어져라 보고 있었고, 아무것도 듣지 못한 것 같았다. 아카시아는 고개를 들어 나를 바라봤다.	Fenny stared outside — snow already knee-deep. Lyfe stayed quiet, eyes fixed on her soup. Acacia, meanwhile, looked straight at me.						0	3.2版本新序章
+79	离“树”大约还有一天半的路程。补给虽然还够，但接下来的环境只会更恶劣。	離「樹」大約還有一天半的路程。補給雖然還夠，但接下來的環境只會更惡劣。	「デンドロン」まではまだ一日半はかかる。補給は十分だが、気候はより険しくなるだろう。	 '나무'까지 가는 데 약 하루 반 정도 남았다. 보급품은 아직 충분하지만, 앞으로의 환경은 더 험악해질 것이다.	We were still a day and a half from the Tree. Supplies were holding, but the road ahead promised harsher conditions.						0	3.2版本新序章
+80	地形图浮现在脑海中。不断思索着，是否存在更好的方案。	地形圖浮現在腦海中。不斷思索著，是否存在更好的方案。	私は地形図を思い浮かべながら、いい案を考えていた。	지형도가 머릿속에 떠올랐다. 나는 더 나은 방법이 있는지 계속 고민했다.	A topographic map floated to mind as I turned over our options — was there a smarter way forward?						0	3.2版本新序章
+81	我吃完了。	我吃完了。	ごちそうさま。	다 먹었어.	I'm finished eating.						0	3.2版本新序章
+82	……有点热。我出去透透气。	……有點熱。我出去透透氣。	……ちょっと暑いわね。外で風に当たってくるわ。	… 좀 덥네. 잠깐 바람 좀 쐬고 올게.	...It's stuffy in here. I'm stepping out for air.						0	3.2版本新序章
+83	芬妮揭开防风布，走了出去。一股冷风钻了进来。	芬妮揭開防風布走出去。一股冷風鑽了進來。	ファニーがそう言ってキャンプから出ると、防風布の隙間から冷たい風が入ってきた。	페니가 방풍막을 걷어내고 밖으로 나갔다. 찬바람이 안으로 스며들었다.	Fenny lifted the tarp and stepped out — a gust of cold slipped in behind her.						0	3.2版本新序章
+84	里芙则又给自己盛了一碗，不紧不慢地吃完。	里芙則又幫自己盛了一碗，不疾不徐地吃完。	リフは自分の茶碗にスープを足し、黙々と食べ終わった。	리브는 자신의 그릇에 한 그릇 더 담아 차분하게 먹어 치웠다.	Lyfe ladled herself another bowl, which she then finished unhurriedly.						0	3.2版本新序章
+85	我也出去看看。	我也出去看看。	私も外を見てくる。	나도 밖에 나가볼게.	I'm going to take a look outside too.						0	3.2版本新序章
+86	屋子里只剩下我和安卡希雅两个人了。她喝了口汤，摇了摇头。	屋子裡只剩下我和安卡希雅兩個人了。她喝了口湯，搖搖頭。	部屋には私とアカシアだけになり、彼女はスープを一口飲んで、首を横に振った。	방 안에는 나와 아카시아만 남았다. 그녀는 국을 한 모금 먹고는 고개를 저었다.	Now it was just me and Acacia. She sipped her soup, then gave a faint shake of her head.						0	3.2版本新序章
+87	哎，不容乐观呀。	哎，不容樂觀啊。	はぁ。これは大変なことになりそうだね。	휴, 상황이 좋지 않네.	Eh. Not looking good.						0	3.2版本新序章
+88	嗯。	嗯。	ああ。	응.	Hm.						0	3.2版本新序章
+89	你怎么想？	你怎麼想？	何か考えはあるの？	어떻게 생각해?	What's your take?						0	3.2版本新序章
+90	我倒觉得……还好。或者说非常好。	我倒是覺得……還好。或者說非常好。	私は……順調だと思う。いや、すごく順調だ。	난 오히려… 괜찮다고 봐. 아니, 아주 좋다고 생각해.	Honestly? I think we're in decent shape. Maybe even better than that.						0	3.2版本新序章
+91	哦？	哦？	なんで？	응?	Oh?						0	3.2版本新序章
+92	严寒和暴雪比泰坦麻烦多了。这大概是这棵“树”的特殊能力吧。	嚴寒和暴雪比泰坦麻煩多了。這大概是這棵「樹」的特殊能力吧。	タイタンより寒さと暴風雪のほうが厄介だ。この「デンドロン」の特殊能力かもしれないな。	혹한과 폭설이 타이탄보다 더 까다롭네. 그게 이 '나무'의 특수 능력이겠지.	The cold and the storm are tougher than the Titans. I'm betting it's one of the Tree's tricks.						0	3.2版本新序章
+93	好啦，这跟你的决策没关系。打游戏的时候也不能假设敌人都开作弊了呀。	好啦，這跟你的決策沒關係。玩遊戲的時候也不能假設敵人都開外掛了啊。	だとしても、あなたの作戦と関係ないでしょ？ゲームをするときも、敵がチートを使ってる前提でやっちゃダメだよ。	그건 네 결정과 상관없어. 게임을 할 때도 모든 적이 치트 키를 쓰고 있다고 가정할 순 없잖아.	Well, it's not exactly a tactical failure. No one plans for the enemy running cheat codes.						0	3.2版本新序章
+94	嗯，万幸的是准备足够充分。跟之前的魔鬼训练相比，这些风雪还是逊色了点儿。	嗯，萬幸的是準備足夠充分。跟之前的魔鬼訓練相比，這些風雪還是遜色了點。	そうだな。幸い、ここに来る前にちゃんと準備をしてきた。この前の大変なトレーニングと比べれば、吹雪くらいどうってことない。	응, 충분히 준비해서 다행이었지. 이전의 지옥 훈련에 비하면, 이 정도 눈보라는 아무것도 아니야.	Good thing we came prepared. After those rigorous sim runs, this blizzard's nothing.						0	3.2版本新序章
+95	嘿嘿。你之前明明很担心我嘛。我都看出来了。	嘿嘿。你之前明明很擔心我嘛。我都看出來了。	えへへ。やっぱ、私のこと結構心配してくれてたみたいだね。見ればわかるよ。	헤헤. 날 엄청 걱정했었네. 다 보였다고.	Hehe. You were totally worried about me earlier, though. I could tell.						0	3.2版本新序章
+96	我没说话，伸手抱住了她。	我沒說話，伸手抱住了她。	私は何も言わず、彼女をただ抱きしめた。	나는 말없이 그녀를 끌어안았다.	I didn't answer — just pulled her into my arms.						0	3.2版本新序章
+97	那，接下来怎么办？	那，接下來怎麼辦？	じゃあ、これからどうするつもり？	그럼, 이제 어떻게 할 거야?	So, what now?						0	3.2版本新序章
+98	破釜沉舟。	破釜沉舟。	背水の陣だ。	임전무퇴.	We burn the boats.						0	3.2版本新序章
+99	……	……	……	…	...						0	3.2版本新序章
+100	她从我怀里抬起头，睁大眼睛望着我。	她從我懷裡抬起頭，張大眼睛望著我。	彼女は私の腕のなかで顔をあげて、目を丸くして私を見た。	그녀는 내 품에서 고개를 들었고, 눈이 휘둥그레진 채 나를 바라봤다.	She looked up at me from my arms, wide-eyed.						0	3.2版本新序章
+101	已经得到了情报，哪能还维持之前的计划。	已經得到了情報，哪還能維持之前的計畫。	情報を得たからには、計画を見直す必要がある。	이미 정보를 얻었으니, 이전 계획을 고수할 순 없지.	We've got fresh intel. No sense clinging to the old plan.						0	3.2版本新序章
+102	——丢掉所有物资，轻装简行，一天就能到“树”下。	——丟掉所有物資，輕裝便行，一天就能到「樹」下。	――すべての物資を置いて、軽装作戦だ。そしたら1日で「デンドロン」の足元に到着できる。	… 모든 물자를 버리고 가볍게 움직이면, 하루 만에 '나무'에 도착할 수 있을 거야.	We ditch everything. Go light. Hit the Tree in a day.						0	3.2版本新序章
+103	一天到“树”下……就好像把大象装进冰箱里那么简单。	一天到「樹」下……就好像把大象裝進冰箱裡那麼簡單。	1日って……象を冷蔵庫にいれるように簡単言うね。	하루 만에 '나무'까지… 마치 코끼리를 냉장고에 넣는 것처럼 쉽게 말하네.	In a day? Sure — if the wind feels like giving us a ride.						0	3.2版本新序章
+104	没有信心？	沒有信心？	自信ないのか？	자신 없어?	Losing heart?						0	3.2版本新序章
+105	我可没问题，你担心她们去吧。	我可是沒問題，你去擔心她們吧。	私はいけるよ。あの二人を心配したら？	난 문제 없으니까 다른 대원들 걱정이나 해.	No sweat for me. Can't say the same for those two though.						0	3.2版本新序章
+106	哎——	哎——	はぁ……	휴…	Right...						0	3.2版本新序章
+107	放下碗，撑起身子。披上衣服，往外面走去。	放下碗，撐起身。披上衣服，往外面走去。	私は箸を置いて、席を立ち、服を羽織って、部屋の外に出た。	나는 그릇을 내려놓고 몸을 일으켰다. 그리고 옷을 걸치고 밖으로 나갔다.	I set the bowl down, got up, and pulled on my coat before stepping outside.						0	3.2版本新序章
+108	几米之外，两人正看着“树”的方向。	幾公尺之外，兩人正看著「樹」的方向。	ふたりは数メートル先で、「デンドロン」の方向を眺めていた。	몇 미터 떨어진 곳에서, 두 사람이 '나무' 방향을 바라보고 있었다.	A few meters ahead, they stood side by side, gazing toward the Tree.						0	3.2版本新序章
+109	达令？你怎么也出来了？	達令？你怎麼也出來了？	ダーリン？どうかしたの？	달링? 너도 나왔네?	Darling? What are you doing out here?						0	3.2版本新序章
+110	出来看看你们。在聊什么？	出來看看你們。在聊什麼？	君たちの様子を見に来たんだよ。何を話しているんだ？	너희들 보러 나왔어. 무슨 얘기를 하고 있었어?	Just checking in. What were you two talking about?						0	3.2版本新序章
+111	……唉。	……唉。	……はぁ。	… 하아.	...*sigh*						0	3.2版本新序章
+112	我就是觉得，好无力啊。	我就是覺得，好無力啊。	なんだか無力感を感じるわ。	그냥, 너무 답답하달까.	I just feel so powerless.						0	3.2版本新序章
+113	空有一身力气，只能打在风里雪里。	空有一身力氣，只能打在風雪裡。	力はあるのに、それを風と雪に打ちつけるしかないなんて。	아무리 힘이 넘쳐도, 바람과 눈 속에서 허비하고 있으니.	All this strength, and I'm wasting it punching snow and wind.						0	3.2版本新序章
+114	所以你想干嘛？	所以你想幹嘛？	それで？	그래서, 뭘 하고 싶은데?	So what do you want to do?						0	3.2版本新序章
+115	我——	我——	あたし――	나는…	I...						0	3.2版本新序章
+116	我恨不得一路冲到“树”下，把它打个稀巴烂！	我恨不得一路衝到「樹」下，把它打個稀巴爛！	すぐにでも「デンドロン」の前に行って、ぶっ潰したいわ！	생각 같아서는 '나무'까지 그대로 돌진해서 박살 내버리고 싶어!	I wanna charge that stupid Tree and tear it down myself!						0	3.2版本新序章
+117	你想抢我的活儿啊？	你想搶我的工作啊？	私の仕事を取り上げる気か？	내 일을 뺏으려는 거야?	What, trying to steal my job?						0	3.2版本新序章
+118	那倒没有。我就是想出口气……想消灭它，还是要靠你才行。	那倒是沒有。我就是想出口氣……想消滅它，還是要靠你才行。	それはないけど。ただ……鬱憤を晴らしたいの。本当に潰すのは、ダーリンにしかできないし。	그건 아니야. 그냥 답답해서… 그걸 없애려면 아무래도 네가 필요하니까.	No, I just need to vent... You're the one who can actually bring it down.						0	3.2版本新序章
+119	里芙呢，你在想什么？	里芙呢，你在想什麼？	リフは？何考えているんだ？	리브, 넌 무슨 생각해?	What about you, Lyfe? What's on your mind?						0	3.2版本新序章
+120	……	……	……	…	...						0	3.2版本新序章
+121	出帐篷前，我在想，给你一些空间。聊天的时候你心不在焉，应该是在思考破局的办法。	出帳篷前，我在想，給你一點空間。聊天的時候你心不在焉，應該是在思考破局的辦法。	あなたに考える時間を与えようと、外に出てきたんだ。話している間も上の空だったし。きっと計画を練っているんだろうと思ってな。	텐트에서 나오기 전에는, 너에게 공간을 주고 싶다고 생각했어. 아까 얘기하면서 넌 마음이 딴 데로 가 있어 보였거든. 해결책을 고민하고 있었겠지.	Back in the tent, you looked distracted — probably running battle plans in your head. I figured you needed space, so I stepped out.						0	3.2版本新序章
+122	现在的话，我只是在看你逗芬妮。	現在的話，我只是在看你逗芬妮。	今は……ファニーをからかっているのを見ているだけ。	지금은 그냥, 네가 페니를 놀리는 걸 보고 있을 뿐이야.	But now... I'm just watching you tease Fenny.						0	3.2版本新序章
+123	哎？！	欸？！	え！？	엥?!	Huh!?						0	3.2版本新序章
+124	达令，你已经想到办法了？	達令，你已經想到辦法了？	ダーリン、計画は思いついたの！？	달링, 벌써 방법을 찾은 거야?	Wait — you've already got a plan, darling?						0	3.2版本新序章
+125	谈不上办法吧。冒险而已。	也不算是辦法吧。冒險而已。	計画っていうほどのものではないけど。リスクを覚悟した作戦だ。	방법이라 하긴 좀 그런데, 모험이지.	Not so much a plan. More like a gamble.						0	3.2版本新序章
+126	我打算丢掉所有物资，一天就赶到“树”下。简单粗暴。	我打算丟掉所有物資，一天就趕到「樹」下。簡單粗暴。	すべての物資を置いて、1日で「デンドロン」の足元に着く軽装作戦だ。簡単だろ？	모든 물자를 버리고 하루 만에 '나무'에 도착하는 거야. 단순하고 과감하게.	I'm thinking we ditch the gear and make a straight push for the Tree. Fast and blunt.						0	3.2版本新序章
+127	我没问题。	我沒問題。	私はいけるぞ。	난 괜찮아.	I'm in.						0	3.2版本新序章
+128	我也一样！	我也一樣！	あたしも！	나도 마찬가지야!	Me too!						0	3.2版本新序章
+129	不问为什么？	不問為什麼？	なぜその方法なのか聞かないのか？	이유도 안 물어볼 거야?	Not even gonna ask why?						0	3.2版本新序章
+130	你说怎么做就怎么做。我真的受够了。一天也不想多待了。	你說怎麼做就怎麼做。我真的受夠了。一天也不想多待了。	ダーリンの言う通りにすれば大丈夫だもん。ここはもうコリゴリ、一秒たりとも早く離れたいわ。	네가 하자는 대로 할게. 정말 지긋지긋해. 하루도 더 있기 싫어.	I trust your judgement. Plus, I'm so sick of this place. The sooner we're out, the better.						0	3.2版本新序章
+131	……我们不能被敌人的优势拖住。只要能到达树下，我们就能成功。	……我們不能被敵人的優勢拖住。只要能到達樹下，我們就能成功。	……敵のペースに乗せられてはまずい。「デンドロン」のところまで着ければ、こっちのもんだ。	… 적의 우위에 끌려가선 안 돼. 우린 나무 아래에 도착하기만 하면 성공이야.	We can't let the enemy dictate the terms. If we reach the Tree, we win.						0	3.2版本新序章
+132	相信我。	相信我。	信じてくれ。	날 믿어.	Trust me.						0	3.2版本新序章
+133	唔……	嗯……	ん……	음…	Mm...						0	3.2版本新序章
+134	我揉了揉芬妮的头，她抓住我的手，紧紧握住。	我揉了揉芬妮的頭，她抓住我的手，緊緊握住。	私はファニーの頭を撫でると、彼女も私の手をしっかり握り返してくれた。	페니의 머리를 쓰다듬자, 그녀가 내 손을 잡고 꽉 쥐었다.	I ruffled Fenny's hair. She caught my hand and held it tight.						0	3.2版本新序章
+135	雪还在下。面对这种敌人，其实我也没有把握。	雪還在下。面對這種敵人，其實我也沒有把握。	雪はまだ降っている。こういう敵が相手だと、正直私にも確信は持てない。	눈은 계속 내리고 있었다. 이런 적과 맞서라니, 사실 나도 자신이 없었다.	The snow kept falling. Against an enemy like this... I wasn't so sure myself.						0	3.2版本新序章
+136	——但这正是比拼意志的时刻。	——但這正是比拼意志的時刻。	――しかし、今は我慢するしかない。	하지만 바로 지금이야말로 의지를 겨룰 때다.	But this was the kind of moment where willpower made all the difference.						0	3.2版本新序章
+137	里芙也默默地牵起我的手。	里芙也默默地牽起我的手。	リフも静かに私の手を取った。	리브도 조용히 내 손을 잡았다.	Lyfe reached over and took my other hand.						0	3.2版本新序章
+138	情绪已经鼓胀到了极点。只要能越过这一天的路程，胜利就唾手可得。	情緒已漲到了極點。只要能越過這一天的路程，勝利就唾手可得。	全員の気持ちが高ぶっている。この1日を乗り越えられたら、勝利は目前だ。	감정이 극에 달했다. 오늘 하루만 버티면 승리를 거머쥘 수 있다.	Our spirits were taut, pulled to the brink. One last day — that's all it would take.						0	3.2版本新序章
+139	反之，如果失败……	反之，如果失敗……	ただし、もし失敗したら……	반대로, 실패한다면…	And if we didn't make it...						0	3.2版本新序章
+140	——没有失败。只有胜利。	——沒有失敗。只有勝利。	――いや、そんなことは許されない。許されるのは勝利だけだ。	… 실패는 없다. 오직 승리뿐이다.	No — failure wasn't an option.						0	3.2版本新序章
+141	和她们拉着手，一同看着皑皑白雪。渐渐地，芬妮也平静下来。	和她們拉著手，一起看著皚皚白雪。漸漸地，芬妮也平靜下來。	ふたりと手を繋いだまま、雪原を眺める。ファニーもだんだんと落ち着いてきた。	나는 그녀들과 손을 잡고 흰 눈을 바라보았다. 페니도 점차 마음을 가라앉혔다.	Hand in hand, we stood in the stillness, facing the snow. Slowly, Fenny's nerves began to settle.						0	3.2版本新序章
+142	少顷，等晚餐的余热耗尽，我们一同回到了屋内。	過了一會兒，等晚餐的餘熱耗盡，我們一起回到了屋內。	しばらくして、体が冷えてきた頃、私たちは部屋のなかに戻った。	잠시 후, 저녁 식사의 온기가 식은 후 우리는 함께 실내로 돌아왔다.	After the last warmth of dinner faded, we headed back inside.						0	3.2版本新序章
+143	临时营地不大，只有一处可躺。天气太冷，睡袋也不够保温。我们把睡袋拆开，和衣服叠在一起，堪堪能盖住所有人。	臨時營地不大，只有一處可躺。天氣太冷，睡袋也不夠保溫。我們把睡袋拆開，和衣服疊在一起，剛好能蓋住所有人。	臨時キャンプは狭く、寝られる場所は一か所しかない。こんな気温では、寝袋だけでは寒くて眠れない。私たちは寝袋を開いて、その上に服を重ねて、全員の体を覆うほどの「布団」を完成させた。	임시 야영지는 작았고, 누울 자리도 하나뿐이었다. 날씨가 너무 추워 침낭도 보온성이 떨어졌다. 침낭을 펼치고 옷가지와 함께 겹쳐야 겨우 모두를 덮을 수 있었다.	The camp was cramped — barely enough space to lie down. The cold bit deep, and the sleeping bags alone weren't cutting it. We tore them open, layered them with our clothes, and just barely covered everyone.						0	3.2版本新序章
+144	里芙躺在右边，她的体温刚刚好，我帮她把被角掖好，她则吻了吻我的脸颊。	里芙躺在右邊，她的體溫剛剛好，我幫她把被角拉好，她則吻了吻我的臉頰。	リフは私の右側で寝ている。彼女の肩をしっかり守るように「布団」を押さえると、彼女は私の頬にキスをした。	리브가 오른쪽에 누웠다. 그녀의 체온은 딱 좋았고, 이불 끝을 잘 덮어주자, 그녀는 내 볼에 입을 맞췄다.	Lyfe lay on my right, her warmth steady and soothing. I tucked the covers around her, and she brushed a soft kiss across my cheek.						0	3.2版本新序章
+145	芬妮则躺在我的左边，拉着我的手。她的掌心很烫。	芬妮躺在我的左邊，拉著我的手。她的掌心很燙。	ファニーは私の左側に寝て、私の手を握っている。彼女の手のひらはすごく暖かかった。	페니는 내 왼쪽에 누워 내 손을 잡았다. 그녀의 손바닥은 뜨거웠다.	Fenny was on my left, her fingers laced in mine, palm radiating heat.						0	3.2版本新序章
+146	在左手和身体之间躺着安卡希雅。她半伏在我身上，身体很凉。	在左手和身體之間躺著安卡希雅。她半趴在我身上，身體很涼。	私の左手と体の間にアカシアが寝ている。私の体とくっつく彼女の体温は、四人のなかで一番低かった。	왼손과 몸 사이에는 아카시아가 누워있었다. 그녀는 내 몸에 반쯤 기대어 있었고, 몸이 차가웠다.	Acacia nestled between my left arm and side, half-curled against me. Her body was cold.						0	3.2版本新序章
+147	也许来路并没有她说得那么轻松。	也許來路並沒有她說得那麼輕鬆。	もしかしたら、彼女は私たちの想像よりも険しい道を辿ってきたのかもしれない。	그녀가 말한 것처럼, 오는 길이 쉽지만은 않았나 보다.	Maybe the journey back had been harder than she let on.						0	3.2版本新序章
+148	怀着坚定和决心——就这样，我们平静而无波澜地睡着了。	懷著堅定和決心——就這樣，我們平靜而無波瀾地睡著了。	決心を胸に、私たちは静かに眠った。	굳은 결심과 의지를 품은 채, 우리는 그렇게 조용하고 평온하게 잠들었다.	With quiet resolve, we drifted off — undisturbed, at peace.						0	3.2版本新序章
+149	风雪依旧。	風雪依舊。	外は相変わらず吹雪いている。	눈보라는 계속되었다.	Outside, the storm still raged on.						0	3.2版本新序章
+150	临时营地的门口被堵住了。外面是半人高的雪，并且丝毫没有停止的迹象。	臨時營地的門口被堵住了。外面是半個人高的雪，並且絲毫沒有停止的跡象。	臨時キャンプの出口が雪で塞がれていた。外では雪が人半分ほどの高さまで積もっており、一向にやむ気配はない。	임시 야영지 입구가 막혀버렸다. 바깥엔 허리 높이의 눈이 쌓였고, 멈출 기미조차 보이지 않았다.	The next morning, the camp's entrance was buried. Outside, the snow reached our waists, still falling hard.						0	3.2版本新序章
+151	用过早饭，穿戴整齐。芬妮伸出手，推倒了临时营地的墙。	用過早餐，穿戴整齊。芬妮伸出手，推倒了臨時營地的牆。	朝食を食べて、装備に着替えると、ファニーが臨時キャンプの壁を押し倒した。	아침을 먹고 옷을 단정히 입었다. 페니가 임시 야영지의 벽을 밀어 무너뜨렸다.	After a quick breakfast, we geared up. Fenny reached out and knocked down the walls of our shelter.						0	3.2版本新序章
+152	即使隔着遮天蔽日的雪，仍能看见“树”高大的轮廓。	即使隔著遮天蔽日的雪，仍能看見「樹」高大的輪廓。	強い吹雪越しでも、聳え立つ「デンドロン」の姿が見える。	하늘을 뒤덮은 눈보라 속에서도 '나무'의 거대한 윤곽이 보였다.	Even through the blizzard's veil, we could still make out the towering outline of the Tree.						0	3.2版本新序章
+153	我们互相对视。然后便迈步走进了风雪中。	我們互相對視。然後便邁步走進了風雪中。	私たちは見つめ合い、一緒に吹雪のなかを歩き出した。	우리는 서로를 바라보았다. 그리고 바람과 눈 속으로 발걸음을 내디뎠다.	We exchanged a glance — then pushed into the snowstorm.						0	3.2版本新序章

@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	早啊分析员~	早啊分析員~	おはよう、分析員～	좋은 아침!	Good morning, Adjutant.						0	
+page0.2	早啊，今天不是休息日吗？	早啊，今天不是休息日嗎？	おはよう、どうしたの？	좋은 아침! 오늘 쉬는 날 아니야?	Hey, good morning. Aren't you supposed to be off-duty today?						0	
+page0.3	起得这么早是有事？	起得這麼早是有事？	今日は休日だろう？	무슨 일 있어? 엄청 일찍 일어났네	What's got you up and about so early?						0	
+page0.4	没有。我听天气预报说今天天气不错，准备出去逛街。	沒有。我聽天氣預報說今天天氣不錯，準備出去逛街。	別に。天気予報で今日は晴れって言ってたから、買い物にでも行こうかなって。	별다른 일은 없고, 일기예보에 오늘 날씨가 좋다길래 쇼핑 좀 하려 했지	Nothing special. The weather forecast is good, thought I might go shopping.						0	
+choice1	我刚刚看外面太阳很舒服的样子。	我剛剛看外面太陽很舒服的樣子。	確かに、良い買い物日和になりそうだな。	창밖에 햇살이 참 포근해 보인다	It does look sunny out.						0	
+page1.1	是嘛，那就正好。分析员你要是没什么安排的话，就陪我一起去吧？	是嘛，那就正好。分析員你要是沒什麼安排的話，就陪我一起去吧？	でしょ？ならよかったわ。分析員も暇なら、付き合ってくれる？	맞아. 너무 좋아! 분석가도 별일 없으면 나랑 쇼핑하러 갈래?	It does? Great! If you aren't doing anything, why not come along?						0	
+page1.2	我？我就算了吧……	我？我就算了吧……	私？いや、私はいいや…	나랑? 난 됐어… 괜찮아	Me? I don't know...						0	
+page1.3	再说了，我没啥要买的东西。	再說了，我沒什麼要買的東西。	それに、買いたいものも特にないし。	딱히 살 것도 없거든	Maybe next time? I don't really have anything I need to buy.						0	
+page1.4	哎呀，逛街逛的是气氛，不一定要买东西。再说了，你没有要买的东西，我有想给你买的东西。	哎呀，逛街逛的是氣氛，不一定要買東西。再說了，你沒有要買的東西，我有想買給你的東西。	買い物って言っても、絶対何か買うってわけじゃないの。一番大事なのは雰囲気を感じることなのよ。それにあんたが買わなくたって、あたしがあんたに買ってあげたいものがあるの。	어허… 쇼핑이라고 꼭 물건을 사야하는 건 아니야. 분위기를 내러 가기도 한다고. 그리고 분석가한테 사주고 싶은 물건이 있어서 그래.	You don't need to! Going shopping is just a fun way to get out and about, enjoy being around people. If it matters so much, let me buy something for you!						0	
+page1.5	走啦，走啦，别逼我架着你走哦~	走啦，走啦，別逼我架著你走哦~	行きましょうよ。それとも、あたしに手を引いてほしいの〜？	그냥 가자~ 안 가면 내가 끌고 간다!	Come on... come on... don't make me pick you up and carry you.						0	
+page1.6	我还没吃东西呢！	我還沒吃東西呢！	え？いや、でも朝ごはんはまだ…！	아직 아무것도 못 먹었단 말이야. 배고파 죽겠어!	I haven't finished eating!						0	
+page1.7	一会儿你要吃什么我都包了。	等一下你要吃什麼我都包了。	後でなんでも奢ってあげるから。	먹고 싶은 거 말만 해. 페니가 다 사줄게	I'll buy you lunch when we get there...						0	
+choice2	等一下，天气预报刚更新了。	等一下，天氣預報剛更新了。	ちょっ、天気予報！新しい天気予報が出た。	잠깐… 일기예보가 방금 바뀐 거 같은데?	Hold on, it looks like the weather forecast for later isn't great.						0	
+page2.1	一会儿就有局部小雨，你记得带把伞。	等一下就有局部小雨，你記得帶把傘。	えっと、一部の地域では小雨が降るそうだ。傘を忘れないでね。	조금 있다가 소나기가 내린다네. 우산 챙기는 거 잊지 말고	Showers, we'll need an umbrella.						0	
+page2.2	啊……那我不出门了。	啊……那我不出門了。	あぁ……じゃあ、行かない。	아… 그럼 나도 그냥 안 갈래	Oh... never mind then, let's just stay here...						0	
+page2.3	为什么？就小雨，实在不喜欢，等雨停了我陪你出去逛街？	為什麼？就小雨，實在不喜歡，等雨停了我陪你出去逛街？	なぜ？ただの小雨だろう？何なら雨が止んだら一緒にショッピングでもしに行こうか？	왜? 그냥 지나가는 비잖아? 혹시 비 때문에 그런 거면 비 좀 그치고 나갈까?	Why? It's only a shower, no reason we can't wait for it to blow over and head out after that.						0	
+page2.4	这就是分析员你不明白的地方了。逛街只是休息日放松的一部分，没有好天气的话也没有心情了哦。	這就是分析員你不明白的地方了。逛街只是休息日放鬆的一部分，沒有好天氣的話也沒有心情了哦。	分析員は分かってないわね。買い物は休日の息抜きなのよ。天気が良くなきゃ、気分も良くならないでしょ。	분석가가 뭘 모르나본데 쇼핑은 기분 풀려고 가는 거야. 날씨가 안 좋으면 기분도 덩달아서 우중충해진다고	Amateur. A shopping trip is supposed to be light. Relaxing. Low stress. If we don't know what the weather will be like, I don't feel like going.						0	
+page2.5	那你接下来换什么安排呢？	那你接下來換什麼安排呢？	じゃあ、これから何をする？	그럼 쇼핑 안 가고 뭐 하려고?	What will you do instead then?						0	
+page2.6	呼……再说吧。	呼……再說吧。	うーん……さぁ。	흠… 그건 생각 좀 해봐야지	Hmmm... good question.						0	

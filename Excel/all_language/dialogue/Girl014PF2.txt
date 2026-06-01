@@ -1,0 +1,113 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	按照命令，我们到达了指定地点。	按照命令，我們到達了指定地點。	命令通りに、私たちは指定ポイントに到着した。	명령에 따라 우리는 지정 장소에 도착했다.	We arrived at the designated location as instructed.						0	
+2	环顾四周，包括后勤人员在内，这次海姆达尔部队几乎是全员出动，看来演习的阵势比我预想的还要大。	環顧四周，包括後勤人員在內，這次海姆達爾部隊幾乎是全員出動，看來演習的陣勢比我預想的還要大。	周りを見ると、今回は後方支援の人を含めたヘイムダル部隊の全員が出動しているらしい。演習の規模は思ったより大きい。	주변을 둘러보니 지원 요원을 포함해서 헤임달 부대까지 전부 참석했고, 훈련 규모가 예상했던 것보다 훨씬 큰 것 같았다.	Looking around, I saw nearly all the Heimdall Force had been dispatched, including logistics. This exercise was turning out to be bigger than I'd thought.						0	
+3	我甚至看到了一些陌生面孔，看制服是安全部的人。一位银发少女，站在安全部队列前，神态依旧清冷，是姬辰星。	我甚至看到了一些陌生面孔，看制服是安全部的人。一位銀髮少女，站在安全部隊列前，神態依舊清冷，是姬辰星。	私の知らない顔もある。制服から見て、安全部の人らしい。銀髪の少女が安全部の最前列に立っている。顔は素っ気ないまま、姫辰星だ。	낯선 얼굴도 일부 보였고, 제복을 보니 안전부 같았다. 한 은발의 소녀가 차가운 표정으로 대열 앞에서 서 있었는데, 바로 수성이었다.	I even saw some unfamiliar faces who seemed to be from the Security Department. A silver-haired girl stood before them, calm as always. It was Ji Chenxing.						0	
+4	既然人都到齐了，那么我来传达联合演习的具体安排。	既然人都到齊了，那麼我來傳達聯合演習的具體安排。	全て揃ったし、合同演習の詳細を伝える。	다 모인 것 같은데, 그럼 이번 연합 훈련에 대한 구체적인 일정을 알려드릴게요.	Now that we're all here, I'll tell you the detailed instructions for the joint exercise.						0	
+5	在技术部门协助下，我们在污染区开辟了一片特殊战区来模拟花园区环境，作为此次演习场地。	在技術部門協助下，我們在汙染區開闢了一片特殊戰區來模擬花園區環境，作為此次演習場地。	技術部の協力で、我々は汚染エリアで特殊な戦闘エリアを開拓した。そこでガーデンエリアの環境を模倣し、今回の演習場として使う。	기술부의 협조로 오염 구역에 특수 전투 구역을 개척했는데, 가든 구역과 굉장히 흡사한 훈련 장소를 만들었어요.	With the support of the technical department, we created a special combat zone in the Contaminated Sections to simulate the Gardens for the exercise.						0	
+6	海姆达尔将会被分成多个小队进入指定战区，一边抵御泰坦攻击，一边完成各自的信息采集任务，然后在时限内到达指定集合点。全员集合后即演习成功。	海姆達爾將會被分成多個小隊進入指定戰區，一邊抵禦泰坦攻擊，一邊完成各自的訊息採集任務，然後在時限內到達指定集合點。全員集合後即演習成功。	ヘイムダルはいくつかのチームに分かれ、指定戦闘エリアに入り、タイタンの攻撃を防ぎながら各自の情報採集任務をこなす。そして、時間内に指定の集合地点に着く必要がある。全員が集合すれば演習成功。	헤임달을 여러 소대로 나눠 지정된 구역에서 타이탄 공격을 막을 거고, 정보를 수집해서 제한 시간 내에 집합 장소로 도착하면 돼요.	You'll enter the combat zone in small teams, defending against Titan attacks while completing missions, and you must reach the meetup point by the deadline.						0	
+7	本次演习中，你们全程都会暴露在严重的污染下。根据个体差异，可能产生不适症状乃至轻度神格侵蚀。	本次演習中，你們全程都會暴露在嚴重的汙染下。根據個體差異，可能產生不適症狀乃至輕度神格侵蝕。	今回の演習中、あなたたちは酷い汚染の中にさらされる。個人差によって、不調や軽い神格侵蝕が発生する可能性がある。	이번 훈련은 오염 수치가 비교적 높은 상태에서 진행될 거예요. 따라서 개인적인 차이로 특이 증상이나 만트라 침식이 일어날 수 있어요.	The entire mission will take place in thick contamination. Discomfort or even mild episodes of Flooding may occur for some of you.						0	
+8	不过不用担心，演习结束后，我会迅速通知技术部门，关闭战区的环境模拟系统。	不過不用擔心，演習結束後，我會迅速通知技術部門，關閉戰區的環境模擬系統。	しかし心配はいらない。演習終了後、すぐ技術部に連絡し、戦闘エリアの環境シミュレーションシステムをオフにする。	훈련이 끝나면 기술부한테 전투 구역 시뮬레이션을 종료하라고 통지할 테니 너무 걱정하지 마시고요.	But don't worry. After the exercise is over, I'll notify the technical department to shut off the combat zone simulation system.						0	
+9	另外，由姬辰星带领的安全部特殊行动小队也会参加本次演习，他们会根据现场状况，及时提供支援。	另外，由姬辰星帶領的安全部特殊行動小隊也會參加本次演習，他們會根據現場狀況，及時提供支援。	加えて、姫辰星が連れてきた安全部特殊行動小隊も今回の演習に参加する。彼らは現場の状況を見て、支援する。	그리고 수성이 이끄는 안전부 특수 행동 소대도 이번 훈련에 합류해 현장 상황에 따라 지원을 해줄 예정이에요.	Also, the Security Department's special ops squad led by Ji Chenxing will be participating as well. They'll provide support as needed.						0	
+10	分析员，姬辰星将在本次演习中和你一队。其他的小队也会有安全部的人随行共同进行演习。	分析員，姬辰星將在本次演習中和你一隊。其他的小隊也會有安全部的人隨行共同進行演習。	分析員、今回の演習で、姫辰星はあなたと同じチームに入ります。他のチームも安全部の人が同行します。	분석가님, 같은 팀으로 수성을 합류시킬 거고, 다른 소대도 안전부 사람들하고 합류해서 훈련을 진행할 거예요.	Adjutant, Ji Chenxing will be in the same team as you for this exercise. The other teams will also have Security Department personnel accompanying them.						0	
+11	合作愉快。	合作愉快。	よろしくお願いします。	협동 훈련을 하게 돼 영광입니다.	I look forward to working together.						0	
+b-1											0	
+12	……	……	……	…	...						0	
+13	哈，分析员在紧张吗？	哈，分析員在緊張嗎？	分析員、緊張してますか？	흠… 분석가님 긴장하셨어요?	Huh? Are you nervous, Adjutant?						0	
+14	不用担心，我会好好关注你的。	不用擔心，我會好好關注你的。	大丈夫、私がしっかり見ています。	제가 옆에서 계속해서 백업해 드릴 테니 너무 걱정하실 필요는 없어요.	Don't worry. I'll keep a close eye on you.						0	
+15	回想起芬妮对姬辰星视线的形容，我不禁露出苦笑。看来接下来的一段时间里，我要习惯这样“被关注”的感觉了。	回想起芬妮對姬辰星視線的形容，我不禁露出苦笑。看來接下來的一段時間裡，我要習慣這樣“被關注”的感覺了。	ファニーが言っていた表現を思い出し、私は苦笑いした。どうやら、これからは「注目される」視線に慣れないといけないようだ。	순간 페니가 수성의 눈빛에 대해 말한 게 떠올라 웃음이 나왔다. 앞으로 누군가 '지켜보고 있다'라는 시선에 적응을 해야 할 것 같다.	I couldn't stop my bitter smile when I remembered Fenny's description of Ji Chenxing's gaze. It looked like I'd have to get used to her monitoring eyes.						0	
+auto_5236	 		 		Mic check, one, two.						0	
+16	这边。	這邊。	こちらです。	이쪽이에요.	Over here.						0	
+17	姬辰星清冷遥远的声音将我的注意力拉回到演习任务中。	姬辰星清冷遙遠的聲音將我的注意力拉回到演習任務中。	姫辰星の冷たくて遠い声が私の注意を演習に引き戻した。	수성의 차가운 목소리가 멀리서 들려왔고, 나는 다시 훈련에 집중하기 시작했다.	Ji Chenxing's calm, distant voice brought my focus back to the exercise mission.						0	
+18	离我们最近的采集点坐标方位在当前位置的十一点方向，预计十七分钟可以到达。	離我們最近的採集點座標方位在當前位置的十一點鐘方向，預計十七分鐘可以到達。	我々に一番近い採集地点の座標は現在置から11時方向です。おおよそ17分後に着きます。	저희와 가장 가까운 수집 지점 좌표는 지금 위치에서 11시 방향에 있어요. 약 17분 정도 소요될 거 같네요.	The coordinates of the closest collection point are at 11 o'clock from here. We should arrive in 17 minutes.						0	
+b-2											0	
+19	都不用看地图，你……记下了全部的作战情报？	都不用看地圖，你……記下了全部的作戰情報？	地図も見ないの？君……作戦情報を全部暗記してる？	지도도 안 보고, 설마… 작전 정보를 모두 외운 건가요?	You didn't even look at the map... Did you memorize all of the combat intel?						0	
+20	没必要惊讶，这些信息你查一下也能知道，只是这样更节约时间，如果你肯信我的话。	沒必要驚訝，這些資訊你查一下也能知道，只是這樣更節省時間，如果你肯相信我的話。	驚く必要はありません。これらの情報は調べればあなたも入手できます。こうすれば時間を節約できます、私の言葉を信じてくれるなら。	놀라실 필요 없어요. 이런 정보는 한번 보면 전부 알 수 있는 것들이니까요. 그리고 시간을 절약할 수도 있죠. 절 신뢰한다면 말이죠.	Don't be so surprised. You can look up the info easily yourself too. It's just that this way saves time — if you trust me.						0	
+b-3											0	
+21	为什么不信？现在我们可是队友。	為什麼不信？現在我們可是隊友。	どうして信じない？今の私たちはチームメイトだ。	신뢰 못 할 이유가 있나요? 같은 팀인데.	Why wouldn't I? We're teammates now.						0	
+22	姬辰星深深看了我一眼，我与她都心知肚明，起码现在，我相信我们是站在同一边的。	姬辰星深深看了我一眼，我與她都心知肚明，起碼現在，我相信我們是站在同一邊的。	姫辰星は私を見つめていた。私たちは分かっている。少なくとも今は同じ側の者だと信じてる。	수성은 날 빤히 쳐다봤다. 우리는 서로에 대해 알고 있었지만, 적어도 지금 이 순간만큼은 같은 편이다.	Ji Chenxing stared at me intensely. We both knew without a doubt, that right now, I believed we were on the same side.						0	
+23	至于以后……以后的事以后再说。	至於以後……以後的事以後再說。	今後のことは……後で考える。	그러니… 나중에 일어날 일들은 나중에 생각하는 게 좋을 것 같다.	As for later on... we'd see about that.						0	
+24	接下来的行动异常顺利，凭借姬辰星那异于常人的记忆力与判断力，我们总能找到最安全快捷的路线到达采集点。	接下來的行動異常順利，憑藉姬辰星那異於常人的記憶力與判斷力，我們總能找到最安全快捷的路線到達採集點。	それからの行動は異常なほどに順調で、姫辰星の常人離れした記憶力と判断力に従い、私たちは常に一番安全で近い道を見つけて採集地点に着いた。	계속해서 모든 게 순조로웠고 수성의 비상한 기억력과 판단력으로 가장 안전하고 빠른 루트를 통해 수집 지점에 도착할 수 있었다.	The exercise went surprisingly smoothly. Thanks to Ji Chenxing's abnormal memory and judgment, we found the safest and quickest route to the collection point.						0	
+25	我无法抑制自己的好奇，便问出了口。	我無法抑制自己的好奇，便問出了口。	私は自分の好奇心を抑えられなくて、ついに訊いた。	난 호기심에 궁금한 걸 참지 못하고 그녀에게 물었다.	I couldn't hold back my curiosity and decided to ask.						0	
+b-4											0	
+26	超凡的记忆，这是你身为天启者的能力吗？	超凡的記憶，這是你身為天啟者的能力嗎？	その記憶力は、覚醒者としての能力か？	그 비상한 기억력은 계시자 능력인가요?	Is your extraordinary memory your ability as a Manifestation?						0	
+27	我注意到姬辰星的表情怔了一瞬，于是开始担心我的话是否过于冒犯。但看到她随即恢复的表情，我才放下了心。	我注意到姬辰星的表情怔了一瞬間，於是開始擔心我的話是否過於冒犯。但看到她隨即恢復的表情，我才放下了心。	姫辰星がぎょっとしたのに気づき、自分の質問が少し失礼だったのではと心配になった。でも、彼女はすぐいつもの表情に戻ったから、私はほっとした。	순간 멍해진 수성의 표정에 실례된 말을 한 걸까 걱정했지만, 그녀의 표정이 돌아오는 걸 확인하고 안심할 수 있었다.	I noticed her expression suddenly change. I worried if I had offended her with my question. But her expression recovered quickly, so I relaxed.						0	
+28	不，只是超忆症，在我身上出现的某种小概率医学现象。	不，只是超憶症，在我身上出現的某種小機率醫學現象。	いいえ、ただのハイパーサイメシア。私の身で起きている医学的現象です。	그것 때문은 아니고, 일종의 과잉 기억 증후군이라고 해요. 아주 적은 확률로 나타나는 의학적인 현상이라고 하더군요.	No, it's just hyperthymesia, a rare medical condition I happen to have.						0	
+b-5											0	
+29	看起来超厉害啊！	看起來超厲害啊！	めちゃくちゃすごそうだな！	엄청 대단하시네요!	That sounds incredible!						0	
+30	代价是我失去了遗忘的能力，我的记忆里也大多是些无聊的事。	代價是我失去了遺忘的能力，我的記憶裡也大多是些無聊的事。	代償に、忘れる能力を失いました。私の記憶にはくだらない事だらけです。	반면에 제게는 기억을 잃어버릴 수 있는 능력이 없어요. 게다가 전부 재미없는 기억일 뿐이죠.	The downside is that I lose the ability to forget. Much of my memory is filled with worthless information.						0	
+b-6											0	
+31	抱歉。	抱歉。	ごめん。	아… 미안해요.	Sorry.						0	
+32	为什么要道歉？	為什麼要道歉？	どうして謝るんです？	갑자기 왜 사과를 하는 거죠?	Why are you sorry?						0	
+b-7											0	
+33	提起让你不快的话题了。	提起讓你不快的話題了。	嫌な話をさせちゃったから。	제가 괜스레 불편한 내용을 언급한 것 같아서요.	I brought up something unpleasant for you.						0	
+b-8											0	
+34	但是我是真的觉得你很厉害。	但是我是真的覺得你很厲害。	でも本当にすごいと思ってるんだ。	대단하신 거 같아서 한번 말해봤어요.	I really do think you're incredible, though.						0	
+35	……	……	……	…	...						0	
+36	你是除了我母亲外，第二个这么对我说的人……	你是除了我母親外，第二個這麼對我說的人……	あなたは母以外で、唯一そう言ってくれた人です……	어머니 외에 제게 이렇게 말씀을 주신 사람은 분석가님이 두 번째에요…	Other than my mother, you're the second person to tell me that...						0	
+37	姬辰星的手再次抚摸身上的绳结，眼眉低垂。	姬辰星的手再次撫摸身上的繩結，眼眉低垂。	姫辰星は再び結び目に手を当てて、目を伏せた。	수성은 몸에 지니고 있던 매듭을 만지며 눈을 살짝 감았다.	Ji Chenxing fiddled with her string once more, her eyes lowered.						0	
+38	虽然知道采集任务只是为演习设立的环节，但这也太随意了！为什么采集信息目标里会有星期三的海报啊？！	雖然知道採集任務只是為演習設立的環節，但這也太隨意了！為什麼採集訊息的目標裡會有星期三的海報啊？！	採集は演習の一環だと分かってるけど、適当すぎるわ！どうして採集情報のターゲットにウェンズデーのポスターがあんのよ！？	정보 수집이 이번 훈련의 일환인 건 알겠는데 너무 대충 만든 거 아니야? 왜 수집해야 할 정보에 웬스데이의 포스터가 있는 건데?!	I know the collection mission was only set for the exercise, but they could've put in a little more effort! Why is Wednesday's poster one of the items!?						0	
+b-9											0	
+39	芬妮看起来很精神，我就放心了。	芬妮看起來很有精神，我就放心了。	ファニーは元気そうで安心した。	페니의 활기찬 모습을 보니 마음이 놓이네.	I can feel at ease knowing you are energetic as always, Fenny.						0	
+b-10											0	
+40	其他人情况怎么样？	其他人情況怎麼樣？	他の人たちの状況はどう？	다들 상황은 좀 어때?	How are things with the others?						0	
+41	没有异常。已到达采集点，可能是环境模拟的影响，我有点无法控制化身系统……	沒有異常。已到達採集點，可能是環境模擬的影響，我有點無法控制化身系統……	異常なし。既に採集地点に到着した。環境シミュレーションの影響かもしれないが、アバターシステムのコントロールが少し難しい……	별다른 사항 없이 다들 수집 지점에 도착했어. 근데 시뮬레이션이라 그런지 아바타 시스템이 통제가 잘 안돼.	I've reached the collection point without any problem. But the simulation environment's making it hard to control the Apotheosis System well.						0	
+b-11											0	
+42	是神格侵蚀吗？	是神格侵蝕嗎？	神格侵蝕か？	만트라 침식 때문인가?	Are you becoming Flooded?						0	
+43	不是……更像是，瞬间失去天启力量的感觉。不过现在已经没事了。	不是……更像是，瞬間失去天啟力量的感覺。不過現在已經沒事了。	違う……むしろ、覚醒の力を一瞬で失ったような気分だ。でも今はもう大丈夫。	그것보다 순간적으로 계시자의 힘을 잃은 것 같은 느낌이 들었어. 지금은 괜찮아졌지만.	No... it's like I've lost my Manifestation powers altogether. It's getting better now, though.						0	
+44	哦，大明星的实力开始下降了？看来这次我赢定了。	哦，大明星的實力開始下降了？看來這次我贏定了。	あら、大スターの実力も落ちてきたの？今回はあたしの勝ちのようね。	오호라… 슈퍼스타 실력이 줄기도 해? 그럼 이번에는 페니가 이기겠네.	Oh, is our big star starting to weaken? Looks like it'll be my win this time around.						0	
+45	我只希望你集合时别迟到。	我只希望你集合時別遲到。	お前に集合に遅れないでほしいだけ。	집합 시간에 늦지나 마.	As long as you're not late to the meetup point.						0	
+b-12											0	
+46	总之，没事就好，集合地点见。	總之，沒事就好，集合地點見。	とにかく、無事でよかった。集合地点で会おう。	아무튼 별일 없다니 다행이야. 그럼 집합 장소에서 보자.	Anyway, it's good you're feeling better. I'll see you at the meetup point.						0	
+47	里芙·贝斯特拉，芬妮·戈尔登，看起来，她们不仅是你的队友。	里芙·貝斯特拉，芬妮·戈爾登，看起來，她們不僅是你的隊友。	リフ・ベストラ、ファニー・ゴールデン、彼女たちは単なるあなたのチームメイトには見えません。	리브 베스트라, 페니 골든 이 둘은 분석가님하고 단순한 팀원처럼 안 보이네요.	Lyfe Bestla and Fenny Golden appear to be more than mere squadmates to you.						0	
+48	她们是你的朋友。	她們是你的朋友。	彼女たちはあなたの友達。	친한 친구 같아 보여요.	They're your friends.						0	
+49	她没有继续说什么，只是低头摸了摸绳结，随后无言地走在我的前面。	她沒有繼續說什麼，只是低頭摸了摸繩結，隨後無言地走在我的前面。	彼女はこれ以上何も言わず、ただ結び目を撫でて、黙ったまま私の前を歩いた。	그녀는 더 이상 말을 하지 않고 고개를 숙여 매듭을 만지더니 아무 말 없이 앞장서 나아갔다.	She didn't go on. She lowered her head and played with the string, then walked off without a word.						0	
+50	很快，我们到达了信息采集点完成了采集任务。正当我们打算前往集合地点时，通讯接入了。	很快，我們到達了訊息採集點完成了採集任務。正當我們打算前往集合地點時，通訊接入了。	私たちはすぐ情報採集地点に到着し、任務を完了した。集合地点に向かおうとしたとき、通信が入った。	얼마 지나지 않아 우리는 정보 수집 지점에 도착해 정보 수집을 마쳤고, 집합 장소로 향하려는 순간 통신이 다시 연결됐다.	It didn't take long for us to arrive at the collection point and complete the mission. As we were preparing to head to the meetup point, we got a call.						0	
+51	短暂的嘈杂声响中，只有环境音和未知物体的碰撞声。不安袭上心头，我试图拨回通讯，但却没有任何回音。	短暫的嘈雜聲響中，只有環境音和未知物體的碰撞聲。不安襲上心頭，我試圖撥回通訊，但卻沒有任何回音。	短い雑音の中、環境音と未知の生物がぶつかり合う音だけがあった。不安に襲われ、私は通信をかけ直したが、返事はなかった。	일부 잡음 속에서 주변 소리와 알 수 없는 물체가 부딪히는 소리가 들려왔다. 뭔가 불안한 마음에 다시 통신을 연결하려 했지만 응답이 없었다.	The other end was just a brief mess of background noise and unknown things clashing together. A wave of unease washed over me. I tried to return the call, but couldn't.						0	
+b-13											0	
+52	情况有些不对。	情況有些不對。	何かおかしい。	상황이 좋지 않은 것 같은데…	Something's not right here.						0	
+53	嗯，我们失去了她们的定位。	嗯，我們失去了她們的定位。	ええ、我々は彼女たちの位置を見失いました。	맞아요. 그녀들의 위치를 파악할 수 없어요.	Yeah. We've lost their locations.						0	
+54	其他人情况如何？	其他人情況如何？	他の人たちは？	다른 사람들 상황은 어떤지 좀 알 수 있을까요?	How are the others?						0	
+b-14											0	
+55	通讯失败，定位……无法获取。	通訊失敗，定位……無法獲取。	通信が繋がらない、位置も……特定できない。	통신 연결에 불안정해서 위치 파악이… 불가능해요.	Communication failure... location undetected...						0	
+56	我这边也一样，无法与安全部的队员取得联络。	我這邊也一樣，無法與安全部的隊員取得聯絡。	こちらも同じです、安全部の隊員と連絡が繋がりません。	저도 마찬가지예요. 안전부 팀원하고 연락이 닿질 않아요.	Same here. I can't get in contact with the Security Department personnel.						0	
+b-15											0	
+57	一定是出了什么意外。	一定是出了什麼意外。	何か事故があったに違いない。	무슨 일이 생긴 게 분명해요.	I guess something's gone wrong.						0	
+58	与其猜测，不如去确认下。	與其猜測，不如去確認下。	ここで推測するより、確かめに行った方がいいです。	여기서 추측하는 것보다는 직접 가서 확인해 보죠.	We can do better than guess. Let's find out.						0	
+59	我点了点头，与姬辰星加快了行进速度，赶往集合点。	我點了點頭，與姬辰星加快了行進速度，趕往集合點。	私は頷いて、姫辰星と一緒に速度を上げて、集合地点に向かった。	난 고개를 끄덕였고, 수성하고 함께 재빨리 집합 장소로 향했다.	I nodded, and we increased our pace and headed to the meetup point.						0	
+60	没有任何休息，加快了行进速度后，很快我们就到达了集合点的附近。	沒有任何休息，加快了行進速度後，很快我們就到達了集合點的附近。	休憩もせず速度を上げると、すぐ集合地点の近くに到着した。	쉴 새 없이 계속해서 움직이니 얼마 지나지 않아 집합 장소에 도착할 수 있었다.	After traveling rapidly without a single break, we arrived at the meeting point.						0	
+61	还没有发现其他队员的踪影，歌唱者就开始不断发出警报——	還沒有發現其他隊員的蹤影，歌唱者就開始不斷發出警報——	隊員の姿を見つける前に、シンガーは警報を鳴らし始めた――	하지만 팀원들의 모습은 볼 수 없었고, 코러스 시스템에서 경보음이 울려오기 시작했다.	There was no sign of anyone else. Suddenly, the Chorus System alarm began beeping furiously...						0	
+62	哈——啊——	哈——啊——	ふぁ――あ――	크르르… 하아악…	Hahhh... arghh...						0	
+63	来不及确认身边人的状况，身体下意识地做出反应，我拉住姬辰星的手，翻身躲进一处掩体。	來不及確認身邊人的狀況，身體下意識地做出反應，我拉住姬辰星的手，翻身躲進一處掩體。	周囲の様子を確認する時間がなく、体が無意識に反応した。私は姫辰星の手を引いて、一緒に掩体の後ろに隠れた。	주변 상황을 확인할 겨를이 없이 몸이 반사적으로 반응을 했고, 수성의 손을 잡고 엄폐물을 찾아 몸을 숨겼다.	My body reacted before I had time to think. I took Ji Chenxing by the hand and hid behind some cover.						0	
+64	雪无声落下，大批的泰坦和异化人出现在前方。	雪無聲落下，大批的泰坦和異化人出現在前方。	キオーンが静かに降ってきて、大勢のタイタンと変異者が現れた。	얼마 지나지 않아 눈이 조용히 내리기 시작했고, 엄청난 수량의 타이탄과 변이자들이 눈앞에 나타났다.	Snow silently fell, and a large host of Titans and Changed appeared before us.						0	
+65	为什么？	為什麼？	どうして？	왜 이러시는 거죠?	Why did you help me?						0	
+b-16											0	
+66	我说过了啊，你是我的队友。	我說過了啊，你是我的隊友。	言ったはずだ、君は私のチームメイト。	말했잖아요. 당신도 내 팀원이라고.	I said. You're my teammate.						0	
+67	我可以战斗。	我可以戰鬥。	私は戦えます。	하지만 저도 싸울 수 있어요.	I can fight.						0	
+b-17											0	
+68	可这并不是我们的目的。	可這並不是我們的目的。	でも戦うのは我々の目的じゃない。	그렇지만 그건 우리의 목적이 아니잖아요.	But that's not our goal here.						0	
+69	那……我们逃吧。	那……我們逃吧。	じゃあ……逃げましょう。	그럼… 일단 도망가죠.	Then... let's run.						0	
+70	意外她会回以这个提议，我一时间不知该怎么拒绝，只是机械地跟在姬辰星的后面奔跑。	意外她會回以這個提議，我一時間不知該怎麼拒絕，只是機械地跟在姬辰星的後面奔跑。	その提案は意外だったから、私はどう断っていいのか分からず、ただ姫辰星の後を追った。	뜻밖에 그녀가 이런 제안을 했고, 난 어떻게 대답해야 할지 몰라 기계처럼 수성을 따라 도망치기 시작했다.	This proposal was unexpected. But not knowing how to refuse her, I sprinted behind her somewhat mechanically.						0	
+71	我知道他们可能所在的位置。	我知道他們可能所在的位置。	私は彼らの居場所が分かるかもしれません。	그녀들이 있을 만한 장소를 알 것 같아요.	I know where they could be.						0	
+72	里芙，芬妮，还有其他人，我们去找你的朋友。	里芙，芬妮，還有其他人，我們去找你的朋友。	リフ、ファニー、あと他の人たち、あなたの友達を探しに行きましょう。	리브, 페니, 그리고 다른 사람들까지. 당신의 친구들을 찾으러 가도록 하죠.	Let's go find Lyfe, Fenny, and the others. Your friends.						0	
+73	这次的目的，是正确的。	這次的目的，是正確的。	今回の目的は間違っていません。	이번에는 미션 목적에 부합하는 거 맞나요?	This objective is the right one.						0	
+74	她带着我快速穿越楼宇间的夹缝与小巷，很难相信在看过一眼地形与敌人的分布后，她已经推测出了我们可以走的安全地带。	她帶著我快速穿越樓宇間的夾縫與小巷，很難相信在看過一眼地形與敵人的分布後，她已經推測出了我們可以走的安全地帶。	彼女は私を連れ、建物の狭間と路地を素早く通り抜けた。地形と敵の配置を一目見て、彼女が既に安全ルートを確保したとは信じがたい。	그녀는 지형과 타깃의 분포도를 스캐닝했고, 믿기지 않을 정도의 빠른 속도로 건물 사이를 통과해 단숨에 우리가 갈만한 안전지대를 찾아냈다.	She shot through the alleys between the buildings. It was hard to believe she could determine our safest route just by seeing the terrain and enemy layout.						0	
+75	根据各小队的行进规划路线，以及几次通讯间隔时间，坐标定位的距离差等信息，我可以推测他们最后的通讯地点差不多就在这附近。	根據各小隊的行進規劃路線，以及幾次通訊間隔時間，座標定位的距離差等訊息，我可以推測他們最後的通訊地點差不多就在這附近。	各チームの進行ルート、数回の通信時間、座標データと距離などの情報によって、彼らが最後に通信したのはこのあたりと推測しました。	각 소대가 지나간 루트와 통신 간격, 좌표 위치 거리 간격 등 정보를 종합했을 때, 마지막 통신 지점이 근처라는 걸 알 수 있어요.	The team's planned route, the time between calls, and the coordinate distances were enough to predict that the final location would be around here.						0	
+76	在躲避穿行的途中，她还会停下来，用脚轻轻踢路边的杂物。	在躲避穿行的途中，她還會停下來，用腳輕輕踢路邊的雜物。	通り抜ける途中、彼女は時々止まり、道端の物を軽く足で蹴っていた。	조심스럽게 루트들을 가로지르며 그녀는 가끔씩 멈춰서 발로 길가에 있는 물건을 한 번씩 찼다.	As we sprinted along, she stopped several times, lightly kicking debris by the path.						0	
+77	就是这里，最后一次通讯中，有人踢到了金属，听声音是我曾经见过的一种特殊金属盒子，附近只有这里丢弃了这种金属盒。	就是這裡，最後一次通訊中，有人踢到了金屬，聽聲音是我曾經見過的一種特殊金屬盒子，附近只有這裡丟棄了這種金屬盒。	ここです。最後の通信で誰かが金属を蹴ったのです。音からすると、私が昔見たことのある特殊な金属ケースです。このあたりでは、ここにだけこの金属ケースがあります。	바로 여기에요. 통신 중에 누군가 금속 물체를 발로 찼고, 그 소리는 제가 본 금속 상자가 분명해요. 근처에 버려진 상자는 이것뿐이고요.	Someone kicked metal here in the last communicator call. It was a special metal box, based on the sound, and this is the only location they're found.						0	
+78	通讯中也传出了布料摩擦的声响，材质听起来与里芙·贝斯特拉服装相同，几乎可以推算她刚刚就在这个位置。	通訊中也傳出了布料摩擦的聲響，材質聽起來與里芙·貝斯特拉服裝相同，幾乎可以推算她剛剛就在這個位置。	通信からはリフ・ベストラの服と同じ素材の衣擦れが聞こえたので、彼女は先ほどまでここにいたことはほぼ確定です。	그리고 통신에서 천 재질의 마찰음이 들렸는데 그건 리브의 옷일 거예요. 이로써 그녀들이 방금 이 위치에 있었다는 걸 짐작할 수 있죠.	There was also the sound of fabric rubbing. It sounded like Lyfe Bestla's outfit, so I can be fairly certain she was also here moments ago.						0	
+79	在之前的通讯中，芬妮·戈尔登站在里芙·贝斯特拉的左侧，身旁推测一幢残破的30层大楼，那栋大楼就在我们的四点钟方向——	在之前的通訊中，芬妮·戈爾登站在里芙·貝斯特拉的左側，身旁推測一幢殘破的30層大樓，那棟大樓就在我們的四點鐘方向——	その前の通信では、ファニー・ゴールデンはリフ・ベストラの左側にいました。隣にはおおよそ30階の崩れたビルがあります、そのビルは私たちの4時方向にあります――	그전 통신에서는 페니 골든이 리브의 좌측에 있었고 그 옆에는 무너진 30층의 건물이 있었어요. 건물은 여기서 4시 방향에 있고요.	Fenny Golden was standing to the left of Lyfe Bestla at that time. I can deduce that ruins of a 30-story building were by her side, which is now at our four o'clock...						0	
+80	妮塔落后于芬妮接入通讯，但她在通讯中显示的位置距离集合点更近，她身旁的破损车辆与我们十二点钟方向远处的那辆车外形完全一致——	妮塔落後於芬妮接入通訊，但她在通訊中顯示的位置距離集合點更近，她身旁的破損車輛與我們十二點鐘方向遠處的那輛車外形完全一致——	ニタはファニーの後で通信に入りましたが、通信によれば、彼女は集合地点により近いです。彼女の近くの破損した車は私たちの12時方向にあるあの車と外形が一致します――	니타가 페니보다 통신 연결이 늦었지만 위치는 집합 장소에서 더 가까웠고, 곁에 있던 파손 차량이 12시 방향에 있는 차량과 일치해요.	Nita joined later than Fenny, but her location was closer to the meetup point. The broken car that was near her is identical to the one currently at our 12 o'clock.						0	
+81	像是害怕后悔一样，姬辰星把从通讯中推测出的信息一口气告知于我。	像是害怕後悔一樣，姬辰星把從通訊中推測出的訊息一口氣告知於我。	後悔を恐れているように、姫辰星は通信から推測した情報を一気に私に話した。	실수를 하기 싫어서였을까. 수성은 통신을 통해 추측했던 정보를 내게 단번에 알려줬다.	Ji Chenxing had said her entire set of deductions in a single breath, as though afraid of leaving out any details.						0	
+82	但我不知道她们现在的位置，你要怎么找到她们？	但我不知道她們現在的位置，你要怎麼找到她們？	しかし、私は彼女たちの位置を知りません。どうやって彼女たちを探しますか？	하지만 아직까지 그녀들이 어디 있는지는 정확히 모르겠어요. 다른 방법이 더 있으실까요?	How do you plan to find them, though? I don't know their current location.						0	
+b-18											0	
+83	多谢，这些很重要。	多謝，這些很重要。	ありがとう、これらは貴重な情報だ。	고마워요. 정말 중요한 정보들이었어요.	Thanks, that was all really useful.						0	
+b-19											0	
+84	剩下的我来告诉你。	剩下的我來告訴你。	後は私がやる。	나머지는 제가 좀 덧붙여보죠.	Now it's my turn to tell you.						0	
+b-20											0	
+85	里芙看到泰坦时穷追到底，所以她会向……	里芙看到泰坦時窮追到底，所以她會向……	リフはタイタンを見つけると追い詰めるから、彼女は多分……	아마도 리브는 타이탄을 보면 끝까지 쫓아가기 때문에…	Lyfe never lets a Titan go once she spots it, so she'd be...						0	
+b-21											0	
+86	芬妮有机会就会追着里芙比个高下，所以她可能在……	芬妮有機會就會追著里芙比個高下，所以她可能在……	ファニーはチャンスがあればリフと勝負するから、彼女は……	그리고 페니는 기회만 있으면 리브와 끝장을 보려 하기 때문에…	And Fenny would always chase Lyfe to try to compete with her, so she might be...						0	
+b-22											0	
+87	妮塔也许把污染区的车当作藏宝地，所以……	妮塔也許把汙染區的車當作藏寶地，所以……	ニタは汚染エリアの車で宝探しをするかもしれない、だから……	또 니타는 오염 구역에 있는 차량을 보면 보물창고라 생각하기 때문에…	While Nita would have thought an abandoned car might have great loot, so she...						0	
+88	我向姬辰星说着她们可能移动的方向。此刻，我已经把姬辰星当成了真正的同伴。	我向姬辰星說著她們可能移動的方向。此刻，我已經把姬辰星當成了真正的同伴。	私は姫辰星に彼女たちの動向を説明していた。この時、私は既に姫辰星を本当の仲間として見ていた。	난 수성한테 그녀들이 이동했을 만한 방향을 전부 말해주었다. 이 순간만큼은 수성이 진정한 팀원이자 파트너라고 생각했기 때문이다.	I explained where they might be to Ji Chenxing. I was already treating her as a true comrade.						0	

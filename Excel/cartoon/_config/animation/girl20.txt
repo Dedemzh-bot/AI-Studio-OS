@@ -1,0 +1,44 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释		
+Id	Explain	Type	Name	Path	Nul		
+1	宿舍站	sequence	girl020_01_house_stand01	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_stand01.girl020_01_house_stand01'			
+2	床上坐	sequence	girl020_01_house_bed_sit01	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_bed_sit01.girl020_01_house_bed_sit01'			
+3	床上躺	sequence	girl020_01_house_bed_sleep01	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_bed_sleep01.girl020_01_house_bed_sleep01'			
+4	打招呼	sequence	girl020_01_house_dialogue_greet	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_greet.girl020_01_house_dialogue_greet'			
+5	自豪	sequence	girl020_01_house_dialogue_satisfy	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_satisfy.girl020_01_house_dialogue_satisfy'			
+6	兴奋	sequence	girl020_01_house_dialogue_satisfy02	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_satisfy02.girl020_01_house_dialogue_satisfy02'			
+7	比心	sequence	girl020_01_house_dialogue_heart	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_heart.girl020_01_house_dialogue_heart'			
+8	惊讶	sequence	girl020_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_amaze.girl020_01_house_dialogue_amaze'			
+9	算命	sequence	girl020_01_house_dialogue_divination	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_divination.girl020_01_house_dialogue_divination'			
+10	肯定	sequence	girl020_01_house_dialogue_sure	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_sure.girl020_01_house_dialogue_sure'			
+11	否定	sequence	girl020_01_house_dialogue_deny	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_deny.girl020_01_house_dialogue_deny'			
+12	思考-前	sequence	girl020_01_house_dialogue_think_start	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_think_start.girl020_01_house_dialogue_think_start'			
+13	思考-循环	sequence	girl020_01_house_dialogue_think_loop	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_think_loop.girl020_01_house_dialogue_think_loop'			
+14	思考-后	sequence	girl020_01_house_dialogue_think_end	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_think_end.girl020_01_house_dialogue_think_end'			
+15	消极-前	sequence	girl020_01_house_dialogue_depressed_start	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_depressed_start.girl020_01_house_dialogue_depressed_start'			
+16	消极-循环	sequence	girl020_01_house_dialogue_depressed_loop	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_depressed_loop.girl020_01_house_dialogue_depressed_loop'			
+17	消极-后	sequence	girl020_01_house_dialogue_depressed_end	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_depressed_end.girl020_01_house_dialogue_depressed_end'			
+18	背手站-前	sequence	girl020_01_house_dialogue_stand02_start	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_stand02_start.girl020_01_house_dialogue_stand02_start'			
+19	背手站-循环	sequence	girl020_01_house_dialogue_stand02_loop	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_stand02_loop.girl020_01_house_dialogue_stand02_loop'			
+20	背手站-后	sequence	girl020_01_house_dialogue_stand02_end	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_stand02_end.girl020_01_house_dialogue_stand02_end'			
+21	生气-前	sequence	girl020_01_house_dialogue_angry_start	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_angry_start.girl020_01_house_dialogue_angry_start'			
+22	生气-循环	sequence	girl020_01_house_dialogue_angry_loop	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_angry_loop.girl020_01_house_dialogue_angry_loop'			
+23	生气-后	sequence	girl020_01_house_dialogue_angry_end	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_angry_end.girl020_01_house_dialogue_angry_end'			
+24	吧台坐	sequence	girl020_01_house_stool_sit01	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_stool_sit01.girl020_01_house_stool_sit01'			
+25	吧台坐转换-前	sequence	girl020_01_house_dialogue_barsit_start	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_barsit_start.girl020_01_house_dialogue_barsit_start'			
+26	吧台坐转换-循环	sequence	girl020_01_house_dialogue_barsit_loop	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_barsit_loop.girl020_01_house_dialogue_barsit_loop'			
+27	吧台坐转换-后	sequence	girl020_01_house_dialogue_barsit_end	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_barsit_end.girl020_01_house_dialogue_barsit_end'			
+							
+							
+97	左转	sequence	girl020_01_house_dialogue_turn_L	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_turn_L.girl020_01_house_dialogue_turn_L'			
+98	右转	sequence	girl020_01_house_dialogue_turn_R	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_turn_R.girl020_01_house_dialogue_turn_R'			
+99	呼吸叠加素材	sequence	girl020_01_house_dialogue_Tpose	AnimSequence'/Game/Characters/Girl/girl020_01/Anim/girl020_01_house_dialogue_Tpose.girl020_01_house_dialogue_Tpose'			
+100	一次思考	custom_seq	12;13;14				
+101	思考循环	custom_loop_last	12;13				
+102	一次消极	custom_seq	15;16;17				
+103	消极循环	custom_loop_last	15;16				
+104	一次背手站	custom_seq	18;19;20				
+105	背手站循环	custom_loop_last	18;19				
+106	一次生气	custom_seq	21;22;23				
+107	生气循环	custom_loop_last	21;22				
+108	一次吧台转换	custom_seq	25;26;27				
+109	吧台转换循环	custom_loop_last	25;26				

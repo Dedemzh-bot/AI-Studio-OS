@@ -1,0 +1,3 @@
+﻿地图Id	每隔多少天结算	初始卡牌集合(id,权重;id,权重)	初始卡牌数量	地图类型(0:传统战,1:道具战)	最大回合	最大道具数	队伍最大金钱	大富翁地图ID 对应map.txt	地图描述	任务目标
+id	day_settlement	init_cards	card_num	type	max_round	max_item_count	max_money	map_id	map_des	map_target
+1	7	{{1,300},{2,200},{3,100},{5,50}}	0	0	42	5		1005		

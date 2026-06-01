@@ -1,0 +1,9 @@
+﻿事件	备注	图素id	资产变化（1增加，2减少）	原地休息（回合数）	获得卡牌（id;数量）	对象（触发角色1；所有人2；除了分析员3）	文本key	概率（满值1000）
+Id	Des	Pic	Money	Rest	RankUp	Role	Uikey	Probability
+1	好运事件·涨钱1	1010	1;1000			1	season_item.TxtRichManEvent1	200
+2	好运事件·涨钱2	1010	1;1000			2	season_item.TxtRichManEvent11	100
+3	好运事件·获得卡牌	1010			4;2	1	season_item.TxtRichManEvent2	50
+4	坏运气事件·减钱1	1011	2;500			1	season_item.TxtRichManEvent3	200
+5	坏运气事件·减钱2	1011	2;1000			2	season_item.TxtRichManEvent4	100
+6	钓鱼事件	1013		1		1	season_item.TxtRichManEvent5	200
+7	分析员被带走事件	1014	2;500			3	season_item.TxtRichManEvent6	150

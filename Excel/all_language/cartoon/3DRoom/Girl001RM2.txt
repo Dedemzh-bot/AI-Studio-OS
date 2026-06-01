@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	来得正好，我有事问你。	來得正好，我有事問你。	あっ、いいところに来たね。ちょうど聞きたいことがあって。	묻고 싶은 게 있었는데 마침 잘 왔어.	Just the Adjutant I was hoping to see. Question for you.						0	
+page0.2	“众神决斗”，是什么？	“眾神決鬥”，是什麼？	「神々の決闘」って何？	'신의 결투'가 어떤 걸 의미하는지 알아?	What's a "Ragnarok Rampage"?						0	
+page0.3	似乎是最近很流行的卡牌游戏。	好像是最近很流行的卡牌遊戲。	最近流行りのカードゲームらしい。	요즘 유행하고 있는 카드 게임을 말하는 거야.	Card game, I think. I've heard people talking about it.						0	
+page0.4	嗯……果然不论什么时代都会有属于自己的卡牌游戏。	嗯……果然不論什麼時代都會有屬於自己的卡牌遊戲。	ふーん……いつになっても、その時代特有のカードゲームってあるんだね。	아… 역시 시대가 어떻게 변했건 그 시대만의 카드 게임이 존재하는 건가.	Oh... time marches forward and we all just keep playing card games.						0	
+page0.5	你是想玩吗？	你想玩嗎？	やりたいの？	해보고 싶어?	Wanna play it with me?						0	
+page0.6	嗯，有点兴趣。	嗯，有點興趣。	うん、ちょっと試したいかも。	응. 재미있을 것 같은데?	Don't see why not.						0	
+page0.7	想看看这个世界的玩家失去硬件的辅助后会有多狼狈。	想看看這個世界的玩家失去硬體的輔助後會有多狼狽。	この世界の人たちが武器を使えなかったらどんな顔するか見てみたい。	현시대에 사는 플레이어들이 하드웨어가 사라졌을 때 느끼는 비통함이 어떤지 좀 알고 싶거든.	Another fun way to see how you 2060s people get on when you don't have your souped-up, turbo gear.						0	
+page0.8	你内心也太黑暗了吧。	你內心也太黑暗了吧。	その気でやるつもりかよ。	너무 사악한 거 아니야?	You know you can play games for fun without it needing to be about humiliating people, right?						0	
+page0.9	算吧。	算吧。	まあね。	그럴지도.	I suppose. Would take the fun out of it though.						0	
+page0.10	不过我没想到你会玩卡牌游戏呢。	不過我沒想到你會玩卡牌遊戲呢。	でも、カードゲームをやりたいって意外だった。	아카시아가 카드 게임을 할 수 있을 줄은 상상도 못 했어.	I didn't think you'd be into card games.						0	
+page0.11	只要是游戏的话，都会。	只要是遊戲的話，都會。	ゲームなら、何でも興味あるよ。	난 게임이라면 다 할 수 있어.	I'm into games.						0	
+page0.12	不愧是你啊。	不愧是你啊。	さすがだね。	역시 아카시아다운 대답이야.	Evidently.						0	
+page0.13	怎么样？要和我来一局吗？	怎麼樣？要和我來一局嗎？	どう？私と対戦してみる？	나랑 한 판 할래?	So we're going to play then?						0	
+page0.14	可以是可以，我还没牌组。	可以是可以，但我沒牌組。	いいけど、でも私デッキとか持っていない。	좋긴 한데… 카드가 없는 걸.	Soon as I get a deck together.						0	
+page0.15	这么一说……我也没有。	這麼說來……我也沒有。	そういえば、私も持ってないね……	그러고 보니… 나도 없네.	Ah... yeah, I'll need a deck too.						0	
+page0.16	那等我们都集齐了牌组再玩。	那等我們都集齊了牌組再玩。	じゃあ全部集めたらやってみよう。	그럼 일단 카드부터 모으고 플레이하는 걸로 하자.	Let's get decks.						0	
+page0.17	嗯，一言为定。	嗯，一言為定。	うん、約束だ。	오케이. 약속한 거야.	Let's.						0	

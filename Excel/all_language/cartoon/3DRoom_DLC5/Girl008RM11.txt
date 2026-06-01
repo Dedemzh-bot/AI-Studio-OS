@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，你过来一下！	分析員，你過來一下！	分析員、ちょっと来て！	분석가, 이리 와봐!	Adjutant, come here!						0	
+page1.2	嗯？芬妮，你好像很生气的样子？	嗯？芬妮，你好像很生氣的樣子？	えっ？ファニー？なんか怒ってるように見えるけど？	응? 페니? 무슨 일인데 이렇게까지 화난 거야?	Hm? Fenny, you seem kind of mad.						0	
+page1.3	我没生气！	我沒生氣！	怒ってないわよ！	화난 거 아닌데!	I'm not mad!						0	
+page1.4	（明明就很生气……）	（明明就很生氣……）	（どう見ても怒ってるだろう……）	(분명 화내고 있는데…)	(You're clearly really mad...)						0	
+page1.5	我有话问你，你要老实回答哦！	我有話問你，你要老實回答！	聞きたいことがあるわ。正直に答えなさい！	물어볼 게 있는데 솔직하게 대답해 줘!	I want to ask you something. You need to answer honestly!						0	
+page1.6	好，我尽量。	好，我盡量。	分かった。	응, 최대한 그렇게 할게.	Okay. I'll do my best.						0	
+page1.7	你最近和那个女人走得很近，你们是什么关系啊？	你最近和那個女人走得很近，你們是什麼關係啊？	最近あの女とずいぶん仲がいいじゃない。いったいどういう関係なの？	최근 저 여자랑 가깝게 지내는 것 같던데, 둘이 무슨 사이야?	You've been really close with that girl lately. What's your relationship?						0	
+page1.8	啊？哪个女人？什么关系是指……？	啊？哪個女人？什麼關係是指……？	えっ？あの女って？それにどういう関係と聞かれても……	뭐? 어떤 여자? 무슨 사이냐니…?	Huh? Which girl? And what kind of "relationship" are you referring to...?						0	
+page1.9	少装了！我之前还看见你进她房间了！	少裝了！我之前還看見你進了她房間！	とぼけないで！あの女の部屋に入ったじゃない！この目で見てたわよ！	모르는척 하지 마! 전에 네가 그녀의 방에 들어가는 걸 봤어!	Don't pretend! I saw you going into her room before!						0	
+page1.10	房间？你说哪一个的？	房間？你說哪一個的？	部屋？誰の？	방? 누구 방을 말하는 거야?	A room? Which one are you talking about?						0	
+page1.11	不止她吗！？你到底和多少人有关系啊？	不止她嗎！？你到底跟多少人有關係啊？	彼女だけじゃないってこと！？いったい何人と関係を持ってるの？	한 명이 아니구나?! 대체 몇 명이랑 엮여있는 거야?	She isn't the only one!? How many people do you have relationships with?						0	
+page1.12	严格意义上来说，我和每个人都有关系。	嚴格意義上來說，我和每個人都有關係。	うん……厳密に言えば、私は誰とでも関係を持っている。	…정확히 말하면, 모든 사람이랑 엮여있다고 볼 수 있지.	Technically, I have relationships with everyone.						0	
+page1.13	啊？！	啊？！	は！？	뭐?!	Eh!?						0	
+page1.14	分析员你个花心大萝卜！	分析員你個花心大蘿蔔！	この浮気者！	분석가, 너 바람둥이야?!	Adjutant, you're such a playboy!						0	
+page1.15	芬妮大吼一声后，快速跑开了。	芬妮大吼一聲後，快速跑開了。	ファニーは怒鳴って、その場を走り去った。	페니는 크게 소리를 치고는 뒤로 돌아 달려갔다.	Fenny shouted, then ran away quickly.						0	
+page1.16	周围逐渐响起了讨论声。	周圍逐漸響起了討論聲。	周りから野次馬のざわめきが聞こえる。	점점 주변에서 수근거리는 소리가 들린다.	With that, I began to hear the sounds of suppressed chatter around me.						0	
+page1.17	我怎么了吗……	我怎麼了嗎……	私がいったい何をしたと言うんだ……	도대체 내가 뭘했다고…	Did I do something wrong...?						0	

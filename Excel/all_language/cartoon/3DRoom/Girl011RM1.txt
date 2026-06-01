@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员喜欢听什么样的音乐？	分析員喜歡聽什麼樣的音樂？	分析員はどんな音楽が好きですか？	분석가는 어떤 노래 좋아해?	Adjutant, what kind of music do you like to listen to?						0	
+page0.2	没什么特别的喜好，硬说的话，流行什么就会听什么，怎么了吗？	沒什麼特別的喜好，硬要說的話，流行什麼就會聽什麼，怎麼了嗎？	特にこれが好きっていうものはないかも。強いて言えば、流行ってるのは普通に聞くよ。それがどうかした？	취향이랄 건 없는데, 굳이 따지자면 유행하는 건 다 들어요. 근데 왜요?	Nothing in particular. If I had to pick something, I just listen to whatever's popular. Why do you ask?						0	
+page0.3	我想在休息区申请放一些有利于身心舒缓的轻音乐。	我想在休息區申請放一些有利於身心舒緩的輕音樂。	休憩スペースでリラックスできる音楽を流すよう提案しようと思うんですけど。	휴식 구역에 잔잔한 음악 좀 틀어놓으려고.	I'd like to apply to play some calming music in the rest area to help us physically and mentally relax.						0	
+page0.4	但是考虑到可能有人会觉得轻音乐让人昏昏欲睡，就想着先调查看看。	但是考慮到可能有人會覺得輕音樂讓人昏昏欲睡，就想說先調查看看。	でもライトミュージックで眠たくなる人もいるでしょうから、先に調査しようかと。	근데 너무 잔잔하면 사람들이 졸 것 같아서 미리 조사하는 중이야.	But some people might think calming music would make them sleepy, so I thought I'd ask around first.						0	
+page0.5	如果能趁机小憩一会儿也不是不行。	如果能趁機小憩一下也不是不行。	それなら仮眠を取っても悪くないんじゃないかな。	이참에 좀 쉬는 것도 나쁘지 않죠.	Using that as a chance to enjoy a nap doesn't sound too bad.						0	
+page0.6	但是，也有人不喜欢把睡觉当成休息方式哦。	但是，也有人不喜歡把睡覺當成休息方式哦。	休憩したくても眠りたくはない人もいますよ。	하지만 쉴 때 잠을 자는 걸 싫어하는 사람이 있을 수도 있잖아.	Some people don't see sleep as a way to relax though.						0	
+page0.7	如果强行放一些催眠的音乐会适得其反。	如果強行放一些催眠的音樂會適得其反。	無理やり眠気を誘う音楽を流したら逆効果になるかもしれません。	강제로 잠 오는 음악을 틀어놓는 건 오히려 부작용이 될지도 몰라.	If they are forced to listen to some hypnotic music, it could be counterproductive.						0	
+page0.8	说的也是。	說的也是。	確かに。	그것도 맞는 말이네요.	That's a good point.						0	
+page0.9	那我就先给分析员的意见记个“尚不明确”好了。	那分析員的意見我就先記下“尚不明確”好了。	分析員の意見は「保留」としましょうか。	그럼 일단 분석가는 '아직 잘 모르겠음'으로 적어놓을게.	In that case, I'll mark your opinion as "Undecided."						0	
+page0.10	我能看看现在的意见情况吗？	我能看看現在的意見情況嗎？	みんなからの意見は？	지금까지의 의견들을 한번 봐도 될까요?	Could I have a look at the survey results so far?						0	
+page0.11	这个嘛。目前的话，“重金属”、“华尔兹”、“流行乐”、“复古动漫金曲”……没有一个重复选择。	這個嘛。目前的話，“重金屬”、“華爾茲”、“流行樂”、“復古動漫金曲”……沒有一個重複選擇。	そうですね。今の時点では、「ヘヴィメタル」、「ワルツ」、「昔のアニメソング」と……意見はバラバラですね。	'헤비메탈', '왈츠', '유행가', '레트로 애니 명곡'… 중복된 건 하나도 없어.	Sure. So far, we have "Heavy Metal," "Waltz," "Pop Music," and "Retro Anime Songs"... There haven't been any repeats.						0	
+page0.12	恩雅你呢？	恩雅你呢？	エンヤ姉は？	엔야 누님은요?	How about you, Enya?						0	
+page0.13	我？我听大家最后的选择就好。	我？我聽大家最後的選擇就好。	私ですか？私は皆さんの選択に従いますよ。	나? 난 그냥 모두의 선택에 따를게.	Me? I'll just be fine with the final result.						0	
+page0.14	意料之中啊。	意料之中啊。	そうだと思った。	예상대로네요.	As expected.						0	

@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	茉莉安提议共同参加两人三足项目。	茉莉安提議共同參加兩人三足。	マリアンの提案で、二人三脚に参加することになった。	마리안은 일심동체 달리기 종목에 함께 참가하자고 제안했다.	Marian suggested that you try the three-legged race.						0	
+choice01	让雨燕绑腿	讓茉莉安綁腿	マリアンに足を縛ってもらう	스위프트에게 다리를 묶이다.	Ask Marian to tie your legs together						0	
+page1.1	分析员，绑成这样的话会不会觉得有些勒？	分析員，綁成這樣的話會不會覺得有些勒？	分析員さん……この縛り方、キツくないですか？	분석가님, 이렇게 묶으면 좀 조이지 않을까요?	Adjutant, does this feel too tight?						0	
+page1.2	这个程度，不像茉莉安的平时的习惯啊。	這個程度，不像茉莉安的平常的習慣。	全然。むしろ、普段のマリアンらしくないぐらいだ。	이 정도면 마리안의 평소 습관 같지 않네.	This isn't like your usual method, Marian.						0	
+page1.3	呵呵~如果伤到分析员的话，就不好了……	呵呵~如果傷到分析員的話，就不好了……	ふふ……分析員さんを傷ついちゃうといけないので……	하하~ 분석가 다치면 큰일이죠…	Hehe~ I don't want the rope to hurt you...						0	
+page1.4	脚上的绳子绑得很松，但茉莉安贴得非常紧。	腳上的繩子綁得很鬆，但茉莉安貼得非常緊。	足を縛るロープはそこまできつくないのに、マリアンは私にくっついてきた。	발의 끈은 느슨하게 묶여 있었지만, 마리안은 단단히 달라붙어 있었다.	The rope on your legs was loose, but Marian was pressing firmly against you.						0	
+choice02	帮雨燕绑腿	幫茉莉安綁腿	マリアンの足を縛ってみる	스위프트를 도와 다리를 묶다.	Help Marian tie your legs together						0	
+page2.1	唔！唔……分析员……	唔！唔……分析員……	うっ！んん……分析員さん……	음! 음… 분석가님…	Agh! Agh... Adjutant...						0	
+page2.2	怎么了，是不是我绑得太紧了	怎麼了，是不是我綁得太緊了	どうした？キツく縛り過ぎたか？	왜, 내가 너무 꽁꽁 묶은 거 아니야?	What's wrong, did I hurt you with the rope?						0	
+page2.3	不是不是，相贴的部分能够感受到分析员的温度…	不是不是，相貼的部分能夠感受到分析員的溫度……	いいえ……分析員さんの温度が伝わってきて……	아니요, 붙어 있는 부분이 분석가의 온도를 느낄 수 있어요…	No, it's not that. It's just... I can feel your warmth through the contact...						0	
+page2.4	再紧一点也没问题！	再緊一點也沒問題！	もう少し力を入れても大丈夫ですよ！	조금 더 타이트해도 괜찮아요!	You can strap us closer if you want!						0	

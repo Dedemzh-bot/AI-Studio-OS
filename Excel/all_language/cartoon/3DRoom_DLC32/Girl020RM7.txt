@@ -1,0 +1,24 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，你相不相信星座占卜啊？	分析員，你相不相信星座占卜啊？	分析員、星座占いって信じる？	분석가, 너 별자리 운세 같은 거 믿어?	Adjutant, do you believe in zodiac signs?						0	3.2版本随机事件
+page1.2	让本天师来帮你卜一卦如何？	讓本天師來為你卜一卦如何？	この天師が占ってあげよっか。	이 점술사께서 한번 봐줄까?	Want me to give you a reading?						0	3.2版本随机事件
+page1.3	星座？等等……卜卜你一个朔州人，还信这个？	星座？等等……卜卜你一個朔州人，還信這個？	星座？いや、ブブは朔州の人間だろ。そんなの信じるのか。	별자리? 잠깐… 보보, 넌 삭주 사람인데 이런 걸 믿어?	Zodiac signs? Wait, you're from Shuozhou and you believe in that?						0	3.2版本随机事件
+page1.4	我记得朔州人信的是风水那一套吧？	我記得朔州人信的是風水那一套吧？	朔州は風水のほうじゃなかったか。	삭주 사람들은 풍수를 믿지 않나?	I remember your thing was feng shui?						0	3.2版本随机事件
+page1.5	世界上的卜算法门这么多，也不只有风水堪舆之法呀。	世界上的卜算法門這麼多，也不只有風水堪輿之法呀。	この世の占い流派は山ほどあるんだよ。風水だけじゃないの。	세상에는 여러 가지 점술이 있어. 풍수지리학만 있는 게 아니라고.	Feng shui is only one of many divination methods in the world.						0	3.2版本随机事件
+page1.6	作为新时代的天师，本天师自然要与时俱进，海纳百川。	身為新時代的天師，本天師自然要與時俱進，海納百川。	ニューエイジの天師たるもの、アップデートは必須だし、良いものはぜんぶ取り入れるのが筋ってやつ。	신세대의 점술사라면 시대에 맞춰 발전해 나가고, 무엇이든 유연하게 받아들여야지.	As a new-era geomancer, I need to keep up with the times and embrace all schools.						0	3.2版本随机事件
+page1.7	所以无论是朔州自家的风水还是占星，又或是所谓的星座，或者阿尔斯特流传已久的塔罗，本天师都是要去了解的嘛！	所以無論是朔州自家的風水還是占星，又或是所謂的星座，或是阿爾斯特流傳已久的塔羅，本天師都是要去了解的嘛！	だから朔州の風水も占星も、ついでに「星座」でも、アルスターに古くからあるタロットでも、ぜ〜んぶ勉強するのだ！	그래서 우리 삭주의 풍수지리든 점성술이든, 이른바 별자리든, 또 아니면 울스터에 전해 내려오는 타로든, 점술사로서 두루두루 알아야 한다고!	From Shuozhou's feng shui to astrology, from reading zodiac signs to Ulster's ancient tarot, I need to know something of everything!						0	3.2版本随机事件
+page1.8	知己知彼百战百胜——朔州的老祖宗们可都这么说。	知己知彼百戰百勝——朔州的老祖宗們可都這麼說。	「彼を知り己を知れば百戦殆からず」って朔州のご先祖も言ってたでしょ。	지피지기 백전백승, 삭주의 선조들도 그렇게 말씀하셨어.	Know yourself and know your enemy, and you will never be defeated. That's what the ancestors of Shuozhou said.						0	3.2版本随机事件
+page1.9	等本天师把它们统统给吃透了，卜算这一行，可就没人是本天师的对手啦。	等本天師把它們統統給吃透了，卜算這一行，可沒人是本天師的對手啦。	全部マスターしたら、この業界でブブに敵はいないからね。	이 점술사께서 그걸 다 터득한다면, 점술계에서는 날 따라올 자가 없을 거야.	Once I've mastered them all, no one will rival me in divination!						0	3.2版本随机事件
+choice01	夸赞她	誇獎她	ほめる	칭찬한다	Praise her						0	3.2版本随机事件
+page2.1	卜卜还真是努力啊。	卜卜還真是努力。	ブブはよくやっているな。	보보는 정말 노력하는구나.	You are really hardworking, Bubu.						0	3.2版本随机事件
+page2.2	嘿嘿，不是努力啦，这叫敬业，敬业呀~	嘿嘿，不是努力啦，這叫敬業，敬業呀~	えへへ、努力ってより「プロ意識」だよ、プロ意識〜	헤헤, 노력이 아니라 직업 정신이지~	Hehe, it's not just hard work! It's professionalism~						0	3.2版本随机事件
+choice02	敲打她	敲打她	たしなめる	자극한다	Tease her						0	3.2版本随机事件
+page3.1	可你这种大杂烩乱炖，放在朔州文化里，会不会有些离经叛道了？	但你這種大雜燴亂燉，放在朔州文化裡，會不會有些離經叛道了？	ただ、何でもかんでも混ぜるやり方は、朔州の文化からすると外道じゃないのか。	근데 너무 짬뽕 같은데, 이렇게 하면 삭주 문화에 너무 반대되지 않나?	But mixing everything together like that... wouldn't it be considered unorthodox in Shuozhou culture?						0	3.2版本随机事件
+page3.2	嘿嘿，是有一点点啦……但是没关系，这也算是一种集大家之所长嘛！	嘿嘿，是有一點點啦……但沒關係，這也算是一種集大家之所長嘛！	えへへ、ちょっとはね……でもいいのいいの。長所取りの融合ってやつ！	헤헤, 조금 그렇긴 하지… 하지만 괜찮아. 이러면 각자의 장점을 모아놓은 셈이니까!	Hehe, maybe a little... But it's fine! I call it taking the best from everybody!						0	3.2版本随机事件
+page4.1	本天师可是立志要传播朔州文化的！	本天師可是立志要傳播朔州文化的！	ブブは朔州文化を広めるって決めてるんだから！	이 점술사께선 삭주 문화를 전파하겠다는 의지가 확고하거든!	After all, this geomancer is set on spreading Shuozhou culture far and wide!						0	3.2版本随机事件
+page4.2	可星座、塔罗牌什么的，真的能和风水融合到一起吗？	但星座、塔羅牌什麼的，真的能跟風水融合在一起嗎？	星座やタロットと風水って、本当に融合できるのか。	근데 별자리나 타로 카드 같은 게 정말 풍수와 융합될 수 있을까?	But will zodiac signs or tarot really blend well with the arts of feng shui?						0	3.2版本随机事件
+page4.3	这本天师还真没试过……	這本天師還真沒試過……	そこまではまだ試してないが……	그건 이 점술사도 아직 안 해봤지만…	Hmm, I haven't really tried it out yet...						0	3.2版本随机事件
+page4.4	这不正准备拿分析员你来试一试嘛。	這不就準備拿分析員你來試試看。	今日は分析員で試すの。	분석가로 시험해 보려고 이렇게 왔잖아?	So, you will be my first subject for a warm-up!						0	3.2版本随机事件
+page4.5	来来来，让本天师来把你的星座、生辰八字，还有血型都融合进卜算之法里……不对不对，最好能采你的一滴血，然后我们再来摆一个十二星盘……	來，讓本天師來把你的星座、生辰八字，還有血型都融合進卜算之法裡……不對不對，最好能採你的一滴血，然後我們再來擺一個十二星盤……	さあ、星座と「生辰八字」と血液型を全部ミックスして……いや、いっそ血を一滴もらって、ホロスコープも作って……	자자, 이 점술사께서 네 별자리, 사주팔자, 혈액형을 모두 점술에 융합해 볼게… 아니, 아니지, 네 피를 한 방울 채취해서 출생 차트를 그려보면 더 좋을 텐데…	Now now, give me your zodiac sign, date and time of birth, and blood type for this special session of fortunetelling! Wait, it'd be best to take a drop of your blood, and then we can set up an astrology chart...						0	3.2版本随机事件
+page4.6	这样真的可以吗？	這……這樣真的可以嗎……	本当に大丈夫なのか。	그게 정말 될까?	Will that really work...?						0	3.2版本随机事件
+page4.7	事实证明，卜卜那一堆杂糅到一起的卜算法根本一点用也没有……	事實證明，卜卜那一堆雜糅在一起的卜算法根本一點用也沒有……	結果――ブブ式ごった煮占術は、役に立たなかった。	결과적으로, 보보의 짬뽕 점술은 전혀 쓸모가 없었다…	Facts proved that Bubu's jumbled mix of divination methods was completely useless...						0	3.2版本随机事件

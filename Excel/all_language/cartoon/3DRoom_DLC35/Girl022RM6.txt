@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	哎，playername——我刚要去找你呐！	哎，playername——我剛要去找你呢！	あっ、playernameさん——ちょうど探していたわ！	어, playername! 지금 막 찾으러 가려던 참이었는데!	Hey, playername! I was just looking for you!						0	3.5版本随机剧情
+page1.2	嗯？	嗯？	ん？	응?	Hm?						0	3.5版本随机剧情
+page1.3	我还没放过鞭炮呢！你陪我好不好？	我還沒放過鞭炮呢！你陪我好不好？	まだ爆竹を鳴らしていないの！一緒にやってくださる？	나 아직 폭죽 터뜨려본 적 없거든! 같이 해줄래?	I've never set off firecrackers before! Could you do it with me?						0	3.5版本随机剧情
+page1.4	你已经是天启者了，还怕鞭炮？	你已經是天啟者了，還怕鞭炮？	覚醒者なのに、爆竹が怖いのか？	이제 계시자인데 폭죽이 무서워?	You're a Manifestation, and you're afraid of firecrackers?						0	3.5版本随机剧情
+page1.5	我没有试过嘛……你肯定放过吧？	我沒有試過嘛……你肯定放過吧？	初めてなのよ……貴方ならやったことあるでしょ？	해본 적이 없으니까… 넌 해봤지?	I've just never tried it... You've certainly done it before, right?						0	3.5版本随机剧情
+page1.6	放是放过。对了，要叫大家一起吗？	放是放過。對了，要叫大家一起嗎？	あるけど、みんなも呼ぶか？	해본 적은 있지. 참, 그럼 다들 부를까?	I have. Should we call everyone to join us?						0	3.5版本随机剧情
+page1.7	好哇好哇~那你先陪我去取鞭炮！我不知道放哪里……	好哇好哇~那你先陪我去拿鞭炮！我不知道放哪裡……	いいわね！じゃあ先に爆竹を取りに行きましょう、どこに置いたらいいかわからなくて……	좋아 좋아~ 그럼 먼저 같이 폭죽 가지러 가자! 어디에 둬야 할지 모르겠어…	Yes, of course~ Then first, come with me to get the firecrackers! I simply don't know where to put them...						0	3.5版本随机剧情
+page1.8	我买了十车，宿舍应该是放不下了。	我買了十車，宿舍應該是放不下了。	トラック十台分も買ったから、社員寮には入りきらないと思うわ。	차로 열 트럭이나 샀거든. 숙소에는 도저히 못 둘 것 같아.	I purchased ten truckloads. I don't know if they can all fit inside the base.						0	3.5版本随机剧情
+page1.9	多少？！十车？！	多少？！十車？！	トラック十台分！？	뭐?! 열 트럭?!	What!? Ten truckloads!?						0	3.5版本随机剧情
+page1.10	快，赶紧带我过去！	快，趕緊帶我過去！	早く、連れて行って！	빨리, 빨리 가보자!	Quick, take me there right now!						0	3.5版本随机剧情

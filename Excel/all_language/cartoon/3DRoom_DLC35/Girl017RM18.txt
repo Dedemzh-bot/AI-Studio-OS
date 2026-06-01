@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	最近看你有点焦虑？	最近看你有點焦慮？	最近、ちょっと焦っていないか？	요즘 좀 불안해 보이네?	You look a little anxious lately.						0	3.5版本随机剧情
+page1.2	马上就要到魔术的期末考了！	馬上就要到魔術的期末考了！	もうすぐマジックの期末試験なんだ！	곧 마술 기말고사가 있거든요!	The final exam on magic is almost here!						0	3.5版本随机剧情
+page1.3	魔术师还有期末考核？	魔術師還有期末考核？	マジシャンにも期末試験があるのか。	매지션도 기말고사가 있어?	Magicians have final exams?						0	3.5版本随机剧情
+page1.4	是我给自己定的一个小目标——要在每个季度结束之前学会一个之前不会的魔术。	是我給自己定的一個小目標——要在每個季度結束之前學會一個之前不會的魔術。	自分で決めた目標があって、3ヶ月ごとに、できなかったマジックを一つ覚えるって決めてるの。	제가 스스로 정한 소소한 목표예요. 매 분기 내에, 전에 못 했던 마술을 하나 익히는 거죠.	It's a little goal I set for myself — to learn a new magic trick before the end of each quarter.						0	3.5版本随机剧情
+page1.5	听起来比学校的考试轻松一些。	聽起來比學校的考試輕鬆一些。	学校の試験よりは気楽そうだな。	학교 시험보단 가벼울 것 같네.	Sounds a little easier than school exams.						0	3.5版本随机剧情
+page1.6	可问题是我到现在还什么都没学会！	可問題是我到現在還什麼都沒學會！	でもさ、今のところまだ何もできてないんだよ！	근데 문제는 지금까지 아무것도 익히지 못했다는 거예요!	The problem is I haven't learned anything yet!						0	3.5版本随机剧情
+page1.7	还有段时间，要不突击一下？	還有段時間，要不突擊一下？	まだ時間あるし、ここから追い込んでみる？	아직 시간 있잖아, 벼락치기 하는 건 어때?	There's still some time. Why not cram for it?						0	3.5版本随机剧情
+page1.8	咳…其实我每年都是这时候突击的。	咳…其實我每年都是這時候突擊的。	ゴホン……実は毎年この時期に追い込みをかけてるんだけどね。	크흠… 사실 매년 이맘때면 벼락치기를 하거든요.	Well... Actually, I cram last minute every year.						0	3.5版本随机剧情
+page1.9	所以，你去年来给我演示的那个魔术，也是突击的？	所以，你去年給我演示的那個魔術，也是突擊的？	去年見せてくれたあのマジックも、追い込みで仕上げたってことか？	그럼, 작년에 나한테 보여준 마술도 벼락치기 했던 거였어?	So, the special trick you showed me last year... Was it a result of cramming, too?						0	3.5版本随机剧情
+page1.10	当然不是！那个我可是准备了很久的…	當然不是！那個我可是準備了很久的…	違うよ！あれは前からちゃんと仕込んでたんだから……	당연히 아니에요! 그건 정말 오랫동안 준비한 거예요…	Of course not! I spent a long time preparing for that one...						0	3.5版本随机剧情
+page1.11	给亲爱的表演，怎么能随便应付。	給親愛的表演，怎麼能隨便應付。	ハニーに見せるんだもん、手を抜けるわけないでしょ。	자기한테 보여주는 건데, 대충 할 수 없죠.	I wouldn't wing it when performing for you, honey~						0	3.5版本随机剧情
+page1.12	那今年的魔术准备得怎么样了？	那今年的魔術準備得怎麼樣了？	じゃあ、今年のマジックの準備はどうなんだ。	그럼 올해 마술 준비는 어떻게 되고 있어?	How's this year's special trick going?						0	3.5版本随机剧情
+page1.13	已经准备三个多月了，效果应该还不错？	已經準備三個多月了，效果應該還不錯？	うん、もう3ヶ月以上仕込んでるし、悪くないと思う。	벌써 3개월도 더 준비했으니까, 아마 괜찮을 거예요.	I've been preparing for over three months. I think it should be pretty good.						0	3.5版本随机剧情
+page1.14	所以眼下最头疼的，就是期末考核了？	所以眼下最頭疼的，就是期末考核了？	今いちばん困ってるのって、期末試験のことか。	그럼 지금 가장 골치 아픈 게 기말고사인 거야?	So, your problem right now is just the final magic exam?						0	3.5版本随机剧情
+page1.15	对呀，现在完全没想好要练什么……	對呀，現在完全沒想好要練什麼……	うん、まだ何をやるか決まってなくて……	맞아요. 뭘 연습할지 전혀 정하지 못했어요…	Exactly. I have no idea what to practice...						0	3.5版本随机剧情
+page1.16	我来帮你吧，正好我有点想法。	我來幫你吧，正好我有點想法。	私が一緒に考えるよ、ちょうどいい案があるんだ。	내가 도와줄게, 마침 아이디어가 있어.	I'll help you. I just happen to have some ideas.						0	3.5版本随机剧情
+page1.17	那就拜托亲爱的啦！	那就拜託親愛的啦！	それじゃあお願い、ハニー！	그럼 자기한테 부탁할게요!	Then I'll count on you, honey!						0	3.5版本随机剧情

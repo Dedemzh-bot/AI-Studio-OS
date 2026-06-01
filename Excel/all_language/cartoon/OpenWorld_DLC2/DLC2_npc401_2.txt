@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+hi01.1	这里好危险，我想回缓冲区……	這裡好危險，我想回緩衝區......	ここは物騒すぎます……バッファーエリアに帰りたいですよ……	이곳은 너무 위험해요. 버퍼 구역으로 돌아가고 싶어요…	It's so dangerous here, I can't wait to get back to the Buffer Sections.						0	
+choice.01	我去帮你换个班？	我去幫你換班?	それなら部署を変えてやってもいいよ。	필요하면 내가 교대해 줄까?	Would you like me to transfer you to another post?						0	
+page01.1	不，不用了长官，我就念叨两句……	不、不用了長官，我只是抱怨幾句......	い、いえ、大丈夫です。ただのぼやきなんで……	아, 아니에요, 분석가님. 그냥 투정 좀 부린 거예요.	No, no need, sir. You can ignore my grumbling...						0	
+hi02.1	背靠着墙，应该就不怕被幽灵从背后偷袭了吧。	背靠牆壁的話，應該就不用怕幽靈從背後偷襲了吧。	壁を背にすれば、幽霊からの不意打ちも警戒しなくて済むでしょう……	벽에 붙어서 서 있으면, 유령이 뒤에서 기습하지 못하겠죠.	If I keep my back against the wall, I shouldn't have to worry about a phantom sneaking up on me.						0	
+choice.02	他们可以穿过固体	它們可以輕鬆穿過固體	いや、幽霊は簡単に固体をすり抜けられるらしいよ。	유령은 실체를 통과할 수 있어.	They can pass through walls.						0	
+page02.1	咿！长官，您别吓我了！	啊!長官，您別嚇我啊!	ひっ！長官、そんな怖いことを言わないでくださいよ！	히익! 분석가님, 간 떨어질 뻔했잖아요!	Aaaah! Sir, please don't scare me!						0	
+hi03.1	队里有兄弟说，他之前没被盯着也没有变成幽灵，这是为什么呢？	隊裡面有兄弟說，他之前沒被盯著也沒有變成幽靈，是為什麼呢?	戦友から聞いた話によると、彼は見つめられてもなければ幽霊になることもなかったとか。どうしてなんでしょう？	전에 같은 팀에 있는 동료가 그랬는데, 누가 지켜보지 않았어도 유령으로 변하지 않았대요. 이건 왜 그런 걸까요?	My squadmate said he avoids being seen by phantoms by ensuring he always sticks close to a wall on all sides. Brilliant tactic!						0	
+choice.03	观察方向不止三种	觀察的方向不只三種	観測の方向は3種類だけじゃないってこと。	관찰 방향이 3가지만 있는 건 아니야.	But someone can always see him from above.						0	
+page03.1	嗯？这是什么意思？	嗯？是什麼意思？	え？どういう意味ですか？	네? 그건 무슨 말씀이시죠?	Huh? What do you mean?						0	
+page03.2	……	……	……	…	...						0	
+page03.3	没事，我们还是不要打破第四面墙了。	沒事，我們還是不要打破第四面牆吧。	いや、第四の壁をどうこうするのはやめよう。	아니야. 4번째 벽을 부수지는 말자.	Never mind. Best to leave the fourth wall unbroken.						0	

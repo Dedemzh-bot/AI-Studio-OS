@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员你说什么？机械臂？	分析員你說什麼？機械臂？	何？機械腕か？	분석가, 방금 뭐라고 했지? 로봇팔?	What was that? My arm?						0	
+2	它没问题，我也很好。	它沒問題，我也很好。	問題ない、自分も大丈夫だ。	이 녀석은 문제없어, 나도 괜찮고.	The prosthesis is working well. I'm doing fine.						0	
+3	很快就搞定这家伙！	很快就搞定這傢伙！	すぐ片付けてやる！	어서 녀석들을 해치우자!	This one won't take long.						0	

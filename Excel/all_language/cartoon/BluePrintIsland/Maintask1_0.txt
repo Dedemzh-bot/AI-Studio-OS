@@ -1,0 +1,24 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	你醒啦？我深爱的分析员。	你醒啦？我深愛的分析員。	目が覚めた？分析員。	일어났어? 사랑하는 분석가.	Wakey wakey, my beloved Adjutant.						0	dlc30蓝图岛对话
+page1.2	童话书里写的那个叫醒方法，居然还真管用。	童話書裡寫的那個叫醒方法，居然還真管用。	おとぎ話に出てくる目を覚まさせる方法って、本当に効果あるんだね。	동화책에 나온 잠 깨우기 방법이 진짜 효과가 있네.	And here I was, thinking those fairy tales were wrong about how to wake someone up.						0	dlc30蓝图岛对话
+page1.3	加载场景这会儿工夫，你都不带消停一下的……	載入場景這點時間，你都不消停一下的……	君はローディングの間も落ち着いて待てないのか……	넌 장면 로딩하는 그 짧은 시간에도 가만히 있질 않는구나…	You could've at least waited until the scenes finished loading...						0	dlc30蓝图岛对话
+page1.4	所以这是？	所以這是？	で、ここはどこだ？	그래서, 이게 뭐야?	So, what's all this?						0	dlc30蓝图岛对话
+page1.5	欢迎来到我在新星开拓开辟的全新模块——蓝图岛。	歡迎來到我在新星開拓開闢的全新區塊——藍圖島。	ようこそ、私が惑星開拓で作った新しいエリア――ビジョン島へ！	신성 개척에서 내가 새로 만든 모듈, 설계의 섬에 온 걸 환영해.	Welcome to the brand-new module I built in Star Master — Builder Island.						0	dlc30蓝图岛对话
+page1.6	这里会在分析员的建造、经营和管理之后，成为宇宙闻名的超一流度假岛~	這裡會在分析員的建造、經營和管理之後，成為宇宙聞名的超一流度假島~	分析員が開発、経営、管理を手掛けることで、宇宙にその名をとどろかせる超一流リゾートになる予定の島だよ～！	여기는 분석가의 건설과 경영, 관리를 통해 우주 최고의 초일류 휴양 섬이 될 거야~	After some construction and careful management, this place will become a world-famous, top-tier vacation destination~						0	dlc30蓝图岛对话
+page1.7	嗯……目前看起来和超一流的关系在哪？	嗯……目前看起來和超一流的關係在哪？	ふぅん……で、どのへんに超一流の要素があるんだ？	음… 지금 보기엔 뭐가 최고급인지 잘 모르겠는데?	Hmm... right now, "top-tier" might be pushing it.						0	dlc30蓝图岛对话
+page1.8	当然是在于超一流的你加入了。	當然是在於超一流的你加入了。	超一流のあなたが手掛けるからに決まってるじゃん。	최고급인 네가 합류했잖아.	Well, I do see one top-tier Adjutant joining us.						0	dlc30蓝图岛对话
+page1.9	蓝图……岛？不会是让我在一片空地，从零开始建造吧？	藍圖……島？不會是讓我在一片空地，從零開始建造吧？	ビジョン島……って、まさか更地から作れっていうわけじゃないよな？	설계의… 섬? 설마 빈 땅에서 제로부터 시작하라는 건 아니겠지?	Wait, Builder... Island? Don't tell me you expect me to build everything myself.						0	dlc30蓝图岛对话
+page1.10	开局一个岛，梦想无上限。从零开始建造，让它变成梦想中的样子，不正是这种游戏的魅力点所在吗？	開局一個島，夢想無上限。從零開始建造，讓它變成夢想中的樣子，不就是這種遊戲的魅力點所在嗎？	更地から理想の島を作り上げることこそ、こういうゲームの魅力だと思うけどなぁ。	섬 하나로 시작해도, 꿈은 무한대로 커질 수 있어. 제로부터 시작해서 꿈꾸던 모습으로 만드는 게 바로 이런 게임의 매력 아니겠어?	Think about it. You start with an empty island and transform it into your ideal vacation resort. Isn't that the whole appeal of these games?						0	dlc30蓝图岛对话
+page1.11	建造经营类的游戏，确实没怎么体验过。	建造經營類的遊戲，確實沒怎麼體驗過。	シミュレーションゲームか。確かに、あんまりやったことないな。	건설 경영 게임은 사실 별로 해본 적이 없어.	I wouldn't know. I've never really played simulation-builders.						0	dlc30蓝图岛对话
+page1.12	我也肝了不少时间，才有了现在这个模块。	我也肝了不少時間，才有了現在這個區塊。	私だって、結構時間をかけてこのエリアを作ったんだよ。	나도 이 모듈을 만드는 데 꽤 오랜 시간 공들였어.	It took me countless hours before this module took shape.						0	dlc30蓝图岛对话
+page1.13	我说，无论是工作还是生活，分析员最近都挺拼的吧？长期保持在快节奏里，需要有喘息的时间。	我說，無論是工作還是生活，分析員最近都蠻拼的吧？長期保持在快節奏裡，需要有喘息的時間。	だって最近の分析員は、仕事も生活もすごく頑張ってるでしょ？たまには息抜きも必要だと思ったから。	있잖아, 일이든 일상생활이든, 분석가는 요즘 너무 바쁘잖아? 계속 빠르게만 살다 보면 숨 돌릴 시간도 필요해.	By the way, Adjutant, you've been pushing yourself pretty hard lately, right? I figured you could use a place to slow down.						0	dlc30蓝图岛对话
+page1.14	所以我决定加入些慢节奏的体验，给分析员调节一下。	所以我決定加入點慢節奏的體驗，為分析員調節一下。	だからスローライフを体験できるモードを作って、分析員に休んでもらいたくて。	그래서 좀 여유로운 체험을 넣어서 분석가의 페이스를 조절해 주려고.	So, this more laid-back experience is to help you unwind.						0	dlc30蓝图岛对话
+page1.15	总觉得你别有用心。	總覺得你別有用心。	なんかひっかかるんだよな。	왠지 다른 속셈이 있는 것 같은데.	I get the feeling there's more going on here.						0	dlc30蓝图岛对话
+page1.16	是别有“良苦用心”。	是別有「用心良苦」。	ひっかからない。私の頑張りに感謝してほしいくらいだよ。	'좋은 속셈'이 있지.	Well, call it "well-intentioned scheming."						0	dlc30蓝图岛对话
+page1.17	好好好，那就让我体验一下你的良苦用心吧。	好好好，那就讓我體驗一下你的用心良苦吧。	はいはい、ありがとう。やってみるよ。	그래, 그래. 그럼 네 좋은 속셈을 한번 체험해 봐야겠네.	Alright, alright, I'll play along.						0	dlc30蓝图岛对话
+page1.18	不愧是我的分析员，上道。	不愧是我的分析員，上道。	さっすが分析員、物分かりがいいね。	역시 우리 분석가는 말이 잘 통해.	Great, I knew you'd come around.						0	dlc30蓝图岛对话
+page1.19	在蓝图岛里，你将作为至高无上的<orange>岛主</>，<orange>规划</>和<orange>管理</>这里的一切。	在藍圖島裡，你將作為至高無上的<orange>島主</>，<orange>規劃</>和<orange>管理</>這裡的一切。	あなたはビジョン島の<orange>島主</>として、ここのすべてを<orange>計画して</>、<orange>管理</>するんだ。	설계의 섬에서 분석가는 지고지상한 <orange>섬 주인</>으로서, 이곳의 모든 것을 <orange>계획</>하고 <orange>관리</>할 거야.	On Builder Island, you will be the <orange>Island Owner</>, <orange>planning</> and <orange>managing</> everything.						0	dlc30蓝图岛对话
+page1.20	我还给分析员带来了一位得力的助手，它已经在<orange>轻风广场</>的<orange>接待中心</>等你了。	我還為分析員帶來了一位得力的助手，它已經在<orange>輕風廣場</>的<orange>接待中心</>等你了。	それから、有能な助手を呼んできたから。いまは<orange>そよ風広場</>の<orange>受付</>であなたを待ってるよ。	분석가를 도울 유능한 조수도 데려왔어. <orange>산들 광장</>의 <orange>안내소</>에서 기다리고 있을 거야.	I've also arranged a capable assistant, waiting for you at the <orange>Reception Center</> in <orange>Breeze Plaza</>.						0	dlc30蓝图岛对话
+page1.21	那就辛苦分析员，开始描绘这幅蓝图吧。	那就辛苦分析員，開始描繪這幅藍圖吧。	それじゃあ、がんばって、分析員。	그럼 분석가, 수고해. 이곳에서 청사진을 그려 나가 봐.	Well then, Adjutant, it's time to start building.						0	dlc30蓝图岛对话
+page1.22	还好不是从零开始的荒岛生活……	還好不是從零開始的荒島生活……	ゼロから始める無人島生活じゃなくて助かった……	다행히도 제로부터 시작하는 무인도 생활은 아니네…	Thank goodness this isn't a survival game...						0	dlc30蓝图岛对话

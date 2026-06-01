@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这么下去没完没了。	這樣下去沒完沒了。	これじゃキリがない。	정말 밑도 끝도 없군.	It's never-ending.						0	
+2	泰坦逐渐多起来了。	泰坦逐漸變多了。	タイタンの数がどんどん増えてきた。	타이탄이 점점 더 많아지고 있어.	The Titans just keep coming.						0	
+3	我会优先驱逐泰坦……其他的就交给分析员了。	我會優先驅逐泰坦……其他的就交給分析員了。	私はタイタンの撃破を優先する……他のことは分析員に任せた。	일단 내가 타이탄을 내쫓아볼게… 나머지는 분석가가 알아서 해줘.	I'll prioritize clearing out the Titans... The rest is up to you, Adjutant.						0	
+b-2											0	
+b-2-1	辛苦你们了。	辛苦你們了。	無理をさせたな。	그럼 고생 좀 해줘.	Hang in there, guys.						0	
+5	只能以这种理由回复星期三，我低着头迅速返回岗位。	只能如此回覆星期三，我低著頭迅速返回崗位。	ウェンズデーに返す言葉はこんな言い訳しかなく、私は頭を下げながら迅速に持ち場に戻った。	웬스데이에게 현장을 부탁하고, 난 재빨리 원래 자리로 복귀했다.	I couldn't bring myself to say anything more to Wednesday. I quickly returned to my post, my head lowered.						0	
+6	将伤员从危险处转移，并标记区分，根据现场急救原则对伤员进行简单处置。让自己忙起来，是我能想到缓解当前局面的唯一方式了。	將傷員從危險處轉移，並標記區分，根據現場急救原則對傷員進行簡單處置。讓自己忙起來，是我能想到緩解當前局面的唯一方式了。	怪我人を危険な場所から移動させ、目印を付けて分類する。現場の応急処置の原則に基づき、怪我人に簡単な処置を施す。自分が忙しく動き回るこの状況を緩和する方法は、これしか思いつかなかった。	부상자를 이송하고 선별해 현장 구조 원칙대로 간단한 조치를 취했다. 지금은 서두르는 것만이 눈앞의 상황을 해결할 수 있는 유일한 방법이었다.	Evacuating the wounded from dangerous areas, classifying them, and handling them with my knowledge of first aid — keeping myself busy was the only thing I could do to help the situation.						0	
+7	哎呀，直播里分析员长官冷静处理事件的样子真令人心动。不过，还是赶不上我的偶像星期三！	哎呀，直播裡分析員長官冷靜處理事件的樣子真令人心動。不過，還是遠不及我的偶像星期三！	へぇ、ライブの中でも冷静に事件を処理する分析員さんもクールだね。ま、ウェンズデーには及ばないけどね！	분석가님, 방송에서 본 냉철한 모습은 정말 감동적이었어요. 아직 웬스데이 님을 따라가기에는 역부족이지만…	Wow, watching you handle everything so calmly on the livestream was really moving, Senior Adjutant. But you still can't compare to Wednesday, my idol!						0	
+b-3											0	
+b-3-1	什么直播？	什麼直播?	何のライブだ？	무슨 방송?	What livestream?						0	
+9	你们还不知道吗？好多地方突然出现了无人机，在播放海姆达尔的战斗画面，分析员长官英勇指挥的身影尤其突出！	你們還不知道嗎？好多地方突然出現了無人機，在播放海姆達爾的戰鬥畫面，分析員長官英勇指揮的身影尤為引人注目！	知らないの？あっちこっちからドローンが現れて、ヘイムダルの戦闘の様子を中継してんの。分析員さんが毅然として指揮する颯爽とした姿は特に目立つから！	모르셨어요? 갑자기 드론들이 나타나서 헤임달 부대에서 전투하는 장면들을 송출했는데! 분석가님이 용맹하게 지휘하는 모습이 얼마나 멋있던지…	You guys don't know? Drones showed up all over to film the fight — especially the heroic Senior Adjutant!						0	
+10	是小贝翠斯！我知道一定是她！	是小貝翠斯！我知道一定是她！	ベアトリスちゃんだ！彼女に違いない！	베아트리체야! 틀림없어!	Beatrice! She's definitely behind this!						0	
+11	此时，我才注意到不远处的一台无人机，正在投影着星期三和芬妮的战斗姿态。	此時，我才注意到不遠處的一台無人機，正在投影著星期三和芬妮的戰鬥英姿。	その時、近くにあるドローンがウェンズデーとファニーの戦う姿を投影して映していることに気づいた。	그제야 멀지 않은 곳에서 드론 한 대가 웬스데이와 페니가 싸우는 모습을 송출하고 있는 것을 발견했다.	Just then, I noticed a nearby drone projecting Wednesday and Fenny as they fought.						0	
+12	少女们全力奋战的身姿渐渐与昔日瓦尔基里游戏赛场的女武神交叠，吸引着众人的视线。	少女們全力奮戰的身影宛如重現了昔日瓦爾基里遊戲賽場的女武神英姿，吸引著眾人的目光。	少女たちが全力で戦う姿は、かつてのヴァルキリーゲームの中のヴァルキリーと重なり、皆の視線を引き寄せた。	소녀들이 온 힘을 다해 싸우는 모습은 마치 발키리 게임에서 활약하는 발키리들처럼 보였고, 수많은 사람들의 이목을 끌었다.	As the girls fought tooth and nail, their silhouettes gradually overlapped with the old Valkyrie Games field, catching the crowd's attention.						0	
+13	哎哎哎，那个郊狼的小哥，快来给分析员长官搭把手，这里有个受伤的降临团会员。	哎哎哎，那位郊狼的帥哥快來幫幫分析員長官，這裡有個受傷的降臨團會員。	そこのコヨーテのお兄さん、分析員さんに手を貸して。ここに怪我をした降臨団のメンバーがいるんだよ。	거기 코요테 오빠, 어서 분석가님 좀 도와줘. 여기 부상당한 강림단 신자가 있어.	Hey, hey! You over there — Coyote! Come give the Senior Adjutant a hand. We've got an injured Adventist over here.						0	
+14	郊狼的人也在帮忙？	郊狼的人也在幫忙？	コヨーテの人も手伝っているのか？	코요테도 우릴 도와주고 있어?	The Coyotes are helping too?						0	
+15	是啊，看到那些无人机的投影之后，他是第一个冲过来帮忙的。	是啊，看到那些無人機的投影之後，他是第一個衝過來幫忙的。	そうだよ。ドローンの映像を見たら、彼らが一番に駆けつけてくれた。	네. 드론 영상을 보더니 가장 먼저 달려와서 도움을 주기 시작했어요.	Yep. After seeing those drone projections, he was the first one to run over and help.						0	
+16	你可别自作多情，我不是在帮你做事，这也并不会改变我们敌对的立场。	你可別自作多情，我不是在幫你做事，這也並不會改變我們敵對的立場。	勘違いするなよ、お前のためにやっているわけじゃない。俺たちが敵同士ってことは変わらねぇよ。	그렇게 안봐도 돼. 위그드라실을 돕는 것도 아니고, 적대적인 입장을 바꾼다는 것도 아니니까.	Don't get all mushy — I'm not helping you. This doesn't change anything.						0	
+17	不会说话就别说啦！	不會說話就別說啦！	はいはい口下手なんだからもう喋らないの！	말이라도 못 하면!	If you can't say anything nice, don't say anything at all!						0	
+18	我注意到周围的人群，他们尽其所能地对身边的人伸把手。连那些已经受伤的人也点亮手中的灯，似乎在祈祷着什么。	我注意到周圍的人群，他們盡其所能地對身邊的人伸出援手。連那些已經受傷的人也點亮手中的燈，似乎在祈禱著什麼。	周りの人々が皆、力の限り近くの他人に手を差し伸べていることに気づいた。傷を負った人も手にある灯をつけ、何かを祈っているようだ。	주변에 있는 사람들은 최선을 다해 옆에 있는 사람들을 도와줬고, 다친 사람들도 등불에 불을 붙여 무언가를 빌고 있었다.	I became aware of the crowd around me, filled with people doing everything in their power to reach out to others. Even those who had been injured lit the lanterns in their hands as if they were praying.						0	
+19	我很难看清他们每个人的表情，但也知道他们已不再慌乱。	我很難看清楚他們每個人的表情，但也知道他們已不再慌亂。	全員の顔はよく見えない、しかしもう山場は越えたことは分かる。	모든 사람들의 표정을 볼 수는 없었지만, 더 이상 사람들이 당황해하지 않는다는 것은 알 수 있었다.	It was difficult to decipher their expressions, but I knew they were no longer panicked.						0	
+20	分析员……他们在做什么？	分析員……他們在做什麼？	分析員、彼らは一体何を……	분석가… 저 사람들, 대체 뭘 하고 있는 거지?	Adjutant... what are they doing?						0	
+b-1											0	
+21	燃灯祈福，这是他们的“战斗方式”。	燃燈祈福，這是他們的“戰鬥方式”。	灯をつけて祈る……これが彼らの「戦い方」なのかもしれないな……	등불에 불을 붙여서 축복을 기원하는 거야. 이게 바로 여기 있는 사람들의 '전투 방식'이거든.	Lighting lanterns to pray for good fortune is their way of "fighting."						0	

@@ -1,0 +1,32 @@
+﻿ID	注释	指定对象（0，我方 1，掩体）	{技能ID,BuffID}}	展示buffID	{技能ID,BuffID}}	词条名称	词条描述	buff关联角色	buff图标
+ID	Comment	Referchar	Modifier	ShowModifier	SkillFix	Name	Desc	BuffReferChar	ResourceId
+3911010	队员的攻击力增加30%，持续5秒	0	801001	801401		girlrush.girl_buff_neme1	girlrush.girl_buff_des1		4401001
+3911020	队员射速提升40%，持续5秒	0	801002	801402		girlrush.girl_buff_neme2	girlrush.girl_buff_des2		4401002
+3911030	队员的使用战技后，伤害提升30%，持续5秒	0	801003	801403		girlrush.girl_buff_neme3	girlrush.girl_buff_des3		4401003
+3911040	队员换弹时间降低60%，持续8秒	0	801004	801404		girlrush.girl_buff_neme4	girlrush.girl_buff_des4		4401004
+3911050	立刻充满战技能量	0	801005	801405		girlrush.girl_buff_neme5	girlrush.girl_buff_des5		4401005
+3911060	队员射击时产生的后坐力降低30%，同时提升伤害15%，持续5秒	0	801006	801406		girlrush.girl_buff_neme6	girlrush.girl_buff_des6		4401006
+3911070	子弹数量无限，持续5秒	0	801007	801407		girlrush.girl_buff_neme7	girlrush.girl_buff_des7		4401007
+3911080	队员暴击伤害提升45%，持续5秒	0	801008	801408		girlrush.girl_buff_neme8	girlrush.girl_buff_des8		4401008
+3911090	队员射击时产生的后坐力降低50%，同时提升瞄准稳定性50%，持续10秒	0	801009	801409		girlrush.girl_buff_neme9	girlrush.girl_buff_des9		4401009
+3911100	队员枪械弹夹内子弹数量越少，造成的伤害越高，最高提升60%，持续10秒	0	801011	801411		girlrush.girl_buff_neme10	girlrush.girl_buff_des10		4401010
+3911110	队员命中敌人时产生小范围冲击波，对周围敌人造成1秒的眩晕或减速效果，持续3秒	0	801010	801410		girlrush.girl_buff_neme11	girlrush.girl_buff_des11		4401011
+3911111	队员的攻击力增加10%，可叠加，最多5层	0	801012	801412		girlrush.girl_buff_neme12	girlrush.girl_buff_des12		4401001
+3911112	队员换弹时间降低20%，最多5层	0	801013	801413		girlrush.girl_buff_neme13	girlrush.girl_buff_des13		4401004
+3911113	队员射击时产生的后坐力降低10%，同时提升伤害5%，最多5层	0	801014	801414		girlrush.girl_buff_neme14	girlrush.girl_buff_des14		4401006
+3911114	队员暴击伤害提升15%，最多5层	0	801015	801415		girlrush.girl_buff_neme15	girlrush.girl_buff_des15		4401008
+3911115	队员射击时产生的后坐力降低15%，同时提升瞄准稳定性15%，最多5层	0	801016	801416		girlrush.girl_buff_neme16	girlrush.girl_buff_des16		4401009
+3911116	队员枪械弹夹内子弹数量越少，造成的伤害越高，最高提升20%，最多5层	0	801017	801417		girlrush.girl_buff_neme17	girlrush.girl_buff_des17		4401010
+3911117	队员的防御提升30%，持续8秒	0	801501	801901		girlrush.girl_buff_neme18	girlrush.girl_buff_des18		4402001
+3911118	立刻回复队员全部生命	0	801502	801902		girlrush.girl_buff_neme19	girlrush.girl_buff_des19		4402002
+3911119	队员每秒回复10%生命，持续6秒	0	801503	801903		girlrush.girl_buff_neme20	girlrush.girl_buff_des20		4402003
+3912020	立刻回复全部掩体耐久度	1	801504	801904		girlrush.girl_buff_neme21	girlrush.girl_buff_des21		4402004
+3912030	掩体每秒回复10%最大耐久度，持续6秒	1	801505	801905		girlrush.girl_buff_neme22	girlrush.girl_buff_des22		4402005
+3912040	队员受到伤害时，将回复最大能量值10%的战技能量，持续10秒	0	801506	801906		girlrush.girl_buff_neme23	girlrush.girl_buff_des23		4402006
+3912050	队员造成伤害的15%将转化为队员生命，持续20秒	0	801507	801907		girlrush.girl_buff_neme24	girlrush.girl_buff_des24		4402007
+3912060	队员将免疫所有伤害，持续5秒	0	801508	801908		girlrush.girl_buff_neme25	girlrush.girl_buff_des25		4402008
+3912070	当敌方对我方造成的伤害不足60，则队员免疫该次伤害，持续10秒	0	801509	801909		girlrush.girl_buff_neme26	girlrush.girl_buff_des26		4402009
+3912080	队员将进入【重铸】状态，持续8秒。【重铸】状态结束后，将回复【重铸】期间造成伤害的10%的队员生命，回复【重铸】期间造成伤害的10%的防线生命	0	801510	801910		girlrush.girl_buff_neme27	girlrush.girl_buff_des27		4402010
+3912090	队员的防御提升10%，可叠加，最多5层	0	801511	801911		girlrush.girl_buff_neme28	girlrush.girl_buff_des28		4402001
+3912100	队员造成伤害的5%将转化为队员生命，最多5层	0	801512	801912		girlrush.girl_buff_neme29	girlrush.girl_buff_des29		4402007
+3912101	当敌方对我方造成的伤害不足20，则队员免疫该次伤害，最多5层	0	801513	801913		girlrush.girl_buff_neme30	girlrush.girl_buff_des30		4402009

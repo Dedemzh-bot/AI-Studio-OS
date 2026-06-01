@@ -1,0 +1,165 @@
+﻿ID	期数	是否在图鉴显示（1表示显示，不填表示不显示）	流派类型	是否是无尽buff	备注		名称	描述中的数值	描述	图标	关卡增益ID	Level等级	备注
+ID	Schedule	ShowOrNot	Faction	IsEndless			Name	DesParam	Des	Icon	BuffId	Level	
+1	1	1			爆炸颗粒Ⅰ		farmwar.farmwar_benefitname_01	{10}	farmwar.farmwar_benefitdes_01	4820000	100001	1	各类玉米射手攻击力提高至110%
+2	1	1			爆炸颗粒Ⅱ		farmwar.farmwar_benefitname_02	{20}	farmwar.farmwar_benefitdes_01	4820000	100001	2	各类玉米射手攻击力提高至120%
+3	1	1			爆炸颗粒Ⅲ		farmwar.farmwar_benefitname_03	{30}	farmwar.farmwar_benefitdes_01	4820000	100001	3	各类玉米射手攻击力提高至130%
+4	1	1			猛烈碰撞Ⅰ		farmwar.farmwar_benefitname_04	{10}	farmwar.farmwar_benefitdes_04	4820000	100002	1	各类花菜攻击力提高至110%
+5	1	1			猛烈碰撞Ⅱ		farmwar.farmwar_benefitname_05	{20}	farmwar.farmwar_benefitdes_04	4820000	100002	2	各类花菜攻击力提高至120%
+6	1	1			猛烈碰撞Ⅲ		farmwar.farmwar_benefitname_06	{30}	farmwar.farmwar_benefitdes_04	4820000	100002	3	各类花菜攻击力提高至130%
+7	1	1			尖端贯穿Ⅰ		farmwar.farmwar_benefitname_07	{10}	farmwar.farmwar_benefitdes_07	4820000	100003	1	各类萝卜炮手攻击力提高至110%
+8	1	1			尖端贯穿Ⅱ		farmwar.farmwar_benefitname_08	{20}	farmwar.farmwar_benefitdes_07	4820000	100003	2	各类萝卜炮手攻击力提高至120%
+9	1	1			尖端贯穿Ⅲ		farmwar.farmwar_benefitname_09	{30}	farmwar.farmwar_benefitdes_07	4820000	100003	3	各类萝卜炮手攻击力提高至130%
+10	1	1			碳水能量Ⅰ		farmwar.farmwar_benefitname_10	{50}	farmwar.farmwar_benefitdes_10	4820001	100004	1	各类玉米射手最大生命提高至150%
+11	1	1			碳水能量Ⅱ		farmwar.farmwar_benefitname_11	{100}	farmwar.farmwar_benefitdes_10	4820001	100004	2	各类玉米射手最大生命提高至200%
+12	1	1			碳水能量Ⅲ		farmwar.farmwar_benefitname_12	{150}	farmwar.farmwar_benefitdes_10	4820001	100004	3	各类玉米射手最大生命提高至250%
+13	1	1			搏击力量Ⅰ		farmwar.farmwar_benefitname_13	{50}	farmwar.farmwar_benefitdes_13	4820001	100005	1	各类花菜最大生命提高至150%
+14	1	1			搏击力量Ⅱ		farmwar.farmwar_benefitname_14	{100}	farmwar.farmwar_benefitdes_13	4820001	100005	2	各类花菜最大生命提高至200%
+15	1	1			搏击力量Ⅲ		farmwar.farmwar_benefitname_15	{150}	farmwar.farmwar_benefitdes_13	4820001	100005	3	各类花菜最大生命提高至250%
+16	1	1			飞行燃料Ⅰ		farmwar.farmwar_benefitname_16	{50}	farmwar.farmwar_benefitdes_16	4820001	100006	1	各类萝卜炮手最大生命提高至150%
+17	1	1			飞行燃料Ⅱ		farmwar.farmwar_benefitname_17	{100}	farmwar.farmwar_benefitdes_16	4820001	100006	2	各类萝卜炮手最大生命提高至200%
+18	1	1			飞行燃料Ⅲ		farmwar.farmwar_benefitname_18	{150}	farmwar.farmwar_benefitdes_16	4820001	100006	3	各类萝卜炮手最大生命提高至250%
+19	1	1			信念厚度Ⅰ		farmwar.farmwar_benefitname_19	{10}	farmwar.farmwar_benefitdes_19	4820001	100007	1	各类南瓜守卫最大生命提高至110%
+20	1	1			信念厚度Ⅱ		farmwar.farmwar_benefitname_20	{20}	farmwar.farmwar_benefitdes_19	4820001	100007	2	各类南瓜守卫最大生命提高至120%
+21	1	1			信念厚度Ⅲ		farmwar.farmwar_benefitname_21	{30}	farmwar.farmwar_benefitdes_19	4820001	100007	3	各类南瓜守卫最大生命提高至130%
+22	1	1			乐观反馈		farmwar.farmwar_benefitname_22	{30,10}	farmwar.farmwar_benefitdes_22	4820000	100008	1	各类花菜受到伤害后，攻击力提高至200%，持续10秒，重复触发则刷新持续时间
+23	1	1			光合作用Ⅰ		farmwar.farmwar_benefitname_23	{20}	farmwar.farmwar_benefitdes_23	4820001	100009	1	立刻回复全部蔬菜伙伴20%生命
+24	1	1			光合作用Ⅱ		farmwar.farmwar_benefitname_24	{35}	farmwar.farmwar_benefitdes_23	4820001	100009	2	立刻回复全部蔬菜伙伴35%生命
+25	1	1			光合作用Ⅲ		farmwar.farmwar_benefitname_25	{50}	farmwar.farmwar_benefitdes_23	4820001	100009	3	立刻回复全部蔬菜伙伴50%生命
+28	1	1			火辣时刻Ⅰ		farmwar.farmwar_benefitname_28	{10}	farmwar.farmwar_benefitdes_28	4820007	100012	1	各类辣椒生产速度提高至110%
+29	1	1			火辣时刻Ⅱ		farmwar.farmwar_benefitname_29	{20}	farmwar.farmwar_benefitdes_28	4820007	100012	2	各类辣椒生产速度提高至120%
+30	1	1			火辣时刻Ⅲ		farmwar.farmwar_benefitname_30	{30}	farmwar.farmwar_benefitdes_28	4820007	100012	3	各类辣椒生产速度提高至130%
+31	1	1			茁壮生长Ⅰ		farmwar.farmwar_benefitname_31	{25}	farmwar.farmwar_benefitdes_31	4820002	100016	1	种植蔬菜伙伴的冷却时间降低至75%
+32	1	1			茁壮生长Ⅱ		farmwar.farmwar_benefitname_32	{50}	farmwar.farmwar_benefitdes_31	4820002	100016	2	种植蔬菜伙伴的冷却时间降低至50%
+33	1	1			效率提升Ⅰ		farmwar.farmwar_benefitname_33	{10}	farmwar.farmwar_benefitdes_33	4820004	100017	1	种植蔬菜伙伴所需麻辣能量降低至90%
+34	1	1			效率提升Ⅱ		farmwar.farmwar_benefitname_34	{20}	farmwar.farmwar_benefitdes_33	4820004	100017	2	种植蔬菜伙伴所需麻辣能量降低至80%
+35	1	1			效率提升Ⅲ		farmwar.farmwar_benefitname_35	{30}	farmwar.farmwar_benefitdes_33	4820004	100017	3	种植蔬菜伙伴所需麻辣能量降低至70%
+36	1	1			加倍幸运Ⅰ		farmwar.farmwar_benefitname_36	{10}	farmwar.farmwar_benefitdes_36	4820003	100018	1	击杀敌人后获得的代币提高至110%
+37	1	1			加倍幸运Ⅱ		farmwar.farmwar_benefitname_37	{20}	farmwar.farmwar_benefitdes_36	4820003	100018	2	击杀敌人后获得的代币提高至120%
+38	1	1			加倍幸运Ⅲ		farmwar.farmwar_benefitname_38	{30}	farmwar.farmwar_benefitdes_36	4820003	100018	3	击杀敌人后获得的代币提高至130%
+39	1	1			大展拳脚Ⅰ		farmwar.farmwar_benefitname_39	{25}	farmwar.farmwar_benefitdes_39	4820008	100025	1	各类花菜攻击范围增大至125%
+40	1	1			大展拳脚Ⅱ		farmwar.farmwar_benefitname_40	{50}	farmwar.farmwar_benefitdes_39	4820008	100019	1	各类花菜攻击范围增大至150%
+41	1	1			灵活索敌		farmwar.farmwar_benefitname_41		farmwar.farmwar_benefitdes_41	4820008	100020	1	各类玉米射手攻击范围增加
+42	1	1			广域扫描		farmwar.farmwar_benefitname_42		farmwar.farmwar_benefitdes_42	4820008	100021	1	各类萝卜炮手攻击范围增加
+43	1	1			再三迸发		farmwar.farmwar_benefitname_43	{40,1,3}	farmwar.farmwar_benefitdes_43	4820003	100022	1	爆米花射手和飓风玉米射手的单发攻击由1颗玉米子弹变为同时发射3颗玉米子弹
+44	1	1			风雪来袭		farmwar.farmwar_benefitname_44	{3}	farmwar.farmwar_benefitdes_44	4820006	100023	1	急冻玉米射手的子弹首次命中目标后会将该目标冻结，持续3秒
+45	1	1			连续热浪		farmwar.farmwar_benefitname_45	{2}	farmwar.farmwar_benefitdes_45	4820005	100024	1	火辣玉米射手喷射的火焰变成2条
+46	1	1			质量担当		farmwar.farmwar_benefitname_46	{15,2}	farmwar.farmwar_benefitdes_46	4820008	100026	1	各类花菜攻击有15%概率将目标击退2米
+47	1	1			速射箭头		farmwar.farmwar_benefitname_47	{20,2}	farmwar.farmwar_benefitdes_47	4820003	100027	1	各类萝卜炮手的攻击力下降{1}%，每次攻击会连续发射{2}枚炮弹。
+48	1	1			密集箭头		farmwar.farmwar_benefitname_48	{40,3}	farmwar.farmwar_benefitdes_47	4820003	100028	1	各类萝卜炮手的攻击力下降{1}%，每次攻击会分散发射{3}枚炮弹。
+49	1	1			推进动力		farmwar.farmwar_benefitname_49	{30,2}	farmwar.farmwar_benefitdes_49	4820008	100029	1	各类萝卜炮手的攻击有30%概率将目标击退2米
+66	2	1			爆炸颗粒Ⅰ		farmwar.farmwar_benefitname_01	{10}	farmwar.farmwar_benefitdes_01	4820000	100001	1	各类玉米射手攻击力提高至110%
+67	2	1			爆炸颗粒Ⅱ		farmwar.farmwar_benefitname_02	{20}	farmwar.farmwar_benefitdes_01	4820000	100001	2	各类玉米射手攻击力提高至120%
+68	2	1			爆炸颗粒Ⅲ		farmwar.farmwar_benefitname_03	{40}	farmwar.farmwar_benefitdes_01	4820000	100001	3	各类玉米射手攻击力提高至140%
+69	2	1			猛烈碰撞Ⅰ		farmwar.farmwar_benefitname_04	{10}	farmwar.farmwar_benefitdes_04	4820000	100002	1	各类花菜攻击力提高至110%
+70	2	1			猛烈碰撞Ⅱ		farmwar.farmwar_benefitname_05	{20}	farmwar.farmwar_benefitdes_04	4820000	100002	2	各类花菜攻击力提高至120%
+71	2	1			猛烈碰撞Ⅲ		farmwar.farmwar_benefitname_06	{40}	farmwar.farmwar_benefitdes_04	4820000	100002	3	各类花菜攻击力提高至140%
+72	2	1			尖端贯穿Ⅰ		farmwar.farmwar_benefitname_07	{10}	farmwar.farmwar_benefitdes_07	4820000	100003	1	各类萝卜炮手攻击力提高至110%
+73	2	1			尖端贯穿Ⅱ		farmwar.farmwar_benefitname_08	{20}	farmwar.farmwar_benefitdes_07	4820000	100003	2	各类萝卜炮手攻击力提高至120%
+74	2	1			尖端贯穿Ⅲ		farmwar.farmwar_benefitname_09	{30}	farmwar.farmwar_benefitdes_07	4820000	100003	3	各类萝卜炮手攻击力提高至130%
+75	2	0			碳水能量Ⅰ		farmwar.farmwar_benefitname_10	{50}	farmwar.farmwar_benefitdes_10	4820001	100004	1	各类玉米射手最大生命提高至150%
+76	2	0			碳水能量Ⅱ		farmwar.farmwar_benefitname_11	{100}	farmwar.farmwar_benefitdes_10	4820001	100004	2	各类玉米射手最大生命提高至200%
+77	2	0			碳水能量Ⅲ		farmwar.farmwar_benefitname_12	{150}	farmwar.farmwar_benefitdes_10	4820001	100004	3	各类玉米射手最大生命提高至250%
+78	2	0			搏击力量Ⅰ		farmwar.farmwar_benefitname_13	{50}	farmwar.farmwar_benefitdes_13	4820001	100005	1	各类花菜最大生命提高至150%
+79	2	0			搏击力量Ⅱ		farmwar.farmwar_benefitname_14	{100}	farmwar.farmwar_benefitdes_13	4820001	100005	2	各类花菜最大生命提高至200%
+80	2	0			搏击力量Ⅲ		farmwar.farmwar_benefitname_15	{150}	farmwar.farmwar_benefitdes_13	4820001	100005	3	各类花菜最大生命提高至250%
+81	2	0			飞行燃料Ⅰ		farmwar.farmwar_benefitname_16	{50}	farmwar.farmwar_benefitdes_16	4820001	100006	1	各类萝卜炮手最大生命提高至150%
+82	2	0			飞行燃料Ⅱ		farmwar.farmwar_benefitname_17	{100}	farmwar.farmwar_benefitdes_16	4820001	100006	2	各类萝卜炮手最大生命提高至200%
+83	2	0			飞行燃料Ⅲ		farmwar.farmwar_benefitname_18	{150}	farmwar.farmwar_benefitdes_16	4820001	100006	3	各类萝卜炮手最大生命提高至250%
+84	2	1			信念厚度Ⅰ		farmwar.farmwar_benefitname_19	{10}	farmwar.farmwar_benefitdes_19	4820001	100007	1	各类南瓜守卫最大生命提高至110%
+85	2	1			信念厚度Ⅱ		farmwar.farmwar_benefitname_20	{20}	farmwar.farmwar_benefitdes_19	4820001	100007	2	各类南瓜守卫最大生命提高至120%
+86	2	1			信念厚度Ⅲ		farmwar.farmwar_benefitname_21	{30}	farmwar.farmwar_benefitdes_19	4820001	100007	3	各类南瓜守卫最大生命提高至130%
+87	2	0			乐观反馈		farmwar.farmwar_benefitname_22	{30,10}	farmwar.farmwar_benefitdes_22	4820000	100008	1	各类花菜受到伤害后，攻击力提高至200%，持续10秒，重复触发则刷新持续时间
+88	2	0			光合作用Ⅰ		farmwar.farmwar_benefitname_23	{20}	farmwar.farmwar_benefitdes_23	4820001	100009	1	立刻回复全部蔬菜伙伴20%生命
+89	2	0			光合作用Ⅱ		farmwar.farmwar_benefitname_24	{35}	farmwar.farmwar_benefitdes_23	4820001	100009	2	立刻回复全部蔬菜伙伴35%生命
+90	2	0			光合作用Ⅲ		farmwar.farmwar_benefitname_25	{50}	farmwar.farmwar_benefitdes_23	4820001	100009	3	立刻回复全部蔬菜伙伴50%生命
+91	2	1			火辣时刻Ⅰ		farmwar.farmwar_benefitname_28	{10}	farmwar.farmwar_benefitdes_28	4820007	100012	1	各类辣椒生产速度提高至110%
+92	2	1			火辣时刻Ⅱ		farmwar.farmwar_benefitname_29	{20}	farmwar.farmwar_benefitdes_28	4820007	100012	2	各类辣椒生产速度提高至120%
+93	2	1			火辣时刻Ⅲ		farmwar.farmwar_benefitname_30	{30}	farmwar.farmwar_benefitdes_28	4820007	100012	3	各类辣椒生产速度提高至130%
+94	2	1			茁壮生长Ⅰ		farmwar.farmwar_benefitname_31	{10}	farmwar.farmwar_benefitdes_31	4820002	100016	1	种植蔬菜伙伴的冷却时间降低至90%
+95	2	1			茁壮生长Ⅱ		farmwar.farmwar_benefitname_32	{20}	farmwar.farmwar_benefitdes_31	4820002	100016	2	种植蔬菜伙伴的冷却时间降低至80%
+96	2	1			效率提升Ⅰ		farmwar.farmwar_benefitname_33	{10}	farmwar.farmwar_benefitdes_33	4820004	100017	1	种植蔬菜伙伴所需麻辣能量降低至90%
+97	2	1			效率提升Ⅱ		farmwar.farmwar_benefitname_34	{20}	farmwar.farmwar_benefitdes_33	4820004	100017	2	种植蔬菜伙伴所需麻辣能量降低至80%
+98	2	1			效率提升Ⅲ		farmwar.farmwar_benefitname_35	{30}	farmwar.farmwar_benefitdes_33	4820004	100017	3	种植蔬菜伙伴所需麻辣能量降低至70%
+99	2	0			加倍幸运Ⅰ		farmwar.farmwar_benefitname_36	{10}	farmwar.farmwar_benefitdes_36	4820003	100018	1	击杀敌人后获得的代币提高至110%
+100	2	0			加倍幸运Ⅱ		farmwar.farmwar_benefitname_37	{20}	farmwar.farmwar_benefitdes_36	4820003	100018	2	击杀敌人后获得的代币提高至120%
+101	2	0			加倍幸运Ⅲ		farmwar.farmwar_benefitname_38	{30}	farmwar.farmwar_benefitdes_36	4820003	100018	3	击杀敌人后获得的代币提高至130%
+102	2	0			大展拳脚Ⅰ		farmwar.farmwar_benefitname_39	{30}	farmwar.farmwar_benefitdes_39	4820008	100025	1	各类花菜攻击范围增大至130%
+103	2	0			大展拳脚Ⅱ		farmwar.farmwar_benefitname_40	{50}	farmwar.farmwar_benefitdes_39	4820008	100019	1	各类花菜攻击范围增大至150%
+104	2	0			灵活索敌		farmwar.farmwar_benefitname_41		farmwar.farmwar_benefitdes_41	4820008	100020	1	各类玉米射手攻击范围增加
+105	2	0			广域扫描		farmwar.farmwar_benefitname_42		farmwar.farmwar_benefitdes_42	4820008	100021	1	各类萝卜炮手攻击范围增加
+106	2	0			再三迸发		farmwar.farmwar_benefitname_43	{40,1,3}	farmwar.farmwar_benefitdes_43	4820003	100022	1	爆米花射手和飓风玉米射手的单发攻击由1颗玉米子弹变为同时发射3颗玉米子弹
+107	2	0			风雪来袭		farmwar.farmwar_benefitname_44	{3}	farmwar.farmwar_benefitdes_44	4820006	100023	1	急冻玉米射手的子弹首次命中目标后会将该目标冻结，持续3秒
+108	2	1			连续热浪		farmwar.farmwar_benefitname_45	{2}	farmwar.farmwar_benefitdes_45	4820005	100024	1	火辣玉米射手喷射的火焰变成2条
+109	2	0			质量担当		farmwar.farmwar_benefitname_46	{15,2}	farmwar.farmwar_benefitdes_46	4820008	100026	1	各类花菜攻击有15%概率将目标击退2米
+110	2	0			速射箭头		farmwar.farmwar_benefitname_47	{20,2}	farmwar.farmwar_benefitdes_47	4820003	100027	1	各类萝卜炮手的攻击力下降{1}%，每次攻击会连续发射{2}枚炮弹。
+111	2	0			密集箭头		farmwar.farmwar_benefitname_48	{40,3}	farmwar.farmwar_benefitdes_47	4820003	100028	1	各类萝卜炮手的攻击力下降{1}%，每次攻击会分散发射{3}枚炮弹。
+112	2	0			推进动力		farmwar.farmwar_benefitname_49	{30,2}	farmwar.farmwar_benefitdes_49	4820008	100029	1	各类萝卜炮手的攻击有30%概率将目标击退2米
+113	2	0									190002	1	辣椒能量获取降低至50%
+114	2	0									190001	1	所有蔬菜伙伴最大生命降低至70%
+115	2	1			金牌园丁	下次种植的地块变为可自动生产麻辣能量的精土	farmwar.farmwar_benefitname_52		farmwar.farmwar_benefitdes_52	4820010	110001	1	下次种植的地块所在格变为精土
+116	2	1			资源流通	将所有麻辣能量转化为爆爆代币，每{1}麻辣能量获得{2}个爆爆代币	farmwar.farmwar_benefitname_53	{10,1}	farmwar.farmwar_benefitdes_53	4820011	110002	1	立即失去所有辣椒能量，每失去10点获得1代币
+117	2	1			超辣加仓	将所有爆爆代币转化为超级麻辣能量，每个爆爆代币获得{1}超级麻辣能量	farmwar.farmwar_benefitname_54	{1,1}	farmwar.farmwar_benefitdes_54	4820009	110003	1	失去所有代币，每失去 1 代币获得  1点 毁灭能量
+118	2	1		1	土木工程	回复{1}%菜圃生命	farmwar.farmwar_benefitname_55	{20}	farmwar.farmwar_benefitdes_55	4820001	110004	1	防线回复15%耐久
+119	2	1			充能维管束	莲藕要塞安保与菜圃防线的距离越远，伤害越高，每{1}米使造成的伤害提升{2}%，效果可叠加，最高提升{3}%	farmwar.farmwar_benefitname_56	{1,3,30}	farmwar.farmwar_benefitdes_56	4820000	110005	1	莲藕每距离防线1m，伤害提高2%，最多40%
+120	2	1		1	团结之力	某种蔬菜伙伴数量不少于{1}时，这些蔬菜伙伴的最大生命提升{2}%，且受到伤害后，自身额外恢复{3}生命	farmwar.farmwar_benefitname_57	{10,100,2000}	farmwar.farmwar_benefitdes_57	4820001	110006	1	某种蔬菜伙伴数量不少于10时，这些蔬菜伙伴的最大生命提升300%，且受到伤害后，自身额外恢复3000生命
+121	2	1		1	精锐化	某种蔬菜伙伴数量不多于{1}时，这些蔬菜伙伴的最大生命提升{2}%，攻击力提升{3}%	farmwar.farmwar_benefitname_58	{4,50,60}	farmwar.farmwar_benefitdes_58	4820000	110007	1	当某种蔬菜数量不超过4时，该类型蔬菜生命值提高30%，攻击力提高30%
+122	2	0								4820000	110008	1	场上存在鹰眼竹笋时，多发玉米伤害增加25%，场上存在多发玉米时，鹰眼竹笋暴击率增加10%。二者价格增加15%
+123	2	1			蔬食派对	所有受到偶像小菜咩鼓舞的蔬菜伙伴造成的伤害提升{1}%	farmwar.farmwar_benefitname_60	{10}	farmwar.farmwar_benefitdes_60	4820000	110009	1	范围内加伤效果提高 20%
+124	2	0									110010	1	清除Debuff效果(简单测试 他不是商店buff)
+125	2	1		1	前线刺客	隐身的蔬菜伙伴与菜圃防线的距离越远，伤害越高，每{1}米造成的伤害提升{2}%，效果可叠加，最高提升{3}%	farmwar.farmwar_benefitname_62	{1,10,120}	farmwar.farmwar_benefitdes_62	4820000	110011	1	隐身下的蔬菜每距离防线1m伤害提升3%，最多60%
+126	2	1			有我在呢	所有受到侦探小菜咩鼓舞的蔬菜伙伴最大生命提升{1}%	farmwar.farmwar_benefitname_63	{30}	farmwar.farmwar_benefitdes_63	4820001	110012	1	范围内蔬菜最大生命值提高 20%
+127	2	1			伺机待发	所有受到潜行小菜咩隐身效果影响的蔬菜伙伴最大生命降低{1}%，索敌范围增加{2}%	farmwar.farmwar_benefitname_64	{30,30}	farmwar.farmwar_benefitdes_64	4820008	110013	1	隐身状态下蔬菜生命值减少60%，攻击角度增加50%
+128	2	0								4820000	110014	1	莲藕隐身下伤害增加25%，价格提高15%
+129	2	1	1		菜园大亨	爆爆代币获取提升{1}	farmwar.farmwar_benefitname_66	{10}	farmwar.farmwar_benefitdes_66	4820011	100030	1	代币获取量提高 10%
+130	2	1	1		菜园大亨	爆爆代币获取提升{1}	farmwar.farmwar_benefitname_67	{20}	farmwar.farmwar_benefitdes_67	4820011	100030	2	代币获取量提高 20%
+131	2	1	1		菜园大亨	爆爆代币获取提升{1}	farmwar.farmwar_benefitname_68	{30}	farmwar.farmwar_benefitdes_68	4820011	100030	3	代币获取量提高 30%
+132	2	1	1		高效收集	超级麻辣能量获取提升{1}	farmwar.farmwar_benefitname_69	{10}	farmwar.farmwar_benefitdes_69	4820009	100031	1	毁灭能量获取量提高 10%
+133	2	1	1		高效收集	超级麻辣能量获取提升{1}	farmwar.farmwar_benefitname_70	{20}	farmwar.farmwar_benefitdes_70	4820009	100031	2	毁灭能量获取量提高 20%
+134	2	1	1		高效收集	超级麻辣能量获取提升{1}	farmwar.farmwar_benefitname_71	{30}	farmwar.farmwar_benefitdes_71	4820009	100031	3	毁灭能量获取量提高 30%
+135	2	1	2		灰烬使者	辣椒类蔬菜伙伴被击败时，赋予周围灼烧效果	farmwar.farmwar_benefitname_72		farmwar.farmwar_benefitdes_72	4820005	100032	1	辣椒死亡后赋予周围灼烧效果
+136	2	1	6		蓄能爆米花	爆米花射手和飓风玉米射手每次击败敌方目标，攻击力提升{1}%，效果可叠加，最高提升{2}%	farmwar.farmwar_benefitname_73	{25,100}	farmwar.farmwar_benefitdes_73	4820000	100033	1	多发玉米每次击杀敌人攻击力提高 5%，最多100%
+137	2	1	6		速射扳机	飓风玉米射手每次击败敌方目标，{1}秒内再次射击时会额外射出一发子弹，重复触发刷新次数	farmwar.farmwar_benefitname_74	{5}	farmwar.farmwar_benefitdes_74	4820003	100034	1	3级多发玉米每次击杀敌人后 5 s内会射击会额外射出一发子弹，时间可刷新
+138	2	1	2		火辣冲天	爆炒玉米射手、火辣玉米射手可以攻击空中目标	farmwar.farmwar_benefitname_75		farmwar.farmwar_benefitdes_75	4820012	100035	1	火焰玉米可以对空攻击
+139	2	1	3		极地基因	清凉玉米射手、急冻玉米射手的攻击有{1}% 概率冰冻敌方目标{2}秒	farmwar.farmwar_benefitname_76	{25,2}	farmwar.farmwar_benefitdes_76	4820006	100036	1	寒冰玉米攻击有 10% 概率冰冻敌人
+140	2	1	3		冰雹暴雨	急冻玉米射手对处于冰冻状态下的敌方目标造成的伤害提升{1}%	farmwar.farmwar_benefitname_77	{60}	farmwar.farmwar_benefitdes_77	4820000	100037	1	急冻玉米射手对处于冰冻状态下的敌方目标造成的伤害提升60%
+141	2	1	4		出局一拳	蓬蓬花菜和碰碰花菜的攻击命中敌方目标时，有{1}%概率对敌方目标造成{2}秒晕眩效果	farmwar.farmwar_benefitname_78	{25,2}	farmwar.farmwar_benefitdes_78	4820014	100038	1	花菜攻击有15%概率使敌人晕眩 2s
+142	2	1	1		大展拳脚	蓬蓬花菜和碰碰花菜的攻击距离增加{1}%	farmwar.farmwar_benefitname_79	{30}	farmwar.farmwar_benefitdes_79	4820008	100039	1	花菜攻击范围提升 30%
+143	2	1	4		伺机反拳	碰碰花菜受到伤害后，攻击力提升{1}%，持续{1}秒，效果可叠加，最高提升{2}%	farmwar.farmwar_benefitname_80	{40,5,120}	farmwar.farmwar_benefitdes_80	4820000	100040	1	升级花菜受伤会短暂提升攻击力 20% ，持续5s，最多叠加 200%
+144	2	1	4		愈战愈勇	碰碰花菜的攻击命中敌方目标时，会立即回复自身{1}%生命，攻击击败敌方目标额外回复自身{1}%生命	farmwar.farmwar_benefitname_81	{2,20}	farmwar.farmwar_benefitdes_81	4820001	100041	1	升级花菜每次攻击命中会立即回复 2% 生命值，击杀敌人额外回复 20% 生命值
+145	2	1	4		南瓜补丁	磐石南瓜守卫每秒恢复自身{1}%的生命	farmwar.farmwar_benefitname_82	{1}	farmwar.farmwar_benefitdes_82	4820001	100042	1	铁壁南瓜每秒恢复自身0.5%的生命值
+146	2	1	2		流焰南瓜	火爆南瓜守卫的攻击命中敌方目标时，有{1}%概率引爆火焰，将火焰消除并造成一次高额伤害	farmwar.farmwar_benefitname_83	{20}	farmwar.farmwar_benefitdes_83	4820005	100043	1	火焰南瓜攻击有10%概率引爆火焰buff，清除火焰buff，造成一次高额伤害
+147	2	1	3		南瓜刨冰	冰冻南瓜守卫被击败后，冻结自身周围敌方目标{1}秒	farmwar.farmwar_benefitname_84	{8}	farmwar.farmwar_benefitdes_84	4820006	100044	1	冰冻南瓜死亡后冻结周围 3*3 范围敌人
+148	2	1	7		萝卜雷达	重火萝卜炮手、狂袭萝卜炮手的索敌范围增加{1}%	farmwar.farmwar_benefitname_85	{30}	farmwar.farmwar_benefitdes_85	4820008	100045	1	升级胡萝卜索敌范围增加50%
+149	2	1	7		萝卜制退器	重火萝卜炮手、狂袭萝卜炮手的射速降低{1}%，攻击命中敌方目标时，有{2}%概率击退目标{3}米	farmwar.farmwar_benefitname_86	{15,100,2}	farmwar.farmwar_benefitdes_86	4820008	100046	1	升级胡萝卜射速降低 10%，25% 概率击退敌人 2m
+150	2	1	1		熟练掌勺	各类番茄大厨的攻击力提升{1}%	farmwar.farmwar_benefitname_87	{10}	farmwar.farmwar_benefitdes_87	4820000	100047	1	番茄攻击力提高 10%
+151	2	1	1		熟练掌勺	各类番茄大厨的攻击力提升{1}%	farmwar.farmwar_benefitname_88	{20}	farmwar.farmwar_benefitdes_88	4820000	100047	2	番茄攻击力提高 20%
+152	2	1	1		熟练掌勺	各类番茄大厨的攻击力提升{1}%	farmwar.farmwar_benefitname_89	{40}	farmwar.farmwar_benefitdes_89	4820000	100047	3	番茄攻击力提高 30%
+153	2	1	2		炖煮准备	稳重番茄大厨的攻击命中敌方目标时，会使其受到的灼烧伤害提升{1}%	farmwar.farmwar_benefitname_90	{40}	farmwar.farmwar_benefitdes_90	4820005	100048	1	暴躁番茄攻击给敌人施加火焰易伤，受到火焰伤害增加 15%
+154	2	1	2		流焰番茄	稳重番茄大厨的攻击命中敌方目标时，有{1}%概率引爆火焰，将火焰消除并造成一次高额伤害	farmwar.farmwar_benefitname_91	{100}	farmwar.farmwar_benefitdes_91	4820005	100049	1	暴躁番茄引爆概率增加10%，引爆效果未清除敌人身上的火焰buff，造成高额伤害
+155	2	1	3		迎头重击	暴躁番茄大厨的攻击命中敌方目标时，有{1}%概率使敌方目标晕眩{2}秒	farmwar.farmwar_benefitname_92	{20,1.5}	farmwar.farmwar_benefitdes_92	4820014	100050	1	稳重番茄攻击 20% 概率使敌人晕眩 2s
+156	2	1	3		暴怒打击	暴躁番茄大厨对处于晕眩或冰冻状态下的敌方目标造成的伤害提升{1}%	farmwar.farmwar_benefitname_93	{50}	farmwar.farmwar_benefitdes_93	4820000	100051	1	稳重番茄对处于晕眩或冰冻状态下的敌人造成伤害提高 30%
+157	2	1	1		节节高升	各类竹笋特工的攻击力提升{1}%	farmwar.farmwar_benefitname_94	{10}	farmwar.farmwar_benefitdes_94	4820000	100052	1	竹笋攻击力提高 10%
+158	2	1	1		节节高升	各类竹笋特工的攻击力提升{1}%	farmwar.farmwar_benefitname_95	{20}	farmwar.farmwar_benefitdes_95	4820000	100052	2	竹笋攻击力提高 20%
+159	2	1	1		节节高升	各类竹笋特工的攻击力提升{1}%	farmwar.farmwar_benefitname_96	{40}	farmwar.farmwar_benefitdes_96	4820000	100052	3	竹笋攻击力提高 30%
+160	2	1	6		屏息凝神	每隔{1}秒，鹰眼竹笋特工下一次攻击造成的伤害提升{2}%	farmwar.farmwar_benefitname_97	{6,80}	farmwar.farmwar_benefitdes_97	4820000	100053	1	鹰眼竹笋每隔6秒，造成伤害提升200%
+161	2	1	6		蓄能尖笋	鹰眼竹笋特工每次击败敌方目标，攻击力提升{1}%，效果可叠加，最高提升{2}%	farmwar.farmwar_benefitname_98	{25,100}	farmwar.farmwar_benefitdes_98	4820000	100054	1	鹰眼竹笋每次击杀敌人攻击力提高 5%，最多100%
+162	2	1	3		凛冬已至	凛冽竹笋特工对处于冰冻状态下的敌方目标造成的伤害提升{1}%	farmwar.farmwar_benefitname_99	{100}	farmwar.farmwar_benefitdes_99	4820000	100055	1	凛冽竹笋攻击冰冻状态下的敌人伤害 提高 60%
+163	2	1	3		凛风行动	凛冽竹笋特工的攻击冷却时间降低{1}%	farmwar.farmwar_benefitname_100	{20}	farmwar.farmwar_benefitdes_100	4820003	100056	1	凛冽竹笋特工的攻击冷却时间降低20%
+164	2	1	5		子藕岸防炮	莲藕要塞安保在无飞行单位时，也会攻击地面单位	farmwar.farmwar_benefitname_101		farmwar.farmwar_benefitdes_101	4820013	100057	1	莲藕无飞行单位时也会攻击地面单位
+165	2	1	5		顶芽式雷达	莲藕要塞安保的索敌范围增加{1}%	farmwar.farmwar_benefitname_102	{30}	farmwar.farmwar_benefitdes_102	4820008	100058	1	莲藕提高攻击范围 10%
+166	2	1	5		藕节超载	莲藕要塞安保的攻击命中敌方目标时，有{1}%概率将造成的伤害提升{2}%	farmwar.farmwar_benefitname_103	{50,100}	farmwar.farmwar_benefitdes_103	4820000	100059	1	莲藕有15%概率造成伤害提升200%（全伤害提升）
+167	2	1	5		蓄能藕瓜	莲藕要塞安保每击败1个敌方目标，攻击力提升{1}%，效果可叠加，最高提升{2}%	farmwar.farmwar_benefitname_104	{25,100}	farmwar.farmwar_benefitdes_104	4820000	100060	1	莲藕每次击杀敌人攻击力提高 5%，最多100%
+168	2	1	1		魔导新秀	各类紫茄魔导的攻击力提升{1}%	farmwar.farmwar_benefitname_105	{10}	farmwar.farmwar_benefitdes_105	4820000	100061	1	紫茄提高攻击力 10%
+169	2	1	1		魔导新秀	各类紫茄魔导的攻击力提升{1}%	farmwar.farmwar_benefitname_106	{20}	farmwar.farmwar_benefitdes_106	4820000	100061	2	紫茄提高攻击力 20%
+170	2	1	1		魔导新秀	各类紫茄魔导的攻击力提升{1}%	farmwar.farmwar_benefitname_107	{40}	farmwar.farmwar_benefitdes_107	4820000	100061	3	紫茄提高攻击力 30%
+171	2	1	7		紫茄大贤杖	紫茄大贤者的普通攻击可击退敌方目标{1}米	farmwar.farmwar_benefitname_108	{1}	farmwar.farmwar_benefitdes_108	4820008	100062	1	紫茄贤者普通攻击也能击退敌人1m
+172	2	1	7		紫茄大贤石	紫茄大贤者造成的普通攻击伤害提升{1}%	farmwar.farmwar_benefitname_109	{80}	farmwar.farmwar_benefitdes_109	4820000	100063	1	紫茄贤者普通攻击伤害提升20%
+173	2	1	7		审判光束	紫茄魔导队长的超级光束和绝杀光束造成的伤害提升{1}%	farmwar.farmwar_benefitname_110	{60}	farmwar.farmwar_benefitdes_110	4820000	100064	1	紫茄队长超级攻击和绝杀的伤害提升15%
+174	2	1	7		生物质回收	紫茄魔导队长击败敌方目标时，回复{1}麻辣能量	farmwar.farmwar_benefitname_111	{30}	farmwar.farmwar_benefitdes_111	4820007	100065	1	紫茄队长击败敌人回复辣椒能量 25点
+175	2	1		1	燃起来辣	所有敌方目标受到的灼烧伤害提升{1}%	farmwar.farmwar_benefitname_112	{100}	farmwar.farmwar_benefitdes_112	4820005	100066	1	所有敌人受到灼烧伤害增加15%
+176	2	1		1	冷风刺骨	迟缓状态下的敌方目标，受到伤害提升{1}%，如果其处于冰冻状态，受到伤害提升{2}%	farmwar.farmwar_benefitname_113	{50,100}	farmwar.farmwar_benefitdes_113	4820000	100067	1	迟缓状态下的敌人受到伤害增加 10%，冰冻状态下增加 20%
+177	2	1		1	完美主义	蔬菜伙伴的生命为{1}%时，受到伤害降低{2}%；蔬菜伙伴的生命未到{3}%，则每秒回复{4}%的最大生命	farmwar.farmwar_benefitname_114	{100,50,100,1}	farmwar.farmwar_benefitdes_114	4820001	100068	1	蔬菜生命值满时，受到伤害降低60%，未满时，每秒回复0.5%
+178	2	1		1	质变进化	蔬菜伙伴的攻击力超过{1}时，有{2}%概率将造成的伤害提升{3}%	farmwar.farmwar_benefitname_115	{128,50,200}	farmwar.farmwar_benefitdes_115	4820000	100069	1	蔬菜当前的攻击力超过40000时，有25%概率伤害提高400%
+179	2	1		1	再部署	蔬菜伙伴的种植冷却时间减少{1}%，移除时，返还{2}%的麻辣能量消耗	farmwar.farmwar_benefitname_116	{80,80}	farmwar.farmwar_benefitdes_116	4820002	100070	1	蔬菜CD降低80%，被铲除后返回种植时80%的能量
+181	2	0			黑夜	种植蔬菜伙伴需要耗费更大的精力。种植蔬菜伙伴的麻辣能量消耗提升{1}%	farmwar.farmwar_benefitname_117	{50}	farmwar.farmwar_benefitdes_117		190003	1	辣椒产出能量获取降低15%
+182	2	0			降雪	种植蔬菜伙伴的麻辣能量消耗提升{1}%	farmwar.farmwar_benefitname_118	{30}	farmwar.farmwar_benefitdes_118		190004	1	蔬菜的价格提升15%

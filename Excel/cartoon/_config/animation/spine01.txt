@@ -1,0 +1,14 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	待机	spine	sp_girl001_stand		
+2	笑	spine	sp_girl001_xiao		
+3	疑惑	spine	sp_girl001_yihuo		
+4	待机-落寞	spine	sp_girl001_stand_luomo		
+5	看啥呢	spine	sp_girl001_konghe		
+6	玩小刀	spine	sp_girl001_knife		
+7	鼓掌	spine	sp_girl001_guzhang		
+8	打招呼	spine	sp_girl001_dazhaohu		
+					
+100	一次思考	custom_seq	2;3;5		
+101	思考循环	custom_loop_last	8;7		
+102	一次思考	custom_loop	2;3;5		

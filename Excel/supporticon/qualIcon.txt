@@ -1,0 +1,8 @@
+ID		描述	IconA路径	IconB路径
+ID	QualIcon	Des	IconA	IconB
+10001	1	品质Icon	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie01_01_png.gui_Logi01_pinjie01_01_png	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie01_02_png.gui_Logi01_pinjie01_02_png
+10002	2	品质Icon	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie02_01_png.gui_Logi01_pinjie02_01_png	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie02_02_png.gui_Logi01_pinjie02_02_png
+10003	3	品质Icon	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie03_01_png.gui_Logi01_pinjie03_01_png	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie03_02_png.gui_Logi01_pinjie03_02_png
+10004	4	品质Icon	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie04_01_png.gui_Logi01_pinjie04_01_png	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie04_02_png.gui_Logi01_pinjie04_02_png
+10005	5	品质Icon	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie05_01_png.gui_Logi01_pinjie05_01_png	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie05_02_png.gui_Logi01_pinjie05_02_png
+10006	6	品质Icon	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie06_01_png.gui_Logi01_pinjie06_01_png	/Game/UI/UI/LogiCult/Frames/gui_Logi01_pinjie06_02_png.gui_Logi01_pinjie06_02_png

@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	妮塔			靠，从哪冒出来的，吓我一跳！	0	
+2		0	妮塔			直直就朝我们冲过来，难道惹它了？	0	
+3		0	茉莉安			呵呵，总感觉……说不好哦。	0	

@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	我看了最近的工作排期，你的假期挺多的。	我看了最近的工作行程，你的休假滿多的。	最近の仕事の予定を確認したけど、休暇を結構とってるみたいだね。	네 최근 업무 일정을 좀 봤는데, 휴가가 꽤 많던걸?	I looked at your recent work schedule. Looks like you have a bunch of vacation days.						0	
+page0.2	怎么待在基地，不出去度个假？	怎麼還待在基地裡，不出去渡個假?	社員寮にこもってて、外では遊んでないのか？	왜 계속 숙소에만 있는 거야? 휴가라도 좀 떠나 봐.	Why are you hanging around the Base? You should go travel.						0	
+page0.3	太久没出任务，再这样闲下去，感觉身体都要生锈了。	太久沒出任務，在這樣閒散下去感覺身體都要生鏽了。	長いことミッションに出てないからさ！このままだと体が錆びそうなんだよね！	미션을 너무 오랫동안 쉬었어, 계속 이렇게 한가하면 몸에 녹이 슬지도 몰라.	My body feels like it's gonna get rusty if I don't go on any missions for a long time and keep lazing around.						0	
+page0.4	来，分析员，陪我练练！	來!分析員，陪我練練!	なぁ分析員、これから一緒にトレーニングしようぜ！	분석가, 같이 훈련하자!	C'mon, Adjutant! Train with me!						0	
+page0.5	两小时后	兩小時後	2時間後	2시간 후	Two hours later						0	
+page0.6	分析员，没想到你的反应能力这么强！	分析員，沒想到你的反應力這麼快!	お疲れ！分析員って思ったより瞬発力あるんだね！	분석가, 반응 속도가 꽤 빠른데? 뜻밖이야!	I really didn't expect you to have such a fast reaction time, Adjutant!						0	
+page0.7	居然能闪掉我的攻击，瞬间摆正身形并打出进攻，太漂亮了！	居然能閃避我的攻擊，而且還瞬間擺正姿勢進攻，太漂亮了!	私の攻撃をかわして、瞬時に体勢を整えて攻撃を仕掛けられるなんて、お見事！	내 공격을 피하는 동시에 공격 태세를 취하다니, 정말 대단해!	You dodged my hit, straightened back up right away, then attacked! Awesome!						0	
+page0.8	别太小看曾经的安全部主管。	別太小看前安全部主管。	元安全部責任者をなめるなよ。	날 너무 과소평가한 거 아니야? 이래 봬도 예전엔 안전부 관리자였다고.	I used to be head of the Security Department. Don't underestimate me.						0	
+page0.9	你想说什么就直说吧，兜圈子可不是你的风格。	你想說什麼就直說吧，繞圈子可不是你的風格。	言いたいことがあるなら、直接言ってくれ。遠回しは君らしくない。	하고 싶은 말이 있으면 해 봐, 빙빙 돌려 말하는 건 너답지 않아.	Whatever you want to say, just spit it out. Beating around the bush isn't your style.						0	
+page0.10	哈哈……果然瞒不过分析员。	哈哈……果然瞞不住分析員。	はは……やっぱ分析員には敵わないなぁ……	하하… 역시 분석가는 눈치가 빠르다니까.	Haha... looks like I really can't hide anything from you, Adjutant.						0	
+page0.11	之前偶然间听到后勤部的同事抱怨，说之前出任务时我的战备消耗超出预期，还总有额外的公共设施损坏赔付什么的……	之前偶然聽到後勤部的同事抱怨，說我之前出任務時戰備消耗超出預設數量，還總是有多餘的公共設施損壞賠償什麼的……	後方支援の子からたまたま聞いたんだけど、前のミッションで私の戦備消耗激しかったぽくて、公共施設の追加損害も続出したって……	전에 우연히 지원부 동료가 불평하는 걸 들었어. 내가 미션에 나갈 때마다 보급품 소모가 많고, 공공시설 파손 배상 지출이 추가로 발생한다고…	I overheard some of our coworkers in the Logistics Department complaining that I used way too many supplies on previous missions, and they constantly had to pay extra compensation for damage I did to public facilities and stuff...						0	
+page0.12	明明进公司签合同时说好让我放手干就行的！	明明進公司簽合約的時候就說我可以放手打的!	契約の時は、自由にミッションをこなしていいって言われたのに！	입사 계약서 쓸 때만 해도, 과감하게 미션을 수행하라고 했으면서!	They said I wouldn't have to worry about that when I signed the contract!						0	
+page0.13	嘿嘿……该不会因为这些影响了我在内部的评价吧？	嘿嘿……該不會因為這些事而影響了我在公司的內部評價吧?	はぁ……そういうのが私の会社での評価に影響してたりしない？	헤헤… 그것 때문에 내부 평가가 안 좋아지는 건 아니겠지?	Hehe... do you think that'll affect my internal evaluation?						0	
+page0.14	你有你自己的特点，无需在意他人。谨小慎微就不是妮塔了。	你有自己的風格，不用在意他人眼光。小心謹慎的話就不是妮塔了。	君には君の長所があるから、他人のことは気にしなくていいよ。小さいことに気を遣うのはニタらしくない。	넌 너만의 특별함이 있으니, 다른 사람은 신경 쓰지 않아도 돼. 소심하고 눈치 보는 건 니타답지 않으니까.	You have your own strengths. Don't worry about what other people think. It isn't like you to act this timid.						0	
+page0.15	既然分析员这么说，那我就放心了。	既然分析員這麼說，那我就放心了。	分析員がそう言ってくれるなら安心した！	분석가가 그렇게 말해주니 마음이 놓인다.	I feel way better after hearing you say that, Adjutant.						0	
+page0.16	我已经做好“四手准备”，要大干一场了！	我已經做好「四手準備」要大幹一場了!	もう「あの手この手の準備」はできてるし、ここからは暴れまくるぞ！	 '포암즈 준비' 완료! 또 한바탕 하러 가야겠다!	Hands is ready to go! Let's do this!						0	

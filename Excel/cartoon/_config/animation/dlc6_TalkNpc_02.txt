@@ -1,0 +1,11 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	待机	sequence	mon402_base_stand	AnimSequence'/Game/Characters/Monster/mon402/Anim/mon402_base_stand.mon402_base_stand'	
+2	讲述	sequence	npc401_house_talk	AnimSequence'/Game/Characters/Npc/npc401/Anim/npc401_house_talk.npc401_house_talk'	
+3	否定	sequence	npc401_house_deny	AnimSequence'/Game/Characters/Npc/npc401/Anim/npc401_house_deny.npc401_house_deny'	
+4	肯定	sequence	npc401_house_sure	AnimSequence'/Game/Characters/Npc/npc401/Anim/npc401_house_sure.npc401_house_sure'	
+					
+					
+100	组合动作	custom_seq			
+101	全部循环	custom_loop			
+102	循环最后一个	custom_loop_last			

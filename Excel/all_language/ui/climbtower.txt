@@ -1,0 +1,69 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+name	地下探索%d段	地下探索%d段	地下探索第%d階	지하 탐사 %d단계	Underground Exploration Section %d						0	
+8020011	队员攻击力提升30%	隊員攻擊力提升30%	隊員の攻撃力+30%。	팀원의 공격력이 30% 증가한다.	Increases the operative's ATK by 30%.						0	
+8020021	队员射击伤害提升50%	隊員射擊傷害提升50%	隊員の射撃ダメージ+50%。	팀원의 사격 대미지가 50% 증가한다.	Increases the operative's Ballistic DMG by 50%.						0	
+8020031	队员技能伤害提升50%	隊員技能傷害提升50%	隊員のスキルダメージ+50%。	팀원의 스킬 대미지가 50% 증가한다.	Increases the operative's Skill DMG by 50%.						0	
+8020041	队员瞄准射击造成伤害提升70%	隊員瞄準射擊造成傷害提升70%	隊員のADS時の射撃ダメージ+70%。	팀원의 조준 사격 대미지가 70% 증가한다.	Increases the operative's ADS Ballistic DMG by 70%						0	
+8020051	我方队员与敌方目标互相造成的伤害均提升50%	我方隊員與敵方目標互相造成的傷害均提升50%	隊員と敵の与ダメージ+50%。	아군과 타깃의 상호 대미지가 50% 증가한다.	Increases operative and enemy DMG by 50%.						0	
+8020061	队员特异类型伤害降低90%	隊員特異類型傷害降低90%	隊員の特異系ダメージ-90%。	팀원의 혼돈 유형 대미지가 90% 감소한다.	Decreases the operative's Chaos DMG by 90%.						0	
+8020071	队员最大生命降低40%	隊員最大生命降低40%	隊員の最大HP-40%。	팀원의 최대 HP가 40% 감소한다.	Decreases the operative's Max HP by 40%.						0	
+8020081	队员电击类型伤害降低90%	隊員電擊類型傷害降低90%	隊員の電撃系ダメージ-90%。	팀원의 번개 유형 대미지가 90% 감소한다.	Decreases the operative's Electrical DMG by 90%.						0	
+8020091	技能使用间隔提升50%	技能使用間隔提升50%	スキルのクールタイム+50%。	스킬 쿨타임이 50% 증가한다.	Increases skill cooldown by 50%.						0	
+8020101	队员高热类型伤害降低90%	隊員高熱類型傷害降低90%	隊員の高熱系ダメージ-90%。	팀원의 화염 유형 대미지가 90% 감소한다.	Decreases the operative's Thermal DMG by 90%.						0	
+8020111	队员低温类型伤害降低90%	隊員低溫類型傷害降低90%	隊員の低温系ダメージ-90%。	팀원의 얼음 유형 대미지가 90% 감소한다.	Decreases the operative's Frost DMG by 90%						0	
+8020121	队员耐力值恢复速度降低50%	隊員耐力值恢復速度降低50%	隊員のスタミナ回復速度-50%。	팀원의 스태미나 회복 속도가 50% 감소한다.	Decreases the operative's Stamina recovery rate by 50%.						0	
+8020131	队员动能类型伤害降低90%	隊員動能類型傷害降低90%	隊員の動力系ダメージ-90%。	팀원의 KP 유형 대미지가 90% 감소한다.	Decreases the operative's Kinetic DMG by 90%.						0	
+8020141	敌方目标生命低于70%时，其造成的伤害提升70%	敵方目標生命低於70%時，其造成的傷害提升70%	敵のHPが70%未満の場合、与ダメージ+70%。	타깃의 HP가 70% 미만일 시, 해당 타깃이 가하는 대미지가 70% 증가한다.	When an enemy's HP is less than 70%, its DMG is increased by 70%						0	
+8021151	冲刺时受到的伤害提升100%	衝刺時受到的傷害提升100%	スプリント状態で、被ダメージ+100%。	스퍼트 시 받는 대미지가 100% 증가한다.	Increases DMG received while sprinting by 100%.						0	
+8021161	队员动能类型伤害降低50%	隊員動能類型傷害降低50%	隊員の動力系ダメージ-50％。	팀원의 KP 유형 대미지가 50% 감소한다.	Decreases the operative's Kinetic DMG by 50%.						0	
+8021171	队员每次受到攻击时，攻击力降低5%，持续4秒，该效果可叠加	隊員每次受到攻擊時，攻擊力降低5%，持續4秒，該效果可疊加	隊員がダメージを受ける度に、攻撃力-5%、4秒持続する、この効果はチャージ可能。	팀원이 피격될 때마다 공격력이 5% 감소한다. 지속 시간: 4초. 해당 효과는 중첩할 수 있다.	Decreases ATK by 5% for 4 sec every time operative is hit. This effect is stackable.						0	
+8022151	队员射击伤害降低50%	隊員射擊傷害降低50%	隊員の射撃ダメージ-50%。	팀원의 사격 대미지가 50% 감소한다.	Decreases the operative's Ballistic DMG by 50%.						0	
+8022161	队员爆发能量获取率降低50%	隊員爆發能量獲取率降低50%	隊員の爆発EP取得率-50%。	팀원의 부스터 획득률이 50% 감소한다.	Decreases the operative's U-Energy Recovery by 50%.						0	
+8022171	队员每次闪避时，攻击力降低5%，持续3秒，该效果可叠加	隊員每次閃避時，攻擊力降低5%，持續3秒，該效果可疊加	隊員が回避する度に、攻撃力-5%、3秒持続する、この効果はチャージ可能。	팀원이 회피할 때마다 공격력이 5% 감소한다. 지속 시간: 3초. 해당 효과는 중첩할 수 있다.	Decreases ATK by 5% for 3 sec every time an operative Dodges. This effect is stackable.						0	
+8023151	队员最大生命降低50%	隊員最大生命降低50%	隊員の最大HP-50%。	팀원의 최대 HP가 50% 감소한다.	Decreases the operative's Max HP by 50%.						0	
+8023161	敌方目标生命高于50%时，其造成的伤害提升50%	敵方目標生命高於50%時，其造成的傷害提升50%	敵のHPが50%を超えた場合、与ダメージ+50%。	타깃의 HP가 50% 이상일 시, 해당 타깃이 가하는 대미지가 50% 증가한다.	When an enemy's HP is higher than 50%, its DMG is increased by 50%.						0	
+8023171	队员每次受到攻击时，攻击力降低5%，持续4秒，该效果可叠加4层	隊員每次受到攻擊時，攻擊力降低5%，持續4秒，該效果可疊加4層	隊員がダメージを受ける度に、攻撃力-5%、4秒持続する、この効果は4スタックチャージ可能。	팀원이 피격될 때마다 공격력이 5% 감소한다. 지속 시간: 4초. 해당 효과는 최대 4스택까지 중첩할 수 있다.	Operative ATK decreases by 5% for 4 sec each time they are attacked. Max 4 stacks.						0	
+8024151	队员生命低于70%时，受到的伤害提升100%	隊員生命低於70%時，受到的傷害提升100%	隊員のHPが70%未満の場合、被ダメージ+100%。	팀원의 HP가 70% 미만일 시, 받는 대미지가 100% 증가한다.	Increases DMG received by 100% when an operative's HP is less than 70%.						0	
+8024161	队员耐力值恢复速度降低50%	隊員耐力值恢復速度降低50%	隊員のスタミナ回復速度-50%。	팀원의 스태미나 회복 속도가 50% 감소한다.	Decreases the operative's Stamina recovery rate by 50%.						0	
+8024171	队员每击败1个目标，攻击力降低10%，持续5秒，该效果可叠加4层	隊員每擊敗1個目標，攻擊力降低10%，持續5秒，該效果可疊加4層	隊員が敵を撃破する度に、攻撃力-10%、5秒持続する。この効果は4スタックまでチャージ可能。	팀원이 타깃을 1개 격파할 때마다 공격력이 10% 감소한다. 지속 시간: 5초. 해당 효과는 최대 4스택 중첩할 수 있다.	Decreases operative's ATK by 10% for 5 sec each time they defeat a target. Max 4 stacks.						0	
+8020181	环境稳定，无特殊影响	環境穩定，無特殊影響	環境安定。特別な影響無し。	환경이 안정적이고, 별다른 특수한 영향은 따로 없다.	Environment stable. No special effects						0	
+8020901	支援技使用间隔降低30%，低温类型伤害提高30%	支援技使用間隔降低30%，低溫類型傷害提高30%	支援技のクールタイム-30%、低温系ダメージ+30%。	보조 스킬 쿨타임이 30% 감소하고, 얼음 유형 대미지가 30% 증가한다.	Decreases support skill cooldown by 30%. Increases Frost DMG by 30%.						0	
+8020902	爆发能量获取率提升50%，换弹后的下一发射击伤害增加30%	爆發能量獲取率提升50%，換彈後的下一發射擊傷害增加30%	爆発EP取得率+50%、装填すると、次の射撃のダメージ+30%。	부스터 획득률이 50% 증가하고, 재장전 후의 사격 대미지가 30% 증가한다.	Increases U-Energy Recovery by 50%. After reloading, increases the Ballistic DMG of the next shot by 30%.						0	
+8020903	技能使用间隔降低30%，射击速度提升40%	技能使用間隔降低30%，射擊速度提升40%	スキルのクールタイム-30%、射撃速度+40%。	스킬 쿨타임이 30% 감소하고, 사격 속도가 40% 증가한다.	Decreases skill cooldown by 30%. Increases Rate of Fire by 40%.						0	
+8020904	技能造成伤害时，射击伤害提升50%，持续2秒	技能造成傷害時，射擊傷害提升50%，持續2秒	スキルが命中すると、射撃ダメージ+50%、2秒持続する。	스킬로 대미지를 가할 시, 사격 대미지가 50% 증가한다. 지속 시간: 2초.	When a skill deals DMG, increases Ballistic DMG by 50% for 2 sec.						0	
+8020905	技能造成伤害时，队员伤害提升5%，持续3秒，最高提升50%	技能造成傷害時，隊員傷害提升5%，持續3秒，最高提升50%	スキルが命中すると、隊員の与ダメージ+5%、3秒持続し、最大50%まで増加できる。	스킬로 대미지를 가할 시, 팀원 대미지가 5% 증가하며 최대 50%까지 증가한다. 지속 시간: 3초.	Increases the operative's DMG by 5% for 3 sec when a skill deals DMG, up to 50%.						0	
+8020906	爆发能量获取率提升50%，释放爆发技时，队员伤害提升10%，持续8秒，最高提升50%	爆發能量獲取率提升50%，釋放爆發技時，隊員傷害提升10%，持續8秒，最高提升50%	爆発EP取得率+50%、爆発技を使うと、隊員の与ダメージ+10%、8秒持続し、最大50%までアップできる。	부스터 획득률이 50% 증가하고, 특수 스킬 발동 시, 팀원 대미지가 10% 증가하며 최대 50%까지 증가한다. 지속 시간: 8초.	Increases U-Energy Recovery by 50%. Increases the operative's DMG by 10% for 8 sec when using Ultimate Skill, up to 50%.						0	
+8020907	爆发能量获取率提升50%，高热类型伤害提升30%	爆發能量獲取率提升50%，高熱類型傷害提升30%	爆発EP取得率+50%、高熱系ダメージ+30%。	부스터 획득률이 50% 증가하고, 화염 유형 대미지가 30% 증가한다.	Increases U-Energy Recovery by 50%. Increases Thermal DMG by 30%.						0	
+8020908	支援技使用间隔降低30%，特异类型伤害提升30%	支援技使用間隔降低30%，特異類型傷害提升30%	支援技のクールタイム-30%、特異系ダメージ+30%。	보조 스킬 쿨타임이 30% 감소하고, 혼돈 유형 대미지가 30% 증가한다	Reduces Support Skill cooldown by 30%. Increases Chaos DMG by 30%.						0	
+8020909	支援技使用间隔降低50%	支援技使用間隔降低50%	支援技のクールタイム-50%。	보조 스킬 쿨타임이 50% 감소한다.	Decreases Support Skill cooldown by 50%						0	
+8020910	支援技使用间隔降低30%，低温类型伤害提高30%	支援技使用間隔降低30%，低溫類型傷害提升30%	支援技のクールタイム-30%、低温系ダメージ+30%。	보조 스킬 쿨타임이 30% 감소하고, 얼음 유형 대미지가 30% 증가한다.	Decreases Support Skill cooldown by 30%. Increases Frost DMG by 30%.						0	
+8020911	支援技使用间隔降低30%，射击伤害提高30%	支援技使用間隔降低30%，射擊傷害提高30%	支援技のクールタイム-30%、射撃ダメージ+30%。	보조 스킬 쿨타임이 30% 감소하고, 사격 대미지가 30% 증가한다.	Decreases Support Skill cooldown by 30%. Increases Ballistic DMG by 30%.						0	
+8020912	每次射击时，有50%的概率不消耗子弹	每次射擊時，有50%的機率不消耗子彈	射撃時に50%の確率で弾丸を消費しない。	매번 사격 시, 50% 확률로 탄약을 소모하지 않는다.	Each shot has 50% to not consume bullets						0	
+8020913	爆发能量获取率提升50%，技能急速增加100，释放爆发技时，全队造成伤害提升20%，持续20秒	爆發能量獲取率提升50%，技能急速增加100，釋放爆發技時，全隊造成傷害提升20%，持續20秒	爆発EP取得率+50%、スキルクールダウン+100。爆発技を使うと、20秒間小隊全員の与ダメージ+20%。	부스터 획득률이 50% 증가하고, 스킬 가속이 100 증가하며, 특수 스킬 발동 시 모든 팀원이 가하는 대미지가 20% 증가한다. 지속 시간: 20초.	Increases U-Energy Recovery by 50% and Skill Haste by 100. Increases full squad's DMG by 20% for 20 sec when using Ultimate Skill.						0	
+8020915	队员最大生命提高30%，爆发技能伤害提高30%	隊員最大生命提高30%，爆發技技能傷害提高30%	隊員の最大HP+30%、爆発技ダメージ+30%	팀원의 최대 HP가 30% 증가하고 특수 스킬 대미지가 30% 증가한다.	Increase operative Max HP by 30% and Ultimate Skill DMG by 30%.						0	
+8020916	爆发能量获取率提升50%，电击类型伤害提升30%	爆發能量獲取率提升50%，電擊類型傷害提升30%	爆発EP取得率+50%、電撃系ダメージ+30%。	부스터 획득률이 50% 증가하고, 번개 유형 대미지가 30% 증가한다.	Increases U-Energy Recovery by 50%. Increases Electrical DMG by 30%.						0	地下清理dlc9版本
+8020917	攻击力提升25%，附属单位强度提升50点	攻擊力提升25%，附屬單位強度提升50點	攻撃力+25%、付属ユニット強度+50	공격력이 25% 증가하고, 부속 유닛의 강도가 50pt 증가한다.	Increases ATK by 25% and Auxiliary Unit Strength by 50.						0	地下清理dlc22版本
+8020918	常规技造成的伤害提升25%，特异类型伤害提升25%	常規技造成的傷害提升25%，特異類型傷害提升25%	通常技の与ダメージ+25%、特異系ダメージ+25%。	일반 스킬이 가하는 대미지가 25% 증가하고, 혼돈 유형 대미지가 25% 증가한다.	Increases Standard Skill DMG and Chaos DMG by 25%						0	地下清理dlc22版本
+8020919	射击伤害提升50%，战术闪避和冲刺不消耗耐力	射擊傷害提升50%，戰術閃避和衝刺不消耗耐力	射撃ダメージ+50%、回避とスプリントでスタミナを消費しない	사격 대미지가 50% 증가하고, 전술 회피와 스퍼트 시 스태미나를 소모하지 않는다.	Increases Ballistic DMG by 50%. Dodge and sprint do not consume Stamina.						0	地下清理dlc23版本
+8020920	队员暴击伤害增幅提高60%	隊員暴擊傷害增幅提高60%	隊員の会心ダメージ増幅+60%	팀원의 크리티컬 강도가 60% 상승한다.	Full squad CRIT DMG Amplifier +60%						0	地下清理dlc25版本
+8020921	队员技能急速增加50，防御力提升50%	隊員技能急速增加50，防禦力提升50%	隊員のスキルヘイスト+50、防御力+50%	팀원의 스킬 가속이 50 증가하고, 방어력이 50% 증가한다.	Full squad Skill Haste +50%, Defense Boost +50%						0	地下清理dlc25版本
+8020922	特异类型伤害提升50%	特異類型傷害提升50%	特異系ダメージ+50%。	혼돈 유형 대미지가 50% 증가한다.	Increases Chaos DMG by 50%.						0	地下清理dlc27版本
+8020923	击败目标时，恢复自身5%最大生命	擊敗目標時，恢復自身5%最大生命	敵を撃破すると、自身の最大HPの5%を回復する。	타깃 격파 시, 자신은 최대 HP의 5%를 회복한다.	Restores 5% of Max HP when defeating a target.						0	地下清理dlc27版本
+8020924	低温类型伤害提升25%，射击伤害提升25%	低溫類型傷害提升25%，射擊傷害提升25%	低温系ダメージ+25%、射撃ダメージ+25%	얼음 유형 대미지가 25% 증가하고, 사격 대미지가 25% 증가한다.	Increases Frost DMG and Ballistic DMG by 25%.						0	地下清理dlc30版本
+8020925	拥有赋能效果的队员，攻击力提升50%	擁有賦能效果的隊員，攻擊力提升50%	付加能力を持つ隊員の攻撃力+50%	에너지 부여 효과를 보유한 팀원의 공격력이 50% 증가한다.	Increases ATK by 50% for operatives with elemental aptitudes.						0	地下清理dlc30版本
+8020926	装备高热类型武器时，技能伤害提升50%	裝備高熱類型武器時，技能傷害提升50%	高熱系武器を装備中、スキルダメージ+50%	화염 유형 무기 장착 시 스킬 대미지가 50% 증가한다.	When equipped with a Thermal weapon, increases Skill DMG by 50%.						0	地下清理dlc32版本
+8020927	队员每次射击造成伤害时，高热类型伤害提升10%，持续5秒，该效果最多叠加至5层	隊員每次射擊造成傷害時，高熱類型傷害提升10%，持續5秒，該效果最多疊加至5層	射撃でダメージを与えるたびに、5秒間高熱系ダメージ+10%（最大5スタック）	팀원의 사격이 타깃을 명중할 때마다 화염 유형 대미지가 10% 증가하며, 최대 5스택까지 중첩한다. 지속 시간: 5초.	Each time operative deals DMG with a shot, increases Thermal DMG by 10% for 5s, up to 5 stacks.						0	地下清理dlc32版本
+8020929	动能类型伤害提升50%	動能類型傷害提升50%	動力系ダメージ+50%。	KP 유형 대미지가 50% 증가한다.	Increases Kinetic DMG by 50%.						0	地下清理dlc35版本
+8020930	角色每次击败目标时，攻击力提升5%，最多提升至50%										0	地下清理dlc37版本
+tips	需要通关前置关卡	需要通關前置關卡	前提ステージをクリアする必要があります	이전 단계부터 클리어해야 합니다.	Clear the previous stage to unlock						0	
+tips2	需要通关废弃区域第%d段	需要通關廢棄區域第%d段	廃棄エリアの第%d階をクリアする必要があります	폐기 구역 %d단계부터 클리어해야 합니다.	Need to complete Abandoned Area - Section %d						0	
+naxtArea	立即进入下一区域	立即進入下一區域	今すぐ次のエリアへ	다음 구역으로 바로가기	Head to the next area immediately						0	
+recordProgre	%d层区域%d有未完成的挑战，是否继续	%d層區域%d有未完成的挑戰，是否繼續	%d層エリアの%dに未達成のチャレンジがあります。続けますか？	%d단계 구역 %d에 아직 완료하지 않은 도전이 남아있습니다. 계속하시겠습니까?	There are unfinished challenges in Section %d of area %d. Proceed?						0	
+NotDiff	未选择难度	未選擇難度	難易度を選択してください	난이도 미선택	Please select a difficulty						0	
+tips3	需要通关上一难度全部关卡	需要通關上一難度全部關卡	前の難易度を全部クリアする必要があります	이전 난이도의 모든 스테이지를 먼저 클리어해야 합니다.	Requires Completing all stages of the previous difficulty						0	
+mail_Sender	世界树后勤部	世界樹後勤部	ユグドラシル社後方支援科	위그드라실 지원부	Logistics Department, Yggdrasil						0	
+mail_Title01	【地下清理】活动奖励补发	【地下清理】活動獎勵補發	【地下清掃】イベント報酬再発行	[지하 클리닝] 이벤트 보상 재지급	Underground Purge Event Reward Reissue						0	
+mail_Title02	【精神拟境】活动奖励补发	【精神擬境】活動獎勵補發	【ニューロンシミュレーション】イベント報酬再発行	[가상 시뮬레이션] 이벤트 보상 재지급	Neural Simulation Event Reward Reissue						0	
+mail_Content01	亲爱的分析员，以下是您参与【地下清理】活动获得的奖励，由于您忘记领取，现已通过邮件补发。请务必及时领取！再忘记就不补了，哼~	親愛的分析員，以下是您參與【地下清理】活動所獲得的獎勵，由於您錯過了領取時間，現已透過信件補發。請務必及時領取！再忘記就不補了哼~	親愛なる分析員、【地下清掃】イベントにて受け取っていない報酬があります。メールで再発行しましたので、ご確認ください！今度忘れたらもうあげませんからね、ふんっ！	분석가님, 아래는 [지하 클리닝]에서 획득했던 보상이에요. 깜빡하신 것 같아서 메일로 다시 지급해 드렸으니, 잊지 말고 수령해 주세요! 이번에도 잊어버리면 재지급은 없을 줄 알아요! 흥~	Dear Adjutant, the following are the rewards you earned by participating in the Underground Purge event. They have been reissued by mail since you forgot to claim them. Make sure to claim them in time — there won't be another chance if you forget again!						0	
+mail_Content02	亲爱的分析员，以下是您参与【精神拟境】活动获得的奖励，由于您忘记领取，现已通过邮件补发。请务必及时领取！再忘记就不补了，哼~	親愛的分析員，以下是您參與【精神擬境】活動所獲得的獎勵，由於您錯過了領取時間，現已透過信件補發。請務必及時領取！再忘記就不補了哼~	親愛なる分析員、【ニューロンシミュレーション】イベントにて受け取っていない報酬があります。メールで再発行しましたので、ご確認ください！今度忘れたらもうあげませんからね、ふんっ！	분석가님, 아래는 [가상 시뮬레이션]에서 획득했던 보상이에요. 깜빡하신 것 같아서 메일로 다시 지급해 드렸으니, 잊지 말고 수령해 주세요! 이번에도 잊어버리면 재지급은 없을 줄 알아요! 흥~	Dear Adjutant, the following are the rewards you earned by participating in the Neural Simulation event. They have been reissued by mail since you forgot to claim them. Make sure to claim them in time — there won't be another chance if you forget again!						0	

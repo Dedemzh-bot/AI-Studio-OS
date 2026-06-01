@@ -1,0 +1,805 @@
+﻿道具大类	道具子类	道具ID	等级	//注释	禁用道具	类名	名字key	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	图标	使用方式，0不可使用，1自动，2手动  不填为0	是否可堆叠（1：可堆叠 0：不可堆叠 不填为0）	是否可培养（1：可培养 0：不可培养 不填为0）	附加参数1	附加参数2（自选礼包该参数配置1则开启2次确认提示）	附加参数3	成长属性ID	外观ID	最早可使用时间	最晚可使用时间，格式：相对日期直接填天数；绝对日期填2024-04-28T04:00:00(年-月-日T时:分:秒)	分解回收配置，对应recycle.txt中得ID列	GM投放
+Genre	Detail	Particular	Level	Comment	Close	LuaType	I18n	Color	Icon	UseMode	CanStack	CanEnhance	Param1	Param2	Param3	GrowupID	AppearID	UseStartTime	Expiration	RecycleID	GMnum
+4	3	1	1	通用银		silver_box	ui.silver	3	1510045	1	1		1								999
+4	3	2	1	数据金		gold_box	supplies.freecurr	5	1510046	1	1		1								999
+4	3	3	1	账号经验		playerexp_box	supplies.playerexp	1	1510047	1			1								999
+4	3	4	1	月卡本体		monthcard_box	supplies.month_card	5	1510035	1	1		30	90	1						0
+4	3	4	2	返利月卡		itembox	supplies.redeemCard	5	1510085	2	1		99								0
+																					
+4	3	2	2	数据金(60)		gold_box	supplies.freecurr	5	110103000	1	1		1								0
+4	3	2	3	数据金(300)		gold_box	supplies.freecurr	5	110103001	1	1		1								0
+4	3	2	4	数据金(680)		gold_box	supplies.freecurr	5	110103002	1	1		1								0
+4	3	2	5	数据金(1280)		gold_box	supplies.freecurr	5	110103003	1	1		1								0
+4	3	2	6	数据金(3280)		gold_box	supplies.freecurr	5	110103004	1	1		1								0
+4	3	2	7	数据金(6480)		gold_box	supplies.freecurr	5	110103005	1	1		1								0
+4	9	1	3	比特金		money_box	supplies.paycurr1	5	1600001	1	1		1								0
+4	9	1	4	比特金（6元充值）		money_box	supplies.paycurr1	5	110101600	1	1		1								0
+4	9	2	4	比特金（30元充值）		money_box	supplies.paycurr1	5	110101700	1	1		1								0
+4	9	3	4	比特金（98元充值）		money_box	supplies.paycurr1	5	110101800	1	1		1								0
+4	9	4	4	比特金（198元充值）		money_box	supplies.paycurr1	5	110101900	1	1		1								0
+4	9	5	4	比特金（328元充值）		money_box	supplies.paycurr1	5	110102000	1	1		1								0
+4	9	6	4	比特金（648元充值）		money_box	supplies.paycurr1	5	110102100	1	1		1								0
+4	2	1	2	体力药(小)	1	vigor_box	supplies.vigor_box1	3	1510054	2	1		15								999
+4	2	1	3	体力药(中)		vigor_box	supplies.vigor_box2	4	1510055	2	1		30								999
+4	2	1	4	体力药(大)		vigor_box	supplies.vigor_box3	5	1510056	2	1		60								999
+4	2	1	5	体力药(小)(绝对限时)	1	vigor_box	supplies.vigor_box1	3	1510054	2	1		15						2022-09-15T00:00:00	11	0
+4	2	1	6	月卡赠送体力药(中)(相对限时)		vigor_box	supplies.vigor_box2	4	1510055	2	1		30						7	11	0
+4	2	1	7	限时7日大体力药		vigor_box	supplies.vigor_box3	5	1510056	2	1		60						7	11	0
+4	2	1	8	限时14日中体力药		vigor_box	supplies.vigor_box2	4	1510055	2	1		30						14	11	0
+4	2	1	9	限时14日大体力药		vigor_box	supplies.vigor_box3	5	1510056	2	1		60						14	11	0
+4	2	1	10	限时30日大体力药		vigor_box	supplies.vigor_box3	5	1510056	2	1		60						30	11	0
+4	2	1	11	限时7日中体力药		vigor_box	supplies.vigor_box2	4	1510055	2	1		30						7	11	0
+4	2	1	12	限时30日中体力药		vigor_box	supplies.vigor_box2	4	1510055	2	1		30						30	11	0
+4	2	1	13	DLC3.6版本限定大体力药		vigor_box	supplies.vigor_box3	5	1510056	2	1		60						2026-06-19T04:00:00	11	0
+4	6	1	1	记忆补嵌包		token_box	supplies.fragment	4	1510090	2	1		7	3							0
+4	6	1	2	记忆补嵌包(限时14日)		token_box	supplies.fragment	4	1510090	2	1		7	3					14		0
+4	4	1	1	每日免费补给包		itembox	supplies.giftbox1	2	1510057	1			1		{4,4,1,1,1}						0
+4	4	1	2	每周免费补给包		itembox	supplies.giftbox2	2	1510058	1			2		{4,4,1,2,1}						0
+4	4	1	3	每月免费补给包		itembox	supplies.giftbox3	3	1510059	1			3		{4,4,1,3,1}						0
+4	5	1	3	每周物资配给箱		itembox	supplies.giftbox4	4	1510060	1			4		{4,5,1,3,1}						0
+4	5	1	4	每月人员补给包		itembox	supplies.giftbox5	5	1510061	1			5		{4,5,1,4,1}						0
+4	5	2	4	角色强化材料包		itembox	supplies.giftbox6	5	1510062	1			6		{4,5,2,4,1}						0
+																					
+4	5	1	5	钒花·每日物资包		itembox	supplies.giftbox28	4	1520039	1			19		{4,5,1,5,1}						0
+4	5	1	6	镜影·每周聘任包		itembox	supplies.giftbox29	4	1520040	1			18		{4,5,1,6,1}						0
+																					
+4	5	3	4	武器突破材料包		itembox	supplies.giftbox7	5	1510063	1			7		{4,5,3,4,1}						0
+4	8	1	4	超值聘任包		itembox	supplies.giftbox8	5	1510064	1			8		{4,8,1,4,1}						0
+4	8	1	5	每日邮件送		cyclegift_box	supplies.gacha1	5	1510031	1			302		{4,8,1,5,1}						0
+4	5	4	4	优惠天启者聘任包		itembox	supplies.giftbox9	5	1510065	1			9		{4,5,4,4,1}						0
+4	5	5	4	优惠武器申请包		itembox	supplies.giftbox10	5	1510066	1			10		{4,5,5,4,1}						0
+4	5	5	5	天启者精英聘任包		itembox	supplies.giftbox20	5	1520022	1			17		{4,5,5,5,1}						0
+4	5	6	1	10级激励物资箱		itembox	supplies.giftbox11	5	1510091	1			11		{4,5,6,1,1}						0
+4	5	6	2	20级激励物资箱		itembox	supplies.giftbox12	5	1510092	1			12		{4,5,6,2,1}						0
+4	5	6	3	30级激励物资箱		itembox	supplies.giftbox13	5	1510093	1			13		{4,5,6,3,1}						0
+4	5	6	4	40级激励物资箱		itembox	supplies.giftbox14	5	1510094	1			14		{4,5,6,4,1}						0
+4	5	6	5	50级激励物资箱		itembox	supplies.giftbox15	5	1510095	1			15		{4,5,6,5,1}						0
+4	5	6	6	60级激励物资箱		itembox	supplies.giftbox16	5	1510096	1	1		16		{4,5,6,6,1}						0
+4	5	6	7	烨途·天启者聘任包		itembox	supplies.giftbox18	5	1520026	1			601		{4,5,6,7,1}						0
+4	5	6	8	烁夜·武器定制包		itembox	supplies.giftbox19	5	1520028	1			602		{4,5,6,8,1}						0
+4	5	6	9	星灯·资金包		itembox	supplies.giftbox21	5	1520027	1			604		{4,5,6,9,1}						0
+4	5	6	10	熠空·顶级物资包		itembox	supplies.giftbox22	5	1520029	1			605		{4,5,6,10,1}						0
+4	5	6	11	煜街·物资补给包		itembox	supplies.giftbox23	5	1520035	1			606		{4,5,6,11,1}						0
+4	5	6	12	灿歌·天启者聘任包		itembox	supplies.giftbox24	5	1520036	1			607		{4,5,6,12,1}						0
+																					
+4	5	6	13	暗梦·天启者聘任包		itembox	supplies.giftbox25	5	1520032	1			608		{4,5,6,13,1}						0
+4	5	6	14	钨息·天启者聘任包		itembox	supplies.giftbox26	5	1520033	1			609		{4,5,6,14,1}						0
+4	5	6	15	灰岩·资金包		itembox	supplies.giftbox27	5	1520034	1			610		{4,5,6,15,1}						0
+4	5	6	16	钢心·武器定制包		itembox	supplies.giftbox30	5	1520038	1			611		{4,5,6,16,1}						0
+																					
+4	5	6	17	溢晴·天启者聘任包		itembox	supplies.giftbox31	5	1510121	1			612		{4,5,6,17,1}						0
+4	5	6	18	汐金·武器定制包		itembox	supplies.giftbox32	5	1510122	1			613		{4,5,6,18,1}						0
+4	5	6	19	沉鎏·资金包		itembox	supplies.giftbox33	5	1510123	1			614		{4,5,6,19,1}						0
+4	5	6	20	漪云·顶级物资包		itembox	supplies.giftbox34	5	1510124	1			615		{4,5,6,20,1}						0
+4	5	6	21	涓曲·每日物资包		itembox	supplies.giftbox35	5	1510125	1			616		{4,5,6,21,1}						0
+4	5	6	22	潮花·每周天启者聘任包		itembox	supplies.giftbox36	5	1510126	1			617		{4,5,6,22,1}						0
+4	5	6	23	浮星·天启者聘任包		itembox	supplies.giftbox37	5	1510127	1			618		{4,5,6,23,1}						0
+																					
+4	5	6	24	锢隙·天启者聘任包		itembox	supplies.giftbox38	5	1510130	1			619		{4,5,6,24,1}						0
+4	5	6	25	铠山·武器定制包		itembox	supplies.giftbox39	5	1510131	1			620		{4,5,6,25,1}						0
+4	5	6	26	锈雪·资金包		itembox	supplies.giftbox40	5	1510132	1			621		{4,5,6,26,1}						0
+4	5	6	27	锋啸·豪华物资包		itembox	supplies.giftbox55	5	1510133	1			622		{4,5,6,27,1}						0
+4	5	6	28	镐音·每日物资包		itembox	supplies.giftbox42	5	1510134	1			623		{4,5,6,28,1}						0
+4	5	6	29	铸曜·每周天启者聘任包		itembox	supplies.giftbox43	5	1510135	1			624		{4,5,6,29,1}						0
+4	5	6	30	钧步·每周天启者聘任包		itembox	supplies.giftbox44	5	1510136	1			625		{4,5,6,30,1}						0
+																					
+4	5	6	31	纷舞·天启者聘任包		itembox	supplies.giftbox56	5	1510137	1			636		{4,5,6,31,1}						0
+4	5	6	32	缀刃·武器定制包		itembox	supplies.giftbox57	5	1510138	1			637		{4,5,6,32,1}						0
+4	5	6	33	绚空·顶级物资包		itembox	supplies.giftbox58	5	1510139	1			638		{4,5,6,33,1}						0
+4	5	6	34	绅语·资金包		itembox	supplies.giftbox59	5	1510140	1			639		{4,5,6,34,1}						0
+4	5	6	35	循武·每日物资包		itembox	supplies.giftbox60	5	1510141	1			640		{4,5,6,35,1}						0
+4	5	6	36	新缘·每周天启者聘任包		itembox	supplies.giftbox61	5	1510142	1			641		{4,5,6,36,1}						0
+4	5	6	37	续行·每周天启者聘任包		itembox	supplies.giftbox62	5	1510143	1			642		{4,5,6,37,1}						0
+4	5	6	38	织运·成长物资包		itembox	supplies.giftbox63	5	1510144	1			643		{4,5,6,38,1}						0
+4	5	6	39	绮梦·成长物资包		itembox	supplies.giftbox64	5	1510145	1			644		{4,5,6,39,1}						0
+4	5	6	40	缚思·成长物资包		itembox	supplies.giftbox65	5	1510146	1			645		{4,5,6,40,1}						0
+4	5	6	41	绣程·后勤提升包		itembox	supplies.giftbox66	5	1510147	1			646		{4,5,6,41,1}						0
+4	5	6	42	绾春·天启者聘任包		itembox	supplies.giftbox67	5	1510148	1			647		{4,5,6,42,1}						0
+																					
+4	5	6	43	炎逢·每周天启者聘任包		itembox	supplies.giftbox68	5	1510149	1			648		{4,5,6,43,1}						0
+4	5	6	44	炬魂·天启者聘任包		itembox	supplies.giftbox69	5	1510150	1			649		{4,5,6,44,1}						0
+4	5	6	45	熔骨·武器定制包		itembox	supplies.giftbox70	5	1510151	1			650		{4,5,6,45,1}						0
+4	5	6	46	熳原·豪华物资包		itembox	supplies.giftbox71	5	1510152	1			651		{4,5,6,46,1}						0
+4	5	6	47	炯径·资金包		itembox	supplies.giftbox72	5	1510153	1			652		{4,5,6,47,1}						0
+4	5	6	48	烽灵·成长物资包		itembox	supplies.giftbox73	5	1510154	1			653		{4,5,6,48,1}						0
+4	5	6	49	焰道·成长物资包		itembox	supplies.giftbox74	5	1510155	1			654		{4,5,6,49,1}						0
+4	5	6	50	焕想·成长物资包		itembox	supplies.giftbox75	5	1510156	1			655		{4,5,6,50,1}						0
+4	5	6	51	烁才·后勤提升包		itembox	supplies.giftbox76	5	1510157	1			656		{4,5,6,51,1}						0
+																					
+4	5	6	52	涅荫·每周天启者聘任包		itembox	supplies.giftbox77	5	1510158	1			683		{4,5,6,52,1}						0
+4	5	6	53	灏夜·天启者聘任包		itembox	supplies.giftbox78	5	1510159	1			684		{4,5,6,53,1}						0
+4	5	6	54	浣锋·武器定制包		itembox	supplies.giftbox79	5	1510160	1			685		{4,5,6,54,1}						0
+4	5	6	55	澄镜·顶级物资包		itembox	supplies.giftbox80	5	1510161	1			686		{4,5,6,55,1}						0
+4	5	6	56	渥圃·资金包		itembox	supplies.giftbox81	5	1510162	1			687		{4,5,6,56,1}						0
+4	5	6	57	渺念·成长物资包		itembox	supplies.giftbox82	5	1510163	1			688		{4,5,6,57,1}						0
+4	5	6	58	深忆·成长物资包		itembox	supplies.giftbox83	5	1510164	1			689		{4,5,6,58,1}						0
+4	5	6	59	浚虑·成长物资包		itembox	supplies.giftbox84	5	1510165	1			690		{4,5,6,59,1}						0
+4	5	6	60	澹学·后勤提升包		itembox	supplies.giftbox85	5	1510166	1			691		{4,5,6,60,1}						0
+4	5	6	61	蔓桥·天启者聘任包		itembox	supplies.giftbox86	5	1510167	1			692		{4,5,6,61,1}						0
+4	5	6	62	荆丛·武器定制包		itembox	supplies.giftbox87	5	1510168	1			693		{4,5,6,62,1}						0
+4	5	6	63	蓑羽·资金包		itembox	supplies.giftbox88	5	1510169	1			694		{4,5,6,63,1}						0
+4	5	6	64	荧魂·成长物资包		itembox	supplies.giftbox89	5	1510170	1			695		{4,5,6,64,1}						0
+4	5	6	65	萱思·成长物资包		itembox	supplies.giftbox90	5	1510171	1			696		{4,5,6,65,1}						0
+4	5	6	66	苇绪·成长物资包		itembox	supplies.giftbox91	5	1510172	1			697		{4,5,6,66,1}						0
+4	5	6	67	萃肄·后勤提升包		itembox	supplies.giftbox92	5	1510173	1			698		{4,5,6,67,1}						0
+4	5	6	68	焕月·每月天启者聘任包		itembox	supplies.giftbox93	5	1510174	1			699		{4,5,6,68,1}						0
+																					
+4	5	6	69	藏墟·每周天启者聘任包		itembox	supplies.giftbox94	5	1510176	1			750		{4,5,6,69,1}						0
+4	5	6	70	厚壤·天启者聘任包		itembox	supplies.giftbox95	5	1510177	1			751		{4,5,6,70,1}						0
+4	5	6	71	宝域·武器定制包		itembox	supplies.giftbox96	5	1510178	1			752		{4,5,6,71,1}						0
+4	5	6	72	耀城·豪华物资包		itembox	supplies.giftbox97	5	1510179	1			753		{4,5,6,72,1}						0
+4	5	6	73	饶境·资金包		itembox	supplies.giftbox98	5	1510180	1			754		{4,5,6,73,1}						0
+4	5	6	74	巧坞·成长物资包		itembox	supplies.giftbox99	5	1510181	1			755		{4,5,6,74,1}						0
+4	5	6	75	妙垣·成长物资包		itembox	supplies.giftbox100	5	1510182	1			756		{4,5,6,75,1}						0
+4	5	6	76	悬坻·成长物资包		itembox	supplies.giftbox101	5	1510183	1			757		{4,5,6,76,1}						0
+4	5	6	77	晶坯·后勤提升包		itembox	supplies.giftbox102	5	1510184	1			758		{4,5,6,77,1}						0
+																					
+4	5	6	78	风羽·每周天启者聘任包		itembox	supplies.giftbox103	5	1510186	1			761		{4,5,6,78,1}						0
+4	5	6	79	飓啸·顶级物资包		itembox	supplies.giftbox104	5	1510187	1			762		{4,5,6,79,1}						0
+4	5	6	80	飙尘·天启者聘任包		itembox	supplies.giftbox105	5	1510188	1			763		{4,5,6,80,1}						0
+4	5	6	81	飕鸣·武器定制包		itembox	supplies.giftbox106	5	1510189	1			764		{4,5,6,81,1}						0
+4	5	6	82	飘盈·资金包		itembox	supplies.giftbox107	5	1510190	1			765		{4,5,6,82,1}						0
+4	5	6	83	飒行·成长物资包		itembox	supplies.giftbox108	5	1510191	1			766		{4,5,6,83,1}						0
+4	5	6	84	簌翎·成长物资包		itembox	supplies.giftbox109	5	1510192	1			767		{4,5,6,84,1}						0
+4	5	6	85	逸翔·成长物资包		itembox	supplies.giftbox110	5	1510193	1			768		{4,5,6,85,1}						0
+4	5	6	86	岚霏·后勤提升包		itembox	supplies.giftbox111	5	1510194	1			769		{4,5,6,86,1}						0
+4	5	6	87	跃霄·天启者聘任包		itembox	supplies.giftbox112	5	1510195	1			770		{4,5,6,87,1}						0
+4	5	6	88	蔚霞·武器定制包		itembox	supplies.giftbox113	5	1510196	1			771		{4,5,6,88,1}						0
+4	5	6	89	氤雾·资金包		itembox	supplies.giftbox114	5	1510197	1			772		{4,5,6,89,1}						0
+4	5	6	90	氲霁·成长物资包		itembox	supplies.giftbox115	5	1510198	1			773		{4,5,6,90,1}						0
+4	5	6	91	晴霭·成长物资包		itembox	supplies.giftbox116	5	1510199	1			774		{4,5,6,91,1}						0
+4	5	6	92	层霓·成长物资包		itembox	supplies.giftbox117	5	1510200	1			775		{4,5,6,92,1}						0
+4	5	6	93	野氛·后勤提升包		itembox	supplies.giftbox118	5	1510201	1			776		{4,5,6,93,1}						0
+																					
+4	5	6	94	轻诉·每周天启者聘任包		itembox	supplies.giftbox119	5	1510203	1			797		{4,5,6,94,1}						0
+4	5	6	95	归诏·天启者聘任包		itembox	supplies.giftbox120	5	1510204	1			798		{4,5,6,95,1}						0
+4	5	6	96	戎谱·武器定制包		itembox	supplies.giftbox121	5	1510205	1			799		{4,5,6,96,1}						0
+4	5	6	97	智谋·豪华物资包		itembox	supplies.giftbox122	5	1510206	1			800		{4,5,6,97,1}						0
+4	5	6	98	默访·资金包		itembox	supplies.giftbox123	5	1510207	1			801		{4,5,6,98,1}						0
+4	5	6	99	鉴证·成长物资包		itembox	supplies.giftbox124	5	1510208	1			802		{4,5,6,99,1}						0
+4	5	6	100	战记·成长物资包		itembox	supplies.giftbox125	5	1510209	1			803		{4,5,6,100,1}						0
+4	5	6	101	捷讯·成长物资包		itembox	supplies.giftbox126	5	1510210	1			804		{4,5,6,101,1}						0
+4	5	6	102	围议·后勤提升包		itembox	supplies.giftbox127	5	1510211	1			805		{4,5,6,102,1}						0
+																					
+4	5	6	103	凉抚·每周天启者聘任包		itembox	supplies.giftbox128	5	1510212	1			806		{4,5,6,103,1}						0
+4	5	6	104	凝珠·顶级物资包		itembox	supplies.giftbox129	5	1510213	1			807		{4,5,6,104,1}						0
+4	5	6	105	冰酪·天启者聘任包		itembox	supplies.giftbox130	5	1510214	1			808		{4,5,6,105,1}						0
+4	5	6	106	冻冻·武器定制包		itembox	supplies.giftbox131	5	1510215	1			809		{4,5,6,106,1}						0
+4	5	6	107	凛翠·资金包		itembox	supplies.giftbox132	5	1510216	1			810		{4,5,6,107,1}						0
+4	5	6	108	甜冽·成长物资包		itembox	supplies.giftbox133	5	1510217	1			811		{4,5,6,108,1}						0
+4	5	6	109	净泉·成长物资包		itembox	supplies.giftbox134	5	1510218	1			812		{4,5,6,109,1}						0
+4	5	6	110	冷蜜·成长物资包		itembox	supplies.giftbox135	5	1510219	1			813		{4,5,6,110,1}						0
+4	5	6	111	糖凇·后勤提升包		itembox	supplies.giftbox136	5	1510220	1			814		{4,5,6,111,1}						0
+4	5	6	112	涛湍·天启者聘任包		itembox	supplies.giftbox137	5	1510221	1			815		{4,5,6,112,1}						0
+4	5	6	113	浪涌·武器定制包		itembox	supplies.giftbox138	5	1510222	1			816		{4,5,6,113,1}						0
+4	5	6	114	流念·资金包		itembox	supplies.giftbox139	5	1510223	1			817		{4,5,6,114,1}						0
+4	5	6	115	泓隐·成长物资包		itembox	supplies.giftbox140	5	1510224	1			818		{4,5,6,115,1}						0
+4	5	6	116	沫散·成长物资包		itembox	supplies.giftbox141	5	1510225	1			819		{4,5,6,116,1}						0
+4	5	6	117	汀奏·成长物资包		itembox	supplies.giftbox142	5	1510226	1			820		{4,5,6,117,1}						0
+4	5	6	118	溪旅·后勤提升包		itembox	supplies.giftbox143	5	1510227	1			821		{4,5,6,118,1}						0
+																					
+4	5	6	119	辟垦·每周天启者聘任包		itembox	supplies.giftbox144	5	1510229	1			823		{4,5,6,119,1}						0
+4	5	6	120	晖坠·天启者聘任包		itembox	supplies.giftbox145	5	1510230	1			824		{4,5,6,120,1}						0
+4	5	6	121	琢圭·武器定制包		itembox	supplies.giftbox146	5	1510231	1			825		{4,5,6,121,1}						0
+4	5	6	122	峰壑·豪华物资包		itembox	supplies.giftbox147	5	1510232	1			826		{4,5,6,122,1}						0
+4	5	6	123	崖堑·资金包		itembox	supplies.giftbox148	5	1510233	1			827		{4,5,6,123,1}						0
+4	5	6	124	观壁·成长物资包		itembox	supplies.giftbox149	5	1510234	1			828		{4,5,6,124,1}						0
+4	5	6	125	砂垒·成长物资包		itembox	supplies.giftbox150	5	1510235	1			829		{4,5,6,125,1}						0
+4	5	6	126	荒垄·成长物资包		itembox	supplies.giftbox151	5	1510236	1			830		{4,5,6,126,1}						0
+4	5	6	127	摧坚·后勤提升包		itembox	supplies.giftbox152	5	1510237	1			831		{4,5,6,127,1}						0
+																					
+4	5	6	128	炙阳·每周天启者聘任包		itembox	supplies.giftbox153	5	1510239	1			832								0
+4	5	6	129	灵现·天启者聘任包		itembox	supplies.giftbox154	5	1510240	1			833								0
+4	5	6	130	焚铄·武器定制包		itembox	supplies.giftbox155	5	1510241	1			834								0
+4	5	6	131	焱勇·豪华物资包		itembox	supplies.giftbox156	5	1510242	1			835								0
+4	5	6	132	燎金·资金包		itembox	supplies.giftbox157	5	1510243	1			836								0
+4	5	6	133	燃犀·成长物资包		itembox	supplies.giftbox158	5	1510244	1			837								0
+4	5	6	134	炽盛·成长物资包		itembox	supplies.giftbox159	5	1510245	1			838								0
+4	5	6	135	烬腾·成长物资包		itembox	supplies.giftbox160	5	1510246	1			839								0
+4	5	6	136	炼骨·后勤提升包		itembox	supplies.giftbox161	5	1510247	1			840								0
+																					
+4	5	6	137	琳秀·每周天启者聘任包		itembox	supplies.giftbox162	5	1510250	1			842								0
+4	5	6	138	华琅·顶级物资包		itembox	supplies.giftbox163	5	1510251	1			843								0
+4	5	6	139	璇姿·天启者聘任包		itembox	supplies.giftbox164	5	1510252	1			844								0
+4	5	6	140	琼枝·武器定制包		itembox	supplies.giftbox165	5	1510253	1			845								0
+4	5	6	141	锦瑰·资金包		itembox	supplies.giftbox166	5	1510254	1			846								0
+4	5	6	142	稀珍·成长物资包		itembox	supplies.giftbox167	5	1510255	1			847								0
+4	5	6	143	绯玑·成长物资包		itembox	supplies.giftbox168	5	1510256	1			848								0
+4	5	6	144	彤珠·成长物资包		itembox	supplies.giftbox169	5	1510257	1			849								0
+4	5	6	145	香璎·后勤提升包		itembox	supplies.giftbox170	5	1510258	1			850								0
+4	5	6	146	琉彩·天启者聘任包		itembox	supplies.giftbox171	5	1510259	1			851								0
+4	5	6	147	琢器·武器定制包		itembox	supplies.giftbox172	5	1510260	1			852								0
+4	5	6	148	玫印·资金包		itembox	supplies.giftbox173	5	1510261	1			853								0
+4	5	6	149	素珞·成长物资包		itembox	supplies.giftbox174	5	1510262	1			854								0
+4	5	6	150	赤瑶·成长物资包		itembox	supplies.giftbox175	5	1510263	1			855								0
+4	5	6	151	丹瑾·成长物资包		itembox	supplies.giftbox176	5	1510264	1			856								0
+4	5	6	152	花珀·后勤提升包		itembox	supplies.giftbox177	5	1510265	1			857								0
+																					
+4	5	6	153	风绻·每周天启者聘任包		itembox	supplies.giftbox178	5	1510267	1			859								0
+4	5	6	154	飘寻·天启者聘任包		itembox	supplies.giftbox179	5	1510268	1			860								0
+4	5	6	155	飒影·武器定制包		itembox	supplies.giftbox180	5	1510269	1			861								0
+4	5	6	156	幻翼·豪华物资包		itembox	supplies.giftbox181	5	1510270	1			862								0
+4	5	6	157	星翌·资金包		itembox	supplies.giftbox182	5	1510271	1			863								0
+4	5	6	158	渺岚·成长物资包		itembox	supplies.giftbox183	5	1510272	1			864								0
+4	5	6	159	翎光·成长物资包		itembox	supplies.giftbox184	5	1510273	1			865								0
+4	5	6	160	翩舞·成长物资包		itembox	supplies.giftbox185	5	1510274	1			866								0
+4	5	6	161	羽盈·后勤提升包		itembox	supplies.giftbox186	5	1510275	1			867								0
+																					
+4	5	6	162	湄迹·每周天启者聘任包		itembox	supplies.giftbox187	5	1510283	1			869								0
+4	5	6	163	洄觅·天启者聘任包		itembox	supplies.giftbox188	5	1510284	1			870								0
+4	5	6	164	澄械·武器定制包		itembox	supplies.giftbox189	5	1510285	1			871								0
+4	5	6	165	漩能·豪华物资包		itembox	supplies.giftbox190	5	1510286	1			872								0
+4	5	6	166	溟镞·资金包		itembox	supplies.giftbox191	5	1510287	1			873								0
+4	5	6	167	沫迁·成长物资包		itembox	supplies.giftbox192	5	1510288	1			874								0
+4	5	6	168	涟狩·成长物资包		itembox	supplies.giftbox193	5	1510289	1			875								0
+4	5	6	169	漪震·成长物资包		itembox	supplies.giftbox194	5	1510290	1			876								0
+4	5	6	170	湫闻·后勤提升包		itembox	supplies.giftbox195	5	1510291	1			877								0
+																					
+4	5	6	171	幻钥·每周天启者聘任包		itembox	supplies.giftbox196	5	1510292	1			878								0
+4	5	6	172	虚键·天启者聘任包		itembox	supplies.giftbox197	5	1510293	1			879								0
+4	5	6	173	谶迹·武器定制包		itembox	supplies.giftbox198	5	1510294	1			880								0
+4	5	6	174	邃理·豪华物资包		itembox	supplies.giftbox199	5	1510295	1			881								0
+4	5	6	175	悖码·资金包		itembox	supplies.giftbox200	5	1510296	1			882								0
+4	5	6	176	谜蜕·成长物资包		itembox	supplies.giftbox201	5	1510297	1			883								0
+4	5	6	177	伪序·成长物资包		itembox	supplies.giftbox202	5	1510298	1			884								0
+4	5	6	178	逆因·成长物资包		itembox	supplies.giftbox203	5	1510299	1			885								0
+4	5	6	179	诡契·后勤提升包		itembox	supplies.giftbox204	5	1510300	1			886								0
+																					
+4	5	6	180	题献·每周天启者聘任包		itembox	supplies.giftbox205	5	1510301	1			842								0
+4	5	6	181	智辩·顶级物资包		itembox	supplies.giftbox206	5	1510302	1			843								0
+4	5	6	182	誓曲·天启者聘任包		itembox	supplies.giftbox207	5	1510303	1			844								0
+4	5	6	183	证冕·武器定制包		itembox	supplies.giftbox208	5	1510304	1			845								0
+4	5	6	184	谶序·资金包		itembox	supplies.giftbox209	5	1510305	1			846								0
+4	5	6	185	赋格·成长物资包		itembox	supplies.giftbox210	5	1510306	1			847								0
+4	5	6	186	哲颂·成长物资包		itembox	supplies.giftbox211	5	1510307	1			848								0
+4	5	6	187	夜理·成长物资包		itembox	supplies.giftbox212	5	1510308	1			849								0
+4	5	6	188	阈契·后勤提升包		itembox	supplies.giftbox213	5	1510309	1			850								0
+4	5	6	189	星绎·天启者聘任包		itembox	supplies.giftbox214	5	1510310	1			851								0
+4	5	6	190	思曜·武器定制包		itembox	supplies.giftbox215	5	1510311	1			852								0
+4	5	6	191	秘谕·资金包		itembox	supplies.giftbox216	5	1510312	1			853								0
+4	5	6	192	梦谒·成长物资包		itembox	supplies.giftbox217	5	1510313	1			854								0
+4	5	6	193	典钥·成长物资包		itembox	supplies.giftbox218	5	1510314	1			855								0
+4	5	6	194	律锚·成长物资包		itembox	supplies.giftbox219	5	1510315	1			856								0
+4	5	6	195	箴言·后勤提升包		itembox	supplies.giftbox220	5	1510316	1			857								0
+																					
+4	5	6	196	夜礼·每周天启者聘任包		itembox	supplies.giftbox221	5	1510317	1			878								0
+4	5	6	197	夜礼·天启者聘任包		itembox	supplies.giftbox222	5	1510318	1			879								0
+4	5	6	198	夜礼·武器定制包		itembox	supplies.giftbox223	5	1510319	1			880								0
+4	5	6	199	夜礼·豪华物资包		itembox	supplies.giftbox224	5	1510320	1			881								0
+4	5	6	200	夜礼·成长资金包		itembox	supplies.giftbox225	5	1510321	1			882								0
+4	5	6	201	夜礼·神经突破包		itembox	supplies.giftbox226	5	1510322	1			883								0
+4	5	6	202	夜礼·等级提升包		itembox	supplies.giftbox227	5	1510323	1			884								0
+4	5	6	203	夜礼·神经通导包		itembox	supplies.giftbox228	5	1510324	1			885								0
+4	5	6	204	夜礼·后勤提升包		itembox	supplies.giftbox229	5	1510325	1			886								0
+																					
+4	5	6	205	悦汐·每周天启者聘任包		itembox	supplies.giftbox230	5	1510326	1			842								0
+4	5	6	206	悦汐·顶级物资包		itembox	supplies.giftbox231	5	1510327	1			843								0
+4	5	6	207	悦汐·天启者聘任包		itembox	supplies.giftbox232	5	1510328	1			844								0
+4	5	6	208	悦汐·武器定制包		itembox	supplies.giftbox233	5	1510329	1			845								0
+4	5	6	209	悦汐·成长物资包		itembox	supplies.giftbox234	5	1510330	1			846								0
+4	5	6	210	悦汐·神经突破包		itembox	supplies.giftbox235	5	1510331	1			847								0
+4	5	6	211	悦汐·等级提升包		itembox	supplies.giftbox236	5	1510332	1			848								0
+4	5	6	212	悦汐·神经通导包		itembox	supplies.giftbox237	5	1510333	1			849								0
+4	5	6	213	悦汐·后勤提升包		itembox	supplies.giftbox238	5	1510334	1			850								0
+4	5	6	214	翩澜·天启者聘任包		itembox	supplies.giftbox239	5	1510335	1			851								0
+4	5	6	215	翩澜·武器定制包		itembox	supplies.giftbox240	5	1510336	1			852								0
+4	5	6	216	翩澜·成长物资包		itembox	supplies.giftbox241	5	1510337	1			853								0
+4	5	6	217	翩澜·神经突破包		itembox	supplies.giftbox242	5	1510338	1			854								0
+4	5	6	218	翩澜·等级提升包		itembox	supplies.giftbox243	5	1510339	1			855								0
+4	5	6	219	翩澜·神经通导包		itembox	supplies.giftbox244	5	1510340	1			856								0
+4	5	6	220	翩澜·后勤提升包		itembox	supplies.giftbox245	5	1510341	1			857								0
+																					
+4	5	6	221	常驻自选角色礼包（商城）		itembox	supplies.giftbox248	5	1510343	1			895								0
+4	5	6	222	常驻自选武器礼包（商城）		itembox	supplies.giftbox249	5	1510344	1			896								0
+4	5	6	223	星谒·每周天启者聘任包		itembox	supplies.giftbox250	5	1510345	1			878								0
+4	5	6	224	星谒·天启者聘任包		itembox	supplies.giftbox251	5	1510346	1			879								0
+4	5	6	225	星谒·武器定制包		itembox	supplies.giftbox252	5	1510347	1			880								0
+4	5	6	226	星谒·豪华物资包		itembox	supplies.giftbox253	5	1510348	1			881								0
+4	5	6	227	星谒·成长资金包		itembox	supplies.giftbox254	5	1510349	1			882								0
+4	5	6	228	星谒·神经突破包		itembox	supplies.giftbox255	5	1510350	1			883								0
+4	5	6	229	星谒·等级提升包		itembox	supplies.giftbox256	5	1510351	1			884								0
+4	5	6	230	星谒·神经通导包		itembox	supplies.giftbox257	5	1510352	1			885								0
+4	5	6	231	星谒·后勤提升包		itembox	supplies.giftbox258	5	1510353	1			886								0
+4	5	6	232	常驻自选定制后勤礼包（商城）		itembox	supplies.giftbox259	5	1510354	1			897								0
+4	5	6	233	炽念·每周天启者聘任包		itembox	supplies.giftbox260	5	1510355	1			878								0
+4	5	6	234	炽念·天启者聘任包		itembox	supplies.giftbox261	5	1510356	1			879								0
+4	5	6	235	炽念·武器定制包		itembox	supplies.giftbox262	5	1510357	1			880								0
+4	5	6	236	炽念·豪华物资包		itembox	supplies.giftbox263	5	1510358	1			881								0
+4	5	6	237	炽念·成长资金包		itembox	supplies.giftbox264	5	1510359	1			882								0
+4	5	6	238	炽念·神经突破包		itembox	supplies.giftbox265	5	1510360	1			883								0
+4	5	6	239	炽念·等级提升包		itembox	supplies.giftbox266	5	1510361	1			884								0
+4	5	6	240	炽念·神经通导包		itembox	supplies.giftbox267	5	1510362	1			885								0
+4	5	6	241	炽念·后勤提升包		itembox	supplies.giftbox268	5	1510363	1			886								0
+																					
+4	5	6	242	新誓·每周天启者聘任包		itembox	supplies.giftbox274	5	1510364	1			842								0
+4	5	6	243	新誓·顶级物资包		itembox	supplies.giftbox275	5	1510365	1			843								0
+4	5	6	244	新誓·天启者聘任包		itembox	supplies.giftbox276	5	1510366	1			844								0
+4	5	6	245	新誓·武器定制包		itembox	supplies.giftbox277	5	1510367	1			845								0
+4	5	6	246	新誓·成长物资包		itembox	supplies.giftbox278	5	1510368	1			846								0
+4	5	6	247	新誓·神经突破包		itembox	supplies.giftbox279	5	1510369	1			847								0
+4	5	6	248	新誓·等级提升包		itembox	supplies.giftbox280	5	1510370	1			848								0
+4	5	6	249	新誓·神经通导包		itembox	supplies.giftbox281	5	1510371	1			849								0
+4	5	6	250	新誓·后勤提升包		itembox	supplies.giftbox282	5	1510372	1			850								0
+4	5	6	251	梦舟·天启者聘任包		itembox	supplies.giftbox283	5	1510373	1			851								0
+4	5	6	252	梦舟·武器定制包		itembox	supplies.giftbox284	5	1510374	1			852								0
+4	5	6	253	梦舟·成长物资包		itembox	supplies.giftbox285	5	1510375	1			853								0
+4	5	6	254	梦舟·神经突破包		itembox	supplies.giftbox286	5	1510376	1			854								0
+4	5	6	255	梦舟·等级提升包		itembox	supplies.giftbox287	5	1510377	1			855								0
+4	5	6	256	梦舟·神经通导包		itembox	supplies.giftbox288	5	1510378	1			856								0
+4	5	6	257	梦舟·后勤提升包		itembox	supplies.giftbox289	5	1510379	1			857								0
+																					
+4	5	6	258	春意·每周天启者聘任包		itembox	supplies.giftbox290	5	1510380	1			878								0
+4	5	6	259	春意·天启者聘任包		itembox	supplies.giftbox291	5	1510381	1			879								0
+4	5	6	260	春意·武器定制包		itembox	supplies.giftbox292	5	1510382	1			880								0
+4	5	6	261	春意·豪华物资包		itembox	supplies.giftbox293	5	1510383	1			881								0
+4	5	6	262	春意·成长资金包		itembox	supplies.giftbox294	5	1510384	1			882								0
+4	5	6	263	春意·神经突破包		itembox	supplies.giftbox295	5	1510385	1			883								0
+4	5	6	264	春意·等级提升包		itembox	supplies.giftbox296	5	1510386	1			884								0
+4	5	6	265	春意·神经通导包		itembox	supplies.giftbox297	5	1510387	1			885								0
+4	5	6	266	春意·后勤提升包		itembox	supplies.giftbox298	5	1510388	1			886								0
+																					
+																					
+4	15	1	1	【互动情景·婪夜】预售礼盒		itembox	supplies.presellbox_01	5	1510228	2			822		{4,15,1,1,1}			2024-11-07T11:00:00			0
+4	15	1	2	【互动情景·暖夜恒约】预售礼盒		itembox	supplies.presellbox_02	5	1510266	2			858		{4,15,1,2,1}			2025-03-06T10:00:00			0
+4	15	1	3	【互动情景·澈心】预售礼盒		itembox	supplies.presellbox_03	5	1510342	2			890		{4,15,1,3,1}			2025-11-06T04:00:00			0
+																					
+4	16	1	1	天鹅座泳装AR拓展包		itembox	supplies.arbox001	5	1510228	1			1601		{4,16,1,1,1}						0
+4	16	1	2	奈莉德泳装AR拓展包		itembox	supplies.arbox002	5	1510266	1			1602		{4,16,1,2,1}						0
+																					
+4	8	1	1	最全捆绑包（甜蜜统治+全糖蜜令）		itembox	supplies.bundlebox1	5		1			2001		{4,8,1,1,1}						0
+4	8	1	2	捆绑包（只有甜蜜统治）		itembox	supplies.bundlebox1	5		1			2002		{4,8,1,2,1}						0
+4	8	1	3	捆绑包（只有全糖蜜令）		itembox	supplies.bundlebox1	5		1			2003		{4,8,1,3,1}						0
+																					
+4	8	2	1	最全捆绑包（轻语疗法+恩雅皮肤互动道具）		itembox	supplies.bundlebox2	5		1			2004		{4,8,2,1,1}						0
+4	8	2	2	捆绑包（只有恩雅皮肤互动道具）		itembox	supplies.bundlebox2	5		1			2005		{4,8,2,2,1}						0
+																					
+4	8	3	1	捆绑包（里芙恒约皮+恒约互动+恒约武器皮）		itembox	supplies.bundlebox3	5		1			2006		{4,8,2,3,1}						0
+4	8	4	1	捆绑包（芬妮恒约皮+恒约互动+恒约武器皮）		itembox	supplies.bundlebox4	5		1			2007		{4,8,2,4,1}						0
+																					
+4	8	5	1	捆绑包（凯茜娅-朝翼-沐浪倦姿+互动情景·绚洋+碳酸假日）		itembox	supplies.bundlebox1003	5		1			2008		{4,8,5,1,1}						0
+4	8	6	1	捆绑包（茉莉安-幽潮-灿阳一刻+【互动情景·婪夜】预售礼盒+未来心跳）		itembox	supplies.bundlebox1004	5		1			2009		{4,8,6,1,1}						0
+4	8	6	2	捆绑包（茉莉安-幽潮-灿阳一刻+互动情景·婪夜+未来心跳）		itembox	supplies.bundlebox1004	5		1			2010		{4,8,6,2,1}						0
+																					
+4	8	7	1	捆绑包（2.3芙提雅-毛绒派对+熊熊突击）		itembox	supplies.bundlebox1005	5		1			2011		{4,8,7,1,1}						0
+4	8	8	1	捆绑包（瑟瑞斯-瞬刻-斑斓水色+澈海之约）		itembox	supplies.bundlebox1006	5		1			2012		{4,8,8,1,1}						0
+																					
+4	8	9	1	捆绑包（琴诺-清荷雅弈+武器皮）		itembox	supplies.bundlebox1008	5		1			2013								0
+4	8	10	1	捆绑包（伊切尔-捕猎演习对+武器皮）		itembox	supplies.bundlebox1007	5		1			2014								0
+																					
+4	8	11	1	捆绑包（辰星-琼弦-欣描红妆+互动情景·红妆恒约+终古比翼）		itembox	supplies.bundlebox1009	5		1			2015								0
+4	8	12	1	捆绑包（肴-夜天光-暖夜情醺+春携良缘）		itembox	supplies.bundlebox1010	5		1			2016								0
+4	8	12	2	捆绑包（肴-夜天光-暖夜情醺+互动情景·暖夜恒约+春携良缘）		itembox	supplies.bundlebox1012	5		1			2018								0
+4	8	13	1	捆绑包（芬妮-辉耀-金狮舞瑞+耀舞迎春）		itembox	supplies.bundlebox1011	5		1			2017								0
+																					
+4	8	14	1	捆绑包（恩雅-澜风-望云清咏+聆听本真）		itembox	supplies.bundlebox1013	5		1			2019								0
+4	8	15	1	捆绑包（龙舌兰-舞夜与焰+星夜流沙）		itembox	supplies.bundlebox1014	5		1			2020								0
+4	8	16	1	捆绑包（茉莉安-幽潮-绒尾迷梦+危甜信号）		itembox	supplies.bundlebox1015	5		1			2021								0
+																					
+4	8	17	1	捆绑包（妮塔悸响-林间潋滟+互动+武器皮）		itembox	supplies.bundlebox1016	5		1			2022								0
+4	8	18	1	捆绑包（卜卜-元气愈养+武器皮）		itembox	supplies.bundlebox1017	5		1			2023								0
+4	8	19	1	捆绑包（凯茜娅-朝翼-绮锦流韵+武器皮）		itembox	supplies.bundlebox1018	5		1			2024								0
+																					
+4	8	20	1	捆绑包（薇蒂雅-天鹅座-云端之邀+武器皮）		itembox	supplies.bundlebox1020	5		1			2025								0
+4	8	21	1	捆绑包（芙提雅-驰掣--泳池护卫+武器皮）		itembox	supplies.bundlebox1021	5		1			2026								0
+4	8	22	1	捆绑包（辰星-琼弦-慵倚花阴+武器皮）		itembox	supplies.bundlebox1022	5		1			2027								0
+																					
+4	8	23	1	捆绑包（凯茜娅-狂诗-星抚恋音+互动+武器皮）		itembox	supplies.bundlebox1023	5		1			2028								0
+4	8	24	1	捆绑包（苔丝-绮幻-恋如花舞+互动+武器皮）		itembox	supplies.bundlebox1024	5		1			2029								0
+4	8	25	1	捆绑包（恩雅-澜风-秘密侍奉+武器皮）		itembox	supplies.bundlebox1025	5		1			2030								0
+4	8	26	1	捆绑包（卜卜-小天师-畅饮狂欢+武器皮）		itembox	supplies.bundlebox1026	5		1			2031								0
+																					
+4	8	27	1	捆绑包（克罗瑞娜【绯月】-皎月幽祈+武器皮）		itembox	supplies.bundlebox1027	5		1			2032								0
+4	8	28	1	捆绑包（妮塔【悸响】-轻罗曼舞+武器皮）		itembox	supplies.bundlebox1028	5		1			2033								0
+4	8	29	1	捆绑包（肴【夜天光】-共待曙明+武器皮）		itembox	supplies.bundlebox1029	5		1			2034								0
+4	8	30	1	捆绑包（奈莉德【冥河代理人】-晨曦统令+部件+武器皮）		itembox	supplies.bundlebox1030	5		1			2035								0
+																					
+4	8	31	1	捆绑包（芬妮【澄意】-夕晖蜜约+互动+武器皮）		itembox	supplies.bundlebox1031	5		1			2036								0
+4	8	32	1	捆绑包（瑟瑞斯【悠游】-碧波浮游+互动(预售)+武器皮）		itembox	supplies.bundlebox1032	5		1			2037								0
+4	8	32	2	捆绑包（瑟瑞斯【悠游】-碧波浮游+互动+武器皮）		itembox	supplies.bundlebox1035	5		1			2040								0
+4	8	33	1	捆绑包（奈莉德【冥河代理人】-热沙激浪+武器皮）		itembox	supplies.bundlebox1033	5		1			2038								0
+4	8	34	1	捆绑包（薇蒂雅【天鹅座】-海境鲛梦+武器皮）		itembox	supplies.bundlebox1034	5		1			2039								0
+																					
+4	8	35	1	捆绑包（米娅【星彩】-暗空魅影+武器皮）		itembox	supplies.bundlebox1036	5		1			2041								0
+4	8	36	1	捆绑包（晴【霆光】-清光虔愿+部件+武器皮）		itembox	supplies.bundlebox1037	5		1			2042								0
+4	8	37	1	捆绑包（凯茜娅【狂诗】-花间蝶踪武器皮）		itembox	supplies.bundlebox1038	5		1			2043								0
+																					
+4	8	38	1	捆绑包（卜卜-灵鉴【绮恋星灵】带部件+武器皮+电话陪伴）		itembox	supplies.bundlebox1039	5		1			2044								0
+4	8	39	1	捆绑包（猫汐尔-莲驱【喵语祈念】+武器皮）		itembox	supplies.bundlebox1040	5		1			2045								0
+4	8	40	1	捆绑包（芬妮-澄意【颂夜欢歌】+武器皮）		itembox	supplies.bundlebox1041	5		1			2046								0
+																					
+4	8	41	1	捆绑包（安卡希雅-时之重奏【缘音回响】+互动+武器皮）		itembox	supplies.bundlebox1042	5		1			2047								0
+4	8	42	1	捆绑包（茉莉安-霄鹰【纯白恋羽】+互动+武器皮）		itembox	supplies.bundlebox1043	5		1			2048								0
+4	8	43	1	捆绑包（瑟瑞斯-悠游【霄倾君怀】+武器皮）		itembox	supplies.bundlebox1044	5		1			2049								0
+4	8	44	1	捆绑包（米娅-星彩【祥云徜戏】+武器皮）		itembox	supplies.bundlebox1045	5		1			2050								0
+																					
+4	8	45	1	捆绑包（胧嫣-瑞狐【珠光曳影】+武器皮）		itembox	supplies.bundlebox1046	5		1			2051								0
+4	8	46	1	捆绑包（芙提雅-炬芯【国主驾到】+武器皮）		itembox	supplies.bundlebox1047	5		1			2052								0
+4	8	47	1	捆绑包（晴-霆光【剑意逍遥】+武器皮）		itembox	supplies.bundlebox1048	5		1			2053								0
+																					
+4	5	7	3	常规武器适配舱2号		itembox	supplies.weaponA2_Select	4	1510068	2	1		3051		{4,5,7,3,1}						0
+4	5	7	4	高级武器适配舱		itembox	supplies.weaponS_Select	5	1510069	2	1		306		{4,5,7,4,1}						0
+4	5	7	5	常规武器适配舱1号		itembox	supplies.weaponA1_Select	4	1510068	2	1		305		{4,5,7,5,1}						0
+4	5	7	6	高级武器适配舱		itembox	supplies.weaponS1_Select	5	1510069	2	1		318	1	{4,5,7,6,1}						0
+4	5	7	7	DLC23高级武器适配舱		itembox	supplies.weaponS1_Select	5	1510069	2	1		319	1	{4,5,7,7,1}						0
+4	5	7	8	2周年高级武器适配舱		itembox	supplies.weaponS2_Select	5	1510069	2	1		321	1							0
+4	5	7	9	常驻自选武器礼包（背包）		itembox	supplies.giftbox249	5	1510344	2	1		894	1							0
+4	5	7	10	朝夕同行·高级武器适配舱		itembox	supplies.weaponS3_Select	5	1510069	2	1		322	1							0
+4	5	8	3	常规后勤聘用名录		itembox	supplies.supportA_Select	4	1510070	2	1		301		{4,5,8,3,1}						0
+4	5	8	4	高级后勤聘用名录		itembox	supplies.supportS_Select	5	1510071	2	1		302		{4,5,8,4,1}						0
+4	5	9	3	常规天启者邀请函		itembox	supplies.cardA_Select	4	1510072	2	1		3031		{4,5,9,3,1}						0
+4	5	9	4	高级天启者邀请函		itembox	supplies.cardS_Select	5	1510073	2	1		3041		{4,5,9,4,1}						0
+4	5	9	5	DLC10高级天启者邀请函		itembox	supplies.cardS_Select	5	1510073	2	1		3042	1	{4,5,9,5,1}						0
+4	5	9	6	DLC23高级天启者邀请函		itembox	supplies.cardS_Select	5	1510073	2	1		3043	1	{4,5,9,6,1}						0
+4	5	9	7	DLC25高级天启者邀请函		itembox	supplies.cardS_Select	5	1510073	2	1		3044	1	{4,5,9,7,1}						0
+4	5	9	8	2周年高级天启者邀请函		itembox	supplies.cardS2_Select	5	1510073	2	1		3045	1							0
+4	5	9	9	常驻自选角色礼包（背包）		itembox	supplies.giftbox248	5	1510343	2	1		893	1							0
+4	5	9	10	定制后勤自选箱（背包）		itembox	supplies.giftbox269	5	1510354	2	1		898	1							0
+4	5	9	11	【里芙-无限之视】定制后勤（箱）		itembox	supplies.giftbox270	5	1520121	1	1		899								0
+4	5	9	12	【瑟瑞斯-瞬刻】定制后勤（箱）		itembox	supplies.giftbox271	5	1520122	1	1		900								0
+4	5	9	13	【琴诺-悖谬】定制后勤（箱）		itembox	supplies.giftbox272	5	1520123	1	1		901								0
+4	5	9	14	【凯茜娅-蓝闪】定制后勤（箱）		itembox	supplies.giftbox273	5	1520124	1	1		902								0
+4	5	9	15	3.5高级天启者邀请函		itembox	supplies.cardS3_Select	5	1510073	2	1		3046	1							0
+4	5	9	16	朝夕同行·高级天启者邀请函		itembox	supplies.cardS4_Select	5	1510073	2	1		3047	1							0
+4	5	10	4	提取物适配包		itembox	supplies.fragment_Select	5	1510078	2	1		307		{4,5,10,4,1}						0
+4	5	10	5	魂芯·提取物适配包		itembox	supplies.fragmentS_Select	5	1510078	2	1		313		{4,5,10,5,1}						0
+4	5	11	4	超元补给包		itembox	supplies.online_box	5	1510063	2	1		309		{4,5,11,4,1}						0
+4	5	12	3	先遣武器适配舱		itembox	supplies.bp_box	4	1510079	2	1		311		{4,5,12,3,1}						0
+4	5	14	3	昼朗武器适配舱		itembox	supplies.bp_box2	4	1510079	2	1		311		{4,5,12,3,1}						0
+4	5	15	3	盛海武器适配舱		itembox	supplies.bpweaponbox3	4	1510079	2	1		311		{4,5,12,3,1}						0
+4	5	16	3	绘霜武器适配舱		itembox	supplies.bpweaponbox4	4	1510079	2	1		311		{4,5,12,3,1}						0
+4	5	17	3	澄音武器适配舱		itembox	supplies.bpweaponbox5	4	1510079	2	1		314		{4,5,17,3,1}						0
+4	5	19	3	焰光武器适配舱		itembox	supplies.bpweaponbox6	4	1510079	2	1		315		{4,5,19,3,1}						0
+4	5	20	3	夜阑武器适配舱		itembox	supplies.bpweaponbox7	4	1510079	2	1		316		{4,5,20,3,1}						0
+4	5	21	3	空岛武器适配舱		itembox	supplies.bpweaponbox8	4	1510079	2	1		317		{4,5,21,3,1}						0
+4	5	22	3	息风武器适配舱		itembox	supplies.bpweaponbox9	4	1510079	2	1		317		{4,5,22,3,1}						0
+4	5	12	4	星辉武器适配舱		itembox	supplies.bpweaponbox10	4	1510079	2	1		317		{4,5,12,4,1}						0
+4	5	12	5	星海武器适配舱		itembox	supplies.bpweaponbox11	4	1510079	2	1		317		{4,5,12,4,1}						0
+4	5	12	6	鸣沙武器适配舱		itembox	supplies.bpweaponbox12	4	1510079	2	1		317		{4,5,12,6,1}						0
+4	5	12	7	晶岩武器适配舱		itembox	supplies.bpweaponbox13	4	1510079	2	1		317		{4,5,12,7,1}						0
+4	5	12	8	栖心武器适配舱		itembox	supplies.bpweaponbox14	4	1510079	2	1		317		{4,5,12,8,1}						0
+4	5	12	9	绚花武器适配舱		itembox	supplies.bpweaponbox15	4	1510079	2	1		317		{4,5,12,9,1}						0
+4	5	12	10	渊源武器适配舱		itembox	supplies.bpweaponbox16	4	1510079	2	1		317		{4,5,12,10,1}						0
+4	5	12	11	变格武器适配舱		itembox	supplies.bpweaponbox17	4	1510079	2	1		317								0
+4	5	12	12	真理武器适配舱		itembox	supplies.bpweaponbox18	4	1510079	2	1		317								0
+4	5	12	13	蔷薇武器适配舱		itembox	supplies.bpweaponbox19	4	1510079	2	1		317								0
+4	5	12	14	漾彩武器适配舱		itembox	supplies.bpweaponbox20	4	1510079	2	1		317								0
+4	5	12	15	天扉武器适配舱		itembox	supplies.bpweaponbox21	4	1510079	2	1		317								0
+4	5	12	16	勇气武器适配舱		itembox	supplies.bpweaponbox22	4	1510079	2	1		317								0
+4	5	12	17	汐梦武器适配舱		itembox	supplies.bpweaponbox23	4	1510079	2	1		317								0
+4	5	12	18	煦风武器适配舱		itembox	supplies.bpweaponbox24	4	1510079	2	1		317								0
+																					
+4	5	13	1	新程启礼七日签到第一天		itembox	supplies.giftbox246	4	130140005	1			891								0
+4	5	13	2	新程启礼七日签到第二天		itembox	supplies.giftbox247	5	1510073	1			892								0
+																					
+4	5	22	5	随机天启者提取物箱		itembox	supplies.randomrolebox01	5	1520062	2	1		759		{4,5,22,5,1}						0
+4	5	23	5	随机武器箱		itembox	supplies.randomweaponbox01	5	1520063	2	1		760		{4,5,23,5,1}						0
+																					
+4	5	13	3	特殊武器空投舱		itembox	supplies.overseaWeaponBox	4	1510087	2	1		603		{4,5,13,3,1}						0
+4	5	18	3	怦然庆喜扭蛋机		itembox	supplies.2024box1	5	1520051	2	1		667		{4,5,18,3,1}						0
+																					
+4	5	24	1	DLC23角色或武器自选箱		itembox	supplies.card_weapon_box	5	1520037	2	1		320	1	{4,5,24,1,1}						0
+																					
+4	5	25	1	回馈时装礼盒		itembox	supplies.rebatebox_1	5	1510282	1	0		1200								0
+																					
+4	1	1	1	雪之形		sevenDay_Box1	supplies.NumansToken	4	1510075	1			1								999
+4	1	2	1	开放世界临时货币		cashbox	supplies.opencoin	5	1510076	1			6	1							999
+4	1	3	1	勤之轨		execution_Box1	supplies.NumansToken2	4	1510077	1			1								999
+4	1	4	1	BP日常任务经验		bppoint_box	supplies.bppoint	4	1510086	1			1	1							0
+4	1	4	2	BP周常任务经验		bppoint_box	supplies.bppoint	4	1510086	1			1	2							0
+4	1	4	3	BP限定任务经验		bppoint_box	supplies.bppoint	4	1510086	1			1	3							0
+4	1	4	4	基础通行证		battlepass_box	supplies.bpJunior	4	1510080	1			1		{4,1,4,4,1}						0
+4	1	4	5	高级通行证		battlepass_box	supplies.bpSenior	5	1510081	1			2		{4,1,4,5,1}						0
+4	1	5	1	特级-高级差价通行证内容		itembox	supplies.bpSenior	5		1	0		308		{4,1,5,1,1}						0
+4	1	5	2	高级通行证内容		itembox	supplies.bpJunior	4		1	0		310		{4,1,5,2,1}						0
+4	1	5	3	特级通行证内容		itembox	supplies.bpSenior	5		1	0		312		{4,1,5,3,1}						0
+4	1	6	1	青蓝之羽		cashbox	supplies.dlc103	4	1510102	1	1		9	1	{4,1,6,1,1}						0
+4	1	8	1	记忆方体		cashbox	supplies.OnlineTicket1	5	1510110	1	1		15		{4,1,8,1,1}						5
+																					
+4	1	7	1	测试掉落道具		itembox	supplies.dlc104	4	1510073	1	1		666		{4,1,7,1,1}						0
+																					
+4	1	6	4	通行密钥		cashbox	supplies.dlc2.token3	4	1510108	1	1		12		{4,1,6,4,1}						0
+																					
+4	1	6	5	奥普奖券		cashbox	supplies.OppTicket	5	1520023	1	1		13		{4,1,6,5,1}						9999
+4	1	6	6	卢槟奖券		cashbox	supplies.RubyTicket	5	1520023	1	1		14		{4,1,6,6,1}						9999
+																					
+4	1	6	7	刷新道具（新星开拓）		cashbox	supplies.vircapture.token1	5	1520057	1	1		27		{4,1,6,7,1}						0
+4	1	6	8	劝降经验（新星开拓）		vircapture_exp_box	supplies.vircapture_exp	4	1520058	1			1								0
+4	1	6	9	万能鱼饵（新星开拓）		cashbox	supplies.vircapture.bait1	4	1520088	1	1		38	1	{4,1,6,9,1}						0
+4	1	6	10	高级鱼饵（新星开拓）		cashbox	supplies.vircapture.bait2	5	1520088	1	1		39	1	{4,1,6,10,1}						0
+4	1	6	11	普通劝降掉落（新星开拓）		itembox	supplies.vircapture_exp	3	1520058	1	1		777								0
+4	1	6	12	高级劝降掉落（新星开拓）		itembox	supplies.vircapture_exp	3	1520058	1	1		778								0
+4	1	6	13	稀有劝降掉落（新星开拓）		itembox	supplies.vircapture_exp	3	1520058	1	1		779								0
+4	1	6	40	普通鱼饵		cashbox	supplies.vircapture.normalbait1	3	1520201	1	1		43								
+4	1	6	41	豪华鱼饵		cashbox	supplies.vircapture.normalbait2	4	1520202	1	1		44								
+4	1	6	42	至尊鱼饵		cashbox	supplies.vircapture.normalbait3	5	1520203	1	1		45								
+4	1	6	43	重量级鱼类虫饵		cashbox	supplies.vircapture.matchbait1	5	1520204	1	1		46								
+4	1	6	44	巨型鱼类虫饵		cashbox	supplies.vircapture.matchbait2	5	1520205	1	1		47								
+4	1	6	45	重量级鱼类夜钓虫饵		cashbox	supplies.vircapture.matchbait3	5	1520206	1	1		48								
+4	1	6	46	巨型鱼类夜钓虫饵		cashbox	supplies.vircapture.matchbait4	5	1520207	1	1		49								
+4	1	6	14	蓝图币		cashbox	supplies.vircapture.newstarcoin1	4	1520311	1	1		55								0
+																					
+4	1	6	16	建筑解锁道具			supplies.vircapture.newstarunlockbuild	5	1520313	1	1		1								0
+4	1	6	17	增益效果			supplies.vircapture.newstarunlockbuff	5	1520314	1	1		1								0
+4	1	6	18	毛球币（多诺巅峰对决）		cashbox	supplies.donoduel_cash1	5	1520315	1	1		63								0
+																					
+4	11	1	1	追加物资包		itembox	supplies.BPSupplyPack	3	1520030	1	1		701								0
+4	11	2	1	时装资金自选箱·昼朗		itembox	supplies.bp_box3	5	1520037	2	0		702	1							0
+4	11	3	1	时装资金自选箱·盛海		itembox	supplies.bpskinbox3	5	1520037	2	0		703	1							0
+4	11	4	1	时装资金自选箱·绘霜		itembox	supplies.bpskinbox4	5	1520037	2	0		704	1							0
+4	11	5	1	时装资金自选箱·澄音		itembox	supplies.bpskinbox5	5	1520037	2	0		705	1							0
+4	11	6	1	时装资金自选箱·焰光		itembox	supplies.bpskinbox6	5	1520037	2	0		706	1							0
+4	11	7	1	时装资金自选箱·夜阑		itembox	supplies.bpskinbox7	5	1520037	2	0		707	1							0
+4	11	8	1	时装资金自选箱·空岛		itembox	supplies.bpskinbox8	5	1520037	2	0		708	1							0
+4	11	9	1	时装资金自选箱·息风		itembox	supplies.bpskinbox9	5	1520037	2	0		709	1							0
+4	11	10	1	时装资金自选箱·星辉		itembox	supplies.bpskinbox10	5	1520037	2	0		710	1							0
+4	11	10	2	时装资金自选箱·星辉2		itembox	supplies.bpskinbox10_2	5	1520037	2	0		711	1							0
+4	11	11	1	时装资金自选箱·星海		itembox	supplies.bpskinbox11	5	1520037	2	0		712	1							0
+4	11	12	1	时装资金自选箱·鸣沙		itembox	supplies.bpskinbox12	5	1520037	2	0		713	1							0
+4	11	13	1	时装资金自选箱·晶岩		itembox	supplies.bpskinbox13	5	1520037	2	0		714	1							0
+4	11	14	1	时装资金自选箱·栖心		itembox	supplies.bpskinbox14	5	1520037	2	0		715	1							0
+4	11	15	1	时装资金自选箱·绚花		itembox	supplies.bpskinbox15	5	1520037	2	0		716	1							0
+4	11	16	1	时装资金自选箱·渊源		itembox	supplies.bpskinbox16	5	1520037	2	0		717	1							0
+4	11	17	1	时装资金自选箱·变格		itembox	supplies.bpskinbox17	5	1520037	2	0		718	1							0
+4	11	18	1	时装资金自选箱·真理		itembox	supplies.bpskinbox18	5	1520037	2	0		719	1							0
+4	11	19	1	时装资金自选箱·蔷薇		itembox	supplies.bpskinbox19	5	1520037	2	0		720	1							0
+4	11	20	1	时装资金自选箱·漾彩		itembox	supplies.bpskinbox20	5	1520037	2	0		721	1							0
+4	11	21	1	时装资金自选箱·天扉		itembox	supplies.bpskinbox21	5	1520037	2	0		722	1							0
+4	11	22	1	时装资金自选箱·勇气		itembox	supplies.bpskinbox22	5	1520037	2	0		723	1							0
+4	11	23	1	时装资金自选箱·汐梦		itembox	supplies.bpskinbox23	5	1520037	2	0		724	1							0
+4	11	24	1	时装资金自选箱·煦风		itembox	supplies.bpskinbox24	5	1520037	2	0		725	1							0
+																					
+4	13	1	1	武器外观资金箱·星辉		itembox	supplies.bpweaponskin_box1	5	1510212	1	0		401								
+																					
+4	1	9	1	DLC3探索经验-任务产出		explore_exp_box	supplies.explore_exp	4	110400030	1			1	1							0
+4	1	9	2	DLC3探索经验-怪物产出		explore_exp_box	supplies.explore_exp	4	110400030	1			1	2							0
+4	1	9	3	DLC3钓鱼经验-钓鱼/任务产出		fishexp_box	supplies.fish_exp	4	110400020	1			1								0
+4	1	10	1	翠星宝螺（dlc3货币）		cashbox	supplies.dlc3coin1	4	1510111	1	1		16	1	{4,1,10,1}						999
+4	1	10	2	碧月星壳（dlc3高级货币）		cashbox	supplies.dlc3coin7	5	1510119	1	1		22	1	{4,1,10,2}						999
+4	1	11	1	炎阳珍珠（乱战宝礁货币1）		cashbox	supplies.dlc3coin2	4	1510112	1	1		17	1	{4,1,11,1}						999
+4	1	12	1	雪风珍珠（乱战宝礁货币2）		cashbox	supplies.dlc3coin3	4	1510113	1	1		18	1	{4,1,12,1}						999
+4	1	13	1	鸣雷珍珠（乱战宝礁货币3）		cashbox	supplies.dlc3coin4	4	1510114	1	1		19	1	{4,1,13,1}						999
+4	1	14	1	辉月珍珠（乱战宝礁货币4）		cashbox	supplies.dlc3coin5	4	1510115	1	1		20	1	{4,1,14,1}						999
+4	1	15	1	凛冬珍珠（乱战宝礁货币5）		cashbox	supplies.dlc3coin6	4	1510116	1	1		21	1	{4,1,15,1}						999
+4	1	16	1	乱战入场劵（乱战宝礁门票）		cashbox	supplies.dlc3TowerTicket	4	1510117	1	1		23	1	{4,1,16,1}						40
+4	1	17	1	翠星助力劵（乱战宝礁抽奖卷）		cashbox	supplies.dlc3TowerLottery	4	1510118	1	1		24	1	{4,1,17,1}						13
+4	1	18	1	推演经验		rogue3d_exp_box	rogue3.coin_Exp	5	1521001	1	1		1								9999
+4	1	19	1	智略点		cashbox	rogue3.coin_Science	5	1521002	1	1		25	1							9999
+4	1	20	1	构筑记录		onlineactive_exp_box	supplies.onlineTowerExp	5	1521003	1	1		1	5							0
+4	1	20	2	突击记录		onlineactive_exp_box	supplies.onlineCombineExp	5	1521006	1	1		1	6							0
+4	1	20	3	冲关积分		onlineactive_exp_box	supplies.party_01	5	1520092	1	1		1	7							0
+4	1	20	4	禁区记录		onlineactive_exp_box	supplies.forbidzone.BPexp	5	1520095	1	1		1	8							0
+4	1	20	5	航海评分		onlineactive_exp_box	onlinesea.BPexp	5	1526002	1	1		1	10							0
+4	1	20	6	脉冲连袭经验		onlineactive_exp_box	TowerRush.bpcoin	5	1520601	1	1		1	9							0
+4	1	21	1	申领凭证		cashbox	rogue3.coin_LotteryTicket	4	1521004	1	1		28	1							0
+4	1	22	1	采购券		cashbox	rogue3.coin_Season	5	1521005	1	1		29	1							0
+4	1	23	1	思维译码·荣耀		cashbox	rogue3.Seasonkey1	5	1520072	1	1		31	1							99
+4	1	23	2	思维译码·温柔		cashbox	rogue3.Seasonkey2	5	1520073	1	1		32	1							99
+4	1	23	3	思维译码·正义		cashbox	rogue3.Seasonkey3	5	1520074	1	1		33	1							99
+4	1	23	4	思维译码·纯净		cashbox	rogue3.Seasonkey4	5	1520075	1	1		34	1							99
+4	1	23	5	思维译码·无畏		cashbox	rogue3.Seasonkey5	5	1520076	1	1		35	1							99
+4	1	23	6	思维译码·智慧		cashbox	rogue3.Seasonkey6	5	1520077	1	1		36	1							99
+4	1	23	7	思维译码·勇气		cashbox	rogue3.Seasonkey7	5	1520078	1	1		37	1							99
+4	1	23	8	万用思维译码		cashbox	rogue3.SeasonMasterkey	5	1520100	1	1		40	1							99
+4	1	23	9	战场经验（悖论迷宫积分挑战模式增益解锁货币）		cashbox	rogue3.coin_ScoreModel	5	1520104	1	1		50	1							2000
+4	1	24	1	思维译码		itembox	rogue3.Seasonkey8	5	1520101	1	1										0
+4	1	24	2	思维旁路下·密钥1		itembox	rogue3.SeasonItem1	5	1522001	1	1										0
+4	1	24	3	思维旁路下·密钥2		itembox	rogue3.SeasonItem2	5	1520080	1	1										0
+4	1	24	4	思维旁路下·密钥3		itembox	rogue3.SeasonItem3	5	1520081	1	1										0
+4	1	24	5	思维旁路上·密钥1		itembox	rogue3.SeasonItem4	5	1520082	1	1										0
+4	1	24	6	思维旁路上·密钥2		itembox	rogue3.SeasonItem5	5	1520083	1	1										0
+4	1	24	7	思维旁路上·密钥3		itembox	rogue3.SeasonItem6	5	1520084	1	1										0
+4	1	24	8	急救箱		itembox	rogue3.SeasonItem7	5	1520086	1	1										0
+4	1	24	9	坐标定位器		itembox	rogue3.SeasonItem8	5	1520085	1	1										0
+4	1	24	10	通讯装置		itembox	rogue3.SeasonItem9	5	1520087	1	1										0
+4	1	25	1	漠北星砂		cashbox	bagrogue.CoinName1	5	1522002	1	1		41	1							0
+4	1	25	2	初晨露滴		cashbox	bagrogue.CoinName2	5	1522003	1	1		42	1							0
+4	1	25	3	钥匙		cashbox	supplies.dlc2.token3	5	1522007	1	1		51	1							0
+4	1	26	1	守护纪念章		cashbox	aliendefence.Alien_CoinDes01	5	1524001	1	1		53	1							0
+4	1	27	1	低阶征伐铭章		monsterriki	rogue3.coin_MonsterModel1	4	1521008	1											0
+4	1	27	2	中阶征伐铭章		monsterriki	rogue3.coin_MonsterModel2	5	1521009	1											0
+4	1	27	3	高阶征伐铭章		monsterriki	rogue3.coin_MonsterModel3	5	1521010	1											0
+4	1	27	4	通用高级动力部件			rogue3.uav_PartShowName1	5	1520115	1											0
+4	1	27	5	通用高级武器部件			rogue3.uav_PartShowName2	5	1520116	1											0
+4	1	27	6	通用高级框架部件			rogue3.uav_PartShowName3	5	1520117	1											0
+4	1	27	7	通用高级控制部件			rogue3.uav_PartShowName4	5	1520118	1											0
+4	1	28	1	混合补剂		cashbox	farmwar.farmwar_skillpoint	4	1525001	1	1		54								0
+4	1	29	1	激浪联航模组代币		cashbox	onlinesea.ModCash	4	1526001	1	1		57								5000
+4	1	30	1	绘梦沙盘经验值		rmolexp	rmol.item_exp	4	1522013	1	1		1	1							0
+4	1	31	1	3.3适格启忆录晴碎片1		cashbox	jigsawpuzzle.jigsawpuzzle_item1	4	1543020	1	1										0
+4	1	32	1	3.3适格启忆录晴碎片2		cashbox	jigsawpuzzle.jigsawpuzzle_item2	5	1543021	1	1										0
+4	1	33	1	适格启忆录光盘		cashbox	jigsawpuzzle.jigsawpuzzle_item3	4	1543022	1	1		58								0
+4	1	34	1	增幅芯核		cashbox	online.SpeedSocreCoinName1	5	1521011	1	1		59								100
+4	1	34	2	挑战芯核		cashbox	online.SpeedSocreCoinName2	5	1521012	1	1		60								100
+4	1	35	1	基础增幅秘匣		speedscore_buff_box	online.SpeedSocreBuffBoxName1	4	1521013	1			1								0
+4	1	35	2	高级增幅秘匣		speedscore_buff_box	online.SpeedSocreBuffBoxName2	5	1521014	1			2								0
+4	1	35	3	精准增幅秘匣		speedscore_buff_box	online.SpeedSocreBuffBoxName3	5	1521015	1			3								0
+4	1	35	4	轰击增幅秘匣		speedscore_buff_box	online.SpeedSocreBuffBoxName4	5	1521016	1			4								0
+4	1	35	5	均衡增幅秘匣		speedscore_buff_box	online.SpeedSocreBuffBoxName5	5	1521017	1			5								0
+4	1	36	1	星祈心愿抽奖代币		cashbox	starwish.CoinName1	5	1522014	1	1		61								0
+4	1	37	1	3.4适格启忆录猫汐尔碎片1		cashbox	jigsawpuzzle.jigsawpuzzle_item1	4	1543023	1	1										0
+4	1	38	1	3.4适格启忆录猫汐尔碎片2		cashbox	jigsawpuzzle.jigsawpuzzle_item2	5	1543024	1	1										0
+4	1	39	1	进击行动经验值		assaultops_exp_box	assaultops.BpExp	5	1520125	1	1		1								0
+4	1	40	1	进击行动商店代币		cashbox	assaultops.ShopCash	5	1520126	1	1		62								0
+4	1	40	2	进击行动智械7		assaultops_chip_item	assaultops.Chips_SkillName7	1	1520163	1			7	1							
+4	1	40	3	进击行动智械8		assaultops_chip_item	assaultops.Chips_SkillName8	1	1520164	1			8	1							
+4	1	40	4	进击行动智械9		assaultops_chip_item	assaultops.Chips_SkillName9	1	1520165	1			9	1							
+4	1	41	1	进击行动白金随机芯片包		assaultops_chip_box	assaultops.ChipsBox1	1	1520127	1			1	1							0
+4	1	41	2	进击行动绿金随机芯片包		assaultops_chip_box	assaultops.ChipsBox2	2	1520128	1			1	2							0
+4	1	41	3	进击行动蓝金随机芯片包		assaultops_chip_box	assaultops.ChipsBox3	3	1520129	1			1	3							0
+4	1	41	4	进击行动紫金随机芯片包		assaultops_chip_box	assaultops.ChipsBox4	4	1520130	1			1	4							0
+4	1	41	5	进击行动金随机芯片包		assaultops_chip_box	assaultops.ChipsBox5	5	1520131	1			1	5							0
+4	1	41	6	进击行动轰炸白金随机芯片包		assaultops_chip_box	assaultops.ChipsBox1_1	1	1520127	1			1	6							0
+4	1	41	7	进击行动无人机白金随机芯片包		assaultops_chip_box	assaultops.ChipsBox1_2	1	1520127	1			1	7							0
+4	1	41	8	进击行动炮台白金随机芯片包		assaultops_chip_box	assaultops.ChipsBox1_3	1	1520127	1			1	8							0
+4	1	42	1	进击行动满品核心芯片1		assaultops_chip_item	assaultops.Chips_MainName1	5	1520132	1			101	5							0
+4	1	42	2	进击行动满品核心芯片2		assaultops_chip_item	assaultops.Chips_MainName2	5	1520133	1			102	5							0
+4	1	42	3	进击行动满品核心芯片3		assaultops_chip_item	assaultops.Chips_MainName3	5	1520134	1			103	5							0
+4	1	42	4	进击行动满品核心芯片4		assaultops_chip_item	assaultops.Chips_MainName4	5	1520135	1			110	5							0
+4	1	42	5	进击行动满品核心芯片5		assaultops_chip_item	assaultops.Chips_MainName5	5	1520136	1			111	5							0
+4	1	42	6	进击行动满品核心芯片6		assaultops_chip_item	assaultops.Chips_MainName6	5	1520137	1			112	5							0
+4	1	42	7	进击行动满品核心芯片7		assaultops_chip_item	assaultops.Chips_MainName7	5	1520154	1			119	5							0
+4	1	42	8	进击行动满品核心芯片8		assaultops_chip_item	assaultops.Chips_MainName8	5	1520155	1			120	5							0
+4	1	42	9	进击行动满品核心芯片9		assaultops_chip_item	assaultops.Chips_MainName9	5	1520156	1			121	5							0
+4	1	43	1	进击行动满品分支芯片1		assaultops_chip_item	assaultops.Chips_BranchName1	5	1520138	1			104	5							0
+4	1	43	2	进击行动满品分支芯片2		assaultops_chip_item	assaultops.Chips_BranchName2	5	1520139	1			105	5							0
+4	1	43	3	进击行动满品分支芯片3		assaultops_chip_item	assaultops.Chips_BranchName3	5	1520140	1			106	5							0
+4	1	43	4	进击行动满品分支芯片4		assaultops_chip_item	assaultops.Chips_BranchName4	5	1520141	1			107	5							0
+4	1	43	5	进击行动满品分支芯片5		assaultops_chip_item	assaultops.Chips_BranchName5	5	1520142	1			108	5							0
+4	1	43	6	进击行动满品分支芯片6		assaultops_chip_item	assaultops.Chips_BranchName6	5	1520143	1			109	5							0
+4	1	43	7	进击行动满品分支芯片7		assaultops_chip_item	assaultops.Chips_BranchName7	5	1520144	1			113	5							0
+4	1	43	8	进击行动满品分支芯片8		assaultops_chip_item	assaultops.Chips_BranchName8	5	1520145	1			114	5							0
+4	1	43	9	进击行动满品分支芯片9		assaultops_chip_item	assaultops.Chips_BranchName9	5	1520146	1			115	5							0
+4	1	43	10	进击行动满品分支芯片10		assaultops_chip_item	assaultops.Chips_BranchName10	5	1520147	1			116	5							0
+4	1	43	11	进击行动满品分支芯片11		assaultops_chip_item	assaultops.Chips_BranchName11	5	1520148	1			117	5							0
+4	1	43	12	进击行动满品分支芯片12		assaultops_chip_item	assaultops.Chips_BranchName12	5	1520149	1			118	5							0
+4	1	43	13	进击行动满品分支芯片13		assaultops_chip_item	assaultops.Chips_BranchName13	5	1520157	1			122	5							0
+4	1	43	14	进击行动满品分支芯片14		assaultops_chip_item	assaultops.Chips_BranchName14	5	1520158	1			123	5							0
+4	1	43	15	进击行动满品分支芯片15		assaultops_chip_item	assaultops.Chips_BranchName15	5	1520159	1			124	5							0
+4	1	43	16	进击行动满品分支芯片16		assaultops_chip_item	assaultops.Chips_BranchName16	5	1520160	1			125	5							0
+4	1	43	17	进击行动满品分支芯片17		assaultops_chip_item	assaultops.Chips_BranchName17	5	1520161	1			126	5							0
+4	1	43	18	进击行动满品分支芯片18		assaultops_chip_item	assaultops.Chips_BranchName18	5	1520162	1			127	5							0
+4	1	44	1	3.6适格启忆录碎片1		cashbox	jigsawpuzzle.jigsawpuzzle_item1	4	1543025	1	1										0
+4	1	45	1	3.6适格启忆录碎片2		cashbox	jigsawpuzzle.jigsawpuzzle_item2	5	1543026	1	1										0
+4	1	46	1	超元链接商店代币		cashbox	supplies.OnlineCash	5	1600022	1	1		67								0
+4	1	47	1	装甲战骑玩法货币		cashbox	armoredrider.CoinDes01	5	1527001	1	1		64								0
+4	1	48	1	装甲战骑赛季货币		cashbox	armoredrider.CoinDes02	5	1527002	1	1		65								0
+																					
+4	7	1	1	芙提雅表情包第一弹		itembox	supplies.emojicover01	5	1520044	1			1001		{4,7,1,1,1}						0
+4	7	2	1	纪念表情包·呐喊		itembox	supplies.emojicover05	5	1520052	1			1002		{4,7,2,1,1}						0
+4	7	3	1	芬妮表情包第一弹		itembox	supplies.emojicover02	5	1520053	1			1003		{4,7,3,1,1}						0
+4	7	4	1	苔丝表情包第一弹		itembox	supplies.emojicover04	5	1520059	1			1004		{4,7,4,1,1}						0
+4	7	5	1	里芙表情包第一弹		itembox	supplies.emojicover06	5	1966051	1			1005		{4,7,5,1,1}						0
+4	7	6	1	伊切尔表情包第一弹		itembox	supplies.emojicover07	5	1966080	1			1006		{4,7,6,1,1}						0
+4	7	7	1	猫汐尔表情包第一弹		itembox	supplies.emojicover08	5	1966085	1			1007		{4,7,7,1,1}						0
+4	7	8	1	龙舌兰表情包第一弹		itembox	supplies.emojicover09	5	1966090	1			1008		{4,7,8,1,1}						0
+4	7	9	1	辰星表情包第一弹		itembox	supplies.emojicover10	5	1966095	1			1009		{4,7,9,1,1}						0
+4	7	10	1	恩雅表情包第一弹		itembox	supplies.emojicover11	5	1966101	1			1010		{4,7,10,1,1}						0
+4	7	11	1	安卡表情包第一弹		itembox	supplies.emojicover12	5	1966111	1			1011		{4,7,11,1,1}						0
+4	7	12	1	凯西娅表情包第一弹		itembox	supplies.emojicover13	5	1966116	1			1012		{4,7,12,1,1}						0
+																					
+4	12	1	1	里芙的巧克力		itembox	supplies.2024cho01	5	1520054	2	1		668		{4,12,1,1,1}						1
+4	12	2	1	芬妮的巧克力		itembox	supplies.2024cho02	5	1520054	2	1		669		{4,12,2,1,1}						1
+4	12	3	1	安卡希雅的巧克力		itembox	supplies.2024cho03	5	1520054	2	1		670		{4,12,3,1,1}						1
+4	12	4	1	芙提雅的巧克力		itembox	supplies.2024cho04	5	1520054	2	1		671		{4,12,4,1,1}						1
+4	12	5	1	琴诺的巧克力		itembox	supplies.2024cho05	5	1520054	2	1		672		{4,12,5,1,1}						1
+4	12	6	1	妮塔的巧克力		itembox	supplies.2024cho06	5	1520054	2	1		673		{4,12,6,1,1}						1
+4	12	7	1	晴的巧克力		itembox	supplies.2024cho07	5	1520054	2	1		674		{4,12,7,1,1}						1
+4	12	8	1	茉莉安的巧克力		itembox	supplies.2024cho08	5	1520054	2	1		675		{4,12,8,1,1}						1
+4	12	9	1	肴的巧克力		itembox	supplies.2024cho09	5	1520054	2	1		676		{4,12,9,1,1}						1
+4	12	10	1	恩雅的巧克力		itembox	supplies.2024cho10	5	1520054	2	1		677		{4,12,10,1,1}						1
+4	12	11	1	辰星的巧克力		itembox	supplies.2024cho11	5	1520054	2	1		678		{4,12,11,1,1}						1
+4	12	12	1	猫汐尔的巧克力		itembox	supplies.2024cho12	5	1520054	2	1		679		{4,12,12,1,1}						1
+4	12	13	1	瑟瑞斯的巧克力		itembox	supplies.2024cho13	5	1520054	2	1		680		{4,12,13,1,1}						1
+4	12	14	1	苔丝的巧克力		itembox	supplies.2024cho14	5	1520054	2	1		681		{4,12,14,1,1}						1
+4	12	15	1	凯茜娅的巧克力		itembox	supplies.2024cho15	5	1520054	2	1		682		{4,12,15,1,1}						1
+4	12	16	1	里芙的爱意礼盒		itembox	supplies.2024tana01	5	1520089	2	1		780		{4,12,16,1,1}						1
+4	12	17	1	芬妮的爱意礼盒		itembox	supplies.2024tana02	5	1520089	2	1		781		{4,12,17,1,1}						1
+4	12	18	1	安卡希雅的爱意礼盒		itembox	supplies.2024tana03	5	1520089	2	1		782		{4,12,18,1,1}						1
+4	12	19	1	芙提雅的爱意礼盒		itembox	supplies.2024tana04	5	1520089	2	1		783		{4,12,19,1,1}						1
+4	12	20	1	琴诺/莫尔索的爱意礼盒		itembox	supplies.2024tana05	5	1520089	2	1		784		{4,12,20,1,1}						1
+4	12	21	1	妮塔的爱意礼盒		itembox	supplies.2024tana06	5	1520089	2	1		785		{4,12,21,1,1}						1
+4	12	22	1	晴的爱意礼盒		itembox	supplies.2024tana07	5	1520089	2	1		786		{4,12,22,1,1}						1
+4	12	23	1	茉莉安的爱意礼盒		itembox	supplies.2024tana08	5	1520089	2	1		787		{4,12,23,1,1}						1
+4	12	24	1	肴的爱意礼盒		itembox	supplies.2024tana09	5	1520089	2	1		788		{4,12,24,1,1}						1
+4	12	25	1	恩雅的爱意礼盒		itembox	supplies.2024tana10	5	1520089	2	1		789		{4,12,25,1,1}						1
+4	12	26	1	辰星的爱意礼盒		itembox	supplies.2024tana11	5	1520089	2	1		790		{4,12,26,1,1}						1
+4	12	27	1	猫汐尔的爱意礼盒		itembox	supplies.2024tana12	5	1520089	2	1		791		{4,12,27,1,1}						1
+4	12	28	1	瑟瑞斯的爱意礼盒		itembox	supplies.2024tana13	5	1520089	2	1		792		{4,12,28,1,1}						1
+4	12	29	1	苔丝的爱意礼盒		itembox	supplies.2024tana14	5	1520089	2	1		793		{4,12,29,1,1}						1
+4	12	30	1	凯茜娅的爱意礼盒		itembox	supplies.2024tana15	5	1520089	2	1		794		{4,12,30,1,1}						1
+4	12	31	1	伊切尔的爱意礼盒		itembox	supplies.2024tana16	5	1520089	2	1		795		{4,12,31,1,1}						1
+4	12	32	1	临时17		itembox	supplies.2024tana17	5	1520089	2	1		796		{4,12,32,1,1}						1
+4	12	33	1	纳宝帝联名礼包		itembox	supplies.nabatiBox	5	1522004	2	1		841		{4,12,33,1,1}						1
+4	12	34	1	OATLY联名礼包		itembox	supplies.oatlyBox	5	1522008	2	1		868		{4,12,34,1,1}						1
+4	12	35	1	虎邦辣酱联名礼包		itembox	supplies.BoxHubang	5	1522010	2	1		887		{4,12,35,1,1}						1
+4	12	36	1	健力宝联名礼包		itembox	supplies.BoxJianlibao	5	1522011	2	1		888		{4,12,36,1,1}						1
+4	12	37	1	格力高联名礼包		itembox	supplies.BoxGeLiGao	5	1522012	2	1		889		{4,12,37,1,1}						1
+4	12	38	1	创维联名礼包		itembox	supplies.BoxChuangWei	5	1522015	2	1		903		{4,12,38,1,1}						1
+4	12	39	1	乐事联名礼包		itembox	supplies.BoxLeShi	5	1522016	2	1		904		{4,12,39,1,1}						1
+4	12	40	1	阿华田联名礼包		itembox	supplies.BoxNameLinshi1	5	1522017	2	1		905		{4,12,40,1,1}						1
+4	12	41	1	端午联名礼包		itembox	supplies.BoxNameLinshi2	5	1522018	2	1		906		{4,12,41,1,1}						1
+																					
+4	14	1	1	温馨版大厅		hallskin_use	supplies.HallSkin02	5	1522019	1	0		2								1
+4	14	2	1	高级版大厅		hallskin_use	supplies.HallSkin03	5	1522020	1	0		3								1
+																					
+4	99	1	1	测试纪念品		riki_souvenir_box	riki.mail001	5	1510202	1	1		13001		{4,99,1,1,1}						
+4	99	2	1	薄荷晨语		riki_souvenir_box	riki.mail002	5	1599002	1	1		13002		{4,99,2,1,1}						1
+4	99	3	1	共踏花路		riki_souvenir_box	riki.mail003	5	1599003	1	1		13003		{4,99,3,1,1}						1
+4	99	4	1	榻上对局		riki_souvenir_box	riki.mail004	5	1599004	1	1		13004		{4,99,4,1,1}						1
+4	99	5	1	星心相印		riki_souvenir_box	riki.mail005	5	1599005	1	1		13005		{4,99,5,1,1}						1
+4	99	6	1	怦然读秒		riki_souvenir_box	riki.mail006	5	1599006	1	1		13006		{4,99,6,1,1}						1
+4	99	7	1	芬芳暖漾		riki_souvenir_box	riki.mail007	5	1599007	1	1		13007		{4,99,7,1,1}						1
+4	99	8	1	可塑之材		riki_souvenir_box	riki.mail008	5	1599008	1	1		13008		{4,99,8,1,1}						1
+4	99	9	1	珍存鳞光		riki_souvenir_box	riki.mail009	5	1599009	1	1		13009		{4,99,9,1,1}						1
+4	99	10	1	羽落留痕		riki_souvenir_box	riki.mail010	5	1599010	1	1		13010		{4,99,10,1,1}						1
+4	99	11	1	掌中坚韧		riki_souvenir_box	riki.mail011	5	1599011	1	1		13011		{4,99,11,1,1}						1
+4	99	12	1	莹白盛放		riki_souvenir_box	riki.mail012	5	1599012	1	1		13012		{4,99,12,1,1}						1
+4	99	13	1	律动轻尾		riki_souvenir_box	riki.mail013	5	1599013	1	1		13013		{4,99,13,1,1}						1
+4	99	14	1	欢声出发		riki_souvenir_box	riki.mail014	5	1599014	1	1		13014		{4,99,14,1,1}						1
+4	99	15	1	暗影密织		riki_souvenir_box	riki.mail015	5	1599015	1	1		13015		{4,99,15,1,1}						1
+4	99	16	1	一撩心弦		riki_souvenir_box	riki.mail016	5	1599016	1	1		13016		{4,99,16,1,1}						1
+4	99	17	1	她的世界		riki_souvenir_box	riki.mail017	5	1599017	1	1		13017		{4,99,17,1,1}						1
+4	99	18	1	私藏掠影		riki_souvenir_box	riki.mail018	5	1599018	1	1		13018		{4,99,18,1,1}						1
+4	99	19	1	纳福佑安		riki_souvenir_box	riki.mail019	5	1599019	1	1		13019		{4,99,19,1,1}						1
+4	99	20	1	蜜意千层		riki_souvenir_box	riki.mail020	5	1599020	1	1		13020		{4,99,20,1,1}						1
+4	99	21	1	“福金”与“雾尼”		riki_souvenir_box	riki.mail021	5	1599021	1	1		13021		{4,99,21,1,1}						1
+4	99	22	1	心雨谱誓		riki_souvenir_box	riki.mail022	5	1599022	1	1		13022		{4,99,22,1,1}						1
+4	99	23	1	肌肤之亲		riki_souvenir_box	riki.mail023	5	1599023	1	1		13023		{4,99,23,1,1}						1
+4	99	24	1	坐怀品茗		riki_souvenir_box	riki.mail024	5	1599024	1	1		13024		{4,99,24,1,1}						1
+4	99	25	1	时光折痕		riki_souvenir_box	riki.mail025	5	1599025	1	1		13025		{4,99,25,1,1}						1
+4	99	26	1	微醺良宵		riki_souvenir_box	riki.mail026	5	1599026	1	1		13026		{4,99,26,1,1}						1
+4	99	27	1	丝滑连招		riki_souvenir_box	riki.mail027	5	1599027	1	1		13027		{4,99,27,1,1}						1
+4	99	28	1	全息洞察		riki_souvenir_box	riki.mail028	5	1599028	1	1		13028		{4,99,28,1,1}						1
+4	99	29	1	恒久星辉		riki_souvenir_box	riki.mail029	5	1599029	1	1		13029		{4,99,29,1,1}						1
+4	99	30	1	绯色原野		riki_souvenir_box	riki.mail030	5	1599030	1	1		13030		{4,99,30,1,1}						1
+4	99	31	1	秘银契约		riki_souvenir_box	riki.mail031	5	1599031	1	1		13031		{4,99,31,1,1}						1
+4	99	32	1	悠然山风		riki_souvenir_box	riki.mail032	5	1599032	1	1		13032		{4,99,32,1,1}						1
+4	99	33	1	浮光月相		riki_souvenir_box	riki.mail033	5	1599033	1	1		13033		{4,99,33,1,1}						1
+4	99	34	1	慵懒午后		riki_souvenir_box	riki.mail034	5	1599034	1	1		13034		{4,99,34,1,1}						1
+4	99	35	1	温愈轻啄		riki_souvenir_box	riki.mail035	5	1599035	1	1		13035		{4,99,35,1,1}						1
+4	99	36	1	滋滋热浪		riki_souvenir_box	riki.mail036	5	1599036	1	1		13036		{4,99,36,1,1}						1
+4	99	37	1	极光漫映		riki_souvenir_box	riki.mail037	5	1599037	1	1		13037		{4,99,37,1,1}						1
+4	99	38	1	斩晦长明		riki_souvenir_box	riki.mail038	5	1599038	1	1		13038		{4,99,38,1,1}						1
+4	99	39	1	沉溺港湾		riki_souvenir_box	riki.mail039	5	1599039	1	1		13039		{4,99,39,1,1}						1
+4	99	40	1	糯香雪吻		riki_souvenir_box	riki.mail040	5	1599040	1	1		13040		{4,99,40,1,1}						1
+4	99	41	1	咫尺醉话		riki_souvenir_box	riki.mail041	5	1599041	1	1		13041		{4,99,41,1,1}						1
+4	99	42	1	今夜蚝眠		riki_souvenir_box	riki.mail042	5	1599042	1	1		13042		{4,99,42,1,1}						1
+4	99	43	1	余岁相守		riki_souvenir_box	riki.mail043	5	1599043	1	1		13043		{4,99,43,1,1}						1
+4	99	44	1	缤纷交响		riki_souvenir_box	riki.mail044	5	1599044	1	1		13044		{4,99,44,1,1}						1
+4	99	45	1	靛影赤心		riki_souvenir_box	riki.mail045	5	1599045	1	1		13045		{4,99,45,1,1}						1
+4	99	46	1	安卡快乐面		riki_souvenir_box	riki.mail046	5	1599046	1	1		13046		{4,99,46,1,1}						1
+4	99	47	1	耀跃闪金		riki_souvenir_box	riki.mail047	5	1599047	1	1		13047		{4,99,47,1,1}						1
+4	99	48	1	黏稠蜜语		riki_souvenir_box	riki.mail048	5	1599048	1	1		13048		{4,99,48,1,1}						1
+4	99	49	1	软香之拥		riki_souvenir_box	riki.mail049	5	1599049	1	1		13049		{4,99,49,1,1}						1
+4	99	50	1	旖旎午后		riki_souvenir_box	riki.mail050	5	1599050	1	1		13050		{4,99,50,1,1}						1
+4	99	51	1	浓情荟萃		riki_souvenir_box	riki.mail051	5	1599051	1	1		13051		{4,99,51,1,1}						1
+4	99	52	1	灵感与灵犀		riki_souvenir_box	riki.mail052	5	1599052	1	1		13052		{4,99,52,1,1}						1
+4	99	53	1	炎炎鲜潮		riki_souvenir_box	riki.mail053	5	1599053	1	1		13053		{4,99,53,1,1}						1
+4	99	54	1	轻唤早安		riki_souvenir_box	riki.mail054	5	1599054	1	1		13054		{4,99,54,1,1}						1
+4	99	55	1	铠甲小猪		riki_souvenir_box	riki.mail055	5	1599055	1	1		13055		{4,99,55,1,1}						1
+4	99	56	1	交颈合欢		riki_souvenir_box	riki.mail056	5	1599056	1	1		13056		{4,99,56,1,1}						1
+4	99	57	1	绚染五珍		riki_souvenir_box	riki.mail057	5	1599057	1	1		13057		{4,99,57,1,1}						1
+4	99	58	1	绛雪新忆		riki_souvenir_box	riki.mail058	5	1599058	1	1		13058		{4,99,58,1,1}						1
+4	99	59	1	歉意咬痕		riki_souvenir_box	riki.mail059	5	1599059	1	1		13059		{4,99,59,1,1}						1
+4	99	60	1	芳甜簇拥		riki_souvenir_box	riki.mail060	5	1599060	1	1		13060		{4,99,60,1,1}						1
+4	99	61	1	私密融点		riki_souvenir_box	riki.mail061	5	1599061	1	1		13061		{4,99,61,1,1}						1
+4	99	62	1	熠熠流光		riki_souvenir_box	riki.mail062	5	1599062	1	1		13062		{4,99,62,1,1}						1
+4	99	63	1	懒懒桉睡		riki_souvenir_box	riki.mail063	5	1599063	1	1		13063		{4,99,63,1,1}						1
+4	99	64	1	巧绽蕊心		riki_souvenir_box	riki.mail064	5	1599064	1	1		13064		{4,99,64,1,1}						1
+4	99	65	1	蜜窝丹颊		riki_souvenir_box	riki.mail065	5	1599065	1	1		13065		{4,99,65,1,1}						1
+4	99	66	1	醉吻倾心		riki_souvenir_box	riki.mail066	5	1599066	1	1		13066		{4,99,66,1,1}						1
+4	99	67	1	星河拾忆		riki_souvenir_box	riki.mail067	5	1599067	1	1		13067		{4,99,67,1,1}						1
+4	99	68	1	渴慕喷发		riki_souvenir_box	riki.mail068	5	1599068	1	1		13068		{4,99,68,1,1}						1
+4	99	69	1	青空暖阳		riki_souvenir_box	riki.mail069	5	1599069	1	1		13069		{4,99,69,1,1}						1
+4	99	70	1	绚丽构想		riki_souvenir_box	riki.mail070	5	1599070	1	1		13070		{4,99,70,1,1}						1
+4	99	71	1	云枕澜波		riki_souvenir_box	riki.mail071	5	1599071	1	1		13071		{4,99,71,1,1}						1
+4	99	72	1	垒起爱巢		riki_souvenir_box	riki.mail072	5	1599072	1	1		13072		{4,99,72,1,1}						1
+4	99	73	1	黑白协奏		riki_souvenir_box	riki.mail073	5	1599073	1	1		13073		{4,99,73,1,1}						1
+4	99	74	1	甜糯感知		riki_souvenir_box	riki.mail074	5	1599074	1	1		13074		{4,99,74,1,1}						1
+4	99	75	1	脆声一吻		riki_souvenir_box	riki.mail075	5	1599075	1	1		13075		{4,99,75,1,1}						1
+4	99	76	1	金甲小熊		riki_souvenir_box	riki.mail076	5	1599076	1	1		13076		{4,99,76,1,1}						1
+4	99	77	1	追光不息		riki_souvenir_box	riki.mail077	5	1599077	1	1		13077		{4,99,77,1,1}						1
+4	99	78	1	两仪同心		riki_souvenir_box	riki.mail078	5	1599078	1	1		13078		{4,99,78,1,1}						1
+4	99	79	1	咸潮涌动		riki_souvenir_box	riki.mail079	5	1599079	1	1		13079		{4,99,79,1,1}						1
+4	99	80	1	初欲本味		riki_souvenir_box	riki.mail080	5	1599080	1	1		13080		{4,99,80,1,1}						1
+4	99	81	1	斑斓蜜境		riki_souvenir_box	riki.mail081	5	1599081	1	1		13081		{4,99,81,1,1}						1

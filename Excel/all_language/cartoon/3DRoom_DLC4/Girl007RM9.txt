@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	小琴诺，你是不是很久没休假了？	小琴諾，你是不是很久沒休假了？	チェルノは、随分と休暇を取れてないよな？	체르노, 너 휴가 안 간 지 오래되지 않았어?	Cherno, hasn't it been a while since you had a vacation?						0	
+page0.2	啊不……没……也不是很久。	啊不……沒……也沒有很久。	いえ……それは……そんなに長くはありません。	아, 아니요… 그, 그렇게 오래되지 않았어요.	Ah, n—no... it hasn't been that long.						0	
+page0.3	（虽然有莫尔索替她战斗，但身体的劳累还是会累积……）	（雖然莫爾索會替她戰鬥，但是身體還是會累積疲勞……）	（ムルソーが代わりに戦ってくれるとはいえ、体に疲労は溜まるよな。）	(모르소가 대신 전투에 임하긴 했지만, 육체적인 피로는 쌓일 텐데…)	(Even though Meursault fights for her, all of the physical exertion still builds up...)						0	
+page0.4	走，我请你吃顿好的，再帮你申请几天假期。	走，我請你吃美食，再幫你申請幾天休假。	じゃあ行こうか。何か美味しいものでも奢るよ。ついでに休暇も取ってあげる。	내가 맛있는 거 사줄게, 가자. 그리고 휴가도 며칠 신청해 줄게.	C'mon. Let me treat you to a meal and help you apply for a few days of vacation.						0	
+page0.5	啊，真的可以吗！	啊，真的可以嗎！	えっ、いいん……ですか？	앗, 정말요?!	Ah, really!?						0	
+page0.6	当然，身为你的分析员，这些还是做得到的。	當然！身為你的分析員，還是能為你做點事情的。	もちろんだ。チェルノの分析員として、それくらいはさせてくれ。	물론이지. 네 분석가로서 이 정도는 해줄 수 있어.	Of course. I can do that kind of stuff as your Adjutant.						0	
+page0.7	两小时后	兩小時後	2時間後	2시간 후	Two hours later						0	
+page0.8	呼……谢、谢谢……	呼……謝、謝謝……	はぁ……ご馳走様でした、分析員さん……	후우… 고, 고맙습니다…	Wow... Th—Thank you...						0	
+page0.9	分、分析员请我吃了我最喜欢的东西！	分、分析員請我吃了我最喜歡的東西！	とても……美味しかったです！	부, 분석가님이 제가 제일 좋아하는 음식을 사주셨어요!	Y—You got me all my favorite things to eat, Adjutant!						0	
+page0.10	不用谢，难得小琴诺答应和我一起外出吃饭。	不用謝，難得小琴諾會答應和我一起出來吃飯。	礼には及ばないよ。チェルノが私の外食に付き合ってくれたことの方がありがたいさ。	별말씀을. 체르노와 함께 밖에서 밥을 먹는 건 정말 모처럼인걸.	No worries. We don't get to go out for dinner together very often.						0	
+page0.11	不过，没想到小琴诺对食物的品味这么高，能选到这么优秀的餐厅。	不過，沒想到小琴諾對食物也很講究，竟然會選這麼好吃的餐廳。	それにしても、チェルノは食にこだわりがあるよね。かなりいい店を選んでくれたじゃないか。	그런데 체르노의 음식 취향이 이렇게 고급인 줄 몰랐어. 이런 고급 레스토랑을 고르다니 말이야.	Still, I wasn't expecting you to have such great taste in food. You chose an amazing restaurant.						0	
+page0.12	（然而料理的水平却那么……）	（然而做菜的技術卻那麼……）	（料理の腕はアレだけど……）	(하지만 요리 실력은 왜…)	(But her own cooking skills are...)						0	
+page0.13	嘿嘿……不过，琴诺还是想亲手给分析员做一顿饭。	嘿嘿……不過，琴諾還是想為分析員做一頓飯。	ウッ……えっと、分析員さんのお口にも合って、よかったです！でも……あの、やっぱり手料理を振る舞いたいんです……	헤헤… 하지만 저는 분석가님에게 맛있는 식사를 직접 만들어 드리고 싶어요.	Hehe... I still want to cook you a homemade meal though.						0	
+page0.14	恩雅姐说，亲手做的更能体现心意。	恩雅姐說，親手做的東西更能傳達心意。	手料理の方が気持ちが伝わるって、エンヤ姉さんが言ってました……	엔야 언니가 그랬거든요, 직접 만들어야 정성이 돋보인다고요.	Enya said that something handmade can reflect the feelings in your heart.						0	
+page0.15	还是不用麻烦了，小琴诺的心意我领到了！	還是不用麻煩了，小琴諾的心意我心領了！	！そんなに手間をかけさせちゃ悪いよ……チェルノの気持ちだけで十分だよ！	체르노, 번거롭게 그럴 필요 없어. 네 마음은 잘 받을게!	There's no need for that. I understand your feelings loud and clear!						0	

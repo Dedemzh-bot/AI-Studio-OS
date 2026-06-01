@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	几天都没见到你了，在忙什么？	好幾天都沒看到你了，最近在忙什麼？	ファニー、最近あまり見ないな。何してるんだ？	오랜만이네, 뭐 하고 지냈어?	I haven't seen you the past few days. What have you been up to?						0	
+page0.2	最近打算去耶洛沙一趟，提前做些准备。	最近打算去一趟耶洛沙，所以在做一些準備。	イェロシャに行く予定があるから、そのための準備をしてるの。	옐로샤에 다녀올 예정이라 미리 준비 좀 하고 있었어.	I'm going to Yehrus soon, so I've been getting everything ready.						0	
+page0.3	出门还需要特意做准备？	出門還需要特地做準備？	へぇー、イェロシャか、何をするつもりだ？	딱히 준비할 건 없지 않아?	Do you have to prepare anything special before leaving?						0	
+page0.4	当然需要啦！听说耶洛沙地区有全世界顶级的天然雪场——	當然啦！聽說在耶洛沙有全世界頂級的天然滑雪場——	ふんふん～！イェロシャには世界トップクラスのスキーリゾートがあるらしいわ！	당연히 준비해야지! 옐로샤 지역에는 세계 최고 수준의 천연 스키장이 있다고 들었거든…	Of course! I heard that the mountains in Yehrus have some of the best powder in the world, the ultimate natural ski resort!						0	
+page0.5	所以，我一周前报名了滑雪课程，还约了一套雪地特辑的写真。	所以我在上週報名了滑雪課程，還預約了一組雪地特輯的寫真攝影。	あたし、一週間前からスキーのレッスンに参加して、雪山での撮影も予約したよ！	그래서 일주일 전에 스키 강습도 신청하고, 설원 테마의 화보 촬영도 예약했어.	So I signed up for snowboarding lessons a week ago, and I also booked a special photoshoot in the snow!						0	
+page0.6	当然，也专门做了抗寒护肤准备。	當然，也需要針對寒冷氣候做護膚保養。	もちろん、寒さ対策とスキンケアもばっちり！	물론 추위에 대비한 피부 관리도 하고 있지.	And, naturally, I got some special skincare products to protect against the cold as well.						0	
+page0.7	不愧是超一流的偶像。	不愧是超一流的偶像。	おー！さすが超一流アイドル！	역시 프로 아이돌답네.	You really are a top-rate idol.						0	
+page0.8	不过，还有一件事没解决……	不過，還有一件事還沒解決……	ふんふん～！あっ、まだ解決できてないことが1つ……	그런데 해결하지 못한 게 하나 있어…	But there's still one thing missing...						0	
+page0.9	什么事？	什麼事？	何？	그게 뭔데?	What's that?						0	
+page0.10	既然准备要滑雪，本小姐怎么能少一身好看的滑雪装备呢？	既然要去滑雪，本小姐怎麼能缺少一套好看的滑雪裝備呢？	スキーをするなら、このあたしにお似合いのスキー用装備も必要でしょ？	스키를 타는데, 나에게 멋진 스키 장비가 빠질 수 없잖아?	How could I go snowboarding without some cute equipment?						0	
+page0.11	分析员，陪我去选一套呗？	分析員，陪我去挑一套吧？	ということで、分析員、選ぶの付き合って？	분석가, 나랑 같이 골라줄래?	Do you want to help me pick some out, Adjutant?						0	
+page0.12	乐意至极。	樂意之至。	それはもちろん、喜んで。	문제없어.	I'd be happy to.						0	

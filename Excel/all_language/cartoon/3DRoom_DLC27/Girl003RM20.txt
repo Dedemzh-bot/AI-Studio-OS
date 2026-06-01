@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	午夜悄然而至，基地大厅陷入静谧。	午夜悄然而至，基地大廳陷入靜謐。	夜更けとともに、社員寮のロビーは静まり返った。	자정이 조용히 다가오고, 숙소의 로비는 고요함에 휩싸였다.	Midnight crept in, the hall of the base swallowed in silence.						0	2.7版本随机事件
+page1.2	妮塔蹑手蹑脚地推开房间门，探出半个脑袋，在警觉地扫视四周后，迅速溜到了零食柜前。	妮塔躡手躡腳地推開房間門，探出半個腦袋，警覺地掃視四周後，迅速溜到了零食櫃前。	ニタはそっと部屋のドアを開け、ひょこっと顔を出して周りを警戒しながら、素早くお菓子の棚へと忍び寄った。	니타는 발소리를 죽이며 방문을 조심스럽게 열고, 머리를 반쯤 내밀어 주변을 경계하며 살피다가, 재빨리 스낵 코너에 도착했다.	Nita tiptoed through the door, poking her head out to scan around before darting straight for the snack cabinet.						0	2.7版本随机事件
+page1.3	妮塔！又被我抓住了吧。	妮塔！又被我抓到了吧。	ニタ！また見つけたぞ。	니타! 딱 걸렸어!	Ha! Caught red-handed again, Nita.						0	2.7版本随机事件
+page1.4	咦！！！分析员，你怎么还没睡。	咦！！！分析員！你怎麼還沒睡？	えええっ！？分析員、まだ起きてたの！？	어?! 분석가, 아직 안 자고 있었어?	Ah!? A-Adjutant!? What the heck are you doing up so late?						0	2.7版本随机事件
+page1.5	别岔开话题，半夜吃零食可不是什么好习惯。	別轉移話題，半夜吃零食可不是什麼好習慣喔。	話をそらすな、夜中におやつはダメだろう。	괜히 또 말 돌리지 말고… 이렇게 한밤중에 간식을 먹는 건 결코 좋은 습관이 아니야.	Don't change the subject. Snacking in the middle of the night isn't good for you, Nita!						0	2.7版本随机事件
+page1.6	嘿嘿，分析员，能不能让我小小地狡辩一下~	嘿嘿，分析員，能不能讓我小小地狡辯一下~	えへへ、分析員、ちょっとだけ言い訳してもいい？	헤헤헤, 분석가, 잠깐 내게 변명할 시간을 줄 수 있을까?	Hehe, Adjutant, just hear me out!						0	2.7版本随机事件
+page1.7	哦？那你说说看。	哦？那你說說看。	ほう？言ってみな。	뭔데? 한번 말해봐.	Hm? Go on.						0	2.7版本随机事件
+page1.8	咳……我在一本书上看到，半夜爱吃东西其实是英雄血脉觉醒的征兆！	咳……我在一本書上看到，半夜愛吃東西其實是英雄血脈覺醒的徵兆！	ゴホン……本で読んだんだけどさ、真夜中に食欲が湧くのは英雄の血が目覚める兆しなんだって！	에헴… 책에서 읽었는데, 밤에 간식을 먹고 싶어 하는 건 사실 영웅의 혈통이 깨어나는 신호라고 하더라고!	Ahem... I read in a book that eating at midnight is the sign of a hero's instincts awakening!						0	2.7版本随机事件
+page1.9	因为在远古时期，总要有人在夜晚守护部落免受野兽侵袭。	因為在遠古時期，總要有人在夜晚守護部落免受野獸侵襲。	昔は、夜に獣から部族を守る人が必要だったらしくて。	옛날에는 부족을 야수들로부터 지키는 밤의 보초병이 필요했잖아?	See, back in ancient times, someone had to protect the clan from beasts at night.						0	2.7版本随机事件
+page1.10	而这些守护者，必须在夜间进食以维持充沛的体力！	而這些守護者，必須在夜間進食以維持充沛的體力！	そういう守護者たちは、夜にちゃんと食べて体力を保ってたらしいよ！	보초병들은 체력을 유지하려고 꼭 밤중에 영양 보충을 했대!	And those guardians had to eat at night to keep up their strength!						0	2.7版本随机事件
+page1.11	而我恰好就是英雄血脉的传承者~	而我呢，剛好就是英雄血脈的傳承者~	で、私はその英雄の血を引く者ってわけ！	그리고 내가 바로 그 영웅의 피를 이은 후계자라고~	And guess what? I just so happen to have the blood of those ancient heroes!						0	2.7版本随机事件
+page1.12	不得不承认……你的狡辩好像很有说服力。	不得不承認……你的狡辯好像很有說服力。	なるほど、意外と説得力あるな。	인정할 수밖에 없게 만드네… 변명이 꽤 설득력 있군.	I have to admit... That's a weirdly convincing argument.						0	2.7版本随机事件
+page1.13	嘿嘿，守护分析员和大家的事儿就交给我吧！	嘿嘿，守護分析員和大家的任務就交給我吧！	えへへ、分析員とみんなを守るのは、私に任せてよ！	에헴~ 그 말인즉 분석가랑 팀원들은 내가 지킨다는 말이지!	Hehe, don't worry! You guys are safe with me!						0	2.7版本随机事件
+page1.14	这些饼干肉干~我就统统搬回去啦~	這些餅乾肉乾~我就通通搬回去啦~	だからこのクッキーとジャーキーは、全部私の部屋に持っていくね。	그러니까 여기에 있는 과자랑 육포는 내가 전부 쓸어갈게~	These cookies and jerkies? I'm just gonna take them all to my room.						0	2.7版本随机事件

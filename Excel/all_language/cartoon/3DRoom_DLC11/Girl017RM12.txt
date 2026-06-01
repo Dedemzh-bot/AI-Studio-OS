@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分——析——员！~早上好！！	分——析——員！~早安！！	分～析～員～！おはよう☆	분… 석… 가… 님!~ 좋은 아침이에요!!	Adjutant~! Goooood morning!!						0	
+page1.2	走在路上的我，听到后面传来很有元气，故意拉长的声音。	走在路上的我，聽到後面傳來很有元氣，故意拉長的聲音。	廊下を歩いていると、後ろから元気な声が聞こえてきた。	길을 걷고 있는 내 뒤로 아주 활기차고 일부러 늘린 목소리가 들려왔다.	As I walked down the hallway, a spirited, drawn-out greeting echoed from behind.						0	
+page1.3	苔~丝~你也是。	黛~斯~你也是。	テ～ス～も、おはよう。	테~스~ 너도 좋은 아침.	Tess~ Goooood morning to you too!						0	
+page1.4	我配合拉长声音给予她回复。	我配合拉長聲音給了她回復。	あえて彼女の真似で声を伸ばしながら返事をした。	나도 말을 늘려서 그녀에게 대답했다.	I playfully mimicked her drawn out greeting in response.						0	
+page1.5	诶诶诶？	欸欸？	えええ？	에에에?	Ehhh?						0	
+page1.6	咦咦咦？？	咦咦咦？？	えええ？	엥엥엥??	Ehhh??						0	
+page1.7	哎呀，分析员为什么一直学我说话。	哎呀，分析員為什麼一直學我說話。	もう！なんで私の真似するの？	에이, 분석가님 왜 계속 저를 따라 해요.	Hey, why do you keep copying me, Adjutant?						0	
+page1.8	本来兴冲冲的苔丝一下子露出了有些害臊的表情。	原本興沖沖的黛斯一下子露出了有些害臊的表情。	楽しそうにしていたテスも、とうとう恥ずかしそうに頬を赤らめた。	신나 있던 테스가 갑자기 약간 부끄러운 표정을 지었다.	Tess' initial burst of excitement suddenly shifted to a bashful, awkward pout.						0	
+page1.9	因为被苔丝的活力感染了。	因為被黛斯的活力感染了。	元気のいいテスを見ていると、どうしてもな。	테스의 활기에 감염되었거든.	I guess your energy is rubbing off on me.						0	
+page1.10	感觉今天也会是充满元气的一天。	感覺今天也會是充滿元氣的一天。	今日も元気いっぱいに過ごせそうだ。	오늘도 활기찬 하루가 될 것 같네.	Feels like today's going to be another high-energy day.						0	
+page1.11	唔。	唔。	む。	음.	Hmm.						0	
+page1.12	怎么了吗？	怎麼了嗎？	どうかしたのか？	왜 그래?	What's wrong?						0	
+page1.13	我本来还准备了让分析员变得有活力的魔术，现在看来不需要了。	我本來還準備了讓分析員變得有活力的魔術，現在看來不需要了。	分析員を元気づけるためのマジックを用意したのに……どうやらもういらないみたいだね。	원래는 분석가님을 더 활기차게 만들어줄 마술을 준비했는데, 지금 보니 필요 없을 것 같네요.	I had a magic trick ready to boost your energy, but I guess you don't need it anymore.						0	
+page1.14	苔丝想要变的话，随时都能变给我看，我会一直做你魔术表演的观众。	黛斯想變的話，隨時都能變給我看，我會一直當你魔術表演的觀眾。	テスが見せたいものがあるならなんでも見せてくれ。私はいつでも喜んで君の観客になるから。	테스가 보여주고 싶으면 언제든지 보여줘. 나는 항상 네 마술쇼의 관객이 되어줄게.	You can show me your magic tricks anytime, Tess. I'll always be your biggest fan.						0	
+page1.15	呜呜呜。	嗚嗚嗚。	むー。	흑흑흑.	*sniffles*						0	
+page1.16	又怎么了？	又怎麼了？	今度は何だ？	또 왜 그래?	What now?						0	
+page1.17	分析员的话……太犯规了。我要把更多元气交给分析员！	分析員的話……太犯規了。我要把更多元氣交給分析員！	分析員、その言葉反則だよぉ……分析員をもっともっと元気づけてあげる！	분석가님의 말은… 반칙이에요. 더 많은 활기를 분석가님한테 줄 거예요!	That's too sweet, Adjutant... I need to up my game and bring even more energy to you!						0	
+page1.18	苔丝说完扑了过来，为了避免她摔倒，我只能接住她。	黛斯說完撲了過來，為了避免她跌倒，我只能接住她。	そう言いながら、テスは私に目掛けて飛んできた。そんな彼女を、私は咄嗟に受け止めるしかなかった。	테스는 그렇게 말하며 내게 달려들었고, 그녀가 넘어지는 걸 막기 위해 나는 그녀를 받아주었다.	Tess suddenly threw herself at me, and I had to catch her to keep her from toppling over.						0	
+page1.19	小姑娘早就褪去过去的青涩，给我一种沉甸甸的感觉。	小姑娘早就褪去過去的青澀，給我一種沉甸甸的感覺。	初々しい少女から成長したテスからは、心地いい重さを感じとれた。	어느새 소녀는 예전의 풋풋함을 벗어던지고 묵직한 느낌을 주었다.	She's grown so much from the shy little girl she once was. There's a weight to her now, a sense of maturity.						0	

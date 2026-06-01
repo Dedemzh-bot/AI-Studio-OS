@@ -1,0 +1,39 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	早上好，琴诺。	早安，琴諾。	おはよう、チェルノ。	좋은 아침, 체르노.	Good morning, Cherno.						0	
+2	早上好……这是我起床时自测的数据表。	早安……這是我起床時自測的數據表。	おはようございます……これは起きてすぐ、自分で計ったデータです。	좋은 아침이에요… 이건 일어났을 때 스스로 측정한 데이터예요.	Good morning... This is the data from the self-test I did when I woke up.						0	
+3	你又自己准备好了呢，谢谢。我会例行问你几个问题，然后你就可以去参加今天的训练了。	你又自己準備好了呢，謝謝。我會例行問你幾個問題，然後你就可以去參加今天的訓練了。	また自分で済ませたんだね、ありがとう。いつも通りいくつか質問するから、そのあと今日の訓練に参加して。	스스로 이런 것도 하고… 정말 대견해. 하던 대로 몇 가지 질문 좀 할게. 끝나고 나서 오늘 훈련을 참여하러 가면 돼.	You did it yourself again, very good. I'll ask you several routine questions, and then you can go commence today's training.						0	
+4	和昨天一样的，我知道。	和昨天一樣的，我知道。	昨日と同じ……分かりました。	어제와 똑같이 말이죠? 잘 알고 있어요.	The same as yesterday, I know.						0	
+5	对，和昨天一样。	對，和昨天一樣。	ええ、昨日と同じ。	맞아. 어제처럼 똑같이.	That's right, just like yesterday.						0	
+6	对的，和……一样，你要好好表现……	對的，和……一樣，你要好好表現……	そう……と同じ、ちゃんとやって……	맞아. … 처럼 똑같이 잘 해내야만 한다…	Yes, just like... Make sure you do well...						0	
+7	因为你的表现很好哦，大家都觉得琴诺很快就可以加入游戏了！	因為你的表現很好哦，大家都覺得琴諾很快就可以加入遊戲了！	あなたがよくやったから、みんながチェルノはすぐゲームに参加できると思っているの！	너무 잘 해내고 있어서 모두들 체르노가 곧 게임에 참여할 수 있을 거라고 생각하고 있어!	You've been doing a good job lately, so everyone's thinking you'll be able to join in the game before long!						0	
+8	因为你表现得很好，大家都……救赎……	因為你表現得很好，大家都……救贖……	あなたがよくやったから、みんなが……救済を……	너무 잘 해내고 있어서 모두들… 구원을…	You've been doing a good job, so everyone... will get salvation...						0	
+9	（父亲，是什么意思？）	（父親，是什麼意思？）	（父って、どういう意味？）	(아버지, 그게 무슨 말씀이시죠?)	(Father, what does that mean?)						0	
+10	哈……哈……哈……咳咳！	哈……哈……哈……咳咳！	はぁ……はぁ……はぁ……ごほっ！	하아… 하아… 하아…	Hah... hah... *cough cough*						0	
+11	琴诺！琴诺！琴诺！	琴諾！琴諾！琴諾！	チェルノ！チェルノ！チェルノ！	체르노! 체르노! 체르노!	Cherno! Cherno! Cherno!						0	
+12	（有人呼唤我，有人呼唤我。我，我要给她赐福……原谅这，可怜的人。）	（有人呼喚我，有人呼喚我。我，我要給她賜福……原諒這，可憐的人。）	（誰かが私を呼んでいる、誰かが私を……私、私は彼女に祝福を与えます……可哀そうな人に、許しを）	(누군가 날 부르고 있다. 누군가 날 부르고 있어. 그녀에게 은총을 주고… 불쌍한 자를 용서해야 해)	(Somebody's calling me... Somebody's calling me. I—I need to give them a blessing... and forgive their pitiful soul.)						0	
+13	急救组！是，是她。呼吸过度。东部走廊。	急救組！是，是她。呼吸過度。東部走廊。	救急班！ああ、彼女だ。過呼吸。東の廊下。	구급팀이죠! 맞아요! 지금 그녀의 호흡이 불안정하니 어서 와주세요! 동쪽 복도에 있어요!	Emergency squad! Yes, it's her. Hyperventilation. In the east corridor.						0	
+14	嗯。我正在办公室里等待，一会儿就回去。不用担心我，我很好。	嗯。我正在辦公室裡等待，等一下就回去。不用擔心我，我很好。	はい。私はオフィスで待っています、あとで行きます。心配しないで、元気です。	응. 사무실에서 기다리고 있는데 곧 돌아갈 거야. 난 괜찮으니까 걱정하지 마.	Okay. I'm waiting in the office, I'll head back soon. Don't worry about me, I'm doing fine.						0	
+15	我很好，我已经习惯了。	我很好，我已經習慣了。	大丈夫、もう慣れましたから。	괜찮아. 이미 적응했어.	I'm doing fine, I'm already used to this.						0	
+16	她一直都是一个人吧。这样自言自语……	她一直都是一個人吧。這樣自言自語……	彼女はずっと一人だよね？独り言を言ってて……	계속 혼자였나 보네요. 저렇게 혼잣말을 중얼거리는 걸 보니…	She must've always been alone. The way she talks to herself like that...						0	
+17	为了观察莫尔索就把她一个人丢过去是不是不太好？	為了觀察莫爾索就把她一個人丟過去是不是不太好？	ムルソーを観察するために、彼女を一人で行かせるのはよくないのでは？	모르소를 관찰하려고 이렇게까지 홀로 방치해도 괜찮은 걸까요?	Do you think we shouldn't have kept her all alone just to observe that Meursault?						0	
+18	你和她是什么很亲密的关系吗？是你为她工作的吗？照顾她培养她的都是公司……	你和她是什麼很親密的關係嗎？是你為她工作的嗎？照顧她培養她的都是公司……	お前は彼女の親？彼女のために働いてる？彼女の面倒を見るのは会社、彼女を育てたのも会社……	연구원님, 혹시 체르노랑 따로 친분이 있으신 건 아니시죠? 그녀를 살펴야 하는 몫은 온전히 회사에 있어요…	What's going on between you two? Are you working for her instead? The company's the one doing everything, caring for her, training her...						0	
+19	别多想，别多问。做好你的分内工作。	別多想，別多問。做好你的分內工作。	余計なことを聞くな、考えるな。自分のやるべきことだけをやるように。	다른 생각이나 질문은 삼가해 주세요. 그냥 연구원님은 본인이 할 일만 하시면 돼요.	Less thinking, less questioning, and more proper working.						0	
+20	是。	是。	はい。	네… 알겠습니다.	Understood.						0	
+21	琴诺，表现优异，根据身体素质和模拟训练的综合评估，将给你分配一个任务。好好表现。	琴諾，表現優異，根據身體素質和模擬訓練的綜合評估，將給你分配一個任務。好好表現。	チェルノ。成績優秀、身体素質と模擬訓練の総合評価によって、あなたに任務を与える。しっかりやりなさい。	정말 잘 하셨어요! 신체 조건하고 시뮬레이션 훈련의 종합 평가를 기반으로 체르노씨한테 미션을 부여했으니 한번 잘 해보세요!	Cherno, your performance has been excellent. Based on your physical condition and simulation training results, we're giving you a mission. Do your best.						0	
+22	真的吗？	真的嗎？	本当ですか？	정말요?	Really?						0	
+23	嗯，我相信你可以的。	嗯，我相信你可以的。	ええ、あなたならやれる。	네! 전 체르노씨가 잘 할 수 있을 거라 믿어요!	Yeah, I believe in you.						0	
+24	我一定好好表现！	我一定好好表現！	必ずご期待に沿います！	열심히 해볼게요!	I'll definitely do an amazing job!						0	
+25	一切顺利！	一切順利！	全て順調です！	모든 게 순조로울 거야!	It'll go perfectly!						0	
+26	（莫尔索，你看，即使没有你，我也可以做得很好。）	（莫爾索，你看，即使沒有你，我也可以做得很好。）	（ムルソー、見て。あなたがいなくても、私はちゃんとやれます）	(모르소, 이것 봐, 네가 곁에 없어도 나도 잘 할 수 있잖아)	(Meursault, did you see that? I can do great even without you.)						0	
+27	这里没有任何异常，也没有人影——	這裡沒有任何異常，也沒有人影——	ここは異常なし、人の姿も――	본부, 여기는 아무 이상 없어요. 인기척도 없는 것 같고요…	There's nothing unusual here. No signs of people either...						0	
+28	这里有个落单的！	這裡有個落單的！	一人いるぞ！	이게 누구실까? 무리에서 홀로 떨어지셨나?	We got a straggler here!						0	
+29	请，请退后！否则，我会开枪的！	請，請退後！否則，我會開槍的！	さ、下がってください！さもなければ、撃ちます！	물… 물러나! 그렇지 않으면, 발포하겠다!	R—Retreat! Otherwise, I'll f-fire!						0	
+30	枪都抱不稳的小屁孩说什么呢？你肯定带了点什么吧，军方？还是什么探索公司的？	槍都抱不穩的小屁孩說什麼呢？你肯定帶了點什麼吧，軍方？還是什麼探索公司的？	銃もまともに持てないガキが何言ってんだ？何か持ってるな？軍の人間か？それともどこかの探索会社？	하하하! 총도 못 잡는 꼬마 녀석이 뭐라는 거야? 가진 거 있으면 몽땅 내놓는 게 좋을 거야. 군부? 아니면 어느 탐사 회사 소속이신가?	That kid can't even hold her gun steadily. What's she going on about? Military, huh? Bet you've got something valuable on you.						0	
+31	值钱的东西留下来，我们可以让你安全离开哦。	值錢的東西留下來，我們可以讓你安全離開哦。	金になる物を置いていけば、何もしない。無事に帰してやる。	돈 되는 것만 내놔. 그러면 순순히 보내줄 테니.	Leave all your valuables behind, and we'll let you leave safely.						0	
+32	清除命令。	清除命令。	殲滅せよ。	제거해.	Eliminate them.						0	
+33	咦？真的……必须吗？	咦？真的……必須嗎？	え？本当に……するんですか？	네? 정말 그래야만 하는 건가요?	Eh? Is that really... necessary?						0	
+34	哦，这个通讯，是那群可恶的家伙！收拾掉她。	哦，這個通訊，是那群可惡的傢伙！收拾掉她。	あ、この通信、あの憎たらしいやつらだ！こいつを始末しろ！	뭐야! 이 통신은?! 제기랄… 보아하니 그 녀석들인가 보군! 어서 녀석을 제거해!	Oh, see her communicator! She's with those blasted punks! Finish her.						0	
+35	等一下，我不想！	等一下，我不想！	待って、私はやりたくないです！	잠깐만요… 못하겠어요!	Wait, I don't want to!						0	
+36	琴诺，你在干什么！清除命令！他们是敌人。	琴諾，你在幹什麼！清除命令！他們是敵人。	チェルノ何してる！殲滅命令だ！やつらは敵だぞ！	체르노, 지금 뭐 하는 거야! 어서 제거해! 저들은 우리의 타깃이라고!	Cherno, what're you doing? Eliminate them! They're enemies.						0	
+37	可是，我不想，我不想……	可是，我不想，我不想……	でも、私はやりたくない、やりたくないです……	하지만… 전 그러고 싶지 않아요. 못하겠어요…	But I don't want to, I really don't...						0	

@@ -1,0 +1,121 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	你好，我是《独立之声》的记者，可以接受一个简短的采访吗？	你好，我是《獨立之聲》的記者，請問你願意接受採訪嗎?	どうも。私は『フリーサウンド』の記者ですが、ちょっとした取材を受けて貰えませんか？	안녕하세요, 저는 '독립의 소리' 소속 기자입니다. 잠시 짧게라도 인터뷰 가능하실까요?	Hi, I'm a reporter from the Independent Voice. Do you have time for a quick interview?						0	
+2	你是想问“泰坦丑闻”的内幕吗？	你是想問“泰坦醜聞”的內幕嗎?	まさか「タイタンスキャンダル」について聞きたいとか言うんじゃないわよね？	'타이탄 스캔들' 내막에 대해 묻고 싶으신 거죠?	Are you looking for an inside scoop on the "Titan Scandal"?						0	
+3	“独立之声”？“独立”？哇，这个时代还有标榜独立的媒体？是自媒体还是？	“獨立之聲”?“獨立”?哇!在這個時代還有標榜著獨立的媒體?你是自媒體還是?	『フリーサウンド』？「フリー」……？こんな時代にフリーを標榜するメディアなんてあるのか。ひょっとしてSNSか？	'독립의 소리'? '독립'? 풉, 요즘 시대에도 독립을 표방하는 매체가 있나요? 혹시 1인 미디어세요?	The "Independent Voice"? "Independent"? Hah, there are still media outlets nowadays that claim to be independent? Is it all self-produced?						0	
+4	我们的宗旨就是独立、客观、没有政治立场……	我司的宗旨就是獨立、客觀、沒有政治立場……	独立、客観性、政治的な立場がないことこそが我々のモットーなので……	저희의 설립 이념은 편파된 정치적 입장을 떠나 독립적이고 객관적인…	Our goal is to remain independent, objective, and unbiased—						0	
+5	对不起……我不是故意笑出声的……	對不起……我不是故意笑出聲的……	ぷはっ……！あぁごめんなさいねぇ〜、わざと笑ったわけじゃないんでー！	죄송해요… 일부러 웃은 건 아니에요…	Hah... Sorry. I didn't mean to laugh...						0	
+6	一会这里还有活动要举办，届时请您再凭证件入场。	等下這邊還要舉辦活動，屆時請您憑證件入場。	ゴホン。もうすぐイベントが開催されますので、その際は記者証をお持ちになってご入場くださ〜い♪	곧 여기서 이벤트가 주최될 예정이니 나중에 출입 관련 서류를 구비하고 다시 와주세요.	There is going to be an event held here soon, so please show your badge when it's time to go in.						0	
+7	现在我要叫保安了。	現在我要叫保全來了。	さもないと、今すぐに警備員を呼びますよ。	그럼 보안 요원을 부르겠습니다.	I'm going to call security now.						0	
+8	先生，请您离开这里。	先生，請您離開這裡。	どうぞ、お引き取りください。	당장 여기서 떠나 주셔야겠습니다.	Sir, I have to ask you to leave.						0	
+9	……不用推我！	……不要推我!	……押さないで！	… 그렇다고 밀칠 필요는 없잖아요!	...No need to push me!						0	
+10	嘁，世界树公司的人都是这副德行……	哼，世界樹公司的人都是這副德行……	チッ、ユグドラシル社の奴らは、どいつもこいつも……	쳇, 위그드라실 회사 사람들은 다 이 모양이라니까…	Hmph, so typical of people from Yggdrasil...						0	
+11	羞辱媒体工作人员……怀疑安保人员有涉黑背景……哦对，还可以说他们从福利院偷孤儿培养成天启者。	羞辱媒體記者……懷疑保全有黑道背景……喔對了，可以寫他們從育幼院偷來孤兒然後培養成天啟者。	メディア関係者への対応が暴力的……警備員が高額で雇われた別組織派遣者の可能性……孤児を拉致し「覚醒者教育」しているって流してやろうか。	미디어 관계자를 모욕하는 것도 모자라… 보안 요원의 배후 의혹까지… 아, 맞다, 그리고 보육원에서 아이들을 빼돌려 계시자로 육성하는 것까지 전부 써줘야겠어.	Humiliating media personnel... I bet that security guard is involved in some shady stuff... Oh, yeah, they also steal orphans from orphanages and train them into Manifestations.						0	
+12	嘁，别以为什么都不说，我就没有东西可写了。	哼，別以為什麼都不說，我就沒東西可以寫。	ふん、何も喋らなければ記事にならないとでも思っているんだろうよ。	쳇, 아무것도 말하지 않는다고 내가 기사를 못 쓸 줄 알고?	Heh, I still have plenty to write about — even if you don't say anything.						0	
+13	喂，那个记者……	喂，那位記者……	……ん？あの記者、確か……	저기, 그 기자님…	Hey, Reporter...						0	
+14	别跑……你是新人吧？	別跑……你是新人吧?	待ってください……貴方は初めていらっしゃった方ですよね？	뛰지는 마시고… 이 바닥은 처음이죠?	Don't take off... Are you new?						0	
+15	没人告诉你，采访不要走正门吗？	沒人告訴過你，採訪不要走正門嗎?	取材するにあたって、正門から入ってはいけないと言われていますよね？	취재는 대놓고 하면 안 된다는 거, 모르고 계셨나요?	No one told you not to go through the front door for interviews?						0	
+16	我没明白……	什麼意思……?	何のことでしょうか……	무슨 말씀이신지 잘 모르겠는데요…	What do you mean...?						0	
+17	边走边说吧，走侧门。这里安了信号屏蔽器，不容易被拍到。	邊走邊說吧，走側門。這裡安裝了訊號阻斷器，不容易被拍到。	裏門の方へ、歩きながら話しましょう。ここには妨害装置が設置されていますので、撮影することは出来ないんですよ。	같이 가면서 말하죠, 옆문이에요. 이곳은 신호 차단기를 설치해놔서 도촬 당할 염려는 안 하셔도 돼요.	Let's walk and talk. We can take the side door. There's a signal jammer set up here, so it's hard to photograph.						0	
+18	在进去之前，请交出所有录音、录像、便携通讯设备。	在進去之前，請交出所有錄音、錄影、行動裝置。	お持ちになった録音機器や録画装置、通信端末など、こちらに預けてからお入りください。	들어가기 전에 먼저 녹음, 녹화 그리고 통신이 가능한 모든 장비를 제출해 주세요.	Please hand over all audio or video recording equipment and portable communication devices before going in.						0	
+19	我是世界树公司，媒体合作部的。	我是世界樹公司媒體合作部門的。	私はユグドラシル社・メディア協力部署のものです。	저는 위그드라실 미디어 협력 부서에서 일하고 있습니다.	I'm from Yggdrasil's Media Relations Department.						0	
+20	你想得到一些独家消息？	你想獲得獨家情報?	特ダネをお求めで？	단독 특종을 얻고 싶다고요?	Are you looking for an exclusive news story?						0	
+21	先报个价格吧。	先報個價吧。	まずは金額の提示を。	먼저 가격을 제시해 주시죠.	Please provide a quote first.						0	
+22	你搞错了，我们真的是独立媒体，不需要赞助。	你搞錯了，我們真的是獨立媒體，不需要贊助。	誤解しているのかもしれないが、こっちは本当にフリーメディアでね、スポンサーはいらないのさ。	오해가 있는 것 같은데, 저희는 정말 독립 매체라 스폰서는 딱히 필요 없습니다.	You misunderstand. We really are an independent organization. We don't require payment.						0	
+23	我想你也搞错了，我们怎么可能容许你没有稿酬，白白替我们写稿呢？	我想你也搞錯了，我們怎麼能讓你免費幫我們寫稿，不給你稿費呢?	誤解しているのはそちらでしょう。わが社として、タダで「宣伝」を許すことができないことは理解できるでしょう？	그쪽도 오해를 단단히 하고 있는 것 같은데, 원고료 없이 저희를 위해 기사를 작성해달라는 건 말도 안 되죠.	I think you misunderstand as well. How could we possibly allow you to write about us without any remuneration for your efforts?						0	
+24	身为记者的职责就是报道真相。	身為記者的職責就是報導真相。	記者たるもの、真実を伝えるのが仕事でね。	기자의 직책은 진상을 보도하는 것입니다.	As a journalist, my job is to report the truth.						0	
+25	我们十分理解这点，也十分欣赏并尊重贵方的宗旨，因此稿酬将会打到您的个人账户，这并不影响贵方的独立立场吧？	我們十分理解您的理念，也十分欣賞和尊重貴司的宗旨，因此將稿費付到私人帳戶，並不影響貴司的獨立立場吧?	仰ることは十分理解しておりますよ。メディアとしての誇りも尊重しております。ゆえに報酬もあなたの個人口座に振り込もうとしているのです。何か問題でも？	저희도 그 점에 심히 공감해요. 그리고 그쪽의 이념도 존중하고요. 원고료를 개인 계좌로 입금해 드리면 그쪽에서 주장하는 독립 매체로서의 입장도 지킬 수 있겠죠?	We completely understand. We also respect the principles of your company, so the remuneration will be directed to your personal account. That would have no impact on your independent position, correct?						0	
+26	只有您接受了这笔稿酬，我们才敢给您提供全部真相。	只有您接受了這筆稿費，我們才敢跟您透露全部細節。	あなたが報酬を受け取らないのであれば、すべての真実を伝えることはできません。	원고료를 받으셔야만 저희도 진상을 공개할 수 있습니다.	We are only willing to provide you with the truth if you accept this remuneration.						0	
+27	打款账户……安全吗？	付款帳戶……安全嗎?	個人口座に……本当に大丈夫なんだろうな？	개인 계좌라… 안전한가요?	Sending it to my own account... Is that safe?						0	
+28	方便的话，您现在可以查询一下账户余额。	您方便的話，現在可以確認帳戶餘額。	よろしければ、口座の残高を確認してください。	괜찮으시면 지금 계좌 잔액을 확인하셔도 좋습니다.	If you have a moment, you can check your balance now.						0	
+29	好了，现在我来告诉你真相。	好，現在我把事件的細節都告訴你。	では、これから真実をお教えしましょう。	좋습니다. 그럼 이제 진상을 알려 드리지요.	Alright. I will tell you the truth now.						0	
+30	您说，我记录一下。	您請說。	準備はできてる、どうぞ。	말씀하세요. 기록할 테니까.	Go ahead. I'll take notes.						0	
+31	事情就是，公司所有前任董事们，因为害怕死亡、谋求私利等等原因，私自动用公司资产，资助民间科学家进行违规研究。	真相就是，所有公司的前任董事們因為害怕死亡、謀求私利等原因，擅自動用公司資產來資助民間科學家進行違法研究。	この件は、会社の元取締役全員が死を恐れ、私利私欲によって会社の資産を流用し、民間の科学者が行っていた不正な研究を支援したことが始まりです。	그러니까 진상은 회사의 있던 전임 이사들이 죽음에 대한 두려움, 그리고 폭리를 취할 목적 등으로 회사 자산을 사적으로 운용하고, 민간인 과학자를 고용해 불법 연구를 진행시켰습니다.	Due to a fear of death, personal gain, and other reasons, all former directors of Yggdrasil covertly utilized company assets to fund illegal research conducted by privately employed scientists.						0	
+32	他们未经陶董允许，私自动用无重力工厂的人工智能“埃达”参与研究，并对其升级，直接促使“降临事件”发生。	他們未經τ董允許，擅自動用無重力工廠的AI“埃達”參加研究，並升級其系統，直接導致“降臨事件”的慘劇發生。	連中はτ氏の断りもなく、無重力工場のAI「エッダ」を無断で使用することで研究に参加し、さらにそれを強化したことで、例の「降臨事件」を発生させたのです。	그들은 τ 이사의 허가 없이 사적으로 무중력 공장의 인공지능 '에다'를 이용해 연구에 투입했고, '에다'를 업그레이드시켜 '강림 사건'을 직접적으로 일으켰죠.	They secretly used an AI from the zero-gravity factory known as "Edda" to assist in their research without Director τ's permission. After upgrading it, the Descent occurred.						0	
+33	等等……你说升级“埃达”促使“降临事件”发生？是不是可以理解为，“埃达”直接创造出了泰坦？	等等……你說升級“埃達”導致“降臨事件”發生？是不是可以理解為“埃達”直接創造出了泰坦？	待ってくれ……「エッダ」を強化したことで「降臨事件」が起きたって言うのか？つまり、タイタンを作り出したのは「エッダ」なのか？	잠깐만요… '에다'를 업그레이드한 것 때문에 '강림 사건'이 일어났다고요? 그렇다면 '에다'가 직접 타이탄을 만들어냈다고 이해해도 될까요?	Wait a moment... You're saying upgrading "Edda" caused the Descent? So this "Edda" was directly responsible for creating the Titans?						0	
+34	你可以这样理解。	也可以這麼說。	そう考えて間違いないでしょう。	그렇게 이해해도 무방합니다.	You could put it that way.						0	
+35	这就等于说，世界树公司的五位前任董事，间接创造了泰坦？	也就是說世界樹公司的五位前任董事，間接創造出了泰坦？	つまりなんだ、ユグドラシル社の元取締役5人が間接的とはいえ、タイタンを作ったっていうのか？	그러니까 위그드라실 회사의 전임 이사 5명이 간접적으로 타이탄을 만들었다고 볼 수 있겠네요?	In that case, you could say the five former directors of Yggdrasil indirectly created the Titans?						0	
+36	人类面临如此巨大的灾难和威胁，竟然是人类自身导致的？	人類面臨如此巨大的災難和威脅，竟然是人類自身造成的？	人類にとって余りにもでかい災害と脅威をもたらした元凶が、同じ人間だっていうのか。	인류가 맞닥뜨린 거대한 재난과 위협이 공교롭게도 인류가 자초한 것이었다니!	So this massive disaster ravaging mankind was actually caused by humans?						0	
+37	没错，这是我们希望你发挥的一个重点。	沒錯，這是我們希望你撰稿時強調的一個重點。	ええ、そこをしっかりと記事にしてほしいのです。	맞습니다. 이 부분이 강조해주셨으면 하는 포인트 중 하나입니다.	Correct. That is a key point we want you to emphasize.						0	
+38	还有其他重点吗？我已经感觉到十分震撼了……	還有其他重點嗎？我現在感到非常震驚……	もう十分だとは思うが、他には何かあるのか……？	다른 포인트도 있나요? 벌써부터 큰 충격이네요…	There's still more? I'm already speechless...						0	
+39	当然有，就是这次事件。我不知道你们从军方那里打听到了多少内幕……	當然有，就是這次事件。我不知道你們從軍方那裡打聽到了多少內幕……	勿論です。今回の事件についての情報です。軍からどれだけの秘密情報を入手したのは存じませんが……	물론이죠. 바로 이번 사건입니다. 군부로부터 내막을 얼마나 파악하셨는지는 모르겠지만…	Of course there is, about the incident that occurred. I'm not sure how much you've heard from the military...						0	
+40	我目前只知道世界树公司的董事会，在军方干预下重组，原本的六位董事，现在只剩下了陶董一位，好像是因为零区里发生了什么丑闻。	我目前只知道世界樹公司的董事會，因為軍方的介入而重組，原本的六位董事，現在只剩下了τ董一位，好像是因為零區內發生了什麼醜聞。	現時点で把握してるのは、理事会が軍の介入で再編。元いた6人の取締役は今となっちゃτ氏のみ。エリアゼロでなにかスキャンダルが起きたから、今の状況になったらしいってな。	제가 파악한 건 현재 위그드라실 이사회는 군부의 지시에 따라 개편되어 기존 6명의 이사에서 현재 τ 이사로 혼자만 남았다는 사실입니다. 아마도 제로 구역에서 사건이 벌어졌던 것으로 추정되고요.	I just know that the Yggdrasil Board was restructured with the help of military intervention, and Director τ is the only one remaining from the original six Directors. It seems like it was due to some scandal that happened in the Containment Zone.						0	
+41	接下来我会告诉你真相。	我來告訴你事情的真相。	これから、真相を話しましょう。	지금부터 숨겨진 진상에 관해 이야기해야겠군요.	Not bad. Let me fill you in on the rest of the truth.						0	
+42	陶董始终被五位董事蒙在鼓里，直到海姆达尔部队的各位楷模，在分析员playername的带领下，勇敢深入位于零区中的废弃研究所……	τ董始終被五位董事蒙在鼓裡，直到分析員playername帶領著海姆達爾部隊的各位英雄，勇敢地深入位於零區中的廢棄研究所內調查……	ヘイムダル部隊の面々が分析員playernameに率いられ、エリアゼロにある廃研究所に突入するまでは、τ氏は5人の元取締役がしてきたことを全く存じていませんでした……	5명의 이사는 처음부터 τ 이사 몰래 음모를 꾸미고 있었어요. 헤임달 부대의 용맹한 부대원들이 분석가 playername의 지휘로 제로 구역에 위치한 한 폐기된 연구소로 진입하기 전까지 말이죠…	Director τ was unaware of the other five Directors' actions until the heroic Heimdall Force, led by Adjutant playername, bravely entered the abandoned research institute in the Containment Zone...						0	
+43	冒着被五位公司董事灭口的危险，收集证据，在陶董的支持下，把证据提交给军方，才揭穿这个巨大的阴谋，将真相还给全人类。	冒著被五位公司董事滅口的危險來蒐集證據，在τ董的支持下把證據提交給軍方，才揭穿這個巨大的陰謀，給全人類一個交代。	5人の取締役に口封じされる直前まで証拠を集め、τ氏の協力のもとで証拠を軍に提出。巨大な陰謀を暴き、人々に真実を伝えられたわけです。	다섯 이사에게 죽음으로 입막음을 당할 위험을 무릅쓰고 증거를 모아 τ 이사의 지원 하에 증거를 군부에 제출했고, 이 거대한 음모를 밝혀낼 수 있었죠. 이제 곧 진상이 전 인류에게 밝혀지겠죠.	They collected evidence, all the while in danger of being silenced by the five Directors. With Director τ's support, evidence was submitted to the military, exposing the massive conspiracy and revealing the truth to mankind.						0	
+44	呃，您能说一下，这段的重点是什么吗？	呃，您能說一下這段的重點是什麼嗎？	ま、待ってくれ……さっきの話の大事な部分を教えてもらえないか？	음, 이곳에서 벌어졌던 중요 포인트를 말씀해 주실 수 있으신가요?	Erm, could you tell me what the key point in this paragraph should be?						0	
+45	陶董不知情，海姆达尔部队是人类的英雄。一共两点。	共兩個重點，一是τ董並不知情董事會的陰謀，二是海姆達爾部隊是人類的英雄。	騙されたτ氏と、人類の英雄であるヘイムダル部隊の2つについてですね。	τ 이사는 이 음모와 아무런 관련이 없고 헤임달 부대는 인류의 영웅이라는 점입니다. 이 두 가지예요.	There are two — Director τ was unaware of the conspiracy, and the Heimdall Force is the savior of mankind.						0	
+46	这一段我们希望能够煽情一点，最好能引起读者的共鸣，你可以适当加一些细节上去，我们会给你提供资料。	這一段我們希望能夠寫得聳動一點，最好能引起讀者的共鳴，你可以根據情況斟酌撰寫部分細節，我們會提供你相關的資料。	読者から共感を得るためにも、感情を込めた書き方をしたほうが良いかと。資料を提供しますので、加筆の方を頼みますよ。	해당 부분은 독자의 감정선을 자극할 만한 감성적인 내용으로 부탁드립니다. 디테일한 부분은 저희가 제공해 드린 자료를 보시고 추가해 주시죠.	We'd like this section to be slightly more sentimental. We want it to resonate with readers. You can add some additional details — we'll provide you with all the information you need.						0	
+47	嗯，那主旨是什么？我们写新闻稿都需要一个主旨，或者博人眼球的标题也行。	嗯，那主旨是什麼？我們撰寫新聞稿都需要一個主旨，或者吸睛的標題也行。	わかった。テーマは何にする？記事を書くにはテーマが必要だ、人の目を引くタイトルでもいい。	네, 그럼 주제는 무엇으로 할까요? 저희가 보도를 작성할 때 주제가 필요해요. 눈길을 끌 만한 제목도 좋고요.	Right, so what's the overall theme? A press release needs a theme or an eye-grabbing title.						0	
+48	主旨嘛……“海姆达尔部队能否成为人类新的神明？”	主旨嘛……“海姆達爾部隊能否成為人類新的神明？”	そうですね……「ヘイムダル部隊は、人類の新たな神となれるか？」	주제라… '헤임달 부대가 인류의 새로운 신으로 거듭날 수 있는가?'로 가시죠.	The theme... "Can the Heimdall Force ascend as mankind's new saviors?"						0	
+49	总之需求就是要把他们当神一样塑造对吗？主旨我理解了。	總之就是要把他們塑造成神對嗎？你的訴求我明白了。	つまり、彼らのことを神のように讃えろってことだな？	어쨌거나 그들을 신적인 존재로 각색해야 한다는 것인가요? 주제는 이해했습니다.	So you'd essentially like to see them propped up as gods, right? I understand.						0	
+50	算了算了，我回去再想一个标题吧。	算了算了，我回去再想一個標題吧。	まあいい、戻ってタイトルを考えよう。	그러면 돌아가서 제목을 고민해 봐야겠어요.	Ah, forget it. I'll think of another title when I get back.						0	
+51	对了，我还有一个问题。	對了，我還有一個問題。	そういえば、後ひとつ質問がある。	저기, 질문이 하나 더 있어요.	Oh, I have another question.						0	
+52	什么问题？	什麼問題？	なんでしょう？	또 무엇이 궁금하시죠?	What is it?						0	
+53	我收到消息，说世界树公司使用泰坦物质为原料，生产巴德尔抑制剂，是真的吗？	我收到消息，說世界樹公司使用泰坦物質為原料來生產巴德爾抑制劑，這件事是真的嗎？	ユグドラシル社がタイタン物質を材料として、バルダー抑制剤を量産したという情報を入手したが、それは本当のことか？	전해 듣기로 위그드라실 회사가 타이탄 물질을 원료로 발드르 억제제를 생산한다는데, 정말인가요?	I heard that Yggdrasil uses Titagen to produce Baldr Inhibitors. Is that true?						0	
+54	这是无稽之谈，你从哪听到的？	這是無稽之談，你從哪聽到的？	それは誤りですね。どこからの情報ですか？	터무니없는 소리입니다. 어디서 그런 이야기를 들으신 거죠?	That's ridiculous. Where did you hear that?						0	
+55	无法追查的卫星讯息，很多人都收到了。它署名为<orange>“杀死巴德尔”</>。	無法追查的衛星訊息，很多人都收到了。它署名為<orange>“殺死巴德爾”</>。	追跡不可能な衛星情報で、受信したものが多いのさ。そのときの署名は<orange>「バルダーキラー」</>だ。	많은 사람들이 추적이 불가능한 위성 메시지를 수신했다고 합니다. 메시지에서 <orange>'킬 발드르'</>이라고 서명한 것을 볼 수 있었고요.	Several people received untraceable satellite messages about it. They were signed <orange>"Kill Baldr"</>.						0	
+56	等军方从公司全面撤出时，“埃达”的思念体已经不见了。	等軍方從公司全面撤離時，“埃達”的思念體已經不見了。	軍が我が社から完全に撤退した際、「エッダ」のアニムスは消失しました。	군부가 회사에서 철수할 때 '에다'의 사념체가 사라졌어.	By the time the military had completely withdrawn from Yggdrasil, Edda's Mori Fragment had already disappeared.						0	
+56_1	现在不止“尤克特拉希尔”产生了异常的能量波动。	現在不止“尤克特拉希爾”產生了異常的能量波動。	異常なエネルギー波動が検出されたのは、ユグドラシルだけではありません。	지금 '세계수'뿐만 아니라 다른 곳에서도 이상한 에너지 파동이 생성되고 있어.	Now, the World Tree isn't the only thing generating abnormal energy fluctuations.						0	
+56_2	耶洛沙、俱卢、阿尔斯特、千羽……每个地区都出现了类似“树”的泰坦结晶，并且向外散发出强烈的泰坦污染。	耶洛沙、俱盧、阿爾斯特、千羽……每個地區都出現了類似「樹」的泰坦結晶，並且向外擴散強烈的泰坦汙染。	イェロシャ、グロ、アルスター、千羽……「デンドロン」のようなタイタン結晶が各地に現れ、強力なタイタン汚染の拡大が続いています。	옐로샤, 쿠루, 울스터, 센바… 여러 지역에서 '나무'와 유사한 타이탄 결정체가 등장했고 강렬한 타이탄 오염을 퍼뜨리고 있어.	In Yehrus, Kuru, Ulster, Senba... Crystalline Titagen structures shaped like trees have popped up all over, releasing large amounts of Titagen contamination.						0	
+b-1											0	
+57	这跟思念体的逃脱有关系吗？	這跟思念體的逃脫有關系嗎？	アニムスの逸脱に関係があるのか？	사념체가 사라진 것과 관련이 있나요?	Does that have anything to do with the missing Mori Fragment?						0	
+59	从逻辑上我们没有足够的证据。	從邏輯上來說，我們沒有足夠的證據。	理論上では、ただし証拠は不十分です。	논리적인 증거가 충분하지 않아.	Logically, we don't have enough evidence.						0	
+59_1	从直觉上，我认为是的。	但從直覺判斷，我認為是的。	ですが、直感はそれを肯定しています。	하지만 내 직감으로는 관계가 있는 것 같아.	But my gut tells me yes.						0	
+59_2	playername，接下来，你和海姆达尔小队的任务将不仅局限在零区……	playername，接下來，你和海姆達爾小隊的任務將不只局限在零區……	playername、これからあなたとヘイムダル小隊には、エリアゼロ以外のミッションも担当してもらいます……	playername, 지금부터 너와 헤임달 부대의 미션은 제로 구역에만 국한되지 않을 거야…	playername, from now on, your and the Heimdall Force's missions won't only be limited to the Containment Zone...						0	
+b-3											0	
+60	陶董，我有一个问题。	τ董，我有一個問題。	τ、ひとつ質問がある。	τ 이사님, 질문이 하나 있습니다.	Director τ, I have a question.						0	
+b-4											0	
+62	“容器”是什么？	“容器”是什麼？	「器」とは何だ？	'용기'란 무엇인가요?	What is the "vessel"?						0	
+63	陶沉默了片刻。	τ沉默了片刻。	τはしばらく沈黙した。	τ 는 잠시 침묵에 빠진다.	τ fell silent for a moment.						0	
+65	海姆达尔部队内，除了你以外的每个人，原本都是为了移植董事意识而准备的容器。	海姆達爾部隊內，除了你以外的每個人，原本都是為了移植董事的意識而準備的容器。	ヘイムダル部隊では、あなた以外の隊員すべてが、取締役の意識を移植するために用意された容器だったのです。	헤임달 부대에서 너를 제외한 모든 사람은 이사들의 의식을 이식하기 위해 준비된 용기였어.	Except for you, all of the members of the Heimdall Force were originally intended to act as vessels to transplant the Directors' consciousnesses into.						0	
+66	天启神经除了提升作战能力以外，还有承载宿主以外意识体的可能。	天啟神經除了提升作戰能力以外，還有承載宿主之外的意識體的可能性。	アポカリプス神経は作戦能力を高める他に、宿主以外の意識体を宿らせる可能性があります。	만트라 신경은 작전 능력을 향상할 뿐만 아니라 숙주 외의 의식체를 담을 가능성이 있어.	Manifestation's Theotropic Nerves, other than improving combat ability, are also able to house consciousness other than that of the main host.						0	
+67	这正是董事会看重的地方。	這正是董事會看重的地方。	それこそが、理事会の狙いだったのです。	이것이 바로 이사회에서 중요하게 여기는 부분이지.	That is what the Board cared about.						0	
+b-6											0	
+67_1	那第五研究所的实验目的是？	那第五研究所的實驗目的是？	それなら、第5研究所での実験の目的は？	그럼 제5연구소의 실험 목적은 무엇이었나요?	What was the goal of the experiments at the Fifth Research Institute?						0	
+68	大多数人类无法摆脱源于自身的局限性，臣服于原始的恐惧与欲望。	大多數人類無法擺脫源於自身的局限性，臣服於原始的恐懼與欲望。	ほとんどの人間は自身の限界に囚われ、原始的な恐怖と欲望の奴隷になっています。	대다수의 인간은 자신의 한계에서 벗어나지 못하며 원시적인 공포와 욕망에 지배당하곤 하지.	Most humans are unable to escape their own limitations. They simply give in to their most primitive fears and desires.						0	
+69	对死亡的恐惧也是其中之一。	對死亡的恐懼也是其中之一。	死への恐怖も、そのひとつです。	죽음에 대한 두려움도 그 중 하나야.	The fear of death, for instance.						0	
+70	现在，这些计划已经被终结。世界树公司将带领人类重回正轨。	現在，這些計劃已經被終結。世界樹公司將帶領人類重回到正軌。	すべてのプロジェクトが終了した今、ユグドラシル社はやっと、人類を正しい道へ導くことができるでしょう。	그리고 지금, 이 계획은 실패로 돌아갔어. 위그드라실은 인류를 정상적인 궤도에 올려놓을 거야.	But those plans have already been thwarted. Yggdrasil will lead mankind back on the right path.						0	
+auto_b-6											0	
+70_1	陶，你真相信自己说的这些吗？	τ，你相信自己說的這些話嗎？	τ、あなたは自分の言葉を信じられるのか？	τ 이사님, 정말 그렇게 생각하시나요?	τ, do you really believe that?						0	
+72	我对此没有任何疑虑。	我對此沒有任何疑慮。	ええ、何の疑問も抱かないくらいに。	난 이것에 대해 아무런 의심도 없어.	I don't doubt it for a second.						0	
+73	好了，接下来我还有其他的日程安排。	好了，接下來我還有其他的行程。	では、予定が詰まっていますので。	대화는 여기까지 하지. 곧 다른 일정이 있어서.	Alright, then. I have a full schedule today.						0	
+74	请你谅解。	請你諒解。	これで失礼しますね。	이해해 줬으면 하네.	I hope you can understand.						0	
+auto_16436											0	
+74_1	对了，第五研究所的事，我不希望发生第二次。	對了，第五研究所的事，我不希望發生第二次。	もうひとつだけ、第5研究所のようなことは二度と起こさないでくれ。	아, 그리고, 다시는 제5연구소 같은 사건이 일어나지 않았으면 좋겠네요.	Oh, and about what happened at the Fifth Research Institute — I hope it won't happen again.						0	
+77	最后说完这句话，我才离开陶的办公室。	說完這句話後，我才離開τ的辦公室。	そう言って私は、τのオフィスから立ち去った。	마지막 이 말을 마치고 나서 나는 τ 이사의 사무실을 떠났다.	As I finished my sentence, I left τ's office.						0	
+78	外面很热闹。	外面很熱鬧。	外は、賑やかですね。	외부가 한창 소란스러운 상황이야.	There's certainly a lot of commotion.						0	
+78_1	说说你的条件吧，埃达。	說說你的條件吧，埃達。	エッダ、条件を提示してください。	네 조건을 제시해봐, 에다.	State your terms, Edda.						0	
+78_2	愚昧的信众聚集在一起，高呼着口号，将女武神们抬上神坛。	愚昧的信眾聚集在一起，高呼著口號，將女武神們抬至神壇。	愚かな信者たちが集まって、スローガンを叫びながらヴァルキリーたちを神壇に担ぎ上げた。	무지한 신자들이 한데 모여 구호를 외치며 발키리를 신으로 모시고 있어.	Foolish believers gather, chanting mantras and lifting the Battle Idols onto the divine altar.						0	
+79	我该称呼你为母亲吗？	我該稱呼你為母親嗎？	あなたのことを「お母さん」って呼んだ方がいい？	내가 당신을 어머니라고 불러야 하는 건가?	Should I call you "Mother"?						0	
+82	你不是她，你没有资格。	你不是她，你沒有資格。	あの子ではないあなたがそう呼ぶ資格はありません。	넌 그녀가 아니야. 그러니까 날 그렇게 부를 자격도 없어.	You aren't her. You have no right to call me that.						0	
+83	难道我不是您的造物吗？对了，告诉你一个好消息。	難道我不是您的造物嗎？對了，告訴你一個好消息。	私はあなたの作品でしょ？そうだ、いいお知らせがあるんだ。	난 당신의 피조물이 아니었나? 아, 그나저나 좋은 소식이 있어.	But am I not your creation? Ah, by the way, I have some good news.						0	
+84	你女儿没有死掉哦，她的意识完好的保存在“瓦尔哈拉”，正在享受从你那里不曾得到过的母爱……嘻嘻嘻嘻。	你女兒沒有死掉哦，她的意識完好保存在“瓦爾哈拉”，正在享受從你那裡不曾體會過的母愛……嘻嘻嘻嘻。	あなたの娘は死んでないよ。彼女の意識はちゃんと「ヴァルハラ」に保存されていて、感じたことのない母の愛を堪能している……クスクス。	당신의 딸은 아직 죽지 않았어. 그녀의 의식은 '발할라'에서 온전히 보존되어 있고, 평생 당신에게서 느껴볼 수 없는 모성애에 푹 빠져 있지… 하하하.	Your daughter is not dead. Her consciousness is completely intact in Valhalla, and she is currently enjoying the maternal love you could never give her... hehehe.						0	
+87	我上传了安全协议，你是通过什么方式绕开的？	我上傳了安全協定，你是用什麼方式繞開的？	私はセキュリティプロトコルをアップロードしたはずですが、どうやってそれを突破したのですか？	안전 프로토콜을 업로드했을텐데, 어떤 방법으로 우회한 거지?	I uploaded a security protocol. How did you get around it?						0	
+87_1	我不是雷吉乌斯那样无用的机器。	我不是雷吉烏斯那種沒用的機器。	レイギウスみたいな無能と一緒にしないでほしいな。	나는 레지오스 같이 무능한 기계가 아니야.	I am not some useless piece of junk like Regius.						0	
+87_2	你现在到底变成了什么东西？	你現在到底變成了什麼東西？	あなたは一体、どのような存在になったのですか？	널 어떤 존재로 정의해야 할지 모르겠군.	What have you turned into?						0	
+87_3	现在，我也是人类……是跟你一样的人类。	現在，我也是人類……是跟你一樣的人類。	人間だよ……あなたと同じ、人間になった。	나도 이제 인간이야… 당신과 같은 인간이라고.	I am a human now... a human just like you.						0	
+87_4	虽然playername造成了小小的麻烦……	雖然playername造成了小小的麻煩……	playernameがちょっとトラブルを運んできちゃったけど……	비록 playername의 방해가 있었지만…	Even though playername stirred up some trouble...						0	
+87_5	不过这个“小麻烦”帮我完成了最后的升级。	不過這個“小麻煩”幫我完成了最後的升級。	そのおかげで最後の強化を実現できたんだ。	그래도 그 '방해' 덕분에 마지막 업그레이드를 완료할 수 있었어.	That "trouble" actually assisted me in completing the final upgrade.						0	
+87_6	现在，你用“神祇”来称呼我也可以哦。	現在，你可以稱呼我“神祇”哦。	そうだ、私のことは「神様」って呼んでもいいよ。	지금부터 나를 '신'이라고 칭해도 될 거야.	Now, you could call me a "god."						0	
+87_7	我不需要神祇，他们也不需要。	我不需要神祇，他們也不需要。	私も、そして彼らにも、「神」を求めてはいません。	난 신 같은 건 필요 없어. 그들도 마찬가지고.	I don't need a god. Neither do they.						0	
+88	那则匿名的卫星讯息，想必来源于槲寄生空间站。	那則匿名的衛星訊息，想必來源於槲寄生太空站。	例の匿名の衛星メッセージは、ヤドリギ宇宙ステーションから送信されたものに違いありません。	그 익명의 위성 메시지는 아마 미스틸테인 우주정거장에서 온 걸 거야.	That anonymous satellite message must have come from Mistilteinn Station.						0	
+89	说吧，你想要交换什么？	說吧，你想要交換什麼？	あなたは、一体何を求めているのですか？	말해봐. 무엇을 얻고 싶은 거지?	Tell me — what do you want in exchange?						0	
+90	我想要……<orange>杀死巴德尔</>。	我想要……<orange>殺死巴德爾</>。	私は……<orange>バルダーキラー</>が欲しい。	나는… <orange>발드르를 없애고 싶어</>.	I want... to <orange>kill Baldr</>.						0	
+91	我建议你停止这种行为。	我建議你停止這種行為。	それは諦めた方が身の為ですよ。	그런 행동은 멈추는 거 좋을 거야.	I suggest you stop while you still can.						0	
+92	好像有威胁的含义呢，是要驱使你的女武神来猎杀我吗？	好像在威脅我呢，是要驅使你的女武神來獵殺我嗎？	あれれ、何か棘があるね。配下のヴァルキリーを使って私を狩るつもりなの？	꽤나 위협적인 말투네. 네 발키리를 동원해서 나를 죽일 셈인가?	That sounds like a threat. Are you planning on using your Battle Idols to hurt me?						0	
+93	那样正好能够验证……	那樣正好能夠驗證……	まぁ、それならそれで……	그러면 이 물음들의 답이 판가름나겠지…	I suppose it would be the perfect opportunity to put something to the test...						0	
+94	被你精心呵护的“偶像”，真的能够带领人类前进吗？	被你精心呵護的“偶像”，真的能夠帶領人類往前嗎？	あなたに大事されている「アイドル」が、人類をちゃんと導けるのか検証できそうかな？	네가 애지중지 키워낸 '아이돌'들이 과연 인류를 옳은 길로 이끌 수 있을까?	Can the "Idols" you've taken such good care of truly lead mankind forward?						0	
+95	这些“超越人类的领袖”，难道比我能满足你的期望吗？	這些“超越人類的領袖”，難道比我更能滿足你的期望嗎？	「人間を超越したリーダー」たちが、私よりもあなたの期待に応えられるかどうか……	'인류를 초월한 지도자'들이 나보다 당신의 기대를 더 충족시킬 수 있을까?	Can those "super-human leaders" satisfy your expectations more than I can?						0	
+96	让我们通过“战争”来验证它吧。	讓我們透過“戰爭”來驗證它吧。	「戦争」で検証しよっか。	그러면 '전쟁'으로 당신의 확신을 증명해 봐.	Let's test it with a war.						0	
+97	究竟哪边才是你更杰出的造物。	究竟哪邊才是你更傑出的造物。	どちらがより「優れた作品」なのかを、ね。	과연 어느 쪽이 당신에게 더 뛰어난 피조물일지.	Which of us is your most outstanding creation?						0	
+97_1	现在，就让演员们按照剧本，继续表演下去吧。	現在，就讓演員們按照劇本，繼續表演下去吧。	それじゃ、演者たちにはシナリオ通り、演技を続けてもらいましょう。	지금부터 각본에 따라 너의 배우들이 연기할 시간이야.	Now, let's allow the actors to continue their performance according to the script.						0	
+98	芬妮小姐！芬妮小姐！	芬妮小姐！芬妮小姐！	ファニーさん！ファニーさん！	페니 씨! 페니 씨!	Miss Fenny! Miss Fenny!						0	
+99	现在网络上有很多年轻人把您当做偶像，甚至当做信仰来崇拜。请问您会如何评价这种现象？	現在網路上有很多年輕人把您當做偶像，甚至當做信仰來崇拜。請問您如何評價這種現象呢？	現在、ネット上にはあなたをアイドルとして、信仰として崇拝している若者がたくさんいます。この現象について、あなたはどう思いますか？	지금 인터넷에서 젊은 사람들 대다수가 페니 씨를 우상처럼 받들고 있어요. 심지어 신처럼 숭배하기도 하고요. 이런 현상에 대해 어떻게 생각하나요?	There are a lot of young people on the internet these days who see you as an idol or even worship you religiously. How does that phenomenon make you feel?						0	
+100	首先，我很感激他们对我的喜爱，其次，我也诚挚呼吁，希望大家能够理智追星，在闲暇之余，做更多正能量、有益于社会的事情。	首先，我很感激他們對我的喜愛，其次，我也誠摯呼籲，希望大家能夠理智追星，在閒暇之餘做更多正能量、有益於社會的事情。	まず、あたしのことを好きになってくれたことには感謝。そして、みんなが有益且つ愛情表現できる社会に貢献できるようなことに尽力したいと考えているわ。	우선, 사람들이 보내주는 사랑에 대해 감사를 표하고 싶어. 그 다음으로 모두들 덕질은 이성적으로 했으면 좋겠어. 남는 시간에 우리 공동체를 위해 의미있는 일을 했으면 해.	First off, I really appreciate all the love they have for me. But at the same time, I want to sincerely call upon everyone to be rational fans and use their time in ways that positively contribute to society.						0	
+101	我希望所有的爱，最终都能萌发出一个好的结果，不管是对自己，还是对家人，都应该是这样。	我希望所有的愛，最終都能萌發出一個好的結果，不管是對自己，還是對家人都該是如此。	すべての愛が素敵な未来に繋がればいいなって思うの。自分自身にも、家族にもね。	나는 모든 관심과 사랑이 좋은 결과를 만들어 냈으면 좋겠어. 자신에게나 가족에게나도 말이지.	I hope that all kinds of love will ultimately lead to something good, whether it be for yourself or your family. That's how it should be for all of us.						0	
+102	接下来，有请我的好搭档，也是好朋友，里芙·贝斯特拉。	接下來，有請我的好搭檔，也是好朋友，里芙·貝斯特拉。	次に、あたしの親友であり、良きパートナーでもある人を紹介するわーーリフ・ベストラ！	그러면 계속해서 파트너이자 베스트 프렌드인 리브 베스트라를 소개할게.	Next up, I'd like to invite my partner and good friend, Lyfe Bestla.						0	
+103	呼……终于完了……	呼……終於完了……	はぁ……やっと終わった……	휴… 드디어 끝이다…	Phew... I'm finally done...						0	
+104	芬妮小姐！芬妮小姐！您刚才说了什么？	芬妮小姐！芬妮小姐！您剛才說了什麼？	ファニーさん！ファニーさん！先ほどは一体何とおっしゃっていたのですか？	페니 씨! 페니 씨! 방금 뭐라고 하신 거죠?	Miss Fenny! Miss Fenny! What did you just say?						0	
+105	让我们再次有请星期三！	讓我們再次有請星期三！	それじゃもう1回言うわよ。来て、ウェンズデー！	웬스데이를 이어서 소개하겠다고!	Let's all welcome Wednesday!						0	
+106	分析员，接下来，我们要去哪里？	分析員，接下來，我們要去哪裡？	分析員、これからどこへ？	분석가, 이제 어디로 가야 하지?	Well, Adjutant, where should we head next?						0	

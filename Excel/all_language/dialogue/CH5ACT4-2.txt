@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	就像嗅见腥味的鲨鱼一样，源源不断涌来。	 就像嗅到血腥味的鯊魚一樣，源源不斷地湧現。 	血の臭いに釣られたサメのように、どんどん押し寄せてきますわ。	피 냄새를 맡은 상어떼처럼 끊임없이 몰려드네요.	They swarm like sharks when they sense blood.						0	
+auto_30196	呵呵……他们好像很恼火。	呵呵……他們好像很惱火。	ふふ……怒らせたみたいですね。	녀석들이 단단히 화난 모양인데요?	Heh... They seem upset.						0	

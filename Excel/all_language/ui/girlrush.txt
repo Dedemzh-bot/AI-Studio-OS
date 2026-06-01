@@ -1,0 +1,169 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+girl_title_name1	异绪消解	異緒消解	Odd Crush	감정 해소	Emotional Purge						1	
+girl_title_des1	异绪消解描述										1	
+girl_buff_neme1	思绪巩固	思緒鞏固	思考安定	사고 강화	Steady Mind						0	
+girl_buff_neme2	狂热情绪	狂熱情緒	熱狂的な感情	과열된 감정	Ecstatic Flare						0	
+girl_buff_neme3	心花怒放	心花怒放	胸の高鳴り	기쁜 마음	Lush Joy						0	
+girl_buff_neme4	心潮涌动	心潮湧動	思いの波動	흔들리는 마음	Surging Heart						0	
+girl_buff_neme5	满溢热情	滿溢熱情	情熱に溢れる	가득한 열정	Passion Flood						0	
+girl_buff_neme6	凝神定气	凝神定氣	気を引き締め	주의력 집중	Calm Anchor						0	
+girl_buff_neme7	热意绽放	熱意綻放	熱意が広がる	열정 만발	Scorch Burst						0	
+girl_buff_neme8	精准定位	精準定位	位置の特定	정확한 포지셔닝	Pin Point						0	
+girl_buff_neme9	缜密思维	縝密思維	緻密な思考	신중한 사고	Mental Grid						0	
+girl_buff_neme10	心流时间	心流時間	フロー状態	마음의 시간	Flow Time						0	
+girl_buff_neme11	涤荡杂念	滌蕩雜念	雑念を払う	잡념 제거	Mental Cleansing						0	
+girl_buff_neme12	思绪强化	思緒強化	思考強化	정신 강화	Focus Bloom						0	
+girl_buff_neme13	心潮叠涌	心潮疊湧	思いの寄せ波	마음의 파동	Tidal Surge						0	
+girl_buff_neme14	聚精会神	聚精會神	一心不乱	정신 집중	Concentration						0	
+girl_buff_neme15	精确锁定	精確鎖定	精確ロックオン	정밀 고정	Precision Lock						0	
+girl_buff_neme16	缜密思索	縝密思索	緻密な思考	신중한 사색	Meticulous Thought						0	
+girl_buff_neme17	心流时刻	心流時刻	フロー状態	공명의 순간	Flow of Time						0	
+girl_buff_neme18	坚韧心灵	堅韌心靈	不屈の精神	강인한 마인드	Resolute Will						0	
+girl_buff_neme19	小小慰藉	小小慰藉	小さな癒やし	작은 위로	Small Comfort						0	
+girl_buff_neme20	开朗心态	開朗心態	明るい心	쾌활한 태도	Optimism						0	
+girl_buff_neme21	弥补心伤	彌補心傷	心の傷を癒やす	상처 치유	Heart Healing						0	
+girl_buff_neme22	温柔抚慰	溫柔撫慰	優しい慰め	온화한 위로	Tender Healing						0	
+girl_buff_neme23	痛并快乐	痛並快樂	痛みと喜び	고통과 즐거움	Bitter-Sweet						0	
+girl_buff_neme24	异绪转换	異緒轉換	気分転換	사고의 전환	Emotional Shift						0	
+girl_buff_neme25	心无杂念	心無雜念	雑念のない心	평온한 마음	Mental Clarity						0	
+girl_buff_neme26	心海屏障	心海屏障	心の防壁	마음의 장벽	Mind Barrier						0	
+girl_buff_neme27	重铸心墙	重鑄心牆	防壁の再生	장벽 재주조	Fortified Heart						0	
+girl_buff_neme28	强韧内心	強韌內心	強靭な心	강인한 마음	Resilient Heart						0	
+girl_buff_neme29	异绪转化	異緒轉換	気分転換	사고의 변화	Emotional Shift						0	
+girl_buff_neme30	心海屏护	心海屏護	心の防壁	마음의 수호	Mind Fortress						0	
+girl_buff_des1	队员的攻击力提升30%，持续10秒	隊員的攻擊力提升30%，持續10秒	攻撃力+30%、10秒持続する	팀원의 공격력이 30% 증가한다. 지속 시간: 10초.	Increases ATK by 30% for 10 sec.						0	
+girl_buff_des2	队员射速提升40%，持续10秒	隊員射速提升40%，持續10秒	射撃速度+40%、10秒持続する	팀원의 사격 속도가 40% 증가한다. 지속 시간: 10초.	Increases Rate of Fire by 40% for 10 sec.						0	
+girl_buff_des3	队员使用战技后，伤害提升30%，持续10秒	隊員使用戰技後，傷害提升30%，持續10秒	スキルを使用した後、ダメージ+30%、10秒持続する	팀원이 전투 스킬을 사용한 후, 대미지가 30% 증가한다. 지속 시간: 10초.	Operatives deal 30% more DMG for 10 sec after using Tactical Ability.						0	
+girl_buff_des4	队员换弹时间降低60%，持续15秒	隊員換彈時間降低60%，持續15秒	装填時間-60%、15秒持続する	팀원의 재장전 시간이 60% 감소한다. 지속 시간: 15초.	Reduces Reload Time by 60% for 15 sec.						0	
+girl_buff_des5	立刻充满战技能量	立刻充滿戰技能量	スキルEPを最大にチャージする	즉시 전투 스킬 에너지를 가득 채운다.	Instantly restores full Tactical Energy.						0	
+girl_buff_des6	队员射击时产生的后坐力降低30%，同时伤害提升15%，持续10秒	隊員射擊時產生的後座力降低30%，同時傷害提升15%，持續10秒	射撃する際の反動-30%、ダメージ+15%、10秒持続する	팀원이 사격할 때 발생하는 반동력이 30% 감소하고, 대미지가 15% 증가한다. 지속 시간: 10초.	Operatives deal 15% more DMG with 30% less Recoil for 10 sec while firing.						0	
+girl_buff_des7	子弹数量无限，持续10秒	子彈數量無限，持續10秒	10秒間、弾薬数が無限になる	탄약이 무제한이다. 지속 시간: 10초.	Grants unlimited magazine ammo for 10 sec.						0	
+girl_buff_des8	队员暴击伤害提升45%，持续10秒	隊員暴擊傷害提升45%，持續10秒	会心ダメージ+45%、10秒持続する	팀원의 크리티컬 대미지가 45% 증가한다. 지속 시간: 10초.	Increases CRIT DMG by 45% for 10 sec.						0	
+girl_buff_des9	队员射击时产生的后坐力降低50%，同时瞄准稳定性提升50%，持续20秒	隊員射擊時產生的後座力降低50%，同時瞄準穩定性提升50%，持續20秒	射撃する際の反動-50%、照準の安定性+50%、20秒持続する	팀원이 사격할 때 발생하는 반동력이 50% 감소하고, 조준 안정성이 50% 증가한다. 지속 시간: 20초.	Reduces Recoil by 50% and increases Stability by 50% for 20 sec.						0	
+girl_buff_des10	队员枪械弹匣内子弹数量越少，造成的伤害越高，最高提升60%，持续20秒	隊員槍械彈匣內子彈數量越少，造成的傷害越高，最高提升60%，持續20秒	マガジン内の弾数が少ないほど、与ダメージが大きくなる（最大で+60%）、20秒持続する	팀원의 총기 탄창에 탄약이 적을수록 입히는 대미지가 높으며, 최대 60% 증가한다. 지속 시간: 20초.	Increases DMG as magazine ammo decreases, up to 60%. Lasts for 20 sec.						0	
+girl_buff_des11	队员命中敌人时产生小范围冲击波，对周围敌人造成1秒的眩晕或减速效果，持续5秒	隊員命中敵人時產生小範圍衝擊波，對周圍敵人造成1秒的眩暈或減速效果，持續5秒	攻撃が敵に命中すると、小範囲に衝撃波を発生させ、周囲の敵に1秒間の気絶または減速状態を付与する。衝撃波は5秒持続する	팀원이 타깃을 명중할 시, 소규모 범위 내에 충격파가 발생하여 주변의 타깃에게 1초간 기절 또는 감속 효과를 부여한다. 지속 시간: 5초.	Upon hitting an enemy, generates a small shockwave that causes a 1-sec stun or slow effect to nearby enemies for 5 sec.						0	
+girl_buff_des12	队员的攻击力提升10%，可叠加	隊員攻擊力提升10%，可疊加	攻撃力+10%、重複可能	팀원의 공격력이 10% 증가한다. 해당 효과는 중첩할 수 있다.	Increases ATK by 10% (stackable).						0	
+girl_buff_des13	队员换弹时间降低20%，可叠加	隊員換彈時間降低20%，可疊加	装填時間-20%、重複可能	팀원의 재장전 시간이 20% 감소한다. 해당 효과는 중첩할 수 있다.	Reduces Reload Time by 20% (stackable).						0	
+girl_buff_des14	队员射击时产生的后坐力降低10%，同时伤害提升5%，可叠加	隊員射擊時產生的後座力降低10%，同時傷害提升5%，可疊加	射撃する際の反動-10%、ダメージ+5%、重複可能	팀원이 사격할 때 발생하는 반동력이 10% 감소하고, 대미지가 5% 증가한다. 해당 효과는 중첩할 수 있다.	Reduces Recoil by 10% and increases DMG by 5% (stackable).						0	
+girl_buff_des15	队员暴击伤害提升15%，可叠加	隊員暴擊傷害提升15%，可疊加	会心ダメージ+15%、重複可能	팀원의 크리티컬 대미지가 15% 증가한다. 해당 효과는 중첩할 수 있다.	Increases CRIT DMG by 15% (stackable).						0	
+girl_buff_des16	队员射击时产生的后坐力降低15%，同时瞄准稳定性提升15%，可叠加	隊員射擊時產生的後座力降低15%，同時瞄準穩定性提升15%，可疊加	射撃する際の反動-15%、照準の安定性+15%、重複可能	팀원이 사격할 때 발생하는 반동력이 15% 감소하고, 조준 안정성이 15% 증가한다. 해당 효과는 중첩할 수 있다.	Reduces Recoil by 15% and increases Stability by 15% (stackable).						0	
+girl_buff_des17	队员枪械弹匣内子弹数量越少，造成的伤害越高，最高提升20%，可叠加	隊員槍械彈匣內子彈數量越少，造成的傷害越高，最高提升20%，可疊加	マガジン内の弾数が少ないほど、与ダメージが大きくなる（最大で+20%）、重複可能	팀원의 총기 탄창에 탄약이 적을수록 입히는 대미지가 높으며, 최대 20% 증가한다. 해당 효과는 중첩할 수 있다.	Increases DMG as magazine ammo decreases, up to 20%. This effect can stack.						0	
+girl_buff_des18	队员的防御提升30%，持续15秒	隊員的防禦提升30%，持續15秒	防御力+30%、15秒持続する	팀원의 방어력이 30% 증가한다. 지속 시간: 15초.	Increases DEF by 30% for 15 sec.						0	
+girl_buff_des19	立刻恢复队员全部生命	立刻回復隊員全部生命	HPが最大に回復する	즉시 팀원의 모든 HP를 회복시킨다.	Instantly restores full HP.						0	
+girl_buff_des20	队员每秒恢复10%生命，持续6秒	隊員每秒回復10%生命，持續6秒	1秒ごとに10%のHPを回復し、6秒持続する	팀원은 매초 10%의 HP를 회복한다. 지속 시간: 6초.	Restores 10% HP every sec for 6 sec.						0	
+girl_buff_des21	立刻恢复全部掩体耐久度	立刻恢復全部掩護物耐久度	掩体の耐久度が最大に回復する	즉시 모든 전체 엄폐물의 내구성을 회복시킨다.	Instantly restores full Durability of covers.						0	
+girl_buff_des22	掩体每秒恢复10%最大耐久度，持续6秒	掩護物每秒恢復10%最大耐久度，持續6秒	掩体が1秒ごとに10%の耐久度を回復し、6秒持続する	엄폐물은 매초 최대 내구성의 10%를 회복한다. 지속 시간: 6초.	Restores 10% of covers' Max Durability every sec for 6 sec.						0	
+girl_buff_des23	10秒内，队员每次受到伤害，则回复最大能量值10%的战技能量	10秒內，隊員每次受到傷害，則回復最大能量值10%的戰技能量	10秒以内にダメージを受けると、スキル最大EPの10%が回復する	10초 동안, 팀원이 대미지를 받을 때마다 최대 에너지 10%의 전투 스킬 에너지를 회복한다.	Restores Tactical Energy equal to 10% of Max Energy when attacked within 10 sec.						0	
+girl_buff_des24	20秒内，队员对敌方造成伤害的15%转化为自身生命	20秒內，隊員對敵方造成傷害的15%轉化為自身生命	20秒間、敵に与えたダメージの15%が自身のHPとして回復する	20초 동안, 팀원이 타깃에게 가한 대미지의 15%가 자신의 HP로 전환된다.	Converts 15% of DMG dealt within 20 sec to HP.						0	
+girl_buff_des25	队员将免疫所有伤害，持续8秒	隊員將免疫所有傷害，持續8秒	8秒間、ダメージを受けなくなる	팀원은 모든 대미지를 면역한다. 지속 시간: 8초.	Grants immunity to all DMG for 8 sec.						0	
+girl_buff_des26	当敌方对我方造成的伤害不足60，则队员免疫该次伤害，持续15秒	當敵方對我方造成的傷害不足60，則隊員免疫該次傷害，持續15秒	敵から受けるダメージが60未満の場合、そのダメージを無効化する。効果時間：15秒	적군이 아군에 입힌 대미지가 60 미만일 때, 해당 아군은 이번 대미지를 면역한다. 지속 시간: 15초.	Grants immunity to DMG less than 60 dealt by enemies for 15 sec.						0	
+girl_buff_des27	队员将进入【重铸】状态，持续8秒。【重铸】状态结束后，将同时回复【重铸】期间造成伤害的10%的队员生命、掩体生命	隊員將進入【重鑄】狀態，持續8秒。【重鑄】狀態結束後，將同時回復【重鑄】期間造成傷害的10%的隊員生命，掩護物生命	8秒間の【再生】状態を獲得する。【再生】終了時、その効果中に与えたダメージの10%を、隊員と防衛線のHP回復に充てる	팀원은 [재주조] 상태에 진입한다. 지속 시간: 8초. [재주조] 상태가 종료되면 팀원은 [재주조] 기간 동안 입힌 대미지의 10%만큼 팀원의 HP와 엄폐물의 HP를 회복시킨다.	Grants the Reforge state for 8 sec. When it ends, restores HP and cover durability equal to 10% of DMG dealt during Reforge.						0	
+girl_buff_des28	队员的防御提升10%，可叠加	隊員的防禦提升10%，可疊加	防御力+10%、重複可能	팀원의 방어력이 10% 증가한다. 해당 효과는 중첩할 수 있다.	Increases DEF by 10% (stackable).						0	
+girl_buff_des29	队员对敌方造成伤害的5%转化为自身生命，可叠加	隊員對敵方造成傷害的5%轉化為自身生命，可疊加	敵に与えたダメージの5%が自身のHPとして回復する。重複可能	팀원이 타깃에게 가한 대미지의 5%가 자신의 HP로 전환된다. 해당 효과는 중첩할 수 있다.	Converts 5% of DMG dealt to HP (stackable).						0	
+girl_buff_des30	当敌方对我方造成的伤害不足20，则队员免疫该次伤害，可叠加	當敵方對我方造成的傷害不足20，則隊員免疫該次傷害，可疊加	敵から受けるダメージが20未満の場合、そのダメージを無効化する。重複可能	적군이 아군에 입힌 대미지가 20 미만일 때, 해당 아군은 이번 대미지를 면역한다. 해당 효과는 중첩할 수 있다.	Grants immunity to DMG less than 20 dealt by enemies (stackable).						0	
+girl_mission_name1	放松心情	放鬆心情	気分をリフレッシュ	기분 전환	Relaxed Mood						0	
+girl_mission_name2	思绪舒展	思緒舒展	心がほぐれる	마음 진정	Clear Thoughts						0	
+girl_mission_name3	完美调理	完美調理	完璧な調理	완벽한 릴렉스	Perfectly Tune						0	
+girl_mission_des1	完成情绪疏导-1	完成情緒疏導-1	「感情ケア-1」をクリアする	감정 상담-1 완료하기	Clear Let It Go I						0	
+girl_mission_des2	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des3	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+girl_mission_des4	完成思绪守护-1	完成思緒守護-1	「思い出ガード-1」をクリアする	마음 수호-1 완료하기	Clear Here for You I						0	
+girl_mission_des5	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des6	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+girl_mission_des7	完成情绪疏导-2	完成情緒疏導-2	「感情ケア-2」をクリアする	감정 상담-2 완료하기	Clear Let It Go II						0	
+girl_mission_des8	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des9	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+girl_mission_des10	完成思绪守护-2	完成思緒守護-2	「思い出ガード-2」をクリアする	마음 수호-2 완료하기	Clear Here for You II						0	
+girl_mission_des11	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des12	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+girl_mission_des13	完成情绪疏导-3	完成情緒疏導-3	「感情ケア-3」をクリアする	감정 상담-3 완료하기	Clear Let It Go III						0	
+girl_mission_des14	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des15	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+girl_mission_des16	完成思绪守护-3	完成思緒守護-3	「思い出ガード-3」をクリアする	마음 수호-3 완료하기	Clear Here for You III						0	
+girl_mission_des17	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des18	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+girl_mission_des19	通过异绪挑战-1	通過異緒挑戰-1	「挑戦・異常感情-1」をクリアする	정서 도전-1 완료하기	Clear Emotional Trial I						0	
+girl_mission_des20	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des21	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+girl_mission_des22	通过异绪挑战-2	通過異緒挑戰-2	「挑戦・異常感情-2」をクリアする	정서 도전-2 완료하기	Clear Emotional Trial II						0	
+girl_mission_des23	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des24	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+girl_mission_des25	通过异绪挑战-3	通過異緒挑戰-3	「挑戦・異常感情-3」をクリアする	정서 도전-3 완료하기	Clear Emotional Trial III						0	
+girl_mission_des26	关卡评价达到【卓】	關卡評價達到【A】	ステージ評価が「A」に達する	스테이지 평가 [A]에 도달하기	Earn stage grade A						0	
+girl_mission_des27	关卡评价达到【极】	關卡評價達到【S】	ステージ評価が「S」に達する	스테이지 평가 [S]에 도달하기	Earn stage grade S						0	
+111511_name	充沛精力	充沛精力	活力全開	활력 왕성	Energy Rush						0	
+111521_name	热意无限	熱意無限	無限の熱意	끝없는 열정	Unbound Heat						0	
+102011_name	思绪侦测	思緒偵測	思考の追跡	생각 감지	Mind Scan						0	
+102021_name	思维锁定	思維鎖定	思考に専念	마인드 고정	Focus Chain						0	
+110311_name	心意释放	心意釋放	心の解放	마음 전달	Inner Bloom						0	
+110321_name	绚彩绽放	絢彩綻放	華やかに咲き誇る	눈부신 만개	Lush Radiance						0	
+111511_des	子弹数量无限，持续5秒	子彈數量無限，持續5秒	5秒間、弾薬数が無限になる	탄약 수량 제한이 없다. 지속 시간: 5초.	Grants unlimited magazine ammo for 5 sec.						0	
+111521_des	子弹数量无限，攻击力提升，持续5秒	子彈數量無限，攻擊力提升，持續5秒	5秒間、攻撃力がアップし、弾薬数が無限になる	탄약 수량 제한이 없으며, 공격력이 증가한다. 지속 시간: 5초.	Grants unlimited ammo and an ATK Boost for 5 sec.						0	
+102011_des	暴击伤害提升，持续8秒	暴擊傷害提升，持續8秒	8秒間、会心ダメージがアップする	크리티컬 대미지가 증가한다. 지속 시간: 8초.	Increases CRIT DMG for 8 sec.						0	
+102021_des	暴击伤害提升，且将直接击败当前生命百分比较低的敌人，持续8秒	暴擊傷害提升，且將直接擊敗當前生命百分比較低的敵人，持續8秒	8秒間、会心ダメージがアップし、現在HPが低い敵を即座に撃破できる	크리티컬 대미지가 증가하며, 현재 HP 비율이 비교적 낮은 타깃을 바로 격파한다. 지속 시간: 8초.	Increases CRIT DMG and immediately defeats low-HP enemies for 8 sec.						0	
+110311_des	立刻对场上全部敌人造成1次基于攻击力百分比的伤害	立刻對場上全部敵人造成1次基於攻擊力百分比的傷害	フィールド上のすべての敵に、攻撃力の一定割合に応じたダメージを1回与える	필드에 있는 모든 타깃에 즉시 공격력 비율에 해당하는 대미지를 1회 가한다.	Instantly deals ATK-based DMG to all enemies once.						0	
+110321_des	立刻对场上全部敌人造成1次基于攻击力百分比的高额伤害，同时射速提升，持续4秒	立刻對場上全部敵人造成1次基於攻擊力百分比的高額傷害，同時射速提升，持續4秒	4秒間、フィールド上のすべての敵に攻撃力の一定割合に応じた大ダメージを1回与え、射撃速度がアップする	필드에 있는 모든 타깃에 즉시 공격력 비율에 해당하는 대량의 대미지를 1회 가하며, 사격 속도가 증가한다. 지속 시간: 4초.	Instantly deals massive ATK-based DMG to all enemies once and boosts Rate of Fire for 4 sec.						0	
+girl_des_01	较低	較低	低め	비교적 낮음	C						0	
+girl_des_02	适中	適中	標準	일반	B						0	
+girl_des_03	较高	較高	高め	비교적 높음	A						0	
+girl_des_04	较慢	較慢	遅い	비교적 느림	C						0	
+girl_des_05	适中	適中	標準	일반	B						0	
+girl_des_06	较快	較快	速い	비교적 빠름	A						0	
+girl_des_07	较少	較少	少なめ	비교적 적음	C						0	
+girl_des_08	适中	適中	標準	일반	B						0	
+girl_des_09	较多	較多	多め	비교적 많음	A						0	
+girl_des_10	高	高	高	고	S						0	
+girl_goaldes_01	消除所有的情绪投影	消除所有的情緒投影	感情ノ陰を全て取り除く	모든 감정의 투영을 처치하기	Defeat all emotional projections						0	
+girl_goaldes_02	阻止情绪投影突围	阻止情緒投影突圍	感情ノ陰の突破を阻止する	감정의 투영의 돌파를 저지하기	Defend against the emotional projections						0	
+girl_goaldes_03	合理规划路线消除所有的情绪投影	合理規劃路線消除所有的情緒投影	ルートを計画し、感情ノ陰を殲滅	합리적으로 루트를 계획하여 모든 감정의 투영을 처치하세요.	Strategize your path and defeat all emotional projections						0	
+girl_attributedes_01	生命	生命	HP	HP	HP						0	
+girl_attributedes_02	输出能力	輸出能力	ダメージ	딜링 능력	DMG						0	
+girl_attributedes_03	物品破坏力	物品破壞力	オブジェクト破壊力	파괴력	Destructible Object DMG						0	
+girl_attributedes_04	弹容	彈容	装弾数	탄창 용량	Ammo Capacity						0	
+girl_attributedes_05	射速	射速	射撃速度	사격 속도	Rate of Fire						0	
+AceRank	极	S	S	S	S						0	
+SRank	卓	A	A	A	A						0	
+ARank	优	B	B	B	B						0	
+BRank	良	C	C	C	C						0	
+girl_leveltitle_01	情绪疏导-1	情緒疏導-1	感情ケア-1	감정 상담-1	Let It Go I						0	
+girl_leveltitle_02	思绪守护-1	思緒守護-1	思い出ガード-1	마음 수호-1	Here for You I						0	
+girl_leveltitle_03	情绪疏导-2	情緒疏導-2	感情ケア-2	감정 상담-2	Let It Go II						0	
+girl_leveltitle_04	思绪守护-2	思緒守護-2	思い出ガード-2	마음 수호-2	Here for You II						0	
+girl_leveltitle_05	情绪疏导-3	情緒疏導-3	感情ケア-3	감정 상담-3	Let It Go III						0	
+girl_leveltitle_06	思绪守护-3	思緒守護-3	思い出ガード-3	마음 수호-3	Here for You III						0	
+girl_leveltitle_07	异绪挑战-1	異緒挑戰-1	異常感情-1	정서 도전-1	Emotional Trial I						0	
+girl_leveltitle_08	异绪挑战-2	異緒挑戰-2	異常感情-2	정서 도전-2	Emotional Trial II						0	
+girl_leveltitle_09	异绪挑战-3	異緒挑戰-3	異常感情-3	정서 도전-3	Emotional Trial III						0	
+girl_leveldes_01	消除所有的情绪投影	消除所有的情緒投影	感情ノ陰を全て取り除く	모든 감정의 투영을 처치하기	Defeat all emotional projections						0	
+girl_leveldes_02	阻止情绪投影突围	阻止情緒投影突圍	感情ノ陰の突破を阻止する	감정의 투영의 돌파를 저지하기	Defend against the emotional projections						0	
+girl_leveldes_03	消除所有的情绪投影	消除所有的情緒投影	感情ノ陰を全て取り除く	모든 감정의 투영을 처치하기	Defeat all emotional projections						0	
+girl_leveldes_04	阻止情绪投影突围	阻止情緒投影突圍	感情ノ陰の突破を阻止する	감정의 투영의 돌파를 저지하기	Defend against the emotional projections						0	
+girl_leveldes_05	消除所有的情绪投影	消除所有的情緒投影	感情ノ陰を全て取り除く	모든 감정의 투영을 처치하기	Defeat all emotional projections						0	
+girl_leveldes_06	阻止情绪投影突围	阻止情緒投影突圍	感情ノ陰の突破を阻止する	감정의 투영의 돌파를 저지하기	Defend against the emotional projections						0	
+girl_leveldes_07	合理规划路线消除所有的情绪投影	合理規劃路線消除所有的情緒投影	ルートを計画し、感情ノ陰を殲滅	합리적으로 루트를 계획하여 모든 감정의 투영을 처치하세요.	Strategize your path and defeat all emotional projections						0	
+girl_leveldes_08	合理规划路线消除所有的情绪投影	合理規劃路線消除所有的情緒投影	ルートを計画し、感情ノ陰を殲滅	합리적으로 루트를 계획하여 모든 감정의 투영을 처치하세요.	Strategize your path and defeat all emotional projections						0	
+girl_leveldes_09	合理规划路线消除所有的情绪投影	合理規劃路線消除所有的情緒投影	ルートを計画し、感情ノ陰を殲滅	합리적으로 루트를 계획하여 모든 감정의 투영을 처치하세요.	Strategize your path and defeat all emotional projections						0	
+girl_levelrankdes_01	90秒内	90秒內	＜90秒	90초 이내	<90s						0	
+girl_levelrankdes_02	150秒内	150秒內	＜150秒	150초 이내	<150s						0	
+girl_levelrankdes_03	210秒内	210秒內	＜210秒	210초 이내	<210s						0	
+girl_levelrankdes_04	300秒内	300秒內	＜300秒	300초 이내	<300s						0	
+girl_levelrankdes_05	5%										1	
+girl_levelrankdes_06	10%										1	
+girl_levelrankdes_07	15%										1	
+girl_levelrankdes_08	20%										1	
+girl_levelrankdes_09	9波	9波	9	9웨이브	9 Waves						0	
+girl_levelrankdes_10	7波	7波	7	7웨이브	7 Waves						0	
+girl_levelrankdes_11	5波	5波	5	5웨이브	5 Waves						0	
+girl_levelrankdes_12	3波	3波	3	3웨이브	3 Waves						0	
+Skill_ExtraUnlock1	首次通关关卡【%s】解锁	首次通關關卡【%s】解鎖	ステージ「%s」を初回クリア後に開放	스테이지 [%s] 첫 클리어 후 해제	Clear stage "%s" to unlock						0	
+Weapon_ExtraUnlock1	关卡【%s】评分达到【%s】解锁	關卡【%s】評分達到【%s】解鎖	ステージ「%s」の評価が「%s」に達すると開放	스테이지 [%s]의 평점 [%s] 달성 후 해제	Reach "%s" stage grade %s to unlock						0	
+girl_levelrankresult_01	秒	秒	秒	초	s						0	
+girl_levelrankresult_02	%	%	%	%	%						0	
+girl_levelrankresult_03	波	波	WAVE	웨이브	 Wave(s)						0	
+girl_levelchosen01	思绪充能	思緒充能	心の支援	마음 재충전	Recharge Mood						0	
+girl_leveLpcbutton_01	换弹	換彈	装填	재장전	Reload						0	
+girl_leveLpcbutton_02	射击	射擊	射撃	사격	Shoot						0	
+girl_leveLpcbutton_03	离开掩体	離開掩護物	掩体から離れる	엄폐 취소	Exit Cover						0	
+girl_leveLskilltips01	战技能量不足	戰技能量不足	スキルEP不足	전투 스킬 에너지가 부족합니다.	Insufficient Tactical Energy						0	
+girl_leveLskilltips02	请尝试其他少女或者更换枪械后再来挑战吧	請嘗試其他少女或變更槍械後再來挑戰吧	出撃する少女や銃器を変更して、もう一度チャレンジしましょう	다른 소녀로 시도하거나 총기를 교체한 후 재도전하세요.	Try again with a different girl or weapon.						0	

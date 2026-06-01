@@ -1,0 +1,120 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	伴随着刺耳的金属摩擦声，升降梯缓缓停止，阳光已经几不可见。	伴隨著刺耳的金屬摩擦聲，升降梯緩緩停止，陽光已經幾不可見。	耳障りな金属の摩擦音と共に、エレベーターはゆっくり止まり、日差しはほとんど見えなくなった。	거슬리는 금속 마찰음과 함께 승강기는 천천히 멈춰 섰고, 햇빛은 희미해져 갔다.	The elevator slowly screeched to a halt. There was barely a trace of sunlight.						0	
+2	明明是白天，天楼低区却处于一种诡异的安宁中，除了巡逻的降临团会员外，金属长桥上几乎没有闲逛的居民。	明明是白天，天樓低區卻處於一種詭異的安寧中，除了巡邏的降臨團會員外，金屬長橋上幾乎沒有閒逛的居民。	まだ昼間なのに、スカイタワーの低区は不気味なくらいに静かだ。パトロールの降臨団メンバー以外、金属製の橋の上をうろつく住民はいなかった。	대낮인데도 저층 구역은 이상할 정도로 고요했다. 순찰을 도는 강림단 신자들을 제외하면 메탈 브릿지 위로 거니는 주민들은 거의 없었다.	It was still daytime, but the Towers' Lower Levels were sinisterly quiet. Other than Adventists on patrol, there weren't any residents on the metal bridge.						0	
+3	听从石竹的建议，我们做了伪装之后，才前往预定执行任务的地点——主要是避免被真正的天楼居民识破身份，从而导致意料之外的麻烦。	聽從石竹的建議，我們做了偽裝之後，才前往預定執行任務的地點——主要是避免被真正的天樓居民識破身份，從而導致意料之外的麻煩。	カーネーションのアドバイスを受けて、私たちは変装してからミッション地点へ赴くことにした——正体が本物のスカイタワー住民にバレて、予想外の面倒ごとにならないように。	석죽이 제안한대로 우리는 위장을 진행한 후 미션 장소에 도착했다. 스카이 타워 주민들에게 신분을 들켜 뜻밖의 상황이 발생하는 걸 방지하기 위함이다.	Following Dianthus' suggestion, we disguised ourselves before heading to the designated mission location. This was mainly to avoid issues that would arise from being recognized by real Towers residents.						0	
+4	当然，如果遇到降临团武装会员的盘问，依然是让他们“倒头就睡”。	當然，如果遇到降臨團武裝會員的盤問，依然是讓他們“倒頭就睡”。	もちろん、もし降臨団の武装メンバーに問い詰められたら、やつらに「ぐっすり弾」を使うことになるが。	물론 이따금씩 강림단 무장 신자들을 마주쳐 심문을 받게 되면 그들에게 '수면제'를 시전했다.	Of course, if we happened to be questioned by armed Adventists, we'd have no choice but to use the Sleepers.						0	
+5	我突然看见有什么反光的物品在眼前移动、停住。	我突然看見有什麼反光的物品在眼前移動、停住。	光を反射する何かが目の前で動いて、止まった。	순간 무언가 눈앞에서 번쩍거리며 움직이더니 갑자기 멈춰 섰다.	Suddenly, a reflective object began moving, then stopped right in front of my eyes.						0	
+6	你们好像是生面孔，别的楼层来的？	你們好像是陌生人，別的樓層來的？	見ない顔だな、他のフロアからやってきたのか？	못 보던 얼굴들인데 다른 층에서 온 거야?	I'm not sure we've ever met. Are you all from another floor?						0	
+7	一个天楼居民恰好从他的蜗居中走出，拦住了我们。	一個天樓居民恰好從他的蝸居中走出，攔住了我們。	ちょうど自分の家から出てきた一人のスカイタワー住民に出くわしてしまい、道を塞がれてしまった。	스카이 타워 주민이 갑자기 건물에서 나오더니 우리를 막아섰다.	A Towers resident emerged from his dwelling, stopping us in our tracks.						0	
+8	来买“特效药”？	來買“特效藥”？	「特効薬」を買いに来たのか？	'특효약'을 사러 온 거야?	Are you here to buy some miracle drug?						0	
+9	我努力表现出熟稔的姿态。	我努力表現出熟稔的姿態。	私はできるだけ慣れた仕草でこう言った。	난 당황하지 않고 평소에 하던 것처럼 익숙한 듯이 행동했다.	I tried my best to act natural.						0	
+b-1											0	
+10	对，你这里有卖的？怎么卖？	對，你這裡有賣的嗎？怎麼賣？	ああ。扱ってるのか？いくらだ？	네, 남은 특효약 있나요? 얼마에 팔고 있죠?	That's right. You sell it here? How much?						0	
+11	他用独眼迅速左右巡视了一下。	他用獨眼迅速左右巡視了一下。	彼は隻眼をすぐ左右に動かした。	그는 외눈으로 빠르게 주변을 살펴본다.	He looked around quickly with one eye.						0	
+12	四十五次杂役，或者三十天数据矿工。	四十五次雜役，或者三十天數據礦工。	雑用45回か、30日データマイナーとして働くか、ってところだな。	잡일을 45번 하던가, 30일 동안 데이터 마이닝을 하면 돼.	45 errander jobs or 30 days as a data miner.						0	
+b-2											0	
+13	算了，太贵了。	算了，太貴了。	結構だ、高すぎる。	그건 좀 곤란할 것 같은데요. 너무 비싸요.	Forget it. That's too expensive.						0	
+14	那你说多少合适？	那你說多少適合？	じゃあ言ってみろ、いくらがいいんだ？	그럼 얼마가 적당한지 말해봐.	How much do you think is fitting?						0	
+15	我没有立刻回答，如果回答不对，很有可能被识破伪装……	我沒有立刻回答，如果回答不對，很有可能被識破偽裝……	すぐには返事しなかった。もし変わったことを言ってしまえば怪しまれる可能性が高い……	난 바로 대답하지 않았다. 만약 대답을 잘못하면 위장한 것을 들키고 말 것이다…	I didn't answer right away. If I was wrong, he would see right through our disguises...						0	
+16	你们不是这里人？	你們不是這裡的人？	お前たち余所者か？	자네들, 이곳 사람 아니지?	Are you not from around here?						0	
+17	我们用别的东西跟你换。	我們用別的東西跟你換。	他の物で交換する。	다른 물건으로 물물교환을 하시죠.	We'll trade you something else.						0	
+18	子弹，还有枪。	子彈，還有槍。	弾と銃器で。	총알도 있고 총도 있어요.	How about bullets and guns?						0	
+19	我看懂了石竹冲我使的眼色，于是从武装带中取下弹匣，递了过去。	我看懂了石竹朝我使的眼神，於是從武裝帶中取下彈匣，遞了過去。	カーネーションの合図を受け、私は武装からマガジンを取り除き、相手に渡した。	난 석죽의 눈빛을 눈치채고, 무장 벨트에서 탄창을 꺼내 들어 건넸다.	Dianthus winked at me, and I caught on. I grabbed a magazine off of my belt and handed it over.						0	
+20	啧啧啧……是你带来的人啊。	嘖嘖嘖……是你帶來的人啊。	ほう…あんたの連れだったか。	쯧쯧… 자네가 데리고 온 사람이었어?	Tsk, tsk, tsk... So you brought them here.						0	
+21	是你什么人快不行了？竟然舍得用子弹来换。	是你什麼人快不行了？竟然捨得用子彈來換。	弾で取引するとはな。身内の誰かがもうダメになりそうか？	대체 누가 오늘내일하길래 이런 귀중한 총알로 교환을 하려 하는 거야?	What's the rush? Is someone dying? You're even willing to trade bullets...						0	
+22	而且现在还是大家在讲坛聆听“教诲”的时候……石竹，他们到底是哪一层的？你怎么跟他们一块？	而且現在還是大家在講壇聆聽“教誨”的時候……石竹，他們到底是哪一層的？你怎麼跟他們一起？	それに今はみんなで教壇で「教え」を聞く時間なんだが……カーネーション、こいつらは一体どのフロアの者だ？なんでこんなやつらとつるんでる？	게다가 지금은 다들 강단에서 '가르침'을 듣고 있을 시간인데… 근데 석죽, 이 사람들은 도대체 몇 층 사람들이지? 왜 같이 있는 거고?	And it's time for everyone to listen to the "teachings" at the altar... Dianthus, which floor are they from? What are you doing hanging around with them?						0	
+23	他们就住在楼下，你难道没见过吗？	他們就住在樓下，你難道沒見過嗎？	下のフロアに住んでいるけど、会ったことなかった？	바로 아래층에 살고 있는데 한 번도 못 보셨나요?	They live downstairs. Haven't you seen them around?						0	
+24	管事用怀疑的眼神继续打量我们。	管事用懷疑的眼神繼續打量我們。	幹事は相変わらず怪訝な目でこちらを見つめている。	관리자는 의심스러운 눈빛으로 우리를 훑어봤다.	The Administrator continued to look at us suspiciously.						0	
+25	好吧，还有别的东西要买吗？	好吧，還有別的東西要買嗎？	いいだろう。他に買いたいものはあるか？	그렇군, 혹시 더 필요한 물건 있어?	Alright. Do you need anything else?						0	
+26	用子弹换，可以给你们打点折扣。	用子彈換，可以幫你們打點折扣。	弾で交換するなら、値引きぐらいしてやろう。	총알로 교환을 하는 거라면 할인을 해주도록 하지.	I'll give you a discount if you pay with bullets.						0	
+27	不用了，我们够了。	不用了，我們夠了。	いい、これで十分。	괜찮아요, 충분해요.	No, that's enough.						0	
+28	走吧？	走吧？	行こう？	그럼 갈까요?	Should we go?						0	
+b-3											0	
+29	嗯，赶快回去吧。	嗯，趕快回去吧。	ああ、戻ろう。	좋아, 서두르자.	Yeah, let's head back.						0	
+30	杂役和数据矿工都是天楼里的工作，你要付出对应“人/次”或者“人/天”的劳动，才能从管事那里买到东西。	雜役和數據礦工都是天樓裡的工作，你要付出對應“人/次”或者“人/天”的勞動，才能從管事那裡買到東西。	雑用もデータマイナーもスカイタワーでの仕事で、対応した作業量の労働をすることで幹事から買い物ができる。	잡일, 데이터 마이닝 모두 스카이 타워에서 하는 일이에요. 물건을 사려면 관리자에게 해당되는 '인원/횟수' 또는 '인원/일자'에 맞는 노동을 지불해야 하고요.	Erranders and data miners are jobs in the Towers. You work a certain number of jobs or days to pay the Administrator for various goods.						0	
+b-4											0	
+31	用劳动换取报酬，很合理。	用勞動換取報酬，很合理。	労働で対価を得てるのか、合理的だ。	노동을 하고 보수를 받는다니 나름 합리적이네.	Using labor in exchange for goods... That sounds reasonable.						0	
+b-5											0	
+32	谢谢你救场。	謝謝你救場。	フォローしてくれてありがとう。	도와줘서 고마워.	Thanks for saving the day.						0	
+33	不要自作多情，我不是特意来救场的。	不要自作多情，我不是特意來救場的。	自惚れないで、別にあなたのためにフォローしたわけじゃない。	특별히 도와준 것도 아니니 고마워하실 필요는 없어요.	Don't get all mushy. I didn't come here to save the day.						0	
+34	晴，我把你们安全带到了地方，而且冒了额外的风险……	晴，我把你們安全帶到了地方，而且冒了額外的風險……	晴、安全な場所まで案内して、それにリスクも冒した……	하루 님, 모두를 무사히 목적지까지 데려왔어요. 추가적인 위험도 감수했고요…	Haru, I got you all here safely and even took an unexpected risk...						0	
+35	我们说好的，报酬会追加。	我們說好的，報酬會追加。	約束通り、報酬は弾んでくれるよね。	보수는 더 챙겨준다고 약속했었죠?	We agreed I'd receive additional payment.						0	
+36	嗯，还是用抑制剂来支付吗？给。	嗯，還是用抑制劑來支付嗎？給。	もちろん。支払いは抑制剤でいいな？はい。	응, 예전처럼 억제제로 지불하면 되나? 자, 여깄어.	Right. You still want inhibitors? Here.						0	
+37	我看见晴递过去了几支巴德尔抑制剂。	我看見晴遞過去了幾支巴德爾抑制劑。	晴は彼女に数本のバルダー抑制剤を渡した。	하루가 발드르 억제제 몇 개를 석죽에게 건넨다.	I watched as Haru gave her several Baldr Inhibitors.						0	
+38	分析员，这些都是向后勤报备过的。	分析員，這些都是向後勤報備過的。	分析員、これらは全部後方支援に報告してある。	분석가, 이건 지원부에게 사전에 보고된 것들이야.	Adjutant, these have all been reported to Logistics.						0	
+39	还没等我询问，晴就已经主动解释。	還沒等我詢問，晴就已經主動解釋。	私が聞く前に、晴は自分から説明してくれた。	질문을 하기도 전에 하루는 내게 먼저 설명을 해줬다.	Haru explained before I even had the chance to ask.						0	
+b-6											0	
+40	抑制剂？不会被别人抢走吗？	抑制劑？不會被別人搶走嗎？	抑制剤って、奪われないか？	억제제를 가져가면 다른 사람이 훔쳐 가지는 않아?	Inhibitors? Won't they get stolen?						0	
+41	谢谢你的关心，不过，那就是我自己的麻烦了。	謝謝你的關心，不過，那就是我自己的麻煩了。	お気遣いありがとう。でも、奪われてもこっちの問題で、あなたたちとは関係ない話よ。	신경 써줘서 고맙지만 그건 제가 알아서 해결하면 되는 문제에요.	I appreciate your concern, but that's my problem to worry about.						0	
+42	晴，到这里我就完事了，回见。	晴，到這裡我就完事了，再見。	晴、お手伝いはここまでね、それじゃまた。	하루 님, 제 역할은 여기까진 것 같네요. 그럼 다음에 또 봬요.	Haru, my work is done here. I'll see you later.						0	
+43	我把注意力放在刚刚“买下”的“特效药”上。	我把注意力放在剛剛“買下”的“特效藥”上。	さっき「買った」ばかりの「特効薬」に注目した。	난 방금 '구매'한 '특효약'을 자세히 살펴봤다.	I redirected my attention to the miracle drug I had just "purchased."						0	
+b-7											0	
+44	芙提雅，能帮我看看这是什么吗？	芙提雅，能幫我看看這是什麼嗎？	フリティア、これが何か調べてくれないか？	프티야, 이것 좀 봐줄 수 있어?	Fritia, could you have a look at what this is?						0	
+45	好呀，包在芙提雅老师身上。	好呀，包在芙提雅老師身上。	いいよ、フリティア先生に任せて。	오케이! 프티야 선생님한테 맡겨만 줘!	Sure, leave it to Professor Fritia.						0	
+46	……	……	……	…	...						0	
+47	分析员，怎么看，这里面的液体都只是稀释过后的泰坦物质哎。	分析員，怎麼看，這裡面的液體都只是稀釋過後的泰坦物質哎。	分析員、どう見ても、中の液体はただの薄めたタイタン物質だよ。	분석가, 이 액체는 타이탄 물질을 희석한 것들이야.	Adjutant, honestly, the liquid in here is basically just diluted Titagen.						0	
+48	泰坦物质的浓度相当低，成分上又添加了抑菌剂和糖浆等矫味剂。	泰坦物質的濃度相當低，成分上又添加了抑菌劑和糖漿等矯味劑。	タイタン物質の濃度はかなり低くて、それに静菌剤とシロップとかの矯味剤を加えたもの。	타이탄 물질의 농도가 엄청 낮아. 여기에 정균제라던가 시럽 등의 향료를 넣은 것 같고.	The Titagen is at a relatively low concentration, and they've also added bacteriostatic agents and flavorings, such as sugar syrup.						0	
+b-8											0	
+49	把这个东西喝下去会怎么样？	把這個東西喝下去會怎麼樣？	じゃあこれを飲んだらどうなる？	이걸 마시면 어떻게 되는데?	What happens if you drink this stuff?						0	
+50	我回想起上次执行任务时，得知了“泰坦物质可以作为抑制剂的原料”，所谓的“特效药”，说不定真的对医治成年病有效。	我回想起上次執行任務時，得知了“泰坦物質可以作為抑制劑的原料”，所謂的“特效藥”，說不定真的對醫治成年病有效。	前回の任務中、「タイタン物質が抑制剤の原料として使える」ことを知ったのを思い出した。この「特効薬」は、本当にティーン症候群に効くかもしれない。	저번 미션으로 '타이탄 물질이 억제제 원료로 사용 가능'하다는 것을 알았다. 어쩌면 '특효약'이 성인병 치료에 효과가 있을지도 모른다.	I recalled learning that Titagen could be used to make inhibitors on a past mission. This so-called "miracle drug" might actually be effective in treating Juvosis.						0	
+51	稍等稍等，我对比一下实验室使用动物实验得到的数据……	稍等稍等，我對比一下實驗室使用動物實驗得到的數據……	待ってね、研究室の動物実験データと比べてみる……	잠깐만, 연구실에서 동물 실험을 통해 얻은 데이터로 비교 좀 해볼게…	Wait a minute, let me compare it with the data from our lab experiments...						0	
+52	结论是，短期内不会致命，但是泰坦物质无法通过代谢排出人体，长期按照这种剂量服用，首先是脏器开始晶体化，最终发展方向会是……	結論是，短期內不會致命，但是泰坦物質無法通過代謝排出人體，長期按照這種劑量服用，首先是臟器開始晶體化，最終發展方向會是……	結論としては、短期的には致命的にならないけど、タイタン物質は代謝で人体から排出できないから、長期間この量を服用すると、まず臓器から結晶化し始めて、最終的に……	결론은 단기적으로 치명적이진 않지만, 타이탄 물질이 신진대사를 통해 인체 밖으로 빠져나가지 못해. 장기 복용 시 장기 결정화로 결국엔…	It's not fatal in the short-term. However, Titagen can't be metabolized, so long-term usage would cause organ crystallization, turning the users into...						0	
+b-9											0	
+53	异化人。	異化人。	変異者になる。	변이자가 되겠네?	The Changed.						0	
+54	嗯，很不乐观的结局呢。	嗯，很不樂觀的結局呢。	そう、いい結果にはならないね。	맞아… 배드 엔딩인 셈이지.	Yep. Not much of a happy ending.						0	
+b-10											0	
+55	发展到最坏结局的时间是？	發展到最壞結局的時間是？	そうなるまでの期間は？	그 결말까지는 시간이 어느 정도 소요될까?	How long would it take to reach a bad ending with that dosage?						0	
+56	三年到五年的时间，应该……吧。	三年到五年的時間，應該……吧。	三年から五年くらい、かな……たぶん。	한… 3년에서 5년 정도 걸릴 거야.	Probably three to five years... I guess.						0	
+57	“特效药”即使能治好成年病，也会夺取服用它的人的未来。	“特效藥”即使能治好成年病，也會奪取服用它的人的未來。	たとえこの「特効薬」を使い、彼らのティーン症候群が治ったとしても、これは使用者の未来を奪う。	'특효약'이 성인병을 고칠 수 있을지 몰라도 사용한 사람들의 미래도 같이 앗아갈 것이다.	Even if it cured their Juvosis, it would hardly give them much of a future.						0	
+58	分析员，我们这边发现萨特了。	分析員，我們這邊發現薩特了。	分析員、こちらサルトルを発見しました。	분석가, 사르트르를 발견했어.	Adjutant, we've found Sartre over here.						0	
+59	他带着数名净化官进入了“讲坛”，好像在准备举行什么仪式。	他帶著數名淨化官進入了“講壇”，好像在準備舉行什麼儀式。	数名の浄化官を連れて、「教壇」に行きました。何かの儀式を準備しているみたいです。	녀석이 정화관 여러 명을 거느리고 '강단'에 들어섰어. 마치 무슨 의식을 준비하려고 하는 거 같아.	He's led several Purificants to the altar and seems to be preparing for a ceremony.						0	
+b-11											0	
+60	恩雅姐，先暂时待命，等我信号。	恩雅姐，先暫時待命，等我訊號。	エンヤ姉、まずは待機。私の合図を待て。	엔야 누님, 먼저 다음 명령까지 제 신호를 기다려주세요.	Enya, please stand by for the time being and wait for my signal.						0	
+61	收到。	收到。	了解です。	그럴게.	Copy that.						0	
+62	分析员，你看，萨特也在我们这边出现了。	分析員，你看，薩特也在我們這邊出現了。	分析員、見てくれ。こちらもサルトルを発見した。	분석가, 이것 좀 봐, 사르트르가 여기에도 나타났어.	Adjutant, Sartre is over here too.						0	
+63	他不可能在两边同时出现……有一个是萨特的替身。	他不可能在兩邊同時出現……有一個是薩特的替身。	同時に現れることなど不可能……つまりこの中には必ずサルトルの影武者がいる。	두 군데에서 동시에 나타날 리가 없는데… 한 명은 사르트르의 대역일 거야.	He can't be in both places at the same time... One of them must be his double.						0	
+b-12											0	
+64	嗯，两边必须同时行动。	嗯，兩邊必須同時行動。	ああ、同時に行動しないと。	맞아요. 아무래도 두 군데에서 동시에 움직여야 할 것 같아요.	Alright, both teams have to act in unison.						0	
+65	我又立刻接通了与茉莉安的通讯。	我又立刻接通了與茉莉安的通訊。	私はすぐマリアンの方に繋げた。	나는 전달을 마치고 바로 마리안에게 통신을 시도했다.	I immediately switched to an incoming call from Marian.						0	
+66	茉莉安正在待命。	茉莉安正在待命。	こちらマリアン、待機中です。	명령을 내려주세요.	I'm presently on standby.						0	
+b-13											0	
+67	茉莉安，移动到C点，做好同时掩护两边的准备。	茉莉安，移動到C點，做好同時掩護兩邊的準備。	マリアン、今すぐC地点に移動し、両方を援護する準備をしてくれ。	마리안, C 지점으로 이동해서 두 군데를 동시에 엄호해 줘.	Marian, move to point C and get ready to cover both teams simultaneously.						0	
+68	明白，但是这有点超出射程……可能……	明白，但是這有點超出射程……可能……	分かりました、ですが少々射程圏内から離れていますので……たぶん……	알겠어요. 하지만 사정거리가 멀어서… 어쩌면…	Got it. But it might be... a little out of my range...						0	
+69	利用“科里奥利法则”来计算弹着点，你没有问题的，茉莉安。	利用“科里奧利法則”來計算彈著點，你沒有問題的，茉莉安。	「コリオリの力」も込みで着弾点を計算してみるんだ。マリアンならきっとできる。	내가 가르쳐 준 '코리올리 법칙'으로 탄착점을 계산해 봐. 너라면 해낼 수 있을 거야, 마리안.	Use the "Coriolis Principle" to calculate the point of impact. Don't worry, Marian.						0	
+70	我会努力尝试一下。	我會努力嘗試一下。	はい、努力してみます。	한번 시도해 볼게요.	I'll do my best.						0	
+71	做好涤清罪孽的准备了吗？	做好滌清罪孽的準備了嗎？	罪を洗い流す準備はできたか？	죄를 깨끗이 씻을 준비는 되었는가?	Are you prepared to have your sins cleansed?						0	
+72	求求你！净化官大人！求求你！	求求你！淨化官大人！求求你！	お願いします！浄化官様！ご容赦ください！	제발 부탁드립니다! 정화관님! 제발요!!!	I beg you, Great Purificant! Have mercy!						0	
+73	只是多拿了一盒压缩饼干而已！我还可以工作！我能偿还！我可以偿还十倍！	只是多拿了一盒壓縮餅乾而已！我還可以工作！我能償還！我可以償還十倍！	堅パンを一箱余分に取っただけです！まだ働けます！返せますから！十倍返せますから！	단지 건빵 한 상자를 더 가져갔을 뿐이잖아요! 아직 일을 할 수 있으니 더 열심히 해서 갚을게요! 10배로 갚겠습니다!	All I did was take an extra box of hardtack! I can still work! I can pay for them! I'll pay for them ten times over!						0	
+74	我相信你可以偿还，只不过，泰坦之教诲是不可打破的铁则。	我相信你可以償還，只不過，泰坦之教誨是不可打破的鐵則。	あなたなら償えるだろう。ただし、タイタンの教えは破ってはならない鉄則だ。	마음이 참 아프네요. 저도 당신이 갚을 수 있을 거라고 믿어요. 하지만 타이탄의 가르침은 절대 어겨서는 안 되는 철칙이죠.	I trust that you can pay for them. However, the teachings of the Titans are inviolable rules that cannot be broken.						0	
+75	赞美泰坦！赞美泰坦！就饶了我这一次！	讚美泰坦！讚美泰坦！就饒了我這一次！	タイタンを崇めよ！タイタンを崇めよ！今回は許してください！	타이탄을 찬양합니다! 타이탄을 찬양합니다! 한 번만 용서해 주십시오!	Praise to the Titans! Praise to the Titans! Please let me off just this once!						0	
+76	铁则的含义就是，一次例外，都不能有。	鐵則的含義就是，一次例外，都不能有。	鉄則とは、例外は一度たりとも許されないことだ。	철칙이라고 함은 한 번의 예외도 있어서는 안 된다는 뜻이에요.	An "inviolable rule" implies that there are no exceptions.						0	
+77	规则，是围住人心的堤坝啊……	規則，是圍住人心的堤壩啊……	ルールは、人の心を囲い込む防波堤だよ……	규칙은 사람의 마음을 감싸고 있는 제방과 같죠…	Rules are the walls that surround people's hearts...						0	
+78	求求你！求求你！	求求你！求求你！	お許しを！お許しを！	부탁드립니다! 제발요!	Please! I beg you!						0	
+79	我很虔诚！我已经皈依泰坦怀抱了！还有我的朋友！我也让他们皈依泰坦的怀抱了！	我很虔誠！我已經皈依泰坦懷抱了！還有我的朋友！我也讓他們皈依泰坦的懷抱了！	私の信心深さを見てください！タイタンを信仰しています！私の友達もです、彼らにもタイタンを信仰させました！	제가 얼마나 독실한데요! 전 이미 타이탄의 품으로 귀의했습니다! 그리고 제 친구들도요! 그들에게 타이탄의 품으로 귀의하라고 했단 말이에요!	I am a devout believer! I've taken refuge in the embrace of the Titans! And my friends — I also converted them!						0	
+80	如果你真心悔改，必能通过涤罪仪式。	如果你真心悔改，必能通過滌罪儀式。	本心で悔い改めるのなら、贖罪の儀式を行う必要がある。	만약 당신이 정말로 뉘우쳤다면 속죄 의식을 통과할 수 있겠죠.	If you have truly repented, you will pass the Purging of Sin.						0	
+81	来，把它喝下去。	來，把它喝下去。	さあ、飲むといい。	자, 이걸 마셔보세요.	Come. Drink.						0	
+82	如果你平安无事或者蒙召了，就代表泰坦宽恕了你的罪责。如果你湮灭，就代表并未真心悔改。	如果你平安無事或者蒙召了，就代表泰坦寬恕了你的罪責。如果你湮滅，就代表並未真心悔改。	あなたが飲んだ後、無事か、もしくは「召喚された」としたら、罪が洗い流されたことになる。もし霧散したら……本心から悔い改めていない証拠だ。	당신에게 아무 반응이 없거나 은총을 받은 거라면 타이탄에게 용서를 받은 것이고, 소멸되면 회개하지 못한 것으로 간주되겠죠.	If you remain unharmed or are summoned, it means the Titans have forgiven your sins. If you evaporate, we know you didn't truly repent.						0	
+83	主事大人！求求你！那个东西……我喝不了！那是泰坦物质！	主事大人！求求你！那個東西……我喝不了！那是泰坦物質！	司祭様！お許しください！それは……飲めません！タイタン物質ですよ！	관리자님! 제발 부탁이에요! 그건… 못 마시겠어요! 그건 타이탄 물질이잖아요!	Great Exarch! Please! I... can't drink that! It's Titagen!						0	
+84	你可以选择自愿喝下去，以及，被迫自愿喝下去。	你可以選擇自願喝下去，以及，被迫自願喝下去。	自分の手で飲みなさい、さもないと我々はどんな手段も厭わない。	스스로 마시거나 억지로 마시거나 둘 중에 하나를 선택하세요.	You may choose to drink it willingly, or you will be forced to drink it willingly.						0	
+85	等等！	等等！	待って！	잠깐만요!	Hold it!						0	
+86	分析员，萨特正在逼迫一个民众喝下泰坦物质。	分析員，薩特正在逼迫一個民眾喝下泰坦物質。	分析員、サルトルは一般人の方に無理やりタイタン物質を飲ませようとしています。	분석가, 사르트르가 한 시민에게 타이탄 물질을 억지로 먹이고 있어.	Adjutant, Sartre is forcing a resident to drink Titagen.						0	
+87	我们要……提前行动吗？	我們要……提前行動嗎？	予定より早く……行動を開始しますか？	작전을 사전에 개시해야 하지 않을까?	Should we... intervene?						0	
+b-14											0	
+88	冷静，这样太冒险了。	冷靜，這樣太冒險了。	落ち着いて、リスクが高すぎる。	진정하세요. 그건 너무 위험해요.	Stay calm. That's too risky.						0	
+b-15											0	
+89	等我们到位以后一起行动。	等我們到位以後一起行動。	私たちが位置についたら一緒に動く。	다들 자리를 잡은 후에 같이 행동하도록 하죠.	Let's act together when everyone is in place.						0	
+90	难道，就这样看着她……	難道，就這樣看著她……	ですが、このままじゃ彼女は……	그럼 이렇게 계속 지켜봐야만 하는 거야…?	Are we just going to watch her...						0	
+91	又有其他人出现了。	又有其他人出現了。	また他の人が現れた。	다른 사람이 나타났어.	Someone else is here.						0	
+92	是那个叫“石竹”的线人，她好像对萨特说了什么。	是那個叫“石竹”的線人，她好像對薩特說了什麼。	あの「カーネーション」って情報屋が、サルトルになんか言ってる。	'석죽'이라는 정보원인데, 사르트르에게 뭐라고 말하고 있어.	It's that informant, Dianthus. It looks like she's talking to Sartre.						0	
+b-16											0	
+93	石竹？继续观察。	石竹？繼續觀察。	カーネーション？観察を続けてくれ。	석죽? 계속해서 지켜봐 줘.	Dianthus? Continue to observe.						0	
+94	他们把石竹带走了，萨特也准备离开。	他們把石竹帶走了，薩特也準備離開。	カーネーションが連れて行かれた。サルトルも立ち去ろうとしてる。	석죽을 데리고 떠났어. 사르트르도 떠날 준비를 하고 있고.	They took Dianthus away. Sartre is getting ready to leave too.						0	
+95	你们到位了吗？	你們到位了嗎？	位置についた？	다들 준비됐어?	Are you all in place?						0	
+b-17											0	
+96	我们到了，可以行动。	我們到了，可以行動。	到着した。いつでも動ける。	우리도 방금 도착했어. 바로 개시하자.	Yes. We're ready to move.						0	
+b-18											0	
+97	别让萨特跑了。	別讓薩特跑了。	サルトルを逃がすなよ。	절대 사르트르를 놓쳐선 안 돼.	Don't let Sartre get away.						0	
+98	知道了。	知道了。	分かった。	알겠어.	Got it.						0	
+99	好的。	好的。	はい。	응.	Okay.						0	
+100	我透过全息影像看见安卡希雅拔出了匕首。	我透過全息影像看見安卡希雅拔出了匕首。	ホログラム越しに短剣を抜くアカシアを見た。	난 홀로그램을 통해 아카시아가 비수를 꺼내 드는 걸 확인할 수 있었다.	I watched through the hologram as Acacia drew her dagger.						0	

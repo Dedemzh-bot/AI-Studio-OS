@@ -1,0 +1,40 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	清晨，便见到米娅在吧台忙碌，一直到正午才歇息下来。	清晨，便見到米婭在吧台忙碌，一直到正午才歇息下來。	朝になると、カウンターではミアが忙しく立ち働いており、正午になるまで一時も休まなかった。	이른 아침, 바에서 바쁘게 움직이던 미아는 정오가 되어서야 휴식을 취했다.	In the morning, I found Mia busy at the counter. She didn't take a break until noon.						0	3.4版本随机事件
+page1.2	米娅今天都在吧台这里忙什么呢？	米婭今天都在吧台這裡忙什麼呢？	ミア、カウンターで何してたんだ。	미아는 오늘 바에서 뭘 하느라 바빴던 거야?	What have you been working on all day here, Mia?						0	3.4版本随机事件
+page1.3	我看这里有好多饮料，于是把每种都尝了一点。	我看這裡有好多飲料，於是把每種都試了一點。	いろんな飲み物があったから、味見してたんよ。	여기 음료가 엄청 많길래 종류별로 다 조금씩 맛봤어.	I saw a bunch of drinks here, so I tried a little of each.						0	3.4版本随机事件
+page1.4	这是我选出最好喝的六种，分析员来试一试！	這是我選出最好喝的六種，分析員來試一試！	おいしかったの6つ選んでみたから、分析員も飲んでみて！	이게 내가 고른 제일 맛있는 여섯 가지야, 분석가도 한번 마셔 봐!	These are the six best ones. Adjutant, give them a try!						0	3.4版本随机事件
+page1.5	基地吧台上摆着六杯不同的饮品。	基地吧台上擺著六杯不同的飲品。	社員寮のカウンターには、6種類のドリンクが並んでいた。	숙소 바 위에는 여섯 잔의 서로 다른 음료가 놓여 있었다.	Six different drinks were lined up on the bar counter.						0	3.4版本随机事件
+page1.6	但是从外表上来看，没办法分辨出品类，显然是经过特调的。	但是從外表上來看，沒辦法分辨出種類，顯然是經過特調的。	見た目では種類がわからず、どうやら特別に調合されたものらしい。	겉으로만 봐서는 종류를 구분할 수 없었지만 특별하게 조합한 음료가 분명했다.	It was impossible to tell what they were from a simple glance. Clearly, they were all custom drinks.						0	3.4版本随机事件
+page1.7	看样子，这几杯不像是公司会有的饮品。	看樣子，這幾杯不像是公司會有的飲品。	会社で出されてる飲み物ではなさそうだな。	아무래도 회사에서 흔히 볼 수 있는 음료들은 아닌 것 같았다.	They definitely don't seem like anything the company would serve.						0	3.4版本随机事件
+page1.8	毕竟是经过米娅精心特调的六种独特口味。	畢竟是經過米婭精心特調的六種獨特口味。	そーだよ、ミアが心を込めて作ったの。	어쨌든 미아가 정성껏 조합한 여섯 가지 독특한 맛의 음료다.	These are my one-of-a-kind blends.						0	3.4版本随机事件
+page1.9	把各种饮料互相兑在一起，倒是很像小孩子吃自助餐会做的事情。	把各種飲料互相兌在一起，倒是很像小孩子吃自助餐會做的事情。	いろんな飲み物を混ぜちゃうなんて、まるでビュッフェに来た子どもみたいだ。	여러 음료를 서로 섞다니, 꼭 어린애가 뷔페에서 할 법한 일이네.	Mixing all sorts of drinks together... It's kind of like what kids do with the beverage dispensers at buffets.						0	3.4版本随机事件
+page1.10	我可不是小孩子了！	我可不是小孩子了！	子どもじゃないし！	나 어린애 아니야!	I'm not a kid!						0	3.4版本随机事件
+page1.11	这些的味道把控我可是很严格的。	這些的味道把控我可是很嚴格的。	味にはほんとに厳しいんだからね。	이거 다 엄청 신경 써서 맛 조절한 건데.	I was super strict about the flavors, okay?						0	3.4版本随机事件
+page1.12	那我可要都试一遍了。	那我可要都試一遍了。	じゃあ、全部飲んでみるよ。	그럼 다 맛봐야겠네.	Alright then, I'll try each one.						0	3.4版本随机事件
+page1.13	我一一品尝这几杯“米娅特调”。	我一一品嚐這幾杯「米婭特調」。	私は「ミアスペシャルドリンク」を一杯ずつ味わっていった。	나는 '미아 드링크'를 하나씩 맛보았다.	I took a sip of every "Mia Special."						0	3.4版本随机事件
+page1.14	怎么样，怎么样？	怎麼樣、怎麼樣？	どう？	어때? 어때?	So, what do you think!?						0	3.4版本随机事件
+page1.15	相比原汁原味的果汁，确实多了许多层次，口感也丰富了好多。	相比原汁原味的果汁，確實多了許多層次，口感也豐富了好多。	果汁そのままと比べると、確かに味に奥行きが出て、口当たりもぐっと豊かになっている。	원래 과일 주스보다 확실히 레이어가 다양하고, 맛도 훨씬 풍부하네.	They are more layered than simple fruit juice, and have a richer taste.						0	3.4版本随机事件
+page1.16	看来我调制饮品还是有一手的嘛。	看來我調製飲品還是有一手的嘛。	やっぱりあたし、ドリンク作りのセンスあるっしょ。	역시 내 음료 조합 실력이 꽤 괜찮다니까.	See? I am good at mixing drinks.						0	3.4版本随机事件
+page1.17	分析员喜欢哪杯呢？	分析員喜歡哪杯呢？	分析員はどれが好き？	분석가는 어떤 게 제일 좋아?	Which one do you like best?						0	3.4版本随机事件
+page1.18	要我选的话，应该是桃子和柠檬气泡水调制的那杯。	要我選的話，應該是桃子和檸檬氣泡水調製的那杯。	モモとレモンソーダを合わせたやつかな。	나한테 고르라면, 복숭아랑 레몬 탄산수 조합한 거.	Personally, my favorite is the one made from peach and lemon sparkling water.						0	3.4版本随机事件
+page1.19	对吧对吧，我也觉得那杯最好喝。	對吧對吧，我也覺得那杯最好喝。	でしょでしょ？あたしもあれが一番おいしいと思った。	그치 그치, 나도 그게 제일 맛있는 것 같아.	Right? I thought that one was the best too!						0	3.4版本随机事件
+page1.20	不过分析员还漏了一点。	不過分析員還漏了一點。	でも分析員、気づかなかった？	근데 분석가가 하나 놓친 게 있어.	But Adjutant, you missed something.						0	3.4版本随机事件
+page1.21	哦？	哦？	何が？	응?	Oh?						0	3.4版本随机事件
+page1.22	我在里面还加入了一点草莓汁，怎么样。	我在裡面還加入了一點草莓汁，怎麼樣。	実は、イチゴの果汁も少し混ぜてあるんよ。	거기에 딸기주스도 조금 넣었거든, 어때?	I added a little strawberry juice to it. How about that?						0	3.4版本随机事件
+page1.23	米娅这么一说确实还有莓果的香气。	米婭這麼一說確實還有莓果的香氣。	言われてみると、確かにイチゴの香りがした。	미아가 그렇게 말하니까 확실히 베리 향도 느껴진다.	Now that you mention it, there is a berry aroma.						0	3.4版本随机事件
+page1.24	这个饮品我起了个名字，就叫它，爆泡气球吧。	這個飲品我起了個名字，就叫它，爆泡氣球吧。	名前はねー、「バブルバルーン」。	이 음료의 이름을 지었어. '폭탄 버블'이야.	I've even got a name for this drink. I call it... Super Spark!						0	3.4版本随机事件
+page1.25	……	……	……	……	...						0	3.4版本随机事件
+page1.26	爆泡气球？和这个有什么关联吗？	爆泡氣球？和這個有什麼關聯嗎？	「バブルバルーン」か、どうしてその名前に？	폭탄 버블? 그게 이거랑 무슨 관련이 있는데?	Super Spark? What's that got to do with anything?						0	3.4版本随机事件
+page1.27	因为是超级爆炸好喝的气泡水有没有。	因為是超級爆炸好喝的氣泡水有沒有。	だって、爆発的においしいソーダだよ？	완전 폭발적으로 맛있는 탄산수니까.	Because it's super delicious sparkling water!						0	3.4版本随机事件
+page1.28	……	……	……	……	...						0	3.4版本随机事件
+page1.29	嘶，好像确实不合适……	嘶，好像確實不適合……	うーん、確かにイマイチかも……	으음, 좀 안 어울리는 것 같기도 하고…	Okay, maybe that name really doesn't work...						0	3.4版本随机事件
+page1.30	那就分析员来给饮料起一个名字吧。	那就讓分析員來給飲料取一個名字吧。	じゃあ、分析員が名前考えてよ。	그럼 분석가가 음료 이름 지어 줘.	Then, I'll leave it to you! Give it a name!						0	3.4版本随机事件
+choice01	星桃冰语	星桃冰語	スターピーチミスト	스타 피치 아이스	Peach Whisper						0	3.4版本随机事件
+page2.1	嗯……听着正常了好多。	嗯……聽著正常了好多。	うん……すごくまともになった気がする。	음… 훨씬 정상적이네.	Hmm... Okay, that sounds more like it.						0	3.4版本随机事件
+page2.2	那就用分析员取的名字好了。	那就用分析員取的名字好了。	じゃあ、分析員のつけた名前にしよ！	그럼 분석가가 지은 이름으로 할게.	Let's go with your idea, then.						0	3.4版本随机事件
+choice02	气泡桃走后的哀鸣	氣泡桃走後的哀鳴	消えた泡の嘆き	버블 피치의 마지막 비명	Lament of a Deflated Spark						0	3.4版本随机事件
+page3.1	……	……	……	……	...						0	3.4版本随机事件
+page3.2	怎么样，不好听吗？	怎麼樣，不好聽嗎？	どうだろう、変か？	어때, 별로야?	How's that? Not good?						0	3.4版本随机事件
+page3.3	明明比我起的名字还抽象吧。	明明比我起的名字還抽象吧。	なんかふわっとしてない？	내가 지은 것보다 더 이상한 것 같은데.	That's even more abstract than mine.						0	3.4版本随机事件
+page3.4	不过也算不错，就这个了！	不過也算不錯，就這個了！	まあいいや、それで決まり！	그래도 나쁘지 않네, 이걸로 하자!	But... it's kind of fun. Let's go with that one!						0	3.4版本随机事件

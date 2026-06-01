@@ -1,0 +1,92 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	事实证明，人在下定决心之后，爆发出的力量远超想象。	事實證明，人在下定決心之後，爆發出的力量遠超想像。	人は決心さえ固まれば、想像以上の力を発揮できるようだ。	결심을 굳히면 사람이 폭발적으로 나오는 힘은 상상을 초월한다는 것이 증명되었다.	With enough determination, people have the potential to display unimaginable strength.						0	
+2	在伊格妮丝和长乐的空投物资帮助下，我和龙舌兰不断前进，将沿途的守卫和火力点一一抹除，直至眼前出现一片突兀的空地。	在伊格妮絲和長樂的空投物資幫助下，我和龍舌蘭不斷前進，將沿途的守衛和火力點一一抹除，直至眼前出現一片突兀的空地。	イグニスと長楽の補給物資と共に、オレとアガベは敵地に入り、手あたり次第に敵や警備を排除した。気が付くと、オレ達は空き地へと辿り着いていた。	이그니스와 장락의 에어드롭 물자의 도움으로, 나와 아가베는 계속 전진하며 길목의 경비병들과 화력 지점을 하나씩 제거해 나갔습니다. 그러다 눈앞에 갑자기 나타난 빈터가 보였습니다.	Thanks to the supplies airdropped by Ignis and Felicity, Agave and I pushed forward relentlessly. We cleared every fortified point and gun turret in our path until an unexpected clearing opened up before us.						0	
+3	前面的建筑，应该就是他们的营地了。巡逻的八个，哨塔上三个，门后面还有六个。	前面的建築，應該就是他們的營地了。巡邏的八個，哨塔上三個，門後面還有六個。	前方の建物があいつらの拠点でしょうね。巡回兵が8人、塔から見張っているのが3人、扉の後ろにまだ6人いるわ。	앞의 건물이 그들의 캠프일 것입니다. 순찰하는 병사 여덟 명, 감시탑에 세 명, 문 뒤에 여섯 명.	The structure up ahead must be their camp. Eight patrollers, three in the watchtower, and six more behind the gate.						0	
+4	侧方守卫比较薄弱，用钩索枪绕过去吧。	側方守衛比較薄弱，用鉤索槍繞過去吧。	横の警備が薄そうだ。ワイヤーを使って回り込もう。	측면 경비가 약하니 갈고리총으로 돌아가자.	There seem to be fewer guards on the flank. Let's use the grappling hook to go around.						0	
+5	等等，骑士大人。	等等，騎士大人。	待って、騎士殿。	잠깐만요, 기사님.	Hold on, my knight.						0	
+6	又来了，又是这个笑容。	又來了，又是這個笑容。	まただ。この笑顔は……	또, 또 그 미소다.	There it was again, her typical grin.						0	
+7	既然伊格妮丝给我们提供了这东西，那就没有不用的理由了！	既然伊格妮絲為我們提供了這東西，那就沒有不用的理由了！	イグニスからこんなものが届いたわ。試してみないとね！	이그니스가 우리에게 이걸 제공했으니 사용할 이유가 없을 리 없습니다!	Since Ignis went through the trouble to prepare this baby, we'd be fools not to use it!						0	
+8	她打开空投的补给包，里面赫然是已经装填完毕的单兵火箭筒。	她打開空投的補給包，裡面赫然是已經裝填完畢的單兵火箭筒。	彼女は補給物資を開けると、中からすでに弾薬が装填された状態のロケットランチャーを取り出した。	그녀는 에어드롭 보급 상자를 열어보니, 이미 장전이 완료된 단병 로켓포가 있었다.	She unpacked one of the airdrop supply packs, pulling out a fully loaded bazooka.						0	
+9	架起、瞄准、扣动扳机——	架起、瞄準、扣下扳機——	肩に乗せて、照準を合わせて、トリガーを引く——	로켓포를 세우고, 조준하여, 방아쇠를 당겨…	Set up, aim, and fire...						0	
+10	轰！！！	轟！！！	ドカーン！	쾅!!!	BOOM!!!						0	
+11	硝烟散尽后，前方的营地中只剩下一幢孤零零的建筑。	硝煙散盡後，前方的營地只剩下一幢孤零零的建築。	煙が消えると、目の前の拠点はすでに廃墟同然の姿になっていた。	연기가 걷힌 후, 앞의 캠프에는 외딴 건물 하나만 남았다.	After the smoke cleared, only a single building remained standing in what was once a guarded encampment.						0	
+12	给你一分钟，把前因后果讲清楚。	給你一分鐘，把前因後果講清楚。	1分だ。1分ですべて吐け。	1분을 줄 테니, 전후 사정을 설명해 봐.	You have one minute to explain everything.						0	
+13	从我们进入这个房间开始，面前的男人就抖筛般跪倒在地，支支吾吾地一句话也说不出来。为了节约彼此的时间，我只能掏出枪，顶住了他的脑门。	從我們進入這個房間開始，眼前的男人就抖篩般跪倒在地，支支吾吾地一句話也說不出來。為了節省彼此的時間，我只能掏出槍，頂住了他的腦門。	この部屋に入ってから、目の前の男は震えながら地面に跪き、一言も喋らずにいた。これ以上時間を無駄にしないためにも、オレは銃を彼の額に突きつけた。	우리가 이 방에 들어서자마자, 앞에 있는 남자는 마치 체를 치듯 무릎을 꿇고 한마디도 제대로 하지 못했다. 서로의 시간을 아끼기 위해, 나는 총을 꺼내 그의 이마에 대었다.	As soon as we entered the room, the man before us crumbled to his knees and started trembling, unable to utter a single coherent sentence. To save us both time, I had no choice but to draw my gun and press it against his forehead.						0	
+14	我说！我我我……我都说！	我說！我我我……我都說！	言います！なんでも、なんでも言いますから！	말할게요! 저, 저, 저… 다 말할게요!	I'll talk! I—I'll tell you e—e—everything!						0	
+15	你的身份？	你的身分？	お前は誰だ。	너의 신분?	Who are you?						0	
+16	我是……“约顿海姆”里的四天王之一，人送外号地狱哨兵……	我是……「約頓海姆」裡的四天王之一，人送外號地獄哨兵……	私は……「ヨトゥンヘイム」の四天王……ヘルセントリーです……	저는… '요툰헤임'의 사천왕 중 하나, 사람들은 나를 지옥 보초병이라 부릅니다…	I'm... one of the Four Giants of Jotunheim. They call me the Infernal Sentry...						0	
+17	说重点。贝德先生现在躲在哪？	說重點。貝德先生現在躲在哪裡？	ベイドは今どこにいる？	중요한 걸 말해. 미스터 베더는 지금 어디에 숨었지?	Get to what we really want to know. Where's Beder?						0	
+18	我将枪口往前推了推。	我將槍口往前推了一下。	彼の額に置いた銃口をさらに強く押し付けた。	나는 총구를 앞으로 밀었다.	I nudged the gun barrel against his forehead.						0	
+19	啊？贝德？	啊？貝德？	べ、ベイド？	뭐? 베더?	Huh? Who's Beder?						0	
+20	别装傻了！贝德不就是你们组织的老大吗？	別裝傻了！貝德不就是你們組織的老大嗎？	とぼけても無駄よ！あなた達のボスのベイドよ！	모른 척하지 마! 베더가 너희들 조직의 두목 아니야?	Don't play dumb! Beder is your boss, isn't he?						0	
+21	哎哟误会，天大的误会啊！二位有所不知，组织内部，其实根本没有贝德这号人！安装炸弹，给您两位下套，这一切都是“幽影”大人安排的！	哎喲誤會，天大的誤會啊！二位有所不知，組織內部，其實根本沒有貝德這號人！安裝炸彈，給您兩位設下圈套，這一切都是「幽影」大人安排的！	ち、違いますよ！ご存知ないと思いますけど、うちにはベイドなんていう人間はいません！爆弾を仕掛けて、お二人をハメたのも、全部「幽影」様のアイデアだったんです！	아이고, 오해입니다, 큰 오해예요! 두 분이 몰라서 그러신 겁니다만, 조직 내부에는 사실 베더라는 인물은 존재하지 않아요! 폭탄을 설치고, 그리고 당신들에게 함정을 판 것은 모두 '환영' 님이 계획한 거예요!	Ooh, that is a huge misunderstanding! You see, there's no one named Beder in our syndicate! The bombs, the setup, everything — it was all part of Lord Phantom's plan!						0	
+22	你以为，胡诌一个名字，我们就会相信吗？！	你以為，亂掰一個名字，我們就會相信嗎？！	適当な名前を出せば、それで私達が信じるとでも思ってるの！？	이름 하나 지어낸다고 우리가 믿을 것 같아?	You really expect us to fall for that!? You clearly just made that name up!						0	
+23	不敢，真的不敢啊！	不敢，真的不敢啊！	そ、そんなわけないじゃないですか！	감히 그럴 수 없어요, 정말이에요!	I'm telling the truth! I swear!						0	
+24	“幽影”……	「幽影」……	「幽影」……	'환영'…	Phantom...						0	
+25	我的左手骤然握成拳。	我的左手驟然握成拳。	オレは左手を握り締めた。	내 왼손이 주먹으로 쥐어졌다.	My left hand suddenly clenched into a fist.						0	
+26	龙舌兰并不知道这个名字对我来说意味着什么。	龍舌蘭並不知道這個名字對我來說意味著什麼。	その名前がオレにとって何を意味しているのか、アガベは知らないのだろう。	아가베는 이 이름이 나에게 어떤 의미인지 몰랐다.	Agave didn't know what that name meant to me.						0	
+27	三年前，我还只是一名普通的警员，渴望着保护这座城市。	三年前，我還只是個普通的警員，渴望著保護這座城市。	3年前。ごく普通の警察官だったオレは、この都市を守るために毎日頑張っていた。	3년 전, 나는 그저 평범한 경찰이었고, 이 도시를 지키기를 열망했다.	Three years ago, I was just a beat cop who wanted to keep this city safe.						0	
+28	那时的城市中远不如现在和平，以“极夜幽影”为首的罪犯肆意在城市中劫掠，警局人手不足，装备也十分落后，因此束手无策。	當時的城市中遠不如現在和平，以「極夜幽影」為首的罪犯肆意在城市中劫掠，警局人手不足，裝備也十分落後，因此束手無策。	あの時は今よりも何倍も物騒で、「極夜の幽影」をリーダーとする犯罪集団が都市内で暗躍していた。なのに警察側は人手も足りない上に、装備も古いものばかりで、オレ達は苦戦を強いられていたのだ。	그 당시 도시는 지금처럼 평화롭지 않았고, '극야의 환영’을 필두로 한 범죄자들이 도시에서 제멋대로 약탈을 벌였다. 경찰 인력은 부족했고 장비도 매우 낙후되어서 손쓸 방도가 없었다.	Back then, the city was plagued by an archvillain named "Nightborne Phantom" and their heinous followers who looted at will. Understaffed and underequipped, the police were powerless against them.						0	
+29	一次事件中，“极夜幽影”在城市体育馆中引爆了炸弹，造成上百人死亡。在那之后，我不再相信警局，转而在伊格妮丝的帮助下，成为以暴制暴的夜魇骑士。	一次事件中，「極夜幽影」在城市體育館中引爆了炸彈，造成上百人死亡。在那之後，我不再相信警局，轉而在伊格妮絲的幫助下，成為以暴制暴的夜魘騎士。	ある時、「極夜の幽影」は市民体育館で爆弾を爆発させ、数百人に及ぶ犠牲者を出してしまった。その事件をきっかけにオレは警察を離れ、イグニスのサポートの下、暴力で暴力を制圧する夜魘騎士になった。	어느 사건에서 '극야의 환영’은 도시 체육관에 폭탄을 터뜨려 수백 명이 사망했다. 그 이후, 나는 경찰서를 더 이상 믿지 않고 이그니스를 도움으로 받아 폭력으로 폭력에 맞서는 악몽의 기사로 변신했다.	During one incident, Nightborne Phantom orchestrated a bombing at the city stadium that resulted in hundreds of deaths. After that, I lost faith in the system and, with Ignis' support, became the rogue vigilante known as the "Midnight Knight."						0	
+30	三年间，我用尽各种手段，将那些视法律为草芥的罪犯们一一处决，直至名单上的目标所剩无几。就在那时，“极夜幽影”如人间蒸发般，彻底失去了任何信息。	三年間，我用盡各種手段，將那些視法律為草芥的罪犯們一一處決，直至名單上的目標所剩無幾。就在那時，「極夜幽影」如人間蒸發般，徹底失去了任何資訊。	あれから3年間、オレはありとあらゆる手段で、法律を踏みにじる犯罪者達を処刑し続けた。処刑予定のリストが短くなったころには、「極夜の幽影」も表に姿を現さなくなっていた。	3년 동안 나는 온갖 수단을 동원해 법을 무시하는 범죄자들을 하나하나 처단했고, 목록에 있는 목표가 거의 남지 않을 때까지 계속되었다. 그러던 중, '극야의 환영’이 마치 세상에서 증발한 듯 모든 정보에서 완전히 사라졌다.	Over the past three years, I used whatever means necessary to bring down those who scoffed at the law, until nearly every name was crossed off my list, except for one. The Nightborne Phantom had vanished as if into thin air, leaving no trace behind.						0	
+31	我本以为他已经死于其他人之手，没想到，这混蛋只是换了个身份！	我以為他已經死於其他人之手，沒想到，這混蛋只是換了個身分！	すでに誰かに処刑されたのかと思っていたが……まさか、名前を変えていたとは。	나는 그가 다른 사람 손에 죽었겠다고 생각했지만, 이 개자식이 단지 신분을 바꿨을 뿐이었다니!	I had thought they might have been killed by someone else, but no, they had simply been operating under a different identity!						0	
+32	……告诉我“幽影”在哪。	……告訴我「幽影」在哪裡。	……「幽影」がいる場所を教えろ。	… '환영’이 어디 있는지 말해.	...Tell me, where is the Phantom now?						0	
+33	这……	這……	それは……	이거…	Well...						0	
+34	哨兵下意识缩了缩脖子，似乎察觉到我的语气有所不同。	哨兵下意識縮了縮脖子，似乎察覺到我的語氣有所不同。	オレの口調の変化に気づいたのか、ヘルセントリーは思わず首を引っ込めた。	보초병은 나도 모르게 목을 움츠렸다. 내 어조가 달라진 것을 눈치챈 듯했다.	He shrank back, his voice faltering as he sensed a shift in my tone.						0	
+35	说出来……能换我这条贱命吗？	說出來……能換我這條賤命嗎？	言ったら……私を殺さないでいただけますか？	말하면… 제 목숨을 살려줄 수 있습니까?	If I tell you... will you spare me?						0	
+36	三。	三。	3。	셋.	Three.						0	
+37	三？	三？	3？	셋?	Three?						0	
+38	二。	二。	2。	둘.	Two.						0	
+39	啊——我说！我说！	啊——我說！我說！	うわあああ！い、言います！言いますから！	아… 말할게요! 말할게요!	Ah! Alright! I'll talk!						0	
+40	他的心理防线终于被击垮，颤颤巍巍地报出了一个地址。	他的心理防線終於被擊垮，顫顫巍巍地報出了一個地址。	追い込まれた彼は、震える声でとある住所を口にした。	그의 심리적 방어선이 마침내 무너졌고, 그는 떨리는 목소리로 주소를 말했다.	Finally, he broke down and, with a trembling voice, gave up an address.						0	
+41	那是我，无论如何也没有想到的地方。	那是我，無論如何也沒想到的地方。	そこは、オレが想像もしていなかった場所だった。	그곳은 내가 상상조차 못 했던 장소였다.	It was the last place I ever expected.						0	
+42	咔！	咔！	カット！	클릭!	Cut!						0	
+43	大家辛苦了！第三幕也顺利拍摄完成了，大家可以先去休息！	大家辛苦了！第三幕也順利拍攝完成了，大家可以先去休息！	はい！お疲れ様です！第三幕の撮影も終わりましたね。ひとまず休憩を取ってください。	수고하셨습니다! 세 번째 막도 순조롭게 촬영됐습니다. 모두 쉬러 가셔도 됩니다!	Great job, everyone! That's a wrap for Act Three. Go ahead and take a break!						0	
+44	工作人员们三三两两地散去，龙舌兰则拿着剧本，一边翻看着，一边满意地哼着小曲。	工作人員們三三兩兩地散去，龍舌蘭則拿著劇本，一邊翻看著，一邊滿意地哼著小曲。	スタッフ達は持ち場を離れ、それぞれ休憩に向かった。アガベは台本を確認しながら、愉快そうに鼻歌を口ずさんでいた。	스태프들은 하나둘 흩어져 갔고, 아가베는 대본을 보며 만족스럽게 콧노래를 불렀다.	The crew dispersed in small groups. Agave flipped through the script, humming contentedly.						0	
+45	虽然说幕后黑手另有其人也很正常，不过问题是，这个“幽影”，你想好谁来扮演了吗？	雖然說幕後黑手另有其人也很正常，不過問題是，這個「幽影」，你想好誰來扮演了嗎？	黒幕が別にいるというのは、確かに不自然な展開ではないけど……その「幽影」は誰に演じてもらうつもりなんだ？	비록 배후에 다른 인물이 있는 것도 이해가 가지만, 문제는, 이 '환영’을 누가 연기할지 생각해 봤어?	I know that in movies, the mastermind is often someone unexpected, but have you decided who will play the Phantom?						0	
+46	哼哼，要实现设定中“幽影”来去无踪的效果，仅靠人类演员是很难的。所以，我找小望借来了这个。	哼哼，要實現設定中「幽影」來去無蹤的效果，僅靠人類演員是很難的。所以，我找小望借來了這個。	ふふーん。人間の役者だと、あっという間に現れてすぐに消えるという設定を再現するのは難しいと思うので、予めノゾムからこれを借りてきましたよ。	흠흠, 설정 중 '환영’이 자유롭게 움직이는 효과를 실현하려면 인간 배우만으로는 어렵죠. 그래서, 제가 노조미를 설득해서 이걸 빌려왔어요.	Well, it would be hard for a human actor to portray the spectral-like nature of the Phantom. So, I borrowed this from Nozomi.						0	
+47	龙舌兰挥了挥手，立刻有两名工作人员推着一辆平板车走了过来。平板车上放着一个被红布覆盖的巨物，看起来足足有两米多高。	龍舌蘭揮了揮手，立刻有兩名工作人員推著一輛平板車走了過來。平板車上放著一個被紅布覆蓋的巨物，看起來足足有兩公尺多高。	そう言いながら、アガベが腕を振って合図すると、2人のスタッフが台車を押して現れた。台車に載せられているのは、赤い布で覆われた、2メートルくらいの高さがある謎の物体だった。	아가베는 손을 흔들자, 스태프 두 명이 평판차 한 대를 밀고 다가왔다. 그 위에는 붉은 천으로 덮인 거대한 물체가 놓여 있었고, 높이는 족히 2미터가 넘었다.	Upon Agave's signal, two crew members rolled in a cart bearing a massive object draped in red cloth, standing nearly two meters tall.						0	
+48	嗯？	嗯？	うーん……？	응?	Hmm?						0	
+49	我忽然发现，在红布之下，有一只奇怪的“手”半耷拉着。外壳看起来是用新型陶瓷之类的东西制成，关节和骨骼的位置则被细细的丝线牵引。	我忽然發現，在紅布之下，有一隻奇怪的「手」半耷拉著。外殼看起來是用新型陶瓷之類的東西製成，關節和骨骼的位置則被細細的絲線牽引。	その布の下から、手のようなものが見えた。外側はセラミックに似た素材で作られているようだ。関節や骨の位置に細い糸が覗いていた。	나는 갑자기 붉은 천 아래에서 이상한 ‘손’ 하나가 반쯤 늘어진 것을 발견했다. 외각은 신형 세라믹 같은 재질로 만들어졌고, 관절과 뼈 위치는 가느다란 실선으로 연결되어 있었다.	I noticed a strange "arm" dangling out from beneath the cloth. Its exterior appeared to be crafted from a new type of ceramic, while the joints and limbs were manipulated by fine wires.						0	
+50	分析员大人，猜猜看里面是什么？	分析員大人，猜猜看裡面是什麼？	分析員さん、中身を当ててみてください！	분석가님, 안에 뭐가 들어있는지 맞혀보겠어요?	Mr. Adjutant, you want to guess what's inside?						0	
+51	既然是用来扮演幽影的，那里面应该是……	既然是用來扮演幽影的，那裡面應該是……	幽影を演じるものかぁ。なら、中身は……	환영 역을 맡기 위해서라면, 안에 있는 건 분명…	If you're going to use it to portray the Phantom, then I think it's...						0	
+b-1											0	
+52	人偶	人偶	人形だ	인형	A puppet.						0	
+53	答对了！真不愧是分析员大人，果然和我心有灵犀呢。	答對了！真不愧是分析員大人，果然和我心有靈犀呢。	正解です！さすがは分析員さん、私と心が通じ合っていますね。	정답입니다! 역시 분석가님, 저랑 마음이 통하네요.	That's right! We really are on the same wavelength, Mr. Adjutant.						0	
+54	铠甲	鎧甲	鎧だ	갑옷	A suit of armor.						0	
+55	嗯……对了70%吧。确实和铠甲差不多，但要更厉害一些。它其实是一个穿了盔甲的人偶哦。	嗯……對了70%吧。確實跟鎧甲差不多，但要更厲害一點。它其實是一個穿了盔甲的人偶哦。	うーん、7割くらい当たってますかね。実は、鎧を着た人形なんです。	음… 70%는 맞아요. 확실히 갑옷과 비슷하지만, 더 대단한 것이에요. 사실 그건 갑옷을 입은 인형이에요.	Not quite, but close. It's better than a suit of armor — it's actually an armored puppet.						0	
+56	手	手	手だ	손	An arm.						0	
+57	哎？为什么？	哎？為什麼？	え？どうして手なんか……	에? 왜요?	Huh? Why?						0	
+58	龙舌兰满脸疑惑地走到我附近，这才发现里面的东西“露了一手”。	龍舌蘭滿臉疑惑地走到我附近，這才發現裡面的東西「露了一手」。	アガベは不思議そうな顔で私に近寄ると、布の下から手が覗いているのに気付いた。	아가베는 얼굴에 의문이 가득한 채 내 근처로 다가오더니, 그제야 안에 있는 것이 '손을 내밀고' 있다는 것을 발견했다.	Puzzled, Agave approached, until she finally noticed the arm protruding from under the cloth.						0	
+59	分析员！不准作弊！	分析員！不准作弊！	分析員さん！カンニングはダメですよ！	분석가님! 부정행위 금지!	That's cheating, Adjutant!						0	
+60	明明是它自己露出来的……	明明是它自己露出來的……	最初から出てたんだよ……	분명히 저것이 스스로 드러난 건데…	I didn't do anything... It was just there.						0	
+61	总之，里面的东西其实是一个人偶啦！	總之，裡面的東西其實是個人偶啦！	とにかく、中身の正体は人形なんです！	어쨌든, 안에 있는 것은 사실 인형이에요!	Anyway, it's actually a puppet!						0	
+62	只要用威亚把这个人偶吊起来，就可以实现“幽影”在空中飘浮的效果了，很不错吧！	只要用威亞把這個人偶吊起來，就可以實現「幽影」在空中飄浮的效果了，很不錯吧！	ワイヤーでこれを吊るしたら、「幽影」が空中に浮いているように見えるはずです。どうですか、素敵でしょ？	와이어를 이용해 이 인형을 공중에 띄우기만 하면 '환영'이 공중에서 떠다니는 효과를 낼 수 있어요. 대단하죠?	With some wire work, we can make it seem like the Phantom is floating in the air. Pretty cool, huh?						0	
+63	我暂且保留意见。	我暫且保留意見。	今のところ、ノーコメントだ。	나는 일단 노코멘트 할게.	Well, it's a bit early to say.						0	
+64	比起这个，龙舌兰，你好像没和任何人说第四幕的场景在哪。	比起這個，龍舌蘭，你好像沒跟任何人說第四幕的場景在哪。	それより、アガベ。第四幕の撮影現場について、まだ誰にも話していないみたいですが。	그보다 아가베, 네 번째 막의 장면이 어디인지 아무에게도 말씀하지 않은 것 같아요.	By the way, Agave, you haven't told us where we're going to film Act Four.						0	
+65	因为我也思考了很久嘛。这个地方，作为邪恶组织的巢穴，必须足够危险神秘，要在不起眼而且足够大……	因為我也思考了很久嘛。這個地方，作為邪惡組織的巢穴，必須足夠危險神秘，要在不起眼而且足夠大……	私もかなり悩んだんです。悪の組織のアジトですから、危険でいてミステリアスである必要もありますし、外から見ると目立たないけれど、内側はしっかり広くないと困りますし……	왜냐하면 저도 오랫동안 생각했거든요. 이 장소는 악의 조직의 둥지로서 충분히 위험하고 신비로워야 해요. 눈에 띄지 않으면서도 충분히 넓어야 하고…	I've thought long and hard about this — the lair of a crime syndicate should be mysterious, dangerous, and expansive, yet inconspicuous...						0	
+66	新恒提罗上真的有这种地方吗？	新恆提羅上真的有這種地方嗎？	そんな場所、本当にニューガントラに存在するのですか？	뉴헨틸로에 정말 그런 곳이 존재하나요?	Is there really such a place in New Hentiro?						0	
+67	有，应该说……曾经有。	有，應該說……曾經有。	はい。というか、存在していました……ですかね。	있었어요, 라고 해야겠네요… 예전에.	Yes, there is — I mean, there was.						0	
+68	她的回答令所有人都一头雾水。	她的回答令所有人都一頭霧水。	その返事に、みんなが怪訝そうな表情を見せた。	그녀의 대답에 모두가 어리둥절해했다.	Everyone seemed confused.						0	
+69	小枫，你应该知道<orange>观景大厅</>吧？	小楓，你應該知道<orange>觀景大廳</>吧？	カエデちゃんは、<orange>展望ホール</>という名前を聞いたことありますか？	카에데, <orange>로비 공간</>을 알고 있지?	Kaede, you're familiar with the <orange>Observation Hall</>, aren't you?						0	
+70	枫下意识点了点头，又像是想到了什么，连忙摇了摇头。	楓下意識點了點頭，又像是想到了什麼，連忙搖了搖頭。	カエデはすぐに頷いたが、また何かを思い出したかのように、急いで首を振った。	카에데는 무심코 고개를 끄덕였고, 곧바로 뭔가 떠오른 듯 급하게 고개를 저었다.	Kaede subconsciously nodded, then quickly shook her head as if realizing something.						0	
+71	导演，你说的观景大厅，应该不是在第六离岛上的那个吧？	導演，你說的觀景大廳，應該不是在第六離島上的那個吧？	展望ホールって……第六離島のあれのことじゃないですよね？監督……	감독님, 그 로비 공간, 여섯 번째 외딴섬에 있는 거 맞죠?	You're not talking about the one on Outer Island 6, are you?						0	
+72	就是它。	就是它。	それですよ。	맞아, 바로 그거야.	That's the one.						0	
+73	可、可是，整座第六离岛，都已经被摧毁了啊……	可、可是，整座第六離島，都已經被摧毀了啊……	で、でも、第六離島はこの前墜落したはずでは……	하지만, 여섯 번째 외딴섬은 이미 파괴됐잖아요…	B—But all of Outer Island 6 has been destroyed...						0	
+74	我明白了，枫口中的第六离岛，就是在我们和初诞的沃坦战斗时，坠落的那座无人的离岛。	我明白了，楓口中的第六離島，就是在我們和初誕的沃坦戰鬥時，墜落的那座無人的離島。	ああ、なるほど。カエデの言う「第六離島」とは、私達が降誕のウォーデンと戦った時に墜落した、あの無人の離島の名前だったのか。	이제 알겠어. 카에데가 말한 여섯 번째 외딴섬은 우리가 초생의 보탄과 싸울 때 추락한 그 무인도다.	I suddenly realized that Kaede was referring to the uninhabited island that fell from the sky during our battle with Nascent Woden.						0	
+75	第六离岛上很多地方都使用了玻璃结构，尤其是位于离岛边缘的观景大厅，视野开阔，面积足够大，简直是绝佳的取景地。	第六離島上許多地方都使用了玻璃結構，尤其是位於離島邊緣的觀景大廳，視野開闊，面積足夠大，簡直是絕佳的取景地。	第六離島はガラス外装が多用されているのが特徴です。特に離島の離れにある展望ホールなんかは視野も広いですし、かなり余裕のある建物なので、最高のロケーションといえます。	여섯 번째 외딴섬의 많은 곳은 유리 구조로 되어 있어, 특히 외딴섬의 가장자리에 위치한 로비 공간은 시야가 탁 트이고 면적도 충분히 커서 최고의 촬영 장소예요.	Many structures on the island were made of glass, notably the Observation Hall on the island's edge. It offers spacious interiors and panoramic views — an ideal filming location. 						0	
+76	更完美的是——第六离岛现在就在新恒提罗正下方的海里，有一半还露在海面上呢。现在去的话，大概不用买票了。	更完美的是——第六離島現在就在新恆提羅正下方的海裡，有一半還露在海面上。現在去的話，大概不用買票了。	ちなみに、第六離島はまだニューガントラ直下の海上にありますし、半分くらいは水面より上に出ています。今なら、入場料を払う必要もないかと。	더 완벽한 것은… 여섯 번째 외딴섬이 지금 뉴헨틸로 바로 아래 바다에 있다는 거예요. 절반은 아직도 바다 수면 위에 드러나 있어요. 지금 가면 표를 살 필요도 없을 거예요.	And here's the cherry on top — the remains of Outer Island 6 now lie just below New Hentiro, partly submerged and partly above the sea's surface. We probably won't need to buy tickets to get in now.						0	
+77	哎？！	哎？！	え！？	뭐라고요?!	Ah!?						0	
+78	没错！各位，接下来的十几个小时中，我们将会离开新恒提罗，深入海底，在那里完成第四幕的拍摄！	沒錯！各位，接下來的十幾個小時中，我們將會離開新恆提羅，深入海底，在那裡完成第四幕的拍攝！	ふふ、そうです！これからの十数時間、私達はニューガントラを離れ、海底で第四幕の撮影を行うのです！	맞아요! 여러분, 앞으로 몇 시간 동안 우리는 뉴헨틸로를 떠나 바닷속으로 들어가서 거기서 제4막의 촬영을 완성할 겁니다!	That's right! Ladies and gentlemen, over the next dozen or so hours, we will be leaving New Hentiro and diving deep into the ocean to film Act Four!						0	
+79	来吧！“骑士”号和“龙舌兰”号！	來吧！「騎士號」和「龍舌蘭號」！	いでよ！「騎士」号と「アガベ」号！	가시죠! '기사'호와 '아가베'호!	Come on! "Flying Knight" and "Air Agave"!						0	
+80	强大的风压裹挟着震耳的巨响出现在我们身前数十米的地方，夜空中也骤然亮起两盏照明灯，将四周照得如白昼一般。	強大的風壓裹挾著震耳的巨響出現在我們身前數十公尺的地方，夜空中也驟然亮起兩盞照明燈，將四周照得如白晝一般。	鼓膜を震わす騒音とともに、何かが強い風を纏って私達から数十メートル離れた場所に現れた。夜空を切り裂くふたつの照明は、あたりを昼のように明るくした。	강한 바람이 귀청이 터질 듯한 굉음을 내며 우리 앞 수십 미터 지점에 나타났고, 밤하늘에는 두 개의 조명등이 갑자기 켜져서 주변을 대낮처럼 밝혔다.	Suddenly, a powerful gust blasted just a few dozen meters ahead of us with a deafening roar. Two floodlights pierced the night sky, bathing the area in light as bright as day.						0	
+81	在众人惊讶的目光中，两架无人直升机稳稳停在了我们面前的空地上。	在眾人驚訝的目光中，兩架無人直升機穩穩停在了我們面前的空地上。	みんなが驚くなか、2台の無人ヘリコプターが私達の前に止まった。	모두 놀란 눈빛으로 쳐다보는 가운데, 두 대의 무인 헬기가 우리 앞 공터에 안정적으로 착륙했다.	As everyone gazed in astonishment, two unmanned helicopters steadied themselves and landed neatly on the open ground before us.						0	
+82	这是……	這是……	これは……	이것은…	These are...						0	
+83	听名字就知道，这是我们爱的结晶——哎呀！	聽名字就知道，這是我們愛的結晶——哎呀！	その名の通り、私達の愛の結晶である……きゃっ！	이름만 들어도 알 수 있죠, 이건 우리 사랑의 과실… 아야!	Just as the names suggest, they are symbols of our boundless love—ow!						0	
+84	我轻轻拽住了她的一边马尾，阻止了她继续说一些引起误会的话。	我輕輕拉住了她的一邊馬尾，阻止了她繼續說一些引起誤會的話。	誤解されそうなことを口走る前に、私は彼女の髪を軽く引っ張ることで制止した。	나는 그녀가 오해를 살 만한 말을 계속하는 것을 막기 위해 포니테일의 한쪽을 살짝 잡아당겼다.	I gently tugged at one of her ponytails to stop her from making any more misleading comments.						0	
+85	导演，这好像是离岛酒店的直升机？	導演，這好像是離島酒店的直升機？	監督……これって、離島ホテルのヘリコプターじゃないですか？	감독님, 이거 외딴섬 호텔의 헬기 같은데요?	Miss Director, aren't these helicopters from the OuterIsle Hotel?						0	
+86	嗯哼。我早猜到会有用处，在租用场地的时候，我就把他们那里的直升机也一并租下来了。	嗯哼。我早就猜到會有用處，在租用場地的時候，我就把他們那裡的直升機也一併租下來了。	ええ、その通りです。のちのち使うことになると思って、ホテルの場所を借りるついでに、ヘリコプターも一緒に借りておきました。	음흠. 나는 이미 쓸모가 있을 거라 예상했어요. 장소를 대여할 때, 그들의 헬기도 함께 대여했죠.	Mm-hmm. I figured they'd come in handy, so I rented them along with the venue.						0	
+87	呃，原来经费上那笔特殊支出是……	呃，原來經費上那筆特殊支出是……	つまり、経費明細書にある「特殊費用」というのは……	아, 알고 보니 예산에서 그 특별 지출이…	Ah, that explains the unusual item in our expenses...						0	
+88	公司不会缺这点小钱的！	公司不會缺這點小錢的！	それくらいの費用、会社なら払えるでしょう！	회사에서 이 정도 돈은 문제없어요!	A little extra spending is nothing for the company!						0	
+89	伴随着龙舌兰的欢呼和辰星的轻叹，我们坐上了前往第六离岛的直升机。	伴隨著龍舌蘭的歡呼和辰星的輕嘆，我們坐上了前往第六離島的直升機。	アガベの歓声と辰星のため息とともに、私達は第六離島へ向かうヘリコプターに乗り込んだ。	아가베의 환호와 수성의 한숨과 함께, 우리는 여섯 번째 외딴섬으로 가는 헬기에 올랐다.	Amid Agave's cheers and Chenxing's soft sighs, we boarded the helicopters bound for Outer Island 6.						0	

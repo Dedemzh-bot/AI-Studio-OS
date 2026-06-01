@@ -1,0 +1,4 @@
+﻿流水号	//备注	二维码资源ID	地区限制目前可填：0国内外,1国内,2海外
+Id	Des	ScreenshotCodeResID	Coverage
+1	国服用	1003072	1
+2	国际服用	1003073	2

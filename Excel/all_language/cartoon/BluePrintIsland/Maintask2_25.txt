@@ -1,0 +1,24 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	可恶，小惊喜变成了惊吓。	可惡，小驚喜變成了驚嚇。	チッ……サプライズがアクシデントになっちゃった。	이런, 작은 서프라이즈가 공포로 변해버렸네.	Darn it, this little surprise didn't work out.						0	dlc30蓝图岛对话
+page1.2	拉面师傅怎么会突然开擂台打起来啊？还好顺利解决了问题，没发生重大bug。	拉麵師傅怎麼會突然開擂台打起來啊？還好順利解決了問題，沒發生重大Bug。	どうしてラーメン職人同士でケンカを始めたんだ？無事におさまったからいいけど……	라면 사부들이 왜 갑자기 격투장에서 싸우기 시작한 거야? 다행히 문제는 잘 해결됐고, 큰 버그는 발생하지 않았어.	Why in the world did the ramen chefs start dueling? Good thing I managed to resolve it without triggering a serious bug.						0	dlc30蓝图岛对话
+page1.3	嗯，我就知道分析员能解决一切难题的。	嗯，我就知道分析員能解決一切難題的。	ふふーん、分析員ならすべて解決してくれると思ってたよ。	응, 역시 분석가는 무슨 문제든 해결할 수 있구나.	Yeah, I knew you'd handle anything that comes your way, Adjutant.						0	dlc30蓝图岛对话
+page1.4	别试图蒙混过关。	別試圖蒙混過關。	ごまかされないぞ。	얼버무리려고 하지 마.	Don't just brush this off.						0	dlc30蓝图岛对话
+page1.5	是因为两个派系的拉面师傅行为逻辑里都保留了“一以贯之地传承拉面技术”，总觉得这样才能符合她们身份的印象。	是因為兩個派系的拉麵師傅行為邏輯裡都保留了「一以貫之地傳承拉麵技術」，總覺得這樣才能符合她們身分的印象。	ラーメン職人のイメージに合わせて、派閥問わず、自分の信仰に固執するようにNPCを設定したからだよ。	두 파벌의 라면 사부들의 행동 로직에 '신념 고수'가 남아있어서 그래. 이래야 그들의 정체성에 맞는다고 생각했거든.	It's because the ramen chefs on both sides hold an unyielding faith in their own logic. I guess that's what fits them.						0	dlc30蓝图岛对话
+page1.6	这个说法我接受，不过，后面不会又出现新的拉面师傅开擂台赛吧？	這個說法我接受，不過，後面不會又出現新的拉麵師傅開擂台賽吧？	そうなのか。でも、またラーメン職人がケンカを売りにくるなんてことはないよな？	그 설명은 이해가 가는데, 앞으로 또 새로운 라면 사부들이 격투 대회를 여는 일은 없겠지?	That makes sense, but... there aren't going to be more ramen chef duels, right?						0	dlc30蓝图岛对话
+page1.7	放心放心，不会了。	放心放心，不會了。	安心して、もうこんなことは起こらないから。	안심해, 그런 일은 없을 거야.	Don't worry, there won't be.						0	dlc30蓝图岛对话
+page1.8	我当时搜集了很多拉面资料，最终只是纠结在保留豚骨派和酱油派的哪一位师傅，才导致了……	我當時蒐集了很多拉麵資料，最終只是糾結於保留豚骨派和醬油派的哪一位師傅，才導致了……	当時はラーメンの資料を色々読み進めていくうちに、NPCは豚骨派か醤油派かで悩んじゃって、それでこうなっただけだから……	당시 라면에 대한 자료를 많이 수집했는데, 돈코츠파와 쇼유파 중 어느 사부를 남길지 고민하다가 이렇게 됐어…	I did a ton of ramen research but got stuck deciding between keeping the tonkotsu or the shoyu master, and...						0	dlc30蓝图岛对话
+page1.9	其实，我们可以全都要的，对吧？	其實，我們可以全都要的，對吧？	けど、私たちはどっちも好きだろ？	사실 둘 다 있을 수 있잖아, 안 그래?	Actually, there's no reason we can't have both, is there?						0	dlc30蓝图岛对话
+page1.10	安卡希雅原本还皱着小脸展示着委屈，听了我的话后，很快露出轻松的笑容。	安卡希雅原本還皺著小臉展示著委屈，聽了我的話後，很快露出輕鬆的笑容。	気まずそうにしていたアカシアは、私の言葉を聞くと、ぱっと晴れやかな笑顔をみせた。	아카시아는 안 그래도 작은 얼굴을 찡그리며 억울한 표정을 짓다가, 내 말을 듣고는 금세 편안한 미소를 지었다.	Acacia started pouting in protest, but hearing that, her frown faded into an easy smile.						0	dlc30蓝图岛对话
+page1.11	原来，你也还记得……	原來，你也還記得……	覚えていてくれたんだ……	아직 기억하고 있었구나…	So, you remember too...						0	dlc30蓝图岛对话
+page1.12	当然记得。	當然記得。	もちろんさ。	물론 기억하지.	Of course I do.						0	dlc30蓝图岛对话
+page1.13	以前我和她曾经就到底是豚骨拉面好吃，还是酱油拉面好吃这个话题，有过一次从言语到身体的深度讨论……没想到她一直记在心里。	以前我和她曾經因為到底是豚骨拉麵好吃，還是醬油拉麵好吃這個話題，有過一次從言語到身體的深度討論……沒想到她一直記在心裡。	昔、おいしいのは豚骨と醤油のどっちかという言い争いから、私たちは本格的な「ケンカ」に発展したことがあった。彼女もそれを覚えていたのだ。	예전에 나와 그녀는 돈코츠 라면이 맛있나, 쇼유 라면이 맛있나 하는 주제로 말에서 몸으로 이어지는 심층 토론을 벌인 적이 있었는데… 그녀가 계속 기억하고 있을 줄은 몰랐다.	She and I once got into a passionate debate — verbally and otherwise — over whether tonkotsu or shoyu ramen was better. I never expected she'd remember that all this time.						0	dlc30蓝图岛对话
+page1.14	你不也没忘。	你不是也沒忘。	君も覚えてたんだな。	너도 잊지 않았잖아.	You didn't forget either.						0	dlc30蓝图岛对话
+page1.15	关于分析员的一切，每句话每个习惯包括身体每个角落的数据，我都仔细记录下来了。	關於分析員的一切，每句話每個習慣包括身體每個角落的資料，我都仔細記錄下來了。	分析員に関することは全部記録してるからね。	분석가에 관한 모든 것, 말 한마디, 모든 습관, 그리고 몸 구석구석의 데이터까지 전부 꼼꼼히 기록해 뒀어.	I've carefully kept track of your every word, every habit, even stats of your body.						0	dlc30蓝图岛对话
+page1.16	毕竟知己知彼才能百战不殆。	畢竟知己知彼才能百戰百勝。	「彼を知り己を知れば、百戦殆からず」、でしょ？	적을 알고 나를 알아야 백전백승이니까.	After all, knowing both your opponent and yourself is the key to victory.						0	dlc30蓝图岛对话
+page1.17	你这话说的，就不能浪漫点吗？	你這話說的，就不能浪漫點嗎？	もうちょっとロマンチックな言い方があるだろ。	그렇게 말하지 말고, 좀 더 로맨틱하게 말할 순 없어?	Now, isn't that the most "romantic" thing I've ever heard?						0	dlc30蓝图岛对话
+page1.18	我想想怎么改……算了，我下次一定优化。	我想想怎麼改……算了，我下次一定優化。	さて、どう改善しようか……いいや。今度また考えるよ。	어떻게 수정할지 생각해 볼게… 아니다, 다음에 꼭 최적화할게.	Let me think how to rephrase it... No, forget it. I'll do better next time.						0	dlc30蓝图岛对话
+page1.19	分析员，等蓝图岛真正完成之后，我们一起去住吧？	分析員，等藍圖島真正完成之後，我們一起去住吧？	分析員、ビジョン島の開発が終わったら、一緒に住まない？	분석가, 설계의 섬이 완성되면 우리 같이 살아볼까?	Adjutant, when Builder Island is all finished, let's live here together.						0	dlc30蓝图岛对话
+page1.20	那样就可以一起玩游戏，一起吃拉面了。	那樣就可以一起玩遊戲，一起吃拉麵了。	そしたら、あなたと一緒にゲームをしたり、ラーメンを食べられるから。	그러면 같이 게임도 하고 라면도 먹을 수 있을 텐데.	We can play games and eat ramen all we want.						0	dlc30蓝图岛对话
+page1.21	不用等真正的蓝图岛建立，我们随时都可以一起玩游戏、吃拉面。	不用等真正的藍圖島建立，我們隨時都可以一起玩遊戲、吃拉麵。	開発がすべて終わるのを待たなくても、一緒に遊んだり、食べたりはできるだろ。	진짜 설계의 섬이 완성될 때까지 기다릴 필요 없이, 우리는 언제든 같이 게임하고 라면을 먹을 수 있잖아.	Who says we have to wait for Builder Island to be finished? We can play games and eat ramen together anytime.						0	dlc30蓝图岛对话
+page1.22	嗯……约好了。	嗯……約好了。	うん。約束だよ。	응… 약속했다.	Okay... I'll hold you to that.						0	dlc30蓝图岛对话

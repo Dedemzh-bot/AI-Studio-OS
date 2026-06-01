@@ -1,0 +1,13 @@
+字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	zh_CN	disable	Remark
+task_type01	劝降伙伴	0	
+task_type02	寻找伙伴	0	
+task_type03	主线任务	0	
+TxtDefenseAction12	未部署连弩会员：%s	0	
+TxtDefenseAction13	未部署长刀会员：%s	0	
+RevealTitle	情报汇总	0	新星开拓完成情报任务提示抬头
+RevealDesc	已标示未劝降目标的位置	0	新星开拓完成情报任务提示内容
+persuade	劝降	0	劝降交互按钮
+LeaveTaskRegion	正在离开任务区域	0	离开任务区域时弹出
+ExitPalLevel	是否离开当前星球	0	
+Portal	空间曲点	0	

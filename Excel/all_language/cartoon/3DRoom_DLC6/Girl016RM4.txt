@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，教我用这个。	分析員，教我用這個。	分析員！これの使い方を教えて。	분석가, 이것 좀 가르쳐 줘.	Adjutant, teach me how to use this.						0	
+page1.2	终端？	終端？	これって、端末の？	단말기 사용법?	Your terminal?						0	
+page1.3	嗯嗯，因为我看大家都懂很多东西。	嗯嗯，因為我看大家都懂很多東西。	うん！だって、ここの人たち、みんなすごいんだよ。	응, 맞아, 다른 사람들을 보니 익숙하게 다루는 물건들이 많은 것 같아서.	Yeah, it seems like everyone else knows how to do a lot of things.						0	
+page1.4	恩雅姐姐会做好吃的小饼干，芙提雅姐姐会做机器人。	恩雅姊姊會做好吃的小餅乾，芙提雅姊姊會做機器人。	エンヤお姉ちゃんはおいしいクッキーが作れるし、フリティアお姉ちゃんはロボットが作れるんだ。	엔야 언니는 쿠키를 만들고, 프티야 언니는 로봇을 만들고,	Enya can make yummy cookies, and Fritia can make robots.						0	
+page1.5	苔丝姐姐会变魔术，凯茜娅姐姐会做味道怪怪的饮料。	黛斯姊姊會變魔術，凱茜婭姊姊會做味道怪怪的飲料。	テスお姉ちゃんはマジックが得意で、カーシアお姉ちゃんはなんか変な味の飲み物を作れるもん。	테스 언니는 마법을 부리고, 캐시아 언니는 이상한 맛이 나는 음료를 만들고…	Tess can do magic, and Katya can make drinks that taste funny.						0	
+page1.6	……那个女人，下次凯茜娅给你递什么“调制饮料”的时候别去喝。	……那個女人，下次凱茜婭幫你遞什麼「調酒」的時候別去喝。	……あいつは……これからはカーシアお姉ちゃんから「ドリンク」を渡されても、絶対に飲んじゃダメだぞ。	… 후, 다음부터는 캐시아가 만들어 주는 음료는 절대로 마시지 마.	Argh, that woman... Next time Katya offers you something to drink, don't take it.						0	
+page1.7	不过你有兴趣学习了，这倒是好事，我来教你吧。	不過你有興趣學習了，這是好事情，讓我來教你吧。	まあでも、勉強する気があるのはいいことだ。もちろん教えるよ。	어쨌거나 이첼이 새로운 것에 흥미를 느끼는 거 같아서 좋네. 내가 가르쳐 줄게.	But it's good that you want to learn. I'll teach you.						0	
+page1.8	好耶！	好耶！	やった！	좋아!	Yay!						0	
+page1.9	（三十分钟后）	（三十分鐘後）	（30分後）	(3분 후)	(Thirty minutes later)						0	
+page1.10	呜……好难。	嗚……好難。	うぅ……難しいな。	우… 너무 어려워.	Ugh... I don't get it...						0	
+page1.11	看来，还是得先让你把字认全才行。	看來，還是得先讓你把字認完才行。	どうやら、まずは読み書きからだな。	먼저 글자부터 알려줘야겠군…	Looks like I'm going to have to teach you how to read the words first...						0	

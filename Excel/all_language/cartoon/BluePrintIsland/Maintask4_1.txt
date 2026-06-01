@@ -1,0 +1,10 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，尖尖耳现在充满了干劲儿，非常想为您做点什么，请问有什么吩咐！	分析員，尖尖耳現在充滿了幹勁，非常想為您做點什麼，請問有什麼吩咐！	分析員、ウサミミは今やる気満々！何かしてあげたいな～何かリクエストはある？	분석가님, 뾰족귀는 지금 의욕이 넘쳐요. 뭐라도 해드리고 싶은데, 분부를 내려주세요!	Adjutant, I'm feeling fired up right now! Is there anything you need?						0	dlc30蓝图岛对话
+page1.2	怎么突然燃起来了……	怎麼突然燃起來了……	どうして急に燃えているんだ……	갑자기 왜 이렇게 불타오르는 거야…	Where's all this excitement coming from?						0	dlc30蓝图岛对话
+page1.3	尖尖耳为分析员与安卡希雅制作人的爱情深深感动……也燃起了想要帮二位建设蓝图岛的热情！	尖尖耳因分析員與安卡希雅製作人的愛情深深感動……也燃起了想要幫二位建設藍圖島的熱情！	ウサミミ、分析員とアカシアプロデューサーの愛に感動したよ……おふたりのビジョン島開発を手伝うことに、やる気が湧いてきた！	뾰족귀는 분석가님과 아카시아 프로듀서님의 사랑에 깊이 감동해서… 두 분의 설계의 섬 건설을 도와드릴 열정도 불타고 있어요!	I'm deeply moved by the love you have for each other... and now I'm even more inspired to help you build Builder Island!						0	dlc30蓝图岛对话
+page1.4	虽然作为机器人助手的我，什么也做不到，但——	雖然作為機器人助手的我，什麼也做不到，但——	ただのロボット助手であるウサミミにできることは少ないけど――	로봇 조수인 저는 아무것도 할 수 없다는 걸 알지만…	I'm just a robot assistant and can't do much, still—						0	dlc30蓝图岛对话
+page1.5	你打住，告诉我岛上目前还有哪些地方没有完成规划就可以了。	你先停，告訴我島上目前還有哪些地方沒有完成規劃就可以了。	ちょっと落ち着け。今は島でまだ開発していない場所がないか、教えてくれればいいから。	그만하고, 섬에 아직 계획이 완료되지 않은 곳이 어디인지 말해 줘.	Enough, just tell me which parts of the island still need planning.						0	dlc30蓝图岛对话
+page1.6	看来，您已经有了非常好的想法。	看來，您已經有了非常好的想法。	すでにアイデアを思いついたみたいだね！	이미 좋은 아이디어가 있으신가 보네요.	Looks like you already have a solid plan.						0	dlc30蓝图岛对话
+page1.7	尖尖耳也早就帮您检索好了数据。还有两处没有规划的土地，坐标已发至终端，请打开地图查看。	尖尖耳也早就幫您檢索好了資料。還有兩處沒有規劃的土地，座標已傳送至終端，請打開地圖查看。	ウサミミも、検索し終わったよ。未開発の土地はあと二箇所。もう座標を端末に送ったから、マップで確認してね。	뾰족귀도 이미 데이터를 검색해 뒀어요. 아직 계획이 없는 땅이 두 군데 남았는데, 좌표는 단말기로 전송해 드렸으니 지도를 확인해 주세요.	I've fetched the data for you. There are two unplanned plots left, and I've sent the coordinates to your terminal. Please check the map.						0	dlc30蓝图岛对话
+page1.8	看来，刚刚好够建造那两栋最重要的建筑。	看來，剛剛好夠建造那兩棟最重要的建築。	ふむ、もっとも大事な建物を作るのに十分なスペースがあるな。	가장 중요한 건물 두 채를 지을 공간이 바로 여긴가 보네.	That's just enough room for the two crucial buildings I have in mind.						0	dlc30蓝图岛对话

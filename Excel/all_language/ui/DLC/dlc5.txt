@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+task_type01	区域事件	區域事件	エリアイベント	구역 사건	Area Incident						0	
+task_type02	挑战事件	挑戰事件	チャレンジイベント	도전 사건	Challenge Incident						0	
+task_type03	主线任务	主線任務	メインミッション	메인 미션	Main Story Mission						0	
+TxtDefenseAction12	机枪塔剩余弹药：%s	機槍塔剩餘彈藥：%s	機関銃架の残り弾薬：%s	기관총탑 남은 탄약: %s	Turret Ammunition Left: %s						0	

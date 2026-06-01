@@ -1,0 +1,136 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	消除同类项游戏结束，两位选手最终得分——4分，再接再厉~再接再厉~	消除同類項遊戲結束，兩位選手最終得分－4分，再接再厲~再接再厲~	「重複削除」チャレンジ、無事終了しました～得点は——4点で～す！がんばれーがんばれー	같은 항목 제거하기 게임이 끝났습니다, 두 선수의 최종 점수는… 4점, 조금 더 힘을 내시길 바랍니다~	Matching Mayhem has come to an end. The contestants have received a score of 4 points. Keep working hard~						0	
+2	唔……头……头还是晕晕的……	唔……頭……頭還是暈暈的……	うう……目が……まだ回って……	윽… 머리… 머리가 너무 어지러워요…	Ugh... I'm... still kinda dizzy...						0	
+3	其实我也有点……唔……呕——	其實我也有點……唔……嘔——	私もちょっと……うっ、おえっ——	사실 나도 조금… 우… 우웩…	Yeah, me too... ugh... Urk—						0	
+4	居然是莫尔索先撑不住了吗……	居然是莫爾索先撐不住了嗎…	先にムルソーが耐えきれなくなったのか……	모르소도 견디질 못한 건가…	To my surprise, Meursault was the first to hurl.						0	
+5	没办法，这次我们不太走运，抽到了琴诺不擅长的精细索敌挑战……	沒辦法，這次我們不太走運，抽到了琴諾不擅長的精細索敵挑戰……	仕方ない。チェルノの苦手な索敵チャレンジを引いてしまった、私たちがついてなかっただけだよ。	어쩔 수 없지, 이번에는 운이 안 좋았어, 체르노가 잘 못하는 정교 탐색 챌린지가 뽑았으니…	Well, what can you do? We got unlucky this time with a complicated challenge Cherno wasn't very good at...						0	
+6	总之先找个凉快一点的地方休息一下，来，我来背你们回去吧。	總之先找個涼快一點的地方休息一下，來，我來背你們回去吧。	とにかく、涼しい場所で休憩にしよう。ほら、おんぶするから、乗って。	일단은 시원한 곳을 찾아서 잠시 휴식을 취하도록 하자, 자, 나한테 업히도록 해.	Anyway, let's find somewhere to rest. Here, I'll carry you guys back.						0	
+7	对不起唔……	對不起唔……	すみません、っ……	죄송해요…	Sorry...						0	
+8	琴诺好些了吗……	琴諾好點了嗎……	チェルノさん、大丈夫ですか？	조금 괜찮아졌어…?	Are you feeling better, Cherno...?						0	
+9	嗯，喝了分析员的特调饮料后，已经恢复过来了……	嗯，喝了分析員的特調飲料後，已經恢復過來了……	はい……分析員さんがくれたドリンクを飲んで、調子が戻ってきました……	네, 분석가님의 특제 음료를 마시고 괜찮아졌어요…	Yeah, I'm better after having that special drink the Adjutant gave me...						0	
+10	那就赶快为拉低总分道歉吧。	那就趕快為拉低總分道歉吧。	それじゃ、総合点を下げちゃったことに謝罪しなきゃね。	그러면 어서 총점을 낮춘 것에 대해 사과하도록 해.	Then hurry and apologize for pulling our score down.						0	
+11	哎？那对，对不起……	哎？那對，對不起……	え？ご、ごめんなさい……	네? 죄, 죄송해요…	Huh? I—I'm sorry...						0	
+12	没有诚意喵，至少要在分析员面前脱掉——	沒有誠意喵，至少要在分析員面前脫掉——	全然心がこもってないニャン！せめて分析員の前で脱ぐくらい——	성의가 없다냥, 적어도 분석가 앞에서 벗고…	That wasn't very sincere, nya. You're in front of the Adjutant, you should at least take off—						0	
+b-1											0	
+13	从身后敲击猫头。	從身後敲擊貓頭。	後ろからマーシルの頭を叩く。	뒤에서 고양이 머리를 때리기.	Hit Mauxir's head from behind						0	
+14	唔喵——	唔喵——	ンニャ——	냥…	Nyaaa—!						0	
+15	猫汐尔就别再捉弄小琴诺了……	貓汐爾就別再捉弄小琴諾了……	チェルノをこれ以上いじめるんじゃない……	캣 시에라, 체르노 좀 그만 괴롭혀…	Mauxir, don't pick on Cherno...						0	
+16	我错了喵……	我錯了喵……	ごめんニャン……	잘못했다냥…	My mistake, nya...						0	
+17	总之琴诺能恢复过来就好，接下来还有新的趣味挑战吧？	總之琴諾能恢復過來就好，接下來又有新的趣味挑戰吧？	チェルノさんが回復できたのならよかったです。これからのユニークチャレンジで頑張りましょう。	체르노가 괜찮아졌다니 다행이네요, 그럼 새로운 보너스 챌린지를 시작해 볼까요?	Anyway, I'm glad you're feeling better, Cherno. Do we have another fun challenge next?						0	
+18	只要像之前那样齐心协力，我们一定还能顺利拿到高分的。	只要像之前那樣齊心協力，我們一定還能順利拿到高分的。	この前のようにちゃんと協力し合えば、きっといい成績を残せますよ。	이전처럼 같이 힘을 합치면 손쉽게 높은 점수를 얻을 수 있을 거예요.	As long as we cooperate like before, we're sure to get a high score.						0	
+19	嗯，但这次的趣味挑战规则和之前不太一样了……	嗯，但這次的趣味挑戰規則和之前不太一樣了……	はい……でも、今回のユニークチャレンジは今までのと違うようで……	네, 하지만 이번 보너스 챌린지 룰이 전과 조금 다른 거 같네요…	Yeah, but the rules for this fun challenge are a little different than before...						0	
+20	说罢，琴诺便摘下帽子，从中抽出了卡片。	說罷，琴諾便摘下帽子，從中抽出了卡片。	そう言いながら、チェルノは帽子の中からカードを取り出した。	말을 마치고, 체르노는 모자를 벗어 그 속에 있는 카드를 꺼내 들었다.	As she said this, Cherno, took off her hat and pulled a card from it.						0	
+21	“还请潜入游艇正下方的海域，寻找出遗落在沉船中的宝藏。”	「還請潛入遊艇正下方的海域，尋找出遺落在沉船中的寶藏。」	「船の真下の海域に潜り、難破船に隠された宝物を見つけよ。」	"요트 아래에 있는 해역에 들어간 뒤, 침몰된 배 안에 있는 보물을 찾으세요."	"Please dive down directly under the yacht and search for hidden treasure in the shipwreck."						0	
+22	“挑战完成，追加1分奖励分，挑战失败，扣除1分总分。”	「挑戰完成，追加1分獎勵分，挑戰失敗，扣除1分總分。」	「チャレンジクリアでボーナス1点獲得。チャレンジに失敗すると、総得点から1点減点される。」	"챌린지에 성공하면 보너스 점수 1점, 챌린지에 실패하면 총점에서 1점을 감점됩니다."	"One point will be awarded for completing the challenge. One point will be deducted if you fail."						0	
+23	这个奖惩机制一听就是安卡希雅想出来的……	這個獎懲機制一聽就是安卡希雅想出來的……	この計算方法、絶対にアカシアのアイデアだ……	이 상벌 제도는 분명 아카시아가 생각해 낸 걸 거야…	That sounds like something Acacia came up with...						0	
+24	没错，有什么意见吗？	沒錯，有什麼意見嗎？	そうだよ。なんか文句でもある？	맞아, 무슨 문제라도 있어?	That's right. Any questions or concerns?						0	
+25	潜水……我不喜欢把自己弄得湿漉漉的喵。	潛水……我不喜歡把自己弄得濕漉漉的喵。	海に潜る……濡れるのはいやだニャン。	잠수… 난 물에 젖는 게 싫다냥.	Diving, huh... I don't like getting wet, nya.						0	
+26	是因为毛发不容易干吗？还是因为讨厌吹风机的声音？	是因為毛髮不容易乾嗎？還是因為討厭吹風機的聲音？	髪の毛が乾きづらいからでしょうか？それともドライヤーの音が嫌いなんですか？	모발이 잘 안 말라서인가요? 아니면 드라이기 소리가 싫어서 그런 건가요?	Because it's hard to dry your fur? Or because you don't like the sound of the hair dryer?						0	
+27	修正，我又不是猫……只是单纯讨厌那种冷冰冰的感觉罢了喵。	修正，我又不是貓……只是單純討厭那種冷冰冰的感覺罷了喵。	マーシルはネコじゃないニャン……寒いのが嫌なだけだニャン。	정정해 줘, 난 고양이가 아니라고… 그냥 차가운 느낌이 싫어서 그렇다냥.	Correction — I'm not a cat... I simply don't like feeling cold, nya.						0	
+28	这还真是个问题……	這還真是個問題……	それは確かに大変だな……	그건 좀 심각한 문제라고 생각해…	That was a good question...						0	
+29	其实，我也有点怕冷……	其實，我也有點怕冷……	実は、私も寒いのが苦手で……	실은 저도 추운 건 싫어요…	Actually, I don't really like the cold either...						0	
+30	不过……我有一个小窍门，只要贴在分析员身上，身体就会变得热乎乎的了~	不過……我有一個小技巧，只要貼在分析員身上，身體就會變得熱呼呼的了~	あ、でも、分析員さんにくっつくと、体がポカポカになりますよ。	하지만… 작은 팁이 하나 있는데, 분석가님에게 딱 붙어가면 몸이 따뜻해지거든요~	And... I have a little trick for that. Just stick close to the Adjutant, and you'll warm up in no time~						0	
+31	还有这种方法吗？那一会儿我们可以试试。	還有這種方法嗎？那等一下我們可以試試看。	そうなんですか？それじゃ、あとで試してみましょうか。	그런 방법이 있나요? 있다가 한번 테스트해 보도록 하죠.	Oh, really? Then let's try it in a second.						0	
+32	没有用的……那艘沉船是被诅咒的……	沒有用的……那艘沉船是被詛咒的……	ムダだよ……あの難破船は呪われているんだ……	소용없어… 그 침몰된 배는 저주를 받은 배거든…	It won't work... That shipwreck is cursed...						0	
+33	正当大家热火朝天地讨论着应对方法时，冷冷的声音从身后响起。	正當大家熱火朝天地討論著應對方法時，冷冷的聲音從身後響起。	みんなで対策方法について話し合っていると、誰かが冷たい口調でそう切り出した。	모두가 어떤 방법으로 진행할지 열띤 토론을 하고 있을 때, 차가운 목소리가 등 뒤에서 들려왔다.	Just as everyone was coming up with ideas, an icy voice sounded from behind us.						0	
+34	宛若幽灵一般的安卡希雅投影死死地盯着海面，仿佛在和某种我们看不到的东西对话……	宛若幽靈一般的安卡希雅投影死死地盯著海面，彷彿在跟某種我們看不見的東西對話……	幽霊のように浮かぶアカシアのホログラフは海面を睨みながら、まるで私達が見えないなにかと会話しているようだった……	유령처럼 생긴 아카시아 투영체가 바다를 뚫어져라 쳐다보았고, 마치 우리가 보지 못하는 무언가를 보고 있는 것 같았다…	Acacia's phantom-like projection stared off into the ocean, seemingly speaking to something we couldn't see...						0	
+35	所有妄图接近宝藏的人，都会被困在那里的游魂夺走最后一丝体温……	所有妄圖接近寶藏的人，都會被困在那裡的遊魂奪走最後一絲體溫……	あの宝物に近づこうとする人はみな、彷徨う魂に最後の体温を奪い去られてしまうんだ……	보물을 탐하는 자, 결국은 거기서 떠도는 영혼에게 마지막 체온까지 빼앗기게 될 거야…	The wandering souls trapped there will steal away every last bit of your warmth if you get close to the treasure...						0	
+36	……	……	……	……	...						0	
+37	刚刚安卡希雅说的那些话……	剛剛安卡希雅說的那些話…	さっき、アカシアさんが言っていたのは……	방금 아카시아가 했던 말들…	Wh—What did Acacia just say...?						0	
+38	……那应该只是为了营造出恐怖氛围的准备吧。别害怕，这个世界上是没有鬼魂的。	……那應該只是為了營造出恐怖氛圍的準備吧。別害怕，這世界上是沒有鬼魂的。	……多分、怖い雰囲気を作っているだけです。気にしないでください、この世界には幽霊なんていませんから。	…공포스러운 분위기를 조성하기 위해 했던 말들일 거예요. 이 세상에 귀신같은 건 없으니 무서워하지 마세요.	...She probably just said that to make things seem more scary. Don't worry. Ghosts aren't real.						0	
+39	但是这里真的好冷喵……分析员的热量，就快要不够用了。	但這裡真的好冷喵……分析員的熱量，就快要不夠用了。	でも、ここは本当に寒いニャン……分析員の温もりがそろそろ切れちゃう。	근데 이곳은 정말 춥다냥… 분석가의 온도로도 부족할 정도야.	But it's really freezing, nya... I'm afraid the Adjutant's warmth won't be enough to save us, nya.						0	
+40	再坚持一会儿，已经找到沉船入口了。	再忍耐一下，已經找到沉船入口了。	もう少しの辛抱だ。そろそろ難破船の入り口だぞ。	침몰된 배 입구에 도착했으니 조금만 더 버티도록 해.	Hang in there just a little longer. We already found the shipwreck's entrance.						0	
+41	希望暗处不会突然跳出迅猛龙……	希望暗處不要突然跳出迅猛龍……	暗い場所からヴェロキラプトルが飛び出してきませんように……	어둠 속에서 갑자기 난폭한 용 같은 게 안 튀어나왔으면 좋겠네요…	I hope a velociraptor doesn't suddenly pop out and attack us...						0	
+42	海底是不会出现迅猛龙的哦……	海底是不會出現迅猛龍的哦……	ヴェロキラプトルは海底にはいないよ……	바닷속에서 난폭한 용 같은 건 튀어나오지 않아…	There aren't any velociraptors at the bottom of the ocean...						0	
+43	好了，大家抓紧我，通过面前的管道后我们就要抵达沉船内部了。	好了，大家抓緊我，通過面前的管道後我們就要抵達沉船內部了。	よし、しっかり捕まっておくんだよ。目の前のトンネルを抜けたら、難破船の内部だ。	자, 다들 날 꼭 잡아, 이 파이프만 지나면 배의 내부에 도착할 수 있을 거야.	Alright, everyone hold on tight to me. After we swim through that pipe, we'll be inside the shipwreck.						0	
+44	嗯！	嗯！	はい！	네!	Got it!						0	
+45	好豪华的内饰，简直就像是真的游轮一样……	好豪華的內飾，簡直就像是真的遊輪一樣……	すごく豪華な内装ですね……まるで豪華客船みたいです……	인테리어가 정말 화려하잖아, 진짜 유람선처럼 느껴질 정도야…	It's so luxurious inside... Just like a real cruise ship...						0	
+46	有很多独立的房间喵，宝藏就藏在其中的一间吧。	有很多獨立的房間喵，寶藏就藏在其中的一間吧。	部屋がたくさんあるニャン。宝物はきっとこの中のどれかに隠されてるんだよ。	방들이 정말 많다냥, 보물은 아마 수많은 방들 중 한곳에 있겠지?	There are a lot of different rooms, nya. The treasure must be hidden in one of them.						0	
+47	里面会蹲着没有脸的护士吗？！	裡面會蹲著沒有臉的護士嗎？！	中から顔のないナースさんとか出て来たりしませんか！？	혹시 안에 얼굴 없는 간호사가 숨어 있는 건 아니겠죠?	Is there going to be a nurse without a face waiting inside!?						0	
+48	海底也是没有护士的哦……再说你手上不是拿着弹容量高达80发的白夜别诗吗？	海底也是沒有護士的哦……再說你手上不是拿著彈容量高達80發的白夜別詩嗎？	ナースも海底にはいないよ……というか、君だったら装弾数80発の「白夜の送別詩」を持ってるじゃないか。	바다 밑에 간호사 같은 건 없어… 그리고 손에 탄알이 80발이나 들어가는 백야의 이별을 들고 있잖아?	There aren't any nurses at the bottom of the ocean... Besides, isn't your Uninvited Adieu loaded up with 80 rounds?						0	
+49	望着躲在自己身后，紧紧将头埋在我衣服里的小琴诺，我不禁叹了一口气。	望著躲在自己身後，緊緊將頭埋在我衣服裡的小琴諾，我不禁嘆了一口氣。	私は自分の背中に顔を埋めたチェルノを見て、思わずため息をこぼした。	등 뒤에 숨어 머리를 나의 옷 속으로 숨기고 있는 체르노를 보며 한숨을 내쉬었다.	I couldn't help letting out a sigh as I looked at Cherno hiding behind me, burying her head in my clothes.						0	
+50	她最近接触的影视作品是不是有点太多了……	她最近接觸的影視作品是不是有點太多了……	最近、変なものを見すぎたのかな……	요즘 본 영화 작품들이 다 너무…	Has she been watching too much TV recently...?						0	
+51	唔喵——！	唔喵——！	ンニャ——！	냥…!	Nyaaa—!						0	
+52	正当我分神之时，一阵杂音袭来，手中的通讯终端开始闪烁起诡异的色块。	正當我分神之時，一陣雜音襲來，手中的通訊終端開始閃爍起詭異的色塊。	ボーッとしていると、ノイズとともに、私達の通信端末が怪しい光を放った。	잠시 다른 생각을 하고 있는 순간, 잡음이 들려오며 통신 장치에서 이상한 불빛이 반짝거리기 시작했다.	Just as I got distracted by my thoughts, a loud noise sounded. Abnormal blocks of color began flashing on the terminal I was holding.						0	
+53	好大的噪音，我的感知增幅装置完全失灵了。	好大的噪音，我的感知增幅裝置完全失靈了。	すごいノイズだニャン。私の感知増幅装置が完全に停止したよ。	소음이 너무 커서 감지 증폭 장치가 먹통이 됐어.	That was so loud. My perception amplifier is completely out of commission.						0	
+54	水体检测装置也出故障了……不过供氧和水下维生装置还在正常运作。	水體檢測裝置也故障了……不過供氧和水下維生裝置還在正常運作。	水域検知装置も故障していますね……ですが、酸素供給と水中生命維持装置はまだ正常に動いています。	수질 검측 장치도 고장이에요… 그래도 산소 공급과 수중 생존 장치는 정상 작동하고 있어요.	Our aquatic detectors aren't working either... But our oxygen supply and underwater life support systems are both working.						0	
+55	刚刚……大家有没有看到一个好像戴着大帽子的女孩……	剛剛……大家有沒有看到一個好像戴著大帽子的女孩……	さっき……大きな帽子をかぶった女の子を見ませんでした？	여러분 방금… 커다란 모자를 쓴 것 같은 여자아이 보셨나요…?	Did... you guys just see a girl wearing a big hat...?						0	
+56	……	……	……	……	...						0	
+57	……	……	……	……	...						0	
+58	我，我不是指莫尔索啦……是一个戴着又高又大帽子的女孩，就好像，好像……	我，我不是指莫爾索啦……是一個戴著又高又大帽子的女孩，就好像，好像……	ム、ムルソーじゃないですよ！高くて大きな帽子をかぶった女の子で、まるで、まるで……	모, 모르소를 말한 게 아니에요… 높고 커다란 모자를 쓴 여자아인데, 그 모습은 마치, 마치…	I—I'm not talking about Meursault... It was a girl with a really tall, big hat... Like... like...						0	
+59	……好冷……好……好无聊……给我…………	……好冷……好……好無聊……給我…………	……寒い……つ……つまらない……おまえら…………	…추워… 너… 너무 심심해… 제발…	...So cold... so... bored... I want...						0	
+60	呜呜……	嗚嗚嗚…	うぅ……	흑흑…	*sob*...						0	
+61	望着突然出现的“鬼魂”一步步靠近，我一把将瑟瑟发抖的琴诺拉入怀中，另一只手则按在了枪上。	望著突然出現的「鬼魂」一步步靠近，我一把將瑟瑟發抖的琴諾拉入懷中，另一手則按在了槍上。	突然近づいてくる「幽霊」を睨みながら、私はチェルノを抱きしめて、もう片方の手で自分の銃を掴んだ。	갑자기 '망령'이 나타나 천천히 다가왔고, 난 벌벌 떨고 있는 체르노를 품에 안으며 가지고 있던 총에 손을 가져갔다.	I watched the suddenly appearing "ghost" move closer and closer. I pulled Cherno in as she trembled, moving my other hand to my gun.						0	
+62	给你什么？	給你什麼？	おまえら、なんだ……？	뭘 원하는 거지?	What do you want?						0	
+63	给我…给我……给我给我给我——	給我…給我……給我給我——	おま、おまえら……おおおまえらあああ——	줘… 줘… 달란 말이야…	I want... I want... I want...						0	
+64	给我玩新星开拓！！！！	給我玩新星開拓！！！！	惑星開拓をやれ！！！！	신성 개척을 달란 말이야!!!!	I want to play Star Master!!!						0	
+65	有鬼哇！！！！！！	有鬼哇！！！！！！	きゃああああ！！！！！！	귀신이다!!!!!!	GHOST!!!						0	
+66	好烂的台词啊！！！！！这一听就知道是安卡希雅故意安插的虚拟投影吧？！	好爛的台詞啊！！！！！這一聽就知道是安卡希雅故意安插的虛擬投影吧？！	どういうセリフだよ！どう見ても私達を驚かせるためにアカシアがわざと設置したホログラフじゃないか。	정말 구린 대사잖아!!!!! 듣자마자 이건 아카시아가 일부러 심어둔 가상 투영체인 걸 알겠어!	What a lame line!!! As soon as I heard it, I knew this "ghost" was actually a projection Acacia put there!						0	
+67	……猫汐尔茉莉安，开火，不必担心浪费子弹。	……貓汐爾茉莉安，開火，不必擔心浪費子彈。	……マーシル、マリアン、撃て。弾を節約する必要はない。	…캣 시에라, 마리안, 사격 개시, 총알은 걱정할 필요 없어.	...Mauxir, Marian. Open fire. Don't worry about wasting bullets.						0	
+68	是！	是！	はい！	네!	Yes, Adjutant!						0	
+69	在强大的火力覆盖之下，我们很快就破坏了投影装置本体，完成了物理驱魔。	在強大的火力覆蓋之下，我們很快就破壞了投影裝置本體，完成了物理驅魔。	激しい攻撃によって、私達は投影装置を破壊して、物理的に幽霊を駆除した。	강력한 화력으로 투영 장치 본체를 재빨리 파괴하여 물리적으로 녀석을 무찌를 수 있었다.	We quickly destroyed the projection with an intense shower of firepower, "exorcising" the ghost.						0	
+70	……给我西兰花，要水煮不加盐的那种。	……給我青花椰菜，要水煮不加鹽的那種。	……ブロッコリーをくれ。塩を入れずに水で茹でたやつ。	…브로콜리 좀 줘, 소금 안 넣고 삶은 걸로.	...I want broccoli... Steamed, no salt...						0	
+71	猫汐尔，茉莉安。	貓汐爾，茉莉安。	マーシル、マリアン。	캣 시에라, 마리안	Mauxir, Marian.						0	
+72	明白！	明白！	了解！	알겠어!	Understood!						0	
+73	给我……	給我……	……くれ……	줘…	I want...						0	
+74	……我也来帮忙。	……我也來幫忙。	……私も手伝います。	… 저도 도울게요.	...Let me help too.						0	
+75	就这样在大家的共同努力下，我们逐一排查完了所有的房间，回到了起点。	就這樣在大家的共同努力下，我們逐一排查完了所有的房間，回到了起點。	こうして、私達は協力しながらすべての部屋を確認して、またスタート地点に戻った。	다 함께 노력한 끝에 모든 방을 다 검사한 뒤, 시작점으로 돌아왔다.	We worked together to look through all the rooms before heading back where we started.						0	
+76	还是没有宝箱的下落。	還是沒有寶箱的下落。	宝物は見かけませんでしたね。	보물 상자의 행방은 결국 찾지 못했네요.	There's still no trace of the treasure chest.						0	
+77	那些投影，只是裁判组设定的干扰项……	那些投影，只是裁判組設定的干擾物……	ホログラフはすべて、審査員達が設置した引っ掛けでしかないようですね……	저 투영체들은 심판이 심어둔 방해꾼인 거 같네요…	The judges just put those projections here to get in our way...						0	
+78	她们现在这会儿估计正躲在监控后面笑话我们。	她們現在這時候大概躲在監視器後面取笑我們。	きっと今頃、監視カメラを見ながら大笑いしているニャン。	아마 지금쯤 CCTV 뒤에 숨어서 우리를 비웃고 있을 거야.	They're probably laughing at us while they hide behind their surveillance system.						0	
+79	也许吧，不过……等等，猫汐尔说监控探头？	也許吧，不過……等等，貓汐爾說監視器？	たぶんな……待てよ。マーシル、今、監視カメラって言ったか？	그럴 수도, 근데… 잠깐, 방금 CCTV라고 했어?	Probably. Wait... what do you mean by "surveillance system," Mauxir?						0	
+80	被猫汐尔的话点醒，我突然想到了一个主意。	被貓汐爾的話點醒，我突然想到了一個主意。	マーシルの言葉で、私は突然閃いた。	캣 시에라의 말에서 힌트를 얻어 아이디어가 한 개 떠올랐다.	What Mauxir said suddenly gave me an idea.						0	
+81	猫汐尔，有办法通过这里的监控装置黑进安卡希雅她们的系统吗？就像当初对付安提一样。	貓汐爾，有辦法透過這裡的監視裝置駭進安卡希雅她們的系統嗎？就像當初對付安提一樣。	マーシル、ここの監視装置からアカシア達のシステムをハックできるか？あの時、アンティの相手をしていたときと同じように。	캣 시에라, 혹시 이곳의 CCTV 장치를 해킹해 아카시아의 시스템에 진입할 수 있을까? 그때 앤티를 상대했던 것처럼 말이야.	Mauxir, is there a way to use the surveillance devices here to hack into the judges' system?						0	
+82	只要能进入她们的系统，那么所有的机关位置也就一目了然了。	只要能進入她們的系統，那麼所有的機關位置也就一目了然了。	向こうのシステムに入れば、仕掛けの位置はすべてわかると思う。	맞아요, 시스템에 들어갈 수만 있으면 장치 위치를 한 번에 파악할 수 있잖아요.	Yeah! If we could get into their system, we'd know where all the mechanisms are right away!						0	
+83	分析员希望我这么做吗……理论上的确可以，不过对面坐镇的可是芙提雅喵。	分析員希望我這麼做嗎……理論上的確可以，不過對面坐鎮的可是芙提雅喵。	分析員がそうしてほしいニャン？理論上いけそうではあるけど……相手はあのフリティアニャンだよ？	정말 내가 그러길 원하는 거지… 이론적으로는 가능한데 상대는 프티야라는 걸 알아야 한다냥.	Do you want me to do it, Adjutant...? It's possible in theory, but Fritia will be there waiting for us, nya.						0	
+84	猫汐尔的耳朵耷拉了下来，她似乎需要一些鼓励。	貓汐爾的耳朵耷拉了下來，她似乎需要一些鼓勵。	そう言いながら、マーシルの耳が垂れてしまった。どうやら、少しばかり勇気づけてやる必要があるようだ。	캣 시에라의 귀가 축 처졌고, 격려가 필요한듯했다.	Mauxir's ears drooped. She clearly needed some encouragement.						0	
+85	等回去后，我就去帮你搞定新书的出版权。	等回去後，我就去幫你搞定新書的出版權。	会社に帰ったら、君が新刊を出版できるように働きかけてあげるよ。	돌아가면 내가 신책 출판권을 해결해 주도록 할게.	I'll help you get publishing rights for your new book after we get back.						0	
+86	听到我这么说，思考片刻后，猫汐尔的耳朵一下子又立了回去。	聽到我這麼說，思考片刻後，貓汐爾的耳朵一下子又立回去了。	しばらくすると、マーシルの耳はまたピンと立ち上がった。	나의 말을 듣고, 그녀는 잠시 생각에 잠기더니 귀를 다시 쫑긋 세웠다.	Upon hearing this, Mauxir's ears perked right back up.						0	
+87	唔喵！那就让我来尝试一下吧。	唔喵！那就讓我來試試吧。	ンニャ！それじゃ、試してみる。	냥! 시도는 한번 해볼게.	Nya! Let me give it a shot then.						0	
+88	与此同时，裁判组房间内……	同時，裁判組房間內……	一方、審査員部屋では……	같은 시각, 심판진 방에서는…	Meanwhile, in the judges' room...						0	
+89	……情况不妙，猫汐尔直接在我们的设备中植入了后门硬件。	……情況不妙，貓汐爾直接在我們的裝置中植入了後門軟體。	……まずいですね。マーシルが私達の設備に直接バックドア入りのハードウェアを入れました。	…상황이 좋지 않아요, 캣 시에라가 저희가 설치한 장비에 바로 하드웨어를 심어버렸어요.	...Things aren't looking good. Mauxir has infiltrated our equipment with backdoor hardware.						0	
+90	嗯，虽然能保证大部分的操控权在我们手上，但是因为对面的先发制人，监控与投影系统控制权已经夺不回来。	嗯，雖然能保證大部分的操控權在我們手上，但是因為對面的先發制人，監視器與投影系統控制權已經奪不回來。	そうだね。設備の大半はまだ私達の指示通りに動いているけど、相手に先手を奪われたから、監視システムとホログラフシステムは向こうのものになっちゃったよ。	음, 대다수의 제어 권한은 우리에게 있지만 상대방이 먼저 손을 써서 CCTV와 투영 시스템 권한은 되찾아오지 못할 거 같아.	Yeah, we can guarantee we still have most of the control permissions, but we can't regain control over the surveillance or projection system.						0	
+91	啊……真是的，猫汐尔这次的进攻怎么突然变得这么猛了……	啊……真是的，貓汐爾這次的進攻怎麼突然變得這麼猛了……	まったく……マーシル、いつからこんなに強気になったんだ……	아… 이럴 수가, 캣 시에라의 공격이 왜 갑자기 이렇게 거세진 거지…	Ah... Seriously. Why is Mauxir being so bold this time...?						0	
+92	……	……	……	……	...						0	
+93	入侵成功，现在整座岛上10％的系统控制权已经在我们手中了喵。	入侵成功，現在整座島上10％的系統控制權已經在我們手中了喵。	ハッキング終了。この島のシステムの10%が、私達のコントロール下に入ったニャン。	침입에 성공했어, 섬 전체 시스템 10%의 제어 권한이 우리한테 넘어왔다냥.	We're in. We now have control of 10% of the island's system, nya.						0	
+94	虽然看似只有一点点，但是用来找到宝箱已经够了。	雖然看似只有一點點，但用來找到寶箱已經夠了。	一部だけだけど、宝物探しには十分だニャン。	아주 조금밖에 안 돼 보이지만 보물 상자 찾기에는 충분하지.	Even though it doesn't sound like much, it will be enough to find the treasure chest.						0	
+b-2											0	
+95	摸摸猫头	摸摸貓頭	マーシルの頭を撫でる	머리 쓰다듬기	Pat Mauxir on the head						0	
+96	猫汐尔，做得好！	貓汐爾，做得好！	よくやったな、マーシル！	캣 시에라, 아주 잘했어!	Great job, Mauxir.						0	
+97	呼噜噜，根据监控显示，宝箱就在7号房间顶上的通风管道中。	呼嚕嚕，根據監視器顯示，寶箱就在7號房間頂上的通風管道中。	ごろごろごろ……監視カメラによると、宝物は7番部屋の上の通風トンネルの中にあるニャン。	그르릉, CCTV에 의하면 보물 상자는 7호 방 천장에 있는 환기통 속에 있어.	Nyaa... According to the surveillance system, the treasure chest is in the vent above Room 7.						0	
+98	居然在那种狭窄的地方……	居然在那種狹窄的地方……	あんな狭い場所の中にあるんですか……	저렇게 좁은 곳에 숨겨뒀다니…	That's going to be a tight fit...						0	
+99	分析员，我个子小，让我去拿吧。	分析員，我個子小，讓我去拿吧。	分析員さん。私、体が小さいので、取ってきますね。	분석가, 내가 키가 작으니까 내가 갈게.	Adjutant, I'm small enough. Let me go in and get it.						0	
+100	不，稳妥起见还是我去喵。	不，穩妥起見還是我去喵。	いや、予想外の事態を避けるためにも、私が行くべきだニャン。	아니, 안전하게 그냥 내가 가겠다냥.	No. We should play it safe. I'll go.						0	
+101	虽然很不想承认，但是论起娇小，还是我更胜一筹。	雖然很不想承認，但論起嬌小，還是我更勝一籌。	認めたくないけど、私のほうが小さいよ。	인정하기 싫지만 내가 너보다 체구가 조금 더 작잖아.	Even though I don't want to admit it, when it comes to being small, I take the cake.						0	
+102	这倒是事实……	這倒是事實……	それは、確かにそうだな……。	맞는 말이긴 해…	Well, that is the truth...						0	
+103	当然，我也不是白去的，报酬是要分析员的十次摸头，可以分期支付。	當然，我也不是白去的，報酬是要分析員的十次摸頭，可以分期支付。	もちろん、報酬として、分析員に頭を10回撫でてもらうからニャン。数回に分けて支払っても大丈夫だニャン。	물론, 공짜로 가는 건 아니야, 보상으로 분석가가 머리 만지기 10회를 해줘야 하고, 할부도 가능해.	Of course, I'm not going there for nothing. My reward will be 10 head pats from the Adjutant. They can be paid in installments.						0	
+104	啊，我就猜到会这样。	啊，我就猜到會這樣。	そう来ると思ったよ。	아, 그럴 줄 알았어.	Ah, I knew there would be a catch.						0	
+105	带着宝箱上浮至游艇后，不出所料，我们终于见到了两位裁判的本尊。	帶著寶箱上浮至遊艇後，不出所料，我們終於見到了兩位裁判的本尊。	宝物と一緒に船に戻ると、そこにはふたりの審査員の姿があった。	보물 상자를 가지고 요트로 올라왔고, 예상했던 대로 두 심판의 모습을 직접 볼 수 있었다.	After swimming back up to the yacht with the treasure chest in tow, we finally saw the two judges in the flesh.						0	
+106	这大概是因为被我们黑掉的监控与投影系统还需要一定时间才能恢复，所以在这期间，她们只能用这种方式来监督比赛了。	這大概是因為被我們駭掉的監視器與投影系統還需要一定時間才能恢復，所以在這段期間，她們只能用這種方式來監督比賽了。	私達がハッキングした監視システムとホログラフシステムの復旧に時間がかかるのだろう。それまでは、こうやって試合をサポートする他ないのかもしれない。	아마 우리가 해킹한 CCTV와 투영 시스템을 복구하는데 시간이 좀 걸려 그 기간에는 이런 방식으로 시합을 감시할 수밖에 없어서일 것이다.	It was probably because the monitoring and projection systems we hacked still needed some time to recover, so this was the only way they could watch us.						0	
+107	恭喜各位完成了挑战，赢得一分。	恭喜各位完成了挑戰，贏得一分。	チャレンジクリアです。1点を差し上げます。	챌린지 성공을 축하드립니다, 1점을 획득하셨습니다.	Congratulations, guys. You earned one point.						0	
+108	机械地宣读完贺词后，卡罗琳冲着我长叹一口气。	機械地宣讀完賀詞後，卡羅琳衝著我長嘆一口氣。	機械的にセリフを読み上げると、カロリンは重いため息を漏らした。	축하 대사를 기계적으로 읽은 뒤, 캐롤린은 깊은 한숨을 내쉬었다.	After mechanically congratulating us, Caroline looked at me and let out a long sigh.						0	
+109	真没想到你们会想出这么一个点子。	真沒想到你們會想這麼一個點子。	よくもあんな方法を思いつきましたね。	정말 그런 방법을 생각해 낼 줄은 전혀 몰랐어요.	I didn't expect you guys to come up with an idea like that.						0	
+110	主要是分析员的主意。	主要是分析員的主意。	分析員のアイデアだニャン。	다 분석가의 아이디어였어.	It was mostly the Adjutant's idea.						0	
+111	本以为安卡希雅会因此生气，但没想到她却率先露出了笑颜。	本以為安卡希雅會因此生氣，但沒想到她卻率先露出了笑顏。	てっきりアカシアに怒られるかと思いきや、彼女のほうが先に笑顔を見せた。	아카시아가 화를 낼 줄 알았지만 먼저 웃음을 보일 줄은 전혀 몰랐다.	I thought Acacia would be mad, but surprisingly, she was the first to reveal a smile.						0	
+112	很精彩的战术与操作，我们输得心服口服。	很精彩的戰術與操作，我們輸得心服口服。	素晴らしい戦術だったよ。納得のいく敗北だ。	정말 훌륭한 전술과 멋진 처리 방식이었어, 패배를 깔끔히 인정하지.	It was a fantastic tactic, and you carried it out beautifully. We lost fair and square.						0	
+113	但是，我们弄坏了控制系统……	但是，我們弄壞了控制系統……	でも、コントロールシステムが壊れてしまいましたよね……	하지만 저희가 제어 시스템을 고장…	But we broke the control system...						0	
+114	那种事情无所谓吧，巧妙地利用规则博弈，也是竞技乐趣的一环。	那種事情無所謂吧，巧妙地利用規則博弈，也是競技樂趣的一環。	そんなの平気だよ。ルールを利用して勝利を勝ち取るのも、競技の楽しいところだから。	그건 상관없어, 교묘하게 게임 룰을 이용하는 것도 경쟁의 재미 중 하나잖아.	That doesn't matter. Cleverly utilizing the rules to complete the challenge is part of the fun.						0	
+115	在追求结果的同时，我也享受着每一个过程。	在追求結果的同時，我也享受著每一個過程。	結果だけでなく、過程ももちろん大事だからね。	결과를 따르면서도 동시에 과정을 즐기기도 하거든.	I was enjoying the process the whole time too.						0	
+116	当然最关键的还是……	當然最關鍵的還是……	それに……	물론 가장 중요한 건 그래도…	Of course, the most important thing is...						0	
+117	修复系统的工作并不在我身上。	修復系統的工作並不在我身上。	復旧作業は私の担当じゃないし。	시스템 복구 업무는 내가 하는 게 아니거든.	Repairing the system isn't my job.						0	
+118	啊啾！有谁在念叨小老师吗……	啊啾！有人在碎念小老師嗎……	くしゅん！あれ……誰かフリティア先生の話でもしてるのかな？	에취! 누가 내 생각을 하고 있나 보네…	Achoo! Is someone talking about me...?						0	
+119	看样子她们也出现了失误，第二轮我们有望将比分追平了。	看來她們也出現了失誤，第二輪我們有望將比數追平了。	向こうもミスがあったようですね。次の試合で同点に追いつけそうです。	저 사람들도 실수를 했나 보군요. 두 번째 라운드에서 점수를 따라갈 수 있겠어요.	It seems like they made a mistake too. We might be able to tie in the second round.						0	
+120	甚至还有可能反超她们哦。	甚至還有可能反超她們哦。	逆転だってありえますね。	잘하면 역전할 수도 있겠어.	We might even be able to get ahead of them.						0	
+121	对了，既然她们那边结束了，我们差不多也该重新抽签了吧？	對了，既然她們那邊結束了，我們差不多也該重新抽籤了吧？	そういえば、私達もそろそろくじを引きましょうか？	맞다, 저기도 곧 끝나가는데, 우리도 이제 뽑기를 다시 해야 하지 않아?	Ah, it's about time for us to draw another card now that they're finished, right?						0	
+122	小凯茜娅，这一轮要派谁上场呢？	小凱茜婭，這一輪要派誰上場呢？	カーシアちゃん、今回は誰をチャレンジに出すのですか？	캐시아, 이번에는 누구 차례야?	Katya, who should we send out this round?						0	
+123	……	……	……	……	...						0	
+124	“没关系，没关系，这次没上去就没上去，你已经很努力了，爸爸妈妈我们都看在眼里呢……”	「沒關係，沒關係，這次沒上去就沒上去，你已經很努力了，爸爸媽媽我們都看在眼裡呢……」	「大丈夫、できなくても平気。努力してたことはみんな見ているから……」	"괜찮아, 괜찮아, 못 올라갔으면 못 올라간 거지, 충분히 노력했잖아, 아빠, 엄마는 다 알고 있어…"	"It's okay. It's alright if you don't make it this time. You worked so hard. We can all see that..."						0	
+125	栏杆边，仰望着高台顶端的凯茜娅并没听见恩雅的呼唤。	欄桿邊，仰望著高台頂端的凱茜婭並沒聽見恩雅的呼喚。	カーシアは手すりの近くで高台を眺めていた。エンヤの声には気付いていないようだ。	난간 옆에서 높은 곳을 바라보고 있던 캐시아는 엔야의 부름을 듣지 못했다.	Standing by the railing and gazing up at the top of the platform, Katya didn't hear a word of what Enya had said.						0	
+126	小凯茜娅？	小凱茜婭？	カーシアちゃん？	캐시아?	Katya?						0	
+127	嗯？抱歉啊，刚刚风声有点大，我没有听清。	嗯？抱歉啊，剛剛風聲有點大，我沒有聽清楚。	ん？ああ、ごめんね。風が強くて、よく聞こえなかったわ。	음? 미안, 바람 소리가 커서 뭐라고 하는지 잘 못 들었어.	Huh? Sorry, the wind was kind of loud just now. I didn't hear you.						0	
+128	呵呵呵，你不要总是站得离大家那么远嘛，我是在问一会要派谁出场呢。	呵呵呵，你不要總是站得離大家那麼遠嘛，我是在問等一下要派誰出場呢。	ふふふ、いつもみんなから少し遠い場所にいますからね。次は誰が出るのかなって聞いたんですよ。	하하하, 우리랑 왜 그렇게 떨어져서 있어, 방금은 다음 출전은 누가 하는지 물어봤었어.	Heheh, you don't need to stand too far away from us. I was asking who we should send out next.						0	
+129	如果恩雅不介意的话，就先上吧，我还想再保留一些精力。	如果恩雅不介意的話，就先上吧，我還想再保留一些精力。	エンヤさえよければ、今回もあなたにお願いしたいわ。私は、もう少し体力を温存したくてね。	만약 엔야만 괜찮다면 엔야가 출전해 줘, 난 체력을 조금 남겨두고 싶어.	If you don't mind, you can go, Enya. I still want to save my energy.						0	
+130	保留精力……我懂了，你是想要在最后杀她们个出其不意？	保留精力……我懂了，你是想要在最後殺她們個出其不意？	体力温存……最後で逆転するつもりなんですか？	체력을 남긴다… 알겠어, 마지막에 저들의 허를 찌를 생각이구나?	Save your energy...? I get it. You want to catch them off guard at the last second?						0	
+131	可以这么理解吧，总之下一场，就先拜托恩雅了。	可以這麼理解吧，總之下一場，就先拜託恩雅了。	そう考えてもらって構わないわ。とにかく次はお願いね。	그렇게 생각해도 되고, 아무튼 다음 라운드 좀 부탁할게, 엔야.	I guess you could say that. Anyway, you can handle the next round, Enya.						0	
+132	放心好了！接下来，就让你们见识一下最可靠的压轴选手吧~	放心好了！接下來，就讓你們來看看最可靠的壓軸選手吧~	任せてください！最も頼りになる仲間とはなんなのかを、見せてあげますね～	걱정하지 마! 믿음직한 엔딩 선수가 뭔지 보여주도록 할게~	You can count on me! I'll show you guys what the most dependable teammate in this competition looks like~						0	

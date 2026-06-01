@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	带着芬妮来到一家评分很高的甜品店。	帶著芬妮來到一家評分很高​​的甜點店。	ファニーと一緒に人気のスイーツ店にやってきた。	페니를 데리고 평점이 높은 디저트 가게에 왔다.	You took Fenny to a top-rated dessert shop.						0	
+page0.2	分析员怎么约我来这里？	分析員怎麼約我來這裡？	どうしてあたしとここに？	분석가가 어떻게 날 여기로 초대했어?	Why did you bring me here, Adjutant?						0	
+page0.3	你不是为了保持身材，已经很久没有吃过甜食了吗？	你不是為了保持身材，已經很久沒有吃過甜食了嗎？	スタイル維持のために、もうずいぶん長い間甘い物を控えてるんだってな。	몸매 유지하려고 단 거 안 먹은 지 오래됐잖아?	I know you've been skipping desserts to stay in shape.						0	
+page0.4	感官模拟能令你品尝这家店的甜食，又不用担心发胖。	感官模擬能令你品嚐這家店的甜食，又不用擔心變胖。	ここはただのシミュレーションだから、甘いものが食べれるし、体重のことも気にしなくて済むと思ってね。	감각 시뮬레이션은 살찌는 걱정 없이 이 가게의 단 음식을 맛볼 수 있어.	This community's sensory simulation allows you to enjoy the desserts without worrying about calories.						0	
+page0.5	哈，这也太棒了吧！那我可就不客气啦~	哈，這也太棒了吧！那我可就不客氣~	へえ、いいじゃない！じゃあ、遠慮なくいただくわ！	하, 이거 너무 좋은 거 아니야? 그럼 사양하지 않을게~	Ha, that's brilliant! Well then, I'm strapping on the feed bag~						0	
+page0.6	先尝一块你最喜欢的草莓蛋糕？	先嚐一塊你最喜歡的草莓蛋糕？	まずは君の大好物のイチゴケーキからにしたらどうだ？	네가 제일 좋아하는 딸기 케이크 한 조각 먼저 먹어볼래?	Here, try a piece of your favorite strawberry cake first.						0	
+page0.7	唔……酸酸的草莓，配合蓬松微甜的淡奶油，口感和味道都恰到好处。	嗯……酸酸的草莓，配合蓬鬆微甜的鮮奶油，口感和味道都恰到好處。	ん～。甘酸っぱいイチゴとふわふわの生クリームの組み合わせ。口当たりも味も最高ね！	음… 새콤달콤한 딸기에 푹신하고 약간 달콤한 휘핑크림까지 곁들이면 식감과 맛이 적당해.	Mmm... the tartness of the strawberries blends perfectly with the light, sweet cream. It's so good.						0	
+page0.8	难得可以不考虑卡路里，要不要其他种类的甜品？	難得可以不考慮卡路里，要不要嚐一下其他種類的甜點？	せっかくだから、他のも試してみないか？	모처럼 칼로리 고민 없이 드실 수 있는데 다른 종류의 디저트는 어때?	With calories out of the equation, do you want to try some other desserts?						0	
+page0.9	不如分析员来帮我选吧，你猜猜我会喜欢哪种口味？	不如分析員來幫我選吧，你猜我會喜歡哪種口味？	それじゃ、分析員に選んでもらおうかしら。あたしが好きな味、当ててみてちょうだい！	아니면 분석가가 골라줘 내가 어떤 맛을 좋아할지 맞춰봐?	Why don't you pick for me, Adjutant? Guess what flavor I'd like!						0	
+choice01	香草柚子慕斯	香草柚子慕斯	バニラとゆずのムース	바닐라 유자무스.	Vanilla grapefruit mousse						0	
+page1.1	微苦的柚子和香草配合的丝滑慕斯，感觉芬妮会喜欢。	微苦的柚子和香草配合的絲滑慕斯，感覺芬妮會喜歡。	ほろ苦いゆずとバニラが組み合わせた、滑らかな口当たりのムース。ファニーが喜びそうだ。	약간 쓴 유자와 바닐라가 어우러진 실키 무스라 페니가 좋아할 것 같아.	This velvety mousse has a perfect blend of the slight bitterness of grapefruit and the sweet taste of vanilla. I think you'll like it.						0	
+page1.2	嗯！我很喜欢。	嗯！我很喜歡。	うん！気に入ったわ。	응! 마음에 들어요.	Mmm! I love it.						0	
+page1.3	哎？你这是做什么？	哎？你這是做什麼？	え？何を……	뭐 하는 거야?	Hmm? What are you doing?						0	
+page1.4	给分析员也尝尝。	給分析員也嚐嚐。	分析員にも味わってほしいのよ。	분석가한테도 맛 좀 봐.	Just sharing some with you.						0	
+page1.5	还有，从分析员唇上品尝的香草柚子慕斯，我更喜欢！	還有，從分析員唇上品嚐的香草柚子慕斯，我更喜歡！	それに、分析員の唇越しにバニラとゆずのムースを味わう方が好きだから！	그리고 분석가 입술에서 맛본 바닐라 유자무스가 더 좋아!	And this vanilla grapefruit mousse tasted even better off your lips...						0	
+choice02	奶油橙子蛋糕	奶油橙色蛋糕	オレンジのショートケーキ	크림 오렌지 케이크.	Cream orange cake						0	
+page2.1	暖黄的橙子和奶油混合后，颜色和芬妮一样耀眼。	暖黃的橘子和奶油混合後，顏色和芬妮一樣耀眼。	明るい色のオレンジと真っ白なクリームは、ファニーのように輝いてみえる。	웜 옐로우의 오렌지와 크림을 섞으면 페니와 같은 색상으로 눈부시게 빛난다.	The warm yellow of the oranges blends perfectly with cream — it's as bright and vibrant as you are, Fenny.						0	
+page2.2	嗯！我很喜欢，啊呜！	嗯！我很喜歡，啊嗚！	うん！気に入ったわ。はむはむ……	응! 나 너무 좋아, 아우!	Oh! I like it! Yum-yum!						0	
+page2.3	哎？	哎？	あら……	어?	Uh-oh...						0	
+page2.4	怎么了？	怎麼了？	どうかしたのか？	왜 그래?	What's wrong?						0	
+page2.5	蛋糕，掉在身上了。	蛋糕，掉在身上了。	ケーキが服に着いちゃった。	케이크가 몸에 떨어졌어.	I got some cake on me.						0	
+page2.6	啊，那我帮你擦擦。	啊，那我幫你擦擦。	ああ、拭いてあげるよ。	아, 그럼 닦아줄게,	It's okay, I got this.						0	
+page2.7	……这里……嗯……	……這裡……嗯……	……そこは……んん……	… 여기. 음…	Just there... Mm...						0	
+page2.8	还……还没好吗？	還……還沒好嗎？	ま……まだなの？	아직… 아직인가?	H—Hasn't it come off...?						0	

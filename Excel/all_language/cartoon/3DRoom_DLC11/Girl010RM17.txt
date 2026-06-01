@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	肴，你上午就躺这了吧。	肴，你早上就躺這了吧。	肴。今日は午前中ずっとここで横になってただろ。	야오, 네가 오전부터 여기 누워 있었지.	Yao, you've been lying here all morning, haven't you?						0	
+page1.2	你错了，分析员。	你錯了，分析員。	違うよ、分析員。	잘못 봤어, 분석가.	You're mistaken, Adjutant.						0	
+page1.3	难道我上午看错了吗……？	難道我早上看錯了嗎……？	え。私の見間違いだったのか……？	내가 오전에 잘못 본 거야…?	Really? That wasn't you this morning?						0	
+page1.4	我昨天下午就躺这了。	我昨天下午就躺這了。	昨日の午後からここにいたんだ。	나 어제 오후부터 여기 누워 있었어.	I mean, I've been lying here since yesterday afternoon.						0	
+page1.5	？？？？	？？？？	？？	????	...!?						0	
+page1.6	所以你是在这里躺了一晚？没有回房间吗？	所以你在這裡躺了一晚？沒有回房間嗎？	つまり君は部屋に戻らずに、ここで一晩過ごしたのか？	그러니까 밤새 여기 있었던 거야? 방으로 안 돌아갔어?	So you spent the night here? You didn't even go back to your room?						0	
+page1.7	本来想回，但是太困了懒得回去。	本來想回去，但是太睏了懶得回去。	戻ろうとしたけどさ。眠すぎてやめたんだ。	돌아가려고 했는데 너무 피곤해서 그냥 안 가기로 했어.	I meant to, but I was too tired to bother moving.						0	
+page1.8	你不会打算把这几天假期就这样躺过去吧……不想趁着放假做些什么吗？	你不會打算把這幾天假期就這樣躺過去吧……不想趁著放假做些什麼嗎？	この数日の休みを全部寝て過ごすつもりじゃないよな……休み中に何かやりたいことはないのか？	설마 이번 휴가를 이렇게 누워만 있을 생각은 아니지… 뭐라도 할 생각 없어?	You're not planning to spend your entire vacation lying around here, are you? Don't you want to do something with your time off?						0	
+page1.9	完全不想。	完全不想。	ぜんぜん。	전혀 없어.	Not in the slightest.						0	
+page1.10	放假不就该这样随心所欲吗，要是放假还成天想着什么都没做浪费了时间，那和没放假有什么区别。	放假不就該這樣隨心所欲嗎，要是放假還成天想著什麼都沒做浪費了時間，那和沒放假有什麼差別。	休みってこういうものでしょ？休みの日になにもしないなんて、時間を無駄にしちゃったな～なんて考えてたら、それは休んでないのと一緒だよ。	휴가 때는 이렇게 마음대로 누워 있어야지. 휴가인데 계속 뭘 안 해서 시간 낭비했다고 생각하면, 그건 그냥 일하는 거나 다름없잖아.	Isn't the whole point of a vacation to just relax and do nothing? If I spent it worrying about being productive, how is that any different from work?						0	
+page1.11	我好像找不到反驳的理由……	我好像找不到反駁的理由……	……くっ、悔しいくらい正論だ。	반박할 이유를 못 찾겠다…	Can't really argue with that...						0	
+page1.12	当然了，偶尔躺久了，我也会生出想做什么的冲动。	當然了，偶爾躺久了，我也會生出想做什麼的衝動。	もちろん、ずっと寝ていたら、何かやろうかなという衝動が起こることはあるよ。	물론 가끔 너무 오래 누워 있으면 뭔가 하고 싶어지긴 해.	Of course, once in a while, I do get the urge to actually do something.						0	
+page1.13	好在我比较克制，每次有这种冲动都能压制下来。	還好我比較克制，每次有這種衝動都能壓制。	ただそこはまぁ、私はストイックだから。そういう衝動をコントロールできちゃうんだよね。	다행히도 난 자제력이 좋아서 그런 충동이 생길 때마다 잘 억누르거든.	But thankfully, I have enough willpower to conquer those urges every time they happen.						0	
+page1.14	我觉得你可能对“克制”可能有某种误解……	我覺得你可能對「克制」可能有某種誤解……	それは「ストイック」とは言えないような……	넌 '자제력'에 대해 뭔가 오해가 있는 것 같아…	I don't think people usually call that "willpower"...						0	
+page1.15	总之，借着这份克制，我其实是积攒了不少正向积极的能量的，只是这些能量必须节省下来用在关键时候的。	總之，藉著這份克制，我其實是積攢了不少正向積極的能量的，只是這些能量必須節省下來用在關鍵時候的。	とにかく、私はストイックだからこそ、前向きなエネルギーをちゃんと蓄えてるんだよ。そういうエネルギーは、大事なときのために取っておいたほうがいいと思ったんだ。	어쨌든, 이 '자제력' 덕분에 난 사실 꽤 많은 긍정적인 에너지를 모으고 있어. 다만 이 에너지를 중요한 순간을 위해 아껴두는 거지.	Anyway, thanks to my willpower, I've stored up a lot of positive energy. But I'm saving it for when it really counts.						0	
+page1.16	更关键的时候是指……	更關鍵的時候是指……	大事なとき……というと？	중요한 순간이라니…	And what exactly qualifies as "really counts"...?						0	
+page1.17	我很难想象肴会积极主动的去做什么事情。	我很難想像肴會積極主動的去做什麼事情。	正直、肴が自分からなにかをやろうとするのはあまり想像できない。	솔직히 야오가 적극적으로 뭘 하는 모습이 상상이 안 가는데.	I struggled to picture Yao being proactive about anything.						0	
+page1.18	比如去领工资就必须用上这份积极向上的能量！还有……做那种事的时候？	例如去領薪水就必須用上這份正向的能量！還有……做那種事的時候？	そうだね。例えば、給料をもらえる日とか！それから……「ああいうこと」をするとき、かな？	예를 들어 월급 받으러 갈 때 이 긍정적인 에너지를 무조건 써야지! 그리고… 그런 일 할 때?	Like going to collect my paycheck, for example! That definitely deserves some of that energy! And maybe for... a certain exciting activity with you.						0	
+page1.19	……？？？	……？？？	……？？？	…???	...!?						0	

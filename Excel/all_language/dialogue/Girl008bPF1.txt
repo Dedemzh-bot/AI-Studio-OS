@@ -1,0 +1,197 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	小狮子温情提示：	小獅子溫情提示：	ライオンちゃんからのアドバイス：	리틀 라이언의 알림 사항:	Friendly Reminder From the Little Lioness:						0	
+2	为了获得更好的体验，游玩该个人故事前，推荐分析员优先观看《空都演绎》剧情。	為了獲得更好的體驗，遊玩該個人故事前，推薦分析員優先觀看《空都演繹》劇情。	シナリオをより楽しめるように、このエピソードの前に、まずストーリー『幕開け、蒼穹にて』を読むことをお勧めします。	개인 스토리를 보기 전에 더 나은 체험을 하고 싶으면 <부양 도시의 추리극>을 먼저 보고 와~!	For an optimal experience, you are encouraged to complete the "Suspense in Skytopia" main story before playing this Personal File.						0	
+3	果然，还是无法释怀。	果然，還是無法釋懷。	やはり、引きずっている。	역시나, 마음을 놓을 수는 없었다.	Heh. I just couldn't let go of the past.						0	
+4	纵使精心打扮，衣着华装也无法掩盖自己作为落败者的事实。	縱使精心打扮，衣著華裝也無法掩飾自己身為落敗者的事實。	どれだけ綺麗に着飾っても、敗者は敗者でしかない。	아무리 정성껏 치장하고 화려한 옷을 입어도 자신이 패배자라는 사실은 숨길 수 없었다.	Behind the facade of triumph I tried to maintain with the careful makeover was the stark truth of my defeat.						0	
+5	……	……	……	…	...						0	
+6	最可笑的是……自以为是地涂上了象征着“成长”的口红，但到头来也只是……	最可笑的是……自以為是地塗上了象徵著「成長」的口紅，但到頭來也只是……	しかも滑稽なことに……良かれと思って「成長」を意味する口紅を塗っても、結局は……	가장 웃긴 것은… 스스로 '성장'을 상징한다고 여겼던 립스틱을 발랐지만, 결국에는 그저…	The irony was... I thought the lipstick would make me look mature, but all it did was...						0	
+7	也只是，笨拙地画着从容自信的假面罢了。	也只是，笨拙地畫著從容自信的假面罷了。	結局は、「自信」と言う拙い仮面を描いて、被っているだけだ。	다만 그녀는 서투르게 여유롭고 자신감 있는 가면을 쓰고 있었을 뿐이다.	Put on a mask of easy assurance to hide my insecurities.						0	
+8	而内心的空白，究竟该由何种色彩来填充……	而內心的空白，究竟該由何種色彩來填滿……	心に開いた穴を埋めるには、どんな色を使えばいいのだろうか……	내면의 빈틈은 어떤 색으로 채워야 할지…	What could possibly fill this void inside...?						0	
+9	欢迎回家，多亏了各位，新恒提罗的危机总算是告一段落了。	歡迎回家，多虧了各位，新恆提羅的危機總算是告一段落了。	おかえりなさい。皆さんのおかげで、ニューガントラの危機を乗り越えることが出来ました。	돌아온 걸 환영해요~ 여러분 덕분에 뉴헨틸로의 위기가 한숨을 돌렸어요.	Welcome home, everyone. Thanks to your efforts, the crisis in New Hentiro is finally behind us.						0	
+10	托分析员的福，我们都平安无事。	托分析員的福，我們都平安無事。	分析員のおかげで、全員無事でした。	분석가님 덕분에 저희 모두 무사할 수 있었어요.	It's all thanks to the Adjutant that we're safe.						0	
+11	嗯，再过两天等他回来了，可要好好办个庆功宴~	嗯，再過兩天等他回來了，可要好好辦個慶功宴~	あいつが戻ったら、盛大な打ち上げをやらないとね～	맞아. 이틀 후에 분석가가 돌아오면 성대하게 축하 파티라도 열어야겠어~	Yeah, and we should definitely throw him a big welcome-back party~! He's coming back in a couple of days.						0	
+12	情报官嘴角挂上了一抹无奈，她似乎有什么难言之隐。	情報官嘴角掛上了一抹無奈，她似乎有什麼難言之隱。	しかし、カロリンは浮かない顔をしている。何やら事情がありそうだ。	정보관의 입가에는 숨길 게 있는 듯 무기력한 기색이 역력했다.	The intelligence officer's lips twitched into a wry smile, hinting at some unspoken concerns.						0	
+13	分析员的话……可能还要再晚几天才能回来。	分析員的話……可能還要再晚幾天才能回來。	分析員が戻ってくるのは……もう少しあとになります。	분석가님 말에 따르면… 다시 돌아오는 데 며칠이 더 걸릴 수도 있어요.	About the Adjutant... he might be delayed a bit longer...						0	
+14	……	……	……	…	...						0	
+15	再晚几天？	再晚幾天？	もう少しあと……ですか？	며칠 후요?	Delayed?						0	
+16	卡罗琳，这是什么意思……	卡羅琳，這是什麼意思……	それ、どういう意味よ？	캐롤린, 그게 무슨 뜻이야?	What do you mean, Caroline?						0	
+17	实际上，他向公司提交了一份新的作战计划，而这次行动的时间暂定为……	實際上，他向公司提交了一份新的作戰計劃，而這次行動的時間暫定為……	実は、分析員から、新しい作戦計画書が提出されました。その作戦の遂行には……	실제로 그는 회사에 새로운 작전 계획을 제출했고, 그리고 이번 작전의 시기는 잠정적으로…	Actually, he has proposed a new operation plan to Yggdrasil, and the mission is expected to last...						0	
+18	至少两周。	至少兩週。	少なくとも二週間かかります。	적어도 2주 후에요.	At least two weeks.						0	
+19	什么？！	什麼？！	なんですって……！？	네?!	What!?						0	
+20	他又要将自己置身于危险当中了吗？	他又要將自己置身於危險當中了嗎？	また危険なことに首を突っ込む気？	설마 또다시 자신을 위험에 빠뜨리려는 건가?	Is he putting himself in danger again?						0	
+21	（明明我还能战斗，还能继续站在他身边……但为什么……每次都这样。）	（明明我還能戰鬥，還能繼續站在他身邊……但為什麼……每次都這樣。）	（あたしはまだ戦えるのに、まだあいつの隣に立っていられるのに……どうして、いつもこうなるのよ。）	(분명히 나도 싸울 수 있고, 그의 곁에 계속 있을 수 있는데… 왜 매번 이러는 거지)	(He knows I can still fight... he knows I can still stand by his side... Why does it always have to end up like this?)						0	
+22	伴随着逐渐颤抖的语调，芬妮紧握的拳头发出悲鸣，而回应她的，只有一声叹息。	伴隨著逐漸顫抖的語調，芬妮緊握的拳頭發出悲鳴，而回應她的，只有一聲嘆息。	ファニーの握りしめた拳が震えた。けれど、彼女の問いかけに戻って来たのは、カロリンの溜息だけだった。	점차 떨리는 어조와 함께 페니는 주먹을 꽉 쥐었고 한숨을 크게 내쉬었다.	Fenny's voice quivered, her fists clenched as if screaming in anguish, met only by a deep sigh.						0	
+23	……很抱歉，现在的我也只能这么回答。	……很抱歉，現在的我也只能這麼回答。	……申し訳ございません。私にも、これくらいしかわかりません。	… 죄송해요. 제가 지금 드릴 수 있는 답변은 이것뿐이에요.	...I'm sorry, that's all I can tell you right now.						0	
+24	保持微笑，以最积极的态度迎接你们回来，就是他向我下达的唯一指令……	保持微笑，以最積極的態度迎接你們回來，就是他向我下達的唯一指令……	「いつものように、笑顔で帰ってくるみんなを出迎えてくれ」。分析員からの指示は、これだけでしたから……	웃으면서 긍정적인 태도로 여러분을 맞이하는 것이 분석가님이 제게 내린 유일한 명령이에요.	Keeping a smile and welcoming you back with positivity — this is the only order he gave me...						0	
+25	卡罗琳撇过头去，腰间响起了急促的滴滴声。	卡羅琳撇過頭去，腰間響起了急促的滴滴聲。	カロリンはファニーから目を逸らした。ちょうどその時、カロリンの腰のあたりから着信音が聞こえた。	캐롤린이 고개를 돌리자 허리쪽에서 급한 알림 소리가 들려왔다.	Caroline turned her head away, her comms terminal beeping urgently.						0	
+26	通讯终端响了，卡罗琳。	通訊終端響了，卡羅琳。	端末が鳴っているぞ。カロリン。	단말기가 울리고 있어, 캐롤린.	Caroline, you're getting a call.						0	
+27	哎？是分析员！	哎？是分析員！	え？分析員からです！	아? 분석가님이에요!	Ah, it's the Adjutant!						0	
+28	真巧，大家都在吗？	真巧，大家都在嗎？	ああ。全員揃ってるのか？ちょうどいい。	우연인가? 모두들 한곳에 있는 거야?	Is everyone there? Perfect timing.						0	
+29	看到你们平安回来，我暂时也能松一口气了。	看到你們平安回來，我暫時也能鬆一口氣了。	みんな無事に戻れたみたいで、安心したよ。	다들 무사히 돌아온 것을 보니 나도 숨을 돌릴 수 있겠군.	Seeing you all safe lets me breathe easier for a moment at least.						0	
+30	暂时松一口气？那是什么意思……你不是还在新恒提罗吗？	暫時鬆一口氣？那是什麼意思……你不是還在新恆提羅嗎？	安心したって何よ……あんた、まだニューガントラにいるんでしょ？	숨을 돌린다니? 그게 무슨 뜻이야… 너 혼자 아직까지 뉴헨틸로에 있는 거 아니야?	For a moment? What do you mean...? Aren't you still in New Hentiro?						0	
+31	嗯，但是我想这件事应该不会结束得那么快……总之，让你们先回来的理由有二。	嗯，但是我想這件事應該不會結束得那麼快……總之，讓你們先回來的理由有二。	その通り。今はまだ戻れそうにないんだ。とにかく、みんなを先に帰らせた理由はふたつある。	응, 하지만 일이 그렇게 빨리 끝날 것 같진 않아… 어쨌든 모두를 먼저 돌려보낸 건 두 가지 이유 때문이야.	Yeah, but I don't see this situation resolving quickly... Anyway, there are two reasons why I had you return without me.						0	
+32	一是和真神者接触后，不确定的因素太多了，我需要大家先回公司接受最顶尖的检查和调养。	一是和真神者接觸後，不確定的因素太多了，我需要大家先回公司接受最頂尖的檢查和調養。	ひとつめは、至上者との接触がみんなに与える影響が未知数だということ。だから、早急に会社へ戻って、精密検査を受けて欲しかったんだ。	첫째, 조물주와 접촉한 후에 불확실한 요소가 너무 많았어. 모두들 먼저 회사로 돌아가서 검진과 휴식을 취할 필요가 있다고 생각했지	First, engaging the Demiurges introduced too many unknowns, so I need everyone back at Yggdrasil for advanced medical evaluations and recuperation.						0	
+33	……	……	……	…	...						0	
+34	“等等，明明是你的安全更重要吧？！”女孩本想出声打断，但还是努力抑制住了。	“等等，明明是你的安全更重要吧？！”女孩本想出聲打斷，但還是努力抑制住了。	「そんなことより、あんたの安全の方が大事でしょ！？」と叫びかけて、ファニーはぐっと堪えた。	페니는 '잠깐! 네 안전이 더 중요한 거 아니야?!'라고 말을 하려다 꾹 참았다.	"Wait, shouldn't your safety be the priority?" She thought to interrupt but restrained herself.						0	
+35	因为只有弄清楚了才能知道之前发生的那一切，你正害怕着的那一切……到底是不是真的。	因為只有弄清楚了才能知道之前發生的那一切，你正害怕的那一切……到底是不是真的。	それを確かめないことには、何も始まらない。ここでの出来事……お前の怯えていることが、本当なのかどうか。	왜냐하면 모든 것을 명확히 알아야만 두려워했던 모든 것들이 정말로 사실인지 알 수 있었기 때문이다.	Only by confronting what has happened and facing your deepest fears can you discover the truth.						0	
+36	（她曾经这么说过，那个总是跑在我前面的里芙……曾经这么说过。）	（她曾經這麼說過，那個總是跑在我前面的里芙……曾經這麼說過。）	(いつもあたしの前を走っているリフが……彼女が、そう言ったんだっけ。)	(그녀가 예전에 그렇게 말했었지. 항상 내 앞을 달리던 리브가… 그렇게 말했었어)	(Lyfe once said that... the girl who's always ahead of me... said that.)						0	
+37	（没错，我已经变强了……我应该对自己……对他更有信心一些。）	（沒錯，我已經變強了……我應該對自己……對他更有信心。）	(そうよ、あたしは強くなったんだから……もっと自分を……あいつのことを、信じてあげなきゃ。)	(그래, 지금의 난 이미 더 강해졌어… 나 자신과… 그리고 그를 더 믿어야 하는 자신이 있어야 해)	(Right, I've grown stronger... I should have more faith in myself... and in him.)						0	
+38	（所以现在……一定要沉住气。）	（所以現在……一定要沉住氣。）	（だから……今は落ち着かないと。）	(그러니까… 지금은 일단 진정하자)	(So... I must keep my cool right now.)						0	
+39	亲眼见识过那样的光景后，我就下定决心，绝对不会让你们遭受同样的痛苦。	親眼見識過那樣的光景後，我就下定決心，絕對不會讓你們遭受同樣的痛苦。	あの光景を見た時、みんなをあんな目には遭わせられないって、心に誓ったんだ。	직접 그 광경을 목격하고 나서 결정했어. 너희에게 그런 고통은 겪지 않게 할 거야.	Having witnessed such horrors, I am resolved never to let that happen to any of you.						0	
+40	……女神率领子嗣，来到愚者的殿堂，与他们理论究竟谁该受到万民的顶礼膜拜。	……女神率領子嗣，來到愚者的殿堂，與他們理論究竟誰該受到萬民的頂禮膜拜。	……女神がその子らを率いて、愚者の神殿を訪れた。どちらが万民の礼賛に相応しいか、議論するためであった。	… 여신은 자식을 거느리고, 어리석은 자의 전당에 와서 과연 누가 만인의 경배를 받아야 하는지 그들에게 따졌어요.	...The goddess led Her disciples to the hall of the fools, arguing with them about who should be worshipped by all.						0	
+41	愚者们武断地认为女神来意不善……他们的领袖率先将长矛掷向女神，以示宣战。	愚者武斷地認為女神來意不善……他們的領袖率先將長矛擲向女神，以示宣戰。	なのに、女神は戦うために来たのだと、愚者どもは勝手に決めつけた。愚者どもの長は女神に向けて槍を投げ、宣戦布告をした。	우둔한 자들은 여신이 나쁜 마음을 품고 왔다고 여겼고… 그들의 수령은 먼저 여신에게 창을 던져 선전포고했죠.	The leader of the fools, assuming Her intentions foul, threw the first spear in the declaration of war.						0	
+42	用长矛捅刺，用烈火焚烧……愚者以愚行消磨着女神的耐心……	用長矛捅刺，用烈火焚燒……愚者以愚行消磨著女神的耐心……	女神は槍に刺され、火に焼かれた……かくして、愚者どもの愚行は女神の怒りを買った……	창으로 찌르고, 불로 태우고… 어리석은 자들은 어리석은 행동으로 여신의 인내심을 앗아갔어요…	With spears, fire, and the fools' sheer folly, they wore thin the goddess' patience...						0	
+43	然后，招来了饱含女神愠怒的……我！	然後，招來了飽含女神慍怒的……我！	そして、私が来た。女神の怒りを代弁する、この私が！	그러다가 여신의 분노에 사로잡혀…	Thus, she summoned me, imbued with... Her wrath!						0	
+44	我是“真神者”，我是……初诞的沃坦！	我是“真神者”，我是…初誕的沃坦！	私こそ「至上者」……降誕のウォーデンなり！	나는 '조물주'다. 나는… 초생의 보탄이다!	I am a Demiurge. I am... Nascent Woden!						0	
+45	回想起当初的画面，众人都倒吸了口凉气。	回想起當初的畫面，眾人都倒吸了口涼氣。	当時の光景を思い起こすだけで、誰もがその恐ろしさに息を呑んだ。	그때의 장면을 떠올리자 모두들 차가운 냉기를 들이마시며 숨을 죽였다.	Recalling that scene, everyone gave a gasp of horror.						0	
+46	二是零区那边现在战力空缺，我需要有你们回来坐镇。董事会……不，罗赞的爪牙一直都在盯着我们的弱处。	二是零區那邊現在戰力空缺，我需要有你們回來坐鎮。董事會……不，羅贊的爪牙一直盯著我們的弱處。	ふたつめは……エリアゼロを守るためには、戦力が必要だからだ。元理事会……いや、ロザンの手下たちは、今も私達の不在を狙っているはずだからな。	둘째, 제로 구역에 전투력이 많이 결핍되어 있는 상황이야. 그래서 너희들이 주둔을 좀 해야 해. 이사회… 아니, 로잔의 부하들이 항상 우리의 약점을 노리고 있어.	The second reason is that the Containment Zone is short on forces, so I needed you back to hold the fort. The board — no, Rozan's lackeys — have been breathing down our neck.						0	
+47	原来如此，这就是你的考量吗？但是……	原來如此，這就是你的考量嗎？但是……	なるほど。そういう考えがあったのか。だが……	그렇군. 그래서 이게 네가 고려한 요소들이야? 하지만…	I see — you had your concerns. But...						0	
+48	为什么，要向我们隐瞒那个需要两周时间的作战计划呢？	為什麼，要向我們隱瞞那個需要兩週的作戰計畫呢？	だったらどうして、その作戦計画について教えてくれなかったの？	왜 2주간의 작전 계획을 우리한테 숨기려고 했던 거야?	Why keep the two-week operation plan a secret from us?						0	
+49	因为不那么说的话，你们是绝对不会回公司的吧……	因為不那麼說的話，你們是絕對不會回公司的吧……	そうでもしないと、大人しく会社に戻ってくれないだろうからな……	그렇게 말하지 않으면 너희들이 회사로 돌아오지 않을 거라고 생각했기 때문이야…	Because otherwise, you wouldn't have agreed to return...						0	
+50	总之抱歉，擅自做出这样的决定，是我的不对。	總之抱歉，擅自做出這樣的決定，是我的不對。	とにかく、勝手に決めて悪かった。	아무튼, 아무런 말도 없이 이런 결정을 내린 건 정말 미안해.	Anyway, I'm sorry for making such a decision without consulting you.						0	
+51	就算你这么说……我们也都回来了，只有凯茜娅在你身边，她一个人真可以……	就算你這麼說……我們也都回來了，只有凱茜婭在你身邊，她一個人真可以……	そうは言っても、あたし達が引き上げちゃったら、あんたの傍にはカーシアしか残ってないじゃない。彼女だけで、本当に……	어찌됐건 지금의 우린 결국 다 돌아왔어. 네 곁에는 캐시아만이 남아있지. 캐시아도 참 대단해…	That doesn't change the fact that we're all back. Now, only Katya is there with you. Can she really handle it...						0	
+52	playername留在那的底牌，应该不止一张吧。	playername留在那的底牌，應該不只一張吧。	playernameのことだ。きっとまだ何か隠し玉でも残しているんだろう。	playername, 다른 방안도 생각해 뒀겠지?	Maybe playername has more aces up his sleeve than we know.						0	
+b-1											0	
+53	看向里芙，点点头	看向里芙，點點頭	リフに頷く	리브를 쳐다보며 고개를 끄덕였다.	Nod toward Lyfe in agreement						0	
+54	哎？	哎？	え？	음?	Huh?						0	
+55	和芬妮不同，她似乎很快就看透了男人心中的打算。	和芬妮不同，她似乎很快就看透了男人心中的打算。	ファニーとは違い、リフはすぐさま分析員の考えを理解したようだ。	페니와 다르게 리브는 남자들의 심리를 조금 더 잘 짚어내는듯하다.	Unlike Fenny, Lyfe seemed to be able to quickly see the plan in a man's mind.						0	
+56	（是啊，我明明已经变强了……但为什么……）	（是啊，我明明已經變強了……但為什麼……）	（……あたし、強くなったのに。なのに、どうして……）	(후, 분명히 나도 강해졌는데, 난 항상 왜…)	(I thought I'd grown stronger... but why...)						0	
+57	（为什么还是会在他面前，落后她一步……）	（為什麼還是會在他面前，落後她一步…）	（どうして結局、あいつの前では彼女に先を越されちゃうわけ？）	(왜 이 사람 앞에서는 여전히 그녀보다 한 발 뒤쳐지는 거지?…)	(Why am I still a step behind her... in front of the Adjutant...)						0	
+58	果然，playername还是一如既往地心思缜密。	果然，playername還是一如既往地心思縝密。	さすがだな、playername。相変わらず抜け目がない。	역시나, playername은(는) 치밀하군.	As always, playername, your thoroughness is admirable.						0	
+59	（啧……）	（嘖……）	（悔しい……）	(쳇…)	(Tsk...)						0	
+60	你安心展开计划，零区这边就交给我们来镇守好了。	你安心展開計劃，零區這邊就交給我們來鎮守好了。	作戦に専念するといい。エリアゼロは私達に任せろ。	그럼 계속해서 계획을 세워줘. 제로 구역은 우리한테 맡겨두고.	You just focus on your mission, and we'll keep watch here at the Containment Zone.						0	
+61	嗯，但是当下你们刚刚回来，还是好好休息一下吧。	嗯，但是當下你們剛回來，還是好好休息一下吧。	ああ。でも、帰ったばかりだし、みんなもまずはゆっくり休んでくれ。	응, 너희도 막 돌아왔으니까 조금 쉬는 건 어때?	Thanks. But you've just got back — you all should rest up first.						0	
+62	……为什么，playername能说出这样的话？	……為什麼，playername能說出這樣的話？	……どうして、そんなことが言えるわけ？	… playername, 왜 그런 식으로 밖에 얘기를 못하는 거지?	...How could you say that, playername?						0	
+63	压抑许久的情感化作语言，从咬紧的牙缝中挤出。	壓抑許久的情感化作語言，從咬緊的牙縫中擠出。	ファニーが抑え続けてきた感情は言葉となって、食いしばった歯の隙間から漏れ出した。	이를 악물고 있던 페니가 결국 참지 못하고 억눌렀던 감정을 표출했다.	Long-suppressed emotions forced their way out through her clenched teeth.						0	
+64	你又不在身边……我，我们怎么可能好好休息？！	你又不在身邊……我，我們怎麼可能好好休息？！	あんたがそばに居なきゃ……ゆっくり休めるわけないじゃない！	네가 우리 곁에 없는데… 우리가 편히 쉴 수 있을 거라고 생각해?	How could I... how could we rest well without you here!?						0	
+65	芬……妮？	芬……妮？	ファニー……？	페… 니?	Fenny...?						0	
+66	大厅静得出奇，众人面面相觑。	大廳靜得出奇，眾人面面相覷。	ホールが静まり返った。みんな驚いた表情を浮かべ、顔を見合わせていた。	로비는 이상할 정도로 조용했고, 모두가 놀란 표정으로 서로를 바라봤다.	The hall fell eerily silent as everyone exchanged glances.						0	
+67	……	……	……	…	...						0	
+68	对不起，我可能有点失控了……	對不起，我可能有點失控了……	ごめん……取り乱してしまったわ。	미안, 순간 주체가 되질 않았어.	Sorry, I'm getting a little emotional...						0	
+69	我想我确实需要好好休息一下，晚上再见……	我想我確實需要好好休息一下，晚上再見……	確かに、休んだほうがいいわね。じゃあ、またあとで……	좀 쉬어야 할 것 같아. 그럼 저녁에 다시 봐…	I think I do need some rest. See you tonight...						0	
+b-2											0	
+71	芬妮，谢谢你为我操心。	芬妮，謝謝你為我操心。	心配してくれてありがとう、ファニー。	페니, 신경 써 줘서 고마워.	Thank you for worrying about me, Fenny.						0	
+72	……	……	……	…	...						0	
+73	笨蛋……真是个笨蛋，playername。	笨蛋……真是個笨蛋，playername。	本当に……バカなんだから……	바보… playername은(는) 정말 바보야.	You're such a dummy... playername.						0	
+74	少女停下脚步，她的肩膀不断起伏，我看不见她的表情，只能听见无比别扭的笑。	少女停下腳步，她的肩膀不斷起伏，我看不見她的表情，只能聽見無比彆扭的笑。	ファニーが足を止めた。彼女の肩は震えていたけれど、私にはその表情までは分からない。ぎこちない笑い声が聞こえるだけだ。	소녀는 멈춰섰고 본인의 감정을 주최할 수 없었는지 몸을 들썩였다. 뭔가 서운한 감정을 비추는 것처럼 보였다.	She paused, shoulders shaking. I couldn't see her face, only hearing an awkward chuckle.						0	
+76	转过身来，少女眼角微红。借着那一句短短的感谢，她努力拾起早已零碎的情绪。	轉過身來，少女眼角微紅。藉著那一句短短的感謝，她努力拾起早已零碎的情緒。	次に振り向いた時、彼女の目元は赤くなっていた。短い感謝の言葉のおかげで、彼女はぎりぎりのところで、感情を制御できたらしい。	몸을 돌이킨 소녀의 눈시울이 약간 붉어진 것을 짧게나마 볼 수 있었다.	She turned around, her eyes misty. That brief thank you gave her a chance to gather her shattered feelings.						0	
+77	你不会是以为本小姐吃醋了吧，才没有哦。	你不會是以為本小姐吃醋了吧，才沒有哦。	あたしが妬いてるとでも思ったの？違うわよ。	설마 내가 질투했다고 생각하는 건 아니겠지.	You didn't think I was jealous, did you? No way.						0	
+78	芬妮——	芬妮——	ファニー……	페니…	Fenny...						0	
+79	芬妮上前，一把夺过卡罗琳手中的通讯终端，深深地吸了一口气。	芬妮上前，一把奪過卡羅琳手中的通訊終端，深深吸了一口氣。	ファニーはカロリンに近寄ると、通信端末を奪った。深く息を吸い込み、彼女は端末に向けて喋り出した。	페니는 앞으로 나가 캐롤린이 들고 있던 단말기를 낚아채고는 숨을 크게 들이마셨다.	Fenny stepped forward, snatched the comms terminal from Caroline's hand, and inhaled deeply.						0	
+80	总之，别为我的事操心啦，我没事的。	總之，別為我的事操心啦，我沒事的。	とにかく、あたしのことは心配しなくていいの。大丈夫よ。	아무튼 내 일에 신경 쓰지 마. 난 괜찮으니까.	Anyway, don't worry about me. I'm fine.						0	
+81	倒是你，你自己在新恒提罗一定要多加注意安全。	倒是你，你自己在新恆提羅一定要多加注意安全。	あんたこそ、ニューガントラでは気をつけなさいよ？	어쨌거나 뉴헨틸로에서 안전에 더 주의를 기울이라고.	But you should be extra careful out there in New Hentiro.						0	
+82	少女的语速很快，像是在逃避什么一样。	少女的語速很快，像是在逃避什麼。	ファニーは早口でそうまくし立てた。何かから逃げているかのように。	그녀는 마치 무언가를 피하려는 것처럼 말이 빨랐다.	She spoke rapidly as if running from her own words.						0	
+83	如果有什么需要的……记得……记得随时联系本小姐，我会一直守着终端的。	如果有什麼需要的……記得……記得隨時聯絡本小姐，我會一直守著終端的。	何かあったら、すぐ連絡を寄こしなさい。あたし、いつでも駆けつけるから。	필요한 게 있으면 언제든지 연락하고… 내가 항상 단말기를 지키고 있을테니까.	If you need anything, just call me anytime. I'll keep my terminal close at hand.						0	
+84	语毕，没等对面的人回复，“高傲”的黄金狮子便挂断了通讯。	語畢，沒等對面的人回覆，“高傲”高傲的黃金獅子便掛斷了通訊。	分析員の返事も待たず、傲岸不遜なライオンハートは一方的に通信を切ると……	말이 끝나기도 전에 라이언은 통신을 끊었다.	Without waiting for a reply, the proud Lionheart ended the call.						0	
+85	随后，头也不回地离开。	隨後，頭也不回地離開。	端末をカロリンに返して、つかつかとホールを出て行ってしまった。	그리고 고개도 돌리지도 않은 채 떠났다.	She then turned and left without looking back.						0	
+86	芬妮的状态，好像有点不太对劲……	芬妮的狀態，好像有點不太對勁……	ファニーの様子、何だかおかしいですね……	페니의 상태가 좀 이상한 것 같은데요…	Something seems off with Fenny...						0	
+88	我们去看看她吧。	我們去看看她吧。	様子を見に行きましょう。	그녀를 보러 가는 건 어때요?	Should we go check on her?						0	
+89	不用，也不能。	不用，也不能。	いや。やめたほうがいい。	아니야, 그럴 수 없어.	No. And there's nothing we can do.						0	
+90	里芙伸手拦住了想要追上前去的茉莉安，但随后又握了握拳，将手收回身侧。	里芙伸手攔住了想要追上前去的茉莉安，但隨後又握了握拳，將手收回身側。	リフはファニーを追おうとするマリアンを引き留めた。けれど何を思ったのか、伸ばした手を引っ込め、拳を握り締めた。	리브는 앞으로 달려가려는 마리안을 손으로 막았고, 주먹을 쥐었던 손을 천천히 내렸다.	Lyfe reached out to stop Marian but immediately withdrew her hand, clenching it into a fist.						0	
+91	那双清冷的眼眸中竟也飘出了一抹苦涩。	那雙清冷的眼眸中竟也飄出了一抹苦澀。	いつも淡々としているはずのリフの目には、珍しく苦渋の色が見え隠れしている。	서늘한 눈동자에도 씁쓸함이 느껴졌다.	A hint of bitterness flickered in her cool gaze.						0	
+92	里芙？	里芙？	リフさん？	리브?	Lyfe?						0	
+93	我们去了只会适得其反，唯一能安慰她的人，并不在这里……他正在以自己的方式，保护着我们。	我們去了只會適得其反，唯一能安慰她的人，並不在這裡……他正在以自己的方式，保護著我們。	私達が行ったところで、逆効果だ。彼女を慰められる人は、ここにはいない。そしてその人は、今も彼なりのやり方で私達を守ってくれているんだ。	우리가 가면 역효과를 낼 뿐이야. 지금 페니를 위로할 수 있는 사람도 여기에 없고… 분석가는 자신만의 방식으로 우리를 보호하고 있어.	We'd only make things worse. The only one who can comfort her isn't here... He's protecting us in his own way.						0	
+94	而我们能做的，正如他所说——	而我們所能做的，正如他所說——	私達にできるのは、彼の言い付け通りに……	지금 우리가 할 수 있는 건 그의 말대로…	We should do as he instructed.						0	
+95	先好好休息，然后随时等待着他的召唤。	先好好休息，然後隨時等待他的召喚。	ちゃんと休憩を取り、万全の態勢で彼の呼びかけを待つことだけだ。	먼저 안정을 취하면서 그의 호출을 기다리는 거야.	That is, to rest well and be ready for his call.						0	
+96	你又不在身边……我，我们怎么可能能好好休息？！	你又不在身邊……我，我們怎麼可能好好休息？！	あんたがそばに居なきゃ……ゆっくり休めるわけないじゃない！	네가 옆에 없는데… 우리 보고 어떻게 편하게 있으라는 거지?!	How could I... how could we rest well without you here!?						0	
+97	（能够如此直白地表达情感的你，实在是令人羡慕……）	（能夠如此直白地表達情感的你，實在令人羨慕……）	（感情をそのまま言葉にできるお前が羨ましい……）	(감정을 이렇게까지 직설적으로 표현할 수 있는 널 보면 항상 부러워…)	(Being able to express your feelings so bluntly... I envy that...)						0	
+98	（playername，请务必要……平安归来……）	（playername，請務必…平安歸來…）	（どうか無事に戻ってくれ……playername。）	(playername, 부디… 무사히 돌아와…)	(Please, playername, come back safe...)						0	
+99	人群散去，独自一人留在大厅的里芙环抱双臂，努力抑制着颤抖的身体……	人群散去，獨自留在大廳的里芙環抱雙臂，努力抑制顫抖的身體……	みんなが立ち去った無人のホールで、リフは震えが収まるまで、ひとり自分の体を抱き締めていた。	대원들이 흩어지고 홀에 홀로 남은 리브가 두 팔로 떨리는 몸을 억누른다…	As the crowd dispersed, Lyfe remained standing alone in the hall, arms wrapped around herself, struggling to control her trembling body...						0	
+100	可恶，可恶可恶，可恶……	可惡，可惡可惡，可惡……	ああもう、頭にきた！……	젠장, 젠장…	Ugh, darn it, darn it, DARN IT...!!						0	
+101	为什么，我还是会那么在意……明明那个时候，就应该想通了才对……	為什麼，我還是會那麼在意……明明那時候，就該想通了才對……	あたしったら、なんでまだ引きずってんのよ……とっくに割り切ったはずなのに……	왜 아직도 신경이 쓰이는 거지… 분명히 그때 깨달았어야 했는데…	Why does this still bother me so much... I should've gotten over it by now...						0	
+102	走廊里回响着苦闷的脚步声。	走廊上迴響著苦悶的腳步聲。	苦悶の足音が廊下に響く。	복도에서 답답한 발걸음 소리가 울려 퍼졌다.	Her footsteps echoed down the corridor, each step laden with frustration.						0	
+103	这种郁闷的感觉，究竟是从何时起……	這種鬱悶的感覺，究竟是從何時起……	この鬱憤は、一体いつから……	이런 우울한 감정은 도대체 언제부터 시작된 걸까…	When did this gnawing feeling start...?						0	
+104	也因为我没有力量……像你现在所拥有的那种力量，所以刚刚才没办法突破到敌人面前，把他抢回来？	也因為我沒有力量……像你現在所擁有的那種力量，所以剛剛才沒有辦法突破到敵人面前，把他搶回來？	それだけじゃない。……あんたみたいな力を持たないから、敵の元まで駆けつけて、彼を奪い返すことができなかった。	내가 힘이 없어서 그런 거겠지… 지금 네가 가지고 있는 힘을 갖고 있었더라면 타깃들의 포위를 뚫고 그를 데려왔을 텐데.	Is it because I'm not as strong as you, I couldn't fight my way through and rescue him from the enemy just now?						0	
+105	嗯。你被那些杂碎绊住脚步了，脱了节。	嗯。你被那些雜碎絆住腳步了，脫了節。	ああ、そうだ。お前が雑魚に足を取られすぎたせいだ。	맞아. 보잘것없는 것들 때문에 발이 묶였던 거야.	Yes. You got held up by those grunts and lost your rhythm.						0	
+106	我……输了？我真的输了……	我……輸了？我真的輸了……	あたしが……負けた？本当に、あたしが……	내가… 졌다는 거지? 내가 지기도 한다니…	Did I just... lose? Ugh, I lost...						0	
+107	输了。在最重要的事情上输了。	輸了。在最重要的事情上輸了。	ああ、そうかもしれないな。	응, 가장 중요한 일에서 진 거나 다름없어.	Yes, you lost on what mattered most.						0	
+108	纵使我收拾好心情，拼尽全力还是慢了她一步……	縱使我收拾好心情，拼盡全力還是慢了她一步……	気持ちを整理して、全力をもって臨んでも、結局彼女には勝てなかった……	마음을 가다듬고 온 힘을 다했지만, 그녀보다 한 발 늦었어…	Even if I pulled myself together and gave it my best shot, I'm still one step behind her...						0	
+109	被她……	被她……	彼女に……	그녀한테…	Left behind by her...						0	
+110	不……是被她们……甩在了身后……	不……是被她們……甩在了身後……	いや。みんなに……追い抜かれてしまった……	밀려났어…	No... by all of them...						0	
+111	但是，这不对吧……	但是，這不對吧……	でも、違うわ……	이건 아니지 않나…	But that's not right...						0	
+112	这肯定不对……	這肯定不對……	きっとなにかが間違っている。	어떻게 이럴 수 있지…?	It can't be right...						0	
+113	明明那个时候……那个时候他曾经对我……对浑身伤痕，满身污渍的我……	明明那時候……那個時候他曾經對我……對渾身傷痕，滿身污漬的我……	あの時……あいつはあたしに……傷だらけで、汚れ切ったあたしに……	분명히 그때… 그때 분석가가 나에게… 상처와 얼룩으로 가득 차있는 나에게…	Because back then... even when I was all bruised and battered...						0	
+114	说了那样的话啊……	說了那樣的話啊……	あんなことを言っていたのに。	그렇게 말을 했었지…	He said those words to me...						0	
+115	这一次，彻底不可能再翻盘了……无论是瓦尔基里游戏还是芬妮·戈尔登的人生……	這一次，徹底不可能再翻盤了……無論是瓦爾基里遊戲還是芬妮·戈爾登的人生……	今度こそ、もう挽回できそうにないわ……ヴァルキリーゲームも、ファニー·ゴールデンの人生も……	이제는 상황을 다시 바꿀 수도 없어… 발키리 게임도, 페니 골든의 삶도…	It's over this time... There's no second chance. The Valkyrie Games, and Fenny Golden's life...						0	
+116	都已经结束了……	都已經結束了……	全ておしまいよ……	이제 다 끝난거야…	It all ends here...						0	
+117	以这种满身伤痕，浑身泥泞的落败者形象……结束。	以這種滿身傷痕，渾身泥濘的落敗者形象……結束。	傷だらけで、泥まみれな敗北者として……終わるの。	만신창이 모습으로… 패자의 모습으로…	In the guise of a muddied, defeated loser.						0	
+118	不过已经无所谓了……反正一直以来……我都没有赢过她吧……	不過已經無所謂了……反正一直以來……我都沒有贏過她吧……	でも、もうどうだっていいじゃない……どうせあたしじゃ、何をしたって、彼女に勝てっこないんだから……	뭐, 어차피 상관없어… 그동안… 내가 그녀를 이겼던 적은 없었으니까…	But it doesn't matter anymore... I've never beaten her anyway...						0	
+119	2057年，第八届瓦尔基里游戏年度总决赛当天，首次降临事件发生。	2057年，第八屆瓦爾基里遊戲年度總決賽當天，首次降臨事件發生。	2057年。第八回ヴァルキリーゲームの決勝戦当日。初降臨が起きたあの日。	2057년, 제8회 발키리 게임 결승전 당일, 첫 강림 사건이 발생했다.	In 2057, on the day of the 8th annual Valkyrie Games finals, the First Descent occurred.						0	
+120	仿佛是故意戏弄众人般，当里芙获得冠军头衔的瞬间，名为“尤弥尔”的巨大泰坦现身于线下场馆，造成大批观众与选手伤亡。	彷彿故意戲弄眾人般，當里芙獲得冠軍頭銜的瞬間，名為「尤彌爾」的巨大泰坦現身於線下場館，造成大批觀眾與選手傷亡。	運命のいたずらというべきか、リフがチャンピオンとして君臨した瞬間、「ユミル」という名のタイタンが会場に現れ、多大な被害をもたらした。	리브가 타이틀을 거머쥔 순간 '이미르'라고 불리는 거대한 타이탄이 경기장에 나타나 많은 관객과 선수들에게 상처를 입혔다.	As if to mock the people there, the very moment Lyfe claimed the championship, a colossal Titan named "Ymir" appeared at the venue, causing widespread casualties among the audience and contestants.						0	
+121	而名为芬妮的挑战者，也被卷入其中……	而名為芬妮的挑戰者，也被捲入其中……	ファニーも、その事件に巻き込まれた一人だった……	당시에 페니도 이 사건에 휘말렸는데…	Fenny, one of the contestants, was caught up in the devastation...						0	
+122	浓烟弥漫，整个世界仿佛都被丢入了炙热的熔炉，然而，芬妮的心却格外冰冷。	濃煙瀰漫，整個世界彷彿都被丟入了炙熱的熔爐，然而，芬妮的心卻格外冰冷。	土煙が立ち込め、世界が丸ごとマグマの中に放り込まれたようになる中で、ファニーの心は冷え切っていた。	짙은 연기가 곳곳을 덮치며 전 세계가 뜨거운 용광로에 던져진 듯했지만, 페니의 마음은 여전히 차가웠다.	As smoke engulfed everything, transforming the world into a scorching furnace, Fenny's heart remained chillingly cold.						0	
+123	毕竟，早在被建筑碎块砸中前一秒，她的自尊心早已被名为里芙的少女击碎。	畢竟，早在被建築碎塊砸中前一秒，她的自尊心早已被名為里芙的少女擊碎。	何しろ、建物の瓦礫の下敷きになる前から、彼女のプライドはリフによってすでにズタズタにされていたのだから。	건물 파편에 맞기 전, 그녀의 자존심은 리브라고 불리는 소녀에게 처참히 무너졌다.	After all, just a second before being struck by falling debris, her pride had already been shattered by the girl named Lyfe.						0	
+124	（这究竟是第几次呢？我落败的次数已经数不清了。）	（這究竟是第幾次呢？我落敗的次數已經數不清了。）	（これで何回目なの？もう負けた回数さえ覚えていないわ。）	(도대체 몇 번 째지? 이미 진 횟수가 수도 없이 많아)	(How many times have I lost to her? I've lost count.)						0	
+125	（小时候，在还是预备选手的时候，优胜这种事情对我而言简直易如反掌。我也自然而然地认为往后的人生理应如此顺利下去……芬妮，永远都会是第一。）	（小時候，在還是預備選手的時候，優勝這種事情對我而言簡直易如反掌。我也自然而然地認為往後的人生理應如此順利下去……芬妮，永遠都會是第一。）	（予備選手だった頃のあたしにとって、優勝なんて当たり前で、これからも勝ち続けるだろうと思っていた。あたしは、ずっとトップのままだって……思っていた。）	(어렸을 적, 예비 선수로 발탁됐을 때만 해도 모든 것이 순조로울 거라고 생각했어… 언제나 1등일 거라 생각했지)	(As a child, when I was still a reserve competitor, winning was as easy as breathing. I naturally assumed life would always be that easy for me... The name Fenny used to always come with "first place.")						0	
+126	（但自从参加了瓦尔基里游戏后才发现，原来还有无论自己如何努力都无法击败的对手，而每一次落败，都伴随着失去……）	（但自從參加了瓦爾基里遊戲後才發現，原來還有無論自己如何努力都無法擊敗的對手，而每一次落敗，都伴隨著失去…）	（でも、ヴァルキリーゲームに参加してからようやく気づいたのよ。どんなに努力しても勝てない相手がいて、彼女に負ける度に、何かを失うという現実を……）	(그런데 언제부턴가 발키리 게임에서 아무리 노력해도 이길 수 없는 상대가 생겼어. 패배할 때마다 항상 잃는 무언가가 같이 있었지)	(But since the Valkyrie Games, I've come to realize there are opponents I can never beat, no matter how hard I try. And each defeat takes away something from me...)						0	
+127	（队友们开始疏远自己，父母也开始渐渐不再展露笑脸，身为戈尔登家族的千金，却被人调侃成“银牌小姐”。）	（隊友們開始疏遠自己，父母也開始漸漸不再露出笑臉，身為戈爾登家族的千金，卻被人調侃成「銀牌小姐」。）	（友達が離れて行き、両親の顔からも笑顔が消えた。ゴールデン家の娘なのに、「レディ・シルバー」なんて不名誉な二つ名を付けられた。）	(동료들은 점점 멀어졌고 부모님도 더 이상 웃지 않았어. 골든 가문에서 '미스 실버'라는 별명까지 따라붙었고…)	(Squadmates pulled away from me, and my parents' smiles grew rare. Despite being a scion of the Golden family, I was saddled with the unfortunate nickname "Miss Silver Medal.")						0	
+128	（身边的人，都渐渐远离自己，就连人生的最后，也是孤零零的一个人……）	（身邊的人，都漸漸遠離自己，就連人生的最後，也是孤零零的一個人……）	（近しかった人達と段々疎遠になり、人生の最後まで、ひとりぼっちだなんて……）	(주변 사람들은 전부 떨어져 나갔고 이제 남은 건 나 혼자뿐이야…)	(My friends and family have all drifted away. And even in the end, I was all by myself...)						0	
+129	……	……	……	…	...						0	
+130	（也许……总算可以从永无止境的落败与孤独中解脱了。）	（也許……總算可以從永無止境的落敗與孤獨中解脫了。）	（これで……やっと、終わりのない敗北と孤独から解放される。）	(아마도… 영원히 이어지는 패배와 외로움 속에서 벗어날 수 없겠지)	(Perhaps... this is my opportunity to finally break free from this endless cycle of defeat and loneliness.)						0	
+131	某一刹那，少女甚至这样想到。	某一剎那，少女甚至這樣想到。	一瞬だけ、そんなことまで考えた。	어느 순간 소녀는 이런 생각까지 하게 됐다.	For a moment, the girl even entertained that thought.						0	
+132	但是——	但是——	なのに……	그 순간…	However...						0	
+133	喂，还能听见我说话吗？	喂，還能聽見我說話嗎？	しっかりしろ！私の声が聞こえるか？	이봐, 내 말 들려?	Hey, can you still hear me?						0	
+134	镇定，浑厚，饱含生命力的呼唤从瓦砾堆的另一端响起。	鎮定，渾厚，飽含生命力的呼喚從瓦礫堆的另一端響起。	瓦礫の向こうから、力強い声が聞えてきた。	침착하면서도 활기가 넘기는 소리가 파편 더미의 반대쪽에서 들려왔다.	A calm, sonorous voice brimming with life called out from the other side of the rubble.						0	
+135	嗯，我还……还……	嗯，我還……還……	うん……あたし……ま、まだ……	맞아, 아직… 아직 난…	Yeah, I'm still... um...						0	
+136	（还活着吗？这种话，真的要说出口吗？）	（還活著嗎？這種話，真的要說出口嗎？）	（まだ生きてる……って、本当に言うの？）	(살아있다고? 아직 내가 살아있는 건가?)	("I'm still alive"? Should I really say that?)						0	
+137	太好了，果然和我判断的一样，芬妮你还活着。	太好了，果然跟我判斷的一樣，芬妮你還活著。	よかった。やっぱり生きていたんだな。ファニー。	역시나, 예상대로야.	Great! I knew you'd make it, Fenny.						0	
+138	（他知道我是谁……）	（他知道我是誰……）	（あたしのことを……知ってる？）	(내가 누군지 알고 있는 건가…)	(He knows my name...)						0	
+139	（是我的粉丝吗……不……应该已经没有那样的人了吧，大概只是看过比赛而已……）	（是我的粉絲嗎……不……應該已經沒有那樣的人了吧，大概只是看過比賽而已……）	（あたしのファン？いや……あたしのファンなんて、もういないはず。多分、ただの観客でしょ……）	(팬인가… 아니… 그런 사람은 더 이상 없을 거야… 그냥 경기를 봐서 아는 거겠지…)	(Is he a fan? No... I doubt I have any fans left. Probably just someone in the audience...)						0	
+140	（但即便如此……还是不想被人看到……）	（但即便如此……還是不想被人看到……）	（それでも……見られたくない……）	(어찌 됐건… 지금은 누군가한테 내 모습을 보이고 싶지 않아… )	(But still, I don't want him to see me...)						0	
+141	（不想被人看到如今这副惨样……）	（不想被人看到如今這副慘敗的模樣……）	（こんな無様なあたしを……）	(지금의 내 모습은 너무 비참하다고…)	(I don't want anyone to see me like this...)						0	
+142	接下来我要清理掉你身体周边的建筑残渣，如果不小心弄疼你了，一定要说出来。	接下來我要清理掉你身體週邊的建築殘渣，如果不小心弄疼你了，一定要說出來。	これから君の周りにある瓦礫をどかす。痛かったらすぐにそう言うんだぞ。	네 주변에 있는 파편들을 치울 예정이니까 만약 실수로 널 아프게 했다면 꼭 말해줘야 해.	I'm going to start clearing the debris around you. Don't hesitate to let me know if it hurts.						0	
+143	拜托……不要看我……	拜託…不要看我……	あたしのこと……見ないで……	부탁이니까… 지금은 날 보지 말아 줘…	Please... don't look at me...						0	
+144	现在的我，一定很难看……	現在的我，一定很難看……	今のあたしは、きっと醜いから……	지금의 난 굉장히 초라해 보일 거야…	I must look like hell right now...						0	
+145	少女用满是伤口的手遮住了自己的脸。	少女用滿是傷口的手遮住了自己的臉。	ファニーは傷だらけの手で顔を覆った。	소녀는 피가 범벅인 손으로 자신의 얼굴을 가렸다.	The girl covered her face with her injury-riddled hand.						0	
+146	……	……	……	…	...						0	
+147	沉默片刻，她再次听到了那温柔的声音。	沉默片刻，她再次聽到了那溫柔的聲音。	しばしの沈黙のあと、あの優しい声が再び聞こえてきた。	잠깐의 정적이 흐른 후, 그녀는 한 따듯한 목소리를 들었다.	After a moment of silence, that gentle voice spoke again.						0	
+148	并不难看，坚持到现在的你比任何时候都要闪耀，也许正因如此……	不難看，堅持到現在的你比任何時候都要閃耀，也許正因如此……	醜いわけがあるもんか。ここまで耐え抜いた君は、これまでのどんな瞬間よりもずっと輝いてるよ。その証拠に……	초라해 보이지 않아. 지금까지 봤던 모습 중에 가장 빛나 보이는 걸? 게다가…	No, you look great. The fact that you've held up this long makes you shine brighter than ever. And maybe that's why...						0	
+149	你才是我在这片废墟中，发现的第一个幸存者。	你才是我在這片廢墟中，發現的第一個倖存者。	この瓦礫の山で見つけた生存者は、君が1人目だ。	네가 이 폐허에서 발견된 첫 번째 생존자야.	You're the first survivor I found in this wreckage.						0	
+150	……	……	……	…	...						0	
+151	（闪耀……第一……已经多久，没有听过这些词了呢？）	（閃耀……第一個……已經多久，沒有聽過這些話了呢？）	（輝いている？あたしが？そんな言葉、いつぶりかしら？）	(나한테 빛난다고 그런 건가…? 얼마 만에 이런 말을 듣게 된 거지…)	("Shine"... "First"... It's been so long since I've heard those words.)						0	
+152	（很清楚，这也许只是为了安慰我而编造出的谎言。）	（很清楚，這也許只是為了安慰我而編造的謊言。）	（私を落ち着かせるためについた噓かもしれない。）	(나를 위로하기 위해 지어낸 거짓말인 게 분명해)	(Obviously, he was just saying that to comfort me.)						0	
+153	（从小就被教育，除了不断获得第一攀上顶峰，人生别无意义。）	（從小就被教育，除了不斷獲得第一攀上頂峰，人生別無意義。）	（だって、一位を取らないと意味がないから。小さい頃から、あたしはそう教わってきた。）	(어릴 적부터 1등을 차지하고 정상에 오르는 것 외에는 인생이 무의미하다고 생각했어)	(Since childhood, I've been taught that life is meaningless unless you remain at the top.)						0	
+154	（而为之付出了近乎一切，还是没能成为第一名的我……）	（而為此付出了近乎一切，還是沒能成為第一名的我……）	（全てを賭けたのに、それでも一位になれなかったあたしを、この人は……）	(하지만 모든 것을 다 바쳤음에도 1등이 되지 못했지…)	(Yet, I gave almost everything and still failed to do so...)						0	
+155	芬妮，还能听到我的声音吗？	芬妮，還能聽到我的聲音嗎？	ファニー。まだ私の声が聞こえているか？	페니, 아직 내 목소리 들려?	Are you still with me, Fenny?						0	
+156	（所以，如果再去回应那个呼唤的话，也许就真的连仅存的高傲都要被剥夺了。）	（所以，如果再去回應那個呼喚的話，也許就真的連僅存的高傲都要被剝奪了。）	（あの声に答えたら、最後のプライドまで失われてしまうような気がする。）	(지금 이 부름에 응하면 남아 있는 자존심마저 박탈당할 것 같아)	(So, if I respond to that call, might I lose my last shred of pride?)						0	
+157	如果还有意识的话，做个简单的动作就好。	如果還有意識的話，做個簡單的動作就好。	まだ意識があるなら、ちょっとでもいいから、動いてみせてほしい。	만약 의식이 남아 있는 거면 간단하게 몸짓으로 표현만 해주면 돼.	If you're conscious, can you let me know by making a small gesture?						0	
+158	芬妮……芬妮？	芬妮……芬妮？	ファニー……ファニー？	페니… 페니?	Fenny... Fenny?						0	
+159	（但即便如此……）	（但即便如此……）	（それでも……）	(하지만…)	(But even so...)						0	
+160	（即便早已不再渴望，但是那个陌生人……）	（即便早已不再渴望，但是那個陌生人……）	（あたしが諦めたとしても、その知らない誰かが……）	(더 이상 아무것도 갈망하지 않는다고 하기엔…)	(Even though I've stopped yearning for that stranger...)						0	
+161	（那个陌生人如此真诚温暖的声音，还是唤醒了我残存于血液中……）	（那個陌生人如此真誠溫暖的聲音，還是喚醒了我殘存於血液中……）	（その知らない誰かの声が、あたしの心に潜んでいる……）	(진심 어린 따뜻한 목소리가 나를 일깨워 주는 것 같아…)	(His voice, so sincere and warm, still awakened the desire that lingers in my veins...)						0	
+162	（对“闪耀”的渴望。）	（對「閃耀」的渴望。）	（「輝くこと」への渇望を、呼び覚ましてくれた。）	(빛나는 것에 대한 갈망…)	(The desire to "shine.")						0	
+163	于是，即将于负面情绪溺毙的少女，下意识地，向着那个人伸出了手——	於是，即將溺斃於負面情緒的少女，下意識地，向著那個人伸出了手——	負の感情に溺れかけた少女は、無意識的に手を伸ばした——	조금 전까지 부정적인 감정에 사로잡혀있던 소녀가 그 사람을 향해 손을 내밀었다.	On the brink of drowning in negativity, the girl instinctively reached her hand toward him...						0	
+164	谢谢你……你是……	謝謝你……你是……	ありがとう……あんたは……	고마워…	Thank you... Who are you...?						0	
+b-3											0	
+165	握住她的手	握住她的手	その手を取る	그녀의 손을 잡는다	Take her hand						0	
+166	不客气。	不客氣。	どういたしまして。	천만에.	My pleasure.						0	
+167	playername，世界树的安全总管，让你久等了。我向你保证，你已经安全了。	playername，世界樹的安全部主管，讓你久等了。我向你保證，你已經安全了。	私はplayername。ユグドラシル安全部の責任者だ。君はもう、大丈夫だ。	내 이름은 playername, 위그드라실의 안전부 책임자야. 오래 기다렸지? 이제 넌 안전해.	I'm playername, head of security at Yggdrasil Enterprises. Sorry I'm late, but you're safe now, I assure you.						0	
+168	睁开眼，映入少女眼中的，是即将足以铭记一生的脸庞。	睜開眼，映入少女眼中的，是即將銘記一生的臉龐。	目を開くと、ファニーの瞳に、これから一生忘れないであろう人の顔が映っていた。	눈을 떠보니 소녀의 눈에 평생 잊지 못할 것 같은 한 남성의 얼굴이 들어왔다.	The girl opened her eyes to a face that would forever be etched in her memory.						0	
+169	playername……真是个别扭的名字。	playername……真是個別扭的名字。	playername……変な名前ね。	playername… 뭔가 어색한데?	playername... what a weird name.						0	
+170	我知道你现在心情不好，但也不用那么针对我吧。	我知道你現在心情不好，但也不用那麼針對我吧。	そんな気分じゃないのは分かってるけど、そこまで言うことはないだろ。	하하, 지금 기분이 안 좋은 건 알겠지만… 그런 식으로 나한테 말할 필요는 없잖아.	I know you're upset, but there's no need to get personal.						0	
+171	……才不是针对你。	……才不是針對你。	……そんなんじゃないわよ。	… 그런 뜻으로 말한 거 아니야.	...It's nothing personal.						0	
+172	女孩闭上眼睛，小声默念。	女孩閉上眼睛，小聲默念。	ファニーは目を閉じると、その名前を小声で繰り返した。	소녀는 눈을 감은 채 작은 소리로 말했다.	She closed her eyes, murmuring softly.						0	
+173	虽然很别扭，但是本小姐记下来了……playername……playername…………	雖然很彆扭，但本小姐記下來了……playername……playername…………	変な名前だけど、覚えてあげるわ……playername……playername……	어색하지만 그래도 기억해두지… playername… playername…	It's weird, but I've memorized it... playername... playername...						0	
+174	如果念叨这么别扭的名字能让你保持清醒，那就随你吧。	如果念叨這麼彆扭的名字能讓你保持清醒，那就隨你吧。	変な名前を連呼することで意識を保てるなら、好きにしてくれ。	그렇게 이름을 중얼거리면서 정신을 차릴 수만 있다면야…	If repeating this weird name keeps you awake, then by all means.						0	
+175	对了芬妮·戈尔登。	對了芬妮·戈爾登。	ところで、ファニー·ゴールデン。	아! 그것보다… 페니 골든!	And there's something I want you to know, Fenny Golden.						0	
+176	干嘛……突然叫人家全名……	幹嘛……突然叫人家全名……	何よ……いきなりフルネームで……	아니… 갑자기 왜 풀네임을…	Why did you call me by my full name all of a sudden...?						0	
+177	请你一定要坚持下去，我保证，一定会带你活着走出这片火海。	請你一定要堅持下去，我保證，一定會帶你活著走出這片火海。	どうか頑張って耐えてほしい。私は必ず、君をここから連れ出すから。	꼭 버텨야 해! 약속할게! 내가 어떻게든 이 지옥불에서 널 벗어날 수 있도록 할 거야!	Please hang in there. I promise I'll get you out of this blazing inferno alive.						0	
+178	理由是……	理由是……	なんで……	왜 그렇게까지 하려는 거지…?	And why is that?						0	
+179	我刚刚说过，你是这场事故中，我找到的第一个幸存者。	我剛剛說過，你是這場事故中，我找到的第一個倖存者。	言っただろ？君は私が見つけた、最初の生存者だ。	방금 말했듯이 너는 내가 찾은 첫 번째 생존자니까.	Like I said, you were the first survivor I found in the wreckage.						0	
+180	……其实在那之前，因为一些事情我的心情一直很低落。	……其實在那之前，因為有些事情我的心情一直很低落。	……実は、ずっと落ち込んでいたんだ。	… 사실 그전까지 어떤 일 때문에 마음이 내내 우울했었거든.	Actually, I've been feeling pretty down lately due to some things that happened earlier.						0	
+181	但还好遇到了你，原本阴郁的心情瞬间好多了。	但還好遇到了你，原本陰鬱的心情瞬間好多了。	でも、君と出会ったことで、私の心が晴れた。	그래도 널 만나서 다행이야. 우울했던 마음이 한순간에 사라졌달까.	But thankfully, I met you today — I feel so much better now.						0	
+182	……？！	……？！	……！？	…?!	...!?						0	
+183	少女的身体颤抖起来，她想张口说些什么，但是那干涸的喉咙却只能发出简单的呜咽。	少女的身體顫抖起來，她想張口說些什麼，但是那乾涸的喉嚨卻只能發出簡單的嗚咽。	少女は震え出した。何かを言おうとしたけれど、彼女の枯れた喉からは言葉がまったく出てこなかった。	소녀의 몸은 떨리기 시작했고, 무언가를 말하려 했지만 메마른 목에서 흐느낌만이 나올 뿐이었다.	The girl's body trembled. She tried to say something, but her parched throat could only muster a feeble sob.						0	
+184	而那一行滚烫的泪水，也在落地前蒸发——不懂该如何表达此刻心情的少女，只能将头深深埋下。	而那一行滾燙的淚水，也在落地前蒸發——不懂該如何表達此刻心情的少女，只能將頭深深埋下。	零れる涙は地面に落ちる前に、熱い空気に晒されて蒸発した。この気持ちの伝え方がわからない少女は、深く頭を垂れるしかなかった。	한 줄기 뜨거운 눈물도 땅에 떨어지기 전에 증발했고, 순간의 감정을 어떻게 표현해야 할지 모르는 소녀는 그저 고개를 숙일 뿐이었다.	Her scalding tears streamed down her face, evaporating before reaching the ground. Failing to utter her mixed feelings, she hung her head.						0	
+185	真是个自以为是的笨蛋……	真是個自以為是的笨蛋……	本当、生意気なバカね……	이거 완전 자기만 잘난 줄 아는 바보잖아…	What a presumptuous dummy...						0	
+186	（笨蛋……）	（笨蛋……）	（バカ……）	(바보 같으니라고…)	(Dummy...)						0	
+187	啊，原来如此。	啊，原來如此。	ああ。そうだった。	그렇다…	Ah, so that's when it all began.						0	
+188	一定是从那一天起，原本高傲的黄金狮子便沦为了他的俘虏。	一定是從那一天起，原本驕傲的黃金獅子便淪為了他的俘虜。	きっとあの日から、気高いライオンハートはこの人の虜となったんだ。	도도했던 라이언이 포로가 된 것은 바로 그날부터였던 것이다.	From that day forward, the once-proud Lionheart was irreversibly captivated by him.						0	
+189	明明我才是第一……第一个被他救赎的人……	明明我才是第一…第一個被祂救贖的人……	あたしが先だったのに……あたしが、最初に救われたのに……	난 첫 번째로… 그에게 구원받은 사람이니까…	I was the first... the first girl to be saved by him...						0	
+190	所以……我才不能输……不能输给她……至少在他面前……我不想再输给任何人啊……	所以……我才不能輸……不能輸給她……至少在他面前……我不想再輸給任何人啊……	だから……負けたくないの……彼女に、負けたくないし……少なくとも、あいつの前では、もう誰にも負けたくないのよ……	그러니까… 난 질 수 없어… 그녀에게 질 수 없어… 적어도 그 사람 앞에서는… 더는 누구에게도 지고 싶지 않아…	So, I can't lose... can't lose to her... not in front of him... I don't want to lose to anyone anymore...!						0	
+191	呃……呃啊……呃啊啊啊……	呃……呃啊……呃啊啊啊……	うっ……うっ……うあああ……	으으으…	Ugh... Argh... Aaaargh...						0	
+192	呃啊啊……啊啊啊啊啊啊啊啊……	呃啊啊……啊啊啊啊啊啊啊啊……	あああ……ああああああああ……	으아아아… 아아아아아아아아ㅡ!!!	UGH... AAAAAAARGH!!!						0	
+193	…………	…………	………………	……	...						0	
+194	……	……	……	…	...						0	
+195	…	…	……	…	...						0	

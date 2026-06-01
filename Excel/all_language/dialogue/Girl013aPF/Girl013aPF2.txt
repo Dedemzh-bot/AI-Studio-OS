@@ -1,0 +1,162 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	咕咕咕——咕咕——	咕咕咕——咕咕——	クゥーー、クゥー、クゥーー	꾸꾸꾸… 꾸꾸…	*chirp—* *chirp—*						0	
+2	我们战斗的声响惊扰起一群在附近楼顶驻足的飞鸟，它们在天空中盘旋了几圈后便又向着前方深水区飞去。	我們戰鬥的聲響驚擾起一群在附近樓頂駐足的飛鳥，它們在天空中盤旋了幾圈後便又向著前方深水區飛去。	私たちの戦闘音が、近くの建物に止まっていた鳥の群れを驚かせたようだ。彼らは空中で何度か旋回したあと、深海エリアに向けて飛び去った。	우리의 전투 소리가 부근의 옥상에서 머물러 있는 한 무리의 새들을 놀라게 했고 그 새들은 하늘에서 몇 바퀴를 맴돌다가 다시 전방의 심수 구역을 향해 날아갔다.	The sound of our fighting disturbed a group of birds perched on a nearby roof. They circled around in the sky a few times before flying toward the Drowned Sections up ahead.						0	
+3	哦，看样子污染浓度确实降低了。	哦，看起來汙染濃度確實降低了。	汚染が確実に減少しているようだな。	오, 확실히 오염 농도가 낮아진 것 같네.	Wow, looks like the Titagen contamination really has decreased.						0	
+4	但是，那里的污染浓度依旧比外围的要高……为什么非要往那里飞呢？	但是，那裡的汙染濃度依舊比外圍的要高……為什麼非要往那裡飛呢？	それでも、深海エリアの汚染は外周部よりひどいみたい……なんでわざわざそんな場所に飛んで行くのかな？	그래도 여전히 오염 농도가 외곽보다 높아요… 근데 왜 굳이 그곳으로 날아갈까요?	But it's still worse than the surrounding areas... Why are they flying there?						0	
+5	的确，可能是因为那是它们曾经生活过的地方吧。	的確，可能是因為那是它們曾經住過的地方吧。	そこが彼らにとって、かつて暮らしていた場所だったのかもしれないな。	그러게, 그들이 살던 곳이라서 그런 가봐.	You're right. Maybe it's because they used to live there.						0	
+6	哎？	哎？	え？	네?	Huh?						0	
+7	捏了捏少女的脸蛋，我踏上了连接着两栋高楼的连廊。	捏了捏少女的臉蛋，我踏上了連接著兩棟高樓的連廊。	私は彼女のほっぺを軽くつねった後、二棟の建物に繋がる渡り廊下に向かった。	소녀의 뺨을 주물렀고, 나는 두 빌딩이 연결된 복도에 발을 디뎠다.	I pinched the girl's cheek before stepping into the corridor connecting two tall buildings.						0	
+8	越过这栋楼之后，我们就要进入深水区了，虽然污染浓度较之前有所下降，但还是不能掉以轻心。	越過這棟大樓之後，我們就要進入深水區了，雖然汙染濃度跟之前比略有下降，但還是不能掉以輕心。	この建物を超えたら深海エリアだ。前より汚染が減っているとは言え、油断はするなよ。	이 건물을 넘으면 심수 구역에 진입해, 오염 농도가 이전보다 낮아졌지만 안심할 수 없어.	After passing through that building, we would be in the Drowned Sections. Although the Titagen contamination had lessened, we still couldn't let our guard down.						0	
+9	我一定会好好利用这身“瞬刻”的。	我一定會好好利用這身「瞬刻」的。	うん。「刹那」を使いこなして見せるよ。	전 반드시 이 '크샤나'를 잘 활용할 것입니다.	I'll definitely put "Ksana" to good use.						0	
+10	少女轻抚胸口，随后举起了力场幕，迈步走到了我的身前。	少女輕撫胸口，隨後舉起了力場幕，邁步走到了我的身前。	彼女は軽く胸を撫でおろすと、「フォース」を構え、私の前に出た。	소녀는 가슴을 가볍게 어루만지더니 포스 필드를 들고 내 앞에 나타났다.	The girl softly stroked her chest, raised her force-field screen, and stepped in front of me.						0	
+11	分析员，后面就由我来开路吧。	分析員，後面就由我來開路吧。	分析員。ここからは、私が先行するね。	분석가님, 뒤에는 제가 길을 터드릴게요.	Adjutant, let me lead the way.						0	
+12	…………	…………	…………	……	...						0	
+13	然而，即便是污染浓度降低，深水区依旧是深水区……	然而，即便是汙染濃度降低，深水區仍是深水區……	汚染が減ったとはいえ、深海エリアは深海エリアのままだった。	하지만 오염 농도가 낮아져도 심수 구역은 여전히 위험한 곳이다…	Even though the contamination had decreased, the Drowned Sections were still the Drowned Sections...						0	
+14	迈入真正的禁区，映入我们眼帘的是被巨大晶体和树枝撕裂的街道与楼宇。	邁入真正的禁區，映入我們眼簾的是被巨大晶體和樹枝撕裂的街道與建築。	本格的に立入禁止区域に踏み入ると、巨大な結晶体と枝によって裂かれた道路や建物が目に入った。	진짜 금지 구역에 들어서자 거대한 수정과 나뭇가지로 찢어진 거리와 건물들이 눈에 들어왔다.	After entering the Containment Zone proper, we were greeted by streets and buildings decimated by massive crystals and Tree branches of Titagen.						0	
+15	宛若骨灰般飘落的白色雪花，宛为这个死气沉沉的世界渲染上了一抹更为冰冷的灰。	宛若骨灰般飄落的白色雪花，宛為這個死氣沉沉的時間渲染上了一抹更為冰冷的灰。	舞い落ちる骨灰のような雪が、陰鬱な空間を更に冷たい色に染めあげていた。	재처럼 흩날리는 하얀 눈송이가 살풍경한 이 시간을 더욱 처참하게 물들인다.	White "snow" fell like ash, only serving to make this morbid setting all the more cold and lifeless.						0	
+16	明明已经不是第一次来这里了，但是心中还是不免泛起一丝悲凉……而瑟瑞斯的反应，似乎也比我预想中的要更糟糕些。	明明已經不是第一次來這裡了，但是心中還是不免泛起一絲悲涼……而瑟瑞斯的反應，似乎也比我預想中的要更糟糕些。	初めて来たわけではないのに、それでも悲しい気持ちになる。シーリスの反応も、予想していたよりも深刻なようだった。	여기 처음 온 것도 아닌데 괜히 마음이 서글프다… 세리스의 반응도 내가 예상했던 것보다 더 안 좋은 것 같다.	It wasn't even close to the first time I'd been there, but I couldn't help a sad sensation from clawing its way into my heart... Siris' reaction was also worse than I had anticipated.						0	
+17	唔……	唔……	うっ……	윽…	Ah...						0	
+18	打起精神，瑟瑞斯，还有两公里，我们很快就要抵达目的地了。	打起精神，瑟瑞斯，還有兩公里，我們很快就要抵達目的地了。	しっかりしろ、シーリス。目的地まであと2キロだ。	정신 차려, 세리스. 이제 2km 남았어, 곧 목적지에 도착할 거야.	It's alright, Siris. Just two more kilometers. We'll be there soon.						0	
+19	我没事，只是有点头晕…晕……	我沒事，只是有點頭暈……暈……	大丈夫だよ。ただ、少しめまいが……	전 괜찮아요, 그냥 좀 어지러워요…	I'm okay. I'm just feeling a little... dizzy...						0	
+b-1											0	
+20	托住倾倒的瑟瑞斯	托住傾倒的瑟瑞斯	倒れそうになるシーリスを支える	쓰러진 세리스를 받쳐준다.	Support Siris						0	
+21	如果撑不住的话，要早点和我说。	如果撐不住的話，要早點跟我說。	耐えられなくなったら、すぐ教えるんだぞ。	너무 힘들면 바로 나한테 말해.	If you're feeling too weak, you should tell me sooner.						0	
+22	嗯，我还能继续……请不要担心，嘿嘿。	嗯，我還能繼續下去……請不要擔心，嘿嘿。	大丈夫だから。まだいける……心配しないで。えへへ。	네, 전 괜찮아요… 걱정하지 마세요, 헤헤.	Yeah, I can keep going... Please don't worry, hehe...						0	
+23	与脸蛋不符，她是个要强的少女，在任务中总是尽力避免让我看到她那脆弱的一面，总是习惯性用那标志性的傻笑掩盖一切。	與臉蛋不符，她是個要強的少女，在任務中總是盡力避免讓我看到她那脆弱的一面，總是習慣性用那標誌性的傻笑掩蓋一切。	彼女はその可愛らしい顔立ちからは想像できないぐらい、負けず嫌いな性格だ。任務中の彼女はいつだって自分の弱いところを私から隠すために、そのにへら顔で誤魔化そうとするのだ。	그녀는 보기와는 달리 임무 수행 중에도 연약한 모습을 보이지 않으려고 항상 최선을 다하는 강인한 소녀였고, 항상 트레이드마크인 바보 같은 웃음으로 모든 것을 덮어버리는 습관이 있다.	Despite her appearance, she was a strong girl who always tried her best to prevent me from seeing her fragile side during missions. She hid everything behind that giggle of hers.						0	
+24	当然，虽然她嘴上这么说，但还是下意识地贴近了我几分。	當然，雖然她嘴上這麼說，但還是下意識地貼近了我幾分。	それでも今回ばかりは、彼女もできるだけ私から離れないように注意しているようだった。	물론 그녀는 그렇게 말하면서도 무의식적으로 내게 기댔다.	Of course, even though she said that, she involuntarily moved closer to me.						0	
+25	就这样，一前一后的两人在遍布污染的深水区慢慢前行。	就這樣，一前一後的兩人在遍佈汙染的深水區慢慢前進。	こうして、私たちは所々汚染が見られる深海エリアをゆっくり進んだ。	그렇게 두 사람은 오염된 심수 구역으로 천천히 걸어갔다.	With that, we slowly trudged forward through the contaminated Drowned Sections, one in front of the other.						0	
+26	明明只有两公里的路却好似被拉长了好几倍，半小时后我们终于抵达了目的地——一座宛若荒野上的腐躯般支离破碎的公寓。	明明只有兩公里的路卻好像被拉長了好幾倍，半小時後我們終於抵達了目的地——一座宛若荒野上的腐軀般支離破碎的公寓。	たった2キロの道のりが、何倍もの長さに感じられた。30分後、私たちはようやく目的地に到着した。そこには、すでに原型を留めていない一棟のマンションがあった。まるで荒野に横たわる死体のようだ。	분명 2km밖에 안 되는 거리가 몇 배로 늘어난 듯하더니 30분 만에 황야의 썩은 몸처럼 산산조각 난 아파트에 도착했다.	The path was only two kilometers long, but it felt so much longer. After half an hour, we finally arrived at our destination — a decrepit apartment that looked like a corpse rotting in the wilderness.						0	
+27	怎么样~回家的路有好好记住吗？	怎麼樣~回家的路有好好記住嗎？	どう？お家までの道、ちゃんと覚えた？	어때~ 집 가는 길 잘 기억하고 있지?	So~? Do you remember the way home?						0	
+28	唔……对不起妈妈，我好像又忘了……	嗯……對不起媽媽，我好像又忘了……	ごめんなさい、お母さん……また忘れちゃって……	윽… 엄마 미안해요, 제가 또 잊어버린 것 같아요…	Um... Sorry, Mother. I think I forgot again...						0	
+29	哈哈哈，没事没事哦，那妈妈就再陪你走一遍吧~来，握住妈妈的手。	哈哈哈，沒事沒事哦，那媽媽就再陪你走一遍吧~來，握住媽媽的手。	大丈夫よ。お母さんがもう一度教えてあげるわ。さあ、お母さんと手を繋いでいこ？	하하하 괜찮아 그럼 엄마가 다시 함께 가줄 게~ 자 엄마 손 잡아.	Haha, that's okay! Mother will walk home with you again~ C'mon, hold my hand.						0	
+30	嗯！	嗯！	うん！	네!	Okay!						0	
+31	（这是幻觉……还是我的记忆……）	（這是幻覺……還是我的記憶……）	（これは幻覚？それとも私の記憶？）	(이건 환각인가… 아니면 내 기억인가…)	(Is this an illusion... or a memory...?)						0	
+32	（没想到，家附近已经变成这样了……）	（沒想到，家附近已經變成這樣了……）	（まさか、昔住んでた家がこんな風になってるなんて……）	(살던 동네가 이런 모습으로 변했다니…)	(I had no idea my old neighborhood would look like this...)						0	
+33	（不对不对！不能沉溺在这些幻象中！当下我要集中注意力，集中注意力……）	（不對不對！不能沉溺在這些幻像中！當下我要集中注意力，集中注意力……）	（ダメ！幻覚に惑わされちゃダメだよ！集中、集中しないと……）	(안 돼, 안 돼! 이런 환상에 현혹되면 안 돼! 지금은 집중하고 또 집중해야 해요…)	(No! I can't get absorbed in these illusions! I need to focus. Focus, Siris...)						0	
+34	似乎是先要把脑海中蹦出的那些画面甩掉般，少女用力甩了甩头，随后便准备伸腿进入公寓。	似乎是要先把腦海中蹦出的那些畫面甩掉一樣，少女用力甩了甩頭，隨後便準備伸腿進入公寓。	脳裏に浮ぶ光景を追い払うように、シーリスは力強く頭を振ると、そのままマンションに踏み込もうとした。	소녀는 머릿속에서 튀어나오는 장면을 뿌리치기라도 하듯 머리를 힘껏 흔든 뒤 아파트 안으로 발을 들여놓으려 했다.	The girl shook her head vigorously, seemingly trying to rid her mind of these images. She then prepared to take her first step into the apartment.						0	
+35	等等，瑟瑞斯，做好潜入准备，把力场幕收起来。	等等，瑟瑞斯，做好潛入準備，把力場幕收起來。	待って、シーリス。潜入準備をしてくれ。「フォース」はしまうんだ。	잠깐, 세리스, 잠입 준비를 해야 해, 포스 필드를 거둬.	Wait, Siris. We need to go stealth. Put away your force-field screen.						0	
+36	哎？潜入……啊，我明白了。	哎？潛入……啊，我明白了。	え？潜入って……あ、うん、わかった。	앗? 잠입이요… 네, 알겠습니다.	Huh? Sneak in...? Ah, I get it.						0	
+37	她很善于观察，也很聪明，很快就理解了我的意思。	她很善於觀察，也很聰明，很快就理解了我的意思。	聡明な彼女は、すぐに私の意図を汲んでくれたようだった。	그녀는 관찰에 능하고 똑똑해서 내 말을 금방 이해할 수 있다.	Both observant and intelligent, Siris knew what I meant right away.						0	
+38	抬头望去，残破的楼宇间隐隐约约闪过了几只异化人的身影，很明显，这栋公寓楼似乎已经变成了他们的据点。	抬頭望去，殘破的樓宇間隱隱約約閃過了幾隻異化人的身影，很明顯，這棟公寓樓似乎已經變成了他們的據點。	顔を上げると、廃墟の中に変異者の影をいくつか見ることができた。この建物は既にやつらの拠点になっているようだ。	고개를 들어 보니 무너져가는 건물 사이로 소외된 몇 명의 변이자가 희미하게 보였다. 아파트 건물이 그들의 거점으로 변한 것이 분명했다.	Looking up, we spotted several Changed seemingly ducking between the abandoned buildings. It was clear that this apartment building was some sort of base for them.						0	
+39	走电梯井的应急爬梯上去，不要惊扰那些家伙，找到录音笔后就撤退。	走電梯井的緊急爬梯上去，不要驚擾那些傢伙，找到錄音筆後就撤退。	エレベーターシャフトにある非常用のハシゴを使おう。奴らを刺激しないように気を付けるんだ。ボイスレコーダーを見つけ次第撤退するぞ。	엘리레이터 수직 통로 비상 계단을 타고 올라가서 녹음펜만 찾고 철수하자고, 저들을 놀래지 말고.	Head up the emergency ladder in the elevator shaft. Try not to alert them. Withdraw as soon as you find the recorder pen.						0	
+40	好在正如我所预料般，电梯井这种极限垂直空间中并没有异化人的活动痕迹。	好在正如我所預料般，電梯井這種極限垂直空間中並沒有異化人的活動痕跡。	幸い、私の予想は的中した。エレベーターシャフトの縦長の空間には、変異者が活動している痕跡はなかった。	다행히 내가 예상했던 대로 이런 극한의 수직 공간에는 변이자의 활동 흔적이 없었다.	Fortunately, there were no signs of Changed in the vertical elevator shaft as I'd predicted.						0	
+41	就这样，我们顺利抵达了瑟瑞斯过去的家。	就這樣，我們順利抵達了瑟瑞斯過去的家。	そうして、私たちは無事シーリスの昔の家にたどり着くことができた。	그렇게 우리는 세리스가 과거에 살던 집에 무사히 도착했다.	With that, we made our way to Siris' old home.						0	
+42	推开房门，回应我们的是一份被凝固的寂静。	推開房門，回應我們的是一份被凝固的寂靜。	ドアを開けると、時が停まったような静寂が私たちを迎えてくれた。	방문을 열고 우리를 맞이한 건 얼어붙은 고요함이었다.	When we opened the door, we were met by a chilling silence.						0	
+43	烟尘在透过残垣断壁的阳光中飞舞，回忆也在此刻再次不自觉地翻涌起来。	煙塵在透過殘垣斷壁的陽光中飛舞，回憶也在此刻再次不自覺地翻湧起來。	壊れた壁の隙間から差し込む陽の光の中で、ホコリが踊っていた。その光景に、かつての記憶が溢れ出した。	잔해 사이로 비치는 햇살에 연기가 춤을 추고, 이 순간 기억이 또다시 무의식적으로 스쳐 지나갔다.	Smoke and dust hung in the sunlight that shone through the destruction, and more memories began to surface.						0	
+44	好香啊妈妈，饭已经煮好了吗？！	好香啊媽媽，飯已經煮好了嗎？！	わあ～いい匂い！お母さん、もうご飯できたの？	맛있는 냄새가 나요, 밥 다 됐나요, 엄마?！	It smells so good, Mother! Is the rice done cooking!?						0	
+45	哦~你今天回来得特别早呢，瑟瑞斯。	喔~你今天回來得特別早呢，瑟瑞斯。	あら～、今日は帰りが早いのね、シーリス。	오~ 너 오늘 엄청 일찍 돌아왔구나, 세리스.	Ah~ You're back so early today, Siris.						0	
+46	嗯嗯！因为我考了一百分，想早点让妈妈知道，所以就跑步回来了~	嗯嗯！因為我考了一百分，想快點讓媽媽知道，所以就跑回來了~	うん！今日は試験で満点を取ったから、早くお母さんに知らせたくて、走って帰ってきたんだ～！	그럼요! 저 100점 맞았거든요, 얼른 엄마한테 알리고 싶어서 달려왔죠~	Yep! I ran all the way here because I scored a 100 on my test, and I wanted to tell you right away~						0	
+47	又是一百分吗？！哇，太好了~好！我一会儿就下楼去买个冰淇淋庆祝一下！	又是一百分嗎？！哇，太好了~好！我等一下就下樓去買冰淇淋慶祝一下！	まあ！満点なんてすごいわね！ご褒美として、アイスを買ってあげるわ！	또 100점?! 와 너무 장하다~ 좋아! 이따가 아래층에 내려가서 아이스크림 사서 축하해줄게!	100 again!? Wow, that's wonderful~ I'll head downstairs and buy some ice cream to celebrate!						0	
+48	手牵手一起去吧！	手牽手一起去吧！	やった～！お母さんと一緒に買いに行ってもいい？	손잡고 함께 가요!	Let's hold hands and go together!						0	
+49	（又是过去的记忆……）	（又是過去的記憶……）	（また、あの頃の記憶……）	(또 과거의 추억이야…)	(Another memory from my past...)						0	
+50	瑟瑞斯……	瑟瑞斯……	シーリス……	세리스…	Siris...						0	
+51	在，分析员，抱歉，我刚刚又走神了。	在，分析員，抱歉，我剛剛又分心了。	あ、はい、分析員。ごめんなさい、またボーっとしちゃって。	분석가님, 죄송해요, 방금 또 정신을 팔렸네요.	I'm here. Sorry, Adjutant. I spaced out again.						0	
+52	少女拍了拍自己的脸蛋，随后又朝着我吐了吐舌头。	少女拍了拍自己的臉蛋，接著又朝我吐了吐舌頭。	シーリスは自分の頬を叩き、照れ笑いを浮かべてみせた。	소녀는 뺨을 두드리더니 나를 향해 혀를 내밀었다.	The girl patted her face and stuck out her tongue at me.						0	
+53	我还是来找录音笔吧，真伤脑筋……明明是生活过的地方，但是好像一点印象都没有了。	我還是來找錄音筆吧，真傷腦筋……明明是生活過的地方，但是好像一點印象都沒有了。	ボイスレコーダーを探さなくちゃね。でも困ったな……昔住んでいたところなのに、なにも覚えてないや。	녹음펜을 찾아올게요, 정말 골치 아프네요… 분명 살았던 곳인데 기억이 하나도 없네요.	I should look for the recorder pen. This is so nerve-wracking... I obviously used to live here, but I don't have any memory of it.						0	
+54	语毕，她转过身去，双手叉腰，别扭地将头高高昂起。	語畢，她轉過身去，雙手叉腰，彆扭地將頭高高昂起。	そう言いながら、彼女は私に背を向け、顔を上に向けていた。	말을 마치자 그녀는 돌아서서 두 손을 허리에 짚고 어색하게 머리를 쳐들었다.	After saying this, she turned around, placed her hands on her hips, and raised her head awkwardly.						0	
+55	……	……	……	…	...						0	
+b-2											0	
+56	上前，抱住她	上前，抱住她	彼女を後ろから抱きしめる。	그녀를 안아준다.	Move forward and hug her						0	
+57	我刚刚说过了吧，如果撑不住的话，要随时和我说。	我剛剛說過了吧，如果撐不住的話，要隨時跟我說。	だから言っただろ？耐えられなくなったら、すぐ教えてくれって。	내가 아까 말했지, 버티지 못하면 언제든 나한테 말해.	I just told you — if you're feeling too weak, tell me.						0	
+58	哎……	哎……	あ……	휴…	Agh...						0	
+59	稍等一下，我来处理一下你体内积攒的泰坦物质……	稍等一下，我來處理一下你體內累積的泰坦物質……	少し待ってくれ。君の体内に溜まっているタイタン物質を処理しておくよ。	잠시만, 네 몸에 쌓인 타이탄 물질부터 처리할게…	Hold on. Let me take care of the Titagen in your body...						0	
+b-3											0	
+60	收紧手臂，吸收泰坦污染	收緊手臂，吸收泰坦汙染	腕に力を入れて、タイタン汚染を吸収する	팔을 조여 타이탄 오염을 흡수한다.	Tighten your embrace to absorb the Titagen contamination						0	
+61	唔嗯……	唔嗯……	んん……	으윽…	Huh...						0	
+62	几分钟后，随着污染被提出，少女的身体猛然一紧。但很快便又松弛了下来。	幾分鐘後，隨著汙染被提出，少女的身體猛然一緊。但很快便又鬆弛了下來。	数分後。汚染の吸収が終わると、強張っていたシーリスの体からぐったりと力が抜けるのが分かった。	몇 분 뒤 오염이 추출되면서 소녀의 몸이 갑자기 조여졌지만, 이내 회복됐다.	A few moments later, the girl's body tensed as the contamination was drawn out. She then relaxed soon after.						0	
+63	真是个傻姑娘，总是喜欢做些勉强自己的事。	真是個傻姑娘，總是喜歡做些勉強自己的事。	まったく、何を考えているんだ。いつも無理をして。	바보야, 매번 무리한 일만 골라서 해.	You silly girl. You're always pushing yourself too hard.						0	
+64	什么都瞒不过你呢，分析员……	什麼都瞞不過你呢，分析員……	分析員は何でもお見通しなんだね……	분석가님 앞에선 아무 것도 숨길 수 없군요…	I really can't hide anything from you, Adjutant...						0	
+65	不过也不要小看我哦，我虽然在某些方面有些傻乎乎的，但今天也是拼了命地想要在你心中留下个稳重靠谱的好印象呢。	不過也不要小看我哦，我雖然在某些方面有些傻乎乎的，但今天也是拼了命地想要在你心中留下個穩重靠譜的好印象呢。	それでも、少しぐらいの無理は承知の上だよ。今日は頼りになるところを分析員に見て貰うんだから。	저를 얕보지 마세요, 내가 비록 어떤 면에서는 좀 어리숙하지만, 그래도 오늘도 분석가님 마음속에 듬직하고 믿음직스러운 인상을 남기려고 필사적으로 노력하고 있다고요.	But don't underestimate me. Even though I can be a silly girl, I'm trying my best to look put-together and reliable for you today.						0	
+66	瑟瑞斯在我的怀中转过身来，那张通红的小脸蛋上写满了“认真”两字。	瑟瑞斯在我的懷抱中轉過身來，那張通紅的小臉蛋上寫滿了「認真」這兩個字。	シーリスは私の腕の中で振り向くと、顔を赤くさせながら、真剣な目で私を見つめた。	세리스는 작고 붉은 얼굴에 '심각'이라고 적힌 채 내 품에 안겼다.	Siris turned around in my embrace, her sincerity clearly written on her face.						0	
+67	我很清楚，现在可不是冲你撒娇的时候，我们还是赶快找到录音笔，然后早点回家……啊不，回基地吧！	我很清楚，現在可不是沖你撒嬌的時候，我們還是趕快找到錄音筆，然後早點回家……啊不，回基地吧！	今は甘えてる場合じゃない。早くボイスレコーダーを見つけて、家に……ううん、社員寮に戻らなきゃ！	지금 애교 부릴 때가 아니라는 걸 잘 알고 있어요, 어서 녹음펜을 찾고 나서 일찍 집에… 아니, 숙소로 돌아가야죠!	I know this isn't the time to enjoy your attention. Let's find the recorder pen fast and head back home... Ah! I mean, head back to the Base!						0	
+68	正有此意，不过要先从哪间房开始呢，我看看……	正有此意，不過要先從哪一間開始看呢，我看看……	私も同じ考えだ。でも、どの部屋から探そうか……	그렇긴 한데, 어느 방부터 시작할지 볼게…	I understand, but which room should we start with? Let me see...						0	
+69	啊，就从那间看上去很像是瑟瑞斯房间的房间开始好了。	啊，就從那間看起來很像是瑟瑞斯房間的房間開始好了。	あっ、あの部屋。シーリスの部屋みたいにみえるな。あそこから探そうか。	아, 저기 세리스 방처럼 보이는 방부터 시작할게.	Ah, let's start there. It looks like it was your room, Siris.						0	
+70	哎？等等……等等分析员，要不我们还是先从客厅开始吧！！！	哎？等等……等等分析員，要不要先從客廳開始吧！！！	え？ま、待って！やややっぱり、リビングから探そうよ！！	엇? 잠깐만요… 분석가님, 아니면 거실부터 시작하죠!!	Eh? Wait a second... Adjutant! Why don't we start in the living room!?						0	
+71	嗯……虽然没有找到录音笔，但是收获了瑟瑞斯小时候超可爱的照片，也算是找到了部分回忆，不亏。	嗯……雖然沒有找到錄音筆，但是收穫了瑟瑞斯小時候超可愛的照片，也算是找到了部分回憶，不虧。	ふむ……ボイスレコーダーは見つからなかったけど、シーリスの可愛い子供時代の写真をゲットしたぞ。これもある意味思い出を見つけたということになるな。	음… 녹음펜은 못 찾았지만, 세리스의 어린 시절 귀여운 사진도 보고, 추억도 일부 찾은 셈이니 나쁘지 않네.	Well... I didn't find the recorder pen, but I did find some super cute pictures of you when you were little. That counts as a memory, so we didn't turn up empty-handed.						0	
+72	嗯，但回去之后不许给其他人看哦，分析员。	嗯，但回去之後不准給其他人看哦，分析員。	うん……でも、他の誰にも見せないでね、分析員。	네, 하지만 다른 사람 보여주면 안 돼요, 분석가님.	Alright, just don't show them to anyone after we get back.						0	
+73	当然，这是我们两个人之间的秘密……好，接下来再去书房找找吧。	當然，這是我們兩個人之間的秘密……好，接下來再去書房找吧。	もちろんだ。私たちだけの秘密にしよう。さて、次は作業部屋だな。	그럼, 이건 우리 둘 사이의 비밀이야… 자, 이제 서재를 뒤져보자.	Of course. It will be our secret... Okay, let's look in the study next.						0	
+74	嗯……虽然没有找到录音笔，但是却在门框的刻度条上得知了瑟瑞斯的身高变化情况，也算是找到了部分回忆，不亏。	嗯……雖然沒有找到錄音筆，但是卻在門框的刻度條上得知了瑟瑞斯的身高變化情況，也算是找到了部分回憶，不虧。	ふむ……ボイスレコーダーは見つからなかったけど、ドア枠に刻まれた記録から、シーリスの身長の変化がわかった。これもある意味思い出を見つけたということになるな。	음…. 녹음펜은 찾지 못했지만, 문틀의 눈금줄에서 세리스의 키 높이 변화에 대해 알게 된 것도 추억 일부분을 찾은 셈이니 나쁘지 않네.	Well... I didn't find the recorder pen, but I saw your different heights marked on the door frame. That counts as a memory, so we didn't turn up empty-handed.						0	
+75	呜呜……好沮丧，为什么我到15岁后就不长个子了。	嗚嗚嗚……好沮喪，為什麼我到15歲後就不再長高了。	うう……。なんで15歳から成長が止まっちゃったんだろう。	흑흑… 속상해요, 왜 저는 키가 15살에 멈췄을까요.	Ohhh... How irritating. Why did I stop growing after I turned 15?						0	
+76	嗯，不过与之相对的，从某个角度来说能“永葆青春”还真是令人羡慕……好，接下来再回客厅找找吧。	嗯，不過與之相對的，從某個角度來說能「永葆青春」還真是令人羨慕……好，接下來再回客廳找找吧。	まあ、見方を変えれば若い頃のままってことだし、私は良いことだと思うけどな。さて、次はリビングに行こう。	음, 하지만 그에 비해 '영원히 젊다'라는 게 어찌 보면 부럽기도 해… 자, 이제 다시 거실로 돌아가서 찾아보자.	Look at it this way — lots of people want to be "forever young"... Okay, let's look in the living room.						0	
+77	如此这般，我们几乎找遍了房子的每个角落。	如此這般，我們幾乎找遍了房子的每個角落。	こうして、私たちはすべての部屋を探索した。	이렇게 해서 우리는 거의 집 구석구석을 샅샅이 뒤졌다.	With that, we searched nearly every inch of the house.						0	
+78	虽说也着实收获了不少和瑟瑞斯过去有关的碎片信息，但是却依旧没有找到最为关键的录音笔。	雖說也著實收穫了不少和瑟瑞斯過去有關的碎片訊息，但是卻依舊沒有找到最為關鍵的錄音筆。	シーリスの過去に関する断片的な情報は手に入ったけれど、肝心のボイスレコーダーはまだ見つかっていない。	세리스의 과거와 관련된 단편적인 정보도 적지 않게 입수했지만 정작 가장 중요한 녹음펜은 찾지 못했다.	Even though we found lots of fragments of Siris' past, we still hadn't found the most important item — the recorder pen.						0	
+79	最后，只剩下家中的主卧。	最後，只剩下家中的主臥。	最後は、大きい方の寝室だ。	결국 안방만 남았다.	In the end, only the master bedroom remained unsearched.						0	
+80	这是，妈妈的房间……	這是，媽媽的房間……	ここは、お母さんの部屋だ……	이건 엄마 방이에요…	This was Mother's room...						0	
+81	提起家人，瑟瑞斯的情绪难免又低落了下来。根据以往的档案得知，降临事件中，她的母亲也在会场附近……	提起家人，瑟瑞斯的情緒難免又低落了。根據以往的檔案得知，降臨事件中，她的母親也在會場附近……	家族のことを思い出すと、シーリスはまた元気を失ってしまった。昔見たファイルによると、降臨事件の時、彼女の母親も会場の近くにいたようだ……	가족 얘기가 나오자 세리스는 다시 우울해졌다. 과거 기록에 따르면 강림사건 당시 그녀의 어머니도 회의장 근처에 있었다…	Siris immediately grew sad when she mentioned her mother. Based on the files I read before, I knew her mom was near the Valkyrie Games venue during the Descent...						0	
+82	嗯，她是一位既温柔又充满活力的母亲。	嗯，她是一位既溫柔又充滿活力的母親。	そうだな。優しくて元気なお母さんに見えた。	응, 그녀는 부드럽고 활기찬 분이셨어.	She was such a tender mom, so full of life.						0	
+83	哎？分析员是怎么知道的？	哎？分析員是怎麼知道的？	え？なんで知ってるの？	네? 분석가님이 어떻게 아세요?	Huh? How do you know that, Adjutant?						0	
+84	因为刚刚在吸收你体内的泰坦物质时，看到了部分回忆片段。	因為剛剛在吸收你體內的泰坦物質時，看到了部分回憶片段。	さっき君の体内からタイタン物質を吸収したとき、記憶の一部を見たんだ。	방금 네 몸속에 있는 타이탄 물질을 흡수하면서 추억의 파편을 보았어.	Because I saw some fragmented memories when I absorbed the Titagen in your body.						0	
+85	瑟瑞斯，抬起头来吧，她一定也希望你能笑着回家。	瑟瑞斯，抬起頭來吧，她一定也希望你能笑著回家。	さあ、顔を上げて、シーリス。お母さんもきっと、君の笑顔が見たいはずだよ。	세리스, 고개 들어, 그녀도 네가 웃으며 집에 가기를 바랄 거야.	Siris, keep your chin up. I'm sure she wants you to come home with a smile.						0	
+86	嗯，我会的哦……	嗯，我會的哦……	うん、そうする……	네, 그럴게요…	Yeah, I will...						0	
+87	房门发出低鸣，以此来回应这位小主人的归家。	房門發出低鳴，以此回應這位小主人的歸家。	部屋のドアが軋む。幼き家主の帰還を祝っているようだった。	이 젊은 주인이 집으로 돌아오자 방의 문이 낮은 울음소리를 내며 응답했다.	As she pushed the door open, it creaked in response to Siris' return.						0	
+88	我回来了妈妈……	我回來了媽媽……	ただいま、お母さん……	엄마, 저 돌아왔어요…	I'm home, Mother...						0	
+89	在短暂的招呼后，瑟瑞斯便开始了寻觅。	在短暫的招呼後，瑟瑞斯便開始了尋覓。	短い挨拶の後、シーリスはボイスレコーダーを探し始めた。	짧은 인사를 나눈 뒤 세리스는 녹음펜을 찾기 시작했다.	After offering a brief greeting, Siris began to search the room.						0	
+90	不出一会儿，我们便在书柜上发现了它——	短短一陣子，我們便在書櫃上發現了它——	しばらくすると、私たちは本棚でそれを見つけた。	얼마 지나지 않아, 우리는 책장에서 그것을 발견했다…	Shortly after, we found it on the bookcase...						0	
+91	那根装有瑟瑞斯过去记忆的录音笔。	那根裝有瑟瑞斯過去記憶的錄音筆。	シーリスの思い出が詰まっているボイスレコーダーだ。	세리스의 과거 기억이 담긴 그 녹음 펜.	The recorder pen that contained Siris' memories.						0	
+92	终于找到了……	終於找到了……	やっぱりあった……	드디어 찾았네요…	We finally found it...						0	
+93	少女紧紧握住了那支录音笔，长长地舒了一口气。	少女緊緊握住了那支錄音筆，長長地舒了一口氣。	シーリスはボイスレコーダーを握りしめながら、安堵の溜息をもらした。	소녀는 그 녹음펜을 꽉 쥐고 긴 안도의 한숨을 내쉬었다.	The girl gripped the pen tightly and let out a long sigh of relief.						0	
+94	（知道了抵御遗忘的方法后，就不会再……）	（知道了抵禦遺忘的方法後，就不會再……）	（物忘れ対策の方法さえ分かれば、もう二度と……）	(망각을 극복하는 방법을 안 후, 다시는…)	(After I learn how to avoid forgetting things, I'll never...)						0	
+95	分析员？！	分析員？！	分析員！？	분석가님?!	Adjutant!?						0	
+96	站在那里，别动！	站在那裡，別動！	そこでじっとしていろ！	거기 서 있어, 움직이지 마!	Stay there! Don't move!						0	
+97	房屋突然开始剧烈地晃动起来，在安顿好瑟瑞斯后，我急忙跑向最近的窗户。	房子突然開始劇烈地晃動起來，在安頓好瑟瑞斯後，我急忙跑向最近的窗戶。	部屋が激しく揺れ始めた。シーリスに指示を出すと、私は急いで一番近くの窓へと向かった。	갑자기 집이 심하게 흔들리기 시작했고, 세리스를 안정시킨 후 나는 가장 가까운 창문으로 급히 달려갔다.	The house suddenly began to shake violently. After making sure Siris was safe, I rushed over to the nearest window.						0	
+98	原来如此……是陷阱吗？从踏入深水区开始，我们就被那棵树盯上了啊。	原來如此……是陷阱嗎？從踏入深水區開始，我們就被那棵樹盯上了啊。	そうか……罠だったのか。深海エリアに踏み入った瞬間から、あのデンドロンに目をつけられていたというわけだ。	그렇군… 함정인가요? 깊은 물에 발을 디딜 때부터 우리는 그 나무의 표적이 됐다.	So... it had been a trap all along? The Tree had been watching us from the moment we stepped into the Drowned Sections.						0	
+99	在我们正在房间内翻找录音笔时，粗壮的白色枝干早已悄悄攀满了整个楼体……而它们现在，似乎正在某种意志的操控下开始紧缩，想要将整栋楼层拦腰截断。	當我們正在房間內翻找錄音筆時，粗壯的白色枝幹早已悄悄攀滿了整個樓體……而它們現在，似乎正在某種意志的操控下開始緊縮，想要將整棟樓層攔腰截斷。	私たちがボイスレコーダーを探している間に、白い枝が建物に巻きついていた。その枝は何かの意志に操られているように、建物を真ん中から切断しようときつく締め上げていたのだ。	우리가 방안에서 녹음펜을 뒤지고 있을 때, 굵고 하얀 줄기는 이미 조용히 건물 전체를 덮고 있었다… 그들은 지금 어떤 의지에 의해 전체 건물을 허리를 자르려는 것 같다.	As we were searching for the recorder pen, the thick, white branches had already snaked up the side of the building... Now, they were seemingly squeezing it, attempting to break off the entire floor.						0	
+100	这是在永恒乐土事件后，第一次观测到零区内的树如此活跃。	這是在永恆樂土事件後，第一次觀測到零區內的樹如此活躍。	エターナルパラダイス事件以来、エリアゼロ内でこれほど活発なデンドロンを見るのは初めてだった。	제로 구역에서 나무가 이처럼 활발하게 활동하는 건 '영원한 낙원' 사태 이후 처음인 것 같다.	It was the first time since the eternal promised land incident that the Tree in Containment Zone Aleph had been so active.						0	
+101	瑟瑞斯，做好突围准备，我们到楼顶上去。	瑟瑞斯，做好突圍準備，我們到樓頂上去。	シーリス、突破する準備をしてくれ。屋上に出るぞ。	세리스, 포위를 뚫을 준비 해, 옥상으로 올라가자.	Siris, get ready to fight our way out of here. Let's get to the roof.						0	
+102	是！	是！	はい！	네!	Got it!						0	
+103	少女在接到指令后立马便进入了状态，她收起录音笔，展开了力场幕。	少女在接到指令後立刻進入了狀態，她收起錄音筆，展開了力場幕。	指示を受けると、シーリスはすぐ戦闘態勢に切り替わった。彼女はボイスレコーダーを片付け、「フォース」を展開した。	지령을 받은 소녀는 바로 컨디션에 들어갔고 녹음펜을 접은 채 힘찬 포스 필드를 펼쳤다.	Siris immediately snapped into combat mode after hearing my order. She put away the recorder pen and pulled out her force-field screen.						0	
+104	——！！	——！！	——！！	…!!	—!!						0	
+b-4											0	
+105	抽枪射击	拔槍射擊	銃で撃つ	총으로 사격한다.	Draw and shoot						0	
+106	啧，这帮家伙跑过来了……	嘖，這幫傢伙跑過來了……	チッ。しつこいやつらに狙われたな……	쯧, 녀석들이 덮쳐오네…	Tch, those guys are running over here...						0	
+107	抱歉，接下来可能要在瑟瑞斯家里大闹一场了。	抱歉，接下來可能要在瑟瑞斯家裡大鬧一場了。	すまないが、シーリスの実家を荒らすことになりそうだ。	세리스가 살던 집에서 한바탕 소란을 피워야 할 것 같네, 미안.	Sorry, things might get messy at your house, Siris.						0	
+108	没问题，等下次有空了，再让分析员陪我回来打扫一下就好。	沒問題，等下次有空了，再請分析員陪我回來打掃就好。	大丈夫だよ！今度来たときは、お掃除手伝ってね。	괜찮아요, 이제 시간날 때 분석가님 저와 함께 청소하러 와줘요.	It's alright. We can come back and clean it up together later.						0	
+109	呵呵呵，那么我们就……	呵呵呵，那我們就……	はは、わかったよ。じゃあ……	하하하, 그럼 이제…	Hahaha, then...						0	
+110	一起冲吧！	一起衝吧！	行こう！	공격 개시!	Let's go!						0	
+111	不断射击，不断前进。	不斷射擊，不斷前進。	敵を撃退しながら、前に進む。	쉼 없이 사격하고 끊임없이 전진한다.	We continued to shoot, constantly pushing forward.						0	
+112	在瑟瑞斯的护盾支援下，我击毙的异化人尸体渐渐在身后堆成了一座小山。	在瑟瑞斯的護盾支援下，我擊斃的異化人屍體漸漸在身後堆成了一座小山。	シーリスがシールドを張ってくれたお陰で、私が撃ち抜いた変異者の死体が小山みたいに積みあがっていった。	세리스의 실드 지원으로 내가 처치한 변이자의 시신은 점차 산처럼 쌓였다.	With the help of Siris' screen, the bodies of the Changed I defeated were piling up behind us.						0	
+113	光亮就在眼前，就差数十米，我们就能突破这片钢铁丛林。然而……	光亮就在眼前，就差數十公尺，我們就能突破這片鋼鐵叢林。然而…	あとちょっとだ。あと数十メートルで、この鋼鉄の森から脱出できる。しかし……	고지가 눈앞이다. 이제 수십 미터만 전진하면, 이 강철 정글을 돌파할 수 있다. 그러나…	We could see the light up ahead, only steps away. We just needed to break through the steel jungle. However...						0	
+114	唔……	唔……	うっ……	윽…	Ah...						0	
+115	因为树的缘故，周遭的泰坦污染浓度陡然上升。	因為樹的緣故，周圍的泰坦汙染濃度陡然上升。	しかし、デンドロンのせいで、周囲のタイタン汚染は一層濃くなりつつあった。	나무 때문에 주변의 타이탄 오염 농도가 급상승했다.	Due to the Tree's increased activity, the Titagen contamination in the surrounding area had skyrocketed.						0	
+116	又是神格侵蚀吗……瑟瑞斯，再忍耐下，我马上就带你离开这里。	又是神格侵蝕嗎……瑟瑞斯，再忍耐下，我馬上就帶你離開這裡。	神格侵蝕になったらまずいな……シーリス、もう少しの辛抱だ。すぐにここから脱出できるぞ。	또 만트라 침식이야… 세리스, 조금만 참아, 내가 바로 널 여기서 데리고 나갈게.	Are you getting Flooded again...? Siris, hold on just a little longer. I'll get you out of here right away.						0	
+117	很快，我们便来到了楼顶——和预想中的一样，树枝暂时还没有蔓延上来。	很快，我們便來到了樓頂——和預想中的一樣，樹枝暫時還沒有蔓延上來。	しばらくすると、私たちは屋上に出た。予想通り、枝はまだ屋上まで伸びてきていない。	얼머 지나지 않아 우리는 옥상에 도착했다… 예상대로 나뭇가지가 아직 여기까지 퍼지지 않았다.	Soon, we made it to the roof. As I expected, the branches hadn't spread there yet.						0	
+118	瑟瑞斯，身体还撑得住吗？	瑟瑞斯，身體還撐得住嗎？	シーリス。体は大丈夫か？	세리스, 괜찮겠어?	Siris, can you still hang in there a bit longer?						0	
+119	嗯，我可以的，分析员，需要我做什么吗？	嗯，我可以的，分析員，需要我做什麼嗎？	うん、大丈夫だよ。何をすればいい？	네, 버틸 수 있어요. 분석가님, 제가 뭘 도와드릴까요?	Yeah, I can. Adjutant, what do you need me to do?						0	
+120	少女挤出一丝微笑，眼里满是疲惫……	少女擠出一絲微笑，眼裡滿是疲憊……	シーリスは勝気な笑顔をみせた。けれどその目からは、すでに疲れの色が見えている……	소녀가 피곤에 지친 눈빛으로 미소를 짓고 있다…	The girl forced a smile, looking at me with exhausted eyes...						0	
+121	我们要跳到对面的那栋还没有被树缠上的楼的楼顶，然后从那栋楼下到地面。	我們要跳到對面的那棟還沒有被樹纏上的樓的樓頂，然後從那棟樓下到地面。	まだデンドロンの枝に絡まれていない建物に飛び移るぞ。そこから地面に降りる。	이제 우리는 나무에 휘감기지 않은 맞은편 건물 옥상으로 뛰어오른 다음 그 건물에서 지상으로 내려가야 한다.	We need to jump over to that building across the way. The Tree hasn't got to it yet. We can get down from there.						0	
+122	嗯，我明白，那分析员先跳，我来帮你断后。	嗯，我明白，那分析員先跳，我來幫你斷後。	わかった。分析員は先に行ってて、私は敵の様子を見てからいくよ。	알겠어요, 그럼 분석가님이 먼저 뛰면 제가 뒤를 따라갈게요.	Okay, I got it. You jump first, Adjutant. I'll cover you.						0	
+123	不。	不。	いや。	아니.	No.						0	
+124	我将瑟瑞斯迎面抱起，随后用随身携带的束带搭建了一个简易的前抱式背带。	我將瑟瑞斯迎面抱起，接著用隨身攜帶的束帶搭建了一個簡易的前抱背帶。	私はシーリスを抱き上げ、携帯していたベルトで彼女の体を私に固定した。	나는 세리스를 정면으로 안아 올린 뒤 휴대한 벨트로 간단한 허그 프론트 벨트를 만들었다.	I hugged Siris close to me, then used the straps I brought along to attach her to my front.						0	
+125	分析员……	分析員……	分析員……	분석가님…	Adjutant...						0	
+126	虽然有些诧异，但她很快便明白了我的意图。	雖然有些詫異，但她很快便明白了我的意圖。	シーリスは意外そうな表情を見せたが、すぐ私の意図を汲み取ってくれたようだ。	의아했지만 그녀는 내 의도를 금방 알아차렸다.	Even though she was somewhat surprised, she immediately understood.						0	
+127	迎合着我的动作，用四肢死死地锁住了我的腰背。	迎合我的動作，用四肢死死地鎖住了我的腰背。	私の動きに合わせるかのように、彼女は私の体にしがみついた。	그녀는 내 움직임에 맞춰 내 허리춤을 감쌌다.	Moving with me, she tightly locked her arms and legs around my body.						0	
+128	以你现在的身体状况，独自进行跳跃太危险了。	以你現在的身體狀況，獨自進行跳躍太危險了。	今の君の体調で、そこまで飛ぶのは危険だ。	지금 네 몸 상태로 혼자 점프하는 건 무리야.	It's too dangerous for you to jump alone in your condition.						0	
+129	放心，这根绳子的质量绝对结实，足以支撑我们两个人的重量。	放心，這條繩子的品質絕對夠結實，足以支撐我們兩個人的重量。	でも大丈夫。こいつはかなり頑丈なロープだから、2人分の体重ぐらいは余裕で耐えられると思う。	걱정하지 마, 이 밧줄이 튼튼해서 우리 두 사람의 무게를 지탱하기에 충분해.	Don't worry. This rope is strong enough to support both of us.						0	
+130	嗯……	嗯……	うん……	좋아요…	Okay...						0	
+131	少女轻声呢喃着，也不知道是因为体力不支还是单纯的害羞。	少女輕聲呢喃著，也不知道是因為體力不支還是單純的害羞。	恥ずかしいのか、弱っているのか、彼女の声は小さかった。	소녀는 체력이 때문인지 아니면 그저 수줍음 때문인지 조용히 중얼거리기만 했다.	The girl murmured a quiet response. I was unsure if she was exhausted or just shy.						0	
+132	准备好了吗？	準備好了嗎？	準備はいいか？	준비 됐어?	Ready?						0	
+133	她没有用言语回应，只是尽力收紧了四肢。	她沒有用言語回應，只是盡力收緊了四肢。	彼女は無言でしがみついている手足に力を入れた。	그녀는 대답하지 않고, 다만 온 힘을 다해 사지를 조였다.	Instead of a verbal response, she simply tightened her hold on me.						0	
+134	一起飞过去吧。	一起飛過去吧。	わかった。じゃあ、いくぞ。	함께 건너가자.	Let's go together.						0	
+135	我抛出绳索，将其固定在了对面的天台上，接着——	我拋出繩索，將其固定在了對面的天台上，接著——	私はロープを向こうの屋上に投げて、固定した。そして——	나는 밧줄을 던져 반대편 옥상에 고정시켰다.	I tossed the rope, making sure it was latched onto the opposite roof. Then...						0	
+136	抱着少女纵身一跃。	抱著少女縱身一躍。	シーリスを抱きしめたまま、屋上から跳躍した。	소녀를 안고 훌쩍 뛰어올랐다.	I jumped with Siris in my arms.						0	
+137	坠落……在重力的影响下，全身的血液一股脑地涌向了头顶。	墜落……在重力的影響下，全身的血液一股腦地湧向了頭頂。	すぐに落下が始まった。重力の影響で、全身の血液が一気に頭へと集中した。	추락… 중력의 영향으로 온몸의 피가 머리끝까지 쏠렸다.	As we fell... gravity caused all of the blood in my body to rush to my head.						0	
+138	身后的异化人吼声随风划破，她的眼前只剩下一片苍茫。	身後的異化人吼聲隨風劃破，她的眼前只剩下一片蒼茫。	後ろから変異者の咆哮が聞こえる。シーリスの目の前には、青い空しか見えなかった。	뒤에 있던 변이자의 고함소리가 바람에 찢기고 그녀의 눈앞은 아득하기만 했다.	The roars of the Changed behind us were drowned out by the wind. Only a boundless expanse was visible in front of her eyes.						0	
+139	而后，失去意识，坠入过去幻境——	而後，失去意識，墜入過去幻境—	すぐに、彼女は意識を失い、過去の幻へと落ちて行った……	이어 의식을 잃고 과거의 환상 속으로 빠져든다…	She then lost consciousness, descending into an illusion of the past...						0	
+140	嘿嘿，多亏了你的小男友，现在已经安全咯，瑟瑞斯。	嘿嘿，多虧了你的小男友，現在已經安全了，瑟瑞斯。	ふふ、彼氏ちゃんのお陰で、もう大丈夫よ、シーリス。	헤헤, 남자친구 덕분에 안전하게 착지했네, 세리스.	Hehe, thanks to your little boyfriend, you're safe now, Siris.						0	
+141	冲破了那面老旧的玻璃窗，重重地落在了白色的地板上。	衝破了那面老舊的玻璃窗，重重地落在了白色的地板上。	……老朽化したガラスの窓を破って、白い床に着地した。	낡은 유리창을 깨고 하얀 바닥에 무겁게 내려앉았다.	We smashed through an old glass window, landing heavily on the white floor.						0	
+142	你是……	你是……	あなたは……	당신은…	Who are you...?						0	
+143	你已经找到想要的东西了吧？	你已經找到想要的東西了吧？	欲しいものはもう見つけたの？	이미 원하는 걸 찾았지?	Did you find what you wanted?						0	
+144	我想要的东西……	我想要的東西……	欲しいもの……	제가 원하는 건…	What I wanted...						0	
+145	过去的回忆	過去的回憶	過去の記憶	과거의 기억	Past memories						0	
+146	录音笔	錄音筆	ボイスレコーダー	녹음펜	Recorder pen						0	
+147	抵御遗忘的方法	抵禦遺忘的方法	物忘れ対策の方法	망각을 극복하는 방법	A way to avoid forgetting						0	
+148	不……这些只是过去与表象。	不……這些只是過去與表象。	いや……どれも過去と、その表象でしかない。	아니… 이것들은 단지 과거와 표상일 뿐이다.	No... those things were only the past, only a facade.						0	
+149	如今，失去了过往的我，真正想要的只是记住一个人……仅仅是他一个人就好……	如今，失去了過往的我，真正想要的只是記住一個人……光是他一個人就好……	過去を失った私が本当に覚えていたいのは、たったひとりだけ……彼のことさえ、忘れないでいられれば……	과거를 잃어버린 지금, 내가 정말 원하는 것은 누군가를 기억하는 것뿐이다… 단지 그 한 사람만으로도…	Now that I've lost my past self, all I really want is to remember a certain someone... Just remembering him is enough...						0	
+150	我知道。我相信你，瑟瑞斯。我相信海姆达尔的每一个人。	我知道。我相信你，瑟瑞斯。我相信海姆達爾的每一個人。	わかってる。信じてるよ、シーリス。ヘイムダルのみんなだってそうだ。私はみんなのことを信じているさ。	알아. 난 세리스를 믿어. 난 헤임달의 모든 사람을 믿어.	I know. I trust you, Siris. I trust everyone on the Heimdall Force.						0	
+151	我只是不想再辜负他的信任……	我只是不想再辜負他的信任……	あの人の信頼に応えたいんだ……	난 단지 더 이상 그의 신뢰를 저버리고 싶지 않을 뿐이다…	I just don't want to let him down again...						0	
+152	至于到底是哪些人随意糟蹋了你的记忆，我会找出来，然后一个一个地跟他们算账。	至於到底是哪些人隨意糟蹋了你的記憶，我會找出來，然後一個一個跟他們算帳。	あなたの記憶を踏みにじるような真似をした連中を見つけ出して罪を償わせるのは、私の仕事だからね。	도대체 누가 네 기억을 제멋대로 망쳤는지, 내가 찾아내서 하나씩 그들과 결판을 낼 거야.	I'll find out who messed with your memories and make them pay, one by one.						0	
+153	一起去取回过去的记忆吧，瑟瑞斯。	一起去取回過去的記憶吧，瑟瑞斯。	シーリスの記憶を、一緒に取り戻しに行こう。	함께 과거의 기억을 되찾자, 세리스.	Let's go get your memories together, Siris.						0	
+154	我只是不想再忘记和他有关的一切……	我只是不想再忘記和他有關的一切……	あの人のことを、もう二度と忘れたくないの……	난 그저 그와 관련된 모든 것을 다시는 잊고 싶지 않을 뿐이다…	All I want is to not forget anything about him...						0	
+155	是吗，这就是瑟瑞斯的回答啊……	是嗎，這就是瑟瑞斯的回答啊……	そうね。それが、シーリスの出した答えなのね。	그렇군, 이게 바로 세리스의 대답이군……	Really? So that's your answer...						0	
+156	那么，该继续前进了。	那麼，該繼續前進了。	なら、そろそろ前に進んだほうがいいわ。	그럼 이제 계속 전진해야지.	Then, it's time to move forward.						0	

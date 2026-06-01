@@ -1,0 +1,18 @@
+﻿ID	效果对应的房间类型	效果图标	//备注	效果ID（填写donoduel_buff表ID）	随机权重（限奇遇类型）	随机次数限制（限奇遇类型）	//备注	效果名称	效果描述
+RoomEffectID	RoomType	Icon	Note	BuffID	Weight	UsageLimit	Note2	BuffName	BuffDesc
+1	5	5203001	恢复房间效果1	4001			为所有出战多诺卡恢复自身生命上限的[XX]%血量	donoduel.buff_room_convalesce01_name	donoduel.buff_room_convalesce01
+2	5	5203002	恢复房间效果2	4002			立刻结束多诺卡的修养状态	donoduel.buff_room_convalesce02_name	donoduel.buff_room_convalesce02
+3	5	5203003	恢复房间效果3	4003			为所有少女角色恢复自身生命上限的[XX]%血量	donoduel.buff_room_convalesce03_name	donoduel.buff_room_convalesce03
+4	5	5203004	恢复房间效果4	4004			随机复活XX名处于死亡状态的少女	donoduel.buff_room_convalesce04_name	donoduel.buff_room_convalesce04
+5	7	5203007	奇遇房间效果	4101	100	1	本局内（上阵的我方多诺卡）攻击属性提高[20]%	donoduel.buff_room_adventure01_name	donoduel.buff_room_adventure01
+6	7	5203008	奇遇房间效果	4102	100	1	本局内（上阵的我方多诺卡）血量属性提高[20]%	donoduel.buff_room_adventure02_name	donoduel.buff_room_adventure02
+7	7	5203009	奇遇房间效果	4103	100	1	本局内（上阵的我方多诺卡）防御属性提高[20]%	donoduel.buff_room_adventure03_name	donoduel.buff_room_adventure03
+8	7	5203010	奇遇房间效果	4104	100	1	本局内（玩家出战的前场少女）攻击提升[20]%	donoduel.buff_room_adventure04_name	donoduel.buff_room_adventure04
+9	7	5203011	奇遇房间效果	4105	100	1	本局内（玩家出战的前场少女）血量提升[20]%	donoduel.buff_room_adventure05_name	donoduel.buff_room_adventure05
+10	7	5203012	奇遇房间效果	4106	100	1	本局内（玩家出战的前场少女）防御提升[20]%	donoduel.buff_room_adventure06_name	donoduel.buff_room_adventure06
+11	9	5203007	奇遇房间效果	4101	100	1	本局内（上阵的我方多诺卡）攻击属性提高[20]%	donoduel.buff_room_adventure01_name	donoduel.buff_room_adventure01
+12	9	5203008	奇遇房间效果	4102	100	1	本局内（上阵的我方多诺卡）血量属性提高[20]%	donoduel.buff_room_adventure02_name	donoduel.buff_room_adventure02
+13	9	5203009	奇遇房间效果	4103	100	1	本局内（上阵的我方多诺卡）防御属性提高[20]%	donoduel.buff_room_adventure03_name	donoduel.buff_room_adventure03
+14	9	5203010	奇遇房间效果	4104	100	1	本局内（玩家出战的前场少女）攻击提升[20]%	donoduel.buff_room_adventure04_name	donoduel.buff_room_adventure04
+15	9	5203011	奇遇房间效果	4105	100	1	本局内（玩家出战的前场少女）血量提升[20]%	donoduel.buff_room_adventure05_name	donoduel.buff_room_adventure05
+16	9	5203012	奇遇房间效果	4106	100	1	本局内（玩家出战的前场少女）防御提升[20]%	donoduel.buff_room_adventure06_name	donoduel.buff_room_adventure06

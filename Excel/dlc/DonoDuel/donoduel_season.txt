@@ -1,0 +1,3 @@
+﻿赛季ID	//备注	活动解锁条件	活动开启时间	活动结束时间	活动名称	开放功能（填写donoduel_function表ID）	基地场景	使用货币
+SeasonID	Note	Condition	OpenTime	CloseTime	Name	EnableFunction	mapID	Currency
+1	第一期多诺卡牌	{{{2,11429}},{{2,50101}}}	[202602050400]	[202603120400]	donoduel.donoduel_name01	{101,102,103,104,105,106,107,108,109,110,111}	5510	63

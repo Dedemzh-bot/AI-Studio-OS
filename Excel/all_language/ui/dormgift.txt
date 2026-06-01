@@ -1,0 +1,691 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+gift001	钓鱼之王雕像	釣魚之王雕像	釣りの王の像	낚시의 왕 조각상	Fishing King Statue						0	
+gift001_des	作为钓鱼高手的象征，奖励给分析员的雕像。附带的投影仪记录了在雅卢岛上欢乐的时光。\n获得后可在基地小吉处【纪念展区】进行展示。	象徵為釣魚高手身分的雕像，送給分析員的獎勵。附帶的投影機記錄了在雅盧島上歡樂的時光。\n獲得後可在基地小吉處【紀念展區】進行展示。	釣りの達人の象徴として、分析員に贈られる彫像。同梱のプロジェクターには、ガルーアイランドで楽しい一時を記録した映像が含まれる。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	낚시 고수의 상징으로 분석가에게 지급하는 조각상이다. 조각상에 달린 프로젝터에는 야루섬에서의 즐거웠던 추억이 기록되어 있다.\n획득 후 숙소의 샤오지 [기념 전시 구역]에서 전시할 수 있다.	This statue was awarded to the Adjutant as a symbol of his masterful fishing skills. The attached projector shows records of fun moments on Yallu Island.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	
+gift002	“灵蹄”全息模型	「靈蹄」全息模型	「アルスヴィズ」のホログラム模型	 '소울 후프' 홀로그램 모형	"Swiftfoot" Holographic Model						0	
+gift002_des	作为护送任务的纪念，奖励给分析员的模型。从影像记录中可以看到耶洛沙边境的景色。\n获得后可在基地小吉处【纪念展区】进行展示。	作為護送任務的紀念品，送給分析員的獎勵模型。透過模型中所記錄的影像可以看到耶洛沙邊境的風光。\n獲得後可在基地小吉處【紀念展區】進行展示。	護衛ミッションの記念として、分析員に与える報酬の模型。映像記録から、イェロシャ辺境の景色が観賞できる。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	호송 미션 기념으로 분석가에게 보상으로 지급되는 모형이다. 영상 기록으로 옐로샤 국경의 풍경을 볼 수 있다.\n획득한 후 로비의 미니 샤오지 위치 [기념 전시 구역]에서 전시할 수 있다.	A model awarded to the Adjutant that serves as a memento of the escort mission. The holographic image also shows the desolate scenery of the Yehrus border.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	
+gift003	幻之假面	幻之假面	幻の仮面	환상의 가면	Mask of Mystery						0	
+gift003_des	作为参与舞会的纪念，赠送给分析员的面具。做工精致，材料昂贵。\n获得后可在基地小吉处【纪念展区】进行展示。	作為參與舞會的紀念，贈送給分析員的面具。做工精緻，材料昂貴。\n獲得後可在基地小吉處【紀念展區】進行展示。	舞踏会への参加記念として分析員に送られたもの。高価な素材に精巧な加工が施されている。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	무도회 참가를 기리는 기념으로 분석가에게 선물하는 가면. 정교한 수공과 비싼 재료로 만들어졌다.\n획득한 후 로비의 미니 샤오지 위치 [기념 전시 구역]에서 전시할 수 있다.	A mask given to the Adjutant as a souvenir from attending the ball. Made with expensive materials and pristine craftsmanship.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	
+gift004	星盘徽章	星盤徽章	アストロラーベの紋章	천체 훈장	Astrolabe Badge						0	
+gift004_des	作为北风航天中心的纪念，赠与分析员的徽章。可以从中一窥过去耶洛沙的辉煌。\n获得后可在基地小吉处【纪念展区】进行展示。	作為北風航太中心的紀念，贈與分析員的徽章。可以從中一窺耶洛沙的輝煌。\n獲得後可在基地小吉處【紀念展區】進行展示。	北風宇宙センターの記念品として、分析員に贈られた紋章。かつて栄えていたイェロシャの姿が垣間見える。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	노스윈드 우주센터 기념으로 분석가에게 수여되는 훈장. 훈장을 통해 옐로샤의 영광스러운 역사를 엿볼 수 있다.\n획득 후 숙소의 샤오지가 있는 [기념 전시 구역]에서 전시할 수 있다.	A badge awarded to the Adjutant that serves as a memento of Northwind Aerospace Center. It is a shard of Yehrus' glorious past.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	
+gift005	悖论之影	悖論之影	逆説の影	역설의 그림자	Shadow of Paradox						0	
+gift005_des	作为参与悖论迷宫的纪念，奖励给分析员的雕像。祝贺您没有在迷宫中失去方向。\n获得后可在基地小吉处【纪念展区】进行展示。	作為參與悖論迷宮的紀念，獎勵給分析員的雕像。祝賀您沒有在迷宮中失去方向。\n獲得後可在基地小吉處【紀念展區】進行展示。	逆説迷宮に参加した記念品として、分析員に贈られた彫像。迷宮の中で道を見失わなかった証。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	'역설적 미로'에 참여한 기념으로 분석가에게 보상으로 제공되는 조각상. 미로에서 길을 잃지 않아서 축하의 의미로 제공하는 것이다.\n획득 후 숙소의 샤오지가 있는 [기념 전시 구역]에서 전시할 수 있다.	A statue awarded to the Adjutant that serves as a memento of Paradoxical Labyrinth. Congratulations on sticking to the right direction while in the challenging maze.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	
+gift007	溯时沙漏	溯時沙漏	時流れの砂時計	모래시계	Reverse Sand Glass						0	
+gift007_des	作为解决赐福团危机的纪念，奖励给分析员的沙漏。每次倒转时似乎都能看到时光流转的痕迹。\n获得后可在基地小吉处【纪念展区】进行展示。	作為解決賜福團危機的紀念，獎勵給分析員的沙漏。每次倒轉時似乎都能看到時光流轉的痕跡。\n獲得後可在基地小吉處【紀念展區】進行展示。	祝福団の危機を解決した記念品として、分析員に贈られた砂時計。ひっくり返す度に時の流れの跡が見えるような気がする。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	은총단 위기 해결을 기념으로 분석가에게 보상으로 지급되는 모래시계. 시간을 되돌릴 때마다 시간이 흘렀던 흔적을 볼 수 있다.\n획득한 후 로비의 미니 샤오지 위치 [기념 전시 구역]에서 전시할 수 있다.	A sand hourglass awarded to the Adjutant that serves as a memento of the Blessed Ones crisis. Traces of the reversed flow of time are seemingly visible every time it's turned.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	
+gift008	汉诺幻方	漢諾幻方	ハノイのキューブ	하노이 매직 큐브	Prism of Hanoi						0	
+gift008_des	作为汉诺塔的纪念，赠与分析员的方形摆件。使用了与构成小世界相同的技术。\n获得后可在基地小吉处【纪念展区】进行展示。	作為漢諾塔的紀念，贈與分析員的方形擺件。使用了與構成小世界相同的技術。\n獲得後可在基地小吉處【紀念展區】進行展示。	ハノイの塔の記念品として、分析員に贈られた四角形の置物。小世界を構成する技術を使っている。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	하노이 타워를 기념으로 분석가에게 보상으로 지급되는 큐브형 장식품. 작은 세계를 구성하는데 사용된 것과 동일한 기법을 사용했다.\n획득한 후 로비의 미니 샤오지 위치 [기념 전시 구역]에서 전시할 수 있다.	A device awarded to the Adjutant that serves as a memento of the Tower of Hanoi. It uses the same technology that created the realms.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	
+gift009	辅助机	輔助機	補助機	보조 기기	Auxiliary Projector						0	dlc9宿舍
+gift009_des	作为小望的心意，赠送给分析员的同款辅助机。使用它可以投影出望的表演录像。\n获得后可在基地小吉处【纪念展区】进行展示。	作為小望的心意，贈送給分析員的同款輔助機。使用它可以投影出望的表演錄影。\n獲得後可在基地小吉處【紀念展區】進行展示。	ノゾムの気持ちとして、分析員に贈られた補助機。ノゾムのパフォーマンスの映像を投影することができる。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	미니 노조미의 마음을 담아 분석가에게 선물하는 보조 기기. 해당 보조 기기로 노조미의 공연 영상을 투영할 수 있다.\n획득 후에는 숙소의 샤오지가 운영하는 [기념 전시 구역]에 전시할 수 있다.	The same model of auxiliary projector bot that Nozomi uses, given to the Adjutant as a gift. It can project holographic videos of Nozomi's performances.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	dlc9宿舍
+gift010	麻辣火锅营地	麻辣火鍋營地	マーラー火鍋キャンプ	마라 훠궈 야영지	Spicy Heart Camp						0	dlc9宿舍
+gift010_des	作为大家的心意，赠送给分析员的礼物。可以随时吃上热腾腾的火锅。\n获得后可在基地小吉处【纪念展区】进行展示。	作為大家的心意，贈送給分析員的禮物。可以隨時吃上熱騰騰的火鍋。\n獲得後可在基地小吉處【紀念展區】進行展示。	皆の気持ちとして、分析員に贈られたプレゼント。いつでも熱々の火鍋を食べることができる。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	대원들의 마음을 담아 분석가에게 선물한 것으로 언제든지 마라 훠궈의 매운 맛을 즐길 수 있다.\n획득 후에는 숙소의 샤오지가 운영하는 [기념 전시 구역]에 전시할 수 있다.	A gift for the Adjutant including everyone's best wishes. One can eat delicious hot pot anytime.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	dlc9宿舍
+gift011	雪落之梦	雪落之夢	雪の降る夢	눈이 내리는 꿈	Snowdrift Dream						0	dlc9宿舍
+gift011_des	作为大家的心意，赠送给分析员的礼物。可以投影出队员们和分析员的合影。\n获得后可在基地小吉处【纪念展区】进行展示。	作為大家的心意，贈送給分析員的禮物。可以投影出隊員們和分析員的合照。\n獲得後可在基地小吉處【紀念展區】進行展示。	皆の気持ちとして、分析員に贈られたプレゼント。隊員たちと分析員が一緒に撮った写真を投影することができる。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	대원들의 마음을 담아 분석가에게 선물한 것으로 대원들과 분석가의 합성사진을 투영할 수 있다.\n획득 후에는 숙소의 샤오지가 운영하는 [기념 전시 구역]에 전시할 수 있다.	A gift for the Adjutant including everyone's best wishes. It can project photos of the Adjutant with the operatives.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	dlc9宿舍
+gift012	唱片机	唱片機	レコードプレーヤー	주크박스	Record Player						0	dlc9宿舍
+gift013	神经调理	神經調理	神経ケア	신경 치료	Neuronics Therapy						0	DLC3.4统一神经调理文本
+gift014	特制胶片盘	特製底片盤	特製フィルム	특수 필름 릴	Special Film Reels						0	dlc10宿舍
+gift014_des	作为极夜行动圆满完成的纪念，赠送给分析员的胶片盘。足有两大盘，记下了不少惊险情节。\n获得后可在基地小吉处【纪念展区】进行展示。	作為極夜行動圓滿完成的紀念，贈送給分析員的底片盤。足足有兩大盤，記下了不少驚險情節。\n獲得後可在基地小吉處【紀念展區】進行展示。	極夜作戦を円満に解決した記念として、分析員に贈られたフィルム。スリル満点な思い出がぎっしりと記録されている。\n取得後、社員寮のギーちゃんのところの【記念展示】で展示できる。	극야 작전을 성공적으로 완수한 기념으로, 분석가에게 선물하는 필름 릴이다. 두 개의 큰 릴이 들어있으며, 스릴 넘치는 장면들이 기록되어 있다. 획득 후 숙소의 샤오지 [기념 전시 구역]에 전시할 수 있다.	Film reels given to the Adjutant as a souvenir from participating in Operation Midnight. These two large reels are filled with exciting storylines.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	dlc10宿舍
+gift015	尘白恶魔号模型	塵白惡魔號模型	Snowbreak Aku-MAの模型	순백의 악마 모형	Snowbreak Aku-MA Model						0	dlc11宿舍
+gift015_des	作为碧水假日的纪念，赠送给分析员的模型。这是一个拼装而成的小型“尘白恶魔号”，非常安全，绝无失控暴走的可能。\n获得后可在基地小吉处【纪念展区】进行展示。	作為碧水假日的紀念，贈送給分析員的模型。這是一個拼裝而成的小型「塵白惡魔號」，非常安全，絕無失控暴走的可能。\n獲得後可在基地小吉處【紀念展區】進行展示。	碧水休日の記念として、分析員に贈られた模型。組み立てられた「Aku-MA」の模型で、暴走する可能性はなく、非常に安全。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	청량한 휴일을 기념해 주는 물건으로 매우 안전하고 제어를 손쉽게 할 수 있는 조립 형태의 '순백의 악마'다.\n획득 후 숙소의 샤오지가 있는 [기념 전시 구역]에서 전시할 수 있다.	A mecha model given to the Adjutant as a souvenir of the water park vacation. This miniature Snowbreak Aku-MA is very safe, with no danger of losing control.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	dlc11宿舍
+gift016	仿石装饰摆件	仿石裝飾擺飾	石像風の置物	모조 돌 장식품	Faux Granite Ornament						0	DLC2.3宿舍
+gift016_des	作为参与朔州边境任务的纪念，赠送给分析员的摆件。以古老石像为原型，经由芙提雅改造并制作，成为了现在的样子。\n获得后可在基地小吉处【纪念展区】进行展示。	作為參與朔州邊境任務的紀念，贈送給分析員的擺飾。以古老石像為原型，經由芙提雅改造製作，成為了現在的樣子。\n獲得後可在基地小吉處【紀念展區】進行展示。	朔州の国境ミッションに参加した記念として、分析員に贈られた置物。古代の石像をモデルに、フリティアが改造して、現在の形となった。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	삭주의 국경 미션에 참여한 기념으로 분석가에게 선물한 장식품이다.\n고대 석상을 원형으로 한 것으로, 프티야에 의해 개조되고 제작되어 현재의 모습을 갖췄다.\n획득한 후 숙소의 미니 샤오지 위치 [기념 전시 구역]에서 전시할 수 있다.	An ornament given to the Adjutant as a souvenir of the mission in the borderlands of Shuozhou. Modeled after ancient statues, it was designed and crafted by Fritia.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	DLC2.3宿舍
+gift017	轻舟溯忆	輕舟溯憶	小舟の追想	작은 배의 추억	Memory Drift						0	DLC2.4宿舍
+gift017_des	记录了分析员和卜卜历险经历的投影相片集。不仅能够投影当时的场景，还可以重现卜卜彼时看到的竹筏。\n获得后可在基地小吉处【纪念展区】进行展示。	記錄了分析員和卜卜歷險經歷的投影相片集。不僅能夠投影當時的場景，還可以重現卜卜彼時所看到的竹筏。\n獲得後可在基地小吉處【紀念展區】進行展示。	分析員とブブの冒険を記録した投影写真集。思い出を投影できるだけでなく、ブブが見たイカダも再現できる。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	분석가와 보보의 모험을 기록한 투영 사진첩이다. 당시의 장면을 투영할 수 있을 뿐만 아니라, 보보가 당시 보았던 대나무 뗏목을 재현할 수 있다.\n획득 후 숙소의 샤오지 [기념 전시 구역]에서 전시할 수 있다.	A projection photo album displaying memories of the Adjutant and Bubu's underground adventure at the Shuozhou border. Besides projecting the scenery, it also shows the bamboo raft Bubu saw at that time.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	DLC2.4宿舍
+gift020	战影之卷	戰影之卷	戦いぶりの絵巻物	전장의 두루마리	Battlemark Scroll						0	DLC2.5宿舍
+gift020_des	此物原本是我方监控仪，现已卸载监控功能，仅保留展示功能。其中存储了分析员调查舍塔并与之交战的过程影像。在两仪密室中，该仪器伪装成画卷，如实记录下了分析员英勇的战斗身姿。\n获得后可在基地小吉处【纪念展区】进行展示。	此物原本是我方監視器，現已卸載監視功能，僅保留展示功能。其中存儲了分析員調查θ並與之交戰的過程影像。在兩儀密室中，該儀器偽裝成畫卷，如實記錄下了分析員英勇的戰鬥身姿。\n獲得後可在基地小吉處【紀念展區】進行展示。	元々はこちら側の監視用モニターだったが、現在は監視機能が削除され、表示機能のみが残されている。両儀の間では、この装置は絵巻物に偽装され、分析員がθ（シータ）を調査し、交戦した際の勇ましい姿がそのまま記録されている。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	해당 물체는 본래 아군의 감시 장치였으나, 현재 감시 기능이 제거되고 단지 전시 기능만 남아 있다. 여기에는 분석가가 θ를 조사하고 교전을 했던 과정의 영상이 저장되어 있다. 해당 측정기구는 음양 밀실에서 두루마리로 위장되어, 분석가의 전투 모습을 현실적으로 기록하고 있다. \n획득 후에는 숙소의 샤오지가 운영하는 [기념 전시 구역]에 전시할 수 있다.	This device was once used for monitoring, now only for display. It holds footage of the Adjutant's battle with θ. In Duality Vault, it disguises as a scroll, capturing the Adjutant heroism.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	DLC2.5宿舍
+gift021	透墨索斯摆件	透墨索斯擺件	テウメッサの置物	테우메소스 장식품	Teumessian Decoration						0	DLC2.5宿舍
+gift021_des	作为参与悖论迷宫的纪念，奖励给分析员的透墨索斯模型摆件，可以随时制造欢乐派对氛围。\n获得后可在基地小吉处【纪念展区】进行展示。	作為參與悖論迷宮的紀念，獎勵給分析員的透墨索斯模型。可以隨時製造歡樂的派對氛圍。\n獲得後可在基地小吉處【紀念展區】進行展示。	逆説迷宮に参加した記念品として、分析員に贈られた模型。いつでもパーティーの雰囲気を作り出せる。\n取得後、社員寮のギーちゃん【記念展示】のところで展示できる。	'역설적 미로'를 참여한 기념으로 분석가에게 보상으로 제공되는 테우메소스 피규어 장식품, 언제든지 즐거운 파티 분위기를 조성할 수 있다.\n획득 후 숙소의 샤오지가 있는 [기념 전시 구역]에서 전시할 수 있다.	A Teumessian decoration awarded to the Adjutant that serves as a memento of Paradoxical Labyrinth. This miniature Teumessian can throw a lively party anywhere and anytime.\nCan be displayed in the Memento Display Space at Gigi in the Base upon obtaining.						0	DLC2.5宿舍
+gift025	幻梦水晶球	幻夢水晶球	幻夢の水晶玉	환상의 수정구	Dream Globe						0	DLC2.6宿舍
+gift025_des	作为分析员与恩雅在16区并肩战斗的纪念，赠给分析员的礼物。水晶球内部是16区集体意识的梦中场景，花朵摇曳，列车穿梭不息。	作為分析員與恩雅在16區並肩戰鬥的紀念，贈給分析員的禮物。水晶球內部是16區集體意識的夢中場景，花朵搖曳，列車穿梭不息。	分析員がエンヤとエリア16で共に戦った記念品であり、分析員へのプレゼント。水晶玉の内部には、エリア16の集団意識の夢の風景が保存されている。草花が揺れ、列車の行進が止まることはない。	분석가와 엔야가 16구역에서 싸운 것을 기념하기 위해, 분석가에게 주는 특별한 선물. 수정구 내부에는 16구역의 집단 의식이 꿈꾸는 장면들이 담겨 있다. 꽃들이 조용히 흔들리고, 기차가 끊임없이 오가는 모습이 펼쳐지는 장면을 볼 수 있다.	A gift for the Adjutant serving as a memento of the fight beside Enya in Zone 16. Within the crystal globe is a surreal dreamscape of Zone 16's collective consciousness — flowers swaying, trains passing endlessly.						0	DLC2.6宿舍
+gift026	微型水族箱	微型水族箱	ミニアクアリウム	미니어처 수족관	Mini Aquarium						0	DLC2.7宿舍
+gift026_des	作为在海底战斗的纪念，赠给分析员的礼物。内部画面的灵感来源于分析员寻找奈莉德时所见景象。	作為在海底戰鬥的紀念，贈給分析員的禮物。內部畫面的靈感來源於分析員尋找奈莉德時所見景象。	海底での戦いを記念して、分析員に贈られたプレゼント。その内部には、ネリーダを探していた際に目にした海の光景が描かれている。	해저에서의 전투를 기념하기 위해 분석가한테 보낸 선물이다. 내부 이미지는 분석가가 네리다를 수색할 때 본 것에서 영감을 받았다.	A gift for the Adjutant serving as a memento of the battle on the bottom of the sea. It reflects the scene the Adjutant encountered while looking for Nerida.						0	DLC2.7宿舍
+gift027	叩问之槌	叩問之槌	尋問の槌	진실의 망치	Hammer of Truth						0	DLC2.8宿舍
+gift027_des	作为担任安全专员的纪念，赠送给分析员的礼物。叩问之槌的外形参考了庭审时所使用的木槌 。	作為擔任安全專員的紀念，贈送給分析員的禮物。叩問之槌的外形參考了庭審時所使用的木槌。	裁判員の就任を記念して、分析員に贈られた記念の木槌。真理庁で使われるものを模して作られている。	안전 요원의 공로를 기념하여 분석가에게 주는 선물이다. 망치의 모양은 법정 재판에서 사용되는 나무 망치에서 따온 것이다.	A gift for the Adjutant serving as a memento of his role as security specialist. The hammer is modeled after the gavels used in formal trial proceedings.						0	DLC2.8宿舍
+gift028	智略机巧	智略機巧	知謀の機巧	전략 브레인	Tactical Wits						0	DLC3.0宿舍
+gift028_des	作为参与悖论迷宫的纪念，奖励给分析员的智略点模型摆件。难题的解法往往简洁纯粹，你一定能看清其中关键。	作為參與悖論迷宮的紀念，獎勵給分析員的智略點模型擺件。難題的解法往往簡潔純粹，你一定能看清其中關鍵。	逆説迷宮への参加記念として、分析員に贈られた知謀ポイントのミニチュアモデル。\n難問の答えは、意外とシンプルで本質的。あなたなら、その真実に辿り着けるだろう。	'역설적 미로'에 참여한 기념으로 분석가에게 보상으로 제공되는 지능 점수 피규어 장식품. 어려운 문제에 대한 해결책은 종종 간단하다. 당신은 분명 그 핵심을 파악할 수 있을 것이다.	An Intuition Point model awarded to the Adjutant as a memento for participating in the Paradoxical Labyrinth. Even the most complex problems often have simple, elegant solutions. You're sure to spot the crucial clue.						0	DLC3.0宿舍
+gift029	灼见之花	灼見之花	明晰の花	통찰의 꽃	Floret of Insight						0	DLC3.0宿舍
+gift029_des	作为化解卫城学院危机的纪念，赠送给分析员的礼物。礼物的外形参考了放置在卫城学院室内大厅的花形雕塑。	作為化解衛城學院危機的紀念，贈送給分析員的禮物。禮物的外形參考了放置在衛城學院室內大廳的花形雕塑。	アクロポリス学院の危機収束を記念し、分析員に贈られた花の彫刻。\n学院ホールに置かれた花の彫刻をモチーフにしている。	아크로폴리스 아카데미의 위기를 해결한 기념으로 분석가에게 주는 선물이다. 선물의 외형은 아크로폴리스 아카데미 내부 로비에 배치된 꽃 모양의 조각품을 참조하였다.	A gift presented to the Adjutant in commemoration of resolving the crisis at the Academica Acropolis. Its design is inspired by the flower-shaped sculpture displayed in the Acropolis' main hall.						0	DLC3.0宿舍
+gift030	凝露花亭	凝露花亭	露の花亭	플로럴 로톤다	Floral Rotunda						0	DLC3.1宿舍
+gift030_des	花亭构筑物的微型摆件，由克罗瑞娜赠送给分析员，上面种着克罗瑞娜特意培育的美丽花朵。	花亭構築物的微型擺件，由克羅瑞娜贈送給分析員，上面種著克羅瑞娜特意培育的美麗花朵。	クラウリナが分析員に贈ったガゼボ風のミニチュア。\n彼女が愛情を込めて育てた色とりどりの花々が咲き誇る。	로톤다 구조의 미니어처 장식품으로, 클라리나가 분석가에게 준 선물이다. 장식품 윗부분에는 클라리나가 특별히 재배한 아름다운 꽃이 심겨 있다.	A miniature garden structure gifted to the Adjutant by Clarina, adorned with beautiful flowers she lovingly cultivated herself.						0	DLC3.1宿舍
+gift031	灿海遨游	燦海遨遊	輝く海の冒険	세룰리언 다이버	Cerulean Divers						0	DLC3.2宿舍
+gift031_des	作为在熙澜海度假的纪念，赠送给分析员的纪念摆件。灵动的造型令人怀念起假日里的自在时光。	作為在熙瀾海度假的紀念，贈送給分析員的紀念擺件。靈動的造型令人懷念起假日裡的自在時光。	セイラン海のバカンスを記念して分析員に贈られた置物。\n軽やかなデザインは、波音と笑顔に満ちた休日のひとときを呼び起こす。	헬리오라 해 휴가를 기념하기 위해 분석가에게 선물한 기념 장식품. 생동감 넘치는 디자인은 느긋한 휴가 시절의 추억을 떠올리게 한다.	A keepsake for the Adjutant as a memento of the vacation at the Heliora Sea. Its lively design brings back memories of the carefree moments from those sunny days.						0	DLC3.2宿舍
+gift032	天界乐土纪念碑	天界樂土紀念碑	天界楽土の記念碑	천계 낙원 기념비	Elysium Monument						0	DLC3.3宿舍
+gift032_des	为了纪念天界乐土的建成与再生而设立的纪念碑，上面篆刻着包括您在内的三位最高权限者姓名。	為了紀念天界樂土的建成與再生而設立的紀念碑，上面篆刻著包括您在內的三位最高權限者姓名。	天界楽土の創造と再生を記念して建立された記念碑。そこには、貴殿を含む三名の最上位権限保持者の名が、厳かに刻まれております。	천계 낙원의 건설과 재생을 기념하기 위해 세워진 기념비로, 당신을 포함한 최고 권한을 가진 세 사람의 이름이 새겨져 있다.	A monument built to commemorate the establishment and rebirth of the Elysium, engraved with the names of the three top clearance holders — one of them being the Adjutant.						0	DLC3.3宿舍
+gift033	疗养中心数字沙盘	療養中心數位沙盤	療養センターデジタル模型	요양센터 디지털 샌드박스	Sanatorium Virtual Sandbox						0	DLC3.4宿舍
+gift033_des	基于耶洛沙联邦疗养中心等比复刻的数字化沙盘，起初用于战斗推演和复盘，后来作为建筑模型留在了这里。	基於耶洛沙聯邦療養中心等比復刻的數位化沙盤，起初用於戰鬥推演和復盤，後來作為建築模型留在了這裡。	イェロシャ連邦療養センターを原寸大でデジタル再現したシミュレーション用サンドボックス。当初は戦闘演習および戦術解析に用いられていたが、現在は建築モデルとして保存されている。	옐로샤 연방 요양센터를 동일 비율로 복제하여 구축된 디지털 샌드박스로, 처음에는 전투 시뮬레이션과 사후 분석에 사용되었고, 나중에는 건축 모형으로 이곳에 남겨졌다.	A virtual scale replica of the Yehrus Federal Sanatorium. It was originally used for field strategizing and debriefing, and later was kept as an architectural model.						0	DLC3.4宿舍
+gift034	星祈树	星祈樹	星祈樹	성원 나무	Starwish Tree						0	DLC3.4宿舍
+gift034_des	由大家一起制作的星祈树，混合了朔州、阿尔斯特和菲洛索亚等不同设计风格，布置在基地大厅中。	由大家一起製作的星祈樹，混合了朔州、阿爾斯特和菲洛索亞等不同設計風格，佈置在基地大廳中。	みんなで飾り上げた星祈樹。朔州、アルスター、フィロゾアなど、さまざまな地域のスタイルが融合しており、社員寮のロビーに飾られている。	모두가 함께 만든 성원 나무로, 삭주, 울스터, 필로시아의 다양한 디자인 스타일을 융합하였다. 이 나무는 숙소 로비에 전시되어 있다.	A Starwish Tree decorated together by the Adjutant and the girls. Blending aesthetic styles of Shuozhou, Ulster, and Philossia, it brings a festive ambience to the Oval Hall.						0	DLC3.4宿舍
+gift035	罗森兰月亮灯	羅森蘭月亮燈	ローズランの月灯	로젠란 달램프	Luchellan Moon Lamp						0	DLC3.5宿舍
+gift035_des	飘浮在河流中的月亮灯，属于罗森兰区域特色，由安德烈奥蒂家族赠送给分析员作为纪念。	飄浮在河流中的月亮燈，屬於羅森蘭區域特色，由安德烈奧蒂家族贈送給分析員作為紀念。	川面に浮かぶ月灯。ローズランの風物詩であり、アンドレオッチ家から分析員へ贈られた記念の品。	강에 떠 있는 달램프로, 로젠란 지역의 특산품이다. 안드레오티 가문이 분석가에게 기념품으로 선물했다.	A moon lamp drifting along the river, an icon of Luchellan, gifted to the Adjutant by the Andreotti family as a keepsake.						0	DLC3.5宿舍
+gift037	全家福-芳蕊簇簇	全家福-芳蕊簇簇	みんなの記念写真-芳しき百花	가족 사진-꽃술의 향기	Heimdall Family Photo - Blossoms Abound						0	DLC3.5宿舍
+gift037_des	芳蕊因您而绽，眷恋唯系于分析员一人。未来的旅途，也请分析员牵着她们的手，相伴前行，一路繁花似锦。	芳蕊因您而綻，眷戀唯系於分析員一人。未來的旅途，也請分析員牽著她們的手，相伴前行，一路繁花似錦。	花々はあなたのために咲き誇り、その想いはあなたへと注がれていく。これからも彼女たちと手を取り合い、寄り添いながら歩んでいってください。行く先々で、花に彩られた道が続きますように。	꽃은 분석가님 때문에 만개하고, 그녀들의 사랑은 오직 분석가님에게 바칩니다. 앞으로의 여정도 그녀들의 손을 잡고 나아가주길 바랍니다.	Beauties bloom for you, and their longing belongs to no one but the Adjutant alone. Please always hold their hands as you travel together ahead, with blossoms lighting your way.						0	DLC3.5宿舍
+gift038	惬意厮磨-创维										1000	DLC3.5宿舍联动相关
+gift038_des	特别定制的纪念物品。希望分析员每次使用时，都能感受到独属于茉莉安的那份细腻与温柔，绝对不会让你感到一丝不适哦~										1000	DLC3.5宿舍联动相关
+gift039	美味拥抱-乐事										1000	DLC3.5宿舍联动相关
+gift039_des	特别定制的纪念物品。谁说薯片与拥抱不能兼得？对此，安卡希雅的回答是你来抱着她，她喂你吃薯片，完美享受。										1000	DLC3.5宿舍联动相关
+gift040	与你在一起										1000	DLC3.5宿舍活动相关
+gift040_des	这是为你而特别定制的纪念海报。与你共度的每一天都无比值得珍藏，未来也一起前行吧~这是我们的约定哦。										1000	DLC3.5宿舍活动相关
+gift041	九尾天狐小摆件	九尾天狐小擺件	九尾の神狐の置物	구미호 장식품	Nine-Tailed Fox Figurine						0	DLC3.6宿舍
+gift041_des	由胧嫣赠送给分析员的纪念品，以九尾天狐为原型，寄托了招财纳福的美好寓意。	由朧嫣贈送給分析員的紀念品，以九尾天狐為原型，寄托了招財納福的美好寓意。	ロウエンが分析員に贈った記念品。九尾の神狐をモチーフに、招福開運の願いが込められている。	로엔이 분석가에게 선물한 기념품. 구미호를 본떠 만들어졌으며, 재물과 복을 부르는 아름다운 의미를 담고 있다.	A keepsake from Longyan to the Adjutant. Modeled after the Nine-Tailed Divine Fox, it carries wishes for good fortune.						0	DLC3.6宿舍
+gift101	简约书柜	簡約書櫃	簡素なクローゼット	심플 책장	Simple Bookcase						0	
+gift102	藤原复古街机	藤原復古街機	藤原レトロアーケード	후지와라 빈티지 아케이드	Fujiwara Retro Arcade						0	
+gift103	武器展示柜	武器展示櫃	武器展示棚	무기 진열장	Weapon Display Case						0	
+gift104	音响套装	音響套裝	音響セット	스피커 세트	Speaker Set						0	
+gift105	宅家神器套装	宅家神器套裝	自宅警備員御用達セット	방콕 꿀템 세트	Homebody Essentials Kit						0	
+gift106	刀架	刀架	刀掛け	검 거치대	Knife Block						0	
+gift107	旧时家庭影院	舊時家庭劇院	昔のホームシアター	빈티지 홈 시네마	Vintage Home Theater						0	
+gift108	游戏海报	遊戲海報	ゲームポスター	게임 포스터	Game Poster						0	
+gift109	刀剑展览门票集	刀劍展覽門票集	刀剣展チケットコレクション	도검 전시회 티켓북	Sword Expo Ticket Collection						0	
+gift110	「野干」面具	「野干」面具	「野幹」マスク	[여우] 가면	Ye Gan Mask						0	
+gift111	「大魔王」游戏机	「大魔王」遊戲機	「大魔王」ゲーム機	[대마왕] 게임기	Daimaou Game Console						0	
+gift121	恒约纪念之恋回环	恆約紀念之戀回環	誓約記念・恋の循環	언약 기념-연모의 고리	Covenant Keepsake: Chrono Echo						0	DLC3.5宿舍
+gift122	恒约纪念之爱同循	恆約紀念之愛同循	誓約記念・愛の共鳴	언약 기념-애정의 순환	Covenant Keepsake: Echo of Destiny						0	DLC3.5宿舍
+gift120	游戏时间！	遊戲時間！	ゲームタイム！	게임 시간!	Game Time						0	DLC3.6宿舍
+gift201	神经修复仓	神經修復艙	神経修復倉	신경 회복실	Nerve Repair Pod						0	
+gift202	嵌入式展示柜	嵌入式展示櫃	壁くり抜き式展示棚	매립형 진열장	Built-In Display Cabinet						0	
+gift203	深层肌膜冲击椅	深層肌膜衝擊椅	深層筋膜マッサージチェア	심층 근막 체어	Deep Tissue Massage Chair						0	
+gift204	兵人棋盘	兵人棋盤	兵人碁盤	솔져 체스판	Soldier Chessboard						0	
+gift205	飞镖靶	飛鏢靶	ダーツボード	다트보드	Dartboard						0	
+gift206	全向跑步机	全向跑步機	全方位ランニングマシン	전방향 트레드밀	Omnidirectional Treadmill						0	
+gift207	无人机支架	無人機支架	ドローンスタンド	드론 홀더	Drone Stand						0	
+gift208	唱片机	唱片機	レコードプレーヤー	주크박스	Record Player						0	
+gift209	拟真相册	擬真相簿	真に迫るアルバム	시뮬레이션 앨범	Artificial Album						0	
+gift210	唱片	唱片	レコード	레코드	Record						0	
+gift212	智能药箱	AI醫藥箱	スマート薬箱	스마트 의약품 상자	Medicine Box						0	
+gift213	高级飞镖套装	高級飛鏢套裝	上級ダーツセット	프리미엄 다트 세트	Premium Dart Set						0	
+gift220	亲密相伴	親密相伴	親密な癒し	애정 표현	Intimate Caress						0	DLC2.3宿舍
+gift221	恒约纪念之爱意浓	恆約紀念之愛意濃	誓約記念・深き愛情	언약 기념-사랑의 향기	Covenant Keepsake: Frozen in Love						0	DLC2.5宿舍
+gift401	辅助机整备系统	輔助機整備系統	補助機整備システム	보조 머신 정비 시스템	Auxiliary Maintenance System						0	
+gift402	多功能工作台	多功能工作台	多用途作業台	멀티 워크벤치	Multipurpose Workbench						0	
+gift403	能量饮品柜	能量飲料櫃	エナドリ棚	에너지 드링크 쇼케이스	Energy Drink Case						0	
+gift404	家用静音跑步机	家用靜音跑步機	家庭用無音ランニングマシン	가정용 무소음 트레드밀	Silent Treadmill						0	
+gift405	鲁比克方块抱枕	魯比克方塊抱枕	ルービックキューブ抱き枕	루빅 블록 쿠션	Rubik's Cube Pillow						0	
+gift406	「早起鸟」电子钟	「早起鳥」電子鐘	「早起き鳥」電子時計	[일찍 일어나는 새] 디지털시계	Early Bird Digital Clock						0	
+gift407	凹凸条纹地垫	凹凸條紋地墊	ストライプマット	올록볼록 스트라이프 카펫	Striped Pattern Rug						0	DLC2.3宿舍
+gift408	壁挂式小型书架	壁掛式小型書架	壁掛け式小型本棚	벽걸이 미니 책장	Small Wall-Mounted Bookshelf						0	
+gift409	改良型常青绿植	改良型常青綠植	改良型常緑植木鉢	개량형 상록 분재	Modified Evergreen Plant						0	
+gift410	可调节拆卸壶铃	可調節拆卸壺鈴	調節取り外し可能ケトルベル	무게 조절 케틀벨	Adjustable Kettlebell						0	
+gift414	专业特训跑步机	專業特訓跑步機	業務用ランニングマシン	전문가용 러닝머신	Professional Treadmill						0	
+gift420	爱心练习？	愛心練習？	ハート作りの練習？	하트 연습?	Heart Hands						0	DLC3.6宿舍
+gift701	进阶厨具组	進階廚具組	上級調理器具セット	프리미엄 조리기구 세트	Advanced Kitchen Set						0	
+gift702	食品储物柜	食品置物櫃	食品保存棚	주방 캐비닛	Storage Pantry						0	
+gift703	双开门智能冰箱	雙門對開智慧冰箱	フレンチドアのスマート冷蔵庫	양방향 스마트 냉장고	Double-Door Smart Refrigerator						0	
+gift704	双椅餐桌	雙人餐桌椅組	ダブルチェア付き食卓	2인용 테이블 세트	Dining Table and Chairs						0	
+gift705	企鹅手偶	企鵝手偶	ペンギンハンドパペット	펭귄 손가락 인형	Penguin Hand Puppet						0	
+gift706	摇粒绒纯色毯	搖粒絨純色毯	純色フリースマット	양털 단색 카펫	Polar Fleece Solid-Colored Blanket						0	
+gift707	居家毛绒组合	居家毛絨組合	家庭用ぬいぐるみセット	라운지 양털 세트	Fleece Lounge Set						0	
+gift708	备份门卡	備份門卡	予備用カードキー	비상용 카드키	Backup Key Fob						0	
+gift709	大头抱枕	大頭抱枕	ビッグヘッド抱き枕	얼굴 쿠션	Cute Pillows						0	
+gift710	备用通讯装置	備用通訊裝置	予備用通信装置	비상용 통신 장치	Backup Communicator						0	
+gift711	温馨餐桌椅组合	溫馨餐桌椅組合	家庭食卓セット	아늑한 식탁 의자 세트	Homely Dining Table Set						0	
+gift801	藏品展柜	藏品展示櫃	コレクション展示棚	소장품 진열장	Display Case						0	
+gift802	组合化妆台	組合化妝台	多目的化粧台	조립형 화장대	Combination Vanity						0	
+gift803	高透玻璃展柜	高透光玻璃展示櫃	高透過ガラス展示棚	투명 유리 진열장	High Transparency Glass Display Case						0	
+gift804	设计款茶组	設計款茶組	デザインバージョンお茶道具	디자이너 다기 세트	Designer Tea Set						0	
+gift805	全息影像屏	全息影像螢幕	ホログラムスクリーン	홀로그램 디스플레이	Holographic Screen						0	
+gift806	乐器组合	樂器組合	楽器セット	악기 세트	Instrument Set						0	
+gift807	落地等身镜	等身落地鏡	等身大ミラー	전신거울	Floor Mirror						0	
+gift808	女式帽套装	女款帽套裝	女性用帽子セット	여성 모자 세트	Women's Hat Set						0	
+gift809	明星海报	明星海報	スターポスター	탑스타 포스터	Celebrity Poster						0	
+gift810	作战记录仪	作戰記錄儀	バトルレコーダー	전투 블랙박스	Combat Recording System						0	
+gift811	至臻藏品展柜	至臻藏品展示櫃	極上コレクション展示棚	프리미엄 소장품 진열장	Perfect Display Case						0	
+gift820	甜蜜揉捏	甜蜜揉捏	甘いマッサージ	달콤한 손길	Sweet Foot Rub						0	DLC2.3宿舍
+gift821	恒约纪念之爱绽时	恆約紀念之愛綻時	誓約記念・愛の盛り	언약 기념-만개한 사랑	Covenant Keepsake: Flourish of Heart						0	DLC2.5宿舍
+gift101_des	在这个纸质书快绝迹的时代，它或许只有装饰作用。	在這個紙質書快絕跡的時代，它或許只有裝飾作用。	紙の本が消えてなくなろうとしているこの時代、これはただのお飾りかもしれない。	종이책이 사라져 가고 있는 지금, 장식용으로만 사용할 수 있을 듯하다.	In an era when paper books are dying out, it may only function as a decoration.						0	
+gift102_des	藤原娱乐的周年庆产品，全球限量100台，且只具备普通街机的功能。	藤原娛樂的週年慶產品，全球限量100臺，且只具備普通街機的功能。	藤原エンターテインメントのアニバーサリープロダクト、全世界で数量限定100台。一般アーケード機だけの機能を備えている。	후지와라 엔터테인먼트 연간 기념상품. 전 세계에서 단 100대뿐인 한정판으로, 일반적인 아케이드 게임 기능만 갖추고 있다.	A product celebrating Fujiwara's anniversary. Only 100 units were produced worldwide. It has the same features as an ordinary arcade machine.						0	
+gift103_des	收藏兵器是一种浪漫，谈实用性是不礼貌的。	收藏兵器是一種浪漫，談實用性是不禮貌的。	兵器コレクションはロマンだ。そこで実用性の話をするのは無粋だ。	무기 수집은 일종의 낭만으로, 실용성을 따지는 건 조금 실례다.	Collecting weapons can be romantic too, so questioning its practicality would be impolite.						0	
+gift104_des	发烧级的古董音响，淘到就是赚到。	發燒級的古董音響，買到就是賺到。	マニア向け骨董音響、まさに買い得。	선풍적인 인기를 끌고 있는 앤티크 스피커. 무조건 남는 장사다.	Expert-grade antique audio equipment. Worth every penny.						0	
+gift105_des	方便食品是每个懒人的好伙伴。	方便食品是每個懶人的好夥伴。	インスタントフードは怠け者たちの良き友。	인스턴트 식품은 방콕러에게 최고의 파트너이다.	Fast food is every couch potato's best friend.						0	
+gift106_des	现代的材料，传统的造型，兼顾实用性和观赏性的刀架。	現代的材料，傳統的造型，兼顧實用性和觀賞性的刀架。	現代の材料に伝統的な造形、実用性と鑑賞性を併せ持つ刀掛け。	모던식 재료와 클래식한 모델링으로 실용성과 미관을 모두 겸비한 검 거치대.	Combining modern materials with a traditional design, this knife block is both practical and decorative.						0	
+gift107_des	如今难得一见的厚重家用电器组合，曾经是家庭富裕的象征。	如今難得一見的厚重家用電器組合，曾經是家庭富裕的象徵。	今ではあまり見ない重たい家電セット。それはかつての裕福の象徴だ。	요즘 같은 시대에 보기 드문 육중한 몸집의 가전제품 세트. 한때는 부의 상징이었다.	While a rarity today, this combination of broad and heavy household appliances once symbolized a family's wealth.						0	
+gift108_des	藤原娱乐会员海报，尊贵高级玩家的象征。	藤原娛樂會員海報，尊貴高級玩家的象徵。	藤原エンターテインメント会員ポスター。VIPプレイヤーの象徴だ。	후지와라 엔터테인먼트 회원 포스터. 프리미엄 유저의 상징이다.	A Fujiwara membership poster signifying distinguished and advanced players.						0	
+gift109_des	可查询刀剑展览信息，冷兵器爱好者入门必备。	可查詢刀劍展覽資訊，冷兵器愛好者入門必備。	刀剣展の情報を調べることができる。冷兵器マニアの入門に必ず使う。	도검의 전시 정보를 조회할 수 있다. 냉병기 애호가들의 입문 필수 아이템.	Contains extensive sword exhibition information. Melee weapon hobbyists gotta have it.						0	
+gift110_des	曾经藤原电竞大赛的奖品，目前已经不再生产。	曾經是藤原電競大賽的獎品，目前已經停產。	かつての藤原サイバーゲーム大会の賞品。今はもう生産されていない。	한때 후지와라 이스포츠 리그의 상품이었으나, 현재는 생산이 중단되었다.	Once a Fujiwara e-sports competition prize, it is no longer in production.						0	
+gift111_des	在上世纪末风靡一时的游戏机，由藤原娱乐革新后推出了重制版，只进行了少量发售。	在上世紀風靡一時的遊戲機，由藤原娛樂革新後推出了重製版，只進行了少量販售。	前世紀に流行ったゲーム機、藤原エンターテインメントがリメイク版を作り、少量発売した。	20세기에 유행한 게임기. 후지와라 엔터테인먼트가 리메이크 버전으로 출시한 것으로 소량만 판매했다.	A game console of great popularity at the end of the last century. This retro version with updated hardware was released by Fujiwara Entertainment in limited quality.						0	
+gift121_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与安卡希雅的甜蜜瞬间。	依照等身尺寸製作的恆約紀念影像，記錄了分析員與安卡希雅的甜蜜時刻。	等身大サイズで製作された誓約記念写真。分析員とアカシアの甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 아카시아의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Acacia together.						0	DLC3.5宿舍
+gift122_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与安卡希雅的甜蜜瞬间。	依照等身尺寸製作的恆約紀念影像，記錄了分析員與安卡希雅的甜蜜時刻。	等身大サイズで製作された誓約記念写真。分析員とアカシアの甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 아카시아의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Acacia together.						0	DLC3.5宿舍
+gift120_des	有人特意为亲爱的你升级了专属游戏机，请到她的房间领取唯一的开机密钥吧！	有人特意為親愛的你升級了專屬遊戲主機，請到她的房間領取唯一的開機密鑰吧！	誰かがあなたのために専用ゲーム機をアップグレードしてくれたよ。彼女の部屋で唯一の起動キーを受け取ろう！	누군가 당신을 위해 특별히 전용 게임기를 업그레이드했습니다. 그녀의 방으로 가서 유일한 활성화 암호키를 수령하세요!	Someone has specially upgraded a personal game console just for you~ Go to her room and claim the one and only activation key!						0	DLC3.6宿舍
+gift201_des	研发部的最新成果，能够有效缓解神格侵蚀带来的幻痛和神经官能症。	研發部的最新成果，能夠有效緩解神格侵蝕帶來的幻痛和精神官能症。	開発部の最新成果。神格侵蝕による幻肢痛や神経症を効果的に緩和できる。	개발부의 최신 연구 결과에 따르면 만트라 침식에 따른 통증과 노이로제를 효과적으로 완화할 수 있다.	The R&D department's latest achievement. It can effectively alleviate phantom pain and neurosis caused by Flooding.						0	
+gift202_des	空间充裕的展示柜，能放下很多东西。柜门由电致变材料制成，并不是常见的玻璃。	空間充裕的展示櫃，能放得下很多東西。櫃門由電致變色材料製成，並不是常見的玻璃。	スペースがいっぱいの展示棚、たくさん収容できる。扉はエレクトロクロミズム材料で作られており、普通のガラスではない。	내부 공간이 넓은 진열장으로 대량의 물건을 수납할 수 있다. 진열장의 문은 평범한 유리가 아닌 일렉트로크로믹 재료로 제작되었다.	A large display cabinet that can hold many items. Its doors are made of electrochromic material, rather than ordinary glass.						0	
+gift203_des	通过高频震动产生的共振使人体组织发生相对位移，减轻局部组织张力，缓解疼痛。	透過高頻震動產生的共振使人體組織發生相對位移，減輕區域性組織張力，緩解疼痛。	高頻度の振動による共振で人体の組織に相対的な変位をさせることによって、局部的な組織の張力を弱らせ、痛みを緩和する。	고주파 진동으로 공명을 생성해 인체 조직에 상대 변위를 일으켜 부분 조직의 장력을 감소시키고 통증을 완화한다.	Oscillations caused by high-frequency vibrations can cause human tissue to shift, reducing tension and relieving pain.						0	
+gift204_des	一种可供单人或多人同时游玩的游戏，因其复杂的规则和严苛的判定而著名。	一種可供單人或多人同時遊玩的遊戲，因其複雜的規則和嚴苛的判定而著名。	一人プレイにもマルチプレイにも対応したゲーム。複雑なルールとシビアな判定で名を知られている。	혼자서 개인 플레이, 혹은 다수로 멀티 플레이를 즐길 수 있는 게임이다. 복잡한 규칙과 엄격한 판정으로 유명하다.	A game with both single and multiplayer functionality. It is famous for its complex rules and strict guidelines.						0	
+gift205_des	常见的飞镖靶，并没有什么特别之处。	常見的飛鏢靶，並沒有什麼特別之處。	よく見るダーツ用の的。特別なところはない。	흔히 볼 수 있는 다트 보드. 딱히 특별한 점은 찾아볼 수 없다.	An ordinary dartboard. There is nothing special about it.						0	
+gift206_des	无论向哪个方向跑都可以。	無論朝哪個方向跑都可以。	どっちに向かって走ってもいい。	전방향으로 달릴 수 있는 트레드밀.	Run in whichever direction your heart desires.						0	
+gift207_des	三维打印技术生产的金属支架，从细节可以看出是由某人精心设计而成。	3D列印技術生產的金屬支架，從細節可以看出是由某人精心設計而成。	3Dプリントで生産された金属スタンド。細部を見ると誰かの心が込もったデザインだということが伝わってくる。	3D 프린팅으로 생산한 금속 홀더. 세부적인 디테일을 보면 디자이너의 심혈을 기울인 디자인을 엿볼 수 있다.	A metal stand made with 3D printing technology. The small details make it clear that someone meticulously designed it.						0	
+gift208_des	款式复古的唱片机，现在已经很难找得到。	款式複古的唱片機，目前非常稀有。	ヴィンテージ・スタイルのレコードプレーヤー、最近ではなかなか手に入らない。	최근에는 구하기 힘든 레트로 감성의 주크박스.	A vintage record player, hard to find these days.						0	
+gift209_des	使用最先进的显示技术与数据存储技术的拟真相册。难以损毁，自带定位系统，适合保存珍贵的记忆。	使用最先進的顯示技術與數據儲存技術的擬真相簿。難以損毀，自帶定位系統，適合儲存珍貴的記憶。	最先端の映像技術とデータ保存技術を用いた真に迫るアルバム。破壊することは難しく、大事な記憶を保存するのに用いられる。	최첨단 디스플레이 기술과 데이터 저장 기술로 제작된 시뮬레이션 앨범. 파괴하기가 힘들고 자체적인 위치 추적 시스템이 탑재되어 있어 소중한 기억을 저장하기에 적합하다.	An artificial album using the most advanced display and data storage technology. It is sturdy and has a built-in GPS, perfect for preserving special memories.						0	
+gift210_des	数量稀少的收藏品，每一张都十分珍贵。	數量稀少的收藏品，每一張都十分珍貴。	数希少なコレクションで、それぞれも非常に貴重なものである。	흔하지 않은 수집품으로 매 한 장 한 장이 소중하다.	A rare collection, each piece is precious.						0	
+gift213_des	高端的靶盘材质，专业的镖道地毯，是令飞镖爱好者怦然心动的选择。	高級的靶盤材質，專業的鏢道地毯，是令飛鏢愛好者怦然心動的選擇。	高級素材を使ったボードにプロ仕様のマット、ダーツマニアならこれ一択。	고급스러운 표적판 재질과 전문가용 다트 보드 카펫은 다트 애호가들의 마음을 설레게 만든다.	A fancy dartboard and professional dart mat. It will make any dart lover's heart jump with joy.						0	
+gift220_des	拥有知心爱侣的好处在于，她总能懂得你的忙碌与疲惫，然后适时奉上最佳的陪伴。	擁有知心愛侶的好處在於，她總能懂得你的忙碌與疲憊，然後適時奉上最佳的陪伴。	心の通じ合った愛しい人は、あなたの忙しさや疲れを理解し、絶妙なタイミングで最高の癒しを与えてくれる。	소울메이트의 좋은 점은 항상 당신의 피로를 이해하고, 적절한 때에 최고의 애정을 베풀어 준다는 것이다.	A truly intimate companion knows your struggles and fatigue, and is always ready to offer the most pleasant company when you need it most.						0	DLC2.3宿舍
+gift221_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与里芙的甜蜜瞬间。	按照等身尺寸製作的恆約紀念影像，記錄了分析員與里芙的甜蜜瞬間。	等身大サイズで製作された誓約記念写真。分析員とリフの甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 리브의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Lyfe together.						0	DLC2.5宿舍
+gift401_des	研发部的重要成果，拥有这套设备在没有整备后勤的情况下也能独立对辅助机进行调试。	研發部的重要成果，假如擁有這套設備，即便沒有整備後勤，也能自行調試輔助機。	開発部の重要成果。この設備さえあれば後方支援なしでも単独で補助機の調整を行うことができる。	개발부의 중요한 성과물로 해당 보조 머신만 있으면 정비 지원이 없어도 성능 테스트가 가능하다.	An important achievement of the R&D department. This device allows auxiliary machines to be independently debugged without the use of Material.						0	
+gift402_des	灵巧、自由、高效，最大程度发挥创造力。	靈巧、自由、高效，最大程度發揮創造力	手軽で、自由で、高効率。最大限に創造力を引き出す。	민첩성, 자율성, 효율성, 창의력을 극대화한다.	Flexibility, freedom, and efficiency lead to maximum creativity.						0	
+gift403_des	既能冷藏又能加热，夏天喝热饮不胃疼，冬天喝冷饮不上火。	既能冷藏又能加熱，夏天喝熱飲不胃痛，冬天喝冷飲不上火	冷蔵も加熱も可能で、夏に熱いものを、冬に冷たいものを飲んでも大丈夫。	보온보냉 기능으로 여름엔 따뜻한 음료를, 겨울엔 차가운 음료를 마실 수 있다.	Can refrigerate or heat. Drink hot drinks in summer to beat stomachaches, and drink cold drinks in winter to avoid inflammation.						0	
+gift404_des	基础款家用健身设备，轻松折叠易收纳，附送瓦尔基里游戏冠军私教课程。	基礎款家用健身裝置，輕鬆摺疊易收納，附送瓦爾基里遊戲冠軍家教課程	基礎的な家庭用トレーニング設備。折りたたみ式で簡単に収納可能で、おまけにヴァルキリーゲームチャンピオンの個人授業がついてくる。	일반 가정용 피트니스 기구로 손쉽게 접어서 보관할 수 있으며, 발키리 게임 챔피언의 P.T 수업을 무료로 증정한다.	Portable and easy to store, it comes with a personal Valkyrie Games training course.						0	
+gift405_des	方正的造型，柔软的触感。比起抱在怀里更适合用来“枕头大战”。	方正的造型，柔軟的觸感。比起抱在懷裡更適合用來“枕頭大戰”	四角い造形、フワフワの感触。抱きしめるより「枕投げ」の方が適している。	사각형 모양과 부드러운 촉감으로 안고 있는 것보단 '베개 싸움'에 더 어울릴 것 같은 쿠션이다.	This square pillow is soft to the touch. It is better suited for "pillow fights" rather than cuddling.						0	
+gift406_des	拥有这款“赖床克星”是你走向成功的第一步。	擁有這款“賴床剋星”是你走向成功的第一步	この「寝坊殺し」を持つことはあなたの成功への第一歩になる。	'늦잠 방지'를 향한 성공의 첫걸음을 밟을 수 있다.	Owning this "snooze slayer" is your first step toward success.						0	
+gift407_des	密织而成的柔软地垫，造型简约且具有高级的质感。	密織而成的柔軟地墊，造型簡約且具有高級的質感。	密に織られた柔らかなマット。シンプルなデザインながら、高級感のある質感を備えている。	촘촘하게 짜여진 부드러운 매트리스로 심플하면서도 고급스러운 질감을 자랑한다.	A soft, closely woven floor rug. It has a simple design and high-quality texture.						0	DLC2.3宿舍
+gift408_des	造型小巧，美观实用，适合放置收藏版书籍。	造型小巧，美觀實用，適合用來收藏珍貴書籍	造形は小さく、見た目も実用性もある。愛蔵版本を置くのに向いている。	작고 예쁜데다가 실용적이어서 소장용 서적을 보관하기에 충분하다.	Compact, elegant, and practical. Perfect for holding children's books.						0	
+gift409_des	为室内带来清新的气味，让你的大脑“焕然一新”。	為室內帶來清新的氣味，讓你的大腦“煥然一新”	室内に新鮮な匂いをもたらし、頭を「スッキリ」とさせる。	실내에 산뜻한 향기를 불어넣어 머리를 힐링 시켜준다.	Brings a fresh fragrance inside to "refresh" your mind.						0	
+gift410_des	随时随地开启你的力量训练。	隨時隨地開啟你的力量訓練	いつでもどこでもあなたのパワートレーニングを始められる。	언제 어디서나 근력 운동을 할 수 있다.	Start strength training anytime, anywhere.						0	
+gift414_des	适合体能进阶训练使用的跑步机，能根据使用者的状态调整训练模式。	適合體能進階訓練使用的跑步機，能依照使用者的狀態調整訓練模式。	上級者向けのランニングマシン。使用者の状態に応じて練習モードを調整できる。	체력 향상 훈련에 적합한 러닝머신은 사용자의 상태에 따라 훈련 모드를 조정할 수 있다.	A treadmill made for advanced physical training. It provides a wide variety of modes that allow runners to adjust their workout as needed.						0	
+gift420_des	芙提雅老师的研究报告指出：和喜欢的人一起做手指互动操，是增进感情的小秘诀哦~	芙提雅老師的研究報告指出：和喜歡的人一起做手指互動操，是增進感情的小秘訣哦~	フリティア先生の研究レポートによると、好きな人と一緒に指体操をすると、心の距離がぐっと縮まるんだよ。	프티야 선생님의 연구 보고서에 따르면, 좋아하는 사람과 함께 손가락 운동을 하는 것이 감정 소통의 비결이라고 한다.	According to Professor Fritia's study, practicing heart hand signs with someone you like is a proven formula to grow closer~						0	DLC3.6宿舍
+gift701_des	配置多种厨具的拐角型灶台，满足了进阶厨师的日常烹饪需求。	配置多種廚具的拐角灶台，滿足了中級廚師的日常烹飪需求。	多種類の調理器具が配置されたL型キッチン。上級料理人の普段の調理時の需要を満たせる。	다양한 조리기구가 배치된 코너형 조리대. 고급 셰프의 기본적인 요리 환경를 충족시켜준다.	With its variety of cooking utensils, this corner stove is perfect for advanced chefs.						0	
+gift702_des	工艺上乘的组合储物柜，内置有大量膨化零食和多种罐头。	工藝上乘的組合置物櫃，櫃內放滿了膨化零食和多種罐頭。	作り込まれた上質の複合型物置き棚。大量のスナック菓子と多種類の缶詰が入っている。	뛰어난 공예 품질의 조합형 캐비닛. 다양한 간식과 통조림이 들어 있다.	A finely-crafted pantry with several snacks and cans already included.						0	
+gift703_des	可根据内部储物量自动调节温控的大容量冰箱。	可根據內部食材數量自動調節溫度的大容量冰箱。	収容している物の量によって自動的に温度を調整する大容量冷蔵庫。	내부 저장량에 따라 자동으로 온도 조절이 가능한 대용량 냉장고.	A spacious refrigerator that can automatically adjust its temperature according to the internal store volume.						0	
+gift704_des	配置有蛋形双人餐椅的长桌，采用新型材料，环保轻便。	附帶雙人蛋形椅的長桌，使用新型材料製成，環保又輕便。	卵型の二人分のチェアが付いた食卓、環境に優しく軽量な新素材で作られた。	계란형의 2인용 의자와 원목 테이블로 구성. 친환경적이면서도 가벼운 신소재로 제작되었다.	A long dining table with two egg-shaped chairs. Made from new-age materials, it is lightweight and environmentally friendly.						0	
+gift705_des	说不清是为什么流行起来的小动物手偶，冬暖夏热。	說不清楚是為什麼流行起來的小動物手偶，冬暖夏熱。	なぜか流行り始めた小動物のハンドパペット。冬は暖かくて夏は暑い。	유행하게 된 출처를 알 수 없는 손가락 인형. 겨울에는 따뜻하고 여름에는 덥다.	It is unknown why this popular hand puppet is warm in winter and cool in summer.						0	
+gift706_des	保暖摇粒绒午睡毯，琴诺和莫尔索应该会……喜欢的颜色？	保暖搖粒絨午睡毯，琴諾和莫爾索應該會……喜歡的顏色？	保温フリース製の昼寝用のマット。チェルノとムルソーが……好きそうな色？	보온형 양털 낮잠 카펫. 체르노와 모르소가 좋아할 만한…색상일지도?	A thermal fleece blanket. Cherno and Meursault like this color... right?						0	
+gift707_des	集合了市面上最受欢迎的抱枕、玩偶和储物桶，一套完成温情角落。	集合了市面上最受歡迎的抱枕、玩偶和置物桶，一套完成溫馨角落。	もっとも流行っている抱き枕、ぬいぐるみと物置きバケツを掻き集めて、ぬくぬくコーナーの完成だ。	시중에서 가장 인기 있는 쿠션. 인형과 수납통 세트로 한구석을 아늑하게 꾸며준다.	A collection made up of the most popular pillows, dolls, and storage containers on the market. Complete your cozy nook with this set.						0	
+gift708_des	致莫尔索。	致莫爾索。	ムルソーへ	모르소를 위한 카드키.	For Meursault.						0	
+gift709_des	一对熊熊兔兔大头抱枕。	一對熊熊兔兔大頭抱枕。	クマとウサギの大きな頭の抱き枕のセット。	곰과 토끼의 얼굴 쿠션 세트.	A pair of bear and rabbit pillows with big heads.						0	
+gift710_des	年轻少女不能总是拿着老旧到屏幕碎裂的通讯设备。	年輕少女不能總是拿著老舊到螢幕碎裂的通訊裝置。	若い女の子が画面の割れた古い通信機をいつまでも使ってちゃだめでしょう。	어린 소녀가 화면이 깨진 낡은 통신 기기를 들고 다닐 수는 없는 법이다.	Teenage girls can't be expected to use old communicators with shattered screens forever.						0	
+gift711_des	简约的双人餐桌，配有粉色地毯，营造出温馨可爱的房间一角。	簡約的雙人餐桌，配有粉紅色地毯，營造出溫馨可愛的房間一角。	シンプルなツインテーブルにピンクのカーペット、温かく可愛らしい部屋に不可欠な存在。	심플한 2인 식탁에 핑크 카펫이 어우러져 아늑하고 사랑스러운 분위기를 연출한다.	A neatly designed dining table and chairs for two. It even comes with a cute pink rug that makes the room more cozy.						0	
+gift801_des	知名设计师个人工作室作品，当季新款。	知名設計師個人工作室作品，當季新款。	有名デザイナーの個人スタジオの作品。この季節の最新作。	유명 디자이너의 개인 작업실 작품으로 시즌의 신상품이기도 하다.	A new, seasonal piece from a well-known designer's personal studio.						0	
+gift802_des	满足使用者时刻保持精致的需求。	滿足使用者時刻保持精緻的需求。	常に綺麗に見せたいユーザーの需要に応える。	언제 어디서나 우아함을 유지하는 사용자의 수요를 만족시킬 수 있다.	Ready to aid users in maintaining their beauty at any time.						0	
+gift803_des	可以用来放置很多奖杯奖牌的嵌入式展示柜，很多的奖杯奖牌。	可以用來放置很多獎盃獎牌的嵌入式展示櫃，很多的獎盃獎牌。	トロフィーがたくさん置けるくり抜き式展示棚。トロフィーとメダルがたくさん入っている。	대량의 트로피와 메달을 수납할 수 있는 매립형 진열장. 엄청난 양의 트로피와 메달을 진열할 수 있다.	A display case that can be used to store several trophies and medals.						0	
+gift804_des	知名设计师个人工作室作品，需要配货。	知名設計師個人工作室作品，需要配貨。	有名デザイナーの個人スタジオの作品。商品を取り合わせる必要がある。	유명 디자이너의 개인 작업실 작품으로 상품이 출고할 때까지 기다려야 한다.	A work created in a well-known designer's personal studio that is out-of-stock.						0	
+gift805_des	供以随时浏览数据，可与任意设备连接投屏。	能夠隨時瀏覽數據，可與任意裝置連線投影。	すぐに閲覧することができ、任意の設備のスクリーンに映すことが可能。	언제든지 데이터를 검색할 수 있으며 모든 기기와 연결해 미러링할 수 있다.	Can be used to conveniently view data. It can connect to any device instead of using a screen.						0	
+gift806_des	知名家族手工制作的年度限定款，仅凭财富难以拥有。	知名家族手工製作的年度限定款，僅憑財富也難以擁有。	有名な一家の手製の年度限定版、お金だけあっても手に入れることは難しい。	유명한 가문이 수작업으로 제작한 연간 한정판 악기 세트. 돈이 있어도 구하기 힘든 레어템이다.	A limited-edition handicraft made by a well-known family. It is difficult to obtain through wealth alone.						0	
+gift807_des	可以与同系列化妆台组合，时刻映照美貌。	可以與同系列化妝台組合，時刻映照美貌。	同シリーズの化粧台と組み合わせることで、いつでもあなたの美しい顔を映し出せる。	같은 계열의 화장대와 조립해 사용할 수 있으며, 자신의 아름다움을 마음껏 감상할 수 있다.	Can be combined with the vanity of the same set to reflect its user's beauty.						0	
+gift808_des	只有配货额度达标的顾客才可购买的奢侈品配饰。	只有消費額度達標配貨金額的顧客才可購買的奢侈品配飾。	商品のセット価格をクリアしたお客さんだけが買える贅沢品のアクセサリー。	일정 금액 이상 구매한 고객만 구매할 수 있는 명품 액세서리.	A luxury accessory that can only be purchased by customers who meet the spending quota.						0	
+gift809_des	印有某位金发女子偶像的多张海报。	印有某位金髮女子偶像的多張海報。	某金髪女子アイドルが印刷されている数枚のポスター。	금발 아이돌 소녀의 포스터 세트.	Several posters featuring a blonde female idol.						0	
+gift810_des	大容量储存仪器，可随时查阅内容数据。	大容量儲存儀器，可隨時查閱內容數據。	大容量メモリー。いつでも中のデータを閲覧できる。	대용랑 저장 장치로 언제든지 데이터를 조회할 수 있다.	This high-capacity storage device allows its user to check data at any time.						0	
+gift811_des	增加了更多收藏品的展柜，从内到外散发着金色光芒。	增加了更多收藏品的展櫃，從內到外散發著金色光芒。	コレクションの収納量を増やした、金色に輝くショーケース。	더 많은 소장품을 담고 있으며, 안에서 황금색 빛을 내뿜는다.	A display case with added space. The inside gleams with a golden finish.						0	
+gift820_des	嫩滑的肌肤，细腻的脚踝，柔软的足底……这里有只小狮子需要陪伴抚摸，请分析员亮出本领帮帮她吧！	嫩滑的肌膚，細膩的腳踝，柔軟的足底……這裡有隻小獅子需要陪伴撫摸，請分析員亮出本領幫幫她吧！	滑らかな肌、繊細な足首、柔らかい足裏……まるで小さなライオンのような彼女が、撫でられるのを待っている。さあ、彼女のために、分析員の腕を披露する時だ！	부드러운 피부, 섬세한 발목, 부드러운 발바닥… 이곳에 함께하고 보살펴줘야 할 작은 사자가 있다. 능력을 발휘해 그녀를 도와주자!	Soft skin, delicate ankles, plush soles… The Little Lioness calls for your gentle touch, Adjutant. Show her your expertise!						0	DLC2.3宿舍
+gift821_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与芬妮的甜蜜瞬间。	按照等身尺寸製作的恆約紀念影像，記錄了分析員與芬妮的甜蜜瞬間。	等身大サイズで製作された誓約記念写真。分析員とファニーの甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 페니의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Fenny together.						0	DLC2.5宿舍
+gift1301	便捷家用摄影棚	便捷家用攝影棚	携帯式家庭用撮影ブース	가정용 스튜디오	Handy Home Studio						0	
+gift1302	生态观赏鱼缸	生態觀賞魚缸	観賞用アクアリウム	생태계 관상용 어항	Ecological Aquarium						0	
+gift1303	叠层式盆栽造景	堆疊式盆栽造景	積み重ね式盆栽棚	분재 조경	Stackable Pots						0	
+gift1304	影像留言屏	影像留言螢幕	スクリーンボード	영상 메시지 화면	Video Message Screen						0	
+gift1305	自印款拼图桌组	自印款拼圖桌組	カスタム式パズルテーブル	셀프 출력 퍼즐 테이블 세트	Custom Puzzle Table Set						0	
+gift1306	自粘式原木拼接板	自黏式原木拼接板	自動吸着式木製プレート	셀프 접착식 원목 판	Self-Adhesive Wooden Boards						0	
+gift1307	复古录音笔	復古錄音筆	レトロ調ペン型レコーダー	빈티지 녹음펜	Retro Recorder Pen						0	
+gift1308	拍立得相机相纸套装	拍立得相機底片套裝	ポラロイドカメラ用ペーパーセット	폴라로이드 인화지 세트	Polaroid Camera Film Set						0	
+gift1309	记录报告	記錄報告	記録レポート	보고 기록	Log Report						0	
+gift1310	立体月球虚影灯	立體月球虛影燈	3D月球投影ランプ	루나 램프	3D Moon Projection Light						0	
+gift1314	高级造景鱼缸	高級造景魚缸	高級アクアリウム	프리미엄 조경 어항	Choice Aquascaping Tank						0	
+gift1301_des	不输专业影棚的配置，提供给有足够使用空间的家庭。	不輸專業攝影棚的配備，提供給使用空間足夠的家庭。	プロが使うスタジオにも負けないハイスペック機材。スペースに余裕がある家庭向けの一品。	전문 스튜디오 못지않게 넉넉한 공간을 갖춘 가정에 제격이다.	Just as good as a professional studio, this item is perfect for homes with enough space to accommodate it.						0	
+gift1302_des	配备完整的生态养殖环境，购买后只需倒入您的爱鱼即可。	配備完整的生態養殖環境，購買後只需倒入您的愛魚即可。	完璧な養殖環境が整えられている。愛魚を入れるだけで完成する、初心者にも優しいアクアリウム。	완전한 생태계 양식 환경을 갖추고 있어 구매 후 좋아하는 어종을 붓기만 하면 된다.	Upon purchasing, simply put your favorite fish straight into this tank equipped with a complete ecological habitat.						0	
+gift1303_des	轻轻松松购入，立刻让您的房间生机盎然。	輕輕鬆鬆購入，立刻讓您的房間生機盎然。	お手軽に購入できるこの棚が、あなたの部屋を華やかに。	구매 시 방 안에 활력을 가져다준다.	A small purchase that instantly brings a lot of life to your room.						0	
+gift1304_des	快捷安装，贴墙开启就可使用，随时随地查看重要信息。	快速安裝，貼牆開啟就可使用，隨時隨地檢視重要資訊。	簡単に組み立てできて、壁に貼り付けるだけで使用可能。いつでも重要な情報をチェックできる。	벽에 붙일 시 바로 사용할 수 있을 정도로 빠른 설치가 가능하다. 언제 어디에서든지 중요한 정보를 확인할 수 있다.	With quick installation, this wall-mounted screen allows you to view important information anytime, anywhere.						0	
+gift1305_des	逻辑训练桌椅组合，附赠自选图案的拼图套装。	邏輯訓練桌椅組合，附贈自選圖案的拼圖套裝。	ロジックトレーニング用にも使える、組み合わせ可能なテーブルと椅子のセット。選択可能なパズルセットもついている。	로직 트레이닝 테이블 체어 세트로 선택할 수 있는 패턴의 퍼즐 세트가 함께 제공된다.	Train your brain with this table and chair set, including a puzzle with a pattern of your choice.						0	
+gift1306_des	时尚材质拼接，成为您家中的亮眼角落。	使用時尚材質拼接，成為您家中的亮眼角落。	おしゃれな材質を繋ぎ合わせていて、家の中の注目ポイントになる一品。	트렌디한 소재의 스플릿으로 구성되어 집안에 활력을 가져다준다.	This chic material will become a bright spot in your home.						0	
+gift1307_des	使用复古硬朗外壳，搭载最新储存技术与容量。	使用復古堅固外殼，搭載最新儲存技術與容量。	硬質なレトロ調の外装を使用しながら、最新のデータストレージ技術と容量を搭載しているレコーダー。	빈티지 하드 케이스를 사용하고 최신형 스토리지 기술과 메모리를 탑재하고 있다.	This combines a durable, vintage case with the latest storage tech and capacity.						0	
+gift1308_des	即拍即得，感受时间长河中遥远过去的成影效果。	即拍即得，感受時間長河中遙遠過去的成影效果。	撮影後にすぐ写真が完成。遠い昔の現像効果を体験できる。	찍는 순간 바로 얻을 수 있으며, 마치 긴 시간의 흐름 속에 아득히 먼 과거를 회상하는 것과 같은 느낌을 받을 수 있다.	Point and shoot to sense the effects of the past on the long river of time.						0	
+gift1309_des	记录有某人初次见面谈话的报告，需要一定权限才能下载进固定设备。	記錄著某人初次見面談話的報告，需要相關權限才能下載到固定裝置。	とある人と初対面した時の会話を記録したレポート。特定のデバイスにダウンロードするには一定の権限が必要。	누군가 첫 만남에서 나눴던 대화를 기록하고 있다. 합당하는 권한을 갖고 있어야 고정 디바이스에 다운로드할 수 있다.	A report that logs someone's first meeting and their conversation. It requires permissions to download on a set device.						0	
+gift1310_des	仿制了月球外形的夜灯，流淌着月球那样灰色清透的光。	仿製了月球外形的夜燈，流淌著月球那樣灰色清透的光。	月球の形を模したランプ。神秘的な夜を彷彿とさせる透き通った灰色の光が流れている。	달의 외형을 본뜬 야광 등으로 달처럼 회색빛을 띄고 있다.	A night light modeled after the moon. Its light is silver and clear, like the moon.						0	
+gift1314_des	经过设计的生态鱼缸，造景参考了枯木与山石的形态，别有一番韵味。	經過設計的生態魚缸，造景參考了枯木與山石的形態，別有一番韻味。	枯れ木と山石の風景を参考に設計された水槽。趣がある。	디자인된 생태 어항은 마른 나무와 바위의 형상을 조경에 활용하여 독특한 매력을 선사한다.	A fish tank with a carefully created ecological habitat. With driftwood and rocks delicately placed, this aquascape has wonderful aesthetics.						0	
+gift1401	圆形藏书角	圓形藏書角	ムーンブックシェルフ	원형 책장	Round Bookshelf Corner						0	
+gift1402	呼吸训练套组	呼吸訓練套組	呼吸訓練セット	호흡 훈련 세트	Breathing Training Kit						0	
+gift1403	悬浮投影装饰	懸浮投影裝飾	浮遊ホログラム	서스펜션 프로젝터	Hovering Projection Decoration						0	
+gift1404	红木长案	紅木長案桌	紫檀の長机	마호가니 테이블	Redwood Long Table						0	
+gift1405	禽鸟戏挂饰	禽鳥戲掛飾	鳥遊の壁飾り	바이오닉 버드 홀더	Bird Ornament						0	
+gift1406	山水造景	山水造景	山水の造景	산수 조경	Landscape Set						0	
+gift1407	真丝摹竹屏风	真絲墨竹屏風	シルク製の屏風	진사모사 병풍	Silk Bamboo Screen						0	
+gift1408	高透明置物架	高透明置物架	アクリルラック	고투명 선반	Highly-Transparent Shelf						0	
+gift1409	燃火熏香炉	燃火薰香爐	アロマストーブ	소성 향로	Incense Burner						0	
+gift1410	绳结顶饰	繩結頂飾	縄結びの天井飾り	끈 매듭 장식	Knotted Ceiling Ornament						0	
+gift1413	明灯新仪纪念合影	明燈新儀紀念合照	明灯新祭の記念撮影	등불 의식 기념사진	Mingdeng Ritual Commemorative Photo						0	
+gift1412	精装藏书角	精裝藏書角	豪華本棚	럭셔리 책장 코너	Exquisite Bookshelf Corner						0	
+gift1420	柔荑纾倦	柔荑紓倦	指先の癒し	포근한 촉감	Tranquil Touch						0	DLC3.1宿舍
+gift1421	恒约纪念之锦绣缘	恆約紀念之錦繡緣	誓約記念・麗しき縁	언약 기념-화려한 인연	Covenant Keepsake: Rouge Bliss						0	DLC2.5宿舍
+gift1401_des	配置有贵妃躺椅的圆形书架，被有心人在上面添置了不少纸质古籍。	配有貴妃椅的圓形書架，有人很用心的在上面擺放了不少紙質古籍。	三日月型のソファー付きの本棚。誰かが古い書籍を置いたようだ。	귀빈석 라운지 의자 형상의 원형 책장으로 아끼는 이들의 손을 거쳐 수없이 많은 종이 서적들이 진열되어 있다.	This circular bookshelf with chaise lounges has been meticulously filled with ancient books by someone.						0	
+gift1402_des	为繁忙的工作族开发的便捷冥想套装，呼吸之间洗涤心灵杂质。	為繁忙的上班族開發的便捷冥想套裝，在一呼一吸之間洗滌心靈。	日々多忙な社会人のために開発されたクイック瞑想セット。ゆっくり呼吸をしながら、心の不純物を洗い流しましょう。	바쁜 직장인을 위해 개발된 편리한 명상 키트로 호흡을 통해 마음의 불순물을 걷어낼 수 있다.	A convenient meditation kit developed to help busy workers sweep away negative thoughts between breaths.						0	
+gift1403_des	桌上使用型悬浮投影，使用者可通过对应毛笔在空中书写投影内容。	桌上型懸浮投影工具，使用者可透過專用毛筆在空中書寫投影內容。	卓上浮遊ホログラム。専用の筆で空中に書いた内容をホログラムにできる。	데스크 위에서 사용하는 플로팅 투영 방식으로 사용자는 브러시를 사용해 공중에서 프로젝트 콘텐츠를 적을 수 있다.	A hovering projection for use on a desktop. Users can write on the projection with the corresponding pen.						0	
+gift1404_des	与市场上常见的复合塑料家具不同，用整根红木原木打造而成，物美价高。	與市面上常見的複合型塑膠傢俱不同，是用整根紅木的原木打造而成，物美價廉。	市場に流通している一般的な複合プラスチック家具とは異なり、一本の紫檀から作られたもの。上質で高価格。	시장에서 보는 합성 플라스틱 재료와는 달리 전체적으로 마호가니 원목으로 제조해서 품질이 좋고 가격이 비싸다.	As opposed to the plastic furniture common on the market, this long table is made of an entire redwood log. Its high quality justifies its high price.						0	
+gift1405_des	凭借自由定制的仿生鸟而闻名的壁挂装饰，配套仿生鸟可选择不同套餐升级为智能家居管家。	以客製化的仿真鳥而聞名的壁掛裝飾，配備的仿真鳥可以選擇不同方案升級為AI管家。	スマートホーム執事として知られているバイオニックバードの壁飾り。オーダーメイドで自由にカスタマイズできるバイオニックバードは技術発展の象徴とも言えるかもしれない。	커스터마이징 바이오닉 버드로 유명한 벽걸이 장식. 바이오닉 버드는 다양한 패키지를 선택하여 스마트 홈 관리자로 업그레이드 할 수 있다.	The bionic bird in this customizable wall-hanging decoration can be upgraded to a smart home housekeeping AI by choosing a different set.						0	
+gift1406_des	自由组合的山水造景套装，可灵活更换配套装饰。	自由組合的山水造景套裝，可根據使用者喜好自行更換裝飾。	思うままに山水造景を楽しむことができるセット。付属の装飾を自由に入れ替えられ、空間に一味センスを加えたいあなたに。	자유로운 조합으로 구성된 산수 조경 세트. 다양한 장식을 유연하게 교체할 수 있다.	Freely mix and match with this landscape set. Matching decorations can be easily replaced.						0	
+gift1407_des	机械与手工艺的结合品，中间嵌入的是手工真丝墨画。	機械與手工藝的完美結合，中間嵌入的是手工真絲墨畫。	機械と手工芸を組み合わせたもので、中央には手作りのシルクの水墨画が埋め込まれている。	기계와 수공예의 결합품으로 중간에 수제 실크 잉크 그림이 박혀 있다.	Constructed through both handmade and mechanical means, a handmade silk ink painting is embedded in the middle.						0	
+gift1408_des	结实耐磨的新一代亚克力置物架。	結實耐磨的新一代壓克力置物架。	丈夫で長く使える次世代アクリル樹脂で作られた棚。	튼튼하고 마모에 강한 차세대 아크릴 선반	Ushering in a new generation of durable acrylic shelves.						0	
+gift1409_des	黄铜制熏香炉，附有体验装的檀香、龙涎香等。	黃銅製熏香爐，附有體驗裝的檀香、龍涎香等。	真鍮製のアロマストーブ。白檀、龍涎などの香りお試しパック付き。	백단향, 용연향 등의 시험용 팩이 포함된 황동 향로	A copper incense burner with sample packs of sandalwood, ambergris, and more.						0	
+gift1410_des	绳结与灯带的结合设计，给房顶增添特别的创意风味。	繩結與燈帶的組合設計，為屋頂加上特別的創意裝飾。	結び目とライトストリップを組み合わせたデザインが、屋根に特別なクリエイティブな風味を加えます。	매듭과 라이트 스트립이 결합된 디자인으로 천장에 창의적인 느낌을 선사할 수 있다.	The combination of both knots and light strips adds a special, creative flair to your ceiling.						0	
+gift1412_des	进行了布局调整的藏书角，可以两个人一起看书了。	進行了版面調整的藏書角，可以兩個人一起看書了。	レイアウトを調整した読書コーナー。二人で一緒に本を読むことができる。	레이아웃이 조정된 책장으로 두 사람이 함께 책을 읽을 수 있다.	A bookshelf and reading area that boasts an upgraded design. It has enough space for two readers now.						0	
+gift1421_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与辰星的甜蜜瞬间。	按照等身尺寸製作的恆約紀念影像，記錄了分析員與辰星的甜蜜瞬間。	等身大サイズで製作された誓約記念写真。分析員と辰星の甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 수성의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Chenxing together.						0	DLC2.5宿舍
+gift1420_des	纤纤玉指，只为郎君启。暖息交融，轻语抚眉心。	纖纖玉指，只為郎君啟。暖息交融，輕語撫眉心。	しなやかな指が、あなただけに優しいぬくもりを届ける。囁きとともにそっと触れ、癒しのひとときを。	가느다란 손가락은 오직 낭군을 위해 움직인다. 따뜻한 숨결이 어우러지고, 부드러운 말이 미간에서 미끄러져 내린다.	Sink into her lap as gentle hands attend to you alone. Her whispers are soft, and her touch is lighter than breath.						0	DLC3.1宿舍
+gift501	时尚茶几	藝術茶具	アートティーセット	예술 다기 세트	Stylish Tea Table Set						0	
+gift502	花艺练习桌组	花藝練習桌組	生花練習セット	꽂꽂이 연습 테이블 세트	Floristry Practice Table Set						0	
+gift503	科技布艺术沙发	科技布藝術沙發	テックファブリックアートソファ	테크니컬 페브릭 아트 소파	Fine Leathaire Sofa						0	
+gift504	壁挂式梳妆台	壁掛式梳妝台	壁掛けドレッサー	벽걸이 화장대	Wall-Mounted Vanity						0	
+gift505	射击训练吊顶	射擊訓練吊頂	射撃訓練用吊天井	사격 훈련 천장	Shooting Practice Ceiling						0	
+gift506	自组式展示墙	自組式展示牆	組み立て式ディスプレイウォール	DIY 전시장	DIY Wall Display						0	
+gift507	电子相框组	電子相框組	デジタルフォトフレームセット	디지털 사진 프레임 세트	Electronic Picture Frame Set						0	
+gift508	实体门票收藏夹	實體門票收藏夾	チケットアルバム	오프라인 티켓 모음집	Ticket Collection Binder						0	
+gift509	手工打制摩卡壶	手工打製摩卡壺	手作りモカポット	핸드메이드 모카포트	Stovetop Moka Pot						0	
+gift510	电影蓝光碟	電影藍光碟	映画のブルーレイディスク	영화 블루레이	Azure-Ray Movie Disc						0	
+gift514	科技布轻奢沙发	科技布輕奢沙發	デラックス合皮ソファ	신소재 럭셔리 소파	Superior Leathaire Sofa						0	
+gift520	蒙眼辨物	蒙眼辨物	目隠しゲーム	블라인드 게임	Blindfold Game						0	
+gift521	恒约纪念之心相系	恆約紀念之心相繫	誓約記念・心の絆	언약 기념-이어진 마음	Covenant Keepsake: Purelove Plumage						0	DLC3.5宿舍
+gift501_des	某知名家具品牌推出的新品，主打可以一个人搬运的极轻重量，以及简洁设计所带来的艺术感。	某知名傢俱品牌推出的新品，賣點為一人也能搬運的極輕重量，以及簡約設計所營造的藝術感。	とある大手家具ブランドの新商品。一人でも運べるほど軽量でシンプルなデザインが特徴。	모 유명 업체 가구 브랜드의 신제품. 한 사람이 운반해도 될 가벼운 무게와 심플하고 깔끔함을 본뜬 예술적 감각으로 유명하다.	This new product launched by a well-known furniture brand is extremely lightweight and can be carried by one person. Its simplistic design evokes a sense of artistry.						0	
+gift502_des	配备有多个造型花瓶与一把工艺剪刀的套装，适合初学者入门花艺、熟练者多份备用。	配備有多個造型花瓶與一把工藝剪刀的套裝，適合初學者入門花藝、熟練者多一份備用。	複数の造形花瓶と一本の花鋏のセット。初心者の手解きと上級者の備えに向いている。	패셔너블한 화병들과 공예용 가위 하나로 구성된 세트. 초심자가 꽂꽂이에 입문하기에 좋고, 숙련자들은 여러 개를 구비하기도 한다.	This set contains multiple example vases and a pair of craft scissors, making it perfect for beginners and skilled florists alike.						0	
+gift503_des	使用了最新的科技布，防抓防污防割！即使是血迹都能轻松用湿巾擦除，是款居家必备的沙发。	使用了最新的科技布，防抓防污防割！即使是血跡都能輕鬆用濕巾擦除，是款居家必備的沙發。	最新型加工布使用、キズ・汚れ防止！血痕でもウェットティッシュで簡単に拭き取れる必需品。	최신 테크니컬 패브릭을 사용으로 3종 방지 가능!(스크레치, 오염, 절단) 혈흔도 물티슈로 쉽게 지울 수 있어 집안에 꼭 필요한 소파다.	Using the latest innovations in leathaire fabric, this sofa is resistant to scratches, stains, and cuts! Even blood stains can be wiped away easily, making it a must-have for any home.						0	
+gift504_des	可调节方向角度、随意向外拉伸的壁挂式梳妆台，半身镜内置有圆形补光灯。	可調節方向角度、隨意向外伸縮的壁掛式梳妝臺，半身鏡內建圓形補光燈。	角度や向きを調節でき、思うままに引き出せる壁掛け式化粧台。半身鏡に円形の照明がついている。	방향과 각도를 마음대로 조절할 수 있으며 연장까지 가능한 벽걸이 화장대. 반신 거울 속에 원형 조명이 내장되어 있다.	The wall-mounted vanity can be freely extended, and its direction and angle can be adjusted as well. Its half-length mirror has a built-in ring light.						0	
+gift505_des	家庭用反应力、感知力、视力训练装置，附带全息投影场地，给孩子一个快乐童年。	家庭用反應力、感知力、視力訓練裝置，附帶全息投影場地，給孩子一個快樂童年。	ホログラフィック投影機能を備えた家庭用の反応力・知覚力・視覚力トレーニング装置。子供たちに幸せな子供時代を。	반응력, 지각력 및 시력 훈련 장치와 홀로그램 디스플레이가 달려있는 가정용 장치는 아이들에게 즐거운 추억을 선물할 수 있다.	This at-home training device uses holographic projection to train reaction time, perception, and vision — making kids happy one session at a time.						0	
+gift506_des	拥有多模块的展示墙，可自由组合拼装，打造客户理想中的收纳角。	擁有多模塊的展示牆，可自由組合拼裝，打造客戶理想中的收納角。	複数モジュールを持つディスプレイウォール。自由に組み合わせ、理想的な収納コーナーを作ることができる。	여러 모듈이 탑재된 디스플레이 벽으로 자유롭게 조립할 수 있어 고객이 원하는 수납 코너를 만들어준다.	This multi-piece wall display can be freely customized and assembled for customers to create the perfect storage area.						0	
+gift507_des	最简单的方式呈现最值得纪念的瞬间，可以将电子设备里的影像定格在自己随时可见的地方。	最簡單的方式展現最值得紀念的瞬間，可以將電子設備中的影像定格在自己隨時可見的地方。	最もシンプルな形で最も記念すべき瞬間を、いつでも見える場所に。	가장 기본적인 방식으로 가장 기억에 남는 순간을 담는다. 전자기기 안에 담긴 영상은 언제든지 자신이 볼 수 있는 곳에 배치할 수 있다.	The simplest way to preserve your memories is to freeze images on an electronic device where you can view them anytime.						0	
+gift508_des	在几乎一切都是电子数据的当下，收藏实体门票只是一些人的癖好而已，而这款产品专为收藏而生。	在幾乎一切東西都已是數位化的當下，收藏實體門票只是一些人的癖好而已，而這款產品專為收藏而生。	ほとんどのものが電子データ化されている現在。紙のチケットを集めるのは一部の人たちの単なる趣味であり、この商品はそのコレクションのために生まれたものだ。	거의 모든 것이 디지털 데이터인 오늘날, 오프라인 티켓을 수집하는 것은 일부 사람들의 취향일 뿐이다. 해당 제품은 수집을 하기 위해 만들어졌다.	In this age when almost everything is electronic data, collecting physical tickets is a hobby for some, and this product was made for these collectors.						0	
+gift509_des	如今一切都可以达到精准配比调味，只有一些人还会使用这款摩卡壶，在屡次溢壶里找到品尝咖啡的初心。	如今一切都可以達到精準配比調味，只有一些人還會使用這款摩卡壺，在屢次溢壺裡找到品嚐咖啡的初心。	何もかも正確に調合される現代、ほんの一部の人だけがこのモカエキスプレスを使う。溢れる度に、初めてコーヒーを味わった感動を思い出す。	오늘날 모든 것은 정밀하게 비율을 맞출 수 있지만, 소수의 사람들은 아직까지 모카 포트를 사용하며 넘실거리는 주전자 안에서 처음 커피를 맛보던 그때의 마음을 떠올린다.	Even though all ingredients can be precisely proportioned now, some still use this moka pot to experience the initial feeling of tasting coffee from a pot filled to the brim.						0	
+gift510_des	一部关于芭蕾、禽鸟、自我的优秀电影，在50周年纪念之际推出的高清复刻收藏版蓝光碟。	一部關於芭蕾、禽鳥、自我的優秀電影，在50週年紀念之際推出的高清復刻收藏版藍光碟。	バレエ、鳥、自我がテーマとなっている優秀な映画作品。50周年記念して、HDリマスター版ブルーレイがリリースされた。	발레, 조류, 자아에 대한 내용을 담고 있는 유명 영화로 50주년 기념일에 출시된 고화질 소장본 블루레이다.	A wonderful film about ballet, birds, and ourselves, released in HD and remastered for its 50th anniversary.						0	
+gift514_des	材料升级后推出的新款沙发，在保留易清洁特点的基础上，使用了更亲肤的布料，敏感肌也能使用。	材料升級後所推出的新款沙發，在保留了容易清潔的優點之外，使用了更親膚的布料，敏感肌也能使用。	お手入れの簡単さはそのままに、敏感肌さんにも使えるよう、より肌に優しい生地にグレードアップした新しいソファ。	소재 업그레이드를 거쳐 출시된 신제품 소파. 청소가 용이하며, 피부에 친화적인 원단을 사용해 민감성 피부에도 사용할 수 있다.	This new sofa was created after improvements were made to the material. It remains easy to clean but is more comfortable on the skin — even those with sensitive skin can have a seat.						0	
+gift520_des	遮挡住眼睛的训练，只想微微战栗着……在最亲密的人面前进行哦。	遮擋住眼睛的訓練，只想微微戰慄著……在最親密的人面前進行哦。	目隠しでの訓練、ただ震えたいだけ……もっとも親しい人の前でしてね。	가장 특별한 사람 앞에서 약간의 긴장을 머금고 눈을 가린 채로 훈련을…	It's training with my eyes covered. I enjoy the shiver of suspense... in front of that certain someone closest to me.						0	
+gift521_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与茉莉安的甜蜜瞬间。	依照等身尺寸製作的恆約紀念影像，記錄了分析員與茉莉安的甜蜜時刻。	等身大サイズで製作された誓約記念写真。分析員とマリアンの甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 마리안의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Marian together.						0	DLC3.5宿舍
+gift601	多功能维护立柱	多功能維護立柱	多機能整備柱	멀티 정비 기둥	Multi-Functional Maintenance Stand						0	
+gift602	花卉培养套装	花卉培養套組	花の育成セット	플로리스트 육성 세트	Flower Watering Kit						0	
+gift603	机械维护组合	機械維護組合	ロボット整備セット	기계 정비 조합	Mechanical-Arm Maintenance Set						0	
+gift604	吊顶式沙袋	吊頂式沙包	吊り下げサンドバッグ	천장 걸이식 샌드백	Hanging Sandbag						0	
+gift605	家用自律套组	家用自律套組	家庭用トレーニングセット	가정용 관리 세트	At-Home Fitness Kit						0	
+gift606	奖章展示柜	獎章展示櫃	メダル展示棚	트로피 진열장	Medal Display Case						0	
+gift607	座式投影装饰	座式投影機	据置型ホログラム	좌식 프로젝터 장식품	Seated Projector						0	
+gift608	腹肌轮	健腹輪	腹筋ローラー	복근용 롤아웃	Ab Wheel						0	
+gift609	修护液套装	修護液套組	修復液セット	수리액 세트	Repair Fluid Kit						0	
+gift610	合金首饰盒	合金飾品盒	合金ジュエリーボックス	합금 액세서리 케이스	Alloy Jewelry Box						0	
+gift613	家用互助套组	家用互助套組	家庭用フィットネスセット	가정용 2인 피트니스 세트	At-Home Partner Exercise Kit						0	
+gift614	装备收纳柜	裝備收納櫃	装備キャビネット	장비 수납함	Equipment Storage Wall						0	
+gift620	温热软“枕”	溫熱軟「枕」	ふんわり「まくら」	부드러운 '온열 베개'	Cozy "Pillow"						0	DLC2.4宿舍
+gift601_des	立式机械臂维护装置，配置有完整的维护辅助芯片，只需靠近立柱就可以等待养护完成。	立式機械臂維護設備，配備完整的維護輔助晶片，只需靠近立柱就可以等待保養結束。	縦型ロボットアーム整備装置。メンテナンス補助チップが組み込まれていて、柱に近づけるだけでメンテナンス作業を行う事が可能。	스탠드형 로봇팔 정비 장치. 완전한 정비 보조 칩이 장착되어 있어 기둥에 가까이 가서 기다리기만 하면 정비가 완료된다.	This upright maintenance device is equipped with a comprehensive auto-assistant chip. Simply approach the stand, and maintenance for one's mechanical arm will be completed in no time.						0	
+gift602_des	配套有专用浇水壶的合金制烤漆花盆，自有的余水循环机关，无需担心室内溢水问题。	配備專用澆水壺的合金制烤漆花盆，自有的餘水循環機關，無需擔心室內溢水問題。	専用のじょうろが付属している合金の焼付塗装鉢。独自の余水循環装置を備え、室内で水漏れの心配は無い。	특수 물뿌리개가 장착된 금속 화분. 자체적으로 물을 순환하는 메커니즘으로 실내에 물이 넘치는 현상을 걱정할 필요가 없다.	This alloy flower pot comes equipped with a special watering can and its own surplus water circulation system, so there's no need to worry about the water overflowing.						0	
+gift603_des	桌面式机械臂养护装置，即坐即享受，省去拆卸-清理-装载机械臂的繁琐步骤。	桌面式機械臂保養裝置，即坐即享受，省去拆卸-清理-裝載機械臂的繁瑣步驟。	卓上型ロボットアーム整備装置。座ってすぐに利用でき、ロボットアームの分解-清掃-再装着する手間を省く。	데스크톱 타입의 로봇팔 유지보수 장치로 분해, 청소, 장착 등의 번거로운 단계를 생략할 수 있고, 앉아서 즐길 수 있다.	This tabletop maintenance device can be used by just sitting down next to it, eliminating the need for any troublesome removal, cleaning, and reattachment of one's mechanical arm.						0	
+gift604_des	世界树公司训练室同款的沙袋，经典且实用。	世界樹公司訓練室的同款沙包，經典且實用。	ユグドラシル社のトレーニングルームと同仕様のサンドバッグ。定番かつ実用的。	위그드라실 회사의 훈련실과 동일한 종류의 샌드백으로 클래식하고 실용적이다.	Both classic and practical, this sandbag is the same kind used in the Yggdrasil training room.						0	
+gift605_des	入门级的自律健身套组，家中只需要有可以展开双臂的空间就可以锻炼。	入門級的自律健身套組，在家中只要有能夠展開雙臂的空間就可以鍛煉。	初心者向けのトレーニングセットで、腕を広げるスペースがあれば家で運動が可能。	입문용 홈트레이닝 세트로 집 안에 양팔을 펼 수 있는 공간만 있으면 곧바로 운동할 수 있다.	A self-discipline fitness kit for beginners. It can be used wherever you have enough room to extend your arms.						0	
+gift606_des	定制尺寸的壁挂展示柜，使用合金柜体和钢化玻璃柜门，配套磁吸贴便于粘置展示品。	訂製尺寸的壁掛展示櫃，使用合金櫃體和強化玻璃櫃門，配備磁鐵便於吸附展示品。	カスタムサイズの壁掛け展示棚。合金素材と強化ガラスの扉を使用しており、磁石で展示品を貼ることも可能。	맞춤 제작한 벽걸이식 진열장. 합금 캐비닛과 강화유리 캐비닛 도어를 사용하며, 흡착 시트를 부착해 전시품을 쉽게 부착할 수 있다.	A custom-sized, wall-mounted display case. It utilizes an alloy frame, tempered glass doors, and magnetic stickers to conveniently display items.						0	
+gift607_des	客制化投影仪，可根据客人需求定制投影内容，出厂后，也可以连接投影仪自行更换模型内容。	客製化投影機，可根據客人需求訂製投影內容，出廠後也可以連接投影機自行更換模型內容。	カスタマイズ可能なプロジェクターで、お客の要望に合わせてコンテンツが選択可能。出荷後もプロジェクターに接続してモデル内容を自分で変更可能。	맞춤 제작한 프로젝터로 고객의 니즈에 따라 미디어 콘텐츠를 맞춤 제작할 수 있다. 공장 출하 후에도 프로젝터에 연결해 콘텐츠를 직접 변경할 수 있다.	This customizable projector can adjust the content it displays according to the user's needs. Connect to the projector upon purchase to replace the default content.						0	
+gift608_des	基础款腹肌轮，随处可见的健身仪器，如果掂量掂量的话，会发现比普通的腹肌轮重上很多。	基礎型健腹輪，隨處可見的健身器材，如果掂掂看的話，會發現它比一般健腹輪還要重。	定番の腹筋ローラー。どこにでもあるフィットネス機器だが、重量を比較すると、平均よりもはるかに重い。	기본형 복근 롤아웃으로 어디에서나 볼 수 있는 헬스 기구다. 비교해보면 일반적인 복근 롤아웃보다 훨씬 무거움을 느낄 수 있다.	This basic ab wheel is a common piece of fitness equipment. However, if you weigh it, you will discover that it is much heavier than a typical ab wheel.						0	
+gift609_des	机械臂专用的修护液套装，市场上较为紧缺的款式。	機械臂專用的修護液套組，市面上較為稀有的款式。	ロボットアーム専用の修復液セット、市場で比較的入手しづらいモデル。	로봇팔 전용 수리액 세트. 시장에서 잘 보이지 않는 물건이다.	A special repair fluid kit for a mechanical arm. It is scarcely seen on the market.						0	
+gift610_des	略显得有点普通的首饰盒，或许正适合不太喜欢精致少女风格的人。	略顯普通的飾品盒，或許正適合不太喜歡精緻風格的人。	見た目が普通なジュエリーボックス。可愛らしい少女風デザインが苦手な人にはぴったりかも。	살짝 무난해 보이는 액세서리 케이스로 세련된 소녀 스타일을 별로 좋아하지 않는 사람들에게는 안성맞춤일지도 모른다.	A no-frills jewelry box. Suitable for someone who doesn't like overly girly things.						0	
+gift613_des	适合双人使用的健身套组，能有效起到互相监督帮助的作用，也需要更大的摆放空间。	適合雙人使用的健身套組，對於互相監督、互相幫助的效果非常好，但也需要更大的擺放空間。	二人用のフィットネスセット。互いを励まし高め合う効果が期待できるが、その分広いスペースが必要だ。	두 사람이 사용하기에 적합한 피트니스 세트로 서로 도우면서 운동하기에 편하지만, 더 큰 배치 공간을 필요한 듯하다.	A fitness kit designed for two people to supervise and assist each other. It requires a relatively larger area.						0	
+gift620_des	一款独一无二温热香软的安睡软“枕”，只要是你的命令，绝对会乖乖地一动不动哦~	一款獨一無二溫熱香軟的安睡軟“枕”，只要是你的命令，絕對會乖乖地一動不動喔~	お前だけの温かく香り立つ柔らかなまくらだ。お前が望むなら、いつまでもじっとしているぞ。	따듯하고 향기로운 수면 베개로 명령을 내리면 고분고분 말을 잘 들을 것이다.	A one-of-a-kind warm, fragrant, and soft "pillow" for a sound sleep. It will stay absolutely still if you so command it~						0	DLC2.4宿舍
+gift1001	组合式储物家装	組合式儲物家飾品	組み立て式収納家具	조합식 수납장 가구	Modular Storage Unit						0	
+gift1002	新手养植套装	新手養植套組	初心者用植栽セット	신규 유저 양식 세트	Beginner Gardening Kit						0	
+gift1003	节能加热被炉	節能暖爐桌	省エネこたつ	에너지 절약형 난방 코타츠	Energy-Efficient Kotatsu						0	
+gift1004	冥想入门套组	冥想入門套組	瞑想入門セット	명상 입문 세트	Meditation Starter Kit						0	
+gift1005	带脚凳躺椅	帶腳踏躺椅	フットスツール付きリクライニングチェア	발판 달린 리클라이너 의자	Recliner and Footstool						0	
+gift1006	露营氛围套装	露營氛圍套裝	キャンプセット（室内用）	캠핑 무드 세트	Indoor Camping Set						0	
+gift1007	可触式显示屏	觸控式顯示螢幕	タッチスクリーンディスプレイ	터치형 스크린	Touchscreen Display						0	
+gift1008	网格挂饰	網格掛飾	メッシュウォールデコレーション	격자 홀더	Hanging Wall Grid						0	
+gift1009	打工人造型地毯	上班族造型地毯	定時退社カーペット	작업자 스타일 카펫	Working Class-Style Rug						0	
+gift1010	风景海报套装	風景海報套裝	風景ポスターセット	풍경 포스터 세트	Landscape Poster Set						0	
+gift1012	豪华加热被炉	豪華暖爐桌	高級こたつ	초호화 난방 코타츠	Luxurious Kotatsu						0	
+gift1020	懒日偷闲	懶日偷閒	昼寝日和	나른한 하루	Lazy Daze						0	DLC3.1宿舍
+gift1021	恒约纪念之交杯喜	恆約紀念之交杯喜	誓約記念・交わす酒	언약 기념-축배의 기쁨	Covenant Keepsake: Tender Temptation						0	DLC2.5宿舍
+gift1001_des	兼顾收纳性能与美观的家装套装，适合不想动脑子装修又想让家里好看点的人。	兼顧收納功能與美觀的家飾品，適合不想動腦筋裝飾卻又想布置家裡的人。	収納力と美しい外見を兼ね備えた家具セット。深く考えず綺麗にインテリアコーディネートしたい方に。	수납 기능과 외관을 모두 갖추고 있는 가구 세트로 별다른 고민 없이 인테리어를 하고 싶은 사람에게 제격인 가구 세트이다.	A storage unit with the perfect balance of practicality and aesthetics. Great for people who want to spruce up their home but don't want to think too much.						0	
+gift1002_des	完美的土培套装，适合新手入门或用作家庭装饰，只需每日浇水即可长期存活。	完美的土培套組，適合新手入門或當作家中裝飾，只需每日澆水即可。	初心者の入門用や家の装飾として適しており、毎日の水やりだけで長期間育成できる。	완벽하게 갖춰진 토양 재배 세트로 초보자 입문용 혹은 가정 인테리어로 적합하다. 매일 물만 줘도 오랫동안 살 수 있다.	This perfect gardening set is great for beginners or simply as decoration. Daily watering is all it needs to live for a long time.						0	
+gift1003_des	落地式家用被炉，由方桌与纯棉暖被构成，符合市场上最新的环保节能标准。	家用暖爐桌，由方桌與溫暖純棉被組成，符合市場上最新的環保節能標準。	近年業界での研究成果として最も優良に開発された化学繊維で作られた掛け布団。その温もりで、あなたももう抜け出せない……	콘솔형 가정용 코타츠로 사각형 탁자와 솜이불 담요로 구성되어 있으며, 최신 친환경 에너지 절감 조건에 부합한다.	A freestanding kotatsu comprised of a square table and a 100% cotton blanket. It is compliant with the latest environmentally-friendly and energy-efficient market standards.						0	
+gift1004_des	可快速搭建出冥想瑜伽角的家庭套组，只要有足够的落脚空间，哪里都可以锻炼。	可快速打造冥想瑜珈角的家庭套裝，只要有足夠的空間，在哪裡都可以鍛煉。	瞑想ヨガスペースを素早く設置できる家庭用セット。十分なスペースがあればどこでもヨガができる。	빠르게 명상 요가를 할 수 있게 해주는 가정용 세트다. 발 디딜 틈이 있는 곳이면 어디서든 연습을 할 수 있다.	This home meditation and yoga kit can be set up quickly and allows users to exercise anywhere with enough leg space.						0	
+gift1005_des	藤编环保懒人躺椅，符合人体工学的流线型设计，舒适轻便。	籐編環保懶人躺椅，符合人體工學的流線型設計，舒適輕便。	ラタンで編まれ、人間工学に基づいた流線型デザインのリクライニングチェア。快適で軽量。	등나무로 만든 친환경 리클라이너 의자로 인체공학적으로 설계돼 아주 편안하다.	An environmentally-friendly rattan recliner. Its ergonomic and sleek design makes it both comfortable and light.						0	
+gift1006_des	如果你不想出门，那么这组套装将为你营造室内露营体验。	假如你不想出門但又想露營，那麼這組套裝將為你營造室內露營的絕佳氛圍。	このセットがあれば、外出したくない方も室内キャンプを楽しめることができる。	외출하기 귀찮을 때 해당 세트만 있으면 실내 캠핑 분위기를 물씬 풍길 수 있다.	Don't feel like going outside? This set brings the fun of camping to your room.						0	
+gift1007_des	触摸与手势控制兼顾的壁挂显示屏。	觸摸與手勢控制兼顧的壁掛顯示螢幕。	タッチとジェスチャー操作が可能な壁掛けディスプレイ。	터치 및 제스처 제어가 가능한 벽걸이형 스크린.	A wall-mounted display that supports both touch and gesture controls.						0	
+gift1008_des	白色合金网格展示架，可定制任意大小与网格密度。	白色合金網格展示架，可訂製各樣大小與網格密度。	白い金属のメッシュディスプレイラック、サイズとメッシュ密度でカスタマイズできる。	흰색 합금의 격자 홀더로 격자 크기를 임의로 조절할 수 있다.	A white metal grid that can be customized to any size or grid density.						0	
+gift1009_des	手工制作的羊毛地毯，图案客制化。	手工製作的羊毛地毯，圖案客制化。	ハンドメイドのウールカーペット。柄はオーダーカスタマイズ可能。	핸드메이드 양털 카펫으로 맞춤형 도안이 그려져 있다.	A handcrafted wool rug with a customizable pattern.						0	
+gift1010_des	展示了世界排名前十的最佳旅游景点的纸质海报。	羅列了世界排名前十的最佳旅遊景點的紙海報。	世界トップ10の観光名所を紹介するポスターセット。	글로벌 랭킹 TOP 10 안에 들어가는 여행지 풍경 사진을 담은 종이 포스터.	A poster that depicts the top ten best tourist attractions worldwide.						0	
+gift1012_des	特别定制的家用被炉，发热功能更强。部件优化后提供了更多的桌下空间，两个人都能随意扭动身体。	特別訂製的家用暖爐桌，加熱功能更強。配件升級後節省了更多桌下空間，讓使用者在桌下的雙腳不打架。	発熱性能が向上した特注家庭用こたつ。構造の見直しによって、2人が自由に体を動かせるほど下のスペースが広くなっている。	특별 제작된 가정용 코타츠로 더 강력한 발열 기능을 갖추고있다. 부품을 개선한 후에 탁상 아래 두 사람이 움직여도 될 만큼 충분한 공간이 확보되었다.	A customized kotatsu with enhanced heating for at-home use. Parts have been optimized to make for more space underneath, allowing two people to fit under it comfortably.						0	
+gift1021_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与肴的甜蜜瞬间。	按照等身尺寸製作的恆約紀念影像，記錄了分析員與肴的甜蜜瞬間。	等身大サイズで製作された誓約記念写真。分析員と肴の甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 야오의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Yao together.						0	DLC2.5宿舍
+gift1020_des	忙碌的间隙不妨偷个闲，懒洋洋的时候，待在她身边一定是最合适的。	忙碌的間隙不妨偷個閒，懶洋洋的時候，待在她身邊一定是最合適的。	忙しさの隙に、ちょっとだけサボる。そんなまどろむ時間を過ごすには、彼女のそばがぴったり。	바쁜 일정 속에서 잠시 휴식을 취하고 싶을 때가 있다. 피곤할 때, 그녀와 함께 여유로운 시간을 보내본다.	Every busy life needs a lazy day. The greatest joy is lounging idly beside your beloved.						0	DLC3.1宿舍
+gift1201	多层收纳架	多層收納架	多層収納ラック	다층 수납장	Multi-Tier Storage Shelf						0	
+gift1202	全息扫描分析仪	全息掃描分析器	ホログラムスキャンアナライザー	홀로그램 스캔 분석기	Holographic Analysis Scanner						0	
+gift1203	零区地图投影仪	零區地圖投影機	エリアゼロマッププロジェクター	제로 구역 지도 프로젝터	Containment Zone Map Projector						0	
+gift1204	精美的天秤	精緻的天秤	精巧な天秤	정교한 저울계	Exquisite Scale						0	
+gift1205	帕特拉风格地毯	帕特拉風格地毯	パトラ風のカーペット	파트라풍 카펫	Patra-Style Rug						0	
+gift1206	《开拓者》	《開拓者》	『開拓者』	<개척자>	The Trailblazer						0	
+gift1207	帕特拉猫木雕	帕特拉貓咪木雕	パトラ猫の木彫り	파트라 고양이 나무 조각상	Patra Cat Wood Carving						0	
+gift1208	电子日志	電子日誌	電子日誌	디지털 로그	Digital Log						0	
+gift1209	《古拉利卡之谜》	《古拉利卡之謎》	『グラリカの謎』	<고대 라리카의 불가사의>	The Mystery of Guralika						0	
+gift1210	小型投影仪	小型投影機	小型プロジェクター	소형 프로젝터	Mini Projector						0	
+gift1214	帕特拉王室地毯	帕特拉王室地毯	パトラ王室の絨毯	파트라 왕실 카펫	Royal Patra Rug						0	
+gift1201_des	简约风收纳架，每层空间不多，可以用于摆放杂物。	簡約風格的收納架，每層的收納空間不多，可用於擺放雜物。	シンプルな収納ラック、各層のスペースは小さいが、こまごまとした物の収納にぴったり。	심플한 수납장, 공간이 넉넉하진 않지만 잡동사니를 보관하기엔 충분하다.	A storage shelf designed in a simple style. There's not much space on each tier, but it's still enough to place some miscellaneous items.						0	
+gift1202_des	能够全方位扫描物品并记录相关数据的仪器，辅助研究的好伙伴。	全方位掃描物品並記錄相關資料的機器，助於研究的好夥伴。	アイテムを全方向からスキャンし、データを記録してくれる装置。頼もしい研究作業の相棒。	사물을 다각도로 스캔하고 관련 데이터를 기록하는 기기, 연구 보조용으로 제격이다.	A device that can scan entire objects and save the data about them. It's the perfect companion for any curious researcher.						0	
+gift1203_des	录入了零区航拍数据的地图，作战意义重大，也支持录入其他地区数据。	記錄了零區航拍資料的地圖，具有重大的作戰意義，也可輸入其他地區的資料。	エリアゼロの航空写真データが記録されたマップ。作戦上の意義は非常に大きく、他の地域のデータもインポートできる。	제로 구역의 항공 촬영 데이터가 기록된 지도다. 전투에서 중요한 역할을 하며 기타 지역의 데이터도 기록할 수 있다.	A map projector with an aerial scan of Containment Zone Aleph stored on it. It's very useful for strategizing before combat missions, and also supports the uploading of data for other areas.						0	
+gift1204_des	手工制成的天秤，做工十分精巧，称量精度也很高。	手工製作的天秤，做工精美，秤量準確度高。	手作りの天秤、細部の作りが非常に精巧で、精度も高い。	매우 정교하고 계량 정확도도 높은 수제 저울계다.	A handmade scale of impressive craftsmanship. It's able to measure the weight of objects with incredible precision.						0	
+gift1205_des	厚实的地毯，搭配柔软抱枕，满足在家里随时随地坐下的需求。	結實的地毯配上柔軟的抱枕，在家能夠隨時席地而坐。	厚いカーペットに柔らかいクッションの組み合わせで、いつでもくつろげる空間を提供してくれる。	두툼한 카펫과 푹신한 쿠션, 언제 어디서든 집안에서 깔고 앉을 수 있다.	A thick carpet that also comes with soft back pillows. It allows you to sit comfortably on the floor with great convenience.						0	
+gift1206_des	出自一名年轻艺术家之手的雕像，对一位名人的经典形象进行了解构。	雕像出自一名年輕藝術家之手，完美地詮釋了一位名人的經典形象。	若いアーティストによる彫刻作品だが、その道の名人たちのクラシカルなイメージの脱構築に成功している。	젊은 예술가의 손에서 탄생한 조각상, 한 유명인의 고전적인 이미지를 묘사했다.	A sculpture carved by a young artist. It seems to have taken inspiration from the structure of a famous classical work.						0	
+gift1207_des	以帕特拉地区的猫为原型设计的木雕，加入了些许拟人化特征。	以帕特拉地區的貓咪為原型所設計的木雕，加入了些微擬人化的特徵。	パトラ地域の猫をモデルにした木彫り。少し擬人化の特徴が加えられている。	파트라 지역의 고양이를 본따 설계한 조각상, 의인화된 특징이 약간 추가되었다.	A wood carving with a design based on the cats of the Patra region. The creator added some human-like characteristics to its appearance.						0	
+gift1208_des	可以随时记录所见所闻的电子日志，容量有限但轻便易携。	能隨時隨地記錄所見所聞的電子日誌，空間有限但便於攜帶。	いつでも見聞きしたものを記録できる電子日誌。容量は限られているが、持ち運びに便利。	보고 듣는 모든 것을 언제든지 기록할 수 있는 디지털 로그, 용량이 넉넉하진 않지만 휴대가 간편하다.	An electronic log that can be used to record everything one sees and experiences. What it lacks in storage it makes up for in portability.						0	
+gift1209_des	冷门的知识类读物，优点大概是收礼人应该也没看过。	冷門的知識類讀物，贈送本書的好處大概就是連收到此禮物的人都沒看過吧。	マイナーな知識が記された書籍。プレゼントされた側にとって、たぶん知らないことばかりが記されているだろう。	비주류 지식 도서, 워낙 비주류라 선물 받는 사람이 안 읽어봤을 확률이 큰 게 장점이다.	A rather scholarly book that few people have read. Still in very good condition, the recipient of the gift probably hasn't read it yet either.						0	
+gift1210_des	世界树公司自产投影仪，贯彻了小而美的设计理念。	世界樹公司生產的投影機，完美詮釋了小而美的設計理念。	ユグドラシル社製のプロジェクター。コンパクトでムダのないデザインが徹底されている。	위그드라실에서 자가생산한 프로젝터, 작고 예쁜 디자인 요소가 담겨있다.	A small projector produced by Yggdrasil Enterprises. It was created with minimalist design principles in mind.						0	
+gift1214_des	华美的地毯，据说采用了古帕特拉法老王青睐的地毯制作工艺，尽享贵族待遇。	華美的地毯，據說採用了古帕特拉法老王青睞的地毯製作工藝，盡享貴族待遇。	古代パトラのファラオが気に入っていたと言われる製法を採用した豪華な絨毯。貴族の気分を堪能できる。	화려한 카펫. 고대 파트라의 파라오가 좋아했던 카펫 제작 기법으로 만들어졌다고 전해져, 매우 귀하게 여겨진다.	This gorgeous rug is rumored to have been made with a technique preferred by the ancient Patra pharaohs. Spread it out and enjoy the comforts of royalty.						0	
+gift1101	家用烘焙套组	家用烘焙套裝	ホームベーカリーキット	가정용 베이킹 세트	Baking Station						0	
+gift1102	乐尔牌积木	樂爾牌積木	プレミアム積み木セット	레어 블럭	Leer Building Bricks						0	
+gift1103	熊熊玩偶	熊熊玩偶	テディベア	테디베어	Teddy Bear						0	
+gift1104	生态箱	生態箱	飼育用クリアテラリウム	비바리움	Terrarium Tank						0	
+gift1105	星球云朵灯	星球雲朵燈	プラネットクラウドライト	별 구름 조명	Stars and Cloud Light						0	
+gift1106	大型不倒翁	大型不倒翁	大型起き上がり小法師	대형 오뚜기	Large Punching Wobbler						0	
+gift1107	扫描投影仪	掃描投影機	スキャンプロジェクター	스캔 프로젝터	Scan Projector						0	
+gift1108	磁吸式防尘架	吸鐵式防塵架	マグネット式ラック	흡착식 수납함	Magnetic Dustproof Shelves						0	
+gift1109	墨迹测试挂画	墨跡測驗掛畫	ロールシャッハテストポスター	잉크 반점 검사용 그림	Inkblot Test Pictures						0	
+gift1110	《两千夜》	《兩千夜》	『二千夜物語』	<이천개의 밤>	"Two Thousand Nights"						0	
+gift1113	豪华烘焙套组	豪華烘焙套裝	高級ベーカリーキット	초호화 베이킹 세트	Deluxe Baking Station						0	
+gift1120	耳畔柔触	耳畔柔觸	そっと、耳元に	귓가의 속삭임	Earside Whisper						0	
+gift1101_des	世界树公司自产的烘焙套组，功能多样，足以满足烘焙爱好者的各种需求。	世界樹公司生產的烘焙套裝，功能齊全，能滿足烘焙愛好者的各樣需求。	ユグドラシル社製のベーカリーキット。多機能でパン愛好家の様々なニーズを満たすことができます。	위그드라실에서 제작한 베이킹 세트, 다양한 기능으로 베이킹 애호가들을 만족시키기에 충분하다.	A baking station designed and produced by Yggdrasil Enterprises. Its array of accessories can meet the needs of any avid baker.						0	
+gift1102_des	老少咸宜的积木套组，可以自由拼接，经典而不过时。	老少咸宜的積木組，經典且不退流行。	年齢問わず遊べる積み木セット。自由な組み合わせが可能で、クラシックですが時代遅れになることはありません。	레어사에서 출시한 모두가 즐길 수 있는 블럭 세트로 자유롭게 이어 붙일 수 있다. 고전적이지만 유행에 뒤처지지 않는다.	A building brick set that is suitable for any age. The creative freedom it allows makes it a timeless hobby.						0	
+gift1103_des	充满安全感的巨型毛绒玩偶，可以完全躺倒在它的怀中。	給你滿滿安全感的巨大絨毛玩偶，可以整個人躺在它懷中。	安全感の高さが評価された巨大なぬいぐるみ。その腕の中で寝転がることもできます。	듬직하고 커다란 봉제 인형, 녀석의 품속에 완전히 파묻힐 수 있다.	A giant, furry toy that makes one feel safe and at ease. Even a grown adult can easily lie in its warm embrace.						0	
+gift1104_des	能够自动调节温度、湿度和光照的生态箱，爬虫爱好者的不二选择。	自動調節溫度、濕度和光照的生態箱，爬蟲類愛好者的最佳選擇。	温度、湿度、光の自動調整が可能な飼育ケース。爬虫類の飼育に最適な環境を作ることができます。	온도와 습도, 조명을 자동으로 조절할 수 있는 비바리움, 곤충 애호가들의 필수품이다.	A reptile terrarium that automatically adjusts the temperature, humidity, and lighting to suit its inhabitants. An excellent choice for any herpetoculture enthusiast.						0	
+gift1105_des	精致而可爱的吊灯，躺在床上就能看到星空。	精緻又可愛的吊燈，躺在床上就能欣賞夜空點點繁星。	精巧でかわいい吊り下げライト。ベッドに横たわるだけで星空を見ることができます。	정교하고 귀여운 조명, 침대에 누워서 보면 별빛이 가득한 밤하늘을 볼 수 있다.	A cute yet elegant hanging lamp. One can gaze at the starry night sky from the warmth of their bed.						0	
+gift1106_des	特别加固型的不倒翁，外观上选择了海姆达尔队员们都想打一拳的样式。	特別堅固的不倒翁，外觀設計成了會讓海姆達爾的隊員們想狠狠揍一拳的模樣。	特別に強化された人形。ヘイムダル隊員が一発殴りたくなるデザインになってます。	특수 강화된 오뚜기, 헤임달 대원이라면 모두가 한 대쯤 때리고 싶은 외형을 소유하고 있다.	A wobbler that has been made especially sturdy to withstand heavy strikes. It looks like something that everyone on the Heimdall Force would want to hit.						0	
+gift1107_des	可以将图文扫描后投影出来的便捷工具，常用于教学或宣传。	掃描圖文後能夠直接投影出來的便捷工具，常用於教學或宣傳。	画像やテキストをスキャンして投影する便利なツール。教育や宣伝によく使われる。	이미지나 텍스트를 스캔해 화면에 띄울 수 있는 편리한 도구로 주로 교육이나 홍보에 사용된다.	A convenient device that can scan and project images. It's often used for educational or promotional purposes.						0	
+gift1108_des	专门用来摆放玩偶的防尘架，不占空间，组装简单。	專門用來擺放玩偶的防塵架，組裝簡單且不占空間。	おもちゃを置くための防塵ラック。スペースを取らず、組み立てが簡単です。	인형 보관 용도의 수납함, 공간을 차지하지 않고 조립이 간단하다.	A set of dustproof display shelves made especially for cute dolls and figurines. It doesn't take up much space and is easy to assemble.						0	
+gift1109_des	著名的人格测验图纸，对称的图案中隐藏着每个人内心的秘密。	有名的人格測驗圖畫，在對稱的圖案當中隱藏著每個人的內心秘密。	有名な性格診断のテスト。対称のパターンの中に、それぞれの人の内心の秘密が隠されています。	유명한 심리 검사 그림, 대칭 도안 속에는 마음에 묻힌 비밀이 숨겨져 있다.	A set of pictures of the famous psychology test. The symmetrical patterns hide everyone's innermost secrets.						0	
+gift1110_des	收录了很多童话的故事集，在后成年病时代已经很少出版了。	收錄了許多童話故事的故事集，在後成年病時代幾乎不出版了。	多くの童話を集めた物語集。ティーン症候群時代にはあまり出版されていません。	여러 가지 이야기가 수록된 동화전집, 성인병 이후에는 거의 출판되지 않았다.	A book containing a collection of many bedtime stories. It hasn't been published much in the years since Juvosis became prevalent.						0	
+gift1113_des	空间更大，功能更多的烘焙套组，能两人同时进行分工烘焙。	空間更大、功能更多的烘焙套裝，能夠容納兩人一起烘焙。	2人で一緒にパンやお菓子を作ることができる、広く作業しやすいベーカリーキット。	더 큰 공간과 더 다양한 기능을 갖춘 베이킹 세트로 두 명이 동시에 협력하여 베이킹을 진행할 수 있다.	A baking station with even more space and features. Two people can comfortably bake together here.						0	
+gift1120_des	细致温柔的姐姐大人早已为分析员准备好酥麻享受的护理，这一次，是在耳畔……	細緻溫柔的姐姐大人早已為分析員準備好酥麻享受的護理，這一次，是在耳畔……	優しいお姉さまが、分析員のために極楽コースを用意した。今回は、耳元に……	자상하고 온화한 누님이 분석가에게 편히 쉴 수 있는 공간을 마련했다. 이번에는 귀에…	The always-tender Big Sis has prepared some soothing, delightful care for you. This time, Adjutant, lend her your ears...						0	
+gift1701	万能魔术屋	萬能魔術屋	万能マジックハウス	매지컬 하우스	House of Magic						0	
+gift1702	温馨茶组	溫馨品茶組	心温まるティーセット	아늑한 티 세트	Pleasant Tea Table Set						0	
+gift1703	手工制作套装	手作套裝	ハンドメイドマジックキット	핸드메이드 키트	Handicraft Station						0	
+gift1704	智能隔板	AI隔板	スマートパーティション	스마트 파티션	Smart Room Divider						0	
+gift1705	大空间冰箱	大容量冰箱	大容量冷蔵庫	넉넉한 냉장고	Large Refrigerator						0	
+gift1706	磁吸式展板	吸鐵式留言板	マグネット式ディスプレイパネル	흡착식 게시판	Magnetic Display Board						0	
+gift1707	惊吓盒子	嚇人箱	びっくり箱	서프라이즈 박스	Jack-in-the-Box						0	
+gift1708	兔子小窝	兔子小窩	うさぎ小屋	토끼 소굴	Bunny Hideout						0	
+gift1709	悬挂式衣帽架	懸掛式衣帽架	吊り下げ式ハンガーラック	걸이식 코트래크	Hanging Clothes Rack						0	
+gift1710	手作道具	手作道具	手作り道具	핸드메이드 소품	DIY Prop						0	
+gift1714	精致茶组	精緻品茶套裝	精巧なティーセット	애프터눈 티 세트	Elegant Tea Table Set						0	
+gift1720	绵软轻压	綿軟輕壓	とろけさせる指圧	포근한 휴식	Restful Hypnosis						0	
+gift1721	恒约纪念之眸中星	恆約紀念之眸中星	誓約記念・星映す瞳	언약 기념-눈동자 속의 별	Covenant Keepsake: Blossom for You						0	DLC3.0宿舍
+gift1701_des	带有多种光效和音效的独立空间，也预留了区域用于摆放道具。	帶有各樣光影和音效的魔術空間，當中還有擺放道具的收納區。	多様な光と音を備えた独立した空間。アイテムを置くエリアもあります。	여러 가지 조명과 효과음을 갖춘 독립적인 공간, 아이템을 배치할 수 있는 공간도 마련해 두었다.	A compact space equipped with various light and sound effects and ample space for magic props. It's perfect for practicing new tricks — and dramatic entrances.						0	
+gift1702_des	适合与朋友下午茶小聚的茶几和座椅，搭配甜点效果更佳。	適合跟好友同享下午茶時光的茶几和座椅，配上美味甜品更添幸福感。	友達とのアフタヌーンティーにぴったりのテーブルと椅子。スイーツとの組み合わせがさらに良い効果を発揮します。	친구들과 오후에 티타임을 가질 때 사용하는 티 테이블과 좌석, 디저트만 있으면 금상첨화가 따로 없다.	A tea table and chair set that is great for a relaxing afternoon tea with friends. It's even better when accompanied by cookies or other sweets.						0	
+gift1703_des	可以自制简易魔术道具的套装，亲手做的东西总是更信得过。	可以動手製作簡易魔術道具的套裝，親手製作的東西更有驚嚇＂笑＂果。	簡単な手品道具セットを自作できるキット。自分で作ったものの信頼度と自己肯定感が向上します。	간단한 마술 아이템을 직접 만들 수 있는 키트, 직접 만들어야 더 믿음직스러운 법이다.	A crafting station where one can create their own simple magic props. Homemade items are always more reliable than store-bought ones... right?						0	
+gift1704_des	能调整透明度的隔板，简简单单就能划分出私人空间。	能調整透明度的隔板，輕鬆簡單劃分出私人空間。	透明度を調節できるパーティション。プライベート空間を簡単に仕切ることができる。	투명도를 조절할 수 있는 파티션으로 간단하게 사적인 공간을 나눌 수 있다.	A room divider with adjustable transparency. It allows one to quickly create a private space with ease.						0	
+gift1705_des	以充足空间和省电节能著称的冰箱，可以存放各种食材和冷藏物品。	以大容量和超省電著名的冰箱，能夠保存大量的食材和冷藏食品。	広々としたスペースと省エネで知られる冷蔵庫。様々な食材や冷蔵アイテムを収納することができます。	충분한 공간과 절전 기능을 지닌 냉장고, 각종 식재료와 냉장 식품을 보관할 수 있다.	A refrigerator popular on the market for its combination of large capacity and power-saving features. It can be used to store all kinds of ingredients and frozen foods.						0	
+gift1706_des	常见的展板，可以贴上照片和纸张，有时也能作为备忘录使用。	常見的留言板，可以貼上照片或紙張，也能當作備忘錄來用。	写真やポストカードなどを貼り付けられるディスプレイパネル。時にメモとしても使えます。	평범한 게시판, 사진과 문서를 붙일 수 있고, 때론 메모장으로 활용할 수도 있다.	A common display board that can be used to put up photos and notes. Memos can be posted on it as well to help forgetful owners.						0	
+gift1707_des	经典的整蛊玩具，应海姆达尔队员要求在玩偶形象上参考了分析员。	經典的惡作劇玩具，應海姆達爾隊員的要求，在玩偶設計上參考了分析員的形象。	クラシックないたずら玩具。ヘイムダル隊員の要望に応えて、人形は分析員をモチーフにしています。	클래식한 장난감으로 헤임달 대원들의 요청에 따라 분석가의 이미지를 참고해 디자인했다.	A classic prank toy. At the request of the Heimdall Force operatives, the figure's appearance is based on the Adjutant.						0	
+gift1708_des	用于饲养兔子的小窝，冬暖夏凉通风好，但仍需要饲主记得喂食。	飼養兔子的小窩，冬暖夏涼又通風，飼主要記得餵食。	うさぎを飼育するための小屋。冬は暖かく夏は涼しく、通気性抜群。ただ、飼い主が餌を与えることを忘れないようにする必要があります。	토끼를 키울 때 사용하는 토끼 소굴, 겨울엔 따뜻하고 여름엔 시원하며, 통풍이 잘된다. 하지만 주인으로서 먹이는 잘 챙겨줘야 한다.	A small hideout that a cute rabbit can snuggle up in. Its design keeps it cool in the summer and warm in the winter, but the owner still needs to remember to put food inside.						0	
+gift1709_des	每一个经常急着出门的人都需要的衣帽架，可以最快速度更换服装。	每一位急著準備出門的人所不可或缺的衣帽架，有了它便能用最快的速度換裝出門。	急いで外出する人に必要なハンガーラック。最速で着替えることができます。	급하게 외출하는 사람들의 필수품으로 빠른 속도로 옷을 갈아입을 수 있다.	A clothes rack perfect for anyone always in a hurry out the door. Its convenience allows for one to quickly change outfits.						0	
+gift1710_des	需要自己组装拼接的魔术道具，适合外行或初学者上手体验。	需要自己組裝製作的魔術道具，適合外行或者初學者體驗。	自分で組み立てる必要があるマジック道具。初心者や素人に適している。	스스로 조립하고 결합하는 것이 필요한 마술 도구로 초보자나 입문자가 쉽게 체험할 수 있다.	A magic prop that must be assembled by hand. It's perfect for those unfamiliar or new to magic to experience the preparation behind the scenes.						0	
+gift1714_des	增加了小沙发和更多配件的下午茶套组，也留出了自由搭配的空间。	增加了小沙發和更多配件的下午茶套裝，也預留了自由擺放配件的空間。	小さなソファや小物がついているアフタヌーンティーセット。	작은 소파와 더 많은 액세서리가 추가된 티 세트로 자유롭게 구성할 수 있는 공간을 마련해놨다.	A tea table set that includes an additional sofa chair and accessories. It also allows for more possibilities to creatively rearrange it.						0	
+gift1720_des	只在分析员面前才会犯迷糊的魔术师，这次也为你准备了特别的”放松魔术“哦！	只在分析員面前才會犯迷糊的魔術師，這次也為你準備了特別的「放鬆魔術」喔！	分析員の前でだけドジっ娘になるマジシャンが、特別な「リラックス魔術」を用意したようだ。	분석가님 앞에서만 긴장하는 매지션, 분석가님만을 위한 특별한 '릴랙스 마법', 기대해도 좋아요!	The Magician who only gets flustered in front of you has prepared a "relaxation magic trick" — specially for the Adjutant!						0	
+gift1721_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与苔丝的甜蜜瞬间。	依照等身尺寸製作的恆約紀念影像，記錄了分析員與黛斯的甜蜜時刻。	等身大サイズで製作された誓約記念写真。分析員とテスの甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 테스의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Tess together.						0	DLC3.0宿舍
+gift1501	贝斯套组	貝斯套組	ベースセット	베이스 세트	Bass Set						0	
+gift1502	电鼓套组	電子鼓套組	ドラムセット	전자 드럼 세트	Electronic Drum Set						0	
+gift1503	小型吧台	小型吧台	小型バーカウンター	소형 바 테이블	Small Counter						0	
+gift1504	磁浮冲浪板	磁浮衝浪板	磁力サーフボード	마그네틱 서핑보드	Maglev Surfboard						0	
+gift1505	飘窗垫	飄窗坐墊	出窓用ラグ	윈도우 쿠션	Alcove Cushion						0	
+gift1506	唱片挂饰	唱片掛飾	レコードのインテリア	레코드 벽 장식품	Vinyl Wall Decoration						0	
+gift1507	家用酒柜	家用酒櫃	自家用ワインセラー	가정용 주류 캐비닛	Wine Cabinet						0	
+gift1508	竞速冲浪板	競速衝浪板	競技用サーフボード	경주 서핑보드	High-Speed Surfboards						0	
+gift1509	飞行器钥匙	飛行器鑰匙	ジェット機の起動キー	비행기 열쇠	Aircraft Key						0	
+gift1510	打碟机	打碟機	DJブース	디제이 머신	Turntable						0	
+gift1513	智能吧台	智慧吧台	スマートカウンター	스마트 바 테이블	Smart Counter						0	
+gift1520	独家留影	獨家留影	独占写真	셀피 촬영	Selfie Shoot						0	
+gift1521	恒约纪念之唇间情	恆約紀念之唇間情	誓約記念・囁く吐息	언약 기념-입술에 새긴 사랑	Covenant Keepsake: Starlove Vow						0	DLC3.0宿舍
+gift1501_des	包括贝斯以及音响和效果器的套组，可以外放，也可以连接耳机尽情摇滚。	包括貝斯以及音響和效果器的套裝，可以外放，也可以連接耳機盡情搖滾。	ベース、音響機器やエフェクターなどを含む機材の総称。スピーカーから音を流したり、ヘッドホンを繋げて１人で楽しむことが可能。	베이스, 사운드, 그리고 이펙트를 포함한 세트. 외부에서도 사용이 가능하며 헤드폰에 연결하여 로큰롤은 자유롭게 즐길 수 있다.	A set with a bass, speaker, and effects pedal. Headphones can also be connected to fully unleash one's rock and roll spirit without disturbing neighbors.						0	
+gift1502_des	家用练习鼓组，占用空间小，音量可调节，手感也很真实。	家用練習鼓組，佔用空間小，音量可調節，手感也很真實。	自宅練習用のドラムセット。通常よりもスペースをとらず、音量も調整できる。通常のドラムセットとかなり近い使用感で楽しめる。	가정용 연습 드럼 세트로 공간을 적게 차지하고 음량 조절이 가능함은 물론 드럼을 칠 때의 감각도 매우 현실적이다.	An at-home drum practice kit with a realistic feel. It doesn't take up much space and has adjustable volume settings.						0	
+gift1503_des	可以营造特别的聊天氛围，不需要使用时也可以将其收起。	可以營造特別的聊天氛圍，不需要使用時也可以將其收起。	他愛のない会話でも、これひとつでスペシャルな雰囲気に早変わり。使わないときは簡単に収納可能。	특별한 대화 분위기를 조성할 수 있으며, 사용하지 않을 때는 접어서 보관할 수 있다.	A counter that can quickly create a special atmosphere to chat. It can also be stored away when not in use.						0	
+gift1504_des	利用磁浮技术制成的室内用冲浪板，在家也能感受征服海洋的乐趣。	利用磁浮技術製成的室內用衝浪板，在家也能感受征服海洋的樂趣。	磁力によって浮遊する室内用サーフボード。自宅にいながら海を乗りこなす爽快感を楽しめる。	자기 부상 기술을 이용하여 만든 실내 서핑 보드로, 집에서도 바다에서도 마치 정복하는 것 같은 즐거움을 느낄 수 있다.	An indoor surfboard that utilizes modern maglev technology. One can experience the joy of conquering the waves without even leaving home.						0	
+gift1505_des	放置在飘窗上的软垫，闲暇时小憩片刻的最佳选择。	放置在飄窗上的軟墊，閒暇時小憩片刻的最佳選擇。	出窓のフローリングに設置できるラグ。ゆったり時間を過ごしたい時に最適な逸品。	베이 윈도우에 놓인 푹신한 쿠션은 여가 시간에 잠깐 쉬기에 최적의 선택이다.	A soft cushion that can be placed in a window alcove. The perfect choice for those short rests on lazy days.						0	
+gift1506_des	唱片形状的家用挂饰，发烧友的最爱。	唱片造型的家用掛飾，發燒友的最愛。	音楽好きに大人気のレコード型のインテリア。	레코드 모양의 가정용 장식품, 음악 애호가들의 최애품이다.	A home decoration in the shape of vinyl records. It is a favorite among audiophiles.						0	
+gift1507_des	摆放酒的柜子，当然也能用于摆放其他瓶瓶罐罐。	擺放酒的櫃子，當然也能用來擺放其他瓶瓶罐罐。	ワインなどの酒類を収めておく棚。お酒以内の瓶や缶詰なども収納できる。	주류를 보관하는 캐비닛, 물론 다른 음료를 보관하는 데에도 사용 가능하다.	A cabinet for storing wine. Can also be used for other kinds of bottles and jars, if so desired.						0	
+gift1508_des	在涂层和结构上经过处理，最大限度提升速度的冲浪板。	在塗層和結構上經過處理，以最大限度地提升速度的衝浪板。	特別な塗装と構造を採用することにより、極限までスピードを上げたサーフボード。	고장과 구조에 처리를 거쳐 속도를 극대화한 서핑 보드.	A pair of surfboards made with a special coating and design in order to maximize speed.						0	
+gift1509_des	单人飞行器的钥匙，自本世纪中叶起，飞行器已经是许多人青睐的载具。	單人飛行器的鑰匙，自本世紀中葉起，飛行器已經是許多人青睞的載具。	個人用飛行装置を起動するためのキー。飛行装置は今世紀半ばから、多くの人が愛用する交通手段となっている。	1인용 비행기 열쇠로 금세기 중반부터 많은 사람들이 선호하는 차량이다.	A key to a personal aircraft. Since the middle of the 21st century, flying vehicles have been a popular mode of transportation.						0	
+gift1510_des	通过调整速度使歌曲无缝衔接的设备，唱片骑师们的好伙伴。	透過調整速度使歌曲無縫銜接的設備，唱片騎師們的好夥伴。	楽曲の再生速度を調整することで複数の楽曲を自然に繋げることができる機材。ディスクジョッキーたちの大事な仕事仲間。	속도를 조절하여 노래를 매끄럽게 연결해 주는 장비로 디제이들의 애용품이다.	A device that seamlessly blends songs by adjusting the speed. It is an excellent companion for DJs.						0	
+gift1513_des	能够自动调节光照和播放音乐的吧台，方便而时尚。	能夠自動調節光線和播放音樂的吧台，方便又時尚。	照明や再生中の楽曲を自動的に調節できる、便利でおしゃれなバーカウンター。	자동으로 조명을 조절하고 음악을 재생할 수 있는 바 테이블. 편리하면서도 세련된 디자인을 갖추고 있다.	A counter that is able to automatically adjust the lighting and play music. Convenient and fashionable.						0	
+gift1520_des	累了吗？美酒、音乐、魅蓝幽香、柔软小憩……想来点什么？	累了嗎？美酒、音樂、魅藍幽香、柔軟小憩……想來點什麼？	疲れた？お酒や音楽、大人の香り、安らかな休憩……どれがいい？	피곤할 때는 술, 음악, 은은한 향기, 그리고 편안한 휴식을…	Tired? What would you like? A drink, some music... or my aroma, and a soft pillow?						0	
+gift1521_des	按照等身尺寸制作的恒约纪念影像，记录了分析员与凯茜娅的甜蜜瞬间。	依照等身尺寸製作的恆約紀念影像，記錄了分析員與凱茜婭的甜蜜時刻。	等身大サイズで製作された誓約記念写真。分析員とカーシアの甘い瞬間が記録されている。	실물 크기로 제작된 언약 기념 영상으로 분석가와 캐시아의 달콤한 순간을 담고 있다.	A life-sized Covenant keepsake, immortalizing the sweet memories of the Adjutant and Katya together.						0	DLC3.0宿舍
+gift1601	轻便帐篷	輕便帳篷	軽量テント	경량 텐트	Lightweight Tent						0	
+gift1602	教学黑板套组	教學黑板套組	教育用黒板セット	교육용 칠판 세트	Teacher's Chalkboard Set						0	
+gift1603	秋千	鞦韆	ブランコ	그네	Swing						0	
+gift1604	武器保险箱	武器保險箱	武器の保管箱	무기 금고	Weapon Strongbox						0	
+gift1605	室内攀爬架	室內攀爬架	室内ジャングルジム	실내등반대	Indoor Climbing Frame						0	
+gift1606	布幔吊顶	布縵吊頂	布天井	천장 커튼	Fabric Ceiling Drapes						0	
+gift1607	攀岩墙	攀岩牆	クライミングウォール	등반 벽	Climbing Wall						0	
+gift1608	野炊三件套	野炊三件套	野外炊飯3点セット	피크닉 3종 세트	Picnic Set						0	
+gift1609	小型暖炉	小型暖爐	小型ストーブ	미니 히터	Mini Heater						0	
+gift1610	鹿角模型	鹿角模型	鹿の角の模型	뿔 모형	Antler Decor						0	
+gift1611	智能黑板套组	智慧黑板套組	スマート電子黒板セット	스마트 칠판 세트	Smart Board Set						0	
+gift1601_des	颇受野炊爱好者青睐的帐篷，方便携带，而且防蚊。	頗受野炊愛好者青睞的帳篷，方便攜帶，而且防蚊。	野外炊飯愛好家に好まれているテント。持ち歩きやすく、虫よけの機能も付いている。	피크닉 매니아들 사이에서 인기가 높은 텐트로 휴대가 간편하고 모기 방지 기능이 있다.	A highly portable tent that keeps the mosquitos away. It is strongly favored by picnic lovers.						0	
+gift1602_des	包含磁铁黑板及其他教具在内的套组，好记性不如烂笔头。	包含磁鐵黑板及其他教具在內的套組，好記性不如爛筆頭。	磁石の付く黒板や、他の教具が揃ったセット。見て覚えるより書きまくるのだ。	자석 칠판과 기타 교구가 포함된 세트. 기억력은 적는 것보다 못하다는 말이 있다.	A set that includes a magnetic chalkboard and various teaching tools. Even the best memory can't beat the bluntest piece of chalk.						0	
+gift1603_des	足以让每一个孩子都感到兴奋的玩具，或许成年人也一样。	足以讓每個孩子都感到興奮的玩具，或許成年人也是。	子供がワクワクするおもちゃ。大人も同じかも。	어린이는 물론 어른들도 흥미를 느낄 수 있는 놀이 기구.	A classic toy that gets every kid excited. Maybe adults, too.						0	
+gift1604_des	专门用于存放武器的箱子，最好放在安全的地方。	專門用於存放武器的箱子，最好放在安全的地方。	武器を保管するための箱、安全なところに置いた方がいい。	무기를 보관하기 위해 특별히 설계된 금고. 모든 물건은 항상 안전한 장소에 보관하는 것이 좋다.	A crate specifically made for the storage of weapons. It's best to keep it somewhere safe.						0	
+gift1605_des	精力充沛者最需要的锻炼器材，感受攀爬的乐趣。	精力充沛者最需要的鍛鍊器材，感受攀爬的樂趣。	エネルギッシュな人に最適なトレーニング器材。自由に登って楽しめる。	즐거운 등산을 경험하기 위해 활력이 넘치는 사람들에게 필요한 운동기구다.	A kind of exercise equipment that the energetic ones yearn for. It brings the joy of climbing inside.						0	
+gift1606_des	常见的室内装饰，使用新型布料，垂感和延展性都很好。	常見的室內裝飾，使用新型布料，垂感和延展性都很好。	よく見かける室内のインテリア。新型の生地が使われ、よく垂れ下がって丈夫。	흔히 볼 수 있는 인테리어로 새로운 원단을 사용하여 처짐과 연성이 뛰어나다.	A common indoor decoration made from new fabrics. It strikes the perfect balance between taut and stretchy.						0	
+gift1607_des	可以自行调整攀爬点的攀岩墙，能最大限度锻炼身体平衡性。	可自行調整攀爬點的攀岩牆，能最大限度鍛鍊身體平衡。	ルートを好きなように選べるクライミングウォール。体のバランス能力を最大限に鍛えられる。	등반 지점을 스스로 조절할 수 있는 등반 벽으로 신체의 밸런스를 잡아준다.	A climbing wall with customizable climbing holds. It enables one to create new challenges and improve their balance.						0	
+gift1608_des	包括烤架、铁锅和折叠椅，随时随地大快朵颐。	包括烤架、鐵鍋和折疊椅，隨時隨地大快朵頤。	バーベキューグリルに鍋、そしてキャンプチェアが入っている。いつでも美食を満喫できる。	그릴, 냄비, 접이식 의자를 포함하여 언제 어디서나 맛있게 먹을 수 있다.	A three-piece picnic set that includes a grill, iron pot, and foldable chair. It can help conjure up a feast anywhere and anytime.						0	
+gift1609_des	露营的好伙伴，充满电后就能提供数个晚上的温暖。	露營的好夥伴，充飽電後就能提供數個晚上的溫暖。	キャンプの最高の相棒。いっぱいに充電しておけば、数日の暖かい夜をもたらしてくれる。	캠핑의 좋은 파트너로 완전히 충전하면 며칠 동안 따듯한 밤을 보낼 수 있다.	A wonderful partner for any camping trip. On a full charge, it is capable of keeping the camp warm for several nights.						0	
+gift1610_des	树脂仿制的耶洛沙鹿角模型，拟真度很高。	樹脂仿製的耶洛沙鹿角模型，擬真度很高。	樹脂によって作られたイェロシャ鹿の角の模型。完成度が高い。	수지를 모방한 옐로샤의 사슴뿔 모형으로 실제 뿔과 굉장히 흡사하다.	A model of antlers of a Yehrus deer. It is made from resin and quite realistic.						0	
+gift1611_des	拥有记忆、投屏、一键清屏等功能的黑板套组，学习的好伙伴。	擁有記憶、投影螢幕、一鍵清除螢幕等功能的黑板套組，學習的好夥伴。	記録、映写、一括クリアなどの機能を揃えた黒板セット。勉強に最適だ。	메모리, 프로젝션, 원터치 스크린 및 기타 기능을 갖춘 칠판 세트로 학습 시 좋은 파트너 역할을 한다.	A blackboard set with features including long-term note saving, flexible screen sharing, and quick full-screen erasing. An ideal learning partner for students of any age.						0	
+gift301	复合保险柜	複合型保險櫃	高級金庫	대형 금고	Compound Safe						0	
+gift302	训练沙袋	訓練沙袋	サンドバッグ	훈련 샌드백	Training Sandbag						0	
+gift303	健身辅助机	健身輔助機	トレーニング補助ロボット	피트니스 보조 기구	Auxiliary Workout Equipment						0	
+gift304	蝴蝶机	蝴蝶機	バタフライマシン	버터플라이 머신	Butterfly Machine						0	
+gift305	股票走势图	股市走勢圖	株価チャート	주식 차트	Stock Chart						0	
+gift306	冲孔板	衝孔鋼板	有孔ボード	펀칭 플레이트	Metal Pegboard						0	
+gift307	骰子摆件	骰子擺件	サイコロの置物	주사위 장식품	Dice Decoration						0	
+gift308	“招财”猫猫	“招財”貓貓	「招き」猫	'재물' 고양이	Maneki-Neko						0	
+gift309	抑制剂收纳盒	抑制劑收納盒	抑制剤収納ボックス	억제제 수납함	Inhibitor Storage Case						0	
+gift310	智能回收桶	智慧回收桶	スマートゴミ箱	스마트 휴지통	Smart Recycle Bin						0	
+gift313	健身器械组合	健身器材組合	トレーニング器具セット	피트니스 장비 세트	Home Gym Set						0	
+gift314	黄金招财猫	黃金招財貓	黄金の招き猫	황금 마네키네코	Golden Lucky Cat						0	DLC2.7宿舍
+gift316	怦然留影	怦然留影	恋する瞬間	펄스 스냅샷	Pulse Snapshot						0	DLC2.7宿舍
+gift301_des	嵌入式的大保险柜，需要虹膜和指纹认证才能打开，十分安全。	嵌入式的大保險櫃，需要虹膜和指紋認證才能打開，十分安全。	壁埋込型金庫。開けるには虹彩と指紋の二重認証が必要なので、安全性が高い。	내장형 대형 금고로 홍채와 지문 인증이 있어야 열 수 있으며 매우 안전하다.	A large in-wall safe. Requiring both iris and fingerprint verification to unlock, it is extremely secure.						0	
+gift302_des	适合专业人群日常训练的沙袋，非常重，当心误伤自己。	適合專業人群日常訓練的沙袋，非常重，當心誤傷自己。	プロ向けの日常トレーニング用のサンドバッグ。非常に重いので、うっかり怪我しないように。	전문가가 일상 훈련에 사용하는 샌드백으로 매우 무겁다. 사용 시 다치지 않도록 주의해야 한다.	An ideal sandbag for daily training of professional fighters. It is extremely heavy and not for novices.						0	
+gift303_des	装有机械臂的健身辅助装置，可以根据使用者的状态提供不同的帮助。	裝有機械手臂的健身輔助裝置，可以依照使用者的狀態提供不同的幫助。	機械腕付きのトレーニング補助ロボット。使用者の状態に応じて様々なサポートができる。	로봇 팔이 장착된 피트니스 보조 장치는 사용자의 상태에 따라 다양한 도움을 제공한다.	A workout machine equipped with assisting mechanical arms. It is capable of adjusting itself according to the user's needs.						0	
+gift304_des	练习飞鸟夹胸动作时所使用的一种机械，主要锻炼胸大肌为主的胸部诸肌	練習飛鳥夾胸動作時所使用的機械，主要鍛鍊胸大肌為主的胸部諸肌。	チェストフライに使われるトレーニング器具の一種。主に大胸筋を初めとする胸部の筋肉を鍛える。	날아다니는 새가 물건을 집는 동작을 연습할 때 사용하는 기구로 가슴을 대흉근을 단련하는 데 사용된다.	A workout machine for performing the chest fly. This exercise targets the pectoralis major and other chest muscles.						0	
+gift305_des	反映股市变化的走势图，最需要出现红色的地方。	反映股市變化的走勢圖，最需要出現紅色的地方。	株価の動向を示すチャート。赤い部分が最も重要。	주식시장의 변화를 반영하고 있는 흐름도로 빨간 차트가 많이 나오는 것이 유리하다.	A virtual chart that displays the rise and fall of stock prices. Green is everyone's favorite color here.						0	
+gift306_des	表面上有多个小洞的金属板，配合短棍可以收纳很多物品。	表面上有多個小洞的金屬板，配合短棍可以收納很多物品。	複数の穴が開いた金属ボード。短い棒などと組み合わせると色んなものを収納できる。	표면에 여러 개의 작은 구멍이 뚫린 금속판과 짧은 막대기로 많은 물건을 보관할 수 있다.	A metal board with evenly-spaced holes in it. Pegs can be inserted to hang up items and install racks.						0	
+gift307_des	骰子形状的摆件，轻巧坚硬，从大小来看也许也能当凳子。	骰子形狀的擺件，輕巧堅硬，從大小來看也許也能當凳子。	軽くて固いサイコロ型の置物。この大きさなら腰掛けとしても使えるかもしれない。	가볍고 단단한 주사위 모양의 장식품. 크기로 보아 의자로도 사용할 수 있을 것 같다.	A dice-shaped decoration that is light yet durable. Judging by its size, it can also serve as a stepping stool.						0	
+gift308_des	据说能带来财运的陶瓷猫，只是方法似乎不太对……？	據說能帶來財運的陶瓷貓，只是方法似乎不太對…？	お金を招いてくれると言われている陶磁器の猫。ただ、書かれている文字がちょっとおかしいような……？	행운을 가져다준다고 하는 도자기 고양이. 이렇게 하는 게 아닌 것 같은데…?	A ceramic cat that is said to bring good fortune and wealth. But it seems to work in a suspicious way.						0	
+gift309_des	公司出品的抑制剂收纳盒，有保温功能，保护每一支抑制剂的安全。	公司出品的抑制劑收納盒，有保溫功能，保護每個抑制劑的安全。	自社で開発した抑制剤収納ボックス。保温機能付きで、抑制剤を安全に収納できる。	회사에서 생산한 억제제 보관함으로 보온 기능이 갖추고 있어 모든 억제제를 안전하게 보관할 수 있다.	A thermal-insulating storage case made by Yggdrasil. It properly preserves every Baldr Inhibitor kept inside.						0	
+gift310_des	有粉碎、压缩和纸张回收功能的垃圾桶，方便又好用。	有粉碎、壓縮和紙張回收功能的垃圾桶，方便又好用。	粉砕、圧縮と紙回収機能付きのゴミ箱。便利で使い勝手がいい。	분쇄, 압축 및 종이 재활용 기능이 있는 쓰레기통으로 편리하고 사용하기가 쉽다.	A recycle bin that can shred, compact, and recycle paper. It is convenient and useful.						0	
+gift313_des	升级辅助功能，扩展活动场地，快叫上你的伙伴一起大汗淋漓吧！	升級輔助功能，擴展活動場地，快叫上你的夥伴一起大汗淋漓吧！	補助機能が改良され、広々と使える。仲間を呼んで一緒に汗を流そう！	보조 기능을 업그레이드하고 활동 영역을 확장하고 파트너를 불러 함께 땀을 흘려보세요!	A set of workout equipment with upgraded auxiliary features and more space. It's time to get sweaty with that special workout buddy!						0	
+gift314_des	团建活动设置的最终大奖。因体积过大、不便收纳，于是妮塔灵机一动，将其重新熔铸成了黄金招财猫迷你版和数根金条。这一巧妙改造使黄金招财猫能灵活地摆放在房间各处，既实用又美观！	團建活動設定的最終大獎。因體積過大、不便收納，於是妮塔靈機一動，將其重新熔鑄成了黃金招財貓迷你版和數根金條。這項巧妙改造讓黃金招財貓能靈活地擺放在房間各處，既實用又美觀！	チームビルディングの目玉賞品として用意されたが、その巨大さゆえに収納に困ることに。そこでニタの発案により、一度溶かし、ミニチュア版の黄金の招き猫と数本の金塊へと作り変えられた。この巧みな改造により、黄金の招き猫は部屋の好きな場所に飾れるようになり、実用性と美しさを兼ね備えたアイテムへと生まれ変わった。	워크숍 이벤트의 최종 대상. 너무 크고 보관하기 불편한 이것을 니타는 황금 마네키네코와 여러 개의 금덩어리로 재주조했다. 이 교묘한 개조 덕분에 황금 마네키네코를 방 곳곳에 배치할 수 있게 되었고, 실용성과 미관성을 겸비할 수 있었다.	Originally the grand prize for the team-building event, it was too bulky for storage. So, Nita came up with a brilliant idea — melt it down and forge it into a mini lucky cat and a few gold bars. This smart modification makes it easy to display and practical for any room.						0	DLC2.7宿舍
+gift316_des	试穿“悸响”那天，妮塔和分析员共同定格下这一特别时刻。在众多照片中，妮塔精心挑选了这一张装裱起来。在这张照片里，分析员的目光专注而温柔地停驻在妮塔身上。这份被注视的感动，成为她心底永远珍藏的回忆。	試穿「悸響」的那天，妮塔和分析員共同定格下這一特別時刻。在眾多照片中，妮塔精心挑選了這張裝裱起來。在這張照片裡，分析員的目光專注而溫柔地停駐在妮塔身上。這份被注視的感動，成為她心底永遠珍藏的回憶。	「ドゥンドゥビ」を試着した日、ニタは分析員とともに、その特別な瞬間を写真に収めた。数多くの写真の中から選び抜かれた一枚は、丁寧に額に収められる。その写真には、優しい眼差しでニタを見つめる分析員の姿がーー。この瞬間のときめきと感動は、ニタの心に深く刻まれ、かけがえのない思い出となった。	 '펄스'를 착용한 그날, 니타는 분석가와 함께 이 특별한 순간을 함께 기록했다. 니타는 많은 사진 속 한 장을 골라 액자에 담았다. 이 사진에서 분석가의 온화하고 다정한 시선은 니타에 머무르고 있었다. 부드러운 그의 주시가 주는 감동은 그녀의 마음속에 영원히 간직될 추억이 되었다.	It's the photo captured on the day Nita tried on the Pulse exosuit, when she and the Adjutant shared a special moment. Nita picked this one from all the others, where the Adjutant's gaze was tender and affectionate. That feeling of being loved became a memory she would cherish always.						0	DLC2.7宿舍
+gift1801	单人观影区	單人觀影區	個人シアター	1인 영화 관람 구역	Solo Home Theater						0	dlc10宿舍
+gift1802	阅读创作角	閱讀創作角	コーナーブックシェルフ	창작 독서 공간	Reading and Writing Corner						0	dlc10宿舍
+gift1803	香氛浴缸	香氛浴缸	アロマバスタブ	향기로운 욕조	Scented Bathtub						0	dlc10宿舍
+gift1804	带镜衣帽架	附鏡衣帽架	鏡付きハンガーラック	거울 옷걸이	Clothing Rack With Mirror						0	dlc10宿舍
+gift1805	唱片播放柜	唱片播放櫃	レコードプレイヤー棚	레코드 플레이어 캐비닛	Record Player Cabinet						0	dlc10宿舍
+gift1806	海报挂画	海報掛畫	写真ポスター	포스터 걸이	Large Framed Poster						0	dlc10宿舍
+gift1807	海报贴图	海報貼圖	ポスターセット	포스터 스티커	Poster Prints						0	dlc10宿舍
+gift1808	落地灯	落地燈	電気スタンド	플로어 램프	Floor Lamp						0	dlc10宿舍
+gift1809	复古机械吊扇	復古機械吊扇	レトロなシーリングファン	복고풍 기계 천장 선풍기	Vintage Ceiling Fan						0	dlc10宿舍
+gift1810	造型绿植	造型綠植	造形観葉植物	조형 식물	Ornamental Plants						0	dlc10宿舍
+gift1811	双人观影套组	雙人觀影套組	二人用映画鑑賞セット	2인 영화 관람 패키지	Two-Person Home Theater						0	dlc10宿舍
+gift1801_des	在这个时代较为罕见的放映设备，能营造出别具一格的怀旧氛围。	在這個時代較為罕見的放映設備，能營造出獨樹一格的懷舊氛圍。	この時代にはやや珍しい放映設備で、一風変わったレトロな雰囲気が作り出せる。	현재 시대에는 상대적으로 보기 드문 프로젝션 장비로 독특한 향수를 자아내는 분위기를 조성할 수 있다.	A kind of projection equipment rarely seen in the modern era. It can evoke a unique nostalgic feeling.						0	dlc10宿舍
+gift1802_des	对于部分文字爱好者而言，阅读实体书籍的感受是电子设备无法取代的。	對於部分文字愛好者而言，閱讀實體書籍的感受是電子設備無法取代的。	一部の文学マニアにとって、実体書籍を読む経験はデジタル設備では実現できないもの。	글을 사랑하는 이들에게는 실제 책을 읽는 느낌을 전자 장치로 대체할 수 없다.	For many literature lovers, even the fanciest electronic device can't beat the feel of reading a physical book.						0	dlc10宿舍
+gift1803_des	梦幻花瓣，醉人味道，洗出吹弹可破的香香肌肤！	夢幻花瓣，醉人味道，洗出吹彈可破的香香肌膚！	夢の花びらと人を酔わせる香りで魅惑のすべすべ肌に！	몽환적인 꽃잎과 매혹적인 향기 속에서 부드럽고 탄력 있는 피부를 만들어 준다.	The delicate petals, accompanied by their intoxicating aroma, offer the skin a soft, fragrant essence after bathing.						0	dlc10宿舍
+gift1804_des	带有穿衣镜的简易衣架，方便日常起居，还不占地方。	附有穿衣鏡的簡易衣架，方便日常起居，還不佔地方。	姿見付きの簡易ハンガーラック、日常生活に便利な小さいデザイン。	전신거울이 달린 심플한 옷걸이는 일상생활에 편리하고 공간을 차지하지 않는다.	A simple clothing rack with a full-length mirror. Convenient for daily life, it doesn't take up much space.						0	dlc10宿舍
+gift1805_des	能够播放唱片的组合家具。柜子上的放音装置也被称作留声机。这类装置往往拥有复古而华丽的外形，就像它风靡的那个时代所给人的印象。	能夠播放唱片的組合傢俱。櫃子上的播音裝置也被稱為留聲機。這類裝置往往擁有復古而華麗的外形，就像它所風靡的那個時代帶給人的印象。	レコードを再生できる家具セット。棚に置ける装置は蓄音機とも言われる。こういった装置はレトロで華麗な趣があり、かつての時代が残したイメージを保っている。	레코드를 재생하는 모듈형 가구. 캐비닛의 음향 장치는 흔히 축음기라고 불린다. 이런 종류의 장치는 복고풍의 화려한 외관을 가지고 있어, 유행했던 시대의 인상을 준다.	A furniture set consisting of a cabinet and playback device called a phonograph, which can play old records. These devices are designed with an exquisite retro look that echoes the period when they were in vogue.						0	dlc10宿舍
+gift1806_des	使用精致画框装裱的挂画，似乎是电影剧照，但画中的人物有些眼熟。	使用精緻畫框裝裱的掛畫，似乎是電影劇照，但畫中的人物有些眼熟。	精巧な枠で飾られた写真。映画の宣伝写真のようで、写っている人物がどこか見覚えがある。	정교한 액자에 장식된 걸이 그림. 영화 스틸 사진처럼 보이지만, 그림 속 인물은 다소 익숙하게 느껴진다.	A picture set in an ornate frame. The style resembles that of a movie scene, yet the characters seem familiar.						0	dlc10宿舍
+gift1807_des	一组室内装饰画，讲述一对男女在不同世界中的奇妙经历。	一組室內裝飾畫，講述一對男女在不同世界中的奇妙經歷。	装飾絵のセット、二人の男女の違う世界での奇妙な経歴が語られている。	한 세트의 실내 장식 그림. 한 쌍의 남녀가 서로 다른 세계에서 경험하는 신비로운 이야기를 담고 있다.	A set of indoor decorative prints. It captures the enchanting story of a man and a woman from different worlds.						0	dlc10宿舍
+gift1808_des	简约风格的落地灯，暧昧的光线刚好够照亮小小一方空间。	簡約風格的落地燈，曖昧的光線剛好夠照亮小小空間。	シンプルな電気スタンド。ぼんやりとした光はちょうど少しだけの空間を照らせる。	심플한 스타일의 플로어 램프. 모호한 빛은 작은 공간을 밝히기에 충분하다.	A simple floor lamp. It provides a gentle light that can sufficiently brighten a small area.						0	dlc10宿舍
+gift1809_des	调节室内气流与温度的机械装置，使用了复古风扇叶片，配合内部控温电机共同工作。	調節室內氣流與溫度的機械裝置，使用了復古風扇葉片，配合內部控溫馬達共同工作。	室内の気流と温度を調節する機械装置。レトロな扇風機を使用し、内部の温度制御装置と合わせて稼働する。	실내 공기 흐름과 온도를 조절하는 기계 장치는 복고풍 팬 블레이드를 사용하여 내부 온도 조절 모터와 함께 작동한다.	A mechanical device that regulates a room's airflow and temperature. Its vintage fan blades work together with an internal temperature control motor.						0	dlc10宿舍
+gift1810_des	造型特别的室内绿植，这个种类在霍尔姆地区并不多见。	造型特別的室內綠植，這個種類在霍爾姆地區並不多見。	独特な形の観葉植物、ホルム地域ではあまり見かけないタイプだ。	독특한 형태의 실내 식물로 홀름 지역에서는 보기 드문 종류다.	A set of indoor greenery with a unique appearance. These plant species are rarely seen in Holme.						0	dlc10宿舍
+gift1811_des	刚好能容纳两个人依偎的双人沙发，为观影时光增添一份缱绻温馨。	剛好能容納兩個人依偎的雙人沙發，為觀影時光增添一份繾綣溫馨。	寄り添う二人にぴったりなダブルソファー、映画を見る時に温もりをもたらしてくれる。	두 사람이 기대어 앉을 수 있는 소파로 관람 시간을 더욱 아늑하고 따뜻하게 만들어 준다.	A loveseat perfectly sized for two to cuddle. It brings a cozy touch to movie nights.						0	dlc10宿舍
+gift2001	仿古方角柜	仿古方角櫃	レトロなキャビネット	앤틱 스퀘어 캐비닛	Antique-Style Wardrobe						0	DLC2.7宿舍
+gift2002	皮影戏箱	皮影戲箱	影絵芝居の箱	그림자 연극 박스	Shadow Puppet Theater						0	DLC2.7宿舍
+gift2003	百宝柜	百寶櫃	百宝箪笥	한가득 보물 상자	Curio Keeper						0	DLC2.7宿舍
+gift2004	面具屏风	面具屏風	仮面の屏風	가면 병풍	Mask Partition Screen						0	DLC2.7宿舍
+gift2005	新式桌案	新式桌案	現代風のデスク	신식 탁자	Modern Writing Desk						0	DLC2.7宿舍
+gift2006	香炉摆件	香爐擺件	香炉の置物	향로 장식	Decorative Incense Burner						0	DLC2.7宿舍
+gift2007	朔州风物挂饰	朔州風物掛飾	朔州風の掛け飾り	삭주 스타일 벽 장식품	Shuozhou Hanging Ornaments						0	DLC2.7宿舍
+gift2008	福雅安宁墙饰	福雅安寧牆飾	福を招く壁飾り	상서로운 벽 장식	Auspicious Wall Art						0	DLC2.7宿舍
+gift2009	高低柜组合	高低櫃組合	キャビネットセット	높낮이 캐비닛 조합	Staggered Cabinet Set						0	DLC2.7宿舍
+gift2010	矮脚花几盆栽	矮腳花幾盆栽	ミニ花台と鉢植え	짧은다리 화분	Low Plant Stand						0	DLC2.7宿舍
+gift2011	卜居雅案	卜居雅案	卜居風の文机	아늑한 탁자 세트	Tranquil Desk Set						0	DLC2.7宿舍
+gift2001_des	神秘的柜子，除了能收纳衣物，传说里面还藏着从来没有人见过的宝贝……	神秘的櫃子，除了能收納衣物，傳說裡面還藏著從來沒有人見過的寶貝……	謎のキャビネット。衣類を収納するだけでなく、誰も見たことのない宝物が隠されているという噂も……	신비한 캐비닛. 옷을 보관할 수 있을 뿐만 아니라, 그 속에 아무도 본 적 없는 보물이 들어 있다고 한다…	A mysterious wardrobe said to hold more than just clothes — some claim it hides a treasure no one's ever seen...						0	DLC2.7宿舍
+gift2002_des	特制的皮影戏演出箱，打开箱门，在幕后稍动机关，就能上演一场精彩的皮影戏剧了！	特製的皮影戲表演箱，打開箱門，在幕後橇動機關，就能上演一場精彩的皮影戲劇了！	特製の影絵芝居箱。扉を開き、内部の仕掛けを動かせば、見事な影絵劇が始まる！	특별한 그림자 연극 박스. 박스를 열고 연극막 뒤에서 장치를 움직이면, 훌륭한 그림자 연극을 시작할 수 있다!	A specially crafted box for shadow plays. Open the doors, flip a hidden switch, and let the show begin!						0	DLC2.7宿舍
+gift2003_des	高高的百宝柜，外形传统，材质古朴，看似平平无奇，实际……特别能装。	高高的百寶櫃，外形傳統，材質古樸，看似平平無奇，實際……特別能裝。	高さのある百宝箪笥。伝統的な外観と素朴な素材が特徴で、一見平凡に見えるが、実は驚くほどの収納力を誇る。	매우 거대한 보물 상자. 전통적인 외관에 소박한 재질로 구성되어, 겉보기에는 평범해 보이지만, 실제로는… 매우 많은 물건을 수납할 수 있다.	A tall, traditional cabinet with a humble look. But don't be fooled — it's surprisingly spacious.						0	DLC2.7宿舍
+gift2004_des	悬挂着数个面具的屏风隔断，上面的面具可有大用处，比如镇宅驱秽，还能协助小天师来练习剑法。	懸掛著數個面具的屏風隔間，上面的面具可有大用處，例如鎮宅驅穢，還能協助小天師來練習劍法。	いくつもの仮面が吊り下げられた屏風。装飾としてだけでなく、厄除けや天師の剣術修行にも役立つ。	여러 개의 가면이 걸려있는 병풍. 위에 걸려있는 가면은 저택의 악령을 쫓아내고, 점술사가 검술을 연습하는 데 도움을 줄 수 있는 등 다양한 용도를 가지고 있다.	A folding screen with several masks hanging on it. More than decoration, they ward off evil and even help the Geomancer train.						0	DLC2.7宿舍
+gift2005_des	结合了朔州传统桌案式样的现代家具，宽大的桌面能够满足书写阅读需求。根据使用者的偏好，也许还存在其他未开发用途。	結合了朔州傳統桌案式樣的現代傢俱，寬大的桌面能夠滿足書寫閱讀需求。根據使用者的偏好，也許還有其他未開發用途。	朔州伝統の文机デザインを取り入れた現代的な家具。広々とした天板は書き物や読書に最適で、使用者次第でさらに多様な用途が広がる。	삭주의 전통적인 스타일을 결합한 신식 가구. 넓은 탁자 상판은 쓰기와 읽기의 요구를 충족시키기에 넉넉하다. 사용법에 따라 아직 개발되지 않은 다른 용도가 있을지도 모른다.	A blend of traditional Shuozhou design and modern function. The wide surface is perfect for reading and writing, though it may hide a few extra surprises.						0	DLC2.7宿舍
+gift2006_des	新潮又不失古韵的香炉摆件，制作厂商承诺此物不会引发烟雾报警。	新潮不失古韻的香爐擺件，製作廠商承諾此物不會引發煙霧警報。	古き良き趣と現代的なセンスを兼ね備えた香炉の置物。製造元が、煙探知機の誤作動を起こさないことを保証している。	트렌디하면서도 앤티크한 향로 장식. 이 제품은 절대 화재 경보를 일으키지 않을 거라고 제조업체가 약속했다.	A stylish incense burner with a classic flair. The manufacturer promises it won't set off any smoke alarms.						0	DLC2.7宿舍
+gift2007_des	具有朔州当地特色的悬挂类装饰物品，除了照明和观赏外，也可以取下趁风玩耍一番。	具有朔州當地特色的懸掛類裝飾物品，除了照明和觀賞外，也可以取下趁風玩耍一番。	朔州の地域特色を反映した吊り下げ式装飾。照明や観賞用だけでなく、取り外して風に乗せて遊ぶこともできる。	삭주의 지역 특색이 담긴 장식품. 조명과 장식용 외에도, 바람이 불 때 색다른 즐거움을 느낄 수도 있다.	A local-style hanging decor piece from Shuozhou. Not just for lighting and display, it's fun to take down and play with on a windy day.						0	DLC2.7宿舍
+gift2008_des	有着吉祥安宁寓意的朔州传统图案，绘制装裱于画框和扇面上，高低排放亦有讲究。	有著吉祥安寧寓意的朔州傳統圖案，繪製裱框於畫框和扇面上，高低排放亦有講究。	安寧と福を象徴する朔州伝統の文様をあしらい、絵画や扇面に仕立てて額装。配置の高さも綿密に計算されている。	상서롭고 평화로운 의미를 지닌 삭주 전통 무늬가 액자와 부채에 그려졌고, 높이와 배치도 아주 각별하다.	Traditional Shuozhou motifs symbolizing peace and good fortune, framed or painted on fans. Even the layout has meaning.						0	DLC2.7宿舍
+gift2009_des	基于朔州艺术风格改良的墙柜家具，多规格柜体满足日常使用，精致的灯笼落地灯更添一份雅意。	以朔州藝術風格改良的牆櫃傢俱，多規格櫃體滿足日常使用，精緻的燈籠落地燈更添一份雅意。	朔州の芸術様式を基に改良されたウォールキャビネット。さまざまなサイズの収納スペースが日常のニーズに応え、精巧なランタン型の電気スタンドが一層優雅さを添える。	삭주 예술 스타일을 기반으로 개선된 벽 캐비닛 가구. 다양한 사양을 겸비해 일상적인 용도를 충족하는데 충분하며, 정교한 초롱 플로어 램프는 우아함을 더해준다.	Wall-mounted cabinets inspired by Shuozhou design. Multiple sizes for daily use, with an elegant lantern floor lamp adding extra charm.						0	DLC2.7宿舍
+gift2010_des	茂盛的绿植种植在典雅容器中，成为卧室一景。尽管花瓶看起来易碎，实际上却无需担心这一点。	茂盛的綠植種植在典雅容器中，成為臥室一景。儘管花瓶看起來易碎，實際上卻無需擔心這一點。	生き生きとした植物が上品な容器に植えられ、寝室の風景に彩りを添える。花瓶は壊れやすそうに見えるが、実際は頑丈。	무성한 식물이 우아한 용기에 담겨, 침실 속의 색다른 풍경이 된다. 꽃병이 깨지기 쉬워 보이지만, 사실 걱정할 필요는 없다.	A lush plant set in a graceful container, perfect for a bedroom corner. The pot may look delicate, but it's sturdier than it seems.						0	DLC2.7宿舍
+gift2011_des	更豪华的升级款桌案套组，专为特定使用群体升级加固了桌体，可倚可靠，绝无安全隐患，请放心使用。	更豪華的升級桌案套組，專為特定使用群體升級加固了桌體，可倚可靠，絕無安全隱患，請放心使用。	豪華にアップグレードされた文机セット。特定の客層向けに机の構造が強化され、寄りかかっても問題ない。安全性は保証されているので、安心してお使いください。	더욱 호화스러운 업그레이드 버전의 탁자 세트로, 특정 사용자들을 위해 탁자 상판을 보강하여 마음 놓고 기댈 수 있으며, 절대 안전상의 위험이 없으므로, 안심하고 사용해도 좋다.	An upgraded and reinforced desk set designed for a specific user group. Sturdy and safe — lean on it without worry!						0	DLC2.7宿舍
+gift2101	沙发抱枕套组	沙發抱枕套組	ソファクッションセット	소파 베개 세트	Sofa and Pillow Set						0	DLC2.8宿舍
+gift2102	弦光同奏	弦光同奏	共鳴の弦光	빛의 교향곡	Light Symphony						0	DLC2.8宿舍
+gift2103	悠饮吧台	悠飲吧台	くつろぎバーカウンター	느긋한 미니 바	Leisurely Mini-Bar						0	DLC2.8宿舍
+gift2104	全息投影水族箱	全像投影水族箱	ホログラム水槽	홀로그램 아쿠아리움	HoloDepth Aquarium						0	DLC2.8宿舍
+gift2105	海洋氛围灯	海洋氛圍燈	水波ムードライト	아쿠아틱 무드 등	Aquatic Mood Light						0	DLC2.8宿舍
+gift2106	炉龛控温系统	爐龕溫控系統	暖炉型温調システム	난로 히터	Hearth Heater						0	DLC2.8宿舍
+gift2107	水母夜灯	水母夜燈	クラゲナイトライト	해파리 야간등	Jellyfish Nightlight						0	DLC2.8宿舍
+gift2108	仿真鱼骨吊饰	仿真魚骨吊飾	人工魚骨モビール	고래 뼈 장식품	Whale Skeleton Ornament						0	DLC2.8宿舍
+gift2109	植萃香氛瓶	植萃香氛瓶	ボタニカルアロマ	식물 향기 디퓨저	Plant Fragrance Diffuser						0	DLC2.8宿舍
+gift2110	标本墙	標本牆	標本ウォール	표본 벽	Botanical Specimen Display						0	DLC2.8宿舍
+gift2111	浪漫潮汐氛围灯	浪漫潮汐氛圍燈	潮ゆらぐ夢灯	로맨틱 무드 등	Romantic Tide Light						0	DLC2.8宿舍
+gift2101_des	搭配有毛绒抱枕的沙发，面料舒适，坐卧皆可。	搭配有毛絨抱枕的沙發，布料舒適，坐臥皆可。	ふわふわのクッション付きソファ。心地よい素材で、座っても横になっても快適。	푹신한 쿠션을 곁들인 소파로, 고급 원단으로 만들어져 어느 자세로든 편안함을 만끽할 수 있다.	A sofa made from incredibly comfortable fabric. It comes with plush throw pillows that help make every posture cozy, whether sitting or reclining.						0	DLC2.8宿舍
+gift2102_des	既是乐器，也是交互装置。随指尖弹奏飞舞，音乐也将如流光般呈现于墙上。	既是樂器，也是互動裝置。隨指尖彈奏飛舞，音樂也將如流光般呈現於牆上。	楽器であり、観賞用装置でもある。指先の動きに合わせて音が舞い、光になって壁を彩る。	악기이자 상호작용 장치이기도 하다. 연주와 함께 교향곡은 흐르는 빛처럼 벽에 춤추듯 펼쳐진다.	A decoration that functions as both musical instrument and interactive art. When played, music will dance on the wall as a symphony of vibrant lights.						0	DLC2.8宿舍
+gift2103_des	集制作、冷藏、储存于一体的饮品吧台，随时准备好为您提供悠闲一刻。	集製作、冷藏、儲存於一體的飲品吧台，隨時準備好為您提供悠閒一刻。	飲み物の作り、冷蔵、保存が一体となったドリンクカウンター。いつでも心安らぐ一杯をお届けできる。	제작, 냉장, 보관을 통합한 음료 바로, 언제나 느긋한 시간을 제공할 준비가 되어 있다.	An all-in-one beverage bar for making, chilling, and storing drinks. It is always prepared to help one enjoy moments of leisure.						0	DLC2.8宿舍
+gift2104_des	搭载了全息投影技术的智能水族箱，表面同时是交互显示屏，可以随时通过触控“唤醒”鱼儿。	搭載了全像投影技術的智慧水族箱，表面同時是互動顯示螢幕，可以隨時透過觸控「喚醒」魚兒。	ホログラム技術を搭載したスマート水槽。表面はインタラクティブディスプレイとなっており、タッチすることで魚を呼び起こすことができる。	홀로그램 투영 기술이 탑재된 스마트 아쿠아리움으로, 표면은 상호작용 스크린이기도 하여, 언제든지 터치를 통해 물고기를 '깨울' 수 있다.	A smart fish tank that utilizes holographic projection technology. The touch-responsive surface can be used to "awaken" the marine life.						0	DLC2.8宿舍
+gift2105_des	能够营造海洋环境的氛围灯，快打开它体验海底的奇境吧！	能夠營造海洋環境的氛圍燈，快打開它體驗海底的奇境吧！	海の雰囲気を演出するムードライト。点灯させることで、海底の神秘的な世界を体験できる。	바다 분위기를 낼 수 있는 무드 등. 얼른 등을 켜서 바닷속의 기묘한 풍경을 경험해 보자!	An ocean-themed mood light. Turn it on to experience the marvels of the undersea world.						0	DLC2.8宿舍
+gift2106_des	以壁炉为外形灵感设计而成的房间控温系统，兼具精准调温与艺术装饰功能。	以壁爐為外型靈感設計而成的房間溫控系統，兼具精準溫與藝術裝飾功能。	暖炉をモチーフにした室温コントロールシステム。精密な温度管理と優れたアート性を兼ね備えている。	벽난로의 모습을 본떠 디자인된 실내 온도 조절 시스템으로, 정밀한 온도 조절과 예술적인 장식 기능을 한 몸에 담았다.	A room temperature control system made to look like a traditional hearth. This functional yet aesthetic appliance warms both space and soul.						0	DLC2.8宿舍
+gift2107_des	参考水母外形设计的装饰灯，对于喜欢这类生物的人来说是一款别致又实用的物品。	參考水母外型設計的裝飾燈，對於喜歡這類生物的人來說是一款別緻又實用的物品。	クラゲをモチーフにしたデコレーションライト。クラゲ好きには、お洒落で実用的な一品。	해파리 모양을 참고하여 디자인된 장식 등으로, 이 생물을 좋아하는 사람들에게는 독특하면서도 실용적인 아이템이라고 할 수 있다.	A decorative light with a design inspired by jellyfish. This unique and practical appliance is perfect for true jelly enthusiasts.						0	DLC2.8宿舍
+gift2108_des	使用超轻合成材料制作而成的室内吊饰，造型模仿了海洋中巨型鱼类的骨骼结构。	使用超輕合成材料製作而成的室內吊飾，造型模仿了海洋中巨型魚類的骨骼結構。	超軽量の合成素材で作られた室内オーナメント。海に棲む巨大魚の骨格を模したデザインが特徴。	초경량 합성 재료로 만들어진 실내 펜던트로, 그 모양은 바닷속 거대 어류의 골격 구조를 본떴다.	A hanging ornament made from ultra-lightweight synthetic materials. This skeleton model of a giant sea creature is very realistic, outside of the much smaller scale.						0	DLC2.8宿舍
+gift2109_des	内部生长着真实植物的培养瓶，瓶口的特殊材料能够释放并扩散植物香气，令居室充满清新味道。	內部生長著真實植物的培養瓶，瓶口的特殊材料能夠釋放並擴散植物香氣，讓居室充滿清新味道。	本物の植物を育てる培養ボトル。特殊素材の口部分から香りが広がり、部屋中に清々しい空気を届ける。	진짜 식물이 자라고 있는 꽃병 모양의 디퓨저로, 병 입구의 특수 재료는 식물 향을 방출하고 확산시켜 방 안을 상쾌한 향으로 가득 채워준다.	A vase-like fragrance diffuser with a real plant growing within. It releases the scent of the greenery, filling the room with nature's refreshing perfume.						0	DLC2.8宿舍
+gift2110_des	多种植物标本组成的展示板，其中的植物采集于世界各地。	由多種植物標本組成的展示板，其中的植物採集於世界各地。	世界各地から採取した植物標本を組み合わせた展示ボード。さまざまな植物の美しさを一堂に楽しめる。	전 세계에서 수집한 다양한 식물 표본으로 구성된 전시판이다.	A wall display that presents different plant specimens. The various botanical species were collected from all over the world.						0	DLC2.8宿舍
+gift2111_des	光影粼波，鱼儿跃舞。升级版海洋氛围灯，带来更沉浸的感官体验。	光影粼波，魚兒躍舞。升級版海洋氛圍燈，帶來更沉浸的感官體驗。	光が波紋を描き、魚が跳ねる。アップグレードされた水波ムードライトが、より深い没入感を提供する。	빛과 그림자가 수면 위에서 흔들리고, 물고기들이 춤을 춘다. 한껏 업그레이드된 바다 무드 등은 더욱 몰입감 넘치는 감각적 경험을 선사해 준다.	An upgraded model of the aquatic mood light. It delivers a more immersive sensory experience of shimmering lights and gliding fish in the ocean's waves.						0	DLC2.8宿舍
+gift2201	茶点桌套组	茶點桌套組	ティーセットテーブル	티타임 세트	Tea Table Set						0	DLC3.3宿舍
+gift2202	憩阅美人榻	憩閱美人榻	シェーズロング	조용한 리딩 체어	Quiet Reading Chaise						0	DLC3.3宿舍
+gift2203	暖煦壁炉	暖煦壁爐	暖炉型ヒーター	아늑한 벽난로	Cozy Hearth						0	DLC3.3宿舍
+gift2204	豪华梳妆套组	豪華梳妝套組	高級ドレッサーセット	럭셔리 화장대 세트	Luxury Vanity Set						0	DLC3.3宿舍
+gift2205	雅致伞架	雅致傘架	エレガントな傘立て	단아한 우산꽂이	Refined Umbrella Stand						0	DLC3.3宿舍
+gift2206	夜幕时钟	夜幕時鐘	夜の帷クロック	나이트 클락	Timeless Night Clock						0	DLC3.3宿舍
+gift2207	电子照片墙	電子照片牆	電子フォトウォール	디지털 사진벽	Digital Photo Wall						0	DLC3.3宿舍
+gift2208	花影台灯	花影檯燈	フラワーシャドウ	나이트 플라워 램프	Nightbloom Lamp						0	DLC3.3宿舍
+gift2209	落地式花台	落地式花台	フラワースタンド	배트윙 스탠드	Batwing Pedestal						0	DLC3.3宿舍
+gift2210	幽氛幔帐	幽氛幔帳	薄月夜	드리미 캐노피	Ethereal Drapes						0	DLC3.3宿舍
+gift2211	奢享茶点桌套组	奢享茶點桌套組	スウィーティータイム	로얄 티타임 세트	Regal Tea Time Set						0	DLC3.3宿舍
+gift2201_des	典雅沙发与圆几相映成趣，组成古典风格的茶歇区域，带来一段放松惬意的悠闲时光。	典雅沙發與圓茶几相映成趣，組成古典風格的茶歇區域，帶來一段放鬆愜意的悠閒時光。	エレガントなソファと丸テーブルが織りなす、クラシックなティータイムの情景。ゆったりと心安らぐ、優雅なひとときを演出する。	우아한 소파와 둥근 테이블이 클래식 스타일의 티타임 구역을 이루어, 편안하고 여유로운 시간을 선사한다.	An elegant sofa paired with a round table creates a classical-style tea area, offering a relaxing and leisurely retreat.						0	DLC3.3宿舍
+gift2202_des	舒适的卧榻摆放在高大墙柜前，深邃色调如夜幕低垂，围合出这方静谧空间。	舒適的臥榻擺放在高大牆櫃前，深邃色調如夜幕低垂，呈現出這方靜謐空間。	高い壁面キャビネットの前に佇む、優雅なシェーズロング。深みのある色調が夜の帳のように静謐な空間を織りなし、穏やかな休息を約束する。	높은 벽장 앞에 배치된 편안한 소파. 그 짙은 색조는 마치 어둠이 내려앉은 듯 침착하게 이 공간을 감싼다.	This cozy chaise sits before a towering bookcase, its deep, twilight-hued tones cradling a quiet, serene corner. Perfect for some quiet reading.						0	DLC3.3宿舍
+gift2203_des	用于调节室内温度的装置，外形看上去像是老式烟囱壁炉，但内部结构却完全不是这么回事。	用於調節室內溫度的裝置，外形看上去像是老式煙囪壁爐，但內部結構卻完全不是這麼回事。	古風な煙突付き暖炉を思わせるヒーター。クラシックな外観にモダンな機能が息づき、温もりと優雅さを部屋にもたらす。	실내 온도를 조절하는 데 사용되는 장치로, 겉보기에 옛날식 굴뚝 벽난로와 비슷해 보이지만 완전히 다른 내부 구조를 이루고 있다.	Designed to regulate indoor temperature, it looks like an old-fashioned chimney fireplace, but inside, it's a completely different mechanism.						0	DLC3.3宿舍
+gift2204_des	豪华精致的梳妆台套组，三面梳妆镜镶嵌于繁复雕花之中，映照着比花朵更美的她。	豪華精緻的梳妝台套組，三面梳妝鏡鑲嵌於繁複雕花之中，映照著比花朵更美的她。	豪華で精巧なドレッサーセット。三面鏡には緻密な彫刻が施され、花よりも美しい彼女の姿を映し出す。	호화스럽고 정교한 화장대 세트. 세 개의 화장대 거울이 복잡한 문양 사이에 박혀 꽃보다 아름다운 그녀의 모습을 비춰준다.	An exquisite vanity adorned with ornate carvings. Its three-panel mirror reflects the visage of a girl whose beauty rivals that of the finest blooms.						0	DLC3.3宿舍
+gift2205_des	造型别致的伞架，哪怕空置时，也是一件漂亮的装饰家具。	造型別緻的傘架，哪怕在空置時，也是一件漂亮的裝飾傢俱。	優美な曲線が目を引くエレガントな傘立て。傘がなくともその姿は部屋を彩る芸術品のように輝く。	독특한 모습의 우산꽂이. 비어 있을 때도 아름다운 장식용 가구이다.	A stylish umbrella stand that remains a beautiful decorative piece even when it holds nothing.						0	DLC3.3宿舍
+gift2206_des	造型典雅的立式钟表，从功能上来讲似乎已经不属于这个时代，不过这也正是它特别的地方。	造型典雅的立式鐘錶，從功能上來講似乎已經不屬於這個時代，不過這也正是它特別的地方。	クラシックなデザインのスタンドクロック。現代では機能的役割は薄れつつあるが、だからこそ特別な存在となる。	우아하게 디자인된 스탠드형 시계. 기능적으로는 이 시대와 어울리지 않을 수 있지만, 오히려 그 점이 매력 포인트가 되기도 한다.	An elegantly designed floor clock that, functionally, seems out of place in this era. Yet, its classic design makes it truly timeless, pun intended.						0	DLC3.3宿舍
+gift2207_des	由一块块荧幕组成的照片墙，相框上的电光静静闪烁，为优雅的景物增添科技韵味。	由一塊塊螢幕組成的照片牆，相框上的電光靜靜閃爍，為優雅的景物增添科技韻味。	複数のディスプレイが織りなすフォトウォール。柔らかな光が風景を彩り、優雅さとテクノロジーが融合した空間を生み出す。	하나하나의 스크린으로 구성된 사진 벽. 액자 위로 은은하게 깜박이는 불빛은 우아한 풍경에 테크노 감성을 더해준다.	Several digital frames arranged together, their gentle flicker bringing a hint of technology to an elegant decor.						0	DLC3.3宿舍
+gift2208_des	暖色灯光透过雕花的灯罩，点亮一方静谧温暖的空间。	暖色燈光透過雕花的燈罩，點亮一方靜謐溫暖的空間。	花の形の彫刻入りのランプシェードから暖かな灯りがこぼれ、静かで温もりある空間に。	따뜻한 색조의 빛은 꽃무늬가 조각된 등갓을 통해 비쳐 나와, 고요하고 아늑하게 이 공간을 밝혀준다.	Warm light shines through the intricately carved lampshade, illuminating a serene and cozy corner.						0	DLC3.3宿舍
+gift2209_des	优雅的花台，其上雕刻夜翼蝠影，来自黑夜的气息在木纹间悄然舒展。	優雅的花台，其上雕刻夜翼蝠影，來自黑夜的氣息在木紋間悄然舒展。	優美なフラワースタンドに、夜を舞う翼の彫刻が施される。深みのある木目が静かな気品を放ち、花の鮮やかさを一層引き立てる。	우아한 꽃꽂이 플로어. 그 위에는 밤의 날개를 편 박쥐 모습이 새겨져 있어, 어둠의 기운이 나무 결 사이로 은은히 펼쳐진다.	An elegant wooden flower pedestal, embraced by a pair of jet-black bat wings, as if fluttering to deliver midnight blooms.						0	DLC3.3宿舍
+gift2210_des	精致的床上幔帐，在朦胧中酝酿着神秘氛围。	精緻的床上幔帳，在朦朧中醞釀著神秘氣氛。	精巧なベッドキャノピーが、ほの暗い中に神秘的な空気を漂わせる。	정교한 침대 망사. 몽롱함과 함께 신비로운 분위기가 전해진다.	A delicate canopy drapes over the bed, its misty folds creating an atmosphere of quiet mystery.						0	DLC3.3宿舍
+gift2211_des	更加豪华的茶点桌套组，可供两人使用，桌上的烛台与花束带来浪漫情调。	更加豪華的茶點桌套組，可供兩人使用，桌上的燭台與花束帶來浪漫情調。	より豪華なティーセットテーブル一式。二人で使用するのにぴったりで、テーブル上の燭台と花束がロマンチックな雰囲気を演出する。	더욱 호화스러운 티타임 세트로, 두 사람이 사용할 수 있다. 테이블 위의 촛대와 꽃다발은 로맨틱한 느낌을 더해준다.	A more luxurious tea table set for two, with the candelabra and roses adding a touch of romance.						0	DLC3.3宿舍
+gift2301	星梦游记墙	星夢遊記牆	星夢トラベルウォール	별의 꿈 투어벽	Stardream Journey Wall						0	DLC3.4宿舍
+gift2302	月影悬巢	月影懸巢	星影の巣	달빛 흔들의자	Moonsway Chair						0	DLC3.4宿舍
+gift2303	零食冰饮柜	零食冰飲櫃	おやつ冷蔵庫	간식 냉장고	Funtime Fridge						0	DLC3.4宿舍
+gift2304	独具匠心料理台	獨具匠心料理台	匠のキッチン台	스페셜 간이 조리대	Ingenious Kitchenette						0	DLC3.4宿舍
+gift2305	粉色帘幕	粉紅色簾幕	ピンクのカーテン	연핑크 커튼	Blush Drapes						0	DLC3.4宿舍
+gift2306	甜蜜记事板	甜蜜記事板	スイートボード	달콤한 메모판	Sweet Memo Board						0	DLC3.4宿舍
+gift2307	情侣拖鞋	情侶拖鞋	カップルスリッパ	커플 슬리퍼	Couple Slippers						0	DLC3.4宿舍
+gift2308	窗边地毯	窗邊地毯	ウィンドウマット	포근한 카펫	Snuggle Rug						0	DLC3.4宿舍
+gift2309	毛绒绒的墙	毛絨絨的牆	ふわふわの壁	푹신한 벽	Fluffy Wall						0	DLC3.4宿舍
+gift2310	床边矮柜	床邊矮櫃	ベッドサイドキャビネット	침대 옆 협탁	Bedside Cabinet						0	DLC3.4宿舍
+gift2311	星梦同愿墙	星夢同願牆	満天の思い出	별의 꿈 코너	Stardream Cozy Corner						0	DLC3.4宿舍
+gift2301_des	记录着旅行足迹的照片墙，也可在置物架上放些喜欢的小装饰。	記錄著旅行足跡的照片牆，也可在置物架上放些喜歡的小裝飾。	旅の足跡を収めた写真を飾れるフォトウォールで、棚にはお気に入りの小物も並べておける。	여행에서의 순간을 기록한 사진벽. 선반에는 좋아하는 장식품을 올려놓을 수도 있다.	A photo wall capturing the girl's travel memories. Her favorite little decorations can be displayed on the shelves.						0	DLC3.4宿舍
+gift2302_des	梦幻而浪漫的吊椅套组。每当吊椅轻晃时，系于其上的风铃便会发出空灵的声响。	夢幻而浪漫的吊椅套組。每當吊椅輕晃時，系於其上的風鈴便會發出空靈的聲響。	幻想的でロマンチックなハンギングチェアセット。そよぐたびに、風鈴が澄んだ音色を響かせる。	몽환적이고 로맨틱한 분위기를 자랑하는 행잉 체어 세트. 행잉 체어가 흔들릴 때마다, 위에 묶어둔 풍경이 아름다운 소리를 내곤 한다.	A dreamy and romantic swing chair set. Whenever the chair gently sways, the wind chimes tied to it create an ethereal sound.						0	DLC3.4宿舍
+gift2303_des	本质上是个智能冰箱，可以放心将美味零食和冰饮储存于其中，不必担心口感有任何折损。	本質上是個智慧型冰箱，可以放心將美味零食和冰飲儲存於其中，不必擔心口感有任何折損。	スマート冷蔵庫においしいお菓子やドリンクを保存でき、風味が損なわれる心配はない。	본질적으로는 스마트 냉장고이다. 맛 손실에 대해 걱정할 필요 없이 맛있는 간식이나 차가운 음료를 간편하게 보관할 수 있다.	A smart fridge that can be used to safely store chilled drinks and snacks without any compromise on taste.						0	DLC3.4宿舍
+gift2304_des	实用的简餐料理台家具套组，拥有充足的碗柜收纳空间，以及宽阔的操作台面。	實用的簡餐料理台傢俱套組，擁有充足的碗櫃收納空間，以及寬闊的操作台面。	実用的な簡易調理台セット。食器を収納できるキャビネットも充実しており、作業スペースも広く使える。	실용적인 간편 식사 조리대 및 가구 세트로, 넉넉한 수납공간과 넓은 조리대를 갖추고 있다.	This practical kitchenette design features ample cabinet storage for bowls and a spacious countertop for food preparation.						0	DLC3.4宿舍
+gift2305_des	挂在门框上的布帘，在特定灯光下也许还有特殊的用法……	掛在門框上的布簾，在特定燈光下也許還有特殊的用法……	ドア枠に掛けられた布のカーテン。光の加減次第で、思わぬ使い方ができるかもしれない……	문틀에 걸린 커튼. 특정 조명 아래에서 특수한 용도로 사용될지도 모른다…	A fabric curtain hung on the doorframe. It may have special effects under certain lighting...						0	DLC3.4宿舍
+gift2306_des	一块装饰着粉色云朵的磁吸黑板，不论是甜点食谱，还是喜悦感受，请将甜蜜的滋味全部记录下来吧！	一塊裝飾著粉色雲朵的磁吸黑板，不論是甜點食譜，還是喜悅感受，請將甜蜜的滋味全部記錄下來吧！	ピンクの雲をあしらったマグネット式ブラックボード。スイーツのレシピや、ちょっとした喜び、甘い気持ちをぜんぶ書き留めてみよう。	분홍색 구름으로 장식된 자석 보드. 디저트 레시피도 기쁜 마음도, 달콤한 맛은 모두 여기에 기록해 보세요!	Adorned with pink clouds, this magnetic memo board is perfect for capturing all things sweet, from dessert recipes to joyful memories.						0	DLC3.4宿舍
+gift2307_des	这是一对可爱的情侣拖鞋，专属于分析员和米娅，当然，情侣之间互相换着穿也完全没有问题。	這是一對可愛的情侶拖鞋，專屬於分析員和米婭，當然，情侶之間互相換著穿也完全沒有問題。	分析員とミアのための可愛いカップルスリッパ、恋人同士で交換して履いてもまったく問題ない。	이건 분석가와 미아를 위한 사랑스러운 커플 슬리퍼. 물론, 커플끼리 서로 바꿔 신어도 아무런 문제가 없다.	Two pairs of adorable couple slippers, exclusively for the Adjutant and Mia. Of course, swapping them around makes for a delightful experience.						0	DLC3.4宿舍
+gift2308_des	柔软亲肤的地毯，坐在上面一点都不会觉得冷。	柔軟親膚的地毯，坐在上面一點都不會覺得冷。	柔らかい肌触りのラグで、座っても冷たさを感じることがない。	부드럽고 폭신한 카펫. 위에 앉아 있으면 전혀 추위를 느끼지 못한다.	A plush rug that is gentle on the skin. Super cozy, it never feels cold when sitting on it.						0	DLC3.4宿舍
+gift2309_des	毛绒绒的……墙？总之，当墙面中央的“月球”亮起，整个房间应该也会充满柔软而浪漫的气氛吧。	毛絨絨的……牆？總之，當牆面中央的“月球”亮起，整個房間應該也會充滿柔軟而浪漫的氣氛吧。	ふわふわの……壁？中央の「月」が灯れば、部屋全体がふんわりとロマンチックな空気に包まれる。	푹신한... 벽? 어쨌든, 벽 중앙의 '달'에 불이 들어오면 방 전체가 부드럽고 로맨틱한 분위기로 가득 찰 것이다.	A wall that is... fluffy? In any case, when the moon in the center lights up, the whole room is sure to be filled with a soft and romantic atmosphere.						0	DLC3.4宿舍
+gift2310_des	这款立于床侧的矮柜，不仅提供了便捷的置物空间，更能在睡梦中为您构筑一道安心的防线，有效阻挡坠床风险。	這款立於床側的矮櫃，不僅提供了便捷的置物空間，更能在睡夢中為您構築一道安心的防線，有效阻擋墜床風險。	ベッド横に置けるキャビネットは、便利な収納として使えるだけでなく、眠っているあいだも安心のガードとなり、寝返りによる落下をしっかり防いでくれる。	침대 옆에 두는 이 낮은 캐비닛은 편리한 수납공간을 제공할 뿐만 아니라, 잠을 자는 동안 안심할 수 있는 방어선을 만들어 침대에서 떨어질 위험을 효과적으로 방지해 준다.	Placed beside the bed, this low cabinet provides practical storage as well as a protective edge, helping to keep you safe from rolling off during sleep.						0	DLC3.4宿舍
+gift2311_des	搭配有舒适沙发的照片陈列角落，适合两个人坐在一起，同看照片细数回忆。	搭配有舒適沙發的照片陳列角落，適合兩個人坐在一起，同看照片細數回憶。	心地よいソファが添えられたフォトコーナー。二人で並んで座り、写真を眺めながら思い出を語り合える。	편안한 소파와 함께 마련된 사진 코너로, 사랑하는 두 사람이 나란히 앉아 추억을 되새기기 딱 좋은 공간이다.	A cozy sofa beneath the photo wall invites two to sit side by side, sharing smiles and memories as they look across the photos.						0	DLC3.4宿舍
+gift5101	身高体重测量仪	身高體重測量儀	身長体重計	신장 체중 측정기	Height and Weight Measurer						0	
+gift5101_des	可以快速得出身高体重数据的仪器，经过芙提雅的改造，精确度非常高。	可以快速得出身高體重數據的儀器，經過芙提雅的改造，精確度非常高。	身長と体重のデータを素早く表示できる装置。フリティアに改造され、精度が非常に高い。	키와 몸무게 데이터를 신속하게 측정할 수 있는 기기로 프티야의 개조를 거쳐 정밀도가 굉장히 높다.	A device that can quickly obtain height and weight data. Fritia modified it to make it even more accurate.						0	
+gift5102	自动贩卖机	自動販賣機	自動販売機	자판기	Vending Machine						0	
+gift5102_des	相比大厅里的，拥有更多商品的自动贩卖机。还可以提前预约后让机器人进行补货。	相較於大廳裡的，擁有更多商品的自動販賣機。還可以提前預約後讓機器人進行補貨。	ロビーの自動販売機よりさらに多くの商品が並ぶ自動販売機。予約するとロボットが商品を補充してくれる。	로비의 자판기보다 더 많은 상품을 보유한 자판기. 미리 예약하면 로봇이 물품을 보충하도록 할 수 있다.	A vending machine that has more items than the ones in the hall. It can even schedule a robot to refill it beforehand.						0	
+gift5103	全身体检室	全身體檢室	全身検査室	전신 검진실	Full-Body Exam Room						0	
+gift5103_des	可以进行体内检查的综合体检室，需要有专业人员在外部进行协助。	可以進行體內檢查的綜合體檢室，需要有專業人員在外部進行協助。	体内検査ができる総合的な検査室。外で協力するプロのスタッフが必要だ。	내부 검사를 진행할 수 있는 종합 건강 검진실로 전문가의 외부 지원이 필요하다.	A comprehensive exam room that can perform internal examinations. It requires a specialist's assistance outside to operate.						0	
+gift5104	按摩仪	按摩儀	マッサージチェア	안마기	Massage Apparatus						0	
+gift5104_des	能够提供全身按摩的仪器，在训练之余，也要注意放松与恢复。	能提供全身按摩的儀器，在訓練之餘，也要注意放鬆與恢復。	全身マッサージを行う装置。訓練の合間は、リラックスや回復に努めるのも重要だ。	훈련 후에도 휴식과 회복을 중시하는 전신 안마 기구.	A reclining massage machine that offers a full-body massage. It's essential to relax and recover after training.						0	
+gift5105	醒狮献瑞	醒獅獻瑞	幸運をもたらす獅子	복을 전하는 사자	Lioness Roar						0	DLC2.5宿舍
+gift5105_des	憨态可掬的形象，柔软密实的触感，令人爱不释手，总想把玩一番。	憨態可掬的形象，柔軟密實的觸感，令人愛不釋手，總想把玩一番。	可愛い姿に、ふわふわで柔らかな手触り。愛してやまないほど手放せない。	사랑스러운 모습과 부드럽고 촘촘한 질감이 마음을 사로잡아 계속 가지고 놀고 싶다.	Its adorable shape and cozy, smooth texture will make you want to keep it close at all times.						0	DLC2.5宿舍
+gift5106	浓香佳“肴”-纳宝帝										1000	DLC2.5宿舍
+gift5106_des	特别定制的纪念海报，记录下了肴机灵搞怪的一面。这是一份专为分析员准备的美味佳“肴”，还请笑纳。										1000	DLC2.5宿舍
+gift5107	酥脆甜“星”-纳宝帝										1000	DLC2.5宿舍
+gift5107_des	特别定制的纪念海报，记录下了辰星品尝美味时的可爱神态，这份放松与享受仅对分析员可见。										1000	DLC2.5宿舍
+gift5108	全家福-和乐融融	全家福-和樂融融	みんなの記念写真-和気藹々	가족 사진-화목한 분위기	Heimdall Family Photo - Blissful Harmony						0	DLC2.5宿舍
+gift5108_des	少女们争相紧靠在分析员的身边，这份爱意与温暖只属于分析员一个人。未来的日子，也请分析员牵着大家的手，一直走下去吧！	少女們爭相緊靠在分析員的身邊，這份愛意與溫暖只屬於分析員一個人。未來的日子，也請分析員牽著大家的手，一直走下去吧！	少女たちが我先にと分析員に寄り添おうとも、その愛情と温もりは間違いなく分析員だけのものである。未来の日々も、皆と手を取り合って歩み続けよう！	소녀들이 분석가 옆에 붙어있어 사랑의 온기를 느낄 수 있다. 앞으로도 모두의 손을 잡고 함께 하고 싶은 염원을 담고 있다.	Surrounded by the girls, the Adjutant holds their hearts and warmth. Adjutant, let's hold hands and walk forward into the future together!						0	DLC2.5宿舍
+gift5109	“奈”人寻味-OATLY										1000	DLC2.7宿舍
+gift5109_des	特别定制的纪念海报，记录下了分析员与奈莉德共饮OATLY噢麦力的浪漫时光。香浓醇厚，耐人回味。										1000	DLC2.7宿舍
+gift5110	“妮”喃心选-OATLY										1000	DLC2.7宿舍
+gift5110_des	特别定制的纪念海报，记录下了分析员与妮塔分享OATLY噢麦力的惬意时光。呢喃细语，幸福滋味。										1000	DLC2.7宿舍
+gift5111	浓情辣love-虎邦辣酱										1000	DLC3.0宿舍
+gift5111_des	特别定制的纪念海报。三位少女的甜蜜表白，是满满的三重火辣爱意，献给亲爱的分析员。										1000	DLC3.0宿舍
+gift5112	魅爽激饮-健力宝										1000	DLC3.0宿舍
+gift5112_des	特别定制的纪念海报，画面上凯茜娅的身姿还是那么魅力诱人。她想邀你共饮，感受这魅惑畅爽的一刻。										1000	DLC3.0宿舍
+gift5113	魔法绮味-健力宝										1000	DLC3.0宿舍
+gift5113_des	特别定制的纪念海报，鼓着脸颊的苔丝娇俏可爱。经她之手的饮品一定别有一番风味，因为那饱含对你的爱意。										1000	DLC3.0宿舍
+gift5114	甜蜜“芬”享										1000	DLC3.2宿舍
+gift5114_des	特别定制的纪念海报。海风轻抚，甜香盈怀，与芬妮共享这份甜蜜吧~										1000	DLC3.2宿舍
+gift5115	羞“瑟”共尝										1000	DLC3.2宿舍
+gift5115_des	特别定制的纪念海报。树影轻摇，蜜意羞颊，请快尝尝瑟瑞斯喂过来的美味吧！										1000	DLC3.2宿舍
+gift6001	桑拿配套炉箱	三溫暖配套爐箱	サウナ用ストーブ	사우나 난로 박스	Sauna Heater						0	DLC2.5宿舍
+gift6002	茗香茶具套组	茗香茶具套組	茶香の茶道具セット	향기로운 차 도구 세트	Fragrant Tea Set						0	DLC2.5宿舍
+gift6003	温浴置物木桶	溫浴置物木桶	湯汲み用木製桶	목욕 용품 나무통	Wooden Bath Bucket						0	DLC2.5宿舍
+gift6004	鱼疗池靠枕套组	魚療池靠枕套組	クッションセット	수조용 쿠션 세트	Fish Spa						0	DLC2.5宿舍
+gift6005	暖韵滋养池	暖韻滋養池	ぽかぽかと温かい温泉	따뜻한 약탕	Rejuvenating Pool						0	DLC2.5宿舍
+gift6006	瑞枝生辉	瑞枝生輝	幸運の木の枝	축복받은 가지	Blessed Sprout						0	DLC2.5宿舍
+gift6007	远山悦赏	遠山悅賞	重なる山々の風景	산중 바람	Mountain Breeze						0	DLC2.5宿舍
+gift6001_des	蒸桑拿时必不可少的配套炉箱，尽情享受这份热情拥抱吧！	汗蒸時必不可少的配套爐箱，盡情享受這份熱情擁抱吧！	サウナには欠かせないストーブ。熱い抱擁を思う存分楽しもう！	사우나에 없어선 안될 보조 난로 박스로 따뜻한 온기를 느낄 수 있다.	A necessary sauna stove box for your steam experience — immerse yourself in the warmth and let it embrace you with passion!						0	DLC2.5宿舍
+gift6002_des	优雅别致的品茗套装，为这袅袅暖意再添一缕清雅茶香。	優雅別致的品茗套裝，為這袅袅暖意再添一縷清雅茶香。	上品で特別な茶道具セット。暖かさに一筋の茶の香りを。	우아하고 독특한 차 세트로 따뜻한 분위기에 청아한 차 향기를 더해준다.	An elegantly designed tea set that adds a touch of refined fragrance to the soothing warmth, perfect for a moment of calm.						0	DLC2.5宿舍
+gift6003_des	方便实用的小木桶，可以置物，可以淋浴，偶尔也可以成为装满橡胶小动物的玩具箱。	方便實用的小木桶，可以置物，可以淋浴，偶爾也可以成為裝滿橡膠小動物的玩具箱。	便利で実用的な小さな木製の桶。物を置いたり、掬った水を浴びたり、時にはゴムの小動物でいっぱいの玩具箱にもなる。	편리하고 실용적인 나무통으로 물건을 보관할 수 있고, 샤워 시에도 사용할 수 있으며, 가끔은 고무 장난감으로 가득 찬 장난감 상자가 될 수도 있다.	A small, practical wooden bucket — ideal for storage, for showers, or even a playful container for bath toys when the mood strikes!						0	DLC2.5宿舍
+gift6004_des	有没有觉得腰下缺了点什么？这套靠枕将带给你池边泡浴时最为舒适的体验！	有沒有覺得腰下缺了點什麼？這套靠枕將帶給你池邊泡浴時最為舒適的體驗！	腰に何かが足りてないと思わない？このクッションセットなら温泉でも快適でいられるよ！	허리 밑에 뭔가 빠진 것 같은 느낌이 들 때, 해당 쿠션 세트가 수조 옆에서 쾌적함을 선사할 것이다!	Need more comfort by the pool? This plush cushion set will elevate your bathing experience, ensuring a cozy and relaxing time.						0	DLC2.5宿舍
+gift6005_des	别具一格的小型温泉池，可以试着在这里和特定的少女嬉戏玩耍哦。	別具一格的小型溫泉池，可以試著在這裡和特定的少女嬉戲玩耍哦。	独特な小型温泉。ここで特定の少女と水遊びしてみよう。	특별한 매력을 지진 약탕에서 소녀와 함께 즐거운 시간을 보낼 수 있다.	A unique mini hot spring pool, a perfect spot for playful moments with your girls —immerse yourself in the fun!						0	DLC2.5宿舍
+gift6006_des	瑞枝添喜气，祥辉盈满堂。树枝形态的室内装饰，为房间增添一份自然的生机。	瑞枝添喜氣，祥輝盈滿堂。樹枝形態的室內裝飾，為房間增添一份自然的生機。	木の枝をかたどった室内装飾。部屋に自然の活気を与え、喜びと幸運をもたらす。	행운의 가지가 기쁨을 더하고, 경사가 가득한 방 안을 장식한다. 가지 형태의 실내 장식이 방에 생기를 더해준다.	A tree branch design that infuses your space with joy and serene light, bringing a natural liveliness to your surroundings.						0	DLC2.5宿舍
+gift6007_des	呈现在您面前的是独具朔州韵味的山水景色，云雾缭绕间，也将诗意与雅致引入此地。	呈現在您面前的是獨具朔州韻味的山水景色，雲霧繚繞間，也將詩意與雅致引入此地。	一面に広がる、朔州ならではの山水の景色。雲と霧に包まれながら、詩情と雅致を感じさせてくれる。	삭주의 운치 있는 산수 경치를 볼 수 있다. 구름과 안개가 감도는 가운데, 시적이고 우아한 분위기가 이곳에 가득하다.	A beautiful scene of Shuozhou lies before you, with mist and clouds enveloping the space, bringing forth a sense of poetry and refined elegance.						0	DLC2.5宿舍
+gift7021	游玩食趣	遊玩食趣	スナック&ゲームキット	파티 필수품	Party Necessities						0	DLC3.0宿舍
+gift7022	乐动派对	樂動派對	ビートショー	그루브 파티	Groove Session						0	DLC3.0宿舍
+gift7023	光点感应地板	光點感應地板	光点フローリング	샤이닝 플로어	Light-Up Floor						0	DLC3.0宿舍
+gift7024	特调套装	特調套裝	特製ドリンクキット	바텐더 키트	Bartender Kit						0	DLC3.0宿舍
+gift7025	慵懒梦旅	慵懶夢旅	ゆったり夢の旅	느긋한 몽상	Reverie Wall						0	DLC3.0宿舍
+gift7026	炫彩射灯	炫彩射燈	カラフルスポットライト	프리즘 빔	Chromatic Uplight						0	DLC3.0宿舍
+gift7027	全家福-心心相印	全家福-心心相印	みんなの記念写真-意気投合	가족 사진-연결된 마음	Heimdall Family Photo - Bonded Hearts						0	DLC3.0宿舍
+gift7021_des	游戏、玩具、零食、饮料……不论吃的还是玩的，总有一款能让你喜欢~	遊戲、玩具、零食、飲料……不論吃的還是玩的，總有一款能讓你喜歡~	ゲーム、おもちゃ、お菓子、ドリンク……食べたり遊んだり、お気に入りがきっと見つかるはず！	게임, 장난감, 간식, 음료… 먹는 것이든, 노는 것이든, 취향에 딱 맞는 걸 찾을 수 있을 것이다!	Party games, snacks, drinks... Everything you need for good times!						0	DLC3.0宿舍
+gift7022_des	包含三件乐器的套组，一旦开始演奏，足以点燃全场气氛，猜猜会由谁来奏响它们？	包含三件樂器的套組，一旦開始演奏，足以點燃全場氣氛，猜猜會由誰來奏響它們？	3つの楽器が入ったセット。演奏が始まれば、会場は熱狂の渦に！誰が奏でるのか、想像してみて！	3종 악기를 포함한 세트로, 한 번의 연주로 관객을 불태울 수 있다. 과연 이 악기들을 다룰 주인공은 누구일까?	A set of three instruments. Once the music starts, the whole stage will be set on fire. Guess who's about to play them?						0	DLC3.0宿舍
+gift7023_des	一件很特别的交互式家具，至于它的有趣之处，站上去试一试就知道了。	一件很特別的互動式傢俱，至於它的有趣之處，站上去試一試就知道了。	光が踊るインタラクティブなフローリング。踏み込めば、その楽しさが分かる！	아주 특별한 상호작용 가구. 얼마나 흥미로운지 궁금하시다면, 직접 그 위에 서보면 알 수 있다.	An array of interactive floor tiles. Step on them and find out what radiant surprises they hold!						0	DLC3.0宿舍
+gift7024_des	已经有少女迫不及待地想为分析员调制专属饮品了，快去尝尝看吧。	已經有少女迫不及待地想為分析員調製專屬飲品了，快去嘗嘗看吧。	分析員のためのドリンクを作りたい女の子がもういるみたい。早速、味見してみて。	벌써 분석가님을 위해 특별한 음료를 준비하고 싶어 하는 소녀가 있는 듯하다. 서둘러 맛보러 가자.	The girls can't wait to prepare a special drink just for you, Adjutant. Go have a taste!						0	DLC3.0宿舍
+gift7025_des	十分符合暖调闲聚氛围的墙面装饰，请在少女们的陪伴下好好享受这慵懒一刻吧。	十分符合暖調閒聚氛圍的牆面裝飾，請在少女們的陪伴下好好享受這慵懶一刻吧。	Bistro メロウの雰囲気にぴったりな壁面装飾。女の子たちと一緒に、ゆったりとしたひとときを楽しんで。	아늑한 비스트로의 분위기에 딱 어울리는 벽 장식이다. 소녀들과 함께 여유로운 시간을 만끽해 보자.	A wall decoration that perfectly matches the Cozy Parlor vibe. Enjoy this lazy moment with the girls~						0	DLC3.0宿舍
+gift7026_des	炫彩斑斓的灯光，点亮每一个狂欢瞬间！	炫彩斑斕的燈光，點亮每一個狂歡瞬間！	カラフルなライトが、どんなパーティーも鮮やかに彩る！	눈부시고 다채로운 조명이 카니발의 모든 순간을 밝혀준다!	Its dazzling, colorful lights brighten every festive moment.						0	DLC3.0宿舍
+gift8001	堆沙王者	堆沙王者	砂の王者	모래의 왕	Sandy Strongman						0	DLC3.2宿舍
+gift8002	潮汐摇摇船	潮汐搖搖船	ゆらゆらボート	바나나 보트	Banana Float						0	DLC3.2宿舍
+gift8003	澜语轻眠吊床	瀾語輕眠吊床	まどろみハンモック	바닷바람 해먹	Seabreeze Hammock						0	DLC3.2宿舍
+gift8004	敲瓜达人	敲瓜達人	スイカ割り達人	수박 깨기 달인	Watermelon Smasher						0	DLC3.2宿舍
+gift8005	浪跃秋千	浪躍鞦韆	サーフスウィング	바다 그네	Ocean Swing						0	DLC3.2宿舍
+gift8006	海滨果饮小桌	海濱果飲小桌	ビーチテーブル	해변 과일 테이블	Beach Fruit Table						0	DLC3.2宿舍
+gift8001_des	少女们使出浑身解数，用沙子来雕琢再现分析员的强壮身躯，而作为她们的裁判，分析员正躺在……	少女們使出渾身解數，用沙子來雕琢再現分析員的強壯身軀，而作為她們的裁判，分析員正躺在……	審判役の分析員が横たわり、少女たちは思い切り腕を振るって砂で分析員の勇ましい姿を描き出す……	소녀들은 모래로 분석가의 근육질 몸매를 조각하기 위해 모든 수단을 동원했고, 그녀들의 심판인 분석가는 그곳에 편히 누워있다…	The girls put all their effort into sculpting the Adjutant's muscular body out of sand, while the Adjutant lies there, also acting as their judge.						0	DLC3.2宿舍
+gift8002_des	海浪澎湃起伏不定，摇摇船上的少女可要小心坐稳哦~	海浪澎湃起伏不定，搖搖船上的少女可要小心坐穩哦~	寄せては返す波に揺れるボート、気をつけてしっかり座っていてね！	파도가 심하게 요동치니, 보트 위의 소녀들은 조심히 앉아 있어야 해요~	With the waves surging, the girl on the banana float had better hold on tight~						0	DLC3.2宿舍
+gift8003_des	躺在树影下的吊床上，无论放空还是小憩，都将会是非常惬意的时刻吧。	躺在樹影下的吊床上，無論放空還是小憩，都將會是非常愜意的時刻吧。	木陰で揺れるハンモックに寝そべり、ぼんやりしたり、うたた寝したり……。心地よい海風に包まれて、至福のひとときを過ごそう。	나무 그늘 아래 해먹에 누워 휴식을 취하거나 낮잠을 자면 매우 편안한 시간이 될 것 같다.	Lying in a hammock under the shade of the trees is guaranteed to be a relaxing moment, whether just zoning out or taking a short nap.						0	DLC3.2宿舍
+gift8004_des	合着风与浪的节奏，在沙滩上玩一局打西瓜游戏吧！	合著風與浪的節奏，在沙灘上玩一局打西瓜遊戲吧！	風と波のリズムに乗って、砂浜でスイカ割りを楽しもう！	바람과 파도의 리듬을 따라 해변에서 수박 깨기 게임을 즐겨 보세요!	Inspired by the billowing waves breaking on the shore, let's play a game of watermelon smashing!						0	DLC3.2宿舍
+gift8005_des	专为分析员设置的海上秋千，面朝无垠的海天，让风轻轻吹过发梢……	專為分析員訂製的海上鞦韆，面朝無垠的海天，讓風輕輕吹過髮梢……	分析員のために用意された海上ブランコ。果てしない海と空を眺めながら、そよ風が髪を優しく撫でる……	분석가를 위해 특별히 만들어둔 바다 그네. 광활한 바다와 하늘을 마주하며 바람이 머리칼을 스치는 순간을 느껴본다…	A swing over the sea, built just for the Adjutant. Savor the endless horizon as the sea breeze gently tousles your hair.						0	DLC3.2宿舍
+gift8006_des	玩累了就来尝一口瓜果吧！舌尖萦绕的清甜，便是独属于海边的沁爽滋味。	玩累了就來嘗一口瓜果吧！舌尖縈繞的清甜，便是獨屬於海邊的沁爽滋味。	遊び疲れたら、ジューシーなフルーツでひと休み！広がるさっぱりとした甘さは、海辺ならではの爽快な味わい。	놀다가 지치면 과일 한 입 크게 베어 무는 법! 혀끝에 남은 달콤함은 바닷가 특유의 상큼한 맛이다.	Take a break and enjoy some juicy fruit on a sunny beach day! The sweet, refreshing taste is a little piece of the sea itself.						0	DLC3.2宿舍
+gift9001	浮空滑雪机	浮空滑雪機	ゼログラスキー機	에어 스노우라이더	Zero-G Snowrider						0	DLC3.5宿舍
+gift9002	星际飞驰模拟器	星際飛馳模擬器	銀河疾走シミュレーター	코스믹 워프 시뮬레이터	Cosmic Warp Simulator						0	DLC3.5宿舍
+gift9003	循光舞境	循光舞境	ネオンダンサー	네온 댄스 아레나	Neon Dance Arena						0	DLC3.5宿舍
+gift9004	脉冲射击台	脈衝射擊台	パルスシューター	펄스 블래스트 발사대	Pulse Blast Firing Deck						0	DLC3.5宿舍
+gift9005	好运“三”连发	好運「三」連發	トリプルラッキー	행운 '3'연발	Triple Fortune Slots						0	DLC3.5宿舍
+gift9006	大力出奇迹	大力出奇蹟	力技で勝負	기적을 낳는 힘	Super Slug-A-Tron						0	DLC3.5宿舍
+gift9001_des	采用最新悬浮技术制作而成的交互滑雪机，无论是俯冲，转身还是空翻，它都能为您提供流畅真实又安全的滑雪体验。	採用最新懸浮技術製作而成的互動滑雪機，無論是俯衝，轉身還是空翻，它都能為您提供流暢真實又安全的滑雪體驗。	最新の浮遊技術を採用したスキーマシン。急降下、ターン、宙返りなど多彩なアクションにも対応し、リアルでありながら安全な滑走体験を提供する。	최신 공중부양 기술로 제작된 인터랙티브 스노우라이더로, 강하, 회전, 공중회전 등 어떤 동작에서도 부드럽고 현실적이며 안전한 스키 체험을 선사한다.	An interactive snow riding machine that utilizes modern levitation technology. It delivers a smooth and safe ride, whether you're diving, carving, or pulling off a midair flip.						0	DLC3.5宿舍
+gift9002_des	沉浸式动感座舱，空间刚好可以容纳三人。飞驰中的每一次碰撞与摩擦，都会实时反馈为座舱的精准晃动，带来遨游星际般的震撼体验。	沉浸式動感座艙，空間剛好可以容納三人。飛馳中的每一次碰撞與摩擦，都会實時反饋為座艙的精準晃動，帶來遨遊星際般的震撼體驗。	没入型のモーションキャビン。3人ちょうど収まる絶妙な広さ。疾走中の衝突や摩擦をリアルタイムで再現し、まるで星間を駆け巡っているようなスリルが味わえる！	몰입형 모션 시트는 세 사람이 앉을 수 있는 충분한 공간을 제공한다. 비행 중 모든 충돌과 마찰이 실시간으로 시트의 정밀한 흔들림으로 전환되어, 마치 우주를 여행하는 듯한 짜릿한 경험을 선사한다.	An immersive pod with just enough room for three. Every bump and scrape at full speed is translated in real time into precise cabin movement, delivering an authentic experience of warping through the cosmos.						0	DLC3.5宿舍
+gift9003_des	踏入这片舞场，展现曼妙舞姿！请注意屏幕上的指令，只有做出一致动作才能通关哦！	踏入這片舞場，展現曼妙舞姿！請注意螢幕上的指令，只有做出一致動作才能通關哦！	ダンスフロアに飛び込んで、華麗なステップを披露しよう！ 画面の指示に合わせて動きをシンクロさせれば、ステージクリア！	댄스 아레나에 들어가 아름다운 춤 동작을 뽐내 보세요! 화면의 지시에 따라 동일한 동작을 취해야만 통과할 수 있으니 주의하세요!	Step onto the dance floor and show off your moves. Watch the on-screen prompts. Match them perfectly to clear the stage!						0	DLC3.5宿舍
+gift9004_des	锁定移动标靶，火力尽在掌控。偶尔换个姿势也许能趴得更稳哦~	鎖定移動標靶，火力盡在掌控。偶爾換個姿勢也許能趴得更穩哦~	移動標的をロックオン。火力は思いのままに！ 姿勢を変えれば、もっと安定して伏せ撃ちができるかも？	움직이는 표적을 조준하고 화력을 조정하자! 때때로 자세를 변경하면 더 안정적일 수도 있다.	Moving targets locked on. And firepower ready... A different posture might help you stay steadier~						0	DLC3.5宿舍
+gift9005_des	拉下摇杆，一气呵成！当相同的图案接连弹出，这是专属于你的幸运时刻~	拉下搖桿，一氣呵成！當相同的圖案接連彈出，這是專屬於你的幸運時刻~	レバーをガッと引いて、一気に決めろ！ 同じ柄が揃ったらラッキータイム突入！	조이스틱을 아래로 당기면 모든 것이 한 번에 해결되는 법! 같은 패턴이 연달아 나오면 당신만의 럭키 타임을 즐겨보세요!	Pull the lever — nice and clean! If all the reels show the same symbol, that's your lucky moment~						0	DLC3.5宿舍
+gift9006_des	蓄力，挥手，大力创造奇迹！凝聚全身力量，向更高的评分发起挑战吧！	蓄力，揮手，大力創造奇蹟！凝聚全身力量，向更高的評分發起挑戰吧！	溜めて、振り抜いて、力技で勝負だ！ 全力でハイスコアを叩き出そう！	힘을 모으고 손을 휘두르며 힘차게 기적을 만들어 보세요! 온몸의 힘을 모아 더 높은 점수에 도전하세요!	Charge up, swing, and make it count! Put your full strength into it and go for a higher score!						0	DLC3.5宿舍
+type1	安卡希雅专属家具	安卡希雅專屬傢俱	アカシア専用家具	아카시아 전용 가구	Acacia's Exclusive Furniture						0	
+type2	里芙专属家具	里芙專屬傢俱	リフ専用家具	리브 전용 가구	Lyfe's Exclusive Furniture						0	
+type3	妮塔专属家具	妮塔專屬傢俱	ニタ専用家具	니타 전용 가구	Nita's Exclusive Furniture						0	
+type4	芙提雅专属家具	芙提雅專屬傢俱	フリティア専用家具	프티야 전용 가구	Fritia's Exclusive Furniture						0	
+type5	茉莉安专属家具	茉莉安專屬傢俱	マリアン専用家具	마리안 전용 가구	Marian's Exclusive Furniture						0	
+type6	晴专属家具	晴專屬傢俱	晴専用家具	하루 전용 가구	Haru's Exclusive Furniture						0	
+type7	琴诺专属家具	琴諾專屬傢俱	チェルノ専用家具	체르노 전용 가구	Cherno's Exclusive Furniture						0	
+type8	芬妮专属家具	芬妮專屬傢俱	ファニー専用家具	페니 전용 가구	Fenny's Exclusive Furniture						0	
+type10	肴专属家具	肴專屬傢俱	肴専用家具	야오 전용 가구	Yao's Exclusive Furniture						0	
+type11	恩雅专属家具	恩雅專屬傢俱	エンヤ専用家具	엔야 전용 가구	Enya's Exclusive Furniture						0	
+type12	猫汐尔专属家具	貓汐爾專屬傢俱	マーシル専用家具	시에라 전용 가구	Mauxir's Exclusive Furniture						0	
+type13	瑟瑞斯专属家具	瑟瑞斯專屬傢俱	シーリス専用家具	세리스 전용 가구	Siris' Exclusive Furniture						0	
+type14	辰星专属家具	辰星專屬傢俱	辰星専用家具	수성 전용 가구	Chenxing's Exclusive Furniture						0	
+type15	凯茜娅专属家具	凱茜婭專屬家具	カーシア専用家具	캐시아 전용 가구	Katya's Exclusive Furniture						0	
+type16	伊切尔专属家具	伊切爾專屬傢俱	イチェル専用家具	이첼 전용 가구	Eatchel's Exclusive Furniture						0	
+type17	苔丝专属家具	黛斯專屬傢俱	テス専用家具	테스 전용 가구	Tess' Exclusive Furniture						0	
+type18	薇蒂雅专属家具	薇蒂雅專屬傢俱	ヴィディア専用家具	비디야 전용 가구	Vidya's Exclusive Furniture						0	dlc10宿舍
+type20	卜卜专属家具	卜卜專屬傢俱	ブブ専用家具	보보 전용 가구	Bubu's Exclusive Furniture						0	DLC2.7宿舍
+type21	奈莉德专属家具	奈莉德專屬傢俱	ネリーダ専用家具	네리다 전용 가구	Nerida's Exclusive Furniture						0	DLC2.8宿舍
+type22	克罗瑞娜专属家具	克羅瑞娜專屬傢俱	クラウリナ専用家具	클라리나 전용 가구	Clarina's Exclusive Furniture						0	DLC3.3宿舍
+type23	米娅专属家具	米婭專屬傢俱	ミア専用家具	미아 전용 가구	Mia's Exclusive Furniture						0	DLC3.4宿舍
+type99	纪念品	紀念品	記念品	기념품	Souvenir						0	
+type51	疗愈中心专属家具	療癒中心專屬傢俱	「ヒールサロン」専用家具	힐링 센터 전용 가구	Healing Center Exclusive Furniture						0	
+type60	温泉中心专属家具	溫泉中心專屬傢俱	「湯けむりの郷」専用家具	온천 센터 전용 가구	Hot Spring Retreat Exclusive Furniture						0	DLC2.5宿舍
+type70	暖调闲聚专属家具	暖調閒聚專屬傢俱	「Bistro メロウ」専用家具	아늑한 비스트로 전용 가구	Cozy Parlor Exclusive Furniture						0	DLC3.0宿舍
+type80	恋风漪岸专属家具	戀風漪岸專屬傢俱	「恋ヶ浜」専用家具	브리즈하트 베이 전용 가구	Breezeheart Bay Exclusive Furniture						0	DLC3.2宿舍
+type90	电玩次元专属家具	電玩次元專屬傢俱	「ゲーム次元」専用家具	게임 차원 전용 가구	Arcaverse Exclusive Furniture						0	DLC3.5宿舍
+gift_s_1	茶杯	茶杯	ティーカップ	찻잔	Teacup						0	DLC2.7宿舍
+gift_s_2	零食柜	零食櫃	スナック棚	간식 캐비닛	Snack Cabinet						0	DLC2.7宿舍
+gift_s_3	没人要的易拉罐	沒人要的易開罐	捨てられた空き缶	버려진 캔	Unwanted Cans						0	DLC2.7宿舍
+gift_s_4	废弃的纸箱	廢棄的紙盒	廃棄された段ボール箱	버려진 종이 박스	Discarded Boxes						0	DLC2.7宿舍
+gift_s_7	随心兑	隨心兌	交換パス	자유 교환 쿠폰	OmniVoucher						0	DLC2.7宿舍
+gift_s_9	妮塔的日记	妮塔的日記	ニタの日記	니타의 일기	Nita's Diary						0	DLC2.7宿舍

@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	原来烟花表演的现场是这样的……	原來煙火表演的現場是這樣的……	花火大会とは、こんな感じだったんだな……	원래 불꽃놀이 현장이 이렇게…	So this is what a fireworks show looks like up close...						0	
+choice01	带里芙去热闹的会场中心	帶里芙去熱鬧的會場中心	リフを連れて賑やかな会場の中心に向かう	리브를 데리고 떠들썩한 회의장 한복판으로 간다.	Take Lyfe to the bustling venue center						0	
+page1.1	里芙，握住我的手，别走散了。	里芙，握住我的手，別走散了。	リフ、私の手を握ってくれ。はぐれるなよ。	리브, 내 손을 잡아, 흩어지지 말고.	Lyfe, take my hand. We don't want to get separated in the crowd.						0	
+page1.2	嗯。如果握手还不够的话……	嗯。如果握手還不夠的話……	ああ。もし手を繋ぐだけじゃ不十分なら……	네. 악수가 부족하면…	Okay. And if holding hands isn't enough...						0	
+page1.3	我来紧紧抱住分析员的胳膊，怎么样？	我來緊緊抱住分析員的胳膊，怎麼樣？	分析員の腕を抱き寄せようか？	내가 분석가의 팔을 꽉 안아줄까?	How about I just wrap my arm tightly around yours?						0	
+choice02	带里芙去僻静的小巷角落	帶里芙去僻靜的小巷角落	リフと静かな路地裏に向かう	리브와 함께 으슥한 골목 모퉁이로 간다	Take Lyfe to a quiet alley						0	
+page2.1	分析员找到了一个绝佳的观赏位置呢！	分析員找到了一個絕佳的觀賞位置！	最高のポジションだな。	분석가가 보기 좋은 위치를 찾았어!	Adjutant, you've found the perfect spot!						0	
+page2.2	这里又能看到完整的烟花表演，又不会被打扰……	這裡又能看到完整的煙火表演，又不會被打擾……	ここでなら邪魔されずに花火を見れる……	여기 불꽃놀이도 제대로 볼 수 있고 방해받지 않고…	We've got an unobstructed view of the fireworks, and we can watch the show in privacy...						0	
+page2.3	像是只属于我们两个人的秘密空间，我很喜欢。	像是只屬於我們兩個人的秘密空間，我很喜歡。	まるで私達ふたりだけの場所という感じがして、私は好きだ。	우리 둘만의 비밀 공간 같은 게 너무 좋아.	It's like our own little secret garden. I love it.						0	
+page2.4	谢谢分析员。	謝謝分析員。	ありがとう、分析員。	분석가, 고마워.	Thank you, Adjutant.						0	

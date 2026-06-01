@@ -1,0 +1,255 @@
+字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否	备注
+Key	zh_CN	disable	Remark
+chess03_ui_attname1	坚毅	0	
+chess03_ui_attname2	智识	0	
+chess03_ui_attname3	温柔	0	
+chess03_ui_attname4	魅力	0	
+chess03_ui_attname5	幽默	0	
+chess03_ui_monday	星期一	0	
+chess03_ui_tuesday	星期二	0	
+chess03_ui_wednesday	星期三	0	
+chess03_ui_thursday	星期四	0	
+chess03_ui_friday	星期五	0	
+chess03_ui_saturday	星期六	0	
+chess03_ui_sunday	星期日	0	
+chess03_ui_reviewer	管理员	0	
+chess03_tips1	运动大会开始了，快和心动的少女一起去参加吧	0	
+chess03_tips2	烟花庆典开始了，快和心动的少女一起去看看吧	0	
+chess03_tips3	收纳挑战！帮少女整理好她们的鞋子吧~	0	
+chess03_tips4	分析员阁下，一周过去啦！少女等着和您约会呢~	0	
+chess03_tips5	分析员阁下，恭喜你完成了一轮心动派对体验！哇，有人给你发来了甜蜜邀约哦~	0	
+chess03_tips6	分析员阁下，一周过去啦！你怎么好像……越来越迷人了！	0	
+chess03_tips7	分析员阁下，恭喜你完成了一轮心动派对体验！小鹿乱撞的感觉很不错吧，要不要再来一次？	0	
+chess03_tips8	是否使用%s，进入活动周？	0	
+chess03_tips9	回答错误	0	
+chess03_loading1	社区加载中……	0	
+chess03_loading2	甜蜜约会中……	0	
+chess03_holiday1name	运动大会	0	
+chess03_holiday1des	青春、汗水与肾上腺素，时刻把握每一次的心动。	0	
+chess03_holiday2name	烟花庆典	0	
+chess03_holiday2des	烟花升空爆裂时，可以把藏在心底的话都说出来~	0	
+chess03_btnname1	我全都要	0	
+chess03_tabname1	定格一瞬	0	
+chess03_tabname2	成就收集	0	
+			
+chess03_dice_name	心动骰子	0	
+chess03_dice_des	用于在心动派对中进行社区体验。用骰子掷出不同的点数前进，能在心动派对中遇到各种未知的趣事。	0	
+chess03_dice_use	心动派对 体验道具	0	
+			
+lifuweekname1	手心温度	1000	
+lifuweekname2	认定的你	1000	
+lifuweekname3	深海遨游	1000	
+lifuweekname4	街机体验	1000	
+fenniweekname1	甜蜜定格	1000	
+fenniweekname2	对视挑战	1000	
+fenniweekname3	鬼屋心跳	1000	
+fenniweekname4	舌尖欢愉	1000	
+mlaweekname1	极限运动	1000	
+mlaweekname2	摩天游览	1000	
+mlaweekname3	味蕾共感	1000	
+mlaweekname4	恒久瞬间	1000	
+			
+lifuspecial1name1	里芙特殊周1剧情1	1000	
+lifuspecial1name2	里芙特殊周1剧情2	1000	
+lifuspecial1name3	里芙特殊周1剧情3	1000	
+lifuspecial2name1	里芙特殊周2剧情1	1000	
+lifuspecial2name2	里芙特殊周2剧情2	1000	
+lifuspecial2name3	里芙特殊周2剧情3	1000	
+fennispecial1name1	芬妮特殊周1剧情1	1000	
+fennispecial1name2	芬妮特殊周1剧情2	1000	
+fennispecial1name3	芬妮特殊周1剧情3	1000	
+fennispecial2name1	芬妮特殊周2剧情1	1000	
+fennispecial2name2	芬妮特殊周2剧情2	1000	
+fennispecial2name3	芬妮特殊周2剧情3	1000	
+mlaspecial1name1	茉莉安特殊周1剧情1	1000	
+mlaspecial1name2	茉莉安特殊周1剧情2	1000	
+mlaspecial1name3	茉莉安特殊周1剧情3	1000	
+mlaspecial2name1	茉莉安特殊周2剧情1	1000	
+mlaspecial2name2	茉莉安特殊周2剧情2	1000	
+mlaspecial2name3	茉莉安特殊周2剧情3	1000	
+			
+use_card03_des	乘坐派对空艇迅速升上高空，虚拟天幕上挂满色彩斑斓的星星，你决定摘下一颗	0	
+use_card05_des	心动派对狂欢日开启，受到狂欢气氛感染，分析员决定为少女们表演一支	0	
+use_card03_Aswer1	闪亮的金色星	0	
+use_card03_Aswer2	深邃的蓝色星	0	
+use_card03_Aswer3	温柔的粉色星	0	
+use_card03_Aswer4	迷人的银色星	0	
+use_card03_Aswer5	五彩斑斓的黑色星	0	
+use_card05_Aswer1	霹雳舞	0	
+use_card05_Aswer2	古典舞	0	
+use_card05_Aswer3	自由舞	0	
+use_card05_Aswer4	机械舞	0	
+use_card05_Aswer5	爵士舞	0	
+			
+TxtRichManLoveTips1	%s剩余回合：%d	0	
+TxtRichManLoveTips2	是否选择此心动瞬间？	0	
+TxtRichManLoveTips3	是否选择此社区成就？	0	
+TxtRichManLoveTips4	%d天后进入狂欢模式，无需骰子也可前进	0	
+TxtRichManLoveTips5	里芙倾向坚毅和智识	0	
+TxtRichManLoveTips6	芬妮倾向温柔和魅力	0	
+TxtRichManLoveTips7	茉莉安倾向幽默和智识	0	
+TxtRichManLoveTips8	可以根据少女们的倾向提升自己的属性	0	
+TxtRichManLoveTips9	每周末与少女约会可提升心动指数哦！	0	
+TxtRichManLoveTips10	已获得此社区成就，是否再次查看？	0	
+TxtRichManLoveTips11	已获得此心动瞬间，是否再次查看？		
+			
+TxtRichManLoveEnd1_Name	天下无双的分析员	0	
+TxtRichManLoveEnd2_Name	模范长官	0	
+TxtRichManLoveEnd3_Name	心动大赢家	0	
+TxtRichManLoveEnd4_Name	妙语鼓励师	0	
+TxtRichManLoveEnd5_Name	心理咨询师	0	
+TxtRichManLoveEnd6_Name	语言专家	0	
+TxtRichManLoveEnd7_Name	生活艺术家	0	
+TxtRichManLoveEnd8_Name	派对策划师	0	
+TxtRichManLoveEnd9_Name	品质收藏家	0	
+TxtRichManLoveEnd10_Name	杰出探险家	0	
+TxtRichManLoveEnd11_Name	峭壁攀登者	0	
+TxtRichManLoveEnd12_Name	极限新星	0	
+TxtRichManLoveEnd13_Name	微笑勇者	0	
+TxtRichManLoveEnd14_Name	派对达人-守护者	0	
+TxtRichManLoveEnd15_Name	派对达人-名侦探	0	
+TxtRichManLoveEnd16_Name	派对达人-倾听者	0	
+TxtRichManLoveEnd17_Name	派对达人-领导者	0	
+TxtRichManLoveEnd18_Name	派对达人-喜剧演员	0	
+TxtRichManLoveEnd19_Name	静谧深夜	0	
+TxtRichManLoveEndName20	背向拥抱	0	
+TxtRichManLoveEndName21	星间共舞	0	
+TxtRichManLoveEndName22	柔软痕迹	0	
+TxtRichManLoveEndName23	三重蜜语	0	
+TxtRichManLoveEndDes1	空白格子属性数值有100%的概率增加5	0	
+TxtRichManLoveEndDes2	事件格子属性数值有100%的概率增加5	0	
+TxtRichManLoveEndDes3	开局时，初始卡牌增加1张	0	
+TxtRichManLoveEndDes4	活动周期间，所有格子的属性数值增加2	0	
+TxtRichManLoveEndDes5	最后一周所有格子的属性数值提升20%	0	
+TxtRichManLoveEndDes6	活动周期间，所有格子的属性数值增加2	0	
+TxtRichManLoveEndDes7	最后一周所有格子的属性数值提升20%	0	
+TxtRichManLoveEndDes8	活动周期间，所有格子的属性数值增加2	0	
+TxtRichManLoveEndDes9	最后一周所有格子的属性数值提升20%	0	
+TxtRichManLoveEndDes10	活动周期间，所有格子的属性数值增加2	0	
+TxtRichManLoveEndDes11	最后一周所有格子的属性数值提升20%	0	
+TxtRichManLoveEndDes12	活动周期间，所有格子的属性数值增加2	0	
+TxtRichManLoveEndDes13	最后一周所有格子的属性数值提升20%	0	
+TxtRichManLoveEndDes14	开局时，坚毅属性数值增加10	0	
+TxtRichManLoveEndDes15	开局时，智识属性数值增加10	0	
+TxtRichManLoveEndDes16	开局时，温柔属性数值增加10	0	
+TxtRichManLoveEndDes17	开局时，魅力属性数值增加10	0	
+TxtRichManLoveEndDes18	开局时，幽默属性数值增加10	0	
+TxtRichManLoveEndDes19	全部属性的数值增加2	0	
+TxtRichManLoveEndDes20	全部属性的数值增加30	0	
+TxtRichManLoveEndDes21	全部属性的数值增加30	0	
+TxtRichManLoveEndDes22	全部属性的数值增加30	0	
+TxtRichManLoveEndDes23	开局时，初始卡牌增加1张	0	
+TxtRichManLoveEndUnlockDes1	里芙心动指数满级	0	
+TxtRichManLoveEndUnlockDes2	芬妮心动指数满级	0	
+TxtRichManLoveEndUnlockDes3	茉莉安心动指数满级	0	
+TxtRichManLoveEndUnlockDes4	？？？		
+TxtRichManLoveEndUnlockDes5	？？？		
+TxtRichManLoveEndUnlockDes6	？？？		
+TxtRichManLoveEndUnlockDes7	？？？		
+TxtRichManLoveEndUnlockDes8	温柔≥350，幽默≥350		
+TxtRichManLoveEndUnlockDes9	智识≥350，温柔≥350		
+TxtRichManLoveEndUnlockDes10	智识≥350，幽默≥350		
+TxtRichManLoveEndUnlockDes11	智识≥350，魅力≥350		
+TxtRichManLoveEndUnlockDes12	温柔≥350，魅力≥350		
+TxtRichManLoveEndUnlockDes13	魅力≥350，幽默≥350		
+TxtRichManLoveEndUnlockDes14	坚毅≥350，智识≥350		
+TxtRichManLoveEndUnlockDes15	坚毅≥350，温柔≥350		
+TxtRichManLoveEndUnlockDes16	坚毅≥350，魅力≥350		
+TxtRichManLoveEndUnlockDes17	坚毅≥350，幽默≥350		
+TxtRichManLoveEndUnlockDes18	坚毅≥180		
+TxtRichManLoveEndUnlockDes19	智识≥180		
+TxtRichManLoveEndUnlockDes20	温柔≥180		
+TxtRichManLoveEndUnlockDes21	魅力≥180		
+TxtRichManLoveEndUnlockDes22	幽默≥180		
+TxtRichManLoveEndUnlockDes23	无		
+			
+TxtRichManLoveGroupName1	少女钟爱之人	0	
+TxtRichManLoveGroupName2	心动社区达人	0	
+TxtRichManLoveGroupName3	天下第一之人	0	
+TxtRichManLoveGroupName4	无所不通之人	0	
+TxtRichManLoveGroupName5	热爱生活之人	0	
+TxtRichManLoveGroupDes1	全部属性的数值增加15	0	
+TxtRichManLoveGroupDes2	最后一周所有格子的属性数值提升100%	0	
+TxtRichManLoveGroupDes3	活动周期间，所有格子的属性数值增加10	0	
+TxtRichManLoveGroupDes4	所有格子的属性数值有100%的概率增加5	0	
+TxtRichManLoveGroupDes5	全部属性的数值增加52	0	
+			
+TxtRichManLovebuffName1	开局时，属性数值增加：	0	
+TxtRichManLovebuffName2	开局时，初始卡牌增加：	0	
+TxtRichManLovebuffName3	最后一周属性数值提升：	0	
+TxtRichManLovebuffName4	空白格子属性数值增加：	0	
+TxtRichManLovebuffName5	事件格子属性数值增加：	0	
+TxtRichManLovebuffName6	活动周期间，属性数值增加：	0	
+TxtRichManLovebuffDes1	坚毅+{1}，智识+{2}，温柔+{3}，魅力+{4}，幽默+{5}	0	
+TxtRichManLovebuffDes2	{1}张	0	
+TxtRichManLovebuffDes3	{1}%	0	
+TxtRichManLovebuffDes4	{1}%的概率增加{2}	0	
+			
+TxtRichManLoveEnd1_des	此时此刻对您来说，选择已经没那么重要了，大家一起把日子过好才最重要的。只要她们都在身边，就没有什么解决不了的事情。	0	
+TxtRichManLoveEnd2_des	少女们又在偷偷观察着自己心仪的那个男人了。人生时常伴随着各种各样的选择，但此时您却做出了最与众不同的那个。或许，这就是她们对您心动的原因。	0	
+TxtRichManLoveEnd3_des	把握住每一次心动，体验好每一天。如此高质量完成心动派对的分析员，您是名副其实的心动大赢家。	0	
+TxtRichManLoveEnd4_des	温柔幽默，妙语连珠。您口中斟酌的每句话，都是对少女们一针超有效的情绪鼓励剂。	0	
+TxtRichManLoveEnd5_des	绝佳的聪明才智加上满分的爱意温柔，您的话一定能准确纾解少女所有的忧愁。	0	
+TxtRichManLoveEnd6_des	您一言一行都透露着风趣潇洒，有您在的地方永远不会冷场，下一秒永远都是猜不透的惊喜。	0	
+TxtRichManLoveEnd7_des	在与少女相处的每一天里，您自己的生活态度给少女们展现生活中的点滴惊喜。不虚度每个时刻，成就了您生活艺术家的身份。	0	
+TxtRichManLoveEnd8_des	心动派对的运营者十分感激您在体验后提出的惊艳新点子和宝贵的优化建议，将您的名字加在了特别致谢一栏中。	0	
+TxtRichManLoveEnd9_des	有趣的约会地点、独特的美景体验还有最打动少女的技巧，您统统将这些全部收入囊中，您就是心动派对中的品质收藏家。	0	
+TxtRichManLoveEnd10_des	这个世界的角落已经遍布了分析员的脚印。每个令人惊喜的角落都有分析员与少女共同留下的甜蜜印记。	0	
+TxtRichManLoveEnd11_des	您面前伫立着一座座陡峭山峰，但您依旧昂扬着头，永远向上攀登着，没什么困难能让您退却。	0	
+TxtRichManLoveEnd12_des	冲浪、滑翔、跳伞……来自世界树的分析员在心动派对中打败了99.9%的体验者，成为了整个社区中最强的极限运动专家！	0	
+TxtRichManLoveEnd13_des	守护着少女、守护着世界已被您视作寻常。您用笑容面对危机，持续践行着勇者应行之事。	0	
+			
+TxtRichManLoveEnd14_des	分析员一直都是那个勇敢果断，不屈不挠的守护者，此刻又有少女被您的坚毅所吸引。	0	
+TxtRichManLoveEnd15_des	思维敏捷，能言巧辩，永远在第一时间察觉真相，此刻又有少女被您的智识所吸引。	0	
+TxtRichManLoveEnd16_des	您充满耐心地倾听少女的烦恼，抚平她们内心的创痛，此刻又有少女被您的温柔所吸引。	0	
+TxtRichManLoveEnd17_des	运筹帷幄，掌控全局，带领团队获得胜利。此刻又有少女被您的魅力所吸引。	0	
+TxtRichManLoveEnd18_des	灵巧的动作和连珠妙语让少女们沉浸其中，露出真挚的笑容，此刻又有少女被您的幽默感所吸引。	0	
+TxtRichManLoveEnd19_des	不知不觉，已经到了心动派对的最后一夜了，但内心依旧无法平静。与少女们共同度过的每一个瞬间，都定格在心中成为了珍宝。下次，把心底的话都告诉她们吧。	0	
+			
+TxtRichManLoveEnd1_repo1	【顶】好想加入——	0	
+TxtRichManLoveEnd1_repo2	本小姐如果是第一个到的，才轮不到其他人。	0	
+TxtRichManLoveEnd1_repo3	【精】独家专访｜在全世界崭露头角的那个男人，在心动派对中是如何散发魅力的——	0	
+TxtRichManLoveEnd1_repo4	这就是分析员的实力吗？	0	
+			
+TxtRichManLoveEnd2_repo1	【顶】还能这么选的？	0	
+TxtRichManLoveEnd2_repo2	这就是我们并肩作战的分析员，每一天最真实的模样。	0	
+TxtRichManLoveEnd2_repo3	他怎么在这个时候还要忙工作啊！	0	
+TxtRichManLoveEnd2_repo4	就这样被分析员放置在一边了呢……有种很特别的感觉，呵呵~	0	
+			
+TxtRichManLoveEnd3_repo1	【顶】分析员阁下就是男人中天花板！	0	
+TxtRichManLoveEnd3_repo2	他的背影……好迷人……	0	
+TxtRichManLoveEnd3_repo3	把社区成就替换成默认和芬妮在一起才合理。	0	
+TxtRichManLoveEnd3_repo4	楼上也不必那么关注。	0	
+			
+TxtRichManLoveEnd4_repo1	【顶】呜呜，第一偶像也希望听到分析员阁下的鼓励！	0	
+			
+TxtRichManLoveEnd5_repo1	他的房间早就是海姆达尔的心理咨询室了……	0	
+TxtRichManLoveEnd5_repo2	我也想体验来自分析员的一对一心理辅导！	0	
+			
+TxtRichManLoveEnd6_repo1	啊？分析员还给别人讲过那些冷笑话？	0	
+			
+TxtRichManLoveEnd7_repo1	嗯，有他在的每一天，都会是特别的一天。	0	
+TxtRichManLoveEnd7_repo2	和他在一起，确实每时每刻都很有意思。	0	
+			
+TxtRichManLoveEnd8_repo1	感谢分析员阁下的体验！心动派对的下一部宣传片，希望可以邀请到分析员来出演男主角！	0	
+TxtRichManLoveEnd8_repo2	回复【新恒提罗第一偶像】：分析员答应出演的话，女主角必须是本小姐哦！	0	
+			
+TxtRichManLoveEnd9_repo1	有人把这些整理成册吗？我要看看哪些是我没见过的。	0	
+			
+TxtRichManLoveEnd10_repo1	回公司之后，一定要申请个长假和他一起旅行去。	0	
+TxtRichManLoveEnd10_repo2	想和分析员一起去海边玩呢，呵呵~	0	
+			
+TxtRichManLoveEnd11_repo1	我就是喜欢分析员这种永不服输的气势。	0	
+TxtRichManLoveEnd11_repo2	再高的山，我也会同他一起征服。	0	
+			
+TxtRichManLoveEnd12_repo1	下次想试试滑翔~	0	
+TxtRichManLoveEnd12_repo2	如果是和分析员绑在一起一跃而下的话……一定很快乐，呵呵~	0	
+			
+TxtRichManLoveEnd13_repo1	他笑着就能让敌人丢盔弃甲——好酷！	0	
+			
+TxtRichManLoveEnd1_reviewer1	新恒提罗第一偶像	0	
+TxtRichManLoveEnd1_reviewer2	“皇冠”	0	
+TxtRichManLoveEnd1_reviewer3	俱卢娱乐报	0	
+TxtRichManLoveEnd1_reviewer4	匿名	0	
+TxtRichManLoveEnd1_reviewer5	里芙	0	
+TxtRichManLoveEnd1_reviewer6	游客05	0	

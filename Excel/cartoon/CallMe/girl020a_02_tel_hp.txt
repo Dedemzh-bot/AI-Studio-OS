@@ -1,0 +1,12 @@
+﻿字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，.否）	备注
+Key	Speaker	WwiseEventID	zh_CN	disable	Remark
+CMhu5_1.1	A魔法卜卜	Play_Vo_call_end_girl020_01	这么快就要挂电话吗？真的不能再聊一会吗？		五分钟以内结束1
+CMhu5_1.2	A魔法卜卜	Play_Vo_call_end_girl020_02	唔……好吧，分析员再见。		
+CMhu5_2.1	A魔法卜卜	Play_Vo_call_end_girl020_03	既然分析员还有事要忙，那卜卜就不给你添乱了，分析员拜拜~		五分钟以内结束2
+CMhu30_1.1	A魔法卜卜	Play_Vo_call_end_girl020_04	有点舍不得挂电话呢，等分析员不忙了，一定要再打给卜卜哦~		半小时以内结束
+CMhu1h_1.1	A魔法卜卜	Play_Vo_call_end_girl020_05	唔，卜卜还有好多话想跟你说呢。不过，放到下次或许也不错。		挂机超一小时1
+CMhu1h_1.2	A魔法卜卜	Play_Vo_call_end_girl020_06	那今天就先说拜拜咯~		
+CMhu12h_1.1	A魔法卜卜	Play_Vo_call_end_girl020_07	不知不觉，时间都过去这么久了呀……		挂机超过12小时1
+CMhu12h_1.2	A魔法卜卜	Play_Vo_call_end_girl020_08	但一直独占分析员，是坏孩子的行为吧。		
+CMhu12h_1.3	A魔法卜卜	Play_Vo_call_end_girl020_09	卜卜果然不能那么自私，还是跟分析员说再见吧。		
+CMhu12h_1.4	A魔法卜卜	Play_Vo_call_end_girl020_10	没说完的话，就……留到下次，嘿嘿~		

@@ -1,0 +1,78 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这天，我刚结束加班分析，突然又接到了一个临时任务。也就是说要继续加班。	這天，我剛結束加班分析，突然又接到了一個臨時任務。也就是說要繼續加班。	この日は残業が終わったばかりだというのに、突然臨時任務が舞い込んだ。つまり残業の追加だ。	갑작스러운 미션으로 야근을 하게 됐다.	It was late and I was finishing up a report when the notification came in. Urgent mission, immediate deployment. So much for heading back and getting some rest then.						0	
+2	一架多用途情报无人机在勘探深水区的途中遭遇不明火力攻击，四套旋翼被打坏一半，勉强往回飞了一截，迫降在缓冲区里。	一架多用途情報無人機在勘探深水區的途中遭遇不明火力攻擊，四套旋翼被打壞一半，勉強往回飛了一段，迫降在緩衝區裡。	ある多用途情報ドローンが深海エリアを探査している時、謎の攻撃を受けて、4つのローター・ブレードが半分壊れながらも、辛うじてバッファーエリアに不時着した。	다목적 정보 탐사용 드론이 심해 구역에서 알 수 없는 공격을 받았고, 이에 회전체가 고장 나 버퍼 구역에 불시착했다고 한다.	A company monitoring drone had come under fire in the Drowned Sections, taken so much damage it barely made it into the Buffer Sections before it crash landed. We didn't have an ID on the attackers.						0	
+3	问题在于那个地点是各种意义上的比较难抵达，需要派海姆达尔上阵。	問題在於那個地點是各種意義上的比較難抵達，需要派海姆達爾上陣。	現場に向かう手段は限られているから、ヘイムダルが必要だ。	문제는 불시착한 장소가 접근하기가 비교적 힘든 구역이라 헤임달 대원을 파견해야만 했다.	Crash site wasn't somewhere that would be easy to get to. Heimdall Force operatives were to be deployed to recover the drone.						0	
+4	但此时待机中的队员并不多，我正纠结着要派谁去的时候……	但此時待機中的隊員並不多，我正糾結著要派誰去的時候……	だけど今待機中の隊員は多くない。誰を派遣するか悩んでいたところ……	대기 중인 대원이 많지 않아 누구를 선택해야 할지 고민하던 찰나…	Problem was, there weren't many operatives on stand-by that evening... I struggled to think who I could send...						0	
+5	分析员，今天刚好有时间，我们一起去锻炼吧！	分析員，今天剛好有時間，我們一起去訓練吧！	分析員！今日はちょうど時間があるから、一緒にトレーニングしよう！	분석가, 오늘 시간 되면 같이 저녁 러닝이나 할까?	Want to go for a run, playername? I don't have any plans tonight...						0	
+b-1											0	
+6	我要加班……	我要加班……	生憎、残業がまだ終わってないんだ……	오늘 또 야근해야 할 것 같은데…	I have to work...						0	
+7	诶？什么任务呢，让芙提雅老师来帮你吧？	欸？什麼任務呢，讓芙提雅老師來幫你吧？	え？何の任務？フリティア先生が助けてあげようか？	뭐? 무슨 잔업이 그렇게 많아? 프티야 선생님이 좀 도와줄까?	What've they got you doing this time? Anything I could help with?						0	
+8	这家伙确实是前线队员，而且也在待机中。	這傢伙確實是前線隊員，而且也在待機中。	この子は確かに前線隊員で、しかも待機中。	프티야는 확실히 전방 대원이었다. 게다가 대기 중이기도 하고…	I mean... She was on active front-line duty... and she was supposed to be on-call tonight...						0	
+9	但考虑到她的体能和任务环境，让她去感觉挺冒险的。	但考慮到她的體能和任務環境，讓她去感覺挺冒險的。	でも彼女の体力とこの任務の環境を考えると、行かせるのはリスクが高い。	하지만 프티야의 체력이나 미션 지역을 고려해 보면 비교적 위험했다.	...But it felt risky. Her fitness really was an issue...						0	
+b-2											0	
+10	我考虑一下……	我考慮一下……	考えておく……	고민 좀 해볼게…	Let me think about it...						0	
+11	分析员你给人家分析分析，什么叫考虑！	分析員你給人家分析分析，什麼叫考慮！	分析員は「考えるとは何か」を分析して！	무슨 고민인데! 나한테 맡겨!	Think about what? What is there to think about?						0	
+12	如果是技术问题，没有什么我不能解决的哦。	如果是技術問題，沒有什麼我不能解決的哦。	技術の問題なら、私に解決できないことはないよ。	만약 기술적인 문제면 프티야가 해결 못할 문제는 없으니까.	If the team runs into any kind of technical issue, you know you'll need me there to deal with it.						0	
+13	就算不是，我也能帮你计算一版最优方案。	就算不是，我也能幫你計算一套最優解。	そうでない場合、最善策を計算してあげられる。	그런 게 아니라도 최적의 안을 세울 수 있게 도와줄게.	Whatever happens out there, you'll be able to figure things out faster with me helping you.						0	
+14	总之，你永远可以相信芙提雅老师！	總之，你永遠可以相信芙提雅老師！	とにかく、いつでもフリティア先生を頼って！	프티야 선생님을 믿어보라고!	You can rely on me, Adjutant!						0	
+15	粉红色的小个子骄傲地拍了拍胸口。	粉紅色的小個子驕傲地拍了拍胸口。	小柄なピンクの姿が誇らしげに胸を叩いた。	핑크빛 머리에 키 작은 리틀 프티야는 당당하게 자신의 가슴을 내리쳤다.	She thumped her chest, a tiny, pink-haired bundle of fierce pride...						0	
+16	如果只是让她帮忙分析情况的话，应该没什么问题吧？至于出击人选，也可以参考她的意见再说。	如果只是讓她幫忙分析情況的話，應該沒什麼問題吧？至於出擊人選，也可以參考她的意見再說。	状況分析を手伝ってもらうだけなら問題ないだろう。出撃するメンバーも彼女の意見を聞いてから決めよう。	상황 분석을 도와주는 건 큰 문제 없겠지? 출전할 대상에 대한 의견쯤이야 들어볼 수도 있는 거니까.	As long as she was just providing support... probably wouldn't be an issue... can at least get her to help me work out who to send...						0	
+17	再三考虑之后，我将任务内容告诉了她。	再三考慮之後，我將任務內容告訴了她。	よく考えた後、任務の内容を話した。	계속해서 고민하던 중, 결국 난 프티야에게 미션 내용을 알려주었다.	I filled her in on the details of the operation.						0	
+18	哦！那我们快点儿出发吧！	哦！那我們快點出發吧！	よし！じゃあ早速私たちで出発しよう！	그래! 그럼 둘이서 한번 출발해 볼까?!	Alright, that's sorted then. Let's get moving!						0	
+b-3											0	
+19	等等……我们？	等等……我們？	ちょっと待って……私たち？	잠시만… 우리 둘이서?	Err, hold on...						0	
+20	对呀，我们。	對呀，我們。	そうだよ、私たち。	응! 우리 둘이!	What? We need to get moving...						0	
+21	这么好的机会，分析员你应该早点说嘛！	這麼好的機會，分析員你應該早點說嘛！	こんないい機会なんだから、もっと早く言うべきだった！	이렇게 좋은 기회를… 분석가, 진작에 말하지 그랬어!	I don't know why you didn't ask me to come along as soon as you got the notification, this is a wonderful opportunity!						0	
+22	根据我的计算，我直接出击不光能完成任务，还能顺便测验最近锻炼的体能情况，不是一举两得嘛？	根據我的計算，我直接出擊不光能完成任務，還能順便測驗最近鍛煉的體能情況，不是一舉兩得嘛？	私の計算によると、私が出撃すれば任務をこなせる上に、最近鍛えた成果を確かめられる。一石二鳥じゃない？	방금 분석한 결과로 만약 내가 출전을 하면 미션을 완수하는 건 물론이고, 최근에 단련했던 체력도 검증할 수 있어 일석이조일 것 같은데?	We can kill two birds with one stone. Recover the drone and assess my fitness at the same time!						0	
+23	会不会太危险了……？	會不會太危險了……？	危険すぎないか……？	그래도 좀 위험하지 않을까…?	Have you any idea how risky that sounds?...						0	
+24	没事，我会消除导向坏结局的一切因素！	沒事，我會消除導向壞結局的一切因素！	大丈夫、バッドエンドに繋がる全ての要素を排除するから！	괜찮아! 프티야가 만약에 일어날 모든 문제점들은 사전에 배제시킬 테니까!	It's not risky. We're smart enough to think our way out of any problems we might run into and you know it!						0	
+25	我会准备好辅助机械，还有测距无人机……你这是什么眼神？	我會準備好輔助機械，還有測距無人機……你這是什麼眼神？	補助機械をちゃんと用意するから、あと距離測定ドローン……何よその目？	보조 기기도 준비하고, 거리 측정용 드론도 준비하고… 근데 눈빛이 왜 그래?	I'll prep support gear, get the ranging drones online... What...? Why are you looking at me like that?						0	
+26	如果分析员还不相信，要不要把具体分析过程给你算一遍看看！顺便带你复习一下军事运筹学！	如果分析員還不相信，要不要把具體分析過程給你算一遍看看！順便帶你複習一下軍事運籌學！	まだ信じてくれないなら、具体的な分析の過程を見せてあげようか！ついでに軍事オペレーションズ・リサーチのおさらいもしよう！	흥… 못 믿겠으면 전체적인 분석 과정을 계산해서 보여줄게! 배웠던 군사 운용학도 복습할 겸! 그럼 됐지?	Do you need me to write you a risk assessment?!? Shall I give you a few lessons on military logistics while I'm at it!						0	
+27	为了避免芙提雅老师的长篇大论，我在她的出击申请上点击了同意……	為了避免芙提雅老師的長篇大論，我在她的出擊申請上點擊了同意……	フリティア先生の長談議を避けるために、彼女の出撃要請に「同意する」をタップした……	프티야의 진부한 설명을 따로 듣고 싶지 않아 나는 결국 프티야의 출전 신청에 동의를 했다…	Wanting to escape the lecture I could see coming, I added Fritia's name to the roster for the mission.						0	
+28	准备万全之后，我们来到了任务区域。	準備萬全之後，我們來到了任務區域。	準備が全て整った後、私たちは任務エリアに来た。	그렇게 우리는 만반의 준비를 마치고 미션 구역에 도착했다.	Then, once everything was ready, we set off in search of the crash site.						0	
+29	芙提雅的兴致十分高涨，半路上都已经开始热身了。	芙提雅的興致十分高漲，半路上都已經開始熱身了。	フリティアの気合いは十分。途中でウォーミングアップし始めた。	프티야는 가는 도중에 몸을 풀 정도로 굉장히 신나있었다.	Buzzing with excitement, Fritia stretched and warmed up rather theatrically as we moved toward the crash site.						0	
+30	和分析员一起的实战拉练，想想就很刺激！	和分析員一起的實戰演練，想想就很刺激！	分析員と一緒の実戦だなんて、きっとスリル満点ね！	분석가와 함께하는 행군이라… 생각만 해도 너무 기대되는데!	I'm looking forward to this! Field exercises!						0	
+31	诶……分析员你看起来怎么有点儿紧张？	欸……分析員你看起來怎麼有點緊張？	え……分析員はなんで緊張してるの？	근데 분석가는 조금 긴장한 것 처럼 보이네?	...You seem tense, Adjutant...						0	
+b-5											0	
+32	这是正经任务！	這是正經任務！	これは正式な任務！	정식 미션이니까 그렇지!	This is a real operation, Fritia! It's not an exercise...						0	
+33	不要担心不要担心，我已经反复确认了最优路线。	不要擔心不要擔心，我已經反復確認了最優路線。	まぁ心配しないで、最善ルートを何度も確認した。	걱정 마, 걱정 마! 프티야가 몇 번이나 최적의 루트를 확인해뒀으니까.	You worry too much. I double-checked the route and our planning is as optimized as it's possible for planning to be.						0	
+34	只要合理分配体能，加上这些辅助机械们，是绝对不可能发生坏结局的哟~	只要合理分配體能，加上這些輔助機械們，是絕對不可能發生壞結局的喲~	この補助機械たちもあるし、合理的なペース配分をすれば、バッドエンドになるはずないんだから！	체력만 적절히 조절하고, 보조 기기들의 도움을 받으면 안 좋은 상황은 발생하지 않을 거야.	If we manage our resources rationally and use our support drones when we need them, then the odds of a sub-optimal outcome are infinitesimally small.						0	
+35	我又看了看芙提雅规划的路线，每一个中转点的坐标、相对距离、高度甚至落脚点稳固度评估，都进行了详细的标注。	我又看了看芙提雅規劃的路線，每一個中轉點的座標、相對距離、高度甚至落腳點穩固度評估，都進行了詳細的標記。	フリティアが設計したルートをもう一度確認した。全ての中継点の座標、相対距離、高度、足場の安定性までも細かく書き込まれている。	프티야가 계획한 루트를 살펴보니 매 지점마다 좌표, 상대 거리, 높이, 심지어 착지점 안정 평가까지 꼼꼼히 했음을 확인할 수 있었다.	I looked over her planning documents, the notes next to every waypoint of our route, the precisely calculated distances and altitudes, the terrain stability assessments...						0	
+36	身为研究员的她的确还是很可靠啊，看样子我也该少疑惑一点了吧？	身為研究員的她的確還是很可靠啊，看樣子我也該少質疑一點了吧？	研究員としてのフリティアは頼もしい。もっと信用した方がいいのかな？	확실히 연구원 출신이라 그런지 믿음직스럽긴 했다. 괜한 의심은 하지 않아도 될 것 같았다…	There was no faulting her planning. Perhaps I was worrying too much?						0	
+37	这样想着，我赶紧跟上了已经小跑起来的芙提雅。	這樣想著，我趕緊跟上了已經小跑起來的芙提雅。	そう思って、小走りし始めたフリティアに急いで追いついた。	그렇게 생각하며 이미 달리기를 시작한 프티야를 쫓아가기 시작했는데…	I moved to catch up with Fritia, she'd jogged on ahead.						0	
+38	呼……呼……吸……呼……呼……吸……气息要均匀，步伐要平稳，嗯嗯，状态不错！	呼……呼……吸……呼……呼……吸……呼吸要均勻，步伐要平穩，嗯嗯，狀態不錯！	はあ……はあ……すう……はあ……はあ……すう……正しい呼吸、正しい歩調、うんうん、調子いい！	하아… 하아… 호흡은 고르게! 걸음걸이는 부드럽게! 좋아! 컨디션 좋아!	*pant*... *pant*... *pant*... Breathe, keep a steady pace... So far so good... So far so good...						0	
+39	分析员也要注意自己的节奏，不然很难坚持完我们今天的拉练哦~	分析員也要注意自己的節奏，不然很難堅持完我們今天的演練哦~	分析員もペースに注意して。さもないと今日の訓練は終えられないよ～	분석가도 본인 밸런스 잘 맞추고! 안 그러면 오늘 행군 버티기 힘들 테니까!	Don't rush, Adjutant! You don't want to wear yourself out before we get there.						0	
+40	来，跟着我一起，呼……呼……吸……	來，跟著我一起，呼……呼……吸……	さあ、一緒に、はあ……はあ……すう……	자! 프티야를 따라서… 하아… 하…	Match my pace... *pant*... like this... *pant*... *pant*...						0	
+41	这人还真把实战当越野跑了？	她還真的把實戰當越野跑了？	この子、実戦をクロスカントリーだとでも思ってるのか？	설마 행군을 러닝 정도로 생각한 건 아니겠지?	Did she think we were just out for a jog?						0	
+42	半小时之后……	半小時之後……	30分後……	30분 후…	Half an hour went by...						0	
+43	我还在匀速跑着，而刚才还干劲满满的芙提雅……	我還在均速跑著，而剛才還幹勁滿滿的芙提雅……	私はまだ等速で走っているが、さっきまでやる気満々だったフリティアは……	좀 전까지 나와 같이 동일한 속도로 달리고 있던 열의 넘쳤던 프티야가…	My pace hadn't changed but Fritia's enthusiasm was quickly fading...						0	
+44	呼……呼……分析员你等等我呀……	呼……呼……分析員你等等我呀……	はあ……はあ……分析員、待って……	하아… 분석가… 같이 가…	*pant*... *pant*... You're going too fast, playername... *pant*...						0	
+45	不对……完全不对……	不對……完全不對……	違う……全然違う……	더 이상은 못 뛰겠어… 이건 아닌 것 같아…	...This isn't right at all... Strange...						0	
+46	明明已经消除了……会导向坏结局的一切因素，呼……为什么体力……	明明已經消除了……會導向壞結局的一切因素，呼……為什麼體力……	バッドエンドに繋がる……全ての要素を排除したはずなのに、はあ……どうして体力が……	분명히 불확실한 요소들은 전부 제거했는데… 후… 왜 이렇게 체력이…	We'd planned for everything... eliminated all the factors likely to lead to a sub-optimal outcome... *pant*... Why do I feel so tired...?						0	
+47	在我看来，虽然芙提雅有计算一切的能力，但是她明显错误地估计关键变量，也就是自己的体能。	在我看來，雖然芙提雅有計算一切的能力，但很明顯她錯估了關鍵變量，也就是自己的體能。	私から見れば、フリティアは全てを計算できる能力を持つが、決定的な変数を完全に誤算した。それは自分自身の体力だ。	프티야는 모든 것을 계산했지만, 정작 가장 관건인 본인의 체력을 변수로 넣지 않은 것 같다.	She'd been thorough with her planning. What she hadn't been was honest with herself.						0	
+b-6											0	
+48	要不先休息一下？	要不先休息一下？	少し休めば？	잠깐 쉬다가는 건 어때?	Rest a minute?						0	
+49	呜……不能认输……	嗚……不能認輸……	うぅ……降参しちゃいけない……	으으… 안돼… 인정할 수 없어…	Urgh... no, I can't just...						0	
+b-7											0	
+50	就算实战我们也会安排休息的。	就算實戰我們也會安排休息的。	実戦でも休憩はするよ。	이건 실전으로 하는 행군이니 잠시 쉬다가는 게 좋을 것 같은데…	We always plan rest breaks into operations like this...						0	
+51	这么说也有道理……	這麼說也有道理……	それは一理あるね……	듣고 보니 일리가 있어…	True...						0	
+52	那么，来补充水分和电解质吧！	那麼，來補充水分和電解質吧！	じゃあ、水と電解質を補給しよう！	그러면 잠시 쉬는 겸 수분하고 전해질 좀 보충하자!	It wouldn't hurt to rehydrate, we do need to make sure to replace our lost electrolytes!						0	
+53	在稍事休息后，我们又推进了许多。	在稍作休息後，我們又前行了一大段路途。	少し休んだ後、かなり前進した。	잠깐의 휴식 후, 우리는 많은 것을 진행했다.	We rested a few minutes, then pushed on.						0	
+54	已经捕捉到了无人机的信号，但地形很复杂，我们一直没有找到最恰当的最终接近路线。	已經捕捉到了無人機的訊號，但地形很複雜，我們一直沒有找到最恰當的最終接近路線。	既にドローンの信号を捉えたが、地形が険しく、最適な接近ルートはなかなか見つからない。	드론의 신호는 잡혔지만, 지형이 복잡해 최적의 루트를 찾을 수 없었다.	We started picking up the drone's distress signal, we were clearly getting close to the crash site. The terrain was a real mess though and it was proving difficult to find a way through.						0	
+55	更麻烦的是，附近的泰坦污染读数异常偏高，也就是说……	更麻煩的是，附近的泰坦汙染讀數異常偏高，也就是說……	更に厄介なことに、この辺りのタイタン汚染は異常に深刻だ、つまり……	무엇보다 주변의 타이탄 오염 수치가 굉장히 높았다. 다시 말해서…	Titagen levels were higher than we had expected them to be too, worryingly high for the Buffer Sections. Which meant...						0	
+56	看样子，应该会遭遇小型的泰坦。	看樣子，應該會遭遇小型的泰坦。	小型のタイタンに遭遇し兼ねない。	아무래도 소형 타이탄을 만나게 될 것 같은데?	I think we've got Titans incoming. Small ones, most likely.						0	
+57	到时候就交给我吧，分析员！	到時候就交給我吧，分析員！	その時は任せて、分析員！	뭐… 때가 되면 프티야한테 맡겨달라고, 분석가!	Leave them to me!						0	
+58	芙提雅虽然斗志昂扬，但以我看她此时的状态……	芙提雅雖然鬥志昂揚，但以我看她此時的狀態……	フリティアは張り切っているが、今の彼女の状態では……	프티야의 투지는 넘쳤지만, 컨디션을 보면 좀…	I couldn't fault Fritia's bravery. What I could fault was her judgment... her ability to know when she was biting off more than she could chew...						0	
+b-8											0	
+59	我们直接折返吧。	我們直接折返吧。	引き返そう。	그냥 돌아가는 게 좋을 것 같은데…	We need to turn back. Right now.						0	
+auto_b-9											0	
+b-9											0	
+60	考虑到你的体力剩余，这是最恰当的方案。	考慮到你的剩餘體力，這是最恰當的方案。	フリティアの余裕を考えれば、これが最善策だ。	프티야의 남은 체력을 보면… 이게 최적의 방안일 것 같아.	You're exhausted. We don't have another option.						0	
+61	诶？？	欸？？	え？？	뭐??	Huh?						0	
+62	分析员你在说什么啊，这不是正是测验我训练成果的机会嘛！	分析員你在說什麼啊，這不是正是測驗我訓練成果的機會嘛！	何言ってるの分析員、訓練の成果を確かめるチャンスじゃない！	분석가 뭐라는 거야! 지금이야말로 내 훈련 성과를 측정할 수 있는 절호의 기회인데!	What are you talking about? We've created the perfect environment for a proper assessment of my fitness!						0	
+63	拉练之后的战斗，多有意义的数据啊。	演練之後的戰鬥，多有意義的數據啊。	訓練した後の戦闘、有意義なデータよ。	행군 후에 하는 전투야 말로 얼마나 유의미한 데이터를 도출할 수 있는데.	I warmed up properly, now I'll polish off a few Titans. You'll get some great real-world data out of this!						0	
+64	没事没事，这种杂兵，就算是我也没问题的，会输的可能性就连0.5%都不到哦！	沒事沒事，這種雜兵，就算是我也沒問題的，會輸的可能性就連0.5%都不到哦！	平気平気！こんな雑魚相手なら、私でも勝てるよ。負ける可能性は0.5％を下回ってる！	괜찮아, 괜찮아. 이 정도 녀석들은 프티야한테 문제 될 게 없어. 데이터 상 질 확률이 0.5%에도 미치지 않는다고!	I'm fine! I'm telling you, I'm fine... there won't be many of them... you want a risk assessment?						0	
+65	她如此表示着。	她如此表示著。	フリティアはそう言った。	프티야가 이렇게까지 말하는 걸 보니…	She wouldn't stop...						0	
+66	再怎么说她也是拥有完整神格的天启者，应该没问题的吧。	再怎麼說她也是擁有完整神格的天啟者，應該沒問題的吧。	それにフリティアは完全な神格を持つ覚醒者だから、問題ないだろう。	어쨌든 프티야도 만트라를 받은 계시자라 문제는 없겠지.	She was a full Manifestation... I worried I was underestimating her...						0	
+67	此时的我，还不知道自己很快就会为这个侥幸的想法感到……	此時的我，還不知道自己很快就會為這個僥倖的想法感到……	この時の私はまだ知らない、この中途半端な考えに……	당시에 나는 프티야의 말만 듣고 안심했던 대가에 대한 파장을 알 수 없었다…	That should have been the least of my worries...						0	

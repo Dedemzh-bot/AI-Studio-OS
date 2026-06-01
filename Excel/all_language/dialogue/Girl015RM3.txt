@@ -1,0 +1,68 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	昔日，爱曾触手可及。	昔日，愛曾觸手可及。	「手を伸ばせば届く距離に愛があったのに」	예전엔, 사랑은 손만 뻗으면 닿을 수 있었지만,	♪ Long ago, love was within my reach. ♪						0	
+2	如今，我却逃往天边。	如今，我卻逃往天邊。	「私はそれに背を向けた」	지금의 난 끝없이 먼 곳으로 도망가네.	♪ But now, I run toward the horizon. ♪						0	
+3	唔——唯有余梦……	唔——唯有餘夢……	「Woo 夢だけは……」	워어~ 오직 꿈만이…	♪ Oh, only the dream remains... ♪						0	
+4	好了，结束。	好了，結束。	はい。以上よ。	오케이, 끝.	Alright, that's it.						0	
+5	凯茜娅甩了甩手，将吉他轻轻放下。	凱茜婭甩了甩手，將吉他輕輕放下。	カーシアは手で「はい終わり」というジェスチャーをしてみせると、ギターを下ろした。	캐시아는 손을 털면서 기타를 가볍게 내려놓았다.	Katya shook her hand and set her guitar down softly.						0	
+6	playername，这次演奏得如何？	playername，這次演奏得如何？	playername、今回はどうだった？	playername, 이번 연주는 어땠어?	playername, how'd I do this time?						0	
+7	老实说，很意外。	老實說，很意外。	正直、意外だった。	솔직히 말하면, 되게 의외였어.	To be honest, I'm really surprised.						0	
+8	短短两周，就外行人而言，你已经达到专业级了。	短短兩週，就外行人而言，你已經達到專業級了。	たった2週間で、素人から見るとプロレベルに達しているよ。	아마추어가 2주라는 짧은 시간 안에 프로의 경지에 도달했다는 거니까.	I'm no music expert, it seems like you're already at a professional level after only two weeks.						0	
+9	你不觉得这话很矛盾吗……不过姑且可以理解成听不出什么问题了吧。	你不覺得這話很矛盾嗎……不過大概可以理解成聽不出什麼問題了吧。	自分で言ってて矛盾を感じないのかしら……まあでも、とりあえず問題はなかったってことね。	말이 좀 그럴싸한데… 아무튼 듣기에 거북할 정도는 아니었다고 생각할게.	Don't you think that compliment is kinda paradoxical...? But I guess that means at least you didn't hear any mistakes.						0	
+10	嗯，但我也没法给出更专业的意见了。	嗯，但我也沒辦法給更專業的意見了。	うん。私からは、これ以上詳しい批評はできないけどね。	특별히 더 전문적으로 조언을 줄 수 있는 건 없을 것 같아.	Yeah, but I can't really give a more professional evaluation.						0	
+11	无所谓，反正我也是个自私自利的家伙。	無所謂，反正我也是個自私自利的傢伙。	別に構わないわ。好きなようにやるから。	괜찮아, 나도 이기적이라 단도직입적으로 얘기하는 게 차라리 낫지.	It's alright. I'm just selfish anyway.						0	
+12	无论是人生还是音乐，我都只想随性而奏，只弹给自己和中意的人听就够了。	無論是人生還是音樂，我都只想隨性而奏，只彈給自己和中意的人聽就夠了。	人生も、音楽も、やりたいようにやる。私と、私が気に入った人だけが聞いてくれればそれで満足よ。	인생이든 음악이든 마음 가는 대로 연주하고, 내가 좋아하는 사람한테만 연주하면 되는 거잖아?	Whether it's about life or music, I just want to be carefree. I only want to play for myself and my favorite people.						0	
+13	……	……	……	…	...						0	
+14	啊，如果觉得奇怪，就当我刚刚什么都没说吧。	啊，如果覺得奇怪，就當我剛剛什麼都沒說吧。	あら、変に感じたんだったら、今の話は聞かなかったことにしてちょうだいね。	아, 이상하면 그냥 못 들은 걸로 생각해.	Ugh. If you think that's weird, just forget it.						0	
+15	不，只是突然有点羡慕你了。	不，只是突然有點羨慕你了。	いや。その考えが羨ましいと思っただけだよ。	그게 아니라, 그냥 네가 좀 부러워서.	No, I'm just a little jealous of you all of a sudden.						0	
+16	对了，凯茜娅，方便问一嘴吗？	對了，凱茜婭，方便問一下嗎？	そうだ、少し聞きたいことがあるんだけど。	참, 뭐 좀 물어봐도 돼?	Oh, Katya, can I ask you something?						0	
+17	你为什么会突然想起来要学电吉他呢？没记错的话，你之前学的是古典乐？	你為什麼會突然想起來要學電吉他呢？沒記錯的話，你之前學的是古典樂？	どうして急にエレキギターを始めたんだ？記憶違いでもなければ、これまではクラシック一筋だっただろう？	왜 갑자기 일렉트릭 기타를 배우려고 한 거야? 내 기억이 맞다면, 전에 클래식 음악을 배우지 않았어?	Why did you want to learn how to play electric guitar out of the blue? I thought you played classical music before.						0	
+18	那只是父母安排的而已，至于吉他……并不是突然，而是直到现在才有安心学习的机会吧。	那只是父母安排的而已，至於吉他……並不是突然，而是直到現在才有安心學習的機會吧。	クラシックは親の意向に沿ってやっていただけよ。ギターを始めたのは……ただの思い付きじゃなくて、今なら安心して練習できるって思ったから。	그건 부모님의 뜻을 따른 것일 뿐이야. 갑자기는 아니고, 늘 배우고 싶었는데 이제야 기회가 생긴 거지.	My parents made me do that. As for the guitar... It wasn't out of the blue. I just finally have the chance to learn comfortably now.						0	
+19	其实早在和你相遇之前……不，应该是早在端起武器之前，我就对摇滚乐沉迷了。	其實早在跟你相遇之前……不，應該是早在端起武器之前，我就對搖滾樂沉迷了。	あなたと出会う前から……いいえ、武器を手に取ると決めた瞬間よりもずっと前から、ロックが好きだったの。	사실 널 만나기 훨씬 전에… 아니, 무기를 들기 훨씬 전부터 로큰롤 음악에 빠져 있었어.	Believe it or not, before I met you... actually, way before I ever picked up a weapon, I was obsessed with rock music.						0	
+20	只是，一路走来……	只是，一路走來……	ただ、今までは……	하지만, 그동안…	But somewhere along the way...						0	
+21	我绝对不允许我辛辛苦苦培养出来的女儿去学什么摇滚乐！	我絕對不允許我辛苦培養出來的女兒去學什麼搖滾樂！	あなたを育てるのに、どれだけ苦労したと思っているの！何がロックですか、そんなの許すわけないでしょ！	어떻게 키운 딸인데 로큰롤 따위나 배우게 둘 수 없어! 절대로!	I worked so hard to raise you! I'd never allow my daughter to play something as tasteless as rock music!						0	
+22	哎？想当瓦尔基里选手？别开玩笑了，你的气质不适合那个舞台吧~	哎？想當瓦爾基里選手？別開玩笑了，你的氣質不適合那個舞台吧~	ヴァルキリーの選手だって？冗談キツイぜ。あの舞台にあんたは似合わないよ。	엥? 발키리 참가자가 되고 싶다고? 넌 그런 무대에 어울리지 않잖아?	Huh? You want to compete in the Valkyrie Games? Don't be silly. Your personality isn't right for that~						0	
+23	哈哈哈，这个小鬼连饭都能煮糊了，真是除了暗杀之外一无是处啊。	哈哈哈，這個小鬼連飯都能煮糊了，真是除了暗殺之外一無是處啊。	ははは。料理すらまともにできないのか。本当に人殺ししか才能がないんだな。	하하하, 이 녀석은 밥도 지을 줄 모르네, 사람 죽이는 것 말고는 할 줄 아는 게 없군.	Hahaha, you want her to cook? Maybe if you like to eat mush! She can't do anything apart from killing people.						0	
+24	凯茜娅，你的天赋比任何人都优秀，简直就是天生的佣兵，今后就和我们共事吧。	凱茜婭，你的天賦比任何人都優秀，簡直就是天生的傭兵，今後就和我們共事吧。	カーシア、あなたには誰よりも優れた才能が宿っている。傭兵になるために生まれて来たような天才と言っていい。どうか、私達の仲間になって欲しい。	캐시아, 넌 누구보다 재능이 뛰어나고 타고난 용병이니 나랑 같이 일하는 게 어때?	Katya, you have more talent than anyone else — you were born to be a mercenary. Work with us from now on.						0	
+25	无论是成为摇滚乐手还是成为英雄的理想都被身边的人否定了。	無論是成為搖滾樂手還是成為英雄的理想都被身邊的人否定了。	ロックミュージシャンの夢も、ヒーローの夢も、周りの人に悉く却下されたわ。	로커든 영웅이든 주변 사람들은 내 꿈을 전부 부정했지.	Whether it was my dream to become a rockstar or a hero, everyone just rejected it all.						0	
+26	接着，只能在杀戮中沉沦，以否定他人生命为乐……直至被自己的种下的恶果吞噬。	接著，只能在殺戮中沉淪，以否定他人生命為樂……直至被自己所種下的惡果吞噬。	殺戮に手を染め続ける日々の中では、他者の命を否定することぐらいしか娯楽はなかった。自らの行いが自らに返って来るまで、私はずっとそんな生活を続けて来たのよ。	그 뒤로는 살육에 빠져 타인의 생명을 앗아가는 것을 낙으로 삶았어… 결국 뿌린 대로 거둬서 내가 저지른 일을 감당해야 했지만.	So I could only drown myself in killing, finding pleasure in rejecting other people's lives instead... until I was swallowed up by the consequences of my actions.						0	
+27	最后，在那混沌无序时空中才意识到……	最後，在那混沌無序時空中才意識到……	そうして、あの混沌とした無秩序な時空の中で気付くことになったのだ……	마침내 그 혼돈의 무질서 속에서 깨달았다…	Finally, in that chaotic mess of time and space, I realized...						0	
+28	“如果一切都会随时间而改变，那我们所有的执念都将失去价值……”	“如果一切都會隨時間而改變，那我們所有的執念都將失去價值……”	「あらゆるものが時間の流れと共に変わっていくのだとしたら、私達のすべての執念も、いずれは価値を失ってしまうのだ……」と	 '시간이 지나면서 모든 것이 변하면 우리의 모든 집착은 그 가치를 잃게 될 것이다…'	If everything changes with time, then all of our obsessions will lose their value...						0	
+29	以前的我就是因为太在乎“人生价值”了，才会接受不了被否定的事实。	以前的我就是因為太在乎「人生價值」了，才會接受不了被否定的事實。	昔の私は、「人生の価値」に固執しすぎていたの。だから、他者に否定されることに耐えられなかったのよ。	예전에 난 '인생의 가치'를 지나치게 의식해서 부정당한 사실을 받아들이지 못했거든.	Before, I cared too much about the "value of life", so I couldn't handle being rejected.						0	
+30	说到底，放弃演奏，放弃成为英雄的人，都是我自己吧……	說到底，放棄演奏，放棄成為英雄的人，都是我自己吧……	詰まるところ、音楽も、ヒーローの夢も、それを諦めてしまったのは他でもない私自身だったのかもしれない。	결국 연주를 포기하고 영웅이 되는 것도 포기한 사람은 모두 나 자신이었지…	After all, I was the one who gave up on music and on being a hero...						0	
+31	但是你现在还是重新拿起了吉他，不是吗？	但你現在還是重新拿起了吉他，不是嗎？	でも、あなたはまた音楽に戻って来た。そうだろ？	하지만 지금은 기타를 다시 잡았잖아?	But you've picked up your guitar again, right?						0	
+32	哼，谁知道呢，也许只是命运的恶作剧吧。	哼，誰知道呢，也許只是命運的惡作劇吧。	ふん、どうかしら。ただの運命のいたずらかもしれないわ。	흥, 이런 걸 누가 알아줘? 어쩌면 그저 운명의 장난일 수도…	Heh, who knows? Maybe it's just one of fate's cruel tricks.						0	
+33	凯茜娅，虽然我不清楚你在成为雇佣兵之前的经历。	凱茜婭，雖然我不清楚你在成為傭兵之前的經歷。	カーシア。あなたが傭兵になる前の事情はよく知らないけど。	캐시아, 네가 용병이 되기 전에 무슨 일을 겪었는지는 잘 모르지만,	Katya, I don't know what your life was like before you became a mercenary.						0	
+34	不过我也曾短暂进入过“瓦尔哈拉”。	不過我也曾短暫進入過「瓦爾哈拉」。	私も短い間とはいえ、「ヴァルハラ」に入ったことがあるんだ。	전에 나도 잠깐 '발할라'에 들어갔던 적이 있었어.	But I went to Valhalla for a short time too.						0	
+35	哦~那我们的共同语言又多了一项。	喔~那我們的共同語言又多了一項。	へぇ、私達の共通点がまたひとつ増えたわね。	오호라~ 리에게 공통점이 하나 더 생겼네.	Oh~ Then we have something else in common.						0	
+36	在那一片虚无中，我听到了无数祈祷声。	在那一片虛無中，我聽見了無數祈禱聲。	あの虚無の中で、数え切れないほどの祈りの声を聞いたよ。	그 허상 속에서 나는 수많은 기도 소리를 들었지.	In that massive void, I heard infinite prayers.						0	
+37	……	……	……	…	...						0	
+38	大部分人都在祈祷万物终结，但仍有一小部分人在渴求——	大部分人都在祈禱萬物終結，但仍有一小部分人在渴望——	万物の終焉を求めるたくさんの声の中で、それでも一部の人は、命を懸けてあるものを求めていたんだ。	대부분의 사람들은 만물의 종말을 기도하지만, 일부 사람들은 여전히…	Most people were praying for everything to end. But there was still a small number of people wishing for...						0	
+b-1											0	
+39	救赎。	救贖。	「救いを」。	구원을 갈망하고 있어.	...Redemption.						0	
+40	那又如何，你是想说我所祈求的救赎已经降临了吗？	那又如何，你是想說我所祈求的救贖已經降臨了嗎？	……だったらなんだっていうの？私の願う救いはすでに得られている、とでも言いたげな口ぶりね。	그래서 내가 그토록 기도해왔던 구원이 왔다고 말하려는 거야?	So what? Are you trying to say the redemption I begged for is already here?						0	
+41	果然和我想的一样，你是救赎派的。	果然和我想的一樣，你是救贖派的。	やっぱり私の思った通り、あなたは救いを求める側だ。	내가 예상했던 대로야. 넌 구원자였어.	It's just as I thought — deep down, you want to be good.						0	
+42	啧，是在套我话吗？狡猾的家伙。	嘖，是在套我的話嗎？狡猾的傢伙。	ちっ……カマをかけたの？ずる賢いわね。	쯧쯧, 교활한 자식, 지금 날 떠보는 거야?	Tch. Are you trying to flatter me or mock me?						0	
+43	抱歉，稍微耍了点小聪明，不过我真正想说的是……	抱歉，稍微耍了點小聰明，不過我真正想說的是……	すまない。ただ、私が言いたかったのは……	미안, 잔머리 좀 굴리긴 했는데, 내가 진짜 말하고 싶은 건…	Sorry, neither. What I really want to tell you is...						0	
+44	救赎之道可不是通过祈祷就能找到的，但是奇迹却不一样。	救贖之道可不是透過祈禱就能找到的，但是奇蹟卻不一樣。	祈るだけでは救いはやって来ないけど、奇跡は違うってことさ。	구원은 기도한다고 오는 게 아니지만, 기적은 다르다고 봐.	You won't find the path to redemption through prayer, but you can find it in miracles.						0	
+45	不如就把这第二段人生就当做是一场奇迹好好珍惜吧。	不如就把這第二段人生就當做是一場奇蹟好好珍惜吧。	この第二の人生を奇跡だと思って、心ゆくまで楽しんでほしい。	차라리 제2의 삶을 기적처럼 소중히 여기면 좋을 것 같아.	Treat your second chance in life as a miracle. Treasure it.						0	
+46	往后的人生还很长，有的是寻找救赎之道的时间，不用那么早对这个世界下定义。	往後的人生還很長，有的是尋找救贖之道的時間，不用那麼早對這個世界下定義。	あなたの人生はまだまだ長い。救いの道を探すのに、十分な時間が残されている。焦って世界を定義する必要はないんと思うんだ。	앞으로 인생은 길고, 구원의 길을 찾을 시간은 많으니, 그렇게 성급히 세상을 정의할 필요는 없잖아.	You still have a long life ahead of you, so you have plenty of time to find your path to redemption. Don't be in such a rush to define this world.						0	
+47	至于那被否定的前半生，就当做是丢在第五研究所了。	至於那被否定的前半生，就當做是丟在第五研究所了。	否定され続けて来たこれまでの人生なら、第5研究所に置いて来たと考えればいい。	부정된 전반생은 제5연구소에서 버려졌다고 생각해.	Just pretend like the first part of your life was left behind in the Fifth Research Institute.						0	
+48	呵呵呵，还真有你的风格，全是狡辩。	呵呵呵，還真有你的風格，全是狡辯。	ふふふ。詭弁まみれなところが、いかにもあなたらしいわね。	후후, 궤변만 잔뜩 늘어놓는 거 보니 참 너답네.	Heheh, that's so you. It's such a fallacy.						0	
+49	不过我确实也有类似的想法……	不過我確實也有類似的想法…	でも、その考えも分からなくはないわ……	나도 비슷한 생각을 했었는데…	But I do actually see it in a similar way...						0	
+50	这一次，就让我站在与前半生相反的立场看看这个世界吧。	這一次，就讓我站在與前半生相反的立場看看這個世界吧。	これからは、これまでとは違う立場からこの世界を見てみよう。	그럼 이번에는 전반생과 반대되는 입장에서 세상을 보자.	This time, I want to let myself look at the world from a perspective that's opposite to the first part of my life.						0	
+51	终端发出了会面结束的提示音，而凯茜娅也心领神会般摇了摇头。	終端發出了會面結束的提示音，而凱茜婭也心領神會般搖了搖頭。	端末から面会終了を告げる音が鳴ると、カーシアは返事をするように頭を揺らした。	단말기에서 회의가 끝났다는 신호음이 울리자 캐시아도 마치 알아차렸다는 듯 고개를 흔들었다.	My terminal made a sound to remind me that our time was up. Katya shook her head in unspoken understanding.						0	
+52	好了，时间不早了，我要回去睡觉了，总之今天谢谢你的睡前摇滚演出。	好了，時間不早了，我要回去睡覺了，總之今天謝謝你的睡前搖滾表演。	そろそろ時間だね。私は帰って休むとするよ。子守唄の代わりに、最高のロックを聞かせてくれてありがとう。	시간도 늦었으니 이만 자러 갈게. 오늘 자기 전에 로큰롤 공연을 해줘서 고마워.	Alright, it's getting late — I'm going to head back and sleep. Thanks for the nighttime rock concert though.						0	
+53	喂，等等。	喂，等等。	ねえ、ちょっと。	어이, 잠깐만.	Hey, wait a second.						0	
+54	她从床底抽出了一个包裹，递了过来。	她從床底抽出了一個包裹，遞了過來。	そう言うと、カーシアはベッドの下から何かの包みを引っ張り出し、それを私に押し付けて来た。	그녀는 침대 밑에서 소포를 꺼내서 건네주었다.	She pulled a package out from under her bed and handed it to me.						0	
+55	这是……你之前用的吉他？	這是……你之前用的吉他？	これは……この前使っていたギターじゃ？	이건... 전에 사용했던 기타야?	Is this... the guitar you used before?						0	
+56	嗯，就当是你送我新吉他的回礼，这把在耶洛沙买的吉他就送给你了。	嗯，就當做是你送我新吉他的回禮，這把在耶洛沙買的吉他就送給你了。	ええ。新しいギターをプレゼントしてくれたお礼に、このイェロシャで買ったギターをあなたにあげるわ。	네가 준 새 기타에 대한 답례로, 옐로샤에서 샀던 이 기타는 네게 줄게. 	Yeah. As a thank-you for the new guitar you gave me, I want to give you the guitar I bought in Yehrus.						0	
+57	我又不会弹……	我又不會彈……	気持ちは嬉しいんだけど、ギターなんて弾いたことは……	연주할 줄도 모르는데…	But I can't play it...						0	
+58	往后的人生还很长，有的是学吉他的时间，不用那么早对自己下定义。	往後的人生還很長，有的是學吉他的時間，不用那麼早對自己下定義。	あなたの人生はまだまだ長いのよ。ギターの弾き方を勉強するのに、十分な時間が残されてるでしょ。焦って自分を定義する必要はないわ。	앞으로의 인생은 길고 기타를 배울 시간은 많으니 그렇게 일찍 정의 내릴 필요는 없어.	You still have a long life ahead of you, so you have plenty of time to learn how to play guitar. Don't be in such a rush to define yourself.						0	
+59	这么快就学以致用了吗？	這麼快就學以致用了嗎？	呑み込みが早いんだな。	이걸 이렇게 빨리 캐치하고 배웠다고?	You took it to heart that fast?						0	
+60	那我还是收下吧，之后抽空学学看。	那我還是收下吧，之後抽空學學看。	そこまで言うなら、ありがたく頂戴するよ。今度弾き方を教えてもらおうかな。	그럼 나중에 시간 내서 한번 배워볼게.	Then I'd be happy to accept it. I'll find some time to learn how to play later.						0	
+61	嗯，有问题随时都能来找我。	嗯，有問題隨時都能來找我。	ええ。わからないことがあれば、いつでも来てちょうだい。	궁금한 점이 있으면 언제든지 물어봐.	Good. Ask me anytime if you have questions.						0	
+62	就当我准备掩门离开之际，突然感到背后被人用手指轻轻戳了一下。	就當我準備掩門離開之際，突然感覺到背後被人用手指輕輕戳了一下。	そのまま部屋を出て、ドアを閉めようとした時だった。背中を指でつつかれる感触があった。	문을 닫고 나가려는데 갑자기 뒤에서 손가락으로 쿡 찌르는 느낌이 들었다. 	Just as I was about to close the door and leave, I suddenly felt a finger gently poking my back.						0	
+63	对了，我的过去并没有丢在第五研究所。	對了，我的過去並沒有丟在第五研究所。	それから、私は過去を第5研究所に捨てたりはしてないわ。	아, 그리고 난 나의 과거를 제5연구소에 버린 적이 없었어.	By the way, my past wasn't left behind at the Fifth Research Institute.						0	
+64	只是暂时封存起来，和那把吉他一起，交给你——	只是暫時封存起來，和那把吉他一起，交給你——	今はとりあえず、そのギターと一緒に──	그냥 잠시 네게 맡기는 거야, 그 기타와 함께…	I just sealed it up for the time being. I'm giving it to you, along with the guitar—						0	
+65	我的监护人playername来保管了。	我的監護人playername來保管了。	私の後見人であるplayernameに預けておくことにしただけよ。	나의 보호자인 playername이(가) 좀 보관해 줘.	Take care of it for me as my chaperone, playername.						0	

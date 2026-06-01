@@ -1,0 +1,117 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+partymode1	竞速赛	競速賽	速度勝負	경주 대회	Race						0	
+partymode2	生存赛	生存賽	サバイバル	생존 대회	Survival						0	
+partymode3	抢分赛	搶分賽	ポイントマッチ	점수 쟁탈 대회	Score						0	
+partymode4	捉迷藏	捉迷藏	かくれんぼ	숨바꼭질	Hide & Seek						0	2.7海姆向前冲
+partymode5	优化吧	優化吧	同化しよう	최적화!	Assimilation						0	3.2海姆优化作战
+partymode6	决战哈姆	決戰哈姆	対ハム決戦	햄! 결전!	H.A.M.M. Showdown						0	3.5海姆优化作战
+partygoal	冲关目标	衝關目標	チャレンジ目標	돌파 목표	Goal						0	
+partyZbugGoal	行动目标	行動目標	作戦目標	미션 목표	Objective						0	3.2海姆优化作战
+partyZbugGoal_des1	优化所有海姆大玩家，重振哈姆军团！	優化所有海姆大玩家，重振哈姆軍團！	「ヘイムボーイ」を同化し、我々「ハム軍団」を最強にする！	모든 헤임달 히어로를 최적화하고, 햄 군단을 재건하자!	Assimilate all H.E.R.O.s and grow the H.A.M.M. Legion!						0	3.2海姆优化作战
+partyZbugGoal_des2	击败哈姆，并且战斗到最后一刻！	擊敗哈姆，並且戰鬥到最後一刻！	「ハム軍団」を撃破し、最後まで戦い抜く！	'햄'을 격파하고, 마지막 순간까지 전투하자!	Defeat H.A.M.M.s and survive to the end!						0	3.2海姆优化作战
+partynum1	完成人数	完成人數	クリア人数	완료 인원수	Finishers						0	
+partynum2	存活人数	存活人數	生存者数	생존 인원수	Survivors						0	
+partynum3	抢分进度	搶分進度	ポイント進行度	점수 쟁탈 진도	Progress						0	
+partynum4	剩余躲藏者	剩餘躲避方	残りの逃走側	남은 도망자	Hiders Left						0	2.7海姆向前冲
+partynum5	当前积分	目前積分	現在のポイント	현재 점수	Current Score						0	3.6海姆向前冲
+partywait	等待其他冲关选手进入……	等待其他衝關選手進入……	他の選手の参加を待っています……	다른 돌파 선수들이 들어오기를 기다리는 중…	Rallying the contestants...						0	
+partygo_level9600	滚筒冲刺	滾筒衝刺	ローラーダッシュ	롤 스퍼트	Rolling Rush						0	
+partygo_level9601	混合障碍赛	混合障礙賽	障害物競走	각종 장애물 대회	Mixed Mania						0	
+partygo_level9602	涡轮风车	渦輪風車	タービン風車	풍력 터빈	Turbo Turbines						0	
+partygo_level9603	旋转、弹弹！	旋轉、彈！	回って、飛び跳ねる！	회전하는 풍차	Spin and Spring						0	
+partygo_level9604	摇摆重锤	搖擺重錘	振り子ハンマー	흔들리는 중량추	Hammer Havoc						0	
+partygo_level9605	勇往直前	勇往直前	ゴーアヘッド	타이밍 돌진	Courageous Charge						0	
+partygo_level9606	撞门挑战	撞門挑戰	扉の向こうへ	문 챌린지	Doorcrash Dash						0	
+partygo_level9607	跷跷躲避球	蹺蹺躲避球	バランスドッジボール	시소와 공	Balance Bonanza						0	
+partygo_level9608	传送带逃脱	傳送帶逃脫	ベルトコンベア脱出	컨베이어 벨트 탈출	Conveyor Craze						0	
+partygo_level9609	“恐高症”	「懼高症」	「高所恐怖症」	고소공포증	Platform Peril						0	
+partygo_level9610	圆环大作战	圓環大作戰	円環大作戦	링 대작전	Ring-Jump Rodeo						0	
+partygo_level9611	金币大作战	金幣大作戰	コイン大作戦	골드 대작전	Coin-Grab Chaos						0	
+partygo_level9600_des	注意不要从滚筒掉下，<span color="#ffc500">全速冲向终点吧！</>	注意不要從滾筒掉下，<span color="#ffc500">全速衝向終點吧！</>	ローラーから落ちるな！<span color="#ffc500">ゴールに向かって走り抜けろ！</>	롤에서 떨어지지 않도록 주의하고, <span color="#ffc500">전력을 다해 결승점까지 질주하자!</>	Keep your balance on the rollers, and <span color="#ffc500">race to the finish!</>						0	
+partygo_level9601_des	越过各类障碍，<span color="#ffc500">全速冲向终点吧！</>	越過各類障礙，<span color="#ffc500">全速衝向終點吧！</>	障害物を乗り越えて、<span color="#ffc500">ゴールを目指せ！</>	각종 장애물을 통과하고, <span color="#ffc500">전속력으로 결승점까지 질주하세요!</>	Get past the various obstacles, and <span color="#ffc500">race to the finish!</>						0	
+partygo_level9602_des	在不断旋转的风车扇叶上找到落脚点，<span color="#ffc500">全速冲向终点吧！</>	在不斷旋轉的風車扇葉上找到落腳點，<span color="#ffc500">全速衝向終點吧！</>	風車の足場を見つけろ！<span color="#ffc500">そしてゴールへ！</>	끊임없이 회전하는 풍차의 날개 위에서 발판을 찾고, <span color="#ffc500">전력을 다해 결승점까지 질주하자!</>	Safely jump between the spinning fans, and <span color="#ffc500">race to the finish!</>						0	
+partygo_level9603_des	在高速旋转的盘子上前进，并躲避弹力方块，<span color="#ffc500">全速冲向终点吧！</>	在高速旋轉的盤子上前進，並躲避彈性方塊，<span color="#ffc500">全速衝向終點！</>	回転する円盤を進みながら、跳ねるブロックを避けろ！<span color="#ffc500">目指すのはゴール！</>	고속 회전판 위에서 전진하고, 탄성 블록을 피하며, <span color="#ffc500">전력을 다해 결승점까지 질주하자!</>	Navigate the spinning plates and avoid the bouncy blocks, and <span color="#ffc500">race to the finish!</>						0	
+partygo_level9604_des	躲开多种摆锤的撞击，<span color="#ffc500">全速冲向终点吧！</>	躲開多種擺錘的撞擊，<span color="#ffc500">全速衝向終點吧！</>	様々な振り子ハンマーを躱せ！<span color="#ffc500">ゴールに向かって全速前進！</>	다양한 추의 공격을 피하고, <span color="#ffc500">전력을 다해 결승점까지 질주하자!</>	Dodge the swinging hammers, and <span color="#ffc500">race to the finish!</>						0	
+partygo_level9605_des	找准时机穿越挡板障碍，<span color="#ffc500">全速冲向终点吧！</>	找準時機穿越擋板障礙，<span color="#ffc500">全速衝向終點吧！</>	タイミングを見計らって障害物の板を越えろ！<span color="#ffc500">ゴールまで突き進め！</>	적절한 타이밍에 장애물을 통과하고, <span color="#ffc500">전력을 다해 결승점까지 질주하자!</>	Slip through the blockers at the right time, and <span color="#ffc500">race to the finish!</>						0	
+partygo_level9606_des	终点就在大门的后面，<span color="#ffc500">大胆地选择一扇门冲过去吧！</>	終點就在大門的後面，<span color="#ffc500">大膽地選擇一扇門衝過去吧！</>	ゴールは扉の向こう側！<span color="#ffc500">いずれかの扉を選んで突っ込もう！</>	결승점은 대문의 뒤에 있다. <span color="#ffc500">과감하게 선택해서 돌진해 보자!</>	The finish line awaits just behind the doors — <span color="#ffc500">bravely pick a door and rush ahead!</>						0	
+partygo_level9607_des	在跷跷板上保持平衡并躲开飞来的球，<span color="#ffc500">不要掉下跷跷板！</>	在蹺蹺板上保持平衡並躲開飛來的球，<span color="#ffc500">不要掉下蹺蹺板！</>	シーソーでバランスを保ちながら飛んでくるボールを避けろ！<span color="#ffc500">シーソーから落ちるな！</>	시소에서 균형을 유지하고 날아오는 공을 피해야 한다. <span color="#ffc500">시소에서 떨어지지 않도록 조심하자!</>	Keep your balance and avoid the incoming balls while you <span color="#ffc500">stay on the seesaw!</>						0	
+partygo_level9608_des	在传送带上专心躲避各种障碍，<span color="#ffc500">并留到最后吧！</>	在傳送帶上專心躲避各種障礙，<span color="#ffc500">並留到最後！</>	ベルトコンベアで様々な障害物を避けて、<span color="#ffc500">最後まで生き残れ！</>	컨베이어 벨트 위에서 장애물을 피하고, <span color="#ffc500">마지막까지 살아남자!</>	Dodge the obstacles on the conveyor belts and <span color="#ffc500">be the last one standing!</>						0	
+partygo_level9609_des	被踩过的地板会消失哦，快点找到下一个落脚点，<span color="#ffc500">别掉下平台！</>	被踩過的地板會消失哦，快點找到下一個落腳點，<span color="#ffc500">別掉下平台！</>	踏まれた床は消える。次の足場を確保しろ、<span color="#ffc500">高台から落ちないように！</>	지면이 밟히면 사라지니 다음 발판을 서둘러 찾아야 한다. <span color="#ffc500">플랫폼에서 떨어지지 않도록 주의하자!</>	Be careful as the blocks disappear after they are stepped on. Quickly find safe footing and <span color="#ffc500">don't fall off the platform!</>						0	
+partygo_level9610_des	穿越不同颜色的圆环获得积分吧！<span color="#36ff03ff">绿色10分；</><span color="#4F8FFFFF">蓝色20分；</><span color="#F10CFBFF">紫色40分；</>选择合适的方法才能获取更多积分~	穿越不同顏色的圓環獲得積分吧！<span color="#36ff03ff">綠色10分；</><span color="#4F8FFFFF">藍色20分；</><span color="#F10CFBFF">紫色40分；</>選擇合適的方法才能獲得更多積分~	様々な色のリングをくぐり抜けてポイントをゲット！<span color="#36ff03ff">緑は10ポイント、</><span color="#4F8FFFFF">青は20ポイント、</><span color="#F10CFBFF">紫は40ポイント。</>より多くのポイントを得るために適切な方法を選びましょう～	다양한 색상의 링을 통과하여 점수를 획득하세요! <span color="#36ff03ff">그린 10점</>, <span color="#4F8FFFFF">블루 20점</>, <span color="#F10CFBFF">퍼플 40점</>, 적절한 방법을 선택해야 더 많은 점수를 획득할 수 있습니다.	Collect points by passing through rings of different colors! Earn <span color="#36ff03ff">10 points for Green, </><span color="#4F8FFFFF">20 points for Blue,</> and <span color="#F10CFBFF">40 points for Purple</>. Choose your strategy wisely to score big!						0	
+partygo_level9611_des	躲避障碍，<span color="#ffc500">多多获取金币吧！</>	躲避障礙，<span color="#ffc500">多多取得金幣吧！</>	障害物を避けながら、<span color="#ffc500">コインをたくさん稼ごう！</>	장애물을 피하고, <span color="#ffc500">최대한 많은 동전을 모아보자!</>	Dodge the obstacles and <span color="#ffc500">grab as many coins as you can!</>						0	
+partygo_level9612	黏黏冲刺	黏性衝刺	ねばねばダッシュ	끈끈한 질주	Sticky Sprint						0	2.5海姆向前冲
+partygo_level9613	极速跑酷	極速跑酷	パルクーラー	초고속 파쿠르	Reckless Race						0	2.5海姆向前冲
+partygo_level9614	暴怒弹球	暴怒彈球	激怒のピンボール	성난 공	Berserk Bouncer						0	2.5海姆向前冲
+partygo_level9615	转盘逃脱	轉盤逃脫	激やばルーレット	룰렛 탈출	Dizzy Danger						0	2.5海姆向前冲
+partygo_level9616	记忆大师	記憶大師	記憶王	기억의 대가	Memory Master						0	2.5海姆向前冲
+partygo_level9617	滚筒逃脱	滾筒逃脫	ローリングバケツ	롤러 탈출	Risky Rollers						0	2.5海姆向前冲
+partygo_level9618	超级“恐高症”	超級「懼高症」	ド・高所恐怖症	고소 공포증 2.0	Platform Peril Plus						0	2.5海姆向前冲
+partygo_level9619	极速跑酷2.0	極速跑酷2.0	パルクール Ver2.0	초고속 파쿠르 2.0	Reckless Race II						0	2.5海姆向前冲
+partygo_level9620	捣蛋逃脱	搗蛋逃脫	イタズラ・Run	혼돈의 탈출	Bomber Fall						0	2.5海姆向前冲
+partygo_level9621	捣蛋追逐	搗蛋追逐	イタズラ・Chase	혼돈의 추격	Bomber Brawl						0	2.5海姆向前冲
+partygo_level9622	圆环大作战2.0	圓環大作戰2.0	輪っか通れ Ver2.0	링 대작전 2.0	Ring-Jump Rodeo II						0	2.5海姆向前冲
+partygo_level9612_des	别被那些黏黏糊糊的东西困住脚步，<span color="#ffc500">利用压缩气锤一下子飞到终点吧！</>	別被那些黏黏的東西困住腳步，<span color="#ffc500">利用壓縮氣錘一下子飛到終點吧！</>	ネバネバに足を取られないよう、<span color="#ffc500">スモールハンマーで一気にゴールまで飛ぼう！</>	끈적끈적한 것들에 발이 묶이지 않도록 조심하고, <span color="#ffc500">압축 공기 망치를 이용해 한 번에 결승점까지 날아가자!</>	Don't get stuck in all that sticky mess, and <span color="#ffc500">use the air hammers to soar to the finish!</>						0	2.5海姆向前冲
+partygo_level9613_des	借助<span color="#ffc500">加速门</>，像风一样快速<span color="#ffc500">完成2圈跑酷</>吧！	透過<span color="#ffc500">加速門</>，像風一樣快速<span color="#ffc500">完成2圈跑酷</>吧！	<span color="#ffc500">ラッシュゲート</>を利用し、風のように<span color="#ffc500">2周</>しよう！	<span color="#ffc500">가속 문</>을 이용해 바람처럼 빠르게 <span color="#ffc500">2바퀴 파쿠르를 완수하자!</>	Utilize the <span color="#ffc500">speed gates</> and <span color="#ffc500">finish 2 laps</> as quickly as possible!						0	2.5海姆向前冲
+partygo_level9614_des	不要被巨大的弹球从平台上弹飞，小心地<span color="#ffc500">以最快速度冲向终点吧！</>	不要被巨大的彈球從平台上彈飛，小心地<span color="#ffc500">以最快速度衝向終點吧！</>	巨大ピンボールに高台から弾き飛ばされないように注意しながら、<span color="#ffc500">最速でゴールしよう！</>	성난 공에게 플랫폼 밖으로 튕겨 나가지 않도록 조심하고, <span color="#ffc500">최대한 빠르게 결승점을 향해 질주하자!</>	Be careful to not bounce off of those giant bouncers, and <span color="#ffc500">race to the finish in the shortest time!</>						0	2.5海姆向前冲
+partygo_level9615_des	在不断旋转的转盘上专心躲避各种障碍，并<span color="#ffc500">留到最后吧！</>	在不斷旋轉的轉盤上專心躲避各種障礙，並<span color="#ffc500">留到最後！</>	回る円盤上で様々な障害物を避けて、<span color="#ffc500">最後まで生き残れ！</>	끊임없이 회전하는 룰렛 위에서 다양한 장애물을 집중해서 피하고, <span color="#ffc500">끝까지 살아남자!</>	Dodge the obstacles on the spinning wheel and <span color="#ffc500">be the last one standing!</>						0	2.5海姆向前冲
+partygo_level9616_des	赶快记起<span color="#ffc500">显示屏上出现的图案</>在哪块地板上，快速站上去<span color="#ffc500">对应的地板</>，<span color="#ffc500">一直留到最后吧！</>	趕快記起<span color="#ffc500">顯示器上出現的圖案</>在哪塊地板上，快速站上去<span color="#ffc500">對應的地板</>，<span color="#ffc500">一直留到最後吧！</>	<span color="#ffc500">スクリーンに映った画像</>が表示されている床を覚えて、速やかに<span color="#ffc500">対応する床</>に立ち、<span color="#ffc500">最後まで生き残ろう！</>	<span color="#ffc500">화면에 나타난 그림</>이 어느 바닥에 있는지 기억하고, 빠르게 <span color="#ffc500">해당하는 바닥</> 위에 서있어야 한다. <span color="#ffc500">마지막까지 최대한 버텨보자!</>	Quickly memorize <span color="#ffc500">the patterns on the screen</>, find the <span color="#ffc500">matching tiles</>, and <span color="#ffc500">survive till the end!</>						0	2.5海姆向前冲
+partygo_level9617_des	注意不要从滚筒掉下，<span color="#ffc500">一直留到最后吧！</>	注意不要從滾筒掉下，<span color="#ffc500">一直留到最後！</>	ローラーから落ちるな！<span color="#ffc500">最後まで生き残ろう！</>	롤러에서 떨어지지 않도록 주의해야 한다. <span color="#ffc500">마지막까지 최대한 버텨보자!</>	Keep your balance on the rollers, and <span color="#ffc500">be the last one standing!</>						0	2.5海姆向前冲
+partygo_level9618_des	<span color="#ffc500">每层地板被踩过之后都会彻底消失</>，快点找到下一个落脚点，坚持别掉下平台，<span color="#ffc500">一直到最后！</>	<span color="#ffc500">每層地板被踩過之後都會徹底消失</>，快點找到下一個落腳點，堅持別掉下平台，<span color="#ffc500">一直到最後！</>	<span color="#ffc500">踏むと消える床</>から落ちないように次の足場を確保して、<span color="#ffc500">最後まで踏ん張ろう！</>	<span color="#ffc500">각 층의 바닥은 밟으면 완전히 사라진다.</> 빠르게 다음 발판을 찾아서 플랫폼에서 떨어지지 않도록 주의해야 한다. <span color="#ffc500">마지막까지 최대한 버텨보자!</>	<span color="#ffc500">Each block disappears after you step on it</>. So move fast, find your next spot, and <span color="#ffc500">stay on the platform till the end!</>						0	2.5海姆向前冲
+partygo_level9619_des	躲避平台上的各种障碍并利用<span color="#ffc500">冲刺技能</>，以最快速度<span color="#ffc500">完成2圈跑酷</>吧！	躲避平台上的各種障礙物並利用<span color="#ffc500">衝刺技能</>，以最快速度<span color="#ffc500">完成2圈跑酷</>吧！	円盤上にある様々な障害物を避けつつ、<span color="#ffc500">スプリント</>を使って最大速度で<span color="#ffc500">2周</>しよう！	플랫폼의 다양한 장애물을 피하고 <span color="#ffc500">돌진 스킬</>을 활용해 최대한 빨리 <span color="#ffc500">2바퀴를 완주해 보자!</>	Dodge the obstacles on the platform and utilize your <span color="#ffc500">Sprint skill</> to finish <span color="#ffc500">2 laps</> in the shortest time!						0	2.5海姆向前冲
+partygo_level9620_des	脚下的地板会<span color="#ffc500">随着时间流失而分批消失</>，尽全力不要掉下去。利用<span color="#ffc500">炸弹道具</>可以让其他选手掉下平台，但同时也要保护好自己。<span color="#ffc500">尽情捣蛋吧！</>	腳下的地板會<span color="#ffc500">隨著時間流失而分批消失</>，盡力不要掉下去。利用<span color="#ffc500">炸彈道具</>可以讓其他選手掉下平台，但同時也要保護好自己。<span color="#ffc500">盡情搗蛋吧！</>	<span color="#ffc500">時間が経つにつれて消える</>床から、落ちないように注意しよう。<span color="#ffc500">爆弾</>を使って他の選手を高台から落とせるが、自分の身もしっかり守らなければ。<span color="#ffc500">思う存分いたずらしよう！</>	발 밑에 있는 바닥은 <span color="#ffc500">시간이 지나면 단계적으로 사라진다.</> 최대한 떨어지지 않도록 주의하자. <span color="#ffc500">폭탄 아이템</>을 이용하면 다른 참가자를 플랫폼에서 떨어뜨릴 수 있지만, 동시에 자신도 잘 지켜내야 한다. <span color="#ffc500">상대방을 최대한 방해하는 것이 관건이다!</>	The blocks will <span color="#ffc500">disappear over time</>, so be careful not to fall! Use <span color="#ffc500">bombs</> to knock others off the platform, but stay safe yourself. <span color="#ffc500">Let the chaos ensue!</>						0	2.5海姆向前冲
+partygo_level9621_des	利用<span color="#ffc500">炸弹道具</>可以让其他选手先掉下平台，但同时也要保护好自己，千万别掉下平台。<span color="#ffc500">尽情捣蛋吧！</>	利用<span color="#ffc500">炸彈道具</>可以讓其他選手先掉下平台，但同時也要保護好自己，千萬別掉下平台。<span color="#ffc500">盡情搗蛋吧！</>	<span color="#ffc500">爆弾</>を使って他の選手を高台から落とせるが、自分の身もしっかり守らなければ。落ちないように用心しながら、<span color="#ffc500">思う存分いたずらしよう！</>	<span color="#ffc500">폭탄 아이템</>을 이용하면 다른 참가자를 먼저 플랫폼에서 떨어뜨릴 수 있지만, 동시에 자신도 플랫폼에서 떨어지지 않도록 주의해야 한다. <span color="#ffc500">상대방을 최대한 방해하는 것이 관건이다!</>	Use <span color="#ffc500">bombs</> to knock others off the platform, but stay safe yourself. <span color="#ffc500">Let the chaos ensue!</>						0	2.5海姆向前冲
+partygo_level9622_des	利用<span color="#ffc500">飞扑技能</>越过圆环吧！<span color="#4F8FFFFF">蓝色1分；</><span color="#ffc500">橙色3分；</><span color="#F10CFBFF">紫色5分；</>选择合适的方法才能获取更多积分~	利用<span color="#ffc500">飛撲技能</>越過圓環吧！<span color="#4F8FFFFF">藍色1分；</><span color="#ffc500">橙色3分；</><span color="#F10CFBFF">紫色5分；</>選擇合適的方法才能獲得更多積分~	<span color="#ffc500">タックル</>を活用し輪をくぐろう！<span color="#4F8FFFFF">青は1ポイント</>、<span color="#ffc500">オレンジは3ポイント</>、<span color="#F10CFBFF">紫は5ポイント</>。より多くのポイントを得るために適切なルートを選ぼう。	<span color="#ffc500">돌진 기술</>을 이용해 링을 넘어야 한다. <span color="#4F8FFFFF">블루 1점</>, <span color="#ffc500">오렌지 3점</>, <span color="#F10CFBFF">퍼플 5점</>. 적절한 방법을 선택해 더 많은 점수를 획득해 보자.	Utilize the <span color="#ffc500">Dive skill</> to pass through rings and collect points! Earn <span color="#4F8FFFFF">1 point for Blue,</> <span color="#ffc500">3 points for Orange,</> and <span color="#F10CFBFF">5 points for Purple</>. Choose your strategy wisely to score big!						0	2.5海姆向前冲
+HideAndSeek_Skill01_name	复制体	複製體	複製体	복제체	Copy Machine						0	2.7海姆向前冲
+HideAndSeek_Skill02_name	光学迷彩	光學迷彩	光学迷彩	광학 위장	Optical Camo						0	2.7海姆向前冲
+HideAndSeek_Skill03_name	扫描仪	掃描儀	スキャナー	스캐너	Scanner						0	2.7海姆向前冲
+HideAndSeek_Skill04_name	定位仪	定位儀	GPSデバイス	로케이터	Locator						0	2.7海姆向前冲
+HideAndSeek_Skill01_des	使用后，将复制1个当前拟态的物品留在原地，场上至多存在%d个复制体\n注：非拟态时不可使用	使用後，將複製1個目前擬態的物品留在原地，場上至多存在%d個複製體\n註：非擬態時不可使用	使用すると、擬態中のオブジェクトを1つコピーし、その場に残す。コピーはフィールド上に最大%d個まで存在できる。\n※擬態状態でのみ使用可能	사용 후, 현재 의태 아이템을 1개 복제하여 제자리에 남겨두며, 필드에 최대 %d개의 복제체가 존재할 수 있다.\n주의: 의태가 아닐 경우 사용할 수 없음	Place 1 copy of your current disguise. Max %d copies can exist at once.\nNote: Must be disguised as object to use.						0	2.7海姆向前冲
+HideAndSeek_Skill02_des	使用后，进入持续%d秒的隐身状态	使用後，進入持續%d秒的隱身狀態	使用すると、%d秒間ステルス状態に入る	사용 후, %d초 동안 지속되는 은신 상태에 들어간다.	Become invisible for %d sec.						0	2.7海姆向前冲
+HideAndSeek_Skill03_des	使用后，以自身为中心生成1个持续%d秒的扫描区域，当有【躲避方】进入扫描区域，区域将会变色做出提醒	使用後，以自身為中心產生1個持續%d秒的掃描區域，當有【躲避方】進入掃描區域，區域將會變色做出提醒	使用すると、自身を中心にスキャンエリアを%d秒間生成する。【逃走側】がエリアに入ると、範囲が変色し、通知が表示される	사용 후, 자신을 중심으로 %d초 동안 지속되는 스캔 구역을 1개 생성하고, [도망자]가 스캔 구역에 진입하면 구역의 색상이 변경된다.	Create 1 scanning area around you for %d sec. The area will change color when a hider is detected within.						0	2.7海姆向前冲
+HideAndSeek_Skill04_des	使用后，持续追踪离自身最近的1位【躲避方】	使用後，持續追蹤離自身最近的1位【躲避方】	使用すると、自身の最も近くにいる【逃走側】1人を追跡し続ける	사용 후, 자신과 가장 가까운 1명의 [도망자]를 지속적으로 추적한다.	Continuously tracks the hider closest to you.						0	2.7海姆向前冲
+partygoal_HAS_1	抓捕目标	抓捕目標	捕獲対象	추적 대상	Seeker Objective						0	2.7海姆向前冲
+partygoal_HAS_2	躲藏目标	躲藏目標	隠密対象	회피 대상	Hider Objective						0	2.7海姆向前冲
+partygoal_HAS_3	已追捕	已追捕	捕獲済	추적함	Caught						0	3.6海姆向前冲
+partygoal_HAS_4	躲藏中	躲藏中	逃走中	도망 중	Hiding						0	3.6海姆向前冲
+partyHAS_state_1	躲避方完成躲藏，追捕方开始追捕！	躲避方完成躲藏，追捕方開始追捕！	逃走側が隠れた、追跡開始！	도망자가 숨었습니다. 추적자는 추적을 시작합니다!	Hiders have taken their positions. Get seeking!						0	2.7海姆向前冲
+partyHAS_state_2	躲避方强制切换拟态，追捕方技能使用间隔减少	躲避方強制切換擬態，追捕方技能使用間隔減少	逃走側の擬態が強制的に切り替わり、追跡側のスキルクールタイムが短縮された	도망자가 강제로 의태를 전환하면 추적자의 스킬 쿨타임이 줄어듭니다.	Hiders forced to change disguises. Seeker skill cooldown decreased.						0	2.7海姆向前冲
+partyHAS_state_3	即将终局，追捕能力增强！	即將終局，追捕能力增強！	終局間近、追跡能力強化！	게임이 곧 종료되는 관계로 추적 능력이 강화되었습니다!	It's the final hunt. Seeker abilities boosted!						0	3.6海姆向前冲
+partyHAS_state_4	躲避方强制切换拟态！	躲避方強制切換擬態！	逃走側の擬態が強制的に切り替わった！	도망자는 의태로 강제 변경됩니다!	Hider forced to change disguises!						0	3.6海姆向前冲
+partygo_level9623	水上乐园·集市	水上樂園·集市	水上楽園・市場	수상 낙원·마켓	Water Park: Market						0	2.7海姆向前冲
+partygo_level9624	水上乐园·通道	水上樂園·通道	水上楽園・通路	수상 낙원·통로	Water Park: Path						0	2.7海姆向前冲
+partygo_level9625	水上乐园·舞台	水上樂園·舞台	水上楽園・ステージ	수상 낙원·무대	Water Park: Stage						0	2.7海姆向前冲
+partygo_level9623_des	热闹的水上乐园，是非常适合捉迷藏的地方	熱鬧的水上樂園，是個非常適合捉迷藏的地方	にぎやかな水上楽園は、かくれんぼにぴったりの場所だ	시끌벅적한 수상 낙원. 숨바꼭질하기에 완벽한 장소라고 할 수 있다.	A lively water park is a perfect place for hide-and-seek						0	2.7海姆向前冲
+partygo_level9624_des	热闹的水上乐园，是非常适合捉迷藏的地方	熱鬧的水上樂園，是個非常適合捉迷藏的地方	にぎやかな水上楽園は、かくれんぼにぴったりの場所だ	시끌벅적한 수상 낙원. 숨바꼭질하기에 완벽한 장소라고 할 수 있다.	A lively water park is a perfect place for hide-and-seek						0	2.7海姆向前冲
+partygo_level9625_des	热闹的水上乐园，是非常适合捉迷藏的地方	熱鬧的水上樂園，是個非常適合捉迷藏的地方	にぎやかな水上楽園は、かくれんぼにぴったりの場所だ	시끌벅적한 수상 낙원. 숨바꼭질하기에 완벽한 장소라고 할 수 있다.	A lively water park is a perfect place for hide-and-seek						0	2.7海姆向前冲
+partygo_level9623_des1	每个看起来合理的、不合理的物件都可能是对手的伪装，把躲起来的选手都找出来吧	每個看起來合理的、不合理的物件都可能是對手的偽裝，把躲起來的選手都找出來吧	見た目は普通でも、実は不自然なオブジェクトが混ざっているかも。隠れている人たちを見つけ出そう	겉보기에 합리하거나 불합리한 물체는 모두 상대방의 위장일 수 있습니다. 숨어 있는 모든 상대를 찾아내세요.	Any object, normal or suspicious, could be the opponent in disguise. Find all of the hiders!						0	2.7海姆向前冲
+partygo_level9623_des2	伪装、隐藏、逃跑，总之逃过他们的追捕吧	偽裝、隱藏、逃跑，總之逃過他們的追捕吧	擬態して、隠れて、逃げ回って、とにかく追跡から逃げ切れ	위장, 은폐, 도망 등 다양한 수단을 통해 상대방의 추적을 회피하세요.	Disguise, hide, run — whatever it takes to avoid getting caught!						0	2.7海姆向前冲
+partygo_level9624_des1	每个看起来合理的、不合理的物件都可能是对手的伪装，把躲起来的选手都找出来吧	每個看起來合理的、不合理的物件都可能是對手的偽裝，把躲起來的選手都找出來吧	見た目は普通でも、実は不自然なオブジェクトが混ざっているかも。隠れている人たちを見つけ出そう	겉보기에 합리하거나 불합리한 물체는 모두 상대방의 위장일 수 있습니다. 숨어 있는 모든 상대를 찾아내세요.	Any object, normal or suspicious, could be the opponent in disguise. Find all of the hiders!						0	2.7海姆向前冲
+partygo_level9624_des2	伪装、隐藏、逃跑，总之逃过他们的追捕吧	偽裝、隱藏、逃跑，總之逃過他們的追捕吧	擬態して、隠れて、逃げ回って、とにかく追跡から逃げ切れ	위장, 은폐, 도망 등 다양한 수단을 통해 상대방의 추적을 회피하세요.	Disguise, hide, run — whatever it takes to avoid getting caught by the seekers!						0	2.7海姆向前冲
+partygo_level9625_des1	每个看起来合理的、不合理的物件都可能是对手的伪装，把躲起来的选手都找出来吧	每個看起來合理的、不合理的物件都可能是對手的偽裝，把躲起來的選手都找出來吧	見た目は普通でも、実は不自然なオブジェクトが混ざっているかも。隠れている人たちを見つけ出そう	겉보기에 합리하거나 불합리한 물체는 모두 상대방의 위장일 수 있습니다. 숨어 있는 모든 상대를 찾아내세요.	Any object, normal or suspicious, could be the opponent in disguise. Find all of the hiders!						0	2.7海姆向前冲
+partygo_level9625_des2	伪装、隐藏、逃跑，总之逃过他们的追捕吧	偽裝、隱藏、逃跑，總之逃過他們的追捕吧	擬態して、隠れて、逃げ回って、とにかく追跡から逃げ切れ	위장, 은폐, 도망 등 다양한 수단을 통해 상대방의 추적을 회피하세요.	Disguise, hide, run — whatever it takes to avoid getting caught by the seekers!						0	2.7海姆向前冲
+partygo_level9626	喧闹小镇	喧鬧小鎮	賑やかな町	혼돈 마을	Havoc Town						0	3.2海姆优化作战
+partygo_level9627	曲率美学	曲率美學	丸い罠	곡률 미학	Circle Cascade						0	3.2海姆向前冲
+partygo_level9628	门扉穿梭	門扉穿梭	ゲートシフト	도어 워프	Gateway Gauntlet						0	3.2海姆向前冲
+partygo_level9629	方型硬币盒	方型硬幣盒	スクエアコインラッシュ	사각형 동전 상자	Flip Floor						0	3.2海姆向前冲
+partygo_level9630	翻滚爱好者	翻滾愛好者	ゴロゴロゴロ	텀블링 애호가	Tumble Trouble						0	3.2海姆向前冲
+partygo_level9632	喧闹小镇	喧鬧小鎮	賑やかな町	혼돈 마을	Havoc Town						0	3.2海姆优化作战
+partygo_level9633	决胜之城	決勝之城	決勝の城	결전의 도시	Victory City						0	DLC35海姆优化作战地图
+partygo_level9634	回声广场	迴聲廣場	エコー広場	메아리 광장	Echo Plaza						0	DLC35海姆优化作战地图
+partygo_level9626_des	不是哈姆的喧闹让小镇亮起了灯火，那只是安卡希雅在赶工测试而已！	不是哈姆的喧鬧讓小鎮亮起了燈火，那只是安卡希雅在趕工測試而已！	ハムが騒がしくしたから町に灯りが点いたのではなく、アカシアがテストをしていただけ！	 '햄'들의 소란 때문에 마을에 불빛이 켜진 게 아니에요. 아카시아가 야근하며 테스트하는 중이랍니다!	The town is bustling with the havoc of Acacia's last-minute optimization tests!						0	3.2海姆优化作战
+partygo_level9627_des	又大又圆还有缝！别被迷晕了，快走！圆盘和圆球非常容易让你从平台上坠落！	又大又圓還有縫！別被迷暈了，快走！圓盤和圓球非常容易讓你從平台上墜落！	大きくて丸くて隙間もある…！惑わされずに早く逃げて！円盤や球体は転がりやすいから！	크고 둥글고 틈까지 갖췄어요! 현혹되지 말고 빨리 움직이세요! 원반과 공 때문에 플랫폼에서 추락하기 쉬우니까요!	Don't be mesmerized by the massive round obstacles — move fast! Those spinning discs and spheres will send you tumbling off the platform!						0	3.2海姆向前冲
+partygo_level9628_des	勇往直前！试着一次冲过开开合合的门板吧！做不到的话不要勉强，找准时机冲过去也可以过关！	勇往直前！試著一次衝過開開合合的門板吧！做不到的話不要勉強，找準時機衝過去也可以過關！	勇往邁進！開閉するドアをタイミングよく駆け抜けろ！焦らずリズムを掴めば、ゴールはすぐそこ！	용맹한 돌진! 열리는 문과 닫히는 문을 한 번에 통과하세요! 안 된다면 무리하지 말고 적절한 타이밍을 찾아보세요!	See if you can charge through all those moving gates in one go! Can't pull it off? No worries, just time it right and you'll make it through!						0	3.2海姆向前冲
+partygo_level9629_des	嘿，见过方块形状的硬币吗？据说一直维持正面的人会有好运！	嘿，見過方塊形狀的硬幣嗎？據說一直維持正面的人會有好運！	四角いコインを見たことある？ずっと表を出し続けた人には幸運が訪れるらしいよ！	네모난 동전을 본 적 있나요? 항상 앞면이 나오면 행운이 온다고 하더라고요!	A floating floor in the sky is already dangerous enough, but the tiles flip, too!? Stay on the right side and avoid falling!						0	3.2海姆向前冲
+partygo_level9630_des	这些圆盘和滚筒学会了翻滚动作！请使出浑身解数抵达终点吧！	這些圓盤和滾筒學會了翻滾動作！請使出渾身解數抵達終點吧！	ここにある円盤とローラーは転がる技を覚えた！全力でゴールを目指そう！	원반과 롤들이 구르는 법을 배웠어요! 결승선까지 도달하기 위해 전력을 다해 보세요!	These giant rollers and rings sure like to spin! Navigate the tumbling obstacles and make it to the finish line!						0	3.2海姆向前冲
+partygo_level9632_des	不是哈姆的喧闹让小镇亮起了灯火，那只是安卡希雅在赶工测试而已！	不是哈姆的喧鬧讓小鎮亮起了燈火，那只是安卡希雅在趕工測試而已！	ハムが騒がしくしたから町に灯りが点いたのではなく、アカシアがテストをしていただけ！	 '햄'들의 소란 때문에 마을에 불빛이 켜진 게 아니에요. 아카시아가 야근하며 테스트하는 중이랍니다!	The town is bustling with the havoc of Acacia's last-minute optimization tests!						0	3.2海姆优化作战
+partygo_level9633_des	武器、阳光、决心，此刻已做好完全准备，是时候和哈姆进行最终决战了！	武器、陽光、決心，此刻已做好完全準備，是時候和哈姆進行最終決戰了！	武器、陽光、そして決意。準備は万全、いざハムとの最終決戦へ！	무기, 햇빛, 결심, 모든 게 준비된 이 순간, '햄'과의 마지막 대결을 펼칠 시간이다!	Weapons, sunlight, determination — everything is ready. Time for an epic showdown with the H.A.M.M.s!						0	DLC35海姆优化作战地图
+partygo_level9634_des	哈姆们想把快乐分享给广场上的每个人，接受还是拒绝，这是一个问题。	哈姆們想把快樂分享給廣場上的每個人，接受還是拒絕，這是一個問題。	広場のみんなに喜びを配りたいハムたち。受け入れる？それとも断る？	 '햄'은 스퀘어에 있는 모든 사람과 기쁨을 나누고 싶어 한다. 수락하느냐 거절하느냐? 그것이 문제로다.	The H.A.M.M.s want to share their "joy" with everyone in the plaza. But how will it be received?						0	DLC35海姆优化作战地图
+TxtPartyGuide1	“哈姆”用近战攻击会将“大玩家”同化为“小哈姆”	「哈姆」用近戰攻擊會將「大玩家」同化為「小哈姆」	「ヘイムボーイ」が「ハム」の近接攻撃を受けると、「ハムーン」に同化されてしまう！	 '햄'은 근접 공격으로 '히어로'를 '미니 햄'으로 동화시킵니다.	H.A.M.M.s can use melee attacks to turn H.E.R.O.s into Mini H.A.M.M.s!						0	3.2海姆优化作战
+TxtPartyGuide2	你是海姆大玩家，请选择武器，在30秒内通过射击击败“哈姆”！	你是海姆大玩家，請選擇武器，在30秒內透過射擊擊敗「哈姆」！	あなたは「ヘイムボーイ」！ 武器を選び、30秒以内に射撃で「ハム」を撃破せよ！	당신은 헤임달 히어로입니다. 무기를 선택하고, 30초 안에 사격으로 '햄'을 격파하세요!	You are a H.E.R.O. Choose a weapon and defeat H.A.M.M.s within 30 sec!						0	3.2海姆优化作战
+TxtPartyGuide3	“哈姆军团”重生了！海姆大玩家，请存活到最后！	「哈姆軍團」重生了！海姆大玩家，請存活到最後！	「ハム軍団」がリスポーン！ 「ヘイムボーイ」、最後まで生き残れ！	'햄 군단'이 부활했습니다! 헤임달 히어로님, 부디 끝까지 생존하세요!	The H.A.M.M. Legion rises again! H.E.R.O.s, survive to the end!						0	3.2海姆优化作战
+partygo_level9637	海岛迷踪	海島迷蹤	海島の迷い路	섬의 미로	Island Escape						0	3.6海姆向前冲
+partygo_level9638	轻风乐园	輕風樂園	そよ風楽園	바람 낙원	Breezy Ground						0	3.6海姆向前冲
+partygo_level9639	静谧小镇	靜謐小鎮	静かな町	고요한 마을	Tranquil Town						0	3.6海姆向前冲
+partygo_level9637_des	阳光明媚，欢乐无限，到惬意的海岛玩一场轻松的捉迷藏吧！	陽光明媚，歡樂無邊，到愜意的海島玩一場輕鬆的捉迷藏吧！	陽射しがまぶしく、楽しさ満点。心地いい海島でかくれんぼしよう！	쨍쨍한 햇볕 아래 끊임없이 이어지는 재미! 아늑한 섬으로 가서 숨바꼭질 게임을 즐겨보세요!	Enjoy a game of hide-and-seek on this laid-back island under the sun!						0	3.6海姆向前冲
+partygo_level9638_des	温柔的清风吹拂着所有人的脸庞——嘘，都藏好，可别暴露了！	溫柔的清風吹拂著所有人的臉龐——噓，都藏好，可別暴露了！	そよ風が優しく頰を撫でて…この楽園は間違いなく、かくれんぼにぴったりな場所！ちゃんと隠れてね～	온화한 산들바람이 모두의 얼굴을 스칩니다… 쉿, 다 숨으세요! 들키면 안 돼요!	The breeze here may be gentle, but a game of hide-and-seek can get fierce!						0	3.6海姆向前冲
+partygo_level9639_des	在恬适的度假小镇中玩捉迷藏，也是一种熟悉这里风情的方式哦！	在恬適的度假小鎮玩捉迷藏，也是一種熟悉這裡風情的途徑哦！	のんびりしたリゾートタウンでかくれんぼするのも、この場所を知る一つの楽しみ方だよ。	느긋한 휴양 마을에서 숨바꼭질하는 것도 이곳의 분위기를 느끼는 좋은 방법이죠!	Experience the charm of this resort town through a game of hide-and-seek!						0	3.6海姆向前冲

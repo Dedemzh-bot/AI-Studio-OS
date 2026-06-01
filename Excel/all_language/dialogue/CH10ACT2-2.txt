@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	前面就是深水区了，难闻的污染味道……	前面就是深水區了，難聞的汙染味道……	もうすぐ深海エリア……汚染の匂いがプンプンするわね……	이 앞이 바로 심수 구역인 거 같아. 오염 냄새가 정말 역하군…	The Drowned Sections is up ahead. I can smell the foul stench of contamination...						0	
+2	污染有味道吗？	汙染有味道嗎？	汚染の匂い？	오염도 냄새가 나?	Does contamination smell like anything?						0	
+3	是比喻啦！比喻！	是比喻啦！比喻！	比喩表現よ！比喩！	그냥 비유 좀 해본 거야! 비유!	It was a metaphor! A metaphor!						0	

@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	（大叹气）	(大口嘆氣)	……はあああああぁぁぁぁぁ……	(깊은 한숨을 쉰다)	*sigh*...						0	
+page0.2	今天明明是休假，你怎么还唉声叹气的？	今天明明是休假，你怎麼還唉聲嘆氣的?	……今日って休みだよな？どうした、そんなため息ついて。	왜 땅이 꺼지도록 한숨을 쉬어? 오늘 휴가잖아.	We have the day off, so why are you sighing?						0	
+page0.3	毕竟，那个恐怖的事就要来了。	畢竟，那個恐怖的事就要來了。	呑気なことを……わからんのか……もうすぐやってくる……あぁなんと恐ろしい……	무서운 일이 곧 오고야 말 테니까.	Something terrible is coming, of course.						0	
+page0.4	我还要亲自选一个时间，去迎接那个恐怖的事情。	我還要親自選一個時間，去迎接那個恐怖的事情。	日時も自分で選ばなければならないなんて……	게다가 내가 직접 시간을 선택해서 그 끔찍한 일을 맞이해야만 하지.	I'm even expected to pick a time to deal with that terrible thing myself.						0	
+page0.5	除了假期用光……	除了假期用光……	休暇を使い切る以外に……	휴가를 다 써버린 건 아닐 텐데…	Other than using up all of your vacation days...						0	
+page0.6	我想象不到还有什么会让你觉得恐怖。	我想像不到還有什麼事情會讓你覺得恐怖。	君にとって恐ろしいことがあるなんて想像できない。	네가 그 정도로 무서워하는 일이 또 뭐가 있어?	I can't think of anything else that would scare you.						0	
+page0.7	体检啊！体检……例行体检又要开始了。	體檢啊!體檢……定期健康檢查又要來了。	身体検査だよ！もうすぐ始まるんだよ……定期検査が。	건강검진 말이야! 건강검진… 정기 검진이 곧 시작될 거야.	My physical! Our routine physicals... are about to start.						0	
+page0.8	体检有什么可怕的？	體檢有什麼好怕的?	何が怖いの？	건강검진이 뭐가 무섭다는 거야?	What's so scary about a physical?						0	
+page0.9	况且你们天启者的身体素质，一向比常人要强很多啊。	況且你們天啟者的身體素質，一向比普通人還強很多啊。	君たち覚醒者の体は一般人よりはるかに強いんだし。	게다가 계시자들의 신체 조건은 일반 사람들보다 훨씬 뛰어나잖아.	Anyway, you Manifestations are way more physically fit than ordinary people.						0	
+page0.10	身体素质好，不见得就不会累积后天的职业病……	身體素質好，不見得就不會有後天的職業病……	体質に恵まれてるとはいえ、後天的な職業病が溜まらないわけじゃない……	신체 조건이 좋다고 해서 후천적인 직업병이 생기지 않는 건 아니니까…	Even if I'm physically fit, it doesn't mean I won't contract any work-related illnesses...						0	
+page0.11	而且我平时已经很注重养生了，怎么还会有这么多症状？	而且我平時都很注意養生，怎麼還會有那麼多症狀?	それに普段から健康に注意しているのに、なぜこんなにたくさんの症状があるというの？	그리고 난 평소에 건강 관리를 잘하고 있는데, 아픈 데가 왜 이렇게 많은 걸까?	I already pay a lot of attention to my health, so why do I have so many symptoms?						0	
+page0.12	你懂社会性死亡的恐怖吗！	你懂社會性死亡的恐怖嗎!	社会から疎外される恐ろしさを知ってるの！？	네가 사회적 죽음의 공포를 알기나 해!	Do you understand how terrible it is to be ostracized by society!?						0	

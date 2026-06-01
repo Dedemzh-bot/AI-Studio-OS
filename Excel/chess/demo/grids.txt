@@ -1,0 +1,28 @@
+格子Id	注释	格子背景	文字颜色	层级	高度偏移	缩放	格子大小	地块类型(walkable/block)	默认旋转	是否可以交互	标签(start:起点,blockbox:阻挡箱子)，可以有多个	模型路径
+Id	Nul	Background	TxtColor	Layer	Offset	Scale	Size	LandType	Rotate	Interaction	Tags	ModelPath
+1	空	{0,0,0,0}										
+2	删除	{0,0,0,0}										
+3	资源丢失	{0,0,0}	{255,255,255}	6	0	{1,1,1}	{1,1}	block				
+4	空地面(程序使用)	{255,255,255}	{0,0,0}				1	2			{1,1,1}	{1,1}	walkable							/Game/Blueprints/chess/dlc1/chess01_solo001_05_sm.chess01_solo001_05_sm_C
+												
+												
+10	平地	{255,255,255,128}		1	0	{0.99,0.99,1}	{1,1}	walkable				/Game/Blueprints/Chess/demo/Cube_Grey.Cube_Grey_C
+11	鱼塘	{0,0,255}		1	0	{1,1,1}	{1,1}	block				/Game/Blueprints/Chess/demo/Cube_Blue.Cube_Blue_C
+												
+												
+												
+20	出生点	{255,255,255}	{0,0,0}	2	0	{1,0.1,1}	{1,1}	walkable			start	/Game/Blueprints/Chess/demo/Empty.Empty_C
+21	箱子\n接收	{255,255,255}	{0,0,0}	2	-0.08	{1,1,0.1}	{1,1}	walkable				/Game/Blueprints/Chess/demo/Cube_Green_NoCollision.Cube_Green_NoCollision_C
+22	传送点	{255,255,255}	{0,0,0}	2	0	{1,1,1}	{1,1}	walkable				/Game/Blueprints/Chess/demo/Empty.Empty_C
+												
+												
+30	房子1	{255,255,255}	{0,0,0}	2	0	{1,1,1}	{1,1}	block				/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C
+32	阻挡	{255,255,255}	{0,0,0}	2	0	{1,1,1}	{1,1}	block				/Game/Blueprints/Chess/demo/Cube_Red.Cube_Red_C
+33	箱子	{255,255,255}	{0,0,0}	2	0	{1,1,1}	{1,1}	block		1		/Game/Blueprints/Chess/demo/Cube_Push_Box.Cube_Push_Box_C
+34	箱子复位	{255,255,255}	{0,0,0}	2	0	{1,1,1}	{1,1}	block		1		/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C
+												
+												
+50	房子2	{255,255,255}	{0,0,0}	3	0	{2,2,1}	{2,2}	block				/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C
+51	房子1	{255,255,255}	{0,0,0}	3	0	{1,1,1}	{1,1}	block				/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C
+52	房子3	{255,255,255}	{0,0,0}	3	0	{3,3,1}	{3,3}	block				/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C
+53	房子4	{255,255,255}	{0,0,0}	3	0	{4,4,1}	{4,4}	block				/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C

@@ -1,0 +1,6 @@
+关卡ID	关卡名(必须全小写，周浩然留)	密匙晶片	样本道具	点数道具	点数获取上限单期	点数转换率 {普通样本，超样本}	样本转化率（普通样本->超样本）	角色CD 秒	共振率最大值	猎杀者ID	DLC3击杀怪物获取探索经验限制
+LevelID	LevelName	KeyItem	DataItem	PointItem	PointMax	ExchangeRate	SimpleRate	CardCD	GZMax	Hunters	MaxDailyExp
+11	owlevel_01	{5,24,2,1}	{5,24,3,1}	{4,1,6,3}	300	{0.025,0}	1000	1800	10000	{500150104,500150404}	
+35	dlc3_openworld		{4,1,9,2}					1800			600
+5460	huntingground_01	{5,24,2,1}	{5,24,3,1}	{4,1,6,3}	300	{0.025,0}	1000	1800	10000	{500150104,500150404}	
+5461	huntingground_02		{4,1,9,2}					1800			600

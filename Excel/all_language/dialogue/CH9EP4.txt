@@ -1,0 +1,83 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我们赶到了庚号大门，与辰星预计的时间分毫不差。	我們趕到了庚號大門，與辰星預計的時間分毫不差。	姫辰星が予測した時間ぴったりに、「第7ゲート」に到着した。	우리가 7번 게이트에 도착한 시간은 수성이 예상한대로였다.	We arrived at Gate Seven precisely when Chenxing calculated.						0	
+2	安全部的武装干员比我们更早到达，正在辰星的指挥下与郊狼激烈交火……令我惊讶的是，她竟然会亲自来到交战区域。	安全部的武裝幹員比我們更早到達，正在辰星的指揮下與郊狼激烈交火……令我驚訝的是，她竟然會親自來到交戰區域。	安全部の武装オペレーターは私たちより早く現場に着き、姫辰星の指揮のもとでコヨーテと激戦中……何より驚いたのは、彼女が自ら交戦エリアにやってきていたことだ。	안전부 무장 간부들은 먼저 도착해서 수성의 지휘하에 코요테와 교전 중이었다. 더 놀라운 것은 수성이 직접 교전 구역까지 왔다는 것이다.	The armed Security officers had arrived and begun fighting the Coyotes under Chenxing's command... She had personally come to the battlefield, to my surprise.						0	
+3	第四小队，到达地图编号为五十八的建筑物了吗？	第四小隊，到達地圖編號為五十八的建築物了嗎？	第4チーム、マップナンバー58のビルに到着しましたか？	제4소대, 좌표에 있는 58호 건축물에 도착했나요?	Squad 4, have you reached the 58th Building?						0	
+4	报告，已经抵达制定坐标，正在待命。	報告，已經抵達制定座標，正在待命。	はい、すでに指定座標に到着。現在待機中にあります。	보고합니다. 지정 좌표에 도착해 대기 중입니다.	Reporting, we've arrived at the coordinates and are on standby.						0	
+5	沿地下停车场零三号通道，前进七十五米后左转，进入应急消防楼梯，记得确认楼栋号是三栋。	沿地下停車場零三號通道，前進七十五公尺後左轉，進入緊急消防樓梯，記得確認樓棟號是三棟。	地下駐車場の03番通路を75メートル直進。突き当たりを左折し、非常用消防階段に入ってください。建物番号が3。	지하 주차장 03호 통로를 따라서 75m 전진 후 좌회전해서 비상계단으로 들어가세요. 3호동 건물인지 다시 한번 확인하시고요.	Advance 75 meters along Passage 03 in the underground parking lot. Then, turn left to enter the emergency exit stairs. Remember to check the building number. Make sure you enter the 3rd building.						0	
+6	从消防楼梯向上三层，破开右侧的钢制消防门，消防门正对三楼三零零二室，继续破门，进入三零零二室。	從消防樓梯向上三層，破開右側的鋼製消防門，消防門正對三樓三零零二室，繼續破門，進入三零零二室。	非常階段から3階に上がり、右側に鋼製消防ドアがあります。消防ドアの奥に3階3002号室ありますので、3002号室に入ってください。ドアは全て破壊して構いません。	비상계단으로 3층 정도 올라가면 오른쪽에 철제 소방문이 있을 거예요. 소방문 방향에 3002호가 있으니 계속해서 뚫고 진입하시면 되고요.	Go up three floors via the fire escape stairs and break through the steel door on the right. Across the door is Room 3002, on the third floor. Break into Room 3002.						0	
+7	破门完成，已经进入三零零二室。	破門完成，已經進入三零零二室。	了解。ドアを破壊。3002号室オールグリーン。入室しました。	돌입 완료. 3002호에 진입했습니다.	We've broken into Room 3002.						0	
+8	很好，从三零零二室的北向窗口观测，你们应该已经位于郊狼武装集群的正后方，各自确认目标后允许开火。	很好，從三零零二室的北向窗口觀測，你們應該已經位於郊狼武裝集群的正後方，各自確認目標後允許開火。	了解。それでは3002号室の北方向の窓から観測すれば分かると思いますが、そこはコヨーテ武装集団の真後ろです。各自目標を確認後、発砲の許可を待ってください。	수신 완료. 3002호 북쪽 창문으로 내다보는 곳이 코요테 집단의 후방 구역이에요. 각자 타깃을 확인한 후에 발포 바랍니다.	Good. From the north-facing window of Room 3002, you should be right behind the armed Coyotes. After confirming the targets, you may proceed to fire.						0	
+10	我发现辰星在下达如此详实的命令时，没有倚靠任何辅助设备。	我發現辰星在下達如此詳實的命令時，沒有倚靠任何輔助設備。	細かい指示を出す際に、姫辰星が何の補助設備にも頼っていないことに気づいた。	난 이렇게나 상세히 지시를 하는 수성한테서 아무런 보조 장비도 발견할 수 없었다.	I realized Chenxing didn't use any supporting devices when giving such detailed orders.						0	
+10a	有意思……安全部在她手下发挥出了更多的战斗力。	有趣……安全部在她手下發揮出了更多的戰鬥力。	面白い。安全部は彼女の指揮下に入ったことで、さらに戦えるようになったようだ。	정말 놀랍군… 안전부가 그녀의 지휘 때문인지 더 높은 전투력을 선보이고 있어.	Interesting... The Security Department was showing more promise under her than it had under me.						0	
+11	分析员，看来你准时到达了。	分析員，看來你準時到達了。	時間通りに到着してくれたようですね、分析員。	분석가님, 제때 도착하셨네요.	Adjutant, it looks like you've arrived on time.						0	
+b-1											0	
+12	你对那栋楼好像很了解……	你對那棟樓好像很了解……	あのビルに相当詳しいようだな……	해당 건물에 대해 굉장히 잘 아시네요…	You seem to know that building well...						0	
+13	赶来的路上看了相关的资料……我没有在计划中预留客套的时间，我们直入主题吧。	趕來的路上看了相關的資料……我沒有在計劃中預留客套的時間，我們直入主題吧。	ここに来る途中で関連資料を読んだまでです……時間に余裕ありません、早速本題に入りましょう。	오는 길에 관련 자료를 좀 봤어요… 계획에 인사치레할 시간은 넣지 않았으니 바로 본론으로 들어갈게요.	I read some relevant materials on my way here... I didn't arrange any time for greetings in the plan. Let's cut to the chase.						0	
+14	我需要你带领海姆达尔部队，立刻沿十六号街巷推进，在五分钟内抵达这个位置……	我需要你帶領海姆達爾部隊，立刻沿十六號街巷推進，在五分鐘內抵達這個位置……	ヘイムダル部隊を率いて、直ちに16番街へ。5分以内にこの場所に到着してほしいのですが……	분석가님은 헤임달 부대를 이끌고 지금 바로 16호 거리를 따라 전진한 후, 5분 내로 이 위치로 도착하시면 돼요.	I need you to lead the Heimdall Force to instantly advance along Alley 16 and arrive at this location in 5 minutes...						0	
+15	这是一处变电站，你们需要切断连接中央线圈的所有供电线缆……	這是一處變電所，你們需要切斷連接中央線圈的所有配電線纜……	ここは変電所ですので、セントラルコイルへの給電ケーブルを全て切断する必要があります……	여긴 변전소에요. 분석가님이 이곳 중앙 코일의 전력 공급 케이블을 끊어주셔야 해요.	This is a substation. You need to cut all the power cables connected to the central coil...						0	
+16	这可以通过摧毁变电站的供电箱实现。大概率会遭到郊狼的骚扰和阻拦，但海姆达尔部队应该能够对付。	這可以通過摧毀變電所的配電箱實現。很高的機率會遭到郊狼的騷擾和阻攔，但海姆達爾部隊應該能夠對付。	変電所の配電ボックスを壊すことで実現できます。コヨーテの妨害が予想されますが、ヘイムダル部隊なら対応できるはずです。	물론 이건 변전소 통제실을 지나쳐야만 가능한 일이에요. 코요테가 저지하려고 발악 좀 하겠지만 헤임달 부대면 아마 충분히 대응 가능할 거예요.	We can destroy the power supply box at the substation. We're likely to run into some Coyote interference, but it's nothing the Heimdall Force can't handle.						0	
+b-2											0	
+17	切断供电……你不打算告诉我们原因吗？	切斷電力……你不打算告訴我們原因嗎？	給電を切るのか……理由を教えるつもりはないのか？	이유도 없이 전력 공급을 다짜고짜 끊으라니…	Cut off the power... Aren't you going to tell us why?						0	
+18	我们只有五分钟，分析员。你一定要在这里把时间花在跟我做计较上吗？	我們只有五分鐘，分析員。你一定要在這裡把時間花在跟我做計較上嗎？	5分しかないんですよ。どうしてもこの貴重な時間を私との口論に使いたいのですか？	저희에게 현재 주어진 시간은 5분밖에 없어요. 이런 상황에서 제가 분석가님한테 일일이 전부 설명해야 하나요?	We only have five minutes, Adjutant. Do you really think it's appropriate to waste time asking questions?						0	
+19	权力欲，好奇心，以及隔离墙后民众的生死……在你心里，究竟何者为先呢……	權欲，好奇心，以及隔離牆後民眾的生死……在你心裡，究竟何者為先呢……	権力への欲望。抑えきれない好奇心。そして、ウォールの向こう側にいる人々の命……どれが優先されるべきか、あなただって分かっているでしょう……	설마 분석가님 판단 기준에는 권력욕이나 호기심이 포함되어 있는 건가요? 그게 격리 장벽 뒤에 있는 시민의 목숨보다 중요할까요?	Are your feelings of authority and curiosity more important than the lives of the people behind the Containment Wall...?						0	
+b-3											0	
+21	靠近姬辰星。	靠近姬辰星。	姫辰星に近づく。	수성에게 가까이 다가간다.	Move toward Ji Chenxing						0	
+21_1	我在她愈发惊怒疑惑的目光中迈开双腿，一步步地走到了她面前。咫尺之距，她如我所料一般没有退缩，却也没有对峙。	我在她愈發驚怒疑惑的目光中邁開雙腿，一步步地走到了她面前。咫尺之距，她如我所料一般沒有退縮，卻也沒有對峙。	いよいよ火を噴きそうな彼女の視線を正面から受けつつ、私は一歩ずつ彼女に近づいていった。予想通り、彼女が引くことはなかったけれど、私と視線を合わせようともしなかった。	나는 점점 더 화를 내고 의심하는 그녀의 시선 속에서 두 다리를 벌리고 한 걸음 한 걸음 그녀 앞으로 다가갔다. 그녀는 내 예상대로 물러서지도, 대치하지도 않았다.	I walked toward her under that increasingly angry and frightened gaze until I was right up in her face. As I expected, she didn't flinch, but she didn't confront me either.						0	
+21_2	你，你想……做什么……	你，你想……做什麼……	ど、どういう……つもりですか……	도, 도대체… 뭘 하려고 이러는 거죠?	What... What are you doing...?						0	
+21_3	哈，这种话……董事会的人教你说的吧？	哈，這種話……董事會的人教你說的吧？	今の言葉は……理事会の人間から教わったのか？	지금 그 말… 이사회에서 그렇게 하라고 하던가요?	Ha, these lines... The Board told you to recite them, right?						0	
+21_4	当我对任务细节有疑惑，当我试图借由你来反向窥探他们的秘密的时候，就用职责和人命来反将一军？对吗？	當我對任務細節有疑惑，當我試圖藉由你來反向窺探他們的秘密的時候，就用職責和人命來反將一軍？對嗎？	私がミッションに疑問を持って、あなたを利用して逆に理事会の秘密に探りを入れようとした時には、責任や人命をダシに私を揺さぶればいい。違うか？	제가 미션에 대해 의문을 품거나, 그들의 비밀을 역으로 알아내려고 할 때, 수성 씨는 제 의무와 사람들의 생명을 이용해 제게 반격하고 있어요. 제 말이 틀린 건가요?	Whenever I inquire into mission details or attempt to pry into the Board's secrets, you use questions about "authorization" and "lives" to counter me? Right?						0	
+21_5	你……	你……	なっ！	…	You...						0	
+21_6	技巧太生疏啦，姬家的大小姐。	技巧太生疏啦，姬家的大小姐。	まだ詰めの甘いところがあるようだね。姫家のお嬢さん。	너무 서투르시네요, '희'씨 가문 아가씨.	You are getting sloppy, Ms. Ji Chenxing.						0	
+21_7	如果你真的对这种下作手段感兴趣的话，等搞定眼前这些事，我来教你以后怎么威胁我。	如果你真的對這種下作手段感興趣的話，等搞定眼前這些事，我來教你以後怎麼威脅我。	本心からそういう駆け引きに興味があるのなら、この件が終わった後で、いくらでも教えてあげよう。	그런 얄팍한 수에 관심이 있는 거면 이번 일을 마치고 제가 직접 협박하는 방법을 알려드리도록 하죠.	If you are really interested in using dirty tricks like that, I'll teach you how to threaten me after we take care of this mission.						0	
+21_8	啊对了，还有……我的海姆达尔不需要什么五分钟倒计时。里芙和芬妮她们在执行我的命令的时候……非常高效。	啊對了，還有……我的海姆達爾不需要什麼五分鐘倒數計時。里芙和芬妮她們在執行我的命令的時候……非常有效率。	あと、私のヘイムダルには5分も必要ない。私の命令を遂行する時のリフやファニーは、想像以上に効率良く動いてくれるからね。	아, 그리고 한 가지 더 말씀드리고 싶은데… 헤임달 부대에게 5분이라는 시간적 개념은 전혀 효율적이지 않아요. 리브와 페니는 평소에 명령을 이행할 때 이미 매우 효율적으로 행동하고 있으니까.	Oh, by the way... My Heimdall Force operatives don't need any countdown timer. Lyfe and Fenny are very efficient when they carry out orders... my orders.						0	
+21_9	你好好地待在这里，等着看结果吧。	你好好地待在這裡，等著看結果吧。	大人しく結果報告を待っていればそれでいいよ。	그냥 이곳에서 가만히 결과를 지켜봐 주셨으면 좋겠네요.	Just stay put here and let them show you how it's done.						0	
+21_10	真是个可爱的姑娘，在我面前居然会大脑宕机……说到底，竟然派这么个雏鸟黄鹂来我身边，哼，那群老不死的怕是要没戏唱了。	真是個可愛的姑娘，在我面前居然會大腦宕機……說到底，竟然派這麼個雛鳥黃鸝來我身邊，哼，那群老不死的怕是要沒戲唱了。	私を前にして言葉に詰まるなんて、可愛らしいところがあるじゃないか。こんなひよっこを送り込むなんて……理事会もいよいよ万策尽きたか。	귀엽네, 내 앞에서 어쩔 줄 몰라하는 모습을 보여주다니… 그나저나, 이마에 피도 안 마른 자를 보내다니, 흥, 더이상 수작부릴 게 없나보군,	I had completely overwhelmed this lovely girl... She was too young to handle a seasoned wolf like me. The Board was running out of cards.						0	
+22	playername，怎么从刚才开始就一副气鼓鼓的样子？	playername，怎麼從剛才開始就一副氣鼓鼓的樣子？	ねぇplayername、イライラしてるでしょ？	playername, 왜 이렇게 저기압이야? 무슨 안 좋은 일 있어?	playername, why is your brow all scrunched up?						0	
+23	在执行任务时带有个人情绪，会影响到判断。	在執行任務時帶有個人情緒，會影響到判斷。	ミッションに個人的な感情を持ち込むと、判断が鈍る。	미션 중에 사적인 감정이 섞이면 판단을 방해해.	Being emotional during a mission will affect your judgment.						0	
+24	显然是被刚才那个女人气到了吧？星期三！playername这时候需要的是安慰，可不是刚才那样的说教！	顯然是被剛才那個女人氣到了吧？星期三！ playername這時候需要的是安慰，可不是剛才那樣的說教！	あのねウェンズデー、playernameはさっきの女にムカついてるんだから、今必要なのは正論じゃなくて共感なのよ！	그 여자 때문에 화난 거 아니야? 웬스데이, 지금 playername가 필요한 건 위로야! 네가 해주는 설교 따위가 아니라고!	That girl just now must have made you mad, huh? What playername needs now is comfort, Wednesday, not a speech!						0	
+25	那不是我擅长……	那不是我擅長……	それはちょっと苦手で……	그건 내가 잘하는 게 아니라…	I'm not good at that...						0	
+26	保持警戒！	保持警戒！	……！警戒しろ！	경계 태세를 갖춰!	Stay alert!						0	
+27	刚才还寂静无声的街道，忽然被郊狼的呼喊所填满。	剛才還寂靜無聲的街道，忽然被郊狼的呼喊打破。	さっきまで静かだった街に、突然コヨーテの声が響き渡った。	방금까지 조용했던 거리가 갑자기 코요테의 고성으로 가득차기 시작했다.	The once-quiet street was suddenly filled with the Coyotes' fierce cries.						0	
+28	看来郊狼又向庚号大门发动了一轮炮击，庚号大门的损伤结果已经来不及跟辰星确认了……	看來郊狼又向庚號大門發動了一輪炮擊，庚號大門的損傷結果已經來不及跟辰星確認了……	コヨーテが再び砲撃を開始したらしく、辰星は「第7ゲート」の損傷具合を確認する暇もなさそうだ……	코요테가 또다시 루트 게이트를 포격한 것 같다. 하지만 훼손 여부까지 수성에게 확인할 시간은 없다…	It looks like the Coyotes have bombarded Gate Seven again. But there's no time to confirm the extent of the damage for Chenxing...						0	
+29	郊狼们欢呼着从不远处一栋建筑中涌出，然后向我们所在的方向狂奔而来。	郊狼們歡呼著從不遠處一棟建築中湧出，然後向我們所在的方向狂奔而來。	コヨーテたちが歓声を上げながら、近くの建物から次々と現れ、こちらに向かって走ってきた。	코요테는 소리를 지르며 멀지 않은 건물에서 쏟아져 나오기 시작했고, 우리가 있는 곳으로 미친 듯이 달려왔는데…	The Coyotes flooded out from a building not far away, cheering and running in our direction.						0	
+30	看来目标也同样是变电站。	看來目標也同樣是變電所。	どうやらターゲットは同じく変電所のようだ。	코요테가 찾는 것도 변전소인 모양새다.	It seems that they're heading to the substation as well.						0	
+31	分析员！隐蔽！	分析員！隱蔽！	分析員！隠れろ！	분석가! 어서 숨어!	Adjutant! Hide!						0	
+32	身体忽然像是被来自雾之国的冰寒气息所冻僵，嘈杂的人声也正逐渐离我远去。	身體忽然像是被來自霧之國的冰寒氣息所凍僵，嘈雜的人聲也正逐漸離我遠去。	突然霧の国から凍てつく風が吹き付けたかのように、物騒な声が遠ざかっていく。	순간 자욱한 안갯속에서 차가운 냉기로 인해 몸이 얼어붙는 듯했고, 시끄러운 소리들도 점점 멀어지기 시작했다.	My body suddenly froze under the icy breath from the land of mist, and the noise of people grew farther and farther away.						0	
+33	因为只有我，只有我从那一阵来自郊狼的呼喊中，分辨出了一个熟悉的声音。	因為只有我，只有我從那一陣來自郊狼的呼喊中，分辨出了一個熟悉的聲音。	私だけ、私だけがコヨーテの叫び声からよく知った声を聞き分けたからだ。	코요테 함성 속에서 나만이 들을 수 있는 이 익숙한 소리…	Because I was the only one that recognized the familiar voice among the Coyotes' howls.						0	
+34	随后，我看见了她。	隨後，我看見了她。	次の瞬間、目に映ったのはあの子の姿。	이내 난 그녀를 발견했는데…	Then, I saw her.						0	
+35	playername，你不是也会怀疑吗？那堵墙为什么还要在那里。	playername，你不是也會懷疑嗎？那堵牆為什麼還要在那裡。	playername、なぜあの壁が依然としてあそこにあるのか、あなただって疑ってるのでしょう？	playername, 너도 궁금하지? 왜 저 벽이 아직도 저기 있는지.	playername, don't you have doubts? Why is that wall still there?						0	
+36	共感神经不是已经被切除了吗？为什么还会……	共感神經不是已經被切除了嗎？為什麼還會……	共感神経は切ったというのに、なぜまた……	공감 신경은 이미 사라졌을 텐데? 어떻게…	Hadn't the Empathic Ganglia been removed? Why was I still...						0	
+37	你也不喜欢那堵墙吧？	你也不喜歡那堵牆吧？	あなただって、その壁が嫌いでしょう？	너도 저 벽이 싫은 거지?	You are not fond of that wall either, are you?						0	
+38	那为什么还要保护它呢？	那為什麼還要保護它呢？	ならどうして、それを守り続けているの？	근데 왜 계속 지키려고 하는 거야?	So why do you bother protecting it?						0	
+39	身体……不受控制……我想起来了，以前也曾经出现过这样的状况，但我……完全不记得。	身體……不受控制……我想起來了，以前也曾經出現過這樣的狀況，但我……完全不記得。	体が……言うことを聞かない……思い出したんだ、前にも同じようなことがあったが……全く覚えていない。	몸을 제어할 수 없었다… 전에도 이런 상황이 분명 있었는데… 하지만 기억이 나질 않는다.	My body... was out of my control... I recalled that it had happened to me before... but I couldn't remember anything.						0	
+40	里芙，你们是制定了什么计划吗？我看见分析员正在脱离队伍，即将进入敌方的视野范围。	里芙，你們是製定了什麼計劃嗎？我看見分析員正在脫離隊伍，即將進入敵方的視野範圍。	リフ、これはどんな計画？分析員が隊列から離れて、敵の前に出て行こうとしてるけど。	리브, 무슨 다른 계획이라도 있는 거야? 분석가가 팀을 이탈했어. 저대로 가다간 타깃들 시야 범위 내에 들어갈 것 같은데.	Lyfe, what kind of plan have you come up with? I see the Adjutant leaving the team and about to enter the enemy's sight.						0	
+41	没有这样的计划，分析员出现了意料外的状况。	沒有這樣的計劃，分析員出現了意料外的狀況。	そんな計画はない。想定外の状況だ。	아니. 계획에는 없었던 돌발 행동이야. 분석가한테 무슨 일이 생긴 게 분명해.	That's not part of the plan. Something unexpected has happened to the Adjutant.						0	
+42	……嫌自己活得太长了吗？他正在直直冲着郊狼前进。	……嫌自己活得太長了嗎？他正在筆直地衝向郊狼。	……死にたいのか？まっすぐコヨーテに向かって進んでるぞ。	… 본인 스스로 명이 길다고 생각하나? 코요테한테 돌진하고 있는 것 같은데?	...Does he have a death wish? He's heading right toward the Coyotes.						0	
+43	除去肴以外的其余队员，按照原定计划前往变电站！	除了肴以外的其餘隊員，按照原定計劃前往變電所！	肴以外の隊員は、計画通り変電所へ移動してくれ！	일단 야오를 제외한 다른 팀원들은 계획대로 변전소로 이동해!	Other members except Yao, go to the destination as planned.						0	
+44	肴，请掩护我。	肴，請掩護我。	肴、援護を頼む。	야오, 나 좀 엄호해 줘.	Yao, please cover me.						0	
+45	收到，可是……你要去干什么？	收到，可是……你要去幹什麼？	了解。でも……何をする気？	알겠어. 근데… 넌 또 뭘 하려고?	Copy that. But... what are you going to do?						0	
+46	追上去了……那我只能说尽力……	追上去了……那我只能說盡力……	うわマジか、追っかけて行っちゃったよ……はぁー、まぁ手伝ってやるか……	이미 쫓아가 버렸잖아… 나도 그럼 최선을 다해야 하나…	She's running after him... Well, good luck...						0	
+47	好像有点明白海姆达尔部队为啥在后勤那边风评不好了。	好像有點明白海姆達爾部隊為什麼在後勤那邊風評不好了。	ヘイムダル部隊が後方支援での評判が悪い理由、なんとなく分かった気がするよ。	왜 항상 지원부에서 헤임달 부대를 밉상으로 보는지 이제 좀 이해가 되네…	I think I understand why the Heimdall Force has a bad reputation in Logistics.						0	
+48	比起来，我好像还挺正常的？	比起來，我好像還挺正常的？	それに比べれば、私はまだまともな方だよね？	이 정도면 난 비교적 정상인 편에 속하는 것 같은데…	In retrospect, I seem kind of normal.						0	
+49	刚才那一下可真够劲。	剛才那一下可真夠猛。	さっきのあれはすごかったな。	후후후… 속이 다 후련하구먼. 방금 건 봐줄만했어.	That was quite a shot.						0	
+50	再来一轮炮击，这***的破墙就该塌了。	再來一輪炮擊，這該死的破牆就該塌了。	もう一回砲撃すれば、忌々しいこの壁をぶっ壊せるはずだ。	한 번만 더 포격하면 이 *같은 벽도 무너지겠지.	Fire another round, and this darn wall should collapse.						0	
+51	再不回家，爸妈说不定以为我已经……	再不回家，爸媽說不定以為我已經……	これを終わらせて家族のもとに帰らないと……きっと両親は僕のことを……	어서 집에 돌아가고 싶어요. 더 이상 지체되면 부모님은 제가 이미…	If I don't go home now, my parents might think I'm...						0	
+52	队长，前面那两个人，是咱们的人？	隊長，前面那兩個人，是我們的人？	隊長、この先の二人は、仲間なんですか？	대장… 그나저나 앞에 있는 저 두 사람은 누구죠?	Captain, are those two people ahead on our side?						0	
+53	衣服颜色……不像啊……	衣服顏色……不像啊……	服の色からして……似てないな……	옷 색깔이… 저희팀은 아닌 것 같은데요…	Judging from the color of their clothes... they don't seem to be one of us...						0	
+54	那是***海姆达尔部队！干掉他们！	那是該死的海姆達爾部隊！幹掉他們！	あれはヘイムダル部隊のクソッタレだ！やっちまえ！	저건 헤임달 부대야! 당장 해치워!	F***ing Heimdall Force again! Kill them!						0	
+55	你在那掏个**的枪！有个*用，给我上重武器！	你掏那什麼小不拉機的槍！有個屁用，給我上重武器！	アホが！そのオモチャみたいな銃を抜くんじゃねぇ！重火器を使え！	무슨 ** 총을 꺼내고 있어! 그게 무슨 소용이라고! 어서 중형 무기를 꺼내!	Why are you taking out your gun!? That's no use, give me some heavy weapons!						0	
+56	在混乱的交火中，一枚火箭弹擦着原定目标的轮廓，一头扎进了左手边摇摇欲坠的建筑废墟。	在混亂的交火中，一枚火箭彈沿著原定目標的軌跡，一發射進了左手邊搖搖欲墜的建築廢墟中。	混乱する激戦のさなか、一発のロケット弾が標的をかすめ、左手の崩れかけた建物の廃墟へと突っ込んだ。	어수선한 교전 속에서 로켓탄 한 발이 발사됐고, 곧 무너질 것 같은 폐건물 잔해 속으로 떨어졌다.	In the chaotic firefight, a rocket grazed the target and flew into the remains of the crumbling building to the left.						0	
+57	爆炸形成冲击，彻底击垮了几根脆弱的立柱。整栋建筑都开始倾倒向交战区域。	爆炸形成衝擊，徹底擊垮了幾根脆弱的立柱。整棟建築都開始向交戰區域傾倒。	爆発の衝撃で、かろうじて残っていた柱が完全に崩壊。建物全体が交戦エリアに向かって倒れ始めた。	이어서 폭발로 인한 충격으로 취약한 기둥들이 무너져 내렸고, 건물 전체가 교전 구역으로 기울었다.	The impact of the blast shattered several columns that were barely standing, and the whole building began to fall toward the area of the fight.						0	
+58	钢筋在形变时发出令人牙酸的尖啸，混凝土结构宛若沙堡般倾塌，烟尘如浪般席卷而来。	鋼筋在變形時發出刺耳的尖嘯，混凝土結構宛若沙堡般傾塌，煙塵如浪潮般席捲而來。	鉄筋は歯ぎしりのような音を立ててゆがみ、コンクリートの構造は砂の城のようにもろく崩れ去る。舞い上がった煙が、波のように押し寄せてきた。	그리고 건물의 철근들이 휘어지며 아릿한 쇳소리를 내더니, 콘크리트 구조물들이 모래성처럼 무너지며 먼지바람이 파도처럼 밀려왔다.	The steel bars shrieked as they became deformed. The concrete structure crumbled like a sand castle, with smoke and dust flying everywhere.						0	
+59	咳！咳咳……谁***这么不小心……	咳！咳咳……哪個混帳這麼不小心……	ゲホ！ゲホゲホ……どこのバカがこんなことを……	콜록! 콜록… 누가 *** 이런 실수를…	*cough*... Who's the careless idiot...						0	
+60	兄弟们都没事吧？	兄弟們都沒事吧？	みんな無事か？	다들 괜찮아?	Is everyone all right?						0	
+61	那两个海姆达尔的人，好像被……干掉了？	那兩個海姆達爾的人，好像被……幹掉了？	ヘイムダルの奴らは……くたばったか？	헤임달 두 사람은… 해치운 것 같은데?	It looks like those two from the Heimdall Force... are dead?						0	
+62	烟尘渐渐消散，少女独自立于倒塌的废墟之上，幽蓝的怒火将要从眼眸中迸射而出。	煙塵漸漸消散，少女獨自立於倒塌的廢墟之上，幽藍的怒火將要從眼眸中迸射而出。	煙が消え、崩れ落ちた廃墟の上に立つのは、その青い瞳に今にも怒りの炎が燃え上がりそうな、一人の少女だ。	먼지바람이 흩어졌고, 폐허 속에 서있는 한 소녀의 짙은 남색 빛 눈동자에서 분노의 불꽃이 뿜어져 나왔다.	The smoke slowly dispersed. The girl stood on the collapsed ruins alone, with the blue rage in her eyes about to burst.						0	
+63	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	
+64	分析……	分析……	分析……	분석…	Ana...						0	
+65	若必须迎接那注定到来的黄昏……	若必須迎接那注定到來的黃昏……	もし、運命の黄昏が必ず訪れるのなら……	언젠가 오게 될 황혼을 영접해야 한다면…	If the doomed dusk is bound to arrive...						0	
+66	战斗吧！在战斗中，献祭尔等的英灵……	戰鬥吧！在戰鬥中，獻祭爾等的英靈……	戦え！戦の中で、汝らの魂を捧げよう……	죽음으로 영령을 바치리라…	Fight! Sacrifice your spirits in battle...						0	
+67	***疯了吗？你们把枪对着老子干什么？	你們這群混帳瘋了嗎？你們把槍對著老子幹什麼？	イカレちまったのかクソッタレ！俺に銃を向けてどうする？	*** 미쳤어? 너희들 지금 어디에다가 총을 겨누는 거야!?	Are you out of your mind? Why are you aiming your gun at me?						0	
+68	呃……啊……这是……为什……	呃……啊……這是……為什……	ぐぅ……ああ……いったい……どうして……	으으… 으아악… 이건… 도대체…	Ugh... ah... why...						0	
+69	郊狼们在奥丁的注视下，将枪口对准了彼此，然后，扣动扳机。	郊狼們在奧丁的注視下，將槍口對準了彼此，然後，扣動扳機。	コヨーテはオーディンに見つめられながら、互いに銃口を向け合って引き金を引いた。	코요테는 오딘이 지켜보는 가운데 총구를 서로에게 겨누더니 이내 방아쇠를 당겼다.	As Odin watched on, the Coyotes pointed their guns at each other and pulled the triggers.						0	

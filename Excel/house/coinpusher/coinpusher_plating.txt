@@ -1,0 +1,7 @@
+﻿机制ID	//注释	图标	名字	物品描述	机制效果	额外参数	购买价格
+PlatingID	Comment	Icon	Name	Desc	Effect	ExtraParam	PayPrice
+1	镭射-自身分数+20（参数：{1}分数）	1545601	house.Coinpusher_PlatingName1	house.Coinpusher_PlatingDesc1	{3,20}	{"ptchange",20}	40
+2	幻彩-自身结算时额外获得票券+50（参数：{1}票券数）	1545602	house.Coinpusher_PlatingName2	house.Coinpusher_PlatingDesc2	{4,50}		40
+3	荧光-自身分数+10，效果范围（有的话）扩大10%（参数：{1}分数；{2}范围扩大百分比）	1545603	house.Coinpusher_PlatingName3	house.Coinpusher_PlatingDesc3	{24,{10,10}}		40
+4	闪箔-投出时，立即获得30票券（参数：{1}票券数）	1545604	house.Coinpusher_PlatingName4	house.Coinpusher_PlatingDesc4	{25,25}		40
+5	冰裂纹-投出时，立即获得1枚无镀层的同ID硬币（币盒无空位时无法获得）（参数：{1}获得硬币数量）	1545605	house.Coinpusher_PlatingName5	house.Coinpusher_PlatingDesc5	{26,1}		40

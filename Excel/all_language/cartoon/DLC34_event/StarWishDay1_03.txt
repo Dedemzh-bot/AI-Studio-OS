@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	就放在这里吧。	就放在這裡吧。	ここでいいだろう。	여기에 놓을게.	I think this spot will do.						0	3.4版本星祈心愿宿舍剧情
+page1.2	接下来几天，就找些东西来把它装饰起来。	接下來幾天，就找些東西來把它裝飾起來。	この数日で飾り付けておかないとな。	앞으로 며칠 동안 장식할 만한 것들을 찾으면 되겠다.	We'll decorate it over the next few days.						0	3.4版本星祈心愿宿舍剧情
+page1.3	回头也去问问其他人有什么主意吧。	回頭也去問問其他人有什麼主意吧。	他のみんなにも、何かいい案がないか聞いてみるか。	나중에 다른 사람들한테도 아이디어가 있는지 물어보자.	I'm sure the others will have some ideas too.						0	3.4版本星祈心愿宿舍剧情

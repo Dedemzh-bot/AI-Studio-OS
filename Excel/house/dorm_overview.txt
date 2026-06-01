@@ -1,0 +1,9 @@
+﻿区域ID	场景预览图ID	选中场景名称	场景功能描述	任务ID	//备注
+AreaID	AreaPreview	AreaNameJump	FuncDes	TaskID	comment
+1	1006019	house.puzzleentry	house.FuncDes01	20701	信源研析
+2	1006015	ui.TxtHealthRoom	house.FuncDes02	20702	疗愈中心
+3	1006016	ui.TxtDorm.Hotspring	house.FuncDes03	20703	温泉中心
+4	1006017	ui.TxtCamera.title	house.FuncDes04	20704	契影定格
+5	1006018	ui.TxtPubName	house.FuncDes05	20705	暖调闲聚
+6	1006020	ui.TxtBeachName	house.FuncDes06	20706	恋风漪岸
+7	1006027	ui.TxtArcadeName	house.FuncDes07	20707	电玩次元

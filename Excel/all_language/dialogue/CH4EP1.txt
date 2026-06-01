@@ -1,0 +1,57 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	源源不断的重型无人运载车辆穿过“庚号大门”，将数不清的人员与建材运进遍布污染的零区。	源源不斷的重型無人運載車輛穿過“庚號大門”，將數不清的人員與建材運進汙染遍布的零區。	大型無人輸送車が次から次へと「第7ゲート」を通って、数え切れないほどの人員と機材を汚染まみれのエリアゼロへ輸送する。	끝이 보이지 않는 대형 무인 운송 차량들이 '7번 게이트'를 통과해 인력들과 건축 자재들을 오염된 제로 구역으로 이송하고 있다.	An endless stream of self-driving trucks passed through Gate Seven and drove on into the murk of the Containment Zone, carrying building materials and troops...						0	
+2	空中，担任导航、监测和中继任务的无人机们交替闪烁着各色指示灯，像近在咫尺的星辰……在城市化极为彻底的今天，真的星星反而很难见到了。	在空中，擔任導航、監測和中轉任務的無人機群交替閃爍著各色指示燈，像近在咫尺的星辰……在城市化極為徹底的今天，反而很難見到真的星星。	空中で光っているのは、ナビゲーションや観測、中継ミッションなどの役目を担った無人機だ。その向こうにはまるで手を伸ばせば届きそうな星空が広がっている……都市化が徹底された今、本物の星空が見られるのは珍しい。	지상에는 내비게이션, 감시, 중계 역할을 하는 드론들이 다채로운 불빛을 냈는데 마치 별처럼 반짝여 보였다.	Drones circled above... provided monitoring and guidance, their signal lights an ersatz starscape... no one here had seen the stars in years, not with all the light pollution.						0	
+3	安全部、后勤部、研发部……陶带来了一整支结构完整、分工明确的庞大团队，在外围隔离墙驻扎下来。	安全部、後勤部、研發部……τ帶來了一整支結構完整、分工明確的龐大團隊，在外圍隔離牆駐紮下來。	安全部、後方支援部、開発部……τは完璧な構成の大規模チームを送り込んで、外周ウォールに拠点を築かせた。	안전부, 지원부, 연구부… τ는 업무 분할이 명확히 되어있는 부서들을 데려와 외부 격리 장벽에 주둔지를 설치했다.	τ was bringing the hammer down; Security, Logistics, even R&D were there... tightly organized, this ordered horde... amassed congealed labor sliced and chopped, advancing from their garrisons outside the Walls.						0	
+4	仅仅花费一天时间，就依托隔离墙与棚户区，建立了数个大型筛查点，不断高效筛查着所有与“布里希嘉曼”失踪有关的可疑人员。	僅僅花費一天時間，就依托隔離牆與棚戶區建立了數個大型篩查點，不斷高效篩查著所有與“布里希嘉曼”失蹤有關的可疑人員。	たった一日で、ウォールとスラムエリアの間に数か所の大型関所を設置した。「ブリーシンガメン」の失踪に関係する人員を見つけ出すために。	그리고 불과 하루 만에 격리 장벽과 판자촌에 대형 선별 진료소를 만들어 '브리히가만' 도난 사건과 관련된 모든 사람을 조사하기 시작했다.	In a single day, they put "screening centers" in the space between the Walls and where the Camps lay, on the flimsiest of pretexts rounded people up and questioned them for hours about the Brisingamen.						0	
+5	世界树公司，这头体型庞大的巨兽，在陶的驱使下如同一只训练有素的猎犬。	世界樹公司，這頭體型龐大的巨獸，在τ的驅使下如同一隻訓練有素的獵犬。	ユグドラシル社、この「巨獣」はよく訓練された猟犬のようにτに飼い慣らされている。	위그드라실이라는 거대한 괴수가 τ의 지시를 받으며 잘 훈련된 사냥개처럼 움직이고 있었다.	The entirety of Yggdrasil Enterprises was under τ's control, like a well-trained bloodhound.						0	
+6	特别是安全部，很快就在零区展开了一系列行动，特别是针对“狼王”及其他郊狼的精准打击，我不知道是如何办到的……	特別是安全部，很快就在零區展開了一系列行動，特別是針對“狼王”及其他郊狼的精準打擊，我不知道是如何辦到的……	特に安全部が顕著だ。すぐにエリアゼロで一連の掃討作戦が開始された。その第一弾が「狼王」をはじめとするコヨーテ駆除だった。この的確な打撃がどうして実現されたのか、私には分からない……	특히 안전부는 제로 구역에서 여러 작전을 펼치며 '늑대왕'과 코요테들을 정밀 타격했는데, 어떻게 이런 작전을 펼치는지 의아할 정도였다…	In particular, the Security Department rolled out a series of initiatives within the Containment Zone, most notably their targeted strikes against Coyote Alpha and the Coyotes. I didn't even know how they managed it...						0	
+7	在他们还是我的部下时，并未展现出如此卓越的能力。	當他們還在我手下時，並未展現出如此卓越的能力。	少なくとも、彼らが私の部下だった頃は、そのような際立った能力は見せなかった。	내가 안전부에 있을 때 당시만 해도 이 정도로 탁월한 실력을 보이지는 않았었는데.	When I was in charge, they didn't display such incredible talent.						0	
+8	playername？什么事？	playername？什麼事？	playername？どうしました？	playername? 무슨 일이지?	playername? What is it?						0	
+b-1											0	
+9	我最近受到的影响变严重了	我最近受到的影響變嚴重了	最近、「共感」の影響が強くなってきた気がします。	요즘 증상이 더 심해진 것 같아요.	I've been affected more frequently recently.						0	
+b-2											0	
+10	请问，我的手术时间大概会安排在什么时候？	請問，我的手術時間大概會安排在什麼時候？	すみませんが、私の手術はいつ行われる予定ですか？	수술은 언제쯤 받을 수 있는 거죠?	Can I ask when my surgery is scheduled for?						0	
+11	陶停下了手中的工作，看了一眼日期。	τ停下了手中的工作，看了一眼日期。	τは作業を止め、空中モニターを開くとスケジュールをタップして日付を確認した。	τ는 하던 일을 멈추고 날짜를 확인했다.	τ stopped what she was doing and glanced at the date.						0	
+12	我会尽快安排。	我會盡快安排。	できるだけ早く手配します。	최대한 빨리 배정하지.	I'll try to schedule it as soon as possible.						0	
+13	具体是什么现象？	具體是什麼現象？	具体的にはどんな症状ですか？	구체적으로 증상이 어떻지?	What's going on specifically?						0	
+14	陶继续低头处理工作。	τ繼續低頭處理工作。	τは作業を再開する。	τ는 다시 고개를 숙이고 하던 일을 계속한다.	τ put her head down and continued to work.						0	
+b-3											0	
+15	我会看到一些幻象。	我會看到一些幻象。	幻覚が……見えるようになりました。	환각이 보여요.	I'm having hallucinations.						0	
+b-4											0	
+16	还会做噩梦。	還會做噩夢。	悪夢もよく見ます。	그리고 악몽도 꾸고요.	And nightmares.						0	
+17	噩梦？有具体的内容吗？	噩夢？有具體的內容嗎？	悪夢？どんな夢ですか？	악몽? 구체적으로 좀 얘기해 줄 수 있나?	Nightmares? About anything in particular?						0	
+b-5											0	
+18	我会梦见钢针刺进后脑。	我會夢見鋼針刺進後腦勺。	後頭部に鋼鉄の針が刺さる夢を見ました。	철침이 제 뒷통수를 찌르는 꿈을 꿔요.	I dream about a needle piercing the back of my neck.						0	
+b-6											0	
+19	然后从我的脑袋里抽出一些液体。	然後從我的腦袋裡抽出一些液體。	そこへ脳内の液体が抽出され……	그리고 제 머리에서 어떤 액체를 뽑아내고요.	Then some fluid is sucked out of my head.						0	
+20	陶终于放下手中的工作，开始认真凝视我。但她最终什么都没说，而是继续发问。	τ終於放下手中的工作，開始認真凝視我。但她最終什麼都沒說，而是繼續發問。	τはようやく自分のタスクをやめ、じっと私を見つめ始めた。しばらく沈黙が流れたあと、彼女は質問を続けた。	τ는 갑자기 하던 일을 멈추고 진지한 표정으로 날 쳐다본다. 그리더니 이어서 질문을 던져왔다.	τ finally put down her work, staring at me intently. However, she ultimately didn't say anything, asking a question instead.						0	
+21	还有吗？	還有嗎？	他には？	그리고?	Anything else?						0	
+b-7											0	
+22	我还会经常看到一位少女。	我還會經常看到一位少女。	一人の少女の姿も見ました。	한 소녀가 자주 나타나요.	I keep seeing a girl.						0	
+23	少女……	少女……	少女……	소녀라…	A girl...						0	
+24	陶在听到“少女”时，露出了我以往从未见过的神色。这是在我预想之外的反应……	τ在聽到“少女”時，露出了我以往從未見過的神色。這是在我預想之外的反應……	「少女」と聞いた途端、τは今まで見たことのない表情をした。予想外の反応だ……	τ는 '소녀'라는 단어를 듣자 처음 보는 신비한 표정을 짓는다. 예상하지 못한 반응이다…	When τ heard "girl," she wore an expression I'd never seen before. It was a reaction I wasn't expecting...						0	
+25	跟我来，现在。	跟我來，現在。	ついてきなさい。	따라와, 지금 당장.	Come with me. Now.						0	
+26	将你看到的形象可视化出来。	將你看到的形象可視化出來。	見たものをもう一度想像しなさい。	본 것들을 형상화해봐.	Visualize what you've been seeing.						0	
+27	我戴上了全息头盔，开始回想那位少女的形象。	我戴上了全息頭盔，開始回想那位少女的形象。	私はホログラムヘルメットを被り、その少女の姿を思い出し始めた。	난 홀로그램 헬멧을 끼고 소녀의 모습을 상상했다.	I put on the holographic helmet and started to recall the girl's appearance.						0	
+b-8											0	
+28	大概是这样的形象。	大概是這樣的形象。	大体こんな感じです。	대충 이런 모습이었어요.	She pretty much looks like this.						0	
+29	少女的全息形象被我构想出来时，我看出陶有一瞬间的失神。	少女的全息形象被我構想出來時，我看出τ有一瞬間的失神。	少女のホログラムが出現した瞬間、いつも鉄仮面のようなτが狼狽えたのを見逃さなかった。	소녀의 홀로그램 이미지를 본 τ는 잠깐이지만 크게 당황하는 모습을 보였다.	As soon as I created the holographic image of the girl, I saw an unsettled look flash across τ's face, only for a split second.						0	
+30	这种……现象持续多久了？	這種……現象持續多久了？	……この症状はいつから始まりましたか？	이런 증상이… 얼마나 지속됐지?	How long... has this been going on?						0	
+31	不过，从她的语气中听不出情绪。	不過，從她的語氣中聽不出情緒。	あくまで口調はいつも通り。声音からはどんな感情を抱いたのか、まったくわからない。	그녀의 말투엔 어떠한 감정도 담겨있지 않았다.	Still, there was no emotion in her voice.						0	
+b-9											0	
+32	从槲寄生空间站回来开始，就一直偶尔发作。	從槲寄生太空站回來開始，就會偶爾發作。	ヤドリギ宇宙ステーションから帰って以来、たまに発作が起きるんです。	미스틸테인 우주정거장에서 돌아온 후부터 이따금씩 있어왔어요.	It's been happening since I came back from Mistilteinn Station.						0	
+33	playername，抽取脑脊液是治疗的步骤之一。	playername，抽取腦脊液是治療的步驟之一。	playername、脳脊髄液の抽出は治療ステップの一つです。	playername, 뇌척수액을 뽑는 건 치료의 일부분일 뿐이야.	playername, extracting cerebrospinal fluid is part of your treatment.						0	
+34	陶还是没有跟我说实话，这背后一定有什么原因。	τ還是沒有跟我說實話，這背後一定有什麼隱情。	τはまた肝心な情報を口にするのを避けている。人に知られてはならない理由があるのだろうか？	τ는 내게 진실을 말해주지 않았다. 분명 무슨 이유가 있을 것이다.	τ still wasn't telling me the truth. She must have had her reasons.						0	
+35	在这次任务结束后，你的手术就会立刻进行。	在這次任務結束後，你的手術就會立刻進行。	手術は今回のミッションの後すぐとしましょう。	이번 미션이 끝나면 바로 수술을 진행하도록 하지.	Your surgery will take place immediately after this mission.						0	
+36	另外，我强调一点。	另外，我強調一點。	それと、もう一つ注意してください。	그리고 기억해 둬.	And I must stress something—						0	
+37	有关这个“少女”，不要对她做任何调查，也不要向任何人提起。	有關這個“少女”，不要對她做任何調查，也不要向任何人提起。	夢で見た「少女」のことについて、調べてはいけません。この件は誰にも話さないでください。	이 '소녀'에 대해서 따로 알아보거나, 다른 사람에게 함부로 누설하지 마.	Do not make any further inquiries into this "girl," and don't mention this to anyone.						0	
+38	这不是请求，而是警告。	這不是請求，而是警告。	これはあなたへの要求ではなく、警告です。	이건 부탁이 아니라 경고야.	This isn't a request. It is a warning.						0	
+39	你听明白了吗？	你聽懂了嗎？	分かりましたか？	알아들었지?	Do you understand?						0	
+40	还没等我做出回答，警报声忽然响起。	還沒等我做出回答，警報聲忽然響起。	私が返事をする前に、警報が突然鳴り響いた。	내가 대답을 하기도 전에 경보음이 울려 퍼지기 시작했다.	Before I could answer, the alarm suddenly sounded.						0	
+41	老板！筛查点正在遭受异化人袭击，安全部没法应付，需要分析员前往支援！	老闆！篩查點正在遭受異化人襲擊，安全部沒法應付，需要分析員前往支援！	ボス！関所が変異者の襲撃を受けています。安全部だけでは防ぎきれそうになく、分析員の支援を要請します！	대표님! 선별 진료소가 변이자들의 공격을 받고 있어요. 안전부 인력으로는 부족해 보여서 분석가 지원이 필요해요!	Boss! Changed! They've overrun the screening centers, overwhelmed Security!... I need the Adjutant.						0	
+42	在此前的全波段纳米光谱仪扫描中，并没有发现附近有异化人的活动。	在此前的全波段奈米光譜儀掃描中，並沒有發現附近有異化人的活動。	この前の全波長ナノ分光器のスキャニング結果から、変異者の活動は確認されていません。	얼마 전에 나노 센서기로 스캔했을 때는 아무 이상 없었잖아.	But when we did nanospectrum scans earlier, there were no signs of Changed activity.						0	
+43	老板……异化人的来源还没调查清楚。 	老闆……異化人的來源還沒調查清楚。	ボス……変異者の出所はまだ分かっていません。 	변이자가 어떤 경로로 왔는지는 아직 파악하지 못했어요.	Boss... the source of the Changed isn't clear.						0	
+44	解决异化人的麻烦，并且调查清楚来源，一个小时之后我要见到结果。	解決異化人的麻煩，並且調查清楚來源，一個小時之後我要見到結果。	変異者の問題解決及びその出所の調査を一時間後までに。良い結果を期待していますよ。	일단은 들어온 변이자부터 처리하고, 어떤 경로로 들어왔는지 확실하게 조사하도록 해. 한 시간이면 충분한가?	Deal with them. Find out where they came from. Report within the hour.						0	
+45	陶看了一眼时间。	τ看了一眼時間。	τは時間をチェックした。	τ는 시간을 확인했다.	τ checked the time.						0	
+46	playername，你可以继续工作了。	playername，你可以繼續工作了。	playername、仕事に戻ってください。	playername, 업무로 돌아가도록 해.	playername, you can keep working.						0	

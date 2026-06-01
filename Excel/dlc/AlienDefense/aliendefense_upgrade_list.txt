@@ -1,0 +1,211 @@
+﻿升级卡牌ID	备注	升级卡技能ID	通用和机枪modifier	修改技能释放举例	机枪子弹数量修改	升级卡类型（1普通升级2强力升级3特殊被动4通用被动）	特殊升级（1机枪升级树 2防线通用 3伙伴通用 4机枪通用 5机枪特殊）	战斗内前置升级卡id	是否是减CD升级	升级品质（1绿2蓝3紫4橙）	自动选择优先级（从高到低）	卡牌图标	卡牌名称	卡牌描述	卡牌描述参数	卡牌差值描述
+Id	Common	SkillId	ModifierId	SkillAttackDistanceFix	TurretBulletNum	UpgradeType	SpecialUpgrade	PreUpgradeId	IsReduceCd	UpgradeLevel	AutoChooseLevel	Icon	Name	Des	DescValue	DifferenceDes
+1101	轰炸次数+1，轰炸伤害降低20%	380010101				1				4	4	1001334	aliendefence.Upgrade_01_01_01_name	aliendefence.Upgrade_01_01_01_des	{1,20}	
+1102	轰炸次数+1，轰炸伤害降低20%	380010102				1		1101		4	4	1001334	aliendefence.Upgrade_01_01_02_name	aliendefence.Upgrade_01_01_01_des	{1,20}	
+1103	轰炸次数+1，轰炸伤害降低20%	380010103				1		1102		4	4	1001334	aliendefence.Upgrade_01_01_03_name	aliendefence.Upgrade_01_01_01_des	{1,20}	
+1104	轰炸次数+1，轰炸伤害降低20%	380010104				1		1103		4	4	1001334	aliendefence.Upgrade_01_01_04_name	aliendefence.Upgrade_01_01_01_des	{1,20}	
+1105	轰炸范围+100%	380010201				1				3	3	1001335	aliendefence.Upgrade_01_02_name	aliendefence.Upgrade_01_02_des	{100}	
+1106	轰炸对敌人造成2秒灼烧	380010301				1				2	2	1001342	aliendefence.Upgrade_01_03_01_name	aliendefence.Upgrade_01_03_des	{2}	
+1107	轰炸造成的灼烧+2秒，灼烧伤害增加60%	380010801				1		1106		2	2	1001342	aliendefence.Upgrade_01_03_02_name	aliendefence.Upgrade_01_04_01_des	{2,60}	
+1108	轰炸伤害+20%，并击退敌人2米	380010901				1				2	2	1001339	aliendefence.Upgrade_01_06_01_name	aliendefence.Upgrade_01_07_des	{20,2}	
+1109	轰炸伤害+60%	380010501				1				2	2	1001337	aliendefence.Upgrade_01_05_01_name	aliendefence.Upgrade_01_06_des	{60}	
+1110	轰炸伤害+60%	380010502				1		1109		2	2	1001337	aliendefence.Upgrade_01_05_02_name	aliendefence.Upgrade_01_06_des	{60}	
+1201	轰炸在地面留下持续3秒的火焰陷阱	380010401				2				3	3	1001342	aliendefence.Upgrade_01_04_01_name	aliendefence.Upgrade_01_05_des	{3}	
+1202	火焰陷阱伤害增加60%，增加易伤20%	380011001				2		1201		3	3	1001342	aliendefence.Upgrade_01_04_02_name	aliendefence.Upgrade_01_05_01_des	{60,20}	
+1301	基础轰炸次数+1	380010701				3				4	4	1001334	aliendefence.Upgrade_01_07_name	aliendefence.Upgrade_01_09_des	{1}	
+2101	燃烧弹投掷次数+1	380020101				1				4	4	1001334	aliendefence.Upgrade_02_01_01_name	aliendefence.Upgrade_02_01_des	{1}	
+2102	燃烧弹投掷次数+1	380020102				1		2101		4	4	1001334	aliendefence.Upgrade_02_01_02_name	aliendefence.Upgrade_02_01_des	{1}	
+2103	火焰陷阱范围+100%	380020201				1				4	4	1001335	aliendefence.Upgrade_02_02_name	aliendefence.Upgrade_02_02_des	{100}	
+2104	火焰陷阱对异常敌人增伤30%	380020901				1				2	2	1001342	aliendefence.Upgrade_02_09_01_name	aliendefence.Upgrade_02_11_des	{30}	
+2105	火焰陷阱对异常敌人增伤30%	380020902				1		2104		2	2	1001342	aliendefence.Upgrade_02_09_02_name	aliendefence.Upgrade_02_11_des	{30}	
+2106	火焰陷阱伤害+60%	380020401				1				2	2	1001337	aliendefence.Upgrade_02_04_01_name	aliendefence.Upgrade_02_05_des	{60}	
+2107	火焰陷阱伤害+60%	380020402				1		2106		2	2	1001337	aliendefence.Upgrade_02_04_02_name	aliendefence.Upgrade_02_05_des	{60}	
+2108	火焰陷阱结束时产生3米的爆炸	380020701				1				2	2	1001346	aliendefence.Upgrade_02_07_01_name	aliendefence.Upgrade_02_08_des	{3}	
+2109	火焰陷阱结束时爆炸的范围+3米	380020702				1		2108		2	2	1001346	aliendefence.Upgrade_02_07_02_name	aliendefence.Upgrade_02_09_des	{3}	
+2110	火焰陷阱伤害频率增加20%	380021001				1				3	3	1001346	aliendefence.Upgrade_02_10_name	aliendefence.Upgrade_02_12_des	{20}	
+2201	火焰陷阱内的敌人移速-30%，持续3秒	380021101				2				3	3	1001338	aliendefence.Upgrade_02_06_01_name	aliendefence.Upgrade_02_07_01_des	{30,3}	
+2202	火焰陷阱内的敌人移速-50%，离开后还能持续5秒	380021102				2		2201		3	3	1001338	aliendefence.Upgrade_02_06_02_name	aliendefence.Upgrade_02_07_02_des	{50,5}	
+2301	技能触发范围+10米，火焰陷阱伤害+30%	380020801		1000		3				3	3	1001335	aliendefence.Upgrade_02_08_name	aliendefence.Upgrade_02_10_01_des	{10,30}	
+3101	落雷释放次数+1	380030101				1				4	4	1001334	aliendefence.Upgrade_03_01_01_name	aliendefence.Upgrade_03_01_des	{1}	
+3102	落雷释放次数+1	380030102				1		3101		4	4	1001334	aliendefence.Upgrade_03_01_02_name	aliendefence.Upgrade_03_01_des	{1}	
+3103	落雷释放次数+1	380030103				1		3102		4	4	1001334	aliendefence.Upgrade_03_01_03_name	aliendefence.Upgrade_03_01_des	{1}	
+3104	落雷在地面产生持续5秒的电磁地面	380030201				1				3	3	1001344	aliendefence.Upgrade_03_02_name	aliendefence.Upgrade_03_02_des	{5}	
+3105	电磁地面每秒造成0.5秒麻痹	380030301				1		3104		2	2	1001344	aliendefence.Upgrade_03_07_name	aliendefence.Upgrade_03_08_02_des	{0.5}	
+3106	落雷伤害+100%	380030401				1				2	2	1001337	aliendefence.Upgrade_03_04_01_name	aliendefence.Upgrade_03_05_des	{100}	
+3107	落雷伤害+100%	380030402				1		3106		2	2	1001337	aliendefence.Upgrade_03_04_02_name	aliendefence.Upgrade_03_05_des	{100}	
+3108	落雷伤害+100%	380030403				1		3107		2	2	1001337	aliendefence.Upgrade_03_04_03_name	aliendefence.Upgrade_03_05_des	{100}	
+3109	电磁地面伤害+100%	380030501				1		3104		3	3	1001337	aliendefence.Upgrade_03_05_01_name	aliendefence.Upgrade_03_06_des	{100}	
+3110	电磁地面面积增加50%	380030801				1		3104		2	2	1001344	aliendefence.Upgrade_03_08_name	aliendefence.Upgrade_03_09_des	{50}	
+3201	命中敌人产生闪电箭，飞行8秒，无限穿透	380030903				2				3	3	1001337	aliendefence.Upgrade_03_09_01_name	aliendefence.Upgrade_03_10_01_des	{8}	
+3202	闪电箭命中敌人造成1秒麻痹，闪电箭伤害增加60%	380030904				2		3201		4	4	1001337	aliendefence.Upgrade_03_09_02_name	aliendefence.Upgrade_03_10_02_des	{1,60}	
+3301	落雷命中造成3秒麻痹,落雷伤害+60%	380030701				3				3	3	1001344	aliendefence.Upgrade_03_07_name	aliendefence.Upgrade_03_04_01_des	{3,60}	
+4101	发射电磁炮弹数量+1，伤害-20%	380040101				1				3	3	1001334	aliendefence.Upgrade_04_01_01_name	aliendefence.Upgrade_04_01_01_des	{1,20}	
+4102	发射电磁炮弹数量+1，伤害-20%	380040102				1		4101		3	3	1001334	aliendefence.Upgrade_04_01_02_name	aliendefence.Upgrade_04_01_01_des	{1,20}	
+4103	发射电磁炮弹轮次+1	380040201				1				4	4	1001334	aliendefence.Upgrade_04_02_01_name	aliendefence.Upgrade_04_02_des	{1}	
+4104	发射电磁炮弹轮次+1	380040202				1		4103		4	4	1001334	aliendefence.Upgrade_04_02_02_name	aliendefence.Upgrade_04_02_des	{1}	
+4105	电磁炮弹命中造成1.5米的电磁爆炸	380040301				1				3	3	1001346	aliendefence.Upgrade_04_03_01_name	aliendefence.Upgrade_04_03_des	{1.5}	
+4106	电磁爆炸范围+100%	380040302				1		4105		3	3	1001346	aliendefence.Upgrade_04_03_02_name	aliendefence.Upgrade_04_04_des	{100}	
+4107	电磁炮弹造成1秒的麻痹	380040401				1				2	2	1001344	aliendefence.Upgrade_04_04_01_name	aliendefence.Upgrade_04_05_des	{1}	
+4108	电磁炮弹造成的麻痹+1秒	380040402				1		4107		2	2	1001344	aliendefence.Upgrade_04_04_02_name	aliendefence.Upgrade_04_06_des	{1}	
+4109	电磁炮弹伤害+60%	380040501				1				2	2	1001337	aliendefence.Upgrade_04_05_01_name	aliendefence.Upgrade_04_07_des	{60}	
+4110	电磁炮弹伤害+60%	380040502				1		4109		2	2	1001337	aliendefence.Upgrade_04_05_02_name	aliendefence.Upgrade_04_07_des	{60}	
+4201	电磁爆炸造成1秒的麻痹	380040601				2		4105		4	4	1001344	aliendefence.Upgrade_04_06_01_name	aliendefence.Upgrade_04_08_des	{1}	
+4202	电磁爆炸造成的麻痹+1秒	380040602				2		4201		4	4	1001344	aliendefence.Upgrade_04_06_02_name	aliendefence.Upgrade_04_09_des	{1}	
+4301	电磁炮弹穿透敌人次数+1	380040701				3				4	4	1001341	aliendefence.Upgrade_04_07_name	aliendefence.Upgrade_04_10_des	{1}	
+5101	发射寒冰弹数量+1,寒冰弹伤害-20%	380050801				1				3	3	1001334	aliendefence.Upgrade_05_01_01_name	aliendefence.Upgrade_05_01_01_des	{1,20}	
+5102	发射寒冰弹数量+1,寒冰弹伤害-20%	380050802				1		5101		3	3	1001334	aliendefence.Upgrade_05_01_02_name	aliendefence.Upgrade_05_01_01_des	{1,20}	
+5103	发射寒冰弹轮次+1	380050201				1				4	4	1001334	aliendefence.Upgrade_05_02_01_name	aliendefence.Upgrade_05_02_des	{1}	
+5104	发射寒冰弹轮次+1	380050202				1		5103		4	4	1001334	aliendefence.Upgrade_05_02_02_name	aliendefence.Upgrade_05_02_des	{1}	
+5105	寒冰弹击退敌人3米，伤害+45%	380050301				1				2	2	1001339	aliendefence.Upgrade_05_03_01_name	aliendefence.Upgrade_05_03_des	{3,45}	
+5106	寒冰弹击退距离+3米，伤害+45%	380050302				1		5105		2	2	1001339	aliendefence.Upgrade_05_03_02_name	aliendefence.Upgrade_05_04_des	{3,45}	
+5107	寒冰弹命中造成3秒减速	380050401				1				2	2	1001343	aliendefence.Upgrade_05_04_01_name	aliendefence.Upgrade_05_05_des	{3}	
+5108	寒冰弹命中造成被冻结，持续3秒；被冻结的敌人10秒内不会再被冻结	380050901				1		5107		2	2	1001343	aliendefence.Upgrade_05_04_02_name	aliendefence.Upgrade_05_06_02_des	{3,10}	
+5109	寒冰弹伤害+60%	380050501				1				2	2	1001337	aliendefence.Upgrade_05_05_01_name	aliendefence.Upgrade_05_07_des	{60}	
+5110	寒冰弹伤害+60%	380050502				1		5109		2	2	1001337	aliendefence.Upgrade_05_05_02_name	aliendefence.Upgrade_05_07_des	{60}	
+5201	被寒冰弹冻结的敌人死亡产生2个额外的小寒冰弹，小寒冰弹会冻结敌人	380051101				2		5108		3	3	1001343	aliendefence.Upgrade_05_09_name	aliendefence.Upgrade_05_12_des	{2}	
+5202	产生的小寒冰弹数量增加至4个	380051102				2		5201		3	3	1001343	aliendefence.Upgrade_05_10_name	aliendefence.Upgrade_05_13_des	{4}	
+5301	寒冰弹穿透敌人次数+1	380050601				3				4	4	1001341	aliendefence.Upgrade_05_06_01_name	aliendefence.Upgrade_05_08_des	{1}	
+6101	寒冰射线数量+1	380060101				1				4	4	1001334	aliendefence.Upgrade_06_01_01_name	aliendefence.Upgrade_06_01_des	{1}	
+6102	寒冰射线数量+1	380060102				1		6101		4	4	1001334	aliendefence.Upgrade_06_01_02_name	aliendefence.Upgrade_06_01_des	{1}	
+6103	寒冰射线造成5秒易伤，敌人受到伤害+30%	380060701				1				3	3	1001338	aliendefence.Upgrade_06_06_01_name	aliendefence.Upgrade_06_08_des	{5,30}	
+6104	寒冰射线造成的易伤+5秒，敌人受到伤害+30%	380060702				1		6103		3	3	1001338	aliendefence.Upgrade_06_06_02_name	aliendefence.Upgrade_06_09_des	{5,30}	
+6105	寒冰射线伤害+50%，对敌人造成5秒减速	380060401				1				3	3	1001343	aliendefence.Upgrade_06_03_01_name	aliendefence.Upgrade_06_05_01_des	{50,5}	
+6106	寒冰射线技能冷却时间-30%	380060901				1			1	2	2	1001345	aliendefence.Upgrade_06_07_01_name	aliendefence.Upgrade_06_10_des	{30}	
+6107	寒冰射线技能冷却时间-30%	380060902				1		6106	1	3	3	1001345	aliendefence.Upgrade_06_07_02_name	aliendefence.Upgrade_06_10_des	{30}	
+6108	寒冰射线伤害+100%	380060601				1				2	2	1001337	aliendefence.Upgrade_06_05_01_name	aliendefence.Upgrade_06_07_des	{100}	
+6109	寒冰射线伤害+100%	380060602				1		6108		2	2	1001337	aliendefence.Upgrade_06_05_02_name	aliendefence.Upgrade_06_07_des	{100}	
+6110	寒冰射线伤害+100%	380060603				1		6109		2	2	1001337	aliendefence.Upgrade_06_05_03_name	aliendefence.Upgrade_06_07_des	{100}	
+6201	寒冰射线对敌人造成5秒冻伤	380060301				2				4	4	1001343	aliendefence.Upgrade_06_02_01_name	aliendefence.Upgrade_06_02_des	{5}	
+6202	寒冰射线造成的冻伤+5秒	380060302				2		6201		4	4	1001343	aliendefence.Upgrade_06_02_02_name	aliendefence.Upgrade_06_03_des	{5}	
+6301	攻击频率增加40%	380060201				3				3	3	1001338	aliendefence.Upgrade_06_08_name	aliendefence.Upgrade_06_11_des	{40}	
+7101	轨道激光攻击范围+100%	380070101				1				3	3	1001335	aliendefence.Upgrade_07_01_name	aliendefence.Upgrade_07_01_des	{100}	
+7102	轨道激光移动速度+100%	380070201				1				2	2	1001340	aliendefence.Upgrade_07_02_name	aliendefence.Upgrade_07_02_des	{100}	
+7103	同时释放两个激光	380070701				1				4	4	1001334	aliendefence.Upgrade_07_07_01_name	aliendefence.Upgrade_07_07_01_des	{1}	
+7104	同时释放三个激光	380070702				1		7103		4	4	1001334	aliendefence.Upgrade_07_07_02_name	aliendefence.Upgrade_07_07_02_des	{1}	
+7105	轨道激光伤害+60%	380070401				1				2	2	1001337	aliendefence.Upgrade_07_04_01_name	aliendefence.Upgrade_07_04_des	{60}	
+7106	轨道激光伤害+60%	380070402				1		7105		2	2	1001337	aliendefence.Upgrade_07_04_02_name	aliendefence.Upgrade_07_04_des	{60}	
+7107	轨道激光伤害+60%	380070403				1		7106		2	2	1001337	aliendefence.Upgrade_07_04_03_name	aliendefence.Upgrade_07_04_des	{60}	
+7108	轨道激光冷却时间-30%	380070501				1			1	4	4	1001345	aliendefence.Upgrade_07_05_01_name	aliendefence.Upgrade_07_05_des	{30}	
+7109	轨道激光冷却时间-30%	380070502				1		7108	1	4	4	1001345	aliendefence.Upgrade_07_05_02_name	aliendefence.Upgrade_07_05_des	{30}	
+7110	轨道激光对处于异常状态的敌人伤害+100%	380070601				1				2	2	1001338	aliendefence.Upgrade_07_06_01_name	aliendefence.Upgrade_07_06_des	{100}	
+7201	轨道激光每2秒会召唤一次伴生激光	380070901				2				3	3	1001338	aliendefence.Upgrade_07_09_01_name	aliendefence.Upgrade_07_09_des	{2}	
+7202	伴生激光改为每1秒召唤一次，且伤害+60%	380070902				2		7201		4	4	1001338	aliendefence.Upgrade_07_09_02_name	aliendefence.Upgrade_07_09_01_des	{1,60}	
+7301	轨道激光每2秒晕眩半径3m范围内敌人1秒	380071001				3				3	3	1001338	aliendefence.Upgrade_07_10_name	aliendefence.Upgrade_07_10_des	{2,3,1}	
+8101	引力球伤害范围+100%	380080101				1				3	3	1001335	aliendefence.Upgrade_08_01_name	aliendefence.Upgrade_08_01_des	{100}	
+8102	引力球牵引范围+100%，牵引距离增加100%	380080901				1				4	4	1001347	aliendefence.Upgrade_08_07_01_name	aliendefence.Upgrade_08_08_01_des	{100,100}	
+8103	引力球牵引范围+100%，牵引距离增加100%	380080902				1		8102		4	4	1001347	aliendefence.Upgrade_08_07_02_name	aliendefence.Upgrade_08_08_01_des	{100,100}	
+8104	引力球数量+1	380081201				1				4	4	1001334	aliendefence.Upgrade_08_08_name	aliendefence.Upgrade_08_09_des	{1}	
+8105	引力球伤害和结束爆炸伤害+50%	380080301				1				2	2	1001337	aliendefence.Upgrade_08_03_01_name	aliendefence.Upgrade_08_03_01_des	{50}	
+8106	引力球伤害和结束爆炸伤害+50%	380080401				1		8105		2	2	1001337	aliendefence.Upgrade_08_03_02_name	aliendefence.Upgrade_08_03_01_des	{50}	
+8107	冷却时间-30%	380081001				1			1	4	4	1001336	aliendefence.Upgrade_08_04_03_name	aliendefence.Upgrade_08_04_02_des	{30}	
+8108	冷却时间-30%	380081002				1		8107	1	4	4	1001336	aliendefence.Upgrade_08_04_04_name	aliendefence.Upgrade_08_04_02_des	{30}	
+8109	被吸引的敌人5秒内，受到伤害+50%	380080601				1				2	2	1001338	aliendefence.Upgrade_08_05_01_name	aliendefence.Upgrade_08_05_des	{5,50}	
+8110	被吸引的敌人5秒内，受到伤害+50%	380080602				1		8109		2	2	1001338	aliendefence.Upgrade_08_05_02_name	aliendefence.Upgrade_08_05_des	{5,50}	
+8201	引力球结束时产生5米爆炸	380080701				2				3	3	1001346	aliendefence.Upgrade_08_06_01_name	aliendefence.Upgrade_08_06_des	{5}	
+8202	引力球结束时的爆炸范围+5米	380080702				2		8201		4	4	1001346	aliendefence.Upgrade_08_06_02_name	aliendefence.Upgrade_08_07_des	{5}	
+8301	牵引范围内的怪物移速降低50%，持续5秒	380081101				3				4	4	1001343	aliendefence.Upgrade_08_09_name	aliendefence.Upgrade_08_10_des	{50,5}	
+9101	增加1个钻头	380090101				1				3	3	1001335	aliendefence.Upgrade_09_01_01_name	aliendefence.Upgrade_09_01_des	{1}	
+9102	增加1个钻头	380090102				1		9101		3	3	1001347	aliendefence.Upgrade_09_01_02_name	aliendefence.Upgrade_09_01_des	{1}	
+9103	增加2个钻头	380090103				1		9102		4	4	1001347	aliendefence.Upgrade_09_01_03_name	aliendefence.Upgrade_09_01_des	{2}	
+9104	钻头伤害+60%	380090201				1				2	2	1001337	aliendefence.Upgrade_09_02_01_name	aliendefence.Upgrade_09_02_des	{60}	
+9105	钻头伤害+60%	380090202				1		9104		2	2	1001337	aliendefence.Upgrade_09_02_02_name	aliendefence.Upgrade_09_02_des	{60}	
+9106	钻头伤害+60%	380090203				1		9105		2	2	1001337	aliendefence.Upgrade_09_02_03_name	aliendefence.Upgrade_09_02_des	{60}	
+9107	被命中敌人，减速50%，持续3秒	380090301				1				3	3	1001336	aliendefence.Upgrade_09_03_01_name	aliendefence.Upgrade_09_03_01_des	{50,3}	
+9108	特制光钻命中目标后使其移动速度降低50%，持续时间增加3秒	380090302				1		9107		3	3	1001336	aliendefence.Upgrade_09_03_02_name	aliendefence.Upgrade_09_03_02_des	{50,3}	
+9109	被命中的敌人增加易伤30%4秒	380090401				1				2	2	1001338	aliendefence.Upgrade_09_04_01_name	aliendefence.Upgrade_09_04_01_des	{30,4}	
+9110	钻头造成的易伤+60%，持续时间+4秒	380090402				1		9109		2	2	1001338	aliendefence.Upgrade_09_04_02_name	aliendefence.Upgrade_09_04_02_des	{60,4}	
+9201	钻头命中晕眩敌人1秒	380090501				2				3	3	1001346	aliendefence.Upgrade_09_05_01_name	aliendefence.Upgrade_09_05_01_des	{1}	
+9202	钻头造成的晕眩+2秒	380090502				2		9201		4	4	1001346	aliendefence.Upgrade_09_05_02_name	aliendefence.Upgrade_09_05_02_des	{2}	
+9301	钻头体积增加	380090601				3				4	4	1001347	aliendefence.Upgrade_09_06_01_name	aliendefence.Upgrade_09_06_des		
+10101	释放频率降低为2.5秒	380100101				1				3	3	1001335	aliendefence.Upgrade_10_01_01_name	aliendefence.Upgrade_10_01_des	{2.5}	
+10102	释放频率降低为2秒	380100102				1		10101		3	3	1001347	aliendefence.Upgrade_10_01_02_name	aliendefence.Upgrade_10_01_des	{2}	
+10103	释放频率降低为1.5秒	380100103				1		10102		3	3	1001347	aliendefence.Upgrade_10_01_03_name	aliendefence.Upgrade_10_01_des	{1.5}	
+10104	小球伤害+60%	380100201				1				2	2	1001337	aliendefence.Upgrade_10_02_01_name	aliendefence.Upgrade_10_02_des	{60}	
+10105	小球伤害+60%	380100202				1		10104		2	2	1001337	aliendefence.Upgrade_10_02_02_name	aliendefence.Upgrade_10_02_des	{60}	
+10106	小球伤害+60%	380100203				1		10105		2	2	1001337	aliendefence.Upgrade_10_02_03_name	aliendefence.Upgrade_10_02_des	{60}	
+10107	桩子数量+1	380100301				1				3	3	1001336	aliendefence.Upgrade_10_03_01_name	aliendefence.Upgrade_10_03_des	{1}	
+10108	地面区域增加伤害（原来无伤害）	380100401				1				4	4	1001336	aliendefence.Upgrade_10_04_01_name	aliendefence.Upgrade_10_04_01_des		
+10109	地面区域伤害增加100%	380100402				1		10108		2	2	1001338	aliendefence.Upgrade_10_04_02_name	aliendefence.Upgrade_10_04_02_des	{100}	
+10110	地面区域范围增加50%，且增加减速30%效果	380100501				1				2	2	1001338	aliendefence.Upgrade_10_05_01_name	aliendefence.Upgrade_10_05_des	{50,30}	
+10201	增加小球50%飞行距离	380100601				2				4	4	1001346	aliendefence.Upgrade_10_06_01_name	aliendefence.Upgrade_10_06_des	{50}	
+10202	增加小球100%飞行距离	380100602				2		10201		4	4	1001346	aliendefence.Upgrade_10_06_02_name	aliendefence.Upgrade_10_06_des	{100}	
+10301	小球数量增加为16个	380100701				3				3	3	1001347	aliendefence.Upgrade_10_07_01_name	aliendefence.Upgrade_10_07_des	{16}	
+51101	【终极】电力球触发额外地表轰炸	380200101				1				4	5	1001347	aliendefence.Upgrade_51_01_name	aliendefence.Upgrade_51_01_des		
+51102	【终极】技能伤害增加	380200102				1				4	5	1001337	aliendefence.Upgrade_51_02_name	aliendefence.Upgrade_51_02_des	{60}	
+51103	【终极】麻痹时间增加，麻痹时间结束后附带减速效果	380200103				1		51101		4	5	1001346	aliendefence.Upgrade_51_03_name	aliendefence.Upgrade_51_03_des	{6}	
+52101	【终极】每次激光攻击时，增加附带一次地面燃爆效果，燃爆附带减速	380170101				1				4	5	1001347	aliendefence.Upgrade_52_01_name	aliendefence.Upgrade_52_01_des	{5}	
+52102	【终极】技能伤害提升	380170102				1		52101		4	5	1001337	aliendefence.Upgrade_52_02_name	aliendefence.Upgrade_52_02_des	{30}	
+52103	【终极】冷却时间缩短	380170103				1				4	5	1001346	aliendefence.Upgrade_52_03_name	aliendefence.Upgrade_52_03_des	{40}	
+53101	【终极】冰冻块命中敌人后变范围爆炸	380190101				1				4	5	1001347	aliendefence.Upgrade_53_01_name	aliendefence.Upgrade_53_01_des		
+53102	【终极】冰冻时间延长并附加易伤	380190102				1		53101		4	5	1001346	aliendefence.Upgrade_53_02_name	aliendefence.Upgrade_53_02_des	{8,200,8}	
+53103	【终极】技能伤害提升10%	380190103				1				4	5	1001337	aliendefence.Upgrade_53_03_name	aliendefence.Upgrade_53_03_des	{50}	
+54101	【终极】轰炸攻击附带眩晕	380210101				1				4	5	1001347	aliendefence.Upgrade_54_01_name	aliendefence.Upgrade_54_01_des	{2}	
+54102	【终极】轰炸频率增加	380210102				1				4	5	1001337	aliendefence.Upgrade_54_02_name	aliendefence.Upgrade_54_02_des		
+54103	【终极】增伤、减速、眩晕效果增强	380210103				1		54101		4	5	1001346	aliendefence.Upgrade_54_03_name	aliendefence.Upgrade_54_03_des	{80,200,4}	
+55101	【终极】附带一次额外攻击	380180101				1				4	5	1001347	aliendefence.Upgrade_55_01_name	aliendefence.Upgrade_55_01_des		
+55102	【终极】轰炸频率增加	380180102				1				4	5	1001337	aliendefence.Upgrade_55_02_name	aliendefence.Upgrade_55_02_des	{60}	
+55103	【终极】增伤、减速、眩晕效果增强	380180103				1		55101		4	5	1001346	aliendefence.Upgrade_55_03_name	aliendefence.Upgrade_55_03_des		
+97001	通用升级卡牌1-防线血量回复20%		3809801				2			2	2	1001335	aliendefence.Upgrade_998_01_name	aliendefence.Upgrade_998_01_des	{20}	
+97002	通用升级卡牌2-机枪伤害增加20%		3809802				4			2	2	1001347	aliendefence.Upgrade_998_02_name	aliendefence.Upgrade_998_02_des	{20}	
+97003	通用升级卡牌3-所有伙伴伤害增加20%		3809803				3			2	2	1001335	aliendefence.Upgrade_998_03_name	aliendefence.Upgrade_998_03_des	{20}	
+98001	子弹命中敌人产生2个分裂子弹	380990701				1	1			3	3	1001347	aliendefence.Upgrade_999_07_01_name	aliendefence.Upgrade_999_07_01_des	{2}	
+98002	子弹命中敌人产生4个分裂子弹	380990702				1	1	98001		4	4	1001335	aliendefence.Upgrade_999_07_02_name	aliendefence.Upgrade_999_07_02_des	{4}	
+98003	分裂子弹造成的伤害提升60%	380990703				1	1	98002		4	4	1001347	aliendefence.Upgrade_999_07_03_name	aliendefence.Upgrade_999_07_03_des	{60}	
+98004	机枪变为爆炸伤害，射速降低					1	1			4	4	1001335	aliendefence.Upgrade_999_02_01_name	aliendefence.Upgrade_999_02_01_des		
+98005	爆炸范围+100%	380990201				1	1	98004		3	3	1001347	aliendefence.Upgrade_999_02_02_name	aliendefence.Upgrade_999_02_02_des	{100}	
+98006	机枪伤害附带减速30%，持续3秒	380990301				1	1			2	2	1001335	aliendefence.Upgrade_999_03_01_name	aliendefence.Upgrade_999_03_01_des	{30,3}	
+98007	机枪伤害附带减速50%，持续5秒	380990302				1	1	98006		3	3	1001347	aliendefence.Upgrade_999_03_02_name	aliendefence.Upgrade_999_03_02_des	{50,5}	
+98008	机枪伤害+100%	380990401				1	1			2	2	1001335	aliendefence.Upgrade_999_04_01_name	aliendefence.Upgrade_999_04_des	{100}	
+98009	机枪伤害+100%	380990402				1	1	98008		2	2	1001347	aliendefence.Upgrade_999_04_02_name	aliendefence.Upgrade_999_04_des	{100}	
+98010	机枪伤害+100%	380990403				1	1	98009		2	2	1001335	aliendefence.Upgrade_999_04_03_name	aliendefence.Upgrade_999_04_des	{100}	
+98011	机枪附带灼烧伤害	380990501				1	1			3	3	1001347	aliendefence.Upgrade_999_05_01_name	aliendefence.Upgrade_999_05_01_des		
+98012	灼烧伤害+100%	380990502				1	1	98011		2	2	1001335	aliendefence.Upgrade_999_05_02_name	aliendefence.Upgrade_999_05_02_des	{100}	
+98013	机枪对异常状态敌人伤害+100%	380990601				3	5			2	2	1001347	aliendefence.Upgrade_999_06_01_name	aliendefence.Upgrade_999_06_des	{100}	
+98014	机枪伤害+20%		3809911			3	5			2	2	1001335	aliendefence.Upgrade_999_08_01_name	aliendefence.Upgrade_999_04_des	{20}	aliendefence.Upgrade_Difference_01_des
+98015	机枪伤害+40%		3809912			3	5			2	2	1001347	aliendefence.Upgrade_999_08_02_name	aliendefence.Upgrade_999_04_des	{40}	
+98016	子弹数量增加到600				600	3	5			2	2	1001335	aliendefence.Upgrade_999_01_01_name	aliendefence.Upgrade_999_01_01_des	{600}	aliendefence.Upgrade_Difference_04_des
+98017	子弹数量无限				-1	3	5			4	4	1001347	aliendefence.Upgrade_999_01_02_name	aliendefence.Upgrade_999_01_02_des	{-1}	
+99001	通用被动1-本技能伤害+20%		3809804			4				1	1	1001335	aliendefence.Upgrade_997_01_01_name	aliendefence.Upgrade_997_01_des	{20}	aliendefence.Upgrade_Difference_01_des
+99002	通用被动2-本技能伤害+40%		3809805			4				1	1	1001347	aliendefence.Upgrade_997_01_02_name	aliendefence.Upgrade_997_01_des	{40}	
+99003	通用被动3-技能触发范围+5m			500		4				1	1	1001335	aliendefence.Upgrade_997_02_01_name	aliendefence.Upgrade_997_02_des	{5}	aliendefence.Upgrade_Difference_02_des
+99004	通用被动4-技能触发范围+5m			1000		4				1	1	1001347	aliendefence.Upgrade_997_02_02_name	aliendefence.Upgrade_997_02_des	{10}	
+99005	通用被动5-本技能冷却时间-10%		3809806			4				1	1	1001335	aliendefence.Upgrade_997_03_01_name	aliendefence.Upgrade_997_03_des	{10}	aliendefence.Upgrade_Difference_03_des
+99006	通用被动6-本技能冷却时间-10%		3809807			4				1	1	1001347	aliendefence.Upgrade_997_03_02_name	aliendefence.Upgrade_997_03_des	{20}	
+1	轰炸造成的灼烧+3秒	380010302				1		1106		3	3	1001342	aliendefence.Upgrade_01_03_02_name	aliendefence.Upgrade_01_04_des	{3}	
+2	轰炸在地面留下持续4秒的火焰陷阱	380010401				1				4	4	1001342	aliendefence.Upgrade_01_04_name	aliendefence.Upgrade_01_05_des	{4}	
+3	轰炸击退敌人2米，对灼烧敌人伤害+15%	380010601				2				3	3	1001339	aliendefence.Upgrade_01_06_01_name	aliendefence.Upgrade_01_07_des	{2,15}	
+4	轰炸击退距离2米，对灼烧敌人伤害+15%	380010602				2		3		4	4	1001339	aliendefence.Upgrade_01_06_02_name	aliendefence.Upgrade_01_08_des	{2,15}	
+5	火焰陷阱对敌人造成5秒灼烧	380020301				1				1	1	1001342	aliendefence.Upgrade_02_03_01_name	aliendefence.Upgrade_02_03_des	{5}	
+6	火焰陷阱造成的灼烧+5秒	380020302				1		5		2	2	1001342	aliendefence.Upgrade_02_03_02_name	aliendefence.Upgrade_02_04_des	{5}	
+7	灼烧伤害+100%	380020501				1		5		1	1	1001337	aliendefence.Upgrade_02_05_01_name	aliendefence.Upgrade_02_06_des	{100}	
+8	灼烧伤害+100%	380020502				1		7		2	2	1001337	aliendefence.Upgrade_02_05_02_name	aliendefence.Upgrade_02_06_des	{100}	
+9	触碰到火焰陷阱的敌人移速-50%，持续5秒	380020601				1				3	3	1001338	aliendefence.Upgrade_02_06_name	aliendefence.Upgrade_02_07_des	{50}	
+10	火焰陷阱结束时产生3米的爆炸	380020701				2				4	4	1001346	aliendefence.Upgrade_02_07_01_name	aliendefence.Upgrade_02_08_des	{3}	
+11	火焰陷阱结束时爆炸的范围+3米	380020702				2		10		1	1	1001346	aliendefence.Upgrade_02_07_02_name	aliendefence.Upgrade_02_09_des	{3}	
+12	电磁地面伤害+100%	380030502				1		3109		4	4	1001337	aliendefence.Upgrade_03_05_02_name	aliendefence.Upgrade_03_06_des	{100}	
+13	处于电磁地面的敌人受到的伤害+30%	380030601				2		3104		1	1	1001338	aliendefence.Upgrade_03_06_01_name	aliendefence.Upgrade_03_07_des	{30}	
+14	处于电磁地面的敌人受到的伤害+30%	380030602				2		13		2	2	1001338	aliendefence.Upgrade_03_06_02_name	aliendefence.Upgrade_03_07_des	{30}	
+15	发射寒冰弹数量+1	380050101				1				1	1	1001334	aliendefence.Upgrade_05_01_01_name	aliendefence.Upgrade_05_01_des	{1}	
+16	发射寒冰弹数量+1	380050102				1		15		2	2	1001334	aliendefence.Upgrade_05_01_02_name	aliendefence.Upgrade_05_01_des	{1}	
+17	寒冰弹造成的减速+3秒	380050402				1		5107		4	4	1001343	aliendefence.Upgrade_05_04_02_name	aliendefence.Upgrade_05_06_des	{3}	
+18	寒冰弹穿透敌人次数+1	380050601				2				3	3	1001341	aliendefence.Upgrade_05_06_01_name	aliendefence.Upgrade_05_08_des	{1}	
+19	寒冰弹穿透敌人次数+1	380050602				2		18		4	4	1001341	aliendefence.Upgrade_05_06_02_name	aliendefence.Upgrade_05_08_des	{1}	
+20	寒冰弹对异常状态敌人伤害+30%	380050701				3				1	1	1001338	aliendefence.Upgrade_05_07_name	aliendefence.Upgrade_05_09_des	{30}	
+21	寒冰射线技能冷却时间-50%	380060801				1			1	4	4	1001345	aliendefence.Upgrade_06_07_name	aliendefence.Upgrade_06_10_des	{50}	
+22	寒冰射线对敌人造成5秒冻伤	380060301				1				1	1	1001343	aliendefence.Upgrade_06_02_01_name	aliendefence.Upgrade_06_02_des	{5}	
+23	寒冰射线造成的冻伤+5秒	380060302				1		22		2	2	1001343	aliendefence.Upgrade_06_02_02_name	aliendefence.Upgrade_06_03_des	{5}	
+24	寒冰射线造成5秒易伤，敌人受到伤害+30%	380060701				2				4	4	1001338	aliendefence.Upgrade_06_06_01_name	aliendefence.Upgrade_06_08_des	{5,30}	
+25	寒冰射线造成的易伤+5秒，敌人受到伤害+30%	380060702				2		24		1	1	1001338	aliendefence.Upgrade_06_06_02_name	aliendefence.Upgrade_06_09_des	{5,30}	
+26	寒冰射线持续时长+100%	380060501				1				4	4	1001336	aliendefence.Upgrade_06_04_01_name	aliendefence.Upgrade_06_06_des	{100}	
+27	寒冰射线持续时长+100%	380060502				1		26		1	1	1001336	aliendefence.Upgrade_06_04_02_name	aliendefence.Upgrade_06_06_des	{100}	
+28	轨道激光持续时间+80%	380070301				1				1	1	1001336	aliendefence.Upgrade_07_03_01_name	aliendefence.Upgrade_07_03_des	{80}	
+29	轨道激光持续时间+80%	380070302				1		28		2	2	1001336	aliendefence.Upgrade_07_03_02_name	aliendefence.Upgrade_07_03_des	{80}	
+30	轨道激光对处于异常状态的敌人伤害+100%	380070601				2				1	1	1001338	aliendefence.Upgrade_07_06_01_name	aliendefence.Upgrade_07_06_des	{100}	
+31	轨道激光对处于异常状态的敌人伤害+100%	380070602				2		30		2	2	1001338	aliendefence.Upgrade_07_06_02_name	aliendefence.Upgrade_07_06_des	{100}	
+32	轨道激光时间结束时，在原地停留+4秒后才消失	380070801				3				3	3	1001338	aliendefence.Upgrade_07_08_name	aliendefence.Upgrade_07_08_des	{4}	
+33	引力球牵引范围+50%	380080201				1				1	1	1001347	aliendefence.Upgrade_08_02_01_name	aliendefence.Upgrade_08_02_des	{50}	
+34	引力球牵引范围+50%	380080202				1		33		2	2	1001347	aliendefence.Upgrade_08_02_02_name	aliendefence.Upgrade_08_02_des	{50}	
+35	引力球伤害和结束爆炸伤害+150%	380080402				1		8105		1	1	1001337	aliendefence.Upgrade_08_03_03_name	aliendefence.Upgrade_08_03_01_des	{150}	
+36	引力球持续时间+20%，冷却时间-40%	380080501				1			1	2	2	1001336	aliendefence.Upgrade_08_04_01_name	aliendefence.Upgrade_08_04_01_des	{20,40}	
+37	引力球持续时间+20%，冷却时间-40%	380080502				1		36	1	3	3	1001336	aliendefence.Upgrade_08_04_02_name	aliendefence.Upgrade_08_04_01_des	{20,40}	
+38	怪物被牵引距离+100%	380080801				3				4	4	1001347	aliendefence.Upgrade_08_07_name	aliendefence.Upgrade_08_08_des	{100}	

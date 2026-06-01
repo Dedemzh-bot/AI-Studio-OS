@@ -1,0 +1,8 @@
+﻿ID	说明	镜头路径
+Id	Name	Path
+0	默认线性	
+1	曲线1	
+2	试用spineshake三维曲线	CurveVector'/Game/Blueprints/Plot/Assets/Curves/PlotRoleShake_02.PlotRoleShake_02'
+3	试用spineshake一维曲线	CurveFloat'/Game/Blueprints/Plot/Assets/Curves/PlotRoleShake_01.PlotRoleShake_01'
+4	spineshake三维激动曲线	CurveVector'/Game/Blueprints/Plot/Assets/Curves/Spinejidong.Spinejidong'
+999	示例配置曲线	CurveFloat'/Game/Blueprints/Plot/Assets/Curves/ExampleCurve.ExampleCurve'

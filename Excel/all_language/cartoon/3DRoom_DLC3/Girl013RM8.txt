@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	这块就放在这里。	這塊就放在這裡。	これはここ。	이 조각은 여기에 놓아야겠어요.	This piece goes here.						0	
+page0.2	今天就先拼这些吧！辛苦你等我了，分析员。	今天就先拚這些吧!辛苦你等我了，分析員。	今日はここまでにしよう！待たせたね、分析員。	오늘은 여기까지만 할게요! 기다리느라 고생했어요, 분석가님.	That's enough for today! Thanks for waiting for me, Adjutant.						0	
+page0.3	没事，也没等很久。	沒關係，我也沒等很久。	いや、私も来たばかりだ。	괜찮아, 별로 오래 기다리지도 않았는데 뭘.	It's alright. I wasn't waiting long.						0	
+page0.4	你好像在资源部买了不少拼图。	你好像在資源部買了不少拼圖。	資源部でパズルをいっぱい買ったらしいな。	자원부에서 퍼즐을 많이 샀구나.	Looks like you bought a bunch of puzzles from the Resource Department.						0	
+page0.5	嗯嗯，这应该是第……第很多块了，嘿嘿。	嗯嗯，這應該是第……第很多塊了，嘿嘿。	うん。これは……いくつめだっけ？えへへ。	네, 이게 아마… 벌써 N 번째 맞추는 퍼즐일 거예요, 헤헤.	Yep! This is like... the billionth one, haha.						0	
+page0.6	瑟瑞斯为什么这么喜欢拼图呢？	瑟瑞斯為什麼這麼喜歡拼圖呢?	シーリスはどうしてそんなにパズルが好きなんだ？	세리스는 퍼즐을 왜 그렇게 좋아하는 거야?	Why do you like puzzles so much, Siris?						0	
+page0.7	我想想，好像没有什么特别的理由。	我想想，好像也沒有什麼特別的理由。	うーん、特別な理由はないかも。	음, 특별한 이유는 없는 것 같아요.	Let me see... I don't think there's a special reason.						0	
+page0.8	如果硬要说的话，拼图比较适合我吧。	如果硬要說的話，因為拼圖比較適合我吧。	強いて言えば相性がいい、かな。	굳이 말하자면, 퍼즐이 저한테 잘 맞는 것 같다고나 할까요?	But if I had to pick one, I think it's because puzzles are perfect for me.						0	
+page0.9	不需要考虑之前做了什么，只需要根据现在的情况决定下一步。	不需要考慮之前做了什麼，只需要根據目前的情況決定下一步即可。	前にしたことを考えなくていいし、状況に合わせて次をどうするか決めるだけだから！	이전에 뭘 했는지 고민하지 않아도 되고, 현재 상황에 따라서 다음 단계로 넘어가면 되니까요.	I don't need to worry about anything I did before. I just need to think about my next step based on the current situation.						0	
+page0.10	这么一说，还真有些瑟瑞斯的作风。	這麼說來，還真有瑟瑞斯的行事風格。	確かに、シーリスらしいな。	맞는 말이야, 정말 세리스와 잘 맞는 것 같네.	When you say it like that, it does sound perfect for you.						0	
+page0.11	而且，拼图拼完的时候，会有一种很满足的感觉。	而且，完成拼圖的時候會有一種滿足感。	それに完成したら、とても満足した気分になる。	그리고 퍼즐을 다 맞추고 나면, 정말 보람차요.	And I feel really satisfied after I finish a puzzle.						0	
+page0.12	如果我的记忆也能像这样一点点恢复就好啦。	如果我的記憶也能像這樣一點一點恢復的話就好啦。	私の記憶もこうやって少しずつ取り戻せたらいいのにね。	제 기억도 퍼즐처럼 조금씩 회복된다면 좋겠어요.	I wish my memory could be restored little by little just like that.						0	
+page0.13	会有这样一天的。	會有這麼一天的。	いつかできるさ。	반드시 그런 날이 올 거야.	It will someday.						0	
+page0.14	嗯！我相信分析员。	嗯!我相信分析員。	うん！私は分析員を信じる。	네! 분석가님을 믿을게요.	Yeah! I believe you, Adjutant.						0	

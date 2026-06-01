@@ -1,0 +1,110 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	敌人的数量还在不断增加，你们还能顶得住吗？	敵人的數量還在不斷增加，你們還撐得住嗎？	敵の数が増え続けてるな。まだ耐えられそうか？	적이 계속 늘어나고 있어. 너희 계속 버틸 수 있겠어?	There are more of them every second. You two holding up okay?						0	2.7版本主线故事
+2	当然！不过分析员，要等一会儿再启动大货梯吗？	當然！不過分析員，要等一下再啟動大貨梯嗎？	もちろん！分析員、リフトの起動はまたあとにする？	당연하지! 그런데 분석가, 엘리베이터는 이따가 작동시킬 거야?	Yeah, we're good! But... Adjutant, should we hold off on activating the lift?						0	2.7版本主线故事
+3	不，恰恰相反，我们现在就去启动大货梯。	不，剛好相反，我們現在就去啟動大貨梯。	いや。今すぐ起動しに行こう。	아니, 그 반대야. 지금 바로 작동시켜야 해.	No. We're doing it now.						0	2.7版本主线故事
+4	分析员？	分析員？	分析員？	분석가?	Wait, now?						0	2.7版本主线故事
+5	既然他们是从下面涌上来的，那么我们就直接用大货梯把它们撞个稀巴烂。	既然他們是從下面湧上來的，那我們就直接用大貨梯把它們撞個稀巴爛。	このままじゃ埒が明かない。リフトを落下させて直接敵の出処を叩かないと。	녀석들이 아래에서 올라오고 있으니까, 우린 엘리베이터를 타고 저놈들을 산산조각 낼 거야.	If they want to crawl up from below, why not give them a little surprise — we drop the lift right on their heads and crush them all at once.						0	2.7版本主线故事
+6	但是大货梯的强度……啊，分析员是想到解决方案了吗。	但是大貨梯的強度……啊，分析員是想到解決方案了嗎？	でもリフトの固さじゃ……あ！もしかして分析員、なにか手を思いついたの？	하지만 엘리베이터의 강도가… 아, 분석가는 방법을 알고 있구나?	But the lift can't handle that kind of impact... Oh, wait — you already have a plan, don't you?						0	2.7版本主线故事
+7	愿闻其详。	願聞其詳。	説明しろ。	자세하게 말해 봐.	Let's hear it.						0	2.7版本主线故事
+8	既然强度不够，那么我们就避免让其与泰坦直接对撞，仅仅借用它的动能就好。	既然強度不夠，那我們就避免讓其與泰坦直接對撞，光是藉用它的動能就好。	もちろんそのまま落っことすわけじゃない。利用するのはリフトの落下する勢いだけだ。	강도가 부족하니 타이탄과 직접 부딪치는 건 피하고, 동력만 이용하면 돼.	If the lift can't handle a direct hit, we won't slam it straight into them. We'll just leverage its momentum.						0	2.7版本主线故事
+9	我打算将能量汇聚在电梯正下方，形成一枚巨大的“钻头”。	我打算將能量匯聚在電梯正下方，形成一枚巨大的「鑽頭」。	その後、私がタイタン物質でリフトの真下にデカい「ドリル」を作る。	에너지를 엘리베이터 바로 아래에 모은 다음, 거대한 '드릴'을 만들 생각이야.	I'm going to channel the energy beneath it to make a massive "drill."						0	2.7版本主线故事
+10	然后利用它突破围剿吗？	然後利用它突破圍剿嗎？	それで包囲網を破るつもりか。	그걸로 포위를 뚫으려고?	To pierce straight through the swarm?						0	2.7版本主线故事
+11	没错。	沒錯。	ああ。	맞아.	Exactly.						0	2.7版本主线故事
+12	我点了点头，为了方便面前的两位理解，我顺手凝聚起周边的泰坦物质，然后做出了一个小小的钻头模型。	我點了點頭，為了方便眼前的兩位理解，我順手凝聚起周邊的泰坦物質，然後做出了一個小小的鑽頭模型。	説明の補足として、私は空気中のタイタン物質を凝華させて小さなドリルの形にして見せる。	나는 고개를 끄덕였다. 앞에 있는 두 사람의 이해를 돕기 위해, 나는 주변의 타이탄 물질을 뭉쳐 작은 드릴 모형을 만들었다.	I gave a slight nod as I shaped the surrounding Titagen into a small spinning drill in my palm — a visual cue to help them understand the plan.						0	2.7版本主线故事
+13	呵，还真是大胆的提议，不过，是我喜欢的风格。	呵，還真是大膽的提議，不過，是我喜歡的風格。	フッ……大胆な提案だが、気に入った。	하하, 정말 대담한 생각이네. 내 스타일이야.	Heh, a rather bold move. But I like it.						0	2.7版本主线故事
+14	奈莉德单手叉腰，称赞道。	奈莉德單手叉腰，稱讚道。	ネリーダは片手を腰に当てながら言った。	네리다가 한 손으로 허리를 짚고 칭찬했다.	Hand on her hip, Nerida shot me an approving look.						0	2.7版本主线故事
+15	那接下来就是——	那麼接下來就——	それで――	그럼 다음으로는…	And then, we'll need—						0	2.7版本主线故事
+16	能量供给就交给我吧。	能量供給就交給我吧。	エネルギーの供給は任せて！	에너지 공급은 나한테 맡겨.	Leave the energy supply to me.						0	2.7版本主线故事
+17	一旁的妮塔已经预料到了我接下来想要说的话。	一旁的妮塔已經預料到我接下來想說的話了。	私が教えるまでもなく、隣のニタは自分の役目を口にする。	옆에 있던 니타는 내가 무슨 말을 하려는지 알고 있었다.	Nita finished my thought before I even voiced it.						0	2.7版本主线故事
+18	的确，虽然现在周遭都是泰坦物质，不过这些泰坦物质还是过于零散了，想要完美地塑形，就必须要有更加集中更加纯粹的能源供给……	的確，雖然現在周圍都是泰坦物質，不過這些泰坦物質還是過於零散了，想要完美地塑形，就必須要有更集中更純粹的能源供給……	確かに周囲にタイタン物質はたくさんあるが、散らばりすぎている。完璧に形作るためには、より集中した純粋なエネルギー供給が必要だ。	그렇다. 지금 주변에 타이탄 물질이 많긴 하지만, 다 너무 흩어져 있는 터라 완벽한 형태를 구현하려면 보다 집중적이고 순수한 에너지 공급이 필요했다…	She was right — even surrounded by Titagen, the energy was scattered and unstable. Shaping it into anything usable would require a more focused, purified source.						0	2.7版本主线故事
+19	而目前能做到这一点的，只有面前的妮塔。	而目前能做到這一點的，只有眼前的妮塔。	そして目下、そんなことができるのは、ニタだけだ。	지금 이것을 해낼 수 있는 사람은 내 앞의 니타뿐이었다.	And right now, only Nita had that kind of control.						0	2.7版本主线故事
+20	我会释放出悸响…不，是我自己全部的力量。	我會釋放出悸響……不，是我自己全部的力量。	「ドゥンドゥビ」の……ううん、私の全力を出すから！	내가 펄스를… 아니, 내 모든 힘을 방출할게.	I'm unleashing this new exosuit's full power — no, scratch that, I'm unleashing my full power.						0	2.7版本主线故事
+21	已经放下心中的包袱了吗？	已經放下心中的包袱了嗎？	悩み事はもう解決したな？	마음속의 짐은 이미 내려놨어?	Nothing holding you back now?						0	2.7版本主线故事
+22	嗯！我已经想通了。	嗯！我已經想通了。	うん！スッキリしたよ。	응! 이제 깨달았어.	Nope! I'm ready to move on.						0	2.7版本主线故事
+23	我的力量，是为了守护心爱之人而存在的。	我的力量，是為了守護心愛之人而存在的。	私の力は、愛する人を守るためのもの。	내 힘은 사랑하는 사람을 지키기 위해 존재해.	My power's meant to protect the ones I care about.						0	2.7版本主线故事
+24	而分析员的存在，便是这一切的证明。	而分析員的存在，便是這一切的證明。	分析員の存在が、それを証明してくれたんだ。	그리고 분석가의 존재가 이걸 증명하지.	And you, Adjutant... you're living proof of that.						0	2.7版本主线故事
+25	妮塔闭上眼睛，缓缓地走向我。	妮塔閉上眼睛，緩緩地走向我。	言って近づいてきて、目を閉じる。	니타는 눈을 감고 천천히 내게 다가왔다.	Nita closed her eyes and stepped deliberately toward me.						0	2.7版本主线故事
+26	“咚”的一声，然后将额头抵在了我的胸口。	「咚」的一聲，然後將額頭抵在了我的胸口。	そして、こてりと額を私の胸に預けてくる。	 '콩' 하는 소리와 함께, 내 가슴에 이마를 기댔다.	Then, with a soft thump, she pressed her forehead gently against my chest.						0	2.7版本主线故事
+27	所以，到时候，还请看着我……	所以，到時候，請看著我……	だから、見てて。	그러니까, 그때가 되면 날 지켜봐 줘…	So please... when the time comes...						0	2.7版本主线故事
+28	看着我，拼尽全力战斗的身影。	看著我，拼盡全力戰鬥的身影。	全力で戦う私の姿を！	지켜봐 줘, 내가 최선을 다해 싸우는 모습을.	Watch me. Watch me give it everything I've got.						0	2.7版本主线故事
+b-1											0	2.7版本主线故事
+29	我会好好看着妮塔的，一如既往。	我會好好看著妮塔的，一如既往。	ああ。今まで通りに、ニタをしっかりと見守る。	니타를 꼭 지켜보고 있을게. 언제나 그랬던 것처럼.	I'll be watching you, Nita — just like I always have.						0	2.7版本主线故事
+30	学得挺快的啊，playername。	學得很快啊，playername。	もう使いこなせたのか、playername。	학습 속도가 빠른걸, playername.	Not bad, playername. You're a fast learner.						0	2.7版本主线故事
+31	谢谢夸奖，不过果然，还是这把手枪更顺手些。	謝謝誇獎，不過果然，還是這把手槍更順手點。	ああ。でもやっぱり私は、拳銃のほうがしっくりくるな。	칭찬 고마워. 그래도 역시 이 피스톨이 더 편하네.	Thanks, but I still prefer my own pistol.						0	2.7版本主线故事
+32	在我和奈莉德的配合之下，很快周遭三十米敌人便已被束带和子弹肃清。	在我和奈莉德的配合下，很快周圍三十公尺的敵人便已被束帶和子彈肅清。	断片的な会話を交わしながらぶっ放す銃弾とエネルギーベルトで、いつの間にか近くいる敵は全滅していた――	나와 네리다는 서로 호흡을 맞춰 벨트와 탄약으로 주변 30미터의 적들을 금세 처단했다.	Amid a hail of bullets and flying ribbons, Nerida and I took down every enemy within a 100-foot radius.						0	2.7版本主线故事
+33	——	——	――！！	…	*ROAR*						0	2.7版本主线故事
+34	然而，刚刚被击倒敌人却再次爬了起来，就和十六区的情况一样，有人在不断给它们供能。	然而，剛剛被擊倒敵人卻再次爬了起來，就和十六區的情況一樣，有人在不斷為它們供能。	と思った矢先、倒れたばかりの敵たちはまたぬくぬくと立ち上がった。エリア16のときと同じく、何者からエネルギーを供給してもらって倒れても復活するのだ。	그러나 방금 쓰러졌던 적이 다시 일어났다. 16구역에서의 상황처럼 누군가 계속 그들에게 에너지를 공급하고 있었다.	But just like in Zone 16, the enemies we'd taken down began rising again — someone was feeding them energy remotely.						0	2.7版本主线故事
+35	原地复活，这又是什么把戏？	原地復活，這又是什麼把戲？	復活した……？どういうことだ！	제자리에서 부활하다니, 어떤 속임수를 쓴 거지?	What fresh hell is this?						0	2.7版本主线故事
+36	好奇吗，回头再和你细说。	好奇嗎？之後再跟你細說。	あとで詳しく説明する。	궁금해? 나중에 자세히 말해줄게.	It's kinda complicated. I'll explain later.						0	2.7版本主线故事
+37	妮塔，你那边准备得怎么样了？！	妮塔，你那邊準備得怎麼樣了？！	ニタ、そっちの準備はどうだ！？	니타, 그쪽은 준비됐어?!	Nita! How's it going over there?						0	2.7版本主线故事
+38	就差最后一点了……	就差最後一點了……	あとちょっとだから……	이제 마지막이야…	Almost ready... just give me a sec...						0	2.7版本主线故事
+39	闭上眼睛，调整呼吸，将意识集中于一处。	閉上眼睛，調整呼吸，將意識集中在一起。	――目を瞑り、息を整え、ありたっけの意識を心の中へ向ける。	눈을 감고, 호흡을 가다듬고, 의식을 한 곳에 집중한다.	She closed her eyes, steadying her breath — centering her thoughts.						0	2.7版本主线故事
+40	然后，无需犹豫，向着心中的那堵火墙迈进。	然後，無需猶豫，向心中的那道火牆邁進。	迷いを払い、赫々と燃える炎の壁に向かって、地を蹴り飛ばす。	그리고 망설임 없이 마음속의 그 불의 장벽을 향해 나아간다.	Then, without hesitation, she stepped into the inferno blazing within her mind.						0	2.7版本主线故事
+41	如果说，它非要从自己的身边夺走些什么的话，那也无妨——	如果說，它非要從自己的身邊奪走點什麼的話，那也沒關係——	どうしても何かを奪われるというのなら、それで構わない――	만약 내게서 무언가를 반드시 앗아가야 한다고 해도 상관없다.	If that fire's gonna take something from me, so be it.						0	2.7版本主线故事
+42	将那些不愉快的回忆，留在此处便好。	將那些不愉快的回憶，留在此處就好。	嫌な記憶は、置いていけばいい。	기분 나쁜 기억들은 이곳에 남겨 놓으면 된다.	Let it take the fear, the doubt, the old scars.						0	2.7版本主线故事
+43	我曾经活了下来……	我曾經活了下來……	私は一度生き残った。	나는 살아남았다…	I survived...						0	2.7版本主线故事
+44	从浓烟、火焰、崩塌的屋顶中活了下来……	從濃煙、火焰、崩塌的屋頂中活了下來……	炎、黒煙、焼け落ちた屋根から、生き延びた。	연기, 화염, 무너진 집에서도 살아남았다…	Survived the smoke, the flames, the collapsing rooftop.						0	2.7版本主线故事
+45	虽然活了下来，但内心却一直被困在那天的火海中，无法挣脱。	雖然活了下來，但內心卻一直被困在那天的火海中，無法掙脫。	なのに、ずっとあの日の、炎の海に心を囚われて、逃げ出せずにいて……	살아남았지만, 마음은 항상 그날의 불바다에 묶여 벗어나지 못했다.	But ever since, my heart's still been trapped in the fire from that night.						0	2.7版本主线故事
+46	我很害怕失去，失去那些我所珍视的一切。	我很害怕失去，失去那些我所珍惜的一切。	大事なものを無くしちゃうのが怖くって……	나는 내가 소중히 여기는 모든 것을 잃을까 봐 두려웠다.	I was afraid — afraid of losing everything I cared about again.						0	2.7版本主线故事
+47	于是便躲到了假小子的外壳中，用坚强和不在乎掩饰恐惧。	於是便躲到了像男孩的外殼中，用堅強和不在乎掩飾恐懼。	それで大らかに振る舞って、強気で拘らない性格でビビっているのをずっと隠してた。	그래서 말괄량이라는 껍데기에 숨어 강한 척, 개의치 않는 척하며 두려움을 숨겼다.	So I hid behind a tough-girl facade — masking my fear, acting like nothing could ever get to me.						0	2.7版本主线故事
+48	可那道火墙，它始终在我心里燃烧，烧得我无法呼吸，烧得我无法正视自己。	但那道火牆，它始終在我心裡燃燒，燒得我無法呼吸，燒得我無法正視自己。	でも、あの火の壁はずっと私の中で燃えていて……そのせいで、息苦しくって、自分のことを直視できなくなって。	하지만 그 불의 장벽은 항상 내 마음속에서 불타며 숨 쉬지 못하게 했고, 나 자신을 직시하지 못하게 했다.	But the fire never stopped. It kept burning inside, blinding me from seeing what my heart truly wanted.						0	2.7版本主线故事
+49	——！	——！	……！	…!	*ROAR*						0	2.7版本主线故事
+50	唔嗯！！！	唔嗯！！！	くっ……！！！	으음!!!	Agh!!!						0	2.7版本主线故事
+51	举起枪射击	舉起槍射擊	銃を構えて撃つ。	총을 들어 사격한다	Raise your gun and fire						0	2.7版本主线故事
+52	碍事。	滾開！	邪魔だ。	걸리적거리네.	Not on my watch.						0	2.7版本主线故事
+53	谢谢你，分析员……	謝謝你，分析員……	ありがとう、分析員……	고마워, 분석가…	Thank you, Adjutant...						0	2.7版本主线故事
+54	但是啊，现在的我已经不用再逃避了，或者说不能再逃避了。	但是啊，現在的我已經不用再逃避了，或者說不能再逃避了。	でもね、もう逃げなくてもいいんだ。というか、これ以上逃げちゃダメだ。	하지만 지금의 나는 더 이상 도망갈 필요가 없다. 아니, 더 이상 도망가면 안 된다.	But now, running isn't an option — and it's not something I want anymore.						0	2.7版本主线故事
+55	因为，即便是这样的我，依旧被所爱之人眷顾着。	因為，即便是這樣的我，仍被所愛的人眷顧著。	こんな私でも、愛されてるんだから。	이런 나라도 사랑하는 사람의 관심을 받을 수 있으니까.	Because even when I was scared... the one I love still believed in me.						0	2.7版本主线故事
+56	一切已经准备就绪。	一切已經準備就緒。	それだけで、もう十分なんだ。	모두 준비됐어.	I'm ready.						0	2.7版本主线故事
+57	就请看好了，我华丽的新生——	就請看好了，我華麗的新生——	私の華麗なる新生を、見届けて――	내 화려한 탄생을 지켜보라고!	Watch closely — from the fire I once feared, I rise anew.						0	2.7版本主线故事
+58	再见了，我曾经的不自信。	再見了，我曾經的不自信。	さようなら、自信がなかったかつての私。	안녕, 지난날의 자신 없는 나.	Goodbye, self-doubt.						0	2.7版本主线故事
+59	那些曾经让我怀疑自己的声音，那些让我觉得自己不配拥有幸福的声音。	那些曾經讓我懷疑自己的聲音，那些讓我覺得自己不配擁有幸福的聲音。	自分を疑わせて、幸せになっちゃいけないと囁いてくるあの声を、	과거 나를 의심하게 만든 그 목소리, 나는 행복할 수 없다고 여기게 했던 그 목소리.	Goodbye to the voices that kept telling me I wasn't enough — that I didn't deserve happiness.						0	2.7版本主线故事
+60	今天，我要将它们留在这里。	今天，我要將它們留在這裡。	今日この日、ここに置いていく。	오늘, 나는 그것들을 이곳에 남겨둘 것이야.	This is where they end.						0	2.7版本主线故事
+61	再见了，我曾经的避难所。	再見了，我曾經的避難所。	さようなら、私を匿ってくれていた「隠れ家」。	안녕, 지난날 나의 피난처.	Goodbye to the place I once called home.						0	2.7版本主线故事
+62	我已经找到了一个更加温暖的地方，那有我的朋友，有我的家人，更有我唯一中意的男人。	我已經找到了一個更溫暖的地方，那裡有我的朋友，我的家人，更有我唯一喜歡的男人。	もっとあったかい場所を見つけたんだ。そこには友だち、家族と、私が唯一愛する男がいる。	나는 더 따뜻한 곳을 찾았어. 그곳에는 내 친구, 내 가족, 그리고 유일하게 마음에 든 한 남자가 있거든.	I've found a new one — warmer, brighter — where I have my friends, my family, and the only man I've ever loved.						0	2.7版本主线故事
+63	无论如何，我都要活着回到那里。	無論如何，我都要活著回到那裡。	なんとしても、そこに戻らなければ。	어쨌든 나는 살아서 그곳에 돌아갈 것이야.	I will live to see them again. No matter what.						0	2.7版本主线故事
+64	最后，再见了，化作火焰的梦魇。	最後，再見了，化為火焰的夢魘。	最後に、さようなら、私の悪夢となった炎。	마지막으로, 안녕. 화염으로 변한 악몽이여.	And finally — goodbye, nightmares of the fire.						0	2.7版本主线故事
+65	我已经不再害怕被你夺走什么了。	我已經不再害怕被你奪走什麼了。	もうなにかを奪われるのは怖くなんかない。	더 이상 네가 뭘 앗아갈지 두렵지 않아.	I'm not afraid of losing anything to you anymore.						0	2.7版本主线故事
+66	因为，我所珍视的playername，早已成为我生命中不可或缺的一环。	因為，我所珍視的playername，早已成為我人生中不可或缺的一環。	だって一番大事なplayernameは、もう私の命の一部になったんだから。	왜냐하면 나의 소중한 playername, 그 사람은 내 삶에 없어서는 안 되는 존재가 되었거든.	Because what I treasure most... it's already part of me. And you can never take that away.						0	2.7版本主线故事
+67	所以——	所以——	だから――	그러니까…	So...						0	2.7版本主线故事
+68	肆意的火舌，听从我的指令！	肆意的火舌，聽從我的指令！	燃え盛る炎よ、私に従え！	타오르는 불길이여, 내 명령을 들어라!	Fierce and raging flames, heed my call!						0	2.7版本主线故事
+69_1	仅此一击，撼动天地	僅此一擊，撼動天地	天をも砕け　この一撃よ	단 한 번의 일격으로 천지를 뒤흔든다.	Just one hit — enough to make the world tremble.						0	2.7版本主线故事
+69	将我们的敌人，焚烧殆尽！	將我們的敵人，焚燒殆盡！	敵を、燃やし尽くせー！	우리의 적을 모조리 불태워버려!	Reduce our enemies to ashes!						0	2.7版本主线故事
+70	一阵光芒闪过，顷刻间，泰坦，平台，乃至整个世界都被耀眼的白色吞没。	一陣光芒閃過，頃刻間，泰坦、平台，甚至整個世界都被耀眼的白色吞沒。	十字の閃光が一瞬だけ燦めく。\n無音の世界を、太陽をも霞ませる白い爆炎は呑み込んでゆく。	빛이 스쳐 지나가고, 순식간에 타이탄과 기지, 그리고 온 세상이 눈부신 흰색에 집어삼켜졌다.	A blinding light erupted, consuming the Titans, the sea base — the entire world — in radiant white.						0	2.7版本主线故事
+71	耳鸣声中，一切归于寂静。	耳鳴聲中，一切歸於寂靜。	甲高い耳鳴りが去ると、辺りに静けさばかりが広がっていた。	이명 소리와 함께 모든 것이 조용해졌다.	Silence followed, broken only by the ringing in my ears.						0	2.7版本主线故事
+72	呜呼~我这一手操作简直帅炸了！	嗚呼~我這一手操作簡直帥到爆炸！	ひゅ～！我ながらかっこいい～！	유후~ 정말 멋진 일격이었잖아!	That was... awesome!						0	2.7版本主线故事
+73	就连分析员也一定会拍手叫好吧~	連分析員也一定會拍手叫好吧~	分析員もきっと手を叩いて喜んでくれてるよね～	분석가도 분명 박수치겠는걸!	I bet even the Adjutant's impressed~						0	2.7版本主线故事
+74	……	……	……	…	...						0	2.7版本主线故事
+75	……哎，等等，这动静是不是夸张过头了。	……欸，等等，這動靜是不是太誇張了。	……って、ちょっと待って。これってちょっとやりすぎたんじゃ……	… 앗, 잠깐만. 너무 과하게 했나?	...Wait. Was that too much?						0	2.7版本主线故事
+76	那么亮的话……他不就什么都看不到……	那麼亮的話……他不就什麼都看不到……	眩しすぎて、分析員がなにも見えなかったらどうしよう……	너무 밝아서… 설마 아무것도 못 본 건 아닐까…	It was so bright... What if he couldn't see me at all...?						0	2.7版本主线故事
+b-3											0	2.7版本主线故事
+77	接住她倒下的身体	接住她倒下的身體	倒れかけるニタを抱き留める。	쓰러지는 그녀를 붙잡는다	Catch Nita in your arms						0	2.7版本主线故事
+78	谁说的，我全都看见了哦。	誰說的，我全都看見了喔。	そんなことはない。全部しかと見ていたぞ。	누가 그래, 전부 봤거든.	Who says I couldn't see? I saw everything.						0	2.7版本主线故事
+79	哎？！	欸？！	え！？	어?!	Huh!?						0	2.7版本主线故事
+auto_b-4											0	2.7版本主线故事
+b-4											0	2.7版本主线故事
+80	恭喜你，你成功做到了，妮塔。	恭喜你，你成功做到了，妮塔。	おめでとう、ニタ。よくやった。	축하해. 성공했구나, 니타.	You did it, Nita. You really did.						0	2.7版本主线故事
+81	……	……	……	…	...						0	2.7版本主线故事
+82	迎着光，被心上人的目光再次洞穿心灵。	迎著光，被心上人的目光再次洞穿心靈。	神々しいまでの輝きを浴びながら、ニタからの真っ直ぐな眼差しに、思わず心を奪われそうになる。	빛과 함께, 사랑하는 사람의 시선이 마음을 다시 꿰뚫었다.	Bathed in radiant light, the gaze of the man she loved tugged at her heart once more.						0	2.7版本主线故事
+83	果然……	果然……	やっぱり……	역시…	I knew it...						0	2.7版本主线故事
+84	哪怕征服了焚尽一切的力量，我依旧还是……	哪怕征服了焚盡一切的力量，我依舊還是……	すべてを焼き尽くす力を得たとしても、私は……	모든 것을 태워버리는 힘을 정복했더라도, 나는 여전히…	Even now, even after conquering the fire, I still...						0	2.7版本主线故事
+85	还是按捺不住，与你的目光相对时……	還是按捺不住，與你目光相對時……	分析員と見つめ合うと……	참을 수가 없어. 너와 눈이 마주치는 순간…	Still can't help it. Whenever I look into your eyes, I feel it...						0	2.7版本主线故事
+86	内心深处，传来的悸动。	內心深處，傳來的悸動。	心の底からときめいちゃうんだ。	마음속 깊은 곳에서 전해지는 두근거림을.	The pulse from within.						0	2.7版本主线故事
+87	光芒散去，那个如同阳光般热烈的女孩，再次回到了我的身边。	光芒散去，那個如同陽光般熱烈的女孩，再次回到了我的身邊。	輝きが完全に消え去ったとしても、夏の太陽を思わせる彼女の笑顔はまだ眩しいほどの光を宿したままだった。	빛이 흩어지고, 햇볕처럼 뜨거웠던 그녀가 다시 내 곁으로 돌아왔다.	As the radiance faded, the girl who was bright and warm like sunlight stood by my side once again.						0	2.7版本主线故事
+88	但此刻，战斗还在继续——	但此刻，戰鬥還在繼續——	いつまでも見ていたい気持ちだが、まだ戦いは終わっていない――	하지만 이 순간에도 전투는 계속되고 있다.	But the fight wasn't over yet.						0	2.7版本主线故事
+89	奈莉德！	奈莉德！	ネリーダ！	네리다!	Nerida!						0	2.7版本主线故事
+90	嗯！	嗯！	ああ！	응!	Ready!						0	2.7版本主线故事
+91	无需过多说明，奈莉德便明白了我的意思。	無需過多說明，奈莉德便懂了我的意思。	とだけ応えると、ネリーダはリフトに向かって手をかざす。	더 설명할 필요도 없이, 네리다는 내 말뜻을 이해했다.	No words were needed — she already knew what I meant.						0	2.7版本主线故事
+92	霎时间，两道能量束带穿透钢板，直奔那团剧烈燃烧的能量源。	霎時間，兩道能量束帶穿透鋼板，直奔那團劇烈燃燒的能量源。	にわかに二本の帯が鉄板を貫き、激しく燃え上がっているエネルギーへ伸びていく。	그 찰나, 두 개의 에너지 벨트가 강판을 관통했고, 격렬하게 타오르는 에너지원을 향해 뻗어갔다.	Two energy ribbons sliced through the steel floor, hurtling toward the blazing orb below.						0	2.7版本主线故事
+93	“抓住了”！	「抓住了」！	捕まえた！	 '잡았다!'	Got it!						0	2.7版本主线故事
+94	在奈莉德配合之下，我们一同将妮塔所释放出来的能量固定在了电梯的底部。	在奈莉德配合之下，我們一起將妮塔所釋放出來的能量固定在電梯的底部。	帯がエネルギーを縛り止めるのと同時に、私はそれを凝華させてリフトの底面に固定する。	네리다의 도움으로, 우리는 니타가 방출한 에너지를 엘리베이터 아래쪽에 고정했다.	Working together, we anchored the immense power unleashed by Nita to the base of the lift.						0	2.7版本主线故事
+95	唔……	唔……	ぁぐっ……	으…	Urgh...						0	2.7版本主线故事
+96	然而，就在此刻，奈莉德的身体却猛然一颤，手中的束带也险些消散。	然而，就在此刻，奈莉德的身體卻猛然一顫，手中的束帶也險些消散。	ふと、視界の脇にいるネリーダがよろめいた。途端にベルトは今にも消えそうにチカチカと点滅しだす。	그러나 그때, 네리다의 몸이 갑자기 심하게 떨렸고, 손에 든 벨트마저 흩어질 뻔했다.	For a moment, Nerida's body trembled, and her ribbons wavered.						0	2.7版本主线故事
+97	喂——	喂——	大丈夫か――	너…	Nerida—						0	2.7版本主线故事
+98	我没事，别分心！	我沒事，別分心！	私は無事だ！気にするな！	난 괜찮으니 신경 쓰지 마!	I'm fine. Stay sharp!						0	2.7版本主线故事
+99	她迅速调整好了状态，眼神再次变得凌厉起来。	她迅速調整了狀態，眼神再次變得凌厲起來。	言い放って、目を鋭く細めるネリーダ。	그녀는 금방 상태를 회복했고, 눈빛은 다시 매서워졌다.	She pulled herself together in an instant, her eyes fierce once more.						0	2.7版本主线故事
+100	她的高傲和坚强，绝对不会允许自己在这种时刻表现出任何软弱，尤其是在见识过妮塔真正的力量之后。	她的高傲和堅強，絕對不會允許自己在這種時刻表現出任何軟弱，尤其是在見識過妮塔真正的力量之後。	誇り高い彼女にとって、こんな時に弱さを見せるなどもってのほかなのだろう。とりわけ、ニタの本当の力を目の当たりにした後では。	그녀의 자존심과 굳건한 성격은 절대 이런 순간에 자신이 나약한 모습을 보이도록 허락하지 않을 것이다. 특히 니타의 진짜 힘을 경험한 이후라면 더더욱.	Proud and tough as ever, she refused to show even the slightest hint of weakness — especially after witnessing Nita's true power.						0	2.7版本主线故事
+101	于是，作为回应，我收紧束带，然后用洪亮的嗓音宣告道——	於是，作為回應，我收緊束帶，然後用洪亮的嗓音宣告——	その強がりの一言の返事として、私はベルトを目いっぱいの力で引き締めて、大声を張り上げる。	그래서 그에 대한 대답으로, 나는 벨트를 단단히 잡고 큰 소리로 말했다.	Seeing her resolve, I tightened my grip on the ribbons and raised my voice:						0	2.7版本主线故事
+102	是时候向着海底发起总攻了！	是時候向海底發動總攻了！	さあ、海底へ総攻撃だ！	이제 해저를 향해 총공격을 개시한다!	Next — full assault toward the seafloor!						0	2.7版本主线故事
+103	等到这场战斗结束之后，再和她好好聊一聊吧。	等到這場戰鬥結束之後，再和她好好聊一聊吧。	この戦いが終わったら、彼女とじっくり話さないといけないみたいだ。	이번 전투가 끝나고 나면 그녀와 다시 잘 이야기해 봐야겠다.	I'd need to have a serious talk with her once this was all over.						0	2.7版本主线故事

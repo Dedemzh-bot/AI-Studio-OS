@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	中大奖了！有泰坦封路！	中大獎了！有泰坦封路！	大当たりだ！タイタンが道塞いでる！	대박 났군! 타이탄까지 길을 막고 있어!	Great, there's a Titan in the way!						0	
+2	没办法了只有拼了！	沒辦法了只有拼了！	仕方ない、やるしかない！	어쩔 수 없지. 그냥 부딪쳐 보는 수밖에!	The only way is through!						0	

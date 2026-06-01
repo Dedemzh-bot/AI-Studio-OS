@@ -1,0 +1,340 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+season_title_name1	塑界一	塑界一	創界一	가상 세계1	Domain I						0	
+season_title_name2	塑界二	塑界二	創界二	가상 세계2	Domain II						0	
+season_level_des1	当前难度：1	當前難度：1	現在の難易度：Ⅰ	현재 난이도: 1	Current Difficulty: 1						0	
+season_level_des2	当前难度：2	當前難度：2	現在の難易度：Ⅱ	현재 난이도: 2	Current Difficulty: 2						0	
+season_level_des3	当前难度：3	當前難度：3	現在の難易度：Ⅲ	현재 난이도: 3	Current Difficulty: 3						0	
+season_level_des4	当前难度：4	當前難度：4	現在の難易度：Ⅳ	현재 난이도: 4	Current Difficulty: 4						0	
+season_level_des5	当前难度：5	當前難度：5	現在の難易度：Ⅴ	현재 난이도: 5	Current Difficulty: 5						0	
+season_mission_title1	塑界1 探知	塑界1 探知	創界1　探知	가상 세계1-탐지	Domain I: Exploration						0	
+season_mission_title2	塑界1 深潜	塑界1 深潛	創界1　深潜	가상 세계1-심해	Domain I: Deep Dive						0	
+season_mission_title3	塑界1 排异	塑界1 排異	創界1　拒絶	가상 세계1-배제	Domain I: Rejection						0	
+season_mission_title4	塑界1 噬灭	塑界1 噬滅	創界1　喰尽	가상 세계1-멸절	Domain I: Conquest						0	
+season_mission_title5	塑界1 降临	塑界1 降臨	創界1　降臨	가상 세계1-강림	Domain I: Descent						0	
+season_mission_title6	塑界2 探知	塑界2 探知	創界2　探知	가상 세계2-탐지	Domain II: Exploration						0	
+season_mission_title7	塑界2 深潜	塑界2 深潛	創界2　深潜	가상 세계2-심해	Domain II: Deep Dive						0	
+season_mission_title8	塑界2 排异	塑界2 排異	創界2　拒絶	가상 세계2-배제	Domain II: Rejection						0	
+season_mission_title9	塑界2 噬灭	塑界2 噬滅	創界2　喰尽	가상 세계2-멸절	Domain II: Conquest						0	
+season_mission_title10	塑界2 降临	塑界2 降臨	創界2　降臨	가상 세계2-강림	Domain II: Descent						0	
+season_mission_title11	塑界1 探知	塑界1 探知	創界1　探知	가상 세계1-탐지	Domain I: Exploration						0	
+season_mission_title12	塑界1 深潜	塑界1 深潛	創界1　深潜	가상 세계1-심해	Domain I: Deep Dive						0	
+season_mission_title13	塑界1 排异	塑界1 排異	創界1　拒絶	가상 세계1-배제	Domain I: Rejection						0	
+season_mission_title14	塑界1 噬灭	塑界1 噬滅	創界1　喰尽	가상 세계1-멸절	Domain I: Conquest						0	
+season_mission_title15	塑界1 降临	塑界1 降臨	創界1　降臨	가상 세계1-강림	Domain I: Descent						0	
+season_mission_title16	塑界2 探知	塑界2 探知	創界2　探知	가상 세계2-탐지	Domain II: Exploration						0	
+season_mission_title17	塑界2 深潜	塑界2 深潛	創界2　深潜	가상 세계2-심해	Domain II: Deep Dive						0	
+season_mission_title18	塑界2 排异	塑界2 排異	創界2　拒絶	가상 세계2-배제	Domain II: Rejection						0	
+season_mission_title19	塑界2 噬灭	塑界2 噬滅	創界2　喰尽	가상 세계2-멸절	Domain II: Conquest						0	
+season_mission_title20	塑界2 降临	塑界2 降臨	創界2　降臨	가상 세계2-강림	Domain II: Descent						0	
+season_mission_des1	通关噬神斗场·生域 塑界1 难度1	通關噬神鬥場·生域 塑界1 難度1	神弑闘技場・生域 創界1 難易度Ⅰをクリアする	신의 전장·생명의 영역-가상 세계1-난이도1	Clear Nexus of Life - Domain I (Difficulty 1)						0	
+season_mission_des2	通关噬神斗场·生域 塑界1 难度2	通關噬神鬥場·生域 塑界1 難度2	神弑闘技場・生域 創界1 難易度Ⅱをクリアする	신의 전장·생명의 영역-가상 세계1-난이도2	Clear Nexus of Life - Domain I (Difficulty 2)						0	
+season_mission_des3	通关噬神斗场·生域 塑界1 难度3	通關噬神鬥場·生域 塑界1 難度3	神弑闘技場・生域 創界1 難易度Ⅲをクリアする	신의 전장·생명의 영역-가상 세계1-난이도3	Clear Nexus of Life - Domain I (Difficulty 3)						0	
+season_mission_des4	通关噬神斗场·生域 塑界1 难度4	通關噬神鬥場·生域 塑界1 難度4	神弑闘技場・生域 創界1 難易度Ⅳをクリアする	신의 전장·생명의 영역-가상 세계1-난이도4	Clear Nexus of Life - Domain I (Difficulty 4)						0	
+season_mission_des5	参与噬神斗场·生域 塑界1 难度5	通關噬神鬥場·生域 塑界1 難度5	神弑闘技場・生域 創界1 難易度Ⅴに挑戦する	신의 전장·생명의 영역-가상 세계1-난이도5	Challenge Nexus of Life - Domain I (Difficulty 5)						0	
+season_mission_des6	通关噬神斗场·生域 塑界2 难度1	通關噬神鬥場·生域 塑界2 難度1	神弑闘技場・生域 創界2 難易度Ⅰをクリアする	신의 전장·생명의 영역-가상 세계2-난이도1	Clear Nexus of Life - Domain II (Difficulty 1)						0	
+season_mission_des7	通关噬神斗场·生域 塑界2 难度2	通關噬神鬥場·生域 塑界2 難度2	神弑闘技場・生域 創界2 難易度Ⅱをクリアする	신의 전장·생명의 영역-가상 세계2-난이도2	Clear Nexus of Life - Domain II (Difficulty 2)						0	
+season_mission_des8	通关噬神斗场·生域 塑界2 难度3	通關噬神鬥場·生域 塑界2 難度3	神弑闘技場・生域 創界2 難易度Ⅲをクリアする	신의 전장·생명의 영역-가상 세계2-난이도3	Clear Nexus of Life - Domain II (Difficulty 3)						0	
+season_mission_des9	通关噬神斗场·生域 塑界2 难度4	通關噬神鬥場·生域 塑界2 難度4	神弑闘技場・生域 創界2 難易度Ⅳをクリアする	신의 전장·생명의 영역-가상 세계2-난이도4	Clear Nexus of Life - Domain II (Difficulty 4)						0	
+season_mission_des10	参与噬神斗场·生域 塑界2 难度5	通關噬神鬥場·生域 塑界2 難度5	神弑闘技場・生域 創界2 難易度Ⅴに挑戦する	신의 전장·생명의 영역-가상 세계2-난이도5	Challenge Nexus of Life - Domain II (Difficulty 5)						0	
+season_mission_des11	通关噬神斗场·冥域 塑界1 难度1	通關噬神鬥場·冥域 塑界1 難度1	神弑闘技場・冥域 創界1 難易度Ⅰをクリアする	신의 전장·죽음의 영역-가상 세계1-난이도1	Clear Nexus of Death - Domain I (Difficulty 1)						0	
+season_mission_des12	通关噬神斗场·冥域 塑界1 难度2	通關噬神鬥場·冥域 塑界1 難度2	神弑闘技場・冥域 創界1 難易度Ⅱをクリアする	신의 전장·죽음의 영역-가상 세계1-난이도2	Clear Nexus of Death - Domain I (Difficulty 2)						0	
+season_mission_des13	通关噬神斗场·冥域 塑界1 难度3	通關噬神鬥場·冥域 塑界1 難度3	神弑闘技場・冥域 創界1 難易度Ⅲをクリアする	신의 전장·죽음의 영역-가상 세계1-난이도3	Clear Nexus of Death - Domain I (Difficulty 3)						0	
+season_mission_des14	通关噬神斗场·冥域 塑界1 难度4	通關噬神鬥場·冥域 塑界1 難度4	神弑闘技場・冥域 創界1 難易度Ⅳをクリアする	신의 전장·죽음의 영역-가상 세계1-난이도4	Clear Nexus of Death - Domain I (Difficulty 4)						0	
+season_mission_des15	参与噬神斗场·冥域 塑界1 难度5	通關噬神鬥場·冥域 塑界1 難度5	神弑闘技場・冥域 創界1 難易度Ⅴに挑戦する	신의 전장·죽음의 영역-가상 세계1-난이도5	Challenge Domain I (Difficulty 5)						0	
+season_mission_des16	通关噬神斗场·冥域 塑界2 难度1	通關噬神鬥場·冥域 塑界2 難度1	神弑闘技場・冥域 創界2 難易度Ⅰをクリアする	신의 전장·죽음의 영역-가상 세계2-난이도1	Clear Nexus of Death - Domain II (Difficulty 1)						0	
+season_mission_des17	通关噬神斗场·冥域 塑界2 难度2	通關噬神鬥場·冥域 塑界2 難度2	神弑闘技場・冥域 創界2 難易度Ⅱをクリアする	신의 전장·죽음의 영역-가상 세계2-난이도2	Clear Nexus of Death - Domain II (Difficulty 2)						0	
+season_mission_des18	通关噬神斗场·冥域 塑界2 难度3	通關噬神鬥場·冥域 塑界2 難度3	神弑闘技場・冥域 創界2 難易度Ⅲをクリアする	신의 전장·죽음의 영역-가상 세계2-난이도3	Clear Nexus of Death - Domain II (Difficulty 3)						0	
+season_mission_des19	通关噬神斗场·冥域 塑界2 难度4	通關噬神鬥場·冥域 塑界2 難度4	神弑闘技場・冥域 創界2 難易度Ⅳをクリアする	신의 전장·죽음의 영역-가상 세계2-난이도4	Clear Nexus of Death - Domain II (Difficulty 4)						0	
+season_mission_des20	参与噬神斗场·冥域 塑界2 难度5	通關噬神鬥場·冥域 塑界2 難度5	神弑闘技場・冥域 創界2 難易度Ⅴに挑戦する	신의 전장·죽음의 영역-가상 세계2-난이도5	Challenge Nexus of Death - Domain II (Difficulty 5)						0	
+seasonbossname1	爆裂跃击	爆裂躍擊	爆裂飛躍撃	폭발적 도약	Power Surge						0	
+seasonbossname2	蓄能暗噬	蓄能暗噬	闇喰チャージ	에너지 흡수	Dark Devour						0	
+seasonbossname3	特速覆攻	特速覆攻	閃速包囲	급속 강타	Crushing Blitz						0	
+seasonbossname4	逆势破围	逆勢破圍	逆境突破	역경 돌파	Breakthrough						0	
+seasonbossname5	烁点闪迷	爍點閃迷	閃光迷走	빛의 점멸	Dazzling Flash						0	
+seasonbossname6	动能转续	動能轉續	動力持続	에너지 전환	Energy Transfer						0	
+seasonbossname7	轻装急援	輕裝急援	軽装援護	경량 지원	Light Medic						0	
+seasonbossname8	意刃入髓	意刃入髓	心刃貫通	심연의 칼날	Blinding Fury						0	
+seasonbossname9	岿巍焚炼	巋巍焚煉	烈火鍛錬	불멸의 단련	Blazing Sparks						0	
+seasonbossname10	寒庭疾奔	寒庭疾奔	霜庭疾走	서리의 질주	Frigid Rush						0	
+seasonbossname11	冰感突袭	冰感突襲	氷の突撃	빙결의 급습	Icy Mayhem						0	
+seasonbossname12	暴焰震颤	暴焰震顫	烈焔震動	폭염의 진동	Shocking Fire						0	
+seasonbossname13	限域催化	限域催化	限域触媒	영역의 촉진	Limit Catalyst						0	
+seasonbossname14	酥麻寒颤	酥麻寒顫	痛痒衝撃	차가운 전율	Tingling Chills						0	
+seasonbossname15	特异速攻	特異速攻	特異速攻	특별한 속공	Chaos Assault						0	
+seasonbossname16	焦灼激战	焦灼激戰	灼熱の激戦	긴박한 전투	Intense Clash						0	
+seasonbossname17	冷境偏锋	冷境偏鋒	寒気一転	냉혹한 칼날	Cold-Edge Flank						0	
+seasonbossname18	威势贯透	威勢貫透	威勢貫徹	압도적 관통	Overwhelming Presence						0	
+seasonbossname19	低则防疏	低則防疏	油断大敵	방어의 허점	Vulnerable at Low 						0	
+seasonbossname20	战逢对手	戰逢對手	対等の相手	운명의 적수	Evenly Matched						0	
+seasonbossname21	士气高涨	士氣高漲	士気高揚	고조된 의지	Rising Morale						0	
+seasonbossname22	常规跃击	常規躍擊	通常躍撃	일반 도약 공격	Standard Leapstrike						0	
+seasonbossname23	耐久避让	耐久避讓	耐久回避	내구성 회피	Dodge Marathon						0	
+seasonbossname24	防御回馈	防禦回饋	防御還元	방어의 반격	Defense Feedback						0	
+seasonbossname25	换阵登场	換陣登場	換装登場	진형 교체	Refreshing Debut						0	
+seasonbossname26	异响弹射	異響彈射	弾ける異音	반향 발사	Echo Ejection						0	
+seasonbossname27	电芒回旋	電芒迴旋	電器回旋	전기 회오리	Electric Spiral						0	
+seasonbossname28	特异熔蚀	特異熔蝕	特異溶蝕	혼돈의 용해	Chaos Meltdown						0	
+seasonbossname29	冷境异袭	冷境異襲	寒気襲撃	서리의 기습	Frost Ambush						0	
+seasonbossname30	蜕甲增韧	蛻甲增韌	強靭な鎧	탈피 후 강화	Broken Yet Fortified						0	
+seasonbossname31	壁垒对阵	壁壘對陣	筑壁対抗	방어막 대치	Defensive Battle						0	
+seasonbossname32	意刃入髓	意刃入髓	心刃貫通	심연의 칼날	Blinding Fury						0	
+seasonbossname33	动能转续	動能轉續	動力持続	에너지 전환	Energy Transfer						0	
+seasonbossname34	烈焰叠加	烈焰疊加	重ねる火焔	겹치는 불꽃	Flame Over						0	
+seasonbossname35	常规跃击	常規躍擊	通常躍撃	일반 도약 공격	Standard Leapstrike						0	
+seasonbossname36	耐久避让	耐久避讓	耐久回避	내구성 회피	Dodge Marathon						0	
+seasonbossname37	换阵登场	換陣登場	換装登場	진형 교체	Refreshing Debut						0	
+seasonbossname101	热寒易破	熱寒易破	熱冷弱点	추위 격파	Thermo-Vulnerable						0	
+seasonbossname102	异动增援	異動增援	異変増援	비정상 지원	Anomalous Break						0	
+seasonbossname103	冷境偏锋	冷境偏鋒	寒気一転	냉혹한 칼날	Cold-Edge Flank						0	
+seasonbossname104	异芒炎盾	異芒炎盾	炎のシールド	혼돈의 섬광	Mayhem Flare						0	
+seasonbossname105	意刃入髓	意刃入髓	心刃貫通	심연의 칼날	Blinding Fury						0	
+seasonbossname106	暴伤转续	暴傷轉續	クリティカル転化	치명적 이전	Critical Transfer						0	
+seasonbossname107	士气高涨	士氣高漲	士気高揚	고조된 의지	Rising Morale						0	
+seasonbossname108	动能转续	動能轉續	動力持続	에너지 전환	Energy Transfer						0	
+seasonbossname109	爆裂跃击	爆裂躍擊	爆裂飛躍撃	폭발적 도약	Power Surge						0	
+seasonbossname110	伤害清算	傷害清算	ダメージ精算	대미지 정산	Damage Settlement						0	
+seasonbossname111	换阵登场	換陣登場	換装登場	진형 교체	Refreshing Debut						0	
+seasonbossname112	伤害清算	傷害清算	ダメージ清算	대미지 정산	Damage Settlement						0	
+seasonbossname113	电芒回旋	電芒迴旋	電器回旋	전기 회오리	Electric Spiral						0	
+seasonbossname114	凛刃突进	凜刃突進	凛刃突進	돌진의 블레이드	Frost Ambush						0	
+seasonbossname115	炽炎蚀形	熾炎蝕形	熾炎侵蝕	불타는 침식	Blazing Erosion						0	
+seasonbossname116	异响闪刺	異響閃刺	異音閃刺	굉음의 가시	Sonic Lunge						0	
+seasonbossname117	极戮伤伐	極戮傷伐	極戮閃断	살육의 정벌	Absolute Slaughter						0	
+seasonbossname118	动能转续	動能轉續	動力持続	에너지 전환	Energy Transfer						0	
+seasonbossname119	弹雨蚀光	彈雨蝕光	弾雨の蝕光	총알비	Dooming Barrage						0	
+seasonbossname120	战逢对手	戰逢對手	対等な相手	운명의 적수	Evenly Matched						0	
+seasonbossname121	伤害清算	傷害清算	ダメージ清算	대미지 정산	Damage Settlement						0	
+seasonbossname122	换阵登场	換陣登場	換装登場	진형 교체	Refreshing Debut						0	
+seasonbossname123	伤害清算	傷害清算	ダメージ清算	대미지 정산	Damage Settlement						0	
+seasonbossname124	恒常存续	恆常存續	恒常の存続	불변의 존재	Lasting Persistence						0	
+seasonbossname125	寒庭疾奔	寒庭疾奔	霜庭疾走	서리의 질주	Frigid Rush						0	
+seasonbossname126	霜烽禁锢	霜烽禁錮	霜雪の炎	얼음의 감금	Frost Lock						0	
+seasonbossname127	超链脉冲	超鏈脈衝	超連鎖パルス	하이퍼링크 펄스	Link Burst						0	
+seasonbossname128	凛刃突进	凜刃突進	凛刃突進	돌진의 블레이드	Frost Ambush						0	
+seasonbossname129	伤害叠积	傷害疊積	ダメージ蓄積	대미지 중첩	Stack Strike						0	
+seasonbossname130	意刃入髓	意刃入髓	心刃貫通	심연의 칼날	Blinding Fury						0	
+seasonbossname131	暴伤转续	暴傷轉續	クリティカル転化	치명적 이전	Critical Transfer						0	
+seasonbossname132	伤害反噬	傷害反噬	ダメージ反動	대미지의 역류	Back Lash						0	
+seasonbossname133	特速轰射	特速轟射	特速砲撃	초고속 폭격	Blitz Shot						0	
+seasonbossname134	勇破困围	勇破困圍	勇猛突破	포위 돌파	Bold Rush						0	
+seasonbossname135	烈焰叠加	烈焰疊加	重ねる火焔	겹치는 불꽃	Flame Over						0	
+seasonbossname136	愈战愈勇	愈戰愈勇	戦うほど勇猛	용맹의 불꽃	Brave Forge						0	
+seasonbossname137	超导攻势	超導攻勢	超伝導攻勢	초전도 공세	Cryo Voltage						0	
+seasonbossname138	王道机能	王道機能	正統進化	주력 기능	Royal Protocol						0	
+seasonbossname139	寒庭疾奔	寒庭疾奔	霜庭疾走	서리의 질주	Frigid Rush						0	
+seasonbossname140	魂体共驱	魂體共驅	魂体の疾走	영혼과 육체의 움직임	Soul Sync						0	
+seasonbossname141	深度伤痕	深度傷痕	深い傷跡	깊은 상처	Deep Scars						0	
+seasonbossname142	聚力于技	聚力於技	技の極み	기술 응집	Skill Empowerment						0	
+seasonbossname143	狂暴反噬	狂暴反噬	狂暴な逆襲	광폭의 반발	Berserk Counter						0	
+seasonbossname144	战意高昂	戰意高昂	昂る戦意	사기 고조	Fighting Spirit						0	
+seasonbossname145	特速轰射	特速轟射	特速砲撃	초고속 폭격	Blitz Shot						0	
+seasonbossname146	威力流转	威力流轉	威力奔流	위력의 흐름	Power Flow						0	
+seasonbossname147	愈战愈勇	愈戰愈勇	勇猛昂揚	용맹의 불꽃	Brave Forge						0	
+seasonbossname148	精技流转	精技流轉	神技の閃き	기술의 흐름	Skill Flow						0	
+seasonbossname201	渊烬归元	淵燼歸元	深淵より還る焔	심연의 귀환	Abyssal Reunion						0	
+seasonbossname202	雷蜕寒枢	雷蛻寒樞	極寒を穿つ稲光	번개의 허물	Thunderous Frost						0	
+seasonbossname203	炽湮凝相	熾湮凝相	灼熱の凝華	불타는 연기	Annihilating Condensation						0	
+seasonbossname204	霜骸化电	霜骸化電	凍てつく残骸の稲光	서리 번개	Frost Lightning						0	
+seasonbossname205	电荷猛击	電荷猛擊	電荷猛撃	번개 강타	Voltaic Rupture						0	
+seasonbossname206	异火融毁	異火融毀	異火融解	기이한 화염	Chaos Burn						0	
+seasonbossname207	伏特幽灵	伏特幽靈	ボルトゴースト	볼트 유령	Voltgeist						0	
+seasonbossname208	元素连袭	元素連襲	元素連撃	원소 공격	Frost Scorch						0	
+seasonbossname209	影蚀双律	影蝕雙律	影に蝕まれし二律	그림자의 법칙	Shadow-Eroded Cadence						0	
+seasonbossname210	战意高昂	戰意高昂	昂る戦意	사기 고조	Fighting Spirit						0	
+seasonbossname211	焰蚀承殇	焰蝕承殤	炎に蝕まれた哀惜	화염 침식	Flaming Erosion						0	
+seasonbossname212	深度伤痕	深度傷痕	深き傷痕	깊은 상처	Deep Scars						0	
+seasonbossname213	秘密武器	秘密武器	秘密の武器	비밀 무기	Secret Weapon						0	
+seasonbossname214	影蚀双律	影蝕雙律	影に蝕まれし二律	그림자의 법칙	Echoed Erosion						0	
+seasonbossname215	重刃无锋	重刃無鋒	重刃無鋒	무거운 칼날	Dull but Heavy						0	
+seasonbossname216	深度伤痕	深度傷痕	深き傷痕	깊은 상처	Deep Scars						0	
+seasonbossname217	秘密武器	秘密武器	秘密の武器	비밀 무기	Secret Weapon						0	
+seasonbossname218	影蚀双律	影蝕雙律	影に蝕まれし二律	그림자의 법칙	Echoed Erosion						0	
+seasonbossname219	重刃无锋	重刃無鋒	重刃無鋒	무거운 칼날	Dull but Heavy						0	
+seasonbossname220	深度伤痕	深度傷痕	深き傷痕	깊은 상처	Mutual Scars						0	
+seasonbossname221	爆裂跃击	爆裂躍擊	爆裂飛躍撃	폭발적 도약	Power Surge						0	
+seasonbossname222	烈焰叠加	烈焰疊加	重ねる火焔	겹치는 불꽃	Burst Stack						0	
+seasonbossname223	勇破困围	勇破困圍	勇猛突破	포위 돌파	Bold Rush						0	
+seasonbossname224	特速轰射	特速轟射	特速砲撃	초고속 폭격	Blitz Shot						0	
+seasonbossname225	力贯金石	力貫金石	金石をも貫く	메탈 스매쉬	Piercing Bullet						0	
+seasonbossname226	特速轰射	特速轟射	特速砲撃	초고속 폭격	Compound Damage						0	
+seasonbossname227	迅捷开场	迅捷開場	迅速な幕開け	신속한 시작	Momentum Surge						0	
+seasonbossname228	蓄势待发	蓄勢待發	力を蓄える	타이밍 노리기	Climactic Surge						0	
+seasonbossname229	怒火不歇	怒火不歇	怒りの炎	멈추지 않는 분노	Rising Fury						0	
+seasonbossname230	绝命酣战	絕命酣戰	命懸けの激戦	절명의 싸움	Last Stand						0	
+seasonbossname231	稳扎稳打	穩紮穩打	着実に進む	차근차근	Sure and Steady						0	
+seasonbossname232	无惧伤痛	無懼傷痛	痛覚耐性	두려움 없이	Fear No Pain						0	
+seasonbossname233	刺骨冰寒	刺骨冰寒	極寒	뼈를 깎는 추위	Biting Cold						0	
+seasonbossname234	幽冷禁域	幽冷禁域	冷気の禁域	금지된 구역	Entropy's Chill						0	
+seasonbossname235	伏特幽灵	伏特幽靈	ボルトレイス	볼트 유령	Voltgeist						0	
+seasonbossname236	异火燎原	異火燎原	燎原の妖火	불타는 벌판	Flames of Chaos						0	
+seasonbossname250	雷霆炽威	雷霆熾威	轟雷の炎圧	천둥의 위력	Thunderous Flame						0	
+seasonbossname251	极寒之刃	極寒之刃	極寒の刃	서리의 칼날	Frostbite Blade						0	
+seasonbossname252	灼燃之刃	灼燃之刃	焔灼の刃	불타는 칼날	Blazing Blade						0	
+seasonbossname253	幽影弧光	幽影弧光	幽影の弧光	환영의 호광	Phantom Light						0	
+seasonbossname254	冰火二重	冰火二重	凍火の二重奏	얼음과 불	Frostfire Duo						0	
+seasonbossname255	以巧破敌	以巧破敵	巧みに破る	제압하는 기교	Cunning Strike						0	
+seasonbossname256	狂暴转化	狂暴轉化	狂化トランス	광폭 전환	Berserk Shift						0	
+seasonbossname257	制胜法宝	制勝法寶	勝利の切り札	승리의 비결	Artifact of Victory						0	
+seasonbossname258	弱点看破	弱點看破	急所ロックオン	약점 간파	Weakness Exposed						0	
+seasonbossname259	突破极限	突破極限	限界突破	극한 돌파	Beyond Limits						0	
+seasonbossname260	水滴石穿	水滴石穿	雨だれ石を穿つ	돌을 뚫는 물방울	Steady Force						0	
+seasonbossname261	光辉时刻	光輝時刻	輝きの瞬間	빛나는 순간	Glorious Moment						0	
+seasonbossname270	3.7抗性1										1	
+seasonbossname271	3.7抗性2										1	
+seasonbossname272	3.7抗性3										1	
+seasonbossname273	3.7抗性4										1	
+seasonbossname274	3.7环境1										1	
+seasonbossname275	3.7环境2										1	
+seasonbossname276	3.7环境3										1	
+seasonbossname277	3.7环境4										1	
+seasonbossname278	3.7对抗1										1	
+seasonbossname279	3.7对抗2										1	
+seasonbossname280	3.7对抗3										1	
+seasonbossname281	3.7对抗4										1	
+seasonbossdes1	使用爆发技时，暴击伤害增幅提升45%，持续8秒。	使用爆發技時，暴擊傷害增幅提升45%，持續8秒。	爆発技を使うと、会心ダメージ増幅+45%、8秒持続する。	특수 스킬 사용 시 크리티컬 강도가 45% 증가한다. 지속 시간: 8초.	Increase CRIT DMG Amplifier by 45% for 8 sec after using Ultimate Skill.						0	
+seasonbossdes2	支援技的技能急速增加100。	支援技的技能急速增加100。	支援技のスキルヘイスト+100。	보조 스킬의 스킬 가속이 100 증가한다.	Increase Skill Haste of Support Skill by 100.						0	
+seasonbossdes3	每次射击命中目标时，使目标受到持续0.5秒且提升3%的技能伤害，最多叠加10层。	每次射擊命中目標時，使目標受到持續0.5秒且提升3%的技能傷害，最多疊加10層。	射撃が敵に命中するたびに、0.5秒間スキルダメージ+3%、最大10スタックまでチャージ可能。	매번 사격이 타깃을 명중할 때마다 타깃이 받는 스킬 대미지가 0.5초 동안 3% 증가하며, 최대 10스택 중첩된다.	After shot hit on a target, increase the target's Skill DMG received by 3% for 0.5 sec. Max 10 stacks.						0	
+seasonbossdes4	当前上场队员射击伤害将无视目标25%的防御力。	當前上場隊員射擊傷害將無視目標25%的防禦力。	通常技を使うと、現在フィールドにいる隊員の射撃ダメージが敵の防御力25%分を無視する。	필드에 있는 팀원의 사격 대미지가 타깃의 방어력을 25% 무시한다.	Deployed operative's Ballistic DMG ignores 25% of targets' DEF.						0	
+seasonbossdes5	队员射击伤害提升40%，同时队员被命中后有30%概率被眩晕1秒，每5秒内最多被眩晕1次。	隊員射擊傷害提升40%，同時隊員被命中後有30%機率被眩暈1秒，每5秒內最多被眩暈1次。	隊員の射撃ダメージ+40%、隊員被弾時に30%の確率で1秒間気絶状態になる、5秒間に1回まで発生可能。	팀원의 사격 대미지가 40% 증가한다. 하지만 동시에 팀원이 피격되면 30% 확률로 1초 동안 기절 상태가 되며, 해당 효과는 5초마다 최대 1번씩 발생한다.	Increase operative's Ballistic DMG by 40%. When hit, operative has a 30% chance of being Stunned for 1 sec, which can occur once every 5 sec.						0	
+seasonbossdes6	使用常规技时，技能伤害提升40%，同时射击伤害降低40%，持续10秒。	使用常規技時，技能傷害提升40%，同時射擊傷害降低40%，持續10秒。	通常技を使うと、スキルダメージ+40%、射撃ダメージ-40%、10秒持続する。	일반 스킬 사용 시, 스킬 대미지가 40% 증가한다. 동시에 사격 대미지가 40% 감소한다. 지속 시간: 10초.	When using Standard Skill, increase Skill DMG by 40% but decrease Ballistic DMG by 40% for 10 sec.						0	
+seasonbossdes7	全队及附属单位获得50%治疗加成提升，同时全队队员防御力降低40%。	全隊及附屬單位獲得50%治療加成提升，同時全隊隊員防禦力降低40%。	小隊全員および付属ユニットの治療量ボーナス+50%、防御力-40%。	모든 팀 및 부속 유닛이 50% 치유 보너스를 얻으며, 동시에 모든 팀원의 방어력이 40% 감소한다.	Full squad and Auxiliary Units gain a 50% Healing Bonus, but full squad's DEF is decreased by 40%.						0	
+seasonbossdes8	射击命中目标时，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	射擊命中目標時，目標防禦力降低20%，持續5秒。同時隊員受到的傷害提升20%，持續至戰鬥結束。	射撃が敵に命中すると、その敵の防御力-20%、5秒持続する。隊員が受けるダメージ+20%、戦闘終了まで持続する。	사격으로 타깃을 명중할 시, 타깃의 방어력이 20% 감소한다. 지속 시간: 5초. 동시에 팀원이 받는 대미지가 20% 증가하며, 이는 전투가 종료될 때까지 지속된다.	When a shot hits a target, decrease the target's DEF by 20% for 5 sec but increase operative's DMG received by 20% until the combat ends.						0	
+seasonbossdes9	噬体的高热/电击抗性降低30%，同时动能/低温抗性提升30%。	噬體的高熱/電擊抗性降低30%，同時動能/低溫抗性提升30%。	喰体の高熱/電撃耐性-30%、動力/低温耐性+30%。	보스의 화염/번개 내성이 30% 감소하고, 동시에 KP/얼음 내성이 30% 증가한다.	Decrease boss' Thermal and Electrical Resistance by 30%, but increase Kinetic and Frost Resistance by 30%.						0	
+seasonbossdes10	噬体的动能/低温抗性降低30%，同时高热/电击抗性提升30%。	噬體的動能/低溫抗性降低30%，同時高熱/電擊抗性提升30%。	喰体の動力/低温耐性-30%、高熱/電撃耐性+30%。	보스의 KP/얼음 내성이 30% 감소하고, 동시에 화염/번개 내성이 30% 증가한다.	Decrease boss' Kinetic and Frost Resistance by 30%, but increase Thermal and Electrical Resistance by 30%.						0	
+seasonbossdes11	噬体的特异/低温抗性降低30%，同时电击/高热抗性提升30%。	噬體的特異/低溫抗性降低30%，同時電擊/高熱抗性提升30%。	喰体の特異/低温耐性-30%、電撃/高熱耐性+30%。	보스의 혼돈/얼음 내성이 30% 감소하고, 동시에 번개/화염 내성이 30% 증가한다.	Decrease boss' Chaos and Frost Resistance by 30%, but increase Electrical and Thermal Resistance by 30%.						0	
+seasonbossdes12	噬体的高热/电击抗性降低30%，同时动能/低温抗性提升30%。	噬體的高熱/電擊抗性降低30%，同時動能/低溫抗性提升30%。	喰体の高熱/電撃耐性-30%、動力/低温耐性+30%。	보스의 화염/번개 내성이 30% 감소하고, 동시에 KP/얼음 내성이 30% 증가한다.	Decrease boss' Thermal and Electrical Resistance by 30%, but increase Kinetic and Frost Resistance by 30%.						0	
+seasonbossdes13	当前塑界关卡挑战时间限制为90秒。	目前塑界關卡挑戰時間限制為90秒。	現在の創界ステージチャレンジの制限時間は90秒です。	현재 가상 세계 스테이지 도전 제한 시간: 90초.	Sets time limit for current domain stage to 90 sec.						0	
+seasonbossdes14	噬体的电击/低温类型抗性降低30%，特异/动能类型抗性提升30%。	噬體的電擊/低溫類型抗性降低30%，特異/動能類型抗性提升30%。	喰体の電撃/低温耐性-30%、特異/動力耐性+30%。	보스의 번개/얼음 유형 내성이 30% 감소하고, 혼돈/KP 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Frost Resistance by 30%, but increase Chaos and Kinetic Resistance by 30%.						0	
+seasonbossdes15	噬体的动能/特异类型抗性降低30%，低温/高热类型抗性提升30%。	噬體的動能/特異類型抗性降低30%，低溫/高熱類型抗性提升30%。	喰体の動力/特異耐性-30%、低温/高熱耐性+30%。	보스의 KP/혼돈 유형 내성이 30% 감소하고, 얼음/화염 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Chaos Resistance by 30%, but increase Frost and Thermal Resistance by 30%.						0	
+seasonbossdes16	噬体的电击/高热类型抗性降低30%，低温/特异类型抗性提升30%。	噬體的電擊/高熱類型抗性降低30%，低溫/特異類型抗性提升30%。	喰体の電撃/高熱耐性-30%、低温/特異耐性+30%。	보스의 번개/화염 유형 내성이 30% 감소하고, 얼음/혼돈 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Thermal Resistance by 30%, but increase Frost and Chaos Resistance by 30%.						0	
+seasonbossdes17	噬体的低温/特异类型抗性降低30%，电击/高热类型抗性提升30%。	噬體的低溫/特異類型抗性降低30%，電擊/高熱類型抗性提升30%。	喰体の低温/特異耐性-30%、電撃/高熱耐性+30%。	보스의 얼음/혼돈 유형 내성이 30% 감소하고, 번개/화염 유형 내성이 30% 증가한다.	Decrease boss' Frost and Chaos Resistance by 30%, but increase Electrical and Thermal Resistance by 30%.						0	
+seasonbossdes18	暴击伤害无视目标20%的抗性，其余类型伤害最终伤害降低15%。	暴擊傷害無視目標20%的抗性，其餘類型傷害最終傷害降低15%。	会心ダメージは敵の耐性を20%無視でき、他タイプの最終ダメージ-15%。	크리티컬 대미지는 타깃의 20% 내성을 무시하고, 다른 유형 대미지의 최종 대미지는 15% 감소한다.	CRIT DMG ignores 20% of the target's resistance, while other types of DMG have their Final DMG reduced by 15%.						0	
+seasonbossdes19	队员生命高于50%时，攻击力提升40%；生命低于50%时，防御力降低40%。	隊員生命高於50%時，攻擊力提升40%；生命低於50%時，防禦力降低40%。	隊員のHPが50%以上の場合、攻撃力+40%。HPが50%未満の場合、防御力-40%。	팀원의 HP가 50% 이상일 시 공격력이 40% 증가하고, HP가 50% 미만일 시 방어력이 40% 감소한다.	Boosts 40% ATK when HP is above 50%; reduces 40% DEF when HP is below 50%.						0	
+seasonbossdes20	敌方与我方攻击力均提升30%。	敵方與我方攻擊力均提升30%。	敵と味方の攻撃力+30%。	타깃과 아군의 공격력이 모두 30% 증가한다.	Increases attack of both enemies and allies by 30%.						0	
+seasonbossdes21	全队队员全类型伤害提升40%，队员上场后全类型伤害每秒降低3%，至多降低90%，离场后伤害降低效果移除。	全隊隊員全類型傷害提升40%，隊員上場後全類型傷害每秒降低3%，至多降低90%，離場後傷害降低效果移除。	小隊全員の全タイプ与ダメージ+40%。交代登場後、全タイプ与ダメージが毎秒-3%（最大90%ダウン）。待機状態に入ると解除。	팀원 전체의 모든 유형 대미지가 40% 증가한다. 팀원이 필드에 등장하면 모든 유형 대미지가 매초 3% 감소하고, 최대 90%까지 줄어든다. 필드에서 퇴장하면 대미지 감소 효과가 제거된다.	Grants a 40% all-type DMG Boost to the full squad. However, deployed operatives gain 3% all-type DMG Reduction per second, up to 90%, which resets upon being switched out.						0	
+seasonbossdes22	使用常规技后，暴击伤害增幅提升45%，持续8秒。	使用常規技時，暴擊傷害增幅提升45%，持續8秒。	通常技の発動後、会心ダメージ増幅+45%、8秒持続する。	일반 스킬을 사용한 후, 크리티컬 강도가 45% 증가한다. 지속 시간: 8초.	Increase CRIT DMG Amplifier by 45% for 8 sec after using Standard Skill.						0	
+seasonbossdes23	战术闪避和冲刺不消耗耐力。	戰術閃避和衝刺不消耗耐力。	回避やスプリントでスタミナを消費しなくなる。	전술 회피와 스퍼트는 스태미나를 소모하지 않는다.	Dodge and sprint do not consume Stamina.						0	
+seasonbossdes24	射击暴击后，全队防御力提升10%，至多叠加5层。	射擊暴擊後，全隊防禦力提升10%，至多疊加5層。	射撃で会心の一撃を与えた後、小隊全員の防御力+10%（最大5スタック）。	사격 크리티컬 후 모든 팀원의 방어력이 10% 증가한다. 해당 효과는 최대 5스택까지 중첩할 수 있다.	After a critical shot, grants a 10% DEF Boost to the full squad, up to 5 stacks.						0	
+seasonbossdes25	切换队员后，当前场上队员所有技能伤害提升40%，持续10秒。	切換隊員後，當前場上隊員所有技能傷害提升40%，持續10秒。	交代登場後、10秒間、操作隊員のスキルダメージ+40%。	팀원을 변경하면 현재 필드에 있는 팀원의 모든 스킬 대미지가 40% 증가한다. 지속 시간: 10초.	After switching operatives, the deployed operative gains a 40% Skill DMG Boost for 10 sec.						0	
+seasonbossdes26	噬体的动能/特异类型抗性降低30%，电击/低温类型抗性提升30%。	噬體的動能/特異類型抗性降低30%，電擊/低溫類型抗性提升30%。	喰体の動力/特異耐性-30%、電撃/低温耐性+30%。	보스의 KP/혼돈 유형 내성이 30% 감소하고, 번개/얼음 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Chaos Resistance by 30%, but increase Electrical and Frost Resistance by 30%.						0	
+seasonbossdes27	噬体的电击/高热类型抗性降低30%，动能/特异类型抗性提升30%。	噬體的電擊/高熱類型抗性降低30%，動能/特異類型抗性提升30%。	喰体の電撃/高熱耐性-30%、動力/特異耐性+30%。	보스의 번개/화염 유형 내성이 30% 감소하고, KP/혼돈 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Thermal Resistance by 30%, but increase Kinetic and Chaos Resistance by 30%.						0	
+seasonbossdes28	噬体的特异/高热类型抗性降低30%，电击/低温类型抗性提升30%。	噬體的特異/高熱類型抗性降低30%，電擊/低溫類型抗性提升30%。	喰体の特異/高熱耐性-30%、電撃/低温耐性+30%。	보스의 혼돈/화염 유형 내성이 30% 감소하고, 번개/얼음 유형 내성이 30% 증가한다.	Decrease boss' Chaos and Thermal Resistance by 30%, but increase Electrical and Frost Resistance by 30%.						0	
+seasonbossdes29	噬体的低温/特异类型抗性降低30%，高热/动能类型抗性提升30%。	噬體的低溫/特異類型抗性降低30%，高熱/動能類型抗性提升30%。	喰体の低温/特異耐性-30%、高熱/動力耐性+30%。	보스의 얼음/혼돈 유형 내성이 30% 감소하고, 화염/KP 유형 내성이 30% 증가한다.	Decrease boss' Frost and Chaos Resistance by 30%, but increase Thermal and Kinetic Resistance by 30%.						0	
+seasonbossdes30	噬体极夜幽影右肩与腰部的护甲失去防护作用，但其受到的射击伤害降低30%，受到的技能伤害提升20%。	噬體極夜幽影右肩與腰部的護甲失去防護作用，但其受到的射擊傷害降低30%，受到的技能傷害提升20%。	喰体「極夜の幽影」の右肩と腰のアーマーが防御効果を失うが、受ける射撃ダメージ-30%、受けるスキルダメージ+20%。	보스 극야의 환영이 오른쪽 어깨와 허리의 갑옷이 방어 기능을 잃어 받는 사격 대미지가 30% 줄어든다. 반면 받는 스킬 대미지는 20% 증가한다.	Boss Nightborne Phantom's armor on its right shoulder and waist no longer provide protection, but it takes 30% less Ballistic DMG and 20% more Skill DMG.						0	
+seasonbossdes31	噬体与我方队员的防御力均提升30%。	噬體與我方隊員的防禦力均提升30%。	喰体と味方隊員の防御力+30%。	보스와 아군 팀원의 방어력이 모두 30% 증가한다.	Increase DEF of boss and operatives by 30%.						0	
+seasonbossdes32	射击命中目标时，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	射擊命中目標時，目標防禦力降低20%，持續5秒。同時隊員受到的傷害提升20%，持續至戰鬥結束。	射撃が敵に命中すると、その対象の防御力-20%、5秒持続する。隊員が受ける射撃ダメージ+20%、戦闘終了まで持続する。	사격으로 타깃을 명중할 시, 타깃의 방어력이 20% 감소한다. 지속 시간: 5초. 동시에 팀원이 받는 대미지가 20% 증가하며, 이는 전투가 종료될 때까지 지속된다.	When a shot hits a target, decrease the target's DEF by 20% for 5 sec. Increase operative's DMG received by 20% until combat ends.						0	
+seasonbossdes33	使用常规技时，技能伤害提升40%，同时射击伤害降低40%，持续10秒。	使用常規技時，技能傷害提升40%，同時射擊傷害降低40%，持續10秒。	通常技を使うと、スキルダメージ+40%、射撃ダメージ-40%、10秒持続する。	일반 스킬 사용 시, 스킬 대미지가 40% 증가한다. 동시에 사격 대미지가 40% 감소한다. 지속 시간: 10초.	When using Standard Skill, increase Skill DMG by 40% but decrease Ballistic DMG by 40% for 10 sec.						0	
+seasonbossdes34	使用常规技后，下一次爆发技伤害提升20%。该效果至多叠加3次。	使用常規技後，下一次爆發技傷害提升20%。該效果最多疊加3次。	通常技を使うと、次の爆発技ダメージ+20%。この効果は最大で3回チャージ可能。	일반 스킬을 사용한 후, 다음 특수 스킬 대미지가 20% 증가한다. 해당 효과는 최대 3회까지 중첩할 수 있다.	After using Standard Skill, increase DMG of the next Ultimate Skill by 20%. Max 3 stacks.						0	
+seasonbossdes35	使用常规技后，暴击伤害增幅提升45%，持续8秒。	使用常規技後，暴擊傷害增幅提升45%，持續8秒。	通常技を使うと、会心ダメージ増幅+45%、8秒持続する。	일반 스킬을 사용한 후, 크리티컬 강도가 45% 증가한다. 지속 시간: 8초.	After using Standard Skill, increase CRIT DMG Amplifier by 45% for 8 sec.						0	
+seasonbossdes36	战术闪避和冲刺不消耗耐力。	戰術閃避和衝刺不消耗耐力。	回避やスプリントでスタミナを消費しなくなる。	전술 회피와 스퍼트는 스태미나를 소모하지 않는다.	Dodge and sprint do not consume Stamina.						0	
+seasonbossdes37	切换队员后，当前场上队员所有技能伤害提升40%，持续10秒。	切換隊員後，當前場上隊員所有技能傷害提升40%，持續10秒。	交代登場後、10秒間、操作隊員のスキルダメージ+40%。	팀원을 변경하면 현재 필드에 있는 팀원의 모든 스킬 대미지가 40% 증가한다. 지속 시간: 10초.	After switching operatives, increase deployed operative's Skill DMG by 40% for 10 sec.						0	
+seasonbossdes101	噬体的高热/低温类型抗性降低30%，电击/动能类型抗性提升30%。	噬體的高熱/低溫類型抗性降低30%，電擊/動能類型抗性提升30%。	喰体の高熱/低温耐性-30%、電撃/動力耐性+30%。	보스의 화염/얼음 유형 내성이 30% 감소하고, 번개/KP 유형 내성이 30% 증가한다.	Decreases boss' Thermal and Frost Resistance by 30%, but increases Electrical and Kinetic Resistance by 30%.						0	
+seasonbossdes102	噬体的特异/动能类型抗性降低30%，低温/电击类型抗性提升30%。	噬體的特異/動能類型抗性降低30%，低溫/電擊類型抗性提升30%。	喰体の特異/動力耐性-30%、低温/電撃耐性+30%。	보스의 혼돈/KP 유형 내성이 30% 감소하고, 얼음/번개 유형 내성이 30% 증가한다.	Decreases boss' Chaos and Kinetic Resistance by 30%, but increases Frost and Electrical Resistance by 30%.						0	
+seasonbossdes103	噬体的低温/特异类型抗性降低30%，电击/高热类型抗性提升30%。	噬體的低溫/特異類型抗性降低30%，電擊/高熱類型抗性提升30%。	喰体の低温/特異耐性-30%、電撃/高熱耐性+30%。	보스의 얼음/혼돈 유형 내성이 30% 감소하고, 번개/화염 유형 내성이 30% 증가한다.	Decrease boss' Frost and Chaos Resistance by 30%, but increase Electrical and Thermal Resistance by 30%.						0	
+seasonbossdes104	噬体的特异/高热类型抗性降低30%，动能/低温类型抗性提升30%。	噬體的特異/高熱類型抗性降低30%，動能/低溫類型抗性提升30%。	喰体の特異/高熱耐性-30%、動力/低温耐性+30%。	보스의 혼돈/화염 유형 내성이 30% 감소하고, KP/얼음 유형 내성이 30% 증가한다.	Decreases boss' Chaos and Thermal Resistance by 30%, but increases Kinetic and Frost Resistance by 30%.						0	
+seasonbossdes105	射击命中目标时，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	射擊命中目標時，目標防禦力降低20%，持續5秒。同時隊員受到的傷害提升20%，持續至戰鬥結束。	射撃が敵に命中するたび、その対象の防御力-20%、5秒持続する。隊員が受ける射撃ダメージ+20%、戦闘終了まで持続する。	사격으로 타깃을 명중할 시, 타깃의 방어력이 20% 감소한다. 지속 시간: 5초. 동시에 팀원이 받는 대미지가 20% 증가하며, 이는 전투가 종료될 때까지 지속된다.	When a shot hits a target, decrease the target's DEF by 20% for 5 sec. Increase operative's DMG received by 20% until combat ends.						0	
+seasonbossdes106	使用常规技时，技能伤害提升40%，同时暴击伤害增幅降低50%，持续8秒。	使用常規技時，技能傷害提升40%，同時暴擊傷害增幅降低50%，持續8秒。	通常技を使うと、スキルダメージ+40%、会心ダメージ増幅-50%、8秒持続する。	일반 스킬 사용 시, 스킬 대미지가 40% 증가한다. 동시에 크리티컬 강도가 50% 감소한다. 지속 시간: 8초.	When using Standard Skill, increase Skill DMG by 40% but decrease CRIT DMG Amplifier by 50% for 8 sec.						0	
+seasonbossdes107	全队队员全类型伤害提升40%，队员上场后全类型伤害每秒降低3%，至多降低90%，离场后伤害降低效果移除。	全隊隊員全類型傷害提升40%，隊員上場後全類型傷害每秒降低3%，至多降低90%，離場後傷害降低效果移除。	小隊全員の全タイプ与ダメージ+40%。交代登場後、全タイプ与ダメージが毎秒-3%（最大90%ダウン）。待機状態に入ると解除。	팀원 전체의 모든 유형 대미지가 40% 증가한다. 팀원이 필드에 등장하면 모든 유형 대미지가 매초 3% 감소하고, 최대 90%까지 줄어든다. 필드에서 퇴장하면 대미지 감소 효과가 제거된다.	Grants a 40% all-type DMG Boost to the full squad. However, deployed operatives gain 3% all-type DMG Reduction per second, up to 90%, which resets upon being switched out.						0	
+seasonbossdes108	使用常规技时，技能伤害提升40%，同时射击伤害降低40%，持续10秒。	使用常規技時，技能傷害提升40%，同時射擊傷害降低40%，持續10秒。	通常技を使うと、スキルダメージ+40%、射撃ダメージ-40%、10秒持続する。	일반 스킬 사용 시, 스킬 대미지가 40% 증가한다. 동시에 사격 대미지가 40% 감소한다. 지속 시간: 10초.	When using a Standard Skill, increases Skill DMG by 40% but decreases Ballistic DMG by 40% for 10 sec.						0	
+seasonbossdes109	使用爆发技时，暴击伤害增幅提升45%，持续8秒。	使用爆發技時，暴擊傷害增幅提升45%，持續8秒。	爆発技を使うと、会心ダメージ増幅+45%、8秒持続する。	특수 스킬 사용 시 크리티컬 강도가 45% 증가한다. 지속 시간: 8초.	Increase CRIT DMG Amplifier by 45% for 8 sec after using Ultimate Skill.						0	
+seasonbossdes110	战斗过程中，噬体的生命及能质护盾不会降低，但噬体受到的技能伤害额外提升25%。	戰鬥過程中，噬體的生命及能質護盾不會降低，但噬體受到的技能傷害額外提升25%。	戦闘中、喰体のHPとエネルギーシールドは減少せず、代わりに受けるスキルダメージ+25%。	전투 중에, 보스의 HP와 에너지 실드는 감소하지 않지만, 보스가 받는 스킬 대미지가 추가로 25% 증가한다.	During the battle, the boss' HP and Energy Shield remain undamaged, but it takes 25% more Skill DMG.						0	
+seasonbossdes111	切换队员后，当前场上队员所有技能伤害提升40%，持续10秒。	切換隊員後，當前場上隊員的所有技能傷害提升40%，持續10秒。	交代登場後、10秒間、操作隊員のスキルダメージ+40%。	팀원을 변경하면 현재 필드에 있는 팀원의 모든 스킬 대미지가 40% 증가한다. 지속 시간: 10초.	After switching operatives, increase the deployed operative's Skill DMG by 40% for 10 sec.						0	
+seasonbossdes112	战斗过程中，噬体的生命及能质护盾不会降低，但噬体受到的技能伤害额外提升25%。	戰鬥過程中，噬體的生命及能質護盾不會降低，但噬體受到的技能傷害額外提升25%。	戦闘中、喰体のHPとエネルギーシールドは減少せず、代わりに受けるスキルダメージ+25%。	전투 중에, 보스의 HP와 에너지 실드는 감소하지 않지만, 보스가 받는 스킬 대미지가 추가로 25% 증가한다.	During the battle, the boss' HP and Energy Shield remain undamaged, but it takes 25% more Skill DMG.						0	
+seasonbossdes113	噬体的电击/高热类型抗性降低30%，同时动能/特异类型抗性提升30%。	噬體的電擊/高熱類型抗性降低30%，同時動能/特異類型抗性提升30%。	喰体の電撃/高熱耐性-30%、動力/特異耐性+30%。	보스의 번개/화염 유형 내성이 30% 감소하고, 동시에 KP/혼돈 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Thermal Resistance by 30%, but increase Kinetic and Chaos Resistance by 30%.						0	
+seasonbossdes114	噬体的特异/低温类型抗性降低30%，同时动能/高热类型抗性提升30%。	噬體的特異/低溫類型抗性降低30%，同時動能/高熱類型抗性提升30%。	喰体の特異/低温耐性-30%、動力/高熱耐性+30%。	보스의 혼돈/얼음 유형 내성이 30% 감소하고, 동시에 KP/화염 유형 내성이 30% 증가한다.	Decrease boss' Chaos and Frost Resistance by 30%, but increase Kinetic and Thermal Resistance by 30%.						0	
+seasonbossdes115	噬体的高热/动能类型抗性降低30%，同时电击/低温类型抗性提升30%。	噬體的高熱/動能類型抗性降低30%，同時電擊/低溫類型抗性提升30%。	喰体の高熱/動力耐性-30%、電撃/低温耐性+30%。	보스의 화염/KP 유형 내성이 30% 감소하고, 동시에 번개/얼음 유형 내성이 30% 증가한다.	Decrease boss' Thermal and Kinetic Resistance by 30%, but increase Electrical and Frost Resistance by 30%.						0	
+seasonbossdes116	噬体的特异/动能类型抗性降低30%，同时电击/高热类型抗性提升30%。	噬體的特異/動能類型抗性降低30%，同時電擊/高熱類型抗性提升30%。	喰体の特異/動力耐性-30%、電撃/高熱耐性+30%。	보스의 혼돈/KP 유형 내성이 30% 감소하고, 동시에 번개/화염 유형 내성이 30% 증가한다.	Decrease boss' Chaos and Kinetic Resistance by 30%, but increase Electrical and Thermal Resistance by 30%.						0	
+seasonbossdes117	使用常规技后，我方全队暴击伤害增幅提升50%，但防御力降低20%，持续8秒。	使用常規技後，我方全隊暴擊傷害增幅增加50%，但防禦力降低20%，持續8秒。	通常技発動後、8秒間、小隊全員の会心ダメージ増幅+50%、防御力-20%。	일반 스킬 사용 후, 전체 팀원의 크리티컬 강도가 50% 증가하지만, 방어력이 20% 감소한다. 지속 시간: 8초.	After using Standard Skill, increase CRIT DMG Amplifier by 50% but decrease DEF by 20% for 8 sec.						0	
+seasonbossdes118	使用常规技时，技能伤害提升40%，同时射击伤害降低40%，持续10秒。	使用常規技時，技能傷害提升40%，同時射擊傷害降低40%，持續10秒。	通常技の発動時、スキルダメージ+40%、射撃ダメージ-40%、10秒間持続する。	일반 스킬 사용 시, 스킬 대미지가 40% 증가한다. 동시에 사격 대미지가 40% 감소한다. 지속 시간: 10초.	When using Standard Skill, increase Skill DMG by 40% but decrease Ballistic DMG by 40% for 10 sec.						0	
+seasonbossdes119	使用常规技后，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	使用常規技後，目標防禦力降低20%，持續5秒。同時隊員受到的傷害提升20%，持續至戰鬥結束。	通常技の発動後、敵の防御力-20%、5秒間持続する。同時に、味方隊員が受けるダメージ+20%、戦闘終了まで持続する。	일반 스킬 사용 후, 타깃의 방어력이 20% 감소한다. 지속 시간: 5초. 동시에 팀원이 받는 대미지가 20% 증가하며, 이는 전투가 종료될 때까지 지속된다.	After using Standard Skill, decrease the target's DEF by 20% for 5 sec, but increase operative's DMG received by 20% until combat ends.						0	
+seasonbossdes120	敌方与我方攻击力均提升30%。	敵方與我方攻擊力均提升30%。	敵と味方隊員の攻撃力+30%。	타깃과 아군의 공격력이 모두 30% 증가한다.	Increase ATK of both enemies and allies by 30%.						0	
+seasonbossdes121	战斗时噬体受到的射击伤害将额外提升25%。但在难度5关卡中，噬体的生命及能质护盾不会降低。	戰鬥時噬體受到的射擊傷害將額外提升25%。但在難度5關卡中，噬體的生命及能質護盾不會降低。	喰体が受ける射撃ダメージ+25%。ただし、難易度ⅤではHPとエネルギーシールドは減少しない	전투 중에, 보스가 받는 사격 대미지가 추가로 25% 증가한다. 난이도5 스테이지에서 보스의 HP와 에너지 실드는 감소하지 않는다.	Increases Ballistic DMG the boss taken by an extra 25% in combat. In Difficulty 5, their HP and Energy Shield do not decrease.						0	
+seasonbossdes122	切换队员后，当前场上队员所有技能伤害提升40%，持续10秒。	切換隊員後，當前場上隊員的所有技能傷害提升40%，持續10秒。	交代登場後、10秒間、操作隊員のスキルダメージ+40%。	팀원을 변경하면 현재 필드에 있는 팀원의 모든 스킬 대미지가 40% 증가한다. 지속 시간: 10초.	After switching operatives, increase deployed operative's Skill DMG by 40% for 10 sec.						0	
+seasonbossdes123	战斗时噬体受到的伤害将额外提升25%。但在难度5关卡中，噬体的生命及能质护盾不会降低。	戰鬥時噬體受到的傷害將額外提升25%。但在難度5關卡中，噬體的生命及能質護盾不會降低。	喰体が受けるダメージ+25%。ただし、難易度ⅤではHPとエネルギーシールドは減少しない	전투 중에, 보스가 받는 대미지가 추가로 25% 증가한다. 난이도5 스테이지에서 보스의 HP와 에너지 실드는 감소하지 않는다.	Increases DMG the boss taken by an extra 25% in combat. In Difficulty 5, their HP and Energy Shield do not decrease.						0	
+seasonbossdes124	使用常规技后，技能伤害提升40%，持续10秒。	使用常規技後，技能傷害提升40%，持續10秒。	通常技の発動後、スキルダメージ+40%、10秒間持続する。	일반 스킬 사용 후, 스킬 대미지가 40% 증가한다. 지속 시간: 10초.	After using Standard Skill, increase Skill DMG by 40% for 10 sec.						0	
+seasonbossdes125	噬体的动能/低温类型抗性降低30%，同时高热/电击类型抗性提升30%。	噬體的動能/低溫類型抗性降低30%，同時高熱/電擊類型抗性提升30%。	喰体の動力＆低温耐性-30%、高熱＆電撃耐性+30%。	보스의 KP/얼음 유형 내성이 30% 감소하고, 동시에 화염/번개 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Frost Resistance by 30%, but increase Thermal and Electrical Resistance by 30%.						0	
+seasonbossdes126	噬体的高热/低温类型抗性降低30%，同时动能/特异类型抗性提升30%。	噬體的高熱/低溫類型抗性降低30%，同時動能/特異類型抗性提升30%。	喰体の高熱＆低温耐性-30%、動力＆特異耐性+30%。	보스의 화염/얼음 유형 내성이 30% 감소하고, 동시에 KP/혼돈 유형 내성이 30% 증가한다.	Decrease boss' Thermal and Frost Resistance by 30%, but increase Kinetic and Chaos Resistance by 30%.						0	
+seasonbossdes127	噬体的动能/电击类型抗性降低30%，同时低温/特异类型抗性提升30%。	噬體的動能/電擊類型抗性降低30%，同時低溫/特異類型抗性提升30%。	喰体の動力＆電撃耐性-30%、低温＆特異耐性+30%。	보스의 KP/번개 유형 내성이 30% 감소하고, 얼음/혼돈 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Electrical Resistance by 30%, but increase Frost and Chaos Resistance by 30%.						0	
+seasonbossdes128	噬体的特异/低温类型抗性降低30%，同时动能/高热类型抗性提升30%。	噬體的特異/低溫類型抗性降低30%，同時動能/高熱類型抗性提升30%。	喰体の特異＆低温耐性-30%、動力＆高熱耐性+30%。	보스의 혼돈/얼음 유형 내성이 30% 감소하고, 동시에 KP/화염 유형 내성이 30% 증가한다.	Decrease boss' Chaos and Frost Resistance by 30%, but increase Kinetic and Thermal Resistance by 30%.						0	
+seasonbossdes129	战斗过程中，噬体的能质护盾及生命不会降低，且噬体攻击力提升25%，但被射击命中后，噬体防御力将降低0.5%，该防御力降低效果至多叠加至50层。	戰鬥過程中，噬體的能質護盾及生命不會降低，且噬體攻擊力提升25%，但被射擊命中後，噬體防禦力將降低0.5%，該防禦力降低效果至多疊加至50層。	戦闘中、喰体のエネルギーシールドとHPが減少せず、攻撃力+25%。射撃を受けた喰体の防御力-0.5%（最大50スタック）。	전투 중에, 보스의 에너지 실드와 HP가 감소하지 않고 보스의 공격력이 25% 증가하지만, 사격에 명중되면 보스의 방어력이 0.5% 감소하며, 해당 방어력 감소 효과는 최대 50스택까지 중첩할 수 있다.	During battle, the boss' Energy Shield and HP do not decrease, and its ATK is increased by 25%. However, each hit reduces its DEF by 0.5%, up to 50 stacks.						0	
+seasonbossdes130	战斗过程中，噬体的能质护盾及生命不会降低。射击命中目标时，目标防御力降低20%，持续5秒。同时队员受到的伤害提升20%，持续至战斗结束。	戰鬥過程中，噬體的能質護盾及生命不會降低。射擊命中目標時，目標防禦力降低20%，持續5秒。同時隊員受到的傷害提升20%，持續至戰鬥結束。	戦闘中、喰体のエネルギーシールドとHPは減少しない。射撃命中時、喰体の防御力-20%（5秒間）。ただし、味方の被ダメージ+20%（戦闘終了まで持続）。	전투 중에, 보스의 에너지 실드와 HP가 감소하지 않는다. 사격으로 타깃을 명중할 시, 타깃의 방어력이 20% 감소한다. 지속 시간: 5초. 동시에 팀원이 받는 대미지가 20% 증가하며, 이는 전투가 종료될 때까지 지속된다.	During battle, the boss' Energy Shield and HP will not decrease. Shot hits on target decrease their DEF by 20% for 5 sec. But operative's DMG taken increases by 20% until combat ends.						0	
+seasonbossdes131	战斗过程中，噬体的能质护盾及生命不会降低。使用常规技时，队员的技能伤害提升40%，同时暴击伤害增幅降低50%，持续8秒。	戰鬥過程中，噬體的能質護盾及生命不會降低。使用常規技時，隊員的技能傷害提升40%，同時暴擊傷害增幅降低50%，持續8秒。	戦闘中、喰体のエネルギーシールドとHPは減少しない。通常技使用時、8秒間スキルダメージ+40%、会心ダメージ増幅-50%。	전투 중에, 보스의 에너지 실드와 HP가 감소하지 않는다. 일반 스킬을 사용할 시, 팀원의 스킬 대미지가 40% 증가하며, 크리티컬 강도가 50% 감소한다. 지속 시간: 8초.	During battle, the boss' Energy Shield and HP will not decrease. When using Standard Skill, increase operative's Skill DMG by 40% but decrease CRIT DMG Amplifier by 50% for 8 sec.						0	
+seasonbossdes132	战斗过程中，噬体的能质护盾及生命不会降低，且噬体攻击力提升25%，但噬体受到的伤害将额外提升25%。	戰鬥過程中，噬體的能質護盾及生命不會降低，且噬體攻擊力提升25%，但噬體受到的傷害將額外提升25%。	戦闘中、喰体のエネルギーシールドとHPが減少せず、攻撃力+25%。ただし、受けるダメージ+25%。	전투 중에, 보스의 HP와 에너지 실드가 감소하지 않고 보스의 공격력이 25% 증가하지만, 보스가 받는 대미지가 추가로 25% 증가한다.	During battle, the boss' Energy Shield and HP do not decrease, and its ATK is increased by 25%. However, it takes 25% more DMG.						0	
+seasonbossdes133	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	每次射擊命中目標時，使目標受到的射擊傷害提升3%，持續1秒，該效果最多疊加至10層。	射撃が敵に命中すると、その敵の受ける射撃ダメージ+3%（1秒間、最大10スタック）。	매번 사격이 타깃을 명중할 때마다 타깃이 받는 사격 대미지가 3% 증가하며, 최대 10스택까지 중첩한다. 지속 시간: 1초.	When a shot hits a target, increase the target's Ballistic DMG received by 3% for 1 sec. Max 10 stacks.						0	
+seasonbossdes134	战斗过程中，我方队员的射击伤害将无视目标25%的防御力。	戰鬥過程中，我方隊員的射擊傷害將無視目標25%的防禦力。	戦闘中、味方の射撃ダメージが敵の防御力25%分を無視する。	전투 중에, 필드에 있는 팀원의 사격 대미지가 타깃의 방어력을 25% 무시한다.	During battle, operatives' Ballistic DMG ignores 25% of targets' DEF.						0	
+seasonbossdes135	使用常规技后，爆发技伤害将提升20%，持续到战斗结束。该效果至多叠加至3层。	使用常規技後，爆發技傷害將提升20%，持續到戰鬥結束。該效果至多疊加至3層。	通常技使用後、爆発技ダメージ+20%（最大3スタック、戦闘終了まで持続）。	일반 스킬을 사용한 후, 특수 스킬 대미지가 20% 증가하며, 이는 전투가 종료될 때까지 지속된다. 해당 효과는 최대 3스택까지 중첩할 수 있다.	After using Standard Skill, increase Ultimate Skill DMG by 20% until the end of battle. Max 3 stacks.						0	
+seasonbossdes136	使用常规技后，队员自身攻击力将提升30%，持续5秒，且每次射击命中目标后，该效果持续时间将延长1秒。	使用常規技後，隊員自身攻擊力將提升30%，持續5秒，且每次射擊命中目標後，該效果持續時間將延長1秒。	通常技使用後、自身の攻撃力+30%（5秒間）。射撃が命中するたび、継続時間+1秒。	일반 스킬을 사용한 후, 팀원 자체의 공격력이 30% 증가한다. 지속 시간: 5초. 매번 사격이 타깃을 명중할 때마다 해당 효과의 지속 시간이 1초 연장된다.	After using Standard Skill, increase the operative's ATK by 30% for 5 sec. Every time a shot hits a target, extend this effect by 1 sec.						0	
+seasonbossdes137	噬体的低温/电击类型抗性降低30%，同时特异/高热类型抗性提升30%。	噬體的低溫/電擊類型抗性降低30%，同時特異/高熱類型抗性提升30%。	喰体の低温＆電撃耐性-30%、特異＆高熱耐性+30%。	보스의 얼음/번개 유형 내성이 30% 감소하고, 동시에 혼돈/화염 유형 내성이 30% 증가한다.	Decrease boss' Frost and Electrical Resistance by 30%, but increase Chaos and Thermal Resistance by 30%.						0	
+seasonbossdes138	噬体的动能/高热类型抗性降低30%，同时特异/电击类型抗性提升30%。	噬體的動能/高熱類型抗性降低30%，同時特異/電擊類型抗性提升30%。	喰体の動力＆高熱耐性-30%、特異＆電撃耐性+30%。	보스의 KP/화염 유형 내성이 30% 감소하고, 동시에 혼돈/번개 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Thermal Resistance by 30%, but increase Chaos and Electrical Resistance by 30%.						0	
+seasonbossdes139	噬体的低温/动能类型抗性降低30%，同时高热/电击类型抗性提升30%。	噬體的低溫/動能類型抗性降低30%，同時高熱/電擊類型抗性提升30%。	喰体の低温＆動力耐性-30%、高熱＆電撃耐性+30%。	보스의 얼음/KP 유형 내성이 30% 감소하고, 동시에 화염/번개 유형 내성이 30% 증가한다.	Decrease boss' Frost and Kinetic Resistance by 30%, but increase Thermal and Electrical Resistance by 30%.						0	
+seasonbossdes140	噬体的动能/特异类型抗性降低30%，同时低温/电击类型抗性提升30%。	噬體的動能/特異類型抗性降低30%，同時低溫/電擊類型抗性提升30%。	喰体の動力＆特異耐性-30%、低温＆電撃耐性+30%。	보스의 KP/혼돈 유형 내성이 30% 감소하고, 동시에 얼음/번개 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Chaos Resistance by 30%, but increase Frost and Electrical Resistance by 30%.						0	
+seasonbossdes141	战斗过程中，噬体的生命不会降低，被射击命中后，噬体的防御力降低20%，持续5秒，期间队员受到的伤害提升20%。	戰鬥過程中，噬體的生命不會降低，被射擊命中後，噬體的防禦力降低20%，持續5秒，期間隊員受到的傷害提升20%。	戦闘中、喰体のHPが減少しない。射撃命中時、喰体の防御力-20%、同時に味方の被ダメージ+20%（5秒間）。	전투 중 보스의 HP가 감소하지 않는다. 사격에 명중된 후, 보스의 방어력이 20% 감소한다. 지속 시간: 5초. 이 기간 동안 팀원이 받는 대미지가 20% 증가한다.	During battle, the boss' HP will not decrease. After being hit by a shot, its DEF is reduced by 20% for 5 sec, but operative takes 20% more DMG during this time.						0	
+seasonbossdes142	战斗过程中，噬体的生命不会降低，队员使用常规技后，技能伤害提升40%，但射击伤害降低40%，持续10秒。	戰鬥過程中，噬體的生命不會降低，隊員使用常規技後，技能傷害提升40%，但射擊傷害降低40%，持續10秒。	戦闘中、喰体のHPが減少しない。通常技使用時、10秒間スキルダメージ+40%、同時に射撃ダメージ-40%。	전투 중에, 보스의 HP가 감소하지 않는다. 팀원이 일반 스킬을 사용한 후, 스킬 대미지가 40% 증가하지만 사격 대미지가 40% 감소한다. 지속 시간: 10초.	During battle, the boss' HP will not decrease. After using Standard Skill, increase operative's Skill DMG by 40% but decrease Ballistic DMG by 40% for 10 sec.						0	
+seasonbossdes143	战斗过程中，噬体的生命不会降低且攻击力提升25%，但其受到的伤害额外提升25%。	戰鬥過程中，噬體的生命不會降低且攻擊力提升25%，但其受到的傷害額外提升25%。	戦闘中、喰体のHPが減少しない。攻撃力+25%、ただし受けるダメージ+25%。	전투 중에, 보스의 HP가 감소하지 않고 공격력이 25% 증가하지만, 보스가 받는 대미지가 추가로 25% 증가한다.	During battle, the boss' HP will not decrease and its ATK is increased by 25%, but it also takes 25% more DMG.						0	
+seasonbossdes144	战斗过程中，噬体的生命不会降低且攻击力提升30%，但队员攻击力提升30%。	戰鬥過程中，噬體的生命不會降低且攻擊力提升30%，但隊員攻擊力提升30%。	戦闘中、喰体のHPが減少せず、攻撃力+30%。同時に味方隊員の攻撃力+30%。	전투 중에, 보스의 HP가 감소하지 않고 공격력이 30% 증가하지만, 팀원의 공격력이 30% 증가한다.	During battle, the boss’ HP will not decrease and its ATK is increased by 30%, while operative's ATK is also increased by 30%.						0	
+seasonbossdes145	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	每次射擊命中目標時，使目標受到的射擊傷害提升3%，持續1秒，該效果最多疊加至10層。	射撃命中するたび、その敵の受ける射撃ダメージ+3%（1秒間、最大10スタック）。	매번 사격이 타깃을 명중할 때마다 타깃이 받는 사격 대미지가 3% 증가하며, 최대 10스택까지 중첩한다. 지속 시간: 1초.	When a shot hits a target, increase the target's Ballistic DMG received by 3% for 1 sec. Max 10 stacks.						0	
+seasonbossdes146	队员爆发技伤害提升30%，使用爆发技时立刻回复最大生命100%的生命。	隊員爆發技傷害提升30%，使用爆發技時立刻回復最大生命100%的生命。	隊員の爆発技ダメージ+30%。爆発技使用時、最大HPの100%分を回復する。	팀원의 특수 스킬 대미지가 30% 증가하고, 특수 스킬 사용 시 최대 HP의 100%를 즉시 회복한다.	Increase operative's Ultimate Skill DMG by 30%. Using Ultimate Skill instantly restores 100% of Max HP.						0	
+seasonbossdes147	使用常规技后，队员自身攻击力将提升30%，持续5秒，且每次射击命中目标后，该效果持续时间将延长1秒。	使用常規技後，隊員自身攻擊力將提升30%，持續5秒，且每次射擊命中目標後，該效果持續時間將延長1秒。	通常技使用後、自身の攻撃力+30%（5秒間）。射撃が命中するたび、継続時間+1秒。	일반 스킬을 사용한 후, 팀원 자체의 공격력이 30% 증가한다. 지속 시간: 5초. 매번 사격이 타깃을 명중할 때마다 해당 효과의 지속 시간이 1초 연장된다.	After using Standard Skill, increase the operative's ATK by 30% for 5 sec. Every time a shot hits a target, extend this effect by 1 sec.						0	
+seasonbossdes148	队员技能伤害提升30%，使用爆发技时立刻回复最大生命100%的生命。	隊員技能傷害提升30%，使用爆發技時立刻回復最大生命100%的生命。	隊員のスキルダメージ+30%。爆発技使用時、最大HPの100%分を回復する。	팀원의 스킬 대미지가 30% 증가하고, 특수 스킬 사용 시 최대 HP의 100%를 즉시 회복한다.	Increase operative's Skill DMG by 30%. Using Ultimate Skill instantly restores 100% of Max HP.						0	
+seasonbossdes201	噬体的低温/高热类型抗性降低30%，同时特异/动能类型抗性提升30%。	噬體的低溫/高熱類型抗性降低30%，同時特異/動能類型抗性提升30%。	喰体の低温＆高熱耐性-30%、特異＆動力耐性+30%。	보스의 얼음/화염 유형 내성이 30% 감소하고, 동시에 혼돈/KP 유형 내성이 30% 증가한다.	Decrease boss' Frost and Thermal Resistance by 30%, but increase Chaos and Kinetic Resistance by 30%.						0	
+seasonbossdes202	噬体的特异/电击类型抗性降低30%，同时低温/动能类型抗性提升30%。	噬體的特異/電擊類型抗性降低30%，同時低溫/動能類型抗性提升30%。	喰体の特異＆電撃耐性-30%、低温＆動力耐性+30%。	보스의 혼돈/번개 유형 내성이 30% 감소하고, 동시에 얼음/KP 유형 내성이 30% 증가한다.	Decrease boss' Chaos and Electrical Resistance by 30%, but increase Frost and Kinetic Resistance by 30%.						0	
+seasonbossdes203	噬体的高热/电击类型抗性降低30%，同时特异/低温类型抗性提升30%。	噬體的高熱/電擊類型抗性降低30%，同時特異/低溫類型抗性提升30%。	喰体の高熱＆電撃耐性-30%、特異＆低温耐性+30%。	보스의 화염/번개 유형 내성이 30% 감소하고, 동시에 혼돈/얼음 유형 내성이 30% 증가한다.	Decrease boss' Thermal and Electrical Resistance by 30%, but increase Chaos and Frost Resistance by 30%.						0	
+seasonbossdes204	噬体的低温/动能类型抗性降低30%，同时特异/电击类型抗性提升30%。	噬體的低溫/動能類型抗性降低30%，同時特異/電擊類型抗性提升30%。	喰体の低温＆動力耐性-30%、特異＆電撃耐性+30%。	보스의 얼음/KP 유형 내성이 30% 감소하고, 동시에 혼돈/번개 유형 내성이 30% 증가한다.	Decrease boss' Frost and Kinetic Resistance by 30%, but increase Chaos and Electrical Resistance by 30%.						0	
+seasonbossdes205	噬体的电击/动能类型抗性降低30%，同时特异/低温类型抗性提升30%。	噬體的電擊/動能類型抗性降低30%，同時特異/低溫類型抗性提升30%。	喰体の電撃/動力耐性-30%、特異/低温耐性+30%。	보스의 번개/KP 유형 내성이 30% 감소하고, 동시에 혼돈/얼음 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Kinetic Resistance by 30%, but increase Chaos and Frost Resistance by 30%.						0	
+seasonbossdes206	噬体的高热/特异类型抗性降低30%，同时动能/电击类型抗性提升30%。	噬體的高熱/特異類型抗性降低30%，同時動能/電擊類型抗性提升30%。	喰体の高熱/特異耐性-30%、動力/電撃耐性+30%。	보스의 화염/혼돈 유형 내성이 30% 감소하고, 동시에 KP/번개 유형 내성이 30% 증가한다.	Decrease boss' Thermal and Chaos Resistance by 30%, but increase Kinetic and Electrical Resistance by 30%.						0	
+seasonbossdes207	噬体的电击/特异类型抗性降低30%，同时高热/低温类型抗性提升30%。	噬體的電擊/特異類型抗性降低30%，同時高熱/低溫類型抗性提升30%。	喰体の電撃/特異耐性-30%、高熱/低温耐性+30%。	보스의 번개/혼돈 유형 내성이 30% 감소하고, 동시에 화염/얼음 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Chaos Resistance by 30%, but increase Thermal and Frost Resistance by 30%.						0	
+seasonbossdes208	噬体的低温/高热类型抗性降低30%，同时电击/动能类型抗性提升30%。	噬體的低溫/高熱類型抗性降低30%，同時電擊/動能類型抗性提升30%。	喰体の低温/高熱耐性-30%、電撃/動力耐性+30%。	보스의 얼음/화염 유형 내성이 30% 감소하고, 동시에 번개/KP 유형 내성이 30% 증가한다.	Decrease boss' Frost and Thermal Resistance by 30%, but increase Electrical and Kinetic Resistance by 30%.						0	
+seasonbossdes209	战斗过程中，噬体的高淬能质护盾与生命值不会降低；场上我方角色每次造成射击伤害时，会使目标受到的技能伤害提升10%，但目标攻击力同步提升10%，持续10秒，该效果最多叠加3层。	戰鬥過程中，噬體的高淬能質護盾與生命值不會降低；場上我方角色每次造成射擊傷害時，會使目標受到的技能傷害提升10%，但目標攻擊力同步提升10%，持續10秒，此效果最多疊加3層。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。隊員が射撃ダメージを与えるたびに、その喰体の受けるスキルダメージ+10%、10秒間攻撃力+10%（最大3スタック）。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 필드에 있는 아군 캐릭터가 사격 대미지를 입힐 때마다 타깃이 받는 스킬 대미지가 10% 증가하고, 동시에 해당 타깃의 공격력이 10% 증가한다. 지속 시간: 10초. 해당 효과는 최대 3스택까지 중첩할 수 있다.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. Every instance of Ballistic DMG increases the target's DMG taken from skills by 10%, but the target's ATK also increases by 10% for 10 sec. Max 3 stacks.						0	
+seasonbossdes210	战斗过程中，噬体的生命不会降低，敌我双方攻击力均提升30%。	戰鬥過程中，噬體的生命不會降低，敵我雙方攻擊力都提升30%。	戦闘中、喰体のHPは減少せず、攻撃力+30%。同時に味方隊員の攻撃力+30%。	전투 중에, 보스의 HP가 감소하지 않고, 적과 아군의 공격력이 30% 증가한다.	During battle, the boss' HP will not decrease, while both sides' ATK is increased by 30%.						0	
+seasonbossdes211	战斗过程中，噬体的高淬能质护盾和生命不会降低且全队队员的治疗加成下降30%；每次射击命中后，技能伤害提升4%，持续10秒，该效果最多叠加10层。	戰鬥過程中，噬體的高淬能質護盾和生命不會降低且全隊隊員的治療加成下降30%；每次射擊命中後，技能傷害提升4%，持續10秒，此效果最多疊加10層。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。小隊全員の治療量ボーナス-30%。射撃が命中するたびに、10秒間、隊員のスキルダメージ+4%（最大10スタック）。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않고, 모든 팀원의 치유 보너스가 30% 감소한다. 사격이 명중할 때마다 스킬 대미지가 4% 증가한다. 지속 시간: 10초. 해당 효과는 최대 10스택까지 중첩할 수 있다.	During battle, the boss' Enhanced Energy Shield and HP will not decrease, and the full squad's Healing Bonus is reduced by 30%. Every shot hit on target increases Skill DMG by 4% for 10 sec. Max 10 stacks.						0	
+seasonbossdes212	战斗过程中，噬体的高淬能质护盾与生命值不会降低；每次射击命中目标后，目标防御力降低20%，持续5秒，但全队队员受到的伤害提升20%。	戰鬥過程中，噬體的高淬能質護盾與生命值不會降低；每次射擊命中目標後，目標防禦力降低20%，持續5秒，但全隊隊員受到的傷害提升20%。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。射撃が命中するたびに、5秒間、その喰体の防御力-20%、同時に小隊全員の被ダメージ+20%。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 사격으로 타깃을 명중할 때마다, 타깃의 방어력이 20% 감소한다. 지속 시간: 5초. 동시에 모든 팀원이 받는 대미지가 20% 증가한다.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. Every shot hit on target decreases its DEF by 20% for 5 sec. But all operatives' DMG taken increases by 20%.						0	
+seasonbossdes213	战斗过程中，噬体的高密通常护盾和生命不会降低；队员持有【特殊弹匣】时，射击伤害提升40%，未持有特殊弹匣时，攻击力降低40%。	戰鬥過程中，噬體的高密通常護盾和生命不會降低；隊員持有【特殊彈匣】時，射擊傷害提升40%，未持有特殊彈匣時，攻擊力降低40%。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員が特殊マガジンを所持中、射撃ダメージ+40%。特殊マガジンを未所持の場合、攻撃力-40%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 팀원이 [특수 탄창]을 보유할 때, 사격 대미지가 40% 증가한다. 특수 탄창을 보유하지 않으면 공격력이 40% 감소한다.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. When an operative holds a special clip, increase her Ballistic DMG by 40%; otherwise, decrease her ATK by 40%.						0	
+seasonbossdes214	战斗过程中，噬体的高淬能质护盾和生命不会降低；队员每次造成射击伤害时，会使该目标受到的技能伤害提升10%但攻击力提升10%，持续10秒，该效果最多叠加3层。	戰鬥過程中，噬體的高淬能質護盾和生命不會降低；隊員每次造成射擊傷害時，會使目標受到的技能傷害提升10%但攻擊力提升10%，持續10秒，此效果最多疊加3層。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。隊員が射撃ダメージを与えるたび、10秒間、その喰体が受けるスキルダメージ+10%、攻撃力+10%（最大3スタック）。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 팀원이 사격 대미지를 입힐 때마다 해당 타깃이 받는 스킬 대미지가 10% 증가하고, 동시에 해당 타깃의 공격력이 10% 증가한다. 지속 시간: 10초. 해당 효과는 최대 3스택까지 중첩할 수 있다.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. Each instance of Ballistic DMG increases the target's skill DMG taken by 10%, but also increases the target's ATK by 10% for 10 sec. Max 3 stacks.						0	
+seasonbossdes215	战斗过程中，噬体的高密通常护盾和生命不会降低，队员暴击伤害增幅提升45%，但使用常规技后攻击力降低50%，持续6秒。	戰鬥過程中，噬體的高密通常護盾和生命不會降低，隊員暴擊傷害增幅提升45%，但使用常規技後攻擊力降低50%，持續6秒。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員の会心ダメージ増幅+45%、通常技使用後の6秒間、攻撃力-50%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 팀원의 크리티컬 강도가 45% 증가하지만, 일반 스킬을 사용한 후 공격력이 50% 감소한다. 지속 시간: 6초.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. Increase operatives' CRIT DMG Amplifier by 45%, but after using Standard Skill, decrease their ATK by 50% for 6 sec.						0	
+seasonbossdes216	战斗过程中，噬体的高密通常护盾和生命不会降低，队员射击命中目标后，目标防御降低20%，但队员受到的伤害提升20%，持续5秒。	戰鬥過程中，噬體的高密通常護盾與生命值不會降低；每次射擊命中目標後，目標防禦力降低20%，但隊員受到的傷害提升20%，持續5秒。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員の射撃が命中するたび、5秒間その喰体の防御力-20%、隊員の被ダメージ+20%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 팀원의 사격이 타깃을 명중한 후 타깃의 방어력이 20% 감소하지만, 팀원이 받는 대미지가 20% 증가한다. 지속 시간: 5초.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. Operatives whose shots hit a target decrease its DEF by 20% but increase those operatives' DMG taken by 20% for 5 sec.						0	
+seasonbossdes217	战斗过程中，噬体的高密通常护盾和生命不会降低；队员持有【特殊弹匣】时，射击伤害提升40%，未持有特殊弹匣时，攻击力降低40%。	戰鬥過程中，噬體的高密通常護盾和生命不會降低；隊員持有【特殊彈匣】時，射擊傷害提升40%，未持有特殊彈匣時，攻擊力降低40%。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員が【特殊マガジン】を所持中、射撃ダメージ+40%。【特殊マガジン】を未所持の場合、攻撃力-40%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 팀원이 [특수 탄창]을 보유할 때, 사격 대미지가 40% 증가한다. 특수 탄창을 보유하지 않으면 공격력이 40% 감소한다.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. When an operative holds a special clip, increase her Ballistic DMG by 40%; otherwise, decrease her ATK by 40%.						0	
+seasonbossdes218	战斗过程中，噬体的高淬能质护盾和生命不会降低；队员每次造成射击伤害时，会使该目标受到的技能伤害提升10%但攻击力提升10%，持续10秒，该效果最多叠加3层。	戰鬥過程中，噬體的高淬能質護盾和生命不會降低；隊員每次造成射擊傷害時，會使目標受到的技能傷害提升10%但攻擊力提升10%，持續10秒，此效果最多疊加3層。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。隊員が射撃ダメージを与えるたび、10秒の間、その喰体が受けるスキルダメージ+10%、代わり攻撃力+10%（最大3スタック）。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 팀원이 사격 대미지를 입힐 때마다 해당 타깃이 받는 스킬 대미지가 10% 증가하고, 동시에 해당 타깃의 공격력이 10% 증가한다. 지속 시간: 10초. 해당 효과는 최대 3스택까지 중첩할 수 있다.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. Each instance of Ballistic DMG increases the target's skill DMG taken by 10%, but also increases the target's ATK by 10% for 10 sec. Max 3 stacks.						0	
+seasonbossdes219	战斗过程中，噬体的高密通常护盾和生命不会降低，队员暴击伤害增幅提升45%，但使用常规技后攻击力降低50%，持续6秒。	戰鬥過程中，噬體的高密通常護盾和生命不會降低，隊員暴擊傷害增幅提升45%，但使用常規技後攻擊力降低50%，持續6秒。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員の会心ダメージ増幅+45%、通常技使用後の6秒間、攻撃力-50%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 팀원의 크리티컬 강도가 45% 증가하지만, 일반 스킬을 사용한 후 공격력이 50% 감소한다. 지속 시간: 6초.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. Increase operatives' CRIT DMG Amplifier by 45%, but after using Standard Skill, decrease their ATK by 50% for 6 sec.						0	
+seasonbossdes220	战斗过程中，噬体的高密通常护盾和生命不会降低，队员射击命中目标后，目标防御降低20%，但队员受到的伤害提升20%，持续5秒。	戰鬥過程中，噬體的高密通常護盾與生命值不會降低；每次射擊命中目標後，目標防禦力降低20%，但隊員受到的傷害提升20%，持續5秒。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員の射撃が命中するたび、5秒間その喰体の防御力-20%、隊員の被ダメージ+20%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 팀원의 사격이 타깃을 명중한 후 타깃의 방어력이 20% 감소하지만, 팀원이 받는 대미지가 20% 증가한다. 지속 시간: 5초.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. Operatives whose shots hit a target decrease its DEF by 20% but increase those operatives' DMG taken by 20% for 5 sec.						0	
+seasonbossdes221	使用爆发技后，暴击伤害增幅提升45%，持续8秒。	使用爆發技後，暴擊傷害增幅提升45%，持續8秒。	爆発技使用後、8秒間会心ダメージ増幅+45%。	특수 스킬을 사용한 후 크리티컬 강도가 45% 증가한다. 지속 시간: 8초.	Increase CRIT DMG Amplifier by 45% for 8 sec after using Ultimate Skill.						0	
+seasonbossdes222	使用常规技后，爆发技伤害提升20%，至多叠加3次。	使用常規技後，爆發技傷害提升20%，至多疊加3次。	通常技使用後、爆発技ダメージ+20%（最大3スタック）。	일반 스킬을 사용한 후, 특수 스킬 대미지가 20% 증가하며, 최대 3스택까지 중첩할 수 있다.	After using Standard Skill, increase Ultimate Skill DMG by 20%. Max 3 stacks.						0	
+seasonbossdes223	战斗过程中，我方队员的射击伤害将无视目标25%的防御力。	戰鬥過程中，我方隊員的射擊傷害將無視目標25%的防禦力。	戦闘中、味方の射撃ダメージが敵の防御力を25%無視する。	전투 중에, 필드에 있는 팀원의 사격 대미지가 타깃의 방어력을 25% 무시한다.	During battle, operatives' Ballistic DMG ignores 25% of targets' DEF.						0	
+seasonbossdes224	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	每次射擊命中目標時，使目標受到的射擊傷害提升3%，持續1秒，該效果最多疊加至10層。	射撃命中するたび、その敵の受ける射撃ダメージ+3%（1秒間、最大10スタック）。	매번 사격이 타깃을 명중할 때마다 타깃이 받는 사격 대미지가 3% 증가하며, 최대 10스택까지 중첩한다. 지속 시간: 1초.	When a shot hits a target, increase the target's Ballistic DMG received by 3% for 1 sec. Max 10 stacks.						0	
+seasonbossdes225	战斗过程中，我方队员的技能伤害将无视目标25%的防御力。	戰鬥過程中，我方隊員的技能傷害將無視目標25%的防禦力。	戦闘中、隊員のスキルダメージは敵の防御力を25%無視する。	전투 중에, 필드에 있는 팀원의 스킬 대미지가 타깃의 방어력을 25% 무시한다.	During battle, operatives' Skill DMG ignores 25% of targets' DEF.						0	
+seasonbossdes226	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	每次射擊命中目標時，使目標受到的射擊傷害提升3%，持續1秒，該效果最多疊加至10層。	射撃が命中するたび、その敵が受ける射撃ダメージ+3%（1秒間持続し、最大10スタック）。	매번 사격이 타깃을 명중할 때마다 타깃이 받는 사격 대미지가 3% 증가하며, 최대 10스택까지 중첩한다. 지속 시간: 1초.	When a shot hits a target, increases the target's Ballistic DMG received by 3% for 1 sec. Max 10 stacks.						0	
+seasonbossdes227	使用常规技后技能伤害提升40%，持续10秒。	使用常規技後技能傷害提升40%，持續10秒。	通常技を発動後の10秒間、スキルダメージ+40%。	일반 스킬 사용 후, 스킬 대미지가 40% 증가한다. 지속 시간: 10초.	After using Standard Skill, increases Skill DMG by 40% for 10 sec.						0	
+seasonbossdes228	使用常规技后，爆发技伤害提升20%，至多叠加3层。	使用常規技後爆發技傷害提升20%，至多疊加3層。	通常技を発動後、爆発技ダメージ+20%（最大3スタック）。	일반 스킬을 사용한 후, 특수 스킬 대미지가 20% 증가하며, 최대 3스택까지 중첩할 수 있다.	After using Standard Skill, increase Ultimate Skill DMG by 20%. Max 3 stacks.						0	
+seasonbossdes229	战斗过程中，噬体的高淬能质护盾和生命不会降低；我方队员每次造成技能伤害时，会使该目标受到的技能伤害提升10%，同时使该目标攻击力提升10%，持续10秒，该效果最多叠加3层。	戰鬥過程中，噬體的高淬能質護盾和生命不會降低；我方隊員每次造成技能傷害時，會使目標受到的技能傷害提升10%，同時使該目標攻擊力提升10%，持續10秒，此效果最多疊加3層。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。隊員がスキルダメージを与えるたび、10秒間その喰体が受けるスキルダメージ+10%、攻撃力+10%（最大3スタック）。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 아군 팀원이 스킬 대미지를 입힐 때마다 해당 타깃이 받는 스킬 대미지가 10% 증가하고, 동시에 해당 타깃의 공격력이 10% 증가한다. 지속 시간: 10초. 해당 효과는 최대 3스택까지 중첩할 수 있다.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. Each instance of Skill DMG increases the target's skill DMG taken by 10%, but also increases the target's ATK by 10% for 10 sec. Max 3 stacks.						0	
+seasonbossdes230	战斗过程中，噬体的高密通常护盾和生命不会降低；我方队员射击命中目标后，目标防御降低20%，同时我方队员受到的伤害提升20%，持续5秒。	戰鬥過程中，噬體的高密通常護盾與生命值不會降低；我方隊員射擊命中目標後，目標防禦力降低20%，同時我方隊員受到的傷害提升20%，持續5秒。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員の射撃が命中すると、5秒間その喰体の防御力-20%、同時に隊員の被ダメージ+20%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 아군 팀원의 사격이 타깃을 명중한 후 타깃의 방어력이 20% 감소하고, 동시에 팀원이 받는 대미지가 20% 증가한다. 지속 시간: 5초.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. Operatives whose shots hit a target decrease its DEF by 20% but increase those operatives' DMG taken by 20% for 5 sec.						0	
+seasonbossdes231	战斗过程中，噬体的高淬能质护盾和生命不会降低；我方队员使用常规技后，暴击伤害增幅降低50%，同时技能伤害提升40%，持续8秒。	戰鬥過程中，噬體的高淬能質護盾及生命不會降低。我方隊員使用常規技後，暴擊傷害增幅降低50%，同時技能傷害提升40%，持續8秒。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。通常技を発動後、8秒間会心ダメージ増幅-50%、スキルダメージ+40%。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 아군 팀원이 일반 스킬을 사용한 후, 크리티컬 강도가 50% 감소하며, 동시에 스킬 대미지가 40% 증가한다. 지속 시간: 8초.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. After using Standard Skill, increases operative's Skill DMG by 40% but decreases CRIT DMG Amplifier by 50% for 8 sec.						0	
+seasonbossdes232	战斗过程中，噬体的高淬能质护盾和生命不会降低；我方队员每次射击命中后，技能伤害提升4%，该效果最多叠加10层，同时我方队员的治疗加成下降30%，持续10秒。	戰鬥過程中，噬體的高淬能質護盾和生命不會降低；我方隊員每次射擊命中後，技能傷害提升4%，該效果最多疊加10層，同時我方隊員的治療加成下降30%，持續10秒。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。隊員の射撃が命中するたび、10秒間スキルダメージ+4%（最大10スタック）、同時に治療量ボーナス-30%。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 아군 팀원의 사격이 명중할 때마다 스킬 대미지가 4% 증가하며, 해당 효과는 최대 10스택까지 중첩할 수 있다. 동시에 아군 팀원의 치유 보너스가 30% 감소한다. 지속 시간: 10초.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. Full squad's Healing Bonus is reduced by 30%, but every shot hit on target increases Skill DMG by 4% for 10 sec. Max 10 stacks.						0	
+seasonbossdes233	噬体的动能/低温类型抗性降低30%，同时高热/特异类型抗性提升30%。	噬體的動能/低溫類型抗性降低30%，同時高熱/特異類型抗性提升30%。	喰体の動力＆低温耐性-30%、高熱＆特異耐性+30%。	보스의 KP/얼음 유형 내성이 30% 감소하고, 동시에 화염/혼돈 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Frost Resistance by 30%, but increase Thermal and Chaos Resistance by 30%.						0	
+seasonbossdes234	噬体的特异/低温类型抗性降低30%，同时高热/电击类型抗性提升30%。	噬體的特異/低溫類型抗性降低30%，同時高熱/電擊類型抗性提升30%。	喰体の特異＆低温耐性-30%、高熱＆電撃耐性+30%。	보스의 혼돈/얼음 유형 내성이 30% 감소하고, 동시에 화염/번개 유형 내성이 30% 증가한다.	Decrease boss' Chaos and Frost Resistance by 30%, but increase Thermal and Electrical Resistance by 30%.						0	
+seasonbossdes235	噬体的电击/动能类型抗性降低30%，同时高热/低温类型抗性提升30%。	噬體的電擊/動能類型抗性降低30%，同時高熱/低溫類型抗性提升30%。	喰体の電撃＆動力耐性-30%、高熱＆低温耐性+30%。	보스의 번개/KP 유형 내성이 30% 감소하고, 동시에 화염/얼음 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Kinetic Resistance by 30%, but increase Thermal and Frost Resistance by 30%.						0	
+seasonbossdes236	噬体的高热/特异类型抗性降低30%，同时电击/低温类型抗性提升30%。	噬體的高熱/特異類型抗性降低30%，同時電擊/低溫類型抗性提升30%。	喰体の高熱＆特異耐性-30%、電撃＆低温耐性+30%。	보스의 화염/혼돈 유형 내성이 30% 감소하고, 동시에 번개/얼음 유형 내성이 30% 증가한다.	Decrease boss' Thermal and Chaos Resistance by 30%, but increase Electrical and Frost Resistance by 30%.						0	
+seasonbossdes250	噬体的高热/电击类型抗性降低30%，同时特异/动能类型抗性提升30%。	噬體的高熱/電擊類型抗性降低30%，同時特異/動能類型抗性提升30%。	喰体の高熱＆電撃耐性-30%、特異＆動力耐性+30%。	보스의 화염/번개 유형 내성이 30% 감소하고, 동시에 혼돈/KP 유형 내성이 30% 증가한다.	Decrease boss' Thermal and Electrical Resistance by 30%, but increase Chaos and Kinetic Resistance by 30%.						0	
+seasonbossdes251	噬体的动能/低温类型抗性降低30%，同时高热/电击类型抗性提升30%。	噬體的動能/低溫類型抗性降低30%，同時高熱/電擊類型抗性提升30%。	喰体の動力＆低温耐性-30%、高熱＆電撃耐性+30%。	보스의 KP/얼음 유형 내성이 30% 감소하고, 동시에 화염/번개 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Frost Resistance by 30%, but increase Thermal and Electrical Resistance by 30%.						0	
+seasonbossdes252	噬体的动能/高热类型抗性降低30%，同时特异/电击类型抗性提升30%。	噬體的動能/高熱類型抗性降低30%，同時特異/電擊類型抗性提升30%。	喰体の動力＆高熱耐性-30%、特異＆電撃耐性+30%。	보스의 KP/화염 유형 내성이 30% 감소하고, 동시에 혼돈/번개 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Thermal Resistance by 30%, but increase Chaos and Electrical Resistance by 30%.						0	
+seasonbossdes253	噬体的电击/特异类型抗性降低30%，同时高热/低温类型抗性提升30%。	噬體的電擊/特異類型抗性降低30%，同時高熱/低溫類型抗性提升30%。	喰体の電撃＆特異耐性-30%、高熱＆低温耐性+30%。	보스의 번개/혼돈 유형 내성이 30% 감소하고, 동시에 화염/얼음 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Chaos Resistance by 30%, but increase Thermal and Frost Resistance by 30%.						0	
+seasonbossdes254	战斗过程中，噬体的高密通常护盾和生命不会降低；我方队员造成高热/低温伤害时会使目标受到的低温/高热伤害提升40%，持续2秒，同时队员受到的伤害提升20%。	戰鬥過程中，噬體的高密通常護盾和生命不會降低；我方隊員造成高熱/低溫傷害時會使目標受到的低溫/高熱傷害提升40%，持續2秒，同時隊員受到的傷害提升20%。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員が高熱・低温系ダメージを与えると、2秒間その喰体が受ける高熱・低温系ダメージ+40%、同時に隊員の被ダメージ+20%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 아군 팀원이 화염/얼음 유형 대미지를 입힐 때 타깃이 받는 얼음/화염 유형 대미지가 40% 증가하고 2초간 지속된다. 동시에 팀원이 받는 대미지가 20% 증가한다.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. When operatives deal Thermal or Frost DMG, increase Frost or Thermal DMG taken by the target by 40% for 2 sec, but operatives take 20% more DMG.						0	
+seasonbossdes255	战斗过程中，噬体的高淬能质护盾及生命不会降低；我方队员使用常规技后，技能伤害提升40%但射击伤害降低40%，持续10秒。	戰鬥過程中，噬體的高淬能質護盾及生命不會降低；我方隊員使用常規技後，技能傷害提升40%但射擊傷害降低40%，持續10秒。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。隊員が通常技を発動後、10秒間スキルダメージ+40%、射撃ダメージ-40%。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 아군 팀원이 일반 스킬을 사용한 후, 스킬 대미지가 40% 증가하지만 사격 대미지가 40% 감소한다. 지속 시간: 10초.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. After using Standard Skill, increase operative's Skill DMG by 40% but decrease Ballistic DMG by 40% for 10 sec.						0	
+seasonbossdes256	战斗过程中，噬体的高密通常护盾和生命不会降低；噬体攻击力提升25%，被射击命中后，防御力降低0.5%，该防御力降低效果至多叠加至50层。	戰鬥過程中，噬體的高密通常護盾及生命不會降低；噬體攻擊力提升25%，被射擊命中後，防禦力降低0.5%，該防禦力降低效果至多疊加至50層。	戦闘中、喰体の「高密度通常シールド」とHPは減少せず、攻撃力+25%。喰体が射撃を受けると防御力-0.5%（最大50スタック）。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 보스의 공격력이 25% 증가하고, 사격에 명중되면 보스의 방어력이 0.5% 감소하며, 해당 방어력 감소 효과는 최대 50스택까지 중첩할 수 있다.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease, and its ATK is increased by 25%. However, each shot hit reduces its DEF by 0.5%, up to 50 stacks.						0	
+seasonbossdes257	战斗过程中，噬体的高密通常护盾和生命不会降低，持有【特殊弹匣】时，射击伤害提升40%，未持有【特殊弹匣】时，攻击力降低40%。	戰鬥過程中，噬體的高密通常護盾及生命不會降低；持有【特殊彈匣】時，射擊傷害提升40%，未持有【特殊彈匣】時，攻擊力降低40%。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員が【特殊マガジン】を所持中、射撃ダメージ+40%。【特殊マガジン】を未所持の場合、攻撃力-40%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. [특수 탄창]을 보유할 때, 사격 대미지가 40% 증가한다. [특수 탄창]을 보유하지 않으면 공격력이 40% 감소한다.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. When an operative has a special clip, increase her Ballistic DMG by 40%; when she doesn't have a special clip, decrease her ATK by 40%.						0	
+seasonbossdes258	战斗过程中，我方队员的射击伤害将无视目标25%的防御力。	戰鬥過程中，我方隊員的射擊傷害將無視目標25%的防禦力。	戦闘中、隊員の射撃ダメージは敵の防御力を25%無視する。	전투 중에, 필드에 있는 팀원의 사격 대미지가 타깃의 방어력을 25% 무시한다.	During battle, operatives' Ballistic DMG ignores 25% of targets' DEF.						0	
+seasonbossdes259	队员爆发技伤害提升30%，使用爆发技时，立刻回复自身最大生命100%的生命。	隊員爆發技傷害提升30%，使用爆發技時，立刻回復自身最大生命100%的生命。	隊員の爆発技ダメージ+30%。爆発技使用時、最大HPの100%分を回復する。	팀원의 특수 스킬 대미지가 30% 증가하고, 특수 스킬 사용 시 자신 최대 HP의 100%를 즉시 회복한다.	Increase operative's Ultimate Skill DMG by 30%. Using Ultimate Skill instantly restores 100% of Max HP.						0	
+seasonbossdes260	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	每次射擊命中目標時，使目標受到的射擊傷害提升3%，持續1秒，該效果最多疊加至10層。	射撃が命中するたび、その敵が受ける射撃ダメージ+3%（1秒間持続し、最大10スタック）。	매번 사격이 타깃을 명중할 때마다 타깃이 받는 사격 대미지가 3% 증가하며, 최대 10스택까지 중첩한다. 지속 시간: 1초.	When a shot hits a target, increase the target's Ballistic DMG taken by 3% for 1 sec. Max 10 stacks.						0	
+seasonbossdes261	使用爆发技后，暴击伤害增幅提升45%，持续8秒。	使用爆發技後，暴擊傷害增幅提升45%，持續8秒。	爆発技使用後、8秒間会心ダメージ増幅+45%。	특수 스킬을 사용한 후 크리티컬 강도가 45% 증가한다. 지속 시간: 8초.	After using Ultimate Skill, increase CRIT DMG Amplifier by 45% for 8 sec.						0	
+seasonbossdes270	噬体的高热/电击类型抗性降低30%，同时特异/动能类型抗性提升30%。	噬體的高熱/電擊類型抗性降低30%，同時特異/動能類型抗性提升30%。	喰体の高熱＆電撃耐性-30%、特異＆動力耐性+30%。	보스의 화염/번개 유형 내성이 30% 감소하고, 동시에 혼돈/KP 유형 내성이 30% 증가한다.	Decrease boss' Thermal and Electrical Resistance by 30%, but increase Chaos and Kinetic Resistance by 30%.						0	
+seasonbossdes271	噬体的动能/低温类型抗性降低30%，同时高热/电击类型抗性提升30%。	噬體的動能/低溫類型抗性降低30%，同時高熱/電擊類型抗性提升30%。	喰体の動力＆低温耐性-30%、高熱＆電撃耐性+30%。	보스의 KP/얼음 유형 내성이 30% 감소하고, 동시에 화염/번개 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Frost Resistance by 30%, but increase Thermal and Electrical Resistance by 30%.						1	
+seasonbossdes272	噬体的动能/高热类型抗性降低30%，同时特异/电击类型抗性提升30%。	噬體的動能/高熱類型抗性降低30%，同時特異/電擊類型抗性提升30%。	喰体の動力＆高熱耐性-30%、特異＆電撃耐性+30%。	보스의 KP/화염 유형 내성이 30% 감소하고, 동시에 혼돈/번개 유형 내성이 30% 증가한다.	Decrease boss' Kinetic and Thermal Resistance by 30%, but increase Chaos and Electrical Resistance by 30%.						1	
+seasonbossdes273	噬体的电击/特异类型抗性降低30%，同时高热/低温类型抗性提升30%。	噬體的電擊/特異類型抗性降低30%，同時高熱/低溫類型抗性提升30%。	喰体の電撃＆特異耐性-30%、高熱＆低温耐性+30%。	보스의 번개/혼돈 유형 내성이 30% 감소하고, 동시에 화염/얼음 유형 내성이 30% 증가한다.	Decrease boss' Electrical and Chaos Resistance by 30%, but increase Thermal and Frost Resistance by 30%.						1	
+seasonbossdes274	战斗过程中，我方队员的射击伤害将无视目标25%的防御力。	戰鬥過程中，我方隊員的射擊傷害將無視目標25%的防禦力。	戦闘中、隊員の射撃ダメージは敵の防御力を25%無視する。	전투 중에, 필드에 있는 팀원의 사격 대미지가 타깃의 방어력을 25% 무시한다.	During battle, operatives' Ballistic DMG ignores 25% of targets' DEF.						1	
+seasonbossdes275	队员爆发技伤害提升30%，使用爆发技时，立刻回复自身最大生命100%的生命。	隊員爆發技傷害提升30%，使用爆發技時，立刻回復自身最大生命100%的生命。	隊員の爆発技ダメージ+30%。爆発技使用時、最大HPの100%分を回復する。	팀원의 특수 스킬 대미지가 30% 증가하고, 특수 스킬 사용 시 자신 최대 HP의 100%를 즉시 회복한다.	Increase operative's Ultimate Skill DMG by 30%. Using Ultimate Skill instantly restores 100% of Max HP.						1	
+seasonbossdes276	每次射击命中目标时，使目标受到的射击伤害提升3%，持续1秒，该效果最多叠加至10层。	每次射擊命中目標時，使目標受到的射擊傷害提升3%，持續1秒，該效果最多疊加至10層。	射撃が命中するたび、その敵が受ける射撃ダメージ+3%（1秒間持続し、最大10スタック）。	매번 사격이 타깃을 명중할 때마다 타깃이 받는 사격 대미지가 3% 증가하며, 최대 10스택까지 중첩한다. 지속 시간: 1초.	When a shot hits a target, increase the target's Ballistic DMG taken by 3% for 1 sec. Max 10 stacks.						1	
+seasonbossdes277	使用爆发技后，暴击伤害增幅提升45%，持续8秒。	使用爆發技後，暴擊傷害增幅提升45%，持續8秒。	爆発技使用後、8秒間会心ダメージ増幅+45%。	특수 스킬을 사용한 후 크리티컬 강도가 45% 증가한다. 지속 시간: 8초.	After using Ultimate Skill, increase CRIT DMG Amplifier by 45% for 8 sec.						1	
+seasonbossdes278	战斗过程中，噬体的高密通常护盾和生命不会降低；我方队员造成高热/低温伤害时会使目标受到的低温/高热伤害提升40%，持续2秒，同时队员受到的伤害提升20%。	戰鬥過程中，噬體的高密通常護盾和生命不會降低；我方隊員造成高熱/低溫傷害時會使目標受到的低溫/高熱傷害提升40%，持續2秒，同時隊員受到的傷害提升20%。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員が高熱・低温系ダメージを与えると、2秒間その喰体が受ける高熱・低温系ダメージ+40%、同時に隊員の被ダメージ+20%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 아군 팀원이 화염/얼음 유형 대미지를 입힐 때 타깃이 받는 얼음/화염 대미지가 40% 증가하고 2초간 지속된다. 동시에 팀원이 받는 대미지가 20% 증가한다.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. When operatives deal Thermal or Frost DMG, increase Frost or Thermal DMG taken by the target by 40% for 2 sec, but operatives take 20% more DMG.						1	
+seasonbossdes279	战斗过程中，噬体的高淬能质护盾及生命不会降低；我方队员使用常规技后，技能伤害提升40%但射击伤害降低40%，持续10秒。	戰鬥過程中，噬體的高淬能質護盾及生命不會降低；我方隊員使用常規技後，技能傷害提升40%但射擊傷害降低40%，持續10秒。	戦闘中、喰体の「ハイエネルギーシールド」とHPは減少しない。隊員が通常技を発動後、10秒間スキルダメージ+40%、射撃ダメージ-40%。	전투 중에, 보스의 고강도 에너지 실드와 HP가 감소하지 않는다. 아군 팀원이 일반 스킬을 사용한 후, 스킬 대미지가 40% 증가하지만 사격 대미지가 40% 감소한다. 지속 시간: 10초.	During battle, the boss' Enhanced Energy Shield and HP will not decrease. After using Standard Skill, increase operative's Skill DMG by 40% but decrease Ballistic DMG by 40% for 10 sec.						1	
+seasonbossdes280	战斗过程中，噬体的高密通常护盾和生命不会降低；噬体攻击力提升25%，被射击命中后，防御力降低0.5%，该防御力降低效果至多叠加至50层。	戰鬥過程中，噬體的高密通常護盾及生命不會降低；噬體攻擊力提升25%，被射擊命中後，防禦力降低0.5%，該防禦力降低效果至多疊加至50層。	戦闘中、喰体の「高密度通常シールド」とHPは減少せず、攻撃力+25%。喰体が射撃を受けると防御力-0.5%（最大50スタック）。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. 보스의 공격력이 25% 증가하고, 사격에 명중되면 보스의 방어력이 0.5% 감소하며, 해당 방어력 감소 효과는 최대 50스택까지 중첩할 수 있다.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease, and its ATK is increased by 25%. However, each shot hit reduces its DEF by 0.5%, up to 50 stacks.						1	
+seasonbossdes281	战斗过程中，噬体的高密通常护盾和生命不会降低，持有【特殊弹匣】时，射击伤害提升40%，未持有【特殊弹匣】时，攻击力降低40%。	戰鬥過程中，噬體的高密通常護盾及生命不會降低；持有【特殊彈匣】時，射擊傷害提升40%，未持有【特殊彈匣】時，攻擊力降低40%。	戦闘中、喰体の「高密度通常シールド」とHPは減少しない。隊員が【特殊マガジン】を所持中、射撃ダメージ+40%。【特殊マガジン】を未所持の場合、攻撃力-40%。	전투 중에, 보스의 고밀도 일반 실드와 HP가 감소하지 않는다. [특수 탄창]을 보유할 때, 사격 대미지가 40% 증가한다. [특수 탄창]을 보유하지 않으면 공격력이 40% 감소한다.	During battle, the boss' Enhanced Ordinary Shield and HP will not decrease. When an operative has a special clip, increase her Ballistic DMG by 40%; when she doesn't have a special clip, decrease her ATK by 40%.						1	
+seasonboss_quicktips1	通关难度4即视作通关同塑界中的所有前置难度关卡，是否继续当前挑战？	通關難度4即視作通關同塑界中的所有前置難度關卡，是否繼續當前挑戰？	難易度Ⅳをクリアすると、同創界の難易度Ⅰ～Ⅲもクリア済みとして扱われます。このステージで進めますか？	난이도 4에 도전하면 이전 스테이지를 모두 즉시 클리어할 수 있습니다. 현재 도전을 계속하시겠습니까?	Clearing Difficulty 4 will count as clearing all lower difficulties in this domain. Continue with the current challenge?						0	

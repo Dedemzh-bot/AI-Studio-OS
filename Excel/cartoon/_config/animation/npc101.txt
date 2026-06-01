@@ -1,0 +1,5 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	宿舍站	sequence	npc403_house_stand01	AnimSequence'/Game/Characters/Npc/npc403/Anim/npc403_house_stand01.npc403_house_stand01'	
+2	讲述	sequence	npc403_house_speak01	AnimSequence'/Game/Characters/Npc/npc403/Anim/npc403_house_speak01.npc403_house_speak01'	
+3	伸懒腰	sequence	npc403_house_idle01	AnimSequence'/Game/Characters/Npc/npc403/Anim/npc403_house_idle01.npc403_house_idle01'	

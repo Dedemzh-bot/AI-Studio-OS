@@ -1,0 +1,25 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	辰星，原来你在这里啊	辰星，原來你在這裡啊	ここにいたのか、辰星。	수성, 여기에 있었군요.	Oh, Chenxing. There you are.						0	思考动作，在3楼抓娃娃机前
+page0.2	我听说这台抓娃娃机在安卡希雅的强烈建议下前两天刚完成了改造，现在已经具备实际功能，所以想过来看看。	我聽說這台夾娃娃機在安卡希雅的強烈要求下剛完成改造，現在已經可以使用了，所以想過來看看。	このクレーンゲーム機はアカシアの強い要望で2日前に改造を済ませたばかりですが、もう機能は使えるらしいので、見に来ました。	이 인형 뽑기 기계 말인데요, 아카시아가 강력하게 건의해서 이틀 전에 개조 작업이 끝났다고 해요. 이제 잘 작동한다는 소식을 듣고 한 번 와봤어요.	I heard that Acacia convinced maintenance to fix up this claw machine a few days ago. It actually works now, so I came to check it out.						0	
+page0.3	只看看么，不打算亲自试一试？	只用看的嗎，不打算實際操作試試？	見てるだけで、試さないのか？	그냥 보기만 하고, 해보진 않을 건가요?	You're just taking a look? You don't want to try it out for yourself?						0	
+page0.4	我已经站在这观察了一个下午，一共有十二个人来尝试。	我已經站在這裡觀察了一個下午，總共有十二個人來嘗試。	午後からずっとここで観察しています。試す人は12人いました。	제가 반나절 동안 여기에서 관찰해 봤는데, 총 12명이 와서 게임을 했어요.	I've been standing here all afternoon. I watched 12 people try it already.						0	
+page0.5	其中有两个人成功抓到了娃娃，还有一人一次抓起来两个娃娃。	其中有二人成功夾到了娃娃，還有一個人一次夾到了兩個娃娃。	ぬいぐるみを手に入れた人は2人。そのうち1人は、1度に2つ取っていました。	그중 두 명은 인형 뽑기에 성공했고, 한 명은 한 번에 인형 2개를 뽑았어요.	Two of them successfully won a plushy, and one even got two at once.						0	
+page0.6	虽然我可以凭借记忆完全复制成功者的操作，不过仍有一定概率会失败。	雖然我可以憑藉記憶完全複製成功者的操作，但還是有一定的失敗機率。	記憶を辿れば成功者の操作を完全に真似ることも可能ですが、失敗する可能性もあります。	제가 머릿속으로 그들의 동작을 완전히 복사하긴 했지만, 여전히 실패할 확률은 있어요.	Even though I can copy what the winning players did exactly, there's always a chance I might fail.						0	
+page0.7	分析员……	分析員……	分析員……	분석가님…	Adjutant...						0	
+page0.8	放轻松。如果你觉得我在旁边有压力的话， 那我也可以回避。	放輕鬆。如果你覺得我在旁邊會有壓力的話，那我也可以回避。	リラックスするんだ。私がいることがプレッシャーになるなら、どこかに行くよ。	마음 편히 가져요. 제가 옆에 있는 게 부담스러우면 자리를 피해 줄게요.	Don't worry too much. If you feel like there's too much pressure with me here, I can leave.						0	
+page0.9	不，我需要分析员的指导和建议。	不，我需要分析員的指導和建議。	いえ……分析員の指導とアドバイスが必要です。	아니요. 저는 분석가님의 지도와 조언이 필요해요.	No, I need your guidance and suggestions, Adjutant.						0	
+page0.10	我该抓哪一个娃娃？	我該夾哪一個娃娃？	どのぬいぐるみを狙えばいいですか？	어떤 인형을 뽑을까요?	Which stuffed animal should I go for?						0	
+choice1	白色兔子	白色兔子	白いウサギ	흰색 토끼	White rabbit						0	
+page1.1	白色兔子吧。	白色兔子吧。	白いウサギにしようか。	흰색 토끼요.	Go for the white rabbit.						0	
+page1.2	好，我试试。	好，我試試。	分かりました、やってみます。	좋아요, 해볼게요.	Okay, I'll give it a shot.						0	
+choice2	黄色鸭子	黃色鴨子	黄色いカモ	노란색 오리	Yellow duck						0	
+page2.1	黄色鸭子吧。	黃色鴨子吧。	黄色いカモにしようか。	노란색 오리요.	Go for the yellow duck.						0	
+page2.2	好，我试试。	好，我試試。	分かりました、やってみます。	좋아요, 해볼게요.	Okay, I'll give it a shot.						0	
+choice3	橘色萝卜	橘色蘿蔔	オレンジ色の人参	주황색 당근	Carrot						0	
+page3.1	橘色萝卜吧。	橘色蘿蔔吧。	オレンジ色の人参にしようか。	주황색 당근이요.	Go for the carrot.						0	
+page3.2	好，我试试。	好，我試試。	分かりました、やってみます。	좋아요, 해볼게요.	Okay, I'll give it a shot.						0	
+page4.1	看样子，还是失败了。	看來還是失敗了。	あっ……失敗してしまいましたね。	역시나, 실패했군요.	Well, looks like I failed.						0	
+page4.2	我果然不适合这类的游戏。	我果然不適合這類的遊戲。	やはり私は、こういうゲームには向いていないかもしれません。	저는 역시 이런 종류의 게임에는 소질이 없나 봐요.	I guess I'm not cut out for games like this.						0	
+page4.3	可你的表情看起来很开心。	但你的表情看起來很開心。	でも楽しそうに見えるよ。	하지만 수성의 표정은 즐거워 보이는데요?	But you look happy.						0	
+page4.4	嗯，因为和分析员有关的回忆又多了一份。	嗯，因為跟分析員有關的回憶又增加了一個。	そう……ですか？フッ、きっと分析員との思い出がまた増えましたからです。	네. 분석가님과 함께한 추억이 하나 더 늘었으니까요.	Yeah, because I have another new memory with you, Adjutant.						0	微笑

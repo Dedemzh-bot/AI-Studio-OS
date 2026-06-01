@@ -1,0 +1,548 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+skin01101	安卡希雅	安卡希雅	アカシア	아카시아	Acacia						0	
+skin01101_des	来历不明的冬眠苏醒者，除了冬眠了30年以外，一切资料信息均未得到本人承认。\n从极强的单兵战斗力和一些行为习惯看，前特种兵身份应该也是真的。\n曾经的她留恋着“旧时代”，如今分析员的爱意引领她走出往昔，携手迈向属于两人的未来。	來歷不明的冬眠甦醒者，除了冬眠了30年以外，一切關於她的資料均未得到本人承認。\n從極強的單兵戰鬥力和一些行為模式來看，前特種兵身分應該也是真的。\n曾經的她留戀著“舊時代”，如今分析員的愛意引領她走出往昔，攜手邁向屬於兩人的未來。	30年間の冬眠から目覚めた神秘的な人物。冬眠期間以外、すべての個人情報は本人が認めていない。\n極めて高い作戦遂行能力と独特の習慣から、元特殊部隊員であることはほぼ確実視されている。\nかつては「旧時代」への未練を強く抱いていたが、今は分析員の想いに導かれ、二人の未来へと歩み始めている。	정체불명의 동면 소생자로 30년간 동면한 것을 제외하고는 그녀에 대한 어떠한 정보도 알 수 없다.\n막강한 전력과 일부 행동 습관으로 미루어 보면 이전 특전사 신분은 확실한 듯하다.\n한때 그녀는 '구시대'에 미련이 있었지만, 이제 분석가의 사랑이 그녀를 과거에서 끌어내 둘만의 미래로 나아가게 된다.	Awakened after a 30-year-long cryosleep, she has an unknown past. Aside from the cryosleep itself, the individual has not validated any other information.\nJudging by her exceptional individual combat capabilities and behavioral patterns, it is probable that she is ex-special forces.\nOnce, she clung to the old era. Now, the Adjutant's love guides her out of the past and, toward a future that belongs to them only, hand in hand.						0	
+skin01101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin01102	不灭榜首	不滅榜首	不滅のエース	불멸의 순위	Unbeatable Rank						0	
+skin01102_des	困境带来的挑战更有乐趣，在这点上，战斗与游戏一致。	困境帶來的挑戰更有樂趣，在這一點上，戰鬥與遊戲一致。	戦いとゲームは、苦境がもたらす挑戦の方がずっと楽しいという点では一緒だ。	딜레마가 주는 도전이 더 재미있다는 점에서 전투는 게임과 일관성이 있어.	The tougher the challenge, the more fun it adds — just like in-game combat.						0	
+skin01102_use	通过甄选好物商店购买获得	透過甄選好物商店購買獲得	特選逸品ショップで購入して獲得	[페이버릿 픽] 상점 구매로 획득	Obtained through purchase in Choice Products.						0	
+skin01103	叶荫闲趣	葉蔭閒趣	日陰の喜び	휴일의 속삭임	Idle Cooldown						0	3.2新皮肤
+skin01103_des	西瓜、阳伞、满电的游戏机……分析员，距离一个完美假日，只差你了。	西瓜、陽傘、滿電的遊戲主機……分析員，距離一個完美假日，只差你了。	スイカに日傘、ゲーム機もフルチャージ……あとは分析員が来てくれたら、休日は完璧だね。	수박, 파라솔, 완전히 충전된 게임 콘솔… 분석가, 너만 오면 완벽한 휴일을 이룰 수 있어.	Clear conditions for the "Perfect Holiday" stage: watermelon, umbrella, a fully charged console... and you, Adjutant!						0	3.2新皮肤
+skin01103_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	3.2新皮肤
+skin01201	安卡希雅-辉夜	安卡希雅-輝夜	アカシア-輝夜	아카시아-카구야	Acacia - Kaguya						0	
+skin01201_des	来自沉睡之前世界的数据，勾起不属于这个世界的记忆，拒绝或许是不错的选择。	來自沉睡之前的世界的數據，勾起不屬於這個世界的記憶，拒絕或許是不錯的選擇。	「眠る前の世界のデータは、この世界に属さない記憶を呼び起こしてしまう。断ち切ってしまう方がいいだろう。」	잠들기 전의 데이터를 끌어와 현재 세계하고 동떨어진 기억을 상기시킨다. 착용하지 않는 게 더 나은 선택일 수도 있다.	Data from the world before I went to sleep. It will only evoke memories that don't belong to this world. I might as well just refuse it.						0	
+skin01201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin01202	次元追忆	次元追憶	次元の思い出	디멘셔널 메모리	Dimensional Memory						0	
+skin01202_des	这是我印象里的那个年代，更加久远之前的流行文化。不，不是我特别喜欢的类型。	這是我印象裡的那個年代，更加久遠之前的流行文化。不，不是我特別喜歡的類型。	これは私の思い出に残る時代より、もっと前に流行っていた文化だ。いや、私の趣味ではなかったが。	이건 내가 기억하고 있던 세대보다 훨씬 오래전에 유행했던 패션이야. 그다지 선호하는 스타일은 아니야.	Popular culture from the distant era in my memories. I—I never particularly liked it.						0	
+skin01202_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin01203	东流映荷	東流映荷	魔法少女レンゲちゃん	연꽃의 매혹	Allure of Lotus						0	
+skin01203_des	为实现汝之愿望，吾乘东流而来，年轻人啊，与吾签订契约吧。	為了實現汝之願望，吾乘東流而來，年輕人啊，與吾簽訂契約吧。	汝の願いを叶えるため、蓮華を辿ってやってきた。若者よ、吾と契約を結びなさい。	네 소원을 이루기 위해 동쪽에서 흐르는 물살을 타고 왔는데, 나랑 손잡지 않을래?	Riding the eastern tide I come before thee. Sign thy pact, young hero, and together in battle we shall be~						0	
+skin01203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin01301	安卡希雅-时之重奏	安卡希雅-時之重奏	アカシア-時のアンサンブル	아카시아-크로노 에코	Acacia - Chrono Echo						0	3.5安卡新换装
+skin01301_des	该战术套装调取了安卡希雅储存于休眠仓中的身体数据，并以此构建出生理蓝图。背部搭载的“相变核心”可在平时积蓄力量，于关键时刻依据生理蓝图调配体内激素，促使骨骼与肌肉短时间内再度发育，从而爆发出惊人的战斗力。	該戰術套裝調取了安卡希雅儲存於休眠倉中的身體資料，並以此構建出生理藍圖。背部搭載的「相變核心」可在平時積蓄力量，於關鍵時刻依據生理藍圖調配體內激素，促使骨骼與肌肉短時間內再度發育，從而爆發出驚人的戰鬥力。	アカシアが休眠カプセルに保管していた身体データを基に設計された装備。背部に搭載された「フェーズコア」が普段は力を蓄積し、必要な局面ではデータに基づいて体内ホルモンを調整。骨格と筋肉を一時的に強化することで、驚異的な戦闘能力を発揮する。	이 전술 슈트는 수면 캡슐에 저장된 아카시아의 신체 데이터를 추출하여 이를 기반으로 생리학적 설계도를 구축하였다. 등에 장착된 '페이즈 코어'는 평상시에는 힘을 축적하고, 결정적인 순간에 생리학적 설계도에 따라 신체 호르몬을 조절해 골격과 근육이 단시간 내에 재발육하도록 촉진하여 놀라운 전투력을 끌어낸다.	This exosuit draws on Acacia's biometric data stored in her hibernation pod to construct a bio blueprint. The "Transphase Core" mounted on her back stores energy under normal conditions and, at critical moments, uses the blueprint to regulate internal hormones, rapidly stimulating skeletal and muscular growth to unleash extraordinary combat power.						0	3.5安卡新换装
+skin01301_use	默认	預設	デフォルト	기본 스킨	Default						0	3.5安卡新换装
+skin01302	缘音回响	緣音迴響	縁結びの旋律	인연의 메아리	Echo of Destiny						0	3.5新皮肤
+skin01302_des	亲爱的 ，我们的相遇是时间的奇迹，是爱的魔法。我想与你一起走下去，让你拥有全部的我，直到时间的尽头。	親愛的，我們的相遇是時間的奇蹟，是愛的魔法。我想與你一起走下去，讓你擁有全部的我，直到時間的盡頭。	私たちの出会いは時の奇跡であり、愛の魔法でもある。あなたと共に歩み、すべてを捧げて、時の果てまで寄り添いたい。	자기야, 우리의 만남은 시간의 기적이자 사랑의 마법이야. 난 너랑 함께 나아가고 싶어. 네가 나의 모든 것을 가지고, 시간의 끝에 도착할 때까지 말이야.	Darling, our encounter was a miracle of time, love's very own magic. I want to walk this path with you, to give you all of me, and head towards our promised future, until the end of time.						0	3.5新皮肤
+skin01302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5新皮肤
+skin02101	里芙	里芙	リフ	리브	Lyfe						0	
+skin02101_des	人们通常称呼她为“星期三”，海姆达尔部队士兵，前瓦尔基里游戏明星选手。向泰坦挑战是她剩余人生的全部目的。	人們通常稱呼她為“星期三”，海姆達爾部隊士兵，前瓦爾基里遊戲的明星選手。向泰坦挑戰是她餘生的唯一目標。	ヘイムダル部隊の兵士で、元ヴァルキリーゲームの注目選手。人々からは「ウェンズデー」と呼ばれることが多い。タイタンに挑むことは、彼女にとって残りの人生のすべてだそうだ。	사람들은 그녀를 '웬스데이'라고 부른다. 헤임달 부대 대원으로, 전 발키리 게임의 우승자며 타이탄에게 도전하는 게 여생의 유일한 목표다.	Often referred to as "Wednesday." Frontline Heimdall Force Operative, former Valkyrie Games star. Revenge against the Titans is her one and only goal.						0	
+skin02101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin02102	星宇巡游	星宇巡遊	星を巡る旅	스페이스 투어	Interstellar Voyager						0	
+skin02102_des	我听见了。那颗蔚蓝璀璨的星球上，有很多很多的声音呼唤着我。	我聽見了。在那顆蔚藍璀璨的星球上有眾多聲音正呼喚著我。	聞こえた。あのきらめく青い星で、たくさんの声が私を呼んでいる。	난 들었어. 찬란하고 푸른 별에서, 수많은 목소리들이 날 부르고 있는걸.	I heard several voices calling me from that brilliant, blue planet.						0	
+skin02102_use	通过预约奖励获得	透過預約獎勵獲得	事前登録して獲得	사전 예약 보상 스킨	Obtained as pre-order reward.						0	
+skin02103	归航一心	歸航一心	星旅の帰途	커밍백	Devoted Voyager						0	
+skin02103_des	我没事的，分析员，回到你身边比什么都重要。	我沒事的，分析員，回到你身邊比什麼都重要。	心配ない。お前のそばに戻ることがなによりも大事だから。	난 괜찮아, 분석가. 네 곁에 있는 게 나한테는 그 무엇보다 소중하니까.	I'm okay, Adjutant. Nothing is more important than getting back to you.						0	
+skin02103_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin02104	不灭银星	不滅銀星	不滅の銀星	불멸의 은성	Unbreakable Silver						0	2.6新皮肤
+skin02104_des	一时的失利无法打倒我们。分析员，请下命令，直到我们携手凯旋。	一時的失利無法打倒我們。分析員，請下命令，直到我們攜手凱旋。	一時の失敗で私たちは倒れない。分析員、一緒に凱旋するよう、命令してくれ。	우리는 한 번의 패배로 쓰러지지 않아. 승리할 때까지 늘 함께 해줘, 분석가.	A momentary defeat can't knock us down for long. Keep commanding me, Adjutant, until we achieve victory together.						0	2.6新皮肤
+skin02104_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	2.6新皮肤
+skin02201	里芙-狂猎	里芙-狂獵	リフ-ワイルドハント	리브-와일드 헌터	Lyfe - Wild Hunt						0	
+skin02201_des	特殊低温外骨骼“狂猎”，2058年3月根据里芙天启状况紧急开发的专用装备，能始终保持体表低温，缓解神格神经生长带来的痛苦。	特殊低溫外骨骼“狂獵”，2058年3月根據里芙天啟狀況緊急開發的專用裝備，能始終保持體表低溫，緩解神格神經生長帶來的痛苦。	特殊な低温型戦術装備「ワイルドハント」は、リフのアポカリプス状態に対応するため、2058年3月に緊急開発された専用装備である。\n装着することで体表を低温に保ち、神格神経の成長に伴う痛みを軽減する効果を持つ。	특수 얼음 전술 슈트 '와일드 헌터'. 2058년 3월, 리브의 계시 상황에 따라 긴급 개발됐었던 전용 전술 슈트. 신체의 온도를 저온으로 유지시켜, 만트라 신경 성장으로 인한 고통을 완화시킬 수 있다.	Wild Hunt is a special, low-temp exosuit, developed exclusively for Lyfe as an emergency response to her Manifestation in March 2058. It maintains her body temperature and dulls the pain from the Theotropic Nerves as they grow.						0	
+skin02201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin02202	宵宴绯盏	宵宴緋盞	宵闇の宴	나이트 컨벤션	Nightfall Scarlet						0	
+skin02202_des	为了这次的战斗，我特地向芬妮学了一些在明灯节该说的台词……适当放松，什么意思？	為了這次的戰鬥，我特地向芬妮學了一些在明燈節該說的台詞……適當放鬆，什麼意思？	今回の戦いのために、明灯祭で言うべきセリフをわざわざファニーに教えてもらった……リラックスも大事？どういう意味？	이번 전투 때문에 페니한테 등명제 때 무슨 말을 해야 할지 물어봤거든… 그래서 말인데, 쉬엄쉬엄 하라는 말을 도대체 어떻게 해석해야 하지?	For this battle, I learned some of Fenny's lines for Mingdeng Jie... Relax a bit — what does that mean?						0	
+skin02202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin02203	霜舞盛典	霜雪盛會	フローズンフローラ	서릿빛 축제	Ice Dancer						0	
+skin02203_des	在温和的风中，雪花从来都是愿意起舞的……嗯？不，我没说什么。	在清冽的朔風中，雪花是最好的舞伴……嗯？不，我什麼都沒說。	穏やかな風の中で、雪の結晶は舞い踊る……いや、何でもない。	부드러운 바람 속에서 눈송이는 언제나 춤추고 싶어 하지... 응? 아니… 아무 말도 안 했어.	If caressed by a gentle wind, even the coldest of snowflakes are willing to dance... Hm? Oh, nothing...						0	
+skin02203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin02204	街头规则	街頭規則	ストリートコード	스트릿 코드	Street Code						0	
+skin02204_des	刚刚那群人说，从今天起我就是这一带的老大了，这是什么意思？	剛剛那群人說，從今天起我就是這一帶的老大了，這是什麼意思？	さっきの人たちが、今日からここの親分は私だと言っていた。あれはどういう意味だ？	방금 저 사람들이 오늘부터 내가 이 지역의 보스라고 하던데, 이게 무슨 뜻이지 알아?	Those people back there said that I "run the block now"... What does that mean? I wasn't running.						0	
+skin02204_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin02301	里芙-无限之视	里芙-無限之視	リフ-ムゲン知眼	리브-인피니트 비전	Lyfe - Infinite Sight						0	
+skin02301_des	为了治疗里芙，新恒提罗的超算恒沙根据世界树公司提供的图纸，协助开发了特殊外骨骼“无限之视”，可以帮里芙处理体内的泰坦物质。	為了治療里芙，新恆提羅的超級電腦恆沙根據世界樹公司提供的設計圖，協助開發了特殊外骨骼無限之視，可以幫助里芙處理體內的泰坦物質。	リフを治療するため、ニューガントラのスーパーコンピュータ・ゴウシャは、ユグドラシル社が提供した設計図をもとに特別な戦術装備──「ムゲン知眼」を共同開発した。この戦術装備は、リフの体内にあるタイタン物質を処理できるという。	리브를 치료하기 위해 뉴헨틸로의 슈퍼컴퓨터 항사는 위그드라실이 제공한 도면을 기반으로 리브가 체내에 있는 타이탄 물질을 처리할 수 있도록 전술 슈트 '인피니트 비전'의 개발을 돕는다.	The special exosuit "Infinite Sight" was developed with the help of GANGES, the supercomputer of New Hentiro, according to Yggdrasil's design. It is able to stabilize the Titagen in her body.						0	
+skin02301_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin02302	爱意凝晶	愛意凝晶	愛おしい氷晶	사랑의 결정	Frozen in Love						0	
+skin02302_des	是你教会了我仇恨不是人生的全部，也让我重新学会……表达爱的方式。	是你教會了我仇恨不是人生的全部，也讓我重新學會……表達愛的方式。	憎しみがすべてではない……これは分析員が教えてくれたことだ。愛の伝え方も、分かってきたような気がする。	넌 내게 원한이 삶의 전부가 아니라는 것을 가르쳐 주었고, 다시… 사랑을 표현할 수 있는 방법을 깨닫게 해줬어.	You are the one who taught me hate is not everything in life. And you taught me... how to love.						0	
+skin02302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin02303	引风飒意	引風颯意	銀に靡く風	바람의 노래	Ride the Breeze						0	2.8新皮肤
+skin02303_des	亲爱的，风告诉我，今天的阳光与草场都很适合骑马漫步。这个美好的午后，只等你的加入。	親愛的，風告訴我，今天的陽光與草場都很適合騎馬漫步。這個美好的午後，只等你的加入。	風からこう感じた、「今日の日差しは、馬に乗って草原を散歩するのに最適だ」と。あなた、わたしと一緒に、この素敵な午後を過ごそう。	자기야, 바람이 나한테 말했어. 오늘의 햇볕과 초원이 승마 산책에 매우 적합하다고 말이야. 너만 와주면 이 아름다운 오후는 가장 완벽한 시간이 될 거야.	Darling, can you feel it? The breeze, the sunshine, the meadow rustling with delight. Come ride with me — this lovely afternoon is calling us.						0	2.8新皮肤
+skin02303_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	2.8新皮肤
+skin02401	里芙-永恒										0	3.7新皮肤
+skin02401_des	恒沙、优格、萨菲尔联手研发的特战型战术套装，威力空前，但对使用者要求极高。即便已完全掌控神格神经的里芙也仍需时间与契机适应。套装配备的长枪采用精密配比合金打造，内置计算单元可随心操控，如神话中的圣枪般精准贯穿每一个敌人。										0	3.7新皮肤
+skin02401_use	默认	預設	デフォルト	기본 스킨	Default						0	3.7新皮肤
+skin02402	醉吻薰风										0	3.7新皮肤
+skin02402_des	这种轻飘飘的，满足、温暖又轻松的心情，亲爱的，我想更多、更真切地传达给你。										0	3.7新皮肤
+skin02402_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.7新皮肤
+skin03101	妮塔	妮塔	ニタ	니타	Nita						0	
+skin03101_des	出身拾荒群体，凭借自己的能力离开了那块贫瘠之地。\n比任何人都了解零区里面的生活，也比任何人都不愿回去。	出身拾荒群體，憑藉自己的能力離開了那塊貧瘠之地。\n比任何人都瞭解零區裡面的生活，也比任何人都不願回去。	スカベンジャー出身で、自力であの不毛の地から出た。\n誰よりもエリアゼロでの生活を知っているが故に、誰よりもあそこに戻りたくない。	피난민 출신으로, 스스로의 힘으로 열악한 환경을 벗어났다.\n제로 구역 삶에 대해 누구보다 잘 알고 있으며, 돌아가는 걸 별로 원치 않아 한다.	Born into a scavenger gang, she escaped the arid wastelands solely through her own might.\nUnderstands life in Containment Zone Aleph better than anyone else, and hates going back just as much.						0	
+skin03101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin03201	妮塔-悸响	妮塔-悸響	ニタ-ドゥンドゥビ	니타-펄스	Nita - Pulse						0	2.7新角色
+skin03201_des	由芙提雅联合研发部开发的战术套装，搭载了特殊的感知共振模组。此模组能够根据妮塔的情绪波动自动调节装甲的输出功率，从而激发她的潜能。经过分析员和妮塔的一系列适应性测试，妮塔终于成功穿上该装甲，让这颗为分析员跃动的心，与“悸响”融为一体。	由芙提雅聯合研發部開發的戰術套裝，搭載了特殊的感知共振模組。此模組能夠根據妮塔的情緒波動自動調節裝甲的輸出功率，從而激發她的潛能。經過分析員和妮塔的一系列適應性測試，妮塔​​終於成功穿上該裝甲，讓這顆為分析員躍動的心，與「悸響」融為一體。	フリティア共同開発部が開発した戦術装備で、特殊な「センシング・モジュール」が搭載されている。\nこのモジュールはニタの感情の変動に応じて戦術装備の出力を自動調整し、彼女の潜在能力を引き出すことができる。分析員とニタによる一連の適合テストを経て、ついにニタはこの戦術装備を身に着けることができた。胸に秘めた分析員への想いは、「ドゥンドゥビ」と一体化し、ニタの力をさらに引き出す。	프티야 공동 개발부에서 개발한 전술 슈트로, 특수한 공명 감지 모듈이 탑재되어 있다. 이 모듈은 니타의 기분 변화에 따라 갑옷의 출력 파워를 자동으로 조절해 그녀의 잠재력을 최대한 발휘하도록 도울 수 있다. 분석가와 니타의 일련의 적응력 테스트 끝에 니타는 마침내 성공적으로 이 전술 슈트를 착용했고, 분석가를 위해 뛰는 그녀의 심장은 '펄스'와 한 몸이 되었다.	An exosuit co-developed by Fritia and the R&D Department. It integrates specialized pulse sensor modules that dynamically adjust its output based on Nita's emotional fluctuations, unlocking her full potential. After undergoing adaptive training with the Adjutant, Nita successfully mastered it — allowing her heart, which races for the Adjutant, to resonate as one with the rhythm of the Pulse exosuit.						0	2.7新角色
+skin03201_use	默认	預設	デフォルト	기본 스킨	Default						0	2.7新角色
+skin03202	林间潋滟	林間瀲灩	緑滴る清流	숲속의 영혼	Sylvan Spirit						0	2.7新皮肤
+skin03202_des	分析员，这水潭可是我的秘密基地，快来，咱们一起凉快下！	分析員，這水潭可是我的秘密基地，快來，咱們一起涼快一下！	分析員、この泉、私の秘密基地なんだよ。ほら、一緒に涼もう！	분석가, 이 물웅덩이는 내 비밀 기지야. 빨리 와, 같이 시원함을 느껴보자고!	Adjutant, this pond is my secret haven. Don't just stand there — come in and cool off with me!						0	2.7新皮肤
+skin03202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.7新皮肤
+skin03203	轻罗曼舞	輕羅曼舞	薄絹の舞姫	실크 댄스	Silken Dance						0	3.1新皮肤
+skin03203_des	咳咳，只是一点小小的失误，分析员，我们再来一次吧！	咳咳，只是一點小小的失誤，分析員，我們再來一次吧！	ゴホン、ミスっちゃった…分析員、もう一回、ね、やり直そっ！	에헴, 작은 실수일 뿐이야. 분석가, 우리 한 번 더 시도해 보자!	Ahem... Just a tiny misstep, Adjutant. Shall we give it another go?						0	3.1新皮肤
+skin03203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.1新皮肤
+skin04101	芙提雅	芙提雅	フリティア	프티야	Fritia						0	
+skin04101_des	世界树公司的前高级研究员，不知为何自愿离开实验室加入海姆达尔部队。\n比起手里的枪，她更厉害的武器是脑袋和嘴。	世界樹公司的前高級研究員，不知為何自願離開實驗室加入海姆達爾部隊。\n比起手裡的槍，她更厲害的武器是腦袋和嘴。	ユグドラシル社の元上席研究員。なぜか自ら研究所を離れ、ヘイムダル部隊に参加した。\n手にした銃よりも強力な武器は、彼女の頭と口だ。	위그드라실 회사의 전직 수석 연구원. 이유는 모르겠으나 자발적으로 실험실을 떠나 헤임달 부대로 합류했다.\n손에 들고 있는 총보다 더 강력한 무기는 그녀의 두뇌와 언변이다.	An Yggdrasil Enterprises researcher who willingly left the labs to join Heimdall Force.\nHer strongest weapons are her quick wit and sharp tongue.						0	
+skin04101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin04102	炽热御护	熾熱禦護	灼熱の守り	피어리 디펜스	Fiery Defense						0	
+skin04102_des	立刻疏散！接下来是芙提雅老师的救场时间。	立刻疏散！接下來是芙提雅老師的救場時間。	今すぐ避難して！これからはフリティア先生の独壇場！	어서 피해! 이제부터는 프티야 선생님이 나설 차례니까!	Disperse! It's time for Professor Fritia to come to the rescue.						0	
+skin04102_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin04103	不灭耀心	不滅耀心	不滅の耀心	불멸의 다짐	Unfading Glow						0	
+skin04103_des	大家快去避难！这里交给最最专业的芙提雅老师来！	大家快去避難！這裡交給最專業的芙提雅老師來！	みんな、急いで退避を！ここはプロであるこのフリティア先生に任せて！	모두들 어서 대피해! 이곳은 전문가인 프티야 선생님한테 맡기라고!	Take cover, everyone! Leave this problem for the top professor around to solve!						0	
+skin04103_use	通过甄选好物商店购买获得	透過甄選好物商店購買獲得	特選逸品ショップで購入して獲得	[페이버릿 픽] 상점 구매로 획득	Obtained through purchase in Choice Products.						0	
+skin04104	青叶密裹	青葉密裹	ササやく秘密	푸른 잎의 비밀	Leafy Secret						0	2.4新皮肤
+skin04104_des	分析员会喜欢甜的馅料还是咸的馅料呢？等等，芙提雅老师可不能吃——	分析員會喜歡甜的餡料還是鹹的餡料呢？等等，芙提雅老師可不能吃——	分析員は甘いのが好き？それともしょっぱいの？……あっ、待って！フリティア先生は食べちゃダメだから——！	분석가는 속 재료로 단맛을 좋아할까, 아니면 짠맛을 좋아할까? 잠깐 프티야 선생님은 먹을 수 없어…	What kind of filling do you prefer in sticky rice dumplings — sweet or salty? Hold on, Professor Fritia isn't a filling!						0	2.4新皮肤
+skin04104_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	2.4新皮肤
+skin04105	炽灼迸裂	熾灼迸裂	爆ぜし焔	광란의 불꽃	Fiery Burst						0	3.0新皮肤
+skin04105_des	火场中处处都是潜藏的危险，决不能大意——呜哇！	火場中處處都是潛藏的危險，決不能大意——嗚哇！	火事場は危険がいっぱい、油断は禁物——うわぁ！	화재 현장에는 곳곳에 숨겨진 위험이 도사리고 있으니, 절대 방심해서는 안 돼… 우왁!	Danger lurks everywhere in the fire scene, stay alert— Whoa!						0	3.0新皮肤
+skin04105_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	3.0新皮肤
+skin04201	芙提雅-缄默	芙提雅-緘默	フリティア-ベラドンナ	프티야-사일런트	Fritia - Hush						0	
+skin04201_des	芙提雅自研的外骨骼“缄默”，虽然差点因为功耗问题无法通过审查，不过强大的火力最终还是说服了评审员。	芙提雅自研的外骨骼“緘默”，雖然差點因為功率問題無法通過審查，不過強大的火力最終還是說服了評審員。	フリティアが自ら開発した戦術装備「ベラドンナ」。\n消費電力の問題で審査を通らないところだったが、最終的にはその強力な火力で審査員を納得させた。	프티야가 자체적으로 연구한 전술 슈트 '사일런트'. 전력 관련 문제로 하마터면 심사를 통과하지 못할 뻔했지만, 끝내 강력한 화력으로 심사위원을 설득했다.	Hush, the exosuit Fritia developed on her own, almost failed to pass inspections due to consumption issues. However, the insanely powerful punch it packs was enough to persuade the inspector.						0	
+skin04201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin04202	行疾脱兔	動如脫兔	ウサ耳ちゃん	날렵한 토끼	Nimble Hare						0	
+skin04202_des	轻装上阵，当然是为了极限提速咯。等一下，等一下，我要跟不上了——	輕裝上陣，當然是為了極限加速囉。等一下，等一下，我快要跟不上了——	身軽にするのは、スピードを極限まで上げるために決まってるよ。ちょっ、待って、ついて行けな……——	극한의 속도를 내려면 가벼운 옷차림이 딱이지. 잠깐만! 이건 좀 너무 빠르잖아!	Keeping my equipment light lets me move as quickly as possib— Wait a second! Wait for me to catch up!						0	
+skin04202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin04203	狂曲雅跃	狂曲雅躍	礼砲と黒鳥	광란의 곡조	Symphony of Frenzy						0	
+skin04203_des	科技的善恶取决于人！弹药在坏人手里会造成伤害，但在芙提雅老师手里就可以制造快乐哦！	科技的善惡取決於人！彈藥在壞人手中會造成傷害，但在芙提雅老師手中就可以製造快樂唷！	科学技術は人によって善にも悪にもなる！弾薬は悪人の手に渡れば害をもたらすけど、フリティア先生の手に渡れば喜びを生み出す！	기술의 선악은 사람의 손에 달려있어! 탄약이 악당의 손에 있으면 상처를 입힐 수 있지만, 프티야 선생님 손에 있으면 행복을 만들어낼 수 있지!	There is no evil technology — only evil people! Explosives can cause harm in the hands of bad guys, but they can create happiness in the hands of Professor Fritia!						0	
+skin04203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin04301	芙提雅-驰掣	芙提雅-馳掣	フリティア-ドトウ	프티야-터보	Fritia - Turbo						0	
+skin04301_des	不仅有速度，还有瞬时爆发的冲击力！芙提雅全力研发，搭载全新“截神反应堆”技术的新式战术套装，其名为——“驰掣”！\n偶尔会加速过头，只是偶尔。	不只有速度，還有瞬間爆發的衝擊力！芙提雅全力研發，搭載全新「截神反應器」技術的新式戰術套裝，其名為——「馳掣」！\n偶爾會加速過頭，只是偶爾。	スピードだけでなく、瞬間的な爆発力も完備！フリティアが心血を注いで開発し、新技術「セレスティアル・リアクター」を搭載した新型戦術装備、その名も——「ドトウ」！反り立つ怒涛の如く、まっしぐらに突き進むももいろの愛おしさ！\nたまにスピードが出すぎちゃうけど、本当にたまーにだよ。	속도뿐만 아니라 순간적으로 폭발하는 충격력도 갖추고 있다! 프티야가 전력으로 개발한 '천체 감지 코어' 기술이 탑재된 신형 전술 슈트로 '터보'라고 불린다.\n이따금씩 과속할 때도 있지만, 아주 미비하다.	Buckle up for turbo speed and impact! Introducing Fritia's new exosuit, "Turbo," loaded with her newly developed "celestial reactor" tech!\nShe occasionally zooms around a bit too fast in it — just occasionally though.						0	
+skin04301_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin04302	毛绒派对	毛絨派對	もふもふベア	플러시 파티	Plush Party						0	
+skin04302_des	经过精密的计算，这套睡衣是所有备选项中的最优解。当然，计算过程中最关键的判定条件是分析员你的喜好~	經過精密的計算，這套睡衣是所有備選項中的最優解。當然，計算過程中最關鍵的判定條件是分析員你的喜好~	精密な計算の結果、あらゆる候補の中でもこのパジャマが最適解と判明した。もちろん、計算の過程で最も重視したのは、分析員の好みだったよ～	정밀한 계산을 거친 결과, 이 잠옷 세트는 모든 선택지 중에서 최상의 답변이라고 볼 수 있어. 물론, 계산 과정에서 가장 중요한 판단 기준은 분석가 취향이지만.	After a rigorous process of precise calculations, this pajama set shines as the best among all alternatives. Naturally, your preferences are the most important factor!						0	
+skin04302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin04303	草莓甜心	草莓甜心	いちごハニー	달콤한 딸기	Strawberry Sweet						0	2.6新皮肤
+skin04303_des	草莓、奶油，还有一切美好的味道。芙提雅老师亲手制作的蛋糕，美味和爱意都是绝对的满分哦！	草莓、奶油，還有一切美好的味道。芙提雅老師親手製作的蛋糕，美味和愛意都是絕對的滿分！	いちごにクリーム、素敵な味がてんこ盛り。フリティア先生の手作りケーキは、美味しさも愛情も100点満点だよ！	부드러운 크림과 상큼한 딸기, 그리고 따뜻한 마음. 프티야 선생님의 정성이 담긴 케이크는 맛도 사랑도 완벽하다!	Strawberries, icing, and the taste of pure happiness! I made this cake myself — it's simply bursting with flavor and love!						0	2.6新皮肤
+skin04303_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	2.6新皮肤
+skin04304	泳池护卫	泳池護衛	安全の守り手	수영장 순찰대	Pool Patrol						0	2.8新皮肤
+skin04304_des	让让让让开——哎哟！呜呜，在泳池边上，果然还是不能随便用加速功能啊……	讓讓讓讓開——哎喲！嗚嗚嗚，在泳池邊上，果然還是不能隨便用加速功能啊……	どどどどいて——キャッ！うう、やっぱりプールサイドで加速機能は使っちゃいけないね……	비켜, 비켜! 꺄악! 힝, 역시 수영장에서는 함부로 속도를 높이면 안 되는 거구나…	Move! Move! Move! — Ouch! Ugh... Shouldn't have used turbo speed by the pool...						0	2.8新皮肤
+skin04304_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.8新皮肤
+skin04401	芙提雅-炬芯	芙提雅-炬芯	フリティア-トーチライト	프티야-스파크 드라이브	Fritia - Sparkdrive						0	3.6新皮肤
+skin04401_des	芙提雅亲手打造的全新战术套装，内置她倾注心血开发的火种系统2.0。获得授权后，它能调用每个接入终端的闲置算力，汇聚成强大的算力中枢，不仅能够对城市资源进行智能调度，实现利用率的最大化，同时还能满足战术套装在战斗中的算力需求。	芙提雅親手打造的全新戰術套裝，內置她傾注心血開發的火種系統2.0。獲得授權後，它能調用每個接入終端的閒置算力，匯聚成強大的算力中樞，不僅能夠對城市資源進行智能調度，實現利用率的最大化，同時還能滿足戰術套裝在戰鬥中的算力需求。	フリティアが自ら仕立てた最新戦術装備。丹念に仕上げた「火種」システムVer2.0を搭載している。\n認可を得れば、各接続端末の余剰演算を統合し、強力な演算中枢へ集約できる。都市資源をインテリジェントに最適配分して稼働率を最大化し、戦闘に必要な演算リソースも賄える。	프티야가 직접 제작한 새로운 전술 슈트로, 그녀가 심혈을 기울여 개발한 불씨 시스템 2.0이 탑재되어 있다. 이 전술 슈트는 사용자의 동의를 얻은 후, 각 단말기의 유휴 연산력을 호출하여 강력한 연산력 중추를 이룰 수 있다. 이는 도시 자원을 스마트하게 배분해서 활용도를 극대화할 수 있을 뿐만 아니라, 전투 중 전술 슈트에 필요한 연산력 수요도 충족시킬 수 있다.	Fritia's newly crafted exosuit comes equipped with her self-developed Ember 2.0. Once authorized, it can tap into the idle computing power of every connected terminal, consolidating it into a formidable central processing core. This not only enables intelligent citywide resource allocation to maximize overall efficiency, but also ensures the exosuit has all the computational support it needs in the heat of battle.						0	3.6新皮肤
+skin04401_use	默认	預設	デフォルト	기본 스킨	Default						0	3.6新皮肤
+skin04402	国主驾到	國主駕到	王様のおなり	군주 강림	Empress Robe						0	3.6新皮肤
+skin04402_des	分析员，来得正好。今日天朗气清，风光合宜，且让本国主为你挥毫，作幅小画~	分析員，來得正好。今日天朗氣清，風光合宜，且讓本國主為你揮毫，作幅小畫~	分析員、ちょうどいいところに来たね。今日は空も澄んで風情も上々だ。余がひと筆、ささっと描いてやろうか～	분석가, 마침 잘 왔네. 오늘 하늘이 맑고 바람도 상쾌하니, 이 군주가 직접 붓을 들어 그림을 그려주겠어~	Adjutant, you come at just the right moment. On a day so bright and temperate, let your empress take up the brush and paint something for you~						0	3.6新皮肤
+skin04402_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.6新皮肤
+skin05101	茉莉安	茉莉安	マリアン	마리안	Marian						0	
+skin05101_des	出身军火世家的温柔大小姐，喜欢泡红茶，喜欢微笑。\n总是会莫名负伤又不愿轻易接受治疗，也许她有自己的想法吧。\n如今，更加强大自信的她，成为安德烈奥蒂家的家主以及阴极科技的最高董事，奔向她的所爱——分析员。	出身軍火世家的溫柔大小姐，喜歡泡紅茶，喜歡微笑。\n總是會莫名負傷又不願輕易接受治療，也許她有自己的想法吧。\n如今，更加強大自信的她，成為安德烈奧蒂家的家主以及陰極科技的最高董事，奔向她的所愛——分析員。	武器商の名家・アンドレオッチ家の令嬢。物腰柔らかでいつも微笑みを絶やさない。紅茶を淹れるのが趣味。\nいつも怪我をしているのに治療を受けたがらない。彼女には自分なりの考えがあるのかもしれない。\n今は自信に満ち、強く美しい彼女。アンドレオッチ家の当主として、そしてカソードテクノロジーの取締役として、天翔ける鷹のように愛する分析員のもとへ飛び立つ。	무기 명가 출신의 부드러운 아가씨로, 차를 우려 마시는 것을 좋아하고, 얼굴에는 늘 미소를 띠고 있다.\n항상 이유 없이 다치고 치료받기를 꺼려하고, 나름 자기만의 철학이 있는 듯하다.\n오늘날 더욱 강해지고 자신감 넘치는 그녀는 안드레오티 가문의 가주와 케소드 테크윈의 최고 이사가 되었고, 그녀의 사랑인 분석가를 향해 날아가게 된다.	Born the gentle heiress of an arms dealer family, she enjoys making tea and loves to smile.\nBut behind that smile, insecurity once drove her to chase pain and to crave the way it made the Adjutant notice her.\nNow, stronger and surer than ever, she has taken her place as head of House Andreotti and the top chair of Cathode Technologies, an eagle flying straight toward the one she loves: the Adjutant.						0	
+skin05101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin05201	茉莉安-雨燕	茉莉安-雨燕	マリアン-アマツバメ	마리안-스위프트	Marian - Swift						0	
+skin05201_des	雨燕系列低可探测性战术外骨骼是阴极科技的最新产品，专为单人行动的狙击手和侦察兵打造。目前仅对外公布，并未正式推出。	雨燕系列低可探測性戰術外骨骼是陰極科技的最新產品，專為單人行動的狙擊手和偵察兵打造。目前僅對外公佈，並未正式推出。	カソードテクノロジーの最新製品、単独行動を行うスナイパーや偵察兵のために作られたステルス性戦術装備「アマツバメシリーズ」。\n現在、市場向けに発表されただけで、正式には発売されていない。	스위프트 계열의 탐지형 전술 슈트는 케소드 테크원에서 최근에 출시한 제품이다. 단독 행동이 필요한 저격수와 정찰병을 위해 특별히 제작되었다. 현재 대외적으로 발표만 했을 뿐, 정식 출시는 미정이다.	The Swift Series Low Observability Tactical Exosuit is Cathode Technologies' latest product, created especially for snipers and scouts who operate alone. It's yet to be officially released.						0	
+skin05201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin05202	一掷千金	一擲千金	ゲームマスター	하이 롤러	High Roller						0	
+skin05202_des	开牌，推牌。坐在了这个桌子边，就说明你都准备好了吧？分析员，你用来赢下我的筹码是什么呢。	分析員，該你攤牌了。坐上這張桌子就代表你已經準備就緒，你打算用什麼籌碼來贏過我呢?	あら……あなたがここに座るということは、もう準備万端ということですね？では分析員さん、私に勝つためのチップは用意できましたでしょうか？	게임을 시작합니다. 이 테이블에 앉았다는 건 모든 준비가 되었다는 뜻이겠죠? 분석가님, 당신에게 승리를 안겨줄 카드는 어떤 걸까요?	Take your cards and make a bet... Sitting at this table with me means that you are ready, right? How do you plan to win my chips, Adjutant?						0	
+skin05202_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin05203	绯染夜幕	緋染夜幕	緋染めの夜	크림슨 나이트	Midnight Rose						0	
+skin05203_des	这是我还没有向分析员展示过的一面，分析员愿意了解我更多不为人知的样子吗？	這是我還沒有向分析員展示過的一面，分析員願意了解我更多不為人知的模樣嗎？	恥ずかしいけど…こんな姿は初めてです。どうでしょうか……分析員さん、もっと、私を知りたいと思いませんか？	이건 아직까지 분석가님한테 보여드렸던 적이 없었는데… 분석가님은 제가 아직 알려지지 않은 모습을 보고 싶으신가요?	This is a side of me I've never shared with you before, Adjutant. Would you like to get to know more secrets about me?						0	
+skin05203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin05301	茉莉安-幽潮	茉莉安-幽潮	マリアン-幽潮	마리안-고요한 물결	Marian - Riptide						0	
+skin05301_des	成功回收沃坦遗骸后，世界树公司针对附着其上的“醒世之尘”进行研究，并得到新的启发，开发出茉莉安专属战术套装“幽潮”。\n换上这身装备的她，已经解开了心中的枷锁。	成功回收沃坦遺骸後，世界樹公司針對附著其上的「醒世之塵」進行研究，並得到新的啟發，開發出茉莉安專屬戰術套裝「幽潮」。\n換上這身裝備的她，已經解開了心中的枷鎖。	ユグドラシル社は、ウォーデンの死骸に付着していたアポカリプスダストを研究し、新たな発見を得た。この発見をもとに、マリアン専用の戦術装備「幽潮（ゆうちょう）」を開発した。\n「幽潮」を装着したマリアンは、まるで心の鎖が解き放たれたかのように戦闘力と精神力が大きく向上し、さらなる強さを発揮する。	성공적으로 보탄의 유해를 회수한 후, 위그드라실은 잔해에 붙어있는 '각성의 먼지'에 대해 연구를 진행했고, 새로운 영감을 받아 마리안의 전술 슈트 '고요한 물결'을 개발했다.\n장비를 착용한 그녀는 마음속의 족쇄를 풀게 되었다.	An exosuit crafted by Yggdrasil specially for Marian after researching the Awakening Dust from the recovered Woden's Remains.\nWith this new exosuit, she has broken free from the chains tethering down her heart.						0	
+skin05301_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin05302	灿阳一刻	燦陽一刻	絢爛のひと刻	찬란한 순간	Radiant Sunkiss						0	
+skin05302_des	换上泳装，尽情地享受阳光与沙滩……分析员，我的表现满足您的要求了吗？	換上泳裝，盡情地享受陽光與沙灘……分析員，我的表現滿足您的要求了嗎？	水着に着替えて、陽射しや砂浜を楽しみましょう……私は、分析員さんのご期待に添えたでしょうか？	수영복으로 갈아입고 태양과 해변을 마음껏 즐겨야지… 분석가님, 제 모습이 당신의 기대에 부합했나요?	Clad in my swimsuit on the beach, soaking in the sunshine... Am I living up to your expectations, Adjutant?						0	
+skin05302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin05303	绒尾迷梦	絨尾迷夢	お団子しっぽ	몽환의 꼬리	Bunny Fantasy						0	2.6新皮肤
+skin05303_des	分析员，只在你面前展露的，这样不够优雅、得体的我，你会更加喜欢……对吗？	分析員，只在你面前展露的，這樣不夠優雅、得體的我，你會更加喜歡…對嗎？	分析員さんの前でしか見せない、優雅さと上品さに欠ける私は、より一層愛しく見える……でしょうか？	분석가님, 당신 앞에서만 보여주는 단정치 못한 모습도 사랑해 주실 거죠?	Adjutant, this version of me is one that I only reveal to you. Though less elegant and refined than a heiress' usual demeanor... you like it even more, don't you?						0	2.6新皮肤
+skin05303_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.6新皮肤
+skin05304	甜蜜困扰	甜蜜困擾	幸せな悩み	패션 딜레마	Fashion Dilemma						0	3.0新皮肤
+skin05304_des	这件穿过了，这件有点普通……今天，能不能拜托分析员帮我挑一件衣服呢？	這件穿過了，這件有點普通……今天，能不能拜託分析員幫我挑一件衣服呢？	これは着たことがありますし、こっちは普通すぎるでしょうか…分析員さん、服を選んでいただけますか？	이건 전에 입었던 거고, 이건 좀 평범한데… 오늘 분석가님이 옷 좀 골라 줄 수 있을까요?	Hmm, wore this already... this one's too plain... Perhaps the Adjutant could help me pick an outfit?						0	3.0新皮肤
+skin05304_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	3.0新皮肤
+skin05401	茉莉安-霄鹰	茉莉安-霄鷹	マリアン-雲上の鷹	마리안-아퀼라	Marian - Aquila						0	3.5茉莉安新换装
+skin05401_des	该战术套装是阴极科技倾尽所有技术，为下任最高董事及安德烈奥蒂家主打造的专属装甲。其特点是搭载了飞行组件，并可调动附近军火库进行协同攻击。	該戰術套裝是陰極科技傾尽所有技術，為下任最高董事及安德烈奧蒂家主打造的專屬盔甲。其特點是搭載了飛行組件，並可調動附近軍火庫進行協同攻擊。	カソードテクノロジーの技術力を結集し、次期最高理事兼アンドレオッチ家当主のために開発された専用戦術装備。飛行モジュールを搭載し、周辺の武器庫を動員して協同攻撃を行える。	케소드 테크윈이 모든 기술을 쏟아부어 차기 최고 이사이자 안드레오티 가주를 위해 제작된 전용 전술 슈트이다. 이 전술 슈트에는 비행 부품이 탑재되어 있으며, 부근의 무기고를 동원하여 협동 공격을 펼칠 수 있는 기능이 특징이다.	Developed by Cathode Technologies with the pinnacle of their technical expertise, this exosuit is exclusively built for the next Chief Director and the head of the Andreotti family. It combines flight capability with the ability to coordinate attacks by mobilizing weapons from nearby armories.						0	3.5茉莉安新换装
+skin05401_use	默认	預設	デフォルト	기본 스킨	Default						0	3.5茉莉安新换装
+skin05402	纯白恋羽	純白戀羽	純白の恋羽	퓨어 페더	Purelove Plumage						0	3.5新皮肤
+skin05402_des	名为爱的白羽纷扬，指引我落向你的怀抱——亲爱的，那是我心驰的远方，也是我无时无刻不在盼望着的，足以融化冰雪的归巢。	名為愛的白羽紛揚，指引我落向你的懷抱——親愛的，那是我心馳的遠方，也是我無時無刻不在盼望著的，足以融化冰雪的歸巢。	「愛という白羽がひらひらと舞い、旦那様の腕の中へと私を導く──そこは心が帰り着く場所であり、どんな時も恋い焦がれてきた、氷雪さえ溶かすあたたかな居場所。」	사랑이라는 이름을 가진 하얀 깃털이 날리면서, 저를 당신의 품으로 인도합니다. 자기, 그건 제 마음이 닿고 싶은 곳이기도 하고, 그토록 원하던 얼음과 눈을 녹일 수 있는 안식처이기도 해요.	Feathers of pure white dance through the air, guiding me into your waiting arms. Darling, this is where our love lands at last, a nest warm enough to melt ice and snow.						0	3.5新皮肤
+skin05402_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5新皮肤
+skin05403	缚锁密令										0	3.7新皮肤
+skin05403_des	请对我下更多的命令吧，只要是您，只要是亲爱的长官您的命令……										0	3.7新皮肤
+skin05403_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.7新皮肤
+skin06101	鸣濑晴	鳴瀨晴	鳴瀬晴	나루세 하루	Naruse Haru						0	
+skin06101_des	海姆达尔部队首批士兵之一，绝对的老资格和王牌战士。\n更早的时候，她就以见习生的身份，加入分析员所在的安全部。	海姆達爾部隊首批士兵之一，絕對的老手和王牌戰士。\n更早的時候，她就以見習生的身分，加入分析員所在的安全部。	ヘイムダル部隊の最初の兵士の一人。絶対的なベテランであり、エースファイターである。\nかつては見習いとして、分析員が所属する安全部に配属されていた。	헤임달 부대의 최초 대원으로 의심할 바 없는 노장이자 베테랑 전사다.\n더 일찍부터, 그녀는 견습생 신분으로 분석가가 소속된 안전부에 합류했다.	One of the first soldiers in the Heimdall Forces, she is a seasoned ace with unmatched experience.\nBefore that, she joined the Security Department where the Adjutant worked, starting out as an intern.						0	
+skin06101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin06102	不灭锋铭	不滅鋒銘	不滅の剣心	불멸의 각인	Immortal Blade						0	3.4新皮肤
+skin06102_des	唯有经历这超越极限的训练，我才能从任何绝境中，回到你身旁。	唯有經歷這超越極限的訓練，我才能從任何絕境中，回到你身旁。	限界を超える訓練を乗り越えてこそ、いかなる窮地からも必ず戻ると約束できる。	오직 이 극한의 훈련을 거쳐야만, 어떤 절망적인 상황에서도 네 곁에 돌아올 수 있을 거야.	Only through training to surpass my limits can I find my way back to you from any despair.						0	3.4新皮肤
+skin06102_use	通过甄选好物商店购买获得	透過甄選好物商店購買獲得	特選逸品ショップで購入して獲得	[페이버릿 픽] 상점 구매로 획득	Obtained through purchase in Choice Products.						0	3.4新皮肤
+skin06201	晴-藏锋	晴-藏鋒	晴-蔵鋒	하루-히든 블레이드	Haru - Absconditus						0	
+skin06201_des	由军方和世界树公司共同研发的战术套装“藏锋”，为应对真实战场环境而大幅提升了近距离作战性能。锋刃由新型合金打造，劈金断铁，无所不能。	由軍方和世界樹公司共同研發的戰術套裝“藏鋒”，為因應實際戰場環境而大幅提升了近戰性能。鋒刃由新型合金打造，削鐵如泥無所不能。	軍とユグドラシル社が共同開発した戦術装備「蔵鋒（ぞうほう）」は、実際の戦場での運用を想定し、接近戦性能を大幅に強化した装備である。\n新開発の合金素材を用いた刃は、どんな金属も切り裂く鋭さを持つ。	군측과 위그드라실에서 공동으로 개발한 전술 슈트 '히든 블레이드'. 전장의 실제 환경에 대응하기 위해 근접전 성능을 크게 끌어 올렸다. 칼날은 신형 합금으로 만들어 단단한 금속도 손쉽게 베어낼 수 있다.	The tactical gear known as "Absconditus" was collaboratively developed by the military and Yggdrasil, providing huge improvements to close-combat performance in practical combat scenarios. The blade is constructed of a new type of invincible alloy that is capable of slicing through any metal.						0	
+skin06201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin06202	凛冽冬花	凜冽冬花	凛冽冬花	서리 꽃	Frostbite Flora						0	
+skin06202_des	不要小瞧战场，也不要小瞧战场上的任何一个“没有攻击性”的人。	不要輕視戰場，也不要輕視戰場上任何一個“沒有攻擊性”的人。	戦場をなめるな。そして戦場にいる「攻撃的」に見えない人を一人たりとも見くびるな。	전장을 우습게 보지 마, 전장에서 '공격성이 없는 자'들을 얕보지도 말고.	Don't underestimate the battlefield or any individual on it, no matter how non-threatening they may appear.						0	
+skin06202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin06203	循风谍舞	循風諜舞	風隠れ舞踏会	바람의 첩자	Covert Zephyr						0	
+skin06203_des	潜入或是打探消息的时候，不能携带过多武器，或者说……我本身就是武器。	潛入或者是打探消息的時候，不能攜帶過多武器，或者說……我本身就是武器。	潜入や情報収集の時には、過剰な武器を持ち込むことはできない......というより、自分が武器そのものだ。	몰래 잠입하거나 정보를 수집할 때는 너무 많은 무기를 휴대할 수 없어… 뭐, 내 자체가 무기긴 하지만.	I don't take too many weapons with me when I'm stealthily infiltrating an area or conducting surveillance... I'm a weapon myself.						0	
+skin06203_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin06301	晴-霆光	晴-霆光	晴-雷光	하루-라이코	Haru - Raikou						0	3.3新皮肤
+skin06301_des	搭载了武器“藏锋二型”的全新战术套装。当晴能做到人剑合一时，便能斩断一切。然而霆光的意义并非为了斩断，而是为了能连接一切情感、责任以及回忆。	搭載了武器「藏鋒二型」的全新戰術套裝。當晴能做到人劍合一時，便能斬斷一切。然而霆光的意義並非為了斬斷，而是為了能連接一切情感、責任以及回憶。	武器「蔵鋒二式」を携えた新たな戦術装備。晴が剣と一体となった時、あらゆる存在を断ち切れるという。\nだが、「雷光」は斬るためではなく、感情、責任、思い出を繋ぎ合わせるために生み出された。	무기 '히든 블레이드 Type.II'를 탑재한 새로운 전술 슈트. 하루가 검과의 합일을 이루면 모든 것을 잘라낼 수 있다. 그러나 라이코의 의미는 잘라내기 위함이 아니라, 모든 감정, 책임과 기억을 연결하기 위함이다.	A new tactical exosuit compatible with the weapon "Absconditus-II." When Haru becomes one with her blade, she can sever anything in her way. Yet the purpose of Raikou is not to sever, but to connect every feeling, every duty, every memory... and bind them as one.						0	3.3新皮肤
+skin06301_use	默认	預設	デフォルト	기본 스킨	Default						0	3.3新皮肤
+skin06302	清光虔愿	清光虔願	純なる願い	순수한 기도	Purelight Wishes						0	3.3新皮肤
+skin06302_des	方才我们一同求的签是大吉，那……我在这枚绘马上许下的愿望，一定能实现吧。	方才我們一起求的籤是大吉，那……我在這枚繪馬上許下的願望，一定能實現吧。	さっき一緒に引いたおみくじで大吉が出たから……この絵馬に託した願いはきっと叶うだろう。	방금 우리가 함께 본 운세는 길조였으니… 이 소원패에 적어둔 소원은 꼭 이루어질 거야.	Our fortune slip says great luck. So... the wish I make on this ema is going to come true, isn't it?						0	3.3新皮肤
+skin06302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.3新皮肤
+skin06303	剑意逍遥	劍意逍遙	剣よ瀟洒たれ	신선놀음	Celestial Edge						0	3.6新皮肤
+skin06303_des	和、和分析员一起的话……哪里练剑都行。不、不是那个意思！我是说……会让人格外专注！	和、和分析員一起的話……哪裡練劍都行。不、不是那個意思！我是說……會讓人格外專注！	分析員と一緒なら……どこでだって剣は振れる。ち、違う、そういう意味じゃない……集中できるって話だ！	분, 분석가와 함께라면… 어디서 검술을 연마하든 좋아. 그… 그런 뜻이 아니야! 내 말은… 매우 전념할 수 있다는 거야!	If I'm with the Adjutant... I don't mind where we train. W—Wait! That's not what I meant! I'm saying... it helps me focus!						0	3.6新皮肤
+skin06303_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.6新皮肤
+skin07101	琴诺	琴諾	チェルノ	체르노	Cherno						0	
+skin07101_des	被当成接引使抚养长大，因为抗拒这段记忆而分裂出了第二个人格。\n以上是机密，切勿外传。	被當成接引使撫養長大，因為抗拒這段記憶而分裂出了第二個人格。\n以上是機密，切勿外傳。	降臨団の聖女として育てられた記憶に抵抗感を覚え、第二の人格を分裂させた。\n上記は機密事項であり、くれぐれも外部に漏れないようにご注意を。	어렸을 적에 강림단 인도자로 지냈고, 당시 접했었던 기억들과의 사투로 이중인격을 소유하게 되었다.\n이외에는 기밀 정보로 외부 유출이 안 되어 있는 상황이다.	Raised as an Emissary of the Adventists. Her personality split into two in an attempt to resist these memories.\nThis information is classified and on a need-to-know basis.						0	
+skin07101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin07201	琴诺-悖谬	琴諾-悖謬	チェルノ-二律背反	체르노-에니그마	Cherno - Enigma						0	
+skin07201_des	“悖谬”是琴诺从某未知泰坦体内分离过程中形成的，其本身可以视作重组后琴诺的觉醒状态。\n世界树对外宣称这套“悖谬”是公司研发的新型战术套装。	「悖謬」是琴諾從某未知泰坦體內分離過程中形成的，本身可視為重組後琴諾的覺醒狀態。\n世界樹對外宣稱這套「悖謬」是公司研發的新型戰術套裝。	「二律背反」は、チェルノがとある未知のタイタンから分離する際に形成されたもので、その本体は再編成後のチェルノの覚醒状態と見なされる。\n公には、ユグドラシル社は「二律背反」を自社で開発した新型戦術装備だと説明している。	'에니그마'는 미지의 타이탄이 분리되는 과정에서 형성된 것으로 자체적으로 재구성된 체르노의 각성 상태로 볼 수 있다.\n위그드라실은 '에니그마'가 자사에서 직접 개발한 전술 슈트라고 주장하고 있다.	"Enigma" is an exosuit created during the process of Cherno being separated from an unidentified Titan. It is, by nature, Cherno's reformed and awakened form.\nYggdrasil Enterprises publicly claims that this strange exosuit is their latest R&D product.						0	
+skin07201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin07202	见习侍奉	見習侍奉	見習いメイド	견습 메이드	Apprentice Maid						0	
+skin07202_des	虽然还是第一次尝试这种工作，请……请放心，我会满足您的一切要求的！	雖然還是第一次嘗試這種工作，請…請放心，我會滿足您的一切要求的！	こういう仕事は初めてなんですが……ご安心ください、お望みであればなんでもお応えしますので！	이런 일은 처음이라 조금 불안하긴 하지만… 걱정 마세요! 분석가님이 원하는 건 어떡해서든 충족시켜드릴 거예요!	Though it's my first time stepping in the shoes of a maid, a—all that you ask for will be properly served!						0	
+skin07202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin07203	静聆潮韵	靜聆潮韻	潮聴のひと紅	잔잔한 파도소리	Tidal Whispers						0	
+skin07203_des	虽然很害羞……不过，我想让分析员看到，也……只想让分析员……	雖然很害羞……不過，我想讓分析員看到，也……只想讓分析員……	恥ずかしいんですけど……分析員さんには見せたくて……それに、分析員さんなら……	조금 부끄럽긴 하지만… 분석가님에게 보여주고 싶어요. 오직 분석가님에게만요…	Feeling a bit shy... but I still want you to see this. It's... just for you, Adjutant...						0	
+skin07203_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin07204	清荷雅弈	清荷雅弈	蓮薫る碁風	청아한 연꽃의 대결	Dual Tranquility						0	2.4新皮肤
+skin07204_des	星、角、边、天元……这些规则好复杂，比起书本，还是分析员亲自教我时，我学得更快……	星、角、邊、天元……這些規則好複雜，比起書本，還是分析員親自教我時，我學得更快……	星、角、辺、天元……囲碁のルールって、複雑ですね。本で覚えるより、分析員さんに直接教えてもらった方が早そうです……！	별, 각, 변, 중심점… 이 규칙들은 너무 복잡해요. 책으로 배우는 것보단 분석가님이 직접 가르쳐줄 때가 더 빨리 배웠던 것 같아요…	Star points, corners and sides, even an "origin of heaven"... Aah, there are so many complicated rules mentioned in books. But I learn much faster when you teach me yourself, Adjutant...						0	2.4新皮肤
+skin07204_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.4新皮肤
+skin08101	芬妮	芬妮	ファニー	페니	Fenny						0	
+skin08101_des	海姆达尔部队士兵，前瓦尔基里游戏明星选手。\n热情洋溢的偶像士兵，单方面视星期三为宿命对手。	海姆達爾部隊士兵，前瓦爾基里遊戲明星選手。\n熱情洋溢的偶像士兵，單方面視星期三為宿命對手。	ヘイムダル部隊の兵士で、元ヴァルキリーゲームの注目選手。\n情熱的でアイドル気質の彼女は、かつてウェンズデーを宿命のライバルとみなしていたが、今は分析員のことだけを気にかけている。	헤임달 부대 대원이자 이전 발키리 게임의 스타 선수다. \n열정이 넘치는 아이돌 대원으로 웬스데이를 숙명의 라이벌로 여긴다.	Frontline Heimdall Force Operative, former Valkyrie Games star.\nEnthusiastic Battle Idol, she sees Wednesday as a rival given to her by fate.						0	
+skin08101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin08102	妄想新星	妄想新星	妄想の新星	망상의 별	Delusional Starlet						0	
+skin08102_des	这个舞台上的焦点，理所当然的是本小姐！	這個舞台上的焦點，理所當然是本小姐！	この舞台の主役は、このあたし！	무대에서의 스타는 당연히 페니 아니겠어!	The spotlight is on me, of course!						0	
+skin08102_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin08103	不灭傲姿	不滅傲姿	不滅の麗姿	불멸의 자태	Indomitable Charm						0	
+skin08103_des	哼，想看本小姐狼狈的样子？你们还差得远呢！	哼，想看本小姐狼狽的樣子？你們還差得遠呢！	ふん、このあたしの狼狽える姿でも見たいわけ？いい度胸じゃない！	흥, 이 몸의 처참한 모습을 보고 싶다고? 너희들은 아직 멀었어!	Hmph, you thought my spirits would be crushed after a couple little setbacks? Not a chance!						0	
+skin08103_use	通过甄选好物商店购买获得	透過甄選好物商店購買獲得	特選逸品で購入して獲得	[페이버릿 픽] 상점 구매로 획득	Obtained through purchase in Choice Products.						0	
+skin08104	璨夜华彩	璨夜華彩	夜よ燦然たれ	화려한 포효	Dazzling Roar						0	2.5新皮肤
+skin08104_des	分析员，这套为你特地换上的装扮，不好好看着可不行哦。	分析員，這套為你特地換上的裝扮，不好好看著可不行哦。	分析員。わざわざあんたのために用意した服なんだから、ちゃんと見ないとダメよ。	분석가, 이건 특별히 너만을 위해 준비한 의상이니까 잘 지켜봐 줘.	I dare you to ignore this look I chose just for you, Adjutant!						0	2.5新皮肤
+skin08104_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	2.5新皮肤
+skin08201	芬妮-咎冠	芬妮-咎冠	ファニー-ユーフォルビアミリー	페니-크라운	Fenny - Coronet						0	
+skin08201_des	电能释放型特殊外骨骼“咎冠”，依照芬妮要求设计后，外观时尚轻便，深受她好评。	電能釋放型特殊外骨骼“咎冠”，依照芬妮要求設計後，外觀時尚輕便，深受她喜愛。	電気エネルギーを放出できる特殊な戦術装備「ユーフォルビアミリー」。ファニーの要望に応じて設計され、軽やかで洗練された外観を持つ。本人からも高評価を得ている。	번개 에너지 방출형의 특수 전술 슈트 '크라운'. 페니의 요구사항에 따라 디자인한 제품으로, 외관이 굉장히 패셔너블하며 무게 또한 가벼워 페니의 극찬을 받았다.	A special electricity-discharging exosuit, "Coronet." After adjusting the design according to Fenny's request, the exosuit is simpler, stylish, and much more to her liking.						0	
+skin08201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin08202	蜂刺蔷薇	尖刺薔薇	黒壇・紅薔薇	비스팅 로즈	Stinging Rose						0	
+skin08202_des	让让，小心我挣断这些乱七八糟的东西时伤到你。	借過借過，小心我折斷這些亂七八糟的東西時傷到你。	どいて。じゃないとあんた、振り切った時ケガするよ。	비켜, 비켜, 이런 귀찮은 것들을 끊어낼 때 옆에 있으면 다치니까.	Careful — I don't want you getting hit when I'm smashing stuff to bits.						0	
+skin08202_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin08203	初晴金雪	珂雪璀璨	黄金に輝く雪姫	슬로프 디바	Slopestyle Diva						0	
+skin08203_des	滑雪只是本小姐众多技能之一，需要我教你吗？	滑雪只是本小姐的眾多技能之一，要我教你嗎？	スキーはあたしの数あるスキルの中の一つに過ぎないわ！教えてほしい？	스키는 내가 할 수 있는 수많은 것들 중 하나일 뿐이야~ 좀 가르쳐 줄까?	Snowboarding is just one of my many talents. Do you need me to teach you how?						0	
+skin08203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin08204	甜蜜统治	甜蜜統治	シュガークイーン	슈가 퀸	Sugar Queen						0	
+skin08204_des	甜点和本小姐哪个更甜？你只有一次机会，可别选错啦！	甜點和本小姐哪個更甜？你只有一次機會，可別選錯啦！	デザートとあたし、どっちのほうが甘いと思う？チャンスは一回きりだから、間違えないでよね！	디저트랑 페니랑 누가 더 달아? 기회는 딱 한 번뿐이니 잘 선택하는 게 좋을 거야!	Which one is sweeter — me or the dessert? You've got one shot, don't get it wrong!						0	
+skin08204_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin08205	甜蜜统治·出行	甜蜜統治·出行	シュガークイーン・行楽	슈가 퀸·나들이	Sugar Queen - Hang Out						0	
+skin08205_des	和分析员约会，当然要带上包包啦，以备不时之需~	和分析員約會，當然要帶上包包啦，以備不時之需~	念のため、バッグも持っていこう、分析員と二人きりのデートだから～	분석가하고 데이트를 할 땐 만약을 대비해서 물건을 좀 챙겨야겠지~	A handbag is a must-have for a day out with the Adjutant. That way, I'm ready for anything!						0	
+skin08205_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin08301	芬妮-辉耀	芬妮-輝耀	ファニー-光輝	페니-스타샤인	Fenny - Starshine						0	
+skin08301_des	由世界树公司提供图纸，新恒提罗的超算恒沙协助开发的动能战术套装。在芬妮的强烈要求下，加入了可变色的特殊外观设计。	由世界樹公司提供設計圖，新恆提羅的超級電腦恆沙協助開發的動能戰術套裝。在芬妮的強烈要求下，加入了可變色的特殊外觀設計。	ユグドラシル社がニューガントラのスーパーコンピュータ・ゴウシャと協力して開発した戦術装備。\nファニーの強い要望により、カラーチェンジ機能を備えた独自のデザインが施されている。	위그드라실이 제공한 도면을 기반으로 뉴헨틸로의 슈퍼컴퓨터 항사가 협력하여 개발한 KP 전술 슈트. 페니의 강력한 요구에 따라 색상을 바꿀 수 있는 특수 외관 디자인이 추가되었다.	This Kinetic-type exosuit was developed with the help of GANGES, the supercomputer of New Hentiro, according to Yggdrasil's design. Fenny insisted that it be equipped with an interchangeable color design.						0	
+skin08301_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin08302	绽于恋时	綻於戀時	満開な恋心	싹트는 사랑	Flourish of Heart						0	
+skin08302_des	你应该早就察觉到了吧？我平时对你说的每一句话，高兴的、生气的……都是出于喜欢你。	你應該早就察覺到了吧？我平時對你說的每一句話，無論是高興或是生氣……都是因為喜歡你。	ちょっと！もうとっくに気づいてるでしょ？あたしが普段嬉しい時、怒ってる時に話してい言葉…すべてアンタが好きだから言ってるのよ。	진작에 알고 있었지? 내가 평소에 너한테 하는 말이 기쁜 말이든 화내는 말이든… 모두 널 좋아하기 때문이야.	You should've realized by now that every word I tell you, whether I'm happy or angry... It's all because of my love for you.						0	
+skin08302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin08303	金狮舞瑞	金獅舞瑞	悦びの瑞獣	골드 라이언 댄스	Lucky Lioness						0	2.5新皮肤
+skin08303_des	特别演出，当然会有特别安可。而作为唯一的观众，当然要看到最后，对吧~	特別演出，當然會有特別安可。而作為唯一的觀眾，當然要看到最後，對吧~	特別な演出には特別なアンコールがつきものでしょ。唯一の観客として、もちろん最後まで見てくれるわよね？	특별한 공연이라 당연히 앵콜이 있을 거라고. 유일한 관객이니까 당연히 마지막까지 봐줘야지~	A special performance, of course, has a special encore. As the only one in my audience, you're staying until the end, right~?						0	2.5新皮肤
+skin08303_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.5新皮肤
+skin08304	疾速耀星	疾速耀星	駆けよ明星	니트로 노바	Nitro Nova						0	2.7新皮肤
+skin08304_des	这里没有人会阻碍我们兜风，亲爱的，准备好用速度让我的心怦怦跳了吗？	這裡沒有人會阻礙我們兜風，親愛的，準備好用速度讓我的心怦怦跳了嗎？	ここにはあたしたちのドライブを邪魔する者はいないわ。ダーリン、準備はいい？スピードであたしの心をドキドキさせてね！	이곳에 우리의 드라이브를 방해할 사람은 없어. 자기야, 짜릿한 속도로 내 마음을 두근거리게 할 준비 됐어?	No one's going to stop us from cruising here, darling. Ready to make my heart race with your speed?						0	2.7新皮肤
+skin08304_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	2.7新皮肤
+skin08305	破焰傲绽	破焰傲綻	炎穿つ矜持	불굴의 화염	Defiant Blaze						0	2.8新皮肤
+skin08305_des	躲闪，迂回？本小姐的选择，从来都只会是正面击破。	躲閃，迂迴？本小姐的選擇，從來只會是正面擊破。	回避？迂回？フッ、あたしは正面突破しかしないわ。	회피, 우회? 내 사전에 그런 건 없어. 난 정면 돌파밖에 모르니까.	Dodge? Flank? Please — I always go for a head-on breakthrough.						0	2.8新皮肤
+skin08305_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	2.8新皮肤
+skin08401	芬妮-澄意	芬妮-澄意	ファニー-澄心	페니-퓨어하트	Fenny - Pureheart						0	3.2新角色
+skin08401_des	“澄意”是世界树研发部为芬妮打造的全新战术套装，不仅完美契合她热情奔放的作战风格，还更大程度发挥其灵动的战斗优势。芬妮将以最纯净澄澈的心意回应分析员的深情。	「澄意」是世界樹研發部為芬妮打造的全新戰術套裝，不僅完美契合她熱情奔放的作戰風格，還能更大程度發揮其靈動的戰鬥優勢。芬妮將以最純淨澄澈的心意回應分析員的深情。	「澄心」はユグドラシル社開発部がファニーのために生み出した新たな戦術装備。彼女の豪快な戦闘スタイルに完璧に調和し、その俊敏さを最大限に引き出す。ファニーは最も純粋な澄み渡る心で、分析員の想いに応えてくれる。	'퓨어하트'는 위그드라실 개발부에서 페니를 위해 제작한 새로운 전술 슈트이다. 그녀의 열정적이고 거침없는 작전 스타일에 완벽히 어울릴 뿐만 아니라, 날렵한 전투 우위를 더 확대할 수 있다. 페니는 가장 순수하고 맑은 마음으로 분석가의 정에 보답할 것이다.	Developed by the Yggdrasil R&D Department for Fenny, this Pureheart exosuit is a perfect extension of her passionate combat style, enhancing her dynamic advantages. Every move becomes her purest answer to the Adjutant's devotion — clear, sincere, and direct.						0	3.2新角色
+skin08401_use	默认	預設	デフォルト	기본 스킨	Default						0	3.2新角色
+skin08402	夕晖蜜约	夕暉蜜約	蜜味の夕焼け	달콤한 노을	Sunset Sweet						0	3.2新皮肤
+skin08402_des	可别把这当成正餐哦，等达令品尝过我亲手准备的开胃甜品后，今晚才算正式开始。	可別把這當成正餐哦，等達令品嚐過我親手準備的開胃甜品後，今晚才算正式開始。	これがメインディッシュだなんて思わないでね。ダーリンがあたしの手作り前菜を味わってからが、今夜の始まりよ。	이걸 메인 요리라고 생각하지 마. 달링이 내가 준비해 준 애피타이저 디저트를 먹어야, 오늘 밤이 진짜 시작되는 거니까.	This isn't the main course yet, darling! The night doesn't truly begin until you try the dessert I made just for you~						0	3.2新皮肤
+skin08402_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2新皮肤
+skin08403	颂夜欢歌	頌夜歡歌	聖夜の鈴	미드나이트 캐럴	Jingle of Joy						0	3.4新皮肤
+skin08403_des	咳，咳咳……达令，你来啦。是、是这样的，今年的星祈节活动的第一项，猜猜本小姐用最高级的丝带绑了什么给你……呜，先帮我解开啦——	咳，咳咳……達令，你來啦。是、是這樣的，今年的星祈節活動的第一項，猜猜本小姐用最高級的絲帶綁了什麼給你……嗚，先幫我解開啦——	…ゴホッ…来たのね、ダーリン。今年の星祈祭の最初のイベントとして、このあたしが最上級のリボンでサプライズを用意してあげたのよ。それはなんだと……うう、早く解いて——	콜록, 콜록콜록… 달링, 왔구나. 그, 그게, 올해 성원절 이벤트의 첫 번째 항목, 이 몸이 최고급 리본으로 뭘 묶어서 가져왔는지 맞혀볼래…? 힝, 먼저 풀어줘…	Ahem... Darling, you're here! Mmm... here's the first gift of Starwish Day. Guess what I've wrapped with the most exquisite ribbon for you... Hurry, untie me~!						0	3.4新皮肤
+skin08403_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.4新皮肤
+skin08404	轻纱暖寐	輕紗暖寐	サテンの感触	실크 라인	Silky Slumber						0	3.6新皮肤
+skin08404_des	达令～房间和衣服都是我设计的新风格喔！戳——猜猜哪里我最用心？	達令，房間和衣服都是我設計的新風格喔！戳——猜猜哪裡我最用心？	ダーリン見て！ この部屋も、この洋服も、全部あたしがデザインした新しいスタイルよ！ねぇ～、一番こだわったとこ……当ててみて？	달링~ 내가 방이랑 옷을 다 새로운 스타일로 디자인했어! (볼 찌르기) 맞혀봐, 내가 어디에 제일 정성 들였게?	Darling~ Check out the refreshing style I used to design the room and these clothes! *poke—* Guess where I put in the most effort?						0	3.6新皮肤
+skin08404_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	3.6新皮肤
+skin10101	肴	肴	肴	야오	Yao						0	
+skin10101_des	从军方跳槽加入的精英狙击手。\n曾以“绝不加班，早睡早起，作息规律，安全第一”为信条。如今，为了心爱的分析员，肴开始一改往昔懒散形象，无论是海姆达尔的事业还是对分析员的爱情，都开始卷起来了。	從軍方跳槽加入的精英狙擊手。\n曾以「絕不加班，早睡早起，作息規律，安全第一」為信條。如今，為了心愛的分析員，肴開始一改往昔的懶散形象，無論是海姆達爾的事業還是對分析員的愛情，都開始捲起來了。	元軍人で、エリートスナイパーとしての経歴を持つ。\nかつては「絶対に残業せず、早寝早起き、規則正しい生活、安全第一」をモットーにしていたが、今では愛する分析員のために、昔のだらけた姿を一変させた。ヘイムダルでの仕事も、分析員との愛情も、「やる気」満々で取り組んでいる。	군대에서 이직한 엘리트 저격수.\n한때 '칼퇴근', '건강한 수면 사이클', '규칙적인 생활 패턴', '안전제일'을 최우선으로 여겼던 그녀가 최근에는 사랑하는 분석가를 위해 예전의 나태한 모습을 과감히 벗어던지고, 헤임달 부대의 업무와 분석가에 대한 사랑에 모든 열정을 쏟기 시작했다.	A former military sniper.\nYao lives by a simple code: no overtime, get an early night, stay as safe as you can. But now, for her beloved Adjutant, Yao's totally flipped the script. Whether it's her job with Heimdall or her feelings for the Adjutant, she's all in now.						0	
+skin10101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin10102	工作宗旨	工作宗旨	仕事の目的	워크 모토	Work Goal						0	
+skin10102_des	打工人就得时时刻刻具有较强的自我管理意识。没错，就现在，收拾好文件，准点下班！	上班族就得時時刻刻具備較強的自我管理意識。沒錯，就是現在，收拾好文件，準時下班！	働き者はどんな時でも自己管理意識を持たなければならない。そう、今だ。ファイルを整理して、定時退社！	직장인이라면 항상 케어 관리에 신경 써야 하는 법. 오케이! 그럼 이제 정리하고, 칼퇴근해볼까!	Workers should always manage themselves. That's right — now put away your documents and get off work on time!						0	
+skin10102_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin10103	不灭残辉	不滅殘輝	不滅の残業	불멸의 빛	Enduring Valor						0	
+skin10103_des	喂？虽然遇到点麻烦，不过不用担心，目标已经顺利被我解决。记得多帮我申请点外勤补贴！	喂?雖然遇到了小麻煩，但是不用擔心，我已經順利解決目標了，記得多幫我申請外勤津貼!	もしもし？ちょっと手こずったけど、心配しなくても大丈夫、目標はすでにうまく解決したよ。外勤手当を多めに申請するの、忘れないでね！	여보세요? 골치 아픈 일이 좀 있지만, 걱정할 필요 없어. 타깃은 이미 순조롭게 해결했거든~ 야근 수당 신청해주는 거 잊지 말고!	Hey. I ran into some trouble, but don't worry, I was able to defeat the target. Just remember to help me apply for some extra per diem!						0	
+skin10103_use	通过甄选好物商店购买获得	透過甄選好物商店購買獲得	特選逸品で購入して獲得	[페이버릿 픽] 상점 구매로 획득	Obtained through purchase in Choice Products.						0	
+skin10104	生活宗旨	生活宗旨	生活の目的	라이프 모토	Life Goal						0	3.5新皮肤
+skin10104_des	郎——君——保持张弛有度的心态，才能一起更好地享受生活呀~	郎——君——保持張弛有度的心態，才能一起更好地享受生活呀~	旦那、無理しすぎないほうが、毎日もっと楽しめるんだよ～。	낭~ 군~ 편안한 마음가짐을 유지해야 더 나은 삶을 즐길 수 있지~	My~ Prince~ Go easy on yourself, and we'll enjoy life together even more~						0	3.5新皮肤
+skin10104_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	3.5新皮肤
+skin10201	肴-冬至	肴-冬至	肴-冬至	야오-동지	Yao - Winter Solstice						0	
+skin10201_des	灼热如阳，高功率能量外骨骼“冬至”，在太阳最低的时刻触摸烈焰。	灼熱如陽，高功率能量外骨骼“冬至”，在太陽最低的時刻觸摸烈焰。	高出力エネルギー型戦術装備「冬至」は、太陽のような灼熱の力を放つ。\n最も暗い冬至の瞬間に炎をまとい、圧倒的な攻撃力を発揮する。	태양처럼 뜨거운 고출력 에너지를 품고 있는 전술 슈트 '동지'. 태양이 가장 낮게 떠오른 순간, 뜨거운 화염을 어루만진다.	Radiating the heat of the sun, the high-powered "Winter Solstice" exosuit grasps the sun's flames as it touches the horizon.						0	
+skin10201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin10202	雪岭焰行	雪嶺疾行	氷原疾駆	스노우 슬레딩	Snowridge Sledding						0	
+skin10202_des	看见我出来运动就这么惊讶？别忘了，我可是冬至出生的~	看到我出來運動有那麼驚訝？別忘了，我可是冬至出生的～	ん？ダラダラちゃんが体動かしてるの珍しいとか思った？残念、冬至生まれちゃんでした。	내가 운동하러 나온 게 그렇게 놀랄 일이야? 내 생일은 동지라는 걸 잊지 말라고~	Surprised to see me so active in such cold weather? Don't forget, I was born on the winter solstice.						0	
+skin10202_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin10203	粼粼尾浪	浪潮粼粼	夏季休暇専用	스파클링 스웰	Sparkling Swell						0	
+skin10203_des	毫无负担的全身心放松，这，就是我梦寐以求的完美假日！	身心靈全然放鬆，這!就是我夢寐以求的完美假期!	有給！リラックス！心も体も、ウルトラスーパーエクストリームリッラーークス！はぁ……最高か……？完全完璧パーペキエクセレント有給すぎるぞ……！！	모든 부담을 내려놓고 몸과 마음의 긴장을 푸는 것, 이게 바로 내가 꿈꾸는 완벽한 휴가랄까!	No work, no stress, only rest and relaxation... This is the perfect vacation I've been dreaming about!						0	
+skin10203_use	通过供应站回馈活动获得	透過供應站回饋活動獲得	配給所還元イベントで獲得	공급 센터 보상 이벤트로 획득	Obtained from Quartermaster Rebate event.						0	
+skin10204	暧馨侍奉	曖馨侍奉	温かなご奉仕	정갈한 메이드	Tidy Marksmaid						0	2.7新皮肤
+skin10204_des	为了让分析员的房间整洁又温馨，我可下了大功夫——所以，夸夸我呗？	為了讓分析員的房間變得整潔又溫馨，我可下了大功夫——所以，誇誇我唄？	分析員の部屋をきれいで居心地よくするために、私、一生懸命頑張ったんだよ！だから～、褒めてくれてもいいんだよ？	분석가의 방을 깔끔하고 아늑하게 만들기 위해 많은 노력을 들였는데… 칭찬해 줄 수 있을까?	I've worked super hard to make your room spotless and cozy, Adjutant. Aren't I a good maid?						0	2.7新皮肤
+skin10204_use	通过供应站回馈活动获得	透過供應站回饋活動獲得	配給所還元イベントで獲得	공급 센터 보상 이벤트로 획득	Obtained from Quartermaster Rebate event.						0	2.7新皮肤
+skin10301	肴-夜天光	肴-夜天光	肴-夜天光	야오-나이트 글로우	Yao - Nightglow						0	2.5新角色
+skin10301_des	在与舍塔对战前的最后时刻完成开发的全新战术套装，能够短时间内爆发肴的战斗力，展现肴更为积极勤奋的一面。这套装备外观上的不对称及镂空设计也让肴看起来更加精神。	在與θ對戰前的最後時刻完成開發的全新戰術套裝，能夠短時間內爆發肴的戰鬥力，展現肴更為積極勤奮的一面。這套裝備塗裝上的不對稱及鏤空設計也讓肴看起來更有精神。	「夜天光」は、θ（シータ）との最終決戦に備えて開発された新型戦術装備。肴（ヤオ）が着用することで、短時間で戦闘力が飛躍的に向上し、積極的に戦闘に取り組むようになる。\nそのアシンメトリーと透かし彫りを取り入れたデザインは、肴のエネルギッシュ一面をさらに際立たせる。	θ와 전투 전 마지막 순간에 개발된 신형 전술 슈트로, 단시간에 강력한 전투력을 발휘할 수 있으며, 이를 통해 더 적극적이고 근면한 야오의 모습을 확인할 수 있다. 비대칭에 투시적인 디자인은 야오를 더욱 생기 있어 보이게 한다.	A tactical exosuit developed just before the fight with θ broke out. It boosts Yao's combat strength in short bursts, revealing a more energetic and diligent side. The asymmetry and openwork design give her a more spirited look.						0	2.5新角色
+skin10301_use	默认	預設	デフォルト	기본 스킨	Default						0	2.5新角色
+skin10302	暖夜情醺	暖夜情醺	美酒佳肴	황홀한 밤의 여운	Tender Temptation						0	2.5新皮肤
+skin10302_des	喝完这杯，我可就要醉了——醉倒的人，做什么都可以吧？	喝完這杯，我可就要醉了——醉倒的人，做什麼都可以吧？	この一杯を飲んだら多分酔うけど——酔っ払いは何をしても許されるよね？	이 잔을 다 마시면, 나는 취하게 될 거야… 취한 사람은 뭐든지 할 수 있는 거지?	I'll be tipsy after this drink... and when that happens, anything's allowed, right?						0	2.5新皮肤
+skin10302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.5新皮肤
+skin10303	共待曙明	共待曙明	二人の黎明	경계의 여명	Vigilant Dawn						0	3.1新皮肤
+skin10303_des	能和郎君你并肩迎接长夜后的曙光，就是我作为你的骑士，最大的荣耀。	能和郎君你並肩迎接長夜後的曙光，就是我作為你的騎士，最大的榮耀。	長い夜を越え、共に夜明けを迎える。それが、あんたの騎士としての最大の誇りだ。	낭군과 함께 긴 밤을 지나 여명을 맞이할 수 있다는 건, 낭군의 기사로서 내가 가질 수 있는 가장 큰 영광이야.	As your sworn blade, I claim no higher glory than to stand with you at the breaking dawn, My Prince.						0	3.1新皮肤
+skin10303_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.1新皮肤
+skin10304	暖雾凝眸	暖霧凝眸	夢霧	레이스의 응시	Gaze of Lace						0	3.3新皮肤
+skin10304_des	晚饭吃过了，澡也洗过了，接下来要做什么，郎君一定比我清楚吧~	晚飯吃過了，澡也洗過了，接下來要做什麼，郎君一定比我清楚吧~	晩ご飯食べたし、お風呂も入ったし…旦那～、このあと何をすればいいか…わかるでしょ？	저녁도 먹었고 목욕도 했으니, 이제 뭘 해야 할지 낭군이 나보다 더 잘 알 것 같은데~	A good meal, a refreshing bath... I'm sure you know what comes next, My Prince~						0	3.3新皮肤
+skin10304_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	3.3新皮肤
+skin10401	肴-金乌										0	3.7新皮肤
+skin10401_des	由肴亲自定制，公司研发部开发并交给恒沙最终升级的战术套装。它可高效吸收积蓄太阳的能量，用于攻击与战术机动，还搭载多架战术无人机辅助作战。积蓄后爆发，正是肴的生存之道。对她而言，冬季与夜晚皆已过去，如今是太阳力量鼎盛的盛夏。										0	3.7新皮肤
+skin10401_use	默认	預設	デフォルト	기본 스킨	Default						0	3.7新皮肤
+skin10402	共寝月漪										0	3.7新皮肤
+skin10402_des	休息，当然是我更在行啦~这张床的哪个位置躺着最舒服，郎君想试试吗？										0	3.7新皮肤
+skin10402_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.7新皮肤
+skin11101	恩雅	恩雅	エンヤ	엔야	Enya						0	
+skin11101_des	曾经是幼儿保育员，经常把大家看做需要照顾的孩子。平时很温柔，关键时刻手段比任何人都强硬。	曾經是幼兒保姆，經常把大家當成需要照顧的孩子。平時很溫柔，關鍵時刻手段比任何人都強硬。	元保育士で、よくみんなを世話が必要な子どものように扱う。普段はとても優しいが、いざというときは誰よりも厳しい。	과거 보육사로 일했던 것이 행동에 배겨, 모든 사람들을 마치 돌봐야 할 어린아이처럼 여긴다. 평소에는 온순하고 따듯해 보이지만, 결정적인 순간에는 어느 누구보다 강경하게 행동한다.	A former childcare worker, she often sees others as kids that need to be looked after. She's usually very gentle but is tougher than anyone else at critical moments.						0	
+skin11101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin11102	情迷炎日	迷情烈日	お姉サマー	미스 선샤인	Sultry Sunshine						0	
+skin11102_des	难得的假期，在沙滩上搭遮阳伞然后喝冰水，很棒吧。怎么样，分析员要过来和我一起乘凉吗？	難得的假期，在沙灘上搭起遮陽傘然後喝冰飲實在太棒了~分析員要過來跟我一起乘涼嗎?	ビーチでパラソル、そして美味しいフローズンドリンク！分析員さ～ん！こっちにおいで～♪お姉さんと一緒に最高の夏を楽しもうね～！	모처럼의 휴일이네. 모래사장에서 파라솔을 치고 시원한 물을 마시니까 너무 좋은 걸? 어때, 분석가도 나랑 함께 바람 쐬지 않을래?	Ahhh, a long-awaited vacation — I just love relaxing under an umbrella on the beach and having an ice-cold drink after some time in the hot sun. Adjutant, how about you come over and cool off with me?						0	
+skin11102_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin11103	不灭柔情	不滅柔情	不滅の温情	불멸의 애정	Unceasing Care						0	3.6新皮肤
+skin11103_des	在火光与拯救中磨练的意志，正是分析员教给我的东西！	在火光與拯救中磨練的意志，正是分析員教給我的東西！	戦火と救いの現場で鍛えた意志――それは分析員に教えていただいたものです！	불꽃과 구원 속에서 단련된 의지, 그게 바로 분석가가 나에게 가르쳐준 것이야!	The resolve I've honed in fire and salvation... You taught me that very resolve, Adjutant!						0	3.6新皮肤
+skin11103_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	3.6新皮肤
+skin11201	恩雅-羽蜕	恩雅-羽蛻	エンヤ-羽化の儀	엔야-엑수비아	Enya - Exuvia						0	
+skin11201_des	“羽蜕”是世界树研发部根据恩雅的自身特点为其开发的全新战术套装。在适应性测试期间，恩雅为守护分析员发挥其潜力，完成了实力与心态上的双重蜕变。	「羽蛻」是世界樹研發部根據恩雅的自身特徵為其開發的全新戰術套裝。在適應性測試期間，恩雅為守護分析員發揮其潛力，完成了實力與心境上的雙重蛻變。	「羽化の儀」はユグドラシル開発部がエンヤの特徴に合わせて開発した新しい戦術装備である。\n適合テスト期間中、エンヤは分析員を守るために潜在能力を引き出し、実力と心の二重成長を成し遂げた。	 ‘엑수비아'는 위그드라실 연구부가 엔야의 자체적인 특성을 기반으로 개발한 신형 전술 슈트다. 적응력 테스트 중 분석가를 지키기 위해 잠재력을 발휘한 엔야는 힘과 정신력의 이중 변신을 완성했다.	Exuvia is a tactical exosuit developed specifically for Enya by Yggdrasil's R&D Department. During in-the-field adaptive testing, the exosuit enabled Enya to reach her full physical and mental potential in order to protect the Adjutant.						0	
+skin11201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin11202	轻语疗法	輕語療法	ウィスパーキュア	키스 테라피	Kiss Be the Remedy						0	
+skin11202_des	请放心地休息吧，我会一直守在你身边的，没有什么能比照顾分析员更重要。	請放心地休息吧，我會一直守在你身邊的，沒有什麼能比照顧分析員更重要。	安心してお休みください。私がそばにいます。分析員のお世話よりも大事なことはありませんから。	마음을 차분히 내려놓고 충분히 쉬어. 내가 항상 분석가 곁에 있어줄게. 분석가를 돌보는 것보다 더 중요한 일은 없다고.	Rest assured, Adjutant. I will be right here with you. Taking proper care of you is the only thing I care about now.						0	
+skin11202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin11203	浅憩之处	淺憩之處	安心のひと息	편안한 쉼터	Seacove Serenity						0	
+skin11203_des	需要休息的时候，就来姐姐的身边吧。	需要休息的時候，就來姊姊的身邊吧。	休みたくなったら、お姉さんのところにおいで。	쉬고 싶을 때는 누님 곁으로 와.	When you need a moment of peace, just come rest your head on me~						0	
+skin11203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin11204	专属教练	專屬教練	ヨガメンター	전속 코치	Exclusive Trainer						0	
+skin11204_des	适当伸展身体可以清除工作带来的疲劳，来吧，我会手把手教分析员标准动作的。	適當伸展身體可以清除工作帶來的疲勞，來吧，我會手把手教導分析員標準動作的。	適度にストレッチをすると、仕事の疲れが抜けますよ。さあ、私が手取り足取り、分析員に基本の動きを教えますね。	적절한 스트레칭은 업무로 인한 피로를 해소할 수 있지. 이제 분석가에게 스트레칭을 손수 가르쳐볼까나.	A good stretch can help relieve all those aches and fatigue from work. Come on! I'll guide you through the moves to ensure you keep proper form, Adjutant~						0	
+skin11204_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin11301	恩雅-澜风	恩雅-瀾風	エンヤ-瀾風	엔야-템페스트	Enya - Tempest						0	2.6新角色
+skin11301_des	恩雅在心理评估测试中展现出卓越的心理稳定性，这让她得以在短时间内完成“澜风”的适应性训练，并始终能以平常心驾驭这套如风一般无常多变的战术套装。	恩雅在心理評估測驗中展現出卓越的心理穩定性，這讓她得以在短時間內完成「瀾風」的適應性訓練，並且始終能以平常心駕馭這套如風一般無常多變的戰術套裝。	心理評価で高い精神的安定性を示したエンヤは、戦術装備「瀾風（らんぷう）」の適合テストを短期間でクリアした。\n「瀾風」は風のように変幻自在な戦術スタイルを特徴とするが、エンヤは常に冷静沈着にこれを操る。	엔야는 심리 평가 테스트에서 뛰어난 심리적 안정성을 보여주었고, 덕분에 짧은 시간 안에 '템페스트' 적응 훈련을 마칠 수 있었다. 또한, 그녀는 언제나 평온한 마음을 지니고 있어서 그런지, 바람처럼 변덕스럽고 다채로운 전술 슈트를 손쉽게 다루었다.	Enya exhibited remarkable composure during psychological evaluations, enabling her to swiftly complete adaptive training for her new Tempest exosuit. She retained her poise while adeptly mastering the dynamic, wind-like tactical gear.						0	2.6新角色
+skin11301_use	默认	預設	デフォルト	기본 스킨	Default						0	2.6新角色
+skin11302	望云清咏	望雲清詠	雲への告解	청아한 선율	Pure Devotion						0	2.6新皮肤
+skin11302_des	以言语灌注期冀，以咏叹描绘心愿。将我的心寄托于云，每天、每天，都陪在你的身边……	以言語灌注期冀，以詠嘆描繪心願。將我的心寄託於雲，每天、每天，都陪伴在你的身邊……	言葉で希望を注ぎ、詠嘆で願いを描く。私の心を雲に託し、毎日、毎日、分析員のそばに寄り添い続けます……	언어로 희망을 가득 채우고, 노래로 마음의 소망을 그리네. 내 마음을 구름에 실어, 매일매일 너와 함께하길 바라며…	I pour out my hopes in humble words, and express my heart through earnest song — to the clouds above, I plead that every day I may be by your side...						0	2.6新皮肤
+skin11302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.6新皮肤
+skin11303	秘密侍奉	秘密侍奉	秘密ご奉仕	시크릿 메이드	Intimate Maid						0	3.0新皮肤
+skin11303_des	嘘——分析员，偶尔被这样小小地“恶作剧”一下，或许可以放松身心哦？	噓——分析員，偶爾被這樣小小地「惡作劇」一下，或許可以放鬆身心哦？	しーっ……、たまにこういうちょっとした『イタズラ』、リラックスできますよ、分析員～	쉿… 분석가, 가끔 이렇게 작은 '장난'을 치는 것도, 스트레스 해소에 도움이 될 거야.	Shhh~ Adjutant, sometimes a little fun like this can help you relax a bit. Do you like it?						0	3.0新皮肤
+skin11303_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0新皮肤
+skin11304	恋恋秋行	戀戀秋行	ゆく秋の語らい	가을의 동행	Fall for You						0	3.4新皮肤
+skin11304_des	秋天最棒的回忆，就是与分析员一起漫步在铺满秋叶的小道上。	秋天最棒的回憶，就是與分析員一起漫步在鋪滿秋葉的小道上。	秋の一番の思い出は、分析員と肩を並べて、落ち葉に覆われた小道を歩いたことですよ。	가을의 가장 좋은 추억은 분석가랑 함께 단풍으로 덮인 길을 걷는 거야.	Strolling with the Adjutant along this golden, leaf-strewn path is my most cherished memory of autumn.						0	3.4新皮肤
+skin11304_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	3.4新皮肤
+skin12101	猫汐尔	貓汐爾	マーシル	캣 시에라	Mauxir						0	
+skin12101_des	拉美西斯集团研发人员，有着句尾带“喵”的可爱习惯。\n曾患有无痛症，在调查联邦疗养院的行动中，痛觉开始逐渐恢复。	拉美西斯集團研發人員，有著句尾帶“喵”的可愛習慣。\n曾患有無痛症，在調查聯邦療養院的行動中，痛覺開始逐漸恢復。	ラムセスグループの元開発者で、現在はヘイムダル部隊の隊員。\n語尾に「ニャン」を付ける可愛らしい癖がある。\nかつて無痛症を患っていたが、イェロシャ連邦療養センターでの作戦任務中に痛覚が戻り始めた。	람세스 그룹의 연구원으로, 말끝에 '냥'을 붙이는 귀여운 습관이 있다.\n과거에 무통증을 앓았고, 연방 요양원을 조사하던 과정에 통각이 점차 회복되기 시작했다.	A researcher of Ramses Group. She has a cute habit of adding a meow sound to the end of her sentences.\nShe once suffered from congenital analgesia, but gradually began to regain her pain perception during the operation at the Federal Sanatorium.						0	3.4猫汐尔描述修改
+skin12101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin12102	魂灵缚痕	魂靈縛痕	魂の束縛	영혼의 속박	Echoes of Souls						0	
+skin12102_des	不太明白。生命是如何在荒芜沙地里繁衍的？为什么，它们要选择这样的生存方式呢？	不太明白。生命是如何在荒蕪沙地裡繁衍的？為什麼，它們要選擇這樣的生存方式呢？	よく分からない。何もない砂漠でどうやって命が繁栄することができたのだろう？なぜこんな生き方を選択したのだろう？	잘 모르겠다냥. 생명은 어떻게 황폐한 사막에서도 번식할 수 있는 건가? 왜 그런 생존 방식을 선택하는 건가?	I don't get it — how do living creatures thrive in barren deserts? And why do they choose to live that way?						0	
+skin12102_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin12103	不灭灵影	不滅靈影	不滅の霊影	불멸의 영혼	Undying Spirit						0	3.1新皮肤
+skin12103_des	这只是必要的战斗数据收集过程，不用担心喵。伤口？……我以后会注意的。	這只是必要的戰鬥資料收集過程，不用擔心喵。傷口？……我以後會注意的。	これは戦闘データ収集のために必要なプロセス、心配いらないニャ。傷？……次からは気をつける。	이건 그냥 필요한 전투 데이터를 수집하는 과정이니, 걱정하지 말라냥. 상처? … 앞으로는 주의할게.	It's just essential combat data collection, no need to worry, nya. Hmm, the wound? I'll be more careful next time.						0	3.1新皮肤
+skin12103_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	3.1新皮肤
+skin12104	叶影花槛										0	3.7新皮肤
+skin12104_des	风声、叶子摩擦的声音、花瓣的香气，太阳的味道……分析员，要不要和我一起，小睡一下喵？										0	3.7新皮肤
+skin12104_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	3.7新皮肤
+skin12201	猫汐尔-溯影	貓汐爾-溯影	マーシル‐トレーサビリティ	캣 시에라-트레이스	Mauxir - Shadow Ka						0	
+skin12201_des	世界树公司为猫汐尔开发的战术套装，搭载了新型战术分身模组，经由与神格神经相连接，使其辅助机具备了“化形”的能力。这台辅助机被猫汐尔称为“小凯贝”。	世界樹公司專為貓汐爾開發的戰術套裝，搭載了新型戰術分身模組，其輔助機可藉由與神格神經連接來發揮「化形」的能力。這台輔助機被貓汐爾稱為「小凱貝」。	ユグドラシル社がマーシルのために開発した戦術装備。新型戦術分身モジュールを搭載し、神格神経と接続することで補助機の「変形」機能を起動できる。\nこの補助機は、マーシルによって「ケベちゃん」と名付けられている。	위그드라실에서 캣 시에라를 위해 개발한 전술 슈트로 새로운 전술 분신 모듈을 장착했으며, 만트라 신경과 연결함으로써 보조 장치가 '변형' 능력을 갖출 수 있게 만들었다. 캣 시에라는 해당 보조 장치를 '리틀 카이베'라고 부른다.	A tactical exosuit developed by Yggdrasil Enterprises specifically for Mauxir, it is equipped with a brand new tactical robot module. A connection between the robot and the wearer's Theotropic Nerves gives it the ability to transform. Mauxir endearingly calls the robot "Kebechet."						0	
+skin12201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin12202	灼阳假期	炙熱假期	海ネコちゃん	버닝 홀리데이	Sizzling Holiday						0	
+skin12202_des	你们人类，原来会喜欢在不适于生存的高温中直接暴露出自己皮肤，为了放松和度假？不，我才不要学习这种心情置换方式喵……	你們人類喜歡在不適於生存的高溫環境下露出皮膚曝曬，就只是為了放鬆心情渡假?不，我才不要學習這種轉換心情的方式喵......	君ら人間は休暇でリラックスするために、耐え難い暑さの中で自分の肌を直接露出する……そういう気分転換の方法、理解できない、ニャ……	너희 인간들은 긴장을 풀고 휴가를 보내기 위해 원래부터 이렇게 활활 타오르는 곳에서 자신의 피부를 노출시키는 걸 좋아하는 건가? 음, 난 그런 방식의 기분 전환은 따라 하지 않겠다냥…	Why do you humans like to expose so much skin to direct sunlight in such a hot environment? And you call this a relaxing vacation...? No, I think there are more suitable ways for me to optimize my mood.						0	
+skin12202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin12203	喵步巧跃	貓步巧躍	猫脚ジャンプ	사뿐한 도약	Feline Grace						0	
+skin12203_des	不是猫咪杂技，是看上去像猫咪的体术动作喵，你还想再看一遍？好吧喵。	不是貓咪雜技，是看起來像貓咪的體術動作喵，你還想再看一次？ 好吧喵。	猫の手品じゃなくて、猫に見える体術ニャン。もう一回みたい？分かったニャ。	고양이 서커스가 아니라, 고양이처럼 보이는 체조 동작이다냥. 다시 보고 싶다고? 알겠다냥.	A cat trick? Nya, it's a close-quarters combat technique, though the agile flexibility is reminiscent of a feline... You want to see it again? Okay, nya~						0	
+skin12203_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin12301	猫汐尔-莲驱	貓汐爾-蓮驅	マーシル-蓮	캣 시에라-로터스	Mauxir - Lotus						0	3.4新皮肤
+skin12301_des	“莲驱”由猫汐尔本人亲自参与，协同研发部共同开发，该战术套装配备了以“水之影”为外观灵感的战术分身模组。此外，头顶装置集成了多种侦测设备，特化了感知和侦察能力，在战场信息收集和即时处理方面更具优势。	「蓮驅」由貓汐爾本人親自參與，協同研發部共同開發，該戰術套裝配備了以“水之影”为外觀靈感的戰術分身模組。此外，頭頂裝置集成了多種偵測設備，特化了感知和偵察能力，在戰場信息收集和即時處理方面更具優勢。	「蓮」はマーシルが開発部と共同開発した戦術装備。「水の影」を模した戦術分身モジュールを搭載し、頭部に備えた猫耳型の特殊装置には、従来を大きく上回る感知・偵察モジュールがぎっしり詰め込まれている。戦場情報の収集と瞬時の判断・対応を極めた、最新鋭の戦術装備だ。	캣 시에라가 직접 개발 과정에 참여해 개발부와 함께 개발한 전술 슈트 '로터스'에는 '수중 그림자'에서 영감을 받은 전술 분신 모듈이 탑재되어 있다. 또한 머리 부분의 장치에는 다양한 정찰 장비가 통합되어 있어 인지 및 정찰 능력이 특화되며, 전장에서의 정보 수집과 실시간 분석에 더욱 뛰어난 성능을 보여준다.	Developed by Mauxir with the support of the R&D Department, the Lotus exosuit features a tactical drone module inspired by the "shadow lotus" flower. Additionally, her head-mounted device integrates multiple detection systems that enhance perception and reconnaissance, giving her a clear advantage in battlefield intelligence and real-time processing.						0	3.4新皮肤
+skin12301_use	默认	預設	デフォルト	기본 스킨	Default						0	3.4新皮肤
+skin12302	喵语祈念	喵語祈念	祈る子猫	냥이의 기도	Purrfect Prayer						0	3.4新皮肤
+skin12302_des	祈福的祝词太长了所以记不住喵……但是，希望一切好运都发生在分析员身上的心情是真心的喵。	祈福的祝詞太長了所以記不住喵……但是，希望一切好運都發生在分析員身上的心情是真心的喵。	祈りのセリフが長すぎて覚えられないニャン……でも、分析員にこの世の全ての幸運が訪れますようにって気持ちは、紛れもない本物ニャン。	기도 문구가 너무 길어서 기억이 안 난다냥… 하지만 분석가에게 행운이 넘치길 바라는 마음은 진심이다냥.	The blessing is too long to remember, nya... but my wish for all the good luck to come to you is sincere, nya.						0	3.4新皮肤
+skin12302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.4新皮肤
+skin13101	瑟瑞斯	瑟瑞斯	シーリス	세리스	Siris						0	
+skin13101_des	早前曾在世界树脑科学实验室实习，有选择性失忆症，随时都在录音做记录。	早前曾在世界樹腦科學實驗室實習，有選擇性失憶症，隨時都在錄音做記錄。	以前ユグドラシル社の脳神経研究室で実習していた事があり、解離性健忘を患っているため、常に録音記録している。	일찍이 위그드라실 뇌과학 실험실에서 실습한 경험이 있다. 선택적 기억상실증을 앓고 있어 수시로 녹음을 통해 모든 것을 기록한다.	Once interned at the Yggdrasil Neuroscience Lab. She has selective memory loss and always keeps a voice recorder with her.						0	
+skin13101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin13103	不灭恒忆	不滅恆憶	不滅の想い	불멸의 기억	Persistent Memory						0	2.8新皮肤
+skin13103_des	为了守护那些与你一同留下的、无比重要的记忆，我会突破一切无望的困境。	為了守護那些與你一同留下的、無比重要的記憶，我會突破一切無望的困境。	分析員と一緒に作った、かけがえのない思い出を守るために、どんな絶望的な困難でも乗り越えてみせる。	너와 함께 남겨진 중요한 기억들, 난 그것들을 지키기 위해 모든 곤경을 타파할 거야.	To protect the precious memories we've made together, I'll overcome every obstacle, no matter how daunting.						0	
+skin13103_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin13201	瑟瑞斯-瞬刻	瑟瑞斯-瞬刻	シーリス-刹那	세리스-크샤나	Siris - Ksana						0	
+skin13201_des	瑟瑞斯在前往新恒提罗前获得了新型战术套装“瞬刻”。虽然看起来有些显眼，但它可以帮助瑟瑞斯更好地应对突发情况。\n最重要的不是过去的记忆，而是记住当下的瞬间。	瑟瑞斯在前往新恆提羅之前獲得了新型戰術套裝「瞬刻」。雖然看起來有些顯眼，但它可以幫助瑟瑞斯更好地應對突發情況。\n最重要的不是過去的記憶，而是記住當下的瞬間。	シーリスはニューガントラに向かう前に、新型の戦術装備「刹那」を手に入れた。見た目はやや人目につくが、これで緊急事態により効果的に対処できる。\n「過去の記憶ではなく、今の瞬間に目を留めよう。」	세리스는 뉴헨틸로에 향하기 전에 신형 전술 슈트 '크샤나'를 받았다. 전술 슈트의 외형이 다소 눈에 띄긴 하지만, 세리스가 긴급 상황을 더 잘 대처할 수 있도록 도와줄 수 있다.\n그녀에게 가장 중요한 것은 과거의 기억이 아니라 현재를 기억하는 것이다.	A brand-new tactical exosuit that Siris received before embarking on the mission to New Hentiro. Not simply a shiny new toy, it helps her better handle any surprises enemies might throw at her.\nRemembering the past isn't as important as remembering the present moment.						0	
+skin13201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin13202	须臾蹁跹	須臾婆娑	一時の儚き夢	순간의 자태	Flutter of Ecstasy						0	
+skin13202_des	分析员，我想我已经学会了……怎么欣赏那些短暂的美丽。	分析員，我想我已經學會了……如何欣賞那些短暫的美麗。	分析員、束の間の美しさを楽しむ方法が……分かった気がする。	분석가님, 이제서야 터득한 것 같아요… 어떻게 해야 순간의 아름다움을 감상할 수 있는지.	Adjutant, I think I've learned how to savor the beauty that doesn't last.						0	
+skin13202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin13203	瞬刻妩态	瞬刻嫵態	麗質	매력의 순간	Charming Moment						0	
+skin13203_des	偶尔也想试试比较成熟风格的颜色，分析员觉得怎么样呢？适合我吗？	偶爾也想試試比較成熟風格的顏色，分析員覺得怎麼樣呢？適合我嗎？	たまには大人っぽい色も試してみたいなって思って......どうかな？ 似合う？	가끔은 좀 더 성숙한 스타일의 색상을 시도해보고 싶어요. 어떻게 생각하세요? 제게도 잘 어울릴까요?	Sometimes I like to try a more mature color. What do you think, Adjutant? Does it suit me?						0	
+skin13203_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin13204	斑斓水色	斑斕水色	彩る水の綾	화려한 물색	Underwater Hues						0	
+skin13204_des	记忆的载体不只是声音和文字，也可以是……嘿嘿，我们一起在水族馆买的限定纪念品！	記憶的載體不只是聲音和文字，也可以是……嘿嘿，我們一起在水族館買的限定紀念品！	記憶の形は、音や文字だけじゃなくて……えへへ、一緒に水族館で買った限定記念品もだよ！	기억의 매개체는 단순히 소리와 글자가 아니라, 어쩌면 수족관에서 함께 구입했던 한정 기념품일 수도 있어요!	Memories aren't only stored in voice memos and journals. They can also be carried in... those limited-time souvenirs we bought together at the aquarium! Hehe~						0	
+skin13204_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin13205	纯白午后	純白午後	Innocent 15:33	순백의 오후	Creamy Delight						0	2.5新皮肤
+skin13205_des	分析员，啊——嘿嘿，我一直很想试试这么做。接下来，轮到分析员啦。	分析員，啊——嘿嘿，我一直很想試試這麼做。接下來，輪到分析員囉。	分析員、あーんして。えへへ。ずっとやってみたかったんだ。次は分析員の番だよ。	분석가님, 아… 헤헤, 항상 이렇게 해보고 싶었어요. 이어서 분석가님 차례에요.	Adjutant, ahhh— Hehe, I've been wanting to try this for so long. Now, it's your turn.						0	2.5新皮肤
+skin13205_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	2.5新皮肤
+skin13301	瑟瑞斯-悠游	瑟瑞斯-優游	シーリス-天遊	세리스-프리핀	Siris - Freefin						0	3.2新角色
+skin13301_des	全新战术套装“悠游”在本体之外，还特别配备了一块动力翼板。在动力翼板的加持下，瑟瑞斯能在作战中大幅提升速度与机动性。摆脱烦恼的小金鱼也变得愈发从容自在。	全新戰術套裝「優游」在本體之外，還特別配備了一塊動力翼板。在動力翼板的加持下，瑟瑞斯能在作戰中大幅提升速度與機動性。擺脫煩惱的小金魚也變得越發從容自在。	新たな戦術装備「天遊」は、特製の動力ボードを搭載し、シーリスの速度と機動性を大きく引き上げ、軽やかに戦場を駆け抜ける。悩みを手放したグッピーは、心に余裕を取り戻したようだ。	새로운 전술 슈트 '프리핀'은 본체 외에도 제트보드를 특별히 탑재했다. 제트보드의 도움으로 전투에서 세리스의 속도와 기동성을 대폭 향상시킬 수 있다. 고민에서 벗어난 골드피시는 더욱 여유롭고 가뿐해졌다.	Siris' all-new exosuit, Freefin, comes specially equipped with a powerful jetboard. With this boost, the Goldfish now glides through battle faster and more agile than ever, brimming with carefree grace.						0	3.2新角色
+skin13301_use	默认	預設	デフォルト	기본 스킨	Default						0	3.2新角色
+skin13302	碧波浮游	碧波浮游	波に揺られて	청아한 표류	Azure Drift						0	3.2新皮肤
+skin13302_des	我一定，从很久、很久之前，就在等待着和分析员在水中嬉戏的这一刻了！	我一定，從很久、很久之前，就在等待著和分析員在水中嬉戲的這一刻了！	きっと、ずっと前から、分析員と水の中ではしゃぐ日を楽しみにしてたんだ！	저는 아마 오래전, 아주 오래전부터 분석가님과 물놀이를 할 이 순간을 기다렸나 봐요!	I've been dreaming about this forever — finally getting to splash around in the water with you, Adjutant!						0	3.2新皮肤
+skin13302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2新皮肤
+skin13303	霄倾君怀	霄傾君懷	蒼天の誓衣	실크의 포옹	Silkfin Embrace						0	3.5新皮肤
+skin13303_des	今晚的月光，简直像为我们而亮的一样诶！和分析员同游的每一刻，所见的景致都是那样绚烂。真希望这场采风，永远都不要结束呀！	今晚的月光，簡直像為我們而亮的一樣誒！和分析員同遊的每一刻，所見的景致都是那樣絢爛。真希望這場採風，永遠都不要結束呀！	今夜の月明かり、私たちのために照らしてくれてるみたいだね！分析員と一緒だと、景色がぜんぶきらきらして見えるんだ。ずっと眺めていたいな。	오늘 밤 달빛은 마치 우리를 위해 비춰진 것 같네요! 분석가님과 함께하는 매 순간의 경치가 너무 아름답다 못해 눈부셔요. 이 순간이 영원히 끝나지 않았으면 좋겠네요!	The moon looks like it's shining just for us tonight! Every moment with the Adjutant, every view we see is so bright and beautiful. How I wish this trip would never end!						0	3.5新皮肤
+skin13303_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5新皮肤
+skin14101	辰星	辰星	辰星	수성	Chenxing						0	
+skin14101_des	由董事会直接派遣而来的冷面监察员，记忆力异常优秀。\n曾经气质清冷、战斗中姿态凌厉的她，如今在和分析员独处时也常会露出娇羞温柔的模样。她不再视记忆为负担，而是想永远记住和分析员有关的每个瞬间。	由董事會直接派遣而來的冷面監察員，記憶力異常優秀。\n曾經氣質清冷、戰鬥中姿態凌厲的她，如今在和分析員獨處時也常會露出嬌羞溫柔的模樣。她不再視記憶為負擔，而是想永遠記住和分析員有關的每個瞬間。	理事会から派遣された、公正無私で記憶力に秀でた監察員。\n冷徹で気品漂い、戦闘時には凛とした姿勢を見せる。そんな辰星だが、今では分析員と二人きりの時に、しばしば羞じらいと優しさを見せるようになった。超記憶症候群を患っている彼女は、もはや記憶を負担と感じることなく、むしろ分析員に関するすべての瞬間を永遠に覚えることを幸せだと感じている。	이사회에서 직접 파견한 포커페이스 감사원으로 기억력이 굉장히 비상하다.\n한때는 차가운 기품과 전투 중의 위엄으로 가득했던 그녀가, 이제는 분석가와 함께할 때마다 수줍고 따뜻한 미소를 지으며 온화한 모습을 드러낸다. 그녀는 더 이상 기억을 짐으로 여기지 않고, 분석가와의 모든 순간을 영원히 간직하고 싶어 한다.	A cold supervisor with a superb memory sent by the board.\nOnce distant and fierce in the field, she now finds herself showing a softer, more bashful side when alone with the Adjutant. Memories used to feel like a weight, but now, she cherishes each one, especially those spent with the Adjutant.						0	
+skin14101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin14102	不灭守望	不滅守望	不滅の守護	불멸의 수호	Eternal Watch						0	
+skin14102_des	如此程度的波折，不足以令我心感挫败，只会教导我，让我从此不再陷入这般窘境。	如此程度的波折，不足以令我心感挫敗，只會教導我，讓我從此不再陷入這般窘境。	この程度の挫折では、私の心は挫けません。むしろ、これを教訓に、二度と同じ窮地に陥らないようにします。	이 정도의 우여곡절은 저를 결코 좌절하게 만들지 못할 거예요. 오히려 다시는 이런 곤경에 빠지지 않도록 교훈을 줄 뿐이에요.	These hardships won't lead to my defeat. They'll only teach me how to prevent such situations in the future.						0	
+skin14102_use	通过甄选好物商店购买获得	透過甄選好物商店購買獲得	特選逸品ショップで購入して獲得	[페이버릿 픽] 상점 구매로 획득	Obtained through purchase in Choice Products.						0	
+skin14201	辰星-云篆	辰星-雲篆	辰星‐雲篆	수성-미스트	Chenxing - Ethereal Cloud						0	
+skin14201_des	根据辰星母亲在世时亲手绘制的设计稿定制的战术套装，款式参考了姬氏历代家主出席家族仪式的礼服，细节考虑到了辰星的所有偏好。	根據辰星母親在世時親手繪製的設計稿所訂製的戰術套裝，款式參考了姬氏歷代家主出席家族儀式的禮服，而在細節上則顧到了辰星的所有喜好。	辰星の母親が生前に描いたデザイン原稿に基づいてオーダーメイドされた戦術装備。姫氏の歴代当主が一族の儀式に出席した際の礼装を参考にしてデザインされており、細部には辰星のあらゆる好みが考慮されている。	수성의 모친이 살아있을 때 직접 디자인해서 제작한 전술 슈트. 스타일은 역대 가주들이 가문 의식에 참석할 때 입던 예복을 참고했으며, 세부적인 디테일은 수성의 선호도를 참고했다.	A customized tactical suit based on a design drawn by Chenxing's mother while she was alive. The design of the suit is based on the dress style that the master of House Ji used at family ceremonies, with details that take into account Chenxing's preferences.						0	
+skin14201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin14202	丹翎野鹤	丹翎野鶴	赤羽の鶴	크림슨 크레인	Crimsontip Crane						0	
+skin14202_des	偷得浮生半日闲。饮茶看书，渐渐地，变成了一种难得的自由。	偷得浮生半日閒。飲茶看書，漸漸地，變成了一種難得的自由。	慌ただしい浮世の中、ひと時の安らぎを得て充実した半日を過ごすことができる。お茶を飲んで本を読むことが、だんだん手の届かない自由になっている。	가끔은 번뇌에서 벗어나 반나절의 여유를 즐기는 것도 필요한 법. 차를 음미하면서 독서를 하는 것도 어느새 얻기 드문 일상이 되어버렸다.	Take a break to enjoy a moment of peace. It's getting hard to find time to just read and drink tea.						0	
+skin14202_use	通过甄选好物商店购买获得	透過甄選好物商店購買獲得	特選逸品ショップで購入して獲得	[페이버릿 픽] 상점 구매로 획득	Obtained through purchase in Choice Products.						0	3.5皮肤调整获取途径
+skin14203	波光倩影	波光瀲灩	波光倩影(ヴォコンチェイン)	웨이브 크레스트	Wavecrest Glimmer						0	
+skin14203_des	与游鱼戏水，观览的景色自然是与陆上有些不同。分析员，你看到了什么？	同游魚戲水，在海中所見的景色理應與陸地有所不同。分析員，照映在你眼中的是何種景色呢?	海の生き物たちと泳ぐと、陸から見える海の景色とは全く違うのを実感します。分析員、あなたの目に映っているのはどんな景色ですか？	물고기와 함께 헤엄치며 보는 풍경은 육지에서 보는 것과 확연히 다른 것 같아요. 분석가님은 무엇을 보셨나요?	The scenery that one can observe in the water is quite different from that on land. Adjutant, what beautiful sights have you seen?						0	
+skin14203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin14204	点墨化龙	點墨化龍	龍の墨跡	점묘화룡	Inkstroke Dragoness						0	
+skin14204_des	分析员，我想和你讲述更多我所认识的世界，不如，就从我衣裙上的纹饰开始吧。	分析員，我想跟你說更多我所認識的世界，不如，就從我衣裙上的紋飾開始吧。	分析員、私が知っている世界についてもっとお話ししたいのですが……まず、私のドレスの柄や飾りから始めましょうか。	분석가님, 제가 알고 있는 세상에 대해 조금 더 구체적으로 말씀드리고 싶은데, 먼저 제가 입고 있는 드레스의 패턴부터 알아볼까요?	Adjutant, I'd like to tell you more about my world. Why not start with my dress patterns?						0	
+skin14204_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin14301	辰星-琼弦	辰星-瓊弦	辰星-玉弦	수성-제이드 아크	Chenxing - Jade Arc						0	2.5新角色
+skin14301_des	这款战术套装融合了朔州独特的风格，不仅集成了世界树公司尖端科技的精髓，还巧妙地融入了辰星精通的风水堪舆之法。令人惊叹的是，在三十六小时内，辰星就完美适应了这身装备。	這款戰術套裝融合了朔州獨特的風格，不僅整合了世界樹公司尖端科技的精髓，還巧妙地融入了辰星精通的風水堪輿之法。令人驚訝的是，在三十六小時內，辰星就完美適應了這套裝備。	朔州の意匠を取り入れた戦術装備。ユグドラシル社の最先端技術の集大成でありながら、辰星（チェンシン）が精通している風水堪輿（かんよ）も巧みに取り入れている。驚くべきことに、辰星はわずかな36時間足らずでこの装備を完璧に使いこなせるようになった。	이 전술 슈트는 삭주의 독특한 스타일을 융합했는데, 위그드라실의 최첨단 기술을 통합하고 있을 뿐만 아니라, 수성이 알고 있는 풍수지리학도 교묘하게 접목시켰다. 놀라운 점은 수성이 36시간 만에 전술 슈트에 완벽하게 적응했다는 것이다.	A tactical exosuit designed in a traditional Shuozhou style that blends Yggdrasil's cutting-edge technology and Chenxing's feng shui mastery. Astonishingly, Chenxing was able to fully adapt to this new exosuit within just 36 hours.						0	2.5新角色
+skin14301_use	默认	預設	デフォルト	기본 스킨	Default						0	2.5新角色
+skin14302	欣描红妆	欣描紅妝	紅く華やぐ新粧	적색의 환희	Rouge Bliss						0	2.5新皮肤
+skin14302_des	我尚未梳妆完毕的模样，只有你见过。分析员……你可愿为我画眉？	我尚未梳妝完畢的模樣，只有你看過。分析員……你可願為我畫眉？	私の素顔を見たことがあるのは、あなただけです。分析員……眉を描いてくれませんか？	화장을 다 마치지 않은 모습을 본 건 분석가님뿐이에요. 분석가님… 저를 위해 눈썹을 그려주시겠어요?	Only you've seen me without my full makeup and attire. Adjutant... would you do my eyebrows for me?						0	2.5新皮肤
+skin14302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.5新皮肤
+skin14303	慵倚花阴	慵倚花蔭	花陰に宿る夢	만개한 꽃	Full Bloom						0	2.8新皮肤
+skin14303_des	这样倚卧而眠，难免有些不合礼仪，但此处只有你我，就让我……失态片刻吧。	這樣倚臥而眠，難免有些不合禮儀，但此處只有你我，就讓我…失態片刻吧。	こうして寄りかかって眠るなんて、少し行儀が悪いかもしれません…。ですが、今は二人きり…。少しだけ、こうさせてください。	이렇게 서로 기대어 자는 건 예의에 어긋날지도 모르지만, 여기엔 우리 둘만이 있으니… 그냥 이대로 잠깐만 있어주세요.	Reclining like this may not be proper etiquette, but since it's just you and me... allow me a moment of indulgence.						0	2.8新皮肤
+skin14303_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.8新皮肤
+skin14304	柔倚身畔	柔倚身畔	素肌の感触	텐더 어젠다	Tender Agenda						0	3.2新皮肤
+skin14304_des	提升工作效率的最好办法是适当的休息，毕竟，我也希望总是以最佳状态陪在郎君身边。	提升工作效率的最好辦法是適當的休息，畢竟，我也希望總是以最佳狀態陪在郎君身邊。	仕事を効率よく進める一番のコツは、適度に休むこと。だって、いつも万全な状態であなたのそばにいたいですから。	업무 효율을 높이는 가장 좋은 방법은 충분한 휴식을 취하는 거예요. 저도 항상 최고의 모습으로 낭군님 곁에 있고 싶으니까요.	The best way to stay productive is to take proper breaks... after all, I want to always be at my best by your side, My Prince.						0	3.2新皮肤
+skin14304_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	3.2新皮肤
+skin15101	凯茜娅-蓝闪	凱茜婭-藍閃	カーシア-ブルーフラッシュ	캐시아-푸른 빛	Katya - Blue Bolt						0	
+skin15101_des	原世界树公司安全部外聘保全专家，在第五研究所中与跳棋小队一同成为信息态幽灵。在跳棋小队复仇计划失败后，意外被排出共振，重新获得实体。\n作为一名惯用弩的危险刺客，她总能从最出其不意的角度发起攻击。\n曾经，她是一名我行我素的佣兵。如今，她已经习惯依赖于分析员，只有待在分析员的身边，她才可以获得源源不断的乐趣。	原世界樹公司安全部外聘保全專家，在第五研究所中與跳棋小隊一同成為資訊態幽靈。在跳棋小隊復仇計畫失敗後，意外被排出共振，重新獲得實體。\n作為一名慣用弩的危險刺客，她總能從最出其不意的角度發起攻擊。\n曾經，她是一名我行我素的佣兵。如今，她已經習慣依賴於分析員，只有待在分析員的身邊，她才可以獲得源源不斷的樂趣。	かつてユグドラシル社安全部の保全エキスパートだった彼女は、第5研究所でハルマ小隊とともに「情報体幽霊」として存在していた。ハルマ小隊の復讐計画が失敗に終わった後、偶然にも共振から解放され、再び実体を取り戻した。\nクロスボウを自在に操る危険なアサシンとして、カーシアは常に予想外の角度から奇襲を仕掛ける。\nかつては気ままな傭兵生活を送っていたが、今では分析員に深く依存している。分析員のそばにいることが、カーシアにとって尽きることのない楽しみとなっている。	이전에 위그드라실 안전부 외부 보안 전문가로 일했으며, 제5연구소 사건에서 체커 소대와 함께 이념 형태의 유령이 되었다. 체커 소대의 복수 계획이 실패한 후, 우연히 공명에서 제외되어 실체를 되찾을 수 있었다.\n석궁을 쓰는 위험한 자객으로 예상치도 못한 각도에서 공격해 올 수 있다.\n한때 그녀는 오직 자신의 길만을 걷는 용병이었다. 하지만 이제 그녀는 분석가에게 의지하는 데 익숙해졌다. 분석가 곁에 있어야만 그녀는 끝없는 쾌락을 느낄 수 있었다.	A former external security expert for Yggdrasil Enterprises. She was turned into a Titagen phantom with the rest of Checker Squad at the Fifth Research Institute. After Checker Squad's plan for revenge failed, she was surprisingly freed from the Resonance and regained her physical form.\nShe is a dangerous assassin who prefers to wield a crossbow as she attacks targets from unexpected angles.\nShe used to be a mercenary who played by her own rules. Now, the only place she still finds joy is by the Adjutant's side.						0	3.0角色描述修改
+skin15101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin15102	远曲独舞	遠曲獨舞	月光のホロス	솔로 댄스	Graceful Danseuse						0	
+skin15102_des	你陪我逃出那个古板的舞会，我自然要用一支舞来感谢你。	你陪我逃出那個古板的舞會，我自然要用一支舞來感謝你。	あの時代遅れの舞踏会を退席するのに付き合ってくれたんだもの、お礼として踊りくらいしてあげるわ。	날 저 고리타분한 무도회에서 벗어날 수 있게 도와주면, 나도 춤으로 네게 보답할게.	You helped me escape that suffocating ball. It's only fair that I thank you with a dance.						0	
+skin15102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin15103	日常出行	日常出行	日常着	평범한 나들이	Routine Outing						0	
+skin15103_des	我有很多身份或者“样貌”？这副样子，是为了陪你出门用的。	我有很多身分或者“樣貌”？這副樣子，是為了陪你出門換的。	この格好、初めて見た？ふふっ、これはあなたと出かけるために特別用意したものよ。	얼마나 많은 모습과 신분을 지니고 있을 것 같아? 사실 이건 전부 너랑 나가기 위해서라고~	I have lots of different identities and looks, do I? Hah, well this one is just to make going outside with you more... convenient.						0	
+skin15103_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin15104	贴身特助	貼身助理	優秀な助手	밀착 서비스	Private Secretary						0	
+skin15104_des	这样很方便行动，能和你做的事也很多，想从哪里开始呢？	這樣很方便行動，能和你做的事也很多，想從哪裡開始呢？	こうすれば行動しやすくなるし、あなたと一緒にできることもたくさんある。どこから始めたい？	이렇게 하면 움직이기도 편하고 할 수 있는 게 많을 것 같은데, 그럼 어디서부터 시작할까?	This is easy to move around in, and unlocks more things we can do together. So, what do you want to start with?						0	
+skin15104_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin15105	精练特助	精練特助	有能な助手	정밀 서비스	Elite Secretary						0	
+skin15105_des	分析员，你要捡起这些文件的话……就得俯下身来吧？	分析員，你要撿起這些文件的話……就得俯下身來吧？	分析員、文書を拾いたいなら……まずは頭を下げることね。	분석가, 만약 문서를 주울 거면… 몸을 숙여야겠지?	Adjutant, if you want to pick up all these papers... you'll have to reach down here~						0	
+skin15105_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	
+skin15106	幽闪魅踪	幽閃魅蹤	音なき幻影	매력의 섬광	Flicker of Charm						0	2.4新皮肤
+skin15106_des	新鲜感是很重要的，它可以让你露出少见的惊讶表情……就像现在这样。	新鮮感是很重要的，它可以讓你露出少見的驚訝表情……就像現在這樣。	新鮮味って大事よ。だって、珍しく驚いた顔が見られるんだから……ほら、こんなふうに。	새로운 것은 늘 놀라움을 선사하지… 지금처럼 말이야.	It's important to change things up now and then. The fresh, new feel can bring a rare look of surprise to your face... just like now.						0	2.4新皮肤
+skin15106_use	通过活动获得	透過活動獲得	イベントで獲得	이벤트 스킨	Obtained from event.						0	2.4新皮肤
+skin15201	凯茜娅-朝翼	凱茜婭-朝翼	カーシア-朝翼	캐시아-여명의 날개	Katya - Dawnwing						0	
+skin15201_des	以凯茜娅曾经参加瓦尔基里游戏选拔赛时所穿着的装备为蓝本，经由她本人设计调整后，在外观与性能上均进行了大幅改造的全新战术套装。\n她特别邀请分析员为这套装备增添一些想法，并对成果相当满意。	以凱茜婭曾經參加瓦爾基里遊戲選拔賽時所穿著的裝備為藍本，經由她本人設計調整後，在塗裝與性能上均進行了大幅改造的全新戰術套裝。\n她特別邀請分析員為這套裝備增添一些想法，並對成果相當滿意。	「朝翼」は、カーシアがヴァルキリーゲームの予選試合で着用していた装備を基に、彼女自身の手で改修を施した戦術装備である。外観と性能が大幅に進化し、新たな戦闘力を発揮する。\nカーシアはデザインについて分析員の意見を取り入れ、完成品に非常に満足している様子を見せた。	캐시아가 한때 발키리 게임 선발전에 참가할 때 착용했던 장비를 바탕으로, 그녀가 직접 디자인하고 수정하여 외관과 성능이 크게 향상된 새로운 전술 슈트다. 그녀는 몇 가지 장점을 추가하기 위해 분석가를 초대했고, 그 결과에 매우 만족해하고 있다.	This new exosuit takes inspiration from the gear Katya wore during the Valkyrie Games qualifiers, but has been dramatically improved in both appearance and performance through her own modifications.\nShe even had the Adjutant add some finishing touches, and is quite satisfied with the final product.						0	
+skin15201_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin15202	沐浪倦姿	沐浪倦姿	倦姿のひと波	서프사이드 레저	Surfside Leisure						0	
+skin15202_des	我很欢迎你再靠近些，再多了解我一些……各种地方都是。	我很歡迎你再靠近些，再多了解我一些……各種地方都是。	もっと近づいてもいいのよ。私のことをもっと知ってほしい……いろんなところをね。	조금만 더 가까이 와서 나를 더 알아줬으면 좋겠어… 다방면으로.	You're welcome to come a bit closer and get to know me better... every part of me.						0	
+skin15202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin15203	秘密彩蛋	秘密彩蛋	Danger Dancer	스페셜 댄스	Special Surprise						0	2.4新皮肤
+skin15203_des	接下来，是一个只为你准备的小惊喜。	接下來，是一個只為你準備的小驚喜。	この先は、分析員だけに見せるサプライズよ。	이건 널 위한 서프라이즈야.	This is a little surprise I prepared for you. Enjoy the show~						0	2.4新皮肤
+skin15203_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	2.4新皮肤
+skin15204	绮锦流韵	綺錦流韻	流るる錦綺	우아한 품격	Classy Elegance						0	2.7新皮肤
+skin15204_des	欣赏音乐要在合适的时间和场合，比如夜色深沉……只有你我时。	欣賞音樂要在適當的時間和場合，比如夜色深沉…只有你我。	音楽を楽しむには、時間と場所が大事なのよ。たとえば……夜が更けて、二人きりの時とかね。	음악은 적절한 시간과 장소에 맞춰 감상해야 하지. 예를 들자면, 깊은 밤… 우리 둘만 있을 때 말이야.	Music is best enjoyed in the perfect moment and setting, like when the night is still and quiet... just you and me.						0	2.7新皮肤
+skin15204_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.7新皮肤
+skin15301	凯茜娅-狂诗	凱茜婭-狂詩	カーシア-ラプソディ	캐시아-랩소디	Katya - Rhapsody						0	3.0新角色
+skin15301_des	这款战术套装是在原型机的基础上进行开发，强悍的单兵重火力是其最显著的特点。配合新类型武器格林机枪，可令凯茜娅一人成军，尽情释放危险与破坏性。	這款戰術套裝是在原型機的基礎上進行開發，強悍的單兵重火力是其最顯著的特點。配合新類型武器格林機槍，可令凱茜婭一人成軍，盡情釋放危險與破壞性。	この戦術装備はプロトタイプ機をベースに開発され、圧倒的な単体火力を最大の特徴としている。\n新型ガトリングガンの装備により、カーシアは単独で軍団に匹敵する戦闘力を誇り、その破壊力を存分に振るう。	이 전술 슈트는 프로토타입을 기반으로 개발되었으며, 가장 주목할 만한 특징은 강력한 단일 대상에 대한 중화력이다. 새로운 유형의 무기 개틀링 건을 함께 사용하면, 캐시아는 홀로 한 군대를 압도할 만큼의 힘을 가질 수 있다.	Derived from an Alpha Armor prototype, this exosuit features overwhelming heavy firepower. It is equipped with a new type of weapon, the Gatling gun, which allows Katya to unleash devastating destruction equivalent to an entire troop.						0	3.0新角色
+skin15301_use	默认	預設	デフォルト	기본	Default						0	3.0新角色
+skin15302	星抚恋音	星撫戀音	星降る夜に	별빛 서약	Starlove Vow						0	3.0新皮肤
+skin15302_des	只有你我与潮声的此刻，不来一场演奏会吗？奏者是你，而乐器……自然是我。	只有你我與潮聲的此刻，不來一場演奏會嗎？奏者是你，而樂器……自然是我。	2人きりで、潮騒しか聞こえないこの瞬間…演奏会なんてどう？それじゃ演奏お願いね。楽器は…もちろん私よ。	파도 소리와 우리 둘만 있는 이 순간, 함께 연주회를 열어보는 건 어때? 연주자는 너고, 악기는… 내가 되는 거야.	In this moment with just us and the sound of the waves, how about a concert? You'll be the performer. And as for the instrument... that would be me.						0	3.0新皮肤
+skin15302_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0新皮肤
+skin15303	花间蝶踪	花間蝶蹤	蝶花の舞	플로럴 플러터	Floral Flutter						0	3.3新皮肤
+skin15303_des	亲爱的，让我品尝一下吧，甜蜜的、只有你能给我的……甘露。	親愛的，讓我品嚐一下吧，甜蜜的、只有你能給我的……甘露。	ねぇ、早くちょうだい。アナタしかくれない……甘いしずくを。	자기야, 부디 맛보게 해줘. 오직 너만이 줄 수 있는… 그 달콤한 감로를.	Darling, let me taste that sweetness... that nectar only you can provide~						0	3.3新皮肤
+skin15303_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.3新皮肤
+skin16101	伊切尔-豹豹	伊切爾-豹豹	イチェル-チビヒョウ	이첼·아기 표범	Eatchel - The Cub						0	
+skin16101_des	前耶洛沙联邦首领的孙女，因自身存在利用价值而无法拥有正常人生，也没有接受过正式教育。头上蓝色的角是她与泰坦融合的象征。\n她渴望安全感，渴望被当作人对待，也渴望自由。	前耶洛沙聯邦首領的孫女，因自身存在利用價值而無法擁有正常人生，也沒有接受過正式教育。頭上藍色的角是她與泰坦融合的象征。\n她渴望安全感，渴望被當做人對待，也渴望自由。	元イェロシャ連邦首領の孫娘。その身に利用価値があるがゆえに、一般人として暮らすことは許されず、まともな教育を受けたこともない。\n頭にある青い角は、彼女がタイタンと融合している証である。\n安心感を求める彼女は、普通の人間として扱われること、そして自由を渇望している。	구 옐로샤 연방 수령의 손녀로, 존재 자체가 이용 가치를 지니고 있어 정상적인 삶을 살 수 없었으며 어떠한 정식적인 교육도 받지 못했다. 머리 위에 달린 파란 뿔은 그녀가 타이탄과 융합되었다는 걸 상징한다.\n항상 안전감을 갈망하고 사람으로서 대접받고 싶어 하며 자유를 갈망한다.	Granddaughter of the founder of the former Yehrus Federation, Leader Gustav. As external parties took advantage of her valuable identity, she was deprived of a normal upbringing and education. The blue horns on her head are a result of experimental Titagen infusions.\nDeep down, she yearns for a place of safety, for being treated as a normal human being, and for freedom.						0	
+skin16101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin16102	迟到花蕾	遲到花蕾	遅咲きの青春	플라워 버드	Overdue Radiance						0	
+skin16102_des	呜嗯……上学要从小时候开始？那我是不是已经迟到好多好多好多年了呀？	嗚……上學要從小時候開始？那我是不是已經遲到好多好多好多年了呀？	うーん……学校は小さい頃から通うべき？じゃあ、ボクはもう何年も遅れてるのか？	우우… 학교는 어릴 때부터 다녀야 하나요? 그럼 대체 전 얼마나 늦은 거죠?	Ungh... People go to school from when they are little kids? Does that mean I am years late for class?						0	
+skin16102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin16103	绒绒漫步	絨絨漫步	疾速ヒョウ	사뿐한 걸음	Fluffy Ollie						0	
+skin16103_des	好耶！我学会了！谢谢分析员遵守约定陪我玩滑板！我要围着公司滑一圈嘎呜！	好耶！我學會了！謝謝分析員遵守約定陪我玩滑板！我要圍著公司滑一整圈嗷嗚！	分析員！乗り方分かったぞ！うヘヘっ、スケボーをする約束を守ってくれてありがとう、会社のビルをもう1周だー！	오! 저도 이제 할 줄 알아요! 고마워요, 분석가님! 저랑 같이 스케이트를 타러 와주셔서! 이대로 회사를 한 바퀴 돌아볼 예정이에요~ 유후~!	Yeah! I got it! Thanks for keeping your promise to take me skateboarding, Adjutant! I'm gonna skate around the whole company. Woo-hoo!						0	
+skin16103_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin16104	捕猎演习	捕獵演習	狩りの予行練習	사냥 훈련	Prowl and Pounce						0	2.4新皮肤
+skin16104_des	等再见到分析员，我就这样、再这样！然后，分析员就会被我抓住，只能陪我了~	等再見到分析員，我就這樣、再這樣！然後，分析員就會被我抓住，只能陪我了~	分析員に会ったら、まずこうやって、それからこうする！そしたら、分析員はボクに捕まっちゃって、ボクに付き合うしかなくなるんだから！	다시 분석가님을 만나면 이것도 하고 저것도 할 거예요! 그러면 분석가님은 저한테 붙잡혀서 저와 함께 할 수밖에 없을 거예요.	When I see you Adjutant... I'll do this, and this! And then, you will be captured and have to play with me~						0	2.4新皮肤
+skin16104_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.4新皮肤
+skin17101	苔丝-魔术师	黛斯-魔術師	テス-マジシャン	테스·매지션	Tess - The Magician						0	
+skin17101_des	加入世界树公司前曾是一名普通的高中生，梦想是成为一名大魔术师，为了再次见到分析员加入了海姆达尔部队。\n一路追逐着分析员背影的她，如今终于有实力去实现和分析员的约定，更有着坚如磐石的恒心，去完成与他一生的相守。	加入世界樹公司前曾是一名普通的高中生，夢想是成為一名大魔術師，為了再次見到分析員加入了海姆達爾部隊。\n一路追逐著分析員背影的她，如今終於有實力去實現和分析員的約定，更有著堅如磐石的恆心，去完成與他一生的相守。	ユグドラシル社に入る前はごく普通の高校生で、夢は偉大なマジシャンになることだった。分析員にもう一度会うため、彼のあとを追ってヘイムダル部隊に志願した。\n分析員の背中を追い続けてきた彼女は、今やその約束を果たせる実力を身につけ、彼と一生を共にする誓いを貫く固い決意を抱いている。	위그드라실에 가입하기 전에는 평범한 고등학생이었으며, 위대한 매지션이 되는 게 꿈이었다. 분석가를 다시 만나기 위해 헤임달 부대에 가입했다.\n분석가의 뒷모습을 쭉 쫓아오던 그녀는 드디어 약속을 이룰 힘도, 한평생 함께할 각오도 완벽히 갖추었다.	She was just an ordinary high school student before she joined Yggdrasil Enterprises. She has dreams of becoming a world-renowned magician, but she joined the Heimdall Force in order to see the Adjutant again.\nShe spent her days chasing his fading silhouette. Now, she stands beside the Adjutant — strong enough to fulfill their promise, and steadfast enough to stay forever by his side.						0	3.0角色描述修改
+skin17101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin17102	流放欢愉	歡快荒原	ロストユートピア	유배의 희열	Merry-in-Exile						0	
+skin17102_des	无论多么困难的处境，我都会想办法逗你笑的！多笑笑可以长寿哦！	無論在多麼困難的處境，我都會想辦法逗你笑的！多笑有益身體健康喔！	どんなに厳しい状況でも、あなたを笑顔にしてあげる！笑うことは長生きの秘訣★だからね！	어떠한 어려움이 있더라도 제가 항상 웃게 해드릴게요! 웃으면 장수한다고요!	No matter how difficult the situation, I'll always find a way to make you laugh! Laughing is good for the health!						0	
+skin17102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin17103	秘密约会	秘密約會	シークレットデート	시크릿 데이트	Secret Date						0	
+skin17103_des	久等啦！抱歉，花了点时间纠结穿什么衣服，毕竟今天可以一直和分析员一起待在这里嘛！	久等啦！ 抱歉，花了點時間糾結要穿什麼衣服，畢竟今天可以一直跟分析員待在這裡嘛！	待たせてごめん！服を選ぶのにちょっと手間取っちゃった。だって今日はここで分析員と一日過ごせるんだもん！	오래 기다리셨죠! 죄송해요~ 옷을 고르느라 시간이 좀 걸렸어요. 오늘은 분석가님하고 오랫동안 함께 해야 하니까 말이죠!	Sorry for the wait! I spent too much time deciding what to wear. After all, I get to spend the whole day with you, Adjutant!						0	
+skin17103_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	
+skin17201	苔丝-绮幻	黛斯-綺幻	テス-ファンタジア	테스-판타지아	Tess - Phantasia						0	3.0新角色
+skin17201_des	昔日青涩的女学生已成长为足够成熟、能独当一面的战士，同时，她没有忘记成为大魔术师的理想。\n“绮幻”同样是在原型机的基础上进行开发，充分展现苔丝的活力以及与其说是魔术，不如说更接近魔法的战斗技巧。	昔日青澀的女學生已成長為足夠成熟、能獨當一面的戰士，同時，她沒有忘記成為大魔術師的理想。\n「綺幻」同樣是在原型機的基礎上進行開發，充分展現黛斯的活力以及與其說是魔術，不如說更接近魔法的戰鬥技巧。	未熟な女子学生だったテスは、今や一人前の戦士へと成長した。だが、彼女は大マジシャンとなる夢を決して忘れていない。\nプロトタイプ機を基に開発された戦術装備「ファンタジア」は、テスの溢れる活力と、魔法に近い独自の戦闘スタイルを最大限に引き出す。	예전의 풋풋했던 여학생은 이제 성숙하고 독립적으로 활약할 수 있는 전사로 성장했다. 그리고 그녀는 위대한 매지션이 되겠다는 꿈을 결코 잊지 않았다.\n'판타지아' 역시 프로토타입을 기반으로 개발되었으며, 테스의 활력과 마술보다 마술에 가까운 전투 기술을 온전히 보여주었다.	While the once-naive schoolgirl has now grown into a mature warrior who can hold her own, she has never abandoned her dream of becoming a great magician.\nThis exosuit, developed from an Alpha Armor prototype, perfectly embodies Tess' radiant energy and combat artistry, transcending mere illusion to achieve true magic.						0	3.0新角色
+skin17201_use	默认	預設	デフォルト	기본	Default						0	3.0新角色
+skin17202	恋如花舞	戀如花舞	咲く恋花の如く	그대만의 블러썸	Blossom for You						0	3.0新皮肤
+skin17202_des	明知马上就能见到你，却还是忍不住这样奔跑起来……亲爱的，与我一起捧起象征幸福与爱意的花束吧。	明知馬上就能見到你，卻還是忍不住這樣奔跑起來……親愛的，與我一起捧起象徵幸福與愛意的花束吧。	すぐに会えるって分かってるのに、つい走っちゃう…ハニー、一緒に花束を持って、幸せと愛を迎えよう！	곧 만날 수 있다는걸 알지만, 그래도 이렇게 달릴 수밖에 없네요… 자기야, 행복과 사랑을 상징하는 꽃다발을 함께 들어줄래요?	Even knowing you're right before my eyes, I can't help running to you... Honey, lift this bouquet with me, a token of our joy and love!						0	3.0新皮肤
+skin17202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0新皮肤
+skin17203	清夏畅行										0	3.7新皮肤
+skin17203_des	说到夏天，怎么少得了冰冰甜甜的西瓜？最中心，最甜的一口，已经预定给亲爱的了哦！										0	3.7新皮肤
+skin17203_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	3.7新皮肤
+skin18101	薇蒂雅-龙舌兰	薇蒂雅-龍舌蘭	ヴィディア-アガベ	비디야-아가베	Vidya - Agave						0	
+skin18101_des	莱瓦汀成员龙舌兰，陶安插在新恒提罗的暗桩，她所掌控的“操控信息态”能力，使她成为间谍行动的不二人选。\n她并非勇敢无畏，只是有人一直在作为她的动力源。	萊瓦汀成員龍舌蘭，τ安插在新恆提羅的眼線，她所掌控的「操控資訊態」能力，使她成為間諜行動的不二人選。\n她並非勇敢無畏，只是有人一直在作為她的動力來源。	「レーヴァテイン」メンバーの一人であり、「アガベ」のコードネームで呼ばれていた。\n「アガベ」はτがニューガントラに手配した内通者であり、「情報体制御」の能力によって、スパイ活動に最適な人物とされた。\nしかし、彼女は決して大胆不敵な人ではない。憧れの分析員こそが、ずっと彼女の原動力だった。	레바틴의 일원인 아가베는 뉴헨틸로에서 τ의 위장 요원으로 활동하며 '이념 형태 조작' 능력으로 스파이 활동을 위한 최적의 후보가 되었다.\n그녀는 용감하지 않지만 누군가가 그녀에게 동기 부여가 돼주고 있다.	As a Laevatain agent, codename Agave, she served as τ's spy in New Hentiro. Her special ability to manipulate fragmented Titagen makes her ideally suited for espionage.\nShe is not inherently brave, but has found strength through someone dear to her.						0	
+skin18101_use	默认	預設	デフォルト	기본 스킨	Default						0	
+skin18102	翠翎倩姿	翠翎倩姿	紫羽の風情	깃털의 자태	Plumed Beauty						0	
+skin18102_des	太华丽了？在喜、喜欢的人面前，想要多展示一下自己也不奇怪吧……	太華麗了？在喜、喜歡的人面前，想要多展現自己也不奇怪吧……	派手すぎる？す、好きな人の前で、自分をアピールしたくなるのは自然なことでしょう……？	너무 화려하다고요? 좋아하는 사람 앞에서 더 많은 것을 보여주고 싶은 것을 당연한 일이라고요…	Is this too gorgeous? But... it's normal to want to show my best self when with someone I really like, right...						0	
+skin18102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+skin18103	舞夜与焰	舞夜與焰	夜と舞踏と焔	화염의 춤	Dance by Firelight						0	2.6新皮肤
+skin18103_des	请看着我吧，分析员。这支舞，比夜色更加浪漫，比篝火更加热烈，比风——更加缠绵。	請看著我吧，分析員。這支舞，比夜色更浪漫，比營火更熱烈，比風——更纏綿。	見ていてください、分析員さん。この踊りは、夜の景色よりもロマンチックで、焚き火よりも情熱的で、風よりもしなやかですよ。	저를 바라봐주세요, 분석가님. 이 춤은 밤보다 더 로맨틱하고, 모닥불보다 더 뜨겁고, 바람보다 더 애틋해요.	Watch me, Adjutant. This dance is more romantic than the night, more caressing than the breeze, and... more passionate than the flames.						0	2.6新皮肤
+skin18103_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.6新皮肤
+skin18201	薇蒂雅-天鹅座	薇蒂雅-天鵝座	ヴィディア-シグナス	비디야-시그너스	Vidya - Celestial Swan						0	2.8新角色
+skin18201_des	为了方便薇蒂雅在卫城学院执行任务，芙提雅特别开发的新型战术套装。\n拥有极强的反侦察与主动侦察能力。	為了方便薇蒂雅在衛城學院執行任務，芙提雅特別開發的新型戰術套裝。\n擁有極強的反偵察與主動偵察能力。	ヴィディアがアクロポリス学院での任務を順調に遂行できるよう、フリティアが特別に開発した新しい戦術装備。\n高度な対偵察能力と能動的な偵察能力を備えている。	비디야가 아크로폴리스 아카데미에서 임무를 수행하는 데 도움이 되도록, 프티야가 특별히 개발한 신형 전술 슈트이다.\n막강한 역추적 능력과 능동적 정찰 능력을 갖추고 있다.	A tactical exosuit specially developed by Fritia for Vidya's mission at the Academica Acropolis.\nIt features powerful counter-surveillance and active reconnaissance functions.						0	2.8新角色
+skin18201_use	默认	預設	デフォルト	기본 스킨	Default						0	2.8新角色
+skin18202	云端之邀	雲端之邀	雲上の誘い	환상의 비행	Flight of Fantasy						0	2.8新皮肤
+skin18202_des	无论有什么需要，都可以随时呼唤你专属的、随时待命的薇蒂雅。当然，做什么都行，诶嘿嘿……	無論有什麼需要，都可以隨時呼喚你專屬的、隨時待命的薇蒂雅。當然，做什麼都行，誒嘿嘿……	何かあったら、あなたのヴィディアを呼んでくださいね。いつでも待機していますよ。もちろん、どんなことでも構いませんから、えへへ……	무엇이 필요하든, 언제든지 분석가님만의 비디야를 불러주세요. 물론, 무엇이든 해드릴 수 있죠, 헤헷…	Need something? Just say the word. Your exclusive attendant Vidya is always at your service. Whatever you request, hehe...						0	2.8新皮肤
+skin18202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.8新皮肤
+skin18203	海境鲛梦	海境鮫夢	泡沫夢幻	해중 신기루	Aqua Mirage						0	3.2新皮肤
+skin18203_des	潜入色彩缤纷的浅海，在珊瑚与鱼群的包围下热烈拥吻……分析员，一起留下我们的人生镜头吧……！	潛入色彩繽紛的淺海，在珊瑚與魚群的包圍下熱烈擁吻……分析員，一起留下我們的人生鏡頭吧……！	色とりどりの浅瀬に潜り、サンゴや魚に囲まれて熱い口づけ……分析員さん、一緒にこの瞬間を最高の思い出にしましょう……！	다채로운 바다에 뛰어들어, 산호와 물고기 떼에 둘러싸인 채로 뜨겁게 입맞춤을 나누는 거죠… 분석가님, 우리만의 인생 샷을 함께 남겨 보아요…!	Diving into the sun-dappled shallows, amidst vibrant coral and schools of fish, we steal a passionate kiss... Let's make this scene last forever, Adjutant!						0	3.2新皮肤
+skin18203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2新皮肤
+skin20101	卜卜-小天师	卜卜-小天師	ブブ-天師	보보-점술사	Bubu - The Geomancer						0	2.4新角色
+skin20101_des	出身朔州的开朗少女，受雇于世界树公司数年，热衷于玄学风水，自称“天师”。\n她以“纺锤”系统专职外勤特工的身份登场，在与分析员共同经历过了一段奇妙的旅程后正式加入海姆达尔部队。	出身朔州的開朗少女，受僱於世界樹公司數年，熱衷於玄學風水，自稱「天師」。\n她以「紡錘」系統專職外勤特工的身分登場，在與分析員共同經歷過了一段奇妙的旅程後正式加入了海姆達爾部隊。	朔州出身の明るい少女。数年間ユグドラシル社に雇われ、玄学風水に熱中し、自らを「天師（テンシ）」と称している。\n「スピンドル」システムの外勤スタッフとして登場し、分析員と一緒に不思議な旅を経て、正式にヘイムダル部隊に入隊した。	삭주 출신의 명랑한 소녀로 위그드라실에서 수년간 근무 중이다. 현학과 풍수에 열정을 가지고 있으며, 스스로를 '점술사'라고 칭한다.\n그녀는 '방추' 시스템의 특수 대원으로 등장해 분석가와 함께 기묘한 여정을 거치고 정식으로 헤임달 부대에 합류하게 된다.	A cheerful Shuozhou girl who began her journey at Yggdrasil years ago. Obsessed with feng shui and other esoteric practices, she calls herself "the Geomancer."\nShe served as a field agent on the Spindle System project. After an extraordinary adventure with the Adjutant, she formally joined the Heimdall Force.						0	2.4新角色
+skin20101_use	默认	預設	デフォルト	기본 스킨	Default						0	2.4新角色
+skin20102	元气愈养	元氣癒養	元気の守り手	활력 점검	Vitality Checkup						0	2.7新皮肤
+skin20102_des	今天不是小天师，是分析员的专属健康助理——哎哟！	今天不是小天師，是分析員的專屬健康助理——哎喲！	今日は天師じゃなくて、分析員だけの健康アシスタントだよ！……あっ！	오늘 난 점술사가 아니라, 분석가의 전담 건강 조수야… 꺄악!	Don't call me the Geomancer today. I'm here as your personal health assistant— Oops!						0	2.7新皮肤
+skin20102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.7新皮肤
+skin20103	畅饮狂欢	暢飲狂歡	歓酔ノ宵	버블 파티	Fizzy Revelry						0	3.0新皮肤
+skin20103_des	砰——啪！金黄的泡沫就像烟花，分析员，和我一起——再来一杯！	砰——啪！金黃的泡沫就像煙火，分析員，和我一起——再來一杯！	ポンッ——パァン！金色の泡、花火みたい～。分析員、わたしと一緒にもう一杯！	펑… 펑! 황금빛 거품은 불꽃놀이와도 같아. 분석가, 나와 함께 한잔 더 마시자!	Pop! Fizz! Golden bubbles dance like fireworks! Come on, Adjutant, have another round with me — cheers!						0	3.0新皮肤
+skin20103_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0新皮肤
+skin20104	雨沁轻衫	雨沁輕衫	五月雨の服	은은한 보슬비	Drizzle Gossamer						0	3.1新皮肤
+skin20104_des	呜……明明算出来今天最适合和分析员约会的，难道是哪里出错了吗？	嗚……明明算出來今天最適合和分析員約會的，難道是哪里出錯了嗎？	うぅ…今日、分析員とデートにぴったりの日って占ったのに、どこ間違えたかな？	으윽… 오늘 분석가와 데이트하기에 가장 적합한 날이라고 나왔는데, 뭐가 잘못된 건가?	Hmm... The divination said today's perfect for a date with the Adjutant. Did something go wrong with the reading?						0	3.1新皮肤
+skin20104_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	3.1新皮肤
+skin20201	卜卜-灵鉴	卜卜-靈鑒	ブブ-霊鏡	보보-미러	Bubu - Specular Soul						0	3.4新皮肤
+skin20201_des	“灵鉴”搭载了由七十二只微型无人机组成的拓展模块——镜爻，每十八只微型无人机可以组装成一面完整的浮空镜。除了灵活多变的攻击能力外，还具备伪装功能。为了能精准操控镜爻，卜卜进行了大量的训练。	「靈鑒」搭載了由七十二架微型無人機組成的拓展模組——鏡爻，每十八架微型無人機可以組裝成一面完整的浮空鏡。除了靈活多變的攻擊能力外，還具備偽裝功能。為了能精準操控鏡爻，卜卜進行了大量的訓練。	新戦術装備「霊鏡」には、72機のミニドローンで構成される拡張モジュール「鏡爻（ジンヤオ）」が搭載されている。「鏡爻」18機で浮遊鏡を組み合わせることでカモフラージュを実現するほか、多様な攻撃パターンも可能。\n数多くのドローンを同時に操れるよう、ブブは厳しい制御訓練を重ねてきた。	 '미러'에는 72개의 마이크로 드론으로 구성된 확장 모듈 '거울괘'가 탑재되어 있다. 18개의 마이크로 드론은 하나의 완전한 플로팅 미러로 조합할 수 있으며, 유연한 공격 능력 외에 위장 기능까지 갖추고 있다. 보보는 거울괘를 정확하게 조종하기 위해 대량의 훈련을 거쳤다.	The Specular Soul exosuit is equipped with an auxiliary system of 72 microdrones — the Specular Array. The microdrones can converge in clusters of 18 to form an aerial mirror. Besides the versatile combat capabilities, it can also provide visual masking, or "cloaking." Bubu trained rigorously to achieve precise control over the Specular Array.						0	3.4新皮肤
+skin20201_use	默认	預設	デフォルト	기본 스킨	Default						0	3.4新皮肤
+skin20202	绮恋星灵	綺戀星靈	きらら恋衣	러브 요정	Heartspell Magic						0	3.4新皮肤
+skin20202_des	我会守护和分析员之间这份独一无二的悸动，将你我二人的真心，烙作我信念的底色。	我會守護和分析員之間這份獨一無二的悸動，將你我二人的真心，烙作我信念的底色。	このときめきは分析員だけのもの。お互いへの想いを心の奥底に刻むまで、わたしはこの気持ちを守りぬく。	나와 분석가 사이의 이 설렘을 수호하고, 우리의 진심을 내 신념의 바탕으로 만들 거야.	I shall protect this unique resonance between the Adjutant and me, making it the very foundation of my belief!						0	3.4新皮肤
+skin20202_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.4新皮肤
+skin20203	锦缀珍馐										0	3.7新皮肤
+skin20203_des	这一大桌子菜，卜卜全都说得出寓意和来头哦！哼哼，为了分析员，这点小事根本难不倒本天师！										0	3.7新皮肤
+skin20203_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.7新皮肤
+skin21101	奈莉德-冥河代理人	奈莉德-冥河代理人	ネリーダ-ステュクスの渡し守	네리다-명계의 사자	Nerida - Styx Envoy						0	2.7新角色
+skin21101_des	出身耶洛沙，被誉为卫城学院首席调查员的她一向独来独往。\n在调查卡戎海上平台的委托中，她与分析员相遇，二人之间产生了强烈的吸引力。分析员让她见识到了什么才是真正的强大，也让她原本平静的内心泛起了涟漪。	出身耶洛沙，被譽為衛城學院首席調查員的她一向獨來獨往。\n在調查卡戎海上平台的委託中，她與分析員相遇，二人之間產生了強烈的吸引力。分析員讓她見識到了什麼才是真正的強大，也讓她原本平靜的內心泛起了漣漪。	イェロシャ出身で、アクロポリス学院の首席調査員と称される彼女は、常に単独で行動している。\nカローン海上基地の調査依頼で分析員と出会い、互いに強く惹かれ合うこととなる。分析員との出会いは、彼女に真の強さをもたらし、静かだった彼女の心に、そっと波紋を広げた。	옐로샤 출신인 그녀는 아크로폴리스 아카데미의 수석 조사원으로 알려져 있으며 항상 홀로 움직이곤 한다.\n카론 해상 기지를 조사하는 의뢰를 수행하던 중 그녀는 분석가를 만났고, 두 사람은 서로에게 강한 끌림을 느꼈다. 분석가는 그녀에게 진정한 힘이 무엇인지 보여주었고, 그녀의 평온했던 마음에 파장을 일으켰다.	Born in Yehrus, she was renowned as chief investigator at the Academica Acropolis. She always preferred to walk her path alone.\nDuring an assignment to investigate Charon Sea Base, she crossed paths with the Adjutant, and an undeniable pull formed between them. The Adjutant showed her what true strength was, sending ripples through the still waters of her once-unshaken heart.						0	2.7新角色
+skin21101_use	默认	預設	デフォルト	기본 스킨	Default						0	2.7新角色
+skin21102	晨曦统令	晨曦統令	Dawn's Command	여명의 지휘	Dawn's Command						0	2.7新皮肤
+skin21102_des	晨曦洒下后，这片战场将臣服于你。	晨曦灑下後，這片戰場將臣服於你。	朝日が差し込むその時、この戦場は必ずやおまえのものとなる。	여명의 빛이 비치면, 이 전장은 너에게 항복할 것이야.	Wherever the dawn may break, there my command is enforced.						0	2.7新皮肤
+skin21102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.7新皮肤
+skin21103	热沙激浪	熱沙激浪	白波と星の砂	시원한 파도	Sunspray Surge						0	3.2新皮肤
+skin21103_des	浮潜、冲浪，还有——打水仗？呵，那就看看谁能让对方湿得更多吧。	浮潛、衝浪，還有——打水仗？呵，那就看看誰能讓對方濕得更多吧。	シュノーケリング、サーフィン、そして——水かけっこ？ふふ、どっちが先にびしょ濡れになるか、勝負！	잠수, 서핑, 그리고 물싸움? 훗, 그럼 누가 더 흠뻑 젖나 한번 시합해 볼까?	Snorkeling, surfing... and a water fight? Heh, let's see who can get the other more wet~						0	3.2新皮肤
+skin21103_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2新皮肤
+skin21104	游闲心舒	遊閒心舒	潮風のくつろぎ	마음의 여유	Carefree Charm						0	3.5新皮肤
+skin21104_des	值得纪念的假期，天气不错，而且也有分析员陪在我身旁。	值得紀念的假期，天氣不錯，而且也有分析員陪在我身旁。	いい休暇になったな。天気もいいし、分析員もそばにいてくれる。	간직할 만한 휴일이네. 날씨도 좋고, 분석가도 내 곁에 함께 있어 주고 말이야.	A holiday worth remembering. The weather's nice, and the Adjutant is here with me~						0	3.5新皮肤
+skin21104_use	购买凭证获得	購買憑證獲得	パスを購入して獲得	패스 구매 스킨	Obtained through Battle Pass purchase.						0	3.5新皮肤
+skin22101	克罗瑞娜-绯月	克羅瑞娜-緋月	クラウリナ-緋月	클라리나-크림슨 문	Clarina - Crimson Moon						0	3.1新角色
+skin22101_des	出身吉诺拉家族的她，虽然身患成年病且对巴德尔抑制剂过敏，无法治愈，但她内心一直渴望更广阔的世界。\n就在她几近认命时，分析员的出现为她带来了新生的希望，也让她首次体验到心动。她决定勇敢追求生命中的可能与美好。	出身吉諾拉家族的她，雖然身患成年病且對巴德爾抑制劑過敏，無法治癒，但她內心一直渴望更廣闊的世界。\n就在她幾近認命時，分析員的出現為她帶來了新生的希望，也讓她首次體驗到心動。她決定勇敢追求生命中的可能與美好。	名門ディノーラ家出身のクラウリナは、ティーン症候群を患い、バルダー抑制剤へのアレルギーにより治療ができない。やがて訪れる運命を静かに受け入れ、普段は優雅で落ち着いた姿を見せるが、心の奥底では広い世界への憧れを抱き続けている。\n運命に抗う術がないと諦めかけていた時、分析員との出会いが彼女に新たな希望と初めての心のときめきをもたらした。クラウリナは人生の可能性と美しさを追い求めることを決意する。	제노라 가문에서 태어난 그녀는 성인병을 앓고 있었고, 발드르 억제제에 알레르기가 있어 치유할 수 없었다. 하지만 그녀는 줄곧 마음속으로 더 넓은 세상을 갈망해 왔다.\n운명을 받아들이려던 그때, 분석가가 나타나 그녀에게 삶에 대한 희망을 가져다주었고, 그녀는 처음으로 설렘을 느끼게 되었다. 그녀는 삶의 가능성과 아름다움을 용감하게 추구하기로 결심했다.	Born in the Genoura family, she had long borne the burden of Juvosis and a rare allergy to Baldr Inhibitors, making a cure impossible. Yet her heart always longed for a world beyond her reach.\nJust as she was ready to surrender to fate, the Adjutant appeared, bringing a spark of hope — and her first taste of love. That newfound warmth now fuels her resolve to pursue the beauty and boundless possibilities of life.						0	3.1新角色
+skin22101_use	默认	預設	デフォルト	기본	Default						0	3.1新角色
+skin22102	皎月幽祈	皎月幽祈	白月の祈り	월광의 천사	Moonbeam Angel						0	3.1新皮肤
+skin22102_des	圆月与清泉为证，这倾注我一切的祈愿，只属于你。	圓月與清泉為證，這傾注我一切的祈願，只屬於你。	満月と泉に誓って、これはわたくしの全てを捧げた願い。貴方だけに贈るものよ。	보름달과 샘물의 증언과 함께, 내 모든 것을 담은 이 기원은 오직 너만을 위한 것이야.	With the full moon and pure fountain as witness, my heartfelt wishes are devoted to you alone.						0	3.1新皮肤
+skin22102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.1新皮肤
+skin23101	米娅-星彩	米婭-星彩	ミア-星彩	미아-스타체이서	Mia - Starchaser						0	3.3新皮肤
+skin23101_des	出身新恒提罗的少女，成长于和平温暖的家庭，从小便富有正义感。这样的她，在十八岁时依旧会对未来感到迷茫。为了成为理想中的大人，她决定踏出自己生活的地方，寻找曾经见过的“光”——分析员。终于，在解决歧路宇宙事件后，她实现了自己的理想，加入了海姆达尔部队。	出身新恆提羅的少女，成長於和平溫暖的家庭，從小便富有正義感。這樣的她，在十八歲時依舊會對未來感到迷茫。為了成為理想中的大人，她決定踏出自己生活的地方，尋找曾經見過的「光」——分析員。終於，在解決歧路宇宙事件後，她實現了自己的理想，加入了海姆達爾部隊。	ニューガントラ出身の少女。平和で温かい家庭で育ち、幼い頃から正義感に溢れていた。だが、18歳を迎えた時、未来に迷いを感じた。\n理想的な大人になるため、ミアは憧れていた分析員を目指して家を出ることを決意した。やがて岐路宇宙の事件を解決した後、念願のヘイムダル部隊に加入した。	평화롭고 따뜻한 가정에서 자란 뉴헨틸로 출신의 소녀는 어려서부터 강한 정의감을 가지고 있었다. 하지만 이런 그녀도 18살이 되어서 미래에 대한 불안감을 느꼈다. 꿈꾸던 어른이 되기 위해 그녀는 오랜 시간 동안 생활하던 곳을 떠나 예전에 봤던 빛, 즉 '분석가'를 찾아 나서기로 결심했다. 크로스버스 사건을 해결한 후, 그녀는 마침내 자신의 꿈을 이루고 헤임달 부대에 가입하게 되었다.	Born in New Hentiro and raised in a peaceful, loving home, Mia had a strong sense of justice from an early age. Upon turning 18, she still felt uncertain about the future. Determined to become the adult she aspired to be, she stepped beyond the life she had always known to seek the "light" she once glimpsed — the Adjutant. After resolving the Divergent Cosmos incident, she realized her dream and joined the Heimdall Force.						0	3.3新皮肤
+skin23101_use	默认	預設	デフォルト	기본 스킨	Default						0	3.3新皮肤
+skin23102	暗空魅影	暗空魅影	魅惑の影	미드나이트 헤이스트	Midnight Heist						0	3.3新皮肤
+skin23102_des	哇呼~发现唯一任务目标！分析员，在米娅满足之前，你可别想甩掉我哦~	哇呼~發現唯一任務目標！分析員，在米婭滿足之前，你可別想甩掉我喔~	お、ターゲットじゃん！分析員、あたしがOKと言うまで逃がさないよ！	유후! 유일한 임무 목표 발견! 분석가, 내가 만족할 때까지 도망갈 생각 마~!	Woohoo~ Target spotted! Adjutant, you're not getting away from me until I'm fully satisfied~						0	3.3新皮肤
+skin23102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.3新皮肤
+skin23103	祥云徜戏	祥雲徜戲	瑞雲の舞衣	구름 놀이	Frolic of Clouds						0	3.5新皮肤
+skin23103_des	米娅朔州大采购回来啦~分析员分析员，我真的有超~多东西要和你分享哦！	米婭朔州大採購回來啦~分析員分析員，我真的有超~多東西要和你分享哦！	朔州の買い出しから帰ってきたよ～。分析員、見せたいものが超～いっぱいあるの！	미아가 삭주에서 쇼핑하고 돌아왔어~ 분석가, 분석가, 너한테 보여주고 싶은 게 정말 엄~ 청 많다고!	Mia's back from a big shopping spree in Shuozhou~ Adjutant, Adjutant! I've got sooooo many things to share with you!						0	3.5新皮肤
+skin23103_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5新皮肤
+skin24101	胧嫣	朧嫣	ロウエン	로엔	Longyan						0	3.6新皮肤
+skin24101_des	沉月小筑的主人，罗森兰商会会长，崇福街土地所有人。\n雍容妩媚的她从不轻易以真面目示人，唯有在分析员面前，她才愿毫无遮掩。\n身为商人，她从不做亏本买卖，但为了分析员的真心，她甘愿破例。	沉月小築的主人、羅森蘭商會會長，崇福街土地的所有人。\n雍容嫵媚的她從不輕易以真面目示人，唯有在分析員面前，她才願毫無遮掩。\n身為商人，她從不做虧本買賣，但為了分析員的真心，她甘願破例。	朧月庵の主、ローズラン商会会長、招福街の地主。\n艶やかでありながら、素顔を容易くは見せない──けれど分析員の前では、隠さない。\n商人として損な取引はしないが、分析員への真心だけは…例外にしてもいいと思っている。	침월소원의 주인, 로젠란 상회의 회장이자 숭복가 토지 소유주이기도 하다.\n우아하고 매혹적인 그녀는 쉽게 본모습을 드러내지 않으며, 오직 분석가 앞에서만 있는 그대로의 모습을 보여준다.\n상인으로서 그녀는 절대 손해 보는 거래를 하지 않지만, 분석가의 진심을 위해 그 철칙마저도 기꺼이 내려놓는다.	The owner of Moonlit Retreat, president of the Luchellan Chamber of Commerce, and holder of all the land in Chongfu Street.\nGraceful and captivating, she rarely reveals her true self to anyone. Only before the Adjutant does she lower her guard completely.\nA merchant by nature, she never makes a deal at a loss. But to win the Adjutant's heart, she is willing to make an exception.						0	3.6新皮肤
+skin24101_use	默认	預設	デフォルト	기본 스킨	Default						0	3.6新皮肤
+skin24102	珠光曳影	珠光曳影	パールの光と影	펄 얼루어	Lustrous Pearls						0	3.6新皮肤
+skin24102_des	分析员，喜欢妾身为你准备的烟火吗？今夜还很长……妾身想让你看见，比这更美的……绽放。	分析員，喜歡妾身為你準備的煙火嗎？今夜還很長……妾身想讓你看見，比這更美的……綻放。	分析員、わらわが用意した花火…気に入ってくれたかしら。今宵はまだ長いのよ……花火よりも、もっと美しい「綻び」を……見せて差し上げたいわ。	분석가님, 신첩이 준비한 불꽃놀이가 마음에 드시나요? 오늘 밤은 아직 길어요… 신첩이 보여주고 싶은 건, 이보다 더 아름다운… 꽃피움이에요.	Adjutant, do you like the fireworks I prepared for you? The night is still young... and I wish to show you something even more beautiful... bloom before your eyes.						0	3.6新皮肤
+skin24102_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.6新皮肤

@@ -1,0 +1,324 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+DesignationName1_1	绝望的温度	0	通用结算-总伤害占比评价Tag
+DesignationName1_2	火线精英Ⅱ	0	通用结算-总伤害占比评价Tag
+DesignationName1_3	火线精英Ⅲ	0	通用结算-总伤害占比评价Tag
+DesignationName1_4	火线精英Ⅳ	0	通用结算-总伤害占比评价Tag
+DesignationName1_5	火线精英Ⅴ	0	通用结算-总伤害占比评价Tag
+			
+DesignationName2_1	游医Ⅰ	0	通用结算-累计治疗量评价Tag
+DesignationName2_2	游医Ⅱ	0	通用结算-累计治疗量评价Tag
+DesignationName2_3	游医Ⅲ	0	通用结算-累计治疗量评价Tag
+DesignationName2_4	游医Ⅳ	0	通用结算-累计治疗量评价Tag
+DesignationName2_5	游医Ⅴ	0	通用结算-累计治疗量评价Tag
+			
+DesignationName3_1	极致一击Ⅰ	0	通用结算-单次技能伤害Tag
+DesignationName3_2	极致一击Ⅱ	0	通用结算-单次技能伤害Tag
+DesignationName3_3	极致一击Ⅲ	0	通用结算-单次技能伤害Tag
+DesignationName3_4	极致一击Ⅳ	0	通用结算-单次技能伤害Tag
+DesignationName3_5	极致一击Ⅴ	0	通用结算-单次技能伤害Tag
+			
+DesignationName4_1	贯星Ⅰ	0	通用结算-单次射击伤害Tag
+DesignationName4_2	贯星Ⅱ	0	通用结算-单次射击伤害Tag
+DesignationName4_3	贯星Ⅲ	0	通用结算-单次射击伤害Tag
+DesignationName4_4	贯星Ⅳ	0	通用结算-单次射击伤害Tag
+DesignationName4_5	贯星Ⅴ	0	通用结算-单次射击伤害Tag
+			
+DesignationName8	技力均衡III	0	暂时移除的Tag
+DesignationName9	技力均衡II	0	暂时移除的Tag
+DesignationName10	技力均衡I	0	暂时移除的Tag
+DesignationName11	爆发气氛III	0	暂时移除的Tag
+DesignationName12	爆发气氛II	0	暂时移除的Tag
+DesignationName13	爆发气氛I	0	暂时移除的Tag
+DesignationName14	厚心III	0	暂时移除的Tag
+DesignationName15	厚心II	0	暂时移除的Tag
+DesignationName16	厚心I	0	暂时移除的Tag
+			
+DesignationDes1	总伤害	0	
+DesignationDes2	治疗量	0	
+DesignationDes3	常规技使用次数	0	
+DesignationDes4	爆发技使用次数	0	
+DesignationDes5	受到伤害总量	0	
+DesignationDes6	最高技能伤害	0	
+DesignationDes7	最高射击伤害	0	
+DesignationDes8	伤害占比	0	
+CombineHelpDes1	火线突击已开启，可挑战各类随机关卡	0	
+CombineHelpDes2	部分关卡会有概率出现紧急任务和突发事件	0	
+CombineHelpDes3	成功挑战关卡和完成突击日志中的任务会获得突击经验，可提升突击等级获得相应奖励	0	
+CombineHelpDes4	当无法顺利挑战关卡时，可尝试让试用队员上阵	0	
+RotateFailTip	关卡切换失败，请重新进入	0	
+confirmnightmare	本关卡难度较高，敌方目标全体战斗能力大幅提升，请确认是否进行挑战？	0	
+			
+			
+Forbidzone_WeaponName1	轨道光束	0	
+Forbidzone_WeaponDesc1	引导巨大激光束射向指定坐标，持续对敌方目标造成伤害，具备一定追踪能力，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	
+Forbidzone_WeaponName2	重烈爆破	0	
+Forbidzone_WeaponDesc2	空投1枚重型炸弹，产生1次大范围爆炸，对敌方目标造成大量伤害，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	
+Forbidzone_WeaponName3	集束爆破	0	
+Forbidzone_WeaponDesc3	往一定范围随机多次投放小型炸弹，造成多次小范围爆炸，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	
+Forbidzone_WeaponName4	广面爆破	0	
+Forbidzone_WeaponDesc4	从信号点向前，按排投放小型炸弹，造成多次小范围爆炸，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	
+Forbidzone_WeaponName5	模拟重力	0	
+Forbidzone_WeaponDesc5	在信号点持续制造模拟引力，对敌方目标施加眩晕效果，每2秒对其造成1次真实伤害，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	
+Forbidzone_WeaponName6	机枪塔	0	
+Forbidzone_WeaponDesc6	布置1台拥有一定弹药数量的可操控机枪塔，存在3分钟后会自动撤除	0	
+Forbidzone_WeaponName7	榴弹发射台	0	
+Forbidzone_WeaponDesc7	布置1台拥有一定弹药数量的可操控榴弹发射台，存在3分钟后会自动撤除	0	
+Forbidzone_WeaponName8	综合补给瓶	0	
+Forbidzone_WeaponDesc8	布置1台综合补给器，每名队友均可使用1次综合补给瓶：回复一定生命和50爆发能量，并重置爆发技使用间隔	0	
+Forbidzone_WeaponName9	能量	0	
+Forbidzone_WeaponDesc9	布置1台能量瓶补给器，存在3分钟后会自动撤除，每名队友均可使用1次能量瓶	0	
+Forbidzone_WeaponName10	弹药补给	0	
+Forbidzone_WeaponDesc10	布置1台弹药补给装置，范围内队员射击不消耗子弹且射击伤害提升，持续一定时间	0	
+Forbidzone_WeaponName11	无缝防护	0	
+Forbidzone_WeaponDesc11	布置1台防护罩生成装置，防护罩范围内队员获得无敌状态，持续一定时间	0	
+			
+Forbidzone_WeaponName21	余焰爆破	0	DLC2.4禁区协议二期
+Forbidzone_WeaponDesc21	空投1枚余焰炸弹，对敌方目标造成大量伤害，并施加一段时间的灼烧效果，<span color="#d68238">但也会对我方队员造成一定伤害和灼烧效果</>	0	DLC2.4禁区协议二期
+Forbidzone_WeaponName22	电流爆破	0	DLC2.4禁区协议二期
+Forbidzone_WeaponDesc22	从空中发生电磁爆破，对范围内目标造成伤害，并施加一段时间的麻痹效果，<span color="#d68238">但也会对我方队员造成一定伤害和麻痹效果</>	0	DLC2.4禁区协议二期
+Forbidzone_WeaponName23	重火投射	0	DLC2.4禁区协议二期
+Forbidzone_WeaponDesc23	对一定范围内进行多次重枪扫射，每次都可造成小范围爆炸，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	DLC2.4禁区协议二期
+Forbidzone_WeaponName24	精准光束	0	DLC2.4禁区协议二期
+Forbidzone_WeaponDesc24	激光束自动精准锁定并攻击单个敌方目标，可共进行5次攻击	0	DLC2.4禁区协议二期
+Forbidzone_WeaponName25	自动射击台	0	DLC2.4禁区协议二期
+Forbidzone_WeaponDesc25	布置1台自动射击台，存在一定时间后会自动撤除	0	DLC2.4禁区协议二期
+Forbidzone_WeaponName26	无人机护卫	0	DLC2.4禁区协议二期
+Forbidzone_WeaponDesc26	布置1架无人机护卫跟随自身，可自动攻击周围敌方目标，存在一定时间后会自动撤除	0	DLC2.4禁区协议二期
+Forbidzone_WeaponName27	爆破布雷	0	DLC2.4禁区协议二期
+Forbidzone_WeaponDesc27	散落布置多个地雷，被敌方触碰后会爆炸并造成伤害，<span color="#d68238">但我方队员触碰也会引爆地雷并受到一定伤害</>	0	DLC2.4禁区协议二期
+Forbidzone_WeaponName28	模拟黑洞	0	DLC2.4禁区协议二期
+Forbidzone_WeaponDesc28	在指定地点布置模拟黑洞，持续吸附敌方目标并造成伤害，<span color="#d68238">但也会吸附我方队员并造成一定伤害</>	0	DLC2.4禁区协议二期
+			
+Forbidzone_WeaponName29	腐蚀气弹	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc29	在指定区域投下腐蚀气体弹，该气体可持续对敌方目标造成伤害，并使范围内目标受到的伤害提升，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponName30	移动重火	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc30	对一定范围内进行多次重枪扫射，每次都可造成小范围爆炸，且可缓慢向前推进，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponName31	空投燃尘弹	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc31	从空中投下，在矩形范围内产生多个燃烧区域，对范围内目标持续造成伤害，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponName32	切割光束网	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc32	布置一面可存在一定时间的切割光束网，对穿过的目标造成伤害并施加麻痹效果，<span color="#d68238">但也会对我方队员造成一定伤害</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponName33	无人机炮兵	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc33	布置1架无人机炮兵，可自动攻击周围敌方目标，存在一定时间后会自动撤除	0	DLC2.6禁区协议三期
+Forbidzone_WeaponName34	高效补给瓶	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc34	布置1台高效能量瓶补给器，队员拾取高效能量瓶后可回复一定生命，并刷新该智械以外其他所有智械的使用间隔	0	DLC2.6禁区协议三期
+Forbidzone_WeaponName35	嘲讽罐罐	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc35	嘲讽罐罐会强制一定范围内敌方攻击自身，嘲讽罐罐的生命消耗完或是持续时间结束会直接消失	0	DLC2.6禁区协议三期
+Forbidzone_WeaponName36	激光发射台	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc36	布置1台有一定弹药数的可操控激光发射台	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc37	榴弹发射台发射的榴弹爆炸范围扩大	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc38	当榴弹发射台单次攻击命中的目标数量少于2，则该次伤害提升	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc39	重烈爆破的部署时间减少3秒	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc40	重烈爆破的爆炸伤害提升	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc41	广面爆破的爆炸波次增加1次	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc42	广面爆破的爆炸波次间隔减少	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc43	队员进入腐蚀气体范围内时可以持续恢复生命	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc44	腐蚀气弹施加与敌方目标的易伤效果提升	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc45	高效补给瓶为拾取者回复的生命提升至50%	0	DLC2.6禁区协议三期
+Forbidzone_WeaponDesc46	高效补给瓶可为拾取者回复50%的爆发能量	0	DLC2.6禁区协议三期
+			
+Forbidzone_WeaponSpEffect1	持续时间：<span color="#3c3d48">%s秒</>	0	
+Forbidzone_WeaponSpEffect2	轰炸时间：<span color="#3c3d48">%s秒</>	0	
+Forbidzone_WeaponSpEffect3	机枪子弹：<span color="#3c3d48">%s颗</>	0	
+Forbidzone_WeaponSpEffect4	榴弹子弹：<span color="#3c3d48">%s颗</>	0	
+Forbidzone_WeaponSpEffect5	生命回复百分比：<span color="#3c3d48">%s%%</>	0	
+Forbidzone_WeaponSpEffect6	回复百分比：<span color="#3c3d48">%s%%</>	0	
+Forbidzone_WeaponSpEffect7	轰炸波次：<span color="#3c3d48">%s次</>	0	
+Forbidzone_WeaponSpEffect8	智械伤害：<span color="#3c3d48">%s%%</>	0	
+Forbidzone_WeaponSpEffect9	<span color="#d68238">榴弹发射台发射的榴弹爆炸范围扩大</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect10	<span color="#d68238">当榴弹发射台单次攻击命中的目标数量少于2，则该次伤害提升</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect11	<span color="#d68238">重烈爆破的部署时间减少3秒</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect12	<span color="#d68238">重烈爆破的爆炸伤害提升</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect13	<span color="#d68238">广面爆破的爆炸波次增加1次</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect14	<span color="#d68238">广面爆破的爆炸波次间隔减少</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect15	<span color="#d68238">队员进入腐蚀气体范围内时可以持续恢复生命</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect16	<span color="#d68238">腐蚀气弹施加与敌方目标的易伤效果提升</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect17	<span color="#d68238">高效补给瓶为拾取者回复的生命提升至50%%</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect18	<span color="#d68238">高效补给瓶可为拾取者回复50%%的爆发能量</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect19	激光储能：<span color="#3c3d48">%s</>	0	DLC2.6禁区协议三期
+Forbidzone_WeaponSpEffect20	<span color="#d68238">激光发射台的攻击无法穿透目标，但伤害得到一定提升</>	0	DLC3.0禁区协议四期
+Forbidzone_WeaponSpEffect21	<span color="#d68238">无人机炮兵每次攻击会锁定多个敌方目标，但伤害会小幅降低</>	0	DLC3.0禁区协议四期
+Forbidzone_WeaponSpEffect22	<span color="#d68238">使用机枪塔击败方目标会使机枪塔的伤害提升，该效果最多叠加至10层</>	0	DLC3.0禁区协议四期
+Forbidzone_WeaponSpEffect23	<span color="#d68238">使用机枪塔命中同一目标会使机枪塔的伤害提升，该效果最多叠加至10层</>	0	DLC3.0禁区协议四期
+Forbidzone_WeaponSpEffect24	<span color="#d68238">模拟黑洞的生效范围扩大</>	0	DLC3.0禁区协议四期
+Forbidzone_WeaponSpEffect25	<span color="#d68238">模拟黑洞会对敌方目标施加易伤效果</>	0	DLC3.0禁区协议四期
+			
+Forbidzone_SkillName1	连战首领	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc1	需要击败多个强大的敌方首领	0	DLC2.6禁区协议三期
+Forbidzone_SkillName2	据点争夺	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc2	占领据点，并击败各个方向来袭的敌方	0	DLC2.6禁区协议三期
+Forbidzone_SkillName3	综合防御	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc3	击败驻守的敌方目标，并抵御后续敌方进攻	0	DLC2.6禁区协议三期
+Forbidzone_SkillName4	极限援救	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc4	解救人质，并抵御敌方进攻	0	DLC2.6禁区协议三期
+Forbidzone_SkillName5	高效运转	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc5	所有智械使用间隔降低%s%%	0	DLC2.6禁区协议三期
+Forbidzone_SkillName6	量变先行	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc6	所有智械使用次数增加%s	0	DLC2.6禁区协议三期
+Forbidzone_SkillName7	原初战力	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc7	队员对敌方目标造成的伤害提升%s%%	0	DLC2.6禁区协议三期
+Forbidzone_SkillName8	智械纪元	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc8	智械对敌方目标造成的伤害提升%s%%	0	DLC2.6禁区协议三期
+Forbidzone_SkillName9	布局效率	0	DLC2.6禁区协议三期
+Forbidzone_SkillDesc9	智械的布置时间减少%s秒	0	DLC2.6禁区协议三期
+			
+Forbidzone_WeaponExp1	当前智械已满级	0	
+Forbidzone_WeaponExp2	等级提升至	0	
+Forbidzone_WeaponExp3	切换当前智械效果分支	0	
+			
+Forbidzone_AttackSuccess	成功占领据点	0	
+Forbidzone_DefendSuccess	据点守卫成功	0	
+			
+Forbidzone_OnlinePoint1	攻防进度	0	
+			
+Forbidzone_BuffName1	高歌猛进	0	DLC3.0禁区协议四期
+Forbidzone_BuffName2	疾风不息	0	DLC3.0禁区协议四期
+Forbidzone_BuffName3	领空拓展	0	DLC3.0禁区协议四期
+Forbidzone_BuffName4	飞速抵达	0	DLC3.0禁区协议四期
+Forbidzone_BuffName5	智能识别	0	DLC3.0禁区协议四期
+Forbidzone_BuffName6	延时·交叉	0	DLC3.0禁区协议四期
+Forbidzone_BuffName7	延时·重火	0	DLC3.0禁区协议四期
+Forbidzone_BuffName8	延时·爆破	0	DLC3.0禁区协议四期
+Forbidzone_BuffName9	加点·精准	0	DLC3.0禁区协议四期
+Forbidzone_BuffName10	强化·余韵	0	DLC3.0禁区协议四期
+Forbidzone_BuffName11	强化·爆破	0	DLC3.0禁区协议四期
+Forbidzone_BuffName12	地面列阵	0	DLC3.0禁区协议四期
+Forbidzone_BuffName13	沙尘难息	0	DLC3.0禁区协议四期
+Forbidzone_BuffName14	领土拓展	0	DLC3.0禁区协议四期
+Forbidzone_BuffName15	行军如火	0	DLC3.0禁区协议四期
+Forbidzone_BuffName16	攻击校准	0	DLC3.0禁区协议四期
+Forbidzone_BuffName17	延时·自动	0	DLC3.0禁区协议四期
+Forbidzone_BuffName18	增量·弹药	0	DLC3.0禁区协议四期
+Forbidzone_BuffName19	延时·牵制	0	DLC3.0禁区协议四期
+Forbidzone_BuffName20	延时·后援	0	DLC3.0禁区协议四期
+Forbidzone_BuffName21	强化·陷阱	0	DLC3.0禁区协议四期
+Forbidzone_BuffName22	经典火力	0	DLC3.0禁区协议四期
+Forbidzone_BuffName23	天启威压	0	DLC3.0禁区协议四期
+Forbidzone_BuffName24	概率猛袭	0	DLC3.0禁区协议四期
+Forbidzone_BuffName25	提速循环	0	DLC3.0禁区协议四期
+Forbidzone_BuffName26	技巧效率	0	DLC3.0禁区协议四期
+Forbidzone_BuffName27	威能流转	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes1	所有空击智械伤害提升30%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes2	所有空击智械的使用间隔降低20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes3	所有空击智械使用次数增加1次	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes4	所有空击智械布置时间减少2秒	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes5	所有空击智械对友方造成的伤害超大幅降低	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes6	轨道光束和模拟重力的持续时间提升20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes7	腐蚀气弹和空投燃尘弹的持续时间提升20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes8	集束爆破、重火投射和移动重火持续时间提升20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes9	精准光束的攻击次数增加1次	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes10	电流爆破和余焰爆破造成的麻痹和灼烧效果时间提升20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes11	广面爆破/重烈爆破的伤害提升30%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes12	所有陆援智械伤害提升30%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes13	所有陆援智械使用间隔降低20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes14	所有陆援智械使用次数增加1次	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes15	所有陆援智械布置时间减少2秒	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes16	所有陆援智械对友方造成的伤害超大幅降低	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes17	自动射击台、无人机护卫和无人机炮兵的持续时间提升20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes18	机枪塔、榴弹发射台和激光发射台的弹药容量提升20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes19	模拟黑洞和嘲讽罐罐的持续时间提升20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes20	无缝防护和弹药补给的持续时间提升20%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes21	爆破布雷和切割光束网的伤害提升30%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes22	队员的射击伤害提升30%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes23	队员的技能伤害提升30%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes24	队员的暴击伤害提升30%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes25	队员的常规能量回复速度提升35%	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes26	队员的技能急速增加45	0	DLC3.0禁区协议四期
+Forbidzone_BuffDes27	队员的爆发能量获取率提升35%	0	DLC3.0禁区协议四期
+			
+TowerrushName1	连袭高手	0	
+TowerrushName2	连袭专家	0	
+TowerrushName3	连袭大师	0	
+TowerrushName4	纸盒捕手	0	
+TowerrushName5	纸盒猎手	0	
+TowerrushName6	纸盒克星	0	
+TowerrushName7	精锐队员	0	
+TowerrushName8	王牌队员	0	
+TowerrushName9	荣耀队员	0	
+TowerrushName10	脉冲涟漪	0	
+TowerrushName11	脉冲震荡	0	
+TowerrushName12	脉冲强袭	0	
+TowerrushDesc1	脉冲震爆次数	0	
+TowerrushDesc2	消除特殊纸盒	0	
+TowerrushDesc3	个人得分	0	
+TowerrushDesc4	单次最高得分	0	
+			
+DefendSencesDes1	本期随机地图一	0	绝地防线地图预览描述
+DefendSencesDes2	本期随机地图二	0	绝地防线地图预览描述
+DefendSencesDes3	本期随机地图三	0	绝地防线地图预览描述
+			
+SpeedSocreBuffType1	狙击	0	3.3联合清剿buff类型名称
+SpeedSocreBuffType2	速射	0	3.3联合清剿buff类型名称
+SpeedSocreBuffType3	近战	0	3.3联合清剿buff类型名称
+SpeedSocreBuffType4	战技	0	3.3联合清剿buff类型名称
+SpeedSocreBuffType5	辅助	0	3.3联合清剿buff类型名称
+SpeedSocreBuffType0	通用	0	3.3联合清剿buff类型名称
+SpeedSocreConditionDes1	≤{1}秒	0	3.3联合清剿挑战时间规则描述
+SpeedSocreConditionDes2	≥{1}	0	3.3联合清剿挑战积分规则描述
+SpeedSocreRuleTypeDes1	挑战用时	0	3.3联合清剿挑战时间规则title
+SpeedSocreRuleTypeDes2	挑战积分	0	3.3联合清剿挑战积分规则title
+SpeedSocreRuleDes1	尽快击败9波目标，挑战时间越短，获得奖励越多。作战失败后将根据已击败目标数量获取相应的奖励。	0	3.6联合清剿竞速关规则简介
+SpeedSocreRuleDes2	限时4分钟，期间击败目标可获取挑战积分，挑战积分越高，获得奖励越多	0	3.6联合清剿积分关规则简介
+SpeedSocreBoardName1	强化核心-精准型	0	3.3联合清剿技能盘名称
+SpeedSocreBoardName2	强化核心-轰击型	0	3.3联合清剿技能盘名称
+SpeedSocreBoardName3	强化核心-均衡型	0	3.3联合清剿技能盘名称
+SpeedScoreBuffName1	定向狙击	0	3.3联合清剿buff名称
+SpeedScoreBuffName2	过热震荡	0	3.3联合清剿buff名称
+SpeedScoreBuffName3	裂甲晶刃	0	3.3联合清剿buff名称
+SpeedScoreBuffName4	脉冲强化	0	3.3联合清剿buff名称
+SpeedScoreBuffName5	神圣庇佑	0	3.3联合清剿buff名称
+SpeedScoreBuffDes1	击败{1}米外的目标后，攻击力提升{2}%；可叠加{3}层，持续时间无限	0	3.3联合清剿buff描述
+SpeedScoreBuffDes2	射击伤害提升{1}%。进入持续射击状态后，攻击力和防御力每秒提升{2}%，最多提升到{3}%；退出射击状态后每秒降低{4}%。	0	3.3联合清剿buff描述
+SpeedScoreBuffDes3	对{1}米范围内的目标造成伤害后，目标的全类型抗性降低{2}%；可叠加{4}层，持续时间{3}秒	0	3.3联合清剿buff描述
+SpeedScoreBuffDes4	技能伤害提升{1}%。使用技能后，全队技能伤害提升{2}%；可叠加{4}层，持续时间{3}秒	0	3.3联合清剿buff描述
+SpeedScoreBuffDes5	全队受治疗效果提升{1}%。携带者进行治疗后，受治疗的目标伤害提升{2}%并且受到的伤害降低{3}%；持续{4}秒，重复触发时重置持续时间	0	3.3联合清剿buff描述
+SpeedScoreBuffDes6	暴击后可恢复{1}点爆发能量	0	3.3联合清剿buff描述
+SpeedScoreBuffDes7	以自身为中心释放1次震荡波，对周围目标造成队员攻击力{1}%的动能类型伤害，触发间隔{2}秒	0	3.3联合清剿buff描述
+SpeedScoreBuffDes8	召唤落雷攻击距离自身最近的目标，对一定范围内的目标造成队员攻击力{1}%的电击类型伤害，触发间隔{2}秒	0	3.3联合清剿buff描述
+SpeedScoreBuffDes9	射击伤害提升{1}%；射击命中后自身暴击伤害提升{2}%，持续时间{3}秒，可叠加{4}层，叠满后射击有{5}%概率不消耗子弹	0	3.6联合清剿buff描述
+SpeedScoreBuffDes10	主动技能造成的伤害提升{1}%；主动技能命中敌方目标后自身攻击力提升{2}%，最大生命提升{3}%，主动技能伤害提升{4}%，持续{5}秒，重复触发时重置持续时间	0	3.6联合清剿buff描述
+SpeedScoreBuffDes11	攻击力提升{1}%，防御力提升{2}%，最大生命提升{3}%；射击、使用常规技或使用爆发技后均可使自身造成的所有伤害提升{4}%，持续时间{5}秒，触发同种触发效果重置持续时间	0	3.6联合清剿buff描述
+SpeedSocreShopName1	挑战奖励	0	3.3联合清剿商店1名称
+SpeedSocreShopName2	增幅秘匣	0	3.3联合清剿商店2名称
+SpeedSocreCoinName1	增幅芯核	0	3.3联合清剿货币名称
+SpeedSocreCoinName2	挑战芯核	0	3.3联合清剿货币名称
+SpeedSocreCoinName1_des	增幅升级到满级后将转化为增幅芯核，可在芯核兑换所兑换增幅秘匣。活动结束后，多余的芯核会直接清空且不会转化为其他道具，及时去兑换所换取奖励哦！	0	3.3联合清剿货币描述
+SpeedSocreCoinName2_des	挑战关卡获得的奖励代币，可在芯核兑换所兑换挑战奖励。活动结束后，多余的芯核会直接清空且不会转化为其他道具，及时去兑换所换取奖励哦！	0	3.3联合清剿货币描述
+SpeedSocreCoinName1_use	联合清剿芯核兑换所代币	0	3.3联合清剿货币用途描述
+SpeedSocreCoinName2_use	联合清剿芯核兑换所代币	0	3.3联合清剿货币用途描述
+SpeedSocreBuffBoxName1	基础增幅秘匣	0	3.3联合清剿buff宝箱名称
+SpeedSocreBuffBoxName2	高级增幅秘匣	0	3.3联合清剿buff宝箱名称
+SpeedSocreBuffBoxName3	精准增幅秘匣	0	3.3联合清剿buff宝箱名称
+SpeedSocreBuffBoxName4	轰击增幅秘匣	0	3.3联合清剿buff宝箱名称
+SpeedSocreBuffBoxName5	均衡增幅秘匣	0	3.3联合清剿buff宝箱名称
+SpeedSocreBuffBoxName1_des	开启后可获得3个随机增幅，较低概率可获得高级增幅	0	3.3联合清剿buff宝箱描述
+SpeedSocreBuffBoxName2_des	开启后可获得5个随机增幅，较大概率可获得高级增幅	0	3.3联合清剿buff宝箱描述
+SpeedSocreBuffBoxName3_des	开启后可获得5个随机增幅，较大概率可获得狙击、速射类增幅	0	3.3联合清剿buff宝箱描述
+SpeedSocreBuffBoxName4_des	开启后可获得5个随机增幅，较大概率可获得近战、战技类增幅	0	3.3联合清剿buff宝箱描述
+SpeedSocreBuffBoxName5_des	开启后可获得5个随机增幅，可获得各种类型的增幅	0	3.3联合清剿buff宝箱描述
+SpeedSocreBuffBoxName1_use	联合清剿增幅秘匣	0	3.3联合清剿buff宝箱用途描述
+SpeedSocreBuffBoxName2_use	联合清剿增幅秘匣	0	3.3联合清剿buff宝箱用途描述
+SpeedSocreBuffBoxName3_use	联合清剿增幅秘匣	0	3.3联合清剿buff宝箱用途描述
+SpeedSocreBuffBoxName4_use	联合清剿增幅秘匣	0	3.3联合清剿buff宝箱用途描述
+SpeedSocreBuffBoxName5_use	联合清剿增幅秘匣	0	3.3联合清剿buff宝箱用途描述
+SpeedSocreTrialTips	试用队员仅在联合清剿模式中生效	0	3.3联合清剿试用队员界面小字tips
+SpeedSocreBuffBoardEquipTips	该强化核心已装载	0	3.3联合清剿重复装载技能盘的提示
+SpeedSocreBuffBoardNoBuffTips	当前装载的强化核心未配置增幅，是否进入挑战	0	3.3联合清剿技能盘中没有buff的提示
+SpeedSocreNoRecordTips	暂无挑战记录，请完成挑战后再来查看吧	0	3.3联合清剿没有挑战记录时的提示
+SpeedSocreRewardMonsterShowTitle	布雷盒突袭	0	3.3联合清剿战斗中特殊怪出现提示
+SpeedSocreRewardMonsterShowDes	注意！布雷盒已出现，限定时间内击败布雷盒会获得战斗增益	0	3.3联合清剿战斗中特殊怪出现提示
+SpeedSocreRewardMonsterCompleteTitle	成功击败布雷盒	0	3.3联合清剿战斗中特殊怪击败提示
+SpeedSocreRewardMonsterCompleteDes1	已击败盒·笨笨，全队恢复生命，爆发和常规能量获取率提升	0	3.3联合清剿战斗中特殊怪击败提示
+SpeedSocreRewardMonsterCompleteDes2	已击败盒·笑笑，获得大量挑战积分	0	3.3联合清剿战斗中特殊怪击败提示
+SpeedSocreRewardMonsterCompleteDes3	已击败盒·乐乐，全队进入霸体状态并减少受到的伤害	0	3.3联合清剿战斗中特殊怪击败提示
+SpeedSocreRewardMonsterCompleteDes4	已击败盒·闪闪，获得挑战芯核	0	3.3联合清剿战斗中特殊怪击败提示
+SpeedSocreRewardMonsterCompleteDes5	已击败盒·怕怕，全队技能间隔减少，攻击力、射速提升且大概率不耗弹药	0	3.3联合清剿战斗中特殊怪击败提示
+SpeedSocreTaskDes1	当前波次：{1}；击败目标：{2}/{3}	0	3.3联合清剿战斗中任务目标提示
+SpeedSocreTaskDes2	当前波次：{1}/{2}；击败目标：{3}/{4}	0	3.3联合清剿战斗中任务目标提示
+SpeedSocreUI_1	精神协作值奖励提升{1}%	0	3.6联合清剿UI
+DefendJobName1	可使用机枪塔辅助战斗，每次物资发放时获得机枪弹药及榴弹炮弹药	0	3.4绝地防线职业简介
+DefendJobName2	运用天启者能力赶往前线击败来袭的敌方，可购买更多增益辅助作战	0	3.4绝地防线职业简介
+DefendJobName3	可进入资源收集区域采集资源，收集到的资源将按比例共享给其他队员	0	3.4绝地防线职业简介
+JobPreviewLockTips	取消准备后才可更换预选职能	0	绝地防线已准备后点击职业预选按钮的提示
+			
+AssaultOps_TrialTips	试用队员仅在进击行动模式中生效	0	3.5进击行动试用队员提示

@@ -1,0 +1,8 @@
+活动ID	备注	显示方式	显示顺序(优先级数值越大优先级越高)	图片	开始时间	结束时间	跳转	跳转参数	跳转URL(openurl?=www.baidu.com)	解锁条件对应系统UI	对应活动结束时间	已结束跳转状态	广告上的表签字	持有物品过滤({G,D,P,L})	限购礼包过滤(已购且限购达上限)
+Id	Des	ShowType	Sort	Bg	StartTime	EndTime	Jump	JumpParam	Url	Unlock	LevelEndTime	LevelEndJump	LevelEndText	GroupTaskId	GoodsIdLimit
+1	角色蛋池跳转		2	1602054			3	{1}							
+2	武器蛋池跳转		1	1602053			3	{2}							
+3	充值返利活动		5	1602047			15	{10}							
+4	认证通过活动		3	1602069			8	{3}							
+5	测试		4	1602069			8	{3}						{7,2,2,2}	601
+6	测试		6	1602054					openurl?=www.baidu.com						

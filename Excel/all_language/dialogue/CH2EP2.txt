@@ -1,0 +1,70 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	海姆达尔有一名作战队员在执行任务时失踪。	海姆達爾有一名作戰隊員在執行任務時失蹤。	ヘイムダルの隊員の一人がミッション遂行中に行方不明になった。	한 헤임달 대원이 미션을 수행하던 중 실종되었다.	A Heimdall Force member went missing while on a mission.						0	
+2	这属于紧急的事态……我在半夜接到消息，立马前往作战指挥室。	這屬於緊急的事態……我在半夜接到消息，立馬前往作戰指揮室。	これは緊急事態だ……私は深夜にメッセージを見て、直ちに作戦指揮室に向かった。	긴급한 상황이다… 한밤중에 소식을 듣고, 바로 작전 지휘실로 향했다.	The situation was urgent... I received the news in the middle of the night and immediately rushed to the command room.						0	
+3	当我匆忙赶到指挥室，一名女性不知从哪里滚落下来，瘫倒在我脚边，她双眼空洞无神——她是卡罗琳。	當我匆忙趕到指揮室，一名女性不知從哪裡滾落下來，癱倒在我腳邊，她雙眼空洞無神——她是卡羅琳。	指揮室に到着したとき、どさっと音がして女性が椅子から転がり落ちた。私の足元に倒れた彼女を抱き起こすと、なんとそれはカロリンだった。うつろな目で意識もない。	다급히 지휘실에 들어서던 순간, 한 여성이 어디에서 굴러떨어졌는지, 내 앞으로 쓰러진다. 동공에 초점이 풀려있는 그녀는… 캐롤린이다.	As I arrived in the command room in a panic, a woman suddenly fell down, collapsing at my feet. Her eyes were empty; it was Caroline.						0	
+b-1											0	
+4	……卡罗琳。	……卡羅琳。	……カロリン。	… 캐롤린.	...Caroline.						0	
+5	一只电热水壶忽然从桌面上蹦了起来。	一台電熱水壺忽然從桌面上跳了起來。	卓上の電気ケトルが突然反応した。	순간, 테이블 위에서 전기포트가 갑자기 뛰어오르는데…	An electric kettle suddenly jumped up from the table.						0	
+6	嗨……分析员……要喝杯……热水……吗？	嗨……分析員……要喝杯……熱水……嗎？	こんにちは……分析員……お湯を……飲みますか？	아아… 분석가님… 따뜻한 물… 한 잔… 하시겠어요?	Hi... Adjutant... Would you like a cup of... hot water?						0	
+7	唔……哦……哦哦……抱歉……稍等。	唔……哦……哦哦……抱歉……稍等。	ん……お……おお……すみません……ちょっと待って。	흠… 아, 아… 죄송해요… 잠시만요.	Um... uh... oh... Sorry... One moment.						0	
+b-2											0	
+8	这是你的新娱乐方式？	這是你的新娛樂方式？	それが君の新しい趣味か？	새로운 놀이 방식인가?	Is this some new eccentric hobby of yours?						0	
+9	新的休息方式。	新的休息方式。	新しい休み方です。	새로운 휴식 방식이에요.	It's a new way for me to relax.						0	
+10	把生化副脑连接在计算单元数量较少的智能电器上，能让我放松一段时间。就像海豚会让左右脑分开休息一样。	把生化副腦連接在計算單元數量較少的智慧電器上，能讓我放鬆一段時間。就像海豚會讓左右腦分開休息一樣。	バイオ補助脳を計算ユニットの少ないスマート家電に接続すると疲れが取れるんですよ。イルカが左脳と右脳を別々に休ませるのと同じです。	생화학 부뇌 조직을 스마트 기기에 연결하면 한동안 긴장을 풀 수 있거든요. 돌고래가 좌뇌와 우뇌를 돌아가면서 쉬는 것처럼요.	Connecting my biochemical auxiliary brain to a smart appliance with minimal computing power allows me to relax for a bit. Like when a dolphin rests half of its brain.						0	
+11	她看见我开始查阅资料。	她看見我開始查閱資料。	彼女は私が情報を調べ始めるのを見た。	그녀는 내가 자료를 찾아보는 모습을 본다.	Caroline watched as I started checking the brief.						0	
+12	紧急事态？	緊急事態？	緊急事態ですか？	긴급한 상황인가요?	The emergency?						0	
+b-3											0	
+13	妮塔失踪了。	妮塔失蹤了。	ニタが行方不明だ。	니타가 실종됐어.	Nita is missing.						0	
+14	她应该正在执行「调查<snowbreak>降临团</>据点」这个任务……	她應該正在執行「調查<snowbreak>降臨團</>據點」這個任務……	彼女は「<snowbreak>降臨団</>の拠点調査」のミッションを遂行中のはず……	지금쯤 [<snowbreak>강림단</> 아지트 조사] 미션을 수행하고 있을 텐데요…	Her mission was to "investigate the <snowbreak>Adventists</>' stronghold"...						0	
+15	我来帮你调取资料。	我來幫你調資料。	私が情報の調査を手伝います。	제가 자료 찾는 것을 도와드릴게요.	I'll help you get more information.						0	
+b-4											0	
+16	降临团？	降臨團？	降臨団？	강림단?	The Adventists?						0	
+17	我忘了，你还没跟他们交过手。	我忘了，你還沒跟他們交過手。	忘れてました、あなたは彼らとまだ戦ったことがないんでしたね。	아, 제가 깜빡했네요. 분석가님은 아직까지 한 번도 상대해 보신 적이 없죠.	Oh, I forgot you haven't run into them yet.						0	
+18	“降临”事件后，零区内不知道从哪里冒出来的一群老鼠，自称所谓的“降临团”。	“降臨”事件後，零區內不知道從哪裡冒出來的一群老鼠，自稱所謂的“降臨團”。	「降臨事件」の後、どこから湧いてきたかわからない連中が、「降臨団」と名乗り始めました。	 '강림 사건' 이후, 제로 구역에는 정체 모를 녀석들이 나타나기 시작했어요. 그들은 자신들을 '강림단'라고 부르고 있고요.	After the Descent, a bunch of rats crawled out of nowhere, calling themselves the "Adventists" and the cataclysmic event a divine "Advent" instead.						0	
+19	那些家伙，是一群把泰坦奉为神明的疯子，视零区内散布的污染为恩泽，视异化人为偶像。	那些傢伙，是一群把泰坦奉為神明的瘋子，視零區內散佈的汙染為恩澤，視異化人為偶像。	奴らは、タイタンを神として称え、エリアゼロの汚染を恵みと見なし、変異者を偶像として崇拝するイカれた狂人です。	타이탄을 신으로 받드는 정신 나간 녀석들이에요. 제로 구역에 퍼진 오염을 신의 은총이라고 생각하고 변이자들을 우상으로 여기죠.	They're just a bunch of wackos who worship the Titans like gods, see the Titagen in the Containment Zone as a blessing, and consider the Changed as their idols.						0	
+20	他们的<orange>“主事”</>和<orange>“大主”</>经常散播一些歪门邪说，以此来笼络零区内的拾荒者，发展会员。	他們的<orange>“主事”</>和<orange>“大主”</>經常散播一些邪門歪道，以此來攏絡零區內的拾荒者，發展會員。	奴らの<orange>「司教」</>と<orange>「大司教」</>はよく邪説を撒き散らすことでエリアゼロのスカベンジャーを篭絡し、信者を増やしています。	그들의 <orange>'이사'</>와 <orange>'교주'</>는 잘못된 사이비 이론을 퍼뜨려 제로 구역에 있는 피난민들을 신자로 만들고 있어요.	Their <orange>Exarch</> and <orange>High Presbyter</> spread their deceitful cult ideology to recruit scavengers within the Containment Zone.						0	
+21	如果可能的话，不要招惹他们。假设已经招惹到了，不要犹豫，立刻反击。	如果可能的話，不要招惹他們。假設已經招惹到了，不要猶豫，立刻反擊。	可能なら彼らと関わらないでください。もし揉めたら、躊躇なく反撃してください。	가능하면 건드리지 않는 게 좋아요. 만약 건드리게 되는 상황이 생기면, 망설이지 말고 바로 반격을 하셔야 하고요.	Don't get mixed up with them if you can help it. But if they mess with you, don't hesitate to fight back.						0	
+22	他们对你们可不会手下留情。	他們對你們可不會手下留情。	相手は情けをかけてくれませんから。	그들은 저희의 사정을 봐주지 않을테니까요.	They won't show you any mercy.						0	
+b-5											0	
+23	大概明白了。	大概明白了。	大体分かった。	대충 알겠어.	Alright, I think I understand.						0	
+24	老板！	老闆！	ボス！	대표님!	Boss!						0	
+25	playername，我有一个要求。	playername，我有一個要求。	playername、お願いがあります。	playername, 한 가지 요구사항이 있어.	playername, I have a request.						0	
+26	在搜救队员的同时，继续寻找降临团藏匿的「违禁物」。	在搜救隊員的同時，繼續尋找降臨團藏匿的「違禁物」。	隊員の救助をしながら、降臨団が隠した「禁制物」を探してください。	대원을 구출하는 동시에, 강림단이 숨겨놓은 [금기물]을 찾도록 해.	While you are rescuing your missing teammate, also search for the forbidden object that the Adventists are hiding.						0	
+b-6											0	
+27	什么违禁物？	什麼違禁物？	禁制物とは？	금기물이요?	What forbidden object?						0	
+28	「它」会散播强烈的泰坦污染。	「它」會散播強烈的泰坦汙染。	あれは強力なタイタン汚染物質で、周囲に甚大な被害を及ぼします。	[그것]은 강력한 타이탄 오염을 내뿜고 있을 거야.	It spreads potent Titagen.						0	
+29	你可以利用防护服上的“<snowbreak>歌唱者系统</>”来判断它的方位。	你可以利用防護服上的「<snowbreak>歌唱者系統</>」來判斷它的方位。	防護服の「<snowbreak>シンガーシステム</>」を使えば、その位置を判断することができます。	방호복의 '<snowbreak>코러스 시스템</>'으로 위치를 판단할 수 있어.	You can use the <snowbreak>Chorus System</> equipped in your suit to determine its location.						0	
+30	一旦对方发现了我们的目的，很有可能会转移这个违禁物。	一旦對方發現了我們的目的，很有可能會轉移這個違禁物。	相手が私たちの目的に気付いたら、禁制物を移動する可能性が非常に高いので、ことは早急に。	하지만 강림단이 우리 목적을 알아차리면 금기물을 분명 이전하려 할 거야.	Once they discover our goal, it's likely that the forbidden object will be moved.						0	
+31	在必要时，搜寻违禁物这个目标的优先级，要高于搜救队员，明白了吗？	在必要時，搜尋違禁物這個目標的優先級，要高於搜救隊員，明白了嗎？	必要な場合は、禁制物の捜索が隊員の救助よりも優先されます。分かりましたか？	필요하면 금기물 수색을 대원 구출보다 우선시하도록 해, 알겠어?	If it comes to it, finding the forbidden object is your highest priority, more so than rescuing your teammate. Understood?						0	
+b-7											0	
+32	我会根据实际情况来判断。	我會根據實際情況來判斷。	状況に応じて判断します。	현장 상황에 따라 판단할게요.	I will act accordingly if the time comes.						0	
+33	我相信，你知道什么是对的。	我相信，你知道什麼是對的。	私はあなたが正しい判断が出来ると信じていますよ。	항상 옳은 판단을 내릴 거라 믿을게.	I trust that you know what to do.						0	
+34	陶最后给了我一个意味深长的眼神，然后切断了全息通讯。	τ最後給了我一個意味深長的眼神，然後切斷了全息通訊。	τは最後に意味ありげな目つきで私を見つめ、ホログラフィック通信を切断した。	τ는 의미심장한 눈빛을 마지막으로 홀로그램 통신을 끊었다.	In the end, τ gave me a meaningful look before ending the holographic communication.						0	
+35	这会和我对卡罗琳的试探有关联吗？	這會和我對卡羅琳的試探有關聯嗎？	彼女は……私が命令に、ひいては会社に忠実なのか警戒している？新型抑制剤について探ろうとしたからだろうか……。	혹시 내가 캐롤린에 대해 떠보는 것과 관련이 있는 걸까?	Could it have had something to do with me testing Caroline?						0	
+36	啊，看来我们找对地方了。	啊，看來我們找對地方了。	うん、ここで合ってるわ。	흠… 아무래도 잘 찾아온 거 같은데?	Well, it looks like we've found the place.						0	
+37	降临团版的“闲人免入”。	降臨團版的“閒人勿入”。	降臨団流の「部外者立入禁止」の標識よ。	강림단 표식이야. '관계자 외 출입금지'.	This is the Adventist version of an "Authorized Personnel Only" sign.						0	
+38	他们的胆子真是越来越大了，在我们眼皮底下堂而皇之地喷涂这种东西。	他們的膽子真是越來越大了，在我們眼皮底下堂而皇之地噴塗這種東西。	堂々とこんな落書きを残しているなんて、本当に肝が据わってるのね。	갈수록 겁을 상실하는 녀석들이군… 우리가 있는 곳 바로 앞에도 이렇게 대놓고 표식을 하다니.	They've got some nerve, openly painting stuff like this in areas under company control.						0	
+39	他们的胆子一直很大。	他們的膽子一直很大。	彼らは常に大胆だ。	원래 강림단은 겁을 낸 적이 단 한번도 없었어.	They've always been bold.						0	
+40	分析员，提醒一下，尽量不要跟降临团会员冲突，或者在他们面前向异化人开枪。	分析員，提醒一下，盡量不要跟降臨團會員衝突，或者在他們面前向異化人開槍。	分析員、「できるだけ降臨団の信者とは揉めるな」「あいつらの目の前で変異者を撃つな」。覚えといてね。	분석가, 이 점은 명심해. 신자들하고는 가급적 엮이지 않는 게 좋고, 특히 그들 앞에서는 변이자를 향해 절대 총을 쏘면 안 돼.	Let me remind you, Adjutant — try to avoid clashing with Adventists or shooting Changed in front of them.						0	
+41	不然的话，就会立马麻烦缠身。	不然的話，就會立馬麻煩纏身。	じゃなきゃ面倒なことになるわよ。	그렇지 않으면 정말 귀찮아질 테니까…	Do that, and we really would be in trouble.						0	
+42	跟郊狼不同，降临团的会员们，根本就是无法沟通的疯子。	跟郊狼不同，降臨團的會員們，根本就是無法溝通的瘋子。	コヨーテと違って、降臨団の信者は話が全く通じない狂人よ。	코요테와 달리 강림단 신자들은 아예 말이 안 통하는 미치광이들이거든.	Adventists aren't like Coyotes. They're more than happy to die in the name of their beliefs.						0	
+43	嘘！	噓！	しっ！	쉿!	Shh!						0	
+44	好像有声音。	好像有聲音。	声が聞こえる。	무슨 소리가 들린 것 같은데?	I think I can hear a voice.						0	
+45	泰坦！聆听我的祷告！赐我蒙召！	泰坦！聆聽我的禱告！賜我蒙召！	タイタンよ、我の祈りを聞きたまえ！我を召喚したまえ！	타이탄 님! 제 기도를 들어주시고, 은총을 내려주시옵소서!	Titans! Hear my prayer! Bestow your summons upon me!						0	
+46	泰坦……聆听我的祷告……赐我蒙召……	泰坦……聆聽我的禱告……賜我蒙召……	タイタンよ……我の祈りを聞きたまえ……我を召喚したまえ……	타이탄 님… 제 기도를 들어주시고… 제게 은총을…	Titans... Hear my prayer... Bestow your summons upon me...						0	
+47	我！我感到！我要！我要蒙召了！	我！我感到！我要！我要蒙召了！	感じる！私は、私は召喚される！	느! 느껴져! 내! 내가 은총을!	I! I can feel it! I'm about to be summoned!						0	
+48	他要蒙召了！祝福他！远离苦难！荣登神国！	他要蒙召了！祝福他！遠離苦難！榮登神國！	彼は召喚される！彼に祝福を！苦しみから解放されよ！神の国に昇り詰めよ！	은총을 받으려 한다! 축복이 그에게 내려진 거야! 고난을 떠나! 신의 나라로!	He is about to be summoned! Bless him! He is free from suffering! Ascend to the kingdom of the Divine!						0	
+49	看来，那群疯子就在附近了……	看來，那群瘋子就在附近了……	どうやら、奴らが近くにいるみたいね……	보아하니, 미치광이들이 가까이에 있는 것 같네…	Sounds like those weirdos are close by...						0	
+50	嘶……哈……吼……	嘶……哈……吼……	はあ……はあ……ほぉ……	크르르… 하아악…	Tss... haaa...						0	
+51	……	……	キャッ……！来ないで！	…	...						0	
+b-8											0	
+52	芬妮，我们好像不能在降临团面前对异化人开枪。	芬妮，我們好像不能在降臨團面前對異化人開槍。	ファニー、降臨団の前では変異者を撃たないんだったよな？	페니, 강림단 신자들 앞에서 변이자에게 총을 쏘면 안 된다고 했던 것 같은데.	Fenny, you said we shouldn't shoot any Changed in front of the Adventists...						0	
+53	本小姐这是自卫！我可不想让他脏兮兮的爪子碰到！	本小姐這是自衛！我可不想被他髒兮兮的爪子碰到！	今のは正当防衛よ！あいつらの汚い爪が触れるなんて嫌よ！	이 몸은 정당방위였다고! 저런 더러운 손이 날 만지는 건 딱 질색이야!	I was just defending myself! I didn't want his grimy hands anywhere near me!						0	
+54	分析员，好像有麻烦。	分析員，好像有麻煩。	分析員、面倒なことになった。	분석가, 문제가 생겼어.	This looks like trouble, Adjutant.						0	
+55	一群身穿破烂长袍，苦修者打扮的人，不知什么时候出现在隧道尽头。	一群身穿破爛長袍，苦修者打扮的人，不知什麼時候出現在隧道盡頭。	ボロボロのローブを着た苦行者一行が、いつの間にかトンネルの先に現れていた。	낡은 로브를 입고 고행자의 차림을 한 사람이 어느새 터널의 끝에 나타나 있었다.	A group dressed in tattered Adventist robes appeared at the end of the tunnel.						0	
+56	你们……竟然敢！伤害蒙召者！	你們……竟然敢！傷害蒙召者！	よくも……召喚されし者を傷付けたな！	이 녀석들… 감히 은총인을 다치게 하다니!	You... how dare you! You would take up arms against their herald!						0	
+57	不可原谅！	不可原諒！	許すまじ！	용서할 수 없어! 용서할 수 없어!	Unforgivable!						0	
+57_1	不可原谅！！！	不可原諒！！！	許すまじ！！！	용서할 수 없어!!!	Unforgivable!!!						0	
+58	这是不可原谅的亵渎！	這是不可原諒的褻瀆！	許すまじ冒涜である！	이건 절대로 용서할 수 없는 모독이야!	Such heresy is absolutely inexcusable!						0	
+59	分析员，你可要在报告里写清楚，本小姐是迫不得已！	分析員，你一定要在報告裡寫清楚，本小姐是迫不得已！	分析員、今回のレポートには、やむを得ない状況だったって書いてよね！	분석가, 보고서에 사실대로 적어! 이 몸은 정말 어쩔 수 없었다고!	Adjutant, you better make it clear in your report that I was forced into this!						0	

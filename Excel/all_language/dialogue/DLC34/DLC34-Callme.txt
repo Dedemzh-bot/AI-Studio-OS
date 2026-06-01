@@ -1,0 +1,43 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，准备好了吗？我要把眼罩取下来了哦。	分析員，準備好了嗎？我要把眼罩取下來了哦。	分析員、準備はいい？アイマスク取るよ。	분석가, 준비됐어? 이제 안대 벗길게?	Adjutant... are you ready? I'm going to take the blindfold off now~						0	3.4电话陪伴剧情
+2	嘿嘿~欢迎来到，魔法少女的小屋。	嘿嘿~歡迎來到，魔法少女的小屋。	へへ～ようこそ、魔法少女のお屋敷へ！	헤헤~ 마법 소녀의 방에 온 걸 환영해.	Hehe~ Welcome... to the haven of your little magic girl, Bubu.						0	3.4电话陪伴剧情
+3	既然来到了这里，卜卜~可不想轻易放过你了哦~	既然來到了這裡，卜卜~可不想輕易放過你了哦~	ここに来たからには、もう逃がさないよ～	이곳에 온 이상, 보보는~ 널 쉽게 보내주지 않을 거야~	Now that you're here... I'm not letting you slip away so easily~						0	3.4电话陪伴剧情
+4	和我缔结契约吧，分析员。	和我締結契約吧，分析員。	わたしと契約を交わそうよ。分析員。	나랑 계약을 맺어 줘, 분석가.	Seal a master-familiar contract with me, Adjutant...						0	3.4电话陪伴剧情
+5	让卜卜尽情汲取你的魔力。	讓卜卜盡情汲取你的魔力。	ブブに、あなたの魔力をたっぷり吸わせてね。	보보가 너의 마력을 마음껏 빨아들일 수 있게 해줘.	Let me drink in your magic... as much as you'll allow.						0	3.4电话陪伴剧情
+6	这样，我才能成为强大的魔法少女哦~	這樣，我才能成為強大的魔法少女哦~	そうすれば、すっごい魔法少女になれるから～！	그래야 내가 강력한 마법 소녀가 될 수 있거든~	Only then... can I truly become a powerful magic girl~						0	3.4电话陪伴剧情
+7	嘿嘿~就知道你会答应我的。	嘿嘿~就知道你會答應我的。	ふふ～OKしてくれるって思ってたよ。	헤헤~ 역시 받아줄 줄 알았어.	Hehe~ I knew you'd say yes.						0	3.4电话陪伴剧情
+8	不过在此之前，我们还需要做些小小的准备。	不過在此之前，我們還需要做些小小的準備。	でもその前に、ちょっとした準備が必要なの。	하지만 우선 약간의 준비가 필요해.	But before that... we need a little bit of preparation.						0	3.4电话陪伴剧情
+9	首先，得调配出一份，待会能在缔约仪式上用到的魔药。	首先，得調配出一份，待會能在締約儀式上用到的魔藥。	まずは契約の儀式で使う魔法薬を調合しておかないとね。	먼저, 계약 의식에 사용될 마법 약을 만들어야 해.	First... we'll brew a potion — for the ritual that seals our bond.						0	3.4电话陪伴剧情
+10	唔，让我看看书里的配方是怎么写的……	唔，讓我看看書裡的配方是怎麼寫的……	えっと……レシピには、なんて書いてあったっけ……	음, 책에 적힌 레시피를 한번 볼까…	Mmm... let's see what the grimoire says...						0	3.4电话陪伴剧情
+11	把鼠尾草剪段……	把鼠尾草剪段……	セージを切って……	샐비어를 잘라서…	Cut the sage into tiny leaves...						0	3.4电话陪伴剧情
+12	加上两块神奇萝卜，再和梦境水晶一起捣碎。	加上兩塊神奇蘿蔔，再和夢境水晶一起搗碎。	魔法ニンジンを二切れ、夢見の水晶と一緒にすり潰して。	신비한 무 두 조각을 넣고 꿈의 크리스털과 함께 으깬다.	Add two slices of enchanted radish, then mash them together with a dream crystal.						0	3.4电话陪伴剧情
+13	倒入生命树的汁液和独角兽的眼泪，慢慢搅拌。	倒入生命樹的汁液和獨角獸的眼淚，慢慢攪拌。	命の樹の樹液とユニコーンの涙を加えてゆっくり混ぜ合わせる……	생명나무 즙과 유니콘의 눈물을 부어서 천천히 젓는다.	Pour in some Tree-of-Life sap, plus a few drops of unicorn tears. And stir~ Slowly~						0	3.4电话陪伴剧情
+14	咦……诶？魔药黏糊糊……嗯！难不倒卜卜！	咦……欸？魔藥黏糊糊……嗯！難不倒卜卜！	あれ……？魔法薬がドロドロネバネバに……でも大丈夫！ブブはできる子だから！	어… 어라? 마법 약이 끈적끈적해… 음! 그래도 보보를 막을 순 없지!	Oh? It's a little sticky... Mmm — nothing Bubu can't handle!						0	3.4电话陪伴剧情
+15	好了，魔药制作成功~	好了，魔藥製作成功~	よし、完成～	좋았어, 마법 약 제조 성공~	Alright~ Our potion is ready.						0	3.4电话陪伴剧情
+16	分析员~因为卜卜还不够强大，所以必须借助你的力量，才能消化、吸收掉魔药。	分析員~因為卜卜還不夠強大，所以必須借助你的力量，才能消化、吸收掉魔藥。	ブブはまだ未熟だから、分析員の力がないと魔法薬を消化して吸収しきれないの。	분석가~ 보보는 아직 스스로 마법 약을 소화하고 흡수할 만큼 강하지 않아서, 너의 힘이 필요해.	Adjutant... I'm not strong enough to channel it alone. I'll need your help to absorb it~						0	3.4电话陪伴剧情
+17	简单说来就是……	簡單說來就是……	つまり……	쉽게 말하자면…	Here's how it works...						0	3.4电话陪伴剧情
+18	分析员作为赐予魔力的一方，先把魔药全部喝下，再经由你的身体，萃取给我。	分析員作為賜予魔力的一方，先把魔藥全部喝下，再經由你的身體，萃取給我。	分析員がまず、魔法薬を全部飲み干して、その体を通してブブに分け与えてほしいの。	분석가가 마력의 제공자로서 마법 약을 모두 마시고, 네 몸을 통해 나에게 정제해서 주는 거야.	You'll drink the potion, and let the magic flow through you... until I can draw the resonance out and join it with mine.						0	3.4电话陪伴剧情
+19	嘿嘿，分析员答应啦？那就让卜卜来喂你。	嘿嘿，分析員答應啦？那就讓卜卜來餵你。	え、本当にいいの？じゃあ、ブブが飲ませてあげる。	헤헤, 분석가, 그렇게 해줄 거지? 그럼 보보가 직접 먹여줄게.	Hehe~ You're okay with that? Perfect~ Then... may I feed you the potion?						0	3.4电话陪伴剧情
+20	诶……味道有些苦？我尝尝！	欸……味道有些苦？我嘗嘗！	え……苦い？どれどれ……	앗… 맛이 좀 쓰다고? 내가 한번 맛볼게!	Hmm? It's bitter? Let me taste!						0	3.4电话陪伴剧情
+21	好苦！看来得找点甜甜的调味品才行。	好苦！看來得找點甜甜的調味品才行。	げっ、にがっ！甘い調味料を入れなきゃだね。	정말 쓰네! 달콤한 걸 좀 넣어봐야겠어.	Ah... you're right. We should add a little sweetness.						0	3.4电话陪伴剧情
+22	蜂蜜、焦糖，还是……卜卜？分析员想选哪一种呢？	蜂蜜、焦糖，還是……卜卜？分析員想選哪一種呢？	蜂蜜、キャラメル、それとも…ブブ？分析員、どれがいい？	꿀, 카라멜, 아니면… 보보? 분석가는 어떤 게 좋아?	Honey, caramel, or maybe... a little sweetness from me? Which would you like, Adjutant~?						0	3.4电话陪伴剧情
+23	其实不用你说，我也知道答案是什么哦~	其實不用你說，我也知道答案是什麼哦~	言わなくても、答えはもうわかってるけどね～	사실 말하지 않아도 난 이미 답을 알고 있지~	You don't even have to say it... I can tell~						0	3.4电话陪伴剧情
+24	这里涂一点，锁骨上也涂一些……还有这儿~	這裡塗一點，鎖骨上也塗一些……還有這兒~	ここにも、鎖骨にも、そしてここにも塗って…	여기에 조금 바르고, 쇄골에도 좀 발라주고… 그리고 여기도~	A drop here... a little across my collarbone... and just a touch more... here~						0	3.4电话陪伴剧情
+25	好啦~分析员，请……尽情享用吧。	好啦~分析員，請……盡情享用吧。	さあ、どうぞ、存分に味わって！	자~ 분석가, 이제… 마음껏 즐겨봐.	Done~ Adjutant... All yours to enjoy~						0	3.4电话陪伴剧情
+26	哈……哈……好温暖。	哈……哈……好溫暖。	はぁ……はぁ……すごく温かい。	하… 하… 따뜻해.	Haa... so... so warm...						0	3.4电话陪伴剧情
+27	很快就能得到魔药了吧？我都渴得有些难以忍受了。	很快就能得到魔藥了吧？我都渴得有些難以忍受了。	早く魔法薬が欲しいな。これ以上じらさないでよ。	곧 마법 약을 받을 수 있겠지? 너무 갈증 나서 힘들 지경이야.	It's coming... right? I can feel the magic building up inside me... I'm so thirsty for it, it's almost unbearable...						0	3.4电话陪伴剧情
+28	该怎么办好呢？	該怎麼辦好呢？	どうしたらいい？	어떻게 할까?	What should I do...?						0	3.4电话陪伴剧情
+29	唔……	唔……	むむ……	으…	Hmm...						0	3.4电话陪伴剧情
+30	分析员，我来帮你加快萃取的过程吧，这样卜卜，也可以早点得到……	分析員，我來幫你加快萃取的過程吧，這樣卜卜，也可以早點得到……	分析員、抽出するの手伝うね！ブブも早く魔法薬を飲めるし…	분석가, 내가 빨리 정제되도록 도와줄게. 그래야 보보도 빨리…	Adjutant, let me help you speed along the channeling process... that way you can give it to me sooner...						0	3.4电话陪伴剧情
+31	嗯？快来了吗？卜卜已经做好准备了哦~	嗯？快來了嗎？卜卜已經做好準備了哦~	ん？もうすぐなの？ブブも準備できてるよ～	응? 거의 다 됐다고? 보보는 준비됐어~	Hm? It's coming? I'm ready whenever you are~						0	3.4电话陪伴剧情
+32	分析员，看这里~	分析員，看這裡~	分析員、ここ見て～	분석가, 여기 봐~	Adjutant, look~						0	3.4电话陪伴剧情
+33	这儿是卜卜的契印所在，用最精纯的魔药浇灌这里，我们就能完成缔约了。	這裡是卜卜的契印所在，用最精純的魔藥灌溉這裡，我們就能完成締約了。	ここがブブの契約の印……最も純粋な魔法薬を注いでくれれば、契約完了だよ。	보보의 계약 증표가 있는 곳이야. 가장 순수한 마법 약으로 이곳을 적시면 우리의 계약이 완성돼.	This spot right here... it's where our contract will be sealed. When you're ready, pour your purest magic into it... and our bond will be complete.						0	3.4电话陪伴剧情
+34	我会全部、好好地接下，不过分析员也要对准一些，可不要浪费了哦~	我會全部、好好地接下，不過分析員也要對準一些，可不要浪費了哦~	ちゃーんと全部、受け止めるから、しっかり狙ってね。ムダにしちゃだめだからね。	남김없이 잘 받아들일 테니까, 분석가도 잘 겨냥해 줘. 낭비하면 안 되니까~	I'll take it all in... every drop of your power. Aim carefully, Adjutant... I don't want any of it to go to waste~						0	3.4电话陪伴剧情
+35	唔……	唔……	むむ……	으음…	Hmm...						0	3.4电话陪伴剧情
+36	咕……	咕……	ぐっ……	꿀꺽…	*gulp*						0	3.4电话陪伴剧情
+37	分析员的……味道也太棒了吧。	分析員的……味道也太棒了吧。	分析員の……味、最高。	분석가… 너무 맛있어.	Mmm... your magic tastes incredible, Adjutant...						0	3.4电话陪伴剧情
+38	身体有一种酥酥麻麻的感觉，我好像……发生了些奇怪的变化呢。	身體有一種酥酥麻麻的感覺，我好像……發生了些奇怪的變化呢。	体がフワフワしてる……ブブ、ちょっと変になっちゃったかも……	몸이 저릿저릿한 느낌이 들어. 나한테… 이상한 변화가 일어난 것 같아.	There's a warm, tingling sensation through my body... I think... something inside me is changing.						0	3.4电话陪伴剧情
+39	现在，是不是该叫分析员……主人了呢？	現在，是不是該叫分析員……主人了呢？	これからは……マスターって呼ぼうかな？	이제 분석가를… 주인님이라고 불러야 하나?	From now on... should I be calling you... Master?						0	3.4电话陪伴剧情
+40	毕竟，缔结契约的仪式，已经完成了嘛。	畢竟，締結契約的儀式，已經完成了嘛。	だって、契約の儀式はもう終わったし。	왜냐하면, 계약의 의식을 이미 맺었으니까.	After all... our contract is finally complete.						0	3.4电话陪伴剧情
+41	之后，也请主人别忘记，要多多地~给予卜卜魔力哦~	之後，也請主人別忘記，要多多地~給予卜卜魔力哦~	これからも、た～っぷりブブに魔力を分けてね、マスター～	주인님, 기억해 둬. 앞으로도 보보에게 마력을 가득가득~ 줘야 한다는 걸~	So, Master, don't forget to keep sharing your magic with me, okay~?						0	3.4电话陪伴剧情

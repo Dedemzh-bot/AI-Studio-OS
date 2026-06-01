@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	看来，这里已经彻底成为降临团的窝点啦。	看來，這裡已經徹底成為降臨團的據點啦。	どうやら、ここはすっかり降臨団の拠点になっているみたいね。	이곳은 이미 강림단 아지트로 변한 거 같네.	Looks like this place has been completely overrun by the Adventists.						0	
+2	明明我上次来还没这么夸张。	明明我上次來還沒這麼誇張。	前来た時はここまでじゃなかったのに……	저번에 왔을 때만 해도 이정도는 아니었는데.	I didn't notice this when I came here last time.						0	
+3	他们最近很活跃，确实不太寻常。那支失踪的<orange>调查队</>，或许正与此有关。	他們最近很活躍，確實不太尋常。那支失蹤的<orange>調查隊</>，或許正與此有關。	最近やつらの活動頻度がやけに高いのも怪しい。行方不明になった<orange>調査隊</>とも関係しているかもしれない。	요즘에 활발히 행동하는 걸 보면 뭔가 꿍꿍이가 있는 거 같아. 아마 실종된 <orange>조사단</>하고 관련이 있을 수도 있어.	They've been unusually active lately, the missing <orange>investigation team</> may have something to do with it.						0	

@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	自动贩卖机前的女孩是……琴诺吗？	自動販賣機前的女孩是……琴諾嗎？	自動販売機の前にいるのは、チェルノか？	자판기 앞에 있는 여자아이는… 체르노?	Is the girl in front of that vending machine... Cherno?						0	
+page1.2	怎么了，小琴诺？	怎麼了，小琴諾？	どうしたんだ、チェルノちゃん？	무슨 일이야, 체르노?	What's wrong, Cherno?						0	
+page1.3	啊，是分析员！	啊，是分析員！	あ、分析員さん！	아, 분석가님!	Ah, Adjutant!						0	
+page1.4	那个……巧克力被卡住了。	那個……巧克力被卡住了。	あの……チョコが詰まっちゃって。	그게… 초콜릿이 끼었어요.	Uh... the chocolate got stuck.						0	
+page1.5	我看看。嗯，这个得请教下妮塔才行，她对这个熟悉。	我看看。嗯，這個得請教一下妮塔才行，她對這個熟悉。	見せてみて。うーん、これは修理してもらう必要があるね。	한번 볼까? 흠, 이건 이 분야에 익숙한 니타가 와서 봐야 할 것 같은데?	Let me take a look. Hmm, looks like we need to call Nita to fix this. She's more familiar with this thing.						0	
+page1.6	等一下，我去问问她。	等一下，我去問問她。	ニタなら詳しいかも、ちょっと聞いてみるね。	잠깐만요, 제가 한번 물어볼게요.	Wait a second — I'll ask her.						0	
+aside01	半小时后	半小時後	30分後	30분 후	Thirty minutes later						0	
+page1.8	总算修好了，来，你的巧克力。	總算修好了，來，你的巧克力。	やっと直ったよ、ほら、君のチョコだ。	이제 다 고쳤어. 자, 여기 체르노 초콜릿.	Well, it's all fixed now. Here's your chocolate.						0	
+page1.9	谢谢分析员！	謝謝分析員！	ありがとうございます、分析員さん！	고마워요, 분석가님!	Thank you, Adjutant!						0	
+page1.10	小琴诺很喜欢巧克力吗？居然能为了一块巧克力等那么久。	小琴諾很喜歡巧克力嗎？居然能為了一塊巧克力等那麼久。	チェルノはそんなにチョコが好きなのか？ずっと待ってるなんて。	체르노는 초콜릿을 좋아하는구나? 초콜릿 한 조각을 이렇게까지 오래 기다리다니.	Do you love chocolate, Cherno? You've been really patient for just one chocolate bar.						0	
+page1.11	也……也不是，其实是莫尔索她喜欢。	也……也不是，其實是莫爾索她喜歡。	それは……そうでもないんですけど、実はムルソーが好きでして。	아… 꼭 그런 건 아니에요. 사실 모르소가 좋아해서 그래요.	N... No, it's actually Meursault who likes it.						0	
+page1.12	只是，她好像从来不吃我做的巧克力……	只是，她好像從來不吃我做的巧克力……	でも、彼女は私が作ったチョコを全然食べてくれなくて……	단지 모르소가 제가 만든 초콜릿을 먹으려고 하지 않아서…	It's just... it seems like she never eats the chocolate I make...						0	
+page1.13	啊，还有这种事吗……	啊，還有這種事嗎……	え、そんなことが……	아, 그런 일이 있었구나…	Ah, really...?						0	
+page1.14	（没想到连莫尔索都没法接受琴诺的料理……）	（沒想到連莫爾索都沒辦法接受琴諾的料理……）	（ムルソーでさえチェルノの料理を食べられないなんて……）	(모르소까지 체르노 음식을 거절할 줄이야…)	(I was surprised that even Meursault couldn't handle Cherno's baking...)						0	

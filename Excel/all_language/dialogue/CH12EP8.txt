@@ -1,0 +1,110 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	密室的灯光昏暗，端坐的身影在明暗之间摇摆不定。	在燈光昏暗的密室中，端坐的身影在明暗之間搖曳。	密室の薄暗い照明にあわせて、そこで腰かけている人物の影もかすかに揺れていた。	어두컴컴한 밀실에서 단정하게 앉은 한 실루엣이 빛과 그늘 사이에서 흔들렸다.	The lighting in the backroom was dim, the seated figure wavering between light and darkness.						0	
+2	莱瓦汀呼叫总部，“魔术师”违规泄密，拒不执行命令，已被处决。	萊瓦汀呼叫總部，「魔術師」違規洩密且拒不執行命令，現已被處決。	こちらレーヴァテイン。機密情報の漏洩及び命令違反のため、「マジシャン」を処分いたしました。	레바틴입니다, 본부를 호출합니다. '매지션'은 정보를 유출하고 명령을 거부해 처형되었습니다.	Laevatain to headquarters — the "Magician" leaked confidential intel and refused to follow orders. She has been eliminated.						0	
+3	哼。你们最好真的是处决了她。	哼。你們最好是真的處決了她。	ふっ。本当にそうだったらいいですけど。	흥, 확실하게 처형했겠지?	Hmph. Shooting her was indeed the best course of action.						0	
+4	苔丝没那么容易死。不过你们做的也没错。这既是给她一个教训，也是给你们的一个教训。	黛斯沒那麼容易死。不過你們做的也沒錯。這既是給她一個教訓，也是給你們的一個教訓。	テスはそんな簡単に死ぬような子ではありませんから。まあ、いいでしょう。躾けとして捉えてくれれば充分。もちろん、それはあなたたちも同じですよ。	테스는 그렇게 쉽게 죽지 않아. 하지만 너희가 한 일도 틀리지 않았어. 이 일은 테스에게도, 너희들에게도 교훈이 되었을 테니까.	Tess won't die that easily, but you guys made the right decision. This is a lesson for her, and for you all as well.						0	
+5	……是。还有，奥米茄的确藏在耶洛沙。我们可以把他找出来，解决他。	……是。還有，ω的確藏在耶洛沙。我們可以找出他並解決他。	……はい。それから、ω(オメガ)がイェロシャにいることは間違いないようです。見つけ出し、処分いたしましょうか。	… 네. 그리고 ω는 옐로샤에 숨어 있는 게 분명합니다. 그를 찾아서 처리하겠습니다.	...Yes. Also, we have confirmed that ω is hiding in Yehrus. After we pinpoint his location, we can take care of him.						0	
+6	不。光是现在浮上来的这些还不够。	不。光是現在浮上來的這些還不夠。	いいえ。まだ手がかりが不十分です。	아니야. 지금 드러난 것만으로는 부족해.	No. We still need to dig deeper.						0	
+7	你们继续按原计划，监视，保护playername。作为诱饵，他要一直存在。	你們繼續按照原計劃，監視並保護playername。他作為誘餌必須一直活著。	元の計画通り、playernameの監視と護衛を続けてください。彼にはまだエサとしての仕事が残っていますから。	너희는 원래 계획대로 playername, 그 사람을 감시하고 보호해. 계속 미끼로 존재하도록 말이지.	Continue to monitor and protect playername as planned. He needs to be there to act as bait.						0	
+8	公司进驻耶洛沙的计划必须完成，不要因小失大。	公司進駐耶洛沙的計劃必須完成，不要因小失大。	今はユグドラシルのイェロシャ進出が最優先です。	회사의 옐로샤 진주 계획은 반드시 완료되어야 해. 소탐대실은 피해야 해.	Yggdrasil's plan to infiltrate Yehrus must succeed. We can't miss the forest for the trees.						0	
+9	我给你们自由开火权和决断权，不是为了让你们把枪口对准自己人，拿海姆达尔的性命来邀功的。	我賦予你們自由開火權和決斷權，但不是為了讓你們把槍口對準自己人、拿海姆達爾的性命來邀功的。	それから、確かに自己判断で発砲して良いとは言いましたが、味方やヘイムダルの命を奪えば奪うほどご褒美が貰える、という意味ではありませんよ。肝に銘じておいてください。	내가 너희에게 발포권과 처결권을 준 건, 아군을 향해 총구를 겨누고 헤임달의 목숨으로 공을 세우라고 준 게 아니야.	I didn't give you the power to make decisions and fire freely just so you could point your guns at your allies and use the Heimdall operatives' lives to take credit.						0	
+10	……明白。	……明白。	……わかりました。	… 알겠습니다.	...Understood.						0	
+11	苔丝……	黛斯……	テス……	테스…	Tess...						0	
+12	乖孩子学坏，是会付出代价的。	乖孩子學壞，是需要付出代價的。	これは、悪いことをした罰です。	착한 아이가 나쁜 짓을 하면, 대가를 치르게 되지.	Even good kids who behave poorly need to pay the price.						0	
+13	你可要好好记住这次疼痛。	你可要好好記住這次的教訓。	その痛みを、きちんと覚えておいてくださいね。	이번의 아픔을 잊지 마.	You need to remember this pain.						0	
+14	怎么样了？	怎麼樣了？	どうだ？	상황은 어때?	How's it going?						0	
+15	有几个还活着，但也就剩一口气吊着命。	有幾個還活著，但也就只剩一口氣而已。	数人はまだ生きていますが、時間の問題ですね。	몇 명이 살아 있긴 한데, 간신히 숨만 붙어 있어요.	A few of them are still alive, but just barely.						0	
+16	而且他们的成年病都已经非常严重了……就算是动用目前最好的医疗手段，恐怕也回天乏术。	而且他們的成年病都已經病入膏肓了……就算是動用目前最好的醫療手段，恐怕也回天乏術。	それに、ティーン症候群の進行もかなりひどいです。最先端の治療を受けたところで、持ち直せるかどうか……	게다가 성인병 증세가 심각해서… 현재의 최고 의료 기술을 동원한다 해도 역부족이에요.	And their Juvosis is already extremely serious... Even if we use the best current treatments, I'm afraid it's impossible to save them. 						0	
+17	你也看到约瑟夫刚才战斗的样子了。或许这些人，这些状况，就是他会变成那样的唯一理由吧。	你也看到約瑟夫剛才戰鬥的模樣了。或許這些人以及這些事態，就是導致他變成那樣的唯一理由吧。	さっきロシフが戦っている様子を見ただろ。こいつらがこんな状況だからこそ、ロシフもあんな風になったんだろうな。	너도 방금 조셉이 싸우는 모습을 봤겠지. 이 사람들과 이런 상황들, 어쩌면 그를 그렇게 변하게 한 유일한 이유일지도 몰라.	You saw the way Joseph fought just now. Maybe these people and the circumstances are the only reasons he became like that.						0	
+18	虽然是对手，但这样一个戎马一生的战斗英雄把自己关在那么个“铁笼子”里，为了族群拼命战斗……	雖然是對手，但這樣一名為軍隊付出一生的戰鬥英雄把自己關在那種「鐵籠子」裡，為了同伴們拼命戰鬥……	敵とはいえ、かつて生死を共にした英雄が、自分を「鉄格子」に押し込めたまま、仲間のために命を賭して戦うさまを見ることになるとは……	비록 적이긴 하지만, 일개 병사로 평생을 살아온 전투 영웅이 자신을 '철창' 속에 가두고, 집단을 위해 필사적으로 싸우다니…	I know he's our enemy, but he's also a hero. He's spent his whole life locked in a cage, desperately fighting for his own people...						0	
+19	我还是怀疑，苔丝或许根本就不是死在他们手里的。	我還是懷疑，或許黛斯根本就不是死在他們手裡的。	やはり、テスを殺害した人物は他にいるのではないでしょうか。	저는 여전히 의심이 들어요. 테스가 그들의 손에 죽은 게 아닐지도 몰라요.	I have a sneaking suspicion that Tess didn't die at their hands after all.						0	
+20	他们，我们，所有在这里拼命搏杀的人，都被利用了。	他們、我們，所有在這裡拼命掙扎的人都被利用了。	私たちも、彼らも、ここで戦っている全員が踊らされているのでは。	그들과 우리, 이곳에서 필사적으로 싸우는 모두가 이용당한 것 같아요.	Them, us, everyone fighting here with their lives... we're all being taken advantage of.						0	
+21	内务监察。你说过你和苔丝在路上曾经发现过他们的痕迹，也接到过他们的通讯，甚至还帮你们指了路。	內務監察。你說過你和黛斯在路上曾經發現他們的痕跡，也接到過他們的通訊，他們甚至還幫你們指了路。	内部監査か。テスと一緒に行動している時に、やつらの痕跡を見つけたとも、やつらから無線で道を教えられたとも言ってたな。	내무 감찰. 너와 테스가 작전 중에 그들의 흔적을 발견했다고 말했지. 그들의 통신을 받고, 심지어 너희들에게 길까지 안내해 줬어.	Internal Affairs. You said you and Tess found their tracks on the way over. You picked up their communications and they even helped show you the way.						0	
+22	他们全程都在监视你和苔丝。如果假定苔丝也是内务监察的人……	他們全程都在監視你和黛斯。假設黛斯也是內務監察的人……	お前とテスをずっと監視していたわけだ。テスが内部監査の人間だとすると……	그들은 작전 내내 너와 테스를 감시했어. 만일 테스도 내무 감찰 소속이라고 가정한다면…	They were watching you and Tess the entire time. If we assume Tess is a member of the Internal Affairs Department too...						0	
+23	那就是她让苔丝来贴身监视身为前董事会亲信的你。	那就是她讓黛斯來貼身監視身為前董事會親信的你。	つまりそれは、元理事会から厚い信頼を寄せられていたお前を監視するために、テスはあいつに送り込まれて来た、ということだろう。	이사님이 테스에게 전임 이사회 측근인 너를 밀착 감시하도록 지시한 거야.	That would explain why τ asked Tess to keep an eye on you, since you were once close with the former Board.						0	
+24	她一直怀疑是前董事会在暗中针对公司，所以安排你去走更危险的那条路。	她一直懷疑是前董事會在暗中針對公司，所以安排你去走更危險的那條路。	あいつは元理事会が裏で会社を妨害しているんじゃないかと、疑っていたらしいな。だからお前をより危険な道に進ませたんだ。	그녀는 항상 전임 이사회가 암암리에 회사를 몰아간다고 의심했어. 그래서 네가 더 위험한 길로 가도록 계획한 거야.	τ has always suspected the former Board of targeting Yggdrasil, so she assigned you to the more dangerous route.						0	
+25	如果敌人在面对你的时候手软，就会放大你的嫌疑。	如果敵人在面對你的時候手軟，就會放大你的嫌疑。	敵がお前相手に手を抜いたりすれば、クロ確定というわけだ。	적이 네 앞에서 우유부단해진다면, 네 혐의는 확대될 거야.	If our enemies went easy on you, it would cast more suspicion on you.						0	
+26	而你在断点行动里保护了分析员，在监察期间拒绝说出任何信息。	而你在絕境行動中保護了分析員，在監察期間拒絕說出任何資訊。	一方でブレーク作戦において分析員を守ったあなたは、監察期間中、一度も口を割りませんでしたね。	하루는 중단 작전에서 분석가를 보호하고, 감찰 기간에 어떤 정보도 말하지 않았어요.	And you protected the Adjutant during Operation Breakpoint, refusing to give up any information when we were being questioned.						0	
+27	所以你被安排进列车，贴身保护他。在没找到能替代分析员的合适人选之前，她也不能完全让分析员暴露在危险里。	所以你被安排到列車上貼身保護他。在沒找到能替代分析員的合適人選之前，她也不能完全讓分析員暴露在危險之中。	だから分析員が列車にいる間の護衛を任されたのでしょう。分析員の代わりが見付からない以上、分析員を危険に晒すようなことはまだしたくない、ということです。	그래서 당신은 열차에서 그를 밀착 보호하도록 배치되었죠. 분석가를 대체할 적임자를 찾기 전까지 분석가를 위험에 노출시킬 수 없으니까요.	So you were assigned to the train to personally protect him. τ can't completely expose the Adjutant to danger until she finds a suitable replacement for him.						0	
+28	就算遇到解决不了的危险，我也会顺理成章地牺牲……	就算遇到解決不了的危險，我也會順理成章地犧牲……	解決不能な事態に陥っても、自分を犠牲にしてまで分析員を守ると踏んでのことか……	만일 해결할 수 없는 위험이 닥치면, 난 자연스럽게 희생되는 거야…	Even if we found ourselves facing insurmountable danger, she knew I would sacrifice myself...						0	
+29	可这么解释的话，苔丝就更不该在被包围的时候选择自己涉险。她如果是内务监察的话，就更应该拉着你一起应敌才对！	可如果這麼解釋的話，黛斯就更不該在被包圍時選擇自己涉險。她如果是內務監察的話，就更應該拉著你一起迎敵才對！	だがそうすると、テスは包囲された際に身を挺して貴様を守るよりも、内部監査として貴様と共に応戦するべきだったんじゃないか。	이 가정이 맞는다면, 테스는 포위되었을 때 위험을 무릅쓸 필요가 더더욱 없었어요. 테스가 진짜 내무 감찰이라면, 더더욱 하루와 함께 적에 맞섰어야 해요!	But if what you're saying is all true, then why would Tess confront the danger herself? If she really was with Internal Affairs, then she should have wanted to take you with her to fight!						0	
+30	对。这也是我最想不通的地方……	對，這也是我最想不通的地方……	そうですね。その点に関しては、私もおかしいと思います。	맞아. 나도 그게 제일 이해가 안 가는 부분이야…	Correct. That is also something I can't figure out.						0	
+31	说起来，你……有去确认过苔丝的遗体吗？	話說回來，你……有去確認過黛斯的遺體嗎？	というか……テスの遺体は？確認したのか？	그나저나, 혹시 너… 테스의 시신을 확인한 적 있어?	Speaking of which, did you... go identify Tess' body?						0	
+32	一天前	一天前	一日前	하루 전	One day earlier						0	
+33	明天一早就要出发了，你该去休息的。	明天一早就要出發了，你該早點休息。	明日の朝すぐに出発するから、早めに休んでね。	내일 아침 일찍 출발해야 하니, 얼른 쉬세요.	We have to leave pretty early tomorrow morning. You should get some rest.						0	
+34	那你呢？	那你呢？	あなたの方こそ。	그럼 넌?	What about you?						0	
+35	我在边境出任务习惯了，就当是倒时差。	我在邊境出任務已經習慣了，就當作是調整時差。	辺境でミッションをこなしてる間にとっくに慣れちゃった。もう時差みたいなものだよ。	저는 국경 미션에 나가는 게 익숙해요. 시차 적응이 되었달까요.	I'm already used to going on missions at the border, so I'll just treat it like jetlag.						0	
+36	边境……都是些什么人在那？	邊境……都有些什麼人在那？	辺境か……どういう人々がいるんだろう。	국경에는… 어떤 사람들이 있지?	What... kind of people are at the border?						0	
+37	什么都有。军队，佣兵，逃犯，活不下去的无产者，还有我这样的。	什麼都有。軍隊、傭兵、逃犯、活不下去的無產階級，還有像我這樣的。	なんでも。軍隊、傭兵、逃走犯、生活に苦しむプロレタリア。あと、私みたいなのもいるよ。	별의별 사람들이 다 있어요. 군대, 용병, 탈주범, 형편이 어려운 무산자, 그리고 저 같은 사람이 있어요.	Every kind. Soldiers, mercenaries, fugitives, working-class people struggling to survive, and people like me.						0	
+38	呵，什么叫你这样的。你什么样啊？	哈哈，什麼叫像你這樣的。你是什麼樣啊？	ふっ……あなたみたいなのって？	하, 너 같은 사람이라니, 어떤 사람인데?	Hah, what do you mean by "people like you"? What are you like?						0	
+39	间谍？杀手？侦察兵？情报小偷？哈哈，你觉得我是什么啊。	間諜？殺手？偵察兵？情報小偷？哈哈，你覺得我是什麼啊。	スパイ？殺し屋？偵察兵？情報屋？どれがいいかな。どれだと思う？	스파이? 킬러? 정찰병? 정보 도둑? 하하, 분석가님은 제가 어떤 사람인 것 같아요?	A spy? A killer? A scout? An intel thief? Haha, what do you think I am?						0	
+b-1											0	
+40	小姑娘。变魔术的。	愛變魔術的小姑娘。	マジックができる女の子だな。	마술을 좋아하는 소녀.	A youthful girl. A magician.						0	
+b-2											0	
+41	努力装出大人模样的女孩子。	努力裝成大人模樣的女孩子。	もしくは大人っぽく振舞おうとする女の子。	어른인 체하는 여자아이.	A girl who tries her best to act like a mature adult.						0	
+42	少来了你！你不是一直都装作不认识我，装作把什么都忘了吗。	少來了你！你不是一直都假裝不認識我嗎，裝做把一切都忘了嗎。	なによそれ。私のことなんか何にも覚えてないフリしてたくせに。	무슨 말씀이에요! 분석가님은 여태 절 모르는 척하고, 아무것도 기억 안 나는 척했잖아요.	Oh, c'mon! Haven't you been pretending not to know me? Pretending that you forgot everything?						0	
+43	苔丝……	黛斯……	テス……	테스…	Tess...						0	
+44	装作忘记可比真的忘掉要难多了……	裝做忘掉比真的忘掉還要困難……	忘れたフリをするのは、本当に忘れるよりも難しいものだよ……	기억 안 나는 척하는 게 진짜로 잊은 것보다 훨씬 어려울 거야…	Pretending to forget is so much harder than truly forgetting...						0	
+45	这是什么？	這是什麼？	これは？	이게 뭐지?	What's this?						0	
+46	拿着。这是大魔术师苔丝·科特金的演出入场券，也是贴心护身符！	拿著。這是大魔術師黛斯·科特金的表演入場券，也是貼心護身符！	大マジシャン、テス・コトキンのショーのチケット兼、お守りだよ★	받으세요. 이건 매지션 테스 코트킨의 공연 입장권이자 부적 같은 거예요!	Take it. It's a ticket to see the great magician, Tess Kotkin. And it's a thoughtful good-luck charm!						0	
+47	只要有它在，我就一定会去到你身边！	只要有它在，我就一定會去到你身邊！	これを持っていれば、あなたがどこにいても、私が駆け付けるから！	이걸 가지고 계시면 저는 반드시 분석가님 곁으로 돌아갈 거예요!	As long as you have it, I'll definitely come to your side!						0	
+48	你也可以顺着它找到我！我……再也不要像四年前那样跟你分开了。	你也可以跟著它找到我！我……再也不要像四年前那樣跟你分開了。	あなたの方から来てくれてもいいよ！もう……４年前みたいに、離れ離れになるのはイヤだし。	분석가님도 이걸로 저를 찾을 수 있어요! 다시는… 4년 전처럼 당신과 헤어지고 싶지 않아요.	You can follow it to find me too! I... won't ever be separated from you again like four years ago.						0	
+49	等一下……那张牌！难道……！	等一下……那張牌！難道……！	待てよ……！まさか、あのカードって！	잠깐만… 그 카드는! 설마…!	Wait a second... That card! Could it...!						0	
+50	分析员，我们还有十分钟就能到奥斯维尔钢铁厂车站了。	分析員，我們還有十分鐘就能抵達奧斯維爾鋼鐵廠車站了。	分析員、あと10分でオスヴィル製鉄所につくよ。	분석가님, 오스빌 제철소 역까지 10분 남았어요.	Adjutant, we have 10 minutes before we arrive at Oswell Steel Mill.						0	
+51	如果你在睡的话，要起来准备一下了……	如果你還在睡的話，該起來準備一下了……	まだ寝てるなら、そろそろ起きて用意しないと……	주무시는 거면, 일어나서 준비해야 해요…	If you're still sleeping, get up and get read—						0	
+52	瑟瑞斯！！	瑟瑞斯！！	シーリス！！	세리스!!	Siris!!						0	
+53	那张牌……快！	那張牌……快！	あのカードを……早く！	그 카드를… 빨리!	That card... quick!						0	
+54	什么？	什麼？	え？	네?	What?						0	
+55	你从武器车间里找到的……苔丝的那张牌！把它拿出来……	你在武器庫找到的……黛斯的那張牌！把它拿出來……	武器工場で拾ったテスのカードを見せてくれ！	네가 무기 작업장에서 찾은… 테스의 카드! 그걸 꺼내…	That card you found in the weapons workshop... Tess' card! Let me see it...						0	
+56	那牌不是就在你手里……不对，不是同一张！我的那张在这里——	那牌不是就在你手裡……不對，不是同一張！我的那張在這裡——	あのカードって、あなたが持ってた……待って、違うカードだ！私のはここに——	손에 들고 있는 카드 아닌가요… 아, 같은 카드가 아니네요! 제 카드는 여기 있어요…	Isn't that card in your hand...? No, it's not the same! This is my card here...						0	
+57	分析员！它……它们在发光？！这些卡牌是……追踪器？！	分析員！它……它們在發光？！這些卡牌是……追蹤器？！	分析員！ひ、光ってる！これって……追跡機能がついているのか！？	분석가님! 카드가… 빛나고 있는데요?! 이 카드들은… 추적기예요!	Adjutant! They're... they're glowing!? Are these cards... tracking devices!?						0	
+58	你……你刚刚有去确认过苔丝的遗体吗？	你……你剛剛有去確認過黛斯的遺體嗎？	というか……テスの遺体は？確認したか？	아… 아까 테스의 시신을 확인하러 갔던 거야?	Just now... did you check to make sure it was Tess' body?						0	
+59	看好那些郊狼！我去确认一下！如果分析员到了，告诉他苔丝很有可能还……	看好那些郊狼！我去確認一下！如果分析員到了，告訴他黛斯很有可能還……	コヨーテたちは任せた！自分が確認してくる。分析員がついたら、テスはまだ……	코요테들을 잘 보고 있어! 내가 확인해 볼게! 만일 분석가가 도착하면, 그에게 테스가…	Keep an eye on those Coyotes! I'll go check it out! When the Adjutant gets here, tell him that Tess is probably still...						0	
+60	她还活着！	她還活著！	生きているはずだ！	아직 살아있어!	She's still alive!						0	
+61	分析员！	分析員！	分析員！	분석가!	Adjutant!						0	
+62	冰原上没有她的尸体。而且……瑟瑞斯，这里确定可以吗？	冰原上沒有她的屍體。而且……瑟瑞斯，這裡確定可以嗎？	氷原には彼女の死体はなかった。そして……シーリス、本当にここで間違いないのか？	아이스 필드에는 테스의 시신이 없어. 그리고… 세리스, 여기 정말 괜찮은 거야?	Her body isn't in the ice field. And... Siris, is here alright?						0	
+63	没问题。我们可以从这里用反向定位来找出这些卡牌的信号接收源。	沒問題。我們可以從這裡用反向定位來找出這些卡牌的訊號接收器。	大丈夫だよ。ここから逆に追跡して、カードの信号を受信している物を探せばいい。	문제없어요. 여기서 역추적해서 이 카드들의 신호 수신원을 찾을 수 있어요.	No problem. We can use reverse positioning to locate the source receiving signals from these cards.						0	
+64	苔丝·科特金……现在还在这片区域里！	黛斯·科特金……現在還在這片區域內！	テス・コトキンは……まだこの辺にいる！	테스 코트킨은… 아직 이 지역에 있어요!	Tess Kotkin... is still in the area!						0	
+65	三个小时后	三個小時後	3時間後	3시간 후	Three hours later						0	
+66	……喂，你……你倒是说句话呀……	……喂，你……你也說句話呀……	……なあ……な、なんか言えよ……	… 이봐, 당신… 말 좀 해 봐…	...Hey, you... you should say something...						0	
+b-3											0	
+67	说什么？	說什麼？	なにをだ？	무슨 말?	Like what?						0	
+68	说……说什么不都行嘛……	說……說什麼都行嘛……	な……なんでもいいよ……	아… 아무 말이나…	You... you can say anything...						0	
+69	总不能就这么……傻站着，是不是……	總不能就這麼……傻站著，對不對……	こうやって……立ってるだけでは、ちょっと……	그렇게… 바보 같이 서있지만 말고…	You can't just.. stand around like a dummy... right...						0	
+70	不合身的装甲套在娇小的身躯上，却意外地没有显得很松垮。只是那顶头盔在纤细的脖颈上不停地轻轻摇晃，实在是说不出的滑稽。	不合身的裝甲套在嬌小的身軀上，卻意外地沒有顯得過於鬆垮。只是那頂頭盔在纖細的頸項上不停地輕輕搖晃，實在令人感到好笑。	小柄な体格にまったく合わない防護服を身にまとっているわりには、意外と緩んだ印象は受けなかった。強いて言えば、細い首の上に乗ったヘルメットがグラグラと揺れている様子が、少し滑稽ではあった。	몸에 맞지 않는 기갑을 가녀린 몸에 걸쳤지만, 의외로 헐렁해 보이진 않았다. 다만 투구가 가느다란 목덜미 위에서 끊임없이 흔들거리는 것은 꽤 우스워 보였다.	The petite figure wore ill-fitting armor, but it surprisingly wasn't too loose — except for the helmet gently shaking on her slender neck, which looked absolutely ridiculous.						0	
+71	好。那就说说大魔术师苔丝·科特金睿智勇敢，独闯狼穴。事了更衣去，害得队友和分析员冰天雪地里找你这么半天的……	好。那就說說大魔術師黛斯·科特金勇敢且睿智地獨闖狼穴。事成後便更衣離去，害得隊友和分析員冰天雪地裡到處找你……	そうだな。じゃあ偉大なるマジシャン、テス・コトキンが灰色の脳細胞を駆使して絶体絶命を切り抜けた話でもしようか。おまけに得意の変装で仲間や分析員を欺き、彼らに雪原を散々探し回らせた挙句……	좋아. 그럼 매지션 테스 코트킨이 용감하게 늑대 굴에 뛰어든 이야기를 해볼게. 옷을 갈아입고 대원들과 분석가가 추운 설원에서 하루 종일 찾아 헤매게 만들었지…	Alright. Then let's talk about the great magician, Tess Kotkin. She's smart and brave, and will take on any danger all by herself. A brilliant lone wolf that came and went without a hint. Only your squadmates and Adjutant spent a long time looking for you in all this snow...						0	
+72	泥又奇浮人……呜哇……	泥又欺扶人……嗚哇……	あんえいぢわるすうの……うわああ……	진흙투성이의 이상한 포로… 으으…	Yoor boling muh agin... Ugh...						0	
+73	……你在说什么。	……你在說什麼。	……は？	… 무슨 소리야.	...What are you trying to say?						0	
+74	我说你又在欺负人！哎呀……分析员，你过来帮我一下！这东西……怎么解不开了啊！	我說你又再欺負人！哎呀……分析員，你過來幫我一下！這東西……怎麼解不開了啊！	なんでいじわるするのって言ったの！！もおおお……手伝ってよ、分析員！これ……ほどけ、ない……	사람 좀 그만 괴롭혀라! 후우… 분석가, 얼른 나 좀 도와줘! 이거… 안 풀린단 말이다!	I said you're bullying me again! Hmph... Adjutant, come help me! This thing... why won't it come off!						0	
+75	她手忙脚乱地想脱掉头盔和装甲，但这种为了作战防护而设计的服装显然没考虑到便捷和灵活性……	她手忙腳亂地想脫掉頭盔和裝甲，但這種為了作戰防護而設計的服裝顯然沒考慮到便利和靈活性……	彼女は防護服とヘルメットを脱ごうともがいていたけれど、作戦中の兵士を守るべく設計された装備が、そう簡単に脱げるはずもなかった。	그녀는 허둥대며 투구와 기갑을 벗으려고 했지만, 전투 방어를 위해 설계된 복장이라 편의성이나 유연성은 거의 없었다…	She frantically tried to take off the helmet and armor, but since it was designed for protection in combat, it clearly didn't take ease of use or flexibility into consideration...						0	
+76	我克制住自己继续看戏的念头，走过去帮她解开了颈后的合金扣。	我克制住自己想繼續看戲的念頭，走過去幫她解開了頸後的合金扣。	私はそんな彼女を眺めていたい衝動を抑え、首の後ろの留め具を外してやった。	난 이제 그만해야겠다 생각하고, 그녀에게 다가가 목뒤의 합금 단추를 풀어주었다.	I put aside my impulse to continue enjoying the show, walking over to help her unfasten the alloy buckle at the back of her neck.						0	
+77	啊……！得救了！	啊……！得救了！	は～～！助かった！	앗…! 살았다!	Ah...! I'm saved!						0	
+78	差点被这东西给憋死！	差點被這東西給悶死！	首がしまるところだったよ！	이것 때문에 죽을 뻔했네!	That thing almost suffocated me!						0	
+79	冰原上的冷风把面前女孩子的脸割得通红。阳光被冰面反射，再借由她的双眼刺向我的瞳孔，那份明亮让我忍不住心头一紧。	冰原上的冷風將眼前少女的臉割得通紅。陽光反射在冰面上，而後借由她的雙眼刺向我的瞳孔，那股明亮讓我忍不住心頭一緊。	雪原を流れる冷たい風に晒され、彼女の頬が赤く染まっていた。雪と氷の照り返しによって彼女の瞳がひどく眩しく輝いているようで、私は心臓が締め付けられるような感覚を覚えた。	아이스 필드의 칼바람이 소녀의 얼굴을 빨갛게 휘갈겼다. 햇빛이 얼음에 반사되고, 그녀의 두 눈을 통해 내 눈동자에 반사되었다. 그 빛에 내 가슴은 철렁했다.	The biting wind on the ice field made the face of the girl in front of me redden. The sunlight reflected off the ice, then pierced my eyes via her gaze. I couldn't help but feel nervous at the sight of the bright glint.						0	
+80	说吧，这一切到底是怎么回事。	說吧，這一切到底是怎麼回事。	さあ。もう喋れるだろ？なにがあったんだ。	말해 봐, 이 모든 게 대체 어떻게 된 일인지.	Alright, tell me what's going on here.						0	
+81	还能是怎么回事！任务还没结束呢……郊狼雇主找的买家是公司的前董事奥米茄！	還能是怎麼回事！任務還沒結束呢……郊狼雇主找的買家是公司的前董事ω！	なにって！まだミッションは終わってないでしょ……コヨーテの雇い主は、元理事のω(オメガ)だったんだよ！	어떻게 되긴요! 미션은 아직 끝나지 않았어요… 코요테의 고용주가 찾은 매입자는 회사의 전임 이사인 ω예요!	What else could be going on? The mission still isn't over... The Coyote employer's buyer is ω, a former member of the Yggdrasil Board!						0	
+82	得把他揪出来搞清楚他到底要干什么！要不然你迟早还会有危险……	得把他揪出來搞清楚他到底要幹什麼！要不然你遲早還會有危險……	早くそいつを見つけ出して、目的を吐かせなきゃ！じゃないとあなたの身にも危険が……！	그를 붙잡아서 대체 무슨 꿍꿍이인지 확인해야 해요! 안 그러면 조만간 또 다른 위험이 닥칠 거예요…	We need to weed him out and figure out what he's scheming! Or you're eventually going to be in danger...						0	
+83	就靠这种办法？装成战败的郊狼混回去？	就靠這種辦法？裝成戰敗的郊狼混回去？	その恰好でか？敗走するコヨーテのフリをしながら？	무슨 수로? 패배한 코요테로 위장해서 돌아가려고?	So what was your plan? Pretend to be a defeated Coyote and go back?						0	
+84	我知道你想说什么……我，我不能回去找你们……	我知道你想說什麼……我、我不能回去找你們……	言いたいことはわかるけど……だって私は……みんなのところに戻ったりもできないし……	무슨 말이 하고 싶은 건지 알아요… 저, 저는 여러분한테 돌아갈 수 없어요…	I know what you're trying to say... I—I can't go back to you guys...						0	
+85	在冰原上对我开枪的是内务监察的人……我用了点小伎俩，骗过了他们的击杀确认。	在冰原上對我開槍的是內務監察的人……我用了點小把戲，騙過了他們的擊殺確認。	氷原で内部監査の人に撃たれたの……まあ、ちょっとしたトリックで切り抜けることはできたんだけどね。	아이스 필드에서 저에게 총을 쏜 건 내무 감찰 인원이에요… 제가 트릭을 써서 그들이 격살 확인을 할 때 속였어요.	Someone from Internal Affairs shot me on the ice field... I used a little trick to mislead them into confirming the kill.						0	
+86	如果我再大摇大摆地出现在你身边，会给你和队员们都带来麻烦和危险……	如果我再大搖大擺地出現在你身邊，會給你和隊員們都帶來麻煩和危險……	そんな私があなたの傍にいれば、あなたにも、みんなにも迷惑をかけるから……	제가 또 보란 듯이 분석가님 옆에 나타난다면, 당신과 대원들이 위험에 빠질 수 있어요…	If I just waltz back to your side again, it would spell trouble for you and the other operatives, and you'd all be in danger...						0	
+87	还有，辰星姐她们应该已经在怀疑我的身份了吧……如果我不把一切都查清，就……就去找你们的话，我该怎么取得大家的信任呢……	還有，辰星姐她們應該已經在懷疑我的身分了吧……如果我不把一切都查清楚就……就去找你們的話，我該怎麼取得大家的信任呢……	それに、辰星姉さんたちにも疑われてたし……謎を謎のままみんなのところに戻っても、信じてくれなんて言えないもの……	그리고, 수성 언니가 저의 정체를 의심하고 있을 거예요… 제가 모든 것을 확실히 조사하지 않은 채 여러분을 찾아간다면… 제가 어떻게 신뢰를 얻을 수 있겠어요…	And Chenxing and the others probably suspect me anyway... If I don't figure everything out first and just... go right back to you guys, how can I gain everyone's trust...?						0	
+88	越是这种时候，大家越要站在一起。连自己人都分不清的话，又该怎么去面对敌人呢。	越是這種時候，大家越要站在一起。連自己人都分不清楚的話，又該怎麼去面對敵人呢。	こういう時だからこそ、手を取り合うべきじゃないのか。誰が味方なのかさえ分からないまま、敵とどう戦うつもりだ。	이럴 때일수록 모두가 한편에 서야 해. 자기 편이 누구인지 분간도 못 하면서 어떻게 적을 상대하겠어?	At times like this, we need to stand together. If you can't even tell who your allies are, how are you going to face the enemy?						0	
+89	你想保护我们大家，可……谁又能来保护你呢？	你想保護我們大家，可是……誰又能來保護你呢？	みんなを守ろうとしているのは分かるが、……だったら、誰があなたを守るんだ？	난 우리 모두를 지키고 싶어… 테스, 널 지켜줄 사람이 과연 누굴까?	You want to protect us, but... who's going to protect you?						0	
+90	我自己可以的！	我自己可以保護自己！	自分でできるよ！	저 혼자서도 괜찮아요!	I can do it myself!						0	
+91	我已经不是过去那个什么都做不了的中学生了！	我已經不是以前那個什麼都做不了的高中生了！	私はもう、あの時のなにもできない高校生じゃないんだから！	더 이상 아무것도 못 하던 중학생이 아니에요!	I'm not that same helpless schoolgirl from before!						0	
+92	我，我成为天启者！我加入世界树！我在耶洛沙这里做了好多好多事！我靠自己的成绩加入了海姆达尔！	我、我成為了天啟者！我加入了世界樹！我在耶洛沙這裡做了好多好多事！我靠自己的成績加入了海姆達爾！	わ、私、覚醒者になったし！ユグドラシルにも入ったし！イェロシャでも沢山のミッションをこなして来た……自分の力でヘイムダルに入ったの！	저, 전 계시자가 되었어요! 위그드라실에 들어갔어요! 옐로샤에서 많은 일을 했죠! 스스로 업적을 쌓고 헤임달에 들어갔어요!	I—I became a Manifestation! I joined Yggdrasil! I've done so much here in Yehrus! I joined the Heimdall Force all on my own!						0	
+93	我……我今天还在那么多人面前，完成了假死魔术！	我……我今天還在那麼多人面前，完成了假死魔術！	しかも大勢の人の前で……仮死マジックも成功させちゃったし！	저는… 오늘도 사람들 앞에서 죽음을 위장한 마술을 보여줬어요!	I... I even performed a trick faking my own death in front of a bunch of people today!						0	
+94	我是大魔术师苔丝·科特金……我，我要设计更多演出，要把所有藏起来准备害你的家伙们都……	我是大魔術師黛斯·科特金……我、我要設計更多演出，要把所有藏起來準備害你的傢伙們都……	大マジシャン、テス・コトキンは……もっとたくさんのショーで、あなたに危害を加える者をすべて……！	저는 위대한 매지션 테스 코트킨이에요… 저, 저는 앞으로 더 많은 공연을 준비해서, 분석가님을 몰래 해치려는 놈들을 전부…	I'm the great magician, Tess Kotkin... I—I want to put on more shows. And as for all the guys hiding in the shadows planning on hurting you, I want to...						0	
+95	热血上涌让少女语无伦次，她不断地重复着，重复着给自己加油打气的话，想要用这种方式来对抗她内心深处的脆弱、委屈和恐惧。	滿懷熱血的少女開始語無倫次，她不斷地重複著、重複著幫自己加油打氣的話，想要用這種方式來對抗她內心深處的脆弱、委屈和恐懼。	自分を鼓舞する言葉を口にするのは、心の底に隠されている不安、怯えとやりきれなさを紛らわす、彼女なりのやり方だ。	들끓는 열정에 소녀는 횡설수설했다. 그녀는 자신에게 힘을 주는 말을 반복하면서 자기 마음속의 나약함과 억울함, 두려움에 맞서려고 했다.	As her blood began to boil, the girl's speech grew incoherent. She constantly repeated the same phrases in an effort to encourage herself, as if fighting off some kind of vulnerability, pain, and fear deep within her heart.						0	
+96	我看着她眼角被寒气凝结的泪花，看着她低头呢喃的模样，还有那双早已无处安放的手……	我看著她眼角被寒氣所凝結的淚花，看著她低頭呢喃的模樣，還有那不知該放在何處的雙手……	彼女の目尻で凍り付く涙、俯きながら喚き散らすその姿、行き場を失って震えるその手を見て……	난 추위에 얼어붙은 그녀의 눈물을 바라봤다. 고개를 숙인 채 중얼거리는 그녀의 모습, 그리고 둘 곳을 잃은 채 헤매는 그녀의 두 손을 바라봤다…	I looked at the tears in her eyes turn to ice in the frigid air. I watched on as she lowered her head and murmured, her unsettled hands shaking...						0	
+97	已经很清楚了，我现在……需要做些什么。	已經很清楚了，我現在……需要做點什麼。	私は、自分がすべきことに気付いた。	이제 확실히 알겠다. 내가 지금… 무엇을 해야 하는지.	I knew what I needed to do for her at that moment...						0	
+b-4											0	
+98	为她鼓掌。	為她鼓掌。	拍手する。	그녀에게 박수를 보낸다.	Applaud her.						0	
+99	握住苔丝的手。	握住黛斯的手。	テスの手を握る。	테스의 손을 잡는다.	Take Tess' hand.						0	
+100	你……嘿嘿，你总算看过我的演出了……	你……嘿嘿，你總算看到我的演出了……	え……えへへ……やっと私のお客さんになってくれたね……	결국… 헤헤, 결국 저의 공연을 끝까지 보셨군요…	You... Heh, I guess you finally saw me perform...						0	
+101	苔丝。	黛斯。	テス。	테스.	Tess.						0	
+102	嗯？怎么了吗？	嗯？怎麼了嗎？	なあに？	네? 왜 그러세요?	Hmm? What is it?						0	
+103	辛苦啦。	辛苦啦。	がんばったな。	고생했어.	Good work.						0	
+104	欢迎你加入我的海姆达尔。	歡迎你加入我的海姆達爾。	ヘイムダルに歓迎するよ。	나의 헤임달에 온 걸 환영해.	Welcome to my Heimdall Force.						0	

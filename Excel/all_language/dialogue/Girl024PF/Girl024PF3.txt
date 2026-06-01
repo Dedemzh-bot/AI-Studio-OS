@@ -1,0 +1,83 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	夜风掠过，深夜的寒气缭绕在周围的竹林间。	夜風掠過，深夜的寒氣繚繞在周圍的竹林間。	風が頬をかすめ、夜の霧が周りの竹林に立ちこめた。	밤바람이 스쳐 지나가며, 한밤의 냉기가 주변 대나무 숲을 감쌌다.	The night wind blew, sending cold air through the bamboo grove.						0	3.6胧嫣个人故事
+2	但这并不影响还在池子中温存的我们。	但這並不影響還在池子中溫存的我們。	けれど、それは温泉の中で寄り添いあう私たちに関係のないことだった。	하지만 그것은 아직 온천에서 온기를 나누는 우리에게는 영향을 주지 못했다.	But it wasn't enough to chase us out of the hot spring.						0	3.6胧嫣个人故事
+3	胧嫣依偎在我的怀抱中，时不时抬头用鼻尖蹭着我的下巴。	朧嫣依偎在我的懷抱中，時不時地抬頭用鼻尖蹭著我的下巴。	ロウエンは私の胸に身を寄せ、顔を上げて鼻先で私の顎をそっとこすった。	내 품에 기댄 로엔은 이따금 고개를 들어 코끝으로 내 턱을 살짝 비볐다.	Nestled against my chest, Longyan nudged my chin with her nose.						0	3.6胧嫣个人故事
+5	随即，温柔又动听的呢喃从怀中传来。	隨即，溫柔又動聽的低語從懷中傳來。	やがて、腕の中から心地よい囁きが聞こえてきた。	이어서, 온화하고 감미로운 속삭임이 품 안에서 들려왔다.	Then, I heard her gentle, sweet voice.						0	3.6胧嫣个人故事
+6	playername，关于那个匣子……	playerName，關於那個匣子……	playername、あの箱のことだけれど……	playername 님, 그 상자 말인데요…	playername, about the old lacquer case...						0	3.6胧嫣个人故事
+7	妾身想好了，就把它留在罗森兰吧。	妾身已經想好了，就把它留在羅森蘭吧。	あれはローズランに置いていこう。	신첩은 그것을 로젠란에 남겨두기로 했어요.	I've made up my mind. I'll leave it in Luchellan.						0	3.6胧嫣个人故事
+8	说起匣子，我又想起了白天安的请求，于是这会犹豫着该怎么向胧嫣开口。	說到匣子，我又想起了白天安的請求，於是這會猶豫著該怎麼向朧嫣開口。	私は昼間アンに頼まれていたことを思い出し、どう切り出すべきか迷った。	상자 얘기가 나오자, 나는 낮에 아인의 부탁이 떠올라 로엔에게 어떻게 말을 꺼내야 할지 망설여졌다.	That reminded me of An's request from earlier. I hesitated, unsure how to bring it up.						0	3.6胧嫣个人故事
+9	其实安她……	其實安她……	実は、アンが……	사실 아인은…	Actually, An...						0	3.6胧嫣个人故事
+10	大概是察觉到了我的迟疑，胧嫣轻轻笑了笑，很快就把话头接了过去。	大概是察覺到了我的遲疑，朧嫣輕輕一笑，很快就把話題接了過來。	私のためらいに気づいたのか、ロウエンは小さく笑い、すぐに言葉を継いだ。	내 망설임을 눈치챘는지, 로엔은 가볍게 웃으며 금방 화제를 이어받았다.	She noticed the pause. With a small smile, Longyan smoothly took over before I could speak.						0	3.6胧嫣个人故事
+11	你之前说的那些……给了妾身很多的启发。	你之前說的那些……給了妾身很多的啟發。	いまの……とても嬉しかったわ。	당신이 전에 해준 그 말들이… 신첩에게 많은 깨달음을 주었어요.	What you said before... it inspired me a lot.						0	3.6胧嫣个人故事
+12	所以，我希望在和我在一起之后，你能更开心、自由一些。	所以，我希望在我和你在一起之後，你能更開心、更自由一些。	だから、私といるときくらいは、もっと気楽に、自由に笑っててほしいだけさ。	그래서 나와 함께하고 나서는, 네가 좀 더 행복하고 자유로워졌으면 해.	But I hope that with me, you can live more happily. More freely.						0	3.6胧嫣个人故事
+13	只要你愿意去相信……	只要你願意去相信……	信じてくれるかい。	네가 믿어주기만 한다면…	As long as you're willing to trust me that...						0	3.6胧嫣个人故事
+14	我就一定不会让你再受到伤害。	我一定不會讓你再受到傷害。	これからは、誰にも君を傷つけさせたりしない。	나는 절대 너를 다시 다치게 하지 않을 거야.	I won't let you be hurt by anyone again.						0	3.6胧嫣个人故事
+15	人心复杂难测，私心、公义，善良，邪恶未必不可能共存。	人心複雜難測，私心、公義，善良，邪惡未必不可能共存。	人の心は測りかねないわ。私欲と公平も善と悪も、きっちり分けられるようなものじゃないと思うの。	사람의 마음은 복잡하고 헤아리기 어려워요. 사심과 정의, 선의와 악의가 공존하지 못할 이유도 없죠.	Humanity is complicated. Selfishness and generosity, kindness and cruelty — those things can reside within the same soul.						0	3.6胧嫣个人故事
+16	要是遇上几桩坏事，就不信这世上还有真情实意，那可真是因噎废食了。	要是遇上幾樁壞事，就不信這世上還有真情實意，那可真是因噎廢食了。	嫌なことがあったからって、本物の愛情がないと決めつけるなんて、愚かにもほどがあるわ。	나쁜 일을 좀 겪었다고 해서 이 세상에 진심이 없다고 믿는다면, 그건 정말 사소한 걱정 때문에 큰 가치를 잃는 거예요.	A handful of bad experiences shouldn't make one stop believing that something genuine awaits in this world. That would be forsaking the feast for fear of a single bone.						0	3.6胧嫣个人故事
+17	更何况，身边有了你之后，妾身便觉得安心很多。	更不用說，身邊有了你之後，妾身便覺得安心很多。	それに、あなたのそばにいられるようになってから、わらわはずいぶん安心できるようになったの。	게다가, 당신이 곁에 있어 주셔서 신첩은 마음이 한결 편안해졌어요.	And besides, I've felt safer by your side.						0	3.6胧嫣个人故事
+18	也……渐渐找回些去相信的勇气。	也……漸漸找回了些去相信的勇氣。	……信じる力も、少しずつ取り戻せた。	그래서… 다시 믿을 용기도 되찾았답니다.	I'm... starting to find the courage to trust again.						0	3.6胧嫣个人故事
+19	所以我接受那张手帕存在的意义，也接受她作为一个母亲，爱自己孩子的事实。	所以我接受那張手帕存在的意義，也接受她作為一個母親，愛自己孩子的事實。	だから、あのハンカチに込められた意味も、彼女の母親としての愛情も、受け止めたいと思うわ。	그래서 저는 그 손수건의 존재 의미를 받아들이고, 그녀가 어머니로서 자식을 사랑한다는 사실도 받아들였어요.	I won't deny the meaning of the handkerchief she left behind... nor the simple truth that she did love her daughter as a mother.						0	3.6胧嫣个人故事
+20	不过，相信是为了让自己不再自寻烦恼，而需不需要又是另外一回事了。	不過，相信是為了讓自己不再自尋煩惱，而需不需要又是另外一回事了。	でも、それは私がこれ以上悩みたくないからで……彼女の愛情がほしいとか、そういう話じゃないわ。	하지만 믿는 것은 더 이상 고민하지 않기 위함이고, 그것이 필요한지 아닌지는 또 다른 문제죠.	But that acceptance is simply for some peace of mind. It is not something my heart needs.						0	3.6胧嫣个人故事
+21	现在妾身想要的……只有你。	現在妾身想要的……只有你。	今のわらわが欲しいのは……あなただけ。	지금 신첩이 원하는 건… 오직 당신뿐이에요.	The only thing I want now... is you.						0	3.6胧嫣个人故事
+22	说完，胧嫣在我的手臂中起身，转了一圈之后，正面投入了我的怀抱。	說完，朧嫣在我的手臂中起身，轉了一圈之後，正面投入了我的懷抱。	そう言うとロウエンは身を起こし、私の腕の中に体をすり寄せた。	말을 마친 로엔은 내 팔 안에서 몸을 일으켜 빙글 돌더니, 정면으로 내 품에 안겼다.	Longyan pushed herself up, spun lightly in my hold, and pressed herself into me.						0	3.6胧嫣个人故事
+23	她湿漉漉的头发轻轻蹭在我的胸膛上，而那束虚幻的大尾巴也摇来晃去，表达着内心的欢愉。	她濕漉漉的頭髮輕輕蹭在我的胸膛上，而那束虛幻的大尾巴也搖來晃去，表達著內心的歡愉。	濡れた髪が胸元にそっと擦り、嬉しさを隠しきれず、幻の尻尾がゆらゆら揺れていた。	그녀의 젖은 머리카락이 내 가슴에 살며시 닿았고, 그 커다란 꼬리의 환영이 이리저리 흔들리며 내면의 기쁨을 표현했다.	Her wet hair brushed my chest while that illusory tail swayed behind her, conveying the delight in her heart.						0	3.6胧嫣个人故事
+24	忽然，她像是想到了什么，稍稍支起身子，用一种打趣般的眼神看着我。	忽然，她像是想到了什麼，稍稍支起身子，用一種打趣般的眼神看著我。	ふと何か思い出したのか、彼女は少し身を起こし、からかうような眼差しを向けてきた。	갑자기 그녀는 무언가 생각난 듯 몸을 살짝 일으키고는, 장난스러운 눈빛으로 나를 바라보았다.	Then, she lifted herself suddenly and looked at me with a teasing glint in her eyes.						0	3.6胧嫣个人故事
+25	你可千万别因为这几句话，就把妾身当做单纯无知的小白兔。	你可千萬別因為這幾句話，就把妾身當做單純無知的小白兔。	とはいえ、わらわを単純な甘い女だと思ったら大間違いよ。	이 말 때문에 저를 순진무구한 토끼로 여기시면 안 돼요.	Don't let a few sweet lines fool you. I'm not some naive little bunny.						0	3.6胧嫣个人故事
+26	下次，可不准再袒护她们。	下次，可不准再袒護她們。	今度は、中身を入れ替えてかばってあげても無駄だから。	다음엔 그 사람들 편들지 마세요.	You're not allowed to take their side anymore.						0	3.6胧嫣个人故事
+27	胧嫣颇为记仇地用眼神点了点漂浮在一旁的果篮。	朧嫣頗為記仇地用眼神打了漂浮在一旁的果籃一記。	ロウエンはビワの籠を目で示した。	로엔은 꽤 앙심이 컸는지, 눈빛으로 옆에 떠 있는 과일 바구니를 가리켰다.	Longyan shot a rather resentful glance at the fruit basket floating nearby, as if marking it down in her personal ledger of grudges.						0	3.6胧嫣个人故事
+28	怎么还记着，也没花多少钱。	怎麼還記著，也沒花多少錢。	まあまあ、いいじゃないか。大した額でもなかったんだし。	그걸 아직도 기억해? 얼마 하지도 않잖아.	You're still on that? It didn't cost much.						0	3.6胧嫣个人故事
+29	唉~这不是担心你心思单纯，容易受骗上当吗？	唉~這不是擔心你心思單純，容易受騙上當嗎？	はぁ…やっぱりあなたって、お人好しすぎるわ。	에휴~ 순진한 당신이 사기당할까 봐 걱정돼서 그래요.	Ah~ I'm just looking out for you. People as innocent as you can get taken advantage of.						0	3.6胧嫣个人故事
+30	噗……	噗……	ぷっ、あはあはは――	풉…	Hehe...						0	3.6胧嫣个人故事
+31	你笑什么？	你笑什麼？	何を笑ているの？	왜 웃어요?	What's so funny?						0	3.6胧嫣个人故事
+32	心思单纯？	心思單純？	「お人好し」か……	순진하다고?	Innocent?						0	3.6胧嫣个人故事
+33	已经很久没有人用这样的词形容我了，你未免也太小看我了？	已經很久沒有人用這樣的詞形容我了，你未免也太小看我了？	そう言われるのはずいぶん久しぶりなんだが、案外悪い気しないな。だが、私を甘く見てたら大間違いだよ。	날 그렇게 표현하는 사람이 너무 오랜만이라. 날 너무 얕보는 거 아니야?	I don't get that a lot. Maybe you're underestimating me?						0	3.6胧嫣个人故事
+34	胧嫣挑挑眉，眉宇间带着几分不服气的神采。	朧嫣挑挑眉，眉宇間帶著幾分不服氣的神采。	ロウエンは眉をつり上げ、ふーんとでも言うような顔になった。	로엔은 인정할 수 없다는 듯 눈썹을 치켜올렸다.	Longyan lifted an eyebrow, a flash of defiance in her eyes.						0	3.6胧嫣个人故事
+35	哼，可别神气。说不准什么时候，你就会得个教训呢……	哼，別裝神氣。說不定什麼時候，你就會得個教訓呢……	ふん、いい気になられたら困るわ。いつかバカを見てしまうのを楽しみにしてるわ、お人好しさん。	흥, 너무 우쭐대지 마세요. 언제 가르침을 받게 될지 모르니까요…	Hmph. Don't get cocky. One day you'll learn...						0	3.6胧嫣个人故事
+36	她微微仰头，三分傲七分娇地转过身，往岸上走去。	她微微仰頭，三分傲七分嬌地轉過身，往岸上走去。	彼女はふんと少し鼻を鳴らすと、背を向けて湯縁のほうへ歩きだした。	그녀는 고개를 살짝 들어 올리더니, 도도함과 요염함이 섞인 모습으로 몸을 돌려 물 밖을 향해 걸어갔다.	She lifted her chin slightly, turning away with a mix of pride and playful petulance, and walked toward the edge of the pool.						0	3.6胧嫣个人故事
+37	但步子才刚刚迈出去，她就身体一软，整个人直直没入水中。	但步子才剛剛邁出去，她就身體一軟，整個直直沒入水中。	でも一歩踏み出したところで、ふっと力が抜け、そのまま湯の中へ沈んだ。	하지만 발을 막 내딛자마자 몸에 힘이 풀리며 그대로 물속으로 빠져들었다.	But she'd barely stepped out of the water when she lost her balance and she slipped straight back into the hot spring.						0	3.6胧嫣个人故事
+38	呀——！	呀——！	きゃあ——！	꺄악!	Ah!						0	3.6胧嫣个人故事
+39	我赶忙将她横抱起来，放在了岸边的一张竹躺椅上。	我趕忙將她橫抱起來，放在了岸邊的一張竹躺椅上。	私はあわてて彼女を抱きあげ、近くの竹の寝椅子に寝かせた。	나는 서둘러 그녀를 안아 올려 물가의 대나무 의자에 눕혔다.	I hurriedly scooped her up and carried her out of the water, laying her on a bamboo lounge chair.						0	3.6胧嫣个人故事
+40	头好晕。	頭好暈。	頭が…くらくらするわ。	너무 어지러워요.	My head's spinning...						0	3.6胧嫣个人故事
+41	大概是泡久了有些脱水，你等着。	大概是泡久了有些脫水，你等著。	温泉に浸かりすぎてのぼせてしまったようだ。	물속에 너무 오래 있어서 힘이 빠졌나 봐. 잠깐 기다려.	Probably dehydrated. We've been soaking too long. Hold on.						0	3.6胧嫣个人故事
+42	等我把水拿回来以后，她浑身都染上了一层淡淡的晚霞，看起来的确有些热得过头了。	等我把水拿回來以後，她全身都染上了一層淡淡的晚霞，看起來的確有些熱得過頭了。	水を持って戻ると、彼女の肌は淡い夕焼けみたいに火照っていた。	내가 물을 가져왔을 때, 그녀는 온몸이 연한 저녁 노을빛으로 물들어서 열이 좀 있어 보였다.	By the time I returned with water, her skin was as rosy as the glow of a sunset. She must've really gotten overheated.						0	3.6胧嫣个人故事
+43	先喝点水。	先喝點水。	ほら、水だ。	일단 물 좀 마셔.	Here. Drink some.						0	3.6胧嫣个人故事
+44	杯子放在她的唇边，她却往旁边避开，难受得眯起了眼睛。	杯子放在她的唇邊，她卻往旁邊避開，難受得瞇起了眼睛。	コップを口元へ運んであげると、彼女は顔をそむけ、つらそうに目を細めた。	컵을 그녀의 입술에 가져다 댔지만, 그녀는 옆으로 피하며 힘든지 눈을 가늘게 떴다.	I held the cup to her lips. She tilted away, eyes squeezed shut.						0	3.6胧嫣个人故事
+45	妾身头好晕，什么都看不到呀？	妾身頭好暈，什麼都看不到呀？	目が回ってて、何も見えないの。	신첩, 너무 어지러워서 아무것도 안 보여요.	I'm so dizzy... I can't see anything...						0	3.6胧嫣个人故事
+46	别开玩笑，先把水喝下去。	別開玩笑，先把水喝下去。	冗談はやめて。いいから飲んでくれ。	장난치지 말고, 일단 물부터 마셔.	Stop messing around. Drink.						0	3.6胧嫣个人故事
+47	没开玩笑，真的看不见，不然……你喂我吧。	沒開玩笑，真的看不見，不然……你喂我吧。	冗談じゃない、本当だわ。だから……飲ませて。	장난이 아니라 정말 안 보여요. 그러니까… 먹여주세요.	I'm serious, I can't see a thing. I guess... you'll just have to help me drink, won't you?						0	3.6胧嫣个人故事
+48	她皱着眉，身子软软地又要坠下去。	她皺著眉，身子軟軟地又要墜下去。	眉をひそめたまま、腕がだらり垂れている。	그녀는 미간을 찌푸리며 쓰러질 듯 몸을 축 늘어뜨렸다.	Frowning, she slumped again.						0	3.6胧嫣个人故事
+49	没办法，我只能先喝上一大口水，然后贴近她的唇，慢慢把水渡给她。	沒辦法，我只能先喝上一大口水，然後貼近她的唇，慢慢把水渡給她。	本当みたいだ。仕方なく水を一口含み、彼女の口元に顔を近づけた。	할 수 없이 나는 물을 크게 한 모금 머금고, 그녀의 입술에 가까이 대어 천천히 물을 넘겨주었다.	I sighed and took a mouthful of water before sharing it with her slowly.						0	3.6胧嫣个人故事
+70	就在我照料胧嫣时，她笑语吟吟地贴近，一双杏眼带着几分诡计得逞的得意。	就在我照料朧嫣時，她笑語吟吟地貼近，一雙杏眼帶著幾分詭計得逞得意。	すこしずつ飲ませていると、ロウエンが含み笑いを浮かべた。瞳には得意げな色が浮かんでいる。	내가 로엔을 돌보는 사이, 그녀는 웃으며 다가왔고, 그 동그란 눈에선 계획대로 됐다는 듯한 자신만만함이 느껴졌다.	As I took care of Longyan, she leaned in with a sweet laugh, wearing that smug little look of victory.						0	3.6胧嫣个人故事
+71	几个灵巧的动作就用水袖把我的手缠在了一起。	幾個靈巧的動作就用水袖把我的手纏在了一起。	手際よく両腕で私の身体を絡めとり、背中で服の袖で結び目を作って私を縛りあげた。	그녀는 재빠르게 손을 놀려 덧소매로 내 손을 묶어버렸다.	Before I could react, she had my hands tied up with silk water sleeves.						0	3.6胧嫣个人故事
+72	然后她的手指轻轻搭在我的下颚上，刚才虚弱无力的样子是一点都见不到了。	然後她的手指輕輕搭在我的下巴上，剛才虛弱無力的樣子一點都看不出來。	顎先に細い指が添えられる。先ほどの弱々しさなど嘘のように消え去っている。というか、シンプルに嘘だった。	그녀의 손가락이 내 턱에 가볍게 닿았다. 그녀에게선 아까의 나약한 모습은 전혀 찾아볼 수 없었다.	Her fingers brushed my jaw. Whatever dizziness she'd shown had instantly vanished.						0	3.6胧嫣个人故事
+73	啧，刚才难受的样子都是装的？	嘖，剛才痛苦的表情都是裝的？	なんだ、いまのは芝居だったってか？	쯧, 아까 힘들어하던 건 다 연기였어?	Tch, you were faking it?						0	3.6胧嫣个人故事
+74	哎呀~妾身不都说了吗？说不准什么时候，教训就来了~	哎呀~妾身不都說過了嗎？說不定什麼時候，教訓就來了~	あら、油断したのね？せっかく忠告したのに、いつかバカを見てしまうって。	어머나~ 신첩이 말씀드렸잖아요? 언제 가르침을 당하게 될지 모른다고요~	Mm-hm~ I told you. One day you'll learn~						0	3.6胧嫣个人故事
+75	看来，教训就是被你绑在这里？	看來，教訓就是被你綁在這裡？	まあ、これくらいならなんとも思わないけどな。	그래서, 이렇게 묶이는 게 가르침이야?	Learn to be tied up...?						0	3.6胧嫣个人故事
+76	不全是……	不全是……	これだけじゃないわ……	그게 다가 아니에요…	It's just the beginning...						0	3.6胧嫣个人故事
+77	还得……任妾身拿捏。	還得……任妾身拿捏。	あとは……わらわの好きにさせてもらうわ。	이제… 신첩이 마음대로 해야겠네요.	The rest... all depends on me~						0	3.6胧嫣个人故事
+103	等一切结束之后，天已经蒙蒙亮了。	等一切結束之後，天已經蒙蒙亮了。	全てが終わった頃には、空がうっすら白み始めていた。	모든 것이 끝났을 때, 하늘은 이미 희미하게 밝아오고 있었다.	By the time we were done, dawn had already begun to break across the sky.						0	3.6胧嫣个人故事
+104	晨光洒进了沉月小筑之后，我们才发现这温泉池连带着周围都被我们折腾得一片狼藉。	晨光灑進沉月小築之後，我們才發現這溫泉池連帶著周圍都被我們折騰得一片狼藉。	朝日が朧月庵に差し込んではじめて、私たちは温泉とその周りがひどい有様になっていることに気づいた。	아침 햇살이 침월소원에 스며든 뒤에야 우리가 온천과 그 주변을 엉망으로 만들었다는 것을 깨달았다.	As the morning light spilled into Moonlit Retreat, we saw the mess we had made of the hot spring.						0	3.6胧嫣个人故事
+105	嗯……还是等睡醒了之后，再来收拾吧。	嗯……還是等睡醒了之後，再來收拾吧。	……片付けは、ひと眠りしてからにしましょう。	음… 자고 일어난 다음에 치우는 게 좋겠어요.	Heh... Let's deal with it after we wake up.						0	3.6胧嫣个人故事
+106	于是在一夜春光的疲惫之后，我们又打算再虚度一个白日，好好睡个懒觉。	於是在一夜春光的疲憊之後，我們又打算再虛度一個白日，好好睡個懶覺。	一晩中で溜まった互いの疲れを癒すために、私たちは思いっきり寝坊することにした。	그렇게 봄날 밤의 피로 끝에, 우리는 또 낮을 느긋하게 흘려보내며 늦잠을 실컷 자기로 했다.	After a night like that, we decided to "waste" the day properly by sleeping in.						0	3.6胧嫣个人故事
+107	胧嫣。	朧嫣。	ロウエン。	로엔.	Longyan.						0	3.6胧嫣个人故事
+108	嗯？	嗯？	ええ。	네?	Hm?						0	3.6胧嫣个人故事
+109	怀中的她即将坠入梦乡，但还是硬撑着精神，将耳朵凑了过来。	懷中的她即將墜入夢鄉，但還是硬撐著精神，將耳朵湊了過來。	腕の中の彼女は今にも眠りに落ちそうだったが、それでもなんとか耳を寄せてきた。	품 안의 그녀는 곧 잠에 빠져들 것 같았지만, 애써 정신을 붙잡고 내 쪽으로 귀를 기울였다.	Half-asleep in my arms, she still forced herself to lean into my face.						0	3.6胧嫣个人故事
+110	既然你已经想好不把匣子带回世界树……	既然你已經想好了不把匣子帶回世界樹……	あの箱、ユグドラシルに持ち帰らないと決めたなら……	상자를 위그드라실로 가져가지 않기로 마음먹었다면…	If you're not taking the case back to Yggdrasil...						0	3.6胧嫣个人故事
+111	那匣子连同里面的两件东西，可以交给我来处理吗？	那匣子連同裡面兩件東西，可以交給我來處理嗎？	箱とその中身の処置は…私に任せてくれないか？	상자와 그 안의 물건 두 개, 내가 처리해도 될까?	Can you leave it and the things inside for me?						0	3.6胧嫣个人故事
+112	诶？	欸？	……えっ？	네?	Huh?						0	3.6胧嫣个人故事
+113	胧嫣先是思考了片刻，然后身体忽然紧绷了一瞬，像是意识到了什么。	朧嫣先是思考了片刻，然後身體忽然緊繃了一瞬，像是意識到了什麼。	ロウエンはわずかに考えると、何かに気づいたように眠気でとろんとした目をすこし見開いた。	로엔은 잠시 생각하더니, 무언가를 깨달은 듯 갑자기 몸이 순간 긴장되었다.	She hesitated before her shoulders tightened for a beat as though she'd realized what it really meant.						0	3.6胧嫣个人故事
+114	但很快，她又放松下来，转而释怀一笑，不再追问任何事。	但很快，她又放鬆下來，轉而釋懷一笑，不再追問任何事。	しかし、彼女はすこし笑っただけで、それ以上なにも聞かなかった。	하지만 곧 그녀는 다시 긴장을 풀고는 미소 지으며 더 이상 아무것도 묻지 않았다.	But just as quickly, she relaxed again. She gave a carefree little smile and chose not to press.						0	3.6胧嫣个人故事
+115	随你拿去就是~	隨你拿去便是~	ええ、好きにしていいわ。	마음대로 하세요~	Take it. Do as you please with it~						0	3.6胧嫣个人故事
+116	她不带任何杂念地，在甜蜜与幸福的包裹中进入了梦乡。	她毫無雜念地，在甜蜜與幸福的包裹中進入夢鄉。	それだけ言って、ロウエンは幸せな笑みのまま眠りについた。	그녀는 아무런 잡념 없이, 달콤함과 행복 속에서 잠에 빠져들었다.	With nothing but sweetness left, she drifted off into a good sleep.						0	3.6胧嫣个人故事
+117	而那个引出许多故事的匣子也在几天之后被送到了崇福街的小摊上。	而那個引出許多故事的匣子也在幾天之後被送到了崇福街的小攤上。	――数日後。数々の物語を紡いだ箱は、招福街の屋台へと届けられた。	그리고 많은 이야기를 불러일으켰던 그 상자는 며칠 후 숭복가의 가게로 보내졌다.	A few days later, the lacquer case, source of so many turns in our story, was delivered to a small stall on Chongfu Street.						0	3.6胧嫣个人故事
+118	原本的主人取走了它，而胧嫣就躲在墙角，静静看着那人走入了人海。	原本的主人取走了它，而朧嫣就躲在牆角，靜靜地看著那人走入了人海。	それを取りにきた元の持ち主の背中が人混みに消えるまで、ロウエンは静かに見守っていた。	원래 주인이 그것을 가져갔고, 로엔은 모퉁이에 숨어 그 사람이 인파 속으로 사라지는 것을 조용히 지켜봤다.	Its original owner came to claim it. Longyan stood hidden at the corner, watching as her mother disappeared into the crowd.						0	3.6胧嫣个人故事
+119	并非是playername打破了与安的约定，而是她实在冰雪聪明，一点就通。	並非是playername違背了與安的約定，而是她實在冰雪聰明，一點就通。	playernameに教えてもらうまでもなく、ロウエンは自ら察したのだ。	playername이(가) 아인과의 약속을 깬 것이 아니라, 그녀가 워낙 총명하여 단번에 알아챈 것이었다.	playername hadn't broken his promise to An. Longyan was just clever enough to figure it out without being told.						0	3.6胧嫣个人故事
+120	放心吧。	放心吧。	安心して。	걱정하지 마세요.	Don't worry.						0	3.6胧嫣个人故事
+121	现在的我……幸福、快乐。	現在的我……幸福、快樂。	今は…幸せよ。	지금의 저는… 행복하고, 즐거워요.	I'm... very happy now.						0	3.6胧嫣个人故事
+122	我觉得来到这个世界是件幸运的事。	我覺得來到這個世界是件幸運的事。	この世界に生まれてきたことが幸せに思えたし……	이 세계에 온 게 행운이라고 생각해요.	I feel lucky to be born in this world.						0	3.6胧嫣个人故事
+123	也会带着满心的爱意，和playername一起走下去。	也會帶著滿心的愛意，和playername一同走下去。	愛に満ちた人生を、playernameと一緒に歩んでいくわ。	그리고 가슴 가득 사랑을 품고, playername 님과 함께 살아갈게요.	And I'll keep going with playername, carrying all the love I have.						0	3.6胧嫣个人故事
+124	胧嫣喃喃念着，感受着亲人远行时，那点难以避免的失落。	朧嫣喃喃念著，感受著親人遠行時，那點難以避免的失落。	別れの悲しみをかみしめながら、ロウエンは誰に言うでもなく呟いた。	로엔은 중얼거리며, 가족이 멀리 떠날 때 어쩔 수 없이 찾아오는 쓸쓸함을 느꼈다.	Longyan murmured, letting the bit of loss that always follows a parting settle.						0	3.6胧嫣个人故事
+125	所幸，这世上还会有新的缘分诞生。	所幸，這世上還會有新的緣分誕生。	幸い、別れからは新たな出会いが生まれる。	다행히도, 이 세상에는 계속 새로운 인연이 생겨날 것이다.	But thankfully, fate had a way of bringing new connections.						0	3.6胧嫣个人故事
+126	更多更多的未来都等待着playername与胧嫣一同落笔。	更多更多的未來都等待著playername與朧嫣一同落筆。	これからの未来は、playernameと一緒に描いていく。彼女はひそかに、そう心に決めた。	playername와(과) 로엔이 함께 써 내려갈 더 많은 미래가 기다리고 있다.	There were so many blank pages meant for playername and Longyan, waiting to be filled.						0	3.6胧嫣个人故事
+127	金风玉露一相逢，便胜却人间无数。	金風玉露一相逢，便勝卻人間無數。	彼と一緒なら、どんな世界も輝いて見える。今は、心からそう信じているのだった。	시원한 바람과 맑은 이슬의 한 차례 만남은, 인간 세상의 무수한 만남을 능가한다.	When the right souls meet, it beats a lifetime of everything else.						0	3.6胧嫣个人故事

@@ -1,0 +1,29 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，怎么一脸愁容？	分析員，怎麼一臉愁容？	分析員、なんか浮かない顔だな。	분석가, 왜 그렇게 저기압이야?	Adjutant, why do you look so sad?						0	
+2	还不是playername又把所有的事情扛到自己的身上啦。	還不是playername又把所有的事情扛到自己的身上啦。	playername、また何もかも一人で背負い込むつもりね。	playername이(가) 또 모든 책임을 자기한테 떠넘기려 하고 있어.	I bet playername is shouldering everything by himself again.						0	
+3	不用发愁，我会帮你解决。	不用煩惱，我會幫你解決。	分析員、私が全て解決する。	너무 걱정하지 마. 내가 도와줄 테니까.	Don't worry, I'll help you take care of everything.						0	
+b-1											0	
+4	我很担心燃灯仪式能不能正常进行。	我很擔心燃燈儀式能不能正常進行。	点灯儀式がうまくいくかどうかの方が心配だ。	연등 의식이 정상적으로 진행되지 않을까 봐 걱정이 돼.	I'm worried about whether or not the lighting ceremony will go smoothly.						0	
+5	唉，总觉得越靠近燃灯台的区域，就越频繁发生各种麻烦事。	唉，總覺得越靠近燃燈台的區域，就越頻繁發生各種麻煩事。	確かに、点灯台に近いエリアほど、面倒事が起こりがちだ。	그건 그래. 확실히 연등대에 가까워질수록 귀찮은 일들이 일어나고 있어.	Well, there are indeed more and more issues the closer you get to the lighting stage.						0	
+6	再加上那种会影响情绪的装置，一旦聚集的人群受到刺激……	再加上那種會影響情緒的裝置，一旦聚集的人群受到刺激……	感情に影響を与えるあの装置もある。人混みが刺激を受けると、連鎖反応が起こりかねない。	게다가 감정에 영향을 끼치는 장치까지 더해지니, 모인 사람들이 자극을 받으면…	Along with those devices that manipulate emotions, once the civilians gets affected...						0	
+b-0											0	
+b-2											0	
+7	连锁反应……	連鎖反應……	点灯台の近くにうちの隊員はいるか？	연쇄 반응이 올 수도 있어…	A chain reaction...						0	
+8	我们有队员在燃灯台附近吗？	我們有隊員在燃燈台附近嗎？	教官、ついさっき他のヘイムダル隊員の位置を確認したわよね？	혹시 연등대 근처에 있는 대원이 있어?	Do we have any operatives near the lighting stage?						0	
+9	我们的人都被赶去看燃灯仪式的群众堵在外围。	我們的人都被趕去看燃燈儀式的群眾堵在外圍。	ああ、だが生憎、点灯儀式を見に行く群衆に阻まれて外縁に留まっている。	연등 의식을 보러 가는 사람들한테 둘러싸여 있더군.	Our people are all being blocked by the crowds who are rushing to see the lighting ceremony.						0	
+b-3											0	
+10	那就是说，燃灯台附近只有辰星在执行任务？	那就是說，燃燈臺附近只有辰星在執行任務？	つまり、点灯台の近くでミッション遂行中の人は辰星しかいないってこと？	그 말은 지금 수성 혼자서 연등대 근처에서 미션을 수행하고 있다는 말이야?	So you're saying Chenxing is the only one working near the lighting stage?						0	
+11	没错。	沒錯。	そう。	맞아.	That's right.						0	
+b-4											0	
+12	唉……办法总会比困难多的。	唉……辦法總會比困難多的。	どうやら、ヘイムダルの出番のようだ。	후… 항상 해결책은 있기 마련이니까.	Well, guess we just have to figure a way out.						0	
+14	分析员，需要我怎么做？	分析員，需要我怎麼做？	分析員、私はどうすればいい？	분석가, 난 뭘 하면 되지?	Adjutant, what would you like me to do?						0	
+b-6											0	
+15	通知全部队员向燃灯台出发，会合后接应辰星。	通知全部隊員向燃燈臺出發，會合後接應辰星。	点灯台に向かうよう全隊員に伝えて。合流次第、辰星を受け入れる。	대원들에게 연등대로 가서 합류한 후에 수성을 맞이하라고 전해줘.	Inform all operatives to rendezvous at the lighting stage and wait for Chenxing.						0	
+b-7											0	
+16	尽全力帮这里的人解决麻烦，让他们过好明灯节。	盡全力幫這裡的人解決麻煩，讓他們過好明燈節。	できる限りここの人たちを助ける。いい明灯祭にしよう。	전력을 다해서 이곳에 있는 사람들의 문제를 해결해 주고, 사람들이 축제를 즐길 수 있게 도와주고.	Do your best to help everyone here take care of their issues and have a good Mingdeng Jie.						0	
+17	那么……分析员长官，我就暂时告辞啦。	那麼……分析員長官，我就暫時告辭啦。	じゃあ……分析員さん、あたしは一旦失礼するね。	그럼… 분석가님, 전 먼저 가볼게요.	Then... I'll head out now, Senior Adjutant.						0	
+18	战斗非我所长，不过有偶像星期三在身边，也轮不到我帮忙嘛~	戰鬥非我所長，不過有偶像星期三在身邊，也輪不到我幫忙嘛~	戦闘はあたしの専門じゃないし、それにみんなの憧れのウェンズデーもついているなら、あたしの出番なんてないしね～	전투는 제 취미가 아니라서… 그리고 웬스데이 님이 옆에 있으면 굳이 제가 도울 일도 없을 것 같고요~	I'm not much of a fighter, and since Wednesday's here anyway, I'd just get in the way~						0	
+19	喂喂，我还在呢！	喂喂，我還在呢！	あのね、あたしもいるからね！	이봐, 여기 페니도 있어!	Hey, I'm here too!						0	
+20	之后，我会全力救助、疏散那些受伤的民众。	之後，我會全力救助、疏散那些受傷的民眾。	あたしは民衆の救助や避難に注力するから。	저는 추후에 구조 활동을 위주로 다친 사람들을 대피시킬게요.	I'll do my best to save and evacuate anyone who's injured.						0	
+21	祝各位一切顺利。	祝各位一切順利。	みんな、ご武運を。	그럼 다들 행운을 빌게요.	I wish you all the best.						0	

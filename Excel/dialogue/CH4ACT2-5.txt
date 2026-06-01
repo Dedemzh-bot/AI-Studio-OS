@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	干员麦克			谢谢分析员长官，既然兄弟们都救出来了……	0	
+2		0	干员麦克			我们就不拖后腿了。	0	
+3		0	干员麦克			撤！把战场交给海姆达尔部队！	0	

@@ -1,0 +1,34 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	盯……	盯……	じー……	(빤히 쳐다본다)…	*staring*...						0	
+page1.2	伊切尔，为什么一直看着我？	伊切爾，為什麼一直看著我？	イチェル？どうしてじっと私を見つめてるんだ？	이첼, 왜 자꾸 나를 쳐다봐?	Eatchel, why are you staring at me?						0	
+page1.3	魔术。	魔術。	マジック。	마술.	Magic.						0	
+page1.4	魔术……？？	魔術……？？	マジック？	마술…??	Magic...???						0	
+page1.5	刚才，苔丝表演了。	剛才，黛斯表演了。	さっき、テスがやってた。	방금, 테스 언니가 보여줬어.	Tess performed just now.						0	
+page1.6	伊切尔的想法，被猜到了。	伊切爾的想法，被猜到了。	イチェルの考えが、バレバレだった。	이첼의 생각을, 맞혔어.	She guessed what I was thinking.						0	
+page1.7	是读心魔术啊。	是讀心魔術啊。	心を読むマジックか。	독심술이네.	Oh, mind-reading magic?						0	
+page1.8	嗯，魔术，很厉害！	嗯，魔術，很厲害！	うむ。マジック、すごいぞ！	응, 마술, 정말 대단해!	Yeah! Magic! It was awesome!						0	
+page1.9	伊切尔也会吗？	伊切爾也會嗎？	イチェルもできるのか？	이첼도 할 줄 알아?	Can you do it too, Eatchel?						0	
+page1.10	嗯！伊切尔……在学习。	嗯！伊切爾……在學習。	うむ！イチェルは……まだ、勉強中。	응! 이첼은… 배우고 있어.	Yeah! I'm... learning.						0	
+page1.11	……学习让分析员能明白我的魔术。	……學習讓分析員能明白我的魔術。	……分析員にボクのことが分かるようになるマジックを。	…분석가가 내 마술을 이해하도록 공부하는 중이야.	...I'm learning magic that can make you read my mind, Adjutant.						0	
+page1.12	这样，很方便！	這樣，很方便！	その方が、便利だから！	이렇게 하면, 편해!	It'll be super convenient!						0	
+page1.13	结果是想让我变读心魔术给你看吗？？	結果是想讓我變讀心魔術給你看嗎？？	私に心を読むマジックをやってほしいって意味だったのか……	그래서 나한테 독심 마술을 보여달라는 거야??	So you want me to use mind-reading magic on you???						0	
+page1.14	（……虽然很想说……请放弃这样强人所难的想法，但既然是伊切尔的请求……）	（……雖然很想說……請放棄這樣強人所難的想法，但既然是伊切爾的請求……）	（……無理難題だと言いたいけど……イチェルがそう言うなら……）	(… 사실 '제발 그런 무리한 부탁은 하지 말아줘' 라고 말하고 싶지만, 이첼의 부탁이니까…)	(...I really want to discourage her from wanting to force her ideas on others, but since it's Eatchel...)						0	
+page1.15	我明白了，我会努力的。	我明白了，我會努力的。	わかったよ、頑張ってみる。	알겠어, 노력해 볼게.	Got it. I'll do my best.						0	
+page1.16	就让我来猜猜伊切尔想做什么。	就讓我來猜猜伊切爾想做什麼。	イチェルが何を考えているのか、当ててみようじゃないか。	이첼이 뭘 하고 싶은지 내가 맞춰보겠어.	Let me guess what you want to do, Eatchel.						0	
+page1.17	猜！	猜！	うむ！	맞혀봐!	Okay, guess!						0	
+page1.18	让我想想，伊切尔现在想的是……出去玩？	讓我想想，伊切爾現在想的是……出去玩？	そうだな。イチェルは今……外で遊びたいと考えてるんじゃないか？	음, 이첼은 지금… 놀러 나가고 싶어?	Let me think... Right now, you want to... go play?						0	
+page1.19	今天玩累了，明天可以。伊切尔有想去的地方。	今天玩累了，明天可以。伊切爾有想去的地方。	今日はもう遊び疲れたから、また明日かな。イチェルは行きたい場所があるんだ。	오늘은 많이 놀았으니까, 내일 가도 돼. 이첼은 가고 싶은 데가 있거든.	I'm tired of playing today. Maybe tomorrow. There's somewhere I wanna go.						0	
+page1.20	分析员可以陪我去吗？	分析員可以陪我去嗎？	分析員、一緒に行ってくれる？	분석가, 나랑 같이 가줄 수 있어?	Can you come with me, Adjutant?						0	
+page1.21	……嗯。	……嗯。	……いいよ。	… 그래.	...Okay.						0	
+page1.22	不过玩累了的话，我知道了，伊切尔现在肯定饿了，想吃东西？	不過玩累了的話，我知道了，伊切爾現在一定餓了，想吃東西？	でも、疲れたって言ったな……そうだ、きっとお腹が減って、なにか食べたいんだろう？	그런데 놀다가 피곤해지면… 알겠다. 이첼은 지금 배고파서 뭔가를 먹고 싶구나?	But if you're tired of playing, I know what you're thinking. You must be hungry and want to eat?						0	
+page1.23	这个苔丝已经猜到了，给我喂了吃的。	這個黛斯已經猜到了，餵了吃的給我了。	それはテスがさっき当てたことだぞ。ついでにおやつももらった。	테스 언니가 이미 맞혔어, 나한테 먹여 줬거든.	Tess guessed that already. She fed me.						0	
+page1.24	不过苔丝说有个地方新开了一家店很好吃。	不過黛斯說有個地方新開了一家店很好吃。	でも、おいしい店ができたってテスも言ってたぞ。	근데 테스 언니 말로는 새로 오픈한 가게가 맛있다고 했어.	But she also said there's a new restaurant that's really yummy.						0	
+page1.25	盯……	盯……	じー……	(빤히 쳐다본다)…	*staring*...						0	
+page1.26	我知道了……我会带你去吃的。	我知道了……我會帶你去吃的。	はいはい、わかったから、その店には連れて行くよ。	알겠어… 같이 먹으러 가자.	Alright... I'll take you there to eat tomorrow.						0	
+page1.27	又猜了几个伊切尔的想法，都被否决后，分析员颓然选择了放弃。	又猜了幾個伊切爾的想法，都被否決後，分析員頹然選擇了放棄。	何回かイチェルの考えを当てようとしてみたけれど、どれも違ったようで、分析員はがっくりと肩を落とした。	이첼의 생각을 몇 번 더 맞춰보려고 했지만, 다 틀렸고 분석가도 결국 포기했다.	After guessing what Eatchel was thinking a few more times but getting each one wrong, the Adjutant chose to simply give up.						0	
+page1.28	看来我果然没有读心的天分。	看來我果然沒有讀心的天賦。	私には心を読む才能がないみたいだ。	역시 난 독심술 재능이 없는 것 같아.	Looks like I don't have a talent for mind reading.						0	
+page1.29	所以伊切尔心里是在想什么呢？	所以伊切爾心裡在想什麼呢？	それじゃ、イチェルは一体なにを考えていたんだ？	그래서 이첼은 지금 무슨 생각을 하고 있어?	So what are you thinking, Eatchel?						0	
+page1.30	什么都没想，我就是想看着分析员。	什麼都沒想，我就是想看著分析員。	なにも。分析員をただ見てただけだぞ。	아무 생각도 안 했어, 그냥 분석가를 보고 싶어서 그래.	I'm not thinking about anything. I just wanted to look at you, Adjutant.						0	
+page1.31	（……这孩子似乎可爱到犯规了。）	（……這孩子似乎可愛到犯規了。）	（……はあ、かわいいな。）	(… 이 아이는 반칙일 정도로 귀엽네.)	(...It should be against the rules to be this cute.)						0	
+page1.32	（等等，我的明天是不是被伊切尔安排得明明白白了？？）	（等等，我的明天是不是被伊切爾安排得明明白白了？？）	（待てよ？いつの間にか、私の明日の予定をイチェルに決められてないか？）	(잠깐, 내일 내 일정은 이첼이 다 정해버린 것 같은데??)	(Wait, did Eatchel claim my time tomorrow just like that???)						0	

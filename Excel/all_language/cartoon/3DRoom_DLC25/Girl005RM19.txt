@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	花宴，唯德，古雷伯爵，今天喝哪一种红茶呢？	花宴，唯德，古雷伯爵，今天喝哪一种红茶呢？	花宴、ウィッタード、アールグレイ……今日の茶葉はどれにしようかな。	플라워, 위타드, 얼그레이, 오늘은 어떤 홍차로 할까요?	Floral, Whittard, Earl Grey... what kind of black tea do you want today?						0	2.5版本随机事件
+page1.2	分析员也愿意的话，古雷伯爵可以吗？	分析員也願意的話，古雷伯爵可以嗎？	分析員さんさえよければ、アールグレイにしてもいいですか？	분석가님도 괜찮으시다면, 얼그레이로 할까요?	How about Earl Grey? If you're okay with that, Adjutant.						0	2.5版本随机事件
+page1.3	嗯？难得啊。记得上次你说古雷伯爵的香气浓郁，不太清雅。	嗯？難得啊。記得上次你說古雷伯爵的香氣濃郁，不太清雅。	ん？めずらしいな。この前、アールグレイは香りが強すぎて微妙だとか言わなかったか？	어? 의외네. 지난번엔 얼그레이는 향이 진해서 맛이 깔끔하지 않다고 하지 않았었나?	Oh? That's unusual. I remember you mentioning Earl Grey has a strong, unrefined aroma.						0	2.5版本随机事件
+page1.4	唔嗯，确实……	嗯嗯，確實……	えっと、確かにそうでしたが……	음, 맞아요…	Yes, that's true...						0	2.5版本随机事件
+page1.5	但是！今天不一样！	但是！今天不一樣！	でも！今日は違います！	그랬었지만 오늘은 달라요!	But today is different!						0	2.5版本随机事件
+page1.6	嗯？怎么不一样呢？	嗯？怎麼不一樣呢？	どう違うんだ？	어? 뭐가 다른데?	Huh? How?						0	2.5版本随机事件
+page1.7	今天，喝完这壶茶……分析员就得离开基地出任务了。	今天，喝完這壺茶……分析員就得離開基地出任務了。	今日、このお茶を飲んだあと、分析員さんは任務のために寮を出なければいけません。	오늘 이 차를 다 마시고 나면… 분석가님께서 숙소를 떠나 임무를 나가시잖아요.	After we finish this pot of tea... you have to leave the Base for a mission.						0	2.5版本随机事件
+page1.8	古雷伯爵的佛手柑香气浓烈，经久不散……	古雷伯爵的佛手柑香氣濃烈，經久不散……	アールグレイなら、ベルガモットの香りが強くて、時間が経っても消えないので……	얼그레이의 베르가못 향은 강하고 오래 남잖아요…	The scent of bergamot in Earl Grey is strong and persistent...						0	2.5版本随机事件
+page1.9	香味能延续到很久很久，这样一来，茉莉安也能沉浸在留有分析员余香的世界里，很久很久。	香味能延續到很久很久，這樣一來，茉莉安也能沉浸在留有分析員餘香的世界裡，很久很久。	ずっと続くその香りに包まれながら、分析員さんのことを考えることができます。	향기가 오래 가면 저도 분석가님이 남긴 잔향 속에 오래오래 머물 수 있을 것 같아요.	It lasts for a while, so I can surround myself with the scent you leave behind for a long, long time, Adjutant.						0	2.5版本随机事件
+page1.11	唔嗯，确实啊，给你泡完这壶古雷伯爵，我估计手上一整天都会留有这佛手柑的香气呢。	嗯，確實啊，幫你泡完這壺古雷伯爵，我估計手上一整天都會留有這佛手柑的香氣呢。	ふむ。言われてみれば確かに……アールグレイを淹れると、私の手についたベルガモットの香りは一日中消えないだろう。	흠, 맞아. 이 얼그레이를 다 우려내고 나면 내 손에 하루 종일 베르가못 향이 남아있겠지.	Hmm... That makes sense. After I make this pot of Earl Grey, my hands will probably smell like it all day long.						0	2.5版本随机事件
+page1.13	嗯哼，决定了！我下午任务快马加鞭忙完，尽量在余香还未消散前，就回到茉莉安身边，如何？	嗯哼，決定了！我下午任務快馬加鞭忙完，盡量在餘香還沒消散前，就回到茉莉安身邊，如何？	決まりだな。できるだけ早く任務を終わらせて、香りが消えないうちにマリアンに会いに来るよ。どうだ？	좋아, 결정했어! 오후 임무는 서둘러 끝내고 잔향이 사라지기 전에 마리안 곁으로 돌아올게. 어때?	Okay, I've decided! I'm going to finish my afternoon mission ASAP and get back to you before the scent fades. What do you say?						0	2.5版本随机事件
+page1.15	少女的欣喜溢于言表。她将茶杯轻捧予我。其中升起的袅袅雾气，虽模糊了眼前的笑意，却清晰了心底的爱意。	少女的欣喜溢於言表。她將茶杯輕捧給我。其中升起的裊裊霧氣，雖模糊了眼前的笑意，卻清晰了心底的愛意。	マリアンはうれしそうに笑い出して、カップを渡してきた。香り高い湯気で彼女の表情は見えづらくなるが、逆に私たちの愛の形がくっきりと見えたような気がする。	소녀의 기쁨이 얼굴에 가득했다. 그녀는 찻잔을 조심스럽게 들어 내게 내밀었다. 그 안에서 피어오르는 은은한 김은 눈앞의 미소를 흐릿하게 했지만, 마음속 사랑은 더욱 선명하게 만들었다.	The girl couldn't even express how happy she was. She gently held out a teacup for me. The rising steam blurred the smile before my eyes, but the love in her heart was crystal clear.						0	2.5版本随机事件

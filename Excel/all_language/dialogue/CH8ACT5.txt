@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	没看见我们刚才击败了泰坦吗？	沒看見我們剛才擊敗了泰坦嗎？	さっき私たちがタイタンを倒したところを見てないのか？	설마 우리가 타이탄을 쓰러뜨린 걸 보고도 이러는 건가?	Didn't they just see us defeat a Titan?						0	
+2	我猜不管是什么人，只要靠近都会遭到攻击。	我猜不管是什麼人，只要靠近都會遭到攻擊。	誰だろうと、近寄れば攻撃されると思う。	가까이 다가가면 그게 누구든 공격하는 것으로 보인다.	I'm guessing they attack anything that approaches them, no matter what it is.						0	
+3	狼有这种护食的习性。	狼有這種護食的習性。	狼は自分の食べ物を守る習性がある。	늑대에게는 먹이를 보호하는 습성이 있기 때문이다.	Coyotes are ingrained with a desire to guard their food.						0	

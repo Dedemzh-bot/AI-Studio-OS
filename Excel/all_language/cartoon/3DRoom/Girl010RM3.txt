@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，你又在喝咖啡啊。	分析員，你又在喝咖啡啊。	分析員、またコーヒー飲んでるの？	분석가, 또 커피 마시는 거야?	Adjutant, you're drinking coffee again.						0	
+page0.2	对啊，怎么了吗？	對啊，怎麼了嗎？	そうだよ。どうかしたか？	응, 왜 그래?	Yeah, what about it?						0	
+page0.3	虽然咖啡对身体有好处，但也不能拿它当水喝。	雖然咖啡對身體有好處，但也不能把它當水喝。	コーヒーは水感覚で飲んじゃダメだぞ〜。	커피가 몸에 좋은 점도 있지만, 너무 물처럼 마시면 안 돼.	Coffee can be good for you, but you shouldn't down it like water.						0	
+page0.4	特别是你这样的，经常深夜喝咖啡提神，对身体损伤可是很大的。	特別像你這樣的作息，經常深夜喝咖啡提神，對身體的傷害可是很大的。	特に深夜の眠気覚ましにガバガバ飲むのは体に毒。	특히 너처럼 새벽에 잠 깨려고 마시는 건 몸에 엄청 안 좋아.	That's especially true for people like you who drink coffee late at night to wake themselves up. It's really bad for you.						0	
+page0.5	这也没办法嘛，而且我平时不只喝咖啡，也会改喝奶茶和能量饮料的。	這也沒辦法嘛，而且我平時不只喝咖啡，也會改喝奶茶和能量飲料的。	いや、ミルクティーやエナドリも飲むよ。	어쩔 수 없잖아. 그리고 나도 가끔은 커피 대신 밀크티나 에너지 드링크를 마시기도 한다고.	Well, it can't really be helped. And I don't only have coffee — I also drink milk tea and energy drinks.						0	
+page0.6	您完全不愿意喝水是吗？	您完全不願意喝水是嗎？	水を飲まないのか水を。	그냥 평범한 물을 마실 생각은 없는 거야?	You really don't want to drink water, huh?						0	
+page0.7	我已经看到咱们退休的时候，你拖着残损不堪的身体离开公司……	我已經看到咱們退休的時候，你拖著殘損不堪的身體離開公司……	あぁ、定年退職した分析員がボロボロの体を引きずって会社を去る姿が目に浮かぶぜ……	벌써부터 퇴직할 때 휘청거리면서 회사를 나갈 모습이 눈에 뻔히 아른거리는 걸…	I can see it now... you, leaving the company in terrible health when we retire...						0	
+page0.8	停停停，太夸张了。	停停停，太誇張了。	待て待て、大げさすぎる。	그만 그만, 너무 오바야.	Alright, that's enough. You're being dramatic.						0	
+page0.9	一点都不夸张。分析员，养生是一件投入很少，收获很大的事情，只需要改掉你糟糕的饮食习惯，就能有立竿见影的效果。	一點都不誇張。分析員，養生是一件投入很少，收穫很大的事情，只需要改掉你糟糕的飲食習慣，就能有立竿見影的效果。	大げさじゃないよ！養生の基本は低投入高産出。分析員のそのひどい食生活を正せば、すぐ軌道修正が可能なのだ。	전혀 그렇지 않아, 분석가. 몸 관리는 투자한 시간 대비 굉장히 유익한 일이라고. 그 엉망진창인 식습관만 고치면 엄청 건강해질 거야.	I'm not being dramatic at all. Adjutant, a little effort goes a long way when it comes to maintaining good health. If you kick your bad habits, you'll see immediate results.						0	
+page0.10	可是我还是习惯喝点有味道的饮料。	可是我還是習慣喝有味道的飲料。	でも私は味のある飲み物の方がいいな。	그래도 난 맛이 느껴지는 음료가 좋은 걸.	But I'm already used to drinking flavored drinks.						0	
+page0.11	枸杞，菊花，胖大海，你选一个吧。	枸杞，菊花，澎大海，你選一個吧。	じゃあクコ、菊、梅。どのお茶にするか選んで。	구기자차, 국화차, 오목차. 자, 이 중에 하나 골라봐.	Wolfberry, chrysanthemum, or malva nut — take your pick.						0	
+page0.12	你平时也喝这些吗？	你平時也喝這些嗎？	肴は普段からそういうの飲んでるのか？	넌 평소에도 이런 걸 마셔?	Do you usually drink those too?						0	
+page0.13	那当然，购买链接发给你了，别忘了买个保温杯。	那當然，購買連結傳給你了，別忘了買個保溫杯。	もちろん。通販のアドレス送っといた。保温できるようにステンレスボトルも買ってね。	당연하지, 구매 링크 보내놨어. 보온병 사는 것도 잊지 말고.	Of course. I sent the links to you. Don't forget to buy a thermos.						0	
+page0.14	我可是说过很多次了，现在不养生，以后会后悔终生！	我可是說過很多次了，現在不養生，以後會後悔終生！	何度も言ったからね、今から健康を意識しておかないと、いつか後悔することになる！	난 분명 말해줬다, 지금 건강 관리 안 하면 늦어!!	I've said it before, and I'll say it again — if you don't start taking care of your health now, you'll regret it for the rest of your life!						0	

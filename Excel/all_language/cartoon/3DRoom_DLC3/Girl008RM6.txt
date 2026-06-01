@@ -1,0 +1,25 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员~正好你有空，我们来玩快问快答吧。	分析員~剛好你有空，我們來玩快問快答吧。	あら分析員。暇そうだからあたしが即答ゲームの相手をしてあげるわ！	분석가~ 마침 할 일도 없으니, 우리 스피드 게임하자.	Adjutant~ Looks like you're not doing anything. Let's play a rapid-fire question game.						0	
+page0.2	嗯？这倒没问题，不过怎么突然想玩这个？	嗯?我是沒問題，不過怎麼會突然想玩這個?	え、ひどくない……？っていうか、なんだって？即答？	응? 나야 괜찮은데, 갑자기 웬 게임?	Eh? Sure, but why do you want to do that all of a sudden?						0	
+page0.3	咳咳，我要直接开始了哦。请听题：“黑白灰三种颜色分析员更喜欢哪种？”	咳咳，我要直接開始了喔。注意聽題目:「黑白灰三種顏色分析員更喜歡哪種?」	ゴホン、じゃあ始めるわよ。第一問、「黒と白と灰色の中で分析員が一番好きな色は？」	크흠, 바로 시작한다. '검정색, 흰색, 회색 중에 어떤 게 제일 좋아?'	Ahem... I'm going to start now. Here's the question: Which color do you prefer? Black, white, or gray?						0	
+choice1	黑色。	黑色。	黒。	검정색.	Black.						0	
+choice2	白色。	白色。	白。	흰색.	White.						0	
+choice3	灰色。	灰色。	灰色。	회색.	Gray.						0	
+page1.1	哎嘿，那猫和狗分析员更喜欢哪一个呢？	欸嘿~那貓跟狗分析員更喜歡哪一個呢?	へぇ、じゃあ猫と犬ならどっちが好き？	그럼 고양이와 강이지 중에 뭐가 더 좋아?	Hehe, then are you a dog person or a cat person?						0	
+choice4	更喜欢猫吧。	更喜歡貓吧。	猫かな。	고양이가 더 좋아.	Cat person.						0	
+choice5	还是狗好一点。	還是狗好。	やっぱり犬。	강아지가 더 좋은 것 같아.	Dog person.						0	
+page2.1	嗯……那你把眼睛闭上，把手伸出来。	嗯……那你閉上眼睛，把手伸出來。	うん……じゃあ目を閉じながら手を出して。	음… 그럼 눈 감고, 손 내밀어 봐.	Alright... then close your eyes and hold out your hand.						0	
+page2.2	（我感觉到芬妮把一个沉甸甸的东西放在了我的掌心）	(我感覺到芬妮放了一個有點重量的東西在我手掌上)	（手のひらからずっしりと重い感触が伝わってきた）	(페니가 내 손바닥에 묵직한 물건을 하나 올려놓았다)	(I feel Fenny placing something heavy in my palm.)						0	
+page2.3	可以睁眼了哦。	可以睜開眼睛了喔。	さ、目を開けて？	이제 눈 떠도 돼.	You can open your eyes.						0	
+page2.4	这是……	這是……	これは……	이건…	This is...						0	
+page3.1	是本小姐周末去陶艺课做的黑色狗狗，送你啦。	是本小姐週末去陶藝課做的黑色狗狗，就送你啦。	あたしが週末に参加した陶芸の授業で作った黒いワンちゃんよ。あげるね。	내가 주말에 도예 수업에서 만든 검은색 강아지야, 선물로 줄게.	It's for you. It's a black dog I made for you in my pottery class on the weekend.						0	
+page4.1	是本小姐周末去陶艺课做的白色狗狗，送你啦。	是本小姐週末去陶藝課做的白色狗狗，就送你啦。	あたしが週末に参加した陶芸の授業で作った白いワンちゃんよ。あげるね。	내가 주말에 도예 수업에서 만든 흰색 강아지야, 선물로 줄게.	It's for you. It's a white dog I made for you in my pottery class on the weekend.						0	
+page5.1	是本小姐周末去陶艺课做的灰色狗狗，送你啦。	是本小姐週末去陶藝課做的灰色狗狗，就送你啦。	あたしが週末に参加した陶芸の授業で作った灰色のワンちゃんよ。あげるね。	내가 주말에 도예 수업에서 만든 회색 강아지야, 선물로 줄게.	It's for you. It's a gray dog I made for you in my pottery class on the weekend.						0	
+page6.1	是本小姐周末去陶艺课做的黑色猫猫，送你啦。	是本小姐週末去陶藝課做的黑色貓貓，就送你啦。	あたしが週末に参加した陶芸の授業で作った黒いネコちゃんよ。あげるね。	내가 주말에 도예 수업에서 만든 검은색 고양이야, 선물로 줄게.	It's for you. It's a black cat I made for you in my pottery class on the weekend.						0	
+page7.1	是本小姐周末去陶艺课做的白色猫猫，送你啦。	是本小姐週末去陶藝課做的白色貓貓，就送你啦。	あたしが週末に参加した陶芸の授業で作った白いネコちゃんよ。あげるね。	내가 주말에 도예 수업에서 만든 흰색 고양이야, 선물로 줄게.	It's for you. It's a white cat I made for you in my pottery class on the weekend.						0	
+page8.1	是本小姐周末去陶艺课做的灰色猫猫，送你啦。	是本小姐週末去陶藝課做的灰色貓貓，就送你啦。	あたしが週末に参加した陶芸の授業で作った灰色のネコちゃんよ。あげるね。	내가 주말에 도예 수업에서 만든 회색 고양이야, 선물로 줄게.	It's for you. It's a gray cat I made for you in my pottery class on the weekend.						0	
+page9.1	所以说，你早就知道我喜欢什么了吗？	所以說，你早就知道我喜歡什麼了嗎?	ってことは、私の好みはとっくに把握してたのか？	내가 뭘 좋아하는지 이미 알고 있었던 거야?	So you already knew what I would choose?						0	
+page9.2	哼哼，毕竟分析员就是很好猜嘛。	哼哼，畢竟分析員很好懂嘛。	ふふん。だって、分析員は分かりやすいから。	흠흠, 분석가 네가 잘 맞힌 거지.	Hehe, you're really predictable, Adjutant.						0	
+page9.3	怎么样，做的十分完美吧？	怎麼樣，做得很完美吧?	どう？文句のない出来栄えでしょ？	어때, 잘 만들었지?	What do you think? It's perfect, right?						0	
+page9.4	很可爱，谢谢你，芬妮，我很喜欢。	很可愛，芬妮謝謝你，我很喜歡。	とても可愛い。ありがとう、ファニー、大切にするよ。	너무 귀엽다. 고마워, 페니, 정말 마음에 들어.	It's really cute. Thank you, Fenny. I love it.						0	

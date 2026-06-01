@@ -1,0 +1,23 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我这块刻的字更多呢……	我這塊刻的字更多呢……	私の方が刻まれた字が多いね……	내가 새긴 글자가 더 많은데…	Mine has more words engraved...						0	
+2	我们的钱一共就只够让他刻半小时，光你这块就刻了二十分钟，当然字更多……	我們的錢一共就只夠讓他刻半小時，光你這塊就刻了二十分鐘，當然字更多……	私たちの収入じゃ彼の時間は30分しか買えない。あなたのを刻むだけで20分かかったし、字が多いのも当然ね……	우리가 가진 돈으로는 30분밖에 새기지 못하는데, 20분 동안 네 거만 새겼으니 당연히 더 많지…	We only had enough money to have him engrave for half an hour. Yours took 20 minutes to engrave, so of course it has more...						0	
+3	女孩子们开心地把玩手中的黑色石块，那石块看起来有点眼熟，我突然想起我手上有一块一模一样。	女孩子們開心地把玩手中的黑色石塊，那石塊看起來有點眼熟，我突然想起我手上也有一塊一模一樣的。	女の子たちは楽しそうに手に持った黒い石を観察した。その石ころにはなんだか見覚えがある気がした。そういえば私もそっくりなものを持っている。	아이들은 손에 들고 있는 검은색 돌멩이를 가지고 놀고 있었고 그 돌멩이는 내가 들고 있는 것과 똑같이 생겼다는 것을 깨달았다.	As the girls were happily playing with the stones in their hands, I realized they looked familiar, suddenly remembering I had one that looked exactly the same.						0	
+b-1											0	
+4	请问，这个东西是做什么用的？	請問，這個東西是做什麼用的？	すみません、これは何に使うものか、ご存知ですか？	혹시 이 돌멩이가 어디에 쓰이는 물건인지 알고 있니?	Excuse me, what is this thing for?						0	
+5	我拿出了之前捡到的石块，向女孩展示。	我拿出了之前撿到的石塊，向女孩展示。	この前拾った石を取り出し、女性に見せた。	난 전에 주웠던 돌멩이를 꺼내 여자아이에게 보여줬다.	I pulled out the rock I picked up earlier and showed it to the girls.						0	
+6	这个是<orange>信石</>呀！一种特殊的信。你不知道吗？	這個是<orange>信石</>呀！一種特殊的信。你不知道嗎？	これは<orange>信石</>というの！特殊な手紙のようなものね。知らないの？	이건 <orange>전각석</>이잖아요! 특수 편지 같은 건데 몰라요?	It's a <orange>Letter Stone</>! It's a special kind of letter. You didn't know?						0	
+7	让李老用他的微雕技术，把想说的话，想送出的祝福刻在石头上，这种复古的手工艺品在天楼区作为礼物很流行呢。	讓李老用他的微雕技術，把想說的話、想送出的祝福刻在石頭上，這種復古的手工藝品在天樓區是很熱門的禮物呢。	李さんに頼んで、言いたいことや贈りたい祝福を石に彫ってもらうの。こういう古風な手作りの贈り物がスカイタワーで流行ってるんだよ。	이 사장님의 조각기술로 전하고 싶은 축복 메시지를 돌에 새길 수 있어요. 요즘 이런 복고풍 스타일이 스카이 타워에서 엄청 유행 중이에요.	Mr. Li uses his micro-carving technique to engrave whatever message or blessing you want on the stone. This kind of retro handicraft is really popular as gifts in the Towers.						0	
+b-2											0	
+8	信？我也有，可是我根本看不懂上面刻了什么。	信？我也有，可是我根本看不懂上面刻了什麼。	手紙？でも全く読めませんよ。	메시지? 나도 있는데 뭐라고 새겼는지 전혀 모르겠네.	A letter? I have one too, but I can't read what's written on it at all.						0	
+9	哎？送你信石的人没有送你“月光透镜”吗？	哎？送你信石的人沒有送你“月光透鏡”嗎？	あれ？くれた人から「月光レンズ」をもらってないの？	아? 전각석을 선물한 사람이 '달빛 거울'은 안 주던가요?	Huh? Whoever gave you this Letter Stone didn't give you a "Moonlit Lens"?						0	
+b-3											0	
+10	那又是什么？	那又是什麼？	それは？	그건 또 뭐야?	What's that?						0	
+11	每块信石都有一块唯一的“月光透镜”，只有用这块透镜才能看到信石上的微雕文字。	每塊信石都有一塊唯一的“月光透鏡”，只有用這塊透鏡才能看到信石上的微雕文字。	信石ごとに唯一の「月光レンズ」があって、そのレンズ越しじゃないと文字を読み取れない。	전각석마다 매칭할 수 있는 '달빛 거울'이 있는데 그걸 이용해야만 전각석에 적힌 문자를 볼 수 있어요.	Each Letter Stone has a unique "Moonlit Lens." You need it to see the micro-engravings.						0	
+b-4											0	
+12	这……多麻烦。	這……多麻煩。	それは……面倒くさいですね。	조금… 번거롭네.	That's... kind of annoying.						0	
+13	你不知道很多话当面根本不好意思说出来吗？更何况，这样不是更有仪式感么？	你不知道很多話當面根本不好意思說出來嗎？更何況，這樣不是更有儀式感嗎？	面と向かって言えない言葉だってあるのよ！特別感があっていいじゃない？	바로 앞에서 말하기 힘든 말들이 얼마나 많은지 알아요? 그리고 이런 식으로 메시지를 전달하면 뭔가 있어 보이기도 하고…	There are a lot of things that are too embarrassing to say in person, right? And isn't it more special this way?						0	
+b-5											0	
+14	那如果没有月光透镜呢？	那如果沒有月光透鏡呢？	月光レンズがなかったらどうすれば？	그럼 달빛 거울이 없으면 어떻게 하지?	What if I don't have a Moonlit Lens?						0	
+15	这样啊，你可以去找信石的制作者李老，他可以帮你解读。	這樣啊，你可以去找信石的製作者李老，他可以幫你解讀。	それなら信石の製作者の李さんに会いに行って。彼が解読してくれるよ。	그러면 전각석을 만들어준 이 사장님을 찾아가면 돼요. 사장님이 해석하는 걸 도와줄 거예요.	Well, you can go see Mr. Li, who makes the Letter Stones. He can interpret it for you.						0	
+16	我握紧了手中是信石，这块石头上究竟刻了些什么内容，这下，我更好奇了。	我握緊了手中的信石，這塊石頭上究竟刻了些什麼內容，讓我更加好奇了。	私は信石を握りしめた。この石に一体何が刻まれていたのか、ますます気になってきた。	난 손에 있는 전각석을 꽉 쥐었고, 전각석 안에 어떤 내용이 새겨져 있는지 더욱 궁금해졌다.	I clenched the Letter Stone in my hand, growing more curious about what was engraved on it.						0	

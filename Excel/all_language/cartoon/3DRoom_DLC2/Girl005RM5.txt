@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	你看到我，好像很吃惊。	你看到我好像很驚訝。	どうした、そんな驚いた顔して。	날 만나고 많이 놀란듯한 모양인데?	You seem surprised to see me.						0	
+page0.2	啊，抱歉。正聊起分析员，分析员就出现了。	啊，抱歉。因為才剛聊到分析員，你就出現了。	いえ、すみません。ちょうど分析員さんの話をしている最中でして、まさか分析員さんが本当にいらっしゃるなんて……	아, 죄송해요. 분석가님에 대해 이야기하던 중에 갑자기 나타나셔서요.	Ah, sorry. It's that I was just talking about you.						0	
+page0.3	哦，都聊了些什么？	喔?在聊我的什麼啊?	え、どういう話をしてたの？	음? 무슨 이야기를 했길래?	Oh, and all good I hope?						0	
+page0.4	刚刚那位前辈和我讲了一些您在安全部时期的往事。	剛才那位前輩跟我分享了一些您在安全部時期的往事。	さっき先輩から分析員さんの安全部時代の話をお聞きしました。	방금 그 선배가 저에게 분석가님이 안전부에 있을 때 있었던 일을 알려줬어요.	Hah, of course. I was talking with Haru about your time in the Security Department.						0	
+page0.5	她说要不是您，她早就在之前的任务中殉职了。	她說要是沒有您的話，她早就在之前的任務中殉職了。	分析員さんがいなければ、彼女は昔の任務でとっくに殉職していたと仰ってました。	선배님이 분석가님이 아니었으면 미션 중에 진작에 순직했을 거라고 했어요.	She said that if it wasn't for you, she wouldn't have made it back from one of those missions.						0	
+page0.6	这都是过去的事了。	這都是好久以前的事了。	過ぎたことだ。	다 지나간 일이야.	That was a long time ago.						0	
+page0.7	再说，确保下属的安危，本来就是我的职责。	再說，確保下屬的安全本來就是我的職責。	なにより、部下の安全を確保することは私の仕事だからな。	게다가 부하의 안전을 지키는 것이 나의 직책인걸.	Anyway, it's my duty to protect the people under my command.						0	
+page0.8	有点羡慕晴前辈呢。	有點羨慕晴前輩呢。	晴先輩が羨ましいですね。	하루 선배가 부러워요.	I kind of envy Captain Haru.						0	
+page0.9	怎么突然这么说？	怎麼突然說這個?	急にどうした？	갑자기 왜 그런 말을 하는 거야?	Why do you say that?						0	
+page0.10	能见到身为安全部主管的分析员，还能接受更多来自分析员的指导。	能跟身為安全部主管的分析員一起共事，還能在分析員身旁接受指導。	安全部の責任者としての分析員さんが見れるだけじゃなく、分析員さんにいっばい指導してもらえるからです。	안전부에서 관리직을 맡았던 분석가님을 만날 수 있고, 분석가님의 가르침도 받을 수 있잖아요.	I would've loved to see you during those days in the Security Department, and get even more valuable guidance from you.						0	
+page0.11	如果不是我这双腿，或许就能更早与分析员相遇了，感觉错过了好多呢……	如果不是因為我這雙腿，或許就能夠早點遇到分析員了，感覺錯過了很多事情......	この足じゃなかったら、もっと早く分析員さんに出会っていたかもしれません。いろいろと失った気分ですね……	제 다리가 멀쩡했더라면 분석가님하고 더 일찍 만날 수 있었겠죠. 뭔가 많은 기회를 놓친 느낌이에요…	If my legs weren't so frail before, maybe I would've met you sooner. I feel like I missed out on so much...						0	
+page0.12	也许你真见到了那时的我，想法会变得不一样。	假如你真的遇到了當時的我，或許就會改變想法了。	あの時の私を見たら、マリアンは考えを改めるかもしれないね。	그때의 나를 만났더라면 그런 생각까지 들지는 않을걸.	You might feel differently if you saw the real me from that time.						0	
+page0.13	怎么会呢？	怎麼會呢?	そんな……	어째서요?	What do you mean?						0	
+page0.14	我在成长蜕变，你也是。	我在成長蛻變，你也一樣。	私は成長しているんだから、マリアンも同じだよ。	나도 성장하면서 많이 변했거든. 너도 그럴 거고.	I'm always changing. So are you.						0	
+page0.15	已经发生的过去无法改变，不如想想未来？	已經發生的事情無法改變，不如思考未來?	過ぎたことは変えられないからね。未来のことを考えようよ。	지나간 과거는 바꿀 수 없어. 과거에만 얽매어있는 것보다 미래를 내다보는 건 어떨까?	We can't change the past, so why not focus on the future instead?						0	
+page0.16	未……来……？	未......來......?	未……来……？	미… 래…?	The... future...?						0	
+page0.17	未来还会发生更多的故事，不是吗？	在未來還有更多的故事等著我們去創造，不是嗎?	これからもたくさんの物語が始まるかもしれないだろう？	앞으로도 많은 일이 벌어질 테니까, 안 그래?	The future will have even more vibrant stories for you to tell someday. Don't you think?						0	

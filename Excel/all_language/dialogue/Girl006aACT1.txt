@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	任务是实验「黄色雾霭」对异化人的效果。	任務是實驗「黃色霧靄」對異化人的效果。	任務は「黄色いスモッグ」の変異者に対する影響を実験する。	미션은 [노란 안개]가 변이자들에게 미치는 영향을 실험하는 거야.	The mission is to conduct an experiment on the effects of yellow fog on the Changed.						0	
+2	异化人可能会试图从这里逃走。	異化人可能會試圖從這逃走。	変異者はそこから逃げるかもしれません。	변이자들은 이곳에서 도망치려고 하겠지.	The Changed may attempt to escape from here.						0	
+3	你是最关键的一环，别让我们失望。	你是關鍵人物，別讓我們失望。	君は一番大事な一環です。我々を失望させるな。	이번 미션에는 너가 가장 중요한 일환이야. 부디 우리를 실망시키지 마.	Your role is very important. Don't let us down.						0	

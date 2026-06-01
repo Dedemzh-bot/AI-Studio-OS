@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	又遇到新的员工了。我看看，终端上说它的名字是叫……埃勒奥斯？	又遇到新的員工了。我看看，終端上說它的名字是叫……埃勒奧斯？	また新しいスタッフに会ったな。どれどれ……端末によると、名前は……エレオス？	또 새로운 직원을 만났네. 어디 보자, 단말기에 표시된 이름이… 에르오스?	Another new employee? Let's see... The terminal says it's named Eleros?						0	dlc30蓝图岛对话
+page1.2	简介上说，埃勒奥斯配备了最新的算法芯片，是很先进的智能助手伙伴。	簡介上說，埃勒奧斯配備了最新的算法晶片，是很先進的智慧助手夥伴。	エレオスは最新のチップを搭載していて、とても先進的なインテリジェントアシスタントらしいよ。	소개 글을 보니 에르오스는 최신 알고리즘 칩이 탑재된 첨단 AI 조수라고 하네.	According to its introduction, Eleros is equipped with the latest algorithm chip, making it a highly advanced smart assistant.						0	dlc30蓝图岛对话
+page1.3	你好，很高兴在这里见到各位。	你好，很高興在這裡見到各位。	こんにちは、みなさん、よろしく。	안녕하세요, 여러분. 만나게 되어 반갑습니다.	Hello, it's wonderful to meet you.						0	dlc30蓝图岛对话
+page1.4	呃……你好？	呃……你好？	えっと……こんにちは？	어… 안녕?	Uh...hi?						0	dlc30蓝图岛对话
+page1.5	请问，我能为你们做什么？我是由天才游戏设计……	請問，我能為你們做什麼？我是由天才遊戲設計……	何かお手伝いできることは？私は天才ゲームデザイ……	무엇을 도와드릴까요? 저는 천재 게임 디자이너가…	What can I do for you? I was designed by a genius developer—						0	dlc30蓝图岛对话
+page1.6	跳过确认，带我们去找“埃勒奥斯”吧。	跳過確認，帶我們去找「埃勒奧斯」吧。	そのくだりを飛ばして。「エレオス」のところに連れて行って。	확인은 스킵하고, 우리를 '에르오스'에게 데려가 줘.	Let's skip the introductions. Just take us to "Eleros."						0	dlc30蓝图岛对话
+page1.7	在山上。	在山上。	山の上にいる。	산 위에 있습니다.	On the mountain.						0	dlc30蓝图岛对话
+page1.8	不，我不是问你它在哪里。我是让你带我们去找埃勒奥斯。	不，我不是問你它在哪裡。我是叫你帶我們去找埃勒奧斯。	違う、どこにいるかを聞いてるわけじゃない。エレオスのところに連れて行ってほしいんだ。	아니, 어디 있는지 묻는 게 아니라, 우리를 에르오스한테 데려가 달라고.	No, I'm not asking where it is. I'm telling you to take us to Eleros.						0	dlc30蓝图岛对话
+page1.9	我叫埃勒奥斯。	我叫埃勒奧斯。	私の名前はエレオス。	저의 이름이 에르오스입니다.	I am Eleros.						0	dlc30蓝图岛对话
+page1.10	更没有问你叫什么……	更沒有問你叫什麼……	名前を聞いてるんじゃなくて……	네 이름을 묻지도 않았는데…	That's... not what I meant...						0	dlc30蓝图岛对话
+page1.11	请问，我能为你做什么？请用人类语言表达……	請問，我能為你做什麼？請用人類語言表達……	何かお手伝いできる？人間の言語で教えて。	무엇을 도와드릴까요? 사람의 언어로 말씀해 주세요…	How can I help you? Please state your request in human language...						0	dlc30蓝图岛对话
+choice01	从刚才就想吐槽了……	從剛才就想吐槽了……	さっきから気になってるけど……	아까부터 하고 싶은 말이 있었는데…	I've been meaning to say...						0	dlc30蓝图岛对话
+choice02	埃勒奥斯人机感太强了吧！	埃勒奧斯AI感太強了吧！	エレオス、ロボットすぎるだろ	에르오스는 너무 로봇 같잖아!	Are you sure we should be calling it "smart"?						0	dlc30蓝图岛对话
+page2.1	你未通过人机检测……哦，你本来就是人工智能。	你未通過我不是機器人測試……哦，你本來就是人工智慧。	あなたはロボット検知を通過して……あ、そもそもロボットなのか。	보안 인증에 실패했어…아, 너 AI였지.	You don't sound that smart... Oh wait, you kind of are a machine.						0	dlc30蓝图岛对话
+page2.2	异议！埃勒奥斯不是人机，请你们完成人机检测！	異議！埃勒奧斯不是電腦，請你們完成我不是機器人檢測！	異議あり！エレオスはロボットではない！そちらこそ、ロボットでないことを証明してください！	이의 있습니다! 에르오스는 로봇이 아닙니다. 보안 인증을 완료해 주세요!	Objection! I am not a machine. Please confirm that you're a human!						0	dlc30蓝图岛对话

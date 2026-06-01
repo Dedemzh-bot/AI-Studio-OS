@@ -1,0 +1,15 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	正常	sequence	girl003_01_house_dialogue_stand01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_stand01.girl003_01_house_dialogue_stand01'	
+2	微笑	sequence	girl003_01_house_dialogue_smile01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_smile01.girl003_01_house_dialogue_smile01'	
+3	开心	sequence	girl003_01_house_dialogue_happy01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_happy01.girl003_01_house_dialogue_happy01'	
+4	疑问	sequence	girl003_01_house_dialogue_doubt01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_doubt01.girl003_01_house_dialogue_doubt01'	
+5	严肃	sequence	girl003_01_house_dialogue_serious01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_serious01.girl003_01_house_dialogue_serious01'	
+6	生气	sequence	girl003_01_house_dialogue_angry01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_angry01.girl003_01_house_dialogue_angry01'	
+7	委屈	sequence	girl003_01_house_dialogue_complain01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_complain01.girl003_01_house_dialogue_complain01'	
+8	闭眼睡觉	sequence	girl003_01_house_dialogue_rest_idle01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_rest_idle01.girl003_01_house_dialogue_rest_idle01'	
+9	积极（动作套）	sequence	girl003_01_house_dialogue_satisfy	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_satisfy.girl003_01_house_dialogue_satisfy'	
+10	惊讶（动作套）	sequence	girl003_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_amaze.girl003_01_house_dialogue_amaze'	
+					
+					
+100	说话	sequence	girl003_01_house_dialogue_talk01	AnimSequence'/Game/Characters/Girl/girl003_01/AnimPart00/girl003_01_house_dialogue_talk01.girl003_01_house_dialogue_talk01'	

@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	小琴诺又在自己做咖啡啊。	小琴諾又在自己做咖啡啊。	チェルノ、また自分でコーヒーを淹れてるんだ。	체르노, 또 커피를 만들고 있었구나.	Looks like you're making coffee again.						0	
+page1.2	嗯，不过这次是新口味。	嗯，不過這次是新口味。	はい。でも今回は新しい味です。	네, 이번에는 새로운 맛이에요.	Yeah, I'm trying out a new blend this time.						0	
+page1.3	（说实话，琴诺每次做的咖啡对我而言都是“新口味”……）	（說實話，琴諾每次做的咖啡對我而言都是“新口味”……）	（正直なところ、チェルノが淹れたコーヒーは、私にとっては毎回「新しい味」だ……）	(솔직히 말해서 체르노가 내린 커피는 항상 내게 '새로운 맛'이긴 해…)	(Honestly, every batch of Cherno's brews is a "new blend.")						0	
+page1.4	正好分析员在这儿，一会儿可以麻烦您品尝一下吗？	正好分析員在這兒，一會兒可以麻煩您品嚐一下嗎？	ちょうど分析員さんがいらしたので、後で味見してもらってもいいですか？	분석가님이 한 번 오신 겸 시식 좀 해보시겠어요?	Since you're here, would you mind giving this a taste test later?						0	
+page1.5	嗯……当然可以。	嗯……當然可以。	ああ……もちろん。	응… 당연히 가능하지.	Um... sure.						0	
+page1.6	太好了，这一次是您之前没有喝过的味道哦。	太好了，這次是您之前沒有喝過的味道哦。	よかった。今回は今まで飲んだことのない味ですよ。	잘됐어요! 이번에는 이전까지 맛본 적이 없던 맛일 거예요.	Great! It's something you've never tried before.						0	
+page1.7	哦？那我可得好好期待一下了。	哦？那我可得好好期待一下了。	そう？じゃあ楽しみだな。	아… 그럼 기대해도 좋을 것 같은데?	Really? I'm looking forward to it.						0	
+page1.8	五分钟后……琴诺的新品咖啡出品了。	五分鐘後……琴諾的新品咖啡出品了。	5分後……チェルノの新しいコーヒーが出来上がった。	5분 후… 체르노가 말한 새로운 커피가 나왔다.	Five minutes later, Cherno's latest concoction is ready.						0	
+page1.9	怀着忐忑不安的心情浅尝一口后却发现……	懷著忐忑不安的心情淺嚐一口後卻發現……	不安な気持ちを抱えながら一口飲んでみると……	떨리는 마음으로 한 모금 마신 후…	Tentatively, I took a sip...						0	
+page1.10	竟然异常美味，甜度正好，而且还有种醇厚的口感。	竟然異常美味，甜度正好，還有種醇厚的口感。	意外なことに、適度な甘みとまろやかな味わいで、格別に美味しかった。	정말이지… 체르노의 말대로 적당한 단맛과 부드러운 맛이 어우러져 맛이 있었다.	Only to find it is unexpectedly delicious — perfectly sweet with a rich, mellow taste.						0	
+page1.11	怎么了分析员，是不好喝吗？	怎麼了分析員，是不好喝嗎？	どうかしましたか、分析員さん？お口に合いませんでした？	분석가님, 무슨 일이세요? 혹시 맛이 없으신가요?	What's wrong, Adjutant? You don't like it?						0	
+page1.12	不，与其说不好喝，不如说是和平常喝到的味道不太一样。	不，與其說不好喝，不如說是和平常喝到的味道不太一樣。	いや、そうじゃなくて、いつもとは違う気がする。	아니, 맛이 이상하다기 보다는 평소 마시던 것과는 조금 다른 맛이라서.	No, it's good, but it's not what I was expecting — it's very different from the usual.						0	
+page1.13	嘿嘿，分析员的舌头果然很厉害。	嘿嘿，分析員的舌頭果然很厲害。	ふふふ、分析員さんの舌はやはりすごいですね。	헤헤, 분석가님의 미각은 정말 뛰어나신 것 같아요.	Hehe, you've got quite the discerning palate, Adjutant.						0	
+page1.14	刚刚的咖啡是按照莫尔索的配方做的哦。	剛剛的咖啡是按照莫爾索的配方做的哦。	さっきのコーヒーはムルソーのレシピ通りに作ったのです。	방금 내린 커피는 모르소의 레시피대로 만든 거예요.	Actually, it's based on Meursault's secret recipe.						0	
+page1.15	原来如此……难怪有股巧克力味。	原來如此……難怪有股巧克力味。	なるほど……どうりでチョコの香りがするわけだ。	그래서… 초콜릿 맛이 나던 거였구나.	I see... That explains the chocolate undertone.						0	
+page1.16	我说……分析员……你是不是还是更喜欢我做的咖啡呢？	我說……分析員……你是不是還是更喜歡我做的咖啡呢？	あの……分析員さん……やはり私の淹れたコーヒーのほうがよかったでしょうか？	제가 말했잖아요… 분석가님… 역시나 제가 내린 커피가 더 맛있었던 거죠?	Tell me, Adjutant... do you prefer this or the kind I usually make?						0	
+page1.17	两个口味都一样喜欢……真的。	兩種口味都一樣喜歡……真的。	どっちも好きだよ……うん。	두 가지 맛 모두 마음에 들어… 진심이야.	I love both... I mean it.						0	
+page1.18	那么一会儿，可以再尝尝琴诺配方的咖啡吗？	那麼一會兒，可以再嚐嚐琴諾配方的咖啡嗎？	では後で私のコーヒーも試してもらえますか？	그럼 잠시 후에 제가 탄 커피도 한 번 드셔보시겠어요?	Then, how about another round with my unique blend later?						0	
+page1.19	当然！	當然！	もちろん！	당연하지!	I'd love that!						0	

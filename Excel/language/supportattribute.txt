@@ -1,0 +1,32 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+CriticalValue	射击暴击率提升%s%%	0	
+CriticalDamageAddtion	暴击伤害增幅提升%s%%	0	
+SkillIntensity	技能强度增幅提升%s%%	0	
+CharacterEnergyEfficiency	爆发能量获取率提升%s%%	0	
+Command	附属单位强度提升%s%%	0	
+HealthPer	最大生命提升%s%%	0	
+AttackPer	攻击力提升%s%%	0	
+DefencePer	防御力提升%s%%	0	
+VigourRecoverSpeed	耐力回复速度提升%s%%	0	
+		0	
+FireDamageBonus	高热类型伤害提升%s%%	0	
+ThunderDamageBonus	电击类型伤害提升%s%%	0	
+IceDamageBonus	低温类型伤害提升%s%%	0	
+EntityBulletDamageBonus	动能类型伤害提升%s%%	0	
+SuperpowersDamageBonus	特异类型伤害提升%s%%	0	
+AllDamageBonus	全类型伤害提升%s%%	0	
+		0	
+		0	
+		0	
+NormalEnergySpeedPer	常规能量回复速度加成提升%s%%	0	
+SkillCDQuick	技能急速增加%s	0	
+ShootMastery	同调指数增加%s	0	
+SkillMastery	同调指数增加%s	0	
+		0	
+ShootDamageBonus	射击伤害提升%s%%	0	
+SkillDamageBonus	技能伤害提升%s%%	0	
+HealBonus	治疗加成提升%s%%	0	
+ShieldDynamicAddtion	护盾构建效能提升%s%%	0	
+ElemExplosionRateAddtion	剧变能量积累速度提升%s%%	0	
+CharacterEnergyMax	爆发能量上限增加%s	0	

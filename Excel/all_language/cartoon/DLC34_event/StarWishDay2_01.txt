@@ -1,0 +1,25 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	来到基地大厅，一眼便看到了正在树旁张望的妮塔。	來到基地大廳，一眼便看到了正在樹旁張望的妮塔。	社員寮のロビーに来ると、星祈樹のそばで観察しているニタが目に入った。	숙소 로비에 오니, 나무 옆에서 두리번거리는 니타가 보였다.	I entered the Base hall and immediately saw Nita by the Starwish Tree.						0	3.4版本星祈心愿宿舍剧情
+page1.2	分析员，你来啦！	分析員，你來啦！	やっと来たね、分析員！	분석가, 왔구나!	Adjutant!						0	3.4版本星祈心愿宿舍剧情
+page1.3	你昨天和我们说了布置星祈树的事，所以我一早就来这儿等你了。	你昨天和我們說了佈置星祈樹的事，所以我一早就來這裡等你了。	昨日、星祈樹の飾り付けするって言ってたから、朝からここで待ってたんだよ。	어제 너희가 성원나무를 꾸민다고 했잖아. 그래서 아침 일찍부터 여기서 널 기다리고 있었어.	You mentioned decorating the Starwish Tree yesterday, so I figured I'd get here early!						0	3.4版本星祈心愿宿舍剧情
+page1.4	想看看有什么我能帮上忙的事情，嘿嘿~	想看看有什麼我能幫上忙的事情，嘿嘿~	何か手伝えることあるかなって、へへっ。	내가 도울 수 있는 게 뭐가 있나 보려고, 헤헤~	Wanted to see if I could help with anything. Hehe~						0	3.4版本星祈心愿宿舍剧情
+page1.5	那妮塔觉得，在星祈树上布置点什么好呢？	那妮塔覺得，在星祈樹上佈置點什麼好呢？	じゃあニタは、何を飾ったらいいと思う？	그럼 니타는 성원나무에 뭘 장식하면 좋을 것 같아?	So, Nita... what do you think we should put on the tree?						0	3.4版本星祈心愿宿舍剧情
+page1.6	装饰物的话，花朵、亮片……或者金币？	裝飾物的話，花朵、亮片……或者金幣？	飾りかぁ……花やスパンコールとかかな……あと金貨とか？	장식품이라면, 꽃이나 반짝이…아니면 금화?	Hmm... flowers, confetti... maybe even coins?						0	3.4版本星祈心愿宿舍剧情
+page1.7	妮塔认真地思索了许久……	妮塔認真地思索了許久……	ニタはしばらく真剣に考え込んでいた……	니타는 한참 동안 진지하게 고민했다…	Nita contemplated her options...						0	3.4版本星祈心愿宿舍剧情
+page1.8	不行，总感觉都不太合适，我果然不擅长考虑这种事情。	不行，總感覺都不太適合，我果然不擅長考慮這種事情。	ダメだ。なんかどれもしっくり来ないや。やっぱり、こういうの考えるのは苦手だよ。	안 돼, 다 별로 안 어울리는 것 같아. 역시 난 이런 데에는 소질이 없나 봐.	Ugh... None of these feels quite right. I guess I'm not very good at coming up with decoration ideas...						0	3.4版本星祈心愿宿舍剧情
+page1.9	没关系的，这又不是商品，按你的喜好来就好。	沒關係的，這又不是商品，按你的喜好來就好。	気にしなくていい。商品じゃないし、ニタの好きでいいんだ。	괜찮아. 상품도 아닌데 네 취향대로 하면 되지.	Don't worry about it. We're not trying to impress anyone, so just make it something you like.						0	3.4版本星祈心愿宿舍剧情
+page1.10	可是这个总归是要让大家都看到的嘛，还是需要好看一些。	可是星祈樹總是要讓大家都看到的嘛，還是需要好看一些。	でもこれ、みんなが見るものなんでしょ？やっぱり、ちゃんときれいにしなきゃ。	그래도 나중에 다들 보게 될 거잖아. 그럼 좀 예뻐야 하지 않을까?	But... everyone's going to see it, right? So it should at least look nice.						0	3.4版本星祈心愿宿舍剧情
+page1.11	既然如此，先布置一些彩球怎么样？	既然如此，先佈置一些彩球怎麼樣？	それなら、まずはオーナメントボールでも飾ってみたらどう？	그렇다면, 일단 컬러볼들로 장식해 보는 건 어때?	Then how about we start with some colorful baubles?						0	3.4版本星祈心愿宿舍剧情
+page1.12	小时候，家里的星祈树上都会挂上几个彩球。	小時候，家裡的星祈樹上都會掛上幾個彩球。	私の家では、子どもの頃、星祈樹にオーナメントボールをいくつか下げていたのよ。	어렸을 때 우리 집 성원나무엔 항상 컬러볼들이 걸려 있었어.	My family always hung shiny ones on our tree when I was little.						0	3.4版本星祈心愿宿舍剧情
+page1.13	听起来不错哎……	聽起來不錯哎……	いいね、それ……	괜찮은데…?	Oh... that actually sounds pretty nice.						0	3.4版本星祈心愿宿舍剧情
+page1.14	不对，凯茜娅你什么时候出现的？！	不對，凱茜婭你什麼時候出現的？！	って、カーシア！？いつからいたの！？	잠깐, 캐시아 너 언제 나타난 거야?!	Wait — Katya, when did you get here!?						0	3.4版本星祈心愿宿舍剧情
+page1.15	只要有人在和亲爱的独处，我就会感觉到哦。	只要有人在和親愛的獨處，我就會感覺到哦。	誰かが彼と二人きりでいると、わかるのよ。	누군가 자기랑 단둘이 있으면, 느낌이 오거든.	Hah. I can always tell when someone else is alone with my darling.						0	3.4版本星祈心愿宿舍剧情
+page1.16	并非独处。	並非獨處。	二人きりではない。	단둘이 아니야.	They weren't exactly alone.						0	3.4版本星祈心愿宿舍剧情
+page1.17	哇！奈莉德怎么也在！	哇！奈莉德怎麼也在！	わっ！？ネリーダまで！？	와! 네리다도 있었네!	Whoa! Nerida, you too!?						0	3.4版本星祈心愿宿舍剧情
+page1.18	……先说明一下，我是听到分析员的声音之后找过来的，没有提前躲在这里。	……先說明一下，我是聽到分析員的聲音之後找過來的，沒有提前躲在這裡。	……先に言っておくが、分析員の声を聞いて来ただけだ。ここに隠れていたわけではない。	… 먼저 말해두는데, 난 분석가의 목소리를 듣고 찾아온 거야. 먼저 여기 숨어 있었던 게 아니고.	...Just to be clear, I came over because I heard the Adjutant's voice. I definitely wasn't hiding here in advance.						0	3.4版本星祈心愿宿舍剧情
+page1.19	奈莉德对于布置有什么想法吗？	奈莉德對於佈置有什麼想法嗎？	ネリーダは何か飾り付けの意見はあるか？	네리다는 장식에 대해 무슨 생각 있어?	Well, since you're here Nerida, any ideas for decorations?						0	3.4版本星祈心愿宿舍剧情
+page1.20	彩球的想法不错。	彩球的想法不錯。	オーナメントボールは悪くないな。	컬러볼 아이디어 좋은 것 같아.	Baubles seem like a solid choice.						0	3.4版本星祈心愿宿舍剧情
+page1.21	既然这样，我们一起去一趟资源部吧。	既然這樣，我們一起去一趟資源部吧。	それじゃあ、一緒に資源部へ行こうか。	그럼 우리 같이 자원부에 가보자.	In that case, let's head to the Resource Department and see what we can find.						0	3.4版本星祈心愿宿舍剧情
+page1.22	等等，需要彩球的话……对了，上次任务那里！	等等，需要彩球的話……對了，上次任務那裡！	ちょっと待って、オーナメントボールなら……そうだ、前のミッションのところ！	잠깐, 컬러볼이 필요하다면… 그래, 지난번 임무 장소!	Wait! I think I spotted baubles somewhere just recently... Oh! That mission the other day!						0	3.4版本星祈心愿宿舍剧情
+page1.23	分析员，你们跟我来吧，我知道一个能找到彩球的好地方！	分析員，你們跟我來吧，我知道一個能找到彩球的好地方！	みんな、ついてきて。オーナメントボールが手に入るいいところ、知ってるんだ！	분석가, 그리고 다들 날 따라와. 내가 컬러볼을 찾을 수 있는 곳을 알아!	Come on, everyone. I know just the spot to find them!						0	3.4版本星祈心愿宿舍剧情

@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，可以……请你抽出几个小时的时间吗？	分析員，可以……請你抽出幾個小時的時間嗎？	分析員、少し……時間くれない？	분석가님, 몇 시간만… 좀 할애해 줄 수 있어?	Adjutant, could I borrow you for a few hours?						0	
+page1.2	嗯，当然没问题。	嗯，當然沒問題。	うん、もちろん。	응, 물론이지.	Sure.						0	
+page1.3	嘿嘿，分析员什么都不问，就答应我了呢。	嘿嘿，分析員什麼都不問，就答應我了呢。	ふふ。分析員は何も聞かずに同意してくれるんだね。	헤헤, 역시 분석가님은 아무것도 묻지 않고 바로 이렇게 수락해 주시네요.	Hehe, you agreed without even asking why.						0	
+page1.4	只要是瑟瑞斯的请求，我都会尽量满足。	只要是瑟瑞斯的請求，我都會盡量滿足。	シーリスの頼みなら、できるだけ応えたい。	당연히 세리스가 요청하는 거라면 최대한 도와줘야지.	You know I always have time for you, Siris.						0	
+page1.5	所以，需要我做什么？	所以，需要我做什麼？	それで、私は何をすればいいのか？	그래서 내가 뭘 도와주면 좋을까?	So, what do you need?						0	
+page1.6	陪我一起复习记忆吧。	陪我一起複習記憶吧。	一緒に記憶の復習をして。	저랑 같이 기억을 되새기는 것을 도와주세요.	I'd like you to help review some memories.						0	
+page1.7	最近我一直在练习加深部分的记忆。	最近我一直在練習加深部分的記憶。	最近は一部の記憶を深める練習をしてるの。	최근에 일부 기억을 되새기는 것을 연습하는 중이거든요.	You see, I've been working on reinforcing some of my memories.						0	
+page1.8	这段……是和分析员一起看金鱼的记忆——	這段……是和分析員一起看金魚的記憶——	これは……分析員と一緒に金魚を見た記憶で——	이 기억은… 분석가님과 함께 금붕어를 보던 기억이에요…	This one is of us watching goldfish together...						0	
+page1.9	这段我想想，是和分析员一起给植物浇水的记忆。	這段我想想，是和分析員一起給植物澆水的記憶。	これは、ええと……分析員と一緒に植物に水をやった記憶だ。	이 기억은 분석가님과 식물에 물을 주던 때예요.	And this one is... um... it's of us watering plants.						0	
+page1.10	还有还有，一起拍过照片的情景，我也能记下来了！	還有還有，一起拍過照片的情景，我也能記下來了！	あと、一緒に写真を撮ったときのことも、覚えられるようになったの！	그리고 이건 함께 사진을 찍었을 때예요!	Oh, and I can even remember the times we took photos together!						0	
+page1.11	瑟瑞斯真的很棒。	瑟瑞斯真的很棒。	シーリスはすごいんだな。	세리스는 참 대단하구나.	That's really impressive, Siris.						0	
+page1.12	除了以前的回忆，我们一起来创造些新的记忆吧。	除了以前的回憶，我們一起來創造些新的記憶吧。	昔の思い出以外にも、新しい思い出を作ろう。	옛날 추억 말고 새로운 기억을 만들어 봐요.	Besides revisiting old memories, let's also make some new ones together.						0	
+page1.13	嗯！	嗯！	うん！	그럼요!	Thanks, Adjutant!						0	

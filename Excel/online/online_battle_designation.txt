@@ -1,0 +1,38 @@
+﻿ID	备注	统计类型(0为通用,其他关联Online的活动类型)	类型（1.伤害百分比 2.治疗量 3.常规技释放次数 4.奥义技释放次数 5.承受伤害量 6.最大技能伤害 7.最大射击伤害）	档位	数值条件	比较方式（1大于 2小于等于）	称号名称	数据描述	随机权重
+ID	Common	OnlineType	Type	Hierarchy	Num	Condition	Name	Des	Weight
+1	伤害占比1	0	1	1	5	2	online.DesignationName1_1	online.DesignationDes8	10
+2	伤害占比2	0	1	2	5	1	online.DesignationName1_2	online.DesignationDes8	100
+3	伤害占比3	0	1	3	10	1	online.DesignationName1_3	online.DesignationDes8	1000
+4	伤害占比4	0	1	4	20	1	online.DesignationName1_4	online.DesignationDes8	10000
+5	伤害占比5	0	1	5	40	1	online.DesignationName1_5	online.DesignationDes8	99999
+7	治疗1	0	2	1	1000	1	online.DesignationName2_1	online.DesignationDes2	10
+8	治疗2	0	2	2	5000	1	online.DesignationName2_2	online.DesignationDes2	100
+9	治疗3	0	2	3	20000	1	online.DesignationName2_3	online.DesignationDes2	1000
+10	治疗4	0	2	4	50000	1	online.DesignationName2_4	online.DesignationDes2	10000
+11	治疗5	0	2	5	100000	1	online.DesignationName2_5	online.DesignationDes2	99999
+12	单次技能伤害1	0	6	1	10000	1	online.DesignationName3_1	online.DesignationDes6	10
+13	单次技能伤害2	0	6	2	50000	1	online.DesignationName3_2	online.DesignationDes6	100
+14	单次技能伤害3	0	6	3	100000	1	online.DesignationName3_3	online.DesignationDes6	1000
+15	单次技能伤害4	0	6	4	500000	1	online.DesignationName3_4	online.DesignationDes6	10000
+16	单次技能伤害5	0	6	5	1000000	1	online.DesignationName3_5	online.DesignationDes6	99999
+17	最大射击伤害1	0	7	1	5000	1	online.DesignationName4_1	online.DesignationDes7	10
+18	最大射击伤害2	0	7	2	10000	1	online.DesignationName4_2	online.DesignationDes7	100
+19	最大射击伤害3	0	7	3	30000	1	online.DesignationName4_3	online.DesignationDes7	1000
+20	最大射击伤害4	0	7	4	50000	1	online.DesignationName4_4	online.DesignationDes7	10000
+21	最大射击伤害5	0	7	5	100000	1	online.DesignationName4_5	online.DesignationDes7	99999
+24	进击行动智械使用次数	13	8	3	5	1	assaultops.SettlementTag1		0
+25	进击行动智械使用次数	13	8	4	10	1	assaultops.SettlementTag2		0
+26	进击行动智械使用次数	13	8	5	20	1	assaultops.SettlementTag3		0
+27	进击行动险境边缘成功限时挑战(不要改ID）	13	9	5	1	1	assaultops.SettlementTag4		0
+28	进击行动高危禁区成功限时挑战(不要改ID）	13	9	5	1	1	assaultops.SettlementTag5		0
+29	激浪联航个人修理10次	10	10	3	10	1	onlinesea.SettlementTag1		0
+30	激浪联航个人修理20次	10	10	4	20	1	onlinesea.SettlementTag2		0
+31	激浪联航个人修理30次	10	10	5	30	1	onlinesea.SettlementTag3		0
+32	激浪联航个人击沉4搜敌船	10	11	3	4	1	onlinesea.SettlementTag4		0
+33	激浪联航个人击沉8搜敌船	10	11	4	8	1	onlinesea.SettlementTag5		0
+34	激浪联航个人击沉12搜敌船	10	11	5	12	1	onlinesea.SettlementTag6		0
+35	激浪联航团队远航距离1500	10	12	1	1500	1	onlinesea.SettlementTag7		0
+36	激浪联航团队远航距离2500	10	12	2	2500	1	onlinesea.SettlementTag8		0
+37	激浪联航团队远航距离4000	10	12	3	4000	1	onlinesea.SettlementTag9		0
+38	激浪联航团队远航距离6000	10	12	4	6000	1	onlinesea.SettlementTag10		0
+39	激浪联航团队远航距离8000	10	12	5	8000	1	onlinesea.SettlementTag11		0

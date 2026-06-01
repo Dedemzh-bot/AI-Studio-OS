@@ -463,6 +463,44 @@ if __name__ == "__main__":
     print(f"AI Studio OS v2 (FastAPI + WebSocket)")
     print(f"Starting server -> {URL}")
 
+    # 启动 ConfigTable 子服务（配表桥接，端口 8081）
+    TABLE_DIR = os.path.join(BUNDLE_DIR, "ConfigTable")
+    TABLE_PORT = 8081
+    table_proc = None
+    # 检查是否已有旧进程，有则强杀（确保每次启动都用最新代码）
+    try:
+        r = subprocess.run(
+            ["netstat", "-ano"], capture_output=True, text=True, timeout=5,
+            creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
+        )
+        for line in r.stdout.split("\n"):
+            if f":{TABLE_PORT}" in line and "LISTENING" in line:
+                parts = line.strip().split()
+                if parts:
+                    try: subprocess.run(["taskkill", "/PID", parts[-1], "/F"],
+                                        capture_output=True, creationflags=subprocess.CREATE_NO_WINDOW)
+                    except: pass
+    except Exception:
+        pass
+
+    if os.path.exists(os.path.join(TABLE_DIR, "table_server.py")):
+        table_python = shutil.which("python") or "python" if getattr(sys, 'frozen', False) else sys.executable
+        table_env = os.environ.copy()
+        table_env["AI_STUDIO_DATA_DIR"] = DATA_DIR
+        table_proc = subprocess.Popen(
+            [table_python, "-m", "uvicorn", "table_server:app",
+             "--host", "127.0.0.1", "--port", str(TABLE_PORT), "--log-level", "warning"],
+            cwd=TABLE_DIR, env=table_env, stderr=subprocess.PIPE,
+            creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
+        )
+        import time as _time; _time.sleep(1)
+        if table_proc.poll() is not None:
+            err = table_proc.stderr.read().decode("utf-8", errors="replace")[:500]
+            print(f"[WARN] ConfigTable 子服务启动失败: {err}")
+            table_proc = None
+        else:
+            print(f"ConfigTable 桥接服务 -> http://localhost:{TABLE_PORT}")
+
     def _open_browser():
         import time as _time
         _time.sleep(1.5)
@@ -474,3 +512,8 @@ if __name__ == "__main__":
         uvicorn.run(app, host="0.0.0.0", port=PORT, log_level="warning")
     except KeyboardInterrupt:
         print("\nServer stopped.")
+    finally:
+        if table_proc and table_proc.poll() is None:
+            table_proc.terminate()
+            try: table_proc.wait(timeout=3)
+            except: table_proc.kill()

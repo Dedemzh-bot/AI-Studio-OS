@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员， 你有没有觉得大厅里这个机器人很有意思？	分析員， 你有沒有覺得大廳裡這個機器人很有意思？	分析員、ロビーのこのロボット、ちょっと面白いと思わない？	분석가, 로비에 있는 이 로봇 말이야, 재미있지 않아?	Adjutant, don't you think that robot in the hall is interesting?						0	3.2版本随机事件
+page1.2	这只是个扫地机器人。	這只是個掃地機器人。	ただの掃除ロボットだ。	그냥 로봇 청소기잖아.	It's just a robot vacuum.						0	3.2版本随机事件
+page1.3	不，它可是很智能的。	不，它可是很有智慧的。	違うよ、かなりインテリジェントなんだ。	아냐, 정말 똑똑한 아이라고.	It's a smart robot vacuum!						0	3.2版本随机事件
+page1.4	自动寻路，自动避障、细心提示……嗯，很符合我对新一代智能机器人的要求。	自動尋路，自動避障、細心提示……嗯，很符合我對新一代智慧機器人的要求。	自動走行に自動回避、気の利いたボイス案内まで……うん、次世代のクリーナーロボとしては合格だね。	자동 길 찾기, 장애물 회피, 친절한 알림까지… 음, 내가 생각하던 신세대 스마트 로봇에 완전히 부합해.	Intelligent mapping, anti-collision, and smart reminders... It has everything I expect of a new-gen smart robot.						0	3.2版本随机事件
+page1.5	前进吧，尘白天使号！	前進吧，塵白天使號！	進め、Snowbreak Ten-Shi！	전진하라, 순백의 천사!	Go, Snowbreak Ten-SHI!						0	3.2版本随机事件
+page1.6	你这就给它取上名了？	你這就給它取上名了？	もう名前決めたか。	벌써 이름 지어준 거야?	Already giving it a name, huh?						0	3.2版本随机事件
+page1.7	那当然，总得有新的伙伴来继承尘白恶魔号的意志。	那當然，總要有新的夥伴來繼承塵白惡魔號的意志。	Snowbreak Aku-MAの意志を継ぐ相棒が必要だからね。	당연하지. 순백의 악마의 뜻을 계승할 새로운 동료가 있어야 할 거 아니야.	Of course. We need a new robot to carry on the legacy of the Snowbreak Aku-MA.						0	3.2版本随机事件
+page1.8	这名字是不是有点不对劲？	這名字是不是有點不對勁？	そのネーミング、どこかおかしくないか。	이름이 좀 이상하지 않아?	That name sounds a bit off, no?						0	3.2版本随机事件
+page1.9	嗯……那叫它白色无角三倍速也不是不可以……	嗯……那叫它白色無角三倍速也不是不行……	うーん……じゃあ「白い無角・三倍速」でもいいかな……	음… 그럼 백색 무각 삼배속이라고 해도 나쁘진 않을 것 같은데…	Hmm... then how about the "White Meteor, Three Times Faster" instead?						0	3.2版本随机事件
+page1.10	你这越来越离谱了……	你這就越來越離譜了……	どんどん話が飛んでいるけど。	어째 점점 더 이상해지네…	That's getting even weirder...						0	3.2版本随机事件
+page1.11	没关系，我一直都这样。	沒關係，我一直都這樣。	私、いつもこんな感じだけど。	괜찮아. 난 원래 이래.	Eh, you know how I am.						0	3.2版本随机事件
+page1.12	好啦，我要去玩游戏了，我不在的时候，就麻烦你照顾一下尘白天使号了。	好啦，我要去玩遊戲了，我不在的時候，就麻煩你照顧一下塵白天使號了。	さて、部屋に戻ってゲームするよ。私がいない間はSnowbreak Ten-Shiのこと、よろしくね、分析員。	아무튼 난 이제 게임을 하러 가 볼게. 내가 없는 동안 순백의 천사를 잘 부탁해.	Okay, my game is calling. Keep an eye on Snowbreak Ten-SHI for me while I grind?						0	3.2版本随机事件

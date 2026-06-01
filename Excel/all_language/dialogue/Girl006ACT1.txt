@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	新兵注意阵型，不要随意走位。	新兵注意陣型，不要隨意走位。	陣形に注意しろ、新兵。勝手に動くな。	신병들, 대형 유지해. 함부로 움직이지 않는다.	Recruits, stay in formation! Don't move out of position.						0	
+2	多看敌人方位指示！	多看敵人方位指示！	敵の方位指示をよく見ろ！	적군의 움직임을 항상 유념해서 보도록!	Keep a close watch, they may give something away.						0	

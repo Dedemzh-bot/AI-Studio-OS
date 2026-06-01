@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	是这儿吗？	是這裡嗎？	ここか？	여기야?	Is it here?						0	
+2	应该没错。	應該沒錯。	間違いねぇな。	맞는 것 같아.	Should be.						0	
+3	啧……本来能分给零区的物资，居然用来搞这些形式主义。	嘖……本來能分給零區的物資，居然用來搞這些形式主義。	チッ、もともとエリアゼロに支給される物資が、こんな形式主義で使われちまうとは。	쳇… 제로 구역 물자를 나눠줄 수 있었는데, 이런 형식적인 것에 사용될 줄이야.	Tch... materials that could have been distributed in the Containment Zone were used for these formalities instead.						0	
+4	别想那些了，咱们得快些。看清楚点，别拿错了，认准七楼那个管事的物资。	別想那些了，我們得快點。看清楚點，別拿錯了，認準七樓那個管事的物資。	そんなことはもういいって、早くしねぇと。取り間違えないようによく見とけよ、狙うのはあの7階の幹事のものだけだ。	잔말 말고 어서 끝내야 해. 헷갈리지 말고 7층 관리자의 물건인지 정확하게 확인해야 해.	Forget about that. Let's get moving. We need to make sure we're taking the seventh-floor Administrator's materials.						0	
+5	不行，我还是觉得不解气。不能让狗仗人势的家伙随便踩在我们头上。	不行，我還是覺得不舒服。不能讓狗仗人勢的傢伙隨便踩在我們頭上。	いや、それだけじゃ納得いかねぇ。あの飼い犬野郎にナメられてたまるか。	후… 아직까지 기분이 안 풀려. 배후만 믿고 까부는 것도 적당히 해야지.	Nah, I'm still mad. We can't let this bully walk all over us.						0	
+6	他敢吞掉我们兄弟的物资，我就让他在天楼也活不下去。手脚麻利点，这个，还有这个，都拿上……	他敢吞掉我們兄弟的物資，我就讓他在天樓也活不下去。手腳俐落點，這個、還有這個，都拿上……	俺たちの物資を横取りしやがって……スカイタワーで生きていけないようにしてやる。早くしろ。これも、これも、全部持って行くぜ……	동료들의 물자를 독식하다니… 더 이상 스카이 타워에 발을 못 들이도록 해야겠어. 어서 움직여. 이거랑 그리고 저것들까지 다 가져가자.	If he dares use up our guys' supplies, I'll make his life a living hell in the Towers. Hurry up. Take this, and this...						0	
+7	哎！不是说好了只拿走我们该拿的吗？你怎么这个时候变卦？被爱思特老大发现了怎么办？	哎！不是說好了只拿走我們該拿的嗎？你怎麼這個時候變卦？被愛思特老大發現了怎麼辦？	おい！もらうべきものだけもらう約束じゃねぇのか？急に話を変えるな、エステルの姉御に知られたらまずいぞ……	잠깐! 우리가 가져가기로 한 것만 가져가야지! 갑자기 이렇게 변덕을 부리면 어떡해? 에스터 님한테 들키면 어쩌려고?	C'mon! Didn't you agree to only take what we need? Why did you suddenly change your mind? What are we going to do if Esther finds out?						0	
+8	你别管了，出事我担着。	你別管了，出事我來擔責任。	お前が気にすることはない。俺が責任を取るからさ。	그건 내가 전부 책임질 테니 넌 신경 쓰지 마.	Don't worry about that. I'll take care of it if anything happens.						0	
+9	什么人？！	什麼人？！	誰だ！？	거기 누구야?!	Who's there!?						0	
+10	小吃摊的老板送了一串糖葫芦给我，之后要带些礼物回来感谢他。	小吃攤的老闆送了一串糖葫蘆給我，之後要帶些禮物回來感謝他。	屋台の店主さんからタンフールーをもらった。あとでお返しにプレゼントを渡さないと。	노점 주인이 탕후루를 선물해 줬어요. 나중에 보답으로 선물을 좀 해줘야할 것 같아요.	One of the food stall owners gave me a bunch of candied fruit. I have to bring him some gifts later as a thank-you.						0	
+11	有个女孩儿帮我指了路，她住在……四层。	有個女孩幫我指了路，她住在……四層。	とある女の子が道案内をしてくれた。彼女は……4階に住んでいる。	여자아이가 길을 안내해 줬는데… 4층에 산다고 했어요.	There was a girl who showed me the way. She lives on the... fourth floor.						0	
+12	刚刚看到了几个可疑的东西，样子和分析员发来的那个装置是一样的。	剛剛看到了幾個可疑的東西，樣子和分析員發來的那個裝置是一樣的。	さっき怪しいものを見かけた。分析員が送ってきたあの装置にそっくりだった。	방금 좀 수상한 물건을봤는데, 분석가님이 보낸 물건하고 똑같은 것 같아요.	I saw a few suspicious things just now. They looked just like the device the Adjutant sent.						0	
+13	位置……没错记下了。	位置……沒錯記下來了。	位置も……うん、覚えた。	위치도… 분명한 것 같고.	The location... I recorded it.						0	
+14	然后是分析员刚刚发来的集合坐标……是这里。	然後是分析員剛剛發來的集合座標……是這裡。	そしてさっきの分析員からの集合座標……ここだね。	어디 보자… 분석가님이 보낸 집합 지점도 여기가 맞는 것 같네요.	And the meeting coordinates the Adjutant just sent over... are here.						0	
+15	等找到分析员，再一起去拆装置，保证万无一失。	等找到分析員，再一起去拆裝置，保證萬無一失。	念のため、分析員と合流してから一緒に装置を取り外そう。	만일의 사태를 대비해서 분석가랑 같이 장치를 해체해야 겠어요.	After I find the Adjutant, we'll disassemble the device together to make sure nothing goes wrong.						0	
+16	啊——	啊——	あ――	…	Ah—!						0	
+17	啊——	啊——	あ――	…	Ah—!						0	
+18	尴尬的对视后，双方不约而同拿出武器，企图成为控制局面的一方。	尷尬的對視後，雙方不約而同拿出武器，企圖成為控制局面的一方。	目が合って気まずい空気が流れた後、両者同時に武器を取り出し、この場の主導権を握ろうとした。	어색한 대치가 이어진 뒤, 양측 모두 약속이라도 한 듯 무기를 꺼내들고는 상대방을 제압하려고 했다.	After staring at each other awkwardly, both sides drew their weapons simultaneously in hopes of gaining the upper hand.						0	

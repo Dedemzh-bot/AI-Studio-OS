@@ -1,0 +1,3 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+auto_29578	着陆点位处零区内，请求海姆达尔部队前往回收。	著陸點位於零區內，請求海姆達爾部隊前往回收。	着陸地点、エリアゼロ範囲内。ヘイムダル部隊による回収を要請。	착륙 지점은 제로 구역 내부로, 헤임달 부대에 회수를 요청합니다.	Forecasted landing site is inside Containment Zone Aleph, Heimdall Force operatives already en route.						0	

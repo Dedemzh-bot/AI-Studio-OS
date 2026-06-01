@@ -1,0 +1,12 @@
+﻿ID	描述	描述参数	类型（0=只做展示、1=Modifier、2=SkillForPlayer）	SkillInfoId	//效果备注
+ID	Des	DesParam	Type	SkillInfo	Comment
+1	ui.TxtBuffDes1		1	{3610101}	【适配米娅】拥有特殊弹匣时，射击造成的暴击伤害增幅提升60%
+2	ui.TxtBuffDes2		1	{3610102}	【适配米娅】换弹后，特殊弹匣造成的射击伤害提升65%，持续5秒
+3	ui.TxtBuffDes3		1	{3610103}	【适配米娅】使用爆发技后，自身射击伤害提升65%，持续5秒
+4	ui.TxtBuffDes4		1	{3610104}	【适配米娅】造成电击类型射击伤害时，自身射击会无视目标40%防御力
+5	ui.TxtBuffDes5		1	{3610105}	【通用技能】技能伤害提升50%
+6	ui.TxtBuffDes6		1	{3610106}	【通用技能】每次使用技能增加自身8%攻击力，持续3秒，至多叠加5层
+7	ui.TxtBuffDes7		1	{3610107}	【通用射击】暴击后，自身攻击力提升8%，持续2秒，至多叠加5层
+8	ui.TxtBuffDes8		1	{3610108}	【通用射击】射击伤害提升50%
+9	ui.TxtBuffDes9		1	{3610109}	【通用】每秒额外获得1爆发能量
+10	ui.TxtBuffDes10		1	{3610110}	【通用】攻击力提升30%

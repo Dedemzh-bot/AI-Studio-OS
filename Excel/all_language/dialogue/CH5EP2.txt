@@ -1,0 +1,92 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，我已到达制高点，没有发现军方人员。	分析員，我已到達制高點，沒有發現軍方人員。	分析員さん、制高点に到着しました。軍の人は見当たりません。	분석가님, 감제고지까지 올랐는데 군부 인원은 발견하지 못했어요.	Adjutant, I've reached a high vantage point. Unfortunately, there are no military personnel to be seen.						0	
+b-1											0	
+2	等等，我再确认一下会合坐标。	等等，我再確認一下會合座標。	ちょっと待って、合流地点の座標をもう一度確認する。	잠시만… 합류 지점 좌표를 한 번 더 확인해 볼게.	Hold on, I'll check the meet-up coordinates again.						0	
+3	应该就是在这里，可是我没有在会合点见到任何一个军方相关人员。	應該就是在這裡，可是我沒有在會合點見到任何一個軍方相關人員。	ここで合っているはずなのに、それらしき軍の人員は一人もいなかった。	해당 지점은 합류지점임에도 군부와 관련된 사람은 단 한 명도 보이지 않았다.	It should've been right there, but I didn't see any military personnel.						0	
+4	我忽然从余光中瞥见有什么东西在身上移动，我低头查看……	我忽然從餘光中瞥見有什麼東西在身上移動，我低頭查看……	横目で何かが自分の身体を移動しているのに気づいて、よく見ると……	순간 몸에서 무언가 움직이는 거 같아 고개를 숙여 확인했는데…	I suddenly saw something moving out of the corner of my eye. I looked down...						0	
+5	是红色的激光点！这意味着……我正处于对方的瞄准下。	是紅色的雷射點！這意味著……我正處於對方的瞄準下。	レーザーサイトの赤い光点だ！私は……狙われている。	붉은색 레이저였다! 이건 즉… 누군가가 날 조준하고 있다는 의미다.	A red laser dot! That meant... somebody was aiming at me.						0	
+b-2											0	
+6	茉莉安，我被对方狙击手锁定了。	茉莉安，我被對方狙擊手鎖定了。	マリアン、狙撃手が私を狙ってる。	마리안, 누군가 날 저격하려고 조준하고 있어.	Marian, I've been locked on to by an enemy sniper.						0	
+7	怎么会！我已经排查过两公里内所有制高点……	怎麼會！我已經排查過兩公里內所有制高點……	そんな、ありえません！2km以内の制高点は全部調査済みなのに……	그럴 리가요! 2km 내에 있는 감제고지는 전부 확인했는데!	How could that be!? I checked all high-ground locations within a two-kilometer radius...						0	
+8	难道说……对方的射程超过这个范围？那不是普通人可以做到的……	難道說……對方的射程超過這個範圍？那不是普通人可以做到的……	まさか……それより遠くから？そんなこと普通はできません……	설마… 상대방 사정거리가 이보다 더 멀다는 걸까요? 상식적으로 일반인이라면 불가능할 텐데…	Could that mean... that the enemy's range is greater than that radius? Ordinary people shouldn't be capable of that...						0	
+9	琴诺！保护好分析员，我正在扩大搜寻范围，重新索敌。	琴諾！保護好分析員，我正在擴大搜尋範圍，重新搜敵。	チェルノさん！分析員さんを守ってください。私は探測範囲を拡大して、もう一度索敵します。	체르노! 분석가님을 보호해 주세요. 전 수색 범위를 넓혀서 다시 한번 찾아볼 테니.	Cherno! Please take care of the Adjutant. I'm expanding my search area to locate the enemy.						0	
+10	对不起对不起！对不起……	對不起對不起！對不起……	すみませんすみません！ごめんなさい……	죄송해요! 죄송해요! 정말 죄송해요…	I'm sorry, I'm so sorry! F—Forgive me...						0	
+11	没事的没事的！不要害怕啊琴诺，有办法的一定有办法！	沒事的沒事的！不要害怕啊琴諾，有辦法的一定有辦法！	大丈夫ですよ！怖がらないでチェルノ、きっとなんとかなります！	아무 일 없을 테니까 진정하세요… 다른 방법이 분명히 있을 거예요!	It's okay, it's okay! Don't be scared, Cherno. We'll definitely find a way!						0	
+12	正当我们陷入紧张时……通讯频道遭到了入侵。	正當我們陷入緊張時……通訊頻道遭到了入侵。	私たちが慌てていると……通信チャンネルに侵入された。	극도의 긴장감에 빠져있던 중… 통신 채널에 누군가가 침입했고.	Just as I was entering a state of anxiety... my communication channel was compromised.						0	
+13	这里是<snowbreak>贝奥武夫中队</>，现在进行身份确认。	這裡是<snowbreak>貝奧武夫中隊</>，現在進行身分確認。	<snowbreak>ベーオウルフ中隊</>だ。身分確認をさせてもらう。	여긴 <snowbreak>베오울프 중대</>. 신원 확인을 요청한다.	This is the <snowbreak>Beowulf Battalion</>. We're confirming your identity.						0	
+14	请按照规范，回答对应暗号，接下来，请听好……	請按照規範回答對應暗號，接下來，請聽好……	規範に従い、対応の合言葉を答えろ。よく聞け……	규정에 따라 상응하는 암구호를 말해주길 바란다. 그럼…	Reply with the code according to the procedure. Please listen closely to the following...						0	
+15	“好吧！狮子来了，我的孩子们走近了，查拉图斯特拉变得成熟了，我的时辰到了——”	“好吧！獅子來了，我的孩子們走近了，查拉圖斯特拉變得成熟了，我的時辰到了——”	「いいぞ！獅子が来る。私の子たちは近寄って来て、チャラトゥストラが大人になる。私の時が来た――」	"자! 사자가 왔고, 나의 아이들이 가까이 있고, 차라투스트라가 성장했고, 나의 시간이 왔다…"	"Well! The lion hath come, my children are nigh, Zarathustra hath grown ripe, mine hour hath come—"						0	
+16	听到暗号，我紧绷的神经终于放松下来。	聽到暗號，我緊繃的神經終於放鬆了下來。	合言葉を聞いて、張り詰めた神経をようやく緩められた。	암구호를 듣고 나서 그제야 긴장감을 놓을 수 있었다.	After hearing the code, my tightly constricted nerves could finally relax.						0	
+b-3											0	
+17	“这是我的早晨，我的白天开始了!”	“這是我的早晨，我的白天開始了!”	「これが私の朝、私の昼が始まった！」	"""오늘은 나의 아침이다. 나의 하루가 시작된다!"""	"This is my morning, my day beginneth!"						0	
+b-10											0	
+b-10-1	“现在升起吧，升起吧，你伟大的正午！”	“現在升起吧，升起吧，你偉大的正午！”	「昇るといい、昇れ。あなたの偉大なる昼！」	"""떠오르거라, 떠오르거라. 위대한 정오야!"""	"Arise now, arise thou great moontide!"						0	
+18	我按照卡罗琳事先交代的那样，回答了暗号。	我按照卡羅琳事先交代的那樣，回答了暗號。	カロリンに教わった通りに合言葉を唱えた。	나는 캐롤린이 알려준 암구호대로 대답했다.	I replied with the code that Caroline had told me earlier.						0	
+19	几位身穿迷彩制服的士兵从远处的建筑废墟中现身，迅速形成某种战术阵型，小心地接近我们。	幾位身穿迷彩制服的士兵從遠處的建築廢墟中現身，迅速形成某種戰術陣型，小心地接近我們。	迷彩服を纏い数人の兵士が遠くの廃墟から立ち上がり、素早く陣形を組み、警戒しつつ近づいてくる。	순간 군복을 입은 병사들이 멀리 있던 폐허 건물 속에서 나오더니 신속하게 전술 대형으로 모였고, 조심스럽게 우리에게 다가오기 시작했다.	Several soldiers in camouflage emerged from the rubble of a distant building, quickly formed a tactical formation, and carefully approached us.						0	
+20	不得不说，职业军人所拥有的专业素养，要远超海姆达尔部队。	不得不說，職業軍人所擁有的專業素養遠遠超過海姆達爾部隊。	認めざるを得ない、プロの軍人の素養はヘイムダル部隊の遥か上にある。	이것이 직업 군인의 전문성일까… 헤임달 부대도 따라 하기 힘들 것 같았다.	I have to say, their professionalism far exceeded that of the Heimdall Force.						0	
+21	你们就是世界树公司派来的协助者对吧？是叫……playername阁下？	你們就是世界樹公司派來的協助者對吧？是叫……playername閣下？	ユグドラシル社からの協力者だな？確か……playername殿？	여러분들이 위그드라실에서 파견을 보낸 분들인가요? 통성명을 조금 부탁드려도 되겠습니까?	Are you guys the support sent by Yggdrasil? Mr... playername?						0	
+22	抱歉，职责在身，不得不加倍小心。	抱歉，職責在身，不得不加倍小心。	すまない。職務柄、常に用心しなければならないのでな。	죄송합니다. 아무래도 직업 특성상 조심할 수밖에 없어서요.	Apologies, I have a duty to take extra caution here.						0	
+23	呼……呼……	呼……呼……	はあ……はあ……	아아… 당신은…	*panting*						0	
+24	您！您是……李秋雪上尉吧！	您！您是……李秋雪上尉吧！	あ、あなたは！あなたは……李秋雪（リー・チュウシエ）大尉で間違いないでしょうか！	당신은… 이초설 대위님이시죠!?	It's you! You're... Captain Li!						0	
+25	你知道我？我们见过面？	你知道我？我們見過面？	私のことを知っている？どこかで会っただろうか…	절 알고 계십니까? 구면인가요?	You know me? Have we met?						0	
+26	不记得了吗……	不記得了嗎……	覚えていないでしょうか……	기억을 못 하나 보네요…	Do you not remember...?						0	
+27	呃，那个……贝奥武夫中队！上尉！李秋雪！	呃，那個……貝奧武夫中隊！上尉！李秋雪！	え、あの……ベーオウルフ中隊所属！大尉！李秋雪であります！	아… 실례했습니다! 베오울프 중대! 대위! 이초설!	Err, um... Beowulf Battalion! Captain Li Qiuxue!						0	
+28	在响亮地报出编制、军衔与姓名后，这位英姿飒爽的上尉行了一个十分标准的军礼。	在響亮的報出編制、軍銜與姓名後，這位英姿颯爽的上尉行了一個十分標準的軍禮。	よく響く声で所属、階級と名前を報告し、この颯爽とした大尉は標準的な敬礼を披露した。	순간 관등성명을 크게 하고는 군기가 바짝 들어간 자세로 경례를 했다.	After belting out her name, rank, and squadron as though reporting, the heroic captain gave a perfect military salute.						0	
+b-4											0	
+29	其实可以不用这么大声。	其實可以不用這麼大聲。	あの……そこまで大声で言わなくても。	그렇게 큰 소리로 말씀하시지 않으셔도 됩니다.	No need to be so loud.						0	
+31	哈哈，以前养成的老习惯了。	哈哈，以前養成的舊習慣了。	はは、すまん、つい癖でな……	하하하. 어느새 습관이 돼버려서…	Haha, it's an old habit.						0	
+32	在部队里，如果声音小了，长官就会跟你说“听不见！”“重来！”“没有劲儿！”。	在部隊裡，如果聲音太小了，長官就會跟你說“聽不見！”“重來！”“沒有氣勢！”。	部隊で声が小さいと、上官に「聞こえん！」「やり直し！」「弱々しい！」と怒鳴られる。	부대에서 목소리가 작으면 장관님이 항상 '안 들려!' '다시!' '힘이 없잖아!'라고 말씀하시거든요.	If you're not loud enough in the squad, the officer says, "Can't hear you!" "Again!" "Where's your passion?"						0	
+33	只有像刚才那样，长官才会满意地说：“很有精神！”	只有像剛才那樣，長官才會滿意地說：“很有精神！”	さっきくらいの声であれば、上官は「よし！」と満足してくれるだろう。	방금처럼 말해야 장관님이 '그래! 씩씩하군'라고 말씀하시며 만족해하시죠.	Shouting it like that is the only way they'll be satisfied and say "Excellent spirit!"						0	
+34	长官说得没错，是很有精神呢。	長官說得沒錯，是很有精神呢。	上官様の言う通り、大変よろしいですね。	장관님 말씀이 맞네요. 정말 군인다워 보이셨어요!	The officers are quite right. You do indeed have an excellent spirit.						0	
+35	你看，这样不就重新认识了嘛！	你看，這樣不就重新認識了嘛！	ほら、これで改めて知り合っただろう。	그렇죠? 이렇게 상호 간 다시 알고 얼마나 좋습니까!	See? Makes you see things differently, doesn't it!						0	
+36	茉莉安面带笑意，看着眼前这位军官。	茉莉安面帶笑意，看著眼前這位軍官。	マリアンは目の前の軍人に満面の笑みをみせた。	마리안은 미소를 띠며 동경에 가득 찬 눈빛으로 앞에 있는 군인을 바라봤다.	Marian looked at the officer with a smile on her face.						0	
+37	刚才那两嗓子，不至于把泰坦引来吧？	剛才那兩聲，不至於把泰坦引來吧？	さっきの声でタイタンを惹き寄せたりはしないよな？	근데 방금 관등성명으로 타이탄이 오지는 않겠죠…?	Those two shouts just now shouldn't be enough to attract Titans, right?						0	
+38	泰坦会受到什么吸引？又因何种目的而行动？这是我无法回答的问题，也是所有人都没法回答的问题。	泰坦會受到什麼吸引？又因何種目的而行動？這是我無法回答的問題，也是所有人都沒法回答的問題。	タイタンは何に反応し、どういう目的で動くのか私には分からない。誰にも分からない。	타이탄은 도대체 무엇에 이끌리고, 어떤 목적을 갖고 움직일까? 아직까지는 도무지 알 수 없는 미지의 수수께끼와 같았다.	What would attract Titans? What was their purpose, anyway? These were questions I could answer no better than anyone else.						0	
+39	但是……	但是……	しかし……	그 순간…	But...						0	
+40	那个，playername阁下？你手臂上的设备好像在发光。	那個，playername閣下？你手臂上的設備好像在發光。	あの、playername殿？貴官の腕の装備が光っているぞ。	playername? 팔에 있는 장비에서 불빛이 나고 있습니다. 괜찮은 걸까요?	Um, Mr. playername? The device on your arm seems to have lit up.						0	
+b-5											0	
+41	不会吧……难道还真把泰坦引来了？	不會吧……難道還真把泰坦引來了？	嘘だろ……タイタンが本当に来たのか？	설마… 정말로 타이탄이 이끌려온 건가?	Seriously? Surely we didn't actually attract Titans?						0	
+42	歌唱者显示的读数果然是……不过，应该不是尤弥尔那种级别的。	歌唱者顯示的讀數果然是……不過，應該不是尤彌爾那種級別的。	シンガーの表示数値を見るとやはり……しかし、ユミルほどではない。	코러스에 표시된 지수를 보니 타이탄이 확실했다… 하지만 이미르급은 아닌 것 같다.	The reading on the Chorus indeed seemed to indicate as much... But at least it shouldn't be an Ymir-level Titan.						0	
+b-6											0	
+43	海姆达尔部队，准备迎击泰坦。	海姆達爾部隊，準備迎擊泰坦。	ヘイムダル部隊、タイタンの迎撃に備えて。	헤임달 부대, 전투 준비 태세!	Heimdall Force, prepare for a fight with a Titan.						0	
+44	贝奥武夫中队，预演方案六！	貝奧武夫中隊，預演方案六！	ベーオウルフ中隊、プラン6！	베오울프 중대, 6번 전술 대형으로 준비!	Beowulf Battalion, Rehearsal Set 6!						0	
+45	肴！肴！你在吗？！	肴！肴！你在嗎？！	肴（ヤオ）！肴！いるのか！？	야오! 야오! 들리나?	Yao! Yao! You there?						0	
+46	别打哈欠了！给我拿出军人的样子来！	別打哈欠了！給我拿出軍人的樣子來！	欠伸しない！軍人の根性を見せろ！	하품 그만하고! 군인답게 행동해!	Stop yawning! Get your soldier act together!						0	
+47	这回如果出了岔子！你的所有休假都等着泡汤吧！	這次如果出了意外！你的所有休假都等著泡湯吧！	今回は！しくじったら貴様の休暇が全部飛ぶぞ！	이번에 무슨 일이 생기면, 앞으로 휴가는 꿈도 꾸지 마!	You know what'll happen to your holidays if anything goes wrong here!? Up in flames!						0	
+48	李上尉快速而干练地下达命令，最后不知道在跟谁通话，也许是那名神秘的军方狙击手。	李上尉快速而幹練地下達命令，最後不知道在跟誰通話，也許是那名神秘的軍方狙擊手。	李大尉は迅速に洗練された命令を下し、最後は誰かと通話している。あの謎のスナイパーかもしれない。	이대위는 신속하고 간결하게 명령을 내렸다. 누구랑 통신을 한 건지는 모르겠지만, 아마 그 미스테리 저격수인 것 같았다.	Captain Li's orders were brisk and well-practiced. I wasn't sure who she was talking to on the other end. Maybe it was that mysterious military sniper.						0	
+49	很快，伴随着“落雪”，一个中小型泰坦出现在我们面前。	很快，伴隨著“落雪”，一個中小型泰坦出現在我們面前。	そして、「キオーン」とともに、中小型のタイタンが現れた。	그 순간 '눈'이 내리기 시작했고 소형 타이탄이 눈앞에 나타났다.	Before long, a small-scale Titan appeared before us, and Snow began to fall.						0	
+50	啊啊啊啊啊啊啊啊啊！！！	啊啊啊啊啊啊啊啊啊！！！	あああああああああああ！！！	으아아아아아아아!!!	Arghhhhhhhhhh!!!						0	
+51	泰坦杂种！你爸爸在这！	泰坦雜種！你爸爸在這！	タイタン風情が！こっちを見やがれ！	타이탄 이 망할 자식들! 가만두지 않겠다!	Titan scum! Meet your maker!						0	
+52	士兵一边怒吼着，一边向泰坦倾泻弹药。	士兵一邊怒吼著，一邊向泰坦傾瀉彈藥。	兵士たちは叫びながら、タイタンに銃弾を注ぐ。	병사들은 고함을 지르며 탄약을 퍼붓기 시작했다.	The soldier roared while pouring ammo at the Titan.						0	
+53	但小口径武器根本无法击穿泰坦坚硬的外壳，火星四溅后，只能在泰坦外壳上留下一个个浅白色圆点。	但小口徑武器根本無法擊穿泰坦堅硬的外殼，火星四濺後，只能在泰坦外殼上留下一個個淺白色圓點。	しかし、小口径武器はタイタンの外殻を貫くことができず、弾が弾かれて、浅く白く丸い弾痕だけが残る。	하지만 소구경의 무기로는 타이탄의 단단한 갑옷을 뚫기에 역부족이었고, 작은 스크래치만을 남길 뿐이었다.	The small-caliber weapons simply couldn't penetrate the Titan's hard outer shell. Sparks flew off in all directions, leaving tiny white dents on the Titan.						0	
+54	阳平！不要恋战！按照预演后撤！	陽平！不要戀戰！按照預演後撤！	陽平！執着するな！まずは演習通りに退くんだ！	요헤이! 시간 낭비하지 말고 연습한 대로 움직여!	Yang Ping! Stay focused! Retreat like we rehearsed!						0	
+55	给我看这里！好好尝尝你爷爷的厉害！	給我看這裡！好好嚐嚐你爺爺的厲害！	こっちを見やがれ！俺の弾を喰らえ！	이 녀석들! 이 몸이 얼마나 무서운지 톡톡히 보여주마!	You, look over here! Have a taste of your granddad's wicked fighting skills!						0	
+56	名为阳平的士兵，他沉浸在独属于自己的战争中，完全被狂热的战意所支配，情绪如同喷发的火山一般爆发。	名為陽平的士兵，他沉浸在獨屬於自己的戰爭中，完全被狂熱的戰意所支配，情緒如同噴發的火山一般爆發。	陽平という兵士は自分の戦いに没頭し、その熱に支配され、感情は噴火のように炸裂する。	'요헤이'로 불리는 병사는 전의에 가득 차 마치 분출하는 화산과 같이 감정을 폭발시켰다.	The soldier named Yang Ping was in a world of his own. Totally subject to a wild lust for combat, he rampaged like an erupting volcano.						0	
+57	尽管他的射击未能对泰坦造成丝毫伤害，泰坦仍旧注意到了他。	儘管他的射擊未能對泰坦造成絲毫傷害，泰坦仍舊注意到了他。	彼の射撃はタイタンに全く通じなかったが、タイタンの注意を引いた。	비록 그의 사격은 아무런 피해를 입히지 못했지만 타이탄의 주목을 끌기에는 충분했다.	Even though his attacks hadn't damaged the Titan in the slightest, the Titan still ended up noticing him.						0	
+58	阳平！我命令你……危险！	陽平！我命令你……危險！	陽平！危ない！	요헤이! 위험해!	Yang Ping! This is an order... Watch out!						0	
+59	前一秒还处于静止状态的泰坦，在下一秒钟对阳平发动了如同骤雨般突兀又暴烈的攻击。	前一秒還處於靜止狀態的泰坦，在下一秒鐘對陽平發動宛如驟雨般突兀又暴烈的攻擊。	さっきまで静止状態だったタイタンは、次の瞬間陽平に驟雨の如き攻撃を見舞った。	방금 전까지 멈춰있던 타이탄이 순간 요헤이에게 공격을 퍼붓기 시작했다.	The Titan went from being stationary and silent to suddenly launching an attack as vicious and overwhelming as a cloudburst in the next second.						0	
+b-7											0	
+60	茉莉安！	茉莉安！	マリアン！	마리안!	Marian!						0	
+61	收到。	收到。	はい。	확인했습니다!	Received.						0	
+62	来自高处，从茉莉安狙击枪管中射出的大口径狙击弹，裹挟着庞大能量撞击在泰坦脆弱的关节，使得那纯白怪物踉跄了几步。	來自高處，從茉莉安狙擊槍管中射出的大口徑狙擊彈，包裹著龐大能量撞擊在泰坦脆弱的關節，使得那純白怪物踉蹌了幾步。	高所からマリアンのスナイパーライフルに放たれた大口径狙撃弾が、エネルギーを纏ってタイタンの脆い関節に当たり、その真っ白な怪物をよろめかせた。	고지대에서 마리안은 대구경 저격총으로 탄약을 발사했고, 에너지원으로 감싸인 탄약이 타이탄의 약점을 관통시키며 주춤거리게 했다.	The sniper bullet Marian fired whizzed down with enormous energy, plunging into the Titan's fragile joint. The ashen monster staggered back several steps.						0	
+63	分析员，但是我没法一个人阻止……	分析員，但是我沒辦法一個人阻止……	分析員さん、私一人じゃとても……	분석가님, 이 정도는 혼자서 감당이 안 될 것 같아요…	Adjutant, I'm afraid I can't stop it alone...						0	
+64	从远方楼宇间传来了另一声枪响，泰坦再次被击退了几步。	從遠方樓宇間傳來了另一聲槍響，泰坦再次被擊退了幾步。	遠くのビルからもう一つの銃声が聞こえ、タイタンを少し後退させた。	그 순간 먼 곳에 있는 건물 사이에서 또 한발의 총소리가 들려왔고, 타이탄은 또다시 격추당하며 뒤로 몇 발자국 물러났는데…	Another shot echoed from a distant building, and the Titan was sent back another few steps.						0	
+65	那应该是……	那應該是……	あれは多分……	이건 분명히…	That must be her...						0	
+66	如果军方的那位狙击手愿意保持这种配合节奏，我们至少可以掩护大家撤退。	如果軍方的那位狙擊手願意保持這種配合節奏，我們至少可以掩護大家撤退。	軍のスナイパーが合わせてくれれば、皆さんの撤退くらいは援護できそうです。	만일 군부 저격수가 이대로 팀워크를 유지해 주면, 모두가 빠져나갈 동안 엄호를 할 수 있을 것 같아요.	If that military sniper maintains this rhythm with me, we should be able to cover everyone as we leave.						0	
+b-8											0	
+67	嗯！我这就跟李上尉转达！	嗯！我這就跟李上尉轉達！	よし！今李大尉に伝える！	알겠어! 이대위님한테 바로 전달할게!	Got it! I'll pass that on to Captain Li!						0	
+b-9											0	
+68	等等，琴诺呢？！	等等，琴諾呢？！	待って、チェルノは！？	잠깐… 근데 체르노는 어디 간 거지?!	Wait, where's Cherno!?						0	
+69	我……我……枪声！该怎么办！对不起！	我……我……槍聲！該怎麼辦！對不起！	私……私……銃声！どうしよう！ごめんなさい！	저… 저는… 총소리가 무서워서… 정말 미안해요!	I—I... Gunshots! What should I do!? F-Forgive me!						0	
+70	帮，帮……帮我！帮帮我！	幫、幫……幫我！幫幫我！	助け、助け……て！助けて！	도… 도와주세요! 저 좀 도와주세요!	H—Help... help me! P—Please help me!						0	
+71	咿嘻嘻嘻嘻嘻嘻！！！	咿嘻嘻嘻嘻嘻嘻！！！	イヒヒヒヒヒヒ！！！	이히히히히히!!!!!!!!	Ehehehehehehe!!!						0	
+72	好想，好想动手啊哈哈哈哈哈！！！	好想、好想動手啊哈哈哈哈哈！！！	やりたい、やりたいなあ、ハハハハ！！！	손이… 손이 근질근질거려… 하하하하!!!	I really... really want to just get him!! Ahahahaha!!!						0	
+72_1	于此现世，无话可说！	於此現世，無話可說！	この現世ではもう、いうことはありません！（У меня нет белого бога из этого мира）	이 세상에 더 이상 말이 필요한가?	There is no good god here to spare you!						0	
+74	仿佛从异空间伸出的锁链，在一瞬间绞住泰坦所有关节。	彷彿從異空間伸出的鎖鏈，在一瞬間絞住泰坦所有關節。	異空間から生えたような鎖が、一瞬でタイタンの全ての関節に絡みつく。	순간 사슬이 나타난 것처럼 타이탄의 모든 관절을 묶어버렸고,	It was like a chain that emerged from another world, twisting all of the Titan's joints in an instant.						0	
+75	无论泰坦怎么挣扎，都无法移动分毫。	無論泰坦怎麼掙扎，都無法移動分毫。	タイタンはいくら足掻いても、動けそうにない。	이어서 타이탄들이 나가려고 발버둥을 쳤으나 움직일 수 없었다.	No matter how the Titan struggled, it couldn't move an inch.						0	
+76	来吧，敞开心扉吧。	來吧，敞開心扉吧。	来い、心の扉を開け……	그래, 그래. 그렇지! 마음껏 날뛰어봐!	Come, open the door to your heart.						0	
+77	咿嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻！！！	咿嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻！！！	イヒヒヒヒヒヒヒヒヒヒ！！！	아하하하하하하하하하하!!!	Ehehehehehehehehe!!!						0	
+78	在琴诺怪异的笑声中，泰坦被徒手拆卸得七零八落。	在琴諾怪異的笑聲中，泰坦被徒手拆卸地七零八落。	チェルノの不気味な笑い声とともに、タイタンは素手でバラバラにされる。	체르노의 기괴한 웃음소리와 함께 타이탄은 그 자리에서 산산조각이 났다.	As Cherno's unnatural laughter echoed, the Titan was disassembled into pieces by her bare hands.						0	
+79	这……就是完整天启者的力量吗……	這……就是完整天啟者的力量嗎……	これが……完全な覚醒者の力か……	이게… 바로 계시자의 힘…	So this... is the power of a complete Manifestation...?						0	
+80	化身系统……	化身系統……	アバターシステム……	아바타 시스템인가…	The Apotheosis System...						0	

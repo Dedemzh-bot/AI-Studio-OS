@@ -1,0 +1,83 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	“手术中”的工作灯还在亮着，红色的光十分刺眼，我不是很明白为什么这个灯要选择红色，它除了加剧外面等候者的紧张心情外毫无作用。	「手術中」的燈尚未熄滅，紅色的燈光異常刺眼，我不明白為何這個燈光要選擇紅色，除了加深等候者的緊張感之外毫無其他用處。	表示灯はまだ「手術中」。待つ人の緊張を高める以外何の役にも立たないというのに、それを赤色にする理由は全く理解できない。	작업등에 '수술 중' 문구와 함께 눈 부신 빨간 불이 켜져 있었다. 왜 굳이 빨간색을 선택했을까? 대기자들에게 긴장감을 주려는 의도인 걸까?	The harsh, red "operation in progress" light was still on. I really couldn't understand why it was red; it only served to worsen the anxieties of those waiting outside.						0	
+2	手术已经过去了两个小时，这两个小时的体感甚至比上次和猫汐尔被困在下水道废墟中的体感时间还要长。	距離手術開始已經兩小時了，和上次跟貓汐爾一起被困在下水道相比，這段時間格外漫長。	手術が始まってから2時間が経過した。この前マーシルと下水道の廃墟に閉じ込められたときよりも長く感じる。	수술은 2시간을 넘어섰다. 이 두 시간은 지난번 캣 시에라와 하수도 폐허 속에 갇혔을 때보다 체감 시간이 훨씬 길게 느껴졌다.	Two hours had passed since the operation, but it felt even longer than the last time I was trapped in the sewers with Mauxir.						0	
+3	一定要没事啊……猫……	一定要平安無事啊……貓……	無事でいてくれ……マ……	무사할 거야… 캣…	She was definitely going to be okay... Mau...						0	
+3_1	半天前	半天前	半日前	반나절 전	Earlier in the day						0	
+4	这么快就拿到了数据，分析员和我的配合变得效率起来了喵。	這麼快就拿到數據了，分析員和我的配合變得更有效率了喵。	こんなに早くデータを入手するとは、分析員と私の連携も効率的になったニャ。	이렇게 빨리 데이터를 얻다니, 분석가와 나의 협력 효율이 높아졌다냥.	We retrieved all the data pretty quickly. We're working together so efficiently now, Adjutant.						0	
+b-1											0	
+5	是呀，比预想的简单。	是呀，比預想的容易。	ああ、思ったより簡単だった。	그러게, 예상보다 수월했어.	Yeah, it was easier than I expected.						0	
+6	这次的任务是取回封存在禁区内的一些数据，这些数据记录了大量类思念体的样本资料，或许能从中找到其他湮灭进程中止的类思念体的相关线索。	這次的任務是取回封存在禁區內的一些數據，這些數據中包含了大量關於類思念體的樣本資料，或許能從中找到其他關於湮滅進度中止的類思念體線索。	今回の任務は禁止エリアに封印されているデータ奪還。大量のデミ・アニムスのサンプル記録があるから、他の霧散プロセスが中止されたデミ・アニムスについてわかるかもしれない。	이번 미션은 금지 구역 봉인 데이터 회수다. 유사 사념체 샘플 자료가 많이 기록되어 소멸 중단된 다른 유사 사념체의 정보가 담겨있을 것이다.	Our mission objective was to venture into the restricted area and retrieve data that contained information on a large number of Depleted Titagen samples. It could possibly lead to more clues about other Depleted Titagen that experienced an incomplete evaporation process.						0	
+7	猫汐尔听说后十分积极参与，最终出任务的也只有我们两人，还好只是一个体力活，风险系数并不高。	貓汐爾聽到後變得異常積極，最終出任務的也只有我們兩人，還好任務只需要出體力，其風險度並不高。	それを聞いたマーシルはぜひ参加したいと言い出し、任務に出るのも私たち二人だけだが、ただの体力仕事だからあまり危険ではない。	캣 시에라는 적극적이었으며, 결국 미션에 투입된 사람은 우리 둘뿐이었다. 다행히도 미션은 체력 강도가 셀 뿐, 위험 계수가 높지는 않았다.	Mauxir was more than happy to join me after hearing about it, and only the two of us ultimately ended up going on the mission. However, it was only a bit of manual labor, so the risk level wasn't high.						0	
+8	事实上也如我所料，这片街区泰坦降临的频率并不高，只是属于“波及区”，唯一难点就是数据封存地。	事實上也正如我所料，這片區域泰坦降臨的頻率不高，只是屬於「波及區」，唯一的困難點就是存放數據的地點。	予想通り、「波及エリア」であるこの街にタイタンが現れる頻度は低い。データが保存されている場所が唯一の難点である。	내 예상대로라면 이 거리에 타이탄이 강림할 빈도는 높지 않다. '영향 지역'에 속할 뿐이며, 데이터가 봉인된 장소라는 게 유일한 문제다.	Just as I'd expected, the Titans didn't seem to frequent this area, which was only classified as an "affected area." The storage facility itself posed the biggest problem during this mission.						0	
+9	存放数据的建筑在上次泰坦降临中受损很严重，外部已经全是泰坦污染的痕迹。	存放數據的建築物由於上次的泰坦降臨事件導致嚴重損毀，建築物外面全是泰坦汙染的痕跡。	データの保管所である建物は前回のタイタン降臨で大きな被害を受け、外部はタイタン汚染の痕跡だらけになっていた。	데이터가 보관된 건물은 지난번 타이탄 강림 때 심각하게 파손되었고, 외부는 타이탄 오염의 흔적으로 가득했다.	The building in which the data was stored had been heavily damaged during the last Descent, and the exterior was rife with Titagen contamination.						0	
+10	好在我所担心的数据损坏并没有发生。	幸好存放的數據並沒有遭受波及。	幸い、データは破損していなかった。	다행히도 우려했던 데이터 손상은 없었다.	Fortunately, contrary to my own fears, the data wasn't corrupted.						0	
+b-2											0	
+11	我直接在这里将数据传输回去吧。	我直接從這裡把相關資料傳輸回去吧。	ここでデータを転送しようか。	여기서 데이터를 당장 전송하자.	I'll transfer the data back from here.						0	
+12	这样确实就万无一失了，那我负责查看周围有没有什么不安因子。	如此一來便萬無一失了，那我負責巡邏周邊是否有潛藏的危險因子。	確かにそれが妥当だと思う。じゃあ、私は周囲を警戒しよう。	좋아, 그래야 확실하지. 그럼 난 주위에 불안 요소가 있는지 살펴보겠다.	Excellent idea. I'll make sure the surrounding area is safe.						0	
+13	请务必在数据传输完成前通知我喵，分析员。	分析員，請務必在資料傳輸結束之前通知我喵。	データの転送が終わる前に知らせてニャ、分析員。	데이터 전송이 완료되기 전에 꼭 알려달라냥, 분석가.	Be sure to let me know before the data transfer is complete, Adjutant.						0	
+b-3											0	
+14	好的，注意安全。	好的，注意安全。	分かった、油断しないで。	알았어, 조심해.	Sure. Be careful.						0	
+15	猫汐尔出去后，我就借用封存地的服务器搭建与海姆达尔总部的连接，好在通信一切正常。	貓汐爾離開後，我便借用封存處的伺服器連接海姆達爾總部，幸好通訊一切正常。	マーシルが出てから、私は保管所のサーバーを使ってヘイムダル本部との接続を試行し、そして無事つながった。	캣 시에라가 나간 뒤, 난 봉인 장소의 서버를 이용해 헤임달 본부와 통신했다. 다행히 모든 통신이 정상적으로 작동했다.	I used the server in the storage facility to connect to Heimdall headquarters after Mauxir left. Thankfully, all communications were normal.						0	
+16	卡罗琳那边已经开始接收数据，不出意外的话，剩下的只要等待数据传输完成就好了。	卡羅琳已經開始接收資料，剩下的只要等待傳輸結束即可，希望途中沒有突發狀況。	カロリンはすでにデータの受信を始めている。不測の事態がなければ、あとはデータ転送が完了するのを待つだけだ。	캐롤린 쪽에서 데이터 수신을 시작했으니, 별일 없다면 이제 데이터 전송이 완료될 때까지 기다리기만 하면 된다.	Caroline had already started receiving data. Barring any unforeseen circumstances, all I had to do was wait for the data transfer to be completed.						0	
+17	正准备松一口气的时候，歌唱者系统读数突然升高。	正準備放心的時候，歌唱者系統的讀數突然飆高。	ホッと一息ついた瞬間、シンガーシステムの数値がいきなり上昇した。	한숨 돌리려고 할 때, 코러스 시스템의 눈금이 갑자기 치솟았다.	Just as I was getting ready to breathe a sigh of relief, the reading on my Chorus System suddenly spiked.						0	
+18	……不出意外的话果然出意外了，墨菲定律真是人间至宝……	突發狀況果然突發了，墨菲定律還真是要命……	……起こらなければと考えると起こる、さすがマーフィーの法則だ……	… 별일 없길 기도했는데 별일이 생기고 말았다. 일이 꼬이고 만 것이다.	...Anything that can go wrong, will go wrong. The value of Murphy's Law could never be understated...						0	
+b-4											0	
+19	猫汐尔，传送已终止，准备会合撤离。	貓汐爾，傳輸已中斷，準備會合撤離。	マーシル、転送は中止だ。合流してここから出るぞ。	캣 시에라, 전송이 끝났어, 철수할 준비해.	Mauxir, I terminated the transfer. Prepare to meet up and withdraw.						0	
+20	收到，是分析员身上那个歌唱者系统预警了吗？	收到，是分析員身上那個歌唱者系統發出警報了嗎?	ラジャー。分析員が装備してるシンガーシステムが反応したんだ？	알았다, 그건 분석가의 코러스 시스템 경보인가?	Understood. Did you get a warning from your Chorus System, Adjutant?						0	
+21	只有分析员能够使用的歌唱者系统……看来分析员也是某种未知呢。	只有分析員能使用的歌唱者系統……看來分析員也是某種未知呢。	分析員にしか使えないシンガーシステム……どうやら分析員も謎の存在みたい。	분석가만이 사용할 수 있는 코러스 시스템인데… 분석가도 모르는 부분이 있는 모양이군.	A system that only you can use... Seems like you're quite the mystery yourself, Adjutant.						0	
+22	结束通讯顺便阻断猫汐尔充满探究的眼神，我立刻开始收拾数据存储，看来只能优先将实体存储带回海姆达尔了。	結束通訊同時阻擋了貓汐爾充滿好奇的眼神，我立刻開始收拾數據儲存設備，看來只能將實體儲存設備海姆達爾了。	通信を終えて私はすぐにデータストレージを片付け始めた。どうやらひとまずストレージを持ち帰るしかなさそうだ。	통신을 종료하면서 호기심에 찬 캣 시에라의 눈빛도 함께 차단됐다. 실물 메모리를 헤임달로 가져가는 수밖에 없기에, 난 즉시 데이터 메모리를 회수하기 시작했다.	After I hung up the communication and cut off Mauxir's probing gaze, I immediately started packing up the data drives. It seemed like my only option was to transport the physical data back to Heimdall myself.						0	
+23	就在走到门口的那一刹那，我感受到了空气中开始出现无法形容的紊乱，歌唱者发出尖利刺耳的蜂鸣声。	就在我走到門口的那一剎那，我感受到了空氣中充斥著無法言喻的紊亂，歌唱者也開始發出尖銳刺耳的蜂鳴聲。	入り口に着いた瞬間、空気中に形容できないざわつきが広がり、シンガーが鋭い警報音を上げている。	문 앞으로 다가간 순간, 공기 중에서 형언할 수 없는 카오스가 시작되는 게 느껴졌다. 코러스 시스템에서 귀를 찌르는 듯한 날카로운 소리가 들렸다.	As I walked toward the door, I sensed an inexplicable disturbance in the air. My Chorus System subsequently made a piercing beeping sound.						0	
+24	泰坦降临！脑子里第一反应。	泰坦降臨!我腦海中的即時反應。	タイタン降臨だ！と脳がすぐ反応した。	타이탄 강림! 머릿속에 떠오른 첫 번째 반응이었다.	A realization came to the forefront of my thoughts — a Titan Descent was coming.						0	
+b-5											0	
+25	猫汐尔，注意泰坦！	貓汐爾，注意泰坦!	マーシル、タイタンに注意を！	캣 시에라, 타이탄을 조심해!	Mauxir, watch out for Titans!						0	
+26	耳麦中传来沙沙的杂音，并没有得到任何回应。	耳麥發出沙沙雜音，我的呼叫並沒有得到回應。	イヤホンからザーザーという雑音が聞こえてきて、何の返事も得られなかった。	헤드셋에서는 지직거리는 잡음만 들릴 뿐, 아무런 응답도 없었다.	I heard the sound of static in my headset, but there was no response.						0	
+27	啧，果然通信受到了干扰。在联系不到猫汐尔之前，最优解是保持原地不动，防止坐标丢失。	嘖，訊號果然受到了干擾。在跟貓汐爾連絡上之前，最好的方法就是待在原地不動，以防失去座標。	チッ、やはり通信が妨害されたか。マーシルと連絡を取れるまで、座標が失われないようにじっとしていた方がいいかもな。	흠, 역시 통신 교란인가. 캣 시에라와 연락이 닿기 전까지는 좌표를 잃지 않도록 제자리에서 기다리는 것이 가장 좋은 방법일 것이다.	It looked like our communications were being disrupted. Since I couldn't contact Mauxir, the best course of action was to stay put. That way, she wouldn't lose my coordinates.						0	
+28	只是，不知道这里还能支撑多久，我看了看头顶的建筑，在一阵阵空气扰动中，它开始像酥脆的饼干一样层层剥落……	但是不知道這裡能撐多久，我抬頭看了下上方的建築，在紛亂的震動下，建築物的鋼筋水泥開始層層掉落……	問題はこの場所がいつまで持つかだ。見上げると、乱れる空気の中、真上の建物がカリカリのクッキーのように砕け始めた……	다만 여기서 얼마나 버틸 수 있을지 모르겠다. 머리 위의 건물을 둘러보니 공기의 교란 속에서 건물이 크래커처럼 부스러지고 있었다…	Even so, I wasn't sure how long this place could hold. I looked up at the building above me. It had already begun to peel off in layers like a wafer cookie...						0	
+b-6											0	
+29	猫，听得到吗？	貓……聽得到嗎?	マーシル頼む、応答してくれ……	캣… 들려?	Mauxir, can you hear me?						0	
+30	仍然是无回应的电流音。猫汐尔不会正面遭遇泰坦了吧，就在我心中泛起不好的念头时，巨大的震动将我拉回了现实。	依然是嘈雜的電流聲。貓汐爾不會遇到泰坦了吧，就在我心中閃過這個不安的念頭時，巨大的震動拉回了我的注意力。	やはり聞こえるのは電流音だけ。まさかマーシルがタイタンに遭遇した……？不安になった私は、巨大な振動により現実に引き戻された。	여전히 전류 소리만 들릴 뿐이었다. 설마 캣 시에라가 타이탄을 만난 건 아니겠지? 머릿속에 안 좋은 생각이 떠오를 때, 거대한 진동에 정신이 번쩍 들었다.	I received no response amidst the static. Could Mauxir have encountered a Titan? Just as this thought crept into my mind, a massive shockwave yanked me back to reality.						0	
+31	这座建筑果然已经无法承受泰坦途经的巨大压力，瞬间在我眼前坍塌。	這座建築已經無法承受泰坦所帶來的震動，它在我眼前瞬間坍塌。	建物がついにタイタンに与えられる圧力に耐え切れず、一瞬にして私の目の前で崩れ落ちた。	이 건물은 타이탄이 지나간 자리의 엄청난 압력을 견디지 못하고, 한순간에 내 앞에서 무너져 버렸다.	Sure enough, the building was buckling under the enormous pressure as the Titans passed by. It collapsed in front of me in an instant.						0	
+32	结束了，看着即将砸到头顶的建筑碎块和钢筋，这是我心中的第一个念头，普通人无论如何也无法与这些抗衡。	一切都結束了。身為普通人的我實在無法承受這些掉落的鋼筋水泥。	これで最後か。頭にぶつかりそうな瓦礫と鉄筋を見て、私はそう思った。一般人はどんなに頑張っても、それに対抗できないからだ。	끝났다. 머리 위로 떨어져 내리기 직전의 건물 파편과 철근을 보며 떠오른 첫 번째 생각이었다. 보통 사람이라면 절대 대항할 수 없을 것이다.	It's over. That was my first thought as I stared at the wreckage and steel poles that were careening toward me.						0	
+33	我闭上了眼睛，等待着最后时刻的降临。	我閉上雙眼等待被壓扁的時刻來臨。	目を閉じた私は、人生の幕が下りる瞬間を待っている。	난 눈을 감고 마지막 순간이 오기를 기다렸다.	I closed my eyes and waited for the final moment to arrive.						0	
+34	黑暗中的时间像被拉长了一样，预期中疼痛并没有出现。	在黑暗中的時間好像暫停了一樣，預想中的疼痛感並沒有發生。	時間が暗闇の中で引き伸ばされたかのように、予想した痛みを感じることはなかった。	어둠 속의 시간은 늘어져 갔지만, 예상했던 고통은 찾아오지 않았다.	Time seemingly slowed to a crawl in the darkness. However, the pain never came.						0	
+35	渐渐地我听到了剧烈起伏的喘息，脸上感受到了一些温热的液体。	漸漸地我聽到了劇烈的喘息聲，臉上也感受到了溫熱的感覺。	そして乱れた呼吸が聞こえてきた途端、顔に温かい液体の感触を覚えた。	격렬해지는 숨소리가 들리더니, 이내 얼굴 위로 따뜻한 액체가 떨어졌다.	Slowly, I began to hear harsh gasps. I then felt the sensation of warm liquid on my face.						0	
+36	呼……幸好赶得及……	呼……幸好趕上了……	ふっ……間に合ってよかった……	후우… 다행히 늦지 않았다…	Phew... Thank goodness I made it in time...						0	
+37	不会疼还是有些用处的……	沒有痛感還是有一些好處喵……	痛みを感じないのも役に立つね……	통증을 못 느끼는 것도 쓸모가 있구나…	Not feeling pain comes in handy after all...						0	
+b-7											0	
+38	你……	你……	マ……	캣…	You...						0	
+39	眼前的少女微笑着闭上眼瘫软下来，我手忙脚乱地接住了她的身体。	眼前的少女笑著閉上了雙眼往旁摔落，我手忙腳亂地接住了她。	目の前の少女は微笑みながら目を閉じて、私は慌てて脱力した彼女の体を受け止めた。	소녀는 미소를 지은 채 눈을 감더니 몸에서 힘이 빠져나갔다. 난 허둥지둥 그녀의 몸을 받아 안았다.	The girl in front of me smiled, her eyes fluttering closed before she slumped to the ground. I rushed over to catch her.						0	
+40	这具身体娇小而温暖，胸腔传来强有力的心跳，怎么会有人觉得她像台机器人呢？	嬌小而溫暖的身軀傳來強而有力的心跳聲，怎麼會有人覺得她像機器人呢?	その体は華奢で温かく、胸から力強い心音が聞こえてきた。そんな彼女をロボット扱いする人がいるなんて不思議なくらいだ。	작고 따뜻한 몸, 가슴에서 전해지는 힘 있는 심장박동, 그녀가 로봇이란 걸 누가 상상이나 할 수 있겠는가?	Her body was small and warm, and I could feel a strong heartbeat in her chest. How could anyone compare her to a robot?						0	
+41	还好大部分伤口都没有触及重要器官，休养一段时间能痊愈了。	幸好大多數的傷口都沒有傷及重要器官，休養一段時間便能痊癒。	幸いにも重要な器官はほとんど傷ついておらず、しばらく休養すれば治るでしょう。	다행히도 대부분의 상처가 주요 기관들을 피해 가서, 한동안 쉬면 완쾌될 겁니다.	Thankfully, most of her wounds had avoided the vital organs. They would heal after some rest and recuperation.						0	
+42	病人的麻醉已经清醒了，可以去探望了。	傷患的麻醉已經退了，可以去探望她了。	患者の麻酔は切れたので、お見舞いに行っても大丈夫ですよ。	환자가 마취에서 깨어났으니 만나봐도 괜찮습니다.	The patient has woken up from the anesthesia. She's ready to take visitors.						0	
+b-8											0	
+43	谢……谢谢。	謝……謝謝。	あ……ありがとう。	고… 고맙습니다.	Th...Thank you.						0	
+44	猫汐尔救了我后面的事都有些记不清了，就只记得我恢复意识时，已经等在了病房的门外。	我對於貓汐爾救了我之後的記憶非常模糊，只記得當我恢復意識時，已經站在了她的病房門前。	マーシルに救われてからのことはぼんやりしていて、気がついたら病室のドアの外で待っていたことだけ覚えている。	캣 시에라는 날 구해준 다음의 일은 기억하지 못했고, 깨어난 뒤 내가 병실 문 밖에서 기다리고 있던 것만 기억할 뿐이었다.	I could hardly remember anything from after Mauxir saved me. I only knew that when I regained consciousness, I was already waiting outside her hospital room.						0	
+45	我没有受伤，猫汐尔伤口很多，但都不致命。	我毫髮無傷，貓汐爾遍體鱗傷但所幸都不致命。	私は無傷で、マーシルはところどころ怪我をしているが、致命傷は受けていない。	난 다치지 않았고, 캣 시에라는 여러 군데 부상을 당했지만 치명상은 없었다.	I wasn't hurt. Mauxir had several injuries, but none of them were fatal.						0	
+46	死亡并没有选择我们。	死神並沒有選擇我們。	死は私たちを選ばなかった。	죽음은 우리를 선택하지 않았다.	Death didn't choose us this time.						0	
+47	分析员你来了。	分析員你來了喵。	あ、分析員。	분석가, 왔구나.	Adjutant, you're here.						0	
+48	猫汐尔看起来有些虚弱，但是精神很好。	貓汐爾看起來很虛弱，但她精神狀態不錯。	マーシルはちょっと弱々しく見えるけど、とても落ち着いているようだ。	캣 시에라는 힘이 없어 보였지만, 정신은 멀쩡했다.	Mauxir looked somewhat weak, but she was clearly in good spirits.						0	
+49	今天是个阴天，出门应该不需要考虑太阳晒伤了呢。	今天是陰天，出門應該不需要擔心防曬了呢。	今日は曇りだから、外に出るのに日焼け止めを塗らなくてもいいよね。	오늘은 날씨가 흐려. 외출할 때 햇볕에 탈 일은 없겠다.	It's cloudy today, so you don't need to worry about getting sunburned if you go outside.						0	
+b-9											0	
+50	你竟然还在看那本奇怪的书。	你竟然還在看那本奇怪的書。	まだあの変な本を読んでいるのか。	그 이상한 책을 아직도 읽고 있구나.	You're still reading that weird book, huh?						0	
+51	看到分析员有些低落，不自觉地就使用了书上的东西。	看到分析員情緒低落，下意識地就用了書上的內容。	咄嗟に読んだものの話しちゃった。分析員、元気なさそうだったから。	분석가가 좀 슬퍼 보여서, 나도 모르게 책의 구절을 인용했다.	You looked a little upset, so I used what I learned from that book without thinking.						0	
+b-10											0	
+52	谢谢你救了我。	謝謝你救了我。	助けてくれてありがとう。	구해줘서 고마워.	Thank you for saving me.						0	
+53	不用谢的，当时分析员和重要的任务数据在一起，无论怎么想保护分析员都是性价比最高的选择。	不用道謝，當時分析員和重要的任務數據在建築物內，無論怎麼想肯定都是要優先保護分析員。	そんな、お礼なんて。あの時分析員は重要なデータを持っていたから、どう考えてもあなたを守るのが一番有効な選択だったでしょ。	천만의 말씀. 분석가가 중요한 미션 데이터를 가지고 있었으니, 분석가를 보호하는 게 가성비가 가장 좋은 선택이었다.	Of course. You had important mission data with you. No matter how you look at it, protecting you was the most effective use of my energy.						0	
+54	对不起都怪我。	對不起都怪我。	すまない、私のせいで。	다 나 때문이야, 미안해.	I'm sorry. It was all my fault.						0	
+55	分析员并不需要内疚，身为天启者的我虽然我会受一定程度的外伤，但并不会有性命之忧，分析员你就不一定了。	分析員不需要內疚，身為天啟者的我雖然會受傷，但並沒有性命之憂，然而分析員你就不一樣了。	謝らなくてもいいのに。覚醒者の私はある程度怪我しても命の危険はないけど、分析員の場合は危ないかもしれないよ。	죄책감 가질 필요 없다. 계시자인 나는 외상을 입더라도 생명에 지장은 없지만, 분석가는 나와 다르다.	Don't feel guilty, Adjutant. I'm a Manifestation. I might get hurt, but my life isn't in danger. You can't say the same about yourself.						0	
+56	更何况我不会痛，这是经过计算后的最佳选择了。	更何況我還不會痛，這是經過我分析後的最佳選擇。	それに私は痛みを感じないし、あれがベストな選択だったと思うよ。	게다가 난 통증을 느끼지 못한다. 그게 내가 계산한 최선의 선택이었다.	Not to mention I won't feel any pain. My calculations showed that it was the best option.						0	
+b-11											0	
+57	还真是理性呢。	還真是理性呢。	本当に理性的だな。	정말 이성적이구나.	That's a very rational assessment.						0	
+58	不管怎么说，分析员的性命值得我拯救，毕竟我还没有开始对你的研究呢。	不管怎麼說，分析員值得我捨命相救，畢竟我還沒開始對你的研究喵。	ともあれ、分析員の命を救った甲斐があるよ。まだ始めてないけど、私の研究対象だからね。	어쨌든 분석가의 목숨은 구할 만한 가치가 있었다, 분석가에 대한 연구를 아직 시작하지 않았으니까.	Either way, your life is worth saving, Adjutant. I still haven't begun researching you, after all.						0	
+b-12											0	
+59	还是要谢谢你，猫汐尔	還是要謝謝你，貓汐爾	やっぱり感謝するよ、マーシル	그래도 고마워, 캣 시에라.	Well, thank you anyway, Mauxir.						0	
+60	没想到又经历了一次“维修”呢……	沒想到又經歷了一次「維修」呢……	また「メンテ」されるとはね……	또 '수리'를 받게 될 줄은 몰랐지만…	I didn't think I'd be undergoing "maintenance" again...						0	
+b-13											0	
+61	趁现在休息一下也不错。	趁現在休息一下也不錯。	今のうちに休むのも悪くないかも。	이참에 쉬는 것도 좋을 거야.	Then you should use this time to rest.						0	
+62	确实也有道理，分析员，能拜托你一件事吗？	確實也有道理，分析員，能拜託你一件事嗎?	そうかもね。分析員、ちょっとお願いできる？	맞는 말이다. 분석가, 부탁 하나만 해도 될까?	That makes sense. Adjutant, could you do me a favor?						0	
+b-14											0	
+63	什么事？	什麼事？	何？	뭔데?	What's up?						0	
+64	下次来探望时，能帮我把寝室里那本《人类社交话术大全》带来吗？	下次來探病時，能幫我把寢室裡那本《人類社交話術大全》帶來嗎?	今度お見舞いに来るとき、寝室にある「人間社会会話百科事典」を持ってきてくれる？	다음 병문안 올 때 침실에 있는 <인류 사교 대화 모음집> 좀 가져다줄 수 있겠나?	Next time you come to visit, could you bring me a book from my room? It's called "Encyclopedia of Human Social Skills."						0	
+b-15											0	
+65	……好。	……好。	……分かった。	… 알았어.	...Alright.						0	

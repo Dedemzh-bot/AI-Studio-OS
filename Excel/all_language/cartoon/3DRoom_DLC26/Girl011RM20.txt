@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	今天一下班，就收到了恩雅让我陪她去夹娃娃的邀请。	今天一下班，就收到了恩雅要我陪她去夾娃娃的邀約。	今日、仕事が終わった瞬間、\nクレーンゲームに付き合ってほしいとエンヤに誘われた。	오늘 퇴근하자마자 같이 인형 뽑기 하러 가자는 엔야의 초대를 받았다.	As soon as I got off work, Enya invited me to go play the claw machine with her.						0	2.6版本恩雅随机事件
+page1.2	分析员！这边这边！	分析員！這邊這邊！	分析員！こっちこっち！	분석가! 여기야, 여기!	Adjutant! Over here!						0	2.6版本恩雅随机事件
+page1.3	嗯哼，正好让我来看看，是哪只娃娃赢得了我们恩雅姐姐的欢心呢？	嗯哼，剛好讓我來看看，是哪隻娃娃贏得了我們恩雅姐姐的歡心呢？	さて、エンヤお姉さんの心を奪ったぬいぐるみはどれかな？	으흠, 어디 보자, 어떤 인형이 우리 엔야 누님의 환심을 살 수 있을까?	Hmm, let me see. Which doll caught your eye, Enya?						0	2.6版本恩雅随机事件
+page1.4	倒不是看上哪只娃娃了啦。	也不是看上哪隻娃娃啦。	いえ、別にぬいぐるみがほしいわけじゃないんですけどね。	정확히 어떤 인형이 갖고 싶은 건 아니고.	None of them. That's not that point~						0	2.6版本恩雅随机事件
+page1.5	是有一只娃娃的衣服裂开了。想取出来补补。	是有一隻娃娃的衣服裂開了。想拿出來補一下。	中に入っているぬいぐるみの服が破れてるのを見て、直してあげたいなって思ったんです。	옷이 찢어진 인형이 보여서, 꺼내서 수선하고 싶어서 그래.	This one's clothes are torn. I want to win it so I can fix them.						0	2.6版本恩雅随机事件
+page1.6	原来如此。需要打开娃娃机对吧？	原來如此。需要打開娃娃機對吧？	なるほど。じゃあ機材をあけてもらおうか。	아, 그래서 인형 뽑기 기계를 열어야 하는 거죠?	Ah, I see. Should we open up the machine then?						0	2.6版本恩雅随机事件
+page1.7	不是喔，是想分析员亲自帮忙夹出来。	不是喔，是想分析員親自幫忙夾出來。	ううん、分析員の手で取ってほしいです。	아니, 분석가가 그 인형을 뽑아줘.	Nope. I want you to help me win it, Adjutant.						0	2.6版本恩雅随机事件
+page1.8	之前在某个视频看到过：两个人一起趴在玻璃前夹娃娃，是非常有助感情升温的约会方式之一呢。	之前在某個影片看到過：兩個人一起趴在玻璃前夾娃娃，是非常有助感情升溫的約會方式之一呢。	昔、とある動画で見たんですが、一緒にクレーンゲームでぬいぐるみを取るのは仲を深めるためのいいデート案らしいです。	전에 어떤 영상을 본 적 있는데, 같이 인형을 뽑는 게 감정을 키우는 데 매우 도움이 되는 데이트 방법 중 하나라고 하더라고.	I once saw in a video that playing a claw machine, huddled up against the glass together, is one of the best ways to bond on a date.						0	2.6版本恩雅随机事件
+page1.9	原来是这个打算。	原來是這個打算。	そういうことだったのか。	그럴 생각이었군요.	So that was your plan.						0	2.6版本恩雅随机事件
+page1.10	不过它的位置是不是不太好抓……	不過它的位置是不是不太好抓啊……	でも、なかなか取りづらい場所にありますね。	잘 뽑히는 위치가 아닌 것 같네…	But it's kind of stuck in there...						0	2.6版本恩雅随机事件
+page1.11	嗯，确实有些麻烦，毕竟大半个身子都被其他娃娃压住了。	嗯，是有點麻煩耶，畢竟一半的身體都被其他娃娃壓住了。	そうだな……体の大半がほかのぬいぐるみに埋もれている。	네, 위치가 확실히 좀 애매하네요. 몸의 절반이 다른 인형 밑에 눌렸네요.	Yeah, it's a tough one. It's being weighed down by a bunch of other dolls, after all.						0	2.6版本恩雅随机事件
+page1.12	那我们先打开机器挪……	那我們先打開機器挪……	やっぱり開けてもらったほうが……	그럼 인형 뽑기 기계부터 움직여 보는 게…	I guess we could open up the machine and move—						0	2.6版本恩雅随机事件
+page1.13	不必。	不用。	いや。	그럴 필요 없어요.	No need.						0	2.6版本恩雅随机事件
+page1.14	问题不大。先把压住她的娃娃全抓上来就好了。	小事。先把壓住她的娃娃全部抓上來就好了。	上に重なってるぬいぐるみも全部取ればいい話だ。	괜찮아요. 먼저 위에 있는 인형을 전부 뽑으면 돼요.	It'll be a cinch. We just need to grab all the dolls pinning her down first.						0	2.6版本恩雅随机事件
+page1.15	诶！就知道分析员哥哥最厉害啦！	欸！就知道分析員哥哥最厲害了！	なるほど……！さすが、分析員のおにーちゃん！	아잇! 역시 분석가가 최고야!	Hehe~ I knew you were the best, Adjutant!						0	2.6版本恩雅随机事件

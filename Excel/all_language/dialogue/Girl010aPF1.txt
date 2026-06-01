@@ -1,0 +1,77 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我打着哈欠，无精打采地看着通讯器另一端的肴。	我打著哈欠，無精打采地看著通訊器另一端的肴。	あくびをしながら、通信機の向こう側にいる肴を元気なく見ている。	나는 하품을 하며 피곤한 상태로 야오의 화상 통화를 수신했다.	I yawned and looked sleepily at Yao on the other end of my receiver.						0	
+2	顺便瞥了眼时间，早上七点整。	順便瞥了眼時間，早上七點整。	ついでに時間を確認した。朝7時きっかり。	시간을 보니 이른 아침인 일곱시 정각이었다.	I'd shut my eyes for a minute, and suddenly it was 7 AM on the dot.						0	
+3	原本打算在休假日睡懒觉的计划就这样被这个家伙破坏了。	原本打算在休假日睡懶覺的計劃就這樣被這個傢伙破壞了。	休日に寝過ごす予定がこいつに崩された。	원래 계획대로라면 휴일에 늦잠을 자는 건데… 이 녀석 때문에 망친 것 같았다.	I'd planned to have a nice lazy day off, but she just had to come ruin it.						0	
+4	都这个点儿了，你竟然还没起床，真让人嫉妒啊。	都這個時間了，你竟然還沒起床，真讓人嫉妒啊。	こんな時間にまだ寝てんの？羨ましい奴。	이야… 지금이 몇 신데 아직도 남부럽게 자고 있고.	I'm jealous. It's this late and you're still in bed.						0	
+5	等等……你穿睡衣的样子我还是第一次见，竟然还有点可爱？	等等……你穿睡衣的樣子我還是第一次看到，竟然還有點可愛？	ちょっ……パジャマ姿は初めて見た。なんか可愛くない？	기다려봐…	Hold on... I haven't seen you in pajamas before. You're actually kind of cute?						0	
+6	我要保存留念！	我要截圖留念！	記念に撮ってやろ！	지금 이 모습 캡처 좀 해야겠다.	Let me take a screenshot!						0	
+b-1											0	
+7	……没什么要紧事我要挂断通讯了。	……沒什麼要緊事我要掛斷通訊了。	……用がないなら切るよ。	… 급한 일 아니면 통신 끊는다.	... I'll hang up if there's nothing urgent.						0	
+8	别！	別！	待って！	어어… 기다려!	No—!						0	
+9	上次的约定你没忘吧？	上次的約定你沒忘吧？	この前の約束、忘れてないよね？	지난번 약속 잊었어?	You remember our promise, right?						0	
+10	约定……	約定……	約束……	약속…	Our promise...						0	
+11	我当然没有忘记，肴在异化人的包围下救了我一命，我答应欠她一件事，看来现在终于到了兑现的时候。	我當然沒有忘記，肴在異化人的包圍下救了我一命，我答應欠她一件事，看來現在終於到了兌現的時候。	もちろん覚えてる。私が変異者に囲まれた時、肴に助けられた。その時の借りを、今返す時みたいだ。	당연히 잊지 않았다… 변이자에게 포위되어 있을 때 목숨을 구해줬고, 그래서 한턱 쏘기로 약속했었고…	Of course I remembered. Yao had saved me when I was surrounded by the Changed and I'd promised her a favor. Looks like she'd found a way to claim it.						0	
+12	在我出外勤这段时间，我的绿植就拜托给你了，现在它就摆在基地天台的阴凉处。	在我出外勤這段時間，我的綠植就拜託給你了，現在它就擺在基地天台的陰涼處。	外勤の間、私の鉢植えはあんたに任せる。今は社員寮の屋上の日陰にある。	오늘 내가 외근을 좀 나가야 하는데, 내가 기르고 있는 식물을 좀 부탁하려고. 지금 숙소 옥상의 그늘에 놓여있어.	I'd like you to take care of my plant while I'm out in the field. It's in the shade on the roof of the Base.						0	
+13	你要定期帮它浇水，偶尔搬到天台晒下太阳但不能久晒，天气糟糕时记得搬回宿舍。	你要定期幫它澆水，偶爾搬到天臺曬下太陽但不能久曬，天氣糟糕時記得搬回宿舍。	定期的に水をやって、たまに日当たりのいいところに出して、ただし長時間日光に当てるのは禁物。あと天気が悪い時は部屋に運んで。	정기적으로 물만 주면 돼. 가끔 옥상에서 햇볕도 좀 쬐어주고… 근데 오래 쬐지는 말고. 날씨 나쁠 때는 집으로 다시 옮겨주고.	You'll need to water it regularly and give it sunlight now and then, but not too much. When the weather's bad, remember to bring it back inside the dorm.						0	
+14	不会麻烦你太久，最迟一个星期，我就会回来带走它。	不會麻煩你太久，最多一個星期，我就會回來帶走它。	長くはない。遅くとも1週後には私が連れて帰る。	오래는 아니고 한 일주일 정도만 봐줬으면 해. 금방 가지러 갈게.	It won't be longer than a week, don't worry. After that, I'll come take it away with me.						0	
+b-2											0	
+15	就……这样？	就……這樣？	そ、それだけ……？	그게… 끝이야?	... Just that?						0	
+16	我有点错愕，我以为肴会要求我做一件更重要的事情。	我有點錯愕，我以為肴會要求我做一件更重要的事情。	少し驚いた。もっと大事なことを要求されるのかと思っていた。	사실 조금 당황했다. 야오가 이 정도만 요구할 거라 생각하지 않았기 때문이다.	I felt a bit stunned. I'd thought Yao would want me to do something more important for her.						0	
+17	喂，它可是我的小心肝，千万照顾好它。	喂，它可是我的小心肝，千萬照顧好它。	ちょっと。私の大事な子だから、ちゃんと面倒を見てよね。	어허… 이래 봬도 내 애착물이라고. 간수 잘 해야 해!	Hey, he's my little cinnamon roll. Take good care of him.						0	
+18	交给你没问题吧。	交給你沒問題吧。	いい？	너한테 줘도 문제 없겠지?	I'm sure I can trust you with him.						0	
+19	肴用的是肯定句，迫于她的气势我只得点了点头。	肴用的是肯定句，迫於她的氣勢我只好點了點頭。	有無を言わさぬ物言いに圧倒され、頷くしかない。	야오의 기세에 눌려 나는 고개를 끄덕일 수밖에 없었다.	Yao's statement and the strength with which she said it left me with no choice but to nod.						0	
+20	那我去忙了，回见！	那我去忙了，回頭見！	じゃあ用事があるから、また！	그럼 난 간다. 돌아와서 봐!	I've got to go now. See ya!						0	
+21	就是这一盆？	就是這一盆？	……この鉢か？	고작 이거 하나라고?	Is it this pot?						0	
+22	平平无奇的素白瓷盆内盛着黑色的土壤，不管怎么看，也只有一盆土，或许是种子尚未发芽。	平平無奇的樸素白瓷盆內盛著黑色的土壤，不管怎麼看，也只有一盆土，或許是種子尚未發芽。	普通の白い陶器鉢の中に黒い土が入っている。どう見ても、ただの土を入れた鉢だ。まだ芽が出てないのかも。	밋밋하고 간소한 대야에 검은색 흙만이 담겨 있었는데 싹도 안 틔운 흙이었다.	The simple white flower pot was filled with black soil. There wasn't any plant to be seen, but perhaps there were seeds soon to sprout.						0	
+23	这到底是一盆什么植物？	這到底是一盆什麼植物？	どんな植物なんだろう？	도대체 어떤 식물이길래…	I wonder what kind of plant this is?						0	
+24	这么关键的问题，肴没有说，我也忘了问，只能试探着每隔一天给它浇一次水，偶尔将它搬到天台来晒晒太阳。	這麼關鍵的問題，肴沒有說，我也忘了問，只能試探著每隔一天給它澆一次水，偶爾將它搬到天臺來曬曬太陽。	そんな大事なことを、肴は言わなかった。私も聞きそびれた。試しに1日おきに水やりをして、たまに屋上に運んで日光に当てた。	가장 중요한 점을 야오가 짚어주지 않아서 말해준 대로 격일로 물만 주고, 이따금씩 옥상으로 옮겨 햇볕을 쬈다.	Yao hadn't told me this critical piece of information, and I'd forgotten to ask. All I could do was water it like she'd said and give it some sunlight.						0	
+25	一个星期过去了，种子还是没有发芽，我越来越担心是不是我照料的方式不对。	一個星期過去了，種子還是沒有發芽，我越來越擔心是不是我照料的方式不對。	1週間が過ぎた。まだ芽生えていない。育て方を間違えたかとますます心配になった。	일주일이 지났지만 씨앗은 싹을 틔울 모습을 보이지 않았고, 나는 돌보는 방식이 잘못된 건가 해서 슬슬 걱정이 들었다.	A week passed and the pot showed no signs of sprouting. I started to worry that I'd done something wrong.						0	
+26	更糟糕的是，肴并没有如约出现……	更糟糕的是，肴並沒有如約出現……	しかしそれ以上の問題が起きている。肴が約束通りに戻って来ない。	더 당황스러운 건 야오가 약속한 시간대로 오지 않았다는 것이다.	What's worse was that Yao still hadn't shown up...						0	
+27	playername，原来你也收到了集合指令。	playername，原來你也收到了集合指令。	playername、あなたも集合の指令を受けたんだね。	playername, 너도 집합 명령 받았구나.	playername, I see you got the orders to meet up, too.						0	
+28	太好了，看来我们又可以一起行动了！	太好了，看來我們又可以一起行動了！	よかった、また一緒に行動できるね！	좋았어! 같이 움직이면 되겠다!	Awesome. Looks like we can head out on an operation together!						0	
+29	欸，你怎么抱着个空花盆？	欸，你怎麼抱著個空花盆？	え？その植木鉢どうしたの？	응…? 근데 화분은 왜 안고 있는 거야?	Huh? What's that empty pot you're holding?						0	
+b-3											0	
+30	这个？我还没来得及送回宿舍。	這個？我還沒來得及送回宿舍。	これ？寮に戻そうと思ったが間に合わなかった。	아 이거? 숙소에 뒀어야 하는데…	This? I ran out of time to return it to the dorms.						0	
+31	以芙提雅的性格一定会刨根问底，我正头疼该怎么回应她，卡罗琳走进了指挥室，身旁还跟着李秋雪上尉。	以芙提雅的性格一定會刨根問底，我正頭痛該怎麼回應她，卡羅琳走進了指揮室，身旁還跟著李秋雪上尉。	フリティアのことだ。きっと根掘り葉掘り聞いてくるだろう。どう答えるか困っていると、カロリンが指揮室に入った。隣に李秋雪大尉がついている。	프티야의 질문에 나는 어떻게 대답할지 몰라 순간 골머리를 앓았다. 이내 캐롤린이 있는 지휘실로 들어갔고, 그 옆에는 이초설 대위가 있었다.	Fritia definitely wouldn't be satisfied until she got the whole story. As I was racking my brains trying to deal with her, Caroline came into the command room with Captain Li by her side.						0	
+32	既然人到齐了，那我们正式开始吧。	既然人到齊了，那我們正式開始吧。	人が揃ったなら、始めましょう。	다 왔으니 그럼 시작해 볼까요.	Now that we're all here, let's begin.						0	
+33	一星期前，肴奉命前往深水区执行勘察任务。	一星期前，肴奉命前往深水區執行勘察任務。	一週間前、肴は調査任務を遂行しに深海エリアに行きました。	일주일 전, 야오가 미션을 받아 심수 구역으로 탐사를 하러 들어갔어요.	One week ago, Yao was sent to the Drowned Sections to perform a surveillance mission.						0	
+34	三天前，指挥室收到肴的通讯，任务目标顺利达成。	三天前，指揮室收到肴的通訊，任務目標順利達成。	3日前、指揮室は肴からの連絡を受けました。任務達成との報告でした。	3일 전, 지휘실에서 야오의 통신을 받았고 미션 목표도 순조롭게 달성할 수 있었죠.	The command room received a message from Yao three days ago stating that the mission had been successfully completed.						0	
+35	关于这点，指挥室已确认无误，不过肴在执行任务的过程中，又发现了一些别的状况。	關於這點，指揮室已確認無誤，不過肴在執行任務的過程中，又發現了一些別的狀況。	指揮室はその報告が正しいと確認しました。しかし肴が任務を遂行する過程で、新たな事態が起こりました。	이에 있어서 지휘실도 이상이 없음을 확인했지만, 야오가 미션을 진행하던 중 다른 하나를 또 발견하게 됐어요.	The command room has confirmed the authenticity of the message. However, we've found conflicting information concerning the mission's success.						0	
+36	老李，接下来最好还是由你来进行说明。	老李，接下來最好還是由你來進行說明。	李さん、後の説明はお任せします。	대위님도 마침 오셨으니 구체적인 건 대위님이 마저 설명 좀 해주세요.	Li, I think it's best if you take over from here.						0	
+37	……好。	……好。	……はい。	… 알겠습니다.	...Alright.						0	
+38	近日来军方收到多起人员失踪报告，有个缓冲区的目击者声称，曾见到失踪人员跟随降临团进入污染区。	近日來軍方收到多起人員失蹤報告，有個緩衝區的目擊者聲稱，曾見到失蹤人員跟隨降臨團進入汙染區。	最近軍に人が行方不明になったという通報がいくつも入った。バッファーエリアにいる目撃者の情報によると、失踪者は降臨団と一緒に汚染エリアに入ったのを見たらしい。	최근 많은 사람들이 실종됐다고 합니다. 버퍼 구역에서 한 목격자가 실종된 사람이 강림단을 따라 오염 구역에 들어가는 걸 봤다더군요.	The military's been getting a lot of missing persons reports. A witness in the Buffer Sections claims to have seen missing persons following the Adventists into the Contaminated Sections.						0	
+39	我们虽然一直在关注降临团的动向，但还没有实质证据能证明失踪人员是被以强制性手段带入污染区，不好直接展开行动。	我們雖然一直在關注降臨團的動向，但還沒有實際證據能證明失蹤人員是被以強制性手段帶入汙染區，不好直接展開行動。	降臨団の動向はずっと監視しているが、失踪者が汚染エリアに連行されたことを証明できる実質的な証拠がないので、動きにくい。	강림단 동향을 주시하고 있지만, 실종자들이 강제로 오염 구역에 유입됐다는 실질적인 증거는 없어 직접 군에서 행동할 명분이 없습니다.	We're always following the Adventists' movements, but we don't have real proof that the missing persons have been forced to enter the Contaminated Sections, making it hard to launch an operation at once.						0	
+40	点子就在眼前，却不能动手的滋味不好受吧。	目標就在眼前，卻不能動手的滋味不好受吧。	敵が目の前にいるのに、動けないのは辛いでしょう。	눈 앞에서 명백히 봤는데 손을 쓸 수 없다는 게 괴롭네요.	It doesn't feel good to have an itch you can't scratch, does it?						0	
+41	咳，卡罗琳，这并不是重点。	咳，卡羅琳，這並不是重點。	ゴホン。カロリン、重要なのはそこじゃない。	흠… 그건 중요한 게 아니에요.	Ahem, Caroline. That's not important here.						0	
+b-4											0	
+42	这和肴有什么关系？	這和肴有什麼關係？	肴と何か関係があると？	이게 야오와 무슨 관계가 있다는 거죠?	What does this have to do with Yao?						0	
+43	肴发现降临团和这些失踪人员出现在污染区的西边，推测他们的目的地是西边的一处<orange>废弃工厂</>。	肴發現降臨團和這些失蹤人員出現在汙染區的西邊，推測他們的目的地是西邊的一處<orange>廢棄工廠</>。	肴は降臨団と失踪者が汚染エリアの西側に出没していることに気づいた。よって彼らの目的は西側にある<orange>廃工場</>と推測する。	당시 강림단하고 실종자들이 오염 구역 서쪽에 있는 걸 야오가 발견해서, 행선지는 서쪽 <orange>폐공장</>에 있을 것으로 예상됩니다.	Yao spotted the Adventists in the west part of the Contaminated Sections along with the missing persons. Their target was believed to be an <orange>Abandoned Factory</> in the west.						0	
+44	除此之外，肴还认出其中一名失踪人员是她的旧识。	除此之外，肴還認出其中一名失蹤人員是她的舊識。	それに、失踪者の中に肴の知り合いがいた。	이 밖에도 야오는 실종자 중 한 명이 그녀의 옛 친구라는 것도 알아냈습니다.	Yao also recognized one of her old acquaintances among the missing persons.						0	
+45	是我将这部分消息发给了老李。当然，消息不是白给的。	是我將這部分消息發給了老李。當然，消息不是白給的。	この情報は私が李さんに送りました。もちろん、タダではありません。	이건 제가 이대위님께 드렸던 정보에요. 물론 거저 준 건 아니지만…	I'm the one who passed this information onto Captain Li. For us to do something about it, of course.						0	
+46	我一收到消息，就立刻向海姆达尔部队请求协助。	我一收到消息，就立刻向海姆達爾部隊請求協助。	情報を受け、すぐにヘイムダル部隊に協力を要請した。	저도 이 소식을 받고 헤임달 부대의 도움이 절실하다고 생각했습니다.	As soon as I got the intel, I headed straight to Heimdall Force to request support.						0	
+47	三天前，肴正式接受了军方和海姆达尔的联合秘密行动，目标是扮作平民混入工厂收集证据。	三天前，肴正式接受了軍方和海姆達爾的聯合秘密行動，目標是扮作平民混入工廠收集證據。	3日前、肴は正式に軍とヘイムダルの秘密連合任務を受けました。目的は一般人に扮して工場に潜り込み、証拠を収集することです。	3일 전, 야오는 군 측과 헤임달 부대의 합동 비밀 작전을 공식 수용하고 민간인으로 위장해 공장에 들어가 증거를 수집하려 했죠.	Three days ago, Yao formally accepted a joint secret operation between the military and Heimdall Force, which involved disguising as a commoner to enter the factory and gather evidence.						0	
+48	原本一切顺利，可出了点岔子。	原本一切順利，可出了點狀況。	うまくいったはずですが、予期せぬ出来事が起こりました。	모든 게 순조로웠었는데 약간의 문제가 생겼어요.	Things should've gone smoothly, but something went wrong.						0	
+49	迄今为止，肴已经24小时没有与指挥室联络了。	迄今為止，肴已經24小時沒有與指揮室聯絡了。	既に24時間、指揮室に肴からの連絡がありません。	지금까지 24시간이 넘었는데도 불구하고 지휘실과 연락이 계속 두절된 상태에요.	Now marks exactly 24 hours since Yao last made contact with the command room.						0	
+50	卡罗琳面色渐渐凝重。	卡羅琳面色漸漸凝重。	カロリンはどんどん深刻な顔になった。	캐롤린의 안색이 점점 굳어졌다.	Caroline's expression became darker.						0	
+51	我相信以肴的生存能力一定会平安无事。	我相信以肴的生存能力一定會平安無事。	肴の生存能力ならきっと無事でいてくれると信じてます。	저는 야오가 생존능력은 뛰어나다고 생각해서 큰 문제는 없을 거라고 생각해요.	I believe that Yao is safe and sound, given her remarkable survival skills.						0	
+52	playername，芙提雅，你们两个曝光度不高，外表看起来威胁性也不强。	playername，芙提雅，你們兩個曝光度不高，外表看起來威脅性也不強。	playername、フリティア、あなたたちは知名度が低く、外見も弱く見えます。	playername, 프티야, 두 분은 겉보기에 위협적이지 않고 눈에 딱히 튀지도 않으니까 잘 해낼 거라 생각하고…	playername, Fritia. You two aren't that well-known, nor do you look threatening.						0	
+53	这次行动需要尽可能地低调进行，希望你们能潜入工厂，与肴会合，助肴达成目标。	這次行動需要盡可能地低調進行，希望你們能潛入工廠，與肴會合，助肴達成目標。	今回の任務はなるべく目立たないように行います。あなたたちには工場に潜り込み、肴と合流し、目的の達成を手伝って欲しいのです。	미션은 최대한 조심스럽게 진행해야 해요. 두 분이 공장으로 잠입해서 야오의 미션을 도와 완수해 주셨으면 해요.	This operation needs to be as low-key as possible. I want you to infiltrate the factory, reunite with Yao and help her achieve her targets.						0	
+54	就交给二位了，一旦拿到证据，天启者小队将立刻展开行动。	就交給二位了，一旦拿到證據，天啟者小隊將立刻展開行動。	お二人に任せる。証拠を手に入れたら、すぐに覚醒者隊を動かす。	그럼 증거가 확보되는 대로 계시자 소대가 움직이면 될 것 같습니다.	I'm counting on you two for this. The Manifestation squad will take action the moment you get hold of the evidence.						0	
+b-5											0	
+55	明白！	明白！	了解！	알겠습니다!	All clear!						0	
+56	就包在我身上吧！	就包在我身上吧！	私に任せて！	프티야한테 맡겨만 줘!	You can count on me!						0	
+57	我正准备离开指挥室，就被卡罗琳叫住了。	我正準備離開指揮室，就被卡羅琳叫住了。	指揮室を出ようとすると、カロリンに呼び止められた。	이어서 지휘실을 나오던 중, 순간 캐롤린한테 붙잡혔고.	I was about to leave the command room when Caroline called me.						0	
+58	等等！	等等！	待ってください！	잠깐만요!	One moment!						0	
+59	你手上抱着的是什么？	你手上抱著的是什麼？	抱えているのは何ですか？	근데 손에 들은 건 뭐죠?	What's that you're holding?						0	
+b-6											0	
+60	肴托我照料的绿植，有什么不对么？	肴託我照料的綠植，有什麼不對嗎？	肴に頼まれた鉢植えだけど、どうかした？	야오가 부탁했던 식물이야. 무슨 문제라도 있어?	Yao got me to look after her plant. Is something wrong?						0	
+61	还没有发芽么，种子大概已经腐烂了吧。	還沒有發芽嗎，種子大概已經腐爛了吧。	まだ芽が出ていないようですが、おそらく種が腐っているのでは。	아직 싹도 안 틔운 것 같은데 썩은 건 아니죠…?	It hasn't sprouted yet, huh? The seeds are probably all rotten.						0	
+62	不过既然是肴的，土里埋的是其它东西也说不定呢。	不過既然是肴的，土裡埋的是其它東西也說不定呢。	まあでも肴のものですから、埋まっているのは他のものかもしれません。	야오라면 흙 속에 다른 것을 묻었을지도 모르고…	But if that's Yao's, there could be something else planted inside there.						0	
+63	……以那家伙的作风，倒也不是没有可能。	……以那傢伙的作風，倒也不是沒有可能。	……あいつなら、あり得る。	그 녀석이면 가능성이 없는 건 아니긴 하죠…	... Knowing her, that's definitely possible.						0	
+64	以前她在我手下受训时，就做出过往枕头里偷藏食物的违纪行为。	以前她在我手下受訓時，就做出過往枕頭裡偷藏食物的違規行為。	昔肴が私の下で訓練を受けていた時、枕に食糧を隠す違反行為をしたことがある。	예전에 제 밑에서 훈련을 받을 때, 배게 밑에 먹을 걸 숨긴다거나 위계질서를 흐렸던 적이 한두 번이 아니니…	Back when she was training under me, she broke the rules by hiding food in her pillow.						0	
+65	什么？什么？让我也看看，这里面会是肴私藏的小金库么？	什麼？什麼? 讓我也看看，這裡面會是肴的私房錢嗎？	なになに？私にも見せて。この中に埋まっているのは肴のとっておきの貯金箱かな？	어머… 뭐라고? 나도 볼래! 혹시 이 속에 야오가 금고를 숨긴 게 아닐까?	Oh? Let me see, maybe she's got a stash of gold buried in there.						0	
+b-7											0	
+66	…………	…………	…………	……	...						0	
+67	我只好头疼地将花盆举到芙提雅踮脚也够不着的高度。	我只好頭疼地將花盆舉到芙提雅踮腳也夠不著的高度。	仕方なく、鉢をフリティアが背伸びしても届かない高さまで持ち上げた。	뭔가 골칫거리가 생길 것 같아 프티야가 까치발로도 볼 수 없는 높이로 화분을 들어 올렸다.	All I could do was hold the flowerpot high enough so that Fritia couldn't reach, even on tiptoes.						0	
+68	还是尽快找到肴吧……	還是盡快找到肴吧……	早く肴を見つけよう……	아무튼 하루 빨리 야오를 찾아야 할 것 같다…	I hope we find Yao soon...						0	

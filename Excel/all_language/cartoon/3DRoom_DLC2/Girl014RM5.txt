@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	你在读什么？	你在讀什麼？	何を読んでるの？	무슨 책을 읽고 있나요?	What are you reading?						0	
+page0.2	铁与水之舞，几十年前出版的奇幻史诗。	鐵與水之舞，幾十年前出版的奇幻史詩。	「鉄と水の舞い」、数十前に出版されたファンタジー叙事詩です。	'철과 물의 춤'이라고, 몇십 년 전에 출판된 판타지 서사시예요.	"A Dance of Iron and Water". It's a fantasy novel that was published decades ago.						0	
+page0.3	既有神奇的魔法，又有复杂的人性，分析员有时间的话也可以看看。	既有神奇的魔法，又有複雜的人性，分析員有時間的話也可以看看。	不思議な魔法や、複雑な人性が描写されていますから、分析員も時間があれば読んでみては？	신비로운 마법과 복잡한 인간성이 공존하는 작품이에요. 분석가님도 시간이 되면 한 번 읽어보세요.	It's filled with fantastical magic, but also the complexities of human nature. You can read it if you have time, Adjutant.						0	
+page0.4	好啊，我一定会看。	好啊，我一定會找時間看。	ああ、読んでみるよ。	좋아요, 기회가 되면 꼭 읽어볼게요!	Alright, I'll check it out.						0	
+page0.5	辰星。	辰星。	辰星。	수성 씨.	Chenxing.						0	
+page0.6	嗯？	嗯？	なんでしょうか？	네?	Yes?						0	
+page0.7	从第五研究所回来之后，你好像有哪里变得不一样了。	從第五研究所回來之後，你好像有哪裡變得不一樣了。	第5研究所から戻ってきて、なんか変わったね。	제5연구소에서 돌아온 후로, 뭔가 변한 것 같아요.	You seem a little different after we came back from the Fifth Research Institute.						0	
+page0.8	现在的你看起来松弛了很多。	現在的你看起來比之前放鬆。	今の辰星は落ち着いているように見える。	지금은 많이 괜찮아진 것처럼 보여요.	You seem more... relaxed.						0	
+page0.9	多亏了分析员，束缚我的那条枷锁已经不存在了。	多虧了分析員，束縛我的那條枷鎖已經消失了。	分析員のおかげで、私を縛る鎖はもうなくなりました。	분석가님 덕분에 절 구속하던 족쇄가 풀렸으니까요.	Thanks to you, Adjutant, the shackles that once trapped me are now gone.						0	
+page0.10	是你自己做出了正确的选择。	是你自己做出了正確的選擇。	それは辰星が正しい選択をしたからだ。	그건 수성 씨가 올바른 선택을 하셨기 때문에 그런 거예요.	You're the one who made the right choice.						0	
+page0.11	是我们选择了一致的方向。	是我們選擇了一致的方向。	私たちが同じ目標を目指したから。	아니요, 저희가 같은 방향을 선택했기 때문이에요.	We chose the same path forward.						0	
+page0.12	我再也不用做任何违背意愿的事情。	我再也不用做任何違背意願的事情。	これからは自分に噓をついて、したくもないことをしなくてよくなりました。	다시는 의지와 반대되는 결정을 하고 싶지 않아요.	I don't have to do anything against my will ever again.						0	
+page0.13	这感觉就像胸中有一口积了很久的气，终于被吐了出来。	這感覺就像終於吐出了長久積壓在胸口中的那一口氣。	ずっと我慢していたことを、我慢しなくてよくなると、すっきりします。	아주 오랫동안 참고 있던 숨을 드디어 내쉰 것 같아요.	It felt like a pocket of air was building up in my chest for such a long time. And i finally let it out.						0	
+page0.14	说实话，我也不知道自己今后会变成什么模样……	老實說，我也不知道自己今後會變成什麼模樣……	正直、これからどうなるかは分かりません……	솔직히 말해서, 저도 제가 나중에 어떻게 변할지 모르겠어요…	Honestly, I don't know how I might change in the future...						0	
+page0.15	无论什么模样，我都很期待。	不管是什麼模樣，我都很期待。	どうなるにしても、楽しみにしてるよ。	어떤 모습이든 정말로 기대돼요.	Well, no matter what, I'm looking forward to it.						0	

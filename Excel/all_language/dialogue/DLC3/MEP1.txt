@@ -1,0 +1,147 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	清澈的天空，透亮的海水，以及脚下那反射着太阳光芒的细腻沙滩……	晴朗的藍天、清澈的海水，以及腳下那反射著陽光的柔軟沙灘……	青い空、澄んだ海、そして光り輝く砂浜……	맑은 하늘, 투명한 바닷물, 그리고 눈 부신 태양에 빛을 반짝이는 부드러운 모래사장…	The clear blue sky overhead, crystalline seawater as far as the eye can see, and the soft sand under our feet shimmering in the sunlight...						0	1.3重置
+2	尚未被泰坦物质污染的小岛，似乎有着净化一切的力量。	尚未遭受泰坦物質汙染的小島，似乎擁有淨化一切的神奇力量。	まだタイタン物質に汚染されていない島は、全てを浄化する力があるようだ。	아직 타이탄 물질에 오염되지 않은 섬은 모든 것을 정화하는 힘을 가진 듯하다.	This island, free from all Titagen contamination, seemed to have the ability to purify everything.						0	1.3重置
+3	难得的假期啊……	難得的假期……	折角の休日……	얼마만의 휴가인지…	A hard-earned vacation...						0	1.3重置
+4	是啊，这里果然和卡罗琳说的一样，是个度假天堂呢。	是啊，這裡果然就如卡羅琳所說，是個渡假天堂呢。	ふふっ♪カロリンの言う通り、まるで天国のような場所ですね！	맞아, 캐롤린이 말한 대로 천국이 따로 없네.	Yeah, this place is exactly as Caroline described. It's a vacation paradise.						0	1.3重置
+5	恩雅已经把泳装换上了吗？	恩雅已經換好泳裝了嗎?	エンヤ姉はもう水着に着替えたのか？	엔야 누님은 벌써 수영복으로 갈아입은 건가요?	You already changed into your swimsuit, Enya?						0	1.3重置
+6	其实我一直都穿着哦。	其實我一直都穿著哦。	あら？最初から着ていましたよ♪	사실 줄곧 입고 있었어.	I actually had it on the whole time.						0	1.3重置
+7	喏，在船上时就像这样。	你看，在船上時就像這樣。	ほら、見ていてくださいね……	흠, 정확히는 배에서부터 수영복 차림이었지.	See? It looked like this when we were on the boat.						0	1.3重置
+8	将平常穿的衣服套在泳装外面……	泳裝外面套著平常穿的衣服……	普段着を水着の上に羽織って……	일상복을 수영복 위에 입고 있었으니까…	I just put my clothes on over it...						0	1.3重置
+9	怎么样，是不是完全看不出姐姐我穿着泳装呢~	怎麼樣，是不是完全看不出來姐姐我穿著泳裝呢~	どうですか？中が水着なの、全くバレませんでしたね〜♪	어때, 이렇게 하면 수영복을 입은 티가 안 나지~	What do you think? You can't even tell I'm wearing my swimsuit, right~?						0	1.3重置
+10	咳嗯，两位，现在可不是闲聊的时候。	咳嗯~兩位，現在可不是閒聊的時候。	コホン。お二人とも、呑気におしゃべりしてる場合じゃないわ。	저기, 두 사람, 지금은 한가롭게 잡담할 때가 아니야.	Alright, you two. Now isn't the time for chit-chat.						0	1.3重置
+11	别忘了，我们千里迢迢来到这里可不光光是为了度假。	別忘了我們千里迢迢來到這裡，可不光只是為了渡假。	言っとくけど、あたしたちはただ休むためにわざわざここに来たんじゃないんだからね。	우리가 멀리서 이곳까지 온 목적은 휴가 때문만이 아니라고.	Don't forget — we didn't come all the way here just to relax.						0	1.3重置
+12	还有场比赛在等着我们呢，就是那个叫什么什么……	還有比賽在等著我們呢，就是那個叫什麼什麼……	特別な試合に参加するんでしょ？ええと、なんて言ったっけ……	대회도 치러야 하잖아. 그, 이름이 뭐였더라…	There's a competition waiting for us. What was it called...?						0	1.3重置
+13	“海姆达尔海岛运动会”吧。	“海姆達爾海島運動會”對吧。	「ガルーアイランド運動会」ですよね！	헤임달 아일랜드 운동회'를 말하는 거지?	The "Heimdall Island Games."						0	1.3重置
+14	那么长的名字恩雅姐居然记得住？	恩雅姊竟然記得住那麼長的名稱?	何の捻りもセンスもない変な名前……よく覚える余裕あるわね、エンヤ姉……	엔야 언니는 어떻게 그렇게 긴 이름을 기억하는 거야?	Wow, you actually remember that, Enya?						0	1.3重置
+15	嗯，因为这场比赛非常重要……	嗯，因為這場比賽非常重要……	ええ、とても大事ですから…	응, 그야 이번 시합이 엄청 중요하니까…	Of course. This game really matters to me... I have to win.						0	1.3重置
+15_1	一周前……	一週前……	一週間前――	일주일 전…	One week earlier...						0	1.3重置
+21	最后，代号为“海姆达尔海岛运动会”的团建比赛并非强制活动，想要参加的人需要自己填写申请表。	最後，代號為“海姆達爾海島運動會”的團隊比賽並非強制參加的活動，想要參加的人必須填寫申請表。	最後に、コード「ガルーアイランド運動会」の親善イベントは強制参加ではないので、興味のある人は自分で申込書に記入するように。	마지막으로 '헤임달 아일랜드 운동회'라고 명명된 팀 빌딩 이벤트는 강제성이 없어요. 그러니 참가를 희망하시는 분들은 신청서를 작성해 주셔야 해요.	Last, the team-building competition, codenamed the "Heimdall Island Games," isn't mandatory. If you want to participate, you need to submit an application.						0	1.3重置
+22	你们还有什么疑问？	還有人有問題嗎?	ほかに質問のある人は？	또 궁금한 내용들 있으신가요?	Any questions?						0	1.3重置
+23	率先完成三项挑战的获胜者都有什么奖励啊？可以折现吗？	率先完成三項挑戰的獲勝者能拿到什麼獎勵啊?可以折現嗎?	最初に3つのチャレンジに成功した時の報酬は？換金できるの？	세 항목의 챌린지를 승리한 사람에게는 무슨 경품을 주는 거지? 현찰로 지급 가능해?	What do the winners get for completing the three challenges before anyone else? Can the reward be cashed out?						0	1.3重置
+24	咳咳，手册里都已经写明了哦……	咳咳，手冊裡都已經寫明了哦……	ゴホン、マニュアルに全部書いてありますが…	크흠, 매뉴얼에 다 적혀있다시피…	Ahem... Did you even read the handbook?						0	1.3重置
+25	获胜组全员，在岛上的消费将终身免费。	獲勝組全員，在島上的消費將終身免費。	優勝チームのメンバー全員、島内でのお買い物が一生タダになります。	우승 팀 전체 인원은 섬에서의 소비가 평생 무료예요.	Each member of the winning team will receive lifetime coverage of all expenses on the island.						0	1.3重置
+26	而组长更是会成为雅卢岛名誉岛主，获赠岛屿南面的度假木屋与私人沙滩的永久使用权。	而組長更是會成為雅盧島榮譽島主，獲贈島嶼南面的度假木屋與私人沙灘的永久使用權。	さらにリーダーはガルーアイランド名誉島主の称号が与えられ、コテージとプライベートビーチを永久にご利用いただけます。	게다가 리더는 야루섬의 명예 섬 주인이 되어 섬 남쪽의 휴양 오두막과 프라이빗 비치의 영구적인 사용 권한을 받아요.	As for the team leader — they'll be crowned honorary owner of Yallu Island, with full permanent rights to the southern vacation cabin and its private beach.						0	1.3重置
+28	就是这样，明白了吗？	就是這樣，明白了嗎？	以上です。理解しましたでしょうか。	이상입니다. 이해했나요?	Got it?						0	1.3重置
+29	度假木屋啊……	度假木屋啊……	コテージかぁ…	휴양 오두막이라…	A vacation cabin, huh...						0	1.3重置
+53	卡罗琳简短的休假说明会议结束后，我回到了房间。	卡羅琳簡短的休假說明會議結束後，我回到了房間。	カロリンの説明が終わり、部屋に戻った。	캐롤린의 간단한 휴가 설명 회의가 끝난 후, 나는 방으로 돌아왔다.	After Caroline wrapped up the briefing, I returned to my room.						0	1.3重置
+54	分析员，在房间吗？	分析員，在房間嗎？	分析員、お部屋にいますか。	분석가, 방에 있어?	Adjutant, are you in there?						0	1.3重置
+b-1											0	
+56	在的，恩雅姐进来吧。	在的，恩雅姐進來吧。	いるよ、エンヤ姉、入ってくれ。	네. 엔야 누님, 들어와요.	Yeah. Come on in, Enya.						0	1.3重置
+57	嘿嘿，那姐姐就打扰啦。	嘿嘿，那姐姐就打擾啦。	えへへ、ではお邪魔しますね♪	헤헤, 그럼 누님이 실례 좀 할게.	Hehe, with pleasure~						0	1.3重置
+58	嗯……没有其他女孩儿在分析员的房间呢。	嗯……沒有其他女孩在分析員的房間呢。	んー、他の女の子はいませんね、分析員。	음… 분석가 방에 다른 여자애들은 없네.	Hmm... I don't see other girls here.						0	1.3重置
+59	太好了，看上去我是第一个~	太好了，看上去我是第一個~	よかった、私が一番乗りですね。	잘 됐다, 내가 첫 번째인가 봐~	Great~ Looks like I'm the first.						0	1.3重置
+60	第一个？恩雅姐是指……	第一個？恩雅姐是指……	一番乗り？エンヤ姉、って言うと…	첫 번째라뇨? 엔야 누님, 그 말은…	First? What do you mean...?						0	1.3重置
+61	是“海姆达尔海岛运动会”哦，那个比赛不是要三人一组吗？分析员现在应该还没有加入其他人的小组吧。	是“海姆達爾海島運動會”哦，那個比賽不是要三人一組嗎？分析員現在應該還沒有加入其他人的小組吧。	ガルーアイランド運動会ですよ、三人一組でしょう？分析員はまだチーム未定ですよね。	 '헤임달 섬 운동회' 말이야. 그 시합은 세 사람이 한 팀이어야 하잖아? 분석가는 아직 다른 팀에 안 들어갔지?	The Heimdall Island Games, of course~ You need three per team, right? I figured you hadn't teamed up yet, had you?						0	1.3重置
+62	原来是指这个啊。的确，恩雅姐是第一个来找我的人。	原來是指這個啊。的確，恩雅姐是第一個來找我的人。	ああ、その話か、たしかにエンヤ姉が最初だ。	아, 그 말이었어요? 맞아요, 엔야 누님이 제일 먼저 찾아왔어요.	Oh, that. Yeah, you're the first to ask.						0	1.3重置
+63	不过……我看大家好像都还在犹豫要不要参加的样子，恩雅姐已经开始拉人了吗？	不過…我看大家好像都還在猶豫要不要參加的樣子，恩雅姐已經開始拉人了嗎？	でもみんなまだ迷ってるみたいだぞ、エンヤ姉はもうメンバー集めか？	근데… 다들 참여할지 말지 고민하는 것 같던데, 엔야 누님은 벌써 사람을 모으고 있네요?	But... looks like the others are still on the fence. You've already started looking for teammates?						0	1.3重置
+64	嗯，在听说荣誉岛主可以获得那个小木屋的使用权后，我就立马报名参加了。	嗯，在聽說榮譽島主可以獲得那個小木屋的使用權後，我就立刻報名參與了。	はい、名誉島主になれると聞いてすぐ申し込みました。	응. 명예 섬 주인이 되면 그 오두막의 사용권을 받을 수 있다길래, 소식 듣자마자 바로 신청했지.	Mm-hmm~ The moment I heard the honorary owner gets a private cabin, I signed up right away~						0	1.3重置
+65	分析员还记得上个月，我们去孤儿院慰问的时候遇到的那个女孩吗？	分析員還記得上個月，我們去孤兒院慰問的時候遇到的那個女孩嗎？	分析員、先月孤児院で会った女の子、覚えてますか。	분석가, 지난달에 우리가 보육원 위문 갔을 때 만났던 그 여자아이 기억해?	Remember that girl we met at the orphanage last month?						0	1.3重置
+66	好啦~下个月过生日的小朋友们，请把你们的愿望写在纸条上，然后交给分析员哥哥哦。	好啦~下個月過生日的小朋友們，請把你們的願望寫在紙條上，然後交給分析員哥哥哦。	さあ、来月お誕生日の子は、欲しいものを書いて分析員お兄さんに渡してくださいね〜	자~ 다음 달이 생일인 친구들은 쪽지에 소원을 적어서 분석가 오빠한테 주도록 해.	Alright~ If your birthday's coming up next month, write down your wish and give it to Mr. Adjutant~!						0	1.3重置
+67	知道啦~	知道啦~	はーい！	네~	Yes, Miss Enya~!						0	1.3重置
+68	孩子们兴奋地低头书写，教室里响起沙沙的写字声。	孩子們興奮地低頭書寫，教室裡響起沙沙的寫字聲。	子供たちはわくわくしながら書き始める。	신이 난 아이들은 고개를 숙인 채 글을 썼고, 사각사각 연필 소리가 교실을 채웠다.	The kids eagerly bent over their desks, the room soon filled with the soft scratch of pencils on paper.						0	1.3重置
+69	但是，我注意到角落里的短发女孩始终没有动笔，她紧紧攥着铅笔，眼眶微微发红。	但是，我注意到角落裡的短髮女孩始終沒有動筆，她緊緊攥著鉛筆，眼眶微微發紅。	だが、隅の短髪の少女だけは涙を浮かべて鉛筆を握りしめていた。	하지만 구석에 있는 단발 여자아이는 계속 연필을 쥐고만 있었고, 눈가가 살짝 붉어져 있었다.	But in the back corner, one short-haired girl stayed still. She just sat there, clutching her pencil, her eyes tinged red.						0	1.3重置
+70	……	……	……	……	...						0	1.3重置
+71	小朋友，怎么了？	小朋友，怎麼了？	どうしたんだい？	얘야, 무슨 일이니?	What's the matter, sweetie?						0	1.3重置
+72	颤抖的小手递来纸条，上面歪歪扭扭写着“和爸爸妈妈一起看海”。	顫抖的小手遞來紙條，上面歪歪扭扭寫著“和爸爸媽媽一起看海”。	震える手の紙には「パパとママと海を見たい」	떨리는 작은 손이 쪽지를 건넸고, '엄마 아빠랑 바다 보러 가기'라는 글씨가 삐뚤빼뚤 적혀있었다.	Her tiny hand trembled as she handed me a note. In wobbly handwriting, it read: "See the sea with Mom and Dad."						0	1.3重置
+73	望着纸条上的内容，正在思考如何措辞时——	望著紙條上的內容，正在思考如何措辭時——	言葉を探していると――	쪽지의 내용을 보며 무슨 말을 건네야 할지 고민하고 있을 때…	I was searching for the right words when...						0	1.3重置
+74	好漂亮的海螺啊，是爸爸妈妈送给你的吗？	好漂亮的海螺啊，是爸爸媽媽送給你的吗？	きれいな貝殻ね、パパとママからもらったんですか？	소라가 참 예쁘네. 엄마 아빠가 선물해 주신 거니?	What a lovely seashell. Did your parents give it to you?						0	1.3重置
+75	恩雅姐及时发现了这里的情况，她走到我的身边，低下身来，托起了女孩脖子上挂着的海螺吊坠。	恩雅姐及時發現了這裡的情況，她走到我的身邊，低下身來，托起了女孩脖子上掛著的海螺吊墜。	妙な空気に気づいたエンヤは、静かに歩み寄り、少女の胸元で揺れていた貝殻のペンダントをそっと持ち上げる。	엔야 누님이 때마침 상황을 파악하고는 내 옆으로 다가와 몸을 낮췄고, 여자아이의 목에 걸린 소라 펜던트를 들어 올렸다.	Enya stepped in just in time. She knelt beside me and gently lifted the seashell pendant from the girl's neck.						0	1.3重置
+76	嗯……他们说等攒够钱了，就会带我去看真正的大海，但是他们现在已经……	嗯……他們說等攢夠錢了，就會帶我去看真正的大海，但是他們現在已經……	うん…お金が貯まったら連れて行くって…でも今はもう…	네… 돈을 모으고 나면 진짜 바다를 보여주겠다고 했는데, 지금은 이미…	Mm... They said once they saved up enough, they'd take me to see the sea. But now, they're...						0	1.3重置
+77	你知道吗？海螺里啊，还有另一个世界哦。	你知道嗎？海螺裡啊，還有另一個世界哦。	知ってます？貝殻の中にはもう一つの世界があるってこと。	그거 아니? 소라 속에는 다른 세상이 있대.	You know, there's a whole other world inside a seashell.						0	1.3重置
+78	另一个世界？	另一個世界？	もう一つの世界？	다른 세상이요?	Another world?						0	1.3重置
+79	嗯，我们意外离世的亲人，都会去往那里。	嗯，我們意外離世的親人，都會去往那裡。	ええ、そこで家族は過ごしていますよ。	응. 우리가 갑작스레 가족을 잃게 되면, 그들은 모두 그곳으로 간대.	That's where our loved ones go when they're taken from us.						0	1.3重置
+80	恩雅无比笃定地，无比温柔地描绘着童话故事。	恩雅無比篤定地，無比溫柔地描繪著童話故事。	エンヤは優しい声で語る。	엔야는 무척이나 확신에 찬 모습으로, 동화 같은 이야기를 한없이 다정하게 들려주었다.	Enya spoke with gentle certainty, weaving a warm little fairy tale.						0	1.3重置
+81	每当海风吹起时，那边声音就会通过海螺传递过来。	每當海風吹起時，那邊的聲音就會透過海螺傳遞過來。	海風が吹くたび、貝殻の中から声がそっと響いてくるんです。まるで、遠く離れた誰かの想いが貝殻を通して届くみたいに……	바닷바람이 불 때마다, 그쪽의 소리가 소라를 통해 전해져 올 거야.	When the sea breeze blows, their voices drift through the shell.						0	1.3重置
+82	你听。	你聽。	ほら。	들어봐.	Listen.						0	1.3重置
+83	她将海螺贴近女孩耳边。	她將海螺貼近女孩耳邊。	貝殻を少女の耳へ。	그녀는 소라를 아이의 귀에 가까이 가져다 대었다.	She gently held the shell to the girl's ear.						0	1.3重置
+84	这是爸爸妈妈在借着海风说"我们永远爱你"呢。	這是爸爸媽媽在藉著海風說"我們永遠愛你"呢。	今ね、パパとママが「ずっと愛してる」って。	엄마 아빠가 바닷바람을 빌려서 '우리는 영원히 널 사랑해'라고 말하고 있어.	That's your mom and dad, whispering through the wind, "We love you always."						0	1.3重置
+85	……	……	……	……	...						0	1.3重置
+86	真的有声音……	真的有聲音……	本当だ…	정말로 소리가 들려요…	I really heard something...						0	1.3重置
+87	嗯，等我们下次去海边时，你可以带着这个海螺，把想说的话借着海风说给他们听，他们一定能听到的。	嗯，等我們下次去海邊時，你可以帶著這個海螺，把想說的話藉著海風說給他們聽，他們一定能聽到的。	今度海に行ったら、貝殻に話しかけてみよう。きっと届くと思うよ。	응. 나중에 같이 바다에 가게 되면, 이 소라를 들고 가자. 바닷바람을 빌려서 하고 싶은 말을 전하면, 엄마 아빠가 분명 들을 수 있을 거야.	Next time we visit the ocean, bring your shell. Tell the wind what's in your heart — they'll hear you for sure.						0	1.3重置
+88	嗯！	嗯！	うん！	네!	Okay!						0	1.3重置
+89	终于，女孩擦干眼泪，重新拿起铅笔时，我注意到她在纸条背面新画了三个手牵手的小人。	終於，女孩擦乾眼淚，重新拿起鉛筆時，我注意到她在紙條背面新畫了三個手牽手的小人。	少女は涙を拭き、三人の落書きを描いた。	마침내 여자아이가 눈물을 닦고 다시 연필을 들자, 아이의 쪽지 뒷면에 손을 맞잡은 세 사람이 새로 그려진 것이 보였다.	At last, she wiped her tears, picked up her pencil, and drew three stick figures holding hands on the back of the note.						0	1.3重置
+90	她这个年纪的孩子，或许早已懵懂地触碰过死亡冰冷的轮廓，但眼下——	她這個年紀的孩子，或許早已懵懂地觸碰過死亡冰冷的輪廓，但眼下——	彼女くらいの年頃の子どもは、もうぼんやりと「死」の冷たさに触れたことがあるのかもしれない。けれど――	그 나이의 어린아이가 어쩌면 벌써 죽음이라는 차가운 윤곽을 어렴풋이 느껴봤을지도 모르겠지만, 지금은…	At her age, she might've already had a vague sense of what death meant — but right then...						0	1.3重置
+91	真相对于稚嫩的她而言还是太过残忍。	真相對於稚嫩的她而言還是太過殘忍。	――その真実は、まだ幼い彼女にはあまりにも残酷だ。	아직 어린 그 아이에게, 진실은 너무나도 잔인했다.	The truth would still be far too cruel.						0	1.3重置
+92	大人们编织出的童话故事，正如同海螺中的潮声，只要能让痛苦暂时远离，便已足够。	大人們編織出的童話故事，正如同海螺中的潮聲，只要能讓痛苦暫時遠離，便已足夠。	――大人が編んだおとぎ話は、貝殻に響く潮騒と同じ。ただ痛みをひととき遠ざけられるなら、それで十分なのだ。	어른들이 지어낸 동화는 마치 소라 속 파도 소리와도 같았다. 잠시나마 아픔을 멀어지게 할 수 있다면 그걸로 충분했다.	Grown-ups spin fairy tales, like whispers from a shell — just to keep the hurt away, if only for a little while.						0	1.3重置
+93	怎么样，分析员还有印象吗？	怎麼樣，分析員還有印象嗎？	どうですか、覚えていますか。	어때? 분석가, 아직 기억하고 있어?	Ring any bells, Adjutant?						0	1.3重置
+94	当然，恩雅姐是说那个戴着海螺吊坠的女孩吧？	當然，恩雅姐是說那個戴著海螺吊墜的女孩吧？	もちろんだ、貝殻の子のことだろ。	물론이죠. 엔야 누님, 소라 펜던트 목걸이를 한 그 여자아이 말이죠?	Of course. The girl with the seashell pendant, right?						0	1.3重置
+95	我反应了过来。	我反應了過來。	やっと思い出した。	나는 그제야 깨달았다.	It dawned on me.						0	1.3重置
+96	也就是说，恩雅姐想要成为荣誉岛主的原因，是为了兑现当初的承诺。	也就是說，恩雅姐想要成為榮譽島主的原因，是為了兌現當初的承諾。	つまり約束を果たすためなんだな。	그러니까, 엔야 누님은 그때의 약속을 지키려고 명예 섬 주인이 되고 싶은 거군요.	So that's why you want to win — to keep your promise to her.						0	1.3重置
+97	没错，而且不光光为了那个女孩。	沒錯，而且不光光為了那個女孩。	はい、その子だけじゃありません。	맞아. 게다가 그 여자아이를 위해서만은 아니야.	That's right. But not just for her.						0	1.3重置
+98	前段时间，分析员不是和里芙营救了一批脱离了郊狼的拾荒者孩子嘛。为了安置这些孩子们，孤儿院也需要一个新的场地。	前段時間，分析員不是和里芙營救了一批脫離了郊狼的拾荒者孩子嘛。為了安置這些孩子們，孤兒院也需要一個新的場地。	先日分析員とリフが助けた、スカベンジャーの子たちも受け入れる場所が必要ですので。	분석가가 얼마 전에 리브랑 같이 코요테를 탈출한 피난민 아이들을 구조했잖아. 이 아이들을 보살피기 위해서는, 보육원도 새로운 장소가 필요해.	You and Lyfe rescued those Scavenger kids from the Coyotes, remember? The orphanage took them in, but they still need a proper place to call home.						0	1.3重置
+99	这些孩子和那个女孩一样，大多都有些不太好的经历，需要一个远离零区的环境静心疗养。	這些孩子和那個女孩一樣，大多都有些不太好的經歷，需要一個遠離零區的環境靜心療養。	あの少女と同じように、あの子どもたちの多くも、それぞれに少し辛い過去を抱えています。エリアゼロから離れた静かな環境が……	이 아이들도 그 여자아이처럼 대부분 좋지 않은 일을 겪었거든. 제로 구역에서 멀리 떨어진 곳에서 마음의 안정을 찾으면서 치료받을 환경이 필요해.	Like that girl, those kids have been through a lot. They need a quiet place to heal — somewhere far from the Containment Zone.						0	1.3重置
+100	嗯，这么看来，海边的确是个不错的场所。	嗯，這麼看來，海邊的確是個不錯的場所。	海辺は最適だな。	음, 그렇다면 해변이 괜찮겠네요.	Yeah... the seaside does sound perfect.						0	1.3重置
+101	这么说，分析员是……？	這麼說，分析員是……？	ということは…？	분석가, 그렇다는 건…?	So... does that mean you're in, Adjutant?						0	1.3重置
+102	嗯，就让我们一起为了那些孩子们努力吧。	嗯，就讓我們一起為了那些孩子們努力吧。	ああ、一緒に頑張ろう。	네. 우리 같이 그 아이들을 위해 노력해 봐요.	Yeah. Let's do this — for the kids.						0	1.3重置
+103	恩雅姐，我要加入你的小队。	恩雅姐，我要加入你的小隊。	エンヤ姉のチームに入るよ。	엔야 누님과 같은 팀이 될게요.	Count me in, Captain Enya.						0	1.3重置
+104	太好了，有分析员在身边，姐姐我就安心多了！	太好了，有分析員在身邊，姐姐我就安心多了！	よかったです、分析員がいてくれれば心強いです！	정말 잘 됐다. 분석가가 곁에 있다면, 누님은 훨씬 마음이 놓일 거야!	Yay~ With you on board, I know we've got this~!						0	1.3重置
+105	分析员，现在有空吗？	分析員，現在有空嗎？	分析員、時間はあるか？	분석가, 지금 시간 있어?	Adjutant. Do you have a minute?						0	1.3重置
+106	门外再次响起了敲门声。	門外再次響起了敲門聲。	ドアがノックされた。	문밖에서 다시 노크 소리가 들렸다.	Another knock came at the door.						0	1.3重置
+b-2											0	
+108	在的哦。	在的哦。	どうぞ。	응.	Come on in.						0	1.3重置
+109	打扰了。	打擾了。	失礼する。	실례할게.	Sorry to intrude.						0	1.3重置
+110	下午好啊，里芙。	下午好啊，里芙。	リフ、こんにちは。	안녕, 리브.	Good afternoon, Lyfe~						0	1.3重置
+111	下午好……等等，恩雅姐？	下午好…等等，恩雅姐？	こんにちはっ…、エンヤ？	안녕… 잠깐, 엔야 언니?	Afternoon... Wait, Enya?						0	1.3重置
+112	嘿嘿，你来晚了一步哦，分析员已经是姐姐的人了。	嘿嘿，你來晚了一步哦，分析員已經是姐姐的人了。	ふふ、遅かったですね、分析員はもう私の人ですよ。	헤헤, 늦었네. 분석가는 이미 언니의 사람이 됐어.	Hehe, you're a bit late — the Adjutant's already mine~						0	1.3重置
+113	哎？!	欸？！	なんだと!?	응?!	What...?						0	1.3重置
+114	咳咳，恩雅姐不要使用误导性那么强的说法。	咳咳，恩雅姐不要使用誤導性那麼強的說法。	ゴホン、誤解を招く言い方はやめてくれ。	크흠, 엔야 누님, 오해할 만한 말은 하지 말아주세요.	Ahem... Enya, that's a little misleading, don't you think?						0	1.3重置
+115	里芙，其实事情是……	里芙，其實事情是……	リフ、実は事情があってな。	리브, 어떻게 된 거냐면…	Actually, Lyfe — Enya just meant...						0	1.3重置
+116	原来如此……	原來如此……	なるほど……	그랬구나…	I see...						0	1.3重置
+117	其实我也正想邀请分析员加入我的小组，不过……现在看来只能放弃了。	其實我也正想邀請分析員加入我的小組，不過…現在看來只能放棄了。	実は私も誘おうと思ってたけど…今となっては諦めるしかないな。	사실 나도 분석가를 내 팀에 초대하려고 했는데… 이제 보니 포기해야겠네.	I was going to ask you to join my team, but... I guess that's off the table now.						0	1.3重置
+118	哎？里芙也要参加运动会吗？	哎？里芙也要參加運動會嗎？	えっ、リフも出るんですか？	어머? 리브도 운동회에 참가하려고?	Huh? Lyfe, you're joining the Games too?						0	1.3重置
+119	嗯。	嗯。	うん。	응.	Yes.						0	1.3重置
+120	虽然很遗憾不能和分析员组队，不过既然分析员已经答应恩雅了……那我也不好强求了。	雖然很遺憾不能和分析員組隊，不過既然分析員已經答應恩雅了……那我也不好強求了。	分析員と組めないのは残念だが、エンヤに約束したのなら無理は言えん。	분석가랑 한 팀이 될 수 없어서 정말 아쉽지만, 분석가는 엔야와 약속했으니까… 어쩔 수 없지.	It's a shame we can't team up. But if you've already said yes to Enya... I won't push it.						0	1.3重置
+121	那……里芙要不要考虑加入我们小队？这样就能和分析员一组了哦~	那…里芙要不要考慮加入我們小隊？這樣就能和分析員一組了哦~	では私たちのチームに？分析員と一緒ですよ〜	그럼… 리브, 우리 팀에 들어올래? 그러면 분석가랑 한 팀이 될 수 있을 텐데~	Then... why not join us? You'd still get to be on the same team with the Adjutant~!						0	1.3重置
+122	这样……	這樣……	それは…	그건…	Hmm...						0	1.3重置
+123	里芙看向我，眉头微微颤抖，眼神中带着犹豫。	里芙看向我，眉頭微微顫抖，眼神中帶著猶豫。	――リフは私を見つめ、眉をわずかに震わせた。	리브가 나를 바라봤고, 눈썹이 살짝 떨리더니 주저하는 눈빛을 보였다.	Lyfe looked at me, her brow twitching slightly, uncertainty in her eyes.						0	1.3重置
+124	我看出了她的为难，虽然很想和我一队，但应该也是有自己想要成为岛主的理由。	我看出了她的為難，雖然很想和我一隊，但應該也是有自己想要成為島主的理由。	迷いを帯びた視線の奥には、彼女なりの理由があるのだろう。	나는 그녀의 난처한 기색을 읽을 수 있었다. 나와 한 팀이 되고 싶지만, 그녀도 섬 주인이 되려는 개인적인 이유가 있을 것이다.	I could tell — she wanted to be on my team, but she had her own reason for chasing that honorary title.						0	1.3重置
+125	即便不在一组，等比赛结束后，大家也可以在一起好好享受这个假日哦。	即便不在一組，等比賽結束後，大家也可以在一起好好享受這個假日哦。	一緒のチームじゃなくても、大会後に皆で休暇を楽しめるさ。	꼭 한 팀이 되지 않더라도, 시합이 끝나면 다 같이 즐겁게 휴일을 보낼 수 있어.	Even if we're not on the same team, we can still enjoy the holiday together after the Games.						0	1.3重置
+126	是吗……即便不在一组，也能和分析员一起……嗯，我明白了。	是嗎……即便不在一組，也能和分析員一起……嗯，我明白了。	そう……チームが別でも分析員と一緒にいられるか……分かった。	그런가… 한 팀이 아니어도 분석가랑 같이… 그래, 알겠어.	Even if we're not teammates... we'll still be together... I see.						0	1.3重置
+127	里芙点了点头，露出了有些含蓄的笑。	里芙點了點頭，露出了有些含蓄的笑。	――リフは小さくうなずき、控えめに笑った。	리브는 고개를 끄덕이며 수줍은 미소를 지었다.	Lyfe nodded with a soft smile.						0	1.3重置
+128	不过既然对手是分析员，那我可得好好准备一番才行。	不過既然對手是分析員，那我可得好好準備一番才行。	でも分析員が相手なら、手は抜けないな。	하지만 상대가 분석가인 만큼, 나도 제대로 준비해야겠어.	Since you're my opponent now, Adjutant... I'd better be ready.						0	1.3重置
+129	嗯，我这边的感觉也差不多，那么里芙，赛场上再见吧。	嗯，我這邊的感覺也差不多，那麼里芙，賽場上再見吧。	ああ、こっちも同じだ。じゃあリフ、競技場で会おう。	응, 내 생각도 비슷해. 그럼 리브, 경기장에서 보자.	Same here. See you on the field, Lyfe.						0	1.3重置
+130	嗯，赛场上再见。	嗯，賽場上再見。	ああ、競技で会おう。	응, 경기장에서 보자.	Mm. See you on the field.						0	1.3重置
+131	哼，没想到星期三那个家伙也来参加比赛了啊。	哼，沒想到星期三那個傢伙也來參加比賽了啊。	ふん、ウェンズデーまで参加とは驚きだわ。	흥, 웬스데이 녀석도 시합에 참여할 줄이야.	Hmph. Can't believe Wednesday's entering the Games too.						0	1.3重置
+132	是啊，姐姐我也吓了一跳呢，不过还好有分析员在我们这边，所以问题应该不大吧~	是啊，姐姐我也嚇了一跳呢，不過還好有分析員在我們這邊，所以問題應該不大吧~	でも分析員が味方ですから問題ないですよ〜	그러게, 언니도 깜짝 놀랐어. 하지만 다행히도 분석가가 우리 편에 있으니까 별문제 없을 거야~	I was surprised too. But with the Adjutant on our side, there's nothing to worry about~						0	1.3重置
+133	哼，那是当然。不过本小姐更好奇的是……她到底为什么要来参加比赛？	哼，那是當然。不過本小姐更好奇的是……她到底為什麼要來參加比賽？	当然よ、でも彼女の目的が気になるわ……	흥, 물론이지. 근데 이 몸이 더 궁금한 건… 리브는 도대체 왜 시합에 참여하려는 걸까?	Mhmm. But what I really want to know is... why'd she even sign up?						0	1.3重置
+134	她没具体说明，可能是觉得说出来会让我为难吧，毕竟我已经加入恩雅小组了。	她沒具體說明，可能是覺得說出來會讓我為難吧，畢竟我已經加入恩雅小組了。	彼女は理由を言わなかったが、話せば私が困ると思ったのかもしれない。	자세한 건 말하지 않았어. 말하면 내가 곤란해질 거라고 생각했나 봐. 난 이미 엔야 누님의 팀에 들어왔으니까.	She didn't say — maybe she didn't want to put me in an awkward spot, since I'm already teamed up with Enya.						0	1.3重置
+135	但从她的眼神来看，绝对不是抱着"来玩玩"的心态。	但從她的眼神來看，絕對不是抱著“來玩一下”的心態。	けどあの目は、本気で勝ちに来ている目だった。	근데 리브의 눈빛을 보니까, '재미 삼아' 하려는 건 절대 아닌 것 같아.	But from the look in her eyes... she definitely didn't sign up just for fun.						0	1.3重置
+136	嗯，抱着必胜的决心呢。	嗯，抱著必勝的決心呢。	ええ、勝ちに来ていました。	응. 필승의 각오를 다진 것 같던데.	Yeah. She's playing to win.						0	1.3重置
+137	所以，为了孩子们，我们也要全力以赴！	所以，為了孩子們，我們也要全力以赴！	子どもたちのため、全力でいこう！	그러니까 아이들을 위해서라도, 우리도 최선을 다해야 해요!	Then let's go all in too — for the kids!						0	1.3重置
+138	嗯！大家一起加油吧！	嗯！大家一起加油吧！	はい、皆で頑張りましょう！	응! 다들 힘내자!	Mm! Let's give it our all!						0	1.3重置
+139	加油~加油~	加油~加油~	ファイト〜ファイト〜！	화이팅~ 화이팅~	Uh-huh! Let's~!						0	1.3重置
+140	对了，说起来，姐姐我好像还不知道芬妮的参赛理由呢？	對了，說起來，姐姐我好像還不知道芬妮的參賽理由呢？	ところで、ファニーの参加理由は？	그러고 보니, 아직 페니의 참여 이유를 못 들었는데?	Oh, right — I still don't know why you signed up, Fenny.						0	1.3重置
+141	哎？本小姐嘛……当然是因为分析员啊~	哎？本小姐嘛……當然是因為分析員啊~	もちろん分析員のためよ〜	응? 이 몸이야… 당연히 분석가 때문이지~	Huh? Me? For the Adjutant, obviously~!						0	1.3重置
+142	芬妮一把抱住我的手臂，将暖呼呼的身体贴了上来，一脸得意。	芬妮一把抱住我的手臂，將暖呼呼的身體貼了上來，一臉得意。	ファニーが私の腕に飛びつき、温かい身体を得意げに押しつけてくる。	페니가 내 팔을 꼭 붙잡고 따뜻한 몸을 바짝 붙이며 의기양양한 표정을 지었다.	Fenny grabbed my arm and snuggled up with a triumphant grin, her warmth radiating through.						0	1.3重置
+143	分析员参加我就参加，分析员在哪组我就去哪组~	分析員參加我就參加，分析員在哪一組我就去哪組~	分析員が出るならあたしも出るわ！分析員がいるチームならどこへでも行くんだから～	분석가가 참여하면 나도 참여하고, 분석가가 속한 팀에 나도 갈 거야~	If the Adjutant's in, so am I. Wherever he goes, I go~						0	1.3重置
+144	哼哼，本小姐可是说过，要占领有分析员在的每一个舞台呢！	哼哼，本小姐可是說過，要占領有分析員在的每一個舞台呢！	言ったでしょ？分析員と同じ舞台は全部いただくわ〜	흐흥, 이 몸이 말했잖아. 분석가가 있는 모든 무대를 점령하겠다고!	Hehe, I did say I'd conquer every stage the Adjutant sets foot on~						0	1.3重置
+145	哦？那还真是了不起的理由呢	哦？那還真是了不起的理由呢。	それは立派な理由ですね。	어머? 그것 참 엄청난 이유네.	Oh? That's quite an honorable motivation~						0	1.3重置
+146	但姐姐的话，也不会认输哦~	但姐姐的話，也不會認輸哦~	でもお姉さんも負けませんよ〜	하지만 언니도 지지 않을 거야~	But I won't let you win that easily~!						0	1.3重置
+147	语毕，恩雅也一把搂住了我的另一条手臂，一股更加巨大而又柔软的包裹感瞬间蔓延了过来。	語畢，恩雅也一把摟住了我的另一條手臂，一股更加巨大而又柔軟的包裹感瞬間蔓延了過來。	その言葉を合図に、エンヤも反対側の腕を抱き寄せる。すると、より大きく、より柔らかな感触が広がる。	말이 끝나기 무섭게 엔야도 내 다른 팔에 팔짱을 끼었고, 더 크고 부드러운 포근함이 순식간에 전해졌다.	With that, Enya latched onto my other arm. Instantly, a softer, fuller sensation enveloped me.						0	
+148	唔姆姆……	唔姆姆……	むむむ…	으으으…	Mmmrrrgh...						0	
+149	望着紧贴在我身边来回争夺的两人，我既幸福又有些好笑。	望著緊貼在我身邊來回爭奪的兩人，我既幸福又有些好笑。	二人に左右から取り合いされて、幸福と可笑しさがない交ぜになる。	내 곁에 바짝 붙어 서로 다투는 두 사람을 보니, 행복하면서도 조금은 재미있었다.	Watching them cling to me from both sides, each trying to claim me for herself, I couldn't help but smile.						0	1.3重置
+150	翻转手臂一把将两人同时拉入怀中。	翻轉手臂一把將兩人同時拉入懷中。	腕を返して二人を抱き寄せる。	나는 팔을 끌어당겨 두 사람을 동시에 품에 안았다.	With a twist of my arms, I pulled them both into a hug.						0	1.3重置
+151	好啦，好啦，我们不是一组的嘛，别比赛没开始就先自己人内耗啦。	好啦，好啦，我們不是一組的嘛，別比賽沒開始就先自己人內訌啦。	はいはい、大会前に内輪もめするなよ。	자, 자, 우리는 한 팀이잖아. 시합 시작하기도 전에 내부 갈등하지 말자.	Alright, alright~ We're on the same team, remember? Let's not start infighting before the Games even begin.						0	1.3重置
+152	呵呵呵，那不都怪分析员太有魅力了。	呵呵呵，那不都怪分析員太有魅力了。	ふふ、それも分析員が魅力的すぎるせいですよ。	후후후, 이게 다 분석가가 너무 매력적이어서 그래.	Hehehe~ This is your fault, Adjutant — why do you have to be so charming~?						0	1.3重置
+153	嗯嗯，这点赞同！	嗯嗯，這點贊同！	同感だわ！	맞아, 그건 완전 동의하지!	Agreed!						0	1.3重置
+154	恩雅姐……	恩雅姐……	エンヤ姉……	엔야 누님…	Enya...						0	1.3重置
+155	呵呵呵，抱歉抱歉~姐姐我不开玩笑了。	呵呵呵，抱歉抱歉~姐姐我不開玩笑了。	冗談はここまでです。	히히히, 미안, 미안~ 농담은 그만할게.	Hehehe~ Sorry~ I'll behave now~						0	1.3重置
+156	那接下来就拜托分析员带队——	那接下來就拜託分析員帶隊——	次は分析員に率いてもらって――	그럼 이제부터는 분석가가…	Then we'll be counting on you, Adjutant...						0	1.3重置
+157	带领我们获得最后的胜利吧！	帶領我們獲得最後的勝利吧！	あたしたちを勝利へ導いてちょうだい！	우리를 최후의 승리로 이끌어 줘!	To lead us to victory!						0	1.3重置
+158	嘿咻……成功潜入……	嘿咻……成功潛入……	よいしょ…潜入成功…	이얍… 잠입 성공…	Whew... I'm in.						0	1.3重置
+159	哎……我看看，接口是……是……这个！	哎……我看看，接口是…是…這個！	ええっと…ポートは…これね！	음… 어디 보자, 인터페이스가… 음… 이거다!	Okay, let's see... the port should be... yeah, this one!						0	1.3重置
+160	——检测到B型密钥接入——	——檢測到B型密鑰接入——	——Bタイプキーの接続を検知——	… B형 암호키 접속 감지되었습니다…	——Type-B access key detected——						0	1.3重置
+161	——权限认证完成—— 确认为最高权限用户███——	——權限認證完成—— 確認為最高權限使用者███——	——権限認証完了、最上位ユーザー███を確認——	… 권한 인증 완료… 최고 권한 사용자 ███ 확인되었습니다…	——Authorization complete. Maximum clearance confirmed: ****——						0	1.3重置
+162	——派对控制中台后门已开启——	——派對控制中台後門已開啟——	——パーティコントロール中枢のバックドアを開放——	… 파티 컨트롤 콘솔 백도어가 개방되었습니다…	——Backdoor access to Party Control Core established——						0	1.3重置
+163	呼……	呼……	ふぅ…	휴…	Phew...						0	1.3重置
+164	——控制权重新写入中——	——控制權重新寫入中——	——コントロール権を再書き込み中——	… 제어권을 다시 입력하고 있습니다…	——Rewriting control protocols...——						0	1.3重置
+165	——写入成功——	——寫入成功——	——書き込み成功——	… 입력 완료…	——Protocol rewrite complete——						0	1.3重置
+166	——派对女王系统——	——派對女王系統——	——パーティクイーンシステム——	… 파티 퀸 시스템…	——Party Queen System——						0	1.3重置
+167	如果被发现的话，我每周的自由活动时间估计就要被取消了吧……	如果被發現的話，我每週的自由活動時間估計就要被取消了吧……	見つかったらフリータイムなくなるかも…	들키기라도 하면 매주 자유 활동 시간은 물 건너갈 텐데…	If I get caught, they might axe my weekly free time...						0	1.3重置
+168	不对不对，我怎么又优柔寡断起来了……	不對不對，我怎麼又優柔寡斷起來了……	だめだめ、優柔不断になってる場合じゃない…	안 돼, 안 돼. 왜 또 우유부단해지는 거야…	No, no, focus — I can't chicken out now...						0	1.3重置
+169	没错，“事已至此，已经不能回头了”，这可是派对女王系统的底层协议，为的就是防止我因为懦弱而逃避。	沒錯，“事已至此，已經不能回頭了”，這可是派對女王系統的底層協議，為的就是防止我因為懦弱而逃避。	そう、後戻り不可、逃げないためのプロトコルよこれは。	그래, '이렇게 된 이상 돌이킬 수 없어'. 이건 파티 퀸 시스템의 기본 프로토콜이야. 나의 나약함 때문에 도망치지 못하게 하려는 거지.	That's right — "There's no turning back now." It's baked into the Party Queen System's underlying protocol — specifically to stop me from bailing last minute.						0	1.3重置
+170	所以……	所以……	だから……	그러니까…	So...						0	1.3重置
+171	link on~	link on~	リンクオン~	link on~	Link established~						0	1.3重置
+172	已将岛屿内所有无人机/场地机关/灯光矩阵的操控权由███的指挥啦嘭~	已將島嶼內所有無人機/場地機關/燈光矩陣的操控權由███的指揮啦嘭~	島内のドローン／ギミック／ライティングマトリクスの制御権を███へ委譲したのサ～！	섬의 모든 드론/현장 장치/조명 매트릭스의 제어권을 ███의 지휘로 전환했습니다~	Control of all drones, field devices, and lighting matrix on the island now rerouted to ****~						0	1.3重置
+173	大胆地去做吧！	大膽地去做吧！	思い切ってやっちゃえ！	과감하게 해보자!	Go big or go home!						0	1.3重置

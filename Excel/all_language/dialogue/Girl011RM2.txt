@@ -1,0 +1,46 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	午后，刚刚逛完旧货市场的我却在岔路口看到了一个熟悉的身影……	午後，剛逛完二手市場的我在路口看到了一個熟悉的身影……	午後、蚤の市からの帰りに、交差点のところで身覚えのある人影をみつけた……	오후, 중고품 시장을 둘러보고 오는 길에 갈림길에서 낯익은 모습이 보였다…	I'd just finished visiting the flea market in the afternoon when I spotted a familiar figure at a fork in the road...						0	
+2	看样子是时候说再见了……	看樣子是時候說再見了……	どうやら、さよならする時が来たようです……	이제 헤어져야 할 시간이구나…	Looks like it's time to say goodbye...						0	
+3	本来还以为会一直这样破破烂烂下去……	本來還以為會一直這樣破破爛爛下去……	ずっとこうしてボロボロのままかと思っていましたが……	이렇게 허름한 모습으로 언제나 남아있을 줄 알았는데…	I thought you could just stay like this forever, even though you were run-down...						0	
+b-1											0	
+4	上前打招呼	上前打招呼	声をかける	다가가서 인사한다.	Walk over and say hello						0	
+5	好巧啊，恩雅。	好巧啊，恩雅。	偶然だね、エンヤ。	엔야, 여기서 뭐 해요?	Fancy meeting you here, Enya.						0	
+6	哎，分析员怎么……不，分析员也会来这种地方吗？	唉呀，分析員怎麼……不，分析員也會來這種地方嗎？	あら、分析員……じゃなくて、分析員もこんな場所に来るんですね？	앗, 분석가가 어떻게… 아니, 분석가도 이런 곳에 자주 와?	Ah, Adjutant... You come to places like this too?						0	
+7	很奇怪吗？	很奇怪嗎？	変かな？	이상한가요?	Is it strange to come here?						0	
+8	毕竟这里也算是很老很老的老区了，我实在想不出分析员会有什么理由来这里逛街。	畢竟這裡也算是很老很老的區域了，我實在想不到分析員有什麼理由會來這裡逛街。	ここはかなり古いエリアなので、分析員が買い物をしに来るのはちょっと考えづらくて。	여기는 아주 오래된 구시가지잖아. 분석가는 여기에서 물건을 사지 않을 거라고 생각했어.	Well, it's a really old area. I honestly can't think of a reason why you would come here to walk around.						0	
+9	我也是受人之托来这里的旧货市场淘点网上买不到的东西。	我也是受人之託來這裡的二手市場挖一些網路上買不到的寶。	人に頼まれてね。ネットだと手に入らない物を探しに来たんだよ。	저도 누가 부탁해서 온 거예요. 온라인에서 살 수 없는 물건을 중고품 시장에서 사려고요.	Someone asked me to come to the flea market here to buy something they couldn't get online.						0	
+10	恩雅呢？	恩雅呢？	エンヤは？	엔야는요?	What about you, Enya?						0	
+11	我是来见“老朋友”的，分析员你看。	我是來看「老朋友」的，分析員你看。	「古い友達」に会いに来たんです。あそこを見てください。	난 '오랜 친구'를 만나러 왔어. 분석가, 저길 봐.	I'm here to see an "old friend." See?						0	
+12	顺着恩雅手指的方向望去，我并没有看到任何人，有的只是一座废弃的游乐园。	順著恩雅所指的方向看去，我並沒有看到任何人，只有看到一座廢棄的遊樂園。	エンヤの指さす先に人影は見当たらなかった。代わりに、廃墟になった遊園地があっただけだ。	엔야가 가리키는 곳을 따라가 보니, 아무도 보이지 않았고, 버려진 놀이공원뿐이었다.	I looked in the direction Enya was pointing, but I didn't see anyone. There was only an abandoned amusement park.						0	
+13	但是该怎么形容呢？	但是該怎麼形容呢？	ただ、なんというか。	그런데, 뭐라고 표현해야 할까?	But... how should I describe it?						0	
+14	迎面而来的风中确实有股“好久不见”的气息。	迎面吹來的風中確實帶著一股「好久不見」的氣息。	確かに「懐かしい」雰囲気があった。	살랑 불어오는 바람 속에 '추억'의 기운이 분명하게 스며 있는 것 같았다.	The oncoming wind carried with it a sense of reunion.						0	
+15	无论是谁的记忆中似乎都有一段小时候与游乐园有关的片段……	無論是誰，似乎都有一段孩提時期與遊樂園相關的回憶……	誰にでもある子供時代の遊園地の記憶が、そう感じさせるのかも知れない……	어린 시절 놀이공원과 관련된 기억은 누구에게나 있기 마련이니…	Everyone seems to have a memory related to amusement parks from when they were little...						0	
+16	老朋友，不错的比喻，恩雅小时候经常来这里玩吗？	老朋友這個比喻真不錯，恩雅小時候常來這裡玩嗎？	「古い友達」とは詩的な表現だね。子供の頃によく遊びに来ていたとか？	오랜 친구, 좋은 표현이네요. 엔야, 어릴 때 여기에 자주 놀러 왔었어요?	An old friend... That's a good comparison. Did you come here often when you were little?						0	
+17	从来没有来过哦。	從來沒有過喔。	来たことは一度もありません。	한 번도 와본 적 없어.	I've never been here before.						0	
+18	啊？	什麼？	え？	네?	Ah?						0	
+19	小时候，我只能从很远很远的地方，看看那个摩天轮而已。	小時候我只能從很遠很遠的地方，看看那個摩天輪而已。	子供の頃、私は遠くからあの観覧車を見ているだけでした。	어렸을 때 난 아주 먼 곳에서 저 관람차를 바라보기만 했었어.	When I was little, I could only look at the Ferris wheel from far away.						0	
+20	……那个时候我的父母都很忙，根本就没有时间带我来这种地方玩。	……那時候我的父母都很忙，根本沒有時間帶我來這種地方玩。	……当時、両親はとても忙しくしていて、私をああいう場所に連れて行く余裕はまったくなかったんです。	… 그땐 우리 부모님이 바쁘셔서 날 이런 데 데리고 올 시간이 없었거든.	...My parents were always busy back then. They didn't have any time to bring me somewhere like this.						0	
+21	那是有点可惜。	那還真是可惜。	それは残念だったね。	아쉽네요.	That's a shame.						0	
+22	当然，我也没有怪他们的意思，毕竟学生时代的我也只是个书呆子……	當然我也沒有怪他們的意思，畢竟學生時期的我也是個書呆子……	もちろん、両親を責めるつもりはありません。あの頃の私にしたって、本の虫でしたし……	물론 부모님을 탓하지는 않아. 나도 학창 시절에는 책밖에 몰랐으니까…	But I don't blame them. I was such a bookworm when I was a student, after all...						0	
+23	回想起来姐姐我还真是错过了好多好多有意思的事情呢……	回想起來姐姐我還真是錯過了好多好多有意思的事情呢……	改めて考えると、経験しないまま過ごして来たことが、本当に沢山あるんだなって……	그런데 돌이켜보면 재미있는 것들을 많이 놓친 것 같아…	But looking back on it, I really missed out on a lot of fun stuff...						0	
+24	……	……	……	…	...						0	
+25	呼啊——一不小心就开始念旧了~	呼啊——不小心就開始懷舊了～	はー……つい感傷的になってしまいましたね～	후우… 옛날 생각이 나고 말았네~	Oh my... I'm starting to get nostalgic~						0	
+26	恩雅突然背对我仰起头伸了一个大到夸张的懒腰。	恩雅突然背對著我仰起頭伸了一個大到誇張的懶腰。	エンヤはこちらに背を向けると、大きく背伸びをした。	엔야는 갑자기 돌아서더니, 고개를 들고 과장되게 기지개를 켰다.	Enya suddenly turned her back to me, raised her head, and stretched dramatically.						0	
+27	恩雅你……哭了吗？	恩雅你……哭了嗎？	エンヤ……泣いてるのか？	엔야… 우는 거예요?	Enya... are you crying?						0	
+28	嘿嘿，本来还想着绝对不能被分析员看到姐姐流眼泪的样子……	嘿嘿，本來還想著絕對不能被分析員看到姐姐流眼淚的樣子……	ふふ。分析員には情けないところを見せたくなかったんですが……	헤헤, 분석가한테는 절대 눈물 보이지 않으려고 했는데…	Hehe, I thought I'd never let you see me cry, Adjutant...						0	
+29	不过，还请不要对别人提起刚刚的事哦，我的眼泪就让分析员独享好了~	不過，請不要對任何人提起剛剛的事喔，我的眼淚就讓分析員獨享吧～	他の人には言わないでくださいね。私の涙は、分析員ひとりだけで楽しんでください。	다른 사람한테는 비밀이야. 내 눈물은 분석가 혼자서만 즐기도록 해~	Please don't tell anyone else what happened just now. You're the only one I'll let enjoy my tears, Adjutant~						0	
+30	我可不认为这有什么好享受的。	我可不認為這有什麼好享受的。	そんな趣味はないよ。	즐기다니요, 그런 적 없어요.	I don't think that's something to enjoy.						0	
+31	不过放心好了，我会替恩雅保守秘密的。	不過放心吧，我會幫恩雅保密的。	でも、安心してくれ。エンヤの秘密は守るから。	걱정 말아요, 엔야. 비밀 지킬게요.	But don't worry. Your secret's safe with me, Enya.						0	
+32	谢谢你……分析员。	謝謝你……分析員。	ありがとうございます……分析員。	고마워… 분석가.	Thank you... Adjutant.						0	
+33	好啦，哭过之后就算是正式道别完了。	好啦，哭過之後就算是正式道別了。	まあ、泣いてしまった以上はこれでお別れですね。	자, 눈물까지 보였으니 이제 정식으로 작별 인사를 마친 거야.	Okay. Now that I'm done crying, it's time to say goodbye.						0	
+34	道别？恩雅以后不来这里了吗？	道別？恩雅以後不來這了嗎？	お別れって？もう来ないつもりなのか？	작별 인사라고요? 엔야, 이제 여기에 안 올 거예요?	Say goodbye? Are you not going to come here anymore?						0	
+35	嗯，实际上这座游乐园下个月就要被拆掉了，毕竟它已经荒废很久了。	嗯，其實這座遊樂園下個月就要拆除了，畢竟已經荒廢很久了。	ええ。実は来月には取り壊しが決まっているんです。廃墟になって随分経ちましたからね。	응. 이 놀이공원은 다음 달에 철거될 예정이야. 버려진 지 꽤 오래됐거든.	Well actually, the amusement park is going to be torn down next month since it's been abandoned for so long.						0	
+36	这次来就是见它最后一面的。	這次來就是見它最後一面的。	だから今日は、最後のお別れを、と思って。	마지막으로 보러 온 거였어.	So I came to see it for the last time.						0	
+37	不过别担心，之后这里会改成福利院。	不過別擔心，這裡之後會改成福祉機構。	でも心配はしていません。跡地には福祉施設が建つ予定なんです。	하지만 걱정하지 않아도 돼. 여긴 나중에 보육원이 세워질 거니까.	But don't worry. The space is going to be converted into an orphanage.						0	
+38	而且以此为中心，老区的改造计划也将提上日程，只要能帮上失去家园和父母的孩子，那么对我和游乐园来说都不算太坏的事。	而且以此為中心，這片老舊區域的改造計劃也將啟動，只要能幫助失去了家園以及父母的孩子們，那麼對我以及遊樂園來說都是一件好事。	その施設を中心に、旧エリア全体の再開発も計画されています。家や親を失った子供たちの助けになるなら、私にも、遊園地にとっても悪い事じゃないですから。	그리고 이곳을 중심으로 구시가지의 개발 계획도 잡혀 있어. 집과 부모를 잃은 아이들을 도울 수 있다면 나와 놀이공원에게도 그리 나쁜 일은 아닐 거야.	And with that, the renovation of this entire area will be put on the agenda. So it isn't really a bad thing for me or the amusement park, as long as it can help kids who have lost their homes and parents.						0	
+39	那么，不进去看看吗？	怎麼，不進去看看嗎？	そっか。じゃあ、もっと近くで見てみようか？	그럼, 들어가 볼래요?	Then, should we go in and take a look?						0	
+40	还是算了，这里的铁门一直被锁着~分析员我们还是一起回去吧。	還是算了，這裡的鐵門一直是鎖著的～分析員，我們還是回去吧。	ずっと見てても仕方ないですね。鉄扉だって施錠されていますし。分析員さん、戻りましょうか。	아니야. 이 철문은 계속 잠겨있거든~ 분석가, 우리 그냥 돌아가자.	No, forget it. The gate here is always locked. Let's head back together, Adjutant~						0	
+41	嗯……	嗯……	うーん……	음…	Alright...						0	
+42	还有一个月就要关闭了吗？	還有一個月就要關閉了嗎？	あと一か月で取り壊される、か。	한 달 후면 문을 닫는 건가?	It was being torn down in a month?						0	
+43	如果有办法帮恩雅……	如果有辦法幫恩雅的話……	エンヤの助けになれないだろうか……	엔야를 도울 방법이 있다면…	If there was a way to help Enya...						0	

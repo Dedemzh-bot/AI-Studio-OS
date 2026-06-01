@@ -1,0 +1,23 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员~分析员~我最近学会了一种新的占卜方法，要看看吗？	分析員~分析員~我最近學會了一種新的占卜方法，要看看嗎？	分析員、聞いて聞いて。最近、新しい占いを覚えたんだ、一緒にやってみない？	분석가, 분석가~ 내가 요즘 새로운 점술을 배웠는데, 한번 볼래?	Adjutant! Adjutant! I've just learned a new trick for divination. Wanna see?						0	2.7版本随机剧情
+page1.2	新的占卜方法？看来和你手上的树叶有关。	新的占卜方法？看來和你手上的樹葉有關。	新しい占い？その葉っぱを使うのか？	새로운 점술이라고? 네 손에 든 나뭇잎과 관련이 있나 보네.	A new method of divination? Let me guess, is that why you've got those leaves?						0	2.7版本随机剧情
+page1.3	嘻嘻，这叫遇事不决~可问春风。	嘻嘻，這叫遇事不決~可問春風。	えへへ、これはね、春風に聞いて占うんだ。	히히, 고민이 있으면 봄바람에 물어보라~	Hehe, when you're unsure, just ask the spring breeze.						0	2.7版本随机剧情
+page1.4	卜卜将三片树叶抛向空中，树叶慢悠悠落下，在地上形成了我看不懂的“卦象”。	卜卜將三片樹葉拋向空中，樹葉緩慢落下，在地上形成了我看不懂的「卦象」。	ブブが三枚の葉をひょいっと空に放つと、ひらひらと舞い落ちて、地面に見慣れない卦を描いた。	보보는 나뭇잎 세 장을 공중에 던졌다. 나뭇잎들은 천천히 내려앉으며 땅 위에 내가 도무지 알 수 없는 '괘상'을 만들었다.	Bubu tossed three leaves into the air. They slowly drifted down and formed a strange symbol on the ground.						0	2.7版本随机剧情
+page1.5	小天师，此卦何解？	小天師，此卦何解？	天師、これはどう読むんだ？	점술사님, 이 괘는 무슨 뜻인가요?	Well, Geomancer? What does it say?						0	2.7版本随机剧情
+page1.6	唔……我看看。	嗯……我看看喔。	んー……ちょっと待ってね。	음… 어디 보자.	Hmm... Let me see...						0	2.7版本随机剧情
+page1.7	奇怪……卦象显示，我和分析员今天会很忙碌？	奇怪……卦象顯示，我和分析員今天會很忙碌？	変だな……この卦だと、わたしと分析員は今日すごく忙しくなるみたい。	이상하네… 괘상에 따르면, 오늘 나랑 분석가가 엄청 바쁠 거라고 하는데?	Strange... It says that Adjutant and I will be very busy today.						0	2.7版本随机剧情
+page1.8	忙碌？也可不是什么好兆头，怕是很快就要被工作找上门了。	忙碌？好像也不是什麼好預兆，恐怕是很快要被工作找上門了。	それはあんまりいい兆しとは言えないな……仕事に追われるってことか。	바쁠 거라고? 그다지 좋은 징조가 아닌데, 아무래도 곧 일이 몰려들 모양인가 보네.	Busy? That's not a good sign. Probably means that a job will come knocking any minute.						0	2.7版本随机剧情
+page1.9	话说……这些叶子看着有些眼熟，你从哪儿摘的？	話說……這些葉子看起來有點眼熟，你從哪裡摘的？	そういえば、どこかで見たような気がするけど……その葉っぱはどこで？	그나저나… 이 나뭇잎들, 어디서 본 것 같은데? 어디서 땄어?	By the way... Those leaves look familiar. Where did you get them?						0	2.7版本随机剧情
+page1.10	不是摘的，我是从公司门口的树那儿捡来的。	不是摘的，我是從公司門口的樹那裡撿到的。	会社の入口にある木の下で拾ったんだ。	딴 게 아니라, 회사 입구에 있는 나무에서 주웠어.	I picked them up from the tree at the entrance to the office.						0	2.7版本随机剧情
+page1.11	公司门口……那好像是后勤部特地买来的发财树。	公司門口……那好像是後勤部特地買來的發財樹。	会社の入口って……後方支援科が大切にしてる金運の木じゃないか。	회사 입구라… 거기 있는 건 지원부에서 일부러 들여온 돈나무일 텐데.	The office entrance, hmm...? That sounds like the money tree bought by our Logistics Department.						0	2.7版本随机剧情
+page1.12	什么？！那是发财树！公司发展的命脉！	什麼？！那是發財樹！公司發展的命脈！	えっ、あれが金運の木なの！？会社の命運を背負ってるようなものじゃん！	뭐?! 돈나무라고? 그건 회사 발전의 핵심이잖아!	What?! That was a money tree? That's the lifeblood of the company!						0	2.7版本随机剧情
+page1.13	哪有那么夸张。	哪有那麼誇張。	そんな大げさな……	그 정도는 아니야.	Let's not go overboard.						0	2.7版本随机剧情
+page1.14	才没有夸张，发财树对财运的影响可是很大的。	才沒有誇張，發財樹對財運的影響可是很大的。	大げさなんかじゃないよ！ああいう木は金運にめちゃくちゃ影響するんだから！	그렇잖아, 돈나무는 재운에 엄청난 영향을 준다고.	I'm serious! Money trees have a big impact on your wealth.						0	2.7版本随机剧情
+page1.15	它掉了那么多叶子，一定是生了病根。	它掉了那麼多葉子，一定是生病根了。	あんなに葉っぱが落ちてるってことは、きっと病気になってるんだよ。	잎이 이렇게 많이 떨어졌다는 건, 분명 상태가 안 좋은 거야.	And if it's losing that many leaves, it must have some root disease.						0	2.7版本随机剧情
+page1.16	还好我经常去山林里找“干娘”，也稍微懂得些植物的栽培方法。	還好我常常去山林裡找「乾娘」，也稍微懂些植物的栽培方法。	わたし、森に住んでる「育ての親」から、植物の育て方をちょっと教わったんだ。	다행히 난 '양어머니'를 보러 산속에 자주 가니까, 식물 재배에 대해서도 조금은 알고 있어.	Good thing I've picked up a little about tending plants from visiting my godmother in the mountains.						0	2.7版本随机剧情
+page1.17	分析员，我们去给发财树“治病”吧！	分析員，我們去幫發財樹「治病」吧！	分析員、一緒に金運の木を「治して」あげよう！	분석가, 우리 돈나무를 '치료'해 주러 가자!	Adjutant, let's go heal the money tree!						0	2.7版本随机剧情
+page1.18	你打算怎么治？	你打算怎麼治呢？	どうやって治すつもりなんだ？	어떻게 치료할 건데?	And how are we going to do that?						0	2.7版本随机剧情
+page1.19	嗯……无非就是松土、控水、施肥，再给它挪到暖和的地方？	嗯……大概就是鬆土、控水、施肥，再幫它挪到暖和的地方？	ん……土をほぐして水やりを調整して、肥料をあげて、暖かい場所に移す感じかな。	음… 흙을 부드럽게 하고, 물 조절도 해주고, 비료도 주고, 따뜻한 곳으로 옮겨주면 되지 않을까?	Well... basically, we loosen the soil, add water and fertilizer, then move it somewhere warmer?						0	2.7版本随机剧情
+page1.20	怪不得你说我们今天会很忙碌，这么看来你算得还真准。	怪不得你說我們今天會很忙碌，這樣看起來你算得還真準。	なるほど。確かにそれだと今日は忙しくなりそうだ、占いが当たったんだな。	어쩐지 우리가 오늘 바쁠 거라고 하더니, 이렇게 보니 정말 정확하네.	No wonder you said we'd be busy today. Looks like your divination is the real deal.						0	2.7版本随机剧情
+page1.21	哈哈哈~那当然了，我可是小天师嘛~	哈哈哈~那是當然的啊，我是小天師嘛~	なんてったってわたしは天師だし！	하하하, 당연하지~ 난 점술사니까~	Hahaha! Of course, I am the Geomancer after all!						0	2.7版本随机剧情

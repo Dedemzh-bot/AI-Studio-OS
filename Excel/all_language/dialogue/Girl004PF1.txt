@@ -1,0 +1,70 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我来到医疗室，继续处理部分天启者出现衰退症状的资料分析事务。	我來到醫療室，繼續處理部分天啟者出現衰退症狀的資料分析事務。	医務室に来た私は、衰退症状が出た一部の覚醒者の資料を分析しに来た。	나는 일부 계시자들이 약해지는 증상에 관해 데이터 분석을 하고자 의무실에 왔다.	Some of the operatives had been presenting with odd health issues. I was working in the medical bay, trying to get a handle on what was going on.						0	
+2	近来精神方面出问题的天启者有点多，不禁让人担心。	近來精神方面出問題的天啟者有點多，不禁讓人擔心。	最近、精神面に問題を抱える覚醒者が増えてしまい、心配せずにはいられない。	최근에 정신 쪽으로 이상이 있는 계시자들이 많아져 걱정이다.	The Force was going through a spate of mental health issues. I was getting more and more worried.						0	
+3	神格这个东西，一方面是能施展多少力量的关键，另一方面又是引发各种精神症状的原因。要找到平衡十分麻烦。	神格這個東西，一方面是能施展多少力量的關鍵，另一方面又是引發各種精神症狀的原因。要找到平衡十分麻煩。	神格というものはどれほど力を発揮できるかのカギになっている一方、様々な精神症状を起こす原因となっている。バランスを取るのは難しい。	만트라는 얼마나 힘을 발휘할 수 있는가가 관건인 동시에, 각종 정신 질환을 일으키기도 해서 둘의 균형점을 찾기가 매우 번거로웠다.	Manifestations have abilities unlike anything you would ever see in a normal person, but they're also susceptible to severe psychiatric issues. Helping them stay functional, stay combat-ready, it's a real struggle.						0	
+4	咦，这不是分析员吗？	咦，這不是分析員嗎？	あれ、分析員じゃない？	어? 분석가 아니야?	Oh, it's you, Adjutant?						0	
+5	我看向门口，芙提雅正笑着向我挥手。	我看向門口，芙提雅正笑著向我揮手。	入り口の方を見ると、フリティアが笑顔で手を振っている。	입구 쪽을 보니 프티야가 해맑게 웃으며 내게 손짓을 하고 있었다.	I turned to find Fritia waving from the doorway, a big grin on her face.						0	
+6	是在保养吗？	是在保養嗎？	休憩してるの？	쉬고 있는 중이야?	Here for a checkup?						0	
+7	啊我明白我明白，加班太多太操劳所以身体出问题了吧？不要勉强自己哦！	啊我明白我明白，加班太多太操勞所以身體出問題了吧？不要勉強自己哦！	ああ〜、分かる。分かるぞ〜。残業や心配事が多くて体を壊しちゃったんでしょ？無理しないでね！	아… 보아하니… 야근을 너무 많이 해서 몸에 무리가 좀 온 것 같은데? 너무 무리하지는 말고!	I'm mean, of course... you do so much overtime, bound to be tired out. Don't push yourself so hard, you do have to rest sometimes.						0	
+b-1											0	
+8	不，我是来加班的。	不，我是來加班的。	いや、残業しに来た。	야근하러 온거야…	Nah, I'm just here working on something.						0	
+9	诶？那是保养太多所以要加班调节一下对吧！	欸？那是保養太多所以要加班調整一下對吧！	え？つまり休みすぎちゃったから働いて体を壊そうってこと！？	아하… 그럼 반대로 너무 많이 쉬어서 야근으로 오히려 밸런스 조절을 하려 했구나? 맞지!	Oh, right. Got it. You went so hard on looking after yourself that you felt like you had to come down here and do a bunch of overtime, just to feel normal again?						0	
+10	……不好笑吗！？	……不好笑嗎！？	……笑いなさいよ！	… 재미없어?!	...Not even a chuckle? Pff, fine...						0	
+b-2											0	
+11	你是来加班还是保养？	你是來加班還是保養？	フリティアは残業？休憩？	프티야는 쉬러 온 거야, 아니면 야근하러 온거야?	How about you? Checkup or overtime?						0	
+12	嗯，两者兼有吧。	嗯，兩者兼有吧。	うんー、両方ともかな。	나는 둘 다 하러 왔지~!	Both?						0	
+13	稍微有点小苦恼，正好分析员你在，能帮我出点主意吗？	稍微有點小苦惱，正好分析員你在，能幫我出點主意嗎？	ちょっと悩み事があって。ちょうどいいし、相談に乗ってくれない？	아… 마침 조금 번거로운 게 있었는데, 분석가가 조금 도와줄 수 있을까?	Had something on my mind. Actually, can I ask you something?						0	
+b-3											0	
+14	当然。	當然。	もちろん。	당연하지.	Sure, go for it.						0	
+15	你也知道我的体力不是很好对吧，最近几次行动都因为体力不足拖了大家后腿。	你也知道我的體力不是很好對吧，最近幾次行動都因為體力不足拖了大家後腿。	私の体力があまりないのは分析員も知ってるでしょ。そのせいで最近の作戦でみんなの足手まといになっちゃった。	분석가도 알다시피 내가 체력이 좀 부족한 편이잖아. 최근에도 이것 때문에 사람들한테 계속해서 신세를 졌었고.	My stamina sucks. Like, it really really sucks. You know how tired I get. These last few missions, I've really been holding everyone back.						0	
+16	这次也是，急行军途中晕倒被大家强行送进医院，那个距离我自己明明觉得完全没问题的！	這次也是，急行軍途中暈倒被大家強行送進醫院，那個距離我自己明明覺得完全沒問題的！	今回も急行軍の途中で倒れて、みんなに病院まで送ってもらった……あの距離ならいけると思ったのに！	이번에도 행군 도중에 쓰러져서 병원으로 이송됐는데, 내 딴에는 거리상 큰 문제는 없을 거라 생각했었거든…	Last time out, we ran a few miles and I got so worn out I fainted and had to be carried back to the medical bay. Hadn't thought the distance would be any problem at all.						0	
+17	所以啊，我想着来自己检查下然后制定个锻炼计划，增强体力！	所以啊，我想說自己來檢查下然後制定個訓練計劃，增強體力！	だからね、自分で診断してトレーニングメニューを作って体力を付けようと思ったの！	아무튼 이런 이유로 개인적으로 자가 진단도 해보고, 트레이닝 계획을 좀 세워 볼 예정이야. 체력 단련을 위해서!	I need a training regimen. I have to start training more seriously, get myself in better shape.						0	
+18	分析员有什么建议吗！	分析員有什麼建議嗎！	何かアドバイスある？	무슨 좋은 방법 없을까?	Any thoughts?						0	
+b-4											0	
+19	要不要试试夜跑。	要不要試試夜跑。	夜のランニングはどう？	저녁에 러닝을 해보는 건 어때?	Why not start going for a run after work?						0	
+20	啊，好主意，刚好也不会影响到白天的工作！	啊，好主意，剛好也不會影響到白天的工作！	あ、いいね。それなら昼間の仕事にも影響が出ない！	오… 괜찮은데? 그렇게 하면 오전에 근무할 때도 지장 없을 것 같고!	That's not a bad idea... would be convenient...						0	
+21	不愧是分析员，很懂的嘛~！	不愧是分析員，很懂的嘛~！	さすが分析員、よくわかってるね～！	역시 분석가다워… 좋은데!	... low stress too, I like it!						0	
+22	那我们晚上见！	那我們晚上見！	じゃあまた今夜！	그럼 이따가 밤에 보자!	I'll see you this evening!						0	
+23	呃……不是……我只是随口一说……	呃……不是……我只是隨口一說……	あ……いや……適当に言っただけで……	응…? 난 그냥 한마디 한 것뿐인데…	...It was just a suggestion...						0	
+24	虽然很想解释，但芙提雅并没有给我机会。	雖然很想解釋，但芙提雅並沒有給我機會。	説明したかったが、フリティアはそんなチャンスを与えてくれなかった。	말을 하려 했지만, 프티야는 내게 말할 기회도 주지 않았다.	Before I had chance to explain what I'd meant, Fritia was already long gone.						0	
+25	但……等等，晚上见是什么意思？难道我也得去夜跑吗？？	但……等等，晚上見是什麼意思？難道我也得去夜跑嗎？？	しかし……待てよ、また今夜って何？もしかして私も走らないといけないのか？？	근데 가만있어 보자… 밤에 보자는 게 무슨 뜻이지? 설마 나도 같이 뛰자는 말인가?	Wait... hold on... She thinks I'm going running with her, doesn't she?						0	
+26	还有，哪里见啊？？？	還有，哪裡見啊？？？	あと、どこで待ち合わせするの？？？	그리고 또… 어디서 보자는 거야???	Where am I even supposed to be meeting her?						0	
+27	虽然说好了晚上见，但芙提雅并没有主动来找我。	雖然說好了晚上見，但芙提雅並沒有主動來找我。	また今夜と約束したが、フリティアは私のところに訪ねて来なかった。	밤이 다가왔지만 프티야는 주동적으로 나에게 찾아오지도 않았다.	She'd said she'd see me in the evening, but she didn't make any effort to come find me.						0	
+28	秉着对自己所给出建议负责的态度，我还是决定去宿舍附近的生活街区看看。	秉著對自己所給出建議負責的態度，我還是決定去宿舍附近的生活街區看看。	自分が提案したアドバイスには責任を持たなきゃと思って、私は寮付近の生活ブロックに見に行ってみた。	조언해 준 거에 대해 나도 어느 정도는 책임을 져야 할 것 같아서 숙소 근처에 있는 거주 구역을 좀 둘러보고자 했다.	I had told her to give the running thing a try though... I felt like I should go take a look, maybe near the sleeping quarters, see if I could find her.						0	
+29	她会在这里夜跑吗？	她會在這裡夜跑嗎？	フリティアはここでランニングするのかな？	프티야가 저녁 러닝을 하긴 할까?	Maybe she would just run laps near there?						0	
+30	啊，真的出现了。	啊，真的出現了。	あ、ほんとに来た。	정말 나타나긴 했다.	...I was right.						0	
+31	呼……明明是第一圈，为什么这么累？	呼……明明是第一圈，為什麼這麼累？	はぁ、ふぅ……まだ一周目なのに、どうしてこんなに疲れるのー……？	후… 분명히 한 바퀴만 뛴 것 같은데 왜 이렇게 힘든 거지?	*pant*... *pant*... How is this still the first lap... I'm this tired already?						0	
+32	不知道用外骨骼辅助一下会不会好些？	不知道用外骨骼輔助一下會不會好些？	外骨格で補助すればマシになるかな？	전술 슈트로 보조를 해주면 조금 괜찮으려나?	Should I run in an exosuit? Would that work better?						0	
+33	等等，用外骨骼的话，就达不到健身效果了吧……？	等等，用外骨骼的話，就達不到健身效果了吧……？	補助したら、ランニングの意味がないのでは……？	잠깐만… 전술 슈트를 사용하면 운동 효과가 없을 것 같은데…?	Running in an exosuit would be a complete waste of time...						0	
+34	芙提雅没发现路边的我，歪歪斜斜地小步跑了过去，嘴里还念念有词。	芙提雅沒發現路邊的我，歪歪斜斜地小步跑了過去，嘴裡還念念有詞。	フリティアは道端にいる私に気づいておらず、ふらふらと私の前を通った。しかも何かを呟きながら。	프티야는 길가에 있던 나를 발견하지 못하고 휘청휘청거리며 했던 말을 반복했다.	She didn't see me, just jogged past and carried on slowly up the road. Her running posture was indescribably awful and she was muttering to herself incessantly.						0	
+35	看来下一圈过来的时候，有必要给她说明一下。	看來下一圈過來的時候，有必要跟她說明一下。	次に戻って来たら、説明してあげる必要があるようだ。	프티야가 다음 한 바퀴를 돌고 오면 그때 다시 말을 해줘야 할 것 같았다.	I figured I could just get her attention the next time she went past and give her a few basic pointers.						0	
+36	但是……	但是……	しかし……	하지만…	Unfortunately...						0	
+37	芙提雅下一圈跑过来的时候，在路口就停下，远远地又听到了她抱怨的声音。	芙提雅下一圈跑過來的時候，在路口就停下，遠遠地又聽到了她抱怨的聲音。	もう一周走ったフリティアは戻って来る時、交差点で止まった。遠くからまた彼女が愚痴をこぼす声が聞こえてくる。	다음 한 바퀴를 돌 때, 순간 입구에서 멈추더니 불평을 늘어놓기 시작했다.	When she came into view for the second time, she stopped at an intersection quite a long way from where I was standing. She was within earshot but she hadn't seen me.						0	
+38	只工作，不玩耍，聪明杰克也变傻，我应该给自己建立一个犒劳机制才行嘛！	只工作，不玩耍，聰明的孩子也變傻，我應該給自己建立一個犒勞機制才行嘛！	飴と鞭。自分を労うシステムを作るべきね！	일만 하고 놀지 못해서 똑똑한 잭도 바보가 됐다던데… 나도 나한테 일종의 보상을 좀 해야 하지 않겠어?!	Keep doing all this meathead training and I'll rot my brains right out of my head. Let's pack this in... I should reward myself from time to time for the hard running!						0	
+39	芙提雅转身折进去的那条街，是生活区著名的宵夜一条街。	芙提雅轉身進去的那條街，是生活區著名的宵夜聚集地。	フリティアがさっと向きを変えて入った街路は、生活ブロックで有名な夜食街である。	프티야가 돌아서 들어간 거리는 생활 구역에서 유명한 야시장이었다.	She turned down a side street and headed in the direction of an open-air night market.						0	
+40	烧烤、奶茶、小龙虾，各路美食应有尽有……	燒烤、奶茶、小龍蝦，各式美食應有盡有……	串焼き、タピオカ、アメリカンドッグ……いろんなグルメが揃っている……	바비큐, 밀크티, 마라롱샤… 각 거리에는 맛집이 수두룩했다…	That place... They had great barbecue, milk teas, spicy crayfish... tempting stuff...						0	
+41	所以说……	所以說……	つまり……	다시 말해서…	Hmm...						0	
+42	夜跑是假，打着夜跑的名义出来宵夜才是真的么！？	夜跑是假，打著夜跑的名義出來吃宵夜才是真的嗎！？	ランニングに見せかけて、夜食を食べに来たのか！？	사실 저녁에 러닝을 한다는 핑곗거리로 야식을 하려고 했던 건가!?	This was starting to look like it had all been a trick she was playing on herself, a way to give herself an excuse to sneak off for a late-night snack!						0	
+43	正当我打算回去继续加班的时候……	正當我打算回去繼續加班的時候……	残業に戻ろうとした瞬間……	마침 돌아가서 계속 잔업을 하려던 찰나…	I was about to head back, I still had work to do...						0	
+44	嗨，这不是分析员嘛！你今天也来夜跑吗？	嗨，這不是分析員嘛！你今天也來夜跑嗎？	おお、分析員！あなたもランニング？	와… 분석가 아니야! 저녁 러닝하러 온 거야?	Hey! You came!						0	
+b-5											0	
+45	我是来监督你夜跑的。	我是來監督你夜跑的。	君のランニングを監督しに来た。	잘 뛰는지 감시 좀 하려고 나왔지.	I wanted to see how your run went.						0	
+46	啊，竟然是这样吗？	啊，竟然是這樣嗎？	あ、そうなの？	오… 그러시겠다?	You did?						0	
+47	你放心！就算没人监督，我也会全力以赴！	你放心！就算沒人監督，我也會全力以赴！	安心して！見てなくても、全力で走るよ！	걱정 마! 감시 없이도 난 최선을 다할 테니까!	Don't worry, I'm not going to slack off just because no-one's watching!						0	
+48	从出汗量来看，比平时训练还要更认真个45.1%呢！	從出汗量來看，比平時訓練還要更認真個45.1%呢！	汗の量から考えて、いつもの訓練より45.1％真剣！	현재까지의 땀의 양을 보면 평소보다 45.1%나 열심히 했다는 걸 증명할 수 있어!	Look how much I'm sweating! My run must have been about... 45.1% higher intensity than my old exercise routine!						0	
+49	你吃完了吗？	你吃完了嗎？	食べ終わった？	저녁은 먹었어?	You ate already?						0	
+50	咦，吃？	咦，吃？	えっ？食べる？	아… 저녁?	Ate?						0	
+51	啊……运动之后的确要补充能量，不过我不太建议在这里吃哦！	啊……運動之後的確要補充能量，不過我不太建議在這裡吃哦！	あ……運動の後は確かにエネルギー補給が必要だけど、ここで食べるのはおすすめしないよ！	맞아… 운동 후에 에너지 보충은 확실히 해야지. 근데 이 주변은 별로 추천하고 싶지 않아.	...I know it's important to load protein before a workout, afterward too, but eating the kind of stuff they sell at the market would be pretty sub-optimal... nutritionally...						0	
+52	回去之后我给你一袋烧烤味的鸡胸肉，热量适中脂肪含量少，还能补充铁元素哦！	回去之後我給你一袋燒烤口味的雞胸肉，熱量適中脂肪含量少，還能補充鐵質哦！	帰ったらむね肉の焼き鳥を分けてあげるから。カロリーがちょうどよくて脂肪も少ないし鉄分も補給できるよ！	돌아가서 내가 바비큐 맛 닭 가슴살 한 봉지 줄게! 열량도 적당하고, 지방 함유량도 적고, 심지어 철분까지 보충할 수 있어!	I've got some grilled chicken breast back in my quarters, you're welcome to have some. Good source of lean protein, some calories but not too many, plenty of iron...						0	
+53	话说回来，分析员现在也准备回去了吗？	話說回來，分析員現在也準備回去了嗎？	ところで、分析員は今帰るところ？	근데 분석가도 지금 돌아가려고?	Ready to head back?						0	
+b-6											0	
+54	是的。	是的。	ああ。	응.	I am, yeah.						0	
+55	好咯，那我们下次约着一起出来夜跑吧！	好囉，那我們下次約著一起出來夜跑吧！	じゃあ今度一緒に走ろうよ！	그래! 다음에는 저녁 러닝 같이 하자!	Great. We really should run together next time!						0	
+b-7											0	
+56	确定不是约夜宵吗？	確定不是約宵夜嗎？	夜食ではなく？	야식은 진짜 안 먹을 거지?	Nowhere near the night market though... it's a run, not an excuse for us to order a pile of barbecue...						0	
+57	诶？不约不约！可够了，你是魔鬼吗？！	欸？不約不約！夠了，你是魔鬼嗎？！	え？違う違う！もう、あなたは悪魔なの！？	응? 야식은 당연히 안 먹지! 분석가, 혹시 사탄이야?	Look at you, trying to fill my head with bad ideas! You're a terrible influence! Definitely no barbecue!						0	
+58	怎么看这都是在做贼心虚吧。	怎麼看這都是在做賊心虛吧。	いかにも後ろめたそうにしている。	꼭 도둑이 제 발 저려 하는 것 같았다…	Definitely didn't have a guilty conscience... definitely not...						0	
+59	但仔细一想，我并没有亲眼看到她吃东西。	但仔細一想，我並沒有親眼看到她吃東西。	でもよく考えると、この目でフリティアが食べているところを見たわけではない。	그래도 프티야가 먹는 걸 실제로 본 건 아니니까…	Then again, she didn't seem to have actually eaten anything.						0	
+60	再说，以芙提雅的技术手段，应该能从胸前的口袋里掏出神奇道具解决体力问题吧。	再說，以芙提雅的技術手段，應該能從胸前的口袋裡掏出神奇道具解決體力問題吧。	そもそも。フリティアの技術なら、体力の問題など胸のポケットから不思議アイテムを取り出して解決できるだろう。	게다가 프티야는 일종의 기술로 본인의 가슴 앞주머니에서 특정 도구를 꺼내 체력 문제를 해결할 수 있었다.	If she'd wanted to, Fritia could have just pulled out some gadget or other and used it to replenish her stamina at the push of a button...						0	
+61	所以我也没多在意，回程路上很悠然地听芙提雅唠叨了一套“夜跑的十大好处”。	所以我也沒多在意，回程路上很悠哉地聽芙提雅嘮叨了一套“夜跑的十大好處”。	だからあまり気にしていなかった。帰り道で悠長にフリティアの「夜ランニングの10個のメリット」の話を聞いてあげた。	그래서 이런 부분은 크게 신경 쓰지 않았고, 프티야가 말하는 '저녁 러닝에 대한 10가지 이점'을 들으며 집으로 돌아왔다.	No way to know, really. We ambled homewards, Fritia cheerfully listing for me her "10 Reasons You Should Go Running After Work Whenever You Can."						0	

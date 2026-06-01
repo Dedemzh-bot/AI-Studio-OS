@@ -1,0 +1,48 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	光荣的耶洛沙……伟大的耶洛沙……	光榮的耶洛沙……偉大的耶洛沙……	栄光なるイェロシャ……偉大なるイェロシャ……	영광의 옐로샤… 위대한 옐로샤여…	The glorious Yehrus... The great Yehrus...						0	
+2	加入，进化，融为一体，继承它的意志……	加入，進化，融為一體，繼承它的意志……	加入せよ、進化せよ、一体化し、意思を継ぐのだ……	합류하고, 진화하고, 하나가 되어, 그 의지를 계승하여…	Join us, evolve, become one, and inherit its will...						0	
+3	消灭它的敌人！	消滅它的敵人！	敵となる存在を、一人残らず消滅させろ！	적을 소멸하라!	Eliminate its enemies!						0	
+4	保持火力压制！不要让它们越过这片冰原！	保持火力壓制！不要讓它們越過這片冰原！	火力の投入を続けろ！この氷原を越えさせるな！	화력을 유지해! 저들이 이 아이스 필드 넘어오지 못하도록!	Keep them pinned down! Don't let them cross this ice field!						0	
+5	通讯兵呢？！快点联络李少校！再这样下去，整个北风航天中心都会落入这些怪物的包围！	通訊兵呢？！快點聯絡李少校！再這樣下去，整個北風航太中心都會落入這些怪物的包圍！	通信兵はどこだ！？早く李少佐に報告しろ！このままでは、北風宇宙センターが化け物どもに囲まれてしまうぞ！	통신병은 어딨지?! 어서 이 소령님한테 연락해! 이대로 가다간 노스윈드 우주센터가 괴물들에게 포위되게 생겼어!	Where's the comms officer!? Contact Captain Li right away! If this keeps up, the entire Northwind Aerospace Center is going to be surrounded by these monsters!						0	
+6	呃啊——	呃啊——	うがああ——	크르르——	Urgh...						0	
+7	喝！该死，世界树明明说会派人来，派到哪儿去了……	喝！該死，世界樹明明說會派人來，派到哪裡去了……	ぐぅ！くそ……ユグドラシルめ！増援の話はどうなったんだ！どこにそんなものが……	으아아… 젠장, 위그드라실에서 지원을 보낸다고 했는데, 대체 어떻게 된 거지?	Damn! Yggdrasil said they would send someone! Where are they...						0	
+8	车站的月台上，奥尔洛娃凝视着手中展开的影像战术地图——这种独特的设备一直是她用于监视耶洛沙局势的倚仗。	車站的月台上，奧爾洛娃凝視著手中展開的影像戰術地圖——這種獨特的裝備一直是她用來監視耶洛沙局勢的倚仗。	駅のホームでは、オルロヴァが映像地図を睨んでいた。その独特な道具を通じて、彼女はイェロシャの状況を監視し続けていた。	기차역 플랫폼에서 오를로바는 손에 펼쳐진 영상 전술 지도를 뚫어져라 쳐다봤다… 그녀는 줄곧 이 특이한 장비에 의지해 옐로샤 정세를 감시해왔다.	Orlova stared at the holographic tactical map in her hands as she stood on the train station platform — she had always relied on this unique device to aid her in monitoring the situation in Yehrus.						0	
+9	现在，整个航天中心周围两百公里的范围内已经成了堪比“深水区”的禁区。而在她的身后，抵抗军的士兵们刚刚将最后一批百姓送上了列车。	現在，整個航太中心周圍兩百公里的範圍內已經成了堪比「深水區」的禁區。而在她的身後，抵抗軍的士兵們剛剛將最後一批百姓送上了列車。	今や宇宙センターの周囲200kmの範囲は、「深海エリア」によく似た禁区となってしまっていた。彼女の後ろでは、抵抗軍が最後の民衆を列車に積み込んだところだった。	지금은 우주센터 주변의 200km가 모두 '심해 구역'에 버금가는 금지 구역이 되었다. 그녀 뒤에는 저항군 병사들이 마지막 시민들을 기차에 태우고 있었다.	Now, everything in a 200-kilometer radius around the Aerospace Center was a restricted area similar to the Drowned Sections. Behind her, Resistance soldiers were ushering the last batch of civilians onto the train.						0	
+10	公爵大人，这些是最后的了。等他们一离开，北风航天中心里就不存在非交战人员了。	公爵大人，這些是最後的了。等他們一離開，北風航太中心裡就不存在非交戰人員了。	公爵様、これで最後です。この列車が出れば、北風宇宙センターには非戦闘員は存在しないことになります。	공작님, 이번이 마지막 시민들입니다. 이들이 떠난 뒤에는 노스윈드 우주센터에 민간인들은 더 이상 존재하지 않을 것입니다.	That's the last of them, Your Grace. Once they leave, there will be no civilians in Northwind Aerospace Center.						0	
+11	他们还走得了吗。	他們還走得了嗎。	果たして出れるのかしらね。	여기서 나갈 수 있을까?	Can they really get away?						0	
+12	呃……公爵大人？	呃……公爵大人？	えっ、公爵様……？	무슨 말씀이신지… 공작님?	Um... Your Grace?						0	
+13	奥尔洛娃没再应声，只是随手将投影设备丢给她的亲卫，转过身，走向了还未关闭的列车门。	奧爾洛娃沒再應聲，只是隨手將投影設備丟給她的親衛，轉過身，走向了還未關閉的列車門。	オルロヴァは持っていた映像地図を兵士に渡すと、まだ扉の閉じていない列車へと足を踏み入れた。	오를로바는 더 이상 응답하지 않았고, 근위병에게 프로젝터를 주고는 몸을 돌려 아직 닫히지 않은 열차 문으로 향했다.	Orlova didn't respond. She simply tossed the projection device to her guard, turned around, then walked toward the still-open carriage door.						0	
+14	在那里，等待避险转移的流民们脸上并没有挂着什么轻松侥幸的表情。这些土生土长的耶洛沙人紧抿着嘴，似乎在犹豫着要作出什么艰难的选择。	在那裡，等待避險轉移的流民們臉上並沒有掛著什麼輕鬆僥倖的表情。這些土生土長的耶洛沙人緊抿著嘴，似乎在猶豫著要做什麼艱難的選擇。	列車が出るのを待っている流浪者たちは、みな暗い顔をしていた。乗っているのはイェロシャで育った人々ばかりだ。難しい選択を迫られているみたいに、きつく口元を結んでいた。	그곳에서 대피와 이주를 기다리는 난민들의 얼굴에는 어떤 안도감이나 행복한 표정은 찾아볼 수 없었다. 여기서 자라난 옐로샤인들은 어려운 선택을 고민하는 것처럼 보였다.	There, the faces of the refugees waiting to be evacuated were far from content. These people who had lived their entire lives in Yehrus pursed their lips tightly, seemingly hesitating before making a difficult decision.						0	
+15	公爵大人，我们……	公爵大人，我們……	公爵様、あの……	공작님, 저희는…	Your Grace, can't...						0	
+16	我们能留下来吗！	我們能留下來嗎！	ここに留まるわけにはいきませんか！	혹시 이곳에 남아있으면 안 될까요?	Can't we stay?						0	
+17	恐怕不行。按照军方命令我签署的条约，我需要保证你们的安全，把你们平安地送回后方的军占区去……	恐怕不行。按照軍方命令我簽署的條約，我需要確保你們的安全，把你們平安地送回後方的軍佔區去……	それは無理よ。軍との取り決めでは、あなた達を安全に軍占領区へ移送することになっているから。	아마도 그건 힘들 것 같습니다. 군의 명령에 따라 제가 서명한 조약에 따르면 저는 당신들의 안전을 보장하고, 당신들을 안전하게 본부의 군 점령 지역으로 돌려 보내야 하니까요…	I'm afraid not. According to the treaty I was ordered to sign by the Military, I must ensure your safe transport back to the rear Military-occupied zone...						0	
+18	去他的条约！我们不听他们的！我们……我们只想听您的……	去他的條約！我們不聽他們的！我們……我們只想聽您的……	取り決めなんて知ったことか！嫌です！あなたの、あなたの命令以外従いたくありません！	그런 조약은 볼 필요도 없습니다! 저희는 그들의 말을 신뢰하지 않아요! 저희는… 공작님의 말만 듣고 싶습니다.	Screw the treaty! We don't need to listen to them! We... We only want to listen to you...						0	
+19	嗯……为什么？	嗯……為什麼？	そう……それはなぜ？	… 왜죠?	Well... why?						0	
+20	因为！因为……	因為！因為……	なぜって！それは……	왜냐하면, 그건…	Because! Because...						0	
+21	父辈们曾教导过我。	父輩們曾教導我。	父たちが、かつて教えてくれたことがある。	아버지는 일찍이 내게 가르쳐 주셨다.	My forebearers taught me.						0	
+22	他们用自己亲身参与过的战斗，\N亲手书写的历史来告诉我。	他們用自己親身參與過的戰鬥，\N親手書寫的歷史來告訴我。	自ら戦争に身を投じ、\Nそうやって自ら紡いで来た歴史を通じて、私に教えてくれたことがある。	그들은 자신이 직접 참여했던 전투,\n자신의 손으로 직접 써온 역사를 나에게 알려줬다.	With the battles they fought,\Nthe history they wrote, they told me.						0	
+23	如何去发动并打赢一场没有胜算的战争。	如何發動並打贏一場沒有勝算的戰爭。	勝つ見込みのない戦争に挑み、そして勝利する方法を。	어떻게 하면 승산이 없는 전쟁을 일으켜 이겨낼 수 있을지에 대해서.	How to start and win a hopeless war.						0	
+24	呜嗯！！放我……出去！呜嗯！！！！	嗚嗯！！放我……出去！嗚嗯！！！！	ううう！！ここから……出して！うううう！！！！	으악!!! 그만 날 좀 풀어줘!!!	Ugh! Let me... go! Hnngh—!!!						0	
+25	实验就要完成了。我……将获得新的身体，和永恒的生命。	實驗就要完成了。我……將獲得新的身體，和永恆的生命。	実験はじきに完成する。私は……新しい体と、永遠の命を手に入れる。	곧 실험이 완료될 거야. 그리고 난… 새로운 육체와 영원한 생명을 얻게 될 거고.	The experiment is almost complete. I shall obtain... a new body and eternal life.						0	
+26	在这种时候，你们却胆敢告诉我……就那么几个人，你们都解决不了！	在這種時候，你們卻膽敢告訴我……就那麼幾個人，你們都解決不了！	こんな時に、よくもこんな報告ができたものだ……たった数人すら片付けられないのか！	지금 같은 시기에 어떻게 나한테 감히 그 몇 명조차도 해결할 수 없다고 얘기할 수 있지?	At a time like this, you dare tell me... you can't even handle those few people!?						0	
+27	甚至还让他们混进了这座基地？！	甚至還讓他們混進了這座基地？！	しかも、基地への侵入を許しただと！？	심지어 이 기지에 침임까지 하게 하다니…	You even let them sneak into our base!?						0	
+28	奥米茄先生，请您放心，我们绝不会让海姆达尔部队的人靠近这座实验室。	ω先生，請您放心，我們絕對不會讓海姆達爾部隊的人靠近這座實驗室。	安心してください、ωさん。ヘイムダルをこの実験室には近寄らせません。	ω 님, 안심하십쇼. 하임델 팀원들이 실험실 근처도 못 오게 조치하겠습니다.	Mr. ω, please rest assured. We won't allow anyone from the Heimdall Force to get close to this lab.						0	
+29	这不是你现在该说的。	這不是你現在該說的。	私が聞きたいのは、そんな言葉じゃない。	지금은 그런 말을 할 때가 아니야.	That's not what you should be saying right now.						0	
+30	你该说的是，“我们会杀了他们，会用泰坦的力量毁灭世界树的走狗！”！	你該說的是，「我們會殺了他們，會用泰坦的力量毀滅世界樹的走狗！」！	「タイタンの力で、ユグドラシルの手下どもを皆殺しにしてみせる」だろうが！	그들을 죽이고, 타이탄의 힘을 사용하여 위그드라실을 파괴할 거라고 해야지!	You should be saying, "We'll kill them all and use the power of the Titans to destroy those Yggdrasil lapdogs!"						0	
+31	说啊！	說啊！	どうなんだ！	다시 말해봐!	Say it!						0	
+32	是……我们会杀了他们，会用泰坦的力量……消灭入侵到基地里的所有敌人。	是……我們會殺了他們，會用泰坦的力量……消滅入侵到基地裡的所有敵人。	ハッ……タイタンの力で……基地に侵入して来た敵をすべて殲滅します。	네… 그들을 죽이고, 타이탄의 힘을 사용하여… 위그드라실을 파괴하겠습니다.	Yes, Sir... We'll kill them all and use the power of the Titans... to eradicate all enemies within the base.						0	
+33	激怒对手，团结伙伴……\N让所有卷入其中的人不知不觉地参战。	激怒對手，團結夥伴……\N讓所有捲入其中的人不知不覺地參戰。	敵の逆上を誘い、味方を団結させ……\N巻き込んだすべての人間を戦場に追い立てる。	상대를 도발하고, 파트너와 단결해… \n이에 휘말린 모든 사람들이 영문을 모른 채 참전한다.	How to provoke opponents, unite allies...\Nand cause everyone involved to join the fight without ever realizing it.						0	
+34	让他们以为……\N他们在为自己而战。	讓他們以為……\N他們在為自己而戰。	自分自身のために……\N戦っていると思わせるのだ。	그들로 하여금…\n본인을 위해 싸우게끔 만들었다.	How to make them think...\NThey are fighting for themselves.						0	
+35	为了耶洛沙！为了您承诺给我们的那个耶洛沙！	為了耶洛沙！為了您承諾給我們的那個耶洛沙！	イェロシャのために！あなたが私達に約束してくれた、あのイェロシャのために！	옐로샤를 위해! 당신이 저희에게 약속한 옐로샤를 위하여!	For Yehrus! For the Yehrus you promised us!						0	
+36	武装他们，阿尔乔姆。	武裝他們，阿爾喬姆。	アルチョーム。みんなに武器を渡しなさい。	아르템, 저들을 무장시켜.	Arm them, Artyom.						0	
+37	遵命，公爵大人！	遵命，公爵大人！	仰せのままに、公爵様！	알겠습니다, 공작님!	As you wish, Your Grace!						0	
+38	同胞们，下车！拿起武器！	同胞們，下車！拿起武器！	さあ、同胞たちよ、列車から降りて、武器を取ろう！	동료들이여, 차에서 내려 무기를 들으십시오!	Brethren, get off the train! Take up arms!						0	
+39	我们一起冲进苏兹达尔基地，夺回第一公民的血嗣，在奥尔洛娃公爵的庇佑下，重建我们的家！	我們一起衝進蘇茲達爾基地，奪回第一公民的血嗣，在奧爾洛娃公爵的庇佑下，重建我們的家！	ともにスーズダリ基地へ突撃して、第一公民の末裔を取り戻そう！オルロヴァ公爵の庇護のもとに、我々の家を再建するんだ！	저와 함께 수즈달 기지로 뛰어들어, 제1시민의 혈통을 되찾고 오를로바 공작님의 보호 아래 집을 재건합시다!	We will rush into the Suzdal Launch Base together, take back Leader Gustav's blood heir, and rebuild our home as Duchess Orlova watches over us!						0	
+40	把能握在手中的都牢牢握住，而剩下的……	把能握在手中的都牢牢握住，而剩下的……	やれることは全てやり尽くしたわ。後は……	손에 쥘 수 있는 건 무조건 꽉 잡고, 나머지는…	Hold whatever you can in your hands firmly. As for the rest...						0	
+41	交给天命。	交給天命。	なるようにしかならないわね。	운명에게 맡길 수밖에.	It's up to fate.						0	
+42	伟大光耀的耶洛沙星盘……旧联邦时代的残存徽记。	偉大光耀的耶洛沙星盤……舊聯邦時代的殘存徽記。	偉大なる栄光のイェロシャ・アストロラーベ……旧連邦時代の残した象徴。	위대하고 영광스러운 옐로샤의 천체… 구 연방 시기의 남은 훈장.	Oh, magnificent Yehrus astrolabe... a relic from the old Federation.						0	
+43	前人们都说你记录着这片土地，和它的子民们的命运。	前人們都說你們記錄著這片土地，和它的子民們的命運。	この土地と民衆たちの運命を記しているらしいけれど……	선조들은 당신이 이 땅과 백성들의 운명을 기록하고 있다고 말했습니다.	In the past, people said you recorded the destiny of this land and its people.						0	
+44	那么，我的命运也被你所记录着吗。	那麼，我的命運也被你所記錄著嗎。	その中には、私の運命も含まれているのかしら。	그럼 제 운명도 당신이 기록하고 있는 건가요?	Then, did you record my destiny too?						0	
+45	请你告诉我，那被邪恶所扭曲纠缠的东西……	請你告訴我，那被邪惡所扭曲糾纏的東西……	どうか教えてください。あの邪悪に縛られた場所が……	제게 말해주십쇼, 악에 뒤틀려 얽힌 것이 무엇인지…	Please tell me, that thing warped by and entangled with evil...						0	
+46	到底会是我的耻辱柱，还是我的纪念碑呢。	到底會是我的恥辱柱，還是我的紀念碑呢。	私の無惨な姿を晒す墓碑となるか、それとも勝利を記す記念碑となるのかを。	그게 제 수치심이 될지, 아니면 저의 기념비가 될지…	Will it become my pillar of shame, or my monument of glory?						0	

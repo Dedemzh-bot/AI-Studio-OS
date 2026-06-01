@@ -1,0 +1,666 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+Chara.01	安卡希雅	安卡希雅	アカシア	아카시아	Acacia						0	
+Chara.02	里芙	里芙	リフ	리브	Lyfe						0	
+Chara.03	妮塔	妮塔	ニタ	니타	Nita						0	
+Chara.04	芙提雅	芙提雅	フリティア	프티야	Fritia						0	
+Chara.05	茉莉安	茉莉安	マリアン	마리안	Marian						0	
+Chara.06	晴	晴	晴	하루	Haru						0	
+Chara.07	琴诺	琴諾	チェルノ	체르노	Cherno						0	
+Chara.08	芬妮	芬妮	ファニー	페니	Fenny						0	
+Chara.09	电热水壶	電熱水壺	電気ケトル	전기포트	Electric Kettle						0	
+Chara.10	肴	肴	肴（ヤオ）	야오	Yao						0	
+Chara.11	恩雅	恩雅	エンヤ	엔야	Enya						0	
+Chara.12	猫汐尔	貓汐爾	マーシル	캣 시에라	Mauxir						0	
+Chara.13	瑟瑞斯	瑟瑞斯	シーリス	세리스	Siris						0	
+Chara.14	辰星	辰星	辰星（チェンシン）	수성	Chenxing						0	
+Chara.15	卡罗琳	卡羅琳	カロリン	캐롤린	Caroline						0	
+Chara.16	陶	τ	τ（タウ）	τ	τ						0	
+Chara.17	莫尔索	莫爾索	ムルソー	모르소	Meursault						0	
+Chara.18	李秋雪	李秋雪	李秋雪（リー・チュウシエ）	이초설	Li Qiuxue						0	
+Chara.19	加文	加文	ガビン	게빈	Gavin						0	
+Chara.20	叶	葉	葉	블레이드	Ye						0	
+Chara.21	苏菲	蘇菲	ソフィー	소피	Sophie						0	
+Chara.22	迪特里希	迪特里希	ディートリッヒ	디트릭	Dietrich						0	
+Chara.23	爱思特	愛思特	エステル	에스터	Esther						0	
+Chara.24	萨特	薩特	サルトル	사르트르	Sartre						0	
+Chara.25	凯郭尔	凱郭爾	ケゴール	케고르	Kegaard						0	
+Chara.26	贝翠斯	貝翠斯	ベアトリス	베아트리체	Beatrice						0	
+Chara.27	芭洛玛	芭洛瑪	パロマ	발로마	Paloma						0	
+Chara.28	德尔塔	δ	δ（デルタ）	δ	δ						0	
+Chara.29	伊普西龙	ε	ε（イプシロン）	ε	ε						0	
+Chara.30	派	π	π（パイ）	π	π						0	
+Chara.31	舍塔	θ	θ（シータ）	θ	θ						0	
+Chara.32	奥米茄	ω	ω（オメガ）	ω	ω						0	
+Chara.33	奥丁	奧丁	オーディン	오딘	Odin						0	
+Chara.34	郊狼士兵	郊狼士兵	コヨーテ兵士	코요테 병사	Coyotes Soldier						0	
+Chara.35	郊狼头目	郊狼頭目	コヨーテリーダー	코요테 두목	Coyotes Leader						0	
+Chara.36	会员	會員	メンバー	신자	Member						0	
+Chara.37	降临团会员	降臨團會員	降臨団メンバー	강림단 신자	Adventist						0	
+Chara.38	武装会员	武裝會員	武装メンバー	신자(무장)	Armed Adventist						0	
+Chara.39	？？？	？？？	？？？	???	???						0	
+Chara.40	男性市民	男性市民	男性市民	시민 남성	Male Citizen						0	
+Chara.41	成年病患者	成年病患者	ティーン症候群患者	성인병 환자	Juvosis Patient						0	
+Chara.42	歌唱者	歌唱者	シンガー	코러스 시스템	Chorus System						0	
+Chara.43	拾荒者	拾荒者	スカベンジャー	피난민	Scavenger						0	
+Chara.44	异化人	異化人	変異者	변이자	The Changed						0	
+Chara.45	平民	平民	一般人	시민	Civilian						0	
+Chara.46	净化官	淨化官	浄化官	정화관	Purificant						0	
+Chara.47	约瑟夫	約瑟夫	ロシフ	조셉	Joseph						0	
+Chara.48	郊狼队长	郊狼隊長	コヨーテ隊長	코요테 대장	Coyote Captain						0	
+Chara.49	店员	店員	店員	점원	Shop Assistant						0	
+Chara.50	陌生少女	陌生少女	見知らぬ少女	낯선 소녀	Strange Girl						0	
+Chara.51	医师	醫師	医師	의사	Physician						0	
+Chara.52	保卫员	警衛	保安員	보안원	Security Officer						0	
+Chara.53	通讯	通訊	通信	통신	Communication						0	
+Chara.54	提示音	提示音	効果音	알림음	Prompt						0	
+Chara.55	？？	？？	？？	??	??						0	
+Chara.56	？	？	？	?	?						0	
+Chara.57	流浪者头目	流浪者頭目	レンジャーのリーダー	방랑자 두목	Scavenger Leader						0	
+Chara.58	年轻流浪者	年輕流浪者	若いレンジャー	젊은 방랑자	Young Scavenger						0	
+Chara.59	少女	少女	少女	소녀	Girl						0	
+Chara.60	天楼居民	天樓居民	スカイタワーの住民	스카이 타워 주민	Resident of The Towers						0	
+Chara.61	研究员	研究員	研究員	연구원	Researcher						0	
+Chara.62	系统提示	系統提示	システム通知	시스템 알림	System Prompt						0	
+Chara.63	队员甲	隊員甲	隊員A	팀원A	Operative A						0	
+Chara.64	队员乙	隊員乙	隊員B	팀원B	Operative B						0	
+Chara.65	队员丙	隊員丙	隊員C	팀원C	Operative C						0	
+Chara.66	队员丁	隊員丁	隊員D	팀원D	Operative D						0	
+Chara.67	军方士兵	軍方士兵	軍の兵士	군부 병사	Military Soldier						0	
+Chara.68	评审1	評審1	審査員1	심사위원1	Reviewer A						0	
+Chara.69	评审2	評審2	審査員2	심사위원2	Reviewer B						0	
+Chara.70	评审3	評審3	審査員3	심사위원3	Reviewer C						0	
+Chara.71	情报官	情報官	情報員	정보관	Intelligence Officer						0	
+Chara.72	安全员	安全員	安全員	안전 요원	Security Officer						0	
+Chara.73	天启安全员	天啟安全員	アポカリプス安全員	계시 담당 요원	Security Officer (Manifestation)						0	
+Chara.74	逐光者	逐光者	逐光者	축광단	Light Chaser						0	
+Chara.75	安全部员工	安全部員工	安全部職員	안전부 직원	Security Staff						0	
+Chara.76	店铺老板1	店鋪老闆1	店主1	가게 점장1	Shop Owner 1						0	
+Chara.77	店铺老板2	店鋪老闆2	店主2	가게 점장2	Shop Owner 2						0	
+Chara.78	店铺老板3	店鋪老闆3	店主3	가게 점장3	Shop Owner 3						0	
+Chara.79	军人	軍人	軍人	군인	Soldier						0	
+Chara.80	成年病少女	成年病少女	ティーン症候群の少女	성인병 소녀	Juvosis Girl						0	
+Chara.81	远处少女的声音	遠處少女的聲音	遠くの少女の声	멀리서 들려오는 소녀의 목소리	Distant Female Voice						0	
+Chara.82	安全部干员	安全部幹員	安全部のオペレーター	안전부 요원	Security Officer						0	
+Chara.83	女孩的声音	女孩的聲音	女の子の声	여자아이의 목소리	Girl's Voice						0	
+Chara.84	妹妹	妹妹	妹	여동생	Younger Sister						0	
+Chara.85	阳平	陽平	陽平	요헤이	Yang Ping						0	
+Chara.86	维欧尔	維歐爾	ヴィオル	비올	Viaur						0	
+Chara.87	布拉基	布拉基	ブラギ	브라기	Bragi						0	
+Chara.88	管事	管事	支配人	관리자	Administrator						0	
+Chara.89	接引使	接引使	聖女	인도자	Emissary						0	
+Chara.90	爸爸	爸爸	父	아빠	Father						0	
+Chara.91	妈妈	媽媽	母	엄마	Mother						0	
+Chara.92	卢卡斯·达菲	盧卡斯·達菲	ルーカス	루카스 더피	Lucas Delph						0	
+Chara.93	艾瑞卡·达菲	艾瑞卡·達菲	エリカ	에리카 더피	Erika Delph						0	
+Chara.94	主事	主事	司教	이사	Exarch						0	
+Chara.95	playername	playername	playername	playername	playername						0	
+Chara.96	军方代表	軍方代表	軍の代表者	군부 대표	Military Liaison						0	
+Chara.97	赭毫	赭毫	赭毫	자호	Zhehao						0	
+Chara.98	玄铠	玄鎧	玄鎧	현개	Xuankai						0	
+Chara.99	金琅	金瑯	金琅	금랑	Jinlang						0	
+Chara.100	精英小队队长	精英小隊隊長	エリート部隊隊長	엘리트 소대 대장	Elite Squad Captain						0	
+Chara.101	机长	機長	機長	기장	Captain						0	
+Chara.102	月虹	月虹	月虹	월홍	Yuehong						0	
+Chara.103	妮娜	妮娜	ニナ	니나	Nina						0	
+Chara.104	拾荒少女	拾荒少女	スカベンジャーの少女	피난민(소녀)	Scavenger Girl						0	
+Chara.105	女性会员	女性會員	女性メンバー	신자(여성)	Female Adventist						0	
+Chara.106	朝觐者	朝覲者	巡礼者	순례자	Pilgrim						0	
+Chara.107	瘸腿会员	瘸腿會員	足の不自由なメンバー	신자(절름발이)	Limping Adventist						0	
+Chara.108	盲眼会员	盲眼會員	盲目のメンバー	신자(장님)	Blind Adventist						0	
+Chara.109	辰星（人工智能）	辰星（AI）	辰星（AI）	수성(AI)	Chenxing (AI)						0	
+Chara.110	埃达	埃達	エッダ	에다	Edda						0	
+Chara.111	仓尧	倉堯	倉尭	창요	Cangyao						0	
+Chara.112	老人	老人	老人	노인	Elderly						0	
+Chara.113	平民甲	平民甲	一般人A	시민A	Civilian A						0	
+Chara.114	平民乙	平民乙	一般人B	시민B	Civilian B						0	
+Chara.115	平民丙	平民丙	一般人C	시민C	Civilian C						0	
+Chara.116	平民丁	平民丁	一般人D	시민D	Civilian D						0	
+Chara.117	干员麦克	幹員麥克	オペレーターマイク	요원 마이크	Officer Mike						0	
+Chara.118	干员杰克逊	幹員傑克遜	オペレータージャクソン	요원 잭슨	Officer Jackson						0	
+Chara.119	小女孩	小女孩	女の子	여자아이	Little Girl						0	
+Chara.120	趟子手？	趟子手？	ワッパ？	쟁자수?	TAIGU Scout?						0	
+Chara.121	镖师？	鏢師？	鏢客？	표사?	TAIGU Escort?						0	
+Chara.122	镖头？	鏢頭？	鏢客頭？	표사 리더?	TAIGU Escort Leader?						0	
+Chara.123	镖师	鏢師	鏢客	표사	Escort						0	
+Chara.124	雷吉乌斯	雷吉烏斯	レイギウス	레지오스	Regius						0	
+Chara.125	温和的年轻女声	溫和的年輕女聲	穏やかな若い女性の声	젊은 여성의 온화한 목소리	Gentle Young Female Voice						0	
+Chara.126	尖锐的年轻男声	尖銳的年輕男聲	鋭い若い男性の声	젊은 남성의 날카로운 목소리	Sharp Young Male Voice						0	
+Chara.127	伊尔	伊爾	イール	이엘	Yier						0	
+Chara.128	不远处的窃窃私语	不遠處的竊竊私語	近くの囁き	멀지 않은 곳의 귓속말	Nearby Whispers						0	
+Chara.129	平民青年	平民青年	一般人青年	시민(청년)	Young Civilian Man						0	
+Chara.130	平民少女	平民少女	一般人少女	시민(소녀)	Young Civilian Woman						0	
+Chara.131	录像声音	影片聲音	ビデオの音	녹화 음성	Video Sound						0	
+Chara.132	屏幕上的文字	螢幕上的文字	画面上の文字	화면 위의 문자	On-Screen Text						0	
+Chara.133	平民女性	平民女性	一般人女性	여성(시민)	Civilian Woman						0	
+Chara.134	摊贩	攤販	露店商	노점상	Vendor						0	
+Chara.135	老者	老者	老人	노인	Old Man						0	
+Chara.136	特纳	特納	ターナー	터너	Turner						0	
+Chara.137	米勒	米勒	ミラー	밀레	Mueller						0	
+Chara.138	莱拉	萊拉	ライラ	라일라	Leila						0	
+Chara.139	安全部哨卫	安全部哨兵	安全部前哨	안전부 보초병	Security Guard						0	
+Chara.140	围观市民	圍觀民眾	見物客	구경꾼	Onlooker						0	
+Chara.141	威尔·安德森	威爾·安德森	ウィル・アンダーソン	윌 앤더슨	Will Anderson						0	
+Chara.142	凯茜娅	凱茜婭	カーシア	캐시아	Katya						0	
+Chara.143	苍蝇	蒼蠅	ソウヨウ	파리	Gnat						0	
+Chara.144	公司职员	公司職員	会社員	회사 직원	Company Employee						0	
+Chara.145	记者	記者	記者	기자	Reporter						0	
+Chara.146	鸣濑政	鳴瀨政	鳴瀬政	나루세 쇼우	Naruse Masashi						0	
+Chara.147	尼伯龙根	尼伯龍根	ニーベルンゲン	니벨룽겐	Nibelung						0	
+Chara.148	肯特博士	肯特博士	ドクターケント	켄트 박사	Dr. Kent						0	
+Chara.149	量子市民	量子市民	量子市民	양자 시민	Quantum Citizen						0	
+Chara.150	身份不明的士兵	身分不明的士兵	身元不明の兵士	신분 불명 병사	Unidentified Soldier						0	
+Chara.151	里芙&晴&芙提雅	里芙&晴&芙提雅	リフ＆晴＆フリティア	리브&하루&프티야	Lyfe, Haru & Fritia						0	
+Chara.152	女侍者	女侍者	ウェイトレス	메이드	Attendant						0	
+Chara.153	工作人员甲	工作人員甲	スタッフA	직원A	Staff A						0	
+Chara.154	工作人员乙	工作人員乙	スタッフB	직원B	Staff B						0	
+Chara.155	工作人员	工作人員	スタッフ	직원	Staff						0	
+Chara.156	年幼的女孩	年幼的女孩	幼い女の子	어린 소녀	Young Girl						0	
+Chara.157	年幼的男孩	年幼的男孩	幼い男の子	어린 소년	Young Boy						0	
+Chara.158	谜之无人机	謎樣無人機	謎のドローン	미지의 드론	Mysterious Drone						0	
+Chara.159	海之主	海之主	海の主	바다의 주인	King Bream						0	
+Chara.160	清理部队	清理部隊	清掃部隊	클리닝 부대	Cleanup Team						0	
+Chara.161	仿制空壳	仿製空殼	模造シェル	모조 껍데기	Husk Sentinel Bot						0	
+Chara.162	世界树高管	世界樹高管	ユグドラシル社管理層の人	위그드라실 고위직	Yggdrasil Senior Executive						0	
+Chara.163	清冷的女声	清冷的女聲	クールな女性の声	차가운 여자 목소리	Clear Female Voice						0	
+Chara.164	小吉	小吉	ギーちゃん	샤오지	Gigi						0	
+Chara.165	石竹	石竹	カーネーション	석죽	Dianthus						0	
+Chara.166	主治医师	主治醫師	主治医	주치의	Head Physician						0	
+Chara.167	西蒙娜	西蒙娜	シモーネ	시모나	Simona						0	
+Chara.168	研究员	研究員	研究員	연구원	Researcher						0	
+Chara.169	主持人	主持人	司会者	MC	Announcer						0	
+Chara.170	郊狼青年	郊狼青年	コヨーテ青年	코요테 청년	Coyote Teenager						0	
+Chara.171	祈祷者	祈禱者	祈祷者	수도사	Prayer						0	
+Chara.172	祈祷众	祈禱眾	祈祷衆人	수도 단체	Prayers						0	
+Chara.173	服务员	服務員	ウェイター	종업원	Server						0	
+Chara.174	虚拟异化人	虛擬異化人	バーチャル変異者	가상 변이자	Virtual Changed						0	
+Chara.175	阿德里安上将	阿德里安上將	エイドリアン将軍	아드리안 장군	General Adrian						0	
+Chara.176	分析员	分析员	分析员	分析员	分析员						1000	
+Chara.177	提尔	提爾	テュール	티르	Týr						0	
+Chara.178	高个子女性	高個子女性	背の高い女性	키 큰 여성	Tall Woman						0	
+Chara.179	矮个子女性	矮個子女性	背の低い女性	키 작은 여성	Short Woman						0	
+Chara.180	晴&芙提雅&里芙	晴&芙提雅&里芙	晴&フリティア&リフ	하루&프티야&리브	Haru, Fritia & Lyfe						0	
+Chara.181	郊狼话痨	郊狼話匣子	お喋りのコヨーテ	수다쟁이 코요테	Talkative Coyote						0	
+Chara.182	冷漠的男音	冷漠的男聲	冷たい男の声	냉담한 목소리	Apathetic Male Voice						0	
+Chara.183	稚嫩的童声	稚嫩的童聲	幼い子の声	어린 아이의 목소리	Childish Voice						0	
+Chara.184	众人之声	眾人之聲	人々の声	수많은 목소리	Crowd						0	
+Chara.185	保全人员	保全人員	警備員	보안 요원	Security Officer						0	
+Chara.186	塔塔	塔塔	タタ	타타	Tara						0	
+Chara.187	主管	主管	責任者	관리자	Supervisor						0	
+Chara.188	抗议者	抗議者	抗議者	시위자	Protestor						0	
+Chara.189	抗议的人群	抗議的群眾	抗議する人々	시위하는 사람들	Group of Protestors						0	
+Chara.190	年轻男性销售	年輕男性業務	若い男性セールスマン	젊은 남성 판매원	Young Male Salesman						0	
+Chara.191	老年男性教师	老年男性教師	老いた男教師	나이 든 남성 교사	Elderly Male Teacher						0	
+Chara.192	企业男性高管	企業男性高管	執行役の男性	기업 고위층 남성	Male Executive						0	
+Chara.193	家庭主妇	家庭主婦	主婦	가정 주부	Housewife						0	
+Chara.194	白发老妇	白髮老太太	白髪の老婦	백발 노파	Grey-Haired Old Woman						0	
+Chara.195	女学生	女學生	女子学生	여학생	Female Student						0	
+Chara.196	男学生	男學生	男子学生	남학생	Male Student						0	
+Chara.197	老年男性	老年男性	老年男性	나이 든 남성	Elderly Man						0	
+Chara.198	男青年	男青年	青年男性	남성 청년	Male Teenager						0	
+Chara.199	残影	殘影	残像	잔영	Afterimage						0	
+Chara.200	系统警告音	系統警示音	システム警告音	시스템 경고음	System Alarm						0	
+Chara.201	项目研究员	專案研究員	プロジェクト研究員	프로젝트 연구원	Project Researcher						0	
+Chara.202	物理学家	物理學家	物理学者	물리학자	Physicist						0	
+Chara.203	拉冈	拉岡	ラガン	라거	Lagan						0	
+Chara.204	米尔	米爾	ミル	미르	Mir						0	
+Chara.205	张	張	張	장	Zhang						0	
+Chara.206	奇恩	奇恩	キーン	키엔	Kian						0	
+Chara.207	安德	安德	アンド	앤디	Anders						0	
+Chara.208	乌尔	烏爾	ウル	울	Urie						0	
+Chara.209	林克	林克	リンク	링크	Rinck						0	
+Chara.210	艾莉	艾莉	アイリ	에리	Eily						0	
+Chara.211	贝利	貝利	ベリー	베리	Bailey						0	
+Chara.212	狼蛛	狼蛛	コモリグモ	타란툴라	Tarantula						0	
+Chara.213	黄蜂	黃蜂	キバチ	와스프	Wasp						0	
+Chara.214	杰克	傑克	ジャック	제이크	Jack						0	
+Chara.215	恩尼斯	恩尼斯	アニス	유니스	Ennis						0	
+Chara.217	蜉蝣	蜉蝣	カゲロウ	하루살이	Mayfly						0	
+Chara.218	女儿	女兒	娘	딸	Daughter						0	
+Chara.219	安提克勒娅	安提克勒婭	アンティ	앤티클레아	Anticlea						0	
+Chara.220	安娜	安娜	アンナ	안나	Anna						0	
+Chara.221	透墨索斯	透墨索斯	テウメッサ	테우메소스	Teumessian						0	
+Chara.222	维修部部员	維修部部員	修理部の部員	수리부 요원	Maintenance Worker						0	
+Chara.223	失控机器人	失控機器人	暴走ロボット	통제 불능 로봇	Berserk Robot						0	
+Chara.224	会议主持人	會議主持人	会議司会者	회의 진행자	Meeting Host						0	
+Chara.225	安全部代表	安全部代表	安全部代表	안전부 대표	Security Department Representative						0	
+Chara.226	溯影分身	溯影分身	マーシルの分身	트레이스 분신	Shadow Ka Kebechet						0	
+Chara.227	恐怖分子	恐怖分子	テロリスト	테러리스트	Disgruntled Man						0	
+Chara.228	青年恐怖分子	青年恐怖分子	青年テロリスト	젊은 테러리스트	Disgruntled Youth						0	
+Chara.229	中年恐怖分子	中年恐怖分子	中年テロリスト	중년 테러리스트	Disgruntled Older Man						0	
+Chara.230	小凯贝	小凱貝	ケベちゃん	리틀 카이베	Kebechet						0	
+Chara.231	安提	安提	アンティ	앤티	Anti						0	
+Chara.232	阿努比斯	阿努比斯	アヌビス	아누비스	Anubis						0	
+Chara.233	雇佣兵	雇傭兵	傭兵	용병	Mercenary						0	
+Chara.234	空壳	空殼	シェル	껍데기	Husk Sentinel						0	
+Chara.235	女性市民	女性市民	女性市民	여성 시민	Female Citizen						0	
+Chara.236	苔丝	黛斯	テス	테스	Tess						0	
+Chara.237	胆怯的女孩	膽怯的女孩	怯える女の子	겁먹은 여자아이	Timid Girl						0	
+Chara.238	有疤的女孩	有疤的女孩	傷跡のある女の子	흉터가 난 여자아이	Girl With Scars						0	
+Chara.239	孩子们	孩子們	子供たち	아이들	Children						0	
+Chara.240	双马尾女孩	雙馬尾女孩	ツインテールの女の子	양 갈래머리 여자아이	Girl With Pigtails						0	
+Chara.241	短发女孩	短髮女孩	ショートヘアの女の子	단발 여자아이	Short-Haired Girl						0	
+Chara.242	卷毛男孩	捲髮男孩	カーリーヘアの男の子	파마머리 남자아이	Curly-Haired Boy						0	
+Chara.243	狸花猫	狸花貓	キジトラ	네즈미 고양이	Dragon Li Cat						0	
+Chara.244	无毛猫	無毛貓	スフィンクス	스핑크스 고양이	Sphynx Cat						0	
+Chara.245	瓦奎尔	瓦奎爾	ヴァクイール	바켈	Vacquier						0	
+Chara.246	奥列格	奧列格	オレグ	올레그	Oleg						0	
+Chara.247	阿德勒	阿德勒	アドラー	아델	Adler						0	
+Chara.248	格斯	格斯	ガース	게스	Gus						0	
+Chara.249	军方巡查	軍方巡查	軍のパトロール	군대 순찰	Military Inspector						0	
+Chara.250	塔季亚娜·奥尔洛娃	塔季雅娜·奧爾洛娃	タチアナ・オルロヴァ	타티아나 오를로바	Tatiana Orlova						0	
+Chara.251	高贵的女性	高貴的女性	高貴な女性	고귀한 여성	Elegant Woman						0	
+Chara.252	郊狼精英	郊狼精英	コヨーテエリート	엘리트 코요테	Coyote Elite						0	
+Chara.253	米尔伍德	米爾伍德	ミルウッド	밀우드	Millwood						0	
+Chara.254	巡查护卫	巡查護衛	パトロールガードマン	순찰 호위	Inspector Guard						0	
+Chara.255	勤务军官	勤務官	勤務将校	직업 군인	Orderly Officer						0	
+Chara.256	戍卫士兵	守衛兵	駐屯兵	수비 병사	Garrison Soldier						0	
+Chara.257	传令副官	傳令官	伝令副官	전령 부관	Aide-de-Camp						0	
+Chara.258	奥尔洛娃公爵	奧爾洛娃公爵	オルロヴァ公爵	오를로바 공작	Duchess Orlova						0	
+Chara.259	患病的少女	患病的少女	病気の少女	병든 소녀	Sick Girl						0	
+Chara.260	赫瓦雷纳士官	赫瓦雷納士官	フワルナ士官	크바레나 하사관	Khwarenah Sergeant						0	
+Chara.261	情报掮客	情報販子	情報屋	정보 브로커	Intelligence Broker						0	
+Chara.262	过去的声音	過去的聲音	過去の声	과거의 목소리	Voice of the Past						0	
+Chara.263	盖尔·克莱因	蓋爾·克萊因	ゲール・クライン	게일 클레인	Gale Klein						0	
+Chara.264	中间人	中間人	ブローカー	중개인	Intermediary						0	
+Chara.265	伊切尔	伊切爾	イチェル	이첼	Eatchel						0	
+Chara.266	女情报掮客	女情報掮客	女情報屋	여성 정보 브로커	Female Intelligence Broker						0	
+Chara.267	落魄的市民甲	落魄的市民甲	落ちぶれた住民A	빈곤한 시민A	Abject Citizen A						0	
+Chara.268	长街原住民甲	長街原住民甲	長町の元住民A	장거리 원주민A	Black-Ice Alley Resident A						0	
+Chara.269	情报掮客乙	情報掮客乙	情報屋B	정보 브로커B	Intelligence Broker B						0	
+Chara.270	落魄的市民乙	落魄的市民乙	落ちぶれた住民B	빈곤한 시민B	Abject Citizen B						0	
+Chara.271	长街原住民乙	長街原住民乙	長町の元住民B	장거리 원주민B	Black-Ice Alley Resident B						0	
+Chara.272	阿尔谢尼	阿爾謝尼	アルセニー	아르세니	Arseniy						0	
+Chara.273	波莉娜	波莉娜	ポーリーン	폴리나	Pavlina						0	
+Chara.274	抵抗军士兵	抵抗軍士兵	抵抗軍の兵士	저항군 병사	Resistance Army Soldier						0	
+Chara.275	公爵助手	公爵助手	公爵の助手	공작 조수	Duchess' Assistant						0	
+Chara.276	阿尔乔姆	阿爾喬姆	アルチョーム	아르템	Artyom						0	
+Chara.277	奥米茄亲卫	ω親衛	ω親衛隊	ω 근위병	ω's Bodyguard						0	
+Chara.278	赫瓦雷纳先锋军	赫瓦雷納先鋒軍	フワルナ前衛部隊	크바레나 선봉군	Khwarenah Vanguard						0	
+Chara.279	赫瓦雷纳士官长	赫瓦雷納士官長	フワルナ士官長	크바레나 사관	Khwarenah Head Sergeant						0	
+Chara.280	扭曲的人像	扭曲的人像	歪んだ像	왜곡된 인물상	Distorted Figure						0	
+Chara.281	莱瓦汀队员	萊瓦汀隊員	レーヴァテイン隊員	레바틴 대원	Laevatain Operative						0	
+Chara.282	赫瓦雷纳参谋	赫瓦雷納參謀	フワルナの参謀	크바레나 참모	Khwarenah Officer						0	
+Chara.283	被俘的间谍	被俘的間諜	捕虜にされたスパイ	포로가 된 간첩	Captured Spy						0	
+Chara.284	尼基塔	尼基塔	ニキータ	니키타	Nikita						0	
+Chara.285	马克西姆	馬克西姆	マクシム	맥심	Maksim						0	
+Chara.286	黑街流民	黑街流民	裏町の亡命者	블랙 스트릿 난민	Black-Ice Alley Refugee						0	
+Chara.287	异化人虚像	異化人虛像	変異者の虚像	가상 변이자	Changed Apparition						0	
+Chara.288	卫戍营士兵	衛戍營士兵	警備団兵士	방위대 병사	Garrison Soldier						0	
+Chara.289	落难流民	落難流民	落ちぶれた亡命者	난민	Unfortunate Refugee						0	
+Chara.290	巴伦支仪器士兵	巴倫支儀器士兵	バレンツ機器兵士	바렌츠 측정기구 병사	Barentsy Pribor Soldier						0	
+Chara.291	破旧的电视	破舊的電視	ボロボロのテレビ	오래된 티비	Old TV Set						0	
+Chara.292	拾荒者男性	拾荒者男性	スカベンジャーの男性	피난민 남성	Male Scavenger						0	
+Chara.293	拾荒者女性	拾荒者女性	スカベンジャーの女性	피난민 여성	Female Scavenger						0	
+Chara.294	广播	廣播	放送	방송	Broadcast						0	
+Chara.295	营地后勤	營地後勤	駐屯地兵士	야영지 지원	Camp Logistics Officer						0	
+Chara.296	白狼	白狼	白い狼	하얀 늑대	White Wolf						0	
+Chara.297	意识残像	意識殘像	意識の残像	의식체 잔상	Phantom Projection						0	
+Chara.298	融合士兵	融合士兵	融合兵士	융합체 병사	Hybrid Soldier						0	
+Chara.299	特邀记者	特約記者	特別招待の記者	특별 초청 기자	Guest Reporter						0	
+Chara.300	新闻评论员	新聞評論員	ニュースキャスター	뉴스 해설자	News Commentator						0	
+Chara.301	前线特派员	前線特派員	特派員	전선 특파원	Frontline Agent						0	
+Chara.302	远处的声音	遠處的聲音	遠くの声	멀리서 들리는 목소리	Faraway Sound						0	
+Chara.303	实验室研究员甲	實驗室研究員甲	研究室研究員A	실험실 연구원A	Lab Researcher A						0	
+Chara.304	实验室研究员乙	實驗室研究員乙	研究室研究員B	실험실 연구원B	Lab Researcher B						0	
+Chara.305	实验室研究员丙	實驗室研究員丙	研究室研究員C	실험실 연구원C	Lab Researcher C						0	
+Chara.306	实验室研究员丁	實驗室研究員丁	研究室研究員D	실험실 연구원D	Lab Researcher D						0	
+Chara.307	窃窃私语声	竊竊私語聲	ひそひそ声	속삭이는 소리	Whisper						0	
+Chara.308	莫尔索？	莫爾索？	ムルソー？	모르소?	Meursault?						0	
+Chara.309	奄奄一息的女孩	奄奄一息的女孩	瀕死の女の子	헐떡거리는 소녀	Dying Girl						0	
+Chara.310	热情的摊主	熱情的攤主	情熱的な店主	열정적인 노점 주인	Enthusiastic Vendor						0	
+Chara.311	精神的摊主	精神的攤主	元気な店主	영적인 노점 주인	Energetic Vendor						0	
+Chara.312	阴郁的摊主	陰鬱的攤主	憂鬱な店主	우울한 노점 주인	Cynical Vendor						0	
+Chara.313	琴诺＆恩雅羽蜕	琴諾&恩雅羽蛻	チェルノ&エンヤ-羽化の儀	체르노＆엔야 엑수비아	Cherno & Enya						0	
+Chara.314	人群	人群	人混み	군중	Crowd						0	
+Chara.315	侍女	侍女	侍女	시녀	Handmaiden						0	
+Chara.316	热情冷却的摊主	熱情冷卻的攤主	情熱が冷めた店主	열정이 식은 노점 주인	No-Longer-Enthusiastic Vendor						0	
+Chara.317	医护人员	醫護人員	医者	의료 직원	Medical Staff						0	
+Chara.318	诧异的妇人	詫異的婦人	驚いた婦人	의아한 부인	Shocked Woman						0	
+Chara.319	惊讶的少女	驚訝的少女	驚いた少女	놀란 소녀	Surprised Girl						0	
+Chara.320	系统音	系統音	機械音	시스템 음성	System						0	
+Chara.321	波伏娃	波伏娃	ボーヴォワール	보브아르	Beauvoir						0	
+Chara.322	慌张的女孩	慌張的女孩	慌てた女の子	당황한 소녀	Panicked Girl						0	
+Chara.323	不安的女性	不安的女性	不安な女性	불안한 여성	Uneasy Woman						0	
+Chara.324	莫尔索	莫爾索	ムルソー	모르소	Meursault						0	
+Chara.325	梅	梅	梅	메이	Mei						0	
+Chara.326	呼救声	呼救聲	助けを呼ぶ叫び声	구조요청 소리	Cry for Help						0	
+Chara.327	降临团成员	降臨團成員	降臨団のメンバー	강림단 신자	Adventist						0	
+Chara.328	二律背反的盟约	二律背反的盟約	二律背反の盟約	이율배반의 서약	Pact of Antinomy						0	
+Chara.329	望	望	ノゾム	노조미	Nozomi						0	
+Chara.330	莫罕达斯	莫罕達斯	ムハンダス	모한다스	Modak						0	
+Chara.331	恒沙	恆沙	ゴウシャ	항사	GANGES						0	
+Chara.332	路人	路人	通行人	행인	Passerby						0	
+Chara.333	妇人	婦人	婦人	여인	Woman						0	
+Chara.334	龙舌兰	龍舌蘭	アガベ	아가베	Agave						0	
+Chara.335	奇怪的少女	奇怪的少女	変な少女	기괴한 소녀	Strange Girl						0	
+Chara.336	奇怪的男人	奇怪的男人	変な男	기괴한 남성	Strange Man						0	
+Chara.337	温柔的女人	溫柔的女人	優しい女	온화한 여성	Gentle Woman						0	
+Chara.338	忙碌的工作人员	忙碌的工作人員	忙しそうなスタッフ	바쁜 직원	Busy Employee						0	
+Chara.339	苦恼的工作人员	苦惱的工作人員	悩んでいるスタッフ	고민하는 직원	Troubled Employee						0	
+Chara.340	飞艇广播	飛艇廣播	艇内放送	비행선 방송	Skyskiff Broadcast						0	
+Chara.341	恒提罗官员	恆提羅官員	ガントラの役人	헨틸로 관리자	Hentiro Official						0	
+Chara.342	卡尔帕娜	卡爾帕娜	カルパナ	칼파나	Kalpana						0	
+Chara.343	艾尔莎	艾爾莎	エルサ	엘사	Erza						0	
+Chara.344	苍老的女声	蒼老的女聲	年老いた女性の声	늙은 여성의 목소리	Elderly Female Voice						0	
+Chara.345	马尾辫女孩	馬尾辮女孩	ポニーテールの女の子	말총머리 여자아이	Girl With Ponytail						0	
+Chara.346	司仪	司儀	司会	사회자	Emcee						0	
+Chara.347	沸腾的人群	沸騰的群眾	賑やかな人々	화난 군중	Excited Crowd						0	
+Chara.348	歌声	歌聲	歌声	노랫소리	Singing						0	
+Chara.349	暴躁的市民	暴躁的市民	荒ぶる住民	난폭한 시민	Irritated Citizen						0	
+Chara.350	消沉的市民	消沉的市民	落ち込んだ住民	의기소침한 시민	Distressed Citizen						0	
+Chara.351	酒保	調酒師	ウェイター	바텐더	Bartender						0	
+Chara.352	不满的市民	不滿的市民	不満な住民	불만스러운 시민	Dissatisfied Citizen						0	
+Chara.353	罗赞	羅贊	ロザン	로잔	Rozan						0	
+Chara.354	金雅妍	金雅妍	キム・アヨン	김아연	Kim Ah-Yeon						0	
+Chara.355	侍者	侍者	店員	웨이터	Waiter						0	
+Chara.356	热血的市民	熱血的市民	熱血な住民	열정 넘치는 시민	Passionate Citizen						0	
+Chara.357	疲惫的市民	疲憊的市民	疲れた住民	피곤한 시민	Exhausted Citizen						0	
+Chara.358	逞强的市民	逞強的市民	強がりな住民	센척하는 시민	Brave Citizen						0	
+Chara.359	真神室女	真神室女	至上の乙女	조물주 시녀	Demiurge Handmaiden						0	
+Chara.360	罗赛妮	羅賽妮	ロザンヌ	로제니	Rosani						0	
+Chara.361	归化的郊狼	歸化的郊狼	帰化したコヨーテ	귀화한 코요테	Naturalized Coyote						0	
+Chara.362	濒死的郊狼	瀕死的郊狼	瀕死のコヨーテ	죽어가는 코요테	Dying Coyote						0	
+Chara.363	刺客	刺客	刺客	자객	Assassin						0	
+Chara.364	治疗舱辅助机	治療艙輔助機	カプセル補助ロボット	치료 캡슐 보조기	Recovery Pod Auxiliary Device						0	
+Chara.365	行动队长	行動隊長	作戦隊長	행동 대장	Operation Leader						0	
+Chara.366	医疗部成员	醫療部成員	医療部メンバー	의료부 직원	Medical Department Staff						0	
+Chara.367	辰星幻影	辰星幻影	辰星の幻影	수성의 환영	Chenxing's Phantom						0	
+Chara.368	年少的芬妮	年少的芬妮	少女ファニー	어린 페니	Young Fenny						0	
+Chara.369	医生	醫生	医者	의사	Doctor						0	
+Chara.370	忙碌的导播少女	忙碌的導播少女	多忙なプロデューサー少女	분주한 PD 소녀	Busy Director Girl						0	
+Chara.371	年轻的太太	年輕的太太	若い奥さん	젊은 부인	Young Mother						0	
+Chara.372	罗莎	羅莎	ロサ	로사	Rosa						0	
+Chara.373	升格体偶像	升格體偶像	昇格者アイドル	승격체 아이돌	Transcendent Idol						0	
+Chara.374	市民甲	市民甲	市民A	시민 A	Citizen A						0	
+Chara.375	市民乙	市民乙	市民B	시민 B	Citizen B						0	
+Chara.376	运输机器人	運輸機器人	運送ロボット	운송 로봇	Transport Bot						0	
+Chara.377	阴沉的男性	陰沉的男性	不機嫌な男性	우울한 남성	Somber Man						0	
+Chara.378	黑发女性	黑髮女性	黒髪の女性	흑발의 여성	Dark-Haired Woman						0	
+Chara.379	急躁的男性	急躁的男性	せっかちな男性	조급한 남성	Grumpy Man						0	
+Chara.380	年轻女性	年輕女性	若い女性	젊은 여성	Young Woman						0	
+Chara.381	研发部小组长	研發部小組長	開発部チームリーダー	개발부 팀장	R&D Department Leader						0	
+Chara.382	新闻	新聞	ニュース	뉴스	News Broadcast						0	
+Chara.383	薇蒂雅	薇蒂雅	ヴィディア	비디야	Vidya						0	
+Chara.384	安保人员甲	保全人員甲	警備員A	보안 요원A	Security Staff A						0	
+Chara.385	安保人员乙	保全人員乙	警備員B	보안 요원B	Security Staff B						0	
+Chara.386	伊格妮丝博士	伊格妮絲博士	イグニス博士	이그니스 박사	Dr. Ignis						0	
+Chara.387	分析员夜魇	分析員夜魘	分析员夜魇	분석가의 악몽	分析员夜魇						0	
+Chara.388	精灵	精靈	精霊	정령	Fairy						0	
+Chara.389	地狱哨兵	地獄哨兵	ヘルセントリー	지옥 보초병	Infernal Sentry						0	
+Chara.390	长乐郡主	長樂郡主	長楽郡主（ちょうらく　ぐんしゅ）	장락 공주	Princess Felicity						0	
+Chara.391	朔州侍从	朔州侍從	朔州侍従（さくしゅう）	삭주 시종	Shuozhou Servant						0	
+Chara.392	警卫	警衛	警備員	경호원	Guard						0	
+Chara.393	通讯器	通訊器	通信機	통신기	Communicator						0	
+Chara.394	全员	全員	全員	전체 인원	All						0	
+Chara.395	导演	導演	監督	감독	Director						0	
+Chara.396	敌人	敵人	敵	타깃	Enemy						0	
+Chara.397	枫	楓	カエデ	카에데	Kaede						0	
+Chara.398	达斯·铁手	達斯·鐵手	ダス・アイアンアーム	다즈 아이언핸드	Daz Ironhand						0	
+Chara.399	“幽影”	“幽影”	「幽影」（ゆうえい）	환영	"Phantom"						0	
+Chara.400	龙舌兰&辰星	龍舌蘭&辰星	アガベ&辰星（チェンシン）	아가베&수성	Agave & Chenxing						0	
+Chara.401	门外的人	門外的人	扉の向こうの人	문 밖에 있는 사람	Someone Outside the Door						0	
+Chara.402	市民丙	市民丙	市民C	시민 C	Citizen C						0	
+Chara.403	猫汐尔＆琴诺	貓汐爾&琴諾	マーシル＆チェルノ	캣 시에라&체르노	Mauxir & Cherno						0	
+Chara.404	凯茜娅＆辰星	凱茜婭&辰星	カーシア＆辰星（チェンシン）	캐시아&수성	Katya & Chenxing						0	
+Chara.405	琴诺＆莫尔索	琴諾&莫爾索	チェルノ&ムルソー	체르노&모르소	Cherno & Meursault						0	
+Chara.406	章鱼爪	章魚爪	タコ足	문어발	Octopus Tentacle						0	
+Chara.407	虾仁	蝦仁	エビ	새우	Shrimp						0	
+Chara.408	众人	眾人	みんな	군중	Everyone						0	
+Chara.409	茉莉安＆猫汐尔	茉莉安&貓汐爾	マリアン＆マーシル	마리안&캣 시에라	Marian & Mauxir						0	
+Chara.410	海鸥	海鷗	カモメ	갈매기	Seagull						0	
+Chara.411	游戏机卡罗琳	遊戲機卡羅琳	ゲーム機カロリン	게임기 캐롤린	Arcade Caroline						0	
+Chara.412	小机器人	小機器人	リトルロボット	미니 로봇	Little Robot						0	
+Chara.413	尘白恶魔	塵白惡魔	Snowbreak Aku-MA	순백의 악마	Snowbreak Aku-MA						0	
+Chara.414	茉莉安＆凯茜娅	茉莉安&凱茜婭	マリアン＆カーシア	마리안&캐시아	Marian & Katya						0	
+Chara.415	往昔回响	往昔迴響	過ぎし日々の反響	과거의 메아리	Echoes of the Past						0	
+Chara.416	父亲的声音	父親的聲音	父の声	아버지의 목소리	Father's Voice						0	
+Chara.417	母亲的声音	母親的聲音	母の声	어머니의 목소리	Mother's Voice						0	
+Chara.418	无法忍受的声音	無法忍受的聲音	耐え難い声	참을 수 없는 목소리	Taunting Voice						0	
+Chara.419	年幼的声音	年幼的聲音	幼い声	어린아이의 목소리	Young Voice						0	
+Chara.420	竞争者的声音	競爭者的聲音	競合者の声	경쟁자의 목소리	Contestant's Voice						0	
+Chara.421	不知名少女的母亲	不知名少女的母親	名も知らぬ少女の母	알 수 없는 소녀의 어머니	Mother of Unknown Girl						0	
+Chara.422	齐声	齊聲	一斉に	단체 목소리	Everyone						0	
+Chara.423	恩雅＆辰星	恩雅&辰星	エンヤ＆辰星（チェンシン）	엔야&수성	Enya & Chenxing						0	
+Chara.424	北庭卫流民	北庭衛流民	北庭衛の浮浪者	북정위 난민	Beiting Local						0	
+Chara.425	北庭卫边民	北庭衛邊民	北庭衛の辺民	북정위 국경 시민	Beiting Borderfolk						0	
+Chara.426	阿莱	阿萊	ライ	알라즈	Alaz						0	2.3新增npc
+Chara.427	萨沙·伊万诺夫	薩沙·伊萬諾夫	サーシャ・イヴァノフ	사샤 이바노프	Sasha Ivanoff						0	2.3新增npc
+Chara.429	军方参谋	軍方參謀	参謀部スタッフ	군부 참모	Military Staff						0	2.3新增npc
+Chara.431	小芙提雅	小芙提雅	小さい頃のフリティア	미니 프티야	Young Fritia						0	2.3新增npc
+Chara.432	芙提雅老师关爱系统	芙提雅老師關愛系統	フリティア先生お世話システム	프티야 선생님 케어 시스템	Professor Fritia's Care System						0	2.3新增npc
+Chara.433	老师	老師	先生	선생님	Teacher						0	2.3新增npc
+Chara.434	同学A	同學A	クラスメイトA	학생 A	Student A						0	2.3新增npc
+Chara.435	同学B	同學B	クラスメイトB	학생 B	Student B						0	2.3新增npc
+Chara.436	同学C	同學C	クラスメイトC	학생 C	Student C						0	2.3新增npc
+Chara.437	普罗米修斯	普羅米修斯	プロメーテウス	프로메테우스	Prometheus						0	2.3新增npc
+Chara.438	卜卜	卜卜	ブブ	보보	Bubu						0	2.3新增npc
+Chara.439	胆小的流民	膽小的流民	臆病な浮浪者	겁이 많은 난민	Timid Local						0	2.3新增npc
+Chara.440	直率的流民	直率的流民	率直な浮浪者	솔직한 난민	Candid Local						0	2.3新增npc
+Chara.441	老奶奶	老奶奶	おばあさん	할머니	Elderly Woman						0	2.4新增npc
+Chara.442	炒栗子姐姐	炒栗子姐姐	栗売りの姉さん	군밤 장사꾼	Chestnut Vendor						0	2.4新增npc
+Chara.443	卖鸡蛋阿姨	賣雞蛋阿姨	卵売りのおばさん	계란 장사꾼	Egg Seller						0	2.4新增npc
+Chara.444	模糊的声音	模糊的聲音	曖昧な声	모호한 소리	Faint Voice						0	2.4新增npc
+Chara.445	姬家人	姬家人	姫家の人	희씨 가문 사람	Ji Family						0	2.5新增npc
+Chara.446	信徒首领	信徒首領	信者の首領	신자 보스	Devotee Leader						0	2.5新增npc
+Chara.447	信徒	信徒	信者	신자	Devotee						0	2.5新增npc
+Chara.448	后勤人员	後勤人員	後方支援人員	지원 팀원	Logistics Officer						0	2.5新增npc
+Chara.449	舍塔手下	θ手下	θ（シータ）の手下	θ 부하	θ's Soldier						0	2.5新增npc
+Chara.450	客人A	客人A	客人A	손님 A	Guest A						0	2.5新增npc
+Chara.451	小肴	小肴	幼い肴（ヤオ）	미니 야오	Young Yao						0	2.5新增npc
+Chara.452	同声	同聲	同時に	이구동성	Together						0	2.5新增npc
+Chara.453	三人	三人	三人	세 사람	Together						0	2.5新增npc
+Chara.454	舍塔—无正觉	θ—無正覺	θ・無正覚	θ·불의	θ - Inversion						0	2.5新增npc
+Chara.455	客人B	客人B	客人B	손님 B	Guest B						0	2.5新增npc
+Chara.456	里芙&芬妮	里芙&芬妮	リフ&ファニー	리브&페니	Lyfe & Fenny						0	2.5新增npc
+Chara.457	辰星&肴	辰星&肴	辰星（チェンシン）&肴（ヤオ）	수성&야오	Chenxing & Yao						0	2.5新增npc
+Chara.458	令人怀念的声音	令人懷念的聲音	懐かしい声	그리운 목소리	Nostalgic Voice						0	2.5新增npc
+Chara.459	妈妈的声音	媽媽的聲音	母の声	엄마의 목소리	Mother's Voice						0	2.5新增npc
+Chara.460	内心的声音	內在的聲音	心の声	내면의 목소리	Inner Voice						0	2.5新增npc
+Chara.461	月虹（阑月）	月虹（闌月）	月虹（闌月）	월홍(란츠키)	Yuehong (Madam Lanyue)						0	2.5新增npc
+Chara.462	老板娘	老闆娘	店主	여사장	Game Vendor						0	2.5新增npc
+Chara.463	熊玩偶	熊玩偶	クマの着ぐるみ	곰 인형	Teddy Bear						0	2.5新增npc
+Chara.464	女士兵	女士兵	女兵士	여군 병사	Female Soldier						0	2.5新增npc
+Chara.465	女士官	女士官	女士官	여군 장교	Female Sergeant						0	2.5新增npc
+Chara.466	小女孩妈妈	小女孩媽媽	女の子の母	여자아이의 엄마	Little Girl's Mother						0	2.5新增npc
+Chara.467	冰淇淋店长	冰淇淋店長	アイスクリーム屋の店長	아이스크림 점장	Ice Cream Shop Owner						0	2.5新增npc
+Chara.468	老板	老闆	店主	사장	Boss—						0	2.5新增npc
+Chara.469	莉琪	莉琪	リジ	리지	Lizzie						0	2.6新增npc
+Chara.470	墨菲斯	墨菲斯	モルペウス	모르페우스	Morpheus						0	2.6新增npc
+Chara.471	恩雅&茉莉安	恩雅&茉莉安	エンヤ＆マリアン	엔야&마리안	Enya & Marian						0	2.6新增说话人
+Chara.472	16区	16區	エリア16	16구역	Zone 16						0	2.6新增说话人
+Chara.473	公司员工A	公司員工A	職員A	회사 직원A	Company Employee A						0	2.6新增说话人
+Chara.474	公司员工B	公司員工B	職員B	회사 직원B	Company Employee B						0	2.6新增说话人
+Chara.475	公司员工C	公司員工C	職員C	회사 직원C	Company Employee C						0	2.6新增说话人
+Chara.476	公司员工D	公司員工D	職員D	회사 직원D	Company Employee D						0	2.6新增说话人
+Chara.477	卷毛女孩	捲髮女孩	カーリーヘアの女の子	곱슬머리 소녀	Curly-Haired Girl						0	2.6新增说话人
+Chara.478	母亲	母親	母親	어머니	Mother						0	2.6新增说话人
+Chara.479	卫城调查员A	衛城調查員A	アクロポリス調査員A	아크로폴리스 조사원 A	Acropolis Investigator A						0	2.7新增说话人
+Chara.480	卫城调查员B	衛城調查員B	アクロポリス調査員B	아크로폴리스 조사원 B	Acropolis Investigator B						0	2.7新增说话人
+Chara.481	泰坦	泰坦	タイタン	타이탄	Titan						0	2.7新增说话人
+Chara.482	新生泰坦	新生泰坦	新生タイタン	신생 타이탄	Newborn Titan						0	2.7新增说话人
+Chara.483	回忆中的声音	回憶中的聲音	記憶の声	기억 속의 소리	Voice From the Past						0	2.7新增说话人
+Chara.484	回忆中的身影	回憶中的身影	記憶の影	기억 속의 모습	Figure From the Past						0	2.7新增说话人
+Chara.485	反抗军女军官	反抗軍女軍官	抵抗組織の女性士官	여성 반항군 군관	Resistance Officer						0	2.7新增说话人
+Chara.486	年幼的奈莉德	年幼的奈莉德	幼いネリーダ	어린 네리다	Little Nerida						0	2.7新增说话人
+Chara.487	年少的奈莉德	年少的奈莉德	若いネリーダ	젊은 네리다	Teen Nerida						0	2.7新增说话人
+Chara.488	银发老人	銀髮老人	白髪の老人	은발의 노인	Elderly Woman						0	2.7新增说话人
+Chara.489	两人	兩人	二人	두 사람	Both						0	2.7新增说话人
+Chara.490	巨大的机械装置	巨大的機械裝置	巨大な機械装置	거대한 기계 장치	Colossal Machine						0	2.7新增说话人
+Chara.491	异口同声	異口同聲	同時に	이구동성	In Unison						0	2.7新增说话人
+Chara.492	神秘女孩	神秘女孩	謎の少女	신비한 소녀	Mysterious Girl						0	2.7新增说话人
+Chara.493	优格	優格	ヨル	요거트	Yogurt						0	2.7新增说话人
+Chara.494	海底观测者	海底觀測者	海底観測者	심연의 관찰자	Abyss Watcher						0	2.7新增说话人
+Chara.495	奈莉德	奈莉德	ネリーダ	네리다	Nerida						0	2.7新增说话人
+Chara.496	妮塔小时候	妮塔小時候	幼いニタ	어린 시절의 니타	Little Nita						0	2.7新增说话人
+Chara.497	幼年妮塔	幼年妮塔	幼いニタ	어린 시절의 니타	Little Nita						0	2.7新增说话人
+Chara.498	研究员A	研究員A	研究員A	연구원A	Researcher A						0	2.7新增说话人
+Chara.499	研究员B	研究員B	研究員B	연구원B	Researcher B						0	2.7新增说话人
+Chara.500	导师	導師	先生	지도 교수	Mentor						0	2.7新增说话人
+Chara.501	芙提雅&卡罗琳	芙提雅&卡羅琳	フリティア&カロリン	프티야&캐롤린	Fritia & Caroline						0	2.7新增说话人
+Chara.502	四人	四人	四人の声	4명	Group						0	2.8新增说话人
+Chara.503	喧哗声	喧嘩聲	騒々しい声	소음	Clamor						0	2.8新增说话人
+Chara.504	公证人员	公證人員	裁判長	공증인	Arbiter						0	2.8新增说话人
+Chara.505	多莉丝	多莉絲	ドリス	도리스	Doris						0	2.8新增说话人
+Chara.506	自动破案机	自動破案機	自動調査機	추리 로봇	Detective Bot						0	2.8新增说话人
+Chara.507	真音	真音	まお	마온	Maon						0	2.8新增说话人
+Chara.508	霓	霓	ネオン	네온	Neon						0	2.8新增说话人
+Chara.509	提娅	提婭	ティア	티아	Tia						0	2.8新增说话人
+Chara.510	埃达·人间体	埃達·人間體	エッダ・人間体	에다-휴머노이드	Edda - Human Form						0	2.8新增说话人
+Chara.511	受缚的埃达	受縛的埃達	絆されたエッダ	묶인 에다	Trapped Edda						0	2.8新增说话人
+Chara.512	学院教授	學院教授	学院の教授	아카데미 교수	Professor						0	2.8新增说话人
+Chara.513	学生向导	學生嚮導	学生ガイド	학생 안내	Student Guide						0	3.0新增说话人
+Chara.514	学生裁判	學生裁判	学生裁判官	학생 심판	Student Referee						0	3.0新增说话人
+Chara.515	摆摊的学生	擺攤的學生	屋台の学生	노점을 차린 학생	Student Vendor						0	3.0新增说话人
+Chara.516	匆忙的学生	匆忙的學生	慌ただしい学生	서두르는 학생	Hurried Student						0	3.0新增说话人
+Chara.517	围观学生	圍觀學生	見物している学生	구경하는 학생	Onlooking Student						0	3.0新增说话人
+Chara.518	海拉	海拉	ヒーラ	헬라	Hela						0	3.0新增说话人
+Chara.519	安静的学生向导	安靜的學生嚮導	物静かな学生ガイド	조용한 학생 안내	Soft-Spoken Student Guide						0	3.0新增说话人
+Chara.520	活泼的学生向导	活潑的學生嚮導	活発な学生ガイド	활기찬 학생 안내	Energetic Student Guide						0	3.0新增说话人
+Chara.521	智慧之神	智慧之神	知恵の神	지혜의 신	Goddess of Wisdom						0	3.0新增说话人
+Chara.522	学院高层	學院高層	学院上層部	아카데미 고위층	Acropolis Senior Official						0	3.0新增说话人
+Chara.523	录音	錄音	録音	녹음	Recording						0	3.0新增说话人
+Chara.524	反对团体成员	反對團體成員	反対団体のメンバー	반대 단체 멤버	Anti-AI Group Member						0	3.0新增说话人
+Chara.525	进化派教授	演化派教授	進化派の教授	진화파 교수	Progressivist Professor						0	3.0新增说话人
+Chara.526	女学生甲	女學生甲	女子生徒A	여학생 갑	Student A						0	3.0新增说话人
+Chara.527	女学生乙	女學生乙	女子生徒B	여학생 을	Student B						0	3.0新增说话人
+Chara.528	露娜	露娜	ルナ	루나	Luna						0	3.0新增说话人
+Chara.529	策展人	策展人	キュレーター	큐레이터	Archives Director						0	3.0新增说话人
+Chara.530	“埃达”	「埃達」	「エッダ」	“에다”	"Edda"						0	3.0新增说话人
+Chara.531	萨菲尔	薩菲爾	サフィール	사파이어	Sapphire						0	3.0新增说话人
+Chara.532	电脑的声音	電腦的聲音	動画	컴퓨터 소리	Computer						0	2.8新增说话人
+Chara.533	克莱因	克萊因	クライン	클레인	Klein						0	3.0新增说话人
+Chara.534	女学生A	女學生A	女子生徒A	여학생 A	Student A						0	3.0新增说话人
+Chara.535	女学生B	女學生B	女子生徒B	여학생 B	Student B						0	3.0新增说话人
+Chara.536	文明守护者	文明守護者	文明を護りせし者	문명의 수호자	Civilization Guardian						0	3.0新增说话人
+Chara.537	学院导师	學院導師	学院の指導教員	아카데미 교수	Student Advisor						0	3.0新增说话人
+Chara.538	女老板	女老闆	店長	여사장	Boss						0	3.0新增说话人
+Chara.539	克罗瑞娜	克羅瑞娜	クラウリナ	클라리나	Clarina						0	3.1新增说话人
+Chara.540	米拉	米拉	ミラ	밀라	Myra						0	3.1新增说话人
+Chara.541	贝蕾妮丝	貝蕾妮絲	ベレニス	베레니스	Berenice						0	3.1新增说话人
+Chara.542	女仆	女僕	メイド	메이드	Maid						0	3.1新增说话人
+Chara.543	英气的姑娘	英氣的姑娘	颯爽たる娘	호방한 소녀	Dashing Girl						0	3.1新增说话人
+Chara.544	薇奈特	薇奈特	ビネット	비네타	Vinetta						0	3.1新增说话人
+Chara.545	搜救队员	搜救隊員	救助隊員	구조대 대원	Rescue Scout						0	3.1新增说话人
+Chara.546	搜救队长	搜救隊長	救助隊長	구조대 대장	Rescue Captain						0	3.1新增说话人
+Chara.547	传呼机	對講機	トランシーバー	호출기	Handheld Radio						0	3.1新增说话人
+Chara.548	角落的女孩	角落的女孩	隅っこの娘	구석의 소녀	Girl in the Corner						0	3.1新增说话人
+Chara.549	机兵	機兵	機兵	보초병	Security Bot						0	3.0新增说话人
+Chara.550	米娅	米婭	ミア	미아	Mia						0	3.2新增说话人
+Chara.551	人事部同事	人事部同事	人事部の同僚	인사팀 동료	HR Staffer						0	3.2新增说话人
+Chara.552	侍应生（米娅饰）	接待員（米婭飾）	ベルスタッフ（ミア）	웨이트리스 역(미아)	Bellhop (Mia)						0	3.2新增说话人
+Chara.553	主持人（安卡希雅饰）	主持人（安卡希雅飾）	ゲームマスター（アカシア）	MC 역(아카시아)	Gamemaster (Acacia)						0	3.2新增说话人
+Chara.554	主持人（米娅饰）	主持人（米婭飾）	ゲームマスター（ミア）	MC 역(미아)	Gamemaster (Mia)						0	3.2新增说话人
+Chara.555	龙舌兰（薇蒂雅饰）	龍舌蘭（薇蒂雅飾）	アガベ（ヴィディア）	아가베 역(비디야)	Agave (Vidya)						0	3.2新增说话人
+Chara.556	门锁（米娅饰）	門鎖（米婭飾）	ドアロック（ミア）	잠금장치 역(미아)	Door Lock (Mia)						0	3.2新增说话人
+Chara.557	米娅妈妈	米婭媽媽	ミアのママ	미아 어머니	Mia's Mom						0	3.2新增说话人
+Chara.558	脑科学实验室同事A	腦神經科學實驗室同事A	脳科学実験室の同僚A	뇌과학 실험실 동료 A	Lab Colleague A						0	3.2新增说话人
+Chara.559	脑科学实验室同事B	腦神經科學實驗室同事B	脳科学実験室の同僚B	뇌과학 실험실 동료 B	Lab Colleague B						0	3.2新增说话人
+Chara.560	脑科学实验室同事C	腦神經科學實驗室同事C	脳科学実験室の同僚C	뇌과학 실험실 동료 C	Lab Colleague C						0	3.2新增说话人
+Chara.561	SpH-L12	SpH-L12	SpH-L12	SpH-L12	SpH-L12						0	3.2新增说话人
+Chara.562	酒店邮件	飯店信件	ホテルのメール	호텔 메일	Hotel Notice						0	3.2新增说话人
+Chara.563	空乘人员	空乘人員	客室乗務員	승무원	Flight Attendant						0	3.2新增说话人
+Chara.564	小黑猫	小黑貓	黒猫	검은 고양이	The Kitten						0	3.1新增说话人
+Chara.565	海伦娜	海倫娜	ヘレナ	헬레나	Helena						0	3.1新增说话人
+Chara.566	四人齐声	四人齊聲	一斉に	네 사람	Everyone						0	3.1新增说话人
+Chara.567	里芙&晴	里芙&晴	リフ＆晴	리브&하루	Lyfe and Haru						0	3.1新增说话人
+Chara.568	身旁的女性	身旁的女性	隣の女性	옆에 있는 여자	Woman Nearby						0	3.2新增说话人
+Chara.569	年幼的晴	年幼的晴	幼い晴	어린 하루	Young Haru						0	3.2新增说话人
+Chara.570	异星之安卡希雅	異星之安卡希雅	異星のアカシア	유쾌의 별 아카시아	"Idlestar" Acacia						0	3.2新增说话人
+Chara.571	星之蜜约芬妮	星之蜜約芬妮	星の約束 ファニー	달콤의 별 페니	"Sweetstar" Fenny						0	3.2新增说话人
+Chara.572	星之激浪奈莉德	星之激浪奈莉德	星の奔流 ネリーダ	돌진의 별 네리다	"Surgestar" Nerida						0	3.2新增说话人
+Chara.573	星之浮游瑟瑞斯	星之浮游瑟瑞斯	星の浮遊 シーリス	표류의 별 세리스	"Driftstar" Siris						0	3.2新增说话人
+Chara.574	星之鲛梦薇蒂雅	星之鮫夢薇蒂雅	星の夢幻 ヴィディア	신기루의 별 비디야	"Miragestar" Vidya						0	3.2新增说话人
+Chara.575	众少女	眾少女	女の子たち	소녀들	Together						0	3.2新增说话人
+Chara.576	演绎桌团爱好者	演繹桌團愛好者	リアルRPGマニア	테이블 추리단 애호가	Tabletop Expedition Fan						0	3.2新增说话人
+Chara.577	不自信的女生	不自信的女生	自信のない女の子	자신감 없는 소녀들	Insecure Girl						0	3.2新增说话人
+Chara.578	朔州古文爱好者	朔州古文愛好者	朔州古文学マニア	삭주 고대 문학 애호가	Ancient Shuozhou Text Lover						0	3.2新增说话人
+Chara.579	正方辩手	正方辯手	賛成側の弁論者	찬성 측	Affirmative Speaker						0	3.2新增说话人
+Chara.580	反方辩手	反方辯手	反対側の弁論者	반대 측	Opposition Speaker						0	3.2新增说话人
+Chara.581	恒沙代理	恆沙代理	ゴウシャ代理	항사 대리	GANGES Proxy						0	3.3新增说话人
+Chara.582	宇迦	宇迦	ユガ	우카	YUGA						0	3.3新增说话人
+Chara.583	乐土居民A	樂土居民A	楽土の住民A	낙원 주민 A	Elysium Resident A						0	3.3新增说话人
+Chara.584	乐土居民B	樂土居民B	楽土の住民B	낙원 주민 B	Elysium Resident B						0	3.3新增说话人
+Chara.585	乐土居民C	樂土居民C	楽土の住民C	낙원 주민 C	Elysium Resident C						0	3.3新增说话人
+Chara.586	居民A	居民A	住民A	주민 A	Resident A						0	3.3新增说话人
+Chara.587	居民B	居民B	住民B	주민 B	Resident B						0	3.3新增说话人
+Chara.588	居民C	居民C	住民C	주민 C	Resident C						0	3.3新增说话人
+Chara.589	友人A	友人A	友人A	친구 A	Friend A						0	3.3新增说话人
+Chara.590	友人B	友人B	友人B	친구 B	Friend B						0	3.3新增说话人
+Chara.591	罗赞之影	羅贊之影	ロザンの影	로잔의 그림자	Rozan's Shadow						0	3.3新增说话人
+Chara.592	起源物种	起源物種	起源種	기원종	Apex Genesis						0	3.3新增说话人
+Chara.593	黑衣人	黑衣人	ロザンの手下	맨 인 블랙	Woman in Black						0	3.3新增说话人
+Chara.594	特殊异化人	特殊異化人	特殊変異者	특수 변이자	Anomaly Changed						0	3.3新增说话人
+Chara.595	芬妮&瑟瑞斯	芬妮&瑟瑞斯	ファニー&シーリス	페니&세리스	Fenny and Siris						0	3.2新增说话人
+Chara.596	镜像	鏡像	鏡像	거울	Mirror Image						0	3.3新增说话人
+Chara.597	画面中的声音	畫面中的聲音	画面からの声	화면 속의 소리	Girl in the video						0	3.3新增说话人
+Chara.598	研发部代表	研發部代表	開発部代表	개발부 대표	R&D Representative						0	3.3新增说话人
+Chara.599	伊琳娜	伊琳娜	イリナ	이리나	Elena						0	3.4新增说话人
+Chara.600	廖莎	廖莎	リョーシャ	리오사	Lyosha						0	3.4新增说话人
+Chara.601	虚弱的少女	虛弱的少女	虚弱な少女	허약한 소녀	Frail Girl						0	3.4新增说话人
+Chara.602	医疗部代表	醫療部代表	医療部代表	의료부 대표	Medical Department Representative						0	3.4新增说话人
+Chara.603	“罗赞”	「羅贊」	「ロザン」	 '로잔'	"Rozan"						0	3.4新增说话人
+Chara.604	厄里倪厄斯	厄里倪厄斯	エリニュエス	에리니에스	Erinys						0	3.4新增说话人
+Chara.605	狙击手	狙擊手	スナイパー	저격수	Sniper						0	3.4新增说话人
+Chara.606	“西西弗斯”	「薛西弗斯」	「シシュフォス」	 '시시포스'	"Sisyphus"						0	3.4新增说话人
+Chara.607	真神者精英	真神者精英	至上者エリート	조물주 엘리트	Elite Demiurge						0	3.4新增说话人
+Chara.608	令人安心的声音	令人安心的聲音	安心感のある声	안심되는 소리	Soothing Voice						0	3.3新增说话人
+Chara.609	萨菲尔&优格	薩菲爾&優格	サフィール&ヨル	사파이어&요거트	Sapphire & Yogurt						0	3.4新增说话人
+Chara.610	老婆婆	老婆婆	お婆さん	할머니	Old Lady						0	3.4新增说话人
+Chara.611	虚弱的女孩	虛弱的女孩	虚弱な女の子	허약한 소녀	Weak Girl						0	3.4新增说话人
+Chara.612	胧嫣	朧嫣	ロウエン	로엔	Longyan						0	3.5新增说话人
+Chara.613	瑟茜	瑟茜	セシル	세르시	Sersie						0	3.5新增说话人
+Chara.614	刚朵拉广播	剛朵拉廣播	ゴンドラ放送	곤돌라 방송	Gondola Broadcast						0	3.5新增说话人
+Chara.615	安德烈奥蒂夫人	安德烈奧蒂夫人	マダム・アンドレオッチ	안드레오티 부인	Mrs. Andreotti						0	3.5新增说话人
+Chara.616	玛德琳	瑪德琳	マデリン	마들렌	Madeleine						0	3.5新增说话人
+Chara.617	女仆长	女僕長	メイド長	수석 메이드	Head Maid						0	3.5新增说话人
+Chara.618	女仆们	女僕們	メイドたち	메이드들	Maids						0	3.5新增说话人
+Chara.619	咖啡店店员	咖啡店店員	カフェ店員	카페 점원	Coffee Shop Waitress						0	3.5新增说话人
+Chara.620	安保人员	保全人員	警備員	보안 요원	Security Guard						0	3.5新增说话人
+Chara.621	话事人A	話事人A	代表者A	실세A	Chief Delegate A						0	3.5新增说话人
+Chara.622	话事人B	話事人B	代表者B	실세B	Chief Delegate B						0	3.5新增说话人
+Chara.623	报刊亭主理人	報刊亭主理人	ニューススタンドのブランドオーナー	가판대 주리인	Newsstand Curator						0	3.5新增说话人
+Chara.624	广播声	廣播聲	放送	방송 소리	Broadcast						0	3.5新增说话人
+Chara.625	终端讯息	終端訊息	端末メッセージ	단말기 메시지	Terminal Message						0	3.5新增说话人
+Chara.626	朝圣者A	朝聖者A	巡礼者A	순례자A	Pilgrim A						0	3.5新增说话人
+Chara.627	玛德琳的批注	瑪德琳的批註	マデリンの書き加え	마들렌의 주석	Madeleine's Note						0	3.5新增说话人
+Chara.628	书信	書信	手紙	편지	Letter						0	3.5新增说话人
+Chara.629	商会成员	商會成員	商会メンバー	상회 회원	Chamber Member						0	3.5新增说话人
+Chara.630	安卡希雅&茉莉安	安卡希雅&茉莉安	アカシア＆マリアン	아카시아&마리안	Acacia & Marian						0	3.5新增说话人
+Chara.631	过去的安卡希雅	過去的安卡希雅	過去のアカシア	과거의 아카시아	Past Acacia						0	3.5新增说话人
+Chara.632	急躁的安保	急躁的保全	せっかちな警備員	조급한 보안 요원	Anxious Security Guard						0	3.5新增说话人
+Chara.633	忧心忡忡的安保	憂心忡忡的保全	心配そうな警備員	걱정 가득한 보안 요원	Worried Security Guard						0	3.5新增说话人
+Chara.634	笨手笨脚的安保	笨手笨腳的保全	不器用な警備員	서투른 보안 요원	Clumsy Security Guard						0	3.5新增说话人
+Chara.635	路人李	路人李	通行人・李（リ）	행인 A	Ms. Li						0	3.6新增说话人
+Chara.636	路人刘	路人劉	通行人・劉（リュウ）	행인 B	Ms. Liu						0	3.6新增说话人
+Chara.637	路人张	路人張	通行人・張（チョウ）	행인 C	Ms. Zhang						0	3.6新增说话人
+Chara.638	火种机器人	火種機器人	火種ロボット	불씨 로봇	Ember Robot						0	3.6新增说话人
+Chara.639	安	安	アン	아인	An						0	3.6新增说话人
+Chara.640	大理事	大理事	大理事	수석 이사장	Council Chief						0	3.6新增说话人
+Chara.641	幼年胧嫣	幼年朧嫣	幼いロウエン	어린 시절의 로엔	Little Longyan						0	3.6新增说话人
+Chara.642	神座系统	神座系統	「神の座」システム	신좌 시스템	Throne System						0	3.6新增说话人
+Chara.643	阴极科技员工	陰極科技員工	カソードテクノロジー社員	케소드 테크윈 직원	Cathode Technologies Staff						0	3.6新增说话人
+Chara.644	通讯终端	通訊終端	通信端末	통신 단말기	Comms Terminal						0	3.6新增说话人
+Chara.645	经理	經理	マネージャー	관리자	Manager						0	3.6新增说话人
+Chara.646	机器人	機器人	ロボット	로봇	Robot						0	3.6新增说话人
+Chara.647	小贩	小販	物売り	상인	Peddler						0	3.6新增说话人
+Chara.648	兰心										0	3.7新增说话人
+Chara.649	黑发少女										0	3.7新增说话人
+Chara.650	郊狼少女										0	3.7新增说话人
+Chara.651	公司员工										0	3.7新增说话人
+Chara.652	公司助理										0	3.7新增说话人
+Chara.653	和蔼的员工										0	3.7新增说话人
+Chara.654	南希										0	3.7新增说话人
+Chara.655	女孩										0	3.7新增说话人
+Chara.656	赐福者										0	3.7新增说话人
+Chara.657	信息残影										0	3.7新增说话人
+Chara.658	会场员工甲										0	3.7新增说话人
+Chara.659	会场员工乙										0	3.7新增说话人
+Chara.660	秘书										0	3.7新增说话人
+Chara.661	会场播报										0	3.7新增说话人
+Chara.662	恐慌的信息残影										0	3.7新增说话人
+Chara.663	惊讶的信息残影										0	3.7新增说话人
+Chara.664	疑惑的信息残影										0	3.7新增说话人
+Chara.665	尤克特拉希尔										0	3.7新增说话人
+Chara.666	和蔼的女人										0	3.7新增说话人
+Chara.667	里芙？										0	3.7新增说话人

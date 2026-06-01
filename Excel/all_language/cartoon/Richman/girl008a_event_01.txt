@@ -1,0 +1,25 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	芬妮，要一起去逛街吗?	芬妮，要一起去逛街嗎?	ファニー、一緒に散策しにいこうか？	페니, 같이 쇼핑하러 갈래?	Fenny, do you want to go shopping with me?						0	
+page0.2	当然要！	當然要！	もちろんいくわ！	당연히 해야지!	I'd love that!						0	
+page0.3	说起来，分析员的衣橱也该更新了，我一定要趁着这个机会好好挑选一番~	說起來，分析員的衣櫃也該更新了，我一定要趁著這個機會好好挑選一番~	そういえば、分析員の服もそろそろ買い換えないといけないわね。これを機にじっくり選んであげる。	그나저나 분석가 옷장도 리뉴얼해야 할 것 같은데 이참에 잘 골라봐야겠다~	Adjutant, it's about time we updated your wardrobe. I'm definitely taking this chance to pick some really sharp outfits for you today~						0	
+page0.4	随你挑选，我今天奉陪到底。	隨你挑選，我今天奉陪到底。	ああ、君に任せるよ。	마음대로 골라,  내가 끝까지 함께하지.	Go ahead. I'm all yours today.						0	
+page0.5	哼哼，可不准反悔哦。	哼哼，可不准反悔。	ふふ！約束よ。嫌だって言ってもやめないから。	흥흥, 딴말하기 없다.	Hehe, no backsies!						0	
+page0.6	说起来，分析员喜欢什么样风格的服装呢？	說起來，分析員喜歡什麼樣風格的服裝呢？	分析員ってどういう服が好きなの？	말하자면, 분석가는 어떤 스타일의 옷을 더 좋아해?	So, what kind of clothes do you like, Adjutant?						0	
+page0.7	我没有特别的风格偏好。硬要说的话，更偏向实用的吧。	我沒有特別的風格偏好。硬要說的話，更偏向實用的吧。	いや、特にないかな。しいて言えば実用性が高い服が好きかもしれないな。	나는 딱히 스타일 선호는 없어. 굳이 말하자면 좀 더 실용적인 편이 좋아.	I don't have a strong preference, honestly. If I had to choose, I'd lean toward whatever's practical.						0	
+page0.8	唉，分析员还是不懂啊。	唉，分析員還是不懂啊。	は～。分析員ってば、わかってないわね。	에이, 분석가는 아직도 모르네.	Agh, Adjutant, you just don't get it.						0	
+page0.9	衣服好不好看，可是会影响情绪的~	衣服好不好看，可是會影響情緒的~	服っていうのはメンタルに影響するものなのよ？	옷이 예쁜지 안 예쁜지는 기분에 지장을 줄 수 있어~	Pretty clothes can really lift one's spirits.						0	
+page0.10	比如穿上漂亮的衣服和重要的人约会，就能让人更加自信，更加积极。	例如穿上漂亮的衣服和重要的人約會，就能讓人更有自信，更積極。	綺麗な服を着て大事な人とデートに行けば、自信も溢れるし、積極的になるわ。	예를 들어 예쁜 옷을 입고 소중한 사람과 데이트를 하면 자신감을 얻고 긍정적으로 변할 수 있어.	Like, wearing something nice for a date can make you feel more confident and upbeat.						0	
+page0.11	而且很重要的是，能在心仪的人心里，留下不同的印象~	而且很重要的是，能在心儀的人心裡，留下不同的印象~	それに何より、そうすることで相手に特別な印象を残すことができるのよ。	그리고 중요한건 마음에 드는 사람의 마음에 다른 인상을 심어주는 거야~	And more importantly, it helps make a different impression on someone special.						0	
+page0.12	我希望分析员可以记得每一面的我。	我希望分析員可以記得每一面的我。	どんなあたしも、分析員に覚えていてほしいわ。	나는 분석가가 모든 면에서 나를 기억할 수 있기를 바라.	I want you to remember every side of me.						0	
+choice01	立即拍下芬妮此刻的样子	立即拍下芬妮此刻的樣子	今のファニーをカメラに収める	지금 페니의 모습을 바로 찍어줘.	Snap a quick photo of Fenny						0	
+page1.1	啊！	啊！	うわっ！	아!	Ah!						0	
+page1.2	我、我还没准备好呢……	我、我還沒準備好呢……	ちょっと！なんの準備もしてないのに……	나, 나는 아직 준비가 안 됐어…	I wasn't ready...						0	
+page1.3	这个瞬间的你，就是我最想留下的。	這個瞬間的你，就是我最想留下的。	一番残しておきたいのは、この瞬間の君だからね。	지금 이 순간 내가 가장 남기고 싶은 사람이야.	But that's the moment I wanted to capture.						0	
+page1.4	哼，脑子记住不就好了！	哼，腦子記得不就好了！	ふん……記憶に残しておくだけで充分でしょ！	흥, 머리는 기억하는 데 쓰면 되잖아!	Hmph, you could just capture it with your eyes, you know?						0	
+choice02	邀请芬妮一起自拍	邀請芬妮一起自拍	ファニーを誘って2ショットを撮る	페니를 초대해서 셀카를 같이 찍자.	Invite Fenny for a selfie						0	
+page2.1	一起来拍张照吧。	一起來拍張照吧。	一緒に写真を撮ろうか。	같이 사진 한 장 찍자.	Let's take a photo together.						0	
+page2.2	还没买新衣服呢，就要拍照了吗？	還沒買新衣服呢，就要拍照了嗎？	まだ新しい服も買ってないでしょ？もう撮るの？	새 옷도 안 샀는데 사진 찍으려고?	But we haven't even bought new clothes yet. Why take a photo now?						0	
+page2.3	想记录下我们的此时此刻。	想記錄下我們的此時此刻。	この瞬間の私達を記録したいんだ。	우리의 지금 이 순간을 기록하고 싶어.	Because I want to capture this moment — right here, right now.						0	
+page2.4	有什么特殊的吗？	有什麼特殊的嗎？	なにが特別なのよ？	뭐 특별한 거라도 있어?	Why? What's special about it?						0	
+page2.5	因为是和芬妮在一起，所以每时每刻都变得很特殊。	因為是和芬妮在一起，所以每時每刻都變得很特別。	ファニーと一緒にいるから、毎分毎秒が特別なんだ。	페니와 함께라서 매 순간이 특별해.	Fenny, every moment I spent with you is quite special.						0	

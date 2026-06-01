@@ -1,0 +1,42 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	茉莉安说的的确有道理。	茉莉安說的的確有道理。	マリアンの言うことも、確かに一理あります。	마리안 말도 맞아요.	That does make sense, Marian.						0	3.4版本星祈心愿宿舍剧情
+page1.2	但在这件事情上，辰星实在不能让步。	但在這件事情上，辰星實在不能讓步。	ですが、この件に関しては、姫辰星としてどうしても譲れません。	하지만 이 일에 관해서는, 수성도 양보할 수 없어요.	But on this matter, I simply cannot yield.						0	3.4版本星祈心愿宿舍剧情
+page1.3	我也是同样的想法。	我也是同樣的想法。	わたくしも同じ考えですわ。	나도 같은 생각이야.	I feel the same way.						0	3.4版本星祈心愿宿舍剧情
+page1.4	既然如此，那很遗憾……	既然如此，那很遺憾……	でしたら、残念ですが……	그렇다면, 유감이지만…	It's a shame to hear that...						0	3.4版本星祈心愿宿舍剧情
+page1.5	看来，我们只能赌上家族的名誉各自为战了。	看來，我們只能賭上家族的名譽各自為戰了。	家門の名誉を賭けて、それぞれの流儀で参りましょう。	결국, 저희는 가문의 명예를 걸고 각개 전투를 벌일 수밖에 없겠네요.	For the honor of our families, we may have no other choice but to settle this ourselves.						0	3.4版本星祈心愿宿舍剧情
+page1.6	……	……	……	……	...						0	3.4版本星祈心愿宿舍剧情
+page1.7	没想到我刚进入大厅，就目睹了令我震惊的一幕。	沒想到我剛進入大廳，就目睹了令我震驚的一幕。	ロビーに入った途端、目に飛び込んできた光景に言葉を失った。	로비에 들어서자마자, 충격적인 광경을 목격했다.	I hadn't expected to walk into the hall and witness something this shocking.						0	3.4版本星祈心愿宿舍剧情
+page1.8	平日里最为重视礼数的三人，正在激烈地争吵着。	平日裡最為重視禮數的三人，正在激烈地爭吵著。	普段から礼節を何より重んじる三人が、激しく言い争っている。	평소 예의범절을 가장 중시하는 세 사람이 격렬하게 논쟁을 벌이고 있었다.	The three girls who usually cared the most about etiquette were in the middle of a heated argument.						0	3.4版本星祈心愿宿舍剧情
+page1.9	这种时候，我自然不能坐视不管。	這種時候，我自然不能坐視不管。	こんなときに、黙っているわけにはいかない。	이런 상황에서 당연히 가만히 있을 수 없었다.	Naturally, I couldn't just stand by and watch.						0	3.4版本星祈心愿宿舍剧情
+page1.10	（镜头拉近）	（鏡頭拉近）	（カメラが寄る）	(카메라 줌인)	(Camera zooms in)						0	3.4版本星祈心愿宿舍剧情
+page1.11	……所以说，我仍然坚持星祈树的彩带选用罗森兰款式。	……所以說，我仍然堅持星祈樹的彩帶選用羅森蘭款式。	……とにかく、私は星祈樹のリボンはローズラン式を推します。	… 그러니까, 저는 성원나무의 리본은 로젠란 스타일을 따라야 한다고 생각해요.	...Which brings me back to why I believe Luchellan-style ribbons are the ideal choice for the Starwish Tree.						0	3.4版本星祈心愿宿舍剧情
+page1.12	而且，需要是安德烈奥蒂家族特供的定制版。	而且，需要是安德烈奧蒂家族特供的訂製版。	もちろん、アンドレオッチ家専用の特注品です。	그리고 안드레오티 가문이 특별 공급한 커스텀 버전이어야 하죠.	Specifically, the ones supplied exclusively by the Andreotti family.						0	3.4版本星祈心愿宿舍剧情
+page1.13	大陆上星祈节氛围最浓厚的便是罗森兰，这点想必两位都不反对吧？	大陸上星祈節氛圍最濃厚的便是羅森蘭，這點想必兩位都不反對吧？	星祈祭の雰囲気が最も濃いのはローズラン……この点は、お二人も異論ありませんよね？	대륙에서 성원절 축제 분위기가 가장 진한 곳이 바로 로젠란이잖아요. 두 분 다 동의하시죠?	Luchellan carries the richest Starwish Day spirit on the continent. Surely you both agree?						0	3.4版本星祈心愿宿舍剧情
+page1.14	话虽如此，但相比罗森兰的阿尔斯特风格，菲洛索亚风格要更现代一些。	話雖如此，但相比羅森蘭的阿爾斯特風格，菲洛索亞風格要更現代一些。	それはそうですが、ローズランのアルスター風より、フィロゾア風の方が現代的でしょう？	그렇긴 하지만, 로젠란의 울스터 스타일보다는 필로시아 스타일이 더 현대적이잖아.	That may be true, but compared to Luchellan's Ulster style, Philossia's designs feel more contemporary.						0	3.4版本星祈心愿宿舍剧情
+page1.15	吉诺拉家族每年都会从学院订购最新款的星祈树，保证兼具古典人文与新潮思想。	吉諾拉家族每年都會從學院訂購最新款的星祈樹，保證兼具古典人文與新潮思想。	ディノーラ家では毎年学院に最新の星祈樹を依頼して、クラシカルかつモダンなものを飾っていますわ。	제노라 가문은 매년 아카데미에서 최신 성원나무를 주문하거든. 전통적 매력과 트렌디한 감각을 모두 갖출 거라고 장담해.	The Genoura family commissions the latest Starwish Trees from the Acropolis every year, balancing between classical elegance and fresh creativity.						0	3.4版本星祈心愿宿舍剧情
+page1.16	我首先要修正一下两位的刻板印象，朔州并不是只过明灯节。	我首先要修正一下兩位的刻板印象，朔州並不是只過明燈節。	まず、お二人の思い込みを正しますが、朔州は明灯祭だけの土地ではありません。	먼저 두 분의 고정관념을 깨고 싶네요. 삭주엔 등명제만 있는 게 아니에요.	Before anything else, I should correct the common misconception that Shuozhou only celebrates Mingdeng Jie.						0	3.4版本星祈心愿宿舍剧情
+page1.17	对于星祈节和星祈树的布置，我们也很有心得。	對於星祈節和星祈樹的佈置，我們也很有心得。	星祈祭と星祈樹の飾りつけにも、深い文化と手法があるのです。	저희는 성원절과 성원나무 장식에도 노하우가 있어요.	We take Starwish Day and the decoration of the Starwish Tree quite seriously as well.						0	3.4版本星祈心愿宿舍剧情
+page1.18	姬家惯用的朔州款式相当合适，我相信郎君会喜欢的。	姬家慣用的朔州款式相當合適，我相信郎君會喜歡的。	姫家が用いる朔州式はよく馴染みますし、あなたにもきっと気に入っていただけるはずです。	희씨 가문의 전통 삭주 스타일이 잘 어울릴 거예요. 낭군님도 마음에 들어 할 거고요.	The Ji family's Shuozhou style is perfectly suitable. I'm sure My Prince would appreciate it.						0	3.4版本星祈心愿宿舍剧情
+page1.19	……搞半天你们是在讨论星祈树的事情啊。	……搞半天你們是在討論星祈樹的事情啊。	……なるほど、話していたのは星祈樹のことか。	… 다들 성원나무 얘기를 그렇게 한참 동안 하고 있었던 거예요?	...So you girls have been arguing about the Starwish Tree all this time?						0	3.4版本星祈心愿宿舍剧情
+page1.20	郎君，你来了。	郎君~你回來了~	来てくれましたか、あなた。	낭군님, 오셨어요.	My Prince, there you are.						0	3.4版本星祈心愿宿舍剧情
+page1.21	看你们争论得这么厉害，我还以为出什么事情了。	看你們爭論得這麼厲害，我還以為出什麼事情了。	やけに白熱していたから、何か一大事かと思ったよ。	너무 열심히 논쟁하길래 무슨 일이 생긴 줄 알았잖아요.	I thought it was something more serious from how intense it sounded.						0	3.4版本星祈心愿宿舍剧情
+page1.22	这的确是重要的事情，应该说是很重要的事情。	這的確是重要的事情，應該說是很重要的事情。	これは重要なことです。いえ、それ以上と言ってもいいでしょう。	이건 정말 중요한 일이에요. 아주 중요한 일이랍니다.	It is serious — very serious, in fact.						0	3.4版本星祈心愿宿舍剧情
+page1.23	果然，最终还是由分析员决定比较好，因此我们也正准备去找你。	果然，最終還是由分析員決定比較好，因此我們也正準備去找你。	やはり、分析員さんに決めていただくのが一番かと思い、探しに行こうとしていたところでした。	역시 최종 결정은 분석가님이 하는 게 좋을 것 같아서, 마침 분석가님을 찾아가려던 참이었어요.	Since the final decision is yours, Adjutant, we were actually about to go look for you.						0	3.4版本星祈心愿宿舍剧情
+page1.24	分析员，你觉得选哪种风格比较合适？	分析員，你覺得選哪種風格比較合適？	それで、どの様式がふさわしいと思われますか？	분석가님, 어떤 스타일이 가장 좋을 것 같아요?	Which style do you think fits best?						0	3.4版本星祈心愿宿舍剧情
+page1.25	三人齐齐看向我。	三人齊齊看向我。	三人の視線が一斉に私へと向けられる。	세 사람이 일제히 나를 바라봤다.	All three turned their eyes to me.						0	3.4版本星祈心愿宿舍剧情
+page1.26	嗯……	嗯……	ただ……	음…	Hmm...						0	3.4版本星祈心愿宿舍剧情
+page1.27	客观来说，我实际上也不清楚三人说的风格分别是什么样子。	客觀來說，我實際上也不清楚三人說的風格分別是什麼樣子。	正直、三人の言う様式がどれも具体的に頭に浮かぶわけではない。	객관적으로 말하자면, 사실 나도 세 사람이 말하는 스타일이 각각 어떤 건지 잘 알지 못했다.	Honestly, I had no idea what the difference between the three styles even was.						0	3.4版本星祈心愿宿舍剧情
+page1.28	就算随机选一个，凭借她们的审美也一定能拿出足够漂亮的成品。	就算隨機選一個，憑藉她們的審美也一定能拿出足夠漂亮的成品。	どれを選んでも、彼女たちなら見事に仕上げるだろう。	그녀들의 미적 감각이라면 아무거나 골라도 결과물은 충분히 예쁠 거다.	Even if I randomly picked one, everything would turn out beautiful with their fine tastes.						0	3.4版本星祈心愿宿舍剧情
+page1.29	但眼前的三人都是我的挚爱，给出一个不负责任的回答显然不符合我的习惯。	但眼前的三人都是我的摯愛，給出一個不負責任的回答顯然不符合我的習慣。	だが、この三人は私にとって何より大切な存在だ。安易に誰かを選ぶような真似は性に合わない。	하지만 눈앞의 세 사람은 모두 내가 사랑하는 사람들이니, 무책임한 대답을 하는 건 내게 어울리지 않는다.	But the three girls all mean so much to me, giving a careless answer would never sit right with me.						0	3.4版本星祈心愿宿舍剧情
+page1.30	大脑飞速思考后，我给出了答案。	大腦飛速思考後，我給出了答案。	思考を瞬時に巡らせ、口を開いた。	나는 빠르게 머리를 굴려서 대답했다.	After some quick thinking, I gave my reply.						0	3.4版本星祈心愿宿舍剧情
+page1.31	当然是全都要。	當然是全都要。	全部、取り入れればいいだろう。	당연히 전부 다 해야죠.	I think we should go with all of them.						0	3.4版本星祈心愿宿舍剧情
+page1.32	比如，用朔州的布料，加上阿尔斯特的剪裁方式，再搭配上菲洛索亚的图案和装饰物，如何？	比如，用朔州的布料，加上阿爾斯特的剪裁方式，再搭配上菲洛索亞的圖案和裝飾物，如何？	例えば、朔州の布地にアルスターのデザイン、そしてフィロゾア風の模様や装飾にする、ってのはどうだ。	예를 들면, 삭주의 천에 울스터의 재단 방식을 더하고, 거기에 필로시아의 도안과 장식품을 더하는 거죠. 어때요?	For example... Shuozhou fabric, Ulster-style cuts, and Philossian patterns and ornaments. How does that sound?						0	3.4版本星祈心愿宿舍剧情
+page1.33	这样看起来不会觉得有违和感吗？	這樣看起來不會覺得有違和感嗎？	調和が崩れたりしないでしょうか？	그렇게 하면 어색하지 않을까요?	Wouldn't that combination clash?						0	3.4版本星祈心愿宿舍剧情
+page1.34	我相信大家的审美和手艺，总之先试试吧！	我相信大家的審美和手藝，總之先試試吧！	みんなのセンスと腕を、私は信じている。まずはやってみよう！	모두의 미적 감각과 솜씨를 믿어요. 일단 한번 해보죠!	I trust all of your skills and tastes. Let's give it a try first.						0	3.4版本星祈心愿宿舍剧情
+page1.35	那么，我先去把布料取来。	那麼，我先去把布料取來。	では、布地を取って来ます。	그럼 제가 먼저 천을 가져올게요.	Very well. I'll fetch the fabric.						0	3.4版本星祈心愿宿舍剧情
+page1.36	我也去找一下纹路的样式。	我也去找一下紋路的樣式。	わたくしも模様の参考を探してくるわね。	나도 도안 스타일을 찾아볼게.	Then I'll go pick out some pattern designs.						0	3.4版本星祈心愿宿舍剧情
+page1.37	辰星和克罗瑞娜先后离开，茉莉安则微笑着看向了我。	辰星和克羅瑞娜先後離開，茉莉安則微笑著看向了我。	辰星とクラウリナが去り、マリアンが穏やかに微笑みながらこちらを見る。	수성과 클라리나가 차례로 나가고, 마리안은 미소를 지으며 나를 바라봤다.	Chenxing and Clarina departed one after the other, while Marian stayed behind, smiling softly at me.						0	3.4版本星祈心愿宿舍剧情
+page1.38	分析员果然是用这种方式解决了呢。	分析員果然是用這種方式解決了呢。	やはり分析員さんは、そういう答えを選ばれるのですね。	역시 분석가님. 이런 방식으로 해결했네요.	I had a feeling you'd choose a solution like this, Adjutant.						0	3.4版本星祈心愿宿舍剧情
+page1.39	这是自然，大家在我心中的分量都是相同的，实在没办法做出取舍。	這是自然，大家在我心中的分量都是相同的，實在沒辦法做出取捨。	当然だ。三人とも、私にとっては同じくらい大切なんだ。どれか一つに決められるわけがないだろう。	당연하지. 내 마음속에선 다들 똑같이 소중하니까 도저히 선택할 수가 없어.	It came to me naturally. You all hold equal weight in my heart. How could I choose only one?						0	3.4版本星祈心愿宿舍剧情
+page1.40	在她们回来之前，我们一起去做点什么，打发一下时间吧。	在她們回來之前，我們一起去做點什麼，打發一下時間吧。	彼女たちが戻ってくるまで、何か一緒にしながら待とうか。	두 사람이 돌아오기 전에 우리 같이 뭔가 하면서 시간을 보내자.	While we're waiting for them, let's do something together to pass the time.						0	3.4版本星祈心愿宿舍剧情

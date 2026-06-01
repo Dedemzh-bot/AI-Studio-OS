@@ -1,0 +1,130 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，请求收缩队形，进来以后视野变差了。	分析員，請求收縮隊形，進來以後視野變差了。	分析員、隊形を縮小したい。ここに入ってから視界が悪いんだ……	분석가, 진형을 조금만 좁혀줘. 들어오니까 시야가 좁아져서 말이야.	Adjutant, I request that you tighten the formation. We don't have a clear line of sight.						0	
+b-1											0	
+2	好。	好。	分かった。	알겠어요.	Okay.						0	
+b-2											0	
+3	收缩队形，向我靠近。	收縮隊形，向我靠攏。	隊形を縮小して私に近づいて。	다들 진형을 좁히고 나한테 붙어.	Tighten the formation. Move in toward me.						0	
+4	收到收到！	收到收到！	はいはい！	오케이 오케이!	Understood!						0	
+5	收到。	收到。	了解。	알겠어.	Copy that.						0	
+5_1	让海姆达尔部队组成稀疏阵型，主要是为了避免泰坦污染引发神格侵蚀，进而造成的队友间误伤。	讓海姆達爾部隊組成稀疏陣型，主要是為了避免泰坦汙染引發神格侵蝕，因而導致隊友間的誤傷。	ヘイムダル部隊を展開させるのは、主にタイタン汚染により神格侵蝕が起こった際、隊員たちの誤射を回避するためだ。	헤임달 부대의 진형을 좁힌 주된 이유는 타이탄 오염으로 인한 만트라 침식이 팀원들에게 영향을 끼치지 않게 하기 위해서였다.	I had ordered the Heimdall Force to assume a scattered formation, mainly to avoid unintentional injuries that could result if anyone became Flooded.						0	
+5_2	但进入这片浓郁的雾霭之后，在无法确认队员准确方位的情况下，继续维持稀疏阵型，反而会增加开火误伤的危险。	但進入這片濃厚的霧靄之後，在無法確認隊員準確方位的情況下，繼續保持稀疏陣型反而會增加開火誤傷彼此的風險。	しかしこの濃い霧の中では、隊員の位置を正確に確認できなくなり、そのまま展開していると逆に誤射のリスクを増やしてしまう。	하지만 짙은 안개로 들어오고 팀원의 정확한 위치를 파악할 수 없는 상황에서 계속해서 진형을 바꾸는 건 위험했다.	However, after venturing into the dense fog, it was difficult to confirm the operatives' exact positions. If we maintained a scattered formation, it would increase the risk of accidental friendly fire.						0	
+8	需要在这里停留，采集数据吗？	需要在這裡停留，採集數據嗎？	ここに留まってデータを採集するのか？	여기서 잠시 멈추고 데이터를 수집하는 건 어때?	Do we need to stop here and collect data?						0	
+b-3											0	
+9	我确认一下污染程度。	我確認一下汙染程度。	汚染レベルを確認する。	오염 강도를 확인해 볼게요.	I'll check the pollution levels.						0	
+10	歌唱者没有丝毫反应。	歌唱者毫無反應。	シンガーには反応なし。	코러스 시스템은 아무 반응이 없었다.	The Chorus System didn't react whatsoever.						0	
+10_1	我们现在身处污染严重的深水区……泰坦污染却像是突然消失了一般。	我們現在身處汙染嚴重的深水區……泰坦汙染卻像是突然消失了一般。	今いるのは汚染が深刻化している深海エリアのはずだが……タイタン汚染はまるで消えてしまったようだ。	우리가 위치한 곳은 오염이 심한 심수 구역이었지만… 타이탄 오염은 갑자기 사라진 듯하다.	We were in the heavily contaminated Drowned Sections... but somehow the Titagen had seemingly disappeared.						0	
+b-4											0	
+11	晴，呼叫研发部的同事们进来吧……	晴，呼叫研發部的同事們進來吧……	晴、開発部の同僚たちを呼んできて……	하루, 개발부 팀원들을 불러주세요…	Haru, tell the R&D Department to come in here...						0	
+11_1	嗯。另外，我会嘱咐他们做好防护。	嗯。另外，我會囑咐他們做好防護。	了解。防護対策をしっかりと取るように言いつけておく。	응, 방호 조치도 취하고 있으라고 지시해 둘게.	Copy. I will also notify them to take proper precautions.						0	
+14	举高一点，再高一点点！又不重！ 把脚尖掂起来！	舉高一點，再高一點點！又不重！把腳尖踮起來！	もっと高く、もっともっと！別に重くないし、つま先立ちして！	조금만 더 들어, 조금 더! 그렇게 무거운 것도 아니잖아! 까치발하고!	Raise it higher... Just a little higher! C'mon, it's not heavy! Stand on your tiptoes!						0	
+15	这样可以吗？	這樣可以嗎？	これでいいですか？	이렇게 하면 될까요?	How's this?						0	
+16	很好！保持这个姿势，举好，手不要抖呀！	很好！保持這個姿勢，舉好，手不要抖呀！	よし！この体勢を保って、揺らさないでよ！	좋아! 그 자세 그대로 있어. 손 떨지 말고 잘 들고 있어!	Great! Don't move. Hold it steady — don't let your arms shake!						0	
+17	芙……芙提雅老师，我快坚持不住了……	芙……芙提雅老師，我快撐不住了……	フ……フリティア先生、もう耐えられません……	프… 프티야 선생님, 더는 못 버티겠어요…	M-Miss Fritia, I can't hold it much longer...						0	
+18	你怎么还没有分析员强壮？好吧好吧，可以把仪器放下来啦。	你怎麼比分析員還弱？好吧好吧，可以把儀器放下來啦。	分析員よりずっと弱いんじゃない？まあまあ、もう機械を降ろしていいよ。	어떻게 분석가보다도 못하지? 알겠어, 이제 내려놔.	You aren't as strong as the Adjutant, huh? Alright, alright. Just put it down.						0	
+19	呼……呼……呼……	呼……呼……呼……	ふう……ふう……ふう……	하아… 하아… 하아…	Oof... hah... ah...						0	
+20	这些样本，还有这些仪器，就拜托你拿回营地啦。	這些樣本，還有這些儀器，就拜託你拿回營地啦。	このサンプルと機械はキャンプに持って帰ってね。	이 샘플들이랑 장비들은 야영지로 다시 갖다 놔줘.	Please take these samples and those devices back to camp.						0	
+21	这，这些都要吗……	這、這些全都要嗎……	こ、これ全部ですか……	이, 이걸 전부 다 말씀하시는 건가요…	A-All of them...?						0	
+22	我啼笑皆非地看到芙提雅用手指画了一圈，那里面不仅有她原本背着的设备，还有很多刚刚采集的环境样本。	我啼笑皆非地看到芙提雅用手指畫了一圈，那裡面不僅有她原本背著的設備，還有很多剛剛採集的環境樣本。	指でその場にあるもの全てを示したフリティアを見て、どうしようもなくなった。そこには彼女が持ち出した設備以外にも、採集したばかりのサンプルがたくさんある。	나는 황당한 표정으로 프티야가 손가락으로 가리키는 걸 바라봤다. 그 안에는 그녀가 가져온 장비뿐만 아니라 조금 전에 채집한 환경 샘플도 있었다.	I didn't know whether I should laugh or feel bad as I watched Fritia point in a big circle with her finger, gesturing toward not only the equipment she had been carrying on her back, but also several environmental samples that had just been collected.						0	
+b-6											0	
+23	小太阳，别折腾人家了。	小太陽，別折磨人家了。	おひさまちゃん、もう勘弁してあげて。	리틀썬, 요원들 좀 그만 괴롭혀.	Little Sunshine, don't torture him.						0	
+24	我又转向那位满怀期待的安全部干员。	我轉向那位滿懷期待的安全部幹員。	期待する目でこちらを見る安全部幹部に向けて。	그리고 기대감에 가득 차 있는 안전부 요원에게 돌아서서 말했다.	I turned toward the "eager" security officer again.						0	
+b-7											0	
+25	你去多叫两个人来帮你。	你去多叫兩個人來幫你。	助っ人を二人呼んできて。	두어 명 더 불러서 도와달라고 해.	Go find two more people to help you.						0	
+26	好的，谢谢领导。	好的，謝謝長官。	分かりました、ありがとうございます。	네, 감사합니다.	Yes. Thank you, sir.						0	
+27	哼，什么嘛！就只有分析员会扮好人似的！	哼，什麼嘛！就只有分析員會扮好人似的！	ふん、なんなのよ！分析員だけいい人みたいに！	흥, 뭐야! 분석가만 좋은 사람인 척하고!	Hmph, what are you doing? You're being too nice!						0	
+b-8											0	
+28	说回正事，这种黄色的雾霾到底是什么成分？	說回正事，這種黃色的霧靄到底是什麼成分？	話に戻ろう。この黄色いスモッグは一体何？	본론으로 돌아와서, 이 노란 안개는 대체 무슨 성분이야?	Let's focus on the task at hand — what's the composition of this yellow fog?						0	
+29	现在还很难说清楚！	現在還很難解釋清楚！	今はまだはっきり言えないよ！	아직까진 확실하지 않아!	It's still hard to say!						0	
+30	这可不是芙提雅老师的实力不足！而是严谨！	這可不是芙提雅老師的實力不足！而是嚴謹！	フリティア先生の力不足じゃないけどね、適当なことは言わないだけよ！	물론 프티야 선생님의 능력이 부족해서 그런 건 아니야! 신중함 때문이랄까!	And that's not because I'm incompetent — I'm simply very thorough in my work!						0	
+31	缺少实验数据支持，轻易就给出结论是不负责任的行为！不过……	缺少實驗數據的資料，輕易就給出結論是不負責任的行為！不過……	実験データがないのに慌てて結論を出すのは、無責任な行為だよ！でも……	실험 데이터가 부족한데 함부로 결론을 내리는 건 무책임한 행동이기도 하고…	Without supporting experimental data, it would be irresponsible to draw a conclusion so quickly! However...						0	
+32	黄颜色的雾霾里面虽然几乎没有检测到泰坦污染，但依然存在另一种物质的辐射！	黃顏色的霧靄裡面雖然幾乎沒有檢測到泰坦汙染，但依然存在另一種物質的輻射！	黄色いスモッグからタイタン汚染は検出されていないけど、別の物質の放射なら存在しているよ！	노란 안개에서 타이탄 오염은 거의 측정되지 않았지만, 다른 물질의 방사능이 검출됐어!	Even though almost no Titagen was detected in the yellow fog, radiation from another substance is present!						0	
+b-9											0	
+33	另一种辐射？对人体有害吗？	另一種輻射？對人體有害嗎？	別の放射？人体に有害なのか？	다른 방사능? 인체에 해로운 거야?	Radiation from another substance? Is it harmful?						0	
+34	它的能量没有那么强，但是在某些物理性质上和泰坦污染非常接近。所以！还是需要穿好防护服！	它的能量沒有那麼強，但是在某些物理性質上和泰坦汙染非常接近。所以！還是需要穿好防護服！	そこまで強いエネルギーじゃないけど、物理的性質はタイタン汚染とかなり似てるから、防護服をちゃんと着てね！	그렇게 강력하진 않지만, 일부 물리적 성질이 타이탄 오염과 비슷해. 그러니까! 방호복을 잘 착용하고 있어야 해!	Its energy isn't as strong, but some of its physical characteristics are very similar to those of Titagen. So we still need to wear protective gear!						0	
+35	分析员，我发现了一些不寻常的东西，请过来看一下。	分析員，我發現了一些不尋常的東西，請過來看一下。	分析員、異常なものを発見したから、こっちに来てくれないか？	분석가, 특이한 걸 발견했는데, 와서 좀 봐줘야겠어.	Adjutant, I discovered something unusual. Please come take a look.						0	
+36	请……先单独过来。	請……先單獨過來。	その……一旦、分析員が一人で来てくれ。	일단… 혼자만 와.	Please... come alone first.						0	
+37	分析员，请看这个。	分析員，請看這個。	分析員、これを。	분석가, 이것 좀 봐.	Adjutant, look.						0	
+38	晴递过来一块军人的铭牌，我能辨认出上面刻蚀着军方的标记，但铭牌主人的名字已经有些模糊不清了。	晴遞過來一塊軍人的銘牌，我能辨認出上面刻著軍方的標記，但銘牌主人的名字已模糊不清了。	晴から軍人のドッグタグを一枚渡された。それには軍のマークが刻まれていたが、持ち主の名前は読めなくなっていた。	하루는 군인의 군번줄을 건넸다. 군부의 표식이라는 건 단번에 알아볼 수 있었지만, 이름은 흐릿해서 잘 보이지 않았다.	Haru handed me a military nameplate. While I recognized the military emblem engraved on it, the name of its owner was hard to make out.						0	
+b-10											0	
+39	这是？	這是？	これは？	이게 뭐죠?	What are these?						0	
+40	军方都习惯称它为“狗牌”。	軍方都習慣稱它為“身分銘牌”。	軍はこれを「ドッグタグ」と呼んでいる。	군대에선 '군번줄'이라고 부르지.	The military used to call them "dog tags."						0	
+41	这块狗牌，虽然名字有些看不清了，但我能辨认出来，是我父亲的。	這塊身分銘牌，雖然名字已經看不太清楚了，但我能辨認出來，這是我父親的。	名は読めないが、自分には分かる。父のものだから。	이 군번줄, 이름이 희미해 보여도 확실해. 이건 내 아버지 거야.	The name on this dog tag is difficult to read, but I can recognize that it was my father's.						0	
+b-11											0	
+42	你父亲？！	你父親？！	晴のお父さん！？	아버지요?!	Your father's!?						0	
+43	我竭力掩饰自己的惊讶，然后迅速回忆起来：晴的父亲据说是一位供职于军方的武器专家，但因为一次意外事故已不幸离世。	我竭力掩飾自己的驚訝，然後快速回想：據說晴的父親是一位供職於軍方的武器專家，但因為一次意外事故而不幸離世。	できる限り驚きを見せないようにして、すぐにあることを思い出した。晴の父は軍の武器専門家だったが、ある事故で亡くなったらしい。	순간 놀라움을 감추려 애썼다. 곧이어 하루의 아버지가 군대의 무기 전문가였고, 사고로 인해 목숨을 잃었던 기억이 떠올랐다.	As I tried my best to hide my shock, I remembered hearing that Haru's father was once a weapons expert for the military, but he had sadly passed away in an accident on a mission.						0	
+44	我理解了晴为什么要单独跟我说这件事。	我理解了晴為什麼要單獨跟我說這件事。	私一人で来るように言われた意味がやっと分かった。	하루가 왜 나한테만 이 사실을 이야기하려 했는지 이해가 됐다.	I finally understood why Haru wanted to speak with me about this privately.						0	
+45	军方告诉我，他是因为在一起交通事故中挺身而出……我们家还收到了受助人的感谢信。	軍方告訴我，他是在一起交通事故中挺身而出才離世的……我們家還收到了受助人的感謝信。	交通事故で身を挺して亡くなったと、軍に聞いた……助けられた者の手紙ももらったことがある。	군대에선 아버지가 다른 사람을 지키려다가 교통사고로 목숨을 잃으셨다고 했어… 우리 집은 이런 연유로 감사장까지 받았었지.	The military told us that he died a hero in the aftermath of a car accident... Our family even received a thank-you letter supposedly from the people he had saved.						0	
+46	没关系分析员，那已经过去很久了，有什么话都可以直接说。	沒關係分析員，那已經是很久以前的事了，有話都可以直接說。	いいんだ、分析員、昔のことだから。言いたいことがあるなら遠慮なく言ってくれ。	괜찮아, 분석가. 이미 지난 일이라 부담 갖지 말고 하고 싶은 말이 있으면 그냥 해도 돼.	...It's alright, Adjutant. It's been a long time. Please ask what you want, I'm not afraid to talk about it.						0	
+e-1											0	
+e-1-1	你父亲……遇难的时间是什么时候？	你父親……遇難的時間是什麼時候？	晴のお父さんが……事故に遭った時期は？	아버님은… 언제 사고를 당하신 건가요?	Your father... When did he pass away?						0	
+e-1-1-0	那时我加入世界树公司刚几个月，他发来全息通讯……	在我才剛加入世界樹公司幾個月的時候，他發來全息通訊……	二年ほど前、ユグドラシル社に入社したばかりの時、父からホログラム連絡が来た……	위그드라실에 들어온 지 몇 달밖에 되지 않았을 때, 아버지께서 홀로그램 통신을 보내셨어…	Over two years ago, when I first joined Yggdrasil, he had sent a hologram message...						0	
+e-1-1-1	他告诉家里，自己正在执行一项任务，可能会有一段时间没法回家。	他告訴家裡，自己正在執行一項任務，會有一段時間無法回家。	あるミッション遂行中のため、しばらく家に帰らないと教えてくれた。	지금은 미션 수행 중이라 한참 동안 집에 오지 못할 거라고 하셨어.	It said he was on a mission, and he might not be back home for a while.						0	
+e-1-1-2	过了几天，一位中尉来告诉我们，他牺牲了。	過了幾天，一位姓李的中尉來告訴我們，他犧牲了。	何日後、ある中尉は彼がなくなったということを知らせてくれた。	며칠 뒤, 이 중위가 찾아와 아버지의 부고를 전했어.	A few days later, a lieutenant came to notify us that he had died.						0	
+e-1-1-3	那时晴正在我的部门实习，我察觉到她有表现出异常，没想到是……	那時晴正在我的部門實習，我察覺到她有一點異常，但沒想到竟然是……	あの時の晴は私の下でインターン生として仕事していて、様子がおかしいのは気づいていたが、まさかそんなことがあったとは……	그때 하루는 같은 부서에서 실습 중이었다. 안 그래도 그때 뭔가 이상하다고 생각하긴 했는데, 이런 일이 있었을 줄은…	You were just an intern in my department back then. I remember noticing that you were acting a little strange, but I had no idea...						0	
+e-1-2	你有亲眼见到他的遗体吗？	你有親眼見到他的遺體嗎？	お父さんの遺体を目にしたのか？	돌아가신 아버님의 시신을 직접 확인했었나요?	Did you see his body with your own eyes?						0	
+e-1-2-0	没有，军方替我们安排好了所有事，一切都非常迅速和庄重。	沒有，軍方替我們安排好了所有事，一切都非常莊重且順利。	いや、軍が代わりに葬式をやってくれて、全部速やかに慎重に行われたんだ。	아니, 군대에서 모든 걸 결정했었어. 모든 것이 신속하고 엄숙하게 진행됐었지.	No. The military took care of everything. It was very quick and solemn.						0	
+49	分析员，你认为是军方撒了一个谎？	分析員，你認為是軍方撒了一個謊？	分析員は、軍が噓をついたと？	분석가, 군대에서 거짓말을 하는 걸까?	Adjutant, do you suspect the military lied?						0	
+b-12											0	
+50	不要太快下结论。	不要太快下結論。	そうは言ってない。	너무 성급하게 결론짓지 말아요.	Let's not jump to conclusions.						0	
+b-13											0	
+51	同名的人有很多。	同名的人有很多。	あまりにも遺族に対して「何もない」と思ったんだ。	동명이인은 많으니까요.	There could be other people by that same name.						0	
+52	这不一定是他的狗牌。	這不一定是他的身分銘牌。	ただ、これがお父さんのものじゃなかったら？	아버님의 군번줄이 아닐 수도 있잖아요.	Maybe this isn't his dog tag.						0	
+53	嗯……	嗯……	……	응…	Hm...						0	
+54	你说得对。	你說得對。	確かにそうだ。	네 말이 맞아.	You're right.						0	
+55	一旦牵扯到亲人，人总会变得不理智起来。	一旦牽扯到親人，人總會變得不理智。	すまない、当時も状況を受け入れられず、今になって自分は理性を失いかけた……情けないな。	가족이 관련된 일에는 모두 이성을 잃기 마련이지.	It's easy to become irrational when family gets involved.						0	
+56	芙提雅和里芙勘察回来了，先听听她们的发现吧。	芙提雅和里芙勘察回來了，先聽聽她們的發現吧。	……フリティアとリフが戻ったな。彼女たちの話を聞こう。	프티야랑 리브가 돌아왔어. 뭘 발견했는지 들어보자.	Fritia and Lyfe are finished surveying the area. Let's go see if they found anything.						0	
+56_1	虽然这么说，疑虑的阴云仍在她脸上盘桓未去。	雖然這麼說，但疑慮的陰雲仍在她臉上盤桓未去。	とは言え、彼女はやはり深刻な顔をしている。	말하는 것과 달리 그녀의 얼굴엔 여전히 의혹이 가득 차 보였다.	Even though Haru had changed the subject, doubt lingered on her face.						0	
+57	芙提雅看起来也跟平时不同，一张小脸绷得紧紧的，眉头扭在一起。	芙提雅看起來也跟平時不同，她那張小臉緊繃著且眉頭深鎖。	フリティアも普段通りの感じじゃない。顔が緊張に満ちて、眉間にもしわを寄せている。	프티야는 평상시와는 달리 걱정에 가득 찬 듯 보였다. 잔뜩 긴장한 얼굴에 미간을 찡그린 채 있었다.	Fritia also appeared somewhat different than usual — her petite face was tense, her brows furrowed.						0	
+58	分析员，我们必须马上离开！	分析員，我們必須馬上離開！	分析員、早くここから離れよう！	분석가, 지금 당장 떠나야 해!	Adjutant, we have to get out of here now!						0	
+b-14											0	
+59	啊？为什么？	什麼？為什麼？	ええ？なんで？	뭐? 갑자기 왜?	Huh? Why?						0	
+60	芙提雅凑过来，用难以听清的音量小声说。	芙提雅湊過來，用難以聽清楚的音量小聲說。	フリティアは近づいてきて、聞き取れないほどの小声で言った。	프티야가 다가와서 들릴 듯 말 듯한 목소리로 말했다.	Fritia leaned in closer, then spoke in a nearly inaudible whisper.						0	
+61	我怀疑这里闹鬼！	我懷疑這裡鬧鬼！	ここ、お化けが出るかも！	이곳은 귀신이 들린 게 분명해!	I think this place is haunted!						0	
+b-15											0	
+62	……	……	……	…	...						0	
+b-16											0	
+63	我还以为科学家都是坚定的唯物主义战士。	我還以為科學家都是堅定的唯物主義戰士。	科学者はみんな物質主義だと思ってた。	과학자들은 전부 무신론자인 줄 알았는데.	I didn't think scientists believed in stuff like that.						0	
+64	伟大的艾萨克爵士告诉我们！科学的尽头是神学！	偉大的艾薩克爵士告訴我們！科學的盡頭是神學！	科学の果てには神学があると、偉大なるアイザックさんが教えてくれたんだ！	위대한 뉴턴 박사님께서 그러셨지! 과학의 끝은 신학이라고 말이야!	Even Sir Isaac Newton's scientific journey led him to believe more in inexplicable powers above!						0	
+65	我来解释一下。	我來解釋一下。	説明する。	내가 설명할게.	Allow me to explain.						0	
+66	我们观测到一种奇特的受灾现象，看起来很像正在活动的人类凭空消失。	我們觀測到一種奇特的受災現象，看起來很像正在活動的人類憑空消失。	異常現象が発生した。部外者であろう人物を確認したんだが、突如その場から消えた。	기이한 현상을 목격했어. 멀쩡한 사람들이 순간 사라지는 것 같았달까.	We've observed an odd phenomenon — it appears as if humans are moving around, then vanishing into thin air.						0	
+67	车辆的驾驶座上、写字楼办公区域的桌椅上，四处散落着成套的服装、鞋袜。	車輛的駕駛座上、辦公大樓辦公區域的桌椅上，四處散落著成套的服裝、鞋襪。	車の運転席、オフィスの机の隣、あちこちに服や靴が一式残っている。	차량 조수석, 사무실 책상 등 여기저기에 옷가지와 양말들이 널브러져 있었어.	There are complete sets of clothing, shoes, and socks scattered all over the tables and chairs in the office, as well as on the driver's seat of the car.						0	
+68	而且！而且！我刚才看到有个人影从星期三背后一闪而过！	而且！而且！我剛才看到有個人影從星期三背後一閃而過！	それにそれに！さっきウェンズデーの後ろで人影がしゅっと消えたんだ！	그리고! 그리고! 웬스데이 뒤에서 사람의 형체가 한 번 깜빡이듯 지나갔었어!	There's more! Just now, I saw a figure flash behind Wednesday!						0	
+69	它发现我在看它的时候，瞬间消失了！	它發現我在看它的時候，瞬間消失了！	見られてるって気づいた瞬間に消えちゃったの！	나한테 들키는 순간 바로 사라졌다니까!	When it saw me looking at it, it disappeared in the blink of an eye!						0	
+70	芙提雅老师绝对！绝对！不可能看错！	芙提雅老師絕對！絕對！不可能看錯！	フリティア先生の目は絶対、絶対狂ってない！	프티야는 절대! 절대! 잘못 봤을 리가 없다고!	I am absolutely, and I mean absolutely, sure I saw it!						0	
+b-17											0	
+71	星期三，你也看到了吗？	星期三，你也看到了嗎？	ウェンズデーも見たか？	웬스데이, 너도 봤어?	Wednesday, did you see it too?						0	
+72	我没看到有类似鬼魂的现象。	我沒看到有類似鬼魂的現象。	幽霊？みたいな現象は見なかったが。	난 귀신 같은 건 본 적 없어.	I didn't see any sign of a ghost.						0	
+73	分析员！你说过永远都会相信芙提雅老师的！	分析員！你說過永遠都會相信芙提雅老師的！	分析員！フリティア先生のことをずっと信用するって言ったのに！	분석가! 프티야를 믿는다고 약속했잖아!	Adjutant! You said you would always believe Professor Fritia!						0	
+b-18											0	
+74	我当然相信你！	我當然相信你！	もちろん信じてるよ！	믿고말고!	Of course I believe you!						0	
+75	只是稍稍确认一下状况。	只是稍微確認一下狀況。	少し状況を確認したいだけ。	단지 상황 파악하려는 것뿐이야.	I'm just trying to understand what's going on.						0	
+76	总之我们得立刻……	總之我們得立刻……	とにかく今すぐ……	아무튼 지금 당장…	Anyway, we need to get out of here right awa—						0	
+77	分析员！你先不要乱动……星期三，这回你看见了吧？	分析員！你先不要亂動……星期三，這次你看見了吧？	分析員、動かないで……ウェンズデー、今のは見えたでしょ？	분석가! 가만히 있어봐… 웬스데이, 이번엔 너도 봤지?	Adjutant! Don't move... Wednesday, did you see that?						0	
+78	嗯，这次看见了。	嗯，這次看見了。	ああ、見えた。	응, 이번엔 봤어.	Yes. I saw it this time.						0	
+79	我看见小太阳和星期三的神色同时严肃起来，星期三打开了枪械保险。	我看見小太陽和星期三的神色同時嚴肅起來，星期三打開了槍械保險栓。	リフもフリティアも目つきが鋭くなり、リフは銃の安全装置を外した。	리틀썬과 웬스데이의 표정이 동시에 엄숙해졌다. 웬스데이는 혹시 모를 상황에 대비해 총을 들었다.	I watched as Little Sunshine and Wednesday's expressions grew serious. Wednesday unlocked her gun's safety...						0	
+80	然后将枪口指向了我……	然後將槍口指向了我……	そして銃口を私に……	하지만 총구는 나를 향하고 있었다…	Then, she aimed at me...						0	
+81	或者我背后的什么东西？	或者我背後的什麼東西？	いや、私の後ろに向けた？	내 뒤에 뭐가 있는 걸까?	Or maybe at something behind me?						0	
+82	怎么会有人能从背后悄无声息地接近我？难道真的是……不可能。	怎麼會有人能從背後悄無聲息地接近我？難道真的是……不可能。	息を殺して私に近づける人などいるだろうか？まさか本当に……いや。	누가 이렇게 아무 기척 없이 내 뒤로 온 거지? 설마 정말… 말도 안 돼.	How could someone approach me from behind so silently? It couldn't actually be a... Could it?						0	
+83	嗯？你是……安全部的playername？	嗯？你是……安全部的playername？	ん？あなたは……安全部のplayername？	응? 너는… 안전부에 있던 playername?	Hm? Aren't you... playername, from the Security Department?						0	
+84	噗，你这样的人，也会落入与我们相同的境地吗？	噗，你這樣的人，也會落入與我們相同的境地嗎？	へえ、あなたのような者も、私たちと同じ目に遭うとはね。	풉, 너 같은 사람도 우리랑 같은 처지에 놓인 건가?	Pfft, so you guys got dragged into this too?						0	
+85	真不愧是……世界树公司。	真不愧是……世界樹公司。	さすがユグドラシル……と言うべきかしら。	역시… 위그드라실이야.	Well, that's to be expected... Same old Yggdrasil.						0	
+85_1	我在回头的同时快速拔枪。	我在回頭的同時迅速拔槍。	振り向きざまに銃を抜く。	나는 뒤를 돌아보며 곧바로 총을 꺼냈다.	I quickly drew my gun and whipped around.						0	
+86	她，或者说“它”……在我转头<orange>观测</>之后就消失了，就如同融化在雾霭中。	她，或者說“它”……在我轉頭<orange>觀測</>之後就消失了，如同融合在霧靄中。	彼女……いや、「そいつ」は……振り向いて<orange>観測</>するとすぐに消えて、まるで霧に溶け込んだようだ。	그녀, 아니 '그것'은… 내가 고개를 돌려 <orange>바라보자</>, 마치 안개에 녹아드는 것처럼 곧바로 사라졌다.	She, or "it," vanished as soon as I turned around to <orange>look</>... as if it had evaporated into the fog.						0	
+87	毫无疑问，“它”提起了我的名字。	毫無疑問，“它”提起了我的名字。	間違いなく、「そいつ」は私の名を口にした。	'그것'은 내 이름을 불렀던 게 분명하다.	There was no doubt in my mind — it had said my name.						0	
+87_1	这里的幽灵，难道认识我？	這裡的幽靈難道認識我？	ここの幽霊って、もしかして私のことを知っている？	이곳의 유령들이 나를 알고 있는 걸까?	Did the phantom here... know me?						0	
+88	小太阳，星期三，分析员。	小太陽，星期三，分析員。	ウェンズデー、フリティア、分析員。	리틀썬, 웬스데이, 분석가.	Little Sunshine, Wednesday, Adjutant.						0	
+89	你们知道刚才那位搬运环境样本的干员去哪了吗？	你們知道剛才那位搬運環境樣本的幹員跑去哪裡了嗎？	さっき環境サンプルを運んだオペレーターがどこに行ったか分かるか？	아까 환경 샘플을 옮기던 직원, 어디로 갔는지 알아?	Do you know where the officer carrying the environmental samples went?						0	
+90	他把通讯器和防护服都摆放在样本旁边，自己不知道去了哪里。	他把通訊器和防護服都擺放在樣本旁邊，不知道跑去了哪裡。	通信機も防護服もサンプルの隣に置いて、どこかに行ってしまったが。	통신기와 방호복을 샘플 옆에 두고 사라졌어.	His communicator and protective gear are next to the samples, but I can't find him now.						0	
+91	这种擅离职守的行为……	這種擅離職守的行為……	勝手に持ち場を離れるとは……	어떻게 멋대로 자리를 뜰 수 있지…	Maybe he deserted...						0	
+b-19											0	
+92	不一定是擅离职守。	不一定是擅離職守。	そうじゃないかも。	멋대로 간 게 아닐지도 몰라요.	We can't be sure he deserted.						0	
+93	这里的种种诡异迹象，让我不敢相信会有任何平常之事发生。	這裡的種種詭異跡象，讓我感覺這裡的寧靜祥和只是假象。	妙な現象がいくつも起きている、やはりここは常に変なことが起きるのでは？	연이어 일어나는 온갖 기이한 징후들로 인해 아무것도 믿을 수 없을 것 같았다.	Due to the strange circumstances surrounding this place, I had a hard time believing there was an ordinary explanation.						0	
+b-20											0	
+94	做好战斗准备。	做好戰鬥準備。	戦闘態勢を。	다들 전투를 준비해.	Prepare for combat if necessary.						0	
+95	收到！	收到！	了解！	알겠어!	Understood!						0	
+96	果然，带着不祥之兆的雾霭，再次开始涌动。	果然，帶著不祥之兆的霧靄再次湧動。	不吉な霧はやはり再び動き出した。	불길한 조짐을 풍기는 안개가 다시 스멀스멀 움직이기 시작한다.	Sure enough, the foreboding fog began to surge again.						0	
+97	我终于看清了“它”的外貌。	我終於看清了“它”的面貌。	やっと「そいつ」の外見を確認できた。	그리고 난 '그것'의 모습을 보는데…	Then, I finally saw "it" clearly.						0	
+98	不管你是为了什么而来到这里……	不管你是為了什麼而來到這裡……	なんでこんなところに来たのか知らないけど……	네가 왜 왔는지는 모르겠지만…	Regardless of the reason you came here...						0	
+99	总之……新仇旧怨……	總之……新仇舊恨……	とにかく……	이왕 온 거… 오랫동안 쌓인 빚을…	...This deep hatred...						0	
+100	就一起清算吧。	就一起清算吧。	全てのけりをつけましょう。	한 번에 청산해 보자고.	Time to settle it.						0	

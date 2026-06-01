@@ -1,0 +1,3 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	加文搭乘电梯离开了，我们追上去！	加文搭乘電梯離開了，我們追上去！	ガビンはエレベーターに乗って行ってしまいました、追いかけましょう！	게빈이 엘리베이터를 타고 사라졌어. 어서 쫓아가자!	Gavin left by the elevator. Come on, we'll catch him!						0	

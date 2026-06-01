@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	喵喵喵喵喵~“动物系女友大调查”喵！	喵喵喵喵喵~「動物系女友大調查」喵！	ニャニャニャン！「動物系彼女に関する調査」ニャン！	냐냐냥냐냥~ '동물형 여친 대조사'다냥!	Nya, nya, nya! Here comes the "Animal-Style Girlfriend Survey," nya!						0	3.5版本随机剧情
+page1.2	那是啥？	那是啥？	なんだそれ。	그게 뭐야?	What is that?						0	3.5版本随机剧情
+page1.3	是我新想出来的研究课题喵。	是我新想出來的研究課題喵。	私が思いついた研究課題ニャン。	내가 새로 생각해 낸 연구 주제다냥.	It's a new research topic I came up with, nya.						0	3.5版本随机剧情
+page1.4	主要是想记录一下分析员的喜好，还有统计一下同为“动物系”的“劲敌”……	主要是想記錄一下分析員的喜好，還有統計一下同為「動物系」的“勁敵”……	分析員の好みを記録し、同じ「動物系」の「ライバル」情報を……	주로 분석가님의 취향을 기록하고, 같은 '동물형' '강적'들의…	It's mainly to record your preferences, and the number of my rivals who are also animal-style...						0	3.5版本随机剧情
+page1.5	啊不，同伴的数量喵。	啊不，同伴的數量喵。	じゃなくて、仲間の数を集計するニャン。	아니, 동료들의 수를 집계하려는 거다냥.	Uh, I mean the number of my squadmates, nya.						0	3.5版本随机剧情
+page1.6	你说漏嘴了吧？	你說漏嘴了吧？	今、口が滑っただろ。	방금 말실수한 거 아니야?	Did I hear a slip of the tongue?						0	3.5版本随机剧情
+page1.7	没有喵，猫汐尔是绝对不会犯错的喵。	沒有喵，貓汐爾是絕對不會犯錯的喵。	違うニャン、マーシルは絶対にミスしないニャン。	아니다냥, 캣 시에라는 절대 실수하지 않는다냥.	Nope, nya. I never make mistakes, nya.						0	3.5版本随机剧情
+page1.8	可是刚刚……	可是剛剛……	でも……	하지만 방금…	But I just...						0	3.5版本随机剧情
+page1.9	请问分析员最喜欢的动物是什么呢？	請問分析員最喜歡的動物是什麼呢？	分析員が一番好きな動物は何ニャン？	분석가는 어떤 동물을 가장 좋아해?	May I ask what your favorite animal is, Adjutant?						0	3.5版本随机剧情
+page1.10	（完全不给我吐槽的空间）	（完全不給我吐槽的空間）	（ツッコむ隙がない）	(내가 공격할 여지를 절대 안 주네)	(No room for disagreement, huh.)						0	3.5版本随机剧情
+page1.11	说起最喜欢的动物……	說起最喜歡的動物……	一番好きな動物っていうと……	가장 좋아하는 동물이라…	My favorite animal...						0	3.5版本随机剧情
+page1.12	是猫咪吗？	是貓咪嗎？	猫かな？	고양이야?	Is it "cat"?						0	3.5版本随机剧情
+page1.13	别替我抢答啊。	別替我搶答啊。	勝手に答えるなよ。	내가 말할 차례잖아.	Don't answer for me.						0	3.5版本随机剧情
+page1.14	……算了，我最喜欢的动物，果然还是“人类”吧。	……算了，我最喜歡的動物，果然還是「人類」吧。	……まあいいか、一番好きな動物はやっぱり「人間」かな。	… 아무튼, 내가 가장 좋아하는 동물은 역시 '인간'이야.	...Hmm, my favorite animal is probably "human."						0	3.5版本随机剧情
+page1.15	哎……	欸……	えぇ……	아…	Eh...						0	3.5版本随机剧情
+page1.16	人类不也算动物吗？	人類不也算動物嗎？	人間だって動物だろ。	인간도 동물 아니야?	Humans count as animals too, don't they?						0	3.5版本随机剧情
+page1.17	哼，狡猾喵。	哼，狡猾喵。	むぅ、ずるいニャン。	흥, 치사하다냥.	Hmph, that's not a proper answer, nya.						0	3.5版本随机剧情
+page1.18	不过没关系，下次我一定会找到你喜欢猫咪的证据的！喵！	不過沒關係，下次我一定會找到你喜歡貓咪的證據的！喵！	でも大丈夫、次こそ分析員が猫好きだって証拠を見つけてみせるニャン！	하지만 괜찮아, 다음엔 꼭 네가 고양이를 좋아한다는 증거를 찾을 테니까! 냥!	But it's okay. Next time, I'll find proof that you like cats! Nya!						0	3.5版本随机剧情
+page1.19	别先射箭再画靶啊……	別先射箭再畫靶啊……	結論ありきで証拠を探すなよ……	결론부터 짓지 말라고…	*sigh* Research shouldn't assume the conclusion...						0	3.5版本随机剧情

@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	总觉得已经很久没有过安静地和茉莉安一起喝茶了。	總覺得已經很久沒有安靜地和茉莉安一起喝茶了。	こうして静かにマリアンと一緒にお茶を飲むのはなんだか久しぶりだな。	차를 마시면서 조용한 시간을 보낸 게 언제였더라… 정말 오래된 것 같아.	It feels like it's been a long time since we had a quiet cup of tea together, Marian.						0	
+page1.2	果然还是茉莉安泡的茶最好喝。	果然還是茉莉安泡的茶最好喝。	やっぱりマリアンのお茶は最高だ。	역시 마리안이 우려준 차가 제일 맛있네.	Sure enough, your tea is the best, as always.						0	
+page1.3	分析员能喜欢就最好了。	分析員能喜歡就最好了。	分析員さんのお気に召して何よりです。	분석가님이 좋아해 주셔서 다행이에요.	I'm so glad to hear that, Adjutant.						0	
+page1.4	原本还担心分析员的口味有了变化……我来不及准备。	原本還擔心分析員的口味有了變化……我來不及準備。	もし分析員さんの好みが変わっていたら、用意する時間がなく……心配していましたが。	사실은 분석가님 입맛이 달라졌을 까봐 걱정했어요… 제가 준비할 겨를이 없어서.	I was worried your tastes might have changed... I didn't have much time to prepare.						0	
+page1.5	你能喜欢就好。	你能喜歡就好。	お口に合って良かったです。	아무튼 마음에 드신다니 다행이에요.	So I'm happy you like it.						0	
+page1.6	你居然还记得我喜欢的口味！	你居然還記得我喜歡的口味！	私の好みを覚えててくれたのか！	아직도 내가 좋아하던 맛을 기억하고 있구나!	You actually remembered my favorite flavor!						0	
+page1.7	不过这次的茶，喝起来和以前的有一些奇妙的差别。	不過這次的茶，喝起來和以前的有一些奇妙的差別。	でも今日のお茶は、今まで飲んだ物と微妙に違う気がする。	근데 이번에 우려낸 차는 예전하고 약간 다르게 느껴지네!	But this tea tastes a little different from the one last time for some reason.						0	
+page1.8	果然，我还是搞砸了。	果然，我還是搞砸了。	やはり、失敗だったでしょうか。	역시나… 이럴 줄 알았어요.	*sigh* I guess I made a mistake.						0	
+page1.9	啊？	啊？	えっ？	왜 그래?	Huh?						0	
+page1.10	其实，我知道了分析员在耶洛沙经历过的事……	其實，我知道了分析員在耶洛沙經歷過的事……	実は、イェロシャであったことを聞きまして……	사실, 분석가님이 옐로샤에서 겪었던 일 때문에 그래요…	Actually, I know what you had to go through in Yehrus...						0	
+page1.11	分析员这段时间……精神负担一定非常重吧。	分析員這段時間……精神負擔一定非常重吧。	分析員さんはきっと……気に病んでおられるのではないかと。	옐로샤에서 엄청난 정신적 부담을 느끼셨을 것 같아서요…	I'm sure there was... so much weighing on your mind during that time.						0	
+page1.12	所以，我这次给分析员专门准备了有安神效用的茶。	所以，我這次給分析員特別準備了有安神效用的茶。	なので、今回は心が安らぐようなお茶をご用意しました。	그래서 사실은 진정 효과가 있는 차를 준비해 봤어요.	So this time, I specially brewed some tea with a soothing effect for you.						0	
+page1.13	只不过我很少泡这种茶，还没掌握好它的口感，抱歉。	只不過我很少泡這種茶，還沒掌握好它的口感，抱歉。	ですが、このお茶はあまり入れたことがなく、口当たりはまだ掴めていなくて……すみません。	다만 이런 종류의 차는 우려낸 적이 거의 없어서… 맛을 제대로 파악하지 못했어요, 죄송해요.	But I don't make this type of tea often, so I haven't fully grasped the flavor yet. I'm sorry.						0	
+page1.14	茉莉安，茶的味道非常好。	茉莉安，茶的味道非常好。	マリアン、このお茶は美味しかったよ。	마리안, 맛이 너무 좋은걸?	Marian, it tastes great.						0	
+page1.15	这种特殊的味道，对我来说是惊喜。	這種特殊的味道，對我來說是驚喜。	特別な味で、嬉しいサプライズだ。	이미 나한테는 너무 특별한 서프라이즈야.	This unique flavor is a nice surprise.						0	

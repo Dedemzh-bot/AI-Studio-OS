@@ -1,0 +1,11 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	盯……	盯……	じぃー……	(빤히 쳐다본다)…	*stares intensely all around*...						0	3.4版本星祈心愿宿舍剧情
+page1.2	分，分析员儿……伊切尔这是在找什么？	分，分析員兒……伊切爾這是在找什麼？	ぶ、分析員さん……イチェルさんは何を探しているのですか？	분, 분석가님…이첼이 뭘 찾고 있는 거예요?	A—Adjutant... what exactly is Eatchel looking for?						0	3.4版本星祈心愿宿舍剧情
+page1.3	她想找找有什么能当星祈树装饰品的东西。	她想找找有什麼能當星祈樹裝飾品的東西。	星祈樹に飾れるものを探しているんだ。	성원나무 장식품으로 쓸 만한 걸 찾는 중이야.	She's searching for something to decorate the Starwish Tree.						0	3.4版本星祈心愿宿舍剧情
+page1.4	我想想……	我想想……	ええっと……	제 생각엔…	I see... then... let me think for a moment...						0	3.4版本星祈心愿宿舍剧情
+page1.5	那个，之前我给分析员调制饮品的时候，发现了一种配方。	那個，之前我為分析員調製飲品的時候，發現了一種配方。	その、私……この前、分析員さんに飲み物を作っているとき……	그, 전에 분석가님한테 음료를 만들어드릴 때 발견한 레시피가 있거든요.	Oh! Um... when I was mixing drinks for you earlier, I found a new recipe.						0	3.4版本星祈心愿宿舍剧情
+page1.6	配出饮品的时候，会出现很好看的烟雾和火花。	配出飲品的時候，會出現很好看的煙霧和火花。	きれいな煙と火花が出るレシピを見つけたのですが……	음료를 만들 때 엄청 예쁜 연기랑 불꽃이 나와요.	When it's made, it gives off these... soft wisps and sparkles...						0	3.4版本星祈心愿宿舍剧情
+page1.7	这个可以用来装饰吗？	這個可以用來裝飾嗎？	そ、それを装飾に使えますか……？	그걸로 장식하는 건 어때요?	Do you think... maybe it could be a decoration?						0	3.4版本星祈心愿宿舍剧情
+page1.8	不……听起来有点危险，我觉得最好还是不要了。	不……聽起來有點危險，我覺得最好還是不要了。	さすがに危ないから、やめておこう。	아… 그건 좀 위험할 것 같은데. 안 하는 게 나을 것 같아.	Uh... That sounds kind of dangerous. I think we'd better not.						0	3.4版本星祈心愿宿舍剧情
+page1.9	我们再去找找其他东西吧。	我們再去找找其他東西吧。	また別のものを探しに行こう。	다른 것들을 더 찾아보자.	Let's keep searching and see what else we can find.						0	3.4版本星祈心愿宿舍剧情

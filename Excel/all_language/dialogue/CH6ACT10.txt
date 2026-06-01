@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	你来的时候，浓度也这么高吗？	你來的時候，濃度也這麼高嗎？	あなたが来た時、濃度もこんなに高かった？	네가 왔을 때도 농도가 이렇게 높았어?	Was the contamination level this high when you came through here before?						0	
+2	没有，而且我来的时候没走这边。	沒有，而且我來的時候沒走這邊。	いや。それに、私は別ルートで来た。	아니, 게다가 이 길은 내가 왔던 길이 아니야.	No, and I didn't go this way before.						0	
+3	……操纵的人找到了吗？	……操縱的人找到了嗎？	……操る人は見つかった？	… 조종하는 사람은 찾았고?	...Have you found the person controlling the enemy?						0	
+4	我还以为你没发觉呢，大致方向知道。	我還以為你沒察覺呢，大致方向知道。	気づいてないと思った。大体の方向は分かってる。	눈치 못 챘을 줄 알았는데… 대략적인 위치는 파악했어.	I thought you hadn't realized. I've got the rough direction, yeah.						0	

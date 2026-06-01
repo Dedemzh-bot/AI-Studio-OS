@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	什么？两边都是假的？这怎么可能……	什麼？兩邊都是假的？這怎麼可能……	なに？どっちも偽物？あり得ない……	뭐? 양쪽 다 가짜라고? 그럴 리가…	What? Both sides are fake? What's going on...?						0	
+auto_20364	事实就是这样。	事實就是這樣。	残念だけど事実だ。	하지만 사실이 그런 걸.	Looks like it.						0	
+auto_2979	比起来，这些狂热分子好像已经发现我们的目的了。	比起來，這些狂熱分子好像已經發現我們的目的了。	それより、狂人どもは私たちの目的を察したようだ。	그것보다 광신자들이 이미 우리 목적을 알아챈 거 같은데?	Seems like those wackos realized what we're after.						0	
+auto_28214	分析员让我们先突围，先撤到安全的地方再说。	分析員讓我們先突圍，先撤到安全的地方再說。	分析員はまずここを切り抜けて安全な場所に撤退するように指示した。	분석가가 일단은 포위망을 벗어나 안전한 구역으로 이동하라고 했어.	The Adjutant told us to break off and retreat somewhere safe first.						0	

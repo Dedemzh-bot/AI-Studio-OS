@@ -1,0 +1,155 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	怎么样，这个“新手道具”还算有意思吧？	怎麼樣，這個「新手道具」還算有意思吧？	どう？序盤アイテムにしてはなかなか面白いでしょ。	어때, 이 '초보자 아이템' 꽤 흥미롭지?	What do you think? Pretty cool item, huh?						0	3.2主线剧情
+2	待会开始演绎桌团后，可别忘记它的使用方法哦。	等下開始演繹桌團後，可別忘記它的使用方法喔。	ゲームの進行に役立つから、ちゃんと使い方を覚えておいて。	이따가 테이블 추리단이 시작되면, 아이템 사용 방법을 꼭 기억해야 해.	Just don't forget how it works once the game officially starts~						0	3.2主线剧情
+3	这个照相机是还挺好玩的啦，但……	這個相機是還蠻好玩的啦，但……	確かにおもしろそうなカメラだけど……	이 카메라는 꽤 흥미롭긴 한데…	I mean, the camera's kinda fun, but...						0	3.2主线剧情
+4	芬妮皱了皱眉头，看了眼头顶正发出嗡嗡声响的无人机。	芬妮皺了皺眉頭，看了眼頭頂正發出嗡嗡聲響的無人機。	ファニーは頭の真上に止まっているドローンを見た。	페니가 미간을 찌푸리며 머리 위에서 윙윙거리는 드론을 쳐다봤다.	Fenny frowned, eyeing the buzzing drones overhead.						0	3.2主线剧情
+5	这些从刚才就跟在旁边的家伙是怎么回事？	這些從剛才就跟在旁邊的傢伙是怎麼回事？	なんなの、これ？さっきからついてくるんだけど。	아까부터 옆에서 따라다니는 이 녀석들은 뭐야?	What's with those drones that've been tailing us all this time?						0	3.2主线剧情
+6	哦，这是待会用来增加恐怖气氛的氛围组，提前放出来热热机。	哦，這是等等用來增加恐怖氣氛的氣氛組，提前放出來暖暖機。	あとで演出を作るための道具だよ。暖機運転で先に出しておいたの。	아, 이건 잠시 뒤에 공포 분위기를 더하기 위한 연출팀이야. 지금은 워밍업 중이지.	Oh, they're part of the horror ambiance crew. Just warming up early.						0	3.2主线剧情
+7	放心~它们没什么攻击能力，不会伤害到大家的。	放心~它們沒什麼攻擊能力，不會傷害到大家的。	殺傷力はないから、安心して。	걱정 마~ 공격성은 없어서 너희를 다치게 하진 않을 거야.	Don't worry~ They don't have any attack capabilities. Totally harmless.						0	3.2主线剧情
+8	安卡希雅的嘴角弯出一个小小的弧度，看起来对自己的各项布置颇为满意。	安卡希雅的嘴角彎出一個小小的弧度，看起來對自己的各項佈置頗為滿意。	アカシアはにっこりと笑う。自分の仕事に大変満足しているようだ。	아카시아는 자신이 준비한 모든 것이 꽤 만족스러운 듯, 입가에 옅은 미소가 번졌다.	A smug little smile curled on Acacia's lips — clearly pleased with all of her work in the game design and setup.						0	3.2主线剧情
+9	那接下来，我们是不是可以开始游戏了？	那接下來，我們是不是可以開始遊戲了？	じゃあ、そろそろ始めないか？	그럼 이제 게임을 시작해 볼까?	So... can we finally start the game?						0	3.2主线剧情
+10	嗯哼，跟我来~	嗯哼，跟我來~	そうだね、ついてきて。	으흥~ 따라와~	Mhm~ This way, everyone~						0	3.2主线剧情
+11	我们从那边的电梯下去就能直达酒店大厅了，那儿就是本次演绎桌团的出生点了。	我們從那邊的電梯下去就能直達飯店大廳了，那裡就是本次演繹桌團的出生點了。	あそこのエレベーターから、ホテルのロビーに向かうよ。そこが「リアルRPG」のスタート地点だから。	저쪽 엘리베이터로 내려가면 바로 호텔 로비로 갈 수 있어. 거기가 이번 테이블 추리단의 시작점이야.	That elevator will take us straight to the hotel lobby — our spawn point for this round of Tabletop Expedition.						0	3.2主线剧情
+12	安卡希雅指了指不远处的电梯，并快步走到最前面给大家带起了路。	安卡希雅指了指不遠處的電梯，並快步走到最前面為大家帶起了路。	アカシアは近くにあるエレベーターホールのほうを指さして、小走りでそこに向かった。	아카시아가 멀지 않은 곳의 엘리베이터를 가리켰고, 빠르게 앞장서서 모두를 인도했다.	Acacia pointed at the elevator and skipped off ahead to lead the group.						0	3.2主线剧情
+13	快到电梯口时，终端的震动感从衣服口袋传来。	快到電梯口時，終端的震動感從衣服口袋傳來。	エレベーターの近くに来たとき、ポケットから端末の振動が伝わった。	엘리베이터 입구에 다다랐을 때, 옷 주머니 속 단말기에서 진동이 전해졌다.	Just as we neared the elevator, my terminal buzzed in my pocket.						0	3.2主线剧情
+14	点开信息，简短的文字铺开于屏幕上，言辞间透着淡淡的担忧。	點開訊息，簡短的文字鋪開於螢幕上，言詞間透著淡淡的擔憂。	確認するとメッセージだった。文面は以下のようである。	메시지를 열자, 화면에는 걱정하는 뉘앙스의 짧은 문장이 나타났다.	I opened the message to find a short note, laced with quiet concern.						0	3.2主线剧情
+15	分析员儿，我和莫尔索考虑了很久，还是决定跟您坦白。	分析員，我和莫爾索考慮了很久，還是決定跟您坦白。	分析員さん、ムルソーと相談したんですが、実は……	분석가님, 저랑 모르소가 많이 고민해 봤는데, 솔직하게 말씀드리려고요.	Adjutant, Meursault and I gave it some thought and figured we should come clean.						0	3.2主线剧情
+16	待会我和莫尔索会在游戏里客串NPC，我们担心……	等一下我和莫爾索會在遊戲裡客串NPC，我們擔心……	このあと、ムルソーと一緒にリアルRPGでNPCを務めることになったんです。でも……	이따가 저랑 모르소가 임시로 게임 NPC가 되어 출연할 거예요. 다만 걱정되는 건…	We'll be playing NPCs later on, and we're just a little worried that...						0	3.2主线剧情
+17	担心……呃……	擔心……呃……	ちょっと、心配することがあってな……	뭐가 걱정되냐면… 음…	That... uh...						0	3.2主线剧情
+18	看着屏幕上一直闪烁着“正在输入中”的提示，我忍不住轻笑出声。	看著螢幕上一直閃爍著「正在輸入中」的提示，我忍不住輕笑出聲。	画面に入力中の吹き出しが何度も表示されてまた消える。	화면에서 '입력 중' 표시가 계속 깜빡이자, 나도 모르게 피식 웃음이 나왔다.	Seeing that little "typing..." bubble blinking nonstop made me chuckle.						0	3.2主线剧情
+19	脑海中已经能够想象出她们两个此刻抓耳挠腮的模样。	腦海中已經能夠想像出她們兩個此刻抓耳撓腮的模樣。	どうしていいかわからず焦っている二人の様子が目に浮かぶ。微笑ましい。	지금 그녀들이 안절부절 못하는 모습이 머릿속으로 그려졌다.	I could practically see the two of them scratching their heads, all flustered.						0	3.2主线剧情
+20	为了安抚她们忐忑的心情，我快速敲击屏幕回复起来。	為了安撫她們忐忑的心情，我快速敲擊螢幕回覆起來。	ふたりをなだめる文面を打ち込んで、送信する。	그녀들의 불안한 마음을 달래주기 위해, 나는 재빨리 화면을 두드려 답장을 보냈다.	I shot off a quick reply to ease their nerves.						0	3.2主线剧情
+21	安卡希雅开动员大会的时候，我可是一直在场呢。	安卡希雅開動員大會的時候，我可是一直在場呢。	安心してくれ。私は事前会議に最初から最後まで参加してるんだから。	아카시아가 워크숍을 열었을 때, 난 계속 자리에 있었어.	I was there the whole time during Acacia's pep rally, you know.						0	3.2主线剧情
+22	对你们会准备什么，早就心里有数了，所以不用担心。	對你們會準備什麼，早就心裡有數了，所以不用擔心。	君たちがなにをしかけてくるかは、大体わかってる。	너희가 무슨 준비를 했는지 알고 있으니까, 걱정하지 마.	So I had a pretty good idea what you two would be up to. Don't sweat it.						0	3.2主线剧情
+23	相反，我还期待琴诺和莫尔索的出场哦。	相反，我還期待琴諾和莫爾索的出場喔。	だから怖がるどころか、むしろ二人の演技を楽しみにしてるぞ。	오히려 체르노와 모르소의 등장이 기대되는걸.	Honestly? Kinda looking forward to your big debut.						0	3.2主线剧情
+24	与其说是动员大会，不如说是恐怖电影鉴赏会……	與其說是動員大會，不如說是恐怖電影鑑賞會……	それにしてもあの事前会議、あれでいいのか。だってどっちかといえば、ただのホラー映画鑑賞会だったような……	워크숍이라기에는 공포영화 감상회에 가까웠지만…	In fact, Acacia's so-called "pep rally" had been more of a horror movie marathon...						0	3.2主线剧情
+25	我宣布，“演绎桌团”幕后小队动员大会，正式开始！	我宣布，「演繹桌團」幕後小隊動員大會，正式開始！	これより、「リアルRPG」NPC班、事前会議を開始するッ！	 '테이블 추리단' 제작팀 워크숍, 본격적으로 시작한다!	I hereby declare the pep rally for the Tabletop Expedition production cast officially underway!						0	3.2主线剧情
+26	安卡希雅拿着她用报刊纸卷出的简陋喇叭，站在床上，颇有几分领导者的气势。	安卡希雅拿著她用報紙捲出的簡陋喇叭，站在床上，頗有幾分領導者的氣勢。	アカシアは紙メガホンを手にベッドの上から宣言した。すると部屋の中が途端に静まり、それっぽい雰囲気になった。	아카시아는 신문지로 만든 허술한 확성기를 들고, 침대 위에 서서 엄청난 리더십을 발휘했다.	Acacia stood on the bed, brandishing a makeshift megaphone made from a rolled-up newspaper, radiating commanding energy.						0	3.2主线剧情
+27	在激情宣言结束后，她还刻意停顿了一下，似乎在等待些什么。	在激情宣言結束後，她還刻意停頓了一下，似乎在等待著什麼。	部屋の中をわざとらしい間が流れる。アカシアはみんなの目を見回す。何を待っているんだろう。	열정적인 선언이 끝난 뒤, 그녀는 뭔가를 기다리는 듯 일부러 뜸 들였다.	After her impassioned introduction, she paused theatrically, maybe waiting for applause.						0	3.2主线剧情
+28	好耶！	好耶！	わーーい！	좋아요!	Woohoo!						0	3.2主线剧情
+29	坐在地上的琴诺卖力地鼓掌，大概是把莫尔索的份也算了进去。	坐在地上的琴諾賣力地鼓掌，大概是把莫爾索的份也算了進去。	パチパチパチ、床に座っているチェルノは二人分の拍手を精いっぱい送った。	바닥에 앉아 있던 체르노가 열심히 박수를 쳐 줬다. 아마 모르소의 몫까지 포함되었을 것이다.	Cherno, cross-legged on the floor, clapped with gusto — probably making up for Meursault's share too.						0	3.2主线剧情
+30	一旁的薇蒂雅表情倒是有些困惑。	一旁的薇蒂雅表情倒是有點困惑。	横のヴィディアは少し戸惑った様子で、	옆에 있던 비디야는 다소 혼란스러운 얼굴을 보였다.	Nearby, Vidya watched on, slightly puzzled.						0	3.2主线剧情
+31	我记得，分析员大人不是首批测试的玩家吗？他也来参加动员会，岂不是会被剧透？	我記得，分析員大人不是首批測試的玩家嗎？他也來參加動員會，豈不是會被劇透？	あの、分析員さんってテストプレイのプレイヤーなんですよね？事前会議に出席したら、ネタバレを食らっちゃいませんか？	하지만 분석가님이 첫 테스트 유저잖아요? 같이 워크숍에 참석하면 스포일러 당하는 거 아닌가요?	Wait... isn't the Adjutant supposed to be one of the first testers? If he's here for the briefing, doesn't that mean spoilers?						0	3.2主线剧情
+32	嗯哼？	嗯哼？	言われてみれば確かに。	흐음?	Huh?						0	3.2主线剧情
+33	我看向安卡希雅，也表露出相同的疑问。	我看向安卡希雅，也表露出相同的疑問。	ベッドの上に立つアカシアに目を向けると、	나는 아카시아를 바라보며 똑같은 의문을 표했다.	I glanced at Acacia, silently asking the same thing.						0	3.2主线剧情
+34	但安卡希雅没急着解释，从床上蹦下来后，她找来一个大纸箱子。	但安卡希雅沒急著解釋，從床上蹦下來後，她找來一個大紙箱子。	何も言わずにベッドから飛び降りて、大きなダンボールを持ってきた。	하지만 아카시아는 서둘러 설명하는 대신, 침대에서 폴짝 내려와 커다란 상자를 찾아왔다.	Acacia didn't answer right away. Instead, she hopped off the bed and dragged over a large cardboard box.						0	3.2主线剧情
+35	不管是箱子表面还是里面的东西，都透露出浓浓的复古感。	不管是箱子表面還是裡面的東西，都透露出濃濃的復古感。	覗いてみると、使い倒されてくたびれたそのダンボールの中身はどれも骨董品ばりの年代感だった。	상자 표면이나, 안에 든 물건이나, 모두 진한 복고풍을 숨길 수 없었다.	Everything about the box — both how it looked and what it contained — gave off some serious retro vibes.						0	3.2主线剧情
+36	翻找了好一会，她总算从杂物中找出一盒光碟。	翻找了好一下子，她總算從雜物中找出一盒光碟。	アカシアはダンボールの中をガサガサとしばらく漁っていると、目的の物を見つけたらしく、それを差し出してきた。	한참을 뒤적거리다가, 그녀는 마침내 잡동사니 속에서 DVD 한 장을 찾아냈다.	After rummaging for a bit, she finally pulled out a worn DVD case.						0	3.2主线剧情
+37	盒子的边角甚至有些磨损，一看就是四十年前的产物。	盒子的邊角甚至有些磨損了，一看就是四十年前的產物。	プラスチック製の黒いケースだった。表面にはたくさん傷が入っていて、見たところおそらくアカシアと同じ年代の物ではないだろうか。	심지어 케이스의 모서리가 닳아 있었고, 누가 봐도 40년 전의 물건이었다.	Its corners were scuffed, its label faded — this thing had to be at least 40 years old.						0	3.2主线剧情
+38	作为幕后小队，我们肩负着将背景故事演绎得生动鲜活的重任！	作為幕後小隊，我們肩負著將背景故事演繹得生動鮮活的重任！	NPCとはすなわち、己の演技で物語を劇的に盛り上げる、舞台裏の立て役者！	제작팀으로서, 우린 배경 스토리를 생생하고 흥미진진하게 만들 중요한 임무가 있다고!	As the production cast, it's our sacred duty to bring the story to life!						0	3.2主线剧情
+39	所以我的计划是，大家一起从老恐怖片里汲取灵感，提升演技！	所以我的計畫是，大家一起從老恐怖片裡汲取靈感，提升演技~	ゆえに！演技をさらに磨くべく……みんなで名作ホラー映画を鑑賞しよう！	그래서 내 계획은, 다 같이 고전 공포 영화에서 영감을 얻어서 연기력을 높이는 거야~	So I thought we'd warm up with some classic horror — perfect for sharpening our acting chops~!						0	3.2主线剧情
+40	不过，这种电影还是有些渗人……	不過，這種電影還是有點恐怖……	とはいえ、ホラーだから、やっぱり怖いんだよね……	근데 이런 영화는 확실히 소름 돋긴 한단 말이지…	Though, uh... these movies can be a little spooky.						0	3.2主线剧情
+41	说到这里，安卡希雅看了眼光碟外盒，上面画了个大大的白色幽灵，模样很是惊悚。	說到這裡，安卡希雅看了眼光碟外盒，上面畫了個大大的白色幽靈，模樣看起來很驚悚。	ケースのジャケットには気味の悪い白いおばけが描いてあった。	아카시아는 DVD 케이스를 보며 말을 이어갔다. 케이스에는 섬뜩한 모습의 하얀 유령이 크게 그려져 있었다.	At that, Acacia glanced at the DVD case, which was plastered with a ghastly white ghost illustration.						0	3.2主线剧情
+42	下一秒，她就用指尖捏住外盒，一脸嫌弃地扔到了旁边看不到的地方。	下一秒，她就用指尖捏住外盒，一臉嫌棄地丟到了旁邊看不到的地方。	アカシアは中身のディスクを取り出してケースをぽいっと放る。	그러고는 바로 손끝으로 케이스를 집더니, 불쾌한 표정을 지으며 보이지 않는 구석으로 던져버렸다.	The very next second, she pinched the corner of the case with a clear look of distaste and tossed it to the side, out of sight.						0	3.2主线剧情
+43	所以~我找到了分析员陪我们一起。	所以~我找到了分析員陪我們一起。	そこで！分析員に付き合ってもらうことにしたんだ。	그래서~ 분석가를 불러서 우리랑 같이 보자고 했어.	So~ I brought the Adjutant to watch with us.						0	3.2主线剧情
+44	毕竟，他就是最令人安心的存在！	畢竟，他就是最令人安心的存在！	何しろ分析員がいると、みんなも安心すると思う。	아무래도 분석가가 있어야 제일 안심이 되니까!	After all, he's the one person who always makes everything feel safe.						0	3.2主线剧情
+45	她的目光转向我，眼中满满都是依赖。	她的目光轉向我，眼中滿滿都是依賴。	言って頼もしそうに私を見つめて頷く。	그녀는 나를 바라보며 의지하는 눈빛을 보냈다.	Her eyes found mine, full of absolute trust.						0	3.2主线剧情
+46	嘿嘿，总觉得安卡希雅多虑了呢，我和莫尔索完全不会害怕哦~	嘿嘿，總覺得安卡希雅多慮了呢，我和莫爾索完全不會害怕喔~	えへへ、アカシアさんって心配性ですね。私とムルソーはそんなの全然怖くないですよ。	헤헤, 아카시아, 너무 걱정하지 마세요. 저랑 모르소는 전혀 무섭지 않다고요~	Hehe, you're overthinking it, Acacia. Meursault and I aren't scared at all~						0	3.2主线剧情
+47	不过分析员儿能陪我们，当然更好啦。	不過分析員能陪我們，當然更好啦。	でも、分析員さんがいたら、確かにもっと安心しますね。	그래도 분석가님이 같이 있어 준다면 당연히 더 좋죠!	Still, having the Adjutant here is definitely a plus!						0	3.2主线剧情
+48	诶，等等，这不对的感觉是怎么回事！	欸，等等，這不對的感覺是怎麼回事！	ちょっと待って、なんか嫌な予感がするけど！	어, 잠깐, 뭔가 잘못된 느낌인데!	Wait, hold up — something's not right!						0	3.2主线剧情
+49	莫尔索一个没注意，安卡希雅和薇蒂雅已经紧紧贴在我的身侧。	莫爾索一個沒注意，安卡希雅和薇蒂雅已經緊緊貼在我的身側。	チェルノたちが油断している隙に、アカシアとヴィディアがそれぞれ左右から私の腕を絡めてきた。	모르소가 정신을 차려보니 아카시아와 비디야가 이미 내 옆에 바짝 붙어있었다.	Before Meursault knew it, Acacia and Vidya had already flanked me tightly on either side.						0	3.2主线剧情
+50	我被两人拥到了沙发上，并裹上了大大的毯子。	我被兩人擁到了沙發上，並裹上了大大的毯子。	サンドイッチ状態のまま二人にソファーに座らされ、毛布をかぶせられる。	나는 두 사람에게 이끌려 소파에 앉게 됐고, 커다란 담요가 나를 감쌌다.	They pinned me down onto the couch and promptly wrapped me in an oversized blanket.						0	3.2主线剧情
+51	被分析员紧紧抱着的话，无论是看到什么画面，我都不会害怕哦~	被分析員緊緊抱著的話，無論是看到什麼畫面，我都不會害怕喔~	分析員さんにぎゅっとしてもらえたら、どんな映画でも怖くありません！	분석가님 품에 꼭 안겨있으면, 어떤 장면이 나와도 무섭지 않을 거예요~	If the Adjutant's holding me tight, I won't be scared — no matter how terrifying the scene~						0	3.2主线剧情
+52	呜……莫尔索，我们大意了。	嗚……莫爾索，我們大意了。	うぅ……ムルソー、私たち、先を取られたみたい。	흑… 모르소, 우리가 방심했어.	Ugh... Meursault, we lost this round.						0	3.2主线剧情
+53	没关系，琴诺，那个黄金位置还等着我们不是吗？	沒關係，琴諾，那個黃金位置還等著我們不是嗎？	大丈夫だって、チェルノ。まだ一番いい位置が残ってんだぜ！	괜찮아, 체르노. 우리를 위한 황금 자리가 아직 남아있잖아?	Not yet, Cherno. The best seat's still up for grabs — right there!						0	3.2主线剧情
+54	在莫尔索的指示下，琴诺迈着急促的小步跑来。	在莫爾索的指示下，琴諾邁著急促的小步跑來。	チェルノたちが小走りで近づいてくる。	모르소의 지시에 따라, 체르노가 종종걸음으로 달려왔다.	Spurred on by Meursault's cue, Cherno scurried over in quick little steps.						0	3.2主线剧情
+55	再掀开铺在我身上的毛毯的一角，轻松地从下面钻了上来，最后稳稳当当地侧坐在了我的大腿上。	再掀開鋪在我身上毛毯的一角，輕鬆地從下面鑽了上來，最後穩妥地側坐在了我的大腿上。	毛布を下からめくって中に潜りこみ、上から頭を出すと私の太ももにちょこんと座り込んだ。	그리고 내가 덮고 있는 담요 한쪽을 들추고는 가볍게 밑으로 기어 올라오더니, 마침내 내 허벅지 위에 비스듬히 앉았다.	She lifted a corner of the blanket covering me and slipped underneath with practiced ease, then perched herself right on my lap.						0	3.2主线剧情
+56	分析员儿，琴诺和莫尔索坐这里可以吗？	分析員，琴諾和莫爾索坐這裡可以嗎？	分析員さん、チェルノとムルソー、ここに座っていいですか？	분석가님, 저랑 모르소가 여기 앉아도 될까요?	Adjutant~ Is it okay if Meursault and I sit here?						0	3.2主线剧情
+b-1											0	3.2主线剧情
+57	当然可以	當然可以	もちろんだ	물론이지	Of course.						0	3.2主线剧情
+58	都准备好了吧！开始播了哦~	都準備好了吧！開始播了喔~	みんな、準備はもういい？それじゃ、再生するね。	다들 준비됐지? 시작할게~	Everyone ready? Let's start the movie~						0	3.2主线剧情
+59	随着安卡希雅按下播放键，色调陈旧的画面慢慢浮现。	隨著安卡希雅按下播放鍵，色調陳舊的畫面慢慢浮現。	アカシアが再生ボタンを押すと同時に映し出されたのは、黄ばんだ色調のノイズ混じりの画面。	아카시아가 재생 버튼을 누르자, 빛바랜 듯한 화면이 천천히 나타났다.	Acacia hit play, and grainy, aged visuals flickered to life on the screen.						0	3.2主线剧情
+60	血红色的标题字幕缓缓出现，配合着那种让人毛骨悚然的背景音乐，整个房间的氛围瞬间变得诡异起来。	血紅色的標題字幕緩緩出現，配合著那種讓人毛骨悚然的背景音樂，整個房間的氣氛瞬間變得詭異起來。	不快な音が続くＢＧＭとともに、狂気じみた落書きのような字体で書かれたタイトルが浮かび上がると、なんだか部屋の温度が少し下がったような気がした。	핏빛 제목의 자막이 서서히 떠오르고, 소름 돋는 배경음악과 어우러져 방 안의 분위기가 순식간에 음산해졌다.	Crimson title text crawled across the frame, backed by an eerie soundtrack, instantly setting a chilling tone.						0	3.2主线剧情
+61	等到影片进度过了三分之一，我也渐渐摸透了其中的套路。	等到影片進度過了三分之一，我也漸漸摸透了其中的套路。	そのまま映画が３分の１ほど進んだところ、どんな物語なのかも大体わかってきた。	영상이 3분의 1쯤 지나자, 나도 점차 그 속의 패턴을 파악할 수 있었다.	By the time we were a third of the way through, I'd already clocked the pattern.						0	3.2主线剧情
+62	影片讲述了一个被怨灵缠绕的古老酒店的故事。来这里入住的客人一个接一个地遭遇离奇事件。	影片講述了一個被怨靈纏繞的古老飯店的故事。來這裡入住的客人一個接一個地遭遇離奇事件。	怨霊の出る古いホテルに泊まった客たちに、次から次へと怪奇事件が起きてしまうという。	영상은 원령이 깃든, 오래된 호텔에 관한 이야기였고, 이곳에 투숙한 손님들은 하나둘씩 기이한 일을 겪는다.	A cursed old hotel haunted by a vengeful spirit — guests vanishing one by one under mysterious circumstances.						0	3.2主线剧情
+63	故事情节虽然算不上特别新颖，但那些用来营造恐怖氛围的镜头倒是很有意思。	故事情節雖然不算特別新穎，但那些用來營造恐怖氣氛的鏡頭倒是很有意思。	あまり目新しさのない展開ではあるが、雰囲気作りのためのカットはなかなか楽しめたものがある。	특별히 참신한 스토리는 아니었지만, 공포 분위기를 조성하는 장면들은 꽤 흥미로웠다.	The plot was a bit cliché, but the horror staging was surprisingly effective.						0	3.2主线剧情
+64	每到这些惊悚情节时，我就能清楚地感觉到两旁的身子呼吸急促起来。	每到這些驚悚情節時，我就能清楚地感覺到兩旁的身體呼吸急促起來。	怖いシーンが流れるたびに両脇から面白いくらいに悲鳴が上がるものだから。	이런 소름 돋는 장면이 나올 때마다, 양옆에서는 거칠어지는 숨소리가 느껴졌다.	With every scary scene, the girls on either side of me would tense up, breathing faster in unison.						0	3.2主线剧情
+65	不过琴诺倒是越看越入神，小脑袋忍不住往电视机前凑去。	不過琴諾倒是越看越入神，小腦袋忍不住往電視機前靠近。	チェルノたちだけが食い入るようにテレビに釘付けとなっていた。	하지만 체르노는 오히려 점점 더 몰입하며, TV 앞으로 머리를 쑥 내밀었다.	Cherno, on the other hand, was totally absorbed, her little head inching toward the screen with fascination.						0	3.2主线剧情
+66	分析员~我都吓得手脚冰凉了，可以帮我暖暖吗？	分析員~我都嚇得手腳冰涼了，可以幫我暖暖嗎？	なんだか、全身寒気が……分析員さん、温めてくれませんか？	분석가님~ 너무 놀라서 손발이 다 얼어붙었어요. 따뜻하게 녹여주실래요?	Adjutant~ My hands and feet are freezing. Could you warm me up?						0	3.2主线剧情
+67	薇蒂雅的脚掠过我的脚踝，传来冰凉的触感。	薇蒂雅的腳掠過我的腳踝，傳來冰涼的觸感。	くるぶしにひんやり冷たい感触が当たる。見てみたらヴィディアの足が触れていた。	비디야의 발이 내 발목을 스치자, 차가운 감촉이 전해졌다.	Vidya's foot brushed against my ankle — cold as ice.						0	3.2主线剧情
+b-2											0	3.2主线剧情
+68	靠近些，我帮你暖	靠近點，我幫你暖	いいけど、どうやって？	이리 와, 따뜻하게 해줄게	Get closer, I'll warm them up.						0	3.2主线剧情
+69	可以拜托分析员……用那个最暖和的地方吗？	可以拜託分析員……用那個最暖和的地方嗎？	そこでお願いなんですが……分析員さんのあそこで暖を取ってもいいですか？	분석가님께… 제일 따뜻한 그곳으로 부탁드려도 될까요?	Then... can I rest them on your warmest spot?						0	3.2主线剧情
+70	在得到我的点头回应后，她整个人蜷缩进我的怀中，双腿放在我的胸上。	在得到我的點頭回應後，她整個人蜷縮進我的懷中，雙腿放在我的胸上。	私が答えるのを待たずに、チェルノたちの背中と私の間の小さなスペースにヴィディアは両足を伸ばしてくる。生足の外側を私の上半身にぴったりとくっつけ、	내가 고개를 끄덕이자, 그녀는 내 품에 완전히 웅크리고 들어와 두 다리를 내 가슴 위에 올렸다.	I gave her a silent nod. She curled up in my lap, legs draped over my chest.						0	3.2主线剧情
+71	而她的脚掌恰到好处覆在了那个最火热的地方，接触的瞬间让人忍不住轻颤。	而她的腳掌很剛好的蓋在了那個最火熱的地方，接觸的瞬間讓人忍不住輕顫。	足の裏を…無遠慮に乗せた、彼女が言うところの、あそこに。	그녀의 발바닥이 가장 뜨거운 곳에 딱 맞게 닿았고, 맞닿는 순간 저절로 몸이 떨렸다.	Her feet found the warmest spot — the sudden contact sent a shiver through me.						0	3.2主线剧情
+72	很快那里的热度就开始传递，温暖在彼此间悄然流淌。	很快那裡的熱度就開始傳遞，溫暖在彼此間悄然流淌。	ただでさえ只ならぬこの状況に、ヴィディアの足が無慈悲に拍車をかけてしまっていると、	그곳의 열기가 빠르게 전해지기 시작했고, 서로 간에 온기가 조용히 흘렀다.	But little by little, that warmth flowed between us, melting the cold from her skin.						0	3.2主线剧情
+73	哈哈哈~分析员儿，莫尔索，下次我们来做个幽绿色的鬼脸蛋糕好不好？	哈哈哈~分析員、莫爾索，下次我們來做個幽綠色的鬼臉蛋糕好不好？	ふふふ……分析員さん、ムルソー、今度、緑色のおばけケーキを作りませんか？	하하하~ 분석가님, 모르소, 우리 다음에는 초록색 귀신 얼굴 케이크를 만들어 봐요!	Hahaha~ Adjutant, Meursault, let's bake a creepy green ghost cake next time, okay?						0	3.2主线剧情
+74	这，这不对吧！	這、這不對吧！	ちょ、ちょっと待て！	이, 이건 아니잖아!	W—Wait... what's going on here!						0	3.2主线剧情
+75	琴诺，我们的黄金位置被侵占了。	琴諾，我們的黃金位置被佔走了。	チェルノ、私たちの場所が取られたぞ。	체르노, 황금 자리가 뺏겼어.	Cherno, we've been bumped from prime seating!						0	3.2主线剧情
+76	在莫尔索的提醒下，琴诺这才发现薇蒂雅的小动作，连忙又往后坐了坐。	在莫爾索的提醒下，琴諾這才發現薇蒂雅的小動作，連忙又往後坐了坐。	自分の後ろに起きている領土侵犯に気づかされ、チェルノは慌てて尻を後ろへずらす。ヘンに真面目なところが災いして、さらに何度も座り直してしまう。	모르소가 알려주자, 체르노는 비로소 비디야의 수작을 발견하고 서둘러 뒤로 앉았다.	Meursault's protest snapped Cherno out of it. She finally clocked Vidya's sneaky move and scooted back fast.						0	3.2主线剧情
+77	身体各处传来的压迫感让意识变得有些朦胧。	身體各處傳來的壓迫感讓意識變得有點朦朧。	二人のはさみ撃ちで理性がふわふわしだし、事態がますます芳しくない方向へ突進していくその時、	온몸 곳곳에서 전해지는 압박감에 의식이 몽롱해졌다.	With all that pressure from every angle, my head was starting to spin.						0	3.2主线剧情
+78	而一旁的安卡希雅在恐怖片的氛围下，半眯着眼睛，对毛毯下的情况浑然不觉。	而一旁的安卡希雅在恐怖片的氣氛下，半瞇著眼睛，對毛毯下的情況渾然不覺。	ふと私は横の、何も知らないまま映画にすっかりご心酔のアカシアに気が付く。そうだ、映画に気を逸らしさえすれば――	한편 아카시아는 옆에서 공포 영화의 분위기에 빠져 눈을 반쯤 감은 채, 담요 아래에서 벌어지는 상황을 전혀 눈치채지 못했다.	Acacia, lulled by the horror flick's atmosphere, sat nearby with half-lidded eyes — completely oblivious to the chaos under the blanket.						0	3.2主线剧情
+79	呼……	呼……	ぉっ……	후우…	Whew...						0	3.2主线剧情
+80	爽快的吐息最终还是吸引了安卡希雅的注意，她看向我，挽臂的动作紧了几分。	爽快的吐息最終還是吸引了安卡希雅的注意，她看向我，挽臂的動作緊了幾分。	つい漏らしてしまった声にアカシアが振り向く。不安をなだめるつもりか組んだ腕に力を込めると、	시원한 한숨 소리에 결국 아카시아가 나를 주목했고, 그녀는 나를 바라보며 더욱 단단하게 팔짱을 꼈다.	My sigh didn't go unnoticed — Acacia glanced over, tightening her hold on my arm.						0	3.2主线剧情
+81	分析员，你该不会是害怕了吧？	分析員，你該不會是害怕了吧？	分析員、もしかして怖い？	분석가, 설마 무서운 건 아니겠지?	Adjutant, you aren't scared, are you?						0	3.2主线剧情
+82	别逞强，我来帮你~	別逞強，我來幫你~	怖いなら無理しないで……こうしよう。	괜히 무리하지 마, 내가 도와줄게~	Don't be a hero — I've got you!						0	3.2主线剧情
+83	安卡希雅好心地伸出双手蒙住了我的眼睛，这下恐怖片的画面彻底被隔离，身体的感知愈加明显。	安卡希雅好心地伸出雙手蒙住了我的眼睛，現在恐怖片的畫面徹底被隔離，身體的感知愈加明顯。	両手で私の目を覆った。映画鑑賞会なのに映画すら見せてもらえなくなり、最後の逃げ場も失った私の意識はただ、いくつもの刺激にとろけていくしかなかった……	친절한 아카시아가 두 손으로 내 눈을 가려주었고, 공포 영화 장면이 완전히 차단되자, 신체의 감각이 더욱 선명해졌다.	She gently placed her hands over my eyes, shielding me from the screen. With vision gone, every other sense kicked into high gear.						0	3.2主线剧情
+84	在被感知驾驭一段时间后，房间突然安静了下来。	在被感知駕馭一段時間後，房間突然安靜了下來。	しばらく経ったころ、部屋の中から急に音が消えた。	감각이 지배당한 지 얼마 되지 않아, 방 안이 갑자기 조용해졌다.	For a while, I drifted in that heightened perception — until the room suddenly fell silent.						0	3.2主线剧情
+85	察觉到不对，安卡希雅也拿开了手，柔和的光线重新进入眼中。	察覺到不對，安卡希雅也拿開了手，柔和的光線重新進入眼中。	アカシアが手をどけてくれると、柔らかな光が目に入った。	이상함을 느낀 아카시아도 손을 치웠고, 부드러운 빛이 다시 시야를 감쌌다.	Sensing something was off, Acacia pulled her hands away. Soft light poured back into my eyes.						0	3.2主线剧情
+86	电影怎么突然停了？	電影怎麼突然停了？	あれ、急に止まっちゃいました……	영화가 왜 갑자기 멈췄죠?	Huh? Why'd the movie stop?						0	3.2主线剧情
+87	安卡希雅从沙发上溜下去，刚取出光碟，DVD机就冒出几缕黑烟。	安卡希雅從沙發上溜下去，剛拿出光碟，光碟機就冒出幾縷黑煙。	アカシアがプレイヤーの前に行ってかがみ、トレイを引き出すと、とたんにプレイヤーから白い煙があがった。	아카시아가 소파에서 내려와 DVD를 꺼내자마자, 플레이어에서 검은 연기가 피어올랐다.	Acacia slid off the sofa to check. As soon as she pulled out the disc, the DVD player let out a puff of smoke.						0	3.2主线剧情
+88	一股焦味呢。	一股燒焦味呢。	……焦げた匂いがしますね。	타는 냄새가 나네요.	*sniff* Something smells burnt.						0	3.2主线剧情
+89	就像琴诺做的饭一样……	就像琴諾煮的飯一樣……	チェルノが作ったメシみてーな匂いだ……	체르노가 만든 음식 같아…	Smells just like Cherno's cooking...						0	3.2主线剧情
+90	看起来像是里面的电路老化了。	看起來像是裡面的電路老化了。	劣化でショートしたみたい。	내부 회로가 너무 오래됐나 봐.	Looks like the circuits gave out.						0	3.2主线剧情
+91	要我说，你还是让它寿终正寝吧，一连工作几十年也挺不容易的。	要我說，你還是讓它壽終正寢吧，連續工作幾十年也蠻不容易的。	大往生したみたいだな。見たところ、何十年も前のものみたいだし。	그냥 수명을 다하게 내버려두는 게 좋겠어. 수십 년을 일했잖아.	Let the poor thing rest in peace. After decades of service, it's more than earned it.						0	3.2主线剧情
+92	唔……	嗯……	うっ……	음…	Um...						0	3.2主线剧情
+93	看着安卡希雅脸上露出不舍的表情，我只能赶紧接过她手上还有些微微发烫的DVD机。	看著安卡希雅臉上露出不捨的表情，我只能趕快接過她手上還有點微微發熱的光碟機。	アカシアはプレイヤーを胸に抱え、無言で見つめる。きっとそれは彼女にとって、とても特別なものだったのだろう。	아카시아가 아쉬운 표정을 짓자, 나는 서둘러 여전히 온기가 남아있는 DVD 플레이어를 그녀의 손에서 받아 들었다.	Spotting the reluctance on her face, I gently took the still-warm device from her hands.						0	3.2主线剧情
+94	我去后勤部帮你问问看，她们说不定能帮你修好这东西。	我去後勤部幫你問問看，她們說不定能幫你修好這東西。	直せるかどうかわからないけど、とりあえず、後方支援部に聞いてみるよ。	내가 지원부에 가서 물어볼게. 그 사람들이라면 이걸 고칠 수 있을지도 몰라.	I'll ask the Logistics Department. Maybe they can patch it up for you.						0	3.2主线剧情
+95	那……如果修好了呢？	那……如果修好了呢？	えっと……もし直ったら？	그럼… 만약에 고쳐지면?	Um... what if it does get fixed?						0	3.2主线剧情
+96	修好了，我当然是陪你们把电影看完啊。	修好了，我當然是陪你們把電影看完啊。	続きを見るに決まってるだろう。	고쳐지면, 당연히 너희랑 영화를 끝까지 봐야지.	Then I'll finish the movie with you all, of course.						0	3.2主线剧情
+97	明明刚才都紧张到呼气了……不过既然你都这么说了，可别反悔哦。	明明剛才都緊張到呼氣了……不過既然你都這麼說了，可別後悔喔。	怖くて息が上がってたくせに……まっ、そこまで言うなら、後悔だけはしないでよね。	긴장해서 한숨 쉴 땐 언제고… 네가 말한 거니까, 약속은 꼭 지켜야 해?	You were totally scared — breathing all hard and everything... But since you promised, no going back on your word!						0	3.2主线剧情
+98	知道了。	知道了。	ああ、約束だ。	알았어.	I won't.						0	3.2主线剧情
+99	去后勤部时，我也顺带把琴诺莫尔索和薇蒂雅送回了房间。	去後勤部時，我也順便把琴諾莫爾索和薇蒂雅送回了房間。	後方支援部に向かうついでに、私はチェルノ、ムルソー、ヴィディアを部屋に送り届けた。	지원부에 가는 길에 체르노와 모르소, 그리고 비디야도 방에 데려다줬다.	On the way to the Logistics Department, I dropped Cherno, Meursault, and Vidya off at their rooms.						0	3.2主线剧情
+100	而正当我在走廊打量着手上的DVD机时，身后传来了轻快的脚步声。	而正當我在走廊打量著手上的光碟機時，身後傳來了輕快的腳步聲。	プレイヤーを手に廊下を歩いていると、後ろから軽快な足音が近づいてきた。	내가 복도에서 DVD 플레이어를 살펴보고 있을 때, 뒤에서 경쾌한 발소리가 들려왔다.	As I examined the DVD player in the hallway, I heard soft footsteps approaching behind me.						0	3.2主线剧情
+101	下一秒，肩膀便传来被人轻拍的温柔触感。	下一秒，肩膀便傳來被人輕拍的溫柔觸感。	ポンポンと肩を叩かれて振り向くと目に飛び込んだのは、ピンク色だった。	그 순간, 누군가가 부드러운 손길로 어깨를 톡톡 두드렸다.	A moment later, a light tap landed on my shoulder.						0	3.2主线剧情
+102	转过身，眼前是个陌生的少女，粉色挑染的长发在走廊灯光下泛着光泽，显得格外亮眼。	轉過身，眼前是個陌生的少女，粉色挑染的長髮在走廊燈光下泛著光澤，顯得格外亮眼。	廊下のライトに艶やかに光るその長髪から、飴を溶かしたような甘い匂いがしてくる。	뒤돌아보니 낯선 소녀가 서 있었다. 분홍색으로 부분 염색한 긴 머리카락이 복도의 조명 아래서 반짝이며 유난히 눈에 띄었다.	I turned to find a girl I didn't recognize. Her long hair shimmered under the corridor lights, streaked with eye-catching pink highlights.						0	3.2主线剧情
+103	她站的离我很近，清甜的香气钻入了我的鼻尖，不禁让人联想到毛绒绒的桃子。	她站得離我很近，清甜的香氣鑽入了我的鼻尖，不禁讓人聯想到毛絨絨的桃子。	いや正確に言うなら、その髪の主その人がどこか綿菓子のような雰囲気をまとっているのだ。	그녀는 나에게 바짝 다가왔다. 달콤한 향기가 내 코끝을 자극해 부드러운 복숭아를 연상케 했다.	She was standing unusually close — and carried a delicate, fruity scent, soft and sweet like a fuzzy peach.						0	3.2主线剧情
+104	请问，你知道人事部往哪里走吗？	請問，你知道人事部往哪裡走嗎？	あのー、人事部に行きたいんだけど、道教えてくんない？	저기, 인사팀이 어느 쪽인지 알아?	Excuse me, do you know how to get to HR?						0	3.2主线剧情
+105	说这话时，少女笑得灿烂，嘴角咧出好看的弧度。	說這話時，少女笑得燦爛，嘴角咧出好看的弧度。	何気に明るい声で、口角を自然に上げながら女の子は言った。	소녀는 말하면서 환하게 웃었고, 입가에 예쁜 곡선을 그렸다.	She beamed as she asked, her smile curving into an effortlessly charming expression.						0	3.2主线剧情
+106	人事部的办公室在楼下，你走错楼层了。	人事部的辦公室在樓下，你走錯樓層了。	人事部なら一つ下の階だよ。	인사팀은 아래층에 있어. 잘못 온 것 같네.	HR's one floor down. You're on the wrong level.						0	3.2主线剧情
+107	咕！这样吗？	咕！這樣嗎？	うげっ！し、下の階っ？	뀨! 그래?	Gyuh~! Really?						0	3.2主线剧情
+108	她惊讶地双手捂住脸颊，同时发出了一个奇特可爱的口癖。	她驚訝地雙手摀住臉頰，同時發出了一個奇特可愛的聲音。	両手で頬を恥ずかしそうに覆う。しかも、うげって……	놀란 그녀는 두 손으로 얼굴을 감싸며 독특하고 귀여운 말버릇을 흘렸다.	She cupped her cheeks, letting out an odd but adorable little gasp.						0	3.2主线剧情
+109	还好遇到了你，不然我肯定赶不上面试了。	還好遇到了你，不然我一定趕不上面試了。	いやー、マジ感謝ッ！教えてくれんかったら、ゼッタイ面接に遅れちゃうもん。	널 만나서 다행이야. 하마터면 면접에 늦을 뻔했어.	Good thing I ran into you, or I'd totally have missed my interview.						0	3.2主线剧情
+110	要怎么感谢才好呢~	要怎麼感謝才好呢~	道を教えてくれたお礼、何にしよっかな～	어떻게 감사 인사를 하면 좋을까~	Now, how can I ever repay you~?						0	3.2主线剧情
+111	哇呼~有了！	哇呼~有了！	あはっ♪	와후~ 알겠다!	Ooh~ I know!						0	3.2主线剧情
+112	不用……	不用……	いや、お礼されるほど――	괜찮…	That's really not ne—						0	3.2主线剧情
+113	想着这不过是个举手之劳，拒绝的话已经到了嘴边。	想著這不過是個舉手之勞，拒絕的話已經到了嘴邊。	断る言葉は喉まで出かかっていた。	별거 아닌 일이다 보니, 나는 거절하려 입을 열었다.	It was just a small favor. I was about to politely decline.						0	3.2主线剧情
+114	但眼前的少女却没给我说完的机会。	但眼前的少女卻沒給我說完的機會。	でも、最後まで言わせてくれなかった。	하지만 눈앞의 소녀는 내가 말을 끝낼 기회를 주지 않았다.	But the girl in front of me didn't give me the chance.						0	3.2主线剧情
+115	她微微俯下身子，将脑袋凑到我的跟前。	她微微俯下身體，將腦袋靠近到我的跟前。	私の方に身体を傾け、顔を近づけてくる。	그녀는 살짝 몸을 숙여 얼굴을 내 앞으로 들이밀었다.	She leaned in slightly, tilting her head toward me.						0	3.2主线剧情
+116	这时候我才注意到，她头顶有一对像耳朵的事物。	這時候我才注意到，她頭頂有一對像耳朵的構造。	その時初めて、私は彼女の頭の上の耳みたいなものに気がついた。	그제야 그녀 머리 위에 달린, 귀처럼 생긴 무언가가 보였다.	That's when I noticed — perched atop her head were a pair of ear-like tufts.						0	3.2主线剧情
+117	作为感谢，给你摸摸看哦~	作為感謝，讓你摸摸看喔~	お礼に、特別に触らせたげるよ☆	감사의 표시로 한번 만져보게 해줄게~	As a thank-you... I'll let you pet them~						0	3.2主线剧情
+118	虽然觉得这样的感谢方式有些奇怪，但看了看那对轻轻颤动的耳朵，心里还是不由得好奇起来。	雖然覺得這樣的感謝方式有點奇怪，但看看那對輕輕顫動的耳朵，心裡還是忍不住好奇起來。	お礼にしては独特すぎないかとは思ったが、ぴくぴくするその耳を見ていると、どうしても好奇心のほうが勝ってしまう。	이런 감사 표현이 좀 이상하다고 생각했지만, 살짝 떨리는 그 귀를 보니 호기심이 발동했다.	It was... an unusual offer. But the way they twitched caught my eye, and curiosity began to creep in.						0	3.2主线剧情
+119	这是真的耳朵吗？会是什么手感呢？	這是真的耳朵嗎？會是什麼手感呢？	ケモ耳…？どんな手触りなんだろう…？	이건 진짜 귀일까? 만지면 어떤 느낌일까?	Were they actual ears? What would they feel like?						0	3.2主线剧情
+120	见到我久久没有动作，她又凑得很近了，眼睛更是笑得眯成了一条缝。	看我久久沒有動作，她又靠得更近了，眼睛更是笑得瞇成了一條縫。	ためらっている私に、彼女はさらに顔を近づける。笑みを含んで細めた目が、強く煽ってくる。	내가 한참을 움직이지 않자, 그녀는 더 가까이 다가왔고, 귀여운 일자 눈웃음을 보였다.	Seeing me hesitate, she leaned in even closer, her eyes crinkling into cheerful little crescents as she smiled.						0	3.2主线剧情
+121	真的不想试试看吗？手感超棒的哦~	真的不想試試看嗎？手感超棒的喔~	触んなくていーの？手触りサイコーだしっ。	진짜 안 만져볼 거야? 촉감이 정말 좋은데~	C'mon, go ahead~ They feel amazing~						0	3.2主线剧情
+b-3											0	3.2主线剧情
+122	摸摸看	摸摸看	触ってみる	만져본다	Give them a feel						0	3.2主线剧情
+123	哇~哇呼~	哇~哇呼~	くぅ〜んくぅ〜ん。	와~ 와후~	Whoa~ Woohoo~						0	3.2主线剧情
+124	虽然只是用指尖小心地捏了捏，但少女却发出小声的惊呼，头似乎也往我手心偏了偏。	雖然只是用指尖小心地捏了捏，但少女卻發出小聲的驚呼，頭似乎也往我手心偏過來。	指で耳の先っちょをつまんでみると、少女は気持ちよさそうな鳴き声を漏らし、頭を私の手のひらの方に当てた。	손끝으로 살짝 꼬집어보았을 뿐인데, 소녀는 작은 탄성을 내뱉으며 내 손바닥 쪽으로 머리를 기울이는 듯했다.	I gave one a cautious pinch with my fingertips — and she let out a tiny squeak, nudging her head deeper into my palm.						0	3.2主线剧情
+125	脸上淡淡的粉色透露着她此时的舒服与惬意。	臉上淡淡的粉色透露著她此時的舒服與愜意。	頬にほんのりと浮かんだ淡いピンク色が、今この時彼女の気持ちよさを物語っている。	얼굴의 분홍빛 홍조가 그녀의 편안하고 기분 좋은 상태를 말해주고 있었다.	A soft blush bloomed across her cheeks, her face radiating pure contentment.						0	3.2主线剧情
+126	不是真的耳朵？	不是真的耳朵？	てっきり耳だと……	진짜 귀가 아닌가?	They're... not real ears?						0	3.2主线剧情
+127	立在头上小小的三角触感柔软、丝滑，但并不温暖。	立在頭上小小的三角，觸感柔軟、順滑，但並不溫暖。	頭の上にちょこんと立つ小さな三角形は触れると柔らかくて心地良かったが、生き物の温もりはなかった。	머리 위에 솟아있는 작은 삼각형은 부드럽고 매끄러웠지만, 따뜻하진 않았다.	The cat-like tufts on her head were soft and silky, but had no warmth to them.						0	3.2主线剧情
+128	嘻嘻，被骗到了吧~	嘻嘻，被騙到了吧~	へへっ、と思うじゃん？	히히, 속았지~	Heehee~ Gotcha~						0	3.2主线剧情
+129	其实这是头发哦，这两簇不知道为什么，怎么梳都不听话呢，诶嘿嘿~	其實這是頭髮喔，這兩撮不知道為什麼，怎麼梳都不聽話呢，欸嘿嘿~	ホントは、髪の毛♪　なんでかここ、ずっとこんな感じでハネちゃってるんよね、へへ。	사실 이건 머리카락이야. 이유는 모르겠지만, 이 두 군데는 어떻게 빗어도 말을 안 듣네. 에헤헤~	They're just hair! For some reason, these tufts have a mind of their own — no amount of brushing works, hehe~						0	3.2主线剧情
+130	米娅小姐！	米婭小姐！	ミアさーんっ！	미아 씨!	Miss Mia!						0	3.2主线剧情
+131	人事部同事慌慌张张地跑了过来，在看到我后，连忙慌张地鞠躬问好。	人事部同事慌慌張張地跑了過來，在看到我後，連忙慌張地鞠躬問好。	慌てた様子で駆け寄ってきた人事部の職員が、私の姿を見つけたとたん、深々と頭を下げて謝った。	인사팀 동료가 허둥지둥 달려와서는 나를 보자마자 서둘러 인사했다.	An HR staffer hurried over and, upon spotting me, bowed quickly with a flustered look.						0	3.2主线剧情
+132	分析员，抱歉，这位米娅小姐是来人事部面试的。	分析員，抱歉，這位米婭小姐是來人事部面試的。	あっ、分析員さん、すみません。こちらはミアさん、うちの人事部の面接を受けに来た子なんです。	분석가님, 죄송해요. 여기 미아 씨는 인사팀 면접을 보러 오신 분이에요.	Apologies, Adjutant — this is Miss Mia. She's here for an interview.						0	3.2主线剧情
+133	但我一不注意，她就跟丢了，是我的失误。	但我一不注意，她就跟丟了，是我的失誤。	ちょっと目を離したら、すぐどっかに行っちゃうんですよ。本当に困りました。	제가 잠깐 방심한 사이에 길을 잃으셨나 봐요. 제 실수입니다.	I lost track of her for just a moment, and she wandered off. That's entirely on me.						0	3.2主线剧情
+134	没关系，既然有面试，就快点过去吧。	沒關係，既然有面試，就快點過去吧。	それなら、早く行ったほうがいいと思うよ。	괜찮아. 면접이 있다면 얼른 가보는 게 좋겠네.	No worries. Don't let me keep you from your interview.						0	3.2主线剧情
+135	显然我的语气已经足够温和，但人事部同事还是有些后怕，用眼神示意米娅赶紧跟她离开。	顯然我的語氣已經足夠溫和，但人事部同事還是有點害怕，用眼神示意米婭快點跟她離開。	なるべく語気を和らげて言ったつもりだが、人事部の職員はやはりどこか怯えた様子で、「早く行こう」と女の子に目配せをした。	나는 분명 부드럽게 말했지만, 인사팀 동료는 여전히 겁먹은 듯 미아에게 어서 따라오라고 눈짓했다.	I'd kept my tone as gentle as possible, but the staffer still looked rattled — and shot Mia a look that clearly meant hurry up.						0	3.2主线剧情
+136	但米娅依旧是一脸灿烂，离开时还冲我挥手。	但米婭依舊是一臉燦笑，離開時還對我揮手。	なのに女の子は職員のおずおずした態度にまったく同調せず、去り際にも口元に孤を描いたままひらひらと手を振っていた。	하지만 미아는 여전히 밝게 웃으며, 떠나면서도 내게 손을 흔들었다.	But Mia just flashed me a bright smile and waved cheerfully as she turned to go.						0	3.2主线剧情
+137	那熟稔的模样，就像我们是认识了许久的老朋友一样。	那熟稔的模樣，就像我們是認識了許久的老朋友一樣。	初対面なのに、まるで昔からの親友のように、初対面の気がしない。	마치 오랫동안 알고 지낸 친구처럼 친근한 모습이었다.	She did it with such easy familiarity, like we were old friends.						0	3.2主线剧情
+138	那分析员拜拜~我就先去面试咯~	那分析員拜拜~我就先去面試囉~	そんじゃ、分析員、面接いってくるねー♪	그럼 분석가, 잘 있어~ 난 면접 보러 갈게~	See ya, Adjutant~ Off to my interview I go~!						0	3.2主线剧情
+139	隔着长长的回廊，人事部同事略带些埋怨的语气幽幽传来。	隔著長長的迴廊，人事部同事略帶些埋怨的語氣幽幽傳來。	遠ざかっていく二人が一つ角を曲がると、職員の安堵の息と、説教じみた声が聞こえてきた。	긴 복도 너머로 인사팀 동료의 약간 원망 섞인 목소리가 희미하게 들려왔다.	From down the long hallway, I could just make out the HR staffer's slightly exasperated voice.						0	3.2主线剧情
+140	米娅小姐，这次请好好跟在我的身后，千万不能再乱跑乱晃了哦。	米婭小姐，這次請好好跟在我的身後，千萬不能再亂跑亂晃了喔。	ミアさん、いいですか？今度こそ、しっかりついてきてくださいね。ひとりで勝手にウロついちゃダメですからね。	미아 씨, 이번엔 제발 제 뒤를 잘 따라와 주세요. 절대 여기저기 돌아다니시면 안 됩니다?	Miss Mia, please stay close this time. No more wandering off, alright?						0	3.2主线剧情
+141	虽然您是临时特聘，但也得尊重员工准则……	雖然您是臨時特聘，但也必須尊重員工準則……	特任採用とはいえ、ちゃんと就業規則を守ってもらわないと……	비록 임시직이긴 하지만, 그래도 직원 수칙은 지켜야 해요…	Even if you're a temporary appointee on a special assignment, you're still expected to follow staff protocols...						0	3.2主线剧情
+142	很快，说话声就渐渐淡去，只留下空气里弥漫的蜜桃香气了。	很快，說話聲就漸漸淡去，只留下空氣裡瀰漫的蜜桃香氣了。	しだいに声が遠ざかり、空気中には甘い香りだけが漂っていた。	대화 소리가 점점 잦아들었고, 복숭아 향기만이 공기 중에 감돌았다.	Soon, their voices faded, leaving only the lingering scent of peaches in the air.						0	3.2主线剧情
+143	滴滴滴——！	嗶嗶嗶——！	ピピピ――！	삐삐삐!	*beep, beep, beep—*						0	3.2主线剧情
+144	终端的振动将我的思绪拉扯回来，而聊天页面上又冒出新的文字。	終端的振動將我的思緒拉扯回來，而聊天頁面上又冒出新的文字。	端末の振動で我に返り、確かめるとチャット画面には新しいメッセージが表示されていた。	단말기의 진동이 내 생각을 현실로 끌어당겼고, 채팅창에는 다시 새로운 메시지가 떴다.	My terminal buzzed, snapping me out of the memory and back to the sea resort. A new message blinked onto the screen.						0	3.2主线剧情
+145	嘿嘿，分析员儿玩得开心就好~我和莫尔索就先去帮恩雅姐处理晚餐食材了。	嘿嘿，分析員玩得開心就好~我和莫爾索就先去幫恩雅姐處理晚餐食材了。	えへへ、分析員さんが楽しめたのならよかったです！それじゃ、私とムルソーはエンヤ姉さんの手伝いに行きますね。	헤헤, 분석가님이 즐거웠다니 다행이에요~ 저랑 모르소는 이만 저녁 식사 재료를 준비하러 엔야 언니한테 가볼게요.	Heehee~ Well, as long as you have fun, Adjutant~ Oh, Meursault and I are off to help Enya with dinner now.						0	3.2主线剧情
+146	待会你们一结束，就能吃上美味烤串啦~	等下你們一結束，就能吃到美味串燒啦~	ゲームが終わったら、おいしい串焼きが食べられるぜ～	이따가 끝나면 맛있는 바베큐를 먹을 수 있을 거야~	We'll have some kebabs hot and ready when you're done~						0	3.2主线剧情
+147	烤串……	串燒……	串焼きか……	바비큐…	Kebabs, huh...						0	3.2主线剧情
+148	如果晚饭是烧烤的话，恩雅她们会准备什么样的饭后水果呢？	如果晚飯是烤肉的話，恩雅她們會準備什麼樣的飯後水果呢？	晩ごはんが串焼きなら、デザートは何が出てくるんだろう。	저녁이 바비큐라면, 엔야 일행은 후식으로 어떤 과일을 준비할까?	If we're having a barbecue tonight, I wonder what fruit Enya's lined up for a healthy snack afterwards.						0	3.2主线剧情
+149	不知为何，在思考这个问题时，我似乎在舒爽清凉的海风中捕捉到了一丝……	不知為何，在思考這個問題時，我似乎在舒爽清涼的海風中捕捉到了一絲……	そんなことを何気なく思っていると、ふと夏っぽい甘い香りが鼻をついた。	왜인지 모르겠지만, 이런 생각을 하고 있으니 시원한 바닷바람 속에서 한 줄기…	As the thought crossed my mind, an ocean breeze swept in...						0	3.2主线剧情
+150	清甜的桃子香气。	清甜的桃子香氣。	綿菓子があったら嬉しいな。	달콤한 복숭아 향이 느껴지는 듯했다.	Carrying the soft, sugary scent of peaches.						0	3.2主线剧情

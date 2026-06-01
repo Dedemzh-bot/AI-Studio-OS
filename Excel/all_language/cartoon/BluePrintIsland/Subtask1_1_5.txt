@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	陷入莫比乌斯之环了呢，修改密码需要登录密码，而密码丢失想登录又需要修改密码。	陷入莫比烏斯之環了呢，修改密碼需要密碼登入，而密碼丟失想登入又需要修改密碼。	困ったな。パスワードを変更するためにはパスワードが必要だけど、そのパスワードを忘れてしまったからパスワードを変更しないといけないってことか。	뫼비우스의 띠에 갇힌 것 같네. 비밀번호를 바꾸려면 로그인을 해야 하고, 비밀번호를 잊어버려서 로그인하려면 비밀번호를 바꿔야 하고.	We're caught in a real Möbius loop. Without the password, we need to change it to log in, but to change the password, we have to log in first.						0	dlc30蓝图岛对话
+page1.2	只好用“那个东西”了。	只好用「那個東西」了。	あれを使うしかないね。	그 물건'을 써야겠네.	Looks like it's time to use "the thing."						0	dlc30蓝图岛对话
+page1.3	安卡希雅拿出一个散发出诡异红光的手柄状物体。	安卡希雅拿出一個散發出詭異紅光的手把狀物體。	アカシアは怪しい赤い光を放つコントローラーを取り出した。	아카시아가 기괴한 붉은 빛을 내뿜는 게임패드 모양의 물건을 꺼냈다.	Acacia pulled out a controller-shaped device, glowing with an eerie red light.						0	dlc30蓝图岛对话
+page1.4	“敌人控制器温和版”，上，下，左，右，前，前，后，后……	「敵人控制器溫和版」，上，下，左，右，前，前，後，後……	名づけて、「敵コントローラー・柔軟版」。上、下、左、右、前、前、後ろ、後ろ……	타깃 조종기 순화 버전', 위, 아래, 왼쪽, 오른쪽, 앞, 앞, 뒤, 뒤…	"Enemy Controller Gentle Version." Up, down, left, right, forward, forward, back, back...						0	dlc30蓝图岛对话
+page1.5	已授予安卡希雅全部操作权限。	已授予安卡希雅全部操作權限。	アカシアに全権限を付与しました。	아카시아 님에게 모든 조종 권한이 부여되었습니다.	All permissions granted to Acacia.						0	dlc30蓝图岛对话
+page1.6	站在轻风广场上的乌尔贡眼睛亮起蓝光，向我们走来！	站在輕風廣場上的烏爾貢眼睛亮起藍光，向我們走來！	そよ風広場に立っていたウルゴンが目を青く光らせて、私たちのほうに向かってきた。	산들 광장에 서 있던 우르곤의 눈에서 푸른빛이 번뜩이더니 우리를 향해 걸어왔다!	Across Breeze Plaza, Ulgun's eyes flickered blue as he started marching toward us!						0	dlc30蓝图岛对话
+page1.7	成功了！	成功了！	やった！	성공했네요!	It worked!						0	dlc30蓝图岛对话
+page1.8	修改密码为……	修改密碼為……	パスワードを変えよっと……	비밀번호 수정 중…	Now I can finally change the password...						0	dlc30蓝图岛对话
+page1.9	安卡希雅熟练地报出了一长串打乱的字符，显然是她经常使用的密码。	安卡希雅熟練地報出了一長串打亂的字元，顯然是她經常使用的密碼。	アカシアはすらすらと長ったらしいパスワードを口にした。彼女が普段使っているものだろうか。	아카시아가 뒤죽박죽인 긴 문자열을 능숙하게 읊었다. 자주 사용하는 비밀번호가 분명했다.	Acacia quickly typed out a long jumble of characters. It was clearly her usual go-to password.						0	dlc30蓝图岛对话
+page1.10	操作错误……新密码不能和原密码一致。	操作錯誤……新密碼不能和舊密碼一致。	変更に失敗しました。新しいパスワードは古いパスワードと異なる必要があります。	작동 오류… 새 비밀번호는 기존 비밀번호와 같을 수 없습니다.	Error. New password cannot be the same as the old password.						0	dlc30蓝图岛对话
+page1.11	呃……	呃……	えっと……	으…	Um...						0	dlc30蓝图岛对话
+page1.12	真巧啊，安卡希雅，你要改的新密码和原来的密码一样呢。	真巧啊，安卡希雅，你要改的新密碼和原來的密碼一樣呢。	ほう。二つのパスワードが一緒だなんて、すごい偶然だな。	이런 우연이 다 있네, 아카시아. 네가 바꾸려는 새 비밀번호가 기존 비밀번호랑 똑같아.	Wow, what are the chances? The new password you wanted to use is exactly the same as the old one.						0	dlc30蓝图岛对话
+page1.13	是啊，怎么会有这么巧的事呢。	是啊，怎麼會有這麼巧的事呢。	そ、そうだね。こういう偶然ってあるんだ。	그러게, 어떻게 이런 우연이 있을 수가 있지.	Yeah, crazy, right?						0	dlc30蓝图岛对话
+page1.14	我心知肚明，装作没放在心上的样子，糊弄过去，刻意偷瞄着安卡希雅。	我心知肚明，裝作沒放在心上的樣子，糊弄過去，刻意偷瞄著安卡希雅。	彼女の企みにはとっくに気づいているけれど、それでも私は何も知らない風を装いつつ、彼女の横顔を盗み見た。	나는 속으로 다 알면서도 신경 쓰지 않는 척하며 얼버무리고는, 아카시아를 슬쩍 훔쳐봤다.	Knowing exactly what was happening, I kept quiet, doing my best to act casual while sneaking glances at Acacia.						0	dlc30蓝图岛对话
+page1.15	我看到安卡希雅向我瞟了一眼，目光中透露着几分躁动的心虚。	我看到安卡希雅向我瞟了一眼，目光中透露著幾分躁動的心虛。	彼女もそわそわした視線を、こっそりこちらに向けていた。	아카시아가 나를 힐끗 쳐다봤는데, 불안한 기색이 느껴지는 눈빛이었다.	I caught her peeking at me, eyes betraying a hint of flustered guilt.						0	dlc30蓝图岛对话

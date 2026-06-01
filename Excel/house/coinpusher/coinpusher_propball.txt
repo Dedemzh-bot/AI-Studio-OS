@@ -1,0 +1,9 @@
+﻿扭蛋球ID	//注释	图标	名字	物品描述	结算计票券	品质	对应道具	标签
+ID	Comment	Icon	Name	Desc	Money	Quality	ActivePropID	Tag
+1	安卡人偶扭蛋球	1545301	house.Coinpusher_PropBallName1	house.Coinpusher_PropBallDesc1	20	3	1	2
+2	茉莉安人偶扭蛋球	1545302	house.Coinpusher_PropBallName2	house.Coinpusher_PropBallDesc2	20	3	2	2
+3	瑟瑞斯人偶扭蛋球	1545303	house.Coinpusher_PropBallName3	house.Coinpusher_PropBallDesc3	13	3	3	2
+4	米娅人偶扭蛋球	1545304	house.Coinpusher_PropBallName4	house.Coinpusher_PropBallDesc4	13	3	4	2
+5	肴人偶扭蛋球	1545305	house.Coinpusher_PropBallName5	house.Coinpusher_PropBallDesc5	13	3	5	2
+6	暴富手枪扭蛋球	1545306	house.Coinpusher_PropBallName6	house.Coinpusher_PropBallDesc6	6	2	6	3
+7	游戏卡带扭蛋球	1545307	house.Coinpusher_PropBallName7	house.Coinpusher_PropBallDesc7	25	4	7	1

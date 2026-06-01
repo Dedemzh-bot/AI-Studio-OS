@@ -1,0 +1,96 @@
+﻿效果ID	备注	附加参数1（释放辅助提示技能ID）	附加参数2（释放准备时间）	物件持续时间(0或不填为永久存在）	使用次数	冷却时间	特殊效果（1技能ID、2蓝图ID、3NPCID）	特殊效果描述Key	特殊效果描述中的数值	分支效果（1技能ID、2蓝图ID、3NPCID）	分支效果描述Key	分支效果描述中的数值
+Id	Common	Param1	Param2	Duration	UseTime	CDTime	SpEffect	SpDesc	SpDescValue	BranchEffect	BranchDesc	BranchDescValue
+11	电磁核爆LV1	3501401	4	12	1	60	{1,3501450}	online.Forbidzone_WeaponSpEffect8	100			
+12	电磁核爆LV2	3501401	4	12	2	50	{1,3501468}	online.Forbidzone_WeaponSpEffect8	112			
+13	电磁核爆LV3	3501401	4	12	2	40	{1,3501470}	online.Forbidzone_WeaponSpEffect8	125			
+21	重枪扫射LV1	3501401	4	7	1	60	{1,3501452}	online.Forbidzone_WeaponSpEffect2	5			
+22	重枪扫射LV2	3501401	4	8	2	60	{1,3501472}	online.Forbidzone_WeaponSpEffect2	6			
+23	重枪扫射LV3	3501401	4	9	2	60	{1,3501473}	online.Forbidzone_WeaponSpEffect2	7			
+31	火焰爆弹LV1	3501401	4	12	1	80	{1,3501447}	online.Forbidzone_WeaponSpEffect8	100			
+32	火焰爆弹LV2	3501401	4	12	2	70	{1,3501462}	online.Forbidzone_WeaponSpEffect8	112			
+33	火焰爆弹LV3	3501401	4	12	2	60	{1,3501465}	online.Forbidzone_WeaponSpEffect8	125			
+41	索敌光束LV1	3501401	4	15	1	60	{1,3501454}	online.Forbidzone_WeaponSpEffect8	100			
+42	索敌光束LV2	3501401	4	15	2	50	{1,3501474}	online.Forbidzone_WeaponSpEffect8	112			
+43	索敌光束LV3	3501401	4	15	2	40	{1,3501476}	online.Forbidzone_WeaponSpEffect8	125			
+51	轨道地毯轰炸LV1	3501401	4	15	1	50	{1,3501424}	online.Forbidzone_WeaponSpEffect8	100			
+52	轨道地毯轰炸LV2	3501401	4	15	2	40	{1,3501425}	online.Forbidzone_WeaponSpEffect8	112			
+53	轨道地毯轰炸LV3	3501401	4	15	2	30	{1,3501426}	online.Forbidzone_WeaponSpEffect8	125			
+61	轨道核弹LV1	3501401	4	10	1	80	{1,3501441}	online.Forbidzone_WeaponSpEffect8	100			
+62	轨道核弹LV2	3501401	4	10	2	70	{1,3501442}	online.Forbidzone_WeaponSpEffect8	112			
+63	轨道核弹LV3	3501401	4	10	2	60	{1,3501443}	online.Forbidzone_WeaponSpEffect8	125			
+71	轨道引力波LV1	3501401	4	14	1	80	{1,3501430}	online.Forbidzone_WeaponSpEffect1	12			
+72	轨道引力波LV2	3501401	4	18	2	70	{1,3501431}	online.Forbidzone_WeaponSpEffect1	16			
+73	轨道引力波LV3	3501401	4	22	2	60	{1,3501432}	online.Forbidzone_WeaponSpEffect1	20			
+81	轨道范围轰炸LV1	3501401	4	7	1	60	{1,3501427}	online.Forbidzone_WeaponSpEffect2	5			
+82	轨道范围轰炸LV2	3501401	4	8	2	50	{1,3501428}	online.Forbidzone_WeaponSpEffect2	6			
+83	轨道范围轰炸LV3	3501401	4	9	2	40	{1,3501429}	online.Forbidzone_WeaponSpEffect2	7			
+91	轨道激光LV1	3501401	4	10	1	60	{1,3501421}	online.Forbidzone_WeaponSpEffect1	8			
+92	轨道激光LV2	3501401	4	12	2	50	{1,3501422}	online.Forbidzone_WeaponSpEffect1	10			
+93	轨道激光LV3	3501401	4	14	2	40	{1,3501423}	online.Forbidzone_WeaponSpEffect1	12			
+101	护卫飞机LV1	3501402	2	40	2	80	{3,4601301}	online.Forbidzone_WeaponSpEffect1	40			
+102	护卫飞机LV2	3501402	2	50	3	70	{3,4601301}	online.Forbidzone_WeaponSpEffect1	50			
+103	护卫飞机LV3	3501402	2	60	3	60	{3,4601301}	online.Forbidzone_WeaponSpEffect1	60			
+111	护卫炮台LV1	3501402	2	12	2	80	{3,4601908}	online.Forbidzone_WeaponSpEffect1	12			
+112	护卫炮台LV2	3501402	2	16	3	70	{3,4601908}	online.Forbidzone_WeaponSpEffect1	16			
+113	护卫炮台LV3	3501402	2	20	3	60	{3,4601908}	online.Forbidzone_WeaponSpEffect1	20			
+121	地雷陷阵LV1	3501401	2	30	2	50	{1,3501458}	online.Forbidzone_WeaponSpEffect8	100			
+122	地雷陷阵LV2	3501401	2	30	3	40	{1,3501480}	online.Forbidzone_WeaponSpEffect8	112			
+123	地雷陷阵LV3	3501401	2	30	4	30	{1,3501483}	online.Forbidzone_WeaponSpEffect8	125			
+131	引力黑洞LV1	3501401	2	17	1	80	{1,3501457}	online.Forbidzone_WeaponSpEffect1	15			
+132	引力黑洞LV2	3501401	2	22	2	70	{1,3501478}	online.Forbidzone_WeaponSpEffect1	20			
+133	引力黑洞LV3	3501401	2	27	2	60	{1,3501479}	online.Forbidzone_WeaponSpEffect1	25			
+134	引力黑洞LV3分支1	3501401	2	27	2	60	{1,3500401}	online.Forbidzone_WeaponSpEffect24	25			
+135	引力黑洞LV3分支2	3501401	2	27	2	60	{1,3500402}	online.Forbidzone_WeaponSpEffect25	25			
+141	机枪LV1	3501402	2	180	1	80	{2,1}	online.Forbidzone_WeaponSpEffect3	300			
+142	机枪LV2	3501402	2	180	2	70	{2,2}	online.Forbidzone_WeaponSpEffect3	400			
+143	机枪LV3	3501402	2	180	2	60	{2,3}	online.Forbidzone_WeaponSpEffect3	500			
+144	机枪LV3分支1	3501402	2	180	2	60	{2,19}	online.Forbidzone_WeaponSpEffect22	500			
+145	机枪LV3分支2	3501402	2	180	2	60	{2,20}	online.Forbidzone_WeaponSpEffect23	500			
+151	血瓶LV1	3501402	2	180	2	50	{2,7}	online.Forbidzone_WeaponSpEffect5	25			
+152	血瓶LV2	3501402	2	180	2	40	{2,8}	online.Forbidzone_WeaponSpEffect5	35			
+153	血瓶LV3	3501402	2	180	3	30	{2,9}	online.Forbidzone_WeaponSpEffect5	50			
+161	子弹箱LV1	3501402	2	14	2	50	{1,3501433}	online.Forbidzone_WeaponSpEffect1	12			
+162	子弹箱LV2	3501402	2	18	2	40	{1,3501434}	online.Forbidzone_WeaponSpEffect1	16			
+163	子弹箱LV3	3501402	2	22	3	30	{1,3501435}	online.Forbidzone_WeaponSpEffect1	20			
+171	榴弹炮LV1	3501402	2	180	1	80	{2,4}	online.Forbidzone_WeaponSpEffect4	120			
+172	榴弹炮LV2	3501402	2	180	2	70	{2,5}	online.Forbidzone_WeaponSpEffect4	150			
+173	榴弹炮LV3	3501402	2	180	2	60	{2,6}	online.Forbidzone_WeaponSpEffect4	180			
+181	无敌罩LV1	3501402	2	14	2	80	{1,3501436}	online.Forbidzone_WeaponSpEffect1	12			
+182	无敌罩LV2	3501402	2	18	2	70	{1,3501437}	online.Forbidzone_WeaponSpEffect1	16			
+183	无敌罩LV3	3501402	2	22	3	60	{1,3501438}	online.Forbidzone_WeaponSpEffect1	20			
+191	轨道腐蚀毒气LV1	3501401	4	8	2	60	{1,3501486}	online.Forbidzone_WeaponSpEffect1	8			
+192	轨道腐蚀毒气LV2	3501401	4	10	2	60	{1,3511415}	online.Forbidzone_WeaponSpEffect1	10			
+193	轨道腐蚀毒气LV3	3501401	4	12	2	60	{1,3511416}					
+201	轨道游走火力网LV1	3501401	4	7	1	60	{1,3501488}	online.Forbidzone_WeaponSpEffect2	5			
+202	轨道游走火力网LV2	3501401	4	8	2	60	{1,3511419}	online.Forbidzone_WeaponSpEffect2	6			
+203	轨道游走火力网LV3	3501401	4	9	2	60	{1,3511420}	online.Forbidzone_WeaponSpEffect2	7			
+211	汽油弹空袭LV1	3501401	4	12	2	40	{1,3501489}	online.Forbidzone_WeaponSpEffect1	12			
+212	汽油弹空袭LV2	3501401	4	15	2	40	{1,3511421}	online.Forbidzone_WeaponSpEffect1	15			
+213	汽油弹空袭LV3	3501401	4	18	2	40	{1,3511422}	online.Forbidzone_WeaponSpEffect1	18			
+221	激光炮台LV1	3501402	4	180	2	60	{2,15}	online.Forbidzone_WeaponSpEffect19	200			
+222	激光炮台LV2	3501402	4	180	2	60	{2,16}	online.Forbidzone_WeaponSpEffect19	250			
+223	激光炮台LV3	3501402	4	180	2	60	{2,17}	online.Forbidzone_WeaponSpEffect19	300			
+224	激光炮台LV3分支1	3501402	4	180	2	60	{2,18}	online.Forbidzone_WeaponSpEffect20	300			
+231	激光网LV1	3501401	4	20	2	60	{1,3501491}	online.Forbidzone_WeaponSpEffect8	400			
+232	激光网LV2	3501401	4	20	2	60	{1,3511425}	online.Forbidzone_WeaponSpEffect8	500			
+233	激光网LV3	3501401	4	20	2	60	{1,3511426}	online.Forbidzone_WeaponSpEffect8	600			
+241	轰炸无人机LV1	3501402	4	15	2	60	{3,4601602}	online.Forbidzone_WeaponSpEffect1	15			
+242	轰炸无人机LV2	3501402	4	15	2	40	{3,4601602}	online.Forbidzone_WeaponSpEffect1	15			
+243	轰炸无人机LV3	3501402	4	15	3	40	{3,4601602}	online.Forbidzone_WeaponSpEffect1	15			
+244	轰炸无人机LV3分支1	3501402	4	15	3	40	{3,4602602}	online.Forbidzone_WeaponSpEffect21	15			
+251	空投补给箱LV1	3501402	4	12	2	30	{1,3501492}	online.Forbidzone_WeaponSpEffect5	30			
+252	空投补给箱LV2	3501402	4	12	2	30	{1,3511427}	online.Forbidzone_WeaponSpEffect5	40			
+253	空投补给箱LV3	3501402	4	12	2	30	{1,3501492}	online.Forbidzone_WeaponSpEffect5				
+261	嘲讽假人LV1	3501401	4	10	2	40	{3,7200003}	online.Forbidzone_WeaponSpEffect1	10			
+262	嘲讽假人LV2	3501401	4	12.5	2	40	{3,7200003}	online.Forbidzone_WeaponSpEffect1	12.5			
+263	嘲讽假人LV3	3501401	4	15	2	40	{3,7200003}	online.Forbidzone_WeaponSpEffect1	15			
+271	榴弹炮塔分支1	3501402	4	180	2	60	{2,13}	online.Forbidzone_WeaponSpEffect9				
+272	榴弹炮塔分支2	3501402	4	180	2	60	{2,14}	online.Forbidzone_WeaponSpEffect10				
+273	重烈爆破分支1	3501401	4	12	2	60	{1,3511403}	online.Forbidzone_WeaponSpEffect12				
+274	重烈爆破分支2	3501401	1	12	2	60	{1,3511403}	online.Forbidzone_WeaponSpEffect11				
+275	广面爆破分支1	3501401	4	12	2	30	{1,3511408}	online.Forbidzone_WeaponSpEffect13				
+276	广面爆破分支2	3501401	4	12	2	30	{1,3511411}	online.Forbidzone_WeaponSpEffect14				
+277	轨道腐蚀分支1	3501401	4	10	2	60	{1,3501495}	online.Forbidzone_WeaponSpEffect15				
+278	轨道腐蚀分支2	3501401	4	10	2	60	{1,3501496}	online.Forbidzone_WeaponSpEffect16				
+279	空投补给箱分支1	3501402	4	180	2	30	{1,3501493}	online.Forbidzone_WeaponSpEffect17				
+280	空投补给箱分支2	3501402	4	180	2	30	{1,3501494}	online.Forbidzone_WeaponSpEffect18				

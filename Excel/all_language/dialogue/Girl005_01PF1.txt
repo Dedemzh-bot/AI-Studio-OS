@@ -1,0 +1,63 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	经过了多轮的测试和修改，阴极科技的新款战术外骨骼“雨燕”，终于要进行公开机动演示了。	經過了多輪的測試和修改，陰極科技的新款戰術外骨骼“雨燕”，終於要進行公開機動展示了。	テストと修正を重ねて、ついにカソードテクノロジーの新しい戦術外骨格「アマツバメ」をお披露目する時がきた。	여러 차례 테스트를 거치고 응용해서 만든 케소드 테크윈의 전술 슈트 '스위프트'가 드디어 오프닝 겸 기동 시연을 하게 됐다.	After many rounds of testing and improvement, Cathode Technologies' newest tactical exosuit, Swift, was finally ready for a public demonstration.						0	
+2	茉莉安被选为这款外骨骼的测试员兼模特，要穿上它进到缓冲区里跑一圈。	茉莉安被選為這款外骨骼的測試員兼模特兒，要穿上它進到緩衝區裡跑一圈。	マリアンはこの外骨格の試着員兼モデルに選ばれ、それを着てバッファーエリアを一周する。	마리안은 전술 슈트의 테스터 겸 모델로 발탁이 돼서 스위프트를 입고 버퍼 구역을 한 바퀴 돌아야 했다.	Marian was chosen as the tester and model of the exosuit, and needed to wear it into the Buffer Sections and run a lap.						0	
+3	我作为分析员，陪同一起来到了现场。	我作為分析員，陪同一起來到了現場。	分析員として、一緒に現場に来た。	분석가로서 마리안을 따라 현장에 같이 도착했다.	I arrived there with her as I was the Adjutant.						0	
+4	军方和专业媒体也来了很多人，这场演示，可能会决定这款外骨骼的市场命运。	軍方和專業媒體也來了很多人，這場演示，可能會決定這款外骨骼的市場命運。	軍隊とマスコミからもたくさんの人が来た。このお披露目は、この外骨格の運命を決めるかもしれない。	유명 언론사와 군 측에 관련된 많은 관계자가 왔다. 본 시연을 통해 전술 슈트의 시장성이 밝혀질 예정이다.	A lot of people from the media and the military came to watch. This demonstration could easily decide the market trajectory of this new gear.						0	
+5	配件准备齐全，各运动关节状态良好，能源100%。今天的演示，一定会为我们拿下一场“晚宴”的呢。	配件準備齊全，各運動關節狀態良好，能源100%。今天的展示一定會成為一場“盛宴”的呢。	アタッチメント完備、各関節良好、エネルギー満タン。今日のお披露目が終わったら、きっと盛大な宴会が開かれるでしょう。	부품 준비 완료. 각 관절의 움직임 상태도 양호. 에너지 상태 100%. 본 스위프트 시연은 고객들에게 만족스러운 결과물을 가져다줄 겁니다.	Accessories all equipped, movement joints in top condition, energy level, 100%. This demonstration will definitely win us some gala invitations.						0	
+6	即使穿着战斗用外骨骼，也无法掩盖茉莉安温和恬静的气质。	即使穿著戰鬥用外骨骼，也無法掩蓋茉莉安溫和恬靜的氣質。	外骨格を着ても、マリアンの穏やかで優しい気質は覆い隠せない。	전투용 전술 슈트를 입었어도 마리안의 온화하고 차분한 분위기는 여전했다.	Even with the combat exosuit on, Marian's gentle and quiet nature was still evident in the way she moved and spoke.						0	
+7	但作为狙击手，为何会被选上展示以超强机动性和超长续航为卖点的外骨骼呢？	但作為狙擊手，為何會被選上展示以超強機動性和超長續航為賣點的外骨骼呢？	でもどうして、高い機動性と長い航続力が売りの外骨格の試着員に、スナイパーのマリアンが選ばれたのだろうか？	그런데 왜 마리안은 저격수로 선발됐음에도 불구하고 뛰어난 기동성과 장기간의 비행시간을 자랑하는 전술 슈트를 선보여야 하는 걸까?	But she's a sniper. Why was she the one chosen to display an exosuit that boasts super maneuverability and long flight time as its draw-cards?						0	
+8	有些担心茉莉安的状态，我决定去给她一点鼓励。	有些擔心茉莉安的狀態，我決定去給她一點鼓勵。	マリアンの調子が少し心配で、励ましてあげることにした。	순간 마리안의 상태가 걱정돼 나는 안부를 물을 겸 그녀를 격려해 주고자 했다.	Feeling a little concerned about Marian, I decided to go give her some encouragement.						0	
+9	啊，分析员你来了啊~	啊，分析員你來了啊~	あ、分析員さん～	아… 분석가님!	Ah, hello Adjutant~						0	
+10	要你百忙之中到场待命真是抱歉。	要你百忙之中到場待命真是抱歉。	お忙しい中お越しいただきありがとうございます。	바쁘신 와중에 현장에 와주셔서 감사드려요.	I'm really sorry to have made you come all the way out here to wait on standby, despite how busy you must be.						0	
+11	有你在，就会觉得很安心呢。	有你在，就會覺得很安心呢。	あなたが来てくれて、すごく安心しました。	그래도 분석가님 때문에 안심이 되네요.	But with you here, I do feel much more at ease.						0	
+b-1											0	
+12	不紧张吗？	不緊張嗎？	緊張しないの？	긴장은 안 돼?	Are you nervous?						0	
+13	紧张？怎么会呢。	緊張？怎麼會呢。	緊張？とんでもないことです。	긴장이요? 설마요.	Nervous? How could I be?						0	
+14	我可是很期待这一天的。	我可是很期待這一天的。	私はこの日をずっと楽しみにしていました。	이날만을 기다려 온걸요.	I've been really looking forward to this day.						0	
+15	嗯？茉莉安会期待这样的任务吗？	嗯？茉莉安會期待這樣的任務嗎？	ん？マリアンはこんな任務が楽しみなのか？	이런 미션을 기대하고 있었다는 건가?	Hm? Was Marian the type to look forward to these sorts of missions?						0	
+16	啊……任务好像要开始了，分析员，我们晚点见。	啊……任務好像要開始了，分析員，我們晚點見。	あ……任務が始まるみたいです。分析員さん、また後ほど。	아… 미션이 곧 시작될 것 같네요. 분석가님, 그럼 나중에 봬요!	Ah... The mission's about to start. Adjutant, I'll see you later.						0	
+17	现场的工作人员开始忙碌了起来，我作为陪同人员，现在只能去最棒的观众席入座了。	現場的工作人員開始忙碌了起來，我作為陪同人員，現在只能去最棒的觀眾席入座了。	現場のスタッフがせわしなく動き始めた。お供として、今は最高の席に着くしかない。	현장에 있는 스태프들은 바쁘게 움직이기 시작했고, 나는 동행인 신분이라 VIP 객석으로 자리를 옮겼다.	The workers onsite began to get busy. As an escort, all I could do now was find the best seat to watch things unfold.						0	
+18	茉莉安在演示中的表现，很快投影在了大屏幕上。	茉莉安在展示中的表現，很快投影在了大螢幕上。	マリアンの姿は、間もなくスクリーンに投影された。	마리안이 시연 중 보여주는 퍼포먼스들은 그 즉시 대형 스크린으로 비춰졌다.	Before long, Marian in her exosuit filled the big screen.						0	
+19	环境良好，雨燕的状态也很出色。	環境良好，雨燕的狀態也很出色。	環境良好、アマツバメの調子もばっちりです。	'내부 환경 양호. 스위프트 상태 매우 출중함.'	Nice internal environment. The Swift is running nicely.						0	
+20	目前速度，103公里每小时。	目前速度，103公里每小時。	現在速度、時速103km。	'현재 시속 103km.'	Current speed of 103 miles per hour.						0	
+21	是单兵战术外骨骼的新纪录。阴极科技的技术力名不虚传。	是單兵戰術外骨骼的新記錄。陰極科技的技術力名不虛傳。	戦術外骨格のスピード新記録を更新した。さすがカソードテクノロジーの技術力。	개인 전술 슈트의 신기록이었다. 케소드 테크윈의 기술은 역시나 명실상부했다.	That's a new record for tactical exosuits. Cathode Technologies wasn't known for its technical prowess for nothing.						0	
+22	茉莉安就仿佛是一只不会停歇的鸟，在缓冲区的断壁残垣之中飞驰。	茉莉安就彷彿是一隻不會停歇的鳥，在緩衝區的斷壁殘垣之中飛馳。	マリアンは疲れを知らない鳥のように、バッファーエリアの廃墟の間を飛んでいる。	마리안은 한 마리의 새처럼 쉬지 않고 버퍼 구역의 훼손된 벽들을 향해 질주했다.	Like a bird that never rests, Marian soared onward, flying through the wall remains in the Buffer Sections.						0	
+23	但我注意到了一个别人大概不会发现的细节——	但我注意到了一個別人大概不會發現的細節——	しかし私はあることに気づいた、他には誰も気づいていないようだが――	하지만 이때 나는 다른 사람이 눈치채지 못할 세밀한 것을 찾아낼 수 있었다.	I picked up on something that most would overlook...						0	
+24	在一些性能展示的环节，茉莉安的动作幅度，比预设的要大许多。	在一些性能展示的環節，茉莉安的動作幅度，比預設的要大許多。	一部の性能を披露するコーナーで、マリアンはいつもより大きく動いていた。	일부 퍼포먼스 세션에서 마리안의 동작 폭이 생각보다 훨씬 컸던 것이다.	In certain performance demonstrations, Marian's movements were much larger than those present.						0	
+25	如果一直这么拼的话……	如果一直這麼拼的話……	このまま張り切っていれば……	만약 지금과 같이 계속해서 질주하면…	If she keeps pushing herself like that...						0	
+26	最远端到达，请控制台给出……	已到達最遠端，請控制台給出……	最遠端到達、ご指示を……	'가장 먼 곳에 도착했습니다. 통제실 지시를…'	Arrived at far end point. Control desk, your...						0	
+27	指……示……	指……示……	くだ……さ……	'지… 시를…'	Your... orders...						0	
+28	…………	…………	…………	……	...						0	
+29	随着声音一点点变得模糊，画面也开始变得浑浊不清。	隨著聲音一點點變得模糊，畫面也開始變得渾濁不清。	マリアンの声が少しずつ聞こえなくなるとともに、画面もぼやけた。	소리가 조금씩 끊기면서 화면도 같이 흐려졌는데…	As her voice became indistinct, the image of her began increasingly murky.						0	
+30	之前最担心的情况发生了——茉莉安所在的区域，发生了泰坦污染……	之前最擔心的情況發生了——茉莉安所在的區域，發生了泰坦汙染……	想定していた最悪の事態が起きた――マリアンのいるエリアで、タイタン汚染が発生したのだ……	예상대로 우려했었던 일이 일어났다. 마리안이 있는 구역에 타이탄 오염이 발생했다.	The thing I'd worried about most had come true. There was Titagen contamination where Marian was...						0	
+31	我立马起身向工作台走了过去，那边已经乱成了一锅粥。	我立刻起身向工作台走了過去，那邊已經亂成了一團。	すぐに立って制御室に向かって歩いた。そちらはもう混乱状態に陥っている。	나는 즉시 일어나 통제실로 갔지만, 마리안이 있던 구역은 이미 만신창이가 되어 있었다.	I stood up immediately and headed to the workstation, which had already become absolute chaos.						0	
+32	怎么回事！还联络不上吗！？	怎麼回事！還聯絡不上嗎！？	どうなってる！連絡はまだ取れないのか！？	무슨 일이야? 아직도 연락이 안 돼!?	What's going on?! Still no contact?!						0	
+33	是雪！该死，这里不是缓冲区吗……	是雪！該死，這裡不是緩衝區嗎……	くそ、キオーンだ！ここはバッファーエリアじゃないのか……	눈이야! 이런… 제기랄… 이곳도 더 이상 버퍼 구역이 아니게 된 건가…	It's snowing! Argh, this is supposed to be the Buffer Sections!						0	
+34	让那些媒体不要再继续拍了，先保证现场的秩序！	叫那些媒體不要再繼續拍了，先確保現場的秩序！	マスコミの人たちを落ち着かせて。まずは現場の秩序を維持して！	더 이상 언론에서 사진을 못 찍게 통제하고, 현장 질서 좀 유지시켜봐!	Get the media to stop filming and settle everyone down!						0	
+35	我们用尽一切办法都无法联系上茉莉安。	我們用盡一切辦法都無法聯繫上茉莉安。	あらゆる手を使ってもマリアンと連絡が取れない。	연락할 수 있는 방법을 모두 동원해 봤지만 무리수였다.	We tried everything possible, but still couldn't contact Marian.						0	
+36	此时只能相信她身为海姆达尔的实力了……	此時只能相信她身為海姆達爾的實力了……	今はヘイムダルとしての彼女の実力を信じるしかないんだ……	온전히 헤임달 신분인 마리안의 실력을 믿을 수밖에 없는 상황이었다.	All I could do was put my hope in the fact that she was a powerful Heimdall Force operative...						0	
+37	在这样焦急的等待之下，远处的天际线上，出现了一抹希望的曙光。	在這樣焦急的等待之下，遠處的天際線上，出現了一抹希望的曙光。	焦りながら待ち続けていると、遠くに見えるスカイラインから、希望の光が差し込んだ。	애타게 기다리고 있었던 찰나, 저 멀리 스카이라인에서 희망의 서광이 비치기 시작했다.	As I waited anxiously, a ray of hope shined out from the distant horizon.						0	
+38	看，那边，她回来了！	看！那邊，她回來了！	見て、あそこ、マリアンが帰ってきた！	저기 좀 봐! 마리안이 돌아왔어!	Look, over there! She's back!						0	
+39	所有的目光，都集中在了那一处。	所有的目光，都集中在了那一處。	全ての視線がそこに集中した。	순간 모든 시선이 그곳으로 향했다.	Everyone's eyes instantly focused on that point.						0	
+40	那只鸟儿穿过危险的雪平安归来。	那隻鳥兒穿過危險的雪平安歸來。	その鳥は危険なキオーンを抜けて無事に帰って来た。	한 마리의 새와 같이 그녀는 위험한 눈을 뚫고 평안히 돌아왔다.	The little bird had flown through the deadly snow and come back safe and sound.						0	
+41	赶快恢复直播！	趕快恢復直播！	早く配信を再開して！	어서 다시 생방송으로 돌려!	Resume the livestream, quick!						0	
+42	雨燕……雨燕太强大了！	雨燕……雨燕太強大了！	つ……強すぎる、すごいぞアマツバメ！	스위프트가… 이렇게까지 대단할 줄이야!	The Swift... The Swift's just incredible!						0	
+43	一声声惊叹响起，军方和媒体的人不约而同地夸赞起了雨燕。	一聲聲驚嘆響起，軍方和媒體的人不約而同地誇讚起了雨燕。	軍隊とマスコミの人たちは期せずしてアマツバメを称賛し始めた。	여기저기서 감탄이 쏟아지기 시작했고, 언론사와 군 측에서는 마치 약속이나 한 듯 스위프트를 칭찬하기 시작했다.	Exclamations of praise rang out from military and media alike.						0	
+44	我对此并不感兴趣，第一时间赶到了茉莉安的身旁。	我對此並不感興趣，第一時間趕到了茉莉安的身旁。	私はそれに構わず、急いでマリアンの傍に駆けつけた。	하지만 난 그들과 달리 전술 슈트에는 일말의 관심도 가지 않았다. 단지 마리안의 신변이 걱정돼 누구보다 먼저 마리안에게 달려갔다.	I wasn't interested in that, though, and rushed straight up to Marian.						0	
+45	她的身上多出了几处明显的伤痕。	她的身上多出了幾處明顯的傷痕。	マリアンの体には明らかな傷がある。	아니나 다를까… 마리안의 몸에는 몇 군데 뚜렷한 치명상들이 있었다.	She had several evident wounds on her body.						0	
+46	但她的表情……却有些亢奋。	但她的表情……卻有些亢奮。	けれどマリアンの表情は……少し興奮しているようだ。	하지만 마리안의 표정은… 왠지 모르게 흥분해 있는 것 같았다.	Yet her face... looked excited.						0	
+b-2											0	
+47	你还好吗……？	你還好嗎……？	大丈夫か……？	괜찮아…?	Are you... ok?						0	
+48	嗯？我啊，完全没问题的呢！	嗯？我啊，完全沒問題的呢！	え？私ですか？全然問題ありません！	네…? 아… 저는 아무 문제 없어요!	Mm? Oh, I'm totally fine!						0	
+b-3											0	
+49	但你的伤……？	但你的傷……？	でもその傷……？	하지만 상처가…	But you're injured...?						0	
+50	这种程度？小意思，还不够猛烈呢。	這種程度？小意思，還不夠猛烈呢。	これですか？大したことではありません。まだまだですよ。	이 정도는 아무 것도 아니에요!	Oh, this? It's nothing. Nowhere near rough enough.						0	
+51	啊，大家都在称赞雨燕，看来我做得还可以，嗯哼哼~	啊，大家都在稱讚雨燕，看來我做得還可以，嗯哼哼~	あ、みんながアマツバメを褒めてくれています。どうやらうまくできたようですね、ふふん～	모두들 스위프트만 칭찬하네요… 제가 그래도 잘 해내긴 했나 봐요. 헤헤헤…	Ah, everyone's praising the Swift. I guess I did pretty well, mm~						0	
+52	可惜有些地方还是稍微保守了，我还能让雨燕更快，更剧烈，更……嘻嘻……	可惜有些地方還是稍微保守了，我還能讓雨燕更快，更劇烈，更……嘻嘻……	ですが加減してしまいました。私はアマツバメをもっと速く、もっと激しく、もっと……ふふ……	아직까지 어떤 부분은 조금 보수적이라 아쉬워요. 좀 더 빠르고 강력하게 보완하면 좋을 것 같은데… 헤헤…	It's a pity some of its parts are too conservative. I could make it so much faster, so much more intense... Hehe...						0	
+53	啊，不好意思分析员，我好像说得有点多了。	啊，不好意思分析員，我好像說得有點多了。	あっ、申し訳ございません。少々喋りすぎてしまいました。	아… 죄송해요. 제가 너무 제 말만 했네요.	Ah, sorry Adjutant. I didn't mean to go on like that.						0	
+54	控制台那边叫我，先失陪了。	控制台那邊叫我，先失陪了。	制御室に呼ばれていますので、お先に失礼いたします。	통제실에서 저를 부르는 것 같아요. 그럼 실례 좀 할게요.	The control desk's calling for me, so please excuse me.						0	
+55	茉莉安说完，对我致意之后，便离开了。	茉莉安說完，對我致意之後，便離開了。	マリアンは言い終えると、私に挨拶して離れた。	마리안은 인사를 하고 급히 자리를 떠났다.	Marian nodded to me and left.						0	
+56	这急促的语言和略带羞涩的脸庞，完全不像平时的茉莉安……	這急促的語言和略帶羞澀的臉龐，完全不像平時的茉莉安……	慌ただしい言葉に恥ずかしさを帯びた顔。いつものマリアンらしくない……	이렇게까지 다급하게 말하고 수줍은 얼굴을 보이는 건 평소 마리안답지 않았다…	Her rushed speech and the hint of embarrassment on her face were really different from how she usually was...						0	
+57	她刚才到底经历了什么？	她剛才到底經歷了什麼？	一体何があったんだ？	도대체 방금 전에 무슨 일이 있었던 거지?	What did she actually go through?						0	
+58	公司那边马上下发了雨燕相关测试数据的分析任务，我只能暂且把茉莉安的情况放在一边，着手处理自己的工作……	公司那邊馬上下發了雨燕相關測試數據的分析任務，我只能暫且把茉莉安的情況放在一邊，著手處理自己的工作……	会社からすぐにアマツバメのテストデータの分析任務を命じられた。一旦マリアンのことは置いて、仕事に手をつけるしかない……	머지않아 회사에서 스위프트 관련 데이터 분석 미션을 내려서, 나는 마리안의 상황을 잠시 접어두고 내 일에 착수할 수밖에 없었다.	The company immediately sent out a mission for analysis of the Swift test data, so I put aside thoughts about Marian for now and set down to work...						0	

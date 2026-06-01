@@ -1,0 +1,48 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	原本我们已经快要追上海拉了。	原本我們已經快要追上海拉了。	もうすぐヒーラに追いつけるところだった。	원래대로면 우리는 이미 헬라를 따라잡았어야 했다.	We moved closer to Hela.						0	
+2	通过投射在脑海中的那张地图，我看到代表海拉的光点与数个相同的光点交汇融合，然后一齐消失。尤弥尔就这样凭空出现……	通過投射在腦海中的那張地圖，我看到代表海拉的光點與數個相同的光點交匯融合，然後一齊消失。尤彌爾就這樣憑空出現……	頭の中に現れた地図では、ヒーラを表している光点が多くの同じ光点と合流して、一斉に消えた。その後、突然ユミルが出てきた……	하지만 머릿속에 투영되는 지도에서는 헬라를 가리키는 점들이 한곳으로 모였다 사라지곤 했다. 그리고 이때마다 근거 없이 이미르가 나타났다…	Through my mental map, I could see the dot of light representing Hela crossing and merging with numerous identical dots, then vanishing in unison. Ymir arrived seemingly out of nowhere...						0	
+3	泰坦究竟是什么形态的存在？我预感继续往下探寻，答案就将在我眼前显现，但……	泰坦究竟是什麼形態的存在？我預感繼續往下探尋，答案就將在我眼前顯現，但……	タイタンとは一体どんな形の存在なのか？探り続ければ、目の前に答えが出てくる予感はあるけど……	타이탄은 도대체 무슨 형태로 존재하는 걸까? 계속해서 추격하면 원하는 답을 알 수 있을 것 같았다. 하지만…	What kind of being was a Titan? I had a feeling the answer would be revealed to me as I continued to investigate, however...						0	
+4	分析员，我建议立刻撤离。现在的任务风险已经远超预期，我们无法再掌握情况。	分析員，我建議立刻撤離。現在的任務風險已經遠超預期，我們無法再掌握情況。	分析員、速やかに撤退することをお勧めします。現在ミッションのリスクは予想をかなり上回っています、もう状況を把握できません。	분석가님, 즉시 철수했으면 해요. 미션의 위험 정도가 저희가 예상했던 것을 훨씬 웃돌아서 상황을 통제하기가 더 어려워졌어요.	Adjutant, I recommend we withdraw immediately. This mission is now far more risky than anticipated, and we can no longer maintain control of the situation.						0	
+b-1											0	
+5	原来的撤离路线已经不能用了，芙提雅正在重新规划路线。	原來的撤離路線已經不能用了，芙提雅正在重新規劃路線。	元の撤退ルートはもう使えない。フリティアが新しいルートを計画しているところだ。	원래 퇴로는 더 이상 사용할 수 없는 상황이에요. 그래서 프티야가 새로운 루트를 찾고 있어요.	Fritia is re-routing because the original withdrawal route can't be used.						0	
+6	“那个东西”在追我们，把我们当成猎物。	“那個東西”在追我們，把我們當成獵物。	「あれ」が私たちを、狩りに来る。	'저 녀석'은 우리를 사냥감 정도로 생각하는 거 같아.	That "thing" is pursuing us and treating us like its prey.						0	
+7	说到那个代指尤弥尔的词汇时，星期三的咬字格外用力。	說到那個代指尤彌爾的詞彙時，星期三的咬字格外用力。	ウェンズデーはユミルの代名詞を口にする時、とりわけ歯ぎしりをしていた。	웬스데이는 이미르를 언급하며 어금니를 꽉 깨물었다.	Wednesday put special emphasis on the word referring to Ymir.						0	
+8	它出现的位置刚好封堵了撤离路线。	它出現的位置剛好封堵了撤離路線。	奴が現れた位置はちょうど、撤退ルートを遮った。	녀석이 퇴로를 완전히 차단했어.	It keeps blocking the withdrawal route wherever it appears.						0	
+9	撤离路线？！稍等稍等！正在重新规划路线！	撤離路線？！稍等稍等！正在重新規劃路線！	撤退ルート！？ちょっと待ってね！今すぐルートを再計画する！	퇴로를 차단했다고?! 그럼 새로운 루트를 알아볼 테니 잠깐만 기다려봐!	The withdrawal route!? Please wait a moment! We're re-routing!						0	
+10	芙提雅就像触发了什么关键词一般，头也不抬地回答，手指依然在虚拟键盘上快速敲击。	芙提雅就像觸發了什麼關鍵詞一般，頭也不抬地回答，手指依然在虛擬鍵盤上快速敲擊。	フリティアは何かキーワードで起動させられたように、顔を上げずに答えて、指先で仮想キーボードを素早く叩いた。	프티야는 무슨 키워드를 건드린 듯 고개도 들지 않고 대답했고, 가상 키보드를 이어서 미친 듯이 두드리기 시작했다.	Fritia responded without raising her head, as if some keyword had been triggered, her fingers continuously tapping on the virtual keyboard.						0	
+11	咦？刚刚……说到了什么？	咦？剛剛……說到了什麼？	えっと？今……何を言ってたっけ？	응? 근데… 방금 어디까지 이야기했지?	Huh? What did... I just say?						0	
+12	那么，“埃达”又会如何应对呢？不过……	那麼，“埃達”又會如何應對呢？不過……	では、「エッダ」にはどのように対応する？しかし……	'에다'는 앞으로 어떻게 응답해 올까? 하지만 지금 상황을 보면…	So, how would "Edda" respond? However...						0	
+13	作为海姆达尔部队的分析员，我仍然下达了撤退的命令。	作為海姆達爾部隊的分析員，我仍然下達了撤退的命令。	ヘイムダル部隊の分析員として、私は撤退の命令を出した。	헤임달 부대를 책임지는 분석가로서 철수 명령을 내려야만 했다.	As the Heimdall Force's Adjutant, I issued an order to withdraw.						0	
+14	分析员，已经安排好接应人员，主要分为两组，火力掩护小组和医疗小队。	分析員，已經安排好接應人員，主要分為兩組，火力掩護小組和醫療小隊。	分析員、既に迎えのメンバーを手配しました。主に火力支援チームと医療チームの2つです。	분석가님, 저희를 서포트할 수 있도록 화력 지원과 의료 지원을 더 요청했습니다.	Adjutant, a combat squad and a medical squad have been assembled to meet our team.						0	
+b-2											0	
+15	麻烦你了。	麻煩你了。	ああ、お疲れ。	알겠습니다. 고마워요.	Thank you.						0	
+16	他们会在那处被掘开的隧道内等待接应……	他們會在那處被掘開的隧道內等待接應……	彼らは掘られたトンネルの中で待機する予定です……	지원부가 개척된 터널에서 저희를 기다리고 있을 겁니다.	They'll be waiting for us in that cleared tunnel...						0	
+17	抱歉，突然有通讯进来。	抱歉，突然有通訊進來。	すみません、通信が入ってきました。	잠시만요… 누가 통신 연결을 요청했어요.	Excuse me, there's a call coming in.						0	
+18	姬辰星忽然中断了谈话，神情微微变化，特意走出几步才接通通讯。	姬辰星忽然中斷了談話，神情微微變化，特意走出幾步才接通通訊。	姫辰星はいきなり会話を止めて、顔色を少し変えた。わざと数歩離れてから通信に出た。	수성은 순간 말을 멈추더니, 몇 발자국 물러나 통신 연결을 시도했다.	Ji Chenxing abruptly ended the conversation. Her expression changed slightly, and she walked a few feet away before answering the call.						0	
+19	喂，是。我正在执行任务……	喂，是。我正在執行任務……	もしもし、はい。今任務中です……	네… 네… 지금 미션 수행 중입니다…	Hello, yes. I'm on a mission...						0	
+20	也许是不想让我听到的内容，所以我没有继续听下去。	也許是不想讓我聽到的內容，所以我沒有繼續聽下去。	私に聞かれたくない内容かもしれないから、その後は聞かなかった。	조심스럽게 말하는 모습이 마치 들으면 안 될 것 같은 내용이라 더 이상 신경 쓰진 않았다.	Perhaps it was something she didn't want me to hear, so I stopped listening.						0	
+21	时间一分一秒过去，泰坦污染伴随尤弥尔而来，歌唱者已经报警数次。所有人都做好了撤离准备。	時間一分一秒過去，泰坦汙染伴隨尤彌爾而來，歌唱者已經警報數次。所有人都做好了撤離準備。	時間が経つにつれて、タイタン汚染を伴ってユミルが接近してきた。シンガーは何度も警報を鳴らしており、全員撤退準備ができている。	하지만 시간이 지나며 타이탄 오염 수치는 이미르를 따라 점점 높아지고 있었고… 코러스 시스템도 여러번 경고를 해왔다. 모두 철수 준비를 마친 상황이다.	As time passed, Ymir brought Titagen with it, and the Chorus System repeatedly sounded an alarm. Everyone was ready to withdraw.						0	
+22	姬辰星一反常态，仍然没有结束通讯的意思，反而好像和通讯对象争论了起来。	姬辰星一反常態，仍然沒有結束通訊的意思，反而好像和通訊對象爭論了起來。	姫辰星は普段の様子と異なり、通信を終了しようとせず、むしろ相手と口論を始めたようだ。	그럼에도 수성은 통신을 끊을 기미를 보이지 않았고, 오히려 상대방하고 말다툼을 하고 있는 것 같았다.	Strangely, Ji Chenxing appeared to be arguing with the person she was speaking with, rather than concluding the call.						0	
+23	实在无法继续等待时，我走近姬辰星准备催促她一起撤离。	實在無法繼續等待時，我走近姬辰星準備催促她一起撤離。	もう待っていられず、私は撤退を促そうと姫辰星に近寄った。	더 이상 지체하면 안될 것 같아 나는 수성한테 다가갔다.	When I realized I couldn't wait any longer, I approached Ji Chenxing and urged her to leave with us right away.						0	
+24	不，这种事情我无法接受！	不，這種事情我無法接受！	いや、そんなことは納得できません！	아니요. 이건 절대로 이행할 수 없습니다!	No, I refuse to accept this!						0	
+25	无论是从概率还是从双方战力对比来说，这基本等同于……那种可能性太渺茫了！	無論是從機率還是從雙方戰力對比來說，這基本等同於……那種可能性太渺茫了！	確率的にも、双方の戦力的にも、これはただの……その可能性は低すぎます！	확률적으로나 양측 전투력을 비교해 보면… 가능성이 너무 희박해요!	It's inconceivable. We don't have the strength to confront the aggressor...						0	
+26	另一方面，难道不用考虑陶董的意见吗？	另一方面，難道不用考慮τ董的意見嗎？	τさんの意見は考慮しないのですか？	그리고, τ 대표님의 의견은 고려하지 않아도 되는 건가요?	Do we not have to take Director τ's opinion into account?						0	
+27	我会服从命令！那仅仅是因为……	我會服從命令！那僅僅是因為……	命令には従います！だとしても、理由が……	명령에 불복종하는 게 아닙니다! 저는 단지…	I will comply with the order, but only because...						0	
+28	我走来时，她刚好挂断了通讯。	我走來時，她剛好掛斷了通訊。	私が近くに来た時、彼女はちょうど通信を切った。	내가 가까이 다가갔을 때, 수성도 통화를 마쳤다.	I walked up to her just as she hung up.						0	
+29	分析员……	分析員……	分析員……	분석가님…	Adjutant...						0	
+30	我第一次在姬辰星脸上看到了不一样的波澜。	我第一次在姬辰星臉上看到了不一樣的波瀾。	初めて姫辰星の表情が変わるさまを見た。	수성의 표정이 심상치 않아 보인다.	For the first time, I noticed a distinct glimmer in Ji Chenxing's eyes.						0	
+31	我……很抱歉，我对海姆达尔的大家都很抱歉。	我……很抱歉，我對海姆達爾的大家都很抱歉。	私……すみません、ヘイムダルの皆様にお詫び申し上げます。	헤임달 대원분들… 뭐라 할 말이 없네요.	I... apologize to the entire Heimdall Force.						0	
+32	但那种异样的波澜转瞬即逝，她随之又恢复了那副公事公办的态度。	但那種異樣的波瀾轉瞬即逝，她隨之又恢復了那副公事公辦的態度。	しかし、その異様な表情はすぐに消えた。彼女はまた普段の事務的な態度に戻った。	하지만 심상치 않은 표정도 잠시… 그녀는 냉정함을 다시 되찾는다.	But that peculiar glimmer faded in an instant, and she returned to her usual matter-of-fact expression.						0	
+33	我们必须尝试接触尤弥尔，这是来自董事会的命令。	我們必須嘗試接觸尤彌爾，這是來自董事會的命令。	私たちはユミルに接触することを試さなければなりません。これは理事会からの命令です。	이미르와 접촉해야 할 것 같습니다. 방금 이사회에서 내린 결정입니다.	We must attempt to approach Ymir. This is an order from the Board.						0	
+b-3											0	
+34	接触尤弥尔……	接觸尤彌爾……	ユミルに接触……	이미르와의 접촉이라…	Approach Ymir...						0	
+35	尤弥尔第一次展露出知性，是非常宝贵的研究机会。因此……撤离计划取消，如果有必要，我会接管指挥权。	尤彌爾第一次展露出知性，是非常寶貴的研究機會。因此……撤離計劃取消，如果有必要，我會接管指揮權。	ユミルが知性を見せたのは初めてなので、すごく貴重な研究機会だと。そのため……撤退計画は取り消すことになりました。必要な時は、私が指揮権を引き継ぎます。	이미르가 지성을 보인 건 처음이라 연구 가치가 있을 것 같다고 합니다. 철수 계획은 일단 취소하고, 필요하면 제가 지휘권을 이어받도록 하죠.	Ymir has shown signs of consciousness for the first time, so this is a valuable research opportunity. The withdrawal plan has therefore been canceled, and I will assume leadership if necessary.						0	
+36	我既没有感到愤怒，也没有感到欣喜。只感觉这是令人无可抵抗、无从挣扎，由“埃达”所编织而出的既定之命。	我既沒有感到憤怒，也沒有感到欣喜。只感覺這是令人無可抵抗、無從掙扎，由“埃達”所編織而出的既定之命。	怒りも、喜びも感じない。これはただ、私には抗いようもない、「エッダ」に定められた運命なのだ。	난 분노도, 기쁨도 느껴지지 않았다. 단지 거스를 수 없는 운명처럼, '에다'가 정해준 운명과 같이 느껴졌다.	I wasn't angry or happy. I simply had the impression that "Edda" had woven a compelling and inescapable destiny.						0	
+37	不由再次回想起幻影在耳边的那些低语。	不由再次回想起幻影在耳邊的那些低語。	ふと、幻影が耳元で囁いた言葉を再び思い出した。	환영이 귓가에 속삭이던 말이 다시 떠올랐다.	I couldn't help but remember the phantom's whispers in my ear.						0	
+38	那不是我“决定撤退”就能够逃脱的结局。而我也做好了相应的觉悟。	那不是我“決定撤退”就能夠逃脫的結局。而我也做好了相應的絕悟。	優勝なんて、簡単よ。あたしたちの差は、努力だけで縮むものじゃないの。これは、「才能」っていうの！	어차피 내가 '철수 결정'을 한다고 해서 피할 수 있는 게 아니었다. 내게는 선택권이 없었다.	It was not an ending from which I could decide to withdraw. I made up my mind.						0	
+39	分析员，你的回应是？	分析員，你的回應是？	分析員、あなたの答えは？	분석가님, 어떻게 하시겠어요?	What's your answer, Adjutant?						0	
+b-4											0	
+40	就按照你说的做。	就按照你說的做。	あなたの計画通りにしよう。	수성 님 말대로 따를게요.	I'll do as you say.						0	
+41	姬辰星点了点头，面无表情。但我从这个简单的动作中，看到了沉重的凝滞。她似乎希望我不要答应？	姬辰星點了點頭，面無表情。但我從這個簡單的動作中，看到了沉重的凝滯。她似乎希望我不要答應？	姫辰星は無表情で頷いた。しかしその単純な動作には間が置かれ、重い感じがした。もしかして、私に拒絶してほしかったのか？	수성은 덤덤하게 고개를 끄덕였다. 마음이 무거워 보이는 것 같았고, 내면으로는 나의 반대를 원하는 것 같다.	Ji Chenxing nods, her face expressionless. However, I perceived the rigidity in this simple gesture. She appeared to be hoping that I would refuse.						0	
+42	那么，请你向海姆达尔部队下令。	那麼，請你向海姆達爾部隊下令。	では、ヘイムダル部隊に命令を出してください。	그럼 헤임달 부대에게 명령을 내려주시죠.	Then please issue this order to the Heimdall Force.						0	

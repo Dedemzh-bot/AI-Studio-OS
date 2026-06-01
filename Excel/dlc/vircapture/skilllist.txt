@@ -1,0 +1,27 @@
+技能ID	备注	BuffId	类型 0:只做展示 1：Modifier 2:Skill	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	名字key	描述key	描述中的数值	描述备注	技能分组	分组备注	升级消耗配置	采用特殊攻击	最大等级	技能互斥
+Id	Common	BuffId	Type	Color	I18n	Desc	DescValue	DescCommon	Group	GroupCommon	CostId	UseSPAtk	MaxLevel	MutexID
+1	强，无敌	5000043	2	4	vircapture.skill_name_03	vircapture.skill_desc_03	{{1.5},{1.6},{1.7},{1.9},{2.1},{2.5}}		{1,2}		1		6	1
+2	坚持治疗	5000056	2	4	vircapture.skill_name_05	vircapture.skill_desc_05	{{0.5},{0.55},{0.6},{0.7},{0.8},{1}}		{1,2}		1		6	2
+3	嗨铁鸭子	5000047	2	4	vircapture.skill_name_14	vircapture.skill_desc_14	{{10},{11},{12},{14},{16},{20}}		{1,2}		1		6	3
+4	燃起来了	5000048	2	4	vircapture.skill_name_15	vircapture.skill_desc_15	{{10},{11},{12},{14},{16},{20}}		{1,2}		1		6	4
+5	临时主角	5000056	1	4	vircapture.skill_name_21	vircapture.skill_desc_21	{{3},{3.5},{4},{5},{6},{8}}		{1,2}		1		6	5
+6	巴萨卡！	5000046	2	4	vircapture.skill_name_13	vircapture.skill_desc_13	{{1},{1.1},{1.2},{1.4},{1.6},{2}}		{1,2}		1		6	6
+7	碎碎冰	5000035	2	4	vircapture.skill_name_07	vircapture.skill_desc_07	{{100,1},{110,1.1},{120,1.2},{140,1.4},{160,1.6},{200,2}}		{1,2}		1	1	6	7
+8	挤一挤	5000037	2	4	vircapture.skill_name_08	vircapture.skill_desc_08	{{2},{2.2},{2.4},{2.8},{3.2},{4}}		{1,2}		1		6	8
+9	粉碎机	5000039	2	4	vircapture.skill_name_09	vircapture.skill_desc_09	{{5},{5.5},{6},{7},{8},{10}}		{1,2}		1	1	6	9
+10	在影子里	5000033	2	4	vircapture.skill_name_01	vircapture.skill_desc_01	{{20},{22},{24},{28},{32},{40}}		{1,2}		1	1	6	10
+11	爆裂射手	5000034	2	4	vircapture.skill_name_02	vircapture.skill_desc_02	{{60},{65},{70},{82.5},{95},{120}}		{1,2}		1	1	6	11
+12	布防	5000045	2	4	vircapture.skill_name_06	vircapture.skill_desc_06	{{3},{3.5},{4},{5},{6},{8}}		{1,2}		1		6	12
+13	玻璃大炮	5000052	2	4	vircapture.skill_name_19	vircapture.skill_desc_19	{{20},{21},{22},{24},{26},{30}}		{1,2}		1		6	13
+14	宅心“人”厚	5000053	2	4	vircapture.skill_name_20	vircapture.skill_desc_20	{{20},{21},{22},{24},{26},{30}}		{1,2}		1		6	14
+15	反弹反弹	5000059	1	4	vircapture.skill_name_12	vircapture.skill_desc_12	{{500},{550},{600},{700},{800},{1000}}		{1,2}		1		6	15
+16	最后的防御	5000042	2	4	vircapture.skill_name_10	vircapture.skill_desc_10	{{10},{11},{12},{14},{16},{20}}		{1,2}		1		6	16
+17	最后一击	5000041	2	4	vircapture.skill_name_11	vircapture.skill_desc_11	{{1000},{1100},{1200},{1400},{1600},{2000}}		{1,2}		1	1	6	17
+18	十年功力	5000049	2	4	vircapture.skill_name_17	vircapture.skill_desc_17	{{1},{2},{3},{5},{7},{10}}		{1,2}		1		6	18
+19	轻轻敲醒	5000050	2	4	vircapture.skill_name_16	vircapture.skill_desc_16	{{20},{19},{18},{16},{14},{10}}		{1,2}		1		6	19
+20	召雷	5000060	2	4	vircapture.skill_name_23	vircapture.skill_desc_23	{{1},{1.1},{1.2},{1.4},{1.6},{2}}		{1,2}		1		6	20
+21	吸引火力	5000062	2	4	vircapture.skill_name_24	vircapture.skill_desc_24	{{10},{11},{12},{14},{16},{20}}		{1,2}		1		6	21
+22	崩崩鼓手	5000063	2	4	vircapture.skill_name_25	vircapture.skill_desc_25	{{50},{55},{60},{70},{80},{100}}		{1,2}		1	1	6	22
+23	移动电源	5000067	2	4	vircapture.skill_name_26	vircapture.skill_desc_26	{{1,1},{1.1,1.1},{1.2,1.2},{1.4,1.4},{1.6,1.6},{2,2}}		{1,2}		1		6	23
+24	只打精锐	5000065	2	4	vircapture.skill_name_27	vircapture.skill_desc_27	{{10},{11},{12},{14},{16},{20}}		{1}		1		6	100
+25	收割	5000066	2	4	vircapture.skill_name_28	vircapture.skill_desc_28	{{10},{11},{12},{14},{16},{20}}		{2}		1		6	100

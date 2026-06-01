@@ -1,0 +1,120 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	上传完最后一份报告，我伸了个大懒腰。	上傳完最後一份報告後，我伸了個大懶腰。	最後のレポートをアップロードしたあと、私は大きく伸びをした。	난 마지막 보고서를 업로드하고 쭉 기지개를 켰다.	I did a deep stretch after uploading my last report.						0	
+2	几天连轴转的任务让我多少有点吃不消了，队里其他人还能交替出任务，基本上就我一个次次都必须在场。	連續好幾天的任務讓我多少有點吃不消了，隊裡其他人還能輪流出任務，然而就只有我一個必須每次都在場。	数日間の連続ミッションに少し疲れていた。他の隊員たちは交代して任務に出られるが、基本、私は毎回出なければならない。	며칠 동안 밤낮없이 이어지는 미션으로 기진맥진했다. 팀의 다른 대원들은 미션을 교대할 수 있었지만, 그에 반해 난 거의 매번 미션에 임해야 했다.	Back-to-back missions over the past few days had left me drained. Other operatives on the force could take turns going on missions, but I had to be there every single time.						0	
+3	我揉了下已经松不开的眉心，哎，还是去天台吹吹风吧。	我揉了下已經皺成一團的眉頭，唉，還是去樓頂吹吹風吧。	凝り固まった眉間を揉みながら、屋上に行って風に当たろうと思った。	난 한껏 찌푸려진 미간을 문질렀다. 휴, 옥상에 가서 바람이나 쐬어야겠다.	I rubbed my impossibly tense brow, deciding that I'd better head to the roof and get some fresh air.						0	
+4	这个季节的夜风比我想象的冷些，我缩了缩脖子往外走，发现夜空里除了半边云整体也算晴朗，还真来对了。	這個季節的晚風比我想像的還冷，我縮了縮脖子往外走，發現夜空中除了些許雲之外還算晴朗，真是來對了。	この季節の夜風は私が想像していたよりも寒く、私は首を縮めて外に出た。夜空を見ると、雲が少なく晴れていることに気づいた。なんという素晴らしいタイミングだ。	이 계절의 밤바람은 생각보다 차가웠다. 몸을 움츠린 채 바깥으로 나가자, 절반 정도 드리워진 구름을 빼고는 전체적으로 맑은 밤하늘이 보였다. 나오길 정말 잘했다.	The nighttime breeze was colder than I thought it would be. I shrank down into my shoulders and walked outside, realizing that the night sky was mostly clear apart from a few clouds. It seemed like I made the right decision.						0	
+5	我记不清上一次一个人望着天空是什么时候了，突然感觉这样的清闲越来越珍贵了。	已經想不起來上次一個人仰望天空是什麼時候了，突然感覺這樣的閒暇時光越來越珍貴了。	前回一人で空を眺めたのはいつだったか、思い出せない。こんな平和な時間が、ますます貴重に感じる。	마지막으로 혼자 하늘을 바라본 게 언제인지 기억조차 나지 않았다. 문득 이런 여유가 소중하게 느껴졌다.	I couldn't remember the last time I looked up at the sky alone. I suddenly began to feel like it was becoming harder and harder to find time to relax.						0	
+6	分析员？	分析員？	分析員さん？	분석가님?	Adjutant?						0	
+7	我朝声音的来源望去，茉莉安正站在天台的栏杆旁边，她的身旁架着一个巨大的望远镜，和一台相机，看上去似乎都挺贵。	我朝聲音的來源望去，茉莉安正站在樓頂的欄杆旁邊，她的身旁架著一個巨大的望遠鏡和一台相機，看上去好像都滿貴的。	声のほうを見ると、マリアンが屋上の手すりのそばに立っていた。彼女の近くには巨大な望遠鏡とカメラが置かれていた。どれも高価そうだ。	소리가 들리는 쪽을 쳐다보니 마리안이 옥상 난간 옆에 서 있었다. 그녀 옆에는 커다란 망원경과 카메라가 세워져 있었는데, 꽤 값비싸 보였다.	I glanced over at the source of the voice. Marian was standing at the railing on the roof. A huge telescope and a camera were set up next to her, both of which looked really expensive.						0	
+8	分析员也是来看星星的吗？	分析員也是來看星星的嗎？	分析員さんも、星を見に来たのですか？	분석가님도 별 보러 오셨어요?	Are you here to look at the stars too, Adjutant?						0	
+b-1											0	
+9	你是来看星星的？	你是來看星星的？	星……？	그러는 넌 별 보러 온 거야?	Is that what you're doing?						0	
+10	对，来看象限仪座流星雨，大概还有一个小时就要开始了。	對，來看象限儀座流星雨，大概還有一個小時就要開始了。	ええ、私はしぶんぎ座流星群を見に来ました。あと1時間ほどで見られるはずです。	네, 사분의자리 유성우를 보러 왔어요. 시작하려면 한 시간 정도 기다려야 할 것 같아요.	Yeah, I want to watch the Quadrantid meteor shower. It's going to start in an hour.						0	
+b-2											0	
+11	我怎么不知道你还有这爱好？	我怎麼不知道你還有這愛好？	そんな趣味があるなんて知らなかったよ。	네가 이런 취미를 가지고 있는지 몰랐어. 왜 여태 몰랐을까?	I didn't know you enjoyed stargazing.						0	
+12	嗯……是的，我是第一次。	嗯……是的，我是第一次。	その……はい、私も初めてです。	음… 맞아요, 왜냐하면 저도 처음이거든요.	Well... it's actually my first time.						0	
+13	家族派人送来了我们家最新的产品，正好试试功能。	家族派人送來了我們家最新的產品，正好試試功能。	家族から最新の製品が届きましたので、ちょうど試してみようと思いまして。	이번에 집에서 회사의 최신 제품을 보내줘서, 지금 기능을 확인해 보려고요.	My family had someone deliver our newest product to the base. Might as well test it out.						0	
+14	茉莉安望着身旁的望远镜解释，顺带看了眼终端确认时间。	茉莉安看著身旁的望遠鏡說道，還順便看了眼終端確認時間。	マリアンは望遠鏡をのぞきながら説明し、端末で時間を確認した。	마리안이 옆에 있는 망원경을 보고 설명하면서 단말기로 시간을 확인했다.	Marian looked over at the telescope next to her as she explained. She then checked the time on her terminal.						0	
+15	这个相机也是同一天送来的，所以我想试试能不能拍星轨图。	這個相機也是同一天送來的，所以我想試試能不能拍星軌照。	このカメラも同じ日に届いたので、星の軌跡を撮影できるか試してみたいと思ったんです。	망원경과 같이 보낸 이 카메라로 별의 궤도를 찍는 것도 시험해 보고 싶었어요.	This camera came on the same day, so I wanted to try to take some star trail pictures.						0	
+16	星轨？那她来了挺久了吧。	星軌？那她來這應該也有一段時間了吧。	星の軌跡？それって確か、長時間かけて撮影しないと見られないはずだ。	별의 궤도라고? 그렇다면 여기 온 지 한참 된 모양이다.	Star trails? She must have been waiting there for a while.						0	
+b-3											0	
+17	你天黑前就来这里准备了吧？	你天黑前就來這裡準備了吧？	暗くなる前からここで準備をしていたのか？	날이 저물기 전부터 여기 와서 준비한 거야?	Did you come up here before it got dark to get everything ready?						0	
+18	下午就来了，因为是第一次使用，就早点来调试设备了。	下午就來了，因為是第一次使用所以就早點來調整設備了。	はい、午後ずっと。初めてだったので、早めに来て機材の調整をしていました。	오후에 왔어요, 처음 사용하는 거라 일찍 와서 장비를 세팅해 놓으려고요.	I got here in the afternoon. It was my first time using the equipment, so I came early to set everything up.						0	
+19	所以她是在这里吹了一下午冷风，直到现在。	所以她是在這裡吹了一下午的冷風直到現在。	ということは、彼女は午後からずっとここで冷たい風を浴びていたということか？	그녀는 오후부터 지금까지 여기서 찬 바람을 쐬고 있었던 것이었다.	So she had been out here in the cold all afternoon long.						0	
+b-4											0	
+20	冷吗？	冷嗎？	寒くないか？	춥지 않아?	Are you cold?						0	
+21	一直忙着准备相机和望远镜，就没觉得……阿嚏！	一直在忙著準備相機和望遠鏡，就不覺得……哈啾！	カメラと望遠鏡の準備が思いのほか忙しくて、寒いとは感じま……っくしゅ！	카메라와 망원경을 세팅하느라 바빠서 추운 줄 몰랐… 에취!	I was busy setting up my camera and telescope, so I didn't really notic— Achoo!						0	
+22	我第一次看见茉莉安打喷嚏，一向注重形象的阴极科技家的千金，刚刚在我面前打了个喷嚏，我感觉是除她家人以外唯一看见过她如此“失态”的人。	我第一次看到茉莉安打噴嚏，一向注重形象的陰極科技家的千金剛剛在我面前打了個噴嚏，我感覺我是除了她家人之外，唯一看見過她如此「失態」的人。	マリアンがくしゃみをするのを初めて見た。常に礼儀正しいカソードテクノロジーのご令嬢が、私の前で思わず素のくしゃみをこぼした。	마리안이 재채기하는 모습은 처음 본다. 항상 이미지를 중시하는 케소드 테크윈 가문의 딸이 방금 내 앞에서 재채기를 했다. 난 그녀의 가족 이외에 그녀의 이런 '편한 모습'을 본 유일한 사람일지도 모른다.	It was the first time I saw Marian sneeze. The heiress of Cathode Technologies, who was constantly concerned with maintaining her image, had just sneezed in front of me. I guessed that I was the only person outside of her family who had ever seen her "slip" like that.						0	
+23	非常抱歉，我不是故意的。	非常抱歉，我不是故意的。	ごめんなさい、失礼いたしました。	정말 죄송해요, 일부러 그런 건 아니에요.	I'm so sorry. I didn't mean to do that.						0	
+24	我趁着她慌张解释的时候，脱下外套搭在她肩上。	我趁著她慌忙解釋的時候，脫下外套罩在她肩上。	彼女が慌てて釈明している間に、私は上着を脱いで、そっと彼女の背にかけてあげた。	난 그녀가 당황하는 사이에 외투를 벗어서 어깨에 걸쳐주었다.	As she was frantically explaining herself, I took off my jacket and wrapped it around her shoulders.						0	
+25	这个……	這個……	これは……	이건…	Oh, uh...						0	
+b-5											0	
+26	衣服肯定有些大，先将就一下。	衣服肯定有些大，先將就一下。	少し大きいが、とりあえず着ていなさい。	옷이 좀 크겠지만 일단 입고 있어.	I know it's a bit big on you. Just make do for now.						0	
+27	我不是这个意思！我……	我不是這個意思！我……	べ、別にそういう意味では！私は……	그런 뜻이 아니라! 전…	That's not what I meant! I...						0	
+b-6											0	
+28	穿着。	穿著。	着てなさい。	입어.	Wear it.						0	
+29	好、好的。	好、好的。	は……はい。	아, 알겠어요.	O—Okay.						0	
+30	我们突然都不说话了，只有簌簌的风声灌进耳朵，我余光扫了下周围，试图找个话题。	我們突然都沉默了下來，只有呼呼的風聲在耳旁呼嘯。我用餘光掃了下周圍，試圖找個話題。	急に私たちは無言になり、風の音だけが流れた。私は辺りを見回し、話題を探した。	우리는 갑자기 말이 없어졌다. 휙휙 거리는 바람 소리만이 귓가에 들릴 뿐이었다. 난 곁눈질로 주위를 둘러보며 할 말을 찾고 있었다.	Our conversation suddenly stopped, and only the sound of wind filled my ears. My gaze shifted around as I tried to think of something to say.						0	
+b-7											0	
+31	城市里还看得见星星吗？今天还有云。	城市內還看得見星星嗎？而且今天還有雲。	都会でもまだ星が見えるのかな？今日は雲もあるし。	도시에서 아직도 별이 보여? 오늘은 구름도 있는데.	Can you still see the stars from the city? There are some clouds today.						0	
+32	能看见不少，天气预报也说到了深夜云会散去，虽然和山上不能比，但是公司大楼已经是这附近最高的建筑物了。	其實能看見不少，天氣預報也說到了深夜雲會散去，雖然無法和山上比，但是公司大樓已經是這附近最高的建築物了。	たくさん見えると思います。天気予報でも、夜になれば雲が消えると言っていました。山の上にはかないませんが、会社のビルはこの辺りでは最も高い建物ですから。	꽤 많이 보여요, 일기예보에서도 늦은 밤에는 구름이 걷힐 거라고 했어요. 산과는 비교가 안 되지만, 회사 빌딩이 이 근방에서 가장 높은 건물이기도 하고요.	Yeah, I should be able to see a lot. And according to the weather forecast, the clouds should disperse a little later. It's not as good as the mountains, but this is still the tallest building in the area.						0	
+33	而且，随时都可能有任务，我不能请假去太远的地方。	而且，隨時都有可能要出任務，我不能請假去太遠的地方。	それに、いつミッションが入るか分かりませんから、遠くには行けませんし。	게다가 미션이 언제 내려올지 모르기 때문에 휴가를 내고 멀리 갈 수도 없고요.	We could have a mission at any time, so I can't take time off and go somewhere farther away.						0	
+b-8											0	
+34	说得也是。	說得也是。	そうだな。	그렇긴 해.	Fair point.						0	
+35	好不容易能休息会儿的我，对她的话无比感同身受。	好不容易能休息會一下的我，對她的話無比感同身受。	あまり休みを取れない私は、彼女の言葉に共感した。	간신히 짬을 내 쉴 수 있던 난 그녀의 말에 무척 공감됐다.	I totally understood what she was saying — after all, it was difficult for me to find time to relax.						0	
+36	那分析员呢？这会儿来这里做什么呢？	那分析員呢？這時間來這裡做什麼呢？	分析員さんは？ここに来て何をしているのですか？	분석가님은요? 여기 뭐 하러 오셨어요?	What about you, Adjutant? What are you doing here?						0	
+b-9											0	
+37	有点闷了，上来吹吹风。	有點悶了，上來吹吹風。	少し息が詰まってて、上で風を浴びたいと思った。	답답해서 바람 좀 쐬려고.	I felt like I was cooped up inside, so I wanted to come out and get some fresh air.						0	
+38	我在这会妨碍到你吗？	我在這會妨礙到你嗎？	私がここにいると、邪魔ですか？	제가 여기에 있어서 방해가 된 건 아니에요?	Am I in your way?						0	
+39	我摇了摇头后走到她旁边，双手撑着栏杆，看着城市的繁华夜景。	我搖了搖頭後走到她旁邊，雙手撐著欄杆，看著城市的繁華夜景。	私は軽く首を振って彼女の隣に立ち、手すりに手を添えて夜の街を眺めた。	난 고개를 저은 뒤 그녀 옆으로 가 두 손으로 난간을 짚고 도시의 화려한 야경을 바라봤다.	I shook my head and walked over next to her, holding onto the railing with both hands. I looked down at the bustling night scene.						0	
+39_1	抛去所谓的“强者”身份，我们都是孤独的。	拋去所謂的“強者”身分，我們都是孤獨的。	「強者」なんて肩書きを外せば、結局みんな孤独なものだ。	 '영웅'이라는 신분을 떠나, 우리는 모두 외로운 존재다.	Even though we were seen as strong, we were all lonely.						0	
+40	分析员要一起看流星雨吗？还有四十多分钟就可以了。	分析員要一起看流星雨嗎？還有四十多分鐘就可以看到了。	分析員さんも、一緒に流星群を見ますか？始まるまで、まだ少し時間がかかりますが……	분석가님도 같이 유성우 보실래요? 40분 정도 남았는데.	Do you want to watch the meteor shower together, Adjutant? It's going to happen in just forty minutes.						0	
+41	茉莉安低头看着终端向我发出邀请，终端淡淡的蓝色光映在她脸上，我看不清她的表情，只听得出她语气有些许怯懦。	茉莉安低頭看著終端向我發出邀請，終端淡淡的藍色光芒照映在她臉上，我看不清楚她的表情，只聽得出來她語氣有些許怯懦。	マリアンは視線を端末に落としながら私を誘った。端末の淡い青い光が彼女の顔を照らし、表情ははっきりと見えないが、彼女の口調からは少しの不安を感じた。	마리안이 고개를 숙인 채 단말기를 보며 나에게 제안을 건넸다. 단말기의 옅은 푸른빛이 그녀의 얼굴에 비쳐 표정은 잘 보이지 않았지만, 그녀의 목소리는 조심스러웠다.	Marian looked down at her terminal as she asked me. The faint blue light from the terminal shone on her face. I couldn't see her expression very clearly, but I could hear the shyness in her voice.						0	
+42	回忆起那天水果蛋糕的甜腻和茉莉安的沾满面粉的手……我决定听从自己的内心。	回憶起那天水果蛋糕的甜腻和茉莉安的沾滿面粉的手……我決定聽從自己的內心。	あの日のフルーツケーキの甘さと、マリアンの小麦粉まみれの手を思い出した。そして私は、自分の心に従うことにした。	그날의 달콤했던 과일 케이크와 마리안의 밀가루 묻은 손이 떠올랐다… 나는 내 마음을 따르기로 했다.	But when I remembered the cloying sweetness of that strawberry cake and Marian's flour-dusted hand gripping mine... I decided to follow my heart.						0	
+b-10											0	
+43	嗯，看看吧。	嗯，看看吧。	うん、見てみようかな。	그래, 같이 보자.	Yeah, I'd like to watch it.						0	
+44	那我们一起等吧。	那我們一起等吧。	一緒に待ちましょう。	그럼 같이 기다려요.	Then let's wait together.						0	
+45	茉莉安顺势坐在了栏杆上，离我不远。	茉莉安順勢坐在了欄杆上，離我不遠。	マリアンは、私の近くの手すりの上に座った。	마리안이 나와 멀리 떨어지지 않은 난간에 기대어 앉았다.	Marian skillfully jumped up and sat on the railing not too far from where I was standing.						0	
+b-11											0	
+46	注意安全。	注意安全。	気を付けて。	조심해.	Be careful.						0	
+47	不用担心，就算掉下去，我也能跳上来。	不用擔心，就算掉下去我也能跳上來。	心配しないでください、万が一落ちても、私は跳んで戻ってこられますから。	걱정 마세요, 전 떨어져도 다시 뛰어오를 수 있어요.	Don't worry. Even if I fall, I can just jump back up.						0	
+48	茉莉安有点孩子气地朝我眨了下眼，作为天启者的她确实不用担心那种小意外。	茉莉安有點孩子氣地朝我眨了下眼，身為天啟者的她確實不用擔心那種小意外。	マリアンはいたずらっぽく私にウィンクした。覚醒者である彼女に対し、そういうことを心配する必要はなさそうだ。	마리안은 아이처럼 나를 보고 윙크했다. 확실히 계시자인 그녀를 그런 작은 사고로 걱정할 필요는 없었다.	Marian winked at me playfully. Seeing as she was a Manifestation, she didn't really have to worry about small accidents like that.						0	
+49	等待总是漫长的，在我不知道打第几个哈欠的时候，夜风突然猛烈了起来。	等待的時間總是漫長，在我不知道打第幾個哈欠的時候，突然吹起了一陣強勁晚風。	だいぶ待っている気がする。私が何度目のあくびをしたかわからなくなる頃、夜風が急に激しくなった。	기다림은 늘 긴 법이다. 내가 연신 하품하고 있을 때 밤바람이 갑자기 거세졌다.	Time passed slowly. I don't know how many times I yawned before it happened, but the night wind suddenly started to pick up.						0	
+50	糟了！	糟了！	しまった！	이런!	No!						0	
+51	我转过头去，发现原本披在茉莉安身上的外套，已经随风飞远了。	我轉過頭去，發現原本披在茉莉安身上的外套，已經隨風飛遠了。	私が振り返ると、マリアンの肩にかけた上着が風に飛ばされていた。	돌아보니 마리안에게 걸쳐주었던 외투가 바람에 날아가 버렸다.	I turned to see the jacket I'd wrapped around Marian being swept away by the wind.						0	
+51_1	茉莉安一边整理着自己被吹乱的头发，一边做出起跳的姿势，她该不会！？	茉莉安一邊整理著自己被吹亂的頭髮，一邊做出起跳的姿勢，她該不會！？	マリアンは髪の毛を整えながら、跳び上がろうとする姿勢をとった。まさか！？	마리안은 바람에 흐트러진 머리를 정리하며 도약할 자세를 취했다. 설마!?	She smoothed her wind-tousled hair as she bent her knees to prepare to jump. Would she actually...!?						0	
+52	诶？分析员？	欸？分析員？	ええ？分析員さん？	어? 분석가님?	Eh? Adjutant?						0	
+53	我拉住了她已经冻凉了的手。	我拉住了她已經凍僵的手。	私は彼女の冷たい手を引っ張った。	난 차갑게 언 그녀의 손을 잡았다.	I grabbed her cold hand.						0	
+b-12											0	
+54	别跳！太危险了。	別跳！太危險了。	よせ！危ないじゃないか。	뛰지 마! 너무 위험해.	Don't jump! It's too dangerous.						0	
+55	可是分析员的衣服……	可是分析員的衣服……	でも、分析員さんの服が……	하지만 분석가님의 옷이…	But... your jacket...						0	
+b-13											0	
+56	不重要，不准跳。	不重要，不准跳。	気にするな、跳ぶほどのことじゃない。	상관없어, 뛰면 안 돼.	It's not important. Don't jump.						0	
+57	好，我不跳。	好，我不跳。	わかりました。じゃあ跳びません。	알겠어요, 뛰지 않을게요.	Alright. I won't.						0	
+58	我不知道茉莉安出于什么心态，我急得手心都出汗了，她却还在看着我笑。	我不知道茉莉安是出於什麼心態，我急得手心都出汗了，她卻還在看著我笑。	マリアンの意図がわからず、焦りで手に汗をかいたが、彼女は私を見て笑った。	마리안이 무슨 생각을 하는지 알 수가 없었다. 난 다급한 마음에 손바닥에 땀이 났지만, 그녀는 날 보며 웃고 있었다.	I didn't know what was going on in Marian's head. I was so worried that my hands had begun to sweat, but she was just looking at me with a smile.						0	
+59	天气预报是准的，大概是风推走了云层，此时的夜空无比晴朗，茉莉安身后是巨大的满月。	天氣預報滿準的，大概是風吹走了雲層，此時的夜空無比晴朗，茉莉安身後是巨大的滿月。	天気予報は正しかったようで、風が雲を追い払ったのか、今の夜空は非常に晴れ渡っていた。マリアンの背後に、巨大な満月が輝いていた。	일기예보가 맞았다. 아마도 바람이 구름을 밀어낸 모양이다. 지금 밤하늘은 더없이 맑았고, 마리안 뒤로는 커다란 보름달이 떠 있었다.	The forecast was correct, probably because the strong wind had blown all the clouds away. The night sky was completely clear, and a huge full moon was shining right behind Marian.						0	
+60	如果气氛使然，我是不是可以告诉她我的想法呢？	如果氣氛使然，我是不是可以告訴她我的想法呢？	ふと脳裏をよぎった。「伝えるなら今しかない」……	만일 분위기가 괜찮다면, 그녀에게 내 생각을 말해도 되겠지?	Since the atmosphere was right, could I tell her how I felt?						0	
+b-14											0	
+61	其实我一直有话对你说。	其實我一直有話對你說。	実は、ずっと君に伝えたいことがあったんだ。	사실 너에게 줄곧 하고 싶었던 말이 있어.	There's something I've been meaning to tell you.						0	
+62	诶？	欸？	え？	네?	Huh?						0	
+b-15											0	
+63	我曾经评论过你的情感和做法——出于我的角度。	我曾經評論過你的情感和做法——出於我的角度。	かつて、君の気持ちや行動について、自分の立場からいろいろ言ったことがある。	예전엔 내가 네 감정과 방식을 내 기준으로만 판단했어.	Before, I've judged your feelings, and your choices, too, from my own perspective.						0	
+b-16											0	
+64	也许是我无意中说的某些字句，让你觉得我想推远你。	也許是我無意中說的某些字句，讓你覺得我想推遠你。	何気なく言った言葉が、君には私が距離を置こうとしているように聞こえたのかもしれない。	내가 무심코 했던 말들이 너를 밀어내려는 것처럼 느껴졌을 수도 있을 것 같아…	Maybe something I said made you feel like I was trying to push you away.						0	
+b-17											0	
+65	其实我从来没有这样想过。	其實我從來沒有這樣想過。	でも、本当は一度もそんなふうに思ったことなんてない。	하지만 난 그렇게 생각한 적 없었어.	But I've never meant that. Never.						0	
+66	分析员……	分析員……	分析員さん……	분석가님…	Adjutant...						0	
+67	谢谢你，告诉我这些。	謝謝你告訴我這些。	お話ししてくださって、ありがとうございます……	그렇게 말해줘서 고마워요.	Thank you for saying that.						0	
+68	皎洁的月光下，茉莉安的身体显得有些朦胧，她抚着被吹散的鬓发沉默着，等着我的下一句话。	在皎潔的月光下茉莉安的身體顯得有些朦朧，她沉默地撫著被吹散的鬢髮，等著我的下一句話。	明るい月光の下で、マリアンの体は少しおぼろげに見え、風で乱れた髪を撫でつつ、私の次の言葉を待っていた。	밝은 달빛에 비친 마리안의 모습은 약간 몽롱해 보였다. 그녀는 바람에 휘날리는 잔머리를 매만지며 잠자코 내 말을 기다리고 있었다.	Marian's silhouette blurred somewhat under the bright moonlight. She smoothed her windblown hair and remained silent, waiting for me to continue.						0	
+b-20											0	
+69	和我做个约定好吗？	和我做個約定好嗎？	約束してくれないか？	나와 약속 하나 해줄래?	Can you promise me something?						0	
+70	什么约定呢？	什麼約定呢？	どんな約束ですか？	무슨 약속이요?	What is it?						0	
+b-21											0	
+71	尽量不要伤害自己。	盡量不要傷害自己。	なるべく自分を傷つけないでくれ。	되도록이면 스스로를 다치게 하지 않겠다고.	Try not to hurt yourself.						0	
+72	……	……	……	…	...						0	
+73	显然她又误会了我的意思，又再次沉默了。	顯然她又誤會了我的意思，又再次陷入沉默了。	彼女はまた私の意図を誤解し、再び黙り込んだ。	그녀는 또 날 오해한 듯, 다시 침묵했다.	She had evidently misunderstood me, falling silent once again.						0	
+b-22											0	
+74	我没有否定你的行为和目标。	我沒有否定你的行為和目標。	私は君の行動や目標を否定するつもりはない。	난 네 행동과 목표를 부정하지 않아.	I'm not trying to dismiss your behavior or what you want for yourself.						0	
+b-23											0	
+75	只是出于私心，不想看到你受伤。	只是出於私心，不想看到你受傷。	だが、君が傷つくのを見たくないだけだ。	단지 네가 다치는 걸 보고 싶지 않을 뿐이야.	I just don't want to see you get hurt for my own selfish reasons.						0	
+76	是啊，受伤会给分析员添麻烦的。	是啊，受傷會給分析員添麻煩的。	……おっしゃるとおりです、私の行為は分析員さんにとって面倒ですよね。	네, 다치면 분석가님이 힘들어지니까요.	I understand. I would cause problems for you if I got hurt.						0	
+b-24											0	
+77	不，我不是怕麻烦，我只是……	不，我不是怕麻煩，我只是……	いや、面倒とかじゃなくて、ただ……	아니야, 그것 때문이 아니라, 단지…	No. I'm not worried about that. I just...						0	
+b-25											0	
+78	看见你受伤也会难受。	看見你受傷也會難受。	君が傷つくのを見ると辛いんだ。	네가 다치는 걸 보는 게 괴로워.	It's hard for me to see you get hurt.						0	
+79	真的吗？	真的嗎？	本当ですか？	정말이에요?	Really?						0	
+80	我接住跳下栏杆的茉莉安，郑重地向她保证。	我接住跳下欄杆的茉莉安，鄭重地向她保證。	私は手すりから飛び降りたマリアンを受け止め、真剣に彼女に伝えた。	난 난간에서 뛰어내리려는 마리안을 붙잡고 진지하게 말했다.	I held onto Marian as she jumped down from the railing, earnestly reassuring her.						0	
+b-26											0	
+81	真的，相信我。	真的，相信我。	本当だ、信じてくれ。	정말이야, 날 믿어.	Really. Please believe me.						0	
+82	嗯！我相信分析员。	嗯！我相信分析員。	……はい！信じます。	네! 분석가님을 믿을게요.	Okay! I believe you, Adjutant.						0	
+83	我愿意和你约定，我会尽力而为的。	我願意和你約定，我會盡力而為的。	直します。心に誓って。	약속할게요, 최선을 다할게요.	I promise I'll try my best not to get hurt.						0	
+84	茉莉安刚说完，我看见她身后有一个小光点拖着长尾巴瞬间划过夜空又突然消失了。	茉莉安剛說完，我看見她身後有一個小光點拖著長尾巴瞬間劃過夜空後消失了。	マリアンが言った直後、彼女の背後に小さな光が長い尾を引いて夜空を瞬時に横切り、消えていくのを見た。	마리안이 말을 마치자마자, 그녀 뒤로 작은 불빛이 긴 꼬리를 늘어뜨린 채 순식간에 밤하늘을 가르며 사라졌다.	Just as Marian finished her sentence, I saw a small light streak across the dark sky before suddenly disappearing.						0	
+b-27											0	
+85	茉莉安，流星！	茉莉安，流星！	マリアン、流れ星だ！	마리안, 유성이야!	Marian! A shooting star!						0	
+86	诶！？流星雨好像提前开始了！	欸！？流星雨好像提前開始了！	えっ！？流星群が少し早く始まったみたいですね！	앗!? 유성우가 벌써 내리기 시작했나 봐요!	Huh!? Looks like the meteor shower is starting early!						0	
+87	我要许愿，希望我们都能遵守约定！	我要許願，希望我們都能遵守約定！	願い事をしたいです。私たちが約束を守れるように！	소원을 빌어야겠어요, 우리 둘 다 약속을 지킬 수 있기를 바랄게요!	I'm going to wish that we can keep our promises.						0	
+88	茉莉安迅速转身看向天空，双手合十在胸前，等待着下一颗流星飞过。	茉莉安迅速轉身看向天空，雙手合十在胸前，等待著下一顆流星飛過。	マリアンは素早く振り返り、空を見上げ、両手を胸の前で合わせて次の流れ星を待った。	마리안은 재빨리 돌아서서 하늘을 보며 두 손을 가슴에 모은 채 다음 유성이 떨어지기를 기다렸다.	Marian quickly turned to face the sky. She clasped both of her hands in front of her chest as she waited for the next shooting star.						0	
+89	我只是沉默地看着她。	我只是沉默地看著她。	私は黙って彼女を見つめていた。	나는 그저 침묵하며 그녀를 바라보았다.	I watched her in silence.						0	
+90	也许该谢谢月光，或者谢谢流星，	也許該謝謝月光，或者謝謝流星，	感謝すべきは月の光か、流れ星か……	달빛에게, 혹은 유성에게 감사해야 할지도 모르겠다.	Maybe I should have thanked the moonlight or the shooting star.						0	
+91	我的愿望，已经实现了。	我的願望，已經實現了。	私の願いはもう、叶っているんだ。	내 소원은 이미 이루어졌으니까.	Because my wish had already come true.						0	

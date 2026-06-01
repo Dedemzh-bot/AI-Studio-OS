@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+Attack	攻击力+%s%%	0	
+Defence	防御力+%s%%	0	
+Health	最大生命+%s%%	0	

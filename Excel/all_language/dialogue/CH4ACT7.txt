@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	小太阳，你确定是这里吗？	小太陽，你確定是這裡嗎？	おひさまちゃん！ここで間違ってないよね？	프티야, 여기 맞아?	Fritia, are you sure this is the right place?						0	
+2	嗯？放心放心！芙提雅老师怎么可能带错路。	嗯？放心放心！芙提雅老師怎麼可能帶錯路。	え？うん、大丈夫大丈夫！フリティア先生が道を間違うはずないって。	응? 안심해! 프티야 선생님이 길을 잘못 알려줄 리가 없잖아?	Huh? Don't worry! Professor Fritia is on the right track!						0	
+3	欸……嘿嘿，好像……我忘记加了几个参数。	欸……嘿嘿，好像……我忘記加了幾個參數。	え……へへ、なんか……ちょーと数値を入力間違えちゃったみたい……かな？	아… 헤헷… 몇 가지 데이터를 추가한다는 걸 깜빡한 거 같아.	*sigh*... Hehe, I, uh... think I might have forgotten to add a few parameters.						0	
+auto_21377	我们不是正要找降临团吗！因此也不算带错路！	我們不是正要找降臨團嗎!因此也不算帶錯路!	でもちょうど降臨団に用があるんだよね？間違ってはいないよね！？	그나저나 원래는 강림단을 찾으려 했던 거잖아? 길을 잘못 안내했다고만 볼 수는 없어!	Aren't we looking for the Adventists? It's not like we're heading in the wrong direction!						0	

@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	与军方的<orange>会合点</>应该就在这附近。	與軍方的<orange>會合點</>應該就在這附近。	軍との<orange>合流地点</>はこの辺りのはずです。	군부와의 <orange>합류지점</>은 바로 이 근처일 거예요.	I do believe the <orange>meeting point</> with the military is around here.						0	
+2	分析员，我去寻个视野更好的地方，这里就拜托给你和琴诺了。	分析員，我去找個視野更好的地方，這裡就拜託給你和琴諾了。	分析員さん、見晴らしのいいところを探しに行きますので、ここはあなたとチェルノさんにお任せしますね。	분석가님, 저는 시야를 확보할 수 있는 곳을 찾아볼 테니, 이곳은 두 분이 좀 맡아주세요.	Adjutant, I'll have a look for a place with a better field of vision. Please look after things here with Cherno.						0	

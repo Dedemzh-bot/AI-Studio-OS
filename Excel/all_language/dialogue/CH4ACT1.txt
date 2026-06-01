@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，别放松警惕，敌人不止这些。	分析員，別放鬆警惕，敵人不止這些。	分析員、警戒を怠るな。敵はもっといるはずだ。	분석가, 아직 적들이 더 있으니 경계를 늦추면 안 돼.	Adjutant, stay alert! There are more enemies coming.						0	
+2	就只能干等着异化人进攻吗？不能出去给它们一锅端了？	就只能乾等著異化人進攻嗎？不能出去把它們全滅了？	変異者が攻めてくるのを待つだけなの？こっちから責めて一気にやっつけよう！	변이자들이 공격할 때까지 그냥 기다리고만 있을 거야? 그냥 나가서 엎어버리면 안 되나?	Are we still going to sit here waiting for the Changed to come to us? How about getting out of here and dealing with them once and for all?						0	
+3	我知道你很急，但是你先别急。拜托仔细看看我们的任务目标！	我知道你很急，但是先別急。拜託仔細看看我們的任務目標！	気持ちはわかるけど、焦っちゃダメ。私たちのミッションを忘れたの？	네가 못 참겠는 건 잘 알겠는데, 진정 좀 해. 우리의 미션 목표 좀 확인해 보라구!	I know you're in a hurry, but slow down a little. Read the mission objective properly!						0	
+4	是保护筛查点！不是歼灭异化人！	是保護篩查點！不是殲滅異化人！	今すべきことは関所を守ること！変異者の殲滅じゃないのよ！	우리 미션은 변이자를 없애는 것이 아니라, 선별 진료소를 보호하는 거야!	We're here to protect the screening point, not decimate the Changed!						0	

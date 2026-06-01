@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	这段时间你好像去了不少景点啊。	這段時間你好像去了不少景點啊。	このところ、いろんな観光地に行ってたみたいだね。	요즘 어디 많이 돌아다녔던데?	I see you've been hitting up a lot of scenic spots lately.						0	2.3版本随机事件
+page1.2	哟，你终于忙完回来啦。	喲，你終於忙完回來啦。	あら、やっと戻ってきたのね。	요, 드디어 돌아왔구나.	Oh hey, looks like you finally caught a break, huh?						0	2.3版本随机事件
+page1.3	看样子，你已经看到我发你的那些照片了。	看樣子，你已經看到我寄給你的那些照片了。	ってことは、私が送った写真も見たでしょ。	내가 보낸 사진들을 봤나 봐?	So, I take it you've seen the photos I sent?						0	2.3版本随机事件
+page1.4	怎么样，风景还不错吧？	怎麼樣，風景還不錯吧？	どう、景色よかったでしょう？	어때, 풍경들이 다 괜찮았지?	Not bad views, right?						0	2.3版本随机事件
+page1.5	嗯，很不错，而且还都是些距离地面很高的景点，是特意挑选的吗？	嗯，很不錯，而且還都是些距離地面很高的景點，是特意挑選的嗎？	とても素晴らしかったよ。それにしても、どれも高い場所ばかりだったけど、あえて選んだのか？	응, 좋아 보였어, 근데 다 지면에서 많이 높아 보이는 풍경들이던데, 일부러 그런 곳만 고른 거야?	Yeah, really impressive. And I noticed they're all from pretty high-up places — was there a reason for that?						0	2.3版本随机事件
+page1.6	没错，我特意挑了些以前想去但是却又不敢去的地方。	沒錯，我特意挑了些以前想去但是卻不敢去的地方。	そうよ、前から行きたかったけど、怖くて行けなかった場所をあえて選んでみた。	맞아, 일부러 가고 싶었지만 겁이 나서 못 갔던 곳만 골라서 갔어.	Exactly. I picked places I'd always wanted to see but never had the guts to go to.						0	2.3版本随机事件
+page1.7	自从克服了恐惧后我才发现，自己好像已经渐渐迷恋上了这种从高处俯瞰这片大地的感觉了。	自從克服了恐懼後我才發現，自己好像已經漸漸迷戀上了這種從高處俯瞰這片大地的感覺了。	恐怖を克服して気づいたけど、高いところからこの大地を見下ろす感じって、本当にたまらないわ。	고소공포증을 극복하고 나니 점점 높은 곳에서 아래를 내려다보는 느낌에 빠져버린 거 있지.	Ever since I got over that fear, I've sort of fallen for the thrill of seeing the world from up high.						0	2.3版本随机事件
+page1.8	只要一闭上眼，就能马上回想起你和我一同进行无伞跳伞时的场景……	只要一閉上眼，就能馬上回想起你和我一同進行無傘跳傘時的場景……	目を閉じるだけで、あなたと一緒にパラシュートなしで飛び降りたあの瞬間をすぐに思い出せる……	눈을 감으면 너랑 같이 낙하산 없이 스카이다이빙하던 장면이 떠올라…	And every time I close my eyes, it's like I'm reliving our no-parachute skydive...						0	2.3版本随机事件
+page1.9	美中不足的是，一睁开眼就会发现，你并不是次次都陪在我身边。	美中不足的是，一睜開眼就會發現，你並不是次次都陪在我身邊。	でも、目を開けると、いつもあなたが隣にいるわけじゃないって気づくの。	아쉬운 점은 눈을 뜨면 매번 네가 내 옆에 없다는 거야.	Shame that when I open them, you're not always there with me.						0	2.3版本随机事件
+page1.10	……	……	……	……	...						0	2.3版本随机事件
+page1.11	呵，你看，真是奇怪，像我这种习惯了独来独往的女人，一旦有了那种念想，也开始变得害怕寂寞了……	呵，你看，真是奇怪，像我這種習慣了獨來獨往的女人，一旦有了那種念想，也開始變得害怕寂寞了……	ふふ、おかしいでしょ。孤独に慣れた私でも、そんな気持ちが芽生えると、寂しさを感じるようになるなんて……	하, 봐, 정말 이상하지, 혼자 지내던 게 익숙하던 내가 이런 생각이 드니까 갑자기 외로움이 싫어지는 거 있지…	Funny, isn't it? How a lone wolf like me could start dreading the solitude after getting a taste of having someone by my side...						0	2.3版本随机事件
+page1.12	是吗……我大概明白你的意思了。	是嗎……我大概明白你的意思了。	そうか……君の気持ちは分かるよ。	그래… 네가 하고 싶은 말이 뭔지 이해했어.	Is that so...? I think I know what you mean.						0	2.3版本随机事件
+page1.13	我的意思？	我的意思？	私の気持ち？	내가 하고 싶은 말?	Oh, really?						0	2.3版本随机事件
+page1.14	放心，趁我还在这儿的这段时间，我会好好补偿补偿你的。	放心，趁我還在這裡的這段時間，我會好好補償補償你的。	安心して。私がここにいる間はしっかり埋め合わせてあげるから。	내가 이곳에 있는 동안 열심히 보상해 줄 테니까 걱정 마.	Don't worry. While I'm here, I'll make sure to make it up to you.						0	2.3版本随机事件
+page1.15	哦~你的反应什么时候变得这么快了？	喔~你的反應什麼時候變得這麼快了？	あら、ずいぶん頭が回るようになったじゃない？	오~ 갑자기 왜 이렇게 반응이 빨라진 거야?	Huh~ Look who's catching on quick.						0	2.3版本随机事件
+page1.16	一向如此。	一向如此。	いつものことさ。	항상 그랬는걸?	I always do.						0	2.3版本随机事件
+page1.17	呵呵呵呵，又在那儿油嘴滑舌。	呵呵呵呵，又在那邊油嘴滑舌。	ふふ、また口が上手くなったね。	하하하, 또 입만 살아가지곤.	Hehehe, smooth talker as usual.						0	2.3版本随机事件
+page1.18	不过既然你都承诺了，那我是不是也可以稍微期待一下，你到底要怎么补偿我呢~	不過既然你都承諾了，那我是不是也可以稍微期待一下，你到底要怎麼補償我呢~	でも、せっかくだし、どう埋め合わせてくれるのか、少し期待しちゃおうかしら。	근데 네가 약속한 거니까 어떻게 보상해 줄지 조금은 기대해 봐도 되는 거지~?	But now that you've made that promise... maybe I should start getting a little excited about how exactly you plan to make it up to me~						0	2.3版本随机事件

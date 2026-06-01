@@ -1,0 +1,50 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+TxtCMgirl20a_02_loopA01	分析员可以一边忙工作，一边和卜卜通话哦。	分析員可以一邊忙工作，一邊和卜卜通話哦。	あのね分析員、お仕事あるのならそっちを優先してね、ながら通話でも全然平気だから。	분석가, 바쁘면 일 보면서 보보랑 통화해도 돼.	Feel free to handle work while we're on the call, Adjutant. I'll be right here.						0	
+TxtCMgirl20a_02_loopA02	卜卜穿这套衣服……可爱吗？	卜卜穿這套衣服……可愛嗎？	ねぇねぇ、この服かわいい？	보보가 이 옷을 입으니까… 어때? 귀여워?	Do you think... this outfit looks cute on me?						0	
+TxtCMgirl20a_02_loopA03	漫画里的魔法少女总是会去拯救世界呢，但卜卜不想拯救世界，只想陪着分析员。	漫畫裡的魔法少女總是會去拯救世界呢，但卜卜不想拯救世界，只想陪著分析員。	漫画に出てくる魔法少女たちは、みんな世界を救うけど、ブブは分析員のそばにいたいだけだよ。	만화 속 마법 소녀들은 항상 세상을 구하러 다니던데, 보보는 세상을 구하고 싶지 않아. 그저 분석가 곁에 있고 싶을 뿐이야.	In manga, cute magic girls are always off saving the world. But me? I don't wanna save the world — I just wanna be with you.						0	
+TxtCMgirl20a_02_loopA04	嘿嘿，卜卜手上的羽毛笔实际上是魔杖哦~	嘿嘿，卜卜手上的羽毛筆實際上是魔杖哦~	えへへ、実はこの羽のペンって、魔法のステッキなんだよ～	헤헤, 보보가 들고 있는 깃털펜은 사실 마법 지팡이야~	Hehe, this quill I'm holding? It's actually a magic wand~						0	
+TxtCMgirl20a_02_loopA05	以这样的方式和分析员共度时光，总觉得还挺有趣的。	以這樣的方式和分析員共度時光，總覺得還挺有趣的。	こんな風に分析員と一緒に過ごせるのって、なんだかすごく楽しいね！	이런 방식으로 분석가와 함께 시간을 보내는 것도 꽤 재미있네.	Spending time with you like this... it's really fun.						0	loop随机文本
+TxtCMgirl20a_02_loopA06	是不是忍不住想找卜卜聊天呢？	是不是忍不住想找卜卜聊天呢？	もしかして……ブブとおしゃべりしたくなった？	보보랑 자꾸만 수다 떨고 싶지?	You were just thinking of talking to me, weren't you?						0	loop随机文本
+TxtCMgirl20a_02_loopA07	软软的床榻，很适合两个人一起躺在这里呢。	軟軟的床榻，很適合兩個人一起躺在這裡呢。	このベッド、ふかふか。二人で寝転がるのにちょうどいいね。	폭신폭신한 침대네, 두 사람이 같이 누워있기 딱 좋을 것 같아.	This bed's so soft... feels like the perfect spot for two to just lie here together.						0	loop随机文本
+TxtCMgirl20a_02_loopA08	在分析员眼皮子底下，卜卜都不敢偷懒了呢。	在分析員的注視下，卜卜都不敢偷懶了呢。	分析員の目の前じゃ、サボれないよぉ。	분석가가 지켜보고 있으니까, 보보는 게으름도 못 피우겠어.	With you keeping an eye on me, I can't slack off~						0	loop随机文本
+TxtCMgirl20a_02_loopA09	虽然分析员就在眼前，但还是忍不住会想你呢。	雖然分析員就在眼前，但還是忍不住會想你呢。	分析員、目の前にいるのに、ずっと考えちゃうんだよね。	분석가가 바로 눈앞에 있는데도 자꾸 그리워져.	Even when you're right here... somehow I still end up missing you.						0	
+TxtCMgirl20a_02_loopA10	现在的氛围，嘿，刚刚好~	現在的氛圍，嘿，剛剛好~	今の雰囲気、ちょうどいい感じね～	지금 분위기가, 헤, 딱 좋아~	Hehe... the mood right now is just perfect~						0	
+TxtCMgirl20a_02_loopA11	在这里学习，会比在房间里更惬意些吧？	在這裡學習，會比在房間裡更愜意點吧？	部屋より、ここで勉強する方が落ち着くかも。	여기서 공부하는 게 방에서 하는 것보다 더 편안하지?	Studying here feels nicer than being cooped up in a study, right?						0	
+TxtCMgirl20a_02_loopA12	无聊的话，就和卜卜说会话吧。	無聊的話，就和卜卜說一下話吧。	寂しいなと思ったら、いつでもブブに話しかけてね。	심심하면 보보랑 같이 수다 떨자.	If you get bored, you can always talk to me.						0	
+TxtCMgirl20a_02_loopA13	分析员累了的话，也可以稍稍休息一会哦。	分析員累了的話，也可以稍稍休息一下哦。	分析員、お疲れなら、少し休んでもいいんだよ。	분석가, 피곤하면 잠시 쉬어도 돼.	If you're tired, Adjutant, it's okay to take a little break.						0	
+TxtCMgirl20a_02_loopA_key01	听说有些人会把毯子当做飞行工具，那卜卜的被褥是不是也可以……	聽說有些人會把毯子當做飛行工具，那卜卜的被褥是不是也可以……	空飛ぶじゅうたんってあるでしょ？……もしかして、ブブの布団も、飛べたりするのかな？	어떤 사람들은 담요를 타고 날아다닌다던데, 그럼 보보의 이불도 가능하려나…	I've heard some people fly on magic carpets... Maybe my bedsheet could work too?						0	1-飞行解锁
+TxtCMgirl20a_02_loopA_key02	擅长占卜的魔法少女很少见呢，可巧，可巧，卜卜就是最特别的那一种，占卜、战斗两不误！	擅長占卜的魔法少女很少見呢，可巧，可巧，卜卜就是最特別的那一種，占卜、戰鬥兩不誤！	占いが得意な魔法少女って珍しいでしょ？でもね、ブブは戦闘も占いも両立できる特別な存在なんだからね！	점술에 능한 마법 소녀는 흔치 않은데, 그런 특별한 존재가 마침 이 보보라고. 점술도 전투도 모두 잘 해내지!	Magic girls who are good at fortune-telling are pretty rare — but lucky for you, I'm one of a kind! I can tell fortunes and fight, no problem~!						0	2-占卜话题解锁
+TxtCMgirl20a_02_loopA_key03	偶尔，也会有“想多独占分析员一会”的想法呢。	偶爾，也會有「想多獨佔分析員一下子」的想法呢。	時々、分析員をもっと独り占めしたい、なぁんて思っちゃったりして……	가끔은 '분석가를 좀 더 독차지하고 싶다'는 생각이 들기도 해.	Sometimes... I kinda wish I could keep you all to myself.						0	3-黑暗解锁
+TxtCMgirl20a_02_loopA_key04	掌握元素魔法后，是不是能省下一些水电费呢？	掌握元素魔法後，是不是能省下一些水電費呢？	元素魔法をマスターしたら、光熱費を少し節約できるかな？	원소 마법을 터득하면 수도세랑 전기세를 아낄 수 있지 않을까?	If I get the hang of elemental magic... maybe it can even shave a bit off the utility bill.						0	4-元素解锁
+TxtCMgirl20a_02_loopA_key05	既然喝剩的咖啡渣可以用来占卜，那以后干脆把煮过的中药也留下来观察观察。	既然喝剩的咖啡渣可以用來占卜，那以後乾脆把煮過的中藥也留下來觀察觀察。	コーヒーの出がらしで占いができるなら、煮出した漢方の出がらしも試してみようかな。	남은 커피 찌꺼기로도 점을 본다는데, 앞으로는 한약재 찌꺼기도 모아서 관찰해야겠어.	If coffee grounds can tell the future... maybe I should try reading the dregs from herbal decoctions too.						0	5-占卜话题解锁
+TxtCMgirl20a_02_loopA_key06	在没有慎重思考前，可不要轻易尝试怪奇派的新产品哦。	在沒有慎重思考前，可不要輕易嘗試怪奇派的新產品哦。	怪奇派の新商品は慎重に考えてから使ってね。	신비주의파의 신제품은 제대로 따져본 다음에 사용하는 게 좋을 거야.	You might want to think twice before trying any new Quirky-type gizmos.						0	6-怪奇派解锁
+TxtCMgirl20a_02_loopB01	啊呜……眼皮怎么越来越沉了……	啊嗚……眼皮怎麼越來越沉了……	ふわあ～まぶたが重くなってきちゃった……	아웅… 눈꺼풀이 왜 점점 무거워지지…	Mmm... why are my eyelids getting heavier... and heavier...						0	
+TxtCMgirl20a_02_loopB02	诶？我刚才怎么……怎么睡着了！	欸？我剛才怎麼……怎麼睡著了！	あれ……？寝ちゃってた！？	엥? 나 방금… 방금 잠든 거야?!	Huh? Did I... fall asleep!?						0	
+TxtCMgirl20a_02_loopB03	唔……卜卜可没有偷懒哦！分析员什么都没看到！	唔……卜卜可沒有偷懶哦！分析員什麼都沒看到！	ブブはサボってないよ！分析員、何も見てないよね！ね？	으음… 보보는 게으름 피우지 않았어! 분석가는 아무것도 못 본 거야!	Mmph... I wasn't slacking off! You saw nothing, Adjutant!						0	
+TxtCMgirl20a_02_loopA_SC01	今天的天气真好呢，太阳晒在身上，暖烘烘的。	今天的天氣真好呢，太陽曬在身上，暖烘烘的。	今日はいいお天気だなぁ……お日様がポカポカで気持ちいい！	오늘은 날씨가 참 좋네. 햇살이 따뜻해서 몸이 포근해.	The weather's so nice today... the sun feels warm and cozy.						0	
+TxtCMgirl20a_02_loopA_SC02	要不要给自己设计几句变身时的口号呢……	要不要幫自己設計幾句變身時的口號呢……	変身するときの決めゼリフを考えよっかな……	변신할 때 외칠 주문을 몇 개 만들어 볼까…	Should I come up with a few catchphrases for my transformation?						0	
+TxtCMgirl20a_02_loopA_SC03	变身的时候，一定要大声喊出来吗？总觉得有些丢脸……	變身的時候，一定要大聲喊出來嗎？總覺得有些丟臉……	変身する時って、大声で叫ばなきゃダメかな？なんだか恥ずかしいなあ……	변신할 때 꼭 큰 소리로 외쳐야 하나? 왠지 창피할 것 같은데…	Hmm... do magic girls really have to shout their lines when they transform? Kinda embarrassing...						0	
+TxtCMgirl20a_02_loopA_SC04	啊呜……这本书，字好多……	啊嗚……這本書，字好多……	うわ……この本、文字だらけだぁ……	아웅… 이 책은 글자가 너무 많아…	Agh... so many words in this book...						0	
+TxtCMgirl20a_02_loopA_SC05	嗯~难得找了个这么悠闲的地方呢。	嗯~難得找了個這麼悠閒的地方呢。	ふふ、のんびりスポットみ～つけた。	음~ 이렇게 여유로운 곳은 오랜만이네.	Mmm~ It's not every day I find a nice, quiet spot like this.						0	
+TxtCMgirl20a_02_loopA_SC06	诶？嗯……嘿嘿。	欸？嗯……嘿嘿。	え？うん……えへへ。	어? 음… 헤헤.	Hm? Mmm... hehe.						0	
+TxtCMgirl20a_02_loopA_SC07	凉爽的风里，有淡淡的花香呢。	涼爽的風裡，有淡淡的花香呢。	涼しい風に、花の香りがふわっと混ざってる。	시원한 바람에 은은한 꽃향기가 섞여있어.	A refreshing breeze... and a hint of flowers in the air.						0	
+TxtCMgirl20a_02_hangup5_101	这么快就要挂电话吗？真的不能再聊一会吗？	這麼快就要掛電話嗎？真的不能再聊一下嗎？	もう切っちゃうの？もっとおしゃべりしたいのに……	벌써 끊으려고? 조금만 더 이야기하면 안 돼?	You're hanging up already? Aww... can't we talk a little longer?						0	五分钟以内结束1
+TxtCMgirl20a_02_hangup5_102	唔……好吧，分析员再见。	唔……好吧，分析員再見。	うぅ……わかったよ、バイバイ……	흑… 알겠어. 안녕, 분석가.	Mmm... alright then. Bye-bye, Adjutant.						0	五分钟以内结束1
+TxtCMgirl20a_02_hangup5_201	既然分析员还有事要忙，那卜卜就不给你添乱了，分析员拜拜~	既然分析員還有事要忙，那卜卜就不給你搗亂了，分析員拜拜~	分析員は忙しいから、邪魔しちゃダメだよね。じゃあ、またね～	분석가가 바쁘다면, 보보도 더 이상 방해하지 않을게. 분석가, 안녕~	Since you've got things to do, I won't keep you. Talk to you later, Adjutant~						0	五分钟以内结束2
+TxtCMgirl20a_02_hangup30_101	有点舍不得挂电话呢，等分析员不忙了，一定要再打给卜卜哦~	有點捨不得掛電話呢，等分析員不忙了，一定要再打給卜卜哦~	まだ電話切りたくないなぁ。分析員が落ち着いたら、またブブに電話してね〜！	끊기 너무 아쉽다. 분석가, 바쁜 것만 끝나면 꼭 보보한테 다시 연락해 줘야 해~	I don't really wanna hang up yet... When you're less busy, promise you'll call me again, okay~?						0	半小时以内结束
+TxtCMgirl20a_02_hangup1h_101	唔，卜卜还有好多话想跟你说呢。不过，放到下次或许也不错。	唔，卜卜還有好多話想跟你說呢。不過，放到下次或許也不錯。	うぅ、まだ話したいことたくさんあるのに……でも次にとっておくのもいいかもね。	흑, 보보는 아직 하고 싶은 말이 많지만, 다음에 얘기해도 괜찮을 것 같아.	Ohh... there's still so much I wanted to tell you. But maybe saving it for next time isn't so bad.						0	挂机超一小时1
+TxtCMgirl20a_02_hangup1h_102	那今天就先说拜拜咯~	那今天就先說拜拜咯~	じゃあ、今日はこのくらいで、またね～	그럼 오늘 통화는 여기까지~	That's enough for today... bye-bye for now~						0	挂机超一小时1
+TxtCMgirl20a_02_hangup12h_101	不知不觉，时间都过去这么久了呀……	不知不覺，時間都過去這麼久了呀……	あ、もうこんな時間……	벌써 시간이 이렇게 됐네…	Wow... time really flew by, didn't it?						0	挂机超过12小时1
+TxtCMgirl20a_02_hangup12h_102	但一直独占分析员，是坏孩子的行为吧。	但一直獨佔分析員，是壞孩子的行為吧。	分析員を長い時間独り占めするのは悪い子のすることだもんね。	하지만 계속 분석가를 독차지하면 너무 이기적이겠지.	Keeping you all to myself this long... does that make me a bad girl?						0	挂机超过12小时1
+TxtCMgirl20a_02_hangup12h_103	卜卜果然不能那么自私，还是跟分析员说再见吧。	卜卜果然不能那麼自私，還是跟分析員說再見吧。	ブブは悪い子にはなりたくないから、そろそろ切るね。	보보는 그렇게 이기적이면 안 돼. 이만 분석가한테 작별 인사를 해야겠어.	I guess I shouldn't be that selfish. It's time to say goodbye, Adjutant.						0	挂机超过12小时1
+TxtCMgirl20a_02_hangup12h_104	没说完的话，就……留到下次，嘿嘿~	沒說完的話，就……留到下次，嘿嘿~	まだ話してないことは…また今度ね、ふへへ～	못다 한 이야기는… 다음에 하자, 헤헤~	I'll save the rest for next time... hehe~						0	挂机超过12小时1
+TxtCMgirl20a_02_clock01	分析员今天有什么计划吗？	分析員今天有什麼計畫嗎？	分析員、今日の予定は？	분석가, 오늘은 어떤 계획이 있어?	Hey, Adjutant~ Got any plans today?						0	提问1
+TxtCMgirl20a_02_clock02	都交给卜卜吧~卜卜一定帮你安排的明明白白！	都交給卜卜吧~卜卜一定幫你安排的明明白白！	ぜんぶブブに任せて！最高のスケジュール組んであげるから！	전부 보보에게 맡겨줘~ 보보가 완벽하게 챙겨줄 테니까!	Leave it to me~ I'll make sure your day is perfectly planned!						0	提问2
+TxtCMgirl20a_02_clock03	到吃饭时间啦，今天的饭后甜点，是卜卜哟~	到吃飯時間啦，今天的飯後甜點，是卜卜哟~	ごはんの時間だよ。今日のデザートは……ブブだよ～	밥 먹을 시간이야. 오늘의 디저트는 바로, 보보라고~	It's mealtime! And today's dessert is... Bubu~						0	提醒吃饭
+TxtCMgirl20a_02_clock04	分析员，到你该出门的时间啦，记得早点回来，卜卜会在家想你的。	分析員，到你該出門的時間啦，記得早點回來，卜卜會在家想你的。	分析員、お出かけの時間だよ～早く帰ってね、お留守番はブブに任せて！	분석가, 외출할 시간이야. 일찍 돌아와야 해. 보보는 집에서 분석가 생각하고 있을게.	Adjutant, time to head out! Don't be gone too long — I'll be here, missing you already.						0	提醒出门
+TxtCMgirl20a_02_clock05	差不多要开始工作咯，结束之后，卜卜会帮分析员好好放松一下的。	差不多要開始工作咯，結束之後，卜卜會幫分析員好好放鬆一下的。	お仕事の時間だよ。終わったら、ブブがしっかり癒してあげるね。	슬슬 일할 시간이네. 일 끝나면 보보가 분석가를 제대로 힐링시켜 줄게.	Time to get to work~ When you're done, I'll make sure you unwind properly.						0	提醒工作
+TxtCMgirl20a_02_clock06	分析员，到运动的时间啦，要像卜卜一样活力满满哦。	分析員，到運動的時間啦，要像卜卜一樣活力滿滿哦。	分析員、運動の時間だよ！ブブみたいに元気いっぱいになってね～	분석가, 운동할 시간이야. 보보처럼 힘차게 움직여볼까?	Adjutant~ Time to exercise a little! Let's get moving together!						0	提醒运动
+TxtCMgirl20a_02_clock07	该开始学习啦~快和卜卜一起，把知识装进脑子里。	該開始學習啦~快和卜卜一起，把知識裝進腦子裡。	お勉強の時間だよ～ブブと一緒に知識を頭に詰め込もうね。	이제 공부할 시간이네~ 보보랑 같이 지식을 가득 채워보자고!	Time to study~ C'mon, let's fill that brilliant head of yours with even more knowledge!						0	提醒学习
+TxtCMgirl20a_02_clock08	分析员~是时候按照计划行动了哦~	分析員~是時候按照計畫行動了哦~	分析員～計画通りに行動しようね～	분석가~ 이제 계획대로 움직일 시간이야~	Adjutant~ It's time to put the plan into action!						0	自定义提醒1
+TxtCMgirl20a_02_clock09	时间到了，分析员~卜卜的提醒是不是很及时？	時間到了，分析員~卜卜的提醒是不是很及時？	時間だよ、分析員～ねぇねぇ、ブブのリマインド、ちゃんと役立ってる？	시간이 다 됐어, 분석가~ 어때, 보보가 정확하게 알려줬지?	It's that time, Adjutant~ I'm pretty reliable as a daily planner, right?						0	自定义提醒2

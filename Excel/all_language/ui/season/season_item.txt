@@ -1,0 +1,313 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+chess1	饕享券	饕享券	プレミアム交換券	프리미엄 카드	Deluxe Voucher						0	
+chess1.desc	明灯新仪期间限定发放的稀有数字卡券，凭此可以在明灯新仪中享受贵宾服务，换取高价商品，通常只有一些“特殊贵宾”持有。但对于分析员来说，没什么用处。	明燈新儀期間限定發放的稀有數字卡券，憑此可以在明燈新儀中享受貴賓服務，換取高價商品，通常只有一些“特殊貴賓”持有。但對分析員來說沒什麼用處。	明灯新祭期間限定で配られたレアなデジタル券。明灯新祭にてVIPサービスを受けることができ、高価な商品と交換できます。通常は一部の「VIP」しか持たないが、分析員とにとっては、何の意味もないだろう。	등불 의식 기간에 한정 지급되는 숫자 카드. 보유 시, 등불 의식에서 VIP 서비스를 받을 수 있으며 고가의 상품을 교환할 수 있다. 일부 '스페셜 VIP'만 카드를 지급받을 수 있다. 분석가에겐 딱히 필요 없을지도 모른다.	A rare, limited-edition digital voucher issued during the Mingdeng Ritual. Typically, only held by "Special VIPs," it is used to enjoy VIP services during the Mingdeng Ritual and can be exchanged for extravagant products. However, it's practically useless to the Adjutant.						0	
+chess2	泰古通达门禁卡	泰古通達門禁卡	タグ物流のカードキー	타이구 물류회사 출입 카드	Taigu-Connect Door Alarm Card						0	
+chess2.desc	伊尔提供的门禁卡，仅从外观看与泰古通达员工的门禁卡别无二致，但被磨去的名字和编号已经说明，这是一张使用非常规手段获得的门禁卡。	伊爾提供的門禁卡，僅從外觀看與泰古通達員工的門禁卡並無區別，但被磨去的名字和編號已經說明，這是一張使用非正規手段獲得的門禁卡。	イールからもらったカードキー。見た目はタグの社員のカードキーとそっくりだが、抹消された名前とコードはこれが特別な手段で手に入れたものだと物語る。	이엘이 지급하는 출입 카드. 외관은 타이구 물류회사 직원 출입 카드와 구별할 수 없을 만큼 똑같지만, 지워진 이름과 코드란은 이 출입 카드가 비정식적인 방법으로 얻은 출입증이라는 것을 나타내고 있다.	The door alarm card provided by Yier. Although it appears similar to a Taigu-Connect employee card, the worn-out name and number make it clear that this card was obtained through unconventional means.						0	
+chess3	还原装置	還原裝置	還元装置	복구 장치	Reset Device						0	
+chess3.desc	当转运路线规划错误时，可以使用该装置重现货箱最初的分布位置，重新进行转运路线规划。	當轉運路線規劃錯誤時，可以使用該裝置重現貨箱最初的分布位置，重新進行轉運路線規劃。	搬送の計画を間違った時、この装置を使うと貨物専用箱を最初の位置へリセットさせ、搬送ルートの計画を作り直すことができます。	운송 루트 계획에 차질이 생겼을 경우, 해당 장치를 사용해 화물 상자의 위치를 초기화하고 운송 루트를 다시 리셋할 수 있다.	When the planned shipping route is incorrect, this device can be used to reset the cargo box to its original position and re-plan the transfer route.						0	
+chess4	信石	信石	信石	전각석	Letter Stone						0	
+chess4.desc	精致打磨的龟背石，龟背花纹的另一面能摸到一些凹凸感，似乎刻了些东西，用肉眼很难看清内容，据说是天楼十分流行的一种礼物。	精緻打磨的龜背石，龜背花紋的另一面能摸到一些凹凸感，似乎刻了些東西，用肉眼很難看清內容，據說是天樓十分流行的一種禮物。	細密に磨き上げられた亀甲石。亀甲の模様の反対側に触れると凸凹を感じられ、何かが刻まれているようだが、肉眼ではよく見えない。スカイタワーでの流行りの贈り物と言われている。	정교하게 연마된 셉타리안. 무늬의 한 면은 무언가를 새긴 듯 촉감이 울퉁불퉁하며 육안으로는 내용을 알아보기 어렵다. 스카이 타워에서 크게 유행하고 있는 선물이라고 한다.	An exquisite polished tortoiseshell stone. On the side opposite the pattern, some small bumps can be felt. It seems that something is carved into the stone, but it is difficult to see with the naked eye. It is a popular gift in the Towers.						0	
+chess5	送福宝箱-小	送福寶箱-小	福の宝箱-小	축복 보물상자(소)	Fortune Chest - Small						0	
+chess5.desc	明灯节这一天，仓尧为世界树前来协助安保工作的伙伴们准备了一些基础补给。	明燈節這一天，倉堯為世界樹前來協助保全工作的夥伴們準備了一些基礎補給。	明灯祭の日に警備の協力をしに来てくれたユグドラシル社の仲間たちのために倉尭が用意した基礎的な補給品。	등명제 당일, 보안 업무를 협조하러 온 위그드라실 동료들을 위해 창요가 준비한 기초 보급.	On the day of the Mingdeng Jie *Sky-Lantern Festival*, Cangyao prepared some basic supplies for the Yggdrasil Operatives assisting with security.						0	
+chess6	送福宝箱-大	送福寶箱-大	福の宝箱-大	축복 보물상자(대)	Fortune Chest - Large						0	
+chess6.desc	明灯节这一天，仓尧为世界树前来协助安保工作的伙伴们准备了一些特别的礼物。	明燈節這一天，倉堯為世界樹前來協助保全工作的夥伴們準備了一些特別的禮物。	明灯祭の日に警備の協力をしに来てくれたユグドラシル社の仲間たちのために倉尭が用意した特別なプレゼント。	등명제 당일, 보안 업무를 협조하러 온 위그드라실 동료들을 위해 창요가 준비한 특별 선물.	On the day of the Mingdeng Jie *Sky-Lantern Festival*, Cangyao prepared some basic supplies for the Yggdrasil Operatives assisting with security.						0	
+chess7	未知事件	未知事件	未知イベント	미지의 사건	Unknown Incident						0	
+chess7.desc	前面似乎发生了事件，作为会场安保负责人，你需要及时处理。	前面似乎發生了事件，作為會場保全負責人，你需要及時處理。	この先で事件が発生したらしい。一警備責任者として、早急に対処しなければなりません。	전방에 심상치 않은 일이 벌어진 듯하다. 행사장의 보안 책임자로서, 사건을 제때 처리하자.	Something seems to be happening up ahead. Seeing as you're in charge of security at the venue, you'll need to deal with it in a timely manner.						0	
+chess8	偶遇事件	偶遇事件	偶発イベント	기묘한 만남	Meeting Incident						0	
+chess8.desc	熟悉的身影出现，是海姆达尔的伙伴们。	熟悉的身影出現，是海姆達爾的夥伴們。	見慣れた姿が現れた。ヘイムダルの仲間たちだ。	익숙한 모습이 나타났다. 헤임달 부대의 동료들이다.	Familiar figures appeared, revealing themselves as the Heimdall Operatives.						0	
+chess9	纷乱四起	紛亂四起	二次災害	곳곳의 소동	Complete Chaos						0	
+chess10	直面危局	直面危局	危機に直面	위기 직면	Face the Music						0	
+chess11	险象环生	險象環生	危険多発	위험한 순간	Hazard						0	
+chess11.1	佳节享趣	佳節享趣	お祭り満喫	즐거운 축제	Festive Fun						0	
+chess12	天工福灯纪念品	天工福燈紀念品	天工福灯の記念品	천공 행운 초롱 기념품	Blessed Lantern Souvenir						0	
+chess12.desc	仿照天工福灯制造的微缩模型，是在一些游玩摊位作为奖品发放的纪念奖励。离开天楼后，似乎就没什么用了。	仿照天工福燈製造的微縮模型，是在一些遊玩攤位作為獎品發放的紀念獎勵。離開天樓後似乎就沒有用處了。	天工福灯を模して製造された小型モデル。ゲーム屋台で賞品として配られた記念品。スカイタワーエリアの外では、使い道がない様だ。	천공 행운 초롱을 본떠 만든 축소판 모형. 일부 노점에서 경품으로 지급되는 기념 보상이다. 스카이 타워를 떠나면 딱히 소용없을 듯하다.	A miniature model of the Blessed Lantern. It is a commemorative reward given out as a prize at certain game booths. It is seemingly useless outside of the Towers.						0	
+chess13	开运古币	開運古幣	開運の古銭	행운 엽전	Lucky Ancient Coin						0	
+chess13.desc	据说是能够带来好运的古老钱币、古董收藏者的最爱，却闪烁着廉价的金色光泽，让人怀疑它的真实来历，只是不值钱的小玩具。	據說是能夠帶來好運的古老錢幣，古董收藏者的最愛，其閃爍著廉價的金色光澤，讓人懷疑它的真實來歷，感覺只是不值錢的小玩具。	幸運をもたらすと言われる古い通貨。骨董コレクターのお気に入りだが、安っぽい光沢感のせいで、本当に高価なのか疑ってしまう。	행운을 가져다준다는 오래된 엽전. 골동품 수집가들이 가장 좋아하는 소장품이지만, 싸구려 티가 나는 금빛 광택으로 값어치 없는 장난감을 떠올리게 하며, 보는 이들로 하여금 출처를 의심케 한다.	This ancient coin is said to bring good luck and is a favorite of antique collectors in the Containment zone. However, it has a cheap, golden hue that casts doubt on its NO origins. It is essentially a worthless toy.						0	
+chess14	瑟瑞斯的语音记录	瑟瑞斯的語音記錄	シーリスの音声記録	세리스의 음성 기록	Siris' Recordings						0	
+chess14.desc	瑟瑞斯留下的录音记录，通过这些记录可以知道瑟瑞斯一路上在干什么，从而推测她所在的方位，也可以根据记录推测瑟瑞斯是否遇到险境。	瑟瑞斯留下的錄音記錄，透過這些記錄可以知道瑟瑞斯一路上在幹什麼，從而推測她所在的方位，也可以根據記錄推測瑟瑞斯是否身處險境。	シーリスが残した音声記録。シーリスが道中に何をしてきたのかが記録されており、彼女のロケーションと、シーリスが危険に遭っているかどうかを測れる。	세리스가 남긴 음성 기록. 세리스가 지금까지 한 일들이 기록되어 있으며, 이를 통해 세리스의 구체적인 위치를 파악하고, 세리스의 위험 여부를 판단할 수 있다.	Recordings left by Siris. They serve as proof of Siris' actions and can be used to estimate her general location. One could also determine if Siris is in danger based on these recordings.						0	
+chess15	泰古通达门禁卡	泰古通達門禁卡	タグ物流のカードキー	타이구 물류회사 출입 카드	Taigu-Connect Door Alarm Card						0	
+chess15.desc	伊尔提供的门禁卡，仅从外观看与泰古通达员工的门禁卡别无二致，但被磨去的名字和编号已经说明，这是一张使用非常规手段获得的门禁卡。	伊爾提供的門禁卡，僅從外觀看與泰古通達員工的門禁卡並無區別，但被磨去的名字和編號已經說明，這是一張使用非正規手段獲得的門禁卡。	イールからもらったカードキー。見た目はタグの社員のカードキーとそっくりだが、抹消された名前とコードはこれが特別な手段で手に入れたものだと物語る。	이엘이 지급하는 출입 카드. 외관은 타이구 물류회사 직원 출입 카드와 구별할 수 없을 만큼 똑같지만, 지워진 이름과 코드란은 이 출입 카드가 비정식적인 방법으로 얻은 출입증이라는 것을 나타내고 있다.	The door alarm card provided by Yier. Although it appears similar to a Taigu-Connect employee card, the worn-out name and number make it clear that this card was obtained through unconventional means.						0	
+chess16	物资箱	物資箱	物資箱	물자 상자	Supply Cache						0	
+chess16.desc	在活动会场上营业的摊贩使用的物资箱，只需协助做简单的规划，移动到他处，不影响人群行走即可。	在活動會場上營業的攤販使用的物資箱，只需協助做簡單的規劃，將物資箱移動到他處不影響人群行走即可。	イベント会場で営業する屋台が用いている物資箱。ちょっとした計画を作るのを手伝い、他の場所に移動させ、人の邪魔にならないようにすればいい。	이벤트 행사장에서 영업하는 노점상들이 사용하는 물자 상자. 간단히 계획을 세워서 사람들의 통행에 방해가 되지 않도록 다른 곳으로 이동시키면 된다.	Supply caches used by vendors in the event venue. They require simple planning and must be moved without disturbing the flow of the crowd.						0	
+chess17	货箱	貨箱	貨物専用箱	화물 상자	Cargo Box						0	
+chess17.desc	泰古通达专用货箱，在明灯新仪举办期间因管理问题堆积在各处。帮助仓尧规划这些货箱，将其移动至处理点，交给泰古通达员工处置。	泰古通達專用貨箱，在明燈新儀舉辦期間因管理問題堆積在各處。幫助倉堯規劃這些貨箱，將其移動至處理點，交給泰古通達員工處置。	タグの貨物専用箱。明灯新祭期間中、管理の問題でいろんな所に積み上げられたた。倉尭を手伝って、処理ポイントまで搬送して、タグの従業員に処置を任せよう。	타이구 물류회사 전용 화물 상자들이 등불 의식 기간 동안 관리 문제로 여기저기 쌓여 있다. 창요를 도와 화물 상자의 배치를 계획하고, 처리 지점으로 이동시켜 타이구 물류회사 직원에게 처리를 맡기자.	Management issues have caused Taigu-Connect's specialized cargo boxes to pile up all over the Mingdeng Ritual venue. Help Cangyao draw up a plan, move the boxes to a processing point, then hand them over to Taigu-Connect staff.						0	
+chess18	货箱	貨箱	貨物専用箱	화물 상자	Cargo Box						0	
+chess18.desc	泰古通达专用货箱，在明灯新仪举办期间因管理问题堆积在各处。帮助仓尧规划这些货箱，将其移动至处理点，交给泰古通达员工处置。	泰古通達專用貨箱，在明燈新儀舉辦期間因管理問題堆積在各處。幫助倉堯規劃這些貨箱，將其移動至處理點，交給泰古通達員工處置。	タグの貨物専用箱。明灯新祭期間中、管理の問題でいろんな所に積み上げられたた。倉尭を手伝って、処理ポイントまで搬送して、タグの従業員に処置を任せよう。	타이구 물류회사 전용 화물 상자들이 등불 의식 기간 동안 관리 문제로 여기저기 쌓여 있다. 창요를 도와 화물 상자의 배치를 계획하고, 처리 지점으로 이동시켜 타이구 물류회사 직원에게 처리를 맡기자.	Management issues have caused Taigu-Connect's specialized cargo boxes to pile up all over the Mingdeng Ritual venue. Help Cangyao draw up a plan, move the boxes to a processing point, then hand them over to Taigu-Connect staff.						0	
+chess19	处理点	處理點	処理ポイント	처리 지점	Processing Point						0	
+chess19.desc	泰古通达的物资箱集中处理点，将货箱移动到此处后，会有泰古通达的员工前来协助处理，让安保小队正常通行。	泰古通達的物資箱集中處理點，將貨箱移動到此處後，會有泰古通達的員工前來協助處理，讓保全小隊正常通行。	タグの物資箱を集中して処理する場所。貨物専用箱をここに移動させると、タグの従業員が処理を手伝いに来て、警備隊を正常に通行させる。	타이구 물류회사의 물자 상자 집중 처리 지점. 보안 소대의 정상적인 통행을 위해 화물 상자가 도착하면 타이구 물류회사 직원이 처리에 협조한다.	Taigu-Connect's centralized supply cache processing point. After moving the cargo boxes here, Taigu-Connect staff members will assist with processing, allowing the security team to pass through normally.						0	
+chess20	请折返！	請折返！	引き返してください！	통행금지!	Please turn back!						0	
+chess20.desc	请探查并处理活动会场内，一切可能引发事件的因素。	請探查並處理活動會場內，一切可能引發事件的因素。	イベント会場内で事件を起こしうるあらゆる要因を捜査し、処理しましょう。	이벤트 행사장에서 돌발 사건을 일으킬 수 있는 요소들을 조사하고 처리해야 한다.	Please investigate and handle all potential incidents during the event.						0	剧情触发
+chess22	灯笼	燈籠	ランプ	초롱	Lantern						0	
+chess22.desc	燃起灯光，许下愿望。\n这是零区居民在明灯新仪上一定会做的事。	燃起燈光，許下願望。\n這是零區居民在明燈新儀上一定會做的事。	灯火をつけ、願いごとを行う。\nエリアゼロの住民にとって明灯新祭に必ず行う恒例行事。	불빛을 밝히고 소원을 빈다.\n이건 제로 구역 주민들이 등불 의식에서 반드시 하는 일이다.	Illuminate a lantern and make a wish.\nThis is something Containment Zone residents are sure to do during the Mingdeng Ritual.						0	
+chess23	轨道电梯	軌道電梯	軌道エレベーター	트랙 엘리베이터	Orbital Elevator						0	
+chess23.desc	连接天楼不同区域的轨道电梯，搭乘电梯可离开当前区域，完成本阶段任务。	連接天樓不同區域的軌道電梯，搭乘電梯可離開目前區域，完成本階段任務。	スカイタワーの異なるエリアを繋げる軌道エレベーター。エレベーターに乗ると当該エリアを離れ、このステージのミッションを達成できます。	스카이 타워의 여러 구역들을 연결하는 트랙 엘리베이터. 엘리베이터에 탑승하면 해당 구역을 떠나 현재 단계의 미션을 완료할 수 있다.	An orbital elevator connecting different parts of the Towers. Take the elevator to leave the current area and complete this Phase's Mission.						0	
+chess25	未知事件	未知事件	未知イベント	미지의 사건	Unknown Incident						0	
+chess25.desc	一位零区的女性青年在四处张望，似乎有什么话要说。	一位零區的女性青年在四處張望，似乎有什麼話要說。	エリアゼロの女性は周りを眺めて、何か言いたげだ。	제로 구역의 한 젊은 여성이 무언가 할 말이 있는 듯 주변을 둘러보고 있다.	A young woman from the Containment Zone glanced around as if she wanted to say something.						0	
+chess26	未知事件	未知事件	未知イベント	미지의 사건	Unknown Incident						0	
+chess26.desc	一位零区的男性青年在四处张望，似乎有什么话要说。	一位零區的男性青年在四處張望，似乎有什麼話要說。	エリアゼロの男性は周りを眺めて、何か言いたげだ。	제로 구역의 한 젊은 남성이 무언가 할 말이 있는 듯 주변을 둘러보고 있다.	A young man from the Containment Zone glanced around as if he wanted to say something.						0	
+chess27	请折返！	請折返！	引き返してください！	통행금지!	Please turn back!						0	
+chess27.desc	前方为泰古通达封锁区域，暂无权限进入该。	前方為泰古通達封鎖區域，暫無進入該區域的權限。	この先はダグ物流の封鎖区域で、立ち入り禁止です。	전방은 타이구 물류회사의 봉쇄 구역으로 진입 권한이 없습니다.	The Taigu-Connect restricted area is up ahead. You do not currently have access.						0	钥匙卡触发
+chess28	请折返！	請折返！	引き返してください！	통행금지!	Please turn back!						0	
+chess28.desc	请协助仓尧，处理现场散乱的货箱及物资箱。	請協助倉堯處理現場散亂的貨箱以及物資箱。	倉尭を手伝い、乱雑とし貨物専用箱や物資箱を整理する。	창요를 도와 현장에 흩어진 화물 상자와 물자 상자를 정리하자.	Please assist Cangyao in dealing with the cargo boxes and supply caches strewn across the venue.						0	箱子触发
+TxtRichUIMapName1	逐浪派对	逐浪派對	ビーチ	해변 파티	Seaside Party						0	
+TxtRichUIMapName2	密林派对	秘林派對	ジャングル	정글 파티	Jungle Party						0	
+TxtRichUIMapName3	溯影派对	溯影派對	月影	트레이스 파티	Shadow Party						0	
+TxtRichUIMapName4	共斗派对	共鬥派對	共闘	팀 파티	Team Party						0	
+TxtRichManMode1	1V1	1V1	1対1	1V1	1V1						0	
+TxtRichManMode2	1V2	1V2	1対2	1V2	1V2						0	
+TxtRichManMode3	1V3	1V3	1対3	1V3	1V3						0	
+TxtRichManMode4	3V1	3V1	3対1	3V1	3V1						0	
+TxtRichUIMapdes1	掀起滔天巨浪，与少女们来一场绝对公正的一对一竞技吧~	掀起滔天巨浪，與少女們來一場絕對公正的一對一競技吧~	荒波を巻き起こせ！少女との絶対公平なワンオンワンゲームを楽しもう！	거센 파도가 몰아치고 있어요. 소녀들과 정정당당하게 1:1 경기를 펼쳐보세요~	Jump into the waves and engage in a 1V1 contest to see who is the most talented — and lucky!						0	
+TxtRichUIMapdes2	两道倩影邀请你共赴密林探险，在这里与她们来一场以少胜多的漂亮对决吧~	兩道倩影邀請你共赴秘林探險，在這裡與她們來一場以少勝多的漂亮對決吧~	二人の少女があなたを密林の冒険へ誘う！ 彼女たちとのスリリングな対決を楽しもう！	아리따운 두 소녀가 초대하는 정글 탐험이에요. 소수로 다수를 이기는 멋진 대결을 펼쳐보세요~	Two graceful girls invite you to embark on a jungle adventure. They have greater numbers, but you have greater beauty!						0	3.0复刻捞金派对文案优化
+TxtRichUIMapdes3	皎洁的月光下，少女们将你团团包围，与她们开启一场勇气与智慧并重的对决吧~	皎潔的月光下，少女們將你團團包圍，與她們開啟一場勇氣與智慧並重的對決吧~	月の光の下、少女たちがあなたを囲む。勇気と知恵を駆使して、彼女たちと対決しよう！	희미한 달빛 아래서 소녀들이 무리를 지어 당신을 포위할 거예요. 지혜를 발휘해 마지막까지 버텨보세요~	A group of girls surrounds you under the bright moonlight. Show your courage and cleverness to outlast them~						0	3.0复刻捞金派对文案优化
+TxtRichUIMapdes4	海风轻拂，沙滩之上出现不速之客的身影，与少女们携手对抗最后的敌人吧~	海風輕拂，沙灘之上出現不速之客的身影，與少女們攜手對抗最後的敵人吧~	海風が吹き、ビーチに現れた謎の影。少女たちと力を合わせて最後の敵に立ち向かおう！	바닷바람이 불어오고, 모래사장에는 불청객의 모습이 나타났어요. 소녀들과 함께 최후의 타깃에 맞서보세요~	Amidst the gentle sea breeze, an unexpected visitor appears on the beach. Join the girls and fight together against the final enemy!						0	3.0复刻捞金派对文案优化
+TxtRichUIModeDes	该模式下可以自由配置游玩角色和基础设置	此模式可以自由配置遊玩角色以及基礎設定	このモードでは、プレイヤーは自由に参加隊員を配置したり基本設定を変更できます	해당 모드에서는 플레이 캐릭터와 기본 설정을 자유롭게 설정할 수 있습니다.	Freely choose the players and settings in this mode						0	
+TxtRichUIModeDes2	检测到没有更改角色配置，是否用原始角色游玩？	檢查到您沒有更改角色配置，是否使用原始角色遊玩?	隊員配置を変更していないことが検出されました。元の隊員でプレイしますか？	캐릭터 배치가 변경되지 않았습니다. 기존 캐릭터로 플레이하시겠습니까?	You didn't change the characters selected. Play with the original characters?						0	
+TxtRichManQA1	安卡希雅表示运气也是实力的一环，请凭运气做出选择吧。	安卡希雅表示運氣也是一種實力，請憑實力做出選擇吧。	運も実力のうちだと、アカシアは言った、直感で選択しよう。	아카시아가 운도 실력이라고 했다. 자신의 운을 믿고 선택해 보자.	Acacia says that being lucky is a part of being good. Test your luck to guess the right answer.						0	
+TxtRichManQA2	请问瑟瑞斯的昵称是什么？	請問瑟瑞斯的暱稱是什麼呢?	シーリスのニックネームは？	세리스의 별명은?	What is Siris' nickname?						0	
+TxtRichManQA3	请问芙提雅是以下哪个系统的开发者？	請問下列哪個系統的開發者是芙提雅?	フリティアは以下どのシステムの開発者ですか？	프티야가 개발한 시스템의 이름은?	Which of the following systems did Fritia develop?						0	
+TxtRichManQA4	请问猫汐尔与以下哪位角色是校友？	請問貓汐爾與下列哪位角色是故友？	マーシルは以下のどの隊員と同じ学校に通っていましたか？	캣 시에라는 어떤 캐릭터랑 동창이야?	Which of the following operatives is a fellow alumna of Mauxir?						0	3.0复刻捞金派对文案优化
+TxtRichManQA5	请问恩雅没有在以下哪个地方实习过？	請問恩雅沒有在下列哪個地方實習過?	以下の場所の内、エンヤがインターンとして行ったことがないのはどれですか？	다음 중 엔야가 실습을 한 적이 없는 곳은?	Where has Enya not worked at?						0	
+TxtRichManQA6	请问辰星的红色绳结是系在以下哪个部位？	請問辰星的紅色繩結是繫在哪個位置?	辰星の赤い結び目は以下のどの部位に付けていますか？	수성이 빨간 매듭을 한 위치는?	Where is Chenxing's red string tied to?						0	
+TxtRichManQA1Answer1	我选安卡希雅	我選安卡希雅	アカシアだ	아카시아	I choose Acacia						0	
+TxtRichManQA1Answer2	我选钝角	我選鈍角	とにかくDだ	코스모스	I choose door number two						0	
+TxtRichManQA1Answer3	阿巴阿巴	阿巴阿巴	あ、あ、その…	카네이션	I choose to abstain						0	
+TxtRichManQA2Answer1	小金鱼	小金魚	グッピー	골드피시	The Goldfish						0	
+TxtRichManQA2Answer2	小银鱼	小銀魚	ラッピー	실버피시	The Silverfish						0	
+TxtRichManQA2Answer3	小铜鱼	小銅魚	コッピー	브론즈피시	The Bronzefish						0	
+TxtRichManQA3Answer1	火种	火種	火種	불씨	Ember						0	
+TxtRichManQA3Answer2	火源	火源	火源	불티	Little Fire						0	
+TxtRichManQA3Answer3	小太阳	小太陽	おひさまちゃん	리틀썬	Little Sunshine						0	
+TxtRichManQA4Answer1	芙提雅	芙提雅	フリティア	프티야	Fritia						0	
+TxtRichManQA4Answer2	安卡希雅	安卡希雅	アカシア	아카시아	Acacia						0	
+TxtRichManQA4Answer3	爷	我	この私だ	나	Me						0	
+TxtRichManQA5Answer1	后勤部	後勤部	後方支援部	지원부	Logistics Department						0	
+TxtRichManQA5Answer2	幼儿园	幼稚園	幼稚園	유치원	A preschool						0	
+TxtRichManQA5Answer3	孤儿院	孤兒院	孤児院	보육원	An orphanage						0	
+TxtRichManQA6Answer1	左侧锁骨上	左側鎖骨上	左鎖骨の上	좌측 쇄골	The left side of her chest						0	
+TxtRichManQA6Answer2	右侧锁骨上	右側鎖骨上	右鎖骨の上	우측 쇄골	The right side of her chest						0	
+TxtRichManQA6Answer3	我心上	我心上	私の心の中	내 마음속	My heart						0	
+TxtRichManEvent1	发现了雅卢平壳蛤，卖了获得一些派对金币	發現雅盧平殼蛤，賣掉後獲得了一些派對金幣	見つけたガルーハマグリを売却し、合戦コインを入手した。	야루 조개 발견, 판매 시 파티 코인 일부 획득	Found some Yallu clams and sold them for some Party Gold						0	
+TxtRichManEvent11	发工资了！每人都获得了一些派对金币！	發薪水了!每人都獲得了一些派對金幣!	給与が支給された！全員合戦コイン獲得！	월급 지급! 모두 파티 코인 일부 획득!	It's pay day! Each player obtains some Party Gold!						0	
+TxtRichManEvent2	路过的陶董留下%d张卡牌	路過的τ董留下%d張卡牌	通りすがりのτさんはカードを%d枚残した。	지나가던 τ가 남긴 카드 %d장	Director τ came by and left %d card(s)						0	
+TxtRichManEvent3	钱包被偷了	錢包被偷了	財布が盗まれた！	지갑 도난당함.	Wallet was stolen						0	
+TxtRichManEvent4	税率上涨，每人额外交一些土地税	稅金上漲，每人額外多交了一些地價稅	税率が上昇したため、1人当たりいくらかの土地税が支払われるようになった。	세율 상승, 모두 일부 토지세 추가 납부	Taxes went up. Each player has to pay some additional property tax.						0	
+TxtRichManEvent5	与海之主缠斗，休息一回合	去海邊海釣了，休息一回合	海の主と激戦したため、1ターン休憩～	해변 낚시하러 감, 1턴 휴식	Tried to catch a king bream and spent a lot of energy. Rest for 1 turn.						0	
+TxtRichManEvent6	无人机故障了在到处乱跑！需要每人上缴一些派对金币修复无人机	無人機故障了在到處亂跑！需要每人上繳一些派對金幣維修無人機	故障したドローンが暴れ回っている！修理のため、全員が合戦コインを差し出した。	고장 난 드론이 마구 날뛰고 있어요! 모든 인원이 파티 코인을 납부해 드론을 수리해야 해요.	A malfunctioning drone is running wild! Everyone needs to chip in some Party Gold to fix it.						0	3.0复刻捞金派对文案优化
+TxtRichManEvent7	接到世界树公司的加班电话，气急攻心晕过去住院2回合	接到世界樹公司的加班電話而氣急攻心暈了過去，住院2回合	残業通知に気絶して2ターン入院。	위그드라실로부터 초과 근무 요청 전화 수신, 스트레스로 기절해 2턴 병원에 입원	Fainted after getting a call from Yggdrasil about working overtime. Stay in the hospital for 2 turns.						0	
+TxtRichManEvent5Tips	与海之主缠斗中，当前回合不能行动	與海之主纏鬥中，此回合不能行動	海の主に苦戦し、このターン行動不能。	바다의 주인과 전투 중, 현재 턴에서 이동 불가	Trying to catch a king bream. Cannot perform any action this turn.						0	
+TxtRichManAskTip1	回答正确！	答對了!	正解！	정답!	Correct!						0	
+TxtRichManAskTip2	回答错误，没有奖励	答錯了，沒有獎勵	不正解、報酬なし	오답, 보상 없음	Wrong. No reward...						0	
+TxtRichManCardTips1	派对金币不足，使用失败	派對金幣不足，使用失敗	合戦コインが不足しているので、使用に失敗しました。	사용 실패, 파티 코인이 부족합니다.	Insufficient Party Gold, failed to use						0	
+TxtRichManMoneyTips1	派对金币不足，购买失败	派對金幣不足，購買失敗	合戦コインが不足しているので、購入に失敗しました。	구매 실패, 파티 코인이 부족합니다.	Insufficient Party Gold, failed to purchase						0	
+TxtRichManTips1	因为路上摆着修复舱，无法继续前进	修復艙擋住了去路，無法繼續前進	修復カプセルが道を塞いでいる。これ以上進むことはできない。	길에 복구 캡슐이 놓여 있어 전진할 수 없습니다.	A nerve repair pod is blocking the path ahead. Unable to advance further.						0	
+TxtRichManTips2	翻牌挑战开始！	翻牌挑戰開始!	チャレンジスタート！	카드 게임 도전 시작!	The Card Minigame challenge has begun!						0	
+TxtRichManTips3	物价上涨了！	物價上漲了!	物価が上昇！	물가 상승!	The Price Index went up!						0	
+TxtRichManTips4	离游戏结束还剩3回合！	距離遊戲結束僅剩3回合!	ゲーム終了まであと3ターン！	게임 종료까지 앞으로 3턴!	3 turns remaining until end of game!						0	
+TxtRichManTips5	身体不适，进医院休息%d回合	身體不適，進醫院休息%d回合	体調が悪いため、病院で%dターン休憩。	컨디션 하락, 병원에서 %d턴 휴식	Feeling unwell. Rest in the hospital for %d turn(s).						0	
+TxtRichManTips6	是否使用%s？	是否使用%s?	%sを使用しますか？	%s을(를) 사용하시겠습니까?	Confirm to use %s?						0	
+TxtRichManTips7	这里已经有道具了，不能再堆放其他道具	這裡已經有道具了，不能再堆放其他道具	すでにアイテムが存在するため、ほかのアイテムを置くことができません。	이미 아이템이 있어 다른 아이템을 추가할 수 없습니다.	An item is already here. There isn't any room for another.						0	
+TxtRichManTips8	周围没有可占领的土地	周圍沒有可占領的土地	付近に占領可能な土地がありません。	주변에 점령할 수 있는 땅이 없습니다.	No nearby property to occupy.						0	
+TxtRichManTips9	没有可清除的道具，无法使用	沒有可清除的道具，無法使用	クリアできるアイテムがないため、使えません。	제거할 아이템이 없어 사용할 수 없습니다.	No item to destroy. Unable to use.						0	
+TxtRichManTips10	周围只有你自己，无法使用道具	周圍沒有其他人，無法使用道具	周りに自身しかいないため、アイテムを使用できません。	주변에 다른 사람이 없어 아이템을 사용할 수 없습니다.	You're the only one nearby. Unable to use this item.						0	
+TxtRichManTips11	对方已经没有卡片啦~	對方已經沒有卡片啦~	相手はもうカードを持ってませんよー	상대에게 카드가 없습니다.	The player doesn't have any cards~						0	
+TxtRichManTips12	该角色已加入游戏	該角色已加入遊戲	この隊員はゲームに参加済みです	이미 게임에 참여한 캐릭터입니다.	The character has joined the game						0	
+TxtRichManTips13	医院休息中，还有%d回合	在醫院休養中，還有%d回合	病院で静養中、あと%dターン。	병원에서 휴식 중, %d턴 남았습니다.	Still recovering in the hospital for %d more turn(s)						0	
+TxtRichManTips14	身体恢复，出院啦	身體已恢復，可以出院啦	体調が回復し、退院した。	건강이 회복되어 퇴원합니다.	Recovered and out of the hospital						0	
+TxtRichManTips15	%s消耗了一张「自由逃离」，保住了自己的钱包	%s使用了一張「自由逃離」，保住了自己的錢包	%sは「自由離脱」を一枚消費して、財布を守った。	%s 님이 [자유 탈출] 1장을 소모해 지갑을 지켰습니다.	%s used Escape and protected their money.						0	
+TxtRichManTips16	{{Owner}}对{{Target}} 使用了「替身木遁」，让对方帮自己垫付了	{{Owner}}對{{Target}} 使用了「替身木遁」，讓對方幫自己代墊了	{{Owner}}が{{Target}}に「身代わりの術」を使い、相手に立て替えてもらった。	{{Owner}} → {{Target}}에게 [나무 방패]를 사용해 상대방에게 비용을 전가했습니다.	{{Owner}} used Substitute on {{Target}} and made them pay instead.						0	
+TxtRichManTips17	附近没有选手拥有卡牌，使用失败	附近沒有選手擁有卡牌，使用失敗	周辺にカードを持っている選手が存在しないため、使用できません。	사용 실패, 주변에 카드를 보유한 선수가 없습니다.	There aren't any players with cards nearby. No effect.						0	
+TxtRichManTips18	附近已经没有可以摆放的位置了	附近已經沒有可以擺放的位置了	近くに空いている所がありません。	주변에 배치할 자리가 없습니다.	There's no place to put it nearby.						0	
+TxtRichManWalk	前进%d步	前進%d步	%dマス前進	%d칸 전진	Advance %d space(s)						0	
+TxtRichVoteAwardsTips											0	
+TxtRichManTips19	%s步伐变得沉重，持续%d回合只能前进一步	%s步伐變得沉重，持續%d回合只能前進一步	%sの足が重くなり、1マスずつしか移動できない。%dターン持続。	%s의 걸음이 무거워져 %d턴 동안 1칸만 전진할 수 있습니다.	%s's legs grew heavy and can only move 1 space for the next %d turn(s).						0	
+TxtRichManTips20	传送成功	傳送成功	転送に成功した。	워프 성공	Teleport successful						0	
+chess03_1	特殊事件·加班电话	特殊事件·加班電話	スペシャルイベント・残業通知	특수 사건-야근 전화	Random Event: Overtime Call						0	
+chess03_1.desc	接了后反而能进医院睡觉	接了之後反而能進醫院睡覺	電話に出たら入院された。	받으면 오히려 병원에서 잘 수 있다.	At least you can rest in the hospital after taking the call						0	
+chess03_2	地块·医疗地块	區段·醫療區段	敷地・医療施設	지역-의료 지역	Space: Hospital Space						0	
+chess03_2.desc	医院门口的地块	醫院門口的區段	病院前の敷地	병원 입구 부근 지역	The space at the entrance to the hospital						0	
+chess03_3	空地皮	空土地	空き地	빈 부지	Empty Lot						0	
+chess03_3.desc	等一个不回家的人	等一個不回家的人	帰らない人を待つ	귀가하지 않은 사람을 기다린다.	Waiting for someone who won't come home						0	
+chess03_4	小木屋1级	小木屋1級	小屋Lv1	오두막 Lv.1	Cabin Lv. 1						0	
+chess03_4.desc	小木屋1级，属于%s	小木屋1級，屬於%s	小屋Lv1、%s所属	오두막 Lv.1, %s 전용	Cabin Lv. 1, owned by %s						0	
+chess03_5	小木屋2级	小木屋2級	小屋Lv2	오두막 Lv.2	Cabin Lv. 2						0	
+chess03_5.desc	小木屋2级，属于%s	小木屋2級，屬於%s	小屋Lv2、%s所属	오두막 Lv.2, %s 전용	Cabin Lv. 2, owned by %s						0	
+chess03_6	小木屋3级	小木屋3級	小屋Lv3	오두막 Lv.3	Cabin Lv. 3						0	
+chess03_6.desc	小木屋3级，属于%s	小木屋3級，屬於%s	小屋Lv3、%s所属	오두막 Lv.3, %s 전용	Cabin Lv. 3, owned by %s						0	
+chess03_7	小木屋「灰色」1级	小木屋「灰色」1級	小屋「灰色」Lv1	오두막 [회색] Lv.1	Gray Cabin Lv. 1						0	
+chess03_7.desc	小木屋「灰色」1级，暂无归属	小木屋「灰色」1級，暫無所屬	小屋「灰色」Lv1、所属なし	오두막 [회색] Lv.1, 소유자 없음	Gray Cabin Lv. 1, no owner						0	
+chess03_8	小木屋「灰色」2级	小木屋「灰色」2級	小屋「灰色」Lv2	오두막 [회색] Lv.2	Gray Cabin Lv. 2						0	
+chess03_8.desc	小木屋「灰色」2级，暂无归属	小木屋「灰色」2級，暫無所屬	小屋「灰色」Lv2、所属なし	오두막 [회색] Lv.2, 소유자 없음	Gray Cabin Lv. 2, no owner						0	
+chess03_9	小木屋「灰色」3级	小木屋「灰色」3級	小屋「灰色」Lv3	오두막 [회색] Lv.3	Gray Cabin Lv. 3						0	
+chess03_9.desc	小木屋「灰色」3级，暂无归属	小木屋「灰色」3級，暫無所屬	小屋「灰色」Lv3、所属なし	오두막 [회색] Lv.3, 소유자 없음	Gray Cabin Lv. 3, no owner						0	
+chess03_10	度假中心1级	渡假中心1級	リゾートセンターLv1	바캉스 센터 Lv.1	Resort Center Lv. 1						0	
+chess03_10.desc	度假中心1级，属于%s	渡假中心1級，屬於%s	リゾートセンターLv1、%s所属	바캉스 센터 Lv.1, %s 전용	Resort Center Lv. 1, owned by %s						0	
+chess03_11	度假中心2级	渡假中心2級	リゾートセンターLv2	바캉스 센터 Lv.2	Resort Center Lv. 2						0	
+chess03_11.desc	度假中心2级，属于%s	渡假中心2級，屬於%s	リゾートセンターLv2、%s所属	바캉스 센터 Lv.2, %s 전용	Resort Center Lv. 2, owned by %s						0	
+chess03_12	度假中心3级	渡假中心3級	リゾートセンターLv2	바캉스 센터 Lv.3	Resort Center Lv. 3						0	
+chess03_12.desc	度假中心3级，属于%s	渡假中心3級，屬於%s	リゾートセンターLv2、%s所属	바캉스 센터 Lv.3, %s 전용	Resort Center Lv. 3, owned by %s						0	
+chess03_13	度假中心「灰色」1级	渡假中心「灰色」1級	リゾートセンター「灰色」Lv1	바캉스 센터 [회색] Lv.1	Gray Resort Center Lv. 1						0	
+chess03_13.desc	度假中心「灰色」1级，暂无归属	渡假中心「灰色」1級，暫無所屬	リゾートセンター「灰色」Lv1、所属なし	바캉스 센터 [회색] Lv.1, 소유자 없음	Gray Resort Center Lv. 1, no owner						0	
+chess03_14	度假中心「灰色」2级	渡假中心「灰色」2級	リゾートセンター「灰色」Lv2	바캉스 센터 [회색] Lv.2	Gray Resort Center Lv. 2						0	
+chess03_14.desc	度假中心「灰色」2级，暂无归属	渡假中心「灰色」2級，暫無所屬	リゾートセンター「灰色」Lv2、所属なし	바캉스 센터 [회색] Lv.2, 소유자 없음	Gray Resort Center Lv. 2, no owner						0	
+chess03_15	度假中心「灰色」3级	渡假中心「灰色」3級	リゾートセンター「灰色」Lv3	바캉스 센터 [회색] Lv.3	Gray Resort Center Lv. 3						0	
+chess03_15.desc	度假中心「灰色」3级，暂无归属	渡假中心「灰色」3級，暫無所屬	リゾートセンター「灰色」Lv3、所属なし	바캉스 센터 [회색] Lv.3, 소유자 없음	Gray Resort Center Lv. 3, no owner						0	
+chess03_16	花园餐厅1级	花園餐廳1級	ガーデンレストランLv1	가든 레스토랑 Lv.1	Garden Cafe Lv. 1						0	
+chess03_16.desc	花园餐厅1级，属于%s	花園餐廳1級，屬於%s	ガーデンレストランLv1、%s所属	가든 레스토랑 Lv.1, %s 전용	Garden Cafe Lv. 1, owned by %s						0	
+chess03_17	花园餐厅2级	花園餐廳2級	ガーデンレストランLv2	가든 레스토랑 Lv.2	Garden Cafe Lv. 2						0	
+chess03_17.desc	花园餐厅2级，属于%s	花園餐廳2級，屬於%s	ガーデンレストランLv2、%s所属	가든 레스토랑 Lv.2, %s 전용	Garden Cafe Lv. 2, owned by %s						0	
+chess03_18	花园餐厅3级	花園餐廳3級	ガーデンレストランLv3	가든 레스토랑 Lv.3	Garden Cafe Lv. 3						0	
+chess03_18.desc	花园餐厅3级，属于%s	花園餐廳3級，屬於%s	ガーデンレストランLv3、%s所属	가든 레스토랑 Lv.3, %s 전용	Garden Cafe Lv. 3, owned by %s						0	
+chess03_19	花园餐厅「灰色」1级	花園餐廳「灰色」1級	ガーデンレストラン「灰色」Lv1	가든 레스토랑 [회색] Lv.1	Gray Garden Cafe Lv. 1						0	
+chess03_19.desc	花园餐厅「灰色」1级，暂无归属	花園餐廳「灰色」1級，暫無所屬	ガーデンレストラン「灰色」Lv1、所属なし	가든 레스토랑 [회색] Lv.1, 소유자 없음	Gray Garden Cafe Lv. 1, no owner						0	
+chess03_20	花园餐厅「灰色」2级	花園餐廳「灰色」2級	ガーデンレストラン「灰色」Lv2	가든 레스토랑 [회색] Lv.2	Gray Garden Cafe Lv. 2						0	
+chess03_20.desc	花园餐厅「灰色」2级，暂无归属	花園餐廳「灰色」2級，暫無所屬	ガーデンレストラン「灰色」Lv2、所属なし	가든 레스토랑 [회색] Lv.2, 소유자 없음	Gray Garden Cafe Lv. 2, no owner						0	
+chess03_21	花园餐厅「灰色」3级	花園餐廳「灰色」3級	ガーデンレストラン「灰色」Lv3	가든 레스토랑 [회색] Lv.3	Gray Garden Cafe Lv. 3						0	
+chess03_21.desc	花园餐厅「灰色」3级，暂无归属	花園餐廳「灰色」3級，暫無所屬	ガーデンレストラン「灰色」Lv3、所属なし	가든 레스토랑 [회색] Lv.3, 소유자 없음	Gray Garden Cafe Lv. 3, no owner						0	
+chess03_22	道具点	道具點	カードマス	아이템 지점	Item Space						0	
+chess03_22.desc	获得即刻引爆	獲得即刻引爆	ボミングタイムを獲得	즉시 폭파 획득	Obtain Screw Mine.						0	
+chess03_23.desc	获得特制地雷	獲得特製地雷	特製地雷を獲得	특제 지뢰 획득	Obtain Explosive Device.						0	
+chess03_24.desc	获得泰坦降临	獲得泰坦降臨	タイタン降臨を獲得	타이탄 강림 획득	Obtain Titan Descent.						0	
+chess03_25	翻牌游戏	翻牌遊戲	神経衰弱	카드 게임	Card Minigame						0	
+chess03_25.desc	挑战一下眼力和手速吧	挑戰一下眼力和反應速度吧	動体視力と手先の素早さに挑戦してみよう	뛰어난 눈썰미와 빠른 손놀림으로 도전!	Put your eyesight and speed to the test.						0	
+chess03_26	吧台问答	吧台問答	カウンター問答	바 퀴즈	Tavern Trivia						0	3.0复刻捞金派对文案优化
+chess03_26.desc	来，试试看	來，試試看	さあ、やってみよう。	자, 한번 해볼까?	Come give it a try.						0	
+chess03_27	随机事件	隨機事件	ランダムイベント	랜덤 사건	Random Event						0	
+chess03_27.desc	这里会发生什么呢	這裡會發生什麼呢	ここでは何が起こるのだろう	여기에서 무슨 일이 일어날까?	What will happen here?						0	
+chess03_28	传送门	傳送門	転送ゲート	워프 게이트	Teleporter						0	
+chess03_28.desc	传送到其他的地方去	傳送到其他地方去	他の場所に転送する	다른 지역으로 워프할 수 있다.	Teleport to another place on the map.						0	
+chess03_29	睡眠舱	睡眠艙	睡眠ポッド	수면 캡슐	Nerve Repair Pod						0	
+chess03_29.desc	禁止通行	禁止通行	通行止め	통행금지	Roadblock obstructs the path.						0	
+chess03_30	螺丝钉	螺絲釘	ネジ	나사못	Screw Mine						0	
+chess03_30.desc	路过就会爆炸哦	路過就會爆炸喔	近くを通ると爆発するよ	지나치면 폭발한다.	Explodes when you pass by it.						0	
+chess03_31	保险箱	保險箱	金庫	보안 상자	Explosive Device						0	
+chess03_31.desc	踩中就会爆炸哦	踩到就會爆炸喔	踏むと爆発するよ	밟으면 폭발한다.	Explodes when you stop on it.						0	
+chess03_32	无	無	無	없음	None						0	
+chess03_32.desc	这里什么也没有	這裡什麼也沒有	ここには何もない	여긴 아무것도 없다.	Nothing to see here.						0	
+chess03_33	随机道具	隨機道具	ランダムカード	랜덤 아이템	Random Item						0	
+chess03_33.desc	随机获得四张卡牌	隨機獲得四張卡牌	ランダムに4枚のカードを手に入れる	랜덤으로 4장의 카드를 획득한다.	Obtain four random cards.						0	
+TxtRichManInfoTitle1	活动说明	活動說明	イベント説明	이벤트 설명	Event Overview						0	
+TxtRichManInfoTitle2	游戏操作	遊戲操作	ゲーム操作	게임 조작	Game Controls						0	
+TxtRichManInfoTitle3	游戏模式	遊戲模式	ゲームモード	게임 모드	Game Mode						0	
+TxtRichManInfo1des1	欢迎游玩捞金派对，尽量在游戏中获得派对金币吧！	歡迎參加淘金派對，盡可能地在遊戲中獲得派對金幣吧!	富豪合戦にようこそ、ゲームの中でたくさんの合戦コインを集めましょう！	골드 러시에 오신 걸 환영해요. 최대한 게임을 통해 파티 코인을 얻어 보세요!	Welcome to Goldrush Party! Collect as much Party Gold as you can.						0	
+TxtRichManInfo1des2	所在队伍派对金币在结算时排名第一，则获胜。	所在隊伍的派對金幣於結算時排名第一則算獲勝。	所属しているチームの合戦コインが、集計時に第一位になれば、勝利です。	결산 시 소속 중인 팀의 파티 코인이 1위를 차지하면 승리하게 돼요.	If your team has the most Party Gold at the end of the game, you win.						0	
+TxtRichManInfo1des3											0	
+TxtRichManinfo2des1	点击前进按钮可随机前进1~6格，使用遥控骰子可指定前进格数。	點擊前進按鈕可隨機前進1~6格，使用遙控骰子可以指定前進格數。	前進ボタンをタップすると、ランダムで1～6マス進めます。リモコンダイスを使って、進めるマスを指定できます。	전진 버튼을 누르면 랜덤으로 1~6칸을 전진할 수 있으며, 원격 주사위를 사용하면 전진할 칸 수를 정할 수 있다.	Click the Move button to randomly advance 1–6 spaces. Use Selector Spin to choose exactly how many spaces to advance.						0	
+TxtRichManinfo2des2	合理规划手中的派对金币和卡片道具，购买地产，升级建筑，从别人手中获得更多的金钱吧！	善用手中的派對金幣和卡片道具，置產、升級建築，從他人手中賺取更多金錢吧!	手元の合戦コインやカードを賢く運用して、不動産を購入したり、建物をレベルアップしたり、他の選手からより多くのコインを得ましょう！	보유한 파티 코인과 카드 아이템을 적절히 사용해 부동산을 구매하고, 건물을 업그레이드해 더 많은 자금을 얻어보세요!	Be strategic about your Party Gold and card items as you try to buy property, upgrade buildings, and take gold from other players!						0	
+TxtRichManinfo2des3	前进的过程中还将遇到各种事件，积极应对吧！	在前進的過程中將會遇到各種事件，請積極應對吧!	マスを進めるとさまざまなイベントに遭遇することもありますので、積極的に対処しましょう！	전진 중에 다양한 사건을 만나게 될 거예요. 이때 적극적으로 대처해 보세요!	You will encounter various events when moving around the map. Handle them like a true member of Heimdall!						0	
+TxtRichManinfo3des1	传统模式：主要通过房产来获得派对金币，被道具卡功能可能会进医院。	傳統模式:主要透過房地產來獲得派對金幣，遭受道具卡攻擊時可能會進醫院。	クラシックモード：主に不動産を通じて合戦コインを獲得します。アイテムカードの効果によって入院することもあります。	클래식 모드: 주로 부동산을 통해 파티 코인을 얻으며, 아이템 카드 공격으로 병원에 들어갈 수 있다.	Classic Mode: Mainly obtain Party Gold from properties. You might go to the hospital when other players attack you with items.						0	
+TxtRichManinfo3des2	道具战：地图上房屋减少，通过「特制地雷」「即刻引爆」「泰坦降临」来攻击对手，使对手金钱减少，此模式不会进医院。	道具戰:地圖上的房屋減少，使用「特製地雷」、「即刻引爆」、「泰坦降臨」來攻擊對手，使對手的金錢減少，此模式不會進醫院。	カード戦：地図上の建物が少なくなります。「特製地雷」、「ボミングタイム」、「タイタン降臨」で相手を攻撃することで、相手のコインを減らせます。このモードでは、病院に搬送されることはありません。	아이템전: 지도상의 주택이 줄어들면 [특제 지뢰], [즉시 폭파], [타이탄 강림]을 통해 상대를 공격하고 상대의 자금을 감소시킨다. 해당 모드에서는 병원에 들어갈 수 없다.	Item Battle: There are less properties on the map. You can use Explosive Device, Screw Mine, and Titan Descent to attack other players and make them lose gold. You will not go to the hospital in this mode.						0	
+TxtRichManinfo3des3	共斗战：在传统模式的基础上合力使透墨索斯破产，透墨索斯有更高的初始资产和技能，和队员们一起战胜透墨索斯吧。	共鬥戰：以傳統模式為基礎並合作讓透墨索斯破產，透墨索斯擁有更多的初始資產和技能。和隊員們們一同戰勝透墨索斯吧。	共闘モード：テウメッサがファイナルボスとして登場！\nクラシックモードと基本ルールは同じ。隊員たちと協力して、テウメッサを破産に追い込もう！ テウメッサは高い初期資産と強力なスキルを持つ手強い相手だ。	팀전: 클래식 모드를 바탕으로 힘을 합쳐 테우메소스를 파산시킨다. 테우메소스는 더 많은 초기 자산과 스킬을 가지고 있으며, 팀원들과 함께 테우메소스를 쓰러뜨려야 한다.	Team Battle: Similar settings to Classic Mode, but now you need to team up to bankrupt Teumessian, who will have skills and start with more gold. Defeat this boss enemy together with the operatives!						0	3.0复刻捞金派对文案优化
+TxtRichManCardName1	行向变更	方向更變	方向転換	방향 변경	Direction Changer						0	
+TxtRichManCardName2	过量负重	超荷負重	過量負荷	과부하	Extra Weight						0	
+TxtRichManCardName3	万里挑一	萬裡挑一	万にひとつ	최상의 선택	Selector Spin						0	
+TxtRichManCardName4	跌破谷底	跌破谷底	大暴落	최저가 구매	Discount Opportunity						0	
+TxtRichManCardName5	看看工资	看看薪水	給料いくら？	월급쟁이	Salary Poacher						0	
+TxtRichManCardName6	小手一摸	小手一摸	ちょっと失敬	깜짝 사건	Pickpocket						0	
+TxtRichManCardName7	替身木遁	替身木遁	身代わりの術	나무 방패	Substitute						0	
+TxtRichManCardName8	自由逃离	自由逃離	自由離脱	자유 탈출	Escape						0	
+TxtRichManCardName9	毁天灭地	毀天滅地	アルマゲドン	파괴왕	Path Clearer						0	
+TxtRichManCardName10	特制地雷	特製地雷	特製地雷	특제 지뢰	Explosive Device						0	
+TxtRichManCardName11	即刻引爆	即刻引爆	ボミングタイム	즉시 폭파	Screw Mine						0	
+TxtRichManCardName12	泰坦降临	泰坦降臨	タイタン降臨	타이탄 강림	Titan Descent						0	
+TxtRichManCardName13	禁止通行	禁止通行	通行止め	통행금지	Roadblock						0	
+TxtRichManCardNameDes1	指定选中的角色转身，朝着相反方向前行	指定所選中的角色轉身，朝反方向前進	指定した選手を正反対の方向に移動させる。	선택한 캐릭터가 돌아서서 반대 방향으로 간다.	Turn the selected player around so that they will move in the other direction.						0	
+TxtRichManCardNameDes2	指定选中的角色在接下来的3回合中，每回合只能前进1格	指定所選中的角色在接下來的3回合中，每回合只能前進1格	指定した選手は以降3ターンの間、毎ターン1マスしか移動できなくなる。	선택한 캐릭터가 다음 3턴 동안 매턴당 1칸만 전진할 수 있다.	Limit the selected player's movement to only 1 space in each of their next 3 turns.						0	
+TxtRichManCardNameDes3	使用后，使用者的角色在当前回合可选择前方1~6格指定前进	使用後，使用者的角色在當前回合可以選擇前方1~6格指定前進	使用すると、使用者はこのターン中、前方1~6マスの中から前進するマスを選べる。	사용 시 사용자의 캐릭터가 현재 턴에서 전방 1~6칸을 직접 선택하여 전진할 수 있다.	Choose to move between 1 and 6 spaces in the current turn.						0	
+TxtRichManCardNameDes4	使用后，可购买角色所在的土地，土地购买价格会根据转盘停留的数字变化。数字＞3时，可半价购买当前土地；数字≤3时，则原价购买。	使用後，可購買角色所在的土地，土地售價會根據轉盤所轉到的數字而有所變化。數字＞3時，可半價購買當前土地;數字≤3時，則為原價購買。	使用すると、使用者は現在いるマスの土地を買い取ることができる。購入金額はルーレットの出目によって変化する。出目が3より高い場合、土地を半額で購入できる。出目が3以下の場合、元の値段で購入できる。	사용 시 캐릭터가 위치한 땅을 구매할 수 있다. 땅의 구매 가격은 룰렛이 멈추는 숫자에 따라 달라진다. 숫자가 3 이상이면 50% 저렴한 가격으로 구매할 수 있으며, 숫자가 3 이하이면 원래 가격에 구매한다.	Can choose to purchase the property at the current space at a possible discount. If the spinner stops on 4 or above, the property price will be cut in half; if the spinner stops on 3 or below, the property price will not change.						0	
+TxtRichManCardNameDes5	从指定角色获得20%的资产	從指定角色手中獲得20%資產	指定した選手から資産を20%もらう。	특정 캐릭터로부터 자산의 20%를 획득한다.	Take 20% of the selected player's Party Gold.						0	
+TxtRichManCardNameDes6	使用后，可指定身处自己所在格子附近6格范围内的角色，从其所持事件卡牌中，随机获得一张。	使用後，可指定身處自己所在格子附近6格範圍內的角色，隨機獲得一張其所持有的事件卡牌。	使用すると、自身が現在いるマスから6マス以内の選手を指定し、対象が所持しているカードからランダムで1枚を手に入れることができる。	사용 시 자신을 중심으로 주변의 6칸 범위 내의 캐릭터를 지정해, 해당 캐릭터가 보유한 사건 카드 중 1장을 랜덤으로 획득한다.	Select a player within 6 spaces away and take 1 random card from them.						0	
+TxtRichManCardNameDes7	因为任何原因入院或者受到攻击造成一定金钱损失时，可以用此卡找人替代，不可再次被「自由逃离」和「替身木遁」抵消。	因為任何原因而入院或者遭受攻擊造成一定的金錢損失時，可以使用此卡片找替代者，不可再次被「自由逃離」和「替身木遁」抵銷。	なんらかの理由で入院あるいは合戦コインを失った時に、このカードを使うことで他の誰かに肩代わりさせる。「自由脱走」と「身代わりの術」の効果を打ち消すことはできない。	어떠한 이유로 입원하거나 공격을 받아 일정 금액의 금전적 손실을 입은 경우, 해당 카드를 사용하면 다른 사람으로 대체할 수 있다. [자유 탈출]과 [나무 방패]로 다시 상쇄할 수는 없다.	When the user is about to be sent to the hospital or lose gold due to being attacked, transfers the effect to another player instead. The selected player cannot use Escape or Substitute to cancel out the effect.						0	
+TxtRichManCardNameDes8	资金即将损失时，使用后，可逃过此次损失，不可用来抵消「替身木遁」	在即將損失資金時使用即可逃避本次損失，不可用來抵銷「替身木遁」	お金を失う寸前に使用することで、その損失をなかったことにできる。「身代わりの術」の効果を打ち消すことはできない。	자금 손실이 임박한 경우에 사용하면 해당 손실을 피할 수 있다. [나무 방패]로는 상쇄할 수 없다.	When the user is about to lose gold, can use to cancel the loss. Cannot be used to cancel out the effect of Substitute.						0	
+TxtRichManCardNameDes9	使用后，可摧毁指定范围内格子上的所有障碍	使用後，可摧毀指定範圍內格子上的所有障礙	使用すると、指定範囲内のマスにあるすべての障害物を破壊できる。	사용 시 특정 범위 내의 칸에 위치한 모든 방해물을 파괴할 수 있다.	Destroy an obstacle on the selected space within a certain range.						0	
+TxtRichManCardNameDes10	使用后，在指定格子上放置螺丝钉，碰到就爆炸	使用後，在指定格子上放置螺絲釘，碰到就會爆炸	使用すると、指定のマスに触れたら爆発するネジを設置できる。	사용 시 특정 칸에 나사못을 설치하고, 닿으면 폭발한다.	Place a special screw on the selected space. It will explode when a player passes it.						0	
+TxtRichManCardNameDes11	使用后，在指定格子上放置实验箱，踩中后爆炸	使用後，在指定格子上放置實驗箱，踩到就會爆炸	使用すると、指定のマスに触れたら爆発する実験箱を設置できる。	사용 시 특정 칸에 실험 상자를 설치하고, 밟으면 폭발한다.	Place an experimental explosive box on the selected space. It will explode when a player stops on it.						0	
+TxtRichManCardNameDes12	向指定对手释放「泰坦降临」，且所处地块的建筑降低一级（已经是初始等级的房子不会降级），并引爆周围三格内的螺丝钉和实验箱	向指定對手施放「泰坦降臨」，且所處之地的建築物降低一級(若為初始等級的房子則不會降級)，並引爆周圍三格內的螺絲釘和實驗箱	指定した相手に「タイタン降臨」を発動し、所在地の建物を1レベル低く（初期レベルの建物はそれ以上低くならない）して、周囲3マス内のネジと実験箱を爆発させる	특정 상대에게 [타이탄 강림]을 시전하고 해당 지역의 건물 레벨을 1레벨 감소시키며(초기 레벨의 건물은 감소하지 않음), 주변 3칸의 나사못과 실험 상자가 폭파된다.	Unleash a Titan Descent upon the selected player and reduce the level of the property on that space by 1 (cannot be reduced to less than Lv. 1). Also detonates any Screw Mines and Explosive Devices within 3 spaces away.						0	
+TxtRichManCardNameDes13	使用后，在选中的格子上放置路障，阻碍角色前行	使用後，在所選的格子上放置路障，用來阻礙角色前進	使用すると、指定したマスに通行禁止の障害物を設置できる。	사용 시 선택한 칸에 바리케이드를 설치해 캐릭터의 전진을 막는다.	Place a roadblock on the selected space to prevent players from moving past it.						0	
+TxtSkill1	第一回合可获得一张「看看工资」	第一回合可獲得一張「看看薪水」	最初のターンで「給料いくら？」を1枚獲得できる	[월급쟁이] 획득 및 사용 가능	Can obtain 1 Salary Poacher card on the first turn						0	
+TxtSkill2	翻牌游戏直接获得最高奖励	翻牌遊戲直接獲得最高獎勵	神経衰弱で直接最高の報酬を獲得	카드 게임에서 최고 보상 획득	Directly obtain the highest reward when landing on the Card Minigame space						0	
+TxtSkill3	随机道具点额外获得「行向变更」	經過隨機道具時額外獲得「方向更變」	ランダムカードを通過した時、追加で「方向転換」を獲得。	랜덤 아이템을 지날 때 추가로 [방향 변경] 획득	Additionally obtain Direction Changer when passing a Random Item space						0	
+TxtSkill4	陷阱点（睡眠舱 保险箱 螺丝钉）概率无效	陷阱點(睡眠艙、保險箱、螺絲釘)有機率無效	トラップマス（睡眠ポッド、金庫、ネジ）が一定の確率で無効になる	함정 지점 (수면 캡슐, 보안 상자, 나사못) 확률 무효	Trap spaces potentially have no effect (nerve repair pod, explosive device, screw mine)						0	
+TxtSkill5	陷阱点（睡眠舱 保险箱 螺丝钉）概率无效	陷阱點(睡眠艙、保險箱、螺絲釘)有機率無效	トラップマス（睡眠ポッド、金庫、ネジ）が一定の確率で無効になる	함정 지점 (수면 캡슐, 보안 상자, 나사못) 확률 무효	Trap spaces potentially have no effect (nerve repair pod, explosive device, screw mine)						0	
+TxtSkill6	住院时间减少1天	住院時間減少1天	入院日数-1日	입원 시간 1일 감소	Time in the hospital is reduced by 1 turn						0	
+TxtSkill7	联排房屋租金上升20%	連棟住宅租金上漲20%	タウンハウスの家賃+20%	펜트하우스 임대료 20% 상승	20% rent increase on buildings on adjacent spaces						0	
+TxtSkill8	住院时间减少1天，所有房产租金上涨20%	住院時間減少1天，所有房產租金上漲20%	入院日数-1日、すべての不動産の家賃+20%	입원 시간 1일 감소, 모든 부동산 임대료 20% 상승	Time in the hospital is reduced by 1 turn and 20% rent increase on all buildings						0	
+TxtSkillTips1	芙提雅预先拆除了陷阱	芙提雅預先拆除了陷阱	フリティアはあらかじめ罠を解除した！	프티야가 미리 함정을 제거했습니다.	Fritia disassembled the trap before it exploded						0	
+TxtSkillTips2	猫汐尔躲开了陷阱！	貓汐爾躲開了陷阱!	マーシルが罠を回避した！	캣 시에라가 함정을 피했습니다!	Mauxir avoided the trap!						0	
+TxtSkillTips3	%s提前出院了	%s提前出院了	%sが早めに退院した。	%s은(는) 이미 퇴원했습니다.	%s got out of the hospital early						0	
+TxtSkillTips4	安卡希雅主宰了游戏，直接赢得奖励	安卡希雅主宰了遊戲，直接贏得獎勵	アカシアがゲームを掌握して、報酬を掠め取りました。	아카시아가 게임을 주도하고 보상을 획득합니다.	Acacia's mad gaming skills instantly earned her the reward						0	
+TxtSkillTips5	「看看工资」被「替身木遁」转移给你了，卡牌使用失败	「看看薪水」被「替身木遁」轉移給你了，卡牌使用失敗	「身代わりの術」で「給料いくら？」をあなたに移した！カードの使用に失敗	카드 사용 실패, [월급쟁이]가 [나무 방패]로 전이되었습니다.	Salary Poacher was transferred to you by Substitute. The item didn't have any effect.						0	
+TxtGameTips5	时间到，游戏结束！	時間到，遊戲結束!	時間切れ、ゲーム終了！	시간 초과, 게임 종료!	Time's up! The game is over!						0	
+TxtGameTips6	如果提前完成翻牌游戏可以提前提交进度	如果提早完成翻牌遊戲，可以提前提交進度	神経衰弱を早く終わらせれば、進捗を早めに提出できます。	카드 게임을 미리 완료하면 진도를 사전에 제출할 수 있습니다.	If you complete a Card Minigame before time runs out, you can submit your progress earlier.						0	
+TxtGameTips7	是否放弃翻牌游戏？	是否放棄翻牌遊戲?	神経衰弱をあきらめますか？	카드 게임을 포기하시겠습니까?	Give up on the Card Minigame?						0	
+TxtRichManDes1_1	操作说明：点击前进按钮，可随机前进1~6格，前进过程中可能会触发各种事件，根据情况应对吧！物价指数：物价指数会影响场上所有地产的租金，和事件所产生的金钱收支；当物价指数增加时，游戏内会提示物价指数上涨。	操作說明:點擊前進按鈕可隨機前進1~6格，在前進的過程中將會觸發各種事件，請根據情況積極應對吧!物價指數:物價指數會影響場上所有房產的租金和事件所產生的金錢收支;當物價指數上漲時，遊戲內將出現相關提示。	操作説明：前進ボタンをタップすると、ランダムで1～6マス進めます。マスを進めるとさまざまなイベントに遭遇することもありますので、積極的に対処しましょう！物価指数：物価指数は場にあるすべての不動産の家賃や、イベントにおける収支に影響を与えます。物価指数が上昇すると、ゲーム内で物価指数の上昇が通知されます。	조작 설명: 전진 버튼을 누르면 랜덤으로 1~6칸 전진할 수 있다. 전진 중에 다양한 사건이 발생할 수 있으니 상황에 맞게 대처해야 한다.물가 지수: 물가 지수는 필드 상의 모든 부동산 임대료와 사건으로 발생하는 금전적 수입과 지출에 영향을 준다. 물가 지수가 올라가면 게임 내에 물가 지수 상승 알림이 표시된다.	Controls: Click the Move button to randomly advance 1–6 spaces. Various events might be triggered as you move around the map that you will need to deal with. Price Index: The Price Index will affect all property rent and event costs. The game will remind you when the Price Index increases.						0	
+TxtRichManDes1_2	物价指数：物价指数会影响场上所有地产的租金，和事件所产生的金钱收支；当物价指数增加时，游戏内会提示物价指数上涨	物價指數:物價指數會影響場上所有房產的租金和事件所產生的金錢收支;當物價指數上漲時，遊戲內將出現相關提示。	物価指数：物価指数は場にあるすべての不動産の家賃や、イベントにおける収支に影響を与えます。物価指数が上昇すると、ゲーム内で物価指数の上昇が通知されます。	물가 지수: 물가 지수는 필드 상의 모든 부동산 임대료와 사건으로 발생하는 금전적 수입과 지출에 영향을 준다. 물가 지수가 올라가면 게임 내에 물가 지수 상승 알림이 표시된다.	Price Index: The Price Index will affect all property rent and event costs. The game will remind you when the Price Index increases.						0	
+TxtRichManDes2_1	房产是捞金派对活动中主要资金来源，购买房产后可向其他队伍收取租金，如果房产拥有者住院了，则无法收取租金。普通地皮购买后只能获得1级房屋，再次停留时才可以升级，升级后可以获得更多租金，最多升到3级。	房產是淘金派對活動中的主要資金來源，購買房產後可向其他隊伍收租，假如房產持有者住院了，則無法收租。購買普通空土地後只能獲1級房屋，再次停留時才能升級，升級後可以獲得更多租金，最高升到3級。	不動産は「富豪合戦」イベントの主な資金源であり、不動産を購入した後は他のチームに家賃を徴収できます。不動産の所有者が入院した場合、家賃を徴収できません。通常の土地を購入してもLv1の建物しか入手できませんが、レベルは再度滞在した際にアップできます。レベルアップ後は多くの家賃を獲得可能で、最大でLv3まで上昇できます。	부동산은 골드 러시 이벤트의 주요한 자금원이며, 부동산 구매 후 다른 팀에게서 임대료를 받을 수 있다. 만약 부동산 소유주가 입원하게 되면, 임대료를 받을 수 없다.일반 땅 구매 시 Lv.1 주택만 획득할 수 있으며, 다시 체류하게 될 경우 업그레이드가 가능한다. 업그레이드 후에는 임대료가 상승하며 최대 Lv.3까지 업그레이드할 수 있다.	Properties are the main source of gold in Goldrush Party. After you purchase property, other players will have to pay you rent on it except for when you are in the Hospital. When purchasing an Empty Lot, you can only set up a Lv. 1 building on it at first. You can upgrade it the next time you come to it, which increases its rent. You can upgrade buildings up to Lv. 3.						0	
+TxtRichManDes2_2	普通地皮购买后只能获得1级房屋，再次停留时才可以升级，升级后可以获得更多租金，最多升到3级。	購買普通空土地後只能獲1級房屋，再次停留時才能升級，升級後可以獲得更多租金，最高升到3級。	通常の土地を購入してもLv1の建物しか入手できませんが、レベルは再度滞在した際にアップできます。レベルアップ後は多くの家賃を獲得可能で、最大でLv3まで上昇できます。	일반 땅 구매 시 Lv.1 주택만 획득할 수 있으며, 다시 체류하게 될 경우 업그레이드가 가능한다. 업그레이드 후에는 임대료가 상승하며 최대 Lv.3까지 업그레이드할 수 있다.	When purchasing an Empty Lot, you can only set up a Lv. 1 building on it at first. You can upgrade it the next time you come to it, which increases its rent. You can upgrade buildings up to Lv. 3.						0	
+TxtRichManDes2_3	如果遇到了初始等级高的建筑请优先购买，可以更早收取更多租金，节约升级的时间。	如果遇到了初始等級較高的建築，建議優先購買，如此一來便能提早收取較多租金，節省升級時間。	初期Lvが高い建物に遭遇した場合は優先して購入してください。早い段階から多くの家賃が入手可能となり、レベルアップの時間を節約できます。	기본 레벨보다 높은 건물이 있다면 우선은 구매하는 것이 좋다. 일찍 매입하고 많은 임대료를 받아야 업그레이드 시간을 단축할 수 있다.	It's a good idea to purchase buildings with higher starting levels when you have the chance, as you are able to charge higher rent earlier and save time upgrading.						0	
+TxtRichManDes3	将道具卡成对翻面，倒计时结束时根据配对数量和剩余时间获得派对金币。（安卡希雅可直接获得奖励，不用翻牌。）	將成對的道具卡翻面，在倒數計時結束時會根據配對數量和剩餘時間來獲得相應的派對金幣。(安卡希雅可直接獲得獎勵，不須翻牌)	カードを2枚一組でめくり、カウントダウン終了時にペアが成立した数と残り時間に応じて合戦コインを獲得します。（アカシアは直接報酬を得ることができ、カードをめくる必要はありません。）	아이템 카드를 짝지어 뒤집고, 제한 시간이 끝나면 페어 수량과 남은 시간에 따라 파티 코인을 획득한다.(아카시아는 카드를 뒤집지 않고도 바로 보상 획득 가능)	Flip over the cards in pairs. At the end, you will obtain Party Gold based on how many matches you made and how much time is remaining. (Acacia's skill allows her to obtain the reward directly without flipping over cards.)						0	
+TxtRichManDes4_1	剧情模式有固定的参赛选手和游玩天数，当玩家通关剧情模式会解锁自由模式，自由模式下玩家可调整参赛选手与游戏设置。每个角色有其专属技能，可在自由模式中进行查看。	劇情模式中有固定的參賽選手和遊玩天數，當玩家通關劇情模式後會解鎖自由模式，玩家在自由模式中可自行調整參賽選手與遊戲設定。每位角色都有其專屬技能，可在自由模式中確認。	ストーリーモードでは参加選手とプレイ日数が固定されていて、ストーリーモードをクリアすることでフリーモードが解放されます。フリーモードでは参加選手やゲームの設定を調整できます。それぞれの選手には専用のスキルがあり、フリーモードで確認できます。	스토리 모드는 참가 선수와 게임 일 수가 고정되어 있으며, 스토리 모드를 클리어하면 자유 모드가 해제된다. 자유 모드에서는 참가 선수와 게임 설정을 조정할 수 있다.각 캐릭터마다 전용 스킬이 있으며, 자유 모드에서 확인할 수 있다.	Story Mode consists of games with set players and length. After completing all stages in Story Mode, you will unlock Freeplay Mode, where you can customize the players and game settings. Each character has an exclusive skill. You can view them in Freeplay Mode.						0	
+TxtRichManDes4_2	每个角色有其专属技能，可在自由模式中进行查看。	每位角色都有其專屬技能，可在自由模式中確認。	それぞれの選手には専用のスキルがあり、フリーモードで確認できます。	각 캐릭터마다 전용 스킬이 있으며, 자유 모드에서 확인할 수 있다.	Each character has an exclusive skill. You can view them in Freeplay Mode.						0	
+TxtRichManDes5_1	结算时总排名根据现金+房产来排列，房产根据结算时的实时购买价格折算。	結算時總排名根據現金+房產來排列，房產根據結算時的實時購買價格折算。	最終順位は、集計時の「合戦コイン＋不動産の総額」で決定。不動産の価値は集計時点の購入価格で計算される。	결산 시 총 랭킹은 현금과 부동산에 따라 정렬되며, 부동산은 결산할 때 실시간 구매 가격에 따라 변환된다.	Final rankings are determined by the sum of total cash and property prices at the end of the game.						0	3.0复刻捞金派对文案优化
+TxtRichManDes5_2		排名每小時更新一次，在活動結束時，將會發放專屬小獎勵給全服排名第一的玩家。	1時間ごとにランキングが更新されます。イベント終了時には、全参加者を対象にランキング1位の選手の専属報酬が配布される予定です。	랭킹은 1시간마다 업데이트되며, 추후 이벤트 종료 시 랭킹 1위 선수에게 지급되는 전용 보상을 전체 서버 유저에게 지급할 예정이다.	The rankings will be updated once per hour. After final vote results are tallied at the end of the event, an exclusive reward will be issued to all players on the server who voted for the winning character.						0	
+TxtRichManDes6_1	道具战模式中，螺丝钉和保险箱爆炸范围扩大，角色不会受伤进入医院，受到伤害后金钱会减少。	在道具戰模式中，螺絲釘和保險箱的爆炸範圍擴大，角色不會受傷進入醫院，遭受傷害後會損失金錢	カード戦モードでは、ネジと金庫の爆発範囲が拡大し、参加者はケガをすると入院するのではなく、ダメージを受けるとお金が減少します	아이템전 모드에서는 나사못과 보안 상자의 폭발 범위가 확장되며, 캐릭터가 대미지를 입지 않고 병원에 들어가게 되며, 대미지를 입은 후에는 자금이 차감된다.	In Item Duel, the blast radius of Screw Mines and Explosive Devices is increased. When players are hurt, they will just lose Party Gold instead of going to the hospital.						0	
+TxtItemTips1	住院剩余回合数：%d	住院剩餘回合數:%d	入院残りターン：%d	남은 입원 턴 수: %d	Hospital stay turns left: %d						0	
+TxtItemTips2	「过量负重」剩余回合数：%d	「超荷負重」剩餘回合數:%d	「過量負荷」残りターン：%d	남은 [과부하] 턴 수: %d	Extra Weight turns left: %d						0	
+TxtItemTips3	持有道具卡：%d	持有道具卡:%d	所持しているカード：%d	보유 아이템 카드: %d	Current card: %d						0	
+TxtRichManCardotherdes1	今天的训练是折返跑，以晴所在的地为折返点，快点，动起来！	今天的訓練是折返跑，晴所在的地方為折返點，快點動起來!	今日のメニューは往復走だよ。折り返し地点は晴がいる場所。一緒に体を動かして、いっくよー！	오늘 훈련은 왕복달리기다! 하루가 있는 곳이 왕복 지점이니 어서 움직이자!	Today's training is the reverse of yesterday's run. Turn around where Haru is at. Get a move on!						0	
+TxtRichManCardotherdes2	背着重重的包，一步一步地，往前爬。	背著非常重的包，一步一步往前爬。	重いカバンを背負って、一歩一歩進む。	무거운 가방을 짊어지고, 한 걸음 한 걸음 기어가자.	It's such a heavy bag, but you need to keep moving... even if it's one step at a time.						0	
+TxtRichManCardotherdes3	请求安卡希雅使用了她百发百中的飞刀技巧，一定能够选中想要的步数	請求安卡希雅使用了她百發百中的飛刀技巧，一定能夠選中想要的步數	アカシアに、投げナイフが必ず命中するテクニックを使って投げてもらった。必ず欲しい歩数を当てられる。	아카시아에게 백발백중의 비수 스킬을 사용해달라고 부탁해 보자. 원하는 걸음 수를 선택할 수 있을 것이다.	Acacia was able to use her flying dagger skill to slow down the spinner. You can easily stop the spinner on the number you want.						0	
+TxtRichManCardotherdes4	只要贴上这个标签，琴诺喜欢的东西就都会变成琴诺的了……难道不是吗？如果给分析员贴上的话……	只要貼上這個標籤，琴諾喜歡的東西都會變成琴諾的了……難道不是嗎?如果貼在分析員身上的話……	チェルノの好きな物にこのシールを貼ったら、チェルノのものになる……そういうことですよね？もし分析員に貼ったら……	이 라벨을 붙이기만 한다면, 체르노가 원하는 것은 전부 체르노의 것이 될 것이다… 그렇지 않을까? 그럼 만일 분석가에게 붙인다면…	Cherno can put this sticker on what she likes, and then she can make it hers... right? So if the sticker is put on the Adjutant...						0	
+TxtRichManCardotherdes5	世界树员工禁止交流薪资相关，违者依合同进行罚款。	世界樹員工禁止討論薪資話題，違者將根據合約來罰款。	ユグドラシルは職員間の給与に関する会話を禁止します。違反者には相応の罰金が科せられます。	위그드라실에서는 급여와 관련된 대화를 일체 금지하고 있다. 위반할 경우 계약에 따라 벌금이 부과된다.	Yggdrasil employees have to be mindful of avoiding company violations that could result in deducted pay.						0	
+TxtRichManCardotherdes6	“哼哼，宝物就由我收下了，”安卡希雅摆出某个动漫角色的招牌姿势后，迅速端走了吧台上最后一份甜点。	「哼哼~寶物就由我收下了」安卡希雅做出了舊時代某個動漫角色的招牌動作之後，便以迅雷不及掩耳的速度端走了吧檯上最後一份甜點。	「ふふ。宝物は私がいただいていくよ！」とあるアニメキャラの決めポーズのマネをした後、アカシアはカウンターにある最後のスイーツを素早く持ち去った。	 "흥, 보물은 내가 가져간다." 아카시아는 어떤 애니메이션 캐릭터의 시그니처 자세를 취한 뒤 재빨리 바에 놓여있던 마지막 디저트를 가져갔다.	Hehe, I'll take this treasure. Acacia mimicked the signature pose of some anime character and quickly snatched away the last dessert on the counter.						0	
+TxtRichManCardotherdes7	据说在遥远的千羽地区存在一类名为“忍术”的戏法，其中便有一种脱身之术。	據說在遙遠的千羽地區有一種名為「忍術」類型的戲法，在那類戲法當中有一種脫身術。	遠い千羽地区には「忍術」という技術があると伝えられる。その中のひとつに、脱出の術があるらしい。	머나먼 센바 지역에는 '인술'이라는 도술이 있다고 하는데, 탈출술도 그중 하나라고 한다.	In the faraway region of Senba, there are mysterious techniques called "ninjutsu." One involves disappearing and replacing oneself with a block of wood.						0	
+TxtRichManCardotherdes8	肴的工作守则第N条，下班！打工人终将免费！	肴的工作守則第N條，下班!上班族終於自由啦!	肴の仕事の心得、第N条！退勤！社畜はいずれ自由になる！	야오의 업무수칙 제N조, 퇴근! 직장인은 끝내 자유를 얻을 것이다!	Rule number one in Yao's Employee Handbook — "Escape work when you want!" Otherwise, you're working too much!						0	
+TxtRichManCardotherdes9	妮塔的机械臂总在一些非战斗的场合下起到关键作用。	妮塔的機械臂總是會在一些非戰鬥場合中發揮關鍵作用。	ニタの機械腕は、戦闘以外の場面でキーポイントとなることがたまにある。	니타의 로봇 팔은 전투 상황이 아니어도 중요한 역할을 할 때가 있다.	Nita's mechanical arms can also come in handy outside of combat.						0	
+TxtRichManCardotherdes10	芙提雅小老师动手维修时洒落的螺丝钉，要是踩到了会疼得原地打滚。	芙提雅小老師動手維修時撒落的螺絲釘，要是踩到的話會痛到滿地打滾。	フリティア先生が整備中にうっかり落としたネジ。踏むと激痛にのたうち回ることになる。	프티야가 수리할 때 떨어뜨린 나사못, 밟으면 너무 아파서 제자리에서 데굴데굴 구를 것이다.	Professor Fritia dropped a special kind of screw when she was out repairing her latest invention. You'll notice if you accidentally step on it...						0	
+TxtRichManCardotherdes11	疑似芙提雅遗落的实验箱，打开的话才知道它会不会爆炸。	疑似芙提雅遺落的實驗箱，打開才知道會不會爆炸。	フリティアが残した実験箱のようだ。蓋を開けるまで爆発するかどうかわからない代物。	프티야가 잃어버린 실험 상자로 폭발 여부는 상자를 열어봐야 알 수 있을 것 같다.	An experimental box probably left behind by Fritia that might explode — open it and find out?						0	
+TxtRichManCardotherdes12	如果尤弥尔想找工作的话，当个建筑拆除工一定会被评为年度最佳员工吧？	如果尤彌爾想找工作的話，去做建築拆除工程一定會被評為年度最佳員工吧?	ユミルが建物の解体業者に転職したら、きっと年間最優秀職員になれるでしょう。	이미르가 건물 철거공이 된다면, 올해의 우수 직원상을 받을 수 있지 않을까?	If Ymir is ever looking for a job, it could easily apply for positions in building demolition.						0	
+TxtRichManCardotherdes13	不知是谁将里芙的神经修复舱搬到了此处，完全堵住了前路……	不知道是誰將里芙的神經修復艙搬到這裡，完全把路堵死了……	誰かがリフの神経修復カプセルをここに移動させたせいで、完全に通行止めになってしまった……	리브의 신경 복구 캡슐을 이곳으로 옮긴 게 대체 누굴까? 앞길이 완전히 막혀버렸다…	Who put Lyfe's nerve repair pod here? It's completely blocking the path...						0	
+TxtArrowsTips	请选择前进方向	請選擇前進方向	進む方向を選んでください	전진 방향을 선택하세요.	Please select a direction to move in						0	
+Txt2XTips1	已开启2倍速	已開啟2倍速	2倍速オンしました	2배속 켜기	2x speed on						0	
+Txt2XTips2	已关闭2倍速	已關閉2倍速	2倍速オフしました	2배속 닫기	2x speed off						0	
+Txt2XTips3	已开启{1}倍速	已開啟{1}倍速	{1}倍速ON	{1}배속 적용 중	{1}x speed on						0	3.0复刻捞金派对
+Txt2XTips4	已关闭{1}倍速	已關閉{1}倍速	{1}倍速OFF	{1}배속 닫음	{1}x speed off						0	3.0复刻捞金派对
+TxtRichVoteTips1											0	
+TxtRichVoteTips2											0	
+TxtRichManCardNameDes14	使用后与指定角色平分资金	使用後與指定角色平分資金	使用後、指定した隊員と合戦コインを山分けする。	사용 시 특정 캐릭터와 자금을 등분한다.	Equally distribute the Party Gold of the user and selected player between the two.						0	
+TxtRichManPlayerName	分析员	分析員	分析員	분석가	Adjutant						1000	
+TxtRichManLoveCardName1	随心所欲骰	隨心所欲骰	思い通りサイコロ	마음 가는 대로	Heart's Wish Dice						0	
+TxtRichManLoveCardName2	流连忘返卡	流連忘返卡	夢中になりすぎカード	[행복한 낙원] 카드	Lingering Card						0	
+TxtRichManLoveCardName3	派对空艇卡	派對空艇卡	パーティー飛空艇カード	[비행선 파티] 카드	Party Skyskiff Card						0	
+TxtRichManLoveCardName4	超前点映卡	超前放映卡	先行視聴カード	[사전 맛보기] 카드	Premiere Card						0	
+TxtRichManLoveCardName5	派对狂欢卡	派對狂歡卡	カーニバルパーティーカード	[광란의 파티] 카드	Carnival Card						0	
+TxtRichManLoveCardNameDes1	可自由前往6格以内距离的目的地	可自由前往6格以內距離的目的地	6マス以内の任意の目的地に移動できる	6칸 이내의 목적지까지 자유롭게 이동할 수 있다.	Choose to advance between 1 and 6 spaces.						0	
+TxtRichManLoveCardNameDes2	接下来3回合内，每次投掷出的点数固定为3，使用同类卡片可延长3回合	接下來3回合內，每次投擲出的點數固定為3，使用同類卡片可延長3回合	次の3ターン、サイコロの出目が必ず3になる。同じタイプのカードを使うことで効果を3ターン延長可能。	이어지는 3턴 동안 매번 최대 3칸씩 전진할 수 있으며 동일 유형의 카드를 사용할 경우 3턴 연장할 수 있다.	For the next 3 turns, each dice rolled will be a 3. Using a card of the same effect extends this for 3 more turns.						0	
+TxtRichManLoveCardNameDes3	任选一种属性，接下来3回合内，每次前进都会提升该属性的数值，使用同类卡片不可叠加效果，可延长3回合	任選一種屬性，接下來3回合內，每次前進都會提升該屬性的數值，使用同類卡片不可疊加效果，可延長3回合	任意のステータスを選択して、次の3ターン、進むたびにそのステータスが上がります。同じタイプのカードを使うことでこの効果を3ターン延長可能。	원하는 속성을 선택하면 이어지는 3턴 동안 전진할 때마다 해당 속성의 수치가 증가한다. 동일 유형의 카드의 효과는 중첩되지 않으며 3턴 연장할 수 있다.	Select an attribute to increase each turn you move for the next 3 turns. Boost does not stack with other cards of the same effect, but duration can be extended for 3 more turns.						0	
+TxtRichManLoveCardNameDes4	仅在星期一可以使用，使用后立即进入活动周，持续到当周结束。该卡牌为限量卡牌，仅此一张，请分析员注意使用时机~	僅在星期一可用，使用後立即進入活動週，持續到當週結束。此卡牌為限量卡牌，僅此一張，請分析員注意使用時機~	月曜日にのみ使用可能。使用すると即座にイベントウィークに入り、そのウィークが終了するまで続きます。このカードは1枚限りの限定カード！慎重に使用してくださいね～	주간 이용 가능: 매주 월요일에만 사용할 수 있으며, 사용 시 즉시 이벤트 주기에 진입하여 해당 주가 끝날 때까지 지속된다. 해당 카드 한 장 뿐이며 분석가님은 신중하게 사용하시기 바랍니다.	Can only be used on Monday. Use to instantly activate Special Week, lasting through the end of the week. There is only 1 of this card, so use it wisely, Adjutant~						0	
+TxtRichManLoveCardNameDes5	可以选择为指定属性大量提升数值	可以選擇為指定屬性大量提升數值	指定したステータスを大幅に上げることができる	지정 속성에 대한 대량의 수치 상승을 선택할 수 있다.	Greatly increases a specific attribute of your choice.						0	
+TxtRichManLovegroundname1	派对起点	派對起點	パーティーのふりだし	파티 시작점	Start Space						0	
+TxtRichManLovegroundname2	心动问答	心動問答	ときめきクイズ	바운스 Q&A	Loverush Trivia						0	
+TxtRichManLovegroundname3	随机事件	隨機事件	ランダムイベント	랜덤 사건	Random Event						0	
+TxtRichManLovegroundname4	约会事件	約會事件	デートイベント	데이트 사건	Date Event						0	
+TxtRichManLovegroundname5	收纳挑战	收納挑戰	収納チャレンジ	수납 도전	Sorting Challenge						0	
+TxtRichManLovegroundname6	活动周随机事件	活動週隨機事件	ランダムイベント	이벤트 주기 임의의 사건	Special Random Event						0	
+TxtRichManLovegroundname7	活动周约会事件	活動週約會事件	デートイベント	이벤트 주기 데이트 사건	Special Date Event						0	
+TxtRichManLovegrounddes1	心动派对，从这里启程	心動派對，從這裡啟程	トキメキ大合戦、ここから始まる	바운스 파티는 이곳에서 시작돼요.	The Loverush Party starts here.						0	
+TxtRichManLovegrounddes2	考验分析员的时刻到了	考驗分析員的時刻到了	試練を乗り越えよう	분석가님을 시험할 시간이 다가왔어요.	Are you ready for the quiz, Adjutant?						0	
+TxtRichManLovegrounddes3	这里会发生有趣的事哦	這裡會發生有趣的事喔	ここで面白いことが起きるよ	이곳에서 재밌는 일이 벌어질 거예요.	Something interesting will happen here!						0	
+TxtRichManLovegrounddes4	约上少女共度一天吧	約上少女共度一天吧	少女を誘って一緒に一日を過ごそう	소녀와 함께 재밌는 하루를 보내보세요.	Have a wonderful day with your girl.						0	
+TxtRichManLovegrounddes5	翻开卡片给少女的鞋子配对，整理好三双鞋子后可获得属性数值奖励	翻開卡片給少女的鞋子配對，整理好三雙鞋後可獲得屬性數值獎勵	カードをめくって少女の靴を合わせよう。3足揃えるとステータスボーナスを獲得できる	카드를 뒤집어 소녀의 신발을 맞추어 세 켤레를 정리하면 속성 수치 보상을 획득할 수 있어요.	Flip cards and find matching pairs of the girls' shoes. Sort 3 pairs to win an attribute reward.						0	
+TxtRichManLovegrounddes6	活动周期间，这里会发生有趣的事哦	活動週期間，這裡會發生有趣的事喔	イベントウィーク期間中、ここで面白いことが起きるよ	이벤트 주기에 이곳에서 재밌는 일이 벌어질 거예요.	Something interesting will happen here during Special Week.						0	
+TxtRichManLovegrounddes7	活动周期间，约上少女共度一天吧	活動週期間，約上少女共度一天吧	イベントウィーク期間中、少女を誘って一緒に一日を過ごそう	이벤트 주기에 소녀와 함께 재밌는 하루를 보내보세요.	Have a wonderful day with your girl during Special Week.						0	
+TxtRichManLovehelp1	心动派对游玩手册	心動派對遊玩手冊	トキメキ大合戦マニュアル	바운스 파티 플레이 매뉴얼	Loverush Party Guide						0	
+TxtRichManLovehelp2	欢迎来到心动派对，体验浪漫约会！	歡迎來到心動派對，體驗浪漫約會！	トキメキ大合戦へようこそ、ロマンチックなデートが待っています！	바운스 파티에 오신 걸 환영합니다. 로맨틱한 데이트를 체험해 보세요!	Welcome to Loverush Party, where you can experience romantic dates!						0	
+TxtRichManLovehelp3	掷骰子前进1次即度过1天，心动派对一轮的总时长为42天，共6周。6周后，根据分析员的属性，会得到不同的社区成就。	擲骰子前進1次即度過1天，心動派對一輪的總時長為42天，共6週。6週後，根據分析員的屬性，會得到不同的社區成就。	サイコロを振って1回進むごとに、トキメキ大合戦で1日を過ごしたことを表します。トキメキ大合戦1ラウンドの期間は42日、合計6週間です。6週間後、分析員のステータスによってコミュニティアチーブメントを獲得します。	매번 주사위를 던져 1칸씩 전진한다는 건 바운스 파티에서 1일이 지났다고 볼 수 있죠. 바운스 파티는 총 6주(42일) 동안 진행돼요. 6주 후에는 갖고 있는 속성에 따라 다양한 커뮤니티 업적을 얻으실 수 있어요.	When you roll the dice to move 1 time, 1 day passes. A round of Loverush Party lasts 42 days, for a total of 6 weeks. After 6 weeks, Community Achievements are awarded based on the Adjutant's final attributes.						0	
+TxtRichManLovehelp4	当属性数值达到指定值后，每周星期日与心仪的少女约会，可以提升少女心动指数！	當屬性數值達到指定值後，每週星期天與心儀的少女約會，可以提升少女心動指數！	ステータスが指定数値に達した場合、毎週日曜日に好きな少女とデートすると、トキメキ値を上げます！	속성이 지정 수치에 도달하면, 매주 일요일마다 마음에 드는 소녀와 데이트할 수 있으며 바운스 지수를 높일 수 있습니다!	When your attributes reach a certain amount, you can go on dates with the girls each weekend to increase their Loverush Index!						0	
+TxtRichManLovehelp5	不同的社区成就会带给分析员不同的属性增益，让分析员在下一次体验心动派对时更有优势！	不同的社區成就會帶給分析員不同的屬性增益，讓分析員在下一次體驗心動派對時更有優勢！	コミュニティによって異なるステータスバフを獲得でき、次のラウンドのトキメキ大合戦で分析員は優位に立てます！	커뮤니티 업적에 따라 다양한 버프 속성이 주어지며 다음 바운스 파티를 체험할 때 우세를 선점할 수 있어요.	Earn various attribute boosts by completing different Community Achievements, and gain an edge during the next round of Loverush Party!						0	
+TxtRichManLovehelp6	在体验心动派对时会遇到各种事件。活动周开启后，事件也会发生变化哦！	在體驗心動派對時會遇到各種事件。活動週開啟後，事件也會改變哦！	トキメキ大合戦中には様々な出来事が発生します。イベントウィーク開始後、出来事の内容も変わりますよ！	바운스 파티를 체험하며 다양한 사건을 접할 수 있어요. 이벤이 주간이 시작되면 사건도 다양하게 변하게 돼요.	Experience various events at Loverush Party! And watch how the events change during Special Week!						0	
+TxtRichManLovehelp7	解锁不同社区成就会获得各种奖励，希望分析员玩得开心！	解鎖不同社區成就會獲得各種獎勵，希望分析員玩得開心！	開放したコミュニティアチーブメントによって様々な報酬を獲得することができます。楽しんでください！	다양한 커뮤니티 업적을 오픈하면 다양한 보상을 받으실 수 있으니 즐거운 플레이타임이 되시길 바랍니다.	Unlock different Community Achievements to earn various rewards. Enjoy your time!						0	
+TxtRichManLovehelp8	操作说明	操作說明	操作説明	조작 설명	How to Play						0	
+TxtRichManLovehelp9	点击前进按钮可随机前进1~6格，使用随心所欲骰可指定前进格数。	點擊前進按鈕可隨機前進1~6格，使用隨心所欲骰可指定前進格數。	進むボタンをタップするとランダムに1～6マス進みます。思い通りサイコロを使用すると、指定のマス数を進むことができます。	전진 버튼을 누르면 랜덤으로 1~6칸을 전진하게 되며, 원격 주사위를 사용하면 전진할 칸의 수를 정할 수 있어요.	Click the Move button to randomly advance 1–6 spaces. Use Heart's Wish Dice to choose exactly how many spaces to advance.						0	
+TxtRichManLovehelp10	点击前进按钮左上角的数字，调整单次点击后连续前进的轮数，连续前进轮次的最大值为当周剩余天数。	點選前進按鈕左上角的數字，調整單次點擊後連續前進的輪數，連續前進輪次的最大值為當週剩餘天數。	進むボタンの左上の数字をタップすると、その後連続で前進するターン数を調整することができます。連続で前進できるターン数の上限はその週の残り日数となります。	전진 버튼의 왼쪽 상단에 있는 숫자를 누르면 연속으로 전진할 횟수를 조정할 수 있어요. 연속 전진 횟수의 최댓값은 해당주의 남은 일수를 뜻해요.	You can click the number in the upper-left of the Move button to change the number of turns you want to move at once. The maximum number of turns you can move at once is the remaining days in the current week.						0	

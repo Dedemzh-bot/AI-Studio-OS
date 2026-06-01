@@ -1,0 +1,22 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	正常	sequence	girl022_01_house_stand	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_stand.girl022_01_house_stand'	
+2	微笑	sequence	girl022_01_house_dialogue_smile01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_smile01.girl022_01_house_dialogue_smile01'	
+3	严肃	sequence	girl022_01_house_dialogue_serious01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_serious01.girl022_01_house_dialogue_serious01'	
+4	开心	sequence	girl022_01_house_dialogue_happy01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_happy01.girl022_01_house_dialogue_happy01'	
+5	打招呼	sequence	girl022_01_house_dialogue_greet	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_greet.girl022_01_house_dialogue_greet'	
+6	疑问	sequence	girl022_01_house_dialogue_doubt01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_greet.girl022_01_house_dialogue_greet'	
+7	委屈	sequence	girl022_01_house_dialogue_complain01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_complain01.girl022_01_house_dialogue_complain01'	
+8	生气	sequence	girl022_01_house_dialogue_angry01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_angry01.girl022_01_house_dialogue_angry01'	
+9	惊讶	sequence	girl022_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_amaze.girl022_01_house_dialogue_amaze'	
+10	满足	sequence	girl022_01_house_dialogue_satisfy01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_satisfy01.girl022_01_house_dialogue_satisfy01'	
+11	撒娇	sequence	girl022_01_house_dialogue_satisfy02	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_satisfy02.girl022_01_house_dialogue_satisfy02'	
+12	依赖	sequence	girl022_01_house_dialogue_yilai	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_yilai.girl022_01_house_dialogue_yilai'	
+13	惊讶	sequence	girl022_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_amaze.girl022_01_house_dialogue_amaze'	
+14	生气	sequence	girl022_01_house_dialogue_depressed01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_depressed01.girl022_01_house_dialogue_depressed01'	
+15	难过	sequence	girl022_01_house_dialogue_depressed02	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_depressed02.girl022_01_house_dialogue_depressed02'	
+16	闭眼	sequence	girl022_01_house_dialogue_rest_idle01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_rest_idle01.girl022_01_house_dialogue_rest_idle01'	
+					
+					
+					
+100	说话	sequence	girl022_01_house_dialogue_talk01	AnimSequence'/Game/Characters/Girl/girl022_01/AnimPart00/girl022_01_house_dialogue_talk01.girl022_01_house_dialogue_talk01'	

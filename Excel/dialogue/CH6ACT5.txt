@@ -1,0 +1,6 @@
+﻿字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	安卡希雅			“峡谷”？听起来，就是我刚才路过的那个……	0	
+2		0	安卡希雅			……	0	
+3		0	安卡希雅			弹匣快用完了。	0	
+4		0	安卡希雅			顺路补充一些吧。	0	

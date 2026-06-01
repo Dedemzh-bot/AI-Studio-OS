@@ -1,0 +1,4 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	妮塔			分析员！？你什么时候跟在我后面的！	0	
+2		0	妮塔			……有人找你麻烦？等我马上到！	0	

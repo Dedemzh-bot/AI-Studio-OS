@@ -1,0 +1,8 @@
+ID	//备注	名称	图标	简化图标	详情界面右下方图标
+ID	Comment	Name	Icon	SmallIcon	TipsIcon
+1	远程	online.SpeedSocreBuffType1	1701424	1701432	1701418
+2	射击	online.SpeedSocreBuffType2	1701421	1701429	1701415
+3	近战	online.SpeedSocreBuffType3	1701426	1701434	1701420
+4	技能	online.SpeedSocreBuffType4	1701425	1701433	1701419
+5	辅助	online.SpeedSocreBuffType5	1701422	1701430	1701416
+-1	无限制	online.SpeedSocreBuffType0	1701423	1701431	1701417

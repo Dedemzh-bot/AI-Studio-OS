@@ -1,0 +1,29 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+TxtCMgirl06_clock01	每周%d										1	
+TxtCMgirl06_clock02	不重复										1	
+TxtCMgirl06_clock03	是否退出蜜语相伴？	是否退出蜜語相伴？	「おしゃべり」を終了しますか？	달콤한 속삭임을 종료하시겠습니까?	Exit idle chat?						0	3.4陪伴系统
+TxtCMclock01_name1	吃饭	吃飯	食事	식사하기	Eat						0	
+TxtCMclock01_name2	出门	出門	外出	외출하기	Go Out						0	
+TxtCMclock01_name3	工作	工作	仕事	업무 보기	Work						0	
+TxtCMclock01_name4	运动	運動	運動	운동하기	Exercise						0	
+TxtCMclock01_name5	学习	學習	勉強	학습하기	Study						0	
+TxtCMclock01_name6	自定义	自訂	カスタム	사용자 설정	Custom						0	
+TxtCMvoice01_name1	风入林	風入林	森の風	숲속의 바람	Breeze						0	
+TxtCMvoice01_name2	鸟鸣	鳥鳴	鳥の囀り	새소리	Birds						0	
+TxtCMvoice01_name3	流水	流水	清流の音	흐르는 물	Stream						0	
+TxtCMvoice01_name4	风铃	風鈴	風鈴の音	풍령	Wind Chime						0	
+TxtCMvoice01_name5	瀑布	瀑布	滝の音	폭포	Waterfall						0	
+TxtCMvoice01_name6	围炉	圍爐	囲炉裏の火	난로	Hearth						0	
+TxtCMclock01_des1	好好吃饭是人生大事，卜卜是绝对不会忘记的。	好好吃飯是人生大事，卜卜是絕對不會忘記的。	人生で大事なのはしっかり食べること。ブブは絶対忘れないから。	밥 잘 챙겨 먹는 건 중요한 일이니까, 난 절대 까먹지 않을 거야.	Eating is one of life's most important matters. I'd never forget!						0	3.4陪伴系统
+TxtCMclock01_des2	分析员是打算一会出去走走吗？	分析員是打算一會出去走走嗎？	分析員、あとで散歩するつもりでしょ？	분석가, 이따가 나가서 산책할 셈이야?	Planning to go out for a walk in a bit, Adjutant?						0	3.4陪伴系统
+TxtCMclock01_des3	工作上的事儿可不能耽搁，卜卜会记得提醒分析员的。	工作上的事情可不能耽擱，卜卜會記得提醒分析員的。	仕事のことでぐずぐずしちゃいけない。ブブが分析員に注意しておくから。	업무에 지장 가면 안 되지. 내가 꼭 잘 챙겨서 분석가한테 알려줄게.	Work can't be put on hold, so I'll make sure to remind you, Adjutant.						0	3.4陪伴系统
+TxtCMclock01_des4	到点了，我也和分析员一起运动运动。	時間到了，我也和分析員一起運動運動。	時間だね、わたしも分析員と一緒に運動しよ。	시간이 다 됐네. 나도 분석가랑 함께 운동해야지.	When it's time to exercise, we can stretch our legs together!						0	3.4陪伴系统
+TxtCMclock01_des5	呀~那待会岂不是就可以和分析员一起学习啦？	呀~那待會豈不是就可以和分析員一起學習啦？	やった！じゃあこれから分析員と一緒に勉強できるね。	엇~ 그러면 이따가 분석가랑 같이 학습할 수 있다는 건가?	Oh~ Are we going to study together, Adjutant?						0	3.4陪伴系统
+TxtCMclock01_des6	放心放心，卜卜可是很靠谱的，绝对不会耽误分析员的正事。	放心放心，卜卜可是很可靠的，絕對不會耽誤分析員的正事。	大丈夫。ブブはしっかりしているから、絶対に分析員の仕事を邪魔したりしないよ。	안심해, 보보는 믿음직하다고. 절대 분석가를 방해하지 않을 거야.	Don't worry! I'm totally reliable and won't hold your work back, Adjutant!						0	3.4陪伴系统
+TxtCMclock01_des7	从现在开始，卜卜会盯紧时间的！盯——！	從現在開始，卜卜會盯緊時間的！盯——！	ブブがちゃんと時間見てるからね！じー……	지금부터 보보는 시간을 꼭 지켜보고 있을게! 꼬옥~!	Alright! I'll keep a close eye on the time! No, two close eyes!						0	3.4陪伴系统
+TxtCMclock01_tips	<span color="#FFE942FF">%s</>时间到啦，该去<span color="#FFE942FF">%s</>了！	<span color="#FFE942FF">%s</>時間到啦，該去<span color="#FFE942FF">%s</>了！	<span color="#FFE942FF">%s</>だよ、そろそろ<span color="#FFE942FF">%s</>に行かなくちゃ！	<span color="#FFE942FF">%s</>의 시간이 됐어. 이제 <span color="#FFE942FF">%s</>하러 갈 시간이야!	Time to <span color="#FFE942FF">%s</>! Let's go <span color="#FFE942FF">%s</>!						0	3.4陪伴系统
+TxtCMclock02_tips_none	<span color="#FFE942FF">%s</>时间到啦，该去忙咯分析员~	<span color="#FFE942FF">%s</>時間到啦，该去忙咯分析員~	<span color="#FFE942FF">%s</>の時間だよ、そろそろ行かなくちゃ！	<span color="#FFE942FF">%s</> 시간 다 됐어. 이제 가봐야 해, 분석가~	It's time for <span color="#FFE942FF">%s</>! Let's go, Adjutant~						0	3.4陪伴系统-卜卜UI提示
+TxtCMclockMax_tips	备忘录最多可配置三个闹钟，请删除后再创建	備忘錄最多可設定三個鬧鐘，請刪除後再建立	アラームは最大3件まで設定できます。新しく作成する場合は、既存のアラームを削除してください。	메모장에는 최대 3개의 알람을 설정할 수 있습니다. 기존 알람을 삭제한 후 새 알람을 설정하세요.	Maximum 3 alarms. Delete one to create a new alarm.						0	3.4陪伴系统
+TxtCMclockTime_tips	备忘录同时段只能创建一个闹钟	備忘錄同時段只能建立一個鬧鐘	同一時間帯に設定できるアラームは1つのみです	메모장에는 같은 시간대의 알람을 하나만 설정할 수 있습니다.	Max 1 alarm per time slot.						0	3.4陪伴系统
+TxtCMVoiceMax_tips	最多可设置三种音效	最多可設定三種音效	最大3種類のサウンドを設定できます	최대 3가지의 효과음을 설정할 수 있습니다.	You can set up to three sound effects.						0	3.4陪伴系统

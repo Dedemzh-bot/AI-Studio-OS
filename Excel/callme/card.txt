@@ -1,0 +1,3 @@
+﻿唯一ID	注释	角色GDPL	解锁条件(道具的GDPL)	美术场景	电话头像	闹钟Q版	彩蛋剧情	loading图
+Id	Comment	GDPL	Condition	Mapid	GirlIcon	GirlQIcon	PlotID	PicLoad
+122002	卜卜魔法少女	{7,20,2,2}	{25,20,2,2}	12001	130600010	2600781	8134303	1501007

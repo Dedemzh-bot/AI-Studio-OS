@@ -1,0 +1,7 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	呜哇哇哇，这里怎么会有异化人！	嗚哇哇哇，這裡怎麼會有異化人！	うわ！変異者！何でここに？	으아악, 이곳에 왜 변이자가 있는 거야?	Waaaah!! Why are there Changed here!?						0	
+2	有些是从外面进来的，有些则是……	有些是從外面進來的，有些則是……	外から入ってきたのもいれば、そうでもないのもいる……	일부는 밖에서 들어온 거고, 일부는…	Some came in from outside, while some...						0	
+3	别忘了，即使它叫“天楼”，也依然在零区里。	別忘了，即使它叫“天樓”，也依然在零區裡。	「スカイタワー」と言っても、まだエリアゼロの範囲内だ。	잊지 마, '스카이 타워'라고 해도 제로 구역에 있는 건 마찬가지야.	Don't forget — even though they're called the "Towers," we're still in the Containment Zone.						0	
+4	公司那些领导难道不知道吗？	公司那些主管難道不知道嗎？	ボスたちは知らないの？	설마 회사에 이사진들은 이런 사실을 모르는 건가?	Do the higher-ups know about this?						0	
+auto_26837	呵，不是不知道，只是单纯不想管罢了……	呵，不是不知道，只是單純不想管罷了……	まさか、単に無視しているだけだわ……	후우, 모르는 게 아니라 그냥 신경 쓰고 싶지 않은 거야…	Heh, of course they do. They just don't care...						0	

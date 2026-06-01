@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，有什么事情吗？	分析員，有什麼事嗎？	分析員、何か用か？	분석가, 무슨 일이야?	Adjutant, what is it?						0	
+page0.2	卡罗琳让我帮忙协助回收下问卷调查，说是为了解海姆达尔部队成员的居住体验。	卡羅琳找我幫忙回收調查問卷，說是為了了解海姆達爾部隊成員的住宿感想。	アンケート回収の手伝いをカロリンから頼まれたんだ。ヘイムダル部隊メンバーの暮らしの満足度についての調査らしい。	캐롤린의 설문조사를 도와주고 있어요. 헤임달 부대원들의 주거 체험에 대해 알아보기 위해서예요.	Caroline asked me to help her conduct this survey. She said it's going to be used to understand the Heimdall Force operatives' experience living here.						0	
+page0.3	一段时间过后	過了一段時間	しばらく経った後	한참 뒤	Some time later...						0	
+page0.4	嗯，这还有一个问题。你回到房间后的第一件事是做什么？	嗯，這裡還有一個問題。你回到房間後做的第一件事情是什麼？	ええと、これで最後の質問だ。部屋に戻ったら最初にすることは？	음, 마지막 질문이에요. 방에 돌아가서 제일 먼저 하는 일은 무엇인가요?	There's one more question here — what's the first thing you do after getting back to your room?						0	
+page0.5	第一件事么……	第一件事嗎……	最初にすること、か……	제일 먼저 하는 일이라…	The first thing...?						0	
+page0.6	先换掉义肢，再换掉衣服。	先換義肢、然後換衣服。	まずは義肢の交換、それから着替えだな。	먼저 로봇팔을 교체하고 옷을 갈아입어.	Change my prosthesis, then change my clothes.						0	
+page0.7	晴居然是先换义肢？这和我想的不太一样。	晴居然是先換義肢？跟我想得不太一樣。	まずは義肢の交換か。ちょっと意外だな。	먼저 로봇팔을 교체한다고요? 제가 생각했던 것과 다르네요.	You actually change your prosthesis first? I wasn't expecting that.						0	
+page0.8	在基地内没必要装备战术型生化义肢。日常生活的话，这副仿生义肢要更加舒适便捷。	在基地內沒必要裝備戰術型義肢，如果是應付日常生活的話，這副仿生義肢會更加舒適。	社員寮でも戦術型バイオ義肢を装備している必要はないから。日常生活はこの生体工学義肢の方が快適で便利なんだ。	숙소 안에서는 전술형 로봇팔을 장착할 필요가 없어. 일상생활에서는 이 바이오닉 로봇팔이 더 편리해.	I don't need a tactical prosthesis when I'm in the Base. My bionic prosthesis is way more comfortable and convenient for day-to-day life.						0	
+page0.9	不光是外表看起来一样，习惯了之后，它使用起来和我自己的手臂没有任何区别。	不只是外型看起來一模一樣。等習慣之後，即便是義肢，用起來也就好像是我自己的手臂一樣。	見た目がそっくりなだけじゃなく、慣れたら使い心地も生身の腕と遜色ない。	보기에도 감쪽같고, 제대로 적응하면 진짜 내 팔과 다를 게 없어.	It looks the same as my own arm, and even feels just like it after a while.						0	
+page0.10	（确实如此，这样的晴甚至偶尔会令人忘记她的右臂其实是义肢这个事实。）	（正如晴所說的，有的時候連我們也會忘記她的右手臂其實是義肢。）	（確かにそうだった。こんな晴を見ていると、右腕が義肢であることを忘れそうだ。）	(맞는 말이야. 가끔은 하루의 오른팔이 로봇팔이라는 사실을 잊어버리기도 해.)	(It was true — like this, it was easy to forget that Haru's right arm was actually a prosthesis.)						0	
+page0.11	说起来，要多谢分析员送我的多功能维护立柱。	話說回來，要感謝分析員送我的這個多功能維護立柱。	そういえば、多機能整備柱をくれた分析員には礼を言わないとな。	참, 분석가가 보내준 멀티 정비 기둥 말인데, 정말 고마워.	Oh, I wanted to thank you for the multi-functional maintenance stand you gave me, Adjutant.						0	
+page0.12	无论是更换义肢还是日常维护，都更方便了呢。	不管是更換義肢還是平常的保養都非常方便。	義肢の交換も普段のメンテナンスも、だいぶ楽になっている。	로봇팔 교체나 일상 정비가 매우 편리해졌어.	It makes replacing my prosthesis or doing regular maintenance much easier.						0	

@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	呜嗯，分析员……	嗚嗚嗚嗯，分析員……	うう、分析員……	으악~ 분석가!	Ungh... Adjutant...						0	
+page1.2	怎么了伊切尔？	怎麼了伊切爾？	イチェル？どうかしたのか？	왜 그래, 이첼?	What's wrong, Eatchel?						0	
+page1.3	我昨晚做噩梦了，好可怕！	我昨晚做噩夢了，好可怕！	昨日の夜、悪夢を見たんだ！怖かった！	어젯밤에 악몽을 꿨는데, 너무 무서워!	I had a nightmare last night. It was really scary!						0	
+page1.4	只不过，我醒过来的时候，就忘掉梦到什么了。	只不過，我醒過來的時候，就忘記夢到什麼了。	でも、起きたら全然内容を覚えてなくて……	근데 깨어날 때 무슨 내용인지 까먹었어.	But I forgot what it was about after I woke up.						0	
+page1.5	这不是挺好的吗？	這不是挺好的嗎？	だったらいいじゃないか？	그럼 잘 된 거 아니야?	Isn't that a good thing?						0	
+page1.6	不行，我要想起来，打败它，下次才不会梦到！	不行，我要想起來，打敗它，下次才不會夢到！	だめ！思い出して、やっつけないと、また夢に出てくるぞ！	아니야! 반드시 다시 생각해 내서 그것을 무찔러야 다시는 꿈에 나타나지 않을 텐데!	No! I need to remember it and beat it so I won't dream about it again!						0	
+page1.7	……行吧，那是梦到过去在耶洛沙的事情了吗？	……好吧，那是夢到過去在耶洛沙的事了嗎？	なるほどな……もしかして、夢の中にイェロシャのことでも出てきたのか？	… 혹시 옐로샤에 있었던 일이야?	...Alright. Was it about what happened in Yehrus?						0	
+page1.8	不是，伊切尔才不怕那些坏家伙。	不是，伊切爾不怕那些壞傢伙。	違う。イチェル、あいつらのことなんてもう怖くないから！	아니야, 이첼은 이제 그 나쁜 녀석들을 두려워하지 않거든.	No. I'm not scared of those bad guys.						0	
+page1.9	嗯，那是因为最近的医疗部体检？	嗯，那是因為最近的醫療部體檢？	なら、身体検査のことか？	그럼 최근에 있던 건강검진 때문이야?	Then was it about your recent medical exams?						0	
+page1.10	白大褂阿姨们是有点凶……但伊切尔也不怕。	白長袍阿姨們有點兇……但伊切爾也不害怕。	それも違う……白服のおばさんたちは厳しいけど、怖くない。	흰색 가운을 입은 언니들이 좀 무섭긴 하지만… 그것도 아니야.	Those ladies in the white coats are kinda mean... but I'm not scared of them either.						0	
+page1.11	那我也想不出来了。	那我也想不出來了。	てんで見当がつかないな。	그럼 도대체 뭐지…	Then I'm not sure what else it might've been.						0	
+page1.12	先去吃点东西吧，待会再想。	先去吃點東西吧，待會再想。	まず食事でもしようか。その後で改めて考えればいいよ。	일단 뭐라도 좀 먹고 이따가 생각하자.	Let's go get something to eat. We can think about it later.						0	
+page1.13	啊，吃东西！	啊，吃東西！	そうだ！食べ物の夢だったぞ！	아, 생각났어! 먹는 꿈이야!	Ah, that's it! Eating!						0	
+page1.14	我想起来了，我梦到餐厅的菜全变成了青椒！呕……	我想起來了，我夢到餐廳的菜色都變成青椒了！嘔……	思い出した！食堂のメニューが全部ピーマンになった夢だった！うえ……	생각났다, 식당 음식이 전부 고추로 변하는 꿈이었어! 우웩…	I remember! I dreamed that all the food in the canteen turned into bell peppers! Yuck...						0	
+page1.15	原来是因为这个……	原來是因為這個……	悪夢って、そういう意味か……	이거 때문에 그런 거였구나…	So that's what it was...						0	

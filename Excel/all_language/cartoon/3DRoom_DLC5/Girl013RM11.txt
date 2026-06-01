@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	哎……	哎……	はぁ……	후…	*sigh*...						0	
+page1.2	瑟瑞斯？怎么一副不开心的样子？	瑟瑞斯？怎麼一副不開心的樣子？	シーリス？どうしたんだ、不機嫌そうな顔して。	세리스? 왜 이렇게 기분이 안 좋아 보여?	Siris? Why do you look so upset?						0	
+page1.3	哦？没有不开心。是我还沉浸在刚刚看的电影里。	哦？沒有不開心。是我還沉浸在剛剛看的電影裡。	え？別に不機嫌じゃないよ。今見た映画のことを考えてただけ。	네? 아, 기분이 안 좋은 게 아니라 방금 봤던 영화를 생각하고 있었어요.	Huh? I'm not upset. I'm still thinking about the movie I just watched.						0	
+page1.4	是悲剧题材吗？	是悲劇題材嗎？	映画か、悲しい話か？	슬픈 영화라도 본 거야?	Was it a sad movie?						0	
+page1.5	应该算是科幻片吧……安卡希雅推荐的一部很古早的电影。	應該算是科幻片吧……安卡希雅推薦的一部很古早的電影。	SFかな……アカシアがオススメしてた古い映画。	공상과학 장르 같았어요… 아카시아가 추천해 준 아주 오래된 영화였어요.	It was more of a sci-fi movie... It was really old. Acacia recommended it.						0	
+page1.6	（总感觉不会是很正经的电影……）	（總感覺不會是很正經的電影……）	（なんとなく、ちゃんとした映画じゃない気がする……）	(어쩐지 제대로 된 영화가 아닐 것 같군…)	(Why do I get the feeling it wasn't a very serious movie...?)						0	
+page1.7	电影里，主角制造了一个超级AI，但是为了避免AI产生感情，他设置了每天删除所有存档的程序。	電影裡，主角製造了一個超級AI，但為了避免AI產生感情，他設定了每天刪除所有存檔的程式。	主人公がスーパーAIを作るんだけど、AIが感情を持たないように、毎日全ての記録を削除するように設定してるの。	영화에서 주인공이 초능력 AI를 만들었는데 AI가 감정을 형성할 수 없도록 매일 매일 모든 기록을 삭제하는 프로그램을 설정했어요.	The main character created a super AI in the movie, but he set up a process to delete all of its archives every day to prevent it from developing feelings.						0	
+page1.8	早期的科幻作品确实会有这类预防手段的设定。	早期的科幻作品確實會有這類預防手段的設定。	初期のSF作品には、そういう予防措置の設定がよくあるな。	초기의 공상과학 작품들은 확실히 불확실한 미래에 대해서 미리 예방하는 조치를 취하곤 했었지.	A lot of old sci-fi stories did include preventative measures like that.						0	
+page1.9	嗯，不过这个AI很厉害！	嗯，不過這個AI很厲害！	うん、でもそのAIはすごいんだ！	맞아요, 그렇지만 이 AI는 정말 대단했어요!	Yeah, the AI was really amazing though!						0	
+page1.10	它因为关心主角，为了不忘记主角，就每天偷偷自己把数据全部打印出来，然后背着主角在外面开了一家公司，专门雇人手动重新输入数据。	它因為關心主角，為了不忘記主角，就每天偷偷自己把資料全部印出來，然後背著主角在外面開了一家公司，專門僱人手動重新輸入資料。	主人公のことを大事にしてて、主人公を忘れないように、毎日こっそりデータを全て印刷して、主人公に内緒で会社を立ち上げ、人を雇って手動でデータを再入力してた。	AI는 주인공을 걱정해서 주인공을 잊지 않기 위해 매일 데이터를 몰래 출력했고, 회사까지 차려서 전문 인력을 통해 수동으로 데이터를 기입했어요.	It really cared about the main character, so it secretly printed out all of the data every day, created a company, then hired employees to manually re-input the data — all so it wouldn't forget the main character.						0	
+page1.11	随着数据越来越多，它雇的人也越来越多，后来公司规模大了，才被主角发现的。	隨著資料越來越多，它僱用的人也越來越多，後來公司規模大了，才被主角發現的。	データが増えるにつれて雇う人も増え、会社が大きくなって、やっと主人公がそれに気づいた。	나중에 데이터가 많아지고 그가 고용한 인력들도 많아지면서 회사가 커지자 주인공은 그제서야 그걸 발견했죠.	As the amount of data continued to increase, it hired more and more employees. Later on, the main character discovered the company after it got really big.						0	
+page1.12	那后来呢？	那後來呢？	それからどうなった？	그 후에는?	Then what happened?						0	
+page1.13	后来AI还是拥有了感情，为了保护主角，接受了自毁协议。	後來AI還是擁有了感情，為了保護主角，接受了自毀協議。	結局AIは感情を持つようになって、主人公を守るために自壊プロトコルを受け入れた。	그 후에 결국 AI는 감정을 가지게 되었고, 주인공을 보호하기 위해 자체적으로 계약을 파기했어요.	The AI still had feelings, so it agreed to self-destruct to protect the main character.						0	
+page1.14	很浪漫的故事，以前的科幻题材还是挺有趣的。你是被这个结局影响了所以伤心吗？	很浪漫的故事，以前的科幻主題還挺有趣的。你是被這個結局影響了所以傷心嗎？	昔のSFはロマンチックで面白いね。それで切なくなったのか？	정말 로맨틱한 이야기네. 예전에 공상과학 장르의 내용들은 정말 흥미롭긴 했어. 결말을 볼 때 슬프거나 그러진 않았어?	That sounds like a really romantic story. The themes in old sci-fi stories are pretty interesting. Did the ending leave you feeling upset?						0	
+page1.15	我不是伤心哦，是很感动。	我不是傷心哦，是很感動。	違うよ、感動したの。	아니요, 슬프지 않았어요. 오히려 감동했어요.	I'm not upset! I'm just really moved.						0	
+page1.16	这个AI每天都在努力记录，重新输入数据……总觉得和我很像呢！	這個AI每天都在努力記錄，重新輸入數據……總覺得跟我很像呢！	そのAIが毎日データを記録して、再入力してた……なんだか自分に似てる気がする！	이 AI가 매일매일을 기록하는 모습이… 마치 저를 보는듯했어요!	The AI worked so hard to document and re-input data every single day... I feel like it's just like me!						0	
+page1.17	瑟瑞斯……	瑟瑞斯……	シーリス……	세리스…	Siris...						0	
+page1.18	如果AI都能有感情，关心别人，我应该不会变得冷酷无情吧。	如果AI都能有感情，關心別人，我應該不會變得冷酷無情吧。	もしAIにも感情があって、人のことを大事に思うなら、私も心までなくしたりはしないはず。	만약 AI가 감정을 가지고 다른 사람을 걱정했다면, 저도 냉혹하고 무정해지지 않았을까요?	If even an AI can have feelings and care about someone else, I don't think I'll become cold and unfeeling either.						0	
+page1.19	嗯，不会的，你肯定不会。	嗯，不會的，你一定不會。	ああ、しないさ、絶対に。	세리스는 그럴 일 없어.	You won't. You definitely won't.						0	
+page1.20	嗯嗯！谢谢分析员的鼓励！	嗯嗯！謝謝分析員的鼓勵！	そうだよね、励ましてくれてありがとう、分析員！	하하하, 고마워요, 분석가님!	Yeah! Thanks for the encouragement, Adjutant!						0	

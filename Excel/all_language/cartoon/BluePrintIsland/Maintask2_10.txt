@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	记录好那些区域的数据，然后规划出一片中间区域吧。	記錄好那些區域的數據，然後規劃出一片中間區域吧。	エリアのデータを記録して、再計画してくれ。	그 구역들의 데이터를 기록하고, 중간 구역을 계획해 보자.	Log those area stats, then lay out a plan for a central district.						0	dlc30蓝图岛对话
+page1.2	好的，分析员！已经规划土地，请问分析员需要建造什么建筑？	好的，分析員！已經規劃土地，請問分析員需要建造什麼建築？	わかった、分析員！エリアの再計画が終わったよ、何を建てたいの？	알겠습니다, 분석가님! 부지 계획은 완성됐는데, 어떤 건물을 지을까요?	Yes, Adjutant! Land reserved. What kind of building do you want next?						0	dlc30蓝图岛对话
+page1.3	基础的建设已经完成了一些，接下来要建造一些有娱乐性质的地方了。	基礎的建設已經完成了一些，接下來要建造一些有娛樂性質的地方了。	基本的な施設はだいたい建てたから、これからはエンタメ用の施設を作ろうと思う。	기본적인 건설은 어느 정도 완료됐으니, 이제 오락 시설을 지어볼까 해.	We've got most of the basics covered, so I'm thinking of entertainment buildings for the next phase.						0	dlc30蓝图岛对话
+page1.4	娱乐……娱乐好！尖尖耳最喜欢听到人类的欢声笑语了！	娛樂……娛樂好！尖尖耳最喜歡聽到人類的歡聲笑語了！	エンタメ……いいね！ウサミミ、人間の笑い声が一番好きなんだ！	오락… 오락 좋아요! 뾰족귀는 사람들의 웃음소리를 듣는 게 제일 좋아요!	Entertainment's great! There's nothing better than hearing people laugh and have fun!						0	dlc30蓝图岛对话
+page1.5	尖尖耳，搜索资料中……	尖尖耳，搜尋資料中……	ウサミミ、資料検索中――	뾰족귀, 자료 검색 중…	Searching related information...						0	dlc30蓝图岛对话
+page1.6	不用搜索了，我已经有想法了。	不用搜尋了，我已經有想法了。	あ、それは大丈夫だ。アイデアはもうあるから。	검색할 필요 없어. 생각해 둔 게 있거든.	No need. I already know exactly what I want.						0	dlc30蓝图岛对话
+page1.7	分析员有什么想法？	分析員有什麼想法？	分析員、何か考えがあるの？	분석가님, 무슨 아이디어가 있으세요?	What do you have in mind then?						0	dlc30蓝图岛对话
+page1.8	我打算在新区域建造一家商店。	我打算在新區域建造一家商店。	新エリアには店を建てようと思ってる。	새로운 구역에 상점을 지으려고 해.	I want to set up a shop in the new area.						0	dlc30蓝图岛对话
+page1.9	按照我对这座岛屿的规划，这里必须要有一家她最爱去的<orange>模玩商店</>。	按照我對這座島嶼的規劃，這裡必須要有一家她最愛去的<orange>模型商店</>。	私の計画だと、この島には彼女がよく利用する<orange>ホビーショップ</>が必要なんだ。	이 섬의 계획에 따르면, 여긴 그녀가 가장 좋아하는 <orange>모형 상점</>이 꼭 있어야 해.	According to my vision for this island, there absolutely has to be a <orange>Toy Studio</>. It's her favorite place to visit.						0	dlc30蓝图岛对话
+page1.10	这样的话，即使在蓝图岛度假，她也可以欣赏把玩她最喜欢的模型。	這樣的話，即使在藍圖島度假，她也可以欣賞把玩她最喜歡的模型。	それさえあれば、ビジョン島のバカンス中でも、彼女は好きな模型をいつでも買えるからな。	그러면 설계의 섬에서 휴가를 보내더라도, 그녀가 가장 좋아하는 프라모델을 감상하고 갖고 놀 수 있을 거야.	This way, she can still enjoy building her beloved models even while vacationing on Builder Island.						0	dlc30蓝图岛对话
+page1.11	好贴心……好甜……	好貼心……好甜……	ほわぁ……尊い……	정말 다정하고… 달콤하네요…	How thoughtful... How sweet...						0	dlc30蓝图岛对话

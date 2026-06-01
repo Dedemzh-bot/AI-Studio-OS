@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	真是一群不知好歹的家伙！	真是一群不知好歹的傢伙！	命知らずどもが！	정말이지, 쓸데없이 날뛰는 놈들이군!	What a bunch of hooligans!						0	2.5新星开拓关卡npc
+page1.2	哦！老大你来了，那帮家伙把“慢半拍”扣下了，就在前方不远的营地里。	哦！老大你來了，那幫家伙把“慢半拍”扣下了，就在前方不遠的營地裡。	よう！来たかボス。あいつらは「ノンキ」を捕まえたんだよ。この先にある野営地でな。	오! 보스 오셨군요. 그 놈들이 '느림보'를 붙잡아 놨어요. 바로 앞쪽 캠프에 있어요.	Oh! Boss, you're here! Those guys captured Slowstride, they're in the camp just up ahead. 						0	2.5新星开拓关卡npc
+page1.3	那伙人里还有个高手，劝降过来也不错。来，我标出位置了……老大你打头阵，我跟着你！	那夥人裡還有個高手，勸降過來也不錯。來，我標出位置了…老大你打頭陣，我跟著你！	そこに凄腕のやつが一人いる。説得して味方にしてみたらどうだ。場所はマーキングしておいた。先に行ってくれ、俺は後に続くぞ！	그 놈들 중에 고수도 한 명 있더라고요. 설득해서 우리 편으로 만들면 좋겠네요. 자, 제가 위치를 표시했어요… 보스가 앞장서 주세요, 제가 뒤따를게요!	There's one especially strong fella among them who would make a good addition to our team. Here, I've marked the coordinates for you... Lead the way, Boss, I'll be right behind you!						0	2.5新星开拓关卡npc

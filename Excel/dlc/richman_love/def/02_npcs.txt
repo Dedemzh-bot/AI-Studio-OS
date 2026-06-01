@@ -1,0 +1,5 @@
+﻿NpcId	名字	名字	缩放	头像Id	立绘图	Atlas路径	Data路径	站立动作	打招呼动作
+Id	Name	LangName	Scale	IconId	Image	AtlasPath	DataPath	StandMotion	HelloMotion
+1	里芙	role.role_chapter_10211	{1,1,1}	2600531	chess.901	/Game/Spine/Hero/Girl002a_01_q/sp_girl002a_01_q.sp_girl002a_01_q-atlas	/Game/Spine/Hero/Girl002a_01_q/sp_girl002a_01_q.sp_girl002a_01_q-data	sp_girl002a_01_q_stand	sp_girl002a_01_q_hello
+2	芬妮	role.role_chapter_10811	{1,1,1}	2600541	chess.902	/Game/Spine/Hero/Girl008a_01_q/sp_girl008a_01_q.sp_girl008a_01_q-atlas	/Game/Spine/Hero/Girl008a_01_q/sp_girl008a_01_q.sp_girl008a_01_q-data	sp_girl008a_01_q_stand	sp_girl008a_01_q_hello
+3	茉莉安	role.role_chapter_10511	{1,1,1}	2600551	chess.903	/Game/Spine/Hero/Girl005a_01_q/sp_girl005a_01_q.sp_girl005a_01_q-atlas	/Game/Spine/Hero/Girl005a_01_q/sp_girl005a_01_q.sp_girl005a_01_q-data	sp_girl005a_01_q_stand	sp_girl005a_01_q_hello

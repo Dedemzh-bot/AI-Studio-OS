@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	堆积了这么多泰坦物质，果然会吸引很多泰坦怪物啊……	堆積了這麼多泰坦物質，果然會吸引很多泰坦怪物啊……	まさかこんなにタイタンが…	이렇게 많은 타이탄 물질이 쌓였으니, 타이탄들이 몰려들 수밖에…	Adventist ceremony... could attract Titans.						0	
+2	今天有得忙了呢。	今天有得忙了呢。	今日は忙しくなりそうですね。	오늘 좀 바빠지겠는걸.	Looks like we're in for a busy day.						0	

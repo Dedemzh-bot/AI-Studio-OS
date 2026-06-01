@@ -1,0 +1,29 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	也不知为什么，猫汐尔最近总喜欢在我身上嗅来嗅去。	也不知為什麼，貓汐爾最近總喜歡在我身上嗅來嗅去。	どうにも最近、マーシルがやたら私の匂いを嗅いでくる。	왜 그런지 모르겠지만, 캣 시에라가 요즘 자꾸 내 몸의 냄새를 맡으려 한다.	For some reason, Mauxir has been sniffing around me a lot lately.						0	3.2版本随机事件
+page1.2	分析员的气味变了喵。	分析員的氣味變了喵。	分析員の匂い、変わったニャン。	분석가의 냄새가 변했다냥.	Your scent is different, nya.						0	3.2版本随机事件
+page1.3	气味很奇怪喵。	氣味很奇怪喵。	ちょっと変だよ。	냄새가 이상하다냥.	It smells strange, nya.						0	3.2版本随机事件
+page1.4	猫汐尔你在我身上蹭来蹭去做什么？	貓汐爾你在我身上蹭來蹭去做什麼？	マーシル、何しているんだ。そんなに擦りつくな。	캣 시에라, 왜 자꾸 내 몸에 비비적거리는 거야?	Why are you rubbing against me, Mauxir?						0	3.2版本随机事件
+page1.5	从熙澜海回来以后，分析员身上就多了一些奇怪的味道喵。	從熙瀾海回來以後，分析員身上就多了一些奇怪的味道喵。	セイラン海から戻ってから、分析員の匂いに妙な成分が混ざってる。	헬리오라 해에 다녀온 이후로, 분석가 몸에서 이상한 냄새가 난다냥.	You've been carrying some strange smells ever since you returned from Heliora Sea, nya.						0	3.2版本随机事件
+page1.6	奇奇怪怪……而且很熟悉喵。	奇奇怪怪……而且很熟悉喵。	変だね、でも懐かしい気もするニャン。	이상하기도 하고… 익숙하기도 하다냥.	Very strange... and yet familiar, nya.						0	3.2版本随机事件
+page1.7	我怎么一点气味都没有闻到？	我怎麼一點味道都沒有聞到？	私は何も感じないけどな。	난 잘 모르겠는데?	I don't smell anything at all?						0	3.2版本随机事件
+page1.8	这是灵魂的气味，你们人类当然闻不到喵！	這是靈魂的氣味，你們人類當然聞不到喵！	それは「魂」の匂い。人間には基本わからないよ。	이건 영혼의 냄새라서, 너희 인간들은 당연히 못 맡는다냥!	It's the scent of the soul. Of course you humans can't smell it, nya!						0	3.2版本随机事件
+page1.9	灵魂是思维的集合，是生命的本质，它的气味会随着接触和融合发生改变喵。	靈魂是思維的集合，是生命的本質，它的氣味會隨著接觸和融合而發生改變喵。	魂は思考の集合で、生命の本質。触れ合ったり混ざったりすると匂いも変化するの。	영혼은 생각의 집합체고, 생명의 본질이다. 접촉하고 융합하면서 냄새가 변한다냥.	The soul is the collection of thoughts, the essence of life. Its scent changes with every touch and union, nya.						0	3.2版本随机事件
+page1.10	而分析员的灵魂嘛……嗯，气味有那么些变化喵。	而分析員的靈魂嘛……嗯，氣味有那麼些變化喵。	で、分析員の魂――うん、ちょっと変わったニャン。	그리고 분석가의 영혼은… 음, 냄새가 좀 변했다냥.	And for your soul... hmm, its scent has changed a little, nya.						0	3.2版本随机事件
+page1.12	很可疑喵！像是伪装成鸡腿的生姜喵！比猫猫和胡狼更令人难以分辨，让我好好闻一闻喵！	很可疑喵！像是偽裝成雞腿的生薑喵！比貓貓和胡狼更令人難以分辨，讓我好好聞一聞喵！	怪しい。チキンの形に化けたショウガみたい。ネコとジャッカルより判別むずかしい。もっと嗅がせてニャン。	매우 수상하다냥! 마치 생강이 닭 다리로 위장한 것 같다냥! 냥이랑 자칼을 구분하는 것보다 더 어려워서 자세히 맡아봐야 한다냥!	Very suspicious, nya! Like ginger disguised as a piece of chicken, nya! Even harder to distinguish than a cat or jackal, let me take a good sniff, nya!						0	3.2版本随机事件
+page1.13	你这奇形怪状的比喻是从哪里来的……	你這奇形怪狀的比喻是從哪來的……	その奇妙なたとえはどこから出てくるんだ。	그런 기괴한 비유는 대체 어떻게 생각해 낸 거야…	Where do you come up with these bizarre metaphors...						0	3.2版本随机事件
+page1.14	不是比喻，这是事实喵！	不是比喻，這是事實喵！	比喩じゃない、事実だよ。ニャン。	비유가 아니라 사실이다냥!	It's not a metaphor. It's the truth, nya!						0	3.2版本随机事件
+page1.15	果然有问题，就连小凯贝都感觉到了喵。	果然有問題，連小凱貝都感覺到了喵。	やっぱり何かある。ケベちゃんだって気づいてた。	역시 문제가 있다. 리틀 카이베도 느꼈다냥.	See? It's fishy! Even Kebechet noticed too, nya.						0	3.2版本随机事件
+page1.16	让我再闻闻，这个气味很像什么呢……嗯，有点像……瑟瑞斯的味道喵。	讓我再聞聞，這個氣味很像什麼……嗯，有點像……瑟瑞斯的味道喵。	この匂い、何かに似てる……うん、ちょっと……シーリスっぽいニャン。	다시 한번 맡아보겠다. 이 냄새가 뭐랑 비슷하더라… 음, 약간… 세리스의 냄새 같다냥.	Let me smell it again. What is it... Hmm, a bit like... Siris's scent, nya.						0	3.2版本随机事件
+page1.17	嗯，嗯，是瑟瑞斯的气味喵。	嗯，嗯，是瑟瑞斯的氣味喵。	うん、やっぱりシーリスの匂いニャ。	응, 응, 세리스의 냄새다냥.	Yeah, right, it's Siris, nya.						0	3.2版本随机事件
+page1.18	好奇怪呀，分析员，你和瑟瑞斯……究竟做了什么喵？	好奇怪呀，分析員，你和瑟瑞斯……究竟做了什麼喵？	変だね、分析員。シーリスと、何をしたの？	이상하다냥. 분석가, 너랑 세리스… 도대체 뭘 한 거냥?	That's so strange, Adjutant. What exactly did you and Siris do, nya?						0	3.2版本随机事件
+choice01	遮遮掩掩	遮遮掩掩	ごまかす	어물쩍 넘어간다	Play it close						0	3.2版本随机事件
+page2.1	这就一言难尽了……	這就一言難盡了……	一言では説明しづらいな。	그건 설명하기 복잡한데…	Well... It's a long story...						0	3.2版本随机事件
+choice02	大大方方	大大方方	正直に言う	당당하게 말한다	Be open about it						0	3.2版本随机事件
+page3.1	你这么一说，的确发生了一些灵魂的探讨、碰撞与交融。	你這麼一說，的確發生了一些靈魂的探討、碰撞與交融。	言われてみれば、少し「魂」の議論と、衝突と、交わりがあった。	솔직히 말하자면, 영혼의 탐구와 충돌, 융합과 같은 일들이 있었지.	Now that you mention it, our souls didn't just meet. They clashed and connected, deeply.						0	3.2版本随机事件
+page4.1	分析员很狡猾，做了什么不得了的事情被猫汐尔发现了喵。	分析員很狡猾，做了什麼不得了的事被貓汐爾發現了喵。	ずるい。とんでもないことをして、私に見つかったんだね。	분석가 너무해. 무슨 대단한 일을 벌였길래 캣 시에라한테 들킨 거냥?	Adjutant... how sly of you. I know exactly what you did, nya.						0	3.2版本随机事件
+page4.2	猫汐尔说着便凑到了我的身前，将头狠狠地埋进了我的胸膛。	貓汐爾說著便湊到了我的身前，將頭狠狠地埋進了我的胸膛。	――そう言うと、マーシルはぐいっと胸元に顔を埋めてきた。	캣 시에라는 그렇게 말하면서 내 앞으로 다가왔고, 내 가슴에 머리를 확 파묻었다.	Before finishing, Mauxir got close to me, burying her head firmly in my chest.						0	3.2版本随机事件
+page4.3	你怎么又扑上来了？	你怎麼又撲上來了？	今度はなんだ？	왜 또 달려드는 거야?	Why did you pounce on me again?						0	3.2版本随机事件
+page4.4	正在对分析员进行灵魂标记喵！	正在對分析員進行靈魂標記喵！	分析員に「魂のマーキング」をしてるよ。	분석가한테 영혼 표식을 새기고 있다냥!	Marking your soul, nya!						0	3.2版本随机事件
+page4.5	下一次你再这样做的时候，我就能感觉到了喵！	下次你再這樣做的時候，我就能感覺到了喵！	次に同じことをしたら、すぐにわかる。	다음에 또 이런 일이 있으면, 내가 바로 알 수 있을 거다냥!	Next time you do that, I'll be able to sense it, nya!						0	3.2版本随机事件
+page4.6	你逃不掉了喵！	你逃不掉了喵！	もう逃がさないニャン。	넌 이제 도망칠 수 없다냥!	I'm onto you, nya!						0	3.2版本随机事件

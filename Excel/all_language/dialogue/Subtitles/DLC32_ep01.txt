@@ -1,0 +1,11 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1000	讨厌的人类，本大王命令你们立刻圆润地退下！不然就……	討厭的人類，本大王命令你們立刻圓潤地退下！不然就……	忌々しい人間どもめ！ とっとと帰りやがれ！ さもないと……	성가신 인간들, 대왕님께서 명하노니 당장 얌전히 물러나라! 안 그러면…	Bloop, annoying humans! This is my turf, I command you to scram! If you don't...						0	3.2版本协议动画字幕
+1001	吃我喷嚏！	吃我噴嚏！	この無敵の『ハクション』をお見舞いしてやるぜ！	내 재채기를 먹게 될 것이야!	I'll sneeze you away!						0	3.2版本协议动画字幕
+1002	咦呜呜？你们还怪强得嘞。	咦嗚嗚？你們還怪強的咧。	おりゃっ！？ やるじゃねえか。	으에엑? 꽤 강한 녀석들이군.	Eek!? You're surprisingly strong, bloop.						0	3.2版本协议动画字幕
+1003	但是根据《基因植物领地法》第250条，非法入侵者必须得到应有的惩罚。	但是根據《基因植物領地法》第250條，非法入侵者必須得到應有的懲罰。	だがな、『ゲノム編集植物領地法』第250条により、勝手な侵入者にはキツ〜いお仕置きが待ってるぜ！	하지만 <유전자 식물 영토법> 제250조에 따르면, 불법 침입자는 응당 처벌을 받아야 해.	But according to Article 250 of the Genetically-Modified Flora Territory Act, trespassers must be duly punished!						0	3.2版本协议动画字幕
+1004	本大王只好让你们见识见识，什么叫真正的恐怖！	本大王只好讓你們見識見識，什麼叫真正的恐怖！	さあ、真の恐怖ってやつを、今ここで味わわせてやる！	진정한 공포가 무엇인지, 이 대왕님께서 직접 보여주마!	You leave me no choice, bloop — get ready to feel true terror!						0	3.2版本协议动画字幕
+1005	分析员，按照刚才的计划……	分析員，按照剛才的計畫……	分析員、さっきの計画だと……	분석가님, 아까 계획대로…	Adjutant, should we do as planned...?						0	3.2版本协议动画字幕
+1006	哼，又是这招。	哼，又是這招。	フンッ、それしか使えないの？	흥, 같은 수법이네.	Hmph. That old trick again?						0	3.2版本协议动画字幕
+1007	可惜对本小姐已经没用了	可惜對本小姐已經沒用了	わるいけど、あたしにはもう通用しないわよ。	하지만 이 몸한테는 이제 안 통해.	Too bad — it won't work on me anymore.						0	3.2版本协议动画字幕
+1008	给我乖乖回培养舱里去吧。	給我乖乖回培養艙裡去吧。	おとなしく、培養器の中に引っ込んでなさい！	얌전히 육성 캡슐로 돌아가시지.	Back in the growth pod you go.						0	3.2版本协议动画字幕

@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	里芙是在回复邮件吗？	里芙是在回覆信件嗎？	リフ、メールの返信か？	리브는 메일 답장하는 중이야?	Are you replying to emails, Lyfe?						0	3.0版本随机事件
+page1.2	嗯……在回绝广告代言邀请。	嗯……在回絕廣告代言邀請。	ああ……案件の誘いを断っているんだ。	응… 광고 모델 제안을 거절하고 있어.	Hmm... I'm turning down endorsement offers.						0	3.0版本随机事件
+page1.3	即使从来没答应过，但从夺冠那天起，这些邮件就源源不断，没个尽头。	即使從來沒答應過，但從奪冠那天起，這些信件就源源不斷，沒有停過。	引き受けたことは一度もないんだが、チャンピオンになった日から、こういうメールが毎日のように来るんだ。	한 번도 수락한 적 없는데, 우승한 날부터 이런 메일이 끊임없이 들어와. 정말 끝이 없어.	I never accepted any, but these emails have been flooding in since the day I won the championship.						0	3.0版本随机事件
+page1.4	没想到直到今天，这个名头还被惦记着。	沒想到直到今天，這個名頭還被惦記著。	チャンピオンという肩書きにこうも影響力があるとは思いもしなかったよ。	오늘까지도 사람들이 이 타이틀을 기억하고 있을 줄이야.	Hard to believe people are still clinging to that title even now.						0	3.0版本随机事件
+page1.5	有些好奇，都是些什么代言？	有點好奇，都是一些什麼代言？	ちょっと気になるな。どんな企業から来てるんだ？	궁금하네, 어떤 광고들인데?	I'm curious. What kinds of products do you get asked to endorse?						0	3.0版本随机事件
+page1.6	空调、冰箱、制冰机……还有什么冰雪乐园？	冷氣、冰箱、製冰機……還有什麼冰雪樂園？	エアコン、冷蔵庫、製氷機……それから、氷をテーマにした遊園地だな。	에어컨, 냉장고, 제빙기… 그리고 무슨 스노우랜드?	Air conditioners, refrigerators, ice makers... even a snow park.						0	3.0版本随机事件
+page1.7	她们说我的气质很适合。	她們說我的氣質很適合。	私の雰囲気が商品イメージに近いらしい。	내 이미지랑 잘 어울린대.	They say I have the right vibe for it.						0	3.0版本随机事件
+page1.8	一点都不适合。	一點都不適合。	全然そんなことないけどな。	전혀 안 어울리는데.	It's not. Not at all.						0	3.0版本随机事件
+page1.9	诶？	欸？	え？	어?	Eh?						0	3.0版本随机事件
+page1.10	我的意思是，里芙那么温柔，才不适合代言那些冷冰冰的产品。	我的意思是，里芙那麼溫柔，才不適合代言那些冷冰冰的產品。	リフはこんなに優しいんだから、冷たいイメージとはそぐわないってことさ。	그러니까, 리브는 다정한 사람이라 차가운 제품의 모델과는 어울리지 않다는 말이야.	I mean, someone as gentle as you shouldn't be endorsing cold, lifeless products like those.						0	3.0版本随机事件
+page1.11	没关系，我不在乎外人对我的看法。	沒關係，我不在乎外人對我的看法。	大丈夫だ。他人からどう思われようが私は気にしない。	괜찮아. 남들이 날 어떻게 보든, 신경 쓰지 않아.	It's fine. I don't care how others see me.						0	3.0版本随机事件
+page1.12	我的温柔，只要展现给亲爱的一个人就好。	我的溫柔，只要展現給親愛的一個人就好。	私の優しさなんて、あなたひとりが知ってくれていればそれで充分だ。	내 다정함은, 자기 한 사람에게만 보여주면 돼.	My gentleness is meant for just you, my darling.						0	3.0版本随机事件

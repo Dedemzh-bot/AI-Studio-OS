@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员。	分析員。	分析員。	분석가.	Adjutant.						0	
+page1.2	刚回到基地不久，晴就找到了我。	剛回基地不久，晴就找到我了。	寮に戻ってすぐ、晴が私を訪ねてきた。	숙소에 돌아오자마자 하루가 나를 찾아왔다.	I had just returned to the Base when Haru approached me.						0	
+page1.3	分析员有空帮我看下最近的训练计划吗？	分析員有空幫我看下最近的訓練計畫嗎？	自分のトレーニングメニューを見てもらえるだろうか？	분석가, 시간 있으면 나 요즘의 훈련 계획 좀 봐줄 수 있어?	Do you have a minute to go over my latest training plan?						0	
+page1.4	嗯，我看看。	嗯，我看看。	ああ、いいよ。	응, 한번 볼게요.	Sure. Let's see.						0	
+page1.5	我看着晴的训练安排表，上面密密麻麻一连串的训练项目，光是看着就让人喘不过气来。	我看著晴的訓練安排表，上面密密麻麻一連串的訓練項目，光是看著就讓人喘不過氣來。	トレーニングメニューを見ると、そこにはトレーニングの項目がびっしりと書かれていた。見ているだけで息が苦しくなりそうだ。	나는 하루의 훈련 일정표를 보면서 빡빡하게 이어진 훈련 리스트들만 봐도 숨이 막힐 지경이었다.	Haru's training schedule looked like a grueling marathon of workouts — just reading the long list was exhausting.						0	
+page1.6	这训练计划是……	這訓練計劃是……	これって……	이 훈련 플랜은…	What's this training plan for...?						0	
+page1.7	最近我的体能训练的到瓶颈期了，一直没法提升，想要突破一下，就想着加大些训练量。	最近我的體能訓練到瓶頸期了，一直沒辦法提升，想要突破一下，就想著加大訓練量。	ここのところ、体力トレーニングをこなしてもめぼしい改善が見られないから、トレーニングを増そうと思ったんだ。	최근 내 체력 훈련이 슬럼프에 빠져서, 계속 발전이 안 돼. 돌파하고 싶어서 훈련량을 좀 더 늘리려고.	I've hit a plateau with my physical training lately. I can't seem to push past it, so I thought increasing the intensity might help.						0	
+page1.8	分析员觉得这样安排有问题吗？	分析員覺得這樣安排有問題嗎？	このメニューになにかおかしな点があれば教えてほしい。	분석가는 이렇게 하는 게 문제 있다고 생각해?	Do you see any issues with this plan?						0	
+page1.9	何止是有问题……	何止是有問題……	おかしな点っていうか……	'문제 있다'는 정도뿐이겠어…	Well, where do I begin...						0	
+page1.10	在我看来，晴的瓶颈根本就不是增加训练量能解决的，而是她日常训练太刻苦根本没给身体恢复到巅峰的机会。	在我看來，晴的瓶頸根本就不是增加訓練量能解決的，而是她日常訓練太刻苦根本沒給身體恢復到巔峰的機會。	私に言わせれば、晴の問題はトレーニング量が少ないことではなく、トレーニングのやりすぎでうまく休息を取れていないことが原因だった。	내가 보기엔 하루의 슬럼프는 훈련량을 늘려서 해결할 수 있는 문제가 아니라, 오히려 평소 훈련이 너무 혹독해서 몸이 회복할 시간을 주지 않은 게 문제야.	It was clear that simply increasing her training wasn't the solution. She had been pushing herself so hard every day that her body hadn't had the chance to fully recover and improve.						0	
+page1.11	晴要不要换个角度思考下呢？	晴要不要換個角度思考呢？	晴。角度を変えて考えてみないか？	하루, 좀 다른 각도로 생각해 보는 게 어때요?	Haru, maybe you should try looking at this from a different angle.						0	
+page1.12	换个角度？分析员的意思是……啊，我明白了！	換個角度？分析員的意思是……啊，我明白了！	角度を変える……つまり……あ、なるほど！	다른 각도? 분석가의 말은… 아, 알겠어!	A different angle? You mean... Ah! I get it!						0	
+page1.13	你明白就好。	你明白就好。	わかってくれてうれしいよ。	다행이네요.	I'm glad to hear that.						0	
+page1.14	分析员是想说……像是正常跑步的这种太简单了，我应该考虑换成倒立跑圈之类的？	分析員是想說……像是正常跑步的這種太簡單了，我應該考慮換成倒立跑圈之類的？	つまり、通常通りのランニングじゃ簡単すぎるから、逆立ちしながら走ったほうがいい、ということか？	분석가는… 평범한 달리기는 너무 간단하니까 물구나무서기 자세로 달린다거나 그런 거?	You're saying that regular training is too basic, right? And I should try something harder, like running laps upside down, perhaps?						0	
+page1.15	？？？？？？	？？？？？？	？？？？？？	??????	...???						0	
+page1.16	你到底明白了什么啊？！	你到底明白了什麼啊？！	どうしたらそんな理解になるんだ！？	대체 뭘 알았다는 거야?!	That's what you got from my advice!?						0	
+page1.17	这样想的话总是正常俯卧撑加负重确实也太简单了，或者俯卧撑的方式也可以换一种角度？	這樣想的話總是正常伏地挺身加負重確實也太簡單了，或者伏地挺身的方式也可以換一種角度？	なるほどな。そう言われると、普通の腕立て伏せに負荷を加えるだけでは確かに簡単すぎる。腕立て伏せの角度も変えたほうがいいかもしれないな。	그렇다면 평범한 팔굽혀펴기에 무게를 추가하는 것도 너무 간단하긴 하지, 아니면 팔굽혀펴기의 방식을 바꿀 수도 있겠네?	Now that I think about it, just doing regular push-ups with added weight seems too simple too. Maybe I should also try a different angle on those.						0	
+page1.18	晴满脸兴奋的拿着她的训练计划就要去做修正。	晴滿臉興奮的拿著她的訓練計畫就要去做修正。	晴は興奮しながら、すぐにでも自分のトレーニングメニューを修正しようとしていた。	하루는 흥분한 표정으로 훈련 계획을 수정하러 가려고 했다.	Thrilled by the new idea, Haru excitedly hurried off to adjust her training plan.						0	
+page1.19	我抬起手想要叫住她，可最终又放了下来。	我抬起手想要叫住她，但最後又放了下來。	彼女を呼び止めようとしたが、私は結局諦めた。	나는 손을 들어 그녀를 불러 세우려 했지만 결국 포기했다.	I raised my hand to stop her but hesitated and eventually put it down.						0	
+page1.20	就算我让她休息，她也未必愿意老实执行，还是等她训练开始的时候强制带她去放松好了。	就算我讓她休息，她也未必願意老實執行，還是等她訓練開始的時候強制帶她去放鬆好了。	彼女に休むよう言ったところで、大人しく従ってはくれないだろう。彼女がトレーニングに戻る前に、強制的に彼女を連れ出した方がいいかもしれない。	내가 쉬라고 해도 그녀가 순순히 따를 리 없으니, 나중에 훈련할 때 강제로 휴식을 시킬 수밖에 없다.	Even if I told her to rest, she probably wouldn't listen. I'd just have to force her to take a break once she started training.						0	

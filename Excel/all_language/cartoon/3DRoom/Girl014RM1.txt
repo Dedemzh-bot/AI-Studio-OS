@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	你想要获得什么资讯？	你想要獲得什麼資訊？	……何か御用ですか？	어떤 정보를 알고 싶으신가요?	Can I help you with something?						0	
+page0.2	……你在看书？纸质书？	……你在看書？紙質書？	……本を読んでるの？紙の本？	… 책인가요? 종이책을 보고 계시네요?	...Are you reading a book? A physical book?						0	
+page0.3	很奇怪？	很奇怪？	おかしいですか？	이상한가요?	Is it weird?						0	
+page0.4	也没有。只是大多数的纸质书都因为数据电子化……成为了艺术品。	也沒有。只是大多數的紙質書都因為數據電子化……成為了藝術品。	いや。そうじゃなくて、昔あったほとんどの紙の本はデジタル化したし……今じゃ芸術品扱いだからさ。	그건 아닌데, 대부분 종이책은 디지털로 인해… 예술품이 되어버렸잖아요.	Not really. It's just that most physical books are now considered works of art... due to the digitization of most data.						0	
+page0.5	我家里还有很多。	我家裡還有很多。	……自宅には壁一面にありますが。	저희 집엔 아직도 많아요.	I have several more at home.						0	
+page0.6	我喜欢纸质书。我可以从阅读纸质书籍中获得平静。	我喜歡紙質書。我可以從閱讀紙質書籍中獲得平靜。	それに、私は紙の本が好きです。質感、香り、色……本のサイズや重さによって変わる、開く時の擦れる音や閉じた時のパタンとした音……心が安らぎます。	저는 종이책을 좋아하거든요. 종이책을 읽으면 마음이 고요해져요.	I like physical books. Reading them gives me a peaceful feeling.						0	
+page0.7	（果然是来自上流社会的大家族！）	（果然是來自上流社會的大家族！）	（上流社会の名家出身は違う！）	(역시 상류층 집안이야!)	(Sure enough, she's from an upper-class family!)						0	
+page0.8	咳咳……卡罗琳让我负责撰写上次小分队行动的详细报告。	咳咳……卡羅琳讓我負責撰寫上次小分隊行動的詳細報告。	コホン……カロリンに前回の部隊行動の報告書を書くよう頼まれたんだけど。	흠흠… 다름이 아니라, 캐롤린이 지난번에 있던 분대 미션에 대해서 상세 보고서를 작성하라고 해서요.	Ahem... Caroline put me in charge of drafting a detailed report about our last mission.						0	
+page0.9	但有些细节……我记不清了。	但有些細節……我記不清楚了。	詳しいところは……よく覚えてないんだ。	근데 기억이 잘 안나네요…	But... I can't remember some of the details clearly.						0	
+page0.10	嗯。我可以帮你。	嗯。我可以幫你。	では、手伝いましょう。	네, 제가 도와드릴게요.	Alright. I can help.						0	
+page0.11	不过，我的记忆……有些也未必是真实的。	不過，我的記憶……有些也未必是真實的。	ですが私の記憶も……正しいとは限りません。	그렇다고 제 기억이… 전부 다 진짜는 아닐지도 몰라요.	But some of my memories... might not be entirely real.						0	
+page0.12	……那也比我的要清晰全面！	……那也比我的要清晰全面！	それでも私の記憶よりは遥かに参考になる！	… 그래도 저보다는 났겠죠!	...They'll still be more accurate than mine!						0	
+page0.13	…………	…………	…………	……	...						0	
+page0.14	为什么不说话？……生……生气了？	為什麼不說話？……生……生氣了？	どうして黙ったの？……怒ってる？	왜 그러세요? … 설마 화… 나셨나요?	Why aren't you saying anything? ...Are... are you mad?						0	
+page0.15	我为什么要生分析员的气？	我為什麼要生分析員的氣？	……怒る……？	제가 왜 분석가님한테 화를 내겠어요?	Why would I be mad at you?						0	
+page0.16	说实话……分析员来找我帮忙，我其实还挺开……	說實話……分析員來找我幫忙，我其實還蠻開……	……分析員が……私を、頼ってくれて……	그것보다 전… 분석가님이 찾아오셔서 오히려 좋은걸요…	To be honest... you coming to me for help makes me kind of happ...						0	
+page0.17	（正色）……分析员，把你的需求清单发给我。	（認真）……分析員，把你的需求清單發給我。	……提出する報告書の必要事項を送ってください。	(정색) … 분석가님, 필요한 목록을 보내주세요.	(Seriously) ...Adjutant, send me a list of what you need.						0	
+page0.18	（我找她帮忙，她还挺开心的？）	（我找她幫忙，她還蠻開心的？）	（彼女に頼んでみたら、なんか喜んでるような？）	(내가 찾아온 게 좋다니?)	(Me coming to her for help makes her kind of happy?)						0	
+page0.19	（她刚刚的表情是……难道她是害羞了？）	（她剛剛的表情是……難道她是害羞了？）	（さっきの表情は……照れているのか？）	(설마 방금 그 표정… 부끄러워하는 건가?)	(Her expression just now was... Is she embarrassed?)						0	
+page0.20	（莫名的……竟然有点可爱。）	（莫名的……竟然有點可愛。）	（なんというか……意外と可愛いな。）	(뭔가… 왠지 모르게 귀엽네)	(Somehow... it's kind of cute.)						0	

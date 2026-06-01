@@ -1,0 +1,38 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	待机	sequence	girl004_01_house_stand01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_stand01.girl004_01_house_stand01'	
+2	说话	sequence	girl004_01_house_talk01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_talk01.girl004_01_house_talk01'	
+3	椅子坐睡	sequence	girl004_01_house_chair_sit01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_chair_sit01.girl004_01_house_chair_sit01'	
+4	吧台坐	sequence	girl004_01_house_stool_sit01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_stool_sit01.girl004_01_house_stool_sit01'	
+5	床上躺	sequence	girl004_01_house_bed_sleep01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_bed_sleep01.girl004_01_house_bed_sleep01'	
+6	喝咖啡	sequence	girl004_01_house_stool_idle01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_stool_idle01.girl004_01_house_stool_idle01'	
+7	床上坐	sequence	girl004_01_house_bed_sit01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_bed_sit01.girl004_01_house_bed_sit01'	
+8	跑步	sequence	girl004_01_house_run_idle01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_run_idle01.girl004_01_house_run_idle01'	
+9	感谢	sequence	girl004_01_house_thank01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_thank01.girl004_01_house_thank01'	
+10	叉腰	sequence	girl004_01_house_dialogue_akimbo01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_akimbo01.girl004_01_house_dialogue_akimbo01'	
+11	力竭	sequence	girl004_01_house_dialogue_depressed01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_depressed01.girl004_01_house_dialogue_depressed01'	
+12	惊讶	sequence	girl004_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_amaze.girl004_01_house_dialogue_amaze'	
+13	思考-前	sequence	girl004_01_house_dialogue_think_start	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_think_start.girl004_01_house_dialogue_think_start'	
+14	思考-循环	sequence	girl004_01_house_dialogue_think_loop	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_think_loop.girl004_01_house_dialogue_think_loop'	
+15	思考-后	sequence	girl004_01_house_dialogue_think_end	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_think_end.girl004_01_house_dialogue_think_end'	
+16	打招呼	sequence	girl004_01_house_dialogue_greet	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_greet.girl004_01_house_dialogue_greet'	
+17	肯定	sequence	girl004_01_house_dialogue_sure	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_sure.girl004_01_house_dialogue_sure'	
+18	否定	sequence	girl004_01_house_dialogue_deny	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_deny.girl004_01_house_dialogue_deny'	
+19	编程	sequence	girl004_01_house_programming_idle01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_programming_idle01.girl004_01_house_programming_idle01'	
+20	修理	sequence	girl004_01_house_repair_idle01	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_repair_idle01.girl004_01_house_repair_idle01'	
+21	跺脚生气	sequence	girl004_01_house_dialogue_depressed02	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_depressed02.girl004_01_house_dialogue_depressed02'	
+22	吧台坐转换-前	sequence	girl004_01_house_dialogue_barsit_start	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_barsit_start.girl004_01_house_dialogue_barsit_start'	
+23	吧台坐转换-循环	sequence	girl004_01_house_dialogue_barsit_loop	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_barsit_loop.girl004_01_house_dialogue_barsit_loop'	
+24	吧台坐转换-后	sequence	girl004_01_house_dialogue_barsit_end	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_barsit_end.girl004_01_house_dialogue_barsit_end'	
+25	叉腰指天	sequence	girl004_01_house_dialogue_akimbo	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_akimbo.girl004_01_house_dialogue_akimbo'	
+					
+					
+					
+97	左转	sequence	girl004_01_house_dialogue_turn_L	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_turn_L.girl004_01_house_dialogue_turn_L'	
+98	右转	sequence	girl004_01_house_dialogue_turn_R	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_turn_R.girl004_01_house_dialogue_turn_R'	
+99	呼吸叠加素材	sequence	girl004_01_house_dialogue_Tpose	AnimSequence'/Game/Characters/Girl/girl004_01/Anim/house/girl004_01_house_dialogue_Tpose.girl004_01_house_dialogue_Tpose'	
+100	一次思考	custom_seq	13;14;15		
+101	思考循环	custom_loop_last	13;14		
+102	喝咖啡循环	custom_loop_last	6;4		
+103	一次吧台坐转换	custom_seq	22;23;24		
+104	吧台坐转换循环	custom_loop_last	22;23		

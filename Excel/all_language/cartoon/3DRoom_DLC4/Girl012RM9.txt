@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	呼……	呼……	ふぅ……	후우…	*sigh*...						0	
+page0.2	猫汐尔最近好像都没什么精神。	貓汐爾最近好像沒什麼精神。	マーシル……最近元気がないようだ……体調がまだ回復していないのか？	캣 시에라, 요즘 기운이 없어 보이네.	Mauxir, it seems like you've been pretty listless lately.						0	
+page0.3	因为天气越来越冷了喵。	因為天氣越來越冷了喵。	フンニャン……だんだん冷えてきてるからニャン。	날씨가 점점 추워져서 그런다냥.	Because it's getting colder and colder, nya.						0	
+page0.4	嗯？你没睡着啊。	嗯？你還沒睡啊。	あれ？起きてるの？	음? 안 자고 있었어?	Huh? Did you not sleep?						0	
+page0.5	今天已经睡了14个小时了。	今天已經睡了14個小時了。	今日はもう14時間寝たよ。	오늘 벌써 14시간이나 잤다.	I slept for 14 hours today.						0	
+page0.6	是有些夸张了，天再冷也不至于睡这么久吧。	那真的有點誇張，就算天氣再冷也不至於睡那麼久吧。	ちょっと大げさじゃないか。いくら寒いからってそんなに寝れるの？	정말이야? 날씨가 아무리 추워도 그렇지, 그렇게나 많이 잔다니.	That's a little crazy. I would never sleep that long, no matter how cold it gets.						0	
+page0.7	而且基地不是都有空调吗？你房间里可暖和得很。	而且基地不是都有暖氣嗎？你房間應該很溫暖吧。	それに社員寮にはエアコンがあるだろう？マーシルの部屋もちゃんと暖かい。	그리고 숙소에 난방기도 있지 않아? 네 방은 꽤 따뜻한 편인데.	And aren't there heaters all over the Base? It should be really warm in your room.						0	
+page0.8	猫冬眠不是很正常的事情吗？奇怪的是你们人类。	貓咪冬眠不是理所當然的事情嗎？奇怪的是你們人類。	猫が冬眠するのは至極当然。変なのはあなたたち人間の方、ニャン。	고양이가 겨울잠을 자는 건 정상 아닌가? 이상한 건 너희 인간들이다.	Isn't it normal for cats to hibernate in the winter? You humans are the weird ones.						0	
+page0.9	你又不是猫，等等，猫也不会冬眠好吧。	你又不是貓，等等！貓咪也不會冬眠好嗎…	いつも「ネコじゃニャイ」って言ってるだろう？うん？ちょっと待って、猫だって冬眠はしないんじゃなかった？	넌 고양이도 아니잖아. 잠깐, 고양이는 겨울잠을 안 자는데?	You're not a cat. Wait a second — cats don't hibernate either!						0	
+page0.10	唔喵，没骗过去。	唔喵，沒被我騙到。	ニャンだ、誤魔化せてなかったニャン。	음냥, 안 속네.	Aw, nya~ Guess I can't trick you.						0	
+page0.11	什么“唔喵”啊，你这懒猫。	什麼「唔喵」啊，你這懶惰貓貓。	ニャンだってなんだよ。この怠け猫が。	 '음냥'이 뭐야, 이 게으른 야옹아.	What do you mean, "aw, nya"? You lazy cat.						0	
+page0.12	再不起来活动活动，你快和肴一样了。	再不起來活動活動，你就要跟肴一樣了。	少しは体を動かさないと、肴みたいになるよ。	빨리 일어나서 뭐라도 하지 않으면 곧 야오처럼 되고 말 거야.	If you don't get up and get your blood moving, you're going to turn into Yao.						0	

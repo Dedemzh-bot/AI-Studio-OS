@@ -1,0 +1,42 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	晴似乎一直对某种东西有奇怪的兴趣……	晴似乎一直對某些東西有奇怪的興趣……	晴はあるものに対して妙な興味を持っているようだ。	하루가 뭔가에 계속 이상한 관심을 보이는 것 같다…	Haru seems to have a strange fascination with something...						0	3.2版本随机事件
+page1.2	一次又一次……	一次又一次……	何度も何度も……	몇 번이고…	Again and again...						0	3.2版本随机事件
+page1.3	她总会出现在特定的位置。	她總是會出現在特定的位置。	いつも同じ場所に現れるようになった。	자꾸 특정 위치에 나타난다.	She ends up in the same spot.						0	3.2版本随机事件
+page1.4	这应该不是我的错觉吧？	這應該不是我的錯覺吧？	気のせいじゃないよな？	설마 내 착각은 아니겠지?	Surely, I'm not imagining it.						0	3.2版本随机事件
+page1.5	晴，你在做什么呢？	晴，你在做什麼呢？	晴、何をしているんだ。	하루, 뭐 하고 있어요?	What are you doing, Haru?						0	3.2版本随机事件
+page1.6	像是被发现了什么秘密似的，我明显看到她的身躯一颤。	像是被發現了什麼秘密一樣，我明顯看到她的身軀一顫。	彼女は秘密がバレたように、明らかに驚いていた。	무슨 비밀이라도 들킨 듯, 그녀의 몸이 분명하게 움찔거렸다.	Like someone caught red-handed, she flinched.						0	3.2版本随机事件
+page1.7	啊？是分析员啊？我……我只是很随意地路过此处。	啊？是分析員啊？我……我只是很隨意地路過這裡。	ああ、分析員。自分は……自分はただ、通りすがっただけだ。	앗? 분석가였구나? 나… 나는 그냥 우연히 지나가고 있었어.	Ah, it's you, Adjutant. I... I just happened to be passing by.						0	3.2版本随机事件
+page1.8	只是路过而已，并没有什么值得在意的。	只是路過而已，並沒有什麼值得在意的。	別に気になるものなんてない。	그냥 지나가는 중이니까, 네가 신경 쓸 만한 건 없어.	Yes, I'm just passing by. Nothing worth noting here.						0	3.2版本随机事件
+page1.9	她的目光匆匆忙瞥过一旁的黄色扭扭车，又假装不在意似的收了回来。	她的目光匆匆瞥過一旁的黃色扭扭車，又假裝不在意的樣子收了回來。	彼女は黄色いプラズマカーを一瞥し、すぐに視線をそらした。	그녀의 눈길이 옆의 노란 붕붕카를 바쁘게 훑더니, 또 무심한 척하며 시선을 거뒀다.	Her eyes flicked nervously toward the yellow wiggle car beside her, then darted away as if nothing had happened.						0	3.2版本随机事件
+choice01	你眼中的慌乱，非常明显。	你眼中的慌亂，非常明顯。	明らかに動揺しているようだけど。	적잖이 당황한 눈빛이네요.	You're not very good at hiding your panic.						0	3.2版本随机事件
+page2.1	唔……有，有吗？	嗯……有，有嗎？	うっ…そ、そう見えるか？	으음… 그, 그래?	Mmm... R—Really?						0	3.2版本随机事件
+choice02	莫非你对芙提雅老师的扭扭车很感兴趣？	莫非你對芙提雅老師的扭扭車很感興趣？	もしかしてフリティア先生のプラズマカーに興味があるのか。	혹시 프티야 선생님의 붕붕카에 관심이 있어요?	Are you... interested in Fritia's wiggle car?						0	3.2版本随机事件
+page3.1	没，没有的事。	沒、沒有的事。	そ、そんなことはない。	아, 아니야…	Ahem... A—Absolutely not.						0	3.2版本随机事件
+page4.1	你不会是想试着坐这辆车吧？像芙提雅那样？	你不會是想試著坐這輛車吧？像芙提雅那樣？	ひょっとして、これに乗ってみたいのか？フリティアみたいに。	설마 이 차를 타보고 싶은 거예요? 프티야처럼?	Do you want to ride it? Just like Fritia?						0	3.2版本随机事件
+page4.2	！！！	！！！	！！！	!!!	!!!						0	3.2版本随机事件
+page4.3	那，当然……当然是不可能的事情！	那、當然……當然是不可能的事情！	まさか……考えたこともない！	그, 당연히… 당연히 그럴 리가 없지!	That's... o—obviously not the case!						0	3.2版本随机事件
+page4.4	我身为分析员的剑，每日精进自我，怎么能因为这种东西……	我身為分析員的劍，每日精進自我，怎麼能因為這種東西……	分析員の剣として日々精進している自分が、まさかこんなもののために……	난 분석가의 검으로서 매일 자기 수양을 하는데, 어떻게 이런 것 때문에…	As your sword, I devote myself to training every day! How could I possibly...						0	3.2版本随机事件
+page4.5	虽然嘴里这么说，但她的目光依旧不自觉地瞥到了黄色扭扭车上，神色中的慌乱愈发明显。	雖然嘴裡這麼說，但她的目光依舊不自覺地瞥到了黃色扭扭車上，神色中的慌亂越發明顯。	そう言いながらも、彼女はますます焦り、黄色いプラズマカーに視線が吸い寄せられていた。	그렇게 말하면서도 그녀의 시선은 저절로 노란색 붕붕카로 향했고, 당황스러운 표정은 더욱 역력했다.	Her words said one thing, but her eyes wandered back to the yellow wiggle car. Her composure was clearly crumbling with each glance.						0	3.2版本随机事件
+page4.6	当然，我也承认它确实有那么一丁点儿可爱，但这样的造型想必很不适合我……	當然，我也承認它確實有那麼一丁點可愛，但這樣的造型想必很不適合我……	確かに少しだけかわいいとは思うが、このようなデザインは自分には似合わないと……	물론 아주 조금은 귀엽다는 걸 인정하지만, 이런 디자인은 분명 나랑 안 어울릴 거야…	Well, I admit it's... kind of cute. But such a design surely never suits me...						0	3.2版本随机事件
+choice03	喜欢扭扭车是人之常情	喜歡扭扭車是人之常情	プラズマカーが好きなのはみんな同じだ	붕붕카는 누구나 다 좋아하죠.	It's perfectly normal to like a wiggle car						0	3.2版本随机事件
+choice04	放心，我不会外传的	放心，我不會外傳的	心配するな、誰にも言わないから	다른 사람에겐 말하지 않을 테니 걱정 마요.	Don't worry, your secret's safe with me						0	3.2版本随机事件
+page5.1	你……你说什么呢，我，我没有喜欢那种东西！	你……你說什麼呢，我、我沒有喜歡那種東西！	な、何を言ってるんだ！べ、別にこういうのが好きだなんて言っていない！	무… 무슨 소리야? 나, 난 그런 거 안 좋아해!	Wh—What are you talking about? I don't like it!						0	3.2版本随机事件
+page5.2	我，我……	我、我……	じ、自分はただ……	나, 나는…	I... I...						0	3.2版本随机事件
+page5.3	……	……	……	……	...						0	3.2版本随机事件
+page5.4	令人尴尬的沉默。	令人尷尬的沉默。	気まずい静寂だ。	어색한 침묵이 흘렀다.	An awkward silence hung in the air.						0	3.2版本随机事件
+page5.5	那你想不想坐一下？	那你想不想坐一下？	じゃあ乗ってみたくないのか？	그럼 한번 타 보고 싶어요?	Do you want to try it?						0	3.2版本随机事件
+page5.6	诶？有一点点……啊不是，我没有……	欸？有一點點……啊不是，我沒有……	えっ？それはまあ、少しだけなら……ああいや、違う……	응? 조금은… 아니, 그게 아니라…	Eh? Maybe a tiny bit... Wait, no, that's not what I...!						0	3.2版本随机事件
+page5.7	想就直说。	想就直說。	そうしたいならはっきり言ってくれ。	타고 싶으면 솔직히 말해요.	Just say it.						0	3.2版本随机事件
+page5.8	好吧，其实是有一点的，我确实对它稍稍有些心动……	好吧，其實是有一點的，我的確對它稍微有點心動……	いいだろう、確かに乗りたい。少しだけ……	그래, 사실 조금 타고 싶어. 아주 살짝 마음이 끌리긴 했어…	Fine. Yes, I do. I am... curious...						0	3.2版本随机事件
+page5.9	但那仅仅只是微乎其微，我发誓，这绝不会影响我的日常训练！	但那只是微微的一點而已，我發誓，這絕對不會影響我的日常訓練！	だが本当に少しだけだ、日常訓練に支障を出さないと誓う！	하지만 정말 아주 조금일 뿐이야. 맹세하는데, 절대로 일상 훈련에 영향을 주지 않을 거야!	But just a little! I swear it won't interfere with my training!						0	3.2版本随机事件
+page5.10	她的眼神坚毅得像是要上战场。	她的眼神堅毅得像是要上戰場。	その揺るぎない目は、まるで戦場にでも出るようだ。	그녀의 눈빛은 전장에 나가려는 것처럼 단호했다.	Her eyes blazed with the resolve of someone about to march into battle.						0	3.2版本随机事件
+page5.11	倒也不用这么在意。	倒是也不用這麼在意。	そんなに気負わなくていいから。	그렇게까지 신경 쓸 필요는 없어요.	No need to get so worked up about it.						0	3.2版本随机事件
+page5.12	抱歉，我只是……稍稍有点失态。	抱歉，我只是……稍微有點失態。	すまない……見苦しいところを見せたな。	미안, 내가 좀… 추태를 부렸네.	Sorry, I... got carried away...						0	3.2版本随机事件
+page5.13	这可能与平日里的我有些不一样，但请不要……随意外传。	這可能跟平常的我有點不一樣，但請不要……隨意外傳。	どうかしていたみたいだ……他人には言わないでくれ。	평소의 내 모습과는 좀 다를 수 있지만, 부디… 다른 사람에게 말하지 말아 줘.	This isn't like me, but please... don't tell anyone.						0	3.2版本随机事件
+page5.14	拜托了，你……会答应我的吧？	拜託了，你……會答應我的吧？	お願いだから、その……約束してくれるよな？	부탁이야. 약속… 해줄 거지?	Promise me... you'll keep this between us?						0	3.2版本随机事件
+page5.15	那得看你的表现了。	那得看你的表現了。	それは晴次第だ。	하루가 하는 거 봐서요.	That depends on your performance.						0	3.2版本随机事件
+page5.16	唔……	唔……	うっ……	흑…	Ngh...						0	3.2版本随机事件
+page5.17	原来晴还有这样的爱好，有些出乎我的意料了。	原來晴還有這樣的愛好，有點出乎我的意料了。	晴にこんな趣味があったとは、意外だった。	하루에게 이런 취미가 있다니, 좀 의외였다.	To think Haru would have this kind of interest... it was a little unexpected.						0	3.2版本随机事件
+page5.18	顺带一提，之后的晴依旧偶尔会出现在芙提雅的扭扭车旁跃跃欲试。	順便一提，之後的晴依舊偶爾會出現在芙提雅的扭扭車旁躍躍欲試。	ちなみに、晴はその後も時々フリティアのプラズマカーの近くに現れ、乗ってみようとしている。	참고로, 그 후로도 하루는 가끔 프티야의 붕붕카 근처에 나타나 탐내는 듯한 모습을 보였다.	I should mention, she still showed up by Fritia's wiggle car from time to time, looking tempted to try it out.						0	3.2版本随机事件
+page5.19	至于她有没有鼓起勇气真的坐上去……那就不得而知了。	至於她有沒有鼓起勇氣真的坐上去……那就不得而知了。	本当に乗る勇気があるのかは……誰も知らなかった。	실제로 용기를 내서 타 보았는지는… 알 수 없지만.	Whether she ever gathered the courage to actually sit in it... Well, that was another story.						0	3.2版本随机事件

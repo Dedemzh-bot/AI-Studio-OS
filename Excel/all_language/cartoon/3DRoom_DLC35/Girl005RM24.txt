@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	亲爱的~你有看见我提交的申请吗？	親愛的~你有看見我提交的申請嗎？	旦那様、私が出した申請、見てくれましたか？	자기~ 제가 제출한 신청서 봤어요?	Darling, did you see the application I submitted?						0	3.5版本随机剧情
+page1.2	抱歉，茉莉安，上午开会有些忙，还没来得及看。	抱歉，茉莉安，上午開會有些忙，還沒來得及看。	ごめん、マリアン。午前中は会議が立て込んでて、まだ見られてないんだ。	미안, 마리안, 오전에 회의 때문에 바빠서 아직 못 봤어.	Sorry, Marian. I was tied up in meetings all morning and haven't had a chance to look.						0	3.5版本随机剧情
+page1.3	是什么申请？	是什麼申請？	何の申請？	무슨 신청서인데?	What kind of application is it?						0	3.5版本随机剧情
+page1.4	就是……在家里的庄园试过秋千之后，觉得很有趣，想在房间装一个小一些的。	就是……在家裡的莊園試過鞦韆之後，覺得很有趣，想在房間裝一個小一點的。	えっと……家の庭園でブランコを試してみたらすごく楽しくて、部屋に小さいのを設置したいと思いまして。	그게… 가문의 장원에서 그네를 탔던 게 재미있어서, 방에 작은 걸로 하나 설치하고 싶어서요.	Well... After trying the swing back at the family estate, I found it quite fun. I want to install a smaller one in my room.						0	3.5版本随机剧情
+page1.5	茉莉安有选好的款式吗？	茉莉安有選好的款式嗎？	デザインは決まってるのか。	마리안이 원하는 스타일이 있어?	Do you have a specific style in mind?						0	3.5版本随机剧情
+page1.6	嗯……就是那种悬挂式，锁链采用高韧性材料，然后加上阴极科技最新的助推器。	嗯……就是那種懸掛式，鎖鏈採用高韌性材料，然後加上陰極科技最新的助推器。	ええ……吊り下げ式で、鎖には高耐久素材を使って、カソードテクノロジーの最新ブースターも搭載します。	음… 말하자면 매달아 쓰는 방식인데, 체인은 고강도 재료로 만들어졌고, 거기에 케소드 테크윈의 최신 부스터가 장착되어 있어요.	Yes... A suspension swing with chains made from high-toughness materials, plus Cathode Tech's newest booster.						0	3.5版本随机剧情
+page1.7	想和亲爱的一起坐在上面，然后尽情地玩耍~	想和親愛的一起坐在上面，然後盡情地玩耍~	旦那様と一緒に乗って、思いっきり揺らしてほしいんです。	자기와 함께 그 위에 앉아서 마음껏 놀고 싶어요~	I want to sit on it with you, and have fun to our hearts' content~						0	3.5版本随机剧情
+page1.8	这样危险的秋千，后勤部和卡罗琳可能不会同意安装哦。	這樣危險的鞦韆，後勤部和卡羅琳可能不會同意安裝哦。	そんな危ないブランコ、後方支援部とカロリンが通さないかもな。	이렇게 위험한 그네라면 지원부랑 캐롤린이 설치 허가를 안 해줄 것 같은데.	The Logistics Department and Caroline probably won't approve the installation such a dangerous swing.						0	3.5版本随机剧情
+page1.9	诶？这样吗，真可惜……	誒？這樣嗎，真可惜……	えっ？そんな、残念……	에? 그런가요? 아쉽네요…	Oh? Is that so? What a shame...						0	3.5版本随机剧情
+page1.10	不过，茉莉安可以买一把放在安德烈奥蒂庄园的房间里。	不過，茉莉安可以買一把放在安德烈奧蒂莊園的房間裡。	それならアンドレオッチ庭園の部屋に置いたらいい。	하지만 마리안은 안드레오티 장원 방에 사둬도 되잖아.	However, you could buy one for your room back at the Andreotti estate.						0	3.5版本随机剧情
+page1.11	然后，我常陪你回去，如何？	然後，我常陪你回去，如何？	私がたまに一緒に帰ってあげる。どう？	그럼 내가 자주 같이 가줄게, 어때?	Then, we can go back together more often. Okay?						0	3.5版本随机剧情
+page1.12	那……那当然好，谢谢亲爱的~	那……那當然好，謝謝親愛的~	い、いいんですか。ありがとうございます！	좋죠. 고마워요, 자기~	That... that would be wonderful. Thank you, darling~						0	3.5版本随机剧情

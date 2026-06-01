@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	四年前你在安全部的时候，和现在的感觉完全不一样呢。	四年前你在安全部的時候，和現在的感覺完全不一樣呢。	あなた、安全部にいた４年前に比べると、雰囲気が別人みたいに変わったわね。	4년 전, 네가 안전부에 있을 때는 지금과 사뭇 다른 모습이었지.	You were completely different when you were in the Security Department four years ago.						0	
+page1.2	我记得你说安全部的工作稳定而且待遇好，你很满意。	我記得你說安全部的工作穩定而且待遇好，你很滿意。	確か、安全部の仕事は安定しているし待遇も良いから気に入ってるって言ってなかったっけ？	안전부의 일은 안정되고 급여도 만족스럽다고 들었어.	I remember you saying your job in the Security Department was stable, the salary was good, and you were really happy with it.						0	
+page1.3	那倒没错，至少比现在安全多了。	那倒沒錯，至少比現在安全多了。	そうだね。少なくとも今よりはずっと安全だった。	그건 그렇지, 적어도 지금보단 훨씬 안전하니까.	That's true. At the very least, it was a lot safer than my job now.						0	
+page1.4	那你为什么会来当这个分析员？	那你為什麼會來當這個分析員？	じゃあ、なんで分析員の道を選んだのかしら。	그럼 왜 분석가가 된 거야?	Then why did you become the Adjutant?						0	
+page1.5	你是不是有什么把柄在那个老女人手上？	你是不是有什麼把柄在那個老女人手上？	あのババアに弱みでも握られちゃったの？	혹시 그 늙은 여자한테 무슨 약점이라고 잡혔어?	Does that old lady have some dirt on you?						0	
+page1.6	就不能是我想要拯救世界吗？	就不能是我想要拯救世界嗎？	世界を救いたいからって言ったら、信じてくれるか？	내가 세상을 구하고 싶다는 생각은 안드는 건가?	It couldn't just be because I want to save the world?						0	
+page1.7	我可不信。	我可不信。	まさか。	응~ 그런 건 안 믿어.	I wouldn't believe it.						0	
+page1.8	那你就当我和你一样，想找一些有意思的事情做好了。	那你就當做我跟你一樣，想找一些有趣的事情做好了。	だったら君と同じだと思ってくれ。面白い人生ってやつを探してみただけさ。	그럼 너도 내가 너처럼 흥미로운 일을 찾고 있다고 생각해 봐.	Then let's say I'm looking for something fun to do — just like you.						0	
+page1.9	欸，我们都已经是这种关系了，你却还有事瞒着我，真难过。	欸，我們都已經是這種關係了，你卻還有事瞞著我，真難過。	ハァ。私達はもうこんな関係なのに、まだ隠し事をする気なの。泣けてくるわね。	우리가 어떤 사이인데, 나한테 숨기는 게 있다니, 속상하네.	Geez, we're already pretty close, but you're still hiding stuff from me. I'm so upset.						0	
+page1.10	你可得说清楚了我们是什么关系。	你這要說清楚了我們是什麼關係。	一体どういう関係だと思ってるんだよ。	우리가 도대체 무슨 사이인데? 한번 제대로 말해봐.	You need to make what kind of relationship we have clear.						0	

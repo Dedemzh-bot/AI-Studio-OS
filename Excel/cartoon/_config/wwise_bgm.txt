@@ -1,0 +1,48 @@
+﻿bgm名字	说明
+Name	Nul
+BGM|None	停止音乐
+BGM|Story|Cheerful01	时尚,愉快,日常
+BGM|Story|Cheerful02	轻松,愉快,日常
+BGM|Story|Cheerful03	搞笑,轻松,日常
+BGM|Story|Cheerful04	轻松，苔丝印象曲
+BGM|Story|Cheerful06	行动,日常,转机
+BGM|Story|Cheerful07	搞笑，轻松，闹剧
+BGM|Story|Cheerful08	轻松，日常
+BGM|Story|DLC09_Rich01	日常,可爱，二期大富翁
+BGM|Story|DLC09_Rich02	日常,可爱，二期大富翁
+BGM|Story|DLC10_Theme01	复古，吉他，爱情故事
+BGM|Story|DLC10_Theme02	平静，温情，薇蒂雅
+BGM|Story|DLC03_Fight02	日常,轻松
+	
+BGM|Story|DLC14_Hotspring	暖池
+BGM|Story|Dorm	日常,平静，宿舍
+	
+BGM|Story|Lyric02	悲情,孤单
+BGM|Story|Lyric04	国风,温情,告白
+BGM|Story|Lyric05	日常,温情,告白
+BGM|Story|Lyric06	日常,温情,告白
+BGM|Story|Lyric07	平静,悲情，八音盒
+BGM|Story|lyric11	温情,告白
+BGM|Story|lyric12	温情,告白
+BGM|Story|lyric13	表白，好感度
+BGM|Story|Lyric14	国风，温情
+BGM|Story|Relaxed01	国风，温情，二胡
+BGM|Story|Lyric20	告白/温情
+	
+BGM|Story|Lonely01	悲情,温情,转机
+BGM|Story|Lonely03	悲情,平静，dlc2主界面音乐
+BGM|Story|Lonely04	神秘,平静,调查
+BGM|Story|Lonely05	诡异，调查
+BGM|Story|Lonely06	调查,雪原,平静
+BGM|Story|Lonely07	悲情,自白
+BGM|Story|Quirky03	鬼故事/调查
+	
+BGM|Story|DLC16_Photo	剧情照相馆
+BGM|Story|DLC30_XJG	暖调闲聚
+BGM|Story|DLC32_Dorm	恋风漪岸
+BGM|Story|DLC30_MNJY	蓝图岛经营BGM
+BGM|Story|DLC33_UI	爵士/新少女入队
+BGM|Story|DLC30_BBCY_UI	可爱/豹豹菜园
+	
+BGM|Story|Tense13	探查/逻辑思考
+BGM|Story|Tense14	探查/真相浮现

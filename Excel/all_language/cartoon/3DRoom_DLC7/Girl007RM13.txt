@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	小琴诺……你头发的颜色？	小琴諾……你頭髮的顏色？	チェルノ……その髪の色は？	체르노… 머리 색깔이 왜 그래?	Cherno... What's going on with your hair color?						0	
+page1.2	嗯……我和莫尔索商量了一下，决定在基地里还是保持原来的样子……	嗯……我和莫爾索商量了一下，決定在基地裡還是保持原來的樣子……	その……ムルソーと相談して、社員寮では元の姿のままって決めました……	음… 모르소랑 상의를 좀 했는데, 숙소에서도 동일한 모습을 유지하기로 결정했어요…	Well... Meursault and I talked about it, and we decided to keep the old color when we're in the Base...						0	
+page1.3	理由呢？	理由呢？	どうして？	갑자기 왜?	What's the reasoning behind that?						0	
+page1.4	因为白色的头发……还是有点难为情，如果可以的话，我们还是不希望引起大家的注意……	因為白色的頭髮……還是有點難為情，如果可以的話，我們還是不希望引起大家的注意……	髪が白いのは……やっぱり恥ずかしいというか。なるべく、他人に注目されないように……	음, 흰머리가… 그래도 좀 쑥스럽긴 해도 사람들의 관심을 끌지 않을 수 있을 것 같아서요…	Because... I'm still a little embarrassed by my white hair. Besides, we don't really want to attract a lot of attention...						0	
+page1.5	当然……分析员除外。	當然……分析員除外。	もちろん……分析員さんは「他人」じゃありません。	물론… 분석가님은 제외긴 하지만…	Except from you... of course.						0	
+page1.6	啊……虽然很想吐槽在这里白发可不是什么稀有属性，但还是按你们喜欢的来就好。	啊……雖然很想吐槽在這裡白髮可不是什麼稀有屬性，但還是照你們喜歡的來就好。	えっと、ここじゃ白い髪の人なんて珍しくないって言いたいところだけど……まあ好きにしたらいい。	아… 여기서 흰머리가 흔한 건 아니지만 아무튼 너희가 하고 싶은 대로 해.	Ah... I wanted to remind you that white hair isn't really anything special around here, but it's up to you guys.						0	
+page1.7	说起来莫尔索最近的状况如何？	說起來莫爾索最近的狀況如何？	そういえば、最近ムルソーの調子はどうだ？	요즘 모르소는 좀 어때?	By the way, how has Meursault been doing?						0	
+page1.8	她平时的话大部分时间都在睡觉……不过只要一说起和分析员有关的话题就会主动跑出来。	她平常的話大部分時間都在睡覺……不過只要一說起和分析員有關的話題就會主動跑出來。	彼女は、ほとんどの時間は寝ているんですが……分析員さんの話になると積極的に出てくるんです。	모르소는 평소에 거의 잠밖에 안 자요… 하지만 분석가님에 관한 얘기가 나오면 알아서 튀어나올걸요.	She usually spends most of her time sleeping... but whenever you come up in conversation, she runs right out.						0	
+aside01	（手机的震动声）	（手機的震動聲）	（端末のバイブレーション音）	(핸드폰 진동음)	*phone vibrating*						0	
+page1.9	您看，她已经感觉到您就在边上了……	您看，她已經感覺到您就在旁邊了……	ほら、もう分析員さんがすぐそこにいるって感じたみたいです……	이미 분석가님 옆에 있는 것 같네요…	See? She already sensed that you're nearby...						0	
+page1.10	那……那个……分析员如果暂时不忙的话……可以再借用些您的时间吗？	那……那個……分析員如果暫時不忙的話……可以再借用些您的時間嗎？	あ、あの……もし良ければ……もう少し時間を頂いてもよろしいですか？	저… 그… 잠깐 시간이 된다면… 시간을 좀 더 내주실 수 있을까요?	Um... Adjutant... if you're not busy right now... could I have some of your time?						0	
+page1.11	当然可以，不如下午我带你们一起去逛街吧。	當然可以，不如下午我帶你們一起去逛街吧。	もちろん。じゃ、午後は三人で出かけよう。	물론이지. 오후에 같이 쇼핑이나 하러 갈까?	Of course. Why don't I take you two shopping this afternoon?						0	
+page1.12	听说附近新开了家巧克力店，莫尔索一定会喜欢那儿的。	聽說附近新開了家巧克力店，莫爾索一定會喜歡那裡的。	近くに新しいチョコレートショップができたらしい。ムルソーも気に入ってくれると思うよ。	이 근처에 초콜릿 가게가 새로 생겼다고 들었는데 모르소도 분명 그곳을 좋아할 거야.	I heard a new chocolate shop opened up nearby. I'm sure Meursault will like it.						0	
+page1.13	嗯！	嗯！	はい！	좋아요!	Yeah!						0	

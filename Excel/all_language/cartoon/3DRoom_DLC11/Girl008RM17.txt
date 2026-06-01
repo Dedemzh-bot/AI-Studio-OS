@@ -1,0 +1,27 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.2	达令，你怎么换上这件衣服了。	達令，你怎麼換上這件衣服了。	ダーリン？なんでそんな服着てるのよ。	달링, 왜 이 옷으로 갈아입었어?	Darling, what's with the outfit?						0	
+page1.3	我想邀请你去参加舞会。	我想邀請你去參加舞會。	君を舞踏会に誘おうと思ってね。	너를 무도회에 초대하려고.	Because I'm here to invite Miss Fenny to a dance party.						0	
+page1.4	舞会？公司举办的？	舞會？公司舉辦的？	舞踏会？会社主催のものかしら？	무도회? 회사에서 하는 건가?	A dance party? Is it a company event?						0	
+page1.5	不是。只有我们两个人的舞会，在芬妮的房间。	不是。只有我們兩個人的舞會，在芬妮的房間。	いや、私達ふたりだけで、ファニーの部屋でやる舞踏会だ。	아니, 우리 둘만의 무도회야, 페니 방에서.	No, it's a bit more exclusive than that — it'll be just the two of us, in your room.						0	
+page1.7	……达令真的只是想要和我跳舞吗？	……達令真的只是想要跟我跳舞嗎？	……本当に、あたしとただ踊りたいの？	… 달링은 진짜로 나랑 춤만 추려는 거야?	...Are we really just going to dance, darling?						0	
+page1.8	如果芬妮还想做一些其他的事情，我也可以“奉陪到底”。	如果芬妮還想做一些其他的事情，我也可以「奉陪到底」。	ファニーが他にもやりたいことがあれば、「付き合って」あげなくもないよ。	페니가 다른 걸 하고 싶다면, 나도 '끝까지 함께해' 줄 수 있지.	If there's anything else you'd like to do, I'm all yours.						0	
+page1.9	我……我可没这么说。	我……我可沒這麼說。	そ……そんなこと言ってないわよ。	나… 그런 말 한 적 없거든.	I... I didn't say that.						0	
+page1.10	是吗？	是嗎？	そうか？	그래?	Didn't you?						0	
+page1.11	我看着少女脸颊浸染的红晕，看着她不实诚的支支吾吾的模样，忽然很想“欺负”下她，于是取出了通讯终端。	我看著少女臉頰浸染的紅暈，看著她不實誠的支支吾吾的模樣，忽然很想「欺負」下她，於是取出了通訊終端。	少女の赤く染まった頬と、素直になれないでいるその態度を見ていると、ふと彼女をからかってみたくなった。私は端末を取り出した。	나는 소녀의 붉어진 얼굴과 어설픈 모습을 보며, 갑자기 '놀리고' 싶어져서 통신 단말기를 꺼냈다.	Watching the blush deepen across her face and seeing her bashfully squirm under my gaze, I couldn't resist teasing her a bit more. I casually checked my comms terminal.						0	
+page1.12	芬妮，稍等一下，好像有人找我。	芬妮，稍等一下，好像有人找我。	ああ、ちょっと待ってくれ、ファニー。通信だ。	페니, 잠깐 기다려. 누가 나를 찾는 것 같아.	Hang on a sec, Fenny. I'm getting a call.						0	
+page1.14	刚才的通讯是……	剛才的通訊是……	なんの通信なのよ。	방금 통화는…	Who was that...?						0	
+page1.15	看来今天是做不成了。	看來今天是做不成了。	ああ。まあ、今日は多分無理だな。	오늘은 안 될 것 같아.	Looks like I have to call it off tonight.						0	
+page1.16	哼……是吗，本来我还想给达令你多一些甜头的，既然你有任务就算了。	哼…是嗎，本來我還想給達令多一些甜頭的，既然你有任務就算了。	ふん。そうなのね。あんたにサービスしてやろうかと思ったけど、任務が入ったのなら仕方ないわね。	흥… 그래? 원래 달링에게 보상을 더 주려고 했는데, 미션이 있다니 어쩔 수 없네.	Hmph... Oh really? That's too bad. I had a special treat prepared for you. But, duty calls, I suppose.						0	
+page1.17	芬妮想给我什么甜头？	芬妮想給我什麼甜頭？	サービスって、どんなの？	페니가 나한테 무슨 보상을 주려고 했던 거야?	What kind of special treat?						0	
+page1.18	不说也没关系了吧，反正你今晚没时间。	不說也沒關係了吧，反正你今晚沒時間。	そんなの言う必要ないでしょ？どうせ今日のあんたには時間がないんだから。	말하지 않아도 상관없잖아, 어차피 분석가는 오늘 밤에 시간이 없으니까.	Well, it's not important now, is it? You aren't available tonight.						0	
+page1.19	为什么没时间，我说的做不成是说通讯找我的事情做不成了，毕竟今晚的时间已经被芬妮预定了不是吗？	為什麼沒時間，我說的做不成是說通訊找我的事情做不成了，畢竟今晚的時間已經被芬妮預定了不是嗎？	時間がない？「無理だ」って言ったのは、通信でした話のことさ。なんたって今夜はファニーの予約が入ってるからね。	왜 시간이 없어? 내가 말한 '안 된다'는 건 사실 통신에서 나를 찾는 일이었어. 오늘 밤의 시간은 이미 페니한테 예약되어 있지 않나?	Who said I'm not available? I meant I have to call the mission off, because tonight I'm all yours.						0	
+page1.20	所以芬妮打算给我什么甜头呢。	所以芬妮打算給我什麼甜頭。	だから、どんなサービスをしてくれるのか、教えてくれ。	그래서 페니는 나한테 어떤 보상을 줄 계획이었어?	So, about that special treat you prepared for me, what is it?						0	
+page1.21	……？？	……？？	……？？	…??	...???						0	
+page1.23	不对！你刚才真的有接到通讯吗？	不對！你剛才真的有接到通訊嗎？	待って！あんた、本当に通信を受け取ったの！？	아니! 분석가 아까 정말로 통신 받았어?	Wait a minute! Did you actually get a call just now?						0	
+page1.24	这个不重要，我还是更想知道芬妮给我准备了什么甜头。	這個不重要，我還是更想知道芬妮幫我準備了什麼甜頭。	それはもうどうでもいいだろう。ファニーのサービスより大事なことはないさ。	그건 중요하지 않아. 나는 페니가 준비한 보상이 더 궁금해.	That's not important. I'm more curious about the special treat.						0	
+page1.26	好吧，那我换个问题，我亲爱的芬妮愿意接受我的邀请参加今晚的舞会吗？	好吧，那我換個問題，我親愛的芬妮願意接受我的邀約參加今晚的舞會嗎？	わかったよ、言い方を変えよう。ミス・ファニー、私と一緒に舞踏会に出席してくれないか？	그래, 그럼 다른 질문으로 바꿀게. 내 사랑스러운 페니는 오늘 밤 내 초대를 받아줄 거야?	Alright, I'll drop it. But I have another question — my dear Fenny, would you do me the honor of joining me for a private dance tonight?						0	
+page1.27	我向她伸出手。	我向她伸出手。	私は、彼女に手を差し伸べた。	나는 그녀에게 손을 내밀었다.	I reached out to her.						0	
+page1.28	这次，她毫不犹豫，将我的手抓得很紧，不愿意松开。那天与我缔结誓约，她也将我的手抓得这么紧。	這次，她毫不猶豫，將我的手抓得很緊，不願意放開。那天與我締結誓約，她也將我的手抓得這麼緊。	今度こそ、彼女は躊躇なく私の手を力強く握り、離そうとしなかった。私と彼女が誓約を立てたあの日、彼女が私の手を強く握ったように。	이번에는 그녀가 망설임 없이 놓기 싫다는 듯이 내 손을 꼭 잡았다. 그날 나와 언약을 할 때도 그녀는 내 손을 이렇게 꽉 잡았다.	Without hesitation, she gripped my hand tightly, unwilling to let go — just as she had on the day we made our lifelong covenant.						0	
+page1.29	…甜头是什么，到了晚上，达令你就知道了。	甜頭是什麼，到了晚上，達令你就知道了。	ふん。サービスがなんなのかは、夜になったら自ずとわかるわ。	… 보상이 뭔지는, 오늘 밤이 되면 달링이 알게 될 거야.	You'll find out what the special treat is tonight, darling.						0	
+page1.32	我会期待的。	我會期待的。	期待しているよ。	기대할게.	I'll be looking forward to it.						0	

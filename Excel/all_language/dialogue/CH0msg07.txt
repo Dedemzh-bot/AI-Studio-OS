@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	你已经靠近逃生舱坐标，按理来说……	 你已經靠近逃生艙座標，照理來說…… 	脱出ポッドの位置に近づいてるはずですが……	탈출선 좌표에 거의 다다랐어요.	You're close to the pod... should be anyway...						0	
+2	已经发现目标逃生舱。	 已經發現目標逃生艙。 	目標を確認。	나도 확인했어.	I have a visual of the target. Pod is up ahead.						0	
+3	好，记得先检查……污染读数忽然有变化！等等！这是……	好，記得先檢查……汙染讀數忽然有變化！等等！這是……	よし、じゃあまずは確認……えっ、汚染数値が変わってる！ちょっと待ってください！これは……	좋아요, 그럼 먼저 검사부터… 잠깐! 오염 수치가 급격히 변하고 있어요! 이건…	Alright, just remember to check... Sudden change in contamination readings! Hold on, this...						0	

@@ -1,0 +1,8 @@
+Id	注释	名字	描述	类型(1:道具；2增益；3减益)	图标
+Id	Nul	Name	Desc	Type	Icon
+1	小吃摊券	season_item.chess1	season_item.chess1.desc	1	/Game/UI/Icon/DLC/DLC1/Frames/icon_props026_05_130_png.icon_props026_05_130_png
+2	门钥匙	season_item.chess2	season_item.chess2.desc	1	/Game/UI/Icon/DLC/DLC1/Frames/icon_props026_08_130_png.icon_props026_08_130_png
+4	龟背纹石头	season_item.chess4	season_item.chess4.desc	1	/Game/UI/Icon/DLC/DLC1/Frames/icon_props026_03_130_png.icon_props026_03_130_png
+12	万福灯会灯笼纪念章	season_item.chess12	season_item.chess12.desc	1	/Game/UI/Icon/DLC/DLC1/Frames/icon_props026_04_130_png.icon_props026_04_130_png
+13	古钱币	season_item.chess13	season_item.chess13.desc	1	/Game/UI/Icon/DLC/DLC1/Frames/icon_props026_06_130_png.icon_props026_06_130_png
+14	录音装备	season_item.chess14	season_item.chess14.desc	1	/Game/UI/Icon/DLC/DLC1/Frames/icon_props026_07_130_png.icon_props026_07_130_png

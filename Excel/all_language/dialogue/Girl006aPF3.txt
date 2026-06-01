@@ -1,0 +1,75 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	结束了吗……	結束了嗎……	終わったか……	다 끝난 건가…	Is it finished...?						0	
+2	喂，分析员？我这边的工作已经……	喂，分析員？我這邊的工作已經……	もしもし、分析員？こちらはもう……	여보세요, 분석가? 이쪽은 이미…	Hello, Adjutant? I'm finished over he—						0	
+3	怎么回事？	怎麼回事？	どういうことだ？	어떻게 된 거지?	What the...?						0	
+4	刚才就提醒过你，情绪这么激动……	剛才就提醒過你，情緒這麼激動……	警告したはずだ。そんなに興奮したら……	아까도 말했을 텐데, 그렇게 흥분하면…	I already reminded you. When your emotions are so volatile...						0	
+5	不是更容易<span color="#91c7ff">「失控」</>吗？	不是更容易<span color="#91c7ff">「失控」</>嗎？	<span color="#91c7ff">「暴走」</>する可能性が高くなるではないか。	더 쉽게 <span color="#91c7ff">[폭주]</>하게 될 거라고.	Isn't it easier to simply <span color="#91c7ff">lose control</>?						0	
+6	通讯突然中断……我的心瞬间沉入谷底。	通訊突然中斷……我的心瞬間沉入谷底。	通信が急に途絶え……私の心が一瞬でどん底に落ちた。	통신이 갑자기 끊어졌고… 난 절망감을 느꼈다.	The communication was interrupted suddenly... and my heart immediately sank into my stomach.						0	
+b-1											0	
+7	喂？晴？？	喂？晴？？	もしもし？晴？？	여보세요? 하루??	Hello? Haru???						0	
+8	分析员，可能出事了。	分析員，可能出事了。	分析員、何かあったのかもしれない。	분석가, 무슨 일이 생긴 것 같아.	Adjutant, something might be wrong.						0	
+9	队长她……	隊長她……	隊長は……	대장이…	Captain Haru...						0	
+10	我和星期三迅速赶到了晴坚守的位置。	我和星期三迅速趕到了晴堅守的位置。	私とウェンズデーは晴が守る場所に急行した。	나와 웬스데이는 빠르게 하루가 지키고 있던 위치로 갔다.	Wednesday and I rushed over to Haru's position.						0	
+11	晴看起来……和平时有些不一样。	晴看起來……和平時不太一樣。	晴は……なんだかいつもと違うようだ。	하루는 뭔가… 평소와는 조금 다른 모습이었다.	Haru looked... slightly different than usual.						0	
+12	分析员，退后！	分析員，退後！	分析員、下がれ！	분석가, 물러서!	Adjutant, get back!						0	
+13	晴队长正处于神格侵蚀的状态。	晴隊長正處於神格侵蝕的狀態。	晴隊長は神格侵蝕状態になっている！	하루는 지금 만트라 침식 상태야.	Captain Haru is Flooded.						0	
+14	准备好注射弹，剩下……交给我来处理。	準備好注射彈，剩下……交給我來處理。	注射弾の用意を。後は……私がやる。	주사탄을 준비하고, 그 후에는… 나한테 맡겨.	Get the injection bullet ready. Leave the rest... to me.						0	
+15	奥丁。	奧丁。	オーディン。	오딘.	Odin.						0	
+16	我能感觉到，这个世界迫切期待着我们的回归。	我能感覺到，這個世界迫切期待著我們的回歸。	私は感じる。この世界が我々の復帰を待っていることを。	난 느낄 수 있어. 세상이 우리의 귀환을 애절하게 기다리는걸.	I can sense that this world is eagerly awaiting our return.						0	
+17	分析员，如果她无法恢复，做好最坏的准备。	分析員，如果她無法恢復，做好最壞的打算。	分析員、もし彼女が戻れなかったら、最終手段の用意を。	분석가, 만약 회복이 불가능하면 최악의 상황에 대응해야 해.	Adjutant, if she can't return to normal... prepare for the worst.						0	
+18	爸爸，您又要出门吗？	爸爸，您又要出門嗎？	父さん、また出かけるの？	아버지, 또 나가시는 건가요?	Father, are you leaving again?						0	
+19	对，巴伦支那边又有任务。	對，巴倫支那邊又有任務。	ああ、バレンツでまた任務があるから。	맞아. 바렌츠 쪽에서 미션이 생겼어.	Yes. I have another mission for Barentsy.						0	
+20	冷冻柜里有我炒好的菜，热热就行。	冷凍櫃裡有我炒好的菜，加熱就可以吃了。	料理を作って冷凍しておいたから、温めて食べるんだよ。	냉동고에 만들어 둔 반찬이 있으니 배고프면 데워서 먹으렴.	There's some food I cooked in the freezer. You just need to heat it up.						0	
+21	别老吃料理机做的东西……	別老是吃料理機做的東西……	料理機で作ったものばかり食べないで……	푸드 제조기가 만드는 것만 먹지 말고…	Don't keep eating that stuff from the nourishment processor...						0	
+22	晴……对不起，爸爸又因为工作没办法陪你了。	晴……對不起，爸爸又因為工作沒辦法陪你了。	ごめん、晴……また仕事があって一緒にいてあげられないんだ。	하루… 미안하다, 또 일 때문에 같이 있어 주지 못하는구나.	Haru... I'm sorry. I have to leave again because of work.						0	
+23	没关系。	沒關係。	大丈夫。	괜찮아요.	It's okay.						0	
+24	过几天我也要出发去试训。	過幾天我也要出發去試訓。	あと数日で私もテスト訓練に行くから。	며칠 후면 저도 훈련 테스트를 받으러 가야 해요.	I'm going to the training trials in a few days anyway.						0	
+25	对了，我一直没有问过，你为什么想成为军人？	對了，我一直沒有問過，你為什麼想成為軍人？	そういえば聞いてなかったね、晴はなぜ軍人になりたいんだ？	그래, 그러고 보니 하루한테 왜 군인이 되고 싶은지 물어본 적이 없구나.	Haru, I've been meaning to ask — why do you want to be a soldier?						0	
+26	因为……那是一件很荣誉的事情？	因為……那是一件很榮譽的事情？	それは……とても誇れることだから？	굳이 말하자면… 명예로운 일이라서?	Because... it's very honorable?						0	
+27	（因为，这样就能跟随上您的脚步了）	（因為，這樣就能跟隨上您的腳步了）	（だって、お父さんについていけるから）	(그렇게 하면 아버지의 뒤를 따를 수 있으니까요)	(Because I want to follow in your footsteps.)						0	
+28	荣誉……它对你来说是什么呢？	榮譽……它對你來說是什麼呢？	誇りか……晴にとって、それは何なんだ？	명예라… 그건 네게 어떤 의미니?	Honor... What is honor to you?						0	
+29	是……比生命更宝贵的东西？	是……比生命更寶貴的東西？	命よりも……大切なもの？	아마… 목숨보다 더 중요한 것이겠죠?	It's... something even more precious than life?						0	
+30	（我只想要得到您的认可）	（我只想要得到您的認可）	（お父さんさえ認めてくれれば）	(전 그저 아버지의 인정이 받고 싶어요)	(I just want you to be proud of me.)						0	
+31	（但这永远都不可能了）	（但這永遠都不可能了）	（それはもう叶わなくなった）	(하지만 이제 영원히 불가능하게 됐죠)	(But that will never happen.)						0	
+32	不对，晴，你不能只听我讲给你的观念。	不對，晴，你不能只聽我告訴你的觀念。	それは違う。晴、私の言うことを鵜呑みにしてはならないぞ。	그런데 하루야, 내가 가르쳐 준 것들만 들어선 안 돼.	No, Haru. You can't just repeat what I tell you.						0	
+33	你要找到属于自己的东西。	你要找到屬於自己的東西。	自分だけのものを見つけなければ。	스스로한테 속한 것을 찾아야 해.	You have to find something that belongs to you. Your own reason for walking your own path.						0	
+34	试训之前要好好想清楚，什么才是你真正想要的……	試訓之前要好好想清楚，什麼才是你真正想要的……	自分は一体何が欲しいのか、テスト訓練に行く前にちゃんと考えねば……	훈련 테스트를 하기 전에 한번 잘 생각해 봐. 네가 진정으로 원하는 게 무엇인지…	Before the trials, think carefully about what you really want...						0	
+35	什么才是你自己的荣誉。	什麼才是你自己的榮譽。	自分の誇りとは、一体何なのかを。	무엇이 너만의 명예인지.	About what honor means to you.						0	
+36	而不是追逐一个早已消散的幻影。	而不是追逐一個早已消散的幻影。	とっくに消え去った幻影を追い続け、	이미 사라져 버린 환영을 쫓는 게 아닌,	Rather than chasing a long-gone illusion...						0	
+37	被没有形状的疼痛折磨。	被沒有形狀的疼痛折磨。	形のない痛みに苛まれないようにね。	그리고 형태도 없는 고통에 시달리는 게 아닌,	Being tormented by an intangible pain.						0	
+38	我自己的……	我自己的……	自分の……	본인만의…	What it means to me...						0	
+39	自己的……	自己的……	自分だけの……	너만의…	To me...						0	
+40	队长，我需要你回到海姆达尔部队。	隊長，我需要你回到海姆達爾部隊。	隊長、ヘイムダル部隊に戻って来い。	대장, 헤임달 부대로 돌아와.	Captain, I need you to come back to the Heimdall Force.						0	
+41	如果你再次失控，我会制止你的。	如果你再次失控，我會制止你的。	あなたがまた暴走するなら、私が止めるから。	또다시 제어를 잃으면 내가 막을 거야.	If you lose control again, I'll stop you.						0	
+42	如果我失控了，也请你制止我。	如果我失控了，也請你制止我。	もし私が暴走したら、止めてくれ。	대장도 내가 폭주하면 막아줘.	And if I lose control, please stop me too.						0	
+43	真不愧是前辈喵。	真不愧是前輩喵。	さすが先輩ニャン。	역시 선배다냥.	As expected of our captain, nya.						0	
+44	一拳就打碎了泰坦的下巴。	一拳就打碎了泰坦的下巴。	一発でタイタンの顎を割るなんて。	주먹 한 방에 타이탄의 턱을 부숴버렸다.	She obliterated the Titan's jaw with a single punch.						0	
+45	郁金香啊……虽然很美，但……	鬱金香啊……雖然很美，但……	チューリップか……綺麗だ、けど……	튤립… 예뻐… 근데,	A tulip... It's very pretty, but...						0	
+46	为什么要送我这个？	為什麼要送我這個？	どうしてこれを？	왜 이런 걸 나한테 주는 거지?	Why are you giving me this?						0	
+47	因为它的花语里，有荣誉的含义。	因為它的花語裡，有榮譽的含義。	チューリップの花言葉には、誇りの意味が含まれるから。	튤립의 꽃말에는 명예라는 뜻이 있죠.	Tulips symbolize honor in the language of flowers.						0	
+48	分析员，趁现在！	分析員，趁現在！	分析員、今だ！	분석가, 지금이야!	Adjutant, now!						0	
+49	我举起注射枪，瞄准晴，并扣下扳机。	我舉起注射槍瞄準晴，並扣下扳機。	私は注射銃を持ち上げて晴に狙いを定め、引き金を引いた。	난 주사탄으로 하루를 향해 조준하고 방아쇠를 당겼다.	I raised the injection gun, aimed it straight at Haru, then pulled the trigger.						0	
+50	糟了！被她躲开了！	糟了！被她躲開了！	しまった！避けられた！	젠장! 주사탄을 피했어!	No! She dodged it!						0	
+51	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	
+52	晴眼眸里的深红飞快褪去，可是，我的注射弹明明没有命中……	晴眼眸裡的紅光迅速褪去，可我的注射彈明明沒有命中她……	注射弾が命中していないのに、深紅に染まっていた晴の瞳が、すぐ元の色に戻った……	하루의 눈빛에서 붉은빛이 빠르게 사라졌다. 하지만 내 주사탄은 분명 적중하지 못한 걸로 아는데…	Although my injection bullet had missed its target, the redness in Haru's eyes was quickly dissipating...						0	
+53	分析员。	分析員。	分析員。	분석가.	Adjutant.						0	
+54	队长？	隊長？	隊長？	대장?	Captain?						0	
+55	里芙，谢谢。	里芙，謝謝。	ありがとう、リフ。	리브, 고마워.	Lyfe, thank you.						0	
+56	我现在没事了。	我現在沒事了。	もう大丈夫だ。	난 이제 괜찮아.	I'm alright now.						0	
+57	分析员！你刚才汇报的意思是……？！	分析員！你剛才匯報的意思是……？！	分析員！さっきの報告は一体……！？	분석가님! 현재 상황은 어떻죠…?!	Adjutant! What was that report just now...!?						0	
+58	我出现了一些状况，但已经解决了。	發生了一些狀況，但現在已經解決了。	ちょっと問題があったんだが、もう解決した。	몇 가지 일이 좀 있었어. 지금은 전부 해결했고.	We had a situation, but it's been taken care of.						0	
+59	可是……分析员？	可是……分析員？	しかし……分析員？	그렇지만…	But... Adjutant?						0	
+b-2											0	
+60	确实已经解决了。	確實已經解決了。	本当に解決したんだ。	확실히 해결했으니까 걱정하지 않아도 돼.	It's been taken care of.						0	
+61	卡罗琳疑惑地看了看晴，又看了看我，最终什么都没说。	卡羅琳疑惑地看了看晴，又看了看我，最終什麼都沒說。	カロリンは疑いの目で私と晴をしばらく見て、結局何も言わなかった。	캐롤린은 의문스럽다는 듯이 하루와 나를 번갈아 바라보더니 결국 입을 닫았다.	Still doubtful, Caroline looked at Haru, then at me, but ultimately said nothing.						0	
+62	既然都解决了，就赶快回来吧。	既然都解決了，就趕快回來吧。	解決したのなら早く戻ってきなさい。	다 해결되셨으면 어서 복귀하세요.	In that case, get back here quickly.						0	
+63	难道你们喜欢在那个地方吸雾霾？	難道你們喜歡在那個地方吸霧靄？	あそこのスモッグに興味があるんじゃないでしょうね？	그런 곳에서 계속 안개를 마시고 싶은 건 아니죠?	Or do you guys enjoy breathing in all that fog down there?						0	
+64	分析员，你的怀疑没错。	分析員，你的懷疑沒錯。	分析員、あなたの心配はもっともだった。	분석가, 네가 의심했던 게 맞았어.	Adjutant, you were right to doubt me.						0	
+65	我确实失控了。	我確實失控了。	自分は本当に暴走した。	역시나 난… 제어를 잃었어.	I lost control.						0	
+b-3											0	
+66	我没有不信任你。	我沒有不信任你。	君のことを信じないわけじゃない。	하루를 믿지 않았던 건 아니에요.	It's not that I don't trust you.						0	
+b-4											0	
+67	我只是希望……	我只是希望……	私はただ……	그저…	I was just hoping...						0	
+68	我明白。	我明白。	分かっている。	이해해.	I understand.						0	
+69	这次任务结束后，在完成全面的评估前，我不会再擅自接受任务。	這次任務結束後，在完成全面的評估前，我不會再擅自接受任務。	今回の任務が終了して全体的な評価を下すまで、自分は勝手に任務を引き受けないと約束する。	이번 미션이 종료되고, 종합적으로 평가를 끝마치기 전까진 허가 없이 미션을 이행하지 않을게.	After this mission ends, I won't accept any more until I've undergone a comprehensive evaluation.						0	

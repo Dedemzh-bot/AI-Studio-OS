@@ -1,0 +1,8 @@
+﻿ID(20000-30000)	期数	备注	是否可入队（1表示可入队，不填或0表示不可入队）	名称	描述	描述中的数值	图标	炸弹类型
+ID	Schedule		TeamOrNot	Name	Des	DesParam	Icon	DestroyType
+20000	1	炸弹		farmwar.farmwar_itemname_01	farmwar.farmwar_itemdes_01		110010882	
+20001	1	加代币道具		farmwar.farmwar_itemname_02	farmwar.farmwar_itemdes_02	{60,100}	110010892	
+20002	2	炸弹	1	farmwar.farmwar_itemname_01	farmwar.farmwar_itemdes_01		110010882	1
+20003	2	炸弹2	1	farmwar.farmwar_itemname_02	farmwar.farmwar_itemdes_02	{3}	110011732	2
+20004	2	炸弹3	1	farmwar.farmwar_itemname_03	farmwar.farmwar_itemdes_03	{10}	110011742	3
+20005	2	加代币道具		farmwar.farmwar_itemname_04	farmwar.farmwar_itemdes_04	{40,60,40,60,40,60}	110010892	

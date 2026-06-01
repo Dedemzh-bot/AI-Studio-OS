@@ -1,0 +1,98 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这种机械人偶可以在“雪”中正常使用？	這種機械人偶可以在“雪”中正常使用？	この機械人形は「キオーン」の中でも正常に稼働可能ですか？	이런 로봇 인형은 '눈'이 내릴 때도 사용 가능한가?	Do mechanical dolls function normally in the Snow?						0	
+2	武器技术是来源于希尔伯特－阿瑟公司，这很明显。	武器技術是來源於希爾伯特－阿瑟公司，這很明顯。	武器技術はヒルベルト・アーサー社のもの、それは明らかです。	무기의 기술은 힐베르트-아서 회사라… 그렇다면 확실할 것 같고.	The weapons technology clearly comes from Hilbert-Arthur.						0	
+3	听到了吗？视频里，人偶刚才说的那句话。	聽到了嗎？影片裡，人偶剛才說的那句話。	聞こえましたか？映像の中の人形が言った言葉。	들었어? 영상 속에서 인형이 방금 했던 말들.	Did you hear what the robot said in the video?						0	
+4	“带走分析员”。	“帶走分析員”。	「分析員を連れ帰る」	'분석가를 데려와.'	Take away the Adjutant.						0	
+5	看来目标是你。	看來目標是你。	目標はあなたみたいでした。	아무래도 네가 타깃인 거 같군.	Looks like it's after you.						0	
+b-1											0	
+6	难道是因为上次和加文净化官的冲突？	難道是因為上次和加文淨化官的衝突？	まさかこの前、ガビン浄化官と衝突した件か？	저번에 게빈 정화관하고 있었던 일 때문일까요?	Could it be because of the fight with Purificant Gavin last time?						0	
+7	不是。	不是。	違います。	아니.	No.						0	
+7_1	在否定了我的推测后，陶没有进一步解释，而是继续紧盯视频画面。	在否定了我的推測後，τ沒有進一步解釋，而是繼續緊盯影片畫面。	私の推測を否定した後、τも説明することなく、映像を見ているだけ。	내 추측을 부정하고는 τ는 아무 말 없이 계속해서 화면을 주시했다.	After rejecting my guess, τ declined to explain any further. She continued to gaze intently at the screen.						0	
+9	我和陶正在共同观看安卡希雅交给我的视频。	我和τ正在共同觀看安卡希雅交給我的影片。	私とτはアカシアに貰った映像を一緒に見ている。	계속해서 τ와 함께 아카시아가 건네준 영상을 살펴보는데…	τ and I were watching the video Acacia had given me.						0	
+10	这个视频从我们和海拉交战前就开始拍摄，记录了降临团的机械人偶是如何操作“基座”，驱使泰坦向我们发动攻击的。	這個影片從我們和海拉交戰前就開始拍攝，記錄了降臨團的機械人偶是如何操作“基座”，驅使泰坦向我們發動攻擊的。	この映像は私たちがヒーラと交戦する前から撮っていた。降臨団の機械人形がどうやって「ベース」を操縦して、タイタンを動かして私たちに攻撃したのかが記録されている。	영상은 헬라와의 교전 전부터 촬영되었고, 강림단의 로봇 인형이 '성지'를 이용해 타이탄으로 우리를 공격한 방법들이 기록되어 있었다.	The video began right before our engagement with Hela, and recorded how the Adventists' mechanical robots operate the Shrines to make the Titans attack us.						0	
+11	那个叫“基座”的装置，还能放大生物电流的磁场？	那個叫“基座”的裝置，還能放大生物電流的磁場？	あの「ベース」という装置が、生体電流の磁場を増幅させることもできる？	'성지'라고 불리는 장치가 살아있는 생물의 전류 자기장을 확장시킬 수 있는 건가?	Is that "Shrine" capable of amplifying the magnetic field of biocurrents?						0	
+12	看来我们对这个装置的研究还有疏漏之处，以为它只具备“合成泰坦物质”一个功能。	看來我們對這個裝置的研究還有疏漏之處，以為它只具備“合成泰坦物質”一個功能。	どうやらこの装置に対する研究はまだ不十分で、「タイタン物質を合成する」機能しか備えていないと勘違いしたんですね。	장치를 연구하면서 신경 쓰지 못한 부분이 있는 거 같아. 원래는 이 장치가 '타이탄 물질을 합성'하는 기능밖에 없는 줄 알았거든.	It seems as if our research into this device is lacking. We believed it was only useful for "synthesizing Titagen."						0	
+b-2											0	
+13	总之，它的确能吸引泰坦。	總之，它的確能吸引泰坦。	少なくとも、タイタンを引き寄せられることは確実だ。	어쨌거나 타이탄을 끌어들인다는 건 확실하네요.	Either way, it's definitely capable of attracting Titans.						0	
+14	你难道只观察现象，不关注本质？	你難道只觀察現象，不關注本質？	あなたは現象を観察しているだけで、本質に気づいていないのですか？	분석가는 현상만 확인하고, 본질은 신경 쓰지 않는 건가?	Do you tend to just look at things on the surface and ignore the fundamentals?						0	
+15	注意到了吗？playername，它所挑选与“基座”结合的，是最狂热的降临团会员。	注意到了嗎？ playername，它所挑選與“基座”結合的，是最狂熱的降臨團會員。	分かりませんか？playername。「ベース」は最も熱狂的な降臨団メンバーを選んで、自分と結びつけさせました。	이거 보고 느낀 점 없어? playername. 그가 '성지'와 결합하려는 건 미쳐 날뛰는 광신자라고.	Did you realize? playername, it chooses the most ardent of Adventists to combine with the Shrines.						0	
+16	“基座”也许并非关键，相反，必须要有“狂热会员”才能发挥作用……	“基座”也許並非關鍵，相反，必須要有“狂熱會員”才能發揮作用……	「ベース」は鍵ではないかもしれません。むしろ「熱狂的なメンバー」がいてこそ効果を発揮できます……	'성지'가 관건이 아닐 수도 있어. 오히려 '광신자'가 있어야 효력을 발휘할 수 있다는 말이지…	The Shrines may not be the key here. It could instead be the presence of a fervent Adventist that's key to activating it.						0	
+17	涉及技术领域，陶身上出现了某种热忱。	涉及到技術領域，τ身上出現了某種熱忱。	技術の分野になると、τにはある熱意が湧いてくる。	기술 영역에 있어 τ의 엄청난 열정이 느껴졌다.	As the topic moved to technology, τ became noticeably more passionate.						0	
+18	泰坦是被什么吸引过来的呢？是人类身上的某种特质？	泰坦是被什麼吸引過來的呢？是人類身上的某種特質？	タイタンは何に引き寄せられた？ある特質を備える人間ですか？	무엇이 타이탄을 끌어들인 거지? 인간에게 있는 어떤 특성 때문인 건가?	What is it that draws in the Titans? Is it a specific human characteristic?						0	
+b-3											0	
+19	似乎已经不言自明了……	似乎已經不言自明了……	それはもう一目瞭然なのでは……	대표님은 이미 답을 알고 계신 것 같네요.	I think it goes without saying...						0	
+20	告诉过你了，不要只看到现象。	告訴過你了，不要只看到現象。	教えたでしょう、現象だけを見ないように。	말했을 텐데. 현상만 확인하지 말라고.	I told you. Don't get distracted by superficial phenomena.						0	
+21	说回视频里的内容吧。	說回影片裡的內容吧。	映像の内容に戻りましょう。	영상 속 내용을 다시 한번 확인해 봐.	Let's go back to the video.						0	
+22	你刚才说，在第一次见到<orange>“布里希嘉曼”</>时，也见到了相同型号的机械人偶？	你剛才說，在第一次見到<orange>“布里希嘉曼”</>時，也見到了相同型號的機械人偶？	初めて<orange>「ブリーシンガメン」</>を発見した時も、同じ型の機械人形を見たと、さっき言いましたか？	처음 <orange>'브리히가만'</>을 봤을 때도 같은 유형의 로봇 인형을 봤다고 했었지?	You told me that the first time you saw a <orange>Brisingamen</>, you also saw a similar mechanical robot, right?						0	
+23	对比一下这份报告，这是鸣濑晴在天楼执行任务时所呈交的。	對比一下這份報告，這是鳴瀨晴在天樓執行任務時所呈交的。	この報告書と比較してください。これは鳴瀬晴がスカイタワーでの任務中に提出したものです。	여기 이 보고서랑 한번 대조해 봐. 이건 나루세 하루가 스카이 타워에서 미션을 수행할 때 제출했던 거야.	We can compare it with this report from Haru's mission in the Towers.						0	
+24	我打开陶发送过来的报告，快速地滑动虚拟屏幕，在鸣濑晴的报告尾端看见了这样一张数字影像：	我打開τ發送過來的報告，快速地滑動虛擬螢幕，在鳴瀨晴的報告尾端看見了這樣一張數位影像：	私はτから送られたファイルを開き、素早く画面をスライドする。そして報告書の最後に、こんな画像が貼ってある――	난 보고서를 열어 빠르게 가상 스크린을 훑어봤고, 나루세 하루가 썼던 보고서 마지막 부분에서 한 디지털 영상을 확인할 수 있었다.	I opened the report τ had sent, skimming through the virtual screen. At the end of Haru's report was a digital image:						0	
+25	数个一模一样的机械人偶，环绕着一个面色苍白的男人，那张面孔……让我隐约觉得熟悉。	數個一模一樣的機械人偶，環繞著一個面色蒼白的男人，那張面孔……讓我隱約覺得熟悉。	同じ機械人形が数体、青白い顔の男を囲んでいる。男の顔は……どこか見覚えがある。	영상에는 동일하게 생긴 로봇 인형들이 얼굴이 창백한 남성을 둘러싸고 있었고, 그의 모습은… 어쩐지 내게 굉장히 익숙하게 느껴졌다.	Several identical mechanical robots surrounded a man, whose face was ashen. His face felt... vaguely familiar.						0	
+26	他的衣着上，带着降临团的标志。	他的衣著上，帶著降臨團的標誌。	その衣装には、降臨団のマークがついている。	그의 옷에는 강림단 로고가 그려져 있었다.	On his clothes was the symbol of the Adventists.						0	
+27	认识他吗？	認識他嗎？	彼のことを知っていますか？	누군지 알겠어?	Do you know him?						0	
+b-4											0	
+28	这张脸是第一次见到。	這張臉是第一次看到。	この顔は初めてです。	처음 보는 얼굴이에요.	First time to see this face.						0	
+29	萨特，自称是降临团在天楼区的“主事”，从晴的报告看，是这种人偶的操纵者。	薩特，自稱是降臨團在天樓區的“主事”，從晴的報告看，是這種人偶的操縱者。	この人はサルトル、自称降臨団のスカイタワーエリアの「司教」。晴の報告書によれば、彼が人形の操縦者です。	사르트르, 스카이 타워를 담당하는 강림단의 '이사'지. 하루의 보고서를 보면 녀석이 인형 조종자라고 말하고 있어.	Sartre, the self-proclaimed "Exarch" of the Adventists in the Towers. He is the robots' operator, according to Haru's report.						0	
+31	去把这位“主事”给我带回来。	去把這位“主事”給我帶回來。	この「司教」を私の前に連れてきなさい。	가서 이 '이사'라는 녀석을 내 앞으로 데려와.	Bring me that "Exarch."						0	
+b-5											0	
+32	我知道了。	我知道了。	分かりました。	알겠습니다.	Got it.						0	
+33	就在我习惯性以为与陶不会透露更多信息，会谈就要这么结束时，陶却忽然叫住了我。	就在我習慣性以為與τ不會透露更多訊息，會談就要這麼結束時，τ卻忽然叫住了我。	これ以上の情報はくれないだろうと踏んで、会話を終えると、τが突然私を呼び止めた。	난 τ가 평소와 같이 다른 말을 더 할 것 같지 않아 습관적으로 얘기를 마치려 했으나, τ가 갑자기 날 불러 세웠다.	Accustomed to τ never telling me more than the bare minimum, I was already prepared for the meeting to end when she suddenly interrupted me.						0	
+34	playername，不想问吗？我从来不跟你解释的原因。	playername，不想問嗎？我從來不跟你解釋的原因。	playername、聞きたくないですか？いつも説明しない理由を。	playername, 궁금하지 않아? 항상 네게 설명해 주지 않는 이유.	playername, aren't you curious why I haven't explained the reason for this?						0	
+b-6											0	
+35	问和不问的区别并没有那么大。	問和不問的區別並沒有那麼大。	聞いたところで変わらないと思いますが。	설사 궁금해한다고 해도 별로 큰 차이는 없을 것 같은데요.	Asking wouldn't really make a difference.						0	
+36	你好像对我存在一些……意见。	你好像對我存在一些……意見。	どうやらあなたは私に……不満があるようですね。	나에 대해서 무슨… 편견이라도 갖고 있는 모양이군.	It seems like you have some... thoughts about me.						0	
+37	有些事情，并不是知道得越多越好。比如……当你的敌人就在公司内部时。	有些事情，並不是知道的越多越好。比如……當你的敵人就在公司內部時。	情報が多いほどいいというわけではありません。特に......社内に敵がいる場合。	아는 게 많다고 해서 꼭 좋은 것만은 아니야. 예를 들면… 우리의 적이 회사 내부에 있다는 거.	Sometimes, the less you know, the better. Such as... when your enemy is within the company.						0	
+38	从“布里希嘉曼”的丢失开始，我就已经隐隐有所猜测，现在只是证实了这种猜测。	從“布里希嘉曼”的遺失開始，我就已經隱隱有所猜測，現在只是證實了這種猜測。	「ブリーシンガメン」を紛失した時点で既に予想していたが、今のでそれが証明されただけだ。	사실 '브리히가만'을 잃어버린 순간부터 어느 정도 예상했던 일이다.	I've had a sneaking suspicion since we lost the Brisingamen, and it's only been confirmed.						0	
+39	在董事会中，有人借助层层掩护，在隔离区内进行对泰坦的实验。	在董事會中，有人借助層層掩護，在隔離區內進行對泰坦的實驗。	あらゆる手段で人目を避けて、封鎖エリア内でタイタンの実験を行うものが理事会にいる……と。	이사회에서 누군가 이런저런 보호를 받으면서 격리 구역에서 타이탄 실험을 해왔어.	Someone on the Board has been secretly conducting experiments on Titans in the Containment Zone.						0	
+40	并非是科学意义上正规、有益的研究，而是违反人性、自我毁灭般的实验。	並非是科學意義上正規、有益的研究，而是違反人性、自我毀滅般的實驗。	科学的に正規で有益な研究ではなく、人間性に反する、自滅的な研究です。	이건 과학적 의의로 비추어볼 때 유익한 연구들이 아니야. 오히려 인간성을 위배하고 자아를 파멸시키는 실험이랄까…	And these experiments aren't your typical, beneficial scientific research. These are self-destructive, inhumane experiments.						0	
+41	之前这些的任务目的，就是获取足以证明这些实验存在的证据，足以让军方和媒体介入的证据。	之前這些任務的目的，就是獲取足以證明這些實驗存在的證據，足以讓軍方和媒體介入的證據。	今までの一連のミッションの目的は、この実験の存在を証明し、軍やメディアを動かすのに十分な証拠を得ることでした。	예전에 이런 미션의 목적은 해당 실험이 존재했었다는 증거를 충분히 확보하는 거였어. 군부와 매체에서 개입할 수 있을 정도로 말이지.	Obtaining evidence to prove these experiments exist was the goal of these missions. We need enough evidence to justify military and media intervention.						0	
+42	基座和萨特的关联是一条关键线索。	基座和薩特的關聯是一條關鍵線索。	ベースとサルトルの関連性はその大事な手がかりです。	성지와 사르트르의 관계는 아주 중요한 단서라고 볼 수 있어.	The connection between Sartre and the Shrine is a crucial clue.						0	
+b-7											0	
+43	现在跟我说这些的目的是？	現在跟我說這些的目的是？	なぜ今になって私にそれを？	이제와서 그걸 저한테 말하는 목적이 뭐죠?	Why are you telling me this now?						0	
+44	希望你能消除疑惑，把注意力用在更重要的地方。	希望你能消除疑惑，把注意力用在更重要的地方。	あなたの疑念を払拭し、目の前の仕事に集中させるためです。	의심은 접어두고 중요한 곳에 신경을 쓰란 뜻이야.	I hope you can rid yourself of these doubts. There are more important things to focus on.						0	
+45	这次任务，非常重要。	這次任務，非常重要。	今回のミッションはとても重要ですから。	이번 미션은 정말 중요해.	This mission is incredibly important.						0	
+46	它对于你来说，也会是一个机会。	它對於你來說，也會是一個機會。	あなたにとっても得がたい機会です。	너에게 있어서도 좋은 기회가 될 거야.	It also presents you with an opportunity.						0	
+47	机会吗……在我听到刚才那些话的时候，就已经明白留给我的唯一选项是什么了。	機會嗎……在我聽到剛才那些話的時候，就已經明白留給我的唯一選項是什麼了。	機会か……さっきの言葉を聞いてから、私に残された唯一の選択肢はもはや明白だ。	기회라… 방금 들은 얘기들을 통해 난 내게 남겨진 유일한 선택지가 무엇인지 알 수 있었다.	An opportunity... As I listened to those words, I knew that I only had one option.						0	
+48	在我离开陶的办公室之前，瞥见她在全息屏幕上打开了一份简历。隐约能看见，简历标题上写着“资深射手－肴”几个字。	在我離開τ的辦公室之前，瞥見她在全息螢幕上打開了一份履歷。隱約能看見，履歷標題上寫著“資深射手－肴”幾個字。	τのオフィスを出る前に、彼女がホログラムモニターで履歴書を開くのが一瞬見えた。履歴書には「ベテランシューター肴」と書かれていた。	사무실을 떠나기 전, 그녀의 홀로그램 스크린에 이력서 한 장이 띄어져 있는 걸 발견했다. '베테랑 사수-야오'라는 글이 얼핏 보였다.	Before I departed from τ's office, I glanced over as she opened a resume on her holographic screen. I was able to make out the words "Senior Sniper - Yao."						0	
+49	跟老板聊完了？升官之后有什么感触？	跟老闆聊完了？升官之後有什麼感觸？	ボスとの話は終わりました？昇進した感想は？	대표님하고 얘기는 끝나셨어요? 승진한 소감이 어떻게 되시는지?	Finished your chat with the boss? How does it feel being promoted?						0	
+b-8											0	
+50	……	……	……	…	...						0	
+51	跟我们就没有演的必要了，大家都收到通知了。	跟我們就沒有演戲的必要了，大家都收到通知了。	とぼけちゃって、みんなに通知が来てますよ。	저희한테 연기할 필요 없거든요! 다들 이미 통지받았다구요!	No need to pretend with us. We all got the notification.						0	
+b-9											0	
+52	我怎么没收到？	我怎麼沒收到？	私には来てないが？	난 왜 못 받았지?	What notification? Why didn't I get one?						0	
+53	看你这样子是真不知道……对自己的事也太不上心了吧！	看你這樣子是真不知道……對自己的事也太不在意了吧！	その様子だと本当に知らないみたいですね……自分のことに無関心すぎやしませんか！	어머머… 정말로 모르나 보네… 본인한테 너무 관심 없으신 거 아니에요?	Looks like you really don't know... You need to show more interest in your own affairs!						0	
+54	“根据工作实际需要和人事管理制度，playername临时兼任安全部部长一职，负责……”	“根據工作實際需要和人事管理制度，playername臨時兼任安全部部長一職，負責……”	「仕事の必要性と人事管理制度により、playernameに安全部の部長を一時的に兼任させ、仕事内容は……」	업무상 필요한 사항과 인사 제도에 따라 playername을(를) 임시로 안전부 장관으로 임명하고…	In accordance with practical work and personnel management requirements, playername will temporarily serve as Adjutant of the Security Department, responsible for...						0	
+55	恭喜呀，以后是不是要叫你“长官”了？	恭喜呀，以後是不是要叫你“長官”了？	おめでとうございます。これからは「長官」とでも呼びましょうか？	축하해요! 이제 분석가님을 '장관'이라고 불러야 하는 건가요?	Congrats. Should I call you "Sir" from now on?						0	
+b-10											0	
+56	还是叫分析员吧……	還是叫分析員吧……	分析員で頼むよ……	그냥 분석가라고 불러…	Just call me Adjutant...						0	
+57	分析员儿，以后就抱你大腿了。	分析員，以後就抱你大腿了。	分析員、これからは頼りにしてるぞ。	분석가, 이제 네 덕 좀 볼 수 있는 거야?	I'm gonna have to start sucking up to you, Mr. Adjutant.						0	
+58	嘿嘿，芙提雅的研究经费也请多费心哦！	嘿嘿，芙提雅的研究經費也請多費心哦！	へへ、フリティアの研究費もよろしくね！	헤헤헤… 프티야 연구 경비 같은 것도 좀 신경 써줘!	Hehe, please put a lot of consideration into Professor Fritia's research fees!						0	
+59	看起来她们比我自己更先知道我的权限变动……但调动安全部的权限，应该是临时的， 公司不可能允许同一个人有这么大的权限。	看起來她們比我自己更早知道我的權限變動……但調動安全部的權限，應該是臨時的， 公司不可能允許同一個人有這麼大的權限。	私の権限変更について彼女たちは一足先に情報を入手したようだが……安全部を動かす権限は一時的なものであるはず。会社にとって、大きな権限を一人に集中させるなど許されないはずだ。	권한이 변동된 걸 나보다 그녀들이 더 먼저 안 듯하다… 하지만 권한은 임시적일 거다. 회사가 나 같은 사람한테 이렇게 큰 권한을 허락할 리 없으니까.	It seemed like they knew about my promotion before I did... But this additional responsibility in the Security Department would likely only be temporary. There's no way the company would grant so much authority to a single person.						0	
+60	喏，看来能赶回来的队员都到了。	喏，看來能趕回來的隊員都到了。	ほら、戻れる隊員はみんな揃いましたよ。	음… 일단 팀원들은 다 모였어요.	Hey, looks like everyone who could make it is here.						0	
+61	呦，playername。	呦，playername。	よ、playername。	안녕, playername.	Hey, playername.						0	
+62	见到您很高兴，分析员。	見到您很高興，分析員。	お会いできて嬉しいです、分析員さん。	만나서 반가워요, 분석가님.	It's lovely to see you, Adjutant.						0	
+63	这次是什么任务啊？那么着急把本小姐叫回来。	這次是什麼任務啊？那麼著急把本小姐叫回來。	急いでこのあたしを呼び戻すなんて、今度は何のミッションがあるわけ？	이번에는 어떤 미션이길래 페니를 이렇게 급하게 부른 거지?	So, what's the mission this time? It must be pretty important for you to call me over so urgently.						0	
+64	今天人真齐呢~	今天人真齊呢~	今日はみんな揃っていますね～	오늘은 다들 모였네~	It's really crowded today.						0	
+66	我依次向赶来的队员打招呼，最后视线还是不可避免地落在星期三身上。	我依次向趕來的隊員打招呼，最後視線還是不可避免地落在星期三身上。	駆けつけてきた隊員たちに順番に挨拶した後、私は思わずウェンズデーを見た。	난 이곳에 와준 팀원들에게 모두 인사를 건넸고, 마지막엔 나도 모르게 시선을 웬스데이에게 돌렸다.	I greeted the operatives in order and finally arrived at Wednesday.						0	
+67	你好，分析员。	你好，分析員。	こんにちは、分析員。	안녕, 분석가.	Hi, Adjutant.						0	
+b-11											0	
+68	星期三，好久不见。	星期三，好久不見。	ウェンズデー、久しぶり。	웬스데이, 오랜만이야…	It's been a while, Wednesday.						0	
+69	从星期三脸上看不出来情绪变化，依然保持着她所特有的凛然姿态，还有那副让人安心的沉静面庞。	從星期三臉上看不出來情緒變化，依然保持著她所特有的凜然姿態，還有那副讓人安心的沉靜面龐。	ウェンズデーの表情には何の変化も見られない。今も彼女特有の凛々しい姿と安心させてくれる顔をしている。	웬스데이는 여전히 어떤 감정인지 알 수 없고 차가워 보였지만, 그럼에도 사람을 안심시켜주는 차분한 표정을 짓고 있었다.	Her face displayed no change in emotion. Her cool, awe-inspiring aura was as strong as ever, along with her calm, settled expression.						0	
+70	说说你的计划吧，分析员，抓捕降临团主事萨特，要怎么做？	說說你的計劃吧，分析員，抓捕降臨團主事薩特，要怎麼做？	作戦はあるんですか、分析員。降臨団司教サルトルの捕縛はどうします？	자… 이제 분석가님 계획을 말해주세요. 강림단 사르트르 이사는 어떻게 포획할 계획이죠?	Tell me your plan, Adjutant. How are you going to catch the Adventist Exarch, Sartre?						0	
+71	别太离谱就行。	別太離譜就行。	あまり無茶はしないでくださいね。	터무니없는 말만 안 해주셨으면 해요.	Just don't go too crazy.						0	
+72	飞到天楼上空一千米，然后使用喷气背包空降到楼顶平台……	飛到天樓上空一千公尺，然後使用噴氣背包空降到樓頂平台……	スカイタワーの上空1000メートルまで飛んで、ジェットバックを使って屋上テラスに降下して……	요컨대… 스카이 타워 상공 1,000m까지 올라간 다음 낙하산을 이용해 스카이 플랫폼에 착지한다던가…	Like soaring a thousand meters into the sky, then using a jetpack to parachute onto the Rooftop Platforms...						0	
+73	的确不容易被发现，隐蔽性较高。但是分析员，你以前经常从这种高度往下跳吗？	的確不容易被發現，隱蔽性較高。但是分析員，你以前經常從這種高度往下跳嗎？	確かに隠密性が高くバレません。でも分析員、あなたはそんな高さから飛び降りた経験は？	음… 확실히 발견되지도 않고, 엄폐성은 있겠네요… 그나저나 분석가님은 그런 높이에서 뛰어본 적 있으세요?	It wouldn't be easy for anyone to spot you, so it would be covert. But Adjutant, have you done that often in the past?						0	
+b-12											0	
+74	倒也没有经常。	倒也沒有經常。	いや、そんな経験は……	그렇게 자주는 안 뛰어봤어.	Not that often.						0	
+75	“倒也没有经常”，听起来不是很可信。	“倒也沒有經常”，聽起來不是很可信。	なんだか嘘っぽいですね。	'그렇게 자주는 안 뛰어봤어'라니, 그렇게 믿음직스럽진 않네요.	Not "that" often? I don't buy it.						0	
+76	你不会现在想要假装害怕，然后找人陪你组合跳伞吧？	你不會現在想要假裝害怕，然後找人陪你雙人跳傘吧？	まさか怖がるふりをして、誰かと一緒に降りようとしているんじゃないでしょうね？	혹시 사전에 일부러 무서운 척을 해서, 누군가와 같이 낙하산을 타려고 그러는 건 아니죠?	Are you pretending to be scared right now so someone will skydive with you?						0	
+77	还是说你早就这么计划了？	還是說你早就這麼計劃了？	それとも元からそういう魂胆ですか？	아니면 정말 그런 계획을 갖고 있다거나…	Or was that your plan all along?						0	
+b-13											0	
+78	没错，我计划跟你组合跳伞。	沒錯，我打算跟你雙人跳傘。	そう、カロリンと一緒に降りるつもりだが。	맞아, 캐롤린이랑 같이 낙하산을 탈 계획이었는데?	Yep. I planned on you skydiving with me.						0	
+79	我是情报官！情报官的含义就是不出外勤！	我是情報官！情報官的含義就是不出外勤！	私は情報官です！外勤はしません！	전 정보관이거든요! 정보관이 현장에 있을 필요는 없죠!	I'm an intelligence officer! That means I don't belong out in the field!						0	
+80	好了，说回正题，我已经将你的计划同步给晴了。	好了，說回正題，我已經將你的計劃同步給晴了。	さて、本題に戻りましょう。晴にあなたの作戦を共有しました。	자, 그만하고 이제 본론으로 돌아오죠. 분석가님 계획은 이미 하루한테 전해주고 왔어요.	Alright, let's get back to the point. I already notified Haru of your plan.						0	
+81	落地后，找她会合，顺便跟我报个平安。	落地後，找她會合，順便跟我報平安。	着地後、彼女と合流したら、ついでに私に無事を知らせてください。	착지 후에 하루하고 합류하게 되면 제게 연락 한번 주세요.	Meet up with her after you land and let me know that you're safe.						0	
+82	另外，高价悬赏分析员首次空降实录，感觉能出不少表情包。	另外，高價懸賞分析員首次空降實錄，感覺能出不少表情包。	それと、分析員の初降下実録に高額の賞金をかけます。「いい写真」が撮れそうですね。	그럼 분석가님의 첫 공수 영상은 소중히 간직할게요. 추억의 사진 좀 나오겠는데요?	Also, it'll be our high and mighty Adjutant's first time being filmed parachuting. It's going to make excellent material for custom emojis of the Adjutant!						0	
+83	卡罗琳的声音后紧跟着合成女声：“正在执行舱门检查，舱门检查结束，正在执行门外空域安全检查，门外空域确认安全。请再次检查空降装备。”	卡羅琳的聲音後緊跟著合成女聲：“正在執行艙門檢查，艙門檢查結束，正在執行門外空域安全檢查，門外空域確認安全。請再次檢查空降裝備。”	カロリンの声に続いて、合成された女性の声が聞こえた。「ハッチ検査を実施しております。ハッチ検査が終わりました。ドア外空域安全検査を行います。ドア外空域の安全を確認しました。着陸装備の再検査をお願いします。」	캐롤린 말이 끝나자마자 한 여성의 목소리가 들려왔다. '게이트 검사 이상 무, 게이트 밖 지역 검사 이상 무, 공수 장비 재점검 요망.'	A robotic voice followed Caroline's: "Inspecting cabin door. Complete. Checking external airspace safety. Confirmed. Please check parachute equipment.						0	
+84	全体注意，盯紧指示灯！	全體注意，盯緊指示燈！	全員、指示灯をしっかり見てください！	다들 집중하고 지시등을 주의하시기 바랍니다!	Attention, everyone! Keep your eye on the light!						0	
+85	变成红色以后按照编号两两一组，依次跳出机舱。	變成紅色以後按照編號兩兩一組，依次跳出機艙。	赤になったら、番号通り2人1組で、順番に飛び降りてください。	적색으로 변하면 2인 1조로 구성해서 순서대로 뛰어내리세요!	After the light turns red, jump out of the cabin in pairs according to your number.						0	

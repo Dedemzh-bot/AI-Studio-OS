@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+4		0	猫汐尔			我们要劝劝架吗？	0	
+5		0	晴			你说的劝架是指把两边都打趴下吗？	0	
+6		0	猫汐尔			不愧是前辈喵。	0	

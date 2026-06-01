@@ -1,0 +1,9 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	嗯？这个垃圾桶后面有一个礼物。	嗯？這個垃圾桶後面有一個禮物。	ん？このゴミ箱の後ろにプレゼントがあるな。	응? 이 쓰레기통 뒤에 선물이 있네.	Hmm? There's something behind the trash can.						0	3.4版本星祈心愿宿舍剧情
+page1.2	哇呼？分析员这就找到了吗？	哇呼？分析員這就找到了嗎？	ワフー？分析員、もう見つけたん？	와후! 분석가, 벌써 찾았어?	Wahoo? You found it already, Adjutant?						0	3.4版本星祈心愿宿舍剧情
+page1.3	……米娅为什么要把礼物藏在垃圾桶后面？	……米婭為什麼要把禮物藏在垃圾桶後面？	……ミアはなんでプレゼントをゴミ箱の後ろに？	… 미아, 선물을 왜 쓰레기통 뒤에 숨긴 거야?	...Mia, why did you hide your gift behind the trash can?						0	3.4版本星祈心愿宿舍剧情
+page1.4	因为其他地方一眼就能被看到嘛，这里起码还是挺隐蔽的。	因為其他地方一眼就能被看到嘛，這裡起碼還是挺隱蔽的。	だって、他は見たらすぐ見つかっちゃうし。ここならちょっとは気づかれにくいじゃん？	다른 장소는 너무 잘 보이잖아, 여기는 그래도 꽤 은밀하고.	Because everywhere else was way too easy! At least this place is kind of hidden!						0	3.4版本星祈心愿宿舍剧情
+page1.5	你放心，我在藏礼物前先让清洁机器人把附近打扫过啦。	你放心，我在藏禮物前先讓清潔機器人把附近打掃過啦。	安心してよ。置く前にちゃんと掃除ロボにこの辺やらせたからさ。	걱정 마, 선물 숨기기 전에 청소 로봇한테 주변 청소시켜 뒀으니까.	Relax, I made the cleaning bot tidy up here first!						0	3.4版本星祈心愿宿舍剧情
+page1.6	倒也不是这个问题。	倒也不是這個問題。	いや、そういう問題じゃなくて。	그게 문제가 아니라.	That's not exactly why I'm asking.						0	3.4版本星祈心愿宿舍剧情
+page1.7	我想吐槽的是，这里也没比其他地方更隐蔽多少吧。	我想吐槽的是，這裡也沒比其他地方更隱蔽多少吧。	ここも別に特別見つかりにくいわけでもないだろう。	내가 하고 싶은 말은, 여기도 딱히 다른 곳보다 더 은밀한 것 같지 않다는 거야.	I just wanted to point out that it's not any more hidden than the other spots.						0	3.4版本星祈心愿宿舍剧情

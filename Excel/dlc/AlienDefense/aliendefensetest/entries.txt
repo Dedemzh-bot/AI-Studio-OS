@@ -1,0 +1,29 @@
+ID	注释	增益ID（1给技能加，2给怪物加）	某元素修正（1高温，2电击，3低温，4动能）	某技能修正{技能ID,BuffID}}	词条名称	词条描述	词条参数
+ID	Comment	BuffID	ElementFix	SkillFix	Name	Desc	DescValue
+1001	高温技能伤害增加20%		{1,3821001}		aliendefence.LevelPassive_01_name	aliendefence.LevelPassive_01_des	{20}
+1002	电击技能伤害增加20%		{2,3821003}		aliendefence.LevelPassive_02_name	aliendefence.LevelPassive_02_des	{20}
+1003	低温技能伤害增加20%		{3,3821002}		aliendefence.LevelPassive_03_name	aliendefence.LevelPassive_03_des	{20}
+1004	动能技能伤害增加20%		{4,3821004}		aliendefence.LevelPassive_04_name	aliendefence.LevelPassive_04_des	{20}
+1005	所有技能冷却时间减少20%	{1,3821005}			aliendefence.LevelPassive_06_name	aliendefence.LevelPassive_06_des	{20}
+1006	所有怪物血量减少20%	{2,3822001}			aliendefence.LevelPassive_07_name	aliendefence.LevelPassive_07_des	{20}
+1007	所有怪物攻击力减少10%	{2,3822002}			aliendefence.LevelPassive_08_name	aliendefence.LevelPassive_08_des	{10}
+1008	所有怪物移动速度减少20%	{2,3822003}			aliendefence.LevelPassive_09_name	aliendefence.LevelPassive_09_des	{20}
+1009	高温技能伤害减少20%		{1,3821006}		aliendefence.LevelPassive_10_name	aliendefence.LevelPassive_10_des	{20}
+1010	电击技能伤害减少20%		{2,3821008}		aliendefence.LevelPassive_11_name	aliendefence.LevelPassive_11_des	{20}
+1011	低温技能伤害减少20%		{3,3821007}		aliendefence.LevelPassive_12_name	aliendefence.LevelPassive_12_des	{20}
+1012	动能技能伤害减少20%		{4,3821009}		aliendefence.LevelPassive_13_name	aliendefence.LevelPassive_13_des	{20}
+1013	敌人抵挡一次受到的伤害	{2,3822011}			aliendefence.LevelPassive_15_name	aliendefence.LevelPassive_15_des	
+1014	所有技能冷却时间增加10%	{1,3821010}			aliendefence.LevelPassive_16_name	aliendefence.LevelPassive_16_des	{10}
+1015	所有怪物血量增加20%	{2,3822004}			aliendefence.LevelPassive_17_name	aliendefence.LevelPassive_17_des	{20}
+1016	所有怪物攻击力增加10%	{2,3822005}			aliendefence.LevelPassive_18_name	aliendefence.LevelPassive_18_des	{10}
+1017	所有怪物移动速度增加20%	{2,3822006}			aliendefence.LevelPassive_19_name	aliendefence.LevelPassive_19_des	{20}
+1018	所有技能冷却时间减少50%	{1,3821012}			aliendefence.LevelPassive_06_name	aliendefence.LevelPassive_06_des	{50}
+1019	特异技能伤害增加20%		{5,3821013}		aliendefence.LevelPassive_28_name	aliendefence.LevelPassive_28_des	{20}
+2001	空中轰炸伤害增加20%			{1,3821011}	aliendefence.LevelPassive_20_name	aliendefence.LevelPassive_20_des	{20}
+2002	燃烧弹伤害增加20%			{2,3821011}	aliendefence.LevelPassive_21_name	aliendefence.LevelPassive_21_des	{20}
+2003	落雷伤害增加20%			{3,3821011}	aliendefence.LevelPassive_22_name	aliendefence.LevelPassive_22_des	{20}
+2004	电磁炮弹伤害增加20%			{4,3821011}	aliendefence.LevelPassive_23_name	aliendefence.LevelPassive_23_des	{20}
+2005	寒冰弹伤害增加20%			{5,3821011}	aliendefence.LevelPassive_24_name	aliendefence.LevelPassive_24_des	{20}
+2006	寒冰激光伤害增加20%			{6,3821011}	aliendefence.LevelPassive_25_name	aliendefence.LevelPassive_25_des	{20}
+2007	轨道激光伤害增加20%			{7,3821011}	aliendefence.LevelPassive_26_name	aliendefence.LevelPassive_26_des	{20}
+2008	引力球伤害增加20%			{8,3821011}	aliendefence.LevelPassive_27_name	aliendefence.LevelPassive_27_des	{20}

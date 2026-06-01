@@ -1,0 +1,439 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+gold_not_enough	资金不足	0	
+cash_not_enough	资金不足	0	
+girlcard_not_found	当前队员不存在	0	
+girlcard_cmd_err	所需材料不足	0	
+girlcard_update_failed	升级失败	0	
+NotEnoughItem	道具不足	0	
+material_not_enough	请选择材料	0	
+refresh_run_out	本日刷新次数已耗尽	0	
+role_material_not_enough	提取物不足	0	
+role_unlock_ok	角色解锁成功	0	
+cost_money_failed	主货币支付失败	0	
+BadParam	请求参数错误	0	
+ItemNotExists	物品不存在	0	
+Recycle.ItemNotExists	回收失败，物品不存在	0	
+Recycle.ItemNotEnough	回收失败，物品不足	0	
+Recycle.ItemNotExpiration	回收失败，物品尚未过期，不可回收	0	
+LoginNeed	数据异常，请重新登录。是否返回？	0	
+NetError	网络不可用	0	
+LoginError	登录失败	0	
+		0	
+101	网络写占用	0	
+102	网络读占用	0	
+103	网络超时	0	
+104	网络链接正在关闭	0	
+105	网络链接已经关闭	0	
+106	网络链接无效	0	
+107	网络包序列化失败	0	
+108	网络包反序列化失败	0	
+109	网络锁定失败	0	
+201	找不到服务	0	
+202	服务重复	0	
+203	服务没有相应的方法	0	
+204	参数无效	0	
+205	数据库操作失败	0	
+206	服务内部错误	0	
+207	重复操作	0	
+301	未登录	0	
+302	重复登录	0	
+303	客户端版本无效	0	
+304	登录认证失败	0	
+305	登录人数超出限制	0	
+306	不允许登录	0	
+317	当前排队登录的人数过多，请稍后再试	0	
+318	注册已关闭，尽情期待。	0	
+319	当前服务器登入人数已满，请稍后再试	0	
+320	登录认证失败，您的账号已被另一台设备绑定	0	
+321	版本过低，请更新客户端	0	
+322	为维护未成年人健康上网环境，本游戏暂不支持实名认证18岁以下的用户登录体验	1000	
+401	当前昵称已存在，请重新输入	0	
+402	含有敏感词汇，请重新输入	0	
+403	含有敏感词汇，请重新输入	0	
+404	所需数据金不足，修改失败	0	
+405	修改签名失败	0	
+424	修改权限被限制，请于解限后重试	0	
+501	重复订单	0	
+502	订单无效	0	
+503	问卷重复	0	
+601	找不到社团	0	
+602	已经加入了社团	0	
+603	社团成员已满	0	
+604	无社团操作权限	0	
+605	找不到要加入的社团	0	
+606	找不到社团成员	0	
+607	非活跃社团	0	
+608	不能从社团中踢掉自己	0	
+801	幸运盲盒出现！击破可获取良性效果！	0	
+802	幸运盲盒即将逃离，请尽快破坏！	0	
+803	『伤害提升』本区域敌方已受到泰坦容器影响	0	
+804	『恢复提升』本区域敌方已受到泰坦容器影响	0	
+805	『霸体提升』本区域敌方已受到泰坦容器影响	0	
+806	『防御提升』本区域敌方已受到泰坦容器影响	0	
+girlcard_max_level	到达限制的最高等级	0	
+girlcard_break_max	等级已达最大	0	
+reUnlock_player	玩家重新解锁	0	
+unlock_player_shorts_mats	玩家解锁	0	
+lv_lower	等级未达到要求	0	
+Prenode_progress_lower…	节点未解锁	0	
+girlcard_not	卡牌无效	0	
+invaild_spine	无效的骨骼	0	
+logistics_equiped	后勤已配备	0	
+logistics_not_equiped	未配备后勤	0	
+logiskill_evolut_skill_not	后勤技能不能升级	0	
+logiskill_evolut_limit_max	后勤技能升级已满	0	
+logiSkill_evolut_material_not_enough	后勤技能升级材料不足	0	
+already_finished_sign	已签到	0	
+sign_day_ok	签到成功	0	
+param_err	参数错误	0	
+congif_err	配置错误	0	
+congif_rewardid_err	配置奖励错误	0	
+resign	注册	0	
+day_sign_reward_err	日签到错误	0	
+request	重新请求	0	
+tag_fail	标记失败	0	
+mode2_reward_err	奖励错误	0	
+exchange_vigor_max	每日感知置换次数已达上限	0	
+not_activity	活动不存在	0	
+pre_node_condition_fail	前置节点未解锁	0	
+support_equip_ok	后勤配备成功	0	
+support_replace_ok	后勤更换成功	0	
+support_unload_ok	后勤调离完成	0	
+SelectSellItem	请选择要需要出售的道具	0	
+weapon_max_level	到达限制的最高等级	0	
+support_max_level	到达限制的最高等级	0	
+once_materal_not_enough	可供一键选择的材料不足	0	
+role_change_suc	更换成功	0	
+not_captain	首发天启者（中间位）不可为空	0	
+not_captain_activity	每队请至少编入1名天启者	0	
+evolution_max_level	改造最大等阶了！	0	
+weapon_level_up	升级成功	0	
+not_weapon	你还没有武器	0	
+replace_weapon_succ	武器装备成功	0	
+weapon_break	武器突破成功	0	
+weapon_evolution	武器改造成功	0	
+select_weapon	请选择武器	0	
+select_mat	请选择材料	0	
+train_not_replace	训练模式不能更换角色	0	
+trail_not_replace	试玩角色不能更换	0	
+trail_role	不可更改	0	
+switch_role	换人还在冷却时间中	0	
+character_die	角色死亡	0	
+forbidden_switch	禁止切换中	0	
+connect_break	网络连接断开，请重新连接	0	
+reconnect_fail	重连失败，请重新连接	0	
+reconnect_fail_over	重连失败，将返回登录界面！	0	
+relogin_fail	重连登录失败，将返回登录界面！	0	
+login_not_invited	尚未取得测试资格！	0	
+not_open	活动暂未开放！	0	
+Expect_Next_Version	暂未开放	0	
+shop_min	已选择最少数量	0	
+shop_max	已选择最大数量	0	
+today_alreaded_signed	今日已签到	0	
+count_lv_lower	等级不足	0	
+congig_activity_err	活动索引字段配置错误	0	
+congig_modeid_err	活动模板配置错误	0	
+congig_reward_err	活动奖励配置错误	0	
+re_sign	重复签到	0	
+logistic_max	当前后勤等级已达上限	0	
+equip Role card err	被装备的角色无效	0	
+not_the_logistics_card	当前后勤错误	0	
+logistics_card_category_not_match	当前后勤不能装备在该位置	0	
+logistic materal not enough	材料不足	0	
+logistic_lv_limit_max	当前后勤等级已达上限	0	
+logistic break up limit	当前突破次数达到上限	0	
+Limit_Times	当前突破次数达到上限	0	
+not_material_for_break	材料不足	0	
+not_material	材料不足	0	
+pre_unlocking_condition_is_not...	前置节点未解锁	0	
+Lv_lower...	等级不足	0	
+Lv_not	等级不足	0	
+RoleSpine_not	当前角色神格神经(子)节点错误	0	
+logistic break and up limit	当前后勤人员突破次数达到上限	0	
+logistic break ok	突破成功	0	
+logistic break limit	当前突破已经达到上限	0	
+logistic_up_lv_max	当前后勤人员等级已达上限	0	
+logistic up ok	后勤人员升级成功	0	
+logistic max limit	当前后勤人员等级已达上限	0	
+card_max_level	当前角色等级已达上限	0	
+Account lv Limit	分析员等级不足	0	
+logistic_%s_ok	装备成功	0	
+up lv ok	突破成功	0	
+break num by limit...	当前突破次数达到上限	0	
+expect next version	下个版本开放	0	
+refineFinish	特长重修成功	0	
+goGetSupportCard	前往获取后勤人员	0	
+support replace ok	替换成功	0	
+support unload ok	卸载成功	0	
+need_exchange_cash_1	主货币不足，是否前往购买？	0	
+need_exchange_cash_2	金币不足，是否兑换金币？	0	
+need_exchange_cash_3	感知不足，是否兑换感知？	0	
+need_exchange_cash_4	情报箱不足，是否兑换？	0	
+exchange_invaild	已经达到上限,无法兑换	0	
+exchange_success	兑换成功	0	
+exchange_cash_notenough	货币不足，无法兑换	0	
+exchange_cash_notenough_jump	%s不足，无法兑换,是否先兑换%s?	0	
+exchange_jump_shop	%s不足，是否前往购买?	0	
+exchange_cash_max	拥有量已达最大值，不可置换	0	
+exchange_Stamina_max	超过最大值，不可置换	0	
+dmmpt_jump_shop	DMM Points余额不足，是否前往购买？	0	
+ItemEquiped	道具已被装备，不可出售	0	
+GachaLeftTime	本日剩余抽奖次数为0	0	
+GachaLeftTimeLess10	本日剩余抽奖次数少于10	0	
+sellable_not_exist	当前没有可出售的道具	0	
+need_exchange	%s不足，是否使用%d%s补充！	0	
+buy_succeed	购买成功	0	
+gold_need_exchange	%s不足是否使用%s比特金补充！	0	
+exit_game	是否退出游戏?	0	
+time_refresh	检测到时间节点变化，需要更新数据	0	
+unlockcondition	通关%s后解锁	0	
+unlockLevel	分析员等级达到%s解锁	0	
+affix_not_exist	并未拥有此特长	0	
+nextStageUnlockTime	登录第%d天解锁本阶段	0	
+reward_not_exist	没有奖励可以领取	0	
+rolefiles_changename	昵称修改成功！	0	
+rolefiles_changenotes	好友备注修改成功	0	
+rolefiles_LackMoney	所需数据金不足，修改失败	0	
+rolefiles_changesig	个性签名修改成功	0	
+rolefiles_pickrole	展示角色设置成功	0	
+rolefiles_nocode	请输入礼包码	0	
+rolefiles_inputcode	礼包码仅支持字母与数字输入	0	
+FriendVigorMax	今日收取的感知已达20点上限	0	
+GainFriendVigorDuplicated	不可重复领取好友感知	0	
+GiveFriendVigorDuplicated	今日已对该好友赠送过感知	0	
+friend_EnergyGive	成功赠送%s点感知！	0	
+friend_EnergyGet	成功收取%s点感知！	0	
+friend_EnergyBoth	成功收取%s点感知，并赠送成功！	0	
+friend_FullMe	好友已达上限	0	
+friend_FullOther	对方好友已达上限	0	
+friend_AddOther	好友申请发送成功	0	
+friend_AgreeOther	已同意好友申请	0	
+friend_RefuseOther	已忽略好友申请	0	
+friend_FindNone	未能寻找到该识别码玩家	0	
+friend_Removed	已删除对方好友	0	
+friend_ban	已加入黑名单	0	
+friend_del_blacklist	已移出黑名单	0	
+friend_banfull	黑名单人数已达上限	0	
+friend_exist	已经是您的好友	0	
+friend_not_exist	好友不存在	0	
+kickout	已被请离房间	0	
+empty_name	用户名不能为空	0	
+online_PointNotEnough	积分不足	0	
+online_RoomStateError	游戏已经开始，无法操作	0	
+online_RoomReadyError	游戏已经准备，无法操作	0	
+online_NoAward	奖励已经领取完，无法打开感知消耗	0	
+online_MaxPoint	已达到最高精神协作值，无法打开感知消耗	0	
+online_NoVigour	感知不足，请提前补充	0	
+online_ReStart	服务器创建房间失败，请稍后重试	0	
+online_Starting	意识环境链接中，请稍等片刻…	0	
+online_OpenMatch	超元链接匹配启动——	0	
+online_ExitRoom	退出超元链接状态，将会中断和其他分析员的匹配！	0	
+blacklist_exist	已存在黑名单中	0	
+blacklist_not_exist	不存在黑名单中	0	
+friend_recommand_cd	刷新冷却中，请稍后再进行尝试	0	
+gacha_lackmoney	数据金不足	0	
+rolespine_ok	神经节点通导成功	0	
+not_exitcaptain	队长位不可为空，否则无法出战	0	
+spemonster_born	幸运盲盒出现！击破可获取良性效果！	0	
+spemonster_quit	幸运盲盒即将逃离，请尽快破坏！	0	
+star_award_geted	奖励已领取	0	
+star_not_enough	未达到领奖条件	0	
+Level_Lock	前往章节暂未解锁	0	
+survey_geted	该问卷已获得奖励	0	
+survey_close	问卷未开启	0	
+girlcard_alread_break	该神经节点已经解锁	0	
+arrangement_exit	当前修改暂未保存，是否确认退出？	0	
+arrangement_reset	是否确认重置回默认布局？	0	
+arrangement_reset_success	重置默认布局成功	0	
+arrangement_save	当前布局保存成功	0	
+PieceExchange_none	当前无可兑换提取物	0	
+PieceExchange_Full	思念片段即将超过上限，无法进行兑换	0	
+BattlePass_Config_error	当前活动未更新，请稍后尝试	0	
+BattlePass_Exp_Max	本周获取经验已经达到限制	0	
+BattlePass_Award_Error	获取奖励错误	0	
+BattlePass_BP_Max	已达最高级通行证	0	
+BattlePass_Level_Max	已达通行证最高等级	0	
+BattlePass_Level_Error	凭证即将更新，无法购买等级	0	
+BattlePass_EXP_Limited	每日/每周任务经验已达到上限	0	
+ItemExpirated	物品已过期	0	
+exchange_conditions_not_met	不满足交换条件	0	
+trials_reached_limit	试玩角色数量达到上限	0	
+NeedUpdateGame	检测到新的游戏版本，是否立即重启更新？	0	
+BattlePass_NotGet_BP	尚未获得通行证	0	
+Cost_Limit_Money	因用户数据异常，相关功能已被限制	0	
+Mall_Limit_Buy	达到限制,无法购买	0	
+Mall_Limit_MonthCard	剩余有效期超过30日, 无法购买	0	
+Max_Limit_Have	最多拥有%s个物品	0	
+exchange_jump_mall	%s不足，是否前往供应站兑换?	0	
+Baned	账号被冻结	0	
+SkillCastFail_Default	技能不满足释放条件	0	
+SkillCastFail_NotEnoughCost	技能所需资源不足	0	
+SwitchPlayerFail	当前无法切换	0	
+break_condition_inconformity	未满足突破条件	0	
+MonthCardTips	1. 单张【员工惠利】按照30天计算，最多可叠加2张。\n2. 同时购买多张【员工惠利】不会增加每日获赠的数据金总数。	0	
+MonthCardTips.overseas	1. 单张【员工惠利】按照30天计算，最多可叠加2张。\n2. 同时购买多张【员工惠利】不会增加每日获赠的数据金总数。\n3. 单张【员工惠利】从购买日起，需连续登录30天才能领取完所有奖励。	0	
+			
+the_role_is_locked	角色已锁定	0	
+LOGIN_DUPLICATED	账号重复登录	0	
+Setup_ClassLock	【%s】设置于【%s】状态时激活此选项	0	
+Kick_GM	来自游戏管理员的操作：强制下线	0	
+MaxFightCount	已达最大作战次数	0	
+MinFightCount	已选择最小作战次数	0	
+LevelLocked	通关前置关卡后解锁	0	
+girlcard_level_limit	请先将分析员等级提升至%d以上	0	
+shop.RoleLocked	队员暂未解锁，不可兑换其提取物	0	
+shop.RoleFull	队员已完全天启，不可兑换其提取物	0	
+house.NoGift	当前未拥有任何可提交道具	1000	
+rechargeTips	分析员在「融雪测试」充值的总金额（包括购买月卡、礼包及其他各种消费所花费的人民币金额，不包括任何赠送部分）与购买的月卡数量，公测开启后根据本规则进行返还。\n\n「游戏内货币比例」\n充值金额兑换【比特金】比例为1:1\n比特金兑换【数据金】比例为1:10（最低兑换比例，各档位首次兑换可获得双倍数据金）\n\n「充值返利规则」\n融雪测试期间，游戏内充值的总金额，将按照以下区间返还：\n充值金额≤3000部分可获得110%的比特金 + 400%数据金\n充值金额>3000部分可获得100%的比特金 + 300%数据金\n备注：计算结果小数点后数值忽略不计。\n\n融雪测试购买月卡所花费的金额计入总金额，且公测后会按照1:1比例返还月卡道具。\n\n举例\n例1，分析员在融雪测试充值总金额648元（未购买月卡），按照返还规则计算\n返还比特金：648*110%≈712\n返还数据金：648*400%=2592\n返还月卡：0张\n即公测后可获得比特金712 + 数据金2592\n\n例2，分析员在融雪测试充值总金额3240元，其中购买了2张月卡，按照返还规则计算\n返还比特金：3000*110% + 240*100%=3540\n返还数据金：3000*400% + 240*300%=12720\n返还月卡：2张\n即公测后可获得比特金3540 + 数据金12720 + 2张月卡道具\n\n「返利领取方式」\n1、公测期间，需下载参与测试对应渠道的公测客户端（安卓、PC客户端均可），使用参与融雪测试的同一游戏账号登录游戏，进入活动大厅，通过充值返利活动直接领取返利。\n2、充值返利活动从公测当日开始计算，有效时间为90天，请分析员及时领取。\n3、返还的月卡【惠利兑换券】为手动可消耗道具（无过期时间），可领取后前往【背包】使用，如当前月卡剩余时间<30天，则仅可使用1张，如剩余时间≥30天，则无法使用。\n4、返利仅可领取一次。\n\n「注意事项」\n1、游戏公测后，为避免造成不必要的损失，请尽快创建角色并领取返利，同时请留意相关公告及领取说明。\n\n「账号类型说明」\n1、游戏账号包含官方账号、B站账号两类。\n2、官方账号渠道包括所有使用金山通行证登录游戏的PC、安卓客户端，且官方账号渠道数据互通。\n3、B站账号包括：B站下载的客户端（PC、安卓），PC/手机账号数据互通。\n4、官方账号与B站账号数据不互通，完全独立。\n\n「iOS补充说明」\n1、iOS玩家如曾经使用“官方安卓/PC客户端”参与融雪测试，公测后通过“官方安卓/PC客户端”领取返利，但在安卓/PC端获取的比特金无法在iOS端查看和使用，兑换为数据金后才能在iOS端查看和使用。\n2、公测的iOS客户端属于【官方账号】，公测“官方安卓/PC/iOS”三端账号数据互通。\n3、iOS充值获得的比特金仅能在iOS端查看和使用，安卓/PC充值获得的比特金仅能在安卓/PC端查看和使用，比特金兑换为数据金后三端互通。\n\n「服务器说明」\n官方与B站创建的角色数据在同一服务器内，可互加好友、进行联机玩法等。	1000	
+gacha.AssignUp	定向共鸣武器成功设置为<span color="#f7be37">%s</>	0	
+gacha.RoleAssignUp	定向共鸣角色成功设置为<span color="#f7be37">%s</>	0	
+ageLimited	因为年龄限制无法充值	0	
+purchaseForbidden	购买取消	0	
+FreshmanTime	启程集结共鸣次数已达上限		
+ExchangeCode.success	兑换成功，请前往邮箱查看领取	0	
+ExchangeMcard.fail	您当前月卡剩余时间%s天,暂时无法使用	0	
+Buy.Restriction	该物品的单次购买上限为%d	0	
+refresh.Error	数据异常，请重新登录	0	
+purchase.Error	商品信息配置错误	0	
+Puzzle.EndGame	研析进度尚未到达100%%，是否中止？\n本周信源研析次数剩余 <span color="#f7be37">%s</>		
+Puzzle.100EndGame	是否完成研析，领取奖励？\n本周信源研析次数剩余 <span color="#f7be37">%s</>		
+Puzzle.Num0	尚未开始处理任何信源，无法中止		
+Puzzle.Time0	本周研析已结束		
+GivePuzzleSuccess	信源赠送成功		
+GetPuzzleSuccess	信源接收成功		
+ClipNotEnoughForExchange	所选信源不足5段，无法进行回收		
+NoClipForOpenSellUI	尚未拥有任何信源		
+ssr.Selected	队员已邀请	0	
+ssr.SelectConfirm	邀请当前队员后将无法再次邀请其他队员, 确认当前邀请?	0	
+ssr.SelectUnlock	%s，即可选择任意1名队员加入	0	
+			
+online_EndTime	活动已结束	0	
+online_FightEnd	挑战已结束	0	
+PreLevelLocked	完成前置历程后解锁	0	
+menka.lack	【虹膜录入证明】不足，无法办理入住		
+ExchangeClipSuccess	信源回收成功		
+house.NoneCheckin	暂无队员入住，无法进行家具置办		
+house.NoCheckin	该队员暂未入住，无法为其进行家具置办		
+house.ClipMax	信源断片已达上限，无法继续获取		
+house.LoveMaxSure	%s好感度已满级，是否继续赠送礼物？		
+house.LoveMax	%s好感度已满级，无法继续提升好感度		
+house.ClipDelay	该信源断片已过期，无法领取		
+house.SendRewardMax	本周通过赠送信源断片获得的奖励已达上限		
+house.ClipGetSelect	请选择需要接收的信源断片		
+weaponModuleExchange	需要先获得该武器后才能进行兑换		
+shopRefreshConfirm	本次操作将会消耗数据金，确认刷新？		
+			
+InvaildHead	当前选中的头像尚未解锁		
+InvaildFrame	当前选中的头像框尚未解锁		
+			
+Player_Return_Tips	【归途道标】活动开启第%d天解锁本阶段	0	
+			
+badge_not_owned	该徽章还未获得		
+skin_not_owned	暂未拥有任何时装，无法进行设置		
+badge_none_owned	暂未获得任何徽章		
+			
+chat_friendoffline	当前好友不在线，无法发送消息		
+chat_notinteam	当前未处于组队状态中		
+chat_frequently	操作过于频繁，请%d秒后继续发送		
+chat_friendtip01	删除好友后聊天记录将不再保存，是否确认删除？		
+chat_friendtip02	拉入黑名单后聊天记录将不再保存，是否确认拉黑？		
+chat_friendtip03	是否确认拉入黑名单？		
+chat_friend_none	对方已不是您的好友，无法发送消息		
+chat_changechannel	成功切换至【频道%d】		
+chat_report	感谢您的反馈，我们将及时跟进处理		
+			
+TxtChat.OnlineInvite	成功发送聊天招募信息		
+TxtChat.BanChannel	【%s聊天】维护中，无法发送消息		
+TxtChat.BanChannelTip	频道屏蔽设置成功		
+			
+TxtExclusiveMission_Full	今日接取的委托已达上限		
+			
+TxtFreeItems_NotTime	未到邀请时间		
+TxtCheatIdleTime	系统检测到您长时间没有操作，存在作弊嫌疑		
+			
+SupportScheduleNotEnough	后勤申请进度不足		
+			
+scenechange_suc	更换成功		
+bgmchange	为保持互动情景氛围，建议重置背景音乐为互动情景对应背景音乐		
+bgmchange_yes	重置音乐		
+bgmchange_no	保持现状		
+			
+steam_SSRget	获得橙色角色		
+steam_des_SSRget	你获得了%s		
+steam_Mutual	进入互动		
+steam_des_Mutual	你开始与%s互动		
+steam_Combatstart	开始作战		
+steam_des_Combatstart	开始%s作战		
+steam_Combatover	结束作战		
+steam_des_Combatover	结束%s作战		
+			
+party_tip1	停止匹配其他选手，并退出	0	3.5修改海姆提示为通用提示
+			
+TxtHandleProhibitCustom	使用手柄时无法进行当前设置	0	
+			
+StepGridFailReset	解谜失败，请返回起始点		
+			
+NewstarBuildNomoney	蓝图币不足	0	3.0新星开拓提示
+NewstarBuildNostaff	当前没有可以聘用的员工	0	3.0新星开拓提示
+NewstarBuildNostaffunlock	暂未解锁	0	3.0新星开拓提示
+NewstarBuildAnother	仍有未完成条件，当前无法使用	0	3.0新星开拓提示
+NewstarBuildCantUp	当前没有可以培训的员工	0	3.0新星开拓提示
+NewstarBuildAreaLock	暂时无法解锁	0	3.0新星开拓提示
+			
+NotOpenPreDownload	暂未开放预下载	0	3.1预下载
+			
+RMOL_LEVEL_NOT_PASS	完成%s后解锁	0	3.2绘梦沙盘提示
+RMOL_Skills_Few	有尚未选用的投资支持槽位	0	3.2绘梦沙盘提示
+RMOL_Skills_Few_Confirm	进入关卡	0	3.2绘梦沙盘提示
+RMOL_Skills_Few_Cancel	前往查看	0	3.2绘梦沙盘提示
+RMOL_WaitForEnemyReady	请等待其他玩家准备	0	3.2绘梦沙盘提示
+RMOL_ChallengeStarNotEnough	累计%s颗星后解锁	0	3.2绘梦沙盘提示
+RMOL_OnlineLinkTimeout	模拟对抗环境构建困难，是否要继续等待？	0	3.2绘梦沙盘提示
+RMOL_OnlineLinkTimeoutGiveup	直接放弃	0	3.2绘梦沙盘提示
+RMOL_OnlineLinkTimeoutKeepwait	继续等待	0	3.2绘梦沙盘提示
+			
+xtSetupVoiceDownloadTips1	缺少语音资源，请在设置-语音-语音包下载中下载语音包资源	0	语音下载
+xtSetupVoiceDownloadTips2	请选择想要下载的语音包	0	语音下载
+			
+TxtRoomGuidecomplete	基地内所有引导已完成	0	3.2宿舍引导提示
+			
+TxtClimbTowerTime	当前关卡暂未开放！	0	3.3乐土之扉
+Newstarfirework_day	到了晚上再来放烟花吧	0	DLC34活动烟花tips
+			
+LimitTime_CardExpired_Title	限时入队活动已结束	0	3.4限时角色
+LimitTime_CardExpired_Des	【里芙-无限之视】限时入队活动已结束，全部养成材料已返还至背包中	0	3.4限时角色
+LimitTime_WeaponExpired_Title	限时体验已结束	0	3.4限时角色
+LimitTime_WeaponExpired_Des	【九夜之冕】的限时体验已结束，全部养成材料已返还至背包中	0	3.4限时角色
+LimitTime_SupportExpired_Title	限时体验已结束	0	3.4限时角色
+LimitTime_SupportExpired_Des	专属定制后勤【朵薇尔】【爱莉薇娅】【妲柯丝】限时体验已结束，全部养成材料已返还至背包中	0	3.4限时角色
+LimitTime_CardGet_Title	已拥有角色【里芙-无限之视】	0	3.4限时角色
+LimitTime_CardGet_Des	已拥有角色【里芙-无限之视】，角色养成进度已保留\n是否前往角色界面查看？	0	3.4限时角色
+LimitTime_WeaponGet_Title	已获得武器【九夜之冕】	0	3.4限时角色
+LimitTime_WeaponGet_Des	已获得武器【九夜之冕】，武器养成进度已保留\n是否前往武器界面查看？	0	3.4限时角色
+LimitTime_SupportGet_Title	已获得专属定制后勤	0	3.4限时角色
+LimitTime_SupportGet_Des	已获得专属定制后勤【朵薇尔】、【爱莉薇娅】、【妲柯丝】，后勤养成进度已保留\n是否前往后勤界面查看？	0	3.4限时角色
+LimitTime_ForbidStimulate	限时入队角色无法激发天启	0	3.4限时角色
+LimitTime_ForbidWeaponChange	限时体验武器无法交换	0	3.4限时角色
+LimitTime_ForbidSupportChange	限时体验后勤无法替换	0	3.4限时角色
+LimitTime_Forbid	限时入队角色通导神经组奖励无法领取	0	3.4限时角色
+LimitTime_ForbidRevision	限时体验后勤无法进行重修	0	3.4限时角色
+LimitTime_ForbidWeaponPart	限时体验武器的升级奖励无法获取	0	3.4限时角色
+LimitTime_ForbidWeaponMaterials	限时体验武器无法作为养成材料使用	0	3.4限时角色
+LimitTime_ForbidSupportMaterials	限时体验后勤无法作为养成材料使用	0	3.4限时角色
+LimitTime_ForbidDecompose	限时体验武器与后勤无法被分解	0	3.4限时角色
+LimitTime_ForbidWeaponEvolving	限时体验武器无法进行改造	0	3.4限时角色
+LimitTime_ForbidReset	限时入队角色无法重置神经	0	3.4限时角色
+			
+			
+Party_challengetips1	<span color="#59fab7">{1}</>需要救助	0	DLC35海姆向前冲Tips
+Party_challengetips2	疾速歼灭已开启，尽快击败更多哈姆吧！	0	DLC35海姆向前冲Tips
+Party_challengetips3	疾速歼灭已结束，可以额外选择{1}次增益	0	DLC35海姆向前冲Tips
+Party_challengetips4	等待选手进入……	0	DLC35海姆向前冲Tips
+Party_challengetips5	补给武器已出现！	0	DLC35海姆向前冲Tips
+Party_challengetips6	哈姆即将袭来	0	DLC35海姆向前冲Tips
+Party_challengetips7	击败全部哈姆	0	DLC35海姆向前冲Tips
+Party_challengetips8	哈姆首领即将袭来	0	DLC35海姆向前冲Tips
+Party_challengetips9	击败哈姆首领	0	DLC35海姆向前冲Tips
+Party_challengetips10	攻击增幅中，请尽快躲避！	0	DLC35海姆向前冲Tips
+Party_challengetips11	当前波次哈姆已全部击败	0	DLC35海姆向前冲Tips

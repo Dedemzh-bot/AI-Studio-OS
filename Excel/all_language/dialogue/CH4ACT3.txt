@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	尽量使用非致命武力吗？	盡量使用非致命武力嗎？	できるだけ非致死性兵器を使うか？	아무튼 최대한의 무력 사용은 배제하라는 얘기잖아?	This won't be the last time we see it here.						0	
+2	我明白了，分析员。	我明白了，分析員。	分かった、分析員。	알겠어, 분석가.	I feel like...						0	
+3	看你一脸纠结的样子，行吧行吧。	看你一臉糾結的樣子，好吧好吧。	そんな困った顔をしちゃって。分かったわよ。	알겠으니까… 그런 심각한 표정 좀 그만 지어.	Seeing how confused you look, fine.						0	
+4	不过，要是真的遇到危险，本小姐可就不管那么多了。	不過，要是真的遇到危險，本小姐可就不管那麼多了。	でも、本当にいざという時は、あたしはそんなことに構っていられないわよ。	하지만 상황이 위험해지면 그땐 나도 몰라.	But if you end up getting yourself into danger, don't expect me to take care of everything.						0	

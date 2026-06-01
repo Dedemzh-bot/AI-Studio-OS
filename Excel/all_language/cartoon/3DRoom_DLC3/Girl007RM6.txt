@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分……分析员……那……那个……	分……分析員……那……那……	分析員さん……あ……あの……	분… 분석가님… 저… 저기…	A...Adjutant... Um...						0	
+page0.2	分析员！	分析員！	分析員さん！	분석가님!	Adjutant!						0	
+page0.3	哎呦，是小琴诺啊……	唉呦，是小琴諾啊……	ん？あぁ、チェルノか！	어, 체르노구나…	Hey, it's you, Cherno...						0	
+page0.4	你这是怎么啦？	你怎麼啦?	どうしたの？	무슨 일이야?	What's going on?						0	
+page0.5	对不起分析员！	對不起分析員!	ごめんなさい、分析員さん……私……	죄송해요, 분석가님!	I'm sorry, Adjutant!						0	
+page0.6	去雅卢岛度假一直没看到你，怎么回来一见面就要道歉？	去雅盧島渡假一直沒看到你，怎麼回來一見面就要道歉啊?	ガルーアイランドでは会わなかったよね、なんでいきなり謝るの？	야루섬 휴가 가느라 그동안 보지도 못했는데, 왜 만나자마자 사과하는 거야?	I haven't seen you since I went to Yallu Island on vacation. Why are you apologizing now that I'm back?						0	
+page0.7	本来是要去的……	本來是打算去的……	元々は行くつもりだったのですが……	원래는 가려고 했었는데…	I was supposed to go too...						0	
+page0.8	但是琴诺搞砸了，没能和分析员一起度假，对不起。	但是琴諾搞砸了，沒有和分析員一起去渡假，對不起。	でも……その……ぶ、分析員さんと、い、一緒に行けなくて……ごめんなさい……	제가 망쳐버렸어요, 분석가님과 같이 휴가를 가지 못해서 죄송해요.	But I messed everything up, so I didn't get to go on vacation with you. I'm sorry...						0	
+page0.9	是发生什么了吗？	是發生什麼事了嗎?	何かあったのか？	무슨 일 있었어?	What happened?						0	
+page0.10	为了去海边……好像……大家都准备了漂亮的泳装……	為了去海邊……好像……大家都準備了漂亮的泳裝……	海に行くために……みんな……可愛い水着を用意していたみたいで……	바닷가에 가려고… 다들… 예쁜 수영복을 준비한 것 같은데…	Everyone... bought really pretty swimsuits... to go to the beach...						0	
+page0.11	穿那个……很害羞……琴诺很不安。	穿那個……很害羞……琴諾很擔心。	チェルノは……その、えっと……着るのが、はじっ、恥ずかしくて……不安で……	수영복은… 너무 부끄러워서… 불안했어요.	I'm too shy... to wear something like that... I was too nervous...						0	
+page0.12	所以莫尔索帮我申请了调休，你们去雅卢岛的那天，我在执行任务。	所以莫爾索幫我申請了調休，你們去雅盧島的那天，我在執行任務。	だから、ムルソーがだ、代休を申請してくれて……みんながしゅ、出発の日、みっミッショ、ンに……	그래서 모르소와 휴가 날짜를 바꿨어요. 모두가 야루섬에 간 날, 저는 미션을 수행하고 있었어요.	So Meursault helped me apply to have that vacation time moved... I was going on missions while you guys were on Yallu Island.						0	
+page0.13	小琴诺不用道歉，你一点错都没有。	小琴諾不用道歉，你完全沒有錯。	チェルノ大丈夫だ、落ち着いて。謝る必要なんてないんだよ？何も悪いことしてないんだし。	체르노, 사과할 필요 없어. 넌 아무 잘못도 하지 않았어.	You don't need to apologize, Cherno. You didn't do anything wrong.						0	
+page0.14	只是，没能一起度假真的很可惜。	只是沒有一起去渡假真的很可惜。	ただ、一緒に休暇を楽しめなくて残念だったね。	다만, 함께 휴가를 보내지 못해서 아쉬울 따름이야.	It's just a shame that we didn't get to go on vacation together.						0	
+page0.15	我们约好下次再一起去雅卢岛吧。	我們約好下次再一起去雅盧島吧。	今度一緒にガルーアイランド行こう！何かを絶対着なきゃいけないなんてない、いっぱい遊ぼう！	우리 약속하자, 다음에는 꼭 함께 야루섬에 가는 걸로.	Let's plan another trip to Yallu Island together sometime.						0	
+page0.16	只要小琴诺觉得开心就够了，下次，不要在意穿什么。	只要小琴諾開心就好，下次不需要在意穿什麼。	（きっと一緒に遊びたかったんだろう……次回はチェルノが存分に楽しめるように考えたいな……）	체르노가 즐거우면 그걸로 된 거야, 다음엔 옷 때문에 고민하지 마.	As long as you're happy, that's the only thing that matters. You don't need to worry about what to wear next time.						0	

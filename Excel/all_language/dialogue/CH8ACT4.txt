@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	难道不知道吗？多厚的闸门也拦不住泰坦。	難道不知道嗎？多厚的閘門也攔不住泰坦。	分からないのか？どんなに分厚いドアもタイタンを止めることはできない。	문이 아무리 두꺼울지라도, 타이탄을 막기에는 역부족이라는 걸 설마 모르는 건 아니겠지?	Don't they realize? Even the thickest floodgate will crumble before a Titan.						0	
+2	也可能并不是为了把泰坦拦在外面。	也可能並不是為了把泰坦攔在外面。	タイタンを外に止めるためじゃないのかもしれない。	막으려고 하는 게 타이탄이 아닐 수도 있다.	Perhaps it's not to keep the Titans out.						0	
+3	前辈，果然……冲我们开火了。	前輩，果然……朝我們開火了。	先輩、やっぱり……あいつら私たちに発砲した。	선배… 방금 우리에게 총을 쐈다.	Captain, they've... started firing at us.						0	

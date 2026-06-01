@@ -1,0 +1,27 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+CriticalValue	射击暴击率提升%s%%	射擊暴擊率提升%s%%	射撃会心率+%s%%	사격 크리티컬 확률이 %s%% 상승한다.	Shooting CRIT Rate +%s%%						0	
+CriticalDamageAddtion	暴击伤害增幅提升%s%%	暴擊傷害增幅提升%s%%	会心ダメージ増幅+%s%%	크리티컬 강도가 %s%% 증가한다.	CRIT DMG Amplifier +%s%%						0	
+SkillIntensity	技能强度增幅提升%s%%	技能強度增幅提升%s%%	スキル威力増幅+%s%%	스킬 강도가 %s%% 증가한다.	Skill DMG Amplifier +%s%%						0	
+CharacterEnergyEfficiency	爆发能量获取率提升%s%%	爆發能量獲取率提升%s%%	爆発EP取得率+%s%%	부스터 획득률이 %s%% 증가한다.	U-Energy Recovery +%s%%						0	
+Command	附属单位强度提升%s%%	附屬單位強度提升增加%s%%	付属ユニット強度+%s%%	부속 유닛 강도가 %s%% 증가한다.	Auxiliary Units Strength +%s%%						0	
+HealthPer	最大生命提升%s%%	最大生命提升%s%%	最大HP+%s%%	최대 HP가 %s%% 증가한다.	Max HP +%s%%						0	
+AttackPer	攻击力提升%s%%	攻擊力提升%s%%	攻撃力+%s%%	공격력이 %s%% 증가한다.	ATK +%s%%						0	
+DefencePer	防御力提升%s%%	防禦力提升%s%%	防御力+%s%%	방어력이 %s%% 증가한다.	DEF +%s%%						0	
+VigourRecoverSpeed	耐力回复速度提升%s%%	耐力回復速度提升%s%%	スタミナ回復速度+%s%%	스태미나 회복 속도가 %s%% 증가한다.	Stamina Recovery SPD +%s%%						0	
+FireDamageBonus	高热类型伤害提升%s%%	高熱類型傷害提升%s%%	高熱系ダメージ+%s%%	화염 유형 대미지가 %s%% 증가한다.	Thermal DMG +%s%%						0	
+ThunderDamageBonus	电击类型伤害提升%s%%	電擊類型傷害提升%s%%	電撃系ダメージ+%s%%	번개 유형 대미지가 %s%% 증가한다.	Electrical DMG +%s%%						0	
+IceDamageBonus	低温类型伤害提升%s%%	低溫類型傷害提升%s%%	低温系ダメージ+%s%%	얼음 유형 대미지가 %s%% 증가한다.	Frost DMG +%s%%						0	
+EntityBulletDamageBonus	动能类型伤害提升%s%%	動能類型傷害提升%s%%	動力系ダメージ+%s%%	KP 유형 대미지가 %s%% 증가한다.	Kinetic DMG +%s%%						0	
+SuperpowersDamageBonus	特异类型伤害提升%s%%	特異類型傷害提升%s%%	特異系ダメージ+%s%%	혼돈 유형 대미지가 %s%% 증가한다.	Chaos DMG +%s%%						0	
+AllDamageBonus	全类型伤害提升%s%%	全類型傷害提升%s%%	全タイプの与ダメージ+%s%%	모든 유형 대미지가 %s%% 증가한다.	All types of DMG +%s%%						0	
+NormalEnergySpeedPer	常规能量回复速度加成提升%s%%	常規能量回復速度加成提升%s%%	通常EP回復速度ボーナス+%s%%	일반 에너지 회복 속도 보너스가 %s%% 증가한다.	S-Energy Recovery Bonus +%s%%						0	
+SkillCDQuick	技能急速增加%s	技能急速增加%s	スキルヘイスト+%s	스킬 가속이 %s 증가한다.	Skill Haste +%s						0	
+ShootMastery	同调指数增加%s	同調指數增加%s	同調値+%s	싱크로율 인덱스가 %s 증가한다.	Alignment Index +%s						0	
+SkillMastery	同调指数增加%s	同調指數增加%s	同調値+%s	싱크로율 인덱스가 %s 증가한다.	Alignment Index +%s						0	
+ShootDamageBonus	射击伤害提升%s%%	射擊傷害提升%s%%	射撃ダメージ+%s%%	사격 대미지가 %s%% 증가한다.	Ballistic DMG +%s%%						0	
+SkillDamageBonus	技能伤害提升%s%%	技能傷害提升%s%%	スキルダメージ+%s%%	스킬 대미지가 %s%% 증가한다.	Skill DMG +%s%%						0	
+HealBonus	治疗加成提升%s%%	治療加成提升%s%%	治療量ボーナス+%s%%	치유 보너스가 %s%% 증가한다.	Healing Bonus +%s%%						0	
+ShieldDynamicAddtion	护盾构建效能提升%s%%	護盾構建效能提升%s%%	シールド構築効果+%s%%	실드 생성률이 %s%% 증가한다.	Shield Construction Efficiency +%s%%						0	
+ElemExplosionRateAddtion	剧变能量积累速度提升%s%%	劇變能量累積速度提升%s%%	劇変エネルギー蓄積速度+%s%%	오버차지 누적 속도가 %s%% 증가한다.	Volatility Energy Accumulation Speed +%s%%						0	
+CharacterEnergyMax	爆发能量上限增加%s	爆發能量上限增加%s	爆発EP上限+%s	최대 부스터가 %s 증가한다.	Max U-Energy limit +%s						0	

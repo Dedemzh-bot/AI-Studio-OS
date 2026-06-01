@@ -1,0 +1,83 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	夜。	夜。	夜。	밤.	At night...						0	3.4版本米娅好感度故事
+2	我的意思是，我们的故事不会迎来结局，一切的美好都将无限延续。	我的意思是，我們的故事不會迎來結局，一切的美好都將無限延續。	言いたいのはな、私たちの物語に、エンディングなんて来ないってことだ。いま「きれいだ」と思えるものは、これから先も、無限に続いていく。	우리 이야기에 결말은 없어. 아름다운 모든 것들은 끝없이 계속될 거야.	What I'm saying is, our story will never end. All the wonderful things will go on forever.						0	
+3	对米娅而言，我白天大概说了一句说了相当不得了的话吧。	對米婭而言，我白天大概說了一句說了相當不得了的話吧。	ミアにとっては、私は昼間、とんでもないひと言を口にしたのだろう。	낮에 내가 했던 말이 미아에게는 꽤나 대단하게 느껴졌던 모양이다.	To Mia, I probably said something pretty extraordinary during the day.						0	
+4	可以预料到，米娅今晚一定会在这句话上做文章。	可以預料到，米婭今晚一定會在這句話上做文章。	今夜、彼女がこのセリフを何度も持ち出してくると予想がつく。	미아가 오늘 밤 이 말을 빌미로 뭔가 꾸밀 거라는 건 불 보듯 뻔한 일이었다.	I could almost see Mia making a big deal out of it tonight.						0	
+5	如今的我正躺在海姆达尔宿舍的床上，闭上双眼，细心倾听着空气中的声音。	如今的我正躺在海姆達爾宿舍的床上，閉上雙眼，細心傾聽著空氣中的聲音。	今の私は、ヘイムダル寮のベッドに横になり、目を閉じて、空気の気配にそっと耳を澄ませている。	지금 나는 헤임달 숙소의 침대에 누워 눈을 감고 공기 중의 소리에 귀를 기울이고 있었다.	Right now, I was lying in my bed, eyes closed, carefully listening to the sounds in the air.						0	
+6	——快要到了和米娅约定好的时间了，照她的说法，九点半这一刻，她将给我一个意想不到的惊喜。	——快要到了和米婭約定好的時間了，照她的說法，九點半這一刻，她將給我一個意想不到的驚喜。	――そろそろ、ミアとの約束の時間だ。彼女の話では、九時半になったら、とびきりのサプライズを用意しているらしい。	…미아와 약속한 시간이 거의 다 됐다. 그녀는 9시 반 이 순간, 나에게 깜짝 놀랄 서프라이즈를 주겠다고 했었다.	It was almost the time Mia and I agreed on. According to her, at nine-thirty sharp, she was going to give me a surprise.						0	
+7	至于惊喜是什么……我早已心里有数。	至於驚喜是什麼……我早已心裡有數。	その「サプライズ」が何なのか。正直、もう見当はついている。	그리고 그 서프라이즈라는 것이 무엇인지는… 이미 짐작했다.	As for what the surprise was... I already had a pretty good idea.						0	
+8	毕竟我太了解米娅是个什么样的女孩了。	畢竟我太了解米婭是個什麼樣的女孩了。	ミアがどういう女の子かぐらい、よく知っているからだ。	뭐, 나는 미아가 어떤 소녀인지 너무 잘 아니까.	I knew all too well what kind of girl Mia was.						0	
+9	一定是……一定是分析员太用力的原因！对，一定是这样！	一定是……一定是分析員太用力的原因！對，一定是這樣！	ぜ、絶対さ……絶対、分析員がやりすぎなだけなんだってば！うん、絶対そう！	분명… 분명 분석가가 너무 세게 한 거야! 그래, 분명 그거야!	It's definitely... definitely because you went overboard! Yeah, that has to be it!						0	
+10	哦？你真这么认为？	哦？你真這麼認為？	ほう、本気でそう思っているのか。	오호? 정말 그렇게 생각해?	Oh? You really think so?						0	
+11	唔……那肯定是因为现实和歧路宇宙里不一样……	唔……那肯定是因為現實和歧路宇宙裡不一樣……	うぅ……き、きっとね、現実と岐路宇宙じゃ勝手が違うってことだし……	으… 분명 현실이랑 크로스버스 안이랑 달라서 그런 거라고…	Urgh... it must be how different reality and Divergent Cosmos are...						0	
+12	或许是那时候没能在我手下撑过十分钟的缘故，垂头丧气的米娅心里总想着要在我面前证明自己。	或許是那時候沒能在我手下撐過十分鐘的緣故，垂頭喪氣的米婭心裡總想著要在我面前證明自己。	――あのとき、私の手で十分ともたなかったのが、よほど悔しかったのだろう。肩を落としたミアは、以来ずっと、「今度こそ見返してやる」と心のどこかで燃えてる。	그때 내 손에서 10분을 버티지 못한 탓에 풀이 죽었을 거고, 그렇기 때문에 내 앞에서 자신을 증명하고 싶어 했을 것이다.	Maybe because she hadn't managed to last even ten minutes in my hands back then, the dejected Mia had been fixated on proving herself.						0	
+13	——给她这么一个机会倒也不是不可以。	——給她這麼一個機會倒也不是不可以。	彼女に、そのチャンスをあげない理由はない。	…그녀에게 기회를 주는 것도 안 될 건 없었다.	And there was no harm in giving her that chance.						0	
+14	果真，没过多久，黑暗处便传来了一阵不和谐的韵律。	果真，沒過多久，黑暗處便傳來了一陣不和諧的韻律。	案の定、そう長く待たないうちに、闇の中から場違いなリズムが聞こえてきた。	과연, 얼마 지나지 않아 어둠 속에서 조화롭지 못한 음률이 들려왔다.	Sure enough, a faint, discordant rhythm soon rose from the darkness.						0	
+15	那声音像是某只小动物正在附近某处伺机而动，窸窸窣窣，趁着夜色悄悄徘徊。	那聲音像是某隻小動物正在附近某處伺機而動，窸窸窣窣，趁著夜色悄悄徘徊。	それは、身を潜めた小動物がどこかで機会をうかがっているような、かすかな物音だった。夜の匂いに紛れて、こそこそと徘徊している。	그 소리는 마치 어떤 작은 동물이 근처 어딘가에서 기회를 엿보며 바스락바스락 어두운 밤을 틈타 살금살금 배회하는 것 같았다.	It sounded like a small animal lurking nearby, rustling softly as it prowled in the darkness.						0	
+16	它在观察我，或者……她想袭击我。	它在觀察我，或者……她想襲擊我。	私の様子をうかがっているのか。それとも――「襲いかかる」つもりなのか。	녀석은 나를 관찰하고 있거나… 아니면 나를 습격하려는 계획이리라.	She was watching me, or... waiting to pounce.						0	
+17	于是偶有熟悉的气息掠过我的鼻尖，我品了品，那是无数次萦绕在我枕侧的芳香。	於是偶有熟悉的氣息掠過我的鼻尖，我品了品，那是無數次縈繞在我枕側的芳香。	やがて、どこかで嗅ぎ慣れた香りが、ふっと鼻先をかすめた。枕元で何度も吸い込んだ、あの甘い香りだ。	그런 이유 탓에 익숙한 향기가 내 코끝을 스쳐 지나갔다. 그것은 몇 번이고 내 베개 근처를 맴돌던 향기였다.	Every now and then, a familiar scent brushed past the tip of my nose. I savored it, recognizing the fragrance that had lingered beside my pillow countless times.						0	
+18	——我想我早就知道那是谁了。	——我想我早就知道那是誰了。	――誰なのかなんて、とっくに分かっている。	…상대가 누군지는 이미 짐작하고 있었다.	I already knew who it was.						0	
+b-1											0	
+19	米娅……？	米婭……？	ミア……？	미아…?	Mia...?						0	
+20	你猜猜？	你猜猜？	当ててみて～？	맞혀봐?	Take a guess.						0	
+21	于是它飘飘忽忽地接近，在我耳边轻轻一啄，吐出温热芳香的气息后，又耀武扬威地离去。	於是它飄飄忽忽地接近，在我耳邊輕輕一啄，吐出溫熱芳香的氣息後，又耀武揚威地離去。	声は、ふわふわと揺れながら近付いてくる。耳元にそっと嘴を当て、温かい吐息だけを残して、また、勝ち誇ったように離れていった。	유영하듯 내게 다가온 그것은 내 귓가를 간질이며 따뜻하고 향긋한 숨결을 내뿜고는 의기양양하게 떠나갔다.	Then the sound drifted closer, light and fluttery. Something pecked gently at my ear, exhaled a warm, fragrant breath, and triumphantly pulled away.						0	
+22	我睁开双眼，恍惚间可见少女的脸蛋和垂落的粉色发丝。脑袋就那么轻轻一歪，她的双眸也闪烁在夜色里，仿佛激起水波中某种跃动的、焦躁不安的浪花。	我睜開雙眼，恍惚間可見少女的臉蛋和垂落的粉色髮絲。腦袋就那麼輕輕一歪，她的雙眸也閃爍在夜色裡，彷彿激起水波中某種躍動的、焦躁不安的浪花。	そっと目を開け、視界の端に月明かりの少女の横顔とさらり垂れたピンクの髪が映る。首をかしげるたびその瞳がきらり揺れ、不安と高鳴りが水面波紋のように混じる。	눈을 뜨자 소녀의 얼굴과 아래로 늘어진 분홍색 머리칼이 어렴풋이 보였다. 머리를 살짝 기울인 채 어두운 밤 두 눈을 반짝이는 모습이 마치 수면에 일렁이는, 들뜬 것 같으면서도 초조해하는 물결 같았다.	I opened my eyes. In a daze, I caught a glimpse of her face, pink hair falling down. Her head tilted slightly, and her eyes shimmered in the darkness, like restless little waves stirring.						0	
+23	呀？分析员你醒啦？	呀？分析員你醒啦？	あれっ？分析員、起きてたんだ？	어라? 분석가, 깼어?	Eek? Adjutant, you're awake?						0	
+24	月光落了下来，米娅的皮肤仿佛是透明的。	月光落了下來，米婭的皮膚彷彿是透明的。	窓から落ちる月光を浴びて、ミアの肌はほとんど透き通るように白い。	달빛 아래 미아의 피부는 투명해 보였다.	Moonlight poured down, making Mia's skin look almost transparent.						0	
+25	你的惊喜不会指的是夜袭吧？	你的驚喜不會指的是夜襲吧？	そのサプライズというのは……まさか、夜這いのことではないだろうな？	네가 말한 서프라이즈라는 게 야습은 아니겠지?	The "surprise" you mentioned wouldn't happen to be sneaking into my bed, would it?						0	
+26	那我可早就猜到了。	那我可早就猜到了。	それなら、もうとっくに分かっている。	그런 거라면 이미 짐작하고 있었어.	In that case, I saw it coming.						0	
+27	哇呼——答对了！我还以为会不小心偷袭成功呢——	哇呼——答對了！我還以為會不小心偷襲成功呢——	ワフーー正解～！あたし、こっそり成功したと思ったのになぁ～	와후!! 맞았어! 기습 성공인 줄 알았더니…	Waahoo — Bingo! And here I thought I might actually get away with sneaking—						0	
+28	你承认你偷袭了。	你承認你偷襲了。	自分で「こっそり」と言っている時点で、完全に奇襲だが。	기습이라고 인정하네.	So you were sneaking into my bed.						0	
+29	不不不，这才不是偷袭呢！	不不不，這才不是偷襲呢！	ち、違うし！これはぜんっぜん、奇襲とかじゃないんだから！	아니, 아니. 이건 기습이 아니야!	No, no, I wouldn't call this sneaking!						0	
+30	我只是——	我只是……	あたしはただ――	난 그냥…	I just—						0	
+31	让美好有一个延续而已。	讓美好有一個延續而已。	「いい時間を、ちゃんとつなげていく」だけ、だよ？	아름다운 순간을 계속 이어가고 싶었을 뿐이야.	I just wanted to keep all the wonderful things going.						0	
+32	我记得这是你的原话哦~	我記得這是你的原話哦~	ね、これも、分析員のセリフそのまんまなんよね～？	네가 한 말로 기억하는데~	Your exact words~						0	
+33	让美好有一个延续……你想要一个什么样的延续？	讓美好有一個延續……你想要一個什麼樣的延續？	「きれいな時間をつないでいく」か。ミアは、どんなふうに続けたいんだ？	아름다운 순간을 계속 이어간다라… 어떤 식으로 이어가고 싶은 건데?	Keep the wonderful things going... What did you have in mind?						0	
+34	我明知故问。	我明知故問。	分かっていながら、あえて尋ねる。	나는 알면서도 그녀에게 물었다.	I asked, even though I already knew the answer.						0	
+35	就是那种延续啦——可能稍微有点色色的吧。	就是那種延續啦——可能稍微有點色色的吧。	そんなの、決まってるじゃん……ちょ～っとだけ、えっちな続き、だよ。	그냥 이어가는 거지… 조금 야하게.	You know, the passionate, sweet kind of thing.						0	
+36	就像是……这样？	就像是……這樣？	たとえばさ――こんな感じ？	뭐… 이렇게?	Something like... this?						0	
+37	她伸出左手的食指，慢慢悠悠地在嘴唇边划了一圈又一圈，似乎正在暗示……不，是明示某种亲密行为。	她伸出左手的食指，慢慢悠悠地在嘴唇邊劃了一圈又一圈，似乎正在暗示……不，是明示某種親密行為。	ミアは左手の人差し指を持ち上げ、ゆっくりと唇の輪郭をなぞりはじめる。ぐるり、ぐるりと円を描くその動きは、遠回しどころか、もはや露骨な「お誘い」だ。	그녀는 왼손 검지를 내밀어 천천히 입술 주변을 빙글빙글 그렸다. 어떤 친밀한 행위를 은근하게… 아니, 노골적으로 표현하고 있었다.	She extended her left index finger and slowly traced circles along her lips, as if hinting at — no, plainly suggesting — a certain kind of intimacy.						0	
+38	我笑了笑。	我笑了笑。	小さく笑みをこぼす。	나는 웃음을 지었다.	I smiled.						0	
+39	那我再来回应一次你白天所说的话语吧。	那我再來回應一次你白天所說的話語吧。	じゃあ、昼間ミアが言ってくれた言葉に、もう一度ちゃんと返事をしよう。	그럼 낮에 네가 한 말에 다시 한번 답해줄게.	Then let me answer what you said during the day one more time.						0	
+40	我喜欢你，米娅。我再说一遍，我喜欢你。	我喜歡你，米婭。我再說一遍，我喜歡你。	私はミアのことが好きだ。	네가 좋아, 미아. 다시 한번 말할게, 널 좋아해.	I love you, Mia. I'll say it again, I love you.						0	
+41	她居然愣了一愣，随即脸颊泛上红晕来。	她居然愣了一愣，隨即臉頰泛上紅暈來。	彼女はきょとんと目を瞬き、それから頬にじわりと紅が差していく。	순간 멈칫한 그녀는 이내 뺨을 붉혔다.	She actually froze for a second, then a blush slowly spread across her cheeks.						0	
+42	诶？那我……那我就要更喜欢你！	誒？那我……那我就要更喜歡你！	えっ？じゃ、じゃああたしは……もっと好きになるしかないじゃん……！	에? 그럼 내가… 내가 더 좋아할 거야!	What? I... then I love you more!						0	
+43	哦？有多喜欢？	哦？有多喜歡？	ほう？どれぐらい「もっと」なんだ？	오? 얼마나?	Really? How much more?						0	
+44	比你多一百倍的那种喜欢！	比你多一百倍的那種喜歡！	分析員の百倍ぐらい、バカみたいに大好きってこと！	너보다 백 배 더!	A hundred times more!						0	
+45	一百倍？展示给我看？	一百倍？展示給我看？	百倍か。じゃあ、ちゃんと形にして見せてもらおうか。	백 배? 보여줄 수 있어?	A hundred times? Care to show me?						0	
+46	——我这句话听起来多少有些挑衅的意味了。	——我這句話聽起來多少有些挑釁的意味了。	――我ながら、少し挑発が過ぎた言い方だったかもしれない。	…다소 도발적인 뉘앙스가 담긴 말투로 물었다.	Even I had to admit it sounded like a challenge.						0	
+47	米娅闻言眨了眨眼，眉头轻轻一挑，似乎接受了我的宣战。	米婭聞言眨了眨眼，眉頭輕輕一挑，似乎接受了我的宣戰。	ミアはぱちぱちと瞬きをしてから、すっと目尻を上げる。その仕草は、挑戦状を正面から受け取った証のようだった。	미아는 눈을 깜빡이더니 곧 눈썹을 살짝 치켜올렸다. 아무래도 내 선전포고를 받아들인 듯했다.	Mia blinked at that, the corner of her brow lifting slightly as if she'd accepted.						0	
+48	那……你可要小心了哦？	那……你可要小心了哦？	じゃあ……覚悟しといてよね。	그럼… 조심해야 한다?	Well... Be careful what you wish for~						0	
+49	于是蓦地一抹馨香的气息将我淹没，米娅的发丝落在了我的脸上，勾得我心头一痒。	於是驀然地一抹馨香的氣息將我淹沒，米婭的髮絲落在了我的臉上，勾得我心頭一癢。	甘い香りが胸の奥まで満ちる。ミアの髪先が頬をかすめ、心の中のなにかをめくり上げていった。	순간 향긋한 숨결이 나를 삼키며 미아의 머리칼이 내 얼굴 위로 내려앉았다. 괜히 마음이 간질거렸다.	Suddenly, a wash of sweet fragrance surged over me. Mia's hair spilled across my face, sending a ticklish ripple in my heart...						0	
+50	——但也仅此而已了。	——但也僅此而已了。	――ただ、それだけで終わるはずもなかった。	…하지만 그것도 거기까지였다.	But that was as far as it went.						0	
+51	好像……还不够？	好像……還不夠？	まだ……足りない気がするな。	뭔가… 부족한 것 같은데?	That felt... a bit lacking, don't you think?						0	
+52	既然分析员都这么说了，哼哼~	既然分析員都這麼說了，哼哼~	分析員がそう言っちゃうなら……ふふ、仕方ないなぁ。	분석가가 그렇게 말한다면, 흐흥~	Well, when you put it that way, hmph~						0	
+53	她坏坏地抿了抿嘴唇，身躯轻轻扭动，脸蛋一点一点地靠了过来。	她壞壞地抿了抿嘴唇，身軀輕輕扭動，臉蛋一點一點地靠了過來。	彼女はいたずらっぽく唇を尖らせ、腰をくいっと揺らしてから、少しずつ顔を近付けてくる。	장난스럽게 입술을 문 그녀는 몸을 살짝 비틀더니, 얼굴을 조금씩 가까이 했다.	She bit her lip in a mischievous smile, her body twisting slightly as her face inched closer.						0	
+54	突然之间一切都安静了下来，无论是蝉鸣还是门外的脚步声此刻都消失在了远处。	突然之間一切都安靜了下來，無論是蟬鳴還是門外的腳步聲此刻都消失在了遠處。	ふと、世界から音が消えた気がした。蝉の声も、廊下の足音も、どこか遠くの景色みたいに薄れていく。	갑자기 모든 것이 고요해졌다. 매미 소리도, 문밖의 발소리도, 이 순간 모두 멀리 사라졌다.	All at once, everything went quiet — the cicadas, the footsteps outside the door. Everything seemed to fade into the distance.						0	
+55	发丝犹如帷幕将我的视野包裹，她的眼眸不断接近，如火的吐息轻飘飘地落下……	發絲猶如帷幕將我的視野包裹，她的眼眸不斷接近，如火的吐息輕飄飄地落下……	髪が幕みたいに視界を覆い、向こうで紅い瞳がゆっくり近づいてくる。熱っぽい吐息が肌をなぞるように落ちていく。	머리칼이 장막처럼 내 시야를 감싸고, 그녀의 눈동자는 점점 가까워졌다. 불꽃 같은 숨결이 가볍게 내려앉고…	Her hair fell around me like a curtain, blocking my view. Her eyes drew nearer, her fiery breath drifting over me...						0	
+57	如果是……这样呢？	如果是……這樣呢？	じゃあ……こういうのは、どう？	만약… 이렇게 한다면?	What if... I do this?						0	
+58	她这么轻笑着，手指漫不经心地划过我的嘴唇，带起一丝致命的弧度。	她這麼輕笑著，手指漫不經心地劃過我的嘴唇，帶起一絲致命的弧度。	くすりと笑いながら、ミアの指先が私の唇をなぞる。そこに生まれた小さな弧は、妙に、喉の奥に刺さる曲線だった。	그녀는 가볍게 웃으며 손가락으로 무심하게 내 입술을 스쳐 치명적인 곡선을 그렸다.	She chuckled softly, her fingertip wandering across my lips, sketching a dangerously seductive curve.						0	
+b-2											0	
+59	你是指什么？	你是指什麼？	何の話だ？	뭘 말하는 거야?	What exactly do you mean?						0	
+60	我注视着那双桃红色的眸子，并未沦陷于她的攻势之中。	我注視著那雙桃紅色的眸子，並未淪陷於她的攻勢之中。	紅い瞳をまっすぐに見返す。	나는 복숭아빛 눈동자를 주시하며 그녀의 공세에 넘어가지 않았다.	I met her rosy gaze head-on, refusing to be swept away by her advance.						0	
+61	随着我一再与她的视线相交，那眼眸中跳动的红色光芒由跃跃欲试转为惊愕，随即化作茫然。	隨著我一再與她的視線相交，那眼眸中跳動的紅色光芒由躍躍欲試轉為驚愕，隨即化作茫然。	視線を絡めるたび、その色は挑発から驚きへ、そして戸惑いへと、目まぐるしく表情を変えていく。	그녀와 다시금 시선이 마주치자, 눈동자 속에서 춤추던 붉은 빛이 도약에서 경악으로, 그리고 다시 당황으로 변했다.	The more our eyes met, the more that red glow in her eyes shifted from eager to startled, then slowly to bewilderment.						0	
+62	诶？居然……？	誒？居然……？	えっ？うそ……？	에? 설마…?	Eh? You're actually...?						0	
+63	她的声音有些诧异。	她的聲音有些詫異。	困惑を含んだ声が、月明かりのなかで震える。	그녀의 목소리에서 놀란 감정이 느껴졌다.	Her voice held clear surprise.						0	
+64	没什么。	沒什麼。	いや。	별거 아니야.	You're doing fine.						0	
+68	我是说，我喜欢你眼睛里的红色。	我是說，我喜歡你眼睛裡的紅色。	さっきからずっと思っていた。ミアの目の、その赤が好きだ。	네 눈동자 속의 붉은색이 좋다고.	I love the shade of red in your eyes.						0	
+69	似是有那么些措手不及，原本充满攻击性的姿态化作了少女的娇柔，她就那样蜷成一团，无辜地看着我，像是一只受欺负的小动物。	似是有那麼些措手不及，原本充滿攻擊性的姿態化作了少女的嬌柔，她就那樣蜷成一團，無辜地看著我，像是一隻受欺負的小動物。	不意を突かれたように、さっきまで攻める側だったはずの彼女があっという間に丸く縮こまり、小動物みたいな顔でこちらを見上げてきた。	미아는 당황한 듯, 원래 공격적이던 자세는 연약한 소녀의 모습으로 바뀌었다. 몸을 움츠린 채 억울한 눈빛으로 나를 바라보는 그녀는 마치 괴롭힘당하는 작은 동물 같았다.	Mia seemed to be caught off guard by my words, and the aggressive posture she'd had moments ago melted into girlish tenderness. She curled in on herself, looking up at me with wide, innocent eyes, like a small animal that had just been bullied.						0	
+70	我是说，我喜欢你说话时的声音。	我是說，我喜歡你說話時的聲音。	ミアの声も好きだ。話すたびに弾む、その響きが。	말할 때의 네 목소리가 좋다고.	I love your voice when you talk.						0	
+71	少女眨了眨眼睛，微张着唇。	少女眨了眨眼睛，微張著唇。	彼女はぱちりと瞬きをし、唇をわずかに開いた。	소녀는 눈을 깜빡이며 입을 살짝 벌렸다.	Mia blinked, her lips slightly parted.						0	
+72	我是说，我喜欢你呼吸里的温度。	我是說，我喜歡你呼吸裡的溫度。	それから、ミアの息の熱さも好きだ。こうして、すぐそばで触れてくる温度が。	네 숨결의 온도가 좋다고.	I love the warmth in your breath.						0	
+73	不要说那种令人害羞的话啦——	不要說那種令人害羞的話啦——	そ、そういう恥ずかしい台詞は、反則なんよねぇ……	부끄럽게 그런 말 하지 마…	Stop saying embarrassing stuff like that—						0	
+74	这么轻声呢喃着，动人心魄的桃红色似乎溢出了眼角，迅速在她的脸颊处蔓延开来。	這麼輕聲呢喃著，動人心魄的桃紅色似乎溢出了眼角，迅速在她的臉頰處蔓延開來。	囁きとともに、桃色の光が目尻からこぼれ、頬一面にぱっと広がっていく。	그렇게 나지막이 중얼거리자, 마음을 흔드는 복숭아빛이 눈가에서 흘러넘쳐 그녀의 볼에 빠르게 번져갔다.	She whispered it so softly, and that breathtaking rosy color seemed to spill from the corners of her eyes, rapidly spreading across her cheeks.						0	
+77	她慌张地用手捂住脸，似是不太敢看我。透过手指的缝隙，我依稀可见她噙着泪花的双眸。	她慌張地用手摀住臉，似是不太敢看我。透過手指的縫隙，我依稀可見她噙著淚花的雙眸。	彼女はあわてて両手で顔を隠そうとする。指の隙間からのぞく瞳には、涙の粒がきらりと光っていた。	당황한 듯 손으로 얼굴을 가린 그녀는 나를 차마 보지 못하는 듯했다. 손가락 사이로 어렴풋이 눈물 어린 그녀의 눈동자가 보였다.	Flustered, she covered her face with both hands, as if she didn't quite dare look at me. Through the gaps between her fingers, I could just make out the tears welling in her eyes.						0	
+78	等，等等啦，我还得准备一下……	等，等等啦，我還得準備一下……	ま、待って……ちょっとだけ、心の準備……	기, 기다려. 나 좀 준비할 시간이 필요해…	W—Wait a sec. Let me get ready...						0	
+80	等等？	等等？	待つ？	기다려?	Wait?						0	
+81	你这么说，我可就停下了。	你這麼說，我可就停下了。	今の言い方だと、ここでやめておいたほうが良さそうだな。	그렇게 말하면, 나 멈춘다.	Alright, I can wait.						0	
+82	诶？	欸？	えっ？	응?	Huh?						0	
+103	她没能继续说下去，因为下一个瞬间，我用吻堵住了她颤抖的嘴唇。	她沒能繼續說下去，因為下一個瞬間，我用吻堵住了她顫抖的嘴唇。	それ以上続けさせないように、私は唇を重ねた。今度の口づけは、さっきまでとはまるで違う。	그녀는 말을 잇지 못했다. 다음 순간, 떨리는 그녀의 입술을 막아버린 나의 키스 때문에.	She couldn't get the rest out, because in the next instant, I sealed her trembling lips with a kiss.						0	
+104	那个吻极深极重，是我倾尽了一切的，甚至要将灵魂都注入其中的爱恋。	那個吻極深極重，是我傾尽了一切的，甚至要將靈魂都注入其中的愛戀。	深く、強く、逃げ場も残さず、ありったけの想いを押し込めていく。息も声も奪って、ただ彼女の名前だけが、心のなかで何度も反響した。	그것은 아주 깊고 진한 키스였다. 내 모든 것을 쏟아부은, 영혼마저 넣어주려는 사랑이었다.	The kiss was deep and heavy, carrying everything I had, so full of love it felt as though even my soul was pouring into it.						0	
+105	没有更多的言语，只是月色无声地将这对相拥的恋人笼罩在银色月华下。	沒有更多的言語，只是月色無聲地將這對相擁的戀人籠罩在銀色月華下。	言葉はいらない。ただ静かな月光が、寄り添う二人を銀の輝きで包み込んでいる。	더 이상의 말은 없었다. 그저 달빛이 아무 말 없이 서로를 끌어안은 두 사람을 은빛으로 감싸고 있었다.	There was no need for more words. Moonlight fell in silence, bathing us in silver as we held each other close.						0	
+106	——直至夜尽天明。	——直至夜盡天明。	――そして、夜が明けていくまで。	…밤이 다하고 날이 밝을 때까지.	—Until night gave way to dawn.						0	

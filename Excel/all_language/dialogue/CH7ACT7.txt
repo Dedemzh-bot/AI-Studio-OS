@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我准备动手了。	我準備動手了。	準備OK。いつ動く？	이쪽은 시작할 준비됐어.	I'm ready to go.						0	
+2	那我们这边也准备开始了。	那我們這邊也準備開始了。	分かった。全員準備を！	그럼 우리도 곧 시작할게.	Then we're ready to start too.						0	
+auto_5943	一起行动，不要让萨特有溜走的机会。	一起行動，不要讓薩特有溜走的機會。	同時に動くんだ。サルトルに逃げるチャンスを与えるな！	한 번에 움직여서 사르트르가 도망가지 못하도록 해야 해.	We act together. Don't let Sartre slip away.						0	

@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，凶手是那个研究员。	分析員，兇手是那位研究員。	分析員さん、犯人はあの研究員ですよ。	분석가님, 그 연구원이 범인이에요.	Adjutant, the researcher is the murderer.						0	2.8版本随机事件
+page1.2	不可能，她有不在场证明。	不可能，她有不在場證明。	ありえないな。彼女には確かなアリバイがある。	그럴 리 없어, 그 사람은 알리바이가 있잖아.	No way! She has an alibi.						0	2.8版本随机事件
+page1.3	那封邮件的时间是伪造的。	那封信件的時間是偽造的。	あのメールの送信時刻は偽装なんです。	그 이메일의 시간은 조작된 거예요.	The timestamp on the email was forged.						0	2.8版本随机事件
+page1.4	但法医报告说——	但法醫報告說——	だけど、検死報告では――	하지만 법의학 보고서에 따르면…	But the autopsy report says...						0	2.8版本随机事件
+page1.5	死者指甲里有纤维！第三章提到研究员戴着羊毛手套。	死者指甲裡有纖維！第三章提到研究員戴著羊毛手套。	被害者の爪には繊維が……！第3章で、あの研究員がウールの手袋をつけていると書かれていましたよね。	시신의 손톱에서 섬유가 발견됐죠! CHAPTER III에서는 연구원이 양모 장갑을 끼고 있었다고 했고요.	There were fibers under the victim's nails! In Chapter 3, the researcher is described as wearing wool gloves.						0	2.8版本随机事件
+page1.6	薇蒂雅突然凑近。	薇蒂雅突然湊近。	ヴィディアがぐっと顔を近づけてくる。	비디야가 갑자기 다가왔다.	Vidya suddenly leaned in.						0	2.8版本随机事件
+page1.7	分析员该不会是……还没看到这里吧？	分析員該不會是……還沒看到這裡吧？	もしかして……ここ、まだ読んでいませんでした？	분석가님은 아직… 여기까지 보지 못한 거예요?	Don't tell me... you haven't read that far yet?						0	2.8版本随机事件
+page1.9	我刚看到迷宫收藏室那段……	我剛看到迷宮收藏室那段……	今ちょうど『迷宮の収蔵室』のとこだけど。	난 아까 미로 수장고 부분을 보고 있었는데…	I've just reached the part with the archive in the maze...						0	2.8版本随机事件
+page1.10	那我来剧透好了——其实……	那我來劇透好了——其實……	じゃあ、ネタバレしちゃいますね♡ 実は犯人は——	그럼 스포일러를 해줄게요. 사실…	Let me fill you in then! So, it turns out...						0	2.8版本随机事件
+page1.11	停！我自己看！	停！我自己看！	待った！自分で読む！	안 돼! 내가 직접 볼 거야!	STOP! No spoilers!						0	2.8版本随机事件
+page1.12	不过，我看扉页有隐藏的线索——凶手的生日，我家的侦探小姐解出来了吗？	不過，我看扉頁有隱藏的線索——兇手的生日，我家的偵探小姐解開了嗎？	けど、扉ページに隠しヒントはあるだろ、犯人の誕生日。うちの名探偵さんはもう解けたかな？	그런데 표지에 숨겨진 단서가 있어. 범인의 생일 말이야. 우리 탐정 아가씨, 눈치챘어?	Although, I did spot a hidden clue on the title page: the killer's birthday. Ring any bells, detective?						0	2.8版本随机事件
+page1.13	那个日子太特殊了，和我们第一次出任务的日期一样。	那個日子太特殊了，跟我們第一次出任務的日期一樣。	ええ、とても特別な日でしたから。私たちが初めてミッションに出た日と同じで。	아주 특별한 날이죠. 우리가 처음으로 임무를 수행한 날과 같거든요.	Who could forget a date like that? It's the same day we went on our first mission.						0	2.8版本随机事件
+page1.14	记得这么清楚？	記得這麼清楚？	よく覚えていたな。	아주 정확히 기억하네?	I'm surprised you remember it.						0	2.8版本随机事件
+page1.15	毕竟~我可是真正的名侦探。	畢竟~我可是真正的名偵探。	もちろんですよぉ♪、だって私は本物の名探偵ですもの。	당연하죠~ 저는 진정한 명탐정이니까요.	Of course! I'm a real detective after all.						0	2.8版本随机事件

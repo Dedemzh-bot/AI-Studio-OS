@@ -1,0 +1,173 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	虚构的怪物在模拟空间中湮灭。眼前的画面定格，变成雪花，然后被完全的黑暗所笼罩。	虛構的怪物在模擬空間中湮滅。眼前的畫面定格，變成雪花，然後被完全的黑暗所籠罩。	虚構のモンスターは模擬空間で霧散する。目の前の画面は固まり、風花となって、完全な暗闇にかき消される。	가상의 괴물이 시뮬레이션 공간에서 소멸되었다. 눈앞의 화면이 멈추고 눈송이처럼 흩어지더니, 완전한 어둠에 잠겼다.	The simulated monsters vanished into the virtual space. The image froze, flickered into static, and was swallowed by absolute darkness.						0	3.2版本新序章
+2	这几天几乎一直待在模拟舱里。睁开眼，连训练室的光线也变得刺眼。	這幾天幾乎一直待在模擬艙裡。睜開眼，連訓練室的光線也變得刺眼。	ここ数日、ずっとシミュレーションポッドの中にいたため、目を開けば、久しぶりに見る訓練室の光まで眩しく感じた。	며칠째 거의 시뮬레이션 캡슐 안에만 있었다. 눈을 떠보니 훈련실의 불빛조차 눈부시게 느껴졌다.	I'd spent the last few days almost entirely inside the simulation pod. When I opened my eyes, even the training room lights felt blinding.						0	3.2版本新序章
+3	——终于结束了。	——終於結束了。	――やっと終わった。	… 드디어 끝났다.	And now, it was finally over.						0	3.2版本新序章
+4	我叫playername，现在在<snowbreak>世界树公司</>担任分析员一职，同时也是<snowbreak>海姆达尔部队</>的最高长官。	我叫playername，現在在<snowbreak>世界樹公司</>擔任分析員一職，同時也是<snowbreak>海姆達爾部隊</>的最高長官。	私はplayername。今は<snowbreak>ユグドラシル社</>で分析員兼<snowbreak>ヘイムダル部隊</>最高責任者を務めている。	내 이름은 playername. 현재 <snowbreak>위그드라실</>의 분석가로 일하고 있으며, <snowbreak>헤임달 부대</>의 최고 장관이기도 하다.	My name is playername — Adjutant of <snowbreak>Yggdrasil Enterprises</>, and commanding officer of the <snowbreak>Heimdall Force</>.						0	3.2版本新序章
+5	两周前接到消息，朔州的<snowbreak>“树”</>发生了异动。为此，公司策划了拔除“树”的行动，我和队员们为此开始了长达两周的环境压力训练。	兩週前接到消息，朔州的<snowbreak>「樹」</>發生了異動。為此，公司策劃了拔除「樹」的行動，我和隊員們為此開始了長達兩週的環境壓力訓練。	二週間前、朔州の<snowbreak>「デンドロン」</>に異変が起きたという情報を得た。そのため、会社は「デンドロン」を取り除こうと動き出し、私と隊員たちは極限環境に慣れるためのトレーニングを行うことになった。	2주 전, 삭주의 <snowbreak> '나무'</>에 이상 징후가 발생했다는 소식을 받았다. 회사는 '나무' 제거 작전을 계획했고, 나와 대원들은 그 계획을 위해 2주에 달하는 환경 스트레스 훈련을 시작했다.	Two weeks ago, we received word of a spike in activity of <snowbreak>the Tree</> in Shuozhou. Yggdrasil launched an eradication plan, and my operatives and I began two weeks of intensive environmental stress training.						0	3.2版本新序章
+6	从模拟舱中坐起，撑着头。有手伸过来，一边搭在我的肩头，另一边慢慢揉着我的眉头。	從模擬艙中坐起，撐著頭。有手伸過來，一邊搭在我的肩膀，另一邊慢慢揉著我的眉頭。	シミュレーションポッドの中から起き上がり、私は腕で頭を支えた。すると、横から誰かが私の肩に手を置いて、もう片方の手で私の眉間を擦ってくれた。	시뮬레이션 캡슐에서 일어나 머리를 짚었다. 그때 누군가 한쪽 손을 내 어깨 위에 얹고, 다른 한쪽 손으로 천천히 내 미간을 문질렀다.	I sat up in the pod, steadying my head. Two delicate hands reached over — one on my shoulder, the other gently rubbing my brow.						0	3.2版本新序章
+7	辛苦了。	辛苦了。	お疲れさま。	수고했어.	You've worked hard, darling.						0	3.2版本新序章
+8	是里芙的声音，我的队员，也是最亲密的人之一。	是里芙的聲音，我的隊員，也是最親密的人之一。	リフの声だ。彼女は私の隊員であり、私の大事な人の一人だ。	리브의 목소리다. 내 대원이자, 가장 가까운 사람 중 하나다.	It was Lyfe's voice — my operative, and someone I was especially close to.						0	3.2版本新序章
+9	只要下达命令，她就会毫不犹豫地执行、完成。我们不知道一起度过了多少次难关。	只要下達命令，她就會毫不猶豫地執行、完成。我們不知道一起度過了多少次難關。	私の命令を、彼女はいつだって躊躇なく執行してくれる。そんな彼女と一緒に、数えきれないほどの苦境を乗り越えてきた。	명령만 내리면 주저 없이 실행하고 완수한다. 함께 얼마나 많은 난관을 넘겼는지 모른다.	One word from me, and she'd act without hesitation. We'd survived more close calls than I could count.						0	3.2版本新序章
+10	我依旧闭着眼睛，握住她的手，覆在眼上。	我依舊閉著眼睛，握住她的手，覆蓋在眼上。	私は目を閉じたまま彼女の手を握り、自分の目の上に置いた。	나는 여전히 눈을 감은 채 그녀의 손을 잡아 눈 위에 얹었다.	I kept my eyes closed and guided her hand over them.						0	3.2版本新序章
+11	没办法的事。也许是舍塔刺激了“树”……那次行动之后，朔州的“树”就像疯了似的。	沒辦法的事。也許是θ刺激了「樹」……那次行動之後，朔州的「樹」就像瘋了一樣。	仕方ないだろう。θ（シータ）が「デンドロン」を刺激したせいかもしれない……あの行動以来、朔州の「デンドロン」はずっと様子がおかしかった。	어쩔 수 없지. θ가 '나무'를 자극했나 봐… 그 작전 이후로 삭주의 '나무'가 미친 듯이 변화했어.	We've had no choice... Maybe the Tree was set off by θ. It's been erratic ever since that mission in Shuozhou.						0	3.2版本新序章
+12	那个疯子，她迟早有一天要付出代价。	那個瘋子，她遲早有一天要付出代價。	あの女はいずれ代償を払うことになる。	그 미친 녀석, 언젠간 반드시 대가를 치르게 될 거야.	That maniac. She'll pay for it one day.						0	3.2版本新序章
+13	你感觉怎么样？九十八次模拟训练，一开始真没想到能撑到这个数字。	你感覺怎麼樣？九十八次模擬訓練，一開始真的沒想到能撐到這個數字。	君はどうだった？シミュレーショントレーニングを98回も繰り返すなんて、正直想像以上だったな。	넌 컨디션 어때? 시뮬레이션 훈련을 98번 진행할 줄이야, 처음엔 이 정도까지 버틸 줄 몰랐어.	How are you holding up? Ninety-eight sim runs... I didn't think we'd make it through so many.						0	3.2版本新序章
+14	我很好。这种高压训练也是一种变强的途径。	我很好。這種高壓訓練也是一種變強的途徑。	私は大丈夫。負荷が大きいほど、強くなれるから。	괜찮아. 이런 강도 높은 훈련도 강해지는 방법 중 하나니까.	I'm fine. High-stress training's just another path to getting stronger.						0	3.2版本新序章
+15	这次是针对“树”的特殊训练，以后还是少这样。	這次是針對「樹」的特殊訓練，以後還是少這樣。	今回は「デンドロン」対策として行った特別なトレーニングだ。今後はできるだけしないでおこう。	이번은 '나무'를 대비하기 위한 특수 훈련이었지만, 앞으로는 이러지 않는 게 좋겠어.	This sim was built to put us in a dire situation against the Tree. We shouldn't push ourselves like this too often.						0	3.2版本新序章
+16	过度疲劳消耗太大了。我感觉现在合上眼就能睡着。	過度疲勞消耗太大了。我感覺現在閉上眼就能睡著。	もうくたくただ。目を閉じればすぐに眠れそう。	피로가 너무 많이 쌓였어. 지금 눈만 감으면 잠들 것 같아.	I'm completely drained. Like I'll pass out the second I close my eyes.						0	3.2版本新序章
+17	嗯。	嗯。	ああ。	응.	Mm.						0	3.2版本新序章
+18	达令——我准备了蛋糕，吃点再睡吧？	達令——我準備了蛋糕，吃點再睡吧？	ダ～リン！ケーキを用意したわ。寝るのもいいけど、食べた後にしない？	달링~ 내가 케이크를 준비했는데, 조금만 먹고 잘래?	Darling~! I brought cake! Wanna have a slice before you fall asleep?						0	3.2版本新序章
+19	芬妮的声音传了过来。我睁开眼，透过指缝，看见她从房间门口探着头。	芬妮的聲音傳了過來。我睜開眼，透過指縫，看見她從房間門口探著頭。	ファニーの声が外から聞こえてきた。目を開くと、指の隙間からファニーが部屋の外から顔を覗かせているのが見える。	페니의 목소리가 들렸다. 눈을 뜨고 손가락 사이로 보니, 그녀가 문 앞에서 고개를 내밀고 있었다.	I heard Fenny's voice. I opened my eyes, and through Lyfe's fingers, saw her peeking in from the doorway.						0	3.2版本新序章
+20	她也是我最亲密的人，走到哪里都是耀眼的存在——哪怕是在战场上。	她也是我最親密的人，走到哪裡都是耀眼的存在——哪怕是在戰場上。	彼女も私の大事な人で、戦場ですらも常に人の目を惹くような輝きを持っている。	그녀 역시 나와 가장 가까운 사람 중 하나다. 어디에서나, 전장에서조차 빛나는 존재다.	She was also one of those closest to me. No matter where she was — even on the battlefield — she always stood out like a bright star.						0	3.2版本新序章
+21	不论面对什么困难，她都像一团火一样，见不着一点儿气馁和颓丧。只是看着她，就让我疲惫的精神又有了一股力量。	無論面對什麼困難，她都像一團火一樣，看不到一點氣餒和頹喪。只是看著她，就讓我疲憊的精神又有了一股力量。	どんな困難に直面しても、彼女は燃え盛り、決して諦めず、落ち込むこともない。彼女の姿を見ているだけで、疲れ果てた私の心に、再び力がみなぎってくる。	어떤 어려움에 직면해도 그녀는 불꽃처럼 한 치의 낙담도, 절망도 보이지 않았다. 그녀를 그저 보고만 있어도 지친 내 마음에 새로운 힘이 솟아났다.	No matter what we were up against, she was like fire: never discouraged, never defeated. Just seeing her gave me strength.						0	3.2版本新序章
+22	端到休息室去吧，一起吃。	端到休息室去吧，一起吃。	いいよ。休憩室で一緒に食べようか。	휴게실로 가져가서 다 같이 먹자.	Bring it to the break room. We'll eat it together.						0	3.2版本新序章
+23	对里芙笑了笑，站起身。	對里芙笑了笑，站起身。	私はリフに微笑みかけてから、立ち上がった。	나는 리브를 향해 웃어 보이며 일어섰다.	I smiled at Lyfe, then pushed myself to my feet.						0	3.2版本新序章
+24	换个衣服，洗个澡什么的。半个小时之后休息室集合。	換個衣服，洗個澡什麼的。半個小時之後休息室集合。	風呂に入って、着替えてからいく。30分後、休憩室で集合しよう。	옷 갈아입고, 샤워도 하고. 30분 후에 휴게실에서 보자.	I need to shower and change. Let's meet in the break room in thirty.						0	3.2版本新序章
+25	那我先放冰箱里~	那我先放冰箱裡~	じゃあ、冷蔵庫に入れておくわね～	그럼 먼저 냉장고에 넣어둘게~	Okay~ I'll pop it in the fridge~						0	3.2版本新序章
+26	芬妮端着蛋糕回去了，只剩下里芙和我在房间里。	芬妮端著蛋糕回去了，只剩下里芙和我在房間裡。	ファニーはケーキを持ったまま去っていった。部屋には私とリフだけになった。	페니가 케이크를 들고 돌아갔고, 방에는 리브와 나만 남았다.	Fenny left with the cake, leaving just Lyfe and me in the room.						0	3.2版本新序章
+27	你去修整一下吧。安卡希雅不知道去哪了……我去喊吧。	你去休息整理一下吧。安卡希雅不知道去哪裡了……我去叫吧。	君も少し休んでくれ。アカシアは、どっかに行ったようだな……ついでに呼んでくるよ。	좀 정리하고 와. 아카시아는 어디 갔는지… 내가 찾아볼게.	Go freshen up. Not sure where Acacia ran off to... I'll go find her.						0	3.2版本新序章
+28	里芙点了点头，转身往外走。	里芙點點頭，轉身往外走。	リフは小さく頷くと、部屋の外へ向かっていった。	리브는 고개를 끄덕이고 밖으로 나갔다.	Lyfe nodded and turned to leave.						0	3.2版本新序章
+29	等等——	等等——	待って。	잠깐만.	Oh — wait.						0	3.2版本新序章
+30	从身后抱住了她。她轻轻嗯了一声——虽然背对着我，但我能察觉到她嘴角的笑意。	從身後抱住了她。她輕輕嗯了一聲——雖然背對著我，但我能察覺到她嘴角的笑意。	後ろから彼女を抱きしめると、リフからは小さな返事が返ってきた。背中ごしにでも、その声から彼女の微笑む表情を想像できる。	내가 뒤에서 그녀를 안아주자, 그녀가 살짝 '응'하고 답했다. 등을 돌리고 있었지만, 그녀의 입가에 번진 미소를 느낄 수 있었다.	I pulled her into a hug from behind, and she let out a quiet, satisfied exhale. Even with her back to me, I could tell she was smiling.						0	3.2版本新序章
+31	辛苦了，亲爱的。	辛苦了，親愛的。	お疲れさま、私の愛おしいリフ。	수고했어, 자기야.	You've worked hard too, darling.						0	3.2版本新序章
+32	她转过身，抱着我，把头靠在我的胸口，没有说话。	她轉過身，抱著我，把頭靠在我的胸口，沒有說話。	彼女は身を翻し、私を抱きしめたまま、静かに頭を私の胸に埋もれた。	그녀는 몸을 돌려 나를 안고 내 가슴에 머리를 기댔지만, 아무 말도 하지 않았다.	She turned and hugged me back, resting her head against my chest. She didn't say anything.						0	3.2版本新序章
+33	额头抵着下巴，这么温存了一会儿。	額頭抵著下巴，就這樣溫存了一會兒。	私たちは額と顎をすり寄せながら、しばらく抱きしめあっていた。	이마를 턱에 괸 채, 잠시 그렇게 따스하게 머물러 있었다.	Her forehead nuzzled against my chin, and we just stayed like that for a while — quiet, close, and warm.						0	3.2版本新序章
+34	休息室等你。	休息室等你。	休憩室で待ってる。	휴게실에서 기다릴게.	See you in the break room, darling.						0	3.2版本新序章
+35	嗯。	嗯。	ああ。	응.	Alright.						0	3.2版本新序章
+36	在附近转了一圈儿，依然没找到安卡希雅。在回房间拿通讯终端的路上，她却从走廊尽头拐了出来。	在附近逛了一圈，依然沒找到安卡希雅。在回房間拿通訊終端的路上，她卻從走廊盡頭轉了出來。	近くを少し見て回ったが、アカシアの姿はなかった。端末を取りに部屋に戻ると、アカシアが廊下の突き当りから急に出てきた。	주변을 둘러봐도 아카시아는 찾을 수 없었다. 통신 단말기를 가지러 방으로 가는 길에, 그녀가 복도 끝에서 나타났다.	I'd searched the area, but still couldn't find Acacia. On my way back to grab my comms terminal, she suddenly appeared — rounding the corner at the end of the hallway.						0	3.2版本新序章
+37	安卡希雅——看着年纪不大。实际上……因为一些变故，她曾在休眠舱里睡了三十年。	安卡希雅——看起來年紀不大。實際上……因為一些變故，她曾在休眠艙裡睡了三十年。	アカシア。年は若そうに見えるが……実は睡眠ポッドで30年も寝ていた特殊な女性だ。	아카시아는 나이가 어려 보인다. 사실… 어떤 사고로 인해 수면 캡슐에서 30년을 잠들어 있었다.	Acacia looked young. But in truth... she'd spent 30 years in cryosleep due to the Juvosis pandemic.						0	3.2版本新序章
+38	是我把她从睡眠舱里唤醒的。用三十年前的话说，她是个宅女——不善言谈，除了跟我在一起的时候。	是我把她從休眠艙裡喚醒的。用三十年前的話說，她是個宅女——不擅言詞，除了跟我在一起的時候。	彼女を呼び起こしたのは私だ。30年前の言い方を借りると、彼女は「オタク」に該当するらしい。私がいない場では、彼女は寡黙になってしまう。	그녀를 수면 캡슐에서 깨운 사람이 바로 나였다. 30년 전의 말로 하자면, 그녀는 '집순이'였다. 나와 함께 있을 때를 제외하곤 말수가 적었다.	I was the one who had woken her. Back in her time, people would've called her a nerd — not much of a talker, unless she was with me.						0	3.2版本新序章
+39	相处的时间长了之后，她有事没事都喜欢跑到我旁边待着，就像现在——	相處的時間久了之後，她有事沒事就喜歡跑到我旁邊待著，就像現在——	付き合いが長くなると、アカシアは用事があるないにかかわらず、すぐに私の近くに来てくれる。	함께 지낸 시간이 길어지다 보니, 그녀는 시도 때도 없이 내 곁에 찾아오곤 했다. 꼭 지금처럼 말이다.	After we'd spent enough time together, she started hanging around me for no particular reason. Just like now...						0	3.2版本新序章
+40	跑哪去了？半天没找着你。	跑到哪去了？找了半天沒找到你。	どこに行っていたんだ？探したぞ。	어디 갔었어? 한참 찾았잖아.	Where'd you disappear to? I've been looking everywhere.						0	3.2版本新序章
+41	游戏的日常没清，跑回去清了一下。	遊戲的日常沒清，跑回去清了一下。	ゲームのデイリーを片づけてきた。	일일 퀘스트를 끝내지 못한 바람에, 돌아가서 클리어했어.	Forgot to clear my daily quests. Had to double back and knock them out.						0	3.2版本新序章
+42	休息室有蛋糕，一会儿一起去吃？	休息室有蛋糕，等一下一起去吃？	休憩室にケーキがあるんだ。食べないか？	휴게실에 케이크가 있는데, 같이 먹으러 갈래?	There's cake in the break room. You coming?						0	3.2版本新序章
+43	嗯，我看见芬妮的消息了。	嗯，我看見芬妮的訊息了。	うん。ファニーから聞いてる。	응, 페니가 보낸 메시지 봤어.	Yeah. I saw Fenny's message.						0	3.2版本新序章
+44	她顺势跟在我身后，一路进了我的房间。	她順勢跟在我身後，一路進了我的房間。	彼女は私の後ろについて、一緒に部屋に入ってきた。	그녀는 나를 따라 내 방까지 들어왔다.	She fell into step behind me and followed me into my room.						0	3.2版本新序章
+45	这次任务结束之后，就把《双人奇行》打完吧。	這次任務結束之後，就把《雙人奇行》打完吧。	今回の任務が終わったら、この前の協力ゲームを終わらせようよ。	이번 미션이 끝나면 <어드벤처 투게더>를 끝까지 클리어해 보자.	Once this op's done, let's finally finish that game "It Requires Two."						0	3.2版本新序章
+46	……你一定要在出发前夜说这种话吗？	……你一定要在出發前夜說這種話嗎？	……それ、出発前夜に話すことか？	… 출발 전날에 그런 말을 꼭 해야 하나?	...That's what's on your mind the night before a mission?						0	3.2版本新序章
+47	要怪就怪你太忙，我还有很多想和你一起做的事呢。	要怪就怪你太忙，我還有很多想跟你一起做的事呢。	だって分析員、ずっと忙しいんだもん。ふたりでやりたいことがいっぱい溜まってるんだよ。	네가 너무 바빠서 그렇지. 너랑 같이하고 싶은 게 아직 많다고.	You're the one who's always busy. I've still got a ton of stuff I wanna do with you.						0	3.2版本新序章
+48	没别的事我就先洗澡了……	沒別的事我就先洗澡了……	はぁ。ほかに用事がないなら風呂に入るよ。	다른 일 없으면 나 먼저 씻을게…	If that's all, I'm going to grab a shower...						0	3.2版本新序章
+49	你随意，我在你这眯一小会儿。	你隨意，我在你這裡瞇一下。	どうぞ。ここでちょっと寝てもいい？	마음대로 해. 난 여기서 눈 좀 붙이고 있을게.	Go ahead. I'll just nap here a bit.						0	3.2版本新序章
+50	我洗过澡了哦，衣服也是新换的。	我洗過澡了喔，衣服也是新換的。	お風呂にも入ってきたし、着替えてきたよ。	샤워는 이미 했어, 옷도 새로 갈아입었고.	I already showered. Clean clothes and everything.						0	3.2版本新序章
+51	她甩掉鞋子，一头钻进我的被子里，只露出一个脑袋来。	她甩掉鞋子，一頭鑽進我的被子裡，只露出一個腦袋來。	彼女は靴を脱いで、さっさと私の布団に潜り込んだ。	그녀가 신발을 벗어 던지고 이불 속으로 파고들더니, 고개만 쏙 내밀었다.	She kicked off her shoes and burrowed under my blanket, just her head poking out.						0	3.2版本新序章
+52	怎么不脱了？	怎麼不脫了？	あれ？なんで脱がないの？お風呂に入るんじゃないの？	왜 안 벗어?	Aren't you gonna strip?						0	3.2版本新序章
+53	……你在打什么坏主意呢？	……你在打什麼壞主意呢？	……何か企んでいるのか？	… 무슨 나쁜 생각을 하는 거야?	...Trying to sneak a peek, huh?						0	3.2版本新序章
+54	我能有什么坏心思……	我能有什麼壞心機……	そんなわけないじゃん……	나쁜 생각이라니, 내가 무슨…	Who, me? As if I've ever had a naughty thought...						0	3.2版本新序章
+55	没理会她，脱了衣服走进了淋浴间。	沒理會她，脫了衣服走進了淋浴間。	私は彼女を置いて、風呂に入った。	나는 그녀를 무시한 채, 옷을 벗고 샤워실로 들어갔다.	I ignored her and headed for the shower, undressing as I went.						0	3.2版本新序章
+56	冷水带着冷意，从头顶一路钻到脚底，和骨肉中的疲乏缠在一起，又一点一点剥落、洗清。	冷水帶著冷意，從頭頂一路鑽到腳底，和骨肉中的疲乏纏在一起，又一點一點剝落、洗清。	冷たい水を浴びると、頭から足先まで、疲労が徐々に消えたような気がした。	차가운 물이 한기와 함께 머리부터 발끝까지 스며들었고, 온몸의 피로와 뒤엉켰다가 조금씩 씻겨 내려갔다.	Cold water poured over me from head to toe, soaking into the exhaustion buried deep in my bones — loosening it, peeling it away, washing it clean.						0	3.2版本新序章
+57	擦干净身子，躺进被窝里。安卡希雅并没有睡，而是侧着身子，看着我的眼睛。	擦乾淨身體，躺進被窩裡。安卡希雅並沒有睡，而是側著身，看著我的眼睛。	体を拭き、私も布団に入ると、アカシアはやはり寝ていなかった。彼女は寝返りを打って、私の目を見つめてきた。	나는 몸을 말끔히 닦고 이불 속으로 들어갔다. 아카시아는 잠들지 않았고, 옆으로 누워 내 눈을 바라보고 있었다.	I toweled off and slipped under the blanket. Acacia wasn't asleep — she was lying on her side, eyes fixed on mine.						0	3.2版本新序章
+58	还有多久集合？	還有多久集合？	集合時間まであとどれくらい？	집합까지 얼마나 남았어?	When are we meeting with everyone?						0	3.2版本新序章
+59	二十分钟。	二十分鐘。	20分くらいかな。	20분.	In 20 minutes.						0	3.2版本新序章
+60	她的眼睛往下瞄了一眼，又脸不红心不跳、直勾勾地盯了回来。	她的眼睛往下瞄了一眼，又臉不紅氣不喘、直直地盯了回來。	彼女はこっそり下を見た後、また平然とした表情で私を見てきた。	그녀는 아래로 한번 훔쳐보더니, 태연하게 다시 똑바로 바라봤다.	Her eyes dipped down for a moment — then locked onto mine again, bold and unblinking.						0	3.2版本新序章
+61	……你想干嘛？这点时间不够的……	……你想幹嘛？這點時間不夠的……	……なんのつもりだ。20分じゃ足りないぞ……	… 뭐 하려고? 시간이 부족한데…	...What are you thinking? We don't have time for that...						0	3.2版本新序章
+62	好吧，那就眯一会儿。	好吧，那就瞇一下。	ふーん。じゃ、寝るだけにしよっと。	그래, 그럼 잠깐만 눈 좀 붙이자.	Fine. Then let's just nap.						0	3.2版本新序章
+63	她钻到我怀里，把头埋在我的脖颈间。头发上有洗发露的味道，鼻息一点点推着颈间的皮肤，痒痒的。	她鑽到我懷裡，把頭埋在我的脖頸間。頭髮上有洗髮精的味道，鼻息一點點推著頸間的皮膚，癢癢的。	彼女は私の腕に潜り込み、頭を私の胸元に押し付けた。彼女の髪の毛からシャンプーの匂いがする。吐息が首すじに広がり、ぬくもりを感じる。	그녀가 내 품에 파고들어 목덜미에 얼굴을 묻었다. 머리카락에서 샴푸 향이 났고, 콧숨이 목덜미를 조금씩 간지럽혔다.	She curled into my arms, her head nestled in the crook of my neck. Her hair carried a faint trace of shampoo. Her breath tickled softly against my skin.						0	3.2版本新序章
+64	萌生的悸动被柔软的拥抱按下了——就这么抱着就很好了。	萌生的悸動被柔軟的擁抱按下了——就這樣抱著就很好了。	その優しい抱擁で、私のなかに芽生えた衝動もだんだんと落ち着いた。このまま彼女を抱きしめていよう。	부드러운 포옹이 피어오르는 설렘을 잠재웠다. 이렇게 안고 있는 것만으로도 좋았다.	That flutter of desire in my chest faded under the warmth of her hug — just holding her like this was more than enough.						0	3.2版本新序章
+65	闭上眼，小憩了一会儿。直到敲门声响起——	閉上眼，小憩了一下。直到敲門聲響起——	私も目を閉じて、少し休憩することにした。ウトウトしていると、突然ノック音が聞こえてきた。	눈을 감고 잠시 졸았다. 이내, 노크 소리가 들렸다.	I closed my eyes and drifted off... until there was a knock at the door.						0	3.2版本新序章
+66	达令~你在里面吗——	達令~你在裡面嗎——	ダ～リン？中にいるの？	달링~ 안에 있어?	Darling~ You in there—?						0	3.2版本新序章
+67	怀里一空。睁开眼，安卡希雅已经不见了踪影，只剩下敞开的窗户。	懷裡一空。睜開眼，安卡希雅已經不見了蹤影，只剩下敞開的窗戶。	誰かが呼ぶ声が聞こえ、私が目覚めたときには、窓が開けっ放しになったまま、アカシアはもういなかった。	내 품 안은 비어있었다. 눈을 떴을 때 아카시아는 이미 없었고, 열린 창문만이 남아있었다.	Fenny's voice rang through the door — and poof, my arms were empty. I opened my eyes. Acacia was gone, the window left wide open.						0	3.2版本新序章
+68	进来吧。	進來吧。	入っていいよ。	들어와.	Come on in.						0	3.2版本新序章
+69	嘿——！	嘿——！	よいっしょ！	안녕~!	Heeey—!						0	3.2版本新序章
+70	一团金色簇到眼前。芬妮整个扑在我身上，刚洗完吹干的金发散在我脸上，然后便是热烈的吻。	一團金色撲到眼前。芬妮整個撲在我身上，剛洗完吹乾的金髮散在我臉上，然後便是熱烈的吻。	金色の人影が急に飛び込んできた。ファニーは私を覆って、乾かしたばかりの金髪を垂らして、熱烈なキスで私の唇を奪った。	풍성한 금발이 시야를 가득 메웠다. 페니가 나를 덮치더니, 씻고 말린 지 얼마 안 된 금발이 내 얼굴을 스쳤고, 뜨거운 키스가 이어졌다.	A blur of gold filled my vision. Fenny dove into my arms, her freshly blow-dried hair spilling across my face — and then came a kiss, warm and passionate.						0	3.2版本新序章
+71	是不是累坏了？要不要再睡会儿？	是不是累壞了？要不要再睡一下？	疲れてるでしょ？もう少し寝たら？	많이 피곤하지? 조금만 더 잘까?	You must be beat. Wanna sleep a bit longer?						0	3.2版本新序章
+72	嗯……合了会儿眼，差不多了。	嗯……閉目養神了一下，差不多了。	いや……少し寝たから、疲れは取れたよ。	응… 눈 좀 붙였더니 이제 괜찮아졌어.	Hm... I just shut my eyes for a bit. I'm good now.						0	3.2版本新序章
+73	那，去吃蛋糕吧？我订的是你爱吃的口味！	那，去吃蛋糕吧？我訂的是你愛吃的口味！	じゃあ、ケーキを食べに行く？ダーリンの一番好きなケーキを注文したから！	그럼, 케이크 먹으러 갈까? 네가 좋아하는 맛으로 주문했어!	Then let's go have cake! I got your favorite flavor~						0	3.2版本新序章
+74	不是一直在一起训练吗？什么时候订的蛋糕？	不是一直在一起訓練嗎？什麼時候訂的蛋糕？	ずっと一緒にトレーニングしていたのに、ケーキを注文する暇なんてあったのか？	너도 계속 같이 훈련하고 있었잖아? 언제 주문했어?	We've been training side-by-side this whole time — when'd you even find time to order cake?						0	3.2版本新序章
+75	中间那五分钟休息时间呀~	中間那五分鐘休息時間啊~	5分くらい休憩時間があったじゃない。	중간에 5분 쉬는 시간 있었잖아~	During that five-minute break, duh~						0	3.2版本新序章
+76	她从我身上翻下来，抵着头，靠在我的肩上。	她從我身上翻下來，抵著頭，靠在我的肩上。	彼女は私の上から下りて、額を私の肩に当てた。	그녀가 내 몸 위에서 내려와 머리를 받치며 내 어깨에 기댔다.	She rolled off me and leaned in, resting her forehead on my shoulder.						0	3.2版本新序章
+77	等等……	等等……	待って……	잠깐만…	Wait a second...						0	3.2版本新序章
+78	她在枕头上仔细嗅了嗅，又闻了闻被子。	她仔細地聞了聞枕頭，又聞了聞被子。	ファニーは私の枕と布団を嗅いだ。	그녀는 베개 냄새를 자세히 맡더니, 이불 냄새도 맡았다.	She leaned closer, took a deep sniff of the pillow — then the blanket.						0	3.2版本新序章
+79	安卡希雅刚刚在这儿？	安卡希雅剛剛在這裡？	もしかして、さっきまでアカシアがいたの？	방금 아카시아가 여기 있었어?	Acacia was here, wasn't she?						0	3.2版本新序章
+80	嗯，回来的路上她就跟着了。然后一起睡了一会儿。	嗯，回來的路上她就跟著了。然後一起睡了一下。	ああ、部屋に戻る途中で会ったから。さっきまで一緒に寝ていたんだ。	응, 돌아오는 길에 따라왔어. 그리고 잠깐 같이 잤어.	Yeah. She tagged along on the way back. We ended up napping for a bit.						0	3.2版本新序章
+81	啊？	啊？	え？	뭐?	Huh!?						0	3.2版本新序章
+82	你俩一起洗的？	你們兩個一起洗的？	じゃ、お風呂も一緒に入ったの？	둘이 같이 씻었어?	Wait... did you two shower together!?						0	3.2版本新序章
+83	那倒没有，她提前洗好过来的。	那倒是沒有，她提前洗好過來的。	それはない。アカシアは風呂に入ってからこっちに来たんだ。	그건 아니야. 아카시아는 먼저 씻고 왔어.	No. She already had before she showed up.						0	3.2版本新序章
+84	那我也吃亏了！她跟你睡了好一会儿！	那我也吃虧了！她跟你睡了有一下子了！	だとしてもズルいわ！ふたりはさっき一緒に寝てたんでしょ！	그래도 내가 손해잖아! 걔랑 한참이나 같이 잤으면서!	Still not fair! She got a whole cuddle nap and I didn't!						0	3.2版本新序章
+85	补偿我补偿我补偿我——	補償我補償我補償我——	あたしとも一緒に寝てよ――！	보상해, 보상해 줘, 보상해 달라고!	I demand compensation — right now!						0	3.2版本新序章
+86	她蹭着我的脸，我笑着抱住她。	她磨蹭著我的臉，我笑著抱住她。	私の頬にすり寄ってきた彼女を、私は笑いながら抱きしめた。	그녀가 내 얼굴을 비비자, 나는 웃으며 그녀를 안았다.	She rubbed her cheek against mine. I laughed and pulled her into a hug.						0	3.2版本新序章
+87	那，下次一起洗，我给你吹头发。	那，下次一起洗，我幫你吹頭髮。	じゃあ、今度は風呂から一緒に入ろう。私が髪を乾かしてあげる。	그럼, 다음엔 같이 씻자. 내가 머리 말려줄게.	Then next time, we'll shower together — and I'll blow-dry your hair after.						0	3.2版本新序章
+88	一言为定？	一言為定？	本当？	약속이다?	Promise?						0	3.2版本新序章
+89	一言为定。	一言為定。	本当だ。	약속.	Promise.						0	3.2版本新序章
+90	嘿嘿。	嘿嘿。	えへへ。	헤헤.	Heehee~						0	3.2版本新序章
+91	她又吻了上来。缠绵了好一会儿，她才红着脸，坐起身。	她又吻了上來。纏綿了好一下子，她才紅著臉，坐起身。	彼女はもう一度私にキスをした。しばらくイチャイチャしたあと、彼女は頬を赤らめたまま起き上がった。	그녀가 다시 입을 맞춰왔다. 한참을 서로 탐하고 나서야, 그녀는 얼굴을 붉힌 채 몸을 일으켰다.	She leaned in for another kiss — deep, slow, lingering. When she drew back at last, her cheeks were flushed.						0	3.2版本新序章
+92	走了走了，吃蛋糕去！	走了走了，去吃蛋糕！	さぁ、ケーキを食べにいきましょ。	가자, 케이크 먹으러!	Alright — let's go have some cake!						0	3.2版本新序章
+93	里芙早就在休息室等着了。卸下作战的装甲之后，气质也柔和了些。	里芙早就在休息室等著了。卸下作戰的裝甲之後，氣質也柔和了點。	リフはすでに休憩室で待っていた。装備を外した彼女の雰囲気は普段より柔らかく感じた。	리브는 이미 휴게실에서 기다리고 있었다. 전술 슈트를 벗은 그녀는 분위기가 한결 부드러워졌다.	Lyfe was already in the break room. Without her combat gear, there was a softer air about her.						0	3.2版本新序章
+94	看到我来，她便端起盘子迎了过来。	看到我來，她便端起盤子迎了過來。	私を見かけると、リフは皿を手に、私たちに近づいてきた。	나를 본 그녀는 접시를 들고 다가왔다.	As soon as she saw me, she picked up a plate and walked over.						0	3.2版本新序章
+95	刚炸的。	剛炸的。	出来上がったばかりだ。食べてみて。	방금 튀긴 거야.	Fresh out of the fryer.						0	3.2版本新序章
+96	盘子里是炸鸡块。她用牙签扎起一块，就要喂我。	盤子裡是炸雞塊。她用牙籤戳起一塊，就要餵我。	皿には唐揚げが乗っていた。リフはそれをつまようじで取って、私に食べさせようとした。	접시에는 치킨 너깃이 있었다. 그녀는 이쑤시개로 하나를 찍어 내게 먹여주려 했다.	The plate held fried chicken nuggets. She speared one with a toothpick and lifted it toward my mouth.						0	3.2版本新序章
+97	我捉住了她的手腕，顺势捧起她的脸，在两侧的脸蛋各吻了一下。	我抓住了她的手腕，順勢捧起她的臉，在兩側的臉蛋各吻了一下。	そんな彼女の腕に手を添えて、ついでに彼女の頬にも手をよせ、両側の頬に1回ずつキスを落とす。	나는 그녀의 손목을 잡고, 그대로 얼굴을 감싸 양쪽 볼에 키스했다.	I caught her wrist and, in one smooth motion, cupped her face and kissed her on both cheeks.						0	3.2版本新序章
+98	然后接过她手中的牙签，把炸鸡块喂进了她的嘴里。	然後接過她手中的牙籤，把炸雞塊餵進了她的嘴裡。	そしてつまようじを受け取り、唐揚げを彼女の口に入れた。	그리고 그녀의 이쑤시개를 받아 치킨 너깃을 그녀의 입에 넣어줬다.	Then I took the toothpick from her and fed the nugget to her instead.						0	3.2版本新序章
+99	……唔？	……嗯？	……え？	… 음?	...Hmm?						0	3.2版本新序章
+100	模拟作战里你压力最大，最累。你先吃。	模擬作戰裡你壓力最大，最累。你先吃。	シミュレーションでは君が一番疲れていたはずだ。君に先に食べてほしい。	시뮬레이션 전투에서 네가 제일 힘들고 지쳤을 텐데, 너부터 먹어.	You took the brunt of the sim. You've earned first bite.						0	3.2版本新序章
+101	唔……	嗯……	ん……	으음…	Nngh...						0	3.2版本新序章
+102	她抿了抿嘴，嘴角忍不住往上扬，露出一个甜甜的笑来。	她抿了抿嘴，嘴角忍不住往上揚，露出一個甜甜的笑來。	彼女は思わず口角を曲げ、綺麗な微笑みを見せてくれた。	그녀는 입술을 지그시 깨물었고, 자기도 모르게 입꼬리를 올린 채 달콤한 미소를 지었다.	She pressed her lips together — but the smile still slipped through, soft and sweet at the corners.						0	3.2版本新序章
+103	吱呀——	吱呀——	ギギ――	끼익~	*creak*						0	3.2版本新序章
+104	安卡希雅推门走了进来。她张望了一圈，在桌前施施然坐下。	安卡希雅推門走了進來。她張望了一圈，在桌前悠悠地坐下。	アカシアが部屋に入ってきた。周りを見渡すと、彼女は余裕たっぷりに机の横に座った。	아카시아가 문을 열고 들어왔고, 주변을 둘러보더니 태연히 책상 앞에 앉았다.	Acacia pushed open the door and stepped inside. She gave the room a quick scan, then dropped casually into a chair.						0	3.2版本新序章
+105	刚跑哪去了？	剛剛跑去哪了？	どこに行ってたんだ？	어디 갔다 왔어?	Where'd you run off to?						0	3.2版本新序章
+106	有点尴尬……我还不太适应抱着你的时候被别人看见。	有點尷尬……我還不太適應抱著你的時候被別人看見。	別に……あなたを抱きしめてるのを人に見られるのが、ちょっと恥ずかしかったから。	좀 민망해서… 널 안고 있을 때, 다른 사람이 보는 게 아직 적응이 안 돼.	It was... kinda embarrassing. I'm still not used to being seen holding you like that.						0	3.2版本新序章
+107	那你迟早得习惯。可能尴尬着尴尬着就脱敏了吧。	那你遲早要習慣。可能尬著尬著就脫敏了吧。	慣れてくれ。恥ずかしいことも繰り返せば、徐々に慣れてくるから。	그런 건 언젠간 익숙해져야 해. 어색하다 보면 무뎌질 거야.	You'll have to get used to it sooner or later. Keep getting flustered, and maybe you'll build up some immunity.						0	3.2版本新序章
+108	我没有这方面的经验……你帮帮我？	我沒有這方面的經驗……你幫幫我？	へえ、そう……手伝ってくれるの？	이쪽으론 경험이 부족해서… 네가 좀 도와줄래?	I don't really have experience with this kind of thing... Think you could walk me through it?						0	3.2版本新序章
+109	……	……	……	…	...						0	3.2版本新序章
+110	我走到她旁边，捧起她的脸，浅浅吻了一下。	我走到她旁邊，捧起她的臉，淺淺吻了一下。	私は彼女の頬に手を寄せて、軽くキスをした。	나는 그녀 곁으로 다가가 얼굴을 감쌌고, 살며시 키스했다.	I walked over, gently tilted her chin, and brushed a soft kiss across her lips.						0	3.2版本新序章
+111	里芙还在旁边——我和安卡希雅都知道这一点。她像八爪鱼一样手忙脚乱地抱住我，连舌头都僵住了。	里芙還在旁邊——我和安卡希雅都知道這一點。她像章魚一樣手忙腳亂地抱住我，連舌頭都僵住了。	横にリフがいることは、私もアカシアも承知している。アカシアは慌てて私を抱きしめ、舌の先まで固まってしまった。	리브가 옆에 있다는 건, 나와 아카시아 둘 다 알고 있었다. 그녀는 문어처럼 허둥대며 나를 껴안았고, 혀까지 굳어버렸다.	Lyfe was still right there — we both knew it. Acacia latched onto me like a startled octopus, so flustered her tongue nearly tied itself in a knot.						0	3.2版本新序章
+112	分开时，安卡希雅的脸都憋红了。里芙很配合地盯着安卡希雅，收着下巴、挑着眼睛，难得露出一丝狡黠。	分開時，安卡希雅的臉都憋紅了。里芙很配合地盯著安卡希雅，收著下巴、挑著眼睛，難得露出一絲狡黠。	やっと彼女を放すと、アカシアは真っ赤になっていた。リフも空気を読んで、あえてアカシアのほうを、めずらしく意地悪な顔で見つめている。	서로 떨어질 때, 아카시아의 얼굴은 붉게 상기되어 있었다. 리브는 잠자코 아카시아를 바라보며 턱을 당긴 채, 눈을 치켜뜨고는 드물게 능글맞은 미소를 지었다.	By the time we pulled apart, her face was crimson. Lyfe had her eyes locked on Acacia — chin tucked, eyes narrowed — a rare, sly little smirk tugging at her lips.						0	3.2版本新序章
+113	你可太坏了。	你真是太壞了。	意地悪な表情だな。	너 정말 나빠.	So even you can be bad.						0	3.2版本新序章
+114	好坏都随你。	好壞都隨你。	あなたの受け売りだ。	그건 네가 생각하기 나름이야.	I learned from the best.						0	3.2版本新序章
+115	锵锵——蛋糕来咯~	將將——蛋糕來囉~	ジャジャーン！ケーキが来たわよ！	짜잔~ 케이크 왔어~	Ta-da — cake delivery~						0	3.2版本新序章
+116	达令，你来切蛋糕！预祝这次任务圆满完成！	達令，你來切蛋糕！預祝這次任務圓滿完成！	ダーリン、切り分けて！これは任務遂行を祝うケーキよ！	달링이 케이크 좀 잘라줘! 이번 임무 성공을 미리 축하해 보자고!	Darling, you do the honors. Here's to a flawless mission!						0	3.2版本新序章
+117	靠在沙发上，反复看着任务信息。	靠在沙發上，反覆看著任務訊息。	ソファーに体を預けると、私は何度も任務説明を確認した。	나는 소파에 기대앉아 미션 정보를 반복해서 보고 있었다.	I leaned back on the couch, skimming the mission briefing again and again.						0	3.2版本新序章
+118	达令，先别看了吧？	達令，先別看了吧？	ダーリン、まだ見てるの？	달링, 이제 그만 볼까?	C'mon, darling, put that down for now?						0	3.2版本新序章
+119	现在最重要的任务是好好休息吧？明天就要出发了。	現在最重要的任務是好好休息吧？明天就要出發了。	今の一番大事な任務は、しっかり休むことでしょ？明日は出発なんだし。	지금은 푹 쉬는 게 가장 중요하지 않을까? 내일이면 출발하잖아.	Priority one is rest, remember? We're wheels up tomorrow.						0	3.2版本新序章
+120	也是。	也是。	そうだな。	그러네.	...You're right.						0	3.2版本新序章
+121	蛋糕还没吃完。	蛋糕還沒吃完。	ケーキ、まだ食べ終わってないぞ。	케이크를 아직 다 못 먹었네.	You didn't finish your cake.						0	3.2版本新序章
+122	里芙也坐了过来，手上端着蛋糕。	里芙也坐了過來，手上端著蛋糕。	リフもケーキを持ったまま寄ってきた。	리브도 케이크를 들고 와서 앉았다.	Lyfe took a seat beside me, a slice of cake in hand.						0	3.2版本新序章
+123	亲爱的，我喂你。	親愛的，我餵你。	あなた、あーんして。	자기야, 내가 먹여줄게.	Here, open up, darling.						0	3.2版本新序章
+124	安卡希雅见状也来凑热闹了。她倒也没说什么，只是坐在我旁边，沉默地占据了一条手臂。	安卡希雅見狀也來湊熱鬧了。她倒是也沒說什麼，只是坐在我旁邊，沉默地佔據了一隻手臂。	アカシアも空気を読んで加勢してきた。彼女は何も言わなかったが、私の横に座って、静かに腕を絡めてきた。	아카시아도 분위기를 따라 다가왔다. 말은 없었지만, 내 옆에 앉아 팔 하나를 조용히 차지했다.	Acacia slid in on my other side. She didn't say a word — just quietly claimed one of my arms.						0	3.2版本新序章
+125	咔——	咔——	カシャッ！	찰칵~	*click*						0	3.2版本新序章
+126	闪光灯亮了一下。芬妮举起通讯终端拍了张照片。	閃光燈亮了一下。芬妮舉起通訊終端拍了張照片。	フラッシュライトが光った。ファニーが通信端末で写真を撮ったようだ。	플래시가 번쩍였다. 페니가 통신 단말기를 들어 사진을 찍은 것이었다.	The flash went off as Fenny snapped a photo with her terminal.						0	3.2版本新序章
+127	我看看——	我看看——	どれどれ……	어디 보자~	Let's see how it turned out...						0	3.2版本新序章
+128	安卡希雅！你的腿往哪里放？！	安卡希雅！你的腿放在哪裡？！	アカシア！どこに足置いてんのよ！？	아카시아! 다리를 대체 어디다 올린 거야?!	Acacia! Where are you putting those legs!?						0	3.2版本新序章
+129	低头一看，安卡希雅已经几乎跨坐在我身上，白里透红的脚心正搭在我的膝盖上。	低頭一看，安卡希雅已經幾乎跨坐在我身上，白裡透紅的腳心正搭在我的膝蓋上。	その言葉を聞いて、私も顔を俯けると、アカシアは足を私の膝にかけて、ほぼ私の体に乗っている体勢になっていた。	고개를 숙여보니 아카시아가 거의 내 무릎 위에 걸터앉은 채, 뽀얀 발바닥을 내 무릎에 올려놓고 있었다.	I looked down — Acacia was practically in my lap, pale-pink soles of her feet propped right on my knee.						0	3.2版本新序章
+130	这样坐着舒服。	這樣坐著舒服。	こうして座ると気持ちいいからね。	이렇게 앉아 있는 게 편해.	It's more comfortable this way.						0	3.2版本新序章
+131	里芙！你也是！	里芙！你也是！	リフ！あんたまで！	리브! 너도!	Lyfe! Seriously!? You too!?						0	3.2版本新序章
+132	刚刚，在闪光灯亮起的一瞬间，里芙轻轻吻了吻我的嘴角。	剛剛，在閃光燈亮起的一瞬間，里芙輕輕吻了吻我的嘴角。	フラッシュが光った一瞬で、リフは私の口元に軽くキスをした。	방금 플래시가 터지는 순간, 리브가 내 입가에 살짝 입을 맞췄다.	The shutter had caught Lyfe mid-kiss — lips just brushing the corner of my mouth.						0	3.2版本新序章
+133	这一幕自然也入了镜。里芙凑过去看了看照片，露出一丝满意的神情。	這一幕當然也入鏡了。里芙湊過去看看照片，露出一絲滿意的神情。	当然、写真に映ることになった。リフは近寄って写真を確認すると、満足げな表情を浮かべた。	그 장면도 사진에 찍혔다. 리브는 사진을 들여다보더니 만족스러운 표정을 지었다.	Naturally, that moment made it into the shot. Lyfe leaned over, peeked at the screen, and nodded with quiet satisfaction.						0	3.2版本新序章
+134	这张不要删，发给我吧。	這張不要刪，傳給我吧。	これ、私に送ってくれ。	이건 지우지 말고 나한테 보내줘.	Don't delete that one. Send it to me.						0	3.2版本新序章
+135	你想得美！	你想得美！	いやよ！	꿈도 꾸지 마!	In your dreams!						0	3.2版本新序章
+136	算了，发给她吧。我们再拍一张。	算了，傳給她吧。我們再拍一張。	まあまあ、送ってやってくれ。その代わり、私たちでもう一枚撮ろう。	그래, 보내줘. 우리 한 장 더 찍자.	It's okay — let her have it. Let's take another.						0	3.2版本新序章
+137	你们两个，不许再气她了？	你們兩個，不許再氣她了。	君たちふたりも、これ以上ファニーを怒らせないでくれ。	너희 둘도, 더 이상 페니 괴롭히면 안 된다?	And you two — quit messing with Fenny.						0	3.2版本新序章
+138	哼！	哼！	フン！	흥!	Hmph!						0	3.2版本新序章
+139	二人往后让了让。芬妮重整旗鼓，又找到了一个合适的角度。	二人往後讓一讓。芬妮重整旗鼓，又找到了一個適合的角度。	ふたりは大人しく後ろに退いた。ファニーは自分を奮い立たせて、映りのいい角度を探しはじめた。	두 사람은 뒤로 물러났고, 페니는 마음을 다잡고 다시 적당한 각도를 찾았다.	Lyfe and Acacia backed off slightly. Fenny reset the angle and tried again.						0	3.2版本新序章
+140	茄~子！	茄~子！	はい、チ～ズ！	치~ 즈!	Say cheeeese~!						0	3.2版本新序章
+141	明天还有任务，所以只是温存了一阵子，便各自休息去了。	明天還有任務，所以只是溫存了一陣子，便各自休息去了。	任務は明日からだ。私たちは少し楽しく過ごしたあと、各々の部屋に戻った。	내일도 미션이 있어서 잠시 이야기를 나누다가 각자 휴식을 취했다.	With the next day's mission ahead, we only shared a moment of quiet closeness before calling it a night.						0	3.2版本新序章
+142	躺到床上，正想思索任务相关的信息，困意又重新袭来了。	躺到床上，正想思索任務相關的訊息，睏意又重新襲來了。	ベッドで横になり、任務に関することを考えているうちに眠気に襲われてきた。	침대에 누워 미션에 대해 생각하려는데, 졸음이 다시 밀려왔다.	I lay down, planning to go over the mission details again — but sleep took hold before I could.						0	3.2版本新序章
+143	于是就这么睡去了。明天的事，明天再想吧。	於是就這樣睡去了。明天的事，明天再想吧。	私はその眠気に身をゆだね寝ることにした。明日のことは、明日考えればいい。	그렇게 잠이 들었다. 내일 일은 내일 생각해야겠다.	Just like that, I drifted off. Tomorrow's problems could wait.						0	3.2版本新序章
+144	翌日。	翌日。	翌日。	다음 날.	The next day.						0	3.2版本新序章
+145	全副武装、荷枪实弹的她们站在我的面前。	全副武裝、荷槍實彈的她們站在我的面前。	少女たちは装備をつけ、準備万端の状態で私の前に現れた。	완전 무장을 한 그녀들이 내 앞에 서 있었다.	My girls stood before me, fully geared, weapons ready.						0	3.2版本新序章
+146	睡得怎么样？	睡得怎麼樣？	ちゃんと休めたか？	잘 잤어?	How'd you sleep?						0	3.2版本新序章
+147	嗯……睡得有点激动，有点兴奋——我梦见我们在砍树！这算是好兆头吧？	嗯……睡得有點激動，有點興奮——我夢到我們在砍樹！這算是好兆頭吧？	なんというか……テンションがあがるような夢を見たわ。木を切る夢！これって、予知夢なのかしら？	응… 좀 흥분되고 설레는 꿈을 꿨어… 꿈에서 우리가 나무를 베고 있었거든! 좋은 징조겠지?	Well... I was so excited I ended up dreaming we were chopping down a tree! That's gotta be a good sign, right?						0	3.2版本新序章
+148	我笑了笑。里芙和安卡希雅的精神头也不错，看样子也休息够了。	我笑了笑。里芙和安卡希雅的精神也不錯，看樣子也休息夠了。	私は小さく笑った。リフもアカシアも顔色は悪くない。しっかり休めたようだ。	나는 미소 지었다. 리브와 아카시아도 상태가 좋아 보였고, 충분히 쉰 것 같았다.	I smiled. Lyfe and Acacia looked sharp too — seemed like they'd both slept well.						0	3.2版本新序章
+149	收到<snowbreak>朔州</>方面情报。以“树”为中心的区域，泰坦物质污染已经到达了临界点。	收到<snowbreak>朔州</>方面來的情報。以「樹」為中心的區域，泰坦物質汙染已經達到了臨界點。	<snowbreak>朔州</>から情報が入った。「デンドロン」を中心としたエリアのタイタン汚染はそろそろ臨界点に達してしまう。	<snowbreak>삭주</>로부터 정보를 받았어. '나무'를 중심으로 한 구역의 타이탄 물질 오염 지수가 이미 임계치에 도달했다고 해.	Fresh intel from <snowbreak>Shuozhou</>. Titagen levels near the Tree just hit critical.						0	3.2版本新序章
+150	……人呢？人都撤离了吗？	……人呢？人都撤離了嗎？	……住民は？みんな退避したの？	… 사람들은? 모두 대피한 거야?	...What about civilians? Any word on evac?						0	3.2版本新序章
+151	绝大多数都撤出来了。剩下的，恐怕逃不脱变成异化人的命运。	大多數都撤出來了。剩下的，恐怕逃脫不了變成異化人的命運。	ほとんどの住民は退避済みだ。残ってるのは、変異者になってしまうだろう。	대부분은 대피했어. 하지만 남은 자들은… 변이자가 될 운명을 피하지 못하겠지.	Most of them made it out. But the ones remaining... are probably already turning into the Changed.						0	3.2版本新序章
+152	……污染扩散加剧的速度未免太快了。比预期至少快了一倍多。	……汙染擴散加劇的速度未免太快了。比預期至少快了一倍多。	……拡散する速度が早すぎる。予測より2倍以上早いな。	… 오염 확산 속도가 너무 빠르네. 예상보다 최소 두 배는 빨라.	...The contamination's spreading faster than expected. At least twice our original estimate.						0	3.2版本新序章
+153	达令，我们得尽快出发了！赶在“树”把那里完全变成隔离区之前……	達令，我們要盡快出發了！趕在「樹」把那裡完全變成隔離區之前……	ダーリン、急いで出発しないと！あそこが「デンドロン」で完全に封鎖エリアになってしまう前に……	달링, 얼른 출발해야 해! '나무'가 거길 완전히 격리 구역으로 만들기 전에…	Then let's get a move on — before the Tree turns that whole region into a Containment Zone!						0	3.2版本新序章
+154	在此之前，我们清理了藏匿于朔州地区的公司叛徒舍塔，消灭了“树”的复制品。	在此之前，我們清理了藏匿於朔州地區的公司叛徒θ，消滅了「樹」的複製品。	今まで、朔州地域に姿を隠している会社の裏切者θを倒し、「デンドロン」の複製品を取り除いた。	그전에 우리는 삭주 지역에 숨어있던 회사의 배신자 θ를 처리했고, '나무'의 복제품을 제거했다.	Before this operation, we had taken down θ — the Yggdrasil defector holed up in Shuozhou — and destroyed a replica Tree that she had created.						0	3.2版本新序章
+155	又在虚拟作战系统中用了足足两周时间，以适应朔州那棵“树”周围的恶劣环境。	又在虛擬作戰系統中用了足足兩週時間，以適應朔州那棵「樹」周圍的惡劣環境。	そして、シミュレーションシステムで、まる2週間を掛けて、朔州の「デンドロン」界隈の悪い環境にも慣れてきた。	그리고 삭주 '나무' 주변의 열악한 환경에 적응하려 시뮬레이션 전투 시스템에서 2주간 훈련했다.	We had then performed two weeks of virtual combat training, adapting to the hostile terrain around the real Titagen Tree in Shuozhou — our next target.						0	3.2版本新序章
+156	扫视了一遍身前的队员们，她们用坚定的眼神回应着我。有她们在身边，就不会也不能失败。	掃視了一遍身前的隊員們，她們用堅定的眼神回應著我。有她們在身邊，就不會也不能失敗。	目の前の隊員たちを見ると、彼女たちは確固たる意志を持つ目で私に応えてくれた。彼女たちがそばにいれば、失敗はない、だが失敗することもできない。	나는 앞에 선 대원들을 둘러보았고, 그녀들은 단호한 눈빛으로 화답했다. 그녀들과 함께라면 실패는 없을 것이다.	Now, as I looked over my operatives standing before me, each of them met my eyes with unwavering resolve. With them at my side, failure wasn't an option.						0	3.2版本新序章
+157	神鹰计划，行动开始。	神鷹計畫，行動開始。	「コンドル計画」、開始だ。	콘도르 프로젝트, 작전 개시.	Operation Condor — commence.						0	3.2版本新序章
+158	登上飞机，穿破云层，向朔州驶去。	登上飛機，穿破雲層，向朔州駛去。	私たちは飛行機に乗り込んで、雲を突き抜けて朔州へと向かった。	비행기에 올라 구름을 뚫고 삭주로 향했다.	We boarded the aircraft, rising through the clouds en route to Shuozhou.						0	3.2版本新序章
+159	越过山丘和田野，飞机降落在朔州边境的世界树公司武装基地。	越過山丘和田野，飛機降落在朔州邊境的世界樹公司武裝基地。	山と田んぼを越えたあと、飛行機は朔州辺境のユグドラシル社武装基地に着陸した。	우리는 산과 들을 지나, 삭주 국경의 위그드라실 무장 기지에 착륙했다.	Past hills and farmlands, we touched down at one of Yggdrasil's armed bases near the border.						0	3.2版本新序章
+160	坐上指挥车，又颠簸了几个小时之后，终于抵达了隔离带。附近的树木都被推平，到处都是推土机和躺倒的树木。	坐上指揮車，又顛簸了幾個小時之後，終於抵達了隔離帶。附近的樹木都被推平，到處都是推土機和躺倒的樹木。	指揮車を数時間走らせ、私たちはようやく封鎖線付近に到着した。周りの木々はすべてなぎ倒され、至る所にブルドーザーの走行跡と倒れている木が残っている。	흔들리는 지휘 차량을 몇 시간 동안 타고 마침내 격리구역에 도착했다. 주변 나무들은 모두 밀려나 있었고, 곳곳에 불도저와 쓰러진 나무들이 있었다.	From there, we transferred to a command vehicle. A few more hours of jolting terrain brought us to the Containment Zone's edge. The forest had been razed — bulldozers sat idle among toppled trunks and torn-up soil.						0	3.2版本新序章
+161	穿过烟尘，竟是一片沃野。花草丰茂，溪水潺潺。	穿過煙塵，竟是一片沃野。花草茂盛，溪水潺潺。	しかし煙をかいくぐると、眼前には素晴らしい田園が広がっていた。花が咲き誇り、草木が生い茂るかたわらには、小川がサラサラと流れている。	연기와 먼지를 뚫고 나아가니, 비옥한 들판이 펼쳐졌다. 꽃과 풀이 무성하고 시냇물이 졸졸 흘렀다.	We rolled through smoke and dust — only to emerge into a field bursting with life. Wildflowers in bloom. Sunlight glinting off quiet streams.						0	3.2版本新序章
+162	……真是好风景——可惜。	……真是好風景——可惜。	……いい景色だな。残念だ。	… 정말 멋진 풍경이네, 아쉽게도.	What a view... Shame it might not last.						0	3.2版本新序章
+163	（如果任务失败的话……）	（如果任務失敗的話……）	（もし任務が失敗したら……）	(미션에 실패한다면…)	(If this mission fails...)						0	3.2版本新序章
+164	这么自言自语着，看向天的尽头。	這樣自言自語著，看向天的盡頭。	私がそう呟くと、空の向こうを眺めた。	이렇게 혼잣말하며, 하늘 저 끝을 바라보았다.	I muttered to myself, eyes drifting toward the far horizon.						0	3.2版本新序章
+165	隐隐察觉到，“树”就在那里。似是隔着云端和山峦，注视着我。	隱隱察覺到，「樹」就在那裡。像是隔著雲端和山巒，注視著我。	なんとなく、「デンドロン」はそこに聳え立っている気がした。雲と山の向こうで、私を見つめているかのようだった。	 '나무'가 저곳에 있다는 게 어렴풋이 느껴졌다. 구름과 산맥 너머에서 나를 지켜보는 것 같았다.	I could feel it — the Tree. Looming beyond the ridgelines and clouds... watching.						0	3.2版本新序章
+166	……	……	……	…	...						0	3.2版本新序章
+167	要除掉它，还不知道要付出什么样的代价。	要除掉它，還不知道要付出什麼樣的代價。	それを取り除くのに、どれだけの代償を払うのか。	저걸 없애려면, 과연 어떤 대가를 치러야 할까.	I wonder what it'll take to bring it down.						0	3.2版本新序章
+168	手被握住了——是里芙。	手被握住了——是里芙。	すると、誰かが私の手を握った。リフだった。	누군가 내 손을 잡았다. 리브였다.	A hand gently held mine. It was Lyfe.						0	3.2版本新序章
+169	不管付出什么，都要把它除掉。	不管付出什麼，都要把它除掉。	何を払おうと、取り除くべきだ。	어떠한 대가를 치르더라도, 반드시 없애야 해.	Whatever the cost, we'll pay it.						0	3.2版本新序章
+170	直到世界上所有的“树”和<snowbreak>泰坦</>都被清除出去。直到这个世界变回原来的模样。	直到世界上所有的「樹」和<snowbreak>泰坦</>都被清除出去。直到這個世界變回原來的模樣。	世界から「デンドロン」と<snowbreak>タイタン</>をすべて追い出さねばならない。世界が元の姿を取り戻すためにも。	세상의 모든 '나무'와 <snowbreak>타이탄</>이 사라질 때까지. 이 세상이 원래 모습으로 돌아갈 때까지.	Until every last Tree and <snowbreak>Titan</> is gone. Until the world is safe again.						0	3.2版本新序章
+171	嗯。一定会有那么一天。	嗯。一定會有那麼一天。	ああ。きっとそれが叶う日が来るさ。	응. 반드시 그런 날이 올 거야.	Yeah. That day'll come.						0	3.2版本新序章

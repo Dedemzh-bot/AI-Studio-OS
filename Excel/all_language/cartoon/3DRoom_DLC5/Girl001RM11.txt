@@ -1,0 +1,24 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	哈啊——	哈啊——	はぁ——	하아…	*yawn—*						0	
+page1.2	你又通宵打游戏了吧？	你又通宵打遊戲了吧？	また徹夜でゲームしたのか？	또 밤새우면서 게임하는 거야?	Were you up all night playing games again?						0	
+page1.3	通宵了，没打游戏。	通宵了，沒打遊戲。	徹夜はしたけど、ゲームじゃない。	밤만 새웠지 게임은 하지 않았어.	I was up all night, but I wasn't playing games.						0	
+page1.4	稀奇啊，那你干什么去了？	稀奇啊，那你幹什麼去了？	珍しいな、じゃあ何を？	신기하네, 그럼 뭘 하고 있었는데?	That's new. What were you doing?						0	
+page1.5	在网上喷藤原娱乐影视部门。	在網路上噴藤原娛樂影視部門。	藤原エンターテインメントの映像部門にネットで文句言ってた。	인터넷으로 후지와라 엔터테인먼트 영상부를 비난하던 중이었어!	Complaining about Fujiwara Entertainment's TV and film division online.						0	
+page1.6	啊？	啊？	え？	뭐?	Ah?						0	
+page1.7	怎么了吗？	怎麼了嗎？	どうかした？	왜 그래?	What's wrong?						0	
+page1.8	光天化日这么大声，不愧是你。	光天化日這麼大聲，不愧是你。	直接言うのか、さすがだな。	정말이지, 대낮부터 이렇게까지… 참 너답다.	I guess you would be the one to say that in broad daylight.						0	
+page1.9	没什么好怕的，是她们自己找骂。	沒什麼好怕的，是她們自己欠罵。	何も間違ったことは言ってない、あいつらの自業自得。	욕 먹을 짓을 골라서 했거든.	There's nothing to be scared of. They brought it upon themselves.						0	
+page1.10	她们干啥了啊？把你气成这样。	她們幹什麼了啊？把你氣成這樣。	君がそんなに怒るなんて、一体何をしたんだ？	도대체 뭘 했길래 이렇게까지 화난 거야?	What did they do to make you so mad?						0	
+page1.11	你应该知道藤原娱乐最近公布了新一季度的动画剧目表吧？	你應該知道藤原娛樂最近公佈了新一季的動畫劇目表吧？	藤原エンターテインメントの新シーズンのアニメラインナップ、知ってるよね？	최근에 후지와라 엔터에서 새로운 시즌의 애니메이션 일정을 공개한 건 알고 있겠지?	I'm sure you're aware that Fujiwara Entertainment recently announced their animation lineup for the new season?						0	
+page1.12	不怎么关注。	不怎麼關注。	いや、確認してない。	아니, 별로 관심 없어서.	I don't really pay attention to that stuff.						0	
+page1.13	她们搞了一堆IP改编，大部分都是一些不带智商的小说改编。	她們搞了一堆IP改編，大部分都是一些不帶智商的小說改編。	あいつらはとりあえずアニメ化しとけばいいと思ってて、原作に敬意を払ってない。	후지와라에서 대부분의 IP를 각색했는데, 지능이 없는 건지 정말 말도 안 되게 하찮게 각색했어.	They're adapting a bunch of different IPs. Most of them are just brainless adaptations of books.						0	
+page1.14	毕竟现在流行那些吧，话说你这发言问题很大啊。	畢竟現在流行那些吧，話說你這發言問題很大。	最近流行ってるからね、でもそんな言い方はないんじゃないか。	그래도 최근에 이런 게 유행이긴 하잖아? 너무 막말하는 거 아니야?	Well they're what's popular right now, so I'm not sure you should be saying that.						0	
+page1.15	流行是一回事，她们还有更过分的计划。	流行是一回事，她們還有更過分的計畫。	流行ってるのは知ってるけど、それにしたって酷すぎる。	유행이든 뭐든 해도 해도 너무 심해.	Popularity is one thing, but they have an even more ridiculous plan up their sleeve.						0	
+page1.16	有多过分？	有多過分？	何が酷いか？	도대체 어떤 짓을 벌였길래?	How ridiculous?						0	
+page1.17	她们要把一些非常硬核的科幻小说给做成动画，像《木星危机》《石滩》之类的名作都遭到毒手了。	她們要把一些非常硬派的科幻小說做成動畫，像《木星危機》《石灘》之類的名作都遭到毒手了。	本格的なSF小説をアニメ化しようとしてる。『木星の危機』とか『石河原』みたいな名作にまで手を出した。	몇몇 하드코어한 SF 소설을 애니메이션으로 만들고 싶어 하는데, 이 과정에서 <주비터 크라이시스>랑 <스톤 비치>와 같은 명작들이 많은 피해를 입었어.	They want to adapt some really hard-core sci-fi books into anime. They're going to totally botch "Jupiter Calamity" and "Sand Drift."						0	
+page1.18	“毒手”这个词会不会太严重了？	「毒手」這個詞會不會太嚴重了？	「手を出した」なんて、そんな悪いことみたいに。	피해라고 하는 건 너무 과한 거 아니야?	"Botch" might be a little harsh, don't you think?						0	
+page1.19	不严重，这是藤原娱乐应得的评价。仗着有钱买IP，而不好好打磨作品，只会毁了一部又一部。我见过太多这样的惨剧了。	不嚴重，這是藤原娛樂應得的評價。仗著有錢買IP，卻不好好打磨作品，只會毀了一部又一部。我看過太多這樣的慘劇了。	悪いことだよ、藤原エンターテインメントがやってるのは。タイトルの翻案権を金で買っておきながら、作品をちゃんと作らず、次々と台無しにしてるんだから。	아니, 전혀 과하지 않아. 이건 후지와라가 받아야 할 평가로 충분해. 돈을 들여 IP를 사고, 작품을 제대로 다듬지 않으면 결국 다 망하게 돼. 나는 이런 참상을 너무 많이 봐왔어.	Not at all. That's exactly what Fujiwara deserves. Throwing money around to scoop up IP's without polishing anything just leads to failure after failure. I've seen it happen too many times.						0	
+page1.20	你的观点我赞同，但还是小声点吧……今天有藤原娱乐的人来访。	你的觀點我贊同，但還是小聲一點吧……今天有藤原娛樂的人來訪。	言いたいことは分かるけど、やっぱり大声で言わない方がいいんじゃないかな……今日はその藤原エンターテインメントの人が来るし。	네 관점이 틀린 건 아니지만, 조금만 조용히 얘기하면 안 될까… 안 그래도 오늘 후지와라 사람들이 방문한다고 해서.	I feel the same, but keep your voice down... Some people from Fujiwara are visiting today.						0	
+page1.21	那正好，我现在就去找她们。	那剛好，我現在就去找她們。	それならちょうどいい、今から会いに行く。	그럼 잘 됐네, 찾아가서 얘기 좀 해봐야겠어.	Perfect. I'll go complain to them in person.						0	
+page1.22	你冷静啊！	你冷靜啊！	落ち着けって！	제발 좀 진정해!	Calm down!						0	

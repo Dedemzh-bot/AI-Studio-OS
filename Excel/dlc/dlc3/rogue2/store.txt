@@ -1,0 +1,7 @@
+商店id	商品槽	商品类型（1.固定buff 2.buff库抽取）	buffid	buff库id	权重
+ID	Slot	Type	BuffId	GroupId	Weight
+101	1				
+	2				
+	2				
+	2				
+	2				

@@ -1,0 +1,75 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	不知道过了多久，我总算缓了过来，看向直直地站立着的猫汐尔。	不知道過了多久，我總算緩了過來，看向直直地站立著的貓汐爾。	どれくらい経ったか分からないが、ようやく回復した。まっすぐに立っているマーシルの方向を見た。	얼마나 흘렀을까… 나는 몸을 추스르고, 꼿꼿이 서있는 시에라를 바라봤다.	I had no idea how much time had passed. As I came to my senses, I realized Mauxir was standing right next to me.						0	
+2	夜色逐渐晕染下来，猫汐尔的眼睛隐藏在其中，但我知道她同样看着我。	夜色逐漸暈染下來，貓汐爾的眼睛隱藏在其中，但我知道她同樣看著我。	日が暮れて、マーシルの目は夜に潜んでいるが、彼女も私を見ているのが分かる。	칠흑 같은 어둠이 서서히 몰려오며 시에라의 눈은 그 속에서 사라졌지만, 그녀가 날 여전히 쳐다보고 있음을 알 수 있었다.	Night fell and darkness enveloped the two of us. Mauxir's eyes faded into the blackness, the way she was staring at me no less obvious in the dark than it had been in the light.						0	
+3	呼……她设置的战斗强度太高，我差点儿以为要撑不过来了。	呼……她設定的戰鬥強度太高，我差點以為要掛了。	はあ……マーシルが設定した戦闘レベルが高すぎて、持たないかと思った。	… 시에라가 설정한 전투의 난이도가 너무 높았기에, 자칫하면 영영 돌아오지 못할 뻔했다.	Pffff... she really had set the difficulty level on that combat sim much too high, I had been sure we were going to lose.						0	
+4	你刚刚的战斗行为跟我所记录的——你的数据，有些偏差。	你剛剛的戰鬥行為跟我所記錄的——你的數據，有些偏差。	さっきのあなたの戦闘行為と、私が記録したあなたのデータとは、少しズレがある。	방금 당신이 전투 때 보여줬던 행동들은 내가 기록했던 것과 조금의 오차가 있다.	You normally fight better than that, that's maybe the worst I've ever seen you fight.						0	
+b-1											0	
+5	是吗？	是嗎？	そう？	그래?	This is what you are telling me?						0	
+6	要是比平常弱的话，多半是因为战斗来得太突然了啊喂！	要是比平常弱的話，多半是因為戰鬥來得太突然了啊喂！	普段より弱いとしたら、多分戦闘が突然すぎたせいだよ！	평소보다 시원찮았으면 그건 뜻밖에 상황이 많아서 그럴 수 있어!	Maybe that had something to do with your suddenly throwing me into a combat sim without so much as a warning?						0	
+7	第二波攻击中，你突然来到我前方的位置，跟敌方首领交手，有负伤。	第二波攻擊中，你突然來到我前方的位置，跟敵方首領交手，有負傷。	第2波の攻撃中、あなたは突然私の前に来て、敵のボスと交戦し、負傷した。	2차 공격 시, 당신은 갑자기 내 앞으로 와서 타깃들의 보스와 싸우다가 부상을 입었다.	When we were fighting the second wave, you put yourself between me and the enemy, exchanged blows with their leader and got yourself injured.						0	
+b-2											0	
+8	你当时四面受敌，我看他来势汹汹冲向你，怕你躲闪不及。	你當時四面受敵，我看他來勢洶洶衝向你，怕你躲閃不及。	その時、マーシルは敵に囲まれてて、あいつがすさまじい勢いで君に向かって行ったから、避けられないんじゃないかと心配で。	네가 당시엔 타깃들한테 둘러싸여 있었고, 더군다나 타깃의 보스가 너한테 가길래 다칠까 걱정이 돼서 그랬지.	They had surrounded you. I thought you weren't going to be able to get out of there on your own.						0	
+b-3											0	
+9	有计划外的行动也是战场上可能会发生的情况嘛。	有計劃外的行動也是戰場上可能會發生的情況嘛。	戦場では、計画外の行動なんて珍しくもない。	예측 못했던 상황은 전장에서 항상 빈번하게 일어나니까.	Sometimes in combat you just have to do whatever needs doing without thinking about it too much.						0	
+10	第三波攻击中，你再次冲到我的前方，离对方甩过来的武器仅差0.8毫米，被冲击波震到手臂，有负伤。	第三波攻擊中，你再次衝到我的前方，離對方甩過來的武器僅差0.8公釐，被衝擊波震到手臂，有負傷。	第3波の攻撃中、あなたは再び私の前に来て、相手が投げた武器とたった0.8mmの距離まで接近した。あなたは衝撃波により腕を怪我した。	3차 공격 시, 당신은 또 다시 내 앞으로 왔는데 타깃이 던진 무기로 불과 0.8mm 차이였지만 그 충격으로 인해 팔에 상처를 입었다.	You did it again during the third wave and only managed to put a distance of 0.8 millimeters between you and a blow that would have taken your head off clean off. As it was, the enemy you were fighting smashed into you and injured your arm.						0	
+b-4											0	
+11	0.8毫米，完美的极限挑战！	0.8公釐，完美的極限挑戰！	0.8mm、極限への挑戦！	0.8mm?? 그 정도면 거의 완벽했는데!	0.8 millimeters is the perfect distance, no?						0	
+b-5											0	
+12	刚刚有没有录下来？我将它甩飞到楼下的场面一定很壮观。	剛剛有沒有錄下來？我將它甩飛到樓下的場面一定很壯觀。	さっき録画した？私があいつをビルの下へ突き飛ばしたところ、きっとすごいだろうな。	녹화는 했어? 나름 타깃한테 대미지도 입히고 격파했을 때 꽤나 임펙트가 있었다고 생각하는데.	Can I take a look at the playback? I bet I looked pretty badass when I was throwing him off the side of the building.						0	
+13	你不冲过来的话，我也能将它击毁。	你不衝過來的話，我也能將它擊毀。	あなたがわざわざ来なくても、私もあの武器を壊せる。	당신이 돌진해 오지만 않았으면 나도 그것을 격파할 수 있었다.	I could have defeated him without your help.						0	
+14	且不会存在负伤情况。	且不會存在負傷情況。	しかも無傷で。	심지어 부상도 없었을 것이다.	And that way you would not have been placed at risk.						0	
+b-6											0	
+15	谁都想逞下英雄嘛。	誰都想逞下英雄嘛。	誰だってカッコつけたくなるもんよ。	에이 그 정도는… 팀원을 위해서라면 누구든지 가능한 얘기지.	Is it so unreasonable to want to play the hero from time to time?						0	
+b-7											0	
+16	再说了万一你没反应过来被……	再說了萬一你沒反應過來被……	それに、もし万が一君が反応できなかったら……	그리고 네가 만일 대응을 못했더라면…	And besides, if there was even the slightest chance that something could have happened to you...						0	
+17	我负伤，只有万分之一的几率。	我受傷，只有萬分之一的機率。	私が負傷するのはたった一万分の一の確率。	내가 다칠 확률은 0.01% 미만이었다.	I have at most a 0.01% chance of being injured.						0	
+18	此外，即便负伤——你忘了吗？我没有痛觉，你不用在意。	此外，即便受傷——你忘了嗎？我沒有痛覺，你不用在意。	それに、忘れたの？――私には痛覚がないから、負傷しても気にしなくていい。	그리고 당신도 알다시피 난 감각을 느낄 수 없기 때문에 신경 쓸 필요 없다.	And even if I had been... have you forgotten that I don't feel pain? It's not like getting injured would have bothered me.						0	
+b-8											0	
+19	没有痛觉不代表伤口不存在。	沒有痛覺不代表傷口不存在。	痛覚がないことは、傷つかないことではない。	감각이 없다고 상처가 없는 건 아니잖아.	Nothing being able to feel pain is not the same as not being able to get hurt.						0	
+b-9											0	
+20	我可不想看到你受伤。	我可不想看到你受傷。	君が傷つくのは嫌だ。	나도 네가 다치는 건 보고 싶지 않다고.	I just didn't want to see you get hurt.						0	
+21	你们人类……	你們人類……	あなたたち人間って……	너희 인간들은…	You humans...						0	
+22	她突然缄口，歪着头打量了我半晌，手指又在空中点了点，然后思索起来。	她突然緘口，歪著頭打量了我半晌，手指又在空中點了點，然後思索起來。	マーシルは突然黙って、首を傾げて少しの間私を見つめていた。そして何もないところをタップして、考え込んだ。	그녀는 다시 입을 닫고 고개를 갸웃거리며 한동안 나를 훑어보더니, 손가락으로 허공을 가리키며 무언가를 사색하기 시작했다.	Her mind drifted away a moment... the head tilt, the fingers tapping the air... then she was back.						0	
+23	唔，行为一致。	唔，行為一致。	うん、行動が一致してる。	그렇다. 행동이 일치한다.	I was right, the way you acted does match up.						0	
+b-10											0	
+24	……什么？	……什麼？	……何が？	… 뭐?	... huh?						0	
+25	你刚刚的这两次异常战斗反应，与故事中男主人公的行为一致。	你剛剛的這兩次異常戰鬥反應，與故事中男主人公的行為一致。	さっきのあなたの2回の異常な戦闘反応は、物語の主人公の行動と一致した。	당신이 방금 했던 두 번의 이상했던 행동들은 '구구 일기'에 나왔던 남주인공의 행동과 일치했다.	You performed as badly as the boy did in the story.						0	
+26	仔细一想，挡刀救人，将首领揍下楼……好像还真是很相似。	仔細一想，擋刀救人，將首領揍下樓……好像還真是很相似。	よく考えてみれば、人のために傷を負う、ボスをビルから落とす……確かに似ている。	생각해 보니 유사하긴 했다. 누군가를 구하기 위해 위험을 무릅쓰고 타깃의 보스를 처치하는 패턴들…	She had a point... I'd jumped between her and the attacker... I'd thrown the guy off the building... it was very similar to what had happened in the story.						0	
+27	这日志作者还有点东西？	這日誌作者還有點東西？	この日記の作者、なかなかやるな？	작가가 썼던 작품이 베스트셀러가 된 이유가 설마 이런 맥락 때문인 걸까?	Had I missed some subtext in the story? Was there something I wasn't getting?						0	
+28	为什么呢？	為什麼呢？	どうして？	왜 그런 건가?	Why?						0	
+b-11											0	
+29	如有雷同，纯属巧合？	如有雷同，純屬巧合？	似てる部分があっても、あくまで偶然ってこと？	현실과 유사하다는 건 순전히 우연의 일치인 걸까?	Any resemblance to real persons, living or dead, is purely coincidental...						0	
+30	你和我，都可以跟故事中主人公身份对应上，而故事中的二人的各种行为，都可以用爱来解释。	你和我都可以跟故事中主人公的身分對應上，而故事中的二人的各種行為都可以用愛來解釋。	あなたと私、物語の主人公とヒロイン。物語の2人の行動は、全て愛で説明できる。	당신과 나는 스토리의 주인공들처럼 짝을 이룰 수 있다. 그리고 이런 행동들은 모두 '사랑'으로 설명 가능하다.	You and I really are very similar to the characters in the story. The best explanation for the boy's strange behavior would be his romantic feelings for the girl.						0	
+31	但，为什么这就是爱呢？	但，為什麼這就是愛呢？	でも、なんでこれを愛というの？	그런데 왜 이런 걸 사랑이라고 하는 건가냥?	Does that mean that something romantic is happening between the two of us right now?						0	
+32	她的标志性双耳再次动了动，眼眶中的高科技扫描仪又扫描着我。	她的標誌性雙耳再次動了動，眼眶中的高科技掃描儀又掃描著我。	マーシルの特徴的な耳が再び動いた。目のハイテクノロジースキャナーがまた私をスキャンしている。	시에라의 상징인 두 귀가 다시 흔들렸고, 이내 동공으로 나를 다시 스캔하였다.	Her ears twitched... she scanned me up and down again...						0	
+33	此时的我们两个，大脑也在分泌多巴胺吗？	此時的我們兩個，大腦也在分泌多巴胺嗎？	今この時の私たちの脳も、ドーパミンを分泌しているの？	이때 우리 둘은 뇌에서 도파민이 분비됐던 걸까?	Are our brains secreting dopamine?						0	
+b-12											0	
+34	多多……多巴胺？	多多……多巴胺？	ドドド……ドーパミン？	도… 도파민?	... dopamine?						0	
+35	没错，多巴胺。生物之间产生爱的标志性现象，就是脑中会分泌大量多巴胺。	沒錯，多巴胺。生物之間產生愛的標誌性現象，就是腦中會分泌大量多巴胺。	そう、ドーパミン。生物の間で愛が生まれたことを示す象徴的な現象、それは脳内に大量のドーパミンが分泌される。	그렇다. 생물들 간에 사랑할 수 있다는 건 다량의 도파민이 분비된다는 것이다.	Dopamine. It's a hormone, animals secrete it within their brains while they are in the process of developing romantic attachments.						0	
+36	为什么是这个表情？你不可能不知道。	為什麼是這個表情？你不可能不知道。	なんて顔してるの？知らないはずないでしょう。	왜 그런 표정을 짓는가? 너도 모르는 건 아닐 것이다.	What do you mean by this look that you are giving me? Even you must be familiar with such basic biology.						0	
+37	还是说，不同物种之间产生爱的标志性反应不一样。	還是說，不同物種之間產生愛的標誌性反應不一樣。	それとも、種が違えば愛の反応も違うのかな。	아니면 생물의 종마다 사랑하는 방식이 다른다는 말인가.	... perhaps the biological aspects would work differently in an inter-species context...						0	
+38	还真是复杂啊。	還真是複雜啊。	複雑だね。	정말 복잡하다.	... the biological aspects are complicated.						0	
+39	我们两个？	我們兩個？	私たち？	우리 둘이?	Are you actually talking about you and me right now?						0	
+40	我想这里并没有第三个生物。	我想這裡並沒有第三個生物。	他に第三の生物はいないと思う。	여기 우리 둘 말고 누가 더 있나?	There isn't anybody else here.						0	
+41	我应该再带上相应的设备来的。	我應該再帶上相應的設備來的。	相応の設備を持ってくれば良かった。	뇌파수를 측정하는 적절한 장비를 가져왔어야 했다.	I should have brought more research equipment.						0	
+42	这样就可以对我们的大脑进行实时监控，看是不是有数据支撑理论。	這樣就可以對我們的大腦進行即時監控，看是不是有數據支撐理論。	そうすれば私たちの脳をリアルタイムで監視や測定ができる。そして結論を支えるデータがあるかどうか分かる。	우리의 두뇌를 실시간으로 모니터링하면 데이터를 지지할 수 있는 이론이 있는지 확인할 수 있기 때문이다.	It would be great if I could measure the hormone levels in our brains right now.						0	
+43	我一瞬间不知道该怎么接话。	我一瞬間不知道該怎麼接話。	一瞬、言葉に詰まった。	나는 이런 말들에 어떻게 답변을 해야 할지 도무지 감이 오지 않았다.	Where to even begin to respond to that?						0	
+44	如果猫汐尔真的带了监测仪器，那仪器表上我的脑电波一定十分紊乱。	如果貓汐爾真的帶了監測儀器，那儀器表上我的腦電波一定十分紊亂。	もしマーシルが本当に監視測定の機器を持ってきていたら、計器盤に表示される私の脳波はきっと乱れている。	만일 시에라가 뇌파수 측정 기구를 가져왔다면, 측정기에 표시되는 내 뇌파수는 매우 혼란스러웠을 것이다.	If Mauxir had brought that kind of monitoring equipment, she'd have been getting some very strange readings from me...						0	
+45	并且，我分泌的一定不是多巴胺，而是因为焦虑恐慌产生的肾上腺素。	並且，我分泌的一定不是多巴胺，而是因為焦慮恐慌產生的腎上腺素。	そして、私の脳が分泌してるのはきっとドーパミンではなく、緊張や恐怖によるアドレナリンだ。	그것은 분명 도파민 때문이 아니라, 어떠한 불안감 때문에 생기는 아드레날린일 것임이 틀림없다.	She wouldn't have been picking up dopamine... adrenaline maybe... natural response to stress...						0	
+46	我低着头，努力思索着。哪些文字排列组合起来，可以让猫汐尔理解我们现在的情况和那篇日志是不同的。	我低著頭，努力思索著。哪些文字排列組合起來，可以讓貓汐爾理解我們現在的情況和那篇日誌是不同的。	私は俯いて、必死で考えた。どの言葉を組み合わせれば、私たちの状況とさっきの日記は別の話だとマーシルに理解させられるか。	나는 고개를 숙여 그 어느 때보다 열심히 고민했다. 어떤 말을 해야 우리의 상황과 일기의 내용이 다르다는 걸 증명할 수 있을지…	I stared at the ground and thought hard for quite a long time. There must be some sequence of words I could say to her, explaining that what was happening here differed greatly from the story.						0	
+47	真希望我也能学会过去人们擅长的文字诡计。	真希望我也能學會過去人們擅長的文字詭計。	私も昔の人のように言葉のトリックが使えたらよかったのに。	순간 과거에 사람들이 문자를 갖고 감정을 교류하며 장난치던 것처럼 이런 상황을 능숙하게 설명하고 싶었다.	But I wasn't as good with words as people had been back then.						0	
+48	就在我还在苦恼的时候，听到不知道何时绕到我后面去的猫汐尔，颇为开心地低语着什么。	就在我還在苦惱的時候，聽到不知道何時繞到我後面去的貓汐爾，頗為開心地低語著什麼。	悩んでいると、いつの間にか後ろに回り込んだマーシルが嬉しそうに何かをささやいている声が聞こえた。	골머리를 앓고 있던 중, 시에라는 어느 순간 내 뒤로 와서 신이 난 듯 작은 목소리로 중얼거리기 시작했다.	I was still deep in thought when I heard Mauxir start muttering... She was behind me? How had she ended up behind me without me noticing?						0	
+49	找到了。	找到了。	あった。	찾았다.	Found it.						0	
+b-13											0	
+50	找到了……什么？	找到了……什麼？	何が……？	찾았다니… 뭘?	... you found what?						0	
+51	猫汐尔将一个奇怪的物件放进了口袋。	貓汐爾將一個奇怪的物件放進了口袋。	マーシルは何か変なものをポケットに入れた。	시에라는 어떤 이상한 물건을 주머니에 짚어 넣었다.	I saw her slip something into her pocket. Funny-looking thing, I had no idea what it was.						0	
+52	禁止事项。	禁止事項。	禁則事項。	금지사항.	Topic is restricted.						0	
+53	你还没回答我的问题。	你還沒回答我的問題。	まだ私の質問に答えてない。	그리고 당신은 아직 내 질문에 대답을 하지 않았다.	You never answered my question.						0	
+54	此刻的我终于才想到了答案。我深呼吸了一口气，看着猫汐尔。	此刻的我終於才想到了答案。我深呼吸了一口氣，看著貓汐爾。	ここでやっと答えを思いついた。私は深呼吸してマーシルを見つめながらこう言った。	그 순간 난 답변을 어떻게 해야 할지 알 수 있었다. 그리고 심호흡을 하고는 시에라를 보며 말했다.	Well, at least now I had a good answer to give her.						0	
+b-14											0	
+55	禁止事项。	禁止事項。	禁則事項。	금지사항이다.	Topic is restricted.						0	
+b-15											0	
+56	用你的话来说，翻译为人类常用词是：秘密。	用你的話來說，翻譯為人類常用詞是：秘密。	マーシルの言葉を借りると、人間が言うところの、秘密。	네 말대로 인간들이 사용하는 언어로 표현하자면 '비밀'이다.	Or, as we humans would say: none of your business.						0	
+57	猫汐尔似乎对我的回答有些惊讶，她那酷似扫描仪般机敏的双眼，第一次传递出了复杂的情绪。	貓汐爾似乎對我的回答有些驚訝，她那酷似掃描儀般機敏的雙眼，第一次傳遞出了複雜的情緒。	マーシルは私の答えに少し驚いたようだ。彼女のスキャナーみたいに鋭い目が、初めて複雑な感情を伝えて来た。	내 대답에 놀란 듯 시에라는 스캐너와 같은 두 눈으로 복잡한 감정을 처음으로 내비쳤다.	Mauxir didn't seem to know how to process that. Her scanner-like eyes were doing something I hadn't ever seen them do before... they were expressing how she felt...						0	
+58	不管怎么说，我想，她以后会明白的。	不管怎麼說，我想，她以後會明白的。	いずれにせよ、マーシルはきっと、いつか分かると思う。	어쨌든 난 시에라가 나중에라도 스스로 터득할 거라 생각한다.	I had a fair sense that it actually didn't really matter what I said to her, she was going to understand me either way.						0	

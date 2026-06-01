@@ -1,0 +1,4 @@
+﻿Id	备注	生效时间	结束时间	标题	文本	补领标题	补领文本	蛋糕图标	UI名称	过期时间
+Id	NUL	Time	EndTime	title	text	expiretitle	expiretext	icon	UIName	Expiration
+2025	25年生日祝福	[202501010000]	[202601010000]	ui.TxtBirthdayWishes_title	ui.TxtBirthdayWishes	ui.TxtBirthdayWishes_title	ui.TxtBirthdayWishes	110700003		30
+2026	26年生日祝福	[202601010000]	[202701010000]	ui.TxtBirthdayWishes2026_title	ui.TxtBirthdayWishes2026	ui.TxtBirthdayWishes2026_title	ui.TxtBirthdayWishes2026	110100013		90

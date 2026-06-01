@@ -1,0 +1,4 @@
+﻿字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Speaker	WwiseEventID	zh_CN	disable	Remark
+page1.1	T精神崩溃的女人	Play_Vo_dlc7act1_woman01_01	这一定是惩罚……是背叛降临团的……惩罚……	0	
+page1.2	T琴诺	Play_Vo_dlc7act1_meursault_01	这家伙疯了吧……	0	

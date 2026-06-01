@@ -1,0 +1,150 @@
+﻿按键符号	显示名称	图标	战斗内图标	图文结合图标
+Key	Name	Icon	FightIcon	HyperIcon
+Q	Q			
+W	W			
+E	E			
+R	R			
+T	T			
+Y	Y			
+U	U			
+I	I			
+O	O			
+P	P			
+A	A			
+S	S			
+D	D			
+F	F			
+G	G			
+H	H			
+J	J			
+K	K			
+L	L			
+Z	Z			
+X	X			
+C	C			
+V	V			
+B	B			
+N	N			
+M	M			
+T	T			
+F1	F1			
+F2	F2			
+F3	F3			
+F4	F4			
+F5	F5			
+F6	F6			
+F7	F7			
+F8	F8			
+F9	F9			
+F10	F10			
+F11	F11			
+F12	F12			
+Tilde	~			
+One	1			
+Two	2			
+Three	3			
+Four	4			
+Five	5			
+Six	6			
+Seven	7			
+Eight	8			
+Nine	9			
+Zero	0			
+Hyphen	-			
+Equals	+			
+BackSpace	Back			
+CapsLock	Caps			
+LeftShift	LShift			
+LeftBracket	[			
+RightBracket	]			
+Backslash	\			
+Semicolon	;			
+Comma	,			
+Period	.			
+Slash	/			
+RightShift	RShift			
+LeftControl	LCtrl			
+LeftAlt	LAlt			
+SpaceBar	Space			
+RightControl	RCtrl			
+Shift	Shift			
+Control	Ctrl			
+Alt	Alt			
+Up	↑			
+Down	↓			
+Right	→			
+Left	←			
+NumPadOne	Pad 1			
+NumPadTwo	Pad 2			
+NumPadThree	Pad 3			
+NumPadFour	Pad 4			
+NumPadFive	Pad 5			
+NumPadSix	Pad 6			
+NumPadSeven	Pad 7			
+NumPadEight	Pad 8			
+NumPadNine	Pad 9			
+NumPadZero	Pad 0			
+Divide	Pad /			
+Multiply	Pad *			
+Subtract	Pad -			
+Add	Pad +			
+Decimal	Pad .			
+LeftMouseButton	ui.LeftMouseButton	1003000	1003000	
+RightMouseButton	ui.RightMouseButton	1003001	1003001	
+ThumbMouseButton	ui.ThumbMouseButton	1003005	1003005	
+ThumbMouseButton2	ui.ThumbMouseButton2	1003006	1003006	
+ThumbMouseButton3	ui.ThumbMouseButton3	1003007	1003007	
+ThumbMouseButton4	ui.ThumbMouseButton4	1003008	1003008	
+Enter	Enter 			
+				
+HIDJoystick_Button1	X	1003023	1101013	icon.square
+HIDJoystick_Button2	A	1003022	1101012	icon.X2
+HIDJoystick_Button3	B	1003025	1101015	icon.circle
+HIDJoystick_Button4	Y	1003024	1101014	icon.triangle
+HIDJoystick_Button5	L1	1003026	1101016	icon.L1
+HIDJoystick_Button6	R1	1003028	1101017	icon.R1
+HIDJoystick_Button7	L2	1003020	1101010	icon.L2
+HIDJoystick_Button8	R2	1003019	1101009	icon.R2
+HIDJoystick_Button9	Select	1101027	1101027	icon.LM2
+HIDJoystick_Button10	Start	1101028	1101028	icon.RM2
+HIDJoystick_Button11	L-Button	1101029	1101029	icon.L
+HIDJoystick_Button12	R-Button	1003051	1003051	icon.R
+HIDJoystick_Button13	Home			
+HIDJoystick_DPADUP	UP	1003041	1101021	icon.up
+HIDJoystick_DPADLEFT	LEFT	1003043	1101023	icon.left
+HIDJoystick_DPADRIGHT	RIGHT	1003044	1101024	icon.right
+HIDJoystick_DPADDOWN	DOWN	1003042	1101022	icon.down
+				
+Gamepad_FaceButton_Left	X	1003018	1101008	icon.X
+Gamepad_FaceButton_Bottom	A	1003016	1101006	icon.A
+Gamepad_FaceButton_Right	B	1003015	1101005	icon.B
+Gamepad_FaceButton_Top	Y	1003014	1101004	icon.Y
+Gamepad_LeftShoulder	LB	1003013	1101003	icon.LB
+Gamepad_RightShoulder	RB	1003017	1101007	icon.RB
+Gamepad_LeftTrigger	LT	1003011	1101001	icon.LT
+Gamepad_RightTrigger	RT	1003012	1101002	icon.RT
+Gamepad_Special_Left	Select	1101025	1101025	icon.LM
+Gamepad_Special_Right	Start	1101026	1101026	icon.RM
+Gamepad_LeftThumbstick	L-Button	1101029	1101029	icon.L
+Gamepad_RightThumbstick	R-Button	1003051	1003051	icon.R
+Home	Home			
+Gamepad_DPad_Up	UP	1003041	1101021	icon.up
+Gamepad_DPad_Left	LEFT	1003043	1101023	icon.left
+Gamepad_DPad_Right	RIGHT	1003044	1101024	icon.right
+Gamepad_DPad_Down	DOWN	1003042	1101022	icon.down
+MiddleMouseButton	MiddleMouse	1003002	1003002	
+MouseScrollUp	MouseUp	1003003	1003003	
+MouseScrollDown	MouseDown	1003004	1003004	
+				
+Escape	Esc			
+				
+Ampersand	&			
+E_AccentAigu	é			
+Quote	"			
+Apostrophe	'			
+LeftParantheses	(			
+Hyphen	-			
+E_AccentGrave	è			
+Underscore	_			
+C_Cedille	ç			
+A_AccentGrave	à			

@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	今早又睡过头了唔。	今早又睡過頭了唔。	うぅ、今日も寝坊してしまいました。	오늘 아침에 또 늦잠을 잤네.	I overslept again today~						0	2.6版本恩雅随机事件
+page1.2	度假期间，作息有些混乱了呢。	度假期間，作息有些混亂了呢。	休日だからか、生活リズムが乱れてるな。	휴가 기간에 규칙적인 생활 패턴이 깨졌네요.	We're on vacation. It's normal for your schedule to get a little messed up.						0	2.6版本恩雅随机事件
+page1.3	是啊，幸好有分析员叫我起来，不然就要错过赶海了。	是啊，幸好有分析員叫我起來，不然就要錯過趕海了。	そうですね。分析員が起こしてくれたおかげで、潮干狩りの時間になんとか間に合いました。	그러게, 분석가가 깨워줘서 다행이야, 안 그러면 해산물을 줍는 타이밍을 놓쳤을 거야.	Yeah~ Good thing you woke me up, Adjutant. I would've missed out on going to the beach.						0	2.6版本恩雅随机事件
+page1.4	我晨练完回来看你还没醒，是这些天累坏了吧？	我晨練完回來看你還沒醒，是這幾天累壞了吧？	朝練から帰ってきてもまだ寝ていたからな。最近疲れていたのか？	조깅 끝내고 왔는데 아직 안 깼더라고요, 요즘 많이 피곤했나요?	I noticed you were still asleep when I got back from my morning run. Have the past few days been too tiring for you?						0	2.6版本恩雅随机事件
+page1.5	怎么会呢？和分析员一起度过的每一天，都很幸福。	怎麼會呢？和分析員一起度過的每一天，都很幸福。	そんなことないですよ。分析員と一緒に過ごす日々はずっと幸せです。	그럴 리가? 분석가와 함께 보내는 하루하루가 너무 행복해.	No, of course not. I'm happy every single day we spend together, Adjutant.						0	2.6版本恩雅随机事件
+page1.6	不过……要是像分析员一样，忙了一晚还能精神抖擞就好了。	不過……要是像分析員一樣，忙了一晚還能精神抖擻就好了。	ですが……やっぱり分析員みたいに、夜あれだけ頑張っても、起きたら元気に動けるようになりたいですね。	하지만… 분석가처럼 밤새 바빴는데도 이렇게 기운이 넘쳤으면 좋겠네.	But... I do wish I could be as energetic as you after a busy night.						0	2.6版本恩雅随机事件
+page1.7	那，要不今晚不忙活了？	那，要不然今晚不忙了？	それじゃ、今夜はやめとこうか。	그럼, 오늘 밤은 쉴까요?	Then why don't we take it easy tonight?						0	2.6版本恩雅随机事件
+page1.8	为了我们恩雅明天能精神百倍，今晚我们都早些休息。你觉得怎样？	為了我們恩雅明天能精神百倍，今晚我們都早點休息。你覺得怎樣？	エンヤが明日元気よく動けるように、今夜は早めに休むことにしよう。どう？	엔야 누님이 내일은 기운이 넘칠 수 있게 오늘 밤은 일찍 쉬는 게 어때요?	We should turn in early. That way, you'll have more energy tomorrow. What do you think?						0	2.6版本恩雅随机事件
+page1.9	分析员……你这个问题可真是太狡猾了！	分析員……你這個問題真是太狡猾了！	分析員……その言い方、ずるいですよ！	분석가… 그 질문은 너무 못됐잖아!	Adjutant... that's a really tricky question!						0	2.6版本恩雅随机事件
+page1.10	我不想太早睡着错过与你相爱的时光，至于会不会影响明天的状态，我们今晚不妨再研究下？	我不想太早睡著錯過與你相愛的時光，至於會不會影響明天的狀態，我們今晚不妨再研究下？	睡眠時間を確保するために、あなたと愛し合う時間を減らしたくありません。どこまでなら明日に影響しないかについては……今夜、一緒に研究しませんか？	너무 일찍 잠들어서 너와 함께하는 시간을 놓치고 싶진 않아. 내일 상태가 어떨지는 오늘 밤에 다시 연구해 보는 게 어때?	I don't want to go to bed too early and miss out on our romantic time together. As for whether it gives me more energy for tomorrow... why don't we do a little more research tonight?						0	2.6版本恩雅随机事件

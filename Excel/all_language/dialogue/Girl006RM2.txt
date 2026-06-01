@@ -1,0 +1,57 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	宁静的午后，我在基地大厅休息，顺便品尝餐厅的新品蛋糕。	寧靜的午後，我在基地大廳休息，順便品嚐餐廳新推出的蛋糕。	静かな午後、寮のロビーで休んでいる私はレストランの新作ケーキを味わっている。	나른한 오후, 난 숙소의 로비에서 쉬면서 식당의 신상 케이크를 맛보고 있었다.	During a quiet afternoon in the Base, I was relaxing in the hall and trying out a new flavor of cake from the cafeteria.						0	
+2	就在最后一口蛋糕被我解决后，完成任务归来的晴飒爽地出现在我面前，走路带风。	就在我解決最後一口蛋糕後，完成任務歸來的晴颯爽地出現在我面前，而且還走路帶風。	残ったケーキを全部口に入れると、任務を終えて帰ってきた晴が意気揚々と私の前に現れた。	케이크의 마지막 한 입을 해치우려는 그때, 미션을 완료하고 돌아온 하루가 멋지게 내 앞에 나타났다. 그녀가 걸을 때면 항상 주변에 바람이 이는 것 같다.	As I took my last bite of cake, Haru, who had just returned from a mission, sped over to me like a gust of wind.						0	
+3	分析员，练习瑜伽的进展怎么样？	分析員，練習瑜珈的進展怎麼樣？	分析員、ヨガの練習は進んだか？	분석가, 요가 진도는 어떻게 되고 있어?	Adjutant, how have your yoga sessions been going?						0	
+b-1											0	
+4	嗯……出现了一些不可抗力。	嗯……出現了一些不可抗力。	えっと……少し不可抗力に遭遇したんだ。	음… 지금 불가항력의 상황이 발생했어요.	Well... there were circumstances beyond my control.						0	
+5	不可抗力？	不可抗力？	不可抗力？	불가항력이라니?	Circumstances beyond your control?						0	
+6	我之前确实下定决心要试试瑜伽，练习了几次入门动作以后也感觉效果不错。	我之前下定決心要試試瑜珈，練習了幾次入門動作後也感覺效果不錯。	確かに私はヨガをやろうと決めていて、最初のレッスンを何回か練習したらいい感じがした。	물론 요가를 시도해 봐야겠다고 결심했었고, 초보자 동작 몇 개를 연습해 본 결과, 나쁘지 않다는 생각이 들었던 건 사실이다.	I really had made up my mind to try yoga before, and I felt good after practicing a few basic moves.						0	
+7	然而，我似乎高估了自己的柔韧度。在几次尝试后，我发现自己的极限就是简单的拉伸动作了。	然而，我似乎高估了自己的柔軟度。在嘗試了幾次後，我發現自己的極限就是簡單的伸展動作了。	が、私は自分の柔軟性を過大評価していたようだ。何度か試してみたら、簡単なストレッチ程度が自分の限界だと実感した。	하지만 내 유연성을 너무 과대평가한 모양이다. 몇 번 시도해 본 결과, 난 단순한 스트레칭 동작도 역부족이라는 것을 깨달았다.	But I had seemingly overestimated my flexibility. After a few attempts, I realized that I was basically just stretching.						0	
+8	嗯……	嗯……	えっと……	음…	Hmm...						0	
+9	如果完全没尝试过，可能确实有一定难度。	如果完全沒練過，可能確實有一定難度。	経験のない人にとっては、確かに難易度が高いかもしれない。	한 번도 시도해 본 게 아니라면, 확실히 난이도가 있을 수도 있지.	If you've never tried it before, it can be quite difficult.						0	
+10	我想想，我们可以一起练。	我想想，我們可以一起練。	だったら、一緒に練習しようか。	내 생각엔 둘이서 같이 연습해도 될 것 같아.	I think we could practice together.						0	
+11	如果我手把手教你，应该容易入门一些。	如果我親自教你，應該更容易上手。	自分が手取り足取り教えたら、少しは簡単になるはずだ。	내가 직접 가르치면 입문하기가 더 쉬울지도 몰라.	It should be easier for you to make progress early on if I help you along the way.						0	
+b-2											0	
+12	一起练……	一起練……	一緒に練習か……	같이 연습을…	Practice together...						0	
+13	我的脑海中快速浮现出了一些画面。	我的腦海中迅速浮現出一些畫面。	一瞬、私の脳内にさまざまなシーンが浮かんできた。	순간 머릿속에 여러 장면이 떠오르기 시작했다.	Some memories flashed across my mind...						0	
+14	怎么停下来了？	怎麼停下來了？	なぜ止まるんだ？	왜 멈춘 거지?	Why did you stop?						0	
+15	实在……实在是练不动了……	實在……實在是練不動了……	もう……無理です……	정말… 더는 못하겠어요…	I... I really can't keep going...						0	
+16	零区是很危险的地方，我的职责是要保障你们每个人的安全。	零區是很危險的地方，我的職責是要保障你們每個人的安全。	エリアゼロは非常に危険な場所であり、ここにいる全員の安全を保障することこそ自分の使命だ。	제로 구역은 굉장히 위험해. 내 미션은 너희 모두의 안전을 책임져야 하고.	The Containment Zone is incredibly dangerous. It's my job to keep each and every one of you safe.						0	
+17	多一份体力储备，就多一分生存的机会。	多儲備一分體力，就多一分存活的機會。	体力をもっと付ければ、生存の機会が増える。	조금이라도 체력을 더 길러둬야 생존 가능성이 높아져.	The stronger you are, the better chance you have to survive.						0	
+18	我不会勉强你，剩下的五百个深蹲我替你做完。	我不會勉強你，剩下的五百個深蹲我替你做完。	無理強いはしない。残りのスクワット500回は自分が代わりにやろう。	강요하진 않을게. 남은 스쿼트 500개는 내가 대신 해주지.	I won't force you. I will do the remaining 500 squats for you.						0	
+19	我会替你多储备一份体力。	我會替你多儲備一份體力。	お前のためにもっと体力を付けてやるから。	내가 널 대신해서 체력을 더 길러두는 거야.	I'll reserve that extra strength for you.						0	
+20	……	……	……	...	...						0	
+21	呜……教练！我要做深蹲！	嗚……教練！我要做深蹲！	う……教官！スクワットをやらせてください！	아, 아니… 코치님! 갑자기 스쿼트가 하고 싶어졌어요!	*sob*... Coach! I'll do the squats!						0	
+22	晴是那种以身作则的类型。	晴是那種以身作則的類型。	晴は身をもって範を示すタイプだ。	하루는 항상 솔선수범하는 타입이다.	Haru liked to lead by example.						0	
+23	和她一起约好锻炼的话，如果坚持不住会很尴尬的。更何况，我现在的工作和休息时间实在混乱，很难有固定的空闲时间。	和她約好一起鍛煉的話，如果無法堅持會很尷尬的。更何況我現在的工作和休息時間不穩定，很難有固定的空閒時間。	彼女とのトレーニングを約束したら、中途半端になると気まずくなる。ましてスケジュールが混乱している今、いつ暇ができるかも分からない。	그녀와 함께 훈련하기로 해놓고 도중에 포기한다면 분명 민망한 상황이 발생할 것이다. 게다가 난 지금 업무 시간과 휴식 시간이 들쑥날쑥해서 규직적으로 시간을 내기가 어렵다.	It would be really embarrassing if I decided to exercise with her but couldn't stick to it. Moreover, my schedule was all over the place, so I didn't really have fixed free time.						0	
+24	以她的性格，就算是我，多次爽约也会让她暴走的。	以她的性格，就算是我，多次爽約也會讓她暴走的。	彼女の性格では、いくら相手が私でも何度もすっぽかされたら暴走するだろう。	아무리 나라고 해도 그녀의 성격대로면 여러 번 약속을 깼을 때 분명 화를 낼 것이다.	Knowing her, even if it was me, canceling on her multiple times would make her furious.						0	
+b-3											0	
+25	对了！说起没尝试过的东西……	對了！說起沒嘗試過的東西……	そうだ！やったことのないことといえば……	아, 그러고 보니 아직도 못해본 것들이 있는데…	Oh! Speaking of things I haven't tried...						0	
+b-4											0	
+26	你应该也有很多没尝试过的东西吧？	你應該也有很多沒嘗試過的東西吧？	君にもやったことのないことがたくさんあるだろう？	하루도 못 해본 것들이 꽤 많지 않나요?	There's probably a lot of stuff you've never tried, right?						0	
+27	为什么突然说这个？	為什麼突然說這個？	どうして急に？	갑자기 그런 건 왜 물어보지?	Why are you asking that out of the blue?						0	
+28	当然是为了转移话题……	當然是為了轉移話題……	そりゃ話題をそらすためだろう……	당연히 화제를 돌리기 위해서다…	To change the subject, of course...						0	
+b-5											0	
+29	你尝试过做蛋糕吗？	你試過做蛋糕嗎？	ケーキを作ったことはあるか？	혹시 케이크를 만들어 본 적 있어요?	Have you ever baked a cake?						0	
+30	我想起刚才吃完的蛋糕，随口问道。	我想起剛才吃完的蛋糕，隨口問道。	食べ終わったばかりのケーキを思い出した私は適当に聞いた。	방금 먹었던 케이크가 생각난 나는 무심코 질문을 던졌다.	Having just eaten a cake, it was the first thing that popped into my mind.						0	
+31	……	……	……	...	...						0	
+32	我不擅长烘焙。	我不擅長烘焙。	菓子作りは苦手だ。	난 베이킹을 잘 못해.	I'm not good at baking.						0	
+33	因为不喜欢吃甜食。	因為不喜歡吃甜食。	甘いものが好きじゃないから。	디저트를 좋아하지 않거든.	Because I don't like desserts.						0	
+b-6											0	
+34	第一次在生活中遇到不爱吃甜食的人。	第一次遇到不愛吃甜食的人。	甘いものが好きじゃない人に会うのはこれが初めてだ。	살면서 디저트를 싫어하는 사람은 처음 보네요.	You're the first person I've ever met who doesn't like desserts.						0	
+35	这是什么值得惊讶的事情吗？	這是什麼讓人驚訝的事情嗎？	不思議なことか？	그게 그렇게 놀랄만한 일인가?	Is it that surprising?						0	
+36	甜食中含有过量糖分，过量食用会容易肥胖或者骨质疏松，更重要的是会导致训练效果下降。	甜食中的糖分超標，過量食用容易肥胖或者骨質疏鬆，更重要的是會降低訓練效果。	甘いものには糖分が過剰に含まれており、食べすぎると肥満や骨粗鬆症になりやすくなる。なにより、トレーニング効果の低下に直結するから。	디저트에는 당분이 과다 함유되어 있어서 너무 많이 먹으면 비만이나 골다공증을 유발할 수 있어. 더 중요한 건 훈련 효과가 저하될 수 있다는 거야.	Desserts contain excessive amounts of sugar. Overconsumption can easily lead to obesity or osteoporosis. More importantly, it will also negatively affect training progress.						0	
+37	因为个人享受耽误正事，对我来说是不可接受的。	因為個人的享受而耽誤正事，對我而言是無法接受的。	享楽のために仕事に支障をきたすのは、個人的には受け入れられないことだ。	개인적인 이유로 업무에 지장을 주는 건 받아들일 수 없어.	The way I see it, indulging in things that will keep me from doing my job is unacceptable.						0	
+b-7											0	
+38	你是苦行僧吗……只要不吃太多就好了。	你是苦行僧嗎……只要不吃太多就好了。	ストイックにも程があるだろう……食べ過ぎなければいいんんじゃないの。	금욕주의자도 아니고… 너무 많이 먹지만 않으면 되죠.	Are you a dietician or something...? Desserts are fine in moderation.						0	
+b-8											0	
+39	没有吃过奶油蛋糕的人生绝不完整！	沒有吃過奶油蛋糕的人生絕不完整！	クリームケーキを食べたことのない人生なんて不完全だ！	버터케이크를 먹지 않았다는 건 인생을 헛산 거라고요!	Your life isn't complete until you've had shortcake!						0	
+40	嗯……	嗯……	うん……	음…	Hmm...						0	
+41	晴好像在思考什么。	晴好像在思考什麼。	晴が何か考えているようだ。	하루는 뭔가를 고민하는 듯했다.	Haru seemed to be thinking about something.						0	
+42	这样吧，分析员……	這樣吧，分析員……	こうしよう、分析員……	그럼 이렇게 하자, 분석가…	Alright then, Adjutant...						0	
+43	我会听从你的建议，尝试一下“奶油蛋糕”。	我會聽從你的建議，試吃一下“奶油蛋糕”。	あなたの提案を受け入れ、「クリームケーキ」に挑戦してみよう。	네 의견대로 '버터케이크'를 먹어볼게.	I'll follow your advice and try shortcake.						0	
+44	相对的，我希望你也能尝试一下瑜伽。	相對的，我希望你也能試一下瑜珈。	そのかわり、あなたにもヨガをやってみてほしい。	그 대신, 분석가도 요가를 시도했으면 싶어.	But in return, I hope you'll give yoga another try too.						0	
+45	这应该很公平，没有瑜伽的人生也不完整。	這應該很公平，沒有瑜珈的人生也不完整。	これは公平なことだ。ヨガのない人生も不完全だからな。	공평하잖아. 요가를 한 번도 못 해보면 평생 아쉬움이 따를 거야.	I think it's fair. Your life isn't complete until you've tried yoga, after all.						0	
+46	结果还是没能转移话题成功吗……	結果還是沒成功轉移話題嗎……	結局、話題そらしに失敗か……	결국 화제를 돌리는 건 실패한 건가…	I still ultimately failed to change the topic...						0	
+47	压力，给到了我的韧带。	壓力，施加在我的韌帶上。	ストレスが私の靭帯に迫ってきた。	벌써 스트레스로 나의 인대에 영향을 주기 시작한다.	I could already feel the pressure weighing on my ligaments.						0	

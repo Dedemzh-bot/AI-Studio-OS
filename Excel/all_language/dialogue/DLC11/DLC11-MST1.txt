@@ -1,0 +1,97 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	呵，抱歉，没打招呼我就偷偷溜进来了。	呵，抱歉，沒打招呼我就偷偷溜進來了。	ふふ。挨拶もなしに部屋に入ってごめんね。	하, 인사도 없이 몰래 들어와서 미안해.	Heh, sorry. I snuck in without saying anything.						0	
+2	房间中，阳光柔和地洒在地板上，映射出凯茜娅曼妙的身姿。	房間中，陽光柔和地灑在地板上，映射出凱茜婭曼妙的身姿。	柔らかい光で充満した部屋の中で、カーシアが佇んでいた。	방 안, 따사로운 햇볕이 바닥에 쏟아지며 캐시아의 아름다운 자태를 비추었다.	Sunlight softly spilled onto the floor of the room, reflecting Katya's graceful figure.						0	
+3	此刻的她正倚靠在窗前，微笑着看着门口刚刚进来的我，手里把玩着一个小小的药瓶。	此刻的她正倚靠在窗前，微笑著看著門口剛進來的我，手裡把玩著一個小小的藥瓶。	彼女は窓辺に立ち、小さな薬瓶のようなものを持って、扉から入ってくる私を見つめている。	그녀는 창가에 기대 미소를 지으며 막 들어온 나를 바라보았고, 손에는 작은 약병이 들려있었다.	Leaning against the window and fiddling with a small bottle of ointment in her hands, she smiled as she watched me walk through the door.						0	
+4	倒也没有太惊讶，毕竟自打我们回来之后，你人就不见了。	倒也沒有太驚訝，畢竟自從我們回來之後，你人就不見了。	そんなに驚いていないさ。戻ってきてから、君はすぐにいなくなったからね。	그렇게 놀라지는 않았어, 우리가 돌아오자마자 바로 모습을 감췄었잖아.	I'm not really surprised. After all, you just disappeared after we got back.						0	
+5	呵，听你这语气，是早就猜到我会在这里了吗？	呵，聽你這語氣，是早就猜到我會在這裡了嗎？	ふ……まさか最初からここに来るだろうと予想していたの？	하, 그러니까 그 말은 내가 이곳에 나타날 거라는 걸 알고 있었다는 거네?	Heh, it sounds like you had a feeling I'd be here, right?						0	
+6	不然呢，你又不是初犯，而且别忘了，我可是你的“监护人”啊，如果连这点小事都猜不到又该怎么“照看”好你呢？	不然呢，你又不是初犯，而且別忘了，我可是你的「監護人」啊，如果連這點小事都猜不到又該怎麼「照顧」好你呢？	そうだよ。今までも似たようなことはたくさんあったからな。それに、私は君の「監視役」だ。これくらい予想できないで、どうやって君の「面倒」を見るんだ？	물론이지, 이번 처음도 아니잖아, 게다가 난 너의 '간호인'인 거 잊지 마, 만약 이런 사소한 일도 못 맞추면 널 어떻게 '보살피'겠니?	What do you think? This isn't your first time breaking the rules, and don't forget — I'm your "guardian." If I let something small like this get past me, how would I be able to look after you?						0	
+7	……	……	……	……	...						0	
+8	被我这么一说，凯茜娅突然停下了手中的动作，脸上闪过一丝羞恼，随后将手中的药瓶丢给了我。	被我這麼一說，凱茜婭突然停下了手中的動作，臉上閃過一絲羞惱，隨後將手中的藥瓶丟給了我。	私の言葉を聞くと、カーシアは急に動きを止めて、恥ずかしそうな表情で薬瓶を私に投げてきた。	나의 말을 듣고 캐시아는 갑자기 움직이던 손을 멈추며 부끄러운 표정을 지으며 약병을 나에게 던졌다.	Upon hearing this, Katya's hands suddenly froze. A hint of embarrassment flashed across her face before she tossed the bottle of ointment she was holding over to me.						0	
+9	哼，在照看别人之前，照看好你自己吧。	哼，在照顧別人之前，先照顧好自己吧。	ふん。人の面倒を見る前に、自分の面倒をみなさい。	흥, 다른 사람을 보살피기 전에, 너 자신이나 좀 보살펴.	Hmph. Look after yourself before you start worrying about other people.						0	
+10	这是专门缓解肿痛的药膏，我随身带着的。	這是專門緩解腫痛的藥膏，我隨身帶著的。	腫れが治まる塗り薬よ。私もいつも使ってるの。	이건 내가 항상 들고 다니는 연고인데, 부어오르고 아플 때 바르면 좋아.	That ointment helps relieve swelling and pain. I always carry it on me.						0	
+11	我接过药膏，将它涂在了刚刚被水母蜇过的地方……虽说伤口早就已经被处理过了。	我接過藥膏，將它塗在了剛剛被水母蜇過的地方……雖說傷口早就已經被處理過了。	すでに手当て済みたが、私はすぐさま瓶の蓋を開けて、自分の傷に塗った。	연고를 받아 해파리에게 쏘인 곳에 발랐다… 비록 상처는 이미 처치가 끝났지만 말이다.	I scooped out some ointment, rubbing it on my jellyfish sting... even though the sting had already been treated.						0	
+12	怎么样？感觉好些了吗？	怎麼樣？感覺好一點了嗎？	効き目はどう？	어때? 좀 괜찮아졌어?	Well? Does it feel any better?						0	
+13	好多了，你这药膏还挺管用的。	好多了，你這藥膏還蠻管用的。	ばっちりだ。すごい薬だな。	많이 좋아졌어, 연고 효과가 정말 좋은데?	Much better. This stuff works pretty well.						0	
+14	呵呵呵，你还真会糊弄人，明明都没涂匀呢。	呵呵呵，你還真會瞎掰，明明都還沒塗勻呢。	ふふふ、口がよく回るわね。全然ちゃんと塗っていないのに。	후후후, 거짓말, 아직 다 바르지도 않았잖아.	Heheh, you think you're so slick. It's obvious you didn't even rub it in.						0	
+15	再说，这也不是给你涂在那里的……	再說，這也不是給你塗在那裡的……	それに、渡したのはそのためじゃないわ……	그리고 거기 바르라고 준 것도 아니야…	Besides, I didn't give it to you to apply there...						0	
+16	说完，她先是蹲下身，用掌心温柔地将我腿上的药膏抹匀。	說完，她先是蹲下身，用掌心溫柔地將我腿上的藥膏抹勻。	そう言いながら、彼女は私の前で体を屈めて、手のひらで足に塗られた薬を塗り広げてから……	말을 마치고 그녀는 자세를 낮춰 손바닥으로 나의 다리를 부드럽게 문지르며 연고를 펴 발라준다.	With that, she squatted down and began to gently spread the ointment on my leg with her palm.						0	
+17	随后又起身褪去我的衬衫，将药膏涂在了我那被她捏红的肩膀上……	隨後又起身褪去我的襯衫，將藥膏塗在了我那被她捏紅的肩膀上……	立ち上がって私のシャツを脱がせると、赤くなった肩に改めて薬を塗った。	그러고는 나의 셔츠를 벗기고 그녀가 잡아 붉어진 어깨에도 연고를 발랐다…	She then stood back up, took off my shirt, and rubbed more ointment on my now-red shoulder that she had grabbed a bit too fiercely earlier...						0	
+18	抱歉……刚刚在钢丝上时，没有控制好力度。	抱歉……剛在鋼絲上時，沒有控制好力度。	ごめんね。綱の上だと、力加減ができなくて。	미안해… 아까 와이어 위에서 힘 조절을 잘 못했어.	Sorry... I didn't hold back on the wire just now.						0	
+19	随着膏药再次被抹匀，凯茜娅的语气又渐渐软了下来。	隨著膏藥再次被抹勻，凱茜婭的語氣又漸漸軟了下來。	薬を塗り広げていくに従って、カーシアの口調も段々と落ち着いていった。	연고를 골고루 바르고 나서, 캐시아의 말투도 조금씩 부드러워지기 시작했다.	As she spread the ointment out evenly once again, Katya's tone also gradually softened.						0	
+20	……下次我会尽力克服对高处的恐惧的。	……下次我會盡力克服對高處的恐懼的。	……今度は、高所恐怖症を克服してみせるわ。	…다음에는 고소공포증을 최대한 극복해 보도록 할게.	...I'll do my best to overcome my fear of heights next time.						0	
+21	我握住她的手腕，摇了摇头纠正了她的说法。	我握住她的手腕，搖了搖頭糾正了她的說法。	その言葉に、私は彼女の手首に手を添えて、首を振った。	난 그녀의 손목을 잡고 고개를 저으며 그녀의 말을 바로잡아줬다.	I held her wrist, shaking my head to correct her.						0	
+22	凯茜娅，你不用立马就强迫自己去克服恐惧。	凱茜婭，你不用立刻就強迫自己去克服恐懼。	すぐに恐怖心を克服してもらう必要はないよ、カーシア。	캐시아, 그렇게 억지로 공포심을 바로 극복하려고 안 해도 돼.	Katya, you don't need to force yourself to overcome your fears immediately.						0	
+23	我们的时间还很长，我会陪你慢慢面对的。	我們的時間還很長，我會陪你慢慢面對的。	時間はたっぷりあるんだ。一緒にゆっくりと向き合おう。	아직 시간은 많으니, 나랑 같이 천천히 하도록 해.	We have plenty of time. We can face them together, slowly.						0	
+24	嗯……	嗯……	うん……	음…	Okay...						0	
+25	少女的眉头渐渐舒展开来，但似乎还有话压在心底。	少女的眉頭漸漸舒展開來，但似乎還有話壓在心底。	少女の顔がようやく穏やかになり始めた。けれどその一方で、その表情はあきらかになにか言いたげだった。	소녀는 인상이 조금씩 풀리기 시작했지만 하고 싶은 말을 마음속에 간직하고 있는듯했다.	The girl's brow relaxed somewhat, but it seemed like there was something still weighing on her mind.						0	
+26	明明只要再往前一步，就可以跨越那道无形的屏障，将心中的情感全部释放。	明明只要再往前一步，就可以跨越那道無形的屏障，將心中的情感全部釋放。	あと一歩だけ踏む出せば、形のない壁を乗り越えて、気持ちをすべて開放できるのに……	분명 한 걸음만 더 나아가면 보이지 않는 장벽을 뛰어넘어 마음속 감정을 표출할 수 있을 것이다.	She only needed to take one more step forward to cross that invisible barrier, letting out all of the pent-up emotions inside her.						0	
+27	然而不知为何，这一步，她却迟迟无法迈出。	然而不知為何，這一步，她卻遲遲無法踏出。	彼女はいつまで経っても踏み出せないままでいるようだ。	하지만 그녀가 그 한 걸음을 나아가지 못하는 이유를 전혀 알 수 없었다.	But for some reason, she hesitated, unable to take that step.						0	
+28	于是，我只能继续引导道。	於是，我只能繼續引導。	だから私も、こうして彼女を導き続けることしかできないのだ。	그래서 난 어쩔 수 없이 그녀를 계속 유도해 나갔다.	So I could only continue to guide her.						0	
+29	能告诉我吗？害怕高处的理由，以及，你所担心的事。	能告訴我嗎？害怕高處的理由，以及，你所擔心的事。	教えてくれないか？君が高所恐怖症になった理由や、君が心配していることについて。	말해줄 수 있어? 높은 곳을 무서워하는 이유, 그리고 네가 걱정하는 것들까지.	Could you tell me? Why you're afraid of heights and what you're worried about?						0	
+30	见她点头答应后，我轻轻抚上她的手背。	見她點頭答應後，我輕輕撫上她的手背。	彼女が小さくうなずくのを見て、私は自分の手を彼女の手の甲に置いた。	그녀가 고개를 끄덕이는 걸 확인하고, 그녀의 손등을 조심스레 쓰다듬었다.	Seeing her nod in agreement, I gently caressed the back of her hand.						0	
+31	刹那间，我看到了这样的回忆——	剎那間，我看到了這樣的回憶——	その瞬間、彼女の思い出が目の前で流れ出した——	이러한 기억들이 순식간에 나의 앞에 떠올랐다…	I saw her memories instantly—						0	
+32	失去了平衡的少女，好似一团被随手丢弃的纸团般坠向地面。	失去了平衡的少女，好像一團被隨手丟棄的紙團般墜向地面。	一歩踏み外した少女は、無造作に捨てられたゴミのように地面に落ちていく。	중심을 잃은 소녀가 버려진 휴지 조각처럼 땅 아래로 떨어지고 있다.	And just like that, I lost my balance. I collapsed like a crumpled-up ball of paper someone arbitrarily threw away.						0	
+33	下落的速度很慢，慢到让她产生了还有机会逆转一切的错觉……	下落的速度很慢，慢到讓她產生了還有機會逆轉一切的錯覺……	落ちる速度が遅くて、彼女にはまだ全部逆転できると思えた……	떨어지는 속도는 엄청 느렸고, 마치 역전을 할 수 있다는 착각을 할 정도로 느렸다…	Maybe it was just an illusion, but it felt like I was falling in slow motion, slow enough that I still had the chance to reverse everything...						0	
+34	但是，等到少女再次睁开双眼时，却发现自己早已身处泥泞。	但是，等到少女再次睜開雙眼時，卻發現自己早已身處泥濘。	でも、もう一度目を開けたら、少女は自分がすでに泥沼にいることに気づいた。	하지만 소녀가 다시 눈을 떴을 때는 이미 진흙탕 속으로 떨어진 후였다.	But when my eyes opened again, I realized I was already lying in the mud.						0	
+35	这是……	這是……	これは……	이건…	These...						0	
+36	小时候的我精力旺盛，为了在父母面前逞能，爬上了一棵很高很高的大树。	小時候的我精力旺盛，為了在父母面前逞能，爬上了一棵很高的大樹。	幼い頃の私は体を動かすのが好きだった。両親の前で強がるために、高い高い木に登ったこともあるの。	어렸을 때 기운이 넘쳐 부모님 앞에서 강한척한다고 엄청 높은 나무에 올라탔었어.	I was a super energetic kid. I climbed a really tall tree to show off to my parents.						0	
+37	结果却在爬上树冠的瞬间被太阳晃了眼，一不小心就摔到地上，摔坏了腿……	結果卻在爬上樹冠的瞬間被太陽晃了眼，一不小心就摔到地上，摔壞了腿……	それなのに、てっぺんまで登った瞬間、太陽光に目が眩んで、気付けば木から転落して足を怪我していたのよ……	나무 꼭대기에 올라선 순간, 눈 부신 햇빛이 눈 앞을 가려 땅 아래로 떨어져 다리를 다쳤었거든…	But the second I got to the top of the tree, the sunlight blinded me. I fell down to the ground and broke my leg...						0	
+38	之后，经过了几个月的调养，虽说我恢复了健康，但也自此对高处留下了阴影。	之後，經過了幾個月的調養，雖說我恢復了健康，但也自此對高處留下了陰影。	数か月後に一応完治したけれど、それをきっかけに高所恐怖症になったわ。	수개월 동안 몸조리를 하고 나서 건강을 되찾았지만 그때부터 높은 곳을 싫어하게 된 거야.	Even though I recovered after a few months of rest, I've been afraid of heights ever since.						0	
+39	嗯……	嗯……	ああ……	음…	Okay...						0	
+40	我点了点头，回应着凯茜娅的话。	我點了點頭，回應著凱茜婭的話。	私はカーシアの言葉に頷いた。	난 고개를 끄덕이며 캐시아의 말에 반응 해준다.	I nodded in response to Katya.						0	
+41	虽然心里隐隐觉得她讲述的故事与我脑海中的画面有些出入，但我还是没有选择当面追问太多。	雖然心裡隱隱覺得她說的故事與我腦海中的畫面有些出入，但我還是沒有選擇當面追問太多。	私が見た記憶とは少し違ったような気もするが、それ以上は聞き返さなかった。	그녀가 알려준 이야기와 머릿속에 떠오른 화면과 조금은 달랐지만, 너무 꼬치꼬치 캐묻지 않기로 결정했다.	I had a vague feeling that the story she'd told me was slightly different than the memories I'd seen in my mind. However, I decided not to push the issue right now.						0	
+42	只是默默地握紧了她那只微微颤抖的手，给予了她一份安慰与支持。	只是默默地握緊了她那隻微微顫抖的手，給了她一份安慰與支持。	今はかすかに震えるこの手を握りしめて、彼女を支えるべきだと思った。	묵묵히 떨리는 그녀의 손을 잡아주며 그녀에게 위로와 응원을 건넸다.	I simply held her trembling hand in silence, offering her comfort and support.						0	
+43	原来如此，那的确挺糟糕的……我懂那种感觉。	原來如此，那的確挺糟糕的……我懂那種感覺。	なるほど、そういうことだったのか。その気持ち、よくわかるよ。	그랬구나, 정말 끔찍했겠어… 그 느낌, 나도 잘 알고 있어.	I see. That must have been horrible... I understand that feeling.						0	
+44	嗯，我记得你从新恒提罗摔下去过……	嗯，我記得你從新恆提羅摔下去過……	あなたは確か、ニューガントラから転落したのよね……	응, 너도 뉴헨틸로에서 떨어진 적 있던 걸로 기억하는데.	Yeah, I remember how you fell off New Hentiro...						0	
+45	不止那一次哦，最高记录是从太空摔下来的。	不只那一次哦，最高紀錄是從太空摔下來的。	それだけじゃないさ。飛行距離が一番長かったのは、宇宙から落ちたときだな。	그때뿐만이 아니야, 최고 기록은 우주에서 떨어졌을 때일 거야.	And that wasn't even the only time — my personal record is falling from space.						0	
+46	呵……	呵……	ふっ……	하…	Heh...						0	
+47	听到我的调侃，凯茜娅忍不住轻笑一声，脸上的不安也终于散去几分。	聽到我的調侃，凱茜婭忍不住輕笑一聲，臉上的不安也終於散去幾分。	私の冗談を聞くと、カーシアは思わず噴き出した。彼女の顔に浮かんでいた不安もいつしか消えてなくなっていた。	나의 장난 때문인지 캐시아도 웃음을 터뜨렸고, 불안감이 가득했던 표정도 조금은 풀리기 시작했다.	Upon hearing my joke, Katya couldn't help but let out a soft laugh. The unease on her face finally began to disperse somewhat.						0	
+48	见状，我继续半开玩笑着说道。	見狀，我繼續半開玩笑著說。	そんな彼女を見て、私はさらに畳みかけることにした。	그 모습을 보고, 장난을 계속 이어갔다.	Noticing this, I continued talking, half-jokingly.						0	
+49	返回舱质量很差，我在里面被晃得几乎失去了所有的行动能力，眼看着逃生舱即将坠入地面……但就在千钧一发之际——	返回艙品質很差，我在裡面被晃得幾乎失去了所有的行動能力，眼看著逃生艙即將墜入地面……但就在千鈞一髮之際——	あの帰還カプセルは最悪だったよ。中にいる間、揺れが激しすぎて手も足も出ない状態でさ……脱出ポッドが着陸した瞬間——	탈출선이 정말 안 좋았거든, 너무 많이 흔들려서 안에서 거의 못 움직였지, 탈출선이 지면에 닿을 뻔했는데… 바로 그 순간…	The re-entry pod was a piece of junk. I got shaken around inside it so much that I could barely move. I could only watch on helplessly as it was about to crash to the ground... but at the very last moment...						0	
+50	千钧一发之际？	千鈞一髮之際？	瞬間？	그 순간?	At the very last moment?						0	
+51	……	……	……	……	...						0	
+52	我想起了那些关心我的人，是她们让我有了坚持下去的动力。	我想起了那些關心我的的人，是她們讓我有了堅持下去的動力。	その瞬間、私に関心を寄せている人達を思い出したんだ。みんなの存在が、私に勇気を与えた。	나에게 관심을 가져주는 사람들이 떠올랐어, 그들 때문에 버틸 수 있었던 거 같아.	I thought about all the people who cared about me. They were the ones who gave me the power to keep going.						0	
+53	那一瞬间，我的内心平静了下来，我决定不再被恐惧控制，我告诉自己，无论结果如何，都不要放弃希望。	那一瞬間，我的內心平靜了下來，我決定不再被恐懼控制，我告訴自己，無論結果如何，都不要放棄希望。	おかげで私はすぐに落ち着きを取り戻した。これ以上恐怖に縛られてはいけないと、結果がどうなるにしろ、希望を捨てるべきじゃないって思ったんだ。	그 순간, 마음속이 편해졌고 더 이상 공포심에 사로잡히지 않기로 결정했어, 결과가 어떻게 되든 희망을 버리지 않겠다고 스스로 다짐했지.	In an instant, I felt at peace. I decided not to let fear control me anymore. I told myself, no matter what happened, I wouldn't give up hope.						0	
+54	为什么如此笃定……会存在“希望”这种东西？	為什麼如此篤定……會存在「希望」這種東西？	その「希望」の存在を……どうしてそこまで信じられるの？	왜 그렇게 확신하는 거야… '희망'이 존재할 거라고?	What makes you so sure... something like "hope" even exists?						0	
+55	因为我始终坚信，只要我们还活着，就还有机会去改变一切。	因為我始終堅信，只要我們還活著，就有機會改變一切。	私達が生き続ける限り、すべてを変えることができると信じているからだ。	처음부터 우리가 살아만 있으면 모든 걸 바꿀 수 있는 기회가 있다고 믿었거든.	Because I've always believed we still have the chance to change everything, as long as we're still alive.						0	
+56	正因如此，我才选择不再被恐惧束缚，而是竭尽全力去迎接那个充满希望的美好未来。	正因如此，我才選擇不再被恐懼束縛，而是盡我所能去迎接那個充滿希望的美好未來。	だから私は恐怖に縛られることをやめて、希望に満ちた美しい未来を迎えようと努力しているのさ。	그렇기 때문에 더 이상 공포심에 발목 잡히지 않고, 최선을 다해 희망이 가득한 아름다운 미래를 맞이할 수 있게 된 거야.	That's exactly why I decided not to let fear shackle me. Instead, I do everything in my power to embrace a beautiful future, full of hope.						0	
+57	原来如此……呵呵呵。	原來如此……呵呵呵。	なるほどね。ふふふ。	그렇구나… 하하하.	I see... Heheh.						0	
+58	虽然语气中尚有怀疑，但凯茜娅的眼中还是闪过了一丝亮光。	雖然語氣中尚有懷疑，但凱茜婭的眼中還是閃過了一絲亮光。	まだ疑っているようだが、カーシアの目はかすかに輝き出していた。	여전히 의심스러워하는 말투였지만 캐시아의 눈동자에서 한 줄기의 빛을 볼 수 있었다.	Although doubt still lingered in her voice, I glimpsed a spark in Katya's eyes.						0	
+59	谢谢你……我会牢牢记住你这些话的。	謝謝你……我會牢牢記住你這些話的。	ありがとう……覚えておくわ。	고마워… 꼭 명심할게.	Thank you... I'll remember everything you said.						0	
+60	少女深吸了一口气。	少女深吸了一口氣。	彼女は深く息を吸い込んだ。	소녀는 한숨을 깊게 내쉰다.	She took a deep breath.						0	
+61	其实，关于那个从高处落下的故事，我……	其實，關於那個從高處落下的故事，我……	さっきの、高い場所から落ちた話なんだけど……	실은 아까 높은 곳에서 떨어진 이야기는…	Actually, that story about falling from a really high place... I...						0	
+62	正当凯茜娅准备继续说些什么的时候，一阵滴答声却打断了她。	正當凱茜婭準備繼續說些什麼的時候，一陣滴答聲卻打斷了她。	カーシアがまた語り出そうとすると、着信音が彼女の言葉を遮った。	캐시아가 무언가를 말하려고 하는 순간 시계 소리가 들려오며 그녀의 말을 끊었다.	Just as Katya was about to finish her sentence, she was interrupted by a beeping sound.						0	
+63	中场休息时间已经结束了吗……	中場休息時間已經結束了嗎……	休憩はもう終わりね……	휴식시간이 벌써 끝난 건가…	Is the intermission over already...?						0	
+64	嗯，每次和你单独相处时，时间都过得飞快。	嗯，每次和你獨處時，時間總是過得很快。	君と一緒にいると、時間が過ぎるのがいつもより早く感じるよ。	응, 매번 너랑 단둘이 있으면 시간이 정말 빨리 지나가는 거 같아.	Yep. Time always flies when we're alone together.						0	
+65	是啊，明明还有很多话想对你说，还有很多事想和你一起做……	是啊，明明還有很多話想對你說，還有很多事想跟你一起做……	そうね。あなたに話したいこと、あなたと一緒にしたいこと、まだたくさん残っているのに……	맞아, 너랑 하고 싶은 말도 많이 남았고, 같이 하고 싶은 일도 많이 남았는데…	Yeah, there's still a lot I want to say to you. And a lot of things I want to do together...						0	
+66	不过算了。还是等比赛结束之后，我们再找个清静的地方慢慢聊吧。	不過算了。還是等比賽結束之後，我們再找個清靜的地方慢慢聊聊吧。	まあいいわ。試合が終わったら、静かな場所でまたゆっくりと語りましょ。	근데 괜찮아, 시합이 끝나고 나면 조용한 곳에서 천천히 이야기를 이어가면 되니까.	Anyway, it's fine. Let's wait until the competition is over. We can find a quiet place and take our time talking.						0	
+67	她看向我，眼中闪烁着复杂的情感。	她看向我，眼中閃爍著複雜的情感。	彼女から向けられた視線の中には、複雑な感情が見え隠れしていた。	그녀는 복잡한 감정이 가득한 눈빛으로 날 바라보았다.	She looked at me, her eyes swirling with complicated emotions.						0	
+68	现在，还有其他女孩在等着你，大忙人playername……	現在，還有其他女孩在等你，大忙人playername……	たくさんの女の子があなたを待っているものね、playername……	지금은 다른 여성분들도 다 널 기다리고 있잖아, 인기스타 playername 씨…	There are other girls waiting for you now, Mr. Popular...						0	
+69	正如凯茜娅所言，水上乐园的另一端，蓄势待发的少女们早已做好了准备。	正如凱茜婭所言，水上樂園的另一端，蓄勢待發的少女們早已做好了準備。	カーシアの言う通りだった。サマーランドの向こうでは、少女達が準備をしながら待ちわびていた。	캐시아의 말대로 수상 낙원 반대편에서 소녀들은 충분한 준비를 마치고 기다리고 있었다.	As Katya said this, I spotted the girls who were all ready to go at the other end of the water park.						0	
+70	等了这么久，总算是轮到了我上场了喵。	等了這麼久，總算輪到我上場了喵。	やっと私の出番ニャン。	드디어 내가 나설 차례다냥.	I've waited a long time for this. It's finally my turn to take the stage, nya.						0	
+71	眨眼间，已经是最后一轮的挑战了……	眨眼間，已經是最後一輪的挑戰了……	あっという間に最後のチャレンジになりましたね……	눈 깜짝할 새 벌써 마지막 챌린지군요…	Just like that, it's already the final challenge...						0	
+72	保险起见，要不要趁现在去把对面的主力选手还有分析员干掉，这样就能直接获胜了喵。	保險起見，要不要趁現在去把對面的主力選手還有分析員幹掉，這樣就能直接獲勝了喵。	万が一に備えて、相手の主力と分析員をやっつけたらどう？そしたら不戦勝になるニャン。	안전하게 지금 건너편에 가서 주력 선수와 분석가를 제거하는 게 어때, 그러면 손쉽게 이길 수 있을 거다냥.	Should we take out their strongest contestant and the Adjutant first, just to be safe? That way, victory will be ours, nya.						0	
+73	哎……我们至少不能对分析员出手吧……	哎…我們至少不能對分析員出手吧……	え……少なくとも、分析員さんに手を出しちゃダメですよね……	후우… 적어도 분석가님에게 손을 쓸 순 없잖아요…	Ahhh... We can't attack the Adjutant, right...?						0	
+74	对谁都不能出手哦，这样子即便赢了分析员也不会高兴的。	對誰都不能出手喔，這樣子即便贏了分析員也不會高興的。	誰にも手出ししてはいけませんよ。それで勝っても、分析員さんはきっと喜んでくれませんから。	그 누구한테도 손을 쓰면 안 돼요, 이러면 분석가님을 이겨도 기뻐하지 않을 거야.	We shouldn't attack anyone. The Adjutant wouldn't like that, even if we win.						0	
+75	开个玩笑，别当真。	開個玩笑，別當真。	冗談だよ。	장난이니 너무 진지하게 받아들이지 마.	I was just joking. Don't take it seriously.						0	
+76	好紧张……两边的差距只有0.5分，以目前来看，完全不知道最后谁会赢……	好緊張……兩邊的差距只有0.5分，以目前來看，完全不知道最後誰會贏……	ヒリヒリするな～……点差は0.5しかないもん。誰が勝っても不思議じゃないよね……	정말 긴장돼… 양쪽 점수 차가 0.5점밖에 안 나서 현재 상황으로는 누가 이길지 전혀 알 수 없잖아…	This is so nerve-wracking... There's only a difference of 0.5 points. Right now, there's no way of telling who's going to win...						0	
+77	游艇上，芙提雅正举着大大的望远镜，全神贯注地盯着比赛现场。	遊艇上，芙提雅正舉著大大的望遠鏡，全神貫注地盯著比賽現場。	船ではフリティアが大きな双眼鏡を覗き込み、真剣な様子でステージの様子を伺っていた。	요트 위, 프티야는 큰 망원경을 들고 시합을 집중해서 지켜본다.	Fritia looked through a large telescope as she stood on the yacht, watching the competition with her full attention.						0	
+78	有什么好紧张的，这样的比赛不是更有看点吗？	有什麼好緊張的，這樣的比賽不是更有看點嗎？	ヒリヒリする必要なんてあります？点差が小さいからこそ、試合だって盛り上がるのでは？	긴장될 게 뭐 있나요, 이런 시합이 오히려 조금 더 볼만하지 않나요?	What's so nerve-wracking about it? Aren't these kinds of competitions fun to watch?						0	
+79	我知道，可是可是，我还是会忍不住去担心……	我知道，可是可是，我還是會忍不住去擔心……	そうだけど……でも……やっぱり心配で……	알아, 하지만, 그래도 걱정되는 걸 어떻게 해…	I know! But, but, but... I still can't help worrying...						0	
+80	担心什么？	擔心什麼？	なにが心配なんですか？	뭐가 걱정인데요?	What are you worried about?						0	
+81	担心比赛结束之后，真正的修罗场会降临于此吧。	擔心比賽結束後，真正的修羅場會降臨於此。	試合が全部終わったときに始まる修羅場、かな。	시합이 끝나고 진짜 수라장이 이곳에 강림할까 봐 걱정되는 거야?	I'm worried there's going to be a real battle after this little competition ends.						0	
+82	哼，那就让她们再和分析员多亲密一会儿吧，反正到了晚上playername就是我们的了。	哼，那就讓她們再和分析員多親密一陣子吧，反正到了晚上playername就是我們的了。	ふん。せいぜい今だけは分析員との時間を楽しんでいるといいわ。どうせ夜になれば、playernameは私達と共に過ごすことになるんだから。	흥, 그럼 분석가랑 조금 더 즐기라고 하지, 어차피 저녁이 되면 playername은(는) 우리 사람이 될 거잖아.	Hmph, let them get as close to the Adjutant as they want for now. playername is going to be all ours by tonight anyway.						0	
+83	但是，如果继续把分析员留在那里不是很危险喵？那里都是些段位很高的女人。	但是，如果繼續把分析員留在那裡不是很危險喵？那裡都是些段位很高的女人。	でも、これ以上あそこに残しておくのは危険だと思わない？あの3人は全員、なかなかのやり手だよ。	하지만 분석가가 계속 저곳에 남아 있으면 위험하지 않다냥? 저기는 다 높은 클래스들만 있잖아.	But isn't it dangerous for us to just leave the Adjutant there, nya? They're all girls with high power ranks.						0	
+84	保留精力……我懂了，你是想要在最后杀她们个出其不意？	保留精力……我懂了，你是想要在最後殺她們個出其不意？	体力温存……最後で逆転するつもりなんですか？	체력을 남긴다… 알겠어, 마지막에 저들의 허를 찌를 생각이구나?	Save your energy...? I get it. You want to catch them off guard at the last second?						0	
+85	保险起见，要不要趁现在去把对面的主力给干掉，这样就能直接获胜了喵。	保險起見，要不要趁現在去把對面的主力給幹掉，這樣就能直接獲勝了喵。	万が一に備えて、相手の主力をやっつけたらどう？そしたら不戦勝になるニャン。	안전하게 지금 건너편에 가서 주력을 제거하는 게 어때, 그러면 손쉽게 이길 수 있을 거다냥.	Should we take out their strongest contestant and the Adjutant first, just to be safe? That way, victory will be ours, nya.						0	
+86	你们也已经嗅到了吧，火药味已经越来越浓了。	你們也已經嗅到了吧，火藥味已經越來越濃了。	あなた達も気付いてるんでしょ。どんどんきな臭くなって来てるのが。	너희도 느꼈지, 화약 냄새가 점점 짙어지고 있어.	I'm sure you guys can feel it too. The tension is thick enough to cut with a knife.						0	
+87	虽然有些断章取义，不过为什么紫队的攻击性好像都集中在一个人身上……	雖然有些斷章取義，但為什麼紫隊的攻擊性好像都集中在一個人身上……	気のせいかもしれませんが……なぜか紫チームのヘイトがひとりにだけ向けられている気が……	섣부른 판단일 수도 있지만 왜 퍼플팀의 공격이 한 사람에게 집중되어 있는 거 같죠…	Even though it's a bit of a mess, why does it seem like the Purple Team is zeroing in on one person...						0	
+88	呜……总之小老师不想要那样的结局。	嗚……總之小老師不想要那樣的結局。	うぅ……フリティア先生、こんなの嫌だよ。	흠… 난 그런 결말을 원치 않아.	Geez... Professor Fritia really doesn't want an ending like that.						0	
+89	身为爱与和平的守护者，我也不希望看到那样的场面。	身為愛與和平的守護者，我也不希望看到那樣的場面。	愛と平和の守護者として、私も修羅場は見たくないかな。	사랑과 평화의 수호자로서, 나도 그런 장면은 원치 않아.	As a guardian of peace and love, I don't want to witness something like that either.						0	
+90	有什么办法可以避免这种情况发生吗？	有什麼辦法可以避免這種情況發生嗎？	なにか回避する手段はないんでしょうか？	그런 상황을 피할 수 있는 방법이 있나요?	Is there any way to stop it from happening?						0	
+91	办法是有的，我已经做好了多种预案，下下策至少可以保证分析员的人身安全，只是……	辦法是有的，我已經做好了多種備案，下下策至少可以確保分析員的人身安全，只是……	こうなるのは正直予想通りだけどね。いろいろと手を打ってはいるから、少なくとも分析員の安全は保証できそうだけど……	방법은 있어, 이미 여러 가지 방안을 생각해 냈고, 분석가의 안전은 무조건 보장할 수 있는 방법이긴 한데…	Yes. I already have several contingency plans in place. Worst case, we'll still be able to guarantee the Adjutant's safety. But...						0	
+92	到时候的战况说不定会比平时的战斗更加激烈。	到時候的戰況說不定會比平常的戰鬥更激烈。	普段よりも苛烈な戦いになるかもしれないし。	아마 때가 되면 평소의 전투보다 더 격렬한 전투가 될 수도 있을 거야.	The battle might get even more intense than our real ones.						0	
+93	放心，我会处理好一切的，你就看着吧。	放心，我會處理好一切的，你就看著吧。	大丈夫だ、私がなんとかするから。君は横で見ているといいよ。	모든 걸 다 처리할 테니 걱정하지 말고 지켜만 봐.	Don't worry, I'll handle it. Just kick back and enjoy the show.						0	
+94	但愿如此……	但願如此……	そうだといいけど……	그랬으면 좋겠네…	I hope so...						0	
+95	只是我还不确定，究竟有没有必要启用“应急预案”。	只是我還不確定，究竟有沒有必要啟動“應急預案”。	でも、倉庫に入れておいた「緊急措置」を使うべきかどうかは、まだ迷っているんだよね。	아직은 잘 모르겠어, 그 '비상 계획'까지 실시할 필요가 있을까?	I'm just not sure if I'll need to use that "contingency plan" stashed in the warehouse.						0	

@@ -1,0 +1,13 @@
+﻿//描述	GDPL(有根据时间判断和谐的内容，就填写资源对应的GDPL，没有就不填)	原资源路径
+Des	GDPL	Original_Path
+藏锋本体	{1,6,2,1}	/Game/Characters/Girl/girl006a/girl006a_body01_skm.girl006a_body01_skm
+薇蒂娅本体	{1,18,1,1}	/Game/Characters/Girl/girl018/girl018_body01_skm.girl018_body01_skm
+茉莉安-雨燕-绯染夜幕	{7,5,2,3}	/Game/Characters/Girl/girl005a_03/girl005a_03_body01_skm.girl005a_03_body01_skm
+薇蒂雅-龙舌兰-翠翎倩姿01	{7,18,1,2}	/Game/Characters/Girl/girl018_02/girl018_02_body01_skm.girl018_02_body01_skm
+薇蒂雅-龙舌兰-翠翎倩姿02	{7,18,1,2}	/Game/Characters/Girl/girl018_02/girl018_02_body02_skm.girl018_02_body02_skm
+辰星-云篆-点墨化龙01	{7,14,2,4}	/Game/Characters/Girl/girl014a_04/girl014a_04_body01_skm.girl014a_04_body01_skm
+辰星-云篆-点墨化龙02	{7,14,2,4}	/Game/Characters/Girl/girl014a_04/girl014a_04_body02_skm.girl014a_04_body02_skm
+		
+DLC2.5-里芙·无线之视-恒约皮互动模型	{7,2,3,2}	/Game/Characters/Girl/girl002b_02/girl002b_02H_body01_skm.girl002b_02H_body01_skm
+DLC2.5-芬妮·辉耀-恒约皮互动模型	{7,8,3,2}	/Game/Characters/Girl/girl008b_02/girl008b_02h_body01_skm.girl008b_02h_body01_skm
+DLC2.5-辰星·宣命-恒约皮互动模型	{7,14,3,2}	/Game/Characters/Girl/girl014b_02/girl014b_02h_body01_skm.girl014b_02h_body01_skm

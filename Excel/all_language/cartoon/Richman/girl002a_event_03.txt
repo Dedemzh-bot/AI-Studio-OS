@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	原来这里还有水族馆。	原來這裡還有水族館。	水族館まであるのか。	여기 아쿠아리움도 있구나.	They also have an aquarium here.						0	
+page0.2	是啊，有好多鱼类，我只在资料里见过。	是啊，有好多魚類，我只在資料裡看過。	ああ。いろんな魚がいるんだな。資料でしか見たことない種類もいる。	그러게요, 물고기가 많네요, 자료에서만 봤어요.	Yeah. All these species of fish... I've only seen them in the database.						0	
+page0.3	其实我对水族馆的记忆也很模糊了。	其實我對水族箱的記憶也很模糊了。	水族館に関しては、曖昧な記憶しか残っていない。	사실 나도 아쿠아리움에 대한 기억이 희미해.	My memories of aquariums are also quite vague.						0	
+page0.4	似乎在我很小的时候，也去过水族馆。	似乎在我很小的時候，也去過水族館。	小さい頃に一度行ったことがある気もする。	나도 어렸을 때 아쿠아리움에 간 것 같아.	I think I visited one when I was very young.						0	
+page0.5	那时，水族馆留给我的印象是……一个无趣的玻璃罐子。	那時，水族館留給我的印像是……一個無趣的玻璃罐。	あの頃の私にとって、水族館は……つまらないガラスの箱でしかなかったが。	그때 아쿠아리움에서 받은 인상은… 재미없는 유리 단지 같아.	At that time, the aquarium seemed like nothing but a boring glass jar to me.						0	
+page0.6	看来，你不喜欢这里？	看來，你不喜歡這裡？	こういう場所は好みじゃないのか？	여기가 마음에 안 드나봐요?	So you don't like this place?						0	
+page0.7	我们可以换个地方。	我們可以換個地方。	じゃあ場所を変えよう。	우리는 장소를 바꿀 수 있어.	Should we go somewhere else?						0	
+page0.8	不，现在我发现，其实我是喜欢水族馆的。	不，現在我發現，其實我喜歡水族館的。	いや。水族館も悪くないと思うようになった。	아니, 지금 보니까 사실 아쿠아리움을 좋아하는 것 같아.	No, I've come to realize that I actually like aquariums.						0	
+page0.9	也许正是因为分析员陪着我一起来，我才能发现我心底真正的感受。	也許正是因為分析員陪我一起來，我才能現我心底真正的感覺。	分析員が一緒に来てくれたから、本当の気持ちに気付くことができたのかもしれない。	아마 분석가가 나와 함께 와서 내 마음속의 진정한 감정을 보여줄 수 있었을 거야.	Maybe it's because you're here with me that I can truly appreciate my feelings.						0	
+page0.10	我喜欢这里的蓝色，它让我感到宁静。	我喜歡這裡的藍色，它讓我感到寧靜。	この場所の青い色は、心が落ち着くから好きだ。	나는 이곳의 파란색을 좋아한다, 그것은 나를 평온하게 한다.	I love the blue tones here — they're so peaceful and soothing.						0	
+page0.11	我也喜欢在头顶遨游的鱼，它们让我感到自由。	我也喜歡在頭頂遨遊的魚，它們讓我感到自由。	頭の上で魚が泳いでいるのも、自由な感じがしてとても良いと思うぞ。	나도 머리 위에서 헤엄치는 물고기를 좋아하는데, 그것들은 나를 자유롭게 해.	And I love the fish swimming over my head — they make me feel free.						0	
+page0.12	总觉得有些……意外。不过收获很大，我又了解了里芙新的一面。	總覺得有些……意外。不過收穫很大，我又了解了里芙新的一面。	なんだか……意外だな。でも悪くない。またリフの新しい一面が知れてうれしいよ。	뭔가… 의외. 하지만 큰 수확을 거두어 리브의 새로운 면을 알게 되었어	That's... unexpected. But I'm so glad we came here — I get to see a new side of you, Lyfe.						0	
+page0.13	所以，分析员，接下来我们去哪边？	所以，分析員，接下來我們要去哪邊？	では、分析員。これからどこへ行こうか？	그래서 분석가, 다음은 어느 쪽으로 갈래?	So, Adjutant, where should we go next?						0	
+page0.14	我想看看更多的水生生物。	我想看更多的水生生物。	もっと水中で暮らす生き物が見てみたいな。	난 더 많은 수생 생물을 보고 싶어.	I'd like to see more aquatic life.						0	
+choice01	带她看鲨鱼	帶她去看鯊魚	一緒にサメを見に行く	상어 구경 시켜줘.	Take her to see sharks						0	
+page1.1	为什么是鲨鱼？	為什麼是鯊魚？	なんでサメなんだ？	왜 상어야?	Why sharks?						0	
+page1.2	深海的霸主吧。凶猛、但充满魅力。	深海的霸主吧。兇猛、但充滿魅力。	深海の覇主だからかな。狂暴だけど、魅力的で。	심해의 제왕이야. 사납지만 매력적이잖아.	They're the rulers of the deep sea, I suppose. Ferocious yet fascinating.						0	
+page1.3	和里芙一样，既危险又令人忍不住想要接近……	和里芙一樣，既危險又令人忍不住想要接近……	リフと一緒だ。危険だと知っていても、思わず近づきたくなる……	리브와 마찬가지로 위험하고 접근하고 싶게 만드는…	Like you — dangerous, alluring, and irresistible...						0	
+page1.4	我……不危险的……	我……不危險的……	私は……そんなに危険じゃない。	난… 위험하지 않아…	...I'm not dangerous.						0	
+choice02	带她看珊瑚	帶她去看珊瑚	一緒にサンゴを見に行く	그녀를 데리고 산호를 보러간다.	Take her to see coral						0	
+page2.1	为什么选择珊瑚？	為什麼選擇珊瑚？	なんでサンゴなんだ？	왜 산호를 선택했어?	Why coral?						0	
+page2.2	珊瑚就像在漆黑的深海中盛开的瑰丽花朵。	珊瑚就像在漆黑的深海中盛開的瑰麗花朵。	サンゴは、漆黒の深海に咲く美しい花なんだ。	산호는 마치 칠흑 같은 깊은 바다에 핀 아름다운 꽃과 같아.	Coral is like beautiful flowers blooming in the pitch-black depths of the ocean.						0	
+page2.3	你不觉得这和你很像吗？	你不覺得這樣跟你很像嗎？	君と似ているな。	당신은 이것이 당신과 닮았다고 생각하지 않아?	Don't you think that's a lot like you?						0	
+page2.4	我倒觉得，更像是分析员。	我倒覺得，更像是分析員。	私には分析員に見える。	저는 오히려 분석가 같아.	I think it's more like you, Adjutant.						0	

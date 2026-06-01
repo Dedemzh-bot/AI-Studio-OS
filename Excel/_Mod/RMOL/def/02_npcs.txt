@@ -1,0 +1,11 @@
+NpcId	名字	名字	缩放	头像Id	立绘图	模型路径	技能	解锁条件（1 账号等级 2 前置关卡 27 rmol关卡）	声音名	资源名修饰
+Id	Name	LangName	Scale	IconId	Image	ModelPath	SkillId	Condition	WWise	ResNameDec
+1	分析员-q	party_card.player02_p	{1.3,1.3,1.3}	chess.347	1602494	/Game/Mod/RMOL/Blueprints/Player002/BP_RMOL_Player002.BP_RMOL_Player002_C	101	{{1,1}}		player002_q
+2	芬妮-澄意-q	party_card.girl084_p	{1.3,1.3,1.3}	chess.901	1602884	/Game/Mod/RMOL/Blueprints/Npc08/BP_RMOL_Npc08.BP_RMOL_Npc08_C	102	{{27,10001}}	girl008c	girl008c_q
+3	瑟瑞丝-悠游-q	party_card.girl133_p	{1.3,1.3,1.3}	chess.901	1602885	/Game/Mod/RMOL/Blueprints/Npc09/BP_RMOL_Npc09.BP_RMOL_Npc09_C	103	{{27,10002}}	girl013b	girl013b_q
+4	里芙-无限之视-q	party_card.girl023_p	{1.3,1.3,1.3}	chess.901	1602490	/Game/Mod/RMOL/Blueprints/Npc02/BP_RMOL_Npc02.BP_RMOL_Npc02_C	104	{{27,10003}}	girl002b	girl002b_q
+5	茉莉安-幽潮-q	party_card.girl053_p	{1.3,1.3,1.3}	chess.901	1602491	/Game/Mod/RMOL/Blueprints/Npc03/BP_RMOL_Npc03.BP_RMOL_Npc03_C	105	{{27,10004}}	girl005b	girl005b_q
+6	芬妮-辉耀-q	party_card.girl083_p	{1.3,1.3,1.3}	chess.901	1602492	/Game/Mod/RMOL/Blueprints/Npc04/BP_RMOL_Npc04.BP_RMOL_Npc04_C	106	{{27,10005}}	girl008b	girl008b_q
+7	凯茜娅-朝翼-q	party_card.girl152_p	{1.3,1.3,1.3}	chess.901	1602493	/Game/Mod/RMOL/Blueprints/Npc05/BP_RMOL_Npc05.BP_RMOL_Npc05_C	107	{{27,10006}}	girl015a	girl015a_q
+8	肴-夜天光-q	party_card.girl103_p	{1.3,1.3,1.3}	chess.901	1602636	/Game/Mod/RMOL/Blueprints/Npc06/BP_RMOL_Npc06.BP_RMOL_Npc06_C	108	{{27,10007}}	girl010b	girl010b_q
+9	晨星-琼弦	party_card.girl143_p	{1.3,1.3,1.3}	chess.901	1602637	/Game/Mod/RMOL/Blueprints/Npc07/BP_RMOL_Npc07.BP_RMOL_Npc07_C	109	{{27,10008}}	girl014b	girl014b_q

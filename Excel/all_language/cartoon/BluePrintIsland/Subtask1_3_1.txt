@@ -1,0 +1,7 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	叮咚，我们收到了一起来自伙伴的投诉。	叮咚，我們收到了一起來自夥伴的投訴。	スタッフから通報が入ったよ！	띵동, 동료로부터 민원이 접수됐습니다.	Ding dong, we've received a complaint from the units.						0	dlc30蓝图岛对话
+page1.2	怎么说？	怎麼說？	どういうことだ？	무슨 일이야?	What does it say?						0	dlc30蓝图岛对话
+page1.3	说是有些“伙伴”拉帮结派，在岛上引起了一些骚乱。	說是有些「夥伴」拉幫結派，在島上引起了一些騷亂。	一部のスタッフが徒党を組んで、島で騒いでるらしいの！	일부 '동료들'이 패거리를 지어 섬에서 소란을 일으켰다고 합니다.	A group of "units" have banded together and started making trouble on the island.						0	dlc30蓝图岛对话
+page1.4	还破坏了很多设施！	還破壞了很多設施！	施設まで破壊しちゃったよ！	시설물도 많이 파괴됐다고 해요!	They've damaged a lot of facilities!						0	dlc30蓝图岛对话
+page1.5	什么？竟敢破坏我们的回忆！必须严惩！	什麼？竟敢破壞我們的回憶！必須嚴懲！	なんだって……施設は私たちの思い出も同然なんだぞ。すぐに鎮圧しないと。	뭐라고? 감히 우리의 추억을 파괴하다니! 이건 일반적인 소란이 아니야. 반드시 엄벌해야 해!	What? They're destroying our memories? We can't let this slide!						0	dlc30蓝图岛对话

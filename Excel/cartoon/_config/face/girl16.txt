@@ -1,0 +1,18 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	正常	sequence	girl016_01_house_dialogue_stand01	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_stand01.girl016_01_house_dialogue_stand01'	
+2	微笑	sequence	girl016_01_house_dialogue_smile01	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_smile01.girl016_01_house_dialogue_smile01'	
+3	开心	sequence	girl016_01_house_dialogue_happy01	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_happy01.girl016_01_house_dialogue_happy01'	
+4	疑问	sequence	girl016_01_house_dialogue_doubt01	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_doubt01.girl016_01_house_dialogue_doubt01'	
+5	严肃	sequence	girl016_01_house_dialogue_serious	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_serious01.girl016_01_house_dialogue_serious'	
+6	生气	sequence	girl016_01_house_dialogue_angry01	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_angry01.girl016_01_house_dialogue_angry01'	
+7	委屈	sequence	girl016_01_house_dialogue_complain01	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_complain01.girl016_01_house_dialogue_complain01'	
+8	闭眼睡觉	sequence	girl016_01_house_dialogue_rest_idle01	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_rest_idle01.girl016_01_house_dialogue_rest_idle01'	
+9	惊讶（动作套）	sequence	girl016_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_amaze.girl016_01_house_dialogue_amaze'	
+10	消极（动作套）	sequence	girl016_01_house_dialogue_depressed	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_depressed.girl016_01_house_dialogue_depressed'	
+11	打招呼（动作套）	sequence	girl016_01_house_dialogue_greet	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_greet.girl016_01_house_dialogue_greet'	
+12	积极（动作套）	sequence	girl016_01_house_dialogue_satisfy	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_satisfy.girl016_01_house_dialogue_satisfy'	
+13	肯定（动作套）	sequence	girl016_01_house_dialogue_sure	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_sure.girl016_01_house_dialogue_sure'	
+					
+					
+100	说话	sequence	girl016_01_house_dialogue_talk01	AnimSequence'/Game/Characters/Girl/girl016_01/AnimPart00/girl016_01_house_dialogue_talk01.girl016_01_house_dialogue_talk01'	

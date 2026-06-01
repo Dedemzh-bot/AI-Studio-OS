@@ -1,0 +1,178 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+m10001.1	*暂缺文字，引导玩家打三个彩盒点										1	
+m10002.1	*暂缺文字，引导玩家打三个彩盒点										1	
+m10003.1	干什么？	幹什麼?	なんの用だ。	뭐해?	What are you doing?						1	
+m10003.2	别那么冷淡嘛~人家明明只是想给你点小帮助而已。	別那麼冷淡嘛~人家明明只是想給你一點點幫助而已。	そんな冷たい言い方しないでよ。ちょっと手助けしてあげようと思っただけなんだから。	그렇게 차갑게 굴 거 없잖아~ 난 그냥 작은 도움을 주려는 것뿐이야.	Don't give me the cold shoulder~ I just want to give you a little help.						1	
+m10003.3	小帮助？	一點點幫助?	手助け？	도움?	A little help?						1	
+m10003.4	嗯嗯，为了方便你们行动，我已经把要找的东西标记到终端上了。	嗯嗯，為了讓你們行動更加順利，我已經幫你們把要找的東西標記在終端上了。	うんうん。便利だろうと思って、探し物はすべて端末に登録しておいてあげたよ。	응. 작전을 더 수월하게 진행하기 위해, 찾아야 할 물건의 표식을 단말기에 표시해 뒀어.	Yep! I marked what you're looking for in your terminal to make it easier for you.						1	
+m10003.5	随时都能查看哦~	隨時都能確認喔~	これでいつでも確認できるからね～	언제든지 자유롭게 확인할 수 있다고~	Take a look anytime~						1	
+m10003.6	我看看……真之……碎片？那是什么？	我看看……真之……碎片?那是什麼?	どれどれ……真の……欠片？これは？	음… 진리의… 조각? 이게 뭐야?	Let me see... fragments... of truth? What's that?						1	
+m10003.7	这就需要分析员亲自确认啦~	這就需要分析員親自確認啦~	それは分析員の目で確かめてね～	그건 분석가님이 직접 확인해야 해~	You'll just have to see for yourself, Adjutant~						1	
+m10003.8	另外，记得要小心路上的无人机和虚拟投影哦~	另外，記得小心一路上的無人機和全息投影喔~	あと、ルート上のドローンやホログラムにはくれぐれも注意するんだよ。	그리고 길가의 드론과 가상 투영을 조심해야 해~	Oh, and watch out for drones and projections along the way~						1	
+m10003.9	虽然没有搭载实弹，但是不小心被射中了应该还是挺疼的吧。	雖然沒有實彈，但要是不小心被射中了應該還是滿痛的吧。	実弾が搭載されているわけじゃないけど、被弾するとかなり痛いと思うから。	실탄을 탑재하진 않았지만, 그래도 맞으면 엄청 아플 거야.	They don't carry live ammo, but it'll still hurt if you get shot.						1	
+m1001.1	呜哇~分析员这么快就找到“宝物”了吗？	哇~分析員這麼快就找到「寶物」了嗎？	分析員さん、そんなに早く「宝物」を見つけたのですか？	와~ 분석가, '보물'을 벌써 찾은 거야?	Wow~ Adjutant, you found the "treasure" that fast?						1	
+m1001.2	……什么嘛，这不是什么都没有吗？	……什麼嘛，這不是什麼都沒有嗎？	……なんだ、まだ何もないじゃないですか？	… 뭐야, 아무것도 없잖아?	...Huh? Isn't there nothing there?						1	
+m1001.3	真是的，想知道更多有关人家的事，就好好参与这场寻宝游戏嘛~	真是的，想知道更多關於人家的事，就要認真參與這場尋寶遊戲嘛~	まったく、私の情報が欲しければ、この宝探しゲームに真面目に参加してくださいね～	나 참, 나에 대해 더 알고 싶으면 열심히 보물찾기에 매진하라고~	Geez, if you really want to know more about me, just take the scavenger hunt seriously~						1	
+m1005.1	不行不行不行，这可不行哦。	不行不行不行，這樣子不行喔。	ダメダメダメ！ダメですよ。	안 돼, 안 돼, 그건 안 돼.	No, no, no. That's not right.						1	
+m1005.2	这点零零散散的文字可拼凑不出来什么信息哦~	這些零散的文字可沒辦法拼湊出什麼資訊喔~	これだけのテキストじゃ、なんの情報にもならないよ～	이렇게 흩어진 글자들을 모아봤자 아무런 정보도 모을 수 없다고~	Nothing can be pieced together from that fragmented text~						1	
+m1010.1	嗯~嗯！嗯！	嗯~嗯!嗯!	ん～ん！ん！	그래~ 그렇지! 그거야!	Oh! Ah~!						1	
+m1010.2	不愧是大名鼎鼎的分析员，完成速度那么快，真会讨女孩子欢心呢~	不愧是大名鼎鼎的分析員，完成速度那麼快，真是讓女孩子心動呢~	さすがは分析員さん、クリア速度が速くて、女の子の心を掴むのが本当にうまいですね。	역시 분석가답게 빠릿빠릿하네. 이래서 인기가 많구나~	The famous Adjutant finished everything up really quickly as expected! You sure know how to please girls~						1	
+m1010.3	怎么办，感觉人家快要被你迷倒了呢~	怎麼辦，感覺人家快要被你迷倒了呢~	どうしよう、私もあなたに夢中になりそうです。	어떡한담, 이러다 반하겠는데~	This is bad! I feel like you're drawing me in~						1	
+m1010.4	……	……	……	…	...						1	
+m1010.5	别那样盯着人家嘛。放心好了，人家没有忘记答应你们的事情哦~	別那樣盯著人家嘛。放心好了，人家沒有忘記答應你們的事情喔~	そんな風にじっと見ないでくださいよ。安心して、あなたたちに約束したことを忘れてませんから。	그렇게 노려보지 마. 너희와 한 약속은 잊지 않았으니 안심해~	Don't stare at me like that! Don't worry — I didn't forget my promise~						1	
+m1010.6	这次“寻宝游戏”的奖励便是……	這次「尋寶遊戲」的獎勵是……	この度の「宝探しゲーム」の賞品は……	이번 '보물찾기'의 보상은 바로…	The reward for this round of the "scavenger hunt" is...						1	
+m1010.7	解除通往遗迹区的屏障~你们的活动范围增大了哦。	解除通往遺跡區的電磁波牆~你們的活動範圍擴大了喔。	遺跡エリアへの障壁を解除することです～、あなたたちの活動範囲が広がります。	유적지로 통하는 장벽을 제거하는 거야~ 너희들의 활동 범위가 넓어진 셈이지.	For me to lift the barrier to the Ruins Area~ Now you all have a new place to explore.						1	
+m1010.8	人质的事情怎么说？	人質的事情怎麼說?	人質はどうするの？	인질은 어떻게 할 거지?	What about the hostages?						1	
+m1010.9	啊~怎么一张嘴就是那个女人啊？人家会吃醋的哦~	什麼嘛~幹嘛一開口就提那個女人?人家會吃醋的喔~	ああ～、またあの女の話ですか？私、嫉妬しますよ～	아니~ 왜 입만 열면 그 여자 얘기야? 자꾸 그러면 질투 난다고~	Aw, why can't you stop talking about that girl? I'm gonna get jealous~						1	
+m1010.10	她还在机房里吗？安全吗？	她還在機房裡嗎?你沒對她怎麼樣吧?	彼女はまだエンジン室にいるのか？無事か？	그 사람은 아직 전산실에 있나요? 무사한가요?	Is she still in the machine room? Is she safe?						1	
+m1010.11	应该还在吧，拉美西斯的人怎么样都行。	應該還在吧，拉美西斯的人怎麼樣都行。	まだいると思いますが、ラムセスのやつなんて、どうでもいいでしょう。	아직 있을걸? 람세스 사람이 어떻게 되든 상관없어.	Probably. Those Ramses people are usually fine no matter what happens.						1	
+m1010.12	那种垃圾公司的员工还请抛在脑后吧~别忘了，现在可是我们的游戏时间哦~	那種垃圾公司的員工就不要管她了吧~別忘了，現在可是我們的遊戲時間喔~	そんなくだらない会社の社員のことは忘れましょう～、今は私たちのゲームの時間です！	그런 쓰레기 같은 회사의 직원은 내 우선순위에 없거든~ 잊지 마, 지금은 게임 시간이야~	Don't give anyone who works for that horrible company another minute of your time~ Don't forget that we're playing a game~						1	
+m1010.13	寻宝游戏还没结束？	尋寶遊戲還沒結束?	宝探しゲームはまだ終わってないのか？	보물찾기가 아직도 안 끝난 거야?	The scavenger hunt still isn't over?						1	
+m1010.14	呼呼呼，那当然，人家还想再和分析员多相处一段时间呢~	呵呵呵~那當然，人家還想再跟分析員多相處一段時間呢~	ふふふ、もちろん、私はもっと分析員さんとの時間を楽しみたいです。	후후후, 물론이지. 난 분석가와 좀 더 놀고 싶거든~	Hehehe, of course not! I want to spend more time with you, Adjutant~						1	
+m1010.15	还请好好期待接下来的第二轮寻宝游戏吧。	敬請期待接下來第二輪的尋寶遊戲吧。	次の宝探しゲームも楽しみにしてくださいね。	보물찾기 2라운드도 기대해 줘.	I hope you're all looking forward to the second round of the scavenger hunt.						1	
+m1010.16	这就是所谓的厚颜无耻喵？	這就是所謂的厚顏無恥喵?	これがいわゆる厚かましさってやつニャ？	저런 걸 뻔뻔스럽다고 하는 거다냥?	Is this what people call "insolence," nya?						1	
+m1010.17	随你们怎么说~总之人家这次要玩个尽兴~	隨便你們怎麼說~總之人家這次要玩個夠~	好きに言っていいですよ～、とにかく私、今回は思いっきり遊びたいです。	마음대로 생각해~ 어쨌든 난 신나게 놀아볼 테니까~	You can call me whatever you want~ Either way, I'm going to have some fun this time~						1	
+m1010.18	另外分析员，你之前不是好奇我的目的究竟是什么吗？	另外分析員，你不是很好奇我究竟有什麼目的嗎？	それに分析員さん、私の目的が何か、気になってたでしょ？	그런데 분석가, 내 목적이 뭔지 궁금하다고 했었지?	And Adjutant, didn't you want to know why I'm doing this?						1	
+m1010.19	呵呵呵呵，不如就把这个就当做下一轮游戏的奖励，如——何——呢——~	呵呵呵呵~不如就把這個就當做下一輪遊戲的獎勵，如——何——呢——~	ふふふふ、それを次のゲームの報酬にするというのは、い——か——が？	후후후, 그럼 다음 보상은 그걸로 하는 게, 어~ 떨~ 까~?	Hehehe, why don't we just use that as the reward for this round? How about it~?						1	
+m1012.1	呀~你又忍不住来找人家了吗？	哎呀~你又忍不住來找人家了嗎?	あら～、また私を探しに来てくれないのですか？	어머~ 또 그새를 못 참고 날 찾아온 거야?	Oh my~ You couldn't resist seeing me again?						1	
+m1015.1	请前往下一个区域，哔哔哔——	請前往下一個區域，嗶嗶嗶——	次のエリアへ進んでください、ピピピ——	다음 구역으로 이동하세요, 삐빅~	Please head to the next area~! *Beep—*						1	
+m2001.1	分析员，人家是不是说到做到~	分析員，人家是不是說到做到~	分析員さん、私、約束を守ったでしょ？	분석가, 난 약속은 지키는 사람이야~	See, Adjutant? Didn't I keep my word?						1	
+m2001.2	好了好了，赶快开始我们的第二轮游戏吧。	好啦好啦~趕快開始我們第二輪的遊戲吧。	さあ、早速、ゲームの第2ラウンドを始めましょう。	자자, 빨리 2라운드 게임을 시작하자고.	Alrighty then! Let's start the second round of our game.						1	
+m2005.1	呼呼呼，看样子你已经在遗迹区逛了一圈了。	呼呼呼~看樣子你已經逛過遺跡區了。	ふふふ、遺跡エリアを1周したようですね。	후후후, 유적지를 벌써 다 돌아본 모양이구나.	Hehehe, looks like you've already explored the Ruins Area.						1	
+m2005.2	怎么样，香蒲族很有趣吧，有找到其他“宝物”吗？	怎麼樣?香蒲族很有趣吧，有找到其他「寶物」嗎?	どうでしたか？アヤメ族は面白いでしょう？他の「宝物」は見つけましたか？	어때, 부들족이 꽤 흥미롭지 않아? 다른 '보물'은 찾았어?	So what do you think? The Typha are really interesting, right? Did you find any other "treasure"?						1	
+m2010.1	破译内容已上传喵。	破譯內容已上傳喵。	解読内容をアップロードしたニャ。	해독 내용을 업로드했다냥.	I've uploaded the deciphered text, nya.						1	
+m2010.2	收到，小狗狗。你和你的主人一样厉害，翻译得很准确哦~	收到，小狗狗。你和你的主人一樣厲害，破譯完全正確喔~	了解です、ワンちゃん。あなたもあなたのご主人様と同じくらいすごいですね、翻訳がとても正確でしたよ～	알겠어, 귀여운 강아지. 너도 네 주인만큼 대단하구나? 번역이 아주 정확해~	Received, Doggy. You're just as awesome as your owner! This translation is really accurate~						1	
+m2010.3	小狗狗？	小狗狗?	ワンちゃん？	강아지라고?	Doggy?						1	
+m2010.4	分析员，我很好奇一件事……	分析員，我很好奇一件事……	分析員さん、ずっと気になってることがありますが……	분석가, 한 가지 궁금한 게 있는데…	Adjutant, I'm super curious about something...						1	
+m2010.5	你有好好阅读那些石板故事吗？对于香蒲族的境遇有什么看法呢？	你有仔細閱讀那些石版上的故事嗎?對於香蒲族的境遇有什麼看法呢？	あの石板の話をしっかり読みましたか？アヤメ族の運命についてどう思いますか？	석판의 이야기들 말이야, 잘 읽어봤어? 부들족의 상황에 대해 어떻게 생각해?	Did you read those stone tablets carefully? What do you think happened to the Typha?						1	
+m2010.6	只是感觉有些惋惜，比起这个我更好奇你的目的。	只是感覺有點惋惜，但比起這個我更好奇你的目的。	少し残念な気がするが、それよりも、あなたの目的が気になる。	안타까울 따름이야, 그것보다 난 너의 목적이 더 궁금한데.	I just feel sorry for them. I'm more curious about why you're doing this than what happened to them.						1	
+m2010.7	果然，分析员还是对我更感兴趣吗？	果然，分析員還是對我更感興趣嗎?	やっぱり、分析員さんは私の方に興味をお持ちなんですか？	역시, 분석가는 나에게 더 관심이 많은가 봐?	Oh, so you're more interested in me, Adjutant~?						1	
+m2010.8	不过其实你也很好奇香蒲族的事吧？	但其實你也很好奇香蒲族的事吧?	でも、あなたもアヤメ族のことが気になるでしょう？	그런데 솔직히 부들족 일에 대해서도 궁금하지?	But you're actually curious about the Typha too, right?						1	
+m2010.9	毕竟，那场灾难说不定和“成年病”有关呢。	畢竟，那場災難說不定和「成年病」有關呢。	だって、あの災害はもしかしたら「ティーン症候群」となんらかの関係があるかもしれません。	그 재앙은 '성인병'과 관련이 있을지도 몰라.	I mean, who knows if that disaster had anything to do with "Juvosis"?						1	
+m2010.10	目前学术界对成年病的起源还没有定论喵。	目前學術界對成年病的起源還沒有定論喵。	現在の学界では、まだティーン症候群の起源に関する結論は出ていないニャ。	현재 학술계에는 성인병의 기원에 대한 정론이 없다냥.	At present, the academic community still hasn't reached a conclusion concerning the origin of Juvosis.						1	
+m2010.11	是啊，没有定论呢……	是啊，沒有定論呢……	確かに、結論は出ていませんね……	그렇지, 정론이 없지…	Yes, they haven't reached a conclusion yet...						1	
+m2010.12	但这场天灾的起源也曾是我，或者说我们一直在想调查清楚的真相……	但這場天災的起源也曾是我，或者說我們一直想調查清楚的真相……	でもこの天災の起源もまた、私たちが求めていた真実でした……	그 재해의 기원은 나, 혹은 우리가 계속 밝혀내려고 했던 진실일 거야…	And the truth about the source of this disaster was also something I, or rather we, were once trying to uncover.						1	
+m2010.13	过去，我曾隶属于一个叫做“色雷斯”的“天灾溯源”学者团体。	過去，我曾隸屬於名叫「色雷斯」的「天災溯源」學術團體。	以前、私は「セレス」という天災の起源を研究する学者団体に所属していました。	예전에 난 '트라케'라는 '재해 연구' 학자 단체에 소속되어 있었어.	I once belonged to a group of scholars known as "Thrace" that tracked down natural disasters.						1	
+m2010.14	啊，通俗来说我们的工作就是研究过去发生过哪些大型灾害以及这些灾害又是如何发生的。	啊，簡單來說我們的工作就是研究過去發生過哪些大型災害以及這些災害又是如何發生的。	あ、一般的に言うと、私たちの仕事は過去にどのような大規模な災害が起こったのか、そしてそれがなぜ起こったのかを研究することでした。	아, 쉽게 말해서 우리가 하는 일은 과거에 어떤 대규모 재해가 발생했는지, 그리고 그 재해들이 어떻게 발생했는지 연구하는 거야.	To put it simply, our job was to study large disasters that took place in the past and understand what caused them.						1	
+m2010.15	而我们当初的首要目标便是调查成年病的起源。	而我們當初的首要目標便是調查成年病的起源。	そして、私たちの当初の主な目的は、ティーン症候群の起源を調査することでした。	우리의 첫 번째 연구 대상은 성인병의 기원을 조사하는 거였어.	Our first objective was to investigate the origin of Juvosis.						1	
+m2010.16	那又是怎么找上雅卢岛呢？	那怎麼會找上雅盧島呢？	それじゃ、どうしてガルーアイランドに行くことになったのでしょうか？	그럼 야루섬은 또 어떻게 찾은 거지?	Then how did you find Yallu Island?						1	
+m2010.17	可以说是机缘巧合吧，当时，我们在黑市上收集到了一块刻有未知文字的石板。	可以說是機緣巧合吧，當時我們在黑市上收集到一塊刻著未知文字的石版。	不思議な偶然とも言えるでしょう。当時、私たちは闇市で未知の文字が刻まれた石板を手に入れました。	우연이었지. 당시에 우린 암시장에서 미지의 글자가 새겨진 석판을 찾았어.	I guess you could call it a coincidence. Back then, we found a tablet inscribed with an unknown language on the black market.						1	
+m2010.18	经过破译后发现大陆西侧的一座小岛上曾经爆发过类似成年病的疾病。	經過破譯後發現大陸西側的一座小島上曾經爆發過類似成年病的疾病。	解読してみたところ、大陸の西側にある小さな島で、ティーン症候群に似た病が一時的に流行ったことが記載されていました。	해독해 보니, 대륙 서쪽의 작은 섬에서 성인병과 유사한 질병이 창궐했다는 내용이었지.	We discovered that a disease similar to Juvosis broke out on a small island to the west of the mainland after deciphering it.						1	
+m2010.19	于是我们便借卫城学院之名和帕特拉当地有关部门谈下了这座小岛的开发权，并取帕特拉当地传说中“乐土”的典故，将其命名为“雅卢岛”。	於是我們便藉著衛城學院之名和帕特拉當地相關部門談下了這座小島的開發權，並從帕特拉當地傳說「樂土」的典故中為其命名「雅盧島」。	そこで、我々はアクロポリス学院の名前を借りて、パトラの地方政府と交渉してこの小島の開発権を獲得しました。そして、パトラの「楽土」という昔話にあった「ガルーアイランド」という名前をこの島に与えました。	아크로폴리스 아카데미의 이름을 빌려 파트라 유관 부서와 섬 개발권에 대해 논의하고, 파트라의 '낙원' 전설을 참고해 '야루섬'이라 명명했어.	So we used the Academica Acropolis's name to negotiate with the authorities in Patra for the right to develop the island. We named it "Yallu Island" after the "promise land" referred to in Patra's local legends.						1	
+m2010.20	将这里称为乐土？还真是恶趣味。	將這裡稱為樂土?還真是惡趣味。	ここを楽土と呼ぶなんて、なかなか悪趣味だね。	여기가 낙원이라고? 취향 한번 특이하군.	You called this the "promise land"? That's in really poor taste.						1	
+m2010.21	呵呵呵呵，要比恶趣味我们可比不过世界树和拉美西斯。	呵呵呵呵~要比惡趣味我們可比不過世界樹和拉美西斯。	ふふ、趣味の悪さなら、ユグドラシル社やラムセスの方々には敵いません。	후후후, 위그드라실이나 람세스만큼 특이하진 않지.	Hehehe, when it comes to poor taste, no one can hold a candle to Yggdrasil or Ramses.						1	
+m2010.22	一年之后，当我们的科考工作刚刚到了关键点，就差一步就可以弄清楚雅卢岛与成年病起源的关系之时……项目却被当地部门叫停了。	一年之後，當我們的考古工作正進展到關鍵之處，還差一步就可以搞清楚雅盧島與成年病起源的關係之時……專案卻被當地部門叫停了。	1年後、私たちの研究が最も重要な時期になり、ガルーアイランドとティーン症候群の起源との関係が完全に明らかになる一歩手前で……プロジェクトが地方政府によって止められました。	1년 후, 우리가 결정적으로 야루섬과 성인병 기원의 관계를 밝혀내기 직전에… 현지 부서에서 프로젝트를 중단시켰어.	A year later, we had made a breakthrough in our research and were one step away from unveiling the connection between Yallu Island and the origin of Juvosis... but the local government put a stop to our project.						1	
+m2010.23	他们以我们的科考行为未通过学院正式批准为由，将我们赶出了雅卢岛。	他們以我們的考古行為未通過學院正式批准為由，把我們趕出了雅盧島。	彼らは、私たちの研究活動が学院の正式な許可を得ていないことを理由に、私たちを島から追い出しました。	그들은 우리의 연구 행위가 아카데미의 정식 승인을 받지 못했다는 이유로 우리를 야루섬에서 내쫓았어.	They kicked us off the island, claiming our research wasn't officially approved by the Academica Acropolis.						1	
+m2010.24	之后，拉美西斯集团与世界树公司便接管了这里，世界树公司带走了所有的研究成果，而拉美西斯集团则将这里重新打造成了度假岛。	之後，拉美西斯集團與世界樹公司便接管了此處，世界樹公司帶走了所有的研究成果，而拉美西斯集團則將這裡重新打造成了渡假島嶼。	その後、ラムセスグループとユグドラシル社がこの島を引き取りました。ユグドラシル社は私たちの全ての研究成果を持ち去り、ラムセスグループはこの場所をリゾート地として再開発しました。	그 후 람세스 그룹과 위그드라실이 이곳을 인계했지. 위그드라실은 모든 연구 성과를 가져가고, 람세스 그룹은 이곳을 휴양지로 개조했어.	After that, Ramses Group and Yggdrasil took control of the island. Yggdrasil took all of our research results, and Ramses turned the island into a vacation destination.						1	
+m2010.25	就这样，色雷斯倾注所有的项目流产了。而不久之后，卫城学院也撤回了我们的研究资金，色雷斯也就此解散……	就這樣，我們傾注所有心血的專案流產了。不久之後衛城學院也撤回了我們的研究資金，色雷斯就此解散……	それによって、私たちセレスの努力が全て水の泡になりました。そしてその後、アクロポリス学院は私たちの研究資金を撤回し、セレスも解散されました……	트라케가 심혈을 기울인 모든 프로젝트가 무산되었지. 얼마 후 아크로폴리스 아카데미도 연구 자금을 철회했고, 트라케도 그대로 해산되었어…	Just like that, the project that Thrace had devoted so much time and effort to was gone. Not long after, the Academica Acropolis withdrew our funding, and Thrace disbanded...						1	
+m2010.26	自那之后，我一直在等待……等待有朝一日可以夺回属于我们的“宝物”……	從那之後我就一直在等待……等待有朝一日可以奪回屬於我們的「寶物」……	あれから、私は待っていました……私たちの「宝物」を取り戻す日を……	그 후로도 난 계속 기다렸어… 우리의 '보물'을 되찾을 그날을…	I've been waiting since then... waiting for the day I could finally reclaim our "treasure"...						1	
+m2010.27	这么听下来那确实挺可惜的，大公司还真是随心所欲啊。	這樣聽起來還真是可惜，大公司還真是隨心所欲啊。	確かに残念だね、大企業って本当に勝手だ。	듣고 보니 안타깝네, 대기업은 정말 제멋대로야.	When you put it like that, it sounds like a real shame. Big corporations just do whatever they want.						1	
+m2010.28	是吧，我最讨厌的就是为这些大公司做事的人了。当然，分析员除外哦~	對吧，我最討厭的就是為這些大公司做事的人了。當然，分析員除外喔~	ええ、私はそういった大手企業で働く人が大嫌いです。もちろん、分析員さんはその中に含まれませんよ～	맞아, 그런 대기업에서 일하는 사람이야말로 딱 질색이야. 물론 분석가는 예외지만~	Exactly. I hate people who work for companies like that more than anything — except for the Adjutant, of course~						1	
+m2010.29	不过只是从个人立场出发，我劝你还是放弃和世界树公司叫板吧。	不過這只是站在個人立場的建議，我勸你還是放棄和世界樹公司對抗吧。	個人的には、ユグドラシル社を敵に回すのはやめといた方がいいと思うよ。	하지만 개인적인 입장에서 볼 때, 위그드라실과 대립해서 좋을 게 없어.	But from me to you, I suggest you give up on going against Yggdrasil.						1	
+m2010.30	真是的~分析员千万不要认为人家是无理取闹哦~	真是的~分析員千萬不要認為人家是無理取鬧喔~	まったく～、分析員さんに私たちが理由もなく暴れていると思われると困ります～	분석가~ 설마 내가 지금 투정 부린다고 생각하는 건 아니겠지~?	Really~? Please don't think I'm doing this for nothing, Adjutant~						1	
+m2010.31	身为分析员的你，就稍微站在“求知者”的思考一下吧。	身為分析員的你，就稍微站在「求知者」的位置思考一下吧。	あなたは分析員として、「知の探求者」の視点で少し考えてみてください。	당신은 분석가잖아. '지식인'의 입장에 서서 생각해 줘.	Adjutant, think about it from the perspective of a "pursuer of knowledge."						1	
+m2010.32	……求知者？	……求知者?	……知の探求者？	… 지식인이라니?	...A pursuer of knowledge?						1	
+m2010.33	……	……	……	…	...						1	
+m2010.34	咳咳，好啦好啦，闲聊有点多了，分析员还是把心思放在我们的游戏身上吧。	咳咳，好啦好啦~閒聊過頭了，分析員還是把注意力放回我們的遊戲身上吧。	ゴホン、雑談し過ぎたようです。分析員さん、やっぱりゲームに集中しましょう。	크흠, 됐다, 됐어. 쓸데없는 말이 길어졌네. 분석가는 게임에나 집중해 줘.	Ahem, alright. That's enough chatting for now. You should pay more attention to our game, Adjutant.						1	
+m2010.35	接下来，就是最后的区域了。	接下來，就是最後的區域了。	次は、最後のエリアです。	자, 이제 마지막 구역이야.	The final area is next up.						1	
+m2012.1	真怀念过去一起跑东跑西的大家啊……	真懷念過去一起東奔西跑的大家啊……	昔みんなと一緒に駆け回っていた日が懐かしいですね……	예전에 함께 동고동락하던 동료들이 그리워…	I really miss everyone. We used to run around doing everything together...						1	
+m2012.2	要是有机会重组色雷斯就好了 。	要是有機會重組色雷斯就好了 。	セレスを立て直すことができたらいいな。	트라케가 재결합할 기회가 온다면 좋을 텐데.	I wish there was a way we could reunite Thrace.						1	
+m2012.3	对了，到时候分析员也加入我们吧。开玩笑的~	對了，到時候分析員也加入我們吧。開玩笑的~	その時は分析員さんも私たちの仲間入りしてくださいね。冗談です～	참, 그땐 분석가도 우리 그룹에 합류해 줘. 아, 물론 농담이야~	Oh, you can join us when that happens, Adjutant. Just kidding~						1	
+m3001.1	哎~一块碎片都还没收集到啊~	唉~連一塊碎片都還沒收集到啊~	ああ～欠片をまだ1つも集められていませんね。	저런~ 한 조각도 못 찾은 거야~?	Oh my~ You haven't collected a single fragment yet~!						1	
+m3001.2	分析员要再努力努力哦，不然小安提可就有危险了呢~	分析員要再努力努力喔，不然小安提可就有危險了呢~	分析員さん、もう少し頑張ってみてください。さもないと、アンティちゃんが危険な目に遭うかもしれませんよ～	분석가, 더 분발해. 그렇지 않으면 앤티가 위험해질 거야~	You need to work harder, Adjutant. Otherwise, Anti might be in danger~						1	
+m3005.1	夺回岛屿~夺回岛屿~	奪回島嶼~奪回島嶼~	島を取り戻そう～島を取り戻そう～	섬을 되찾자~ 섬을 되찾자~	Reclaim the island~ Reclaim the island~						1	
+m3005.2	分析员也来为我们的目标添砖加瓦吧~	分析員也來為我們的目標努力吧~	分析員さんも私たちの目標のために貢献してください～	분석가도 우리의 목표에 힘을 보태줘~	You can help us reach our goal too, Adjutant~						1	
+m3010.1	哔哔哔——	嗶嗶嗶——	ピピピ——	삐삐삐——	*Beep, beep, beep—*						1	
+m3010.2	哔哔哔——哔哔哔——	嗶嗶嗶——嗶嗶嗶——	ピピピ——ピピピ——	삐삐삐—— 삐삐삐——	*Beep, beep, beep—* *Beep, beep, beep—*						1	
+m3010.3	突然变回了普通的无人机了喵。	突然變回普通的無人機了喵。	急に普通のドローンに戻ったニャ。	갑자기 평범한 드론으로 변했다냥.	It turned back into a normal drone, nya.						1	
+m3010.4	又在打什么算盘吗？	又在打什麼算盤?	また何か企んでるのでしょうか？	또 무슨 꿍꿍이일까요?	What is she planning this time?						1	
+m3010.5	既然如此……	既然如此……	それなら……	그렇다면…	In that case...						1	
+m3010.6	猫汐尔突然歪着头凑近无人机，随后一把抓住了它。	貓汐爾突然歪著頭湊近無人機，然後一把抓住了它。	マーシルは急に首を傾げてドローンに近づき、それを掴んだ。	캣 시에라가 갑자기 고개를 갸우뚱하며 드론으로 다가가더니, 드론을 덥석 잡았다.	Mauxir tilted her head suddenly. Then, she walked over to the drone and grabbed onto it.						1	
+m3010.7	果然，这架无人机的远程控制被切断了喵，不过机器里面还留下了一些信息。	果然，這架無人機的遠端控制被切斷了喵，不過機器裡面還殘留了一些資訊。	やっぱり、このドローンの遠隔操作は切断されているニャ、でも、機械の中にはまだ情報が残ってる。	역시, 이 드론의 원격 컨트롤이 끊어졌다냥. 하지만 기계 안에 정보가 남아 있다.	Just as I thought. The remote control was disconnected from this drone, but some information was left behind.						1	
+m3010.8	是一个坐标，与小安提发给我们的海底机房坐标吻合，另外还有……	是一個座標，與小安提發給我們的海底機房座標吻合，另外還有……	座標だ、アンティちゃんから送られてきた海底エンジン室の座標と一致している。あと……	이 좌표는 앤티가 우리에게 보낸 해저 전산실의 좌표와 일치한다. 그리고…	There are coordinates. They match the coordinates of the seabed machine room that Anti sent us. There's also...						1	
+m3010.9	什么？	什麼？	何？	뭐지?	Tell me.						1	
+m3010.10	无人机终端的所属人信息：安提克勒娅。	無人機終端的所屬人資訊:安提克勒婭。	ドローンの所有者情報、アンティクレイア。	드론 단말기 소유자 정보: 앤티클레아.	There's information on the owner of the drone's terminal. It's Anticlea.						1	
+m3010.11	是她的名字吗？	是她的名字嗎？	彼女の名前でしょうか？	그녀의 이름인가?	Is that her name?						1	
+m3010.12	大概率是了。	應該是。	多分。	그럴 가능성이 크다.	Most likely.						1	
+m3010.13	到底在卖什么关子啊……	到底在賣什麼關子啊……	一体どういうことなんだ……	대체 무슨 짓을 꾸미는 거야…	What is she playing at...						1	
+m3010.14	别多想了，先去那个海底机房吧。	別多想了，先去那個海底機房吧。	考え込むよりは、とりあえずその海底エンジン室に行こう。	추측은 나중에 하고, 일단 해저 전산실로 가보자.	Let's not worry about it right now. We should head to the seabed machine room.						1	
+m3010.15	现在看来，一切谜团的答案都会在那里。	現在看來，所有謎團的答案都在那裡。	今のところ、全ての謎の答えはそこにあるようだ。	모든 의문의 답이 그곳에 있을 것 같아.	It looks like the answers to all of our questions are waiting there.						1	
+m3010.16	说起来我们该怎么去那里呢，游过去吗？	話說回來我們該怎麼去那裡呢，游過去嗎？	でも、どうやってそこに行くの、泳いで？	그런데 거기까지 어떻게 가지? 헤엄쳐서 가야 하나?	Now that you mention it, how do we get there? Do we have to swim?						1	
+m3010.17	唔嗯……我想只要乘坐游艇到达附近，穿上潜水服，就可以潜下去了一探究竟了喵。	唔嗯……我想只要乘坐遊艇到附近然後換上潛水服，就可以潛下去一探究竟了喵。	うーん……遊覧船に乗って近くまで行って、潜水服で潜れば調査できると思うニャ。	으음… 요트를 타고 근처까지 가서, 잠수복을 입고 들어가서 찾아봐야 할 것 같다냥.	Hmm... I believe we just need to take a yacht to the area. We can put on diving gear, then dive down and look for it, nya.						1	
+m3010.18	听上去有点麻烦呢……	聽起來有點麻煩呢……	危なそうだね……	좀 번거로워 보이는데…	That sounds kind of annoying...						1	
+m3010.19	啊，对了，既然岛上的屏蔽系统已经取消了，需要在行动前联系下卡罗琳或芙提雅吗？	啊對了，既然島上的屏蔽已經消失了，需要在行動前聯絡卡羅琳或芙提雅嗎?	島の妨害システムも解除されたし、行動する前にカロリンやフリティアに連絡してみたらどう？	아, 맞다, 섬의 차단 시스템이 취소되었어요. 가기 전에 캐롤린이나 프티야에게 연락해야 하지 않을까요?	Oh, right — now that the blocker around the island is gone, should we contact Caroline or Fritia before we decide on a course of action?						1	
+m3010.20	嗯，我试着来联系下她们就好，先回酒店准备下潜水服吧，之后再集合就行。	嗯，我來跟她們聯絡就好，先回酒店準備潛水服吧，準備完成後集合。	うん、私が彼女たちに連絡してみるよ。まずはホテルに戻って潜水服を用意しよう、その後にまた集合すればいい。	음, 제가 연락해 볼게요. 일단 호텔로 돌아가 잠수복을 챙겨서 다시 모이기로 해요.	Yeah, I'll try to contact them. Let's head back to the hotel to grab our diving gear. We can meet up afterward.						1	
+m3010.21	冰冰凉凉的感觉真讨厌喵……	冰冰涼涼的感覺真討厭喵……	冷たい感じ嫌だニャ……	차가운 느낌, 너무 싫다냥…	This cold feeling is really irritating, nya...						1	
+m3010.22	没办法，猫汐尔就忍一下吧。	沒辦法，貓汐爾就忍耐一下吧。	仕方ない、少しの辛抱だ、マーシル。	어쩔 수 없어, 캣 시에라 조금만 참아.	Sorry, Mauxir. Hang in there.						1	
+m3010.23	分析员，潜水服和游艇已经准备好了。	分析員，潛水服和遊艇已經準備好了。	分析員、潜水服と遊覧船の準備が完了しました。	분석가, 잠수복과 요트를 준비해 놨어요.	Adjutant, the diving gear and the yacht are ready.						1	
+m3010.25	嗯，我也准备得差不多了。	嗯，我也準備得差不多了。	うん、私も準備できたよ。	응, 나도 거의 다 준비됐어.	Alright. I'm almost ready.						1	
+m3010.26	芙提雅那里也打过招呼了，只是安提还是联系不上。	也跟芙提雅打過招呼了，但還是聯絡不到安提。	フリティアにも知らせた。ただ、アンティとはまだ連絡が取れない。	프티야한테도 연락해뒀는데, 앤티와는 연락이 안 돼.	Fritia tried calling, but she wasn't able to contact Anti.						1	
+m3010.27	唔，分析员的衣服里鼓鼓的，是带了什么东西吗？	唔，分析員的衣服鼓鼓的，是帶了什麼東西嗎？	ん、分析員の服がふくらんでるけど、何か持ってるの？	음? 분석가 옷이 불룩한데, 뭘 가져온 거야?	Huh? It looks like there's something in your pocket, Adjutant. What is it?						1	
+m3010.28	啊，这个啊，先保密。	啊，這個啊，先保密。	あ、それはまだ内緒。	아, 이거? 일단 비밀이야.	Ah, let's keep that a secret for now.						1	
+m3010.29	喵？	喵？	ニャ？	냐옹?	Nya?						1	
+m3010.30	总别太担心了。	別擔心。	心配するな。	걱정하지 마.	No need to worry.						1	
+m3010.31	胸有成竹的样子，连分析员也卖起关子了吗……	胸有成竹的樣子，連分析員也賣起關子了嗎……	自信満々ですね。分析員までもったいぶるのですか……	분석가님도 꿍꿍이에 전염된 건가요…	You seem so confident. Now you're up to something too, Adjutant...?						1	
+m3010.32	让我用求知者的视角去思考吗？	讓我用求知者的視角去思考嗎？	知の探求者の視点で考える？	지식인의 입장에서 생각해보라고 그랬잖아?	She asked me to think about it from the perspective of a "pursuer of knowledge," right?						1	
+m3010.33	既然如此，那就稍微再谨慎一些吧……	既然如此，那就再謹慎一點吧……	なら、もう少し慎重に行こう……	이왕이면 좀 더 신중하게 접근해 보는 게 좋을 것 같아서…	In that case, I'm going to be more careful...						1	
+m3012.1	哔哔哔——	嗶嗶嗶——	ピピピ——	삐삐삐——	*Beep, beep, beep—*						1	
+m5001.1	哔哔~恭喜大家完成了最后的寻宝游戏~这么久不见，有没有想人家呢~	嗶嗶~恭喜大家完成了最後的尋寶遊戲~這麼久不見，有沒有想人家呢~	ピピー、おめでとうございます、最後の宝探しゲームを完了しました〜。長かったですね、私に会いたくなっていませんか〜	삐삐~ 마지막 보물찾기가 끝났습니다~ 오랜만인데, 나 보고 싶었던 사람~	*Beep, beep—* Congratulations on finishing the last round of the scavenger hunt, everyone~ It's been a while! Did you miss me~?						1	
+m5001.2	适可而止吧。	適可而止吧。	そのくらいにしてください。	이쯤에서 적당히 끝내죠.	That's enough.						1	
+m5001.3	嘻嘻嘻，可惜人家听不到你的回答呢~保险起见，这次通话只是录音。	嘻嘻嘻，可惜人家聽不到你的回答呢~保險起見，這次通話只是錄音。	ふふふ、その答えが聞けなくて残念です～。念のため、今回の通話は録音を使っています。	헤헤헤, 안타깝지만 네 대답은 들리지 않아~ 혹시 몰라서 이번 통화는 녹음으로 해두었거든.	Hehehe, unfortunately, I can't hear your response~ This call was recorded in advance, just to be safe.						1	
+m5001.4	猫汐尔。	貓汐爾。	マーシル。	캣 시에라지.	Mauxir.						1	
+m5001.5	嗯，已经检查过了，确实是单向通讯。	嗯，已經檢查過了，確實是單方通訊。	うん、確認したけど、確かに一方向通信だよ。	응, 확인해 봤는데 이건 단방향 통신이다.	I checked. It's a one-way call.						1	
+m5001.6	首先，我想各位致谢……多谢各位，尤其是猫汐尔和分析员相助，我终于完成了多年的夙愿，夺回了当年未能获得的宝物。	首先我想跟各位致謝……多謝各位，尤其是貓汐爾和分析員的幫助，我終於完成了多年的夙願，奪回了當年未能獲得的寶物。	まず、皆さんに感謝の気持ちを伝えたいです……特にマーシルと分析員さんのおかげで、私の長年の夢が実現し、かつて得られなかった宝物を取り戻しました。	먼저 감사 인사를 하고 싶어… 다들 고마워. 특히 캣 시에라와 분석가, 드디어 수년간의 숙원을 이루고, 빼앗긴 보물을 되찾았어.	First of all, I want to express my gratitude to everyone... Thank you, especially Mauxir and the Adjutant, for your help. My precious wish has finally come true. I reclaimed the treasure I couldn't get back then.						1	
+m5001.7	……	……	……	…	...						1	
+m5001.8	没想到当年未能开启的石门后，果真藏着香蒲人的遗骸呀~	沒想到當年未能開啟的石門後，真的藏著香蒲人的遺骸呀~	当時開けられなかった石の扉の向こうに、本当にアヤメ族の遺骨が隠されていたなんて～	그 당시 열지 못했던 석문 뒤에 부들족의 유해가 숨겨져 있을 줄이야~	I never would have guessed that a gate that couldn't have been opened back then was hiding the remains of the Typha~						1	
+m5001.9	有了这些宝贵的样本，我们的研究终于可以继续进行下去了……	有了這些寶貴的樣本，我們的研究終於可以繼續進行下去了……	この貴重なサンプルがあれば、やっと私たちの研究を続けられます……	이 소중한 샘플 덕분에, 우린 계속해서 연구를 진행할 수 있게 되었어…	Now that we have these valuable samples, our research can continue...						1	
+m5001.10	然后，非常抱歉。利用了各位对弱者的怜悯之心，实在不是什么光彩的事。	然後，非常抱歉。利用了各位對弱者的憐憫之心，這實在是一件丟臉的事。	そして、誠に申し訳ございません。皆さんが弱者へ同情する気持ちを利用してしまいました。それはとても誇れることではありません。	그리고 정말 미안해. 약자에 대한 동정심을 이용한 건 정말 몹쓸 짓이었어.	I also want to say how sorry I am. Taking advantage of your compassion for the weak wasn't noble by any means.						1	
+m5001.11	但也别太怨我哦，分析员，毕竟人家之前也提醒过你嘛~	但也別怪我喔，分析員，畢竟人家之前也提醒過你嘛~	でも、私を恨まないでくださいね、分析員さん。だって、私は前もってあなたに警告していたでしょ？	그래도 날 너무 원망하지는 말아줘. 분석가, 내가 전에도 이야기했잖아~	But please don't blame me too much, Adjutant. After all, I did warn you~						1	
+m5001.12	脸皮还真厚喵。	臉皮還真厚喵。	あ……厚かましいやつだね。	정말 뻔뻔스러다냥.	How shameless, nya.						1	
+m5001.13	总之，还是恭喜各位完成了这场“寻宝游戏”，最后奖励我也已经通过终端发送到分析员的账户上了~	總之，還是恭喜各位完成了這場「尋寶遊戲」，最後的獎勵我也已經透過終端發到分析員的帳戶內了~	とにかく、皆さんはめでたく「宝探しゲーム」をクリアしました。最後の報酬は端末を通じて、分析員さんのアカウントに送信しました～	아무튼 '보물찾기'를 끝낸 걸 축하해, 마지막 보상은 단말기를 통해 분석가 계정으로 발송했어~	To wrap it up, congratulations on finishing the "scavenger hunt," everyone. I've sent your final reward to the Adjutant's terminal~						1	
+m5001.14	那么海姆达尔部队的各位，人家就要先挂断电话了哦~	那麼海姆達爾部隊的各位，人家就要先掛斷電話了喔~	では、ヘイムダル部隊の皆さん、私はこれでお先に失礼しますね～	그럼 헤임달 부대 여러분, 이만 통화를 끝내야 할 것 같아~	Well then, Heimdall Force operatives, I'll be taking my leave now~						1	
+m5001.15	不过，早晚有一天我们大概还会再见面的，毕竟分析员身上也有我们色雷斯想要调查的真相呢~	不過，總有一天我們還會再見面的，畢竟分析員身上也有我們色雷斯想要調查的真相呢~	しかし、私たちはいつかきっと再会します。なぜなら、分析員さんの身にも、私たちセレスが調査したい真実が隠されてますから～	하지만 조만간 다시 만나게 될 거야. 우리 트라케가 조사하려는 진실이 분석가한테도 있으니까~	But we'll probably run into each other again, sooner or later. After all, we want to investigate and reveal the truth about something the Adjutant has~						1	
+m5001.16	被她耍得团团转啊……	被她耍得團團轉啊……	完全に彼女に振り回された……	아주 우리를 가지고 노는구나…	She won't stop messing with us...						1	
+m5001.17	分析员，我们现在要不要回洞窟看看？	分析員，我們現在要不要回洞窟看看?	分析員さん、今から洞窟に戻って確認します？	분석가, 동굴로 돌아가 볼까?	Adjutant, should we head back to the cave now?						1	
+m5001.19	先别急，先让她洞窟里得意一会，不过也就一会。	先別急，她在洞窟裡也沒辦法得意多久。	急がなくて大丈夫、彼女を洞窟で楽しませてあげよう。ほんの少しの間だけだけど。	서두르지 마, 일단 동굴에서 잠시 자만하도록 내버려 두자. 얼마 가지 않겠지만 말이야.	No need to rush. Let's let her be smug in that cave for a bit — but only for a bit.						1	
+m5001.20	她现在还在洞窟里啊……哎等等，分析员你是怎么知道的？	她現在還在洞窟裡嗎……欸等等，分析員你怎麼知道?	彼女はまだ洞窟の中にいるのか……あれ、分析員、どうしてそれを知ってるの？	아직도 동굴 안에 있구나… 잠깐, 분석가는 그걸 어떻게 알았어?	She's still in that cave...? Hey, wait a second... Adjutant, how do you know that?						1	
+m5001.21	离开洞窟前，我在火炬旁藏了个摄像头。	離開洞窟前，我在火炬旁邊藏了一個攝影機。	洞窟を出る前に、トーチの近くにカメラを隠した。	동굴을 떠나기 전에 횃불 옆에 카메라를 숨겨놨거든.	I put a hidden camera next to the torch before we left the cave.						1	
+m5001.22	原来如此，那个时候分析员藏得就是这个吗？	原來如此，那個時候分析員藏的東西就是這個嗎?	なるほど、あの時分析員が隠していたのはそれだったんだ？	그랬군, 그때 분석가가 숨긴 게 그거였나?	So that's what you were hiding?						1	
+m5001.23	嗯，把我们骗到那个海底洞窟的行为过于反常了，再加上猫汐尔之前的提醒，所以就多留个心眼。	嗯，把我們騙到那個海底洞窟的行為非常可疑，再加上貓汐爾之前的提醒，所以我就留了一些秘密武器。	うん、彼女が私たちを海底洞窟に誘い出したのはあまりにも異常だったし、マーシルにも警告されてたから、カメラを隠しておいた。	응. 우리를 해저 동굴로 유인한 게 너무 수상한 데다, 저번에 캣 시에라가 조심하라고 주의를 줬어. 그래서 좀 더 신중했지.	Yeah. The way she tricked us into that underwater cave was really unexpected. Pair that with Mauxir's reminder, and I decided to play it safe.						1	
+m5001.24	对了，我藏的东西不光光有摄像机……估计稍等一会，她就该主动联系我们了。	對了，我藏的東西不是只有攝影機……過不了多久她應該會主動聯絡我們。	あと、私が隠したのはカメラだけじゃない……もう少ししたら、彼女から私たちに連絡してくるはずだ。	참, 카메라 말고도 숨겨 놓은 게 하나 더 있어… 머지않아 그쪽에서 먼저 연락이 올 거야.	The camera wasn't the only thing I hid... I'm guessing she's going to contact us any minute now.						1	
+m5001.25	喵？	喵？	ニャ？	냐옹?	Nya?						1	
+m5001.26	哔哔哔——	嗶嗶嗶——	ピピピ——	삐삐삐——	*beep, beep, beep—*						1	
+m5001.27	看吧。	看吧。	ほらね。	거봐.	See?						1	
+m5001.28	海姆达尔的各位……没想到再次见面的时间来得这么快啊……啊对了，这次不是录音……啊哈哈	海姆達爾的各位……沒想到再次見面的時間來得這麼快啊……啊對了，這次不是錄音……啊哈哈	ヘイムダルの皆さん……思っていたよりも早く再会してしまいそうですね……あ、ちなみに、今は録音じゃないです……あはは	헤임달 여러분… 벌써 다시 만나게 될 줄은 몰랐네… 아참, 이번엔 녹음이 아니야… 아하하.	Heimdall Force operatives... I didn't think we would meet again so soon... Ah, by the way, this call wasn't recorded in advance this time... haha.						1	
+m5001.29	那个……如果方便的话，可以请你们再来海底洞窟救我一下吗……我这次好像真的被困住了……	那個……如果方便的話，可以請你們再來海底洞窟救我一下嗎……我這次好像真的被困住了……	あのう……もしよろしければ、もう一度海底洞窟に来て私を助けてくれませんか……私、今回は本当に閉じ込められてしまったみたいで……	저기… 괜찮다면 해저 동굴로 돌아와서 날 좀 구해주지 않을래…? 나 이번엔 진짜 갇힌 것 같거든…	Um... if you aren't too busy, could you come back down to the seabed cave and rescue me...? It looks like I'm really trapped this time...						1	
+m5001.30	这是怎么回事……	這是怎麼回事……	これはどういうことですか……	어떻게 된 일이죠…?	What's going on here...?						1	
+m5001.31	我顺手又弄了些陷阱，当然是比较传统的那种，妮塔用来抓野猪的。	我順手弄了一些陷阱，當然是比較傳統的那種，妮塔用來抓野豬的。	ついでに何個かトラップも仕掛けておいた。もちろん、割と伝統的なやつ。ニタがイノシシを捕まえるためのものだ。	제가 함정을 파놓았거든요. 좀 고전적인 함정이지만, 니타가 멧돼지 잡을 때 쓰는 걸 사용했어요.	I set up a few basic traps — the ones Nita used to catch wild boar.						1	
+m5001.32	好厉害，下次分析员可以教教我怎么布置那种陷阱吗？	好厲害，下次分析員可以教教我怎麼設置那種陷阱嗎?	すごい、今度そのトラップの仕掛け方を教えてくれない？	대단하다, 분석가. 나한테도 함정 설치 방법을 좀 가르쳐 달라.	That's amazing. Could you show me how to set up traps like that sometime, Adjutant?						1	
+m5001.33	这时候不是该先吐槽为啥妮塔会带着那种东西吗……	這時候不是該先吐槽為何妮塔會帶著那種東西嗎……	なぜニタがそんなものを持ち歩いているのかを、まずはツッコむべきじゃ……	그런데 니타한테 왜 그런 물건이 있는 거야? 누가 설명 좀…	Shouldn't we be asking ourselves why Nita carries stuff like that around with her...?						1	
+m5001.34	那个那个……海姆达尔部队的各位~能听到我的声音吗？可以抽空来救救人家吗……	那個那個……海姆達爾部隊的各位~能聽到我的聲音嗎?可以抽空來救救人家嗎……	あのあの……ヘイムダル部隊の皆様～、私の声、聞こえていますか？もしお時間がありましたら、私を助けてくれませんか……	저기, 저기… 헤임달 부대 여러분~ 내 목소리 들려? 날 좀 구해줘…	Um, hello...? Heimdall Force operatives~ Can you hear me? Could you please come save me...?						1	
+m5001.35	听不到。	聽不到。	聞こえません。	안 들려요.	We can't hear you.						1	
+m5001.36	被无视了……	被無視了……	無視されてしまいました……	대답 좀 해줘…	You're ignoring me...						1	
+m5001.37	分析员，你打算怎么处置她呢？	分析員，你打算怎麼處置她呢?	分析員、彼女をどうするつもりですか……	분석가, 어떻게 처리할까?	Adjutant, what were you planning on doing with her?						1	
+m5001.38	我想想……	我想想……	考えさせて……	생각 좀 해볼게…	Let me think...						1	
+m5001.39	还请高抬贵手……	還請高抬貴手……	どうかお手柔らかに……	용서해 줘…	Please spare me...						1	
+m5001.40	把她交给公司吧。	把她交給公司吧。	会社に引き渡そう。	회사에 넘기자.	We'll let Yggdrasil deal with her.						1	
+m5001.41	不过海底洞窟，香蒲人遗骸以及升起电墙开展寻宝游戏的事情就先别和上面汇报了。	不過海底洞窟、香蒲人遺骸以及島嶼被電磁波牆區隔然後展開了尋寶遊戲的事情就先別和上面匯報了。	でも、海底洞窟、アヤメ族の遺骨、そして電磁障壁を使った宝探しゲームについては、上に報告しないでおこう。	하지만 해저 동굴과 부들족 유해, 그리고 전자 장벽 때문에 보물찾기 게임을 한 건 상부에 비밀로 하자.	We don't need to include the seabed cave, the Typhan remains, and her lifting the electric walls to send us on a scavenger hunt in our report.						1	
+m5001.42	就包装一场普通的袭击吧，就说她的目的是通过袭击度假中的天启者来泄愤，只是切断岛上的通讯系统。	就包裝成一場普通的襲擊事件吧，就說她的目的是藉由襲擊渡假中的天啟者來洩憤，只是切斷了島上的通訊系統。	彼女は恨みを晴らすために、休暇中の覚醒者を狙って、島の通信システムを切断した、という普通の襲撃事件だったことにする。	일단 그냥 일반 습격 사건으로 포장하자. 그녀의 목적은 휴가 중인 계시자를 습격해 화풀이하고, 섬의 통신 시스템을 차단하는 거라고 보고하자.	Let's just say it was a normal attack. She wanted to take out her anger on the Manifestations while we were on vacation, so she blocked communication to and from the island.						1	
+m5001.43	这么严重的罪名，我不会被判个十年八年吧……	這麼嚴重的罪名，我不會被判個十年八年吧……	こんなに重い罪、懲役8年、10年とかになるのかな……	설마 그런 죄목으로 8년이나 10년 형을 살게 되진 않겠지…?	Won't I be locked up for eight to ten years for such a serious offense...?						1	
+m5001.44	如果实话实说，你估计这辈子就别想出来了。	如果實話實說，恐怕你這輩子就別想出來了。	正直に話したら、一生出られないと思うよ。	이번 생에는 나올 생각하지 않는 게 좋을 거야.	If we told the truth, you'd be put away for life.						1	
+m5001.45	公司的做派你是知道的。	你也知道公司的做法。	会社のやり方は知ってるだろ。	우리 회사의 스타일이 어떤지는 너도 잘 알고 있겠지.	You know how Yggdrasil operates.						1	
+m5001.46	啊哈哈哈，那倒也是……	啊哈哈哈，那倒是……	あははは……それもそうですね……	아하하하, 그야 잘 알지…	Ahaha... I can't argue with that...						1	
+m5001.47	真是没法理解，为什么最后还是要保护她啊……	真是無法理解，為什麼最後還是要保護她啊……	へぇ、どうして彼女を庇うの？	정말로 이해할 수 없어요. 왜 마지막까지 그녀를 보호해야 하는 거죠…	I really don't get it. Why do we still have to protect her...?						1	
+m5001.48	理由和之前一样，这个家伙性格恶劣，但是也不至于要丢掉性命。	理由和之前一樣，這個傢伙性格惡劣，但是也不至於危害性命。	理由は前と同じだ。こいつは性格は悪いけど、殺すほどの理由はないと思う。	이유는 전과 같아요. 성격은 나쁜 녀석이지만, 죽일 만큼은 아니라서요.	For the same reason as before — she isn't a good person, but she doesn't deserve to lose her life.						1	
+m5001.49	我不想变得和那些高高在上的家伙一样……	我不想變得和那些高高在上的傢伙一樣……	上の連中と同じにはなりたくないんだ……	전 그런 악마 같은 사람은 되고 싶지 않거든요…	I don't want to be like those condescending higher-ups...						1	
+m5001.50	我明白了……那就依分析员的吧。	我明白了……那就聽分析員的吧。	分かりました、分析員の言う通りにしますよ。	그렇군요… 그럼 분석가님의 말대로 하죠.	I understand... We'll support your decision, Adjutant.						1	
+m5001.51	那我可以顺便带一点遗骸样本回公司吗？	那我可以順便帶一點遺骸樣本回公司嗎?	じゃあ、私は遺骨サンプルを少し会社に持って帰ってもいい？	그럼 회사에 유해 샘플을 좀 가지고 돌아가도 될까?	Can I take some samples of the remains back to the company with me?						1	
+m5001.52	就算是我不同意，猫汐尔也会这么做吧……	就算是我不同意，貓汐爾也會這麼做吧……	ダメって言っても、マーシルはそうするだろう……	캣 시에라, 내가 반대한다고 해도 네 맘대로 할 거잖아…	I know you're going to do it even if I say no...						1	
+m5001.53	确实。	確實。	確かに。	그렇다.	Precisely.						1	
+m5001.54	只要不被陶发现就好，当然如果被发现了我也会想办法帮你盖过去的。	只要不被τ發現就好，當然如果被發現了我也會想辦法掩護你的。	τに見つからなければ大丈夫だよ、見つかっても私が何とかしてあげるから。	τ에게 들키지만 않으면 돼, 들켜도 물론 내가 어떻게든 덮어줄 테지만.	As long as τ doesn't find out, it's fine. Of course, even if she does, I'll help you cover it up.						1	
+m5001.55	收到喵。	收到喵。	ラジャーニャ。	알았다냥.	Understood, nya.						1	
+m5001.56	好，那么就出发去接我们的安提小姐吧~看来假期要提前结束了啊。	好，那麼就出發去接我們的安提小姐吧~看來假期要提前結束了啊。	よし、じゃあアンティちゃんを迎えに行こう！早くも休みが終了したみたいだね。	좋아, 그럼 앤티를 데리러 출발하자~ 휴가는 일찍 끝나버린 것 같네.	Alright. Let's go get Miss Anti~ Looks like our vacation is ending early.						1	
+m5001.57	……	……	……	…	...						1	
+m5001.58	别担心，如果你在牢里好好表现的话说不定也能提前出来。	別擔心，如果你在牢裡好好表現的話說不定也能提前出來。	大丈夫だ、牢屋でちゃんとしてたら、早く出られるかもしれないよ。	걱정하지 마, 감옥에서 바른 생활을 유지하면 빨리 나올 수 있을 거야.	Don't worry. You might be able to get out early on good behavior.						1	
+m5001.59	到时候再见吧，求知者小姐。	到時候再見吧，求知者小姐。	また会おう、知の探求者さん。	나중에 다시 만나자, 지식인 아가씨.	See you soon, Miss "Pursuer."						1	
+m5001.60	香蒲族与成年病的故事……	香蒲族與成年病的故事……	アヤメ族とティーン症候群の物語	부들족과 성인병의 이야기는…	The story of the Typha and Juvosis...						1	
+m5001.61	尚未完结。	尚未完結。	続く。	아직 끝나지 않았다.	Will continue.						1	

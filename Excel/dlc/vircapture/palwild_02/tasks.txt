@@ -1,0 +1,45 @@
+任务id	备注	任务类型(1劝降2情报)	失败情况(1:重置状态重新激活任务;2:只重置状态)	货币掉落量	怪物等级偏移	任务文件路径(Content/Blueprints/LevelTask/Tasks/)	任务点名	子关卡逻辑，父目录(/Game/Blueprints/LevelTask/Level/)	触发期数（对应level_time.txt)	任务完成后发的道具	限时挑战任务，请填1，其他任务不用管	是否为揭露型任务（废弃字段）	任务类型（0，普通任务，显示任务栏；1,解密任务，不显示任务栏；2，特殊活动用，完成后不加载且大地图不显示点位）
+Id	Comments	Type	FailType	DropMoney	LevelOffset	TaskPath	PointName	LevelLogic	UseId	tbItem	UnLoadOnEnd	IsInfoTask	IsSecret
+31101	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task01_01.Wild_02_Task01_01		PalLevel/Wilds02/Tasks/Wild_02_Task01_01.Wild_02_Task01_01		{{4,1,6,8,500}}		0	0
+31102	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task01_02.Wild_02_Task01_02		PalLevel/Wilds02/Tasks/Wild_02_Task01_02.Wild_02_Task01_02		{{4,1,6,8,500}}		0	0
+31103	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task01_03.Wild_02_Task01_03		PalLevel/Wilds02/Tasks/Wild_02_Task01_03.Wild_02_Task01_03		{{4,1,6,8,500}}		0	0
+31104	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task01_04.Wild_02_Task01_04		PalLevel/Wilds02/Tasks/Wild_02_Task01_04.Wild_02_Task01_04		{{4,1,6,8,500}}		0	0
+31201	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task02_01.Wild_02_Task02_01		PalLevel/Wilds02/Tasks/Wild_02_Task02_01.Wild_02_Task02_01		{{4,1,6,8,500}}		0	0
+31202	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task02_02.Wild_02_Task02_02		PalLevel/Wilds02/Tasks/Wild_02_Task02_02.Wild_02_Task02_02		{{4,1,6,8,500}}		0	0
+31203	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task02_03.Wild_02_Task02_03		PalLevel/Wilds02/Tasks/Wild_02_Task02_03.Wild_02_Task02_03		{{4,1,6,8,500}}		0	0
+31204	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task02_04.Wild_02_Task02_04		PalLevel/Wilds02/Tasks/Wild_02_Task02_04.Wild_02_Task02_04		{{4,1,6,8,500}}		0	0
+31301	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task03_01.Wild_02_Task03_01		PalLevel/Wilds02/Tasks/Wild_02_Task03_01.Wild_02_Task03_01		{{4,1,6,8,500}}		0	0
+31302	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task03_02.Wild_02_Task03_02		PalLevel/Wilds02/Tasks/Wild_02_Task03_02.Wild_02_Task03_02		{{4,1,6,8,500}}		0	0
+31303	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task03_03.Wild_02_Task03_03		PalLevel/Wilds02/Tasks/Wild_02_Task03_03.Wild_02_Task03_03		{{4,1,6,8,500}}		0	0
+31304	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task03_04.Wild_02_Task03_04		PalLevel/Wilds02/Tasks/Wild_02_Task03_04.Wild_02_Task03_04		{{4,1,6,8,500}}		0	0
+32101	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task01_N01.Wild_02_Task01_N01		PalLevel/Wilds02/Tasks/Wild_02_Task01_N01.Wild_02_Task01_N01		{{4,1,6,8,500}}		0	0
+32102	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task01_N02.Wild_02_Task01_N02		PalLevel/Wilds02/Tasks/Wild_02_Task01_N02.Wild_02_Task01_N02		{{4,1,6,8,500}}		0	0
+32103	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task01_N03.Wild_02_Task01_N03		PalLevel/Wilds02/Tasks/Wild_02_Task01_N03.Wild_02_Task01_N03		{{4,1,6,8,500}}		0	0
+32104	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task01_N04.Wild_02_Task01_N04		PalLevel/Wilds02/Tasks/Wild_02_Task01_N04.Wild_02_Task01_N04		{{4,1,6,8,500}}		0	0
+32201	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task02_N01.Wild_02_Task02_N01		PalLevel/Wilds02/Tasks/Wild_02_Task02_N01.Wild_02_Task02_N01		{{4,1,6,8,500}}		0	0
+32202	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task02_N02.Wild_02_Task02_N02		PalLevel/Wilds02/Tasks/Wild_02_Task02_N02.Wild_02_Task02_N02		{{4,1,6,8,500}}		0	0
+32203	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task02_N03.Wild_02_Task02_N03		PalLevel/Wilds02/Tasks/Wild_02_Task02_N03.Wild_02_Task02_N03		{{4,1,6,8,500}}		0	0
+32204	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task02_N04.Wild_02_Task02_N04		PalLevel/Wilds02/Tasks/Wild_02_Task02_N04.Wild_02_Task02_N04		{{4,1,6,8,500}}		0	0
+32301	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task03_N01.Wild_02_Task03_N01		PalLevel/Wilds02/Tasks/Wild_02_Task03_N01.Wild_02_Task03_N01		{{4,1,6,8,500}}		0	0
+32302	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task03_N02.Wild_02_Task03_N02		PalLevel/Wilds02/Tasks/Wild_02_Task03_N02.Wild_02_Task03_N02		{{4,1,6,8,500}}		0	0
+32303	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task03_N03.Wild_02_Task03_N03		PalLevel/Wilds02/Tasks/Wild_02_Task03_N03.Wild_02_Task03_N03		{{4,1,6,8,500}}		0	0
+32304	新星开拓新岛任务	1	1			PalTask/Wilds02/Tasks/Wild_02_Task03_N04.Wild_02_Task03_N04		PalLevel/Wilds02/Tasks/Wild_02_Task03_N04.Wild_02_Task03_N04		{{4,1,6,8,500}}		0	0
+													
+30101	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area1_01.DecryptTask_area1_01		PalLevel/Wilds02/Decrypts/Decrypt_area1_01.Decrypt_area1_01		{{4,1,6,8,500}}		0	1
+30102	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area1_02.DecryptTask_area1_02		PalLevel/Wilds02/Decrypts/Decrypt_area1_02.Decrypt_area1_02		{{4,1,6,8,500}}		0	1
+30103	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area1_03.DecryptTask_area1_03		PalLevel/Wilds02/Decrypts/Decrypt_area1_03.Decrypt_area1_03		{{4,1,6,8,500}}		0	1
+30104	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area1_04.DecryptTask_area1_04		PalLevel/Wilds02/Decrypts/Decrypt_area1_04.Decrypt_area1_04		{{4,1,6,8,500}}		0	1
+30105	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area1_05.DecryptTask_area1_05		PalLevel/Wilds02/Decrypts/Decrypt_area1_05.Decrypt_area1_05		{{4,1,6,8,500}}		0	1
+30106	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area1_06.DecryptTask_area1_06		PalLevel/Wilds02/Decrypts/Decrypt_area1_06.Decrypt_area1_06		{{4,1,6,8,500}}		0	1
+30201	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area2_01.DecryptTask_area2_01		PalLevel/Wilds02/Decrypts/Decrypt_area2_01.Decrypt_area2_01		{{4,1,6,8,500}}		0	1
+30202	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area2_02.DecryptTask_area2_02		PalLevel/Wilds02/Decrypts/Decrypt_area2_02.Decrypt_area2_02		{{4,1,6,8,500}}		0	1
+30203	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area2_03.DecryptTask_area2_03		PalLevel/Wilds02/Decrypts/Decrypt_area2_03.Decrypt_area2_03		{{4,1,6,8,500}}		0	1
+30204	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area2_04.DecryptTask_area2_04		PalLevel/Wilds02/Decrypts/Decrypt_area2_04.Decrypt_area2_04		{{4,1,6,8,500}}		0	1
+30205	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area2_05.DecryptTask_area2_05		PalLevel/Wilds02/Decrypts/Decrypt_area2_05.Decrypt_area2_05		{{4,1,6,8,500}}		0	1
+30206	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area2_06.DecryptTask_area2_06		PalLevel/Wilds02/Decrypts/Decrypt_area2_06.Decrypt_area2_06		{{4,1,6,8,500}}		0	1
+30301	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area3_01.DecryptTask_area3_01		PalLevel/Wilds02/Decrypts/Decrypt_area3_01.Decrypt_area3_01		{{4,1,6,8,500}}		0	1
+30302	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area3_02.DecryptTask_area3_02		PalLevel/Wilds02/Decrypts/Decrypt_area3_02.Decrypt_area3_02		{{4,1,6,8,500}}		0	1
+30303	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area3_03.DecryptTask_area3_03		PalLevel/Wilds02/Decrypts/Decrypt_area3_03.Decrypt_area3_03		{{4,1,6,8,500}}		0	1
+30304	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area3_04.DecryptTask_area3_04		PalLevel/Wilds02/Decrypts/Decrypt_area3_04.Decrypt_area3_04		{{4,1,6,8,500}}		0	1
+30305	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area3_05.DecryptTask_area3_05		PalLevel/Wilds02/Decrypts/Decrypt_area3_05.Decrypt_area3_05		{{4,1,6,8,500}}		0	1
+30306	新星开拓新岛解密	1	1			PalTask/Wilds02/Decrypts/DecryptTask_area3_06.DecryptTask_area3_06		PalLevel/Wilds02/Decrypts/Decrypt_area3_06.Decrypt_area3_06		{{4,1,6,8,500}}		0	1

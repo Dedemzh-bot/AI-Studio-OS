@@ -1,0 +1,25 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	向着北方前进的猫汐尔一路来到了隧道前。	朝著北方前進的貓汐爾一路來到了隧道前。	北へ進んだマーシルはトンネルの前にやってきた。	북쪽으로 전진하던 캣 시에라는 터널 앞에 도착한다.	Mauxir was heading north and finally arrived at a tunnel.						0	1.3重置
+2	山体上，雕刻着古老的文字……	山體上刻著古老的文字……	山に古い文字が刻まれている……	산에는 오래된 문자가 새겨져 있었다.	There was the script of some ancient language carved into the face of the mountain...						0	1.3重置
+3	现世空余苦痛，真理藏于彼岸……湛蓝的睡莲，摇曳于两者之间……	現世徒留苦痛，真相藏於彼岸……湛藍的睡蓮，搖曳於兩者之間……	現世にあるのは苦痛のみ、真理は彼方に隠され……青い睡蓮がその間で揺れている……	현세에 남겨진 고통, 이면에 숨겨진 진실… 푸른 연꽃이 양쪽에서 흔들리네…	While this world contains endless pain, the truth is hidden on the other side... Cerulean water lilies sway between the two realms...						0	1.3重置
+4	水之影，水之影，引领我们穿过那幽暗的隧道……于真实的世界重生……	水之影、水之影，引領我們穿過那幽暗的隧道……於真實的世界重生……	水の影、水の影。導かれる私たちは暗いトンネルを通り抜け……真実の世界で生まれ変わる……	수중 그림자여, 수중 그림자여, 저희를 이끌고 어두운 터널을 지나… 진실의 세계에서 새 삶을 얻게 하소서…	The shadow lotus leads us through the dark tunnel... to be reborn in the true world...						0	1.3重置
+5	和今天那些狂热的降临团会员一样，千年前的香蒲人似乎也在追寻着某些“虚无”的东西。	和現今那些狂熱的降臨團會員一樣，千年前的香蒲人似乎也在追尋著某些“虛無”的東西。	最近の熱狂的な降臨団メンバーと同じく、千年前のアヤメ人も何か「虚無」なものを求めていたようだ。	오늘날 미치광이 강림단 신자들처럼, 천 년 전에 있던 부들 사람들도 '공허'한 무언가를 추구했던 것 같다.	It seems like the ancient Typha people were pursuing something rather abstract, just like those fanatical Adventists are today.						0	1.3重置
+6	与认知水平无关，这只是人类面对痛苦时的一种必然选择。	與知識無關，這只是人類面對痛苦時的一種必然選擇。	認知能力とは関係なく、苦痛を前にした人間の必然的な選択にすぎない。	인지력과 무관하게 인류가 고통을 맞이할 때 취하는 필연적인 선택이다.	It had nothing to do with any lack in cognitive ability. It is simply an inevitable outcome for humans when they are faced with pain.						0	1.3重置
+7	在研究完山体上的文字后，猫汐尔走到隧道口，她闭上眼睛抽动起鼻头来。	研究完山體上的文字之後，貓汐爾來到隧道口，她閉上雙眼抽動鼻頭吸嗅。	山壁の文字を確認したマーシルはトンネルの前に進んで、目を閉じて匂いを嗅ぎ始めた。	산에 있는 문자를 연구한 후, 캣 시에라는 터널 입구로 들어갔다. 그녀는 눈을 감고 후각에 집중했다.	After studying the text carved on the mountain, Mauxir walked over to the tunnel entrance. She then closed her eyes and sniffed, causing her nose to twitch.						0	1.3重置
+8	气味一致，被称为水之影的植物就在这个隧道里喵。	氣味一致，被稱為水之影的植物就在這個隧道裡喵。	同じ匂い。水の影と呼ばれる植物がこのトンネルにあるニャ。	냄새가 일치한다. 수중 그림자라는 식물은 바로 이 터널 안에 있다냥.	The scent is consistent. The plant known as the "shadow lotus" grows in this tunnel, nya.						0	1.3重置
+9	不过那个无人机并不在附近……瑟瑞斯的录像里明明就是往这个方向飞了……算了，还是优先采集活体样本吧。	不過那個無人機並不在附近……瑟瑞斯錄的影像裡面明明就是往這個方向飛了……算了，還是優先採集活體樣本吧。	ドローンは近くにはいない……シーリスが撮った動画ではこの方向に向かったはず……まあいい、生体サンプルの採取を優先しよう。	하지만 그 드론이 이곳에는 보이지 않는다… 세리스의 영상에서는 분명 이곳으로 날아갔었는데… 상관없다. 일단 생체 샘플부터 채집해 가야겠다.	But that drone isn't anywhere to be found... It was clearly flying in this direction in Siris' video... Oh well. I'll collect some samples for now.						0	1.3重置
+10	然而正当猫汐尔准备进入隧道时，一名侍者却拦住了她的去路。	然而正當貓汐爾準備進入隧道時。一名侍者出現攔住了她的去路。	マーシルがトンネルに入ろうとしたとき、ウェイトレスがマーシルの前に現れた。	캣 시에라가 터널로 들어가려던 순간 로봇 메이드가 그녀의 길을 막아선다.	However, just as Mauxir was about to enter the tunnel, a robot attendant blocked her way.						0	1.3重置
+11	尊贵的客人您好，非常遗憾地通知您，前方暂时禁止通行。	尊敬的客人您好，前方禁止通行，造成您的不便敬請見諒。	申し訳ありませんが、お客様。この先は通行禁止となっております。	고객님, 안녕하세요. 유감이지만 이 앞에서부터는 출입이 제한됩니다.	Greetings, Miss. I regret to inform you that this path is temporarily closed.						0	1.3重置
+12	通知无效喵。	通知無效喵。	無駄な警告ニャ。	이런 통지는 받아들일 수 없다냥.	Don't care, nya.						0	1.3重置
+13	客人，请您……	客人，請您……	お客様、どうか……	고객님, 제발…	Miss, please...						0	1.3重置
+14	看这里。	看這裡。	ここを見るニャ。	여길 보라냥.	Look here.						0	1.3重置
+15	哎——	哎——	はぁ……	하아…	Hmm?						0	1.3重置
+16	一阵光芒从猫汐尔的手心闪出，女侍者就像是被按下了暂停键般定在了原处。	貓汐爾的手心閃出一道光芒，女侍者像是被按下暫停鍵一般定格在了原地。	マーシルの手の平が光ると、ウェイトレスは一時停止ボタンを押されたかのようにその場に固まった。	캣 시에라의 손바닥에서 빛이 나오더니 로봇 메이드는 일시 정지 버튼을 누른 것처럼 제자리에 멈춰 섰다.	A burst of light suddenly flashed from Mauxir's open palm. The robot immediately froze like someone had pressed a pause button.						0	1.3重置
+17	片刻过后——	片刻過後——	しばらくすると——	잠시 후…	A few moments passed...						0	1.3重置
+18	识别对象出现错误——正在重构识别逻辑——	識別對象出現錯誤——正在重新建構識別資訊——	識別対象にエラーが発生しました——識別ロジックを再構築しています——	식별 대상 오류 발생ㅡ 식별 알고리즘 재구성 중ㅡ	Target recognition error. Reconfiguring recognition logic.						0	1.3重置
+19	该区域内未发现参赛选手——即将返回服务区待命——	該區域內未發現參賽選手——即將返回服務區待命——	当該エリアには選手が見つかりません——まもなくサービスエリアに戻って待機します——	해당 구역 대회 참가자 없음ㅡ 서비스 구역으로 복귀 및 명령 대기 실시ㅡ	No contestants found in this area. Returning to the service area to await further orders.						0	1.3重置
+20	被“无视”了，只是短短几秒，在女侍者的眼中，猫汐尔似乎就成了透明人。	被“無視”了，在這短短幾秒的期間，貓汐爾在女侍者眼中好像變成了透明人。	「無視」された。ほんの数秒で、マーシルはウェイトレスの前でまるで透明人間のようになった。	몇 초 동안 로봇 메이드의 눈에는 캣 시에라가 투명 인간과 같이 아무것도 보이지 않는다.	In only a matter of seconds, Mauxir was seemingly ignored by the robot. It was like she had become invisible in its mechanical eyes.						0	1.3重置
+21	唔，最后一格电也用掉了……芙提雅说得没错，该考虑增加“视觉模组干扰器”的电池容量了……	唔，最後一格電力也用完了……芙提雅說得沒錯，該考慮提升“視覺模組干擾器”的電量……	電池が切れた……フリティアの言う通り、そろそろ「視覚モジュール妨害装置」の電池容量を増やさないと……	흠, 마지막으로 남았던 배터리 칸도 다 닳았다… 프티야 말이 맞았다. '시각 모듈 교란 장치'의 배터리 용량을 늘려야겠다…	Hmm, I used up the last bit of power... Fritia was right. I should consider increasing the battery capacity in this "visual module scrambler"...						0	1.3重置
+22	不过正好，正好测试一下“溯影”的性能。	不過正好，剛好測試一下“溯影”的功能。	でも、「トレーサビリティ」の性能をテストするにはちょうどいいか。	그래도 마침 '트레이스'의 성능을 테스트해 볼 수 있는 기회다.	Anyway, at least I've gotten to see how some of Shadow Ka's features perform.						0	1.3重置
+23	哔叽叽。	嗶嘰嘰。	ピギギ。	삐비빅.	Beep-beep-beep!						0	1.3重置

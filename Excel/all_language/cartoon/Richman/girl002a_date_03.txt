@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	运动会宣传手册上介绍了一套热身运动，分析员可以帮我完成吗？	運動會宣傳手冊上介紹了一套暖身運動，分析員可以幫我完成嗎？	運動会のパンフレットで紹介されてたウォーミングアップを試そうと思うんだ。手伝ってくれるか？	운동회 홍보 책자에 준비운동 세트가 소개되어 있는데 분석가가 도와줄래?	I read about this warm-up routine in the sports event brochure. Could you help me try it, Adjutant?						0	
+choice01	帮里芙按住脚踝	幫里芙按住腳踝	リフの足を抑えてあげる	리브 발목 잡아준다.	Help hold Lyfe's ankles						0	
+page1.1	呼……呼……	呼……呼……	はあ……はあ……	후… 후…	Huff... Huff...						0	
+page1.2	还好有分析员的帮忙，这个动作对腹部肌肉群的锻炼很有帮助。	還好有分析員的幫忙，這個動作對腹部肌肉群的鍛鍊很有幫助。	助かった、分析員。腹部の筋肉によく効く動きのようだ。	다행히 분석가가 도와줘서 복부 근육 단련에 도움이 되는 동작이야.	Thank you, Adjutant. This exercise really works the abdominal muscles.						0	
+page1.3	要不要我来按住分析员，你试一试？	要不要我來按住分析員，你試試看？	今度は私が分析員の足を抑えようか？	내가 분석가를 눌러줄까, 한번 해볼래?	Would you like to try it too? I can hold your ankles.						0	
+choice02	帮里芙托住后腰	幫里芙托住後腰	リフの腰を支える	리브의 허리를 받쳐 준다.	Help support Lyfe's lower back						0	
+page2.1	我这边准备好了，里芙不用有顾虑，可以开始了。	我這邊準備好了，里芙不用有顧慮，可以開始了。	こっちは準備オッケーだ。遠慮せず始めるといい。	준비 다 되었으니, 리브는 걱정할 필요 없어, 시작해도 돼.	I'm all set here. Don't worry, Lyfe, you can start whenever.						0	
+page2.2	唔……呼……	唔……呼……	う……ふぅ……	음… 후…	Ooh... huff...						0	
+page2.3	啊，分析员的手很稳呢，让人非常放心。	啊，分析員的手很穩呢，讓人非常放心。	その腕の動き、落ち着くな。すごくリラックスできる。	아, 분석가 손은 안정적이네, 안심되네.	Your hands are steady, Adjutant. It's very reassuring.						0	
+page2.4	就算像这样闭着眼睛后仰下腰，也有满满的安全感。	就算像這樣閉著眼睛後仰下腰，也有滿滿的安全感。	目を閉じて後ろに倒れてもまったく心配せずに済む。	이렇게 눈을 감고 허리를 숙여도 안정감이 가득해.	With you here, I could do a backbend with my eyes closed and still feel safe.						0	

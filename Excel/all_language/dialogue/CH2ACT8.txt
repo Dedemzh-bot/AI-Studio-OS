@@ -1,0 +1,7 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	喂喂！现在信号怎么样！！听得到吗？	喂喂！現在訊號怎麼樣！！聽得到嗎？	はいはい！電波の調子はどうかなー！！聞こえてるー？	이봐! 지금 신호는 어때? 들려?	Hey, how's the signal? Can you hear me?						0	
+2	还不错的样子！	還不錯的樣子！	はっきり聞こえてるわ！	괜찮은 것 같네!	Seems fine!						0	
+3	我的坐标在这里！这里！	我的座標在這裡！這裡！	私の座標はここー！ここだよー！	내 좌표는 여기니까 참고해!	My coordinates are here! Right here!						0	
+4	敌人很多，有硬茬子，我先挂断了！	敵人很多，有麻煩的傢伙，我先掛斷了！	敵がいっぱいいる！手強いやつも！じゃあ切るよ！	적들이 많아서 버거우니까… 일단 끊을게!	There are a lot of enemies, some of them not easy to deal with. I'm hanging up!						0	
+6	还是老样子啊……	還是老樣子啊……	相変わらず……	변한 게 하나도 없군…	Same old...						0	

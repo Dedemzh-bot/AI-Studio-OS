@@ -1,0 +1,881 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+card_name01	健康配餐	健康配餐	健康食	건강 식단	Healthy Meal						0	DLC2.6纷愿绮梦系统相关文本
+card_name02	枸杞饮品	枸杞飲品	クコジュース	구기자 음료	Goji Berry Tonic						0	DLC2.6纷愿绮梦系统相关文本
+card_name03	能量饮料	能量飲料	エナドリ	에너지 음료	Energy Soda						0	DLC2.6纷愿绮梦系统相关文本
+card_name04	浓缩咖啡	濃縮咖啡	エスプレッソ	에스프레소	Espresso						0	DLC2.6纷愿绮梦系统相关文本
+card_name05	西装外套	西裝外套	スーツジャケット	양복 정장	Suit Jacket						0	DLC2.6纷愿绮梦系统相关文本
+card_name06	西装裤	西裝褲	スーツパンツ	양복 바지	Suit Pants						0	DLC2.6纷愿绮梦系统相关文本
+card_name07	西装领带	西裝領帶	ネクタイ	양복 넥타이	Power Tie						0	DLC2.6纷愿绮梦系统相关文本
+card_name08	分析员墨镜	分析員墨鏡	分析員のサングラス	분석가 선글라스	Adjutant's Sunglasses						0	DLC2.6纷愿绮梦系统相关文本
+card_name09	约会日	約會日	デートの誘い	데이트 날	Romantic Date						0	DLC2.6纷愿绮梦系统相关文本
+card_name10	安眠枕	安眠枕	安眠枕	수면 베개	Good-Night Pillow						0	DLC2.6纷愿绮梦系统相关文本
+card_name11	分析员手枪	分析員手槍	分析員のピストル	분석가 피스톨	Adjutant's Pistol						0	DLC2.6纷愿绮梦系统相关文本
+card_name12	钱包	錢包	ウォレット	지갑	Wallet						0	DLC2.6纷愿绮梦系统相关文本
+card_name13	终端	終端	端末	단말기	Terminal						0	DLC2.6纷愿绮梦系统相关文本
+card_name14	夜魇骑士	夜魘騎士	夜魘騎士	악몽의 기사	Midnight Knight						0	DLC2.6纷愿绮梦系统相关文本
+card_name15	点赞	按讚	「いいね」	좋아요	Like						0	DLC2.6纷愿绮梦系统相关文本
+card_name16	超级点赞	超級按讚	スーパー「いいね」	완전 좋아요	Super Like						0	DLC2.6纷愿绮梦系统相关文本
+card_name17	基地通行密钥	基地通行金鑰	社員寮通行キー	숙소 통행 열쇠	Base Access Key						0	DLC2.6纷愿绮梦系统相关文本
+card_name18	再来一瓶	再來一瓶	もう一本	한 병 더	Get One Free						0	DLC2.6纷愿绮梦系统相关文本
+card_name19	荧光棒	螢光棒	ライトスティック	형광봉	Glow Stick						0	DLC2.6纷愿绮梦系统相关文本
+card_name20	麦克风	麥克風	マイク	마이크	Microphone						0	DLC2.6纷愿绮梦系统相关文本
+card_name21	小提琴	小提琴	ヴァイオリン	바이올린	Violin						0	DLC2.6纷愿绮梦系统相关文本
+card_name22	4分音符	4分音符	4分音符	4분음표	Quarter Note						0	DLC2.6纷愿绮梦系统相关文本
+card_name23	16分音符	16分音符	16分音符	16분음표	Sixteenth Note						0	DLC2.6纷愿绮梦系统相关文本
+card_name24	八音盒	音樂盒	オルゴール	오르골	Music Box						0	DLC2.6纷愿绮梦系统相关文本
+card_name25	乐谱	樂譜	楽譜	악보	Sheet Music						0	DLC2.6纷愿绮梦系统相关文本
+card_name26	演出服饰	演出服飾	公演用衣装	공연 의상	Costume						0	DLC2.6纷愿绮梦系统相关文本
+card_name27	8分音符	8分音符	8分音符	8분음표	Eighth Note						0	DLC2.6纷愿绮梦系统相关文本
+card_name28	聚光灯	聚光燈	スポットライト	조명	Spotlight						0	DLC2.6纷愿绮梦系统相关文本
+card_name29	效果器	效果器	エフェクター	이펙트 장비	Effect Pedal						0	DLC2.6纷愿绮梦系统相关文本
+card_name30	高音谱号	高音譜號	ト音記号	높은 음자리표	Treble Clef						0	DLC2.6纷愿绮梦系统相关文本
+card_name31	低音谱号	低音譜號	ヘ音記号	낮은 음자리표	Bass Clef						0	DLC2.6纷愿绮梦系统相关文本
+card_name32	口琴	口琴	ハーモニカ	하모니카	Harmonica						0	DLC2.6纷愿绮梦系统相关文本
+card_name33	舞台音响	舞台音響	舞台音響	무대 음향	Live Sound Gear						0	DLC2.6纷愿绮梦系统相关文本
+card_name34	游戏币	遊戲幣	メダル	게임 코인	Arcade Token						0	DLC2.6纷愿绮梦系统相关文本
+card_name35	跳舞机	跳舞機	ダンスゲーム機	댄스 머신	Dance Machine						0	DLC2.6纷愿绮梦系统相关文本
+card_name36	游戏奖杯	遊戲獎盃	ゲームトロフィー	게임 트로피	Game Trophy						0	DLC2.6纷愿绮梦系统相关文本
+card_name37	扭蛋机	扭蛋機	ガチャマシン	가챠 기계	Gacha Machine						0	DLC2.6纷愿绮梦系统相关文本
+card_name38	娃娃机	娃娃機	クレーンゲーム	인형 뽑기 기계	Claw Machine						0	DLC2.6纷愿绮梦系统相关文本
+card_name39	VR眼镜	VR眼鏡	VRゴーグル	VR 안경	VR Headset						0	DLC2.6纷愿绮梦系统相关文本
+card_name40	扭蛋	扭蛋	カプセル	가챠	Gacha						0	DLC2.6纷愿绮梦系统相关文本
+card_name41	枫糖汽水	楓糖汽水	メープルソーダ	메이플 시럽 탄산음료	Maple Soda						0	DLC2.6纷愿绮梦系统相关文本
+card_name42	游戏币兑换券	遊戲幣兌換券	メダル交換券	게임 코인 교환권	Arcade Token Voucher						0	DLC2.6纷愿绮梦系统相关文本
+card_name43	密米尔气泡水	密米爾氣泡水	ミーミルソーダ	미미르 탄산수	Mimir Soda						0	DLC2.6纷愿绮梦系统相关文本
+card_name44	双头光剑	雙頭光劍	ダブルライトブレード	쌍두 광선검	Dual Lightswords						0	DLC2.6纷愿绮梦系统相关文本
+card_name45	金手指	金手指	改造ツール	골든 터치	Cheat Code						0	DLC2.6纷愿绮梦系统相关文本
+card_name46	电子表	電子錶	デジタルウォッチ	디지털 시계	Digital Watch						0	DLC2.6纷愿绮梦系统相关文本
+card_name47	电玩城会员	電玩城會員	ゲーセン会員証	오락실 회원	Arcade Membership						0	DLC2.6纷愿绮梦系统相关文本
+card_name48	光剑电池	光劍電池	ライトブレードの電池	광선검 배터리	Lightsword Battery						0	DLC2.6纷愿绮梦系统相关文本
+card_name49	毛笔	毛筆	毛筆	붓	Brush Pen						0	DLC2.6纷愿绮梦系统相关文本
+card_name50	砚台	硯台	すずり台	벼루	Inkstone						0	DLC2.6纷愿绮梦系统相关文本
+card_name51	墨水	墨水	墨	먹물	Ink						0	DLC2.6纷愿绮梦系统相关文本
+card_name52	读书笔记	讀書筆記	読書ノート	독서 노트	Reading Notes						0	DLC2.6纷愿绮梦系统相关文本
+card_name53	古籍残卷	古籍殘卷	古籍の残編	고서 잔편	Manuscript Page						0	DLC2.6纷愿绮梦系统相关文本
+card_name54	古籍完本	古籍完本	古籍の完本	고서 완본	Ancient Manuscript						0	DLC2.6纷愿绮梦系统相关文本
+card_name55	古籍全册	古籍全冊	古籍の全冊	고서 전권	Manuscript Set						0	DLC2.6纷愿绮梦系统相关文本
+card_name56	古卷拓本	古卷拓本	古籍の拓本	고서 탁본	Ancient Rubbing						0	DLC2.6纷愿绮梦系统相关文本
+card_name57	碑文	碑文	碑文	비문	Inscription						0	DLC2.6纷愿绮梦系统相关文本
+card_name58	活字印刷版	活字印刷版	活字	활자 인쇄판	Ancient Typewriter						0	DLC2.6纷愿绮梦系统相关文本
+card_name59	古籍书架	古籍書架	古籍の棚	고서 책장	Ancient Bookshelf						0	DLC2.6纷愿绮梦系统相关文本
+card_name60	雕刻印章	雕刻印章	印鑑	조각 인장	Handcrafted Seal						0	DLC2.6纷愿绮梦系统相关文本
+card_name61	复印机	影印機	コピー機	복사기	Copier						0	DLC2.6纷愿绮梦系统相关文本
+card_name62	藏宝箱	藏寶箱	お宝の箱	보물 상자	Treasure Chest						0	DLC2.6纷愿绮梦系统相关文本
+card_name63	船锚	船錨	船の錨	배 닻	Anchor						0	DLC2.6纷愿绮梦系统相关文本
+card_name64	藏宝箱钥匙	藏寶箱鑰匙	お宝の箱の鍵	보물 상자 키	Treasure Chest Key						0	DLC2.6纷愿绮梦系统相关文本
+card_name65	单筒望远镜	單筒望遠鏡	単眼望遠鏡	한쪽 눈 망원경	Monocular						0	DLC2.6纷愿绮梦系统相关文本
+card_name66	金条	金條	金塊	금덩어리	Gold Bar						0	DLC2.6纷愿绮梦系统相关文本
+card_name67	黄金扳指	黃金扳指	金の指輪	금반지	Gold Signet Ring						0	DLC2.6纷愿绮梦系统相关文本
+card_name68	珍珠项链	珍珠項鍊	真珠のネックレス	진주 목걸이	Pearl Necklace						0	DLC2.6纷愿绮梦系统相关文本
+card_name69	船舵	船舵	船の舵	조타	Helm						0	DLC2.6纷愿绮梦系统相关文本
+card_name70	充气艇	充气艇	ゴムボート	에어보트	Inflatable Boat						0	DLC2.6纷愿绮梦系统相关文本
+card_name71	银制藏宝箱	銀製藏寶箱	銀のお宝の箱	은 보물 상자	Silver Treasure Chest						0	DLC2.6纷愿绮梦系统相关文本
+card_name72	黄金藏宝箱	黃金藏寶箱	黄金のお宝の箱	금 보물 상자	Gold Treasure Chest						0	DLC2.6纷愿绮梦系统相关文本
+card_name73	指南针	指南針	コンパス	나침반	Compass						0	DLC2.6纷愿绮梦系统相关文本
+card_name74	左轮手枪	左輪手槍	回転式拳銃	리볼버	Revolver						0	DLC2.6纷愿绮梦系统相关文本
+card_name75	锁链	鎖鏈	鎖	체인	Chain						0	DLC2.6纷愿绮梦系统相关文本
+card_name76	探险背包	探險背包	探検リュック	탐험 배낭	Explorer's Backpack						0	DLC2.6纷愿绮梦系统相关文本
+card_name77	花蜜	花蜜	花の蜜	꿀	Nectar						0	DLC2.6纷愿绮梦系统相关文本
+card_name78	奶油	奶油	クリーム	크림	Cream						0	DLC2.6纷愿绮梦系统相关文本
+card_name79	蜂箱	蜂箱	養蜂箱	벌집	Bee Hive						0	DLC2.6纷愿绮梦系统相关文本
+card_name80	七巧板巧克力	七巧板巧克力	タングラムチョコ	조각 초콜릿	Tangram Chocolate Bar						0	DLC2.6纷愿绮梦系统相关文本
+card_name81	千层蛋糕	千層蛋糕	ミルフィーユ	크레이프	Crepe Cake						0	DLC2.6纷愿绮梦系统相关文本
+card_name82	棒棒糖	棒棒糖	ロリポップ	막대사탕	Lollipop						0	DLC2.6纷愿绮梦系统相关文本
+card_name83	装饰彩带	裝飾彩帶	装飾リボン	장식 리본	Ribbon						0	DLC2.6纷愿绮梦系统相关文本
+card_name84	蜜罐	蜜罐	ハニーポット	꿀단지	Honey Pot						0	DLC2.6纷愿绮梦系统相关文本
+card_name85	舒芙蕾	舒芙蕾	スフレ	수플레	Soufflé						0	DLC2.6纷愿绮梦系统相关文本
+card_name86	包装礼盒	包裝禮盒	ギフトボックス	포장 상자	Gift Box						0	DLC2.6纷愿绮梦系统相关文本
+card_name87	牙刷	牙刷	歯ブラシ	칫솔	Toothbrush						0	DLC2.6纷愿绮梦系统相关文本
+card_name88	食用调色	食用調色	食用着色料	식용 색소	Food Coloring						0	DLC2.6纷愿绮梦系统相关文本
+card_name89	小蜜蜂	小蜜蜂	ハニービー	벌	Bee						0	DLC2.6纷愿绮梦系统相关文本
+card_name90	星星糖	星星糖	星の飴	별사탕	Star-Shaped Candies						0	DLC2.6纷愿绮梦系统相关文本
+card_name91	蜂蜜棒	蜂蜜棒	ハニースティック	꿀 막대	Honey Stick						0	DLC2.6纷愿绮梦系统相关文本
+card_name92	准时下班	準時下班	定時退勤	정시 퇴근	On-Time Punch-Out						0	DLC2.6纷愿绮梦系统相关文本
+card_name93	请假条	請假條	休暇届	휴가 신청서	Leave Request						0	DLC2.6纷愿绮梦系统相关文本
+card_name94	指纹打卡机	指紋打卡機	指紋認証打刻機	지문 인식기	Punch Clock						0	DLC2.6纷愿绮梦系统相关文本
+card_name95	打卡记录	打卡記錄	打刻記録	출근 기록	Punch-In Record						0	DLC2.6纷愿绮梦系统相关文本
+card_name96	人体工学椅	人體工學椅	人間工学チェア	인체공학 의자	Office Chair						0	DLC2.6纷愿绮梦系统相关文本
+card_name97	旅行风光照	旅行風光照	観光写真	여행 사진	Travel Photo						0	DLC2.6纷愿绮梦系统相关文本
+card_name98	景区门票	景點門票	観光地の入場券	관광지 티켓	Tourist Spot Ticket						0	DLC2.6纷愿绮梦系统相关文本
+card_name99	胶卷	膠卷	フィルム	필름	Film Roll						0	DLC2.6纷愿绮梦系统相关文本
+card_name100	被炉	暖桌	こたつ	코타츠	Kotatsu						0	DLC2.6纷愿绮梦系统相关文本
+card_name101	摩天轮	摩天輪	観覧車	관람차	Ferris Wheel						0	DLC2.6纷愿绮梦系统相关文本
+card_name102	回笼觉	回籠覺	二度寝	낮잠	Nap Time						0	DLC2.6纷愿绮梦系统相关文本
+card_name103	病假证明	病假證明	病気休暇証明	병가 증명서	Sick Note						0	DLC2.6纷愿绮梦系统相关文本
+card_name104	扫地机器人	掃地機器人	掃除ロボット	로봇 청소기	Robot Vacuum						0	DLC2.6纷愿绮梦系统相关文本
+card_name105	景点打卡	景點打卡	スポット巡り	관광지 인증	Tourist Spot Check-In						0	DLC2.6纷愿绮梦系统相关文本
+card_name106	多肉植物	多肉植物	多肉植物	다육 식물	Succulent						0	DLC2.6纷愿绮梦系统相关文本
+card_name107	相机	相機	カメラ	카메라	Camera						0	DLC2.6纷愿绮梦系统相关文本
+card_name108	满格能量	滿格能量	充電完了	풀충전 에너지	Fully Charged						0	DLC2.6纷愿绮梦系统相关文本
+card_name109	冰霜子弹	冰霜子彈	氷霜弾丸	서리 총알	Frost Bullet						0	DLC2.6纷愿绮梦系统相关文本
+card_name110	冰刃	冰刃	氷の刃	얼음 날	Ice Blade						0	DLC2.6纷愿绮梦系统相关文本
+card_name111	冰雪皇冠	冰雪皇冠	氷霜の冠	얼음 왕관	Snow Crown						0	DLC2.6纷愿绮梦系统相关文本
+card_name112	战术沙盘	戰術沙盤	戦術サンドボックス	샌드박스	Sand Table						0	DLC2.6纷愿绮梦系统相关文本
+card_name113	冰雪披风	冰雪披風	氷霜のマント	얼음 망토	Snow Cloak						0	DLC2.6纷愿绮梦系统相关文本
+card_name114	冰霜玫瑰	冰霜玫瑰	氷霜のバラ	서리 장미	Frost Rose						0	DLC2.6纷愿绮梦系统相关文本
+card_name115	扩容弹匣	擴容彈匣	拡張マガジン	확장 탄창	Extended Magazine						0	DLC2.6纷愿绮梦系统相关文本
+card_name116	冲锋枪	衝鋒槍	サブマシンガン	기관단총	Submachine Gun						0	DLC2.6纷愿绮梦系统相关文本
+card_name117	冰风扇	冰風扇	氷の扇風機	얼음 선풍기	Ice Fan						0	DLC2.6纷愿绮梦系统相关文本
+card_name118	微观雪景	微觀雪景	ミクロ雪景色	미세 눈 풍경	Snow Globe						0	DLC2.6纷愿绮梦系统相关文本
+card_name119	双持冲锋枪	雙持衝鋒槍	デュアルサブマシンガン	쌍·기관단총	Dual Submachine Guns						0	DLC2.6纷愿绮梦系统相关文本
+card_name120	冰霜盾牌	冰霜盾牌	氷霜の盾	얼음 방패	Frost Shield						0	DLC2.6纷愿绮梦系统相关文本
+card_name121	霜花	霜花	霜花	서리꽃	Frostbloom						0	DLC2.6纷愿绮梦系统相关文本
+card_name122	小无人机	小無人機	ミニドローン	미니 드론	Mini Drone						0	DLC2.6纷愿绮梦系统相关文本
+card_name123	桃木枝	桃木枝	桃の枝	복숭아 나무 가지	Peachwood Twig						0	DLC2.6纷愿绮梦系统相关文本
+card_name124	铜钱	銅錢	銅貨	동전	Copper Coin						0	DLC2.6纷愿绮梦系统相关文本
+card_name125	桃木符	桃木符	桃の木札	복숭아 나무 부적	Peachwood Talisman						0	DLC2.6纷愿绮梦系统相关文本
+card_name126	念珠	念珠	珠	염주	Bead						0	DLC2.6纷愿绮梦系统相关文本
+card_name127	珠串	珠串	数珠	구슬 팔찌	Bead Chain						0	DLC2.6纷愿绮梦系统相关文本
+card_name128	符纸	符紙	紙符	부적	Talisman Slip						0	DLC2.6纷愿绮梦系统相关文本
+card_name129	桃木剑	桃木劍	桃の木の剣	복숭아 나무 검	Peachwood Sword						0	DLC2.6纷愿绮梦系统相关文本
+card_name130	桃树	桃樹	桃の木	복숭아 나무	Peach Tree						0	DLC2.6纷愿绮梦系统相关文本
+card_name131	上上签	上上籤	大吉のおみくじ	제비 뽑기	Super Good Fortune Stick						0	DLC2.6纷愿绮梦系统相关文本
+card_name132	贡品	貢品	貢物	제물	Sacrificial Peach						0	DLC2.6纷愿绮梦系统相关文本
+card_name133	甘霖	甘霖	甘露	신성한 물	Divine Water						0	DLC2.6纷愿绮梦系统相关文本
+card_name134	法印	法印	法印	신성한 인장	Divine Seal						0	DLC2.6纷愿绮梦系统相关文本
+card_name135	天师罗盘	天師羅盤	天師羅針盤	점술사 나침반	Geomancer's Compass						0	DLC2.6纷愿绮梦系统相关文本
+card_name136	拂尘	拂塵	払子	먼지 털이	Fly-Whisk						0	DLC2.6纷愿绮梦系统相关文本
+card_name137	祈雨诀	祈雨訣	雨乞いの旗	기우 주문	Rain Pennant						0	DLC2.6纷愿绮梦系统相关文本
+card_name138	八卦镜	八卦鏡	八卦鏡	팔괘경	Bagua Mirror						0	DLC2.6纷愿绮梦系统相关文本
+card_name139	聚能装置	聚能裝置	エネルギー集束装置	에너지 집중 장치	Energy Collector						0	DLC3.2纷愿绮梦
+card_name140	能量块	能量塊	エネルギーキューブ	에너지 블록	Energy Block						0	DLC3.2纷愿绮梦
+card_name141	能量发生装置	能量發生裝置	エネルギー発生装置	에너지 발생 장치	Energy Generator						0	DLC3.2纷愿绮梦
+card_name142	能量传导器	能量傳導器	エネルギーセンサー	에너지 센서	Energy Conductor						0	DLC3.2纷愿绮梦
+card_name143	原型机器人	原型機器人	試作型ロボット	프로토타입 로봇	Prototype Bot						0	DLC3.2纷愿绮梦
+card_name144	储能电池	儲能電池	蓄電池	에너지 배터리	Power Cell						0	DLC3.2纷愿绮梦
+card_name145	设计图纸	設計圖紙	設計図	설계도	Blueprint						0	DLC3.2纷愿绮梦
+card_name146	进阶机器人	進階機器人	進化型ロボット	고급 로봇	Advanced Bot						0	DLC3.2纷愿绮梦
+card_name147	终极机器人	終極機器人	究極ロボット	궁극 로봇	Ultimate Bot						0	DLC3.2纷愿绮梦
+card_name148	探测仪	探測器	探知機	탐지기	Detector						0	DLC3.2纷愿绮梦
+card_name149	爆裂手雷	爆裂手榴彈	爆裂グレネード	폭발 수류탄	Blast Grenade						0	DLC3.2纷愿绮梦
+card_name150	能量聚合器	能量聚合器	エネルギー集束器	에너지 결합기	Energy Amplifier						0	DLC3.2纷愿绮梦
+card_name151	能量碎块	能量碎塊	エネルギーの欠片	에너지 조각	Energy Shard						0	DLC3.2纷愿绮梦
+card_name152	测试型永动机	測試型永動機	試作型永久機関	테스트용 영구기관	Beta Engine						0	DLC3.2纷愿绮梦
+card_name153	永动机	永動機	永久機関	영구기관	Perpetual Engine						0	DLC3.2纷愿绮梦
+card_name154	魔术帽	魔術帽	マジックハット	마술 모자	Magic Hat						0	DLC3.2纷愿绮梦
+card_name155	魔术指套	魔術指套	マジック指サック	마술 핑거 스톨	Magic Thimble						0	DLC3.2纷愿绮梦
+card_name156	星星魔棒	星星魔棒	スターワンド	별빛 마술봉	Star Staff						0	DLC3.2纷愿绮梦
+card_name157	魔术手套	魔術手套	マジックグローブ	마술 장갑	Magic Gloves						0	DLC3.2纷愿绮梦
+card_name158	魔术手帕	魔術手帕	マジックハンカチ	마술 손수건	Magic Handkerchief						0	DLC3.2纷愿绮梦
+card_name159	隐身粉末	隱身粉末	ステルスパウダー	은신 가루	Stealth Powder						0	DLC3.2纷愿绮梦
+card_name160	鸽子蛋	鴿子蛋	ハトの卵	도브 에그	Pigeon Egg						0	DLC3.2纷愿绮梦
+card_name161	鸽子窝	鴿子窩	ハトの巣	도브 네스트	Pigeon Nest						0	DLC3.2纷愿绮梦
+card_name162	机关盒	機關盒	からくり箱	기관 상자	Puzzle Box						0	DLC3.2纷愿绮梦
+card_name163	魔杖	魔杖	マジックワンド	마법 지팡이	Magic Wand						0	DLC3.2纷愿绮梦
+card_name164	星币	星幣	スターコイン	스타 코인	Star Coin						0	DLC3.2纷愿绮梦
+card_name165	亮闪闪粉末	亮閃閃粉末	キラキラパウダー	반짝반짝 가루	Sparkling Dust						0	DLC3.2纷愿绮梦
+card_name166	小鸽子	小鴿子	小さなハト	작은 도브	Small Pigeon						0	DLC3.2纷愿绮梦
+card_name167	大鸽子	大鴿子	大きなハト	큰 도브	Big Pigeon						0	DLC3.2纷愿绮梦
+card_name168	超大鸽子	超大鴿子	巨大なハト	초대형 도브	Huge Pigeon						0	DLC3.2纷愿绮梦
+card_name169	小蝙蝠	小蝙蝠	コウモリ	박쥐	Little Bat						0	DLC3.2纷愿绮梦
+card_name170	银匕首	銀匕首	銀の短剣	은비수	Silver Dagger						0	DLC3.2纷愿绮梦
+card_name171	红宝石	紅寶石	ルビー	루비	Ruby						0	DLC3.2纷愿绮梦
+card_name172	易容眼罩	易容眼罩	変装用眼帯	변장 안대	Masquerade Mask						0	DLC3.2纷愿绮梦
+card_name173	佳酿	佳釀	芳醇な酒	맛 좋은 술	Fine Brew						0	DLC3.2纷愿绮梦
+card_name174	暗影洞窟	暗影洞窟	闇の洞窟	암흑 동굴	Shadowy Cave						0	DLC3.2纷愿绮梦
+card_name175	灵魂汲取	靈魂汲取	ソウルドレイン	영혼 흡수	Soul Sapper						0	DLC3.2纷愿绮梦
+card_name176	香氛	香氛	アロマ	향료	Perfume						0	DLC3.2纷愿绮梦
+card_name177	假面	假面	仮面	가면	Befuddler's Mask						0	DLC3.2纷愿绮梦
+card_name178	暗影庄园	暗影莊園	闇の庭園	암흑 장원	Shadowy Manor						0	DLC3.2纷愿绮梦
+card_name179	披风	披風	マント	망토	Cloak						0	DLC3.2纷愿绮梦
+card_name180	高跟鞋	高跟鞋	ハイヒール	하이힐	High-Heels						0	DLC3.2纷愿绮梦
+card_name181	珍宝	珍寶	秘宝	보물	Treasure						0	DLC3.2纷愿绮梦
+card_name182	契约书	契約書	契約書	계약서	Pact						0	DLC3.2纷愿绮梦
+card_name183	魂匣	魂匣	ソウルボックス	영혼 상자	Soul Vessel						0	DLC3.2纷愿绮梦
+card_name184	唤灵石	喚靈石	召霊石	영혼 소환석	Soul Stone						0	DLC3.2纷愿绮梦
+card_name185	水晶球	水晶球	水晶玉	수정구	Crystal Ball						0	DLC3.2纷愿绮梦
+card_name186	坩埚	坩堝	坩堝	도가니	Cauldron						0	DLC3.2纷愿绮梦
+card_name187	王族仆从	王族僕從	王族の従者	왕족 하인	Royal Servant						0	DLC3.2纷愿绮梦
+card_name188	灵魂纹章	靈魂紋章	魂の紋章	영혼 문장	Soul Emblem						0	DLC3.2纷愿绮梦
+card_name189	守护者雕像	守護者雕像	守護者の像	수호자 조각상	Guardian Statue						0	DLC3.2纷愿绮梦
+card_name190	古代石板	古代石版	古代の石板	고대 석판	Ancient Tablet						0	DLC3.2纷愿绮梦
+card_name191	仆从纹章	僕從紋章	従者の紋章	하인 문장	Servant Emblem						0	DLC3.2纷愿绮梦
+card_name192	烙印	烙印	烙印	낙인	Seal						0	DLC3.2纷愿绮梦
+card_name193	守护仪式	守護儀式	守護の儀式	수호 의식	Guardian Ritual						0	DLC3.2纷愿绮梦
+card_name194	镰刀	鐮刀	鎌	낫	Scythe						0	DLC3.2纷愿绮梦
+card_name195	海带	海帶	昆布	미역	Kelp						0	DLC3.2纷愿绮梦
+card_name196	小虾	小蝦	小エビ	작은 새우	Shrimp						0	DLC3.2纷愿绮梦
+card_name197	龙睛鱼	龍睛魚	デメキン	툭눈 금붕어	Dragon Eye						0	DLC3.2纷愿绮梦
+card_name198	琉金鱼	琉金魚	リュウキン	류킨 금붕어	Ryukin						0	DLC3.2纷愿绮梦
+card_name199	小丑鱼	小丑魚	クマノミ	클라운피시	Clownfish						0	DLC3.2纷愿绮梦
+card_name200	水母	水母	クラゲ	해파리	Jellyfish						0	DLC3.2纷愿绮梦
+card_name201	海葵	海葵	イソギンチャク	말미잘	Anemone						0	DLC3.2纷愿绮梦
+card_name202	鱼饵	魚餌	釣り餌	미끼	Bait						0	DLC3.2纷愿绮梦
+card_name203	螃蟹	螃蟹	カニ	꽃게	Crab						0	DLC3.2纷愿绮梦
+card_name204	海绵	海綿	スポンジ	스펀지	Sponge						0	DLC3.2纷愿绮梦
+card_name205	翻车鱼	翻車魚	マンボウ	개복치	Sunfish						0	DLC3.2纷愿绮梦
+card_name206	鲸鱼	鯨魚	クジラ	고래	Whale						0	DLC3.2纷愿绮梦
+card_name207	鲨鱼	鯊魚	サメ	상어	Shark						0	DLC3.2纷愿绮梦
+card_name208	能量导线	能量導線	エネルギーケーブル	에너지 도선	Energy Cable						0	DLC3.2纷愿绮梦
+card_name209	迭代核心	迭代核心	進化コア	업데이트 코어	Iterating Core						0	DLC3.2纷愿绮梦
+card_name210	魔术眼镜	魔術眼鏡	マジックメガネ	마술 안경	Magic Glasses						0	DLC3.2纷愿绮梦
+card_name211	魔术卡牌	魔術卡牌	マジックカード	마술 카드	Magic Card						0	DLC3.2纷愿绮梦
+card_name212	饵料	餌料	餌	먹이	Lure						0	DLC3.2纷愿绮梦
+card_name213	阳伞	陽傘	日傘	양산	Parasol						0	DLC3.2纷愿绮梦
+card_name214	利齿	利齒	牙	이빨	Fangs						0	DLC3.2纷愿绮梦
+card_name215	木炭	木炭	木炭	목탄	Charcoal						0	DLC3.2纷愿绮梦
+card_name216	审判者	審判者	審判者	심판관	Judicator						0	DLC3.2纷愿绮梦
+card_name217	护身符	護身符	お守り	부적	Amulet						0	DLC3.2纷愿绮梦
+card_name218	海鳝	海鱔	ウツボ	바다뱀	Moray Eel						0	DLC3.2纷愿绮梦
+card_name219	海星	海星	ヒトデ	불가사리	Starfish						0	DLC3.2纷愿绮梦
+card_desc01	出现5回合后消耗自身	出現5回合後消耗自身	現れてから5ターンで消滅する	5턴 후, 자신을 소모한다.	Disappears after 5 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc02	出现1回合后消耗自身，使下次选棋时出现1个高于当前漫溯等级的棋子	出現1回合後消耗自身，使下次選棋時出現1個高於目前漫溯等級的棋子	現れてから1ターンで消滅し、次の駒選択時、現在の追憶Lvより高いレベルの駒を1つ出現させる	1턴 후, 자신을 소모해 다음 기물을 선택 시 현재 꿈의 흐름 레벨보다 높은 기물 1개를 등장하게 한다.	Disappears after 1 turn, making the next piece selection include a piece 1 level higher than your current Dreamflow level.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc03	出现{1}回合后消耗自身，使相邻自身棋子生成的漫溯能量提升{2}%，使场上随机{3}个“装束”类棋子生成的漫溯能量增加{4}	出現{1}回合後消耗自身，使相鄰自身棋子生成的漫溯能量提升{2}%，使場上隨機{3}個「裝束」類棋子生成的漫溯能量增加{4}	現れてから{1}ターンで消滅し、隣接する駒の追憶エネルギー生成量+{2}%、碁盤上の「衣装」系駒{3}つの追憶エネルギー生成量+{4}	{1}턴 동안 등장한 후, 자신을 소모해 자신과 인접한 기물이 생성하는 꿈의 흐름 에너지를 {2}% 증가시키고, 필드에 있는 랜덤 {3}개의 '복장' 유형 기물이 생성하는 꿈의 흐름 에너지를 {4} 증가시킨다.	Disappears after {1} turn(s), increasing Dreamflow energy from adjacent pieces by {2}% and from {3} random Attire piece(s) by {4}.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc04	出现{1}回合后消耗自身，使场上生成漫溯能量最多的棋子收益提升{2}%	出現{1}回合後消耗自身，使場上生成漫溯能量最多的棋子收益提升{2}%	現れてから{1}ターンで消滅。碁盤上で最も多くの追憶エネルギーを生成する駒の追憶エネルギー生成量+{2}%	등장 {1}턴 후, 자신을 소모해 필드에서 꿈의 흐름 에너지를 가장 많이 생성하는 기물의 수익을 {2}% 증가시킨다.	Disappears after {1} turn(s), increasing Dreamflow energy from the highest-generating piece on the board by {2}%.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc05											0	DLC2.6纷愿绮梦系统相关文本
+card_desc06											0	DLC2.6纷愿绮梦系统相关文本
+card_desc07											0	DLC2.6纷愿绮梦系统相关文本
+card_desc08											0	DLC2.6纷愿绮梦系统相关文本
+card_desc09	如果场上有未放置棋子的空格处，则生成120漫溯能量	如果場上有未放置棋子的空格處，則生成120漫溯能量	碁盤上に空マスがある場合、追憶エネルギーを120生成	필드에 기물이 놓이지 않은 빈 칸이 있을 경우, 120 꿈의 흐름 에너지를 생성한다.	Generates 120 Dreamflow energy when there is an empty space on the board.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc10	使用后，生成400%已消耗的漫溯能量	使用後，生成400%已消耗的漫溯能量	使用すると、追憶エネルギーを400%生成し、即座に消費する	사용 후, 소모된 꿈의 흐름 에너지의 400% 생성한다.	Generates 400% of the Dreamflow energy already consumed.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc11	出现后每6回合获得1次额外的选棋	出現後每6回合獲得1次額外的選棋	現れると、6ターンごとに駒を1回追加で選択可能	등장 후, 매 6턴마다 추가로 기물을 선택할 수 있는 기회가 1회 제공된다.	Grants 1 extra chance for piece selection every 6 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc12	使用后，获得2次选棋，生成450漫溯能量	使用後，獲得2次選棋，生成450漫溯能量	使用すると、駒を2回選択でき、追憶エネルギーを450生成	사용 후, 2회의 기물 선택을 얻고, 450 꿈의 흐름 에너지를 생성한다.	Use it to obtain 2 chances for piece selection and generate 450 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc13	出现后，每有1个棋子被消耗，生成的漫溯能量增加10，最高增加300	出現後，每有1個棋子被消耗，生成的漫溯能量增加10，最高增加300	現れると、駒が1つ消滅するたびに、追憶エネルギー生成量+10（最大300）	등장 후, 1개의 기물이 소모될 때마다 생성되는 꿈의 흐름 에너지가 10 증가하고, 최대 300까지 증가한다.	Generates 10 extra Dreamflow energy per piece consumed, up to 300.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc14	场上“装束”类棋子生成的漫溯能量提升{1}%，效果可叠加	場上「裝束」類棋子生成的漫溯能量提升{1}%，效果可疊加	碁盤上の「衣装」系駒の追憶エネルギー生成量+{1}%（効果重複可能）	필드에서 '복장' 유형 기물이 생성하는 꿈의 흐름 에너지가 {1}% 증가한다. 해당 효과는 중첩할 수 있다.	Increases Dreamflow energy from Attire pieces by {1}%. This effect is stackable.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc15	当场上出现3个相同棋子相连时，使第1组相连棋子均生成120漫溯能量	當場上出現3個相同棋子相連時，使第1組相連棋子均生成120漫溯能量	碁盤上に同じ駒が3つ隣接している場合、初回のみ、それぞれの駒が追憶エネルギーを120生成	필드에 3개의 동일한 기물이 연결되면, 첫 번째 그룹의 연결된 기물이 각각 120 꿈의 흐름 에너지를 생성한다.	When 3 identical pieces connect, generates 120 Dreamflow energy per piece in the first set.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc16	当场上出现3个相同棋子相连时，生成480漫溯能量	當場上出現3個相同棋子相連時，生成480漫溯能量	碁盤上に同じ駒が3つ隣接している場合、追憶エネルギーを480生成	필드에 3개의 동일한 기물이 연결되면, 480 꿈의 흐름 에너지를 생성한다.	When 3 identical pieces connect, generates 480 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc17	使用后，生成1500漫溯能量，获得1次额外的前进次数	使用後，生成1500漫溯能量，獲得1次額外的前進次數	使用すると、追憶エネルギーを1500生成し、前進回数を1回獲得	사용 후, 1,500의 꿈의 흐름 에너지를 생성하고, 추가로 1회의 전진 횟수를 획득한다.	Use it to generate 1,500 Dreamflow energy and obtain 1 extra spin.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc18	出现后，使“功能饮料”类棋子的效果激活2次	出現後，使「功能飲料」類棋子的效果啟動2次	現れると、「機能性飲料」系駒の効果を2回発動させる	등장 후, '기능 음료' 유형 기물의 효과가 2회 활성화된다.	Activates the effect of Power Drink type pieces twice.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc19	当棋子处于场上的四边时，生成60漫溯能量	當棋子處於場上的四邊時，生成60漫溯能量	碁盤の4つの辺に現れると、追憶エネルギーを60生成	기물이 필드의 모서리에 있을 때 60 꿈의 흐름 에너지를 생성한다.	Generates 60 Dreamflow energy when a piece is on the edge of the board.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc20	漫溯等级为3级时，获得【定制专辑】通用道具，1局内仅存在1个【麦克风】	漫溯等級為3級時，獲得【訂製專輯】通用道具，1局內僅存在1個【麥克風】	1ゲームに1つだけ存在可能。追憶Lvが3の場合、汎用アイテム【カスタムアルバム】を入手	꿈의 흐름이 Lv.3일 때, [커스텀 앨범] 일반 아이템을 획득하고, 한 게임에는 단 1개의 [마이크]만 존재한다.	At Dreamflow Lv. 3, grants a Personalized Album. Max 1 Microphone per game.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc21	提升漫溯等级后消耗自身，获得1个“音符”类棋子	提升漫溯等級後消耗自身，獲得1個「音符」類棋子	追憶Lvが上昇すると消滅し、「音符」系の駒を1つ入手	꿈의 흐름 레벨을 상승시킨 후 자신을 소모해, '음표' 유형의 기물을 1개 획득한다.	When Dreamflow level increases, disappears and grants 1 Note piece.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc22	相邻的棋子生成的漫溯能量增加5，出现2回合后消耗自身	相鄰的棋子生成的漫溯能量增加5，出現2回合後消耗自身	隣接する駒の追憶エネルギー生成量+5。現れてから2ターンで消滅	인접한 기물이 생성하는 꿈의 흐름 에너지가 5 증가하며, 2턴 후 자신을 소모한다.	Increases Dreamflow energy from adjacent pieces by 5, then disappears after 2 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc23	相邻的【演出服饰】生成的漫溯能量提升50%	相鄰的【演出服飾】生成的漫溯能量提升50%	隣接する【公演用衣装】の追憶エネルギー生成量+50%	인접한 [공연 의상]이 생성하는 꿈의 흐름 에너지가 50% 증가한다.	Increases Dreamflow energy from any adjacent Costume by 50%.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc24	出现2回合后消耗自身，随机获得1个“音符”类棋子	出現2回合後消耗自身，隨機獲得1個「音符」類棋子	現れてから2ターンで消滅し、「音符」系の駒を1つ入手	2턴 후, 자신을 소모해 랜덤으로 '음표' 유형의 기물을 1개 획득한다.	Disappears after 2 turns, granting 1 random Note piece.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc25	出现后将【4分音符】、【8分音符】出现在场上的回合数恢复为初始状态，2回合后消耗自身	出現後將【4分音符】、【8分音符】出現在場上的回合數恢復為初始狀態，2回合後消耗自身	現れると、【4分音符】および【8分音符】の残存ターン数を初期状態にリセット。2ターン後に消滅	등장 후, [4분음표], [8분음표], [무대 음향]의 등장 횟수를 초기 상태로 되돌리며, 2턴 후 자신을 소모한다.	Resets turn count for Quarter Notes and Eighth Notes. Disappears after 2 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc26	使【16分音符】的效果可叠加，1局内仅存在1个【演出服饰】	使【16分音符】的效果可疊加，1局內僅存在1個【演出服飾】	1ゲームに1つだけ存在可能。【16分音符】の効果を重複可能にする	[16분음표]의 효과가 중첩되며, 한 게임에 단 하나의 공연 의상만 존재한다.	Makes Sixteenth Notes' effects stackable. Max 1 Costume per game.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc27	相邻的棋子生成60漫溯能量，出现3回合后消除自身	相鄰的棋子生成60漫溯能量，出現3回合後消除自身	現れてから3ターンで消滅。隣接する駒の追憶エネルギー生成量+60	인접한 기물이 60 꿈의 흐름 에너지를 생성하며, 3턴 후 자신을 제거한다.	Generates 60 Dreamflow energy for adjacent pieces, then disappears after 3 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc28	出现后，使【演出服饰】生成的漫溯能量提升{1}%，同时相邻的棋子生成的漫溯能量提升{2}%，1局内仅存在1个【聚光灯】	出現後，使【演出服飾】生成的漫溯能量提升{1}%，同時相鄰的棋子生成的漫溯能量提升{2}%，1局內僅存在1個【聚光燈】	1ゲームに1つだけ存在可能。現れると、【公演用衣装】の追憶エネルギー生成量+{1}%、隣接する駒の追憶エネルギー生成量+{2}%	등장 후, [공연 의상]이 생성하는 꿈의 흐름 에너지가 {1}% 증가하며, 동시에 인접한 기물이 생성하는 꿈의 흐름 에너지가 {2}% 증가한다. 한 게임 내에는 단 하나의 [조명]만 존재한다.	Increases Dreamflow energy from Costume pieces by {1}% and from adjacent pieces by {2}%. Max 1 Spotlight per game.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc29	出现后，每4回合使所有棋子收益提升100%，效果可以叠加	出現後，每4回合使所有棋子收益提升100%，效果可以疊加	現れると、4ターンごとにすべての駒の追憶エネルギー生成量+100%（効果重複可能）	조명이 등장하면, 4턴마다 모든 기물의 수익이 100% 증가한다. 해당 효과는 중첩될 수 있다.	Every 4 turns, increases Dreamflow energy from all pieces by 100%. This effect is stackable.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc30	出现2回合后转化为【低音谱号】，生成的漫溯能量增加75	出現2回合後轉換為【低音譜號】，生成的漫溯能量增加75	現れてから2ターン後に【ヘ音記号】に変わり、追憶エネルギー生成量+75	2턴 후, [낮은 음자리표]로 전환되며, 생성되는 꿈의 흐름 에너지가 75 증가한다.	After 2 turns, converts into a Bass Clef and generates 75 extra Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc31	出现{1}回合后转化为【高音谱号】，转化后继承当前漫溯能量，且转化时生成漫溯能量提升{2}%	出現{1}回合後轉化為【高音譜號】，轉化後繼承目前漫溯能量，且轉化時生成漫溯能量提升{2}%	現れてから{1}ターン後に【ト音記号】に変わり、現在の追憶エネルギーを受け継ぐ。そのターンの追憶エネルギー生成量+{2}%	{1}턴 동안 등장한 후, [높은 음자리표]로 전환한다. 전환 후, 현재의 꿈의 흐름 에너지를 계승하고, 전환 시 생성하는 꿈의 흐름 에너지가 {2}% 증가한다.	After {1} turn(s), converts into a Treble Clef and generates {2}% extra Dreamflow energy.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc32	出现后，使全部【4分音符】和【8分音符】存在于场上的回合数增加{1}	出現後，使全部【4分音符】和【8分音符】存在於場上的回合數增加{1}	現れると、碁盤上の【4分音符】と【8分音符】の残存ターン数+{1}	등장 후, 모든 [4분음표]와 [8분음표]가 필드에 존재하는 턴 수가 {1} 증가한다.	Adds {1} turn(s) to the duration of all Quarter Notes and Eighth Notes.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc33	出现后，每4回合将【演出服饰】和场上所有棋子视为相邻	出現後，每4回合將【演出服飾】和場上所有棋子視為相鄰	現れると、4ターンごとに碁盤上の【公演用衣装】とすべての駒を隣接関係として扱う	등장 후, 4턴마다 [공연 의상]과 필드의 모든 기물을 인접한 것으로 간주한다.	Every 4 turns, considers all pieces on the board as adjacent to a Costume.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc34											0	DLC2.6纷愿绮梦系统相关文本
+card_desc35	当消耗{1}个相邻的【游戏币】或【胶卷】时，生成的漫溯能量增加{2}，可分别触发{3}次	當消耗{1}個相鄰的【遊戲幣】或【膠卷】時，生成的漫溯能量增加{2}，可分別觸發{3}次	隣接する【メダル】または【フィルム】を{1}つ消滅させ、追憶エネルギー生成量+{2}。それぞれ{3}回まで発動可能	인접한 [게임 코인]이나 [필름]을 {1}개 소모할 시, 생성하는 꿈의 흐름 에너지가 {2} 증가하며, 각각 {3}회씩 발동할 수 있다.	Consumes {1} adjacent Arcade Token(s) or Film Roll(s) to generate {2} Dreamflow energy ({3} trigger(s) for each).						0	DLC2.6纷愿绮梦系统相关文本
+card_desc36	场上每出现1个“游乐”类棋子或【VR眼镜】，生成的漫溯能量提升{1}%	場上每出現1個「遊樂」類棋子或【VR眼鏡】，生成的漫溯能量提升{1}%	碁盤上に「遊楽」系の駒または【VRゴーグル】が1つ現れるたびに、追憶エネルギー生成量+{1}%	필드에 '놀이' 유형의 기물이나 [VR 안경]이 1개 등장할 때마다 생성되는 꿈의 흐름 에너지가 {1}% 증가한다.	For each Playland piece or VR Headset on the board, increases Dreamflow Energy by {1}%.						0	DLC3.5纷愿绮梦系统相关文本
+card_desc37	和【扭蛋】相邻时消耗自身，使【扭蛋】出现的回合数增加{1}	和【扭蛋】相鄰時消耗自身，使【扭蛋】出現的回合數增加{1}	【カプセル】と隣接すると消滅し、【カプセル】の残存ターン数+{1}	인접한 [가챠]와 함께 있을 때 자신을 소모하여 [가챠]가 등장하는 턴 수를 {1} 증가시킨다.	Disappears when placed next to a Gacha to extend its duration by {1} turn(s).						0	DLC2.6纷愿绮梦系统相关文本
+card_desc38	消耗相邻的所有【游戏币】，每消耗1个，使场上随机{1}个【游戏奖杯】生成的漫溯能量增加{2}	消耗相鄰的所有【遊戲幣】，每消耗1個，使場上隨機{1}%個【遊戲獎盃】產生的漫溯能量增加{2}	隣接するすべての【メダル】を消滅させ、1つごとに碁盤上のランダムな【ゲームトロフィー】{1}つの追憶エネルギー生成量+{2}	인접한 모든 [게임 코인]을 소모하여, 1개씩 소모할 때마다 필드에 있는 임의의 [게임 트로피] {1}개가 생성하는 꿈의 흐름 에너지를 {2} 증가시킨다.	Consumes all adjacent Arcade Tokens, increasing Dreamflow Energy from {1} random Game Trophies by {2} per token.						0	DLC3.5纷愿绮梦系统相关文本
+card_desc39	出现后，使场上随机{1}个【游戏奖杯】生成的漫溯能量增加{2}	出現後，使場上隨機{1}個【遊戲獎盃】生成的漫溯能量增加{2}	現れると、碁盤上のランダムな【ゲームトロフィー】{1}つの追憶エネルギー生成量+{2}	등장 후, 필드에 있는 임의의 [게임 트로피] {1}개가 생성하는 꿈의 흐름 에너지를 {2} 증가시킨다.	Increases Dreamflow Energy by {2} for {1} random Game Trophies on the board.						0	DLC3.5纷愿绮梦系统相关文本
+card_desc40	出现后，每回合生成的漫溯能量增加{1}，{2}回合后消耗自身	出現後，每回合產生的漫溯能量增加{1}，{2}回合後消耗自身	現れると、ターンごとの追憶エネルギー生成量+{1}。{2}ターン後に消滅	등장 후, 매 턴마다 생성되는 꿈의 흐름 에너지가 {1} 증가하며, {2}턴 후에 스스로 소모된다.	Adds {1} Dreamflow energy per turn. Disappears after {2} turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc41	每与1个【VR眼镜】、【扭蛋机】、【游戏奖杯】相邻，生成{1}漫溯能量	每與1個【VR眼鏡】、【扭蛋機】、【遊戲獎盃】相鄰，生成{1}漫溯能量	【VRゴーグル】、【ガチャマシン】、【ゲームトロフィー】のいずれか1つと隣接時、追憶エネルギーを{1}生成	[VR 안경], [가챠 기계], [게임 트로피] 1개와 인접할 때마다 {1} 꿈의 흐름 에너지를 생성한다.	Generates {1} Dreamflow Energy per adjacent VR Headset, Gacha Machine, or Game Trophy.						0	DLC3.5纷愿绮梦系统相关文本
+card_desc42	出现1回合后消耗自身，获得{1}个【游戏币】	出現1回合後消耗自身，獲得{1}個【遊戲幣】	現れてから1ターンで消滅し、【メダル】を{1}つ入手	1턴 후, 자신을 소모해 {1}개의 [게임 코인]을 획득한다.	Disappears after 1 turn, granting {1} Arcade Token(s).						0	DLC3.5纷愿绮梦系统相关文本
+card_desc43	相邻的“游乐”类棋子生成的漫溯能量提升{1}%，生成的漫溯能量增加{2}	相鄰的「遊樂」類棋子生成的漫溯能量提升{1}%，生成的漫溯能量增加{2}	追憶エネルギー生成量+{1}%、かつ隣接する「遊楽」系駒の追憶エネルギー生成量+{2}	인접한 '놀이' 유형의 기물이 생성하는 꿈의 흐름 에너지가 {1}% 증가하며, 생성되는 꿈의 흐름 에너지가 {2} 증가한다.	Increases Dreamflow Energy from adjacent Playland pieces by {1}% and increases Dreamflow Energy by {2}.						0	DLC3.5纷愿绮梦系统相关文本
+card_desc44	剑头指向的棋子生成的漫溯能量提升50%，在出现后的下1回合转动1次方向	劍頭指向的棋子生成的漫溯能量提升50%，在出現後的下1回合轉動1次方向	剣先が向く駒の追憶エネルギー生成量+50%、現れてから1ターン後に方向を1回転換	검 끝이 가리키는 기물이 생성하는 꿈의 흐름 에너지가 50% 증가하며, 등장한 다음 1턴에 방향을 1회 전환한다.	Increases Dreamflow energy from pieces the sword points to by 50%, then rotates direction after 1 turn.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc45	相邻的棋子生成的漫溯能量提升25%，使场上的【游戏奖杯】生成漫溯能量增加5，1局内仅存在1个【金手指】	相鄰的棋子生成的漫溯能量提升25%，使場上的【遊戲獎盃】生成漫溯能量增加5，1局內僅存在1個【金手指】	1ゲームに1つだけ存在可能。隣接する駒の追憶エネルギー生成量+25%、かつ碁盤上の【ゲームトロフィー】の追憶エネルギー生成量+5	인접한 기물이 생성하는 꿈의 흐름 에너지가 25% 증가하며, 필드에 있는 [게임 트로피]가 생성하는 꿈의 흐름 에너지를 5 증가시킨다. 한 게임 내에는 단 하나의 [골든 터치]만 존재한다.	Increases Dreamflow energy from adjacent pieces by 25% and from any Game Trophy on the board by 5. Max 1 Cheat Code per game.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc46	出现后，每3回合获得1个【扭蛋机】	出現後，每3回合獲得1個【扭蛋機】	現れると、3ターンごとに【ガチャマシン】を1つ入手	등장 후, 매 3턴마다 1개의 [가챠 기계]를 얻습니다.	Grants 1 Gacha Machine every 3 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc47	出现后，立即获得{1}个【游戏币兑换券】，之后每{2}个回合获得{3}个【游戏币兑换券】	出現後，立即獲得{1}個【遊戲幣兌換券】，之後每{2}個回合獲得{3}個【遊戲幣兌換券】	現れると、【メダル交換券】を{1}つ入手。その後、{2}ターンごとに【メダル交換券】を{3}つ入手	등장 후, 즉시 [게임 코인 교환권] {1}개를 획득하며, 그 후 {2}턴마다 [게임 코인 교환권]을 {3}개 획득한다.	Grants {1} Arcade Token Voucher(s), plus {3} more every {2} turn(s).						0	DLC3.0纷愿绮梦系统相关文本
+card_desc48	出现后使【双头光剑】多转1次，多个【双头光剑】的效果可叠加	出現後使【雙頭光劍】多轉1次，多個【雙頭光劍】的效果可疊加	現れると、【ダブルライトブレード】をもう1回回転させる。複数の【ダブルライトブレード】の効果は重複可能	등장 후, [쌍두 광선검]을 1회 더 회전시킨다. 다수의 [쌍두 광선검] 효과는 중첩할 수 있다.	Adds 1 extra rotation to Dual Lightswords and makes their effects stackable.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc49	每与1个【砚台】、【古籍残卷】相邻时，生成90漫溯能量	每與1個【硯台】、【古籍殘卷】相鄰時，生成90漫溯能量	【すずり台】、【古籍の残編】のいずれか1つと隣接時、追憶エネルギーを90生成	1개의 [벼루] 또는 [고서 잔편]과 인접할 때마다 90의 꿈의 흐름 에너지를 생성한다.	Generates 90 Dreamflow energy per adjacent Inkstone or Manuscript Page.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc50	相邻的【古籍残卷】进阶所需的回合数减3	相鄰的【古籍殘卷】進階所需的回合數減3	隣接する【古籍の残編】のランクアップに必要なターン数-3	인접한 [고서 잔편] 진급에 필요한 턴 수가 3 감소한다.	Adjacent Manuscript Pages upgrade 3 turns faster.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc51	出现1回合后消耗自身，使相邻的1个随机棋子生成的漫溯能量增加30	出現1回合後消耗自身，使相鄰的1個隨機棋子產生的漫溯能量增加30	現れてから1ターンで消滅し、隣接するランダムな駒1つの追憶エネルギー生成量+30	1턴 후, 자신을 소모해 인접한 임의의 기물 1개가 생성하는 꿈의 흐름 에너지를 30 증가시킨다.	Disappears after 1 turn, increasing Dreamflow energy from a random adjacent piece by 30.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc52	出现1回合后消耗自身，同时有50%概率生成960漫溯能量	出現1回合後消耗自身，同時有50%機率生成960漫溯能量	現れてから1ターンで消滅し、50%の確率で追憶エネルギーを960生成	1턴 후, 자신을 소모해 50% 확률로 960 꿈의 흐름 에너지를 생성한다.	Disappears after 1 turn, with a 50% chance to generate 960 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc53	每经历1回合生成2漫溯能量，出现400回合后进阶为【古籍完本】	每經歷1回合生成2漫溯能量，出現400回合後進階為【古籍完本】	ターンごとに追憶エネルギーを2生成し、現れてから400ターン後に【古籍の完本】にランクアップ	매 1턴마다 2 꿈의 흐름 에너지를 생성하고, 400턴 후 [고서 완본]으로 진급한다.	Generates 2 Dreamflow energy per turn. Upgrades to Ancient Manuscript after 400 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc54	每经历1回合生成10漫溯能量，出现10回合后进阶为【古籍全册】	每經歷1回合生成10漫溯能量，出現10回合後進階為【古籍全冊】	ターンごとに追憶エネルギーを10生成し、現れてから10ターン後に【古籍の全冊】にランクアップ	매 1턴마다 10 꿈의 흐름 에너지를 생성하고, 10턴 후 [고서 전권]으로 진급한다.	Generates 10 Dreamflow energy per turn. Upgrades to Manuscript Set after 10 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc55	消耗场上的【古卷拓本】，每消耗{1}个生成的漫溯能量增加{2}。每{3}回合在场上空格处放置【古卷拓本】	消耗場上的【古卷拓本】，每消耗{1}個生成的漫溯能量增加{2}。每{3}回合在場上空格處放置【古卷拓本】	碁盤上の【古籍の拓本】を消滅させ、{1}つごとに追憶エネルギー生成量+{2}。{3}ターンごとに碁盤の空マスに【古籍の拓本】を配置	필드의 [고서 탁본]을 {1}개 소모할 때마다 생성되는 꿈의 흐름 에너지가 {2} 증가한다. {3}턴마다 필드의 빈 곳에 [고대 탁본]을 배치한다.	Consumes all Ancient Rubbings on the board. Increases Dreamflow energy generated by {2} for every {1} piece(s) consumed. Places an Ancient Rubbing in an empty space every {3} turn(s).						0	DLC3.0纷愿绮梦系统相关文本
+card_desc56	出现1回合后消耗自身，复制【古籍全册】生成的漫溯能量，场上每存在1个【古籍完本】或【古籍全册】，生成的漫溯能量提升{1}%	出現1回合後消耗自身，複製【古籍全冊】生成的漫溯能量，場上每存在1個【古籍完本】或【古籍全冊】，生成的漫溯能量提升{1}%	現れてから1ターンで消滅し、【古籍の全冊】の追憶エネルギー生成量をコピー。碁盤上の【古籍の完本】または【古籍の全冊】1つごとに追憶エネルギー生成量+{1}%	1턴 후, 자신을 소모해 [고서 전권]으로 생성한 꿈의 흐름 에너지를 복사하고, 필드에 [고서 완본]이나 [고서 전권]이 1개 존재할 때마다 생성되는 꿈의 흐름 에너지가 {1}% 증가한다.	Disappears after 1 turn, duplicating Dreamflow energy from Manuscript Sets with an extra {1}% boost per Ancient Manuscript or Manuscript Set on the board.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc57	出现1回合后消耗自身，生成1800漫溯能量，场上的【古籍残卷】和【古籍完本】进阶所需的回合数减5	出現1回合後消耗自身，生成1800漫溯能量，場上的【古籍殘卷】及【古籍完本】進階所需的回合數減5	現れてから1ターンで消滅し、追憶エネルギーを1800生成し、碁盤上の【古籍の残編】と【古籍の完本】のランクアップに必要なターン数-5	1턴 후 자신을 소모해 1,800 꿈의 흐름 에너지를 생성하고, 필드의 [고서 잔편]과 [고서 완본]의 진급에 필요한 턴이 5 감소한다.	Disappears after 1 turn, generating 1,800 Dreamflow energy and reducing upgrade time for Manuscript Pages and Ancient Manuscripts by 5 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc58	出现后使相邻的【古籍残卷】进阶所需的回合数减半，消耗自身	出現後使相鄰的【古籍殘卷】進階所需的回合數減半，消耗自身	現れると、隣接する【古籍の残編】のランクアップに必要なターン数を半減し、その後消滅する	등장 후, 인접한 [고서 잔편]의 진급에 필요한 턴 수를 절반으로 감소시키고, 자신을 소모한다.	Decreases the upgrade turns for adjacent Manuscript Pages by 50% then disappears.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc59	使场上的【古籍残卷】和【古籍完本】进阶所需的回合数减少1，同时使场上的【古籍完本】和【古籍全册】生成的漫溯能量增加2	使場上的【古籍殘卷】和【古籍完本】進階所需的回合數減少1，同時使場上的【古籍完本】和【古籍全冊】生成的漫溯能量增加2	碁盤上の【古籍の残編】と【古籍の完本】のランクアップに必要なターン数-1。かつ碁盤上の【古籍の完本】と【古籍の全冊】の追憶エネルギー生成量+2	필드의 [고서 잔편]과 [고서 완본]의 진급에 필요한 턴 수를 1 감소시키고, 동시에 필드 위의 [고서 완본]과 [고서 전권]이 생성되는 꿈의 흐름 에너지를 2 증가시킨다.	Reduces upgrade time for Manuscript Pages and Ancient Manuscripts by 1 turn and increases Dreamflow energy from Ancient Manuscripts and Manuscript Sets by 2.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc60	出现后，使相邻的【古籍完本】和【古籍全册】生成的漫溯能量增加{1}，并使场上的【古籍全册】回合数减少{2}，1局内只能存在1个【雕刻印章】	出現後，使相鄰的【古籍完本】和【古籍全冊】生成的漫溯能量增加{1}，並使場上的【古籍全冊】回合數減少{2}，1局內只能存在1個【雕刻印章】	1ゲームに1つだけ存在可能。現れると、隣接する【古籍の完本】と【古籍の全冊】の追憶エネルギー生成量+{1}、碁盤上の【古籍の全冊】の残存ターン数-{2}	입장 후, 인접한 [고서 완본]과 [고서 전권]이 생성하는 꿈의 흐름 에너지를 {1} 증가시키고, 필드 위에 나타난 [고서 전권]의 턴 수를 {2} 감소시킨다. 한 게임 내에서 [조각 인장]은 1개만 존재할 수 있다.	Increases Dreamflow energy from adjacent Ancient Manuscripts and Manuscript Sets by {1} and shortens activation turns by {2} for all Manuscript Sets on the board. Max 1 Handcrafted Seal per game.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc61	【古卷拓本】生成的漫溯能量提升{1}%，效果可叠加	【古卷拓本】生成的漫溯能量提升{1}%，效果可疊加	【古籍の拓本】の追憶エネルギー生成量+{1}%（効果重複可能）	[고서 탁본]이 생성하는 꿈의 흐름 에너지가 {1}% 증가한다. 해당 효과는 중첩할 수 있다.	Increases Dreamflow energy from Ancient Rubbings by {1}%. This effect is stackable.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc62	被消耗时生成600漫溯能量	被消耗時生成600漫溯能量	消滅すると、追憶エネルギーを600生成	소모될 때 600 꿈의 흐름 에너지를 생성한다.	Generates 600 Dreamflow energy when disappearing.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc63	处于场上4个角落中任意1个角落，生成240漫溯能量	處於場上4個角落中任意1個角落，生成240漫溯能量	碁盤のいずれかの角に現れると、追憶エネルギーを240生成	필드의 4개 코너 중 임의의 1개 코너에 위치할 때 240 꿈의 흐름 에너지를 생성한다.	Generates 240 Dreamflow energy when placed in any of the 4 board corners.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc64	消耗棋盘上的所有“宝箱”类棋子后，消耗自身	消耗棋盤上的所有「寶箱」類棋子後，消耗自身	碁盤上のすべての「宝箱」系駒を消滅させ、自身も消滅	기물판의 모든 '보물 상자' 유형의 기물을 소모한 후, 자신을 소모한다.	Consumes all Treasure pieces on the board then disappears.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc65	出现2回合后消耗自身，获得2个【藏宝箱】	出現2回合後消耗自身，獲得2個【藏寶箱】	現れてから2ターンで消滅し、【お宝の箱】を2つ入手	2턴 후, 자신을 소모하고, 2개의 [보물 상자]를 획득한다.	Disappears after 2 turns, granting 2 Treasure Chests.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc66	场上的“探宝道具”和“宝箱”类棋子被消耗时，使场上所有的“宝藏”类棋子生成的漫溯能量增加5，1局内只存在1个【金条】	場上的「探寶道具」和「寶箱」類棋子被消耗時，使場上所有的「寶藏」類棋子生成的漫溯能量增加5，1局內只存在1個【金條】	1ゲームに1つだけ存在可能。碁盤上の「お宝探しアイテム」または「宝箱」系駒が消滅時、碁盤上のすべての「お宝」系駒の追憶エネルギー生成量+5	필드의 '보물 탐색 아이템'과 '보물 상자' 유형의 기물이 소모될 때, 필드의 모든 '보물' 유형의 기물이 생성하는 꿈의 흐름 에너지가 5 증가한다. 한 게임에는 단 1개의 [금덩어리]만 존재한다.	When Treasure Hunting Gear or Treasure Chest pieces disappear, increases Dreamflow energy from all Treasure pieces by 5. Max 1 Gold Bar per game.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc67	出现后每回合生成的漫溯能量增加{1}	出現後，每回合生成的漫溯能量增加{1}	現れると、ターンごとの追憶エネルギー生成量+{1}	등장 후, 매 턴에 생성되는 꿈의 흐름 에너지가 {1} 증가한다.	Adds {1} Dreamflow energy per turn.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc68	每有1个相邻的“宝藏”类棋子，生成{1}漫溯能量	每有1個相鄰的「寶藏」類棋子，生成{1}漫溯能量	隣接する「お宝」系駒1つにつき、追憶エネルギーを{1}生成	인접한 '보물' 유형 기물이 1개 있을 때마다 {1} 꿈의 흐름 에너지를 생성한다.	Generates {1} Dreamflow energy per adjacent Treasure piece.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc69	相邻棋子生成的漫溯能量提升{1}%，同时消耗相邻的“宝箱”类棋子，1局内只存在1个【船舵】	相鄰棋子生成的漫溯能量提升{1}%，同時消耗相鄰的「寶箱」類棋子，1局內只存在1個【船舵】	1ゲームに1つだけ存在可能。隣接する駒の追憶エネルギー生成量+{1}%、隣接する「宝箱」系駒を消滅させる	인접한 기물이 생성하는 꿈의 흐름 에너지가 {1}% 증가하며, 동시에 인접한 '보물 상자' 유형의 기물을 소모한다. 한 게임에는 단 1개의 [조타]만 존재한다.	Increases Dreamflow energy from adjacent pieces by {1}% and consumes adjacent Treasure pieces. Max 1 Helm per game.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc70	出现后，使场上“宝藏”类棋子生成的漫溯能量提升{1}%，{2}回合后消耗自身	出現後，使場上「寶藏」類棋子生成的漫溯能量提升{1}%，{2}回合後消耗自身	現れると、碁盤上の「お宝」系駒の追憶エネルギー生成量+{1}%。{2}ターン後に消滅	등장 후, 필드의 '보물' 유형 기물이 생성하는 꿈의 흐름 에너지를 {1}% 증가시킨다. {2}턴 후 자신을 소모한다.	Disappears after {2} turn(s), increasing Dreamflow energy from Treasure pieces by {1}%.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc71	被消耗后获得{1}个【藏宝箱】，同时使场上的“宝藏”类棋子生成的漫溯能量增加{2}	被消耗後獲得{1}個【藏寶箱】，同時使場上的「寶藏」類棋子生成的漫溯能量增加{2}	消滅すると【お宝の箱】を{1}つ入手し、碁盤上の「お宝」系駒の追憶エネルギー生成量+{2}	소모된 후 {1}개의 [보물 상자]를 획득하며, 필드의 '보물' 유형의 기물이 생성하는 꿈의 흐름 에너지가 {2} 증가한다.	When disappearing, grants {1} Treasure Chest(s) and increases Dreamflow energy from all Treasure pieces by {2}.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc72	被消耗后生成1800漫溯能量	被消耗後生成1800漫溯能量	消滅すると、追憶エネルギーを1800生成	소모된 후 1,800 꿈의 흐름 에너지를 생성한다.	When disappearing, generates 1,800 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc73	出现2回合后消耗自身，获得2个随机的“宝箱”类棋子	出現2回合後消耗自身，獲得2個隨機的「寶箱」類棋子	現れてから2ターンで消滅し、「宝箱」系駒を2つ入手	2턴 후 자신을 소모하여 랜덤으로 2개의 '보물 상자' 유형의 기물을 획득한다.	Disappears after 2 turns, granting 2 random Treasure pieces.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc74	“宝箱”类棋子被消耗时生成的漫溯能量提升{1}%，效果可叠加	「寶箱」類棋子被消耗時產生的漫溯能量提升{1}%，效果可疊加	「お宝」系駒が消滅すると、追憶エネルギー生成量+{1}%（効果重複可能）	'보물 상자' 유형의 기물이 소모될 때 생성되는 꿈의 흐름 에너지가 {1}% 증가한다. 해당 효과는 중첩할 수 있다.	Increases Dreamflow energy from consuming Treasure pieces by {1}%. This effect is stackable.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc75	使用后，任选场上1个棋子，使它每回合必定出现在场上并固定其出现的位置	使用後，任選場上1個棋子，使它每回合必定出現在場上並固定其出現的位置	使用すると、碁盤上の任意の駒1つを選択し、毎ターンその駒を固定位置に出現させる	사용 후, 필드의 기물 중 1개를 선택하여 매 턴 반드시 필드에 등장하게 하고 등장하는 위치를 고정한다.	Allows you to select any piece on the board to appear in a fixed position every turn.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc76	如果棋子列表中没有“探宝道具”类棋子，则获得1个【单筒望远镜】	如果棋子列表中沒有「探寶道具」類棋子，則獲得1個【單筒望遠鏡】	駒リストに「お宝探しアイテム」系駒がない場合、【単眼望遠鏡】を1つ入手	기물 리스트에 '보물 탐색 아이템' 유형 기물이 없으면 1개의 [한쪽 눈 망원경]을 획득한다.	If no Treasure Hunting Gear pieces are on the list, grants 1 Monocular.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc77	场上每出现另1个【花蜜】，生成10漫溯能量，最多生成60漫溯能量	場上每出現另1個【花蜜】，生成10漫溯能量，最多生成60漫溯能量	碁盤に新たに【花の蜜】が1つ現れるたび、追憶エネルギーを10生成（最大60）	필드에 다른 [꿀]이 1개 등장할 때마다 10 꿈의 흐름 에너지를 생성하며, 최대 60 꿈의 흐름 에너지를 생성한다.	For each extra Nectar on the board, generates 10 Dreamflow energy, up to 60.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc78	出现后，将相邻的【蜜罐】回合数恢复为初始状态，{1}回合后消耗自身	出現後，將相鄰的【蜜罐】回合數恢復為初始狀態，{1}回合後消耗自身	現れると、隣接する【ハニーポット】の残存ターン数を初期状態にリセット。{1}ターン後に消滅	등장 후 인접한 [꿀단지]의 턴 수는 초기 상태로 회복되며, {1}턴 후 자신을 소모한다.	Resets turn count for adjacent Honey Pots. Disappears after {1} turn(s).						0	DLC3.0纷愿绮梦系统相关文本
+card_desc79	【蜂箱】会收集相邻的【花蜜】，每收集{1}个【花蜜】，生成的漫溯能量增加{2}。收集{3}个【花蜜】时，消耗自身并生成{4}漫溯能量	【蜂箱】會蒐集相鄰的【花蜜】，每蒐集{1}個【花蜜】，生成的漫溯能量增加{2}。蒐集{3}個【花蜜】時，消耗自身並產生{4}漫溯能量	隣接する【花の蜜】を収集。{1}つ収集ごとに追憶エネルギー生成量+{2}。{3}つ収集すると自身を消滅させ、追憶エネルギーを{4}生成	[벌집]은 인접한 [꿀]을 수집한다. 수집한 [꿀] {1}개당 생성되는 꿈의 흐름 에너지가 {2} 증가한다. [꿀]을 {3}개 수집하면, 자신을 소모하여 꿈의 흐름 에너지를 {4} 생성한다.	Bee Hives collect adjacent Nectar. For every {1} collection(s), increases generated Dreamflow energy by {2}. After {3} collections, they disappear to generate {4} Dreamflow energy.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc80	出现后每{1}回合，七巧板中的其中1个碎片会转化成彩色，最多可转化6次，每转化1个碎片，生成的漫溯能量增加{2}	出現後每{1}回合，七巧板中的其中1個碎片會轉化成彩色，最多可轉化6次，每轉化1個碎片，生成的漫溯能量增加{2}	現れてから{1}ターンごとに、タングラムの欠片1つをカラー欠片に変換（最大6つ）、かつ変換ごとに追憶エネルギー生成量+{2}	등장 후, {1}턴마다 조각 초콜릿 중 한 조각이 채색으로 전환되며(최대 6회 전환 가능), 전환된 1개 조각마다 생성되는 꿈의 흐름 에너지가 {2} 증가한다.	Every {1} turn(s), colors 1 Tangram piece (Max 6). Each colored piece grants {2} extra Dreamflow Energy.						0	DLC3.5纷愿绮梦系统相关文本
+card_desc81	相邻的【奶油】、【花蜜】、【七巧板巧克力】生成的漫溯能量提升{1}%	相鄰的【奶油】、【花蜜】、【七巧板巧克力】生成的漫溯能量提升{1}%	隣接する【クリーム】、【花の蜜】、【タングラムチョコ】の追憶エネルギー生成量+{1}%	인접한 [크림], [꿀], [조각 초콜릿]이 생성하는 꿈의 흐름 에너지가 {1}% 증가한다.	Increases Dreamflow energy from adjacent Cream, Nectar, and Tangram Chocolate Bars by {1}%.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc82	若场上出现3个【棒棒糖】，则消耗它们并获得1次额外的选礼	如果場上出現3個【棒棒糖】，則消耗它們並獲得1次額外的選禮	碁盤に【ロリポップ】が3つ現れると、それらを消滅させ、贈り物を1回追加で選択可能	필드에 3개의 [막대사탕]이 등장할 때 막대사탕을 소모하면 추가 선물을 1회 받는다.	When 3 Lollipops are on the board, consumes them to gain 1 extra chance for gift selection.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc83	随机的{1}个相邻棋子生成的漫溯能量增加{2}	隨機的的{1}個相鄰棋子生成的漫溯能量增加{2}	隣接するランダムな駒{1}つの追憶エネルギー生成量+{2}	랜덤으로 인접한 {1}개의 기물이 생성하는 꿈의 흐름 에너지가 {2} 증가한다.	Increases Dreamflow energy output by {2} for {1} random adjacent piece(s).						0	DLC3.0纷愿绮梦系统相关文本
+card_desc84	出现后每回合得到{1}个【花蜜】，{2}回合后消耗自身	出現後每回合得到{1}個【花蜜】，{2}回合後消耗自身	現れると、ターンごとに【花の蜜】を{1}つ入手。{2}ターン後に消滅	등장 후 매 턴마다 {1}개의 [꿀]을 얻고, {2}턴 후 자신을 소모한다.	Disappears after {2} turn(s), granting {1} Nectar per turn.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc85	与【奶油】相邻时，生成120漫溯能量，与【奶油】不相邻时，获得1个【奶油】	與【奶油】相鄰時，生成120漫溯能量，與【奶油】不相鄰時，獲得1個【奶油】	【クリーム】と隣接する時、追憶エネルギーを120生成。隣接していない場合、【クリーム】を1つ入手	[크림]과 인접할 때 120 꿈의 흐름 에너지를 생성하고, [크림]과 인접하지 않을 때 1개의 [크림]을 획득한다.	Generates 120 Dreamflow energy when adjacent to Cream. Otherwise, grants 1 Cream.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc86	出现后，相邻棋子生成的漫溯能量提升{1}%，场上没有出现【蜂箱】时会获得{2}个【蜂箱】，1局内只存在1个【包装礼盒】	出現後，相鄰棋子生成的漫溯能量提升{1}%，場上沒有出現【蜂箱】時會獲得{2}個【蜂箱】，1局內只存在1個【包裝禮盒】	1ゲームに1つだけ存在可能。隣接する駒の追憶エネルギー生成量+{1}%、かつ碁盤上に【養蜂箱】がない場合、【養蜂箱】を{2}つ入手	등장 후, 인접한 기물이 생성하는 꿈의 흐름 에너지가 {1}% 증가한다. 필드에 [벌집]이 등장하지 않을 경우 {2}개의 [벌집]을 획득한다. 한 게임 내에 단 하나의 [포장 상자]만 존재한다.	Increases Dreamflow energy from adjacent pieces by {1}%. If no Bee Hives are on the board, grants {2}. Max 1 Gift Box per game.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc87	出现1回合后消耗自身，获得2个【蜂箱】	出現1回合後消耗自身，獲得2個【蜂箱】	現れてから1ターンで消滅し、【養蜂箱】を2つ入手	1턴 후 자신을 소모하고 2개의 [벌집]을 획득한다.	Disappears after 1 turn, granting 2 Bee Hives.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc88	七巧板涂色进度所需回合减半，最高等级的七巧板生成的漫溯能量提升{1}%，效果可叠加	七巧板著色進度所需回合減半，最高等級的七巧板產生的漫溯能量提升{1}%，效果可疊加	タングラムの着色に必要なターン数が半減し、MAXレベルのタングラムの追憶エネルギー生成量+{1}%（効果重複可能）	조각 초콜릿의 색칠 진행에 필요한 턴 수가 반으로 줄어들고, 최고 레벨의 조각이 생성하는 꿈의 흐름 에너지가 {1}% 증가한다. 해당 효과는 중첩할 수 있다.	Decreases Tangram coloring time by 50% and increases Dreamflow energy from the highest-level Tangram by {1}%. This effect is stackable.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc89	出现后使【蜂箱】生成的漫溯能量提升{1}%，使【蜂箱】收集【花蜜】时无视棋子间距离	出現後使【蜂箱】生成的漫溯能量提升{1}%，使【蜂箱】蒐集【花蜜】時無視棋子間距離	現れると、【養蜂箱】の追憶エネルギー生成量+{1}%。また、【養蜂箱】が【花の蜜】を収集時に駒間の距離を無視	등장 후, [벌집]이 생성하는 꿈의 흐름 에너지를 {1}% 증가시키고, [벌집]이 [꿀]을 수집할 때 기물 간의 거리를 무시한다.	Increases Dreamflow energy from Bee Hives by {1}% and allows them to collect Nectar regardless of distance.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc90	使用后，获得180漫溯能量，并获得1次3星选棋	使用後，獲得180漫溯能量，並獲得1次3星選棋	使用すると、追憶エネルギーを180獲得し、星3の駒を1回選択可能	사용 후, 180 꿈의 흐름 에너지를 획득하고, 3성 기물 선택을 1회 획득한다.	Use it to generate 180 Dreamflow energy and activate a Lv. 3 piece selection.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc91	出现后，每{1}回合使场上随机{2}个【蜂箱】收集【花蜜】的进度增加{3}	出現後，每{1}回合使場上隨機{2}個【蜂箱】收集【花蜜】的進度增加{3}	現れると、{1}ターンごとに碁盤上のランダムな【養蜂箱】{2}つの【花の蜜】収集進捗+{3}	등장 후, 매 {1}턴마다 필드의 랜덤 [벌집] {2}개로 [꿀] 수집 진도를 {3} 증가한다.	Every {1} turn(s), speeds up Nectar collection progress for {2} random Bee Hive(s) by {3}.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc92	相邻的空格处都将生成30漫溯能量	相鄰的空格都會產生30漫溯能量	隣接する空マスごとに追憶エネルギーを30生成	인접한 빈 공간에서 30 꿈의 흐름 에너지를 생성한다.	Generates 30 Dreamflow energy per adjacent empty space.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc93	消耗相邻的【准时下班】，每消除1个获得3个【请假条】	消耗相鄰的【準時下班】，每消除1個獲得3個【請假條】	隣接する【定時退勤】を消滅させ、1つごとに【休暇届】を3つ入手	인접한 [정시 퇴근] 기물 1개를 소모할 때마다 3개의 [휴가 신청서]를 획득한다.	Consumes all adjacent On-Time Punch-Out pieces, granting 3 Leave Requests per piece consumed.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc94	出现1回合后消耗自身，获得2个【打卡记录】	出現1回合後消耗自身，獲得2個【打卡記錄】	現れてから1ターンで消滅し、【打刻記録】を2つ入手	1턴 후, 자신을 소모하고 2개의 [출근 기록]을 획득한다.	Disappears after 1 turn, granting 2 Punch-In Records.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc95	有10%概率转化为【准时下班】	有10%機率轉化為【準時下班】	10%の確率で【定時退勤】に変換	10% 확률로 [정시 퇴근]으로 전환된다.	Has 10% chance to become an On-Time Punch-Out piece.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc96	相邻的【打卡记录】转化为【准时下班】的概率提升至100%	相鄰的【打卡記錄】轉換為【準時下班】的機率提升至100%	隣接する【打刻記録】が【定時退勤】に変換する確率が100%になる	인접한 [출근 기록]이 [정시 퇴근]으로 전환될 확률이 100%로 증가한다.	Guarantees adjacent Punch-In Records convert into On-Time Punch-Out pieces.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc97	每消耗1个相邻的【请假条】或者【胶卷】，生成225漫溯能量	每消耗1個相鄰的【請假條】或【膠卷】，生成225漫溯能量	隣接する【休暇届】または【フィルム】が1つ消滅するごとに、追憶エネルギーを225生成	인접한 [휴가 신청서]나 [필름]을 1개 소모할 때마다 225 꿈의 흐름 에너지를 생성한다.	Generates 225 Dreamflow energy per adjacent Leave Request or Film Roll when they disappear.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc98	出现8回合后消耗自身，每回合有50%概率获得1个【胶卷】	出現8回合後消耗自身，每回合有50%機率獲得1個【膠卷】	現れてから8ターンで消滅し、ターンごとに50%の確率で【フィルム】を1つ入手	8턴 후 자신을 소모하고, 매 턴마다 50% 확률로 1개의 [필름]을 획득한다.	Disappears after 8 turns with 50% chance to grant 1 Film Roll per turn.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc99	被消耗后生成120漫溯能量	被消耗後生成120漫溯能量	消滅すると、追憶エネルギーを120生成	소모된 후 120 꿈의 흐름 에너지를 생성한다.	When disappearing, generates 120 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc100	棋子列表中每存在1个【请假条】，生成25漫溯能量	棋子列表中每存在1個【請假條】，生成25漫溯能量	駒リストにある【休暇届】1つにつき、追憶エネルギーを25生成	기물 리스트에 [휴가 신청서]가 1개 존재할 때마다 25 꿈의 흐름 에너지를 생성한다.	Generates 25 Dreamflow energy per Leave Request on the board.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc101	场上出现的【景点打卡】和【旅行风光照】获得的漫溯能量提升{1}%，1局内只存在1个【摩天轮】	場上出現的【景點打卡】與【旅行風光照】獲得的漫溯能量提升{1}%，1局內只存在1個【摩天輪】	1ゲームに1つだけ存在可能。碁盤上の【スポット巡り】と【観光写真】の追憶エネルギー生成量+{1}%	필드에 등장한 [관광지 인증]과 [여행 사진]에서 얻는 꿈의 흐름 에너지가 {1}% 증가한다. 한 게임에는 단 1개의 [관람차]만 존재한다.	Increases Dreamflow energy from Tourist Spot Check-In and Travel Photo pieces by {1}%. Max 1 Ferris Wheel per game.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc102	出现后，每2回合获得1个【请假条】	出現後，每2回合獲得1個【請假條】	現れると、2ターンごとに【休暇届】を1つ入手	등장 후, 매 2턴마다 1개의 휴가 신청서를 획득한다.	Grants 1 Leave Request every 2 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc103	场上出现“电器”类棋子时，获得4个【请假条】，生成的漫溯能量增加15	場上出現「電器」類棋子時，獲得4個【請假條】，生成的漫溯能量增加15	碁盤上に「電器」系駒が現れると、【休暇届】を4つ入手し、追憶エネルギー生成量+15	필드에 '전기' 유형 기물이 등장할 때 4개의 휴가 신청서를 획득하고 생성되는 꿈의 흐름 에너지가 15 증가한다.	When any Appliance piece appears, grants 4 Leave Requests and adds 15 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc104	出现后，每回合生成的漫溯能量增加5	出現後，每回合生成的漫溯能量增加5	現れると、ターンごとの追憶エネルギー生成量+5	등장 후, 매 턴에 생성되는 꿈의 흐름 에너지가 5 증가한다.	Adds 5 Dreamflow energy per turn.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc105	每消耗1个任意棋子，生成的漫溯能量提升10%	每消耗1個任意棋子，生成的漫溯能量提升10%	任意の駒が1つ消滅するたびに、追憶エネルギー生成量+10%	임의의 기물을 1개 소모할 때마다 생성되는 꿈의 흐름 에너지가 10% 증가한다.	Increases Dreamflow energy generated by 10% for each piece consumed.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc106	场上每个空格处生成30漫溯能量	場上每個空格產生30漫溯能量	碁盤上の空マスごとに追憶エネルギーを30生成	필드의 각 빈 공간에서 30 꿈의 흐름 에너지를 생성한다.	Generates 30 Dreamflow energy for each empty space on the board.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc107	使用后，获得3个【旅行风光照】	使用後，獲得3個【旅行風光照】	使用すると、【観光写真】を3つ入手	사용 후, 3개의 [여행 사진]을 획득한다.	Use it to obtain 3 Travel Photos.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc108	【打卡记录】转化为【准时下班】时，额外获得1个【准时下班】	【打卡記錄】轉換為【準時下班】時，額外獲得1個【準時下班】	【打刻記録】が【定時退勤】に変換すると、追加で【定時退勤】を1つ入手	[출근 기록]이 [정시 퇴근]으로 전환될 때 추가로 1개의 [정시 퇴근]을 획득한다.	When a Punch-In Record converts into an On-Time Punch-Out, grants an extra On-Time Punch-Out.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc109	列表中每存在1个棋子，生成2漫溯能量	列表中每存在1個棋子，生成2漫溯能量	駒リストにある駒1つにつき、追憶エネルギーを2生成	리스트에 1개의 기물이 존재할 때마다 2 꿈의 흐름 에너지를 생성한다.	Generates 2 Dreamflow energy per piece on the list.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc110	不出现在场上时也能生成漫溯能量	不出現在場上時也能生成漫溯能量	碁盤に現れなくても、追憶エネルギーを生成可能	필드에 등장하지 않아도 꿈의 흐름 에너지를 생성할 수 있다.	Continues generating Dreamflow energy even when off the board.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc111	列表中的所有【子弹】、【冰刃】、【冲锋枪】生成的漫溯能量增加1	列表中的所有【子彈】、【冰刃】、【衝鋒槍】生成的漫溯能量增加1	駒リストにある【弾丸】、【氷の刃】、【サブマシンガン】の追憶エネルギー生成量+1	리스트에 모든 [총알], [얼음 날], [기관단총]이 생성하는 꿈의 흐름 에너지가 1 증가한다.	Increases Dreamflow energy from all Bullets, Ice Blades, and Submachine Guns on the list by 1.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc112	使用后，任选场上1个棋子，使它每回合必定出现在场上	使用後，在任選場上1個棋子，使它每回合必定出現在場上	使用すると、碁盤上の任意の駒1つを選択し、毎ターンその駒を出現させる	사용 후, 필드의 기물 중 1개를 선택하여 매 턴 반드시 필드에 등장하게 한다.	Use it to select any piece on the board to appear every turn.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc113	击败敌人获得2个【冰霜子弹】，不出现在场上时也可以触发	擊敗敵人獲得2個【冰霜子彈】，不出現在場上時也可以觸發	敵を撃破すると、【氷霜弾丸】を2つ入手。碁盤に現れなくても発動可能	타깃을 처치하면 2개의 [서리 총알]을 획득하며, 필드에 나타나지 않아도 발동할 수 있다.	When an enemy is defeated, grants 2 Frost Bullets (Triggers even when off the board).						0	DLC2.6纷愿绮梦系统相关文本
+card_desc114	击败敌人获得2个【花蜜】，不出现在场上时也可以触发	擊敗敵人獲得2個【花蜜】，不出現在場上時也可以觸發	敵を撃破すると、【花の蜜】を2つ入手。碁盤に現れなくても発動可能	타깃을 처치하면 2개의 [꿀]을 얻으며, 필드에 나타나지 않아도 발동할 수 있다.	When an enemy is defeated, grants 2 Nectar (Triggers even when off the board).						0	DLC2.6纷愿绮梦系统相关文本
+card_desc115	相邻的【子弹】、【冲锋枪】生成的漫溯能量提升50%	相鄰的【子彈】、【衝鋒槍】生成的漫溯能量提升50%	隣接する【弾丸】、【サブマシンガン】の追憶エネルギー生成量+50%	인접한 [총알]과 [기관단총]이 생성하는 꿈의 흐름 에너지가 50% 증가한다.	Increases Dreamflow energy from adjacent Bullets and Submachine Guns by 50%.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc116	列表中每存在1个棋子，生成的漫溯能量增加1，1局内只存在1个【冲锋枪】	列表中每存在1個棋子，生成的漫溯能量增加1，1局內只存在1個【衝鋒槍】	1ゲームに1つだけ存在可能。駒リストにある駒1つにつき、追憶エネルギー生成量+1	리스트에 1개의 기물이 존재할 때마다 생성되는 꿈의 흐름 에너지가 1 증가한다. 한 게임에는 단 1개의 [기관단총]만 존재한다.	For each piece on the list, generates 1 extra Dreamflow energy. Max 1 Submachine Gun per game.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc117	将相邻的其他流派棋子转化为【冰刃】	將相鄰的其他流派棋子轉化為【冰刃】	隣接する他の流派の駒を【氷の刃】に変換	인접한 다른 유형의 기물을 [얼음 날]로 전환한다.	Converts adjacent pieces of other types into Ice Blades.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc118	列表中每存在1个礼物，生成60漫溯能量	清單中每存在1個禮物，生成60漫溯能量	駒リストにある贈り物1つにつき、追憶エネルギーを60生成	리스트에 1개의 선물이 존재할 때마다 60 꿈의 흐름 에너지를 생성한다.	Generates 60 Dreamflow energy per gift on the list.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc119	列表中每存在1个棋子，相邻的棋子生成的漫溯能量提升{1}%，最多计入{2}个棋子。1局内只存在1个【双持冲锋枪】	列表中每存在1個棋子，相鄰的棋子生成的漫溯能量提升{1}%，最多計入{2}個棋子。1局內只存在1個【雙持衝鋒槍】	1ゲームに1つだけ存在可能。駒リストにある駒1つにつき、隣接する駒の追憶エネルギー生成量+{1}%。最大で{2}つの駒がカウントされる	리스트에 1개의 기물이 존재할 때마다 인접한 기물이 생성하는 꿈의 흐름 에너지가 {1}% 증가하며, 최대 {2}개의 기물만 적용된다. 한 게임에는 단 1개의 이중 [쌍·기관단총]만 존재한다.	For each piece on the list, increases Dreamflow Energy from adjacent pieces by {1}%, stacking up to {2} time(s). Max 1 Dual Submachine Guns per game.						0	DLC3.5纷愿绮梦系统相关文本
+card_desc120	场上的【冰刃】生成的漫溯能量提升50%，效果可以叠加，不出现在场上时也可以触发	場上的【冰刃】生成的漫溯能量提升50%，效果可以疊加，不出現在場上時也可以觸發	碁盤上の【氷の刃】の追憶エネルギー生成量+50%（効果重複可能）。碁盤に現れなくても発動可能	필드의 [얼음 날]이 생성하는 꿈의 흐름 에너지가 50% 증가하며, 효과는 중첩이 가능하고 필드에 나타나지 않아도 발동할 수 있다.	Increases Dreamflow energy from Ice Blades by 50%. This effect stacks and activates even when off the board.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc121	出现后每{1}回合，使场上“冰雪迷宫”类棋子生成的漫溯能量提升至{2}%	出現後每{1}回合，使場上「冰雪迷宮」類棋子生成的漫溯能量提升至{2}%	現れてから{1}ターンごとに、碁盤上の「雪の迷宮」系駒の追憶エネルギー生成量が{2}%にアップ	등장 후, {1}턴마다 필드의 '빙설 미로' 유형 기물이 생성하는 꿈의 흐름 에너지가 {2}% 증가한다.	Every {1} turn(s), increases Dreamflow energy from Snowfield Maze pieces by {2}%.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc122	棋子被转化为【冰刃】时，生成的漫溯能量提升{1}%，效果可叠加	棋子轉化為【冰刃】時，生成的漫溯能量提升{1}%，效果可疊加	【氷の刃】に変換されると、追憶エネルギー生成量+{1}%（効果重複可能）	기물이 [얼음 날]로 전환될 때 생성되는 꿈의 흐름 에너지가 {1}% 증가한다. 해당 효과는 중첩할 수 있다.	When pieces convert into Ice Blades, increases their Dreamflow energy generated by {1}%. This effect is stackable.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc123	出现后每4回合生成120漫溯能量	出現後每4回合生成120漫溯能量	現れると、4ターンごとに追憶エネルギーを120生成	등장 후, 매 4턴마다 120 꿈의 흐름 에너지를 생성한다.	Generates 120 Dreamflow energy every 4 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc124	升级漫溯等级后消耗自身，获得2个【桃木枝】	升級漫溯等級後消耗自身，獲得2個【桃木枝】	追憶Lvが上昇と消滅し、【桃の枝】を2つ入手	꿈의 흐름 레벨을 업그레이드한 후 자신을 소모하고 2개의 [복숭아 나무 가지]를 획득한다.	When Dreamflow level increases, disappears and grants 2 Peachwood Twigs.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc125	相邻的【桃木枝】进阶所需的回合数减1	相鄰的【桃木枝】進階所需的回合數減1	隣接する【桃の枝】のランクアップに必要なターン数-1	인접한 [복숭아 나무 가지]의 진급에 필요한 턴 수가 1 감소한다.	Decreases the upgrade turns of adjacent Peachwood Twigs by 1.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc126	出现12回合后进阶为【珠串】	出現12回合後進階為【珠串】	現れてから12ターンで【数珠】にランクアップ	12턴 후, 진급하여 [구슬 팔찌]로 전환한다.	Converts into a Bead Chain after 12 turns.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc127	相邻的【桃木剑】生成的漫溯能量提升{1}%	相鄰的【桃木劍】生成的漫溯能量提升{1}%	隣接する【桃の木の剣】の追憶エネルギー生成量+{1}%	인접한 [복숭아 나무 검]이 생성하는 꿈의 흐름 에너지가 {1}% 증가한다.	Increases Dreamflow energy from adjacent Peachwood Swords by {1}%.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc128	每有1个相邻的“天师”类棋子，生成45漫溯能量	每有1個相鄰的「天師」類棋子，生成45漫溯能量	隣接する「天師」系駒1つにつき、追憶エネルギーを45生成	인접한 '점술사' 유형 기물이 1개 있을 때마다 45 꿈의 흐름 에너지를 생성한다.	Generates 45 Dreamflow energy per adjacent Geomancer piece.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc129	出现后消耗所有相邻的【桃木枝】和【桃木符】，每消耗1个相邻的【桃木枝】、【桃木符】，生成的漫溯能量增加30	出現後消耗所有相鄰的【桃木枝】和【桃木符】，每消耗1個相鄰的【桃木枝】、【桃木符】，生成的漫溯能量增加30	現れると、隣接する【桃の枝】、【桃の木札】をすべて消滅させ、1つ消滅ごとに追憶エネルギー生成量+30	등장 후, 인접한 모든 [복숭아 나무 가지]와 [복숭아 나무 부적]을 소모하며, 인접한 [복숭아 나무 가지] 또는 [복숭아 나무 부적]을 1개 소모할 때마다 생성되는 꿈의 흐름 에너지가 30 증가한다.	Consumes all adjacent Peachwood Twigs and Peachwood Talismans, generating 30 Dreamflow energy for each one.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc130	出现1回合后消耗自身，获得2个【桃木枝】	出現1回合後消耗自身，獲得2個【桃木枝】	現れてから1ターンで消滅し、【桃の枝】を2つ入手	1턴 후, 자신을 소모하고 2개의 [복숭아 나무 가지]를 획득한다.	Disappears after 1 turn, granting 2 Peachwood Twigs.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc131	出现2回合后消耗自身，获得2个“天师”类随机棋子	出現2回合後消耗自身，獲得2個「天師」類隨機棋子	現れてから2ターンで消滅し、「天師」系駒を2つ入手	2턴 후, 자신을 소모하고 2개의 '점술사' 유형 랜덤 기물을 획득한다.	Disappears after 2 turns, granting 2 random Geomancer pieces.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc132	被转化后，立即获得曾经生成的所有漫溯能量	被轉化後，立即獲得曾經生成的所有漫溯能量	変換されると、この駒が生成したすべての追憶エネルギーを獲得	전환된 후, 생성된 모든 꿈의 흐름 에너지를 즉시 획득한다.	Upon conversion, gains all Dreamflow energy previously generated.						0	DLC3.0纷愿绮梦系统相关文本
+card_desc133	出现后，每4回合获得1个【桃木枝】，并将相邻的【贡品】转化为【桃木枝】	出現後，每4回合獲得1個【桃木枝】，並將相鄰的【貢品】轉化為【桃木枝】	現れると、4ターンごとに【桃の枝】を1つ入手し、隣接する【貢物】を【桃の枝】に変換	등장 후, 매 4턴마다 1개의 [복숭아 나무 가지]를 획득하고, 인접한 [제물]을 [복숭아 나무 가지]로 전환시킨다.	Every 4 turns, grants 1 Peachwood Twig and converts adjacent Sacrificial Peaches into Peachwood Twigs.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc134	相邻的1个随机“天师”类棋子生成的漫溯能量增加15，1局内只存在1个【法印】	相鄰的1個隨機「天師」類棋子生成的漫溯能量增加15，1局內只存在1個【法印】	1ゲームに1つだけ存在可能。隣接する「天師」系駒1つの追憶エネルギー生成量+15	인접한 1개의 랜덤 '점술사' 유형 기물이 생성하는 꿈의 흐름 에너지가 15 증가하며, 한 게임에는 단 1개의 [신성한 인장]만 존재한다.	Increases Dreamflow energy from a random adjacent Geomancer piece by 15. Max 1 Divine Seal per game.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc135	除自身外，相连的全部“天师”类棋子生成的漫溯能量提升{1}%，多个【天师罗盘】的效果可以叠加	除自身外，相連的全部「天師」類棋子生成的漫溯能量提升{1}%，多個【天師羅盤】的效果可以疊加	自身を除く、隣接する「天師」系駒の追憶エネルギー生成量+{1}%（【天師羅針盤】が複数ある場合、効果は重複可能）	자신을 제외하고, 연결된 모든 '점술사' 유형 기물이 생성하는 꿈의 흐름 에너지가 {1}% 증가하며, 여러 [점술사 나침반] 효과는 중첩할 수 있다.	Increases Dreamflow energy from all connected Geomancer pieces (excluding itself) by {1}%. The Geomancer's Compass' effect is stackable.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc136	每消耗6个“天师”类棋子，生成480漫溯能量	每消耗6個「天師」類棋子，生成480漫溯能量	「天師」系駒が6つ消滅ごとに、追憶エネルギーを480生成	6개의 '점술사' 유형 기물을 소모할 때마다 480 꿈의 흐름 에너지를 생성한다.	Generates 480 Dreamflow energy for every 6 Geomancer pieces that disappear.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc137	出现后强化【甘霖】的效果，使【甘霖】可以获得的【桃木枝】数量额外增加1个	出現後強化【甘霖】的效果，使【甘霖】可以獲得的【桃木枝】數量額外增加1個	現れると【甘露】の効果が強化される：入手する【桃の枝】を1つ追加	등장 후, [신성한 물]의 효과를 강화하여 [신성한 물]이 획득할 수 있는 [복숭아 나무 가지] 수를 추가로 1개 증가시킨다.	Enhances the Divine Water effect, granting 1 extra Peachwood Twig.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc138	使用后，可以指定1个场上的任意棋子复制	使用後，可以指定1個場上的任意棋子複製	使用すると、碁盤上の任意の駒を1つ指定してコピー可能	사용 후, 필드에 있는 임의의 기물 1개를 지정하여 복제할 수 있다.	Use it to choose any piece on the board to duplicate.						0	DLC2.6纷愿绮梦系统相关文本
+card_desc139	受到<span color="#ff7c24">充能</>时，生成{1}漫溯能量	受到<span color="#ff7c24">充能</>時，生成{1}漫溯能量	<span color="#ff7c24">チャージ</>される時、追憶エネルギーを{1}生成	<span color="#ff7c24">충전</>받을 때 {1} 꿈의 흐름 에너지를 생성한다.	When <span color="#ff7c24">recharging</>, generates {1} Dreamflow Energy.						0	DLC3.2纷愿绮梦
+card_desc140	获得{1}个【能量碎块】，消耗自身	得到{1}個【能量碎塊】，消耗自身	【エネルギーの欠片】を{1}個獲得し、その後に消滅	{1}개의 [에너지 조각]을 획득하고 자신을 소모한다.	Grants {1} Energy Shard(s) and disappears.						0	DLC3.2纷愿绮梦
+card_desc141	消耗相邻的【能量碎块】。每消耗1个，为{1}格范围内的棋子<span color="#ff7c24">充能</>{2}回合	消耗相鄰的【能量碎塊】。每消耗1個，為{1}格範圍內的棋子<span color="#ff7c24">充能</>{2}回合	隣接する【エネルギーの欠片】を消滅させ、1つにつき{1}マス以内の駒に<span color="#ff7c24">チャージ</>を付与（{2}ターン継続）	인접한 [에너지 조각]을 소모한다. 1개를 소모할 때마다 {1}칸 범위 내에 있는 기물에게 {2}턴 동안 <span color="#ff7c24">충전</>한다.	Consumes adjacent Energy Shard(s). For each Shard consumed, <span color="#ff7c24">recharges</> pieces within {1} space(s) for {2} turn(s).						0	DLC3.2纷愿绮梦
+card_desc142	受到<span color="#ff7c24">充能</>时，传递<span color="#ff7c24">充能</>状态，为{1}格范围内的棋子<span color="#ff7c24">充能</>	受到<span color="#ff7c24">充能</>時，傳遞<span color="#ff7c24">充能</>狀態，為{1}格範圍內的棋子<span color="#ff7c24">充能</>	<span color="#ff7c24">チャージ</>されると、<span color="#ff7c24">チャージ</>状態を拡散し、{1}マス以内の駒に<span color="#ff7c24">チャージ</>を行う	<span color="#ff7c24">충전</>받을 때, <span color="#ff7c24">충전</> 상태를 전달하여 {1}칸 범위 내의 기물에게 <span color="#ff7c24">충전</>한다.	When <span color="#ff7c24">recharging</>, pieces within {1} space(s) are also <span color="#ff7c24">recharged</>.						0	DLC3.2纷愿绮梦
+card_desc143	受到<span color="#ff7c24">充能</>时，生成{1}漫溯能量	受到<span color="#ff7c24">充能</>時，生成{1}漫溯能量	<span color="#ff7c24">チャージ</>される時、追憶エネルギーを{1}生成	<span color="#ff7c24">충전</>받을 때 {1} 꿈의 흐름 에너지를 생성한다.	When <span color="#ff7c24">recharging</>, generates {1} Dreamflow Energy.						0	DLC3.2纷愿绮梦
+card_desc144	为{1}格范围内的棋子<span color="#ff7c24">充能</>，消耗自身	為{1}格範圍內的棋子<span color="#ff7c24">充能</>，消耗自身	{1}マス以内の駒に<span color="#ff7c24">チャージ</>を行い、その後に消滅	{1}칸 범위 내에 있는 기물에게 <span color="#ff7c24">충전</>하며 자신을 소모한다.	<span color="#ff7c24">Recharges</> pieces within {1} space(s) and disappears.						0	DLC3.2纷愿绮梦
+card_desc145	出现后{1}回合，获得【测试型永动机】，消耗自身	出現後{1}回合，獲得【測試型永動機】，消耗自身	現れてから{1}ターン後に消滅し、【試作型永久機関】を獲得	등장 후 {1}턴 동안 [테스트용 영구기관]을 획득하고 자신을 소모한다.	Disappears after {1} turn(s), granting Beta Engine.						0	DLC3.2纷愿绮梦
+card_desc146	受到<span color="#ff7c24">充能</>时，相邻的【永动机】生成的漫溯能量增加{1}	受到<span color="#ff7c24">充能</>時，相鄰的【永動機】生成的漫溯能量增加{1}	<span color="#ff7c24">チャージ</>されると、隣接する【永久機関】の追憶エネルギー生成量+{1}	<span color="#ff7c24">충전</>받을 때 인접한 [영구기관]이 생성하는 꿈의 흐름 에너지가 {1} 증가한다.	When <span color="#ff7c24">recharging</>, adjacent Perpetual Engines generate {1} more Dreamflow Energy.						0	DLC3.2纷愿绮梦
+card_desc147	使场上的{1}个【测试型永动机】转化为【永动机】，消耗自身	使場上的{1}個【測試型永動機】轉化為【永動機】，消耗自身	碁盤上の【試作型永久機関】{1}つを【永久機関】に変換し、その後に消滅	필드의 [테스트용 영구기관] {1}개를 [영구기관]으로 전환하고 자신을 소모한다.	Transforms {1} Beta Engine(s) on the board into Perpetual Engine(s) and disappears.						0	DLC3.2纷愿绮梦
+card_desc148	受到<span color="#ff7c24">充能</>时，生成{1}漫溯能量和{2}次选棋，消耗自身	受到<span color="#ff7c24">充能</>時，生成{1}漫溯能量和{2}次選棋，消耗自身	<span color="#ff7c24">チャージ</>されると、追憶エネルギーを{1}生成し、駒の選択を{2}回追加。その後に消滅	<span color="#ff7c24">충전</>받을 때 {1} 꿈의 흐름 에너지와 {2}회의 기물 선택 기회를 생성하며 자신을 소모한다.	When <span color="#ff7c24">recharging</>, disappears to grant {1} Dreamflow Energy and {2} piece selection(s).						0	DLC3.2纷愿绮梦
+card_desc149	消耗周围所有棋子，获得{1}%的漫溯能量，消耗自身	消耗周圍所有棋子，獲得{1}%的漫溯能量，消耗自身	周囲のすべての駒を消滅させ、追憶エネルギーを{1}%獲得。その後に消滅	주변의 모든 기물을 소모하고 {1}%의 꿈의 흐름 에너지를 획득하며 자신을 소모한다.	Consumes all pieces around it to gain {1}% Dreamflow energy and disappears.						0	DLC3.2纷愿绮梦
+card_desc150	唯一。每拥有一个【永动机】，自身生成的漫溯能量提升{1}%。（效果可叠加)	唯一。每擁有一個【永動機】，自身生成的漫溯能量提升{1}%。（效果可疊加)	ユニーク：所持中の【永久機関】1つごとに、自身の追憶エネルギー生成量+{1}%（効果重複可能）	한 장만 보유 가능. [영구기관] 1개를 보유할 때마다 자신이 생성하는 꿈의 흐름 에너지가 {1}% 증가한다.(해당 효과는 중첩할 수 있다)	Unique. For each Perpetual Engine you own, increases the Dreamflow energy this piece generates by {1}%. This effect is stackable.						0	DLC3.2纷愿绮梦
+card_desc151	被消耗后，生成{1}漫溯能量	被消耗後，生成{1}漫溯能量	消滅時に追憶エネルギーを{1}生成	소모된 후 {1} 꿈의 흐름 에너지를 생성한다.	When consumed, generates {1} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc152	可通过【终极机器人】转化为【永动机】	可透過【終極機器人】轉化為【永動機】	【究極ロボット】を通じて【永久機関】に変換可能	[궁극 로봇]을 통해 [영구기관]으로 변환할 수 있다.	Can be transformed into Perpetual Engine by Ultimate Bot.						0	DLC3.2纷愿绮梦
+card_desc153	出现后，每回合为周围的棋子<span color="#ff7c24">充能</>，并将自身的额外生成的漫溯能量转移给相邻的【能量聚合器】	出現後，每回合為周圍的棋子<span color="#ff7c24">充能</>，並將自身額外生成的漫溯能量轉移給相鄰的【能量聚合器】	現れると、毎ターン周囲の駒に<span color="#ff7c24">チャージ</>を行い、自身の追加で生成した追憶エネルギーを隣接する【エネルギー集束器】に移す	등장 후 턴마다 주변 기물을 <span color="#ff7c24">충전</>하며, 자신이 추가로 생성한 꿈의 흐름 에너지를 인접한 [에너지 결합기]에게 전송한다.	Every turn, <span color="#ff7c24">recharges</> pieces around it and transfers its extra Dreamflow Energy output to an adjacent Energy Amplifier.						0	DLC3.2纷愿绮梦
+card_desc154	被消耗后，获得{1}个不高于当前漫溯等级的【鸽子】	被消耗後，得到{1}個不高於目前漫溯等級的【鴿子】	消滅すると、現在の追憶Lv以下の【ハト】を{1}つ獲得	소모된 후 현재 꿈의 흐름 레벨 이하의 [도브] {1}개를 획득한다.	When consumed, grants {1} Pigeon(s) of your current Dreamflow level or below.						0	DLC3.2纷愿绮梦
+card_desc155	消耗相邻的【魔术帽】，而后消耗自身	消耗相鄰的【魔術帽】，而後消耗自身	隣接する【マジックハット】を消滅させ、その後自身も消滅	인접한 [마술 모자]를 소모한 후 자신을 소모한다.	Consumes adjacent Magic Hats and disappears.						0	DLC3.2纷愿绮梦
+card_desc156	消耗相邻的【鸽子】	消耗相鄰的【鴿子】	隣接する【ハト】を消滅させる	인접한 [도브]를 소모한다.	Consumes adjacent Pigeons.						0	DLC3.2纷愿绮梦
+card_desc157	出现{1}回合后，获得{2}次选棋，消耗自身	出現{1}回合後，得到{2}次選棋，消耗自身	現れてから{1}ターン後に消滅し、駒の選択を{2}回追加	{1}턴 후 {2}회의 기물 선택 횟수를 획득하고 자신을 소모한다.	Disappears after {1} turn(s), granting {2} piece selection(s).						0	DLC3.2纷愿绮梦
+card_desc158	相邻的【鸽子】、【星星魔棒】、【魔杖】生成的漫溯能量提升{1}%	相鄰的【鴿子】、【星星魔棒】、【魔杖】生成的漫溯能量提升{1}%	隣接する【ハト】、【スターワンド】と【マジックワンド】の追憶エネルギー生成量+{1}%	인접한 [도브], [별빛 마술봉], [마법 지팡이]가 생성하는 꿈의 흐름 에너지가 {1}% 증가한다.	Increases Dreamflow energy generated by adjacent Pigeons, Star Staffs, and Magic Wands by {1}%.						0	DLC3.2纷愿绮梦
+card_desc159	使场上的【魔杖】对【鸽子】的增益永久提升{1}%，而后消耗自身	使場上的【魔杖】對【鴿子】的增益永久提升{1}%，而後消耗自身	碁盤上の【マジックワンド】による【ハト】のバフを永続的に+{1}%し、その後自身は消滅	필드의 [마법 지팡이]가 [도브]에게 주는 버프가 영구적으로 {1}% 증가하고 자신을 소모한다.	Permanently increases the bonus that Magic Wands on the board grant to Pigeons by {1}% and disappears.						0	DLC3.2纷愿绮梦
+card_desc160	获得{1}个不高于当前漫溯等级的【鸽子】，消耗自身	獲得{1}個不高於目前漫溯等級的【鴿子】，消耗自身	現在の追憶Lv以下の【ハト】を{1}つ獲得し、その後消滅	현재 꿈의 흐름 레벨보다 낮은 [도브] {1}개를 얻고 자신을 소모한다.	Grants {1} Pigeon(s) of your current Dreamflow level or below and disappears.						0	DLC3.2纷愿绮梦
+card_desc161	出现后，每{1}回合获得{2}个不高于当前漫溯等级的【鸽子】	出現後，每{1}回合獲得{2}個不高於目前漫溯等級的【鴿子】	現れると{1}ターンごとに、現在の追憶Lv以下の【ハト】を{2}つ獲得	등장 후 {1}턴마다 현재 꿈의 흐름 레벨보다 낮은 [도브] {2}개를 획득한다.	Grants {2} Pigeon(s) of your current Dreamflow level or below every {1} turn(s).						0	DLC3.2纷愿绮梦
+card_desc162	消耗相邻的【魔术帽】	消耗相鄰的【魔術帽】	隣接する【マジックハット】を消滅させる	인접한 [마술 모자]를 소모한다.	Consumes adjacent Magic Hats.						0	DLC3.2纷愿绮梦
+card_desc163	唯一。消耗相邻的【鸽子】，相邻的【鸽子】生成的漫溯能量提升{1}%	唯一。消耗相鄰的【鴿子】，相鄰的【鴿子】生成的漫溯能量提升{1}%	ユニーク：隣接する【ハト】を消滅させ、隣接する【ハト】の追憶エネルギー生成量+{1}%	한 장만 보유 가능. 인접한 [도브]를 소모하고 인접한 [도브]가 생성하는 꿈의 흐름 에너지가 {1}% 증가한다.	Unique. Consumes adjacent Pigeons and increases the Dreamflow energy from adjacent Pigeons by {1}%.						0	DLC3.2纷愿绮梦
+card_desc164	本局中每消除1个鸽子，永久提升{1}漫溯能量，最多提升{2}漫溯能量	本局中每消除1個鴿子，永久提升{1}漫溯能量，最多提升{2}漫溯能量	1回のプレイで【ハト】を1つ消滅するにつき、追憶エネルギーが永久に+{1}（最大+{2}）	이번 게임에 제거한 도브 1개당 꿈의 흐름 에너지가 영구적으로 {1} 증가하며 최대 {2} 증가한다.	For each Pigeon consumed, increases Dreamflow Energy by {1} permanently, stacking up to {2}.						0	DLC3.5纷愿绮梦
+card_desc165	使场上的【魔杖】对【鸽子】的增益永久提升{1}%，而后消耗自身	使場上的【魔杖】對【鴿子】的增益永久提升{1}%，而後消耗自身	碁盤上の【マジックワンド】による【ハト】のバフを永続的に+{1}%し、その後自身は消滅	필드의 [마법 지팡이]가 [도브]에게 주는 버프가 영구적으로 {1}% 증가하고 자신을 소모한다.	Permanently increases the bonus that Magic Wands on the board grant to Pigeons by {1}% and disappears.						0	DLC3.2纷愿绮梦
+card_desc166	被消耗后，生成{1}漫溯能量	被消耗後，生成{1}漫溯能量	消滅時に追憶エネルギーを{1}生成	소모된 후 {1} 꿈의 흐름 에너지를 생성한다.	When consumed, generates {1} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc167	被消耗后，生成{1}漫溯能量	被消耗後，生成{1}漫溯能量	消滅時に追憶エネルギーを{1}生成	소모된 후 {1} 꿈의 흐름 에너지를 생성한다.	When consumed, generates {1} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc168	被消耗后，生成{1}漫溯能量	被消耗後，生成{1}漫溯能量	消滅時に追憶エネルギーを{1}生成	소모된 후 {1} 꿈의 흐름 에너지를 생성한다.	When consumed, generates {1} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc169	对敌人施加{1}层<span color="#ff7c24">迷惑</>。出现后{2}回合消耗自身	對敵人施加{1}層<span color="#ff7c24">迷惑</>。出現後{2}回合消耗自身	敵に<span color="#ff7c24">混乱</>を{1}スタック付与。{2}ターン後に消滅	타깃에게 {1}스택의 <span color="#ff7c24">혼란</>을 부여한다. 등장 시 {2}턴 동안 자신을 소모한다.	Applies {1} stack(s) of <span color="#ff7c24">Confusion</> to enemies. Disappears after {2} turn(s).						0	DLC3.2纷愿绮梦
+card_desc170	提升漫溯等级后消耗自身，生成{1}漫溯能量	提升漫溯等級後消耗自身，生成{1}漫溯能量	追憶Lvがアップすると消滅し、追憶エネルギーを{1}生成	꿈의 흐름 레벨을 상승시킨 후 자신을 소모해 {1} 꿈의 흐름 에너지를 생성한다.	When Dreamflow levels up, disappears and generates {1} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc171	若敌人至少有{1}层<span color="#ff7c24">迷惑</>，生成{2}漫溯能量，消耗自身	若敵人至少有{1}層<span color="#ff7c24">迷惑</>，生成{2}漫溯能量，消耗自身	敵が<span color="#ff7c24">混乱</>を{1}スタック以上持つ場合、追憶エネルギーを{2}生成。その後に消滅	타깃의 <span color="#ff7c24">혼란</>이 최소 {1}스택일 경우 {2} 꿈의 흐름 에너지를 생성하고 자신을 소모한다.	When enemies have at least {1} stack(s) of <span color="#ff7c24">Confusion</>, disappears to generate {2} Dreamflow Energy.						0	DLC3.2纷愿绮梦
+card_desc172	施加{1}层<span color="#ff7c24">迷惑</>，消耗自身	施加{1}層<span color="#ff7c24">迷惑</>，消耗自身	<span color="#ff7c24">混乱</>を{1}スタック付与、その後に消滅	{1}스택의 <span color="#ff7c24">혼란</>을 부여하고 자신을 소모한다.	Applies {1} stack(s) of <span color="#ff7c24">Confusion</> and disappears.						0	DLC3.2纷愿绮梦
+card_desc173	相邻的【暗影洞窟】生效所需的回合数-{1}	相鄰的【暗影洞窟】生效所需的回合數-{1}	隣接する【闇の洞窟】の効果発動に必要なターン数-{1}	인접한 [암흑 동굴]의 적용에 필요한 턴 수가 {1} 감소한다.	Adjacent Shadowy Caves activate {1} turn(s) faster.						0	DLC3.2纷愿绮梦
+card_desc174	出现后{1}回合，获得{2}个【小蝙蝠】	出現後{1}回合，獲得{2}個【小蝙蝠】	現れてから{1}ターンで、【コウモリ】を{2}つ獲得	등장 후, {1}턴마다 {2}개의 [박쥐]를 획득한다.	Grants {2} Little Bat(s) {1} turn(s) after it appears on the board.						0	DLC3.2纷愿绮梦
+card_desc175	敌人每有{1}层<span color="#ff7c24">迷惑</>，生成{2}点漫溯能量	敵人每有{1}層<span color="#ff7c24">迷惑</>，生成{2}點漫溯能量	敵が持つ<span color="#ff7c24">混乱</>が{1}スタックにつき、追憶エネルギーを{2}生成	타깃이 <span color="#ff7c24">혼란</>을 {1}스택 보유할 때마다 {2} 꿈의 흐름 에너지를 생성한다.	Generates {2} Dreamflow Energy for each {1} stack(s) of <span color="#ff7c24">Confusion</> on enemies.						0	DLC3.2纷愿绮梦
+card_desc176	使当前敌人的<span color="#ff7c24">迷惑</>层数提升为{1}%，本回合额外触发{2}次<span color="#ff7c24">迷惑</>效果，消除自身	使當前敵人的<span color="#ff7c24">迷惑</>層數提升為{1}%，本回合額外觸發{2}次<span color="#ff7c24">迷惑</>效果，消除自身	敵の現在の混乱<span color="#ff7c24">混乱</>スタックを{1}%にアップし、今ターンにのみ追加で<span color="#ff7c24">混乱</>を{2}回発動する。その後に消滅	현재 타깃의 <span color="#ff7c24">혼란</> 스택 수가 {1}%로 증가하고, 해당 턴에 {2}회의 <span color="#ff7c24">혼란</> 효과가 추가로 발동되며 자신을 소모한다.	Increases <span color="#ff7c24">Confusion</> stack on enemies to {1}% and causes <span color="#ff7c24">Confusion</> effect to trigger {2} more time(s) this turn, then disappears.						0	DLC3.2纷愿绮梦
+card_desc177	敌人每有{1}层<span color="#ff7c24">迷惑</>，自身生成的漫溯能量+{2}（最多{3}）	敵人每有{1}層<span color="#ff7c24">迷惑</>，自身生成的漫溯能量+{2}（最多{3}）	敵が持つ<span color="#ff7c24">混乱</>が{1}スタックにつき、自身の追憶エネルギー生成量+{2}（最大+{3}）	타깃이 <span color="#ff7c24">혼란</>을 {1}스택 보유할 때마다 자신이 생성한 꿈의 흐름 에너지가 {2} 증가한다(최대 {3}까지 증가함).	Generates {2} (up to {3}) extra Dreamflow Energy for every {1} stack(s) of <span color="#ff7c24">Confusion</> on enemies.						0	DLC3.2纷愿绮梦
+card_desc178	出现后每{1}回合，获得{2}个【暗影洞窟】	出現後每{1}回合，獲得{2}個【暗影洞窟】	現れてから{1}ターンごとに【闇の洞窟】を{2}つ獲得	등장 후, {1}턴마다 {2}개의 [암흑 동굴]을 획득한다.	Grants {2} Shadowy Cave(s) every {1} turn(s).						0	DLC3.2纷愿绮梦
+card_desc179	唯一。出现后每{1}回合，从【易容眼罩】、【红宝石】、【香氛】中随机获得{2}个	唯一。出現後每{1}回合，從【易容眼罩】、【紅寶石】、【香氛】中隨機獲得{2}個	ユニーク：現れてから{1}ターンごとに【変装用眼帯】、【ルビー】、【アロマ】の中からランダムで{2}つ獲得	한 장만 보유 가능. 등장 후 {1}턴마다 [변장 안대], [루비], [향료] 중 랜덤 {2}개를 획득한다.	Unique. Randomly grants {2} piece(s) from Masquerade Mask, Ruby, or Perfume every {1} turn(s).						0	DLC3.2纷愿绮梦
+card_desc180	唯一。每个阶段的最后一个回合中，为敌人施加的<span color="#ff7c24">迷惑</>层数提升{1}%	唯一。每個階段的最後一個回合中，為敵人施加的<span color="#ff7c24">迷惑</>層數提升{1}%	ユニーク：各フェーズの最終ターンで、敵に付与する<span color="#ff7c24">混乱</>スタック+{1}%	한 장만 보유 가능. 각 단계의 마지막 턴에 타깃에게 부여하는 <span color="#ff7c24">혼란</> 스택 수가 {1}% 증가한다.	Unique. Increases <span color="#ff7c24">Confusion</> stack applied to enemies by {1}% in the last turn of each phase.						0	DLC3.2纷愿绮梦
+card_desc181	消耗场上生成的漫溯能量最低的{1}个【契约书】，而后消耗自身	消耗場上生成的漫溯能量最低的{1}個【契約書】，而後消耗自身	碁盤上の追憶エネルギー生成量が最も低い【契約書】を{1}個消滅させ、その後自身も消滅	생성한 꿈의 흐름 에너지가 가장 적은 [계약서] {1}개를 소모한 후, 자신을 소모한다.	Consumes the {1} Pact(s) with the lowest Dreamflow energy output on the board, then disappears.						0	DLC3.2纷愿绮梦
+card_desc182	不可删除，每回合失去{1}漫溯能量	不可刪除，每回合失去{1}漫溯能量	削除不可。毎ターン追憶エネルギーを{1}失う	삭제 불가, 매 턴 {1} 꿈의 흐름 에너지를 상실한다.	Unremovable. Loses {1} Dreamflow energy each turn.						0	DLC3.2纷愿绮梦
+card_desc183	出现后每{1}回合，生成{2}漫溯能量，并获得{3}个【契约书】	出現後每{1}回合，生成{2}漫溯能量，並獲得{3}個【契約書】	現れてから{1}ターンごとに追憶エネルギーを{2}生成し、さらに【契約書】を{3}つ獲得	등장 후, {1}턴마다 {2} 꿈의 흐름 에너지를 생성하고, {3}개의 [계약서]를 획득한다.	Generates {2} Dreamflow energy and grants {3} Pact(s) every {1} turn(s).						0	DLC3.2纷愿绮梦
+card_desc184	出现时，获得{1}个【契约书】	出現時，獲得{1}個【契約書】	現れると【契約書】を{1}つ獲得	등장 후, {1}개의 [계약서]를 획득한다.	Grants {1} Pact(s).						0	DLC3.2纷愿绮梦
+card_desc185	出现每回合有{1}%几率消耗自身，生成{2}漫溯能量	出現每回合有{1}%機率消耗自身，生成{2}漫溯能量	現れると毎ターン{1}%の確率で消滅し、追憶エネルギーを{2}生成	등장 후, 매 턴 {1}%의 확률로 자신을 소모하고 {2} 꿈의 흐름 에너지를 생성한다.	Has a {1}% chance each turn to disappear and generate {2} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc186	出现后每{1}回合，获得{2}个【珍宝】	出現後每{1}回合，獲得{2}個【珍寶】	現れると、{1}ターンごとに【秘宝】を{2}つ獲得	등장 후, {1}턴마다 {2}개의 [보물]을 획득한다.	Grants {2} Treasure(s) every {1} turn(s).						0	DLC3.2纷愿绮梦
+card_desc187	出现后每回合有{1}%几率生成{2}漫溯能量	出現後每回合有{1}%機率生成{2}漫溯能量	現れると、毎ターン{1}%の確率で追憶エネルギーを{2}生成	등장 후, 매 턴 {1}%의 확률로 {2} 꿈의 흐름 에너지를 생성한다.	Has a {1}% chance to generate {2} Dreamflow energy each turn.						0	DLC3.2纷愿绮梦
+card_desc188	相邻的【唤灵石】【仆从纹章】、【王族仆从】收益提升{1}%，效果可叠加	相鄰的【喚靈石】【僕從紋章】【王族僕從】收益提升{1}%，效果可疊加	隣接する【召霊石】、【従者の紋章】、【王族の従者】の追憶エネルギー生成量+{1}%（効果重複可能）	인접한 [영혼 소환석], [하인 문장], [왕족 하인]의 수익이 {1}% 증가한다. 해당 효과는 중첩할 수 있다.	Increases the Dreamflow energy output of adjacent Soul Stones, Servant Emblems, and Royal Servants by {1}%. This effect is stackable.						0	DLC3.2纷愿绮梦
+card_desc189	相邻的【王族仆从】、【仆从纹章】、【水晶球】的效果触发几率提升{1}%。多个【守护者雕像】效果可叠加	相鄰的【王族僕從】、【僕從紋章】、【水晶球】的效果觸發機率提升{1}%。多個【守護者雕像】效果可疊加	隣接する【王族の従者】、【従者の紋章】、【水晶玉】の効果発動確率+{1}%。複数の【守護者の像】の効果は重複可能	인접한 [왕족 하인], [하인 문장], [수정구]의 효과 발동 확률이 {1}% 증가한다. 다수의 [수호자 조각상] 효과는 중첩할 수 있다.	Increases trigger chance of adjacent Royal Servants, Servant Emblems, and Crystal Balls by {1}%. Effect from multiple Guardian Statues stacks.						0	DLC3.2纷愿绮梦
+card_desc190	相邻【唤灵石】【灵魂纹章】【仆从纹章】生成的漫溯能量+{1}。【仆从纹章】的效果触发几率提升{2}%。多个【古代石板】效果可叠加	相鄰【喚靈石】【靈魂紋章】【僕從紋章】生成的漫溯能量+{1}。【僕從紋章】的效果觸發機率提升{2}%。多個【古代石版】效果可疊加	隣接する【召霊石】、【魂の紋章】、【従者の紋章】の追憶エネルギー生成量+{1}。【従者の紋章】の効果発動確率+{2}%。複数の【古代の石板】の効果は重複可能	인접한 [영혼 소환석], [영혼 문장], [하인 문장]이 생성한 꿈의 흐름 에너지가 {1} 증가한다. [하인 문장]의 효과 발동 확률이 {2}% 증가한다. 다수의 [고대 석판] 효과는 중첩할 수 있다.	Adjacent Soul Stones, Soul Emblems, and Servant Emblems generate {1} extra Dreamflow energy, and Servant Emblems have {2}% more chance to trigger. Effect from multiple Ancient Tablets stacks.						0	DLC3.2纷愿绮梦
+card_desc191	出现后每回合有{1}%几率使自身生成的漫溯能量+{2}	出現後每回合有{1}%機率使自身生成的漫溯能量+{2}	現れると、毎ターン{1}%の確率で自身の追憶エネルギー生成量+{2}	등장 후, 매 턴 {1}%의 확률로 자신이 생성하는 꿈의 흐름 에너지가 {2} 증가한다.	Has a {1}% chance each turn to generate {2} extra Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc192	使用删除移除该棋子后获得{1}次删除次数。获得时，生成{2}漫溯能量	使用刪除移除該棋子後獲得{1}次刪除次數。獲得時，生成{2}漫溯能量	この駒を削除すると、削除を{1}回獲得。この駒を獲得時、追憶エネルギーを{2}生成	삭제를 통해 해당 기물을 제거하면 {1}회의 삭제 횟수를 획득한다. 획득 시 {2} 꿈의 흐름 에너지를 생성한다.	Grants {1} Remove(s) when this piece is removed. Generates {2} Dreamflow energy when it is obtained.						0	DLC3.2纷愿绮梦
+card_desc193	使场上的【王族仆从】、【仆从纹章】必定触发效果，而后消耗自身	使場上的【王族僕從】、【僕從紋章】必定觸發效果，而後消耗自身	碁盤上の【王族の従者】と【従者の紋章】の効果を必ず発動させ、その後自身は消滅	필드의 [왕족 하인], [하인 문장]이 반드시 효과를 발동하고, 자신을 소모한다.	Guarantees that Royal Servants and Servant Emblems will trigger this dreamflow before disappearing.						0	DLC3.2纷愿绮梦
+card_desc194	消耗场上的{1}、{2}星棋子，生成{3}%漫溯能量，而后消耗自身	消耗場上的{1}、{2}星棋子，生成{3}%漫溯能量，而後消耗自身	碁盤上の星{1}、星{2}の駒を消滅させ、追憶エネルギーを{3}%生成。その後、自身は消滅	필드의 {1}성, {2}성 기물을 소모하고 {3}%의 꿈의 흐름 에너지를 획득하며, 그 후 자신을 소모한다.	Consumes {1}- and {2}-star pieces on the board to generate {3}% Dreamflow energy, then disappears.						0	DLC3.2纷愿绮梦
+card_desc195	自身被消耗时，生成{1}点漫溯能量	自身被消耗時，生成{1}點漫溯能量	消滅時に追憶エネルギーを{1}生成	자신이 소모될 때 {1}포인트의 꿈의 흐름 에너지를 생성한다.	When consumed, generates {1} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc196	场上有【海带】时，消耗{1}个【海带】和自身，随机获得{3}个{2}级棋子	場上有【海帶】時，消耗{1}個【海帶】和自身，隨機獲得{3}個{2}級棋子	碁盤上に【昆布】がある場合、【昆布】{1}つと自身を消滅させ、ランダムで星{2}の駒を{3}つ獲得	필드에 [미역]이 있을 때 [미역] {1}개와 자신을 소모해 랜덤으로 {3}개의 Lv.{2} 기물을 획득한다.	When Kelp is on the board, disappears and consumes {1} Kelp(s) to grant {3} random Lv. {2} piece(s).						0	DLC3.2纷愿绮梦
+card_desc197	将同一排的所有非“缤纷海洋”消耗，并吸收其漫溯能量。本棋子的漫溯能量每回合减少{1}%	將同一排的所有非“繽紛海洋”棋子消耗，並吸收其漫溯能量。本棋子的漫溯能量每回合減少{1}%	同じ行にある【彩りの海】以外の駒をすべて消滅させ、その追憶エネルギーを吸収。この駒の追憶エネルギー生成量は毎ターン-{1}%	같은 행의 화려한 바다 기물이 아닌 모든 기물을 소모하고, 꿈의 흐름 에너지를 흡수한다. 해당 기물의 꿈의 흐름 에너지가 매 턴 {1}% 감소한다.	Consumes all non-Vibrant Sea pieces in the same row and absorbs their Dreamflow energy. Loses {1}% Dreamflow energy each turn.						0	DLC3.2纷愿绮梦
+card_desc198	将同一列的所有非“缤纷海洋”消耗，并吸收其漫溯能量。本棋子的漫溯能量每回合减少{1}%	將同一列的所有非“繽紛海洋”棋子消耗，並吸收其漫溯能量。本棋子的漫溯能量每回合減少{1}%	同じ列にある【彩りの海】以外の駒をすべて消滅させ、その追憶エネルギーを吸収。この駒の追憶エネルギー生成量は毎ターン-{1}%	같은 열의 화려한 바다 기물이 아닌 모든 기물을 소모하고, 꿈의 흐름 에너지를 흡수한다. 해당 기물의 꿈의 흐름 에너지가 매 턴 {1}% 감소한다.	Consumes all non-Vibrant Sea pieces in the same column and absorbs their Dreamflow energy. Loses {1}% Dreamflow energy each turn.						0	DLC3.2纷愿绮梦
+card_desc199	当场上有棋子被【小虾】【琉金鱼】【龙睛鱼】【鲨鱼】消耗时，消耗自身并生成{1}漫溯能量	當場上有棋子被【小蝦】【琉金魚】【龍睛魚】【鯊魚】消耗時，消耗自身並生成{1}漫溯能量	【小エビ】、【リュウキン】、【デメキン】、【サメ】が駒を消滅すると、自身も消滅して追憶エネルギーを{1}生成	필드의 기물이 [작은 새우], [류킨 금붕어], [툭눈 금붕어], [상어]에 소모되는 경우, 자신을 소모해 {1} 꿈의 흐름 에너지를 생성한다.	When a piece on the board is consumed by Shrimp, Ryukin, Dragon Eye, or Shark, disappears and generates {1} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc200	每次漫溯后，场上每增加一个空格，生成{1}漫溯能量	每次漫溯後，場上每增加一個空格，生成{1}漫溯能量	「追憶」のたびに、碁盤上の空きマス+1につき、追憶エネルギーを{1}生成	꿈의 흐름이 발동될 때마다 필드에 나타나는 빈 곳마다 {1} 꿈의 흐름 에너지가 생성된다.	After each dreamflow, generates {1} Dreamflow energy for each empty space added on the board.						0	DLC3.2纷愿绮梦
+card_desc201	周围每有一个空格，生成{1}漫溯能量	周圍每有一個空格，生成{1}漫溯能量	周囲の空きマス1つごとに追憶エネルギーを{1}生成	주변에 빈칸이 1개 있을 때마다 {1} 꿈의 흐름 에너지가 생성된다.	Generates {1} Dreamflow energy for each empty space around it.						0	DLC3.2纷愿绮梦
+card_desc202	场上的【琉金鱼】【龙睛鱼】【鲨鱼】生成的漫溯能量增加{1}%，{2}回合后消耗自身，效果可叠加	場上的【琉金魚】【龍睛魚】【鯊魚】生成的漫溯能量增加{1}%，{2}回合後消耗自身，效果可疊加	碁盤上の【リュウキン】【デメキン】【サメ】の追憶エネルギー生成量+{1}%（効果重複可能）。{2}ターン後に消滅	필드의 기물이 [류킨 금붕어], [툭눈 금붕어], [상어]가 생성하는 꿈의 흐름 에너지가 {1}% 증가하고, {2}턴 후 자신을 소모한다. 해당 효과는 중첩할 수 있다.	Increases Dreamflow energy from Ryukins, Dragon Eyes, and Sharks by {1}%, then disappears after {2} turn(s). This effect is stackable.						0	DLC3.2纷愿绮梦
+card_desc203	单个棋子一次性消耗{1}个以上棋子时，消耗自身并生成{2}能量	單一棋子一次消耗{1}個以上棋子時，消耗自身並產生{2}能量	単一の駒が一度に{1}つ以上の駒を消滅させた場合、自身は消滅し、追憶エネルギーを{2}生成	단일 기물이 한 번에 {1}개 이상의 기물을 소모할 때, 자신을 소모해 {2} 에너지를 생성한다.	When a piece consumes {1} or more pieces at once, disappears and generates {2} Dreamflow energy.						0	DLC3.2纷愿绮梦
+card_desc204	场上每有一个空格，生成{1}漫溯能量	場上每有一個空格，生成{1}漫溯能量	碁盤上の空きマス1つごとに追憶エネルギーを{1}生成	필드에 빈칸이 1개 있을 때마다 {1} 꿈의 흐름 에너지가 생성된다.	Generates {1} Dreamflow energy for each empty space on the board.						0	DLC3.2纷愿绮梦
+card_desc205	出现后，每回合获得{1}个随机{2}-{3}星的棋子，{4}回合后消耗自身	出現後，每回合獲得{1}個隨機{2}-{3}的棋子，{4}回合後消耗自身	現れると、毎ターンランダムで星{2}～星{3}の駒を{1}つ獲得。{4}ターン後に自身は消滅	등장 후 매 턴 {2}~{3}성 기물 {1}개를 얻고, {4}턴 후 자신을 소모한다.	Grants {1} random {2}-{3}-star piece(s) each turn. Disappears after {4} turn(s).						0	DLC3.2纷愿绮梦
+card_desc206	出现后，每回合获得{1}个随机{2}-{3}星的棋子，{4}回合后消耗自身	出現後，每回合獲得{1}個隨機{2}-{3}的棋子，{4}回合後消耗自身	現れると、毎ターンランダムで星{2}～星{3}の駒を{1}つ獲得。{4}ターン後に自身は消滅	등장 후 매 턴 {2}~{3}성 기물 {1}개를 얻고, {4}턴 후 자신을 소모한다.	Grants {1} random {2}-{3}-star piece(s) each turn. Disappears after {4} turn(s).						0	DLC3.2纷愿绮梦
+card_desc207	消除同一排、同一列的非“缤纷海洋”棋子，并吸收其漫溯能量。本棋子的漫溯能量每回合减少{1}%	消除同一排、同一列的非“繽紛海洋”棋子，並吸收其漫溯能量。本棋子的漫溯能量每回合減少{1}%	同じ行と列にある【彩りの海】以外の駒をすべて消滅させ、その追憶エネルギーを吸収。この駒の追憶エネルギー生成量は毎ターン-{1}%	같은 행, 같은 열의 화려한 바다 기물이 아닌 다른 기물을 제거하고 꿈의 흐름 에너지를 흡수한다. 해당 기물의 꿈의 흐름 에너지가 매 턴 {1}% 감소한다.	Consumes all non-Vibrant Sea pieces in the same row and column, absorbing their Dreamflow energy. Loses {1}% Dreamflow energy each turn.						0	DLC3.2纷愿绮梦
+card_desc208	【能量发生装置】和【永动机】可以为场上所有格子<span color="#ff7c24">充能</>	【能量發生裝置】和【永動機】可以為場上所有格子<span color="#ff7c24">充能</>	【エネルギー発生装置】と【永久機関】は、碁盤上のすべてのマスに<span color="#ff7c24">チャージ</>を付与可能	[에너지 발생 장치]와 [영구기관]은 필드의 모든 칸을 <span color="#ff7c24">충전</>할 수 있다.	Energy Generator and Perpetual Engine now <span color="#ff7c24">recharge</> all spaces on the board.						0	DLC3.2纷愿绮梦
+card_desc209	将【聚能装置】和【原型机器人】升级为【进阶机器人】	將【聚能裝置】和【原型機器人】升級為【進階機器人】	【エネルギー集束装置】と【試作型ロボット】を【進化型ロボット】にアップグレード	[에너지 집중 장치]와 [프로토타입 로봇]을 [고급 로봇]으로 레벨업한다.	Upgrades Energy Collector and Prototype Bot to Advanced Bot.						0	DLC3.2纷愿绮梦
+card_desc210	【鸽子】生成的漫溯能量提升{1}%，【魔杖】的效果范围+{2}，效果可叠加	【鴿子】生成的漫溯能量提升{1}%，【魔杖】的效果範圍+{2}，效果可疊加	3種類の【ハト】の追憶エネルギー生成量+{1}%、【マジックワンド】の効果範囲+{2}（両方の効果も重複可能）	[도브]가 생성하는 꿈의 흐름 에너지가 {1}% 증가하고, [마법 지팡이]의 효과 범위가 {2} 증가한다. 해당 효과는 중첩할 수 있다.	Increases Dreamflow energy from Pigeons by {1}% and extends Magic Wand's range by {2}. This effect is stackable.						0	DLC3.2纷愿绮梦
+card_desc211	【鸽子窝】【魔术帽】和【鸽子蛋】可以额外获得{1}个【鸽子】，效果可叠加	【鴿子窩】【魔術帽】和【鴿子蛋】可以額外獲得{1}個【鴿子】，效果可疊加	【ハトの巣】【マジックハット】と【ハトの卵】で、追加で【ハト】を{1}つ獲得可能（効果重複可能）	[도브 네스트], [마술 모자]와 [도브 에그]로 [도브] {1}개를 추가 획득할 수 있다. 해당 효과는 중첩할 수 있다.	Pigeon Nest, Magic Hat, and Pigeon Egg can generate {1} extra Pigeon(s). This effect is stackable.						0	DLC3.2纷愿绮梦
+card_desc212	【暗影洞窟】技能生效所需回合数永久-{1}	【暗影洞窟】技能生效所需回合數永久-{1}	【闇の洞窟】の効果発動に必要なターン数を永続的に-{1}	[암흑 동굴] 스킬 적용에 필요한 턴 수가 {1} 감소한다.	Shadowy Cave activates {1} turn(s) faster permanently.						0	DLC3.2纷愿绮梦
+card_desc213	每次施加<span color="#ff7c24">迷惑</>时，额外施加{1}层<span color="#ff7c24">迷惑</>，效果可叠加	每次施加<span color="#ff7c24">迷惑</>時，額外施加{1}層<span color="#ff7c24">迷惑</>，效果可疊加	<span color="#ff7c24">混乱</>を付与するたびに、追加でもう{1}スタックを付与可能（効果重複可能）	<span color="#ff7c24">혼란</>을 부여할 때마다 {1}스택의 <span color="#ff7c24">혼란</>을 추가로 부여한다. 해당 효과는 중첩할 수 있다.	Each time <span color="#ff7c24">Confusion</> is applied, apply {1} extra stack(s) of <span color="#ff7c24">Confusion</>. This effect is stackable.						0	DLC3.2纷愿绮梦
+card_desc214	敌人拥有的<span color="#ff7c24">迷惑</>层数的{1}%会传递给下一个敌人，效果可叠加	敵人擁有的<span color="#ff7c24">迷惑</>層數的{1}%會傳遞給下一個敵人，效果可疊加	敵が持つ<span color="#ff7c24">混乱</>スタックの{1}%が次の敵に引き継ぐ（効果重複可能）	타깃이 보유한 <span color="#ff7c24">혼란</> 스택 수의 {1}%가 다음 타깃에게 전달된다. 해당 효과는 중첩할 수 있다.	Transfers {1}% of <span color="#ff7c24">Confusion</> stacks on an enemy to the next enemy. This effect is stackable.						0	DLC3.2纷愿绮梦
+card_desc215	【唤灵石】生成的漫溯能量提升{1}%，效果可叠加	【喚靈石】生成的漫溯能量提升{1}%，效果可疊加	【召霊石】の追憶エネルギー生成量+{1}%（効果重複可能）	[영혼 소환석]이 생성하는 꿈의 흐름 에너지가 {1}% 증가한다. 해당 효과는 중첩할 수 있다.	Increases Dreamflow energy from Soul Stones by {1}%. This effect is stackable.						0	DLC3.2纷愿绮梦
+card_desc216	场上【王族仆从】和【仆从纹章】的效果触发几率提升{1}%	場上【王族僕從】和【僕從紋章】的效果觸發機率提升{1}%	碁盤上の【王族の従者】と【従者の紋章】の効果発動確率+{1}%	필드의 [왕족 하인]과 [하인 문장]의 효과 발동 확률이 {1}% 증가한다.	Increases the trigger chance of Royal Servants and Servant Emblems by {1}%.						0	DLC3.2纷愿绮梦
+card_desc217	抵挡下{1}次受到的伤害，并生成{2}漫溯能量，触发后消耗自身	抵擋下{1}次所受的傷害，並產生{2}漫溯能量，觸發後消耗自身	ダメージを{1}回無効化し、追憶エネルギーを{2}生成し、その後自身は消滅	다음 {1}회의 대미지를 방어하고 {2} 꿈의 흐름 에너지를 생성한 후, 발동 시 자신을 소모한다.	Negates the next {1} instance(s) of damage and generates {2} Dreamflow energy. Disappears after trigger.						0	DLC3.2纷愿绮梦
+card_desc218	场上有同一排、同一列仅有{1}个或以下棋子时，生成{2}能量	場上有同一排、同一列僅{1}個或以下棋子時，生成{2}能量	同じ行または列の駒が{1}つ以下の場合、追憶エネルギーを{2}生成	필드의 같은 행, 같은 열에 {1}개 또는 그 이하의 기물만 있을 때 {2} 에너지를 생성한다.	Generates {2} Dreamflow energy if there are {1} or fewer pieces in the same row and column.						0	DLC3.2纷愿绮梦
+card_desc219	一次漫溯中消耗{1}个棋子时，获得一个随机棋子	一次漫溯中消耗{1}個棋子時，獲得一個隨機棋子	1回の「追憶」で駒を{1}つ消滅させると、ランダムな駒を1つ獲得	꿈의 흐름 1회에서 {1}개의 기물을 소모할 때 랜덤 기물을 획득한다.	Grants a random piece when consuming {1} piece(s) during a dreamflow.						0	DLC3.2纷愿绮梦
+boss_name01	情绪怪兽-愤怒	情緒怪獸-憤怒	エモンスター・怒り	감정 괴물: 분노	Bad Mood Monster: Anger						0	DLC2.6纷愿绮梦系统相关文本
+boss_name02	情绪怪兽-焦虑	情緒怪獸-焦慮	エモンスター・焦り	감정 괴물: 초조	Bad Mood Monster: Worry						0	DLC2.6纷愿绮梦系统相关文本
+boss_name03	情绪怪兽-伤心	情緒怪獸-傷心	エモンスター・悲しみ	감정 괴물: 슬픔	Bad Mood Monster: Heartache						0	DLC2.6纷愿绮梦系统相关文本
+boss_name04	情绪怪兽-疲惫	情緒怪獸-疲憊	エモンスター・疲れ	감정 괴물: 피로	Bad Mood Monster: Burnout						0	DLC2.6纷愿绮梦系统相关文本
+boss_name05	情绪怪兽-伪装	情緒怪獸-偽裝	エモンスター・偽り	감정 괴물: 위장	Bad Mood Monster: Facade						0	DLC2.6纷愿绮梦系统相关文本
+boss_name06	情绪怪兽-无助	情緒怪獸-無助	エモンスター・無力	감정 괴물: 무력감	Bad Mood Monster: Helplessness						0	DLC2.6纷愿绮梦系统相关文本
+boss_name07	情绪怪兽-妒忌	情緒怪獸-妒忌	エモンスター・嫉妬	감정 괴물: 질투	Bad Mood Monster: Jealousy						0	DLC2.6纷愿绮梦系统相关文本
+boss_name08	情绪怪兽-崩溃	情緒怪獸-崩潰	エモンスター・絶望	감정 괴물: 붕괴	Bad Mood Monster: Breakdown						0	DLC2.6纷愿绮梦系统相关文本
+boss_name09	遥星敌手·I	遙星敵手·I	遥かなる星の敵・Ⅰ	외계 라이벌·I	Alien Rival I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name10	遥星敌手·II	遙星敵手·II	遥かなる星の敵・Ⅱ	외계 라이벌·II	Alien Rival II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name11	遥星敌手·III	遙星敵手·III	遥かなる星の敵・Ⅲ	외계 라이벌·III	Alien Rival III						0	DLC2.6纷愿绮梦系统相关文本
+boss_name12	噪波炮炮·I	噪波炮炮·I	音波砲弾・Ⅰ	소음 포·I	Sonic Blaster I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name13	噪波炮炮·II	噪波炮炮·II	音波砲弾・Ⅱ	소음 포·II	Sonic Blaster II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name14	噪波炮炮·III	噪波炮炮·III	音波砲弾・Ⅲ	소음 포·III	Sonic Blaster III						0	DLC2.6纷愿绮梦系统相关文本
+boss_name15	炼狱难关·I	煉獄難關·I	煉獄の試練・Ⅰ	지옥의 시험·I	Inferno Trials I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name16	炼狱难关·II	煉獄難關·II	煉獄の試練・Ⅱ	지옥의 시험·II	Inferno Trials II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name17	炼狱难关·III	煉獄難關·III	煉獄の試練・Ⅲ	지옥의 시험·III	Inferno Trials III						0	DLC2.6纷愿绮梦系统相关文本
+boss_name18	书馆炎团·I	書館炎團·I	書館の炎・Ⅰ	불덩이 도서관·I	Library Fireball I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name19	书馆炎团·II	書館炎團·II	書館の炎・Ⅱ	불덩이 도서관·II	Library Fireball II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name20	书馆炎团·III	書館炎團·III	書館の炎・Ⅲ	불덩이 도서관·III	Library Fireball III						0	DLC2.6纷愿绮梦系统相关文本
+boss_name21	夺宝海盗·I	奪寶海盜·I	宝物を奪う海賊・Ⅰ	보물 해적·I	Greedy Pirates I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name22	夺宝海盗·II	奪寶海盜·II	宝物を奪う海賊・Ⅱ	보물 해적·II	Greedy Pirates II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name23	夺宝海盗·III	奪寶海盜·III	宝物を奪う海賊・Ⅲ	보물 해적·III	Greedy Pirates III						0	DLC2.6纷愿绮梦系统相关文本
+boss_name24	甜蜜蛀魔·I	甜蜜蛀魔·I	甘い虫歯魔・Ⅰ	달콤한 충치·I	Sweet Caries I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name25	甜蜜蛀魔·II	甜蜜蛀魔·II	甘い虫歯魔・Ⅱ	달콤한 충치·II	Sweet Caries II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name26	甜蜜蛀魔·III	甜蜜蛀魔·III	甘い虫歯魔・Ⅲ	달콤한 충치·III	Sweet Caries III						0	DLC2.6纷愿绮梦系统相关文本
+boss_name27	社畜宿敌·I	社畜宿敵·I	社畜の敵・Ⅰ	직장인 숙적·I	9-5er's Nemesis I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name28	社畜宿敌·II	社畜宿敵·II	社畜の敵・Ⅱ	직장인 숙적·II	9-5er's Nemesis II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name29	社畜宿敌·III	社畜宿敵·III	社畜の敵・Ⅲ	직장인 숙적·III	9-5er's Nemesis III						0	DLC2.6纷愿绮梦系统相关文本
+boss_name30	幻雪魔物·I	幻雪魔物·I	雪の魔物・Ⅰ	환상의 눈 괴물·I	Snowy Phantom I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name31	幻雪魔物·II	幻雪魔物·II	雪の魔物・Ⅱ	환상의 눈 괴물·II	Snowy Phantom II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name32	幻雪魔物·III	幻雪魔物·III	雪の魔物・Ⅲ	환상의 눈 괴물·III	Snowy Phantom III						0	DLC2.6纷愿绮梦系统相关文本
+boss_name33	焰灵邪祟·I	焰靈邪祟·I	炎霊邪祟・Ⅰ	불의 악령·I	Fiery Xiesui I						0	DLC2.6纷愿绮梦系统相关文本
+boss_name34	焰灵邪祟·II	焰靈邪祟·II	炎霊邪祟・Ⅱ	불의 악령·II	Fiery Xiesui II						0	DLC2.6纷愿绮梦系统相关文本
+boss_name35	焰灵邪祟·III	焰靈邪祟·III	炎霊邪祟・Ⅲ	불의 악령·III	Fiery Xiesui III						0	DLC2.6纷愿绮梦系统相关文本
+buff_name01	困境加剧	困境加劇	さらなる困難	악화된 상황	Escalating Conflict						0	DLC2.6纷愿绮梦系统相关文本
+buff_name02	强制留存	強制留存	強制保存	강제 보유	Mandatory Retention						0	DLC2.6纷愿绮梦系统相关文本
+buff_name03	礼物禁止	禮物禁止	贈り物禁止	선물 금지	Gift Ban						0	DLC2.6纷愿绮梦系统相关文本
+buff_name04	囤积习惯	囤積習慣	ためこみ症	사재기 습관	Hopeless Hoarder						0	DLC2.6纷愿绮梦系统相关文本
+buff_name05	有限选项	有限選項	限られた選択	제한된 선택	Limited Options						0	DLC2.6纷愿绮梦系统相关文本
+buff_name06	紫外线过敏	紫外線過敏	紫外線アレルギー	자외선 알레르기	UV Sensitivity						0	DLC2.6纷愿绮梦系统相关文本
+buff_name07	切断补给	切斷補給	補給断絶	보급 차단	Supply Cutoff						0	DLC2.6纷愿绮梦系统相关文本
+buff_name08	礼物限量	禮物限量	数量限定ギフト	선물 한정	Gift Shortage						0	DLC2.6纷愿绮梦系统相关文本
+buff_name09	有限空间	有限空間	限られた空間	제한된 공간	Limited Space						0	DLC2.6纷愿绮梦系统相关文本
+buff_name10	等级禁锢	等級禁錮	レベル制限	레벨 구속	Level Lock						0	DLC2.6纷愿绮梦系统相关文本
+buff_name11	有限预算	有限預算	限られた予算	제한된 예산	Limited Budget						0	DLC2.6纷愿绮梦系统相关文本
+buff_name12	单兵作战	單兵作戰	単騎作戦	외로운 늑대	Lone Wolf						0	DLC2.6纷愿绮梦系统相关文本
+buff_name13	健忘症状	健忘症狀	健忘症状	건망증 증상	Poor Amnesiac						0	DLC2.6纷愿绮梦系统相关文本
+buff_name14	负面领袖	負面領袖	ネガティブリーダー	나쁜 리더십	Bad Leadership						0	DLC2.6纷愿绮梦系统相关文本
+buff_name15	马失前蹄	馬失前蹄	猿も木から落ちる	거듭된 실수	A Misstep						0	DLC2.6纷愿绮梦系统相关文本
+buff_name16	原地踏步	原地踏步	一歩も踏み出せず	제자리 걸음	Terribly Stalled						0	DLC2.6纷愿绮梦系统相关文本
+buff_name17	能力抑制	能力抑制	能力抑制	능력 억제	Energy Drain						0	DLC2.6纷愿绮梦系统相关文本
+buff_name18	集中预算	集中預算	予算集中	예산 집중	Constrained Budget						0	DLC3.0纷愿绮梦系统相关文本
+buff_name19	节奏紊乱	節奏紊亂	リズム崩壊	혼돈의 리듬	Disrupted Rhythm						0	DLC3.0纷愿绮梦系统相关文本
+buff_name20	附加损失	附加損失	二次被害	추가 손실	Collateral Damage						0	DLC3.0纷愿绮梦系统相关文本
+buff_name21	定期清扫	定期清掃	定期清掃	정기 청소	Scheduled Cleaning						0	DLC3.0纷愿绮梦系统相关文本
+buff_name22	超额支出	超額支出	予算超過	과도한 지출	Overspending						0	DLC3.0纷愿绮梦系统相关文本
+buff_name23	及时补救	及時補救	タイムリー	적절한 조치	Remedial Action						0	DLC3.0纷愿绮梦系统相关文本
+buff_name24	轻装上阵	輕裝上陣	軽装出陣	가벼운 외출	Taking Light Gear						0	DLC3.5纷愿绮梦系统相关文本
+buff_name25	多多益善	多多益善	数が力	다다익선	More Is Better						0	DLC3.5纷愿绮梦系统相关文本
+buff_name26	物尽其用	物盡其用	フル活用	자원 활용	Making Good Use						0	DLC3.5纷愿绮梦系统相关文本
+buff_desc01	敌人强度提升{1}%	敵人強度提升{1}%	敵の強度+{1}%	타깃 능력치가 {1}% 증가한다.	Increases enemy strength by {1}%.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc02	不可放弃选择棋子和选择礼物	不可放棄選擇棋子和選擇禮物	駒および贈り物の選択を放棄不可	기물과 선물 선택을 포기할 수 없다.	Cannot skip selecting pieces or gifts.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc03	不能使用礼物的主动效果	不能使用禮物的主動效果	贈り物のアクティブ効果を使用不可	선물의 액티브 스킬을 사용할 수 없다.	Cannot activate Gift effects.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc04	不能删除棋子	不能刪除棋子	駒リストの駒を除外不可	기물을 삭제할 수 없다.	Cannot remove pieces.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc05	选择棋子和礼物时无法刷新	選擇棋子和禮物時無法刷新	駒および贈り物の選択時、リセット不可	기물과 선물을 선택할 때 리셋할 수 없다.	Cannot refresh pieces or gifts.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc06	首次前进后，场上所有的棋子转化为分析员墨镜	首次前進後，場上所有的棋子轉化為分析員墨鏡	初めて前進時、碁盤上のすべての駒を「分析員のサングラス」に変換する	첫 번째 전진 후, 필드의 모든 기물이 분석가 선글라스로 변환된다.	After your first spin, all pieces on the board turn into Adjutant's Sunglasses.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc07	无法使用通用道具	無法使用通用道具	汎用アイテムを使用不可	일반 아이템을 사용할 수 없다.	Cannot use general items.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc08	1局内，列表中最多存在{1}个礼物，达到{2}个后不再获取额外的礼物	1局內，列表中最多存在{1}個禮物，達到{2}個後不再獲取額外的禮物	1ゲーム中に、駒リストの贈り物は最大{1}つまで存在可能。{2}つ目以降は入手不可	한 게임 내에서 목록에 최대 {1}개의 선물이 존재하며, 선물이 {2}개에 도달하면 추가 선물을 획득할 수 없다.	At most {1} gifts can exist on the list in a single game. Once the total reaches {2}, no further gifts will be granted.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc09	通过选棋累计获得{1}个棋子后，被动放弃所有选棋	通過選棋累計獲得{1}個棋子後，被動放棄所有選棋	駒選択で駒を{1}つ入手後、駒の選択が不可	기물 선택을 통해 누적으로 {1}개의 기물을 획득한 후, 모든 기물 선택 기회를 자동으로 포기한다.	After collecting {1} pieces from piece selection, all future selections are auto-skipped.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc10	漫溯等级仅能升至{1}级	漫溯等級僅能升至{1}級	追憶LvはLv.{1}までしかレベルアップ不可	꿈의 흐름 레벨을 Lv.{1}까지만 상승시킬 수 있다.	Dreamflow level is capped at {1}.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc11	开始时获得3600漫溯能量，升级漫溯等级前被动跳过选择棋子，每升级1次可获得20次选棋	開始時獲得3600漫溯能量，升級漫溯等級前被動跳過選擇棋子，每升級1次可獲得20次選棋	ゲーム開始時、追憶エネルギーを3600獲得し、追憶Lvレベルアップまで駒選択をスキップ。レベルアップ後、1Lvごとに駒を20回選択可能	시작 시 3,600 꿈의 흐름 에너지를 획득하고, 꿈의 흐름 레벨을 업그레이드하기 전에 기물 선택이 자동으로 스킵되며, 업그레이드 1회마다 20회의 기물 선택 기회를 획득한다.	Starts with 3,600 Dreamflow energy but auto-skips piece selection until levels up. Each upgrade adds 20 chances for piece selection.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc11_2	1局内，列表中最多存在{1}个棋子，达到{2}个后不再获取额外的棋子	1局內，列表中最多存在{1}個棋子，達到{2}個後不再獲取額外的棋子	1ゲーム中に、駒リストの駒は最大{1}つまで存在可能。{2}つ目以降は入手不可	한 게임 내에서 목록에 최대 {1}개의 기물이 존재하며, 기물이 {2}개에 도달하면 추가 기물을 획득할 수 없다.	At most {1} pieces can exist on the list in a single game. Once the total reaches {2}, no further pieces will be granted.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc12	所有{1}星棋子仅能刷新出【心灵城堡】所属流派	所有{1}星棋子僅能刷新出【心靈城堡】所屬流派	すべての星{1}駒は【心のお城】流派の駒にしかリセット不可	모든 {1}성 기물은 오직 [마음의 성] 소속 유형에서만 리셋할 수 있다.	All Lv. {1} pieces are the Castle of the Soul type.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc13	升级过的流派天赋无法生效	升級過的流派天賦無法生效	レベルアップした流派才能を有効化不可	업그레이드된 유형 재능을 발동할 수 없다.	Cannot activate upgraded types of Talents.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc14	敌方首领额外获得400000漫溯能量	敵方首領額外獲得400000漫溯能量	ボス敵が追加で追憶エネルギーを400000獲得する	타깃 보스가 추가로 400,000 꿈의 흐름 에너지를 획득한다.	Enemy leader gains 400,000 extra Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc15	第一次前进后，损失2生命值	第一次前進後，損失2生命值	初めて前進時、HP-2	첫 번째 전진 후, 2 HP가 손실된다.	Lose 2 HP after your first spin.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc16	与每个阶段敌人对战时，可前进的次数减1	與每個階段敵人對戰時，可前進的次數減1	すべてのフェーズで、敵と対戦時、前進可能回数-1	각 단계의 타깃과 전투할 때, 전진할 수 있는 횟수가 1회 줄어든다.	Decreases the number of spins in each enemy phase by 1.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc17	攻击敌人时，仅能使用60%的漫溯能量	攻擊敵人時，僅能使用60%的漫溯能量	敵を攻撃時、追憶エネルギーの60%しか使用不可	타깃을 공격할 때, 60%의 꿈의 흐름 에너지만 사용할 수 있다.	When attacking, only 60% of Dreamflow energy can be used.						0	DLC2.6纷愿绮梦系统相关文本
+buff_desc18	开始时获得{1}次选棋，每次前进时不再获得选棋机会，但每击败1个敌人可以获得{2}次选棋	開始時獲得{1}次選棋，每次前進時不再獲得選棋機會，但每擊敗1個敵人可以獲得{2}次選棋	ゲーム開始時、駒を{1}回選択可能。前進後は選択不可だが、敵1体撃破ごとに駒を{2}回選択可能	시작 시, 기물 선택 기회를 {1}회 획득한다. 전진할 때마다 더 이상 기물 선택 기회를 획득하지 않지만, 타깃을 1명 처치할 때마다 기물 선택 기회 {2}회를 획득한다.	Gain {1} piece selection(s) at start. Advancing no longer grants selections, but defeating enemies grants {2} additional piece selection(s).						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc19	使用【定制专辑】道具时，损失{1}生命值	使用【訂製專輯】道具時，損失{1}生命值	【カスタムアルバム】アイテムを使用時、HP-{1}	[커스텀 앨범] 아이템 사용 시, HP가 {1}가 감소한다.	Lose {1} HP each time you use a Personalized Album.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc20	损失生命值时，将会从列表中随机删除{1}个礼物	損失生命值時，將會從列表中隨機刪除{1}個禮物	HP減少時、駒リストから贈り物をランダムに{1}つ除外する	HP가 감소할 때, 목록에서 {1}개의 선물이 랜덤으로 삭제된다.	Every time you lose HP, {1} random gift(s) are removed from the list.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc21	提升漫溯等级时，将会从列表中随机删除{1}个棋子	提升漫溯等級時，將會從列表中隨機刪除{1}個棋子	追憶Lvレベルアップ時、駒リストから駒をランダムに{1}つ除外する	꿈의 흐름 레벨이 증가하면, 목록에서 {1}개의 기물이 랜덤으로 삭제된다.	Every time Dreamflow level increases, {1} random piece(s) are removed from the list.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc22	提升漫溯等级时需要消耗的漫溯能量提升{1}%	提升漫溯等級時需要消耗的漫溯能量提升{1}%	追憶Lvレベルアップに必要な追憶エネルギー+{1}%	꿈의 흐름 레벨이 증가할 때 소모하는 꿈의 흐름 에너지가 {1}% 증가한다.	Dreamflow level upgrades cost {1}% more Dreamflow energy.						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc23	被动跳过所有选礼，但每消耗{1}个棋子，可以获得{2}次选礼	被動跳過所有選禮，但每消耗{1}個棋子，可以獲得{2}次選禮	贈り物の選択は不可だが、駒を{1}つ消滅させるごとに贈り物を{2}回選択可能	모든 선물 선택을 자동으로 스킵하지만, 기물을 {1}개 소모할 때마다 선물 선택 기회를 {2}회 획득한다.	Automatically skips all gift selections. However, for every {1} piece(s) consumed, grants {2} additional gift selection(s).						0	DLC3.0纷愿绮梦系统相关文本
+buff_desc24	前进时，若背包中棋子少于{1}个，则本次前进生成的漫溯能量增加{2}%，否则减少{3}%。	前進時，若背包中棋子少於{1}個，則本次前進生成的漫溯能量增加{2}%，否則減少{3}%。	前進時、リュックにある駒が{1}つ未満の場合、今回の前進での追憶エネルギー生成量+{2}%。{1}つ以上の場合、追憶エネルギー生成量-{3}%	전진 시, 인벤토리 내의 기물이 {1}개 이하일 경우, 이번 전진으로 생성되는 꿈의 흐름 에너지가 {2}% 증가하고, 그렇지 않으면 {3}% 감소한다.	When advancing, if the number of pieces in the bag is below {1}, this advance generates {2}% more Dreamflow Energy. Otherwise, reduces Dreamflow Energy by {3}%.						0	DLC3.5纷愿绮梦系统相关文本
+buff_desc25	前进时，若棋子和宝物生成了至少{1}个棋子，则本次前进生成的漫溯能量增加{2}%，否则减少{3}%	前進時，若棋子和寶物生成了至少{1}個棋子，則本次前進生成的漫溯能量增加{2}%，否則減少{3}%	前進時、駒と贈り物が{1}つ以上の駒を生成した場合、今回の前進での追憶エネルギー生成量+{2}%。{1}つ未満の場合、追憶エネルギー生成量-{3}%	전진 시, 기물과 보물이 {1}개 이상의 기물을 생성했을 경우, 이번 전진으로 생성되는 꿈의 흐름 에너지가 {2}% 증가하고, 그렇지 않으면 {3}% 감소한다.	When advancing, if pieces and treasure generate at least {1} piece(s), this advance generates {2}% more Dreamflow Energy. Otherwise, reduces Dreamflow Energy by {3}%.						0	DLC3.5纷愿绮梦系统相关文本
+buff_desc26	前进时，若棋子和宝物消除了至少{1}个棋子，则本次前进生成的漫溯能量增加{2}%，否则减少{3}%	前進時，若棋子和寶物消除了至少{1}個棋子，則本次前進生成的漫溯能量增加{2}%，否則減少{3}%	前進時、駒と贈り物が{1}つ以上の駒を消滅させた場合、今回の前進での追憶エネルギー生成量+{2}%。{1}つ未満の場合、追憶エネルギー生成量-{3}%	전진 시, 기물과 보물이 {1}개 이상의 기물을 제거했을 경우, 이번 전진으로 생성되는 꿈의 흐름 에너지가 {2}% 증가하고, 그렇지 않으면 {3}% 감소한다.	When advancing, if at least {1} piece(s) are consumed by pieces and treasure, this advance generates {2}% more Dreamflow Energy. Otherwise, reduces Dreamflow Energy by {3}%.						0	DLC3.5纷愿绮梦系统相关文本
+item_name01	小红花	小紅花	赤い花	붉은 꽃	Red Flower						0	DLC2.6纷愿绮梦系统相关文本
+item_name02	定制专辑	訂製專輯	カスタムアルバム	커스텀 앨범	Personalized Album						0	DLC2.6纷愿绮梦系统相关文本
+item_desc01	使用后，可以恢复1生命	使用後，可以恢復1生命	使用時、HPを1回復可能	사용 후, 1 HP를 회복할 수 있다.	Use it to restore 1 HP.						0	DLC2.6纷愿绮梦系统相关文本
+item_desc02	使用后，获得1次额外的选礼	使用後，獲得1次額外的選禮	使用時、追加で贈り物を1回選択可能	사용 후, 추가로 1회의 선물 선택을 획득한다.	Use it to obtain 1 extra chance for gift selection.						0	DLC2.6纷愿绮梦系统相关文本
+talent_name01	体魄强健	體魄強健	強健な体	튼튼한 체력	Strong Constitution						0	DLC2.6纷愿绮梦系统相关文本
+talent_name02	杰出队员	傑出隊員	立派な隊員	탁월한 팀원	Star Player						0	DLC2.6纷愿绮梦系统相关文本
+talent_name03	游历补给·I	遊歷補給·I	遊歴補給・Ⅰ	여행 보급·I	Traveler's Provisions I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name04	游历补给·II	遊歷補給·II	遊歴補給・Ⅱ	여행 보급·II	Traveler's Provisions II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name05	游历补给·III	遊歷補給·III	遊歴補給・Ⅲ	여행 보급·III	Traveler's Provisions III						0	DLC2.6纷愿绮梦系统相关文本
+talent_name06	早起准备	早起準備	早起き準備	조기 준비	Quick Start						0	DLC2.6纷愿绮梦系统相关文本
+talent_name07	意外之喜·I	意外之喜·I	意外な喜び・Ⅰ	뜻밖의 기쁨·I	Delightful Surprise I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name08	意外之喜·II	意外之喜·II	意外な喜び・Ⅱ	뜻밖의 기쁨·II	Delightful Surprise II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name09	意外之喜·III	意外之喜·III	意外な喜び・Ⅲ	뜻밖의 기쁨·III	Delightful Surprise III						0	DLC2.6纷愿绮梦系统相关文本
+talent_name10	断舍离·I	斷捨離·I	断捨離・Ⅰ	정리·I	Letting Go I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name11	断舍离·II	斷捨離·II	断捨離・Ⅱ	정리·II	Letting Go II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name12	断舍离·III	斷捨離·III	断捨離・Ⅲ	정리·III	Letting Go III						0	DLC2.6纷愿绮梦系统相关文本
+talent_name13	甄选礼物	甄選禮物	特選贈り物	엄선된 선물	Bonus Gift Picks						0	DLC2.6纷愿绮梦系统相关文本
+talent_name14	甄选棋子·I	甄選棋子·I	特選駒・Ⅰ	엄선된 기물·I	Bonus Piece Picks I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name15	甄选棋子·II	甄選棋子·II	特選駒・Ⅱ	엄선된 기물·II	Bonus Piece Picks II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name16	甄选棋子·III	甄選棋子·III	特選駒・Ⅲ	엄선된 기물·III	Bonus Piece Picks III						0	DLC2.6纷愿绮梦系统相关文本
+talent_name17	成就回响·I	成就迴響·I	実績の響・Ⅰ	업적의 회상·I	Echo of Triumph I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name18	成就回响·II	成就迴響·II	実績の響・Ⅱ	업적의 회상·II	Echo of Triumph II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name19	成就回响·III	成就迴響·III	実績の響・Ⅲ	업적의 회상·III	Echo of Triumph III						0	DLC2.6纷愿绮梦系统相关文本
+talent_name20	士气提升	士氣提升	士気強化	기세 상승	Morale Boost						0	DLC2.6纷愿绮梦系统相关文本
+talent_name21	冰晶凝结·I	冰晶凝結·I	氷晶凍結・Ⅰ	빙결의 응집·I	Bond of Frost I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name22	冰晶凝结·II	冰晶凝結·II	氷晶凍結・Ⅱ	빙결의 응집·II	Bond of Frost II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name23	虔诚祝祷·I	虔誠祝禱·I	献身の祈り・Ⅰ	경건한 기도·I	Devout Prayer I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name24	虔诚祝祷·II	虔誠祝禱·II	献身の祈り・Ⅱ	경건한 기도·II	Devout Prayer II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name25	甜蜜加分·I	甜蜜加分·I	甘さ加点・Ⅰ	달콤한 보너스·I	Sweet Bonus I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name26	甜蜜加分·II	甜蜜加分·II	甘さ加点・Ⅱ	달콤한 보너스·II	Sweet Bonus II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name27	余音绕梁·I	餘音繞樑·I	残された余韻・Ⅰ	여운의 멜로디·I	Lingering Melody I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name28	余音绕梁·II	餘音繞樑·II	残された余韻・Ⅱ	여운의 멜로디·II	Lingering Melody II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name29	感官延续·I	感官延續·I	感覚の延長・Ⅰ	희열의 연속·I	Pleasure Continues I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name30	感官延续·II	感官延續·II	感覚の延長・Ⅱ	희열의 연속·II	Pleasure Continues II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name31	书海拾遗·I	書海拾遺·I	古書の発掘・Ⅰ	고대의 지혜·I	Ancient Wisdom I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name32	书海拾遗·II	書海拾遺·II	古書の発掘・Ⅱ	고대의 지혜·II	Ancient Wisdom II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name33	旅途手记·I	旅途手記·I	旅の手帳・Ⅰ	여행 일지·I	Travel Log I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name34	旅途手记·II	旅途手記·II	旅の手帳・Ⅱ	여행 일지·II	Travel Log II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name35	秘密惊喜·I	秘密驚喜·I	秘密のサプライズ・Ⅰ	숨겨진 비밀·I	Hidden Surprise I						0	DLC2.6纷愿绮梦系统相关文本
+talent_name36	秘密惊喜·II	秘密驚喜·II	秘密のサプライズ・Ⅱ	숨겨진 비밀·II	Hidden Surprise II						0	DLC2.6纷愿绮梦系统相关文本
+talent_name37	天才造物·I	天才造物·I	天才クリエイション・Ⅰ	천재의 창조물·I	Marvelous Machina I						0	DLC3.2纷愿绮梦
+talent_name38	天才造物·II	天才造物·II	天才クリエイション・Ⅱ	천재의 창조물·II	Marvelous Machina II						0	DLC3.2纷愿绮梦
+talent_name39	魔术剧场·I	魔術劇場·I	マジックシアター・Ⅰ	마술 극장·I	Magic Theater I						0	DLC3.2纷愿绮梦
+talent_name40	魔术剧场·II	魔術劇場·II	マジックシアター・Ⅱ	마술 극장·II	Magic Theater II						0	DLC3.2纷愿绮梦
+talent_name41	幽影古堡·I	幽影古堡·I	月影の古城・Ⅰ	환영의 고성·I	Shadowy Castle I						0	DLC3.2纷愿绮梦
+talent_name42	幽影古堡·II	幽影古堡·II	月影の古城・Ⅱ	환영의 고성·II	Shadowy Castle II						0	DLC3.2纷愿绮梦
+talent_name43	秘仪力量·I	秘器力量·I	儀式の力・Ⅰ	비밀 의식의 힘·I	Enigmatic Rituals I						0	DLC3.2纷愿绮梦
+talent_name44	秘仪力量·II	秘器力量·II	儀式の力・Ⅱ	비밀 의식의 힘·II	Enigmatic Rituals II						0	DLC3.2纷愿绮梦
+talent_name45	缤纷海洋·I	繽紛海洋·I	彩りの海・Ⅰ	화려한 바다·I	Vibrant Sea I						0	DLC3.2纷愿绮梦
+talent_name46	缤纷海洋·II	繽紛海洋·II	彩りの海・Ⅱ	화려한 바다·II	Vibrant Sea II						0	DLC3.2纷愿绮梦
+talent_desc01	生命上限增加1	生命上限增加1	最大HP+1	HP 최대치가 1 증가한다.	Increases Max HP by 1.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc02	击败敌人后有24%的概率获得1个小红花	擊敗敵人後有24%的機率獲得1個小紅花	敵を撃破すると、24%の確率で赤い花を1つ入手する	타깃을 처치한 후 24% 확률로 1개의 붉은 꽃을 획득한다.	Defeating an enemy grants a 24% chance to obtain a Red Flower.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc03	开始时增加150漫溯能量	開始時增加150漫溯能量	ゲーム開始時、追憶エネルギー+150	시작할 때, 꿈의 흐름 에너지가 150 증가한다.	Start with 150 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc04	开始时增加250漫溯能量	開始時增加250漫溯能量	ゲーム開始時、追憶エネルギー+250	시작할 때, 꿈의 흐름 에너지가 250 증가한다.	Start with 250 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc05	开始时增加500漫溯能量	開始時增加500漫溯能量	ゲーム開始時、追憶エネルギー+500	시작할 때, 꿈의 흐름 에너지가 500 증가한다.	Start with 500 Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc06	对战敌人第1个阶段时，可前进的次数增加1	對戰敵人第1個階段時，可前進的次數增加1	フェーズ1で敵と対戦する時、前進可能回数+1	타깃과의 전투 1단계에서 이동할 수 있는 횟수가 1회 증가한다.	Increases the number of spins by 1 when fighting Phase 1 enemy.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc07	将漫溯等级升至2后，获得1次额外的选礼	將漫溯等級升至2後，獲得1次額外的選禮	追憶Lvが2に到達時、追加で贈り物を1回選択可能	꿈의 흐름을 레벨을 2레벨까지 상승시키면, 1회의 추가 선택 선물을 획득한다.	Obtains 1 extra chance for gift selection at Dreamflow Lv. 2.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc08	将漫溯等级升至3后，获得1次额外的选礼	將漫溯等級升至3後，獲得1次額外的選禮	追憶Lvが3に到達時、追加で贈り物を1回選択可能	꿈의 흐름을 레벨을 3레벨까지 상승시키면, 1회의 추가 선택 선물을 획득한다.	Obtains 1 extra chance for gift selection at Dreamflow Lv. 3.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc09	将漫溯等级升至4后，获得1次额外的选礼	將漫溯等級升至4後，獲得1次額外的選禮	追憶Lvが4に到達時、追加で贈り物を1回選択可能	꿈의 흐름을 레벨을 4레벨까지 상승시키면, 1회의 추가 선택 선물을 획득한다.	Obtains 1 extra chance for gift selection at Dreamflow Lv. 4.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc10	删除棋子次数上限增加3	刪除棋子次數上限增加3	駒の最大除外回数+3	기물 삭제 횟수 상한이 3 증가한다.	Increases max piece deletions by 3.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc11	删除棋子次数上限增加5	刪除棋子次數上限增加5	駒の最大除外回数+5	기물 삭제 횟수 상한이 5 증가한다.	Increases max piece deletions by 5.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc12	删除棋子次数上限增加7	刪除棋子次數上限增加7	駒の最大除外回数+7	기물 삭제 횟수 상한이 7 증가한다.	Increases max piece deletions by 7.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc13	刷新选礼的次数上限增加5	刷新選禮的次數上限增加5	贈り物選択のリセット最大回数+5	기물 선택 리셋 횟수 상한이 5 증가한다.	Increases max gift selection refreshes by 5.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc14	刷新选棋的次数上限增加4	刷新選棋的次數上限增加4	駒選択のリセット最大回数+4	기물 선택 리셋 횟수 상한이 4 증가한다.	Increases max piece selection refreshes by 4.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc15	刷新选棋的次数上限增加6	刷新選棋的次數上限增加6	駒選択のリセット最大回数+6	기물 선택 리셋 횟수 상한이 6 증가한다.	Increases max piece selection refreshes by 6.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc16	刷新选棋的次数上限增加8	刷新選棋的次數上限增加8	駒選択のリセット最大回数+8	기물 선택 리셋 횟수 상한이 8 증가한다.	Increases max piece selection refreshes by 8.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc17	1局内击败3个敌人，有16%的概率获得1个定制专辑	1局內擊敗3個敵人，有16%的機率獲得1個訂製專輯	1ゲームで敵を3体撃破すると、16%の確率で【カスタムアルバム】を1つ入手する	한 게임 내에서 3명의 타깃을 처치하면 16% 확률로 1개의 커스텀 앨범을 획득한다.	Defeating 3 enemies in one game grants a 16% chance to earn a Personalized Album.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc18	1局内击败5个敌人，有24%的概率获得1个定制专辑	1局內擊敗5個敵人，有24%的機率獲得1個訂製專輯	1ゲームで敵を5体撃破すると、24%の確率で【カスタムアルバム】を1つ入手する	한 게임 내에서 5명의 타깃을 처치하면 24% 확률로 1개의 커스텀 앨범을 획득한다.	Defeating 5 enemies in one game grants a 24% chance to earn a Personalized Album.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc19	1局内击败7个敌人，有32%的概率获得1个定制专辑	1局內擊敗7個敵人，有32%的機率獲得1個訂製專輯	1ゲームで敵を7体撃破すると、32%の確率で【カスタムアルバム】を1つ入手する	한 게임 내에서 7명의 타깃을 처치하면 32% 확률로 1개의 커스텀 앨범을 획득한다.	Defeating 7 enemies in one game grants a 32% chance to earn a Personalized Album.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc20	每击败1个敌人，有24%的概率获得1个定制专辑	每擊敗1個敵人，有24%的機率獲得1個訂製專輯	敵を1体撃破するごとに、24%の確率で【カスタムアルバム】を1つ入手する	1명의 타깃을 처치할 때마다 24% 확률로 1개의 커스텀 앨범을 획득한다.	Each enemy defeated grants a 24% chance to obtain a Personalized Album.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc21	冰雪皇冠使其他棋子生成的漫溯能量额外增加1	冰雪皇冠使其他棋子生成的漫溯能量額外增加1	【氷霜の冠】の効果を受ける駒の追憶エネルギー生成量+1	얼음 왕관이 다른 기물이 생성하는 꿈의 흐름 에너지를 추가로 1 증가시킨다.	Pieces affected by a Snow Crown generate 1 extra Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc22	冰雪皇冠使其他棋子生成的漫溯能量额外增加2	冰雪皇冠使其他棋子生成的漫溯能量額外增加2	【氷霜の冠】の効果を受ける駒の追憶エネルギー生成量+2	얼음 왕관이 다른 기물이 생성하는 꿈의 흐름 에너지를 추가로 2 증가시킨다.	Pieces affected by a Snow Crown generate 2 extra Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc23	念珠进阶所需回合数减少4	念珠進階所需回合數減少4	【珠】のランクアップに必要なターン数-4	염주 진급에 필요한 턴 수가 4 줄어든다.	Beads upgrade 4 turns faster.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc24	念珠进阶所需回合数减少8	念珠進階所需回合數減少8	【珠】のランクアップに必要なターン数-8	염주 진급에 필요한 턴 수가 8 줄어든다.	Beads upgrade 8 turns faster.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc25	蜂箱收集花蜜后消耗自身所需的回合数减少1	蜂箱收集花蜜後消耗自身所需的回合數減少1	【養蜂箱】が【花の蜜】を収集した後、消滅までのターン数-1	벌집이 꿀을 수집한 후 자신을 소모하는 데 필요한 턴 수가 1 감소한다.	Bee Hives disappear 1 turn faster after collecting Nectar.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc26	蜂箱收集花蜜后消耗自身所需的回合数减少2	蜂箱收集花蜜後消耗自身所需的回合數減少2	【養蜂箱】が【花の蜜】を収集した後、消滅までのターン数-2	벌집이 꿀을 수집한 후 자신을 소모하는 데 필요한 턴 수가 2 감소한다.	Bee Hives disappear 2 turns faster after collecting Nectar.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc27	4分音符和8分音符消耗自身所需的回合数增加1	4分音符和8分音符消耗自身所需的回合數增加1	【4分音符】および【8分音符】の消滅までのターン数+1	4분음표와 8분음표가 자신을 소모하는 데 필요한 턴 수가 1 증가한다.	Increases the turn count for Quarter Notes and Eighth Notes to consume themselves by 1.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc28	4分音符和8分音符消耗自身所需的回合数增加2	4分音符和8分音符消耗自身所需的回合數增加2	【4分音符】および【8分音符】の消滅までのターン数+2	4분음표와 8분음표가 자신을 소모하는 데 필요한 턴 수가 2 증가한다.	Increases the turn count for Quarter Notes and Eighth Notes to consume themselves by 2.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc29	扭蛋消耗自身所需的回合数增加1	扭蛋消耗自身所需的回合數增加1	【カプセル】の消滅までのターン数+1	가챠가 자신을 소모하는 데 필요한 턴 수가 1 증가한다.	Increases the turn count for Gacha to consume itself by 1.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc30	扭蛋消耗自身所需的回合数增加2	扭蛋消耗自身所需的回合數增加2	【カプセル】の消滅までのターン数+2	가챠가 자신을 소모하는 데 필요한 턴 수가 2 증가한다.	Increases the turn count for Gacha to consume itself by 2.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc31	古籍残卷进阶所需回合数减少50	古籍殘卷進階所需回合數減少50	【古籍の残編】のランクアップに必要なターン数-50	고서 잔편 진급에 필요한 턴 수가 50 감소한다.	Manuscript Pages upgrade 50 turns faster.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc32	古籍残卷进阶所需回合数减少100	古籍殘卷進階所需回合數減少100	【古籍の残編】のランクアップに必要なターン数-100	고서 잔편 진급에 필요한 턴 수가 100 감소한다.	Manuscript Pages upgrade 100 turns faster.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc33	当场上出现请假条时，立刻获得1个旅行风光照,1局内仅生效1次	當場上出現請假條時，立刻獲得1個旅行風光照，1局內僅生效1次	碁盤上に【休暇届】が現れると、即座に【観光写真】を1つ入手する（1ゲームにつき1回のみ有効）	필드에 휴가 신청서가 등장할 때 즉시 1개의 여행 사진을 획득한다. 라운드마다 단 1회 적용된다.	Gain 1 Travel Photo when a Leave Request appears (Applies only once).						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc34	当场上出现请假条时，立刻获得2个旅行风光照,1局内仅生效1次	當場上出現請假條時，立刻獲得2個旅行風光照，1局內僅生效1次	碁盤上に【休暇届】が現れると、即座に【観光写真】を2つ入手する（1ゲームにつき1回のみ有効）	필드에 휴가 신청서가 등장할 때 즉시 2개의 여행 사진을 획득한다. 라운드마다 단 1회 적용된다.	Gain 2 Travel Photos when a Leave Request appears (Applies only once).						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc35	因棋子的效果获得“宝箱”类棋子时，额外获得1个	因棋子的效果獲得「寶箱」類棋子時，額外獲得1個	駒の効果で「宝箱」系駒を入手すると、追加で1つ入手する	기물 효과로 '보물 상자' 유형의 기물을 획득할 때 추가로 1개를 획득한다.	Increases the number of Treasure Chest pieces gained from any piece's effect by 1.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc36	因棋子的效果获得“宝箱”类棋子时，额外获得2个	因棋子的效果獲得「寶箱」類棋子時，額外獲得2個	駒の効果で「宝箱」系駒を入手すると、追加で2つ入手する	기물 효과로 '보물 상자' 유형의 기물을 획득할 때 추가로 2개를 획득한다.	Increases the number of Treasure Chest pieces gained from any piece's effect by 2.						0	DLC2.6纷愿绮梦系统相关文本
+talent_desc37	设计图纸生效所需回合数减少1	設計圖紙生效所需回合數減少1	【設計図】の効果発動に必要なターン数-1	설계도가 적용되기까지 필요한 턴 수가 1 감소한다.	Blueprints activate 1 turn faster.						0	DLC3.2纷愿绮梦
+talent_desc38	设计图纸生效所需回合数减少2	設計圖紙生效所需回合數減少2	【設計図】の効果発動に必要なターン数-2	설계도가 적용되기까지 필요한 턴 수가 2 감소한다.	Blueprints activate 2 turns faster.						0	DLC3.2纷愿绮梦
+talent_desc39	鸽子窝生效所需回合数减少1	鴿子窩生效所需回合數減少1	【ハトの巣】の効果発動に必要なターン数-1	도브 네스트가 적용되기까지 필요한 턴 수가 1 감소한다.	Pigeon Nests activate 1 turn faster.						0	DLC3.2纷愿绮梦
+talent_desc40	鸽子窝生效所需回合数减少2	鴿子窩生效所需回合數減少2	【ハトの巣】の効果発動に必要なターン数-2	도브 네스트가 적용되기까지 필요한 턴 수가 2 감소한다.	Pigeon Nests activate 2 turns faster.						0	DLC3.2纷愿绮梦
+talent_desc41	暗影洞窟生效所需回合数减少1	暗影洞窟生效所需回合數減少1	【闇の洞窟】の効果発動に必要なターン数-1	암흑 동굴이 적용되기까지 필요한 턴 수가 1 감소한다.	Shadowy Caves activate 1 turn faster.						0	DLC3.2纷愿绮梦
+talent_desc42	暗影洞窟生效所需回合数减少2	暗影洞窟生效所需回合數減少2	【闇の洞窟】の効果発動に必要なターン数-2	암흑 동굴이 적용되기까지 필요한 턴 수가 2 감소한다.	Shadowy Caves activate 2 turns faster.						0	DLC3.2纷愿绮梦
+talent_desc43	坩埚生效所需回合数减少1	坩堝生效所需回合數減少1	【坩堝】の効果発動に必要なターン数-1	도가니가 적용되기까지 필요한 턴 수가 1 감소한다.	Cauldrons activate 1 turn faster.						0	DLC3.2纷愿绮梦
+talent_desc44	坩埚生效所需回合数减少2	坩堝生效所需回合數減少2	【坩堝】の効果発動に必要なターン数-2	도가니가 적용되기까지 필요한 턴 수가 2 감소한다.	Cauldrons activate 2 turns faster.						0	DLC3.2纷愿绮梦
+talent_desc45	翻车鱼和鲸鱼消耗自身所需的回合数增加1	翻車魚和鯨魚消耗自身所需的回合數增加1	【マンボウ】と【クジラ】の消滅までのターン数+1	개복치와 고래가 자신을 소모하는 데 필요한 턴 수가 1 증가한다.	Increases the turn count for Sunfish and Whales to consume themselves by 1.						0	DLC3.2纷愿绮梦
+talent_desc46	翻车鱼和鲸鱼消耗自身所需的回合数增加2	翻車魚和鯨魚消耗自身所需的回合數增加2	【マンボウ】と【クジラ】の消滅までのターン数+2	개복치와 고래가 자신을 소모하는 데 필요한 턴 수가 2 증가한다.	Increases the turn count for Sunfish and Whales to consume themselves by 2.						0	DLC3.2纷愿绮梦
+level_name01	绘制绮丽	繪製綺麗	描かれた美景	화려한 스케치	Vivid Sketches						0	DLC2.6纷愿绮梦系统相关文本
+level_name02	心灵小径	心靈小徑	心の小道	마음의 작은 길	Path to Serenity						0	DLC2.6纷愿绮梦系统相关文本
+level_name03	书阁求索	書閣求索	本に答えを求めて	서재 탐색	Library Quest						0	DLC2.6纷愿绮梦系统相关文本
+level_name04	海湾探宝	海灣探寶	沖でお宝探し	해변 보물찾기	Seekers of the Bay						0	DLC2.6纷愿绮梦系统相关文本
+level_name05	凛雪斗场	凜雪鬥場	凛雪の闘技場	눈의 전장	Snowy Arena						0	DLC2.6纷愿绮梦系统相关文本
+level_name06	指尖挑战	指尖挑戰	指先チャレンジ	손끝의 도전	Hardcore Gamers						0	DLC2.6纷愿绮梦系统相关文本
+level_name07	独家演出	獨家演出	独占演出	독점 공연	Exclusive Show						0	DLC2.6纷愿绮梦系统相关文本
+level_name08	幽怡采风	幽怡採風	幽玄な風景	고요한 풍경	No Overtime						0	DLC2.6纷愿绮梦系统相关文本
+level_name09	柔情烘焙	柔情烘焙	優しいベーキング	달콤한 베이킹 타임	Sweet Baking Time						0	DLC2.6纷愿绮梦系统相关文本
+level_name10	占运问愿	占運問願	占いで運命を問う	운세와 소원	Fortune's Blessing						0	DLC2.6纷愿绮梦系统相关文本
+level_name11	真理探寻	真理探尋	真理探究	진리 탐구	Truth Seeker						0	DLC3.2纷愿绮梦
+level_name12	独家表演	獨家表演	独占ステージ	특별 공연	Exclusive Show						0	DLC3.2纷愿绮梦
+level_name13	幽影之约	幽影之約	月影の契り	환영의 약속	Shadowy Invitation						0	DLC3.2纷愿绮梦
+level_name14	深海巡游	深海巡遊	深海の旅	심해 순찰	Sunken Safari						0	DLC3.2纷愿绮梦
+level_name15	遗迹探寻	遺跡探索	遺跡探索	유적 탐사	Relic Investigation						0	DLC3.2纷愿绮梦
+level_desc01	进入恩雅绘制的绘本世界，体验缤纷纯粹的日常	進入恩雅繪製的繪本世界，體驗繽紛純粹的日常	エンヤが描いた絵本の世界に飛び込み、素敵で純粋な日常を体験してみよう	엔야가 만든 그림책 세계로 들어가 다채롭고 순수한 일상을 체험해 보자!	Step into Enya's colorful world of illustrations and experience a vibrant, magical day.						0	DLC2.6纷愿绮梦系统相关文本
+level_desc02	把生活中遇到的坏情绪全都破坏掉吧	把生活中遇到的壞情緒全都破壞掉吧	日常生活で溜まった悪い気分を、すっきりと吹き飛ばそう	일상에서 마주치는 나쁜 감정들을 모두 없애자!	Let go of all the negativity weighing you down and embark on a journey toward peace.						0	DLC2.6纷愿绮梦系统相关文本
+level_desc03	与辰星一同在书海中畅游，记得注意防火	與辰星一起在書海中暢遊，記得注意防火	辰星と一緒に本の海を楽しもう。ただし、火の扱いには十分に注意してね	수성을 따라 서적의 바다를 자유롭게 탐험하며, 화재에 주의하자!	Embark on a fulfilling library adventure with Chenxing — just be mindful of fire hazards!						0	DLC2.6纷愿绮梦系统相关文本
+level_desc04	和妮塔船长一起探寻深埋在海湾的宝藏	和妮塔船長一起探尋深埋在海灣的寶藏	キャプテンニタと一緒に、沖に埋もれたお宝を探しに行こう	니타 선장과 함께 해변 속에 깊이 숨겨진 보물을 탐험해 보자!	Join Captain Nita on an exciting treasure hunt beneath the bay.						0	DLC2.6纷愿绮梦系统相关文本
+level_desc05	跟里芙一起并肩享受酣畅的作战练习	跟里芙一起並肩享受酣暢的作戰練習	リフと一緒に肩を並べて、爽快感溢れる作戦練習をしよう	리브와 함께 시원한 전투 훈련을 즐겨보자!	Train with Lyfe in the snow for exhilarating combat drills.						0	DLC2.6纷愿绮梦系统相关文本
+level_desc06	不如和安卡希雅再来一个通宵，把游戏通关吧	不如和安卡希雅再熬夜通宵一次，把遊戲通關吧	アカシアともう一晩夜更かしして、一緒にゲームをクリアしよう	아카시아와 함께 밤새 게임을 클리어하자!	Pull an all-nighter with Acacia and conquer the game together!						0	DLC2.6纷愿绮梦系统相关文本
+level_desc07	登上独属于你与芬妮的、最精彩的生活舞台	登上獨屬於你與芬妮的最精彩的生活舞台	あなたとファニーだけの素晴らしい生活を舞台に、今こそ一歩踏み出してみよう	페니만을 위해 가장 멋진 무대에 올라보자!	Take center stage for a dazzling performance — just for you and Fenny.						0	DLC2.6纷愿绮梦系统相关文本
+level_desc08	陪着肴一起战胜打工人最恐惧的终极反派	陪著肴一起戰勝上班族最恐懼的終極反派	肴と一緒に、社畜が最も恐れる究極の悪に立ち向かおう	야오와 함께 직장인들이 두려워하는 악당을 이겨내자!	Help Yao defeat the ultimate foe, the one dreaded by every hard-working soul.						0	DLC2.6纷愿绮梦系统相关文本
+level_desc09	为恩雅戴上围裙，一起制作节日蛋糕吧	為恩雅戴上圍裙，一起製作節日蛋糕吧	エンヤにエプロンをつけて、一緒に祝日のケーキを作ろう	엔야에게 앞치마를 입혀주고 함께 축제 케이크를 만들어 보자!	Help Enya tie her apron and bake a delicious cake together!						0	DLC2.6纷愿绮梦系统相关文本
+level_desc10	让卜卜再算上一卦，明天一定会更好的	讓卜卜再算上一卦，明天一定會更好的	ブブにもう一度占いをしてもらおう、明日こそきっとうまくいくはず	보보에게 다시 점을 치게 해 더 밝은 내일을 만들어 보자!	Let Bubu read your fortune once more — tomorrow is sure to be a brighter day!						0	DLC2.6纷愿绮梦系统相关文本
+level_desc11	与拥有天才大脑和完美身材的芙提雅老师一起进行发明创造	與擁有天才大腦和完美身材的芙提雅老師一起進行發明創造	天才的な頭脳と完璧なボディを持つフリティア先生と共に発明を行う	천재적인 두뇌와 완벽한 몸매의 소유자인 프티야 선생님과 함께 발명하고 창조했다.	Collaborate with the genius and stunning Professor Fritia on amazing inventions.						0	DLC3.2纷愿绮梦
+level_desc12	成为大魔术师苔丝的助手，展现出奇迹的逆转	成為大魔術師黛斯的助手，展現出奇蹟的逆轉	大マジシャン・テスの助手となり、奇跡の逆転を披露する	위대한 매지션 테스의 조수가 되어 기적의 반전을 선보인다.	Join Tess the Magician as her assistant and create wondrous miracles.						0	DLC3.2纷愿绮梦
+level_desc13	接受克罗瑞娜的邀约，在古堡中起舞	接受克羅瑞娜的邀約，在古堡起舞	クラウリナの招待を受け、月の下で共に踊る	클라리나의 초대를 받아 오래된 성에서 춤을 춘다.	Accept Clarina's invitation and dance in the ancient castle.						0	DLC3.2纷愿绮梦
+level_desc14	与瑟瑞斯一起潜入深海，接触多种多样的海洋生物	與瑟瑞斯一起潛入深海，接觸多樣化的海洋生物	シーリスと共に深海へ潜り、様々な海洋生物と出会う	세리스와 함께 심해에 잠수해 다양한 해양 생물을 만난다.	Dive into the deep sea with Siris and encounter a variety of marine life.						0	DLC3.2纷愿绮梦
+level_desc15	进入神秘的遗迹，和猫汐尔一同研究古代秘仪	進入神秘的遺跡，和貓汐爾一同研究古代秘器	謎の遺跡に入り、マーシルと共に古代の儀式を研究する	신비한 유적에 들어가 캣 시에라와 함께 고대의 비밀 의식을 연구한다.	Study enigmatic relics with Mauxir and uncover ancient rituals.						0	DLC3.2纷愿绮梦
+chall_name01	纷彩世界-上	紛彩世界-上	カラフル世界・上	화려한 세계-상	World of Pastels: Opening						0	DLC2.6纷愿绮梦系统相关文本
+chall_name02	纷彩世界-中	紛彩世界-中	カラフル世界・中	화려한 세계-중	World of Pastels: Journey						0	DLC2.6纷愿绮梦系统相关文本
+chall_name03	纷彩世界-下	紛彩世界-下	カラフル世界・下	화려한 세계-하	World of Pastels: Finale						0	DLC2.6纷愿绮梦系统相关文本
+chall_desc01	和少女们共同度过的每一天都是这本童话书中色彩缤纷的一页，一起迎接这一页的挑战吧	和少女們共同度過的每一天都是這本童話書中色彩繽紛的一頁，一起迎接這一頁的挑戰吧	少女たちと過ごした日々が、この絵本を彩る一ページとなる。一緒にそのページに挑むチャレンジを乗り越えよう	소녀들과 함께하는 매일은 이야기책의 화려한 한 페이지다. 함께 오늘의 도전을 진행해 보자!	Each day spent with the girls is a vibrant page in this storybook. Let's take on today's challenge together!						0	DLC2.6纷愿绮梦系统相关文本
+chall_desc02	和少女们共同度过的每一天都是这本童话书中色彩缤纷的一页，一起迎接这一页的挑战吧	和少女們共同度過的每一天都是這本童話書中色彩繽紛的一頁，一起迎接這一頁的挑戰吧	少女たちと過ごした日々が、この絵本を彩る一ページとなる。一緒にそのページに挑むチャレンジを乗り越えよう	소녀들과 함께하는 매일은 이야기책의 화려한 한 페이지다. 함께 오늘의 도전을 진행해 보자!	Each day spent with the girls is a vibrant page in this storybook. Let's take on today's challenge together!						0	DLC2.6纷愿绮梦系统相关文本
+chall_desc03	和少女们共同度过的每一天都是这本童话书中色彩缤纷的一页，一起迎接这一页的挑战吧	和少女們共同度過的每一天都是這本童話書中色彩繽紛的一頁，一起迎接這一頁的挑戰吧	少女たちと過ごした日々が、この絵本を彩る一ページとなる。一緒にそのページに挑むチャレンジを乗り越えよう	소녀들과 함께하는 매일은 이야기책의 화려한 한 페이지다. 함께 오늘의 도전을 진행해 보자!	Each day spent with the girls is a vibrant page in this storybook. Let's take on today's challenge together!						0	DLC2.6纷愿绮梦系统相关文本
+endless_name01	永恒绮梦	永恆綺夢	永久の夢	영원한 꿈의 풍경	Eternal Dreamscape						0	DLC2.6纷愿绮梦系统相关文本
+endless_desc01	有她们相伴的日子，胜过永恒延续的绮丽梦境	有她們相伴的日子，勝過永恆延續的綺麗夢境	少女たちが傍にいる日々は、永遠に続く美しい夢を超えて、もっと素晴らしい	소녀들과 나누는 순간들은 달콤하고 영원한 꿈보다도 아름답다.	The moments shared with the girls are more beautiful than even the sweetest, most everlasting dream.						0	DLC2.6纷愿绮梦系统相关文本
+coin_dreamtalent	潜质点	潛質點	才能ポイント	잠재력 점수	Potential Point						0	DLC2.6纷愿绮梦系统相关文本
+coin_dreamtalent_des	完成纷愿绮梦的不同关卡可以获得，代表着想象力和治愈力的潜质点，用于在 天赋 中进行升级	完成紛願綺夢的不同關卡可以獲得，代表著想象力和治癒力的潛質點，用於在 天賦 中進行升級	「夢の絵本」のステージをクリアすると獲得可能\n想像力と治癒力の象徴であり、「才能」のレベルアップに使用する。	다양한 '얽힌 소망과 꿈' 스테이지를 완료하면 상상력과 치유력을 대표하는 잠재력 점수를 얻을 수 있으며, 이를 통해 재능을 업그레이드할 수 있다.	Used to upgrade Talents.\nEarned through completing various stages of Paper Dreamland, these Potential Points represent imagination and healing energy.						0	DLC2.6纷愿绮梦系统相关文本
+coin_dreamtalent_use	纷愿绮梦专用道具	紛願綺夢專用道具	夢の絵本専用アイテム	얽힌 소망과 꿈 전용 아이템	Paper Dreamland item						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title01	涂色人间	塗色人間	人生の彩り	색채로 물든 세상	World of Colors						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title02	绮梦漫游	綺夢漫遊	夢見る旅	꿈속의 유영	Radiant Dreamscape						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title03	安逸日常	安逸日常	穏やかな日常	편안한 일상	Peaceful Day						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title04	贴心好礼	貼心好禮	心温まる贈り物	정성이 담긴 선물	Thoughtful Gifts						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title05	横扫困难	橫掃困難	困難を薙ぎ払う	난관 극복	Conquering Challenges						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title06	心灵之旅	心靈之旅	心の旅	마음의 여행	Journey of the Soul						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title07	与她共度的时光	與她共度的時光	彼女と過ごした日々	그녀와 함께하는 시간	Moments With Her						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title08	斑斓世界	斑斕世界	華やかな世界	다채로운 세계	Vibrant Realms						0	DLC2.6纷愿绮梦系统相关文本
+achieve_title09	织就美梦	織就美夢	夢を織り成す	아름다운 꿈	Dream Weaver						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des01	累计解锁%d个流派（需要获取该流派的全部棋子与礼物）	累計解鎖%d個流派（需要獲取該流派的全部棋子與禮物）	流派を累計%d解放する（その流派の全ての駒と贈り物を獲得する必要がある）	%d개 유형 누적 오픈하기(해당 유형의 모든 기물 및 선물 필요)	Unlock %d types by collecting all their pieces and gifts						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des02	在任意1局【纷愿绮梦】中，累计获得%d个棋子	在任意1局【紛願綺夢】中，累計獲得%d個棋子	任意の「夢の絵本」1ゲーム中に、駒を累計%d個獲得する	임의의 한 [얽힌 소망과 꿈] 게임에서 %d개의 기물 누적 획득하기	Collect %d pieces in a single Paper Dreamland game						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des03	在任意1局【纷愿绮梦】中，累计消耗%d个棋子	在任意1局【紛願綺夢】中，累計消耗%d個棋子	任意の「夢の絵本」1ゲーム中に、駒が累計%d個消滅する	임의의 한 [얽힌 소망과 꿈] 게임에서 기물을 누적 %d개 소모하기	Consume %d pieces in a single Paper Dreamland game						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des04	累计获得%d个4星棋子	累計獲得%d個4星棋子	星4の駒を累計%d個獲得する	%d개 Lv.4 기물 누적 획득하기	Collect %d Lv. 4 piece(s).						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des05	累计获得%d个4星礼物	累計獲得%d個4星禮物	星4の贈り物を累計%d個獲得する	%d개 Lv.4 선물 누적 획득하기	Collect %d Lv. 4 gift(s).						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des06	累计击败%d个敌人	累計擊敗%d個敵人	敵を累計%d体撃破する	%d명의 타깃 누적 격추하기	Defeat %d enemies						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des07	累计%d次将漫溯等级提升至4级	累計%d次將漫溯等級提升至4級	追憶LvをLv.4に累計%d回上げる	누적 %d회로 꿈의 흐름 레벨을 4레벨까지 향상시키기	Complete a total of %d times: Reach Dreamflow Lv. 4						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08	使用【心灵城堡】流派累计获得%d漫溯能量	使用【心靈城堡】流派累計獲得%d漫溯能量	【心のお城】流派を使用して追憶エネルギーを累計%d獲得する	[마음의 성] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Castle of Soul type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_2	使用【专属舞台】流派累计获得%d漫溯能量	使用【專屬舞台】流派累計獲得%d漫溯能量	【専用ステージ】流派を使用して追憶エネルギーを累計%d獲得する	[전용 무대] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Exclusive Stage type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_3	使用【电玩城】流派累计获得%d漫溯能量	使用【電玩城】流派累計獲得%d漫溯能量	【ゲーセン】流派を使用して追憶エネルギーを累計%d獲得する	[오락실] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Arcade type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_4	使用【藏书阁】流派累计获得%d漫溯能量	使用【藏書閣】流派累計獲得%d漫溯能量	【蔵書閣】流派を使用して追憶エネルギーを累計%d獲得する	[서재] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Library Hall type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_5	使用【宝藏海湾】流派累计获得%d漫溯能量	使用【寶藏海灣】流派累計獲得%d漫溯能量	【お宝の隠れた沖】流派を使用して追憶エネルギーを累計%d獲得する	[보물 해변] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Treasure Bay type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_6	使用【甜蜜小屋】流派累计获得%d漫溯能量	使用【甜蜜小屋】流派累計獲得%d漫溯能量	【スイートハウス】流派を使用して追憶エネルギーを累計%d獲得する	[사랑의 작은 집] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Cabin of Love type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_7	使用【悠风闲居】流派累计获得%d漫溯能量	使用【悠風閒居】流派累計獲得%d漫溯能量	【隠居処】流派を使用して追憶エネルギーを累計%d獲得する	[편안한 쉼터] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Cozy Retreat type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_8	使用【冰雪迷宫】流派累计获得%d漫溯能量	使用【冰雪迷宮】流派累計獲得%d漫溯能量	【氷霜の迷宮】流派を使用して追憶エネルギーを累計%d獲得する	[빙설 미로] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Snowfield Maze type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_9	使用【纳福小筑】流派累计获得%d漫溯能量	使用【納福小築】流派累計獲得%d漫溯能量	【福を招く家】流派を使用して追憶エネルギーを累計%d獲得する	[행운의 작은 집] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Fortune Hut type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_10	使用【天才造物】流派累计获得%d漫溯能量	使用【天才造物】流派累計獲得%d漫溯能量	【天才クリエイション】流派を使用して追憶エネルギーを累計%d獲得する	[천재의 창조물] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Marvelous Machina type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_11	使用【魔术剧场】流派累计获得%d漫溯能量	使用【魔術劇場】流派累計獲得%d漫溯能量	【マジックシアター】流派を使用して追憶エネルギーを累計%d獲得する	[마술 극장] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Magic Theater type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_12	使用【幽影古堡】流派累计获得%d漫溯能量	使用【幽影古堡】流派累計獲得%d漫溯能量	【月影の古城】流派を使用して追憶エネルギーを累計%d獲得する	[환영의 고성] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Shadowy Castle type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_13	使用【秘仪力量】流派累计获得%d漫溯能量	使用【秘器力量】流派累計獲得%d漫溯能量	【儀式の力】流派を使用して追憶エネルギーを累計%d獲得する	[비밀 의식의 힘] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Enigmatic Rituals type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des08_14	使用【缤纷海洋】流派累计获得%d漫溯能量	使用【繽紛海洋】流派累計獲得%d漫溯能量	【彩りの海】流派を使用して追憶エネルギーを累計%d獲得する	[화려한 바다] 유형을 사용해 %d 꿈의 흐름 에너지 누적 획득하기	Gain %d Dreamflow energy using the Vibrant Sea type						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des09	完成%d次任意纷彩世界关卡	完成%d次任意紛彩世界關卡	任意の「カラフル世界」ステージを%d回クリアする	임의의 화려한 세계 스테이지를 %d회 완료하기	Clear any World of Pastels stage %d time(s)						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des10	参与%d次永恒绮梦关卡	參與%d次永恆綺夢關卡	「永久の夢」ステージを%d回挑戦する	임의의 영원한 꿈의 풍경 스테이지에 %d회 참여하기	Participate in any Eternal Dreamscape stage %d time(s)						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des11	在任意纷彩世界关卡中，累计获得%d积分	在任意紛彩世界關卡中，累計獲得%d積分	任意の「カラフル世界」ステージで累計%dポイントを獲得する	임의의 화려한 세계 스테이지에서 %d 점수 누적 획득하기	Score a total of %d points in any World of Pastels stage						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des12	在永恒绮梦关卡中，最高积分达到%d	在永恆綺夢關卡中，最高積分達到%d	「永久の夢」ステージで最高ポイントが%dに達する	영원한 꿈의 풍경 스테이지에서 최고 점수 %d까지 도달하기	Achieve a highest score of %d in any Eternal Dreamscape stage						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des13	累计执行过%d次4星棋子的选棋	累計執行過%d次4星棋子的選棋	星4の駒を選択した回数が累計で%d回に達する	누적 %d회 Lv.4 기물 선택 실행하기	Select from Lv. 4 pieces %d time(s).						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des14	累计获得过%d个棋子	累計獲得過%d個棋子	駒を累計%d個獲得する	%d개의 기물을 누적 획득하기	Collect %d piece(s)						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des15	累计获得%d个礼物	累計獲得%d個禮物	贈り物を累計%d個獲得する	%d개의 선물을 누적 획득하기	Collect %d gift(s)						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des16	累计完成%d次任意关卡	累計完成%d次任意關卡	任意のステージを累計%d回クリアする	임의의 스테이지 %d회 누적 완료하기	Clear any stage %d time(s)						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des17	累计完成%d次任意纷彩世界关卡	累計完成%d次任意紛彩世界關卡	任意の「カラフル世界」ステージを累計%d回クリアする	임의의 화려한 세계 스테이지 %d회 누적 완료하기	Clear any World of Pastels stage %d time(s)						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des18	累计完成%d次永恒绮梦关卡	累計完成%d次永恆綺夢關卡	「永久の夢」ステージを累計%d回クリアする	영원한 꿈의 풍경 %d회 누적 완료하기	Clear any Eternal Dreamscape stage %d time(s)						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des19	在3个纷彩关卡中，累计最高积分达到%d	在3個紛彩關卡中，累計最高積分達到%d	3つの「カラフル世界」ステージの最高ポイントが累計%dに達する	3개의 화려한 세계 스테이지에서 누적 최고 점수 %d 도달하기	Achieve a highest score of %d in 3 different World of Pastels stages						0	DLC2.6纷愿绮梦系统相关文本
+achieve_des20	累计提升%d次漫溯等级	累計提升%d次漫溯等級	追憶Lvを累計で%d回レベルアップする	만회 레벨 %d회 누적 상승시키기	Increase Dreamflow level %d time(s)						0	DLC2.6纷愿绮梦系统相关文本
+build_name01	心灵城堡	心靈城堡	心のお城	마음의 성	Castle of the Soul						0	DLC2.6纷愿绮梦系统相关文本
+build_name02	专属舞台	專屬舞台	専用ステージ	전용 무대	Exclusive Stage						0	DLC2.6纷愿绮梦系统相关文本
+build_name03	电玩城	電玩城	ゲーセン	오락실	Arcade						0	DLC2.6纷愿绮梦系统相关文本
+build_name04	藏书阁	藏書閣	蔵書閣	서재	Library Hall						0	DLC2.6纷愿绮梦系统相关文本
+build_name05	宝藏海湾	寶藏海灣	お宝の隠れた沖	보물 해변	Treasure Bay						0	DLC2.6纷愿绮梦系统相关文本
+build_name06	甜蜜小屋	甜蜜小屋	スイートハウス	사랑의 작은 집	Cabin of Love						0	DLC2.6纷愿绮梦系统相关文本
+build_name07	悠风闲居	悠風閒居	隠居処	편안한 쉼터	Cozy Retreat						0	DLC2.6纷愿绮梦系统相关文本
+build_name08	冰雪迷宫	冰雪迷宮	氷霜の迷宮	빙설 미로	Snowfield Maze						0	DLC2.6纷愿绮梦系统相关文本
+build_name09	纳福小筑	納福小築	福を招く家	행운의 작은 집	Fortune Hut						0	DLC2.6纷愿绮梦系统相关文本
+build_name10	天才造物	天才造物	天才クリエイション	천재의 창조물	Marvelous Machina						0	DLC3.2纷愿绮梦
+build_name11	魔术剧场	魔術劇場	マジックシアター	마술 극장	Magic Theater						0	DLC3.2纷愿绮梦
+build_name12	幽影古堡	幽影古堡	月影の古城	환영의 고성	Shadowy Castle						0	DLC3.2纷愿绮梦
+build_name13	秘仪力量	秘器力量	儀式の力	비밀 의식의 힘	Enigmatic Rituals						0	DLC3.2纷愿绮梦
+build_name14	缤纷海洋	繽紛海洋	彩りの海	화려한 바다	Vibrant Sea						0	DLC3.2纷愿绮梦
+build_des01	漫溯能量获取稳定的流派，能与其他流派形成良好的配合	漫溯能量獲取穩定的流派，能與其他流派形成良好的配合	追憶エネルギーの獲得が安定し、他の流派とも相性が良い流派	꿈의 흐름 에너지 획득이 안정적인 유형으로, 다른 유형과 좋은 협력을 가질 수 있다.	Consistently generates Dreamflow energy and synergizes well with other types.						0	DLC3.2纷愿绮梦
+build_des02	擅长持续培养特定棋子的流派	擅長持續培養特定棋子的流派	特定の駒を継続的に育成することに特化した流派	특정 기물을 지속적으로 육성하는 데 능숙한 유형이다.	Excels at continuously nurturing specific pieces.						0	DLC3.2纷愿绮梦
+build_des03	使用游戏币驱动娱乐设施的流派	使用遊戲幣驅動娛樂設施的流派	メダルでアトラクションを動かす流派	게임 코인으로 오락 시설을 가동하는 유형이다.	Powers entertainment facilities with Arcade Tokens.						0	DLC3.2纷愿绮梦
+build_des04	使用笔墨不断修复古籍获得漫溯能量的流派	使用筆墨不斷修正古籍獲得漫溯能量的流派	筆で古書を修復し続け、追憶エネルギーを獲得する流派	붓과 먹으로 고서를 계속 복원해 꿈의 흐름 에너지를 획득하는 유형이다.	Restores ancient books with ink to gain Dreamflow energy.						0	DLC3.2纷愿绮梦
+build_des05	寻找宝藏，开启宝箱获取漫溯能量的流派	尋找寶藏，開啟寶箱獲取漫溯能量的流派	宝探しで宝箱を開け、追憶エネルギーを集める流派	보물을 찾고, 보물 상자를 열어 꿈의 흐름 에너지를 획득하는 유형이다.	Generates Dreamflow energy by finding treasure and opening chests.						0	DLC3.2纷愿绮梦
+build_des06	收集材料制作各类甜品获得漫溯能量的流派	收集材料製作各類甜點獲得漫溯能量的流派	素材を集めてデザートを作り、追憶エネルギーを稼ぐ流派	재료를 수집해 각종 디저트를 만들어 꿈의 흐름 에너지를 획득하는 유형이다.	Generates Dreamflow energy by collecting ingredients to make various desserts.						0	DLC3.2纷愿绮梦
+build_des07	千方百计准时下班，或者请假出去玩放松心情从而获取漫溯能量的流派	千方百計準時下班，或請假出去玩放鬆心情從而獲取漫溯能量的流派	定時退勤や有休で気分をリフレッシュし、追憶エネルギーを稼ぐ流派	어떻게든 정시 퇴근하거나 휴가를 내서 놀러 가 마음의 여유를 갖고 꿈의 흐름 에너지를 획득하는 유형이다.	Generates Dreamflow energy by clocking out on the dot or taking breaks to relax.						0	DLC3.2纷愿绮梦
+build_des08	培养枪械获取漫溯能量的流派，部分棋子即使不出现在场上也能获取漫溯能量	培養槍械獲取漫溯能量的流派，部分棋子即使不出現在場上也能獲取漫溯能量	銃器を育成して追憶エネルギーを稼ぐ流派。一部の駒は碁盤上に出ていなくても追憶エネルギーを獲得できる	총기를 육성해 꿈의 흐름 에너지를 획득하는 유형으로, 일부 기물은 전장에 없어도 꿈의 흐름 에너지를 획득할 수 있다.	Generates Dreamflow energy by cultivating firearms. Some pieces generate energy even off the board.						0	DLC3.2纷愿绮梦
+build_des09	培养占卜道具，不断进化获取漫溯能量的流派	培養占卜道具，不斷演化獲取漫溯能量的流派	占いアイテムを育成し、進化を重ねて追憶エネルギーを稼ぐ流派	점술 아이템을 육성하고 지속적으로 진화시켜 꿈의 흐름 에너지를 획득하는 유형이다.	Generates Dreamflow energy by cultivating fortune telling tools and constantly evolving.						0	DLC3.2纷愿绮梦
+build_des10	擅长运用能量为机械充能，并不断技术革新的流派	擅長運用能量為機械充能，並不斷技術革新的流派	機械にエネルギーをチャージし、技術改良を重ねる流派	에너지를 활용해 기계를 충전하고 지속적으로 기술 혁신을 이루는 유형이다.	Excels at recharging machines with Dreamflow energy and constant innovations.						0	DLC3.2纷愿绮梦
+build_des11	擅长使用魔术变化出各种道具的流派	擅長使用魔術變化出各種道具的流派	手品で多彩なアイテムを生み出す流派	마술을 통해 각종 아이템을 변화시키는 유형이다.	Excels at conjuring various tools and props with magic.						0	DLC3.2纷愿绮梦
+build_des12	擅长给对方施加迷惑效果，造成伤害的流派	擅長給對方施加迷惑效果，造成傷害的流派	相手を混乱させ、ダメージを与える流派	상대방에게 혼란 효과를 부여해 대미지를 주는 유형이다.	Excels at dealing damage by inflicting Confusion on enemies.						0	DLC3.2纷愿绮梦
+build_des13	擅长在风险和收益剧烈波动之间获取漫溯能量的流派	擅長在風險和收益劇烈波動之間獲取漫溯能量的流派	リスクとリターンの激しい変動の中で追憶エネルギーを獲得する流派	위험과 수익이 급격히 변동하는 동안 꿈의 흐름 에너지를 획득하는 유형이다.	Excels at generating Dreamflow by capitalizing on high-risk, high-reward mechanics.						0	DLC3.2纷愿绮梦
+build_des14	通过消除其他流派的棋子获得增益，然后逐渐失去增益的流派	透過消除其他流派的棋子來獲得增益，然後逐漸失去增益的流派	他流派の駒を消滅させることでバフを獲得するが、獲得したバフは徐々に失われていく流派	다른 유형의 기물을 제거해 버프를 획득한 후 점차 버프를 잃어가는 유형이다.	Gains powerful but temporary buffs by eliminating pieces of other types.						0	DLC3.2纷愿绮梦
+star_mes01	未损失生命	未損失生命	ノーダメージ	HP 손실 없이 전투 끝내기	Finish the game without losing HP.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes02	完成战斗时生命大于{1}	完成戰鬥時生命大於{1}	戦闘終了時、残りHPが{1}を超える	전투 완료 시 HP {1} 이상 달성하기	Finish the game with at least {1} HP.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes03	漫溯等级提升至{1}	漫溯等級提升至{1}	追憶LvをLv.{1}に上げる	꿈의 흐름 레벨 {1}까지 달성하기	Reach Dreamflow level {1}.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes04	完成战斗时漫溯能量大于{1}	完成戰鬥時漫溯能量大於{1}	戦闘終了時、追憶エネルギーが{1}を超える	전투 완료 시 꿈의 흐름 에너지 {1} 이상 달성하기	Finish the game with more than {1} Dreamflow energy.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes05	1局内，{1}个流派的棋子累计获得{2}漫溯能量	1局內，{1}個流派的棋子累計獲得{2}漫溯能量	1ゲーム中に、{1}個の流派の駒が追憶エネルギーを累計{2}獲得する	한 게임 내에서 {1}개 유형의 기물로 {2} 꿈의 흐름 에너지를 누적 획득하기	Use {1} type(s) of pieces to generate {2} Dreamflow energy in a single game.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes06	累计使用{1}流派获取{2}漫溯能量	累計使用{1}流派獲取{2}漫溯能量	{1}流派で追憶エネルギーを累計{2}獲得する	{1}개 유형을 사용해 {2} 꿈의 흐름 에너지를 누적 획득하기	Gain {2} Dreamflow energy using the {1} type.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes07	累计通过礼物生成{1}漫溯能量	累計透過禮物生成{1}漫溯能量	贈り物で追憶エネルギーを累計{1}生成する	선물을 통해 {1} 꿈의 흐름 에너지를 누적 생성하기	Generate a total of {1} Dreamflow energy through gifts.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes08	累计获得1个1回合生成{1}漫溯能量的棋子	累計獲得1個1回合生成{1}漫溯能量的棋子	1ターンに追憶エネルギーを{1}生成する駒を累計1個獲得する	1턴 동안 1개 획득하기 ({1} 꿈의 흐름 에너지 생성 기물)	Obtain 1 piece that generates {1} Dreamflow energy in 1 turn.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes09	累计获得{1}个1回合生成{2}漫溯能量的棋子	累計獲得{1}個1回合生成{2}漫溯能量的棋子	1ターンに追憶エネルギーを{2}生成する駒を累計{1}個獲得する	1턴 동안 누적 {1}개 획득하기({2} 꿈의 흐름 에너지 생성 기물)	Obtain {1} pieces that each generate {2} Dreamflow energy in 1 turn.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes10	累计获取{1}个{2}星棋子	累計獲得{1}個{2}星棋子	星{2}の駒を累計{1}個獲得する	누적 {1}개 획득하기(Lv.{2} 기물)	Collect {1} Lv. {2} piece(s).						0	DLC2.6纷愿绮梦系统相关文本
+star_mes11	累计获取{1}个{2}星礼物	累計獲得{1}個{2}星禮物	星{2}の贈り物を累計{1}個獲得する	누적 {1}개 획득하기(Lv.{2} 선물)	Collect {1} Lv. {2} gift(s).						0	DLC2.6纷愿绮梦系统相关文本
+star_mes12	完成战斗时列表中棋子数不超过{1}	完成戰鬥時列表中棋子數不超過{1}	戦闘終了時、駒リスト内の駒の数が{1}個未満	전투 종료 시 리스트에 있는 기물 수가 {1}개를 초과하지 않기	Finish the game with no more than {1} pieces on the list.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes13	累计消除{1}个{2}	累計消除{1}個{2}	消滅した{2}が累計で{1}個に達する	{1}개의 {2} 누적 소모하기	Consume {1} {2}.						0	DLC2.6纷愿绮梦系统相关文本
+star_mes14	累计进阶{1}个{2}	累計進階{1}個{2}	ランクアップした{2}が累計で{1}個に達する	{1}개의 {2} 누적 진급하기	Upgrade {1} {2}.						0	DLC2.6纷愿绮梦系统相关文本
+tag0	功能饮料	功能飲料	機能性飲料	기능 음료	Power Drink						0	DLC2.6纷愿绮梦系统相关文本
+tag1	装束	裝束	衣装	장비	Attire						0	DLC2.6纷愿绮梦系统相关文本
+tag2	音符	音符	音符	음표	Note						0	DLC2.6纷愿绮梦系统相关文本
+tag3	游乐	遊樂	遊楽	게임 카드	Playland						0	DLC2.6纷愿绮梦系统相关文本
+tag4	宝箱	寶箱	宝箱	보물 상자	Chest						0	DLC2.6纷愿绮梦系统相关文本
+tag5	探宝道具	探寶道具	お宝探しアイテム	보물 탐색 도구	Hunting Gear						0	DLC2.6纷愿绮梦系统相关文本
+tag6	宝藏	寶藏	お宝	보물	Treasure						0	DLC2.6纷愿绮梦系统相关文本
+tag7	电器	電器	電器	전기 도구	Appliance						0	DLC2.6纷愿绮梦系统相关文本
+tag8	天师	天師	天師	점술사	Geomancer						0	DLC2.6纷愿绮梦系统相关文本
+dreamlevel	漫溯等级	漫溯等級	追憶Lv	꿈의 흐름 레벨	Dreamflow Level						0	DLC2.6纷愿绮梦系统相关文本
+tips1	列表中礼物数量已达上限	列表中禮物數量已達上限	贈り物の数が上限に達しました	목록에 있는 선물의 수량이 최대치에 도달했습니다.	Reached gift limit in the list						0	DLC3.0纷愿绮梦系统相关文本
+tips2	列表中棋子数量已达上限	列表中棋子數量已達上限	駒の数が上限に達しました	목록에 있는 기물의 수량이 최대치에 도달했습니다.	Reached piece limit in the list						0	DLC3.0纷愿绮梦系统相关文本
+tips3	选棋次数已达上限	選棋次數已達上限	駒選択の回数が上限に達しました	기물 선택 횟수가 최대치에 도달했습니다.	Piece selection limit reached						0	DLC3.0纷愿绮梦系统相关文本
+tips4	跳过选礼	跳過選禮	贈り物選択をスキップ	선택 스킵하기	Skip gift						0	DLC3.0纷愿绮梦系统相关文本
+tips5	最多选择5种流派	最多選擇5種流派	流派は5つまで選べます	최대 5가지 유형 선택 가능	Select 5 types at most						0	DLC3.2纷愿绮梦
+tips6	敬请期待	敬請期待	お楽しみに	미오픈	Stay Tuned!						0	DLC3.2纷愿绮梦
+tips7	完成{1}难度{2}后少女会加入	完成{1}難度{2}後少女會加入	難易度{2}の「{1}」をクリアすると、少女が加入する	난이도 {1} 및 {2} 완료 후 소녀가 합류합니다.	Girls will join after completing {1} difficulty {2}.						0	DLC3.2纷愿绮梦
+tips8	当前漫溯能量已超过敌方，是否根据当前背包中的棋子连续进行漫朔直至本阶段结束？	當前漫溯能量已超過敵方，是否根據目前背包中的棋子連續進行漫朔直至本階段結束？	現在の追憶エネルギーは敵を上回っています。\n所持している駒に合わせて、フェーズ終了まで連続「追憶」を実行しますか？	현재 꿈의 흐름 에너지가 적군보다 높습니다. 현재 인벤토리의 기물로 이번 단계가 끝날 때까지 계속 꿈의 흐름을 진행하시겠습니까?	Your current Dreamflow energy exceeds the enemy's. Auto-progress with your current pieces and end this phase?						0	DLC3.2纷愿绮梦
+tips9	该棋子不可删除	該棋子不可刪除	削除不可	해당 기물은 삭제할 수 없습니다.	Cannot be removed.						0	DLC3.2纷愿绮梦
+tips10	总分榜	總分榜	ランキング	종합 점수 랭킹	Overall Rankings						0	DLC3.5纷愿绮梦
+txtactivity1	纷愿绮梦	紛願綺夢	夢の絵本	얽힌 소망과 꿈	Paper Dreamland						0	DLC3.2纷愿绮梦
+txtactivity2	纷愿绮梦已更新新流派玩法，新增少女陪伴和全新奖励，分析员快来看看吧！	紛願綺夢已更新新流派玩法，新增少女陪伴和全新獎勵，分析員快來看看吧！	「夢の絵本」に新しい内容が登場し、少女の付き添いと報酬が追加されました。今すぐチェックしましょう！	얽힌 소망과 꿈에 새로운 유형의 콘텐츠와 새로운 소녀, 새로운 보상이 업데이트되었습니다. 분석가님, 확인해 보세요!	Paper Dreamland Updated! Enjoy new types of playstyles, girl companions, and fresh rewards. Join the fun, Adjutant!						0	DLC3.2纷愿绮梦
+txtactivity3	【纷愿绮梦】是专属于分析员的策略绘本玩法。通过选棋组合激发不同流派的联动效果以获得漫溯能量。在少女们的相伴下击败怪物，绘制梦幻的绘本吧！	【紛願綺夢】是專屬於分析員的策略繪本玩法。透過選棋組合激發不同流派的聯動效果以獲得漫溯能量。在少女們的相伴下擊敗怪物，繪製夢幻的繪本吧！	これは分析員専属の戦略訓練用絵本。\n駒の組み合わせでさまざまな流派の連携効果を発動し、追憶エネルギーを獲得しよう。\n少女たちとともにモンスターを倒し、夢の絵本を描こう！	[얽힌 소망과 꿈]은 분석가님만의 전략 그림책 콘텐츠입니다. 분석가님은 기물 조합을 선택하여 다양한 유형의 연계 효과를 활성화하고 꿈의 흐름 에너지를 얻으실 수 있습니다. 소녀들과 함께 몬스터를 처치하고 나만의 그림책을 그려 보세요!	Paper Dreamland is a strategy picture-book gameplay exclusively for the Adjutant. Combine different pieces to trigger unique combos and earn Dreamflow Energy. Defeat monsters alongside the girls and create a dreamlike picture book!						0	纷愿绮梦常驻
+txtactivity4	纷愿绮梦已更新关卡，新增难度3关卡，并在永恒绮梦中加入流派排行榜。更多少女也将加入相伴通关，并新增全新奖励，分析员快来看看吧！	紛願綺夢已更新關卡，新增難度3關卡，並在永恆綺夢中加入流派排行榜。更多少女也將加入相伴通關，並新增全新獎勵，分析員快來看看吧！	「夢の絵本」ステージ更新！難易度が上がって挑戦性が増したほか、「永久の夢」にも流派ランキングを追加しました。付き添いの少女も増えて、報酬も新たに増加しました！今すぐチェックしましょう！	얽힌 소망과 꿈 스테이지 업데이트! 난이도3 스테이지가 신규 추가되며, 영원한 꿈의 풍경에 유형 랭킹이 추가됩니다. 또한 더 많은 소녀와 함께 스테이지를 즐길 수 있으며, 최신 보상도 추가됩니다. 분석가님, 지금 바로 확인해 보세요!	Paper Dreamland has been updated with a new level 3 difficulty stage and leaderboards for types in Eternal Dreamscape. More girls will join the companion gameplay, along with brand-new rewards. Adjutant, come check it out!						0	DLC3.5纷愿绮梦
+txtactivity5	新增奖励	新增獎勵	追加報酬	신규 보상	New Rewards						0	DLC3.5纷愿绮梦
+lines_fenni1	有达令在，我就能不断变强！	有達令在，我就能不斷變強！	ダーリンさえいれば、もっともっと強くなってみせるわ！	달링이 있으면 난 계속 강해질 거야!	With my darling here, I'm unstoppable!						0	DLC3.2纷愿绮梦
+lines_fenni2	一起前进吧！	一起前進吧！	一緒に進みましょ！	같이 나아가자!	Let's keep it rolling!						0	DLC3.2纷愿绮梦
+lines_fenni3	再接再厉！	再接再厲！	もう少し頑張って！	더 분발하자!	Keep it up!						0	DLC3.2纷愿绮梦
+lines_fenni4	完美，不愧是达令！	完美，不愧是達令！	素晴らしいわ！さすがダーリンね！	완벽해, 역시 달링이야!	Perfect! Knew you'd nail it, darling!						0	DLC3.2纷愿绮梦
+lines_fenni5	这点小问题可难不倒我们！	這點小問題可難不倒我們！	こんくらいでつまずくあたし達じゃないわ！	이 정도쯤이야 우리한텐 문제도 아니지!	Just a hiccup — no big deal!						0	DLC3.2纷愿绮梦
+lines_fenni6	闪闪发光，正适合本小姐！	閃閃發光，正適合本小姐！	キラキラであたしにぴったりね！	반짝반짝 빛나는 게, 딱 내 스타일이야!	Oooh, so sparkly... No less than what I deserve.						0	DLC3.2纷愿绮梦
+lines_fenni7	别心急，认真思考一下吧。	別心急，認真思考一下吧。	焦らず、じっくり慎重にね。	서두르지 말고 차분히 생각해 보자.	No rush — take a moment to think it through.						0	DLC3.2纷愿绮梦
+lines_futiya1	嗯嗯，成功率增加了！	嗯嗯，成功率增加了！	よし！成功率がアップしたよ。	응응, 성공률이 올라갔어!	Nice — our odds of success just went up!						0	DLC3.2纷愿绮梦
+lines_futiya2	通往胜利的道路，畅通无阻！	通往勝利的道路，暢通無阻！	これで勝ったも同然だね！	승리로 통하는 길은 활짝 열렸다구!	The path to victory's all clear!						0	DLC3.2纷愿绮梦
+lines_futiya3	胜利的方程式，芙提雅老师已经想出来了！	勝利的方程式，芙提雅老師已經想出來了！	フリティア先生、勝利の方程式がわかったよ！	승리의 공식은 이 프티야 선생님이 이미 생각해 냈어!	I've already cracked the equation for victory~!						0	DLC3.2纷愿绮梦
+lines_futiya4	对分析员来说，就是小菜一碟吧，嘿嘿~	對分析員來，就是小菜一碟吧，嘿嘿~	分析員にかかれば、こんなの朝飯前だね、へへっ。	분석가한테는 식은 죽 먹기지? 헤헤~	That must've been a piece of cake for you, Adjutant~						0	DLC3.2纷愿绮梦
+lines_futiya5	只是一些小误差，没问题的。	只是一些小誤差，沒問題的。	ちょっとした誤差だから大丈夫…だと思う。	작은 오차일 뿐이야, 문제없어.	Just a minor miscalculation — totally fixable.						0	DLC3.2纷愿绮梦
+lines_futiya6	尤里卡！	尤里卡！	エウレカッ！	유레카!	Eureka!						0	DLC3.2纷愿绮梦
+lines_futiya7	适当的休息，也是很有必要的。	適當的休息，也是很有必要的。	適度な休憩は必要不可欠なんだよ。	적절한 휴식도 꼭 필요한 법이지.	Even brainiacs need a break sometimes~						0	DLC3.2纷愿绮梦
+lines_taisi1	这就是努力之后的奖励吧？	這就是努力之後的獎勵吧？	頑張った人へのご褒美ってやつかな？	이게 바로 노력의 보상인가요?	Looks like all that hard work's paid off!						0	DLC3.2纷愿绮梦
+lines_taisi2	一起准备下一场演出吧！	一起準備下一場演出吧！	次のショーに備えよ♪	같이 다음 공연을 준비해 봐요!	Let's get ready for the next show!						0	DLC3.2纷愿绮梦
+lines_taisi3	魔术的奇迹，可还远远不止如此！	魔術的奇蹟，可還遠遠不止如此！	マジックの奇跡は、まだまだ終わらない！	마술의 기적은 아직 시작에 불과해요!	The wonders of magic are only just getting started!						0	DLC3.2纷愿绮梦
+lines_taisi4	又从亲爱的这里，学到了不少东西呢~	又從親愛的這裡，學到不少東西呢~	今回もハニーからいろんなことを教えてもらったね。	자기한테서 또 많이 배웠는걸요~	Learned another trick from you, honey~						0	DLC3.2纷愿绮梦
+lines_taisi5	下次一定没问题！	下次一定沒問題！	今度こそ大丈夫っ！	다음에는 잘할 수 있을 거예요!	We'll nail it next time!						0	DLC3.2纷愿绮梦
+lines_taisi6	这是接下来要用到的关键道具~	這是接下來要用到的關鍵道具~	これから必須になる、大事なアイテムだね！	곧 쓰이게 될 중요한 아이템이네요~	This'll definitely come in handy later~						0	DLC3.2纷愿绮梦
+lines_taisi7	亲爱的？啾（亲一下），打起精神来吧~	親愛的？啾，打起精神來吧~	ハニー？チュッ、元気だしてね！	자기야? 쪽(입맞춤), 정신 차려 봐요~	Honey? Mwah~! That should wake you up~						0	DLC3.2纷愿绮梦
+lines_keluo1	力量，逐渐汇聚起来了。	力量，逐漸匯聚起來了。	力が…集まってきたわ。	힘이 점점 모여들고 있어.	Power gathers like moonlight.						0	DLC3.2纷愿绮梦
+lines_keluo2	优雅地前进吧~	優雅地前進吧~	進みましょう、エレガントに。	우아하게 가볼까~	Advance with grace.						0	DLC3.2纷愿绮梦
+lines_keluo3	只要有你在，我什么都能做到。	只要有你在，我什麼都能做到。	貴方がいれば、なんでもできるわ。	너와 함께라면, 난 뭐든 해낼 수 있어.	With you here, I feel like I can do anything.						0	DLC3.2纷愿绮梦
+lines_keluo4	果然，分析员已经算到这一步了吗？	果然，分析員已經算到這一步了嗎？	やっぱり、分析員さんは何手も先を読んでいるのよね。	역시, 분석가는 이미 여기까지 내다봤구나?	Adjutant, did you foresee even this?						0	DLC3.2纷愿绮梦
+lines_keluo5	有些棘手，不过你肯定没问题吧？	有些棘手，不過你肯定沒問題吧？	少し手ごわいけど、貴方なら大丈夫でしょう。	좀 까다롭긴 한데, 너라면 분명 해낼 수 있겠지?	A bit tricky, but I know you'll find a way.						0	DLC3.2纷愿绮梦
+lines_keluo6	不错的宝物，得好好利用起来~	不錯的寶物，得好好利用起來~	素敵なお宝ね。大事に使わせてもらうわ。	괜찮은 보물이네. 잘 활용해야겠어~	A treasure~ Let's put it to good use.						0	DLC3.2纷愿绮梦
+lines_keluo7	趁现在，让我多盯着你看一会儿吧。	趁現在，讓我多盯著你看一會吧。	今のうちに、貴方をたくさん見ておきたいわね。	이 틈을 타서, 널 좀 더 눈에 담을 수 있게 해줘.	You're unoccupied, perfect. Let me take a good look at you.						0	DLC3.2纷愿绮梦
+lines_maoxier1	升级完成喵。	升級完成喵。	レベルアップだニャン。	레벨업 완료다.	Upgrade complete, nya.						0	DLC3.2纷愿绮梦
+lines_maoxier2	还不能停下喵。	還不能停下喵。	まだ止まっちゃダメだニャン。	아직 멈출 수 없다.	Not done yet, nya!						0	DLC3.2纷愿绮梦
+lines_maoxier3	继续前进喵。	繼續前進喵。	引き続き進むニャン。	계속 전진하자냥.	Let's keep going, nya!						0	DLC3.2纷愿绮梦
+lines_maoxier4	分析员好厉害，奖励摸摸头喵。	分析員好厲害，獎勵摸摸頭喵。	分析員、スゴい。ご褒美にナデナデしてあげるニャン。	분석가, 대단하다. 보상은 쓰다듬기다냥.	Good job, Adjutant! You've earned some headpats, nya!						0	DLC3.2纷愿绮梦
+lines_maoxier5	唔喵，需要调整策略喵。	唔喵，需要調整策略喵。	ウニャ、作戦を変えないとニャン。	으냥, 전략을 수정해야겠다.	Nya... we might need a new plan.						0	DLC3.2纷愿绮梦
+lines_maoxier6	拿到了很有意思的东西喵。	拿到了很有意思的東西喵。	おもしろいものを手に入れたニャン。	재미있는 걸 손에 넣었다냥.	This one looks super fun, nya.						0	DLC3.2纷愿绮梦
+lines_maoxier7	分析员，要一起睡午觉喵？	分析員，要一起睡午覺喵？	分析員、一緒にお昼寝しないニャン？	분석가, 같이 낮잠 잘까냥?	Adjutant, want to take a catnap with me, nya?						0	DLC3.2纷愿绮梦
+lines_seruisi1	继续变强吧！	繼續變強吧！	もっと強くなろー！	계속 강해져요!	Keep getting stronger!						0	DLC3.2纷愿绮梦
+lines_seruisi2	小金鱼出击！	小金魚出擊！	グッピー、進むよっ！	골드피시 출격!	Here comes the Goldfish!						0	DLC3.2纷愿绮梦
+lines_seruisi3	冲呀冲呀！	衝呀衝呀！	いけいけー！	앞으로, 돌격!	Go, go, go!						0	DLC3.2纷愿绮梦
+lines_seruisi4	与分析员的珍贵回忆，又增加了！	與分析員的珍貴回憶，又增加了！	分析員との思い出がまた増えたね！	분석가님과의 소중한 추억이 또 하나 늘었어요!	Another precious moment with you, Adjutant!						0	DLC3.2纷愿绮梦
+lines_seruisi5	没关系的，我相信分析员！	沒關係的，我相信分析員！	大丈夫！分析員のことは100%信じてるから！	괜찮아요. 저는 분석가님을 믿으니까요!	It's okay, I have faith in you, Adjutant!						0	DLC3.2纷愿绮梦
+lines_seruisi6	哇！这个看起来很不错呢！	哇！這個看起來很不錯呢！	うおぉー！めっちゃよさそうじゃないこれ！	와! 이거 꽤 좋아 보이네요!	Wow! This one looks really nice!						0	DLC3.2纷愿绮梦
+lines_seruisi7	分析员偶尔也会发呆吗？	分析員偶爾也會發呆嗎？	やっぱり分析員もぼーっとしたりするの？	분석가님도 가끔 멍하니 있을 때가 있나요?	Do you daydream too, Adjutant?						0	DLC3.2纷愿绮梦
+lines_anka1	升级，变强，最后打倒魔王！	升級，變強，最後打倒魔王！	レベル上げて、強くなって、魔王を倒そう！	레벨업하고 강해져서 마지막에 마왕을 쓰러트리는 거야!	Level up, power up, then crush that boss!						0	DLC3.5纷愿绮梦
+lines_anka2	胜利，近在眼前咯。	勝利，近在眼前咯。	勝利はすぐそこだよ。	승리가 바로 눈앞이야.	Victory's almost in our hands.						0	DLC3.5纷愿绮梦
+lines_anka3	轻轻松松啦。	輕輕鬆鬆啦。	こんなの楽勝だね。	이 정도쯤이야.	Easy peasy for mesy~						0	DLC3.5纷愿绮梦
+lines_anka4	亲爱的，我们果然是最佳拍档，对吧？	親愛的，我們果然是最佳拍檔，對吧？	やっぱり私たちは最強のコンビだね、あなた。	자기야, 우린 역시 최고의 파트너야, 그렇지?	Told you! When it's you and me, it's a guaranteed win, darling~						0	DLC3.5纷愿绮梦
+lines_anka5	嗯……要是能读档回去就好了。	嗯……要是能讀檔回去就好了。	うーん……セーブ・ロードができればよかったのにね。	음… 세이브 파일로 돌아갈 수 있다면 좋을 텐데.	Mm... wish we could just reload a save and redo that one.						0	DLC3.5纷愿绮梦
+lines_anka6	传说级的道具，亲爱的可要好好利用。	傳說級的道具，親愛的可要好好利用。	あなた、伝説のアイテムだよ。大事に使って。	전설급 아이템이야. 자기야, 잘 활용해야 해.	Now that's a legendary drop. Use it well, darling.						0	DLC3.5纷愿绮梦
+lines_anka7	还好可以随时暂停。	還好可以隨時暫停。	一時停止できてよかったね。	언제든 멈출 수 있어서 다행이야.	Good thing we can pause whenever we want.						0	DLC3.5纷愿绮梦
+lines_yao1	一点一点积累，总会有回报的。	一點一點積累，總會有回報的。	ちりつも精神でいけば、いつかちゃんと報われるよ。	차근차근 쌓다 보면, 언젠가 보상이 있을 거야.	Slow and steady... it always pays off eventually.						0	DLC3.5纷愿绮梦
+lines_yao2	稍微有些干劲了。	稍微有些幹勁了。	ちょっとやる気、出てきたかも。	의욕이 조금 생겼어.	Mm... I'm actually getting a bit fired up.						0	DLC3.5纷愿绮梦
+lines_yao3	一口气全部解决吧。	一口氣全部解決吧。	このまま一気に片づけちゃおうっと。	단숨에 전부 해치워 버리자.	Let's wrap it all up in one go.						0	DLC3.5纷愿绮梦
+lines_yao4	果然，郎君无论做什么都这么可靠。	果然，郎君無論做什麼都這麼可靠。	やっぱり、旦那は頼もしい～。	역시 낭군은 뭘 해도 믿음직스러워.	My Prince... you're reliable no matter what~						0	DLC3.5纷愿绮梦
+lines_yao5	小问题，下次一定能成功！	小問題，下次一定能成功！	このくらい誤差だよ。次はちゃんと決まるさ。	별거 아냐. 다음엔 꼭 성공할 수 있을 거야!	Just a small hiccup. We'll get it next time~						0	DLC3.5纷愿绮梦
+lines_yao6	用这个的话，可以省下不少力气吧？	用這個的話，可以省下不少力氣吧？	これ使えば、だいぶ楽できるんじゃない？	이걸 쓰면 힘을 꽤 아낄 수 있겠지?	This thing saves us a ton of hassle, huh?						0	DLC3.5纷愿绮梦
+lines_yao7	要眯一会吗？我的腿可一直为你留着~	要瞇一會嗎？我的腿可一直為你留著~	少し寝る？ちょっと膝が寂しいな。	잠깐 눈 좀 붙일래? 내 무릎은 항상 너를 위해 남겨뒀어~	Sleepy? Come here... my lap's all yours~						0	DLC3.5纷愿绮梦
+lines_chenxing1	如此，万事俱备。	如此，萬事俱備。	これで手はずは整いましたね。	이로써, 모든 준비가 완료되었습니다.	All preparations are complete.						0	DLC3.5纷愿绮梦
+lines_chenxing2	正中靶心的一击。	正中靶心的一擊。	鋭い一手です。	정곡을 찌르는 일격.	A clean, precise strike.						0	DLC3.5纷愿绮梦
+lines_chenxing3	如同预期的那样。	如同預期的那樣。	ええ、想定どおりです。	예상한 대로예요.	As anticipated.						0	DLC3.5纷愿绮梦
+lines_chenxing4	郎君的谋略，总是这么完美。	郎君的謀略，總是這麼完美。	さすがあなた。いつも完璧な作戦ですね。	낭군님의 전략은 언제나 완벽하네요.	Your strategy is impeccable as always, My Prince.						0	DLC3.5纷愿绮梦
+lines_chenxing5	没关系的，重整旗鼓便好。	沒關係的，重整旗鼓便好。	大丈夫です。立て直せばいいだけの話ですよ。	괜찮아요, 재정비하면 돼요.	It's all right. We can always start afresh.						0	DLC3.5纷愿绮梦
+lines_chenxing6	如虎添翼。	如虎添翼。	虎に翼ですね。	호랑이에게 날개를 단 격이네요.	A helpful boost to our strength.						0	DLC3.5纷愿绮梦
+lines_chenxing7	能够达成郎君的期待，我很开心。	能夠達成郎君的期待，我很開心。	あなたの期待に応えられて、本当に嬉しいです。	낭군님의 기대에 부응할 수 있어서 너무 기뻐요.	I'm glad to have lived up to your expectations, My Prince.						0	DLC3.5纷愿绮梦
+lines_nita1	积蓄更多的力量吧！	積蓄更多的力量吧！	もっと力、ためていこーぜ！	힘을 더 많이 비축하자!	Let's crank it up even more!						0	DLC3.5纷愿绮梦
+lines_nita2	势不可挡！	勢不可擋！	まだまだ勢い止まんない！	거침없는 기세!	We're unstoppable!						0	DLC3.5纷愿绮梦
+lines_nita3	这是属于我和分析员的胜利！	這是屬於我和分析員的勝利！	私たち二人の勝利だね。	나와 분석가의 승리야!	This one's ours!						0	DLC3.5纷愿绮梦
+lines_nita4	无论何时，我都会为分析员开辟道路！	無論何時，我都會為分析員開闢道路！	いつだって、道を切り開いてみせるからさ！	언제든지 분석가를 위해 길을 열어줄게!	No matter where we go, I'll be the one charging up front for you!						0	DLC3.5纷愿绮梦
+lines_nita5	挫折，是无法阻挡我们的。	挫折，是無法阻擋我們的。	こんくらいで挫けるような私たちじゃないだろ。	좌절 따위는 우리를 막을 수 없어.	Nothing's slowing us down!						0	DLC3.5纷愿绮梦
+lines_nita6	哇，这是好东西吧？	哇，這是好東西吧？	うわ、これってアタリ？	와, 이거 좋은 거지?	Whoa—! Now that's some good loot!						0	DLC3.5纷愿绮梦
+lines_nita7	这种时候，确实需要好好思考一下。	這種時候，確實需要好好思考一下。	こんな時ほど落ち着かなきゃダメだね。	이럴 땐 잘 생각해 보는 게 맞아.	Okay... we really gotta think this through.						0	DLC3.5纷愿绮梦
+lines_lifu1	充足的准备是胜利的前提。	充足的準備是勝利的前提。	備えあれば、憂いなしだ。	충분한 준비는 승리에 필요한 전제조건이지.	Thorough preparation is the key to victory.						0	DLC3.5纷愿绮梦
+lines_lifu2	我相信你的判断。	我相信你的判斷。	あなたの判断を信じる。	난 너의 판단을 믿어.	You have good judgment.						0	DLC3.5纷愿绮梦
+lines_lifu3	我们又一次成功了。	我們又一次成功了。	また一つ、成功だな。	우리가 또 한 번 해냈네.	Once again... we made it.						0	DLC3.5纷愿绮梦
+lines_lifu4	一击制敌，理应如此。	一擊制敵，理應如此。	一撃で仕留める。そうあるべきだ。	한 번에 처리한다, 당연히 이래야지.	One strike was enough... just as it should be.						0	DLC3.5纷愿绮梦
+lines_lifu5	小小的挫折，不算什么。	小小的挫折，不算什麼。	些細な事だ。気にするな。	약간의 좌절쯤은 아무것도 아니야.	A minor setback... nothing we can't handle.						0	DLC3.5纷愿绮梦
+lines_lifu6	似乎是不错的道具，就交给亲爱的使用吧。	似乎是不錯的道具，就交給親愛的使用吧。	悪くないアイテムだ。あなた、処置は任せた。	괜찮은 아이템 같은데, 자기한테 맡길게.	This looks useful... it's better in your hands, darling.						0	DLC3.5纷愿绮梦
+lines_lifu7	亲爱的，不用担心，我会一直陪在你的身边。	親愛的，不用擔心，我會一直陪在你的身邊。	あなた、心配しないで。ずっとそばにいるから。	걱정하지 마, 자기야. 내가 항상 곁에 있을게.	Don't worry, darling... I'm right here.						0	DLC3.5纷愿绮梦
+lines_bubu1	顺风顺水，财运亨通！	順風順水，財運亨通！	順風満帆、金運上昇！	순풍에 돛을 달고, 재물운도 대박 나길!	Auspicious winds at our back. Money's rolling in!						0	DLC3.5纷愿绮梦
+lines_bubu2	分析员真厉害！	分析員真厲害！	分析員すごーい！	분석가 정말 대단해!	Adjutant, you're awesome!						0	DLC3.5纷愿绮梦
+lines_bubu3	有什么问题，就交给卜卜我吧！	有什麼問題，就交給卜卜我吧！	何かあったら、このブブにお任せあれ！	문제가 있으면, 이 보보한테 맡겨!	Got trouble? I'll take care of it!						0	DLC3.5纷愿绮梦
+lines_bubu4	大功告成！	大功告成！	よーし、大仕事完了って感じだね。	대성공!	We did it!						0	DLC3.5纷愿绮梦
+lines_bubu5	时来运转，下次肯定能赢！	時來運轉，下次肯定能贏！	そろそろツキが回ってくるはず！次はぜったい勝てるよ。	때가 되면 운이 다시 돌아오는 법, 다음엔 꼭 이길 수 있을 거야!	Luck's turning our way. Next one's ours!						0	DLC3.5纷愿绮梦
+lines_bubu6	直觉告诉我，这一定是制胜法宝！	直覺告訴我，這一定是制勝法寶！	天師のカンだとね、これ絶対に勝ち筋アイテムだよ。	내 직감이 말해주고 있어, 이건 비장의 무기라고!	My instincts say this is our lucky charm!						0	DLC3.5纷愿绮梦
+lines_bubu7	劳逸结合，休息好了再前进吧。	勞逸結合，休息好了再前進吧。	ちゃんと休んでから進も？効率よく行くのが一番でしょ。	적절한 휴식도 중요해. 푹 쉬고 다시 나아가자.	Let's take a breather and recharge our luck~						0	DLC3.5纷愿绮梦
+lines_enya1	继续变强吧~	繼續變強吧~	どんどん強くなっていきましょう。	계속 강해지자~	Keep getting stronger!						0	DLC3.5纷愿绮梦
+lines_enya2	对我们来说，构不成威胁。	對我們來說，構不成威脅。	問題はなさそうですね。	우리에겐 전혀 위협이 되지 않아.	It's barely a threat.						0	DLC3.5纷愿绮梦
+lines_enya3	就这样前进吧~	就這樣前進吧~	この調子でいきましょう。	이대로 쭉 나아가자~	Keep going just like this!						0	DLC3.5纷愿绮梦
+lines_enya4	分析员真棒，来抱一下吧~	分析員真棒，來抱一下吧~	よくできました！ハグしてあげますね。	분석가 최고! 안아줄게~	Nice job, Adjutant! Come here. Give me a hug~						0	DLC3.5纷愿绮梦
+lines_enya5	这点小问题，就交给姐姐我吧。	這點小問題，就交給姐姐我吧。	お姉さんがパパッとやっておきますね。	이런 사소한 일은 이 누님한테 맡겨.	That's easy. You can count on me~						0	DLC3.5纷愿绮梦
+lines_enya6	要如何使用它呢，哥哥大人？	要如何使用它呢，哥哥大人？	使い方は決めましたか、「お兄さま」？	어떻게 쓰는 거야, 오라버니?	So, how do you want to use it, Big Bro~						0	DLC3.5纷愿绮梦
+lines_enya7	在姐姐的怀里，想睡多久都没关系哦~	在姐姐的懷裡，想睡多久都沒關係哦~	お姉さんの腕の中で、気が済むまで寝ましょうね。	누님 품에서 얼마든지 자도 돼~	You can sleep in my arms as long as you want~						0	DLC3.5纷愿绮梦
+rolename1	芬妮-基地	芬妮-基地	ファニー-社員寮	페니-숙소	Fenny - Base						0	DLC3.5纷愿绮梦
+rolename2	芙提雅-基地	芙提雅-基地	フリティア-社員寮	프티야-숙소	Fritia - Base						0	DLC3.5纷愿绮梦
+rolename3	苔丝-基地	黛斯-基地	テス-社員寮	테스-숙소	Tess - Base						0	DLC3.5纷愿绮梦
+rolename4	克罗瑞娜-基地	克羅瑞娜-基地	クラウリナ-社員寮	클라리나-숙소	Clarina - Base						0	DLC3.5纷愿绮梦
+rolename5	猫汐尔-基地	貓汐爾-基地	マーシル-社員寮	캣 시에라-숙소	Mauxir - Base						0	DLC3.5纷愿绮梦
+rolename6	瑟瑞斯-基地	瑟瑞斯-基地	シーリス-社員寮	세리스-숙소	Siris - Base						0	DLC3.5纷愿绮梦
+rolename7	安卡希雅-基地	安卡希雅-基地	アカシア-社員寮	아카시아-숙소	Acacia - Base						0	DLC3.5纷愿绮梦
+rolename8	肴-基地	肴-基地	肴-社員寮	야오-숙소	Yao - Base						0	DLC3.5纷愿绮梦
+rolename9	辰星-基地	辰星-基地	辰星-社員寮	수성-숙소	Chenxing - Base						0	DLC3.5纷愿绮梦
+rolename10	妮塔-基地	妮塔-基地	ニタ-社員寮	니타-숙소	Nita - Base						0	DLC3.5纷愿绮梦
+rolename11	里芙-基地	里芙-基地	リフ-社員寮	리브-숙소	Lyfe - Base						0	DLC3.5纷愿绮梦
+rolename12	卜卜-基地	卜卜-基地	ブブ-社員寮	보보-숙소	Bubu - Base						0	DLC3.5纷愿绮梦
+rolename13	恩雅-基地	恩雅-基地	エンヤ-社員寮	엔야-숙소	Enya - Base						0	DLC3.5纷愿绮梦
+dreamcard_ui1	心选流派获得的能量提升为{1}倍	心選流派獲得的能量提升為{1}倍	真心流派の追憶エネルギー生成量が{1}倍になる	우위 유형이 획득하는 에너지가 {1}배로 증가한다.	Your selected type's Energy bonus is increased to {1}×.						0	DLC3.5纷愿绮梦
+technicalterm1	充能：部分棋子可以接受特定棋子充能来触发棋子特殊效果	充能：部分棋子可以接受特定棋子充能來觸發棋子特殊效果	チャージ：一部の駒は、他の特定の駒からチャージを受けることで特殊効果を発動できる	충전: 일부 기물은 특정 기물의 충전을 받아 기물의 특수 효과를 발동할 수 있다.	Recharge: Some pieces can be recharged by specific pieces to trigger special effects.						0	DLC3.5纷愿绮梦
+technicalterm2	迷惑：对敌人施加迷惑后，每次前进将根据迷惑的层数扣除敌人的生命	迷惑：對敵人施加迷惑後，每次前進將根據迷惑的層數扣除敵人的生命	混乱：混乱を付与された敵は、前進の度にHPが減少（減少量は混乱のスタックによる）	혼란: 적에게 혼란을 부여한 후 전진할 때마다 혼란 스택 수에 따라 적의 HP가 차감된다.	Confusion: Enemy with Confusion will lose HP based on the stacks on each advance.						0	DLC3.5纷愿绮梦

@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	清晨，悠扬的小提琴声从芬妮的房间传出。	清晨，悠揚的小提琴聲從芬妮的房間傳出。	早朝、ファニーの部屋からヴァイオリンの音色が聞こえてきた。	이른 아침, 페니의 방에서 아름다운 바이올린 소리가 흘러나왔다.	In the early morning, I heard the mellow sound of a violin come from Fenny's room.						0	3.5版本随机剧情
+page1.2	芬妮每周这个时候都会练习小提琴吗？	芬妮每週這個時候都會練習小提琴嗎？	ファニーは毎週この時間にヴァイオリンの練習をしているのか？	페니는 매주 이 시간에 바이올린 연습해?	Do you practice the violin at this time every week, Fenny?						0	3.5版本随机剧情
+page1.3	嗯嗯，小提琴还是要一直保持练习。	嗯嗯，小提琴還是要一直保持練習。	そうよ、ヴァイオリンは練習を続けないとね。	응응, 바이올린은 계속 연습해야 해.	Mhm, I have to keep up with my violin practice.						0	3.5版本随机剧情
+page1.4	不然太久不碰，慢慢也就生疏了。	不然太久不碰，慢慢也就生疏了。	あまり触らない期間が長いと、だんだん腕が鈍っちゃう。	너무 오래 만지지 않으면, 서서히 감이 떨어지거든.	Otherwise, I'll eventually get rusty.						0	3.5版本随机剧情
+page1.5	看来你还蛮重视这项技能。	看來你還蠻重視這項技能。	結構こだわりがあるんだな。	바이올린 실력을 꽤 중요하게 여기는 것 같네.	It seems you really value this skill.						0	3.5版本随机剧情
+page1.6	毕竟这可是本小姐基本的艺术素养。	畢竟這可是本小姐基本的藝術素養。	当然、これくらい基本的な素養だもの。	당연하지, 이건 페니의 기본적인 예술 소양이니까.	Well, it's my essential artistic ability, after all.						0	3.5版本随机剧情
+page1.7	达令什么时候想听，我可是都能演奏出来的！	達令什麼時候想聽，我可是都能演奏出來的！	ダーリンが聴きたい時は、いつでも演奏してあげるわ！	달링이 듣고 싶다고 하면, 내가 언제든 연주해 줄게!	I could perform for you any time you want, darling!						0	3.5版本随机剧情
+page1.8	正好我最近听了一些古典乐，芬妮要不要试试？	正好我最近聽了一些古典樂，芬妮要不要試試？	最近クラシックを聴いたんだけど、ファニーも弾いてみないか？	마침 최근에 클래식 음악을 좀 들었는데. 해볼래, 페니?	Actually, I've been listening to classical music lately. Would you like to play some, Fenny?						0	3.5版本随机剧情
+page1.9	我将终端上的歌单给芬妮看了一下。	我將終端上的歌單給芬妮看了一下。	私は端末のプレイリストをファニーに見せた。	나는 단말기의 재생 목록을 페니에게 보여줬다.	I showed Fenny the playlist on my terminal.						0	3.5版本随机剧情
+page1.10	这个嘛……确实是一些我不太熟悉的曲目。	這個嘛……確實是一些我不太熟悉的曲目。	うーん……あまり馴染みのない曲ばかりね。	이건… 내가 잘 모르는 곡들이야.	Well... I'm not super familiar with these pieces.						0	3.5版本随机剧情
+page1.11	达令等我半天，晚上我们二人烛光晚餐的时候给你演奏怎么样？	達令等我半天，晚上我們二人燭光晚餐的時候給你演奏怎麼樣？	ダーリン、半日だけ時間ちょうだい。今夜のディナーのときに、演奏してあげる。	달링, 반나절만 기다려 줘. 저녁에 우리 둘이 촛불 켜고 저녁 식사할 때 연주해 줄게!	Darling, could you wait until tonight? I can perform them for you during our candlelight dinner.						0	3.5版本随机剧情
+page1.12	这些半天就能都学会了吗？	這些半天就能都學會了嗎？	半日で全部覚えられるのか？	반나절 만에 할 수 있어?	Can you learn all of these in just half a day?						0	3.5版本随机剧情
+page1.13	那当然，本小姐可是海姆达尔最好的小提琴演奏者！	那當然，本小姐可是海姆達爾最好的小提琴演奏者！	もちろんよ。あたしはヘイムダルで一番のヴァイオリニストなんだから！	당연하지, 페니는 헤임달 최고의 바이올린 연주자야!	Of course! I'm the best violinist in Heimdall, after all!						0	3.5版本随机剧情
+page1.14	达令就瞧好吧！	達令就瞧好吧！	ダーリン、見てなさい！	기대해, 달링!	You'll see, darling!						0	3.5版本随机剧情

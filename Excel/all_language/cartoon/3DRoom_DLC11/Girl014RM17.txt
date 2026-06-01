@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	辰星，最近公司发布任务的好像有些问题，总是发生各种意外。	辰星，最近公司發布任務的好像有些問題，總是發生各種意外。	辰星。最近会社から受ける任務の様子がちょっと変なんだ。具体的に言うと、いつも予想外の事態が起きるんだ。	수성, 요즘 회사에서 발표하는 미션에 문제가 있는 것 같아요. 사고가 빈번해요.	Chenxing, have you noticed there's been a weird pattern with the missions lately? It seems like something unexpected comes up every time.						0	
+page1.2	是情报渠道出了问题吗？	是情報管道出了問題嗎？	事前情報の出所になにか不備があるんでしょうか？	정보 채널에 문제 생긴 건가요?	Are you implying something's wrong with our intel sources?						0	
+page1.3	所有环节都没有问题，但任务就是会有意外发生。	所有環節都沒問題，但任務就是會有意外發生。	いや、その辺は普段通りなんだけど、なぜかトラブルが絶えないんだよ。	모든 프로세스에는 문제 없지만 미션이 예상치 못한 방향으로 진행돼요.	No, everything checks out, but somehow, things still keep going sideways.						0	
+page1.4	分析员找我聊这个，是希望我做什么？	分析員找我聊這個，是希望我做什麼？	というと……私になにかしてほしいことがあるのですか？	분석가가 이 얘기를 하는 이유는 제가 뭘 해주길 원하는 건가요?	So, what exactly do you want me to do about it?						0	
+page1.5	我听说朔州人都对风水很有研究，辰星要不要帮忙看看公司的风水。	我聽說朔州人都對風水很有研究，辰星要不要幫忙看看公司的風水。	朔州（さくしゅう）出身の人はみんな風水に詳しいと聞いたのでね。辰星に会社の風水を見てほしいんだ。	저는 삭주 사람들이 풍수에 대해 잘 안다고 들었는데, 수성이 회사의 풍수를 좀 봐주는 게 어때요?	Well, I heard that people from Shuozhou are pretty savvy with feng shui. Maybe you could check if our office's feng shui is out of whack?						0	
+page1.6	？？？	？？？	？？？	???	...						0	
+page1.7	我不会风水。	我不會風水。	私は風水に詳しくなんかありません。	저는 풍수를 볼 줄 몰라요.	I don't know anything about feng shui.						0	
+page1.8	不是说朔州人都是风水行家吗？	不是說朔州人都是風水行家嗎？	え。朔州（さくしゅう）出身者は全員風水の専門家って聞いたんだけど？	삭주 사람들이 다 풍수 전문가라고 하지 않았나요?	Isn't that a common skill in Shuozhou?						0	
+page1.9	那分析员知道朔州人家家户户都骑着竹熊上学吗？	那分析員知道朔州人家戶戶都騎竹熊上學嗎？	でしたら、朔州（さくしゅう）の人々は竹のカゴを背負って学校に行っていることはご存知ですか？	그럼 분석가님은 삭주 사람들은 모두 판다를 타고 등교한다는 것도 알고 있나요?	Oh, right. And I suppose you're aware that Shuozhou kids all ride bamboo bears to get to school.						0	
+page1.10	还有这种事？？？	還有這種事？？？	え？そうなのか？	그런 일도 있어요???	Wait, is that true???						0	
+page1.11	当然没有！我的意思是……请不要对朔州人有太多的刻板印象。	當然沒有！我的意思是……請不要對朔州人有太多的刻板印象。	いいえ、嘘です。つまり、私が言いたいのは……朔州（さくしゅう）出身ってだけで、偏見を持つのはやめてください。	당연히 없죠! 제 말은… 삭주 사람들에 대해 너무 많은 고정관념을 가지지 말아 달라는 얘기예요.	Of course not! My point is... maybe try not to buy into every stereotype about Shuozhou people.						0	
+page1.12	辰星说着端了一壶烧开的热水离开了。	辰星說著端了一壺燒開的熱水離開了。	そう言い残すと、辰星は沸かしたばかりの熱湯をケトルごと持って、去っていった。	수성이 그렇게 말하며 방금 끓인 뜨거운 주전자를 들고 떠났다.	With that, Chenxing picked up a kettle of freshly boiled water and walked away.						0	
+page1.13	喝水只喝热水或者凉白开，也是朔州的习惯……这个算是刻板印象吗？下次问问吧。	喝水只喝熱水或白開水，也是朔州的習慣……這個算是刻板印象嗎？下次問問吧。	白湯しか飲まないのも、朔州（さくしゅう）出身者の習慣だよな……これも偏見なのか？今度辰星に聞いてみるか。	뜨거운 물이나 끓여서 식힌 맹물만 마시는 것도 삭주의 습관인데… 이건 고정관념일까? 다음에 한번 물어봐야겠다.	Drinking only hot water or cooled boiled water is also a thing Shuozhou people do... Does that count as a stereotype? I'll have to ask her next time.						0	

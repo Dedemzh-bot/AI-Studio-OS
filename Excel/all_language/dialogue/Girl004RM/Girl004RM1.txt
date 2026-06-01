@@ -1,0 +1,212 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这里是……	這裡是……	ここは……？	여기는…	Where... am I?						0	2.3芙提雅好感度重置
+2	今天第一堂课，老师不打算教你们什么。	今天第一堂課，老師不打算教你們什麼。	本日初めの授業は、少し特別な話をしましょうか。	오늘은 첫 수업이라 너희들한테 뭘 가르칠 생각은 없어.	For today's first lesson, we're not diving into textbooks.						0	2.3芙提雅好感度重置
+3	老师想问你们一个问题，你们都有什么梦想啊？□□□，你先回答。	老師想問你們一個問題，你們都有什麼夢想呢？□□□，你先回答。	それでは、みんなに質問です。将来の夢はなんですか？まずは□□さんから。	너희들에게 묻고 싶은 것이 있는데, 너희들은 어떤 꿈을 가지고 있어? □□□이(가) 먼저 대답해 볼래?	Instead, I want to ask you all a question: What are your dreams? Let's start with you, Margaret.						0	2.3芙提雅好感度重置
+4	我的梦想是成为科学家。	我的夢想是成為科學家。	科学者になりたいです。	제 꿈은 과학자예요.	I want to be a scientist.						0	2.3芙提雅好感度重置
+5	很好。芙提雅，你呢？	很好。芙提雅，你呢？	素敵ですね。フリティアさんは？	그렇구나, 프티야는?	Excellent. Fritia, what about you?						0	2.3芙提雅好感度重置
+6	我想要成为……像是爵士那样的人。	我想要成為……像爵士那樣的人。	私は……科学のパイオニアたちみたいな人になりたいです。	저는… 재즈 같은 사람이 되고 싶어요!	I want to be a scientist too... but like those pioneering scientists from a long time ago.						0	2.3芙提雅好感度重置
+7	我想要和爵士一样，证明力运动定律那样的真理，用美妙的数学语言去描绘宇宙的光景。	我想要和爵士一樣，證明力運動定律那樣的真理，用美妙的數學語言去描繪宇宙的光景。	彼らみたいに、物理の真理を見つけて、美しい数学の言葉で宇宙のことを説明したいです。	재즈처럼 힘의 운동 법칙를 증명하고 우주의 광경을 아름다운 수학적 언어로 그리고 싶어요.	I want to discover universal truths like the laws of motion and use the elegant language of mathematics to describe the beauty of the cosmos.						0	2.3芙提雅好感度重置
+8	我想要发展很多厉害的科学技术，帮助所有人都能获得更好的生活。	我想要發展很多厲害的科學技術，幫助所有人都能獲得更好的生活。	みんながもっといい生活を送れるように、すごい技術をたっくさーん開発して……	과학 기술을 발전시켜 모두가 더 나은 삶을 살 수 있도록 돕고 싶고요.	I want to create amazing technologies to help everyone live better lives.						0	2.3芙提雅好感度重置
+9	我还想要去探索宇宙的深处，想要更近些去见证每一颗星球的奥秘……	我還想要去探索宇宙的深處，想要更近的去見證每一顆星球的奧秘……	そしたら、宇宙探索に行って、惑星一つ一つの秘密を自分の目で確かめます。	그리고 우주의 깊은 곳을 탐험하고, 각 별들의 신비로움을 조금 더 가까이에서 목격하고 싶어요…	And to explore the far reaches of space, to get closer to each planet and uncover their secrets...						0	2.3芙提雅好感度重置
+10	……啧。	……嘖。	……チッ。	… 쯧쯧.	...Ugh.						0	2.3芙提雅好感度重置
+11	显摆什么。	炫耀什麼。	物知りぶりやがって。	왜 그렇게 열정적이실까~	What a know-it-all.						0	2.3芙提雅好感度重置
+12	不就是多看了几本书吗？	不就是多看了幾本書嗎？	ちょっと本をかじっただけのくせに。	책 좀 몇 권 더 보고 그러는 것 같은데.	She's read a few more books and now she thinks she's better than us.						0	2.3芙提雅好感度重置
+13	老师的问题随便回答一下不就好了，干嘛说这么认真。	老師的問題隨便回答一下不就好了，幹嘛都這麼認真。	当てられちゃ適当に答えりゃ良いのに、なに真面目ぶってんのよ。	그냥 간단하게 선생님 말에 대답하면 되지 뭐가 그렇게 진지해.	It's just a simple question, and she acts like it's a science conference.						0	2.3芙提雅好感度重置
+14	……	……	……	…	...						0	2.3芙提雅好感度重置
+15	我发明了有趣的东西，你们要看看吗？	我發明了有趣的東西，你們要看嗎？	面白いものを作ったんだ、見てくれないかな。	재미있는 것을 발명해 봤는데, 한번 확인해 볼래?	I've made something fun! Want to check it out?						0	2.3芙提雅好感度重置
+16	谁要看那种垃圾？	誰要看那種垃圾？	そんなガラクタ、誰が見るのよ。	누가 그런 쓰레기를 보려 하겠어?	Who'd want to see the crap you made?						0	2.3芙提雅好感度重置
+17	矮子怪人，矮子怪人，你就和你的那些发明过一辈子去吧。	矮子怪人，矮子怪人，你就和你的那些發明一輩子生活吧。	このチビ変人！あんたなんかもう一生ガラクタをいじって生きとけ！	난쟁이 땅꼬마, 넌 그냥 네 발명품들하고만 일평생 동안 살아가.	Freaky little weirdo, why don't you just marry your dumb gadgets?						0	2.3芙提雅好感度重置
+18	把那东西砸了吧！让她炫耀！	把那東西砸了吧！讓她炫耀！	見せびらかしよってよ！それぎったんぎたんにしてやろうぜ！	그 물건을 부숴버려! 더는 자랑 못 하게!	Let's smash her stuff! That'll teach her to show off!						0	2.3芙提雅好感度重置
+19	嘿，看我的！	嘿，看我的！	えい！	어이, 내가 하는 걸 잘 지켜보고 있으라고.	I got this! *BAM*						0	2.3芙提雅好感度重置
+20	不要……	不要……	やめて……	안돼…	Please... No...						0	2.3芙提雅好感度重置
+21	滚开，小矮子！	滾開，小矮子！	どけよ、チビ！	꺼져버려, 이 난쟁이 땅꼬마야!	Get lost, you little runt!						0	2.3芙提雅好感度重置
+22	呜呜呜呜呜呜……	嗚嗚嗚……	っ……ぅ……	으아아아앙…	*sobbing*...						0	2.3芙提雅好感度重置
+23	哈哈……这就哭了，真是弱爆了。	哈哈……這就哭了，真是弱爆了。	ははは……もう泣いたとかマジみっともねえ。	하하… 뭘 또 울어, 약해빠져가지고.	Hah... what a crybaby! Pathetic.						0	2.3芙提雅好感度重置
+24	除了哭，你还会做什么？	除了哭，你還會做什麼？	泣くしか何もできねえかよ。	우는 것 말고 할 줄 아는 게 있으려나?	Is that all you can do?						0	2.3芙提雅好感度重置
+25	老师……	老師……	先生……	선생님…	Teacher, they...						0	2.3芙提雅好感度重置
+26	他们为什么欺负你，你有没有想过自己的问题？	他們為什麼要欺負你，你有沒有想過自己的問題？	いじめられるのは自分が悪いからだと思いませんか？	쟤네들이 왜 너를 괴롭히는지 프티야 본인에 대해서 한번 생각해 본 적 있니?	Ever wonder why they pick on you? Could it be something about you?						0	2.3芙提雅好感度重置
+27	爸爸，妈妈……	爸爸，媽媽……	お父さん、お母さん……	아버지, 어머니…	Mom, Dad...						0	2.3芙提雅好感度重置
+28	不许哭！芙提雅！	不許哭！芙提雅！	泣いちゃダメだ！フリティア！	울지 마! 프티야!	No tears, Fritia!						0	2.3芙提雅好感度重置
+29	哭是懦弱的行为。	哭是懦弱的行為。	泣くのは臆病者のすることだ。	우는 건 나약한 행동이야.	Tears are for the weak.						0	2.3芙提雅好感度重置
+30	呜呜……芙提雅知道了……芙提雅以后……不哭了……	嗚嗚嗚……芙提雅知道了……芙提雅以後……不哭了……	うう……わかった……フリティアは、もう……泣かない……	후… 알겠어요… 이제는…울지 않을게요…	*sniffle* ...I understand... I won't cry anymore...						0	2.3芙提雅好感度重置
+31	原来……是这个梦啊。	原來……是這個夢啊。	ああ、この夢は……	그렇구나… 이 꿈이었구나.	Oh, that was just a dream.						0	2.3芙提雅好感度重置
+32	喂……你怎么一直笑……我们又不要和你做朋友。	喂……你怎麼一直笑……我們不要跟你當朋友。	ねえ、なにずっと笑ってんのよ……それ媚びてるつもり？	이봐… 왜 이렇게 자꾸 웃어? 누가 너랑 친해지고 싶대?	What's so funny...? Why are you always smiling? We don't want to be your friends.						0	2.3芙提雅好感度重置
+33	恶心，恶心死了！	噁心，噁心死了！	うわ、キッモ！	어휴, 징그러워, 좀 저리로 가!	Ugh, you creepy weirdo!						0	2.3芙提雅好感度重置
+34	离她远点。	離她遠點。	ねえ、もう行こ。	우리가 떨어지자.	Let's stay away from her.						0	2.3芙提雅好感度重置
+35	真理有三部分：考查，即求取它；认识，即它已存在；信心，即运用它。	真理有三個部分：考查，即求取它；認識，即它已存在；信心，即運用它。	真理は三つの段階を経る。第一に、探求、即ちそれを求めること。第二に、認識、即ちその存在を認めること。最後に、信奉、つまりそれを信じ込んで活かすこと。	진리는 세 가지 부분으로 나눌 수 있습니다. 탐구(진리를 추구하는 것), 지식(진리가 이미 존재한다는 것),그리고 믿음(진리를 응용하는 것).	Truth has three elements: Inquiry, to seek. Recognition, to understand. And Confidence, to apply.						0	2.3芙提雅好感度重置
+36	欢迎各位学员来到卫城学院，这是人类智慧的圣地。	歡迎各位學員來到衛城學院，這裡是人類智慧的聖地。	諸君よ、アクロポリス学院へようこそ。ここは人類の叡智の地。	아크로폴리스 아카데미에 오신 것을 환영합니다.	Welcome to the Academica Acropolis, the sanctuary of human wisdom.						0	2.3芙提雅好感度重置
+37	是利用真理创造奇迹的地方。	是利用真理創造奇蹟的地方。	そして、真理を駆使して奇跡を起こす場所。	이곳은 진리를 활용해 기적을 창조하는 곳입니다.	Here, we craft miracles with truth.						0	2.3芙提雅好感度重置
+38	请肆意使用你们的才能……去创造奇迹吧！	請肆意使用你們的才能……去創造奇蹟吧！	諸君には思う存分その才能を活かし……奇跡を生み出していただきたい！	당신들의 재능을 마음껏 사용해… 기적을 만들어 보세요!	So go ahead — make the most of your talents... and forge those miracles!						0	2.3芙提雅好感度重置
+39	这是我第一次……投入所有热情，可以全心做自己想做事情的地方……可是……	這是我第一次……投入所有熱情，可以全心做自己想做事情的地方……可是……	初めて……すべての情熱をもって、やりたいことを許してくれる場所……だったはずなのに……	여긴 내가 처음으로… 모든 열정을 쏟고, 하고 싶은 일에 전념했던 곳이지… 하지만…	This was the first place where I could truly pour my heart into something I was passionate about... but...						0	2.3芙提雅好感度重置
+40	终于完成了……可以改变人类生活的……火种！	終於完成了……可以改變人類生活的……火種！	ついに完成した……！人類の生活を変えてしまう……火種が！	드디어 완성했어… 인류의 삶을 변화시킬 수 있는… 불씨!	Finally... I've completed Ember... It will change humanity's future!						0	2.3芙提雅好感度重置
+41	哈哈哈哈哈，死吧，你们这些渣滓，浪费食粮的废物……	哈哈哈哈哈，死吧，你們這些渣滓，浪費食糧的廢物……	ハハハハハ、死ねカス共！貴様らなど生きてるだけ食料の無駄よ。	하하하하하, 죽어라 이 쓰레기들아, 음식만 축내는 쓰레기들…	Hahaha! Die, you worthless worms... Your existence is just a waste of resources...						0	2.3芙提雅好感度重置
+42	……	……	……	…	...						0	2.3芙提雅好感度重置
+43	……我想加入世界树。	……我想加入世界樹。	……ユグドラシルに入りたい。	위그드라실에 가입하고 싶어요.	I want to join Yggdrasil.						0	2.3芙提雅好感度重置
+44	为什么？	為什麼？	なぜですか？	왜지?	And why is that?						0	2.3芙提雅好感度重置
+45	我为了改变人类生活开发的工具……不该被应用在对无辜者的杀戮。我想要改变这一切。	我為了改變人類生活開發的工具……不該被應用在對無辜者的殺戮。我想要改變這一切。	人類の生活を変えるために開発したものが……罪のない人々を殺めるのに使われている。それを、変えたい。	인간의 삶을 변화시키기 위해 개발한 도구가… 무고한 사람을 죽이는 데 사용되어서는 안 된다고 생각해요. 세상을 바꾸고 싶어요.	Because I don't want to see my inventions, meant to better human lives, be reduced to instruments of slaughter. I want to change that.						0	2.3芙提雅好感度重置
+46	那还真是……有趣。	那還真是……有趣。	ふーん……面白い理由ですね。	그거 참… 흥미로운 얘기군.	That's... interesting.						0	2.3芙提雅好感度重置
+47	芙提雅，离开吧，这里不需要你的意见，你要做的就是执行命令。	芙提雅，離開吧，這裡不需要你的意見，你要做的就是執行命令。	フリティア、もう出ていって良い。君の意見は必要ない。命令に従うのが君の立場だ。	프티야 님, 나가주시죠. 당신의 의견 따윈 필요 없습니다. 당신이 해야 할 일은 명령을 이행하는 것뿐입니다.	Fritia, just leave. Your opinion isn't needed here. All you have to do is follow orders.						0	2.3芙提雅好感度重置
+48	可是……我的发明……明明可以给更多人使用……	可是……我的發明……明明可以給更多人使用……	……私の発明は……もっと多くの人に使ってもらえるはず……！なのに……	제 발명품은… 분명히 더 많은 사람들에게 사용될 수 있어요…	But... my inventions... they were meant for everyone...						0	2.3芙提雅好感度重置
+49	离开！	離開！	出ていけ！	이만 나가주시죠!	Out now!						0	2.3芙提雅好感度重置
+50	芙提雅猛地睁开眼睛，她从一场噩梦中惊醒。	芙提雅猛地睜開眼睛，她從一場噩夢中驚醒。	怒鳴りつけられ、フリティアはハッと夢から目を覚ます。	그 순간 프티야는 악몽에서 깨어났다.	Fritia jolted awake from a nightmare.						0	2.3芙提雅好感度重置
+51	好一会儿，她才回过神来，记起自己是在做什么……她在房间里等待实验测试的结果，因为太过疲惫，不小心就睡着了。	過一陣子，她才回過神來，想起自己在做什麼……她在房間裡等待實驗測試的結果，因為太過疲憊，不小心就睡著了。	しばらくぼーっとして、彼女はようやく自分が何をしていたのかを思い出した。部屋で実験結果を待っていたら、あまりの疲労で寝落ちしてしまったのだ。	곧이어 정신을 차린 그녀는 자신이 무엇을 하고 있었는지 깨닫는다… 그녀는 실험 테스트 결과를 기다리다가 너무 피곤해서 깜빡 잠이 들어있었다.	It took quite a while for her to regain her senses and remember where she was. Exhaustion had taken over, and she had dozed off in her room while waiting for the results of her experiments.						0	2.3芙提雅好感度重置
+52	……居然，还会做这种噩梦吗。不过和分析员相遇后，芙提雅老师早就不害怕这些东西了。	……居然，還會做這種噩夢嗎。不過和分析員相遇後，芙提雅老師早就不害怕這些東西了。	まだこんな夢を見るなんて……分析員と出会ってからは、もうこんなの怖くないし。	이런 악몽을 꾸다니… 하지만 분석가와 만나고 나서부터 이런 두려움을 전부 잊을 수 있게 되었지.	...Why do I still have those nightmares? Well, it's a good thing I'm not scared of them anymore, not after meeting the Adjutant.						0	2.3芙提雅好感度重置
+53	模拟结束了啊。	模擬結束了啊。	シミュレーション、もう終わったか。	테스트는 끝났어.	Oh, looks like the simulation's done.						0	2.3芙提雅好感度重置
+54	第67次模拟测试结束，还是失败吗……	第67次模擬測試結束，還是失敗嗎……	67回目も失敗かぁ……	67번째 가상 테스트가 종료됐는데, 여전히 실패인 건가…	The 67th test, and still no success...						0	2.3芙提雅好感度重置
+55	时间只剩两天。	時間只剩兩天。	残り時間はあと二日。	이틀밖에 남지 않았어.	Only two days left.						0	2.3芙提雅好感度重置
+56	这个难关不突破的话，就赶不上了……	這個難關不突破的話，就趕不上了……	どうにかして成功させないと間に合わない……	이 난관을 넘지 못하면, 기회를 놓치게 될 거야…	If I don't overcome this hurdle... I won't make it in time...						0	2.3芙提雅好感度重置
+57	不过这种问题……肯定拦不住芙提雅老师！	不過這種問題……肯定攔不住芙提雅老師！	でもこんなの……フリティア先生にかかれば楽ちん！	이 정도 문제는… 내게 문제될 게 없지만 말이지!	But come on, there's no way something like this can hold back Professor Fritia!						0	2.3芙提雅好感度重置
+58	咕，咕……	咕，咕……	ぐぅ――	꼬르륵… 꼬르륵…	*stomach rumbling*...						0	2.3芙提雅好感度重置
+59	忽然，肚子发出的细微声响，让芙提雅下意识捂住肚子，可怜兮兮垂下脑袋。	突然，肚子發出的細微聲響，讓芙提雅下意識摀住肚子，可憐兮兮垂下頭。	胃袋が抗議の声をあげる。お腹を押さえ、しょんぼりとうなだれるフリティア。	갑자기 배에서 나는 미세한 소리에 프티야는 본능적으로 배를 감싸며 고개를 숙였다.	Suddenly, her stomach growled softly. Fritia instinctively clutched her belly, her head drooping in frustration.						0	2.3芙提雅好感度重置
+60	……看来在继续攻克之前，还得先把晚饭吃了。	……看來在繼續攻克之前，還得先吃晚餐了呢。	……その前に、まずご飯にしようか。	… 계속 문제를 해결하기 전에 끼니부터 해결해야 겠어.	…Looks like I'd better grab some dinner before tackling this.						0	2.3芙提雅好感度重置
+61	呜……不仅是脑子，肚子完全到极限了。	嗚……不只是腦子，肚子完全到極限了。	うぅ……頭もお腹も限界だ。	후… 머리뿐만 아니라 배고픈 것도 완전히 한계에 다다른 것 같아.	*sigh*... It's not just my mind that's at its limit, my stomach's protesting too.						0	2.3芙提雅好感度重置
+62	因为身体和精神到达极限，所以才会做那种噩梦吧……明明是自己在向美好和幸福奔赴的途中。	因為身體和精神到達極限，所以才會做那種噩夢吧……明明是自己在向美好和幸福奔赴的途中。	悪夢を見てしまったのは、心身ともに限界を迎えたからか。素敵な幸せに向かってまっしぐらに走っている真っ只中だというのに。	몸과 정신이 극한에 다다르니까 그런 악몽을 꾸게 된 거겠지… 분명히 스스로 행복을 향해 나아가고 있는 중인데.	It was likely the physical and mental exhaustion that had brought on the nightmare... It made no sense otherwise — she was clearly on her way to happiness.						0	2.3芙提雅好感度重置
+63	芙提雅有些委屈地嘟囔下嘴，又拍拍脸颊，让自己变得更清醒些，离开了房间。	芙提雅有些委屈地嘟了嘟嘴，又拍拍臉頰，讓自己變得更清醒些，離開了房間。	どこか悔しそうな顔を一瞬見せたあと、気合いを入れるようにほっぺを叩き、部屋の扉を目指す。	프티야는 억울한 듯 입술을 내밀었고, 얼굴을 가볍게 두드리며 정신을 차리고자 방을 나섰다.	With a slight pout, Fritia mumbled to herself, then slapped her cheeks lightly to wake up before leaving the room.						0	2.3芙提雅好感度重置
+64	接近凌晨时分，基地生活区大厅已经空无一人。	接近凌晨時分，基地生活區大廳已經空無一人。	日付はとっくに変わり、寮舎のホールには人っ子ひとりいない。	자정이 가까워지자, 숙소 로비는 한산해졌다.	It was close to dawn, and the Base hall was deserted.						0	2.3芙提雅好感度重置
+65	芙提雅所谓的晚饭就是去自动贩卖机找点东西随随便便填填肚子。	芙提雅所謂的晚餐就是去自動販賣機找點東西隨便填入肚子。	フリティアで言うところの晩ご飯とは、傍目からは腹ふさぎとしか呼べない、適当この上ない自販機食である。	프티야가 생각하는 저녁 식사는 자판기에서 간단히 뭔가를 사서 배를 채우는 것이었다.	Fritia's idea of "tackling dinner" was a quick trip to the vending machine — whatever she could grab to quiet her growling stomach.						0	2.3芙提雅好感度重置
+66	在实验室待了一整天，回到自己房间后又立马开始处理数据的她根本没时间去解决晚饭。	在實驗室待了一整天，回到自己房間後又立刻開始處理資料的她根本沒時間去解決晚餐。	一日籠もった実験室から解放されて、自室に戻るやいなや、間を置かずデータの処理を始めた彼女には、晩ご飯を食べる時間などなかった。	하루 종일 연구실에 있다가 방으로 돌아오자마자 데이터 작업을 시작한 그녀는 저녁을 해결할 시간도 없었다.	After being cooped up in the lab all day and diving straight into data analysis upon returning to her room, she hadn't stopped for a proper meal.						0	2.3芙提雅好感度重置
+67	芙提雅。	芙提雅。	フリティア。	프티야.	Fritia.						0	2.3芙提雅好感度重置
+68	咦？咦？？为什么会是分析员？	咦？咦？？為什麼會是分析員？	えっ、え？？どうして分析員がこんな時間に？	아?! 어??? 분석가가 여기에 있어?	Huh? Adjutant!? What are you doing here?						0	2.3芙提雅好感度重置
+69	这个时间还没睡，是陶董安排你加班了吗？	這時間還沒睡，是τ董安排你加班了嗎？	まだ起きてるなんて、τさんに残業を頼まれたの？	이 시간까지 아직 안 자고 있다는 건 설마 τ 이사님이 야근이라도 시킨 거야?	You're still up at this hour? Did Director τ rope you into extra work tonight?						0	2.3芙提雅好感度重置
+70	……果然……那些家伙即将降临的事情，把大家都弄得焦头烂额吧。	……果然……那些傢伙即將降臨的事情，把大家都弄得焦頭爛額吧。	……やっぱり……もうすぐ降臨するあいつらのせいで、みんな大変だね。	… 곧 그 녀석들이 들이닥칠 일들 때문에 다들 골머리를 앓고 있나 보네.	...I knew it... The upcoming Titan Descent has everyone scrambling.						0	2.3芙提雅好感度重置
+71	一周前，公司收到了情报，零区的某个位置有大量的泰坦物质聚集，经过预测，大概在两天后会有大量的泰坦降临。	一週前，公司收到了情報，零區的某個位置有大量的泰坦物質聚集，經過預測，大概在兩天後會有大量的泰坦降臨。	一週間前、エリアゼロ某所に大量のタイタン物質が集まっているという情報がユグドラシルに入った。予測によると、約２日後に大量のタイタン降臨事件が同時発生するらしい。	일주일 전, 회사에서 제로 구역의 특정 위치에 타이탄 물질이 있다는 정보를 입수했고, 약 이틀 후에 대량의 타이탄이 나타날 것으로 예측했다.	A week earlier, Yggdrasil had received intelligence that a significant accumulation of Titagen had been detected in the Containment Zone. A major Titan Descent was predicted to occur very soon.						0	2.3芙提雅好感度重置
+72	这段时间，公司都在针对那片区域布置防御工事。	這段時間，公司都在針對那片區域佈置防禦工事。	それに備えて今、ユグドラシルは当該エリアの防壁設置に全力で取り組んでいる。	이 때문에 회사에서는 해당 지역에 방어 시설을 배치하고 있었다.	Since then, the company had been fortifying the area non-stop.						0	2.3芙提雅好感度重置
+73	对不起……分析员，前线的事情，芙提雅老师暂时帮不上忙。	對不起……分析員，前線的事情，芙提雅老師暫時幫不上忙。	ごめんね……分析員。前線のほう、まだ手伝えなくて……	미안해… 분석가, 전선의 일은 당분간 도와줄 수 없을 것 같아	Sorry, Adjutant... I'm not much help with frontline stuff right now.						0	2.3芙提雅好感度重置
+74	她悄悄攥紧藏在袖子里的小拳头。	她悄悄地攥緊藏在袖子裡的小拳頭。	言いながら、こっそりと袖の中で拳を握りしめるフリティア。	그녀는 소매에 숨겨진 작은 주먹을 조용히 움켜쥐었다.	She quietly clenched her little fist hidden in her sleeve.						0	2.3芙提雅好感度重置
+75	前线的准备很充分，各种事项都在很顺利地推进，芙提雅不用担心。	前線的準備很充分，各種事項都在很順利地推進，芙提雅不用擔心。	前線の準備は万全だ。色々なことが順調に進んでいるから、心配することはないよ。	전부 순조롭게 진행되고 있으니 걱정할 필요 없어.	The preparations on the front are solid, and everything's moving smoothly. So don't worry, Fritia.						0	2.3芙提雅好感度重置
+76	此外，与其说焦头烂额，不如说在那些泰坦正式降临前，大家都闲下来了，有足够的时间养精蓄锐。	此外，與其說焦頭爛額，不如說在那些泰坦正式降臨前，大家都閒下來了，有足夠的時間養精蓄銳。	それに、タイタンが来る前に少し暇が出来るから、英気を養う時間も充分にあるんだ。	게다가 타이탄이 정식으로 나타나기 전까지 모두가 한가해졌기 때문에 충분히 체력을 비축할 수 있는 시간도 생겼고.	We actually get to take a break and recharge before the storm hits.						0	2.3芙提雅好感度重置
+77	今晚的加班也是我自愿。毕竟队员遇到了麻烦需要帮助，作为分析员可不能心安理得高枕无忧。	今晚的加班也是我自願。畢竟隊員遇到了麻煩需要幫助，身為分析員可不能心安理得高枕無憂。	だから今夜は自主残業だ。隊員が困っているのに、分析員としての私が手をこまねいて見るわけにはいかないだろ。	오늘 밤 야근도 내가 스스로 자원한 거야. 어쨌든 팀원이 난관에 부딪혔을 때 도움을 주는 것은 분석가로서 마땅히 해야 할 일이니까.	As for tonight, I'm working late by choice. As the Adjutant, I can't exactly relax when one of my operatives is in trouble, can I?						0	2.3芙提雅好感度重置
+78	咦，有人遇到麻烦了？需要芙提雅老师帮忙吗？	咦，有人遇到麻煩了？需要芙提雅老師幫忙嗎？	え、誰かが困ってるの？フリティア先生も手伝うよ。	누구한테 문제라도 생겼어? 프티야 선생님의 도움이 필요한 거야?	Hmm? Someone's in trouble? Is there anything I can do to help?						0	2.3芙提雅好感度重置
+79	心里挂念着实验，可见到分析员如此忧虑的模样，芙提雅还是忍不住想要帮忙。	心裡掛念著實驗，但見到分析員如此憂慮的模樣，芙提雅還是忍不住想幫忙。	実験のことが気になっていながらも、悩んだ様子の分析員を見て、フリティアは手伝いたくなった。	실험이 마음에 걸렸지만 분석가가 걱정해하는 모습을 보니 프티야는 도와주고 싶다는 생각을 하지 않을 수 없었다.	Despite being preoccupied with her experiments, the concern in the Adjutant's voice made Fritia eager to assist.						0	2.3芙提雅好感度重置
+80	这个嘛，眼前确实是有件要紧事需要芙提雅帮忙。	這個嘛，眼前確實是有件要緊事需要芙提雅幫忙。	ならちょうどよかった。手伝ってほしいことがあるんだ。	글쎄, 지금 당장 프티야의 도움이 필요한 일이 있긴 한데.	Actually, yes. There's something important I could really use your help with.						0	2.3芙提雅好感度重置
+81	尽管交给芙提雅老师就好，我不会让分析员失望。	儘管交給芙提雅老師就好，我不會讓分析員失望。	とことん任せて！分析員だけは失望させないから。	나한테 맡겨만 줘, 분석가를 실망시키지 않을 거야.	Whatever it is, leave it to Professor Fritia! I won't let you down.						0	2.3芙提雅好感度重置
+82	那就帮我一起消灭它们吧。	那就幫我一起消滅它們吧。	それじゃ、一緒にこいつらを退治しよう。	그럼 같이 먹어치우자.	Then, please help me finish these off.						0	2.3芙提雅好感度重置
+83	消灭……	消滅……	退治って……	먹어 치우자고? 뭐를…	Finish...						0	2.3芙提雅好感度重置
+84	芙提雅说到一半，忽然瞪大眼睛，看向分析员指向的餐桌。只见餐桌满满当当摆满了吃的，芙提雅肚子里的馋虫一下子被勾动了。	芙提雅說到一半，忽然瞪大眼睛，看向分析員指向的餐桌。只見餐桌滿滿地擺滿了吃的，芙提雅肚子裡的饞蟲一下子被勾動了。	言葉を切って、フリティアは分析員が指さすテーブルのほうに目を移す。そして、ふんだんに並んだプレートに目を見開き、ごくりと生唾を飲む。	프티야는 말을 하던 중 갑자기 눈을 부릅뜨고 분석가가 가리키는 식탁을 바라보았다. 식탁 위에는 먹을 것이 가득 놓여 있었고, 프티야는 순간 식욕이 끓어올랐다.	Before Fritia could finish, her eyes widened as she saw where the Adjutant was pointing — a dining table loaded with food. Her stomach immediately responded with a loud rumble.						0	2.3芙提雅好感度重置
+85	诶？！！这些都是……分析员点的？？	欸？！！這些都是……分析員點的？？	え！？こ、これ……全部分析員が頼んだの？	어?!! 이거 전부… 분석가가 시킨 거야??	Huh!? That's all yours...? That huge spread!?						0	2.3芙提雅好感度重置
+86	桌上的夜宵涵盖各种品类，这种规格与在高级的餐厅里用餐也不遑多让。	桌上的宵夜涵蓋各種品類，這種規格與在高級的餐廳用餐也不遑多讓。	テーブルに置いてある百味の飲食は、どれも高級レストランの食事と遜色ないほどの豪華さだった。	테이블에 놓인 야식은 고급 레스토랑에서 식사하는 것과 다를 바 없이 다양한 음식으로 구성되어 있었다.	The table was piled high with a variety of late-night snacks, rivaling the offerings of a fancy gourmet buffet.						0	2.3芙提雅好感度重置
+87	嗯，因为想到今天会工作到很晚，就备了些吃的，结果一不小心就准备多了。如果芙提雅愿意帮忙就好了。	嗯，因為想到今天會工作到很晚，就準備了些吃的，結果一不小心就準備多了。如果芙提雅願意幫忙就好了。	ああ。今日は夜遅くまで働くだろうと思って用意したんだけど、注文しすぎてしまって。一緒に平らげてくれると助かるよ。	응, 오늘 늦게까지 일할 생각에 음식을 준비했는데 실수로 너무 많이 시켜버렸네. 프티야가 좀 도와줘.	Yeah, I figured I'd be working late tonight, so I got a little extra. Looks like I overdid it. Mind helping me out, Fritia?						0	2.3芙提雅好感度重置
+88	居然是这么奢侈的夜宵组合……晚上吃这些，总觉得很罪恶呢。	居然是這麼奢侈的宵夜組合……晚上吃這些，總覺得很罪惡呢。	こ、こんな強欲の詰め合わせ、夜食にしては罪深すぎないか……	이렇게 호화스러운 야식을… 밤에 이런 걸 먹으면 왠지 죄책감이 든다고.	That is quite a midnight feast... I feel guilty just thinking about eating all this so late.						0	2.3芙提雅好感度重置
+89	难道芙提雅要退缩吗？	難道芙提雅要退縮嗎？	食べないのかい？	설마 프티야가 주저하기라도 하는 거야?	Are you backing out?						0	2.3芙提雅好感度重置
+90	作为富有责任心的芙提雅老师，我当然要和分析员一起分担这份罪恶！	身為一個有責任感的芙提雅老師，我當然要和分析員一起分擔這份罪惡！	せ、責任感あってのフリティア先生だ！分析員ひとりに罪悪感を背負わせるわけにはいかないでしょ！	무슨 소리야~ 당연히 분석가랑 같이 이 죄책감을 분담해야지!	As a responsible Professor Fritia, it's only right I share this burden of guilt with my Adjutant!						0	2.3芙提雅好感度重置
+91	饿坏了的芙提雅顾不得说话，大快朵颐。消灭了足足两三盘罪恶，她才心满意足放下餐具，捂着小腹，幸福向后倚靠。	餓壞了的芙提雅顧不得說話，大快朵頤。消滅了足足兩三盤罪惡，她才心滿意足放下餐具，摀著小腹，幸福的向後倚靠。	よほどお腹を空かせていたのか、もりもり貪り始めたフリティア。二、三皿分の罪を易々と清めて、ようやく満足そうに食器を置き、お腹に手を当てながら、背もたれに背中を預けた。	배고픈 프티야는 말할 겨를도 없이 음식을 마구 먹어치웠다. 무려 두세 판의 음식을 흡입한 후에야 만족스럽게 식기를 내려놓고, 작은 배를 감싸며 행복감을 느끼며 몸을 뒤로 기대었다.	Famished, Fritia didn't waste time talking. She dove right into the feast, quickly polishing off several plates. Finally, she leaned back with a satisfied sigh, patting her full belly.						0	2.3芙提雅好感度重置
+92	呼~肚子完全被撑满了，一点空隙都留不下来，这都是多亏了分析员呢！	呼~肚子完全被撐滿了，一點空隙都沒有剩下，這都是多虧了分析員呢！	ふぅ～ご馳走様でした！たべたたべた～！もうお腹ぶくぶくで何も入らないぐらい！	후어어~ 완전 가득찼어. 이게 전부 분석가 탓이야!	Ahh, that hit the spot. I'm so full. Thanks, Adjutant!						0	2.3芙提雅好感度重置
+93	看上去芙提雅今天没有好好吃饭。	看起來芙提雅今天沒有好好吃飯。	フリティアは今日、ちゃんとご飯食べてないみたいだけど。	프티야가 오늘 밥을 제대로 못 먹은 것 같아서.	Looks like you haven't been eating properly lately, Fritia.						0	2.3芙提雅好感度重置
+94	呃，这个是因为……今天研究太忙，不小心忘了。	呃，這個是因為……今天研究太忙，不小心忘了。	あぁ～それはー……忙しくって、うっかり忘れて……	아, 그게… 오늘 연구가 너무 정신 없어서 깜빡했어.	Uh, yeah... I got so caught up in my research I totally forgot to eat.						0	2.3芙提雅好感度重置
+95	就算再忙，也得记住好好吃饭才行。	就算再忙，也要記得好好吃飯才行。	どんなに忙しくても、ちゃんとご飯を食べないとダメだぞ。	아무리 바빠도 밥은 챙겨 먹어야지.	I understand, but you've got to make time for meals no matter how busy you are.						0	2.3芙提雅好感度重置
+96	我知道了。	我知道了。	り、了解っ！	알겠어.	Got it, I'll remember that.						0	2.3芙提雅好感度重置
+97	芙提雅有些心虚地扭过头。其实不只是今天，这几天都是……这顿算是她几天来最正式的一餐。	芙提雅有些心虛地扭過頭。其實不只是今天，這幾天都是……這頓飯算是她幾天來最正式的一餐。	フリティアは少しバツが悪そうにそっぽを向く。食事を抜いていたのは、実は今日だけでなく、ここ最近ずっとだ。彼女にとって、今のは数日ぶりのまともな食事だった。	프티야가 약간 미안한 마음에 고개를 돌렸다. 사실 오늘뿐만 아니라, 지난 며칠 동안도 그렇게 지냈다… 이번 식사는 그녀가 며칠 동안 먹어본 가장 정식적인 식사인 셈이다.	Fritia turned away, avoiding the Adjutant's eyes. It wasn't just today — she hadn't been eating properly for days. This was her first real meal in a while.						0	2.3芙提雅好感度重置
+98	突然想起来，这几天都没怎么见到芙提雅，你好像一直在实验室呢。	突然想起來，這幾天都沒怎麼見到芙提雅，你好像一直在實驗室呢。	そういえばここ数日、フリティアを見かけなかったな。ずっと実験室に籠もっていたのか。	지난 며칠 동안 프티야를 많이 못 봤다는 생각이 문득 들었어. 항상 연구실에 있는 것 같더라고.	Now that I think about it, I haven't seen much of you lately. You've been holed up in the lab, haven't you?						0	2.3芙提雅好感度重置
+99	是的……研究稍微碰到了一些难题。	是的……研究稍微碰到了一些難題。	うん……研究でちょっと苦戦してて。	맞아… 연구 과정에 약간의 난제에 부딪혔거든.	Yeah... I've hit a bit of a wall with my research.						0	2.3芙提雅好感度重置
+100	天天这样工作，芙提雅没问题吗？	天天這樣工作，芙提雅沒問題嗎？	毎日こんなに頑張って、大丈夫なのか？	매일 이렇게까지 일하는 거, 프티야는 괜찮아?	Are you sure you're holding up alright, Fritia?						0	2.3芙提雅好感度重置
+101	这对于精神和体力都是考验，我是不担心你的精神，不过……	這對於精神和體力都是考驗，我是不擔心你的精神，不過……	メンタルにも体力的にも大変だろう。いやまあメンタルの方は大丈夫だと思うけど……	신체적으로나 정신적으로나 둘 다 힘들 것 같은데? 프티야 정신력은 걱정되지 않지만…	Overworking takes a toll, both mentally and physically. I know I don't have to worry about your mind, but physically...						0	2.3芙提雅好感度重置
+102	不用担心，芙提雅已经成长过了！	不用擔心，芙提雅已經成長過了！	心配しないで！フリティア先生はもうバージョンアップしたんだから！	걱정하지 마. 나도 많이 성장했으니까!	You don't need to worry about that either — I've gotten stronger!						0	2.3芙提雅好感度重置
+103	多亏了分析员的帮忙，我的体力已经不像是过去一样差劲了！~	多虧了分析員的幫忙，我的體力已經不像過去一樣差勁了！~	分析員のおかげで、もう昔みたいにか弱くない～！	분석가 덕분에 예전처럼 그렇게 저질 체력은 아니야~	Thanks to your help, I'm no longer the weakling I used to be~!						0	2.3芙提雅好感度重置
+104	要量化的话，现在的我足足有过去芙提雅1.1倍的强度。	要量化的話，現在的我足足有過去芙提雅1.1倍的強度。	数値化すると今のフリティア先生は、昔のフリティア先生1.1人分くらいの強さだぞ。	만약 이걸 정량화하면 지금의 나는 무려 과거 프티야보다 1.1배 정도 강해졌다고.	If I crunch the numbers, I'd say I'm at least 1.1 times stronger than the old Fritia!						0	2.3芙提雅好感度重置
+105	这也没提升多少啊……	這也沒提升多少啊……	……可能性に満ちた伸びしろだな。	별로 안 오른 것 같은데…	That doesn't sound like much of an improvement...						0	2.3芙提雅好感度重置
+106	单说1.1倍可能看上去没多少，但是仔细想想，这可是足足百分之十。	單說1.1倍可能看起來沒多少，但仔細想想，這可是足足百分之十。	1.1人分ぐらい大差ないじゃんと思うかもしんないけど、よく考えてみたら10%も増えたんだよ？10%！	1.1배라고 하면 숫자적으로 별로 안 높아 보일 수도 있지만, 돌려 말하면 10%라고도 볼 수 있어.	I know 1.1 doesn't seem like a big number, but think about it — that's a solid 10% increase!						0	2.3芙提雅好感度重置
+107	那也是基于你原本体力增加的百分之十……	那也是基於你原本體力增加的百分之十……	それは、君の元の体力、の10%だろうよ……	그래봤자 체력의 10%밖에 증가하지 않았잖아…	Sure, but that's a 10% increase of YOUR original stamina...						0	2.3芙提雅好感度重置
+108	总之，有提升就是好的。	總之，有提升就是好的。	とにかく、フリティア先生はちゃんと成長してるの。	어쨌든, 향상이 있다는 건 좋은 일이지.	Hey, an improvement's still an improvement!						0	2.3芙提雅好感度重置
+109	顺便一说，如果用这个数据来衡量的话，分析员上次测试的体力差不多是7.7芙哦！	順便說，如果用這個數據來衡量的話，分析員上次測試的體力差不多是7.7芙哦！	ちなみに、前回のテストで測定できた分析員の体力は、なんとフリティア先生7.7人分ぐらいだよ！	그리고 이 데이터를 기준으로 하면, 분석가가 지난번 테스트에서 측정한 체력은 대략 평소 프티야의 7.7배 수준이었어!	Oh, and by the way, if we use my stamina as a measuring unit, based on the last test, your stamina is about 7.7 Fritias!						0	2.3芙提雅好感度重置
+110	要差不多八个芙提雅，才能榨干分析员的体力，分析员真强啊！	要差不多八個芙提雅，才能榨乾分析員的體力，分析員真強啊！	フリティア先生約8人でようやく分析員の体力を使い果たせるだなんて、分析員恐るべしって言いたいぐらいよ！	프티야가 8명은 돼야 분석가의 체력을 다 짜낼 수 있다니, 분석가는 정말 대단한 것 같아!	That means it'd take almost eight Fritias to wear you out! You're incredible, Adjutant!						0	2.3芙提雅好感度重置
+111	……芙提雅这么自然就把自己用作体力的计量单位，不会觉得有些微妙吗？	……芙提雅這麼自然就把自己當作體力的計量單位，不會覺得有些微妙嗎？	……フリティア、知らず知らずに自分を体力の計量単位に使ってないか……？	… 이렇게 자신의 체력을 측정 단위로 사용하면 조금 그렇지 않아?	...You don't think it's a bit weird to use yourself as a unit of measurement?						0	2.3芙提雅好感度重置
+112	好像是在迫害你一样。	好像是在迫害你一樣。	なんだか自分で自分をいじっているみたいだけど。	마치 너 자신을 박해하는 것 같기도 해서.	Feels like I'm exploiting you in some strange way...						0	2.3芙提雅好感度重置
+113	我觉得挺好的啊，名字能够成为科学的计量单位，可是芙提雅老师的梦想之一哦。	我覺得挺好的啊，名字能夠成為科學的計量單位，可是芙提雅老師的夢想之一哦。	いいと思うけどね。自分の名前が計量単位になるのも夢の一つなんだから。	난 괜찮아. 측정 단위를 언급하는 건 과학적 분석으로 볼 수 있잖아?	I think it's awesome! Becoming a scientific unit of measurement is one of Professor Fritia's dreams, you know.						0	2.3芙提雅好感度重置
+114	希望在芙提雅成为科学的计量单位之前，不会被在什么奇怪的地方用作计量单位吧……	希望在芙提雅成為科學的計量單位之前，不會被在什麼奇怪的地方用作計量單位吧……	フリティアという名が計量単位になる前に、別の変な単位として使われないといいけど……	프티야가 뭔가 이상한 곳에서 측정 단위로만 사용되지 않았으면 좋겠다…	Hopefully, before that happens, she doesn't end up as a unit for something less flattering, like height or something...						0	2.3芙提雅好感度重置
+115	嗯……我相信芙提雅这么努力，肯定能做到的，不过……	嗯……我相信芙提雅這麼努力，一定能做到的，不過……	ああ……フリティアはこんなに頑張ってるんだから、きっとなれるさ。でも……	음… 프티야가 이렇게 열심히 하니까, 분명 할 수 있을 거라고 믿어… 근데…	Well... I've no doubt you'll make that dream a reality, Fritia. But...						0	2.3芙提雅好感度重置
+116	不过？	不過？	でも？	근데?	But what?						0	2.3芙提雅好感度重置
+117	不过要是芙提雅太过努力，成天待在实验室里不愿意出来，我也是会是寂寞的。	不過要是芙提雅太過努力，整天待在實驗室裡不願意出來，我也是會是寂寞的。	頑張りすぎて実験室に籠もりっぱなしになられたら、私、寂しくなるぞ。	하지만 프티야가 너무 열심히 해서 하루 종일 실험실에서 나오려하지 않으면, 좀 외로울 것 같아.	If you keep staying locked up in the lab day in and day out, I might get lonely.						0	2.3芙提雅好感度重置
+118	没有我……分析员会寂寞……	沒有我……分析員會寂寞……	私がいないと……分析員は寂しい……	내가 없어서… 외로울 것 같다고?…	You'd be lonely without me...?						0	2.3芙提雅好感度重置
+119	少女的眼中，忽地亮起光芒。	少女的眼中，忽然亮起光芒。	少女の目がキラリと輝く。	소녀의 눈에 갑자기 빛이 떠올랐다.	Fritia's eyes sparkled.						0	2.3芙提雅好感度重置
+120	哈哈，开个玩笑。我的意思是想让芙提雅多休息下。	哈哈，開個玩笑。我的意思是想讓芙提雅多休息。	はは、冗談さ。もっと休んでほしいって言いたかったんだ。	하하, 농담이야. 내 말은 프티야가 좀 더 쉬었으면 좋겠단는 거야.	Haha, just kidding. What I meant is, make sure to take breaks now and then.						0	2.3芙提雅好感度重置
+121	……	……	……	…	...						0	2.3芙提雅好感度重置
+122	在达到梦想的成就之前，身体可不要熬垮了。	在達到夢想的成就之前，身體可不要撐垮了。	夢を叶える前に、体を壊しちゃダメだぞ。	꿈을 이루기 전에 몸을 혹사시켜서는 안 돼.	You've got to look after yourself. You can't reach your dreams if you burn out before you get there.						0	2.3芙提雅好感度重置
+123	现在时间也不早了，早点回去休息吧。	現在時間也不早了，早點回去休息吧。	もう遅いし、早く帰って休んで。	이제 시간도 늦었으니 빨리 돌아가서 쉬어.	It's late. You should get some rest.						0	2.3芙提雅好感度重置
+124	……休息吗，我会的。	……休息嗎，我會的。	……休む、か。うん、わかった。	… 쉬라고? 알겠어.	Rest... Yeah, I will.						0	2.3芙提雅好感度重置
+125	目送着分析员离开，芙提雅逐渐收敛笑容。	目送分析員離開，芙提雅逐漸收斂笑容。	遠ざかっていく分析員の背中を目に、フリティアは笑顔をしまう。	분석가가 떠나는 모습을 지켜보며 프티야는 점차 미소를 거두었다.	As the Adjutant left, Fritia's smile slowly faded.						0	2.3芙提雅好感度重置
+126	我才不想……这句话只是玩笑啊。	我才不想……這句話只是個玩笑。	冗談だなんて……思いたくない……	믿을 수 없어… 그냥 분석가는 우스갯소리로 한 거겠지.	I don't want that to be just a joke...						0	2.3芙提雅好感度重置
+127	不过要是芙提雅太过努力，成天待在实验室里不愿意出来，我也是会是寂寞的。	不過要是芙提雅太過努力，整天待在實驗室裡不願意出來，我也是會是寂寞的。	頑張りすぎて実験室に籠もりっぱなしになられたら、私、寂しくなるぞ。	하지만 프티야가 너무 열심히 해서 하루 종일 실험실에서 나오려하지 않으면, 좀 외로울 것 같아.	If you keep staying locked up in the lab day in and day out, I might get lonely.						0	2.3芙提雅好感度重置
+128	只是想到这句话，莫名的情愫像是电流一样窜过少女的大脑，内心有股情绪格外滚烫。	只是想到這句話，莫名的情愫像是電流一樣竄過少女的大腦，內心有股情緒格外滾燙。	その言葉を思い出すだけで、不思議な感情が電流のように脳内を走り、心の中に熱いものがこみ上げてくる。	분석가가 한 말을 떠올리자 왠지 모를 감정이 전류처럼 소녀의 머리를 스쳤고, 가슴이 뜨거워졌다.	The thought of those words sent a surge of emotion through her chest.						0	2.3芙提雅好感度重置
+129	必须更努力才行。	必須更努力才行。	もっと頑張らないと。	더 열심히 할 거야.	I've got to work even harder.						0	2.3芙提雅好感度重置
+130	这样……才能让分析员明白。	這樣……才能讓分析員明白。	そうすれば……分析員にわかってもらえる。	그래야… 분석가가 이해할 수 있을 거야.	Only then... will the Adjutant truly understand.						0	2.3芙提雅好感度重置
+131	少女攥紧小小的拳头，像是重新得到了动力和刺激，又像是带着某种期待，迈着雀跃脚步返回了房间。	少女攥緊小小的拳頭，像是重新得到了動力和刺激，又像是帶著某種期待，邁著雀躍腳步返回了房間。	少女は拳を握りしめ、再び活力と刺激を取り戻したように、軽やかなステップを踏みながら自室へ戻る。	소녀는 작은 주먹을 불끈 쥐며 마치 새로운 힘과 자극을 얻은 듯, 기대를 안고 경쾌한 발걸음으로 방으로 돌아갔다.	Clenching her small fists, Fritia felt a surge of renewed energy. With excitement and anticipation gleaming in her eyes, she skipped back to her room.						0	2.3芙提雅好感度重置
+132	她一屁股坐上门口带滑轮的椅子，轻轻一踩地板，借助反推力，滑轮“咻”的将连人带椅送到了电脑桌前。	她一屁股坐上門口帶滑輪的椅子，輕輕一踩地板，借助反推力，滑輪「咻」的將連人帶椅送到了電腦桌前。	キャスター付きの椅子に勢いよく腰掛け、軽く床を蹴ると、その反動で椅子ごとすらりとデスクの手前まで移動する。	그녀는 문 앞에 있는 바퀴가 달린 의자에 앉아, 살짝 바닥을 밟고 반발력을 이용해 의자와 함께 움직여 컴퓨터 책상 앞까지 미끄러져 갔다.	She flopped into her rolling chair and gave the floor a light push, sending herself gliding effortlessly across the room to her desk.						0	2.3芙提雅好感度重置
+133	打开电脑。	打開電腦。	パソコンを起動する。	컴퓨터를 켠다.	She fired up her computer.						0	2.3芙提雅好感度重置
+134	请输入解锁密码。	請輸入解鎖密碼。	「パスワードを入力してください」	비밀번호를 입력해 주세요.	Please enter your password.						0	2.3芙提雅好感度重置
+b-1											0	2.3芙提雅好感度重置
+135	【Ftiya168.5】	【Ftiya168.5】	【Ftiya168.5】	[Ftiya168.5]	[Fritia168.5]						0	2.3芙提雅好感度重置
+136	>>>>>>登录网址<<<<<<\n\n>>>>>>建立问题<<<<<<\n\n>>>>>>提交问题<<<<<<\n\n	>>>>>>登入網址<<<<<<\n\n>>>>>>建立問題<<<<<<\n\n>>>>>>提交問題<<<<<<\n\n	>>>>>>ログイン<<<<<<\n\n>>>>>>質問を作成<<<<<<\n\n>>>>>>質問を投稿<<<<<<\n\n	>>>>> 로그인 URL <<<<<\n\n>>>>>문제 생성<<<<<\n\n>>>>>문제 제출<<<<<\n\n	>>>>>> Logging In <<<<<<\n\n>>>>>> Editing Query <<<<<<\n\n>>>>>> Submitting Query <<<<<<\n\n						0	2.3芙提雅好感度重置
+137	一气呵成的动作后，芙提雅按下回车键。	一氣呵成的動作後，芙提雅按下確認鍵。	か細い指を素早く動かし、そして勢いよく弾くようにエンターキーを押す。	단숨에 동작을 마친 프티야는 Enter 키를 눌렀다.	With swift keystrokes, Fritia pressed enter.						0	2.3芙提雅好感度重置
+138	您的新问题已建立\n【同事今天说没有我陪他很寂寞，他是不是喜欢我呀？】	您的新問題已建立\n【同事今天說沒有我陪他很寂寞，他是不是喜歡我呀？】	新しい質問が作成されました。\n【同僚から一緒にいなくて寂しいと言われました。自分に気があるということでしょうか】	새로운 문제를 생성했습니다\n[직장 동료가 오늘 제가 없으면 너무 외롭다고 했는데, 이거 그린 라이트일까요?]	Your new query has been posted:\n"A colleague says he feels lonely without me. Does that mean he has a crush on me?"						0	2.3芙提雅好感度重置
+139	搞定！~	搞定！~	これでよしっと！	완료!~	There you go~!						0	2.3芙提雅好感度重置
+140	你收到一条回复。	你收到一條回復。	新しい回答が届きました。	답변이 도착했습니다.	You have a new comment.						0	2.3芙提雅好感度重置
+141	这么快就有人回复了啊。	這麼快就有人回復了啊。	もう回答が来たんだ。	이렇게 빨리 답변을 해주다니.	Already? Let's see...						0	2.3芙提雅好感度重置
+142	2L：我家猫今天围着我叫了一天，它是不是喜欢我啊？哦……我想起我今天忘记给它投食了。	2L：我家貓今天圍著我叫了一天，它是不是喜歡我啊？喔……我想我今天忘記給它投食了。	0002：うちの猫が今日一日中ずっと自分の横で鳴いてた。こいつ、俺のことがこんなに好きなのかって思いきや、今日餌あげ忘れてたわ。	2L: 우리 집 고양이가 오늘 하루 종일 나한테 울면서 맴돌았는데, 이거 나를 좋아하는 거 맞죠? 아… 생각해 보니 오늘 밥을 안 줬네.	Post #2: My cat meowed at me all day. Does that mean she has a crush on me? Oh... wait, turns out I forgot to feed her.						0	2.3芙提雅好感度重置
+143	3L：今天同事说我再看一眼她就要爆炸，她是不是喜欢我啊？	3L：今天同事說我再看一眼她就要爆炸，她是不是喜歡我啊？	0003：同僚から、今度チラ見してきたらただじゃおかないって言われました。彼女、私に気があるのしょうか。	3L: 오늘 동료가 내가 한 번 더 쳐다보면 화낼거라고 했는데, 이거 날 좋아하는 거 맞지?	Post #3: My colleague said she'd lose it if I looked at her one more time. Does that mean she's crazy for me?						0	2.3芙提雅好感度重置
+144	4L：3L，你确定她不是被气的？	4L：3L，你確定她不是被氣的？	0004：>>3　それただ怒ってるんじゃね？	4L: 3L, 이건 걔가 화난 게 아니야?	Post #4: #3, are you sure she wasn't just pissed off?						0	2.3芙提雅好感度重置
+145	5L：我同事说“就凭你也想追我，等下辈子吧”，意思是不是她愿意等我等到下辈子啊？	5L：我同事說「就憑你也想追我，等下輩子吧」，意思是不是她願意等我等到下輩子啊？	0005：私と付き合いたいだなんて、来世に期待ねって女の人から言われました。それは彼女は来世まで私を待ってくれるってことでしょうか？	5L: 내 동료가 '나랑 사귀려고? 다음 생에나 생각하시지.'라고 했는데, 이 말은 그녀가 나를 다음 생까지 기다려주겠다는 뜻인가요?	Post #5: My co-worker said: "Go out with you? Sure, maybe in the next life." Does that mean she loves me so much she wants to be my soulmate for eternity?						0	2.3芙提雅好感度重置
+146	6L：但凡来颗花生米……	6L：但凡來顆花生米……	0006：かなりの重症だ……	6L: 술안주로 땅콩이라도 있었으면…	Post #6: That's not desperate at all, buddy.						0	2.3芙提雅好感度重置
+147	7L：+v，&&^%$%看，刺激影片，寂寞，夜，来。	7L：+v，&&^%$%看，刺激影片，寂寞，夜，來。	0007：ひとりの夜は寂しいな😢一緒に過ごしてくれる方を募集します❤ここからDMして→https://&^%$%	7L: +친추, &&^%$% 보기, 후끈한 영상, 외로운 밤, 여기로 오세요.	Post #7: Wanna watch something spicy? DM me!						0	2.3芙提雅好感度重置
+148	8L：举报7L喵，7L是骗子喵。	8L：檢舉7L喵，7L是騙子喵。	0008：7を通報ニャン、7は詐欺ニャン。	8L: 7L를 신고한다냥, 7L는 사기꾼이다냥.	Post #8: Scam alert, nya! Let's report #7.						0	2.3芙提雅好感度重置
+149	9L：8L你是不是被骗了？	9L：8L你是不是被騙了？	0009：8 騙されたのか？	9L: 8L, 너 사기당한 거 아니야?	Post #9: #8, did you get scammed or something?						0	2.3芙提雅好感度重置
+150	10L：举报9L喵，9L是傻子喵。	10L：檢舉9L喵，9L是傻子喵。	0010：9を通報ニャン、9はバカニャン。	10L: 9L를 신고한다냥, 9L는 바보다냥.	Post #10: Idiot alert, nya! Let's report #9.						0	2.3芙提雅好感度重置
+151	？？？	？？？	？？？	???	...Seriously?						0	2.3芙提雅好感度重置
+152	可恶，就没有一个正经的回答吗。	可惡，就沒有正經的回答嗎。	もー、真面目に答えてくれる人はひとりもいないのか。	젠장, 진지한 대답하는 사람이 없네.	Ugh, these people are no help.						0	2.3芙提雅好感度重置
+153	芙提雅盯着开始拐向奇怪方向的楼层，小鼻子都快要气歪了。	芙提雅盯著開始拐向奇怪方向的樓層，小鼻子都快要氣歪了。	フリティアはどんどん変になる回答を眺めながら、ぷんすかと怒り出した。	프티야는 댓글이 점점 산으로 가는 걸 보고 화가나서 코가 삐뚫어질 지경이다.	Fritia watched as the thread veered off into absurdity, her little nose wrinkling in frustration.						0	2.3芙提雅好感度重置
+b-2											0	2.3芙提雅好感度重置
+154	【打开收藏夹】	【打開收藏夾】	【My質問】	[즐겨찾기 열기]	[Favorites]						0	2.3芙提雅好感度重置
+155	少女的目光从自己一系列提问的收藏扫过。	少女的目光從自己一系列提問的收藏掃過。	少女は、過去に自分が投稿した一連の質問を見渡す。	소녀의 시선은 자신의 질문 즐겨찾기 모음집을 훑어보았다.	She glanced over her collection of saved topics.						0	2.3芙提雅好感度重置
+156	【怎么确定自己喜欢上某个人？】\n【怎样才能长高？】\n【怎样才能让女性的第二性征成长？】\n【要做到什么程度才能让喜欢的人喜欢上我呢？】\n【怎样哄喜欢的人睡觉？】\n【咖啡豆的一万种烘焙法】\n【什么时候可以表白？】\n\n	【怎麼確定自己喜歡上某個人？】\n【怎樣才能長高？】\n【怎樣才能讓女性的第二性徵成長？】\n【要做到什麼程度才能讓喜歡的人喜歡上我呢？】\n【怎樣哄喜歡的人睡覺？】\n【咖啡豆的一萬種烘焙法】\n【什麼時候可以告白？】\n\n	【自分の『好き』という気持ちを確かめるにはどうすれば良いのでしょうか】\n【身長を伸ばす方法】\n【つるぺたを卒業したいです】\n【男をその気にさせる方法を教えてください】\n【好きな人を寝かしつけるには】\n【コーヒー豆の焙煎方法をなんでも教えてください】\n【告るタイミングはいつがベスト？】\n\n	[누군가를 좋아하게 된 사실을 어떻게 입증하지?]\n[어떻게 하면 키가 클 수 있을까?]\n[어떻게 하면 여성의 2차 성징을 발현할 수 있을까?]\n[어느 정도까지 해야 좋아하는 사람도 나를 좋아하게 될까?]\n[좋아하는 사람을 어떻게 재울까?]\n[원두 로스팅의 만 가지 방법] \n[언제 고백하는 게 좋을까?]\n\n	[How Do I Know if I'm Falling in Love?]\n[Ways to Grow Taller]\n[Exercises or Natural Methods to Enhance Female Body Curves]\n[How to Make Your Crush Fall In Love With You]\n[How to Lull Your Crush to Sleep]\n[10,000 Ways to Roast Coffee Beans]\n[When Is the Right Time to Say "I Love You"]\n\n						0	2.3芙提雅好感度重置
+157	……	……	……	…	...						0	2.3芙提雅好感度重置
+158	芙提雅的目光最终锁定了两个收藏。	芙提雅的目光最終鎖定了兩個收藏。	やがて、すばやく上下する視線は二つの投稿に定まった。	프티야의 시선은 결국 2개 즐겨찾기에서 멈췄다.	Her gaze lingered on two particular topics.						0	2.3芙提雅好感度重置
+e-3											0	2.3芙提雅好感度重置
+159	【怎么确定自己喜欢上某个人？】	【怎麼確定自己喜歡上某個人？】	【自分の『好き』という気持ちを確かめるにはどうすれば良いのでしょうか】	[누군가를 좋아하게 된 걸 어떻게 확인할까?]	[How Do I Know if I'm Falling in Love?]						0	2.3芙提雅好感度重置
+160	我有个想念的人：不需要再用我很忙来填满孤独。	我有個想念的人：不需要再用我很忙來填滿孤獨。	＜想い人どこへ＞さん：孤独さを紛らわすための予定を入れる必要がなくなるし、	내겐 그리운 사람이 있어: 더 이상 '난 바빠'로 외로움을 채우지 않아도 된다.	IMissHim: When you no longer need to stay busy just to avoid feeling lonely.						0	2.3芙提雅好感度重置
+161	我有个想念的人：闲暇的时间会下意识惦记他，惦记起他的时候脸上会有笑。	我有個想念的人：閒暇的時間會下意識在意他，掛念他的時候臉上會有笑。	＜想い人どこへ＞さん：暇な時は無自覚にその人のことを思い出す。そのたび、勝手に笑顔がこぼれる。	내겐 그리운 사람이 있어: 한가할 때면 무의식적으로 그를 떠올리고, 그를 떠올리면 미소가 저절로 나온다.	IMissHim: You find yourself smiling whenever you think about him.						0	2.3芙提雅好感度重置
+162	我有个想念的人：想要与他分享你认为的美味，想要与他共享你得到的喜悦，想要与他一起度过每一天。	我有個想念的人：想要與他分享你認為的美味，想要與他分享你所得到的喜悅，想要與他一起度過每一天。	＜想い人どこへ＞さん：美味いと思った食べ物を食べてもらいたいし、嬉しいことがあったら一緒に喜びたい。あまつさえ、毎日いっしょにいたい。	내겐 그리운 사람이 있어: 그와 함께 맛있는 걸 먹고 싶다, 그와 기쁨을 함께 나누고 싶고, 그와 매일을 함께 보내고 싶다.	IMissHim: You want to share every delicious bite and joyful moment with him, and spend every day by his side.						0	2.3芙提雅好感度重置
+163	我有个想念的人：还有，在你提交这个问题的时候。	我有個想念的人：還有，在你提出這個問題的時候。	＜想い人どこへ＞さん：以上の項目、憶測ですがすべて図星だったのではないでしょうか。投稿者であるあなたが、この質問を投稿した時点で、答えはもうわかりきったことなのです。	내겐 그리운 사람이 있어: 이 질문을 작성하는 순간에도.	IMissHim: And when you decided to post this question.						0	2.3芙提雅好感度重置
+164	怔怔看了已经能够背下来的文字好一会，少女抿了抿小嘴。	怔怔看了已經能夠背下來的文字一陣子，少女抿了抿小嘴。	ほぼ暗記できている文章をしばらく見つめ、少女は小さな口をきゅっと結んだ。	외울 수 있는 글자를 한참 동안 넋을 잃고 바라보다가 소녀는 입을 오므렸다.	She stared blankly at the comments she had read countless times, lips pursing.						0	2.3芙提雅好感度重置
+165	关于喜欢的论证，不管是多少次实验，她都能得到，一样的结论。	關於喜歡的論證，不管是多少次實驗，她都能得到，一樣的結論。	「好き」という気持ちの検証はこれまで何度も行ったが、いつも同じ結論にたどり着いてしまう。	'좋아함'에 관한 논증에는 몇 번의 실험이 있어도 그녀는 똑같은 결론을 얻을 수 있었다.	No matter how many times she ran this experiment in her head, the conclusion was always the same.						0	2.3芙提雅好感度重置
+166	【什么时候可以表白？】	【什麼時候可以表白？】	【告るタイミングはいつがベスト？】	[언제 고백하는 게 좋을까?]	[When Is the Right Time to Say "I Love You"]						0	2.3芙提雅好感度重置
+167	我有个想念的人：下策——孤注一掷。	我有個想念的人：下策——孤注一擲。	＜想い人どこへ＞さん：告白は大体、この3つのパターンに分けられると思います。一つ目、一か八か思いっきり告白する。	내겐 그리운 사람이 있어: 하책… 올인.	IMissHim: Risky move: Just roll the dice.						0	2.3芙提雅好感度重置
+168	我有个想念的人：中策——天时地利，满兜勇气。	我有個想念的人：中策——天時地利，滿懷勇氣。	＜想い人どこへ＞さん：二つ目、余裕があれば、時と場所を考えて、勇気が満ちた時に告白する。	내겐 그리운 사람이 있어: 중책… 적절한 시기와 장소, 엄청난 용기.	IMissHim: Safe play: Wait for the perfect moment and gather all your courage.						0	2.3芙提雅好感度重置
+169	我有个想念的人：上策——水到渠成，瓜熟蒂落；围棋妙手，文章天成。	我有個想念的人：上策——水到渠成，瓜熟蒂落；圍棋妙手，文章天成。	＜想い人どこへ＞さん：三つ目、物事は熟せば成るもの。時が来たら、すべてがうまくいく――これが最適解だと思います。	내겐 그리운 사람이 있어: 상책… 물 흐르듯이 자연스럽게 이루어지는 것.	IMissHim: Best strategy: When the stars align, constellations form. As poetry flows, perfect and whole, from the poet's quill.						0	2.3芙提雅好感度重置
+170	FFF：上策是什么意思？	FFF：上策是什麼意思？	＜FFF＞さん：最後のはどういう意味？	FFF: 상책은 무슨 뜻이지?	FFF: I don't understand the last one.						0	2.3芙提雅好感度重置
+171	我有个想念的人：时刻到来，你会明白。	我有個想念的人：時刻到來，你會明白。	＜想い人どこへ＞さん：その時が来れば、わかると思います。	내겐 그리운 사람이 있어: 때가 되면 이해하게 될 것이야.	IMissHim: When the time's right, you'll know.						0	2.3芙提雅好感度重置
+172	我有个想念的人：合适的爱情，不是你追着它靠近的。	我有個想念的人：對的愛情，不是你追著它靠近的。	＜想い人どこへ＞さん：理想的な愛は、追いかけて手に入れるものではありません。	내겐 그리운 사람이 있어: 적절한 사랑은 네가 쫓아가는 게 아니야.	IMissHim: True love isn't chased.						0	2.3芙提雅好感度重置
+173	我有个想念的人：它应该会向你飞奔而来。	我有個想念的人：它應該會向你飛奔而來。	＜想い人どこへ＞さん：自らあなたに駆けてくるものなのです。	내겐 그리운 사람이 있어: 오히려 네게 달려올 것이야.	IMissHim: It rushes toward you.						0	2.3芙提雅好感度重置
+174	FFF：不懂。	FFF：不懂。	＜FFF＞さん：やはりわかりません。	FFF: 잘 모르겠네.	FFF: I don't get it.						0	2.3芙提雅好感度重置
+175	芙提雅看过那些对话，最后目光凝视着中策。	芙提雅看過那些對話，最後目光凝視著中策。	フリティアはしばらくその会話を読み返し、やがて視線を二つ目のアドバイスに留めた。	프티야는 그 대화들을 읽고, 결국 시선을 중책에 고정했다.	Fritia skimmed through the conversation, her eyes settling on the "safe play."						0	2.3芙提雅好感度重置
+176	分析员，再给我一点时间吧……	分析員，再給我一點時間吧……	分析員、もう少しだけ待ってて……	분석가, 좀 더 시간을 줘…	Please give me a little more time, Adjutant...						0	2.3芙提雅好感度重置
+177	你收到一条回复。	你收到一條回復。	新しい回答が届きました。	답장 1개를 받았습니다.	You have a new comment.						0	2.3芙提雅好感度重置
+178	思绪才从收藏夹的文字抽离，芙提雅就收到了新的提示。	思緒才從收藏夾的文字抽離，芙提雅就收到了新的提示。	画面に表示されている文章から意識を逸らすと、新しい通知が来た。	머릿속에서 즐겨찾기 글귀가 빠져나가자마자 프티야는 새로운 힌트를 닫았다.	As she wrapped up her thoughts, a new notification popped up.						0	2.3芙提雅好感度重置
+179	芙提雅点回先前的问题帖，翻到最后几楼。	芙提雅點回先前的問題串，翻到最後幾樓。	先ほど投稿した質問スレッドを開き、最後のレスまでスクロールする。	프티야는 전에 올렸던 질문 게시글로 돌아가, 마지막 몇 개의 답글을 확인했다.	Fritia opened her post again and scrolled to the bottom.						0	2.3芙提雅好感度重置
+180	我有个想念的人：要不要去试试呢？	我有個想念的人：要不要去試試呢？	＜想い人どこへ＞さん：それは、これからわかるものです。	내겐 그리운 사람이 있어: 한번 시도해보는 게 어떠세요?	IMissHim: Why not give it a try?						0	2.3芙提雅好感度重置
+181	我有个想念的人：他这么说了，就去陪陪他吧。	我有個想念的人：他這麼說了，就去陪他吧。	＜想い人どこへ＞さん：その人がそう言うなら、そばにいてあげてください。	내겐 그리운 사람이 있어: 그가 이렇게 말했으니, 가서 그를 모시러 가십시오.	IMissHim: He said he's lonely without you — so why not keep him company?						0	2.3芙提雅好感度重置
+182	对哦，是可以这样做！	對哦，是可以這樣做！	なるほど、なんてご名答！	맞아, 그렇게 할 수 있겠네!	Right, I could do that!						0	2.3芙提雅好感度重置
+183	可是……我快没有时间了。	可是……我快沒有時間了。	でも……もう時間が……	하지만… 시간이 거의 없어.	But... I'm running out of time.						0	2.3芙提雅好感度重置
+184	芙提雅陷入纠结，可忽然之间，芙提雅想到了自己很久以前开发的一个小玩具。	芙提雅陷入糾結，但突然之間，芙提雅想到了很久以前開發的小玩具。	と悩みはじめるフリティア。ふと、ずっと前に遊び半分で作ったちょっとした「おもちゃ」のことを思い出す。	프티야는 고민에 빠졌다가 문득 오래전 자신이 개발한 작은 장난감을 떠올렸다.	Torn between decisions, Fritia suddenly remembered a small project she had developed long ago.						0	2.3芙提雅好感度重置
+185	那是基于她开发的“火种”工具，开发出来的特殊系统。	那是基於她開發的「火種」工具，開發出來的特殊系統。	それは、自分が開発した「火種」ツールをベースに作られた一風変わったシステムであった。	그것은 그녀가 개발한 '불씨' 도구를 기반으로 개발된 특수 시스템이다.	It was a system built upon her Ember technology, designed with a very specific purpose.						0	2.3芙提雅好感度重置
+186	【芙提雅老师关爱系统】	【芙提雅老師關愛系統】	【フリティア先生お世話システム】	[프티야 선생님의 케어 시스템]	[Professor Fritia's Care System]						0	2.3芙提雅好感度重置
+187	因为某天发现分析员的生活极其不规律，芙提雅想要给予分析员无微不至的关照，才开发了这套系统。	因為某天發現分析員的生活極不規律，芙提雅想要給予分析員無微不至的關照，才開發了這套系統。	ある日、分析員の生活習慣のだらしなさに気づいたフリティアは、彼にきめ細やかなお世話をしてあげるために、開発したものなのである。	어느 날 분석가의 생활이 극도로 불규칙하다는 것을 알게 된 프티야는 분석가에게 세심한 배려를 해주기 위해 이 시스템을 개발하게 되었다.	One day, noticing the Adjutant's unhealthy habits due to his nonstop workload, Fritia created a system that would offer him meticulous care and support.						0	2.3芙提雅好感度重置
+188	只是将其用自己的数据和网上的数据投喂，开发出来后，芙提雅发现……这套孵化了三套人格的系统存在很多奇怪的问题。	只是將其用自己的數據和網路上的數據投餵，開發出來後，芙提雅發現……這套孵化了三套人格的系統存在著許多奇怪的問題。	自分のデータとネット上のデータベースを学習させただけのものだが、自ら三つの人格を生み出したあと、おかしなところも多々生じた。	자체 데이터와 온라인 데이터를 주입해 개발한 후… 프티야는 이 3개 인격을 포함한 시스템에서 여러 이상한 문제를 발견했다.	But after feeding the system both her own data and online sources, she noticed it unexpectedly spawned three distinct personalities, along with some odd bugs.						0	2.3芙提雅好感度重置
+189	故而，那套系统被她一直压在手中，没能投放出去。	故而，那套系統被她一直壓在手中，沒能投放出去。	その故、出来上がりから使ったことは一度もなく、長い月日、パソコンの肥やしのままだった。	하여 그 시스템을 줄곧 오픈하지 못했던 것이다.	In the end, she shelved the project.						0	2.3芙提雅好感度重置
+190	将系统拖拽到了发送给分析员的传输框，芙提雅犹豫许久，始终没能做出发送的决定。	將系統拖曳到了發送給分析員的傳輸框，芙提雅猶豫許久，始終沒能做出發送的決定。	システムのファイルを分析員に送ろうとしたが、しばらく逡巡したあげく、結局、送信ボタンを押すことができなかった。	분석가에게 전송할 시스템을 전송 상자로 드래그한 프티야 한참을 망설였고 전송 결정을 내리지 못했다.	Now, she hovered over the system file, dragging it to the message box addressed to the Adjutant. Her finger lingered over the send button, hesitating.						0	2.3芙提雅好感度重置
+191	这时吃饱后的困顿也涌上心头，芙提雅短暂的迟疑后，没有抗拒这种困意，她定了个一小时的闹钟，强迫自己休息。	這時吃飽後的困頓也湧上心頭，芙提雅短暫的遲疑後，沒有抗拒這種睏意，她定了一小時的鬧鐘，強迫自己休息。	折しも、満腹の睡魔がやってきた。フリティアは少し悩んだ後、一時間後のアラームをセットした。別れ際に分析員から言われた言葉を思い出したのだ。	이때 배불리 먹은 후의 피곤함도 밀려왔고, 프티야는 잠시 머뭇거리다가도 그 졸음을 거역하지 않고 한 시간 동안의 알람을 맞추고 휴식을 청했다.	Full and exhausted, drowsiness began to creep in. She set a one-hour alarm, forcing herself to take a quick break.						0	2.3芙提雅好感度重置
+192	这是为了用更好的精力投入工作。	這是為了用更好的精力投入工作。	本調子で仕事に向き合うためにも、とフリティアが自分に言い聞かせる。	이건 더 나은 에너지로 일에 몰입하기 위함이야.	After all, she needed to recharge to be at her best for work.						0	2.3芙提雅好感度重置
+193	还是等醒来后……再做决定吧。	還是等醒來後……再做決定。	あとは、また起きてからにしよ……	아니면 자고 나서… 다시 결정하자.	I'll sleep on it...						0	2.3芙提雅好感度重置
+194	睡着的芙提雅，并不知晓……自己的脑袋一头栽在桌面睡着的时候，手指不经意按下了发送键。	睡著的芙提雅，並不知曉……自己的腦袋一頭栽在桌面睡著的時候，手指不經意按下了發送鍵。	そのまま寝落ちして、顔面が送信ボタンを直撃してしまったことを知りもせず、少女はすやすやと寝息を立て始めた。	잠을 자던 프티야는 책장에 머리를 대고 잠이 들었을 때 손가락이 무심코 보내기 버튼을 누른 사실을… 미처 몰랐다.	What Fritia didn't realize was that, as she drifted off face down on the desk, her finger accidentally pressed the Send button.						0	2.3芙提雅好感度重置
+195	>>>>>>你的文件已经传输成功<<<<<<	>>>>>>你的檔案已經傳輸成功<<<<<<	>>>>>>ファイルの送信が完了しました<<<<<<	>>>>>파일이 성공적으로 전송되었습니다. <<<<	>>>>>> File sent successfully <<<<<<						0	2.3芙提雅好感度重置
+196	她陷入睡梦。	她陷入睡夢。	蕩けるように、意識がまどろんでいく。	그녀는 잠에 빠졌다.	She fell asleep.						0	2.3芙提雅好感度重置
+197	梦中，她与他回到初遇——	夢中，她與他回到初遇——	夢うつつの中、彼と初めての邂逅を果たしたあの日へ――	꿈속에서, 그녀는 그와의 첫 만남으로 돌아갔다.	In her dreams, she found herself back at the moment they first met...						0	2.3芙提雅好感度重置
+198	呜呜呜呜呜呜。	嗚嗚嗚。	しくしく……	흑흑흑흑흑흑.	*sobbing*...						0	2.3芙提雅好感度重置
+199	我再也不想做研究了……	我再也不想做研究了……	もう研究なんかやりたくない……	나는 더 이상 연구를 하고 싶지 않아…	I don't want to do research anymore...						0	2.3芙提雅好感度重置
+200	为什么……为什么，明明我只是想要帮助大家……	為什麼……為什麼，明明我只是想要幫助大家……	どうして……どうしてだよ……ただみんなの役に立ちたいだけなのに……	왜… 왜, 난 그냥 너희들을 도우려고 했던건데…	Why... It's not fair... All I wanted was to help people...						0	2.3芙提雅好感度重置
+201	所有微小的崩溃，积蓄在一起，宛若雪崩一样倾塌。	所有微小的崩潰，積蓄在一起，宛若雪崩一樣傾塌。	積み重なった心労で、気持ちは雪なだれのように崩れ落ちる。	여러 작은 힘든 순간들이 모여 마치 눈사태처럼 무너져 내린다.	All her pent-up frustration, every small meltdown, now cascaded like an avalanche, overwhelming her.						0	2.3芙提雅好感度重置
+202	他就是在那个时候出现的。	他就是在那個時候出現的。	彼が現れたのは、その時だった。	그는 바로 그때 나타났다.	And that's when he appeared in her life.						0	2.3芙提雅好感度重置
+203	第一次的相遇，在没人可以找到的地方找到了她，脸上带着半分惊讶，半分尴尬。	第一次的相遇，在沒人可以找到的地方找到了她，臉上帶著半分驚訝，半分尷尬。	それがふたりの初めての出会い。誰もいない場所で彼女を見つけた彼の顔には、驚きと気まずさが入り混じっていた。	아무도 볼 수 없는 곳에서 그녀를 발견한 첫 만남, 놀라면서도 당황한 얼굴로 말이다.	He found her in a secluded spot away from everyone else. His face showed a hint of surprise, maybe even a little awkwardness.						0	2.3芙提雅好感度重置
+204	可他的眼里，又好像充满了将她身体完全托住的温柔。	但他的眼裡，好像充滿了將她身體完全托住的溫柔。	その瞳には、自分を優しく包み込むような温かさがあった。	하지만 그의 눈은 그녀의 몸을 온전히 안아주는 부드러움으로 가득 차 있는 것 같았다.	Yet his eyes radiated a gentle warmth — as if he could catch her before she completely fell apart.						0	2.3芙提雅好感度重置
+205	<speed=0.4>他说，</>\n从今天开始，我就是你的分析员了。\n<speed=0.4>他说，</>\n你被什么人欺负了吗？\n<speed=0.4>他说，</>\n帮助队员“伸张正义”，是我的职责。\n<speed=0.4>他说，</>\n如果你有什么困难，尽管依靠我。\n<speed=0.4>他说，</>\n就算你是小太阳，也不用强颜欢笑，在我面前哭出来也没关系。	<speed=0.4>他說，</>\n從今天開始，我就是你的分析員了。\n<speed=0.4>他說，</>\n你被什麼人欺負了嗎？\n<speed=0.4>他說，</>\n幫助隊員「伸張正義」，是我的職責。\n<speed=0.4>他說，</>\n如果你有什麼困難，儘管依靠我。\n<speed=0.4>他說，</>\n就算你是小太陽，也不用強顏歡笑，在我面前哭出來也沒關係。	<speed=0.4>彼は言った。</>\n今日から、私は君の分析員だ。\n<speed=0.4>彼は言った。</>\n誰かにいじめられたのか？\n<speed=0.4>彼は言った。</>\n隊員を助けるのが私の役目だ。\n<speed=0.4>彼は言った。</>\nもし何か困ったことがあったら、遠慮せず頼ってくれ。\n<speed=0.4>彼は言った。</>\n別におひさまちゃんと呼ばれても、無理して笑う必要はない。私の前では、泣いてもいい。	<speed=0.4>그가 말했다</>,\n오늘부터 나는 너의 분석가야.\n<speed=0.4>그가 말했다,</>\n누가 너를 괴롭혔어?\n<speed=0.4>그가 말했다</>,\n팀원들을 위해 '정의를 펼치는 건' 내가 마땅히 해야 할 일이야.\n<speed=0.4>그가 말했다</>,\n어려운 일이 있으면 언제든 내게 기대.\n<speed=0.4>그가 말했다</>,\n네가 리틀썬이라 해도 억지로 웃을 필요 없어, 내 앞에서는 울어도 괜찮아.	<speed=0.4>He said,</>\n"Nice to meet you, I'm your new Adjutant."\n<speed=0.4>He said,</>\n"Did someone upset you?"\n<speed=0.4>He said,</>\n"It's my job to look after my operatives."\n<speed=0.4>He said,</>\n"So, if you're having a hard time, you can always count on me."\n<speed=0.4>He said,</>\n"Even our Little Sunshine doesn't have to shine all the time. It's okay to cry in front of me."						0	2.3芙提雅好感度重置
+206	分~析~员……	分~析~員……	ああ……分析員……	분~ 석~ 가…	Adjutant...						0	2.3芙提雅好感度重置
+207	在与分析员相遇后，她才有了真正的笑容，成为了真实的小太阳。	在與分析員相遇後，她有了真正的笑容，成為了真實的小太陽。	分析員と出会ってから、彼女は本当の笑顔を取り戻し、本物の「おひさまちゃん」になった。	분석가를 만난 후에야 그녀는 진정한 웃음을 보였고, 진정한 리틀썬이 되었다.	It was only after meeting the Adjutant that she found her true smile, finally blossoming into the radiant Little Sunshine she was meant to be.						0	2.3芙提雅好感度重置

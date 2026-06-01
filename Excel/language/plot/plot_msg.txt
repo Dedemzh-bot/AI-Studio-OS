@@ -1,0 +1,52 @@
+﻿字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	zh_CN	disable	Remark
+ENDW	未完待续	0	
+ENDJ	 	0	
+ch1.name	第二章	0	
+ch1.title	测试一下	0	
+PlaceName1001	世界树公司内部病房		
+PlaceName1002	世界树公司走廊		
+PlaceName1003	作战指挥室		
+PlaceName1004	海姆达尔队员基地		
+PlaceName1005	陶的办公室		
+PlaceName1006	花店		
+PlaceName2001	零区		
+PlaceName2002	“安全屋”		
+PlaceName2003	棚户区		
+PlaceName2004	“峡谷”		
+PlaceName2005	郊狼领地		
+PlaceName2006	缓冲区某避难所		
+PlaceName2007	庚号大门		
+PlaceName3001	降临团领地		
+PlaceName3002	降临团讲坛		
+PlaceName3003	零区地铁入口		
+PlaceName7001	天楼高区		
+PlaceName7002	天楼低区		
+PlaceName7003	天楼室内		
+PlaceName7004	英灵之路		
+PlaceName7005	耶洛沙边境	0	
+Time_Hour1001	23	0	
+Time_Minite1001	57	0	
+ENDW1	菲洛索亚篇	0	2.7片尾字幕
+PlaceName28001	量子科技研究室	0	2.8地点名称
+PlaceName28002	泰坦科技研究室	0	2.8地点名称
+PlaceName28003	生命科技研究室	0	2.8地点名称
+Trpgtext001	分析员<orange>侦查</>检定\n观察酒店大厅		3.2版本跑团文本
+Trpgtext002	芬妮<orange>厨艺</>检定\n用美食改变侍应生的想法		3.2版本跑团文本
+Trpgtext003	奈莉德<orange>恐吓</>检定\n拿出足以压倒侍应生的气势		3.2版本跑团文本
+Trpgtext004	分析员<orange>侦查</>检定\n在长廊处寻找线索		3.2版本跑团文本
+Trpgtext005	奈莉德<orange>聆听</>检定\n在长廊处寻找线索		3.2版本跑团文本
+Trpgtext006	<orange>幸运</>检定\n等待意外之喜到来		3.2版本跑团文本
+Trpgtext007	芬妮<orange>汽车驾驶</>检定\n逃离眼前的险境		3.2版本跑团文本
+Trpgtext008	芬妮<orange>汽车驾驶</>孤注一掷\n逃离眼前的险境		3.2版本跑团文本
+Trpgtext009	分析员<orange>灵感</>检定\n寻找开门的方法		3.2版本跑团文本
+Trpgtext010	芬妮<orange>灵感</>检定\n寻找开门的方法		3.2版本跑团文本
+Trpgtext011	瑟瑞斯<orange>精神分析</>检定\n寻找开门的方法		3.2版本跑团文本
+Trpgtext012	奈莉德<orange>恐吓</>检定\n寻找开门的方法		3.2版本跑团文本
+Trpgtext013	分析员<orange>急救</>检定\n救治眼前的少女		3.2版本跑团文本
+Trpgtext014	瑟瑞斯<orange>精神分析</>检定\n安抚眼前的少女		3.2版本跑团文本
+ENDW2	新恒提罗篇		3.3版本主线末尾
+ENDW3	后日谈		3.3版本主线末尾
+ENDW4	汇流篇		3.3版本主线末尾
+ENDW5	新恒提罗		3.3版本主线末尾
+ENDW6	阿尔斯特篇		3.4版本主线末尾

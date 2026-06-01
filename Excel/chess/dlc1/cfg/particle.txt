@@ -1,0 +1,14 @@
+特效id	注释	路径	是否循环播放	位置偏移
+Id	Nul	Path	Loop	Offset
+1	低级关卡	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_fight/e_chess_dlc1_fight01_p.e_chess_dlc1_fight01_p'	1	{0, 0, 0}
+2	中级关卡	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_fight/e_chess_dlc1_fight02_p.e_chess_dlc1_fight02_p'	1	{0, 0, 0}
+3	高级关卡	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_fight/e_chess_dlc1_fight03_p.e_chess_dlc1_fight03_p'	1	{0, 0, 0}
+4	通用出现特效	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_revert/e_chess_dlc1_revert_p.e_chess_dlc1_revert_p'	0	{0, 0, 0}
+5	宝箱出现特效	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_reward/e_chess_dlc1_reward01.e_chess_dlc1_reward01'	0	{0, 0, 0}
+6	宝箱消失特效	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_reward/e_chess_dlc1_reward02.e_chess_dlc1_reward02'	0	{0, 0, 0}
+7	箱子归位特效	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_device02/e_chess_dlc1_device02_p.e_chess_dlc1_device02_p'	1	{0, 0, 0}
+8	重置装置操作成功	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_device03/e_chess_dlc1_device01_01_p.e_chess_dlc1_device01_01_p'	0	{0, 0, 0}
+9	传送点操作成功	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_device03/e_chess_dlc1_device01_01_p.e_chess_dlc1_device01_01_p'	0	{0, 0, 0}
+10	万福灯会特效	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_lantern/e_chess_dlc1_lantern_01_p.e_chess_dlc1_lantern_01_p'	1	{0, 0, 0}
+11	投影树发光	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_tree/e_chess_dlc1_tree_p.e_chess_dlc1_tree_p'	1	{0, 0, 0}
+12	npc感叹号	NiagaraSystem'/Game/Effects/Environments/Chess/chess_dlc1_npc/e_chess_dlc1_npc_p.e_chess_dlc1_npc_p'	1	{-10, 0, 170}

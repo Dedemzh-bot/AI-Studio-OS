@@ -1,0 +1,87 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这是……	這是……	これは……	이건…	What...						0	
+2	我被排出了共振……	我被排出了共振……	共振から逃げられたみたいね……	공진으로부터 벗어났어…	I was thrown out of the Resonator...						0	
+3	研究所附近一个人都没有，军方和世界树的人都走了吗？	研究所附近一個人都沒有，軍方和世界樹的人都走了嗎？	研究所の周辺には誰も居ない。軍とユグドラシルは撤退したのか？	연구소 근처에 사람이 한 명도 없는데, 군인들하고 위그드라실 사람들은 떠난 건가?	There's no one around the research institute. Is everyone from the Military and Yggdrasil gone?						0	
+4	咳咳，转变为信息态之前受的伤还在……	咳咳，轉變為資訊態之前受的傷還在……	げほ……情報体に変化する前にもらった傷がまだ残ってるみたいね……	콜록, 콜록, 이념 형태로 변하기 전에 입은 상처를…	*coughing*... The injuries I got before I turned into a fragmented phantom are all still there...						0	
+5	得赶紧离开这里。	得趕快離開這裡。	急いでここから出ないと。	서둘러 이곳을 떠나야겠어.	I need to get out of here.						0	
+6	前面那是？	前面那是？	ん？あれは……	앞에 있는 건 뭐지?	What's that up ahead?						0	
+7	喂，你不是说看到这边有人吗？	喂，你不是說看到這邊有人嗎？	おい、本当にこっちで人影を見たんだよな？	이봐, 여기서 누군가를 봤다고 말하지 않았어?	Hey, didn't you say you saw someone here?						0	
+8	怪了，我刚才确实看到了一个人从里边出来。	怪了，我剛才確實看到了一個人從裡面走出來。	おかしいな。確かにここから誰かが出て来るのを見たんだけど……	이상하네, 방금 진짜로 누군가가 저기서 나오는 걸 봤는데.	Weird. I really did see someone coming out just now.						0	
+9	你看错了吧，现在大门都被封锁了，那些拾荒者都进不来。	你看錯了吧，現在大門都被封鎖了，那些拾荒者都進不來。	見間違いじゃないのか？ゲートも封鎖されてるし、スカベンジャーどもは入って来れないはずだぜ。	잘못 본 거겠지. 지금은 게이트가 굳게 닫혀있어서 피난민들은 들어올 수도 없다고.	Are you sure? The door is sealed off. Scavengers can't even get in.						0	
+10	估计又是那些幽灵。好了好了，回去吧，队长还在大门那里等我们。	大概又是那些幽靈。好了好了，回去吧，隊長還在大門那裡等我們。	また例の幽霊か。さ、もういいだろ。帰ろうぜ。隊長がゲートで待ってるからさ。	아마도 그 유령일 거야. 됐어, 그냥 돌아가자, 대장이 게이트에서 우릴 기다릴 거야.	It was probably just one of those phantoms again. Alright, let's head back. The captain's still waiting for us at the door.						0	
+11	……	……	……	…	...						0	
+12	军方把大门封锁了。	軍方把大門封鎖了。	ゲートは軍に封鎖されたわ。	군에서 게이트를 막았어.	So the Military sealed off the door.						0	
+13	如果被他们发现我还活着，估计不会放我离开。	如果被他們發現我還活著，大概不會放我離開。	私がまだ生きていることを知ったら、今後こそ見逃してはくれないでしょうね。	내가 살아있는 것을 알게 된다면 날 놓아둘 리가 없겠지.	They probably won't let me go if they realize I'm still alive.						0	
+14	可恶……	可惡……	くそ……	제길…	Argh...						0	
+15	嗯？！	嗯？！	！？	음?!	Huh!?						0	
+16	怎么会——	怎麼會！	まさか……	어떻게ㅡ	What the—!?						0	
+17	你的意思是，你在隔离墙附近，发现自己还能变回信息态？	你的意思是，你在隔離牆附近，發現自己還能變回資訊態？	つまり、ウォール付近で自分がまだ情報体になれることに気付いたと？	네 뜻은 네가 격리벽 근처에 있었을 때, 다시 이념 형태로 돌아갈 수 있다는 걸 발견했다는 거야?	You mean... when you got close to the Containment Wall, you were able to turn back into a fragmented phantom?						0	
+18	当时我都以为自己要再一次消失了呢。	當時我都以為自己要再一次消失了呢。	あの時は自分がもう一度消えちゃうんじゃないかってヒヤヒヤしたけどね。	당시에 난 내가 사라질 거라 생각했었지.	Back then, I thought I was just going to disappear again.						0	
+19	而事实上，你发现自己可以控制出现和消失，依靠这个能力逃出了封锁。	而事實上，你發現自己可以控制出現和消失，依靠這個能力逃出了封鎖。	そうして、実体化を自在にコントロールできる能力に気付いたことで、その力を利用して脱出に成功したというわけだね？	그러니까 갑자기 나타나고 사라질 수 있는 능력을 이용해서 봉쇄로부터 벗어났다는 거지?	But then you realized that you could appear and disappear at will, and used that ability to bypass the sealed-off door.						0	
+20	答对了。	答對了。	ご名答。	빙고.	Bingo.						0	
+21	通用银账户竟然没被冻结，董事会的老东西是认定我们死透了吗？	通用銀帳戶竟然沒被凍結，董事會的老傢伙是認定我們死透了嗎？	シルバギボスの口座がまだ凍結されてない……ということは、理事会の連中は私達が完全に死んだと思い込んでるってことか？	실버 코인이 어떻게 동결되지 않은 거지? 이사회에서 우리가 죽었다고 판단했나?	My SilverBuck account wasn't frozen. Do the geezers on the Board assume we all died?						0	
+22	不过，治疗，做假身份，买武器，弄完这些估计也不剩多少钱了。	不過，治療，做假身分，買武器，弄完這些估計也沒剩多少錢了。	とはいえ、治療や身分証明書の偽造、武器の調達などをしたら、おそらくあまり金が残らない。	하지만 치료를 하고 가짜 신분증을 만들고 무기를 사고 나면 얼마 남지 않을 거야.	But after treatment, creating a fake identity, and buying weapons, there probably isn't any money left.						0	
+23	……	……	……	…	...						0	
+24	从信息网络的搜索结果来看，家的位置果然是受灾区，现在的“零区”之内。	從資訊網路的搜尋結果來看，家的位置果然是受災區，現在的「零區」之內。	ネットの検索結果からするに、私の家は被災地、つまり現在の「エリアゼロ」の範囲内に収まってる。	데이터 네트워크로 검색한 결과를 조회해 보면, 집이 위치하고 있던 곳은 재난 지역이었고, 지금은 '제로 구역' 내부에 있어.	From what I could find on the Global Information Network, my house is right in the middle of the affected area — within the "Containment Zone".						0	
+25	如果爸爸妈妈听了我的话，应该已经按我给的地址，搬回吕克昂了。	如果爸爸媽媽聽了我的話，應該已經照我給的地址，搬回呂克昂了。	両親が私の忠告を守ってくれているなら、すでにリュックオンに引っ越しているはずね。	부모님이 내 말을 들었더라면 내가 알려줬던 주소대로 라이캉으로 돌아갔겠지.	If my parents listened to me, they should've moved to the address I gave them in Lykang.						0	
+26	不知道那里有没有受到泰坦的影响……	不知道那裡有沒有受到泰坦的影響…	あっちはタイタンの影響を受けていないといいんだけど……	그곳이 타이탄의 영향을 받았는지는 모르겠어.	I wonder how much Titan activity that area saw...						0	
+27	嗯，去买张机票吧。	嗯，去買張機票吧。	よし、航空券を買いましょう。	응, 비행기표를 사러 가자.	Well, I guess I'll buy a plane ticket.						0	
+28	街道变化好大，是因为降临事件所以改建了吧。	街道變化好大，是因為降臨事件所以改建了吧。	すっかり街並みが変わってるわ。降臨事件の影響で改築されたのね。	거리가 많이 변했네. 혹시 강림 사건 때문에 재건한 건가.	The streets have changed so much. Maybe they were redone after the Descent.						0	
+29	帕拉多路105号是在……	帕拉多路105號是在……	パラード通りの105号は……	파라도 도로 105번지가 어디더라…	No. 105 Palado Rd. should be...						0	
+30	算了，还是给他们发个通讯吧。	算了，還是發個訊息給他們吧。	……そうね。やっぱり先に連絡を入れておきましょうか。	됐어, 그냥 그들에게 통신 요청을 보내보자.	Never mind. I'll send them a message.						0	
+31	哪位？	哪位？	もしもし？	여보세요?	Who is it?						0	
+32	……	……	……	…	...						0	
+33	爸，是我。	爸，是我。	お父さん、私よ。	아빠, 저에요.	Dad, it's me.						0	
+34	！！！	！！！	！！！	!!!	!!!						0	
+35	凯茜娅？！	凱茜婭？！	カーシア！？	캐시아?!	Katya!?						0	
+36	是我，我还活着。	是我，我還活著。	ええ。まだ生きてるわ。	저라고요, 전 아직 살아있어요.	It's me. I'm still alive.						0	
+37	你现在在哪？我和你妈妈这就去接你！	你現在在哪裡？我跟你媽媽這就去接你！	今、どこにいるんだ？母さんとそっちに向かうから！	지금 어디에 있니? 아빠랑 엄마가 널 데리러 갈게!	Where are you? Your mom and I will come pick you up right away!						0	
+38	我就在……	我就在……	今は……	전…	I'm in—						0	
+39	爸爸，你在和谁说话呀？	爸爸，你在跟誰說話呀？	パパ、誰と喋ってるの？	아빠, 누구랑 얘기하는 거예요?	Dad, who're you talking to?						0	
+40	嗯？	嗯？	あら？	응?	Hm?						0	
+41	是你姐姐。好孩子，快去把你妈妈和弟弟叫来，我们一起……	是你姐姐。好孩子，快去把你媽媽和弟弟叫來，我們一起……	お前のお姉ちゃんだよ！さあ、早くママと弟を呼んでくるんだ！みんなで……	너희 언니랑 얘기 중이다. 어서 엄마랑 동생을 불러와. 우리 같이…	It's your sister. Be a good boy and get your mom and brother. Let's all go together.						0	
+42	姐姐？可是今天不是说了要去游乐园吗？	姐姐？可是今天不是說了要去遊樂園嗎？	お姉ちゃん？でも、今日は遊園地にいくって……	언니? 하지만 오늘은 같이 놀이 공원에 가기로 했었잖아요?	My sister? But didn't you say we were going to the amusement park today?						0	
+43	听话，明天我们一家人一起去……	聽話，明天我們一家人一起去……	いいから。遊園地だったら、明日みんなで……	내일 다 같이 가면 되잖니…	Listen to your dad. We can go as a family tomorrow...						0	
+auto_3751	凯茜娅快速而坚决地切断了通讯。	凱茜婭快速而堅決地切斷了通訊。	カーシアは速やかに通信を切った。	캐시아는 칼같이 냉정하게 통신을 끊었다.	Katya quickly and decisively hung up the phone.						0	
+44	呼。	呼。	ふぅ……	후…	*sigh*...						0	
+auto_28816	突然感觉，没什么意思。	突然感覺，沒什麼意思。	なんか、嫌になっちゃった。	갑자기 재미 없어졌어.	I suddenly feel like it's just meaningless.						0	
+45	我果然还是不习惯这种温情戏码。	我果然還是不習慣這種溫情戲碼。	こういう和気あいあいって感じの雰囲気には、やっぱり馴染めないわね。	난 이런 훈훈한 스토리에는 관심 없어.	I'm still not used to this sappy stuff.						0	
+46	看来他们已经有新的生活了，这样就好。	看來他們已經有新的生活了，這樣就好。	あっちはあっちで新しい生活を始めているみたいだし、それなら構わないか。	가족들은 이미 새로운 삶을 살고 있는 것 같네.	It seems like they already have a new life. That's good.						0	
+47	该走了。	該走了。	私も、そろそろ行かないと。	이만 가봐야겠어.	I should go.						0	
+48	你没什么想说的吗？	你沒什麼想說的嗎？	……で？なにか感想は？	뭐 더 할 말은 없고?	You don't have anything to say?						0	
+49	比如嘲笑一个走到了自己家门口，又不声不响逃走的胆小鬼。	例如嘲笑一個走到了自己家門口，又不聲不響逃走的膽小鬼。	家の前まで来たのに、黙って逃げ出した意気地なしと貶してもいいのよ。	뭔가 집 앞까지 왔다가 소리 없이 도망치는 겁쟁이가 된 기분이랄까.	You don't want to laugh at the coward who walked up to her own home, then ran away without saying a word?						0	
+50	我不觉得你是什么胆小鬼。	我不覺得你是什麼膽小鬼。	意気地なしだなんて思わないよ。	난 캐시아가 겁쟁이라고 생각하지 않아.	I don't think you're a coward.						0	
+51	毕竟我也有从空间站回来之后，发现自己多了个妹妹的经历……虽然是假的。	畢竟我也有從太空站回來之後，發現自己多了個妹妹的經驗……雖然是假的。	私にだって、宇宙ステーションから帰って来たら知らない間に妹ができてた経験があるからね。実の妹じゃなかったけど。	나도 우주 정거장에서 돌아오고 나서 여동생이 있다는 것을 알게 됐으니까… 비록 조작된 거였지만.	I mean, I also learned that I had another sister after coming back from the space station... even though it wasn't true.						0	
+52	噗。	噗。	ふふ……	풉…	Pfft.						0	
+53	playername，你还真是个怪人。	playername，你還真是個怪人。	変な人ね。playernameは。	playername, 넌 좀 이상한 면이 있는 것 같아.	playername, you really are a weirdo.						0	
+54	我越来越对你有兴趣了。	我越來越對你有興趣了。	ますます興味が湧いて来たわ。	자꾸 관심이 가게 되네.	I'm becoming more and more intrigued by you.						0	
+b-1											0	
+55	放过我吧。	放過我吧。	勘弁してくれ。	이제 그만 좀 해…	Please let me go.						0	
+56	你开心就好。	你開心就好。	喜んでもらえてなにより。	뭐, 이렇게라도 기분이 풀렸다면, 됐어.	I'm glad you're happy.						0	
+57	在离开吕克昂后，你就来耶洛沙了吗？	離開呂克昂後，你就來耶洛沙了嗎？	リュックオンを離れてから、すぐにイェロシャに来たのか？	라이캉을 떠나고 나서 옐로샤로 온 거야?	Did you come straight to Yehrus after you left Lykang?						0	
+58	没有哦，我去了阿尔斯特，打算在那边找片森林隐居来着。	沒有哦，我去了阿爾斯特，打算在那邊找片森林隱居來著。	ううん。アルスターにも一度行ったわ。森の中で隠遁生活でもしようかと思って。	아니, 울스터에 갔었어. 그곳에 있는 숲속에서 은신처를 찾으려고 했었지.	Nope. I went to Ulster. I was planning to find some isolated cabin in the forest and live a life of solitude.						0	
+59	……	……	……	…	...						0	
+60	哎呀，你好像一副不信我的样子，但很可惜这是真的。	哎呀，你好像一副不相信我的樣子，但很可惜這是真的。	あら、信じてなさそうな顔ね。残念だけど本当よ。	하하, 믿지 못하는 표정을 짓는 것 같지만 불행히도 이건 사실이야.	Geez. Your face says you don't believe me, but it's unfortunately true.						0	
+61	我放在桌上的行李里面，还带着从那里带回来的纪念品哦。	我放在桌上的行李裡面，還帶著從那裡帶回來的紀念品喔。	そこの机に置いてある荷物の中に、アルスターで買った記念品が入ってるわ。	책상 위에 뒀던 짐 속에 그곳에서 가져온 기념품이 들어있지.	I brought a lot of souvenirs back. They're in the suitcase on the table.						0	
+62	还有，一直跟着你的那个红头发的女孩子就是阿尔斯特人吧，活泼浪漫，不切实际，与那里的人一模一样。	還有，一直跟著你的那個紅頭髮的女孩就是阿爾斯特人吧，活潑浪漫，不切實際，與那裡的人一模一樣。	あと、あなたにずっと付きまとってるあの赤毛の子。あの子、アルスターの出身でしょ？ロマンチストで浮世離れした感じが、あの土地の人達とそっくりだわ。	그리고, 널 계속 쫓던 그 빨간 머리 꼬마 아가씨도 울스터 사람일껄? 활발하고 낭만적이고 비현실적이어 보이는 게 마치 거기서 온 사람 같달까.	And the red-haired girl who's been following you must be from Ulster. She's energetic, romantic, and totally unreasonable — just like everyone else there.						0	
+63	当然，结局是我在阿尔斯特待了一个月左右，还是受不了平静的生活，所以就来耶洛沙咯。	當然，結局是我在阿爾斯特待了一個月左右，還是受不了平靜的生活，所以就來耶洛沙了。	まあ、一か月ほどアルスターに滞在してたんだけど、結局のどかすぎる生活に耐えられなくなって、イェロシャに逃げて来たんだけどね。	물론 결론적으로 울스터에서 한 달 정도를 지내고 평온한 삶을 견딜 수 없어서 옐로샤로 오게 됐지만.	But in the end, I only stayed in Ulster for about a month. I couldn't stand such a quiet life, so I came to Yehrus.						0	
+64	我就知道。	我就知道。	だと思ったよ。	그건 알고 있었어.	I knew it.						0	
+65	耶洛沙明明与阿尔斯特接壤，却完全是两个世界。	耶洛沙明明與阿爾斯特接壤，卻完全是兩個世界。	アルスターのすぐ隣なのに、イェロシャの雰囲気は全然違うわよね。	옐로샤는 울스터랑 붙어있지만 사실 완전히 다른 세계야.	Yehrus shares a border with Ulster, but it's a completely different world.						0	
+66	这里是军阀的后花园，骗子和强盗的游乐场，同样，也是佣兵该来的地方。	這裡是軍閥的後花園，騙子和強盜的遊樂場，同樣，也是傭兵該來的地方。	軍閥のおひざ元であり、詐欺と強盗の遊び場でもある。傭兵が暮らすにはうってつけの場所だわ。	이곳은 군의 터전이자 사기꾼들과 강도들의 놀이터나 다름없어. 용병들이 찾아와야 할 곳이지.	This place is a playground for warlords, conmen, and thieves. It's also perfect for mercenaries.						0	
+67	上次任务的报酬已经转到你账上了。	上次任務的報酬已經轉到你帳上了。	前回の報酬は口座に振り込んでおいたぜ。	지난번 미션의 보상은 이미 계좌로 이체했어.	The reward for the last mission has already been transferred to your account.						0	
+68	谢咯，如果有更刺激一点的活记得喊我。	謝啦，如果有更刺激一點的工作記得喊我。	ありがとう。もっとスリル溢れるミッションがあったら、いつでも連絡してちょうだい。	고마워, 더 흥미로운 일이 있으면 또 연락해 주고.	Thanks. If you have anything more exciting, remember to let me know.						0	
+69	“黑熊”伊万，“酒桶”鲍尔，还有“恶狼”卡冈，死在你手上的大人物已经不少了，你还想要什么？	「黑熊」伊萬，「酒桶」鮑爾，還有「惡狼」卡岡，死在你手上的大人物已經不少了，你還想要什麼？	「黒熊」のイヴァンに「酒桶」のバウル。それから、「凶狼」のカーゲンも。もう大体の有名どころは消して来たんだろ？これ以上なにが望みだよ。	 '흑곰' 이반, '술통' 보르, 그리고 '울프' 카곤, 수많은 유명 인사들이 너의 손에 죽었는데 도대체 어떤 흥미로운 일을 더 원하는 거지?	So many big players have already died at your hands. "Black Bear" Ivan, "Wine Barrel" Bauer, and "Wicked Wolf" Kagan... What else could you want?						0	
+70	军方，巴伦支仪器，或者泰坦？	軍方，巴倫支儀器，或泰坦？	軍や、バレンツ機器とか？あと、タイタンも悪くないわ。	군, 바렌츠 측정기구, 그리고 타이탄에 관련된 일을 없는 거야?	Maybe the Military, Barentsy Pribor, or Titans?						0	
+71	得了吧，这些可没人敢惹。	算了吧，這些可沒人敢惹。	やめとけ。そんな連中とやり合いたいやつなんざいねぇよ。	됐어, 그것들은 건드려서는 안 될 것이야…	C'mon, no one would ever mess with any of them.						0	
+72	无聊，那我走了。	無聊，那我走了。	つまらないわね。もういくわ。	흥, 재미없군, 난 간다.	Boring. I'm out of here then.						0	
+73	等等，你要是真铁了心打算玩命的话……	等等，你要是真的打定主意要玩命的話……	まあ待てって！今の話、もし本気で言ってるんなら……	잠깐만, 정말 목숨을 걸고 싶다면…	Wait. If you really want to risk your life...						0	
+74	拿着这张名片，去找米尔伍德，就说是我介绍来的，他应该有这方面的业务。	拿著這張名片，去找米爾伍德，就說是我介紹來的，他應該要有這方面的業務。	この名刺を持って、ミルウッドって男と会うといい。俺の紹介だって言えば会ってくれるはずだ。あいつなら、そこらへんとも繋がりがあるはずだからな。	이 명함을 가지고 밀우드를 찾아가서 내가 소개했다고 말해봐. 그분이 아마 그쪽에 관한 일을 좀 알고 있을 거야.	Take this business card and head to Millwood. Tell him I sent you. He should have what you're looking for.						0	
+75	米尔伍德？他没有你们耶洛沙人喜欢的绰号吗？	米爾伍德？他沒有你們耶洛沙人喜歡的綽號嗎？	ミルウッドね。あなたたちイェロシャ人が付けそうな称号とかは持ってないの？	밀우드? 옐로샤 사람들이 좋아하는 호칭은 따로 없어?	Just "Millwood"? The people of Yehrus didn't give him a clever nickname yet?						0	
+76	……他不仅是黑商，还是<orange>赫瓦雷纳军区</>的人。	……他不只是黑商，還是<orange>赫瓦雷納軍區</>的人。	……あいつは、闇商人であると同時に、<orange>フワルナ軍区</>の人間なんだ。	… 그는 지하 상회 사람이 아니라 <orange>크바레나 군사 지역</> 출신이야.	...Not only is he a shady businessman, but he's also from the <orange>Khwarenah Military District</>.						0	
+77	哦？军方的人，有意思。	哦？軍方的人，有意思。	へぇ。軍の人ね、面白そう。	흠, 군인들은 참 재밌단 말이지.	Hm? He's from the Military? Interesting.						0	
+78	谢了，回头请你喝酒。	謝了，回頭請你喝酒。	ありがとう。今度また飲みに行きましょう。	고마워, 다음엔 내가 술 한잔 살게.	Thanks. I'll treat you to a drink later.						0	
+79	似乎拿到了一张不错的入场券呢。	似乎拿到了一張不錯的入場券呢。	なかなか良いチケットが手に入ったみたい。	아무래도 좋은 입장권을 얻은 것 같네.	Looks like I've got a golden ticket.						0	
+80	既然这样，就好好准备一下吧。	既然這樣，就好好準備一下吧。	そうと来れば、ちゃんと準備しておかなくちゃ。	기왕 이렇게 된 거, 그럼 준비 좀 해볼까.	In that case, I'll get ready.						0	
+81	事先打探好他想要什么，谈判的时候也更方便。	事先打探好他想要什麼，談判的時候也更方便。	予め何を欲しがっているのか調べておかないと。その方が交渉を有利に運べそうだし……	미리 그가 좋아하는 것을 알아내면 협상할 때 더 쉽겠지?	If I can figure out what he wants beforehand, negotiations will go smoother.						0	
+82	另外，还得准备一份投名状……	另外，還得準備一份投名狀……	あと、忠誠を誓うための手紙も作って……	선서문도 하나 준비해야 할 것 같군…	I'll also have to get a loyalty pledge ready...						0	

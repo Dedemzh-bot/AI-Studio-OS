@@ -1,0 +1,56 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	黑暗，而又不仅是黑暗。	黑暗，而又不僅是黑暗。	暗闇。しかし闇だけではない。	어둠… 아니… 어둠뿐만이 아니다.	It was dark, but it was more than that.						0	
+2	我仿佛沉入了一片深海，在无休止地下沉。	我彷彿沉入了一片深海，在無休止地下沉。	まるで深い海の中に沈んでしまったかのように、どこまでも沈んでいく。	깊은 심해로 끊임없이 빨려 들어가고 있는 것 같다.	I seem to have sunk into a deep sea, sinking endlessly.						0	
+3	能感觉到，这片黑暗中，有什么东西在寻找我，或者，在捕获我。	能感覺到，這片黑暗中，有什麼東西在尋找我，或者，在捕獲我。	この暗闇の中で、私を探し、あるいは私を捕らえようとしている何かの気配がいた。	누군가가 날 찾아 포획하려는 느낌이 든다.	I felt like something in the darkness was looking for me or trying to capture me.						0	
+4	很快，湿滑黏腻的触手缠绕上手腕 ，紧接着，是我的脚踝。	很快，濕滑黏膩的觸手纏繞上手腕，緊接著，是我的腳踝。	すぐに、ぬるぬるとした触手が手首に絡みつき、次は足首へ。	순간 축축하고 끈적거리는 촉수들이 손목과 발목을 감았고,	Soon, slimy tentacles wrapped around my wrists, then my ankles.						0	
+5	最后，它刺破了我的外壳。	最後，它刺破了我的外殼。	やがてそれが、私の殻を突き破ったのだ。	이어서 날 감싸고 있던 껍데기를 뚫었다.	Eventually, they poked my shell.						0	
+6	共感神经被做了伪装处理，无法维持“操纵模式”太久。	共感神經被做了偽裝處理，無法維持“操縱模式”太久。	共感神経は偽装処理されたため、「操作モード」を長時間維持できない。	공감 신경은 위장 처리돼서 '조작 모드'를 오랫동안 유지할 수 없어.	The Empathic Ganglia have been concealed. They cannot maintain "Control Mode" for long.						0	
+9	不行，playername的生命指标开始减弱。	不行，playername的生命指標開始減弱。	だめだ、playernameのバイタルサインが崩れていく。	안돼, playername의 생명 지수가 점점 약해지고 있어.	No, playername's vitals are starting to weaken.						0	
+11	playername不能在这里死亡，尤弥尔需要他，瓦尔哈拉也需要他。	playername不能在這裡死亡，尤彌爾需要他，瓦爾哈拉也需要他。	playernameはここで死んではいけない。ユミルもヴァルハラもこの存在が必要なんだ。	playername은(는) 이곳에서 죽어선 안 돼. 이미르도 발할라도 모두 그가 필요해.	playername cannot die here. Ymir needs him, as does Valhalla.						0	
+13	激活人体修复潜能，开始演算最优方案。	啟動人體修復潛能，開始演算最佳方案。	人体の潜在的な修復能力を活性化し、最適化方案を演算する。	인체 복구 능력 활성화, 최적의 방안 연산 시작.	Activate his body's recovery potential and begin calculating the optimal solution.						0	
+15	演算方案……风险可以接受，开始执行核心器官修复。	演算方案……風險可以接受，開始執行核心器官修復。	演算方案……リスクは許容できる。コア器官修復開始。	연산 방식… 리스크가 있어도 되니, 주요 신체 장기 복구 시작.	Calculating solutions... Risk acceptable. Beginning core organ recovery.						0	
+18	开始清除“操纵状态”下的记忆。	開始清除“操縱狀態”下的記憶。	「操作モード」の記憶をクリアする。	'조종 상태'의 기억 삭제 시작.	Commencing memory wipe during "Controlled State."						0	
+21	模因污染……继续进行，这是……雷吉乌斯留下的讯息？	迷因汙染……繼續進行，這是……雷吉烏斯留下的訊息？	ミーム汚染……引き続き実行する。これは……レイギウスが残してくれたメッセージ？	밈 오염… 계속 진행해, 이건… 레지오스가 남긴 메시지잖아?	Continue processing... memetic contamination. Is this... a message from Regius?						0	
+22	他好像……已经被影响了，已经发生了融合。	他好像……已經被影響了，已經發生了融合。	彼は……もう影響されていて、融合したんだ。	이미… 영향을 받고, 융합을 시작한 거 같아.	He seems to be... affected. Integration has already occurred.						0	
+23	非常……非常……有趣的变化。	非常……非常……有趣的變化。	とても……とても面白い変化ね。	정말이지… 재밌는 변화야.	This is a highly... interesting transformation.						0	
+24	快醒醒！分析员！分析员！	快醒醒！分析員！分析員！	目を覚ましてよ！分析員！分析員！	분석가! 분석가! 정신 차려!	Wake up! Adjutant!						0	
+b-11											0	
+25	头好疼……	頭好痛……	頭が痛い……	머리가 너무 아파…	My head hurts...						0	
+26	分析员恢复意识了！	分析員恢復意識了！	あ、起きた！	분석가가 의식을 되찾았어!	The Adjutant has regained consciousness!						0	
+27	呼……花了不少时间才把你挖出来，还真是把大家都吓了一跳。好险好险！	呼……花了不少時間才把你挖出來，還真是把大家都嚇了一跳。好險好險！	ふぅ……掘り出すの結構大変だったんだよ。みんな本当にびっくりしたんだから！危ない危ない！	후… 내가 널 깨우려고 얼마나 발악했는지나 알아? 다들 엄청 놀랬다구. 진짜 진짜 완전 위험했어!	What a relief! We were digging for a long time. I'm glad we've finally found you. We were scared.						0	
+28	把你挖出来以后，明明没有大碍……可是你怎么都叫不醒！	把你挖出來以後，明明沒有大礙……可是你怎麼都叫不醒！	怪我は大したことなかったけど……掘り出してからもなかなか目を覚ましてくれなかったんだよ！	우리가 구출할 땐 분명 아무렇지도 않았는데… 아무리 깨워도 도통 일어나질 않더라고!	After we got you out, you looked alright... but we couldn't wake you!						0	
+b-12											0	
+29	我好像做了个梦。	我好像做了個夢。	夢を見たような気がする。	잠시 꿈을 꿨던 것 같아…	It seems that I just had a dream.						0	
+30	呀，不会是那种梦吧？人生的走马灯！分析员！以后不许做那么危险的行为了！	呀，不會是那種夢吧？人生的走馬燈！分析員！以後不許做那麼危險的行為了！	やだ、走馬灯的な？違うよね？もう、これからはあんな危険な真似はやめてよ！	어머… 어떻게 그런 상황에서… 설마 죽기 전에 주마등처럼 인생이 스쳐 보이는 그런 거라도 경험하려고 했던 거야?	Ah, was it the kind of dream full of flashbacks of your life!? Adjutant! You mustn't do anything dangerous anymore!						0	
+31	不然芙提雅老师以后岂不是只能一个人夜跑了！	不然芙提雅老師以後豈不是只能一個人夜跑了！	夜のジョギングに付き合ってくれるのなんて分析員くらいなんだから！	앞으로 두 번 다시는 이런 일이 없기를 바랄게! 프티야 선생님은 저녁 메이트를 잃고 싶지 않다고! 조심해!	Otherwise, Professor Fritia will be jogging alone at night!						0	
+b-13											0	
+32	那好像不是什么非常大的损失……	那好像不是什麼非常大的損失……	それは大したロスじゃなさそう……	그건 그렇게까지 큰 손실은 아닌 것 같은데…	That doesn't seem like a massive loss...						0	
+32a	对我来说会很困扰！	對我來說會很困擾！	私が困るんだけど！	나한테는 정말 곤란한 일이거든!	It would be super difficult for me?						0	
+b-14											0	
+33	星期三呢？	星期三呢？	ウェンズデーは？	웬스데이는?	What about Wednesday?						0	
+34	应该是以为你出事了……星期三彻底暴走了！	應該是以為你出事了……星期三徹底暴走了！	ウェンズデーは……分析員に何かあったと思い込んで、完全に暴走しちゃったの！	분석가가 크게 다쳤다고 생각했는지… 지금 폭주한 상태야.	Wednesday probably thought something happened to you... She's on a rampage now!						0	
+35	分析员，如果还能动的话，你最好立刻去制止她，再这样下去，那些郊狼就……	分析員，如果還能動的話，你最好立刻去制止她，再這樣下去，那些郊狼就……	分析員、まだ動けそうなら彼女を止めに行って。このままだとコヨーテたちが……	혹시라도 움직일 수 있으면 웬스데이를 좀 막아봐. 이대로 가다간 코요테가…	Adjutant, if you can move, you better go stop her now. If she goes on like this, those Coyotes will...						0	
+b-15											0	
+36	那炮击呢？任务呢？	那炮擊呢？任務呢？	砲撃は？ミッションはどうなってる？	포격은 어떻게 됐어? 미션은?	What about the bombardment? And the mission?						0	
+37	这个已经不用担心了！因为星期三的……所以我们这边顺利拿下了变电站，切断了所有线路。	這個已經不用擔心了！因為星期三的……所以我們這邊順利佔領了變電所，切斷了所有線路。	それなら心配ないよ！ウェンズデーが……だからこっちで変電所を無事に押さえて、ケーブルを全部切断したから。	그건 걱정하지 마! 웬스데이가 폭주할 때, 우리가 변전소를 점령해서 모든 회로를 차단해 놨으니까.	Relax! Because of Wednesday... we've taken over the substation and cut all the cables.						0	
+b-16											0	
+38	那就好……	那就好……	ならよかった……	다행이네…	That's good...						0	
+b-17											0	
+39	我这就过去……为星期三做应急处理。	我這就過去……為星期三做緊急處理。	今すぐ向かう……ウェンズデーに応急処理をしないと。	내가 가서 웬스데이 응급 처치를 좀 해볼게.	I'll go... and take emergency measures for Wednesday.						0	
+40	注意安全呀分析员，那个状态的星期三，可是相当不好接近！	注意安全啊分析員，那個狀態的星期三，可是相當不好接近！	気をつけてね、分析員。ウェンズデーはああなったらなかなか近づけないから。	조심해, 분석가! 현재 상태의 웬스데이한테는 가급적 다가가지 않는 게 좋을 거야.	Adjutant, be careful. It's tricky to approach Wednesday now!						0	
+41	要不我陪你去吧！	要不然我陪你去吧！	私が一緒に行こうか！	아니면 프티야가 같이 가줄까?!	Let me go with you!						0	
+b-18											0	
+42	不用了小太阳，你有其他任务。	不用了小太陽，你有其他任務。	いいんだよ。おひさまちゃんには別のミッションがあるよね。	괜찮아, 리틀썬. 넌 다른 미션이 있잖아.	It's alright, Little Sunshine. You have another mission to handle.						0	
+b-19											0	
+43	我可以单独完成。	我可以單獨完成。	一人でなんとかできるよ。	나 혼자 해결할 수 있어.	I can take care of it myself.						0	
+44	分析员，那一定一定要小心！	分析員，那一定一定要小心！	なら、絶対、絶対に気をつけてよね！分析員！	분석가, 그럼 꼭 조심해야 해!	Adjutant, you have to be careful!						0	
+45	郊狼的兄弟们……都……	郊狼的兄弟們……都……	コヨーテの仲間たちが……みんな……	우리 형제들이… 전부…	My Coyote brothers are... all...						0	
+46	你把他们都……	你把他們都……	お前が彼らを……	네 녀석이 우리를…	You did this to them...						0	
+47	爱思特的双手，轻微地颤抖着……她瞪视着已然化身为奥丁的里芙。	愛思特的雙手微微顫抖……她直直瞪著化身為奧丁的里芙。	エステルはわずかに両手を震わせて……まだオーディンの姿のままのリフを睨みつけている。	에스터는 양손을 미세하게 떨며… 오딘으로 변한 리브를 쳐다봤다.	Esther's hands were trembling... She glared at Lyfe, who had transformed into Odin.						0	
+48	海姆达尔部队……我！要……	海姆達爾部隊……我！要……	ヘイムダル部隊め……私が！お前らを……	헤임달 부대… 나는… 꼭…	The Heimdall Force... I will...						0	
+49	你……也来接受甄选吗？	你……也來接受甄選嗎？	お前も……選別を受けに来たのか？	너도… 선택받고 싶어서 그런 건가?	Do you... want to participate in the selection as well?						0	
+50	颤抖蔓延到了爱思特的肩膀，然后逐渐扩散到全身。	顫抖蔓延到了愛思特的肩膀，然後逐漸擴散到全身。	震えはエステルの肩に伝わり、次第に全身へと広がっていった。	에스터는 이제 양손이 아닌 어깨까지 떨더니 갑자기 온몸을 떨기 시작했다.	Esther's shoulders began to tremble, followed by her whole body.						0	
+51	呵呵呵呵……叶，你看到了吗？到底谁才是怪物？谁才是疯子？	呵呵呵呵……葉，你看到了嗎？到底誰才是怪物？誰才是瘋子？	ふふふふ……見えたか？葉。怪物はどっちの方だ？イカれてるのはどっちに見える？	하하하… 블레이드, 넌 이런 괴물을 본 적이나 있어? 과연 누가 더 미쳤다고 볼 수 있을까?	Hahaha... Ye, did you see that? Who's the monster and lunatic here?						0	
+52	里芙是吗？会让你血债血偿的。	里芙是嗎？會讓你血債血償的。	リフと言うんだな？その血をもって償ってもらう。	리브라고 했던가? 내가 반드시 피로 대갚음해 주도록 하지.	You're Lyfe, right? I'll make you pay with your life.						0	
+53	但现在，还有必须要完成的事情。	但現在，還有必須要完成的事情。	だが今は、まだやることがある。	아직은 마지막으로 해야 할 일이 남아서 말이야.	But there's something I need to finish first.						0	

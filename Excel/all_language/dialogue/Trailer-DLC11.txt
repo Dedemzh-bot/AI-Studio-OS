@@ -1,0 +1,168 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	就算是身处顶楼，米德加尔特的日光也远不如新恒提罗般充裕。	就算是身處頂樓，米德加爾特的日光也遠不如新恆提羅般充裕。	ミッドガルドの日差しの強さは、最上階に居てもニューガントラよりはマシだった。	비록 옥상에 있어도 미드가르드의 햇빛은 뉴헨틸로처럼 눈부시지 않다.	Even on the rooftop, Midgard's sunlight felt scarce compared to the abundant rays in New Hentiro.						0	
+2	而那即将步入下一个季节的风，也为此处增添了几丝凉意。	而那即將步入下一個季節的風，也為此處增添了幾絲涼意。	次の季節の到来を仄めかす風が吹くたびに、ここの空気はさらに涼しくなっていく。	다음 계절로 접어들고 있는 바람은 이곳에 서늘한 기운을 더해준다.	The breeze, hinting at the next season, brought with it a slight chill.						0	
+3	新恒提罗事件落幕后，我们终于迎来了短暂的平和时光。	新恆提羅事件落幕後，我們終於迎來了短暫的和平時光。	ニューガントラの事件も終息し、私達はようやく安らぎのひとときを享受することができていた。	뉴헨틸로 사건이 끝난 후 드디어 평화로운 시간을 맞이하게 되었다.	Following the conclusion of the incidents in New Hentiro, we were graced with a rare period of peace.						0	
+4	只是，银勺与杯壁碰撞发出的脆响，还是让我的思绪不由得飘向了不久之前的……	只是，銀勺與杯壁碰撞發出的脆響，還是讓我的思緒不由得飄向了不久之前的……	しかし、銀のスプーンとカップがぶつかる音を聞くたびに、私は知らず知らずあの時の出来事を思い返してしまうのだった……	그 순간, 은숟가락과 찻 잔이 부딪히는 소리가 나의 생각을 얼마 전에 일어났었던 일을 상기시켰다.	Yet, the distinct clinks of silver spoons and porcelain cups made my mind wander back to recent events...						0	
+5	分析员。今天的红茶不合你口味吗？	分析員。今天的紅茶不合你口味嗎？	分析員さん……今日の紅茶はお口に合いませんか？	분석가님, 홍차가 입에 안 맞으시나요?	Adjutant. Is the tea not to your taste today?						0	
+6	伴随着淡淡茶香，茉莉安的声音又将我拉回当下。	伴隨著淡淡茶香，茉莉安的聲音又將我拉回當下。	マリアンの声と淡い紅茶の香りが私を現実に引き戻してくれた。	옅은 차 향기와 함께 마리안의 목소리가 나를 현실로 불러들였다.	Marian's voice, laced with the scent of tea, snapped me back to the present.						0	
+7	抱歉，刚刚有些恍惚……	抱歉，剛剛有些恍惚……	ああ、悪い。ちょっとぼんやりしていただけだよ……	미안, 잠깐 다른 생각을 좀 했어…	Sorry, I was just a bit lost in thought...						0	
+8	我们已经很久没有一起喝过下午茶了？	我們已經很久沒有一起喝過下午茶了？	君と一緒にアフタヌーンティーを楽しむのは、結構久しぶりじゃないか？	우리 이렇게 오후 티타임을 한지도 벌써 꽤 됐지?	It feels like ages since we last had tea together, doesn't it?						0	
+9	不久前不是还在新恒提罗的餐厅喝过吗？	不久前不是還在新恆提羅的餐廳喝過嗎？	この前、ニューガントラのレストランでご一緒したじゃないですか。	얼마 전에 뉴헨틸로 레스토랑에서 마시지 않았었나요?	Didn't we just have tea at that restaurant in New Hentiro not long ago?						0	
+10	那时的氛围完全不一样吧。	那時的氛圍完全不一樣吧。	あの時はアフタヌーンティーどころじゃなかっただろう。	그때는 분위기가 완전 달랐었지.	That was a different kind of atmosphere, though.						0	
+11	嗯，确实……	嗯，確實……	ええ、それもそうですね……	네, 그렇죠…	Mm, that's true...						0	
+12	不过对我而言，无论是平和的悠哉度日，还是赌上性命的殊死一搏。只要和分析员在一起，就没有什么不同。	不過對我而言，無論是平和的悠哉度日，還是賭上性命的殊死一搏。只要和分析員在一起，就沒有什麼不同。	でも私にとっては、ゆっくり過ごす日々も、命を懸けた勝負も、分析員さんと一緒なら、違いはありませんから。	하지만 저에게 있어 평화로운 바캉스든, 죽을 각오를 한 전투든, 분석가님과 함께라면 다 똑같다고 생각해요.	But for me, whether in peace or in peril, time spent with the Adjutant feels consistently precious to me.						0	
+13	面前的少女抿了一口杯中的茶，露出了略显得意的笑容。	眼前的少女抿了一口杯中的茶，露出了略顯得意的笑容。	少女は紅茶を一口啜って、どこか得意げな笑顔を私に見せた。	앞에 있는 소녀는 차를 한 모금 마시며 미소를 지었다.	The young lady in front of me took a sip of her tea, a smug smile playing on her lips.						0	
+14	还要再来一杯吗？这个季节的下午很漫长，我们可以慢慢地……	還要再來一杯嗎？這個季節的下午很漫長，我們可以慢慢地……	さらに一杯、どうですか？この季節になると、午後も長くなりますので、ゆっくりと楽しみましょう……	한 잔 더 드릴까요? 이번 계절의 오후는 꽤 길어요. 그러니 천천히 즐기세요…	Would you like a refill? We have time, the afternoons at this time of year are quite long—						0	
+15	哎？不知不觉已经喝干了吗？	哎？不知不覺已經喝乾了嗎？	あれ？お茶を全部飲んでしまいましたね。	어? 벌써 다 마셨네요?	Huh? Have we finished the pot already?						0	
+16	她本想起身为我倒茶，但是茶壶中却早已空空如也。	她本想起身為我倒茶，但茶壺中卻早已空空如也。	私のティーカップにお茶を注ごうとしたマリアンは、ティーポットが空になっていることに気づいた。	마리안이 일어나서 차를 따라 주려 했지만, 찻주전자는 이미 텅 비어 있었다.	She tried to refill my cup only to find the teapot empty.						0	
+17	稍等，我再去泡一些来。	稍等，我再去泡一些來。	少々お待ちください。今から淹れてきますね。	잠깐만요, 다시 우려 올게요.	Just a moment. I'll brew some more.						0	
+18	还没等我将茶杯放下，茉莉安便匆匆端走了茶盘。	還沒等我將茶杯放下，茉莉安便匆匆端走了茶盤。	私がカップを置くよりも先に、マリアンはトレイを取って、慌ただしくテーブルを離れた。	내가 찻잔을 내려놓기도 전에 마리안은 서둘러 쟁반을 들고 갔다.	Before I could set my cup down, Marian hurriedly took the tray away.						0	
+19	不知道是不是错觉，自从从新恒提罗回来后，茉莉安好像变得更加“强势”一些了？	不知道是不是錯覺，自從從新恆提羅回來後，茉莉安好像變得更「強勢」一些了？	気のせいなのだろうか。ニューガントラから戻ってから、マリアンは今まで以上に押しが強くなった気がする。	착각일지도 모르지만, 뉴헨틸로에서 돌아온 후 마리안은 어딘가 많이 달라져 있었다.	Maybe this is just in my head... but ever since we returned from New Hentiro, has Marian adopted a more assertive air?						0	
+20	阖上双眼后，我笑着摇了摇头。然而就在这时——	闔上雙眼後，我笑著搖了搖頭。然而就在這時——	そう思いながら、私は目を細めて首を横に振ったが、そのとき……	눈을 감고 나는 미소를 진채 고개를 저었다. 바로 그때…	I closed my eyes and chuckled, dismissing the thought. But just then...						0	
+21	喂——猜猜我是谁？	喂——猜猜我是誰？	だ～れだ？	헤헤헤~ 내가 누구게~?	Hey — guess who?						0	
+22	一双纤细的手从后方伸出，捂住了我的眼睛。与此同时，温热的气息灌进耳朵……	一雙纖細的手從後方伸出，摀住了我的眼睛。同時，溫熱的氣息灌進耳朵…	繊細な手が私の視線を遮った。それと同時に、暖かい息が私の耳にかかり……	가느다란 두 손이 뒤에서 내 눈을 가렸다. 동시에 따뜻한 숨결이 귀에 스며들었다…	Delicate hands reached out from behind and covered my eyes, a warm breath tickling my ear.						0	
+23	猜错的话，就咬断你的脖子。	猜錯的話，就咬斷你的脖子。	間違った答えを口にしたら、この首を食いちぎるから。	틀리면 목을 물어뜯어 버릴 거야.	Guess wrong, and I'll snap your neck.						0	
+24	……凯茜娅，这样的把戏玩个一次两次就够了。	……凱茜婭，這樣的把戲玩個一次兩次就夠了。	……ほどほどにしろよ、カーシア。	… 캐시아, 이런 장난은 한두 번이면 충분해.	...Katya, this trick is getting old.						0	
+25	哎呀，这么快就猜出来了吗？	哎呀，這麼快就猜出來了嗎？	あら。もうバレたの？	어머, 이렇게 빨리 맞히다니?	Aww, you guessed it so quickly.						0	
+26	完全不用猜，只有你会这么做。	完全不用猜，只有你會這麼做。	こんなことをするのは君くらいだからな。考えるまでもなかったさ。	추측할 필요도 없어, 오직 네가 할 수 있는 일이니까.	No need to guess — only you would do it this way.						0	
+27	呵呵呵，我的套路都被你摸清了。	呵呵呵，我的套路都被你摸清了。	ふふふ。私のやり方を把握しているとはね。	후후후, 내 패턴을 벌써 전부 파악했구나.	Hehe, seems you've figured out all my tricks.						0	
+28	银铃般的笑声中，凯茜娅迈着游蛇般的步伐绕过我，坐到了对面。	銀鈴般的笑聲中，凱茜婭以遊蛇般的步伐繞過我，坐到了對面。	カーシアは綺麗な笑い声をこぼしながら、優雅なステップで私の前に回った。	종소리 같은 웃음 속에서 캐시아는 뱀처럼 유연하게 나를 돌아 내 앞에 앉았다.	With a little silvery laugh, Katya circled to face me and settled down with a serpent's grace.						0	
+29	嗯？这里貌似还有其他人？	嗯？這裡貌似還有其他人？	あら。先客がいたの？	음? 여기 다른 사람도 있는 것 같은데?	Hmm? You aren't here alone?						0	
+30	怎么，好奇她是谁吗？	怎麼，好奇她是誰嗎？	相手が誰なのか、気になるか？	왜? 누군지 궁금해?	Why, are you curious about who the other girl is?						0	
+31	面对我的打趣，凯茜娅只是冷哼一声。	面對我的打趣，凱茜婭只是冷哼一聲。	私の冗談に、カーシアはただ冷たく鼻を鳴らすだけだった。	내 농담에 캐시아는 그냥 콧소리로 '흥'이라고 답할 뿐이었다.	Katya merely huffed at my jest.						0	
+32	我才不在乎哦，毕竟，喜欢喝茶的大小姐又不是我想邀请的人。	我才不在乎哦，畢竟，喜歡喝茶的大小姐又不是我想邀請的人。	全然。お茶が好きなお嬢様なんて、私の好みじゃないから。	난 신경 안 써, 어차피 차 마시는 아가씨는 내가 보려고 했던 사람이 아니니까.	I couldn't care less. I'm not here to invite a rich tea aficionada.						0	
+33	……	……	……	…	...						0	
+34	眼见“扳回一局”的她接着势头将半个身体倾了过来，用指尖轻轻挑起我的下巴。	眼見「扳回一局」的她接著氣勢將半個身體傾了過來，用指尖輕輕挑起我的下巴。	彼女はたった一言で主導権を奪い返すと、その勢いのまま自分の体を私に傾け、指先で私の下あごを持ち上げた。	상황이 역전된 것 같은 그녀는 기세를 몰아 몸을 반쯤 기울인 채 손끝으로 내 턱을 살짝 들어 올렸다.	Gaining the upper hand with a clever comeback, Katya leaned in, her fingertip provocatively lifting my chin.						0	
+35	喂，大好的下午，不如我们俩出去找个地方小酌一杯？就趁她还没回来……	喂，大好的下午，不如我們兩個出去找地方小酌一杯？就趁她還沒回來……	こんなに素晴らしい午後は、お酒の方がぴったりよ。どう？いっそ、彼女が戻ってくる前に……	여어, 날도 좋은데 둘이서 어디 가서 한 잔 할래? 그녀가 돌아오기 전에…	So, this fine afternoon, why don't we slip out for a drink before she returns?						0	
+36	凯茜娅小姐——	凱茜婭小姐——	カーシアさん！	캐시아 씨…	Miss Katya—						0	
+37	一声呼唤打断了凯茜娅的动作。	一聲呼喚打斷了凱茜婭的動作。	誰かがカーシアを呼び止めた。	한 부름이 캐시아의 행동을 멈추게 했다.	A sudden voice interrupted Katya's action.						0	
+38	你这是在……	你這是在……	何をして……	지금 뭐하시는…?	What are you doing...?						0	
+39	啊，我们是在交流吉他演奏技巧，对吧playername？	啊，我們是在交流吉他演奏技巧，對吧playername？	ふふ、ギターのテクニックについて話していただけよ。そうでしょ、playername？	아, 기타 연주를 어떻게 해야 할지 의논 중이었어, 그렇지? playername?	Oh, we were just discussing guitar playing techniques, right, playername?						0	
+40	完全不是那么一回事。	完全不是那麼一回事。	いや、違うね。	전혀 그러지 않았어.	Not even close.						0	
+41	我都听到了哦……要和凯茜娅小姐去小酌一杯什么的。	我都聽到了哦……要和凱茜婭小姐去小酌一杯什麼的。	聞こえてましたよ。カーシアさん、飲みに誘っていましたよね。	다 들었어요… 캐시아 님이랑 한 잔 하러 가겠다고 한 거.	I heard everything... Miss Katya was talking about going out for a drink with the Adjutant.						0	
+42	茉莉安平静地将手中的茶盘放好，然后像是什么都没有发生过似的为我倒了一杯茶。	茉莉安平靜地將手中的茶盤放好，然後像是什麼都沒發生過似的為我倒了一杯茶。	マリアンは静かにトレイをテーブルに置くと、何事もなかったかのように私のカップに紅茶を注いでから……	마리안은 차분하게 손에 든 찻잔을 내려놓고 마치 아무 일도 없었던 것처럼 나에게 차를 따라 주었다.	With poised tranquility, Marian set down the tray and poured me a cup of tea as if nothing had transpired.						0	
+43	接着，还有凯茜娅的那份。	接著，還有凱茜婭的那份。	カーシアにも同じように紅茶を用意した。	그리고 이어서 캐시아의 것도 따랐다.	And then, she poured a cup for Katya too.						0	
+44	哎？啊，谢谢……	哎？啊，謝謝……	え？あ、ありがとう……	아? 아, 고마워…	Huh? Um, thanks...						0	
+45	凯茜娅接过茶水，然后一脸困惑地看了看我。	凱茜婭接過茶水，然後一臉困惑地看了看我。	カップを受け取ったカーシアは、困惑した顔で私を見た。	캐시아는 차를 받아들고 당황한 얼굴로 나를 쳐다보았다.	Katya accepted the tea, her gaze fixing at me, bewildered.						0	
+46	其实……我也在想，今天是不是坐得太久了。	其實……我也在想，今天是不是坐太久了。	実は私も、ここに長居しすぎたんじゃないかと思っていました。	사실… 저도 오늘 너무 오래 앉아 있었던 것 같아서요.	Actually... I was thinking — maybe we've been sitting here too long today.						0	
+47	如果分析员想和凯茜娅小姐出门转转也挺好的，只是……	如果分析員想和凱茜婭小姐出門轉轉也挺好的，只是……	だからもし、分析員さんがカーシアさんと一緒に出かけたいなら、私はかまいません。でも……	만약 분석가님이 캐시아 님이랑 외출하고 싶다면 저는 괜찮지만…	If you wish to go out with Miss Katya, that's fine, but...						0	
+48	只是？	只是？	でも？	괜찮지만?	What is it?						0	
+49	还请不要在外面喝酒！	還請不要在外面喝酒！	お酒だけはやめてください！	밖에서 술은 마시지 말아 주세요!	Just promise me you won't drink alcohol!						0	
+50	她关注的重点居然是这个吗？！	她關注的重點居然是這個嗎？！	それはそんなに引っ掛かることなのか！？	신경 쓰는 게 고작 그거였어?!	That's what's on her mind!?						0	
+51	呵呵，喝酒有什么问题吗？大家都是成年人了吧。	呵呵，喝酒有什麼問題嗎？大家都是成年人了吧。	ふふ、お酒になんの問題があるの？お互い、もう未成年でもないのに。	후후, 술 마시는 게 뭐 어때서? 다들 성인이잖아.	Heh, what's wrong with enjoying a few drinks? We're all adults here.						0	
+52	如果是平常，我自然不会计较。	如果是平常，我自然不會計較。	普段なら止めたりしませんが……	평소라면 저도 신경 쓰지 않겠지만.	Normally, I wouldn't object.						0	
+53	但毕竟我们刚刚从新恒提罗回来，分析员也还在调养中，哪怕一点点酒精也会加重他身体的负担……	但畢竟我們剛從新恆提羅回來，分析員也還在調養中，即使一點點酒精也會加重他身體的負擔……	私達はまだニューガントラから帰ってきたばかりで、分析員さんだって疲れが取れていないはずです。アルコールが分析員さんにとって負担になるんじゃないかと、心配なんです……	뉴헨틸로에서 돌아온 지도 얼마 안 되었고, 분석가님도 아직 회복 중이라서, 조금의 알코올도 몸에 부담이 될 수 있어요…	But considering we've just returned from New Hentiro and the Adjutant's still recuperating, even a small amount of alcohol could hinder his recovery...						0	
+54	所以至少在休假期间，我想还是不要接触为好。	所以至少在休假期間，我想還是不要接觸為好。	だから、せめてこの休みの間ぐらいは、お酒を控えた方が良いと思って。	그래서 적어도 휴가 기간 동안은 술을 멀리하는 게 좋겠어요.	So I think it's best to abstain during our break.						0	
+55	哎~但是我听说茶叶喝多了也会增加身体的负担唉，会整夜整夜都睡不着的那种哦。	哎~但是我聽說茶葉喝多了也會增加身體的負擔欸，會整夜整夜都睡不著的那種哦。	へぇ。でも、お茶も似たようなものだと聞いたけどね。それのせいで眠りが浅くなることだってあるでしょ。	참나~ 그런데 차를 너무 많이 마셔도 몸에 무리가 간다고 들었어, 밤새 잠을 못 자게 된다든가.	Aww~ But I've heard that drinking too much tea can be just as bad for one's health — it can keep you up all night.						0	
+56	只要适量就好，适量饮茶还能促进新陈代谢。	只要適量就好，適量飲茶還能促進新陳代謝。	飲みすぎるからそうなるんです。適量なら、お茶は代謝に良い飲み物なんですよ。	적당히 마시면 괜찮아요, 적당한 차는 신진대사를 촉진시켜주죠.	In moderation, tea can actually boost metabolism. And I'll make sure he won't overdo it.						0	
+57	那……适量的酒精不是也一样？	那……適量的酒精不是也一樣？	その理論じゃ、お酒も適量でいいと思うけど？	그럼… 적당한 알코올도 괜찮은 거 아닌가?	Well... I can say the same thing about alcohol.						0	
+58	一点也不一样，这是诡辩哦，凯茜娅小姐。	一點也不一樣，這是詭辯哦，凱茜婭小姐。	いいえ、全然違います。詭弁もほどほどにしてくださいね？カーシアさん。	전혀 다르죠, 그건 궤변이에요, 캐시아 님.	That's hardly comparable. You're twisting my words, Miss Katya.						0	
+59	少女脸上的微笑并没有掩盖住言语中刺出的锋芒。	少女臉上的微笑並沒有掩蓋住言語中刺出的鋒芒。	少女は微笑んでいたけれど、その言葉はトゲトゲしかった。	소녀의 얼굴은 미소가 사라지지 않았지만, 말 속에는 날카로움이 배어 있었다.	Her smile appeared gentle, but her retort carried a sharp edge.						0	
+60	……哎呀呀，连你也变得强势起来了吗？	……哎呀呀，連你也變得強勢起來了嗎？	……あら。あなたまでずいぶん強気になったわね？	… 어머, 마리안? 뭐가 이렇게 달라졌어?	...My, even you've grown more assertive, haven't you?						0	
+61	……	……	……	…	...						0	
+62	咳咳，我说——	咳咳，我說——	こほん……あのな。	크흠… 그러면 이렇게 하자…	Ahem. Why don't—						0	
+63	我说不如打一架好了，谁赢了听谁的。	我說不如打一架好了，誰贏了聽誰的。	もういっそ喧嘩したら？負けたほうは、勝ったほうの言う通りにするってことでさ。	싸워서 이기는 사람이 결정하는 건 어때?	Why don't you settle this with a fight? Winner gets to choose what the Adjutant drinks.						0	
+64	这么看着我干嘛，我只是想要帮分析员缓和一下氛围。	這麼看著我幹嘛，我只是想要幫分析員緩和氣氛。	なに？その目は。分析員のかわりに空気を変えてるだけだよ？	왜 그렇게 쳐다봐, 난 그냥 분석가 분위기를 풀어주려고 한 거였어.	Why are you all staring at me like that? I was just trying to lighten the atmosphere for the Adjutant.						0	
+65	身材矮小的安卡好似雨后的菌子般，从没人注意到的角落中突然钻了出来。	身材矮小的安卡好像雨後的菌子般，從沒人注意到的角落突然鑽了出來。	雨のあとのキノコみたいに、アカシアの小柄な体がひょっこりと現れた。	키가 작은 아카시아는 마치 버섯처럼 아무도 눈치채지 못한 구석에서 갑자기 나타났다.	From an unnoticed corner, the petite Acacia popped up like a mushroom after rain.						0	
+66	谢谢，虽然你的出发点很好，但提议就算了。	謝謝，雖然你的出發點很好，但提議就算了。	気遣いは嬉しいけど、その提案は遠慮しておこうかな。	네 마음은 고맙지만 제안은 됐어.	I appreciate the gesture, but there's no need for that.						0	
+67	不谢，如果需要的话，我可以做裁判。	不謝，如果需要的話，我可以當裁判。	どういたしまして。必要なら、私が審判を務めてあげるからね。	괜찮아, 필요하면 내가 심판도 봐줄게.	Any time. I can referee if you need me to.						0	
+68	安卡希雅小姐……你好像完全没有理解分析员的意思。	安卡希雅小姐……你好像完全沒有理解分析員的意思。	アカシアさん……分析員さんの言葉の意味をまったく理解していないようですね。	아카시아 님… 분석가님의 뜻을 전혀 이해하지 못했네요.	Miss Acacia... you seem to have missed the Adjutant's point.						0	
+69	连茉莉安都忍不住吐槽了……	連茉莉安都忍不住吐槽了……	マリアンまでツッコみに回るなんて……	마리안이 참지 못하고 이렇게 말할 정도면…	You don't hear Marian say that a lot...						0	
+71	你居然还约了其他人吗？	你居然還約了其他人嗎？	まだ誰かと約束してるの？	설마 다른 사람하고 뭐라도 약속했어?	You have yet another date?						0	
+72	是卡罗琳。	是卡羅琳。	カロリンだ。	캐롤린이야.	It's Caroline.						0	
+73	我向一直在搅混水的安卡希雅比了个嘘声手势，接通了通讯。	我向一直在攪混水的安卡希雅比了個噓聲手勢，接通了通訊。	事態を悪化させ続けているアカシアに向かって人差し指を立てると、私は通信に出た。	나는 계속 떠들고 있는 아카시아에게 조용하라는 제스처를 취하고 통신을 연결했다.	I gestured for Acacia the pot stirrer to be quiet and answered the call.						0	
+74	分析员，你现在有空吗？	分析員，你現在有空嗎？	分析員、少しいいですか？	분석가님, 시간 괜찮으세요?	Adjutant. Do you have a minute?						0	
+75	果然，卡罗琳也干了。	果然，卡羅琳也做了。	やっぱり、カロリンも隅におけないね。	캐롤린까지 끼어들다니…	I knew it — Caroline is in on it too.						0	
+76	哎？我干什么了……等等，安卡希雅现在在你旁边吗？	哎？我做什麼了……等等，安卡希雅現在在你旁邊嗎？	え？それはどういう……待って、アカシアが傍にいるんですか？	네? 제가 뭘 했다고… 잠깐, 아카시아도 지금 옆에 있어요?	Huh? I'm in on what now...? Wait, is Acacia there with you?						0	
+77	嗯，但不用理她……卡罗琳你继续说。	嗯，但不用理她……卡羅琳你繼續說。	そうだけど、気にしないで。続けてくれ。	응, 별로 신경 쓸 필요 없어… 본론으로 들어가줘.	Yes, but you can ignore her... What's up?						0	
+78	哦……嗯，其实也没什么大事，就是来通知一下大家，这次的休假地点定在了位于霍尔姆东部海域的<orange>奥丽拉水上乐园</>。	喔……嗯，其實也沒什麼大事，就是來通知一下大家，這次的休假地點定在了位於霍爾姆東部海域的<orange>奧麗拉水上樂園</>。	あ、はい……まあ、大した用事じゃないですけどね。今回のバカンス地はホルムの東部海域に位置する<orange>オーレラサマーランド</>に決まった、ということをお知らせしようと思ったまでです。	네… 다름이 아니라, 이번 휴가 장소는 홀름 동부 해역에 있는 <orange>오릴라 수상 낙원</>으로 결정되었다는 것을 알려드리려고요.	Oh... Nothing major. I just wanted to let everyone know that we'll be having our getaway at <orange>Orilla Water Park</> on the eastern coast of Holme.						0	
+79	水上乐园？	水上樂園？	サマーランド？	수상 낙원?	A water park?						0	
+80	没听说过那里有什么水上乐园……	沒聽過那裡有什麼水上樂園……	そんな施設があるだなんて、聞いたこともありませんが……	거기에 수상 낙원이 있다는 얘기는 들어본 적이 없는데…	I wasn't aware there was one in that area...						0	
+81	那本身就是公司的保密资产。	那本身就是公司的保密資產。	会社の秘密資産ですからね。	회사의 비밀 자산이었어요.	It's a confidential project by the company, initially built to serve as a set for a reality combat show.						0	
+82	但自从旧董事垮塌后便被搁置了，直到最近才决定将其翻修成公司员工的专属休假地。	但自從舊董事垮台後便被擱置了，直到最近才決定將其翻修成公司員工的專屬休假地。	工事自体は元理事会崩壊後に中止されたんですが、つい最近、社員専用のリゾート地としてリフォームすることが決まったので……	하지만 이전 이사회가 해체된 후 한참 방치되다가, 최근에야 회사 직원들의 전용 휴양지로 개조하기로 결정한 거예요.	After the old Board fell, it was mothballed until recently when they decided to repurpose it into a holiday resort for exclusive employee use.						0	
+83	等等……又要搞闯关比赛了吗？	等等……又要搞闖關比賽了嗎？	待ってくれ。また試合をやるつもりなのか？	잠깐… 또 리얼리티 쇼를 한다고?	Wait... another reality show?						0	
+84	放心，这次单纯就是去放松的，不会再做其他安排了，休假期间不会有任何人打扰各位。	放心，這次單純就是去放鬆的，不會再做其他安排了，休假期間不會有任何人打擾各位。	それは安心してください、今回はただのバカンスです。これ以上予定を入れませんし、バカンス中は誰にも邪魔されないように手配しております。	걱정 마세요, 이번에는 정말로 휴식을 위한 거니까요. 다른 일정은 일절 없을 거고, 휴가 중에는 아무도 여러분을 방해하지 않을 거예요.	Don't worry, this trip is all about relaxation, no hidden agendas. No one will disturb your vacation.						0	
+85	看样子是吸取了上次的教训。	看來是吸取了上次的教訓。	前回の教訓が生きてるってわけだ。	지난번에 있었던 일이 교훈을 준 모양이군.	Sounds like they've learned their lesson from our Yallu Island vacation.						0	
+86	嗯，毕竟上次已经乱作一团了嘛……事故一件接着一件。	嗯，畢竟上次已經亂作一團了嘛……事故一件接著一件。	はい。まあ……前回の試合はめちゃくちゃになりましたからね……トラブルが次から次へと。	네, 지난번은 엉망진창이었잖아요… 사고도 잇따랐고요.	Exactly, especially given how last time it turned into a fiasco before the show even aired... One mishap followed another, and the company had to permanently erase the footage.						0	
+87	乐园……闯关……	樂園……闖關……	ランド……スポーツバラエティ……	수상 낙원… 돌파 게임…	Water park... Combat show...						0	
+88	安卡希雅一直在念叨什么？	安卡希雅一直在念什麼？	アカシア？なにをぶつぶつ言っているのですか？	아카시아는 계속 뭐라고 중얼거리고 있는 거죠?	What's Acacia mumbling about over there?						0	
+89	你无视她就好。	你無視她就好。	気にしないでくれ。	그냥 무시해.	Just ignore her.						0	
+90	啊，有办法了！	啊，有辦法了！	あ、わかった！	아, 좋은 생각이 났어!	Ah, I got it!						0	
+91	不如就利用那个水上乐园来一场闯关比试吧，赢的人就能决定是茶还是酒。	不如就利用那個水上樂園來一場闖關比試吧，贏的人就能決定是茶還是酒。	じゃあ、そのサマーランドで勝負しなよ。勝った人がお茶かお酒かを選べるってことで。	수상 낙원을 이용해서 돌파 게임 대회를 여는 건 어때? 이긴 사람이 차나 술을 사게끔 하고.	What if we set up a series of combat challenges at the water park? The winner gets to decide if it's tea or alcohol.						0	
+92	那又是什么……为什么水上乐园会和茶酒扯上关系。	那又是什麼……為什麼水上樂園會和茶酒扯上關係。	え、なにそれ。サマーランドに、お茶とお酒？どういうことですか？	그건 또 뭐죠… 왜 수낭 낙원이 차나 술과 관련이 있는 거죠?	Hmm...? What does the water park have to do with drinks?						0	
+93	三位意下如何？	三位意下如何？	三人はどう？	나머지 셋은 어떻게 생각해?	What do you guys think?						0	
+94	还有一个人在场哦……怎么感觉被无视的人是我。	還有一個人在場哦……怎麼感覺被無視的人是我。	おーい、質問してるひとがいるんですけどー。なんか私、無視されてません？	여기 한 명 더 있는데… 왠지 무시당하는 것 같은데.	Can anyone hear me...? It feels like I'm the one being ignored.						0	
+95	……相比较你的第一个提议，听起来稍微靠谱些。	……相比起你的第一個提議，聽起來稍微可靠。	……最初の提案よりは、ちょっとまともになったな。	… 첫 번째 제안보다는 좀 더 그럴듯해 보이네.	...Compared to your first suggestion, this one seems a little more solid.						0	
+96	既然分析员都这么说了，那我就投赞同票。	既然分析員都這麼說了，那我就投贊同票。	分析員さんがそう言うなら、私は賛成に一票。	분석가님이 찬성이면 저도 찬성이에요.	If the Adjutant approves, then I'm on board.						0	
+97	我只是说稍微靠谱些……	我只是說稍微可靠一點……	ちょっとまともだって言っただけだが……	난 단지 첫 번째가 조금 더 괜찮아 보이는 것 같다고 한 것뿐인데…	I just said "a little more"...						0	
+98	规则什么的，应该还需要完善一些吧？	規則什麼的，應該還需要完善一點吧？	ルールについては、さすがにあとで調整が入るわよね？	규칙 같은 건 더 생각해야 할 것 같네.	We'll still need to work out the rules, right?						0	
+99	这就交给业余中比较专业的安卡希雅制作人吧。	這就交給業餘中比較專業的安卡希雅製作人吧。	それはアマチュアの中でも比較的プロに近い、このアカシアプロデューサーに任せるといいよ。	그건 아마추어 중에서 가장 프로인 아카시아 PD한테나 맡기자.	Leave that to me, one of the most professional amateur producers around.						0	
+100	有了两次开发游戏的经验后，我已经掌握必胜的法则了。	有了兩次開發遊戲的經驗後，我已經掌握了必勝的法則。	ゲームを2回開発した経験から、必勝の法則を掴んだから！	두 번이나 게임을 개발하고 났더니, 이제 이길 수 있는 방법을 어느 정도 터득했어.	After developing two games, I've figured out the secret to winning.						0	
+101	……有人能和我说明一下情况吗？从刚刚开始我一直没听懂你们在说什么。	……有人能跟我說明一下情況嗎？從剛開始我一直沒聽懂你們在說什麼。	……あの、誰か説明してくれませんか？さっきからなに言っているのかさっぱりなんですけど。	… 누가 설명 좀 해줄 수 있나요? 무슨 얘기 하는지 통 못 알아듣겠어요.	...Can anyone fill me in? I've been lost since the start.						0	
+b-1											0	
+102	向状况外的卡罗琳说明情况	向狀況外的卡羅琳說明情況	蚊帳の外にいるカロリンに説明する	상황을 이해하지 못하는 캐롤린에게 설명해 준다.	Bring Caroline up to speed						0	
+103	总之就是……	總之就是……	かくかくしかじか……	다시 말해서…	Okay, so essentially...						0	
+104	大概理解了……如果你们确定要认真比一场的话，我这边应该也能提供些支持。	大概理解了……如果你們確定要認真比一場的話，我這邊應該也能提供些支援。	なるほど……本当に勝負する気でしたら、こちらも一応サポートできますよ。	대충 이해했어요… 정말 대결을 하신다고들 하면, 제가 지원할 수 있는 부분이 있겠죠.	I think I get it... If you're all set on making this a real contest, I can help out.						0	
+105	那就拜托了，我初步的想法是将凯茜娅和茉莉安分成两组，然后进行团队对抗。	那就拜託了，我初步的想法是將凱茜婭和茉莉安分成兩組，然後進行團隊對抗。	うん、カロリンにも頼ろうと思ってたんだ。とりあえずカーシアとマリアンが2組に分かれて行う団体戦までは考えたんだけど。	그럼 부탁 좀 할게. 내 생각은 캐시아와 마리안을 두 팀으로 나눠서 팀전을 하는 거야.	Excellent. My preliminary plan is to split Katya and Marian into teams with other operatives, then the two compete against each other.						0	
+106	这样能增加些策略性和随机性。	這樣能增加些策略性和隨機性。	戦略性もあるし、予想外の要素も入ってくるから、良いと思わない？	이렇게 하면 전략성이나 형평성에 좋을 것 같아서.	Team-based challenges will add elements of strategy and randomness.						0	
+107	听起来还怪有趣的嘛，也能让更多队员参与进来。	聽起來還挺有趣的嘛，也能讓更多隊員參與。	案外面白そうに聞こえますね。他の隊員も参加しやすそうですし。	듣자하니 재밌을 것 같네요, 더 많은 팀원이 참여할 수도 있고.	Sounds fun, and it could be good for team building.						0	
+108	卡罗琳那么有兴致，不如一起来玩？	卡羅琳那麼有興致，不如一起來玩？	じゃあ、カロリンも参加する？	캐롤린도 관심이 가면 같이 하는 건 어때?	You seem interested. Would you like to join?						0	
+109	我……我就算了，我的身体素质哪能和天启者比。	我……我就算了，我的身體素質哪能和天啟者比。	私！？いえ、遠慮しときます。私なんかが覚醒者と対抗できるわけがないじゃないですか。	저… 저는 됐어요. 저의 이런 저질 체력으로는 계시자들하고 상대할 수도 없어요.	Uh... I'll pass. There's no way I can compete with a bunch of Manifestations.						0	
+110	总觉得，让那么多人陪着我和茉莉安争个是茶是酒，稍微有些小家子气。	總覺得，讓那麼多人陪我和茉莉安爭個是茶是酒，稍微有點小家子氣。	まあ、お茶とお酒の論争に、私とマリアン以外の人間を巻き込むのもどうかと思うわね。	많은 사람들이 나랑 마리안을 두고 차나 술로 경쟁하게 하는 건 좀 옹졸하지 않나?	Doesn't it seem a bit petty? Having so many people compete over a little tea-versus-alcohol debate.						0	
+111	这么说确实有点……把最后的奖励升级一下如何？	這麼說確實有點……把最後的獎勵升級一下如何？	うーん。それじゃ、ご褒美をもっといいものにするとか？	그럼 말이 나온 김에… 보상을 좀 업그레이드하는 건 어때?	You have a point... Perhaps we could up the stakes to spice things up?						0	
+112	升级一下？那不如获胜的一方能和分析员去地下**，然后把**吊起来，再用沾满**的**抽打**如何？	升級一下？那不如獲勝的一方能和分析員去地下**，然後把**吊起來，再用沾滿**的**抽打**如何？	それでしたら……勝ったほうが分析員さんと地下■■に行って、■■を吊るして■■まみれの■■で■■を叩ける権利をもらえる、なんてどうですか？	업그레이드요? 그럼 승리한 팀이 분석가님이랑 같이 지하**로 가서 **을 매달아 놓고 **를 묻은 **로 **를 때리는 건 어때요?	Spice things up? How about the winning side gets to take the Adjutant to an underground ****, tie up ****, and use a ****-soaked **** to whip ****?						0	
+113	太多没法显示出来的词语了吧！而且这是茉莉安的个人爱好吧？！	太多沒辦法顯示出來的字詞了吧！而且這是茉莉安的個人愛好吧？！	地上波で流せない内容が多すぎでしょ！ていうかそれ、明らかにマリアンの趣味でしょうが！	보여 줄 수 없는 단어가 너무 많잖아요! 그리고 이건 마리안의 개인적인 취향이잖아요?!	That's a lot of censored words...! And isn't that more your personal hobby!?						0	
+114	稍微……有些过分了吗？	稍微……有點過分了嗎？	やや過激、でしたか？	조금… 과했나요?	Was that... a bit too much?						0	
+115	我刚刚看了一眼资料，那个水上乐园里好像还有栋酒店。	我剛剛看了一眼資料，那個水上樂園裡好像還有一棟酒店。	資料を確認してみたけど、あのサマーランドにはホテルがあるらしいね。	방금 자료를 보니까, 수낭 낙원에 호텔도 있는 것 같아.	The brochure says there's a hotel in the water park.						0	
+116	嗯，毕竟休假可是持续好几天，总得有个供大家休息的地方。	嗯，畢竟休假可是持續好幾天，總要有個供大家休息的地方。	そりゃリゾート地ですから、宿泊施設だってありますよ。	네, 휴가가 그래도 며칠 간 지속되니 모두가 쉴 수 있는 장소가 필요하죠.	Correct. The vacation lasts several days, so everyone will need a place to spend the night.						0	
+117	那么获胜的一组能和分析员一个房间如何？	那麼獲勝的一組能和分析員一個房間如何？	それじゃ、勝ったほうが分析員と同じ部屋になる、とかどう？	그러면 이긴 팀이 분석가랑 같이 같은 방을 쓰는 건 어때?	How about the winning team gets to share a room with the Adjutant?						0	
+118	呵呵呵，这样会不会有些太为难他了，一下子要应付那么多女孩子，一定忙不过来吧。不如就轮着来，赢得那队优先。	呵呵呵，這樣會不會有些太為難他了，一下子要應付那麼多女孩子，一定忙不過來吧。不如就輪著來，贏得那隊優先。	ふふふ。一気に大勢の女の子を相手にするなんて、分析員がキャパオーバーになるんじゃないの？勝ったほう優先で、順番に相手してもらいましょ。	흠, 그럼 너무 힘들지 않을까? 한꺼번에 여러 여자들을 상대해야 하니까 바쁠 거야. 차라리 차례대로 가는 게 좋지. 이긴 팀이 우선이고.	Hehe, won't that be a bit overwhelming for him? So many girls at once might wear him out. Maybe we should take turns — winners first.						0	
+b-2											0	
+119	勉为其难的点头	勉為其難的點頭	ぎこちなく頷く	나는 얼떨결에 마지못해 고개를 끄덕였다.	Nod reluctantly						0	
+120	那样休假就变得像是工作一样了。	那樣休假就變得像是工作一樣了。	それじゃ、バカンスじゃなくて仕事になるからな。	그렇게 되면 휴가가 꼭 업무처럼 보일 것 같은데.	That would turn the vacation into something like work.						0	
+121	盯——	盯——	じー……	빤히 쳐다본다…	*staring*...						0	
+122	怎么了？	怎麼了？	どうかしたのか？	왜 그래?	What?						0	
+123	你明明就很期待吧。	你明明就很期待吧。	口ではそう言うけど、まんざらでもないでしょ。	분석가, 솔직하게 말해. 속으로 기대하고 있지?	You're actually looking forward to it, aren't you?						0	
+124	露出自信的笑容	露出自信的笑容	自信満々の笑顔で答える	자신감 넘치는 미소를 짓는다.	Give a confident grin						0	
+125	这点小事难不倒我。	這點小事難不倒我。	それくらい、どうってことないよ。	이 정도쯤이야 나한텐 문제없지.	I can surely handle it.						0	
+126	盯——	盯——	じー……	빤히 쳐다본다…	*staring*...						0	
+127	怎么了？	怎麼了？	どうかしたのか？	왜 그래?	What now?						0	
+128	没什么，总觉得无论结果如何，你都是受益者。	沒什麼，總覺得無論結果如何，你都是受益者。	別に。どう転んでも、分析員が一番得するなって思っただけ。	아무것도 아니야, 결과가 어떻게 되든 결국 넌 수혜자가 될 것 같아서 말이지.	Nothing. Just feels like no matter which team prevails, you're the real winner.						0	
+129	咳嗯……总之有关奖励的事可以暂且搁置一下。	咳嗯……總之有關獎勵的事可以暫且擱置。	こほん！ご褒美に関しては、またあとで話し合いましょう。	크흠… 어쨌든 보상에 관한 일은 일단 뒤로 미뤄두시죠.	Ahem... Let's put the prize discussion on hold for now.						0	
+130	突然增加了太多安排，我需要再去重新准备一份休假方案书。	突然增加了太多安排，我需要再去重新準備一份休假計畫書。	予定も急に増えたことですし、今からプランを練り直してきます。	갑자기 너무 많은 계획이 추가되서, 다시 휴가 계획서를 준비해야 할 것 같아요.	With all these new plans, I'll need to tweak the vacation proposal.						0	
+131	小情报官需要我帮忙吗？	小情報官需要我幫忙嗎？	手伝ってあげようか？情報官くん。	정보관, 좀 도와줄까?	Need any help, Miss Intelligence Officer?						0	
+132	都说了别在那么多人面前这样叫我！	都說了別在那麼多人面前這樣叫我！	人前でその呼び方はやめてって言ってるでしょ！	다른 사람 앞에서 그렇게 부르지 말라고 했잖아요!	I told you not to call me that in front of other people!						0	
+133	你好好休息就行，等到结果出来了，我再单独找你商量。	你好好休息就行，等到結果出來了，我再單獨找你商量。	あなたは休んでいてください。結果が出たら、また連絡します。	아무튼 푹 쉬세요. 결과가 나오면 따로 말씀드릴게요.	Ahem. You just rest up for now. After I hash out the details, I'll confirm it with you privately.						0	
+134	呵呵呵，既然如此，我们这边就先开始招兵买马吧。	呵呵呵，既然如此，我們這邊就先開始招兵買馬吧。	ふふふ。そうと決まれば、さっそく仲間を集めないとね。	흐흐흐, 기왕 이렇게 된 거 그럼 병력 모집을 시작해 볼까?	Hehe, then I guess we should start recruiting team members now.						0	
+135	赞同，其实就在刚刚，我已经想好了合适的人选。	贊同，其實就在剛剛，我已經想好適合的人選了。	私も同感です。ついさっき、ちょうどいい人選を思いついたので。	좋아요. 안그래도 방금 전에 이미 적합한 분을 제 마음 속에 픽해놨어요.	Agreed. Actually, I've already thought of some suitable candidates.						0	
+136	那晚点再见吧，分析员。	那晚點再見吧，分析員。	それじゃ、またあとでね、分析員。	그럼 나중에 봐, 분석가.	Catch you later, Adjutant.						0	
+137	随着女孩们相继离开，原本喧闹的顶楼终于安静了下来。	隨著女孩們相繼離開，原本喧鬧的頂樓終於安靜了下來。	女の子達が去り、騒がしかった屋上が一気に静まり返った。	소녀들이 떠나자 시끄럽던 옥상이 드디어 조용해졌다.	After the girls left, the once-busy rooftop finally quieted down.						0	
+138	呼——最近大家的压力都很大，确实需要一个机会好好发泄放松一下。	呼——最近大家的壓力都很大，確實需要一個機會好好發洩放鬆一下。	ふぅ……。みんなも、最近はストレスが溜まってたし、これを機に発散させておくべきだな。	후… 요즘 다들 스트레스를 너무 많이 받았나? 확실히 제대로 쉴 공간이 필요하긴 해.	Whew... The girls have been under a lot of pressure lately. We definitely need a chance to unwind.						0	
+139	当然，要以更加“友爱”“和平”的方式……	當然，要以更「友愛」「和平」的方式……	まあ、もちろん「フレンドリー」で、「平和」な方法が前提になるけど……	물론, 더 '사이좋고' '평화로운' 방식으로…	In a more "friendly" and "peaceful" way, of course...						0	
+140	自言自语着躺在靠椅上，我再次阖上双眼，准备在日落前午睡一会儿。	自言自語著躺在靠椅上，我再次闔上雙眼，準備在日落前午睡一陣子。	私は独り言を呟きながらリクライニングシートに倒れ、目をつぶって昼寝を取ろうとした。	나는 안락의자에 누워 혼잣말을 하며 다시 눈을 감고 해가 지기 전에 낮잠을 잘 준비를 했다.	Muttering to myself, I laid back in the chair and closed my eyes, trying to take a nap before the sunset.						0	
+141	你所期待的友爱与和平真的能实现吗？	你所期待的友愛與和平真的能實現嗎？	フレンドリーで、平和ね。本当に実現できるのかな？	네가 바라는 우정과 평화를 정말 이룰 수 있을까?	Friendly and peaceful? Do you really think that's possible?						0	
+142	你还在这儿啊……	你還在這裡啊……	まだいたのか……	아직도 여기 있었어?…	Whoa... You're still here?						0	
+143	所谓的偷家就是这么一回事吧。	所謂的偷家就是這麼一回事吧。	あのふたりに知られたら、奇襲って言われるんじゃない？	이런 걸 염탐이라고 하던가.	That's what they call a successful backdoor play.						0	
+144	安卡也要组建自己的队伍吗？	安卡也要組自己的隊伍嗎？	それじゃ、アカシアも参戦するのか？	아카시아도 팀을 따로 꾸릴 거야?	Are you forming your own team, Acacia?						0	
+145	不了，我只想趁着休假好好休息，而且……	不了，我只想趁著休假好好休息，而且……	ううん。せっかくのバカンスなんだから、ゆっくり休むつもりだよ。それに……	아니, 난 그냥 휴가 동안 푹 쉬고 싶을 뿐이야, 그리고…	Nope. I just want to chill during the vacation. Besides...						0	
+146	到时候的战况说不定会比平时的战斗更加激烈。	到時候的戰況說不定會比平常的戰鬥更激烈。	普段よりも苛烈な戦いになるかもしれないし。	그때가 되면 전투 상황이 평소에 하던 전투보다 더 치열할지도 몰라.	The battle might get even more intense than our real ones.						0	
+147	放心，我会处理好一切的，你就看着吧。	放心，我會處理好一切的，你就看著吧。	大丈夫だ、私がなんとかするから。君は横で見ているといいよ。	걱정 마, 내가 전부 잘 처리할 테니 너는 그냥 지켜보고 있어.	Don't worry, I'll handle it. Just kick back and enjoy the show.						0	
+148	但愿如此……	但願如此……	そうだといいけど……	그래, 뜻대로 되길 바랄게…	I hope so...						0	
+149	女孩说完又蹲下身戳了戳我。	女孩說完又蹲下來戳了我一下。	そう言いながら、少女は体をかがめ、指で私を小突いた。	아카시아는 말을 마치더니 다시 몸을 굽혀 나를 쿡쿡 찔렀다.	Acacia then squatted down and poked me with her finger.						0	
+150	干嘛……	幹嘛……	なんだよ……	왜 이래…	What now...						0	
+151	借个位置，让我也躺躺，昨晚熬夜打游戏，补个觉。	借個位置，讓我也躺躺，昨晚熬夜打遊戲，補個覺。	ここで寝させて。ゲームで徹夜したから眠いんだよ。	자리 좀 빌려줘, 나도 좀 눕게. 어젯밤에 게임을 한다고 밤을 새워서 잠 좀 보충해야겠어.	Scoot over. I stayed up gaming last night, need a nap.						0	
+152	仔细一看她确实挂着淡淡的黑眼圈，我无奈地摇了摇头，往旁边挪了挪。	仔細一看她確實掛著淡淡的黑眼圈，我無奈地搖了搖頭，往旁邊挪了挪。	よく見れば、彼女の目元には確かに淡いクマが残っていた。仕方なく首を振ると、私は彼女に場所を譲った。	자세히 보니 눈 밑에 희미한 다크서클이 있었다. 나는 고개를 저으며 옆으로 물러섰다.	I took a look at her and noticed faint dark circles under her eyes. I moved aside resignedly, shaking my head.						0	
+153	等等，把胳膊留在那儿。	等等，把手臂留在那裡。	待って、腕はこのままでいい。	잠깐만, 팔은 거기에 둬.	Uh-uh. Leave your arm there.						0	
+154	我要拿来当枕头。	我要拿來當枕頭。	枕にするから。	베개로 쓸 거니까.	I want to use it as a pillow.						0	
+155	你事还真多……	你事情還真多……	文句が多いな……	요구사항이 많네…	...You're unbelievable.						0	
+156	就这样，在安卡希雅小猫般的鼾声中，我很快便进入了梦乡。	就這樣，在安卡希雅小貓般的鼾聲中，我很快便進入了夢鄉。	こうして、私はネコのようなアカシアのいびきと共に、夢に落ちた。	아카시아의 아기 고양이 같은 코골이 소리를 들으면서 나도 같이 잠이 들었다.	Amidst Acacia's kitten-like snores, I soon drifted off.						0	
+157	再次醒来时，自己已经被带回了房间，换好了睡衣。	再次醒來時，自己已經被帶回了房間，換好了睡衣。	目が覚めたとき、自分はいつの間にか部屋に戻っていて、しかもすでに寝巻に着替えていた。	다시 깨어났을 때는 이미 방으로 옮겨져 있었고, 잠옷으로 갈아 입혀져 있었다.	When I woke again, I found myself back in my room in my pajamas.						0	
+158	安卡希雅那家伙……偶尔也有贴心的时候嘛。	安卡希雅那傢伙……偶爾也有貼心的時候嘛。	アカシアって……たまにいいところもあるんだな。	아카시아 녀석… 가끔은 다정할 때도 있네.	Acacia... She can also be quite sweet sometimes...						0	
+159	……	……	……	…	...						0	
+160	终端传来了两声轻响。	終端傳來了兩聲輕響。	その時、端末が2回鳴った。	단말기에서 두 번의 작은 알림 소리가 들려왔다.	My terminal buzzed twice.						0	
+161	凯茜娅和茉莉安？	凱茜婭和茉莉安？	カーシアに、マリアン？	캐시아랑 마리안?	Katya and Marian?						0	
+162	点亮屏幕的瞬间，我不由得倒吸了一口凉气。	打開螢幕的瞬間，我不禁倒吸了一口涼氣。	スクリーンをタップすると、私は思わず息を飲んだ。	화면을 켜는 순간, 나도 모르게 숨을 들이마셨다.	As I activated the screen, I couldn't help but gasp.						0	
+163	两人竟然同时向我发送相似的……	兩人竟然同時向我發送相似的……	2人は、ほぼ同じ文面で……	두 사람이 동시에…	The two girls had just, at the same time, sent me similar...						0	
+164	邀请信。	邀請信。	私にオファーを出していたのだ。	초대장을 보내왔다.	Invitations.						0	
+165	<span color="#7D48EBFF">分析员，一定要加入我的队伍哦。</>\n<span color="#4863EBFF">监护人，不加入我的队伍吗？</>	<span color="#7D48EBFF">分析員，一定要加入我的隊伍喔。</>\n<span color="#4863EBFF">監護人，不加入我的隊伍嗎？</>	<span color="#7D48EBFF">分析員さん、私のチームに入っていただけますか？</>\n<span color="#4863EBFF">分析員、私のチームに入ってね。</>	<span color="#7D48EBFF">분석가님, 꼭 제 팀에 와야 해요. </>\n<span color="#4863EBFF">보호자, 내 팀에 안 올래?</>	<span color="#7D48EBFF">Adjutant, PLEASE join my team.</>\n<span color="#4863EBFF">As my guardian, shouldn't you be on my team?</>						0	

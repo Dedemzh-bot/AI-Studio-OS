@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	呼……分、分析员……	呼……分、分析員……	あぁ……分析員さん……	휴… 분, 분석가님…	Huff... A—Adjutant...						0	
+page0.2	对不起！烟花表演好像……马上就结束了。	對不起！煙火表演好像…馬上就結束了。	すみません……花火大会……もうすぐ終わっちゃいますね。	죄송합니다! 불꽃놀이가… 곧 끝나네요.	I'm sorry! It looks like the fireworks show is about to end.						0	
+page0.3	慢点慢点，我这不是在等着你吗。	慢點慢一點，我這不是在等你嗎。	大丈夫だ、焦ることなんてないさ。	천천히, 내가 기다리고 있어.	Easy, I'm not going anywhere.						0	
+choice01	安慰她	安慰她	慰める	그녀를 위로한다.	Comfort her						0	
+page1.1	虽然今晚的表演没能和你一起看。但可以等下次嘛。	雖然今晚的表演沒能跟你一起看。但可以等下次嘛。	花火大会は一緒に見れなかったけど、チャンスなんていくらでもあるからね。	오늘 밤 공연은 너랑 같이 못 봤지만 다음을 기다릴 수 있잖아.	It's a pity that we missed tonight's show, but there's always next time.						0	
+page1.2	唔……分析员，请拿着这个。	唔……分析員，請拿著這個。	うっ……分析員さん、これを。	음… 분석가님, 이걸 들고 계세요.	Mmm... Adjutant, I want you to have this.						0	
+page1.3	荧光色的……这是烟花棒？	螢光色的……這是仙女棒？	これは……ネオン色の手持ち花火か？	네온 컬러…이거 불꽃놀이 막대기?	It's glowing... is this a sparkler?						0	
+page1.4	在赶过来的路上买的。虽然今天的表演错过了， 但还好我有补救机会。	在趕過來的路上買的。雖然今天的表演錯過了， 但還好我有補救機會。	来る途中で買いました。花火大会は見れませんでしたが、これで埋め合わせをさせてください。	오는 길에 샀어요. 비록 오늘 공연은 놓쳤지만, 다행히 저는 만회할 기회가 있습니다.	I bought it on my way here. We missed today's show, but I'm glad I had a backup.						0	
+page1.5	据说这个烟花棒燃放时的颜色很特别。	據說這個仙女棒燃放時的顏色很特別。	火をつけると、すごく珍しい色の花火が見れるらしいですよ。	이 불꽃봉은 불꽃놀이할 때 색깔이 아주 특별하다고 해요.	They say this sparkler gives off special colors when it's lit.						0	
+page1.6	分析员，我们一起来看吧，	分析員，我們一起來看吧，	一緒に見ましょう、分析員さん。	분석가님, 저희 같이 봐요.	Let's watch it together, Adjutant.						0	
+choice02	逗弄她	逗弄她	意地悪をする	그녀를 놀린다.	Tease her						0	
+page2.1	让我等了这么久，打算怎么补偿我？	讓我等了這麼久，打算怎麼補償我？	ここまで待たせたんだ。少しぐらい埋め合わせをしてくれたって良くないか？	날 이렇게 오래 기다리게 했는데, 어떻게 보상해 줄래?	You made me wait so long. How are you gonna make it up to me?						0	
+page2.2	唔，这个……其实……	唔，這個……其實……	うっ……その、実は……	음, 그게… 사실…	Um, well... actually...						0	
+page2.3	好啦，我开玩笑……	好啦，我開玩笑……	あはは、冗談だって……	농담이야…	Alright, I'm just teasing y—						0	
+page2.4	其实我为分析员准备了独属于我们两人的烟花表演。	其實我為分析員準備了獨屬於我們兩人的煙火表演。	分析員さんのために、私達ふたりだけの花火大会をする準備をしておきました。	사실 분석가를 위해 우리 둘만의 불꽃놀이를 준비했습니다.	Actually, I've prepared a fireworks show just for us.						0	
+page2.5	这是……这是烟花吗？	這是……這是煙火嗎？	これは……花火か？	이건… 이건 불꽃놀이인가?	Are these... fireworks?						0	
+page2.6	没错，我选了筒数最多的一款，分析员要不要和我一起数数有多少发？	沒錯，我選了筒數最多的一款，分析員要不要跟我一起數數幾發？	はい、回数が一番多いものにしました。一緒に数えてみませんか？	맞아, 내가 제일 많이 나온 걸로 골랐어요, 분석가님도 저랑 같이 몇 발인지 세어볼래요?	Yeah, I chose the kind with the most shots. Adjutant, shall we count how many there are?						0	
+page2.7	那么，请分析员握住我的手，引领我来……	那麼，請分析員握住我的手，引領我來……	さぁ、分析員さん。私の手を握って……	그럼 분석가님이 제 손을 잡고 이끌어주세요…	Then, Adjutant, please take my hand...						0	
+page2.8	点燃它吧。	點燃它吧。	火をつけてみてください。	불꽃에 불을 붙이자.	And light it with me.						0	

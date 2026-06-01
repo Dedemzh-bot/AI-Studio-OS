@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	和瑟瑞斯碰头的地方确实是这里……	和瑟瑞斯碰頭的地方確實是這裡……	シーリスと約束した場所は確かにここだ……	분명 이곳에서 세리스와 만나자고 했는데…	Pretty sure this is where I'm supposed to meet Siris...						0	2.3版本随机事件
+page1.2	环顾四周，附近虽然有不少人，但是却并没有瑟瑞斯的身影。	環顧四周，附近雖然有不少人，但是卻並沒有瑟瑞斯的身影。	見渡してみると、周りには人が少なくないが、シーリスの姿はどこにも見当たらなかった。	주변을 둘러보았다, 많은 사람이 보였지만 세리스의 모습은 찾아볼 수 없었다.	I scanned the area — plenty of people around, but no sign of Siris.						0	2.3版本随机事件
+page1.3	难道是忘记了约好的时间或者地方吗？	難道是忘記了約好的時間或是地方嗎？	約束の時間や場所を忘れたのか？	설마 약속한 시간과 장소를 깜빡한 건가?	Could she have forgotten the time or place?						0	2.3版本随机事件
+page1.4	这不太像她的风格……	這不太像她的風格……	シーリスらしくないな……いつも約束した後はちゃんとメモに書き留めるのに。	이건 세리스 답지 않은데…	That's not like her...						0	2.3版本随机事件
+page1.5	哇啊啊，抱歉，我、我赶时间！	哇啊啊，抱歉，我、我趕時間！	うわ、ごめんなさい、い、急いでるの！	와아아아, 죄송해요, 조, 조금 급해서요!	Ahhh! Excuse me! I—I'm running late!						0	2.3版本随机事件
+page1.6	对不起对不起，明明定了闹钟，写了便签，还设置了备忘录，但还是迟到了……	對不起對不起，明明定了鬧鐘，寫了便條，還設定了備忘錄，但還是遲到了……	本当にごめんなさい。アラームを設定して、メモを書いて、リマインダーも設定したのに、それでも遅刻した……	죄송해요, 죄송해요, 알람까지 맞추고, 쪽지도 적고, 메모까지 했는데도 늦어버렸네요…	I'm so, so sorry! I set an alarm, wrote a note, and even left myself a reminder — and here I am, still late...						0	2.3版本随机事件
+page1.7	也太多了吧……	也太多了吧…	さすがにやりすぎじゃないか……	많이도 했네…	That's... quite a few reminders.						0	2.3版本随机事件
+page1.8	不如说，有这么多备忘措施，反而让人好奇是什么害你迟到了。	不如說，有這麼多備忘措施，反而讓人好奇是什麼讓你遲到了。	むしろ、そこまでして遅刻した理由が気になる。	안 늦으려고 그렇게 많은 노력을 했는데, 왜 늦었는지 오히려 더 궁금해지는걸?	Now I've got to ask — how'd you end up late with so many safeguards?						0	2.3版本随机事件
+page1.9	嘿嘿，是在试衣服啦，明天要穿的衣服。	嘿嘿，是在試衣服啦，明天要穿的衣服。	えへへ、明日のために服を試着してたの。	헤헤, 옷 입어 본다고 늦었어요, 내일 입을 옷이요.	Hehe, well, I was trying on outfits for tomorrow!						0	2.3版本随机事件
+page1.10	明天？明天你有什么安排吗？	明天？明天有什麼安排嗎？	明日？何か予定があるのか？	내일? 내일 일정이 있었나?	Tomorrow? You have plans tomorrow?						0	2.3版本随机事件
+page1.11	诶，分析员不记得了吗？我们约好明天要去水族馆的。	欸，分析員不記得了嗎？我們約好明天要去水族館的。	え、分析員は覚えてないの？明日、一緒に水族館に行くって約束したじゃん。	어, 설마 잊었어요? 내일 수족관 같이 가기로 했잖아요.	Hm? Adjutant, don't you remember? We're going to the aquarium tomorrow!						0	2.3版本随机事件
+page1.12	呃……等一下，好像是有这件事……	呃……等一下，好像是有這件事……	あ……そうか、確かに約束したな……	어… 잠시만, 그랬던 거 같기도…	Uh... wait, yeah... now that you mention it...						0	2.3版本随机事件
+page1.13	难怪我日程里空了一天没有安排工作。	難怪我日程裡空了一天沒有安排工作。	どうりで仕事の予定が入ってなかったわけだ。	어쩐지 그래서 일정에 아무 업무도 안 적혀있었던 거구나.	Guess that's why my schedule had a mysteriously free day with no work planned.						0	2.3版本随机事件
+page1.14	嘿嘿，一直都是我忘东忘西，没想到分析员也会忘记事情呀。	嘿嘿，一直都是我忘東忘西，沒想到分析員也會忘記事情呀。	えへへ、私は忘れん坊だけど、分析員も物忘れするんだね。	헤헤, 저만 항상 깜빡하는 줄 알았는데, 분석가도 가끔 깜빡하는군요.	Hehe, I'm usually the one who forgets things, but look at this — the Adjutant forgot something, too!						0	2.3版本随机事件
+page1.15	嗯，这么特别的事情，我要好好记下来~	嗯，這麼特別的事情，我要好好記下來~	うん、こんなに特別なことはメモしておかないと！	음, 이렇게 특별한 일은 잘 기록해 둬야 해요~	I definitely need to write this down~						0	2.3版本随机事件
+page1.16	……这种事忘掉也可以的！	……這種事忘掉也可以的！	……いや、メモなんてしなくていいから、忘れてくれ！	…그런 건 잊어도 돼!	...It's okay if you forget this one, you know!						0	2.3版本随机事件

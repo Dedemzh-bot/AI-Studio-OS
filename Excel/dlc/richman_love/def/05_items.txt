@@ -1,0 +1,7 @@
+﻿Id	名字	名字多语言	描述	道具基类	使用类型(1:主动;2:被动)	显示类型(1:普通卡;2:伤害卡)	图标	参数
+Id	Name	NameKey	Desc	Class	UseType	ShowType	Icon	Params
+1	遥控骰子	season_item.TxtRichManLoveCardName1	season_item.TxtRichManLoveCardNameDes1	custom_dice	1	1	chess.601	
+2	跳跳卡	season_item.TxtRichManLoveCardName2	season_item.TxtRichManLoveCardNameDes2	reverse_card	1	1	chess.602	
+3	指定数值提升卡	season_item.TxtRichManLoveCardName3	season_item.TxtRichManLoveCardNameDes3	slowly_card	1	1	chess.605	8
+4	活动门票	season_item.TxtRichManLoveCardName4	season_item.TxtRichManLoveCardNameDes4	occupation_card	1	1	chess.603	
+5	奇异糖果	season_item.TxtRichManLoveCardName5	season_item.TxtRichManLoveCardNameDes5	accounting_card	1	1	chess.604	50

@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	哦哦！	喔喔！	おお！	오오!	Oh!						0	
+page0.2	嗯……	嗯……	うーん……	음…	Wow...						0	
+page0.3	哇！	哇！	わあ！	와!	Whoa!						0	
+page0.4	你好像第一天上学的小孩子。	你好像第一天上學的小孩子。	生まれて初めて登校した子供みたいだな。	테스, 처음 등교하는 어린아이 같아.	You look like a kid on their first day of school.						0	
+page0.5	我就是第一次来嘛。	我就是第一次來嘛！	だって、初めて来たんだもん。	저는 여기 처음 와보잖아요.	It's my first time coming here.						0	
+page0.6	早知道公司总部的基地这——么好，我就应该强烈要求不出外勤。	早知道公司總部的基地這——麼好，我就應該強烈要求不出外勤。	本社の寮がこ～～んなにいい場所だって知ってたら、外勤なんてとっくに断ってたかも。	회사 본부의 숙소가 이렇게나 좋을 줄 알았다면… 외근은 최대한 피했을 거예요.	If I'd known that the Yggdrasil headquarters base was this nice, I would've requested not to be sent out on field missions.						0	
+page0.7	留点力气，待会还要带你去其他地方。	留點體力，等下還要帶你去其他地方。	今からあんまりはしゃぎ過ぎるなよ。他にも連れて行きたい場所があるんだから。	체력을 좀 아껴 둬. 이따가 다른 곳에도 가봐야 하니까.	Save some of your energy. I'll show you around some other places later.						0	
+page0.8	安全部，资源部，医疗部，后勤处……公司可能比你想的还要大。	安全部、資源部、醫療部、後勤部……公司比你想的還要大。	安全部、資源部、医療部、後方支援部……うちは考えてるよりもずっと広いぞ。	안전부, 자원부, 의료부, 지원부… 회사는 네 생각보다 훨씬 클 거야.	There's the Security Department, the Resource Department, the Medical Department, the Logistics Department... Yggdrasil might be bigger than you think.						0	
+page0.9	这么多，那今天能逛完吗？	這麼多地方，今天能逛完嗎？	多っ！今日中に全部見れるかなぁ。	그렇게 많은 곳을 오늘 안에 다 둘러볼 수 있을까요?	That many? Can we see all of them in one day?						0	
+page0.10	今天逛不完我明天也会陪你的。	今天逛不完的話，明天我也會陪你的。	見れなかったところは明日にしよう。また付き合ってあげるから。	오늘 다 보지 못한다면 내일도 같이 와줄게.	If we don't see all of them today, I'll come with you tomorrow, too.						0	
+page0.11	真的？	真的？	本当？	정말요?	Really?						0	
+page0.12	真的。	真的。	本当だ。	정말이야.	Really.						0	
+page0.13	那我可要慢慢走了，要好好地了解了解公司，嘿嘿。	那我要慢慢走～要仔細地了解公司，嘿嘿～	じゃあ、ゆっくり見て回ろうかな！会社のことはちゃんと知っておかないとダメだもんね！えへへ。	그럼 천천히 둘러볼래요. 회사에 대해 자세히 알아둬야 하니까요, 헤헤.	Then I'm going to take my time to get to know the company better, hehe.						0	

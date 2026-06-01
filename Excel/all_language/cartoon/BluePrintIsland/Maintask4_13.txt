@@ -1,0 +1,24 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	勇敢帅气的分析员哟，我是一颗神秘的球——	勇敢帥氣的分析員唷，我是一顆神秘的球——	勇しくてカッコいい分析員よ、私はミステリーなボール――	용감하고 잘생긴 분석가님, 저는 미스터리 볼입니다…	Brave and dashing Adjutant, I am a mysterious orb—						0	dlc30蓝图岛对话
+page1.2	您想得到蓝图岛上独一无二的宝藏吗？	您想得到藍圖島上獨一無二的寶藏嗎？	ビジョン島唯一無二の宝物を手に入れたいのであれば……	설계의 섬에서 유일무이한 보물을 얻고 싶으신가요?	Are you ready to claim Builder Island's one and only treasure?						0	dlc30蓝图岛对话
+page1.3	那请回答我一个问题，您是否愿意与安卡希雅制作人在蓝图岛上共度余生？	那請回答我一個問題，您是否願意與安卡希雅製作人在藍圖島上共度餘生？	私の質問に答えてください。プロデューサー・アカシアとビジョン島で残りの人生を共に過ごしたいですか？	그렇다면 제 질문에 대답해 주시죠. 아카시아 프로듀서님과 함께 설계의 섬에서 여생을 보내겠습니까?	Then answer me this: Are you willing to spend the rest of your life with Producer Acacia here on Builder Island?						0	dlc30蓝图岛对话
+page1.4	这不会就是你在岛里塞的“特殊道具”吧？	這不會就是你在島裡塞的「特殊道具」吧？	これが、君が島に仕込んだ「特殊アイテム」？	네가 섬에 숨겨둔 '특수 아이템'이 설마 이거야?	Wait, is this the "special item" you added to this island?						0	dlc30蓝图岛对话
+page1.5	啊，居然又被分析员看穿了。	啊，居然又被分析員看穿了。	あ、またバレちゃった。	아, 분석가한테 또 들켜버렸네.	Ah, you caught me again.						0	dlc30蓝图岛对话
+page1.6	虽然我不知道它给的是什么，但我猜应该还是那种近乎犯规的道具。	雖然我不知道它給的是什麼，但我猜應該還是那種幾乎快犯規的道具。	何をくれるのかは知らないが、ああいう反則級のアイテムだろうな。	뭘 주는 건지는 모르겠지만, 아마 또 반칙에 가까운 아이템일 텐데.	I don't know what this thing is supposed to do, but I'm guessing it's another one of your borderline-cheats.						0	dlc30蓝图岛对话
+page1.7	鉴于你屡教不改，这个东西我就没收了。	鑑於你屢教不改，這個東西我就沒收了。	君は何度言っても懲りないな。これは没収するぞ。	네가 말을 안 듣는 걸 보니, 이건 압수해야겠어.	Given your track record, I'm confiscating it.						0	dlc30蓝图岛对话
+page1.8	至少——至少把那几条问题的代码留下！	至少——至少把那幾條問題的代碼留下！	せ、せめてバグったコードたちは私に残してよ！	적어도… 적어도 그 문제 코드들은 남겨줘!	Hey, at least let me keep the code for those questions!						0	dlc30蓝图岛对话
+page1.9	我考虑考虑——	我考慮考慮——	考えておく。	고민해 볼게.	I'll consider it—						0	dlc30蓝图岛对话
+page1.10	订单系统设置成功——使用权限归属人已指定，欢迎美丽的安卡希雅制作人使用零食订单系统~	訂單系統設定成功——使用權限歸屬人已指定，歡迎美麗的安卡希雅製作人使用零食訂單系統~	注文システム設定完了――使用権限者指定済み。美しきプロデューサーアカシア、スナック注文システムへようこそ～	주문 시스템 설정 완료! 사용 권한자가 지정되었습니다. 아름다운 프로듀서 아카시아 님, 간식 주문 시스템에 오신 것을 환영합니다~	Order system activated, user permissions set. Welcome, lovely Producer Acacia, to the snack order system~						0	dlc30蓝图岛对话
+page1.11	这是？	這是？	これは？	이게 뭐지?	What's this?						0	dlc30蓝图岛对话
+page1.12	我把它改成了订单机器人，只接受你下单的订单机器人。	我把它改成了訂單機器人，只接受你下單的訂單機器人。	君の注文しか受け付けない注文ロボットに改造したんだ。	내가 주문 로봇으로 개조했어. 너의 주문만 받는 로봇으로.	I turned it into an order bot that only accepts orders from you.						0	dlc30蓝图岛对话
+page1.13	嗯，事到如今，分析员终于也走上了这条路。	嗯，事到如今，分析員終於也走上了這條路。	へえ。分析員も改造に手を染めたんだ。	음, 결국 분석가도 이 길을 걷게 되었구나.	Huh, I thought you were above this, Adjutant.						0	dlc30蓝图岛对话
+page1.14	我可是在认认真真建设蓝图岛。因为这里将会建成一座零食工坊，而这颗球是关键的辅助。	我可是在認認真真建設藍圖島。因為這裡將會建成一座零食工坊，而這顆球是關鍵的輔助。	違う。私は真面目にビジョン島を開発しているんだぞ。ここにはおスナック工房が建つ予定で、このボールが重要な補助役を務めるから。	난 진지하게 설계의 섬을 건설하고 있어. 여기에 간식 공방이 세워질 거고, 이 공이 중요한 보조 장치가 될 거야.	Hey, I'm still here busting my back building Builder Island. This place is going to be the Snack Workshop, and the orb is a key assistant.						0	dlc30蓝图岛对话
+page1.15	叮——	叮——	ピコーン。	띵~	Ding—						0	dlc30蓝图岛对话
+page1.16	安卡希雅收到了消息推送，暂时退出了一会儿。	安卡希雅收到了訊息推送，暫時退出了一下。	アカシアは何かのメッセージを受信し、しばらくログアウトした。	아카시아는 메시지 알림을 받고 잠시 자리를 비웠다.	Acacia received a notification and logged off for a moment.						0	dlc30蓝图岛对话
+page1.17	收到了？	收到了？	受け取った？	받았어?	It's delivered already?						0	dlc30蓝图岛对话
+page1.18	嗯。嗯？是分析员给我定的零食吗？什么时候？	嗯。嗯？是分析員幫我訂的零食嗎？什麼時候？	うん……うん？これは、分析員が私に注文したスナック？いつ？	응. 응? 분석가가 나한테 시켜 준 간식이야? 언제?	Yeah. Wait, did you order me those snacks? When did you do that?						0	dlc30蓝图岛对话
+page1.19	就在刚刚。通过这个神秘球，可以直接订购零食，消费由我买单，订单权限仅归属安卡希雅。	就在剛剛。利用這個神秘球，可以直接訂購零食，消費由我買單，訂單權限僅歸屬安卡希雅。	ついさっきだよ。このボールを通して、直接注文できるんだ。私が料金を支払うが、注文権限はアカシアにしかない。	방금. 이 미스터리 볼을 통해 직접 간식을 주문할 수 있어. 돈은 내가 낼 거고, 주문 권한은 아카시아에게만 있어.	Just now. You can place snack orders with this orb, and I'll cover the cost. Only you have access.						0	dlc30蓝图岛对话
+page1.20	一时间不知道该怎么反应。	一時不知道該怎麼反應。	え。それは……その。	순간 어떻게 반응해야 할지 모르겠네.	I don't even know what to say.						0	dlc30蓝图岛对话
+page1.21	突然想把自己投喂给分析员。	突然想把自己餵給分析員。	急に自分をスナックにして分析員にあげたくなっちゃった。	갑자기 분석가한테 안기고 싶어졌어.	I feel like throwing myself at you all of a sudden.						0	dlc30蓝图岛对话
+page1.22	别发呆了，接下来让我们把<orange>零食工坊</>建设好吧。	別發呆了，接下來讓我們把<orange>零食工坊</>建設好吧。	ぼーっとしてないで、<orange>スナック工房</>を作るぞ。	멍하니 있지 말고, 이제 <orange>간식 공방</>을 만들어 보자.	Don't zone out just yet. Let's get the <orange>Snack Workshop</> built!						0	dlc30蓝图岛对话

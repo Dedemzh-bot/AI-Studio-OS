@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	亲爱的，你已经很清楚卡牌在对决中的重要性了吧。	親愛的，你已經很清楚卡牌在對決中的重要性了吧。	あなたも、対戦でカードがどれだけ大事か、もう分かってるでしょ。	자기야, 대결에서 카드가 얼마나 중요한지 이미 잘 알고 있지?	Darling, you understand how important cards are in a duel now, right?						0	3.5版本多诺巅峰对决剧情
+page1.2	想要拿到更多更厉害的卡，可不是一件轻松的事呢。	想要拿到更多更厲害的卡，可不是一件輕鬆的事呢。	もっと強いカードを集めようと思ったら、そんなに甘くはないんだよ。	더 강한 카드를 더 많이 얻는 건 간단한 일이 아니야.	Getting more and stronger cards is no easy task.						0	3.5版本多诺巅峰对决剧情
+page1.3	听起来，你经历过很多不为人知的苦啊？	聽起來，你經歷過很多不為人知的苦啊？	聞いていると、相当な「知られざる苦労」をしてきたみたいだな。	그동안 남들 모르게 고생이 많았던 것 같네?	Sounds like you've been through a lot in that department, huh?						0	3.5版本多诺巅峰对决剧情
+page1.4	哎，说起来都是痛和泪。	欸，說起來都是痛和淚。	はぁ～、語り出すと全部、痛みと涙の歴史なんだよな。	에휴, 그러고 보니 아픔과 눈물로 가득했었네.	Ugh, it's a long story of pain and tears.						0	3.5版本多诺巅峰对决剧情
+page1.5	很多旧版的卡牌对战游戏里，卡牌都是非常难收集的。	很多舊版的卡牌對戰遊戲裡，卡牌都是非常收集難的。	昔のカードバトル系ゲームってね、欲しいカードが全然集まらなかったの。	옛날 카드 대전 게임에서는 대부분 카드를 수집하기가 정말 어려웠어.	In a lot of old-school card games, cards were really hard to collect.						0	3.5版本多诺巅峰对决剧情
+page1.6	有的牌组甚至会被绑定在实体商品上，这导致我和我的钱包都曾遭受重创……	有的牌組甚至會被綁定在實體商品上，這導致我和我的錢包都曾遭受重創……	中には現物グッズのおまけでしか手に入らないデッキもあってさ、私も財布もボロボロになったんだよ……	어떤 건 오프라인 상품에 끼워파는 식으로 진행되어서, 나와 내 지갑 모두 큰 타격을 입었지…	Some were even only sold with other merchandise, which meant both me and my wallet had to suffer...						0	3.5版本多诺巅峰对决剧情
+page1.7	怎么了？	怎麼了？	で、何したんだ？	어땠는데?	How exactly did you suffer?						0	3.5版本多诺巅峰对决剧情
+page1.8	为了集满一套喜欢的卡牌，我吃了三个月的干脆面。	為了集滿一套喜歡的卡牌，我吃了三個月的脆麵。	好きなカードをコンプしたくて、三か月ずっとスナック麺だけ食べてたこともあるの。	좋아하는 카드 세트를 모으겠다고 석 달 동안 과자만 먹었어.	To complete one set, I ate the same crunchy noodle snack for three months straight.						0	3.5版本多诺巅峰对决剧情
+page1.9	有一套我很喜欢的特殊卡牌，绑定在了干脆面上！	有一套我很喜歡的特殊卡牌，綁定在了脆麵上！	大好きな限定カードセットが、よりによってそのスナック麺の「おまけ」で付いててさ！	내가 좋아하는 스페셜 카드 세트를 과자랑 같이 팔았거든!	Just because it came with a special card set I really wanted!						0	3.5版本多诺巅峰对决剧情
+page1.10	佩服你的毅力……	佩服你的毅力……	その執念には頭が下がるな。	정말 엄청난 의지네…	I respect your dedication...						0	3.5版本多诺巅峰对决剧情
+page1.11	不过放心，多诺卡没有这种规则的。	不過放心，多諾卡沒有這種規則的。	でも安心して。DOROカードには、そういう縛り仕様はないから。	하지만 걱정 마, 도노 카드에 그런 규칙은 없으니까.	But don't worry. Dono Card is nothing like that.						0	3.5版本多诺巅峰对决剧情
+page1.12	只要进入<orange>多诺卡探索</>的更深处，就有机会获得更多、更强的多诺卡了。	只要進入<orange>多諾卡探索</>的更深處，就有機會獲得更多、更強的多諾卡了。	<orange>DOROカード探索</>をもっと奥まで進めば、そのぶんだけ強いDOROカードがどんどん手に入るよ。	더 깊은 곳으로 <orange>탐사</>를 진행하면 더 강한 도노 카드를 더 많이 획득할 수 있거든.	As long as you go deeper into <orange>Explore</> mode, you'll have a chance to get stronger cards.						0	3.5版本多诺巅峰对决剧情
+page1.13	不过也会遇到更难缠的对手哦。	不過也會遇到更難纏的對手喔。	その代わり、手強い相手ともいっぱい当たるけどね。	하지만 더 까다로운 상대를 만나게 될 거야.	But you'll also run into tougher opponents.						0	3.5版本多诺巅峰对决剧情
+page1.14	看来只要奋力搏一搏，就能让普卡变神卡了。	看來只要奮力搏一搏，就能讓普卡變神卡了。	頑張って潜れば、ノーマルカードも一気に神カードになれるってわけだな。	열심히 도전하다 보면, R카드도 SSR카드로 만들 수 있나 보네.	So if I try hard enough, even a common card can become legendary.						0	3.5版本多诺巅峰对决剧情
+page1.15	没错。	沒錯。	その通りだよ。	맞아.	Exactly.						0	3.5版本多诺巅峰对决剧情

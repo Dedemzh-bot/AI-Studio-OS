@@ -1,0 +1,66 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	星期三，九点钟方向，避开敌人的远程主火力。	星期三，九點鐘方向，避開敵人的遠端主火力。	ウェンズデー、9時の方向、敵の主砲を避けろ。	웬스데이, 9시 방향에 저격수를 주의하도록.	Wednesday, nine o'clock, artillery.						0	
+2	别在这开化身系统，不要硬碰硬！	別在這開化身系統，不要硬碰硬！	ここでアバターシステムを起動するな。正面からぶつかるな！	여기서 아바타 시스템은 사용하지는 말고. 정면으로 충돌해선 안 돼!	No activating your Apo-Sys, don't escalate this one!						0	
+3	嘁！	呿！	ちっ！	쳇…	Tch!						0	
+4	playername，支援怎么还没到位？	playername，支援怎麼還沒到位？	playername、支援部隊はまだか？	playername, 지원은 어떻게 된 거지?	playername, what's keeping the relief unit?						0	
+5	枪林弹雨中，我左闪右避。	槍林彈雨中，我左閃右避。	砲煙弾雨の中、私は避けて避けて避けまくった。	총알이 난데없이 빗발쳐 나는 여기저기 성급히 피했다.	I was hurtling from left to right to left, bullets whipping past much closer than I would have liked.						0	
+6	如果这是一部老式动作片，此时应该响起狂野的鼓点，配合帅气的子弹时间。	如果這是一部老式動作片，此時應該響起狂野的鼓點，配合帥氣的子彈時間。	もしこれが昔のアクション映画だったら、格好良いスローモーションシーンに合わせるために、激しいドラムの音が鳴り響いているはず。	액션 영화였다면 총알이 빗발치는 타이밍에 맞춰 배경음악이 현란하게 나왔을 텐데…	A bit of intense, percussion-heavy music would have really accentuated the scene, giving it the proper action movie ambiance.						0	
+7	可惜眼下，我只能狼狈地寻到一片残垣作为掩体，才腾出空看一眼作战备忘。	可惜眼下，我只能狼狽地尋到一片殘垣作為掩體，才能抽空看一眼作戰備忘。	しかし今の私は、みっともなく慌てて廃墟の壁の後ろに隠れ、ようやく作戦備忘録を見る余裕ができた。	애석하게도 나는 허겁지겁 엄폐물을 위해 온통 허물어진 담장을 찾았고 가까스로 전투 기록을 펼쳐 봤다.	And me, all I could do was dash wildly into cover, cower behind the nearest piece of chest-high wall and try to review the tactical outline we were all supposed to be following.						0	
+8	偏偏是那家伙……	偏偏是那傢伙……	よりによってあいつが……	저 녀석…	Had to be "her," didn't it...						0	
+9	我能理解晴此时的不快。	我能理解晴此時的不快。	晴が苛立っている理由は理解できる。	난 하루의 불쾌함을 알 수 있었다.	Haru had a point.						0	
+10	毕竟对于那位来说，早到一分钟都是损失。	畢竟對於那位來說，早到一分鐘都是損失。	なにせその「あいつ」というのが、予定より1分でも早く到着することすら嫌がる者だからだ。	그녀에게는 1분이라도 일찍 오는 것이 곧 1분을 낭비한 셈이기 때문이다.	There was no chance relief would be early... that wasn't "her" style.						0	
+11	星期三，把你的“渡鸦”全都放出去，再拖一分钟！	星期三，把你的“渡鴉”全都放出去，再拖一分鐘！	ウェンズデー、お前の「レイヴン」を全部出せ、もう1分持ち堪えろ！	웬스데이, 레이븐을 써서 시간을 조금만 더 벌어줘!	Wednesday, ravens, now! You have to buy us another minute!						0	
+12	哈，十六时五十九分四十五秒。	哈，十六時五十九分四十五秒。	はあ、16時59分45秒。	후… 16시 59분 45초.	Four fifty nine pm and... fifteen seconds.						0	
+13	安全上垒！	安全上壘！	セーフ！	베이스 도착!	Reporting.						0	
+14	通信器另一端肴轻轻地调整呼吸，很快，她的呼吸变得绵长而平稳。	通信器另一端肴輕輕地調整呼吸，很快，她的呼吸變得綿長而平穩。	通信機の向こう側にいる肴は呼吸を整えている。すぐ、彼女の呼吸が落ち着いた。	단말기 반대편에서 야오는 숨을 천천히 가다듬었고, 금세 그녀의 숨은 안정적으로 돌아왔다.	I could hear the sound of a slightly-winded Yao bringing her breathing back under control. Really didn't take her very long.						0	
+15	我已经锁定目标，随时可以行动。	我已經鎖定目標，隨時可以行動。	目標をロックした。いつでも行動に移せる。	타겟 설정 완료. 수시로 타격 가능.	Target acquired.						0	
+16	队长，听你的了！	隊長，聽你的了！	隊長、指示を！	분부만 내려줘, 대장.	On your order, Captain!						0	
+17	动手！	動手！	やれ！	행동 개시!	Fire!						0	
+18	随着通讯器中传来的一声枪响，远处隐约可见重物倒地激起的一片烟尘。	隨著通訊器中傳來的一聲槍響嗎，遠處隱約可見重物倒地激起的一片煙塵。	通信機から銃声が鳴るとともに、かなり離れた場所で巨大なものが倒れ、砂ぼこりが舞い上がるのが微かに見えた。	단말기에서 총성이 울리는 소리와 함께 먼 곳에서 무거운 무언가가 쓰러졌고 곧이어 피어오르는 연기가 어렴풋이 보였다.	A single crack rang out over the comms system, a plume of dust erupted upwards in the far distance, like something very heavy had taken a very hard fall.						0	
+19	搞定！	搞定！	よし！	처리 완료!	That's a hit!						0	
+20	敌人的远程主火力被肴狙掉后，晴和星期三终于放开手脚，迅速控制了场面，肴也前来与我们会合。	敵人的遠端主火力被肴狙擊掉後，晴和星期三終於放開手腳，迅速控制了場面，肴也前來與我們會合。	敵の主力が肴に狙撃されてから、晴とウェンズデーはようやく全力を出せるようになった。速やかに戦場を制圧した後、肴も私たちと合流した。	타깃들의 저격수가 야오에 의해 제거된 후, 야오가 합류하기 전 하루와 웬스데이는 재빨리 상황을 통제했다.	No longer pinned down by artillery, Lyfe and Haru made short work of the rest of the enemy forces. Yao provided fire support.						0	
+21	但不知为什么，晴依然紧绷着身体，眉头紧锁。	但不知為什麼，晴依然緊繃著身體，眉頭緊鎖。	でも何故か、晴は依然として身体を引き締め、眉をひそめている。	그런데 어찌 된 일인지 하루는 미간을 잔뜩 찌푸리고 있었다.	Tension wrinkled Haru's face, eyebrows tightly knotted.						0	
+auto_20695											0	
+auto_11894	有什么不对吗？	有什麼不對嗎？	何かおかしいか？	무슨 일이죠?	Something wrong?						0	
+b-1											0	
+22	按原定计划，支援将在一分钟后到位！	按原定計劃，支援將在一分鐘後到位！	計画通りに行けば、支援部隊は1分後に到着する！	원래 계획대로면 1분 내로 지원이 와야 되는데!	If we're on schedule, relief should be one minute out.						0	
+23	敌人火力强悍，动员迅速，离这里不远一定还有另一个据点。	敵人火力強悍，動員迅速，離這裡不遠一定還有另一個據點。	敵の火力が強い上に、行動も速い。ここからそう遠くないところにきっともう1つの拠点がある。	타깃들의 화력이 워낙 세고 지원이 빨라서 여기서 멀지 않은 곳에 다른 거점이 있을 것으로 추측돼.	They're deploying fresh forces too fast, they've got too much firepower. They're getting reinforcements from somewhere nearby.						0	
+24	不深入进去把这颗钉子拔了，过段时间这里可能又会被对方控制。	不深入進去把這顆釘子拔了，過段時間這裡可能又會被對方控制。	今切り込んで邪魔者を排除しないと、後々ここが再び敵に制圧される可能性が高い。	타깃들의 핵심을 뿌리 뽑지 않으면 이곳도 금방 타깃들 수중에 들어갈 거고.	If we don't root them out now, they're going to overrun everything we've taken.						0	
+25	肴，你也一起来。	肴，你也一起來。	肴、お前も一緒に来い。	야오, 같이 가지.	Yao, with us, maintain covering fire.						0	
+26	诶？我的活儿不都已经干完了。	欸？我的工作不都已經結束了。	え？私の仕事はもう終わったけど。	네? 제 미션은 다 끝난 걸로 아는데요.	I already completed my assignment.						0	
+27	我可不加班的啊。	我可是不加班的啊。	残業しない主義だからね。	제가 야근은 안 해서요.	And I don't work for free.						0	
+28	…………	…………	…………	…	...						0	
+29	我一直搞不懂上面挑队员的标准，不过现在倒是能确定。	我一直搞不懂上面挑隊員的標準，不過現在倒是能確定。	上がどんな基準でメンバーを選んでいるのかずっと疑問だ。今のところ確実に言えるのは……	상부에서 대원 뽑는 기준이 어떻게 되는 거지. 하지만 하나는 분명해 보여.	I've never been able to work out what criteria the company uses when selecting potential operatives.						0	
+30	这里面一定不包含责任心和荣誉感。	這裡面一定不包含責任心和榮譽感。	その基準の中に、きっと責任感と名誉心は含まれていない。	그 기준에 책임감이나 명예감 따위는 없어 보이는군.	Having a sense of duty sure didn't seem to be a priority.						0	
+31	星期三，playername，我们走吧。	星期三，playername，我們走吧。	ウェンズデー、playername、行こう。	웬스데이, playername, 가자.	Wednesday, playername, move out.						0	
+32	那我下班了啊，祝你们一切顺利~	那我下班了啊，祝你們一切順利~	お先に失礼。ご武運を～	그럼 저는 퇴근해 볼게요. 다들 만수무강하시길~	And that's me, then. Stay safe out there.						0	
+33	！！！	！！！	！！！	!!!	!!!						0	
+34	不可能……泰坦怎么会出现在这里？！	不可能……泰坦怎麼會出現在這裡？！	バカな……どうしてこんなところにタイタンが！？	말도 안 돼… 타이탄이 어째서 여기에?!	No... Titans, here?						0	
+35	星期三，回来！	星期三，回來！	ウェンズデー、戻って来い！	웬스데이, 돌아와!	Lyfe, come back!						0	
+36	肴？！	肴？！	肴！？	야오?!	Yao?!						0	
+37	playername？！	playername？！	playername！？	playername?!	playername!?						0	
+38	头剧烈地疼痛，视线一时因无法适应昏暗的光线而模糊不清，脸也莫名火辣辣的……	頭劇烈地疼痛，視線一時因無法適應昏暗的光線而模糊不清，臉也莫名火辣辣的……	頭がズキズキする。まだ暗さに目が慣れておらず見えにくい。顔も何故か痛い……	머리가 깨질 것처럼 아팠다. 순간 시야가 어두컴컴해지며 흐려졌고, 얼굴도 왠지 모르게 타오를 것 같았다.	My head was in agony, my vision a blur. It was so dark I could barely see and my face felt like it was on fire...						0	
+39	你终于醒了！	你終於醒了！	やっと目が覚めた！	드디어 깨어났네!	Oh, you're finally awake!						0	
+40	看来这方法还挺有用。	看來這方法還挺有用。	この方法、効果抜群みたい。	이 방법 꽤 쓸만한데.	Well, I guess that works for waking people up then.						0	
+41	……我决定还是不追究她用什么方式把我叫醒。	……我決定還是不追究她用什麼方式把我叫醒。	……どうやって私を起こしたのかは聞かない方がいい気がする。	… 날 어떻게 깨운 건지 모르겠지만 묻지 않는 게 좋겠어.	... I decided I'd rather not know how she'd woken me up						0	
+e-2											0	
+42	……发生了什么？	……發生了什麼？	……何が起こった？	… 무슨 일이 발생했던 거지?	... what happened?						0	
+43	泰坦突然出现大闹了一场，然后，轰！	泰坦突然出現大鬧了一場，然後，轟！	タイタンが突然現れて大暴れした。そして、ドカン！	타이탄이 갑자기 나타나서 한바탕 난동을 피웠지… 쾅! 하고.	Titans showed up, made a scene, then... boom!						0	
+44	地面塌陷了，你和我，两个不幸的倒霉蛋就这么掉了下来。	地面塌陷了，你和我，兩個不幸的倒楣鬼就這麼掉了下來。	地面が崩れた。あんたと私はそのまま落ちた。	불행히도 너랑 나는 땅이 꺼지고 이렇게 재수 없게 떨어졌어.	The ground collapsed, and we got to be the unlucky ones who fell through and ended up wherever it is we are now.						0	
+45	别费事儿抬头看了。	別費力氣抬頭看了。	見上げても無駄だよ。	쓸데없이 고갤 들어 볼 필요는 없어.	Don't bother looking up.						0	
+46	我刚检查过，我们下落的那个破洞已经被落石封死了。	我剛檢查過，我們摔落的那個破洞已經被落石封死了。	さっき調べた。私たちが落ちて来た穴は既に落石で塞がれた。	방금 확인했는데 낙석으로 이미 출구가 막혔거든.	I checked, the hole we fell through is completely blocked up with rubble.						0	
+47	这里……是哪儿？	這裡……是哪裡？	ここは……どこ？	여긴… 어디지?	Where... where are we?						0	
+48	大概是地下某条废弃的通道？我不知道，情报上也没有记载。	大概是地下某條廢棄的通道？我不知道，情報上也沒有記載。	多分廃棄された地下通路じゃないかな、よく分からない。情報にも載っていない。	아마도 지하의 어떤 폐기된 통로 같아. 나도 정확힌 모르겠어. 데이터상 기록도 없고.	Abandoned tunnel maybe? Beats me... No intel on this place either.						0	
+49	自零区建成以来，还有很多我们未曾踏足的地方。	自零區建成以來，還有很多我們未曾踏足的地方。	エリアゼロが建って以来、誰も足を踏み入れたことのない場所はたくさんあるから。	제로 구역을 생기고 나서 아직까지 우리가 밟아보지 않은 땅이 수두룩하니까.	No one's surveyed most of the areas inside the Containment Zone since back when the wall first went up.						0	
+50	你看，雷达也没有反应。	你看，雷達也沒有反應。	ほら、レーダーにも反応なし。	봐봐. 레이더도 지금 잡히지 않잖아.	And... look, radar's out too.						0	
+51	试试你的通讯器？	試試你的通訊器？	あんたの通信機を使ってみて？	너 단말기도 한번 보지 그래?	Your comms working?						0	
+52	我试着联系卡罗琳，通信失败，我又试着联系其他人，最后发现只能接通就站在我身边的肴。	我試著聯繫卡羅琳，通信失敗，我又試著聯繫其他人，最後發現只能接通就站在我身邊的肴。	カロリンに連絡してみたがダメだった。他の人にも連絡してみたが、繋がるのは傍にいる肴だけ。	단말기로 캐롤린한테 연락했지만 무용지물이었다. 다른 사람에게도 연락해 봤지만 야오 외에는 연락되는 사람이 없었다.	I tried to reach Caroline. No joy. Tried some of the others. Same. Seemed like the only person I could actually reach was standing right there in front of me.						0	
+53	看来这里只能进行超短距离通讯。	看來這裡只能進行超短距離通訊。	よっぽど電波が悪いみたい。	보니까 짧은 단거리 통신밖에 안 되는 것 같네.	Looks like it's gonna be short-range comms only in here.						0	
+54	还有别的惊喜吗？	還有別的驚喜嗎？	今度は何？	음?… 다른 무언가 우리 주변에 있는 것 같은데?	Wonder what other fun little surprises we've got in store?						0	
+55	吼！	吼！	ガルルル！	크아악!	Rawwr!						0	
+56	蹲下！	蹲下！	伏せて！	엎드려!	Down!						0	
+57	哈，别这么看着我啊，又不是我把它召唤过来的！	哈，別這麼看著我啊，又不是我把它召喚過來的！	はあ、こっち見ないでよ。私が呼んだわけじゃないし！	하… 그런 눈빛으로 보지 좀 마. 내가 소환한 게 아니라고!	Don't give me that look, it's not like I summoned the guy!						0	
+58	啊啊~又要被迫加班了，我的快乐没有了。	啊啊~又要被迫加班了，我的快樂沒有了。	あーあ、また残業か。私の楽しい時間が……	그나저나 또 야근인가? 위그드라실, 내 워라벨 좀 보장해 줘라 제발…	Pffff... well, looks like it's gonna be unpaid overtime again. Marvelous, just marvelous.						0	
+59	来凑热闹的家伙肯定不止这一个。	來湊熱鬧的傢伙肯定不止這一個。	邪魔をしに来たのはきっとこいつだけじゃない。	구경하러 온 건 분명히 이 녀석뿐만이 아닐 거야.	And no doubt that one has a whole bunch of bored friends just itching to find something to do to pass the time.						0	
+60	枪声会引来更多，赶紧跑吧！	槍聲會引來更多，趕快跑吧！	銃声は目立つ、逃げよう！	총소리가 나면 더 많이 몰려올 테니까 일단 뛰자!	There's nothing like the sound of a gunshot for letting idiots know where there's trouble to be had. We need to get moving, fast!						0	

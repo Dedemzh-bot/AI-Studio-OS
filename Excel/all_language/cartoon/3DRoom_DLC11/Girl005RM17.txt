@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员。	分析員。	分析員さん。	분석가님.	Adjutant.						0	
+page1.2	突然找到我的茉莉安神情看上去有些困扰的样子。	突然找到我的茉莉安神情看起來有些困擾的樣子。	突然私の元を訪ねてきたマリアンは、どこか困ったような表情を浮かべていた。	갑자기 나를 찾은 마리안의 표정이 조금 곤란한 듯 보였다.	Marian suddenly approached me, her expression tinged with unease.						0	
+page1.3	怎么了吗？	怎麼了嗎？	どうかしたのか？	무슨 일 있어?	What's wrong?						0	
+page1.4	我……希望分析员能陪我去个地方。	我……希望分析員能陪我去個地方。	その……分析員さんに、一緒に来てもらいたい場所があるのですが。	저… 분석가님이랑 같이 가고 샆은 데가 있어요.	I... could you come with me to a place?						0	
+page1.5	她语气紧张不安，让我的心情跟着绷紧。	她語氣緊張不安，讓我的心情跟著繃緊。	彼女の緊張した口調を聞くと、私まで緊張してきた。	그녀의 목소리가 긴장되고 불안해서 내 마음도 같이 긴장되었다.	Her voice was nervous, which made me tense up as well.						0	
+page1.6	是有什么紧急情况吗？	是有什麼緊急狀況嗎？	なにか緊急事態なのか？	긴급 상황이라도 생긴 거야?	Is there an emergency?						0	
+page1.7	不，不是的。分析员你误会了……我是想请分析员陪我去下快餐店。	不，不是的。分析員你誤會了……我是想請分析員陪我去一下速食店。	い、いいえ、そんなことは……。ファーストフードのお店に行きたいので、分析員さんに付き合ってもらいたいんです。	아니, 그런 게 아니에요. 분석가님 오해하신 거예요… 저는 분석가님이랑 패스트푸드점에 같이 가고 싶어요.	Oh, no, it's nothing like that... I was just wondering if you could take me to a fast-food restaurant.						0	
+page1.8	快……餐店？	速……食店？	ファーストフードの……店？	패스트… 푸드점?	Fast food restaurant...?						0	
+page1.9	嗯……就像是克夫西那样的。	嗯……就像是克夫西那樣的。	はい……例えば、クンフッシーのようなお店です。	네… 할아버지 치킨 같은 곳이요.	Yes... It's something like XFC.						0	
+page1.10	我在餐厅看到后勤点了炸鸡薯条，她们看上去吃的很开心。	我在餐廳看到後勤點了炸雞薯條，她們看起來吃的很開心。	この前、後方支援の方たちが揚げ鳥とポテトフライを楽しんでいるのを見ました。	식당에서 지원 인원이 치킨과 감자튀김을 먹는 걸 봤는데, 아주 행복해 보였거든요.	I saw some Logistics officers eating fried chicken and fries in the cafeteria. They seemed so happy.						0	
+page1.11	从小到大，母亲……其他家人，从来不会让我接触那些食品。	從小到大，母親……其他身邊的人，從來不會讓我接觸那些食物。	昔から母上や…家族に止められていたので、ああいった食べ物を試したことが一度もないのです。	어렸을 때부터 어머니나… 다른 가족들이 절대 그런 음식을 접하지 못하게 했어요.	Growing up, my mother... and everyone around me, never let me have that kind of food.						0	
+page1.12	……大家都吃得很开心的食物，我其实一直想要尝试。	……大家都吃得很開心的食物，我其實一直很想要嘗試。	……みんなが楽しそうに食べている料理を、私もずっと前から試してみたくて。	… 다들 그렇게 맛있게 먹는 음식을 저도 사실 항상 해보고 싶었어요.	It seems to be a kind of food that makes people happy, so I've always wanted to try it.						0	
+page1.13	但是……	但是……	ですが……	하지만…	But...						0	
+page1.14	走吧。	走吧。	そうか、じゃ行こうか。	가자.	Let's go.						0	
+page1.15	咦？	咦？	え？	네?	Ah?						0	
+page1.16	现在就出发。正好快到午餐时间了吧，茉莉安可以先从儿童套餐开始体验。	現在就出發。剛好快到午餐時間了吧，茉莉安可以先從兒童套餐開始體驗。	そろそろお昼の時間だからな。店についたら、子供向けのメニューから試してみるといいよ。	지금 바로 출발하자, 마침 점심시간이야. 마리안은 키즈 패키지부터 해보자.	Let's go to a fast food place now. It's almost lunchtime anyway. You can start with something light, like a kids' meal.						0	
+page1.17	儿，儿童套餐？！……可是……我去买这个，会不会太失礼了？	兒，兒童套餐？！……可是……我去買這個，會不會太失禮了？	こ、子供向けメニューですか！？私がそういうものを頼むのは……失礼になりませんか？	키, 키즈 세트요?! … 하지만… 제가 그걸 사면 너무 실례가 되지 않을까요?	A kids' meal!? But... wouldn't that be a bit embarrassing for a grown-up?						0	
+page1.18	就当是买给小时候茉莉安的。	就當做是買給小時候的茉莉安的。	子供だった頃の自分に買ってあげるんだって考えればいいさ。	어렸을 때의 마리안에게 사준 거라고 생각해.	Think of it as a treat for young Marian.						0	
+page1.19	……嗯！	……嗯！	……はい！	… 네!	...Alright!						0	

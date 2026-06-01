@@ -1,0 +1,28 @@
+﻿ID	//备注	前置ID	节点名称	激活消耗{代币ID,数量}	buff效果（填写donoduel_buff表ID）	节点图标
+ID	Note	Prerequisite	Name	Consume	BuffID	Icon
+1	上阵队员的移动速度提升[10]%		donoduel.buff_skill_tree01_name	{63,5000}	3001	5205003
+2	上阵队员的造成的射击伤害提升[20]%	1	donoduel.buff_skill_tree02_name	{63,5100}	3002	5205005
+3	上阵队员的技能伤害提升[20]%	2	donoduel.buff_skill_tree03_name	{63,5200}	3003	5205006
+4	新增带有【附属幻影】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升	3	donoduel.buff_skill_tree04_name	{63,5300}	3004	5205007
+	抓多诺卡出战栏+1		donoduel.buff_skill_tree05_name		3005	5205008
+5	获取毛球币的数量提升[10]%	4	donoduel.buff_skill_tree06_name	{63,5400}	3006	5205001
+6	探索时，可存储在背包中的多诺卡数量增加15	5	donoduel.buff_skill_tree07_name	{63,5500}	3007	5205004
+7	新增带有【异界斗士】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升	6	donoduel.buff_skill_tree08_name	{63,5600}	3008	5205007
+8	上阵队员的移动速度提升[10]%	7	donoduel.buff_skill_tree09_name	{63,5700}	3009	5205003
+9	上阵队员的造成的射击伤害提升[20]%	8	donoduel.buff_skill_tree10_name	{63,5800}	3010	5205005
+10	上阵队员的技能伤害提升[20]%	9	donoduel.buff_skill_tree11_name	{63,5900}	3011	5205006
+11	新增带有【机甲构装】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升	10	donoduel.buff_skill_tree12_name	{63,6000}	3012	5205007
+12	获取毛球币的数量提升[10]%	11	donoduel.buff_skill_tree13_name	{63,6100}	3013	5205001
+13	探索时，可存储在背包中的多诺卡数量增加15	12	donoduel.buff_skill_tree14_name	{63,6200}	3014	5205004
+14	新增带有【觉醒协奏】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升	13	donoduel.buff_skill_tree15_name	{63,6300}	3015	5205007
+15	上阵队员的移动速度提升[10]%	14	donoduel.buff_skill_tree16_name	{63,6400}	3016	5205003
+16	上阵队员的造成的射击伤害提升[20]%	15	donoduel.buff_skill_tree17_name	{63,6500}	3017	5205005
+17	上阵队员的技能伤害提升[20]%	16	donoduel.buff_skill_tree18_name	{63,6600}	3018	5205006
+18	新增带有【奇点核心】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升	17	donoduel.buff_skill_tree19_name	{63,6700}	3019	5205007
+	抓多诺卡出战栏+1		donoduel.buff_skill_tree20_name		3020	5205008
+19	获取毛球币的数量提升[10]%	18	donoduel.buff_skill_tree21_name	{63,6800}	3021	5205001
+20	探索时，可存储在背包中的多诺卡数量增加15	19	donoduel.buff_skill_tree22_name	{63,6900}	3022	5205004
+	新增带有【巨神兵】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升		donoduel.buff_skill_tree23_name		3023	5205007
+21	上阵队员的移动速度提升[10]%	20	donoduel.buff_skill_tree24_name	{63,7000}	3024	5205003
+22	上阵队员的造成的射击伤害提升[20]%	21	donoduel.buff_skill_tree25_name	{63,7100}	3025	5205005
+23	上阵队员的技能伤害提升[20]%	22	donoduel.buff_skill_tree26_name	{63,7200}	3026	5205006

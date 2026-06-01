@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	怎么样，新的飞镖套装还喜欢吗？	怎麼樣，新的飛鏢套裝還喜歡嗎？	どうだ、新しいダーツセット、気に入ったか。	새로운 다트 세트는 마음에 들어?	So, how do you like your new set of darts?						0	
+page1.2	很喜欢，谢谢分析员。	很喜歡，謝謝分析員。	とても気に入った。ありがとう、分析員。	마음에 들어. 고마워, 분석가.	I love them. Thanks, Adjutant.						0	
+page1.3	那就好，据说是用专业的材料制作的，看到它的时候就觉得应该送给你。	那就好，據說是用專業的材料製作的，看到它的時候就覺得應該送給你。	それならよかった。特殊な材料で作られているらしいから、君にぴったりだと思ったんだ。	다행이네, 전문가용 재료로 만들었대, 그걸 보고 너한테 꼭 선물해야겠다고 생각했어.	I'm glad to hear that. Apparently, they're made of professional-grade materials. As soon as I saw them, I thought they would be perfect for you.						0	
+page1.4	嗯……确实手感不错。	嗯……確實手感不錯。	ああ……確かに手に馴染んでとてもいい。	응… 확실히 촉감이 좋아.	Yeah... They feel really nice in my hand.						0	
+page1.5	虽说完美的命中靠的是不断练习精进技艺，材质的好坏并没有决定性的作用。	雖說完美的命中靠的是不斷練習精進技藝，材質的好壞並沒有決定性的作用。	高い命中率を支えるのは材質ではなく、日々重ねてきた練習だが。	완벽한 명중의 실력까지 오는데 다트 자체의 재질이 결정적 작용을 하지는 않아.	You need to practice a bunch and refine your skills to get consistent bullseyes. The quality of the materials isn't the deciding factor.						0	
+page1.6	但更专业的装备，也能在一定程度上提高投掷的准确率。	但更專業的裝備，也能在一定程度上提高投擲的準確率。	それでも精巧に作られた装備の方が、実力を発揮できるのも事実だ。	하지만 더욱 전문적인 장비는 다트의 투척 정확도를 어느 정도 향상할 수 있지.	But more professional equipment can certainly improve your accuracy to an extent.						0	
+page1.7	我会继续多加练习的。	我會繼續多加練習的。	これからもちゃんと練習する。	자주 연습할게.	I'll keep practicing.						0	
+page1.8	……其实并没想那么多，只是觉得难得看到你有感兴趣的东西。	……其實沒想那麼多，只是覺得難得看到你有興趣的東西。	……そんなに複雑に考えなくてもいい。せっかくリフが興味を持つものがあったから、贈っただけだ。	… 사실 거기까지 생각한 건 아닌데 네가 관심 가는 게 있다니, 그저 놀라울 따름이야.	...I mean, I didn't get it for you to improve your accuracy. I just felt like it was rare to find something you're interested in.						0	
+page1.9	里芙只要在闲暇的时候玩得开心就足够了。	里芙只要在閒暇的時候玩得開心就足夠了。	暇な時にそれでリラックスしてくれたらそれでいい。	여가 시간에 즐겁게 플레이하면 될 것 같아.	I hope you can have some fun during your free time.						0	
+page1.10	唔，这样么……	唔，這樣嗎…	ふむ、そうか……	윽, 그런 거였어…	Oh, really...?						0	
+page1.11	分析员，要不要现在去我的房间玩一局飞镖对战？	分析員，要不要現在去我的房間玩一局飛鏢對戰？	では、分析員、今から私の部屋でダーツで勝負しないか？	분석가, 지금 내 방에 가서 다트 게임 하지 않을래?	Adjutant, want to go to my room and play darts now?						0	
+page1.12	好啊！	好啊！	よし、手は抜かないぞ！	좋지!	Sure!						0	

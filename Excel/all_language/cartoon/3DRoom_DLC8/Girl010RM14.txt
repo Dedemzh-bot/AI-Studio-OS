@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	真是稀奇，我居然看到你在动。	真是稀奇，我居然看到你在動。	肴が運動しているとは、珍しいな。	활동적인 네 모습을 다 보네, 희한하군.	It's so weird to see you up and moving around.						0	
+page1.2	唉，一直躺着也会腰酸背痛，真是可恶啊！	唉，一直躺著也會腰酸背痛，真是可惡啊！	はぁ、ずっと寝ていると体に悪いからね。もーう、本当は嫌なんだから！	휴, 계속 누워만 있었더니 허리가 시큰거리고 등이 아파나네, 짜증 나!	*sigh*... Lying down all the time makes your back sore. It's horrible!						0	
+page1.3	只能起来稍微活动一下四肢了……	只能起來稍微活動四肢了……	少しは手足を動かしたりしないと……	할 수 없이 일어나서 팔다리를 조금 움직일 수밖에…	Guess I'll have to get up and move around a little...						0	
+page1.31	啊啊啊腿麻了！	啊啊啊腿麻了！	うわぁぁ足が痺れる！	아아아! 다리 저려!	Ahhhh! My leg's asleep!						0	
+page1.4	早就提醒过你躺的姿势有问题……	早就提醒過你躺的姿勢有問題……	だから寝る姿勢がよくないって注意したじゃないか……	누운 자세에 문제가 있다고 진작에 말해줬을 텐데…	I told you there was something wrong with the way you were lying down...						0	
+page1.5	再说了，生命在于运动，至少每天稍微活动一下才能保持机体正常运转。	再說了，生命在於運動，至少每天稍微活動一下才能保持身體正常運作。	そもそも、適度な運動は健康に欠かせない。体の健康を保つには、毎日少しでも動いた方がいいよ。	운동이 얼마나 중요한데, 신체의 기본 기능 보존을 위해서라도 매일 조금씩은 움직여야 한다고.	Besides, movement is a part of life. Moving around for a little bit every day can keep your body running smoothly.						0	
+page1.6	呜……	嗚……	うぅ……	윽…	Ohhh...						0	
+page1.7	不错不错，再加把劲儿。	不錯不錯，再多出點力。	いいぞ。その調子だ。	좋아, 좀 더 힘내.	Good work. Keep it up.						0	
+page1.8	第一时间想到的是起来运动而不是喊人按摩，对你来说已经非常优秀了。	第一時間想到的是起來運動而不是喊人按摩，對你來說已經非常優秀了。	マッサージより先に運動に思い至るなんて、それだけで十分肴にしてはすごいことだ。	마사지를 원하는 대신 일어나서 운동하는 것만으로도 너로서는 충분히 훌륭해.	If your first reaction is to get up and move around instead of asking someone to give you a massage, that's already a big improvement.						0	
+page1.9	嗯？按摩？	嗯？按摩？	えっ、マッサージ？	응? 마사지?	Huh? Massage?						0	
+page1.10	哇！我怎么就没想到，分析员，难道你真的是个天才？	哇！我怎麼沒想到，分析員，難道你真的是天才？	ああ！それだ！全然思いつかなかった！分析員ってもしかして天才？	와! 왜 그 생각을 못 했지, 분석가, 넌 정말 천재야!	Whoa! I didn't even think of that! Adjutant, you're seriously a genius!						0	
+page1.11	哈？	哈？	はい？	뭐?	Huh?						0	
+page1.12	对啊对啊，找人来按摩的话，既可以舒展身体，又不需要我自己活动，一举两得！	對啊對啊，找人來按摩的話，既可以舒展身體，又不需要我自己活動，一舉兩得！	そうだよ、誰かにマッサージを頼めば体をほぐせるし、運動する必要もなくなる！一石二鳥じゃん！	맞잖아, 마사지 받으면 몸도 풀리고, 괜히 혼자 활동할 필요도 없고, 너무 좋은걸!	Yeah! If I can find someone to give me a massage, I can stretch without having to move my body. That'll kill two birds with one stone!						0	
+page1.13	……	……	……	…	...						0	
+page1.14	……	……	……	…	...						0	
+page1.15	？你看着我做什么？	？你看著我做什麼？	どうしてこっちをじーっと見つめているんだ？	왜 날 그렇게 봐?	Why are you looking at me like that?						0	
+page1.16	嘿嘿，分析员，我看你骨骼清奇，要不要进修一下按摩的手法啊？	嘿嘿，分析員，我看你骨骼清奇，要不要進修一下按摩的手法啊？	ふふ、分析員。その才能を見込んで、マッサージの練習をしてみない？	분석가, 되게 힘이 넘쳐 보이는데 혹시 마사지해줄 생각 없어, 헤헤?	Hehe, Adjutant, you look nice and strong. Wanna learn some massage techniques?						0	

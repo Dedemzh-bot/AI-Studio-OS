@@ -1,0 +1,92 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	昨晚我睡得还不错，醒来已经接近中午。\N吃过饭，坐在吧台边喝一杯咖啡，想着剩下的休息日该如何度过。	昨晚我睡得還不錯，起床已經接近中午。\N吃過飯，坐在吧台邊喝一杯咖啡，想著剩下的休息日該如何度過。	昨日はよく眠れて、目を覚ました頃には昼になっていた。\N食事を済ませた後、私はカウンターでコーヒーを飲みながら、残りの休日をどう過ごすかを考えていた。	어젯밤엔 그럭저럭 잘 잔 것 같다. 정오가 됐을 때 문제없이 잘 깨어날 정도로 말이다.\n밥을 먹고 바에 앉아 커피를 마시며 남은 휴일을 어떻게 보낼지 생각했다.	I slept through the night. By the time I woke up, it was almost noon. After lunch, I drank a cup of coffee at the bar and thought about how to spend the rest of my day off.						0	
+2	分析员长官，你看见妮塔了吗？	分析員長官，你看見妮塔了嗎？	分析員さん、ニタを見ませんでしたか？	분석가님, 혹시 니타 대원을 보셨나요?	Adjutant, Sir. Have you seen Nita?						0	
+3	我没见到她，有什么事吗？我可以联系她。	我沒見到她，有什麼事嗎？我可以聯絡她。	いや。どうかしたのか？連絡してあげようか。	본 적 없는데, 무슨 일 있어? 연락해 볼까?	I haven't seen her. What do you need? I can contact her for you.						0	
+4	不必麻烦，不必麻烦，只是有人将送给妮塔的包裹留在了前台，我来交给她。	不必麻煩，不必麻煩，只是有人將送給妮塔的包裹留在了前台，我來交給她。	いえいえ、大したことではありません。受付で彼女宛ての荷物を預かったので、届けに来ただけです。	귀찮게 그러실 필요 없습니다. 누군가 니타의 소포를 프론트 데스크에 둬서요… 제가 연락해 보겠습니다.	Oh, there's no need. Someone just left a package at the front desk for Nita. I came to give it to her.						0	
+5	我已经给她留了消息，等她什么时候回基地，我再来一趟好了。	我已經給她留了消息，等她什麼時候回基地，我再來一趟好了。	本人にもメッセージを送りましたので、社員寮に戻ってきたら、また来ます。	방금 그녀에게 메시지를 남겼습니다. 니타 대원이 숙소로 돌아오면 그때 다시 찾아오도록 하죠.	I already left her a message. I'll come back when she gets back to the Base.						0	
+6	交给我吧，我转交给她。	交給我吧，我轉交給她。	私が渡しておこう。預かるよ。	내가 전달할게, 이리 줘.	You can leave it with me. I'll give it to her later.						0	
+7	真是太谢谢分析员长官了，那就不打扰了。	真是太謝謝分析員長官了，那就不打擾了。	ありがとうございます！ではお先に失礼します。	아, 감사합니다, 분석가님! 그럼 부탁드리겠습니다!	Thank you so much, Adjutant. I'll get out of your hair.						0	
+8	说起来，妮塔很少宅在基地房间里，最近更是一到休息日就不见踪影。	說起來，妮塔很少宅在基地房間裡，最近更是一到休息日就不見蹤影。	ニタはほとんどの時間社員寮にはいない。特に最近は休日になるとすぐどこかへ消えてしまう。	그러고보니 니타는 숙소에 있는 일이 드물다. 특히 휴일만 되면 보이질 않는다.	With that, I realized that Nita hadn't been lazing around the Base lately. She was nowhere to be found on her days off.						0	
+9	她大概又在忙着赚外快，我只是有点好奇她究竟在做什么。而我要把手里的包裹交给她，有了个完美的去找她的理由。	她大概又在忙著賺外快，我只是有點好奇她究竟在做什麼。而我要把手裡的包裹交給她，有了個完美的去找她的理由。	またバイトのことで忙しいんだろう。でも一体何のバイトなのか、気にならないと言ったら嘘になる。ニタのバイト先を見に行きたかったのだが、これで荷物を届けに行くという完璧な口実ができた。	아마 투잡을 뛰느라 바쁘겠지만, 정확하게 뭘 하고 있는지 궁금하긴 했다. 마침 소포를 넘겨줘야 해서 그녀를 찾아갈 명분이 생겼다.	She was probably busy making some extra money, but I couldn't help being curious about what she was up to. I also wanted to give her the package, which gave me the perfect reason to visit her.						0	
+10	至于她现在人在何处我心中大致有数，便直接朝着她的位置找过去。	至於她現在人在何處我心中大致有數，便直接朝著她的位置找過去。	居場所は大体見当がつくので、私はそのまま向かった。	대충 그녀가 어디에 있는지 알 것도 같아 바로 그곳으로 향했다.	I had a good idea of where she might be, so I headed straight there.						0	
+11	靠近目的地时，前方远处拐角后突然传来争吵声。	靠近目的地時，前方遠處轉角後突然傳來爭吵聲。	そろそろ目的地に着く頃、少し離れた曲がり角の方から争う声が聞こえてきた。	목적지에 거의 도착할 때쯤 앞쪽 모퉁이에서 갑자기 말다툼하는 소리가 들렸다.	As I got closer to my destination, I suddenly heard an argument around the corner up ahead.						0	
+12	谁给你这东西的？	誰給你這東西的？	誰からもらったんだ？	누가 이런 걸 준 거지?	Who gave you that?						0	
+13	没……没人给，我捡到的。	沒……沒人給，我撿到的。	だ、誰でもない。拾ったんだ。	주… 준 게 아니라, 주운 거예요.	N—No one gave it to me. I found it.						0	
+14	说谎！	說謊！	嘘つけ！	거짓말!	Liar!						0	
+15	我再问你一次，谁给你这东西的？	我再問你一次，誰給你這東西的？	もう一度聞く。これは誰からもらったんだ？	다시 한번 묻도록 하지. 도대체 누가 준 거야?	I'm going to ask you again. Who gave you that?						0	
+16	我不告诉你！	我不告訴你！	教えない！	안 알려줄 거예요!	I'm not telling!						0	
+17	梅，把它交给我。	梅，把它交給我。	梅、それを渡せ。	메이, 당장 이리 내놔!	Mei, give it to me.						0	
+18	我不！我凭什么把它交给你？	我不！我憑什麼把它交給你？	いや！何でニタに渡さなきゃいけないの？	싫어요! 제가 왜 줘야 하죠?!	No! Why should I?						0	
+19	明明是你教我的防身技巧一点用都没有，但我一朝他们举起这东西，那些欺负我的坏家伙就都吓跑了！	明明是你教我的防身技巧一點用都沒有，但我一朝他們舉起這東西，那些欺負我的壞傢伙就都嚇跑了！	ニタの護身術は何の役にも立たない。でもこれを見せたら、私をいじめてた悪い奴らがみんなビビって逃げたんだ！	제게 가르쳐 준 호신술은 아무 소용이 없어요. 오히려 호신술을 보여주면 놀라서 도망갈 뿐이라고요!	The self-defense skills you taught me were totally useless! But as soon as I showed them this thing, those bullies got scared and ran away!						0	
+20	梅，我没和你玩笑，快把它给我！	梅，我沒跟你玩笑，快把它給我！	梅、冗談で言ってるんじゃない。早く渡せ！	메이, 장난하는 거 아니니까 당장 내놔!	Mei, I'm not joking. Give it to me!						0	
+21	妮塔最讨厌了！	妮塔最討厭了！	ニタなんか大嫌いだ！	정말 너무해요!	I hate you, Nita!						0	
+22	飞奔的女孩并没有看眼前的路，结结实实地与我撞在了一起。	飛奔的女孩並沒有看眼前的路，結實地與我撞在了一起。	飛び出してきた女の子は目の前の道を見ようともせず、私にぶつかった。	전력을 다해 달리던 소녀는 길을 제대로 살피지 않았는지 결국 나에게 부딪쳤다.	The girl wasn't looking as she ran ahead, causing her to bump into me.						0	
+23	哦呦！你撞疼我了。	喔呦！你撞疼我了。	おっと！痛いな。	아야! 이건 좀 아픈데?	Ow! You hurt me.						0	
+24	作为赔偿，这东西大哥哥没收了。	作為賠償，這東西大哥沒收了。	弁償として、これは没収するよ。	처벌로 이 물건은 내가 압수하도록 하지.	I'm going to take this as compensation.						0	
+25	借着这一撞，我趁机夺下这个叫梅的女孩手里的枪，女孩如受惊的小鹿般跑远了。	藉著這一撞，我趁機奪下這個叫梅的女孩手裡的槍，女孩如受驚的小鹿般跑遠了。	ぶつかった瞬間、私は梅と呼ばれる女の子の手から銃を奪った。女の子は怯えた小鹿のように走っていった。	나는 부딪히는 동시에 소녀가 가지고 있던 총을 빼앗았다. 그리고 소녀는 놀란 사슴처럼 멀리 달아났다.	Taking advantage of her running into me, I snatched the gun from the girl named Mei. She then ran away like a scared little deer.						0	
+26	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	
+27	我第一次在妮塔的脸上看到这种脆弱无力的表情，她用湿润的双眼看向我，用微微颤抖的唇轻声呼唤我。	我第一次在妮塔的臉上看到這種脆弱無力的表情，她用濕潤的雙眼看向我，用微微顫抖的唇輕聲呼喚我。	彼女のこんな弱った顔を見るのは初めてだった。目を潤ませたニタは私の方を見て、微かに震える唇で分析員と呼んだ。	나는 니타에 얼굴에서 처음으로 이런 연약하고 무기력한 표정을 봤다. 그녀는 촉촉해진 눈과 떨리는 입술로 나를 불렀다.	It was the first time I'd seen such a vulnerable expression on Nita's face. Her eyes were moist as she quietly called out to me, her lip trembling.						0	
+28	一瞬间我以为她哭了，但她没有。	一瞬間我以為她哭了，但她沒有。	一瞬泣いているのかと思ったが、そうではなかった。	순간 그녀가 울고 있는 줄 알았지만 그건 아니었다.	I thought she was going to cry for a moment, but she didn't.						0	
+29	回基地的一路我们陷入了沉默，我决心什么都不问，直到她想主动开口。\N那个包裹，自然也没能找到合适的时机交给她。	回基地的一路我們陷入了沉默，我決心什麼都不問，直到她想主動開口。\N那個包裹，自然也沒能找到適當的時機交給她。	私たち二人は黙ったまま社員寮に戻った。自分で言い出すまでは何も聞かないと心の中で決めた。\N言うまでもなく、あの荷物を渡すタイミングも逃した。	숙소로 돌아오는 길에 한동안 침묵이 흘렀고 그녀가 말을 꺼내기 전까지 나는 아무것도 묻지 않기로 결심했다.\n본래 소포를 건네주려 했지만 시기상 건네주기가 조금 부적절했다.	We walked all the way back to the Base in silence. I was determined not to ask until she decided to tell me herself. Of course, this wasn't the right time to give her the package either.						0	
+30	模拟数据，二型验证机甲·荒猎，模拟作战开始！	模擬數據，二型驗證機甲·荒獵，模擬作戰開始！	シミュレーションデータ、2型検証機甲・荒猟。シミュレーション作戦開始！	가상 데이터, Type.II 인증 기갑 레버넌트, 가상 작전 시작!	Simulation data, Ni-Type Mech - Falconer. Beginning simulated combat!						0	
+31	金属与金属相互对撞，火花四处飞溅。	金屬與金屬相互對撞，火花四處飛濺。	金属と金属が激しくぶつかり合い、火花が盛大に飛び散った。	금속이 부딪히며 불꽃이 사방으로 튀었다.	Sparks exploded everywhere as metal struck metal.						0	
+32	二倍强度，继续！	二倍強度，繼續！	強度二倍、続けろ！	강도를 2배로!	Double the difficulty. Keep it going!						0	
+33	妮塔腿部肌肉绷紧，瞬间跃到半空中，挥拳狠狠砸向目标。	妮塔腿部肌肉繃緊，瞬間躍到半空中，揮拳狠狠砸向目標。	ニタは足に力を込めて一瞬で宙に飛び上がり、ターゲットに向かって勢いよく拳を振り下ろす。	니타는 팽팽해진 다리 근육으로 순식간에 허공으로 뛰어올라 목표물을 향해 주먹을 날렸다.	Nita's leg muscles tensed as she leaped into the air and forcefully punched her target.						0	
+34	看我把你们统统砸烂！	看我把你們統統砸爛！	全部ぶっ壊してやる！	모두 박살 내 주겠어!	I'm gonna tear you all to pieces!						0	
+35	四倍强度！快设置啊，愣着做什么?!	四倍強度！快設定啊，愣著做什麼?!	強度四倍！何ボーっとしてるんだ！？早く設定しろ！	왜 그렇게 멍하니 있어?! 어서 강도를 4배로 설정해 줘!	Quadruple the difficulty! Hurry up! What're you waiting for!?						0	
+36	研究员被妮塔这么一吼，缩了缩脖子，为难地看向我。	研究員被妮塔這麼一吼，縮了縮脖子，為難地看向我。	ニタに怒鳴られた研究員は身を縮ませて、困ったように私を見やる。	연구원은 니타의 고함소리에 몸을 움츠리고 난처한 표정으로 나를 바라보았다.	The researcher shrunk back as Nita yelled at him. He then looked over at me awkwardly.						0	
+37	你去休息吧，这里交给我。	你去休息吧，這裡交給我。	休憩に入ってきてくれ。ここは任せろ。	이제 여기는 내게 맡기고 가서 쉬어.	Go take a break. I'll handle this.						0	
+38	研究员如释重负，离开训练室并贴心地带上了门，我将视线转回到妮塔身上。	研究員如釋重負，離開訓練室並貼心地帶上了門，我將視線轉回妮塔身上。	それを聞いてほっとした研究員は訓練室をあとにして、丁寧に扉を閉めた。私は再びニタに視線を戻した。	연구원은 안도의 한숨을 내쉬며 훈련실을 떠났고 난 니타에게 시선을 돌렸다.	The researcher left the training room full of relief, then carefully closed the door. I shifted my focus back to Nita.						0	
+39	发泄够了吗？	發洩夠了嗎？	もう満足か？	분풀이는 이 정도면 되지 않았어?	Did you get it out of your system?						0	
+40	……	……	……	…	...						0	
+41	发泄够了就跟我走，你需要吃点东西。	發洩夠了就跟我走，你需要吃點東西。	満足したらついてこい。今の君には食事が必要だ。	적당히 풀렸으면 날 따라와. 뭐라도 좀 먹어야지.	Come with me when you're done. You need to eat something.						0	
+42	还想吃什么尽管点，这顿我请客。	還想吃什麼儘管點，這頓我請客。	私の奢りだから、好きなだけ食べていいよ。	먹고 싶은 거 있으면 얼마든지 더 주문해, 내가 살테니까.	Order whatever else you want to. It's on me.						0	
+43	唔，已经吃饱了。	唔，已經吃飽了。	うん、もうお腹いっぱいだ。	이미 너무 배부른 걸…	Ah, I'm already full.						0	
+44	真的吗？真的不是因为你在这种餐厅里放不开手脚？	真的嗎？真的不是因為你在這種餐廳裡放不開手腳？	本当か？こんなレストランでたくさん食べたら恥ずかしいとかじゃなくて？	정말? 레스토랑에서 마음대로 먹는 게 좀 그래서 그런 거 아니고?	Really? Are you sure it isn't because you can't fully let yourself go in a restaurant like this?						0	
+45	我怎么会和自己的肚子过不去？我是真的吃不下了。	我怎麼會跟自己的肚子過不去？我真的吃不下了。	そんなわけないでしょ？本当にもう何も入らないって。	내가 이런 쪽으로 체면을 차리지 않는 건 분석가도 잘 알잖아? 정말 못 먹겠어서 그래.	You really think I don't know my own stomach? I seriously can't eat another bite.						0	
+46	那你现在心情应该好了一些吧。	那你現在心情應該好了一些吧。	ちょっとは気分よくなった？	그래도 지금은 기분이 좀 나아진 것 같은데?	Well, you must be in a better mood now, right?						0	
+47	妮塔有些不自在地挪了挪屁股，估计这会儿想起了她昨天刚安慰过我的那些话。	妮塔有些不自在地挪了挪屁股，估計現在想起了她昨天剛安慰過我的那些話。	昨日私を慰めた時に言ったことを思い出したのか、ニタは気まずそうにもじもじとした。	니타는 불편했는지 엉덩이를 조금 움직였다. 아마 어제 막 내게 위로했던 말이 생각난 것 같다.	Nita shifted around uncomfortably. She was probably recalling the words she had just comforted me with yesterday. 						0	
+48	对了，差点忘了把这个给你。	對了，差點忘了把這個給你。	そうだこれ。渡すのを忘れてた。	맞다, 이걸 너한테 주는 걸 깜빡할 뻔했어.	Oh, I almost forgot to give you this. 						0	
+49	……这是？	……這是？	……これは？	… 이게 뭐야?	...What's this?						0	
+50	有人给你的包裹，送到公司前台了，我代为转交。	有人給你的包裹，送到公司前台了，我代為轉交。	ニタ宛ての届けものだ。会社の受付に届いたが、私が渡すって預かっておいた。	네 앞으로 온 소포가 프론트 데스크로 배달됐더라고. 그래서 내가 대신 전달하러 왔지.	It's a package for you. It was delivered to the front desk, so I brought it along for you.						0	
+51	拆开看看吧。	拆開看看吧。	開けてみれば？	한번 열어봐.	Open it and take a look.						0	
+52	妮塔撕开重重包装纸，从里面的小盒子里拿出一个小巧的物什。	妮塔撕開重重包裝紙，從裡面的小盒子裡拿出一個小巧的物甚。	ニタは包装を取って、中身の小箱から小さな何かを取り出した。	니타는 겹겹이 쌓인 포장지를 뜯고 안의 상자에서 작은 물건들을 꺼냈다.	Nita ripped open the thick wrapping paper and took a small item out of the box within.						0	
+53	盒子底部还躺着一张小小的卡片。	盒子底部還躺著一張小小的卡片。	小箱には一枚の小さなカードも入っている。	상자 바닥에는 작은 카드 한 장이 놓여있었다.	A small card lay at the bottom of the box.						0	
+54	献给敬爱的妮塔。	獻給敬愛的妮塔。	「親愛なるニタへ」と書かれていた。	사랑하는 니타에게.	For the lovely Nita.						0	
+55	阿嚏！	阿嚏！	ハクション！	콜록, 콜록…	Achoo—!						0	
+56	你怎么了？	你怎麼了？	どうした？	왜 그래?	What's wrong?						0	
+57	这东西太可爱了，一点都不适合我。	這東西太可愛了，一點都不適合我。	これ可愛すぎて、私には全然似合わない。	이 물건은 너무 귀여운 것 같아. 나랑은 전혀 어울리지 않는 것 같아서.	This is way too cute. It doesn't match my vibe at all.						0	
+58	可她明明很喜欢，却装成一副对可爱过敏的模样。	但她明明很喜歡，卻裝成一副對可愛過敏的模樣。	可愛らしいものが好きなのに、ニタは嫌いなふりをしている。	그녀는 내심 좋아하면서 귀여운 것에 알러지가 있는 듯이 행동했다.	She obviously liked it, but she was still pretending to be allergic to its cuteness.						0	
+59	分析员，我也许犯了个严重的错误。	分析員，我也許犯了個嚴重的錯誤。	私、大きな勘違いをしてたかもしれない。	분석가, 아무래도 내가 좀 실수를 한 것 같아.	Adjutant, I think I made a really serious mistake.						0	
+60	你想和我说说吗？	你想跟我說說嗎？	話してくれるのか？	어떤 걸 말하는 거야?	Do you want to tell me about it?						0	
+61	妮塔顿了顿，像是在酝酿什么，半晌缓缓开口。	妮塔頓了頓，像是在醞釀什麼，半晌緩緩開口。	しばらく間を置いて、ニタは決心したように口を開いた。	니타는 순간 머뭇거리다가 천천히 입을 열었다.	Nita paused as if she was considering something, then slowly began to speak.						0	
+62	上个月，我开始利用休息日教孤儿院的孩子们一些防身技巧。就算用不上，也能强身健体。	上個月，我開始利用休息日教孤兒院的孩子們一些防身技巧。就算用不上，也能強身健體。	先月から、休日を使って孤児院の子供たちに護身術を教え始めたんだ。使う場面がなくても、体を鍛えられると思って。	지난달에 휴일을 이용해 고아원 아이들에게 호신술을 가르치기 시작했어. 평소에 사용할 일이 없더라도 몸을 건강하게 단련할 수 있기도 하니까.	Last month, I started going to the orphanage on my days off to teach the kids some self-defense skills. Even if they don't get the chance to use them, it's still good exercise.						0	
+63	他们之中，学得最认真、最努力的就是梅。	他們之中，學得最認真、最努力的就是梅。	その中でも梅が一番頑張って真面目に練習してた。	그들 중 가장 열심히 배운 사람은 메이였어.	Of all the kids, Mei is the most earnest and hardworking.						0	
+64	因为她最瘦小。	因為她最瘦小。	小柄だったからね。	아무래도 체구가 작아서 그런가?	Because she's the smallest one.						0	
+65	对，弱者容易被欺凌，理所当然地渴望得到力量。	對，弱者容易被霸凌，理所當然地渴望得到力量。	そう。いじめられがちな人ほど、力を欲しがる。	맞아, 약자는 괴롭힘을 당하기 쉬우니까. 당연히 힘을 얻기를 갈망했겠지.	Right. Weak individuals get bullied, so they naturally desire power.						0	
+66	可那玩意儿不一样，一旦拿起，就没有退路了。	但那玩意兒不一樣，一旦拿起，就沒有退路了。	でも、銃はそういうレベルの話じゃない。一回でも撃ってしまったら、もう取り返しがつかないんだ。	하지만 그날 갖고 있던 건 아니었어. 그런 쪽으로 한번 발을 들이면 한도 끝도 없지.	But that thing is different. Once you pick it up, there's no escape.						0	
+67	持枪的不是战士就是匪徒，你希望她能走上和我们不一样的道路。	持槍的不是戰士就是匪徒，你希望她能走上和我們不一樣的道路。	銃を使ったら戦士になるかならず者になるかしかない。梅には私たちと違う道を歩んでほしいんだろう。	총을 드는 건 전사가 아니면 도적들이나 할 짓이긴 하지. 니타는 소녀가 우리랑 다른 길로 가길 바랐을 거라고 생각해.	Once you get a gun, you're either a soldier or a gangster. You're hoping she'll go down a different path than us, right?						0	
+68	分析员，你知道我的出身。	分析員，你知道我的出身。	私の出身を知ってるよね、分析員。	분석가는 나의 출신을 잘 알고 있잖아.	You get it, Adjutant.						0	
+69	当初收留我的孤儿院从来就没有取得过正规资质，在它被烧之后，我们失去了庇护，也成了俱卢地区的“隐形人”。	當初收留我的孤兒院從來就沒有取得過正規資質，在它被燒之後，我們失去了庇護，也成了俱盧地區的「隱形人」。	私がいた孤児院は政府からの認可がなかった。焼かれた後、私たちは居場所を失って、グロ地域の「透明人間」となった。	처음에 날 받아줬던 고아원은 정식적인 자격으로 운영을 하던 고아원이 아니었어. 게다가 얼마 안 돼서 불에 타고 말았지. 우리는 어떠한 보호도 받지 못했고 쿠루 지역에서 '투명 인간'처럼 살아야만 했어.	The orphanage that took me in never had any formal qualifications. After it burned down, we lost our sanctuary and practically became "invisible" in Kuru.						0	
+70	那种混乱的地方，失去庇护没有力量的几岁小孩子要怎么活下来，我已经不想再仔细回忆了。	那種混亂的地方，失去庇護沒有力量的幾歲小孩子要怎麼活下來，我已經不想再仔細回憶了。	なんの力も持ってない子供がどうやってあんなところで生き延びたか。もう思い出したくない。	그런 혼란스러운 곳에서 어린아이가 한치의 보호도 없이 살아나가야 하는 걸 생각하면 벌써부터 눈앞에 캄캄해.	I don't even want to think about how young kids survived in such a chaotic place with no shelter, no power.						0	
+71	穿过边境线进入霍尔姆地区这一路，我起码学会了一件事。	穿過邊境線進入霍爾姆地區這一路，我起碼學會了一件事。	辺境線を越えてホルムに辿り着くまでの旅で、一つ覚えたことがある。	국경선을 넘어 홀름 지역으로 들어갈 때 한 가지를 배운 게 있었지.	After crossing the border into Holme, I learned one thing at the very least.						0	
+72	要想活下去，就得握紧两样东西——枪和钱。	要活下去，就得握緊兩樣東西──槍和錢。	生きていくためには、二つなくてはならないものがある——銃とお金だ。	살아가려면 두 가지… 바로 총과 돈을 움켜쥐어야 한다는 걸.	You need two things if you want to survive — a gun and money.						0	
+73	唯有这两样东西不会辜负你，别的都是狗屁。	唯有這兩樣東西不會辜負你，別的都是狗屁。	その二つだけは自分を裏切らない。他は何も信用できない。	당시엔 오직 이 두 가지만 필요했어. 다른 건 아무것도 쓸모없었지.	They're the only two things that'll never let you down. Everything else is just empty fluff.						0	
+74	梅和你不一样，她以及其他孩子们可以有更多的选择。	梅和你不一樣，她以及其他孩子可以有更多的選擇。	梅は君とは違う。彼女や他の子供たちには他の選択肢もある。	메이는 너랑 달라. 적어도 메이랑 다른 아이들은 더 많은 선택을 할 수 있어.	You and Mei are different. She and the other kids have more options.						0	
+75	枪我来拿就够了，别的我可以提供给他们，我原本这么想，	槍我來拿就夠了，別的我可以提供給他們，我原本這麼想，	銃は私が使って、他に必要なものは私が提供すればいいと思ってた。	맞아, 총 같은 건 나만 가지고 충분해. 그들은 총 대신에 다른 걸 선택할 수도 있는 거니까.	If I'm the one with the gun, I can give them everything else. That's what I thought.						0	
+76	可这个年头，想摸到一把枪实在太容易了。	但這個年頭，想摸到一把槍實在太容易了。	でもこのご時世、銃の一つや二つ手に入れるのはあまりにも簡単だ。	하지만 요즘엔 총을 접하기가 너무 쉬워진 것 같아.	But these days, it's way too easy to get your hands on a gun.						0	
+77	我却期望在这样的世界里，像梅一样的孩子们能一辈子双手干干净净。	我卻期望在這樣的世界裡，像梅一樣的孩子們能一輩子雙手乾淨。	こんな世界なのに、梅のような子供たちには一生こんなことに関わらないでほしいなんて浅はかなことを考えて。	사실 메이 같은 아이들이 평생 이런 방면으로 더럽혀지는 걸 바라지 않았어.	But I still hope kids like Mei can keep their hands clean for their whole lives, even in a world like this.						0	
+78	这狗屁想法我都会嘲笑自己。你……想笑就笑吧。	這狗屁想法我都會嘲笑自己。你……想笑就笑吧。	自分でも噴き出しそうだ。笑いたければ……笑えばいい。	내가 생각해도 이렇게 생각하는 내가 웃기긴 해… 분석가도 웃고 싶으면 실컷 웃어도 돼.	I can't help laughing at myself for having such a stupid wish. You... can laugh at me too if you want.						0	
+79	笑你岂不是笑我自己？	笑你豈不是笑我自己？	それは私自身を笑うのと同じじゃないか？	널 비웃는 건 결국 내 자신을 비웃는 거랑 똑같은 거잖아?	If I laugh at you, wouldn't it be the same as laughing at myself?						0	
+80	怪不得妮塔这么受人欢迎。	怪不得妮塔這麼受人歡迎。	道理でみんなニタが好きなわけだ。	어쩐지 니타가 인기가 많더라니.	No wonder you're so popular.						0	
+81	啊？	啊？	えっ？	뭐?	Ah?						0	
+82	喏，你收到了这个，来自孩子们的祝福。	喏，你收到了這個，來自孩子們的祝福。	これ、子供たちからの祝福じゃないのか。	소포로 받은 걸 봐봐. 넌 이미 아이들에게 축복을 받은 거라고.	Well, you already have this thoughtful present from the kids.						0	
+83	不如现在来试试它的作用。	不如現在來試試它的作用。	何なら今すぐ試してみよう。	한번 축복을 시험해 볼까?	Why not give it a try?						0	
+84	啊？	啊？	えっ？	응?	Ah?						0	
+85	招财猫不是能招来财运吗？	招財貓不是能招財運嗎？	招き猫はお金を招いてくれるんだろ？	마네키네코는 재물 운을 불러온다던데?	Don't lucky cats attract money?						0	
+86	来，选一串数字。	來，選一串數字。	ほら、数字を選んで。	자, 한번 숫자를 골라봐.	Here. Pick some numbers.						0	
+87	这是……彩票？	這是……彩券？	これは……宝くじ？	이건… 복권인가?	Is this... a raffle ticket?						0	
+88	好了，剩下的，就等到下周开奖日再揭晓。	好了，剩下的，就等到下週開獎日再揭曉。	よし。あとは来週の発表日を待とう。	좋았어. 이제 다음 주 추첨일까지 기다리면 돼.	Alright, now we just need to wait until next week when the winning numbers are announced.						0	
+89	对面少女睁大着双眼，难得一副懵懵的模样，有点儿可怜又有点可爱。	對面少女睜大著雙眼，難得一副懵懵的模樣，有點可憐又有點可愛。	向かいに座っている少女は珍しく困惑したように目を見開いて、可憐で愛おしく見える。	니타는 두 눈을 크게 뜨고 모처럼 멍한 모습을 하고 있었다. 뭔가 가여우면서도 귀여워 보인다.	Nita's eyes were open wide, a rare confused expression on her face. She looked pitiful yet cute at the same time.						0	
+90	她对于别人的善待如此生涩，让人忍不住想要对她再好一点。	她對於別人的善待如此生澀，讓人忍不住想要對她再好一點。	他人の善意に対してこんなにも不器用な少女に対し、私はもっと優しくしてあげたいと思わずにはいられない。	그녀는 다른 사람들의 배려에 대해 너무 서툴러서 더 잘해주고 싶은 마음이 들게 한다.	Her unfamiliarity with accepting others' kindness made people want to be even nicer to her.						0	

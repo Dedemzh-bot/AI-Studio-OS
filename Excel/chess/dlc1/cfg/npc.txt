@@ -1,0 +1,4 @@
+NpcId	备注	名字	描述	图标	特效id(填特效表中的id)	模型路径
+Id	Null	Name	Desc	Icon	ParticleId	ModelPath
+1	拾荒者	season_item.chess25	season_item.chess25.desc	chess.25	12	/Game/Characters/Npc/npc001/BP_npc001.BP_npc001_C
+2	市民	season_item.chess26	season_item.chess26.desc	chess.26	12	/Game/Characters/Npc/npc405/BP_npc405.BP_npc405_C

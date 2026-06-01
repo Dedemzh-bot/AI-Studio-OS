@@ -1,0 +1,27 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	和里芙来到虚拟社区的街机体验馆。	和里芙來到虛擬社區的街機體驗館。	リフとアーケードゲーム体験館に来た。	리브 가상 커뮤니티의 아케이드 체험관에 왔다.	You arrived at the arcade game center in the virtual community with Lyfe.						0	
+page0.2	知道你是瓦尔基里游戏的冠军，但这种复古街机格斗游戏你可就不一定能拿第一了。	知道你是瓦爾基里遊戲的冠軍，但這種復古街機格鬥遊戲你就不一定能拿第一名了。	君はヴァルキリーゲームのチャンピオンだけど、こういうレトロな格闘ゲームも得意だったりするのか？	네가 발키리 게임 챔피언인 건 알지만 이런 레트로 아케이드 격투기 게임은 네가 꼭 1등을 할 수 없을 거야.	I know you're the Valkyrie Games champion, but these old-school arcade fighters might throw you for a loop.						0	
+page0.3	怎么样，要不要来一局？	怎麼樣，要不要來一局？	どうだ、私と対戦してみるか？	어때, 한 판 할래?	Fancy a game with me?						0	
+page0.4	里芙在我旁边坐下，紧紧握住游戏手柄。我们的肩膀自然而然紧贴在一起。	里芙在我旁邊坐下，緊緊握住手把。我們的肩膀自然而然緊貼在一起。	リフは私の横に座り、レバーに手を置いた。私たちの肩は自然とぴったりくっ付くことになった。	리브는 내 옆에 앉아서 게임 핸들을 꽉 잡았다. 우리의 어깨는 자연스레 서로 밀착된다.	Lyfe sat down next to you and grabbed the controller, her shoulder brushing against yours.						0	
+page0.5	来一局。	來一局。	やろう。	한 판 제대로 하자.	Bring it on.						0	
+choice01	选择对战模式	選擇對戰模式	対戦モードを選ぶ	대전 모드 선택.	Play in Versus Mode						0	
+page1.1	一直以来都是并肩作战，我还从来没和分析员交过手呢。	一直以來都是並肩作戰，我還從來沒跟分析員交過手呢。	今まではずっと仲間だったから、こうして分析員と戦うのは初めてだな。	줄곧 함께 싸웠고, 나는 아직 분석가와 겨뤄 본 적이 없네.	We've always fought side by side. I've never actually faced off against you.						0	
+page1.2	来！我们比上一局，你可不准放水哦。	來！我們比上一局，你可不准放水哦。	そうだな。手を抜いてくれるなよ。	자! 우리 지난 판에 물 넣으면 안 돼.	Let's do this. Don't go easy on me, alright?						0	
+page1.3	既然是分析员的要求，我当然会全力以赴。	既然是分析員的要求，我當然會全力以赴。	分析員がそう言うなら、私も全力を出そう。	분석가의 요구이니 당연히 최선을 다할게.	If that's what you want, then I'll give it my best shot.						0	
+page1.4	开始吧。	開始吧。	始めるぞ。	시작하자.	Game on.						0	
+page1.5	我与里芙有着长期的共同作战经历，我们都十分了解彼此的战术。	我與里芙有著長期的共同作戰經歷，我們都十分了解彼此的戰術。	リフとはずっと一緒に苦境を乗り越えてきた仲だ。私達は相手の戦術について互いに熟知していた。	나는 리브와 오랜 작전 경험을 갖고 있었고, 서로의 전술을 잘 알고 있었다.	Having fought side by side for so long, you intuitively knew each other's moves...						0	
+page1.6	于是……我们出招和闪避的时机都完全一样。	於是……我們出招和閃避的時機都完全一樣。	そのせいだろうか……私達は技を繰り出すタイミングも回避を行うタイミングも、ことごとくシンクロしてしまっていた。	그래서… 우리가 방법을 쓸 때와 피할 때가 똑같다.	So much so that your attacks and dodges were perfectly in sync.						0	
+page1.7	十局之后，依旧没能分出胜负。	十局之後，依舊沒能分出勝負。	10戦やっても、一向に勝負がつかなかった。	10 라운드가 지나도 승부가 나지 않았다.	After 10 rounds, it was still a tie.						0	
+page1.8	果然，赢不过分析员呢。	果然，贏不過分析員呢。	やっぱり分析員には勝てないな。	역시 분석가를 이길 수 없네.	Seems I can't outplay you, Adjutant.						0	
+page1.9	我也赢不过里芙啊。	我也贏不過里芙啊。	私だって同じだ。	나도 리브를 못 이겨.	And I can't seem to get the better of you either, Lyfe.						0	
+choice02	选择合作模式	選擇合作模式	協力モードを選ぶ	협력 모드 선택.	Play in Co-Op Mode						0	
+page2.1	又可以和分析员并肩作战了，虽然只是动动手指。	又可以和分析員並肩作戰了，雖然只是動手指。	また分析員と協力できるな。指を動かすだけだが。	비록 손가락만 움직였지만, 분석가와 함께 싸울 수 있게 되었어.	Back to fighting side by side, though it's just a dance of fingers this time.						0	
+page2.2	这个也是需要技巧的，里芙可要跟上了。	這個也是需要技巧的，里芙可要跟上了。	指を動かすにもテクニックが必要だ。しっかり着いて来てくれよ。	이것도 테크닉이 필요한데 리브가 따라가야 해.	This requires skill too, so try to keep up, Lyfe.						0	
+page2.3	我什么时候让你失望过？	我什麼時候讓你失望過？	失望だけはさせない。	내가 언제 당신을 실망시킨 적이 있어?	When have I ever let you down?						0	
+page2.4	说得好，开始吧。	說得好，開始吧。	よし、じゃあ始めよう。	말 잘했네, 시작하자.	That's the spirit. Let's do this.						0	
+page2.5	很少玩游戏机的里芙流畅地操作着游戏人物。	很少玩遊戲機的里芙流暢地操作著遊戲人物。	ゲーム機をほとんど触ったことがないはずなのに、リフはかなり上手にゲームキャラクターを操作していた。	게임기를 거의 하지 않는 리브는 게임 캐릭터를 유창하게 조작한다.	Though Lyfe rarely played video games, she handled her character with ease.						0	
+page2.6	和在真实战场中一样，我们配合无间，很快就通关了。	和在真實戰場中一樣，我們配合無間，很快就通關了。	まるで本当の戦場にいるみたいに、私達は協力しながらすんなりとゲームをクリアした。	실제 전쟁터에서처럼, 우리는 협력하고, 곧 통관할 것이다.	Like on a real battlefield, your teamwork was seamless and you quickly beat the game.						0	
+page2.7	意犹未尽的我们又开始了竞速模式。	意猶未盡的我們又開始了競速模式。	そのせいか、私達はタイムアタックモードにまで手を出してしまった。	아쉬움이 남았던 우리는 다시 스피드 레이싱 모드를 시작했다.	Still feeling competitive, you switched to racing mode.						0	
+page2.8	我们已经是竞速榜单第一了……	我們已經是競速榜第一名了……	私達、ランキング1位になったみたいだ。	우리 벌써 스피드 차트 1위야…	Looks like we've topped the speed leaderboard...						0	
+page2.9	果然，没人赢得过我们两个。	果然，沒人贏過我們兩個。	どうやら、私達に勝てるプレイヤーはもういないみたいだな。	역시 아무도 우리 둘을 이긴 적이 없어.	Nobody can beat us — just as I thought.						0	

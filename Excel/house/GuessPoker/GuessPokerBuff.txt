@@ -1,0 +1,94 @@
+﻿机制ID	//注释（高优先通用质疑＞角色彩蛋质疑＞角色特性出牌＞通用出牌＞角色彩蛋出牌）	判定条件	修正行为
+BuffID	Comment	Condition	Result
+1001	（高优先）通用质疑-有“出2张随机明牌”效果且明牌为真时，一定不质疑	{{"BlindBuff",107,"OpenCardTrue"}}	{"ChangeWeight",0.0,2}
+1002	（高优先）通用质疑-有“出2张随机明牌”效果且明牌为假时，一定质疑	{{"BlindBuff",107,"OpenCardFalse"}}	{"ChangeWeight",0.0,1}
+1003	（高优先）通用质疑-有“开3张指定牌全员受罚”效果，上家出3张，小概率质疑	{{"BlindBuff",103},{"PlayerPoker",1,3,0,2,3}}	{"ChangeWeight",0.1,2}
+1004	（高优先）通用质疑-有“开1张牌全员受罚”效果，上家出1张，小概率质疑	{{"BlindBuff",102},{"PlayerPoker",1,3,0,2,1}}	{"ChangeWeight",0.1,2}
+1005	（高优先）通用质疑-有“必须出2张时”效果时，自己当前手牌1真1假，高概率质疑	{{"BlindBuff",106},{"PlayerPoker",2,2,1,2,1},{"PlayerPoker",2,2,2,2,1}}	{"ChangeWeight",5.65,2}
+1006	（高优先）通用质疑-有“必须出2张时”效果时，上家出2张，对半劈质疑	{{"BlindBuff",106},{"PlayerPoker",1,3,0,2,2}}	{"ChangeWeight",1.0,2}
+1007	通用质疑-手里无真，自己手牌≤3，极高概率质疑	{{"PlayerPoker",2,2,1,2,0},{"PlayerPoker",2,2,0,4,3}}	{"ChangeWeight",0.1,1}
+1008	通用质疑-存活2人，上家手牌数≤3，对半劈质疑	{{"Survivors",2,2},{"PlayerPoker",1,2,0,4,3}}	{"ChangeWeight",1.0,2}
+1009	通用质疑-总出牌数＞8，极高概率质疑	{{"Pokers",3,8}}	{"ChangeWeight",0.05,1}
+1010	通用质疑-存活≥3人，上家没有手牌，极小概率质疑	{{"PlayerPoker",1,2,0,2,0}}	{"ChangeWeight",0.01,2}
+1011	通用质疑-自己没行动过，上家上次被质疑没受罚，中高概率质疑	{{"PlayerDeal",2,1,2,0},{"PlayerChallenge",1,4}}	{"ChangeWeight",4.0,2}
+1012	通用质疑-自己没行动过，上家上次被质疑受罚，小概率质疑	{{"PlayerDeal",2,1,2,0},{"PlayerChallenge",1,5}}	{"ChangeWeight",0.34,2}
+1013	通用质疑-自己没行动过，自己上次提出质疑受罚，中高概率质疑	{{"PlayerDeal",2,1,2,0},{"PlayerChallenge",2,1}}	{"ChangeWeight",4.0,2}
+1014	通用质疑-自己没行动过，自己上次提出质疑没受罚，小概率质疑	{{"PlayerDeal",2,1,2,0},{"PlayerChallenge",2,2}}	{"ChangeWeight",0.1,2}
+1015	通用质疑-上家出牌数＞理论真牌数，高概率质疑	{{"PlayerPokerSp",1,3,0,3,3}}	{"ChangeWeight",9.0,2}
+1016	通用质疑-上家没有手牌，自己手上有假，高概率质疑	{{"PlayerPoker",1,2,0,2,0},{"PlayerPoker",2,2,2,3,0}}	{"ChangeWeight",9.0,2}
+1017	通用质疑-上家出3张，自己总真牌≥3，中概率质疑	{{"PlayerPoker",1,3,0,2,3},{"PlayerPoker",2,1,1,5,3}}	{"ChangeWeight",2.0,2}
+			
+2001	（高优先）通用出牌-有“出2张随机明牌”效果时，尽量出真（优先指定牌）	{{"BlindBuff",107}}	{"ChangeDeal",1,0}
+2002	（高优先）通用出牌-有“出2张随机明牌”效果时，出假一定只有1张	{{"BlindBuff",107}}	{"ChangeDeal",3,1}
+2003	（高优先）通用出牌-有“开1张牌全员受罚”，上家没有手牌，自己无真，出1假	{{"BlindBuff",102},{"PlayerPoker",1,2,0,2,0},{"PlayerPoker",2,2,1,2,0}}	{"ChangeDeal",3,1}
+2004	（高优先）通用出牌-有“必须出2张时”效果时，出2假	{{"BlindBuff",106}}	{"ChangeDeal",3,0}
+2005	（高优先）通用出牌-有“必须出2张时”效果时，出2真（优先指定）	{{"BlindBuff",106}}	{"ChangeDeal",1,0}
+2006	（高优先）通用出牌-自己首次行动，自己上次被质疑受罚，出真（优先万能牌）	{{"PlayerDeal",2,1,2,0},{"PlayerChallenge",2,5}}	{"ChangeDeal",2,0}
+2007	通用出牌-存活2人，上家手牌数≤3，出1张（真假不限）	{{"Survivors",2,2},{"PlayerPoker",1,2,0,4,3}}	{"ChangeDeal",0,1}
+2008	通用出牌-上家没有手牌，自己手牌全真，allin	{{"PlayerPoker",1,2,0,2,0},{"PlayerPokerSp",2,2,1,2,2}}	{"ChangeDeal",0,-1}
+2009	（起手保底）通用出牌-自己没行动过，出1张（真假不限）	{{"PlayerDeal",2,1,2,0}}	{"ChangeDeal",0,1}
+			
+			
+15101	凯茜娅出牌-总出牌数≤3时，出1张真假不限	{{"Pokers",4,3}}	{"ChangeDeal",0,1}
+15102	凯茜娅出牌-自己上次出牌，真假轮替	{{"PlayerDeal",2,1,5,1}}	{"ChangeDealSp",2}
+15103	凯茜娅出牌-自己总假牌＞0，优先出真（优先万能牌）	{{"PlayerPoker",2,1,2,3,0}}	{"ChangeDeal",2,0}
+15104	（彩蛋）凯茜娅出牌-总出牌数≥16，自己上次出牌，allin（不耐烦了赶紧出完(可能出现真假混出）	{{"Pokers",5,9},{"PlayerDeal",2,1,5,1}}	{"ChangeDeal",0,-1}
+			
+15202	凯茜娅质疑-自己没行动过，上家上次被质疑受罚，中高概率质疑	{{"PlayerDeal",2,1,2,0},{"PlayerChallenge",1,4}}	{"ChangeWeight",4.0,2}
+15205	凯茜娅质疑-自己没行动过，总出牌数≥5，小中概率质疑	{{"PlayerDeal",1,2,3,5},{"Pokers",5,5}}	{"ChangeWeight",0.18,2}
+15203	凯茜娅质疑-上家出2张，自己总假牌≥3，中高概率质疑	{{"PlayerPoker",1,3,0,2,2},{"PlayerPoker",2,1,2,5,3}}	{"ChangeWeight",5.65,2}
+15204	凯茜娅质疑-上家出牌≥2，且出牌张数与上次不同，中概率质疑	{{"PlayerPoker",1,3,0,5,2},{"PlayerDeal",1,3,2,0}}	{"ChangeWeight",2.0,2}
+15206	凯茜娅质疑-上家出牌≤2，且连续两次出牌数相同，中概率质疑	{{"PlayerPoker",1,3,0,4,2},{"PlayerDeal",1,3,5,2}}	{"ChangeWeight",2.0,2}
+15201	凯茜娅质疑-自己没行动过，小中概率质疑	{{"PlayerDeal",2,1,2,0}}	{"ChangeWeight",0.6,2}
+			
+			
+17101	苔丝出牌-自己连续行动，手上有真牌，出真（优先指定牌）	{{"PlayerDeal",2,1,5,1},{"PlayerPoker",2,2,1,3,0}}	{"ChangeDeal",1,0}
+17102	苔丝出牌-自己连续行动，当前自己手里有假牌，不会出相同数量	{{"PlayerDeal",2,1,5,1},{"PlayerPoker",2,2,2,3,0}}	{"ChangeDealSp",3}
+17103	苔丝出牌-自己连续行动，真假轮替	{{"PlayerDeal",2,1,5,1}}	{"ChangeDealSp",2}
+17104	苔丝出牌-手里真牌≤2，优先出假	{{"PlayerPoker",2,2,1,4,2}}	{"ChangeDeal",3,0}
+			
+17201	（彩蛋）苔丝质疑-自己命数=1，上家发言嘲讽施压，高概率质疑（扛不住压力嘞）	{{"LifeNum",2,2,1},{"EmoType",2}}	{"ChangeWeight",0.01,1}
+17202	苔丝质疑-自己没行动过，上家出牌≤2，小中概率质疑	{{"PlayerDeal",2,1,2,0},{"PlayerPoker",1,3,0,4,2}}	{"ChangeWeight",0.15,2}
+17203	苔丝质疑-上家发言嘲讽施压，中高概率质疑	{{"EmoType",2}}	{"ChangeWeight",1.8,2}
+17204	苔丝质疑-自己没行动过，总出牌数≥4，中概率质疑	{{"PlayerDeal",2,1,2,0},{"Pokers",5,4}}	{"ChangeWeight",1.2,2}
+17205	苔丝质疑-总出牌数≥9，自己手上有假牌，中高概率质疑	{{"Pokers",5,9},{"PlayerPoker",2,2,2,3,0}}	{"ChangeWeight",2.3,2}
+17206	苔丝质疑-自己总真牌≥2，中概率质疑	{{"PlayerPoker",2,1,1,5,2}}	{"ChangeWeight",1.5,2}
+			
+			
+11101	恩雅出牌-自己当前手上无真，上家出牌≤2，模仿上家出牌数量	{{"PlayerPoker",2,2,1,2,0},{"PlayerPoker",1,3,0,4,2}}	{"ChangeDealSp",1}
+11102	恩雅出牌-自己上次出牌，真假轮替	{{"PlayerDeal",2,1,3,0}}	{"ChangeDealSp",2}
+11103	恩雅出牌-上家当前手牌数≤自己当前手牌数，出真（优先指定牌）	{{"PlayerPokerSp",1,2,0,4,2}}	{"ChangeDeal",1,0}
+11104	恩雅出牌-自己当前假牌≥3，优先出假	{{"PlayerPoker",2,2,2,2,0}}	{"ChangeDealSp",1}
+			
+11201	（彩蛋）恩雅质疑-上家命数=1时，小概率质疑（温柔的姐姐大人不会趁人病要人命）	{{"LifeNum",1,2,1}}	{"ChangeWeight",0.1,2}
+11202	恩雅质疑-自己没行动过，小中概率质疑	{{"PlayerDeal",2,1,2,0}}	{"ChangeWeight",0.43,2}
+11203	恩雅质疑-总出牌数≤5，上家出牌≥2，小中概率质疑	{{"Pokers",4,5},{"PlayerPoker",1,3,0,5,2}}	{"ChangeWeight",0.5,2}
+11204	恩雅质疑-上家出牌≥2，自己总真牌≥3，中高概率质疑	{{"PlayerPoker",1,3,0,5,2},{"PlayerPoker",2,1,1,5,3}}	{"ChangeWeight",4.0,2}
+11205	恩雅质疑-存活人数＞1，自己命数＞1，中概率质疑	{{"Survivors",3,1},{"LifeNum",2,3,1}}	{"ChangeWeight",0.66,2}
+11206	恩雅质疑-自己总真牌≥2，中概率质疑	{{"PlayerPoker",2,1,1,5,2}}	{"ChangeWeight",1.8,2}
+			
+			
+20101	卜卜出牌-自己上次出牌，真假轮换出牌	{{"PlayerDeal",2,1,5,1}}	{"ChangeDealSp",2}
+20102	卜卜出牌-自己没行动过，自己上次没被质疑，出1假	{{"PlayerDeal",2,1,2,0},{"PlayerChallenge",2,6}}	{"ChangeDeal",3,1}
+20103	卜卜出牌-自己有真牌，优先真（优先万能牌）	{{"PlayerPoker",2,2,1,3,0}}	{"ChangeDeal",2,0}
+20104	（彩蛋）卜卜出牌-自己命数=1，自己上次没被质疑，allin假（跟你们爆了）	{{"LifeNum",2,2,1},{"PlayerChallenge",2,6}}	{"ChangeDeal",3,0}
+			
+20201	卜卜质疑-自己没行动过，小中概率质疑	{{"PlayerDeal",2,1,2,0}}	{"ChangeWeight",0.33,2}
+20202	卜卜质疑-上家上次没被质疑，中概率质疑	{{"PlayerChallenge",1,6}}	{"ChangeWeight",2.2,2}
+20203	卜卜质疑-自己总假牌≥3，小概率质疑	{{"PlayerPoker",2,1,2,5,3}}	{"ChangeWeight",0.18,2}
+20204	卜卜质疑-上家发言嘲讽施压，中高概率质疑	{{"EmoType",2}}	{"ChangeWeight",3.0,2}
+20205	卜卜质疑-上家发言冷静自信，小中概率质疑	{{"EmoType",3}}	{"ChangeWeight",0.2,2}
+20206	卜卜质疑-总出牌数≥6，中高概率质疑	{{"Pokers",5,6}}	{"ChangeWeight",3.0,2}
+			
+			
+21101	奈莉德出牌-自己总假牌＞1，总出牌数≤6,先把假打完	{{"PlayerPoker",2,1,2,3,1},{"Pokers",5,6}}	{"ChangeDeal",3,-1}
+21102	奈莉德出牌-自己连续出牌，出真（优先万能牌）	{{"PlayerDeal",2,1,3,0}}	{"ChangeDeal",2,0}
+21103	奈莉德出牌-自己没行动过，优先出真（优先指定牌）	{{"PlayerDeal",2,1,2,0}}	{"ChangeDeal",1,0}
+21104	奈莉德出牌-自己手上真牌≥2，出1真（优先指定牌）	{{"PlayerPoker",2,2,1,5,2}}	{"ChangeDeal",1,1}
+			
+21201	（彩蛋）奈莉德质疑-上家发言伪装试探，自己手上真牌≥2，高概率质疑（这就是不屑伪装的酷女）	{{"EmoType",1},{"PlayerPoker",2,2,1,5,2}}	{"ChangeWeight",0.01,1}
+21202	奈莉德质疑-上家出牌时间≥15s，中高概率质疑	{{"PlayerDeal",1,2,5,15}}	{"ChangeWeight",3.9,2}
+21203	奈莉德质疑-上家连续出牌且数量不同，小中概率质疑	{{"PlayerDeal",1,1,5,2},{"PlayerDeal",1,3,2,0}}	{"ChangeWeight",0.25,2}
+21204	奈莉德质疑-上家手牌数≤自己当前手牌数，中概率质疑	{{"PlayerPokerSp",1,2,0,4,2}}	{"ChangeWeight",2.0,2}
+21205	奈莉德质疑-上家在本小局中连续2次出相同牌数，中高概率质疑	{{"PlayerDeal",1,3,5,2}}	{"ChangeWeight",3.5,2}
+21206	奈莉德质疑-自己没行动过，上家出牌≥2，中概率质疑	{{"PlayerDeal",2,1,2,0},{"PlayerPoker",1,3,0,5,2}}	{"ChangeWeight",1.5,2}

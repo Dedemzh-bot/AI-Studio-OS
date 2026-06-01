@@ -1,0 +1,69 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+scene	互动情景·轻愈	互動情景·輕癒	ふれあいモード・癒す心	상호작용 장면·치유	Interactable Scene: Tender Cure						0	
+scene_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+scene_des	睁开些许沉重的眼睑，黄昏的淡淡暖光包裹着一个熟悉的身影，她慢慢靠近，轻轻耳语，接下来的时间都属于彼此。	睜開些許沉重的眼瞼，黃昏的淡淡暖光包裹著一個熟悉的身影，她慢慢靠近，輕輕耳語，接下來的時間都屬於彼此。	重い瞼を開けて、薄暗い黄色い光に包まれる人影を目にした。彼女はゆっくりと近づき、耳元で囁いた。ここからは、2人の時間だ。	무거운 눈꺼풀을 뜨니 따듯한 황혼의 빛이 익숙한 곳을 감싸고 있었다. 그녀는 천천히 다가오더니 부드럽게 속삭였고, 남은 시간은 서로를 위한 것이라고 했다.	As you slowly open your eyes, a familiar figure approaches. Rimmed by a halo of dusk, she leans over and whispers in your ear: "No rush, we have the rest of the day to ourselves~"						0	
+scene01	互动情景·爱凝恒约	互動情景·愛凝恆約	ふれあいモード・愛の誓約	상호작용 장면·사랑의 맹세	Interactable Scene: Covenant of Frost						0	
+scene01_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+scene01_des	窗边的她似乎还有些拘谨，这是她第一次的盛装，也是她唯一且永恒的誓言，无需多言，她眼里全是长久积累的默契和无可替代的爱意。	窗邊的她似乎還有些拘謹，這是她第一次的盛裝，也是她唯一且永恆的誓言，無需多言，她眼裡全是長久積累的默契和無可替代的愛意。	窓辺の彼女はまだ少し緊張している。彼女にとってはこれが初めてのドレスであり、唯一の永遠の誓いである。彼女の目は、長い間積み重ねてきた理解とかけがえのない愛に満ちていた。	창가에 있는 그녀는 긴장한 기색이 역력하다. 이건 그녀의 첫 번째 화려한 옷차림이자 영원한 서약이기도 하다. 지금 그녀의 눈에는 오랫동안 쌓아온 신뢰와 대체 불가능한 사랑으로 가득 차 있다.	She is by the window, seemingly with a hint of shyness. This is her first dress so lavish, her first vow so eternal. But there is no need for many words — her eyes convey a profound reservoir of unspoken understanding and irreplaceable love.						0	
+scene02	互动情景·恋绽恒约	互動情景·戀綻恆約	ふれあいモード・恋の誓約	상호작용 장면·설렘의 언약	Interactable Scene: Covenant of Bloom						0	
+scene02_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+scene02_des	略显庄严的氛围被她那一抹橙红划破，她一遍又一遍地要求夸奖和表达爱意，丝毫不掩饰积压已久的情感，她爱得坦荡，恋得热烈。	略顯莊嚴的氛圍被她那一抹橙紅劃破，她一遍又一遍地要求誇獎和表達愛意，絲毫不掩飾積壓已久的情感，她愛得坦蕩，戀得熱烈。	少し荘厳な雰囲気が橙色によって引き裂かれた。彼女は賞賛と愛の表現を何度も求め、長い間溜め込んでいた感情を隠すことなく、堂々と、熱烈に愛していた。	오렌지 레드 컬러가 엄숙한 분위기를 무색하게 한다. 그녀는 거듭 칭찬과 애정 표현을 요구했고 쌓인 감정을 조금도 숨기지 않았다. 그녀는 당당하고 열정적으로 사랑한다.	Her touch of orange and red brings energetic radiance to the slightly ceremonial atmosphere. She asks again and again for praise and love, with no attempt to hide her long-accumulated feelings. Her passion is fueled by a sincere heart.						0	
+scene03	互动情景·绚洋	互動情景·絢洋	ふれあいモード・晴れる海	상호작용 장면·화려한 바다	Interactable Scene: Sea of Allure						0	
+scene03_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+scene03_des	湿润的海风吹抚着她深色的长发，夕阳入海的美景也不及眼前的她动人，她说等夜深后有礼物相赠，会是什么呢？	濕潤的海風吹撫著她深色的長髮，夕陽入海的美景也不及眼前的她動人，她說等夜深後有禮物相贈，會是什麼呢？	湿っぽい海風に彼女の暗い色の長い髪がなびく。海に夕日が沈む景色の美しささえも目の前の彼女に劣る。夜になったらプレゼントがあると、彼女が言った。それはいったいなんだろうか？	습기에 찬 바닷바람이 그녀의 짙은 색 긴 머리를 스치고, 해가 지는 바다의 아름다운 경치도 눈앞의 그녀만큼 매력적이지 않다. 그녀는 밤이 깊어지면 선물을 줄 것이라 말한다… 과연 그 선물은 무엇일까?	Her dark hair is tousled by the moist sea breeze, and she is even more captivating than the sunset over the waves. She promises to give you a special present later tonight — what could it be...?						0	
+scene04	互动情景·婪夜	互動情景·婪夜	ふれあいモード・求める夜	상호작용 장면·욕망의 밤	Interactable Scene: Night of Desire						0	
+scene04_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+scene04_des	夜幕已至，她递过来刚倒满的玻璃杯，杯壁上凝结的水珠滑落到她的手臂上，顺着光滑的肌肤流到地毯上，她凑上来，问要不要继续……	夜幕已至，她遞過來剛倒滿的玻璃杯，杯壁上凝結的水珠滑落到她的手臂上，順著光滑的肌膚流到地毯上，她湊上來，問要不要繼續……	夜の帳が降りた。彼女が渡したなみなみと注がれたグラスから、しずくが垂れ、彼女の腕のつややかな肌を伝って、カーペットに落ちた。彼女は近寄って、続けるかと尋ねた……	밤이 깊어지자, 그녀는 방금 가득 채웠던 유리컵을 건넨다. 컵 벽에 맺힌 물방울이 그녀의 팔을 타고 흘러내려 부드러운 피부를 따라 카펫 위로 떨어진다. 그녀는 가까이 다가오며 계속해서 무엇을 할지 물었다…	As night descends, she offers a glass brimming with a cold drink. Droplets of water trickle down to her arm and smooth skin, finally landing on the carpet. She leans in, asking if you'd like to proceed...						0	
+scene05	互动情景·红妆恒约	互動情景·紅妝恆約	ふれあいモード・新粧の誓約	상호작용·진홍빛 언약	Interactable Scene: Covenant of Rouge						0	
+scene05_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+scene05_des	她抚琴示爱，提笔书情，一如平日里的优雅动人，可当夜色渐深，她竟端起杯子一饮而尽，急不可待地凑近说，当行应尽之事了……	她撫琴示愛，提筆書情，一如平日裡的優雅動人，可當夜色漸深，她竟端起杯子一飲而盡，急不可待地湊近說，當行應盡之事了……	琴で愛を語り、筆で思いを綴る彼女は、いつものように優雅で麗しい。\nしかし、夜が更けると、彼女は何と杯を持ち上げ、一気に飲み干した。\nその後、待ちきれない様子で近づき、「為すべきことを、為しましょう」と言った。	그녀는 칠현금을 연주하며 사랑을 고백하고, 붓을 들어 마음을 표현했다. 평소처럼 우아하고 매혹적인 모습이었다. 하지만 밤이 깊어지자, 그녀는 갑자기 잔을 들어 단숨에 비우고는 조급한 듯 가까이 다가와 말했다. "이제 해야 할 일을 서로 시작해야겠죠…"	Her hands move gently on the strings, emotions woven into the melody, her brushstrokes as delicate as her touch. Yet, as night falls, she suddenly gulps down her drink and impatiently leans in, saying: "It's time to attend to a certain duty..."						0	
+scene06	互动情景·暖夜恒约	互動情景·暖夜恆約	ふれあいモード・佳肴の誓約	상호작용·황홀한 언약	Interactable Scene: Covenant of Temptation						0	
+scene06_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	
+scene06_des	传统的仪式有些漫长，但经过谨慎的预习，今天她的表现堪称完美，卸下贵重的饰品后，她恢复平时的随性，直接靠上来说，接下来交给你了……	傳統的儀式有些漫長，但經過謹慎的預習，今天她的表現堪稱完美，卸下貴重的飾品後，她恢復平時的隨性，直接靠上來說，接下來交給你了……	伝統的な儀式はやや長かったが、慎重に予習を重ねたおかげか、今日の彼女の行動は完璧と言っても過言ではない。\n貴重な装飾品を外すと、彼女は普段の気ままな態度に戻り、すぐに近づいて「あとは、お任せ」と言った。	전통적인 의식은 다소 길었지만, 신중한 준비 덕분에 오늘 그녀의 모습은 완벽했다. 소중한 장신구를 벗고, 평소의 자연스러운 모습으로 다가와서 말했다. "다음은 너한테 맡길게..."	The traditional ceremony was somewhat lengthy, but with careful preparation, she performed flawlessly. After removing her precious adornments, she returned to her usual casual manner, leaning over and whispering: "What we do next is up to you..."						0	
+scene07	互动情景·秘林	互動情景·秘林	ふれあいモード・森での密会	상호작용 장면·비밀의 숲	Interactable Scene: Grove of Secrets						0	2.7妮塔互动
+scene07_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	2.7妮塔互动
+scene07_des	她从树上跃下，兴奋地诉说着她在周围有了好多新发现，她迫不及待走上前来牵手，说要去个好地方，想在那里度过最有趣的独处时光。	她從樹上躍下，興奮地訴說著她在周圍有了許多新發現，她迫不及待走上前來牽手，說要去個好地方，想在那裡度過最有趣的獨處時光。	彼女は木の上から飛び降りると、周りで見つけた新しい発見を嬉しそうに語りながら手を取り、「素敵な場所へ行こう」と誘った。その瞳は、二人きりで過ごす楽しい時間への期待に輝いていた。	그녀는 나무에서 뛰어내리면서 주변에서 많은 새로운 발견을 했다며 신나게 이야기했다. 그녀는 다가와 손을 잡더니, 좋은 곳에 가서 둘만의 가장 재미있는 시간을 보내고 싶다고 했다.	She leaps down from the tree, eagerly talking about all of her new discoveries. Then, she takes your hand, smiling brightly as she leads you to a special place for an intimate, joyful time.						0	2.7妮塔互动
+scene08	互动情景·星澜恒约	互動情景·星瀾恆約	ふれあいモード・青の誓約	상호작용·별빛의 언약	Interactable Scene: Covenant of Starlove						0	3.0凯西娅互动
+scene08_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0凯西娅互动
+scene08_des	驾车来到目的地，被承包的乐园只为眼前她亮起灯光，平日里游刃有余，此时敞开心扉的她，脸颊竟泛起了薄红……	駕車來到目的地，被承包的樂園只為眼前她亮起燈光，平日裡游刃有餘，此時敞開心扉的她，臉頰竟泛起了薄紅……	車で目的地に到着。貸し切った遊園地の明かりが、彼女のためだけに輝く。普段は余裕たっぷりの彼女が、今は頬をほのかに赤らめている……	차를 몰고 목적지에 도착하자, 통째로 예약한 낙원 속에서 그녀만을 위한 불빛이 밝혀졌다. 늘 여유로워 보이던 그녀가 이 순간만은 마음을 열며, 어느새 연분홍빛을 머금은 볼을 붉혔다…	You arrive at the privately reserved amusement park, its lights glowing solely for her. Usually so composed, she now stands with her heart laid bare, a faint blush rising to her cheeks...						0	3.0凯西娅互动
+scene09	互动情景·光馨恒约	互動情景·光馨恆約	ふれあいモード・光の誓約	상호작용·만개의 언약	Interactable Scene: Covenant of Blossom						0	3.0苔丝互动
+scene09_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.0苔丝互动
+scene09_des	阳光下格外鲜艳的草坪上，洁白娇小的身影在忙碌着，直到听见熟悉的脚步声，她欣喜地转身跃起，迎来了这场梦幻魔术秀的唯一观众……	陽光下格外鮮豔的草坪上，潔白嬌小的身影在忙碌著，直到聽見熟悉的腳步聲，她欣喜地轉身躍起，迎來了這場夢幻魔術秀的唯一觀眾……	陽射しに輝く芝生の上、真っ白で小さな姿が軽やかに動き回る。聞き慣れた足音に、嬉しそうに振り返り、夢のようなマジックショーにたった一人の観客を招き入れる……	햇살 아래 유난히 밝은 잔디밭에서, 하얗고 작은 체구의 그녀가 바삐 움직이고 있다. 낯익은 발소리가 들리자, 그녀는 폴짝 뛰면서 이 환상적인 마술쇼의 유일한 관객을 맞이했다…	Against the radiant grass in the sun, a delicate figure in white bustles about. Upon hearing the familiar footsteps, she spins around gleefully to greet you, the exclusive spectator of her magical performance...						0	3.0苔丝互动
+scene10	互动情景·蜜海	互動情景·蜜海	ふれあいモード・プールでの戯れ	상호작용 장면·행복의 바다	Interactable Scene: Sea of Bliss						0	3.2芬妮泳装互动
+scene10_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2芬妮泳装互动
+scene10_des	为了给安定的甜蜜增加一些刺激，她承包了游艇，准备了浪漫的度假流程，在跃入泳池的那一刻，她的身姿一如既往耀眼，她的爱一如既往热烈。	為了給安定的甜蜜增加一些刺激，她承包了遊艇，準備了浪漫的度假流程，在躍入泳池的那一刻，她的身姿一如既往耀眼，她的愛一如既往熱烈。	甘い日常にドキッとする刺激を！彼女が貸し切ったヨットで、二人だけのロマンティックなバカンスが始まる。プールに飛び込む瞬間、彼女の輝く姿はいつも通りまばゆく、愛は変わらず熱烈だ。	안정적인 달콤함에 약간의 자극을 더하기 위해, 그녀는 요트를 빌리고 로맨틱한 휴가 일정을 준비했다. 수영장에 뛰어드는 순간, 그녀의 모습은 여전히 눈부시게 빛났고, 그녀의 사랑은 여전히 뜨거웠다.	To spice up the serene sweetness, she has chartered a yacht and arranged a romantic holiday outing. As she leaps into the pool, she displays her dazzling figure and longstanding love.						0	3.2芬妮泳装互动
+scene11	互动情景·澈心	互動情景·澈心	ふれあいモード・無邪気な水遊び	상호작용 장면·행복의 버블	Interactable Scene: Bubbles of Glee						0	3.2瑟瑞斯泳装互动
+scene11_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.2瑟瑞斯泳装互动
+scene11_des	一向懂事谦让的她，难得主动争取到二人独处时间，她满心欢喜地为沐浴做准备，期待的心情随着她轻快的哼歌声传递过来。	一向懂事謙讓的她，難得主動爭取到兩人獨處時間，她滿心歡喜地為沐浴做準備，期待的心情著她輕快的哼歌聲傳遞過來。	いつも控えめな彼女が、今日はほんの少し大胆に。弾けるような笑顔で入浴の準備を進め、軽やかな鼻歌に期待と喜びが響く……。	항상 온순하고 양보하던 그녀는 좀처럼 드물게 둘만의 시간을 마련했다. 그녀는 목욕을 준비하며 가득 찬 기쁨을 느꼈고, 경쾌한 흥얼거림에서 부푼 설렘이 전해졌다.	Usually so selfless and modest, this time she has shown rare initiative to secure alone time with you. She prepares for her bath with a heart full of joy, her lighthearted humming revealing her eager anticipation.						0	3.2瑟瑞斯泳装互动
+scene13	互动情景·绘时恒约	互動情景·繪時恆約	ふれあいモード・時結びの誓約	상호작용 장면·시간의 언약	Interactable Scene: Covenant of Chrono						0	DLC3.5安卡希雅互动
+scene13_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	DLC3.5安卡希雅互动
+scene13_des	堆满宝藏的最终关卡，是她精心设计的游戏结局，经历无数次孤独的胜利后，她终于等来了一同迎接美满结局的挚爱之人。	堆滿寶藏的最終關卡，是她精心設計的遊戲結局，經歷無數次孤獨的勝利後，她終於等來了一同迎接美滿結局的摯愛之人。	宝物が数多く手に入る最終ステージは、彼女が心を込めて作り上げたゲームのエンディング。幾度となく孤独な勝利を重ねた先に、ようやく共に幸せを分かち合える最愛の人と出会えた。	보물이 높이 쌓인 파이널 스테이지는 그녀가 공들여 설계한 게임의 결말이다. 수많은 외로운 승리 후에, 그녀는 드디어 함께 해피엔딩을 맞이할 사랑을 만났다.	The treasure-filled final stage is her carefully planned ending. After countless lonely victories, she finally awaits her beloved to share the happy ending.						0	DLC3.5安卡希雅互动
+buttun01	故事	故事	ストーリー	스토리	Story						0	
+buttun02	心诉	心訴	告白	고백	Intimate Chat						0	
+buttun03	恒约	恆約	誓約	언약	Covenant						0	
+tips01	需完成心诉事件后，才能开启恒约事件哦~	需完成心訴事件後，才能開啟恆約事件~	まずは告白イベントを体験してください～	고백 사건을 완료하면 언약 사건을 시작할 수 있어요~	Must first complete Confession Event to unlock Covenant Event~						0	
+Confession_17a_02_Standby01_Options_01	你好像很紧张？	你好像很緊張？	緊張してるみたいだが…？	너, 많이 긴장한 것 같은데?	Why do you look so nervous?						0	
+Confession_17a_02_Standby01_Options_02	怎么一副被吓到的样子？	怎麼一副被嚇到的樣子？	悪い、驚かせたか？	깜짝 놀란 표정인데?	Why do you look so scared?						0	
+Confession_17a_02_Standby02_Options_01	蛋糕无所谓，重要的是你。	蛋糕無所謂，重要的是你。	テスが無事ならケーキなんてなくてもいい	케이크가 중요한 게 아니라, 네가 중요한 거지.	Forget the cake. What matters is you.						0	
+Confession_17a_02_Standby02_Options_02	不用道歉。	不用道歉。	気にする必要ない	사과할 필요 없어.	No need to apologize.						0	
+Confession_15b_02_Standby01_Options_01	很惊讶？	很驚訝？	驚いたか？	놀랐어?	You're surprised?						0	
+Confession_15b_02_Standby01_Options_02	不像我会做的事吗？	不像我會做的事嗎？	柄じゃなかったのか？	내가 이런 일은 하지 않을 것 같아?	Doesn't seem like something I'd do?						0	
+Confession_15b_02_Standby02_Options_01	这代表把心交给我吗？	這代表把心交給我嗎？	もしかしてこれ、告白なのか？	마음을 나한테 주겠다는 의미야?	Does this mean you're giving me your heart?						0	
+Confession_15b_02_Standby02_Options_02	我一定会好好珍惜的。	我一定會好好珍惜的。	大切にするよ	꼭 소중히 간직할게.	I will treasure it.						0	
+Game_guide_girl008c_02_SC01_B_01	连续喷射	連續噴射	連続噴射	연속 발사	Spray						0	3.2芬妮泳装互动
+Game_guide_girl008c_02_SC01_B_02	停止喷射	停止噴射	噴射停止	발사 정지	Stop						0	3.2芬妮泳装互动
+scene12	互动情景·执欲恒约	互動情景·執慾恆約	ふれあいモード・執愛の誓約	상호작용 장면·치정의 언약	Interactable Scene: Covenant of Soulbind						0	3.5茉莉安恒约互动
+scene12_use	通过供应站购买获得	透過供應站購買獲得	配給所で購入して獲得	공급 센터 구매 스킨	Obtained through purchase in Quartermaster.						0	3.5茉莉安恒约互动
+scene12_des	没有过度奢华夺目的室内装饰，也摒弃了繁琐的仪式流程，她所期望的只属于二人的仪式，是将自己全部交付，舍弃一切身份，只以自己的名义。	沒有過度奢華奪目的室內裝飾，也摒棄了繁瑣的儀式流程，她所期望的只屬於二人的儀式，是將自己全部交付，捨棄一切身分，只以自己的名義。	華美な装飾も煩雑な儀式も省き、彼女が望むのは二人だけの誓い。すべてを捧げ、肩書きを捨て、ありのままの自分であなたと向き合うこと。	지나치게 화려하고 눈길을 끄는 실내 장식도 없이, 지루한 예식의 과정도 없이, 그녀는 단둘만의 의식을 원한다. 이 의식에서 그녀는 모든 신분을 벗어던지고, 그녀만의 이름으로 자신의 모든 것을 그에게 바칠 것이다.	There is no extravagant decor, nor any tedious rituals. What she longs for is a ceremony for just the two of them, where she can surrender herself completely to him, leaving all titles behind and existing only in her own name.						0	3.5茉莉安恒约互动
+Confession_05c_02_Standby01_Options_01	当然不会。	當然不會。	そんなことないよ。	그럴 리가.	Of course not.						0	DLC3.5茉莉安恒约互动
+Confession_05c_02_Standby01_Options_02	为什么会有这个担忧？	為什麼會有這個擔憂？	どうしてそう思うんだい？	왜 그런 걸 걱정해?	What made you think that?						0	DLC3.5茉莉安恒约互动
+Confession_05c_02_Standby02_Options_01	我们的感情只能被爱定义。	我們的感情只能被愛定義。	私たちの感情は……“愛”という言葉でしか語れない。	우리의 감정은 사랑으로만 정의할 수 있어.	Only love can define what we are.						0	DLC3.5茉莉安恒约互动
+Confession_05c_02_Standby02_Options_02	谢谢你不顾一切奔向我。	謝謝你不顧一切奔向我。	何もかもを顧みずに私のもとへ走って来てくれてありがとう。	아무것도 따지지 않고 내게 달려와 줘서 고마워.	Thank you for running into my arms, despite it all.						0	DLC3.5茉莉安恒约互动
+Confession_01b_02_Standby01_Options_01	空格	空格	スペースキー	스페이스 바	Space						0	DLC3.5安卡希雅互动
+Confession_01b_02_Standby01_Options_02	RT键	RT鍵	RTキー	RT 키	RT						0	DLC3.5安卡希雅互动
+Confession_01b_02_Standby01_Options_03	RB键	RB鍵	RBキー	RB 키	RB						0	DLC3.5安卡希雅互动
+Confession_01b_02_Standby03_Options_01	辛苦你准备这么多关卡了。	辛苦你準備這麼多關卡了。	ステージを沢山用意してくれて、ありがとう	이 많은 스테이지를 준비하다니, 고생 많았어.	And you've worked so hard designing those stages. Thank you.						0	DLC3.5安卡希雅互动
+Confession_01b_02_Standby03_Options_02	有点意犹未尽呢。	有點意猶未盡呢。	なんだか名残惜しいな…	좀 아쉬운데.	I almost don't want it to end.						0	DLC3.5安卡希雅互动
+Confession_01b_02_Standby04_Options_01	乐意之至。	樂意之至。	ああ、喜んで	기꺼이.	I'd love to.						0	DLC3.5安卡希雅互动
+Confession_01b_02_Standby04_Options_02	当然。	當然。	これからも、よろしく	당연하지.	Of course.						0	DLC3.5安卡希雅互动

@@ -1,0 +1,15 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	待机	sequence	girl012a_02_ui_stand01	AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_ui_stand01.girl012a_02_ui_stand01'	
+2	讲述	sequence	girl012a_02_openworld_talk01	AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_talk01.girl012a_02_openworld_talk01'	
+3	低头	sequence	girl012a_02_ui_ditou01	AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_ui_ditou01.girl012a_02_ui_ditou01'	
+4	肯定	sequence	girl012a_02_openworld_sure	AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_sure.girl012a_02_openworld_sure'	
+5	否定	sequence	girl012a_02_openworld_deny	AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_deny.girl012a_02_openworld_deny'	
+6	思考前	sequence	girl012a_02_openworld_think_starrt	AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_think_starrt.girl012a_02_openworld_think_starrt'	
+7	思考循环	sequence	girl012a_02_openworld_think_loop	AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_think_loop.girl012a_02_openworld_think_loop'	
+8	思考后	sequence	girl012a_02_openworld_think_end	AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_think_end.girl012a_02_openworld_think_end'	
+					
+					
+					
+100	一次思考	custom_seq	6;7;8		
+101	思考循环	custom_loop_last	6;7		

@@ -1,0 +1,56 @@
+﻿编号	类型（1祖玛，2肉鸽）	id(怪物编号，肉鸽id）	备注	稀有度	解锁方式（1使用解锁{1}，2 完成X任务解锁{2，任务id}）	未解锁名称	未解锁描述	图标	名字	描述	预设（填写1简单，2困难，两个都填就都会预设这个buff，超出的会忽视）	流派	是否炮台	ModifierId
+Riki_Id	Type	Id	Remak	Rank	Unlock	UnlockName	UnlockDes	Icon	Name	Describe	Preset	Category	IsTurret	ModifierId
+1	1	101	红	2		TowerRush.unlock	TowerRush.unlockdes1	1804201	TowerRush.name1	TowerRush.des1				
+2	1	102	蓝	2		TowerRush.unlock	TowerRush.unlockdes2	1804202	TowerRush.name2	TowerRush.des2				
+3	1	103	绿	2		TowerRush.unlock	TowerRush.unlockdes3	1804203	TowerRush.name3	TowerRush.des3				
+4	1	104	黄	2		TowerRush.unlock	TowerRush.unlockdes4	1804204	TowerRush.name4	TowerRush.des4				
+5	1	105	爆炸	3		TowerRush.unlock	TowerRush.unlockdes5	1804198	TowerRush.name5	TowerRush.des5				
+6	1	106	变色	3		TowerRush.unlock	TowerRush.unlockdes6	1804200	TowerRush.name6	TowerRush.des6				
+7	1	107	双倍	3		TowerRush.unlock	TowerRush.unlockdes7	1804199	TowerRush.name7	TowerRush.des7				
+8	1	108	冰冻纸盒	3		TowerRush.unlock	TowerRush.unlockdes8	1804229	TowerRush.name15	TowerRush.des15				
+9	1	109	奖励纸盒	3		TowerRush.unlock	TowerRush.unlockdes9	1804228	TowerRush.name16	TowerRush.des16				
+5000	2		祖玛基础得分增加20	1				4403001	TowerRush.buffname1	TowerRush.buffdes1	{1,2}	1		
+5001	2		连续消除有概率生成特殊祖玛	2				4403010	TowerRush.buffname2	TowerRush.buffdes2	{1,2}	1		
+5002	2		祖玛基础得分增加30	3				4403002	TowerRush.buffname3	TowerRush.buffdes3	{1,2}	1		
+5003	2		红黄同色	4				4403011	TowerRush.buffname4	TowerRush.buffdes4	{1,2}	1		
+5004	2		红色视为所有颜色	5				4403012	TowerRush.buffname5	TowerRush.buffdes5	{1,2}	1		
+5005	2		连续消除分数增加15%	1				4403004	TowerRush.buffname6	TowerRush.buffdes6		1		
+5006	2		爆炸祖玛范围+1	2				4403005	TowerRush.buffname7	TowerRush.buffdes7		1		
+5007	2		连续消除分数增加25%	3				4403025	TowerRush.buffname8	TowerRush.buffdes8		1		
+5008	2		消除时同色祖玛需要数量+1，积分*2	4				4403009	TowerRush.buffname9	TowerRush.buffdes9		1		
+5009	2		消除时同色祖玛需要数量-1	5				4403008	TowerRush.buffname10	TowerRush.buffdes10		1		
+5010	2		特殊祖玛得分增加200	1				4403017	TowerRush.buffname11	TowerRush.buffdes11		1		
+5011	2		双倍祖玛时间延长	2				4403014	TowerRush.buffname12	TowerRush.buffdes12		1		
+5012	2		特殊祖玛得分增加300	3				4403018	TowerRush.buffname13	TowerRush.buffdes13		1		
+5013	2		蓝绿同色	4				4403011	TowerRush.buffname14	TowerRush.buffdes14		1		
+5014	2		蓝色视为所有颜色	5				4403012	TowerRush.buffname15	TowerRush.buffdes15		1		
+5015	2		弹匣容量提升10%	1				1001009	TowerRush.buffname31	TowerRush.buffdes31	{1,2}	2		
+5016	2		连击后根据消除数量补充子弹（复用）	2				4403020	TowerRush.buffname32	TowerRush.buffdes32	{1,2}	2		
+5017	2		弹匣容量提升15%	3				1001009	TowerRush.buffname33	TowerRush.buffdes33	{1,2}	2		
+5018	2		弹匣内子弹数量大于50%时提升伤害（复用）	4				1001000	TowerRush.buffname34	TowerRush.buffdes34	{1,2}	2		
+5019	2		通过射击击败目标后{1}秒内射击不消耗子弹，同时每次射击附带1次当前弹匣容量*{2}%攻击力的高热类型伤害（复用）	5				1001082	TowerRush.buffname35	TowerRush.buffdes35	{1,2}	2		
+5020	2		攻击提升10%	1				1001086	TowerRush.buffname36	TowerRush.buffdes36		2		
+5021	2		连击后根据消除数量提高一段时间攻击力（复用）	2				4403022	TowerRush.buffname37	TowerRush.buffdes37		2		
+5022	2		攻击提升15%	3				1001086	TowerRush.buffname38	TowerRush.buffdes38		2		
+5023	2		降低20%弹匣容量,提升45%射击伤害（复用）	4				1001082	TowerRush.buffname39	TowerRush.buffdes39		2		
+5024	2		射击消耗1爆发能量，使该次射击伤害提升{1}%（复用）	5				1001118	TowerRush.buffname40	TowerRush.buffdes40		2		
+5025	2		暴击率提升15%（复用）	1				1001001	TowerRush.buffname41	TowerRush.buffdes41		2		
+5026	2		连击后根据消除数量提高射速（复用）	2				4403021	TowerRush.buffname42	TowerRush.buffdes42		2		
+5027	2		暴击伤害增幅提高50%（复用）	3				1001000	TowerRush.buffname43	TowerRush.buffdes43		2		
+5028	2		暴击后射击速度提升33%,持续5秒（复用）	4				1001003	TowerRush.buffname44	TowerRush.buffdes44		2		
+5029	2		暴击后有15%概率增加1枚弹药（复用）	5				1001001	TowerRush.buffname45	TowerRush.buffdes45		2		
+5030	2		每次获得的机枪子弹增加10%	1				4403010	TowerRush.buffname16	TowerRush.buffdes16	{1,2}	3		
+5031	2		祖玛连击时，有10%概率补充10颗子弹（可受到BUFF加成）	2				4403020	TowerRush.buffname17	TowerRush.buffdes17	{1,2}	3		
+5032	2		每次获得的机枪子弹增加15%	3				4403015	TowerRush.buffname18	TowerRush.buffdes18	{1,2}	3		
+5033	2		连续击杀祖玛叠加伤害，最高叠20层，30s失效，击杀刷新时间	4				4403022	TowerRush.buffname19	TowerRush.buffdes19	{1,2}	3	1	3710112
+5034	2		机枪杀死祖玛时有15%概率生成特殊祖玛	5				4403013	TowerRush.buffname20	TowerRush.buffdes20	{1,2}	3		
+5035	2		机枪伤害增强10%	1				4403019	TowerRush.buffname21	TowerRush.buffdes21		3	1	3710112
+5036	2		为场景中添加电网，经过的祖玛每秒造成X%伤害	2				4403023	TowerRush.buffname22	TowerRush.buffdes22		3		
+5037	2		机枪伤害增强15%	3				4403019	TowerRush.buffname23	TowerRush.buffdes23		3	1	3710112
+5038	2		每次获得的子弹数量减少10%，机枪造成的伤害无视防御力40%	4				4403026	TowerRush.buffname24	TowerRush.buffdes24		3	1	3710112
+5039	2		机枪杀死祖玛时有15%概率触发爆炸，对左右1个祖玛造成类爆炸祖玛的作用	5				4403005	TowerRush.buffname25	TowerRush.buffdes25		3		
+5040	2		机枪射速提升10%	1				4403021	TowerRush.buffname26	TowerRush.buffdes26		3	1	3710112
+5041	2		机枪能够为祖玛附加易伤效果，受到伤害增加15%	2				4403025	TowerRush.buffname27	TowerRush.buffdes27		3	1	3710112
+5042	2		机枪射速提升15%	3				4403021	TowerRush.buffname28	TowerRush.buffdes28		3	1	3710112
+5043	2		射击时，有20%概率额外发射1颗弹丸，该弹丸不会消耗弹药	4				4403016	TowerRush.buffname29	TowerRush.buffdes29		3	1	3710112
+5044	2		机枪杀死祖玛时有20%概率补充10颗子弹（可受到BUFF加成）	5				4403020	TowerRush.buffname30	TowerRush.buffdes30		3		

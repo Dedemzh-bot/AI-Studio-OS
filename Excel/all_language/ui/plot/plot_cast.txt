@@ -1,0 +1,39 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+text1001	领衔主演	領銜主演	主演	메인 주연	Starring						0	
+text1002	主演	主演	助演	주연	Cast						0	
+text1003	导演	導演	監督	감독	Director						0	
+text1004	编剧	編劇	脚本	작가	Screenwriter						0	
+text1005	制片人	製片人	プロデューサー	제작자	Producer						0	
+text1006	演职人员表	演職人員表	キャスト	출연자 목록	Film Credits						0	
+text1007	场记	場記	スクリプター	현장 기록	Script Supervisor						0	
+Name2001	薇蒂雅	薇蒂雅	アガベ・ザ・ファントム	비디야	Vidya						0	
+Name2002	辰星	辰星	長楽郡主（ちょうらく　ぐんしゅ）	수성	Chenxing						0	
+Name2003	芙提雅	芙提雅	イグニス博士	프티야	Fritia						0	
+Name2004	魅影的龙舌兰	魅影的龍舌蘭	ヴィディア	환영의 아가베	Shadow Agave						0	
+Name2005	长乐郡主	長樂郡主	姫辰星（ジ・チェンシン）	장락 공주	Princess Felicity						0	
+Name2006	伊格妮丝博士	伊格妮絲博士	フリティア	이그니스 박사	Dr. Ignis						0	
+Name2007	夜魇骑士	夜魘騎士	夜魘（やえん）騎士	악몽의 기사	Midnight Knight						0	
+Name2008	望	望	精霊	노조미	Nozomi						0	
+Name2009	精灵	精靈	ノゾム	정령	Fairy						0	
+Name2010	幽影	幽影	カエデ	환영	Phantom						0	
+Name2011	达斯·铁手	達斯·鐵手	ムハンダス	다즈·아이언핸드	Daz Ironhand						0	
+Name2012	莫罕达斯	莫罕達斯	ダス・アイアンアーム	모한다스	Modak						0	
+Name2013	热心市民们	熱心市民們	他のキャラクター	열정적인 시민	Eager Citizens						0	
+Name2014	其他角色	其他角色	熱心な市民たち	기타 캐릭터	Others						0	
+Name2015	枫	楓	幽影（ゆうえい）	카에데	Kaede						0	
+Thanks1001	playername	playername	playername	playername	playername						0	
+Thanks1002	感谢观看	感謝觀看	ご視聴ありがとうございました	시청해 주셔서 감사합니다	Thank You for Watching						0	
+Thanks1003	枫	楓	カエデ	카에데	Kaede						0	
+Thanks1004	薇蒂雅	薇蒂雅	ヴィディア	비디야	Vidya						0	
+Thanks1005	辰星	辰星	辰星	수성	Chenxing						0	
+PlotTxt1001	饰	飾	…	배역	as						0	
+dlc12_TalkNpc_01	本地村民甲	本地村民甲	村人A	현지 주민 A	Local Villager A						0	
+dlc12_TalkNpc_02	恐惧的村民	恐懼的村民	怯える村人	두려워하는 주민	Terrified Villager						0	
+dlc12_TalkNpc_03	疯癫的村民	瘋癲的村民	正気を失った村人	미친 주민	Crazed Villager						0	
+dlc12_TalkNpc_04	慌乱的村民	慌亂的村民	慌てる村人	혼란스러운 주민	Panicked Villager						0	
+dlc25_TalkNpc_01	急脾气	急脾氣	タンキ	성급쟁이	Shortemper						0	dlc25新星开拓npc名字
+dlc25_TalkNpc_02	慢半拍	慢半拍	ノンキ	느림보	Slowstride						0	dlc25新星开拓npc名字
+dlc25_TalkNpc_03	说胡话	說胡話	キョゲン	허풍쟁이	Chatterlip						0	dlc25新星开拓npc名字
+dlc25_TalkNpc_04	尖尖耳	尖尖耳	ウサミミ	뾰족귀	Sharpear						0	dlc25新星开拓npc名字
+dlc25_TalkNpc_05	赛曼加	賽曼加	シマンガ	시맨저	Seamanger						0	dlc25新星开拓npc名字

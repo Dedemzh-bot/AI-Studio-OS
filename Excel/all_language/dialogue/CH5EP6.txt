@@ -1,0 +1,73 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	呃啊……吾等选民……意志须经锤炼。	呃啊……吾等選民……意志須經錘鍊。	ぐあぁ……我ら選ばれし者の意志は……鍛錬されるべき。	으윽… 나라도… 반드시 지켜내야만 해.	Urgh... the chosen ones... must undergo great tempering.						0	
+2	吾等选民，信仰乃是永恒真理准则！	吾等選民，信仰乃是永恆真理準則！	信仰こそが、永久真理の基準である！	신앙은 내게 있어 영원한 진리자 준칙이니까!	For the chosen ones, faith is the principle of eternal truth!						0	
+3	加文跪倒在地，动力甲已经破损不堪，但那种表情没有丝毫改变。	加文跪倒在地，動力甲已經破損不堪，但那種表情沒有絲毫改變。	ガビンは跪き、アーマーもボロボロだが、その表情は変わらなかった。	게빈은 무릎을 꿇었고, 동력 슈트가 많이 손상된 듯 보였으나 표정에는 거의 변함이 없었다.	Gavin knelt on the ground. His power armor was in pieces, but his expression remained unchanged.						0	
+4	他眼中闪烁着我不常见到的光……那是……	他眼中閃爍著我不常見到的光……那是……	目には見たこともない光が閃いている……あれは……	순간 게빈의 눈에서 수상한 빛이 감지됐고…	In his eyes shone a light I rarely saw... the light of...						0	
+5	吾等……绝不敢忘，蒙召之时！	吾等……絕不敢忘，蒙召之時！	我らは……決して忘れたりしない、召喚されし時！	절대로… 은총의 시간들을 잊지 않으리!	I... will never let the moment of summoning pass by!						0	
+b-1											0	
+6	琴诺！小心！	琴諾！小心！	チェルノ！危ない！	체르노! 조심해!	Cherno! Watch out!						0	
+7	……啊。	……啊。	……あ。	… 아.	... Ah.						0	
+8	加文掷出了长刀，其中一柄飞向了惊慌失措的琴诺。	加文擲出了長刀，其中一柄飛向了驚慌失措的琴諾。	ガビンは刀を投げ、そのうちの一本は慌てるチェルノに向かって飛んで行った。	게빈은 기다란 검을 빼들었고, 그중 한 자루로 당황해하는 체르노를 향해 휘둘렀는데…	Gavin drew his long sword and leaped at the panicking Cherno, slashing at her.						0	
+9	还好……在我的提醒下，琴诺及时躲闪，只是擦伤了手臂。	還好……在我的提醒下，琴諾及時躲閃，只是擦傷了手臂。	幸い……私の注意でチェルノは間一髪避けて、ただ腕をかすっただけだった。	다행히도… 내가 부르는 소리에 체르노는 제때 피할 수 있었고, 게빈의 검날은 팔만 살짝 스쳐 지나갔다.	Luckily... thanks to my warning, Cherno had managed to dodge in time, with only a scratch on her arm.						0	
+10	……	……	……	…	...						0	
+11	…………	…………	…………	…	...						0	
+12	这是什么味道？	這是什麼味道？	これは何の匂いだ？	응? 이게 무슨 냄새지?	What's that smell?						0	
+13	闻起来，有点腥，又有点甜？	聞起來有點腥，又有點甜？	なんだか……臭いようで、少し甘い？	비릿하면서도 달콤한 냄새가 나는데?	It smells raw and meaty, but also sweet?						0	
+14	琴诺看起来跟平时不太一样。	琴諾看起來跟平時不太一樣。	チェルノの様子が普段と違うように見える。	체르노는 갑자기 평소와 달라 보였는데…	Cherno looked somehow different from usual.						0	
+15	小琴诺，你是不是受伤了？	小琴諾，你是不是受傷了？	チェルノちゃん、怪我でもしたか？	체르노, 설마 다친 거야?	Cherno dear, did you get hurt?						0	
+16	是谁？	是誰？	誰だ？	넌 누구지?	Who was it?						0	
+17	<span color="#990000">是谁？？？</>	<span color="#990000">是誰？ ？ ？ </>	<span color="#990000">誰だ？？？</>	<span color="#990000">누구냐고???</>	<span color="#990000">Who!?</>						0	
+b-2											0	
+18	琴诺你……	琴諾你……	チェルノ……	체르노…	Cherno, did you...						0	
+19	我刚想出声询问，琴诺声音传来的方位，就已经从前方，转移到了背后。	我剛想出聲詢問，琴諾聲音傳來的方位，就已經從前方轉移到了背後。	声をかけようとすると、チェルノの声は前方から背後へと移っていた。	목소리를 내어 말하려는 순간 앞에서 들리던 체르노의 목소리가 어느새 뒤에서 들려왔고…	Just as I was about to ask, her voice that had been coming from in front of me was now behind me.						0	
+20	她抚摸着加文的动力甲。	她撫摸著加文的動力甲。	彼女はガビンのアーマーを撫でている。	그녀는 게빈의 동력 슈트를 어루만지고 있었다.	She stroked Gavin's power armor.						0	
+21	是你吧？	是你吧？	お前だな？	너야?	It was you, wasn't it?						0	
+22	弄伤小琴诺的人，是你吧？	弄傷小琴諾的人，是你吧？	チェルノちゃんを傷つけたやつ、お前だよな？	방금 체르노를 다치게 한 사람?	You must be the one who hurt dear Cherno.						0	
+23	渣滓，你知道自己会付出什么代价？	渣滓，你知道自己會付出什麼代價？	クズめ、代償を払ってもらおうか。	귀엽네… 어떻게 대가를 치르게 해줄까?	Scum. Do you know what price you must pay for that?						0	
+24	琴诺的身影似乎闪烁了一下……	琴諾的身影似乎閃爍了一下……	チェルノの姿が閃いた……	체르노의 모습이 갑자기 사라지더니 다시 나타났다…	Cherno's silhouette seemed to shine for a moment...						0	
+25	呃啊……鄙人……	呃啊……鄙人……	うぅ……私は……	으윽… 난…	Urgh... I didn't...						0	
+26	我真切地看到：加文那坚固无比的动力甲上，出现一条凹痕，像是锁链留下的痕迹。	我親眼目睹：加文那堅固無比的動力甲上，出現一條凹痕，像是鎖鏈留下的痕跡。	ガビンの固いアーマーに鎖で作ったようなへこみができたことをこの目で見た。	단단해 보였던 게빈의 동력 슈트에 순간 금이 갔다. 아마 사슬로 인해 생긴 흔적 같아 보였다.	I could see that an unmistakable dent had appeared in Gavin's unimaginably sturdy power armor. It was as though it had been bound by chains.						0	
+27	这是“第零下”。	這是“第零下”。	これは「0回目」。	이건 '영 번째'…	That was Zero.						0	
+28	算作吓到小琴诺的道歉。	算作嚇到小琴諾的道歉。	チェルノちゃんを怯えさせた償いだ。	체르노를 놀라게 한몫이야.	We'll take it as your apology for scaring dear Cherno.						0	
+29	在“第零下”之后，还有一、二、三、四……	在“第零下”之後，還有一、二、三、四……	「0回目」の後には、1、2、3、4……	'영 번째' 뒤에는 '첫 번째'도 있고… 많은 순서들이 남아 있지.	Zero will be followed by One, Two, Three, and Four...						0	
+34	鄙人……已尽全力……	鄙人……已盡全力……	私は……全力を尽くした……	그래도… 난… 할 만큼 했어…	I've... given my all...						0	
+35	信仰坚定的净化官向后摔去，破碎的动力甲比他更先落地。	信仰堅定的淨化官向後摔去，破碎的動力甲比他更先落地。	固い信仰を持つ浄化官は後ろに倒れ、砕けたアーマーが彼より先に地に落ちた。	신앙심이 굳건한 정화관 게빈은 뒤로 내던져졌고, 부서진 동력 슈트는 그보다 먼저 바닥으로 떨어졌다.	The Purificant with unwavering faith fell backward, his broken power armor landing on the ground before him.						0	
+36	咿嘻嘻嘻嘻，我们的账算完了。	咿嘻嘻嘻嘻，我們的帳算完了。	ヒヒヒ、これでチャラにしてやる。	이히히히히… 이걸로 우리 계산은 끝이야.	Ehehehehe. We're even now.						0	
+37	琴诺……你……	琴諾……你……	チェルノ……あなた……	체르노… 너…	Cherno... you...						0	
+38	……	……	……	…	...						0	
+39	恩雅姐？你为什么用那种表情看着我？	恩雅姐？你為什麼用那種表情看著我？	エンヤ姉さん？どうしてそんな顔で私を見ているのですか？	엔야 언니? 왜 그런 표정을 짓고 계신 거죠?	Ms. Enya? Why are you looking at me like that?						0	
+40	刚……刚……才……发生了什么？	剛……剛……才……發生了什麼？	い……今……何が？	혹시… 방금… 무슨 일이 일어났었던 건가요?	Wh—What... h—happened... just now?						0	
+41	分析员，我是不是又……？	分析員，我是不是又……？	分析員さん……私、またやってしまったのですか……？	분석가님, 설마 제가 또…?	Adjutant, did I...?						0	
+42	我摸了摸琴诺的头。	我摸了摸琴諾的頭。	私はチェルノの頭を優しくなでた。	난 체르노의 머리를 쓰다듬었다.	I rubbed Cherno's head.						0	
+42_1	不要怕，已经都结束了。	不要怕，已經都結束了。	大丈夫。もう終わったことだ。	괜찮아, 이제 다 끝났어.	Don't be scared. It's all over.						0	
+42_2	恩雅用眼神向我询问，我对她点了点头，琴诺现在需要她的帮助。	恩雅用眼神向我詢問，我對她點了點頭，琴諾現在需要她的幫忙。	私はエンヤに頷いてみせた。今のチェルノには、彼女の力が必要だ。	엔야가 눈짓으로 내게 동의를 구했고 나는 그녀에게 고개를 끄덕였다. 체르노는 지금 엔야의 도움이 필요했다.	Enya shot me a questioning glance, and I nodded. Cherno needed her help now.						0	
+42_3	琴诺……好孩子，到这里来……	琴諾……好孩子，到這裡來……	チェルノ……いい子よ、こちらへ来て……	그래… 체르노. 착하지… 어서 여기로 와…	Cherno... over here, that's a good girl...						0	
+42_4	姐姐现在就为你治疗……	姐姐現在就為你治療……	お姉ちゃんが治療してあげますからね。	언니가 치료해 줄게…	I'll make you feel better...						0	
+44	天启者……被选为天启者……难道真是命运的恩赐吗？	天啟者……被選為天啟者……難道真是命運的恩賜嗎？	覚醒者……覚醒者として選ばれるのは……本当に運命の恵みだろうか。	계시자로 선택받는 게… 과연 운명에 감사해야 할 일일까?	Were those chosen as Manifestations... really chosen by fate alone?						0	
+45	我沉默地看着倒在地上的加文，背后再次传来了脚步声。	我沉默地看著倒在地上的加文，背後再次傳來了腳步聲。	地面に横たわっているガビンを見つめていた時だった。背後から誰かの足音が聞こえた。	바닥에 쓰러진 게빈을 말없이 바라보고 있던 중, 갑자기 등 뒤에서 발소리가 들려왔다.	As I silently gazed at Gavin lying on the ground, I heard another set of footsteps from behind me.						0	
+46	军方士兵与大批降临团会员，在彼此对峙的状态中走进这个场所。	軍方士兵與大批降臨團會員，在彼此對峙的狀態中走進這個場所。	軍の兵士と大勢の降臨団のメンバーが、対峙しながらこの場所に入った。	군부의 병사들과 강림단 신자들이 대치를 하며 우리가 있는 곳으로 들어오고 있었다.	Military soldiers and a large crowd of Adventists had entered the building, in a face-off.						0	
+47	喂，分析员阁下，你这边是什么情况？	喂，分析員閣下，你這邊是什麼情況？	おい、分析員閣下、そっちはどういう状況だ？	분석가님, 도대체 무슨 일이죠?	Hey, Mr. Adjutant. What's going on over here?						0	
+48	我在外面半天都没等到你出来，只好进来找找了。	我在外面半天都沒等到你出來，只好進來找找了。	いくら待っても出てこないから、こちらが探しに来た。	밖에서 한동안 기다리는데 안 나오셔서 이렇게 찾으러 왔습니다.	I'd been waiting nearly all day for you to come out. So I decided to come in and find you instead.						0	
+b-3											0	
+49	在撤退的过程中，发生了一点插曲。	在撤退的過程中，發生了一點插曲。	撤退の途中、少しアクシデントにあった。	철수하는 과정에 일이 좀 있었어요.	We had to take a little detour as we were withdrawing.						0	
+50	我将手中的原型抑制剂交给了李上尉，用行动证明，问题已经被解决了。	我將手中的原型抑制劑交給了李上尉，用行動證明，問題已經被解決了。	そう言いながら、私はプロトタイプ抑制剤の入った箱を李大尉に手渡した。問題がすでに解決したことを伝えるために。	나는 가지고 있던 프로토타입 억제제를 이대위에게 건네주며 문제가 해결되었음을 행동으로 증명해 주었다.	I handed the Prototype Inhibitors in my hands to Captain Li, signifying that the problem had been resolved.						0	
+51	任务目标没事就好……	任務目標沒事就好……	任務目標が無事でよかった……	미션을 성공적으로 완수한다면야 뭐든 상관없습니다…	As long as the mission target is secure...						0	
+52	不过，我这边也有棘手的麻烦。	不過，我這邊也有棘手的麻煩。	しかし、こちらも面倒なことにあった。	근데 저희 측에도 약간 번거로운 일이 생겼습니다.	We had some tricky business too though, actually.						0	
+b-4											0	
+53	棘手的麻烦？	棘手的麻煩？	面倒なこと？	번거로운 일이요?	Tricky business?						0	
+54	降临团的接引使就堵在外面……	降臨團的接引使就堵在外面……	降臨団の聖女が外にいる……	강림단 인도자가 외부를 막고 있습니다…	The Adventist Emissary was blocking our exit...						0	
+b-5											0	
+55	接引使？	接引使？	聖女？	인도자요?	The Emissary?						0	
+56	很快我就明白了这个名字的含义。	很快我就明白了這個名字的含義。	私はその名前の意味がすぐに分かった。	얼마 지나지 않아 난 인도자라 불리는 이유를 알 수 있었다.	Soon enough, I found out what that word referred to.						0	
+57	她洁白的赤足踏入这蒙尘之所。	她潔白的赤足踏入這蒙塵之所。	彼女は純白の裸足で塵まみれの地に踏み入った。	그녀는 새하얀 맨발로 타이탄 물질이 덮인 오염된 땅 위에 올라섰다.	She stepped inside this dusty place with pure white, bare feet.						0	
+58	褴褛衣衫未能遮掩住的肌肤，像冬夜寒霜般无色——不，尘世的颜色不能描述它。	襤褸衣衫未能遮掩住的肌膚，像冬夜寒霜般無色——不，塵世的顏色不能描述它。	みすぼらしい服から覗く肌は寒い冬の夜の霜のように、無色で透明ーーいや、それは浮世の色では言い表せない色だ。	남루한 옷 사이로 비춰지는 피부는 겨울밤 서리처럼 색채가 없었다. 말로는 형용하기 힘든 색이었다.	Her skin that her ragged outfit couldn't fully cover was as colorless as the frost of a winter night. No, no color of this world could describe it.						0	
+59	她披着降临团会员们，用虔诚目光在己身所织的袍子，从我面前经过。	她披著降臨團會員們，用虔誠目光在己身所織的袍子，從我面前經過。	彼女は、降臨団のメンバーたちの敬虔な眼差しに包まれながら、私の前を通った。	강림단 신자들은 그녀의 곁을 감싸고 있었고, 그녀는 경건한 눈빛으로 내 앞을 스쳐 지나갔다.	Shrouded in a cloak woven for her by the pious gazes of the Adventists, she passed before me.						0	
+60	我无法生出阻拦她的欲望。	我無法生出阻攔她的慾望。	私は彼女を止めようとする意思が湧かなかった。	나 역시 신성함에 사로잡혀 그녀를 저지할 수 없었다.	I was unable to find any desire to stop her.						0	
+61	我的兄弟，加文……	我的兄弟，加文……	我が同胞、ガビン……	나의 형제, 게빈…	My brother, Gavin...						0	
+62	你不能，比苦难更先离开这个世界。	你不能比苦難更先離開這個世界。	あなたは、苦難より先にこの世界を発ってはならぬ。	고난이 시작하기도 전에 이렇게 세상을 떠나다니.	You cannot leave this world before suffering.						0	
+63	……聆听呼唤你的声音，带领你走出黑暗。	……聆聽呼喚你的聲音，帶領你走出黑暗。	……あなたを呼ぶ声に耳を傾けて、それはあなたを暗闇から連れ出してくれる。	… 너의 목소리를 들었나니. 어둠 속에서 나오게 해주겠다.	...Listen to the voice that calls you and leads you from the dark.						0	
+64	洪水冻结，天火降临。	洪水凍結，天火降臨。	洪水を凍てつかせ、天火が降臨する。	곧 홍수가 얼어붙고, 천화가 강림할 것이다…	The floods shall freeze, and fire from the sky shall rain.						0	
+65	快想起来，你早已摆脱躯壳的镣铐……	快想起來，你早已擺脫軀殼的鐐銬……	早く思い出して。あなたは既に体の枷から解き放たれている……	떠올려라… 자네의 육체는 이미 족쇄를 벗어났으니…	Remember that you have long since thrown aside the bonds of your mortal body...						0	
+66	无数双手从簇拥着她的人群中伸出，妄图分得一点恩宠。	無數雙手從簇擁著她的人群中伸出，妄圖分得一點恩寵。	大勢の人が彼女を取り囲む。その中から無数の手が伸びて、少しでも恩寵を得ようとする。	그녀를 빼곡히 둘러싼 인파 속에서 은총을 갈망하는 이들의 수많은 손들이 뻗어져 나왔다.	A sea of hands reached out toward her, hoping to gain even the slightest of her favor.						0	
+67	一束光从穹顶的缝隙洒落，我，看见了神迹。	一束光從穹頂的縫隙灑落，我，看見了神蹟。	一筋の光がドームの隙間から差し込んで、私は……奇跡を見た。	곧이어 한 줄기 빛이 천장의 틈 사이에서 쏟아져 내렸고, 난 기적을 목격하게 되는데…	A ray of light shone down through the fracture in the dome. Then, I saw a miracle.						0	

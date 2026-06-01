@@ -1,0 +1,217 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+memlock	该队员已出战其他战线	該隊員已出戰其他戰線	この隊員は他の戦線に参戦しています	해당 팀원은 다른 전선에서 전투 중입니다.	Operative already on another Battlefront						0	
+supplylock	上阵失败，后勤或武器已用于其他战线	上陣失敗，後勤或武器已用於其他戰線	出撃に失敗しました。後方支援または武器は他の戦線で使用されています。	출전 실패, 지원 또는 무기가 다른 전선에서 이미 사용 중입니다.	Deployment failed, logistics officer or weapon is already in use on another Battlefront						0	
+resetteam	重置将清空已有战线记录，撤离驻守队伍，并清空当前战线的战幕绩点。	重置將會清除已有戰線記錄，撤離駐守隊伍並清除當前戰線的戰幕績點。	リセットすると戦線の記録は削除され、駐屯部隊は撤退し、この戦線の戦幕ポイントもリセットされます。	리셋 시 전선 기록이 삭제되고 주둔팀이 철수되며 현재 전선의 전투 현장 점수가 사라집니다.	After reset, current Battlefront record will be cleared, garrisoned operatives will be released, and current Battlefield Peril Points will be cleared.						0	
+settlement_score	获得当前临时阵地战幕绩点	獲得當前臨時陣地的戰幕績點	現在の仮設陣地の戦幕ポイントを獲得する	임시 진영의 전투 현장 점수 획득	Encampment Peril Points						0	
+ticket_not_enough	通行密钥不足	通行金鑰不足	通行キーが不足しています	통행 열쇠가 부족합니다.	Insufficient Access Keys						0	
+notopen	活动暂未开放	活動暫未開放	未開放のイベントです	이벤트가 오픈되지 않았습니다.	Event not yet open						0	
+layerlock	请先完成当前危险评级的战线作战	請先完成當前危險評級的戰線作戰	現在の危険レベルの戦線作戦をクリアしてください	현재 위험 등급의 전선 전투를 먼저 완료해 주세요.	Please complete the Battlefront in the current danger level						0	
+riskwarning	当前作战难度较高，请确认是否继续	當前作戰難度較高，請確認是否繼續	この作戦の難易度は高いです。継続しますか？	전투 난이도가 높습니다. 계속하시겠습니까?	The current battle difficulty level is very high. Continue?						0	
+buffname1	强袭	強襲	強襲	강습	Onslaught						0	
+buff1	主动技能伤害提升%s%%	主動技能傷害提升%s%%	アクティブスキルの与ダメージ+%s%%	액티브 스킬 대미지가 %s%% 증가한다.	Increases Active Skill DMG by %s%%						0	
+buffname2	近威	近威	近威	근거리 위협	Close Quarters						0	
+buff2	对半径%s米内敌方目标造成的伤害提升%s%%	對半徑%s公尺內敵方目標造成的傷害提升%s%%	半径%sm以内の敵へのダメージ+%s%%	반경 %sm 내의 목표 타깃에게 입히는 대미지가 %s%% 증가한다.	Increases DMG dealt to enemy targets within %s meter(s) by %s%%						0	
+buffname3	流转	流轉	流転	흐름	Flow						0	
+buff3	常规能量回复速度提升%s%%	常規能量回復速度提升%s%%	通常EP回復速度+%s%%	일반 에너지 회복 속도가 %s%% 증가한다.	Increases S-Energy Recovery by %s%%						0	
+buffname4	染冰	染冰	染氷	빙결	Dyed Frost						0	
+buff4	击败敌方目标时，造成1次低温类型的范围伤害，并施加冻结效果，持续%s秒，触发间隔%s秒	擊敗敵方目標時，造成1次低溫類型的範圍傷害，並施加凍結效果，持續%s秒，觸發間隔%s秒	敵を撃破すると、低温系の範囲ダメージを1回与え、%s秒持続する凍結効果を与える。クールタイム：%s秒	목표 타깃 격파 시, 얼음 유형의 범위 대미지를 1회 발동하고 동결 효과를 부여한다. 지속 시간: %s초. 쿨타임: %s초	Upon defeating an enemy, deals 1 instance of AoE Frost DMG and applies Frozen for %s sec. Cooldown: %s sec						0	
+buffname5	捕风	捕風	捕風	풍속	Windcatcher						0	
+buff5	射击速度提升%s%%	射擊速度提升%s%%	射撃速度+%s%%	사격 속도가 %s%% 증가한다.	Increases Rate of Fire by %s%%						0	
+buffname6	季生	季生	季生	연명	New Life						0	
+buff6	射击命中敌方目标时，回复%s%%最大生命，触发间隔%s秒	射擊命中敵方目標時，回復%s%%最大生命，觸發間隔%s秒	射撃が敵に命中すると、最大HPの%s%%を回復。クールタイム：%s秒	목표 타깃을 사격으로 명중할 시, 최대 HP를 %s%% 회복한다. 쿨타임: %s초.	Recovers %s%% of Max HP when a shot hits an enemy target. Cooldown: %s sec						0	
+buffname7	疾雷	疾雷	疾雷	질뢰	Thunderclap						0	
+buff7	电击类型伤害提升%s%%	電擊類型傷害提升%s%%	電撃系ダメージ+%s%%	번개 유형 대미지가 %s%% 증가한다.	Increases Electrical DMG by %s%%						0	
+buffname8	交易	交易	取引	거래	One-Sided Deal						0	
+buff8	每击败1个敌方目标，防御力提升%s%%，总提升不超过%s%%	每擊敗1個敵方目標，防禦力提升%s%%，總提升不超過%s%%	敵を1体倒すごとに、防御力+%s%%、最大%s%%まで。	목표 타깃을 격파할 때마다 방어력이 %s%% 증가한다. 최대 증가치: %s%%	DEF increases by %s%% for every 1 enemy target defeated, up to a max of %s%%.						0	
+buffname9	恒常	恆常	恒常	불변	Permanence						0	
+buff9	爆发能量获取率提升%s%%	爆發能量獲取率提升%s%%	爆発EP取得率+%s%%	부스터 획득률이 %s%% 증가한다.	Increases U-Energy Recovery by %s%%						0	
+buffname10	操偶	操偶	操り人形	꼭두각시	Puppet Master						0	
+buff10	敌方目标的抗打断能力降低	敵方目標的抗打斷能力降低	敵の中断耐性ダウン	타깃의 경직 저항력이 감소한다.	Reduces enemy Anti-Interruption Ability						0	
+buffname11	赤夏	赤夏	赤夏	한여름	Midsummer						0	
+buff11	高热类型伤害提升%s%%	高熱類型傷害提升%s%%	高熱系ダメージ+%s%%	화염 유형 대미지가 %s%% 증가한다.	Increases Thermal DMG by %s%%						0	
+buffname12	灼伤	灼傷	熱傷	화상	Blaze						0	
+buff12	灼烧状态下的敌方目标受到的技能伤害提升%s%%	灼燒狀態下的敵方目標受到的技能傷害提升%s%%	火傷状態の敵のスキル被ダメージ+%s%%	연소 상태의 목표 타깃이 입는 스킬 대미지가 %s%% 증가한다.	Increases Skill DMG dealt to Burned enemies by %s%%						0	
+levelbuffname1	极化	極化	極化	극화	Polarization						0	
+levelbuff1	敌方目标生命较低时，对我方队员造成的伤害提升	敵方目標生命較低時，對我方隊員造成的傷害提升	敵のHPが低い場合、隊員に対するダメージアップ	목표 타깃의 HP가 낮을 때, 아군측 팀원에게 가하는 대미지가 상승한다.	When the enemy has low HP, deals increased DMG to full squad						0	
+levelbuffname2	驻守	駐守	駐屯	수비	Garrison						0	
+levelbuff2	敌方目标在场时间越长，对队员造成的伤害越高	敵方目標在場時間越久，對隊員造成的傷害越高	敵が戦場にいる時間が長いほど、隊員に対するダメージアップ	목표 타깃이 장시간 필드에 노출되어 있을수록, 아군측 팀원에게 가하는 대미지가 더 상승한다.	The longer the enemy is on the field, the higher the DMG it deals to operatives						0	
+levelbuffname3	同位	同位	同位	동등	Same Place						0	
+levelbuff3	相位协调仪受到的伤害会等额传递给敌方目标	相位測試器受到的傷害會等額傳遞給敵方目標	相位調整装置が受けたダメージ同量敵に移る	위치 조정기로 받는 대미지가 그대로 목표 타깃에게 전달된다.	DMG taken by the phase coordinator will be equally transferred to enemy targets						0	
+buffname201	铁腕	鐵腕	鉄腕	철권	Iron Fist						0	
+buff201	处于被控制状态的敌方目标，受到的射击伤害提升%s%%	處於被控制狀態的敵方目標，其所受到的射擊傷害提升%s%%	拘束状態にいる敵への射撃ダメージ+%s%%。	CC 상태의 타깃이 받는 사격 대미지가 %s%% 증가한다.	Control effect-inflicted targets take %s%% more Ballistic DMG.						0	
+buffname202	军备	軍備	軍備	군비	Armament						0	
+buff202	弹匣容量提升%s%%	彈匣容量提升%s%%	弾倉容量+%s%%。	탄창 용량이 %s%% 증가한다.	Increases Magazine Capacity by %s%%.						0	
+buffname203	追歼	攻殲	追撃	추격	Pursuit of Annihilation						0	
+buff203	每击败1个敌方目标，对敌方护盾造成的伤害提升%s%%，总伤害提升不超过%s%%	每擊敗1個敵方目標，對敵方護盾造成的傷害提升%s%%，總傷害提升不超過%s%%	敵を1体倒すごとに、敵のシールドに与えるダメージ+%s%%、最大+%s%%。	타깃을 격파할 때마다 타깃 실드에 가하는 대미지가 %s%% 증가한다. 총 대미지 증가치: %s%%	For every enemy defeated, increases DMG dealt to enemy shields by %s%%, up to %s%%.						0	
+buffname204	巧技	巧技	巧の技	기교	Skills That Kill						0	
+buff204	常规技技能急速提升%s	常規技技能急速提升%s	通常技のスキルヘイスト+%s。	일반 스킬의 스킬 가속이 %s 증가한다.	Increases Skill Haste of Standard Skill by %s.						0	
+buffname205	操偶	操偶	操り人形	꼭두각시	Puppet Master						0	
+buff205	敌方目标受到控制的持续时间提升%s%%	敵方目標受到控制的持續時間提升%s%%	敵に付与する拘束状態の持続時間+%s%%。	타깃의 CC 상태 지속 시간이 %s%% 증가한다.	Control effect duration on targets increases by %s%%.						0	
+buffname206	空穴	空穴	空洞	공혈	Black Hole						0	
+buff206	击败敌方目标时，场上会生成一个引力漩涡，%s秒内持续聚集附近敌方目标，触发间隔%s秒	擊敗敵方目標時，場上會產生一個引力漩渦，%s秒內持續聚集附近敵方目標，觸發間隔%s秒	敵を倒すと、フィールド上に引力の渦が発生し、%s秒間周囲の敵を継続的に引き寄せる。クールタイム：%s秒。	타깃 격파 시, 필드에 중력 소용돌이가 나타나며, %s초 동안 지속해서 근처의 타깃을 모은다. 쿨타임: %s초.	When an enemy is defeated, creates a black hole on the field, sucking in targets for %s sec. Cooldown of %s sec.						0	
+buffname207	不息	不息	矢継ぎ早	불식	Relentless						0	
+buff207	命中目标后，场上队员可回%s爆发能量、触发间隔%s秒	命中目標後，場上隊員可回復%s爆發能量，觸發間隔%s秒	敵に命中後、操作隊員の爆発EPを%s回復する。クールタイム：%s秒。	타깃을 명중하면 부스터를 %s 회복한다. 쿨타임: %s초.	After hitting a target, deployed operative recovers %s U-Energy. Cooldown of %s sec.						0	
+buffname208	娴熟	嫻熟	熟練	숙련	Dexterous Hands						0	
+buff208	换弹速度提升%s%%	換彈速度提升%s%%	装填スピード+%s%%。	재장전 속도가 %s%% 증가한다.	Increases Reload SPD by %s%%.						0	
+buffname209	激战	激戰	激戦	격전	Fires of War						0	
+buff209	使用常规技后，射击伤害提升%s%%、持续时间%s秒	使用常規技後，射擊傷害提升%s%%，持續時間%s秒	通常技を使用すると、射撃ダメージ+%s%%、%s秒持続する。	일반 스킬을 사용하면 사격 대미지가 %s%% 증가한다. 지속 시간: %s초.	After using Standard Skill, Ballistic DMG increases by %s%% for %s sec.						0	
+levelbuffname201	狼口	狼口	狼の口	늑대의 입	Into the Lion's Mouth						0	
+levelbuff201	敌方目标护盾强度大幅提升、最大生命降低	敵方目標護盾強度大幅提升，最大生命降低	敵シールド強度が大幅アップ、最大HPダウン。	타깃의 실드 강도가 대폭 상승하고, 최대 HP가 감소한다.	Greatly increases enemy target's shield strength and decreases their Max HP.						0	
+levelbuffname202	迟滞	遲滯	遅延	침체	Sluggish						0	
+levelbuff202	受到敌方目标攻击时，有概率被施加眩晕状态	遭受敵方目標攻擊時，有機率被施加眩暈狀態	攻撃を受けると、一定の確率で気絶状態が付与される。	타깃에게 피격될 시 일정 확률로 기절 상태를 부여받는다.	Enemy attacks have a chance to inflict Stunned.						0	
+levelbuffname203	僵持	僵持	膠着	정적	Stalemate						0	
+levelbuff203	敌方目标即将被击倒时会进入不屈状态，其生命不再下降	敵方目標將被擊倒時會進入不屈狀態，其生命不再降低	敵が倒される直前に不屈状態に入り、HPが減少しなくなる。	타깃이 쓰러지기 직전에 대폭주 상태에 진입하며, HP가 감소하지 않는다.	When enemy is about to be defeated, has a chance to enter Unyielding state, in which its HP no longer decreases.						0	
+buffname301	光源	光源	光源	광원	Brilliancy						0	
+buff301	全队队员的受治疗效果提升%s%%	全隊隊員的受治療效果提升%s%%	小隊全員の回復効果+%s%%	모든 팀원이 받는 치유 효과가 %s%% 증가한다.	Increases Healing received by full squad by %s%%						0	
+buffname302	茁实	茁實	頑丈	치유	Robustness						0	
+buff302	全队队员的最大生命提升%s%%	全隊隊員的最大生命提升%s%%	小隊全員の最大HP+%s%%	모든 팀원의 최대 HP가 %s%% 증가한다.	Increases Max HP of full squad by %s%%						0	
+buffname303	迅捷	迅捷	敏捷	신속	Swiftness						0	
+buff303	全队队员的主动技能使用间隔降低%s%%	全隊隊員的主動技能使用間隔降低%s%%	小隊全員のアクティブスキルのクールタイム-%s%%	모든 팀원의 액티브 스킬 쿨타임이 %s%% 감소한다.	Decreases Active Skill cooldown of full squad by %s%%						0	
+levelbuffname301	坚忍	堅忍	堅忍	인내	Staunchness						0	
+levelbuff301	敌方目标造成的伤害大幅提升，该提升会随着在场时间逐渐减少	敵方目標造成的傷害大幅提升，該提升會隨著在場時間逐漸減少	敵の与ダメージが大幅にアップ、この効果は戦場で時間が経つにつれて減っていく	타깃이 가하는 대미지가 대폭 상승한다. 해당 상승은 필드에 있는 시간에 따라 점차 줄어든다.	Enemy DMG greatly increases and then gradually returns to normal as they stay on the field.						0	
+repression_levelname_481	速攻战线-紧急突破I	速攻戰線-緊急突破I	速攻戦線-緊急突破I	속공 전선-긴급 돌파I	Assault Battlefront I						0	
+repression_levelname_484	速攻战线-紧急突破II	速攻戰線-緊急突破II	速攻戦線-緊急突破II	속공 전선-긴급 돌파II	Assault Battlefront II						0	
+repression_levelname_487	速攻战线-紧急突破III	速攻戰線-緊急突破III	速攻戦線-緊急突破III	속공 전선-긴급 돌파III	Assault Battlefront III						0	
+repression_levelname_482	生续战线-存活即胜I	生存戰線-存活即勝利I	生存戦線-存続勝利I	생존 전선-생존이 곧 승리I	Survival Battlefront I						0	
+repression_levelname_485	生续战线-存活即胜II	生存戰線-存活即勝利II	生存戦線-存続勝利II	생존 전선-생존이 곧 승리II	Survival Battlefront II						0	
+repression_levelname_488	生续战线-存活即胜III	生存戰線-存活即勝利III	生存戦線-存続勝利III	생존 전선-생존이 곧 승리III	Survival Battlefront III						0	
+repression_levelname_483	攻坚战线-卓绝对战I	攻堅戰線-卓絕對戰I	攻略戦線-卓越対戦I	공격 전선-끝없는 맹공I	Blitz Battlefront I						0	
+repression_levelname_486	攻坚战线-卓绝对战II	攻堅戰線-卓絕對戰II	攻略戦線-卓越対戦II	공격 전선-끝없는 맹공II	Blitz Battlefront II						0	
+repression_levelname_489	攻坚战线-卓绝对战III	攻堅戰線-卓絕對戰III	攻略戦線-卓越対戦III	공격 전선-끝없는 맹공III	Blitz Battlefront III						0	
+repression_levelname_450	【危险评级I】临时阵地1-1	【危險評級I】臨時陣地1-1	【危険レベルI】仮設陣地1-1	[위험 등급I] 임시 진영1-1	[Danger Level I] Encampment 1-1						0	
+repression_levelname_451	【危险评级I】临时阵地1-2	【危險評級I】臨時陣地1-2	【危険レベルI】仮設陣地1-2	[위험 등급I] 임시 진영1-2	[Danger Level I] Encampment 1-2						0	
+repression_levelname_452	【危险评级I】临时阵地2-1	【危險評級I】臨時陣地2-1	【危険レベルI】仮設陣地2-1	[위험 등급I] 임시 진영2-1	[Danger Level I] Encampment 2-1						0	
+repression_levelname_453	【危险评级I】临时阵地2-2	【危險評級I】臨時陣地2-2	【危険レベルI】仮設陣地2-2	[위험 등급I] 임시 진영2-2	[Danger Level I] Encampment 2-2						0	
+repression_levelname_454	【危险评级I】临时阵地3-1	【危險評級I】臨時陣地3-1	【危険レベルI】仮設陣地3-1	[위험 등급I] 임시 진영3-1	[Danger Level I] Encampment 3-1						0	
+repression_levelname_455	【危险评级I】临时阵地3-2	【危險評級I】臨時陣地3-2	【危険レベルI】仮設陣地3-2	[위험 등급I] 임시 진영3-2	[Danger Level I] Encampment 3-2						0	
+repression_levelname_456	【危险评级II】临时阵地1-1	【危險評級II】臨時陣地1-1	【危険レベルII】仮設陣地1-1	[위험 등급II] 임시 진영1-1	[Danger Level II] Encampment 1-1						0	
+repression_levelname_457	【危险评级II】临时阵地1-2	【危險評級II】臨時陣地1-2	【危険レベルII】仮設陣地1-2	[위험 등급II] 임시 진영1-2	[Danger Level II] Encampment 1-2						0	
+repression_levelname_458	【危险评级II】临时阵地1-3	【危險評級II】臨時陣地1-3	【危険レベルII】仮設陣地1-3	[위험 등급II] 임시 진영1-3	[Danger Level II] Encampment 1-3						0	
+repression_levelname_459	【危险评级II】临时阵地2-1	【危險評級II】臨時陣地2-1	【危険レベルII】仮設陣地2-1	[위험 등급II] 임시 진영2-1	[Danger Level II] Encampment 2-1						0	
+repression_levelname_460	【危险评级II】临时阵地2-2	【危險評級II】臨時陣地2-2	【危険レベルII】仮設陣地2-2	[위험 등급II] 임시 진영2-2	[Danger Level II] Encampment 2-2						0	
+repression_levelname_461	【危险评级II】临时阵地2-3	【危險評級II】臨時陣地2-3	【危険レベルII】仮設陣地2-3	[위험 등급II] 임시 진영2-3	[Danger Level II] Encampment 2-3						0	
+repression_levelname_462	【危险评级II】临时阵地3-1	【危險評級II】臨時陣地3-1	【危険レベルII】仮設陣地3-1	[위험 등급II] 임시 진영3-1	[Danger Level II] Encampment 3-1						0	
+repression_levelname_463	【危险评级II】临时阵地3-2	【危險評級II】臨時陣地3-2	【危険レベルII】仮設陣地3-2	[위험 등급II] 임시 진영3-2	[Danger Level II] Encampment 3-2						0	
+repression_levelname_464	【危险评级II】临时阵地3-3	【危險評級II】臨時陣地3-3	【危険レベルII】仮設陣地3-3	[위험 등급II] 임시 진영3-3	[Danger Level II] Encampment 3-3						0	
+repression_levelname_465	【危险评级III】临时阵地1-1	【危險評級III】臨時陣地1-1	【危険レベルIII】仮設陣地1-1	[위험 등급III] 임시 진영1-1	[Danger Level III] Encampment 1-1						0	
+repression_levelname_466	【危险评级III】临时阵地1-2	【危險評級III】臨時陣地1-2	【危険レベルIII】仮設陣地1-2	[위험 등급III] 임시 진영1-2	[Danger Level III] Encampment 1-2						0	
+repression_levelname_467	【危险评级III】临时阵地1-3	【危險評級III】臨時陣地1-3	【危険レベルIII】仮設陣地1-3	[위험 등급III] 임시 진영1-3	[Danger Level III] Encampment 1-3						0	
+repression_levelname_468	【危险评级III】临时阵地1-4	【危險評級III】臨時陣地1-4	【危険レベルIII】仮設陣地1-4	[위험 등급III] 임시 진영1-4	[Danger Level III] Encampment 1-4						0	
+repression_levelname_469	【危险评级III】临时阵地2-1	【危險評級III】臨時陣地2-1	【危険レベルIII】仮設陣地2-1	[위험 등급III] 임시 진영2-1	[Danger Level III] Encampment 2-1						0	
+repression_levelname_470	【危险评级III】临时阵地2-2	【危險評級III】臨時陣地2-2	【危険レベルIII】仮設陣地2-2	[위험 등급III] 임시 진영2-2	[Danger Level III] Encampment 2-2						0	
+repression_levelname_471	【危险评级III】临时阵地2-3	【危險評級III】臨時陣地2-3	【危険レベルIII】仮設陣地2-3	[위험 등급III] 임시 진영2-3	[Danger Level III] Encampment 2-3						0	
+repression_levelname_472	【危险评级III】临时阵地2-4	【危險評級III】臨時陣地2-4	【危険レベルIII】仮設陣地2-4	[위험 등급III] 임시 진영2-4	[Danger Level III] Encampment 2-4						0	
+repression_levelname_473	【危险评级III】临时阵地3-1	【危險評級III】臨時陣地3-1	【危険レベルIII】仮設陣地3-1	[위험 등급III] 임시 진영3-1	[Danger Level III] Encampment 3-1						0	
+repression_levelname_474	【危险评级III】临时阵地3-2	【危險評級III】臨時陣地3-2	【危険レベルIII】仮設陣地3-2	[위험 등급III] 임시 진영3-2	[Danger Level III] Encampment 3-2						0	
+repression_levelname_475	【危险评级III】临时阵地3-3	【危險評級III】臨時陣地3-3	【危険レベルIII】仮設陣地3-3	[위험 등급III] 임시 진영3-3	[Danger Level III] Encampment 3-3						0	
+repression_levelname_476	【危险评级III】临时阵地3-4	【危險評級III】臨時陣地3-4	【危険レベルIII】仮設陣地3-4	[위험 등급III] 임시 진영3-4	[Danger Level III] Encampment 3-4						0	
+repression_level_des	完成当前临时阵地作战可获得	完成當前臨時陣地作戰即可獲得	クリアすると獲得可能	현재 임시 진영 작전 완료 시 획득 가능	Obtain upon completing the current Encampment level						0	
+repression_levelname_4529	速攻战线-紧急突破I	速攻戰線-緊急突破I	速攻戦線-緊急突破I	속공 전선-긴급 돌파I	Assault Battlefront I						0	
+repression_levelname_4532	速攻战线-紧急突破II	速攻戰線-緊急突破II	速攻戦線-緊急突破II	속공 전선-긴급 돌파II	Assault Battlefront II						0	
+repression_levelname_4535	速攻战线-紧急突破III	速攻戰線-緊急突破III	速攻戦線-緊急突破III	속공 전선-긴급 돌파III	Assault Battlefront III						0	
+repression_levelname_4528	驻防战线-坚守阵地I	駐防戰線-堅守陣地I	防衛戦線-陣地を堅守I	주둔 전선-진영 수비I	Defense Battlefront I						0	
+repression_levelname_4531	驻防战线-坚守阵地II	駐防戰線-堅守陣地II	防衛戦線-陣地を堅守II	주둔 전선-진영 수비II	Defense Battlefront II						0	
+repression_levelname_4534	驻防战线-坚守阵地III	駐防戰線-堅守陣地III	防衛戦線-陣地を堅守III	주둔 전선-진영 수비III	Defense Battlefront III						0	
+repression_levelname_4527	强袭战线-摧坚折锐I	強襲戰線-摧堅折銳I	強襲戦線-力強い突破I	기습 전선-적진 격파I	Pummeling Battlefront I						0	
+repression_levelname_4530	强袭战线-摧坚折锐II	強襲戰線-摧堅折銳II	強襲戦線-力強い突破II	기습 전선-적진 격파II	Pummeling Battlefront II						0	
+repression_levelname_4533	强袭战线-摧坚折锐III	強襲戰線-摧堅折銳III	強襲戦線-力強い突破III	기습 전선-적진 격파III	Pummeling Battlefront III						0	
+repression_levelname_4500	【危险评级I】临时阵地1-1	【危險評級I】臨時陣地1-1	【危険レベルI】仮設陣地1-1	[위험 등급I] 임시 진영1-1	[Danger Level I] Encampment 1-1						0	
+repression_levelname_4501	【危险评级I】临时阵地1-2	【危險評級I】臨時陣地1-2	【危険レベルI】仮設陣地1-2	[위험 등급I] 임시 진영1-2	[Danger Level I] Encampment 1-2						0	
+repression_levelname_4502	【危险评级I】临时阵地2-1	【危險評級I】臨時陣地2-1	【危険レベルI】仮設陣地2-1	[위험 등급I] 임시 진영2-1	[Danger Level I] Encampment 2-1						0	
+repression_levelname_4503	【危险评级I】临时阵地2-2	【危險評級I】臨時陣地2-2	【危険レベルI】仮設陣地2-2	[위험 등급I] 임시 진영2-2	[Danger Level I] Encampment 2-2						0	
+repression_levelname_4504	【危险评级I】临时阵地3-1	【危險評級I】臨時陣地3-1	【危険レベルI】仮設陣地3-1	[위험 등급I] 임시 진영3-1	[Danger Level I] Encampment 3-1						0	
+repression_levelname_4505	【危险评级I】临时阵地3-2	【危險評級I】臨時陣地3-2	【危険レベルI】仮設陣地3-2	[위험 등급I] 임시 진영3-2	[Danger Level I] Encampment 3-2						0	
+repression_levelname_4506	【危险评级II】临时阵地1-1	【危險評級II】臨時陣地1-1	【危険レベルII】仮設陣地1-1	[위험 등급II] 임시 진영1-1	[Danger Level II] Encampment 1-1						0	
+repression_levelname_4507	【危险评级II】临时阵地1-2	【危險評級II】臨時陣地1-2	【危険レベルII】仮設陣地1-2	[위험 등급II] 임시 진영1-2	[Danger Level II] Encampment 1-2						0	
+repression_levelname_4508	【危险评级II】临时阵地1-3	【危險評級II】臨時陣地1-3	【危険レベルII】仮設陣地1-3	[위험 등급II] 임시 진영1-3	[Danger Level II] Encampment 1-3						0	
+repression_levelname_4509	【危险评级II】临时阵地2-1	【危險評級II】臨時陣地2-1	【危険レベルII】仮設陣地2-1	[위험 등급II] 임시 진영2-1	[Danger Level II] Encampment 2-1						0	
+repression_levelname_4510	【危险评级II】临时阵地2-2	【危險評級II】臨時陣地2-2	【危険レベルII】仮設陣地2-2	[위험 등급II] 임시 진영2-2	[Danger Level II] Encampment 2-2						0	
+repression_levelname_4511	【危险评级II】临时阵地2-3	【危險評級II】臨時陣地2-3	【危険レベルII】仮設陣地2-3	[위험 등급II] 임시 진영2-3	[Danger Level II] Encampment 2-3						0	
+repression_levelname_4512	【危险评级II】临时阵地3-1	【危險評級II】臨時陣地3-1	【危険レベルII】仮設陣地3-1	[위험 등급II] 임시 진영3-1	[Danger Level II] Encampment 3-1						0	
+repression_levelname_4513	【危险评级II】临时阵地3-2	【危險評級II】臨時陣地3-2	【危険レベルII】仮設陣地3-2	[위험 등급II] 임시 진영3-2	[Danger Level II] Encampment 3-2						0	
+repression_levelname_4514	【危险评级II】临时阵地3-3	【危險評級II】臨時陣地3-3	【危険レベルII】仮設陣地3-3	[위험 등급II] 임시 진영3-3	[Danger Level II] Encampment 3-3						0	
+repression_levelname_4515	【危险评级III】临时阵地1-1	【危險評級III】臨時陣地1-1	【危険レベルIII】仮設陣地1-1	[위험 등급III] 임시 진영1-1	[Danger Level III] Encampment 1-1						0	
+repression_levelname_4516	【危险评级III】临时阵地1-2	【危險評級III】臨時陣地1-2	【危険レベルIII】仮設陣地1-2	[위험 등급III] 임시 진영1-2	[Danger Level III] Encampment 1-2						0	
+repression_levelname_4517	【危险评级III】临时阵地1-3	【危險評級III】臨時陣地1-3	【危険レベルIII】仮設陣地1-3	[위험 등급III] 임시 진영1-3	[Danger Level III] Encampment 1-3						0	
+repression_levelname_4518	【危险评级III】临时阵地1-4	【危險評級III】臨時陣地1-4	【危険レベルIII】仮設陣地1-4	[위험 등급III] 임시 진영1-4	[Danger Level III] Encampment 1-4						0	
+repression_levelname_4519	【危险评级III】临时阵地2-1	【危險評級III】臨時陣地2-1	【危険レベルIII】仮設陣地2-1	[위험 등급III] 임시 진영2-1	[Danger Level III] Encampment 2-1						0	
+repression_levelname_4520	【危险评级III】临时阵地2-2	【危險評級III】臨時陣地2-2	【危険レベルIII】仮設陣地2-2	[위험 등급III] 임시 진영2-2	[Danger Level III] Encampment 2-2						0	
+repression_levelname_4521	【危险评级III】临时阵地2-3	【危險評級III】臨時陣地2-3	【危険レベルIII】仮設陣地2-3	[위험 등급III] 임시 진영2-3	[Danger Level III] Encampment 2-3						0	
+repression_levelname_4522	【危险评级III】临时阵地2-4	【危險評級III】臨時陣地2-4	【危険レベルIII】仮設陣地2-4	[위험 등급III] 임시 진영2-4	[Danger Level III] Encampment 2-4						0	
+repression_levelname_4523	【危险评级III】临时阵地3-1	【危險評級III】臨時陣地3-1	【危険レベルIII】仮設陣地3-1	[위험 등급III] 임시 진영3-1	[Danger Level III] Encampment 3-1						0	
+repression_levelname_4524	【危险评级III】临时阵地3-2	【危險評級III】臨時陣地3-2	【危険レベルIII】仮設陣地3-2	[위험 등급III] 임시 진영3-2	[Danger Level III] Encampment 3-2						0	
+repression_levelname_4525	【危险评级III】临时阵地3-3	【危險評級III】臨時陣地3-3	【危険レベルIII】仮設陣地3-3	[위험 등급III] 임시 진영3-3	[Danger Level III] Encampment 3-3						0	
+repression_levelname_4526	【危险评级III】临时阵地3-4	【危險評級III】臨時陣地3-4	【危険レベルIII】仮設陣地3-4	[위험 등급III] 임시 진영3-4	[Danger Level III] Encampment 3-4						0	
+repression_levelname_5327	速攻战线-紧急突破I	速攻戰線-緊急突破I	速攻戦線-緊急突破I	속공 전선-긴급 돌파I	Assault Battlefront I						0	
+repression_levelname_5330	速攻战线-紧急突破II	速攻戰線-緊急突破II	速攻戦線-緊急突破II	속공 전선-긴급 돌파II	Assault Battlefront II						0	
+repression_levelname_5333	速攻战线-紧急突破III	速攻戰線-緊急突破III	速攻戦線-緊急突破III	속공 전선-긴급 돌파III	Assault Battlefront III						0	
+repression_levelname_5328	闪击战线-存亡时机I	閃擊戰線-存亡時機I	電光戦線-高速殲滅I	전격 전선-생존의 기로I	Strike Battlefront I						0	
+repression_levelname_5331	闪击战线-存亡时机II	閃擊戰線-存亡時機II	電光戦線-高速殲滅II	전격 전선-생존의 기로II	Strike Battlefront II						0	
+repression_levelname_5334	闪击战线-存亡时机III	閃擊戰線-存亡時機III	電光戦線-高速殲滅III	전격 전선-생존의 기로III	Strike Battlefront III						0	
+repression_levelname_5329	强袭战线-摧坚折锐I	強襲戰線-摧堅折銳I	強襲戦線-力強い突破I	기습 전선-적진 격파I	Pummeling Battlefront I						0	
+repression_levelname_5332	强袭战线-摧坚折锐II	強襲戰線-摧堅折銳II	強襲戦線-力強い突破II	기습 전선-적진 격파II	Pummeling Battlefront II						0	
+repression_levelname_5335	强袭战线-摧坚折锐III	強襲戰線-摧堅折銳III	強襲戦線-力強い突破III	기습 전선-적진 격파III	Pummeling Battlefront III						0	
+repression_levelname_5300	【危险评级I】临时阵地1-1	【危險評級I】臨時陣地1-1	【危険レベルI】仮設陣地1-1	[위험 등급I] 임시 진영1-1	[Danger Level I] Encampment 1-1						0	
+repression_levelname_5301	【危险评级I】临时阵地1-2	【危險評級I】臨時陣地1-2	【危険レベルI】仮設陣地1-2	[위험 등급I] 임시 진영1-2	[Danger Level I] Encampment 1-2						0	
+repression_levelname_5302	【危险评级I】临时阵地2-1	【危險評級I】臨時陣地2-1	【危険レベルI】仮設陣地2-1	[위험 등급I] 임시 진영2-1	[Danger Level I] Encampment 2-1						0	
+repression_levelname_5303	【危险评级I】临时阵地2-2	【危險評級I】臨時陣地2-2	【危険レベルI】仮設陣地2-2	[위험 등급I] 임시 진영2-2	[Danger Level I] Encampment 2-2						0	
+repression_levelname_5304	【危险评级I】临时阵地3-1	【危險評級I】臨時陣地3-1	【危険レベルI】仮設陣地3-1	[위험 등급I] 임시 진영3-1	[Danger Level I] Encampment 3-1						0	
+repression_levelname_5305	【危险评级I】临时阵地3-2	【危險評級I】臨時陣地3-2	【危険レベルI】仮設陣地3-2	[위험 등급I] 임시 진영3-2	[Danger Level I] Encampment 3-2						0	
+repression_levelname_5306	【危险评级II】临时阵地1-1	【危險評級II】臨時陣地1-1	【危険レベルII】仮設陣地1-1	[위험 등급II] 임시 진영1-1	[Danger Level II] Encampment 1-1						0	
+repression_levelname_5307	【危险评级II】临时阵地1-2	【危險評級II】臨時陣地1-2	【危険レベルII】仮設陣地1-2	[위험 등급II] 임시 진영1-2	[Danger Level II] Encampment 1-2						0	
+repression_levelname_5308	【危险评级II】临时阵地1-3	【危險評級II】臨時陣地1-3	【危険レベルII】仮設陣地1-3	[위험 등급II] 임시 진영1-3	[Danger Level II] Encampment 1-3						0	
+repression_levelname_5309	【危险评级II】临时阵地2-1	【危險評級II】臨時陣地2-1	【危険レベルII】仮設陣地2-1	[위험 등급II] 임시 진영2-1	[Danger Level II] Encampment 2-1						0	
+repression_levelname_5310	【危险评级II】临时阵地2-2	【危險評級II】臨時陣地2-2	【危険レベルII】仮設陣地2-2	[위험 등급II] 임시 진영2-2	[Danger Level II] Encampment 2-2						0	
+repression_levelname_5311	【危险评级II】临时阵地2-3	【危險評級II】臨時陣地2-3	【危険レベルII】仮設陣地2-3	[위험 등급II] 임시 진영2-3	[Danger Level II] Encampment 2-3						0	
+repression_levelname_5312	【危险评级II】临时阵地3-1	【危險評級II】臨時陣地3-1	【危険レベルII】仮設陣地3-1	[위험 등급II] 임시 진영3-1	[Danger Level II] Encampment 3-1						0	
+repression_levelname_5313	【危险评级II】临时阵地3-2	【危險評級II】臨時陣地3-2	【危険レベルII】仮設陣地3-2	[위험 등급II] 임시 진영3-2	[Danger Level II] Encampment 3-2						0	
+repression_levelname_5314	【危险评级II】临时阵地3-3	【危險評級II】臨時陣地3-3	【危険レベルII】仮設陣地3-3	[위험 등급II] 임시 진영3-3	[Danger Level II] Encampment 3-3						0	
+repression_levelname_5315	【危险评级III】临时阵地1-1	【危險評級III】臨時陣地1-1	【危険レベルIII】仮設陣地1-1	[위험 등급III] 임시 진영1-1	[Danger Level III] Encampment 1-1						0	
+repression_levelname_5316	【危险评级III】临时阵地1-2	【危險評級III】臨時陣地1-2	【危険レベルIII】仮設陣地1-2	[위험 등급III] 임시 진영1-2	[Danger Level III] Encampment 1-2						0	
+repression_levelname_5317	【危险评级III】临时阵地1-3	【危險評級III】臨時陣地1-3	【危険レベルIII】仮設陣地1-3	[위험 등급III] 임시 진영1-3	[Danger Level III] Encampment 1-3						0	
+repression_levelname_5318	【危险评级III】临时阵地1-4	【危險評級III】臨時陣地1-4	【危険レベルIII】仮設陣地1-4	[위험 등급III] 임시 진영1-4	[Danger Level III] Encampment 1-4						0	
+repression_levelname_5319	【危险评级III】临时阵地2-1	【危險評級III】臨時陣地2-1	【危険レベルIII】仮設陣地2-1	[위험 등급III] 임시 진영2-1	[Danger Level III] Encampment 2-1						0	
+repression_levelname_5320	【危险评级III】临时阵地2-2	【危險評級III】臨時陣地2-2	【危険レベルIII】仮設陣地2-2	[위험 등급III] 임시 진영2-2	[Danger Level III] Encampment 2-2						0	
+repression_levelname_5321	【危险评级III】临时阵地2-3	【危險評級III】臨時陣地2-3	【危険レベルIII】仮設陣地2-3	[위험 등급III] 임시 진영2-3	[Danger Level III] Encampment 2-3						0	
+repression_levelname_5322	【危险评级III】临时阵地2-4	【危險評級III】臨時陣地2-4	【危険レベルIII】仮設陣地2-4	[위험 등급III] 임시 진영2-4	[Danger Level III] Encampment 2-4						0	
+repression_levelname_5323	【危险评级III】临时阵地3-1	【危險評級III】臨時陣地3-1	【危険レベルIII】仮設陣地3-1	[위험 등급III] 임시 진영3-1	[Danger Level III] Encampment 3-1						0	
+repression_levelname_5324	【危险评级III】临时阵地3-2	【危險評級III】臨時陣地3-2	【危険レベルIII】仮設陣地3-2	[위험 등급III] 임시 진영3-2	[Danger Level III] Encampment 3-2						0	
+repression_levelname_5325	【危险评级III】临时阵地3-3	【危險評級III】臨時陣地3-3	【危険レベルIII】仮設陣地3-3	[위험 등급III] 임시 진영3-3	[Danger Level III] Encampment 3-3						0	
+repression_levelname_5326	【危险评级III】临时阵地3-4	【危險評級III】臨時陣地3-4	【危険レベルIII】仮設陣地3-4	[위험 등급III] 임시 진영3-4	[Danger Level III] Encampment 3-4						0	
+repression_levelname_5637	闪击战线-存亡时机I	閃擊戰線-存亡時機I	電光戦線-高速殲滅I	전격 전선-생존의 기로I	Strike Battlefront I						0	
+repression_levelname_5640	闪击战线-存亡时机II	閃擊戰線-存亡時機II	電光戦線-高速殲滅II	전격 전선-생존의 기로II	Strike Battlefront II						0	
+repression_levelname_5643	闪击战线-存亡时机III	閃擊戰線-存亡時機III	電光戦線-高速殲滅III	전격 전선-생존의 기로III	Strike Battlefront III						0	
+repression_levelname_5638	驻防战线-坚守阵地I	駐防戰線-堅守陣地I	防衛戦線-陣地を堅守I	주둔 전선-진영 수비I	Defense Battlefront I						0	
+repression_levelname_5641	驻防战线-坚守阵地II	駐防戰線-堅守陣地II	防衛戦線-陣地を堅守II	주둔 전선-진영 수비II	Defense Battlefront II						0	
+repression_levelname_5644	驻防战线-坚守阵地III	駐防戰線-堅守陣地III	防衛戦線-陣地を堅守III	주둔 전선-진영 수비III	Defense Battlefront III						0	
+repression_levelname_5639	重装战线-雷霆战意I	重裝戰線-雷霆戰意I	重装戦線-雷鳴の闘志Ⅰ	중장 전선-뇌정 전의I	Heavy Battlefront I						0	
+repression_levelname_5642	重装战线-雷霆战意II	重裝戰線-雷霆戰意II	重装戦線-雷鳴の闘志Ⅱ	중장 전선-뇌정 전의II	Heavy Battlefront II						0	
+repression_levelname_5645	重装战线-雷霆战意III	重裝戰線-雷霆戰意III	重装戦線-雷鳴の闘志Ⅲ	중장 전선-뇌정 전의III	Heavy Battlefront III						0	
+repression_levelname_5610	【危险评级I】临时阵地1-1	【危險評級I】臨時陣地1-1	【危険レベルI】仮設陣地1-1	[위험 등급I] 임시 진영1-1	[Danger Level I] Encampment 1-1						0	
+repression_levelname_5611	【危险评级I】临时阵地1-2	【危險評級I】臨時陣地1-2	【危険レベルI】仮設陣地1-2	[위험 등급I] 임시 진영1-2	[Danger Level I] Encampment 1-2						0	
+repression_levelname_5612	【危险评级I】临时阵地2-1	【危險評級I】臨時陣地2-1	【危険レベルI】仮設陣地2-1	[위험 등급I] 임시 진영2-1	[Danger Level I] Encampment 2-1						0	
+repression_levelname_5613	【危险评级I】临时阵地2-2	【危險評級I】臨時陣地2-2	【危険レベルI】仮設陣地2-2	[위험 등급I] 임시 진영2-2	[Danger Level I] Encampment 2-2						0	
+repression_levelname_5614	【危险评级I】临时阵地3-1	【危險評級I】臨時陣地3-1	【危険レベルI】仮設陣地3-1	[위험 등급I] 임시 진영3-1	[Danger Level I] Encampment 3-1						0	
+repression_levelname_5615	【危险评级I】临时阵地3-2	【危險評級I】臨時陣地3-2	【危険レベルI】仮設陣地3-2	[위험 등급I] 임시 진영3-2	[Danger Level I] Encampment 3-2						0	
+repression_levelname_5616	【危险评级II】临时阵地1-1	【危險評級II】臨時陣地1-1	【危険レベルII】仮設陣地1-1	[위험 등급II] 임시 진영1-1	[Danger Level II] Encampment 1-1						0	
+repression_levelname_5617	【危险评级II】临时阵地1-2	【危險評級II】臨時陣地1-2	【危険レベルII】仮設陣地1-2	[위험 등급II] 임시 진영1-2	[Danger Level II] Encampment 1-2						0	
+repression_levelname_5618	【危险评级II】临时阵地1-3	【危險評級II】臨時陣地1-3	【危険レベルII】仮設陣地1-3	[위험 등급II] 임시 진영1-3	[Danger Level II] Encampment 1-3						0	
+repression_levelname_5619	【危险评级II】临时阵地2-1	【危險評級II】臨時陣地2-1	【危険レベルII】仮設陣地2-1	[위험 등급II] 임시 진영2-1	[Danger Level II] Encampment 2-1						0	
+repression_levelname_5620	【危险评级II】临时阵地2-2	【危險評級II】臨時陣地2-2	【危険レベルII】仮設陣地2-2	[위험 등급II] 임시 진영2-2	[Danger Level II] Encampment 2-2						0	
+repression_levelname_5621	【危险评级II】临时阵地2-3	【危險評級II】臨時陣地2-3	【危険レベルII】仮設陣地2-3	[위험 등급II] 임시 진영2-3	[Danger Level II] Encampment 2-3						0	
+repression_levelname_5622	【危险评级II】临时阵地3-1	【危險評級II】臨時陣地3-1	【危険レベルII】仮設陣地3-1	[위험 등급II] 임시 진영3-1	[Danger Level II] Encampment 3-1						0	
+repression_levelname_5623	【危险评级II】临时阵地3-2	【危險評級II】臨時陣地3-2	【危険レベルII】仮設陣地3-2	[위험 등급II] 임시 진영3-2	[Danger Level II] Encampment 3-2						0	
+repression_levelname_5624	【危险评级II】临时阵地3-3	【危險評級II】臨時陣地3-3	【危険レベルII】仮設陣地3-3	[위험 등급II] 임시 진영3-3	[Danger Level II] Encampment 3-3						0	
+repression_levelname_5625	【危险评级III】临时阵地1-1	【危險評級III】臨時陣地1-1	【危険レベルIII】仮設陣地1-1	[위험 등급III] 임시 진영1-1	[Danger Level III] Encampment 1-1						0	
+repression_levelname_5626	【危险评级III】临时阵地1-2	【危險評級III】臨時陣地1-2	【危険レベルIII】仮設陣地1-2	[위험 등급III] 임시 진영1-2	[Danger Level III] Encampment 1-2						0	
+repression_levelname_5627	【危险评级III】临时阵地1-3	【危險評級III】臨時陣地1-3	【危険レベルIII】仮設陣地1-3	[위험 등급III] 임시 진영1-3	[Danger Level III] Encampment 1-3						0	
+repression_levelname_5628	【危险评级III】临时阵地1-4	【危險評級III】臨時陣地1-4	【危険レベルIII】仮設陣地1-4	[위험 등급III] 임시 진영1-4	[Danger Level III] Encampment 1-4						0	
+repression_levelname_5629	【危险评级III】临时阵地2-1	【危險評級III】臨時陣地2-1	【危険レベルIII】仮設陣地2-1	[위험 등급III] 임시 진영2-1	[Danger Level III] Encampment 2-1						0	
+repression_levelname_5630	【危险评级III】临时阵地2-2	【危險評級III】臨時陣地2-2	【危険レベルIII】仮設陣地2-2	[위험 등급III] 임시 진영2-2	[Danger Level III] Encampment 2-2						0	
+repression_levelname_5631	【危险评级III】临时阵地2-3	【危險評級III】臨時陣地2-3	【危険レベルIII】仮設陣地2-3	[위험 등급III] 임시 진영2-3	[Danger Level III] Encampment 2-3						0	
+repression_levelname_5632	【危险评级III】临时阵地2-4	【危險評級III】臨時陣地2-4	【危険レベルIII】仮設陣地2-4	[위험 등급III] 임시 진영2-4	[Danger Level III] Encampment 2-4						0	
+repression_levelname_5633	【危险评级III】临时阵地3-1	【危險評級III】臨時陣地3-1	【危険レベルIII】仮設陣地3-1	[위험 등급III] 임시 진영3-1	[Danger Level III] Encampment 3-1						0	
+repression_levelname_5634	【危险评级III】临时阵地3-2	【危險評級III】臨時陣地3-2	【危険レベルIII】仮設陣地3-2	[위험 등급III] 임시 진영3-2	[Danger Level III] Encampment 3-2						0	
+repression_levelname_5635	【危险评级III】临时阵地3-3	【危險評級III】臨時陣地3-3	【危険レベルIII】仮設陣地3-3	[위험 등급III] 임시 진영3-3	[Danger Level III] Encampment 3-3						0	
+repression_levelname_5636	【危险评级III】临时阵地3-4	【危險評級III】臨時陣地3-4	【危険レベルIII】仮設陣地3-4	[위험 등급III] 임시 진영3-4	[Danger Level III] Encampment 3-4						0	

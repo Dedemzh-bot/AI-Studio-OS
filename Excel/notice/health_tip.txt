@@ -1,0 +1,3 @@
+id	注释	文本Key	触发时间	间隔时间	持续时间	语种	客户端
+id	comment	txtkey	triggerTime	time	duration	language	client
+1	韩服防沉迷	ui.TxtKRHealthTips	18000	7200	60	2	1

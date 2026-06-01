@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	世界上总有事物会超脱于经验之外。	世界上總有事物會超脫於經驗之外。	世の中に経験を越える物事は常に存在しています。	세상에는 경험으로만 설명하기엔 한계가 있는 것들이 늘 존재하기 마련이죠.	Some things in this world are beyond anything we've ever experienced.						0	
+2	理论和数据之上，还有直觉。	理論和知識之上，還有直覺。	理論でも、データでも、直感でも。	이론이나 데이터뿐만 아니라, 직감이라는 것도 존재하니까요.	Beyond theory, data, and even beyond instinct.						0	
+3	我有一位朋友，是她教会了我这些。	我有一位朋友，是她教會了我這些。	ある友人がそれを教えてくれたのです。	제 친한 친구가 제게 알려줬던 것들이에요.	I had a friend — she was the one who taught me that.						0	

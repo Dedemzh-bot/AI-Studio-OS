@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我们已经进入天楼区。	我們已經進入天樓區。	スカイタワーエリアへの侵入に成功した。	우린 이미 스카이 타워에 진입했어.	We've made it into the Towers.						0	
+2	看来所有人都平安降落了……	看來所有人都平安降落了……	全員無事に着陸したようですね……	보아하니 모두들 무사히 착륙한 것 같네요…	Looks like everyone landed safely...						0	
+auto_3017	好了，根据分析员的指示，我这边即将进入静默状态。	好了，根據分析員的指示，我這邊即將進入靜默狀態。	さて、分析員の指示通り、私はここからサイレントモードに入ります。	자, 분석가님 지시대로 전 침묵 모드를 유지하고 있겠습니다.	Alright. According to the Adjutant's instructions, I'm going to remain silent.						0	
+auto_14359	祝大家任务顺利。	祝大家任務順利。	皆さん、ご武運を祈ります。	그럼 다들 행운을 빌게요.	Good luck on the mission, everyone.						0	

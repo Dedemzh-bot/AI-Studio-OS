@@ -1,0 +1,6 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	猫汐尔			前辈，我这边好像遇到了一点小麻烦。	0	
+2		0	晴			说明情况。	0	
+3		0	猫汐尔			郊狼是怎么把机甲运到这里的喵？	0	
+4		0	猫汐尔			看来战前准备十分充分。	0	

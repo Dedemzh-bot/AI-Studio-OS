@@ -1,0 +1,35 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	从熙澜海回来之后，瑟瑞斯似乎有点怪，总是时不时黏在我的身边。	從熙瀾海回來之後，瑟瑞斯似乎有點怪，總是不時黏在我的身邊。	セイラン海から帰ってからというもの、シーリスの様子がおかしい。よく私の傍についてくるようになった。	헬리오라 해에서 돌아온 후, 세리스가 좀 이상해진 것 같다. 자꾸 내 곁에 붙어있으려고 한다.	Ever since we returned from Heliora Sea, Siris has been acting strange. She's always sticking close to me.						0	3.2版本随机事件
+page1.2	比如这里……	比如這裡……	例えばここ……	예를 들면 여기서…	Here...						0	3.2版本随机事件
+page1.3	或者说这里。	或者說這裡。	そしてここ。	또는 여기서.	There...						0	3.2版本随机事件
+page1.4	当然，这里也是。	當然，這裡也是。	もちろん、ここにも。	물론, 여기서도.	Well, everywhere.						0	3.2版本随机事件
+page1.5	另外，她在我身边时的一些小小动作也让我有那么些在意。	另外，她在我身邊時的一些小小動作也讓我有那麼點在意。	それに、私の傍で何かと気になる仕草をするようになった。	게다가 내 곁에 있을 때 그녀가 보이는 작은 행동도 조금 신경 쓰인다.	Also, some of her gestures when she's around me keep catching my attention.						0	3.2版本随机事件
+page1.6	像是喂食、牵手、拉衣角什么的……当然我对此没有任何抵触，只是它发生得有那么些刻意了。	像是餵食、牽手、拉衣角什麼的……當然我對此沒有任何牴觸，只是它發生得有那麼點刻意了。	食事を食べさせてくれたり、手をつないだり、服の裾を引っ張ったりして……もちろん私は別に抵抗はない。ただ、ちょっとわざとらしい気がする。	먹여주기, 손잡기, 옷자락 잡기 등등… 물론 이런 것들이 싫지는 않지만, 조금 인위적인 느낌이 있다.	Feeding me bites of food, slipping her hand into mine, tugging at my sleeve. I don't dislike any of it, but it all feels... deliberate.						0	3.2版本随机事件
+page1.7	瑟瑞斯是个很黏人的女孩……吗？	瑟瑞斯是個很黏人的女孩……嗎？	シーリスって、こんなにべったりする子だっただろうか。	세리스가 애착이 강한 소녀… 였던가?	Is Siris that clingy?						0	3.2版本随机事件
+page1.8	与其说是黏人，倒不如说这更像是……宣誓主权？	與其說是黏人，倒不如說更像是……宣誓主權？	というより……所有権を主張しているつもりなのかもしれない。	애착이라기보다는… 뭔가 주권 선언에 더 가깝달까?	Or... is this more like staking her claim?						0	3.2版本随机事件
+page1.9	这好像不是她的风格吧？	這好像不是她的風格吧？	彼女らしくない。	평소의 그녀와는 조금 다른 것 같은데?	That's so unlike her.						0	3.2版本随机事件
+page1.10	小金鱼，你……是有什么话想对我说吗？	小金魚，你……是有什麼話想對我說嗎？	シーリス、私に何か言いたいことでもあるのか。	골드피시, 나한테… 할 말이라도 있어?	Little Goldfish, is there something you want to tell me?						0	3.2版本随机事件
+page1.11	我找了个机会这么问她。	我找了個機會這麼問她。	タイミングを見計らって聞いてみた。	나는 적당한 때를 골라 이렇게 물어봤다.	I got a chance to ask her.						0	3.2版本随机事件
+page1.12	唔？没，没有哇……我能有什么话说呀？	嗯？沒、沒有啊……我能有什麼話說啊？	え？な、ないよ……なんでそう思うの？	네? 아, 아뇨… 제가 할 말이 뭐가 있겠어요?	Hm? N—No... Really, there's nothing to tell.						0	3.2版本随机事件
+choice01	我感觉你最近好像总和我待在一起，也不知道是不是错觉……	我感覺你最近好像總跟我待在一起，也不知道是不是錯覺……	いや、ただ最近いつも私の傍にいるからさ。気のせいかな。	네가 요즘 계속 나랑 같이 있으려고 하는 것 같은데, 착각인가…?	Feels like you've been spending a lot of time with me lately. Maybe it's just my imagination...						0	3.2版本随机事件
+page2.1	唔……被看出来了啊，分析员果然很敏锐呢。	唔……被看出來了啊，分析員果然很敏銳呢。	う……バレた？分析員ってやっぱり鋭いね。	으음… 눈치챘군요. 분석가님은 역시 예리해요.	Hmm... so you noticed. You are as sharp as ever, Adjutant.						0	3.2版本随机事件
+page2.2	其实也没什么想说的啦……只是觉得待在分析员身边会比较安心。	其實也沒什麼想說的啦……只是覺得待在分析員身邊會比較安心。	別に言いたいことがあるわけじゃないけど……ただ分析員の傍にいると落ち着くというか。	사실 딱히 할 말은 없어요… 그냥 분석가님 곁에 있으면 마음이 놓여요.	It's nothing big, really... I just feel safer when I'm with you.						0	3.2版本随机事件
+page2.3	安心？	安心？	落ち着く？	마음이 놓인다고?	Safer...?						0	3.2版本随机事件
+page2.4	我觉得这大概是恋人之间独有的心灵感应吧。	我覺得這大概是戀人之間特有的心靈感應吧。	たぶん、恋人の間にだけ存在するテレパシーだと思う。	아마 연인들만이 가질 수 있는 텔레파시 같은 거겠죠.	I think it's something only lovers share. An intimate connection.						0	3.2版本随机事件
+page2.5	我也不知道该怎么去形容这种感觉，但是，心里总有一个声音在提醒我。	我也不知道該怎麼去形容這種感覺，但是，心裡總是有個聲音在提醒我。	どうやって説明したらいいかわからないけど、ただ心の中からずっと声が聞こえてきて。	이런 느낌을 어떻게 설명해야 할지 모르겠지만, 마음속에서 계속 어떤 목소리가 들려와요.	I can't really put it into words, but there's always a voice in my heart telling me:						0	3.2版本随机事件
+page2.6	要多关心分析员喜欢吃什么，多关心分析员喜欢看什么，多关心分析员喜欢做什么……	要多關心分析員喜歡吃什麼，多關心分析員喜歡看什麼，多關心分析員喜歡做什麼……	分析員が何を食べるのが好きか、分析員が何を見るのが好きか、分析員が何をするのが好きか……	분석가님이 뭘 좋아하는지, 뭘 보고 싶어 하는지, 뭘 하고 싶어 하는지 계속 신경 써야 한다고요…	"Pay more attention to what the Adjutant likes to eat, what he likes to watch, what he likes to do..."						0	3.2版本随机事件
+page2.7	恋人之间本来就该这样对吧？	戀人之間本來就該這樣對吧？	恋人同士って、そういうことも気にかけるものだよね？	연인 사이에 이런 건 당연한 게 아닐까요?	That's what couples are supposed to do, right?						0	3.2版本随机事件
+page2.8	倒也有些道理。	倒是有點道理。	確かに。	일리가 있네.	That does make sense.						0	3.2版本随机事件
+page2.9	不过，你最近的表现是不是有些……有些特别？	不過，你最近的表現是不是有點……有點特別？	でも最近の様子は少し、普通じゃないような。	그래도 요즘 너의 행동은 좀… 특별해졌달까?	But lately, haven't you been acting a little... differently?						0	3.2版本随机事件
+page2.10	我斟酌着词句。	我斟酌著說出詞句。	私は言葉遣いを考えた。	나는 단어를 신중히 골랐다.	I chose my words carefully.						0	3.2版本随机事件
+page2.11	我的意思是，和以前有些不太一样了。	我的意思是，和以前有點不太一樣了。	これまでと何か違う気がしているんだ。	그러니까, 이전과는 좀 달라졌다는 거야.	What I mean is, it's not quite like how you used to be.						0	3.2版本随机事件
+page2.12	诶？我只是想让大家都看到而已啦……	欸？我只是想讓大家都看到而已啦……	えっ？みんなに見せたいだけなのに……	네? 저는 그냥 모두가 봤으면 해서…	Oh? I just want everyone to see, that's all...						0	3.2版本随机事件
+page2.13	……？	……？	……？	……?	...?						0	3.2版本随机事件
+page2.14	好不容易才和分析员走到这一步的……如果可以的话，我想让所有人都知道，最好能亲眼看到才好。	好不容易才和分析員走到這一步的……如果可以的話，我想讓所有人都知道，最好能親眼看到才好。	やっと分析員とこんな関係になれたんだから……できることなら、みんなに知ってほしいし、自分の目で見てもらいたい。	겨우겨우 분석가님이랑 이런 사이까지 왔는데… 이왕이면 모두가 알게 됐으면 좋겠어요. 직접 보면 더 좋겠고요.	After all the effort it took to get this far with you... if I could, I'd want everyone to know. To see it with their own eyes.						0	3.2版本随机事件
+page2.15	这么说着，瑟瑞斯还很肯定地点了点头。	這麼說著時，瑟瑞斯還很肯定地點了點頭。	そう言いながら、シーリスはしっかりと頷いた。	세리스는 이렇게 말하며 확신에 찬 듯이 고개를 끄덕였다.	Siris gave a firm nod as she said this.						0	3.2版本随机事件
+page2.16	我还真没料到她会如此一本正经地和我聊“宣誓主权”的话题。	我還真沒料到她會這樣一本正經地和我聊「宣誓主權」的話題。	まさか彼女がこんなに真面目に「所有権」の話をするとは思わなかった。	그녀가 이렇게 진지하게 '주권 선언'에 대한 이야기를 꺼낼 줄은 몰랐다.	I hadn't expected her to be so direct and serious about "staking her claim."						0	3.2版本随机事件
+page2.17	不过既然她都这么说了……	不過既然她都這麼說了……	でも彼女がそこまで言うなら……	하지만 그녀가 그렇게 말한다면야…	But since she put it that way...						0	3.2版本随机事件
+page2.18	不……不可以吗？	不……不可以嗎？	だ……だめかな？	아… 안 되나요?	Was that... not okay?						0	3.2版本随机事件
+page2.19	那当然是可以的。	那當然是可以的。	だめじゃないさ。	당연히 되지.	Of course it is.						0	3.2版本随机事件
+page2.20	满足一下瑟瑞斯小小的愿望，又有何不可呢？	滿足一下瑟瑞斯小小的願望，又有何不可呢？	シーリスの小さな願いを叶えてやってもいいんじゃないか。	세리스의 작은 소원인데, 안 들어줄 이유가 있을까?	After all, what's the harm in satisfying Siris' small request?						0	3.2版本随机事件

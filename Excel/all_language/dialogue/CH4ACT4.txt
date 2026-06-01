@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这事情，唉……就没有商量的余地了吗？	這事情，唉……就沒有商量的餘地了嗎？	はぁ……もう話し合う余地はないの？	더 이상… 협상의 여지가 없는 걸까?	Is this, *sigh*, non-negotiable?						0	
+3	商量什么？坦白从宽，抗拒从严？	商量什麼？坦白從寬，抗拒從嚴？	話し合う？罪を認めろとでも言えばいいのかしら？	여기서 뭘 더 협상하자는 건데? 뭘 해도 이미 선 넘은 거라고.	What are we negotiating? Mercy in defeat?						0	
+auto_3	对方可是看见我们就会开火哦。	對方可是看見我們就會開火哦。	向こうはこっちを見るなり撃ってきてんのよ。	녀석들을 봐. 우리한테 닥치는 대로 공격을 퍼붓고 있는데?	When the enemy sees us, they'll shoot.						0	
+4	分析员……你能不能，再好好考虑考虑？	分析員……你能不能再好好考慮考慮？	分析員……もう一度、ちゃんと考えてくれないか？	분석가… 다시 한번 신중하게 생각해 보는 건 어때?	Adjutant... could you please think about it some more?						0	

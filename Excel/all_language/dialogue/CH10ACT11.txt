@@ -1,0 +1,7 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	妮塔！你怎么了！	妮塔！你怎麼了！	どうしたの？ニタ！	니타! 무슨 일이야!	Nita! What happened?						0	
+2	啊哈哈……是泰坦污染，不过应该还……撑得住！	啊哈哈……是泰坦汙染，不過應該還……撐得住！	あはは……タイタン汚染だ。でもまだ……大丈夫！	아하하… 타이탄 오염 때문에… 그래도 아직까지는 견딜만해!	Ahaha... It's Titan contamination, but I'll... I'll be OKAY!						0	
+3	快点快点！马上就能完成任务了！	快點快點！馬上就能完成任務了！	急いで！すぐ任務を終わらせるわ！	서둘러! 고지가 눈앞이야!	Get moving! We're almost there!						0	
+4	然后一起离开这个鬼地方！	然後一起離開這個鬼地方！	そしたらさっさとこの不気味な場所から出ましょ！	서둘러 끝내고, 이 지긋지긋한 곳 좀 떠나자!	Then can we all get out of here together?						0	
+5	这种话不能轻易说出口……	這種話不能輕易說出口……	そういうセリフはあまり言わない方が……	그렇게 쉽게 말할 수 있는 건 아닌 것 같아…	Be cautious about what you say...						0	

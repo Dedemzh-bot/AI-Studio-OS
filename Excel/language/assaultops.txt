@@ -1,0 +1,403 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+FunctionType1	区域轰炸	0	智械大类1
+FunctionType2	蜂群打击	0	智械大类2
+FunctionType3	钢铁防线	0	3.7赛季2智械大类3
+			
+ChipsType1	智械	0	智械搭配页签1
+ChipsType2	芯片	0	智械搭配页签2
+			
+ChipsFilterNull	没有符合当前筛选条件的结果，请尝试切换筛选条件	0	筛选为空返回提示
+			
+ChipsType1_Tag1	智械	0	芯片筛选大类1Tag1
+ChipsType1_Tag2	核心芯片	0	芯片筛选大类1Tag2
+ChipsType1_Tag3	协同芯片	0	芯片筛选大类1Tag3
+			
+ChipsType2_Tag1	智械续航	0	芯片筛选大类2Tag1
+ChipsType2_Tag2	角色增幅	0	芯片筛选大类2Tag2
+ChipsType2_Tag3	智械增幅	0	芯片筛选大类2Tag3
+ChipsType2_Tag4	物品破坏	0	芯片筛选大类2Tag4
+ChipsType2_Tag5	控制强化	0	芯片筛选大类2Tag5
+ChipsType2_Tag6	范围强化	0	芯片筛选大类2Tag6
+			
+ChipsGroup1	预设1	0	芯片组可保存预设组1
+ChipsGroup2	预设2	0	芯片组可保存预设组2
+ChipsGroup3	预设3	0	芯片组可保存预设组3
+ChipsGroupUse	启用	0	芯片组激活使用
+ChipsGroupUsed	启用中	0	芯片组正在使用
+ChipsGroupUsedTip	已成功切换至【%s】	0	芯片组成功切换提示
+			
+SystemAutoEquipByLevel	智械库等级提升，已自动更新智械搭配	0	因智械库等级提升更新装备芯片
+SystemAutoEquipByChips	检测到高级芯片迭代，已自动更新智械搭配	0	因分支芯片品质更新装备芯片
+SystemAutoEquipName1	战术打击	0	系统推荐1标题
+SystemAutoEquipDescription1	使用各种强力的区域轰炸进行火力覆盖，可以对范围内敌方目标造成有效伤害	0	系统推荐1描述
+SystemAutoEquipName2	协同作战	0	系统推荐2标题
+SystemAutoEquipDescription2	携带各类无人机共同战斗，对敌方目标进行精准攻击的同时，还可以为我方队员提供增幅	0	系统推荐2描述
+SystemAutoEquipName3	钢铁防线	0	3.7新增系统推荐3标题
+SystemAutoEquipDescription3	可长时间存在的炮台在部署后会自动攻击附近敌方目标，可根据该特性自由搭配，组合成各种临时小型阵地	0	3.7新增系统推荐3描述
+			
+ActivityPointsName	清理值获取说明	0	限时难度贡献值说明标题
+ActivityPointsDescription	【高危禁区】开启期间，每次通关【险境边缘】可获得20点清理值，完成任意一个限时挑战后即可最多额外获得10点清理值；每次通关【高危禁区】可获得30点清理值，完成任意一个限时挑战后即可最多额外获得20点清理值	0	限时难度贡献值说明详情
+ActivityPointsFinish	已完成	0	限时难度贡献值说明详情
+			
+BpUnlock	%s级	0	BP解锁提示
+BpActivate	已激活【%s】，获得全域协议后将强化该智械凭证	0	BP激活提示
+BPCheck	当前所选【%s】已完全解锁，仅供查看，切换页面后将重置奖励预览	0	满级BP查看提示
+BpAutoActivate	当前的【%s】已满级，自动激活未满级的【%s】，相关奖励请前往智械库领取	0	系统自动切换提示
+			
+Bp1Name	智械凭证·区域轰炸	0	投放BP1名称
+Bp1Description	远程呼叫世界树支援，打击指定区域，可造成大范围伤害。通过芯片调整智械功能，使其拥有额外效果；根据安装芯片的不同，智械拥有不同使用间隔和可使用上限	0	投放BP1说明
+Bp2Name	智械凭证·蜂群打击	0	投放BP2名称
+Bp2Description	作战用蜂群无人机战斗群，可在任务过程中部署无人机。无人机除了自动锁敌外，还可以为天启者们提供增幅。通过芯片调整无人机功能，增强其作战能力	0	投放BP2说明
+Bp3Name	智械凭证·钢铁防线	0	投放BP3名称
+Bp3Description	可长时间存在的炮台在部署后会自动攻击附近敌方目标，可根据该特性自由搭配，组合成各种临时小型阵地	0	投放BP3说明
+			
+			
+Chips_SkillName1	毁灭爆破	0	智械技能1名称
+Chips_SkillName1_use	毁灭爆破	0	智械技能1名称
+Chips_SkillDescription1	投放<span color="#437AD4">1</>枚重型炸弹，可造成大范围爆炸，对敌方目标造成动能伤害，对我方队员造成一定比例的动能伤害	0	智械技能1说明
+Chips_SkillName2	广域爆破	0	智械技能2名称
+Chips_SkillName2_use	广域爆破	0	智械技能2名称
+Chips_SkillDescription2	从标记点向前，投放小型炸弹，造成多次小范围爆炸，对敌方目标造成高热伤害，对我方队员造成一定比例的高热伤害	0	智械技能2说明
+Chips_SkillName3	轨道光束	0	智械技能3名称
+Chips_SkillName3_use	轨道光束	0	智械技能3名称
+Chips_SkillDescription3	向标记点发射激光，在<span color="#437AD4">{1}</>秒内每秒对敌方目标造成动能伤害，对我方队员造成一定比例的动能伤害，激光可在一定范围内追踪敌方目标	0	智械技能3说明
+Chips_SkillName4	哨戒无人机	0	智械技能4名称
+Chips_SkillName4_use	哨戒无人机	0	智械技能4名称
+Chips_SkillDescription4	部署<span color="#437AD4">1</>架哨戒无人机跟随我方队员，哨戒无人机使用机枪自动攻击周围的敌方目标，对敌方目标造成动能伤害。哨戒无人机在场时部署者射击伤害提升<span color="#437AD4">{1}%</>、射击速度提升<span color="#437AD4">{2}%</>	0	智械技能4说明
+Chips_SkillName5	导弹无人机	0	智械技能5名称
+Chips_SkillName5_use	导弹无人机	0	智械技能5名称
+Chips_SkillDescription5	布置<span color="#437AD4">1</>架导弹无人机跟随我方队员，周期性发射导弹攻击敌方目标，对敌方目标造成动能伤害，导弹无人机在场一定时间后自动离场；导弹无人机在场时部署者最大生命提升<span color="#437AD4">{1}%</>，移动速度提升<span color="#437AD4">{2}%</>，耐力回复速度提升<span color="#437AD4">{3}%</>	0	智械技能5说明
+Chips_SkillName6	焦点无人机	0	智械技能6名称
+Chips_SkillName6_use	焦点无人机	0	智械技能6名称
+Chips_SkillDescription6	部署<span color="#437AD4">1</>架焦点无人机，无人机锁定敌方目标后持续向目标方向攻击，对敌方目标造成动能伤害；焦点无人机在场时部署者常规技伤害提升<span color="#437AD4">{1}%</>、常规能量回复速度提升<span color="#437AD4">{2}%</>	0	智械技能6说明
+Chips_SkillName7	电磁炮台	0	3.7新增智械技能7名称
+Chips_SkillName7_use	电磁炮台	0	3.7新增智械技能7名称
+Chips_SkillName7_des	锁定1个目标，周期性发射小型球状电磁炮，命中后造成电击类型伤害，部署后持续<span color="#437AD4">{1}</>秒，部署间隔<span color="#437AD4">{2}</>秒\n所有炮台共享部署上限，携带时使总部署上限<span color="#437AD4">+1</>	0	3.7新增智械技能7说明
+Chips_SkillDescription7	锁定1个目标，周期性发射小型球状电磁炮，命中后造成电击类型伤害，部署后持续<span color="#437AD4">{1}</>秒，部署间隔<span color="#437AD4">{2}</>秒\n所有炮台共享部署上限，携带时使总部署上限<span color="#437AD4">+1</>	0	3.7新增智械技能7说明
+Chips_SkillName8	地鸣炮台	0	3.7新增智械技能8名称
+Chips_SkillName8_use	地鸣炮台	0	3.7新增智械技能8名称
+Chips_SkillName8_des	锁定1个目标，每<span color="#437AD4">{1}</>秒向目标所在区域进行范围攻击，造成动能类型伤害，部署后持续<span color="#437AD4">{2}</>秒，部署间隔<span color="#437AD4">{3}</>秒\n所有炮台共享部署上限，携带时使总部署上限<span color="#437AD4">+1</>	0	3.7新增智械技能8说明
+Chips_SkillDescription8	锁定1个目标，每<span color="#437AD4">{1}</>秒向目标所在区域进行范围攻击，造成动能类型伤害，部署后持续<span color="#437AD4">{2}</>秒，部署间隔<span color="#437AD4">{3}</>秒\n所有炮台共享部署上限，携带时使总部署上限<span color="#437AD4">+1</>	0	3.7新增智械技能8说明
+Chips_SkillName9	爆破炮台	0	3.7新增智械技能9名称
+Chips_SkillName9_use	爆破炮台	0	3.7新增智械技能9名称
+Chips_SkillName9_des	在目标位置部署长时间存在的火箭发射器，向目标持续攻击，造成范围动能伤害，部署后持续<span color="#437AD4">{1}</>秒，部署间隔<span color="#437AD4">{2}</>秒\n所有炮台共享部署上限，携带时使总部署上限<span color="#437AD4">+1</>	0	3.7新增智械技能9说明
+Chips_SkillDescription9	在目标位置部署长时间存在的火箭发射器，向目标持续攻击，造成范围动能伤害，部署后持续<span color="#437AD4">{1}</>秒，部署间隔<span color="#437AD4">{2}</>秒\n所有炮台共享部署上限，携带时使总部署上限<span color="#437AD4">+1</>	0	3.7新增智械技能9说明
+			
+Chips_MainName1	核心·即刻冷却	0	3.5智械核心1名称
+Chips_MainName1_use	核心·即刻冷却	0	3.5智械核心1名称
+Chips_MainName1_des	所有区域轰炸类智械减少全部初始使用间隔，可使用上限+1；天启者的攻击力增加700，造成的伤害提升22.5%	0	3.5智械核心1商店说明
+Chips_MainDescription1	所有区域轰炸类智械减少全部初始使用间隔，可使用上限<span color="#437AD4">+{1}</>\n天启者的攻击力增加<span color="#437AD4">{2}</>，造成的伤害提升<span color="#437AD4">{3}%</>	0	3.5智械核心1局内说明
+Chips_MainName2	核心·全面激活	0	3.5智械核心2名称
+Chips_MainName2_use	核心·全面激活	0	3.5智械核心2名称
+Chips_MainName2_des	所有区域轰炸类智械使用间隔降低40%；天启者的攻击力增加700，技能急速增加50	0	3.5智械核心2商店说明
+Chips_MainDescription2	所有区域轰炸类智械使用间隔降低<span color="#437AD4">{1}%</>\n天启者的攻击力增加<span color="#437AD4">{2}</>，技能急速增加<span color="#437AD4">{3}</>	0	3.5智械核心2局内说明
+Chips_MainName3	核心·限制突破	0	3.5智械核心3名称
+Chips_MainName3_use	核心·限制突破	0	3.5智械核心3名称
+Chips_MainName3_des	所有区域轰炸类智械受天启者攻击力加成，造成的伤害提升；天启者的攻击力增加700，暴击伤害增幅提升30%	0	3.5智械核心3商店说明
+Chips_MainDescription3	所有区域轰炸类智械受天启者攻击力加成，造成的伤害提升\n天启者的攻击力增加<span color="#437AD4">{1}</>，暴击伤害增幅提升<span color="#437AD4">{2}%</>	0	3.5智械核心3局内说明
+Chips_MainName4	核心·极速部署	0	3.5智械核心4名称
+Chips_MainName4_use	核心·极速部署	0	3.5智械核心4名称
+Chips_MainName4_des	每次部署无人机时，使其他无人机的使用间隔的剩余时间降低50%；天启者的攻击力增加700，造成的伤害提升22.5%	0	3.5智械核心4商店说明
+Chips_MainDescription4	每次部署无人机时，使其他无人机的使用间隔的剩余时间降低<span color="#437AD4">{1}%</>\n天启者的攻击力增加<span color="#437AD4">{2}</>，造成的伤害提升<span color="#437AD4">{3}%</>	0	3.5智械核心4局内说明
+Chips_MainName5	核心·增幅阵列	0	3.5智械核心5名称
+Chips_MainName5_use	核心·增幅阵列	0	3.5智械核心5名称
+Chips_MainName5_des	每次部署无人机，使天启者的攻击力、防御力、最大生命在30秒内提升7%，最多可叠加5层；天启者的攻击力增加700，技能急速增加50	0	3.5智械核心5商店说明
+Chips_MainDescription5	每次部署无人机，使天启者的攻击力、防御力、最大生命在<span color="#437AD4">{1}</>秒内提升<span color="#437AD4">{2}%</>，最多可叠加<span color="#437AD4">{3}</>层\n天启者的攻击力增加<span color="#437AD4">{4}</>，技能急速增加<span color="#437AD4">{5}</>	0	3.5智械核心5局内说明
+Chips_MainName6	核心·超载武装	0	3.5智械核心6名称
+Chips_MainName6_use	核心·超载武装	0	3.5智械核心6名称
+Chips_MainName6_des	所有无人机造成的伤害提升200%，天启者的攻击力增加700，天启者暴击伤害增幅提升30%	0	3.5智械核心6商店说明
+Chips_MainDescription6	所有无人机造成的伤害提升<span color="#437AD4">{1}%</>\n天启者的攻击力增加<span color="#437AD4">{2}</>，暴击伤害增幅提升<span color="#437AD4">{3}%</>	0	3.5智械核心6局内说明
+Chips_MainName7	核心·重械和鸣	0	3.7智械核心7名称
+Chips_MainName7_use	核心·重械和鸣	0	3.7智械核心7名称
+Chips_MainName7_des	所有炮台智械总部署上限+1，且炮台智械可以吸引敌方的火力；天启者的攻击力增加700，造成的伤害提升22.5%	0	3.7智械核心7商店说明
+Chips_MainDescription7	所有炮台总部署上限增加<span color="#437AD4">{1}</>，且炮台可以吸引敌人的火力\n天启者的攻击力增加<span color="#437AD4">{2}</>，造成的伤害提升<span color="#437AD4">{3}%</>	0	3.7智械核心7局内说明
+Chips_MainName8	核心·烈星轰击	0	3.7智械核心8名称
+Chips_MainName8_use	核心·烈星轰击	0	3.7智械核心8名称
+Chips_MainName8_des	炮台部署后进入饱和发射状态，造成的伤害提升100%，持续时间降低50%；天启者的攻击力增加700，技能急速增加50	0	3.7智械核心8商店说明
+Chips_MainDescription8	炮台部署后进入饱和发射状态，造成的伤害提升<span color="#437AD4">{1}%</>，持续时间降低<span color="#437AD4">{2}%</>\n天启者的攻击力增加<span color="#437AD4">{3}</>，技能急速增加<span color="#437AD4">{4}</>	0	3.7智械核心8局内说明
+Chips_MainName9	核心·威震远境	0	3.7智械核心9名称
+Chips_MainName9_use	核心·威震远境	0	3.7智械核心9名称
+Chips_MainName9_des	所有炮台部署后，射程与索敌距离提升50%，且攻击间隔降低25%；天启者的攻击力增加700，天启者暴击伤害增幅提升30%	0	3.7智械核心9商店说明
+Chips_MainDescription9	所有炮台部署后，射程与索敌距离提升<span color="#437AD4">{1}%</>，且攻击间隔降低<span color="#437AD4">{2}%</>\n天启者的攻击力增加<span color="#437AD4">{3}</>，暴击伤害增幅提升<span color="#437AD4">{4}%</>	0	3.7智械核心9局内说明
+			
+			
+			
+Chips_BranchName1	协同·次声震荡	0	智械分支1名称
+Chips_BranchName1_use	协同·次声震荡	0	智械分支1名称
+Chips_BranchName1_des	毁灭爆破将产生次声波，对范围内所有可破坏目标额外造成300点物品破坏力；天启者的攻击力增加315，最大生命增加975	0	智械分支1商店说明
+Chips_BranchDescription1	毁灭爆破将产生次声波，对范围内所有可破坏目标额外造成<span color="#437AD4">{1}</>点物品破坏力\n天启者的攻击力增加<span color="#437AD4">{2}</>，最大生命增加<span color="#437AD4">{3}</>	0	智械分支1局内说明(可升级)
+Chips_BranchName2	协同·凝滞力场	0	智械分支2名称
+Chips_BranchName2_use	协同·凝滞力场	0	智械分支2名称
+Chips_BranchName2_des	毁灭爆破对敌方目标造成的伤害提升90%，爆炸后生成凝滞力场，区域内所有敌方目标移动速度降低80%；天启者的攻击力增加225，防御力增加80	0	智械分支2商店说明
+Chips_BranchDescription2	毁灭爆破对敌方目标造成的伤害提升<span color="#437AD4">{1}%</>，爆炸后生成凝滞力场，区域内所有敌方目标移动速度降低<span color="#437AD4">{2}%</>\n天启者的攻击力增加<span color="#437AD4">{3}</>，防御力增加<span color="#437AD4">{4}</>	0	智械分支2局内说明(可升级)
+Chips_BranchName3	协同·高能燃料	0	智械分支3名称
+Chips_BranchName3_use	协同·高能燃料	0	智械分支3名称
+Chips_BranchName3_des	广域爆破将留下持续燃烧10秒的区域，每秒对敌方目标造成高热伤害；天启者的攻击力增加270，最大生命增加1300	0	智械分支3商店说明
+Chips_BranchDescription3	广域爆破将留下持续燃烧<span color="#437AD4">{1}</>秒的区域，每秒对敌方目标造成高热伤害\n天启者的攻击力增加<span color="#437AD4">{2}</>，最大生命增加<span color="#437AD4">{3}</>	0	智械分支3局内说明(可升级)
+Chips_BranchName4	协同·地毯轰炸	0	智械分支4名称
+Chips_BranchName4_use	协同·地毯轰炸	0	智械分支4名称
+Chips_BranchName4_des	广域爆破的覆盖范围提升50%，造成的伤害提升100%；天启者的最大生命增加1950，防御力增加64	0	智械分支4商店说明
+Chips_BranchDescription4	广域爆破的覆盖范围提升<span color="#437AD4">{1}%</>，造成的伤害提升<span color="#437AD4">{2}%</>\n天启者的最大生命增加<span color="#437AD4">{3}</>，防御力增加<span color="#437AD4">{4}</>	0	智械分支4局内说明(可升级)
+Chips_BranchName5	协同·镭射指引	0	智械分支5名称
+Chips_BranchName5_use	协同·镭射指引	0	智械分支5名称
+Chips_BranchName5_des	轨道光束更加精准，在6秒内每秒发射1次激光，每次激光造成动能伤害；攻击标记附近的随机敌方目标，不会锁定到我方队员；天启者的最大生命增加1300，防御力增加96	0	智械分支5商店说明
+Chips_BranchDescription5	轨道光束更加精准，在<span color="#437AD4">{1}</>秒内每秒发射<span color="#437AD4">{2}</>次激光，每次激光造成动能伤害；攻击标记附近的随机敌方目标，不会锁定到我方队员\n天启者的最大生命增加<span color="#437AD4">{3}</>，防御力增加<span color="#437AD4">{4}</>	0	智械分支5局内说明(可升级)
+Chips_BranchName6	协同·过载冷凝	0	智械分支6名称
+Chips_BranchName6_use	协同·过载冷凝	0	智械分支6名称
+Chips_BranchName6_des	轨道光束持续时间增加至9秒；天启者的攻击力增加180，防御力增加96	0	智械分支6商店说明
+Chips_BranchDescription6	轨道光束持续时间增加至<span color="#437AD4">{1}</>秒\n天启者的攻击力增加<span color="#437AD4">{2}</>，防御力增加<span color="#437AD4">{3}</>	0	智械分支6局内说明(可升级)
+Chips_BranchName7	协同·无限火力	0	智械分支7名称
+Chips_BranchName7_use	协同·无限火力	0	智械分支7名称
+Chips_BranchName7_des	哨戒无人机在场时，部署者射击不消耗弹药，射击伤害提升5%；天启者的最大生命增加1625，防御力增加80	0	智械分支7商店说明
+Chips_BranchDescription7	哨戒无人机在场时，部署者射击<span color="#437AD4">不消耗弹药</>，射击伤害提升<span color="#437AD4">{1}%</>\n天启者的最大生命增加<span color="#437AD4">{2}</>，防御力增加<span color="#437AD4">{3}</>	0	智械分支7局内说明(可升级)
+Chips_BranchName8	协同·枪阵极限	0	智械分支8名称
+Chips_BranchName8_use	协同·枪阵极限	0	智械分支8名称
+Chips_BranchName8_des	哨戒无人机造成的伤害提升200%；天启者的攻击力增加135，防御力增加112	0	智械分支8商店说明
+Chips_BranchDescription8	哨戒无人机造成的伤害提升<span color="#437AD4">{1}%</>\n天启者的攻击力增加<span color="#437AD4">{2}</>，防御力增加<span color="#437AD4">{3}</>	0	智械分支8局内说明(可升级)
+Chips_BranchName9	协同·愈合脉冲	0	智械分支9名称
+Chips_BranchName9_use	协同·愈合脉冲	0	智械分支9名称
+Chips_BranchName9_des	导弹无人机在场时，部署者每秒回复1%的生命，并获得抗打断效果；天启者的攻击力增加315，最大生命增加975	0	智械分支9商店说明
+Chips_BranchDescription9	导弹无人机在场时，部署者每秒回复<span color="#437AD4">{1}%</>的生命，并获得<span color="#437AD4">抗打断</>效果\n天启者的攻击力增加<span color="#437AD4">{2}</>，最大生命增加<span color="#437AD4">{3}</>	0	智械分支9局内说明(可升级)
+Chips_BranchName10	协同·肃清计划	0	智械分支10名称
+Chips_BranchName10_use	协同·肃清计划	0	智械分支10名称
+Chips_BranchName10_des	导弹无人机造成的伤害提升100%，物品破坏力提升100%；天启者的攻击力增加225，防御力增加80	0	智械分支10商店说明
+Chips_BranchDescription10	导弹无人机造成的伤害提升<span color="#437AD4">{1}%</>，物品破坏力提升<span color="#437AD4">{2}%</>\n天启者的攻击力增加<span color="#437AD4">{3}</>，防御力增加<span color="#437AD4">{4}</>	0	智械分支10局内说明(可升级)
+Chips_BranchName11	协同·聚变催化	0	智械分支11名称
+Chips_BranchName11_use	协同·聚变催化	0	智械分支11名称
+Chips_BranchName11_des	焦点无人机在场时，部署者每2秒恢复1点爆发能量，并使爆发技伤害提升50%；天启者的攻击力增加180，最大生命增加1950	0	智械分支11商店说明
+Chips_BranchDescription11	焦点无人机在场时，部署者每<span color="#437AD4">{1}</>秒恢复<span color="#437AD4">{2}</>点爆发能量，并使爆发技伤害提升<span color="#437AD4">{3}%</>\n天启者的攻击力增加<span color="#437AD4">{4}</>，最大生命增加<span color="#437AD4">{5}</>	0	智械分支11局内说明(可升级)
+Chips_BranchName12	协同·熔毁射线	0	智械分支12名称
+Chips_BranchName12_use	协同·熔毁射线	0	智械分支12名称
+Chips_BranchName12_des	焦点无人机造成的伤害变为高热伤害，每次对目标造成伤害时，使目标防御力降低10%，最多降低30%，持续时间10秒；天启者的最大生命增加1950，防御力增加64	0	智械分支12商店说明
+Chips_BranchDescription12	焦点无人机造成的伤害变为高热伤害，每次对目标造成伤害时，使目标防御力降低<span color="#437AD4">{1}%</>，最多降低<span color="#437AD4">{2}%</>，持续时间<span color="#437AD4">{3}</>秒\n天启者的最大生命增加<span color="#437AD4">{4}</>，防御力增加<span color="#437AD4">{5}</>	0	智械分支12局内说明(可升级)
+Chips_BranchName13	协同·磁轨增速	0	3.7新增智械分支13名称
+Chips_BranchName13_use	协同·磁轨增速	0	3.7新增智械分支13名称
+Chips_BranchName13_des	为电磁炮台增加磁轨，大幅度提升小型球状电磁炮飞行速度，并使命中时造成的伤害提升35%；天启者的最大生命增加1625，防御力增加80	0	3.7新增智械分支13商店说明
+Chips_BranchDescription13	为电磁炮台增加磁轨，大幅度提升小型球状电磁炮飞行速度，并使命中时造成的伤害提升<span color="#437AD4">{1}%</>\n天启者的最大生命增加<span color="#437AD4">{2}</>，防御力增加<span color="#437AD4">{3}</>	0	3.7新增智械分支13局内说明(可升级)
+Chips_BranchName14	协同·高频轰击	0	3.7新增智械分支14名称
+Chips_BranchName14_use	协同·高频轰击	0	3.7新增智械分支14名称
+Chips_BranchName14_des	电磁炮台发射间隔降低35%；天启者的攻击力增加135，防御力增加112	0	3.7新增智械分支14商店说明
+Chips_BranchDescription14	电磁炮台发射间隔降低<span color="#437AD4">{1}%</>\n天启者的攻击力增加<span color="#437AD4">{2}</>，防御力增加<span color="#437AD4">{3}</>	0	3.7新增智械分支14局内说明(可升级)
+Chips_BranchName15	协同·全境锁定	0	3.7新增智械分支15名称
+Chips_BranchName15_use	协同·全境锁定	0	3.7新增智械分支15名称
+Chips_BranchName15_des	地鸣炮台的覆盖范围和爆炸范围提升50%，造成的伤害增加35/50%；天启者的攻击力增加315，最大生命增加975	0	3.7新增智械分支15商店说明
+Chips_BranchDescription15	地鸣炮台的覆盖范围和爆炸范围提升<span color="#437AD4">{1}%</>，造成的伤害增加<span color="#437AD4">{2}%</>\n天启者的攻击力增加<span color="#437AD4">{3}</>，最大生命增加<span color="#437AD4">{4}</>	0	3.7新增智械分支15局内说明(可升级)
+Chips_BranchName16	协同·高温残余	0	3.7新增智械分支16名称
+Chips_BranchName16_use	协同·高温残余	0	3.7新增智械分支16名称
+Chips_BranchName16_des	地鸣炮台攻击后，在落点留下燃烧区域，持续对范围内敌方目标造成高热类型伤害；天启者的攻击力增加225，防御力增加80	0	3.7新增智械分支16商店说明
+Chips_BranchDescription16	地鸣炮台攻击后，在落点留下燃烧区域，持续对范围内敌方目标造成高热类型伤害\n天启者的攻击力增加<span color="#437AD4">{1}</>，防御力增加<span color="#437AD4">{2}</>	0	3.7新增智械分支16局内说明(可升级)
+Chips_BranchName17	协同·碎裂残响	0	3.7新增智械分支17名称
+Chips_BranchName17_use	协同·碎裂残响	0	3.7新增智械分支17名称
+Chips_BranchName17_des	爆破弹的物品破坏力提升70%，每次命中使目标防御力降低3.5%，最多降低35%%；天启者的攻击力增加180，最大生命增加1950	0	3.7新增智械分支17商店说明
+Chips_BranchDescription17	爆破弹的物品破坏力提升<span color="#437AD4">{1}%</>，每次命中使目标防御力降低<span color="#437AD4">{2}%</>，最多降低<span color="#437AD4">{3}%</>\n天启者的攻击力增加<span color="#437AD4">{4}</>，最大生命增加<span color="#437AD4">{5}</>	0	3.7新增智械分支17局内说明(可升级)
+Chips_BranchName18	协同·增量爆破	0	3.7新增智械分支18名称
+Chips_BranchName18_use	协同·增量爆破	0	3.7新增智械分支18名称
+Chips_BranchName18_des	爆破弹造成的伤害提升35%；天启者的最大生命增加1950，防御力增加64	0	3.7新增智械分支18商店说明
+Chips_BranchDescription18	爆破弹造成的伤害提升<span color="#437AD4">{1}%</>\n天启者的最大生命增加<span color="#437AD4">{2}</>，防御力增加<span color="#437AD4">{3}</>	0	3.7新增智械分支18局内说明(可升级)
+			
+			
+Chips_PlayerBuffName1	复合装甲	0	角色增强buff名称1
+Chips_PlayerBuffDescription1	防御力提升<span color="#437AD4">{1}%</>	0	角色增强buff说明1
+Chips_PlayerBuffName2	破阵模块	0	角色增强buff名称2
+Chips_PlayerBuffDescription2	攻击力提升<span color="#437AD4">{1}%</>	0	角色增强buff说明2
+Chips_PlayerBuffName3	维生系统	0	角色增强buff名称3
+Chips_PlayerBuffDescription3	最大生命提升<span color="#437AD4">{1}%</>	0	角色增强buff说明3
+Chips_PlayerBuffName4	减振涂层	0	角色增强buff名称4
+Chips_PlayerBuffDescription4	受到伤害降低<span color="#437AD4">{1}%</>	0	角色增强buff说明4
+Chips_PlayerBuffName5	天启解放	0	角色增强buff名称5
+Chips_PlayerBuffDescription5	常规技与爆发技伤害提升<span color="#437AD4">{1}%</>	0	角色增强buff说明5
+Chips_PlayerBuffName6	击发强化	0	角色增强buff名称6
+Chips_PlayerBuffDescription6	射击伤害提升<span color="#437AD4">{1}%</>	0	角色增强buff说明6
+			
+ChipsShopHas	已拥有	0	已拥有同类金色芯片
+ChipsBox1	初级芯片补给	0	随机芯片包
+ChipsBox1_use	初级芯片补给	0	道具潜规则拼接字符key
+ChipsBox1_des	可获得1枚白色~金色随机品质的核心芯片或协同芯片	0	道具潜规则拼接字符key
+ChipsBox1_1	区域轰炸初级芯片补给	0	随机芯片包
+ChipsBox1_1_use	区域轰炸初级芯片补给	0	道具潜规则拼接字符key
+ChipsBox1_1_des	可获得1枚白色~金色随机品质的区域轰炸型核心芯片或协同芯片	0	道具潜规则拼接字符key
+ChipsBox1_2	蜂群打击初级芯片补给	0	随机芯片包
+ChipsBox1_2_use	蜂群打击初级芯片补给	0	道具潜规则拼接字符key
+ChipsBox1_2_des	可获得1枚白色~金色随机品质的蜂群打击型核心芯片或协同芯片	0	道具潜规则拼接字符key
+ChipsBox1_3	钢铁防线初级芯片补给	0	随机芯片包
+ChipsBox1_3_use	钢铁防线初级芯片补给	0	道具潜规则拼接字符key
+ChipsBox1_3_des	可获得1枚白色~金色随机品质的钢铁防线型核心芯片或协同芯片	0	道具潜规则拼接字符key
+ChipsBox2	中级芯片补给	0	随机芯片包
+ChipsBox2_use	中级芯片补给	0	道具潜规则拼接字符key
+ChipsBox2_des	可获得1枚绿色~金色随机品质的核心芯片或协同芯片	0	道具潜规则拼接字符key
+ChipsBox3	高级芯片补给	0	随机芯片包
+ChipsBox3_use	高级芯片补给	0	道具潜规则拼接字符key
+ChipsBox3_des	可获得1枚蓝色~金色随机品质的核心芯片或协同芯片	0	道具潜规则拼接字符key
+ChipsBox4	特级芯片补给	0	随机芯片包
+ChipsBox4_use	特级芯片补给	0	道具潜规则拼接字符key
+ChipsBox4_des	可获得1枚紫色~金色随机品质的核心芯片或协同芯片	0	道具潜规则拼接字符key
+ChipsBox5	终极芯片补给	0	随机芯片包
+ChipsBox5_use	终极芯片补给	0	道具潜规则拼接字符key
+ChipsBox5_des	可获得1枚金色随机品质的核心芯片或协同芯片	0	道具潜规则拼接字符key
+			
+BpExp	全域协议	0	进击行动经验值
+BpExp_use	全域协议	0	道具潜规则拼接字符key
+BpExp_des	参与进击行动获得的奖励，用于升级智械凭证	0	道具潜规则拼接字符key
+BpExpDescription	参与进击行动获得的奖励，用于升级智械凭证	0	道具潜规则拼接字符key
+ShopCash	嵌入源码	0	玩法代币
+ShopCash_use	嵌入源码	0	道具潜规则拼接字符key
+ShopCash_des	净化泰坦污染后留下的信息态晶体，拥有储存源代码的能力，可以加工成各种的芯片应用于智械，改变智械的功能	0	道具潜规则拼接字符key
+ShopCashDescription	净化泰坦污染后留下的信息态晶体，拥有储存源代码的能力，可以加工成各种的芯片应用于智械，改变智械的功能	0	道具潜规则拼接字符key
+			
+Season1LevelName1	凛冬防线	0	第一赛季低难度轮替关卡组名称
+Season1LevelName2	重甲压境	0	第一赛季低难度轮替关卡组名称
+Season1LevelName3	空岛掠影	0	第一赛季低难度轮替关卡组名称
+Season1LevelDescription1	耶洛沙观测到了大量异化人和泰坦的踪迹，其规模已构成严重威胁，请尽快前往此地，击败它们\n※检测到大量敌方目标，推荐使用可造成大范围伤害的智械	0	第一赛季低难度轮替关卡组名说明
+Season1LevelDescription2	收到卫城学院求援，机库遭泰坦物质污染，一批配置了新型装机的机兵失去控制，开始袭击学院，请尽快前往此地，保护我们的盟友\n※检测到敌方目标拥有装甲，推荐使用高攻击力的智械	0	第一赛季低难度轮替关卡组名说明
+Season1LevelDescription3	卫星观测报告，大量被污染的机兵降落在新恒提罗的外围地区，请尽快前往此地，保护新恒提罗居民\n※检测到部分敌方目标得到强化，推荐使用可以锁定目标攻击的智械	0	第一赛季低难度轮替关卡组名说明
+Season1LevelName4	禁区·灾害萌芽	0	第一赛季高难度轮替关卡组名说明
+Season1LevelDescription4	警报！耶洛沙东部地区检测到疑似【树】的信号波动，系统推测为新生的树，请尽快前往，阻止树的生长\n※检测到有大量敌方目标袭来，请根据战术倾向，合理搭配智械	0	第一赛季高难度轮替关卡组名说明
+			
+Season2LevelName1	凛冬防线	0	3.7第2赛季常驻轮替关卡组名称
+Season2LevelName2	重甲压境	0	3.7第2赛季常驻轮替关卡组名称
+Season2LevelName3	迷雾重袭	0	3.7第2赛季常驻轮替关卡组名称
+Season2LevelDescription1	耶洛沙观测到了大量异化人和泰坦的踪迹，其规模已构成严重威胁，请尽快前往此地，击败它们\n※检测到大量敌方目标，推荐使用可造成大范围伤害的智械	0	3.7第2赛季常驻轮替关卡组说明
+Season2LevelDescription2	收到卫城学院求援，机库遭泰坦物质污染，一批配置了新型装机的机兵失去控制，开始袭击学院，请尽快前往此地，保护我们的盟友\n※检测到敌方目标拥有装甲，推荐使用高攻击力的智械	0	3.7第2赛季常驻轮替关卡组说明
+Season2LevelDescription3	污染监测系统发出警报，罗森兰地区和零区深水区近乎同一时期泰坦污染浓度急速上升，请尽快前往对应区域处理污染，以防污染范围进一步扩大\n※观测到敌方目标数量庞大，推荐使用可造成大范围伤害的智械	0	3.7第2赛季常驻轮替关卡组说明
+Season2LevelName4	禁区·末日角逐	0	3.7第2赛季限时关卡组名称
+Season2LevelDescription4	警报！瓦尔基里游戏竞技场检测到疑似【树】的信号波动，系统推测为新生的树，请尽快前往，阻止树的生长\n※检测到有大量敌方目标袭来，请根据战术倾向，合理搭配智械	0	3.7第2赛季限时关卡组说明
+			
+			
+Season1Name	庇佑之歌	0	第一赛季副标题
+Season2Name	逆境交错	0	第二赛季副标题
+			
+QuestWeekName1	周常训练	0	周常标题1
+QuestWeekDescription1	完成1次任意难度进击行动	0	周常描述1
+QuestWeekName2	每周挑战	0	周常标题2
+QuestWeekDescription2	完成3次任意难度进击行动	0	周常描述2
+			
+QuestTimeName1	净化污染Ⅰ	0	限时任务标题1
+QuestTimeDescription1	高危禁区开放期间，累计获得100点清理值	0	限时任务描述1
+QuestTimeName2	净化污染Ⅱ	0	限时任务标题2
+QuestTimeDescription2	高危禁区开放期间，累计获得300点清理值	0	限时任务描述2
+QuestTimeName3	净化污染Ⅲ	0	限时任务标题3
+QuestTimeDescription3	高危禁区开放期间，累计获得500点清理值	0	限时任务描述3
+QuestTimeName4	禁区准入	0	限时任务标题4
+QuestTimeDescription4	通关3次高危禁区	0	限时任务描述4
+QuestTimeName5	禁区法则	0	限时任务标题5
+QuestTimeDescription5	通关5次高危禁区	0	限时任务描述5
+QuestTimeName6	争分夺秒·高危	0	限时任务标题6
+QuestTimeDescription6	在完成限时挑战的情况下，成功通关高危禁区模式	0	限时任务描述6
+			
+QuestName1	区域轰炸	0	常驻任务标题1
+QuestDescription1	在1次进击行动中，全部携带区域轰炸类智械成功通关	0	常驻任务描述1
+QuestName2	蜂群打击	0	常驻任务标题2
+QuestDescription2	在1次进击行动中，全部携带蜂群打击类智械成功通关	0	常驻任务描述2
+QuestName3	尖端之芯Ⅰ	0	常驻任务标题2
+QuestDescription3	拥有1枚任意类型的金色芯片	0	常驻任务描述2
+QuestName4	尖端之芯Ⅱ	0	常驻任务标题3
+QuestDescription4	拥有5枚任意类型的金色芯片	0	常驻任务描述3
+QuestName5	尖端之芯Ⅲ	0	常驻任务标题3
+QuestDescription5	获得10枚任意类型的金色芯片	0	常驻任务描述3
+QuestName6	天网权限	0	常驻任务标题4
+QuestDescription6	将智械凭证·区域轰炸提升至满级	0	常驻任务描述4
+QuestName7	绝对制空	0	常驻任务标题4
+QuestDescription7	将智械凭证·蜂群打击提升至满级	0	常驻任务描述4
+QuestName8	智械库进阶Ⅰ	0	常驻任务标题5
+QuestDescription8	智械库等级提升至10级	0	常驻任务描述5
+QuestName9	智械库进阶Ⅱ	0	常驻任务标题5
+QuestDescription9	智械库等级提升至20级	0	常驻任务描述5
+QuestName10	智械库进阶Ⅲ	0	常驻任务标题6
+QuestDescription10	智械库等级提升至30级	0	常驻任务描述6
+QuestName11	完全体智械	0	常驻任务标题6
+QuestDescription11	在智械搭配的所有芯片槽位上镶嵌芯片	0	常驻任务描述6
+QuestName12	究极完全体智械	0	常驻任务标题7
+QuestDescription12	在智械搭配的所有芯片槽位上镶嵌金色品质芯片	0	常驻任务描述7
+QuestName13	争分夺秒·险境	0	常驻任务标题7
+QuestDescription13	在完成限时挑战的情况下，成功通关任意险境边缘模式	0	常驻任务描述7
+QuestName14	进击的分析员Ⅰ	0	常驻任务标题8
+QuestDescription14	累计通关5次任意模式进击行动	0	常驻任务描述8
+QuestName15	进击的分析员Ⅱ	0	常驻任务标题8
+QuestDescription15	累计通关10次任意模式进击行动	0	常驻任务描述8
+QuestName16	进击的分析员Ⅲ	0	常驻任务标题9
+QuestDescription16	累计通关20次任意模式进击行动	0	常驻任务描述9
+QuestName17	芯片加工Ⅰ	0	常驻任务标题9
+QuestDescription17	在集成中心中累计消耗2000点嵌入源码	0	常驻任务描述9
+QuestName18	芯片加工Ⅱ	0	常驻任务标题10
+QuestDescription18	在集成中心中累计消耗4000点嵌入源码	0	常驻任务描述10
+QuestName19	芯片加工Ⅲ	0	常驻任务标题10
+QuestDescription19	在集成中心中累计消耗6000点嵌入源码	0	常驻任务描述10
+QuestName20	芯片加工Ⅳ	0	常驻任务标题11
+QuestDescription20	在集成中心中累计消耗8000点嵌入源码	0	常驻任务描述11
+QuestName21	芯片加工Ⅴ	0	常驻任务标题11
+QuestDescription21	在集成中心中累计消耗10000点嵌入源码	0	常驻任务描述11
+QuestName22	优秀行动Ⅰ	0	常驻任务标题12
+QuestDescription22	成功通关任意模式进击行动，且行动评分在2000分以上	0	常驻任务描述12
+QuestName23	优秀行动Ⅱ	0	常驻任务标题12
+QuestDescription23	成功通关任意模式进击行动，且行动评分在3000分以上	0	常驻任务描述12
+QuestName24	优秀行动Ⅲ	0	常驻任务标题13
+QuestDescription24	成功通关任意模式进击行动，且行动评分在4000分以上	0	常驻任务描述13
+QuestName25	剿灭行动Ⅰ	0	常驻任务标题13
+QuestDescription25	在任意进击行动中，累计消灭500名敌人	0	常驻任务描述13
+QuestName26	剿灭行动Ⅱ	0	常驻任务标题14
+QuestDescription26	在任意进击行动中，累计消灭1000名敌人	0	常驻任务描述14
+QuestName27	剿灭行动Ⅲ	0	常驻任务标题14
+QuestDescription27	在任意进击行动中，累计消灭2000名敌人	0	常驻任务描述14
+QuestName28	钢铁防线	0	3.7新增常驻任务标题1
+QuestDescription28	在1次进击行动中，全部携带钢铁防线类智械成功通关	0	3.7新增常驻任务描述1
+QuestName29	再造铁域	0	3.7新增常驻任务标题2
+QuestDescription29	将智械库 ·钢铁防线提升至满级	0	3.7新增常驻任务描述2
+QuestName30	尖端之芯Ⅳ	0	3.7新增常驻任务标题3
+QuestDescription30	拥有20枚任意类型的金色芯片	0	3.7新增常驻任务描述3
+QuestName31	智械库进阶Ⅳ	0	3.7新增常驻任务标题4
+QuestDescription31	智械库等级提升至50级	0	3.7新增常驻任务描述4
+			
+SettlementTag1	智械高手	0	结算评价Tag1
+SettlementTag2	智械专家	0	结算评价Tag2
+SettlementTag3	智械大师	0	结算评价Tag3
+SettlementTag4	净化大使	0	结算评价Tag4
+SettlementTag5	灾害克星	0	结算评价Tag5
+			
+Chips_TitanDebuffName1	激化异变	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription1	所有敌方目标等级增加<span color="#437AD4">{1}</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName2	极速扩散	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription2	污染浓度上升速度和下降速度均提升<span color="#437AD4">{1}%</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName3	异变残留	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription3	污染灾害结束后，敌方目标的污染强化效果不会消失	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName4	污染催化	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription4	污染灾害爆发时，敌方目标的污染强化效果提升<span color="#437AD4">{1}%</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName5	晶化隐患	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription5	污染灾害爆发时，会额外生成泰坦结晶	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName6	急速孵化	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription6	污染灾害期间，泰坦结晶变为泰坦生物所需时间降低<span color="#437AD4">{1}%</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName7	无援险境	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription7	污染灾害结束后，无法再强化智械	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName8	援助干扰	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription8	所有智械的使用间隔提升<span color="#437AD4">{1}%</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName9	躯体钝化	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription9	所有队员的技能伤害降低<span color="#437AD4">{1}%</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName10	武装钝化	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription10	所有队员的射击伤害降低<span color="#437AD4">{1}%</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName11	污染暗箭	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription11	污染灾害期间，泰坦污染释放污染冲击的次数增加<span color="#437AD4">{1}</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName12	暗箭锐化	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription12	污染灾害期间，泰坦污染释放污染冲击的伤害提升<span color="#437AD4">{1}%</>	0	3.7泰坦污染减益效果
+Chips_TitanDebuffName13	暗箭密集	0	3.7泰坦污染减益效果
+Chips_TitanDebuffDescription13	污染灾害期间，泰坦污染释放污染冲击的频率提升<span color="#437AD4">{1}%</>	0	3.7泰坦污染减益效果
+			
+Chips_TitanBuffName1	优化增速	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription1	每次完成灾害污染灾害清理，智械强化次数额外增加<span color="#437AD4">{1}</>次	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName2	饱和支援	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription2	所有智械充能额外增加<span color="#437AD4">{1}</>次，不超过充能上限，且当前可使用次数额外增加<span color="#437AD4">{2}</>次	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName3	机能复苏	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription3	每次完成灾害污染灾害清理，恢复队员全部生命，且接下来<span color="#437AD4">{1}</>秒内造成的所有伤害提升<span color="#437AD4">{2}%</>	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName4	高频爆发	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription4	队员爆发能量获取效率提升<span color="#437AD4">{1}%</>，爆发能量为满时，每秒可消耗<span color="#437AD4">{2}%</>爆发能量，使自身造成的所有伤害提升<span color="#437AD4">{3}%</>	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName5	无阻长驱	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription5	队员的物品破坏力提升<span color="#437AD4">{1}%</>	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName6	炽热传导	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription6	队员射击命中目标时，有<span color="#437AD4">{1}%</>概率对目标周围至多<span color="#437AD4">{2}</>个目标造成队员攻击力<span color="#437AD4">{3}%</>的高热类型伤害	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName7	低温覆盖	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription7	队员对目标造成伤害时可施加冰冻效果，叠加至<span color="#437AD4">{1}</>层后将其冰冻，持续<span color="#437AD4">{2}</>秒，冰冻期间无法叠加	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName8	强制平衡	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription8	污染灾害期间，队员获得与敌方目标相同的正面效果	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName9	瓦尔基里·黄金狮子	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription9	携手芬妮·黄金狮子共同作战，多次选择可提升芬妮·黄金狮子的作战能力	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffName10	瓦尔基里·星期三	0	3.7泰坦污染对抗增益效果
+Chips_TitanBuffDescription10	携手里芙·星期三共同作战，多次选择可提升里芙·星期三的作战能力	0	3.7泰坦污染对抗增益效果

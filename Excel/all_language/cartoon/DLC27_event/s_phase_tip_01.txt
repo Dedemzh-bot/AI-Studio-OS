@@ -1,0 +1,3 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	获得了特别的道具，先放进背包里吧。	獲得了特別的道具，先放進背包裡吧。	特別なアイテムを手に入れた。\nとりあえずリュックにしまっておこう。	특별한 아이템을 획득했네, 일단 인벤토리에 넣어야겠다.	You've received a special item. Add it to Storage to keep it safe.						0	2.7版本妮塔入队剧情

@@ -1,0 +1,34 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	海姆达尔部队成员快速响应，用高超的作战能力迅速消灭了泰坦。	海姆達爾部隊成員快速響應，用高超的作戰能力迅速消滅了泰坦。	ヘイムダル部隊は迅速に対応し、卓越した作戦能力ですぐタイタンを殲滅した。	헤임달 대원들은 순식간에 엄청난 전투력으로 타이탄을 소멸시켰다.	The Heimdall Force operatives responded swiftly, immediately defeating the Titan with their incredible combat skills.						0	
+2	或许是见到偶像星期三出现，会场的人们的情绪很快平静下来。迪特里希的无人机早已不知所踪。	或許是見到偶像星期三的身影，會場的人們的情緒很快便平復了下來。迪特里希的無人機早已不知去向。	憧れのウェンズデーに会えたおかげか、会場の人々はすぐ落ち着いてきた。ディートリッヒのドローンはとっくに消えてなくなった。	웬스데이가 나타나서인지 현장에 있던 사람들은 평정심을 되찾았고, 디트릭의 드론은 어느새 모습을 감추고 없었다.	Perhaps due to seeing their idol, Wednesday, the festivalgoers quickly calmed down. Dietrich's drone had long since disappeared.						0	
+3	分析员，你看这个，我在这附近发现的哦。	分析員，你看這個，我在這附近發現的哦。	分析員、これを見て。近くで見つけたものだよ。	분석가, 이것 좀 봐. 이 근처에서 발견한 거야.	Adjutant, look at this. I found it nearby.						0	
+b-1											0	
+4	果然。	果然。	やっぱりね。	과연…	Surprise, surprise.						0	
+5	我问过现场目击者，在逐光者开始直播前，这几个人的情绪就格外激动。	我問過現場目擊者，在逐光者開始直播前，這幾個人的情緒就格外激動。	ドローンが配信を始める前に、この数人はすでに激昂していた。	현장에 있는 목격자한테 물어봤는데, 축광단이 방송을 하기 전에 사람들의 감정이 갑자기 격해졌다고 했어.	I asked a few eyewitnesses who were especially emotional before the Light Chaser went live.						0	
+6	最开始只是一句牢骚，逐渐发展成了咒骂，这才被他们捕捉到。	最開始只是一句牢騷，逐漸發展成了咒罵，這才被他們捕捉到。	最初はただ文句を一言垂れただけだったが、少しずつ罵り合いになり、そこをディートリッヒたちに撮られた。	처음에는 그냥 불평하는 정도였는데, 나중에는 욕까지 했고 그러고 나서 잡혔다고 해.	It started with a simple complaint, then gradually grew into cursing. That's the part they caught.						0	
+7	咳，根据这一路发现的种种线索，芙提雅老师已经有了结论！	咳，根據這一路發現的種種線索，芙提雅老師已經有了結論！	コホン。これらの手がかりによって、フリティア先生は結論を導き出した！	흠흠… 이런저런 단서들을 취합한 결과, 프티야가 결론을 도출했어!	Ahem — according to several clues I've discovered along the way, Professor Fritia has already come to a conclusion!						0	
+8	消除掉逐光者的干扰因素，那么真相只有一个！	消除掉逐光者的干擾因素，那麼真相只有一個！	逐光者というノイズを除くと、真実はただひとつ！	축광단이 방해했던 요소들을 모두 없애면 진실은 단 하나!	Removing the Light Chasers as a distraction, there is only one true answer!						0	
+9	看来鄙人来得正是时候，不知我可否有幸能留下一起听听芙提雅老师的见解？	看來鄙人來得正是時候，不知我可否有幸能留下一起聽聽芙提雅老師的見解？	これはまたいいところに。フリティア先生のご高見、聞かせていただけますか？	마침 잘 온 것 같군요. 혹시 실례가 안된다면 저도 프티야 님의 견해를 들어봐도 될까요?	Looks like I came at the right time. I wonder if I'll be lucky enough to stay and hear Professor Fritia's theory?						0	
+10	…………	…………	…………	……	...						0	
+b-2											0	
+11	…………	…………	…………	……	...						0	
+12	嗯嗯，当然没问题！	嗯嗯，當然沒問題！	うん、もちろん！	그럼! 물론이지!	Yep! Of course!						0	
+13	根据我的推测，这个装置会对人们的情绪起到增幅放大的作用。	根據我的推測，這個裝置會對人們的情緒起到增幅放大的作用。	私の推測によると、この装置は人の感情を増幅させることができる。	내 추측대로면 이 장치는 사람들의 감정을 증폭시키는 효과를 가지고 있어.	According to my hypothesis, this device is used to amplify people's emotions.						0	
+14	一开始我也以为是这个装置引发骚乱。可是，你们想想。	一開始我也以為是這個裝置引發騷亂。可是，你們想想。	最初から私もこの装置が騒乱を引き起こしたと思ってた。でもよく考えてみて。	처음에는 나도 이 장치 자체가 소란을 피우는 건 줄 알았는데, 한번 생각해 봐.	At first, I thought the device caused the riot. But think about it—						0	
+15	这些不安的种子，原本就存在啊。	這些不安的種子，原本就存在啊。	不安の種は、もともとそこにあったんだ。	이런 불안함은 처음부터 존재했었어.	Those seeds of unease were already present.						0	
+16	虽然不想承认，不过根据鄙人收到的信息，恐怕芙提雅老师说得是对的。	雖然不想承認，不過根據鄙人收到的資訊，恐怕芙提雅老師的推測沒錯。	認めたくはありませんが、私が受けた情報と照らし合わせますと、おそらくフリティア先生の仰るとおりかと。	인정하기는 싫지만 제가 전달받은 정보를 봐도 프티야 님이 한 말이 맞는 건 같아요	Even though I don't want to admit it, based on the information I received, Professor Fritia is correct.						0	
+17	明灯新仪的会场鱼龙混杂，虽说各大势力达成共识，会在今天暂时搁置矛盾，但并不意味着这些矛盾会消失。	明燈新儀的會場魚龍混雜，雖說各大勢力達成共識，會在今天暫時擱置矛盾，但並不意味著這些矛盾會消失。	明灯新祭の会場は様々な人が潜んでいます。今は各大勢力が合意を得て問題を棚に上げていますが、問題がなくなりはしません。	설사 등불 의식에서 여러 세력들이 뜻을 모으고 잠시 모순을 내려놨다고 할지라도 그 모순이 완전히 사라지는 건 아니잖아요.	The Mingdeng Ritual venue is filled with a mix of people. While the majority agree that all conflicts should be temporarily put on hold for today, it doesn't mean those feelings will simply disappear.						0	
+18	只需要一点“火星”，“火药桶”就会爆炸。	只需要一點“火星”，“火藥桶”就會爆炸。	ほんの少しの「火花」さえあれば、「火薬樽」は爆発します。	약간의 '불씨'와 '화약통'이 있으면 바로 폭발해버리게 되어있죠.	It only takes a small "spark" to cause the "powder keg" to explode.						0	
+19	这也是我请求海姆达尔部队的各位前来协助安保的原因。	這也是我請求海姆達爾部隊的各位前來協助保全的原因。	私がヘイムダル部隊の皆様に警備のご協力をしていただいたのもこれが理由です。	사실은 이런 이유 때문에 헤임달 대원분들을 보안 업무차 이곳에 보내달라고 한 거예요.	That's precisely why I asked Heimdall Force to assist with security.						0	
+b-3											0	
+20	而那个“火星”看来就是这个不明装置了。	而那個“火星”看來就是這個不明裝置了。	「火花」というのはこの謎の装置のことだね。	그럼 그 '불씨'가 바로 이 정체불명의 장치겠군요.	That "spark" seems to be this unknown device.						0	
+21	现在的重点，是究竟是谁想要“火药桶”爆炸？	現在的重點是，究竟是誰想要“火藥桶”爆炸？	今大事なのは、誰が「火薬樽」を爆発させようとしているのかだ。	지금 중점은 누가 '화약통'을 터뜨릴까라는 거겠지?	The real question is — who wants the "powder keg" to "explode"?						0	
+22	啊啊，这题超纲了，超纲了！	啊啊，這題超過我的腦力了，太超過了！	ああぁ、それは専門外だよ、無理！	으으… 과부하 상태야. 머리가 더 이상 굴러가지가 않아.	It's way too early to be asking that question!						0	
+23	仓尧主管有什么头绪吗？	倉堯主管有什麼頭緒嗎？	倉尭さんに心当たりはあるか？	창요는 뭐 떠오르는 거 없어?	Manager Cangyao, do you have any clues?						0	
+24	（苦笑）抱歉。	（苦笑）抱歉。	はは、お力になれず残念ではございますが……	하하… 글쎄요.	(smiles wryly) I apologize.						0	
+b-4											0	
+25	只要幕后之人的企图还没达成，就会再次行动。	只要幕後之人的企圖還沒達成，就會再次行動。	黒幕の目的が達成されない限り、再び動くはずだ。	배후에 있는 사람이 자신이 원하는 결과물을 얻지 못했으니 분명히 다시 움직일 거예요.	As long as whoever's behind this hasn't achieved their goal, they'll act again.						0	
+b-5											0	
+26	我们只需做好自己的分内事，等待对方露出破绽。	我們只需做好自己的分內事，等待對方露出破綻。	私たちは今はただできる限りのことをして、相手が隙を見せるのを待つだけだ。	우린 각자 맡은 일을 하면서 상대방이 허점을 보일 때까지 기다리도록 하죠.	We just need to play our part and wait for them to show their weakness.						0	
+27	不愧是分析员，真可靠！	不愧是分析員，真可靠！	さっすが分析員！頼もし〜！	역시 분석가야! 정말 믿음직스러워!	As expected of the Adjutant! You're so reliable!						0	

@@ -1,0 +1,19 @@
+特效id	注释	路径	是否循环播放	位置偏移	额外旋转	缩放	音效	特效类型(1:建筑选择)	建筑可选特效参数		
+Id	Nul	Path	Loop	Offset	Rotator	Scale	Voice	Type	BoxLocation	BoxOffset	SpawnRate
+1	当前回合的角色，头顶指示角色位置的特效,我方用蓝色	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_actionplayer_Blue_q.e_rmol_actionplayer_Blue_q'	1	{0, 0, 20}							
+2	和上面一样，敌方用红色	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_actionplayer_Red_q.e_rmol_actionplayer_Red_q'	1	{0, 0, 0}							
+3	建筑常驻特效,我方用蓝色,敌方用红色,中立不需要	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_buildingcommon_Blue_q.e_rmol_buildingcommon_Blue_q'	1	{0, 0, 0}							
+4	同上	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_buildingcommon_Red_q.e_rmol_buildingcommon_Red_q'	0	{0, 0, 0}							
+5	建造建筑的特效	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_constructbuilding_q.e_rmol_constructbuilding_q'	0	{0, 0, 0}							
+6	升级建筑的特效	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_upgradebuilding_q.e_rmol_upgradebuilding_q'	0	{0, 0, 0}							
+7	摧毁建筑的特效	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_destroybuilding_q.e_rmol_destroybuilding_q'	0	{0, 0, 0}	{0, 0, -90}						
+8	建筑和格子 可被选择的特效.（这个看下尺寸是不是不对，不对的话，要美术调整）	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_q.e_rmol_selectbuilding_q'	0	{0, 0, 0}							
+9	经过起点的特效	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_startreward_q.e_rmol_startreward_q'	0	{0, 0, 0}							
+10	传送开始，角色跳到顶部时的特效.看下直接播 还是 挂在蒙太奇里	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_transmission_01_q.e_rmol_transmission_01_q'	1	{0, 0, 0}							
+11	传送结束，角色从顶部落下时的特效.看下直接播 还是 挂在蒙太奇里	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_transmission_02_q.e_rmol_transmission_02_q'	1	{0, 0, 0}							
+											
+20	地面可选时	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'	1	{0, 0, 0}				1	{100, 180, 1}	{0, 0, 0}	10
+21	无人岛可选时	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'	1	{0, 0, 0}				1	{230, 500, 210}	{0, 0, 100}	100
+22	商店可选时	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'	1	{0, 0, 0}				1	{210, 180, 200}	{0, 0, 100}	100
+23	全球旅行可选时	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'	1	{0, 0, 0}				1	{180, 200, 120}	{0, 0, 60}	100
+24	出生点可选时	NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'	1	{0, 0, 0}				1	{170, 170, 1}	{60, 60, 0}	10

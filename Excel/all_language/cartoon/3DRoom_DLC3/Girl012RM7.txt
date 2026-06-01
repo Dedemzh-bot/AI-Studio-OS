@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	你还记得我们上次去的那个展览馆吗？	你還記得我們上次去的那個展覽館嗎?	前一緒に行った展覧館のことを覚えてる？	우리 지난번에 갔던 그 전시관 기억하나?	Remember that expo hall we went to?						0	
+page0.2	在零区里面那个吗？	在零區裡面那個嗎?	エリアゼロの？	제로 구역에 있는 그 전시관 말이야?	The one in the Containment Zone?						0	
+page0.3	我只记得在那里看到了很胃疼的恋爱小说。	我只記得在那裡看到了讓人胃痛的愛情小說。	くだらない恋愛小説が並んでたことしか覚えてないけど。	꽤나 비극적인 연애소설을 봤던 기억밖에 안 나.	I just remember seeing a romance novel there that made me want to puke.						0	
+page0.4	就是那个喵。	就是那個喵。	そう、あれニャ。	바로 그거다냥.	That's the one, nya.						0	
+page0.5	我最近打算写那种小说。	我最近打算寫那種小說。	最近ああいう小説を書いてみたくて。	나도 그런 소설을 써 볼 계획이다.	I'm planning on writing a book like that one.						0	
+page0.6	啊？	什麼?	え？	응?	Ah?						0	
+page0.7	你之前不是还完全不能理解书里的内容吗？	你之前不是還完全不能理解書中的內容嗎?	この前は本の内容を全く理解できないって言ってたよな？	그런데 넌 그때 책 내용을 전혀 이해하지 못했잖아?	I thought you didn't understand a thing in that book back then.						0	
+page0.8	既然有未知存在，自然是要了解它。	既然有未知存在，當然是要了解它。	未知が存在する以上、理解しようとするのは当たり前のこと。	미지의 존재가 있다면, 이해하려고 해야 한다.	I have an innate desire to understand the unknown.						0	
+page0.9	我觉得这种东西不了解也没关系。	我覺得這種東西不了解也沒關係。	そんなものを理解しなくてもいいけどな。	그런 건 굳이 이해하지 않아도 상관없을 것 같은데.	I think not understanding that kind of thing is fine.						0	
+page0.10	我的标题已经写好了。	我的標題已經寫好了。	タイトルはもう決めたの。	소설의 제목은 이미 결정했다.	I already have a title in mind.						0	
+page0.11	《昏迷三年的他醒来，收到了十三位女主角的同时告白》。	《昏迷三年的他醒來，收到了十三位女主角的同時告白》。	『3年間の昏睡から目覚めた彼は、13人のヒロインから同時に告白された』	<3년간의 혼수상태에서 깨어나 13명의 여주인공에게 동시에 고백받기>.	"After a Three-Year Coma, He Awoke to Confessions of Love From Thirteen Heroines".						0	
+page0.12	槽点好多，我一时间不知道该说什么。	吐槽點好多，我一時之間不知該說什麼。	突っ込みどころがありすぎて、何を言ったらいいか分からない。	할 말을 잃게 만드는 제목인걸.	There are so many things wrong with that. I don't even know where to begin.						0	

@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	猫汐尔，你怎么从我房间里出来了？	貓汐爾，你怎麼從我房間裡出來了？	マーシル、いま私の部屋から出てきたよな？	시에라? 어떻게 내 방에서 나온 거야?	Mauxir, why are you coming out of my room?						0	2.7版本随机事件
+page1.2	啊——分析员在这里喵……	啊——分析員在這裡喵……	あっ——分析員がいたニャ……	아, 분석가, 여기 있었냥…	Ah... Adjutant is here, nya...						0	2.7版本随机事件
+page1.3	你找我有事？	你找我有事？	私に用事か？	무슨 일이야?	Were you looking for me?						0	2.7版本随机事件
+page1.4	……我还有事，先走了喵！	……我還有事，先走了喵！	……ちょっと急用を思い出したニャ！またニャ！	… 급한 일이 있어서, 먼저 가보겠다냥!	...I have things to do. Best be going, nya!						0	2.7版本随机事件
+page1.5	（猫汐尔怀里抱着的是什么东西？）	（貓汐爾懷裡抱著的是什麼東西？）	（マーシルが抱えてたのはなんだ？）	(시에라가 품에 안고 있는 건 뭐지?)	(What was Mauxir holding in her arms?)						0	2.7版本随机事件
+page1.6	思索一番后，我决定看看猫汐尔在搞什么名堂……	思索一番後，我決定去看看貓汐爾在搞什麼鬼……	ちょっとマーシルの様子を見に行ってみよう……	잠깐의 생각을 마치고, 나는 시에라가 대체 무슨 행위를 벌이고 있는 건지 확인하기로 했다…	After some thought, I decide to investigate what Mauxir was up to...						0	2.7版本随机事件
+page1.7	猫汐尔？！你床上怎么全是我的衣服！	貓汐爾？！你床上怎麼全都是我的衣服！	マーシル！？どうしてベッドの上に私の服がいっぱいあるんだ？	시에라?! 왜 침대 위에 내 옷이 다 끄집어져 있는 거야?!	Mauxir!? Why are my clothes all over your bed?						0	2.7版本随机事件
+page1.8	啊，被发现了喵。	啊，被發現了喵。	あっ、見つかっちゃったニャ。	후, 들켰다냥.	Ah, you caught me, nya.						0	2.7版本随机事件
+page1.9	不要摆出一副无事发生的表情……	不要擺出一副無事發生的表情……	なんでもないみたいな顔しないで……	들킨 거면 그렇게 태연한 표정 좀 짓지 마…	Don't just pretend like nothing happened...						0	2.7版本随机事件
+page1.10	抱着分析员的衣服睡觉，睡眠质量很高喵。	抱著分析員的衣服睡覺，睡眠品質很高喵。	分析員の服を抱いて寝ると、よく眠れるんだニャ。	분석가 옷을 안고 자면 숙면에 도움이 된다냥.	Holding your clothes helps me sleep, nya.						0	2.7版本随机事件
+page1.11	奇怪，我怎么没发现自己少了这么多衣服……	奇怪，我怎麼沒發現自己少了這麼多衣服……	おかしいな、服がなくなってたこと、全然気づかなかった……	이상하네… 내 옷이 이렇게 많이 사라진 줄은 몰랐는데…	Strange. I never even noticed so many of my clothes were missing...						0	2.7版本随机事件
+page1.12	已经没有味道的衣服，猫汐尔会洗好之后送回去喵。	已經沒有味道的衣服，貓汐爾會洗好之後送回去喵。	匂いがなくなった服は、ちゃんと洗って返してるニャ。	향기가 옅어진 옷들은 내가 빨아서 돌렸다냥.	When your smell fades, I'll wash the clothes and send them back, nya.						0	2.7版本随机事件
+page1.13	不，这还是没办法解释为什么你这里有这么多……	不，這還是沒辦法解釋為什麼你這裡有這麼多……	いや、それでもこんなにあるのはおかしいだろう……	아니, 그래도 이렇게 많은 양을 가져간 건 설명이 안 되잖아…	That still doesn't explain why you have so many...						0	2.7版本随机事件
+page1.14	一个月取一件喵。这是加入海姆达尔以来所有的战利品喵！	一個月拿一件喵。這是加入海姆達爾以來所有的戰利品喵！	一ヶ月に一枚ずつニャ。ヘイムダルに入ってからずっと集めてきた戦利品だニャ！	한 달에 한 번씩만 가져갔다냥. 헤임달 입사 후에 수집했던 전리품들 이다냥!	Just one piece per month, nya. These are all of my trophies since I joined Heimdall, nya!						0	2.7版本随机事件
+page1.15	真不知道该说你什么好……	真不知道該怎麼說你……	もうなんて言えばいいんだか……	참, 나도 뭐라고 해야 할지 모르겠다…	I don't know what to say...						0	2.7版本随机事件

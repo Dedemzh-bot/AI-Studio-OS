@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	芬妮			嘘，听，有动静，在右边！	0	
+2		0	妮塔			分析员的意思，是想要过去看看？	0	
+3		0	芬妮			降临团？在污染这么严重的地方？他们不要命了？	0	

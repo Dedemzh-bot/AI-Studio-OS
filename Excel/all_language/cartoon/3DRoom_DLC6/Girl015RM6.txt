@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	在想什么？	在想什麼？	何を考えてるの？	뭘 생각하고 있는 거야?	What's on your mind, Adjutant?						0	
+page1.2	没什么，在考虑今后的事。	沒什麼，在考慮今後的事。	別に。今後についてちょっとね。	아무것도 아니야, 그냥 이후에 일을 좀 생각하고 있었어.	Oh, nothing. I was just thinking about the future.						0	
+page1.3	耶洛沙的事暂且告一段落了，但其他地区，以及零区，还有前董事会……	耶洛沙的事暫且告一段落了，但其他地區，以及零區，還有前董事會……	イェロシャの件はこれでひと段落ついた。でも、他の地区やエリアゼロ、それに元理事会は……	옐로샤 일은 일단락되었지만, 다른 구역하고 제로 구역, 그리고 이전 이사회 등…	Everything in Yehrus has been handled for now. But there are still other regions, Containment Zone Aleph, and the former Board to worry about...						0	
+page1.4	在我看来，比起树和泰坦，人反而要危险得多。	在我看來，比起樹和泰坦，人反而危險得多。	私からすると、デンドロンやタイタンより、人のほうがよっぽど危険に見えるわ。	내가 봤을 때는 나무나 타이탄보다 사람이 더 위험한 것 같아.	If you ask me, humans are way more dangerous than Trees or Titans.						0	
+page1.5	如果没人从中作梗，污染区都可以像零区一样封锁起来。	如果沒人從中作梗，汙染區都可以像零區一樣封鎖起來。	邪魔する者さえいなければ、汚染エリアなんてエリアゼロみたいに封鎖してしまえばそれで終わりでしょ。	만약 누군가 훼방하지 않았더라면 오염 구역은 아마 제로 구역처럼 폐쇄되었을 거야.	If no one got in the way, the Contaminated Sections could just be sealed off like the Containment Zone.						0	
+page1.6	但如果有人执意要做些什么，那就不是几面墙能挡住的了。	但如果有人執意要做些什麼，那就不是幾面牆能擋住的了。	でも邪魔が入るなら、壁を数枚並べた程度じゃどうしようもない。	하지만 누군가 강제로 뭘 하려고 하면, 벽이 몇 겹이라고 해도 결코 막을 수 없지.	But if someone sets their mind to it, a few walls aren't going to stop them.						0	
+page1.7	你的意思是，我们应该优先解决前董事会那边？	你的意思是，我們應該優先解決前董事會那邊？	まずは元理事会の問題を解決しろって言いたいのか？	네 뜻은 우리가 우선적으로 해야 할 일이 이전 이사회 일이라는 거지?	You're saying we should prioritize handling the former Board?						0	
+page1.8	嗯哼。	嗯哼。	まあね。	그렇다고 볼 수 있지.	Yes.						0	
+page1.9	在得知奥米茄死后，剩下的人更有可能互相勾结了。	在得知ω死後，剩下的人更有可能互相勾結了。	ωの死の知らせが広まったら、連中はますます手を組もうとするでしょうね。	ω가 죽고 나서, 남은 이사진들끼리 손을 잡았을 가능성을 배제할 수 없어.	After the other former Board members hear about ω's death, they will probably start working together.						0	
+page1.10	做好准备吧，playername。	做好準備吧，playername。	覚悟しておいた方がいいわ、playername。	그러니까 이런 것도 염려해둬, playername.	Get ready, playername.						0	
+page1.11	嗯，我明白了。	嗯，我明白了。	ああ、分かってるよ。	응, 잘 알겠어.	Right. Got it.						0	

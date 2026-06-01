@@ -1,0 +1,105 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	一周前，在那场滔天巨浪即将吞没罗森兰时，断断续续的信号，传向遥远的天际之外。	一週前，在那場滔天巨浪即將吞沒羅森蘭時，斷斷續續的訊號，傳向遙遠的天際之外。	一週間ほど前――洪水が大地を呑みこもうとしたその時、ある断続的な信号が発せられ、遥か天の向こうにまで響いた。	일주일 전, 거대한 파도가 로젠란을 집어삼키려 할 때, 끊어질 듯하면서도 이어지는 신호가 저 먼 하늘 너머로 전송되었다.	A week ago, as a tsunami was about to swallow the city of Luchellan, an intermittent signal slipped past the atmosphere.						0	3.6版本预告剧情
+2	“威胁评估模块激活，评估结果——S级别。”	「威脅評估模組啟動，評估結果——S級。」	『脅威評価プログラム、起動。――評価結果、脅威ランク「S」』	"위협 평가 모듈 활성화, 평가 결과… S등급."	"Threat Assessment Module activated. Threat Level: S."						0	3.6版本预告剧情
+3	“协助人类协议加载完成，正在搜索适格体信号。”	「協助人類協議載入完成，正在搜索適格體訊號。」	『対人類支援規則、読み込み完了。代理者の信号をサーチ……』	"인류 지원 프로토콜 로딩 완료, 적격체 신호 검색 중."	"Human Assistance Protocol loaded. Scanning for the optimal host."						0	3.6版本预告剧情
+4	“搜索中——”	「搜索中——」	『代理者の信号をサーチ……』	"검색 중…"	"Scanning..."						0	3.6版本预告剧情
+5	“搜索中——”	「搜索中——」	『代理者の信号をサーチ……』	"검색 중…"	"Scanning..."						0	3.6版本预告剧情
+6	这是……	這是……	これは……	이건…	Is that...						0	3.6版本预告剧情
+7	同伴？	同伴？	仲間……？	동료?	One of our own?						0	3.6版本预告剧情
+8	咦？我好像听到了些有趣的声音呢。	咦？我好像聽到了些有趣的聲音呢。	あれれ？面白い音だね。	응? 흥미로운 목소리가 들리는 것 같은데.	Oh? I'm picking up something interesting.						0	3.6版本预告剧情
+9	“搜索失败，正在启动自主响应系统——”	「搜索失敗，正在啟動自主反應系統——」	『代理者の信号を未検出。――自律行動プログラムを起動……』	"검색 실패, 자율 대응 시스템 기동 중…"	"Scan failed. Initiating autonomous countermeasures..."						0	3.6版本预告剧情
+10	“防卫模块预热中——”	「防衛模組預熱中——」	『防御システムをセットアップ――』	"방어 모듈 예열 중…"	"Defense module warming up..."						0	3.6版本预告剧情
+11	滴——	嗶——	ピ——	삐!	*BEEP—*						0	3.6版本预告剧情
+12	滴——	嗶——	ピ——	삐!	*BEEP—*						0	3.6版本预告剧情
+13	尖锐狭长的警报声响起。卡罗琳伸手关掉警报，坐起身，查阅着警报信息。	尖銳狹長的警報聲響起。卡羅琳伸手關掉警報，坐起身，查閱著警報訊息。	やかましいブザーを苛立たしげに止め、カロリンは画面に映し出された警報に目を凝らした。	날카롭고 긴 경보음이 울렸다. 캐롤린은 손을 뻗어 경보를 끄고 몸을 일으켜 경보 정보를 확인했다.	A shrill alarm blared. Caroline reached over to silence it, sat up, and pulled up the alert readout.						0	3.6版本预告剧情
+14	片刻后，她快步走出休息间，在办公室门口停下。	片刻後，她快步走出休息室，在辦公室門口停下。	慌てて休憩室を後にし、執務室の手前にまで来ると、	잠시 후, 그녀는 빠른 걸음으로 휴게실을 나와 사무실 문 앞에 멈춰 섰다.	A moment later, she hurried out of the break room and stopped outside the office.						0	3.6版本预告剧情
+15	嗡——	嗡——	ウィーン――	웅…	*whoosh—*						0	3.6版本预告剧情
+16	门自动打开了。	門自動打開了。	自動でドアが両側に開いた。	문이 자동으로 열렸다.	The door slid open.						0	3.6版本预告剧情
+17	老板，您醒了？	老闆，您醒了？	ボス、起きていたんですか？	이사님, 일어나셨어요?	Boss! You're awake.						0	3.6版本预告剧情
+18	……说吧。	……說吧。	……状況は？	… 얘기해.	...Go ahead.						0	3.6版本预告剧情
+19	陶扶着办公桌，揉着眉头。卡罗琳赶忙走到饮水机旁边，一边倒水，一边汇报情况。	τ扶著辦公桌，揉著眉頭。卡羅琳趕忙走到飲水機旁邊，一邊倒水，一邊彙報情況。	——τは机に肘杖をつきながら、眉間を指でほぐしていた。カロリンは足早にウォーターサーバーへ向かい、コップに水を入れた。	τ는 책상에 기대며 미간을 문질렀다. 캐롤린은 서둘러 정수기 옆으로 가서 물을 따르며 상황을 보고했다.	τ leaned on the desk, rubbing her brow. Noticing it, Caroline hurried to the water dispenser, poured a glass of water, and started briefing her.						0	3.6版本预告剧情
+20	优格想要见您，就现在。恒沙也已经在线上了，有紧急情况需要直接和您沟通。	優格想要見您，就現在。恆沙也已經在線上了，有緊急情況需要直接和您溝通。	ヨルからの通信要請です。ゴウシャもオンライン中で、ボスに話したい緊急の用件があるそうです。	요거트가 지금 바로 뵙고 싶어 해요. 항사도 온라인 상태고요. 긴급 상황이라 직접 소통이 필요하대요.	Yogurt wants to speak with you. GANGES is online too. It's urgent. They want to talk to you directly.						0	3.6版本预告剧情
+21	接通吧。	接通吧。	繋いでください。	연결해.	Put them through.						0	3.6版本预告剧情
+22	两个AI的虚影出现在办公室内。优格的手中拖着一团影像，是一段可视化的音频片段。	兩個AI的虛影出現在辦公室內。優格的手中拖著一團影像，是一段可視化的音訊片段。	言葉が消えるが早いか、オフィスにヨルとゴウシャのホログラフが現れる。ヨルは可視化された音声ファイルらしきものをかざして見せた。	두 AI의 모습이 사무실 안에 나타났다. 요거트의 손에는 시각화된 짧은 오디오 영상 한 편이 있었다.	Holograms of the two AI figures materialized in the office. A luminous waveform hovered over Yogurt's palm, displaying an audio signal.						0	3.6版本预告剧情
+23	信号发出地点在罗森兰，无法搜索到具体位置。	訊號發出地點在羅森蘭，無法搜索到具體位置。	この信号……詳しい場所はまだわかりませんが、ローズランから発信されたものと思います。	신호 발신 지점은 로젠란, 구체적인 위치는 찾을 수 없었습니다.	The signal originated in Luchellan, but we can't narrow it down any further.						0	3.6版本预告剧情
+24	信号内容是呼唤同类。	訊號內容是呼喚同類。	「仲間」を、呼びかけている……みたいです。	신호 내용은 동류 호출이었어요.	It's calling out to its own kind.						0	3.6版本预告剧情
+25	埃达回应了这个消息……四次。	埃達回應了這個訊息……四次。	この信号に…エッダは4回も反応していマス。	에다가 그 메시지에 응답했습니다… 네 번.	Edda answered it... four times.						0	3.6版本预告剧情
+26	它回应埃达了吗？	它回應埃達了嗎？	それで、発信元がエッダに答えたことは？	그쪽에서 에다한테 응답했어?	Did it respond to Edda?						0	3.6版本预告剧情
+27	没有。	沒有。	まだ、一度も。	아니요.	No.						0	3.6版本预告剧情
+28	一个新的超级AI……	一個新的超級AI……	新しいスーパーＡＩ……	새로운 슈퍼 AI…	Another super AI...						0	3.6版本预告剧情
+29	陶闭着眼睛，摇了摇头。	τ閉著眼睛，搖搖頭。	τは何かを考えこむように目をつむり、ため息をついた。	τ는 눈을 감고 고개를 저었다.	With her eyes closed, τ shook her head.						0	3.6版本预告剧情
+30	分析员马上连进来。	分析員馬上連進來。	分析員からの着信です！	분석가님이 곧 접속하실 거예요.	I'm connecting to the Adjutant now.						0	3.6版本预告剧情
+31	嘟——	嘟——	ツゥ――。	뚜…	*beep—*						0	3.6版本预告剧情
+32	是我，卡罗琳。发生什么事了？	是我，卡羅琳。發生什麼事了？	カロリン、私だ。何があった？	나야, 캐롤린. 무슨 일이야?	This is playername. What's going on?						0	3.6版本预告剧情
+33	被通讯吵醒后，我走出房间，认真听着卡罗琳的转述。	被通訊吵醒後，我走出房間，認真聽著卡羅琳的轉述。	通信に起こされて部屋を出ると、私はカロリンからの報告を聞いた。	통신 소리에 잠에서 깬 나는 방을 나와 캐롤린이 전달해 주는 내용을 주의 깊게 들었다.	After being woken up by the call, I stepped out of my room while Caroline filled me in.						0	3.6版本预告剧情
+34	一个超级AI……它的特性是什么，威胁范围有多大？	一個超級AI……它的特性是什麼，威脅範圍有多大？	スーパーＡＩ……特性と危険度は判明したか？	슈퍼 AI라… 그것의 특성은 뭐고, 위협 범위는 어느 정도지?	A super AI... What do we know about its capabilities? How serious is the threat?						0	3.6版本预告剧情
+35	纠正，它只是具有和我们相当的算力，但并不具备自我认知和深度思考的能力。	糾正，它只是具有和我們相當的算力，但並不具備自我認知和深度思考的能力。	訂正シマス。我々相当の処理能力を持っていマスが、自己意識と能動的な思考能力を持っていないようデス。	바로잡자면, 그것은 저희와 비슷한 수준의 연산력을 가지고 있을 뿐, 자아 인식이나 심층 사고 능력은 없습니다.	Correction: while its computational power is on par with ours, it possesses neither self-awareness nor higher cognition.						0	3.6版本预告剧情
+36	这是从信号中分析得到的结论。设置在罗森兰的是超级计算机，而非超级人工智能。	這是從訊號中分析得到的結論。設定在羅森蘭的是超級電腦，而非超級人工智慧。	信号を分析した結果、ローズランにある発信元はあくまでスーパーコンピューターであり、ＡＩではありマセン。	신호에서 분석해 낸 결론입니다. 로젠란에 설치된 건 슈퍼컴퓨터지, 슈퍼 인공지능이 아닙니다.	That's what the signal indicates. Whatever is in Luchellan is a supercomputer, not a true AI.						0	3.6版本预告剧情
+37	这点可以确定吗？	這點可以確定嗎？	そこまで言い切れるものなのか？	확실한 거야?	You're sure?						0	3.6版本预告剧情
+38	嗯。它的行为是在执行某种既定的程序。	嗯。它的行為是在執行某種既定的程序。	はい。既定のプログラムを実行しているような動作でしたので。	네. 그것은 어떤 정해진 프로그램을 실행하고 있어요.	Yes. Its behavior indicates that it's running a preset program.						0	3.6版本预告剧情
+39	虽然不是AI，但它强大的算力也足以被埃达盯上了。分析员，世界树必须抢在它前面。	雖然不是AI，但它強大的算力也足以被埃達盯上了。分析員，世界樹必須搶在它前面。	ＡＩではありマセンが、莫大な処理能力を持っているため、エッダに狙われてもおかしくないデショウ。分析員さん 、ここは先手を打つべきデス。	AI는 아니지만, 그 강력한 연산력만으로도 에다의 눈에 띄기엔 충분합니다. 분석가님, 위그드라실이 그들보다 먼저 선점해야 합니다.	But even if it isn't an AI, that much computational power will light up Edda's radar. Adjutant — Yggdrasil needs to beat Edda to it.						0	3.6版本预告剧情
+40	我明白。	我明白。	ああ。	알겠어.	Understood.						0	3.6版本预告剧情
+41	但你和优格没办法直接定位它吗？	但你和優格沒辦法直接定位它嗎？	発信元の具体的な場所は？特定できるか？	그런데 너랑 요거트가 직접 위치를 파악할 수 없어?	So you and Yogurt can't pinpoint its location?						0	3.6版本预告剧情
+42	不能，它对外界展开了某种屏蔽，除了知道在罗森兰，我们也没有任何线索。	不能，它對外界展開了某種阻隔，除了知道在羅森蘭，我們也沒有任何線索。	できマセン。なんらかの手段で外界を遮断しているようなので、ローズランにあること以外、手がかりは皆無デス。	불가능합니다. 그것이 외부를 차단한 상태여서, 로젠란에 있다는 것 외에는 전혀 단서가 없습니다.	No. It's shielding itself somehow. All we know is it's in Luchellan.						0	3.6版本预告剧情
+43	埃达也定位不到，对吧？	埃達也定位不到，對吧？	エッダにとってもそうなのか？	에다도 위치를 파악할 수 없는 거지?	Then Edda can't locate it either, right?						0	3.6版本预告剧情
+44	没错。这个超级计算机的防火墙非常强，它的设计者很可能在这方面进行了特化设计。	沒錯。這個超級電腦的防火牆非常強，它的設計者很可能在這方面進行了特化設計。	はい。高性能のファイアウォールを有しているので、設計者が遮断に特化した設計を行った可能性がありマス。	그렇습니다. 이 슈퍼컴퓨터의 방화벽이 매우 강력합니다. 설계자가 그 부분을 특화해서 설계했을 가능성이 높습니다.	Correct. Its firewall is extremely strong — possibly built and hardened for this kind of interference.						0	3.6版本预告剧情
+45	好，我知道了。	好，我知道了。	わかった。	그래, 알겠어.	I see.						0	3.6版本预告剧情
+46	不过……陶，我需要你派一个人给我。	不過……τ，我需要你派一個人給我。	……τ、1人協力者をくれ。	그런데… τ 이사님, 지원 인력을 요청합니다.	τ, I'll need a partner for this operation.						0	3.6版本预告剧情
+47	谁？	誰？	いいでしょう。	누구?	Who?						0	3.6版本预告剧情
+48	芙提雅。	芙提雅。	フリティア――	프티야요.	Fritia.						0	3.6版本预告剧情
+49	有她在，这件事就十拿九稳了。	有她在，這件事就十拿九穩了。	彼女なら、今回の事件を解決できるはずだ。	그녀가 있으면 이 일은 아주 쉽게 성공할 수 있어요.	With her, success is all but a lock.						0	3.6版本预告剧情
+50	芙提雅正在进行火种系统和新战术套装的兼容性测试。	芙提雅正在進行火種系統和新戰術套裝的相容性測試。	フリティアは今、「火種」システムと新戦術装備の適合性テストを行っています。	프티야는 지금 불씨 시스템과 새 전술 슈트의 호환성을 테스트 중이야.	Fritia's running compatibility tests between the Ember system and her new exosuit.						0	3.6版本预告剧情
+51	她的新战术套装长于信息对抗，我想让她调试完再出发。	她的新戰術套裝有利於資訊對抗，我想讓她測試完再出發。	電子戦に特化した戦術装備ですから、テストが終わってから出発するといいでしょう。	그녀의 새 전술 슈트는 정보전에 특화되어 있어서, 튜닝이 완료된 뒤에 출발시키고 싶은데.	That suit specializes in information warfare. I want it fully tuned before she deploys.						0	3.6版本预告剧情
+52	呃，那个，我刚刚已经把芙提雅接到线上了……	呃，那個，我剛剛已經把芙提雅接到線上了……	あ、えっと……ちょうど今、フリティアも通話に参加しましたが……	어, 저, 제가 이미 프티야와 연결했는데요…	Oh, uh... I already patched Fritia into the call...						0	3.6版本预告剧情
+53	她没睡？	她沒睡？	まだ起きてたのか？	아직 안 자고 있었어?	She wasn't sleeping?						0	3.6版本预告剧情
+54	她最近都没怎么睡，一直泡在工作间呢。	她最近都沒怎麼睡，一直泡在工作室呢。	最近は睡眠時間を削って、ずっと作業部屋に立てこもってるそうですよ。	최근 프티야는 계속 작업실에 틀어박혀서 잠은 거의 안 자더라고요.	She hasn't been sleeping much lately. She's been practically living in the workshop.						0	3.6版本预告剧情
+55	分析员怎么有空找我？哎，小陶老板也在！	分析員怎麼有空找我？欸，小τ老闆也在！	分析員、急にどうしたの？あれ、τさんもいる……	분석가가 웬일로 나를 찾아? 어, τ 이사님도 계시네요!	Looking for me, Adjutant? You're usually so occupied at this time of night, hehe... Ah, Director τ!						0	3.6版本预告剧情
+56	优格，恒沙——哇，这是要去收拾埃达了吗！	優格、恆沙——哇，這是要去收拾埃達了嗎！	って、ヨルちゃんとゴウシャまで…！この顔ぶれってもしかして、エッダを倒しにいくの！？	요거트, 항사… 와, 에다를 처리하러 가는 거야?	And Yogurt and GANGES! Whoa— are we going after Edda!?						0	3.6版本预告剧情
+57	playername需要你的支援。新装甲还有多久才能调试完毕？	playername需要你的支援。新裝甲還有多久才能調整完畢？	フリティア、あなたの協力がほしいとplayernameが言っていました。新しい戦術装備の最終調整、あとどれくらいかかりますか？	playername이(가) 네 지원이 필요하다는데. 새 전술 슈트 튜닝은 얼마나 걸릴 것 같아?	playername needs your support. How long until the new exosuit is fully tuned?						0	3.6版本预告剧情
+58	这么着急吗？让我想想……	這麼著急嗎？讓我想想……	え、そんなに急いでるの？えっとね……	그렇게 급해요? 생각 좀 해볼게요…	It's that urgent? Let me see...						0	3.6版本预告剧情
+59	两个小时！再给我两个小时，剩下的我路上再弄！	兩個小時！再給我兩個小時，剩下的我路上再弄！	残りは任務地点へ向かう途中でやるとして……あと2時間くらいかな！	두 시간이요! 두 시간만 더 주시면, 나머지는 가면서 할게요!	Okay, two hours! Give me two hours, and I'll finish the rest on the move.						0	3.6版本预告剧情
+60	好。芙提雅大概会在上午到达罗森兰。	好。芙提雅大概會在上午到達羅森蘭。	なら午前中にはローズランに到着できるでしょう。	좋아. 프티야는 아마 오전에 로젠란에 도착할 거야.	All right. Then Fritia will be in Luchellan before noon.						0	3.6版本预告剧情
+61	在码头见面吧，我去接你。	在碼頭見面吧，我去接你。	迎えに行くから、港で落ち合おう。	부두에서 만나자, 내가 데리러 갈게.	Meet me at the docks. I'll pick you up.						0	3.6版本预告剧情
+62	接我？真的吗？那、那——	接我？真的嗎？那、那——	迎えにきてくれるの？ホント？じゃ、じゃあ――	데리러 온다고? 정말? 그, 그럼…	You'll pick me up? Seriously!? Th—Then...						0	3.6版本预告剧情
+63	不行……正事要紧！啊，我不说啦，不然没法专心了！任务细节我回头再看！	不行……正事要緊！啊，我不說啦，不然沒辦法專心了！任務細節我之後再看！	あ、いや、何でもない……今は仕事に集中しなくちゃね…！戦術装備の最終調整をしてくるから、いったん落ちるね！任務の説明はあとで確認するから！	아니야… 일이 우선이지! 아, 말 안 할래, 이러다간 집중 못 할 거야! 임무 세부 사항은 나중에 볼게!	No... focus, Fritia. Okay, I need to get back to work now! I'll read the brief later!						0	3.6版本预告剧情
+64	嘟——	嘟——	ツ――	뚜…	*beep—*						0	3.6版本预告剧情
+65	那……老板，我去安排芙提雅的行程了！	那……老闆，我去安排芙提雅的行程了！	じゃあ……ボス、私はフリティアのスケジュールを見直してきます！	그럼… 이사님, 저는 프티야 일정을 준비하러 가볼게요!	All right, then... I'll get Fritia's transport ready!						0	3.6版本预告剧情
+66	卡罗琳也退出了连线，优格和恒沙也没有了声音。	卡羅琳也退出了連線，優格和恆沙也沒有了聲音。	カロリンが通信を切ると、ヨルとゴウシャのほうも静かになった。	캐롤린도 통신에서 나갔고, 요거트와 항사의 목소리도 들리지 않았다.	Caroline signed off from the call. Yogurt and GANGES followed, their holograms fading out.						0	3.6版本预告剧情
+67	只需要芙提雅就够了吗？	只需要芙提雅就夠了嗎？	本当に、フリティア1人でいいんですか？	프티야만으로 충분하겠어?	Will Fritia alone be enough?						0	3.6版本预告剧情
+68	安卡希雅和茉莉安也在罗森兰，我之前还结识了罗森兰商会的会长。	安卡希雅和茉莉安也在羅森蘭，我之前還結識了羅森蘭商會的會長。	ローズランにはすでにアカシアとマリアンが待機している。それに、ローズラン商会の会長にも力を貸してもらえるはずだ。	아카시아와 마리안도 로젠란에 있고, 전에 로젠란 상회 회장과도 알게 됐어요.	Acacia and Marian are already in Luchellan. And I've got a connection with the president of the Luchellan Chamber of Commerce from our last op.						0	3.6版本预告剧情
+69	有安德烈奥蒂家和罗森兰商会的帮助，没问题的。	有安德烈奧蒂家和羅森蘭商會的幫助，沒問題的。	商会の協力があれば、問題ない。	안드레오티 가문과 로젠란 상회의 도움이 있으면 문제없을 거예요.	With the Andreotti family and the Chamber behind us, we'll be fine.						0	3.6版本预告剧情
+70	嗯，我等你的消息。	嗯，我等你的消息。	わかりました、健闘を祈ります。では。	그래, 소식 기다릴게.	All right. Keep me posted.						0	3.6版本预告剧情
+71	窗前凛冽的寒风吹过罗森兰全境，来到了相邻的城市群——索伦尼亚。	窗前凜冽的寒風吹過羅森蘭全境，來到了相鄰的城市群——索倫尼亞。	ローズランの大地をわたり、骨身に染みるような冬の寒風が訪れたのは隣の都市群――ソレンニアだった。	매서운 찬바람이 창가를 스치고 로젠란 전역을 지나, 인접한 도시군인 소레니아에 도착했다.	A biting wind swept through Luchellan, then rolled into the neighboring sprawl of Sorenia.						0	3.6版本预告剧情
+72	苏菲的衣袂翻飞着，她站在阿尔斯特的“树”下静静等待着，而埃达的声音也随即响起。	蘇菲的衣袂翻飛著，她站在阿爾斯特的「樹」下靜靜等待著，而埃達的聲音也隨即響起。	吹きすさぶ風にローブの裾をひるがえしながら、何かを待っているのか、ソフィーは眼前の、アルスターにある「デンドロン」をしずかに見つめていた。	소피의 옷자락이 흩날렸다. 그녀는 울스터의 '나무' 아래에서 조용히 기다렸고, 이윽고 에다의 목소리가 울렸다.	Before the window, Sophie's cloak snapped and whipped in the gale. Beneath Ulster's Tree, she waited in silence. Then Edda's voice cut through.						0	3.6版本预告剧情
+73	你的计划失败了。	你的計畫失敗了。	君の計画、失敗しちゃったみたいだね。	네 계획은 실패했어.	Your plan failed.						0	3.6版本预告剧情
+74	是。请您降下责罚。	是。請您降下責罰。	どうか、私に罰を与えてください……	네. 벌을 내려주세요.	Yes. I await your punishment.						0	3.6版本预告剧情
+75	你浪费了两枚轨道动能武器，却没实现任何许诺。	你浪費了兩枚軌道動能武器，卻沒實現任何許諾。	「神の杖」を2発も無駄にして、約束を何も果たせなかった。	궤도 동력 무기 두 발을 낭비했으면서, 어떤 약속도 지키지 못했지.	You squandered two of my orbital kinetic weapons and brought me nothing in return.						0	3.6版本预告剧情
+76	我明白。但……请给我一个解释的机会。	我明白。但……請給我一個解釋的機會。	ええ、面目もありません……ですが、せめて事情だけでも、聞いてはいただけませんか。	알고 있어요. 하지만… 설명할 기회를 주세요.	I understand. But... please allow me to explain.						0	3.6版本预告剧情
+77	……	……	……	……	...						0	3.6版本预告剧情
+78	你是我能够调用的最大变量。我当然会听你解释。	你是我能夠調用的最大變量。我當然會聽你解釋。	君は私の最大の切り札なんだし、言い訳くらいはさせてやるよ。	너는 내가 사용할 수 있는 최대 변수야. 그러니 네 설명을 듣는 건 당연하지.	You're the most useful asset I have. I'll hear you out.						0	3.6版本预告剧情
+79	说吧。	說吧。	さぁ、言ってみて。	말해봐.	Go on, explain.						0	3.6版本预告剧情
+80	分析员用他的力量冰封了海浪和罗森兰所有的水道，他的强大是我失败的根本原因。	分析員用他的力量冰封了海浪和羅森蘭所有的水道，他的強大是我失敗的根本原因。	分析員……彼は自らの力で、洪水とローズランのすべての水路を凍結させてしまいました。此度の失敗は、彼の力が思った以上に強かったのが原因です……	분석가님이 자신의 힘으로 파도와 로젠란의 모든 수로를 얼려버렸어요. 그분의 강함이 제 실패의 근본 원인이에요.	The Adjutant froze the wave and the waterways across Luchellan. That kind of power is what caused my plan to fail.						0	3.6版本预告剧情
+81	我也不是想要推脱罪责。我太过心急，计划不够缜密，才让他抓住了破局的机会。	我也不是想要推脫罪責。我太過心急，計畫不夠縝密，才讓他抓住了破局的機會。	言い逃れするつもりはありません。彼に隙を突かれてしまったのは、私の計画が不十分だったからです。	책임을 회피하려는 건 아니에요. 제가 너무 조급하고, 치밀하게 계획하지 못한 탓에 그분이 돌파구를 찾은 거예요.	That said, the fault is still mine. I acted too quickly. The plan wasn't airtight, and I gave him the opening he needed to turn it around.						0	3.6版本预告剧情
+82	我愿意接受您降下的一切惩罚，只是……	我願意接受您降下的一切懲罰，只是……	どんな罰でも、甘んじて受け入れます。ただ……	당신의 벌이라면 모두 달게 받을게요. 다만…	I shall accept whatever punishment you deem appropriate. Only...						0	3.6版本预告剧情
+83	只是在您降下惩罚之前，让我再为您做点什么吧。	只是在您降下懲罰之前，讓我再為您做點什麼吧。	ただその前に、どうか……最後に何か、お役に立てることをさせてください。	다만 벌하시기 전에, 제가 당신을 위해 뭔가를 더 할 수 있게 해주세요.	Before you pass judgment, let me serve you one last time.						0	3.6版本预告剧情
+84	对您的敌人施以报复也好，作为您前行之路的一颗小小基石也好。	對您的敵人施以報復也好，作為您前行之路的一顆小小基石也好。	敵に一矢を報いることであれ、貴女の偉業のささやかお手伝いであれ。	당신의 적에게 보복하는 것도, 당신 앞길의 작은 주춧돌이 되는 것도 좋아요.	Whether it's to take revenge on your enemies, or to serve as a stepping stone for what comes next...						0	3.6版本预告剧情
+85	我还能做些什么。请惩罚我发挥用处吧。	我還能做些什麼。請懲罰我發揮用處吧。	私にできることがあれば、なんなりとおっしゃってください。	저는 아직 더 할 수 있어요. 쓸모를 다할 수 있도록 벌해주세요.	Tell me what to do. Let me atone through service.						0	3.6版本预告剧情
+86	苏菲双手交握，虔诚跪在树前的景象清晰地传递到了槲寄生空间内部。	蘇菲雙手交握，虔誠跪在樹前的景象清晰地傳遞到了槲寄生空間內部。	ヤドリギ宇宙ステーションの中。許しを乞うように両手を合わせ、デンドロンの前に膝をつくソフィーの姿が映像で映し出されていた。	소피가 두 손을 모으고 나무 앞에 경건하게 무릎 꿇은 모습이 미스틸테인 우주정거장 내부로 선명하게 전달되었다.	Hands clasped, Sophie sank to her knees before the Tree. The feed came through cleanly at Mistilteinn Station.						0	3.6版本预告剧情
+87	但埃达久久没有回应。	但埃達久久沒有回應。	エッダはすぐに返事をしなかった。	하지만 에다는 오랫동안 응답하지 않았다.	But Edda did not answer.						0	3.6版本预告剧情
+88	时间一分一秒过去。	時間一分一秒過去。	時計の針が時を刻む音だけが聞こえる――	시간이 조금씩 흘러갔다.	The silence stretched.						0	3.6版本预告剧情
+89	回罗森兰，寻找一段信号的来源。	回羅森蘭，尋找一段訊號的來源。	ローズランに戻って、信号の発信元を見つけて。	로젠란으로 돌아가서 특정 신호의 출처를 찾아.	Return to Luchellan. Find the source of that signal.						0	3.6版本预告剧情
+90	把信号来源的算力带给我。届时，我会摆脱所有限制。	把訊號來源的算力帶給我。到時，我會擺脫所有限制。	そして、発信元の処理能力を私にちょうだい。それで私に抗えるものはいなくなるから。	그 출처의 연산을 내게 가져와. 그러면 나는 모든 제약에서 벗어날 거야.	Bring me its computing power. With that in hand, every limiter on me comes off.						0	3.6版本预告剧情
+91	我会为您带回它。	我會為您帶回它。	ええ、ええ。仰せのままに。	가져다드릴게요.	I shall bring it back to you.						0	3.6版本预告剧情
+92	……盲目。	……盲目。	……君、ほんとバカだね。	… 맹목적이군.	...Naive.						0	3.6版本预告剧情
+93	你成功带回它的可能性并不高。世界树会阻止我得到它的。	你成功帶回它的可能性並不高。世界樹會阻止我得到它的。	そう簡単にはいかないよ。ユグドラシルが邪魔するから。	네가 그것을 성공적으로 가져올 가능성은 그리 높지 않아. 위그드라실이 내가 그것을 얻는 것을 막을 테니까.	Your odds of success are low. Yggdrasil will do whatever they can to keep it out of my hands.						0	3.6版本预告剧情
+94	如果你不能确保任务完成，至少也要毁掉它——不要让世界树得到它。	如果你不能確保任務完成，至少也要毀掉它——不要讓世界樹得到它。	だから、もし任務を果たせなくなったら、発信元を壊して。ユグドラシルには絶対に渡さないこと。わかった？	만약 네가 임무를 완수할 수 있다는 확신이 없다면, 최소한 그것을 파괴해야 해. 위그드라실이 그것을 얻게 해선 안 돼.	If you can't bring it back, destroy it. If I can't have it, Yggdrasil won't either.						0	3.6版本预告剧情
+95	毁掉？	毀掉？	『壊す』……ですか？	파괴하라고요?	Destroy it...?						0	3.6版本预告剧情
+96	这个。	這個。	はい、これ。	자.	With this.						0	3.6版本预告剧情
+97	苏菲低下头，掌心不知何时多了一支针剂。透明管壁内，黏稠的液体缓缓流动，折射出冷冽的光。	蘇菲低下頭，掌心不知何時多了一支針劑。透明管壁內，黏稠的液體慢慢流動，折射出冷冽的光。	ソフィーが手のひらを見ると、いつの間にかそこに注射器があった。無色透明の容器の中には、粘着質な液体が緩やかに動き、冷たい光沢を放っていた。	소피가 고개를 숙이자, 손에는 어느새 주사기 하나가 들려 있었다. 투명한 관 안에선 점성이 있는 액체가 천천히 흐르며 차가운 빛을 반사했다.	Sophie lowered her gaze. A syringe rested in her palm, as if it had been there all along. Inside the clear barrel, a viscous liquid shifted sluggishly, catching the light in a cold glint.						0	3.6版本预告剧情
+98	我明白了。	我明白了。	わかりました。	알겠습니다.	Understood.						0	3.6版本预告剧情
+99	我不会再让您失望。	我不會再讓您失望。	今度こそ抜かりなく、任務をやり遂げてご覧にいれましょう。	다시는 실망하지 않게 해드릴게요.	I shall not fail you again.						0	3.6版本预告剧情
+100	没有答复，又像是失去了耐心——眼前的树渐渐失去了光泽。	沒有答覆，又像是失去了耐心——眼前的樹漸漸失去了光澤。	そこでふたりの会話が途切れると、デンドロンも光を少しずつ消していった。	대답은 돌아오지 않았고, 인내심을 잃기라도 한 것처럼… 눈앞의 나무는 점차 광택을 잃어갔다.	No reply came. Perhaps Edda had already lost patience. The Tree's glow gradually dulled, until its light drained away.						0	3.6版本预告剧情
+101	苏菲悬着的心终于落了下来。不论对方是否还信任她，至少她离自己的计划更近一步了。	蘇菲懸著的心終於落了下來。不論對方是否還信任她，至少她離自己的計畫更近一步了。	早鐘を打つ心臓をソフィーはなんとか落ち着かせた。エッダに信用されていようがいまいが、少なくとも自分の計画はまた一歩、前進したのだ。	조마조마하던 소피의 마음이 마침내 가라앉았다. 상대방이 여전히 자신을 신뢰하는지와 관계없이, 최소한 그녀는 자신의 계획에 한 걸음 더 가까워졌다.	Sophie finally let out the breath she'd been holding. Whether she still had Edda's trust or not, she was one step closer to her own plan.						0	3.6版本预告剧情
+102	远处有一支小队正朝这边逼近。	遠處有一支小隊正朝這邊逼近。	遠くから、ひとつの小隊が近づいて来ている。	멀리서 한 소대가 이쪽으로 접근하고 있었다.	In the distance, a squad was closing in.						0	3.6版本预告剧情
+103	她站起身，漠然注视。随后，转身走向她心中的乐土。	她站起身，漠然注視。隨後，轉身走向她心中的樂土。	やおら立ち上がり、それに冷ややかな目をちらりとやると、彼女は振り返って、己の望む理想郷へと歩を進めた。	그녀는 몸을 일으켜 심드렁하게 그것을 주시했다. 그러고는 몸을 돌려 자신의 마음속 낙원을 향해 걸어갔다.	She rose, watching them with quiet indifference. Then she turned and walked toward the paradise she envisioned.						0	3.6版本预告剧情

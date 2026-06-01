@@ -1,0 +1,52 @@
+﻿ID(1-9999)	期数	是否是基础蔬菜（填1表示是基础植物）	名称	描述	图标	血量	攻击	攻击范围	关卡内蔬菜ID	备注	解锁条件(1表示通关某个关卡2表示需要点亮某个前置节点)	贡献展示（1=输出2=能量3=承伤）	卡面升级阈值(取贡献展示的第一类数据)
+ID	Schedule	BaseVegOrNot	Name	Des	Icon	HP	ATK	AOE	VegetablesID		UnlockCondition	Contribution	LevelUpEXP
+1	1	1	farmwar.farmwar_vegname_01	farmwar.farmwar_vegdes_01	4810001	farmwar.farmwar_vegHP_01	farmwar.farmwar_vegATK_01	farmwar.farmwar_vegAOE_01	19000001	小辣椒			
+2	1		farmwar.farmwar_vegname_02	farmwar.farmwar_vegdes_02	4810011	farmwar.farmwar_vegHP_02	farmwar.farmwar_vegATK_02	farmwar.farmwar_vegAOE_02	19000002	大辣椒	{{1,8714}}		
+3	1	1	farmwar.farmwar_vegname_03	farmwar.farmwar_vegdes_03	4810021	farmwar.farmwar_vegHP_03	farmwar.farmwar_vegATK_03	farmwar.farmwar_vegAOE_03	19000003	玉米射手			
+4	1		farmwar.farmwar_vegname_04	farmwar.farmwar_vegdes_04	4810031	farmwar.farmwar_vegHP_04	farmwar.farmwar_vegATK_04	farmwar.farmwar_vegAOE_04	19000004	连发玉米射手	{{1,8715}}		
+5	1		farmwar.farmwar_vegname_05	farmwar.farmwar_vegdes_05	4810041	farmwar.farmwar_vegHP_05	farmwar.farmwar_vegATK_05	farmwar.farmwar_vegAOE_05	19000005	超级连发玉米射手	{{1,8717}}		
+6	1		farmwar.farmwar_vegname_06	farmwar.farmwar_vegdes_06	4810051	farmwar.farmwar_vegHP_06	farmwar.farmwar_vegATK_06	farmwar.farmwar_vegAOE_06	19000006	火焰玉米射手	{{1,8715}}		
+7	1		farmwar.farmwar_vegname_07	farmwar.farmwar_vegdes_07	4810061	farmwar.farmwar_vegHP_07	farmwar.farmwar_vegATK_07	farmwar.farmwar_vegAOE_07	19000007	超级火焰玉米射手	{{1,8717}}		
+8	1		farmwar.farmwar_vegname_08	farmwar.farmwar_vegdes_08	4810071	farmwar.farmwar_vegHP_08	farmwar.farmwar_vegATK_08	farmwar.farmwar_vegAOE_08	19000008	冰冻玉米射手	{{1,8715}}		
+9	1		farmwar.farmwar_vegname_09	farmwar.farmwar_vegdes_09	4810081	farmwar.farmwar_vegHP_09	farmwar.farmwar_vegATK_09	farmwar.farmwar_vegAOE_09	19000009	超级冰冻玉米射手	{{1,8717}}		
+10	1	1	farmwar.farmwar_vegname_10	farmwar.farmwar_vegdes_10	4810091	farmwar.farmwar_vegHP_10	farmwar.farmwar_vegATK_10	farmwar.farmwar_vegAOE_10	19000010	西兰花	{{1,8712}}		
+11	1		farmwar.farmwar_vegname_11	farmwar.farmwar_vegdes_11	4810101	farmwar.farmwar_vegHP_11	farmwar.farmwar_vegATK_11	farmwar.farmwar_vegAOE_11	19000011	大西兰花	{{1,8718}}		
+12	1	1	farmwar.farmwar_vegname_12	farmwar.farmwar_vegdes_12	4810111	farmwar.farmwar_vegHP_12	farmwar.farmwar_vegATK_12	farmwar.farmwar_vegAOE_12	19000012	胡萝卜	{{1,8714}}		
+13	1		farmwar.farmwar_vegname_13	farmwar.farmwar_vegdes_13	4810121	farmwar.farmwar_vegHP_13	farmwar.farmwar_vegATK_13	farmwar.farmwar_vegAOE_13	19000013	大胡萝卜	{{1,8719}}		
+14	1		farmwar.farmwar_vegname_14	farmwar.farmwar_vegdes_14	4810131	farmwar.farmwar_vegHP_14	farmwar.farmwar_vegATK_14	farmwar.farmwar_vegAOE_14	19000014	超级胡萝卜	{{1,8719}}		
+15	1	1	farmwar.farmwar_vegname_15	farmwar.farmwar_vegdes_15	4810141	farmwar.farmwar_vegHP_15	farmwar.farmwar_vegATK_15	farmwar.farmwar_vegAOE_15	19000015	南瓜	{{1,8713}}		
+16	1		farmwar.farmwar_vegname_16	farmwar.farmwar_vegdes_16	4810151	farmwar.farmwar_vegHP_16	farmwar.farmwar_vegATK_16	farmwar.farmwar_vegAOE_16	19000016	爆炸南瓜	{{1,8718}}		
+17	1		farmwar.farmwar_vegname_17	farmwar.farmwar_vegdes_17	4810161	farmwar.farmwar_vegHP_17	farmwar.farmwar_vegATK_17	farmwar.farmwar_vegAOE_17	19000017	冰冻南瓜	{{1,8718}}		
+18	1		farmwar.farmwar_vegname_18	farmwar.farmwar_vegdes_18	4810171	farmwar.farmwar_vegHP_18	farmwar.farmwar_vegATK_18	farmwar.farmwar_vegAOE_18	19000018	火焰南瓜	{{1,8718}}		
+19	2	1	farmwar.farmwar_vegname_01	farmwar.farmwar_vegdes_01	4810001	farmwar.farmwar_vegHP_01	farmwar.farmwar_vegATK_01	farmwar.farmwar_vegAOE_01	19000001	小辣椒		{2}	
+20	2		farmwar.farmwar_vegname_02	farmwar.farmwar_vegdes_02	4810011	farmwar.farmwar_vegHP_02	farmwar.farmwar_vegATK_02	farmwar.farmwar_vegAOE_02	19000002	大辣椒	{{1,8895}}	{2}	
+21	2	1	farmwar.farmwar_vegname_03	farmwar.farmwar_vegdes_03	4810021	farmwar.farmwar_vegHP_03	farmwar.farmwar_vegATK_03	farmwar.farmwar_vegAOE_03	19000003	玉米射手		{1}	
+22	2		farmwar.farmwar_vegname_04	farmwar.farmwar_vegdes_04	4810031	farmwar.farmwar_vegHP_04	farmwar.farmwar_vegATK_04	farmwar.farmwar_vegAOE_04	19000004	连发玉米射手	{{1,8894}}	{1}	
+23	2		farmwar.farmwar_vegname_05	farmwar.farmwar_vegdes_05	4810041	farmwar.farmwar_vegHP_05	farmwar.farmwar_vegATK_05	farmwar.farmwar_vegAOE_05	19000005	超级连发玉米射手	{{1,8900}}	{1}	
+24	2		farmwar.farmwar_vegname_06	farmwar.farmwar_vegdes_06	4810051	farmwar.farmwar_vegHP_06	farmwar.farmwar_vegATK_06	farmwar.farmwar_vegAOE_06	19000006	火焰玉米射手	{{1,8894}}	{1}	
+25	2		farmwar.farmwar_vegname_07	farmwar.farmwar_vegdes_07	4810061	farmwar.farmwar_vegHP_07	farmwar.farmwar_vegATK_07	farmwar.farmwar_vegAOE_07	19000007	超级火焰玉米射手	{{1,8900}}	{1}	
+26	2		farmwar.farmwar_vegname_08	farmwar.farmwar_vegdes_08	4810071	farmwar.farmwar_vegHP_08	farmwar.farmwar_vegATK_08	farmwar.farmwar_vegAOE_08	19000008	冰冻玉米射手	{{1,8894}}	{1}	
+27	2		farmwar.farmwar_vegname_09	farmwar.farmwar_vegdes_09	4810081	farmwar.farmwar_vegHP_09	farmwar.farmwar_vegATK_09	farmwar.farmwar_vegAOE_09	19000009	超级冰冻玉米射手	{{1,8900}}	{1}	
+28	2	1	farmwar.farmwar_vegname_10	farmwar.farmwar_vegdes_10	4810091	farmwar.farmwar_vegHP_10	farmwar.farmwar_vegATK_10	farmwar.farmwar_vegAOE_10	19000010	西兰花	{{1,8892}}	{1,3}	
+29	2		farmwar.farmwar_vegname_11	farmwar.farmwar_vegdes_11	4810101	farmwar.farmwar_vegHP_11	farmwar.farmwar_vegATK_11	farmwar.farmwar_vegAOE_11	19000011	大西兰花	{{1,8898}}	{1,3}	
+30	2	1	farmwar.farmwar_vegname_12	farmwar.farmwar_vegdes_12	4810111	farmwar.farmwar_vegHP_12	farmwar.farmwar_vegATK_12	farmwar.farmwar_vegAOE_12	19000012	胡萝卜	{{1,8896}}	{1}	
+31	2		farmwar.farmwar_vegname_13	farmwar.farmwar_vegdes_13	4810121	farmwar.farmwar_vegHP_13	farmwar.farmwar_vegATK_13	farmwar.farmwar_vegAOE_13	19000013	大胡萝卜	{{1,8901}}	{1}	
+32	2		farmwar.farmwar_vegname_14	farmwar.farmwar_vegdes_14	4810131	farmwar.farmwar_vegHP_14	farmwar.farmwar_vegATK_14	farmwar.farmwar_vegAOE_14	19000014	超级胡萝卜	{{1,8901}}	{1}	
+33	2	1	farmwar.farmwar_vegname_15	farmwar.farmwar_vegdes_15	4810141	farmwar.farmwar_vegHP_15	farmwar.farmwar_vegATK_15	farmwar.farmwar_vegAOE_15	19000015	南瓜		{3}	
+34	2		farmwar.farmwar_vegname_16	farmwar.farmwar_vegdes_16	4810151	farmwar.farmwar_vegHP_16	farmwar.farmwar_vegATK_16	farmwar.farmwar_vegAOE_16	19000016	爆炸南瓜	{{1,8898}}	{3}	
+35	2		farmwar.farmwar_vegname_17	farmwar.farmwar_vegdes_17	4810161	farmwar.farmwar_vegHP_17	farmwar.farmwar_vegATK_17	farmwar.farmwar_vegAOE_17	19000017	冰冻南瓜	{{1,8898}}	{3}	
+36	2		farmwar.farmwar_vegname_18	farmwar.farmwar_vegdes_18	4810171	farmwar.farmwar_vegHP_18	farmwar.farmwar_vegATK_18	farmwar.farmwar_vegAOE_18	19000018	火焰南瓜	{{1,8898}}	{1,3}	
+37	2	1	farmwar.farmwar_vegname_19	farmwar.farmwar_vegdes_19	4810181	farmwar.farmwar_vegHP_19	farmwar.farmwar_vegATK_19	farmwar.farmwar_vegAOE_19	19000019	番茄基础版	{{1,8893}}	{1}	
+38	2		farmwar.farmwar_vegname_20	farmwar.farmwar_vegdes_20	4810191	farmwar.farmwar_vegHP_20	farmwar.farmwar_vegATK_20	farmwar.farmwar_vegAOE_20	19000020	番茄变种1-爆炸番茄	{{1,8896}}	{1}	
+39	2		farmwar.farmwar_vegname_21	farmwar.farmwar_vegdes_21	4810201	farmwar.farmwar_vegHP_21	farmwar.farmwar_vegATK_21	farmwar.farmwar_vegAOE_21	19000021	番茄变种2-荷包蛋番茄	{{1,8896}}	{1}	
+40	2	1	farmwar.farmwar_vegname_22	farmwar.farmwar_vegdes_22	4810211	farmwar.farmwar_vegHP_22	farmwar.farmwar_vegATK_22	farmwar.farmwar_vegAOE_22	19000022	竹笋基础版	{{1,8895}}	{1}	
+41	2		farmwar.farmwar_vegname_23	farmwar.farmwar_vegdes_23	4810221	farmwar.farmwar_vegHP_23	farmwar.farmwar_vegATK_23	farmwar.farmwar_vegAOE_23	19000023	精准竹笋	{{1,8897}}	{1}	
+42	2		farmwar.farmwar_vegname_24	farmwar.farmwar_vegdes_24	4810231	farmwar.farmwar_vegHP_24	farmwar.farmwar_vegATK_24	farmwar.farmwar_vegAOE_24	19000024	冰冻竹笋	{{1,8897}}	{1}	
+43	2	1	farmwar.farmwar_vegname_25	farmwar.farmwar_vegdes_25	4810241	farmwar.farmwar_vegHP_25	farmwar.farmwar_vegATK_25	farmwar.farmwar_vegAOE_25	19000025	莲藕	{{1,8897}}	{1}	
+44	2	1	farmwar.farmwar_vegname_26	farmwar.farmwar_vegdes_26	4810251	farmwar.farmwar_vegHP_26	farmwar.farmwar_vegATK_26	farmwar.farmwar_vegAOE_26	19000026	基础菜咩	{{1,8899}}	{3}	
+45	2		farmwar.farmwar_vegname_27	farmwar.farmwar_vegdes_27	4810261	farmwar.farmwar_vegHP_27	farmwar.farmwar_vegATK_27	farmwar.farmwar_vegAOE_27	19000027	潜行菜咩	{{1,8899}}	{3}	
+46	2		farmwar.farmwar_vegname_28	farmwar.farmwar_vegdes_28	4810271	farmwar.farmwar_vegHP_28	farmwar.farmwar_vegATK_28	farmwar.farmwar_vegAOE_28	19000028	加伤菜咩	{{1,8899}}	{3}	
+47	2		farmwar.farmwar_vegname_29	farmwar.farmwar_vegdes_29	4810281	farmwar.farmwar_vegHP_29	farmwar.farmwar_vegATK_29	farmwar.farmwar_vegAOE_29	19000029	破隐菜咩	{{1,8899}}	{3}	
+48	2	1	farmwar.farmwar_vegname_30	farmwar.farmwar_vegdes_30	4810291	farmwar.farmwar_vegHP_30	farmwar.farmwar_vegATK_30	farmwar.farmwar_vegAOE_30	19000030	茄子基础版	{{1,8900}}	{1}	
+49	2		farmwar.farmwar_vegname_31	farmwar.farmwar_vegdes_31	4810301	farmwar.farmwar_vegHP_31	farmwar.farmwar_vegATK_31	farmwar.farmwar_vegAOE_31	19000031	茄子-无消耗版	{{1,8902}}	{1}	
+50	2		farmwar.farmwar_vegname_32	farmwar.farmwar_vegdes_32	4810311	farmwar.farmwar_vegHP_32	farmwar.farmwar_vegATK_32	farmwar.farmwar_vegAOE_32	19000032	秒杀茄子	{{1,8902}}	{1}	{10000000,15000000,20000000}

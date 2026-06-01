@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	带着日记本，我从妮塔房间走到了大厅沙发区。	帶著日記本，我從妮塔房間走到了大廳沙發區。	日記帳を手にニタの部屋からロビーのソファエリアへ向かう。	나는 일기장을 들고 니타의 방을 나와 로비 소파 구역으로 걸어갔다.	Notebook in hand, I left Nita's room and made my way to the lounge.						0	2.7版本妮塔入队剧情
+page1.2	在确认好一个舒适的坐姿后，我认真翻看起日记里的内容。	在確認好一個舒適的坐姿後，我認真翻閱日記裡的內容。	座り心地のよい場所を見つけると、手元の日記帳をめくってみる。	나는 편안한 자세로 앉아 일기장의 내용을 유심히 살펴보기 시작했다.	After settling comfortably onto the couch, I opened the notebook and began to read.						0	2.7版本妮塔入队剧情
+page1.3	熟悉的字迹出现在纸页上，一个个活泼的上扬字尾，无声地诉说着少女记录时的喜悦心情。	熟悉的字跡出現在紙頁上，一個個活潑的上揚字尾，無聲地訴說著少女記錄時的喜悅心情。	お馴染みの筆跡。ひとつひとつ、跳ね上がるような文字の端が、書いたときのときめきをそっと物語っている。	익숙한 필체가 종이 위에 적혀 있었다. 글자 끝이 경쾌하게 올라간 필체가 일기를 쓴 소녀의 기쁜 마음을 소리 없이 말해주고 있었다.	Her handwriting danced across the pages, each letter curling playfully at the end — as if I could see her there, scribbling away with a grin she couldn't hold back.						0	2.7版本妮塔入队剧情
+page1.4	×年×月，晴。	×年×月，晴。	×月×日、晴れ。	×년×월, 맑음.	[Entry: xx/xx — Clear skies]						0	2.7版本妮塔入队剧情
+page1.5	今天真是太幸运了！<orange>卡罗琳说可以给我发几张分析员工作时的照片。</>	今天真是太幸運了！<orange>卡羅琳說可以傳幾張分析員工作時的照片給我。</>	今日は超ラッキー！<orange>カロリンが分析員のお仕事モード写真を何枚も送ってくれるって！</>！	오늘은 정말 운이 좋았다! <orange>캐롤린이 분석가가 일할 때의 사진을 몇 장 보내줄 수 있다고 했다.</>	OMG — today was amazing!! <orange>Caroline said she'd send me a few photos of the Adjutant at work!</>						0	2.7版本妮塔入队剧情
+page1.6	嘿嘿，又可以更新终端<orange>头像</>和<orange>壁纸</>了。	嘿嘿，又可以更新終端<orange>頭像</>和<orange>桌布</>了。	へへ、新しい端末<orange>アイコン</>と<orange>待ち受け</>入手～	헤헤, 단말기 <orange>프로필 사진</>이랑 <orange>배경 화면</>을 또 바꿔야겠어.	Hehe~ Totally using it for both my <orange>profile pic</> AND <orange>lock screen</>.						0	2.7版本妮塔入队剧情
+page1.7	×年×月，阴。	×年×月，陰。	×年×月、くもり。	×년×월, 흐림.	[Entry: xx/xx — Cloudy]						0	2.7版本妮塔入队剧情
+page1.8	唔，因为训练，漏回了分析员的消息……	唔，因為訓練，漏回了分析員的消息……	うぅ、訓練が忙しくて分析員のメッセ見逃しちゃった…	훈련 때문에 분석가의 메시지에 답장을 못 했어…	Ughhh — missed a message from the Adjutant thanks to training...						0	2.7版本妮塔入队剧情
+page1.9	得赶紧把分析员<orange>标记为特别关心</>，决不能在这种小事上疏忽。	得趕緊把分析員<orange>標記為特別關心</>，絕不能在這種小事上疏忽。	分析員は<orange>ピン留めに登録</>っと。こういうとこ、ちゃんとしておかないとね！	분석가를 <orange>특별 관심 대상으로 등록</>해 놔야겠어. 이런 사소한 일이라도 절대 놓치면 안 되지.	This is UNACCEPTABLE. Fixing it right now. <orange>Setting him as a favorite</> — not messing this up again.						0	2.7版本妮塔入队剧情
+page1.10	×年×月，晴。	×年×月，晴。	×月×日、晴れ。	×년×월, 맑음.	[Entry: xx/xx — Clear skies]						0	2.7版本妮塔入队剧情
+page1.11	呼~好想分析员啊。	呼~好想分析員啊。	ふぅぅ～、分析員に会いたいなぁ……	유후~ 분석가가 너무 보고 싶어.	Ahh~ I miss the Adjutant so much...						0	2.7版本妮塔入队剧情
+page1.12	想着他入睡的话，我一定能做个好梦~	想著他入睡的話，我一定能做個好夢~	彼のことを考えながら寝たら、絶対いい夢見れるよね～	분석가를 생각하면서 잠에 들면 분명 좋은 꿈을 꿀 수 있을 거야~	If I fall asleep thinking about him... I'd definitely have the sweetest dreams~						0	2.7版本妮塔入队剧情
+page1.14	（指尖轻轻抚过日记本的边缘，一种前所未有的温暖在胸口处扩散。）	（指尖輕輕撫過日記本的邊緣，一種前所未有的溫暖在胸口處擴散。）	（指先で日記帳の端をそっとなぞると、胸の奥に今までにない穏やかな温もりが広がっていく。）	(손끝으로 일기장 가장자리를 살짝 스치자, 처음 느껴보는 따스함이 마음속에서 퍼졌다.)	(My fingers brushed the edge of her diary. And a quiet warmth bloomed in my chest — deeper than anything I'd felt before.)						0	2.7版本妮塔入队剧情
+page1.15	（如果还要为妮塔做些什么……）	（如果還要為妮塔做點什麼……）	（ニタのために、まだ何かできることがあるとしたら…）	(니타에게 무언가를 더 해줘야 한다면…)	(If there's still something I can do for her...)						0	2.7版本妮塔入队剧情
+page1.16	（我想，最合适的，就是<orange>让她默默流淌的爱意有所归处。</>）	（我想，最適合的，就是<orange>讓她默默流淌的愛意有所歸處。</>）	（きっと、一番ふさわしいのは、<orange>彼女がひそかに注ぎ続ける想いを、ちゃんと形にしてあげる</>ことだと思う。）	(가장 좋은 건 아마도 <orange>그녀의 사랑이 머무를 수 있는 곳을 찾아주는 거겠지.</>）	(Then maybe — the best thing is to finally <orange>reciprocate that quiet love she's been giving me all along.</>)						0	2.7版本妮塔入队剧情

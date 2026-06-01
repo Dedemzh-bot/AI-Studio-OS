@@ -1,0 +1,242 @@
+字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	zh_CN	disable	Remark
+memlock	该队员已出战其他战线		
+supplylock	上阵失败，后勤或武器已用于其他战线		
+resetteam	重置将清空已有战线记录，撤离驻守队伍，并清空当前战线的战幕绩点。		
+settlement_score	获得当前临时阵地战幕绩点		
+ticket_not_enough	通行密钥不足		
+notopen	活动暂未开放		
+layerlock	请先完成当前危险评级的战线作战		
+riskwarning	当前作战难度较高，请确认是否继续		
+			
+			
+			
+buffname1	强袭		
+buff1	主动技能伤害提升%s%%		
+buffname2	近威		
+buff2	对半径%s米内敌方目标造成的伤害提升%s%%		
+buffname3	流转		
+buff3	常规能量回复速度提升%s%%		
+buffname4	染冰		
+buff4	击败敌方目标时，造成1次低温类型的范围伤害，并施加冻结效果，持续%s秒，触发间隔%s秒		
+buffname5	捕风		
+buff5	射击速度提升%s%%		
+buffname6	季生		
+buff6	射击命中敌方目标时，回复%s%%最大生命，触发间隔%s秒		
+buffname7	疾雷		
+buff7	电击类型伤害提升%s%%		
+buffname8	交易		
+buff8	每击败1个敌方目标，防御力提升%s%%，总提升不超过%s%%		
+buffname9	恒常		
+buff9	爆发能量获取率提升%s%%		
+buffname10	操偶		
+buff10	敌方目标的抗打断能力降低		
+buffname11	赤夏		
+buff11	高热类型伤害提升%s%%		
+buffname12	灼伤		
+buff12	灼烧状态下的敌方目标受到的技能伤害提升%s%%		
+levelbuffname1	极化		
+levelbuff1	敌方目标生命较低时，对我方队员造成的伤害提升		
+levelbuffname2	驻守		
+levelbuff2	敌方目标在场时间越长，对队员造成的伤害越高		
+levelbuffname3	同位		
+levelbuff3	相位协调仪受到的伤害会等额传递给敌方目标		
+			
+buffname201	铁腕		
+buff201	处于被控制状态的敌方目标，受到的射击伤害提升%s%%		
+buffname202	军备		
+buff202	弹匣容量提升%s%%		
+buffname203	追歼		
+buff203	每击败1个敌方目标，对敌方护盾造成的伤害提升%s%%，总伤害提升不超过%s%%		
+buffname204	巧技		
+buff204	常规技技能急速提升%s		
+buffname205	操偶		
+buff205	敌方目标受到控制的持续时间提升%s%%		
+buffname206	空穴		
+buff206	击败敌方目标时，场上会生成一个引力漩涡，%s秒内持续聚集附近敌方目标，触发间隔%s秒		
+buffname207	不息		
+buff207	命中目标后，场上队员可回%s爆发能量、触发间隔%s秒		
+buffname208	娴熟		
+buff208	换弹速度提升%s%%		
+buffname209	激战		
+buff209	使用常规技后，射击伤害提升%s%%、持续时间%s秒		
+levelbuffname201	狼口		
+levelbuff201	敌方目标护盾强度大幅提升、最大生命降低		
+levelbuffname202	迟滞		
+levelbuff202	受到敌方目标攻击时，有概率被施加眩晕状态		
+levelbuffname203	僵持		
+levelbuff203	敌方目标即将被击倒时会进入不屈状态，其生命不再下降		
+			
+buffname301	光源		
+buff301	全队队员的受治疗效果提升%s%%		
+buffname302	茁实		
+buff302	全队队员的最大生命提升%s%%		
+buffname303	迅捷		
+buff303	全队队员的主动技能使用间隔降低%s%%		
+levelbuffname301	坚忍		
+levelbuff301	敌方目标造成的伤害大幅提升，该提升会随着在场时间逐渐减少		
+			
+			
+repression_levelname_481	速攻战线-紧急突破I		
+repression_levelname_484	速攻战线-紧急突破II		
+repression_levelname_487	速攻战线-紧急突破III		
+repression_levelname_482	生续战线-存活即胜I		
+repression_levelname_485	生续战线-存活即胜II		
+repression_levelname_488	生续战线-存活即胜III		
+repression_levelname_483	攻坚战线-卓绝对战I		
+repression_levelname_486	攻坚战线-卓绝对战II		
+repression_levelname_489	攻坚战线-卓绝对战III		
+			
+			
+repression_levelname_450	【危险评级I】临时阵地1-1		
+repression_levelname_451	【危险评级I】临时阵地1-2		
+repression_levelname_452	【危险评级I】临时阵地2-1		
+repression_levelname_453	【危险评级I】临时阵地2-2		
+repression_levelname_454	【危险评级I】临时阵地3-1		
+repression_levelname_455	【危险评级I】临时阵地3-2		
+repression_levelname_456	【危险评级II】临时阵地1-1		
+repression_levelname_457	【危险评级II】临时阵地1-2		
+repression_levelname_458	【危险评级II】临时阵地1-3		
+repression_levelname_459	【危险评级II】临时阵地2-1		
+repression_levelname_460	【危险评级II】临时阵地2-2		
+repression_levelname_461	【危险评级II】临时阵地2-3		
+repression_levelname_462	【危险评级II】临时阵地3-1		
+repression_levelname_463	【危险评级II】临时阵地3-2		
+repression_levelname_464	【危险评级II】临时阵地3-3		
+repression_levelname_465	【危险评级III】临时阵地1-1		
+repression_levelname_466	【危险评级III】临时阵地1-2		
+repression_levelname_467	【危险评级III】临时阵地1-3		
+repression_levelname_468	【危险评级III】临时阵地1-4		
+repression_levelname_469	【危险评级III】临时阵地2-1		
+repression_levelname_470	【危险评级III】临时阵地2-2		
+repression_levelname_471	【危险评级III】临时阵地2-3		
+repression_levelname_472	【危险评级III】临时阵地2-4		
+repression_levelname_473	【危险评级III】临时阵地3-1		
+repression_levelname_474	【危险评级III】临时阵地3-2		
+repression_levelname_475	【危险评级III】临时阵地3-3		
+repression_levelname_476	【危险评级III】临时阵地3-4		
+			
+			
+			
+repression_level_des	完成当前临时阵地作战可获得		
+			
+			
+			
+repression_levelname_4529	速攻战线-紧急突破I		
+repression_levelname_4532	速攻战线-紧急突破II		
+repression_levelname_4535	速攻战线-紧急突破III		
+repression_levelname_4528	驻防战线-坚守阵地I		
+repression_levelname_4531	驻防战线-坚守阵地II		
+repression_levelname_4534	驻防战线-坚守阵地III		
+repression_levelname_4527	强袭战线-摧坚折锐I		
+repression_levelname_4530	强袭战线-摧坚折锐II		
+repression_levelname_4533	强袭战线-摧坚折锐III		
+			
+			
+repression_levelname_4500	【危险评级I】临时阵地1-1		
+repression_levelname_4501	【危险评级I】临时阵地1-2		
+repression_levelname_4502	【危险评级I】临时阵地2-1		
+repression_levelname_4503	【危险评级I】临时阵地2-2		
+repression_levelname_4504	【危险评级I】临时阵地3-1		
+repression_levelname_4505	【危险评级I】临时阵地3-2		
+repression_levelname_4506	【危险评级II】临时阵地1-1		
+repression_levelname_4507	【危险评级II】临时阵地1-2		
+repression_levelname_4508	【危险评级II】临时阵地1-3		
+repression_levelname_4509	【危险评级II】临时阵地2-1		
+repression_levelname_4510	【危险评级II】临时阵地2-2		
+repression_levelname_4511	【危险评级II】临时阵地2-3		
+repression_levelname_4512	【危险评级II】临时阵地3-1		
+repression_levelname_4513	【危险评级II】临时阵地3-2		
+repression_levelname_4514	【危险评级II】临时阵地3-3		
+repression_levelname_4515	【危险评级III】临时阵地1-1		
+repression_levelname_4516	【危险评级III】临时阵地1-2		
+repression_levelname_4517	【危险评级III】临时阵地1-3		
+repression_levelname_4518	【危险评级III】临时阵地1-4		
+repression_levelname_4519	【危险评级III】临时阵地2-1		
+repression_levelname_4520	【危险评级III】临时阵地2-2		
+repression_levelname_4521	【危险评级III】临时阵地2-3		
+repression_levelname_4522	【危险评级III】临时阵地2-4		
+repression_levelname_4523	【危险评级III】临时阵地3-1		
+repression_levelname_4524	【危险评级III】临时阵地3-2		
+repression_levelname_4525	【危险评级III】临时阵地3-3		
+repression_levelname_4526	【危险评级III】临时阵地3-4		
+			
+			
+repression_levelname_5327	速攻战线-紧急突破I		
+repression_levelname_5330	速攻战线-紧急突破II		
+repression_levelname_5333	速攻战线-紧急突破III		
+repression_levelname_5328	闪击战线-存亡时机I		
+repression_levelname_5331	闪击战线-存亡时机II		
+repression_levelname_5334	闪击战线-存亡时机III		
+repression_levelname_5329	强袭战线-摧坚折锐I		
+repression_levelname_5332	强袭战线-摧坚折锐II		
+repression_levelname_5335	强袭战线-摧坚折锐III		
+			
+			
+repression_levelname_5300	【危险评级I】临时阵地1-1		
+repression_levelname_5301	【危险评级I】临时阵地1-2		
+repression_levelname_5302	【危险评级I】临时阵地2-1		
+repression_levelname_5303	【危险评级I】临时阵地2-2		
+repression_levelname_5304	【危险评级I】临时阵地3-1		
+repression_levelname_5305	【危险评级I】临时阵地3-2		
+repression_levelname_5306	【危险评级II】临时阵地1-1		
+repression_levelname_5307	【危险评级II】临时阵地1-2		
+repression_levelname_5308	【危险评级II】临时阵地1-3		
+repression_levelname_5309	【危险评级II】临时阵地2-1		
+repression_levelname_5310	【危险评级II】临时阵地2-2		
+repression_levelname_5311	【危险评级II】临时阵地2-3		
+repression_levelname_5312	【危险评级II】临时阵地3-1		
+repression_levelname_5313	【危险评级II】临时阵地3-2		
+repression_levelname_5314	【危险评级II】临时阵地3-3		
+repression_levelname_5315	【危险评级III】临时阵地1-1		
+repression_levelname_5316	【危险评级III】临时阵地1-2		
+repression_levelname_5317	【危险评级III】临时阵地1-3		
+repression_levelname_5318	【危险评级III】临时阵地1-4		
+repression_levelname_5319	【危险评级III】临时阵地2-1		
+repression_levelname_5320	【危险评级III】临时阵地2-2		
+repression_levelname_5321	【危险评级III】临时阵地2-3		
+repression_levelname_5322	【危险评级III】临时阵地2-4		
+repression_levelname_5323	【危险评级III】临时阵地3-1		
+repression_levelname_5324	【危险评级III】临时阵地3-2		
+repression_levelname_5325	【危险评级III】临时阵地3-3		
+repression_levelname_5326	【危险评级III】临时阵地3-4		
+			
+			
+repression_levelname_5637	闪击战线-存亡时机I		
+repression_levelname_5640	闪击战线-存亡时机II		
+repression_levelname_5643	闪击战线-存亡时机III		
+repression_levelname_5638	驻防战线-坚守阵地I		
+repression_levelname_5641	驻防战线-坚守阵地II		
+repression_levelname_5644	驻防战线-坚守阵地III		
+repression_levelname_5639	重装战线-雷霆战意I		
+repression_levelname_5642	重装战线-雷霆战意II		
+repression_levelname_5645	重装战线-雷霆战意III		
+			
+			
+repression_levelname_5610	【危险评级I】临时阵地1-1		
+repression_levelname_5611	【危险评级I】临时阵地1-2		
+repression_levelname_5612	【危险评级I】临时阵地2-1		
+repression_levelname_5613	【危险评级I】临时阵地2-2		
+repression_levelname_5614	【危险评级I】临时阵地3-1		
+repression_levelname_5615	【危险评级I】临时阵地3-2		
+repression_levelname_5616	【危险评级II】临时阵地1-1		
+repression_levelname_5617	【危险评级II】临时阵地1-2		
+repression_levelname_5618	【危险评级II】临时阵地1-3		
+repression_levelname_5619	【危险评级II】临时阵地2-1		
+repression_levelname_5620	【危险评级II】临时阵地2-2		
+repression_levelname_5621	【危险评级II】临时阵地2-3		
+repression_levelname_5622	【危险评级II】临时阵地3-1		
+repression_levelname_5623	【危险评级II】临时阵地3-2		
+repression_levelname_5624	【危险评级II】临时阵地3-3		
+repression_levelname_5625	【危险评级III】临时阵地1-1		
+repression_levelname_5626	【危险评级III】临时阵地1-2		
+repression_levelname_5627	【危险评级III】临时阵地1-3		
+repression_levelname_5628	【危险评级III】临时阵地1-4		
+repression_levelname_5629	【危险评级III】临时阵地2-1		
+repression_levelname_5630	【危险评级III】临时阵地2-2		
+repression_levelname_5631	【危险评级III】临时阵地2-3		
+repression_levelname_5632	【危险评级III】临时阵地2-4		
+repression_levelname_5633	【危险评级III】临时阵地3-1		
+repression_levelname_5634	【危险评级III】临时阵地3-2		
+repression_levelname_5635	【危险评级III】临时阵地3-3		
+repression_levelname_5636	【危险评级III】临时阵地3-4		

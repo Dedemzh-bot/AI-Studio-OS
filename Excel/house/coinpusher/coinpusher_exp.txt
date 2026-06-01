@@ -1,0 +1,5 @@
+﻿关卡类型	//注释	每回合经验	总经验加成-拥有角色	总经验加成-拥有皮肤
+ModeType	Comment	TurnExp	ExpAddRole	ExpAddSkin
+1	单人	200	0.1	0.2
+2	无尽	300	0.1	0.2
+3	引导	0		

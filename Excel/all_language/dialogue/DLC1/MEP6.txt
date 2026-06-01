@@ -1,0 +1,66 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	……没有突破口。	……沒有突破口。	……突破口がない。	… 돌파구가 안 보여.	...There's no Ascension fissure.						0	
+2	这就是泰坦吗。	這就是泰坦嗎。	これがタイタンですか。	이게 바로 타이탄인가.	Is this really a Titan?						0	
+auto_13157	不，还没到放弃的时候。	不，還沒到放棄的時候。	まだです、まだ諦める時ではありません。	아직 포기할 때가 아니야.	No, it's not time to give up yet.						0	
+auto_20724	母亲，我曾穿着你留给我的“云篆”通过了试炼，证明了我已经足够强大。	母親，我曾穿著你留給我的“雲篆”通過了試煉，證明了我已經足夠強大。	お母さん、かつて私はあなたが残してくれた雲篆を着て、試練を乗り越え、自分が十分に強いということを証明しました。	어머니가 남겨주신 '미스트'를 입고 시련을 통과해서 이미 나의 강함을 증명했어.	Mother, I wore the Ethereal Cloud you left me and passed the trial. I proved that I'm strong enough.						0	
+auto_5918	现在，我再次穿上云篆。不是为了什么使命，而是作为“姬辰星”，全力去战斗。	現在，我再次穿上雲篆。不是為了什麼使命，而是作為“姬辰星”全力去戰鬥。	今、私は再び雲篆を着ます。何かの使命のためではなく、「姫辰星」として、全力で戦うためです。	지금 다시 한번 '미스트'를 입었고, 이번에는 사명이 아닌 '희수성'으로서 전력을 다해 싸울 거야.	Now, I'm going to put on the Ethereal Cloud again, but this time, as Ji Chenxing. I'm going to fight with everything I have.						0	
+auto_8398	请你保佑我，祝我好运吧。	請你保佑我，祝我好運吧。	どうか見守っていてください。	부디 절 보우해주시고, 행운을 빌어주세요.	Please watch over me and wish me luck.						0	
+b-1											0	
+3	星期三！那边！	星期三！那邊！	リフ！あそこだ！	웬스데이! 저쪽이야!	Wednesday! Over there!						0	
+b-2											0	
+4	芙提雅，麻烦你看一下那批走散的小孩子。	芙提雅，麻煩你照顧一下那些走散的小孩子。	フリティア、はぐれた子供たちの面倒をお願い。	프티야, 길을 헤메고 있는 아이들이 있나 한번 확인해 줘.	Fritia, please watch the child who wandered off.						0	
+5	我呢我呢。	我呢我呢。	あたしはあたしは？	나는? 나는?	What about me?						0	
+b-3											0	
+6	已经联系上其他人了？	已經聯繫上其他人了？	もう他のみんなに連絡できたのか？	다른 사람들하고는 연락됐어?	Were you able to contact the others?						0	
+7	本小姐当前，还关心其他人呢？信号不好，只能联系上距离最近的几个人。	本小姐當前，還關心其他人呢？信號不好，只能聯繫上距離最近的幾個人。	あたしの前で他人の心配？電波悪くて近くの子にしか連絡が取れなかったわ。	이런 상황에서 다른 사람까지 신경 쓴다고? 신호가 안 좋은 것 같아. 가까운 거리에 있는 사람들밖에 연락이 안 돼.	You think I'm in a position to worry about others right now? The signal isn't good, so I can only contact the few people nearest us.						0	
+8	妮塔，她正在用那双“机械手”清路。	妮塔，她正在用那雙“機械手”開路。	ニタは自分の「腕」で道路を掃除してる。	현재 니타가 '로봇팔'로 길을 터주고 있어.	Nita is clearing the way with those "mechanical arms" of hers.						0	
+9	瑟瑞斯找到了，正和恩雅琴诺他们一起赶回来。	已經找到瑟瑞斯了，她正和恩雅琴諾一起趕回來。	シーリスも見つかったわ。今エンヤ姉やチェルノたちと一緒に帰ってくる途中。	세리스를 찾아서 엔야, 체르노와 함께 돌아오는 중이야.	Siris was found, and she's hurrying back with Enya and Cherno.						0	
+b-4											0	
+10	让她们别忙着回来。	叫她們別急著趕回來。	急いで帰ってくる必要はないと伝えてくれ。	너무 서둘러서 돌아올 필요는 없다고 전해줘.	Tell them not to rush.						0	
+b-5											0	
+11	路上有人需要帮忙就搭一手。	路上有人需要幫忙就幫忙一下。	途中で助けが必要な人がいたら、積極的に助けに行ってほしい。	오다가 도움이 필요한 사람이 있으면 도움을 좀 주라고 하고.	They can help out anyone who needs it on the way.						0	
+b-6											0	
+12	居民完全不听指挥啊……	居民完全不聽指揮啊……	住民が全く指示を聞かない……	주민들이 완전히 통제 불능 상태야.	The residents don't follow orders at all...						0	
+13	这不，正是需要我们的时候呀。	這不就正是需要我們的時候嗎。	まさに今こそ、あたしたちが必要とされているときだわ。	마침 우리가 필요한 타이밍 같은데.	Well, that's what we're here for.						0	
+14	被明灯节大使吸引走的注意力……好啦，也该轮到我表演了。	被明燈節大使吸引走的目光……好啦，也該輪到我表演了。	明灯祭大使に注目を奪われたけど……今は、あたしの出番ね。	모두들 등명제에 이목이 끌려있어… 좋았어. 이제 슬슬 움직여 볼까.	The Mingdeng Ritual Ambassador has been stealing the spotlight... Now it's my time to shine.						0	
+15	那边那个小妹妹，别哭啦，姐姐来陪你！别哭啦……别哭呀，你你，你怎么越哭越大声啊！	那邊那個小妹妹，別哭了，姐姐來陪你！別哭了……別哭呀，你你、你怎麼越哭越大聲啊！	そこのお嬢ちゃん、泣かないで、お姉さんが相手してあげるわ！泣かないで……泣かないでよ！ああ……あんた、泣き声がどんどん大きくなってるんだけど！？	거기 꼬마 아가씨, 이제 그만 울어. 언니가 지켜줄 테니까! 아니… 근데 왜 울음 소리가 점점 더 커지는 거야!	Sweetie, don't cry! I'm here! Don't cry... W-Why are you crying even louder!?						0	
+16	危急的情势随着海姆达尔部队的行动逐渐好转，一些得到救助暂告安全的人从惊惶中恢复理智。	危急的情勢隨著海姆達爾部隊的行動逐漸好轉，一些得到救助暫時安全的人從驚惶中恢復理智。	ヘイムダル部隊の行動に伴い、危険な状況は徐々に改善され、助かった人たちもパニックから正気を取り戻した。	위급 상황은 헤임달 부대의 개입으로 조금씩 좋아졌고, 구조를 받고 안전해진 사람들은 하나둘씩 이성을 되찾기 시작했다.	The crisis gradually improved thanks to the Heimdall Force's intervention. Some rescued festival-goers calmed down and regained their sanity.						0	
+17	会场中，原本亮起的直播屏突然开始播放舞台的直播画面。	會場中明亮的螢幕突然開始播放舞台的直播畫面。	会場の中、元々ついていたライブ画面が急に舞台を配信し始めた。	계속해서 켜져 있던 방송 스크린에서 갑자기 무대의 라이브 화면이 송출되기 시작했다.	The livestream screen that lit up suddenly began to broadcast a live video feed of the stage.						0	
+18	尽管受到干扰的画面模糊卡顿，却能够清楚地看见少女正与巨兽奋战的身姿。	儘管受到干擾的畫面模糊卡頓，但還是能夠清楚地看見少女正與巨獸奮戰的身影。	妨害の影響で画面は低画質でカクついているものの、少女が巨大な獣と戦っている姿ははっきりと見える。	통신 교란으로 화면이 흐릿하고 버벅거렸지만, 소녀가 괴수들과 힘겹게 싸우는 모습을 확실하게 확인할 수 있었다.	Though it was blurred and lagging, the image of a girl fighting the giant beast was clearly visible.						0	
+auto_9494	少女明显趋于劣势，但她依旧坚定地立于台上，以略显纤瘦的身躯拦住了巨兽，不曾退缩。	少女明顯處於劣勢，但她依舊堅定地立於舞台上，以略顯纖瘦的身軀攔住巨獸，不曾退縮。	少女は明らかに劣勢だが、それでもしっかりと舞台の上に立ち、怯まず、細い体で巨大な獣を食い止めている。	비록 소녀는 열세였지만, 물러서지 않은 채 연약해 보이는 몸으로 괴수들을 막았고 움츠러들지 않았다.	She was obviously at a disadvantage. Nevertheless, she stood her ground on the stage, unflinchingly holding off the massive beast with her slender frame.						0	
+19	人们被直播屏吸引了目光，渐渐放缓了脚步。	眾人的目光被直播螢幕吸引，而逐漸放緩了腳步。	皆ライブ画面に目を奪われ、足を止めた。	사람들도 스크린을 뚤어져라 쳐다봤고, 발걸음을 조금씩 늦췄다.	As the screen caught the festivalgoers' attention, they began to slow down.						0	
+auto_16796	爷爷！	爺爺！	お爺ちゃん！	할아버지!	Grandpa!						0	
+22	囡囡！囡囡！	丫頭！丫頭！	ああ！うちの孫娘の声だ！	우리 아가! 아가야!	Sweetheart! Sweetheart!						0	
+23	爷爷，囡囡在这里！	爺爺，我在這裡！	お爺ちゃん！私はここだよ！	할아버지! 나 여기 있어!	Grandpa! I'm here!						0	
+auto_2123	老人紧紧抱住自己的孙女，全身止不住地颤抖，提到嗓子眼的心终于放了下来。	老人緊緊抱住自己的孫女，全身止不住地顫抖，緊張不已的心終於放了下來。	老人は自分の孫娘をぎゅっと抱きしめ、しきりに体を震わせる。ハラハラしていた心がやっと落ち着いた。	할아버지는 떨리는 몸으로 손녀를 껴안았고, 터질 것만 같았던 심장이 조금씩 진정되었다.	The old man embraced his granddaughter, his whole body quivering uncontrollably as his trembling heart finally began to calm down.						0	
+24	我的囡囡，可吓坏爷爷了。	我的丫頭，可嚇壞爺爺了。	お前って子は、お爺ちゃんを驚かせて。	우리 아가, 할아버지가 얼마나 놀랬는지 알아?	My sweetheart... You scared Grandpa to death.						0	
+auto_1764	囡囡不怕，爷爷也不怕！	我不怕，爺爺也不怕！	私は怖くないの！お爺ちゃんも怖がらないで！	난 무섭지 않아! 그러니까 이제 할아버지도 무서워 마!	I'm not scared! You shouldn't be scared either, Grandpa!						0	
+25	这一句“不怕”稚嫩而清亮，触动了还在恍惚的人。	這一句“不怕”稚嫩而清亮，觸動了還在恍惚的人。	「怖くない」――幼く純粋なこの一言は、声を聞いた周囲の人々をはっと気づかせ、感動させた。	'무서워 마'라고 말하는 한 소녀의 맑고 청량한 목소리가 들려오자, 멍해 있던 사람들은 조금씩 정신을 차리기 시작했다.	The pure innocence of the girl's words touched people who were still entranced.						0	
+26	他们终于看清了周围：有人在保护他们的安全，有亲友在等着他们，还有人需要帮助。	他們終於看清了周圍：有人在保護他們的安全，有親友在等著他們，還有人需要幫助。	人々はやっと周囲をはっきりと見渡した――自分たちを守ってくれている人、待ってくれている親友、助けを必要としている人がいる。	정신을 차린 사람들은 주변을 둘러봤다. 그들을 안전하게 지켜주는 사람도 있었고, 그들을 기다리고 있는 친인척도 있었으며, 도움이 필요해 보이는 사람들도 있었다.	They finally became aware of their surroundings, gazing upon people protecting them, family and friends waiting for them, and others who still needed help.						0	
+27	起初，只是有人下意识地拉了一把跌倒在身边的人，令其免于被踩踏。	起初，只是有人下意識地拉了一把跌倒在身邊的人，使其免於遭到踩踏。	最初はただ無意識に、隣で転んだ人が踏まれないようにと助けただけだった。それが、大切な人の無事を祈る心に繋がっているということを、人々は再認識した。	일부 사람들은 무의식적으로 자신의 주변에 쓰러져 있는 사람이 누군가에게 밟히지 않도록 일으켜 세워줬고,	At first, someone had unconsciously pulled up another person who had fallen down, protecting him from getting trampled.						0	
+28	接着，许多人仿佛幡然醒悟一般迈出脚步，奔向那些呼救的生命。	接著，許多人彷彿大夢初醒一般邁出腳步，奔向那些呼救的生命。	そして多くの人が悟ったように歩き出し、助けを求めている人のもとに駆け寄っていった。	순간 대다수의 사람들이 무언가를 깨달은 듯 앞으로 나서서 도움을 청하는 사람들에게 달려갔다.	Suddenly, more and more people stepped forward as if they had come to their senses, and they ran toward those crying out for help.						0	
+29	我的腿，救命，我的腿！	我的腿，救命，我的腿！	脚が……助けてくれ、私の脚がっ！	아아… 내 다리… 살려주세요! 으윽…	My leg! Help! My leg!						0	
+30	啊，不幸的愚民……	啊，不幸的愚民……	ああ、不幸な愚民……	후… 불쌍한 시민들…	What an unlucky fool...						0	
+31	啧，是降临团的疯子。	嘖，是泰坦瘋子。	チッ、タイタンのイカレ野郎かよ。	어이, 정신나간 강림단 아가씨.	Tch, it's an Adventist wacko.						0	
+32	别废话了，搭把手。	別廢話了，幫忙一下。	くだらないこと言ってないで、手を貸してくれ。	쓸데없는 소리 하지 말고, 어서 와서 도와주기나 해.	Quit talking nonsense. Give me a hand.						0	
+33	你那样会把他拉伤的。	你那樣會把他拉傷的。	そう引っ張ると、彼は怪我をしてしまう。	그런 식으로 무턱대로 당기면 상대방이 아플 거야.	You'll hurt him if you pull like that.						0	
+34	哈哈，两位，谢谢两位……	哈哈，兩位，謝謝兩位……	はは、二人とも、ありがとうな……	하아… 두 분, 정말 감사합니다…	Hah... thank you, you two...						0	
+37	这边，过来几个人，我们把他抬出去！	這邊，過來幾個人，我們把他抬出去！	こっちだ、何人か来てくれ。一緒にコイツを運び出すぞ！	이쪽에 몇 명만 더 도와주세요. 같이 들어서 옮겨요!	Over here! We need a hand! Let's carry him out!						0	
+38	搂紧我，我抱你起来。	摟緊我，我抱你起來。	しっかり掴まって、抱えてやるから。	날 꽉 껴안아. 내가 안아서 일으켜줄 테니까.	Hold on tight. I'll pick you up.						0	
+39	你家人哪去了？	你家人去哪裡了？	お前の家族はどこだ？	가족들은 어디에 있어?	Where's your family?						0	
+40	别哭了，乖乖。快看那边，有人正在和泰坦战斗！	別哭了，乖乖。快看那邊，有人正在和泰坦戰鬥！	よしよし、泣かないで。あそこを見て、タイタンと戦っている人がいるぞ！	착하지. 울면 안 돼. 저기 좀 봐. 누군가 타이탄하고 싸우고 있어!	Don't cry, okay? Look over there! Someone is fighting a Titan!						0	
+41	那是谁？看不清啊！	那是誰？看不清啊！	あれは誰だ？よく見えないぞ！	저게 누구지? 잘 안 보이는데.	Who's that? I can't see!						0	
+42	看不清啊……管他的！加油！给老子打他！	看不清啊……管他的！加油！給老子打他！	よく見えないな……誰でもいいから、頑張れ！そいつをボコボコにしてやれ！	잘 안 보여… 아무렴 어때! 제발 녀석들을 혼내줘!	I can't tell... Well, whatever! Come on! Hit him for me!						0	
+auto_7553	勇气和希望的火种被点燃。	勇氣和希望的火種已被點燃。	勇気と希望の灯がともされた。	용기와 희망의 불씨가 타올랐다.	The embers of courage and hope were set alight.						0	
+43	方才在惊慌中从人们手中跌落的灯笼，散发出星星光点。	方才在驚慌中從人們手中掉落的燈籠，散發星星點點的火光。	先ほどパニックになった人々の手から落ちた灯籠が、星のような光を放っていた。	방금 전까지 당황한 사람들 손에서 떨어졌던 초롱이 주위를 밝히기 시작했다.	The lanterns that everyone had dropped in a panic shone like stars.						0	
+44	接着，一盏亮起，又一盏亮起……缓缓升起的灯笼向着燃灯台飞去。	接著，一盞亮起，又一盞亮起……緩緩升起的燈籠向著燃燈臺飛去。	そして一つ、また一つ……ゆっくり上昇する灯籠が、点灯台の方へ飛んで行った。	그러더니 하나둘씩 불이 붙기 시작했고… 초롱은 천천히 떠오르며 연등대를 향해 날아갔다.	Then, one after another lit up, the rising lanterns slowly floating up toward the lighting stage...						0	
+45	手忙脚乱的人们似乎发现了这些灯笼，凝望着它们飞去的地方——	手忙腳亂的人們似乎發現了這些燈籠，凝望著它們飛去的地方——	慌てていた人々は灯籠のことに気づき、その飛んで行った先を眺めていた――	바쁘게 움직이던 사람들은 그제서야 초롱을 발견했는지, 등불이 향하는 곳을 쳐다봤다…	As people rushed around hastily, they seemed to have noticed the lanterns, staring at them as they rose.						0	
+46	那里有人正为了他们战斗。	在那裡有人正為了保護他們而戰。	そこで彼らのために戦っている人がいる。	그곳에는 누군가 그들을 위해 싸우고 있었다.	Someone was there, fighting for them.						0	
+47	（陷入僵局了啊……一点办法都没有吗。）	（陷入僵局了啊……毫無辦法了嗎。）	（強い……もうこれ以上どうすることもできないの……？何か、何か突破口を……）	(궁지에 몰렸어… 다른 방법이 없는 걸까?)	(It's a stalemate... There's nothing I can do.)						0	
+48	呼，呼……我得冷静下来。等等，这些灯笼是哪里飞来的？！	呼、呼……我得冷靜下來。等等，這些燈籠是從哪裡飛來的？！	……！！こ、この灯籠は……どこから……！？	후우… 후우… 냉정해야 해. 잠깐만… 이 초롱들은 어디서 나타난 거지?!	*huff*... *huff*... I need to calm down. Wait, where did these lanterns come from!?						0	
+49	（有一股温暖的力量……）	（有一股溫暖的力量……）	（温かい力が……）	(따듯한 힘이 느껴져…)	(There's a warming power...)						0	
+50	众生芸芸。	芸芸眾生。	「生きとし生けるもの」――	수많은 생명의,	All mortal beings.						0	
+51	尔等愿祈，了。	爾等祈願，了。	彼らの願い、しかと受け取めました。	소원이 이루어지길.	Thou shall wait and pray.						0	
+52	五行行阵。	五行行陣。	「五行の陣」――	오행진.	Five elements array.						0	
+53	妖魔鬼怪，退下！	妖魔鬼怪，退下！	魑魅魍魎よ、散りなさい！	요괴들이여, 물러나라!	Demons and beasts, begone!						0	

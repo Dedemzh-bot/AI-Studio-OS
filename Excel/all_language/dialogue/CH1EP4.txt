@@ -1,0 +1,66 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	外围区域肃清，未发现标记外的敌对武装人员。	外圍區域肅清，未發現標記外的敵對武裝人員。	周辺エリアクリア。新たな敵影なし。	외부 구역 클리어. 표식 된 타깃 외에는 이상 없어.	Outer sweep complete, no hostiles in the vicinity of the perimeter.						0	
+2	星期三好像已经从刚才的情绪中恢复了。	星期三好像已經從剛才的情緒中恢復了。	ウェンズデーは「オーディン」から回復したようだ。	웬스데이는 조금 전의 기분에서 회복된 것 같았다.	Wednesday had seemingly recovered from her emotional unrest.						0	
+3	目标周围肃清，我准备进去看看，分析员，把回收物资清单发我。	目標周圍肅清，我準備進去看看，分析員，把回收物資清單發給我。	目標周辺クリア。あたしが入るわ。分析員、回収物のリストを頂戴。	타깃 주변 클리어. 들어가서 확인해 볼게. 분석가, 회수 물자 리스트 좀 보내줘.	The area around the target is clear — I'm going to check it out. Adjutant, send me the list of goods that need to be recovered.						0	
+4	我刚把物资清单发送过去，就听见通讯中传来“咚”“砰”之类的杂音。	我剛把物資清單發送過去，就聽見通訊中傳來“咚”“砰”之類的雜音。	リストを送ってすぐに通信機から敵との戦闘音が聞こえてきた。	물자 리스트를 보내려던 순간, 단말기에서 '쿵…' '쾅…'거리는 소리가 들려오는데.	*BANG* *BOOM* As soon as I sent over the list, I heard a ruckus over the communicator.						0	
+5	最后传来一声金属折断的脆响，杂音终于停止，静默片刻后，芬妮再次开口。	最後傳來一聲金屬折斷的脆響，雜音終於停止，靜默片刻後，芬妮再次開口。	金属が折れる音を最後に、ノイズが消える。少しの沈黙のあと、ファニーが喋り始めた。	금속 같은 것이 끊어지는 소리가 들렸고, 한동안 조용하더니 페니의 말이 들려왔다.	There was the final echo of a metallic snap, then silence. After a pause, Fenny spoke again.						0	
+6	有个坏消息，我们好像麻烦大了。	有個壞消息，我們好像麻煩大了。	悪いニュースよ。面倒なことになりそうね。	나쁜 소식이 하나 있는데, 조금 귀찮아진 거 같아.	Bad news — looks like we're in big trouble.						0	
+7	火箭搭载的物资，呵，与其说是物资，不如说只有武器。	火箭搭載的物資，呵，與其說是物資，不如說只有武器。	ロケットに搭載されてた物資は……物資と言うより、武器ね。	로켓에 탑재된 물자… 아니, 물자라기보다는 무기라 표현하는 것이 맞겠네.	The goods onboard the rocket aren't so much "goods" as they are weapons.						0	
+8	我再次查看物资清单，的确，二型验证机甲、单兵式碎甲火箭筒……清单上写满了武器名称。	我再次查看物資清單，的確，二型驗證機甲、單兵式碎甲火箭筒……清單上寫滿了武器名稱。	私はもう一度物資リストをチェックする。2型検証機甲、歩兵用徹甲ロケットランチャー……確かに、リストには武器の名前がびっしりと書かれている。	난 물자 리스트를 확인했고, 페니 말대로 리스트에는 Type.II 인증 기갑, 단병식 파쇄 로켓포… 등 무기 명칭으로 가득했다.	I checked the list again. "Ni-Type Mech," "Anti-Armor Rocket Launcher"... It was full of weapons.						0	
+9	我已经数过一遍了，武器的数目对不上。总之，所有与清单对不上的条目我都已经标记了。	我已經數過一遍了，武器的數目對不上。總之，所有與清單對不上的條目我都已經標記了。	それをチェックしたけど、武器の数が合わないの。とにかく、リストと合わない項目にマークしておいたわ。	내가 한 번씩 다 세어봤는데 말이지… 무기 수량이 맞지 않아. 아무튼 리스트에 적힌 거랑 다른 건 다 표시해놨어.	I already counted, and the number of weapons doesn't match up. I've flagged any that are missing.						0	
+10	芬妮在二型验证机甲的条目后方做了着重标记——“重要遗失物”，其余种类的武器条目也有不少被标记为“遗失”。	芬妮在二型驗證機甲的條目後方做了著重標記——“重要遺失物”，其餘種類的武器條目也有不少被標記為“遺失”。	ファニーは2型検証機甲にマークをつけた。「重要な紛失物」、他の種類の武器にもいくつか「紛失」とマークされている。	페니는 TypeII 인증 기갑 항목에 '중요 유실 품목'이라고 표시했다. 다른 종류의 무기 항목에도 '유실 품목'이라고 표시한 것이 많았다.	Fenny had flagged the Ni-Type Mech as a "Key Lost Item." Several other weapons were also marked "Lost."						0	
+b-1											0	
+11	这些写了“损坏”的是……	這些寫了“損壞”的是……	「損傷」と書かれてるものは……	여기 '파손'이라고 적힌 건…	The ones marked as "Damaged" are...?						0	
+12	就是字面意思，已经损坏，不能使用的。	就是字面意思，已經損壞，不能使用的。	文字通り、損傷して、もう使えそうにないものね。	적힌 그대로야. 이미 파손돼서 사용할 수 없다는 말이지.	Just like it says. They've been damaged beyond use.						0	
+13	我不打算深究这背后的含义……	我不打算深究這背後的含義……	私はそれが何を意味しているかを、深く考えないことにした……	난 이 말에 숨겨진 뜻을 굳이 추궁하고 싶지는 않았다…	I decided not to pursue it any further...						0	
+b-2											0	
+14	喂，卡罗琳，能听到吗？	喂，卡羅琳，能聽到嗎？	もしもし、カロリン、聞こえるか？	여보세요, 캐롤린? 들려?	Hey, Caroline, can you hear me?						0	
+15	我再次尝试呼叫卡罗琳。这次终于有了回应。	我再次嘗試呼叫卡羅琳。這次終於有了回應。	カロリンに連絡を試みて何度目か、ようやく応答があった。	난 다시 한번 캐롤린을 호출했고, 이번에는 신호가 닿았는지 대답을 들을 수 있었다.	I once again tried calling Caroline, and this time, I finally received a response.						0	
+16	终于联系上了！你们刚刚是遭遇了泰坦吗？	終於聯繫上了！你們剛剛是遭遇了泰坦嗎？	やっと繋がりましたね！先ほどはタイタンに遭遇したのですか？	드디어 통신이 연결됐네요! 방금 타이탄을 만났던 건가요?	It's finally working! Did you just run into a Titan?						0	
+17	我简单向卡罗琳说明了情况。	我簡單向卡羅琳說明了情況。	私は状況を手短にカロリンへ説明した。	캐롤린에게 간단하게 상황을 설명했다.	I explained the situation to Caroline.						0	
+18	真的尤弥尔吗？确定没有看错？它自从“降临事件”后就再也没有出现过。	真的是尤彌爾嗎？確定沒有看錯？它自從“降臨事件”後就再也沒有出現過。	本当にユミルですか？見間違いではなくて？ユミルは「降臨事件」以来、一度も現れていないんですよ。	이미르라고요? 잘못 본 거 아니에요? '강림 사건' 이후에는 단 한 번도 나타난 적이 없잖아요.	Was it really Ymir? Are you sure? It hasn't been spotted since "The Descent."						0	
+19	尤弥尔的问题回来再聊，先说回眼下的任务……	尤彌爾的問題回來再聊，先說回眼下的任務……	ユミルの問題は後にしましょう、まずは現在のミッションについて……	이미르 문제는 나중에 이야기하고, 일단은 현재 진행 중인 미션에 대해서 말해 보죠…	We'll discuss Ymir after you get back. Let's talk about the task at hand for now...						0	
+20	你们已经找到火箭了对吧？	你們已經找到火箭了對吧？	ロケットは見つけたんですね？	로켓은 이미 찾은 거죠?	You've already located the rocket, correct?						0	
+b-3											0	
+21	对，火箭里为什么会装这么多武器？	對，火箭裡為什麼會裝這麼多武器？	ああ。だが、どうしてこのロケットには武器が満載なんだ？	맞아. 로켓에 왜 이렇게 많은 무기가 들어 있는거지?	Yes. Why are there so many weapons on the rocket?						0	
+22	事实上……它里面应该还乘坐着另一支受命回收槲寄生空间站的小队。	事實上……它裡面應該還乘坐著另一支受命回收槲寄生太空站的小隊。	実は……その中には、ヤドリギ宇宙ステーションを回収するための、別の小隊が乗っているはずでした。	사실… 로켓 내부에는 미스틸테인 우주정거장 회수 미션을 맡은 소대도 같이 타고 있어야 했어요.	Well... it was carrying another squad that was sent to recover Mistilteinn Station.						0	
+23	火箭于2058年2月15日发射……在接近槲寄生空间站时失去控制，直到前不久才坠毁于缓冲区。	火箭於2058年2月15日發射……在接近槲寄生太空站時失去控制，直到前不久才墜毀於緩衝區。	ロケットは2058年2月15日に打ち上げられ……ヤドリギ宇宙ステーションに近づく際に制御を失い、つい最近、近くのバッファーエリアに墜落しました。	로켓은 2058년 2월 15일에 발사돼서… 미스틸테인 우주정거장에 접근을 시도했다가 제어를 잃고 얼마 전에 버퍼 구역에 추락한 거예요.	After being launched on February 15th, 2058, the rocket lost control as it was approaching Mistilteinn Station... It only recently crashed in the Buffer Sections.						0	
+24	我们没有在火箭内部发现有人员的活动痕迹，或是遗体。	我們沒有在火箭內部發現有人員的活動痕跡，或是遺體。	ロケットの内部で人が活動した痕跡や遺体は見つからなかった。	로켓 내부에서 누군가 활동했던 흔적이나 시신 같은 건 전혀 발견하지 못했어.	We didn't discover any signs of life or human remains inside the rocket.						0	
+25	这确实很反常。	這確實很反常。	それはおかしいですね。	확실히 이상하네요.	That's very strange.						0	
+b-4											0	
+26	有分析过坠落轨迹吗？	有分析過墜落軌跡嗎？	墜落の軌跡を分析したか？	추락 궤적은 분석해 봤어?	Did you analyze its free-fall trajectory?						0	
+27	坠落轨迹没有问题，它失控后一直在沿低轨道做周期运动，直到前一段时间与其他飞行器相撞才偏离轨道……	墜落軌跡沒有問題，它失控後一直在沿低軌道做週期運動，直到前一段時間與其他飛行器相撞才偏離軌道……	墜落の軌跡に問題はありません。制御を失った後、ロケットは低軌道で周期的な運動を続け、最近他の宇宙船と衝突するまで軌道から外れませんでした。	추락 궤적은 문제없어요. 제어를 잃은 후 저공 궤도에서 주기적으로 움직이다가, 얼마 전에 어떤 비행 물체와 충돌해서 궤도를 이탈하고…	Its trajectory was normal, and it was moving periodically in low orbit ever since it lost control. It didn't deviate from its orbit until it collided with another craft a while ago...						0	
+b-5											0	
+28	刚好落在了零区内？	剛好落在了零區內？	ちょうどエリアゼロに落ちたのか？	우연히 제로 구역에 떨어졌다는 거야?	And it happened to land in the Containment Zone?						0	
+b-6											0	
+29	调查一下还有没有其他相似的事件。	調查一下還有沒有其他相似的事件。	他に類似の事件がないか調査して。	비슷한 사건이 있었는지 조사 좀 해줘.	Check to see if there have been any similar incidents.						0	
+30	没问题。	沒問題。	了解です。	알겠어요.	Sure.						0	
+31	我会再从其他方面入手，重新收集情报。	我會再從其他方面入手，重新收集情報。	私は他の方法でもう一度調べてみますね。	다른 각도에서 다시 정보를 수집해 볼게요.	I'll start with other criteria and search again.						0	
+32	你们现在打算怎么办？	你們現在打算怎麼辦？	あなたたちはどうしますか？	다들 이제 어떻게 할 계획이시죠?	What are you guys going to do now?						0	
+b-7											0	
+33	我们重新梳理一下现状。	我們重新梳理一下現狀。	状況をもう一度整理しよう。	상황을 다시 정리해 보자.	Let's reassess the current situation.						0	
+b-8											0	
+34	郊狼发现了火箭的位置，并搬走了里面的部分武器，那么……	郊狼發現了火箭的位置，並搬走了裡面的部分武器，那麼……	コヨーテはロケットを見つけ、中にある武器の一部を持ち去ったらしい、だから……	코요테가 로켓의 위치를 발견했고, 안에 있던 무기를 일부 가져갔어. 그렇다면…	The Coyotes found the rocket and removed some of the weapons onboard, so...						0	
+b-9											0	
+35	他们一定会再次回来搬运剩下的武器。	他們一定會再次回來搬運剩下的武器。	彼らはきっとまた戻ってきて、残りの武器も回収するだろう。	분명 나머지 무기를 챙기러 다시 올 거야.	They'll definitely be back to get the rest of the weapons.						0	
+b-10											0	
+36	任务难度升级了，我们要在这里阻击郊狼。	任務難度升級了，我們要在這裡阻擊郊狼。	ミッションの難易度が上がった、ここでコヨーテを阻止しなければならない。	미션의 난이도가 올라갔어. 이곳에서 코요테를 막아야 해.	Our mission just got more difficult. We need to stop the Coyotes here.						0	
+37	要搬运机甲和这么多重武器，可不是一般的小团伙能够搞定的。	要搬運機甲和這麼多重武器，可不是一般的小團伙能夠搞定的。	こんな重い武器やメカを運ぶのは、小人数ではできません。敵はそれなりの規模だと予想されます。	기갑과 중형 무기를 옮기기 위해선 적지 않은 숫자가 몰려올 거예요.	Transporting a mech and that many weapons isn't something a little ragtag group could handle.						0	
+38	各位恐怕还需要再加加班。	各位恐怕還需要再加加班。	皆さんに残業してもらうことになりそうですね。	그럼… 모두들 수고 좀 해주세요.	You might need to put in some overtime.						0	
+39	回来请你们喝密米尔气泡水……	回來請你們喝密米爾氣泡水……	帰ったらミーミルソーダでも奢りますよ……	대신 돌아오시면 제가 미미르 탄산수 꼭 사드릴게요!	I'll buy you guys some Mimir Soda when you get back...						0	
+40	分析员，我们需要呼叫支援。	分析員，我們需要呼叫支援。	分析員、支援を要請する必要がある。	분석가, 지원 요청을 해야 해.	Adjutant, we have to call for backup.						0	
+41	星期三竟然会呼叫支援？？？	星期三竟然會呼叫支援？？？	！？ウェンズデーが支援を要請するなんて！	지원 요청을 한다고???	Even Wednesday wants backup???						0	
+42	不过要我们三个人守住这里，即使是本小姐也……感到稍稍有些棘手。	不過要我們三個人守住這裡，即使是本小姐也……感到稍稍有些棘手。	まぁ、たった3人でここを守るのは、このあたしでも……ちょっと難しいとは思う。	그건 그래… 우리 셋이서 이곳을 지키려면 아무리 페니라도… 조금 힘들 것 같긴 해.	Well, I have to admit, guarding this place... would be pretty tough for the three of us.						0	
+43	不能干脆销毁剩下这些武器吗？	不能乾脆銷毀剩下這些武器嗎？	いっそのこと残りの武器をぶっ壊しちゃえば？	그냥 남은 무기들도 부숴버리면 안 돼?	Couldn't we just destroy the rest of the weapons?						0	
+44	你是要连火箭一起炸掉？	你是要連火箭一起炸掉？	ロケットごと爆破するつもりですか？	로켓도 같이 터뜨리자는 말인가요?	Are you going to blow up the entire rocket?						0	
+45	我们还要进一步调查火箭的坠落原因。	我們還要進一步調查火箭的墜落原因。	私たちはまだロケットが墜落した原因を調査する必要があります。	추락한 원인에 대해서 더 심도 있는 조사가 필요해요.	We still have to investigate why the rocket fell in the first place.						0	
+46	……	……	……	…	...						0	
+47	别担心，支援已经就位了。	別擔心，支援已經就位了。	ご安心ください、支援はすでに到着しました。	걱정하지 마세요. 지원 준비는 다 됐으니.	Don't worry. Your backup has already arrived.						0	
+48	芙提雅和茉莉安按照分析员的要求，正在指定地点待命。	芙提雅和茉莉安按照分析員的要求，正在指定地點待命。	フリティアとマリアンが分析員の要請に従って、指定された場所で待機しています。	분석가님 요청으로, 프티야와 마리안이 지정 위치에서 대기하고 있어요.	As the Adjutant requested, Fritia and Marian are waiting at the designated location.						0	
+49	安全部的支援也正在赶来的路上。	安全部的支援也正在趕來的路上。	安全部も支援に向かっています。	안전부에서도 지원을 오고 있는 중이고요.	Backup from the Security Department is on the way too.						0	
+50	所以你是早就想到了这次任务会出问题？	所以你是早就想到了這次任務會出問題？	分析員……あなたはこのミッションでトラブルが発生する可能性を、最初から予測していたんですか？	이번 미션에서 문제가 생길 거란 걸 이미 알고 계셨던 건가요?	So you knew something would go wrong on this mission from the beginning?						0	
+b-11											0	
+51	没有人能未卜先知。	沒有人能未卜先知。	誰も未来を予知することはできない。	미래를 어떻게 알겠어.	No one can predict the future.						0	
+b-12											0	
+52	但可以“永远都有plan B”。	但可以“永遠都有plan B”。	ただし、常に「プランB」を持つことはできる。	하지만 '항상 플랜B를 갖고' 있을 순 있으니까.	But we can "always have a plan B."						0	

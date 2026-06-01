@@ -1,0 +1,21 @@
+任务Id	任务类型（LongRangeKill = 1,CloseRangeKill = 2,HipFireKill = 3,AimFireKill = 4,CriticalHitKill = 5,BurningKill = 6,ColdKill = 7,StationaryKill = 8,MovingKill = 9,BoomKill = 10,UltimateKill = 11,AllSkillKill = 12,EnergyKill = 13,ElectricKill = 14,SpecificKill = 15,FullCombo = 16,KillCombo = 17）	任务参数（击杀数，击杀条件(0无条件,1同时)）	分数	挑战任务描述	挑战任务活动主界面描述	备注	备注（所属DLC）
+Id	Type	Param	Score	Desc	DescUi	Null	Null
+1	10	{3,1}	1000	defenselevel.Def_Chal_811_All	defenselevel.Def_Chal_811_All_UI	炸药桶同时击败3名敌人	
+2	1	{3}	1000				
+3	3	{50}	1000	defenselevel.Def_Chal_812	defenselevel.Def_Chal_812_UI	非瞄准击败50个敌人	
+4	3	{3}	1000				
+5	4	{3}	1000				
+6	11	{4,1}	1000	defenselevel.Def_Chal_823	defenselevel.Def_Chal_823_UI	爆发技同时击败4名敌人	
+7	6	{3}	1000				
+8	7	{3}	1000				
+9	5	{30}	1000	defenselevel.Def_Chal_822	defenselevel.Def_Chal_822_UI	弱点击败敌人30名敌人	
+10	9	{3}	1000				
+11	10	{3}	1000				
+12	11	{4,1}	1000	defenselevel.Def_Chal_813	defenselevel.Def_Chal_813_UI	爆发技同时击败4名敌人	
+13	12	{4,1}	1000	defenselevel.Def_Chal_913	defenselevel.Def_Chal_913_UI	技能同时击杀4名敌人	
+14	2	{60}	1000	defenselevel.Def_Chal_912	defenselevel.Def_Chal_912_UI	近距离（10米内）击败60个目标	
+15	3	{50}	1000	defenselevel.Def_Chal_15	defenselevel.Def_Chal_15_UI	通过非瞄准射击击败50个目标	
+16	9	{50}	1000	defenselevel.Def_Chal_16	defenselevel.Def_Chal_16_UI	处于移动状态时击败50个目标	
+17	17	{10,3}	1000			连击数测试，10	
+18	17	{100,3}	1000	defenselevel.Def_Chal_18	defenselevel.Def_Chal_18_UI	连续击败100个目标	
+666	16		3000	defenselevel.Def_Chal_17	defenselevel.Def_Chal_17	连续击败所有目标	

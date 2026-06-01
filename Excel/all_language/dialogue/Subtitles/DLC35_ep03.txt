@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1000	即使如此，您也还是想要拯救我吗？	即使如此，您也還是想要拯救我嗎？	この期に及んで、まだ私を助けようとするんですか？	그런데도 당신은 여전히 절 구원하고 싶나요?	Even after everything, you still want to save me?						0	3.5版本协议动画字幕
+1001	主管果然……很温柔啊	主管果然……很溫柔啊	やはり部長は、優しいんですね…	관리자님은 역시… 따뜻하시네요	Chief... you really are... so gentle.						0	3.5版本协议动画字幕

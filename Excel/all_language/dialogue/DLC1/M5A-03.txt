@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	只是这点疼痛，就让我来承担吧。	只是這點疼痛，就讓我來承擔吧。	この程度の痛みは、私が背負いましょう。	이 정도 통증은 그냥 스스로 견딜 수 있게 해주세요.	It only hurts a bit... I can handle it.						0	
+2	伤势如何？如果我没能赶来，你知道会发生什么后果吗！	傷勢如何？如果我沒能趕來，你知道會發生什麼後果嗎！	傷はどうだ？自分が来なければどうなってたか分かるか？	다친 곳은 좀 어때? 내가 제시간에 와서 다행이지. 만약 조금이라도 늦었으면 어쩌려고 그런 거야?	How's the wound? Do you know what would've happened if I hadn't gotten here in time!?						0	
+3	没事的，我避开了要害。	沒事的，我避開了要害。	平気ですよ、急所は避けています。	급소는 피했으니 그렇게 걱정하실 필요 없어요.	It's alright. I avoided getting hit in any vital areas.						0	
+4	真不知道是谁教给你这种作战方式……	真不知道是誰教給你這種作戰方式……	こんな戦い方、誰に教わったんだ……	도대체 이런 전투 방식은 누구한테 배운 거야…	I really don't know who taught you to fight like that...						0	
+5	我知道你是为了救人，但即使是天启者，也不该这么鲁莽。	我知道你是為了救人，但即使是天啟者，也不該這麼魯莽。	人を助けるためなのは分かるが、いくら覚醒者であっても、無茶しすぎた。	아무리 사람을 구한다고 해도 계시자가 이렇게 무모하게 행동해서는 안 돼.	I know you're trying to save lives, but you can't be this reckless — even if you are a Manifestation.						0	
+6	这样就能保全那里所有的人。如果是李上尉，一定也会这么做的，只是我比较笨拙……	這樣就能保全那裡所有的人。如果是李上尉，一定也會這麼做的，只是我比較笨拙……	こうすれば全員を守れます。李大尉もきっとそうするでしょう。私が不器用なだけです。	이렇게 안 했으면 거기 있는 사람들을 지켜낼 수 없었을 거예요. 이대위 님이었어도 분명 이렇게 했을 거예요…	I can protect everyone this way. Captain Li would do the same... I'm just a little clumsy...						0	
+7	据我所知，以你的能力，即使不用身体去抵挡，也能帮那些人全身而退。	據我所知，以你的能力即使不用身體去抵擋，也能幫助那些人全身而退。	自分の知る限り、マリアンが体を張らなくてもあの人たちが安全に撤退するための援護はできるはず。	마리안 능력이면 그렇게 몸으로 막지 않아도 충분히 처리할 수 있는 걸로 알고 있는데.	The way I see it, you really don't need to use your body as a shield. You could've helped those people escape without a scratch using your ability alone.						0	
+8	那女孩想都没想就扑过来了……那伤看着真疼啊。	那女孩想都沒想就撲過來了……那傷看著真疼啊。	あの女の子は何も考えずに飛び込んできた……なんて痛々しい傷だ。	여자가 겁도 없이 달려들었어… 저 상처 좀 봐… 보기만 해도 아퍼 보여.	That girl rushed over without even thinking about it... Her wound looks really painful.						0	
+9	受了那么重的伤还能继续战斗，不愧是海姆达尔的。	受了那麼重的傷還能繼續戰鬥，不愧是海姆達爾的。	あれ程の重症を負っても戦い続けるなんて、さすがヘイムダルというべきか。	저렇게 큰 상처를 입었는데도 계속해서 싸우다니. 역시 헤임달 부대야.	Only someone from Heimdall could keep fighting with such a serious injury...						0	
+10	本来我觉得这次明灯新仪要完蛋了，但有她们在，应该也不会出什么大事。	本來我覺得這次明燈新儀要完蛋了，但有她們在，應該也不會出什麼大事。	もともと私は今回で明灯新祭はおしまいだと思ってた。でも彼女たちがいれば、うまくいくだろう。	사실 이번 등불 의식은 더 이상 희망이 없다고 생각했었는데, 그래도 헤임달 부대 대원들이 있어서 큰일은 없을 것 같네.	I thought the Mingdeng Ritual was done for, but it looks like they won't let anything bad happen.						0	
+11	这是你的目的？	這是你的目的？	これがマリアンの目的か？	이게 네가 원했던 그림인가?	Is this what you wanted?						0	
+12	唉……但我会把这件事报告给分析员，尽快送你去医务室。	唉……但我會把這件事報告給分析員，儘快送你去醫務室。	はあ……だがこの件は分析員に報告するからな。医務室まで送るよ。	후… 분석가한테 보고하고, 널 최대한 빨리 의무실로 보내야겠어.	*sigh*... Anyway, I'll report this to the Adjutant and get you to the infirmary stat.						0	
+13	受惊群众已经疏散完成，受伤人员……只有茉莉安。	受到驚嚇的群眾已經疏散完成，受傷人員……只有茉莉安。	襲われた群衆の避難は完了した。負傷者は……マリアンだけだ。	놀란 사람들은 이미 대피시켰고, 다친 사람은… 마리안뿐이야.	The frightened crowd was evacuated. As for the injured... only Marian got hurt.						0	
+16	旁边的茉莉安护着手臂沉默着，在听了晴的汇报后，我才清楚了事情的前因后果。	旁邊的茉莉安護著手臂一言不發，在聽了晴的匯報後，我才清楚了事情的前因後果。	マリアンはただただ静かに腕を抑えている。晴の報告を聞いて、事件の一部始終を知った。	마리안은 팔을 감싼 채 묵묵히 서있었고, 난 하루의 보고를 듣고 나서야 자초지종을 파악할 수 있었다.	Marian sat off to the side, holding her arm in silence. After taking in Haru's report, I finally understood the full scope of the incident.						0	
+17	但看到一向优雅的茉莉安，在此刻狼狈的样子时，还是心生抱歉。	但看到一向優雅的茉莉安此刻狼狽的模樣時，我還是不由得心生歉意。	いつも優雅に振る舞うマリアンのこんな姿を見て、とても申し訳ない気持ちになった。	항상 기품이 있어 보이던 마리안이 괴로워하는 모습을 보자 미안한 마음이 들었다.	I was filled with regret upon seeing the typically elegant Marian in such a dismal state.						0	
+b-2											0	
+19	注意安全，之后还要一起过明灯节呢。	注意安全，之後還要一起過明燈節呢。	安全第一で行こう。そのあと一緒に明灯祭を過ごそう。	다들 몸조심하세요. 등불 의식은 계속해서 이어질 예정이니.	Be careful, and we'll all celebrate Mingdeng Jie together later.						0	

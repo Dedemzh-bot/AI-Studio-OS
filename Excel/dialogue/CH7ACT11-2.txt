@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	芙提雅			呜哇！！！又是那种双足机器人！	0	
+2		0	芙提雅			还有那种叫“ 波伏娃”的机械人偶！	0	
+auto_25300		0	芬妮			萨特的看门犬，“汪汪”叫着，是在提醒主人快跑吗？	0	

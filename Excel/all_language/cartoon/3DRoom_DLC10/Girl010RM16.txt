@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，我觉得我可能病了。	分析員，我覺得我可能生病了。	分析員。私、体調崩したかも。	분석가, 나 아픈 것 같아.	Adjutant, I think I might be sick.						0	
+page1.2	没事吧？	沒事吧？	え、大丈夫か？	괜찮아?	You don't feel well?						0	
+page1.3	除了浑身乏力，不想动弹，没有精神之外，或许没有大碍。	除了全身乏力，不想動彈，沒有精神之外，或許沒有大礙。	気だるいし体を動かしたくないけど、それ以外はまだ平気かな。	온몸이 나른하고 움직이기 싫고 기운이 없는 것 외에는 별일 없어.	Well, other than feeling drained, not wanting to move, and having no energy, I don't have any other serious symptoms.						0	
+page1.4	这不是病得很严重吗？？不去医疗室看看吗？	這不是病得很嚴重嗎？？不去醫療室看看嗎？	結構ひどいじゃないか！医療室には行ったのか？	이 정도면 심한 거잖아?? 의료실에 가봐야 하는 거 아니야?	Isn't that already pretty serious??? Why haven't you gone to the medical bay?						0	
+page1.5	这是医疗室治不好的病。	這是醫療室治不好的病。	医療室じゃ治せないよ。	의료실에서 치료할 수 없는 병이야.	Going to the medical bay can't cure this sickness.						0	
+page1.6	……已经严重到这种程度了吗？	……已經嚴重到這種程度了嗎？	……そんなに症状が進行しているのか？	… 이미 그렇게 심각한 거야?	...Is it already that serious?						0	
+page1.7	不过也不是完全没有治疗的希望。	不過也不是完全沒有治療的希望。	まぁ、治す方法は一応あるよ。	하지만 완전히 치료할 희망이 없는 건 아니지.	But the outlook isn't completely hopeless.						0	
+page1.8	要怎么做？	要怎麼做？	どういう方法だ？	어떻게 해야 돼?	How can we treat it?						0	
+page1.9	比如分析员给我开张假条或者再多申请几天带薪休假之类的。	比如分析員開張假條給我或者再多申請幾天帶薪休假之類的。	私を数日休ませたらいいよ。有給ならなおいい。	분석가가 휴가를 주거나 내가 며칠 더 유급 휴가를 신청해 주는 것은 어때?	Well, you could write me a sick note or help me apply for a few extra paid days off.						0	
+page1.10	结果是懒病啊！	結果是懶病啊！	サボりたいだけじゃないか！	'게으름'병이라니!	So it was "Lazyitis" all along!						0	
+page1.11	说懒病就过分了，专有名词应该叫做假日综合症吧。	說懶病就過分了，專有名詞應該叫做假日綜合症吧。	サボりたいなんて、人聞きが悪いなぁ。どうしても言いたいなら休みボケとか、ポストホリデー症候群って呼んでよね。	'게으름'병은 좀 심하잖아, 고유 명사로는 아마 '휴일증후군'이겠지.	Lazyitis is a little excessive. The proper terminology is "Post-Holiday Syndrome."						0	
+page1.12	呜……快上班的前两天其实就有恶心焦虑的感觉，真可怕啊。	嗚……快上班的前兩天其實就有噁心焦慮的感覺，真可怕啊。	うぅ……仕事に行く2日前から気持ち悪くなったり、落ち着かなくなるんだ。本当に怖い病気だよ。	으… 사실 출근하기 이틀 전부터 구역질 나고 불안한 느낌이 몰려와서 정말 무서워.	Ugh... I actually started feeling nauseous and anxious a few days before work started back up. Terrifying, right...?						0	
+page1.13	如果不放假的话应该就不会有这种病了吧？	如果不放假的話應該就不會有這種病了吧？	むしろ休みを挟まない方が病気にならないんじゃないか？	만약에 휴가가 없었으면 이런 병도 생기지 않겠지?	In that case, you wouldn't be sick if you didn't have a holiday in the first place, right?						0	
+page1.14	……这种魔鬼一样的想法是不该出现在这个世界上的。	……這種魔鬼一樣的想法是不該出現在這個世界上的。	……そういう悪魔みたいな考え、なんかの法律で裁かれないかな。	… 이런 악마 같은 생각은 이 세상에 없어야 돼.	...An evil thought like that has no place in this world.						0	
+page1.15	算了。我已经好了，为了假期，就算要承担这种痛苦也值得了。	算了。我已經好了，為了假期，就算要承擔這種痛苦也值得了。	まあいいよ。もう大丈夫だ。休みのために、病気でもなんでも耐えてみせるよ。	됐어. 난 이미 괜찮아졌어, 휴가를 위해서라면 이런 고통을 감수할 가치가 있어.	Never mind, I feel better now. If it's all for a holiday, I'm willing to go through this kind of pain.						0	
+page1.16	不愧是你。	不愧是你。	そうこなくちゃ。	역시 너답네.	Why am I not surprised?						0	

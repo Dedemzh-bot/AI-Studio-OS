@@ -1,0 +1,7 @@
+共振率等级	备注	雾效等级	污染值秒	指引Id
+Level	Nul	FogLevel	Pollute	GuideId
+1		{1}	0	30018
+2		{2,5}	0	
+3		{3}	0	
+4		{4}	0	
+5		{1}	0	

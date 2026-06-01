@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	巡逻途中，我突然感受到了来自各个方向的视线。猛然发现，这视线是献给我身后的这位明灯节大使——星期三的。	巡邏途中，我突然感受到了來自各個方向的視線。猛然發現，這視線是獻給我身後的這位明燈節大使——星期三的。	パトロールの途中、いきなり四方八方から視線を感じた。それは、私の後ろにいる明灯祭の大使、ウェンズデーへのものだと、ふと気づいた。大衆はウェンズデーに釘付けになっていた。	순찰 도중, 주변의 시선이 느껴졌고, 그 시선은 나의 뒤에 있는 등명제 대사… 웬스데이에게 향해있는 것을 알 수 있었다.	While patrolling, I suddenly felt someone's eyes boring into me. I discovered that the powerful gaze belonged to the Mingdeng Ritual ambassador behind me — Wednesday.						0	
+2	分析员，有什么指示？	分析員，有什麼指示？	分析員、指示を。	분석가, 지시할 거 있어?	Adjutant, any instructions?						0	
+b-1											0	
+3	没有……倒是你，为什么一直跟着我？	沒有……倒是你，為什麼一直跟著我？	いや特に……ウェンズデーこそ、どうしてずっと私の後ろに？	없어… 근데 왜 계속 날 따라다니는 거지?	No... but why have you been following me?						0	
+4	如果在安保工作中发生意外，我可以随时保护分析员。	如果在保全工作中發生意外，我可以隨時保護分析員。	警備中に予想外の事態が発生した場合、こうしておけばいつでも分析員を守れる。	보안 업무를 수행하는 도중에 뜻밖에 사고가 일어날 수도 있으니까. 이렇게 하면 분석가를 보호할 수 있잖아.	If an accident happens while you're patrolling, I'll be right here to protect you, Adjutant.						0	
+b-2											0	
+5	星期三不打算逛逛会场吗？	星期三不打算逛逛會場嗎？	ウェンズデーは会場を回ったりしたくないか？	웬스데이는 등불 의식 축제에 관심 없어?	You don't want to take a walk around the venue?						0	
+6	没兴趣。早些完成任务，还能换掉这身麻烦的装备。	沒興趣。早點完成任務，還能換掉這套麻煩的裝備。	興味ない。早くミッションを遂行すればこの面倒な装備も外せる。	관심 없어. 빨리 미션을 완수하고 이 귀찮은 장비를 벗고 싶은 생각뿐이야.	Nope. The earlier I finish the mission, the earlier I can change out of these annoying clothes.						0	
+7	和其他沉浸在节日氛围里的人不一样。看来，这种场合并不能令星期三感到放松。	和其他沉浸在節日氛圍裡的人不一樣。看來，這種場合並不能令星期三感到放鬆。	お祭り気分に浸る人たちとは違う。どうやらこんなことではウェンズデーをリラックスさせることはできないらしい。	축제 분위기를 즐기는 사람들과 달리, 웬스데이는 이런 분위기를 좋아하지 않는 것 같았다.	Unlike the other visitors who were totally immersed in the festive atmosphere, Wednesday seemed uneasy.						0	
+b-3											0	
+8	那么，为了早些完成任务……	那麼，為了盡早完成任務……	じゃ、早くミッションを達成するためには……	그럼 조금이라도 미션을 빨리 완수하기 위해서…	Well, if you want to complete the mission earlier...						0	
+b-4											0	
+9	请明灯节大使与我一同行动吧。	請明燈節大使與我一同行動吧。	明灯祭の大使さん、同行していただいてもいいかな？	저와 함께 동행해 주시죠, 등명제 대사님.	You're welcome to accompany me, Miss Mingdeng Ritual Ambassador.						0	

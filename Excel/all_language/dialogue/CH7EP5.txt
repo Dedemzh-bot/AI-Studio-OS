@@ -1,0 +1,82 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	晴双手持枪，小心翼翼地接近被击倒的“萨特”，用脚尖挑起其面部覆盖的仿生材料，暴露出里面的线缆与传感器。	晴雙手持槍，小心翼翼地接近被擊倒的“薩特”，用腳尖挑起其面部覆蓋的仿生材料，暴露出裡面的線纜與傳感器。	両手で銃を持つ晴は、倒れた「サルトル」に慎重に近づき、その顔面を覆う生体模倣材料を足で外すと、中のケーブルとセンサーが見えた。	하루는 양손으로 총을 들고 조심스레 사르트르에게 접근했다. 얼굴을 덮고 있던 생체 공학 물질을 발로 걷어내자 전기선과 센서가 노출됐다.	Holding her gun with both hands, Haru carefully approached "Sartre." She used her foot to push aside the bionic material covering its face, exposing a mess of cables and transmitters.						0	
+2	这边的“萨特”也只是人偶，石竹发来的是假消息吗？	這邊的“薩特”也只是人偶，石竹發來的是假消息嗎？	こっちの「サルトル」もただの人形だ。カーネーションからの情報はデマだったか？	이곳에 있는 '사르트르'도 인형이었어. 석죽이 가짜 정보를 흘린 건가?	This "Sartre" is a fake. Was the intel from Dianthus fake?						0	
+3	哇！芙提雅老师早就知道！那个女人长得就不像好人！	哇！芙提雅老師早就知道！那個女人長得就不像好人！	うわ！あの女、見るからに悪人だったじゃん。フリティア先生はとっくに分かってたよ！	역시나! 프티야 선생님은 진작에 알고 있었어! 생긴 것부터 나쁜 사람같이 생겼더니만!	Wha—! I knew it! I didn't trust her for a second!						0	
+b-1											0	
+4	如果还是没有收获，各小组就立刻撤退。	如果還是沒有收穫，各小組就立刻撤退。	それでも収穫がなかったら、各組は直ちに撤退するように。	얻은 게 아무것도 없으면 각 팀 모두 철수하도록 하세요.	If there's nothing here, all teams should immediately retreat.						0	
+b-2											0	
+5	我们低估了萨特的谨慎，和降临团在天楼的影响力。	我們低估了薩特的謹慎，和降臨團在天樓的影響力。	サルトルの慎重さと、スカイタワーでの降臨団の影響力を甘く見ていた。	사르트르의 신중함과 강림단이 스카이 타워에서 행사하고 있는 영향력을 너무 얕본 거 같아요.	We underestimated how cautious Sartre is and the Adventists' influence over the Towers.						0	
+6	就这么回去，不会被小陶老板训吧……	就這麼回去，不會被小τ老闆罵吧……	このまま帰ったら、τボスにどやされるんじゃ……	그냥 이렇게 돌아가면 τ 대표님한테 혼날 텐데…	τ is going to tear into you if we go back empty-handed...						0	
+7	抱歉，是我的情报不够准确……	抱歉，是我的情報不夠準確……	すまない。自分の情報が正しくないせいで……	전부 내 정보가 정확하지 못했기 때문이야. 정말 미안해…	I apologize. My intel wasn't accurate...						0	
+b-3											0	
+8	这不怪你。	這不怪你。	晴のせいじゃない。	전혀 그렇지 않아요.	It wasn't your fault.						0	
+9	嗯？	嗯？	ん？	음?	Hm?						0	
+10	晴忽然伸手指向英灵之路的另一边。	晴忽然伸手指向英靈之路的另一邊。	晴はとっさに英霊の道の向こうを指差した。	하루는 갑자기 손을 뻗어 영령의 길 반대편을 가리켰다.	Haru suddenly pointed toward the other side of the Path of Discipline.						0	
+11	分析员，你看。	分析員，你看。	分析員、あれを。	분석가, 저것 좀 봐.	Adjutant, look.						0	
+12	前方好像有大量人员突然聚集。	前方好像有大量人員突然聚集。	前方に急に大勢の人が集まってきた。	갑자기 사람들이 모여들고 있어.	There's a large group of people gathering up ahead.						0	
+13	主事大人，这个月的物资分配完毕，结余了十人份。	主事大人，這個月的物資分配完畢，結餘了十人份。	司教様、今月分の物資は全て配りました。十人分余りました。	이사님, 이번 달 물자 분배는 끝났고, 이제 열 사람 몫 남았습니다.	Great Exarch, the supply distribution for this month is complete. There is 10 people's worth left over.						0	
+14	很好，拿出五人份，分发给遵守规则的兄弟姐妹，这是神对虔诚者的回应。	很好，拿出五人份，分發給遵守規則的兄弟姐妹，這是神對虔誠者的回應。	よろしい、五人分出して、秩序を守る同胞たちに配りなさい。これは敬虔な者に対する神からの答えだ。	좋아요. 그럼 다섯 사람 몫은 규칙을 잘 지킨 형제자매들에게 나누어 주세요. 이건 신께서 독실한 신자들에게만 주는 보답이니.	Excellent. Take five people's worth and give it to our rule-abiding brothers and sisters. This is how the Divine reward piety in their followers.						0	
+15	主事大人，四十二楼那名候选者通过了考验，成功加入我团。	主事大人，四十二樓那名候選者通過了考驗，成功加入我團。	司教様、42階の候補者が試験を乗り越え、入団に成功しました。	이사님, 42층 후보자가 시험을 통과해 저희와 한 가족이 되었습니다.	Great Exarch, the candidate on floor 42 passed the test and has successfully joined our organization.						0	
+16	愿泰坦庇护他，也庇护你。	願泰坦庇護他，也庇護你。	タイタンのご加護がありますように。	타이탄이 그와 당신을 비호하길.	May the Titans bless him and bless you too.						0	
+17	下个月，四十二楼会有两个名额。	下個月，四十二樓會有兩個名額。	来月、42階の定員が二人になる。	다음 달에 42층에 두 자리가 빌 거예요.	Next month, our brothers and sisters on floor 42 will each receive two people's worth of supplies.						0	
+18	谢谢主事！四十二楼的兄弟姐妹一定会好好感激神眷！	謝謝主事！四十二樓的兄弟姐妹一定會好好感激神眷！	ありがとうございます、司教様！42階の同胞は必ず神のご加護に感謝します！	감사합니다, 이사님! 42층 형제자매들 전부 신께 감사해할 겁니다!	Thank you, Exarch! The brothers and sisters on floor 42 will certainly express their gratitude for the blessings of the Divine!						0	
+19	萨特主事，我没有拿到你许诺的物资，你说过这个月会给我的。	薩特主事，我沒有拿到你許諾的物資，你說過這個月會給我的。	サルトル司教、私は約束した物資を受け取ってない。あなたは今月くれると言っていた。	사르트르 이사, 네가 약속한 물자를 아직 못 받았어. 이번 달에 분명 주기로 했었는데.	Exarch Sartre, I haven't received the supplies you promised me. You said you'd give me them this month.						0	
+20	请先不要着急。	請先不要著急。	焦らないで。	조급해하지 마세요.	Please calm down first.						0	
+21	我听说，你手下有人与天楼的居民起了冲突？	我聽說，你手下有人與天樓的居民起了衝突？	あなたの手下がスカイタワーの住民と衝突したと聞いたが？	듣자 하니 당신 부하와 스카이 타워 주민 사이에 다툼이 있었다죠?	I heard that someone under you was involved in a confrontation with a resident of the Towers?						0	
+22	打了一架而已，常有的事……	打了一架而已，常有的事……	喧嘩をしただけ、いつものことだ……	한바탕했었지. 자주 있던 일이야…	It was just a little argument, nothing out of the ordinary...						0	
+23	但我记得，我代表天楼接纳贵方时，向您索要过一个承诺。	但我記得，我代表天樓接納貴方時，向您索要過一個承諾。	確か、スカイタワーの代表としてあなたたちを受け入れる時に、一つ約束をしたはず。	하지만 제가 스카이 타워를 대표해서 여러분을 받아들였을 때 한 가지 요구를 간청했었던 걸로 기억하는데요.	But I do remember that when I took you in on behalf of the Towers, you made a commitment to me.						0	
+24	在我们这里，争斗是不被允许的，所有人都要遵守秩序，您难道要违背吗？	在我們這裡，爭鬥是不被允許的，所有人都要遵守秩序，您難道要違背嗎？	ここでの争いは許されない。全ての人は秩序を守るべし。その約束に背くのか？	이곳에서 싸움은 금물입니다. 모두 다 질서를 잘 지키고 있는데 혼자서 그렇게 어기실 건지요?	Fighting is not permitted here, and no one is exempt from their duty to maintain order. Do you seek to violate that?						0	
+25	……哼。	……哼。	……フン。	… 쳇.	...Hmph.						0	
+26	我之后会约束好我的人，但是那批物资……	我之後會約束好我的人，但是那批物資……	あいつらは後で懲らしめておくから、今回の物資は……	내 사람들은 알아서 잘 관리할 테니까 그 물자들은…	I'll restrain my people properly after this. But what about that batch of supplies...?						0	
+27	请不要担心，物资会在明天送到贵方驻地，以后也都会准时，只要贵方不再破坏这里的秩序。	請不要擔心，物資會在明天送到貴方駐地，以後也都會準時，只要貴方不再破壞這裡的秩序。	心配しないで。物資は明日あなたの駐屯地に届くように手配する。ここの秩序を壊さない限り、今後も時間通りに届くと約束する。	물자는 내일 당신이 계신 야영지로 보내드릴 테니 걱정 마세요. 앞으로 정시에 보내드릴 테니 부디 이곳의 질서를 어지럽히지 마시길.	Please do not worry. The supplies will be sent to your post tomorrow. It will be timely from now on, provided you no longer disturb the peace.						0	
+28	我明白你的意思，就这样吧。	我明白你的意思，就這樣吧。	分かった。それならいい。	아… 무슨 말인지 알겠어. 다음부터는 그렇게 할게.	Okay, I understand what you're saying.						0	
+29	哦？好像有新的朋友来到了本人的教区。	哦？好像有新的朋友來到了本人的教區。	おや？これは、また新しい友がこの僕の教区に来たようだね。	음? 새로운 친구분들이 제 영역으로 들어온 것 같군요.	Oh? It seems that a new friend has arrived at my parish.						0	
+30	本人是天楼区主事，萨特。	本人是天樓區主事，薩特。	僕はスカイタワーの司教、サルトル。	전 스카이 타워의 이사, 사르트르라고 합니다.	I am Sartre. Exarch of the Towers.						0	
+31	各位贵客，是来向泰坦寻求救赎吗？	各位貴客，是來向泰坦尋求救贖嗎？	お客さんたち、タイタンの救済を求めに来たのか？	여러분도 타이탄에게 구원을 받고 싶어 찾아오신 건가요?	My dear visitors, have you come to beg the Titans for redemption?						0	
+b-4											0	
+32	我是海姆达尔部队的分析员playername。	我是海姆達爾部隊的分析員playername。	私はヘイムダル部隊の分析員playername。	헤임달 부대 분석가 playername(이)라고 해.	I'm playername, Adjutant of the Heimdall Force.						0	
+b-5											0	
+33	我们需要你配合，前往世界树公司总部接受调查。	我們需要你配合，前往世界樹公司總部接受調查。	我々に協力して、ユグドラシル本社で調査を受けてもらう。	괜찮으면 같이 위그드라실로 가서 조사에 협조해 줬으면 좋겠는데.	We request that you cooperate with our investigation and come with us to Yggdrasil headquarters.						0	
+34	气氛瞬间紧张起来。	氣氛瞬間緊張起來。	一瞬で緊迫した雰囲気になった。	분위기가 순식간에 굳어버렸다.	Within a split second, the atmosphere tensed.						0	
+35	萨特身边的两位净化官迅速摆出战斗姿态，用身躯为萨特遮挡任何可能的狙击角度，他们的紧张态度好像在揭示什么。	薩特身邊的兩位淨化官迅速擺出戰鬥姿態，用身軀為薩特遮擋任何可能的狙擊角度，他們的緊張態度好像在表態什麼。	サルトルの側にいる二人の浄化官はすかさず戦闘態勢に入り、サルトルを狙撃できるすべての角度をその体で遮った。その緊張の態度が何かを示しているみたいだ。	그의 곁에 있던 두 정화관도 재빨리 전투 자세를 취했고, 저격이 가능한 모든 각도를 막아섰다. 긴장한 표정을 보니 무언가 있는 것 같았다.	The two Purificants next to Sartre moved into fighting stances, shielding him from possible snipers with their bodies. Their anxious behavior seemed to reveal something.						0	
+36	这个萨特会是本体吗？假设是本体，又为什么要主动现身呢？	這個薩特會是本體嗎？假設是本體，又為什麼要主動現身呢？	このサルトルは本物か？本物だとしたら、どうして自ら現れる？	이번엔 사르트르 본체인 걸까? 왜 먼저 우리를 찾아온 거지?	Could this be the real Sartre? If so, why did he decide to approach us like this?						0	
+37	呵呵呵呵呵呵呵……大家不用这么紧张。	呵呵呵呵呵呵呵……大家不用這麼緊張。	ふふふふふふふ……皆さん、そう緊張しないでくれ。	하하하하하하… 다들 그렇게 긴장할 필요 없어요.	Heheheh... no need to be so tense, everyone.						0	
+38	本人身为降临团天楼区主事，一向与世界树公司相处和睦，共同为天楼的繁荣发展而奋斗……	本人身為降臨團天樓區主事，一向與世界樹公司相處和睦，共同為天樓的繁榮發展而奮鬥……	僕は降臨団スカイタワー区の司教で、いつもユグドラシル社と仲良くしていて、共にスカイタワーの繁栄に努力している……	전 강림단 스카이 타워의 이사로서 위그드라실과는 줄곧 평화롭게 지내오고 있고, 스카이 타워의 번영과 발전을 위해 항상 힘써오고 있죠…	As Exarch of the Towers, I've always cooperated with Yggdrasil for the prosperous development of the area...						0	
+39	我相信，即使是海姆达尔部队，也不至于空口无凭，就要强行带走本人吧？	我相信，即使是海姆達爾部隊，也不至於空口無憑，就要強行帶走本人吧？	だから、たとえヘイムダル部隊であっても、何の根拠もなく無理矢理人を連れ去ったりしないよね？	아무리 헤임달 부대라도 아무런 이유 없이 절 강제로 데려갈 순 없을 텐데요?	I trust that the Heimdall Force would not take me forcefully without any proof, correct?						0	
+e-6											0	
+40	你的机械人偶来路不明。	你的機械人偶來路不明。	そちらの機械人形の入手経路が怪しい。	너희가 사용하는 로봇 인형들의 출처가 불분명해.	It's unclear where your robot double originated from.						0	
+41	家父在希尔伯特-阿瑟公司任职，本人身患残疾，必须借助这种人偶才能正常生活，分析员，这有什么好值得调查的吗？	家父在希爾伯特-阿瑟公司任職，本人身患殘疾，必須藉助這種人偶才能正常生活，分析員，這有什麼好值得調查的嗎？	僕の父はヒルベルト・アーサー社で仕事をしている。見ての通り、僕は体が不自由でね、このような人形に頼らないと日常生活ができない。そんなことをわざわざ調査する必要があるのかな、分析員さん？	그건 저희 아버지가 힐베르트-아서 회사에서 일을 하고 계시고, 저의 경우엔 장애를 앓고 있어 인형의 힘을 빌려야 정상적인 생활을 할 수 있어서 그래요. 이런 것도 조사할 가치가 있을까요?	My father works for Hilbert-Arthur. Since I am disabled, I rely on those robots to live a typical life. Is that worth investigating, Adjutant?						0	
+42	降临团滥用私刑。	降臨團濫用私刑。	降臨団は勝手に私刑を行っている。	강림단은 함부로 형을 집행하고 있어.	The Adventists are using cruel and unusual punishment.						0	
+43	请问您是拥有物证？还是人证？说到人证，天楼的每个人都可以证明，本人是一位多么遵纪守法的公民楷模。	請問您是擁有物證？還是人證？說到人證，天樓的每個人都可以證明，本人是一位多麼遵紀守法的公民楷模。	書証か人証はあるのかな？人証と言えば、スカイタワーの住民はみんな、僕がどれほど法律に従っているかを証明してくれる。	증거 있나요? 증인은? 증인이라는 말이 나와서 그런데, 제가 법을 얼마나 잘 지키는 모범 시민인지 스카이 타워 사람들이 증명해 줄 거예요.	Do you possess any evidence? Or perhaps witnesses? In fact, speaking of witnesses, everyone in the Towers can attest to what a law-abiding citizen I am.						0	
+44	哦？这么说，海姆达尔部队现在就是空口无凭？	哦？這麼說，海姆達爾部隊現在就是空口無憑？	ほう？つまりヘイムダル部隊は今、証拠がないんだな？口だけならなんでも言える。	헤임달 부대는 아무런 증거도 없이 떠보기만 이런 말을 해도 되는 건 가요?	Hm? The Heimdall Force came empty-handed?						0	
+45	难道！仅仅是因为我信奉泰坦，就要遭受这种不公正的待遇呢？	難道！僅僅是因為我信奉泰坦，就要遭受這種不公正的待遇呢？	まさか！タイタンを信仰しているだけで、こんな不公平な扱いを受けるのか？	설마! 제가 타이탄을 믿는 것 때문에 이런 불공평한 대우를 받는 건 아니겠죠?	Or is it perhaps simply because I worship the Titans that you seek to subject me to such unjust treatment!?						0	
+46	萨特的声音在天楼的廊桥间回荡，我能瞥见低层、高层的居民都纷纷从窗户里探出头来看向这里。	薩特的聲音在天樓的廊橋間迴盪，我能瞥見低層、高層的居民都紛紛從窗戶裡探出頭來看向這裡。	サルトルの声がスカイタワーの廊下に響く。私は低区と高区の住民が窓から顔を出してこちらを見ているのが見えた。	사르트르의 목소리는 스카이 타워에 울려 퍼졌고, 각층의 주민들이 창문을 열고 우리를 쳐다보는 게 느껴졌다.	Sartre's voice reverberated in the space between the bridges in the Towers. I glimpsed residents of various levels peering at us through their windows.						0	
+47	我分明看见萨特嘴角挂着一丝不加掩盖的笑意。	我分明看見薩特嘴角掛著一絲不加掩蓋的笑意。	口元にわずかな微笑みが浮かんでいるのがはっきり見えた。	그리고 이내 사르트르의 입가에 숨길 수 없는 미소가 번지는 걸 볼 수 있었다.	Sartre didn't even try to hide his slight smirk of satisfaction.						0	
+b-7											0	
+48	再给你一分钟的时间重新组织语言。	再給你一分鐘的時間重新組織語言。	あと一分で言葉遣いを考えさせてやる。	네게 생각할 시간을 1분만 더 주도록 하지.	I'll give you one more minute to organize your thoughts.						0	
+49	我一面说着，一面向茉莉安发送讯息。	我一面說著，一面向茉莉安發送訊息。	私は話しながら、マリアンにメールを送った。	그에게 말을 전하고, 나는 마리안에게 신호를 보냈다.	As I said this, I sent Marian a message.						0	
+50	阁下，请您想想，在这里一意孤行会给天楼带来什么后果吧。	閣下，請您想想，在這裡一意孤行會給天樓帶來什麼後果吧。	分析員さん、ここで身勝手を働いたらスカイタワーがどうなるか、よく考えてみるといい。	스카이 타워에서 본인의 고집대로 한다면 어떤 결과를 초래할지 다시 한번 잘 생각해 보세요.	Mister, I implore you to consider the consequences of acting without permission.						0	
+51	不久前贵司在棚户区的粗暴举动，使得无数郊狼和拾荒者失去了栖身之所，无数张饥饿的嘴巴涌入了天楼。	不久前貴司在棚戶區的粗暴舉動，使得無數郊狼和拾荒者失去了棲身之所，無數張飢餓的嘴巴湧入了天樓。	この前、スラムエリアでの御社の暴行のせいで、数え切れないほどのコヨーテとスカベンジャーが居場所を失った。そのせいで、たくさんの餓えた人がスカイタワーにやって来た。	얼마 전, 귀사가 판자촌에서 폭동을 일으켜 수많은 코요테와 피난민이 집을 잃고, 굶주림에 시달려 스카이 타워로 몰려왔죠.	Recently, Yggdrasil's callous actions in the Camps caused the destruction of countless Coyotes and Scavenger shelters. Waves of hungry mouths to feed poured into the Towers.						0	
+52	正是由于降临团在天楼教区所构筑的秩序，这些饥饿的嘴巴才没有张口咬人。	正是由於降臨團在天樓教區所構築的秩序，這些飢餓的嘴巴才沒有張口咬人。	今その餓えた人たちは、降臨団がスカイタワーで構築した秩序に管理されているからこそ、人を噛んだりしなかった。	강림단이 스카이 타워에서 질서를 수립한 덕에 굶주린 사람들이 다른 사람들을 해치지 않은 거예요.	And why didn't those hungry mouths "bite"? It was entirely due to the order established by the Adventists in the Towers.						0	
+53	分析员，如果天楼不再有降临团所构筑的秩序，又会怎么样呢？	分析員，如果天樓不再有降臨團所構築的秩序，又會怎麼樣呢？	分析員さん、もし降臨団がもたらした秩序を失ったら、スカイタワーはどうなる？	만약 스카이 타워에서 질서를 유지하는 강림단이 없다면 어떻게 될까요?	Adjutant, what if the Towers suddenly lost all order maintained by the Adventists?						0	
+54	就像失去容器的水一样，人心也会失去相应的形状，然后肆意向低处流淌，直到渗进泥土，变得脏污不堪！	就像失去容器的水一樣，人心也會失去相應的形狀，然後肆意向低處流淌，直到滲進泥土，變得髒污不堪！	器を失くした水のように、人の心も形を失い、低い場所へ流れつき、泥に染み込んで、汚らわしいものに成り果てるのだ！	밑 빠진 독처럼, 사람의 마음도 형체 없이 계속 아래로 새어 나가지 않을까요?	Like water without a container, their hearts would lose shape, flowing down recklessly until they seep into the ground and become filth!						0	
+55	我之所以并不忌惮世界树公司，是因为，你们需要我。	我之所以並不忌憚世界樹公司，是因為，你們需要我。	僕がユグドラシル社を恐れないのは、あなたたちが僕を必要としているからだ。	제가 위그드라실을 두려워하지 않는 이유는 위그드라실에서 절 필요로 하기 때문이죠.	I do not fear Yggdrasil, because you need me.						0	
+56	降临团需要萨特，天楼需要萨特，世界树公司也需要萨特。	降臨團需要薩特，天樓需要薩特，世界樹公司也需要薩特。	降臨団にはサルトルが必要だ、スカイタワーもそうだ。ユグドラシル社もまたサルトルが必要なんだ。	디사 말해서 강림단도 사르트르가 필요하고, 스카이 타워도 사르트르가 필요하고, 위그드라실도 사르트르가 필요하답니다.	The Adventists need Sartre, the Towers need Sartre, and Yggdrasil needs Sartre.						0	
+b-8											0	
+57	没有了你这个“萨特”，也会有别的“萨特”的。	沒有了你這個“薩特”，也會有別的“薩特”的。	あなたという「サルトル」がいなくたって、ほかの「サルトル」が現れるよ。	당신 같은 '사르트르'가 없어져도 다른 '사르트르'로 대체될 거야.	Without you, there would be another "Sartre."						0	
+b-9											0	
+58	不要以为自己有多特殊。	不要以為自己有多特殊。	あまり自分のことを特別な存在だと思わないで欲しい。	본인이 특별하다는 착각은 안 했으면 싶군.	Don't get it twisted. You're not special.						0	
+59	萨特的笑容忽然僵在了脸上，他好像忽然受到了刺激。	薩特的笑容忽然僵在了臉上，他好像忽然受到了刺激。	サルトルの笑顔は固まった。痛いところを突かれたようだ。	웃음을 띠고 있던 사르트르는 자극을 받았는지 순식간에 표정이 굳어버렸다.	Sartre's smile froze on his face as though I had struck a nerve.						0	
+60	不，我就是特殊的。对于大主来说！我就是特殊的！我是大主选中的人！	不，我就是特殊的。對於大主來說！我就是特殊的！我是大主選中的人！	いや、僕は特別な存在だ。大司教にとっても、僕は特別だ！僕は大司教に選ばれたのだ！	아뇨, 전 정말 특별해요. 교주님에게 있어서 전 아주 특별하죠! 전 교주님이 선택한 사람이니까요!	No, I am special. To the High Presbyter, I am special! I was chosen by the High Presbyter!						0	
+61	即使是苏菲那个小婊……	即使是蘇菲那個小婊……	あのソフィーとかいう女……	소피는 그저…	Even Sophie, that...						0	
+62	我用余光瞥见安卡希雅悄悄转移到了足够接近的位置，向我点头示意。	我用餘光瞥見安卡希雅悄悄轉移到了足夠接近的位置，向我點頭示意。	私は横目で、アカシアが十分近くまで来ているのを見た。彼女も頷いて合図をした。	난 곁눈질로 아카시아가 몰래 사르트르에게 접근해서 내게 고개를 끄덕이는 걸 확인했다.	I noticed Acacia quietly moving nearer out of the corner of my eye, then she nodded at me.						0	
+b-10											0	
+63	行动！	行動！	行け！	행동 개시!	Go!						0	
+64	呵呵呵……	呵呵呵……	ふふふ……	하하하…	Heheheh...						0	
+65	分析员啊……	分析員啊……	分析員……	분석가…	Adjutant...						0	
+66	茉莉安击中了萨特的腿部，准确无误，听觉上也的确捕捉到了子弹击中肉体，而非机械的声音。	茉莉安擊中了薩特的腿部，準確無誤，聽覺上也的確捕捉到了子彈擊中肉體，而非機械的聲音。	マリアンはサルトルの足を正確に撃ち貫いた。その音も機械ではなく、弾が肉体を貫いた音だ。	마리안이 사르트르 다리를 정확하게 명중시켰다. 언뜻 듣기엔 기계가 아닌 인체가 관통된 느낌이 들었다.	Marian shot a precise bullet through Sartre's leg. From the sound of it, it definitely passed through flesh, not machinery.						0	
+67	可萨特就像毫无知觉一般，飞快地向“英灵之路”尽头逃窜。	但是薩特就像毫無知覺一般，飛快地向“英靈之路”盡頭逃竄。	しかし、サルトルはまるで何もなかったように、素早く「英霊の道」の奥へ逃げて行った。	하지만 사르트르는 아무런 고통도 없는 것처럼 서둘러 '영령의 길' 끝으로 달아났는데…	However, Sartre raced toward the end of the Path of Discipline as if he didn't feel a thing.						0	
+68	那边明明是死路。	那邊明明是死路。	あそこは行き止まりだというのに。	그곳은 막다른 길이었다.	It was obviously leading to a dead end.						0	
+auto_b-10											0	
+70	全体海姆达尔小队，准备武力制服萨特！	全體海姆達爾小隊，準備武力制服薩特！	ヘイムダル全隊に告ぐ、武力でサルトルを取り押さえろ！	헤임달 부대 전원에게 명령한다! 모든 무력을 총동원해서 사르트르를 제압하도록!	All Heimdall operatives, prepare to subdue Sartre by force!						0	

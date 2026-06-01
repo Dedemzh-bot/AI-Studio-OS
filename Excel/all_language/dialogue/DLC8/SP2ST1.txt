@@ -1,0 +1,123 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	……	……	……	…	...						0	
+2	……	……	……	…	...						0	
+3	在沉默中，龙舌兰和里芙已经前进了数十分钟。	在沉默中，龍舌蘭和里芙已經前進了數十分鐘。	沈黙の中、アガベとリフは数十分も歩き続けた。	침묵 속에서 아가베와 리브는 수십 분 동안 전진했다.	Agave and Lyfe had already been moving forward in silence for about half an hour.						0	
+4	那个，里芙小姐……	那個，里芙小姐……	あのう、リフさん……	저기, 리브 님…	Um, Miss Lyfe...						0	
+5	叫我里芙就可以了。	叫我里芙就可以了。	リフでいい。	그냥 리브라고 불러.	Just call me Lyfe.						0	
+6	好的好的……	好的好的……	あ、はい……	아, 네…	Alright...						0	
+7	啊我是想说，其实，我也参加过瓦尔基里游戏来着……	啊我是想說，其實，我也參加過瓦爾基里遊戲來著……	じゃなくて、その、実はヴァルキリーゲームにも参加してたんですけど……	저기, 사실 저도 발키리 게임에 참여했었어요…	Ah, I wanted to say... I actually was part of the Valkyrie Games...						0	
+8	我没有在赛场上见过你。	我沒有在賽場上見過你。	会場で見かけたことはないが。	경기장에서 널 본 적이 없는 것 같은데.	I didn't see you on the field.						0	
+9	因为我不是参赛选手啦，我是场外工作人员，负责导播。	因為我不是參賽者啦，我是場外工作人員，負責導播。	選手じゃなくてスタッフとして参加してたからです。ディレクターの仕事をしていました。	저는 시합 참가자는 아니었고, 경기장 밖에서 PD를 맡았었습니다.	That's because I wasn't a contestant. I was an off-site employee. I was the director for the event broadcast.						0	
+10	发生降临事件的那场比赛，你也在现场吗？	發生降臨事件的那場比賽，你也在現場嗎？	……降臨事件が発生したあの試合も、お前は現場にいたのか？	강림 사건이 일어났을 때도 현장에 있었어?	Were you there when the Descent happened?						0	
+11	也许是因为遭遇过同样的意外所带来的共情，龙舌兰发觉里芙的语气柔和了一些。	也許是因為遭遇過同樣的意外所帶來的共情，龍舌蘭發覺里芙的語氣柔和了一點。	同じ事故に遭った仲間だと気づいたからだろうか。リフの口調が僅かに和らいだ気がした。	불의의 사고를 함께 겪고 동질감이 들었는지 리브의 말투가 조금 부드러워진 것 같았다.	Agave noticed that Lyfe's tone had softened. Perhaps it was due to a sense of empathy in experiencing the same traumatic incident.						0	
+12	嗯，虽然导播室在赛场外围，但还是受到了波及，整栋建筑都坍塌了。	嗯，雖然導播室在球場外圍，但還是受到了波及，整棟建築都崩塌了。	はい。ディレクター室がある建物は会場の外周にあったんですが、事件の影響で崩壊してしまいまして。	네, 스튜디오가 경기장 외곽에 있었는데도 불구하고 파장이 하도 커서 건물 전체가 무너졌었어요.	Yeah. The broadcast room was outside the arena, but we were still close enough, and the entire building collapsed.						0	
+13	我记得，大概过了三个小时以后，我就被公司安全部的人挖了出来。啊对了，我就是在那时候见到的playername大……阁下。	我記得，大概過了三個小時以後，我就被公司安全部的人挖了出來。啊對了，我就是那時候見到的playername大……閣下。	私は生き埋めになってから3時間くらいあとに、安全部の方に助けて貰いました。あ、そういえば、playername……さんとも、その時に会ったんです。	제 기억으로는 대략 3시간 후에 안전부 사람들에 의해 발견되었었어요. 아 참, 그때 처음으로 playername 님을… 만났던 것 같아요.	I remember being dug out around three hours later by people from the Yggdrasil Security Department. Ah, yeah, that was the first time I met Mr. playername...						0	
+14	只是一面之缘吗？	只是一面之緣嗎？	一度だけか？	딱 한 번만 만났었던 거야?	That was the only time you two met?						0	
+15	是有一些特殊的原因……我想当面和他郑重道谢。	是有一些特殊的原因……我想當面和他鄭重道謝。	そうなりますね……ちょっと理由がありまして。彼には直接会って、お礼を言いたかったんです。	좀 특별한 사연이 있었어요… 그래서 다시 뵈면 정중히 감사의 말씀을 드리고 싶었어요.	There are some special reasons... I want to seriously thank him in person.						0	
+16	好啦，不说我了。里芙觉得playername阁下是什么样的人呢？	好啦，不說我了。里芙覺得playername閣下是什麼樣的人呢？	私のことなんかより、リフとしては、playernameさんはどんな人だと思いますか？	아, 제 얘기는 이쯤 하는 것이 좋겠네요. 리브 님은 playername 님이 어떤 분인 거 같나요?	Alright, that's enough about me. Lyfe, what kind of person do you think Mr. playername is?						0	
+17	对于我来说，他是很重要的人。	對我來說，他是很重要的人。	私にとっての大切な人だ。	내게는 매우 중요한 사람이야.	To me, he's a very important person.						0	
+18	不，现在的话，应该是最重要的人。	不，現在的話，應該是最重要的人。	いや。一番大切な人だな。	아니, 지금은 가장 중요한 사람이지.	No, now, I think he's the most important person.						0	
+19	哎？	哎？	え？	아…?	Huh?						0	
+20	最，最重要的人，是我，想的那个意思吗？	最，最重要的人，是我，想的那個意思嗎？	い、一番って……もしかしてそういうことなんですか？	가장… 가장 중요한 사람이면, 제가 생각하는 그런 거 맞나요?	Th—The most important person? Does that mean what I think it means...?						0	
+21	里芙·贝斯特拉，你是否愿意这个男子成为你的丈夫与他缔结婚约？	里芙·貝斯特拉，你願不願意這個男子成為你的丈夫與他締結婚約？	新婦リフ・ベストラ。あなたは彼を夫とし、	신부 리브 베스트라는 이 남자와 결혼하여 평생 사랑할 것을 맹세합니까?	Lyfe Bestla, do you take this man to be your lawfully wedded husband, to live together in holy matrimony?						0	
+22	无论疾病还是健康，无论贫穷还是富有，或任何其他理由，都爱他，照顾他，尊重他，接纳他，永远对他忠贞不渝直至生命尽头？	無論疾病還是健康，無論貧窮還是富有，或任何其他理由，都愛他，照顧他，尊重他，接納他，永遠對他忠貞不渝直至生命盡頭？	健やかなる時も病める時も、富める時も貧しい時も、これを愛し、敬い、慰め合い、助け合い、その命ある限り真心を尽くすことを誓いますか？	평생토록 괴롭거나 즐겁거나 몸이 아프거나 건강하거나 그 외 모든 환경 속에서도 남편을 사랑하고 존중하며 도와주고 보호하며 생명이 다하는 그날까지 사랑할 것을 하객들 앞에 맹세합니까?	To love him, care for him, and remain faithful to him in sickness and in health, for richer or poorer, as long as you both shall live?						0	
+23	我愿意。	我願意。	はい。	네, 약속합니다.	I do.						0	
+24	playername，你是否愿意这个女人成为你的妻子与她缔结婚约？	playername，你願不願意這個女人成為你的妻子與她締結婚約？	新郎playername、あなたは彼女を妻とし、	playername, 신랑은 이 여자와 결혼하여 평생 사랑할 것을 맹세합니까?	playername, do you take this woman to be your lawfully wedded wife, to live together in holy matrimony?						0	
+25	无论疾病还是健康，无论贫穷还是富有，或任何其他理由，都爱她，照顾她，尊重她，接纳她，永远对她忠贞不渝直至生命尽头？	無論疾病還是健康，無論貧窮還是富有，或任何其他理由，都愛她，照顧她，尊重她，接納她，永遠對她忠貞不渝直至生命盡頭？	健やかなる時も病める時も、富める時も貧しい時も、これを愛し、敬い、慰め合い、助け合い、その命ある限り真心を尽くすことを誓いますか？	평생토록 괴롭거나 즐겁거나 몸이 아프거나 건강하거나 그 외 모든 환경 속에서도 아내를 사랑하고 존중하며 도와주고 보호하며 생명이 다하는 그날까지 사랑할 것을 하객들 앞에 맹세합니까?	To love her, care for her, and remain faithful to her in sickness and in health, for richer or poorer, as long as you both shall live?						0	
+26	我愿意。	我願意。	はい。	네, 약속합니다.	I do.						0	
+27	在场的宾客们，你们是否都愿意为他们的结婚誓言作证？	在場的賓客們，你們是否都願意為他們的結婚誓言作證？	出席している賓客の皆さま。おふたりの愛と誓いを見届け、新郎新婦を祝福いたしましょう。	현장에 있는 하객분들은 모두 이들의 언약을 증언하시겠습니까?	Those in attendance, are you willing to bear witness to these vows?						0	
+28	周围响起了热烈的欢呼和掌声，礼炮与婚礼进行曲的声音也争先恐后钻进龙舌兰脑中，她张了张嘴，自己也情不自禁发出了欢呼。	周圍響起了熱烈的歡呼和掌聲，禮炮與婚禮進行曲的聲音也爭先恐後鑽進龍舌蘭腦中，她張了張嘴，自己也情不自禁發出了歡呼。	その瞬間のアガベには、いろんな声が聞こえていた。大きな歓声、拍手の音、紙吹雪が発射される音や、結婚行進曲。口をパクパクさせたのち、彼女も思わず歓声をあげてしまった。	주변에서 뜨거운 환호와 박수가 터져 나왔고, 축포와 결혼식 행진곡 소리가 아가베의 뇌리를 파고들었다. 그녀는 자신도 모르게 환호성을 질렀다.	Along with excited cheers and applause, the sound of cannons and a wedding march rushed into Agave's mind. She opened her mouth, unable to stop herself from cheering along.						0	
+29	呜……这种时候，只能说愿意吧——	嗚……這種時候，只能說願意吧——	うぅ……こうなったら、空気を読むしかないじゃないですか——	와아… 이럴 땐 원한다고 대답할 수 밖에 없겠네요…	*sobbing*...What else can you say to that but "I do"...						0	
+31	喧闹的人群声音将龙舌兰从妄想中带回现实，回过神时，里芙正侧身挡在她身前，两人前进的道路已经被前方拥挤的人群挡了个严严实实。	當喧鬧的人群聲音將龍舌蘭從妄想中帶回現實，回過神時，里芙正側身擋在她身前，兩人前進的道路已經被前方擁擠的人群擋了個嚴嚴實實。	ふと、人々が騒ぐ音が聞こえた。アガベが妄想から目を覚ますと、リフが体で自分の前を塞いでいるのに気づいた。ふたりが歩いていた道の先には、人だかりができていた。	떠들썩한 소리 속에서 아가베는 망상을 깨고 현실로 돌아올 수밖에 없었다. 그녀가 정신을 차렸을 때, 리브는 그녀의 앞을 가로막고 있었고, 두 사람의 앞에는 이미 몰려든 군중들에 의해 길이 꽉 막혀 있었다.	The raucous crowd dragged Agave out of her delusion and back into reality. When she returned to her senses, Lyfe stood before her, and the path ahead was already blocked off by a crowd.						0	
+32	你刚才差点撞到前面的人。	你剛才差點撞到前面的人。	人混みにそのまま突っ込んでいくところだったぞ。	방금 앞에 있는 사람하고 부딪힐 뻔했어.	You almost ran into those people up ahead just now.						0	
+33	啊……抱歉抱歉！	啊……抱歉抱歉！	あ……すみません、助かりました。	앗… 죄송합니다!	Ah... Sorry, sorry!						0	
+34	在两人面前，刚体、升格体与普通人相互混杂着，或是窃窃私语，或是驻足观望。	在兩人面前，剛體、升格體與普通人相互混雜著，或是竊竊私語，或是駐足觀望。	人だかりの中には、剛体、昇格者や普通の人間の姿がみえた。人々はひそひそと言葉を交わしたり、足を停めて何かに見入ったりしていた。	두 사람 앞에는 강체와 승격체가 일반인들과 뒤섞여 속삭이기도 하고 멈춰 서서 구경하기도 했다.	In front of the two girls, a crowd of bionics, transcendents, and ordinary people stood intermingled, either whispering or stopping to observe.						0	
+35	而在人群簇拥的中间，一台辅助机飞在空中，正播放着一名年轻女性的歌声。	而在人群簇擁的中間，一台輔助機飛在空中，播放著一名年輕女性的歌聲。	そんな人々の中心では、一台の補助機が空を飛びながら、若い女性の歌声を流していた。	그리고 사람들 사이로 보조 기기 한 대가 젊은 여성의 노래를 연주하며 공중을 날아올랐다.	An auxiliary bot hovered in midair in the center of the crowd, playing a song sung by a young woman.						0	
+36	“……3、2、1，击中你的心~”	「……3、2、1，擊中你的心~」	「……3！2！1！あなたの心に～」	'… 쓰리, 투, 원, 네 마음을 저격해~'	"...3, 2, 1, I'm striking your heart!"						0	
+37	哦哦哦哦哦——	哦哦哦哦哦——	うおおおお！	와아아아아아~	Oh, wow—!						0	
+38	这是在干什么？	這是在幹嘛？	どういうことだ？	이건 뭐지?	What's going on here?						0	
+39	啊，是在拉票吧。	啊，是在拉票吧。	あ～、票を集めるためのパフォーマンスですよ。	아, 선거 운동 중인 것 같아요.	Ah, a voter rally.						0	
+40	新恒提罗会定期召开市民大会，通过投票决定一些城市发展方针。	新恆提羅會定期召開市民大會，並透過投票決定一些城市發展方針。	ニューガントラは都市の開発方針を決めるために、定期的に市民大会を開いてるんです。	뉴헨틸로는 정기적으로 시민 대회를 열어 투표를 통해 도시 개발 정책을 결정하곤 하죠.	New Hentiro holds regular city assemblies to vote on urban development policies.						0	
+41	升格体们一直都很喜欢用表演和歌舞来宣传，所以在年轻人群体中人气很高。	升格體們一直都很喜歡用表演和歌舞來宣傳，所以在年輕人群體中人氣很高。	昇格者たちは歌や踊りなどパフォーマンスを駆使した宣伝が得意で、若者の間では人気なんですよ。	승격체들은 자신의 활동을 홍보하기 위해 퍼포먼스와 가무로 젊은이들의 이목을 끌곤 해요.	Transcendents like to use performances, songs, or dances to promote their policies. They're really popular with the younger crowd.						0	
+42	听起来，和瓦尔基里游戏差不多。	聽起來，跟瓦爾基里遊戲差不多。	ヴァルキリーゲームと似ているな。	발키리 게임하고 비슷하네.	Sounds like the promotions we did for the Valkyrie Games.						0	
+43	从宣传层面来说，确实是这么一回事。	從宣傳層面來說，確實是這麼一回事。	宣伝方法だけで言うなら、確かにそうですね。	홍보 차원에서 보면 확실히 그렇긴 하죠.	They're definitely similar from a publicity perspective.						0	
+44	不过，里芙应该是第一次见到这么多刚体和升格体吧，你不觉得惊讶吗？我第一次到新恒提罗时都被吓了一跳。	不過，里芙應該是第一次見到這麼多剛體和升格體吧，你不覺得驚訝嗎？我第一次到新恆提羅時都被嚇了一跳。	そういえば、こんなに大勢の現地の住民と会っていますが、リフは全然驚いていませんね。ニューガントラについたばかりの頃は、さすがの私も驚いたものですが。	근데 리브 님께서는 이렇게 많은 강체와 승격체는 처음 보시죠? 놀랍지 않나요? 전 뉴헨틸로에 처음 도착했을 때 깜짝 놀랐어요.	But this must be your first time seeing so many bionics and transcendents. Aren't you surprised? I was stunned when I first came to New Hentiro.						0	
+45	刚体是说那些身体进行了机械改造的人？	剛體是說那些身體進行了機械改造的人？	「剛体」は、体を機械に改造した人たちのことか？	강체는 신체를 기계적으로 개조한 사람들을 말하는 거야?	"Bionics" are people whose bodies have been mechanically augmented, right?						0	
+46	我的一名前辈，还有一名队友，都换上了生化义肢。	我的一名前輩，還有一名隊友，都換上了生化義肢。	先輩やチームメイトの中には、バイオ義肢を装着している人もいるんだ。	내가 아는 선배와 팀원도 둘 다 의족으로 대체했거든.	Our captain and another operative both have bionic prostheses.						0	
+47	海姆达尔还真是危险啊……	海姆達爾還真是危險啊……	へえ……ヘイムダル部隊の仕事も危ないようですね。	하임델은 위험하군요…	Sounds like being in the Heimdall Force is super dangerous...						0	
+48	可能和你想象的不太一样。	可能跟你想的不太一樣。	お前の想像しているものとは違うと思うがな。	네가 생각하는 것과는 다를 수도 있어.	You might be misunderstanding.						0	
+49	先赶路吧。	先趕路吧。	先へ急ごう。	일단 가면서 얘기하자.	Let's keep moving.						0	
+50	越是靠近中心，歌声和各种乐器混杂的声音便愈发强烈。	越是靠近中心，歌聲和各種樂器混雜的聲音便愈發強烈。	人混みの中心に近づくたびに、歌声や楽器の音が明瞭になっていく。	중심에 가까워질수록 노랫소리와 악기가 뒤섞인 소리가 더욱 강렬해졌다.	As they approached the center, the singing and sounds of musical instruments grew louder and louder.						0	
+51	两人努力地穿过里三层外三层的人海，总算勉强走到了围观人群的前排。	兩人努力地穿過里三層外三層的人海，總算勉強走到了圍觀人群的前排。	なんとかして人混みを突破したふたりは、ようやく最前列に顔を出すことができた。	두 사람은 수많은 관중을 뚫고 가까스로 그들의 앞줄에 겨우 도착했다.	The two struggled through the packed crowd, finally making their way to the front of the group of onlookers.						0	
+52	咦？原来不止一个人在演奏吗？	咦？原來不只一個人在演奏嗎？	あれ？ひとりだけじゃないんですね。	어? 혼자서 연주하는 게 아니었네요?	Huh? It's a whole group of performers?						0	
+53	起初两人只能看到飞行的辅助机，在走近之后才发现人群中央竟是一支由吉他、贝斯和架子鼓组成的小型乐队。	起初兩人只能看到飛行的輔助機，走近後才發現人群中央竟是一支由吉他、貝斯和鼓組成的小型樂團。	人だかりの外側からは、飛んでいる補助機しか見えなかったけれど、実際にはギター、ベース、ドラムで構成されたバンドが生演奏を披露していた。	처음에는 비행 중인 보조 기기만 보였지만, 가까이 다가가자 군중의 가운데에서 기타와 베이스, 그리고 드럼으로 구성된 작은 밴드가 보였다.	At first, the two could only spot the airborne auxiliary bot. After they got closer, they discovered a small band made up of a guitar, bass, and drums in the middle of the crowd.						0	
+54	而其中的吉他手，正尤其忘我地演奏着，那显眼的蓝发令她成为了绝对的焦点。	而其中的吉他手，正尤其忘我地演奏著，那顯眼的藍髮令她成為了絕對的焦點。	特にその中でも、一心不乱に演奏している青髪のギタリストが観客の注目を集めていた。	그중에서도 기타리스트가 유독 몰입을 하며 연주를 하고 있었는데, 유독 파란 머리가 눈에 띄었다.	The guitarist was especially engrossed in the music, the blue color in her hair making her clearly stand out.						0	
+55	凯茜娅·克莱因？！	凱茜婭·克萊因？！	カーシア・クライン……！？	캐시아 클레인?!	Katya Klein!?						0	
+56	在里芙的要求下，她和龙舌兰一直等到了演奏结束。在凯茜娅将吉他交还给乐队的其他人后，才堪堪注意到满脸冰霜的里芙。	在里芙的要求下，她和龍舌蘭一直等到了演奏結束。在凱茜婭將吉他交還給樂團的其他人後，才堪堪注意到滿臉冰霜的里芙。	リフの要求で、アガベは彼女と共に演奏が終わるまで静かに待つことになった。カーシアはというと、演奏を終え、ギターをバンドメンバーに渡した後で、ようやく冷たい表情を浮かべているリフに気付いた。	리브의 요청으로 그녀와 아가베는 연주가 끝날 때까지 기다렸다. 캐시아는 연주를 마치고 밴드에 있는 다른 사람에게 기타를 돌려준 뒤에야 리브의 안 좋은 안색을 볼 수 있었다.	Lyfe made Agave wait with her until the performance ended. After Katya handed her guitar to another member of the band, she noticed Lyfe's icy face.						0	
+57	哦？这不是冠军吗？	哦？這不是冠軍嗎？	あら。チャンピオンじゃない。	이게 누구야~? 챔피언 아니야?	Oh? You're here, Miss Champion?						0	
+58	你怎么在这里？	你怎麼在這裡？	お前、なぜここに。	캐시아, 왜 여기에 있는 거지?	What are you doing here?						0	
+59	在度假逛街途中发现这支乐队缺少吉他手，就来帮帮忙咯。	在度假逛街途中發現這支樂團缺少吉他手，就來幫幫忙了。	休日で街をぶらぶらしていたら、このバンドに出会ったの。ギターがいないらしいから、手伝っただけよ。	휴가 중이었는데 이 밴드에 기타리스트가 부족한 걸 발견하고 도와주고 있었지.	I was just enjoying my vacation when I learned this band was missing a guitarist. I came to help out.						0	
+60	现在不是开玩笑的时候。	現在不是開玩笑的時候。	冗談を言っている場合か。	지금은 농담할 때가 아니야.	This isn't the time for jokes.						0	
+61	没有通行证就混进城市，如果被发现的话会被判处监禁。	沒有通行證就混進城市，如果被發現的話會被判處監禁。	通行証なしに潜入するとは。見つかったら今度こそ監禁処分だぞ。	통행증도 없이 도시로 들어가면 적발돼서 징역에 처해질 수도 있어.	You could be thrown in prison if you're caught sneaking into the city without an entry permit.						0	
+62	就算你是为了分析员，也不应该自作主张潜入这里。	就算你是為了分析員，也不應該自作主張潛入這裡。	いくら分析員のためでも、潜入するなんて身勝手な真似は……	아무리 분석가를 위해서라도 마음대로 행동해서는 안 돼.	Even if it's for the Adjutant, you shouldn't sneak in here on your own.						0	
+63	你可真是冤枉我了，冠军。	你可真是冤枉我了，冠軍。	冤罪はやめてちょうだい、チャンピオンさん。	그렇게 말하면 억울하지, 챔피언.	You sure are throwing around wild accusations, Miss Champion.						0	
+64	凯茜娅信手拿出一张蓝色的硬质卡片，朝着里芙挥了挥。	凱茜婭信手拿出一張藍色的硬質卡片，朝著里芙揮了揮。	そう言いながら、カーシアは青色のカードを取り出し、リフの目の前で振ってみせた。	캐시아는 파란색 하드 카드를 꺼내 리브를 향해 흔들었다.	Katya pulled out a blue card and waved it at Lyfe.						0	
+65	喏，如假包换的游客通行证，我可是在五年前就申请了。正好最近审批通过，playername又不在公司，就干脆来散散心咯。	喏，如假包換的遊客通行證，我可是在五年前就申請了。剛好最近審核通過，playername又不在公司，就乾脆來散散心了。	ほら、観光客用の通行証よ。5年前に申請を出したんだけれど、最近になってようやく許可が降りたのよ。playernameも会社にいないし、気分転換に来てみただけよ。	후, 진작에 5년 전에 방문자 통행증을 신청했었다고. 마침 최근에 승인이 나서 playername도 회사에 없고, 겸사겸사 잠시 쉬려고 왔어.	See? I applied for a tourist permit five years ago, and it just so happens it was recently approved. I came here to relax since playername isn't at the company.						0	
+66	我看看……里芙，这个通行证应该确实是真的哎。	我看看……里芙，這個通行證應該確實是真的哎。	見せてもらえますか？……確かに、本物だと思いますよ。	제가 한번 확인해 볼게요. 맞아요! 이 통행증은 확실히 진짜예요!	Let me see... Lyfe, this permit looks to be authentic.						0	
+67	……	……	……	…	...						0	
+68	抱歉，是我先入为主了。	抱歉，是我先入為主了。	悪い。私の早とちりだった。	미안, 내가 함부로 넘겨짚었군.	Sorry. I was wrong.						0	
+69	现在轮到我提问了，playername怎么没和你们在一起?	現在輪到我提問了，playername怎麼沒跟你們在一起?	今度は私が聞く番よ。なんでplayernameは一緒じゃないの？	그럼 이제 내가 질문하도록 하지. 그나저나 playername은(는) 왜 너희들하고 함께 있지 않는 거지?	Now it's my turn to ask the questions — why isn't playername with you?						0	
+70	他去了汉诺塔。	他去了漢諾塔。	彼はハノイの塔にいる。	하노이 타워로 갔어.	He went to the Tower of Hanoi.						0	
+71	这地方倒有些耳熟，刚才乐队的主唱说她朋友好像也去了那里……有趣。	這地方倒有些耳熟，剛才樂團的主唱說她朋友好像也去了那裡……有趣。	ふ～ん。聞き覚えのある名前ね。さっきのボーカルも、友人がそういう名前の場所に行ったとか言ってたわ。	흠, 아까 밴드 보컬이 자기 친구도 그곳에 갔다고 하던데… 재미있군.	That sounds familiar. I think the lead singer of the band just said her friend went there too... Interesting.						0	
+72	你要过去？	你要過去？	行くのか？	너도 가려고?	Are you going to go?						0	
+73	等我想去的时候再说吧，偶尔也要给男人一点独处的时间。	等我想去的時候再說吧，偶爾也要給男人一點獨處的時間。	さぁ。行きたいと思った時に行くかもね。男の人もひとりでいる時間がほしいでしょうから。	한번 생각해 보고~ 가끔은 혼자만의 시간도 좀 줘야지.	Maybe, if I want to. You need to give men their alone time once in a while.						0	
+74	瑟瑞斯也在。	瑟瑞斯也在。	シーリスも一緒にいるぞ。	세리스도 있어.	Siris is there too—						0	
+75	话音未落，凯茜娅便眼神一动，顷刻间在两人眼前消失了。	話音未落，凱茜婭便眼神一動，瞬間變在兩人眼前消失了。	その言葉を聞くと、カーシアの顔色が一変し、瞬く間にふたりの目の前から消え去った。	말이 끝나기도 전에 캐시아는 눈빛을 번쩍이더니 순식간에 두 사람의 눈앞에서 사라졌다.	Before Lyfe even finished speaking, Katya's gaze shifted, and she vanished in the blink of an eye.						0	
+76	继续赶路吧。	繼續趕路吧。	私達も行こう。	다시 서둘러 가자.	Let's keep moving.						0	
+77	也许是因为里芙过于平静的反应，在穿过人群，走了几分钟后，龙舌兰才后知后觉地看向里芙。	也許是因為里芙過於平靜的反應，在穿過人群，走了幾分鐘後，龍舌蘭才後知後覺地看向里芙。	リフがあまりに冷静すぎたせいか、彼女と肩を並べて数分歩いたあと、アガベはやっとなにかに気づいたようにリフを見た。	리브의 반응이 너무 덤덤했는지, 아가베는 군중 속을 몇 분인가 걷다가 뒤늦게 리브를 바라보았다.	Perhaps due to Lyfe's overly calm reaction, they had walked through the crowd for a few minutes before Agave seemed to realize what had happened.						0	
+78	凯茜娅小姐刚刚是不是，变成了信息态？	凱茜婭小姐剛剛是不是，變成了資訊態？	その、さっきのカーシアさんは、情報体になったんですか……？	캐시아 님은 좀 전에 이념 형태가 되었던 건가요?	Did Katya just turn into a fragmented phantom?						0	
+79	……你能看到信息态？	……你看得到資訊態？	……お前にも見えるのか？	… 이념 형태를 볼 수 있어?	...You can see fragmented phantoms?						0	
+80	呃，怎么说呢……我的能力也和信息态有些关系。	呃，怎麼說呢……我的能力也和資訊態有些關係。	えっと、なんというか……私の能力は情報体と関係があるので……	아, 뭐랄까… 제 능력도 이념 형태와 관련이 있어서요.	Yeah, um... My abilities have something to do with fragmentation too.						0	
+81	不过，能整个人都变成信息态，也太厉害了。	不過，能整個人都變成資訊態，也太厲害了。	でも、頭から爪先まで情報体になれるなんてすごいですね。	하지만 이런 식으로 이념 형태가 되는 건 정말 대단한 일이랄까…	But it's amazing she's able to fragment her entire body.						0	
+82	她的能力确实帮了分析员许多。	她的能力確實幫了分析員許多。	確かに分析員をよく助けていたが。	확실히 그녀는 이런 능력으로 분석가를 많이 도와줄 수 있었어.	Her ability is very helpful to the Adjutant.						0	
+83	但是，也很危险。	但是，也很危險。	それでいて、危険な能力だ。	하지만 위험하기도 한 일이야.	But it's also dangerous.						0	
+84	危，危险？	危，危險？	き、危険ですか？	위험이요?	D—Dangerous?						0	
+85	接下来的时间你都只属于我，明白吗，playername。	接下來的時間你都只屬於我，懂嗎，playername。	これから、あなたの時間は私だけのものよ、playername。	남은 시간은 오로지 나한테만 할애해야 해, 알겠지, playername?	The rest of your time belongs to me and me alone, got it, playername?						0	
+86	那些碍事的女孩子，我会帮你解决掉的，呵呵呵呵……	那些礙事的女孩子，我會幫你解決掉的，呵呵呵呵……	私を邪魔する女の子は、ひとり残らず排除するわ……ふふ、ふふふふふ……	옆에서 방해하는 여자애들은 내가 해결해 줄 테니까, 하하하…	I'll help you take care of those little girls in the way, heheheh...						0	
+87	好可怕……	好可怕……	こ、怖いですね……	너무 무서워요…	How scary...						0	
+88	……	……	……	…	...						0	
+89	对于自己的这位引路人经常陷入的奇怪妄想状态，见过两次的里芙已经有些习以为常。	對於自己的這位引路人經常陷入的奇怪妄想狀態，見過兩次的里芙已經有些習以為常。	このガイドが妙な妄想に耽る姿を見るのもこれで2回目だ。リフは特に驚きを示すこともなかった。	자신의 길잡이가 자꾸 이상한 망상에 빠져드는 것을 이미 두 번이나 본 리브는 익숙해진 모양이었다.	After seeing it twice already, Lyfe had already gotten somewhat used to the odd, overly imaginative state her guide would sometimes become absorbed in.						0	
+90	以至于，当那台货运飞行机器人直直朝着龙舌兰撞来时，仍拖着病躯的里芙几乎是下意识地推开了对方。	以至於，當那台貨運飛行機器人直直朝著龍舌蘭撞來時，仍拖著病軀的里芙幾乎是下意識地推開了對方。	貨物飛行ロボットがアガベを目掛けて飛んでくるのに気づいた瞬間も、リフは病み上がりの体ながら、冷静にアガベを押しのけていた。	그래서 화물 비행 로봇이 아가베를 향해 추락하는 것을 보고는 리브는 무의식적으로 아픈 몸을 이끌고 그녀를 밀어냈다.	So when an airborne delivery bot came hurtling down toward Agave, Lyfe, who was still struggling to move her injured body, unconsciously pushed her out of the way to safety.						0	
+91	轰！	轟！	ドカーン！	펑!	*BANG—!*						0	
+92	伴随着龙舌兰拖成长音的惊呼，机器人如落石一般坠在方才她站立的地方，发出颇为骇人的巨响的同时，摔得彻底粉碎。	伴隨著龍舌蘭拖成長音的驚呼，機器人如落石一般墜在方才她站立的地方，發出頗為駭人的巨響的同時，摔得徹底粉碎。	アガベの悲鳴と共に、先ほど彼女が立っていた場所にロボットが大きな音を立てながら落下し、粉々に砕け散った。	아가베의 긴 외침과 함께 로봇이 마치 낙석처럼 그녀가 방금까지 서 있던 곳에 떨어졌다. 로봇은 꽤나 무서운 굉음을 내며 완전히 산산조각이 났다.	Amidst Agave's screams, the robot fell like a brick right in front of where she was standing. It broke to pieces with a loud, frightening sound.						0	
+93	而在下一刻，类似的此起彼伏的撞击声从街道各处传来。	而在下一刻，類似的此起彼落的撞擊聲從街道各處傳來。	そしてまた次の瞬間には、通りのあちこちから似たような衝撃音が立て続けに聞こえてきた。	그리고 이어서 곳곳에서 비슷한 굉음이 들려왔다.	The next moment, similar crashing noises could be heard from all corners of the street.						0	
+94	怎么会……	怎麼會……	そんな……	어떻게…	What's going on...						0	
+95	不过数秒之间，街上已经满是货运机器人的残骸。	不過數秒之間，街上已經滿是貨運機器人的殘骸。	ほんの数秒で、通りは貨物ロボットの残骸で埋め尽くされてしまった。	불과 몇 초도 안 돼서 거리는 화물 로봇의 잔해로 가득 찼다.	Within seconds, the street was filled with broken delivery bots that had crashed from above.						0	
+96	所幸之前观看拉票演出的人群已经散开，这场突如其来的“袭击”除了激起惊呼和咒骂之外，并未引发更大的骚乱。	所幸之前觀看拉票演出的人群已經散開，這場突如其來的「襲擊」除了激起驚呼和咒罵之外，並未引發更大的騷亂。	幸い、パフォーマンスを見に集まっていた人々はとっくに解散していて、突然の「空襲」とも言える出来事に驚く声や罵声こそ上がったものの、大きな騒ぎにはならなかった。	다행히도 선거 유세를 보던 사람들은 이미 흩어졌기에, 갑작스러운 '습격'으로 비명이나 욕설이 나오긴 했어도, 더 큰 소동으로 이어지지는 않았다.	The crowd watching the performance had already dispersed, otherwise this "aerial assault" could've been much worse. Fortunately, it only caused a few shouts and curses.						0	
+97	你还好吗？	你還好嗎？	無事か？	괜찮아?	Are you okay?						0	
+98	新恒提罗从来没有发生过这种大规模的机器人宕机事故，除非因为……恒沙？！	新恆提羅從來沒有發生過這種大規模的機器人當機事故，除非因為……恆沙？！	ニューガントラでは未だかつて、ここまで大規模なロボットの故障はありませんでした……まさか……ゴウシャになにか！？	뉴헨틸로에서 지금까지 이런 식으로 대규모로 로봇이 다운되는 사고가 발생한 적은 없어요… 설마 항사 때문일까요?!	There's never been a robot outage in New Hentiro on this level before. Could it have something to do with... GANGES!?						0	
+99	你说什……	你說什……	何を言って……	무슨 말이야…?	What are you say—						0	
+100	里芙还没说完便被龙舌兰打断，后者抓着里芙的手臂，神色慌张。	里芙還沒說完便被龍舌蘭打斷，後者抓著里芙的手臂，神情慌張。	リフがすべて言い終わる前に、アガベは慌てた表情でリフの腕を掴み、遮るようにこう続けた。	아가베는 리브가 말을 마치기도 전에 말을 끊더니 그녀의 팔을 잡고 안절부절못했다.	Before Lyfe could finish her sentence, Agave interrupted her by grabbing onto her arm with a panicked expression.						0	
+101	里芙，听我说，我们先不去心流园了。	里芙，聽我說，我們先不去心流園了。	申し訳ありません、リフ。フローガーデンは、また今度にしましょう。	리브 님, 지금은 제 말을 들어주세요. 마음의 정원은 일단 가지 않는 것으로 해요.	Lyfe, listen to me. Let's stay away from Heartflow Garden for now.						0	
+102	我会把你带到最近的安全屋去，千万不要出门，在那里等我。	我會把你帶到最近的安全屋去，千萬不要出門，在那裡等我。	一番近くの隠れ家にお連れしますので、絶対に外出しないで、そこで待っていてください。	일단은 가장 가까운 벙커로 가요. 절대 밖으로 나오지 마시고 벙커에서 기다려주세요.	I'll take you to the closest safe house. No matter what, you can't leave. Wait for me there.						0	
+103	你想干什么？	你想幹什麼？	なんのつもりだ。	뭘 하려는 거지?	What are you going to do?						0	
+104	我……	我……	そ、その……	그게…	I...						0	
+105	分析员有危险？	分析員有危險？	分析員が危険に遭う可能性でもあるのか？	분석가가 위험하기라도 한 거야?	Is the Adjutant in danger?						0	
+106	一股莫名的寒意让龙舌兰下意识缩了缩身体，她开始后悔自己刚才的说法。	一股莫名的寒意讓龍舌蘭下意識縮了縮身體，她開始後悔剛才的說法。	言いようのない悪寒に、アガベは体を縮めた。今の言い方はまずかったかもしれないと、彼女は思った。	알 수 없는 한기가 아가베를 움츠러들게 했고 그녀는 자신이 방금 한 말을 후회하기 시작했다.	An inexplicable chill ran down Agave's spine, causing her to shrink away. She began to regret what she had just said.						0	
+107	我不确定。	我不確定。	確信はないのですが……	확실하진 않아요.	I'm not sure.						0	
+108	但是，城市中的机器人都由恒沙控制，playername前脚刚去汉诺塔，现在机器人就出现问题，我担心，他在那里遇到了突发状况。	但是，城市中的機器人都由恆沙控制，playername前腳剛去漢諾塔，現在機器人就出現問題，我擔心，他在那裡遇到了突發狀況。	この都市では、ロボットは全部ゴウシャによって制御されているんです。playernameさんがハノイの塔に入ったばかりだというのに、ロボットが故障するなんて、そこでなにかあったのではないかと思ったのです。	도시의 로봇들이 모두 항사에 의해 통제되고 있는데, playername 님께서 하노이 타워로 향한 후로 로봇에 문제가 생기고 있어요. 거기서 혹시라도 돌발 상황에 직면했을까 걱정이에요.	But GANGES controls all of the robots in the city. playername just went to the Tower of Hanoi, and now there's a problem with the robots. I'm worried something might have happened to him there.						0	
+109	里芙，保护你是playername交给我的命令，以你现在的身体状态，我绝对不能带着你去冒险。	里芙，保護你是playername交給我的指令，以你現在的身體狀態，我絕對不能帶著你去冒險。	playernameさんからの命令は、リフを護衛すること。病み上がりのあなたを連れて行くわけにはいきません。	리브 님, 당신을 보호하는 건 playername 님의 명령이에요. 당신의 현재 몸 상태로는 절대 그곳에 갈 수 없어요.	Lyfe, playername ordered me to protect you. I can't bring you along and put you at risk in your condition.						0	
+110	我必须去。	我必須去。	私も行く。	아니, 난 반드시 가야만 해.	I have to go.						0	
+111	你到底有没有在听我说话……	你到底有沒有在聽我說話……	だから、ダメですって……	제 말 못 들으셨나요…?	Are you even listening to me...?						0	
+112	好，既然这样，你就亲眼看看吧。	好，既然這樣，你就親眼看看吧。	仕方ありません。実際に見て貰いましょうか。	좋아요, 그럼 직접 한번 봐보세요.	Fine. In that case, you can see for yourself.						0	
+113	唔……	唔……	む……	윽…	Argh...						0	
+114	好多敌人，身体……使不上力……	好多敵人，身體……使不上力……	敵が多いな。力が……入らない……	적들이 너무 많아… 몸에 힘을 줄 수가 없어…	So many enemies. I... can't hold on...						0	
+115	不，不行，我还没有找到playername……	不，不行，我還沒找到playername…	ダメだ。playernameを探さないと……	아, 아직 이대로는 안 돼. 아직은 playername을(를) 못 찾았어…	N—No... I still haven't found playername...						0	
+116	强烈的无力感与眩晕感让里芙的眼前愈发模糊，许久没有感受过的寒冷席卷全身，直至意识也被冻结——	強烈的無力感與眩暈感讓里芙的眼前愈發模糊，許久沒有感受過的寒冷席捲全身，直至意識也被凍結——	強い無力感と眩暈に襲われ、リフの視界が段々とぼやけていく。久しぶりに感じる寒気が全身を駆け巡り、意識までも凍ってしまいそうだ——	강한 무력감과 현기증에 리브의 시야는 점점 흐려졌고, 오랫동안 느껴보지 못했던 한기가 온몸을 휩쓸며 의식마저 얼어붙게 했다…	Intense exhaustion and dizziness caused Lyfe's vision to blur. A chill she hadn't felt for a long time spread throughout her body until her consciousness froze...						0	
+117	？！	？！	！？	?!	!?						0	
+118	像是溺水后被救出一般，里芙捂着胸口，不受控制地吸入又吐出一口接一口的空气。	像是溺水後被救出一般，里芙摀著胸口，不受控制地吸入又吐出一口接一口的空氣。	溺れたところを助けられたみたいに、リフは胸元を抑えながら、必死に呼吸を繰り返した。	물에 빠졌다가 구조된 것처럼 리브는 가슴을 움켜쥐더니 한 입 한 입 공기를 들이마시고 내뱉었다.	Lyfe clutched her chest, uncontrollably breathing in and out in quick succession as if she'd just been rescued from drowning.						0	
+119	她仍站在街道上，方才感受到的濒死的痛苦似乎在一瞬间消失了。	她仍站在街道上，方才感受到的瀕死的痛苦似乎在一瞬間消失了。	彼女は自分がまだ通りに立っていることに気付いた。今しがたの苦しみは、すでに嘘のように消え去っていた。	하지만 그녀는 여전히 길거리 위에 서 있었다. 그리고 방금 전까지 느꼈던 죽음에 가까운 고통은 순식간에 사라진 듯했다.	She was still standing on the street, and the unbearable pain she had just felt seemingly disappeared in an instant.						0	
+120	眼前，龙舌兰神色凝重，伸着双手，手指间绕着一条浅色的细绳，以奇怪的方式将绳绕成了一个小框。	眼前，龍舌蘭神色凝重，伸著雙手，手指間繞著一條淺色的細繩，以奇怪的方式將繩繞成了一個小框。	彼女の目の前で、アガベは真剣な面持ちで両手を伸ばしていた。彼女の指の間に、色の浅い細い縄のようなものが、四角く巻き付けられていた。	눈앞에는 아가베가 두 손을 뻗고 손가락 사이에 있는 옅은 색의 줄을 감아 독특한 방식으로 작은 작은 틀을 만들고 있었다.	Agave stood solemnly in front of her. She reached out, wrapping a light string around her fingers and weaving it intricately into a small frame.						0	
+121	与里芙一样，龙舌兰看起来也格外痛苦，连连喘着粗气。	與里芙一樣，龍舌蘭看起來也格外痛苦，連連喘著氣。	アガベ自身も、リフと同じように荒い呼吸を繰り返している。	리브와 마찬가지로 아가베도 몹시 괴로워 보였고, 연신 가쁜 숨을 몰아쉬었다.	Agave looked to be suffering, gasping for air just like Lyfe.						0	
+122	你明白吗，如果你执意要去涉险，这一切就会变成现实……	你明白嗎，如果你執意要去涉險，這一切就會變成現實…	分かってくれました？どうしても行きたいというのなら、今の光景が現実となるでしょう……	이제 아시겠어요? 굳이 위험을 감수하려 한다면, 이 모든 것이 현실이 될 거예요…	Do you understand? If you insist on putting yourself in danger, this is going to become a reality...						0	

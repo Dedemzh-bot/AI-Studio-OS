@@ -1,0 +1,35 @@
+﻿字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	zh_CN	disable	Remark
+TxtCMgirl06_clock01	每周%d	1	
+TxtCMgirl06_clock02	不重复	1	
+TxtCMgirl06_clock03	是否退出蜜语相伴？		3.4陪伴系统
+			
+			
+TxtCMclock01_name1	吃饭		
+TxtCMclock01_name2	出门		
+TxtCMclock01_name3	工作		
+TxtCMclock01_name4	运动		
+TxtCMclock01_name5	学习		
+TxtCMclock01_name6	自定义		
+			
+TxtCMvoice01_name1	风入林		
+TxtCMvoice01_name2	鸟鸣		
+TxtCMvoice01_name3	流水		
+TxtCMvoice01_name4	风铃		
+TxtCMvoice01_name5	瀑布		
+TxtCMvoice01_name6	围炉		
+			
+TxtCMclock01_des1	好好吃饭是人生大事，卜卜是绝对不会忘记的。		3.4陪伴系统
+TxtCMclock01_des2	分析员是打算一会出去走走吗？		3.4陪伴系统
+TxtCMclock01_des3	工作上的事儿可不能耽搁，卜卜会记得提醒分析员的。		3.4陪伴系统
+TxtCMclock01_des4	到点了，我也和分析员一起运动运动。		3.4陪伴系统
+TxtCMclock01_des5	呀~那待会岂不是就可以和分析员一起学习啦？		3.4陪伴系统
+TxtCMclock01_des6	放心放心，卜卜可是很靠谱的，绝对不会耽误分析员的正事。		3.4陪伴系统
+TxtCMclock01_des7	从现在开始，卜卜会盯紧时间的！盯——！		3.4陪伴系统
+			
+TxtCMclock01_tips	<span color="#FFE942FF">%s</>时间到啦，该去<span color="#FFE942FF">%s</>了！		3.4陪伴系统
+TxtCMclock02_tips_none	<span color="#FFE942FF">%s</>时间到啦，该去忙咯分析员~		3.4陪伴系统-卜卜UI提示
+			
+TxtCMclockMax_tips	备忘录最多可配置三个闹钟，请删除后再创建		3.4陪伴系统
+TxtCMclockTime_tips	备忘录同时段只能创建一个闹钟		3.4陪伴系统
+TxtCMVoiceMax_tips	最多可设置三种音效		3.4陪伴系统

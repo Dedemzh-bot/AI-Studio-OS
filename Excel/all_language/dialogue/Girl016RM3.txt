@@ -1,0 +1,81 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	呜嗯……	嗚嗯……	ふむ……	흐응…	Ungh...						0	
+2	伊切尔烦躁地抠着脑袋，另一只手有一下没一下地敲着触摸屏，时不时发出不耐烦的哼唧声。	伊切爾煩躁地摳著腦袋，另一隻手有一下沒一下地敲著觸控屏，時不時發出不耐煩的哼唧聲。	イチェルはイライラとタブレットの画面を触りながら、時々不機嫌な唸り声を上げていた。	이첼은 짜증 나는 일이 있는지 한 손으로는 머리를 부여잡고, 다른 한 손으로는 스크린을 만지작거리며 한숨을 내쉬었다.	Eatchel was scratching her head in frustration, impatiently grunting as her other hand swiped on the touch screen.						0	
+3	要说她在烦躁什么的话……	要說她在煩躁什麼的話…	彼女が今なにをしているのかというと……	이첼이 짜증 나는 이유는…	If I had to guess what she was so upset about...						0	
+4	是作业。	是作業。	ずばり、宿題だ。	숙제 때문이다.	It would be homework.						0	
+5	公司前几天，决定开始给伊切尔补一些文化课程。	公司前幾天，決定開始為伊切爾補一些文化課程。	会社の意向もあり、数日前からイチェルは一般教養についての勉強を始めていたのだ。	며칠 전, 회사에서 이첼에게 문화 보충 수업을 가르치기로 결정했다.	A few days ago, the company started conducting some educational classes for Eatchel.						0	
+6	但由于这孩子没有受过系统教育，加上太有个性，已经连着气走了好几个老师。	但由於這孩子沒有受過系統教育，加上太有個性，已經連著氣走了好幾個老師。	けれど彼女にはまともな教育を受けた経験がなく、その上よく癇癪を起こすので、すでに何人もの教師が匙を投げていた。	하지만 체계적인 교육을 받지 못했던 이첼의 배경 때문인지 이미 여러 선생님이 떠난 상태였다.	However, considering her stubborn personality and the fact that she had never received a formal education, she had already caused several teachers to walk out in anger.						0	
+7	最终，给伊切尔辅导功课的任务，又落到了我肩膀上。要说为什么的话……用卡罗琳的话来说就是“她只听你的话啊”。	最終，給伊切爾輔導課業的任務，又落到了我肩膀上。要說為什麼的話…用卡羅琳的話來說就是“她只聽你的話啊”。	最終的に、イチェルに勉強を教える役目は私の元へと回ってきた。カロリンの話によると、「あなたの言うことしか聞きませんからね」だそうだ。	결국 이첼의 숙제를 지도하는 일이 내게 떠넘겨진 상황이다. 캐롤린 말대로면 이첼이 내 말만 고분고분 잘 듣는다고 한다.	In the end, teaching Eatchel was left to me. As for the reason... Caroline claimed: "She only listens to you."						0	
+8	可不可以休息会儿啊？	可不可以休息一會兒啊？	ちょっと休んでいい？	조금만 쉬었다가 하면 안 돼?	Can we take a break?						0	
+9	你才写了十分钟不到。	你才寫了十分鐘不到。	始まってからまだ10分も経ってないけど。	겨우 15분밖에 안 했잖아.	You've been writing for less than 10 minutes.						0	
+10	可是我好累。	可是我好累。	でも疲れたぞ。	너무 피곤해.	But I'm really tired.						0	
+11	一道题都没做出来怎么会累？	一道題都沒做出來怎麼會累？	1問も解いてないのに？	한 문제도 못 풀었는데 뭐가 피곤하다는 거야?	How can you be tired if you haven't finished a single question?						0	
+12	我有思考的！	我有在思考的！	ちゃんと解こうとしてるもん！	나도 생각이란 걸 하거든!	I'm thinking!						0	
+13	你连草稿都没打吧？	你連草稿都沒打吧？	その割には、何も書いてないじゃないか。	초안도 작성하지 않았는걸?	You haven't even started writing yet?						0	
+14	我在脑袋里打草稿了！	我在腦袋裡打草稿了！	頭の中で書いてるの！	이미 초안은 머릿속으로 생각했어!	I'm writing the answer in my head!						0	
+15	那你说说你思考到哪一步了。	那你說說你思考到哪一步了。	ほう？なら、どこまで解いたんだ？	그럼 한번 생각한 초안을 말해봐.	Then tell me how far you've gotten in your head.						0	
+16	呜嗯……我……我……	嗚嗯……我……我……	んん……その……えっと……	흐응… 그게… 내가…	Mmm... I... I...						0	
+17	伊切尔半天没有说出一句完整的话来，只见她犹豫再三，最后拿起来了平板，写了一会儿后朝我递了过来。	伊切爾半天沒有說出一句完整的話來，只見她猶豫再三，最後拿起來了平板，寫了一會兒後朝我遞了過來。	イチェルは口ごもった。しばらく悩んだあと、彼女はタブレットを持ち上げて、何かを書いてから、私に突き出した。	이첼은 반나절 동안 한 마디 말도 하지 않았다. 그리고 계속 망설이더니 태블릿을 집어 들고는 내게 넘겼다.	Eatchel struggled to form a full sentence for a long time. She continually hesitated before she finally picked up the tablet, wrote for a moment, then handed it back to me.						0	
+18	嗯？难道突然想出来了？	嗯？ 難道突然想出來了？	急に回答を思いついたのか？	음? 설마 갑자기 떠올랐나?	Well? Did you suddenly think of something?						0	
+19	我拿过平板，只见上面写了一个“解”。	我拿過平板，只見上面寫了一個字：[解]。	タブレットを確認すると、そこには「回答」という文字がぽつんと書かれていた。	나는 태블릿을 집어 들었고, 그 위에 '해'라고 적힌 글자를 보았다.	I took the tablet to see the word "answer" written on it.						0	
+20	看，有第一步。	看，有第一步。	ここまで考えたぞ！	봐봐, 첫 단계.	See? That's the first step.						0	
+21	你十分钟是用来思考这个字怎么写吗？	你十分鐘是用來思考這個字怎麼寫嗎？	これを書くに10分も？	설마 10분 동안 이 글자를 쓰려고 고민했던 거야?	You thought about how to write this one word for 10 minutes?						0	
+22	对呀！好难的！	對呀！ 好難的！	そう！だって難しいもん！	맞아! 얼마나 어려웠는지 알아?!	Yeah! It's really hard!						0	
+23	……	……	……	…	...						0	
+24	嘿嘿我可以休息一会儿了吧？	嘿嘿我可以休息一會兒了吧？	えへへ、もう休んでいい？	헤헤, 이제 좀 쉬어도 되지?	Hehe~ Can I have a break now?						0	
+25	不行。	不行。	ダメだ。	아니.	No.						0	
+26	为什么！？	為什麼！？	なんでだよ！？	왜?!	Why not!?						0	
+27	因为没有完成目标，不能休息啊。	因為沒有完成目標，不能休息。	なんでって、宿題がまだ終わってないからだよ。	왜냐하면 아직 끝내지 못했기 때문이야. 이렇게 쉴 순 없어.	Because you haven't reached your study goal. No breaks.						0	
+28	我不！我不！我不做作业了！	我不！ 我不！ 我不做作業了！	やだやだやだ！宿題はもうやらない！	싫어! 싫어! 난 숙제를 하고 싶지 않아!	No! No! I'm not doing any more homework!						0	
+29	伊切尔直接原地一躺，在地上滚来滚去，大声发表自己不想做作业的诉求。	伊切爾直接原地一躺，在地上滾來滾去，大聲發表自己不想做作業的訴求。	イチェルはとうとう開き直ると、床の上で駄々をこね始めた。	이첼은 그대로 드러누워 바닥에서 뒹굴며 숙제를 하고 싶지 않다고 목소리를 높였다.	Eatchel lay right down on the floor and began rolling around, loudly proclaiming that she didn't want to do her homework.						0	
+30	再努力一点点，就做一道题好不好？	再努力一點，就做一道題目好不好？	もう少し頑張ってみてよ。せめて1問を解いてから！	조금만 더 노력해서 한 문제라도 풀면 안 될까?	Try a little harder. Let's just do one question, okay?						0	
+31	不要不要！讨厌作业！	不要不要！ 討厭作業！	やだやだ！宿題はいや！	싫어! 싫어! 난 숙제가 싫어!	No! No! I hate homework!						0	
+32	哎……你再不停下打滚，我就不客气了。	哎……你再不停下打滾，我就不客氣了。	はぁ……それ以上駄々をこねるつもりなら、こっちにも考えがあるぞ。	후… 계속 그렇게 뒹굴면 나도 가만두지 않을 거야.	*sigh*... If you don't stop rolling around like that, I'll have to stop you myself.						0	
+33	不做作业！我要休息！	不做作業！ 我要休息！	やだったらやだ！もうやらない！	숙제는 싫어! 난 그냥 쉴래!	I'm not doing my homework! I want a break!						0	
+b-1											0	
+34	抱起伊切尔。	抱起伊切爾。	イチェルを抱き上げる。	이첼을 안는다.	Scoop Eatchel up.						0	
+35	拎起伊切尔。	拎起伊切爾。	イチェルを摘まみ上げる。	이첼을 들어 올린다.	Pull Eatchel up.						0	
+36	大坏蛋大坏蛋！放我下来！	大壞蛋大壞蛋！ 放我下來！	おーろーせー！分析員のいじわる！	아아! 나빴어! 나빴어! 내려줘!	You big meanie! Put me down!						0	
+37	好好好。	好好好。	はいはい。	알겠어, 알겠어.	Alright, alright.						0	
+38	我直接原地坐下，让伊切尔坐在我腿上，把她禁锢在我臂弯里。	我直接原地坐下，讓伊切爾坐在我腿上，把她禁錮在我臂彎裡。	私は元の位置に座り直した。イチェルを膝の上に乗せてから、後ろから抱きしめた。	난 제자리에 앉아서 이첼을 내 다리에 앉히고 팔꿈치에 가두었다.	I sat down, allowing Eatchel to sit on my lap as I confined her in my arms.						0	
+39	分析员说话不算话！还没放开我。	分析員說話不算！還沒放開我。	噓つき！まだ下ろしてないぞ！	분석가 나빠! 한 입으로 두말하고! 이거 놔!	You lied, Adjutant! You didn't put me down.						0	
+40	哪有？至少你脚在地面上了！	哪有？ 至少你腳在地面上了！	下ろしたよ。ほら、君の足だってちゃんと床についているだろ？	무슨 소리야? 아직 발이 땅에 닿아있는데!	What are you talking about? At least your feet are on the ground now.						0	
+41	耍赖耍赖！	耍賴耍賴！	ずるいずるい！	안 해 안 해!	You tricked me!						0	
+42	伊切尔说着又挣扎起来。	伊切爾說著又掙紮起來。	イチェルはまだジタバタと暴れ出した。	이첼은 몸부림치기 시작했다.	Eatchel wriggled around again as she spoke.						0	
+43	做作业真的这么痛苦吗？	做作業真的這麼痛苦嗎？	そんなに宿題が嫌なのか？	진짜 그렇게까지 숙제가 하기 싫어?	Is doing homework really that terrible?						0	
+44	太痛苦了！	太痛苦了！	いや！	너무 싫어!	It's really terrible!						0	
+45	原因是什么呢？	原因是什麼呢？	どうして？	왜 그렇게 생각하는 거야?	Why?						0	
+46	看不懂……	看不懂……	み、見てもわかんないから……	못 알아보겠어…	I don't understand it...						0	
+47	那可以问我啊。	那可以問我啊。	私に聞けばいいじゃないか。	그럼 나한테 물어보면 되잖아.	Then you can just ask me.						0	
+48	怕分析员不高兴，觉得我笨，就不理我了。	我怕分析員不高興，覺得我笨，就不理我了。	それじゃあ、ボクがバカだってばれて、分析員に嫌われるから、いやなの。	내가 멍청해 보일까 봐, 분석가가 날 싫어하게 될까 봐 두려워.	I'm scared you won't be happy. You'll think I'm stupid and ignore me.						0	
+49	不会哦。我最喜欢和伊切尔在一起了。	不會哦。我最喜歡和伊切爾在一起了。	そんなわけないよ。イチェルと一緒にいるのは楽しいよ。	그렇지 않아. 난 이첼하고 있는 게 제일 좋은 걸.	I'd never do that. I like being around you, Eatchel.						0	
+50	呜嗯……骗人，刚刚你，脸好凶。	嗚嗯……騙人，剛剛你，臉好兇。	ううん……うそつき。さっきすごい怖い顔してたくせに！	흐응… 거짓말, 방금 분석가 표정 엄청 살벌했는데.	Mmm... Liar. Your face was all mean just now.						0	
+51	原来是刚刚的表情吓到你了。	原來是剛剛的表情嚇到你了。	なんだ、私の顔を怖がってたのか。	내 표정 때문에 놀랐던 거였구나?	So my expression just now scared you?						0	
+52	嗯……	嗯……	うん……	맞아…	Okay...						0	
+53	别怕，我刚才只是在苦恼，是不是我教得不好，没有怪你的意思。	別怕，我剛才只是在苦惱，是不是我教得不好，沒有怪你的意思。	それは悪かったな……私の教え方が間違ってるのかもって悩んでただけで、君に怒ってたわけじゃないよ。	겁먹지 마. 방금은 그저 고민한 거야. 내 교육에 문제가 있다고 생각한 거지 이첼을 원망하려는 뜻은 아니었어.	Don't be scared. I was upset because I was worried I wasn't doing a good job teaching you. I wasn't blaming it on you.						0	
+54	不骗我？	不騙我？	ホント？	거짓말 아니지?	Really?						0	
+55	不骗你。	不騙你。	本当だ。	진심이야.	Really.						0	
+56	嘿嘿太好了，还以为分析员生气了。	嘿嘿太好了，還以為分析員生氣了。	えへへ、よかった……怒らせたかと思ったぞ。	헤헤, 정말 다행이야. 난 분석가가 화난 줄 알았어.	Hehe~ That's good. I thought you were mad.						0	
+57	不会生气，给你布置作业就是因为你没学过，所以不会因为你看不懂就生气的。	不會生氣，給你作業就是因為沒學過，所以不會因為看不懂就生氣的。	全然。そもそもまともに教育を受けたことがないんだ。宿題ができないぐらいで怒ったりしないさ。	화내지 않는다고 약속할게. 이첼에게 숙제를 주는 이유는 이첼이 이걸 배운 적이 없었기 때문이야. 이첼이 모른다고 화낼 일이 아니지.	I wasn't mad. We gave you this homework because you've never learned it before, so I won't be mad if you don't understand.						0	
+58	嗯嗯！太好了！	嗯嗯！太好了！	うん！よかった！	으응! 너무 좋아!	Okay! That's good!						0	
+59	原本是希望补足你错过的时间……你应该接受的教育，应该享受的快乐，我想尽快给你补上。	原本是希望補足你錯過的時間…你該接受的教育，應該享受的快樂，我想盡快給你補上。	君が本来受け取れるはずだった学びや人生の楽しさを、少しでも早く取り戻してあげたかったんだけど……	원래는 이첼이 놓쳤던 시간들을 채워주고 싶었어… 이첼이 받아야 할 교육, 마땅히 누려야 할 즐거움, 이런 것들을 가능한 한 빨리 너에게 누리게 하고 싶었어.	I was hoping you could make up for lost time... I want to help you make up for the education you should have received and all the happiness you should have experienced.						0	
+60	不过现在看来，我太着急，反而给你压力了。	不過現在看來，我太急，反而給你壓力了。	どうやら、急いだのが裏目に出たみたいだな。	지금 보면 내가 조급해해서 이첼에게 본의 아니게 압박을 주고 있는 것 같아.	But it looks like I was rushing things. I put too much pressure on you.						0	
+61	是想让我快点学会吗？	是想讓我快點學會嗎？	ボクに早く覚えて欲しいからってこと？	내가 빨리 배웠으면 좋겠어?	You want me to learn it fast?						0	
+62	对，希望你快赶上其他同龄人，不过吧……你还是按照自己的步调来吧。哪怕只有一点点进步，我都为你高兴。	對，希望你快趕上其他同齡人，不過吧……你還是按照自己的步調來吧。就算只有一點點進步，我都為你高興。	そうだね。一日でも早く同年代の子たちに追い着けるならそれがベストだけど、焦る必要はないよ。君のペースで、少しずつでも成長してくれれば、それで充分だ。	다른 동료들을 곧장 따라잡을 수 있기를 바라지만… 모든 사람은 자기 페이스가 있으니까. 비록 작은 진전이라고 해도 난 이첼을 응원할게.	Yes, I want you to be able to catch up with your peers as soon as possible, but... you should take it at your own pace. I'll be happy for you even if you make just a little bit of progress.						0	
+63	一点点也可以吗？	一點點也可以嗎？	少しずつでも？	그럼 조금씩 배워도 되는 거지?	Just a little bit is fine?						0	
+64	再小都算。	再小都算。	もちろん。	응, 아주 조금이라도.	Even the tiniest bit is fine.						0	
+65	那我今天一定要把这道题做出来！	那我今天一定要把這題做出來！	じゃあ、今日は何としても1問は解いてみせるぞ！	그럼 오늘 이 문제를 꼭 풀어볼게!	Then I'm definitely going to finish this question today!						0	
+66	很有斗志嘛！	很有鬥志嘛！	おお、気合入ってるな！	투지가 대단한데!	That's the spirit!						0	
+67	分析员，能先给我说一下，这个题目什么意思吗？	分析員，能先給我說一下，這個題目什麼意思嗎？	もっかいこの問題の意味を教えて？	분석가, 이 제목이 무슨 뜻인지 먼저 설명해 줄 수 있어?	Adjutant, can you tell me what this question means first?						0	
+68	好啊，那……	好啊，那……	いいよ。これはね……	그럼, 당연하지…	Alright, then...						0	
+69	等一下！	等一下！	待って！	잠깐만!	Wait a second!						0	
+70	怎么了？	怎麼了？	どうした？	왜 그래?	What's wrong?						0	
+71	我可以一直坐在你腿上吗？嘿嘿~	我可以一直坐在你腿上嗎？嘿嘿~	膝の上に座ってたい。ダメ？	이렇게 다리에 계속 앉아도 될까? 헤헤~	Can I keep sitting on your leg? Hehe~						0	
+72	当然可以。	當然可以。	もちろん大丈夫だよ。	당연히 가능하지.	Of course.						0	
+73	谢谢分析员！	謝謝分析員！	ありがとう、分析員！	고마워, 분석가!	Thank you, Adjutant!						0	
+74	今天的目标是——	今天的目標是—	よし。じゃあ、今日の課題は？	오늘의 목표는…	Today's study goal is—						0	
+75	做完一道题！	做完一道題！	宿題を1問解く！	한 문제 완성!	Do one question!						0	
+76	今天的奖励是——	今天的獎勵是——	今日のご褒美は？	오늘의 보상은 뭐야?	Today's reward is—						0	
+77	公司餐厅每周限定一天的脆皮烤猪肘怎么样？	公司餐廳每週限定一天的脆皮烤豬肘怎麼樣？	社食の週1限定メニュー、豚足のこんがり焼きでどう？	일주일에 하루만 사내 식당에서 맛볼 수 있는 바삭바삭한 돼지갈비는 어때?	How about the roasted pork knuckle the canteen only serves once a week?						0	
+78	好！！！	好！！！	わーい！！！	좋아!!!	Okay!!!						0	

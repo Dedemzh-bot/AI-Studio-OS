@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	晴，你这是在……	晴，你這是在……	晴……何してるんだ？	하루, 지금 뭐 하는 거예요…?	Haru, what are you...?						0	
+page1.2	休息。	休息。	休憩中だ。	쉬는 중이야.	Relaxing.						0	
+page1.3	正常人休息会一边跳步一边打拳吗……？	正常人休息會一邊跳步一邊打拳嗎……？	休憩中に走ったりボクシングしたりするか、普通……？	보통 사람들은 휴식을 취하면서 타권 연습을 하진 않죠.	Do normal people relax by hopping around and boxing...?						0	
+page1.4	我觉得很放松。	我覺得很放鬆。	別にリラックスはしていると思うが。	나 이렇게 쉬는 게 편해.	I feel very relaxed.						0	
+page1.5	真正训练的话，我会给自己增加负重，也不会只是使用沙袋。	真正訓練的話，我會為自己增加負重，也不會只是使用沙袋。	本当のトレーニング中は重りをつけるし、サンドバッグ以外を使うこともある。	실제 훈련에서는 무게를 더 추가해, 지금 샌드백만 사용하지는 않고.	If I was really training, I'd add weights. I wouldn't just use a sandbag.						0	
+page1.6	现在这样完全不到锻炼目的的。	現在這樣完全達不到訓練的目的。	このままじゃなにも鍛えられないからな。	지금 이 정도로는 운동 목적을 달성할 수 없어.	This can hardly be called exercise.						0	
+page1.7	可你这样也达不到休息的目的吧？？	但你這樣也達不到休息的目的吧？？	でも、このままじゃ全然休めないだろう？	근데 이렇게 한다고 해서 휴식의 목적을 달성 못 하는 거 아닌가요??	But you can't call this relaxing either, right???						0	
+page1.8	不能因为是休息，就对自己放松要求。	不能因為是休息，就對自己放鬆要求。	休みだからって鍛錬を怠るわけにはいかない。	쉬는 거라고 해서 내 자신에게 요구를 낮출 수는 없지.	You can't lower your own standards, even when it comes to relaxation.						0	
+page1.9	只有这样，才能时刻保持最好的状态。	只有這樣，才能時時刻刻保持最好的狀態。	こうじゃないと最高の状態を保てないからな。	이렇게 해야 언제나 최상의 상태를 유지할 수 있어.	This is the only way to stay in peak physical condition.						0	
+page1.10	分析员，你要做什么？	分析員，你要做什麼？	……分析員？なにをするつもりだ。	분석가, 뭘 하려고?	Adjutant, what are you doing?						0	
+page1.11	带你去真正休息一下，劳逸结合也是挺重要的。	帶你去真正休息一下，勞逸結合也是挺重要的。	君に本当の休憩を教えてあげよう。頑張るのはいいが、休みも大事だからな。	진짜 쉬게 해줄 거예요, 워라벨도 중요하거든요.	I'm taking you to really relax. It's important to find a good balance between work and rest.						0	
+page1.12	等等……放开我，我刚预定了之后的训……休息计划。	等等……放開我，我剛剛預定了之後的訓……休息計畫。	待って……放してくれ！これからのとれ……休憩プランを予約したばかりなんだぞ！	잠깐… 놔 봐, 방금 이따 훈련… 아니, 휴식 계획을 예약했거든.	Wait... let me go. I just reserved a trai... relaxation session.						0	
+page1.13	只是预约还没有到时间，提前取消掉就好。	只是預約還沒到時間，提早取消掉就好。	予約なんだから、時間になる前に取り消したらいいだけじゃないか。	예약만 했고 아직 시간이 안 됐으니, 미리 취소하면 돼요.	It's still early. Just cancel the reservation.						0	
+page1.14	晴不想违背答应我好好休息的承诺吧？	晴不想違背答應我好好休息的承諾吧？	ちゃんと休むという約束を、破るつもりじゃないよな？	하루도 푹 쉬겠다고 한 약속을 어기고 싶지 않겠죠?	You told me you'd relax. You don't want to break that promise, right?						0	
+page1.15	……我知道了。	……我知道了。	……分かった。	… 알겠어.	...You're right.						0	

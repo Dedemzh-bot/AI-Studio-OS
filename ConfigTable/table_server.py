@@ -16,7 +16,7 @@ from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_ROOT = os.path.dirname(ROOT_DIR)
+PROJECT_ROOT = os.environ.get("AI_STUDIO_DATA_DIR", os.path.dirname(ROOT_DIR))
 EXCEL_DIR = os.path.join(PROJECT_ROOT, "Excel")
 GAMEDATA_DIR = os.path.join(ROOT_DIR, "knowledge", "gamedata")
 SESSION_FILE = os.path.join(ROOT_DIR, ".session_state.json")
@@ -65,17 +65,19 @@ def api_status():
 
 @app.get("/files")
 def api_files():
-    """返回 Excel/ 下所有 JSON 文件"""
+    """返回 Excel/ 下所有 JSON/XLSX/XLS/TXT 文件（含子目录）"""
     files = []
     if os.path.exists(EXCEL_DIR):
-        for f in sorted(os.listdir(EXCEL_DIR)):
-            fp = os.path.join(EXCEL_DIR, f)
-            if os.path.isfile(fp) and f.endswith(".json"):
-                files.append({
-                    "name": f,
-                    "size": os.path.getsize(fp),
-                    "mtime": os.path.getmtime(fp),
-                })
+        for root, dirs, filenames in os.walk(EXCEL_DIR):
+            for f in sorted(filenames):
+                fp = os.path.join(root, f)
+                if f.endswith(".json") or f.endswith(".xlsx") or f.endswith(".xls") or f.endswith(".txt"):
+                    rel = os.path.relpath(fp, EXCEL_DIR).replace("\\", "/")
+                    files.append({
+                        "name": rel,
+                        "size": os.path.getsize(fp),
+                        "mtime": os.path.getmtime(fp),
+                    })
     files.sort(key=lambda x: x["name"])
     return JSONResponse({"files": files, "modified": sorted(modified_files)})
 

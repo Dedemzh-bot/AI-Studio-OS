@@ -1,0 +1,241 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	敌人……好像没有追上来。	敵人……好像沒有追上來。	敵は……追ってきてないみたい。	적들이… 쫓아오지 않는 것 같아.	The enemies don't seem to be following us...						0	3.3主线剧情
+2	伴随着身后的巨响，敌人的炮火被彻底隔绝在了那一扇沉重的大门后。	伴隨著身後的巨響，敵人的砲火被徹底隔絕在了那一扇沉重的大門後。	背後の轟音と共に、敵の砲火は重厚な扉の向こうに完全に遮断された。	뒤에서 굉음이 울리는 동시에, 적들의 포화는 묵직한 대문 뒤로 완전히 차단되었다.	A thunderous boom echoed as the heavy door slammed shut, cutting off the enemy's barrage inside.						0	3.3主线剧情
+3	而外面的世界，似乎也并未察觉到刚刚的异变，一切都静若来时。	而外面的世界，似乎也並未察覺到剛剛的異變，一切都靜若來時。	外の世界は、異変に気付いていないようで、来た時と同じくらい静かだった。	그리고 외부의 세계는 방금 일어난 이상 현상을 전혀 눈치채지 못한 듯, 모든 것이 막 도착했을 때처럼 조용했다.	Outside, the world seemed unaware of the disturbance — everything was as calm as before.						0	3.3主线剧情
+4	四周没有一个路人，远处也没有任何骚动……看样子外围的安保系统并未被入侵。	四周沒有一個路人，遠處也沒有任何騷動……看起來外面的保全系統並未被入侵。	周囲に人影はなく、遠くで騒ぎが起きた様子もない……どうやら外周の警備システムは侵入されていないようだ。	주변에 행인은 한 명도 없고, 멀리서도 소란스러운 기색이 전혀 없었다… 외곽의 보안 시스템은 침입당하지 않은 것 같았다.	No pedestrians in sight, no commotion in the distance... It looked like the external security systems hadn't been breached.						0	3.3主线剧情
+5	嗯，它们的行动权限被限制在汉诺塔内部。	嗯，它們的行動權限被限制在漢諾塔內部。	ハイ、敵の行動権限は、ハノイの塔内部に制限されているノデ。	음, 녀석들의 행동 권한은 하노이 타워 내부로 제한되어 있네요.	Yes. Their operational range is confined to the Tower of Hanoi.						0	3.3主线剧情
+6	看来入侵者还没有完全掌控这套系统。	看來入侵者還沒有完全掌控這套系統。	侵入者はまだシステムを完全にハッキング出来てないようだ。	침입자들이 아직 이 시스템을 완전히 통제하진 못한 모양이야.	It seems the intruders haven't fully seized control of the system yet.						0	3.3主线剧情
+7	分析员，芙提雅和猫汐尔发来回信，她们发来了接入系统的申请。	分析員，芙提雅和貓汐爾回訊，她們傳來了接入系統的申請。	分析員、フリティアとマーシルから返事があった。システムへの接続申請を出したとのことだ。	분석가, 프티야와 캣 시에라에게서 회신이 왔는데, 시스템 접속 신청을 보내왔어.	Adjutant, Fritia, and Mauxir just replied — they're requesting system access.						0	3.3主线剧情
+8	宇迦，麻烦你了。	宇迦，麻煩你了。	ユガ、頼めるか。	우카, 부탁할게.	YUGA, if you would.						0	3.3主线剧情
+9	接入许可已发送。有了两位的协助，我方预计在2小时内从入侵者手中夺回控制权。	接入許可已傳送。有了兩位的協助，我方預計在2小時內從入侵者手中奪回控制權。	アクセス許可を送信しマシタ。お二人のご協力により、2時間以内に制御権を奪還できそうデス。	접속 허가를 발송했습니다. 두 사람의 도움을 받는다면, 2시간 이내에 침입자로부터 제어권을 되찾을 수 있을 것으로 예상됩니다.	Access granted. With their support, control over the system is projected to be regained from the intruders within two hours.						0	3.3主线剧情
+10	说起入侵者……分析员，在星辉室时究竟发生了什么？	說起入侵者……分析員，在星輝室時究竟發生了什麼？	分析員、侵入者についてのことだが……星輝の部屋で一体何があったんだ？	침입자 얘기가 나왔으니 말인데… 분석가, 별빛 공간에서 대체 무슨 일이 있었던 거야?	About the intruders... Adjutant, what exactly happened in the Starlight Hall?						0	3.3主线剧情
+11	……	……	……	……	...						0	3.3主线剧情
+12	我看到了一个熟悉的身影。	我看到了一個熟悉的身影。	お馴染みのあいつに会ったんだ。	익숙한 모습을 봤어요.	I saw a familiar figure.						0	3.3主线剧情
+13	见四周已无追兵，于是我便向三人说明了我在那个空白空间所经历的一切。	見四周已無追兵，於是我便向三人說明了我在那個空白空間所經歷的一切。	追っ手がいなくなったのを見て、私は3人にあの空間で起きたことを説明した。	주변에 추격자가 없는 것을 확인한 나는 그 공백 공간에서 겪었던 모든 일을 세 사람에게 설명해 주었다.	With no pursuers in sight, I told them everything that had happened in that void.						0	3.3主线剧情
+14	从那个黑雾扩散开始，再到我展开心流内景，最后，是那个形似罗赞的女人利用黑洞逃向了天界乐土……	從那個黑霧擴散開始，再到我展開心流內景，最後，是那個形似羅贊的女人利用黑洞逃向了天界樂土……	黒い霧が拡散したこと、私が心象風景を展開したこと、最後はあのロザンに似た人影が黒い渦を通して天界楽土に逃げ込んだこと。	검은 안개가 퍼지기 시작한 순간부터, 내가 내면의 흐름을 펼치고, 마지막으로 로잔을 닮은 여자가 블랙홀을 이용해 천계낙원으로 도망간 순간까지…	From the spreading black mist, to when I called on my inner mind to defend myself, and finally — the woman resembling Rozan who escaped into the Elysium through a black hole...						0	3.3主线剧情
+15	但是不知道为何，即便是刚刚发生的事情，但我的记忆似乎有些模糊了。	但我不知道為何，即便是剛剛發生的事情，但我的記憶似乎有點模糊了。	しかし、ついさっきの出来事のはずなのに、私の記憶は妙にぼやけている気がする。	하지만 왜인지 모르게, 방금 일어난 일인데도 내 기억이 조금 흐릿해진 것 같았다.	But strangely, even though it had just happened, my memory was already starting to fade.						0	3.3主线剧情
+16	其中有些决定性的画面，无论如何都无法回忆起来。	其中有些關鍵性的畫面，無論如何都無法回憶起來。	特に、その中でも決定的な場面が、なぜかどうしても思い出せない。	그중 몇 가지 결정적인 장면들은 어떻게 해도 기억해 낼 수가 없었다.	And no matter how hard I tried, I couldn't recall certain decisive moments.						0	3.3主线剧情
+17	罗赞……那就和情报吻合了。	羅贊……那就和情報吻合了。	ロザンか……それなら情報と一致するな。	로잔… 그렇다면 정보와 일치하네.	Rozan... that lines up with intel.						0	3.3主线剧情
+18	哎？什么情报？	欸？什麼情報？	え？なんの情報？	응? 무슨 정보?	Huh? What intel?						0	3.3主线剧情
+19	部分当初在天界乐土庆典现场的升格体曾表示，她们在天界乐土的黑洞中，看到了罗赞的身影。	部分當初在天界樂土慶典現場的升格體曾表示，她們在天界樂土的黑洞中，看到了羅贊的身影。	騒ぎになった当時、天界楽土に居合わせた昇格体が証言しマシタ。黒い渦の中で……ロザンの姿を目撃したそうデス。	당시 천계 낙원 축제 현장에 있던 일부 승격체들이, 천계 낙원의 블랙홀 속에서 로잔의 모습을 봤다고 진술했습니다.	A few transcendents present at the Elysium celebration reported seeing Rozan within one of the black holes.						0	3.3主线剧情
+20	这么说那个女人，她又回来了吗……	這麼說那個女人，她又回來了嗎……	じゃあ、あの人がまた戻ってきたんだ……	그렇다면 그 여자가 다시 돌아온 건가…	So that woman... she's really back...?						0	3.3主线剧情
+21	米娅握紧了拳头，嘴角微微颤抖。	米婭握緊了拳頭，嘴角微微顫抖。	ミアは拳を握りしめ、唇を微かに震わせた。	주먹을 꽉 쥔 미아의 입가가 미세하게 떨렸다.	Mia clenched her fists, her lips quivering.						0	3.3主线剧情
+22	作为土生土长的新恒提罗人，她对罗赞的敌意自然万分深刻。	作為土生土長的新恆提羅人，她對羅贊的敵意自然萬分深刻。	ニューガントラで生まれ育った彼女の胸には、ロザンへの憎悪が深く刻まれていた。	태생부터 뉴헨틸로 사람인 그녀는, 로잔에 대한 적대감이 우리 중 누구보다도 더 날카롭고 순수했다.	As a native of New Hentiro, Mia's hatred for Rozan burned pure and fierce.						0	3.3主线剧情
+23	但这份敌意之下，还涌动着更为复杂的情绪。	但這份敵意之下，還湧動著更為複雜的情緒。	しかしその敵意の下には、さらに複雑な感情が渦巻いていた。	하지만 이 적대감 아래에는, 더욱 복잡한 감정이 소용돌이치고 있었다.	Yet beneath that hatred stirred something far more complex:						0	3.3主线剧情
+24	初次见到外来者时的困惑，尊严与生存权利被践踏后的愤怒，以及……	初次見到外來者時的困惑，尊嚴與生存權利被踐踏後的憤怒，以及……	初めて外来者と会った時の戸惑い、尊厳と生存権を踏みにじられた怒り、そして……	처음 외지인을 봤을 때의 혼란, 존엄과 생존권이 짓밟힌 후의 분노, 그리고…	The confusion of facing an intruder for the first time. The fury of having her dignity — her very right to exist — trampled, and...						0	3.3主线剧情
+25	藏在那微微发抖的指尖里，连她自己都不愿承认的……	藏在那微微發抖的指尖裡，連她自己都不願承認的……	微かに震える指先に隠された、彼女自身も認めたくない……	미세하게 떨리는 손끝에 숨겨진, 그녀 자신조차 인정하기 싫어하는…	Hidden in the faint tremor of her fingertips, something she wouldn't admit...						0	3.3主线剧情
+26	恐惧。	恐懼。	恐怖心。	두려움.	Fear.						0	3.3主线剧情
+27	不，现在下结论还太早了，也不排除有可能是其他人伪装成她发动袭击。	不，現在下結論還太早了，也不排除有可能是其他人偽裝成她發襲擊。	いや、結論を出すのはまだ早い。他の誰かが彼女になりすまして攻撃を仕掛けてきた可能性もある。	아니, 아직 단정 짓기엔 일러. 다른 누군가가 그녀로 위장해서 공격했을 가능성도 있지.	No. It's too early to jump to conclusions. Someone might've been posing as her to stage the whole attack.						0	3.3主线剧情
+28	处于信息态下的物质对人类的意识很敏感。	處於資訊態下的物質對人類的意識很敏感。	情報体の物質は、人間の意識に敏感に反応する。	이념 형태 상태의 물질은 인간의 의식에 매우 민감하니까.	Matter in a fragmented state responds strongly to human consciousness.						0	3.3主线剧情
+29	对面很有可能是想利用大家的恐惧，以此来达成某种目的。	對面很有可能是想利用大家的恐懼，以此來達成某種目的。	相手はみんなの恐怖心を利用して、何らかの目的を達成しようとしている可能性が高い。	상대는 아마 모두의 두려움을 이용해서, 어떤 목적을 달성하려는 생각일 거야.	Whoever's planning the attacks is very likely feeding off people's fear for their own ulterior motive.						0	3.3主线剧情
+30	居然将他人的恐惧当作武器，这种人实在是……	居然將他人的恐懼當作武器，這種人實在是……	人の恐怖心を武器にするなんて……ひどい！	다른 사람의 두려움을 무기로 삼다니, 정말이지…	Using people's fear as a weapon...						0	3.3主线剧情
+31	太卑鄙了！	太卑鄙了！	最低！	너무 비겁하잖아!	That's just despicable!						0	3.3主线剧情
+32	少女狠狠地锤向身边的石柱。	少女狠狠地錘向身邊的石柱。	少女は横にある石柱を思いっきり殴った。	소녀는 옆의 돌기둥을 세게 내리쳤다.	Mia slammed her fist into the nearest stone pillar.						0	3.3主线剧情
+33	当尘埃散去时，柱身上赫然出现一个碗口大的凹坑。	當塵埃散去時，柱身上赫然出現一個碗口大的凹洞。	塵が散った時、柱には茶碗ほどの窪みがはっきりと残されていた。	먼지가 걷히자, 기둥에는 대접만 한 크기의 움푹 파인 자국이 선명하게 나타났다.	When the dust cleared, a dent the size of a bowl marred its surface.						0	3.3主线剧情
+34	这绝非人类——不，即便是半天启者也不可能拥有的怪力。	這絕非人類——不，即使是半天啟者也不可能擁有的怪力。	これは決して人間の――いや、半覚醒者でさえ持ち得ない怪力だ。	이건 인간… 아니, 하프 계시자도 가질 수 없는 괴력이다.	That kind of power was definitely not human — no, not even a half-Manifestation could possess such raw strength.						0	3.3主线剧情
+35	米娅缓缓地张开了自己的拳头。	米婭緩緩地張開了自己的拳頭。	ミアはゆっくりと拳を開いた。	미아는 천천히 주먹을 펼쳤다.	Mia slowly uncurled her fingers.						0	3.3主线剧情
+36	这一拳似乎打碎了什么无形的枷锁。	這一拳似乎打破了什麼無形的枷鎖。	この一撃が、何か見えない枷を打ち砕いたかのようだった。	그 한 방이 보이지 않는 어떤 굴레를 부숴준 것 같았다.	It felt like that punch shattered more than just stone — an invisible shackle, perhaps.						0	3.3主线剧情
+37	少女怔怔地望着自己留下的破坏痕迹，眼中的焦躁逐渐褪去。	少女愣愣地望著自己留下的破壞痕跡，眼中的焦躁逐漸褪去。	少女は自分が残した跡をぼんやりと見つめる。すると瞳に残っていた焦りが少しずつ消えていった。	소녀는 자신이 남긴 파괴의 흔적을 멍하니 바라보았고, 초조한 눈빛은 점차 사그라들었다.	She stared blankly at the mark she'd left behind, the panic in her eyes slowly fading.						0	3.3主线剧情
+38	随后，她又缓缓蜷起通红的手指。	隨後，她又緩緩蜷縮起通紅的手指。	そして、彼女は赤くなった指をゆっくりと握りしめた。	그러다가 그녀는 붉어진 손가락을 천천히 오므렸다.	Then, just as slowly, she curled her reddened fingers into a fist again.						0	3.3主线剧情
+39	哎……我这是……	欸……我這是……	あ……えっと……	에엥… 이게 어떻게 된 거지…	Huh... Did I just—?						0	3.3主线剧情
+40	取而代之的便是后知后觉的惊惶，她捂住嘴巴，踉跄着后退了半步。	取而代之的便是後知後覺的驚惶，她摀住嘴巴，踉蹌著後退了半步。	その代わり、後からじわじわと込み上げてきた驚きで、彼女は口元を覆い、よろめきながら半歩後ずさる。	뒤늦게 밀려오는 당혹감이 마음에 대신 자리 잡았다. 그녀는 입을 가린 채, 비틀거리며 반걸음 물러섰다.	The realization hit a beat late. She gasped, slapped a hand over her mouth, and stumbled back a step in alarm.						0	3.3主线剧情
+41	抱歉……我不是有意打碎这个的。	抱歉……我不是有意打碎這個的。	ごめん、わざと壊したんじゃ……	미안해… 일부러 부순 게 아니었어.	I'm sorry! I didn't mean to break it!						0	3.3主线剧情
+42	放，放心我一定会赔偿的。啊，对了！可以用我在世界树打工的薪水……	放、放心我一定會賠償的。啊，對了！可以用我在世界樹打工的薪水……	べ、弁償するから。あ、そうそう！ユグドラシルでバイトして、その給料で――	걱, 걱정 마. 꼭 물어줄 테니까. 아, 맞다! 위그드라실에서 아르바이트하면서 번 돈으로…	I—I'll pay for it, I swear! Oh — I'll use my paycheck from Yggdras—						0	3.3主线剧情
+43	不料话音刚落，那凹坑周遍布的蛛网纹便扩散了开来。	不料話音剛落，那凹洞周圍遍布的蛛網紋便擴散了開來。	しかし言葉が終わらないうちに、窪みの周りに広がったクモの巣状の亀裂がさらに拡大していく。	그 말이 떨어지기 무섭게, 그 구덩이 주변의 거미줄 무늬가 더 퍼져나갔다.	But before she could finish, spiderweb cracks spread from the dent.						0	3.3主线剧情
+44	碎石飞溅，那根在汉诺塔门前屹立了数十年的石柱，总算是迎来了自己的退休。	碎石飛濺，那根在漢諾塔門前屹立了數十年的石柱，總算是迎來了自己的退休。	石の破片が飛び散り、ハノイの塔の前で数十年も立ち続けていた石柱は、ようやく引退の時を迎えた。	자갈이 사방으로 튀어 올랐고, 하노이 타워 문 앞에서 수십 년간 자리를 지켰던 돌기둥은 마침내 은퇴를 맞이했다.	Stone fragments flew, and with one final groan, the ancient pillar that had stood sentinel before the Tower of Hanoi for decades toppled into retirement.						0	3.3主线剧情
+45	刚刚米娅小姐一拳打碎的柱子价值1000万通用银。	剛剛米婭小姐一拳打碎的柱子價值1000萬通用銀。	ミアさんが先ほど倒した柱は、評価額1000万シルバギボスに相当しマス。	방금 미아 아가씨가 주먹으로 부순 기둥의 가치는 1,000만 실버 코인입니다.	Miss Mia, the pillar you just destroyed was valued at 10 million SilverBucks.						0	3.3主线剧情
+46	那只好分期付款了……	那只好分期付款了……	うう……じゃ、リボ払いで……	그럼 할부로 해야겠네…	Then... I guess I'll be paying it off in installments...						0	3.3主线剧情
+47	米娅低下头，眼中失去了光芒。	米婭低下頭，眼中失去了光芒。	ミアはうつむき、瞳から光が消えた。	미아는 고개를 숙였고, 눈빛이 흐려졌다.	Mia lowered her head, the spark in her eyes dimming.						0	3.3主线剧情
+48	……	……	……	……	...						0	3.3主线剧情
+49	开个玩笑，这根柱子无需米娅小姐赔偿。	開個玩笑，這根柱子無需米婭小姐賠償。	冗談デス。ミアさんが弁償する必要はゴザイマセン。	농담입니다. 이 기둥은 미아 아가씨가 배상할 필요 없습니다.	That was a joke. Miss Mia, you needn't compensate for the pillar.						0	3.3主线剧情
+50	毕竟是分析员阁下指定的同行者，这根柱子就当作是那套战术套装的赠品好了。	畢竟是分析員閣下指定的同行者，這根柱子就當作是那套戰術套裝的贈品好了。	分析員さんの同行者デスから、この柱は戦術装備の付属品として処理しマショウ。	분석가님이 지정하신 동행자이니, 이 기둥은 그 전술 슈트의 사은품이라 생각하시면 되겠네요.	As the Adjutant's designated companion, consider the pillar... a complimentary that comes with the exosuit.						0	3.3主线剧情
+51	唔……吓死我了……不要开那么恐怖的玩笑嘛，我差点以为自己这辈子就要完蛋了。	唔……嚇死我了……不要開那麼恐怖的玩笑嘛，我差點以為自己這輩子就要完蛋了。	もー、びっくりしたよ……怖い冗談を言わないでよ、人生終了のお知らせかと思ったじゃん……	흑… 간 떨어질 뻔했잖아… 그렇게 무서운 농담은 하지 말아줄래? 여기서 내 인생이 망하는 줄 알았다고.	Phew! You almost gave me a heart attack! Don't joke about stuff like that — it's terrifying! I really thought I was done for!						0	3.3主线剧情
+52	说起来……米娅和那套战术套装的同步率异常的高呢。	話說……米婭和那套戰術套裝的同步率格外的高呢。	そういえば……ミアとあの戦術装備のシンクロ率、ずいぶんと高かったようだな。	그나저나… 미아와 그 전술 슈트의 싱크로율이 이상하리만치 높아.	Come to think of it... Mia's sync rate with that exosuit is unusually high.						0	3.3主线剧情
+53	嗯，能在这么短的时间内驾驭战术套装，这份天赋确实罕见。	嗯，能在這麼短的時間內駕馭戰術套裝，這份天賦確實很罕見。	ああ。極めて短時間で戦術装備を制御できるなんて、才能の塊だな。	네. 이렇게 짧은 시간 안에 전술 슈트를 다룰 수 있다는 건 정말 보기 드문 재능이에요.	Yeah. Adapting to it this quickly... that's a rare gift.						0	3.3主线剧情
+54	虽然力量控制还需要练习就是了。	雖然力量控制還需要練習就是了。	力を制御する面ではまだ練習が必要だが……	힘 조절은 연습이 더 필요하지만.	She still needed to work on her control over that strength, of course.						0	3.3主线剧情
+55	但不可否定，依旧是令人惊讶的表现。	但不可否定，依舊是令人驚訝的表現。	目を見張るものがあるのは間違いない。	그래도 놀라운 성과라는 건 부정할 수 없었다.	But her performance was undeniably impressive.						0	3.3主线剧情
+56	以这个资质，如果能顺利解除限制器的话，输出功率应该还能提升50%。	以這個資質，如果能順利解除限制器的話，輸出功率應該還能提升50%。	ここまでの潜在値を示すならば、リミッターを解除できれば、既定値の約1.5倍に達しマス。	이 정도 능력이라면, 제한 장치가 순조롭게 해제될 경우 출력 파워를 50% 더 높일 수 있을 겁니다.	With this aptitude, removing the limiter could further boost output by approximately 50%.						0	3.3主线剧情
+57	限制器？	限制器？	リミッター？	제한 장치?	Limiter?						0	3.3主线剧情
+58	嗯。	嗯。	ハイ。	네.	Yes.						0	3.3主线剧情
+59	宇迦说罢，便指了指米娅腿上的腿环，上面的确似乎有着几个刻度。	宇迦說完，便指了指米婭腿上的腿環，上面的確好像有著幾個刻度。	ユガはそう言いながら、ミアのふとももにはまっているリングを指差した。確かに数字のようなものが刻まれているように見える。	우카는 그렇게 말하며 미아의 다리에 끼워진 레그링을 가리켰고, 그 위에는 정말로 눈금이 몇 개 새겨져 있는 듯했다.	YUGA gestured toward the ring around Mia's leg — a device marked clearly with tiered indicators.						0	3.3主线剧情
+60	第一档为普通人类使用的档位，第二档则是为了适配半天启者使用的档位。	第一檔為普通人類使用的檔位，第二檔則是為了配合半天啟者所使用的檔位。	第1段階は通常の人類、第2段階は準覚醒者用のもの……	첫 번째 단계는 일반인이 사용하는 단계, 두 번째 단계는 하프 계시자에게 적합한 단계입니다.	Tier One is designed for standard human users. Tier Two is calibrated for half-Manifestations.						0	3.3主线剧情
+61	而第三档……	而第三檔……	第3段階は――	그리고 세 번째 단계는…	As for Tier Three...						0	3.3主线剧情
+62	是为天启者准备的吗？	是為天啟者準備的嗎？	覚醒者用か？	계시자를 위한 건가?	Is that for Manifestations?						0	3.3主线剧情
+63	并非如此，正如之前所说，第三档，是为了“制造天启者”而预留的档位。	並非如此，正如之前所說，第三檔，是為了「製造天啟者」而預留的檔位。	いえ。第3段階は「覚醒者を製造」するために用意したものデス。	아닙니다. 앞서 말씀드린 대로, '계시자를 만들기 위해' 예약된 단계입니다.	Not exactly. As I mentioned earlier, Tier Three is reserved for "developing" a Manifestation.						0	3.3主线剧情
+64	一旦解锁，装甲便会连通恒沙的数据中心。	一旦解鎖，裝甲便會連通恆沙的資料中心。	アンロックされた時点で、戦術装備がゴウシャのデータセンターと繋がりマス。	해제되면 전술 슈트가 항사의 데이터 센터와 연결됩니다.	Once activated, the exosuit links directly to GANGES' data center.						0	3.3主线剧情
+65	其算力将会与这套装甲同步，并利用信息态物质对使用者自身的神经进行强化。	其算力將會與這套組甲同步，並利用資訊態物質對使用者自身的神經進行強化。	その後、演算能力と同期され、情報体物質を利用して使用者の神経を強化しマス。	그곳의 연산이 이 전술 슈트와 동기화되어, 이념 형태 물질을 이용해 사용자의 신경을 강화합니다.	It draws on computational resources to reinforce the user's neural system using Titagen.						0	3.3主线剧情
+66	也就是说，是神格神经的替代品。	也就是說，是神格神經的替代品。	つまり、神格神経の代替品といったところか。	그러니까, 만트라 신경의 대체품이구나.	So it's basically a substitute for Theotropic Nerves.						0	3.3主线剧情
+67	正是如此。	正是如此。	その通りデス。	정확합니다.	Precisely.						0	3.3主线剧情
+68	这么说的话……	這麼說的話……	じゃあ……	그렇다면…	In that case...						0	3.3主线剧情
+69	米娅的指尖撑向腿环边缘，似乎下一秒就要发力扯动。	米婭的指尖撐向腿環邊緣，像是下一秒就要用力扯動。	ミアの指先がレッグリングの端にかかり、今まさにそれを引く寸前だった。	미아의 손끝이 레그링 가장자리에 닿았고, 금방이라도 힘을 주어 당길 것 같았다.	Mia's fingertips hovered near the ring, brushing along its edge — like she was about to give it a tug.						0	3.3主线剧情
+70	然而——	然而——	しかし――	하지만…	However...						0	3.3主线剧情
+71	嘿嘿，放心好了，分析员，你上次说的那些话我都还记得呢~	嘿嘿，放心好了，分析員，你上次說的那些話我都還記得呢~	ふふ、安心して、分析員！この前言われたことはばっちし覚えてるから！	헤헤, 걱정 마, 분석가. 지난번에 했던 말은 아직 기억하고 있다고~	Hehe~ Relax, Adjutant! I remember what you told me last time!						0	3.3主线剧情
+72	她却只是拍了拍裙子上的浮尘。	她卻只是拍了拍裙子上的浮塵。	彼女はスカートについた埃をぱんぱんと払っただけだった。	그녀는 그저 치마에 내려앉은 먼지만 툭툭 털어냈다.	She simply dusted off her skirt with a grin.						0	3.3主线剧情
+73	在能完全控制好这股力量之前，我会好好压制住自己内心的冲动的。	在能完全控制好這股力量之前，我會好好壓制住自己內心的衝動的。	力を完璧に自分のものにできるまで、ちゃんと気持ちの衝動を抑えるし！	이 힘을 완전히 제어하기 전까지는, 마음속의 충동을 잘 누르고 있을게.	Until I've got this power fully under control, I'll behave myself.						0	3.3主线剧情
+74	其实，你是已经偷偷试过结果发现拉不动了吧？	其實，你是已經偷偷試過結果發現拉不動了吧？	操作を試みた形跡がありマス。引っ張れずに失敗したはずデス。	사실, 이미 몰래 시도해 봤는데 안 된다는 걸 깨달은 것 아닙니까?	You already tried pulling it, didn't you? And it didn't move.						0	3.3主线剧情
+75	呜，被发现了……	嗚，被發現了……	うっ、バレてる……	흑, 들켰네…	Aw, busted...						0	3.3主线剧情
+76	为了避免使用者出现之前所说的心理畸变现象。我们追加了限制，在尚未能驾驭起能量之前，档位无法自行调整。	為了避免使用者出現之前所說的心理畸變現象。我們追加了限制，在尚未能駕馭起能量之前，檔位無法自行調整。	心理異変を起こさせないために、装備に制限を追加シマシタ。力を完全に制御できるまで、段階は変更できマセン。	앞서 언급한 사용자의 심리적 왜곡 현상을 방지하기 위해 저희가 제한을 추가했고, 에너지를 제어할 수 있기 전까지는 단계를 임의로 조절할 수 없습니다.	To prevent the mental aberrations I mentioned earlier, safeguards have been implemented. The output settings cannot be adjusted manually until the user can reliably control the energy.						0	3.3主线剧情
+77	呜……我已经充分认识到这点啦呜……	嗚……我已經充分認知到這點了啦嗚……	う、うう……わかってるよぉ……	흑… 그건 이미 잘 알고 있다고, 흑흑…	Yeah yeah... I know... Sorry...						0	3.3主线剧情
+78	总之总之，能像现在这样和大家并肩作战……我就已经很满足了！	總之總之，能像現在這樣和大家並肩作戰……我就已經很滿足了！	とにかく！こうやってみんなと一緒に戦えるだけで……もう、めっちゃ満足！	어쨌든, 지금처럼 모두와 함께 싸울 수 있다는 것만으로도… 난 정말 만족해!	Still! Just being able to fight alongside you all like this — it already means the world to me!						0	3.3主线剧情
+79	无论如何，你都成长了不少呢，米娅。	無論如何，你都成長了不少呢，米婭。	いずれにせよ、ずいぶん成長したな、ミア。	어쨌든, 넌 정말 많이 성장했어, 미아.	No matter how you look at it, you've come a long way, Mia.						0	3.3主线剧情
+b-1											0	3.3主线剧情
+80	揉揉米娅的脑袋。	揉揉米婭的腦袋。	ミアの頭を撫でる	미아의 머리를 쓰다듬는다.	Ruffle Mia's hair						0	3.3主线剧情
+81	哇呼~哇呼~被分析员夸奖啦~	哇呼~哇呼~被分析員誇獎啦~	ワフー！分析員に褒められちゃった～！	와후~ 와후~ 분석가가 칭찬해 줬다~	Wahoo~! The Adjutant praised me and gave me a headpat~!						0	3.3主线剧情
+82	她不由自主地晃动着脑袋，发梢随着动作轻轻摆动。	她不由自主地晃動著腦袋，髮梢隨著動作輕輕擺動。	ミアは嬉しそうに頭を揺らした。	그녀는 무의식적으로 머리를 흔들었고, 머리카락도 같이 살랑거렸다.	She wobbled her head side to side, hair swaying softly with each motion.						0	3.3主线剧情
+83	这阵动静引得身旁的晴投来一瞥，那双眼睛里藏着说不清的羡慕。	這陣動靜引得身旁的晴投來一瞥，那雙眼睛裡藏著說不清的羨慕。	そんな彼女を、晴は少し羨ましそうにチラリと見た。	이 소란에 옆에 있던 하루가 흘긋 쳐다보았고, 그 눈빛에는 표현 못할 부러움이 담겨 있었다.	The sight caught Haru's eye — her eyes betraying a quiet, unnameable envy.						0	3.3主线剧情
+84	……	……	……	……	...						0	3.3主线剧情
+85	晴也要吗？	晴也要嗎？	晴も撫でられたいのか？	하루도 해 줘요?	Want one too, Haru?						0	3.3主线剧情
+86	我，我就不用了……	我，我就不用了……	い、いや、大丈夫だ……	나, 난 됐어…	I—I'm good...						0	3.3主线剧情
+87	晴的声音轻得几乎听不见。	晴的聲音輕得幾乎聽不見。	晴の声は、ほとんど聞こえないほど小さかった。	하루의 목소리는 거의 들리지 않을 정도로 작았다.	Her voice barely reached above a whisper.						0	3.3主线剧情
+88	于是我便装作真的没听见，自顾自地伸出了另一只手搭在了她的脑门上。	於是我便裝作真的沒聽到，自顧自地伸出了另一隻手搭在了她的腦門上。	すると、私はそれが聞こえなかったフリをして、もう片方の手を彼女の頭に置いた。	그래서 나는 정말로 듣지 못한 척하며, 다른 한 손을 뻗어 그녀의 이마 위에 올려놓았다.	So I pretended not to hear — and reached out with my other hand, gently ruffling her hair too.						0	3.3主线剧情
+89	分……分析员？！	分……分析員？！	分……分析員！？	분… 분석가?!	A—Adjutant!?						0	3.3主线剧情
+90	揉揉揉……	揉揉揉……	なでなでなで……	쓰담쓰담…	Pat, pat...						0	3.3主线剧情
+91	唔……	嗯……	んん……	으음…	Nngh...						0	3.3主线剧情
+92	晴不自觉地放松下来，声音染上一丝撒娇的意味。	晴不自覺地放鬆下來，聲音染上一絲撒嬌的意味。	晴は思わず強張った体を緩めて、声もどこか甘えるようなものになった。	하루는 자기도 모르게 긴장을 풀었고, 목소리에는 살짝 애교가 섞여 들어갔다.	She loosened against my hand, her voice softening with the faintest spoiled edge.						0	3.3主线剧情
+93	……人类之间的互动还真是难以理解。	……人類之間的互動還真是難以理解。	……人類のふれあいというものは、本当に理解しがたいものデスね。	… 인간의 상호작용은 정말 이해하기 어렵습니다.	...Human interactions are proving rather difficult to comprehend.						0	3.3主线剧情
+94	短暂的休整过后，我们很快敲定了下一步行动计划。	短暫的休整過後，我們很快就敲定了下一步行動計畫。	短い休息の後、私たちはすぐに次の行動を決めた。	잠깐의 휴식 후, 우리는 빠르게 다음 행동 계획을 정했다.	After a short break, we quickly decided on our next move.						0	3.3主线剧情
+95	汉诺塔的停摆彻底堵死了常规进入天界乐土的途径，要想追查潜伏在那里的敌人，就必须另辟蹊径。	漢諾塔的停擺徹底堵死了正常進入天界樂土的途徑，要想追查潛伏在那裡的敵人，就必須另闢蹊徑。	ハノイの塔の停止により、通常ルートで天界楽土へ向かう道は完全に閉ざされた。そこに潜む敵を追うには、別の方法を見つけなければならない。	하노이 타워의 가동 중단으로 천계낙원으로 들어가는 일반적인 경로가 완전히 막혀버렸고, 그곳에 잠복해 있는 적을 추적하려면 다른 방법을 찾아야만 했다.	With the Tower of Hanoi down, the usual route into the Elysium was completely sealed off. If we wanted to track the enemy inside, we'd need another way in.						0	3.3主线剧情
+96	正巧米娅最近购置了一台民用登入装置。	剛好米婭最近購置了一台民用登入裝置。	ちょうど最近、ミアが民間用のログインデバイスを購入した。	마침 미아가 최근에 민간용 로그인 장치를 하나 구매했다.	As it happened, Mia had recently purchased a civilian-grade login device.						0	3.3主线剧情
+97	而在与宇迦以及猫汐尔，芙提雅确认过后，那台机器只要稍加改造，便能成为我们新的登入装置。	而在與宇迦、貓汐爾以及芙提雅確認過後，那台機器只要稍做改造，便能成為我們新的登入裝置。	ユガやマーシル、フリティアと確認したところ、それを少し改造すれば、新しいログイン装置として使えるとのことだった。	우카, 캣 시에라, 프티야와 함께 확인해 보니, 그 기계는 약간의 개조만으로도 우리의 새로운 로그인 장치가 될 수 있었다.	After consulting with YUGA, Mauxir, and Fritia, we confirmed that with a few tweaks, it could serve as a makeshift access terminal.						0	3.3主线剧情
+98	于是，我们便立刻动身前往米娅的公寓。	於是，我們便立刻動身前往米婭的公寓。	そこで、私たちはすぐにミアのアパートに向かった。	그래서 우리는 곧바로 미아가 사는 아파트로 향했다.	With that settled, we headed straight to Mia's apartment.						0	3.3主线剧情
+99	不过，一个新的问题却突然浮现在我的脑海中……	不過，一個新的問題卻突然浮現在我的腦海中……	しかしネオンが輝く街を歩いていると、新しい疑問が突然頭に浮かんだ……	하지만, 문득 또 다른 문제가 떠올랐다…	But on our way there, a sudden thought struck me...						0	3.3主线剧情
+100	米娅，怎么刚才不接电话？夏令营玩得还开心吗？	米婭，怎麼剛才不接電話？夏令營玩得還開心嗎？	ミア、なんで電話に出ないの？サマーキャンプは楽しかった？	미아, 아까는 왜 전화 안 받았니? 캠프에서 재미있게 놀고 있어?	Mia, why didn't you pick up before? How's summer camp?						0	3.3主线剧情
+101	米娅的家中，并非只有她一人。	米婭的家中，並非只有她一個人。	ミアの家にいるのは、彼女一人だけではない。	미아의 집에는 그녀 혼자만 있는 게 아니었다.	If I remembered right, Mia lived with her family.						0	3.3主线剧情
+102	咳嗯……	咳嗯……	コホン……	크흠…	Ahem...						0	3.3主线剧情
+103	妈妈，我回来了~	媽媽，我回來了~	ママ、ただいま～	엄마, 나 왔어~	I'm back, Mom~						0	3.3主线剧情
+104	稍等一下~妈妈涂完这一笔就来啦。	稍等一下~媽媽塗完這一筆就來啦。	はいはーい、おかえりなさい。	잠깐만~ 엄마 이것만 마무리하고 갈게.	Hold on, sweetheart, I'm just putting my brush down.						0	3.3主线剧情
+105	你呀你，是不是又忘记带钥匙啦，米……娅？	你啊你，是不是又忘記帶鑰匙啦，米……婭？	ミア、またカギを忘れたの？……あら……	미아 너, 또 열쇠 안 챙겼구… 나?	Did you leave your keys behind again, Mia? Oh...						0	3.3主线剧情
+106	伴随着门板被推开发出的声响，一位眯着眼的女性，出现在我们的面前。	伴隨著門板被推開發出的聲響，一位瞇著眼的女性，出現在我們的面前。	ドアを押し開ける音と共に、目を細めた女性が私たちの前に現れた。	문이 열리는 소리와 함께, 한 여성이 눈을 가늘게 뜨며 우리 앞에 나타났다.	The door creaked open, revealing a woman with smiling eyes standing in the doorway.						0	3.3主线剧情
+107	哎……他们是……那个，那个那个……我的同学！对，是我的同学。	欸……他們是……那個，那個那個……我的同學！對，是我的同學。	あ、その……えっと……同級生！そうそう、みんな同級生なの。	어… 이 사람들은… 그, 그게, 그게… 학교 친구들! 그래, 우리 학교 친구들이야.	Ah — um, they're... my friends! From school! Yep, just school friends!						0	3.3主线剧情
+108	哦~同学啊，呵呵呵，穿得还真正式。	喔~同學啊，呵呵呵，穿得還真正式。	あら、そう……ふふ、よそ行きの服まで着てきちゃって。	어머~ 학교 친구구나, 호호호, 옷을 꽤 어른스럽게 입었네.	School friends, huh? You're all dressed pretty sharp for class.						0	3.3主线剧情
+109	呜……	嗚……	えっと……	앗…	Uhh...						0	3.3主线剧情
+110	阿姨，打扰了。	阿姨，打擾了。	すみません、お邪魔しマス。	실례합니다, 아주머니.	Apologies for the intrusion, ma'am.						0	3.3主线剧情
+111	呀，这孩子真可爱。	唉呀，這孩子真可愛。	あら、かわいい子ね。	어머나, 정말 귀여운 아이네.	Oh my~ What a lovely young lady!						0	3.3主线剧情
+112	哪里是打扰了，米娅第一次带朋友来做客，阿姨高兴还来不及呢~	哪裡打擾了，米婭第一次帶朋友來作客，阿姨高興還來不及呢~	さあ遠慮しないで、ミアがお友だちを連れてくるなんて初めてだから、うれしいくらいよ。	실례는 무슨, 미아가 처음으로 친구를 데려와서 아줌마가 얼마나 기쁜지 몰라~	An intrusion? Not at all. It's the first time Mia's brought friends home — I couldn't be happier to have you here.						0	3.3主线剧情
+113	妈妈……	媽媽……	ママ……	엄마…	Mooom...!						0	3.3主线剧情
+114	来请进，家里平时比较乱，大家不要介意啊~	來請進，家裡平常比較亂，大家不要介意啊~	さあ、入って。ちょっと散らかってるけど、気にしないでね。	어서 들어와, 집이 좀 지저분한데, 너무 신경 쓰진 말고~	Please, come on in! It's a little messy, hope you don't mind~						0	3.3主线剧情
+115	请问，拖鞋…	請問，拖鞋……	あの、スリッパは……	혹시, 슬리퍼는…	Pardon me. Might I trouble you for a pair of slippers?						0	3.3主线剧情
+116	啊呀~抱歉抱歉，因为家里面平时只有我们母女俩嘛……哎，大家如果不介意的话，就直接光脚进来吧。	唉呀~抱歉抱歉，因為家裡面平常只有我們母女兩個嘛……欸，大家如果不介意的話，就直接光腳進來吧。	あっ、ごめんなさい、普段は私とミアしかいないから……そのままで大丈夫よ。	어머~ 미안해서 어쩌지, 집에 우리 모녀밖에 없다 보니… 어휴, 다들 괜찮다면 그냥 맨발로 들어와.	Oh! Slippers... sorry about that. It's usually just the two of us here, so I forget sometimes. If you don't mind, you can go barefoot.						0	3.3主线剧情
+117	对了，要小心地上的颜料哦~	對了，要小心地上的顏料喔~	あ、床に絵の具が置いてあるから、気を付けてね。	아 참, 바닥의 물감 조심하고~	Ah, and do watch out for the paint on the floor~						0	3.3主线剧情
+118	颜料？	顏料？	絵の具？	물감?	Paint?						0	3.3主线剧情
+119	我疑惑地重复道，目光下意识扫向地板。还没等我反应过来，米娅已经蹲在了我脚边，手里捧着一双粉色的毛绒拖鞋。	我疑惑地重複道，目光下意識掃向地板。還沒等我反應過來，米婭已經蹲在我腳邊，手裡捧著一雙粉紅色的毛絨拖鞋。	私は訝しげに繰り返し、無意識に床へと視線を落とした。状況を飲み込む前に、ミアはすでに私の足元にしゃがみ込み、ピンク色のもふもふスリッパを差し出してきた。	의아한 나머지 읊조리며 무심코 바닥을 살펴보자, 어느새 미아는 이미 내 발 옆에 쪼그리고 앉아 분홍색 털 슬리퍼를 들고 있었다.	I echoed the word, puzzled. My gaze instinctively dropped to the floor — but before I could react, Mia was already crouched beside me, holding out a pair of fluffy pink slippers.						0	3.3主线剧情
+120	分析员，请穿这个吧！	分析員，請穿這個吧！	分析員、これ履いて！	분석가, 이거 신어!	Here, Adjutant — wear these!						0	3.3主线剧情
+121	这是米娅的拖鞋吗？	這是米婭的拖鞋嗎？	これは、ミアのか？	이게 미아의 슬리퍼야?	Are these yours, Mia?						0	3.3主线剧情
+122	嗯嗯！	嗯嗯！	うん！	응응!	Uh-huh!						0	3.3主线剧情
+123	她仰起脸，眼睛里闪着期待的光芒。	她仰起臉，眼睛裡閃著期待的光芒。	彼女は顔を上げ、期待に満ちた瞳で私を見つめた。	그녀는 고개를 들어 기대하는 눈빛으로 바라봤다.	She looked up, eyes sparkling with eager anticipation.						0	3.3主线剧情
+b-2											0	3.3主线剧情
+124	接过拖鞋穿上	接過拖鞋穿上	スリッパを履く	슬리퍼를 받아 신는다	Take the slippers and wear them						0	3.3主线剧情
+125	谢谢你米娅。	謝謝你米婭。	ありがとう、ミア。	고마워, 미아.	Thanks, Mia.						0	3.3主线剧情
+136	原来如此，原来如此，原来你就是“那位小哥”啊。	原來如此，原來如此，原來你就是「那位小哥」啊。	あらっ、あなたが「噂の」！？	아, 그렇구나. '그 청년'이 바로 너구나?	Ah~ So you're the young man Mia's always talking about.						0	3.3主线剧情
+137	米娅的妈妈看了看我，又瞥了一眼米娅，随后捂嘴不怀好意地笑了笑。	米婭的媽媽看了看我，又瞥了一眼米婭，隨後摀嘴不懷好意地笑了笑。	ミアの母は私とミアを交互に見てから、手を口元に当てて、意味深な笑みを浮かべた。	미아의 엄마는 나를 보다가, 또 미아를 힐끗 보더니, 입을 가리며 장난스럽게 웃었다.	She glanced at me, then at Mia, then covered her mouth with a knowing little smile.						0	3.3主线剧情
+140	妈妈求求你别说了，别说了！	媽媽求求你別說了，別說了！	ママ！言わないでよ！	엄마 제발, 제발 그만해. 그만!	MOM! I'm begging you — please stop talking!!						0	3.3主线剧情
+141	似乎只有在妈妈面前，米娅才会这般害羞，她急忙起身捂住了妈妈的嘴巴。	似乎只有在媽媽面前，米婭才會這麼害羞，她急忙起身摀住了媽媽的嘴巴。	母の前だと普段よりも恥ずかしくなりやすいようで、ミアは急いで母の口を手で塞いだ。	미아는 엄마 앞에서만 이렇게 수줍어하나 보다. 그녀는 급히 일어나 엄마의 입을 막았다.	It seemed only her mom could fluster Mia this badly. She shot up, red-faced, and rushed to cover her mother's mouth.						0	3.3主线剧情
+142	呵呵呵，行行行。那妈妈就先去做饭了，你们在客厅随便玩就好……小心别碰倒画架就行~	呵呵呵，好好好。那媽媽就先去煮飯了，你們在客廳隨便玩就好……小心別碰倒畫架就好~	ふふふ、わかったわ。ごはんを作ってくるから、くつろいでて。でもキャンバスに気を付けてね。	호호호, 알았어, 알았어. 그럼 엄마는 밥하러 가볼 테니까, 너희는 거실에서 편하게 있으렴… 이젤만 건드리지 않게 조심해 줘~	Alright, alright. I'll get dinner started. You kids make yourselves at home — just be careful not to knock over the easel, okay~?						0	3.3主线剧情
+143	见女儿以及面前的年轻人被自己逗得面红耳赤，米娅的妈妈便笑了笑，挥手作罢转身走入了厨房。	看女兒以及面前的年輕人被自己逗得臉紅耳赤，米婭的媽媽便笑了笑，揮手作罷轉身走入了廚房。	娘と目の前の若者が自分の一言で顔を赤らめたのを見たあと、ミアの母は笑いながら手を振り、キッチンに入っていった。	자신의 장난에 앞에 있는 청년과 딸이 얼굴을 붉히자, 미아의 엄마는 웃으며 손을 흔들고는 주방으로 들어갔다.	Watching her daughter and the young man blush to their ears, Mia's mom chuckled, waved them off, and slipped into the kitchen.						0	3.3主线剧情
+144	我们才不碰呢！	我們才不碰呢！	絶対触んないし！	안 건드릴 거거든!	We're not knocking anything over!						0	3.3主线剧情
+145	分析员，我们回房间吧。	分析員，我們回房間吧。	分析員、部屋に行こ？	분석가, 내 방으로 들어가자.	Adjutant — let's go to my room!						0	3.3主线剧情
+146	赌气似的她拉着了我的手，走向和妈妈反方向的房间。	賭氣似的她拉著我的手，走向和媽媽反方向的房間。	ふてくされたミアは私の腕を引いて、母と真逆の方向にある自室へ向かおうとした。	삐진 듯한 그녀는 내 손을 잡고 엄마와 반대 방향의 방으로 향했다.	Pouting, she grabbed my hand and dragged me away from her mom.						0	3.3主线剧情
+147	喂，等等！	喂，等等！	おい、待て！	잠깐, 기다려!	Hey! Wait up!						0	3.3主线剧情
+148	身后的晴这才回过神来，急忙上前挽住了我的另一条手臂。	身後的晴這才回過神來，急忙上前挽住了我的另一條手臂。	すると、後ろに立っていた晴がやっと我に返ったようで、急いで私のもう片方の腕を引き止めた。	뒤에 있던 하루는 그제야 정신을 차리고, 급히 내 다른 팔을 붙잡았다.	Snapping out of it, Haru hurried up and clung to my other arm.						0	3.3主线剧情
+149	……	……	……	……	...						0	3.3主线剧情
+150	哎~现在的年轻人还真有意思呢~	欸~現在的年輕人還真有趣呢~	あら～今どきの若者って、おもしろいわね～	어머~ 요즘 젊은이들은 참 재미있다니까~	Aww~ Kids these days really do get... creative with these things~						0	3.3主线剧情
+151	嗯，人际关系复杂程度远远超出预期。	嗯，人際關係複雜程度遠遠超出預期。	ふむ。人間関係は思ったより複雑なようデスね。	음, 대인관계의 복잡성이 예상을 훨씬 뛰어넘는군요.	Previous observation reaffirmed. The complexity of human relationships exceeds all initial projections.						0	3.3主线剧情
+152	我果然，还需要多加学习。	我果然，還需要多加學習。	ワタシは、まだまだ勉強が足らないようデス。	역시 전 아직 배울 게 더 많군요.	Clearly, I still have much to learn.						0	3.3主线剧情
+153	米娅的房间是一间十五平左右的温馨小屋，正如印象中普通少女的闺房该有的模样。这个狭小的空间里塞满了各式各样的兴趣爱好。	米婭的房間是一間十五平方公尺左右的溫馨小屋，正如印象中普通少女的閨房該有的模樣。這個狹小的空間塞滿了各式各樣的興趣愛好。	ミアの部屋は15平方メートルほどの、普通の少女の部屋だった。狭い空間には様々な趣味の品が詰め込まれていた。	미아의 방은 15평 정도 되는 아늑한 방으로, 전형적인 소녀의 방이었다. 이 좁은 공간은 다양한 취미 생활의 흔적으로 가득했다.	Mia's bedroom was a cozy little space, maybe fifteen square meters — exactly the kind of room you'd expect from a girl her age. Every corner overflowed with hints of her hobbies.						0	3.3主线剧情
+154	墙上贴满五颜六色的贴纸，书桌上散落着跑团用的骰子，架子上摆着手工雕刻的印章，还有各式各样精巧的小手工。虽然拥挤，却意外地井然有序。	牆上貼滿五顏六色的貼紙，書桌上散落著跑團用的骰子，架子上擺著手工雕刻的印章，還有各式各樣精巧的小手工。雖然擁擠，卻意外地井然有序。	壁にはシールがびっしり貼られ、机にはリアルRPG用のダイスが散らかり、棚には手作りのスタンプや小物が並んでいる。狭いのに、意外と整然としていた。	벽에는 알록달록한 스티커가 가득 붙어있고, 책상 위에는 테이블 추리단 주사위가 흩어져 있으며, 선반에는 수제 도장과 아기자기한 수공예품이 많이 놓여있었다. 좁긴 해도 의외로 잘 정돈되어 있었다.	Colorful stickers blanketed the walls. Dice from tabletop games lay scattered across the desk. Hand-carved stamps and delicate crafts lined the shelves. Cluttered as it was, there was a strange harmony to it all.						0	3.3主线剧情
+155	当然，这些不过是匆匆一瞥的印象。眼下我们确实无暇顾及这些细节。	當然，這些不過是匆匆一瞥的印象。現在我們確實無暇顧及這些細節。	もちろん、これはざっと見ただけの印象だ。女の子の部屋をじっくり見るのはどうかと思うし、何より今は些細なことに構っている暇なんてない。	물론, 이것들은 짧게 보고 지나간 기억일 뿐, 당장 우리는 이런 세세한 것들에 신경 쓸 여유가 없었다.	That was just my brief impression, of course. Besides, we had more pressing matters to deal with.						0	3.3主线剧情
+156	正中间的小圆桌上，宇迦正全神贯注地操作着终端，她正与猫汐尔她们远程协作，试图夺回控制系统并改造登入装置。	正中間的小圓桌上，宇迦正全神貫注地操作著終端，她正與貓汐爾她們遠端協作，試圖奪回控制系統並改造登入裝置。	中央の丸い小机では、ユガが端末の操作に集中していた。彼女はマーシルたちと遠隔で協力し、制御システムの奪還とログインデバイスの改造を試みている。	우카는 중앙의 작은 원형 테이블에서 단말기를 조작하는 데 몰두하고 있었다. 그녀는 캣 시에라 일행과 원격으로 협력하며 제어 시스템을 탈환하고 로그인 장치를 개조하려 하고 있었다.	At the center table, YUGA focused intently on the terminal, working remotely with Mauxir to retake system control and retrofit the login device.						0	3.3主线剧情
+157	而我和晴则坐在两侧，低声商讨着接下来的作战计划。房间里只有键盘敲击声和我们偶尔的交谈声。	而我和晴則坐在兩側，低聲商討著接下來的作戰計畫。房間裡只有鍵盤敲擊聲和我們偶爾的交談聲。	私と晴は両側に座り、今後の作戦計画を小声で話し合っていた。部屋にはキーボードを叩く音と、時折の会話だけが響いていた。	나와 하루는 양쪽에 앉아 앞으로의 전투 계획을 조용히 의논하고 있었다. 방 안에는 키보드 두드리는 소리와 우리의 간간한 대화 소리만이 들렸다.	Haru and I sat on either side, quietly working out the battle plan. The only sounds were the tapping of keys and the occasional whispered exchange.						0	3.3主线剧情
+158	……不知过了多久，米娅轻快的声音打破了这份专注。	……不知過了多久，米婭輕快的聲音打破了這份專注。	……どれくらい経っただろうか、ミアの元気な声がその静けさを破った。	… 시간이 얼마나 흘렀을까, 미아의 경쾌한 목소리가 이 집중된 분위기를 깨뜨렸다.	After a long stretch of tense focus, Mia's upbeat voice suddenly cut through the room.						0	3.3主线剧情
+159	海姆达尔的各位来宾，请喝茶咯~	海姆達爾的各位來賓，請喝茶囉~	ヘイムダルのみんな～！お茶持って来たよ～っ！	헤임달의 손님 여러분, 차 한잔 하세요~	Ahem~ Tea time for my honored guests from Heimdall~!						0	3.3主线剧情
+160	米娅端着茶盘轻快地转了个圈，方才的慌乱早已一扫而空。她故意端着腔调，用夸张的语调说道。	米婭端著茶盤輕快地轉了個圈，剛才的慌亂早已一掃而空。她故意端著腔調，用誇張的語調說道。	ミアは湯呑みを乗せたトレーを持って、軽快に一回転した。さっきまでの余裕の無さはとっくに消えた様子で、彼女はわざと誇張した口調で私たちに話しかけた。	미아는 쟁반을 들고 경쾌하게 한 바퀴 돌았다. 아까의 당황스러움은 이미 사라진 지 오래였다. 그녀는 일부러 톤을 높이며 과장된 말투로 말했다.	She twirled lightly, a tray balanced in her hands — her earlier flusteredness completely gone. Her voice was dramatic, her delivery over-the-top, clearly playing it up on purpose.						0	3.3主线剧情
+161	啊，谢谢……	啊，謝謝……	あ、ありがとう……	아, 고마워…	Ah, thank you...						0	3.3主线剧情
+162	接过茶水，我放下手中的平板。	接過茶水，我放下手中的平板。	私はお茶を受け取り、タブレットを置いた。	차를 받아들며, 나는 손에 들고 있던 태블릿을 내려놓았다.	I set my tablet aside and accepted a cup from her.						0	3.3主线剧情
+163	大致的作战方案已经拟定完成，是时候该让大脑稍微放松一下了。	大致的作戰方案已經擬定完成，是時候該讓大腦稍微放鬆一下了。	おおまかな作戦は決まった。そろそろ頭を休めようか。	대략적인 작전 계획은 이미 완성되었으니, 이제 잠시 머리를 식혀야겠다.	The plan was in place — now we could finally take a moment to relax.						0	3.3主线剧情
+164	这些画都是米娅妈妈画的吗？	這些畫都是米婭媽媽畫的嗎？	この絵は全部ミアのお母さんが描いたのか？	이 그림들은 전부 어머님이 그리신 거야?	Mia, did your mom paint all of these?						0	3.3主线剧情
+165	这时，悬挂在房间中的那些画映入眼帘。	這時，懸掛在房間中的那些畫映入眼簾。	ふと、部屋に掛けられた絵が視界に入った。	그때, 방에 걸려있는 그림들이 눈에 들어왔다.	That's when my gaze drifted to the paintings adorning the room.						0	3.3主线剧情
+166	明明都是挂在很显眼的位置，但不知道为什么却在一开始被忽略了。	明明都是掛在很顯眼的位置，但不知道為什麼卻在一開始被忽略了。	どれも目立つ場所にかかっているのに、最初はなぜか見落としていた。	분명 눈에 잘 띄는 위치에 걸려있었는데, 왜인지 처음에는 눈에 들어오지 않았다.	They'd been right there in plain sight, yet somehow I hadn't noticed them until now.						0	3.3主线剧情
+167	嗯，老妈最爱画新恒提罗的天空了。	嗯，老媽最愛畫新恆提羅的天空了。	うん、ママはニューガントラの空を描くのが大好きなの。	응, 엄마는 뉴헨틸로의 하늘을 그리는 걸 제일 좋아하셔.	Yup. New Hentiro's sky has always been her favorite subject.						0	3.3主线剧情
+168	我仔细端详着这些画作，突然意识到原因，这些画的题材都是天空，是日复一日包裹着新恒提罗的那片天空。	我仔細端詳著這些畫作，突然意識到原因，這些畫的題材都是天空，是日復一日包裹著新恆提羅的那片天空。	私は絵をよく確認して、急に見逃した理由に気づいた。絵のテーマはすべて空……ニューガントラを覆うありふれた空の景色だった。	이 그림들을 자세히 살펴보다가 문득 그 이유를 깨달았다. 이 그림들은 모두 하늘을 그린 것이었다. 언제나 뉴헨틸로를 감싸고 있는 그 하늘이었다.	As I looked more closely, I realized why they hadn't registered at first. Every single one depicted the same subject — the sky above New Hentiro, in all its countless moods.						0	3.3主线剧情
+169	人类总会下意识地忽略那些习以为常的风景。但其中，也有例外。	人類總會下意識地忽略那些習以為常的風景。但其中，也有例外。	人間は無意識に慣れ親しんだ風景を見落としがちだ。ただし、例外もある。	사람들은 늘 보는 풍경을 무심코 지나치기 마련이다. 하지만 예외도 있다.	People tend to overlook the familiar. But there are exceptions.						0	3.3主线剧情
+170	从我记事起就一直在画，印象中的就已经有200多幅了……	從我有記憶以來就一直在畫，印象中的就已經有200多幅了……	あたしが物心あるときから描いてるから……最低でも200枚以上描いてるんじゃない？	내가 기억하기 시작할 때부터 계속 그려 왔으니, 기억나는 것만 해도 200점이 넘을 거야…	She's been painting them since I was little. I think she's past two hundred by now...						0	3.3主线剧情
+171	持续记录同个主题两百次……实在是令人惊叹的毅力。	持續記錄同個主題兩百次……實在是令人驚嘆的毅力。	同じテーマを200回以上記録し続けたんデスね……すばらしい忍耐力デス。	같은 대상을 200번이나 기록하다니… 정말 놀라운 의지입니다.	To depict the same subject over two hundred times... That's extraordinary persistence.						0	3.3主线剧情
+172	与其说是毅力，不如说是对这片天空的痴迷吧。	與其說是毅力，不如說是對這片天空的迷戀吧。	持久力というか、空の大ファンって感じ？	의지라기보다는, 이 하늘에 대한 집착이랄까.	It's not really persistence... She's just completely obsessed with it.						0	3.3主线剧情
+173	少女叹了一口气，仰面躺在了床上。	少女嘆了一口氣，仰躺在了床上。	ミアはため息をつき、仰向けでベッドに倒れ込んだ。	소녀는 한숨을 쉬며 침대에 누워 천장을 바라봤다.	Mia let out a sigh and flopped back onto her bed.						0	3.3主线剧情
+174	我的家人们一直都深爱着这片天空，还有，这座城市呢……	我的家人們一直都深愛著這片天空，還有，這座城市呢……	あたしの家族は、この空と街がずっと大好きなんだ……	우리 가족들은 언제나 이 하늘을, 그리고 이 도시를 많이 사랑해 왔어…	My family's always had this deep love for that sky... And for this city, too.						0	3.3主线剧情
+175	我顺着她的视线看去，注意到了床头的一幅画。	我順著她的視線看去，注意到了床頭的一幅畫。	私は彼女の視線を追って、ベッドサイドの一枚の絵に気づいた。	나는 그녀의 시선을 따라가다 침대 머리맡의 어느 그림을 발견했다.	Following her gaze, I noticed a painting hanging above the headboard.						0	3.3主线剧情
+176	虽然描绘的主题也是天空，但似乎却与其他的画不同。	雖然描繪的主題也是天空，但似乎與其他的畫不同。	描かれたテーマは同じく空だが、他の絵とは少し雰囲気が違うようだ。	마찬가지로 하늘을 그린 그림이긴 했지만, 다른 그림들과는 뭔가 달라 보였다.	It was sky-themed as well, but something about it set it apart.						0	3.3主线剧情
+177	这幅画采用了罕见的仰视视角。	這幅畫採用了罕見的仰視視角。	この絵だけは珍しいアオリ視点で描かれている。	이 그림은 드물게도 올려다보는 시점이었다.	The angle was different, as if looking up from far below.						0	3.3主线剧情
+178	云层被光线撕开一道道裂痕。	雲層被光線撕開一道道裂痕。	雲が光によって裂けている。	구름층이 빛에 의해 여러 갈래로 찢어져 있었다.	Ribbons of light split the clouds like open seams.						0	3.3主线剧情
+179	金色的光柱如天使降下的阶梯般，从漆黑的“地面”向上延伸开来……	金色的光柱如天使降下的階梯般，從漆黑的「地面」向上延伸來……	金色の光の柱は、天使が降ろした階段のように、漆黒の「地面」から上へと伸びていく……	황금빛 기둥은 천사가 내려올 계단처럼, 칠흑 같은 '지상'에서부터 위로 뻗어나가고 있었다…	Golden beams stretched skyward, like stairways cast by angels, rising from the pitch-black "earth."						0	3.3主线剧情
+180	心头突然涌起一阵莫名的熟悉感，这样的场景，我确实在哪里见过。	心頭突然湧起一陣莫名的熟悉感，這樣的場景，我確實在哪裡看過。	奇妙な既視感に襲われた。確かにこの光景をどこかで見た気がする。	갑자기 알 수 없는 익숙함이 강하게 느껴졌다. 이런 장면을 분명 어디선가 본 적이 있었다.	A strange sense of familiarity stirred inside me. I'd seen this sky before. I was sure of it.						0	3.3主线剧情
+181	啊~分析员是在看那一幅画吗？	啊~分析員是在看那一幅畫嗎？	あ～、分析員、もしかして……その絵に興味あるの？	아~ 분석가는 저 그림을 보고 있었구나?	Ah~ Adjutant, are you looking at that one?						0	3.3主线剧情
+182	嗯，稍微有点眼熟呢。	嗯，稍微有點眼熟呢。	うん、なんだか見覚えがあるような気がする。	응. 좀 익숙한 것 같아서.	Yeah... it feels oddly familiar.						0	3.3主线剧情
+183	……	……	……	……	...						0	3.3主线剧情
+184	这张画，是我自己画的哦~	這幅畫，是我自己畫的喔~	その絵はあたしが描いたの。	내가 그린 그림이야~	Well — I painted that one myself~						0	3.3主线剧情
+185	那里是我的起点，是我第一次…遇见光的地方。	那裡是我的起點，是我第一次……遇見光的地方。	ここは、あたしの「はじまり」なの。あたしが初めて光を見た場所なの。	저긴 내 출발점이야. 내가 처음으로… 빛을 만난 곳이지.	That's where it all started for me... The first time I ever... met my light.						0	3.3主线剧情
+186	女孩喃喃自语，似乎是在说给我听，又似乎是在说给自己听。	女孩喃喃自語，像在說給我聽，又像是在說給自己聽。	ミアは独り言のように呟いた。私に聞かせているのか、それとも自分自身に言い聞かせているのか。	소녀는 중얼거렸다. 나에게 하는 말 같기도, 혼잣말 같기도 했다.	She spoke softly, maybe to me — or maybe just to herself.						0	3.3主线剧情
+187	正当我还想问个明白时——	正當我還想問個明白時——	私がさらに詳しく聞こうとした時――	좀 더 자세히 물어보려는 순간…	I was about to ask what she meant, when...						0	3.3主线剧情
+188	搞定了！	搞定了！	これでよしっと！	해냈다!	All set!						0	3.3主线剧情
+189	身后传来了芙提雅的欢呼。	身後傳來了芙提雅的歡呼。	背後からフリティアの歓声が聞こえた。	뒤에서 프티야의 환호성이 들렸다.	Fritia's cheerful voice rang out from behind me.						0	3.3主线剧情
+190	哎？！这么快？！不愧是海姆达尔最强的科学家，芙提雅姐姐！	欸？！這麼快？！不愧是海姆達爾最強的科學家，芙提雅姐姐！	えっ、はやっ！？さすがヘイムダル一の科学者、フリティア姉ね！	어머?! 벌써?! 역시 헤임달 최고의 과학자, 프티야 언니야!	Whaaat? Already!? You really are Heimdall's ace scientist, big sis Fritia!						0	3.3主线剧情
+191	等等等等，她刚刚，喊我姐姐了……	等等等等，她剛剛，叫我姐姐了……	え、え、今私のこと、フリティア姉って呼ばなかった？	잠깐, 잠깐, 쟤 방금, 나한테 언니라고…	Wait... did she just call me big sis...?						0	3.3主线剧情
+192	哎嘿嘿……明明比我“大”那么多，但我果然还是当之无愧的前辈啊~	欸嘿嘿……明明比我“大”那麼多，但我果然還是當之無愧的前輩啊~	えへへ……果実のサイズじゃ敵わないけど……やっぱ私って先輩なんだね～！	에헤헤… 분명 나보다 그렇게나 “크”면서. 역시 나는 어엿한 선배라니까~	She's certainly much "bigger" than me, but I guess I really am the elder here~						0	3.3主线剧情
+193	露出了有趣的表情啊。	露出了有趣的表情啊。	面白そうな表情をしているなあ。	그녀는 재미있다는 듯한 표정을 지었다.	Fritia barely hid her smug grin.						0	3.3主线剧情
+194	在海姆达尔的各位的协助下，登入装置顺利升级完毕。	在海姆達爾各位的協助下，登入裝置順利升級完畢。	ヘイムダルのみなさんの協力のもと、ログイン装置を無事アップデートすることができマシタ。	헤임달 여러분의 도움으로 로그인 장치 업그레이드가 순조롭게 완료되었습니다.	Thanks to Heimdall's assistance, the login device has been fully upgraded.						0	3.3主线剧情
+195	接上纺锤系统后，现在已经可以将大家的战斗参数连同意识一并同步至天界乐土了。	接上紡錘系統後，現在已經可以將大家的戰鬥參數連同意識一併同步至天界樂土了。	「スピンドル」システムに接続したから、みんなのバトルデータや意識を天界楽土と同期できるようになったよ。	방추 시스템을 연결했다. 이제 너희의 전투 데이터와 의식을 천계 낙원에 동기화할 수 있다.	Now that it's linked to the Spindle System, we can sync your combat data and consciousness into the Elysium.						0	3.3主线剧情
+196	但是要注意！因为歧路宇宙的信息态特性，意识在那个世界所受到的伤害同样会反馈至本体神经……	但是要注意！因為歧路宇宙的資訊態特性，意識在那個世界所受到的傷害同樣會回饋至本體神經……	でも、岐路宇宙は情報体の特性を持ってるから、あの世界で意識がダメージを受けたら、本体も同じダメージを受けちゃう。	하지만 조심해라! 크로스버스 이념 형태의 특성상, 의식이 그 세계에서 피해를 받으면 본체의 신경에도 전달되니까…	But be careful! Because of the fragmentational nature of the Divergent Cosmos, any damage your consciousness takes there will reflect directly onto your neural system.						0	3.3主线剧情
+197	所以在行动时……还请多加小心。	所以在行動時……還請多加小心。	だから、くれぐれも気を付けて行動してね。	그러니 행동할 때… 꼭 조심하길 바란다.	So... please be really careful out there, everyone.						0	3.3主线剧情
+198	哼哼，顺便一提，我还定位到了袭击者的坐标，那个家伙就在——	哼哼，順便一提，我還定位到了襲擊者的座標，那個傢伙就在——	ついでに、襲撃者の座標も確認できたよ。あいつの現在地は――	흐흥, 참고로 내가 습격자의 좌표도 찾아냈어. 그 녀석은 바로…	Heh, and just so you know, I've already locked down the attacker's coordinates. They're...						0	3.3主线剧情
+199	这里！	這裡！	ここ！	여깄어!	Right here!						0	3.3主线剧情
+200	芙提雅大指一挥，指向了一个广场的投影。	芙提雅大指一揮，指向了一個廣場的投影。	フリティアは大きく腕を振り、広場の投影を指し示した。	프티야는 엄지를 움직여 어느 스퀘어의 투영을 가리켰다.	She jabbed a finger at the floating hologram of a plaza.						0	3.3主线剧情
+201	这里是天界乐土的中心广场，也就是异变发生的源头……	這裡是天界樂土的中心廣場，也就是異變發生的源頭……	天界楽土の中央広場、最初に異変が発生した場所デスね……	이곳은 천계 낙원의 센트럴 스퀘어입니다. 이상 현상이 발생한 근원지죠…	That's the central plaza of the Elysium — the origin point of the anomaly...						0	3.3主线剧情
+202	嗯！盘踞在那的黑洞就是最初裂隙，同时也是袭击者的老巢。	嗯！盤踞在那的黑洞就是最初裂隙，同時也是襲擊者的老巢。	うん！そこの黒い渦こそが最初の裂け目で、襲撃者の本拠地ってこと！	응! 저기 자리 잡은 블랙홀이 바로 최초의 열계이자, 습격자의 아지트야.	Uh-huh! That black hole's the first rift — and their main hideout.						0	3.3主线剧情
+203	其他黑洞都有与之相连的通道，袭击者拥有着借助黑洞在歧路宇宙中到处穿梭的能力。	其他黑洞都有與之相連的通道，襲擊者擁有著藉助黑洞在歧路宇宙中到處穿梭的能力。	ほかの黒い渦もつながっており、襲撃者は黒い渦を利用し、岐路宇宙を行き来できる能力を持っていマス。	다른 블랙홀은 모두 이곳과 연결된 통로가 있기에, 습격자는 블랙홀을 통해 크로스버스 곳곳을 이동하는 능력을 갖추고 있습니다.	All the other black holes are tethered to it. The intruder's been using them to leap across the Divergent Cosmos at will.						0	3.3主线剧情
+204	这么说，它随时都有可能借助黑洞逃走，就像是在星辉室时一样。	這麼說，它隨時都有可能藉由黑洞逃走，就像在星輝室時一樣。	つまり、星輝の部屋のときみたいに、黒い渦を使っていつでも逃走できるということか。	그렇다면 별빛 공간에서처럼, 언제든지 블랙홀을 통해 도망칠 수 있다는 말이군.	So... they could escape through one at any moment — just like they did in the Starlight Hall, right?						0	3.3主线剧情
+205	哼哼，不会让它得逞的。	哼哼，不會讓它得逞的。	ふん、そんなことはさせないけどね。	흐흥, 어림도 없지.	Heh. Not this time.						0	3.3主线剧情
+206	我们已经利用夺回的部分权限，将天界乐土与其他的区域隔绝了开来。	我們已經利用奪回的部分權限，將天界樂土與其他的區域隔絕開來。	実は奪還した一部の権限を使って、天界楽土とほかのエリアを隔離したの。	우리가 되찾은 일부 권한을 이용해서 천계 낙원을 다른 구역과 격리시켰어.	Thanks to the clearance we just restored, we've walled off the Elysium from the rest.						0	3.3主线剧情
+207	现在它除了能躲到那个黑洞里，已经去不了任何地方了。	現在它除了能躲到那個黑洞裡，已經去不了任何地方了。	侵入者は、あの黒い渦以外、どこにもいけなくなったんだよ。	이제 그 녀석은 저 블랙홀 안으로 숨는 것 말고는, 아무 데도 갈 수 없다.	Now, the only place left to run... is back into that black hole.						0	3.3主线剧情
+208	哦哦！那我们岂不是只用在它进入黑洞前抓住它就行了，实在不行，就进去抓住它！	哦哦！那我們豈不是只要在它進入黑洞前抓住它就行了，要是不行，就進去抓住它！	へー！じゃあ、黒い渦に逃げ込む前に捕まえちゃえばいいってこと？最悪、中に入ってさ！	오호! 그럼 우리는 녀석이 블랙홀에 들어가기 전에 잡기만 하면 되는 거네? 정 안 되면 우리가 들어가서 잡으면 되고!	Oooh! So all we have to do is grab them before they jump — and if that fails, we just chase them in!						0	3.3主线剧情
+209	没错没错~就是这样！	沒錯沒錯~就是這樣！	うん、そういうこと！	맞아, 맞아~ 바로 그거야!	Mm-hmm~ That's the plan!						0	3.3主线剧情
+210	哎？但那个黑洞对我们来说，应该不是想进就能进的吧？	欸？但那個黑洞對我們來說，應該不是想進就能進的吧？	だが、その黒い渦は私たちが入ろうとして、入れるような場所ではないだろう。	응? 하지만 그 블랙홀은 우리가 마음대로 들어갈 수 있는 곳이 아니지 않나?	Wait — we can't just dive into a black hole, can we?						0	3.3主线剧情
+211	啊哈哈……的确如此。刚刚看米娅妹妹兴头那么足，所以一不小心就简化了这部分的说明。	啊哈哈……的確如此。剛剛看米婭妹妹興頭那麼足，所以一不小心就簡化了這部分的說明。	あはは、確かに。ミアちゃんがテンション上がってるのを見て、思わず説明を飛ばしちゃった。	아하하… 그건 그래. 방금 미아 동생이 너무 신나 보이길래, 이 부분은 그냥 쉽게 넘겨버렸네.	Ahahaha... yeah, good point. Got a little carried away seeing little Mia all fired up — kinda glossed over a few details.						0	3.3主线剧情
+212	米娅……妹妹吗……	米婭……妹妹嗎……	ミアちゃん、か……	미아… 동생이라…	Little Mia...?						0	3.3主线剧情
+213	她挠头笑了笑，随后，又认真起来。	她撓頭笑了笑，隨後，又認真起來。	彼女は頭を掻いて笑ったが、すぐに真剣な表情に戻った。	그녀는 머리를 긁적이며 웃더니, 곧 다시 진지한 표정을 지었다.	Fritia scratched her head with a sheepish grin — but her expression quickly turned serious.						0	3.3主线剧情
+214	实际上，我们现在对黑洞的内部还是一无所知。	實際上，我們現在對黑洞的內部還是一無所知。	黒い渦の中がどうなってるのかは、まだわかってないからね。	사실 우린 아직 블랙홀의 내부에 대해 아는 게 아무것도 없어.	Truth is... we still don't know what's inside that black hole.						0	3.3主线剧情
+215	所有发送过去的信号都被一并吸入，无法回收。	所有傳送過去的訊號都被一併吸入，無法回收。	中へ発信した信号が全部吸い込まれて、一つも返ってこないの。	신호를 송출하면 모두 빨려 들어가고, 회수할 수 없다.	Every signal we've sent gets swallowed whole. None have come back.						0	3.3主线剧情
+216	所以接下来就要拜托分析员你们亲自前往天界乐土，再接近那个黑洞后，才能探明了。	所以接下來就要拜託分析員你們親自前往天界樂土，在接近那個黑洞後，才能探明了。	だから、分析員たちが自ら天界楽土に入り、黒い渦に近づいてみないと、詳細はわからないの。	그래서 이제 분석가랑 너희가 직접 천계 낙원으로 가서, 블랙홀에 좀 더 접근해야만 알아낼 수 있을 거야.	You'll have to head into the Elysium and figure out the rest by getting close to that black hole.						0	3.3主线剧情
+217	嗯，就交给我们吧。芙提雅，猫汐尔，还有宇迦，你们辛苦了。	嗯，就交給我們吧。芙提雅、貓汐爾，還有宇迦，你們辛苦了。	ああ、任せてくれ。フリティア、マーシル、それからユガ、ご苦労様。	응, 우리한테 맡겨. 프티야, 캣 시에라, 그리고 우카도, 다들 수고 많았어.	Mm. Leave it to us. Fritia, Mauxir, well done. You too, YUGA.						0	3.3主线剧情
+218	哎嘿嘿，这种程度对芙提雅老师来说根本不算什么哦~	欸嘿嘿，這種程度對芙提雅老師來說根本不算什麼哦~	えへへ。これくらい、私にとってはどうってことないよ！	에헤헤, 프티야 선생님한테 이 정도는 정말 아무것도 아니라고~	Hehe~ Please, this is nothing for Professor Fritia~						0	3.3主线剧情
+219	真的不算什么吗？某个人刚刚还在紧张地发抖。	真的不算什麼嗎？某個人剛剛還在緊張地發抖。	本当に？さっきまで緊張で震えてたのに。	정말 아무것도 아닌가? 좀 전까지만 해도 긴장해서 떨고 있던 건 누구였지?	"Nothing," really? You were nervously shaking not five minutes ago.						0	3.3主线剧情
+220	才……才没有呢！总之分析员放心，我们这边没什么压力，分析员你们注意安全就好。	才……才沒有呢！總之分析員放心，我們這邊沒什麼壓力，分析員你們注意安全就好。	ふ……震えてなんかないよ！とにかく安心して、こっちは大丈夫だから、気を付けて行ってきてね。	내… 내가 언제! 어쨌든 분석가는 걱정하지 마. 우린 괜찮으니까, 너희만 안전하면 돼.	I—I was not! Anyway, Adjutant — don't worry about us. Just stay safe.						0	3.3主线剧情
+221	要是分析员回来时掉了一根汗毛，我就把恒沙整个给格式化了喵。	要是分析員回來時掉了一根汗毛，我就把恆沙整個給格式化了喵。	分析員に何かあったら、ゴウシャの全データをポチっと消しちゃうからね。	분석가가 돌아올 때 솜털 한 가닥이라도 없어지면, 항사를 완전히 포맷해 버릴 거다냥.	If the Adjutant comes back missing even one hair, I'll reformat GANGES, nya.						0	3.3主线剧情
+222	……	……	……	……	...						0	3.3主线剧情
+223	为了缓解紧张的氛围，开个玩笑。	為了緩解緊張的氣氛，開個玩笑。	空気を和ませるための冗談だよ。	긴장된 분위기를 풀기 위한 농담이었다.	It was a joke. Just trying to lighten the mood.						0	3.3主线剧情
+224	你的语气可不像是在开玩笑啊。	你的語氣可不像是在開玩笑啊。	冗談の言い方じゃなかっただろう。	네 말투는 전혀 농담 같지 않은데.	Your tone doesn't exactly sound like you're joking.						0	3.3主线剧情
+225	好，总之为了防止新恒提罗被猫汐尔击坠，我保证我一定会带着大家完完整整地回来的。	好，總之為了防止新恆提羅被貓汐爾擊墜，我保證我一定會帶著大家完完整整地回來的。	ニューガントラがマーシルに撃墜されないよう、必ず全員を無事に連れ戻すよ。	좋아. 아무튼 뉴헨틸로가 캣 시에라의 습격을 받지 않도록, 모두를 데리고 안전하게 돌아오겠다고 약속할게.	Alright. Either way, to keep New Hentiro from getting wiped by Mauxir, I swear I'll bring everyone back safe and sound — myself included.						0	3.3主线剧情
+226	届时，我会在这一头负责监控和维持各位的生命体征。	屆時，我會在這一頭負責監視和維持各位的生命徵象。	行動中、ワタシはみなさんのバイタルサインを監視し、維持しマス。	그럼 저는 이쪽에서 여러분의 활력 징후를 모니터링하고 유지하겠습니다.	I will remain here, monitoring and maintaining your vitals throughout.						0	3.3主线剧情
+227	嗯，拜托你了宇迦。	嗯，拜託你了宇迦。	ああ、ユガ、頼んだ。	응, 부탁할게, 우카.	Mm. We're counting on you, YUGA.						0	3.3主线剧情
+228	另外，因为环境复杂进入天界乐土后，我们可能无法通讯。	另外，因為環境複雜，進入天界樂土後，我們可能無法通訊。	それと、環境が複雑なため、天界楽土に入ってから、通信不可に陥る可能性がありマス。	그리고 환경이 복잡한 천계 낙원에 들어가면 통신이 불가능해질 수 있습니다.	One last thing — once you're inside the Elysium, communications may cut off.						0	3.3主线剧情
+229	不过一旦我检测到你们的生命体征出现波动，或者空间不稳定的话，我会强制将诸位唤醒。	不過一旦我偵測到你們的生命徵象出現波動，或是空間不穩定的話，我會強制將各位喚醒。	デスが、バイタルサインに異変が発生したり、空間が不安定になるようなことがあれば、強制的にみなさんを呼び起こしマス。	하지만 여러분의 활력 징후에 변동이 있거나 공간이 불안정해지면, 제가 강제로 깨우도록 하겠습니다.	If I detect any abnormal vitals or spatial instability, I'll have to forcibly extract you.						0	3.3主线剧情
+230	所以，还请尽量不要再使用心流内景了……	所以，還請盡量不要再使用心流內景了……	デスから、心象風景は、極力使用しないでクダサイ。	그러니, 가급적 내면의 흐름은 사용하지 말아 주세요…	So please... avoid using your inner mind unless absolutely necessary.						0	3.3主线剧情
+231	宇迦认真地看向了我眼睛，那双绿色的瞳孔，投射出似乎本不应该属于她的情绪。	宇迦認真地看向了我的眼睛，那雙綠色的瞳孔，投射出似乎不該屬於她的情緒。	ユガは真剣な眼差しで私を見つめた。彼女の緑の瞳には、本来AIに似つかわしくない感情が映っていた。	우카가 진지하게 내 눈을 바라봤다. 그 녹색 눈동자에는 그녀의 것이 아닌 듯한 감정이 깃들어 있었다.	Her green eyes met mine — and for a brief second, they seemed to carry an emotion she wasn't meant to feel.						0	3.3主线剧情
+232	根据之前的解析来看，这种行为似乎会被歧路宇宙视作威胁从而产生排斥反应。	根據之前的解析來看，這種行為似乎會被歧路宇宙視為威脅從而產生排斥反應。	これまでの分析によると、この行為は岐路宇宙に脅威と判定され、排他反応を起こす恐れがありマス。	이전 분석 결과를 보면, 이런 행동은 크로스버스가 위협으로 인식해 배척 반응을 일으키는 듯합니다.	According to prior analysis, this kind of activity is perceived by the Divergent Cosmos as a threat, triggering a rejection response.						0	3.3主线剧情
+233	虽然master key能抵消一部分排斥反应，但您的身体和精神还是有可能因此受损。	雖然Master Key能抵銷一部分排斥反應，但您的身體和精神還是有可能因此受損。	マスターキーで一部の排他反応をかき消すことができマスが、アナタの心身にダメージを与える可能性が十分ありマス。	마스터키가 일부 배척 반응을 상쇄할 수 있지만, 그래도 분석가님의 몸과 정신이 손상될 수 있습니다.	The Master Key can offset some of that response, but your body and mind are still at risk.						0	3.3主线剧情
+234	另外，这种行为本身也会“磨损”master key。	另外，這種行為本身也會「磨損」Master Key。	しかも、マスターキーまで「損耗」してしまうかもしれマセン。	게다가 이런 행동 자체가 마스터키를 '손상'시킵니다.	Moreover, each use gradually "wears down" the Master Key.						0	3.3主线剧情
+235	说罢，宇迦便示意我看向master key，上面果然出现了类似裂纹的痕迹。	說完，宇迦便示意我看向Master Key，上面果然出現了類似裂紋的痕跡。	そう言うと、ユガは私にマスターキーを見るよう促した。そこには確かに、ひび割れのような跡ができていた。	그렇게 말한 우카는 내게 마스터키를 보라며 눈짓을 보냈다. 역시 그곳에는 갈라진 듯한 흔적이 있었다.	She gestured toward it. Sure enough — faint fractures had started to spider across its surface.						0	3.3主线剧情
+236	一旦最高权限丢失，便无法重新认证。	一旦最高權限遺失，便無法重新認證。	一旦最高権限を失ったら、再認証できなくなりマス。	최고 권한은 한번 잃으면 중복 인증이 불가합니다.	If top clearance is lost, re-authentication will be impossible.						0	3.3主线剧情
+237	原来如此，难怪那个时候我会被强制弹出空白空间，并在之后出现类似头疼的症状。	原來如此，難怪那時我會被強制彈出空白空間，並在之後出現類似頭痛的症狀。	なるほど。あの時、私が強制的に弾き出されたあと、頭痛のような症状が出たのはこのせいか。	그렇다. 그때 내가 강제로 공백 공간에서 튕겨 나간 후, 두통 같은 증상이 나타난 이유가 바로 그거였다.	So that's why I was ejected from the void — and why the headache followed.						0	3.3主线剧情
+238	看来除非必要的时刻，这份力量还是不能肆意使用。	看來除非必要的時刻，這份力量還是不能肆意使用。	必要な時以外は、むやみに使わない方が良さそうだ。	꼭 필요한 순간이 아니라면, 이 힘은 함부로 사용하지 말아야겠다.	Clearly, this power should only be wielded in critical moments.						0	3.3主线剧情
+239	分析员，我准备好了。	分析員，我準備好了。	分析員、こっちは準備万全だ。	분석가, 난 준비됐어.	Adjutant, I'm ready.						0	3.3主线剧情
+240	先走一步喽~	先走一步囉~	じゃあ、先にいくよ～	먼저 가볼게~	Let's go~!						0	3.3主线剧情
+241	嗯，出发吧。	嗯，出發吧。	ああ、行こう。	응, 출발하자.	Mm. Time to move out.						0	3.3主线剧情
+242	天界乐土接入启动中……	天界樂土接入啟動中……	天界楽土への接続を開始……	천계낙원 접속 시작…	Initializing access to the Elysium...						0	3.3主线剧情
+243	神经链接建立中……	神經連結建立中……	神経リンク構築中……	신경 링크 구축 중…	Establishing neural link...						0	3.3主线剧情
+244	建立完成	建立完成	構築完了	구축 완료	Connection established.						0	3.3主线剧情
+245	意识传输序列初始化……	意識傳輸序列初始化……	意識転送シーケンス初期化……	의식 전송 프로세스 초기화…	Initiating consciousness transfer sequence...						0	3.3主线剧情
+246	坐标锁定：天界乐土核心区	座標鎖定：天界樂土核心區	座標：天界楽土コアエリア	좌표 고정: 천계낙원 핵심 구역	Coordinates confirmed: the Elysium — Core Zone.						0	3.3主线剧情
+247	登入确立 倒计时准备……	登入確立 倒數計時準備……	ログイン確立 カウントダウン準備……	로그인 승인, 카운트다운 준비…	Login verified. Countdown commencing...						0	3.3主线剧情
+248	愿星辰指引您的前路。	願星辰指引您的前路。	アナタに星の導きがあらんことを。	별들이 당신의 앞길을 인도하기를 기도합니다.	May the stars guide your path.						0	3.3主线剧情
+249	天界乐土——接入成功。	天界樂土——接入成功。	天界楽土との接続成功。	천계 낙원, 접속 성공.	Elysium connection... complete.						0	3.3主线剧情

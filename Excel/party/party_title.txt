@@ -1,0 +1,21 @@
+﻿ID 目前上限18	//备注	称号底板	称号key	称号获取条件key	排序	获取条件类型	检查值
+ID	Comment	Img	Name	Describe	Sort	Type	CheckValue
+0	默认称号	5210000	party_card.Name1				
+1	优化吧击败哈姆称号1	5210010	party_card.Name2	party_card.Describe2	1	1	20
+2	优化吧击败哈姆称号2	5210011	party_card.Name2	party_card.Describe2	2	1	40
+3	优化吧击败哈姆称号3	5210012	party_card.Name2	party_card.Describe2	3	1	220
+4	优化吧优化玩家称号1	5210020	party_card.Name3	party_card.Describe3	4	2	7
+5	优化吧优化玩家称号2	5210021	party_card.Name3	party_card.Describe3	5	2	14
+6	优化吧优化玩家称号3	5210022	party_card.Name3	party_card.Describe3	6	2	80
+7	决战哈姆击败哈姆称号1	5210040	party_card.Name4	party_card.Describe4	7	3	150
+8	决战哈姆击败哈姆称号2	5210041	party_card.Name4	party_card.Describe4	8	3	300
+9	决战哈姆击败哈姆称号3	5210042	party_card.Name4	party_card.Describe4	9	3	1800
+10	决战哈姆使用道具次数称号1	5210030	party_card.Name5	party_card.Describe5	10	4	15
+11	决战哈姆使用道具次数称号2	5210031	party_card.Name5	party_card.Describe5	11	4	30
+12	决战哈姆使用道具次数称号3	5210032	party_card.Name5	party_card.Describe5	12	4	150
+13	捉迷藏躲藏者称号1	5210062	party_card.Name6	party_card.Describe6	13	5	2
+14	捉迷藏躲藏者称号2	5210061	party_card.Name6	party_card.Describe6	14	5	5
+15	捉迷藏躲藏者称号3	5210060	party_card.Name6	party_card.Describe6	15	5	25
+16	捉迷藏抓捕者称号1	5210052	party_card.Name7	party_card.Describe7	16	6	30
+17	捉迷藏抓捕者称号2	5210051	party_card.Name7	party_card.Describe7	17	6	60
+18	捉迷藏抓捕者称号3	5210050	party_card.Name7	party_card.Describe7	18	6	350

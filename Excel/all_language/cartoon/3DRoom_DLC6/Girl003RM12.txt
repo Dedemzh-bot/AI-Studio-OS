@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	哟，分析员早！	喲，分析員早！	よ、分析員、おっはよう！	요, 분석가, 안녕!	Yo, Adjutant! Morning!						0	
+page1.2	早啊，妮塔。	早啊，妮塔。	おはよ、ニタ。	안녕, 니타.	Morning, Nita.						0	
+page1.3	这几天休假，你怎么还起得这么早。	這幾天休假，你怎麼還起得這麼早。	最近は休みなのに、随分と早起きだね。	쉬는 날인데 왜 이렇게 일찍 일어난 거야?	Why are you up so early on your day off?						0	
+page1.4	早起的饭最好吃呀。	早起的飯最好吃呀。	朝ごはんがおいしくなるからね。	'일찍 일어나는 새가 벌레를 잡는다'라는 말 못 들어봤어?	Food tastes the best when you wake up early.						0	
+page1.5	啊？不是都一样吗？	啊？不是都一樣嗎？	え？同じじゃないか？	뭐? 다 똑같은 거 아니었어?	Huh? Isn't it all the same?						0	
+page1.6	哈哈，开玩笑啦。是以前养成的习惯。	哈哈，開玩笑啦。是以前養成的習慣。	へへ、なんてね。ただの癖だよ。	하하하, 농담이야, 농담. 그냥 예전부터 습관이 돼서 일찍 일어나는 편이야.	Haha, I'm just joking. It's just a habit I picked up from before.						0	
+page1.7	说起来，每天起床后第一个在大厅见到的都是妮塔。	說起來，每天起床後第一個在大廳見到的都是妮塔。	そういえば、いつもロビーではニタに最初に会うな。	그러고 보니 매일 일어나서 복도에서 가장 먼저 마주치는 게 니타네.	Now that I think about it, you're always the first person I see in the hall after I wake up.						0	
+page1.8	最后一个回房间睡觉的，好像也是你。	最後一個回房間睡覺的，好像也是你。	最後に部屋に戻って寝るのも君だよね。	그리고 제일 늦게 돌아가서 자는 것도 니타였던 것 같은데.	And it seems like you're the last one to go back to your room too.						0	
+page1.9	嘿嘿，以前我还在讨生活的时候，要赶早才能抢到报酬最高的委托嘛。	嘿嘿，以前我還在討生活的時候，要趕早才能搶到報酬最高的委託嘛。	へへっ、昔自分で生計を立ててた時は、一歩先を行かないと実入りのいい依頼は取られちゃったからね。	헤헤, 예전에는 생계를 위해 일찍 일어나서 가장 높은 보상을 받을 수 있는 의뢰를 가져가야 했어.	Hehe, when I was still struggling to survive, I had to be early to snatch the top-dollar commissions.						0	
+page1.10	优质的生活，当然要靠自己的双手！	優質的生活，當然要靠自己的雙手！	いい生活は、自分の手で作るものだよね！	더 멋있는 삶을 살아가려면, 내가 발품을 팔아서라도 뛰어다녀야지.	You gotta rely on yourself to improve your life!						0	
+page1.11	说起来，在海姆达尔也一样。	說起來，在海姆達爾也一樣。	そう考えると、ヘイムダルに来てからも同じだ。	그러고 보니 헤임달도 마찬가지네.	And it's actually the same here too.						0	
+page1.12	早点起来，说不定我就是第一个碰到分析员的，也好混入你的小队！	早點起來，說不定我就是第一個碰到分析員的，也好混入你的小隊！	早起きすれば、分析員が最初に私に会うかもしれないから、任務に出られるチャンスも増えるってわけ！	일찍 일어나면 분석가를 가장 먼저 볼 수 있는 게 나잖아!	And if I get up early, it means I have a chance to be the first person to see you, Adjutant! I could even sneak onto your team!						0	
+page1.13	妮塔真是勤劳啊。	妮塔真是勤勞啊。	ニタは勤勉だな。	니타는 정말 부지런하구나.	You're so hardworking, Nita.						0	
+page1.14	不过我有个疑问，工作这么认真我可以理解，那晚上怎么不早点回房间？	不過我有個疑問，工作這麼認真我可以理解，那晚上怎麼不早點回房間？	でも、1つ疑問がある。仕事に対して真面目なのはいいけど、夜に早く部屋に戻らないのはどうしてだ？	근데 그렇게 열심히 일하는데 왜 밤에는 늦게 들어오는 거야?	But I have a question. I understand why you work so hard, but why don't you go back to your room earlier at night?						0	
+page1.15	当然是为了监督分析员有没有安全回到基地！	當然是為了監督分析員有沒有安全回到基地！	分析員が無事に社員寮に戻れたか確認するためだよ！	그야 당연히 분석가가 기지에 잘 돌아왔나 확인하기 위해서지!	So I can make sure you got back to the Base safely, of course!						0	

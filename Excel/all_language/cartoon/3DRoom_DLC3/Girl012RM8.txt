@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	我能问一个好奇了很久的问题吗？	我能問一個好奇很久的問題嗎?	ずっと気になっていたことを聞いてもいいか？	너한테 오랫동안 궁금했던 게 있는데, 물어봐도 돼?	Can I ask you something that I've been curious about for a long time?						0	
+page0.2	嗯？	嗯？	ニャ？	음?	Huh?						0	
+page0.3	猫汐尔的智商是不是超级高的那种？	貓汐爾的智商是不是超級高?	マーシルって並外れたIQの持ち主だよな？	캣 시에라는 IQ가 엄청 높은 편이야?	Do you have a super high IQ, Mauxir?						0	
+page0.4	要进入卫城学院，通过智力测试是必需的喵。	要進入衛城學院，是需要通過智力測驗的喵。	アクロポリス学院に入るには、知力テストに合格するのが必須ニャ。	아크로폴리스 아카데미에 들어가려면 IQ테스트에 반드시 통과해야 한다냥.	Students are required to pass an IQ test before attending the Academica Acropolis.						0	
+page0.5	果然。	果然。	やっぱりな。	역시나.	Naturally.						0	
+page0.6	但归根结底，我和你们人类并没有什么不同。	但歸根結柢，我和你們人類並無區別。	でも結局、私は人間と大した違いはないよ。	결국, 나와 너희 인간들은 다르지 않다.	But I'm ultimately no different than you humans.						0	
+page0.7	能称得上天才的，应该只有芙提雅喵。	能稱得上天才的，應該只有芙提雅喵。	天才と呼ばれるにふさわしいのは、フリティアしかいないと思うニャ。	우리 중 진짜 천재는 오직 프티야뿐일 거다냥.	Fritia is the only one who can truly be considered a genius, nya.						0	
+page0.8	当时她入学没多久，校报头版十次就有五次是她了。	當時她入學沒多久，校刊頭版十次有五次都是她。	入学早々、校内新聞の一面の半分くらいは彼女の記事だった。	당시 프티야가 입학한 지 얼마 되지 않았을 때였는데, 교내 신문 1면을 5번이나 장식했다.	Not long after she started studying there, she was already on the front page of the school newspaper half the time.						0	
+page0.9	那还真是夸张。	還真是誇張。	大したものだな。	그건 좀 과장인 것 같은데?	That's pretty crazy.						0	
+page0.10	所以你们是怎么认识的？	所以你們是怎麼認識的?	ふたりが知り合ったきっかけは？	근데 너희는 어떻게 알게 된 거야?	So how did you two meet?						0	
+page0.11	唔喵，剩下的头版中有三次是我。	唔喵，剩下的頭版有三次是我。	ニャ、3割くらいは私の記事だったから。	음냥, 나머지 3번을 장식한 게 바로 나다.	Well, I was usually on the front page when Fritia wasn't.						0	
+page0.12	我不是很理解你们天才了。	我無法理解你們這些天才。	天才を理解するのはやっぱり難しいな。	역시 천재들의 세계란…	I don't really understand geniuses like you guys.						0	

@@ -1,0 +1,159 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	不要逃避。<snowbreak>接引使</>大人，将她们渡送至彼岸吧。	不要逃避。<snowbreak>接引使</>大人，將她們渡送至彼岸吧。	逃げないで。<snowbreak>聖女</>様、彼女たちを彼岸に渡らせてあげてください。	도망갈 생각 말고… <snowbreak>인도자</>님, 저들을 건너편으로 인도해 주십시오.	Don't run. Great <snowbreak>Emissary</>, please guide them to the other side.						0	
+2	请……请为我们赐福吧，接引使大人。	請……請為我們賜福吧，接引使大人。	しゅ、祝福を……お願いします、聖女様。	인도자님, 부디… 저희에게 은총을 내려주소서.	Please... Please grant us your blessing, Great Emissary.						0	
+3	圣坛之上，琴诺面前的女孩们浑身长满结晶，瘫倒在地。	聖壇之上，琴諾面前的女孩們全身長滿結晶，癱倒在地。	聖壇の上でチェルノの前に並んでいる少女たちは皆、体中に結晶だらけとなって倒れている。	제단 위, 체르노의 앞에 있던 소녀들이 온몸에 결정체가 뒤덮인 채 땅에 주저앉는다.	The girls collapsed on the altar before Cherno, crystals creeping over their bodies, freezing them in place.						0	
+4	只有由您亲手赐福，她们的灵魂才能抵达净土……来吧，将权杖刺入她们的心脏，为她们解脱。	只有由您親手賜福，她們的靈魂才能抵達淨土……來吧，將權杖刺入她們的心臟，為她們解脫。	あなたの祝福がなければ、彼女たちの魂が浄土に辿り着くことはありません。さあ……その杖を彼女たちの心臓に突き刺すのです。そうすれば、彼女たちに救いが訪れるでしょう。	인도자님의 은총이 있어야만 그녀들의 영혼을 정토에 닿게 할 수 있습니다… 어서 이 지팡이로 그녀들의 심장을 찔러 해방시켜 주십쇼.	Their souls cannot reach the pure realm without your blessing... Come — take the scepter, pierce their hearts, and grant them peace.						0	
+5	我做不到……我做不到的……	我做不到……我做不到的……	できない……私にはできません……！	전 못 하겠어요… 이런 건 못하겠어요…	I can't... I can't do it...						0	
+6	啧，真弱……	嘖，真弱……	チッ……臆病な人だ。	쳇, 약해 빠졌군…	Tch... How weak...						0	
+7	都是我的错……大主，我没有办法成为接引使……请原谅她们吧！	都是我的錯……大主，我沒有辦法成為接引使……請原諒她們吧！	すべて私の責任です……大司教、私は聖女にはなれません……どうか、彼女たちを許してあげてください！	다 제 탓이에요… 교주님, 전 인도자가 될 수 없을 것 같아요… 부디 그녀들을 용서해 주세요.	It's all my fault... High Presbyter, I can't be the Emissary... Please forgive them!						0	
+8	是啊，都是你的错。但是琴诺你知道吗？	是啊，都是你的錯。但是琴諾你知道嗎？	ええ、そうですよ、すべてあなたの責任です。ですがチェルノ、分かっているのですか？	그래, 전부 체르노 잘못이지. 근데 그거 아나?	Yes, it is your fault. But, Cherno, do you know something?						0	
+9	身着长袍的大主绕过人群，来到一脸惊慌的琴诺面前，在众人诧异的目光中弯下腰来。	身著長袍的大主繞過人群，來到一臉驚慌的琴諾面前，在眾人詫異的目光中彎下腰來。	ローブに身を包んだ大司教は人混みをかき分け、動揺するチェルノの前までやってくると、人々からの怪訝な視線を一身に受けながら、彼女を見下ろした。	로브 차림의 교주는 사람들을 지나쳤고 당황한 기색이 역력한 체르노에게 다가가 허리를 굽혔다.	Robed and silent, the High Presbyter stepped past the crowd, stopped before the panicked Cherno, and bowed under their astonished gazes.						0	
+10	自降生于世后，人便会与越来越多的人事物产生联系。	自降生於世後，人便會與越來越多的人與事物產生連結。	人はこの世に生まれた瞬間から、否応なしに他の人間や物事との繋がりが積み重なっていくものです。	사람들은 본래 태어날 때부터 모든 것들과 관계를 맺게 되어 있어.	From the moment of birth, our existence intertwines with others, creating connections that grow deeper with time.						0	
+11	你要记住，你所做的每个选择，都会波及到那些和你联系在一起的人。	你要記住，你所做的每個選擇，都會波及那些和你連結在一起的人。	あなたが下した決断はすべて、あなたと繋がっている人たちに影響します。そのことを決して忘れないでください。	따라서 네가 내리는 선택은 너와 관계된 사람들에게 영향을 미친다는 것을 기억해야 해.	Remember, every decision you make ripples through those connected to you.						0	
+12	如果你没有那个觉悟，那他们即便身死，灵魂也终不得解脱，将会成为游荡在世间的……	如果你沒有那個覺悟，那他們即便身死，靈魂也終不得解脫，將會成為遊蕩在世間的…	その覚悟がなければ、彼らは死してもなお、魂を縛られ、永遠にこの世で彷徨い続けることになるのですから……	만약 네게 그런 자각이 없다면 저들은 죽어서도 영혼이 해탈하지 못하고 세상을 떠돌아다니게 될 거야…	Otherwise, even death will not free their souls. They will be destined to wander about this earth... because you failed to guide them to the other side.						0	
+13	我知道了，大主，我知道了，但这次就饶了她们吧……求求您了……	我知道了，大主，我知道了，但這次就饒了她們吧……求求您了……	分かっています。大司教、分かっていますから……今回だけはどうか、彼女たちを許してあげてください、お願いします……	알겠어요, 교주님. 이번에만 저들을 용서해 주세요… 부탁할게요…	I know, High Presbyter. I know... But please spare them this time... Please...						0	
+14	善良的孩子，这并不是我能左右的事，罪已降下，这理应由神明裁决。	善良的孩子，這不是我能左右的事，罪已降下，這理應由神明裁決。	チェルノはお優しいのですね。ですがこれは私が決められるようなことではありません。罪はすでに降って来たのです。それを裁く権力は神にしかありません。	선량하구나. 하지만 이건 내가 좌지우지할 수 있는 일이 아니야. 이미 죄가 내려진 터라 신의 판결을 받아야 해.	Sweet child, this is no longer in my hands. They have sinned, and it is the Divine who shall judge.						0	
+15	但是，此时此刻，若你能给予罪人赐福，那么便能获得祂的宽恕。	但是，此時此刻，若你能給予罪人賜福，那麼便能獲得祂的寬恕。	ですがもし、あなたがこの場で罪人達に祝福を与えるのであれば、神もきっと皆さんを許してくれるはずです。	하지만 네가 죄인에게 은총을 내린다면 신의 용서를 받게 될 거야.	But if you grant the sinners your blessing, the Divine's forgiveness will be bestowed upon them.						0	
+16	男人打了个响指，立马就有侍女上前用白布缠住了琴诺的眼耳。	男人打了個響指，立刻就有侍女上前用白布纏住了琴諾的眼和耳。	そう言いながら、彼は指を鳴らした。すぐに侍女が現れ、白い布でチェルノの目と耳を遮った。	그가 손가락으로 지시를 내리자 한 시녀가 체르노에게 다가가 흰 천으로 그녀의 눈을 감겼다.	The man snapped his fingers. A handmaiden immediately moved forward, covering Cherno's eyes and ears with a white cloth.						0	
+17	什么都不要去看，什么都不要去听……仅仅是听从你的内心，为他们赐福吧。	什麼都不要去看，什麼都不要去聽……僅僅是聽從你的內心，為他們賜福吧。	何も見ず、何も聞かなくてもよろしい。ただあなた自身の心に従い、祝福を与えてあげなさい。	아무것도 보지도, 듣지도 마… 그저 마음에 귀를 기울여 저들에게 은총을 내려줘.	Do not see, do not hear... Let your heart be your guide and grant them your blessing.						0	
+18	于是，女孩颤颤巍巍地举起了手中的权杖。	於是，女孩顫顫巍巍地舉起了手中的權杖。	そう告げられた少女は、震えながら握っている杖をかざし……	소녀는 몸을 부들부들 떨면서 손에 든 지팡이를 들었다.	With that, the girl raised the scepter in her hand, trembling.						0	
+19	但是，她始终没有勇气将其落下。	但是，她始終沒有勇氣將其落下。	結局降り下ろすことはなかった。	하지만 그녀는 도저히 용기가 나지 않았다.	But the strength to plunge it was nowhere to be found.						0	
+20	直至——	直至——	そして——	그때…	She stood there, until...						0	
+21	很遗憾，罪人们的灵魂将永远囚禁于此。	很遺憾，罪人們的靈魂將永遠囚禁於此。	非常に残念ですが、どうやら罪人達の魂は永遠にここに囚われてしまうことになるようです。	아쉽게 됐군. 죄인들의 영혼은 이곳에 영원히 갇히게 될 거야.	How unfortunate. The souls of these sinners will be imprisoned here forever.						0	
+22	身后的女人打断了她，松开了白布。	身後的女人打斷了她，鬆開了白布。	後ろに立っていた女はそう言うと、白い布を取り払った。	뒤에 있던 여인이 그녀를 가로막더니 눈에 감겼던 흰 천을 다시 풀어줬다.	The woman behind Cherno grabbed her and released the white cloth.						0	
+23	映入女孩眼帘的，是一张遍布结晶的扭曲面容。	映入女孩眼簾的，是一張遍布結晶的扭曲面容。	そして少女の目に映ったのは、結晶まみれになった歪んだ顔だった。	하지만 소녀의 눈에 비친 건 결정으로 뒤덮인 일그러진 얼굴이었다.	Before Cherno were the lifeless faces of the girls, warped by crystals.						0	
+24	呃啊……	呃啊……	ああ——	으악…	Wha...						0	
+25	啊啊啊……啊啊啊啊啊！！！	啊啊啊……啊啊啊啊啊！！！	あ、ああ……あああああ！！！	아아악… 으아아악!	Ah... AHHHH!!!						0	
+26	大主！接引使大人她……	大主！接引使大人她……	大司教！聖女様は……	교주님, 인도자님께서…	High Presbyter! The Great Emissary, she...						0	
+27	她过于软弱……	她過於軟弱……	臆病すぎた結果です。	나약해빠졌군…	She is much too weak...						0	
+28	之后，崩溃的女孩被关回自己的房间。	之後，崩潰的女孩被關回自己的房間。	その後、精神崩壊した少女は自分の部屋に閉じ込められた。	이후, 쓰러진 소녀는 자신의 방으로 돌려보내졌다.	After this breakdown, the girl was later shut back in her room.						0	
+29	连续好几日，没有任何人来打扰她，当然，也没有任何人来安慰她。	連續好幾日，沒有任何人來打擾她，當然，也沒有任何人來安慰她。	それから数日の間、彼女を訪れる人もなく、もちろん彼女を慰める人も現れなかった。	며칠 동안 그녀를 방해하는 사람은 아무도 없었고 그녀를 위로하는 사람도 없었다.	For several days, no one came to disturb her. Naturally, no one came to console her either.						0	
+30	只是一个人静静地在黑暗中等待，就像之前一样。	只是一個人靜靜地在黑暗中等待，就像之前一樣。	昔みたいに、暗闇の中で、一人で静かになにかを待っているだけだ。	단지 전처럼 혼자 어둠 속에서 기다리고 있을 뿐이었다.	She was all alone, waiting in the dark, just like before.						0	
+31	这就是对不称职的接引使的惩罚。	這就是不稱職的接引使的懲罰。	これこそが役目を果たせなかった聖女への罰なのだから。	이건 무능한 인도자에 대한 형벌이다.	This was the punishment for an incompetent Emissary.						0	
+32	（如果自己能再坚强一点就好了，如果自己再勇敢些就好了……）	（如果自己能再堅強一點就好了，如果自己再勇敢些就好了……）	（私がもっと強かったら。もっと勇敢だったら……）	(더 강해지고, 더 용감해지면 좋을텐데…)	(If only I were stronger... If only I had more courage...)						0	
+33	（如果自己……不是“接引使”就好了。）	（如果自己……不是「接引使」就好了。）	（私が、「聖女」じゃなかったらよかったのに。）	(만약 내가… '인도자'가 아니었다면 얼마나 좋을까)	(If only... I wasn't the Emissary.)						0	
+34	不停违背自己的意愿，伤害他人，是件很痛苦的事吧。	不停違背自己的意願，傷害他人，是件很痛苦的事吧。	自分が望まない形で人を傷付け続けるのは苦しいよなぁ。	끊임없이 자신의 뜻을 어기고 남에게 상처를 주는 것은 매우 고통스러운 일이지.	Always being forced to do things against your will and hurt people. It must be hard for you.						0	
+35	你是……？	你是……？	あなたは……？	넌…?	Who are you...?						0	
+36	但抱歉，现在还不是放弃的时候。	但抱歉，現在還不是放棄的時候。	でも、悪いけどまだ諦めていいタイミングじゃないぜ。	아직은 포기할 때가 아니야.	I'm sorry, but now isn't the time to give up.						0	
+37	面前的黑影没有回答她，而是将手轻轻地搭在了她的肩上。	眼前的黑影沒有回答她，而是將手輕輕地搭在了她的肩上。	目の前の影は彼女の質問に答えないまま、彼女の肩に優しく手を置いた。	눈앞에 있는 검은 그림자는 대답하지 않고 그녀의 어깨에 살며시 손을 얹었다.	The dark shadow in front of her didn't answer her question, instead just gently laying a hand on her shoulder.						0	
+38	你要活下去，琴诺，无论接下来还要经历什么，我都希望你<yincang>我们</>努力活下去。	你要活下去，琴諾，無論接下來還要經歷什麼，我都希望你<yincang>我們</>努力活下去。	生きてくれ、チェルノ。これから何を目にすることになろうが、お前には<yincang>私と一緒に</>頑張って生き続けて欲しいんだ。	살아남아야 해, 체르노. 앞으로 어떤 일이 있더라도, 나는 네<yincang>(우리)</>가 최선을 다해 살아남았으면 좋겠어.	You must survive, Cherno. No matter what happens, I hope you <yincang>(we)</> will fight to live on.						0	
+39	所以，来做个约定吧。接下来，就由我来背负所有的不幸与苦难。	所以，來做個約定吧。接下來，就由我來背負所有的不幸與苦難。	だから、約束してくれよ。これからは私が、すべての不幸や苦しみを背負ってやるからさ。	그럼 약속 하나 할까? 지금부터는 내가 모든 불행과 고난을 짊어질게.	So let's make a deal. From this moment forward, I will shoulder all of your misery and suffering.						0	
+40	而你，琴诺，你就去追寻属于自己的救赎。	而你，琴諾，你就去追尋屬於自己的救贖。	その代わりに、チェルノ。お前は自分の救済を探すんだ。	그리고 체르노는 체르노만의 구원을 찾아가는 거야.	And you, Cherno, can search for the salvation that belongs to you alone.						0	
+41	然后，等到你寻找到“真正的救赎”后……再将染满血污的我……	然後，等到你尋找到「真正的救贖」後……再將染滿血污的我……	そして、「本当の救済」を見つけた暁に、すでに血まみれになった私を……	그리고 '진정한 구원'을 찾고 나면… 그때는 피로 얼룩진 나를…	Then, when you find that "true salvation," you can take me, hands stained with blood, and...						0	
+42	小琴诺，小心！	小琴諾，小心！	チェルノちゃん！危ない！	체르노, 조심해!	Cherno, careful!						0	
+43	<orange>纯白之神</>，<orange>永恒乐土</>……就要降临了。接引使大人，请指引我们……请指引我们……	<orange>純白之神</>，<orange>永恆樂土</>……就要降臨了。接引使大人，請指引我們……請指引我們……	<orange>純白な神</>。<orange>エターナルパラダイス</>は……すぐそこまで来ています。聖女様、どうか我々に導きを……どうか……	<orange>순백의 신</>, <orange>영원한 낙원</>이… 곧 강림할 예정이야! 인도자님, 저희를… 저희를 인도해 주소서…	The <orange>lily-white deity</>, the <orange>eternal promised land</>... they are coming. Great Emissary, please guide us... Please guide us...						0	
+44	咦……	咦……	え……	아…	Huh...?						0	
+45	一反常态，眼前的异形之物突然发出了清晰的人声。	一反常態，眼前的異形之物突然發出了清晰的人聲。	見た目に反して、目の前の異形が発しているのは明らかに人の声だった。	평소와 달리 눈앞의 변이자한테서 사람의 목소리가 들려왔다.	Out of nowhere, the Changed in front of her uttered words in a clear human voice.						0	
+46	请指引我们，前往那片永恒乐土吧！	請指引我們，前往那片永恆樂土吧！	我々をエターナルパラダイスに導いてください！	저희를 영원한 낙원으로 인도해 주소서.	Please, guide us to the eternal promised land!						0	
+47	唔……	唔……	うっ……	하아…	Ah...						0	
+b-1											0	
+48	拉起琴诺	拉起琴諾	チェルノを支える	체르노를 붙잡는다.	Help Cherno up						0	
+49	没事吧，小琴诺？	沒事吧，小琴諾？	チェルノ、大丈夫か？	체르노, 괜찮아?	Are you okay, Cherno?						0	
+50	……不好意思又让您担心了。	……不好意思又讓您擔心了。	……すみません。また迷惑をかけてしまって……	… 아, 또 심려를 끼쳐 드려서 죄송해요.	...I'm sorry. I made you worried again.						0	
+51	琴诺紧紧地握着我的手，温热的汗液很快便浸湿了我的手套。	琴諾緊緊地握著我的手，溫熱的汗水很快就浸濕了我的手套。	そう言いながら、チェルノは私の手をきつく握り締めた。掌から、汗ばむ彼女の手の感触が伝わってきた。	체르노는 내 손을 꼭 쥐었다. 그녀의 따뜻한 땀줄기가 내 장갑을 적셨다.	Cherno gripped my hand tightly, and her warm sweat soon soaked through my glove.						0	
+52	放心，我不会松手的。	放心，我不會放手的。	落ち着いて。君の手を離したりしないから。	걱정마. 이 손 놓지 않을게.	Don't worry. I won't let go.						0	
+53	嗯……	嗯……	うん……	네…	Okay...						0	
+54	小琴诺真的没事吗？最近你好像经常在战斗中走神……	小琴諾真的沒事嗎？最近你好像常常在戰鬥中恍神……	チェルノちゃん、本当に大丈夫ですか？最近、よくぼーっとしてるようですが……	체르노, 괜찮은 거 맞아? 요즘 전투 중에 종종 정신이 없어 보여서…	Cherno, are you sure you're okay? It seems like you've been distracted on missions lately...						0	
+55	对不起……对不起……	對不起……對不起……	すみません……ごめんなさい……	죄송해요… 죄송해요…	Sorry... I'm sorry...						0	
+56	望着不断道歉的琴诺，我不禁思索起来。	望著不斷道歉的琴諾，我不禁思索起來。	しきりに謝るチェルノを見ていると、私の頭にある考えが浮かんだ。	계속해서 사과하는 체르노를 바라보며 나는 생각에 빠졌다.	I watched on as Cherno continued to apologize, and I couldn't help thinking about something.						0	
+57	……刚才明明那么危险，但莫尔索却没有出现，之前从来没有出现过这种情况。	……剛才明明那麼危險，但莫爾索卻沒有出現，之前從來沒有出現過這種情況。	……さっきのは確かに危険な状況だった。なのにムルソーが現れないなんて、今までなかったことだ。	… 방금 꽤 위험했는데도 모르소가 나타나지 않았어. 전에 이런 경우는 없었는데.	...She was clearly in danger just now, but Meursault failed to show up. That had never happened before.						0	
+58	喂喂，大英雄先生，你们那边的清扫任务进行得还顺利吗？	喂喂，大英雄先生，你們那邊的清掃任務進行得還順利嗎？	もしもし？そちらの討伐ミッションの進捗はどうですか、英雄さん？	여어~ 분석가님, 미션은 잘 진행되고 있나요?	Hello, Mr. Hero? Is your cleanup mission going well?						0	
+59	啊，一切正常，我们马上结束。	啊，一切正常，我們馬上結束。	あ、もちろん順調だよ。じきに終わる。	응, 여기는 문제없어. 곧 끝날 예정이야.	Ah, everything's fine. We're almost done.						0	
+60	算了，现在不是纠结这个问题的时候。	算了，現在不是糾結這個問題的時候。	まあいい。今はそんなことを考えている場合じゃない。	… 지금은 체르노에게 닥친 문제를 고민할 때가 아니다.	Forget it. It wasn't the time to think about that.						0	
+61	清扫任务已经完成，我们先撤退。	清掃任務已經完成，我們先撤退。	討伐ミッションは完了した。今撤退する。	클리닝 미션 완료, 이만 철수하도록 하지.	Cleanup mission complete. Time to withdraw.						0	
+62	恩雅姐，麻烦你回收下那个袭击了琴诺的异化人，它有点古怪。	恩雅姐，麻煩你回收一下那個襲擊了琴諾的異化人，它有點古怪。	エンヤ姉。さっきチェルノを襲った変異者を回収してくれないか？どうも気になることがあるんだ。	엔야 누님, 체르노를 공격했던 변이자를 회수해 주세요. 조금 특이한 점을 찾은 것 같아서요.	Enya, could you recover the Changed that attacked Cherno? There was something strange about it.						0	
+63	好嘞。	好的。	いいですよ。	응, 알겠어.	Roger~						0	
+64	在我离开零区的这段时间貌似发生了不得了的大事。凯郭尔突然下落不明，而由他建立的降临团也开始自内向外崩解。	在我離開零區的這段時間貌似發生了不得了的大事。凱郭爾突然下落不明，而由他建立的降臨團也開始自內向外崩解。	私がエリアゼロを離れていた間に、とんでもないことが起きていたようだ。ケゴールが突如行方不明になり、彼が立ち上げた降臨団も内部から崩壊していた。	제로 구역을 떠나 있는 동안 많은 일이 벌어진 것 같다. 케고르가 갑자기 실종되었고 강림단에서도 내부 분열이 일어나기 시작했다.	It seemed as if something major had happened while I was away from the Containment Zone. Kegaard's whereabouts were suddenly unknown, and his group of Adventists had begun to collapse from the inside out.						0	
+65	连锁反应，接下来则是天楼与整个零区，一切都陷入了混乱……随着<snowbreak>尤克特拉希尔</>的生长，泰坦污染加剧，异化人与泰坦失去了控制，而人类的生存纷争也接踵而至……	連鎖反應，接下來則是天樓與整個零區，一切都陷入了混亂…隨著<snowbreak>尤克特拉希爾</>的生長，泰坦汙染加劇，異化人與泰坦失去了控制，而人類的生存紛爭也接踵而至……	そこからはまるでドミノ倒しを見るようだった。スカイタワーもエリアゼロ全体も、なにもかもが混乱に陥ったのだ。<snowbreak>ユグドラシル</>の成長やタイタン汚染の悪化とともに、変異者とタイタンは制御が効かなくなり、人類の生存戦争も次第に激化の一途を辿って……	이어서 연쇄반응처럼 스카이 타워와 제로 구역, 모든 것이 혼란에 휩싸이기 시작했다. <snowbreak>세계수</>가 자라나면서 타이탄 오염이 심화됐고, 변이자와 타이탄이 제어를 잃었다. 이에 인류의 생존은 또다시 위협을 받게 된다…	This resulted in a chain reaction — first the Towers, then the entire Containment Zone had fallen into chaos... As <snowbreak>the World Tree</> grew, so did the Titagen contamination. The Changed and Titans wreaked more havoc, and humanity fought more amongst itself as it struggled to survive...						0	
+66	虽然对比耶洛沙的危机来说可能不算什么，但是依旧给留守在这里的队友造成了不小的压力。现在的我们，正在着手处理这些动乱。	雖然對比耶洛沙的危機來說可能不算什麼，但是依舊給留守在這裡的隊友造成了不小的壓力。現在的我們，正在著手處理這些動亂。	といっても、イェロシャの危機に比べれば可愛いものだが、それでもこの場を守っていた隊員たちには、無視できないプレッシャーとなっていた。現在の我々は、まさしくその一連の騒動の鎮圧に乗り出している最中というわけだ。	비록 옐로샤에 비하면 상황이 별것 아닌 것처럼 보일지 몰라도 남아 있는 동료들에겐 아직도 적지 않은 부담이 되고 있다. 현재 우리는 이러한 혼란을 수습하고 있는 상황이다.	Even though this seemed minor compared to the existential crisis in Yehrus, it had still placed a hefty amount of pressure on the operatives who stayed behind. Now, we had to deal with the ramifications.						0	
+67	各位，欢迎回来，琴诺小姐请往这边走，精神治疗室已经准备好了。	各位，歡迎回來，琴諾小姐請往這邊走，精神治療室已經準備好了。	おかえりなさい、皆さん。チェルノさんはこっちへ。メンタル治療室の準備はすでに完了しております。	다들 어서 오세요. 체르노 씨는 이쪽으로 오시고요. 정신 치료실은 이미 준비해 두었어요.	Welcome back, everyone. Miss Cherno, please follow me. The psychiatric treatment room is ready.						0	
+68	嗯……我知道了……	嗯……我知道了……	はい……わかりました……	네… 알겠습니다…	Okay... I know...						0	
+69	那一会再见，分析员。	那等下再見，分析員。	では、先に失礼しますね、分析員。	이따가 봬요, 분석가님.	See you soon, Adjutant.						0	
+70	和往常一样，琴诺每次作战回来都需要接受精神治疗，在医护人员的陪同下，她走向了与我们相反的方向。	像往常一樣，琴諾每次作戰回來都需要接受精神治療，在醫護人員的陪同下，她走向了與我們相反的方向。	チェルノは作戦行動から帰還すると、必ずメンタルケアを受ける決まりになっている。彼女は医療スタッフに付き添われながら、私達とは逆の方向に歩いていった。	평소와 같이 전투를 마치고 돌아올 때마다 정신을 치료받아야 했던 체르노는 의료진과 함께 우리의 반대 방향으로 향했다.	Just as before, Cherno required psychiatric treatment whenever she returned from combat. Following the medical staff member, she walked away from us.						0	
+71	欢迎回来分析员，您回收的异化人已被送进收容室。	歡迎回來分析員，您回收的異化人已被送進收容室。	分析員、よくご無事で。回収した変異者はすでに収容室に搬送しておきました。	오셨습니까, 분석가님! 회수한 변이자는 이미 수용실로 보냈습니다.	Welcome back, Adjutant. The Changed you recovered has already been taken to a holding room.						0	
+72	嗯，这个异化人有些古怪，作战记录我上传了，通知猫汐尔让她去调查一下。	嗯，這個異化人有點古怪，作戰紀錄我上傳了，通知貓汐爾讓她去調查一下。	ありがとう。あの変異者はどうも様子がおかしくてね。作戦記録はアップロードしておいたから、調べてもらうようマーシルに伝えておいてくれないか？	이번 변이자는 좀 이상해, 전투 기록을 남겼으니까 캣 시에라한테 한 번 가서 다시 좀 조사를 해달라고 해줘.	Great. There's something weird about that Changed. I uploaded our combat records and told Mauxir to check it out.						0	
+73	是！对了…卡罗琳小姐也让我通知您，半小时后请去一趟作战会议室。	是！對了……卡羅琳小姐也要我通知您，半小時後請去一趟作戰會議室。	わかりました！そういえば、カロリンさんから伝言を預かっています。30分後に、作戦会議室に来てほしいとのことです。	네! 아, 맞다… 캐롤린이 30분 뒤에 작전 회의실로 오라고 하던데요.	Understood. Oh... Miss Caroline also asked me to have you go to the command room in half an hour.						0	
+74	好，我洗个澡就去。	好，我洗個澡就去。	ああ。シャワーを浴びたらすぐ向かうよ。	알겠어, 먼저 씻고 좀 갈게.	Okay. I'll head there after I wash up.						0	
+75	刚回来就拜托你处理零区的麻烦事，辛苦了。	剛回來就拜託你處理零區的麻煩事，辛苦了。	お疲れ様です。帰還早々エリアゼロの面倒事の処理を手伝っていただいて、ありがとうございます。	오자마자 제로 구역의 일로 번거롭게 됐네요.	You just got back from Yehrus, but you're already dealing with the mess in the Containment Zone. Your hard work is much appreciated.						0	
+b-2											0	
+76	认真回复	認真回復	真面目に応じる	진지하게 대답하기.	Reply honestly						0	
+77	相比较耶洛沙的危机而言，已经轻松多了，我权当是在休假了。	相比較耶洛沙的危機而言，已經輕鬆多了，我就當做是在休假了。	イェロシャの危機と比べば大した事じゃない。ウォーミングアップみたいなもんさ。	옐로샤 때랑 비교하면 이건 거의 휴가나 다름없지.	Compared to the craziness in Yehrus, this is a piece of cake. I consider it a vacation.						0	
+78	你也不客套一下……	你也不客套一下……	随分はっきり言いますね……	그건 좀… 너무 막말하시는 거 아니에요?	Don't you think you should speak a little more formally...						0	
+79	我们之间的关系已经好到不用客套了吧，小情报官。	我們之間的關係已經好到不用客套了吧，小情報官。	私と情報官くんとの仲なら、もうそんな気遣い無用だろ。	우리 사이에 예의를 차릴 필요는 없잖아?	We're close enough — we don't need to be that formal, Miss Intelligence Officer.						0	
+80	唔……也……也对，咳嗯，说正事说正事。	唔……也……也對，咳嗯，說正事說正事。	む……まあ、一理ありますね。コホン、では本題に入りましょう。	크흠… 그… 그렇긴 하죠. 그럼 바로 본론으로 들어갈게요.	Um... Y—Yeah... Ahem, let's get to official business.						0	
+81	调侃她	調侃她	冗談を言う	그녀를 놀린다.	Tease her						0	
+82	那你可得好好补偿我才行，小情报官。	那你可要好好補償我才行，小情報官。	まったくだよ。感謝の気持ちとして、何かご褒美をくれてもいいんじゃないか？情報官くん。	나한테 보상을 좀 해줘야 하는 거 아닌가?	Then you should make it up to me, Miss Intelligence Officer.						0	
+83	哎？突然说这种话，你是想让我……	哎？突然說這種話，你是想讓我……	え？そんなこと言われても、一体私になにをしろと……	네? 갑자기 그런 말씀을 하시면…	Eh? Where did that come from? You want me to...						0	
+84	咳嗯，不对不对，又不是我亏欠你，差点就被绕进去了。	咳嗯，不對不對，又不是我虧欠你，差點就被繞進去了。	コホン！私としたことが、危うくノせられてしまうところでした。なんで私からご褒美なんてあげなくちゃいけないんですか。	크흠… 아, 아니지! 아니지! 제가 그렇다고 섭섭하게 해드린 적은 없잖아요! 당할 뻔했네.	Ahem... No, no. I don't owe you anything. You almost roped me into it.						0	
+85	那你还真好被绕进去。	那你還真好被繞進去。	それだけでノせられるのもどうかと思うけどな。	좀 당해주지 그래?	Looks like it's pretty easy to rope you into things then.						0	
+86	咳咳咳，说正事。	咳咳咳，說正事。	コホンコホン！では本題に入りますね。	크흠… 아, 아, 그럼 본론부터 말씀드릴게요.	Ahem... Let's get to official business.						0	
+87	总之，近期零区确实是在往好的方向发展了，一方面自然是因为你的归来，另一方面则是因为……	總之，近期零區確實是在好的方向發展了，一方面自然是因為你的歸來，另一方面則是因為……	とにかく、エリアゼロの状況は良い方向に向かっています。理由としては、あなたが無事帰還したこと以外にも、こういった事が起こっていたからです。	최근에 제로 구역은 좋은 방향으로 발전하고 있어요. 한편으로는 분석가님이 돌아왔기 때문이고, 다른 한편으로는…	Essentially, the situation in the Containment Zone has been improving lately. That's naturally been in part due to your return. But it's also due to...						0	
+88	卡罗琳轻触桌台，很快，零区内某处类似据点的全息影像便跳了出来。	卡羅琳輕觸桌台，很快，零區內某處類似據點的全像影像便跳了出來。	そう言いながらカロリンがテーブルに触れると、エリアゼロ某所の拠点らしき映像がホログラフとして映し出された。	캐롤린이 테이블을 가볍게 터치하자 제로 구역 거점과 비슷해 보이는 홀로그램 영상이 나타났다.	Caroline touched the table softly. Soon after, the holographic image of a stronghold somewhere in the Containment Zone appeared.						0	
+89	这个叫做<orange>赐福团</>的原本是降临团下级组织，但因为他们已经不再追随凯郭尔，而且行事风格与降临团也有所不同，所以还请将他们视为独立的组织。	這個叫做<orange>賜福團</>的原本是降臨團下級組織，但因為他們已經不再追隨凱郭爾，而且行事風格與降臨團也有所不同，所以還請將他們視為獨立的組織 。	この<orange>祝福団</>という名の団体は、元々降臨団の下部組織でしたが、今はケゴールに従っておらず、活動スタイルも降臨団とはかなり違っているため、もうそれとは無関係な組織だと認識してください。	<orange>은총단</>은 원래 강림단의 하위 조직인데 더 이상 케고르를 따르지 않고 행동 방식도 달라서 독립된 조직으로 여겨지고 있어요.	This is a group known as the <orange>Blessed Ones</>. They were once an Adventist sect. However, please regard them as an independent organization, seeing as they are no longer following Kegaard and their behavior is completely different from the Adventists.						0	
+90	他们成为了新的零区底层秩序维护者，并在城市空地设置了多处名为“赐福之地”的据点，以<orange>纯白之神</>向那些难民施以援手。	他們成為了新的零區底層秩序維護者，並在城市空地安排了多處名為「賜福之地」的據點，以<orange>純白之神</>向那些難民施以援手。	祝福団はエリアゼロ底層に新しくできた秩序の維持者になり、街の空き地に「祝福所」と呼ばれる拠点を複数作り上げ、<orange>純白な神</>という旗印を掲げて難民の救済に当たっています。	현재는 제로 구역의 빈민층들을 보호해 주고 있고 도시 공터에 '은총의 땅'이라는 거점을 두고 <orange>순백의 신</>이라는 명의로 피난민들에게 구원의 손길을 보내고 있죠.	They've come to power among the bottom levels of society in the Containment Zone, creating several strongholds they call "Blessed Lands" within the city to aid refugees on behalf of their <orange>lily-white deity</>.						0	
+91	看上去挺热闹的啊，不过，这段时间我们的人去干嘛了？	看起來還蠻熱鬧的啊，不過，這段時間我們的人去幹嘛了？	盛り上がっているようだな。でも、だったら会社は何をやっていたんだ？	조금 난잡하네… 근데 이런 상황이 발생하기까지 우리 쪽 사람들은 도대체 뭘 하고 있었던 거지?	Looks pretty exciting. But what were our people doing while all this was happening?						0	
+92	很遗憾，比起公司，大家似乎更愿意相信长期根植于零区的他们。	很遺憾，比起公司，大家似乎更願意相信長期根植於零區的他們。	残念ですが、皆さんは会社よりも、古くからエリアゼロに根を下ろしている彼らを信頼しているようです。	안타깝게도 사람들은 위그드라실보다 오랫동안 제로 구역에 뿌리를 뒀던 세력들을 더 믿고 있는 것 같았다.	Unfortunately, rather than trust Yggdrasil, everyone seems more willing to place their faith in this group since they've been in the Containment Zone for so long.						0	
+93	而且，他们不仅能提供充足的物资，还能确保据点周围的绝对安全。	而且，他們不僅能提供充足的物資，還能確保據點周圍的絕對安全。	充分な物資を提供するだけではなく、拠点周辺の絶対的な安全も保証してくれているようですからね。	게다가 그들은 충분한 물자를 제공할 뿐만 아니라 거점의 주변에 절대적인 안전을 보장해 주고 있어요.	They also provide everyone with enough supplies and can guarantee absolute safety in the areas around their strongholds.						0	
+94	你说绝对安全？	你說絕對安全？	絶対的な安全？	절대적인 안전이라고?	Absolute safety?						0	
+95	没错，这些据点从来没有被异化人和泰坦袭击过，按照他们的说法，这些地方是被那个“纯白之神”赐福了。	沒錯，這些據點從來沒有被異化人和泰坦襲擊過，按照他們的說法，這些地方是被那個「純白之神」賜福了。	その通り。彼らの拠点は一度も変異者やタイタンに襲われたことがないそうです。彼らの言葉を借りるなら、「純白な神」に祝福されているからだとか。	네, 그들이 머무는 곳은 변이자와 타이탄에게 습격당한 적이 없고 그들의 말에 따르면 '순백의 신'의 축복을 받았기 때문이라고 해요.	Yes. The Changed and Titans have never attacked their strongholds, which they claim were blessed by their lily-white deity.						0	
+96	祂在泰坦的簇拥下，踏着“雪”降临。身穿白裙，系着红色的领结。	祂在泰坦的簇擁下，踏著「雪」降臨。身穿白裙，繫著紅色的領結。	タイタンに囲まれ、「キオーン」を踏みながら降臨した神は、白いワンピースを着て、赤いリボンを結んでいた。	그분은 타이탄에 둘러싸인 채 '눈'을 밟으며 강림했어요. 흰 치마에 빨간 리본을 매고 있었죠.	Surrounded by Titans, she descended upon the Snow in a white gown and a red bow.						0	
+97	神说出祂的真名，名为“埃达”。	神說出祂的真名，名為「埃達」。	そして神は真名を口にした。「エッダ」と。	신께서는 그분의 본명을 '에다'라고 하셨어요.	The Divine pronounced her true name as Edda.						0	
+98	操控泰坦和异化人的能力……这一切又是埃达的手笔吗？	操控泰坦和異化人的能力……這一切又是埃達的手筆嗎？	タイタンと変異者を操れるほどの力……またエッダの仕業か？	타이탄과 변이자를 조종하는 능력… 설마 이 모든 게 에다의 작품인가?	The ability to control Titans and the Changed... Is this all Edda's doing?						0	
+99	不排除这种可能性，所以这次行动才必须拜托你。	不排除這種可能性，所以這次行動才必須拜託你。	その可能性もないとは言い切れません。だからこそ今回の作戦はあなたが頼りなのです。	그럴 가능성을 배제할 수 없기 때문에 이번 작전에 분석가님이 꼭 필요해요.	We can't rule it out, so you'll need to handle this mission.						0	
+100	就算你不拜托我，我也会去弄清楚的。	就算你不拜託我，我也會去弄清楚的。	頼まれなくても自分で調べるさ。	캐롤린이 이런 부탁을 안 했더라도 이런 사실을 알았더라면 나 혼자서라도 제대로 알아봤을 거야.	Even if you didn't ask me, I'd still want to go figure this out for myself.						0	
+101	毕竟就在2个小时前，嘴里喊着“纯白之神”的异化人才袭击了我们，而且根据猫汐尔的调查结果来看，那个异化人是最近才诞生的。	畢竟就在2個小時前，嘴裡喊著「純白之神」的異化人才襲擊了我們，而且根據貓汐爾的調查結果來看，那個異化人是最近才誕生的。	2時間前に、ちょうどその「純白な神」とやらを叫ぶ変異者に襲われたからな。しかも、マーシルの調査によると最近生まれたばっかりの変異者のようだ。	순백의 신을 외치는 변이자가 우리를 덮친 건 불과 2시간 전의 일이었고, 캣 시에라가 조사한 결과에 따르면 그 변이자는 최근에 탄생한 것으로 밝혀졌어.	After all, a Changed screaming about some "lily-white deity" attacked us only a couple of hours ago. And according to Mauxir's investigation, that Changed had only turned recently.						0	
+102	这样的话……请多加小心。	這樣的話……請多加小心。	そうですか……くれぐれも気をつけてくださいね。	그러면… 더 조심하셔야 할 것 같아요.	In that case... Please be careful.						0	
+103	好了，说一下今晚的行动吧。	好了，說一下今晚的行動吧。	では、今夜の作戦について説明しますね。	좋아요, 그럼 오늘 밤에 당장 해야 할 작전부터 말씀드릴게요.	Alright, let's talk about tonight's operation.						0	
+104	从在零区活动的线人口中得知，今天午夜他们似乎准备盛大的仪式来迎接纯白之神降临人间。而活动举办的地点，就是这儿，他们最大的据点，<orange>赐福集市</>。	從在零區活動的線人口中得知，今天午夜他們似乎準備盛大的儀式來迎接純白之神降臨人間。而活動舉辦的地點，就是這裡，他們最大的據點，<orange>賜福集市</>。	エリアゼロの情報提供者によると、今日の深夜に純白な神の降臨を祝う盛大な儀式が開催される予定です。場所はここ。拠点の中でも最大規模を誇る<orange>祝福市場</>です。	제로 구역에서 활동하는 제보자들의 소문에 따르면 금일 자정쯤 순백의 신이 세상에 강림한 것을 환영하는 성대한 의식을 준비할 예정이에요. 그리고 행사가 열리는 곳은 바로 이곳, 그들의 가장 큰 거점인 <orange>은총의 시장</>이죠.	Our informants in the Containment Zone reported that the Blessed Ones seem to be getting ready for some big ceremony at midnight tonight to welcome the lily-white deity's arrival. The event is going to be held here, at their biggest stronghold — the <orange>Blessed Bazaar</>.						0	
+105	当然，你可以随意挑选队员同行。	當然，你可以隨意挑選隊員同行。	もちろん、同行するメンバーはあなたに任せます。	물론 함께 가고 싶은 대원을 선택해서 동행하셔도 상관없어요.	Of course, you can pick any operative to go with you.						0	
+106	那我选恩雅。	那我選恩雅。	なら、エンヤにする。	그럼 엔야랑 같이 갈게.	Then I pick Enya.						0	
+107	好快！你都不用考虑一下吗？	好快！你都不用考慮一下嗎？	はやっ！もう少し慎重に考えなくていいんですか？	아니, 이렇게 빨리!? 고민도 안 하시고 결정하신 건가요?	That was fast! You don't want to think about it some more?						0	
+b-3											0	
+108	打趣回答	打趣回答	冗談を交えながら答える	농담으로 대답하기.	Answer jokingly						0	
+109	因为目标是G，所以不用犹豫。	因為目標是G，所以不用猶豫。	相手がGだからね。これ以上考える必要はないさ。	타깃은 G니까, 망설일 필요 없어.	We need someone who can fit seamlessly into a G. She is the natural choice.						0	
+110	G？哎？！等等，你说的该不会是……	G？哎？！等等，你說的該不會是……	G……ですって！？まさか……	G? 네?! 잠깐만요, 혹시 지금 말씀하시는 게…	G...? Eh!? Are you talking about...						0	
+111	Gray zone，灰色地带，我们的目的地是这个鱼龙混杂的集市吧。	Gray zone，灰色地帶，我們的目的地就是這個魚龍混雜的市集吧。	G、つまりグレーゾーンだ。いろんな人が入り混じっている市場に向かうんだろう？	Gray zone, 회색 지대, 목적지가 혼잡한 시장에 있잖아.	A gray zone. The target location is a civilian market, a non-military area filled with all kinds of people.						0	
+112	这种潜入调查行动自然是人越少越安全，而恩雅本身也对降临团和卧底行动比较熟悉，是无需犹豫的不二人选。	這種潛入調查行動自然是人越少越安全，而恩雅本身也對降臨團和臥底行動比較熟悉，是無需猶豫的不二人選。	こういう潜入行動は、人が少ないほど動きやすいんだ。それに、エンヤは元々降臨団や潜入調査に詳しいし、彼女以上の適任者はいないよ。	이런 잠입 수사는 사람이 적을수록 안전할 거야. 그리고 엔야는 강림단과 스파이 행동을 했던 적이 있어서 둘도 없는 적임자일 테고.	An infiltration mission like this is safer with fewer people, and Enya is familiar with both the Adventists and working undercover, so there's no doubt. She's perfect for this operation.						0	
+113	啊……嗯，我也是这么想的……嗯嗯，你说得对……	啊……嗯，我也是這麼想的……嗯嗯，你說得對……	あ……ええ、私もそう思っていたところです……うん、なるほど合理的ですね……	아… 네, 저도 그렇게 생각하고 있긴 했었어요… 분석가님의 말이 맞아요…	Ah... Yeah, that's what I was thinking... Exactly...						0	
+114	认真回答	認真回答	真面目に答える	진지하게 대답하기.	Answer sincerely						0	
+115	这种潜入灰色地带的调查行动自然是人越少越安全，而恩雅本身也对降临团和卧底行动比较熟悉，是无需犹豫的不二人选。	這種潛入灰色地帶的調查行動自然是人越少越安全，而恩雅本身也對降臨團和臥底行動比較熟悉，是無需猶豫的不二人選。	こういうグレーゾーンに潜入行動は、人が少ないほど動きやすいんだ。それに、エンヤは元々降臨団や潜入調査に詳しいし、彼女以上の適任者はいないよ。	이런 회색 지대의 잠입 수사는 사람이 적을수록 안전할 거야. 그리고 엔야는 강림단과 스파이 행동을 했던 적이 있어서 둘도 없는 적임자일 테고.	An infiltration mission into a gray zone like this is safer with fewer people, and Enya is familiar with both the Adventists and working undercover, so there's no doubt about it. She's perfect for this operation.						0	
+116	这么一说确实……抱歉，我不该质疑你的判断。	這麼一說確實……抱歉，我不該質疑你的判斷。	そう言われると確かに……すみません。一言余計でしたね。	듣고 보니 확실히 그러네요. 죄송해요… 분석가님의 판단을 의심하지 말았어야 했어요.	Well, when you put it like that... Sorry, I shouldn't question your judgment.						0	
+117	没事，谁会生小情报官的气呢。	沒事，誰會生小情報官的氣。	大丈夫だ。情報官くんの言葉に本気で気分を悪くする奴なんていないさ。	괜찮아. 정보관님에게 내가 설마 화를 내겠어?	It's alright. I could never get mad at you, Miss Intelligence Officer.						0	
+118	唔……别…别再用那个称呼叫我了！真是的，稍微夸你一下就得寸进尺，对方的情报有限，没人知道会有什么危险，给我认真点啊……	嗯……別……別再用那個稱呼叫我了！真是的，稍微誇你一下就得寸進尺，對方的情報有限，沒人知道會有什麼危險，給我認真點啊……	うっ……も、もうその呼び方はやめてくださいってば！まったく！ちょっと褒めるとすぐ調子に乗るんだから！私達にはごく限られた情報しかないんです。何が起きるか分からないんですから、もっと真面目に——	크흠… 그… 그 호칭은 이제 그만! 나 참, 조금만 칭찬하면 너무 앞서나가고 계시다니까… 상대방에 대한 정보가 한정되어 있어서 위험할 수도 있으니 항상 진지하게 임해주셔야 해요…	D—Don't call me that! Geez, if I give you an inch, you take a mile... We have limited intelligence on this new group, so there's no way of knowing how dangerous they might be. Please take this seriously...						0	
+119	总是紧绷着神经也不行吧，但还是谢谢卡罗琳为我操心了。	總是緊繃神經也不行吧，但還是謝謝卡羅琳為我操心了。	緊張のし過ぎも良くないからね。でも心配してくれてありがとう、カロリン。	항상 진지한 것도 좀 그렇잖아? 그래도 걱정해 줘서 고마워.	Well, it's not beneficial to be too uptight either... But thanks for worrying about me, Caroline.						0	
+120	嗯……那么这次战前会议先到此结束，晚点请提供更加详细的作战方——	嗯……那麼這次戰前會議先到此結束，晚點請提供更詳細的作戰方——	……では、事前会議はこれにて終了します。後でさらに詳しい作戦計画を提出——	음… 그럼 이번 회의는 여기서 끝내고 좀 더 자세한 작전 방안은 나중에 협의하도록 해요…	Yeah... Well, this pre-mission brief can end here. Please give me a more detailed operation plan lat—						0	
+121	喂，还没结束呢！	喂，還沒結束呢！	おい！話はまだ終わってねーだろ！	이봐, 아직 안 끝났다고!	Hey! Hold on!						0	
+122	作战指挥室的推拉门被一把扯开，身穿着白色寝服的少女岔着腿，皱着眉，向我投来了野兽般的目光。	作戰指揮室的推拉門被一把扯開，身穿著白色睡衣的少女岔著腿，皺著眉，向我投來了野獸般的目光。	作戦指揮室のドアが開かれた。白い寝巻姿の少女が仁王立ちになり、眉間にシワを刻みながら、こちらに野生動物のような鋭い視線を投げかけていた。	작전 지휘실의 문이 열리더니 흰 잠옷을 입은 소녀가 다리를 꼬고 얼굴을 찡그린 채 무서운 시선으로 나를 쳐다봤다.	As the door of the command room slid open, I saw a girl standing with her feet apart, looking at me with fierce eyes.						0	
+123	你是不是忘了一个人？	你是不是忘了一個人？	誰かひとり忘れてんじゃねーか？	뭔가 잊은 사람이 있는 것 같은데?	Didn't you forget someone?						0	
+124	琴诺，你的治疗还没结束，请先……	琴諾，你的治療還沒結束，請先……	チェルノ、あなたの治療はまだ終わってないんですよ。すぐに……	체르노, 아직 치료가 끝나지 않았어요. 일단…	Cherno, your treatment isn't finished yet. Please—						0	
+125	闭嘴！我在和playername说话的时候，其他人别插嘴。	閉嘴！我在跟playername說話的時候，其他人別插嘴。	黙れ！playernameと喋ってんだ。口を挟むんじゃねー。	닥쳐! 지금 playername하고 얘기 중이잖아. 끼어들지 마.	Shut up! Don't interrupt when I'm talking to playername.						0	
+126	呜……好强势。	嗚……好強勢。	うっ……すごい迫力ですね。	… 너무 강압적인 거 아니에요?	Wow... How assertive.						0	
+127	女孩迈开步子向我走来。	女孩邁開步子向我走來。	彼女は私に向かって大股で詰め寄ってきた。	소녀가 발걸음을 떼며 내게 다가왔다.	The girl began walking toward me.						0	
+128	她顺势想把胳膊搭在我的肩膀上，但是却因为身高原因，尝试失败了……	她順勢想把手臂搭在我的肩膀上，但是卻因為身高原因，嘗試失敗了……	ついでに腕を私の肩に回そうとしたけれど、それは身長差のせいで失敗に終わった。	그녀는 자연스럽게 내 어깨에 팔을 걸치려고 했지만, 키 때문인지 결국 실패했다…	She attempted to slide her arm around my shoulders, but failed somewhat awkwardly due to her lack of height...						0	
+129	……	……	……	…	...						0	
+130	咳嗯，这次行动算我一个。	咳嗯，這次行動算我一個。	コホン！私も連れていけ。	크흠, 이번 작전 말인데, 나도 끼워줘.	Ahem... Count me in for this mission.						0	
+131	就算我不答应你，你也会自己跟过来的吧。	就算我不答應你，你也會自己跟過來的吧。	断っても勝手に着いてくる気だろ。	내가 허락하지 않아도 알아서 따라올 거잖아.	Even if I don't, I know you'll follow me anyway.						0	
+132	那倒是，不过毕竟你是琴诺的分析员，她拜托我至少要和你打个招呼。	那倒是，不過畢竟你是琴諾的分析員，她拜託我至少要跟你打個招呼。	ったりめーだろ。お前はチェルノの分析員だから、挨拶ぐらいしといてくれってチェルノに言われてんだよ。	그건 그렇지. 넌 체르노의 분석가이기도 하니까. 안 그래도 너한테 말이라도 전해 달라고 부탁했어.	True. But you're Cherno's Adjutant, after all. She asked me to at least let you know.						0	
+133	她的意思吗？	她的意思嗎？	彼女の意志ってことか？	체르노가 그랬다고?	She wanted to come?						0	
+134	嗯，大概是因为和降临团有关，她觉得自己也能帮得上忙吧。	嗯，大概是因為跟降臨團有關，她覺得自己也能幫得上忙吧。	ああ。降臨団に関係することだから、自分も役に立てるって思ったんじゃねーか？	응, 강림단이랑 관련이 있어서 그런지 본인도 도와줄 수 있을 것 같다고 하던데.	Yes. It's probably because of her past with the Adventists, so she felt like she could help.						0	
+135	这点倒不假，不过莫尔索你自己呢？	這點倒不假，不過莫爾索你自己呢？	それは確かにそうだけど、ムルソーはどうなんだ？	그렇긴 한데… 모르소, 넌 어떻게 생각해?	That's true, but what about you, Meursault?						0	
+136	我自己？我随意，我就是个干活的，战斗的时候别拦着我就行。	我自己？我隨意，我就是個工作的，戰鬥的時候別攔著我就行。	私？私はどっちでもいいぜ。戦闘の邪魔さえしなけりゃ、後は好きにしろ。	나? 난 상관없지, 난 그냥 내 할 일만 하면 돼. 싸울 때 방해하지 말고.	Me? I'm fine either way, I just do the dirty work. Don't get in my way when I'm fighting and we won't have any problems.						0	
+137	如果没什么事的话，晚上公司楼下再碰头吧。	如果沒事的話，晚上公司樓下再碰頭吧。	そんじゃ、問題ねーなら今夜会社前で集合な。	별일 없으면 저녁에 회사 밑에서 다시 만나자고.	If that's all, then we will see you downstairs tonight.						0	
+138	像是在回避着什么一般，莫尔索转身准备离去。	像是迴避著什麼一般，莫爾索轉身準備離去。	まるで嫌な質問から逃げようとするみたいに、ムルソーは身を翻してその場を後にしようとした。	뭔가 회피하려는 듯 모르소는 몸을 돌려 떠났다.	As if she was avoiding something, Meursault turned around to leave.						0	
+139	等等，我还有一个问题。	等等，我還有一個問題。	待ってくれ。もうひとつ聞きたいことがあるんだ。	잠깐만, 한 가지만 더 물어볼게.	Wait. I have another question.						0	
+140	哈？	哈？	はあ？	응?	What?						0	
+141	上午琴诺被异化人袭击的时候，你不在场吗？最近你出场的频率好像变低了。	上午琴諾被異化人攻擊的時候，你不在場嗎？最近你出場的頻率好像變低了。	今日の午前中のことだ。チェルノが変異者に襲われたとき、君は何をやってたんだ？このところ、君の現れる頻度が減ってる気がするんだけど。	오전에 체르노가 변이자에게 습격당했을 때 말인데, 그때 없었어? 요즘 네가 잘 안 보이는 것 같아서.	When Cherno was attacked by that Changed this morning, you didn't show up. Where were you? It seems like you're showing up less and less recently.						0	
+142	……	……	……	…	...						0	
+143	所以，来做个约定吧。接下来，就由我来背负所有的不幸与苦难。	所以，來做個約定吧。接下來，就由我來背負所有的不幸與苦難。	だから、約束してくれよ。これからは私が、すべての不幸や苦しみを背負ってやるからさ。	그럼 약속 하나 할까? 지금부터는 내가 모든 불행과 고난을 짊어질게.	So let's make a deal. From this moment forward, I will shoulder all of your misery and suffering.						0	
+144	而你，琴诺，你就去追寻属于自己的救赎。	而你，琴諾，你就去追尋屬於自己的救贖。	その代わりに、チェルノ。お前は自分の救済を探すんだ。	그리고 체르노는 체르노만의 구원을 찾아가는 거야.	And you, Cherno, can search for the salvation that belongs to you alone.						0	
+145	然后，等到你寻找到“真正的救赎”后……再将染满血污的我……	然後，等到你尋找到「真正的救贖」後……再將染滿血污的我……	そして、「本当の救済」を見つけた暁に、すでに血まみれになった私を……	그리고 '진정한 구원'을 찾고 나면… 그때는 피로 얼룩진 나를…	Then, when you find that "true salvation," you can take me, hands stained with blood, and...						0	
+146	啊，那个时候我在睡觉。	啊，那個時候我在睡覺。	ああ、そのことか……寝てたんだよ。	아, 그때 난 자고 있었어.	Ah, I was asleep.						0	
+147	真的吗？	真的嗎？	本当か？	진짜?	Really?						0	
+148	……真的啦，真的，我又不是琴诺，不需要你操心，今晚我会全程在线的。	……真的啦，真的，我又不是琴諾，不需要你操心，今晚我會全程在線的。	……当たり前だろ？チェルノじゃねーんだから。心配しなくても、今夜はずっと起きといてやるよ。	… 진짜지 그럼, 난 체르노도 아니고 네가 걱정할 필요도 없어. 오늘 밤은 쭉 모르소 상태로 있을 거야.	...Yes, really. You don't need to worry about me like Cherno. I'll be there for the entire operation tonight.						0	
+149	莫尔索摆了摆手，消失在了走廊的尽头。	莫爾索擺了擺手，消失在了走廊的盡頭。	そう言うと、ムルソーは手を振りながら廊下の角に消えた。	모르소는 인사치레를 하고 복도 끝으로 사라졌다.	Meursault waved her hand and disappeared down the hallway.						0	
+150	呼……呼……	呼……呼……	はあ……はあ……	후… 후…	Ah... hah...						0	
+151	这具身体越来越难以操控了……	這具身體越來越難以操控了……	この体、どんどん制御が難しくなって来てんな……	왜지? 점점 제어가 힘들어지고 있어.	It's getting harder and harder to control this body...						0	
+152	真是的，为什么要关心我……我只是个工具而已……	真是的，為什麼要關心我……我只是個工具而已……	ったく、なんで私の心配をしてんだよ……ただの道具でしかねー私を……	너도 참… 나한테 맡기지… 단지 도구일 뿐인 나를…	Seriously, why do you need to care about me...? I'm just a tool...						0	
+153	不过，不久的将来，等到她和那个人的关系更近一步之后……	不過，在不久的將來，等到她和那個人的關係更近一步之後……	まあでも、遠くない将来、彼女があいつとさらに深い仲になったら……	하지만, 머지않아 그녀와 그 사람의 관계가 가까워지면…	But in the near future, when she grows closer to that person...						0	
+154	我就会彻底消失吧……	我就會徹底消失吧……	どのみち私は、きれいさっぱり消えちまうんだろうけどな……	난 완전히 사라지겠지…	I'll completely disappear...						0	

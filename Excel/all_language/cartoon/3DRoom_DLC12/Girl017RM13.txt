@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	2.3版本宿舍随机事件
+page1.2	怎么了，苔丝。很少看到你这么委屈的样子啊。	怎麼了，黛斯。很少看到你這麼委屈的樣子。	どうした、テス？そんな悲しそうな顔をしてるなんて珍しい。	왜 그래, 테스. 네가 이렇게 서러워하는 모습은 정말 드문 일인데.	What's wrong, Tess? You don't usually look this upset.						0	2.3版本宿舍随机事件
+page1.3	呜……高中的校服……穿不进去了。	嗚……高中的制服……穿不進去了。	うぅ……高校の制服が、もう着れなくなったの。	흑… 고등학교 교복이…. 안 맞아요.	*sniff* I tried putting on my old high school uniform, but... it doesn't fit anymore.						0	2.3版本宿舍随机事件
+page1.4	本来还想周末换上高中的校服和分析员约会，回忆一下过去的。	本來還想週末換高中的制服和分析員約會，回憶一下過去的。	週末に高校の制服を着て分析員とデートしながら昔のことを思い出すつもりだったのに。	주말에 고등학교 교복을 입고 분석가랑 데이트를 하며 옛 추억을 회상하려 했거든요.	I was hoping to wear it this weekend for our date... you know, for old times' sake.						0	2.3版本宿舍随机事件
+page1.5	……	……	……	……	...						0	2.3版本宿舍随机事件
+page1.6	在我安抚失落的苔丝时，芙提雅忽然出现了。她好像一开始就在旁边听到了我们的对话。	當我安撫失落的黛斯時，芙提雅忽然出現了。她好像一開始就在旁邊聽到了我們的對話。	落ち込んでいるテスをなだめていると、フリティアが急に現れた。彼女は最初から私たちの会話を傍で聞いていたようだった。	실망한 테스를 위로하고 있는 사이, 프티야가 갑자기 나타났다. 아마도 처음부터 옆에서 우리 대화를 듣고 있었던 것 같다.	(As I tried to comfort Tess, Fritia suddenly popped in. Seemed she'd overheard the whole conversation.)						0	2.3版本宿舍随机事件
+page1.7	苔丝高中的校服现在就不能穿了？芙提雅老师可是连初中时的校服穿起来都没问题哦。	黛斯高中的制服現在就不能穿了？芙提雅老師可是連國中時的校服穿起來都沒問題哦。	テス、もう高校の制服が着れなくなったの？フリティア先生はまだ中学の制服を余裕で着れるけど。	테스 고등학교 교복을 벌써 못 입는다고? 난 지금 중학교 교복도 잘 들어가는데.	You can't fit into your high school uniform anymore, Tess? I don't mean to brag, but I can even fit into my middle school uniform.						0	2.3版本宿舍随机事件
+page1.8	……	……	……	……	...						0	2.3版本宿舍随机事件
+page1.9	……	……	……	……	...						0	2.3版本宿舍随机事件
+page1.10	……	……	……	……	...						0	2.3版本宿舍随机事件
+page1.11	我突然想到我还有些事情，先走了……	我突然想到我還有些事情，先走了……	急用ができた、じゃあね……	아, 갑자기 해야 할 일이 생각나서, 먼저 가볼게…	I just remembered I have something to take care of. I'll... see you later.						0	2.3版本宿舍随机事件
+page1.12	芙提雅……没事吧？	芙提雅……沒事吧？	フリティア……大丈夫かな？	프티야… 괜찮은 거겠죠?	Is Fritia going to be okay...?						0	2.3版本宿舍随机事件
+page1.13	我觉得……她肯定没问题的。	我覺得……她一定沒問題的。	きっと……大丈夫だと思うが。	응… 괜찮아 보여.	I'm sure she'll be fine...						0	2.3版本宿舍随机事件
+page1.14	（不过，还是去安慰下她吧。）	（不過，還是去安慰她吧。）	（でもやっぱりあとで慰めてあげよう）	(그래도 가서 위로는 해줘야겠지.)	(Though, I should probably go check on her.)						0	2.3版本宿舍随机事件
+page1.15	分析员…周末……可以陪我去挑泳装吗？	分析員……週末……可以陪我去挑泳裝嗎？	分析員……週末、水着を選ぶのに付き合ってもらえる？	분석가… 주말에… 저랑 같이 수영복 좀 골라줄 수 있나요?	Adjutant... could you... help me pick out a new bathing suit this weekend?						0	2.3版本宿舍随机事件
+page1.16	虽然不知道下次去水上乐园是什么时候，但我想先准备好。	雖然我不知道下次去水上樂園是什麼時候，但我想先準備好。	今度サマーランドに行くのがいつになるかは分からないけど、事前に用意したいと思って。	다음에 수상 낙원을 또 갈지는 모르겠지만, 미리 준비해 두고 싶어서요.	I don't know when we'll go to the water park again, but I want to be prepared.						0	2.3版本宿舍随机事件
+page1.17	为了不错过下次……向分析员展示……！	為了不錯過下次……向分析員展示……！	次に……分析員に見せるチャンスを掴むために…！	다음에는… 분석가에게 뽐낼 수 있는 기회를 놓치고 싶지 않아요…	So that... when the time comes, I can show you my... hehe!						0	2.3版本宿舍随机事件
+page1.18	嗯！	嗯！	ああ。	알았어!	Absolutely!						0	2.3版本宿舍随机事件

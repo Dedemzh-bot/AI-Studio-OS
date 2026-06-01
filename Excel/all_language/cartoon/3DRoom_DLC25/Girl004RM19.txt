@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	呜哇，一定还有更好的实验方法……	嗚哇，一定還有更好的實驗方法……	うーん……もっといい方法がきっとあると思うんだけどね……	으으, 분명 더 좋은 실험 방법이 있을 텐데…	Ugh... There's definitely a better way to conduct these experiments...						0	2.5版本随机事件
+page1.2	芙提雅？	芙提雅？	フリティア？	왜 그래? 프티야?	Fritia?						0	2.5版本随机事件
+page1.3	绝不能容忍就这样让步……	絕對不能容忍就這樣讓步……	このまま妥協するのはいやだな……	절대 이렇게 물러설 수는 없어…	I can't just roll over and take this...						0	2.5版本随机事件
+page1.4	芙提雅，怎么了？	芙提雅，怎麼了？	フリティア、どうかしたのか？	무슨 일이야?	What's wrong, Fritia?						0	2.5版本随机事件
+page1.5	啊！是分析员啊，抱歉，我想问题想得太投入。	啊！是分析員啊，抱歉，我想問題想得太投入。	あ！分析員じゃん。ごめんね、考え事してて気づかなくて。	아! 분석가구나, 미안해, 문제에 너무 몰두 중이었어.	Ah! Adjutant! Sorry, I was lost in thought.						0	2.5版本随机事件
+page1.6	看你坐在这好久，眉头就没展开过。什么事儿让我们小老师都犯了难？	看你坐在這好久，眉頭就沒展開過。什麼事讓我們小老師都犯了難？	なにかあったのか？あんなに悩むなんて、君らしくない。	여기 앉아서 한동안을 굳은 표정으로 있던데… 무슨 일이 있어서 우리 프티야 선생님이 이렇게 어려움을 겪고 있는 거지?	You've been sitting here looking really focused for a while. What's on your mind, Professor?						0	2.5版本随机事件
+page1.7	哎呀，说起这个，真是气到我了！	哎呀，說起這個，真是氣到我了！	だって本当に頭にきたんだもん！	후, 생각만 해도 정말 화나!	Well, since you asked... I'm super mad!						0	2.5版本随机事件
+page1.8	卫城学院新发布了一批研究报告，你知道，我一直有关注这些。	衛城學院新發布了一批研究報告，你知道，我一直有關注這些。	アクロポリス学院から新しい研究報告が発表されてて、いつもみたいに確認してたんだ。	아크로폴리스 아카데미에서 새로 발표한 연구 보고서가 있는데, 분석가도 내가 평소에 이런 걸 관심있게 보는 거 알지?	The Academica Acropolis released a new collection of research papers. You know I always keep an eye on stuff like that.						0	2.5版本随机事件
+page1.9	嗯，这不是挺好的吗，怎么生气了？	嗯，這不是蠻好的嗎，怎麼生氣了？	ほう。それで？	잘 알고 있지. 근데 왜 화가 난 거야?	Yeah, but isn't that good? Why are you mad?						0	2.5版本随机事件
+page1.11	很多项目使用的研究方法太陈旧，得出的结果也无益于实际，只会白白浪费经费。	很多計畫使用的研究方法太陳舊，得出的結果也無益於實際，只會白白浪費經費。	それで、どの研究も使ってる方法が古すぎて、理論上の結果しか出てないし、経費も無駄にしてるものばっかりなんだよ。	프로젝트에 사용된 연구 방법들이 너무 구식이라서 결과는 안 봐도 뻔해. 그냥 예산만 낭비하는 꼴이지.	A lot of these projects used really outdated research methods, so the findings are useless. They were all just a complete waste of funding.						0	2.5版本随机事件
+page1.13	我提出了质疑，但她们却说我提出的理论过于前卫，无法被广泛认同，因此驳回了我的质疑。	我提出了質疑，但她們卻說我提出的理論過於前衛，無法被廣泛認同，因此駁回了我的質疑。	しかもその結果を疑ったら、「あなたの理論は前衛的すぎて大衆に認められません」って言われちゃって。	그래서 의문을 제기했는데, 내가 제안한 이론이 너무 현실 가능성이 없다고 하는 거 있지? 보편적으로 인정받을 수 없다면서 내 의문을 기각했어.	I brought up my concerns, but they just brushed me off. They rejected my ideas because they were "too radical" to be widely accepted.						0	2.5版本随机事件
+page1.15	到底是做真正有用的研究重要，还是所谓的被认同重要啊！	到底是做真正有用的研究重要，還是所謂的被認同很重要！	もー！有意義な研究と人に認めてもらえる研究、どっちが大事なんだよ！	현실적으로 진정성 있게 연구를 하는 게 중요하다고 생각하는 건지, 아니면 그냥 인정받고만 싶어서 의미 없는 연구에만 신경 써야 하는 건지!	Is recognition really more important than creating genuinely useful research!?						0	2.5版本随机事件
+page1.17	别急，科学研究这种事在芙提雅心中是神圣的，这一点我非常清楚。	別急，科學研究這種事在芙提雅心中是神聖的，這一點我非常清楚。	まあまあ。研究はフリティアにとって、神聖なことなんだよな。	너무 조급하게 생각하지는 마, 과학 연구가 프티야한테 정말 중요한 부분이라는 건 나도 잘 알고 있어.	Alright, take a breath. I know very well how sacred scientific research is to you, Fritia.						0	2.5版本随机事件
+page1.19	果然还是分析员最懂我了，你这么一说我好像不那么气愤了……	果然還是分析員最懂我了，你這麼一說我好像不那麼氣憤了……	うう、分析員だけだよ、わかってくれるの……あなたがいてくれて、なんだか落ち着いたかも……	역시 날 이해해 주는 건 분석가뿐이라니까… 네가 이렇게 말해주니까 나도 화가 좀 덜나…	Just as I thought, you understand me better than anyone, Adjutant. Hearing you say that, I don't really feel mad anymore...						0	2.5版本随机事件
+page1.21	在大厅闷了一天，不如一起出去走走吧。我来帮你出主意，怎么样？	在大廳悶了一天，不如一起出去走走。我來幫你出主意，怎麼樣？	ずっと考えてて疲れただろう。いっしょに散歩でもいかないか？歩きながら話そう。	로비에서 하루 종일 답답했을 텐데, 나가서 같이 산책이나 할까? 내가 같이 아이디어를 내줄게, 어때?	You've been cooped up in the hall all day, so why don't we go out for a walk? I'll tell you what I think. What do you say?						0	2.5版本随机事件

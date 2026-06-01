@@ -1,0 +1,23 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	瑟瑞斯？你在找什么吗？	瑟瑞斯？你在找什麼嗎？	シーリス？何を探してるんだ？	세리스? 뭘 찾고 있는 거야?	Siris? Are you looking for something?						0	
+page0.2	是分析员啊~	是分析員啊~	あ、分析員～	분석가님이시네요~	Oh! Hi, Adjutant.						0	
+page0.3	需要帮忙吗？	需要幫忙嗎？	手伝ってあげようか？	도와줄까?	Need some help?						0	
+page0.4	不用不用，我只是在等人。	不用不用，我只是在等人。	いや、待ち合わせしてるだけ。	괜찮아요. 그냥 누굴 기다리고 있어요.	Nope! I'm just waiting for some people.						0	
+page0.5	等人？	等人？	待ち合わせ？	기다리고 있다고?	Waiting for some people?						0	
+page0.6	嗯嗯，在等妮塔和猫汐尔。	嗯嗯，在等妮塔和貓汐爾。	うんうん、ニタとマーシルを待ってるの。	네, 니타랑 시에라요.	Yep, I'm waiting for Nita and Mauxir.						0	
+page0.7	是约好了吗？	跟她們約好了嗎？	約束してたんだ？	약속을 잡은 거야?	Are you guys hanging out?						0	
+page0.8	昨天妮塔拉着我、琴诺和猫汐尔一起打麻将。结果琴诺赢得最多，妮塔输得最多，然后琴诺说今天做好吃的感谢大家。	昨天妮塔拉著我、琴諾和貓汐爾一起打麻將。結果琴諾大贏，妮塔輸慘了，然後琴諾說今天要做好吃的感謝大家。	昨日はニタに誘われてチェルノとマーシルも一緒に麻雀したの！チェルノがいっぱい勝ったから。今日はチェルノがみんなに美味しいもの作るって！	어제 니타가 저랑 체르노, 그리고 시에라한테 같이 마작을 하자고 했어요. 체르노가 계속해서 이겼고, 니타는 계속해서 졌어요. 그러고 나서 체르노가 감사의 의미로 오늘 맛있는 걸 만들어 주기로 했어요.	Yesterday, Nita made Cherno, Mauxir, and me play mahjong with her. Cherno won the most, and Nita lost the most, so Cherno said she's going to treat us today as a thank-you.						0	
+page0.9	而且是要做上次那个超好吃的酸酸辣辣章鱼猪蹄浓汤！	而且是要做上次那個超好吃的酸酸辣辣章魚豬腳濃湯！	それでこの間の超美味しい酸っぱ辛いたこ豚足スープを作る予定！	지난번에 맛있게 먹었던 시큼하면서 매운 쭈꾸미족발탕을 만들어 주기로 했어요!	And she's going to make that super delicious "hot and sour octopus pork knuckle soup" she made last time!						0	
+page0.10	你看起来很期待啊……	你看起來很期待啊……	随分期待してるな……	엄청나게 기대하고 있나 보네…	(Force a smile) Mmm. You really like her cooking, huh...?						0	
+page0.11	嗯嗯！	嗯嗯！	うんうん！	네!	Yep!						0	
+page0.12	不过……妮塔和猫汐尔还没来呢，不知道是不是忘记时间了，我昨天明明还提醒过最好记个备忘录的。	不過……妮塔和貓汐爾還沒來呢，不知道是不是忘記時間了，我昨天明明還提醒過她們最好記個備忘錄的。	でも……ニタとマーシルはまだ来ていないね。忘れたのかな？リマインダー付けた方がいいって昨日みんなに注意してあげたのに。	그런데… 니타와 시에라가 아직 오지 않았어요. 시간을 잊어버렸을까봐 걱정이에요. 어제 분명 시간을 메모해 놓으라고 했었는데.	But Nita and Mauxir still aren't here... Maybe they forgot the time? I definitely reminded them to make a note of it yesterday.						0	
+page0.13	人有的时候，是会故意忘记的（超小声）……	人有的時候，是會故意忘記的（超小聲）……	うーん……それは忘れてしまったのかもしれないよね、わざとね……	사람은 가끔 일부러 잊기도 해(아주 작은 목소리로)…	(Under your breath) Sometimes, people might purposefully "forget"...						0	
+page0.14	嗯？分析员你刚刚说了什么吗？	嗯？分析員你剛剛有說話嗎？	え？分析員、何か言った？	네? 분석가님, 방금 뭐라고 하셨나요?	Hm? Did you say something, Adjutant?						0	
+page0.15	没、没什么！那个……要不你自己去琴诺那儿吧，我其实正好有任务要安排妮塔和猫汐尔做。	沒、沒什麼！那個……要不然你自己去找琴諾吧，其實我剛好有任務要安排妮塔和貓汐爾去執行。	い、いや！その……先にチェルノのところに行ったら？ちょうどニタとマーシルに任せたいミッションがあって。	아, 아니야! 그게… 아니면 혼자서 체르노를 찾아가 봐. 마침 니타와 시에라에게 시켜야 할 미션이 있었거든.	N—Nope! Well... why don't you just hang out with Cherno by yourself? I actually have a mission for Nita and Mauxir to handle anyway.						0	
+page0.16	（还是帮帮妮塔和猫汐尔吧）	（還是幫幫妮塔和貓汐爾吧）	（やっぱりニタとマーシルを助けよう）	(아무래도 니타와 시에라를 도와주는 게 좋겠지)	(I'd better save Nita and Mauxir.)						0	
+page0.17	这样啊……可是琴诺说做了好多呢。只有我肯定吃不完的。	這樣啊……可是琴諾說做了好多呢。只有我肯定吃不完的。	そうか……でもチェルノはたくさん作ったって言ってたから、私だけじゃ絶対食べきれないよ。	그렇군요… 하지만 체르노 씨가 많이 만든다고 했어요. 저 혼자서는 다 못 먹을 거예요.	Oh, really? But Cherno said she made a lot... I won't be able to finish it all alone.						0	
+page0.18	对了！那分析员一起去吧！分析员个子大，一定能吃很多！	對了！那分析員一起去吧！分析員是大個子，一定能吃很多！	そうだ！分析員も一緒に行こうよ！分析員は背が高いし、きっとたくさん食べれる！	맞다! 그럼 분석가님도 같이 가요! 분석가님은 덩치가 있으니 많이 드실 수 있을 거예요.	Oh, I know! You can come with me, Adjutant! You're big, so you must be able to eat a lot!						0	
+page0.19	啊！？	什麼！？	ええ！？	뭐!?	Huh!?						0	
+page0.20	不了不了不了，我也还有事要做，那我先告辞了！	不了不了不了，我也還有事要做，那我先告辭了！	いやいや、私も用事があるし、遠慮するよ！	아, 아니, 아니야! 아직 할 일이 있어서 먼저 실례 좀 할게!	No, no, no — I have a lot of stuff to do. Gotta run!						0	
+page0.21	真遗憾呢，那下次再一起去吧！拜拜~	真遺憾呢，那下次再一起去吧！拜拜~	残念だね。じゃあ今度また一緒に行こう！またね～	아쉽네요… 그럼 다음에 같이 가요! 안녕~	What a pity, next time then! Bye!						0	

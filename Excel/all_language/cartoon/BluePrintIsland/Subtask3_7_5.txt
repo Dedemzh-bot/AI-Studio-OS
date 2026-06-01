@@ -1,0 +1,11 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	可惜只找到了这些零件。那个“海妖”，看来不止一个。	可惜只找到了這些零件。那個「海妖」，看來不止一個。	残念ながら、部品しか見つからなかった。あの「セイレーン」、どうやら一体だけじゃないらしい。	아쉽게도 이 부품들밖에 못 찾았네. 그 '세이렌'은 한 마리가 아닌 것 같아.	Too bad we only found these components. Looks like there's more than one "sea monster."						0	dlc30蓝图岛对话
+page1.2	现在放弃还太早了，尖尖耳，启动信息追踪技术！	現在放棄還太早了，尖尖耳，啟動資訊追蹤技術！	諦めるのはまだ早い。ウサミミ、情報追跡技術を起動！	아직 포기하기엔 이르다고. 뾰족귀, 정보 추적 기술을 가동해!	It's still too early to call it quits. Sharpear, fire up your tracking function!						0	dlc30蓝图岛对话
+page1.3	追踪虫洞构筑中……	追蹤蟲洞構築中……	追跡ワームホール構築中……	웜홀 구축 추적 중…	Constructing wormhole for tracking...						0	dlc30蓝图岛对话
+page1.4	竟然还会那种技能吗！	竟然還會那種技能嗎！	そういうのもできるのか？	그런 스킬도 쓸 줄 안다고?!	Wait, you can do that!?						0	dlc30蓝图岛对话
+page1.5	不过，讨伐“海妖”这种事，只有我们两个够吗？	不過，討伐「海妖」這種事，只有我們兩個夠嗎？	でも、「セイレーン」を討伐するのに、ふたりだけで足りるのかな？	하지만 우리 둘만으로 '세이렌'을 토벌할 수 있을까?	Still, is just the two of us enough to take on the "sea monster"?						0	dlc30蓝图岛对话
+choice01	和你在一起就够了。	和你在一起就夠了。	君と一緒なら十分だよ	너와 함께라면 충분해.	You're all I need.						0	dlc30蓝图岛对话
+page2.1	呜哇，是直球攻击，我中了直球攻击。	嗚哇，是直球攻擊，我中了直球攻擊。	うわっ、ド直球じゃん！困っちゃうな。	으악, 직구 공격이다. 직구 공격을 맞았어.	Whoa, that's a straight-up confession — a total strike!						0	dlc30蓝图岛对话
+page2.2	不可以在这种时候退缩吧！要上了！安卡希雅！	不可以在這種時候退縮吧！要上了！安卡希雅！	こんな時、尻込みしてはダメだ！行くぞ、アカシア！	이럴 때 물러서면 안 되지! 가자! 아카시아!	No backing out now! Let's go, Acacia!						0	dlc30蓝图岛对话
+page2.3	好啦好啦~随便你怎么做都可以啦~	好啦好啦~隨便你怎麼做都可以啦~	はいはい、わかったよ～	그래, 그래~ 네 맘대로 뭐든 해~	Alright, alright~ I'll always follow your lead.						0	dlc30蓝图岛对话

@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	虽然比想象中多花了些时间，不过总归是把礼物找齐了。	雖然比想像中多花了些時間，不過總歸是把禮物找齊了。	思ったより手間はかかったけど、これで全部揃ったな。	생각보다 시간이 더 걸렸지만, 어쨌든 선물은 다 모았네.	It took a bit longer than expected, but I finally found all the gifts.						0	3.4版本星祈心愿宿舍剧情
+page1.2	嗯，今天也是充实的一天。	嗯，今天也是充實的一天。	うん、今日も充実した一日だった。	그래, 오늘도 알찬 하루였어.	Mm. Another full and satisfying day.						0	3.4版本星祈心愿宿舍剧情

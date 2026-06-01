@@ -1,0 +1,107 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	滴滴滴——	滴滴滴——	ピー、ピー……	따르릉…	*beep, beep, beep—*						0	
+2	唔嗯……	唔嗯……	う～ん……	으음…	Huh...?						0	
+3	闹钟比平时起得要早，今天明明是休息日……等等……休息日？	鬧鐘響得比平時早，今天明明是休假……等等……休假？	アラームが鳴るのがやけに早いな。今日は休みなのに……待てよ。休み？	알람 시계가 평소보다 일찍 울렸다. 오늘은 휴일인데… 잠깐만… 휴일?	My alarm clock had woken me up earlier than usual, even though it was my day off... Wait... day off!?						0	
+4	啊，想起来了，今天是和恩雅约好去参加一场特殊“见面会”的日子……	啊！想起來了，今天是和恩雅約好去參加一場特殊「見面會」的日子……	ああ、そうだった。今日はエンヤと特別な「ミーティング」に参加するって約束してたんだった……	그렇다, 오늘은 엔야와 특별 '팬미팅'에 가기로 한 날이었다…	I suddenly remembered I'd agreed to join Enya for a special "meet-and-greet" today...						0	
+5	好慢……分析员哥哥还没到吗？	好慢……分析員哥哥還沒到嗎？	おそいなぁ……分析員のお兄ちゃん、まだなの？	늦네요… 분석가 오빠는 아직이에요?	The Adjutant still isn't here? So slow...						0	
+6	他被床单先生吃掉了吗？	他被床單先生吃掉了嗎？	布団に食べられちゃったんじゃない？	이불 아저씨한테 잡아먹힌 거 아닐까요?	Did he get eaten by the Bogeyman?						0	
+7	床单先生可不是分析员的对手哦。	床單先生可不是分析員的對手喔。	布団じゃ分析員の敵じゃないですよ。	분석가는 이불 아저씨 따위에 잡아먹힐 사람이 아니야.	The Bogeyman is no match for the Adjutant.						0	
+8	哎？	欸？	え？	엥?	Huh?						0	
+9	他可是率领海姆达尔部队多次出入零区，解决了天楼纷争并亲手瓦解了董事会阴谋的大英雄呢。	他可是率領海姆達爾部隊多次出入零區，解決了天樓紛爭並親手瓦解了董事會陰謀的大英雄呢。	彼はヘイムダル部隊を率いてエリアゼロに入っては、スカイタワーでの紛争を解決したり、理事会の陰謀を瓦解させて来た英雄ですからね。	그는 헤임달 부대를 이끌고 제로 구역을 수차례 드나들며, 스카이 타워 분쟁을 해결하고 이사회의 음모를 무산시킨 대영웅이거든.	He's a big hero! He's led the Heimdall Force in and out of the Containment Zone several times, handled the Towers Dispute, and personally exposed the Board's schemes.						0	
+10	区区床单先生，在他手下绝对撑不过三回合。	區區床單先生，在他手下絕對撐不過三回合。	布団なんて、彼にかかれば3ラウンドももちませんとも。	그러니까 이불 아저씨 따위는 그를 상대로 3초도 못 버틸걸.	The puny Bogeyman wouldn't last a minute against him.						0	
+11	呜哇——！	嗚哇——！	わぁ─！	와아!	Whoa—!						0	
+12	所以大家不用担心，他这会儿说不定已经在来的路上了。	所以大家不用擔心，他說不定已經在來的路上了。	だから心配しなくても、今に来てくれますよ。	그러니까 걱정하지 마, 아마 오는 중일 거야.	So don't you worry — he's probably on his way here right now.						0	
+13	恩雅姐姐，再和我们说说分析员哥哥的故事吧！拜托了~	恩雅姐姐~~再多跟我們說說分析員哥哥的故事吧！拜託嘛~	エンヤ姉さん、もっと分析員兄ちゃんの話をして？お願い～	엔야 언니, 분석가 오빠의 이야기 좀 더 들려주세요! 부탁드려요~	Miss Enya, tell us a story about Mr. Adjutant again! Please~						0	
+14	好呀，那姐姐再讲讲分析员在水上乐园闯关的故事吧~	好啊，那姐姐再講講分析員在水上樂園闖關的故事吧~	うん、いいよ、じゃあ分析員が水上楽園で冒険してたときの話をしますね～	좋아, 그럼 언니가 수상 낙원에서 분석가가 관문을 돌파한 이야기를 들려줄게~	Alrighty, then I'll tell you the story of the Adjutant's treasure hunt at the water park~						0	
+15	哦——！	喔——！	おおー！	와!	Yay—!						0	
+16	唔，要从哪里说起呢……	唔，要從哪裡說起呢……	そうですね。じゃあ、どこから……	음, 어디서부터 이야기를 시작해야 하나…	Hmm, where should I start...						0	
+17	久等了，床单先生被我制服了。	久等了，床單先生被我制伏了。	おまたせ、布団をやっつけるのに時間がかかっちゃった。	오래 기다렸지? 이불 아저씨를 제압하고 왔다.	Sorry to keep you waiting. I had to take care of the Bogeyman.						0	
+18	呜哇啊啊——！！！	哇啊啊啊——！！！	わぁあああ！！！	와아아아!!!	WHOA—!!!						0	
+19	推开天台大门的瞬间，便被孩子们的欢呼声淹没了。	推開天臺大門的瞬間，我便淹沒在了孩子們的歡呼聲中。	屋上の扉を開けた瞬間、子供たちの歓声があがった。	옥상 문을 열자, 아이들의 환호성이 울려 퍼졌다.	The second I pushed open the terrace door, my voice was drowned out by the cheering children.						0	
+20	是分析员哥哥。	是分析員哥哥。	分析員お兄ちゃんだ！	분석가 오빠다!	It's Mr. Adjutant!						0	
+21	哇！	哇！	え――！	와!	Wow!						0	
+22	这把枪是真的吗？好酷！	這把槍是真的嗎？好酷！	この銃って本物？かっこいい！	그거 진짜 총이에요? 멋져요!	Is that gun real? Awesome!						0	
+23	等等，那个很危险不能随便乱碰……	等等！那個很危險不能隨便亂碰……	だめだめ、危ないから触っちゃ……	잠깐, 그건 위험하니까 함부로 만지면 안 돼…	Wait, that's dangerous. It's not a toy...						0	
+24	身穿嫩黄制服的她们就像是一群胖嘟嘟的小蜜蜂，将手足无措的我团团围住。	身穿嫩黃制服的她們就像是一群群胖嘟嘟的小蜜蜂，將手足無措的我團團圍住。	淡い黄色の制服を着たみんなはまるで丸いミツバチたちのように、うろたえる私を取り囲んでいた。	누르스름한 제복을 입은 그녀들은 마치 통통한 꿀벌 떼처럼 쩔쩔매는 나를 겹겹이 에워쌌다.	In their bright yellow uniforms, they were like a swarm of energetic bees surrounding me and leaving me helpless.						0	
+25	虽然只有七八个孩子，但是却意外难脱身……	雖然只有七、八位孩子，但卻意外地難脫身……	たった7、8人の子供相手なのに、意外とままならないものだ……	겨우 일고여덟 명의 아이들이었지만, 의외로 빠져나가기 힘들었다…	There were only seven or eight kids, but they were harder to escape from than a horde of Changed...						0	
+b-1											0	
+26	用眼神向恩雅求助。	用眼神跟恩雅求助。	エンヤに助けを求める視線を送る。	엔야에게 도움의 눈길을 보낸다.	I pleadingly looked at Enya for help.						0	
+27	看到我窘迫的样子恩雅竟忍不住笑出了声，但好在她很快便察觉到了我的难处。	恩雅看到我窘迫的樣子竟然忍不住笑出了聲，但幸好她很快便察覺到我的難處。	最初こそ笑って見ていたエンヤも、私の苦境に気付いてくれたようだった。	난감해 하는 나를 본 엔야는 웃음을 터뜨렸지만, 다행히도 나의 곤란함을 금세 눈치챘다.	She couldn't help but laugh when she saw my distressed expression. Thankfully, she quickly detected my predicament.						0	
+28	谁先回到自己位子上，谁就能先拿到分析员哥哥的礼物哦。	誰先回到自己的位子上，誰就能先拿到分析員哥哥的禮物喔。	大人しく一番に席に戻れたお友達には、分析員のお兄さんからプレゼントが貰えますよ。	먼저 제자리로 돌아가는 어린이는 분석가 오빠가 주는 선물을 받을 수 있어.	Whoever gets back to their seat fastest will get their present from Mr. Adjutant first~						0	
+29	让姐姐看看，第一名是谁呢~	讓姐姐看看，第一名是誰呢～	さぁて、1位は誰かな～	자, 누가 1등일까~	Let me see, who is the fastest~?						0	
+30	是我是我！	是我是我！	私、私だよ！	저요, 저요!	Me, me!						0	
+31	终于脱险了……	終於脫身了……	助かったよ……	드디어 벗어났다…	I finally escaped...						0	
+32	抱歉分析员，这些孩子让你为难了吧。	抱歉分析員，這些孩子造成你的困擾了吧。	ごめんなさい、分析員。子供たちが困らせてしまって。	미안해. 분석가, 아이들 때문에 곤란했지?	Sorry that the kids are giving you a hard time, Adjutant.						0	
+33	确实有点，不过怎么说呢……没想到我会这么受欢迎。	確實有一點，但怎麼說呢……沒想到我這麼受歡迎。	いや、困るほどでもないさ。……まさか、こんなに歓迎されるとは思ってなかったからね。	조금요. 그런데… 제가 이렇게 환영받을 줄은 몰랐네요.	A little, but how should I put it...? I guess I wasn't expecting to be so popular.						0	
+34	呵呵呵，分析员自信一点嘛。	呵呵呵，分析員有一點自信嘛。	うふふ。もっと自信を持ってくださいよ、分析員。	후후후. 분석가, 자신감을 가져.	Hehehe, you should be more confident, Adjutant.						0	
+35	这些孩子都是之前我们从逐光者手中救下来的，她们对你的感情，可不光光只有崇拜哦。	這些孩子都是我之前從逐光者手中救出來的，她們對你的感情可不是只有崇拜而已喔。	この子供たちはみんな、私たちが逐光者（ちくこうしゃ）から助けた子供です。分析員に対するみんなの気持ちは、ただの崇拜だけじゃないんですよ。	이 아이들은 모두 이전에 우리가 축광단으로부터 구해낸 아이들인데, 이 아이들이 너에 대한 감정은 단지 숭배만은 아니야.	These are all children that we saved from the Light Chasers. What they feel for you isn't simple admiration.						0	
+36	你这么一说我的心理负担更重了……说起来“见面会”具体要做些什么呢？	聽你這樣說讓我更有壓力了……話說回來「見面會」要做些什麼呢？	そう言われるとますます荷が重いな……それより、「ミーティング」って具体的にどうすればいいんだ？	그렇게 말하니 더 부담스러운걸요… '팬미팅'에서는 구체적으로 뭘 하면 되나요?	Hearing you say that gives me even more pressure... By the way, what do I need to do at this meet-and-greet?						0	
+37	嗯……	嗯……	うーん……	음…	Well...						0	
+38	什么都不用做~分析员只用待在这里就好，只是一个上午，可以拜托分析员吗？	什麼都不用做～分析員只要待在這裡就好，只是一個上午，可以嗎？	特に何もしなくていいですよ。分析員は、昼までここにいるだけでいいんです。頼めますか？	아무것도 안 해도 돼~ 그냥 여기에 있기만 하면 돼. 분석가, 오전 시간만 부탁해도 될까?	You don't need to do anything special except hang around here~ It's just one morning. Can I bother you to do that, Adjutant?						0	
+39	一个上午当然没有问题，但真的只用“待在这里”吗？	一個上午當然沒有問題，但真的只要「待在這裡」嗎？	そりゃもちろんだけど、本当にいるだけでいいのかな？	오전 시간은 문제 없지만, 정말 단지 여기에 '있기만' 하면 되나요?	One morning is no problem, but do I really just need to "hang around"?						0	
+40	也是，什么都不做确实怪怪的。	也對，什麼都不做好像也怪怪的。	まあ、何もしないっていうのも確かにやりにくいですね。	하긴, 아무것도 안 하는 건 좀 이상하겠구나.	Well, now that you mention it, doing nothing would be weird.						0	
+41	那……要不大家一起来做游戏吧？平时这个点正好是“户外游戏时间”哦。	那……不然大家一起來玩遊戲吧？平時這個時間正好是「戶外遊戲時間」喔。	それじゃ……みんなでゲームをしましょうか？いつもなら、今は「お外で遊ぶ時間」ですからね。	그럼… 아이들과 함께 게임하는 건 어때? 평소 이 시간은 아이들의 '야외 게임 시간'이거든.	Then... how about we all play a game together? We normally have outdoor playtime at this time.						0	
+42	户外游戏时间？	戶外遊戲時間？	お外で遊ぶ時間？	야외 게임 시간이요?	Outdoor playtime?						0	
+43	嗯，这是幼儿园的规矩。不过说起来，今天要玩什么游戏还没定呢，不如分析员来决定？	嗯，這是幼稚園規定的。話說回來，還沒決定好今天要玩什麼遊戲呢，不如分析員來決定？	ええ。園の方針なんです。ただ、そう言えば何をするかはまだ決めていませんでしたね。分析員さんに決めて貰おうかしら？	응, 이건 유치원의 규칙이야. 그런데 오늘은 어떤 게임을 할지 아직 정하지 않았어. 분석가가 정해 볼래?	Yep, those are the kindergarten's rules. But we haven't decided on a game to play today yet. Why don't you choose, Adjutant?						0	
+44	大家没有意见吧~	大家沒有意見吧～	みんな～それでいいかな～	다들 괜찮지~?	Is everyone okay with that~?						0	
+45	没有——	沒有——	いいよ～	네!	Okay—!						0	
+46	要带这些孩子玩什么游戏呢……嗯……既简单又适合很多人在一起玩的游戏果然还是……	要帶孩子們玩什麼遊戲呢……嗯……既簡單又適合很多人一起玩的遊戲果然還是……	子供たちとするゲームか……うーん……シンプルで、大勢の子が一緒にできるゲームとなると……	이 아이들을 데리고 무슨 게임을 해야 할까…? 음… 간단하면서도 여럿이 함께 할 수 있는 게임은 역시…	I thought about what kind of game to play with the kids... Hmm... I needed a simple game that could be played with several people...						0	
+b-2											0	
+47	老鹰抓小鸡！	老鷹抓小雞！	ことろことろ！	꼬리잡기 게임!	Let's play eagle and chicks!						0	
+48	感觉是个不错的提议！正好有两个大人在场。	不錯的提議呢！正好有兩位大人在場。	いいですね！ちょうど大人がふたりいるし。	좋은 생각이야! 마침 어른도 두 명 있으니까.	That's a great suggestion! And we have two adults — perfect.						0	
+49	那么就麻烦分析员来扮演保护小鸡的鸡妈妈，姐姐我来扮演要抓走小鸡的老鹰吧~	那就麻煩分析員扮演保護小雞的雞媽媽，姐姐我來扮演要抓走小雞的老鷹吧～	それでは、分析員は親役をやってください。私は、ヒナを捕まえるオニをやりますから。	그럼 분석가가 아이들을 지키는 꼬리 역할을 하고, 언니는 아이들을 잡아가려는 나쁜 술래가 될게~	You can be the mother hen protecting the chicks, Adjutant. I'll be the eagle trying to catch them~						0	
+50	不要不要，我不要恩雅姐姐当坏老鹰……	不要不要，我不要恩雅姐姐當壞老鷹……	やだやだ、エンヤお姉ちゃんがオニだなんて……	싫어요, 싫어요! 엔야 언니가 나쁜 역할을 하는 건 싫어요…	No, no! I don't want you to be the big bad eagle, Miss Enya...						0	
+51	我来当老鹰吧。	我來當老鷹吧。	じゃあ、私がオニをやるよ。	그럼 내가 술래 역할을 할게.	I'll be the eagle.						0	
+52	不行，分析员也不是坏人！	不行，分析員也不是壞人！	ダメ、分析員さんだって、わるいひとじゃないもん！	안 돼요, 분석가 오빠도 나쁜 사람이 아니잖아요!	No! You're not a bad guy either, Adjutant!						0	
+53	不能有两只鸡妈妈吗？	不能有兩隻雞媽媽嗎？	ふたりとも親じゃダメなの？	꼬리가 두 명이면 안 되나요?	Can't there be two mother hens?						0	
+54	可是这样，就没有老鹰了……	可是這樣的話，就沒有老鷹了……	でもそうすると鬼役がいなくなっちゃうよね……	그런데 이렇게 하면 독수리가 없어지잖아요…	But then there wouldn't be an eagle...						0	
+55	这个游戏似乎很容易引发争执，还是换成……	這個遊戲好像很容易造成爭執，還是換成……	どうも子供同士で揉めることになりそうだ。ここは代わりに……	게임에 논란거리가 좀 있으니, 다른 게임을 생각해 볼게요…	Looks like this game is causing problems. Maybe we should change it to...						0	
+56	麻将！人数正好凑三桌。	麻將！人數正好湊三桌。	麻雀はどうだろう！この人数なら卓もちょうど3つだ。	포커를 해보는 건 어떨까요? 인원수도 마침 적당하네요.	Poker! We have the perfect number of people for three tables.						0	
+57	麻……将？	麻……將？	ま……じゃん？	포… 커?	Poker...?						0	
+58	恩雅姐姐，麻将是什么呀？	恩雅姐姐，什麼是麻將呀？	エンヤおねえちゃん、まーじゃんってなに？	엔야 언니, 포커가 뭐예요?	Miss Enya, what's poker?						0	
+59	是吃火锅时蘸的那种黏土吗？	是吃火鍋時蘸的那種黏土嗎？	まーじゃんっておいしいの？	감자칩 같은 거예요?	Is that a game where whoever pokes the most people wins?						0	
+60	分析员哥哥说的应该是朔州人发明的桌面游戏吧？	分析員哥哥說的應該是朔州人發明的桌上遊戲吧？	分析員のお兄ちゃんが言ってるのは、朔州の人が発明したボードゲームのことですね。	분석가 오빠가 말하는 건 어른들이 즐겨 하는 보드게임인 것 같은데?	Mr. Adjutant must be talking about the old card game played with chips, right?						0	
+61	桌面游戏……又是什么呀？	桌上遊戲……又是什麼呀？	ぼーどげーむって……なに？	보드게임은… 또 뭐죠?	Chips? I'm hungry...						0	
+62	……抱歉分析员，麻将对这些孩子们来说有些太难理解了。	……抱歉分析員，麻將對這些孩子們來說太難理解了。	……分析員、すみません。この子たちには少し早すぎるみたいです。	분석가, 미안하지만… 포커는 아이들이 이해하기 어려울 것 같아.	...Sorry, Adjutant. Poker might be too hard for these kids to understand... and maybe a little inappropriate...						0	
+63	该道歉的是我，下意识就脱口而出了。	該道歉的是我，下意識就說出口了。	謝るべきは私の方だよ。ついバカなことを言ってしまった。	제가 더 미안하죠, 아무 말이나 튀어나왔어요.	I'm the one who should apologize. I blurted it out without thinking.						0	
+64	这个游戏似乎太过超前了，还是换成……	這個遊戲似乎太前衛了，還是換成……	子供相手じゃ遊びとして成立しないか。だったら……	너무 어른스러운 게임 같으니 다른 걸로…	It would be too hard, so let's play something else instead...						0	
+65	过家家……	扮家家酒……	おままごと……	소꿉놀이…	Can we play house...?						0	
+66	扎着双马尾的小个子女孩晃悠悠地举起了小手。	綁著馬尾的小個子女孩舉起了小手手。	ツインテールの小柄な女の子がゆっくりと手を挙げた。	양 갈래머리를 한 키 작은 여자아이가 조그마한 손을 들며 말했다.	A little girl with pigtails raised her hand sheepishly.						0	
+67	我想和分析员哥哥还有恩雅姐姐一起玩过家家。	我想和分析員哥哥還有恩雅姐姐一起玩扮家家酒。	分析員のお兄ちゃんやエンヤおねえちゃんと一緒に、おままごとがしたい。	전 분석가 오빠랑 엔야 언니랑 같이 소꿉놀이하고 싶어요.	I wanna play house with Mr. Adjutant and Miss Enya.						0	
+68	啊~可是上周不是才玩过过家家吗？还是玩捉迷藏吧！	啊~可是上週不是才玩過扮家家酒嗎？還是玩捉迷藏吧！	えー、でも先週ごっこ遊びしたばかりじゃない？かくれんぼにしようよ！	아~ 근데 지난주에 금방 소꿉놀이 하지 않았나요? 그냥 숨바꼭질이나 해요!	Aw... Didn't we just play house last week? Let's play hide and seek!						0	
+69	我觉得还是过家家更好一些……	我覺得還是扮家家酒更好……	私はおままごとの方がいいの……	난 소꿉놀이가 더 좋은데…	I think playing house would be more fun...						0	
+70	……虽然只有七八个人，但是孩子们还是分成了意见相左的两派。	……雖然只有七、八人，但孩子們對於玩遊戲的意見還是分成了兩派。	……たった7人そこらの話し合いで、また意見が割れてしまった。	… 고작 일고여덟 명뿐이지만, 아이들의 의견이 두 가지로 갈렸다.	...Even though there were only seven or eight of them, the kids were still divided into two groups with differing opinions.						0	
+71	恩雅要经常处理这样的问题吗？那还挺不容易的……	恩雅很常遇到這種情況嗎？還真是不容易……	エンヤは毎回このやりとりを繰り返してるのか？大変だな……	엔야는 이런 일들을 자주 겪는 걸까? 힘들 것 같은데…	Do you usually have to deal with problems like this, Enya? It must be hard...						0	
+b-3											0	
+72	弯腰转向正在争执的孩子们	彎下腰轉向正在爭執的孩子們	腰をかがめ、言い争いをしている子供たちに向き合った。	실랑이를 벌이고 있는 아이들을 향해 허리를 굽힌다.	Bend down and talk to the kids who are arguing						0	
+73	大家，这样好了。	孩子們，這樣好了。	みんな、こうしよう。	자, 이렇게 하자.	Guys, how about this?						0	
+74	我们上午先玩过家家，下午再一起去参观世界树大楼怎么样？	我們上午先扮家家酒，下午再一起去參觀世界樹大樓怎麼樣？	午前はごっこ遊びをして、午後はユグドラシル本ビルを見学、というのはどう？	그럼 우리 오전에 소꿉놀이하고, 오후에는 위그드라실 빌딩 구경이나 갈까?	Why don't we play house in the morning, then go check out the Yggdrasil buildings in the afternoon?						0	
+75	可以去世界树大楼吗？！	可以去世界樹大樓嗎？！	えー！ユグドラシルを見に行ってもいいの！？	위그드라실 빌딩에 놀러 가도 돼요?!	We can go see where you and Miss Enya live!?						0	
+76	没有问题！那就先玩过家家吧！	沒問題！那就先玩扮家家酒吧！	いくいく！じゃあ今からごっこ遊びしよう！	좋아요! 그럼 소꿉놀이부터 해요!	Okay! Then let's play house now!						0	
+77	看样子顺利解决了。	看樣子順利解決了。	どうやら無事に解決したみたいだ。	잘 해결된 것 같다.	It looked like I'd found a resolution.						0	
+78	分析员，这样真的没问题吗？	分析員，這樣真的沒問題嗎？	分析員、本当にいいんですか？	분석가, 정말 괜찮겠어?	Adjutant, are you sure that's okay?						0	
+79	嗯，如果只是公司大厅的话，不会有什么问题。	嗯，如果只是公司大廳的話，不會有問題。	ああ、ホールだけなら問題ないよ。	네, 그냥 회사 로비면 별문제 없을 것 같아요.	Yeah. It shouldn't be a big deal to show the kids around the Base hall.						0	
+80	我是说要占用分析员一个下午的事……	我是說要占用分析員一整個下午的事……	分析員さんを1日拘束することになりますけど……	그게 아니라, 분석가의 오후 시간을 빼앗을까 봐…	I mean, is it really okay to take up your afternoon...?						0	
+81	别放在心上，能帮上恩雅就好。	別放在心上，能幫上恩雅的忙就好。	気にしないで。エンヤの助けになるならむしろ嬉しいぐらいだよ。	걱정 마세요. 엔야 누님에게 도움이 된다면 그걸로 됐어요.	Don't worry about it. I just want to help you out, Enya.						0	
+82	呵呵呵呵。	呵呵呵呵。	ふふふ。	하하하하~	Hehehe~						0	
+83	恩雅笑什么？	恩雅笑什麼？	何がおかしいの？	엔야, 왜 웃어요?	Why are you laughing?						0	
+84	没什么，只是突然觉得很开心而已~	沒什麼，只是突然覺得很開心而已～	別に。ただちょっと、嬉しくなってしまって。	그냥 갑자기 기분이 좋아져서~	It's nothing. I just feel really happy all of the sudden.						0	
+85	那么……开始分配角色吧。	那麼……開始分配角色吧。	じゃあ……役を決めるね。	그럼… 역할 분담해요.	Then... let's start assigning roles.						0	
+86	不知不觉间小双马尾又凑到了我身边。	不知不覺雙馬尾的小女孩又湊到了我身邊。	いつの間にか、ツインテールの女の子が私の傍に戻って来ていた。	어느새 양 갈래머리 소녀가 내 옆으로 다가왔다.	Before I knew it, the little girl with the pigtails had moved closer to me.						0	
+87	分析员哥哥，当爸爸。	分析員哥哥，你當爸爸。	分析員のお兄ちゃんは、お父さんね。	분석가 오빠는 아빠 역할을 해요.	Mr. Adjutant, you be the dad.						0	
+88	踮起脚尖抓了抓我的衣角，然后将一个假胡子递给了我。	她踮起腳拉了拉我的衣角，然後遞給了我一個假鬍子。	彼女はつま先立ちで私の服を引っ張ると、つけヒゲを手渡して来た。	소녀는 까치발을 세우고 내 옷깃을 붙잡더니, 가짜 수염을 쥐여줬다.	She stood on her tiptoes and pulled at the hem of my shirt, handing me a fake beard.						0	
+89	然后恩雅姐姐，当妈妈。	然後恩雅姐姐，你當媽媽。	それから、エンヤお姉ちゃんはお母さんになって。	그리고 엔야 언니는 엄마 역할을 해요.	Then you can be the mom, Miss Enya.						0	
+90	原来如此，是这样的角色分配啊，在场的唯一两个大人正好是爸爸妈妈吗？	原來如此，是這樣的角色呀，在場的兩位大人正好是爸爸媽媽嗎？	なるほど。そうなるのか。ちょうどこの場にいる大人はふたりだから、それぞれお父さんとお母さんになるわけか。	역할 분담은 이렇게 하는 거였구나, 어른이 두 명 있으니 아빠, 엄마를 하면 되는 거구나?	So the little girl was assigning the roles logically. The only two adults would play the mom and dad?						0	
+91	等等……我是爸爸，恩雅是妈妈？	等等……我是爸爸，恩雅是媽媽？	待てよ……私がお父さんで、エンヤがお母さん？	잠깐만… 내가 아빠고, 엔야가 엄마?	Wait a second... I'm the dad, and you're the mom?						0	
+92	我没什么意见哦，亲~爱~的~	我沒什麼意見喔，親～愛～的～	私は別にいいですよ、ダ～リ～ン。	난 좋아. 여~보~	I don't have a problem with it, dear~						0	
+93	好快，恩雅这么快就入戏了吗？！	好快！恩雅這麼快就入戲了嗎？！	役に入るのはや……ていうかもう始まってるのか！？	빠르다. 엔야는 벌써 연기 모드에 돌입한 건가?!	Whoa, was Enya in character already!?						0	
+94	真的有必要这么称呼吗……	真的有必要這樣稱呼嗎……	本当にその呼び方でいくのか……	굳이 그렇게 부를 필요가 있을까요…	Do you really have to call me that...?						0	
+95	有什么嘛~反正只是游戏而已。亲爱的，孩子们都在等着我们呢~	有什麼關係嘛～反正只是遊戲而已。親愛的，孩子們都在等我們呢～	いいじゃないですか～ただの遊びですよ。ダーリン、子供たちが待ってますよ。	뭐 어때~ 그냥 놀이일 뿐인데. 여보, 아이들이 기다리고 있잖아요~	What's wrong~? It's just a game. Dear, the kids are waiting for us~						0	
+96	还是怪怪的……	還是怪怪的……	やっぱりなんか落ち着かないよ……	아무래도 이상한데요…	It still feels weird...						0	
+97	嗯……	嗯……	うーん……	음…	Well...						0	
+98	那这样好了！分析员来扮演宝宝，姐姐我来当妈妈吧！	那這樣好了！分析員來扮演貝比，姐姐我來當媽媽吧！	では、こうしましょうか！分析員のお兄さんが赤ちゃんになって、お姉ちゃんがお母さんになります！	그럼 이렇게 하자! 분석가가 아기 역할을 하고, 내가 엄마 역할을 할게!	In that case, the Adjutant can be the baby, and I'll be the mom!						0	
+99	来playername，让妈妈抱一抱~~	來playername，讓媽媽抱一個～～	ほらplayername、抱っこしてあげましょうね～	자, playername, 엄마가 안아줄게~~	Come here, playername! Let Mommy give you a big hug~						0	
+100	这样更怪了！！！话说恩雅对家庭成员称呼的理解一直都这么混沌吗？！！！	這樣更奇怪了！！！話說恩雅對於家族稱謂的認知一直都是如此混亂嗎？！！！	今度は落ち着かないどころじゃないって！！！	이게 더 이상하다고요!!! 엔야, 가족끼리 호칭이 너무 뒤죽박죽인 거 아니에요?!!!	Ahhh!!! Those roles feel even weirder!!!						0	
+101	虽然当即对角色分配表达了不满，但是在孩子们的恳求下我还是演完了“爸爸”的角色。	雖然當下就對角色分配表達了不滿，但是在孩子們的期盼下我還是扮演了「爸爸」的角色。	役割分担に不満はあったものの、子供たちに押し切られ、私は「お父さん」を演じることになった。	역할 분담에 불만이 있었지만, 아이들의 간절한 요청에 난 '아빠' 역할을 하고 놀이를 마쳤다.	Though I wasn't immediately happy with my role, I still ended up playing the dad after the kids begged me.						0	
+102	事后回想起来，体验似乎也没有那么糟糕。	事後回想起來，似乎也沒有那麼糟。	後になって振り返ると、それほど悪い体験でもなかった気がするけれど。	다시 생각해 보니, 그리 나쁘지 않은 경험이었다.	Looking back, it wasn't so bad.						0	

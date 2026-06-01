@@ -1,0 +1,49 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	待机	sequence	girl018_01_house_stand01	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_stand01.girl018_01_house_stand01'	
+2	讲述	sequence	girl018_01_house_talk01	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_talk01.girl018_01_house_talk01'	
+3	吧台坐	sequence	girl018_01_house_stool_sit01	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_stool_sit01.girl018_01_house_stool_sit01'	
+4	感谢	sequence	girl018_01_house_thank01	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_thank01.girl018_01_house_thank01'	
+5	惊讶	sequence	girl018_01_house_dialogue_amaze	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_amaze.girl018_01_house_dialogue_amaze'	
+6	抱手臂-前	sequence	girl018_01_house_dialogue_stand02_start	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_stand02_start.girl018_01_house_dialogue_stand02_start'	
+7	抱手臂-循环	sequence	girl018_01_house_dialogue_stand02_loop	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_stand02_loop.girl018_01_house_dialogue_stand02_loop'	
+8	抱手臂-后	sequence	girl018_01_house_dialogue_stand02_end	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_stand02_end.girl018_01_house_dialogue_stand02_end'	
+9	开心	sequence	girl018_01_house_dialogue_satisfy	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_satisfy.girl018_01_house_dialogue_satisfy'	
+10	打招呼	sequence	girl018_01_house_dialogue_greet	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_greet.girl018_01_house_dialogue_greet'	
+11	记小本本	sequence	girl018_01_house_dialogue_note	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_note.girl018_01_house_dialogue_note'	
+12	思考-前	sequence	girl018_01_house_dialogue_think_start	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_think_start.girl018_01_house_dialogue_think_start'	
+13	思考-循环	sequence	girl018_01_house_dialogue_think_loop	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_think_loop.girl018_01_house_dialogue_think_loop'	
+14	思考-后	sequence	girl018_01_house_dialogue_think_end	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_think_end.girl018_01_house_dialogue_think_end'	
+15	肯定	sequence	girl018_01_house_dialogue_sure	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_sure.girl018_01_house_dialogue_sure'	
+16	否定	sequence	girl018_01_house_dialogue_deny	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_deny.girl018_01_house_dialogue_deny'	
+17	扶眼镜	sequence	girl018_01_house_dialogue_glass	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_glass.girl018_01_house_dialogue_glass'	
+18	吧台坐循环	sequence	girl018_01_house_dialogue_barsit_loop	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_barsit_loop.girl018_01_house_dialogue_barsit_loop'	
+19	吧台讲话-前	sequence	girl018_01_house_dialogue_barsit_start	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_barsit_start.girl018_01_house_dialogue_barsit_start'	
+20	吧台讲话-循环	sequence	girl018_01_house_dialogue_barsit_loop	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_barsit_loop.girl018_01_house_dialogue_barsit_loop'	
+21	吧台讲话-后	sequence	girl018_01_house_dialogue_barsit_end	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_barsit_end.girl018_01_house_dialogue_barsit_end'	
+22	消极-前	sequence	girl018_01_house_dialogue_depressed_start	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_depressed_start.girl018_01_house_dialogue_depressed_start'	
+23	消极-循环	sequence	girl018_01_house_dialogue_depressed_loop	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_depressed_loop.girl018_01_house_dialogue_depressed_loop'	
+24	消极-后	sequence	girl018_01_house_dialogue_depressed_end	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_depressed_end.girl018_01_house_dialogue_depressed_end'	
+25	妄想-前	sequence	girl018_01_house_dialogue_dream_start	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_dream_start.girl018_01_house_dialogue_dream_start'	
+26	妄想-循环	sequence	girl018_01_house_dialogue_dream_loop	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_dream_loop.girl018_01_house_dialogue_dream_loop'	
+27	妄想-后	sequence	girl018_01_house_dialogue_dream_end01	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_dream_end01.girl018_01_house_dialogue_dream_end01'	
+28	妄想-后梦碎	sequence	girl018_01_house_dialogue_dream_end02	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_dream_end02.girl018_01_house_dialogue_dream_end02'	
+29	写作循环	sequence	girl018_01_house_writing_idle01	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_writing_idle01.girl018_01_house_writing_idle01'	
+30	床上坐	sequence	girl018_01_house_bed_sit01	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_bed_sit01.girl018_01_house_bed_sit01'	
+31	读书	sequence	girl018_01_house_chair_sit01	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_chair_sit01.girl018_01_house_chair_sit01'	
+					
+					
+					
+97	左转	sequence	girl018_01_house_dialogue_turn_L	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_turn_L.girl018_01_house_dialogue_turn_L'	
+98	右转	sequence	girl018_01_house_dialogue_turn_R	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_turn_R.girl018_01_house_dialogue_turn_R'	
+99	呼吸叠加素材	sequence	girl018_01_house_dialogue_Tpose	AnimSequence'/Game/Characters/Girl/girl018_01/Anim/house/girl018_01_house_dialogue_Tpose.girl018_01_house_dialogue_Tpose'	
+100	一次抱手臂	custom_seq	6;7;8		
+101	抱手臂循环	custom_loop_last	6;7		
+102	一次思考	custom_seq	12;13;14		
+103	思考循环	custom_loop_last	12;13		
+104	一次吧台讲话	custom_seq	19;20;21		
+105	一次消极	custom_seq	22;23;24		
+106	消极循环	custom_loop_last	22;23		
+107	一次妄想成功	custom_seq	25;26;27		
+108	一次妄想失败	custom_seq	25;26;28		
+109	妄想循环	custom_loop_last	25;26		

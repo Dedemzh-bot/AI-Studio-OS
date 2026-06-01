@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，日程表上今天您是有空闲的。	分析員，日程表上今天您是有空閒的。	分析員、今日の予定は空いてますよね？	분석가님, 오늘 일정을 보니 조금 한가해 보이시던데.	Adjutant, I see you're free today according to your calendar.						0	
+page1.2	那么……能麻烦您来我房间一下吗？	那麼……能麻煩您來我房間一下嗎？	では……私の部屋に来ていただけませんか？	실례지만… 제 방에 와주실 수 있나요?	So... could you drop by my room for a moment?						0	
+page1.3	突然搞得这么正式，让我有点紧张。	突然搞得這麼正式，讓我有點緊張。	いきなり改まったことをされると、緊張するな。	갑자기 이렇게까지 격식을 갖춰서 얘기하니까 조금 긴장되는데.	Why is it so serious all of a sudden...? You're making me a bit nervous.						0	
+page1.4	需要我做什么？	需要我做什麼？	何をすればいいのか？	내가 뭘 도와주면 되지?	What do you need?						0	
+page1.5	分析员，可以给我讲讲您在新恒提罗经历的事情吗……	分析員，可以跟我講講您在新恆提羅所經歷的事嗎……	分析員、ニューガントラのことを聞かせてくれませんか……	뉴헨틸로에서 겪은 일을 얘기해 주실 수 있나요?	Adjutant, could you tell me about your experiences in New Hentiro?						0	
+page1.6	呃……辰星一向过目不忘，应该已经看过任务记录了吧。	呃……辰星一向過目不忘，應該已經看過任務紀錄了吧。	え？もう任務の記録を見てるだろ、辰星は一度見たら忘れないよね？	흠… 수성은 한 번 봤던 것들은 절대로 잊지 않잖아? 이미 미션 기록은 봤을텐데.	Um, haven't you gone through the mission logs already? And I know you have a photographic memory.						0	
+page1.7	再听我讲一遍报告，岂不是很无聊。	再聽我講一次報告，豈不是很無聊。	もう一度報告を聞くのは、退屈なんじゃないか？	내가 보고서를 다시 언급하면 지루해할 것 같아서.	Wouldn't listening to me recounting be a bit dull?						0	
+page1.8	不是那样的。	不是那樣的。	いいえ。	보고서는 감정이 담겨있지 않아서요.	It's not the same.						0	
+page1.9	记住的那些都是毫无感情的文字而已。	記住的那些都是毫無感情的文字而已。	私が覚えたのは感情を持たない文字でしかありません。	기억하는 것들은 모두 감정이 없는 글자들뿐이죠.	Those mission logs are just emotionless texts.						0	
+page1.10	虽然不能和分析员一同去新恒提罗，但我也不希望错过你的这段时间。	雖然不能和分析員一同去新恆提羅，但我也不希望錯過你的這段時間。	分析員と一緒にニューガントラに行くことはできませんが、あなたが経験したことを知らないままでいたくありません。	비록 분석가님하고 함께 뉴헨틸로에 갈 수는 없었지만, 그래도 분석가님의 시간들을 놓치고 싶지 않아요.	Though I couldn't be there with you in New Hentiro, I don't want to miss out on this chapter of your life.						0	
+page1.11	如果是分析员亲口讲出的话，在我的记忆里，它们就不再仅仅是文字了。	如果是分析員親口說出來的話，在我的記憶裡，它們就不再只是文字了。	分析員自身の口から聞けたら、ただの文字の記憶ではなくなるでしょう。	분석가님이 직접 말해준다면 더 이상 제 기억 속에서 단순한 글자가 아니게 될 것 같아서요.	Hearing it from you would bring those words to life in my memory.						0	
+page1.12	好……那就，一起经历一遍吧。	好……那就，一起經歷一次吧。	分かった……じゃあ、全部一緒に体験しよう。	아… 알겠어. 그러면 다시 한번 그때의 기억을 되짚어보자.	Alright... Let's relive those moments together, then.						0	
+page1.13	彻夜为辰星讲述了新恒提罗的冒险。	徹夜為辰星講述了新恆提羅的冒險。	辰星にニューガントラでの冒険を一晩中語った。	그렇게 난 밤새 수성에게 뉴헨틸로에서의 이야기를 들려주었다.	Spent the night with Chenxing recounting stories of adventures in New Hentiro for her.						0	

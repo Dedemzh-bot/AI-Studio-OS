@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，你需要的给资源部的物资清单已经整理好了。	分析員，你需要發給資源部的物資清單已經整理好了。	分析員さん、資源部への物資リストを作成しました。	분석가님, 자원부에 보내야 할 물자 목록을 다 정리했어요.	Adjutant, the list of supplies the Resource Department needs from you is finished.						0	
+page0.2	辛苦了，待会发我吧。	辛苦了，等下發給我吧。	ご苦労様、後で送ってくれ。	고생했어, 이따가 나에게 보내줘.	Thanks. Send it to me whenever.						0	
+page0.3	啊，我看分析员还有其他事情，就自作主张帮您送过去资源部了。	啊，我看分析員還有其他事情，就自作主張幫您送給過去了。	その、分析員さんが忙しそうでしたので、勝手に資源部まで届けました。	아, 분석가님에게 다른 일이 있는 것 같아서, 제가 벌써 자원부에 보내버렸어요.	Ah, I saw that you were busy, so I decided to take everything to the Resource Department for you.						0	
+page0.4	这样，那帮大忙了。	那真是幫了我一個大忙了。	え！ありがとう、助かるよ！	그렇구나, 도와줘서 고마워.	Wow, that's a big weight off my shoulders.						0	
+page0.5	后勤部那边需要的作战人员分配我也已经写好了。	我也已經寫好了後勤部那邊需要的作戰人員分配表。	後方支援部が注文した作戦メンバーの編成書類も用意しました。	지원부 쪽에 필요한 전투 인원 배치도 다 작성했어요.	I also wrote down the combat personnel assignments that the Logistics Department needed.						0	
+page0.6	只不过这个要您签字确认，得自己跑一趟了。	只不過這需要您簽名確認，要麻煩您自己跑一趟了。	でもこれはあなたのサインが必要なため、ご自分で行っていただくしかありませんね。	그런데 이건 서명이 필요해서 분석가님이 직접 가봐야 할 거예요.	You still need to look them over and sign off on it, so you'll have to go there yourself.						0	
+page0.7	辛苦了，有茉莉安做助手就是安心。	辛苦了，有茉莉安做助手真讓人放心。	おつかれさん。マリアンがいてくれて本当に心強いよ。	고마워, 마리안이 도와줘서 정말 안심이야.	Thanks for your hard work. I feel so relieved with you as my assistant.						0	
+page0.8	我都想让你来做专职秘书了。	我都想請你做我的全職秘書了。	秘書としてそばに置いてみたいな。	내 직속 비서로 두고 싶을 정도야.	I wish you could be my full-time secretary.						0	
+page0.9	呵呵，这点小事不算什么。	呵呵，這點小事不算什麼。	ふふ、大したことはしてませんよ。	하하, 별것도 아닌데요.	Haha, it's no big deal.						0	
+page0.10	如果没什么其他事情，我就先走了。	如果沒有其他事情的話，我就先離開了。	ほかに用事がなければ、お先に失礼しますね。	다른 일이 없으면 먼저 가볼게요.	If that's all, I'll be going now.						0	
+page0.11	好。	好。	ああ、本当に何から何までありがとう。	그래.	Okay.						0	
+page0.12	分析员，你刚才做了什么吗？	分析員，你剛才做了什麼嗎?	分析員、さっき何があったの？	분석가, 방금 뭐 했어?	Adjutant, what did you do?						0	
+page0.13	我看到小茉莉安在走廊上边走边傻笑。	我看到小茉莉安在走廊上邊走邊傻笑。	マリアンちゃんがへらへら笑いながら廊下を歩いてたよ。	마리안이 웃으면서 복도를 지나가던데.	I just saw Marian giggling while she was walking down the hallway.						0	
+page0.14	……没，没什么。	……沒、沒什麼。	……べ、別に。	… 아, 아무것도 아니야.	...I—It was nothing.						0	

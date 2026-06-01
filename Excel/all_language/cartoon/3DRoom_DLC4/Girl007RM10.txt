@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	（琴诺似乎又在打电话。）	（琴諾好像又在打電話。）	（チェルノがまた電話をかけている。）	(체르노가 또 통화하는 것 같아.)	(It seems like Cherno is on the phone again.)						0	
+page0.2	啊，是分析员！	啊，是分析員！	あっ、分析員さん！	아, 분석가님!	Ah, Adjutant!						0	
+page0.3	抱歉，是打扰到你打电话了吗？	抱歉，打擾到你打電話了嗎？	ごめん、電話の邪魔だったか？	미안해. 내가 통화를 방해한 거야?	Sorry, did I interrupt your phone call?						0	
+page0.4	没……没有，分析员的话，没关系的。	沒……沒有，分析員的話，沒關係的。	そんな……そんなことないですよ。分析員さんなら……構いませんから。	아… 아니에요. 분석가님이라면 괜찮아요.	N—No... It's alright if it's you.						0	
+page0.5	分析员是、是找琴诺吗？	分析員是、是找琴諾嗎？	わ、私に用事があるのですか？	부, 분석가님, 저를 찾고 계셨어요?	W—Were you looking for me, Adjutant?						0	
+page0.6	需要我出任务吗？还是琴诺做错了什么？	需要我出任務嗎？還是琴諾做錯了什麼？	ミッションに出てほしいのでしょうか？そ、それとも、チェルノがまた何か粗相をした……でしょうか？	미션에 나가야 하나요? 아니면 제가 무슨 잘못이라도 했나요?	Do you need me to go on a mission? Or did I do something wrong?						0	
+page0.7	别紧张，我只是来看看你。	別緊張，我只是來看看你。	緊張しないで、チェルノの顔を見に来ただけだよ。	그냥 얼굴 보러 온 것뿐이니, 걱정하지 마.	Don't worry. I'm just here to see you.						0	
+page0.8	对不起，在任务中，琴诺一直没有很好地帮上分析员……	對不起，在任務中，琴諾一直沒有好好幫助分析員……	ウウッ……ごめんなさい、ミッションの時、チェルノはちゃんと分析員さんの役に立てていませんから……	죄송해요. 미션 때 제가 분석가님에게 민폐만 끼쳤던 것 같아요…	Sorry. I haven't been able to help you much during our missions...						0	
+page0.9	而且好像一直在给你添麻烦。	而且好像一直給你添麻煩。	ずっと分析員さんに迷惑を掛けてばかりで……	게다가 계속 신세만 지는 것 같아요.	It feels like I'm always causing you trouble.						0	
+page0.10	不要总是道歉，海姆达尔不需要出任务，才是我所期待的。	不要總是道歉，海姆達爾不需要出任務這件事，才是我真正期望的。	そんなに謝らないでチェルノ。私が望むのは、ミッションに出なくてもいいヘイムダルだからね。	자꾸 사과하지 마. 헤임달이 미션에 나가지 않는 것이 내 진짜 소원이거든.	Don't apologize all the time. The Heimdall Force not having to go on missions is a good thing.						0	
+page0.11	所以小琴诺能在这里安静、幸福地生活，就是在帮我。	所以小琴諾能在這裡安靜、幸福地過生活，就是在幫我。	チェルノがここで静かに、幸せに生きていけるなら、それでいいんだ。	그러니까 체르노가 여기서 조용하고 행복하게 지내는 게 날 도와주는 거야.	You're helping me just by quietly and happily living here.						0	
+page0.12	可是……我想为分析员做点什么。	可是……我想要為分析員做點什麼。	本当……ですか……でも私……分析員さんのために、何かしたいんです……	하지만… 전 분석가님을 위해 뭐라도 하고 싶은걸요.	But... I want to do something for you, Adjutant.						0	
+page0.13	如果非要为我做点什么的话……	如果非要為我做點什麼的話……	そこまで言うなら……	굳이 날 위해 뭘 하고 싶다면…	If you absolutely have to do something...						0	
+page0.14	你下次想要打电话的时候，打给我吧。	你下次想要打電話的時候，就打給我吧。	また電話をかけたくなったら、私にもかけてみてもいい？	다음에 누군가와 통화하고 싶을 땐, 나한테 전화해.	Then next time you want to call someone, call me.						0	
+page0.15	和我聊聊天，帮我解解闷。	和我聊聊天，跟我一起解悶。	私とお喋りをして、私の暇つぶしに付き合って。	나랑 통화하면서 내 이야기도 좀 들어주고 말이야.	You can talk with me, so I won't get bored.						0	

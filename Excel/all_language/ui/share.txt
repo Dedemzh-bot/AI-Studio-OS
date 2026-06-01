@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	disable	Remark
+TxtScanQRcode	请使用移动设备，打开<span color="#db8238">【尘白禁区】</>在登录界面，点击<span color="#db8238">[扫一扫]</>扫码分享	請使用行動裝置，開啟<span color="#db8238">【塵白禁域】</>在登入介面，點選<span color="#db8238">[掃一掃]</>掃碼分享	モバイル端末で<span color="#db8238">『スノウブレイク：禁域降臨』</>を開き、ログイン画面で<span color="#db8238">[スキャン]</>をタップしてシェア用のQRコードを読み取ってください	모바일 기기를 사용해 <span color="#db8238">[스노우 브레이크: 포비든 존]</>을 열고 로그인 화면에서 <span color="#db8238">[스캔]</>을 클릭하여 공유해 주세요.	On a mobile device, open <span color="#db8238">Snowbreak: Containment Zone</> and tap <span color="#db8238">Scan</> on the login screen to scan the code and share.	0	DLC2.7分享功能
+TxtShareFailMessage_Default	分享失败	分享失敗	シェアに失敗しました	공유 실패	Failed to share	0	DLC2.7分享功能
+TxtShareFailMessage_NoApp	缺少必要程序，无法进行图片分享	缺少必要程序，無法進行圖片分享	必要なプログラムが不足しているため、画像のシェアができません	필요한 프로그램이 없어 이미지를 공유할 수 없습니다.	Required program missing, unable to share image.	0	DLC2.7分享功能
+TxtShareFailMessage_NoSpace	储存空间不足，无法进行图片分享	儲存空間不足，無法進行圖片分享	ストレージ容量が不足しているため、画像のシェアができません	저장 공간이 부족하여 이미지를 공유할 수 없습니다.	Insufficient storage space, unable to share image.	0	DLC2.7分享功能

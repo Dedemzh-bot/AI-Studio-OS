@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	你那边怎么样？这些家伙挺难缠的！	你那邊怎麼樣？這些傢伙挺難纏的！	そっちはどう？こいつら結構手強いわよ！	그쪽 상황은 좀 어때? 이 녀석들 엄청 성가시게 구는데!	What's your situation? These ones over here are putting up a fight!						0	
+2	看来是被盛情款待了……不过没有问题。	看來是被盛情款待了……不過沒有問題。	盛大な歓迎だな……でも問題ない。	여기도 우릴 환영해 주러 온 모양이야… 뭐… 문제는 없을 것 같지만.	They rolled out the red carpet over here too... not to worry.						0	

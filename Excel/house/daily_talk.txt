@@ -1,0 +1,412 @@
+﻿少女Id	剧情Id	剧情Key	剧情名字	剧情触发区域	是否需要入住后才触发（0不是 1是）	是否需要拥有某个角色后才触发（本体除外）	需要拥有某个家具后才触发	需要通过某个关卡才触发	需要阅读完某个随机事件才触发	需要好感度等级达到多少才触发	需要道具,{1,1,1,1}	开始时间,[202406011000]	结束时间，[202406011000]	优先级
+GirlId	StoryId	StoryKey	StoryName	StoryArea	CheckIn	Girls	Furnitures	PreLevel	PreStory	CheckLoveLevel	NeedItem	BeginTime	EndTime	HigherOrder
+1	1	3DRoom/Girl001RM1	house.DailyTalkName0101	0										
+1	2	3DRoom/Girl001RM2	house.DailyTalkName0102	0										
+1	4	3DRoom_DLC2/Girl001RM4	house.DailyTalkName0104	0										
+1	5	3DRoom_DLC2/Girl001RM5	house.DailyTalkName0105	0										
+1	6	3DRoom_DLC3/Girl001RM6	house.DailyTalkName0106	0										
+1	7	3DRoom_DLC3/Girl001RM7	house.DailyTalkName0107	0										
+1	8	3DRoom_DLC3/Girl001RM8	house.DailyTalkName0108	0										
+1	9	3DRoom_DLC4/Girl001RM9	house.DailyTalkName0110	0										
+1	10	3DRoom_DLC4/Girl001RM10	house.DailyTalkName0109	0										
+1	11	3DRoom_DLC5/Girl001RM11	house.DailyTalkName0111	0										
+1	12	3DRoom_DLC6/Girl001RM12	house.DailyTalkName0112	0										
+1	13	3DRoom_DLC7/Girl001RM13	house.DailyTalkName0113	1	1				{4,13}					
+1	14	3DRoom_DLC8/Girl001RM14	house.DailyTalkName0114	0										
+1	15	3DRoom_DLC9/Girl001RM15	house.DailyTalkName0115	0										2
+1	16	3DRoom_DLC10/Girl001RM16	house.DailyTalkName0116	51					{1,15}					
+1	17	3DRoom_DLC11/Girl001RM17	house.DailyTalkName0117	51										1
+1	18	3DRoom_DLC12/Girl001RM18	house.DailyTalkName0118	51					{1,17}					
+1	19	3DRoom_DLC25/Girl001RM19	house.DailyTalkName0119	1	1									1
+1	20	3DRoom_DLC27/Girl001RM20	house.DailyTalkName0120	1	1									1
+1	21	3DRoom_DLC30/Girl001RM21	house.DailyTalkName0121	1	1									1
+1	22	3DRoom_DLC32/Girl001RM22	house.DailyTalkName0122	0										1
+1	23	3DRoom_DLC35/Girl001RM23	house.DailyTalkName0123	1	1									1
+1	24	3DRoom_DLC35/Girl001RM24	house.DailyTalkName0124	1	1						{7,1,3,2}			1
+														
+														
+2	6	3DRoom_DLC3/Girl002RM6	house.DailyTalkName0206	0										
+2	7	3DRoom_DLC3/Girl002RM7	house.DailyTalkName0207	2	1		{208}							
+2	8	3DRoom_DLC3/Girl002RM8	house.DailyTalkName0208	0										
+2	9	3DRoom_DLC4/Girl002RM9	house.DailyTalkName0210	0										
+2	10	3DRoom_DLC4/Girl002RM10	house.DailyTalkName0209	0										
+2	11	3DRoom_DLC5/Girl002RM11	house.DailyTalkName0211	0	1		{201}							
+2	12	3DRoom_DLC6/Girl002RM12	house.DailyTalkName0212	0	1		{201}	51274						
+2	13	3DRoom_DLC7/Girl002RM13	house.DailyTalkName0213	0										
+2	14	3DRoom_DLC8/Girl002RM14	house.DailyTalkName0214	0	1		{213}							
+2	15	3DRoom_DLC9/Girl002RM15	house.DailyTalkName0215	2	1						{7,2,3,2}			
+2	16	3DRoom_DLC10/Girl002RM16	house.DailyTalkName0216	0							{7,2,3,2}			2
+2	17	3DRoom_DLC11/Girl002RM17	house.DailyTalkName0217	0							{16,3,1,1}			1
+2	18	3DRoom_DLC12/Girl002RM18	house.DailyTalkName0218	51										
+2	19	3DRoom_DLC25/Girl002RM19	house.DailyTalkName0219	0	1		{220}							1
+2	20	3DRoom_DLC27/Girl002RM20	house.DailyTalkName0220	2	1									1
+2	21	3DRoom_DLC30/Girl002RM21	house.DailyTalkName0221	2	1									1
+2	22	3DRoom_DLC32/Girl002RM22	house.DailyTalkName0222	2	1									1
+2	23	3DRoom_DLC35/Girl002RM23	house.DailyTalkName0223	2	1									1
+														
+														
+3	2	3DRoom/Girl003RM2	house.DailyTalkName0302	0										
+3	3	3DRoom/Girl003RM3	house.DailyTalkName0303	0										
+3	4	3DRoom_DLC2/Girl003RM4	house.DailyTalkName0304	0										
+3	5	3DRoom_DLC2/Girl003RM5	house.DailyTalkName0305	0										
+3	6	3DRoom_DLC3/Girl003RM6	house.DailyTalkName0306	0										
+3	7	3DRoom_DLC3/Girl003RM7	house.DailyTalkName0307	0										
+3	8	3DRoom_DLC3/Girl003RM8	house.DailyTalkName0308	0										
+3	9	3DRoom_DLC4/Girl003RM9	house.DailyTalkName0310	0										
+3	10	3DRoom_DLC4/Girl003RM10	house.DailyTalkName0309	0										
+3	11	3DRoom_DLC5/Girl003RM11	house.DailyTalkName0311	0										
+3	12	3DRoom_DLC6/Girl003RM12	house.DailyTalkName0312	0				51258						
+3	13	3DRoom_DLC7/Girl003RM13	house.DailyTalkName0313	3	1									
+3	14	3DRoom_DLC8/Girl003RM14	house.DailyTalkName0314	0				51303						
+3	15	3DRoom_DLC9/Girl003RM15	house.DailyTalkName0315	0										
+3	16	3DRoom_DLC10/Girl003RM16	house.DailyTalkName0316	0										
+3	17	3DRoom_DLC11/Girl003RM17	house.DailyTalkName0317	0										
+3	18	3DRoom_DLC12/Girl003RM18	house.DailyTalkName0318	51										
+3	19	3DRoom_DLC25/Girl003RM19	house.DailyTalkName0319	51										1
+3	20	3DRoom_DLC27/Girl003RM20	house.DailyTalkName0320	0										1
+3	21	3DRoom_DLC30/Girl003RM21	house.DailyTalkName0321	0										1
+3	22	3DRoom_DLC32/Girl003RM22	house.DailyTalkName0322	3	1									1
+3	23	3DRoom_DLC35/Girl003RM23	house.DailyTalkName0323	0	1									
+														
+														
+4	1	3DRoom/Girl004RM1	house.DailyTalkName0401	0										
+4	3	3DRoom/Girl004RM3	house.DailyTalkName0403	0										
+4	4	3DRoom_DLC2/Girl004RM4	house.DailyTalkName0404	0										
+4	5	3DRoom_DLC2/Girl004RM5	house.DailyTalkName0405	0										
+4	6	3DRoom_DLC3/Girl004RM6	house.DailyTalkName0406	0										
+4	8	3DRoom_DLC3/Girl004RM8	house.DailyTalkName0408	4	1		{404}							
+4	9	3DRoom_DLC4/Girl004RM9	house.DailyTalkName0410	4	1		{402}	51258						
+4	10	3DRoom_DLC4/Girl004RM10	house.DailyTalkName0409	0			{403}	51258						
+4	11	3DRoom_DLC5/Girl004RM11	house.DailyTalkName0411	0										
+4	12	3DRoom_DLC6/Girl004RM12	house.DailyTalkName0412	0				51271						
+4	14	3DRoom_DLC8/Girl004RM14	house.DailyTalkName0414	0				51303						
+4	15	3DRoom_DLC9/Girl004RM15	house.DailyTalkName0415	0										
+4	16	3DRoom_DLC10/Girl004RM16	house.DailyTalkName0416	0										
+4	17	3DRoom_DLC11/Girl004RM17	house.DailyTalkName0417	0										
+4	18	3DRoom_DLC12/Girl004RM18	house.DailyTalkName0418	51										
+4	19	3DRoom_DLC25/Girl004RM19	house.DailyTalkName0419	0										1
+4	20	3DRoom_DLC27/Girl004RM20	house.DailyTalkName0420	0										1
+4	21	3DRoom_DLC30/Girl004RM21	house.DailyTalkName0421	4	1									1
+4	22	3DRoom_DLC32/Girl004RM22	house.DailyTalkName0422	0				11620						1
+4	23	3DRoom_DLC35/Girl004RM23	house.DailyTalkName0423	0	1									1
+4	24	3DRoom_DLC36/Girl004RM24	house.DailyTalkName0424	4	1									
+4	25	3DRoom_DLC36/Girl004RM25	house.DailyTalkName0425	51										
+														
+														
+5	1	3DRoom/Girl005RM1	house.DailyTalkName0501	0										
+5	3	3DRoom/Girl005RM3	house.DailyTalkName0503	0										
+5	4	3DRoom_DLC2/Girl005RM4	house.DailyTalkName0504	0										
+5	5	3DRoom_DLC2/Girl005RM5	house.DailyTalkName0505	0										
+5	6	3DRoom_DLC3/Girl005RM6	house.DailyTalkName0506	0										
+5	7	3DRoom_DLC3/Girl005RM7	house.DailyTalkName0507	0										
+5	8	3DRoom_DLC3/Girl005RM8	house.DailyTalkName0508	0										
+5	9	3DRoom_DLC4/Girl005RM9	house.DailyTalkName0510	0										
+5	11	3DRoom_DLC5/Girl005RM11	house.DailyTalkName0511	0				51258						
+5	12	3DRoom_DLC6/Girl005RM12	house.DailyTalkName0512	5	1		{501,503}	51278						
+5	13	3DRoom_DLC7/Girl005RM13	house.DailyTalkName0513	5	1				{5,11}					
+5	14	3DRoom_DLC8/Girl005RM14	house.DailyTalkName0514	0										
+5	15	3DRoom_DLC9/Girl005RM15	house.DailyTalkName0515	5	1			51371						
+5	16	3DRoom_DLC10/Girl005RM16	house.DailyTalkName0516	51										
+5	17	3DRoom_DLC11/Girl005RM17	house.DailyTalkName0517	0										
+5	18	3DRoom_DLC12/Girl005RM18	house.DailyTalkName0518	0	1									1
+5	19	3DRoom_DLC25/Girl005RM19	house.DailyTalkName0519	5	1									1
+5	20	3DRoom_DLC27/Girl005RM20	house.DailyTalkName0520	5	1									1
+5	21	3DRoom_DLC30/Girl005RM21	house.DailyTalkName0521	0										1
+5	22	3DRoom_DLC32/Girl005RM22	house.DailyTalkName0522	5	1		{509}							1
+5	23	3DRoom_DLC35/Girl005RM23	house.DailyTalkName0523	5	1									1
+5	24	3DRoom_DLC35/Girl005RM24	house.DailyTalkName0524	0							{7,5,4,2}			1
+														
+														
+6	4	3DRoom_DLC2/Girl006RM4	house.DailyTalkName0604	0										
+6	5	3DRoom_DLC2/Girl006RM5	house.DailyTalkName0605	0				51160						
+6	6	3DRoom_DLC3/Girl006RM6	house.DailyTalkName0606	0										
+6	7	3DRoom_DLC3/Girl006RM7	house.DailyTalkName0607	0										
+6	8	3DRoom_DLC3/Girl006RM8	house.DailyTalkName0608	0										
+6	9	3DRoom_DLC4/Girl006RM9	house.DailyTalkName0610	6	1		{613}							
+6	10	3DRoom_DLC4/Girl006RM10	house.DailyTalkName0609	0										
+6	11	3DRoom_DLC5/Girl006RM11	house.DailyTalkName0611	6	1		{602}							
+6	12	3DRoom_DLC6/Girl006RM12	house.DailyTalkName0612	0				51258						
+6	13	3DRoom_DLC7/Girl006RM13	house.DailyTalkName0613	6	1									
+6	14	3DRoom_DLC8/Girl006RM14	house.DailyTalkName0614	0				51303	{6,7}					
+6	15	3DRoom_DLC9/Girl006RM15	house.DailyTalkName0615	0				51357						
+6	16	3DRoom_DLC10/Girl006RM16	house.DailyTalkName0616	6	1									
+6	17	3DRoom_DLC11/Girl006RM17	house.DailyTalkName0617	0										
+6	18	3DRoom_DLC12/Girl006RM18	house.DailyTalkName0618	6	1									
+6	19	3DRoom_DLC25/Girl006RM19	house.DailyTalkName0619	6	1									1
+6	20	3DRoom_DLC27/Girl006RM20	house.DailyTalkName0620	0										1
+6	21	3DRoom_DLC30/Girl006RM21	house.DailyTalkName0621	6	1									1
+6	22	3DRoom_DLC32/Girl006RM22	house.DailyTalkName0622	0				11620						1
+6	23	3DRoom_DLC35/Girl006RM23	house.DailyTalkName0623	51										1
+														
+														
+7	2	3DRoom/Girl007RM2	house.DailyTalkName0702	0										
+7	4	3DRoom_DLC2/Girl007RM4	house.DailyTalkName0704	0										
+7	6	3DRoom_DLC3/Girl007RM6	house.DailyTalkName0706	0										
+7	7	3DRoom_DLC3/Girl007RM7	house.DailyTalkName0707	0	1		{703}							
+7	8	3DRoom_DLC3/Girl007RM8	house.DailyTalkName0708	0										
+7	9	3DRoom_DLC4/Girl007RM9	house.DailyTalkName0710	0										
+7	10	3DRoom_DLC4/Girl007RM10	house.DailyTalkName0709	0										
+7	11	3DRoom_DLC5/Girl007RM11	house.DailyTalkName0711	0				51258						
+7	12	3DRoom_DLC6/Girl007RM12	house.DailyTalkName0712	0										
+7	13	3DRoom_DLC7/Girl007RM13	house.DailyTalkName0713	0										
+7	14	3DRoom_DLC8/Girl007RM14	house.DailyTalkName0714	7	1			51278						
+7	15	3DRoom_DLC9/Girl007RM15	house.DailyTalkName0715	0										
+7	16	3DRoom_DLC10/Girl007RM16	house.DailyTalkName0716	0										
+7	17	3DRoom_DLC11/Girl007RM17	house.DailyTalkName0717	0										
+7	18	3DRoom_DLC12/Girl007RM18	house.DailyTalkName0718	0										
+7	19	3DRoom_DLC25/Girl007RM19	house.DailyTalkName0719	0										1
+7	20	3DRoom_DLC27/Girl007RM20	house.DailyTalkName0720	0										1
+7	21	3DRoom_DLC30/Girl007RM21	house.DailyTalkName0721	0										1
+7	22	3DRoom_DLC32/Girl007RM22	house.DailyTalkName0722	7	1									1
+7	23	3DRoom_DLC35/Girl007RM23	house.DailyTalkName0723	7	1									1
+														
+														
+8	1	3DRoom/Girl008RM1	house.DailyTalkName0801	0										
+8	4	3DRoom_DLC2/Girl008RM4	house.DailyTalkName0804	0										
+8	5	3DRoom_DLC2/Girl008RM5	house.DailyTalkName0805	0										
+8	6	3DRoom_DLC3/Girl008RM6	house.DailyTalkName0806	8	1									
+8	7	3DRoom_DLC3/Girl008RM7	house.DailyTalkName0807	0										
+8	9	3DRoom_DLC4/Girl008RM9	house.DailyTalkName0810	0				51258						
+8	10	3DRoom_DLC4/Girl008RM10	house.DailyTalkName0809	0										
+8	11	3DRoom_DLC5/Girl008RM11	house.DailyTalkName0811	0										
+8	12	3DRoom_DLC6/Girl008RM12	house.DailyTalkName0812	0				51278						
+8	13	3DRoom_DLC7/Girl008RM13	house.DailyTalkName0813	0				51278						
+8	14	3DRoom_DLC8/Girl008RM14	house.DailyTalkName0814	0										
+8	15	3DRoom_DLC9/Girl008RM15	house.DailyTalkName0815	8	1						{7,8,3,2}			
+8	16	3DRoom_DLC10/Girl008RM16	house.DailyTalkName0816	8	1		{801,807}	51371						2
+8	17	3DRoom_DLC11/Girl008RM17	house.DailyTalkName0817	8	1						{16,3,1,1}			1
+8	18	3DRoom_DLC12/Girl008RM18	house.DailyTalkName0818	51				51371						1
+8	19	3DRoom_DLC25/Girl008RM19	house.DailyTalkName0819	8	1		{802}							1
+8	20	3DRoom_DLC27/Girl008RM20	house.DailyTalkName0820	0	1									1
+8	21	3DRoom_DLC30/Girl008RM21	house.DailyTalkName0821	0	1									1
+8	22	3DRoom_DLC32/Girl008RM22	house.DailyTalkName0822	8	1		{803}							1
+8	23	3DRoom_DLC35/Girl008RM23	house.DailyTalkName0823	8	1									1
+														
+														
+10	2	3DRoom/Girl010RM2	house.DailyTalkName1002	0										
+10	3	3DRoom/Girl010RM3	house.DailyTalkName1003	0										
+10	4	3DRoom_DLC2/Girl010RM4	house.DailyTalkName1004	0										
+10	5	3DRoom_DLC2/Girl010RM5	house.DailyTalkName1005	0										
+10	6	3DRoom_DLC3/Girl010RM6	house.DailyTalkName1006	0										
+10	7	3DRoom_DLC3/Girl010RM7	house.DailyTalkName1007	0										
+10	9	3DRoom_DLC4/Girl010RM9	house.DailyTalkName1010	10	1		{1012}							
+10	10	3DRoom_DLC4/Girl010RM10	house.DailyTalkName1009	0										
+10	11	3DRoom_DLC5/Girl010RM11	house.DailyTalkName1011	10	1		{1005}							
+10	12	3DRoom_DLC6/Girl010RM12	house.DailyTalkName1012	0				51268						
+10	13	3DRoom_DLC7/Girl010RM13	house.DailyTalkName1013	0										
+10	14	3DRoom_DLC8/Girl010RM14	house.DailyTalkName1014	0										
+10	15	3DRoom_DLC9/Girl010RM15	house.DailyTalkName1015	0				51357						
+10	16	3DRoom_DLC10/Girl010RM16	house.DailyTalkName1016	0										
+10	17	3DRoom_DLC11/Girl010RM17	house.DailyTalkName1017	0										
+10	18	3DRoom_DLC12/Girl010RM18	house.DailyTalkName1018	51										
+10	19	3DRoom_DLC25/Girl010RM19	house.DailyTalkName1020	60										
+10	20	3DRoom_DLC25/Girl010RM20	house.DailyTalkName1019	10	1						{7,10,3,2}			
+10	21	3DRoom_DLC27/Girl010RM21	house.DailyTalkName1021	10	1		{1004}							1
+10	22	3DRoom_DLC30/Girl010RM22	house.DailyTalkName1022	0	1									1
+10	23	3DRoom_DLC32/Girl010RM23	house.DailyTalkName1023	70										1
+10	24	3DRoom_DLC35/Girl010RM24	house.DailyTalkName1024	0										1
+														
+														
+11	1	3DRoom/Girl011RM1	house.DailyTalkName1101	0										
+11	2	3DRoom/Girl011RM2	house.DailyTalkName1102	0										
+11	3	3DRoom/Girl011RM3	house.DailyTalkName1103	0										
+11	4	3DRoom_DLC2/Girl011RM4	house.DailyTalkName1104	0										
+11	5	3DRoom_DLC2/Girl011RM5	house.DailyTalkName1105	0										
+11	6	3DRoom_DLC3/Girl011RM6	house.DailyTalkName1106	0										
+11	7	3DRoom_DLC3/Girl011RM7	house.DailyTalkName1107	0										
+11	8	3DRoom_DLC3/Girl011RM8	house.DailyTalkName1108	0										
+11	9	3DRoom_DLC4/Girl011RM9	house.DailyTalkName1110	11	1		{1104}							
+11	10	3DRoom_DLC4/Girl011RM10	house.DailyTalkName1109	0										
+11	11	3DRoom_DLC5/Girl011RM11	house.DailyTalkName1111	11	1									
+11	12	3DRoom_DLC6/Girl011RM12	house.DailyTalkName1112	0										
+11	13	3DRoom_DLC7/Girl011RM13	house.DailyTalkName1113	11	1		{1104}		{11,9}					
+11	14	3DRoom_DLC8/Girl011RM14	house.DailyTalkName1114	0										
+11	15	3DRoom_DLC9/Girl011RM15	house.DailyTalkName1115	0				51357						
+11	16	3DRoom_DLC10/Girl011RM16	house.DailyTalkName1116	51										
+11	17	3DRoom_DLC11/Girl011RM17	house.DailyTalkName1117	11	1		{1103}							
+11	18	3DRoom_DLC12/Girl011RM18	house.DailyTalkName1118	51				51371						
+11	19	3DRoom_DLC25/Girl011RM19	house.DailyTalkName1119	11	1									1
+11	20	3DRoom_DLC26/Girl011RM20	house.DailyTalkName1120	0										1
+11	21	3DRoom_DLC26/Girl011RM21	house.DailyTalkName1121	0										1
+11	22	3DRoom_DLC27/Girl011RM22	house.DailyTalkName1122	51										1
+11	23	3DRoom_DLC30/Girl011RM23	house.DailyTalkName1123	11	1									1
+11	24	3DRoom_DLC32/Girl011RM24	house.DailyTalkName1124	0	1									1
+11	25	3DRoom_DLC35/Girl011RM25	house.DailyTalkName1125	0										1
+														
+														
+12	1	3DRoom/Girl012RM1	house.DailyTalkName1201	0										
+12	2	3DRoom/Girl012RM2	house.DailyTalkName1202	0										
+12	3	3DRoom/Girl012RM3	house.DailyTalkName1203	0										
+12	4	3DRoom_DLC2/Girl012RM4	house.DailyTalkName1204	0										
+12	5	3DRoom_DLC2/Girl012RM5	house.DailyTalkName1205	0										
+12	6	3DRoom_DLC3/Girl012RM6	house.DailyTalkName1206	0										
+12	7	3DRoom_DLC3/Girl012RM7	house.DailyTalkName1207	12	1									
+12	8	3DRoom_DLC3/Girl012RM8	house.DailyTalkName1208	0										
+12	9	3DRoom_DLC4/Girl012RM9	house.DailyTalkName1210	12	1			51258						
+12	10	3DRoom_DLC4/Girl012RM10	house.DailyTalkName1209	0				51258						
+12	11	3DRoom_DLC5/Girl012RM11	house.DailyTalkName1211	12	1		{1204}							
+12	12	3DRoom_DLC6/Girl012RM12	house.DailyTalkName1212	0				51278						
+12	13	3DRoom_DLC7/Girl012RM13	house.DailyTalkName1213	0				51278						
+12	14	3DRoom_DLC8/Girl012RM14	house.DailyTalkName1214	0				51278						
+12	15	3DRoom_DLC9/Girl012RM15	house.DailyTalkName1215	0				51357						
+12	16	3DRoom_DLC10/Girl012RM16	house.DailyTalkName1216	12	1									
+12	17	3DRoom_DLC11/Girl012RM17	house.DailyTalkName1217	51										
+12	18	3DRoom_DLC12/Girl012RM18	house.DailyTalkName1218	12	1		{1201,1214}							
+12	19	3DRoom_DLC25/Girl012RM19	house.DailyTalkName1219	0										1
+12	20	3DRoom_DLC27/Girl012RM20	house.DailyTalkName1220	0	1									1
+12	21	3DRoom_DLC30/Girl012RM21	house.DailyTalkName1221	0										1
+12	22	3DRoom_DLC32/Girl012RM22	house.DailyTalkName1222	0				11620						1
+12	23	3DRoom_DLC35/Girl012RM23	house.DailyTalkName1223	0										1
+														
+														
+13	1	3DRoom/Girl013RM1	house.DailyTalkName1301	0										
+13	2	3DRoom/Girl013RM2	house.DailyTalkName1302	0										
+13	4	3DRoom_DLC2/Girl013RM4	house.DailyTalkName1304	0										
+13	5	3DRoom_DLC2/Girl013RM5	house.DailyTalkName1305	0										
+13	6	3DRoom_DLC3/Girl013RM6	house.DailyTalkName1306	0										
+13	7	3DRoom_DLC3/Girl013RM7	house.DailyTalkName1307	0										
+13	8	3DRoom_DLC3/Girl013RM8	house.DailyTalkName1308	13	1		{1305}							
+13	9	3DRoom_DLC4/Girl013RM9	house.DailyTalkName1310	0										
+13	10	3DRoom_DLC4/Girl013RM10	house.DailyTalkName1309	13	1		{1302,1303}							
+13	11	3DRoom_DLC5/Girl013RM11	house.DailyTalkName1311	0										
+13	12	3DRoom_DLC6/Girl013RM12	house.DailyTalkName1312	0				51278						
+13	13	3DRoom_DLC7/Girl013RM13	house.DailyTalkName1313	0	1			51278						
+13	14	3DRoom_DLC8/Girl013RM14	house.DailyTalkName1314	13	1		{1314}							
+13	15	3DRoom_DLC9/Girl013RM15	house.DailyTalkName1315	13	1		{1302,1303}	51357						
+13	16	3DRoom_DLC10/Girl013RM16	house.DailyTalkName1316	13	1		{1302,1306}	51371						
+13	17	3DRoom_DLC11/Girl013RM17	house.DailyTalkName1317	0										
+13	18	3DRoom_DLC12/Girl013RM18	house.DailyTalkName1318	51										
+13	19	3DRoom_DLC25/Girl013RM19	house.DailyTalkName1319	0	1		{1310}							1
+13	20	3DRoom_DLC27/Girl013RM20	house.DailyTalkName1320	0										1
+13	21	3DRoom_DLC30/Girl013RM21	house.DailyTalkName1321	0										1
+13	22	3DRoom_DLC32/Girl013RM22	house.DailyTalkName1322	0				11620						1
+13	23	3DRoom_DLC35/Girl013RM23	house.DailyTalkName1323	0										1
+														
+														
+14	1	3DRoom/Girl014RM1	house.DailyTalkName1401	0										
+14	3	3DRoom/Girl014RM3	house.DailyTalkName1403	0										
+14	4	3DRoom_DLC2/Girl014RM4	house.DailyTalkName1404	0										
+14	5	3DRoom_DLC2/Girl014RM5	house.DailyTalkName1405	0										
+14	6	3DRoom_DLC3/Girl014RM6	house.DailyTalkName1406	0										
+14	7	3DRoom_DLC3/Girl014RM7	house.DailyTalkName1407	0										
+14	8	3DRoom_DLC3/Girl014RM8	house.DailyTalkName1408	14	1		{1409}							
+14	9	3DRoom_DLC4/Girl014RM9	house.DailyTalkName1410	0										
+14	10	3DRoom_DLC4/Girl014RM10	house.DailyTalkName1409	0				51258						
+14	11	3DRoom_DLC5/Girl014RM11	house.DailyTalkName1411	14	1									
+14	12	3DRoom_DLC6/Girl014RM12	house.DailyTalkName1412	0				51258						
+14	13	3DRoom_DLC7/Girl014RM13	house.DailyTalkName1413	14	1		{1401}		{12,7}					
+14	14	3DRoom_DLC8/Girl014RM14	house.DailyTalkName1414	0										
+14	15	3DRoom_DLC9/Girl014RM15	house.DailyTalkName1415	0	1			51357						
+14	16	3DRoom_DLC10/Girl014RM16	house.DailyTalkName1416	51										
+14	17	3DRoom_DLC11/Girl014RM17	house.DailyTalkName1417	51										
+14	18	3DRoom_DLC12/Girl014RM18	house.DailyTalkName1418	0										
+14	19	3DRoom_DLC25/Girl014RM19	house.DailyTalkName1419	60										
+14	20	3DRoom_DLC25/Girl014RM20	house.DailyTalkName1420	14	1						{7,14,3,2}			
+14	21	3DRoom_DLC27/Girl014RM21	house.DailyTalkName1421	51										1
+14	22	3DRoom_DLC30/Girl014RM22	house.DailyTalkName1422	14	1									1
+14	23	3DRoom_DLC32/Girl014RM23	house.DailyTalkName1423	14	1		{1405}							1
+14	24	3DRoom_DLC35/Girl014RM24	house.DailyTalkName1424	14	1									1
+														
+														
+15	2	3DRoom_DLC5/Girl015RM2	house.DailyTalkName1502	0										
+15	3	3DRoom_DLC5/Girl015RM3	house.DailyTalkName1503	0										
+15	4	3DRoom_DLC5/Girl015RM4	house.DailyTalkName1504	0										
+15	6	3DRoom_DLC6/Girl015RM6	house.DailyTalkName1506	0										
+15	7	3DRoom_DLC7/Girl015RM7	house.DailyTalkName1507	0										
+15	8	3DRoom_DLC8/Girl015RM8	house.DailyTalkName1508	15	1		{1506}							
+15	9	3DRoom_DLC9/Girl015RM9	house.DailyTalkName1509	0				51371						
+15	10	3DRoom_DLC10/Girl015RM10	house.DailyTalkName1510	0	1									
+15	11	3DRoom_DLC11/Girl015RM11	house.DailyTalkName1511	0										
+15	12	3DRoom_DLC12/Girl015RM12	house.DailyTalkName1512	51										
+15	13	3DRoom_DLC25/Girl015RM13	house.DailyTalkName1513	0										1
+15	14	3DRoom_DLC27/Girl015RM14	house.DailyTalkName1514	0	1									1
+15	15	3DRoom_DLC30/Girl015RM15	house.DailyTalkName1515	15	1						{7,15,3,2}			1
+15	16	3DRoom_DLC32/Girl015RM16	house.DailyTalkName1516	70										1
+15	17	3DRoom_DLC35/Girl015RM17	house.DailyTalkName1517	0										1
+														
+														
+16	2	3DRoom_DLC6/Girl016RM2	house.DailyTalkName1602	0										
+16	3	3DRoom_DLC6/Girl016RM3	house.DailyTalkName1603	0										
+16	4	3DRoom_DLC6/Girl016RM4	house.DailyTalkName1604	16	1									
+16	5	3DRoom_DLC6/Girl016RM5	house.DailyTalkName1605	16	1		{1604}							
+16	6	3DRoom_DLC7/Girl016RM6	house.DailyTalkName1606	16	1									
+16	7	3DRoom_DLC8/Girl016RM7	house.DailyTalkName1607	16	1									
+16	8	3DRoom_DLC9/Girl016RM8	house.DailyTalkName1608	0										
+16	9	3DRoom_DLC10/Girl016RM9	house.DailyTalkName1609	51										
+16	10	3DRoom_DLC11/Girl016RM10	house.DailyTalkName1610	0										
+16	11	3DRoom_DLC12/Girl016RM11	house.DailyTalkName1611	51										
+16	12	3DRoom_DLC25/Girl016RM12	house.DailyTalkName1612	0										1
+16	13	3DRoom_DLC27/Girl016RM13	house.DailyTalkName1613	16	1									1
+16	14	3DRoom_DLC30/Girl016RM14	house.DailyTalkName1614	0										1
+16	15	3DRoom_DLC32/Girl016RM15	house.DailyTalkName1615	16	1		{1601}	11620						1
+16	16	3DRoom_DLC35/Girl016RM16	house.DailyTalkName1616	16	1									1
+														
+														
+17	1	3DRoom_DLC4/Girl017RM1	house.DailyTalkName1701	0										
+17	2	3DRoom_DLC4/Girl017RM2	house.DailyTalkName1702	0										
+17	3	3DRoom_DLC4/Girl017RM3	house.DailyTalkName1703	0										
+17	5	3DRoom_DLC4/Girl017RM5	house.DailyTalkName1705	17	1		{1703}							
+17	6	3DRoom_DLC5/Girl017RM6	house.DailyTalkName1706	0										
+17	7	3DRoom_DLC6/Girl017RM7	house.DailyTalkName1707	0				51271						
+17	9	3DRoom_DLC8/Girl017RM9	house.DailyTalkName1709	0										
+17	10	3DRoom_DLC9/Girl017RM10	house.DailyTalkName1710	0				51364						
+17	11	3DRoom_DLC10/Girl017RM11	house.DailyTalkName1711	0				51388						1
+17	12	3DRoom_DLC11/Girl017RM12	house.DailyTalkName1712	0										
+17	13	3DRoom_DLC12/Girl017RM13	house.DailyTalkName1713	0										
+17	14	3DRoom_DLC25/Girl017RM14	house.DailyTalkName1714	51										1
+17	15	3DRoom_DLC27/Girl017RM15	house.DailyTalkName1715	17	1									1
+17	16	3DRoom_DLC30/Girl017RM16	house.DailyTalkName1716	17	1						{7,17,2,2}			1
+17	17	3DRoom_DLC32/Girl017RM17	house.DailyTalkName1717	0	1						{7,17,2,2}			1
+17	18	3DRoom_DLC35/Girl017RM18	house.DailyTalkName1718	0										1
+														
+														
+18	1	3DRoom_DLC10/Girl018RM1	house.DailyTalkName1803	0										1
+18	2	3DRoom_DLC10/Girl018RM2	house.DailyTalkName1801	0										1
+18	3	3DRoom_DLC10/Girl018RM3	house.DailyTalkName1802	0	1		{1802}							
+18	4	3DRoom_DLC10/Girl018RM4	house.DailyTalkName1805	0										
+18	5	3DRoom_DLC10/Girl018RM5	house.DailyTalkName1804	0										
+18	6	3DRoom_DLC11/Girl018RM6	house.DailyTalkName1806	51										
+18	7	3DRoom_DLC12/Girl018RM7	house.DailyTalkName1807	51										
+18	8	3DRoom_DLC25/Girl018RM8	house.DailyTalkName1808	18	1			51478						
+18	9	3DRoom_DLC27/Girl018RM9	house.DailyTalkName1809	51										
+18	10	3DRoom_DLC28/Girl018RM10	house.DailyTalkName1810	18	1									
+18	11	3DRoom_DLC28/Girl018RM11	house.DailyTalkName1811	18	1									1
+18	12	3DRoom_DLC30/Girl018RM12	house.DailyTalkName1812	18	1									1
+18	13	3DRoom_DLC32/Girl018RM13	house.DailyTalkName1813	18	1									1
+18	14	3DRoom_DLC35/Girl018RM14	house.DailyTalkName1814	0										1
+														
+														
+20	1	3DRoom_DLC27/Girl020RM1	house.DailyTalkName2001	20	1		{2005}							
+20	2	3DRoom_DLC27/Girl020RM2	house.DailyTalkName2002	20	1		{2003}							
+20	3	3DRoom_DLC27/Girl020RM3	house.DailyTalkName2003	0										
+20	4	3DRoom_DLC27/Girl020RM4	house.DailyTalkName2004	0										
+20	5	3DRoom_DLC27/Girl020RM5	house.DailyTalkName2005	0										
+20	6	3DRoom_DLC30/Girl020RM6	house.DailyTalkName2006	20	1		{2003}							
+20	7	3DRoom_DLC32/Girl020RM7	house.DailyTalkName2007	20	1		{2005}							
+20	8	3DRoom_DLC35/Girl020RM8	house.DailyTalkName2008	0	1									
+														
+														
+21	1	3DRoom_DLC28/Girl021RM1	house.DailyTalkName2101	0										
+21	2	3DRoom_DLC28/Girl021RM2	house.DailyTalkName2102	0										
+21	3	3DRoom_DLC28/Girl021RM3	house.DailyTalkName2103	0										
+21	4	3DRoom_DLC28/Girl021RM4	house.DailyTalkName2104	21	1									
+21	5	3DRoom_DLC28/Girl021RM5	house.DailyTalkName2105	0										
+21	6	3DRoom_DLC30/Girl021RM6	house.DailyTalkName2106	21	1		{2104}							
+21	7	3DRoom_DLC32/Girl021RM7	house.DailyTalkName2107	21	1		{2106}							
+21	8	3DRoom_DLC35/Girl021RM8	house.DailyTalkName2108	0										
+														
+														
+22	1	3DRoom_DLC33/Girl022RM1	house.DailyTalkName2201	22	1		{2203}							
+22	2	3DRoom_DLC33/Girl022RM2	house.DailyTalkName2202	0				51550						
+22	3	3DRoom_DLC33/Girl022RM3	house.DailyTalkName2203	0										
+22	4	3DRoom_DLC33/Girl022RM4	house.DailyTalkName2204	0	1									
+22	5	3DRoom_DLC33/Girl022RM5	house.DailyTalkName2205	0										
+22	6	3DRoom_DLC35/Girl022RM6	house.DailyTalkName2206	0										
+														
+														
+23	1	3DRoom_DLC34/Girl023RM1	house.DailyTalkName2301	0										
+23	2	3DRoom_DLC34/Girl023RM2	house.DailyTalkName2302	0										
+23	3	3DRoom_DLC34/Girl023RM3	house.DailyTalkName2303	0										
+23	4	3DRoom_DLC34/Girl023RM4	house.DailyTalkName2304	23	1									
+23	5	3DRoom_DLC34/Girl023RM5	house.DailyTalkName2305	23	1		{2311}							
+23	6	3DRoom_DLC35/Girl023RM6	house.DailyTalkName2306	23	1									

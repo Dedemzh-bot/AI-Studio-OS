@@ -1,0 +1,18 @@
+表情id	备注	资源	多语言KEY	类型(0表情1喊话)	表情页
+Id	Comment	Icon	Key	Type	Number
+1	救我（肴）	2700000		0	2
+2	大脸（安卡）	3200000		0	2
+3	防守（装置）	2700001		0	2
+4	悲伤（琴诺）	3200120		0	2
+5	加油（恩雅）	2700002		0	2
+6	震惊（妮塔）	3200040		0	2
+7	干得好（芬妮）	2700003		0	2
+8	生气（里芙）	3200020		0	2
+9	推进指令缺缺缺！		ui.MultiTower08_FightTips1	1	1
+10	驻地有危险！		ui.MultiTower08_FightTips2	1	1
+11	进入兑换界面换正面效果！		ui.MultiTower08_FightTips3	1	1
+12	机枪塔机枪塔！求支援！		ui.MultiTower08_FightTips4	1	1
+13	收到！		ui.MultiTower08_FightTips5	1	1
+14	放心交给我吧！		ui.MultiTower08_FightTips6	1	1
+15	不要停下来啊！		ui.MultiTower08_FightTips7	1	1
+16	采集手贼靠谱！		ui.MultiTower08_FightTips8	1	1

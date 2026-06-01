@@ -1,0 +1,11 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+hi01.1	长官好，营地目前一切正常，随时听候您的指示。	長官好，營地目前一切正常，在此待命。	キャンプに異常はありません、ご指示を！	안녕하십니까, 분석가님. 현재 야영지 상황은 이상 없습니다. 언제든지 지시를 내려 주십시오.	Sir! Everything in the camp is normal. We are always available for you to command.						0	
+choice.01	好，辛苦了	好，辛苦了	分かった、お疲れ様。	그래, 고생했어.	Good work.						0	
+page01.1	也不用太紧绷，记得准时换班。	不用太緊繃，記得準時換班。	張り切りすぎるのもよくありませんよ。次の当番に任せてもいいじゃないですか。	너무 긴장할 필요는 없어요. 제시간에 교대하는 거 잊지 마시고요.	No need to overdo it. Change shifts at the scheduled times.						0	
+hi02.1	那些幽灵的确很强大，老实说，我完全没有一对一战胜它们的信心。	那些幽靈的確很強，老實說我沒有自信能夠一對一戰勝它們。	あの幽霊達はたしかに手強いですよ。正直、一対一で勝てる自信はありませんね。	그 유령들은 확실히 강력했어요. 솔직히 말하면, 저 혼자서 그들을 당해낼 자신이 없어요.	Those phantoms are pretty powerful. Honestly, I don't think I could take one on by myself.						0	
+choice.02	多相信你的队友	多信任你的隊友	無理してまで戦うことはない。仲間を信じよう。	네 동료들을 믿는 게 중요해.	Have faith in your squadmates.						0	
+page02.1	好的！长官。	遵命!長官。	はい、分かりました！	알겠습니다! 분석가님.	Yes, sir!						0	
+hi03.1	天启者们似乎都很信任您，不愧是长官。	天啟者們似乎都很信任您，不愧是長官。	覚醒者は皆分析員さんのことをかなり信頼しているようですね。さすがです。	계시자들이 당신을 굳게 믿는 것 같아요. 역시 분석가님이시네요.	The Manifestations really seem to trust you. I guess that's why you're Senior Adjutant.						0	
+choice.03	我也同样信任她们	我也很信任她們	私も同じぐらい彼女たちを信頼しているからね。	나도 그녀들을 믿고 있으니까.	I trust them as well.						0	
+page03.1	您说得对，受教了。	您說的對，受教了。	まったくその通りですね。勉強になります。	맞는 말씀이시네요. 오늘도 하나 배웠어요.	Well said. I'll remember that.						0	

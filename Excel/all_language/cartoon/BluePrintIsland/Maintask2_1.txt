@@ -1,0 +1,11 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	恭喜分析员，蓝图岛的第二个区域<orange>明日港</>解锁了。	恭喜分析員，藍圖島的第二個區域<orange>明日港</>解鎖了。	おめでとう、ビジョン島の第二エリア<orange>明日港</>がアンロックしたよ。	축하합니다, 분석가님. 설계의 섬의 두 번째 구역, <orange>미래 항구</>가 해제되었어요.	Congratulations, Adjutant! The second area of Builder Island, <orange>Future Port</>, is unlocked.						0	dlc30蓝图岛对话
+page1.2	尖尖耳已经在期待您二位在那里更多美好的体验。	尖尖耳已經開始期待您二位在那裡更多美好的體驗。	今後の島暮らしがもっと楽しみになってきたね！	두 분이 그곳에서 더 많은 멋진 경험을 하시길, 뾰족귀는 기대할게요.	I'm excited for you two to make even more wonderful memories there.						0	dlc30蓝图岛对话
+page1.3	分析员，接下来要看看我的努力成果了，我可不止准备了这一点东西。	分析員，接下來要看看我的努力成果了，我可不止準備了這一點東西。	分析員、ここからは私の努力の成果を見せてあげる。これでもたくさん用意したんだから。	분석가, 이제 내 노력의 결실을 볼 차례야. 내가 준비한 게 이것뿐만은 아니거든.	Now you'll see the results of my hard work. I've created way more than what you've tried so far!						0	dlc30蓝图岛对话
+page1.4	虽然每次的玩法都有奇怪的漏洞，但我知道安卡希雅不会局限于自己的舒适圈，要给自己找些挑战。	雖然每次的玩法都有奇怪的漏洞，但我知道安卡希雅不會局限於自己的舒適圈，要幫自己找些挑戰。	よく変なバグが出てくるけど、君のチャレンジ精神には脱帽するよ。それでこそアカシアだ。	콘텐츠마다 이상한 허점이 있긴 하지만, 나도 알고 있어. 아카시아는 너의 안전지대에만 머물지 않고 도전을 찾으려 하잖아.	Your games always come with bugs, but I know you never just settle for what's safe. You thrive on challenges.						0	dlc30蓝图岛对话
+page1.5	分析员果然懂我。	分析員果然懂我。	ふふ……分析員、わかってんじゃん。	분석가는 역시 날 잘 아네.	You really do get me, Adjutant.						0	dlc30蓝图岛对话
+page1.6	蓝图岛的新区域已经开放了。	藍圖島的新區域已經開放了。	ビジョン島の新エリアが解放されたよ。	설계의 섬의 새로운 구역이 개방되었어.	A brand new area of Builder Island is unlocked.						0	dlc30蓝图岛对话
+page1.7	并且为了丰富整个蓝图岛的体验节奏，我在新区域里加了一些能加快建设进度的玩法。	並且為了豐富整個藍圖島的體驗節奏，我在新區域裡加了一些能加快建設進度的玩法。	それと、ビジョン島全体の体験向上のために、新エリアに建設進捗を早める機能を加えたんだ。	그리고 설계의 섬 전반의 풍부한 게임 경험을 위해서, 새로운 구역에 건설 진도를 가속할 만한 콘텐츠를 추가했어.	And just to spice it up, I added a few quick-development features in that zone.						0	dlc30蓝图岛对话
+page1.8	嗯？	嗯？	ほう？	응?	Oh?						0	dlc30蓝图岛对话
+page1.9	分析员去新区域看看就知道了。	分析員去新區域看看就知道了。	詳しい話は見てからのお楽しみだよ。	분석가가 새로운 구역에 가보면 알 수 있을 거야.	Go check it out. You'll see.						0	dlc30蓝图岛对话

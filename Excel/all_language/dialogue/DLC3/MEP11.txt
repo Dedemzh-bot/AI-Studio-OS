@@ -1,0 +1,345 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	某一天，玩偶猫遇见了一只小灰猫——	某一天，玩偶貓遇見了一隻小灰貓——	ある日、ラグドールは小さな灰色の猫に出会った——	어느 날, 인형 고양이는 회색 고양이 한 마리를 만났다.	One day, the plush cat met a little gray cat...						0	1.3重置
+2	“会受伤的！”他总是这样喊，用软软的爪子拉住她。	“會受傷的！”他總是這樣喊，用軟軟的爪子拉住她。	「ケガするよ！」と彼はいつもこう叫びながら、モフモフの手で彼女を引き留める。	"그러다가 다쳐!" 그는 늘 이렇게 외치면서, 부드러운 발로 그녀를 붙잡았다.	"You'll get hurt!" he'd always say, tugging her gently away from sharp things with his soft little paw.						0	1.3重置
+3	……	……	……	……	...						0	1.3重置
+4	伴随着夕阳缓缓沉入海平面，晚风悄然转向，从陆地深处捎来草木的清香，将白日里那略微有些咸涩的海味冲淡，推向远方。	伴隨著夕陽緩緩沉入海平面，晚風悄然轉向，從陸地深處捎來草木的清香，將白日裡那略微有些鹹澀的海味沖淡，推向遠方。	夕陽が沈み、島へ草木の香を運ぶ風が海の塩気を薄めていく。	석양이 수평선 너머로 서서히 잠기고, 저녁 바람이 살며시 방향을 바꾸더니, 깊은 육지에서 풀과 나무의 향기를 실어와 낮 동안의 짭조름한 바다 내음을 희석해 멀리 밀어냈다.	As the sun sank slowly into the sea, the evening breeze shifted — carrying the scent of inland grass and trees, softening the briny tang of the ocean air.						0	1.3重置
+5	岛上的棕榈叶在风中与海潮一起奏响了古老的歌谣。	島上的棕櫚葉在風中與海潮一起奏響了古老的歌謠。	風にそよぐヤシの葉が潮騒と重なり、太古の歌を奏でた。	섬의 야자수잎들이 바람에 나부끼며, 파도와 함께 오래된 노래를 연주했다.	Palm fronds swayed in rhythm with the breeze, joining the waves in an ancient, whispering symphony.						0	1.3重置
+6	是早在我们诞生之前，由风与洋流共同谱写的——	是早在我們誕生之前，由風與洋流共同譜寫的——	私たちが生まれる前から、風と海流が紡ぐ――	우리가 태어나기도 전부터, 바람과 해류가 함께 써 내려간…	A song written by wind and surf, long before we were even born...						0	1.3重置
+7	永恒恋歌。	永恆戀歌。	永久の恋歌。	영원한 사랑 노래였다.	An eternal love song.						0	1.3重置
+8	全部都完成了喵。	全部都完成了喵。	全部終わったニャン。	전부 완료했다냥.	All done, nya.						0	1.3重置
+9	猫汐尔晃动着机械耳朵，小小的鼻腔里，传出了一声得意的哼声。	貓汐爾晃動著機械耳朵，小小的鼻腔裡，傳出了一聲得意的哼聲。	機械耳を揺らし、彼女は得意げに鼻を鳴らす。	캣 시에라가 로봇 귀를 흔들며, 작은 코로 의기양양한 콧소리를 냈다.	Mauxir gave a smug little hum through her nose, her mechanical ears twitching.						0	1.3重置
+10	我们刚刚完成了"约会计划单"上最后一项待办事项。	我們剛剛完成了“約會計畫單”上最後一項待辦事項。	「デート計画表」最後の項目以外は――	우리는 방금 '데이트 계획표'의 마지막 할 일을 완료했다.	We'd just ticked off the last item on our date's to-do list.						0	1.3重置
+11	准确来说，是除了“学会游泳”这一项外，全部都完成了。	準確來說，是除了“學會游泳”這一項外，全部都完成了。	正確には「泳げるようになる」だけ、未達成だけどな。	정확히 말하자면, '수영 배우기'를 제외하고 전부 완료했지.	Well... everything except "learn to swim."						0	1.3重置
+12	我指了指计划单上唯一没有被印上小猫爪印的一列提醒道。	我指了指計畫單上唯一沒有被印上小貓爪印的一列提醒道。	肉球スタンプのない欄を指差す。	나는 계획표 중 고양이 발자국 도장이 찍히지 않은 유일한 항목을 가리키며 말했다.	I pointed at the lone row left unstamped by the tiny cat paw.						0	1.3重置
+13	唔……用游泳圈也算是游泳吧？	唔……用游泳圈也算是游泳吧？	浮き輪でも泳いだことになるニャン？	음… 튜브를 쓰는 것도 수영 아닌가?	Ugh... using a floatie totally counts as swimming, right?						0	1.3重置
+14	那样的话，这个世界上所有游泳教练都要失业了。	那樣的話，這個世界上所有游泳教練都要失業了。	それじゃ世界中の水泳コーチが失業だ。	그렇게 되면 이 세상의 모든 수영 강사가 실직하겠는데.	If it did, every swim coach would be out of a job.						0	1.3重置
+15	……	……	……	……	...						0	1.3重置
+16	那时，她望着泛起白花的海浪，耳朵警觉地竖起又垂下。	那時，她望著泛起白花的海浪，耳朵警覺地豎起又垂下。	あのとき、彼女は白波が立つ海をじっと見つめ、ピンと立った耳が、すぐにしゅんと垂れる。	그때 그녀는 새하얗게 일렁이는 파도를 바라보며, 귀를 쫑긋 세웠다가 축 늘어뜨렸다.	She stared at the foaming surf — ears perking up, then drooping.						0	1.3重置
+17	犹豫了片刻后，最终还是输给了内心中对水的恐惧。	猶豫了片刻後，最終還是輸給了內心中對水的恐懼。	ほんの数秒の逡巡のあと、彼女は自分の心の奥にある恐怖に、そっと負けを認めたようだった。	잠시 망설이던 그녀는 결국 물에 대한 두려움에 굴복하고 말았다.	After a brief hesitation, she gave in to her fear of the water.						0	1.3重置
+18	或者准确来说，是对“在水中失去对身体的控制感”的恐惧。	或者準確來說，是對“在水中失去對身體的控制感”的恐懼。	それは、水中で身体の感覚を失うことへの恐れ。	정확히 말하자면, '물속에서 몸을 제대로 통제하지 못하는 것'에 대한 두려움이었다.	Or more precisely, her fear of losing control of her body in it.						0	1.3重置
+19	唯独这一项我打算放弃喵……	唯獨這一項我打算放棄喵……	ここだけは諦めるニャン…	이것만은 포기해야겠다냥…	That one... I give up, nya.						0	1.3重置
+20	但是！作为等价替换，我今天吃了五根喵喵冰。	但是！作為等價替換，我今天吃了五根喵喵冰。	でも代わりに、ニャニャアイスを五本食べたニャン！	하지만! 그 대신 오늘 냥냥바를 다섯 개나 먹었다. 이건 등가 교환이다.	But! In exchange, I had five meow-meow popsicles today.						0	1.3重置
+21	这两者之间的等价关系是从哪里来的呀。	這兩者之間的等價關係是從哪裡來的呀。	等価交換の理屈が分からない…	그 둘 사이에 무슨 등가 관계가 있다는 거지?	And that's a trade... how?						0	1.3重置
+22	我的内心这样吐槽道，不过……	我的內心這樣吐槽道，不過……	と、思っているが……	속으로 그렇게 생각했지만…	I found myself silently commenting. Still...						0	1.3重置
+23	既然是猫汐尔自己列的清单，那么这份清单的裁判权也就在猫汐尔身上。	既然是貓汐爾自己列的清單，那麼這份清單的裁判權也就在貓汐爾身上。	リストを書いたのはマーシルだ。裁定者もマーシルだろう。	캣 시에라가 직접 작성한 목록인 만큼, 그 목록의 판단 권한도 캣 시에라에게 있지.	Well, it's your list. You get final say.						0	1.3重置
+24	就算把“学会游泳”换成“咪咪喵喵叫五声”，也是完美通关。	就算把“學會游泳”換成“咪咪喵喵叫五聲”，也是完美通關。	「泳げるようになる」を「ニャーニャー五回」に変えてもコンプリートだ。	 '수영 배우기'를 '야옹야옹 다섯 번 하기'로 바꾼다 해도 완벽하게 클리어하는 셈이야.	Even if you replaced "learn to swim" with "meow five times," I'd still count it.						0	1.3重置
+25	这样吗？那么我要开始叫了哦。	這樣嗎？那麼我要開始叫了哦。	じゃあ、鳴くニャン！	그래? 그럼 바로 시작하겠다.	Really!? Then I'll start now!						0	1.3重置
+26	哎？	欸？	え？	응?	...Hmm?						0	1.3重置
+27	咪喵，咪喵。	咪喵，咪喵。	ニャン、ニャン。	야옹, 야옹.	Meow, meow~~						0	1.3重置
+28	咪咪喵，咪咪喵。	咪咪喵，咪咪喵。	ニーャン、ニーャン。	냐아옹, 냐아옹.	Meeeeow~ Meow meow~~						0	1.3重置
+29	咪咪咪~喵喵喵！	咪咪咪~喵喵喵！	ニーャン～ニーャン！	냐냐냥~ 야옹야옹야옹!	Meow-meow-meow~ Nya!						0	1.3重置
+30	……	……	……	……	...						0	1.3重置
+31	像是这样的“咪咪喵喵”，可以吗？	像是這樣的“咪咪喵喵”，可以嗎？	こんな感じで良いニャン？	이렇게 '야옹야옹'하면 되는 건가?	Does that count?						0	1.3重置
+32	这实在是……	實在是……	破壊的に…	이건 정말…	That was just...						0	1.3重置
+33	分析员？	分析員？	分析員？	분석가?	Hm?						0	1.3重置
+34	实在是太可爱了！	實在是太可愛了！	可愛すぎる！	정말 너무 귀여워!	That was way too cute!						0	1.3重置
+35	……这犯规的可爱程度简直堪比精神攻击！	……這犯規的可愛程度簡直堪比精神攻擊！	……これは反則だ。もはや精神攻撃の領域じゃないか、この可愛さ。	… 이런 반칙과도 같은 귀여움은 정신 공격이나 다름없다!	That level of cuteness was a danger to public health — enough to unravel any sane mind!						0	1.3重置
+36	看着她瞪着懵懵懂懂的眼睛，鼓起脸颊歪头的样子，我的指尖顿时传来了一阵酥麻的感觉。	看著她瞪著懵懵懂懂的眼睛，鼓起臉頰歪頭的樣子，我的指尖頓時傳來了一陣酥麻的感覺。	まんまるな目で私を見つめながら、頬をぷくっと膨らませ、首をかしげる彼女を見ていたら、指先から、ふっと痺れるような衝動が走る。	멍하니 눈을 크게 뜨고 볼을 부풀린 채 고개를 갸웃거리는 그녀의 모습을 보니, 갑자기 손끝에 저릿한 감각이 전해졌다.	Those wide, innocent eyes... puffed-out cheeks... that little head tilt... each sent a jolt through my fingertips.						0	1.3重置
+37	于是——	於是——	そして、気づけば――	그래서…	So naturally...						0	1.3重置
+38	唔喵，分析员？	唔喵，分析員？	んニャンっ？ 分析員……？	으냥, 분석가?	Nya? Adjutant?						0	1.3重置
+39	我用双手托起猫汐尔肉乎乎的脸颊，揉搓起来。	我用雙手托起貓汐爾肉乎乎的臉頰，揉搓起來。	両手でマーシルのもちもちした頬を包み込んで、思う存分、ふにふにと揉みしだく。	나는 양손으로 캣 시에라의 통통한 볼을 잡고 주물럭거렸다.	I cupped her plush little cheeks in both hands and gave them a firm, satisfying squish.						0	1.3重置
+40	抱歉，让我稍微揉一揉吧。	抱歉，讓我稍微揉一揉吧。	ごめん、少し揉ませてくれ。	미안, 잠깐만 주무르게 해줘.	Sorry. I just had to squish these adorable cheeks.						0	1.3重置
+41	分析员太狡猾了……居然搞突然袭击……	分析員太狡猾了……居然搞突然襲擊……	突然はズルいニャン…！	너무하다, 분석가… 갑자기 기습 공격이라니…	Sneaky, Adjutant... ambushing me like that, nya...						0	1.3重置
+42	你平时不也喜欢突然袭击我吗，这次就算是补偿吧，让我揉个过瘾吧。	你平時不也喜歡突然襲擊我嗎，這次就算是補償吧，讓我揉個過癮吧。	マーシルもよく奇襲するだろう。お返しだ。思う存分揉むからな。	기습 공격이라면 너도 평소에 자주 하잖아. 이번엔 그냥 보상이라고 생각하고 실컷 만지게 해줘.	You pull sneak attacks on me all the time. Call it justice. Now hold still...						0	1.3重置
+43	唔喵喵……刚刚还只是“稍微揉一揉”，怎么变成“揉个过瘾”了。	唔喵喵……剛剛還只是「稍微揉一揉」，怎麼變成「揉個過癮」了。	ウニャ…「少し」が「思う存分」に変わってるニャン。	으냥냥… '잠깐만 주무르겠다'라고 할 땐 언제고, 왜 이젠 '실컷 만지겠다'라고 하냥.	Nyaaa... You're really milking this, Adjutant...						0	1.3重置
+44	糟糕，看着她被揉得变形的包子脸和抖个不停的“猫耳”，指尖传来的柔软触感让人完全停不下来了。	糟糕，看著她被揉得變形的包子臉和抖個不停的「貓耳」，指尖傳來的柔軟觸感讓人完全停不下來了。	しまった、まんじゅうみたいに潰れた頬とぷるぷる震える「猫耳」が可愛すぎて、指が止まらない。	큰일이다. 내가 주물럭거려서 찐빵처럼 일그러진 얼굴과 파르르 떨리는 '고양이 귀'를 보는 동시에, 부드러운 감촉이 손끝에 전해지니 도저히 손을 멈출 수가 없었다.	Uh-oh. Her cheeks were too soft, her cat ears twitching... The tactile feedback was irresistible — I just couldn't stop myself.						0	1.3重置
+45	……分析员再揉下去，脸蛋要长出小猫了。	……分析員再揉下去，臉蛋要長出小貓了。	これ以上は顔に猫が生えるニャン…	… 분석가가 계속 그러다가는, 얼굴에서 고양이가 자라날 거다.	If you keep squishing, my cheeks are gonna sprout tiny kittens, nya...						0	1.3重置
+46	这种事情是不可能的吧。	這種事情是不可能的吧。	それは物理的に無理だ。	그런 일은 불가능할 텐데.	That's... not how biology works.						0	1.3重置
+47	会得哦，唔喵喵喵……	會得哦，唔喵喵喵……	頬が…	그럴 거다, 으냥냥냥…	It could happen, nyaaa...						0	1.3重置
+48	就是说，脸颊要肿起来了……唔喵喵喵……	就是說，臉頰要腫起來了……唔喵喵喵……	腫れるって意味ニャン…！	그러니까, 볼이 부을 거라고… 으냥냥냥…	I mean — they'll puff up like kittens! Nyaaa...						0	1.3重置
+49	真是的，分析员就这么喜欢我的脸颊吗？	真是的，分析員就這麼喜歡我的臉頰嗎？	もう……分析員は私のほっぺがそんなに好きなの？	분석가도 참, 내 볼이 그렇게 좋나?	Honestly, Adjutant... you're totally obsessed with my cheeks, nya.						0	1.3重置
+50	虽然猫汐尔嘴上一直嘟囔着，但小脚尖却诚实地踮了起来，将自己的脸蛋凑得更近了些……	雖然貓汐爾嘴上一直嘟囔著，但小腳尖卻誠實地踮了起來，將自己的臉蛋凑得更近了些……	口では文句を言いながら、マーシルのつま先は正直だ。そっと背伸びして、さらに頬を寄せてくる……	캣 시에라는 입으로는 투덜거리면서도, 발끝은 정직하게 들어 올려 자신의 볼을 더 가까이 가져다 대었다…	She kept up the grumbling, but her toes betrayed her — rising up just enough to nudge her cheeks even closer to my hands.						0	1.3重置
+51	就这样，直到天空被暮色完全笼罩，我才依依不舍地松开手。	就這樣，直到天空被暮色完全籠罩，我才依依不捨地鬆開手。	やがて夜が降り、私はようやく手を離す。	그러다가 하늘이 저녁 빛에 완전히 물들자, 나는 아쉬운 마음으로 손을 놓았다.	In the end, I only let go when the twilight had fully settled in.						0	1.3重置
+52	笨蛋分析员，手都揉酸了吧。	笨蛋分析員，手都揉酸了吧。	バカ分析員、手が疲れたでしょ。	바보 분석가, 손이 다 아플 텐데.	You dummy... your hands must be all sore from all that squishing, nya.						0	1.3重置
+53	没办法，谁叫猫汐尔实在是太可爱了呢。	沒辦法，誰叫貓汐爾實在是太可愛了呢。	仕方ない。マーシルが可愛すぎるから。	어쩔 수 없지. 캣 시에라가 너무 귀여운 걸 어떡해.	Can't help it. You're just too cute.						0	1.3重置
+54	唔咪！	唔咪！	ウミャ！	으냥!	Nya!						0	1.3重置
+55	而且，你不是也一直没叫停嘛，你看脸蛋都变得红扑扑的了。所以，要说笨蛋的话，猫汐尔也是笨蛋。	而且，你不是也一直沒叫停嘛，你看臉蛋都變得紅撲撲的了。所以，要說笨蛋的話，貓汐爾也是笨蛋。	それに、止めてって言わなかったのはマーシルだぞ。ほら、ほっぺ真っ赤になっている。――結局お互いバカだな。	그리고 너도 멈추라고 말하지 않았잖아. 볼이 발그레해졌는데도 말이야. 그러니까, 캣 시에라도 바보야.	And you didn't stop me either. Look at those cheeks — all red. So if I'm a dummy, you are too.						0	1.3重置
+56	才不是笨蛋喵，那是害羞的……	才不是笨蛋喵，那是害羞的……	バカじゃないニャン…ただ照れてるだけ…	바보 아니다냥. 그건 부끄러워서…	I'm not a dummy, nya... I'm just shy...						0	1.3重置
+57	害羞？	害羞？	照れる？	부끄럽다고?	Shy?						0	1.3重置
+58	嗯喵，“因为被分析员揉脸蛋实在是太舒服”，本来想这样回答的。	嗯喵，「因為被分析員揉臉蛋實在是太舒服」，本來想這樣回答的。	ニャン。「分析員に頬を揉まれるのが気持ち良すぎる」って言おうとしたけど――	으냥, '분석가가 볼을 주물러 주니까 너무 기분 좋아서'라고 대답하려 했다.	Mhm. "It feels so nice when you squish my cheeks" — that's what I wanted to say.						0	1.3重置
+59	但是突然觉得对于人类女孩而言，这种话说出口会有些羞耻，所以就只能打住了。	但是突然覺得對於人類女孩而言，這種話說出口會有些羞恥，所以就只能打住了。	人間の女の子が口にするには恥ずかしすぎて途中で止まったニャン。	근데 갑자기 인간 소녀가 이런 말을 하면 좀 부끄러울 것 같아서 그만뒀다.	But then I thought... for a human girl, that might be a little embarrassing. So I held back.						0	1.3重置
+60	你这不是还是说了吗……	你這不是還是說了嗎……	結局言っているじゃないか…	이미 말해버렸잖아…	And yet you said it anyway...						0	1.3重置
+61	请忽略这些细节喵。	請忽略這些細節喵。	細かいことは無視してニャン。	이런 사소한 건 무시해 달라냥.	Let's not dwell on that, nya.						0	1.3重置
+62	不行。	不行。	ダメだ。	안 돼.	No can do.						0	1.3重置
+63	唔…请忽略这些细节喵。	唔…請忽略這些細節喵。	う…スルーしてニャン。	으음… 이런 사소한 건 무시해 달라냥.	Mmm... let's not dwell on that, nya...						0	1.3重置
+64	不行。	不行。	ダーメ。	안 돼.	Still no can do.						0	1.3重置
+65	为什么？	為什麼？	どうして？	왜?	Why not?						0	1.3重置
+66	因为猫汐尔实在太可爱了。	因為貓汐爾實在太可愛了。	マーシルが可愛すぎるから。	캣 시에라가 너무 귀여우니까.	Because you're way too cute.						0	1.3重置
+67	唔……	唔……	んっ…	으음…	Nngh...						0	1.3重置
+68	不要当着人家的面说出来嘛……	不要當著人家的面說出來嘛……	目の前で言わないでよ…	그런 말은 대놓고 하지 말라고…	You don't have to say it right to my face...						0	1.3重置
+69	耳朵突然竖起，整张脸瞬间涨得通红。	耳朵突然豎起，整張臉瞬間漲得通紅。	耳がピーンと立ち、顔がみるみる真っ赤に。	갑자기 귀가 쫑긋 서더니, 그녀의 얼굴이 순식간에 새빨개졌다.	Her ears perked straight up as her whole face turned beet red.						0	1.3重置
+70	看来这次猫汐尔是真的害羞了。	看來這次貓汐爾是真的害羞了。	今度こそ本当に照れているらしい。	캣 시에라가 이번에는 정말로 부끄러워하는 것 같았다.	It seemed that this time, Mauxir really understood what it meant to be shy.						0	1.3重置
+71	总之喵——	總之喵——	と、とにかくニャン――！	어쨌든, 냥…	Anyway...						0	1.3重置
+72	她深吸一口气，泛红的指尖从裙摆边悄悄探出。	她深吸一口氣，泛紅的指尖從裙擺邊悄悄探出。	深呼吸して、紅潮した指先でスカートの端をそっとつまむと、	그녀는 깊게 숨을 들이마시고는, 붉게 물든 손끝을 스커트 뒤에서 살며시 꺼냈다.	She drew a deep breath. Her fingers peeked shyly from under her skirt hem.						0	1.3重置
+73	猫汐尔掏出了猫爪印章与那张只差一列就盖满了的约会计划单。	貓汐爾掏出了貓爪印章與那張只差一列就蓋滿了的約會計畫單。	マーシルは肉球スタンプと、あと一列だけ空いたデート計画表を取り出した。	캣 시에라는 고양이 발자국 도장과 한 칸만 더 채우면 완성되는 데이트 계획표를 꺼냈다.	Then out came the cat-paw stamp — and the nearly completed to-do list.						0	1.3重置
+74	【学会游泳】改【咪咪喵喵叫五声】	【學會游泳】改【咪咪喵喵叫五聲】	【泳げるようになる】→\n【ニャーニャー五回】へ書き換え	[수영 배우기]를 [야옹야옹 다섯 번 하기]로 변경하기	[Learn to swim] replaced with [Meow five times]						0	1.3重置
+75	完成	完成	ペタン――達成	완료하기	Check.						0	1.3重置
+76	这样，就真的全部完成了喵。	這樣，就真的全部完成了喵。	これで、本当に全部コンプリートニャン。	이렇게 하면, 정말 모두 완료한 거다냥.	Now it's really done, nya.						0	1.3重置
+77	猫汐尔是有强迫症吗……	貓汐爾是有強迫症嗎……	強迫症か？	캣 시에라, 너 강박증 같은 거 있어…?	Do you have OCD or something, Mauxir...?						0	1.3重置
+78	错误，要是有强迫症的话，就不会修改内容了喵。	錯誤，要是有強迫症的話，就不會修改內容了喵。	違うニャン。強迫症なら内容を変えない。	틀렸다. 강박증이 있었다면 내용을 수정하지 않았을 거다냥.	Wrong. If I had OCD, I wouldn't have changed the list at all, nya.						0	1.3重置
+79	我只是不想给这次宝贵的约会留下遗憾罢了。	我只是不想給這次寶貴的約會留下遺憾罷了。	ただ、この大事なデートに後悔を残したくニャい。	난 그냥, 이렇게 소중한 데이트에 아쉬움을 남기고 싶지 않을 뿐이다.	I just didn't want our special date to have any regrets.						0	1.3重置
+80	要是哪天和分析员做舒服的事情时，人家正沉浸在和你相处的幸福里……	要是哪天和分析員做舒服的事情時，人家正沉浸在和你相處的幸福裡……	もし今度、分析員と「気持ちいいコト」してる最中に――	나중에 분석가랑 기분 좋은 일을 하면서, 너랑 행복한 시간을 보낼 때…	Like... what if someday we're doing that thing we enjoy together, and I'm totally lost in the moment...						0	1.3重置
+81	然后突然想到，“唔喵！那次约会还有一项计划没完成！”的话，这种遗憾的感觉肯定会打断状态的。	然後突然想到，“唔喵！那次約會還有一項計畫沒完成！”的話，這種遺憾的感覺肯定會打斷狀態的。	「あっ！あのデート、未達成が一個あった！」なんて思い出したら雰囲気台無しニャン。	갑자기 '으냥! 그때 데이트에서 실행하지 못한 계획이 하나 있었지!' 같은 생각이 들면, 그런 아쉬움이 분위기를 깨버릴 거다.	And suddenly I remember: "Nya! There was one thing we never finished on that date!" It'd totally ruin the mood!						0	1.3重置
+82	然后然后，等到恒约的那天，说不定也会因为这个遗憾而泪流满面。	然後然後，等到恆約的那天，說不定也會因為這個遺憾而淚流滿面。	そして誓約の日にまで引きずって泣いたらイヤニャン。	그리고, 그리고, 언약의 날이 오면, 어쩌면 이 아쉬움 때문에 펑펑 울지도 모른다.	And then — on the day of our Covenant ceremony — I might even cry over it.						0	1.3重置
+83	不，那天只会因为幸福而泪流满面……而且你这思维跳跃得有些太远了吧。	不，那天只會因為幸福而淚流滿面……而且你這思維跳躍得有些太遠了吧。	その日には幸せで泣くだけだろうさ。それに話が飛躍しすぎ。	아니, 그날은 오히려 행복해서 펑펑 울 거야… 그리고 네가 생각이 너무 앞서나가는 것 같은데.	No way. You'll only be crying happy tears, if anything... And that's one heck of a leap.						0	1.3重置
+84	没办法，和分析员在一起时忍不住就想到很后面的事情了。	沒辦法，和分析員在一起時忍不住就想到很後面的事情了。	分析員といると、未来まで考えちゃうニャン。	어쩔 수 없다. 분석가랑 같이 있으면 자꾸 먼 미래의 일까지 생각하게 된다.	Can't help it. When I'm with you, my thoughts just drift way off into our future...						0	1.3重置
+85	……	……	……	……	...						0	1.3重置
+86	就这样，在恋人间的插科打诨中，不知不觉间，我就和猫汐尔完成了所有的约会计划。	就這樣，在戀人間的插科打諢中，不知不覺間，我就和貓汐爾完成了所有的約會計畫。	――そんな調子でじゃれ合ううち、いつの間にか全コンプリート。	이렇게 연인다운 농담과 장난을 치면서, 어느새 나는 캣 시에라와 모든 데이트 계획을 마쳤다.	And just like that, through playful teasing and little bits of banter, Mauxir and I finished our entire date checklist.						0	1.3重置
+87	明亮又柔和的月光下，纸页上密密麻麻的小猫爪静静地诉说着我们这一天的经历。	明亮又柔和的月光下，紙頁上密密麻麻的小貓爪靜靜地訴說著我們這一天的經歷。	柔らかな月光の下、紙いっぱいの肉球スタンプが一日中の物語を語っている。	밝고 부드러운 달빛 아래서, 종이 위에 빼곡히 찍힌 고양이 발자국이 우리가 어떤 하루를 보냈는지 조용히 말해주고 있었다.	Under the silver glow of moonlight, rows of tiny paw prints quietly marked the story of our day.						0	1.3重置
+88	当然，除此之外，还有重要的一件事，正等着我们去完成。	當然，除此之外，還有重要的一件事，正等著我們去完成。	だが、最後の「大仕事」がまだ残っている。	물론, 그 외에도 우리가 완료해야 할 중요한 일이 하나 남아있었다.	And of course — there was still one last thing left to do.						0	1.3重置
+89	是时候了喵，该去回收过去埋下的宝藏了。	是時候了喵，該去回收過去埋下的寶藏了。	そろそろニャン。埋めた宝を回収しに行く時間だよ。	때가 됐다냥. 과거에 묻어둔 보물을 회수하러 갈 시간이다.	It's time, nya. Let's go dig up the treasure I buried.						0	1.3重置
+90	总算要到寻宝环节了吗？	總算要到尋寶環節了嗎？	いよいよ宝探しだな。	드디어 보물찾기를 할 차례가 된 건가?	So it's finally time for the treasure hunt?						0	1.3重置
+91	嗯，跟我来。	嗯，跟我來。	うん、ついて来て。	응, 나를 따라와라.	Mhm. Come with me!						0	1.3重置
+92	猫汐尔那软乎乎的小手突然钻进我手心。	貓汐爾那軟乎乎的小手突然鑽進我手心。	柔らかい手が私の手を握りこむ。	캣 시에라의 보드라운 작은 손이 내 손바닥 안을 불쑥 파고들었다.	Her soft little hand slipped suddenly into mine.						0	1.3重置
+93	我们的宝藏，就在那座最高的山顶遗迹上。	我們的寶藏，就在那座最高的山頂遺跡上。	宝物は、あの一番高い遺跡の上ニャン。	우리의 보물은 저 가장 높은 산꼭대기 유적에 있다.	Our treasure lies atop the ruins on the highest peak.						0	1.3重置
+94	顺着她手指的方向望去，小岛的最高处的遗迹，此刻正沐浴在银白的月色中。	順著她手指的方向望去，小島的最高處的遺跡，此刻正沐浴在銀白的月色中。	指差す山頂の遺跡が、銀色の月に照らされている。	그녀가 가리키는 방향을 따라 바라보니, 섬의 가장 높은 곳에 있는 유적이 은백색 달빛을 받아 빛나고 있었다.	I followed her finger, gazing toward the summit — the ruins gleamed under moonlight, still and silver.						0	1.3重置
+95	一年前夏季的末尾，我曾在那里找到了疗养期间“失踪”了的猫汐尔。	一年前夏季的末尾，我曾在那里找到了療養期間「失蹤」了的貓汐爾。	――一年前の夏の終わり、私はそこで「行方不明」だったマーシルを見つけた。	1년 전 여름이 끝나갈 무렵, 나는 그곳에서 요양 중에 '실종'됐던 캣 시에라를 찾았다.	A summer ago, that was where I found Mauxir after she'd gone "missing" during the vacation.						0	1.3重置
+96	而后，我们那里约定，要一同拼凑齐名为“理解”的碎片。	而後，我們那裡約定，要一同拼湊齊名為「理解」的碎片。	そして「理解」という欠片を一緒に集めようと約束した場所。	그리고 그곳에서 우리는 '이해'라는 이름의 조각들을 함께 맞추기로 약속했다.	That was where we made a promise — to gather all the pieces so we could truly understand one another.						0	1.3重置
+97	原来是那里吗……我们的宝藏，就在那里。	原來是那裡嗎……我們的寶藏，就在那裡。	宝物は、あそこにあるのだ。	그곳이었구나… 우리의 보물이 바로 그곳에 있다.	So that's the place... that's where our treasure waits.						0	1.3重置
+98	两人牵着手沿着通往山顶的公路，向前走着。	兩人牽著手沿著通往山頂的公路，向前走著。	手を繋ぎ、山頂へ向かう舗装路を歩き出す。	두 사람은 손을 잡고, 산꼭대기로 향하는 도로를 따라 나아갔다.	Hand in hand, we began the climb up the mountain path.						0	1.3重置
+99	然而前行不久，一块斑驳的"施工中"警示牌突兀地立在路中央，后方则是断裂的桥面。	然而前行不久，一塊斑駁的「施工中」警示牌突兀地立在路中央，後方則是斷裂的橋面。	だがすぐに「工事中」の看板と崩れた橋が行く手を塞いだ。	하지만 얼마 가지 않아 도로 한가운데에는 얼룩덜룩한 '공사 중' 경고판이 우뚝 서 있었고, 그 뒤로는 끊어진 다리가 보였다.	But before long, a battered "Under Construction" sign blocked our way — the bridge beyond had completely collapsed.						0	1.3重置
+100	啊（喵），没有路了。	啊（喵），沒有路了。	道がなくなった。\n道がなくなったニャ。	아(냥), 길이 끊겼네.	Ah (Nya), it's a dead end.						0	1.3重置
+101	望着前方戛然而止的道路，我们不约而同地轻叹出声。	望著前方戛然而止的道路，我們不約而同地輕嘆出聲。	行き止まりの道を前に、私たちは同時に小さくため息を。	도중에 끊어진 도로를 바라보며, 우리는 동시에 한탄했다.	We stared at the road that cut off so abruptly, sighing in unison.						0	1.3重置
+102	也是，整座岛屿都在翻新改造，只是没想到这座通往山顶的要道也在其中。	也是，整座島嶼都在翻新改造，只是沒想到這座通往山頂的要道也在其中。	島全体が改修中とはいえ、山道まで塞がれているとは。	그도 그럴 것이, 섬 전체가 개조 공사 중이다. 하지만 산꼭대기로 가는 이 주요 도로도 공사 중일 줄은 몰랐다.	We knew the island was under renovation, but I hadn't expected even the main route to the summit to be out.						0	1.3重置
+103	看来要找条新路了喵。	看來要找條新路了喵。	別のルートを探すしかないニャン。	새로운 길을 찾아야겠다냥.	Looks like we'll have to find another way up, nya.						0	1.3重置
+104	嗯,反正也不赶时间，而且“条条大路通罗森兰”，最后总能找到通往目的地的那条路。	嗯，反正也不趕時間，而且「條條大路通羅森蘭」，最後總能找到通往目的地的那條路。	ああ、急ぐ旅でもないしな。「すべての道はローズランに通ず」って言うし。	응. 어차피 시간도 넉넉하고, "모든 길은 로젠란으로 통한다"는 말도 있잖아. 결국엔 목적지로 가는 길을 찾을 수 있을 거야.	Yeah. But that's fine — we're not in a rush. As they say, "All roads lead to Luchellan." We'll get there one way or another.						0	1.3重置
+105	我们的目的地可不是罗森兰喵。	我們的目的地可不是羅森蘭喵。	目的地はローズランじゃないニャン。	우리의 목적지는 로젠란이 아니다냥.	But we're not going to Luchellan, nya.						0	1.3重置
+106	这只是一个谚语罢了。	這只是一個諺語罷了。	ただのことわざだ。	이건 그냥 속담이야.	It's just an expression.						0	1.3重置
+107	咪~	咪~	ニャ～	냥~	Meow~						0	1.3重置
+108	这次的口癖是不是太过逼真了？	這次的口癖是不是太過逼真了？	今日の口癖、やけにリアルだな。	이번엔 말꼬리가 진짜 고양이처럼 들리는데?	That one was a little too convincing...						0	1.3重置
+109	不是我。	不是我。	私じゃないニャン。	내가 한 게 아니다.	Wasn't me.						0	1.3重置
+110	咪~~	咪~~	ニャ～	냥~~	Meow~~						0	1.3重置
+111	那……	那……	え？	그럼…	Then...						0	1.3重置
+112	正当我们还在插科打诨时，一只通体乌黑的小猫突然从枝叶间探出脑袋，琥珀般的眼睛在夕阳下闪闪发亮。	正當我們還在插科打諢時，一隻通體烏黑的小貓突然從枝葉間探出腦袋，琥珀般的眼睛在夕陽下閃閃發亮。	茂みから真っ黒な子猫が顔を出し、琥珀色の瞳を輝かせる。	우리가 여전히 장난을 치고 있을 때, 온몸이 칠흑같이 검은 작은 고양이가 갑자기 나뭇가지 사이에서 머리를 내밀었고, 호박색 눈동자가 석양 아래서 반짝이고 있었다.	Just as we were goofing around, a sleek black kitten peeked out from the underbrush, amber eyes gleaming in the sunset.						0	1.3重置
+113	是真的小猫啊。	是真的小貓啊。	本物の猫か。	진짜 고양이구나.	A real cat, huh.						0	1.3重置
+114	但是，是从哪里来的呢……	但是，是從哪裡來的呢……	でも、どこから…？	근데, 어디서 온 걸까…	But... where did it come from, nya...?						0	1.3重置
+115	“当然是从树林里出来的。”我本想下意识地这样回答。	“當然是從樹林裡出來的。”我本想下意識地這樣回答。	「林の中から出てきただろう」――そう口にしそうになったが、言葉を飲み込む。	 '숲속에서 나왔겠지.' 나는 원래 무의식적으로 이렇게 대답하려 했다.	"From the woods," I almost blurted out.						0	1.3重置
+116	但是转念一想，猫汐尔想要问的也许并不是这个。	但是轉念一想，貓汐爾想要問的也許並不是這個。	マーシルが知りたいのは、きっとそこじゃない。	하지만 다시 생각해 보니, 캣 시에라가 정말 궁금한 건 이게 아닐 것이다.	But then I realized — maybe that wasn't what she was asking.						0	1.3重置
+117	令她感到困惑的，是雅卢岛上为何会出现猫咪这一件事。	令她感到困惑的，是雅盧島上為何會出現貓咪這一件事。	――彼女が問うのは「何処から来たか」ではなく「何故ここにいるか」だ。	그녀는 야루섬에 왜 고양이가 있는지 의문이 들었을 것이다.	What puzzled her was how a cat ended up on Yallu Island at all.						0	1.3重置
+118	也许是施工队来时，船上随身带着抓耗子的小猫吧。因为船靠岸，所以就借机溜上来了。	也許是施工隊來時，船上隨身帶著抓老鼠的小貓吧。因為船靠岸，所以就借機溜上來了。	工事船に乗ってきたネズミ捕りじゃないかな。船が着いた隙に島へ上陸、とか。	아마 시공자들이 여기 오면서 쥐를 잡는 고양이를 배에 태우고 왔을 거야. 배가 정박하면서 그 틈에 올라왔고.	Maybe it came with the construction crew. Ships often bring cats to deal with stowaway mice.						0	1.3重置
+119	抓耗子的小猫？	抓老鼠的小貓？	ネズミ捕り？	쥐 잡는 고양이?	Deal with mice?						0	1.3重置
+120	嗯，运送建材的货船里不是经常藏着耗子吗，所以有些货船上会养着猫狗一类的动物。	嗯，運送建材的貨船裡不是經常藏著老鼠嗎，所以有些貨船上會養著貓狗一類的動物。	ああ。建材を運ぶ貨物船にはネズミが付きものだろ。だから猫や犬を飼う船もある。	응, 건축 자재를 운반하는 화물선에는 쥐들이 숨어있곤 하잖아. 그래서 어떤 화물선에는 고양이나 강아지 같은 동물을 키우기도 해.	Yeah. Freight ships have rat problems, so crews sometimes keep cats — or dogs — to help.						0	1.3重置
+121	也就是说充当苦力吗？	也就是說充當苦力嗎？	猫が労働力ニャン？	그러니까, 노동력으로 쓰인다는 건가?	So... they're laborers?						0	1.3重置
+122	从人类功利的角度看，确实如此。	從人類功利的角度看，確實如此。	功利的に言えばそうだが、	인간의 이해관계 관점에선, 그렇다고 할 수 있지.	From a human standpoint, sure — it's utilitarian.						0	1.3重置
+123	不过你不觉得吗？从另一种视角来看——	不過你不覺得嗎？從另一種視角來看——	でもその関係にはどこか古い契約めいたものがある気がしないか？	근데 넌 그런 생각 안 들어? 어떻게 보면…	But if you see it differently—						0	1.3重置
+124	就好像是船的守护精灵一样。	就好像是船的守護精靈一樣。	船員にとっては守り神でもあるかも。	마치 배의 수호 정령 같아.	They're like guardian spirits of the ship.						0	1.3重置
+125	开始玄幻起来了喵……	開始玄幻起來了喵……	急にファンタジーになったニャン……	왜 판타지가 되어버리냥…	That's oddly mythical, nya...						0	1.3重置
+126	只是浪漫些的比喻罢了，总之，那些被带上船的猫咪，它们既是捕鼠者，也是水手们的心灵慰藉。	只是浪漫些的比喻罷了，總之，那些被帶上船的貓咪，它們既是捕鼠者，也是水手們的心靈慰藉。	ロマンチックな比喩さ。船の猫はハンターであり、船員の心も癒す存在なんだ。	그냥 낭만적인 비유를 들어본 거야. 어쨌든 배에 탄 고양이들은 쥐를 잡는 사냥꾼이자, 선원들에게 위로가 되어주었지.	Just a poetic metaphor. They weren't just hunters — they were also companions to the crew.						0	1.3重置
+127	那不是工作又增加了喵。	那不是工作又增加了喵。	仕事が増えただけ、って見方も出来るニャン。	그러면 일이 더 늘어난 거 아니냥.	Sounds like extra work, nya.						0	1.3重置
+128	这么说倒也没错……但或许在猫的世界观里，这些身份本就不分彼此。	這麼說倒也沒錯……但或許在貓的世界觀裡，這些身分本就不分彼此。	まぁ否定はしない。でも猫自身は区別してないかもな。	맞는 말이긴 한데… 고양이의 세계관에서는 이런 역할 구분이 없을지도 몰라.	I guess you can say that... but maybe cats don't see it that way.						0	1.3重置
+129	一切都只是在履行着狩猎与生存的本能，只是我们赋予了其意义。	一切都只是在履行著狩獵與生存的本能，只是我們賦予了其意義。	ただ本能のまま狩り、生きているだけで、意味づけは私たちが後から与えているんだ。	모든 행동은 그저 사냥과 생존의 본능이고, 우리가 거기에 의미를 부여했을 뿐이지.	For them, it's just survival instinct. We're the ones who attach meaning.						0	1.3重置
+130	好像能理解了……那分析员，它们也会感到寂寞吗？	好像能理解了……那分析員，它們也會感到寂寞嗎？	少し理解できたニャン…その猫たちも寂しくなるのかな？	이해가 되는 것 같기도… 그런데 분석가, 고양이들도 외로움을 느낄까?	I think I get it now... Adjutant, do you think they ever get lonely?						0	1.3重置
+131	一辈子都在海面上，在钢铁与柴油构成的人造丛林里，它们也会渴望和同类交流吗？	一輩子都在海面上，在鋼鐵與柴油構成的人造叢林裡，它們也會渴望和同類交流嗎？	一生を海の上、鉄とディーゼルの人工ジャングルで過ごして――仲間を求めたりするのかな？	평생을 바다 위에서, 강철과 디젤로 이루어진 인공 숲속에서 산다면, 그 녀석들도 동족과의 교감을 원할까?	Spending their lives at sea, surrounded by steel and diesel... do they wish they had other cats to talk to?						0	1.3重置
+132	因为我不是猫咪，所以应该是无法回答这个问题的吧。	因為我不是貓咪，所以應該是無法回答這個問題的吧。	私は猫じゃないけど…	난 고양이가 아니니까, 이 질문은 대답을 못 할 것 같은데.	I'm not a cat, so I can't say for sure.						0	1.3重置
+133	但以人类视角揣测的话，我想……	但以人類視角揣測的話，我想……	人間の視点で言うなら、	그래도 인간의 관점에서 추측해 보자면, 내 생각엔…	But if I had to guess as a human...						0	1.3重置
+134	是的。	是的。	きっと寂しいだろう。	원할 것 같아.	I'd say yes.						0	1.3重置
+135	虽说孤独也许是生命的本质之一，但被迫的孤独与自我选择的独处之间，可是隔着整整一片海啊。	雖說孤獨也許是生命的本質之一，但被迫的孤獨與自我選擇的獨處之間，可是隔著整整一片海啊。	押し付けられた孤独と、自ら選んだ独りとでは、大きな違いがある。	외로움도 생명의 본질일 수 있다는 말이 있지만, 강요당한 외로움과 스스로 선택한 외로움 사이에는 바다만큼 큰 차이가 있지.	Maybe loneliness is part of being alive — but there's a big difference between involuntary solitude and choosing to be alone.						0	1.3重置
+136	而且……	而且……	それに……	그리고…	But...						0	1.3重置
+137	而且什么？	而且什麼？	それに？	그리고?	Mhm?						0	1.3重置
+138	我盯着猫汐尔宛若月光般明亮的眼睛，微笑着说出了答案——	我盯著貓汐爾宛若月光般明亮的眼睛，微笑著說出了答案——	月光の瞳を見つめ、私は微笑む。	나는 캣 시에라의 달빛처럼 밝은 눈동자를 바라보았고, 미소 지으며 답했다.	I met Mauxir's eyes — shining like the moon — and gave her a gentle smile.						0	1.3重置
+139	而且我相信，孤独从来都不是选择，只是在我们找到归属之前的借口罢了。	而且我相信，孤獨從來都不是選擇，只是在我們找到歸屬之前的藉口罷了。	孤独は選択じゃない。居場所を見つける前の言い訳だ、と私は思う。	그리고 난 믿어. 외로움은 선택지가 아니라, 우리가 소속감을 찾기 전까지의 핑계일 뿐이야.	But I believe loneliness is never really a choice... just an excuse we cling to until we find where we belong.						0	1.3重置
+140	……	……	……	……	...						0	1.3重置
+141	咪！！	咪！！	ニャッ！	냥!!	Meow!!						0	1.3重置
+142	不知不觉间，小猫竟已经来到了距离我们只有一米的地方。	不知不覺間，小貓竟已經來到了距離我們只有一公尺的地方。	黒猫は1メートル先まで近づき、尻尾を揺らす。	어느새 고양이가 거의 1미터 앞까지 다가와 있었다.	Before we noticed, the kitten had crept within a meter of us.						0	1.3重置
+143	它好像不怕我们喵。	它好像不怕我們喵。	逃げないニャン。	우리를 무서워하지 않는 것 같다냥.	It doesn't seem scared, nya.						0	1.3重置
+144	嗯，因为大概率是家养的吧。	嗯，因為很大可能是家養的吧。	飼い猫なんだろう。	응, 아마도 집고양이일 거야.	Probably used to being around people.						0	1.3重置
+145	说着我便俯下身来，看向了小黑猫	說著我便俯下身來，看向了小黑貓	そう言いながら身をかがめ、黒猫を覗き込む。	나는 그렇게 말하고는 몸을 숙여 검은 고양이를 바라봤다.	I knelt to meet its gaze.						0	1.3重置
+146	你对这里很熟悉，对吗？	你對這裡很熟悉，對嗎？	この道に詳しいんだろ？	넌 여길 잘 알고 있지?	You know this island well, don't you?						0	1.3重置
+147	咪~	咪~	ニャ～	냥~	Meow~						0	1.3重置
+148	那…上山的路，可以告诉我们吗？	那…上山的路，可以告訴我們嗎？	山頂への道、案内してくれる？	그럼… 산꼭대기로 가는 길을 알려줄래?	Then... will you show us the way?						0	1.3重置
+149	咪咪~	咪咪~	ニャ～	냥냥~	Meow, meow~						0	1.3重置
+150	它轻轻地叫唤了两声，然后优雅地转身甩了甩尾巴，回头望了我们一眼。	它輕輕地叫喚了兩聲，然後優雅地轉身甩了甩尾巴，回頭望了我們一眼。	「ついてこい」と言うように、子猫は踵を返す。	고양이가 나지막한 울음소리를 두 번 내더니, 우아하게 몸을 돌려 꼬리를 살랑이고는 우리를 돌아보았다.	It mewed twice, turned with a swish of its tail, and looked back.						0	1.3重置
+151	那个样子，就好像是在说“跟我来”。	那個樣子，就好像是在說“跟我來”。	その仕草はまるで道案内しているみたいだ。	마치 '따라와'라고 말하는 것 같았다.	As if to say, "Follow me."						0	1.3重置
+152	……	……	……	……	...						0	1.3重置
+153	夜晚林间，我们手牵着手，追寻着小猫的足迹盘山而上。	夜晚林間，我們手牽著手，追尋著小貓的足跡盤山而上。	――夜の林を、私たちは手を繋ぎ、小さな足跡を追う。	밤이 찾아온 숲속에서, 우리는 손을 맞잡고 고양이의 발자국을 따라 구불구불한 산길을 올랐다.	Night had fallen. Hand in hand, we climbed through the mountain woods, following the kitten's lead.						0	1.3重置
+154	腐殖土上，小小的爪印如同散落的梅花，与路边零零散散的发着粉色微光的水之影交错排布。	腐殖土上，小小的爪印如同散落的梅花，與路邊零零散散的發著粉色微光的水之影交錯排布。	湿った腐葉土に梅花のような肉球跡、脇には淡いピンクに光る水の影。	부식토 위에 새겨진 작은 발자국은 마치 흩뿌려진 매화꽃 같았고, 길가에 드문드문 분홍빛을 내는 수중 그림자가 뒤얽혀 있었다.	On the soft loam, delicate pawprints scattered like plum blossoms — interwoven with softly glowing, pink-blushed blooms called shadow lotus.						0	1.3重置
+155	而我们，则成了追寻花朵的旅人。	而我們，則成了追尋花朵的旅人。	こうして私たちは、薄紅の光を辿る「花を探す旅人」になった。	그리고 우리는, 꽃을 찾아 떠나는 여행자가 되었다.	Just like that, we became travelers chasing flowers.						0	1.3重置
+156	没想到这里还有粉色的水之影喵……	沒想到這裡還有粉色的水之影喵……	ピンクの水の影ね……	여기에 분홍색 수중 그림자가 있을 줄은 몰랐다…	Didn't expect pink shadow lotus up here, nya...						0	1.3重置
+157	嗯，去年的时候都没发现呢。	嗯，去年的時候都沒發現呢。	ああ、去年は見かけなかったな。	응. 작년에는 못 봤는데 말이야.	Yeah. I don't remember seeing them last year.						0	1.3重置
+158	我不禁这样浪漫地联想到。	我不禁這樣浪漫地聯想到。	――そんなロマンチックな連想が、つい脳裏をかすめる。	불현듯 낭만적인 상상이 떠올랐다.	A poetic thought crossed my mind:						0	1.3重置
+159	季节不断消逝，但若是只要持续行走下去，那些曾被错过的花期终将在某个转角重逢……	季節不斷消逝，但若是只要持續行走下去，那些曾被錯過的花期終將在某個轉角重逢……	季節を重ねれば、逃した花にも再会できるってことだな。	계절은 쉬지 않고 흘러가지만, 계속 걸어가다 보면 어긋났던 꽃들과 어느 모퉁이에서 다시 만나게 될 것이다…	Seasons come and go — but if we keep walking forward, maybe the blossoms we once missed will greet us at the next bend...						0	1.3重置
+160	然而，没走多久，我们便又被一座桥拦住了去路。	然而，沒走多久，我們便又被一座橋攔住了去路。	――しかし、すぐにまた橋に行く手を塞がれる。	하지만 얼마 가지 못해 다리 하나가 우리 앞을 막아섰다.	Before long, another bridge blocked our path.						0	1.3重置
+161	与之前的混凝土桥不同，这是一座由藤蔓与木板组合而成的吊桥，下方不远处就是一个轰鸣的瀑布水潭。	與之前的混凝土橋不同，這是一座由藤蔓與木板組合而成的吊橋，下方不遠處就是一個轟鳴的瀑布水潭。	今度は蔓と板で編まれた吊り橋だ。下には轟く滝壺が見える。	전에 봤던 콘크리트 다리와는 달리, 이건 덩굴과 나무판으로 만들어진 현수교였고, 바로 아래에는 우렁차게 울리는 폭포수와 연못이 있었다.	Unlike the earlier concrete one, this bridge was a suspension of planks and vines, stretching over a roaring pool beneath the falls.						0	1.3重置
+162	乍看之下，它所缺失的不过是中间的几块木板而已，而且，即便跌落也不会有生命危险。	乍看之下，它所缺失的不過是中間的幾塊木板而已，而且，即便跌落也不會有生命危險。	欠けた板はわずか。落ちても命の危険はないが……	얼핏 보기에는 중간에 나무판 몇 개만 없을 뿐이었고, 떨어진다 해도 생명에는 지장이 없을 것 같았다.	At first glance, it was only missing a few planks in the middle — and even a fall wouldn't be life-threatening.						0	1.3重置
+163	咪~~	咪~~	ニャ～	냥~~	Meow~~						0	1.3重置
+164	小黑猫凭借着灵巧的身姿很快跳过了断桥的缺口，它蹲在对面的桥墩上，发出咪咪的叫声，似乎是在示意我们跟上。	小黑貓憑藉著靈巧的身姿很快跳過了斷橋的缺口，它蹲在對面的橋墩上，發出咪咪的叫聲，似乎是在示意我們跟上。	黒猫は軽やかに欠けた板を跳び越え、対岸で「ニャニャ」と鳴いて私たちを促す。	검은 고양이는 날렵한 몸놀림으로 끊어진 다리를 잽싸게 지나가더니, 맞은편 교각 위에 엎드려 야옹야옹 울었다. 우리더러 따라오라는 것 같았다.	The black kitten bounded across to the far post and let out a meow — as if to say, "Follow me."						0	1.3重置
+165	我先走。	我先走。	先に渡る。	내가 먼저 갈게.	I'll take point.						0	1.3重置
+166	虽然这座桥看上去比之前的桥要完整一些，但藤条与木板结构很有可能已经腐朽了。	雖然這座橋看上去比之前的橋要完整一些，但藤條與木板結構很有可能已經腐朽了。	見た目より蔓も板も傷んでいそうだ。	이 다리는 전에 봤던 다리보다는 온전해 보였지만, 덩굴과 나무판의 구조가 썩었을 가능성이 높았다.	The bridge looked fine at a glance — but the vines and planks could've been rotting underneath.						0	1.3重置
+167	吱——	吱——	ギシ…	끼이익…	Creak—!						0	1.3重置
+168	在踏上桥的瞬间，木板发出了恐怖的呻吟，不过好在还算稳定。	在踏上橋的瞬間，木板發出了恐怖的呻吟，不過好在還算穩定。	――踏み出すと、不気味なうめき声を上げたが持ちこたえる。	다리를 밟는 순간 나무판에서 소름 끼치는 신음이 났지만, 다행히도 발밑은 안정적인 편이었다.	The wood groaned ominously underfoot the moment I stepped on... but held.						0	1.3重置
+169	分析员，小心点喵。	分析員，小心點喵。	気をつけてニャン。	분석가, 조심해라냥.	Careful, Adjutant.						0	1.3重置
+170	身后的猫汐尔担忧地攥紧了拳头。	身後的貓汐爾擔憂地攥緊了拳頭。	背後で拳を握りしめるマーシル。	뒤에 있는 캣 시에라가 걱정스러운 듯 주먹을 꽉 쥐었다.	Behind me, Mauxir stood with clenched fists, watching nervously.						0	1.3重置
+171	我没事的。	我沒事的。	大丈夫だ。	괜찮아.	I'm fine.						0	1.3重置
+172	安抚好身后的猫汐尔后，我调整好呼吸，稳住身形，然后迈开了步伐。	安撫好身後的貓汐爾後，我調整好呼吸，穩住身形，然後邁開了步伐。	マーシルをなだめて深呼吸。胸の鼓動を整え、そっと一歩を踏み出す。	뒤에 있는 캣 시에라를 안심시킨 후, 나는 호흡을 가다듬고 자세를 잡은 다음 발걸음을 내디뎠다.	After calming her, I steadied my breath, planted my footing, and began to cross with deliberate steps.						0	1.3重置
+173	……	……	……	……	...						0	1.3重置
+174	成功了。	成功了。	――無事、向こう岸へ。	성공이다.	Made it.						0	1.3重置
+175	顺利抵达对岸后，我才发现那只为我们引路的小黑猫早已不见踪迹了，而它所蹲过的地方，则多出了一条结实的藤条。	順利抵達對岸後，我才發現那隻為我們引路的小黑貓早已不見蹤跡了，而它所蹲過的地方，則多出了一條結實的藤條。	案内役の黒猫は姿を消し、その場所には太い蔓が一本残されている。	무사히 건너편에 도착하고 나서야 우리를 안내하던 검은 고양이가 사라졌다는 걸 알아챘다. 그리고 그 고양이가 앉아 있던 자리에는 튼튼한 등나무 덩굴 하나가 놓여있었다.	Once my feet landed on solid ground again, I glanced around — the kitten was gone. But in its place was a sturdy-looking vine.						0	1.3重置
+176	是它留下的吗？还是本身就在这？无暇细想，我再确认了藤条的结实度后，便将其拴在了桥墩上，然后将另一端，丢给了猫汐尔。	是它留下的嗎？還是本身就在這？無暇細想，我再確認了藤條的結實度後，便將其拴在了橋墩上，然後將另一端，丟給了貓汐爾。	これは……そいつが置いていったものなのか、それとももともとここにあったのか？とにかく蔓の強度を確かめ、橋桁に固定してマーシルへ放る。	고양이가 두고 간 걸까? 아니면 원래부터 있었던 걸까? 자세히 생각할 겨를이 없었다. 나는 등나무 덩굴의 강도를 다시 확인한 후 교각에 묶고, 다른 한쪽 끝을 캣 시에라에게 던졌다.	Had it left it there? Or had it always been? No time to wonder. I checked the vine, tied one end to the post, and flung the other to Mauxir.						0	1.3重置
+177	可以过来了	可以過來了	渡っていいぞ。	이제 건너도 돼.	All set — come on over.						0	1.3重置
+178	嗯！	嗯！	うん！	응!	Got it!						0	1.3重置
+179	猫汐尔抓住绳子后便开始渡桥。	貓汐爾抓住繩子後便開始渡橋。	蔓を握ったマーシルが渡り始める。	캣 시에라는 줄을 잡고 다리를 건너기 시작했다.	Mauxir gripped the rope and stepped onto the bridge.						0	1.3重置
+180	起初一切开始都很顺利，但是就在最后一块木板时——	起初一切開始都很順利，但是就在最後一塊木板時——	最初は順調だった。だが最後の一枚を踏んだ瞬間――	순조롭게 건너는 듯했지만, 마지막 나무판에 이르렀을 때…	Everything went smoothly... right up until the last plank.						0	1.3重置
+181	也许经过了两轮碾压，它的承受能力终归还是达到了上限，断裂了。	也許經過了兩輪碾壓，它的承受能力終究還是達到了上限，斷裂了。	二人分の荷重に耐え切れず、板がバキリと折れた。	두 번의 압박을 견뎌내 한계에 다다른 모양인지, 결국 나무판이 부러져버렸다.	Maybe it couldn't handle two crossings in a row — it gave out with a loud crack.						0	1.3重置
+182	分析员！	分析員！	分析員！	분석가!	Adjutant!						0	1.3重置
+183	抓住了！	抓住了！	掴め！	잡았다!	I've got you!						0	1.3重置
+184	奇怪……	奇怪……	おかしいニャン……	이상하다…	That's... weird...						0	1.3重置
+185	猫汐尔，没事吧？	貓汐爾，沒事吧？	マーシル、大丈夫か？	캣 시에라, 괜찮아?	You alright, Mauxir?						0	1.3重置
+186	就在刚刚，身体比思维更早做出反应，在她意识到之前，手臂已经本能地伸向那个人。	就在剛剛，身體比思維更早做出反應，在她意識到之前，手臂已經本能地伸向那個人。	考えるより先に体が動いた。脳が理解する前に、腕が彼女を――その小さな存在を――掴み取っていた。	방금 머리보다 몸이 더 먼저 반응했고, 그녀가 의식하기도 전에 내 팔은 본능적으로 그녀에게 뻗어 나갔다.	Before I could even think, my arm had already moved — catching her before she realized what was happening.						0	1.3重置
+187	嗯，我没事。而且好像即便掉下去，也无所谓了……	嗯，我沒事。而且好像即便掉下去，也無所謂了……	不思議…落ちても怖くないような……	응, 괜찮다. 게다가 떨어진다고 해도 상관없을 것 같다…	I'm fine. Actually... I don't think I'm scared of falling in anymore...						0	1.3重置
+188	真的吗？那我可要松手了哦。	真的嗎？那我可要鬆手了哦。	本当か？じゃあ手を離すぞ？	정말이야? 그럼 이제 놓는다?	Oh yeah? Then maybe I'll let go.						0	1.3重置
+189	唔，还是不要了喵。	唔，還是不要了喵。	やっぱり嫌ニャン。	으음, 그건 안 된다냥.	Um... maybe don't, nya.						0	1.3重置
+190	至少……要一起落下去。	至少……要一起落下去。	少なくとも…一緒に落ちるならいいニャン。	그럴 거면… 같이 떨어지자.	If anything... we should fall in together.						0	1.3重置
+191	那我们还是一起上来吧。	那我們還是一起上來吧。	じゃあ一緒に上がろう。	그럴 바에는 같이 올라가는 게 낫겠다.	Or — how about we both get back to solid ground instead?						0	1.3重置
+192	抓稳了……我这就把你拉上来。	抓穩了……我這就把你拉上來。	しっかり掴め。	꽉 잡아… 지금 끌어올릴게.	Hold on tight... I'm pulling you up.						0	1.3重置
+193	嗯。	嗯。	うん。	응.	Mhm.						0	1.3重置
+194	安心感……	安心感……	胸に広がるのは、安堵という名の温度。	마음이 편안해졌다…	A sense of peace...						0	1.3重置
+195	一瞬间，在被失重感包裹住身体的刹那，那些纠缠少女多年的梦魇却突然像退潮般消散了。	一瞬間，在被失重感包裹住身體的剎那，那些糾纏少女多年的夢魘卻突然像退潮般消散了。	無重力の一瞬で、長年まとわり付いた悪夢が潮のように退いていくのを感じる。	그때, 무중력감이 몸을 감싸는 찰나, 소녀를 수년간 괴롭혔던 그 악몽들이 마치 썰물처럼 사라졌다.	In that instant, as she plunged into weightlessness, all the nightmares that had haunted her for years seemed to ebb away, retreating like the tide from the shore.						0	1.3重置
+196	原来，人类能够依据自身意志而将恐惧的形态逆转……	原來，人類能夠依據自身意志而將恐懼的形態逆轉……	恐怖は、意思ひとつでかたちを変える――人はそんなふうにも生きられるのだと。	그렇다, 인간은 자신의 의지로 두려움을 뒤집을 수 있었다…	So this is what it feels like — when fear turns to courage through sheer will.						0	1.3重置
+197	或者，准确来说，伸出手臂这一行为已经不再是基于对水的恐惧了。	或者，準確來說，伸出手臂這一行為已經不再是基於對水的恐懼了。	いや、正確には「水への恐れ」ではもはやない。	아니, 정확히 말하자면 팔을 뻗는 행동은 더 이상 물에 대한 두려움에서 비롯된 게 아닌…	Or maybe, more truthfully, her outstretched hand wasn't driven by her fear of the water anymore.						0	1.3重置
+198	而是……	而是……	それは――	바로…	This time, she was reaching for something else — for someone.						0	1.3重置
+200	水面倒映着两人交叠的身影。	水面倒映著兩人交疊的身影。	水面には、重なり合う二人の影。	수면에는 두 사람의 교차된 그림자가 일렁이고 있었다.	Their entwined silhouettes shimmered on the water's surface.						0	1.3重置
+201	猫汐尔闭上了眼睛。	貓汐爾閉上了眼睛。	マーシルはそっと瞼を閉じる。	캣 시에라는 눈을 감았다.	Mauxir closed her eyes.						0	1.3重置
+202	而后，后知后觉地意识到——	而後，後知後覺地意識到——	そして、はっとしたように悟る――	그리고 뒤늦게 깨달았다.	And in that instant, it dawned on her:						0	1.3重置
+203	……而是我已经不再需要借口了喵。	……而是我已經不再需要藉口了喵。	……もう言い訳なんて要らない、と。	… 난 이제 더 이상 핑계가 필요 없다냥.	...I don't need that excuse anymore, nya.						0	1.3重置
+204	渡过了那座危险的吊桥后，后面的道路便变得平坦而通畅起来，而我们也很快便绕到了一条公路上。	渡過了那座危險的吊橋後，後面的道路便變得平坦而通暢起來，而我們也很快便繞到了一條公路上。	危うい吊り橋を越えると、道は嘘みたいに穏やかになり、やがて舗装路へと回り込んだ。	위태로운 현수교를 건넌 후, 평탄하고 순조로운 길이 이어졌고, 우리는 금세 어떤 도로에 돌아들었다.	Once we crossed the rickety bridge, the path ahead smoothed out — and before long, we hit a proper paved road.						0	1.3重置
+205	现在，即便是没有了小黑猫的指引也好像已经无所谓了。	現在，即便是沒有了小黑貓的指引也好像已經無所謂了。	もはや黒猫の案内がなくても迷わない。	이제는 검은 고양이의 안내가 없어도 괜찮을 것 같다.	Even without the kitten to lead us, I felt certain we'd be fine.						0	1.3重置
+206	因为，这条被月光亲吻的小径，正明明白白地通向该去的方向。	因為，這條被月光親吻的小徑，正明明白白地通向該去的方向。	月に撫でられた一本道が、行く先を静かに指し示しているから。	달빛이 입 맞춘 이 오솔길이 우리가 가야 할 방향을 분명하게 가리키고 있으니까.	The moonlit path seemed to be leading us exactly where we were meant to go.						0	1.3重置
+207	蓄水池……	蓄水池……	……貯水池だね。	저수지…	A reservoir...						0	1.3重置
+208	然而，在一个转角处的斑驳指示牌前，猫汐尔却停下了脚步。	然而，在一個轉角處的斑駁指示牌前，貓汐爾卻停下了腳步。	曲がり角の色あせた案内板の前で、マーシルは立ち止まる。	하지만 모퉁이에 있는 얼룩덜룩한 표지판 앞에서, 캣 시에라는 발걸음을 멈췄다.	Just around the bend, Mauxir paused by an old, weathered signpost.						0	1.3重置
+209	嗯，是已经废弃的蓄水池。	嗯，是已經廢棄的蓄水池。	ああ、放棄された貯水池だな。	응. 폐기된 저수지네.	Yeah. An abandoned one.						0	1.3重置
+210	猫汐尔应该还记得吧，卫城学院的调查员们曾经在这里展开过科研工作。	貓汐爾應該還記得吧，衛城學院的調查員們曾經在這裡展開過科研工作。	覚えているか？昔、アクロポリス学院の調査班がここで研究していたんだ。	캣 시에라도 기억하겠지만, 아크로폴리스 아카데미의 조사원들이 여기서 연구 작업을 진행했었지.	You remember? Acropolis researchers used to run fieldwork here.						0	1.3重置
+211	为了调查香蒲族的事情吧。	為了調查香蒲族的事情吧。	アヤメ族を調べるため、だよね。	부들족에 대해 조사하기 위해서였던가.	Investigating the Typha, right?						0	1.3重置
+212	没错，这个蓄水池就是那时卫城学院修建的，为了储存调查队使用的淡水资源。	沒錯，這個蓄水池就是那時衛城學院修建的，為了儲存調查隊使用的淡水資源。	そうだ。この貯水池は彼らが淡水を確保するために造った施設だ。	맞아, 이 저수지는 그때 아크로폴리스 아카데미에서 만든 거야. 조사대가 사용할 담수 자원을 저장하기 위해서였지.	Exactly. This place used to supply fresh water to the research teams.						0	1.3重置
+213	不过拉美西斯集团和世界树接管这里后，带来了海水淡化装置，所以这个蓄水池就被弃用了。	不過拉美西斯集團和世界樹接管這裡後，帶來了海水淡化裝置，所以這個蓄水池就被棄用了。	けれど後でラムセスグループとユグドラシルが島を接収して、海水淡化プラントを持ち込んだから役目を終えた。	하지만 람세스 그룹과 위그드라실이 이곳을 인수한 후, 해수 담수화 장치를 들여왔고, 이 저수지는 폐기됐어.	But after Ramses Group and Yggdrasil took over, they switched to desalinated seawater — and this place was left behind.						0	1.3重置
+214	也就是说，是我母校的遗产呢。	也就是說，是我母校的遺產呢。	つまり、私の母校の遺産ってわけだね。	그러니까, 여긴 내 모교의 유산이다.	So it's a relic from my alma mater.						0	1.3重置
+215	猫汐尔想去看看吗？因为现在是雨季，所以水池里的水大概还是满的。	貓汐爾想去看看嗎？因為現在是雨季，所以水池裡的水大概還是滿的。	中をのぞいてみるか？今は雨期だから水は満タンのはずだ。	캣 시에라도 보러 가볼래? 지금은 우기라서 저수지에 물이 가득 차 있을 거야.	Wanna check it out? It's the rainy season — it's probably full.						0	1.3重置
+216	嗯，要去要去。	嗯，要去要去。	うん、行こう行こう。	응. 가자, 가자.	Uh-huh! Totally~						0	1.3重置
+217	此时，猫汐尔口中的宝藏究竟为何物，似乎早已不再重要。	此時，貓汐爾口中的寶藏究竟為何物，似乎早已不再重要。	マーシルの「宝物」が何であれ、それはもう二人にとって些細なことだった。	이쯤 되니 캣 시에라가 말한 보물이 무엇인지는 더 이상 중요하지 않은 듯했다.	By now, the treasure Mauxir had been chasing no longer seemed to matter.						0	1.3重置
+218	无论是她，还是我，我们只想让这个泛着月色的夜晚，让这段与她并肩的时光，能停留得久一些，再久一些……	無論是她，還是我，我們只想讓這個泛著月色的夜晚，讓這段與她並肩的時光，能停留得久一些，再久一些……	月光に染まる夜と、肩を並べる時間を少しでも長く――ただ、それだけを願っている。	그녀도, 나도, 우리는 달빛이 비치는 이 밤과 그녀와 함께하는 이 시간이 조금 더 오래 지속되기를 바랄 뿐이었다…	All we wanted... was for this moonlit night — and our time together — to last just a little longer.						0	1.3重置
+219	哦……好大的一片水，感觉比大海还大喵。	哦……好大的一片水，感覺比大海還大喵。	わぁ……水面が、海より広く感じるニャン。	오… 정말 크다. 바다보다 더 큰 것 같다냥.	Whoa... that's one huge pond. Feels even bigger than the ocean, nya.						0	1.3重置
+220	明明是大海更宽广，这个蓄水池充其量只能算是个大号的泳池吧。	明明是大海更寬廣，這個蓄水池充其量只能算是個大號的泳池吧。	本当の海のほうがずっと広いさ。ここは大きめのプールみたいなものだ。	바다가 더 넓잖아. 이 저수지는 기껏해야 큰 수영장 정도밖에 안 되는데.	Come on — the ocean's way bigger. This is basically just a giant swimming pool.						0	1.3重置
+221	我是指在我心中的广度。	我指的是在我心中的廣度。	心の中のスケールで言えば、ってことだよ。	내 마음속에서의 크기를 말하는 거다.	I meant how big it feels in my heart.						0	1.3重置
+222	要离近点看看吗？	要離近點看看嗎？	もっと近くで見るか？	좀 더 가까이 가서 볼까?	Want to get a little closer?						0	1.3重置
+223	嗯，我想把鞋子脱掉坐到水边。	嗯，我想把鞋子脫掉坐到水邊。	うん。靴を脱いで縁に座りたい。	응. 신발 벗고 물가에 앉고 싶다.	Mm. I wanna take off my shoes and sit by the edge.						0	1.3重置
+224	分析员……也来。	分析員……也來。	分析員も一緒に。	분석가도… 그렇게 해라.	Sit with me, Adjutant.						0	1.3重置
+225	好的，但要小心点，别滑下去了。	好的，但要小心點，別滑下去了。	わかった。滑らないように気をつけろ。	그래, 하지만 조심해야 해. 미끄러져 떨어지지 않게.	Sure. Just don't slip into the water.						0	1.3重置
+226	嗯喵。	嗯喵。	うんニャン。	으냥.	Mm-hmm.						0	1.3重置
+227	……	……	……	……	...						0	1.3重置
+228	最后，我还是没能学会游泳呢……	最後，我還是沒能學會游泳呢……	結局、泳ぎはまだ覚えられなかったね。	난 결국 수영을 배우지 못했다…	In the end... I never did learn how to swim.						0	1.3重置
+229	或许是因为猫汐尔从未真正开始学习吧。	或許是因為貓汐爾從未真正開始學習吧。	挑戦しなければ、出来るようにはならないさ。	캣 시에라가 진심으로 배우려 하지 않아서 그런 걸 거야.	Maybe because you never really gave it a shot.						0	1.3重置
+230	一件事如果不去开始尝试，那么就永远也学不会。	一件事如果不去開始嘗試，那麼就永遠也學不會。	まず始めることが大事だ。	어떤 일이든 시도조차 하지 않으면 영원히 배울 수 없으니까.	You've gotta try for real if you want to learn.						0	1.3重置
+231	嗯……但我讨厌在水里的感觉，如果只是脚能着地还好，但一旦没有什么可以踩住的，就会清晰地感觉到一股莫名的无力感。	嗯……但我討厭在水裡的感覺，如果只是腳能著地還好，但一旦沒有什麼可以踩住的，就會清晰地感覺到一股莫名的無力感。	水中で足が着かなくなると、急に力が抜ける感じがして苦手なんだ。	음… 하지만 난 물속에 있는 게 싫다. 발이 바닥에 닿으면 괜찮은데, 발 디딜 곳이 없어지면 확실히 이상한 무력감이 느껴진다.	Mm... I just hate how it feels. As long as my feet touch the bottom, I'm okay — but the moment there's nothing beneath me... this strange, crushing helplessness takes over.						0	1.3重置
+232	那种感觉，就像小时候一样。	那種感覺，就像小時候一樣。	その感覚‥‥子どもの頃と同じだね。	그 느낌은, 꼭 어렸을 때 같다.	It's the same way I felt as a kid.						0	1.3重置
+233	那场意外过后，躺在血泊里的我，只觉得整个世界都在变冷，而我能做的只有看着天花板发呆……	那場意外過後，躺在血泊裡的我，只覺得整個世界都在變冷，而我能做的只有看著天花板發呆……	あの事故のあと、血の海に横たわる私は、全身が凍りつくような寒気に襲われ、ただ天井をぼんやり見つめるしかなかった。	그 사고 이후, 피 웅덩이에 누워있던 나는 온 세상이 차가워지는 것만 같았고, 그저 천장을 멍하니 바라보는 것 말고는 할 수 있는 게 없었다…	After that accident — lying in a pool of blood — the world just kept getting colder... and all I could do was stare at the ceiling.						0	1.3重置
+234	不过，这还不是最糟糕的。	不過，這還不是最糟糕的。	でもそれより辛かったのは、	하지만, 그건 최악의 상황이 아니었다.	But that wasn't even the worst part.						0	1.3重置
+235	身为无痛症患者，就连那种时刻都无法真正理解别人所说的"疼痛"是什么感觉。	身為無痛症患者，就連那種時刻都無法真正理解別人所說的"疼痛"是什麼感覺。	無痛症の私には「痛み」が分からなかったこと。	무통증 환자로서, 그런 순간마저도 다른 사람들이 말하는 '고통'이 무엇인지 진정으로 이해할 수 없었으니까.	With congenital analgesia... I didn't even know what pain was supposed to feel like — not even then.						0	1.3重置
+236	康复后，也始终不知道该怎么和别人正常地相处。	康復後，也始終不知道該怎麼和別人正常地相處。	回復しても、どう人と接すればいいか分からなかった。	회복한 후에도, 다른 사람들과 정상적으로 지내는 방법을 몰랐다.	Even after I got better, I still didn't know how to connect with people.						0	1.3重置
+237	也就是那时我才发现，也许自己的人生才是最大水坑。	也就是那時我才發現，也許自己的人生才是最大水坑。	そのとき気づいたんだ。私の人生こそ一番深い「水たまり」だって。	그때야 깨달았다. 가장 큰 수렁은 어쩌면 내 인생일지도 모른다는 걸.	That's when I realized... maybe my whole life was just one giant pond I couldn't get out of.						0	1.3重置
+238	我注意到，陈述这些悲伤的回忆时，如今的猫汐尔却显得很平静。	我注意到，陳述這些悲傷的回憶時，如今的貓汐爾卻顯得很平靜。	悲しい記憶を語りながらも、マーシルの声は穏やかだった。	지금의 캣 시에라는 이런 슬픈 기억을 이야기하면서 오히려 차분해 보였다.	This time, I noticed — Mauxir's voice stayed calm, even as she talked about her pain.						0	1.3重置
+239	不过——	不過——	でも――	하지만…	Although...						0	1.3重置
+240	现在说起这些，好像已经不会难过了喵。	現在說起這些，好像已經不會難過了喵。	今はもう、話しても平気だニャン。	지금은 이런 얘기를 해도 더 이상 슬프지 않은 것 같다냥.	Talking about it all... doesn't really make me sad anymore, nya.						0	1.3重置
+241	一切都已过去。	一切都已過去。	すべては過去になった。	모든 것이 지나갔다.	All of it had passed.						0	1.3重置
+242	因为，我遇见了分析员。	因為，我遇見了分析員。	だって、分析員に出会ったから。	왜냐하면, 분석가를 만났다.	Because I met you, Adjutant.						0	1.3重置
+243	一切都改变了……	一切都改變了……	全部、変わったんだ。	모든 게 변했다…	And after that... everything changed.						0	1.3重置
+244	就在此时，少女的音色中泛起了涟漪。	就在此時，少女的音色中泛起了漣漪。	その声にはかすかな震えが混じっていた。	바로 그때, 소녀의 목소리에 잔물결이 일었다.	I heard something shift in her voice.						0	1.3重置
+245	是啊，一切都在发生改变。	是啊，一切都在發生改變。	――そう、すべてが少しずつ変わっていく。	그렇다. 모든 것이 변화하고 있다.	Yeah... everything really had changed.						0	1.3重置
+246	在遇到分析员之前，我一直游离在这个世界之外。	在遇到分析員之前，我一直游離在這個世界之外。	出会う前の私はずっと世界の外側を漂ってた。	분석가를 만나기 전까지는 계속 이 세상과 동떨어져 살았다.	Before you, I always felt like I was drifting outside the world.						0	1.3重置
+247	而分析员，是第一个“找到”我的人。	而分析員，是第一個“找到”我的人。	そして分析員は、初めて「私を見つけた」人。	그리고 분석가는, 나를 처음으로 '찾아준' 사람이다.	You were the first person who really found me.						0	1.3重置
+248	第一次有人认真听完了我那些颠三倒四的念头，第一次有人愿意花时间了解我。	第一次有人認真聽完了我那些顛三倒四的念頭，第一次有人願意花時間了解我。	取り留めのない話を最後まで聞いてくれて、理解しようとしてくれた。	처음으로 누군가가 내 뒤죽박죽인 생각을 진지하게 들어줬고, 처음으로 누군가가 시간을 써서 나를 이해하려고 했다.	The first to listen — really listen — to all my scattered, tangled thoughts. The first to try and understand me.						0	1.3重置
+249	因为你找到了我，自此，我的世界发生了翻天覆地的变化。	因為你找到了我，自此，我的世界發生了翻天覆地的變化。	分析員が私を見つけてくれたおかげで、	네가 나를 찾아준 그 순간부터, 내 세상은 완전히 뒤바뀌었다.	You found me — and you turned my whole world around.						0	1.3重置
+250	或者说，因为你的存在，这个世界终于不再和我无关了。	或者說，因為你的存在，這個世界終於不再和我無關了。	世界はやっと私と繋がったんだよ。	다른 말로 하자면, 너의 존재 덕분에 이 세상이 드디어 나와 무관하지 않게 되었다.	Or maybe... thanks to you, the world finally started to make sense.						0	1.3重置
+251	所以我……	所以我……	だから、私――	그래서 나는…	So I...						0	1.3重置
+252	猫汐尔的脸颊以肉眼可见的速度染上绯红。	貓汐爾的臉頰以肉眼可見的速度染上緋紅。	マーシルの頬がみるみる赤くなる。	캣 시에라의 볼이 눈에 띄게 붉어졌다.	A flush quickly rose to her cheeks.						0	1.3重置
+253	唔……	唔……	んっ…	으음…	Nngh...						0	1.3重置
+254	她纤长的睫毛轻轻颤动，琥珀色的瞳孔里流转着繁星般细碎的光芒。	她纖長的睫毛輕輕顫動，琥珀色的瞳孔裡流轉著繁星般細碎的光芒。	長い睫毛が震え、琥珀の瞳に星屑のような煌めきが宿る。	그녀의 가늘고 긴 속눈썹이 살짝 떨리고, 호박색 눈동자는 수많은 별빛이 흐르는 듯했다.	Her delicate lashes quivered, and her amber eyes shone like stars in the night.						0	1.3重置
+255	突然，攥紧了拳头，池水在我们之间轻轻荡漾，折射的光斑在她脸上跳动，映射出了内心的悸动。	突然，攥緊了拳頭，池水在我們之間輕輕蕩漾，折射的光斑在她臉上跳動，映射出了內心的悸動。	握られた拳が池面の光を跳ね返し、頬に躍る光斑が彼女の鼓動を映している。	갑자기 주먹을 꽉 쥐자, 연못 물이 우리 사이에서 가볍게 일렁였고, 반사된 빛이 그녀의 얼굴 위에서 춤추며 두근거리는 마음을 비쳤다.	She clenched her fists. Water shimmered around us, casting ripples of light across her face — mirroring the flutter in her heart.						0	1.3重置
+256	我屏住呼吸，世界只剩下两人的心跳与蝉鸣。	我屏住呼吸，世界只剩下兩人的心跳與蟬鳴。	息を呑む。世界に残るのは二人の鼓動と蝉時雨だけ。	나는 숨을 죽였고, 이 세상에는 두 사람의 심장 소리와 매미 소리만이 남았다.	I held my breath. All I could hear was the thrum of our heartbeats... and the cicadas singing.						0	1.3重置
+257	所以，就是那个……	所以，就是那個……	だから……その……	그러니까, 그게…	So... I... Um...						0	1.3重置
+258	平日里伶牙俐齿的女孩这会儿却开始变得语无伦次起来。	平日裡伶牙俐齒的女孩這會兒卻開始變得語無倫次起來。	いつもは理路整然の少女が、言葉を探している。	평소에는 똑 부러지게 말하던 소녀가 오늘은 횡설수설하기 시작했다.	For once, the sharp-tongued girl was at a loss for words.						0	1.3重置
+259	猫汐尔……	貓汐爾……	マーシル……	캣 시에라…	It's okay, Mauxir...						0	1.3重置
+260	直到我投以温柔的目光，她才重新冷静了下来。	直到我投以溫柔的目光，她才重新冷靜了下來。	そっと視線を送ると、彼女は深呼吸して言った。	내가 다정한 눈빛을 보내자, 그녀는 그제야 다시 침착해졌다.	She finally settled down when I met her eyes with a gentle gaze.						0	1.3重置
+261	分析员，可以教我游泳吗？！	分析員，可以教我游泳嗎？！	分析員、泳ぎを教えてくれる？	분석가, 수영을 가르쳐 줄래?!	Adjutant — will you teach me to swim!?						0	1.3重置
+262	尾音在空旷的泳池边回荡着。	尾音在空曠的泳池邊回蕩著。	水面に声が反響する。	그녀의 목소리가 텅 빈 수영장 가장자리에 울려 퍼졌다.	Her voice rang out across the still surface of the reservoir.						0	1.3重置
+263	什么嘛原来是这种无厘头的展开吗？	什麼嘛原來是這種無厘頭的展開嗎？	まさかの展開に肩が抜ける。	뭐야, 이런 뜬금없는 전개였단 말인가?	Wait, what? That's your big reveal?						0	1.3重置
+264	若是往常，我定会笑着调侃这突兀的转折。	若是往常，我定會笑著調侃這突兀的轉折。	普段なら冗談で返すところだが――	평소라면 이런 갑작스러운 반전을 보고 웃으며 놀렸을 것이다.	On any other day, I would've smiled and made a joke about her sudden shift...						0	1.3重置
+265	但此刻，我看见她颤抖的嘴角，和放在大腿上攥到发白的双手。	但此刻，我看見她顫抖的嘴角，和放在大腿上攥到發白的雙手。	震える唇と白くなる拳が、本気を語っている。	하지만 지금은 그녀의 떨리는 입술, 그리고 허벅지 위에서 너무 꽉 쥔 나머지 하얘진 두 손이 보였다.	But I noticed her lips trembling... and her hands clenched so tight her knuckles had turned white.						0	1.3重置
+266	想必是还没有做好准备吧。	想必是還沒有做好準備吧。	まだ心の準備が整っていないのだろう。	아직 준비가 안 된 모양이다.	She probably wasn't ready yet.						0	1.3重置
+267	唔喵……对不起，我好像说了奇怪的话。	唔喵……對不起，我好像說了奇怪的話。	ニャン…へんなお願いだったかな。	으냥… 미안하다. 내가 이상한 말을 한 것 같다.	Nya... sorry. That must've been out of nowhere.						0	1.3重置
+268	我想说的其实是，我……	我想說的其實是，我……	言いたかったのは、その…私は……	내가 하고 싶었던 말은, 그러니까…	What I really meant was... I...						0	1.3重置
+269	没关系，我会教你的。	沒關係，我會教你的。	気にするな。教えてあげるさ。	괜찮아, 내가 가르쳐줄게.	It's alright. I'll teach you.						0	1.3重置
+270	喵？	喵？	ニャ？	냥?	Nya...?						0	1.3重置
+271	我说，我会教你游泳的。	我說，我會教你游泳的。	泳げるようにしてやるって言ったんだ。	수영을 가르쳐주겠다고.	I said — I'll teach you to swim.						0	1.3重置
+272	嗯……	嗯……	えっと……	음…	Mm...						0	1.3重置
+273	我轻轻拉起猫汐尔的手。	我輕輕拉起貓汐爾的手。	そっと彼女の手を取る。	나는 캣 시에라의 손을 살며시 잡았다.	I gently took her hand.						0	1.3重置
+274	唔喵！	唔喵！	ンニャ！	으냥!	Nya!						0	1.3重置
+275	也是因为过于紧张了，她贴得很近，我都能闻到她发间淡淡的草木香。	也是因為過於緊張了，她貼得很近，我都能聞到她髮間淡淡的草木香。	緊張からか、肩が触れるほど近い。髪から草木の匂いがかすかに漂う。	너무 긴장한 탓인지, 그녀는 나에게 바짝 다가왔다. 그녀 머리카락의 은은한 풀 향기가 느껴질 만큼 가까웠다.	She leaned in, stiff with tension. We were so close, I caught the faint scent of herbs in her hair.						0	1.3重置
+276	放松些，猫汐尔听我说，我们今天先从漂浮开始练起。	放鬆些，貓汐爾聽我說，我們今天先從漂浮開始練起。	落ち着いて。今日はまず浮くことだけ練習しよう。	긴장 풀어, 캣 시에라. 내 말 들어봐. 오늘은 물에 뜨는 것부터 시작해 보자.	Relax, Mauxir. Listen — today we're starting with floating.						0	1.3重置
+277	嗯，那我该怎么做才好呢？	嗯，那我該怎麼做才好呢？	どうすればいい？	응, 그럼 어떻게 하면 되지?	Okay... what do I do first?						0	1.3重置
+278	不如先从放开我的腰开始？	不如先從放開我的腰開始？	その前に――腰から手を離してくれるか？	일단 내 허리부터 좀 놔줄래?	For starters... maybe let go of my waist?						0	1.3重置
+279	唔喵！对不起分析员……	唔喵！對不起分析員……	ウニャン！ごめん……	으냥! 미안하다, 분석가…	Nya! Sorry, Adjutant...						0	1.3重置
+280	哈哈哈，没事没事。	哈哈哈，沒事沒事。	ハハ、大丈夫だ。	하하하, 괜찮아, 괜찮아.	Haha, it's fine.						0	1.3重置
+281	我揉了揉她的头发。	我揉了揉她的頭髮。	頭を撫でると、小さな猫耳がふるりと揺れる。	나는 그녀의 머리를 쓰다듬었다.	I gently ruffled her hair.						0	1.3重置
+282	此刻的猫汐尔异常乖巧，就像是一只收起爪子的小猫一般。	此刻的貓汐爾異常乖巧，就像是一隻收起爪子的小貓一般。	しまい込んだ爪を見せぬ小猫のように大人しい。	지금의 캣 시에라는 마치 발톱을 감춘 작은 고양이처럼 유난히 얌전했다.	Just then, she was unusually obedient — like a kitten who'd tucked away her claws.						0	1.3重置
+283	听好了——	聽好了——	いいか――	잘 들어~	Alright, listen close...						0	1.3重置
+284	我故意放慢语速，确保每个字都能落入她耳中	我故意放慢語速，確保每個字都能落入她耳中	ゆっくり噛み砕き、耳に届けるように。	그녀가 내 말을 잘 이해할 수 있도록, 나는 일부러 천천히 말했다.	I slowed my voice, making sure she'd hear each word.						0	1.3重置
+285	漂浮的关键在于要彻底放松自己的身体。	漂浮的關鍵在於要徹底放鬆自己的身體。	浮くコツは、全身を徹底的に弛めることだ。	물에 뜨려면, 몸의 긴장을 완전히 푸는 게 가장 중요해.	The trick to floating is total relaxation.						0	1.3重置
+286	先深吸一口气憋住，然后脸部朝下，将水面想象成一张柔软的大床，然后躺下去。	先深吸一口氣憋住，然後臉部朝下，將水面想象成一張柔軟的大床，然後躺下去。	大きく息を吸って止め、顔を水につけ、柔らかなベッドだと思って倒れ込む。	먼저 숨을 깊게 들이마시고 참아. 그리고 얼굴은 아래를 향한 채, 수면을 부드러운 침대라고 생각하면서 눕듯이 엎드려.	Take a deep breath. Hold it in your chest. Then face the water... imagine it's a soft bed, and just lie there — face down, totally still.						0	1.3重置
+287	接着，什么都不用去做，什么都不要去想，放空大脑和四肢。	接著，什麼都不用去做，什麼都不要去想，放空大腦和四肢。	あとは何も考えず、手脚も意識しないように。	그리고 아무것도, 아무 생각도 하지 말고, 몸과 마음의 긴장을 풀어.	Don't move. Don't think. Let your mind and limbs go slack.						0	1.3重置
+288	借助胸腔内气体的浮力作用，便能实现漂浮状态了。	借助胸腔內氣體的浮力作用，便能實現漂浮狀態了。	胸に溜めた空気が浮力になる。	그러면 가슴속 공기로 인한 부력으로 물에 떠 있을 수 있어.	The air in your chest will keep you buoyant.						0	1.3重置
+289	为了确保指导到位，我特意在她面前做了一个示范。	為了確保指導到位，我特意在她面前做了一個示範。	見本を示すように静かに浮かぶ。	제대로 가르쳐주기 위해서, 나는 일부러 그녀 앞에서 시범을 보였다.	I went through the motions myself to demonstrate.						0	1.3重置
+290	就像这样。	就像這樣。	こうだ。	이렇게 말이야.	Like this.						0	1.3重置
+291	我明白了。	我知道了。	そうかそうか。	알았다.	Okay. I think I got it.						0	1.3重置
+292	唔喵!	唔喵！	ウニャ——	으냥!	Nya!						0	1.3重置
+293	女孩不假思索地向前扑去，像一片羽毛般轻盈地浮在水面。	女孩不假思索地向前撲去，像一片羽毛般輕盈地浮在水面。	少女は一瞬の迷いもなく前へ飛び込み、羽根のようにそっと水面へ。	소녀는 망설임 없이 앞으로 뛰어들어 깃털처럼 가볍게 수면 위에 떠올랐다.	Without hesitation, she dove in — rising gently to the surface, light as a feather.						0	1.3重置
+294	然而好景不长——	然而好景不長——	だが長くは保たず――	그러나 그것도 잠시…	But it didn't last long...						0	1.3重置
+295	咕噜咕噜的气泡声中，她开始缓缓下沉。	咕嚕咕嚕的氣泡聲中，她開始緩緩下沉。	気泡を残しゆっくり沈んでいく。	물방울이 꼬르륵거리는 소리와 함께, 그녀는 천천히 가라앉기 시작했다.	A trail of bubbles rose up — she was starting to sink.						0	1.3重置
+296	猫汐尔！	貓汐爾！	マーシル！	캣 시에라!	Mauxir!						0	1.3重置
+297	咳咳咳，唔喵，好像还是不行呢……	咳咳咳，唔喵，好像還是不行呢……	けほっ…ニャン、まだ駄目みたい。	콜록콜록, 으냥, 아직 안 되는 것 같다…	*cough* Nngh... Guess I messed that up.						0	1.3重置
+298	没事，已经很不错了，开头的动作完全没问题。	沒事，已經很不錯了，開頭的動作完全沒問題。	最初にしては上出来だ。	괜찮아, 이미 잘하고 있는걸? 첫 동작은 아무 문제도 없었어.	Not at all. You did great at the start.						0	1.3重置
+299	只是入水后，除了四肢外，脖子也要放松。	只是入水後，除了四肢外，脖子也要放鬆。	水に入ったら手足だけじゃない、首の力も抜くんだ。	근데 물속에 들어가고 나면, 팔다리뿐만 아니라 목도 긴장을 풀어야 해.	Just remember to also relax your neck once you're in the water.						0	1.3重置
+300	想要浮起来的话，就不要抬头。人越往上挣扎，水就越往下拽。	想要浮起來的話，就不要抬頭。人越往上掙扎，水就越往下拽。	上を向いてもがくほど、水は下に引きずる。	물에 뜨려면, 고개를 들지 말아야 해. 사람이 위쪽으로 몸부림칠수록 물은 아래로 더 끌어당기거든.	Don't try to lift your head — the more you resist, the more the water pulls you under.						0	1.3重置
+301	凝视水底，身体反而就漂浮起来。	凝視水底，身體反而就漂浮起來。	水底を見つめろ。そうすれば身体は自然に浮く。	물속을 응시하면 오히려 몸이 떠오르게 되고.	Keep your eyes down. Look toward the pond floor. That's how you float.						0	1.3重置
+302	要凝视水底喵……	要凝視水底喵……	底を見つめる…だね。	물속을 보란 말이냥…	Gaze at the bottom... nya.						0	1.3重置
+303	猫汐尔若有所思地点了点头，随后又再次做出了动作。	貓汐爾若有所思地點了點頭，隨後又再次做出了動作。	うなずき、再挑戦。	캣 시에라는 무언가 깨달은 듯 고개를 끄덕이고는 다시 한번 몸을 움직였다.	Mauxir gave a thoughtful nod and eased back into position.						0	1.3重置
+304	这次她动作更加流畅，就宛若一条游鱼般灵巧。	這次她動作更加流暢，就宛若一條游魚般靈巧。	今度は滑らかに――まるで小魚。	이번에 그녀의 동작은 더욱 유연해졌고, 한 마리 물고기처럼 민첩해졌다.	This time, her movements flowed — smooth and fluid, like a fish in its element.						0	1.3重置
+305	而后，经过几秒钟的等待，她终于稳稳地浮在水面。	而後，經過幾秒鐘的等待，她終於穩穩地浮在水面。	数秒後、静かに水面へ留まった。	몇 초 정도 기다리자, 그녀는 마침내 수면 위에 안정적으로 떠올랐다.	After a few seconds, she found her balance and floated with ease.						0	1.3重置
+306	很好！猫汐尔，刚刚的动作既果断又漂亮。	很好！貓汐爾，剛剛的動作既果斷又漂亮。	いいぞ！今の動きは完璧だ。	좋아! 캣 시에라, 과감하면서도 멋있게 잘했어.	That was perfect, Mauxir. Clean, steady, graceful.						0	1.3重置
+307	嘿嘿，那还是因为分析员教得好，我只是在按照你说的要领，将动作做出来了而已。	嘿嘿，那還是因為分析員教得好，我只是在按照你說的要領，將動作做出來了而已。	ふふ、分析員の教え方がうまいだよ。言われたとおりにしただけニャン。	헤헤, 분석가가 잘 가르쳐 준 덕분이다. 난 그저 네가 말한 대로 동작을 따라 했을 뿐이다.	Hehe~ Only because you're such a good coach. I just followed directions.						0	1.3重置
+308	那接下来，我们再多练几次吧。	那接下來，我們再多練幾次吧。	よし、もう少し繰り返してみよう。	그럼 이제 좀 더 연습해 볼까?	Alright — let's run it a few more times, nice and easy.						0	1.3重置
+309	哎？不能学划水吗？	哎？不能學划水嗎？	えっ、クロールは？	응? 헤엄은 안 가르쳐 줄 건가?	Huh? Can't I start learning to swim now?						0	1.3重置
+310	划水等回去了到泳池再练好一些。	划水等回去了到泳池再練好一些。	それはプールに戻ってからしよう。	헤엄치는 법은 나중에 수영장에 가서 연습하는 게 나을 것 같아.	We'll save that for a proper pool.						0	1.3重置
+311	我望着幽深的水面，语气不容商量。	我望著幽深的水面，語氣不容商量。	深い水面を見つめ、声に有無を言わせない強さを込める。	나는 깊고 어두운 수면을 바라보며 단호하게 말했다.	I glanced down at the deep water, my tone firm.						0	1.3重置
+312	今天先把漂浮练就好。	今天先把漂浮練好。	今日は浮くのを体に覚えさせる。	오늘은 일단 물에 뜨는 것만 연습하자.	Today, we focus on floating.						0	1.3重置
+313	毕竟野外的蓄水池暗藏危险，我必须把她的安全放在首位。	畢竟野外的蓄水池暗藏危險，我必須把她的安全放在首位。	野外の貯水池は危険を孕む。安全が最優先だ。	야외 저수지는 위험할 수 있으니, 그녀의 안전을 최우선으로 생각해야 했다.	A place like this hides more danger than it shows. I couldn't let her take unnecessary risks.						0	1.3重置
+314	好吧喵……	好吧喵……	わかったニャン……	알았다냥…	Okay, nya...						0	1.3重置
+315	她委屈巴巴地应着，却还是乖巧地点了点头。	她委屈巴巴地應著，卻還是乖巧地點了點頭。	少し頬を膨らませるが、	그녀는 서운한 듯 대답했지만, 그래도 얌전히 고개를 끄덕였다.	She pouted, but still gave an obedient nod.						0	1.3重置
+316	随后，再次投入水中。	隨後，再次投入水中。	素直に首肯し再度水へ。	그리고 다시 물속으로 뛰어들었다.	Then she dove back into the water.						0	1.3重置
+317	可这一次，当她再次入水时，意外突生——	可這一次，當她再次入水時，意外突生——	ところが――	하지만 이번에는 예상치 못한 일이 벌어졌다…	But this time, as she slipped beneath the surface, something unexpected happened:						0	1.3重置
+318	我的掌心突然一空，水面只剩下荡漾的涟漪。	我的掌心突然一空，水面只剩下蕩漾的漣漪。	掌が空を切り、水面には波紋だけ。	나는 갑자기 손에 아무것도 잡히지 않았고, 수면에는 잔물결만이 남아있었다.	She suddenly slipped from my grasp — all that remained was the ripple of water between my fingers.						0	1.3重置
+319	猫汐尔？	貓汐爾？	マーシル？	캣 시에라?	Mauxir...?						0	1.3重置
+320	不安如潮水般漫上心头。	不安如潮水般漫上心頭。	不安が胸を満たす。	불안감이 파도처럼 마음속에 밀려왔다.	A jolt of panic surged through me.						0	1.3重置
+321	糟糕，难道说是水下有暗流吗？不对，这是个蓄水池，不会有那种东西存在。	糟糕，難道說是水下有暗流嗎？不對，這是一個蓄水池，不會有那種東西存在。	暗流？いや、ここはただの貯水池。	큰일이다. 물속에 암류가 있는 걸까? 아니다. 이런 저수지에 그런 것이 있을 리가 없다.	No way... an undercurrent? No — this is just a reservoir. That's not possible.						0	1.3重置
+322	冷静下来后，我急忙潜入水中，却只看到摇曳的水草。	冷靜下來後，我急忙潛入水中，卻只看到搖曳的水草。	落ち着き潜るも、揺れる水草のみ。	침착함을 되찾은 후 급히 물속으로 잠수했지만, 내 눈에는 흔들리는 수초만 보일 뿐이었다.	Forcing myself to stay calm, I dove in — only to find strands of waterweed swaying in the depths.						0	1.3重置
+323	就在这时，后背传来轻轻的触碰。	就在這時，後背傳來輕輕的觸碰。	その時、背にふわりと触れる感触。	바로 그때, 무언가가 내 등을 살며시 스쳤다.	Then — a gentle tap on my back.						0	1.3重置
+324	转身的瞬间，月光穿透水面，勾勒出少女狡黠的笑颜。	轉身的瞬間，月光穿透水面，勾勒出少女狡黠的笑顏。	振り向くと、水面越しの月明かりが、いたずらな笑みを描き出す。	뒤를 도는 순간, 수면을 투과해 들어온 달빛이 소녀의 장난스러운 미소에 윤곽을 그렸다.	I turned — and moonlight streamed through the water, framing the sly smile of a girl.						0	1.3重置
+325	串串气泡中，我清晰地看见，唇瓣一张一合。	串串氣泡中，我清晰地看見，唇瓣一張一合。	泡の中で、その唇が静かに動く――	보글보글 일어나는 물방울 사이로, 그녀의 입술이 달싹대는 모습이 선명하게 보였다.	Through a flurry of bubbles, I saw her lips carefully shaping each word:						0	1.3重置
+326	fen xi yuan	fen xi yuan	ぶん　せき　いん	분석가.	Ad-ju-tant						0	1.3重置
+327	wo gang gang shi xiang shuo	wo gang gang shi xiang shuo	さっき　いいたかった　のは	아까 하려던 말이 뭐였냐면.	What-I-wan-ted-to-say-was...						0	1.3重置
+328	wo	wo	だ	널.	I						0	1.3重置
+329	xi	xi	い	좋.	Rea-lly						0	1.3重置
+330	huan	huan	す	아.	Like						0	1.3重置
+331	ni	ni	き	해.	You						0	1.3重置
+b-1											0	1.3重置
+332	ni shuo shen me？	ni shuo shen me？	なんかいった？	뭐라고?	What-did-you-say?						0	1.3重置
+333	mei shen me miao~	mei shen me miao~	なんでも　ないニャン♪	아무것도 아니다냥~	No-thing-nya~						0	1.3重置
+334	……	……	……	……	...						0	1.3重置
+335	当我们破水而出时，调皮的猫汐尔红着脸紧紧地搂住我的手臂。	當我們破水而出時，調皮的貓汐爾紅著臉緊緊地搂住我的手臂。	水面を割って息をつく。頬を染めたマーシルが腕にしがみつく。	우리가 물 밖으로 나오자, 장난꾸러기 캣 시에라가 얼굴을 붉히며 내 팔을 꼭 껴안았다.	When we resurfaced, Mauxir clung to my arm, cheeks flushed, flashing that mischievous grin of hers.						0	1.3重置
+336	好你个坏猫，居然敢吓唬我。	好你個壞貓，居然敢嚇唬我。	やるな、悪戯ニャンちゃん。驚かせやがって。	이런 나쁜 고양이 녀석, 날 깜짝 놀라게 하다니.	Bad kitty — you had me worried sick.						0	1.3重置
+337	我故作生气地轻敲着她的额头。	我故作生氣地輕敲著她的額頭。	わざと怒ったふりで額をコツン。	나는 장난스럽게 화난 척하며 그녀의 이마를 톡 하고 두드렸다.	I gave her forehead a light tap, feigning a scolding tone.						0	1.3重置
+338	唔喵，唔喵……对不起，对不起喵。	唔喵，唔喵……對不起，對不起喵。	ニャンニャン……ごめん、ごめんなさいだよ。	으냥, 으냥… 미안하다, 미안하다냥.	Nya~ Nyaa~ I'm sorry, I'm sorry, nya.						0	1.3重置
+339	她的道歉淹没在笑声与嬉闹惊起的水花中。	她的道歉淹沒在笑聲與嬉鬧驚起的水花中。	謝罪の声も、水飛沫と笑い声に溶け、夜気の銀砂になった。	그녀의 사과는 웃음소리와 물장구로 일어난 물보라 속에 묻혀버렸다.	Her apology melted into laughter, mingling with the soft splashes around us.						0	1.3重置
+340	在月色之下，闪闪发亮。	在月色之下，閃閃發亮。	月灯りの粒が、水面でジュエルのように瞬く。	달빛 아래서 반짝반짝 빛나고 있었다.	Beneath the moonlight, the reservoir shimmered with silvery light.						0	1.3重置
+341	夏末的最后一个夜晚，我们完成了所有的计划单。	夏末的最後一個夜晚，我們完成了所有的計畫單。	夏の終わりの夜、二人で作ったリストはすべて肉球スタンプで埋まった。	여름 끝자락의 마지막 밤, 우리는 모든 계획표를 완성했다.	And just like that, on the final night of summer, we'd checked off every last item on our list.						0	1.3重置
+342	猫猫温馨提示：	貓貓溫馨提示：	ネコちゃんからのアドバイス：	냥이의 알림 사항:	Friendly Reminder From Mauxir:						0	1.3重置
+343	请不要在野外水域游泳喵，游泳的话，还是去游泳馆好了。	請不要在野外水域游泳喵，游泳的話，還是去游泳館好了。	野外で泳ぐのは危ないニャン。泳ぐならプールにしようね。	야외 수역에서 수영하지 말라냥. 수영할 거면 수영장으로 가라.	Don't swim in wild waters, nya~ Pools are way safer!						0	1.3重置

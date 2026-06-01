@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	呼喵——呼喵——	呼喵——呼喵——	フニャ——フニャ——	그르릉… 그르릉…	Nya— Nya—						0	
+page0.2	唔喵……分析员……	唔喵……分析員……	フニャ……分析員……	움냐냐… 움냐옹… 분석가…	Nya... Adjutant...						0	
+page0.3	啊，打扰到你了吗？	啊，打擾到你了嗎？	おっと、邪魔した？	아, 내가 방해가 됐나?	Oh, sorry, am I bothering you?						0	
+page0.4	唔……分析员的气息太特殊了，只要你一在附近，身体就会不由自主地行动起来。	唔……分析員的氣味太特殊了，只要你一在附近，身體就會不由自主地行動起來。	うう……分析員の気配が特別すぎて近くにいると体が本能的に動くだけ。	음… 분석가의 기운은 너무 특별하다냥. 가까이 오면 몸이 스스로 움직이기 시작한다.	Hmm... your scent is extremely unique, Adjutant. Whenever you get close, I can't help but react.						0	
+page0.5	那是什么……猫猫感应吗，难道说我已经成为什么极度危险的存在了？	那是什麼……貓貓感應嗎，難道說我已經成為什麼極度危險的存在了？	何それ……ネコちゃんセンサーか？私はいつの間にか天敵にでもなったのか？	그게 뭐지… 냥이 감응인가. 설마 내가 위험한 존재로 인식이 되는 거야?	Is that... a "feline instinct"? Does it mean that I'm somehow a threat?						0	
+page0.6	不清楚，心跳有明显加速，但和察觉到危险时的反应还是不太一样。	不清楚，心跳有明顯加速，但和察覺到危險時的反應還是不太一樣。	分からない。心拍数は明らかに上がっているけど、危険察知の時とは違うみたい。	그건 모르겠다. 맥박수가 눈에 띄게 빨라지지만, 위험을 마주했을 때와의 반응과는 다르다.	Unclear. My heartbeat is clearly accelerated, but it is distinct from the reaction I experience when in danger.						0	
+page0.7	唔……究竟是怎么一回事喵？	唔……究竟是怎麼一回事喵？	うぅ……一体どうなってるんだニャン？	음… 근데 무슨 일이냐냥?	Hmm... what is going on?						0	
+page0.8	……	……	……	…	...						0	
+page0.9	分析员，占用你几分钟时间，我想好好研究一下这种现象。	分析員，占用你幾分鐘時間，我想好好研究一下這種現象。	分析員、少しいい？この現象をちゃんと研究したい。	분석가, 몇 분만 시간을 빌렸으면 한다. 이런 현상에 대해 자세히 연구해 보고 싶다.	Adjutant, please give me a few minutes of your time. I would like to more closely examine this phenomenon.						0	
+page0.10	哎？需要我做些什么？	欸？需要我做些什麼？	えっ、どうすればいい？	뭐? 내가 뭘 해주면 되는데?	Huh? What do you need me to do?						0	
+page0.11	什么都不用做。	什麼都不用做。	何もしなくていい。	아무것도 하지 않아도 된다.	Nothing at all.						0	
+page0.12	……就这样待在我身边就好。	……就這樣待在我身邊就好。	……こうして傍に居てくれれば十分。	… 그냥 내 옆에 있어 주기만 하면 된다.	...Just stay by my side like this.						0	
+page0.13	嗯，对了，还要再近一些喵。	嗯，對了，還要再近一些喵。	そう、もう少し近くに来てニャン。	음, 그렇다, 더 가까워야 한다냥.	Oh, right. We will need to get closer.						0	

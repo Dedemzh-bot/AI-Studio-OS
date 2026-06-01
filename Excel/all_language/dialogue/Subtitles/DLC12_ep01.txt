@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1000	我找到好位置了分析员	我找到好位置了分析員	……良い場所があった、分析員！	좋은 위치를 찾았어, 분석가.	I found a good position, Adjutant.						0	
+1001	现在芙提雅老师的视野……很清楚	現在芙提雅老師的視野……很清楚	今のフリティア先生は、どこまでも見えるぅ！	지금 시야가… 탁 트였어.	Professor Fritia's line of sight... is crystal clear.						0	
+1002	芙提雅老师是有耐心的猎人	芙提雅老師是有耐心的獵人	へへー、ハンターたるもの、辛抱強くっ――えっ、うわー！	프티야는 인내심이 강한 사냥꾼이야.	Professor Fritia is a patient hunter.						0	
+1003	我就知道分析员接得住我	我就知道分析員接得住我	はぁ〜、分析員なら絶対助けてくれると思った！	분석가가 분명 날 받아줄 줄 알았어!	I knew you'd catch me, Adjutant.						0	

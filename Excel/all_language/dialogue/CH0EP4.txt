@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	生物信息验证通过。	生物資訊驗證通過。	生体認証完了。	생체 정보 인식 확인 완료.	Biometric verification success.						0	
+2	当前乘员，生命体征良好，外部条件适宜，准许出舱。	當前乘員，生命體徵良好，外部條件適宜，准許出艙。	当乗員、バイタル正常。外部条件、問題なし。外出を許可します。	해당 승객은 증상이 양호하고, 외부 환경에도 적합하다고 판단되기에 탈출선에서 나가는 걸 허락합니다.	Occupant has good vital signs. External conditions are suitable. Permitted to exit pod.						0	
+3	光，要有光。	光，要有光。	光だ、光がないと。	빛이다… 엄청 강해…	Light. So much light.						0	
+4	强烈的日光几乎令我睁不开眼睛，我僵在原地过了好长一阵，才看清面前站着一个静静等待我的人。	強烈的日光幾乎令我睜不開眼睛，我僵在原地過了好長一段時間，才看清面前站著一個靜靜等待我的人。	強烈な日光で目がほとんど開けられない。しばらくそのままじっとしていると、ようやく目の前で静かに私を待っている人が見えた。	한동안 눈을 뜨지 못한 채 제자리에 서있었다. 눈앞에는 누군가가 날 기다리고 있었다.	I squinted my eyes under the intense sunlight for a while before starting to make out the person before me waiting.						0	
+5	你就是私自吃苹果的家伙吗？	你就是擅自偷吃蘋果的傢伙嗎？	お前が勝手にリンゴを食べた奴か？	에덴동산에서 쫓겨나셨나?	Are you that guy who ate an apple without permission?						0	
+b-1											0	
+6	……星期三？	……星期三？	……ウェンズデー？	… 웬스데이?	... Wednesday?						0	
+7	你认识我？	你認識我？	私を知ってるのか？	날 알아?	Do you know me?						0	
+8	我下意识地叫出了少女的称谓。那是她众多名字中的一个。	我下意識地叫出了少女的稱號。那是她眾多名字中的一個。	ついその少女の名を呼んだ。それは彼女の数多くの名前の中の一つである。	난 무의식중에 그녀를 불렀다. 해당 이름은 사람들이 그녀를 부르는 수많은 이름 중 하나다.	I unconsciously pronounced her name. One of her many names.						0	
+9	一丝并不明显的惊讶绽放在她平淡得像冰面的脸庞上，并且很快消弭不见。	一絲並不明顯的驚訝浮現在她平淡得像冰面的臉龐上，並且很快消失不見。	その澄ました顔に驚きの色がうっすらと浮かび、あっという間に消えた。	얼음같이 차가운 그녀의 얼굴에 조금 놀란 표정이 보였다가 금세 사라졌다.	A vague tone of surprise weaved across her expressionless face, then quickly disappeared.						0	
+10	总之，先出来。	總之，先出來。	とにかく出て来い。	흠… 일단 나와.	Anyway, come out.						0	
+11	她向我伸出右手。一只纤细而又稳定的手。	她向我伸出右手。一隻纖細而又堅定的手。	彼女は私に右手を差し伸べる。握ってみると、細いわりに力強かった。	그녀는 오른손을 내밀었다. 그녀의 손은 가녀려 보였지만 흔들림이 전혀 없었다.	She extended me her right hand. It was delicate, yet firm and steady.						0	
+12	欢迎归来。	歡迎歸來。	おかえり。	돌아온 걸 환영해.	Welcome back.						0	

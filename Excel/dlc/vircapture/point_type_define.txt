@@ -1,0 +1,8 @@
+﻿Id	注释	点名	编辑器内禁用选项	类名	图标	颜色	备注	地图点类型(4:目标点;5:Task)
+Id	Nul	Name	Close	Class	Icon	Color	Remarks	PointType
+1	交互点大类					{222,0,0,255}		
+2	地图左上角			LTPoint		{102,204,255,120}		
+3	地图右下角			RBPoint		{102,204,255,120}		
+4	task任务指示点	dlc2.map_tip01			1009004			5
+98	巡逻怪		1			{255,255,0,255}	TypeId98为程序占用	
+99	目标点		1	TargetPoint	1009009			4

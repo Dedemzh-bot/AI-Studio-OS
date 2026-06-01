@@ -1,0 +1,11 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	脖子！脖子脖子！	脖子！脖子脖子！	首っ！首もやって、首〜！	목… 목 좀 만져줘!	Neck! My neck!						0	2.7版本随机事件
+page1.2	还有后背！	還有後背！	背中も〜！	등, 등도!	And back!						0	2.7版本随机事件
+page1.3	脑袋！脑袋也要摸！	頭！頭也要摸！	頭っ！頭もなでなでしてっ！	머리! 머리도!	And my head! Touch my head too!						0	2.7版本随机事件
+page1.4	好啦。现在肯乖乖睡觉了？	好啦。現在肯乖乖睡覺了？	はいはい、これでおとなしく寝られる？	알겠어. 이젠 잘 수 있지?	Alright. Would you go to bed now?						0	2.7版本随机事件
+page1.5	呜……分析员不要走……	嗚……分析員不要走…	うぅ……分析員、行かないで……	흑… 분석가, 가지 마…	(Sniff)... Don't leave me, Adjutant...						0	2.7版本随机事件
+page1.6	有分析员在，睡得就很香！分析员不在的话，睡得不舒服！	有分析員在，睡得很好！分析員不在的話，睡得不舒服！	分析員がいてくれたら、ぐっすり眠れるのに……いないと、なんか落ち着かない！	분석가가 있으면 잠이 잘 오는데… 혼자면 불안해!	When the Adjutant is here, I sleep soundly! But if the Adjutant isn't around, I can't sleep well!						0	2.7版本随机事件
+page1.7	分析员不许走！！	分析員不准走！！	分析員、行っちゃダメー！！	절대 가면 안 돼!	Don't go, Adjutant!						0	2.7版本随机事件
+page1.8	伊切尔拉着我的手，怎么也不肯松开。	伊切爾拉著我的手，怎麼樣都不肯鬆開。	イチェルが私の手をぎゅっと握って離さない。	이첼이 손을 꽉 움켜쥐고 놓아주지 않았다.	Eatchel holds onto my hand and refuses to let go.						0	2.7版本随机事件
+page1.9	半个小时之后，终于把伊切尔哄睡着了。	半小時後，終於把伊切爾哄睡著了。	それが30分も続き、ようやくイチェルが寝付いてくれた。	결국 30분의 설득 끝에, 겨우 잠들었다.	Half an hour later, Eatchel was finally lulled to sleep.						0	2.7版本随机事件

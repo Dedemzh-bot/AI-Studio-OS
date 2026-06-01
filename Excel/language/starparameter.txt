@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+sp_weapontype1	冲锋枪	0	
+sp_weapontype2	狙击枪	0	
+sp_weapontype3	霰弹枪	0	
+sp_weapontype4	手枪	0	
+sp_weapontype5	突击步枪	0	
+sp_girl002	里芙	0	
+sp_girl003	妮塔	0	
+sp_girl004	芙提雅	0	
+sp_girl005	茉莉安	0	
+sp_girl006	鸣濑晴	0	
+sp_girl007	琴诺	0	
+sp_girl008	芬妮	0	

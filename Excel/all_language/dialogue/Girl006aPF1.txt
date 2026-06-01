@@ -1,0 +1,93 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	晴队长，这套设备会自动追踪眼球，您可以通过移动视线来选中“登入”按钮。	晴隊長，這套設備會自動追蹤眼球，您可以藉由移動視線來選擇“登入”按鈕。	晴隊長、この装置は自動的に眼球を追跡するので、視線を移動して「登録」ボタンを選択することができます。	하루 대장님, 이 설비는 자동으로 눈이 바라보는 곳을 감지합니다. 시선을 이동하면 '로그인' 버튼을 선택할 수 있습니다.	Captain Haru, this device will automatically track your eye movements. You can select the "Login" button by shifting your gaze to it.						0	
+2	明白了，开始登入。	明白了，開始登入。	了解した。これから登録する。	이해했어. 로그인해 볼게.	Understood. Logging in.						0	
+3	装备适应性训练，开始记录数据。	裝備適應性訓練，開始記錄數據。	装備適合テスト、データの記録を始めます。	장비 적응 훈련, 데이터 기록을 시작합니다.	Equipping adaptive training. Commencing data recording.						0	
+4	开始调取敌人数据，今天还是从异化人开始，热热身？	開始讀取敵人數據，今天還是從異化人開始，先熱個身？	敵のデータを取り込みます。今日もウォーミングアップとして変異者から始めますか？	타깃 데이터를 로딩합니다. 오늘도 변이자부터 시작하면서 몸을 푸시겠습니까?	Retrieving enemy data. Shall we start with a wave of the Changed today to warm up?						0	
+5	还是按照以往的训练计划来。	還是根據以往的訓練計劃來。	いつも通りのトレーニングプランで頼む。	원래 훈련 계획대로 할게.	Let's follow the previous training plan.						0	
+6	好的，调整敌人强度，上浮百分之五十。	好的，調整敵人強度，上調百分之五十。	分かりました。敵の強度を調整し、50％アップします。	네, 타깃 강도 조정, 50% 증가.	Understood. Increasing enemy strength by 50%.						0	
+7	调整敌人数量，上浮百分之五十。	調整敵人數量，上調百分之五十。	敵の数を調整し、50％アップします。	타깃 수량 조정, 50% 증가.	Increasing enemy numbers by 50%.						0	
+8	不愧是海姆达尔的“战神”。	不愧是海姆達爾的“戰神”。	さすがヘイムダルの「戦神」ですね。	역시 헤임달의 '전쟁의 신'이네요.	No wonder she's known as Heimdall's "God of War."						0	
+9	现在请分析员使用声纹授权，训练准备开始。	現在請分析員使用聲紋授權，訓練準備開始。	分析員、これからトレーニングを始めるので、声紋で許可してください。	이제 분석가님께서 목소리 인식으로 훈련을 인가해 주셔야 합니다. 준비가 완료되었습니다.	Adjutant, please provide voiceprint authorization to begin the training session.						0	
+b-1											0	
+10	playername，授权训练。	playername，授權訓練。	playername、トレーニングを許可する。	playername, 훈련 승인.	playername, training authorized.						0	
+11	晴队长，有任何不适都请及时告知我们。	晴隊長，有任何不適都請及時告知我們。	晴隊長、不具合に気づいたらいかなるものでもすぐに知らせてください。	하루 대장님, 불편하신 곳이 있으시면 언제든지 알려주십시오.	Captain Haru, please let us know if you experience any discomfort.						0	
+12	嗯，没问题。	嗯，沒問題。	ああ、大丈夫だ。	응, 문제없어.	Alright, no problem.						0	
+13	那么，训练开始。	那麼，訓練開始。	では、トレーニングスタート。	그럼, 훈련을 시작합니다.	Commencing training.						0	
+14	吼……	吼……	ガルルル……	크르르…	Haaa...						0	
+15	嗤！！！	嗤！！！	シャアァァ！！！	크아악!!!	ARGH!!!						0	
+16	您看，“藏锋”在作战性能上，远远优于原来的装备……	您看，“藏鋒”在作戰性能上遠優於原來的裝備……	ご覧下さい。「蔵鋒」は作戦性能において、従来の装備よりはるかに優れています……	역시나, '히든 블레이드'의 전투 성능이 원래의 장비보다 월등히 우수하네요.	Look — Absconditus greatly outperforms her original exosuit's capabilities...						0	
+17	晴队长的作战技巧也无可挑剔……	晴隊長的作戰技巧也無可挑剔……	晴隊長も素晴らしいテクニックを見せてくれました……	하루 대장님의 전투 스킬 역시 흠잡을 곳 없고요…	Captain Haru's combat technique is also flawless...						0	
+18	您其实不必亲自观看每一次训练的全过程，所有的战斗数据和录像都会记录在服务器上。	您其實不必親自觀看每一次訓練的全過程，所有的戰鬥數據和錄影都會記錄在伺服器上。	戦闘データと映像は全てサーバーに記録されるので、わざわざトレーニングを最後まで見なくても大丈夫です。	사실 직접 훈련 과정을 지켜보실 필요는 없습니다. 모든 전투 데이터와 녹화 영상은 서버에 저장될 테니까요.	You don't actually have to watch the entire training session in person. The combat data and video recordings are stored on the server.						0	
+b-2											0	
+19	这种虚拟训练应该没有真正的危险性，对吧？	這種虛擬訓練應該沒有真正的危險性，對吧？	こういうバーチャルトレーニングに危険性はないよね？	이런 가상훈련은 실질적인 위험은 없는 거죠?	This type of virtual training doesn't pose any real danger, right?						0	
+20	嗯，是这样，被击中只会做数据上的记录，不会真正受伤。	嗯，是這樣，被擊中只會做數據上的記錄，不會真正受傷。	はい。攻撃を受けてもデータに記録されるだけで、ダメージを受けることはありません。	네, 그렇습니다. 타깃에게 공격을 받아도 기록용 데이터로만 남을 뿐, 다치진 않습니다.	Yeah, any hits will be recorded as data but won't cause any harm.						0	
+b-3											0	
+21	你确定不会对晴产生任何危害？	你確定不會對晴產生任何危害？	晴にいかなる危害も及ぶことはないと、確信できるよね？	하루에게 아무런 피해가 가지 않는다는 거죠?	Are you sure Haru won't get hurt?						0	
+22	这套设备的安全性绝对值得信任。	這套設備的安全性絕對值得信任。	この設備の安全性は絶対に信頼できますから。	이 설비의 안전성은 절대적으로 신뢰할 수 있습니다.	Rest assured, this equipment is safe. State of the art technology.						0	
+b-4											0	
+23	可以把这个敌人的数据加载进虚拟训练吗？	可以把這個敵人的數據載入虛擬訓練嗎？	この敵のデータをバーチャルトレーニングにインポートしてくれるか？	이 타깃의 데이터를 가상훈련에 업로드 할 수 있나요?	Can you upload this enemy data to the virtual training system?						0	
+24	这是……	這是……	これは……	이건…	This is...						0	
+b-5											0	
+25	在第五研究所遇到的敌人。	在第五研究所遇到的敵人。	第5研究所で遭遇した敵だ。	제5연구소에서 만났던 타깃이에요.	They're enemies we encountered in the Fifth Research Institute.						0	
+b-6											0	
+26	我应该有这个权限。	我應該有這個權限。	私には権限があるはずだ。	제게 권한이 있을 거예요.	I believe I have that authorization.						0	
+27	好……好的。	好……好的。	わ……分かりました。	아… 알겠습니다.	A—Alright.						0	
+28	已经加载进去了，只是我不明白，这样做的目的是？	已經載入了，只是我不明白，這樣做的目的是？	インポートしました。でも、目的は一体？	업로드가 완료되었습니다. 그런데 이렇게 하시는 목적이 무엇입니까?	It's loaded in. But... I don't understand. Why do you want to do this?						0	
+b-7											0	
+29	训练数据有变化吗？	訓練數據有變化嗎？	データに変化はあるか？	훈련 데이터에 변화가 있나요?	Has the live training data changed?						0	
+30	我看看……	我看看……	確認します……	어디 보자…	Let me see...						0	
+31	真的有变化！反应时间变长了，肌肉出力数据增加，还有神经活跃度……	真的有變化！反應時間變長了，肌肉出力數據增加，還有神經活躍度……	ありました！反応時間が長くなり、筋力が増加し、神経も活発に……	정말로 변화가 있습니다! 반응 속도가 느려졌고, 근육 강도 증가, 그리고 신경 활성도가…	Whoa, it did! Her reaction time has lengthened, muscle output has increased, and neural activity...						0	
+b-8											0	
+32	可以再把这个敌人的数据加载进虚拟训练吗？	可以再把這個敵人的數據載入虛擬訓練嗎？	この敵のデータもバーチャルトレーニングにインポートしてくれる？	이 타깃의 데이터도 가상훈련에 업로드할 수 있을까요?	Can you upload this enemy data too?						0	
+33	还有一个？虽然不知道您的用意，不过……	還有一個？雖然不知道您的用意，不過……	もう一つですか？お考えは分かりませんが……	더요? 왜 그러시는지는 모르겠지만…	Another one? I don't really get why you're doing this, but...						0	
+34	也加载进去了。	也載入了。	終わりました。	업로드 완료했습니다.	There, loaded in.						0	
+b-9											0	
+35	数据怎么样？	數據怎麼樣？	データの方は？	이번엔 데이터가 어떻죠?	How's the data now?						0	
+36	数据变化的幅度更大，特别是神格神经……	數據變化的幅度更大，特別是神格神經……	さらなる変化を確認しました。特に神格神経が……	데이터의 변화폭이 더 커졌습니다. 특히 만트라 신경이…	The data is fluctuating even more, especially her Theotropic Nerves...						0	
+37	不对劲！分析员！晴队长的神格神经变得异常活跃！这样下去会……	不對勁！分析員！晴隊長的神格神經變得異常活躍！這樣下去會……	大変です！分析員！晴隊長の神格神経が異常に活動しています！このままでは……	이런! 분석가님! 하루 대장님의 만트라 신경이 비정상적으로 날뛰고 있습니다! 이렇게 두면…	Something's wrong! Adjutant! Captain Haru's Deiwos is becoming abnormally active! At this rate, she's going to be...						0	
+b-10											0	
+38	神格侵蚀？！	神格侵蝕？！	神格侵蝕！？	만트라 침식인가요?!	Flooded!?						0	
+b-11											0	
+39	立刻中止虚拟训练！	立刻中止虛擬訓練！	直ちにバーチャルトレーニングを中止して！	어서 가상훈련을 중지하세요!	Stop the session immediately!						0	
+b-12											0	
+40	通知医疗后勤过来！现在！	通知醫療後勤過來！現在！	医療担当を呼んで来い！急げ！	의료 지원부를 부르세요! 지금 당장!	Call Medical Logistics in here! Now!						0	
+41	数据库里怎么会有……	資料庫裡怎麼會有……	なぜデータベースには……	데이터베이스에 왜…	How is this in the database...						0	
+42	你父亲就在远处那扇门后面，你不想打开看看吗？	你父親就在遠處那扇門後面，你不想打開看看嗎？	お前の父はドアの後ろにいる。開けてみたくないか？	네 부친이 바로 저기 멀리 있는 문 뒤에 있어. 열어보고 싶지 않나?	Your father is behind that door over there. Don't you want to open it?						0	
+43	观测他受到共振波及的空间，然后让他接受泰坦物质的辐射……	觀測他受到共振波及的空間，然後讓他接受泰坦物質的輻射……	彼が共振に巻き込まれた空間を観測し、彼にタイタン物質の放射を浴びせる……	공진의 영향을 받는 공간을 확인하고, 그가 타이탄 물질 방사능을 받게 해줘야 해…	See the place where he was affected by the resonance for yourself, then treat him with Titagen radiation...						0	
+43_1	这样，在化成灰烬之前，至少你们可以有片刻团聚。	這樣，在化成灰燼之前，至少你們能夠團聚片刻。	そうすれば、彼が灰になる前に会って話せるくらいの時間は作れるはず。	그러면 먼지가 되기 전에 잠시나마 다시 만날 수 있을 거다.	That way, at least you two can be together for a brief moment before the explosion turns you to ash.						0	
+45	…………	…………	…………	…	... ...						0	
+46	威尔·安德森？	威爾·安德森？	ウィル・アンダーソン？	윌 앤더슨?	Will Anderson?						0	
+46_1	我要亲手把你……碾成粉末。	我要親手把你……碾碎。	この手で……君を粉々にしてやる。	내가 직접 네 녀석을… 가루로 만들어주지.	I will crush you into dust... with my bare hands.						0	
+47	好了，已经切断连接了。	好了，已經切斷連接了。	大丈夫です。接続を切断しました。	됐어요! 연결이 차단되었습니다!	Okay, I severed the connection.						0	
+48	她仍然处于神格侵蚀的状态！	她仍然處於神格侵蝕的狀態！	彼女はまだ神格侵蝕に陥っています！	하지만 아직도 만트라 침식 상태에 있습니다!	But... she's still Flooded!						0	
+b-13											0	
+49	很危险，你和其他人都出去。	很危險，你和其他人都出去。	ここは危ないから、あなたたちは全員一旦離れて。	너무 위험해요. 연구원님하고 다른 분들은 전부 나가주세요.	It's extremely dangerous in here. You and the others get out of here.						0	
+b-14											0	
+50	交给我来处理。	交給我來處理。	私に任せてくれ。	제가 처리하겠습니다.	Leave this to me.						0	
+51	好的！	好的！	分かりました！	알겠습니다!	Understood!						0	
+52	我目送研究人员飞快地离开这间训练室，而“晴”正一步一步向我逼近。	我目送研究人員飛快地離開這間訓練室，而“晴”正一步步逼近我。	研究者たちが私に見守られながら訓練室から退避し、そして「晴」はだんだん迫ってきた。	난 연구원들이 빠르게 훈련실에서 철수한 것을 확인한다. '하루'는 서서히 내게 다가오고 있다…	I watched the researchers hastily exit the training room, then turned my attention back to Haru, who was approaching me step by step.						0	
+53	确认训练室内只剩我和“晴”后……	確認訓練室內只剩我和“晴”後……	訓練室に自分と「晴」しかいないことを確認した私は……	훈련실에 나와 '하루'만 남은 것을 확인한 나는…	After confirming that only Haru and I were left in the training room...						0	
+54	我拿出早就准备好的注射弹。	我拿出早就準備好的注射彈。	事前に用意した注射弾を取り出した。	준비했던 주사탄을 꺼냈다.	I pulled out the injection bullet that I had prepared.						0	
+55	是你在直呼我的名吗？	是你在直呼我的名嗎？	お前か？自分を呼び捨てにしたのは？	지금 내 이름을 부른 건가?	Are you calling me by my name?						0	
+56	注射弹如预想的那样顺利命中……	注射彈順利命中……	注射弾が予想通りに命中した……	주사탄은 예상했던 대로 명중하는데…	My aim was true, and the injection bullet struck her smoothly...						0	
+57	我记得你，你是……	我記得你，你是……	覚えている。お前は……	네가 누군지 알 것 같아. 넌…	I remember you. You're...						0	
+58	晴眼里的红色逐渐褪去，她好像认出了我。	晴眼裡的紅光逐漸褪去，她好像認出了我。	晴の目の中の赤がだんだん消えて、私のことが分かったようだ。	하루의 눈에서 서서히 붉은빛이 사라졌다. 날 알아보는 것 같았다.	The redness in Haru's eyes gradually faded, and she seemed to recognize me.						0	
+59	分析员……	分析員……	分析員……	분석가…	Adjutant...						0	
+60	我刚才……	我剛才……	自分は一体……	방금…	Just now, I...						0	
+61	……嗬——啊——	……呃——啊——	……くっ——あぁ——	… 하아ㅡ 하아ㅡ	...Ugh—! Ahhh—!						0	
+62	晴突然跪倒在地，左手死死按住右肩。	晴突然跪倒在地，左手緊緊按住右肩。	晴は突然地面に膝をついて、左手で右肩を必死に押さえた。	그러더니 갑자기 무릎을 꿇고는 왼손으로 오른쪽 어깨를 눌렀다.	Haru suddenly crumpled to her knees, gripping her right shoulder with her left hand.						0	
+63	手……手臂！胳膊！	手……手臂！胳膊！	う……腕！腕が！	파… 팔이! 내 팔이!	M—My arm! My arm!						0	
+64	她用手指在金属义肢上不断抓挠，仿佛正在经历极大的痛苦。	她的手指不斷地摳抓金屬義肢，整個人因痛苦而顫動。	彼女は金属の義肢をひっかき続け、大きな苦痛に耐えているようだ。	그녀는 마치 극심한 고통을 느끼고 있는 것처럼 금속으로 된 로봇팔을 손가락으로 계속해서 긁었다.	She scratched desperately at the metal prosthetic, seemingly in excruciating pain.						0	
+b-15											0	
+65	医疗后勤现在立马进来！	醫療後勤現在立刻進來！	医療担当は入ってくれ！	의료 지원부, 지금 당장 들어오세요!	Medical Logistics! Get in here immediately!						0	
+66	怎么会这样……	怎麼會這樣……	なんてことだ……	왜 이렇게 된 거지…	How did this happen...						0	
+67	医疗后勤们提着各种器材立刻冲进来，嘈杂的脚步立刻掩盖了晴的呻吟……	醫療後勤們提著各種器材立刻衝了進來，嘈雜的腳步聲蓋過了晴的呻吟……	いろいろな器材を持っている医療担当者が走ってきて、晴のうめき声はたちまち慌ただしい足音に遮られた……	의료 지원부는 각종 장비를 들고 재빠르게 들어왔다. 시끄러운 발걸음 소리에 하루의 신음소리가 묻혔다…	The Medical Logistics personnel rushed in with all sorts of equipment, the chaotic clamor of their footsteps finally dampening Haru's pained groans...						0	
+68	根据我们的研究，是<span color="#91c7ff">「幻痛」</>。	根據我們的研究，是<span color="#91c7ff">「幻痛」</>。	我々の分析によると、これは<span color="#91c7ff">「幻痛」</>ですね。	검사 결과, <span color="#91c7ff">[신경통]</>으로 보입니다.	According to our research, it was <span color="#91c7ff">phantom pain</>.						0	
+69	研究员调出了晴的扫描结果，展示给我看。	研究員調出了晴的掃描結果後展示給我看。	研究員は晴のスキャン結果を見せてくれた。	연구원은 하루의 몸을 스캔한 결과를 내게 보여줬다.	The researcher pulled up Haru's scans and showed them to me.						0	
+70	恐怕是神格带来的影响。	恐怕是神格帶來的影響。	おそらく神格による影響でしょう。	만트라로 인한 증상으로 보입니다.	I'm afraid it was due to her Deiwos.						0	
+71	就和以前那次误伤事件一样……	就和以前那次誤傷事件一樣……	例の過失傷害事件と同じく……	예전의 오인사격 때처럼 말이죠…	Just like that previous friendly fire incident...						0	
+b-16											0	
+72	误伤事件？	誤傷事件？	過失傷害事件？	오인사격이요?	Friendly fire incident?						0	
+73	呃……之后有新的情况我们会向您汇报的。	呃……之後若有新的情況我們會向您匯報的。	えっと……新しい情報が入るならご報告します。	아… 새로운 상황이 생기면 다시 보고드리겠습니다.	Um... We will report to you if there are any updates later.						0	
+74	她转移话题的意图过于明显，使我怀疑这可能是某种暗示。	她轉移話題的意圖過於明顯，使我懷疑這可能是某種暗示。	明らかに話題を逸らしている、それは何かの暗示ではないかと私は疑った。	주제를 바꾸려는 의도가 뚜렷해 보인다. 뭔가를 숨기고 있는 게 분명하다.	Her attempt to change the subject was so obvious that I suspected she might be trying to tell me something.						0	

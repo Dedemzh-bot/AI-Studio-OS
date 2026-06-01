@@ -1,0 +1,22 @@
+﻿图片名字	说明	图片类型(bg:背景图; image:图片)	资源路径	和谐版路径
+Name	Nul	Type	Path	FixPath
+PlotCG_0119	轻松疗愈	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0119.PlotCG_0119'	
+PlotCG_0122	纪念挂画	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0122.PlotCG_0122'	Texture2D'/Game/UI/Iterative/Picture/Dialogue/PlotCG_0122_a.PlotCG_0122_a'
+PlotCG_0123	一夜爆富	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0123.PlotCG_0123'	
+PlotCG_0124	邮信寄情	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0124.PlotCG_0124'	
+PlotCG_0125	葫芦传说	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0125.PlotCG_0125'	
+PlotCG_0126	恒沙行动	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0126.PlotCG_0126'	
+PlotCG_0127	心动杂志	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0127.PlotCG_0127'	
+PlotCG_0128	镜中未来	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0128.PlotCG_0128'	Texture2D'/Game/UI/Iterative/Picture/Dialogue/PlotCG_0128_a.PlotCG_0128_a'
+PlotCG_0129	好运暗示	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0129.PlotCG_0129'	
+PlotCG_0130	严苛小吉	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0130.PlotCG_0130'	
+PlotCG_0131	研发会议	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0131.PlotCG_0131'	
+PlotCG_0132	打工女皇	bg	Texture2D'/Game/UI/Picture/Dialogue/PlotCG_0132.PlotCG_0132'	
+				
+				
+icon_plot_di17	花盆（300*300）	image	Texture2D'/Game/UI/Icon/Plot/icon_plot_di17.icon_plot_di17'	Texture2D'/Game/UI/Icon/Plot/icon_plot_di16.icon_plot_di16'
+icon_plot_di62	捧花	image	Texture2D'/Game/UI/Icon/Plot/icon_plot_di62.icon_plot_di62'	
+icon_plot_di88	冰淇淋（700*700）	image	Texture2D'/Game/UI/Icon/Plot/icon_plot_di88.icon_plot_di88'	
+icon_plot_di91	海边三件套（900*900）	image	Texture2D'/Game/UI/Icon/Plot/icon_plot_di91.icon_plot_di91'	
+icon_plot_di49_2	黑棋和谐变白棋	image	Texture2D'/Game/UI/Icon/Plot/icon_plot_di49_2.icon_plot_di49_2'	Texture2D'/Game/UI/Icon/Plot/icon_plot_di49_3.icon_plot_di49_3'
+pic_dlc09_end003	大富翁结算1280*720	image	Texture2D'/Game/UI/Picture/DLC09Richman/pic_dlc09_end003.pic_dlc09_end003'	

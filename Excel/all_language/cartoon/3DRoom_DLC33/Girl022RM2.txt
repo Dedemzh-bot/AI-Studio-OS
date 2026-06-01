@@ -1,0 +1,48 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	这件事发生在克罗瑞娜刚刚入队海姆达尔时。	這件事發生在克羅瑞娜剛剛入隊海姆達爾時。	それは、クラウリナがヘイムダルに加わったばかりの頃の出来事だ。	클라리나가 헤임달에 막 합류했을 때 일어난 일이었다.	This anecdote happened when Clarina had just joined Heimdall.						0	
+page1.2	……	……	……	……	...						0	
+page1.3	她似乎正在调查着什么。	她似乎正在調查著什麼。	クラウリナは当時、何かを調べていた。	그녀는 뭔가를 조사하는 것 같았다.	She seemed to have been investigating something.						0	
+page1.4	就比如这个时候，	就比如這個時候，	たとえば、この時も。	예를 들면 이럴 때,	For example, at a time like this.						0	
+page1.5	这个时候，	這個時候，	この時も。	이럴 때,	And this.						0	
+page1.6	以及这个时候。	以及這個時候。	そして、この時も。	그리고 이럴 때도.	And this, too.						0	
+choice01	和她打招呼	和她打招呼	声をかける	인사를 건넨다	Greet her						0	
+page2.1	好巧啊，克罗瑞娜，你也在这里。	好巧啊，克羅瑞娜，你也在這裡。	奇遇だな、クラウリナ。ここにいたのか。	와, 클라리나, 너도 여기 있었구나?	What a lovely surprise to find you here, Clarina.						0	
+page2.2	咿呀！	咿呀！	きゃっ！	으앗!	Eek!						0	
+page2.3	我只是轻轻拍了拍她的肩膀，她却惊得浑身一颤，像是只炸了毛的猫儿。	我只是輕輕拍了拍她的肩膀，她卻驚得渾身一顫，像是隻炸了毛的貓咪。	肩にそっと触れただけなのに、全身をビクリと跳ねさせ、毛を逆立てた猫のよう。	어깨를 살짝 쳤을 뿐인데도 그녀는 털이 곤두선 고양이처럼 온몸을 부르르 떨며 놀랐다.	I had only patted her shoulder lightly, but she jolted all over like a cat with its fur standing on end.						0	
+page2.4	呼——是playername呀……	呼——是playername呀……	……playernameさんでしたのね。	휴… playername, 너였구나…	Phew— Are you playername?						0	
+page2.5	你怎么了？	你怎麼了？	どうした。顔色が優れないな。	무슨 일 있어?	What's wrong?						0	
+page2.6	没怎么……	沒怎麼……	べつに……	아무것도…	It's nothing...						0	
+page2.7	我发现她的脸色有些难看，似是有什么难言之隐。	我發現她的臉色有點難看，像是有什麼難言之隱。	言い淀む気配。	말 못 할 사정이라도 있는 듯, 그녀는 안색이 영 어두워 보였다.	Her pale look hinted at some unspoken concerns.						0	
+page2.8	过了好一阵子，她才吞吞吐吐地说了实情。	過了好一陣子，她才吞吞吐吐地說了實情。	やがて観念したように、ぽつぽつと。	그녀는 한참이 지나서야 머뭇거리며 사실을 털어놓았다.	After a good long while, she finally stammered out the truth.						0	
+page2.9	我在……调查奈莉德。	我在……調查奈莉德。	ネリーダさんを――調べているの。	네리다를… 조사하고 있었어.	I—I'm investigating Nerida.						0	
+page2.10	你调查她做什么？	你調查她做什麼？	ネリーダを？何のために。	네리다를 왜 조사하는데?	Investigating her? What for?						0	
+page2.11	你知道幽灵吗？	你知道幽靈嗎？	「幽霊」って、知っているかしら。	너, 유령 알아?	Do you know about phantoms?						0	
+page2.12	……？	……？	……？	……?	...?						0	
+page2.13	我分明记得克罗瑞娜是个唯物主义者。	我分明記得克羅瑞娜是個唯物主義者。	彼女は筋金入りの唯物論者、のはずだが――	클라리나는 유물론자였던 걸로 기억하는데.	I thought Clarina was a materialist.						0	
+page2.14	我说的幽灵不是电影里那种鬼怪，而是一种类信息态的概念……称之为信息态幽灵应该更合适一点。	我說的幽靈不是電影裡那種鬼怪，而是一種類資訊態的概念……稱之為資訊態幽靈應該更合適一點。	映画に出る怪異のことじゃないわ。情報体の形を取る、概念的な存在。情報体幽霊、と言えば伝わるかしら。	내가 말하는 유령은 영화에 나오는 귀신 같은 게 아니라 이념 형태 같은 개념이야… 이념 형태 유령이라고 하는 게 더 어울리겠네.	I'm not talking about the phantoms in movies. It's more of a fragmentation concept... "Fragmented phantom" would be a more accurate term.						0	
+page2.15	信息态幽灵以为自己依旧活在物质世界中，按照普通人的方式生活着……殊不知，它们早已不属于这个世界了。	資訊態幽靈以為自己依舊活在物質世界中，按照普通人的方式生活著……殊不知，它們早已不屬於這個世界了。	情報体幽霊は、自分がまだ物質世界で生きているつもりで、普通の生活をなぞるの。けれど実のところ、この世界にはもう属していない。	이념 형태 유령은 자신이 여전히 물질세계에 살고 있다고 착각하고 평범한 사람처럼 생활하지… 하지만 더 이상 이 세상 사람이 아니라는 사실은 알지 못해.	Fragmented phantoms think they're still living like ordinary people in the material world, unaware that they no longer belong here.						0	
+page2.16	克罗瑞娜煞有其事地捏紧了拳头。	克羅瑞娜煞有介事地捏緊了拳頭。	ぎゅっと拳を握る仕草は真剣そのもの。	클라리나가 진지하게 주먹을 꽉 쥐었다.	She clenched her fist in all seriousness.						0	
+page2.17	虽然“信息态幽灵”这个概念很科幻，但毫无疑问，我对此是有发言权的。	雖然「資訊態幽靈」這個概念很科幻，但毫無疑問，我對此是有發言權的。	「情報体幽霊」なら、こちらにも語れる材料がある。	 '이념 형태 유령'이라는 개념이 공상 같기는 해도, 이 주제에 대해서 내가 할 말은 분명했다.	However sci-fi "fragmented phantom" sounded, I undoubtedly had some authority on the subject.						0	
+page2.18	我知道信息态幽灵是什么，但这和奈莉德有什么关系？	我知道資訊態幽靈是什麼，但這和奈莉德有什麼關係？	概念は分かる。で、それがネリーダとどう繋がる？	이념 형태 유령이 뭔지는 알겠는데, 그게 네리다랑 무슨 상관이야?	I know what fragmented phantoms are, but what does that have to do with Nerida?						0	
+page2.19	奈莉德很可能处于这个状态。	奈莉德很可能處於這個狀態。	ネリーダさんは、いまその状態にある可能性が高いわ。	네리다가 그런 상태일 거야.	Nerida is very likely in that state.						0	
+page2.20	虽然世界树的报告上没写，但我的秘密情报告诉我，她其实已经牺牲了，我正在验证这个情报。	雖然世界樹的報告上沒寫，但我的秘密情報告訴我，她其實已經犧牲了，我正在驗證這個情報。	ユグドラシルの公式報告にはないけれど、わたくしの裏ルートでは――彼女は殉職したって。いま、その真偽を確かめているの。	위그드라실 보고서에는 안 나와 있지만, 내 비밀 정보에 따르면 네리다는 사실 이미 희생됐대. 지금 난 그 정보를 검증하는 중이고.	Yggdrasil's reports didn't mention it, but a secret source informed me of her death. I'm verifying this information.						0	
+page2.21	……？	……？	……？	……?	...?						0	
+page2.22	我突然很想知道奈莉德得知自己牺牲后的反应……好在是忍住了。	我突然很想知道奈莉德得知自己犧牲後的反應……好在是忍住了。	もし本人が聞いたらどう反応するか――想像しつつも、口には出さない。	네리다가 자신이 희생됐다는 걸 알게 되면 어떤 반응을 보일지 갑자기 궁금해졌지만… 다행히 참았다.	I couldn't help but imagine Nerida's reaction to hearing she'd died... but I held it in.						0	
+page2.23	那……她是怎么牺牲的？	那……她是怎麼犧牲的？	いつ、どういう状況で？	그럼… 어떻게 희생됐는데?	Then... how did it happen?						0	
+page2.24	我故作严肃地继续追问。	我故作嚴肅地繼續追問。	あえて真顔で問う。	나는 진지한 척하며 계속 물었다.	I put on a serious face and pressed on.						0	
+page2.25	好像是在泰坦污染的灾难中牺牲的……就在前不久。	好像是在泰坦汙染的災難中犧牲的……就在前不久。	つい先日の、タイタン汚染の災厄で……らしいわ。	타이탄 오염 재난 때 희생된 것 같던데… 바로 얼마 전에.	Supposedly in a Titagen contamination... just recently.						0	
+page2.26	原来如此……	原來如此……	なるほど。	그렇구나…	I see...						0	
+page2.27	我没有直接说出真相，但我微妙的神色早已被克罗瑞娜察觉。	我沒有直接說出真相，但我微妙的神色早已被克羅瑞娜察覺。	真実は伏せたが、表情のわずかな綻びで察したのだろう。	곧바로 진실을 말하지는 않았지만, 클라리나는 진작에 내 미묘한 기색을 눈치챘다.	I didn't say the truth outright, but my subtle expressions had already given me away.						0	
+page2.28	从你的表情来看，我这情报似乎……不太可靠？	從你的表情來看，我這情報似乎……不太可靠？	その顔……わたくしの情報は、あまり当てにならないみたいね？	네 표정을 보니까 내 정보가… 별로 신뢰할 만하지 않은가 본데?	Judging by your look, my intel is... not very reliable?						0	
+page2.29	大概不只是“不太可靠”吧。	大概不只是「不太可靠」吧。	「あまり」どころじゃないな。	 '별로 신뢰할 만하지 않은' 정도가 아닐걸.	"Not very reliable" might be an understatement.						0	
+page2.30	……	……	……	……	...						0	
+page2.31	令人尴尬的沉默充斥了我俩之间的空气，我连忙咳嗽两声，试图缓和氛围。	令人尷尬的沉默充滿了我們之間的空氣，我連忙咳嗽兩聲，試圖緩和氣氛。	気まずい沈黙。咳払いで場を和らげる。	민망한 침묵이 우리 사이를 가득 채웠고, 나는 분위기를 누그러뜨리려 재빨리 헛기침했다.	I tried to break the awkward silence between us by coughing.						0	
+page2.32	咳咳，也不要太往心里去，这件事情不是你的问题。	咳咳，也不要太往心裡去，這件事情不是你的問題。	気に病むなよ。責任はクラウリナにない。	크흠, 너무 신경 쓰진 마. 이건 네 잘못이 아니니까.	Ahem, don't take it too hard. This isn't your fault.						0	
+page2.33	你的情报大概来自于米拉吧，奈莉德牺牲是我们对外的说法，本质上是烟雾弹。	你的情報大概來自於米拉吧，奈莉德犧牲是我們對外的說法，本質上是煙霧彈。	情報源はミラ経由だろう。ネリーダの殉職は対外的なカバーストーリーだ。要は煙幕だな。	네가 말한 그 정보는 밀라에게서 들은 거겠지? 네리다의 희생은 우리가 대외적으로 하는 말이고, 사실은 연막탄이야.	Your intel came from Myra, right? Nerida's death was our story to the public. It's essentially a smokescreen.						0	
+page2.34	克罗瑞娜这才恍然大悟。	克羅瑞娜這才恍然大悟。	そこでようやく、氷解の色。	클라리나는 그제야 깨달았다.	Clarina was suddenly enlightened.						0	
+page2.35	也就是说——	也就是說——	ということは――	그러니까…	That means...						0	
+page2.36	是，我们做的这一切是为了保证她能安全加入海姆达尔。至于实际情况……你也看到了。	是，我們做的這一切是為了確保她能安全加入海姆達爾。至於實際情況……你也看到了。	彼女を安全にヘイムダルへ迎え入れるための作戦だ。実際の事情は……見てのとおり。	그래, 이 모든 건 네리다가 안전하게 헤임달에 가입할 수 있게 하기 위해서였지. 실제로는… 너도 봤잖아.	Yes. We did everything to ensure she could safely join Heimdall. As for what actually happened... you've seen it yourself.						0	
+page2.37	克罗瑞娜无奈地耸了耸肩，似是有些失落。	克羅瑞娜無奈地聳了聳肩，像是有些失落。	クラウリナは肩をすくめ、小さく息を吐いた。どこか拍子抜け、そして少しだけ落胆。	클라리나는 체념한 듯 어깨를 으쓱였고, 어딘가 허무해 보이기도 했다.	Clarina shrugged helplessly, seeming a bit down.						0	
+page2.38	那好吧……	那好吧……	……そう。分かったわ。	알았어…	All right then...						0	
+page2.39	也不知道是不是因为这件事，在那之后很长一段时间里，克罗瑞娜对奈莉德的态度都有那么点儿拘谨……	也不知道是不是因為這件事，在那之後很長一段時間裡，克羅瑞娜對奈莉德的態度都有那麼點拘謹……	その件が尾を引いたのか、しばらくのあいだ、クラウリナのネリーダへの態度は、ほんの少しだけ――よそゆきだった。	이 일 때문인지는 모르겠지만, 그 후 한동안 클라리나는 네리다를 대할 때 살짝 서먹해 보였다…	For a long time after that, Clarina had been somewhat stiff in front of Nerida...						0	

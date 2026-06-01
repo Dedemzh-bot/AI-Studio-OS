@@ -1,0 +1,107 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1_1	这是茉莉安刚加入海姆达尔之后发生的故事。	這是茉莉安剛加入海姆達爾之後發生的故事。	これはマリアンがヘイムダルに入ってしばらく経ってからの話だ。	이건 마리안이 헤임달에 가입한 후에 생긴 일이다.	Soon after Marian had joined Heimdall...						0	
+1	第一次意识到去医疗室的路这么长。	第一次意識到去醫療室的路這麼漫長。	医療室までの道が、こんなに長く感じたのは初めてだ。	의무실로 가는 길이 이렇게 길게 느껴진 건 처음이었다.	It was the first time I realized just how long it took to get to the medical bay.						0	
+b-1											0	
+2	茉莉安！	茉莉安！	マリアン！	마리안!	Marian!						0	
+3	我试图通过大声呼喊，让茉莉安保持清醒。	我試圖大聲呼喊讓茉莉安保持清醒。	大声で名前を呼んで、マリアンの意識を保とうとした。	난 큰 소리로 마리안을 불러 그녀가 정신을 잃지 않도록 했다.	I shouted in an effort to keep Marian awake.						0	
+4	茉莉安吃力地把眼睛睁开一条缝，回应着我。我尽量让自己的表情看上去镇静点……至少是看上去。	茉莉安吃力地將眼睛睜開一條縫來回應我。我盡量讓自己看起來很鎮定……	マリアンはつらそうに目を細め、私を見つめていた。私は心配させないように、落ち着いた表情を作った。	마리안은 힘겹게 눈을 뜨고 대답했다. 난 최대한 침착한 표정을 지으려고 했다… 적어도 그렇게 보이려 노력했다.	Marian forced her eyes open slightly in response. I tried my best to appear calm... at least on the outside.						0	
+5	分析员……	分析員……	分析員さん……	분석가님…	Adjutant...						0	
+6	在茉莉安被推进医疗室的时候，我似乎听到了她微弱的呼唤，稍微松了口气，她应该没事吧。	在茉莉安被推入醫療室時，我好像聽到了她微弱的呼喚聲，這讓我稍微鬆了一口氣，她應該沒事吧。	マリアンが医療室に運ばれたとき、彼女のかすかな声が聞こえて、少しほっとした。おそらく、大丈夫だろう。	마리안이 의무실에 들어갈 때 날 나지막이 부르는 소리가 들리는 듯했다. 난 안도의 한숨을 내쉬었다. 그녀는 아마 괜찮을 것이다.	I seemed to hear her calling out to me weakly as she was taken into the medical bay. I was somewhat relieved — she would probably be okay.						0	
+7	我处理完任务汇报就急忙回到了医务室门口。	我處理完任務匯報後急忙回到醫務室門口。	ミッションの報告を終わらせ、私はすぐに治療室に戻った。	난 임무 보고를 마치고 서둘러 의무실 문 앞으로 돌아왔다.	After I finished processing the mission report, I rushed back to the medical bay.						0	
+8	分析员长官，您是来看望茉莉安队员的吧？	分析員長官，你是來探望茉莉安隊員的吧？	お疲れ様です。マリアンさんに会いに来られたんですよね？	분석가님, 마리안 대원을 보러 오셨나요?	Sir, are you here to see Marian?						0	错别字修改
+b-2											0	
+9	她现在怎么样。	她現在情況如何。	彼女の様子は？	마리안은 지금 어떤가요?	How is she doing?						0	
+10	茉莉安队员已经醒了，目前没有生命危险。	茉莉安隊員已經醒了，目前沒有生命危險。	マリアン隊員は意識を取り戻しました。命に別状はありません。	마리안 대원은 이미 의식을 회복했고, 생명에도 지장이 없습니다.	She's awake now, and her condition is stable.						0	标点修改
+10_1	不过她的身体为了治愈致命伤消耗了过多天启者力量，其他的伤都恢复得很慢。	不過她的身體為了治癒致命傷消耗了過多天啟者力量，其他的傷都恢復得很慢。	ただ、傷を治癒するために覚醒者の力を過剰に消耗したせいで、他の箇所の回復が遅れているという。	다만 치명상을 치유하려고 계시자의 힘을 과하게 쓰는 바람에 회복이 더딘 상황입니다.	However, her body used too much Manifestation power to heal her fatal injuries. Her other wounds are healing very slowly.						0	
+10_2	半个小时前各个伤口清创和包扎都已经完成了。	半小時前各個傷口的清創和包紮都已經完成。	三十分前に、すべての傷の処置は終わっていた。	상처 소독과 붕대 처치는 30분 전에 모두 완료했습니다.	They were treated and bandaged up about half an hour ago.						0	
+11	考虑到天启者的细胞再生能力，我们会进一步调整茉莉安队员的康复计划，帮助她尽快恢复，同时也避免疤痕遗留。	考慮到天啟者的細胞再生能力，我們會進一步調整茉莉安隊員的康復計劃，幫助她盡快恢復，同時也避免疤痕遺留。	覚醒者としての細胞再生能力を踏まえ、マリアン隊員の回復プランを再調整しています。治癒を促しつつ、傷跡が残らないよう、最大限の処置を行っています。	계시자의 세포 재생력을 고려해 마리안 대원의 재활 계획을 조정하여 최대한 빨리 회복하고 흉터가 남지 않게 하겠습니다.	Keeping her ability as a Manifestation to regenerate cells in mind, we'll refine her recovery plan to avoid scarring and help her recover as soon as possible.						0	
+b-3											0	
+12	辛苦了，你们考虑得很周到。	辛苦了，你們考慮得很周到。	お疲れ様、よくやってくれた。	수고 많으셨어요, 세심하게 신경 써주셔서 감사합니다.	Thank you. You are all so considerate.						0	
+13	这是我们应该做的。	這是我們該做的。	やれることをやったまでです。	별말씀을요.	That's what we're here for.						0	
+b-4											0	
+14	我现在能进去看看她吗？	我現在能進去探望她嗎？	中に入っていいか？	지금 들어가서 마리안을 만날 수 있나요?	Can I go see her now?						0	
+15	当然可以。	當然可以。	もちろんです。	물론이야.	Of course.						0	
+15_1	那我们先回研究室，有需要您可以通过监护系统随时呼叫我们。	那我們先回研究室，有需要您可以透過照護系統隨時呼叫我們。	それでは、研究室に戻ります。ご用の際は、監視システムからいつでもお呼びください。	그럼 저희는 연구실로 돌아가겠습니다. 필요하시면 언제든 간호 시스템으로 호출해 주세요.	Our team will go ahead and get back to the lab. Just call through the monitoring system if you need us.						0	
+16	我朝她点点头后，打开了医疗室的门。	我朝她點點頭後，打開了醫療室的門。	私は頷いて、医療室のドアを開けた。	난 고개를 끄덕이고 의무실 문을 열었다.	I nodded at her and opened the door to the medical bay.						0	
+17	熟悉的仪器声环绕在四周，夹杂着茉莉安轻轻的呼吸声，我的紧张也稍微缓解了点。茉莉安就静静地躺在那里。	四周環繞著儀器聲，當中夾雜著茉莉安細微的呼吸聲，看到她靜靜地躺在那裡，我的緊張感也稍稍緩解。	慣れ親しんだ機器の音の中に、マリアンのかすかな呼吸音が聞こえて、私の緊張が少し和らいだ。マリアンは静かに横たわっている。	익숙한 기계 소리 속에서 마리안의 옅은 숨소리가 들리자, 긴장감도 약간 누그러졌다. 마리안은 가만히 그곳에 누워 있었다.	The familiar sound of medical devices surrounded me. As I heard Marian's soft breathing, my anxiety eased somewhat. She was lying there quietly.						0	
+18	分析员？	分析員？	分析員さん？	분석가님?	Adjutant?						0	
+b-5											0	
+19	不好意思，我吵醒你了。	不好意思，我吵醒你了。	すまん、起こしてしまったか？	깨워서 미안해.	Sorry for waking you.						0	
+20	没有这回事，我刚刚只是在闭目养神。	沒有，我剛剛只是在閉目養神。	そんなことはありません、ただ目を閉じているだけです。	아니에요, 그냥 눈만 감고 있었어요.	No, that's alright. I was just resting my eyes.						0	
+b-6											0	
+21	感觉怎么样？	感覺怎麼樣？	体調はどうだい？	좀 어때?	How are you feeling?						0	
+22	已经好多了，不过还在疼。	已經好多了，不過還在痛。	まだ痛みはありますが、だいぶよくなりました。	많이 좋아졌는데, 아직 아파요.	Much better than before, but it still hurts.						0	
+23	茉莉安说完，脸上又泛起熟悉的薄红。	茉莉安說完，臉上又泛起微微紅暈。	マリアンはそう言い、顔を少し赤らめた。	마리안의 얼굴이 살짝 붉어졌다.	After Marian finished speaking, a familiar redness surfaced on her cheeks.						0	
+b-7											0	
+24	是镇痛剂的药效过了吗？	是鎮痛藥的藥效過了嗎？	鎮痛剤の効果が切れたのかい？	진통제의 약효가 떨어진 건가?	Did the painkillers wear off?						0	
+25	茉莉安移开目光，避免与我对视。	茉莉安移開目光，避免與我對視。	マリアンは目を逸らした。	마리안은 시선을 피하며 나와 눈을 마주치지 않으려 했다.	Marian shifted her gaze, avoiding eye contact with me.						0	
+25_1	我立刻想起来，之前治疗时，她曾主动要求不要使用镇痛剂。	我立刻想起來，之前治療時，她曾主動要求不要使用鎮痛藥。	以前の治療のとき、彼女は鎮痛剤の使用を断っていたことを思い出した。	그때 나는 이전 치료 때 그녀가 진통제를 사용하지 말아 달라고 요청했던 것이 떠올랐다.	I suddenly remembered the last time she had undergone treatment, when she had explicitly asked me not to give her any painkillers.						0	
+25_2	当时，受伤的茉莉安躺在治疗台上，偌大的医疗室，只有我陪在她身旁。	當時，受傷的茉莉安躺在治療台上，偌大的醫療室，只有我陪在她身旁。	あのとき、傷ついたマリアンは治療台に横たわり、広い医療室には私しかいなかった。	그때 부상을 당한 마리안은 치료대 위에 누워 있었고, 넓은 의무실에서 나 혼자 그녀의 곁을 지키고 있었다.	An injured Marian had been lying on the treatment table in the large medical bay, with only me beside her.						0	
+25_3	由AI操控的医学仪器悬于上方识别伤情，机械手臂移过来，按部就班地为她缝合伤口。	由AI操控的醫學儀器懸於上方識別傷情，機械手臂移過來，按部就班地為她縫合傷口。	AI制御の医療機器が上方から彼女の傷を解析し、機械のアームが滑らかに動いて、淡々と縫合を進めていく。	AI가 조종하는 의료 기기가 공중에서 상처를 파악하고, 로봇팔이 다가와 순서대로 그녀의 상처를 봉합했다.	AI-controlled instruments hovering overhead had scanned her wound before a mechanical arm moved in, stitching her up with efficiency and precision.						0	
+25_4	在仪器的嗡鸣中，我仿佛真的能听见针与刀刺破她柔嫩皮肤的声音。	在儀器的嗡鳴中，我彷彿真的能聽見針與刀刺破她柔嫩皮膚的聲音。	低い機械音の中で、私は針やメスが彼女の柔らかな肌を貫く気配を、確かに感じ取っていた。	윙윙거리는 기기 소리에, 나는 마치 바늘과 칼날이 그녀의 부드러운 피부를 찢는 소리를 듣는 것만 같았다.	Under the soft hum of the equipment, I could almost hear the needle and scalpel piercing her delicate skin.						0	
+25_5	而她在那时请求我撤去她的镇痛剂。	而她在那時請求我撤去她的鎮痛藥。	そしてあのとき、彼女は私に、鎮痛剤を外してほしいと頼んだのだ。	그리고 그녀는 그때 나에게 진통제를 제거해달라고 부탁했다.	And yet, in that gruesome moment, she had asked me to remove the painkillers.						0	
+26	突然的安静，让我有点不知所措。	突然的安靜，讓我有點不知所措。	ふいに訪れた静けさに、少し戸惑いを覚えた。	갑작스럽게 찾아온 고요함에 나는 조금 당황했다.	The sudden silence left me at a loss.						0	
+26_1	茉莉安有个奇怪的理论，她总说越是被我关心，她就越会想要让自己受伤。	茉莉安有個奇怪的理論，她總說越是被我關心，她就越會想要讓自己受傷。	マリアンは少しおかしなことを言った。私に気遣われれば気遣われるほど、自分を傷つけたくなるのだ、と。	마리안에게는 이상한 이론이 있다. 내가 그녀를 걱정할수록, 그녀는 더욱 다치려 한다는 것.	Marian had this odd theory of hers: the more I showed that I cared about her, the more she'd want to get hurt.						0	
+26_2	换作以往，如果她真的希望享受我为她带来“疼痛”，我尽量配合就是了。	換作以往，如果她真的希望享受我為她帶來“疼痛”，我盡量配合就是了。	これまでなら、もし彼女が本当に「私の与える痛み」を望むのなら、私はできる限りその願いに応えてきた。	예전 같았으면 그녀가 정말 내가 주는 '고통'을 누리기를 바란다면 최대한 맞춰주었을 것이다.	Normally, I'd indulge her as much as I could if pain was what she wanted.						0	
+27	唯独这次，她已经伤到了我无法不在乎的程度。	唯獨這次，她已經傷到了我無法不在乎的程度。	ただ今回は……その努力もむなしくなるほどに負傷させてしまった。	하지만 이번에 그녀는 내가 신경 쓰지 않을 수 없을 만큼 심하게 다쳤다.	But this time, she had gotten hurt so badly that it was impossible for me not to show my concern.						0	
+28	换药时间到了，请及时给您的伤口换药。	換藥時間到了，請您及時換藥。	包帯交換の時間です。包帯を交換してください。	약을 교체할 시간입니다. 관계자를 호출해 주시길 바랍니다.	It's time to change your dressings. Please change your dressings in a timely fashion.						0	
+29	终于，监护系统的提示音刺破了这尴尬的安静。	終於，照護系統發出的警示聲打破了尷尬的沉默。	ようやく、システムの通知が気まずい静寂を打ち破った。	마침내 간호 시스템의 알림음이 기나긴 침묵을 깨뜨렸다.	Finally, the reminder from the monitoring system broke the awkward silence.						0	
+b-8											0	
+30	该换药了，你躺好，仪器会帮你换药，我等下再来。	該換藥了，你躺好，儀器會幫你換藥，我等下再來。	包帯を交換する時間だよ、横になって。機械がやってくれるから、あとでまた来る。	이제 약을 교체해야 해. 누워 있어, 기기가 약을 교체해 줄 거야. 나는 나중에 다시 올게.	Time to change the dressings. Lie back. The unit can do it, I'll come back in a bit.						0	
+31	请等一下！可以……再多待一会儿吗？	請等一下！可以……再多待一下嗎？	待って！もう少し……ここにいてください。	잠깐만요! 괜찮다면… 조금만 더 있어 주실래요?	Please wait! Could you... stay a little longer?						0	
+32	茉莉安突然拉住了我的手。	茉莉安突然拉住了我的手。	マリアンは急に私の手を握った。	마리안이 내 손을 덥석 잡았다.	Marian suddenly held my hand.						0	
+32_1	她的手十分纤细，还有些许冰凉，她的想法似乎透过皮肤传递给我：请求我留下。	她的手十分纖細且冰涼。從她肌膚所透出的陣陣涼意似乎在請求我：留下來陪她。	彼女の手は細く、そして少し冷たかった。ここにいてほしいという思いが、冷たい指先を通して私に伝わってくる。	그녀의 속마음이 가냘프고 차가운 손을 통해 나에게 전달되는 듯했다. '제 옆에 있어 주세요.'	Her hand was slender and slightly cold, and it felt as though her thoughts reached me through our touching skin — she was begging me to stay.						0	
+33	我不清楚她在想些什么，犹豫着要不要回应她。如果我的关心又让她更加追求伤痛……	我不清楚她在想些什麼，猶豫著是否要回應她。如果我的關心又讓她追求傷痛的話……	彼女の考えがわからず、どう答えればいいのか悩んだ。私の心配が、彼女により多くの痛みを求めさせてしまったら……	난 그녀의 의도를 알 수 없어 어찌해야 할지 알 수 없었다. 만일 나의 관심이 그녀를 더 아프게 한다면…	I wasn't sure what was on her mind. I hesitated, wondering if I should respond. If my concern made her want to get hurt even more...						0	
+34	分析员？	分析員？	分析員さん？	분석가님?	Adjutant?						0	
+35	playername……	playername……	playername……	playername…	playername...						0	
+36	但凡是个有情感的人类，都无法丢下这样的茉莉安。	只要是個有感情的人類，都無法丟下現在的茉莉安不管。	しかし、感情を持つ人間であれば、こんなマリアンを放っておくことはできないだろう。	하지만 감정이 있는 인간이라면, 그런 마리안을 그대로 내버려 둘 수는 없었다.	Any human with emotions would find it impossible to leave Marian in her current state.						0	
+b-9											0	
+37	好，我不走。	好，我不走。	分かった、どこにも行かないよ。	알았어, 여기 있을게.	Alright. I won't leave.						0	
+38	谢谢分析员。	謝謝分析員。	ありがとうございます、分析員さん……	고마워요, 분석가님.	Thank you, Adjutant.						0	
+39	留是留下了，但换药不能耽误。	雖然我不走，但是不能耽誤換藥。	そばにいることにしたが、包帯の交換は遅らせるわけにはいかない。	옆에 있어 주긴 하겠지만, 약은 제때 교체해야 한다.	I had decided to stay, but her dressings still needed to be changed.						0	
+40	我抬手，准备按下换药的指令。	我抬手，準備按下換藥的指令。	手を上げて、包帯を交換するよう指示を出そうとした瞬間。	나는 손을 들어 약 교체 명령을 입력하려 했다.	I raised my hand, ready to press the button to initiate the procedure.						0	
+41	别！	別！	待って！	안 돼요!	No!						0	
+42	茉莉安激动地朝我扑来，按住了我准备点击终端的手。	茉莉安激動地撲向我並按住了我準備點擊終端的手。	マリアンの感情が高ぶり、私に飛びつき、端末を操作できないように私の手を握った。	마리안이 다급하게 달려들어 단말기를 누르려는 내 손을 붙잡았다.	Marian rushed over to me, panicked. She held onto my hand that was about to tap on the terminal.						0	
+43	我不想……	我不想……	いや……です……	전 그걸 원치 않아요…	I don't want to...						0	
+b-11											0	
+44	只是用机械臂辅助换药，我就在这里陪着你。	只是用機械臂輔助換藥，我就在這裡陪著你。	補助機械腕が包帯の交換を手伝うだけだ。私はどこにもいかないよ。	약만 로봇팔로 갈아주고, 나는 여기서 곁에 있을게.	The unit is just going to change your dressings. I'll be right here with you.						0	
+45	茉莉安又使劲摇了摇头，她眼里泛着水雾央求着我，如果要满足这个要求，就只有一个办法了……	茉莉安又使勁搖了搖頭，她眼裡泛著淚光央求我，如果要滿足她的冀望，就只有一個辦法了……	マリアンは首を激しく振り、目に涙をたたえ、私に懇願した。もう言う通りにするしかない。	마리안은 다시 힘껏 고개를 저으며 눈물을 글썽이며 애원했다. 그녀의 요구를 들어주려면 한 가지 방법밖에 없었다…	Marian shook her head fiercely again. Tears were welling up in her eyes, and she was begging me with her gaze. There was only one option that would satisfy her...						0	
+46	可以麻烦你来帮我换药吗？	可以麻煩你來幫我換藥嗎？	包帯を交換していただけませんか？	분석가님이 교체해 주시면 안 될까요?	Can you help me change my dressings?						0	
+47	她先我一步说出了这个办法，我有点诧异我们之间有这种默契，又感慨我们都很大胆。也有可能，是气氛使然。	她早我一步說出了這句話，我有點訝異彼此的默契，卻又感嘆我們都很大膽，但也有可能是氣氛使然。	マリアンから包帯を交換してほしいと言われて少し驚いた。彼女も私も大胆になったものだと感心した。もしかしたら、場の雰囲気がそうさせたのかもしれない。	그녀가 먼저 방법을 제시했고, 난 서로 마음이 통한 것에 놀랐고, 우리의 대범함에 또 놀랐다. 어쩌면 분위기 때문일지도 모르겠다.	She was one step ahead of me. I was slightly surprised by the fact that we were on the same wavelength and that we were both feeling so bold... Maybe it was just due to the atmosphere.						0	
+48	我回握住她的手，扶她坐回床上。	我回握住她的手，扶她坐回床上。	私は彼女の手を握り返し、ベッドに座らせた。	난 그녀의 손을 잡고 그녀를 부축해 침대에 앉혔다.	I held onto her hand and helped her sit back down on the bed.						0	
+b-12											0	
+49	你先坐好，我帮你换。	你先坐好，我幫你換。	先に座ってて、私がやるから。	일단 앉아, 약은 내가 교체해 줄게.	Sit down first. I'll help you change them.						0	
+50	谢谢分析员。	謝謝分析員。	ありがとうございます、分析員さん……	고마워요, 분석가님.	Thank you, Adjutant.						0	
+b-13											0	
+51	疼就立刻跟我说。	痛就馬上跟我說。	痛かったら言ってくれ。	아프면 이야기해.	Tell me right away if it hurts.						0	
+52	好的，从哪里开始呢？	好的，從哪裡開始換呢？	はい、どこから巻き直しますか……？	네, 어디부터 시작할까요?	Okay. Where are you going to start?						0	
+e-1											0	
+53	手臂	手臂	腕	팔.	Your arm.						0	
+54	好，那我先把伤口露出来。	好，那我先把傷口露出來。	はい、ではまず傷口を出しますね。	네, 그럼 팔부터 할게요.	Okay. Let me take the old dressing off first.						0	
+55	茉莉安一边说着一边把手臂伸向我。我用一次性棉球沾了药，轻轻地在她伤口处擦拭。	茉莉安邊說邊將手臂伸向我。我用棉花棒沾了藥後輕輕塗抹在她的傷處。	マリアンは話しながら、腕を私に差し出した。私は脱脂綿に薬をつけ、彼女の傷口をそっと拭き始めた。	마리안이 팔을 내밀자, 난 일회용 소독솜에 약을 묻혀 그녀의 상처를 살살 닦아주었다.	As Marian spoke, she stretched her arm out toward me. I dipped a cotton ball in the cleansing solution, then softly rubbed it on her wound.						0	
+56	唔！	唔！	うっ！	윽!	Ah...!						0	
+57	我抬眼看了眼她，此时的她正紧咬着嘴唇，紧闭着的眼睛已经挤出了小小的泪珠。	我抬頭看了她一眼，她因疼痛而緊咬著嘴唇，緊閉的雙眼泛出了小滴淚珠。	見上げると、彼女は唇をかみ、閉じた目から小さな涙の粒をこぼしていた。	그녀는 입술을 꽉 깨물었다. 질끈 감은 눈에서는 눈물이 또르르 새어 나왔다.	I looked up at her. She was biting down hard on her lip. Her eyes were squeezed shut, a few small teardrops escaping from them.						0	
+58	似乎察觉到我的担忧，她睁开眼睛看着我。	似乎是察覺到了我的擔憂，她睜開雙眼看著我。	私の心配を感じ取ったかのように、彼女は目を開けて私を見つめた。	내가 걱정하는 것을 알아차린 듯, 그녀는 눈을 뜨고 나를 바라보며 말했다.	As if she could sense my worry, she opened her eyes and looked back at me.						0	
+59	我没事……请继续……	我沒事……請繼續……	大丈夫です……続けてください……	괜찮아요… 계속하세요…	I'm okay... Please keep going...						0	
+60	大腿	大腿	ふともも	다리.	Your thigh.						0	
+61	好的，那请稍等一下。	好的，那請稍等一下。	わかりました、ちょっと待ってください。	알았어요, 잠깐만요.	Okay, one second.						0	
+62	茉莉安面朝着我，慢慢地挽起她衣摆下本就不长的打底短裤，一片较大面积的擦伤出现在我面前。	茉莉安面朝我緩緩地拉起被她衣襬遮住的短褲，露出了腿上大面積的擦傷。	マリアンは私の方を向き、インナーショーツの下に隠れていた大きな擦り傷をゆっくりと見せた。	마리안이 내 쪽을 향해 천천히 반바지 레깅스를 걷어 올리자, 넓은 부위의 찰과상이 보였다.	Facing me, Marian slowly rolled up the shorts under her gown. A large abrasion revealed itself before my eyes.						0	
+63	这里还好，不是很深。	這裡還好，不是很嚴重。	ここはあまり深くないみたいですね。	이쪽은 괜찮은 편이에요, 상처가 깊지 않아요.	This one isn't too bad. It's not that deep.						0	
+64	我将沾了药的棉球伸向她腿上的伤，刚接触到她皮肤时，她不自觉地缩起了腿。我立刻停住了动作。	我用棉花棒沾了藥後伸向她大腿上的傷處，才剛碰到她的傷口，她便不自覺地縮起了腿。我立刻停下動作。	薬をつけた脱脂綿を彼女のふとももに近づけ、肌に触れた瞬間、彼女は無意識に脚を引っ込めた。私はすぐに動きを止めた。	약을 묻힌 소독솜을 그녀 다리 위로 가져다 댔다. 그녀의 상처에 닿은 순간, 그녀가 다리를 움찔했다. 난 바로 동작을 멈췄다.	I moved the cotton ball toward her leg after dipping it in the cleansing solution. As it came into contact with her skin, she involuntarily pulled her leg back. I immediately froze.						0	
+65	没有很疼，就是有点痒。	沒有很痛，只是有點癢。	そんなに痛くありません、少しかゆいくらいです……	많이 아픈 건 아닌데, 좀 간지러워요.	It doesn't hurt. It just tickles a little.						0	
+66	这里确实是个很敏感的部位，我不得不放慢了节奏，尽量让茉莉安好受点。	這裡確實是比較敏感的部位，我不得不再更加輕柔且放慢動作，以免讓茉莉安感到不適。	ここは確かにとても敏感なところだ。私はなるべくマリアンが楽になるよう、ペースを落とした。	이쪽이 예민한 부위이긴 해. 불편하지 않도록 최대한 천천히 할게.	The wound was in a sensitive area, so I had to slow down in an effort to make Marian more comfortable.						0	
+67	可以不用这么温柔，我会忍耐的。	可以不用這麼溫柔，我會忍耐的。	そんなに優しくしなくても大丈夫です、私は耐えられます。	그렇게까지 배려하지 않아도 돼요. 참을 수 있어요.	You don't have to be so gentle. I can handle it.						0	
+68	肩膀	肩膀	肩	어깨.	Your shoulder.						0	
+69	唔……嗯……	唔……嗯……	うぅ……んん……	아… 음…	Well... okay...						0	
+70	这里也麻烦分析员了……	這裡也麻煩分析員了……	ここも、分析員さんにお願いしないといけませんね……	여기도 부탁드릴게요, 분석가님…	Thank you, Adjutant...						0	
+71	尽管茉莉安已经害羞得不行，但她仍然强装镇定。	儘管茉莉安已經害羞得不行，但她仍然強裝鎮定。	マリアンは真っ赤になりながらも、平静を装った。	마리안은 이미 부끄러워 어쩔 줄 몰라 하면서도, 애써 침착한 척했다.	Marian was flushed to the ears, but she tried hard to keep her composure.						0	
+72	她缓缓地扯开领口，把单薄的肩膀露了出来，伤口距离锁骨不远。	她慢慢地扯開領口，把單薄的肩膀露了出來，傷口距離鎖骨不遠。	彼女はゆっくりと襟元を引き、華奢な肩をあらわにした。傷は鎖骨のすぐ近くだった。	그녀가 천천히 옷깃을 벌려 가냘픈 어깨를 드러냈고, 상처는 쇄골에서 멀지 않은 곳에 있었다.	She slowly pulled down her collar, exposing her slender shoulder. The wound was right by her collarbone.						0	
+73	药棉一接触到伤口，茉莉安整个人颤抖了一下，她双手攥紧了身下的床单，眼睛紧闭，面颊似乎也更红了。	棉花棒一碰到茉莉安肩上的傷口，她整個人便顫抖了一下。她雙手攥緊身下的床單並緊閉著雙眼，面頰似乎更加紅潤。	薬が傷口に触れると、マリアンは一瞬身体を震わせた。彼女はベッドシーツをきつく握りしめ、目を閉じたまま、頬をますます赤くした。	의료용 솜이 상처에 닿자, 마리안은 온몸을 떨며 두 손으로 침대 시트를 움켜쥐었다. 눈을 질끈 감은 그녀의 뺨도 더 붉어진 듯했다.	Marian trembled as soon as the cotton ball touched her injury, gripping the sheet under her with both hands. Her eyes were shut tight, and her cheeks seemed to get even redder.						0	
+74	我没有余力去猜测她此时的心情，只能重复手上的动作。	我沒有多餘的心力去猜測她是在享受還是在忍痛，只能重複手上擦藥的動作。	彼女の今の気持ちを推し量る余裕はなく、ただ手を動かし続けるしかなかった。	나는 그녀의 심정을 헤아릴 여유도 없이, 그저 반복해서 손을 움직일 수밖에 없었다.	I didn't have the luxury of guessing at how she felt. I could only repeat the same movement.						0	
+74_1	药棉里多余的药水顺着她的皮肤，流过锁骨，直至被衣服遮挡的更深处，冰冷的液体让她又颤抖了一下。	多餘的藥水順著她的肌膚流過鎖骨直至衣物遮擋的更隱密之處，冰涼的液體讓她又輕顫了一下。	脱脂綿からこぼれた薬液が鎖骨から肌を伝って、触れることのできない奥へと消えていく。冷たい感触に、彼女はまた小さく身を震わせた。	솜에 적셔진 약이 쇄골을 타고 옷 속으로 흘러 들어갔고, 마리안은 차가운 액체 때문에 살짝 몸을 떨었다.	The extra cleansing solution in the cotton ball flowed along her skin down her collarbone, then slid under her clothes. The sensation of the cold liquid made her shudder again.						0	
+75	看着如此柔弱的茉莉安，我暂时压下了那些让她保护好自己的话语。	看著如此柔弱的茉莉安，我暫時壓下了那些讓她保護好自己的話語。	あまりに儚げなマリアンを見て、彼女に自分を守れと言う言葉は、喉の奥で飲み込んだ。	이토록 연약한 마리안을 보며, 그녀에게 자신을 잘 지키라고 하려던 나는 말을 삼켰다.	Looking at Marian in such a fragile state, I held back the words urging her to take better care of herself.						0	
+75_1	今天……至少现在不是一个好时机，她这个情况也不是我几句话就能改变的，必要的前提是我在她心里已经有了一定重量，超过以往所有人的重量。	今天……至少現在的時機並不恰當，她這種行為也不是我說幾句話就能改變的。要想讓她聽我的話，就必須要在她的心中占有一定分量，超過以往所有人的分量。	必要なのは「私が彼女の心の中で重みを持つこと」だ。それも、孤独と戦い続けたマリアンにとって、他のすべての人を超える重みを。	적어도 좋은 타이밍이 아니었다. 단 몇 마디로 이 상황을 바꿀 수 있는 것도 아니니까. 그녀에게 내가… 정말 중요한 사람이 아닌 이상.	Today... or rather, now, wasn't the right time. I couldn't change her situation with just a few words. I needed to claim a special place in her heart first — more than anyone else.						0	
+76	结果整个换药过程中，我们都没有再说一句话。	結果在整個換藥的過程中，我們都沒再說過一句話。	その後、包帯を交換する間、私たちは黙ったままだった。	결국 약을 바르는 동안, 우리는 한마디도 하지 않았다.	In the end, we didn't say a word the entire time I was changing her dressings.						0	
+77	待茉莉安睡着后，我走出了医疗室。	等茉莉安睡著後，我走出了醫療室。	マリアンが寝入った後、私は医療室を出た。	마리안이 잠든 후 난 의무실을 나왔다.	After Marian fell asleep, I left the medical bay.						0	
+78	我今天做的事，对茉莉安来说，或许算是对她伤害自己行为的一种“奖励”。接下来可能会更难办吧。	我今天所做的事對茉莉安來說，或許是對她傷害自己的行為的一種「獎勵」，之後應該會變得更難辦吧。	今日私がしたことが、マリアンにとって自傷行為の「ご褒美」になってしまう可能性もある……これまで以上に強く意識して行動しないと……	오늘 일은 마리안에게 있어 자신의 부상에 대한 일종의 '보상'이 되었을지도 모르겠다. 앞으로 더 곤란해질지도 모른다.	Marian might see what I did today as a "reward" for getting hurt. Things might get more difficult later on.						0	

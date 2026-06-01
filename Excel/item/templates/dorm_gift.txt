@@ -1,0 +1,367 @@
+﻿道具大类	道具子类	道具ID	等级	注释	禁用道具	类名	名字key	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	图标	使用方式，0不可使用，1自动，2手动  不填为0	是否可堆叠（1：可堆叠 0：不可堆叠 不填为0）	是否可培养（1：可培养 0：不可培养 不填为0）	附加参数1	附加参数2	附加参数3	分解回收配置，对应recycle.txt中得ID列	GM投放
+Genre	Detail	Particular	Level	Comment	Close	LuaType	I18n	Color	Icon	UseMode	CanStack	CanEnhance	Param1	Param2	Param3	RecycleID	GMnum
+8	1	1	3	简约书柜			dormgift.gift101	4	1810101				101				1
+8	1	2	3	藤原复古街机			dormgift.gift102	5	1810102				102				1
+8	1	3	3	武器展示柜			dormgift.gift103	4	1810103				103				1
+8	1	4	3	音响套装			dormgift.gift104	4	1810104				104				1
+8	1	5	3	宅家神器套装			dormgift.gift105	5	1810105				105				1
+8	1	6	3	刀架			dormgift.gift106	4	1810106				106				1
+8	1	7	3	旧时家庭影院			dormgift.gift107	5	1810107				107				1
+8	1	8	3	游戏海报			dormgift.gift108	3	1810108				108				1
+8	1	9	3	刀剑展览门票集			dormgift.gift109	3	1810109				109				1
+8	1	10	3	「野干」面具			dormgift.gift110	3	1810110				110				1
+8	1	11	3	「大魔王」游戏机			dormgift.gift111	5	1810111				111				1
+8	1	13	3	大安卡-恒约			dormgift.gift121	5	1810121				121				1
+8	1	14	3	小安卡-恒约			dormgift.gift122	5	1810122				122				1
+8	1	12	3	游戏时间！			dormgift.gift120	5	1810120				120				1
+																	
+8	2	1	3	神经修复仓			dormgift.gift201	5	1810201				201				1
+8	2	2	3	嵌入式展示柜			dormgift.gift202	4	1810202				202				1
+8	2	3	3	深层肌膜冲击椅			dormgift.gift203	5	1810203				203				1
+8	2	4	3	兵人棋盘			dormgift.gift204	4	1810204				204				1
+8	2	5	3	飞镖靶			dormgift.gift205	5	1810210				205				1
+8	2	6	3	全向跑步机			dormgift.gift206	4	1810205				206				1
+8	2	7	3	无人机支架			dormgift.gift207	3	1810206				207				1
+8	2	8	3	唱片机			dormgift.gift208	4	1810207				208				1
+8	2	9	3	拟真相册			dormgift.gift209	3	1810208				209				1
+8	2	10	3	唱片			dormgift.gift210	3	1810209				210				1
+8	2	11	3	高级飞镖套装			dormgift.gift213	5	1810211				213				1
+8	2	12	3	亲密相伴			dormgift.gift220	5	1810220				220				1
+8	2	13	3	里芙恒约			dormgift.gift221	5	1810221				221				1
+																	
+8	4	1	3	辅助机整备系统			dormgift.gift401	5	1810401				401				1
+8	4	2	3	多功能工作台			dormgift.gift402	5	1810402				402				1
+8	4	3	3	能量饮品柜			dormgift.gift403	5	1810403				403				1
+8	4	4	3	家用静音跑步机			dormgift.gift404	4	1810404				404				1
+8	4	5	3	鲁比克方块抱枕			dormgift.gift405	4	1810405				405				1
+8	4	6	3	「早起鸟」电子钟			dormgift.gift406	3	1810406				406				1
+8	4	7	3	凹凸条纹地垫			dormgift.gift407	4	1810407				407				1
+8	4	8	3	壁挂式小型书架			dormgift.gift408	3	1810408				408				1
+8	4	9	3	改良型常青绿植			dormgift.gift409	3	1810409				409				1
+8	4	10	3	可调节拆卸壶铃			dormgift.gift410	4	1810410				410				1
+8	4	14	3	专业特训跑步机			dormgift.gift414	5	1810411				414				1
+8	4	12	3	爱心练习？			dormgift.gift420	5	1810420				420				1
+																	
+8	7	1	3	进阶厨具组			dormgift.gift701	5	1810701				701				1
+8	7	2	3	食品储物柜			dormgift.gift702	5	1810702				702				1
+8	7	3	3	双开门智能冰箱			dormgift.gift703	4	1810703				703				1
+8	7	4	3	双椅餐桌			dormgift.gift704	4	1810704				704				1
+8	7	5	3	企鹅手偶			dormgift.gift705	4	1810705				705				1
+8	7	6	3	摇粒绒纯色毯			dormgift.gift706	3	1810706				706				1
+8	7	7	3	居家毛绒组合			dormgift.gift707	5	1810707				707				1
+8	7	8	3	备份门卡			dormgift.gift708	3	1810708				708				1
+8	7	9	3	大头抱枕			dormgift.gift709	4	1810709				709				1
+8	7	10	3	备用通讯装置			dormgift.gift710	3	1810710				710				1
+8	7	11	3	温馨餐桌椅组合			dormgift.gift711	5	1810711				711				1
+																	
+8	8	1	3	藏品展柜			dormgift.gift801	5	1810801				801				1
+8	8	2	3	组合化妆台			dormgift.gift802	4	1810802				802				1
+8	8	3	3	高透玻璃展柜			dormgift.gift803	4	1810803				803				1
+8	8	4	3	设计款茶组			dormgift.gift804	5	1810804				804				1
+8	8	5	3	全息影像屏			dormgift.gift805	4	1810805				805				1
+8	8	6	3	乐器组合			dormgift.gift806	4	1810806				806				1
+8	8	7	3	落地等身镜			dormgift.gift807	5	1810807				807				1
+8	8	8	3	女式帽套装			dormgift.gift808	3	1810808				808				1
+8	8	9	3	明星海报			dormgift.gift809	3	1810809				809				1
+8	8	10	3	作战记录仪			dormgift.gift810	3	1810810				810				1
+8	8	11	3	至臻藏品展柜			dormgift.gift811	5	1810811				811				1
+8	8	12	3	甜蜜揉捏			dormgift.gift820	5	1810820				820				1
+8	8	13	3	芬妮恒约			dormgift.gift821	5	1810821				821				1
+																	
+8	13	1	3	便捷家用摄影棚			dormgift.gift1301	5	1811301				1301				1
+8	13	2	3	生态观赏鱼缸			dormgift.gift1302	5	1811302				1302				1
+8	13	3	3	叠层式盆栽造景			dormgift.gift1303	5	1811303				1303				1
+8	13	4	3	影像留言屏			dormgift.gift1304	4	1811304				1304				1
+8	13	5	3	自印款拼图桌组			dormgift.gift1305	4	1811305				1305				1
+8	13	6	3	自粘式原木拼接板			dormgift.gift1306	4	1811306				1306				1
+8	13	7	3	复古录音笔			dormgift.gift1307	3	1811307				1307				1
+8	13	8	3	拍立得相机相纸套装			dormgift.gift1308	3	1811308				1308				1
+8	13	9	3	记录报告			dormgift.gift1309	3	1811309				1309				1
+8	13	10	3	立体月球虚影灯			dormgift.gift1310	4	1811310				1310				1
+8	13	11	3	高级造景鱼缸			dormgift.gift1314	5	1811311				1314				1
+																	
+8	14	1	3	圆形藏书角			dormgift.gift1401	5	1811401				1401				1
+8	14	2	3	呼吸训练套组			dormgift.gift1402	5	1811402				1402				1
+8	14	3	3	悬浮投影装饰			dormgift.gift1403	4	1811404				1403				1
+8	14	4	3	红木长案			dormgift.gift1404	5	1811406				1404				1
+8	14	5	3	禽鸟戏挂饰			dormgift.gift1405	4	1811409				1405				1
+8	14	6	3	山水造景			dormgift.gift1406	4	1811403				1406				1
+8	14	7	3	真丝摹竹屏风			dormgift.gift1407	4	1811405				1407				1
+8	14	8	3	高透明置物架			dormgift.gift1408	3	1811407				1408				1
+8	14	9	3	燃火熏香炉			dormgift.gift1409	3	1811408				1409				1
+8	14	10	3	绳结顶饰			dormgift.gift1410	3	1811410				1410				1
+8	14	12	3	精装藏书角			dormgift.gift1412	5	1811411				1412				1
+8	14	13	3	辰星恒约			dormgift.gift1421	5	1811421				1421				1
+8	14	14	3	双人膝枕			dormgift.gift1420	5	1811420				1420				1
+																	
+8	5	1	3	时尚茶几			dormgift.gift501	4	1810501				501				1
+8	5	2	3	花艺练习桌组			dormgift.gift502	5	1810503				502				1
+8	5	3	3	科技布艺术沙发			dormgift.gift503	5	1810511				503				1
+8	5	4	3	壁挂式梳妆台			dormgift.gift504	4	1810507				504				1
+8	5	5	3	射击训练吊顶			dormgift.gift505	5	1810505				505				1
+8	5	6	3	自组式展示墙			dormgift.gift506	4	1810502				506				1
+8	5	7	3	电子相框组			dormgift.gift507	4	1810506				507				1
+8	5	8	3	实体门票收藏夹			dormgift.gift508	3	1810508				508				1
+8	5	9	3	手工打制摩卡壶			dormgift.gift509	3	1810509				509				1
+8	5	10	3	电影蓝光碟			dormgift.gift510	3	1810510				510				1
+8	5	11	3	科技布轻奢沙发			dormgift.gift514	5	1810504				514				1
+8	5	12	3	蒙眼辨物			dormgift.gift520	5	1810520				520				1
+8	5	13	3	恒约等身版			dormgift.gift521	5	1810521				521				1
+																	
+8	6	1	3	多功能维护立柱			dormgift.gift601	5	1810601				601				1
+8	6	2	3	花卉培养套装			dormgift.gift602	4	1810602				602				1
+8	6	3	3	机械维护组合			dormgift.gift603	5	1810603				603				1
+8	6	4	3	吊顶式沙袋			dormgift.gift604	4	1810604				604				1
+8	6	5	3	家用自律套组			dormgift.gift605	5	1810605				605				1
+8	6	6	3	奖章展示柜			dormgift.gift606	4	1810606				606				1
+8	6	7	3	座式投影装饰			dormgift.gift607	4	1810607				607				1
+8	6	8	3	腹肌轮			dormgift.gift608	3	1810608				608				1
+8	6	9	3	修护液套装			dormgift.gift609	3	1810609				609				1
+8	6	10	3	合金首饰盒			dormgift.gift610	3	1810610				610				1
+8	6	11	3	家用互助套组			dormgift.gift613	5	1810611				613				1
+8	6	12	3	双人膝枕			dormgift.gift620	5	1810620				620				1
+																	
+8	10	1	3	组合式储物家装			dormgift.gift1001	5	1811001				1001				1
+8	10	2	3	新手养植套装			dormgift.gift1002	4	1811002				1002				1
+8	10	3	3	节能加热被炉			dormgift.gift1003	5	1811003				1003				1
+8	10	4	3	冥想入门套组			dormgift.gift1004	4	1811004				1004				1
+8	10	5	3	带脚凳躺椅			dormgift.gift1005	5	1811005				1005				1
+8	10	6	3	露营氛围套装			dormgift.gift1006	4	1811006				1006				1
+8	10	7	3	可触式显示屏			dormgift.gift1007	3	1811007				1007				1
+8	10	8	3	网格挂饰			dormgift.gift1008	4	1811008				1008				1
+8	10	9	3	打工人造型地毯			dormgift.gift1009	3	1811009				1009				1
+8	10	10	3	风景海报套装			dormgift.gift1010	3	1811010				1010				1
+8	10	11	3	豪华加热被炉			dormgift.gift1012	5	1811011				1012				1
+8	10	12	3	肴恒约			dormgift.gift1021	5	1811021				1021				1
+8	10	13	3	双人膝枕			dormgift.gift1020	5	1811020				1020				1
+																	
+8	12	1	3	多层收纳架			dormgift.gift1201	4	1811201				1201				1
+8	12	2	3	全息扫描分析仪			dormgift.gift1202	5	1811202				1202				1
+8	12	3	3	零区地图投影仪			dormgift.gift1203	5	1811203				1203				1
+8	12	4	3	精美的天秤			dormgift.gift1204	4	1811204				1204				1
+8	12	5	3	帕特拉风格地毯			dormgift.gift1205	5	1811205				1205				1
+8	12	6	3	《开拓者》			dormgift.gift1206	4	1811206				1206				1
+8	12	7	3	帕特拉猫木雕			dormgift.gift1207	4	1811207				1207				1
+8	12	8	3	电子日志			dormgift.gift1208	3	1811208				1208				1
+8	12	9	3	《古拉利卡之谜》			dormgift.gift1209	3	1811209				1209				1
+8	12	10	3	小型投影仪			dormgift.gift1210	3	1811210				1210				1
+8	12	11	3	帕特拉王室地毯			dormgift.gift1214	5	1811211				1214				1
+																	
+8	11	1	3	家用烘焙套组			dormgift.gift1101	5	1811101				1101				1
+8	11	2	3	乐尔牌积木			dormgift.gift1102	4	1811102				1102				1
+8	11	3	3	熊熊玩偶			dormgift.gift1103	4	1811103				1103				1
+8	11	4	3	生态箱			dormgift.gift1104	5	1811104				1104				1
+8	11	5	3	星球云朵灯			dormgift.gift1105	5	1811105				1105				1
+8	11	6	3	大型不倒翁			dormgift.gift1106	4	1811106				1106				1
+8	11	7	3	扫描投影仪			dormgift.gift1107	4	1811107				1107				1
+8	11	8	3	磁吸式防尘架			dormgift.gift1108	3	1811108				1108				1
+8	11	9	3	墨迹测试挂画			dormgift.gift1109	3	1811109				1109				1
+8	11	10	3	《两千夜》			dormgift.gift1110	3	1811110				1110				1
+8	11	11	3	豪华烘焙套组			dormgift.gift1113	5	1811111				1113				1
+8	11	12	3	恩雅膝枕			dormgift.gift1120	5	1811120				1120				1
+																	
+8	17	1	3	万能魔术屋			dormgift.gift1701	5	1811701				1701				1
+8	17	2	3	温馨茶组			dormgift.gift1702	5	1811702				1702				1
+8	17	3	3	手工制作套装			dormgift.gift1703	4	1811703				1703				1
+8	17	4	3	智能隔板			dormgift.gift1704	5	1811704				1704				1
+8	17	5	3	大空间冰箱			dormgift.gift1705	4	1811705				1705				1
+8	17	6	3	磁吸式展板			dormgift.gift1706	4	1811706				1706				1
+8	17	7	3	惊吓盒子			dormgift.gift1707	4	1811707				1707				1
+8	17	8	3	兔子小窝			dormgift.gift1708	3	1811708				1708				1
+8	17	9	3	悬挂式衣帽架			dormgift.gift1709	3	1811709				1709				1
+8	17	10	3	手作道具			dormgift.gift1710	3	1811710				1710				1
+8	17	11	3	精致茶组			dormgift.gift1714	5	1811711				1714				1
+8	17	12	3	苔丝膝枕			dormgift.gift1720	5	1811720				1720				1
+8	17	13	3	苔丝恒约			dormgift.gift1721	5	1811721				1721				1
+																	
+8	15	1	3	贝斯套组			dormgift.gift1501	5	1811501				1501				1
+8	15	2	3	电鼓套组			dormgift.gift1502	5	1811502				1502				1
+8	15	3	3	小型吧台			dormgift.gift1503	4	1811503				1503				1
+8	15	4	3	磁浮冲浪板			dormgift.gift1504	5	1811504				1504				1
+8	15	5	3	飘窗垫			dormgift.gift1505	4	1811505				1505				1
+8	15	6	3	唱片挂饰			dormgift.gift1506	3	1811506				1506				1
+8	15	7	3	家用酒柜			dormgift.gift1507	4	1811507				1507				1
+8	15	8	3	竞速冲浪板			dormgift.gift1508	3	1811508				1508				1
+8	15	9	3	飞行器钥匙			dormgift.gift1509	3	1811509				1509				1
+8	15	10	3	打碟机			dormgift.gift1510	4	1811510				1510				1
+8	15	11	3	智能吧台			dormgift.gift1513	5	1811513				1513				1
+8	15	12	3	独家留影			dormgift.gift1520	5	1811520				1520				1
+8	15	13	3	凯茜娅恒约			dormgift.gift1521	5	1811521				1521				1
+																	
+8	16	1	3	轻便帐篷			dormgift.gift1601	5	1811601				1601				1
+8	16	2	3	教学黑板套组			dormgift.gift1602	4	1811602				1602				1
+8	16	3	3	秋千			dormgift.gift1603	5	1811603				1603				1
+8	16	4	3	武器保险箱			dormgift.gift1604	4	1811604				1604				1
+8	16	5	3	室内攀爬架			dormgift.gift1605	5	1811605				1605				1
+8	16	6	3	布幔吊顶			dormgift.gift1606	3	1811606				1606				1
+8	16	7	3	攀岩墙			dormgift.gift1607	4	1811607				1607				1
+8	16	8	3	野炊三件套			dormgift.gift1608	4	1811608				1608				1
+8	16	9	3	小型暖炉			dormgift.gift1609	3	1811609				1609				1
+8	16	10	3	鹿角模型			dormgift.gift1610	3	1811610				1610				1
+8	16	11	3	智能黑板套组			dormgift.gift1611	5	1811611				1611				1
+																	
+8	3	1	3	复合保险柜			dormgift.gift301	5	1810301				301				1
+8	3	2	3	训练沙袋			dormgift.gift302	5	1810302				302				1
+8	3	3	3	健身辅助机			dormgift.gift303	4	1810303				303				1
+8	3	4	3	蝴蝶机			dormgift.gift304	5	1810304				304				1
+8	3	5	3	股票走势图			dormgift.gift305	4	1810305				305				1
+8	3	6	3	冲孔板			dormgift.gift306	4	1810306				306				1
+8	3	7	3	骰子摆件			dormgift.gift307	4	1810307				307				1
+8	3	8	3	“招财”猫猫			dormgift.gift308	3	1810308				308				1
+8	3	9	3	抑制剂收纳盒			dormgift.gift309	3	1810309				309				1
+8	3	10	3	智能回收桶			dormgift.gift310	3	1810310				310				1
+8	3	11	3	健身器械组合			dormgift.gift313	5	1810311				313				1
+8	3	12	3	超大纯金招财猫			dormgift.gift314	5	1810312				314				1
+8	3	13	3	新妮塔Q版图			dormgift.gift316	5	1810313				316				1
+																	
+8	18	1	3	单人观影区			dormgift.gift1801	5	1811801				1801				1
+8	18	2	3	阅读创作角			dormgift.gift1802	4	1811802				1802				1
+8	18	3	3	香氛浴缸			dormgift.gift1803	5	1811803				1803				1
+8	18	4	3	带镜衣帽架			dormgift.gift1804	4	1811804				1804				1
+8	18	5	3	唱片播放柜			dormgift.gift1805	5	1811805				1805				1
+8	18	6	3	海报挂画			dormgift.gift1806	4	1811806				1806				1
+8	18	7	3	海报贴图			dormgift.gift1807	4	1811807				1807				1
+8	18	8	3	落地灯			dormgift.gift1808	3	1811808				1808				1
+8	18	9	3	复古机械吊扇			dormgift.gift1809	3	1811809				1809				1
+8	18	10	3	造型绿植			dormgift.gift1810	3	1811810				1810				1
+8	18	11	3	双人观影套组			dormgift.gift1811	5	1811811				1811				1
+																	
+8	20	1	3	衣柜区			dormgift.gift2001	4	1812001				2001				1
+8	20	2	3	皮影区			dormgift.gift2002	5	1812002				2002				1
+8	20	3	3	百宝柜			dormgift.gift2003	5	1812003				2003				1
+8	20	4	3	面具区			dormgift.gift2004	4	1812004				2004				1
+8	20	5	3	单人茶几区			dormgift.gift2005	5	1812005				2005				1
+8	20	6	3	香炉			dormgift.gift2006	4	1812006				2006				1
+8	20	7	3	悬吊类家具			dormgift.gift2007	3	1812007				2007				1
+8	20	8	3	墙面装饰1			dormgift.gift2008	4	1812008				2008				1
+8	20	9	3	墙面装饰2			dormgift.gift2009	3	1812009				2009				1
+8	20	10	3	绿植			dormgift.gift2010	3	1812010				2010				1
+8	20	11	3	双人茶几区			dormgift.gift2011	5	1812011				2011				1
+																	
+8	21	1	3	沙发与玩偶			dormgift.gift2101	4	1812101				2101				1
+8	21	2	3	钢琴流体墙			dormgift.gift2102	5	1812102				2102				1
+8	21	3	3	居家训练装置			dormgift.gift2103	4	1812103				2103				1
+8	21	4	3	巨大贴墙鱼缸			dormgift.gift2104	5	1812104				2104				1
+8	21	5	3	全息氛围灯			dormgift.gift2105	5	1812105				2105				1
+8	21	6	3	加湿器			dormgift.gift2106	3	1812106				2106				1
+8	21	7	3	冥河水母灯			dormgift.gift2107	4	1812107				2107				1
+8	21	8	3	鲸鱼骨模型			dormgift.gift2108	4	1812108				2108				1
+8	21	9	3	室内生物萃取香氛装置			dormgift.gift2109	3	1812109				2109				1
+8	21	10	3	标本			dormgift.gift2110	3	1812110				2110				1
+8	21	11	3	双人氛围灯			dormgift.gift2111	5	1812111				2111				1
+																	
+8	22	1	3	茶点桌套组			dormgift.gift2201	5	1812201				2201				1
+8	22	2	3	憩阅美人榻			dormgift.gift2202	5	1812202				2202				1
+8	22	3	3	暖煦壁炉			dormgift.gift2203	5	1812203				2203				1
+8	22	4	3	豪华梳妆套组			dormgift.gift2204	4	1812204				2204				1
+8	22	5	3	雅致伞架			dormgift.gift2205	4	1812205				2205				1
+8	22	6	3	夜幕时钟			dormgift.gift2206	4	1812206				2206				1
+8	22	7	3	电子照片墙			dormgift.gift2207	3	1812207				2207				1
+8	22	8	3	花影台灯			dormgift.gift2208	3	1812208				2208				1
+8	22	9	3	落地式花台			dormgift.gift2209	3	1812209				2209				1
+8	22	10	3	幽氛幔帐			dormgift.gift2210	4	1812210				2210				1
+8	22	11	3	奢享茶点桌套组			dormgift.gift2211	5	1812211				2211				1
+																	
+8	23	1	3	照片墙沙发组			dormgift.gift2301	5	1812301				2301				1
+8	23	2	3	吊椅风铃组			dormgift.gift2302	4	1812302				2302				1
+8	23	3	3	冰箱			dormgift.gift2303	5	1812303				2303				1
+8	23	4	3	水果盘			dormgift.gift2304	4	1812304				2304				1
+8	23	5	3	门口小帘子			dormgift.gift2305	5	1812305				2305				1
+8	23	6	3	毛绒墙面			dormgift.gift2306	3	1812306				2306				1
+8	23	7	3	情侣拖鞋			dormgift.gift2307	3	1812307				2307				1
+8	23	8	3	装饰物件2			dormgift.gift2308	4	1812308				2308				1
+8	23	9	3	装饰物件3			dormgift.gift2309	4	1812309				2309				1
+8	23	10	3	装饰物件4			dormgift.gift2310	3	1812310				2310				1
+8	23	11	3	照片墙区			dormgift.gift2311	5	1812311				2311				1
+																	
+8	24	1	3	入口算账			dormgift.gift2401	4					2401				1
+8	24	2	3	收发信件			dormgift.gift2402	5					2402				1
+8	24	3	3	窗边床榻			dormgift.gift2403	5					2403				1
+8	24	4	3	瓷器墙			dormgift.gift2404	4					2404				1
+8	24	5	3	单人画案			dormgift.gift2405	5					2405				1
+8	24	6	3	双人画案			dormgift.gift2406	5					2406				1
+8	24	7	3	装饰物件1			dormgift.gift2407	3					2407				1
+8	24	8	3	装饰物件2			dormgift.gift2408	4					2408				1
+8	24	9	3	装饰物件3			dormgift.gift2409	3					2409				1
+8	24	10	3	装饰物件4			dormgift.gift2410	3					2410				1
+8	24	11	3	装饰物件5			dormgift.gift2411	4					2411				1
+																	
+8	99	1	3	钓鱼之王雕像			dormgift.gift001	5	1899001				1				1
+8	99	2	3	“灵蹄”全息模型			dormgift.gift002	5	1899002				2				1
+8	99	3	3	幻之假面			dormgift.gift003	5	1899003				3				1
+8	99	4	3	星盘徽章			dormgift.gift004	5	1899004				4				1
+8	99	5	3	悖论之影			dormgift.gift005	5	1899005				5				1
+8	99	6	3	透墨索斯模型			dormgift.gift021	5	1899006				21				1
+8	99	7	3	溯时沙漏			dormgift.gift007	5	1899007				7				1
+8	99	8	3	汉诺幻方			dormgift.gift008	5	1899008				8				1
+8	99	9	3	辅助机			dormgift.gift009	5	1899009				9				1
+8	99	10	3	麻辣火锅营地			dormgift.gift010	5	1899010				10				1
+8	99	14	3	特制胶片盘			dormgift.gift014	5	1899014				14				1
+8	99	15	3	尘白恶魔号模型			dormgift.gift015	5	1899015				15				1
+8	99	16	3	伪石装饰摆件			dormgift.gift016	5	1899016				16				1
+8	99	17	3	轻舟溯忆			dormgift.gift017	5	1899017				17				1
+8	99	20	3	dlc14画卷纪念品			dormgift.gift020	5	1899020				20				1
+8	99	25	3	dlc15玻璃球纪念品			dormgift.gift025	5	1899025				25				1
+8	99	26	3	dlc16鱼缸纪念品			dormgift.gift026	5	1899030				26				1
+8	99	27	3	dlc17法槌纪念品			dormgift.gift027	5	1899031				27				1
+8	99	28	3	dlc3.0大肉鸽纪念品			dormgift.gift028	5	1899032				28				1
+8	99	29	3	dlc3.0版本纪念品			dormgift.gift029	5	1899033				29				1
+8	99	30	3	dlc3.1版本纪念品			dormgift.gift030	5	1899034				30				1
+8	99	31	3	dlc3.2版本纪念品			dormgift.gift031	5	1899035				31				1
+8	99	32	3	dlc3.3版本纪念品			dormgift.gift032	5	1899036				32				1
+8	99	33	3	dlc3.4版本纪念品			dormgift.gift033	5	1899037				33				1
+8	99	34	3	dlc3.4跨年纪念品			dormgift.gift034	5	1899038				34				1
+8	99	35	3	dlc3.5版本纪念品			dormgift.gift035	5	1899039				35				1
+8	99	37	3	dlc3.5全家福纪念品			dormgift.gift037	5	1899040				37				1
+8	99	38	3	dlc3.5创维联动纪念品			dormgift.gift038	5	1899041				38				1
+8	99	39	3	dlc3.5乐事联动纪念品			dormgift.gift039	5	1899042				39				1
+8	99	40	3	dlc3.5线下活动纪念品			dormgift.gift040	5	1899043				40				1
+8	99	41	3	dlc3.6版本纪念品			dormgift.gift041	5	1899044				41				1
+8	99	42	3	dlc3.7版本纪念品			dormgift.gift042	5	1899045				42				1
+8	99	43	3	dlc3.7阿华田联动纪念品			dormgift.gift043	5	1899046				43				1
+8	99	44	3	dlc3.7端午联动纪念品			dormgift.gift044	5	1899047				44				1
+																	
+8	51	1	3	身高体重测量仪			dormgift.gift5101	5	1851001				5101				1
+8	51	2	3	自动贩卖机			dormgift.gift5102	5	1851002				5102				1
+8	51	3	3	全身体检室			dormgift.gift5103	5	1851003				5103				1
+8	51	4	3	按摩仪			dormgift.gift5104	5	1851004				5104				1
+8	51	5	3	dlc14春节舞狮头纪念品			dormgift.gift5105	5	1851005				5105				1
+8	51	6	3	dlc14饼干联动纪念品1			dormgift.gift5106	5	1851006				5106				1
+8	51	7	3	dlc14饼干联动纪念品2			dormgift.gift5107	5	1851007				5107				1
+8	51	8	3	dlc14全家福纪念品			dormgift.gift5108	5	1851008				5108				1
+8	51	9	3	dlc17燕麦奶联动纪念品1			dormgift.gift5109	5	1851009				5109				1
+8	51	10	3	dlc17燕麦奶联动纪念品2			dormgift.gift5110	5	1851010				5110				1
+8	51	11	3	dlc3.0虎邦联动纪念品			dormgift.gift5111	5	1851011				5111				1
+8	51	12	3	dlc3.0健力宝联动纪念品1			dormgift.gift5112	5	1851012				5112				1
+8	51	13	3	dlc3.0健力宝联动纪念品2			dormgift.gift5113	5	1851013				5113				1
+8	51	14	3	dlc3.2格力高联动纪念品1			dormgift.gift5114	5	1851014				5114				1
+8	51	15	3	dlc3.2格力高联动纪念品2			dormgift.gift5115	5	1851015				5115				1
+																	
+8	60	1	3	温泉-桑拿房家具			dormgift.gift6001	5	1860001				6001				1
+8	60	2	3	温泉-茶室家具			dormgift.gift6002	5	1860002				6002				1
+8	60	3	3	温泉-水桶家具			dormgift.gift6003	5	1860003				6003				1
+8	60	4	3	温泉-鱼疗池家具			dormgift.gift6004	5	1860004				6004				1
+8	60	5	3	温泉-三人池家具			dormgift.gift6005	5	1860005				6005				1
+8	60	6	3	温泉-天上的树			dormgift.gift6006	5	1860006				6006				1
+8	60	7	3	温泉-大厅的造景			dormgift.gift6007	5	1860007				6007				1
+																	
+8	70	1	3	小酒馆-卡座区			dormgift.gift7021	5	1870021				7021				1
+8	70	2	3	小酒馆-小舞台区			dormgift.gift7022	5	1870022				7022				1
+8	70	3	3	小酒馆-舞池区			dormgift.gift7023	5	1870023				7023				1
+8	70	4	3	小酒馆-吧台区			dormgift.gift7024	5	1870024				7024				1
+8	70	5	3	小酒馆-纪念展区			dormgift.gift7025	5	1870025				7025				1
+8	70	6	3	小酒馆-射灯			dormgift.gift7026	5	1870026				7026				1
+																	
+8	80	1	3	沙滩-堆沙堡家具			dormgift.gift8001	5	1880001				8001				1
+8	80	2	3	沙滩-香蕉船家具			dormgift.gift8002	5	1880002				8002				1
+8	80	3	3	沙滩-吊床家具			dormgift.gift8003	5	1880003				8003				1
+8	80	4	3	沙滩-敲西瓜家具			dormgift.gift8004	5	1880004				8004				1
+8	80	5	3	沙滩-秋千家具			dormgift.gift8005	5	1880005				8005				1
+8	80	6	3	沙滩-西瓜台家具			dormgift.gift8006	5	1880006				8006				1
+																	
+8	90	1	3	电玩城-滑雪区			dormgift.gift9001	5	1890001				9001				1
+8	90	2	3	电玩城-体感游戏			dormgift.gift9002	5	1890002				9002				1
+8	90	3	3	电玩城-跳舞区			dormgift.gift9003	5	1890003				9003				1
+8	90	4	3	电玩城-射击区			dormgift.gift9004	5	1890004				9004				1
+8	90	5	3	电玩城-老虎机			dormgift.gift9005	5	1890005				9005				1
+8	90	6	3	电玩城-打拳机			dormgift.gift9006	5	1890006				9006				1

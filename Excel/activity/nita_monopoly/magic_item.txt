@@ -1,0 +1,33 @@
+﻿ID	注释	稀有度	名字的多语言Key	描述的多语言Key	备注	描述的格式化参数，如{"abc",128,3.14}	标签，正式配置要填多语言key	标签图标	图标	奇物价格	随机的权重（最小为1，0或不填则没有概率获得）	初始奇物的权重（最小为1，0或不填则没有概率获得）	奇物效果，格式为{{效果1,效果1的参数…},{效果2,效果2的参数…}}，各效果对应的编号参见设计案	可用次数，为0或不填则可以使用无限次	解锁所需的树屋经验,不填默认为0（即直接解锁）	是否为初始奇物
+ID	Comment	Color	I18n	Des		DesFormat	Tag	TagIcon	Icon	Price	RandomWeight	BaseRandomWeight	Effect	AvailableTimes	UnlockTreeEx	IsBase
+1	果核	4	nitamonopoly.NitaMonopoly_magic_1	nitamonopoly.NitaMonopoly_magic_21	增加种植格中出现<span color="#f7be37">水果类植物</>的概率，<span color="#f7be37">水果类植物</>会增加移动收益		nitamonopoly.NitaMonopoly_ui_11	1700209	4801002	800			{{12,1,50}}		0	1
+2	年轮切片	4	nitamonopoly.NitaMonopoly_magic_2	nitamonopoly.NitaMonopoly_magic_22	增加种植格中出现<span color="#f7be37">乔木类植物</>的概率，<span color="#f7be37">乔木类植物</>会增加小金栗格的收益		nitamonopoly.NitaMonopoly_ui_11	1700209	4801003	800			{{12,2,50}}		10000	1
+3	水壶	4	nitamonopoly.NitaMonopoly_magic_3	nitamonopoly.NitaMonopoly_magic_23	增加种植格中出现<span color="#f7be37">蔬菜类植物</>的概率，<span color="#f7be37">蔬菜类植物</>会增加游戏格的收益		nitamonopoly.NitaMonopoly_ui_11	1700209	4801004	800			{{12,3,50}}		20000	1
+4	花瓶	4	nitamonopoly.NitaMonopoly_magic_4	nitamonopoly.NitaMonopoly_magic_24	增加种植格中出现<span color="#f7be37">鲜花类植物</>的概率，<span color="#f7be37">鲜花类植物</>会增加礼物格的收益		nitamonopoly.NitaMonopoly_ui_11	1700209	4801005	800			{{12,4,50}}		40000	1
+5	开壳器	4	nitamonopoly.NitaMonopoly_magic_5	nitamonopoly.NitaMonopoly_magic_25	增加种植格中出现<span color="#f7be37">坚果类植物</>的概率，<span color="#f7be37">坚果类植物</>会增加四叶梦境的收益		nitamonopoly.NitaMonopoly_ui_11	1700209	4801006	800			{{12,5,50}}		60000	1
+6	沙土	4	nitamonopoly.NitaMonopoly_magic_6	nitamonopoly.NitaMonopoly_magic_26	增加种植格中出现<span color="#f7be37">多肉类植物</>的概率，<span color="#f7be37">多肉类植物</>会增加惊喜翻倍的收益		nitamonopoly.NitaMonopoly_ui_11	1700209	4801007	800			{{12,6,50}}		80000	1
+7	肥料	5	nitamonopoly.NitaMonopoly_magic_7	nitamonopoly.NitaMonopoly_magic_27	产出小金栗量提升{1}%	{20}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801008	1000	10	10	{{9,2,100,0.2},{9,8,100,0.2},{9,4,100,0.2},{8,0.2}}		90000	
+8	代金卷	1	nitamonopoly.NitaMonopoly_magic_8	nitamonopoly.NitaMonopoly_magic_28	下次抵达种植格，获得免费种植机会		nitamonopoly.NitaMonopoly_ui_11	1700209	4801009	100	30	80	{{1,1,0}}	1	0	
+9	惊喜房间钥匙	5	nitamonopoly.NitaMonopoly_magic_9	nitamonopoly.NitaMonopoly_magic_29	下次抵达随机格，必定进入四叶梦境		nitamonopoly.NitaMonopoly_ui_11	1700209	4801010	1000	20	10	{{2,7}}	1	50000	
+10	游戏币	5	nitamonopoly.NitaMonopoly_magic_10	nitamonopoly.NitaMonopoly_magic_30	下次抵达游戏格，必定触发惊喜翻倍		nitamonopoly.NitaMonopoly_ui_11	1700209	4801011	800	30	20	{{3,8,100}}	1	30000	
+11	钟表	3	nitamonopoly.NitaMonopoly_magic_11	nitamonopoly.NitaMonopoly_magic_31	下次抵达游戏格，小金栗格、礼物格将连续触发2次		nitamonopoly.NitaMonopoly_ui_11	1700209	4801012	500	30	80	{{4,2},{4,4},{4,8}}	1	0	
+12	奇物打折券	3	nitamonopoly.NitaMonopoly_magic_12	nitamonopoly.NitaMonopoly_magic_32	奇物的价格降低{1}%	{30}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801013	500	30	30	{{5,0.3}}		0	
+13	惊吓盒	5	nitamonopoly.NitaMonopoly_magic_13	nitamonopoly.NitaMonopoly_magic_33	获得后消耗全部的刷新次数根据消耗的刷新次数，获得随机奇物	{2,1,2}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801014	600	30		{{6,2}}	1	110000	
+14	小金栗转盘	5	nitamonopoly.NitaMonopoly_magic_14	nitamonopoly.NitaMonopoly_magic_34	小金栗格有概率触发幸运翻倍		nitamonopoly.NitaMonopoly_ui_11	1700209	4801015	500	30	10	{{3,2}}		100000	
+15	游戏房模型	4	nitamonopoly.NitaMonopoly_magic_15	nitamonopoly.NitaMonopoly_magic_35	下次四叶梦境中的所有事件格变为游戏格		nitamonopoly.NitaMonopoly_ui_11	1700209	4801016	500	30	10	{{7,100}}	1	0	
+16	飞鞋	4	nitamonopoly.NitaMonopoly_magic_16	nitamonopoly.NitaMonopoly_magic_36	每前进一格获得小金栗增加{1}	{20}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801017	300	20	20	{{8,0.2}}		0	
+17	聚宝盆	4	nitamonopoly.NitaMonopoly_magic_17	nitamonopoly.NitaMonopoly_magic_37	小金栗格获得的总收益增加{1}	{20}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801018	300	20	20	{{9,2,100,0.2}}		0	
+18	金手指	4	nitamonopoly.NitaMonopoly_magic_18	nitamonopoly.NitaMonopoly_magic_38	游戏格获得的总收益增加{1}	{20}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801019	300	20	20	{{9,8,100,0.2}}		0	
+19	贵重礼物	4	nitamonopoly.NitaMonopoly_magic_19	nitamonopoly.NitaMonopoly_magic_39	礼物格获得的总收益增加{1}	{20}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801020	300	20	20	{{9,4,100,0.2}}		0	
+20	二重礼物	4	nitamonopoly.NitaMonopoly_magic_20	nitamonopoly.NitaMonopoly_magic_40	下次礼物格获得双倍收益		nitamonopoly.NitaMonopoly_ui_11	1700209	4801021	500	30	30	{{9,4,100,2},{10,100,1}}	1	0	
+21	小年轮切片	1	nitamonopoly.NitaMonopoly_magic_41	nitamonopoly.NitaMonopoly_magic_44	下次抵达随机格，必定触发小金栗格		nitamonopoly.NitaMonopoly_ui_11	1700209	4801003	400	60		{{2,2}}	1	0	
+22	小水壶	3	nitamonopoly.NitaMonopoly_magic_42	nitamonopoly.NitaMonopoly_magic_45	下次抵达随机格，必定触发游戏格		nitamonopoly.NitaMonopoly_ui_11	1700209	4801004	400	60		{{2,8}}	1	0	
+23	小花瓶	2	nitamonopoly.NitaMonopoly_magic_43	nitamonopoly.NitaMonopoly_magic_46	下次抵达随机格，必定触发礼物格		nitamonopoly.NitaMonopoly_ui_11	1700209	4801005	400	60		{{2,4}}	1	0	
+24	肥料	4	nitamonopoly.NitaMonopoly_magic_7	nitamonopoly.NitaMonopoly_magic_27	产出小金栗量提升{1}%	{15}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801008	600	30	5	{{9,2,100,0.15},{9,8,100,0.15},{9,4,100,0.15},{8,0.15}}		70000	
+25	肥料	3	nitamonopoly.NitaMonopoly_magic_7	nitamonopoly.NitaMonopoly_magic_27	产出小金栗量提升{1}%	{10}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801008	500	30	10	{{9,2,100,0.1},{9,8,100,0.1},{9,4,100,0.1},{8,0.1}}		0	
+26	肥料	2	nitamonopoly.NitaMonopoly_magic_7	nitamonopoly.NitaMonopoly_magic_27	产出小金栗量提升{1}%	{5}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801008	400	60	20	{{9,2,100,0.05},{9,8,100,0.05},{9,4,100,0.05},{8,0.05}}		0	
+27	惊吓盒	3	nitamonopoly.NitaMonopoly_magic_13	nitamonopoly.NitaMonopoly_magic_33	获得后消耗全部的刷新次数根据消耗的刷新次数，获得随机奇物	{1,1,1}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801014	500	30		{{6,1}}	1	0	
+28	飞鞋	3	nitamonopoly.NitaMonopoly_magic_16	nitamonopoly.NitaMonopoly_magic_36	每前进一格获得小金栗增加{1}	{10}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801017	300	40	40	{{8,0.1}}		0	
+29	聚宝盆	3	nitamonopoly.NitaMonopoly_magic_17	nitamonopoly.NitaMonopoly_magic_37	小金栗格获得的总收益增加{1}	{10}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801018	300	40	40	{{9,2,100,0.1}}		0	
+30	金手指	3	nitamonopoly.NitaMonopoly_magic_18	nitamonopoly.NitaMonopoly_magic_38	游戏格获得的总收益增加{1}	{10}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801019	300	40	40	{{9,8,100,0.1}}		0	
+31	贵重礼物	3	nitamonopoly.NitaMonopoly_magic_19	nitamonopoly.NitaMonopoly_magic_39	礼物格获得的总收益增加{1}	{10}	nitamonopoly.NitaMonopoly_ui_11	1700209	4801020	300	40	40	{{9,4,100,0.1}}		0	

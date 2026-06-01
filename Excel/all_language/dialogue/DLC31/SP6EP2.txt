@@ -1,0 +1,208 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	在矜持与热情之中，总算偷得一段余暇。	在矜持與熱情之中，總算偷得一段餘暇。	気品と熱情の狭間で、私はようやくひとときの余暇を得た。	절제와 친절이 오가던 끝에, 나는 겨우 조금의 여유를 가질 수 있었다.	Somewhere between ceremony and warmth, I finally managed to steal a quiet moment for myself.						0	3.1主线剧情
+2	走廊的尽头是一道阳台，阳台下面又是一片露台，上面种着些花草。	走廊的盡頭是一道陽台，陽台下面又是一片露台，上面種著一些花草。	廊下の突き当たりにあるバルコニーの下にはテラスがあり、草花が植えられていた。	복도 끝에는 발코니가 있었고, 그 아래에는 화초가 심어진 테라스가 하나 더 있었다.	The hallway opened onto a balcony, overlooking a garden terrace in full bloom.						0	3.1主线剧情
+3	在花与月亮之间，一个人影立在露台的边缘。	在花與月亮之間，一個人影立在露台的邊緣。	花と月の間に、ひとりの人影が縁に立っていた。	꽃과 달 사이에서, 한 사람이 테라스 가장자리에 서 있었다.	Amid the moonlit blossoms, a lone figure stood at the edge of the terrace.						0	3.1主线剧情
+4	……克罗瑞娜？	……克羅瑞娜？	……クラウリナ？	… 클라리나?	...Clarina?						0	3.1主线剧情
+5	人影晃了晃，转过身来。	人影晃了晃，轉過身來。	人影が少し揺れると、私のほうに振り返った。	그림자가 흔들리더니, 그녀가 몸을 돌렸다.	The figure stirred, then turned to face me.						0	3.1主线剧情
+6	……分析员先生。	……分析員先生。	分析員殿。	… 분석가님.	...Mr. Adjutant.						0	3.1主线剧情
+7	里面有点闷，所以想出来透透气。	裡面有點悶，所以想出來透透氣。	中にいると少し暑苦しいから、外の空気が吸いたくて。	안이 좀 답답해서 밖에 나와 바람 좀 쐬려고.	It was getting a little stuffy inside — thought I'd step out for some air.						0	3.1主线剧情
+8	怎么，你也一样？	怎麼，你也一樣？	君もかい？	왜, 너도 그래?	Are you here for the same reason?						0	3.1主线剧情
+9	……长辈们的兴趣广泛，我涉猎不多，留着反而让大家不自在。	……長輩們的興趣廣泛，我涉獵不多，留著反而讓大家不自在。	それは……皆様お話の上手い方々ばかりで、わたくしが居座っていても、場がしらけるだけなので。	… 어른들은 관심사가 다양한데 제가 아는 건 많지 않아서, 자리를 비우는 게 모두에게 편할 것 같았어요.	Aunt Myra's friends have... rather eclectic tastes. I don't know enough to join in without making things awkward. So I slipped out.						0	3.1主线剧情
+10	嗯……是。太热闹了。	嗯……是。太熱鬧了。	まあ、確かに盛り上がってるな。	음… 그래. 너무 시끄럽더라.	Yeah... it was getting a bit too lively in there.						0	3.1主线剧情
+11	这里风景真好。	這裡風景真好。	それにしても、中々いい景色だ。	여긴 경치가 참 좋네.	The view's lovely from up here.						0	3.1主线剧情
+12	您喜欢就好，小姨公务繁忙，有什么需要请随时跟我讲。	您喜歡就好，小姨公務繁忙，有什麼需要請隨時跟我講。	お気に召してくださって何よりです。……叔母さんが多忙な身なので、何かご要望がございましたら、どうぞ、わたくしになんなりと。	마음에 드셨다니 다행이에요. 이모는 공무로 바쁘시니, 필요한 게 있으시면 언제든 저에게 말씀해 주세요.	I'm glad you like it. Aunt Myra keeps a busy schedule — if there's anything you need, I'd be happy to assist.						0	3.1主线剧情
+13	不用那么麻烦，我本来就是个随便的人。	不用那麼麻煩，我本來就是個隨便的人。	気を使わなくていいよ。そういうことにはこだわらない人間だから。	그럴 필요 없어. 난 까다로운 편이 아니거든.	You can relax with the formal stuff — I'm pretty easygoing.						0	3.1主线剧情
+14	客人的风度可不是招待不周的理由。	客人的風度可不是招待不周的理由。	客人の寛大さは、おもてなしが粗末になっていい理由にはなりません。	손님에 대한 예의를 소홀히 할 수는 없죠.	A guest's graciousness is no excuse for poor hospitality.						0	3.1主线剧情
+15	您想下来看看吗？	您想下來看看嗎？	こちらに、降りてみませんこと？	내려와서 둘러보실래요?	Would you care to join me in the garden?						0	3.1主线剧情
+16	行啊。嗯……我想说的是，要怎么下去？	好啊。嗯……我想說的是，要怎麼下去？	いいけど……ここからどう降りるんだ？	그래. 음… 그보다, 어떻게 내려가지?	Sure. Uh... how exactly do I get down there?						0	3.1主线剧情
+17	栏杆齐腰。也不知道她是怎么下去的。	欄杆齊腰。也不知道她怎麼下去的。	ここの手すりの高さは腰くらいある。彼女は一体どうやって降りたんだろう？	난간이 허리 높이였다. 그녀가 어떻게 내려갔는지 알 수 없었다.	The railing came up to my waist. I had no idea how she'd made it down.						0	3.1主线剧情
+18	请站到那上边。	請站到那上面。	そちらに立ってくださいませ。	저기 위에 서 주세요.	Please step up there.						0	3.1主线剧情
+19	她走到墙边，指着栏杆外一处藤蔓结成的网。	她走到牆邊，指著欄杆外一處藤蔓結成的網。	彼女は壁際に歩み寄り、手すりの外にあるツタでできた網を指さした。	그녀는 벽 쪽으로 걸어가 난간 밖의 덩굴로 엮인 그물을 가리켰다.	She stepped closer and gestured toward a net of tangled vines just beyond the railing.						0	3.1主线剧情
+20	放心，不会有危险的。	放心，不會有危險的。	大丈夫です、安全ですから。	걱정 마세요. 위험하지 않아요.	Don't worry. It's completely safe.						0	3.1主线剧情
+21	我这才发现，栏杆靠墙的部分有几阶台阶。顺着台阶走到栏杆边的藤蔓网上——藤蔓粗壮有力，我站得很稳当。	我才發現，欄杆靠牆的部分有幾階台階。順著台階走到欄杆邊的藤蔓網上——藤蔓粗壯有力，我站得很穩當。	手すりの壁際の部分に階段があることに気づいた。階段を降りてツタの網に上がると——太いツタが身体をしっかりと支えてくれた。	나는 그제야 발견했다. 벽 쪽 난간에 계단이 몇 개 있었고, 계단을 따라 난간 옆 덩굴 그물 위로 올라가니, 덩굴이 굵고 튼튼해서 안정적으로 설 수 있었다.	Only then did I notice a few steps set into the wall beside the railing. I took the stairs to the mesh — just as she said, it held my weight with no trouble.						0	3.1主线剧情
+22	她拿出一支手电筒，在藤蔓上扫着。被扫过的藤蔓慢慢放软，我便落在了克罗瑞娜所处的露台。	她拿出一支手電筒，在藤蔓上掃著。被掃過的藤蔓慢慢放軟，我便落在了克羅瑞娜所處的露台。	彼女は懐中電灯を取り出し、ツタの上を照らした。光が当たったツタが徐々に柔らかくなり、私をクラウリナのいるテラスに下ろしてくれた。	그녀가 손전등을 꺼내 덩굴 위를 비췄고 비친 덩굴이 서서히 나른해지면서 나는 클라리나가 있는 테라스에 내려졌다.	Clarina swept a flashlight over the vines. Wherever the beam touched, the strands loosened, gently lowering me to the terrace below.						0	3.1主线剧情
+23	真神奇……某种光合作用？	真神奇……某種光合作用？	すごい……光合成か何かか？	정말 신기하네… 일종의 광합성 작용인가?	That's amazing... some kind of photosynthetic response?						0	3.1主线剧情
+24	基因编辑的结果，一种遗传学的应用。	基因編輯的結果，一種遺傳學的應用。	ゲノム編集という、遺伝学にもとづいた技術ですの。	유전자 편집의 결과예요. 유전학을 응용한 거죠.	Genetic editing. It's a biotech application.						0	3.1主线剧情
+25	从实验风险来看，植物比动物更可控，也有足够的发掘空间。	從實驗風險來看，植物比動物更可控，也有足夠的發掘空間。	実験のリスクからすると、動物よりも植物のほうが取り扱いやすくて、開発しがいがありますわ。	실험의 위험도로 봤을 때, 식물이 동물보다 더 통제하기 쉽고 발전 가능성도 충분해요.	Plants are easier to manage in experiments than animals — safer, with broader potential.						0	3.1主线剧情
+26	那白天怎么办？不都落在地上了吗？	那白天怎麼辦？不是都落在地上了嗎？	昼間はどうするんだ？全部地面に落ちてしまうんじゃないか？	그럼 낮에는 어떻게 해? 다 바닥으로 떨어지지 않아?	But what about daytime? Wouldn't the vines just lie on the ground?						0	3.1主线剧情
+27	白天……	白天……	昼間は……	낮에는…	During the day...						0	3.1主线剧情
+28	她看向墙边，那里有一排台阶，从露台直通刚刚看到的栏杆——只是被藤蔓盖住了。	她看向牆邊，那裡有一排台階，從露台直通剛才看到的欄杆——只是被藤蔓蓋住了。	彼女は壁際を見た。そこには、テラスから先ほど見えた手すりへ直通する階段が一列あった――今はツタに覆われているが。	그녀가 벽 쪽을 바라봤다. 아까 테라스에서 봤던 난간까지 이어지는 계단이 있었는데, 덩굴에 가려져 있었다.	She glanced toward the wall — a staircase ran from the terrace up to the balcony. I hadn't noticed it before — the vines had hidden it completely.						0	3.1主线剧情
+29	……	……	……	……	...						0	3.1主线剧情
+30	所以藤蔓的作用是……？	所以藤蔓的作用是……？	じゃあ、このツタはいったい……？	그래서, 덩굴의 용도는…?	...So why the vines, if there's already a stairway?						0	3.1主线剧情
+31	晚上黑，台阶容易踩空。	晚上黑，台階容易踩空。	夜は暗くて、踏み外しやすいでしょうからと……	밤에는 어두워서 계단을 헛디딜 수도 있어요.	It's dark at night. You might trip on the steps.						0	3.1主线剧情
+32	你不是有手电筒吗？	你不是有手電筒嗎？	懐中電灯を持っているのに？	손전등이 있지 않아?	Don't you have a flashlight?						0	3.1主线剧情
+33	……	……	……	……	...						0	3.1主线剧情
+34	少女尴尬地抬起头看着月亮。	少女尷尬地抬起頭看著月亮。	少女は気まずそうに月を見上げた。	소녀가 난처한 듯 고개를 들어 달을 바라봤다.	She looked up at the moon, visibly awkward.						0	3.1主线剧情
+35	哎，是我唐突了。手电筒可没有月光浪漫。	哎，是我唐突了。手電筒沒有月光浪漫。	ああ、気にしないでくれ。懐中電灯なんかより、月の光のほうがロマンチックだしな。	아, 내가 경솔했네. 손전등은 달빛만큼 로맨틱하지 않지.	Right. Flashlights don't make for good moonlight.						0	3.1主线剧情
+36	好的设计当然是要兼顾实用性和审美的。	好的設計當然是要兼顧實用性和美觀的。	真にいいデザインとは、実用性と美学を両立しているべきだ。	좋은 디자인이란, 실용성과 심미성을 모두 갖춰야 하는 법이니까.	Good design should balance function and aesthetics.						0	3.1主线剧情
+37	您也懂设计吗？	您也懂設計嗎？	分析員殿も、デザインの心得がございますの？	분석가님도 디자인에 대해 아세요?	You know design too?						0	3.1主线剧情
+38	谈不上。但身边有一些很有格调的人，耳濡目染吧。	談不上。但身邊有一些很有格調的人，耳濡目染吧。	そういうわけじゃないが、周りにセンスのいい人がたくさんいるから、影響を受けたのかもしれない。	잘 안다고 할 순 없지만, 주변에 안목 있는 사람들이 있어서 자연스레 배웠달까.	Not exactly. Just know people with good taste. Picked up a thing or two.						0	3.1主线剧情
+39	您请坐这儿。	您請坐這。	どうぞおかけになって。	여기 앉으세요.	Please, have a seat.						0	3.1主线剧情
+40	露台的边缘垫着坐垫，还放着一个匣子。	露台的邊緣墊著坐墊，還放著一個盒子。	テラスの縁にはクッションが敷かれており、その横に箱がひとつ置かれていた。	테라스 가장자리에는 방석이 깔려있고, 작은 궤짝도 놓여있었다.	The seats were simply cushions arranged along the terrace edge. A small case sat nearby.						0	3.1主线剧情
+41	我在一个坐垫上盘腿坐下。她打开匣子，最上面摆着一只茶壶，壶嘴儿还冒着雾气。	我在一個坐墊上盤腿坐下。她打開盒子，最上面擺著一個茶壺，壺嘴還冒著霧氣。	私がクッションの上にあぐらをかき、彼女が箱を開けると、中には湯気が立ち上る急須が入っていた。	나는 방석 위에 양반다리로 앉았다. 그녀가 궤짝을 열자 맨 위에는 찻주전자가 있었고, 주전자 입구에서는 김이 모락모락 피어올랐다.	I sat cross-legged on one. She opened the case — a teapot sat on top, its spout still steaming.						0	3.1主线剧情
+42	下面的抽屉里则放着几碟点心，她一一取出，在我们之间摆好。	下面的抽屜裡則放著幾碟點心，她一一取出，放在我們之間擺好。	下の引き出しには数種類の菓子が盛られており、彼女はそれを取り出して、私たちの前に並べた。	아래 칸에는 다과가 몇 접시 있었고, 그녀는 하나씩 꺼내 우리 사이에 예쁘게 놓았다.	The drawers below held several plates of snacks, which she laid out between us.						0	3.1主线剧情
+43	两盏小巧的瓷杯，蒙着彩釉。她拈起茶壶，琥珀色的茶汤注进瓷杯里，香气在晚风中格外清晰。	兩盞小巧的瓷杯，蒙著彩釉。她拈起茶壺，琥珀色的茶湯注進瓷杯裡，香氣在晚風中格外清晰。	二つの小さな磁器の茶碗には、彩釉が施されている。彼女は急須をつまみ、琥珀色の茶を茶碗に注ぐと、その香りが夜風の中に広がった。	작고 예쁜 도자기 찻잔에는 알록달록한 유약이 발려있었다. 그녀가 찻주전자를 들어 호박색 차를 도자기 찻잔에 따르자, 저녁 바람 속에 차향이 유난히 선명하게 퍼졌다.	There were also two small glazed porcelain cups. She poured the tea — its amber hue releasing a delicate fragrance into the night breeze.						0	3.1主线剧情
+44	请用。	請用。	粗茶ですが。	드세요.	Please, be my guest.						0	3.1主线剧情
+45	谢谢。	謝謝。	ありがとう。	고마워.	Thank you.						0	3.1主线剧情
+46	夜空如洗，茶香如瀑。	夜空如洗，茶香如瀑。	洗われたような夜空に、滝のような茶の香り。	씻은 듯 맑은 밤하늘, 폭포수처럼 쏟아지는 차 향기.	Beneath the clear night sky, the air was steeped in the fragrance of tea.						0	3.1主线剧情
+47	一旁的克罗瑞娜小口品着茶，一样仰望着夜空。	一旁的克羅瑞娜小口品著茶，一樣仰望著夜空。	横に座るクラウリナはお茶をすすり、同じように夜空を見上げていた。	클라리나도 옆에서 차를 홀짝 마시며, 같이 밤하늘을 올려다보았다.	Clarina sipped delicately, her eyes fixed on the stars.						0	3.1主线剧情
+48	嗯……	嗯……	ふぅ……	음…	Mm...						0	3.1主线剧情
+49	真好啊。	真好啊。	いいなぁ。	정말 좋다.	How nice.						0	3.1主线剧情
+50	偏头看她——她沉默地注视着星空。察觉到我的视线后，又拾起了微笑的样子，帮我倒上茶。	偏頭看她——她沉默地注視著星空。察覺到我的視線後，又拾起了微笑的表情，幫我倒上茶。	視線を向けると——彼女は黙ったまま星空を見つめていた。私の視線に気付くと、彼女は再び微笑みを浮かべ、お茶を注ぎ足してくれた。	고개를 돌려 그녀를 보니, 그녀는 말없이 별하늘을 바라보고 있었다. 내 시선을 느끼자, 다시 미소를 지으며 내게 차를 따라주었다.	I turned to look at her — she was quietly gazing at the stars. Noticing my gaze, she slipped into her usual smile and gently refilled my cup.						0	3.1主线剧情
+51	还是不打扰你了。	還是不打擾你了。	やっぱり、そろそろ失礼するよ。	이제 방해하지 않을게.	I shouldn't be here.						0	3.1主线剧情
+52	诶？	欸？	……え？	네?	Huh?						0	3.1主线剧情
+53	这里应该算是那种“秘密基地”吧？	這裡應該算是那種「秘密基地」吧？	ここは君の、「秘密基地」的な場所なんだろ？	여기가 너에겐 '비밀 기지' 같은 곳이잖아?	This is your secret hideout, isn't it?						0	3.1主线剧情
+54	长辈管不到，别人也不知道。没有人会打扰的、安全又神秘的小空间。	長輩管不到，別人也不知道。沒有人會打擾的、安全又神秘的小空間。	みんなに束縛されず、他人にも知られていない場所。誰にも邪魔されない、安全で不思議な空間。	어른들의 간섭도 없고, 아무도 모르는 곳. 방해꾼 없는 안전하고 신비로운 작은 공간.	No grown-ups. No pressure. Quiet. Safe. Your own little secret garden. I shouldn't intrude.						0	3.1主线剧情
+55	哪里的话……	哪裡的話……	いえ、そんな大層な場所では……	그런 말씀을…	Please don't say that... You're not intruding at all.						0	3.1主线剧情
+56	她有点难以应对我的直白。	她有點難以應對我的直白。	私の見透かしたような物言いに、彼女は少し戸惑った。	그녀는 내 직설적인 말에 약간 당황한 듯했다.	She seemed slightly caught off guard by my candor.						0	3.1主线剧情
+57	我就先回去了。今晚多谢款待。	我就先回去了。今晚多謝款待。	じゃあ、私はこの辺で。ごちそうさま。	먼저 돌아갈게. 대접해 줘서 고마워.	I should go back to the table. Thanks for the tea.						0	3.1主线剧情
+58	您……可以再陪我一会儿吗？	您……可以再陪我一下嗎？	その……もうしばらく、お付き合いいただけて？	저… 조금만 더 같이 있어주시면 안 될까요?	Would you please... stay a little longer?						0	3.1主线剧情
+59	那你可不能再用敬语了。	那你不能再用敬語了。	その話し方をやめてくれたら考える。	그럼 더 이상 존댓말은 쓰지 마.	Only if you drop the formality.						0	3.1主线剧情
+60	嗯……仅限小姨不在的时候？	嗯……僅限小姨不在的時候？	え、ええ……叔母さんがいない場合なら……	음… 이모가 없을 때만요.	I suppose I can... but only when Aunt Myra isn't around.						0	3.1主线剧情
+61	一言为定。	一言為定。	約束だ。	약속해 줘.	Deal.						0	3.1主线剧情
+62	她终于露出了不一样的微笑——情绪的自然流露，而不是训练有素的礼节。	她終於露出了不一樣的微笑——情緒的自然流露，而不是訓練有素的禮節。	彼女はついに本心の微笑を見せてくれた——訓練された礼儀ではなく、自然な感情の表れだった。	그녀가 마침내 다른 미소를 지었다. 훈련된 예의가 아닌, 자연스러운 감정의 표현이었다.	She smiled — at last, a real one. Unrehearsed. Unposed.						0	3.1主线剧情
+63	您……你，不太像小姨的朋友。	您……你，不太像小姨的朋友。	何やら、貴方様――貴方は、叔母さんの友人達と、違うような気がするわね。	당신은… 너는, 이모 친구 같지가 않아.	You're... not like Aunt Myra's usual friends.						0	3.1主线剧情
+64	确实很少接触这个圈子，但也有过这样的朋友。	確實很少接觸這個圈子，但也有過這樣的朋友。	確かにこういった場によく顔を出すわけじゃないが、似たような友人もいたよ。	확실히 이런 사교계와는 거리가 멀지만, 비슷한 느낌의 친구도 있었긴 해.	I'm not from her circle. But I had friends who were.						0	3.1主线剧情
+65	有的人如鱼得水，有的人如履薄冰。	有的人如魚得水，有的人如履薄冰。	水を得た魚のような人もいれば、薄氷を踏むような人もいるんでね。	물 만난 물고기처럼 자연스러운 사람이 있는가 하면, 얼음 위를 걷는 듯 조심스러운 사람도 있었지.	Some thrived in it. Others just tiptoed around.						0	3.1主线剧情
+66	有过？……是因为圈子不同，渐渐疏远了吗？	有過？……是因為圈子不同，漸漸疏遠了嗎？	『いた』というのは……？身分の違いで、疎遠になられた、とか？	있었다고?… 서로 다른 환경 때문에 점점 멀어진 거야?	Had? Did you drift apart because of your differences?						0	3.1主线剧情
+67	她死在耶洛沙了。	她死在耶洛沙了。	彼女は、イェロシャで命を落とした。	옐로샤에서 죽었어.	She died. In Yehrus.						0	3.1主线剧情
+68	啊……抱歉。	啊……抱歉。	っ……それは、ご愁傷様で。	아… 미안해.	Oh... I'm sorry.						0	3.1主线剧情
+69	所以还挺亲切的。虽然对这种氛围并不感冒，但因为这个想起她了。	所以還蠻親切的。雖然對這種氛圍並不感冒，但因為這個想起她了。	だから親近感が湧くんだ。こういう場が好きなわけじゃないけど、彼女のことを思い出したよ。	그래서 꽤 친근하게 느껴져. 이런 분위기는 좋아하지 않지만, 이것 때문에 그녀가 생각났어.	Maybe that's why this all feels familiar. I don't really belong in high society — but it reminds me of her.						0	3.1主线剧情
+70	别人把她当领袖，当旗帜，当英雄。谁知道呢，那个位置上的人不能有自己的想法。	別人把她當領袖、當旗幟、當英雄。誰知道呢，那個位置上的人不能有自己的想法。	人々は彼女を首領として、旗印として、英雄として見ていた。でもあの地位にいる人は、自分の考えを持ってはいけないんだ。	다른 사람들은 그녀를 지도자로, 상징으로, 영웅으로 여겼지. 누가 알았겠어, 그 자리에 있는 사람은 자신만의 생각을 가질 수 없다는 걸.	Everyone saw her as a leader. A symbol. A hero. People like that... rarely get to be themselves.						0	3.1主线剧情
+71	……奥尔洛娃女公爵。我听过她的故事。	……奧爾洛娃女公爵。我聽過她的故事。	……オルロヴァ女公爵のことなら、聞いたことがあるわ。	… 오를로바 여공작. 그분 이야기는 들은 적이 있어.	Duchess Orlova. I've read about her.						0	3.1主线剧情
+72	对她来说，死亡也许是种解脱吧。	對她來說，死亡也許是種解脫吧。	あのお方にとって、この世を去るのもある意味、救いなのかもしれないわね。	그녀에게 죽음은, 어쩌면 해방이었을지도 모르지.	Perhaps... death was her only freedom.						0	3.1主线剧情
+73	但无论如何不能放弃。不是吗？	但無論如何都不能放棄。不是嗎？	でも、絶対に諦められない。そうだろう？	그래도 포기하면 안 되지. 그렇지?	Even so — that's no reason to stop fighting. Right?						0	3.1主线剧情
+74	她怔了怔，看着我颇有意味的眼神，突然笑了出来。	她愣了一下，看著我意味深長的眼神，突然笑了出來。	彼女は一瞬戸惑い、私の意味ありげな視線を見て、ふと笑い出した。	그녀는 잠시 멈칫했다가, 내 의미심장한 눈빛을 보더니 갑자기 웃음을 터뜨렸다.	She paused, gave me a long, knowing look — then let out a soft laugh.						0	3.1主线剧情
+75	原来你是小姨请来的说客。	原來你是小姨請來的說客。	やはり貴方も、叔母さんに頼まれて説得しにきた人なのね。	이모가 데려온 설득자가 바로 너구나.	I see. Aunt Myra brought you here to talk me into it.						0	3.1主线剧情
+76	那可不是。治好你的病是我们的任务。我只是尽职尽责而已。	那不是。治好你的病是我們的任務。我只是盡職盡責而已。	そんなことはない。君の病気を治すのが我々の任務だ。ただ職務を果たしてるだけさ。	그건 아니야. 네 병을 치료하는 게 우리의 임무니까. 난 그저 내 책임을 다하는 것뿐이야.	Not quite. We've been entrusted with your care — I'm just doing my part.						0	3.1主线剧情
+77	谢谢你，我不会放弃的。	謝謝你，我不會放棄的。	それは、どうも……わたくしも別に、諦めるつもりはないわ。	고마워. 난 포기하지 않을 거야.	Thank you. I won't give up.						0	3.1主线剧情
+78	但……世界上确实有很多没办法的事。	但……世界上的確有很多沒辦法的事。	でも世の中には、わかっているけれど、どうにもならないことが、沢山あるわけだから。	하지만… 세상엔 정말 어쩔 수 없는 일이 많아.	But... some things are simply beyond our control.						0	3.1主线剧情
+79	如果确实……我的意思是，尽力了，也没能做到的话——	如果確實……我的意思是，盡力了，也沒有做到的話——	もし手を尽くして……やはり無理だとわかったのなら……	만약 정말로… 내 말은, 최선을 다했는데도 해내지 못한다면…	If you do everything you can, and still can't cure me...						0	3.1主线剧情
+80	不用自责。人各有命。	不用自責。人各有命。	その時はお気になさらないで。きっと、そういう運命なのだから。	자책하지 마. 사람마다 운명이 다른 법이야.	Don't blame yourself. Some things... are just meant to be.						0	3.1主线剧情
+81	唉，我算是理解米拉女士了。	唉，我算是理解米拉女士了。	はあ、ミラさんの気持ちがわかった気がする。	휴, 이제 밀라 여사님이 좀 이해될 것 같아.	*sigh* ...So that's what Ms. Myra meant.						0	3.1主线剧情
+82	噗……	噗……	ぷっ……	풉…	Haha...						0	3.1主线剧情
+83	小姨跟你说我坏话啦？	小姨跟你說我壞話啦？	叔母さんに、なにか吹き込まれたのかしら？	이모가 내 험담했어?	My aunt's been talking behind my back, hasn't she?						0	3.1主线剧情
+84	我可不觉得算坏话——她只是把你这种的态度复述了一遍而已。	我不覺得這算壞話——她只是把你這種態度重複了一遍而已。	いや、君の考えを聞いただけさ。	험담까진 아닌데… 그냥 네가 그런 태도를 보인다고 전했을 뿐이야.	I wouldn't say that. She just described... this calm acceptance you carry.						0	3.1主线剧情
+85	好啦，我明白的。	好啦，我明白的。	やはり、そうなのよね。	그래, 나도 알아.	Alright. Point taken.						0	3.1主线剧情
+86	她俯下身，去闻身边的花。花香飘到眉间，连带着嘴角也弯了起来。	她俯下身，去聞身邊的花。花香飄到眉間，連帶嘴角也跟著彎了起來。	彼女は身をかがめ、横の花の香りを嗅いだ。香りが眉間に漂うと、彼女の口元もゆるんだ。	그녀는 몸을 숙여 옆에 있는 꽃향기를 맡았다. 눈썹 사이로 꽃향기가 풍기자, 입가에도 미소가 번졌다.	She leaned in toward the flowers by her hand. Their scent brushed her brow, coaxing out a soft smile.						0	3.1主线剧情
+87	我会努力活下去的，哪怕是为了花香和月光。	我會努力活下去的，哪怕是為了花香和月光。	わたくし、がんばって生きていくわ。花の香りや、月の光のためにも。	꽃향기와 달빛을 위해서라도 열심히 살아갈 거야.	I'll keep trying — if only for the fragrance of flowers, and the moonlight's quiet beauty.						0	3.1主线剧情
+88	你喜欢音乐吗？我来吹首曲子吧。	你喜歡音樂嗎？我來吹首曲子吧。	音楽はお好きかしら？何か吹いてあげましょうか。	음악 좋아해? 내가 곡 하나 연주해 줄까?	Do you enjoy music? I could play something, if you'd like.						0	3.1主线剧情
+89	当然。再好不过了。	當然。再好不過了。	最高じゃないか。聞こう。	물론이지. 그거 좋네.	Of course. I'd love to hear it.						0	3.1主线剧情
+90	那……献丑了。	那……獻醜了。	では、拙いですが……	그럼… 부끄럽지만 들려줄게.	Then... please bear with me.						0	3.1主线剧情
+91	她从怀里取出一支口琴。闭上眼，吹了起来。	她從懷裡拿出一支口琴。閉上眼，吹了起來。	彼女は懐からハーモニカを取り出し、目を閉じたまま吹き始めた。	그녀는 품에서 하모니카를 꺼냈고, 눈을 감은 채 불기 시작했다.	She took out a harmonica from her pocket, closed her eyes, and began to play.						0	3.1主线剧情
+92	这是一首慢而悠远的曲子。捧着口琴的手遮住了嘴，口琴低沉如诉的音色和着遥遥的旋律，我也一同闭上了眼睛。	這是一首慢而悠遠的曲子。捧著口琴的手遮住了嘴，口琴低沉如訴的音色和著遙遠的旋律，我也一起閉上了眼睛。	それはゆっくりとした、悠遠な曲だった。ハーモニカを持つ手で口を覆い、低く語りかけるような音色が悠遠なメロディーと重なり、私も思わず目を閉じた。	느리고 아득한 곡이었다. 하모니카를 든 손이 입을 가렸고, 그 깊이 있는 음색과 아득한 선율에 맞춰 나도 눈을 감았다.	A soft, wistful melody floated out. Her hands cupped the harmonica, hiding her lips. The plaintive notes, gently drifting, soon had me closing my eyes too.						0	3.1主线剧情
+93	旅人乘着马，在马背上的颠簸中回忆着故乡的旷野。未知的终点，无处诉说的喜与悲。	旅人騎著馬，在馬背上的顛簸中回憶著故鄉的曠野。未知的終點，無處訴說的喜與悲。	その曲は、馬に乗る旅人が馬の背中に揺られながら、故郷の野原を思い出す情景のようだ。行く当てもなく、喜びも悲しみも語る場所もない。	여행자가 말을 타고, 말 위에서 흔들리며 고향의 들판을 회상했다. 알 수 없는 종착지, 그 누구에게도 말할 수 없는 기쁨과 슬픔.	A lone traveler on horseback, jostled by the road, yearning for the open plains of home. Bound for an unknown land, bearing joys and sorrows no one else could see.						0	3.1主线剧情
+94	茶香散了，一曲终了。夜晚又回归沉寂。	茶香散了，一曲終了。夜晚又回歸沉寂。	茶葉の香りが消え、一曲が終わった。夜は再び静寂に包まれた。	차향이 흩어지고, 곡이 끝났다. 밤은 다시 고요 속으로 돌아갔다.	As the tea's fragrance faded, the melody drew to a close. The night returned to stillness.						0	3.1主线剧情
+95	好忧伤的曲子。	好憂傷的曲子。	切ない曲だ。	참 슬픈 곡이네.	That was... a melancholic tune.						0	3.1主线剧情
+96	忧伤？	憂傷？	『切ない』……？	슬프다고?	Melancholic?						0	3.1主线剧情
+97	嗯。	嗯。	ああ。	응.	Yeah.						0	3.1主线剧情
+98	离开，留下，继续，停止。	離開，留下，繼續，停止。	去るか、残るか、続けるか、止めるか。	떠나고, 남고, 계속하고, 멈추고.	To leave or stay. To move forward or remain.						0	3.1主线剧情
+99	做不了决定或改变，只能维持现状。	做不了決定或改變，只能維持現狀。	決断も変革もできず、ただ現状を保つしかない。	어떠한 결정도 변화도 할 수 없이, 그저 현상 유지만 할 뿐.	No true choice — just the weight of what already is.						0	3.1主线剧情
+100	想说点什么来缓解，却是在说服自己——不愿意继续，又被迫继续。	想說點什麼來緩解，卻是在說服自己——不願意繼續，又被迫繼續。	悲しみを紛らわそうと何か言おうとして、実は自分を説得している——続けたくないのに、続けざるを得ない。	무슨 말이라도 해서 상황을 완화하고 싶지만, 결국 자신을 설득할 뿐… 계속하고 싶지 않으면서도, 어쩔 수 없이 계속해야만 해.	Words meant to soothe become lies to convince oneself. Unwilling to continue... yet dragged onward by the current.						0	3.1主线剧情
+101	这是什么曲子？	這是什麼曲子？	なんていう曲なんだ？	이게 무슨 곡이야?	What's this piece called?						0	3.1主线剧情
+102	……偶然听来的。喜欢吗？	……偶然聽到的。喜歡嗎？	たまたま耳にした曲で、名前はまだ……気に入ってもらえたかしら？	… 우연히 들은 거야. 마음에 들어?	...Picked it up by chance somewhere. Do you like it?						0	3.1主线剧情
+103	很喜欢。很适合这里。	很喜歡。很適合這裡。	ああ。ここにぴったりな曲だ。	응, 마음에 들어. 이곳과 잘 어울려.	I do. It suits this place.						0	3.1主线剧情
+104	怎么形容呢……适当的消极也不一定是件坏事。就像曲子里的那种感觉——暂且容许我们消极一下吧。	怎麼形容呢……適度的消極也不一定是件壞事。就像曲子裡的那種感覺——暫且容許我們消極一下吧。	なんて言うか…… 少し感傷に浸るのも悪くない。この曲の切なさのように——少しだけ、弱音を吐かせてほしい…みたいな。	뭐랄까… 적당히 부정적인 감정이 꼭 나쁜 것만은 아닐지도 몰라. 곡 속에 담긴 그런 감정처럼, 잠시만이라도 부정적일 수 있게 내버려두자.	How should I put it... being a little pessimistic now and then isn't such a bad thing. Like this tune — it's okay to be a little pessimistic sometimes.						0	3.1主线剧情
+105	你愿意的话，我有机会再吹给你听。	你願意的話，我有機會再吹給你聽。	それは、良かった。機会があったら、また聴いてもらえると嬉しい。	네가 원한다면, 기회가 되면 다시 한번 들려줄게.	If you like, I'll play it again for you sometime.						0	3.1主线剧情
+106	我很期待。	我很期待。	楽しみにしてるよ。	기대할게.	I look forward to it.						0	3.1主线剧情
+107	话罢，刚好看到客人们三三两两地离去。引擎声响起又渐弱，庄园重回平静。	語畢，剛好看到客人們三三兩兩地離去。引擎聲響起又漸弱，莊園重回平靜。	話が終わった頃、客人たちが徐々に帰路につき始めていた。エンジン音が響いては消え、屋敷は静けさを取り戻した。	그때, 마침 두세 명씩 떠나가는 손님들이 보였다. 엔진 소리가 울렸다가 점차 약해지고, 장원은 다시 고요해졌다.	Just then, I saw the guests trickling out in twos and threes. Engines flared, then faded. The manor sank into silence.						0	3.1主线剧情
+108	不早了。要回去吗？	不早了。要回去嗎？	もう遅い時間だ。帰ろうか？	늦었네. 돌아갈래?	It's getting late. Shall we head back?						0	3.1主线剧情
+109	我还想再待一会儿。	我還想再待一下。	わたくしは、もうしばらくここにいるわ。	조금 더 있고 싶어.	I'd like to stay a little longer.						0	3.1主线剧情
+110	那我先走了。	那我先走了。	じゃあ、お先に。	그럼, 나 먼저 가볼게.	Then I'll leave you alone.						0	3.1主线剧情
+111	晚安，好梦。	晚安，好夢。	ごきげんよう、いい夢を。	잘 자, 좋은 꿈 꿔.	Good night. Sweet dreams.						0	3.1主线剧情
+112	我沿着原路返回，在女仆的指引下回到了客房。	我沿著原路返回，在女僕的指引下回到了客房。	私は来た道を戻り、メイドの案内通りに客室に戻った。	나는 왔던 길을 따라 돌아갔고, 메이드의 안내를 받아 객실에 돌아왔다.	I retraced my steps back to the hallway. A maid guided me to my room.						0	3.1主线剧情
+113	在关灯之前，隔着窗，口琴的声音又响了起来。	在關燈之前，隔著窗，口琴的聲音又響了起來。	消灯する前、窓越しにまたハーモニカの音が聞こえてきた。	불을 끄기 전, 창문 너머로 하모니카 소리가 다시 들려왔다.	Just as I reached to turn off the light, the sound of her harmonica drifted in through the window.						0	3.1主线剧情
+114	（……晚安，克罗瑞娜。）	（……晚安，克羅瑞娜。）	（……おやすみ、クラウリナ）	(… 잘 자, 클라리나.)	(...Good night, Clarina.)						0	3.1主线剧情
+115	窗外有鸟鸣声。枕头和床被都很合适，这一觉睡得很舒服。	窗外有鳥鳴聲。枕頭和床被都很合適，這一覺睡得很舒服。	窓の外から鳥の鳴き声がする。枕と布団も心地よく、とてもよく眠れた。	창밖에서 새소리가 들렸다. 베개와 이불이 포근해서 편하게 잘 수 있었다.	The next morning, birdsong drifted through my window. The bed and pillow were just right — I'd slept like a log.						0	3.1主线剧情
+116	庄园还没褪去夜晚的余韵。到处都静悄悄的，唯独灯还开着。	莊園還沒褪去夜晚的餘韻。到處都靜悄悄的，唯獨燈還開著。	屋敷はまだ夜の余韻を残している。どこも静まり返っているが、ただ灯りだけがついている。	장원은 아직 밤의 여운이 가시지 않았다. 곳곳이 조용했고, 오직 불빛만이 켜져 있었다.	The manor hadn't quite shaken off the hush of night. Everything was still, save for the glowing lamps.						0	3.1主线剧情
+117	playername先生，贵安。	playername先生，早安。	playername様、おはようございます。	playername 님, 안녕하십니까.	Good morning to you, Mr. playername.						0	3.1主线剧情
+118	早上好。	早安。	おはよう。	좋은 아침.	Good morning.						0	3.1主线剧情
+119	餐前工作已经准备好了。您想现在用餐吗？或者和克罗瑞娜小姐一起用餐？	餐前工作已經準備好了。您想現在用餐嗎？或是和克羅瑞娜小姐一起用餐？	朝食をご用意しました。今すぐお召し上がりになりますか？それとも、クラウリナ様をお待ちになりますか？	식사 준비가 완료되었습니다. 지금 식사하시겠습니까? 아니면 클라리나 아가씨와 함께 드시겠습니까?	Breakfast is ready. Would you like to dine now, or wait for Miss Clarina?						0	3.1主线剧情
+120	米拉女士呢？	米拉女士呢？	ミラさんは？	밀라 여사님은?	What about Ms. Myra?						0	3.1主线剧情
+121	米拉女士已经用过早餐，去公司了。	米拉女士已經吃好早餐，去公司了。	ミラ様なら、すでに朝食をお済ませになって、出社されました。	밀라 여사님은 이미 아침 식사를 마치고 회사에 가셨습니다.	Ms. Myra has already eaten and left for the company.						0	3.1主线剧情
+122	那我就等克罗瑞娜一起吧。	那我就等克羅瑞娜一起吧。	じゃあ、クラウリナが来るまで待とう。	그럼 클라리나가 올 때까지 기다릴게.	Then I'll wait for Clarina.						0	3.1主线剧情
+123	好的，早餐八点三十分开始，到时我会再提醒您的。	好的，早餐八點三十分開始，到時我會再提醒您的。	かしこまりました。では朝食は8時30分になりますので、また声をかけさせていただきますね。	네. 아침 식사는 8시 30분에 시작하니 그때 다시 알려드리겠습니다.	Breakfast begins at 8:30 — I'll return to remind you then.						0	3.1主线剧情
+124	还要半个小时……克罗瑞娜已经醒了吗？	還要半小時……克羅瑞娜已經醒了嗎？	あと30分……クラウリナはもう起きているのか？	아직 30분이나 남았네… 클라리나는 일어났어?	That's still half an hour away... Is she up yet?						0	3.1主线剧情
+125	克罗瑞娜小姐每天起床的时间是固定的。	克羅瑞娜小姐每天起床的時間是固定的。	クラウリナ様は決まった時間に起床されますので。	클라리나 아가씨는 매일 같은 시간에 일어나세요.	Miss Clarina wakes at the same time every day.						0	3.1主线剧情
+126	哦，这样……	哦，這樣……	なるほど……	아, 그렇구나…	Ah, I see...						0	3.1主线剧情
+127	好，我知道了。	好，我知道了。	ああ、わかったよ。	응, 알았어.	Alright then.						0	3.1主线剧情
+128	……	……	……	……	...						0	3.1主线剧情
+129	什么味道？	什麼味道？	何の匂いだ？	이 냄새는 뭐지?	What's that smell...?						0	3.1主线剧情
+130	空气中传来一股焦糊的味道。伴随着这种味道的还有一些忙乱的声音。	空氣中傳來一股燒焦的味道。伴隨著這種味道的還有一些忙亂的聲音。	空気中に焦げ臭い匂いが漂っている。匂いと共に、慌ただしい物音も聞こえてきた。	공기 중에 타는 냄새가 났다. 그 냄새와 함께 분주한 소리도 들려왔다.	The air smelled of something burnt — and the sound of commotion wasn't far behind.						0	3.1主线剧情
+131	客人、客人请稍等——	客人、客人請稍等——	しょ、少々お待ちください――	자, 잠시만 기다려 주세요…	S–Sorry, sir — if you'll excuse me!						0	3.1主线剧情
+132	女仆提着裙摆，急忙忙地消失了。	女僕提起裙擺，急急忙忙地消失了。	メイドが裾をつかみ、慌てて廊下へ消えていった。	메이드가 치맛자락을 들어 올린 채 급하게 사라졌다.	The maid gathered her skirts and rushed off.						0	3.1主线剧情
+133	出于帮忙的心思——当然还有好奇，我跟了上去。	出於幫忙——當然還有好奇，我跟了上去。	手伝おうという気持ちと——もちろん好奇心もあって、私は彼女の後を追った。	나는 도와주고 싶은 마음에… 물론 호기심도 있어서, 그 뒤를 따라갔다.	Out of a mix of concern and curiosity, I followed after her.						0	3.1主线剧情
+134	女仆跑进了宴会厅的一个小门，里面应该是厨房——旁边有一个传菜口。顺着传菜口往里看，一群女仆正手忙脚乱地收拾着厨房。	女僕跑進了宴會廳的一個小門，裡面應該是廚房——旁邊有一個傳菜口。順著傳菜口往裡面看，一群女僕正手忙腳亂地收拾著廚房。	メイドは宴会場の小さいドアに駆け込んだ。おそらくキッチンだ。配膳口から中を覗くと、何人ものメイドが慌ててキッチンを片付けている。	메이드는 파티장의 작은 문으로 들어갔는데, 안쪽은 주방인 것 같았다. 옆에는 음식을 전달하는 창구가 있었다. 창구를 통해 안을 들여다보니, 메이드들이 분주하게 주방을 정리하고 있었다.	She slipped through a side door off the banquet hall — probably the kitchen. Next to it was a service hatch, through which I could see maids scrambling to clean up.						0	3.1主线剧情
+135	人群之中，克罗瑞娜正被几个女仆护在身后。她脸上熏得一片黢黑，整个人处于一种愣神的状态。	人群之中，克羅瑞娜正被幾個女僕護在身後。她臉上燻得一片黑，整個人處於一種呆愣的狀態。	人混みの中、クラウリナは数人のメイドに守られていた。顔が煤で真っ黒になった彼女はぼーっとしていた。	군중 사이에서, 클라리나는 몇몇 메이드에게 둘러싸여 있었다. 그녀의 얼굴은 새까맣게 그을려 있었고, 완전히 멍한 상태였다.	Amid the frenzy, Clarina was being shielded by the other maids. Her face was smudged with soot, her expression dazed.						0	3.1主线剧情
+136	在她的面前，平底锅还冒着些浓烟，似乎是刚被扑灭。锅中间黑乎乎一片，似乎是……	在她的面前，平底鍋還冒著些濃煙，似乎是剛被撲滅。鍋中間黑黑一片，好像是……	彼女の前では、フライパンからまだ煙が立ち込めている。消火したばかりらしく、鍋の中が黒焦げだ。どうやら……	그녀 앞에 있는 프라이팬에서는 아직도 자욱한 연기가 피어오르고 있었고, 이제 막 불이 꺼진 것 같았다. 팬 가운데는 새까맣게 타버린 것이 보였는데, 그건 아마도…	In front of her, a frying pan was still smoking — clearly just put out. In the center, something charred and unidentifiable...						0	3.1主线剧情
+137	（某种食物？）	（某種食物？）	（何かの食べ物？）	(음식인가?)	(Is that supposed to be food?)						0	3.1主线剧情
+138	快，叫医生来——	快，叫醫生來——	は、はやく医者を呼んできて――	어서 의사를 불러와야…	Quick — get the doctor!						0	3.1主线剧情
+139	我没事。	我沒事。	待って、大丈夫よ。	괜찮아.	I'm fine.						0	3.1主线剧情
+140	原来这就是炸锅吗……	原來這就是炸鍋嗎……	これが、水蒸気爆発……	냄비가 타면 이렇게 되는구나…	So this is what they mean by "blowing up the kitchen..."						0	3.1主线剧情
+141	唔……去告诉playername先生，早餐要推迟二十分钟了。	嗯……去告訴playername先生，早餐要延後二十分鐘了。	……朝食の時間は２０分くらい遅れると、分析員殿に伝えておいて。	음… playername 님께 아침 식사가 20분 늦어질 거라고 전해드려.	Mmm... someone inform Mr. playername that breakfast will be 20 minutes late.						0	3.1主线剧情
+142	……是！	……是！	……かしこまりました。	… 네!	...Yes, Miss Clarina!						0	3.1主线剧情
+143	刚进门的女仆应了一声，我连忙回到之前的位置。	剛進門的女僕應了一聲，我趕快回到之前的位置。	入ってきたメイドが返事するのを聞いて、私は慌ててさっきの場所に戻った。	막 들어온 메이드가 대답하자, 나는 서둘러 이전 자리로 돌아갔다.	The maid nodded and hurried off. I slipped back to my seat.						0	3.1主线剧情
+144	女仆走到我身前鞠了一躬，随后又有几位女仆端上了茶水和点心。	女僕走到我身前鞠了一躬，隨後又有幾位女僕端上了茶水和點心。	メイドは私の前でお辞儀をし、その後、何人かのメイドがお茶とお菓子を運んできた。	메이드가 내 앞에서 허리를 숙였고, 또 메이드 몇 명이 차와 다과를 가져왔다.	She returned and gave me a quick bow. Moments later, a few maids brought out tea and snacks.						0	3.1主线剧情
+145	playername先生，真是抱歉……	playername先生，真是抱歉……	playername様、申し訳ございませんが……	playername 님, 정말 죄송합니다…	Mr. playername, our sincerest apologies...						0	3.1主线剧情
+146	因为我们的疏忽，今天的早餐要推迟二十分钟。	因為我們的疏忽，今天的早餐要延後二十分鐘。	こちらの不始末で、朝食は20分ほど遅れることになりました。	저희의 부주의로 오늘 아침 식사가 20분 늦어질 예정입니다.	Due to an oversight on our part, breakfast will be delayed by about 20 minutes.						0	3.1主线剧情
+147	您可以先用一些点心，克罗瑞娜小姐很快就会过来。	您可以先用一些點心，克羅瑞娜小姐很快就會過來。	こちらのお菓子などをお召し上がりになって、お待ちくださいませ。クラウリナ様はすぐにお見えになると思います。	먼저 다과를 드시다 보면, 클라리나 아가씨께서 오실 겁니다.	Please enjoy some light refreshments in the meantime. Miss Clarina will be joining you shortly.						0	3.1主线剧情
+148	没事，我先坐一会儿。	沒關係，我先坐一下。	大丈夫だ。ここで休んでいるよ。	괜찮아, 잠시 앉아서 기다릴게.	No problem. I'll just take it easy for a while.						0	3.1主线剧情
+149	没让我等多久，克罗瑞娜就走了进来，在我面前坐下了。	沒讓我等多久，克羅瑞娜就走了進來，在我面前坐下了。	しばらくすると、クラウリナが入ってきて、私の前に座った。	머지않아 클라리나가 들어와서 내 앞에 앉았다.	It wasn't long before Clarina entered and sat down across from me.						0	3.1主线剧情
+150	黑黢黢的小脸已经洗干净了，看不出刚刚狼狈的样子。神情镇定从容，好像什么都没发生过一样。	黑黑的小臉已經洗乾淨了，看不出來剛才狼狽的樣子。神情鎮定從容，好像什麼都沒發生過一樣。	顔についた真っ黒な汚れはすっかり落ちて、さっきの慌てっぷりが嘘みたいだった。彼女はすっかり落ち着いていて、まるで何事もなかったかのように振る舞っていた。	새까맣던 작은 얼굴은 이미 깨끗이 씻겨 아까의 초라했던 모습은 찾아볼 수 없었다. 아무 일도 없었다는 듯 침착하고 여유로운 표정이었다.	Her face had been scrubbed clean of soot — she looked perfectly composed, as if nothing had ever happened.						0	3.1主线剧情
+151	贵安——真过意不去。	早安——真過意不去。	ごきげんよう……ごめんなさい。	안녕… 정말 미안해.	Good morning. I'm truly sorry.						0	3.1主线剧情
+152	我想着亲手做些早餐一起分享，没想到出了差错——早餐要推迟一会儿了。	我想說親手做點早餐一起分享，沒想到出了差錯——早餐要延後一下了。	手料理を振る舞おうと思ったけれど、やり方を間違えてしまって。朝食は、もう少し待っていてください。	아침 식사를 직접 만들어서 같이 먹고 싶었는데, 실수가 있었네. 아침 식사가 조금 늦어질 것 같아.	I wanted to prepare breakfast myself and share it with you, but something went wrong... So breakfast will be a little delayed.						0	3.1主线剧情
+153	本来以为她要隐瞒这件尴尬的事情，没想到她竟然直接说了出来。	本來以為她要隱瞞這件尷尬的事情，沒想到她竟然直接說了出來。	この気まずい出来事を隠すのかと思っていたが、彼女は意外にも自分から教えてくれた。	이런 민망한 일은 숨길 줄 알았는데, 바로 말해버릴 줄은 몰랐다.	I'd expected her to downplay or gloss over the mishap — but instead, she owned up to it without hesitation.						0	3.1主线剧情
+154	太费心了。没关系，什么时候品尝都一样，昨晚的餐品也很棒了。	太費心了。沒關係，什麼時候品嚐都一樣，昨晚的餐品也很棒了。	気を使わせて申し訳ない。私はいつでも喜んで食べるから。昨晩の料理だっておいしかったよ。	난 신경 쓰지 마. 언제 먹어도 상관없으니까. 어제 저녁 식사도 훌륭했는걸.	That's very thoughtful of you. It's no trouble — I'm in no rush. The tea snacks last night were already a treat.						0	3.1主线剧情
+155	昨晚的餐品并不是我制作的……其实，我并不擅长烹饪，可能会让你失望……	昨晚的餐品並不是我製作的……其實，我並不擅長烹飪，可能會讓你失望……	昨日の料理を作ったのは、わたくしじゃなくて、うちのシェフ。その……料理は不得意だから、あまり、期待しないように……	어제 저녁 식사는 내가 만든 게 아니야… 사실 난 요리를 잘 못해서, 네가 실망할 수도 있어…	That wasn't my cooking... I'm not very good at it. You might end up disappointed...						0	3.1主线剧情
+156	哦？好像跟你小姨说得不太一样？我记得她说，你在美食这一块有很多独到的见解。	哦？好像跟你小姨說的不太一樣？我記得她說，你在美食這一方面有很多獨到的見解。	うん？ミラさんから聞いたのと違うな。君は料理に関して独特の見解を持っていると聞いたが。	어? 너희 이모가 말씀하신 것과는 좀 다른데? 네가 음식에 대해 특별한 재능이 있다고 하셨거든.	Really? That's not what Ms. Myra said — she told me you had an exceptional palate.						0	3.1主线剧情
+157	……直白地说，我知道很多烹饪方面的知识和理论，也品尝过很多顶级厨师的菜品，却几乎没有尝试过亲手做饭。	……直白地說，我知道很多烹飪方面的知識和理論，也品嚐過很多頂級廚師的菜品，卻幾乎沒試過親手做飯。	……正直、料理に関する知識と理論は知っているし、名物料理人の料理もあらかた食べてきたけど、自分で作ったことはないの。	… 솔직히 말하자면, 요리에 관한 지식과 이론은 많이 알고 있고 베테랑 셰프들의 요리도 많이 맛봤지만, 직접 요리를 해본 적은 거의 없어.	To be honest, I know quite a bit about cuisine — techniques, theory, and I've sampled my share of fine dining. But I've rarely cooked myself.						0	3.1主线剧情
+158	今早也是一时心血来潮。看来我还需要多加练习。	今早也是一時心血來潮。看來我還需要多加練習。	今朝も、急に気分が乗ってやっただけ。まだまだ練習をしないと……	오늘 아침도 갑자기 즉흥적으로 하고 싶어진 건데, 아무래도 더 연습해야겠네.	I just felt like giving it a try this morning... Clearly, I still need practice.						0	3.1主线剧情
+159	没关系的。倒不如说，这更让我觉得受宠若惊了。	沒關係的。不如說，這更讓我覺得受寵若驚了。	いやいや。むしろ、その方が恐縮してしまうな。	괜찮아. 네가 그렇게 신경 써 줘서 오히려 더 감동적인걸.	That's perfectly fine. Actually, it makes me feel even more honored.						0	3.1主线剧情
+160	啊？	啊？	え？	응?	Huh?						0	3.1主线剧情
+161	尝试平时没有做过的事情，要比做那些本就擅长的事情付出更多吧。	嘗試平時沒有做過的事情，要比做那些本就擅長的事情付出更多吧。	普段やらないことを試すのは、元々得意なことをやるよりもずっと大変なことだ。	평소에 안 해본 일을 시도하려면, 잘하는 일을 할 때보다 훨씬 더 많은 노력이 필요하잖아.	Trying something new — something outside your comfort zone — takes more courage than sticking to what you're good at.						0	3.1主线剧情
+162	这么说可能会有些唐突……	這麼說可能會有點突然……	こんなことを言うと、変に思われるかもしれないけど……	갑자기 이런 말을 꺼내면 좀 이상할 수도 있지만…	I hope this doesn't come across as too forward...						0	3.1主线剧情
+163	她犹豫了下，看着我的眼睛，真诚地说——	她猶豫了一下，看著我的眼睛，真誠地說——	彼女はちょっと躊躇してから、私の目を見て真摯に言った——	그녀는 잠시 망설이더니, 내 눈을 바라보며 진심을 담아 말했다.	She paused, met my eyes with quiet sincerity, then went on.						0	3.1主线剧情
+164	因为，我很高兴能够认识你。	因為，我很高興能夠認識你。	貴方と知り合って、とても嬉しかったので。	널 만나서 정말 기뻐.	But... I can't help feeling glad we met.						0	3.1主线剧情
+165	我也一样。	我也一樣。	私もだ。	나도 마찬가지야.	Same here.						0	3.1主线剧情
+166	那、那真是太好了……	那、那真是太好了……	そ、それは、よかった……	그, 그렇다면 정말 다행이야…	Th–That's wonderful to hear...						0	3.1主线剧情
+167	我的性格不是很好——小姨是这么说的。也许是因为这一点，所以我没什么人缘。所以——	我的性格不是很好——小姨是這麼說的。也許是因為這一點，所以我沒什麼人緣。所以——	叔母さんが言うには、どうもわたくしは性格に難があるらしい……それ故か、あまり友人というのもいなくて……	난 성격이 좋은 편은 아니야… 이모가 그러셨거든. 그래서 대인관계도 별로 안 좋은가 봐. 그러니까…	I'm not the easiest person to be around — or so Aunt Myra says. Maybe that's why I don't connect with many people. So—						0	3.1主线剧情
+168	怎么会？	怎麼會？	そうなのか？	그럴 리가?	That can't be true.						0	3.1主线剧情
+169	虽然我们只认识了一天，但是我可不这么觉得。或许是米拉女士对你的要求比较高吧。	雖然我們只認識了一天，但是我可不這麼覺得。或許是米拉女士對你的要求比較高吧。	まだ知り合ったばかりだけど、私はそうは思わないな。ミラさんが厳しいのって、君にしっかりした人になって欲しいからじゃないかな？	만난 지 하루밖에 안 됐지만, 난 전혀 그렇게 생각하지 않아. 너에 대한 밀라 여사님의 기대치가 좀 높은 게 아닐까?	I only met you yesterday, but that's not how you come across at all. Maybe Ms. Myra just has high expectations.						0	3.1主线剧情
+170	说起来，我之前见过你一面呢。	說起來，我之前見過你一面呢。	そういえば、実は前に君に会ったことがあるんだ。	그러고 보니, 전에 널 한 번 본 적이 있어.	Oh — actually, I've seen you once before.						0	3.1主线剧情
+171	哦？真的吗？	哦？真的嗎？	……え？本当なの？	응? 정말?	Huh? Really?						0	3.1主线剧情
+172	我平时都待在庄园里，偶尔去卫城学院听课……你是在哪里遇见我的？	我平常都待在莊園裡，偶爾去衛城學院聽課……你是在哪裡遇見我的？	普段は屋敷にこもっていて、たまに授業を受けるために学院へ顔を出すこともあるけれど……わたくしを見かけたというのは、どちらで？	난 보통 장원에만 있고, 가끔 아크로폴리스 아카데미에 수업 들으러 가는데… 어디서 봤어?	I usually stay here at the manor, or occasionally go to lectures at the Acropolis... Where exactly did you see me?						0	3.1主线剧情
+173	我之前恰好在卫城学院执行任务。就在前几天，在卫城学院里，你降下车窗看外面来着。	我之前剛好在衛城學院執行任務。就在前幾天，在衛城學院裡，你降下車窗正在看外面。	数日前、アクロポリス学院での任務中に、車の窓を開けて外を見てる君を見かけたよ。	그때 내가 아크로폴리스 아카데미에서 미션 수행 중이었거든. 며칠 전에, 네가 아크로폴리스 아카데미에서 차 창문을 내리고 밖을 보고 있었어.	I was on a mission at the Acropolis a few days ago. I saw you on campus — you'd rolled down your car window and looked out.						0	3.1主线剧情
+174	原来是这样。那还真是巧了。	原來是這樣。那還真是很巧。	なるほど。それは、奇遇ね。	그랬구나. 정말 우연이네.	Is that so? What a coincidence.						0	3.1主线剧情
+175	哎，说远了。明天就要出发了，今天还是要准备一下的。	欸，說遠了。明天就要出發了，今天還是要準備一下的。	少し、話が逸れたわね。出発は明日だから、今日中に支度を済ませないと。	아, 딴 얘기했네. 내일이면 출발인데, 오늘은 준비 좀 해야겠어.	Anyway, let's get back on track — we're leaving tomorrow, so I'll need to do some preparations today.						0	3.1主线剧情
+176	她回头看了看身后的女仆，对方则欠了欠身。	她回頭看了看身後的女僕，對方則向我欠身。	クラウリナが言いながら振り返ると、その後ろのメイドが頷いて口を開ける。	그녀가 뒤에 있는 메이드를 돌아보자, 메이드는 몸을 숙였다.	She glanced over her shoulder, and the maid behind her gave a courteous bow.						0	3.1主线剧情
+177	您的行李已经准备好了，这是电子清单，请您过目。	您的行李已經準備好了，這是電子清單，請您過目。	お支度はすでに済ませておきました。荷物の詳細はこちらのリストをご覧ください。	아가씨의 짐은 준비해 두었습니다. 이 전자 목록을 한번 확인해 주세요.	Your luggage is ready, Miss Clarina. Here is the e-manifest.						0	3.1主线剧情
+178	行李将于中午送往机场装机，运输机预计在晚上抵达霍尔姆。	行李將於中午送往機場裝機，運輸機預計在晚上抵達霍爾姆。	荷物は午後、空港に運ばれて、輸送機に積まれます。ホルムへの到着は、夜になるかと。	짐은 정오에 공항으로 보내 항공기에 싣고, 수송기는 저녁에 홀름에 도착할 예정입니다.	It will be sent to the airport for loading at noon. The transport aircraft is expected to arrive in Holme by evening.						0	3.1主线剧情
+179	……装机？运输机？	……裝機？運輸機？	……空港？輸送機？	… 항공기에 싣는다고? 수송기?	...Loading? A transport aircraft?						0	3.1主线剧情
+180	我也不太了解，就让她们帮忙准备了一下。	我也不太了解，就讓她們幫忙準備了一下。	遠出は不慣れだから、みんなに任せたわ。	나도 잘 몰라서 그냥 메이드들한테 준비를 부탁했어.	I'm not sure about the details — I left it all to the maids.						0	3.1主线剧情
+181	可以帮我看看吗？哪里有缺漏什么的。	可以幫我看看嗎？哪裡有缺漏之類的。	忘れ物がないか、代わりに確認してもらえるかしら？	좀 봐줄 수 있어? 빠뜨린 게 있는지 확인해줘.	Would you mind taking a look? Just in case I forgot anything.						0	3.1主线剧情
+182	呃……	呃……	ええと……	음…	Um...						0	3.1主线剧情
+183	我接过便携电脑划了几下，可清单右侧滚动条只往下挪动了一点点。	我拿起便攜式電腦滑了幾下，清單右側的滾動捲軸只往下挪動了一點點。	リストを受け取って確認したが、その量に言葉を失った。	휴대용 컴퓨터를 건네받아 스크롤해 봤지만, 목록 오른쪽의 스크롤바가 조금밖에 내려가지 않았다.	I took the tablet and scrolled a few times — but the scrollbar barely moved.						0	3.1主线剧情
+184	越划，眉头越皱——物品繁杂而齐全，几乎是一个商场的补货清单……	越滑，眉頭越皺——物品繁雜而齊全，幾乎是一個商場的補貨清單……	ページをめくるたびに、眉間のしわが寄っていくて。生活用品、雑貨、工具に食材……まるでデパートの商品リストのようだった……	스크롤을 내릴수록 눈살이 찌푸려졌다. 물건이 너무 많고 다양해서, 무슨 쇼핑몰 재고 목록 같았다…	The more I scrolled, the deeper my frown. It looked more like a department store's restocking manifest than a packing list.						0	3.1主线剧情
+185	有什么问题吗？	有什麼問題嗎？	どうかなさったの？	무슨 문제라도 있어?	Is something the matter?						0	3.1主线剧情
+186	你可能混淆了旅行和搬家的概念，咳，暂且称之为旅行……旅行一般不会带这么多东西过去。	你可能混淆了旅行和搬家的概念，咳，暫時稱之為旅行……旅行通常不會帶這麼多東西過去。	旅行を引っ越しと間違えてるんじゃないかな？まぁ、ひとまず旅行と表現しておこう……旅行ならこんなに荷物は必要ないよ。	여행과 이사의 개념을 혼동한 것 같은데. 흠, 일단 여행이라고 하자… 보통 여행할 때 이렇게 많은 물건을 가져가진 않아.	I think you might be mistaking a trip for a full-blown move. Well... let's just call this a "trip" for now — most people don't pack this much for one.						0	3.1主线剧情
+187	大多数时候，旅行是为了体验一种不同的生活方式。	大多數時候，旅行是為了體驗一種不同的生活方式。	旅行は普段と違うライフスタイルを体験するものなんだ。	사람들은 색다른 생활 방식을 경험하려 여행을 가곤 하지.	A trip's meant to offer a change of pace...						0	3.1主线剧情
+188	比如——尝尝当地的美食；在那边的路上走一走，感受街景；在家之外的地方住一下，去家之外的地方看看。	比如——品嚐當地的美食；在那邊的路上走一走，感受街景；在家之外的地方住一下，去家之外的地方看看。	例えば——ご当地の料理を味わったり、風景を楽しんだり、家以外の場所に泊まったり。	예를 들면… 현지 음식을 맛보고, 그곳의 거리를 걸으면서 풍경을 느끼고, 집이 아닌 곳에서 머물고, 집이 아닌 장소를 구경하러 가지.	Like trying local food, wandering unfamiliar streets, staying somewhere new... seeing beyond your usual walls.						0	3.1主线剧情
+189	当然，这是大多数人的旅行方式，可能不适用于你。这肯定和你平时的生活方式不同，也不知道你会不会不适应。	當然，這是大多數人的旅行方式，可能不適用於你。這一定和你平常的生活方式不同，也不知道你會不會不適應。	もちろん、こんなスタイルは君に合わないかもしれない。普段とは違うから、慣れるかどうかもわからない。	물론 이건 대부분 사람의 여행 방식일 뿐, 너한텐 안 맞을 수도 있어. 분명 평소 네 생활 방식과는 다르겠지. 네가 적응할 수 있을지도 모르겠고.	That's what a trip means to most people. It might not suit you — it'll be a big shift from your usual life. Not sure how well you'll take to it.						0	3.1主线剧情
+190	不过，世界树公司肯定也会以高规格进行接待，这点我可以保证。	不過，世界樹公司一定也會以高規格來接待，這點我可以保證。	でも、ユグドラシルももちろん最高のもてなしをするはずだ。それは保証する。	하지만 위그드라실에서도 널 최고 수준으로 대우해 줄 거야. 내가 장담할게.	But I do know Yggdrasil will give you the highest standard of hospitality — that much I can promise.						0	3.1主线剧情
+191	何况还有我呢。到了霍尔姆，也该轮到我尽地主之谊了吧？	況且還有我呢。到了霍爾姆，也該輪到我盡地主之誼了吧？	それに私がいるじゃないか。ホルムに着いたら、今度は私がおもてなしする番だ。	게다가 나도 있잖아. 홀름에 도착하면 내가 당연히 잘 대접해 줘야겠지?	Besides, you've got me — once we're in Holme, it'll be my turn to play host. I'll make sure you're well looked after.						0	3.1主线剧情
+192	嗯……听起来很有趣的样子！	嗯……聽起來很有趣的樣子！	ええ……なんだか、とても楽しみだわ。	음… 재미있을 것 같아!	Mmm... that actually sounds kind of exciting.						0	3.1主线剧情
+193	那……那……	那……那……	それなら……	그… 그러니까…	Then... maybe...						0	3.1主线剧情
+194	她的眼睛眨个不停，手似乎也无意识地捏紧了餐叉。	她的眼睛眨個不停，手似乎也無意識地捏緊了餐叉。	彼女の目が輝きだし、手は無意識にフォークを握りしめているようだ。	그녀는 눈을 연신 깜빡이며 무의식적으로 포크를 꽉 쥐는 듯했다.	She blinked fast, fingers tightening around her fork without even noticing.						0	3.1主线剧情
+195	我在想，可不可以……这些东西都不带了？我自己跟你去霍尔姆。	我在想，可不可以……這些東西都不帶了？我自己跟你去霍爾姆。	荷物を全部置いて行ってもいいかしら？この身ひとつで、貴方と。	그러니까… 이런 것들은 전부 안 가져가도 될까? 나 혼자 너랑 홀름에 가는 거야.	I was thinking... maybe I could leave all the luggage behind, and just go with you to Holme.						0	3.1主线剧情
+196	诶？	欸？	……え？	네?	What!?						0	3.1主线剧情
+197	有什么问题吗？	有什麼問題嗎？	どうかしたの？	무슨 문제라도 있어?	Is something wrong?						0	3.1主线剧情
+198	没，没什么……	沒、沒什麼……	い、いえ……	아, 아닙니다…	N—No, of course not...						0	3.1主线剧情
+199	等等，失礼了……但是小姐，至少带上——	等等，失禮了……但是小姐，至少帶上——	や、やはりお待ちください、クラウリナ様！せめてこれを――	잠깐만요, 죄송합니다만… 아가씨, 최소한 이것만은…	Pardon me, Miss Clarina — just a moment, please!						0	3.1主线剧情
+200	女仆急匆匆地跑了出去，回来的时候手上多了一个精致的卡包。	女僕急匆匆地跑了出去，回來的時候手上多了一個精緻的卡包。	メイドは急いで豪華なカードケースを持って来た。	메이드가 급하게 뛰쳐나갔다가 예쁜 카드 지갑을 하나 들고 돌아왔다.	The maid hurried off and soon returned with a sleek, overstuffed card case.						0	3.1主线剧情
+201	请务必带上这个！	請務必帶上這個！	これだけは持っていかれてください！	꼭 가지고 가세요!	Please, Miss Clarina — you absolutely must take this with you!						0	3.1主线剧情
+202	那是一只鼓囊囊的卡包。克罗瑞娜接过卡包打开，里面插满了各种各样的高级银行卡。	那是一個很鼓的卡包。克羅瑞娜接過卡包打開，裡面插滿了各式各樣的高級信用卡。	ぷっくりと膨らんだそのケースを、クラウリナが受け取って開くと、中にはブラックカードがびっしりと入っていた。	도톰한 카드 지갑이었다. 클라리나가 카드 지갑을 받아 열어보니, 안에는 각종 고급 은행 카드가 들어있었다.	Clarina opened it — dozens of premium bank cards gleamed inside.						0	3.1主线剧情
+203	她又一次看向我，似乎是在征询我的意见。	她又一次看向我，似乎是在徵詢我的意見。	彼女は再び私を見て、意見を求めているようだった。	그녀는 내 의견을 구하려는 듯, 다시 한번 나를 바라봤다.	She looked over at me, as if seeking my thoughts.						0	3.1主线剧情
+204	嗯……我没意见。	嗯……我沒意見。	うん……特に異論はないよ。	음… 난 상관없어.	Mm... works for me.						0	3.1主线剧情
+205	好，那就这么决定了！	好，那就這麼決定了！	じゃあ、決まりね。	좋아, 그럼 결정한 거야!	Perfect! Then it's settled.						0	3.1主线剧情
+206	她笑着收起了卡包，好像已经开始憧憬霍尔姆之旅了。	她笑著收起了卡包，好像已經開始憧憬霍爾姆之旅了。	彼女は笑いながらカードケースをしまい、ホルム旅行を楽しみにしているようだった。	그녀는 미소 지으며 카드 지갑을 챙겼고, 벌써 홀름 여행을 동경하는 듯했다.	She chuckled and tucked the case away, already looking as if she were imagining the trip to Holme.						0	3.1主线剧情

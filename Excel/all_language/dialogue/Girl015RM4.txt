@@ -1,0 +1,56 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	抱歉，这次的外出申请被驳回了。	抱歉，這次的外出申請被駁回了。	申し訳ございませんが、今回の外出申請は却下されました。	죄송해요, 외출 신청이 거부되었어요.	Sorry, her application to go out was rejected this time.						0	
+2	和你之前说的一样啊……	跟你之前說的一樣啊……	この前の説明通りってわけだ……	전에 말한 대로네…	It's like you said before...						0	
+3	早就告诉你了，一个月只能提交一次。	早就告訴你了，一個月只能提交一次。	だから言ったじゃないですか？1か月に一回だけだって。	일전에 한 달에 한 번만 제출할 수 있다고 말씀드렸죠?	Yes. I told you — she can only submit one per month.						0	
+4	而且老实说，原本上面的意思可是半年才能出去一次，是我帮你说了不少好话才争取到一个月一次的。	而且老實說，原本上面的意思可是半年才能出去一次，是我幫你說了不少好話才爭取到一個月一次的。	そもそも、最初は半年に一回だったんですよ。それを1か月に一回まで増やすのに、私がどれだけ頑張ったと思ってるんですか。	사실 6개월에 딱 한 번만 외출할 수 있던 거였는데, 제가 부탁하고 부탁해서 한 달에 한 번씩 외출할 수 있게 된 거예요.	And to be completely honest, the higher-ups originally wanted it to be every six months. I put in a good word to get it down to one month.						0	
+5	多谢了，之后请你喝咖啡。	多謝了，之後請你喝咖啡。	もちろん、感謝してるよ。後でコーヒーでも奢らせてくれ。	고마워, 나중에 꼭 커피 한 잔 사줄게.	Thanks. I'll treat you to some coffee later.						0	
+6	嗯，那我也多谢了~哎，你的手指怎么了？	嗯，那我也多謝了~哎，你的手指怎麼了？	それはどうも～ていうか、その指はどうしたんですか？	고마워요~ 그나저나 손가락은 어떻게 된 거예요?	Thanks to you too then~ Hey, what's wrong with your fingers?						0	
+7	练吉他练起水泡了……	練吉他練到起水泡了……	ギターの練習で、水膨れができちゃってね……	기타 연습하다가 물집이 잡혔어…	They're blisters from playing guitar...						0	
+8	从卡罗琳那里出来后，我回到了基地。	從卡羅琳那裡出來後，我回到了基地。	カロリンと別れた後、私は社員寮に戻った。	캐롤린이 있던 곳에서 나와 기지로 돌아갔다.	After I said bye to Caroline, I headed back to the Base.						0	
+9	来到凯茜娅房门前，叹了口气后——	來到凱茜婭房門前，嘆了口氣後——	カーシアの部屋の前に来ると、私はため息をついてから……	캐시아의 방 문 앞에 도착한 후 한숨을 내쉬며…	As I arrived at Katya's door, I let out a sigh.						0	
+b-1											0	
+10	敲响房门。	敲響房門。	ドアをノックした。	방 문을 두드린다.	Knock on the door.						0	
+11	凯茜娅，在吗？你的外出申请被驳回了。	凱茜婭，在嗎？你的外出申請被駁回了。	カーシア、いるか？外出申請についてだけど、残念だが却下されてしまったんだ。	캐시아, 안에 있어? 네 외출 신청이 거부됐어.	Katya, are you there? Your application to go out was turned down.						0	
+12	不在房间吗？那先发个简讯……	不在房間嗎？那先發個簡訊……	いないのか？じゃあ、とりあえずメッセージでも……	방에 없는 건가? 메시지를 보내봐야겠군…	Was she not in her room? I decided to send her a message instead...						0	
+13	我知道了。房门没锁，你直接进来就好。	我知道了。房門沒鎖，你直接進來就好。	いるわよ。カギはかけてないから、そのまま入って来て。	알았어. 방문 안 잠겼으니까, 그냥 들어와.	Got it. Door's unlocked. Just come in.						0	
+14	好，那就打扰了。	好，那就打擾了。	分かった。お邪魔するよ。	오케이, 그럼 들어갈게.	Alright. Sorry for the intrusion.						0	
+15	漆黑一片，房间里的电器全部处于断电状态，就连窗户都被凯茜娅用书本糊住。	漆黑一片，房間裡的電器全部處於斷電狀態，就連窗戶都被凱茜婭用書本遮住。	部屋の中は真っ暗だった。電気はすべて切られていて、窓もカーシアの本で塞がれて、光が入って来れないようにしていた。	방은 칠흑같이 어두웠고, 방 안의 모든 가전제품은 전원이 끊긴 상태였으며, 심지어 창문까지 캐시아가 책으로 가린 상태였다.	It was pitch black. Every single electrical device in the room was turned off, and Katya had even covered the windows with books.						0	
+16	而后，房门被合上，耳后传来了足尖滑动的声响。	而後，房門被合上，耳後傳來了足尖滑動的聲響。	ドアが閉じられる音と共に、背後から足音が近づいて来た。	곧 방 문이 닫히고 발소리가 귓가에 들려왔다.	As the door closed, I could hear the sound of shuffling feet coming up from behind me.						0	
+17	蛇穴……当我意识到自己步入险境的瞬间，便已被毒蛇缠上。	蛇穴……當我意識到自己步入險境的瞬間，便已被毒蛇纏上。	まるでヘビの巣穴だ。危険な場所に足を踏み入れてしまったのだと気付いた時には、すでにヘビに絡みつかれてしまった後だった。	뱀의 소굴… 위험에 처했다는 걸 깨달은 순간 이미 독사에 감겨버렸다.	I had been lured into the snake's nest... As soon as I realized I was in danger, I was already wrapped in the poisonous serpent's grip.						0	
+18	喂，老实点。	喂，老實點。	動かないで。	이 봐, 얌전히 있어.	Hey, hold still.						0	
+19	所幸，凯茜娅并没有真的对我下手，她只是从身后轻搂住了我，将身体敷了上来。	所幸，凱茜婭並沒有真的對我下手，她只是從身後輕輕摟住了我，將身體靠了上來。	幸い、カーシアには私を襲う意図はないようだった。後ろから私の体に腕を回し、自分の体を重ねて来ただけだった。	다행히 캐시아는 실제로 나에게 손을 댄 것은 아니었고, 그저 뒤에서 나를 가볍게 안아 올려서 몸을 갖다 대기만 했다.	Fortunately, Katya didn't actually attack me. She only gently hugged me from behind, pressing her body against mine.						0	
+20	从现在开始，你就假装被我劫持了。	從現在開始，你就假裝被我劫持了。	今から、私の人質を演じてもらうわ。	처음부터 넌 내게 납치를 당한 척을 했어.	From now on, pretend to be my hostage.						0	
+21	然后，以你的性命为要挟，让他们放我出去。	然後，以你的性命為要挾，讓他們放我出去。	あなたの命と引き換えに、私を釈放してもらう。	그리고 네 목숨을 빌미로, 나의 외출 신청을 통과하게 만들려던 거지.	I'm gonna use your life as a bargaining chip to make them let me out.						0	
+22	我不认为这是个聪明的做法，真想要出去我还有其他的……	我不認為這是個聰明的做法，真想要出去我還有其他的……	あまり賢明なアイデアとは思えないけどな。どうしても外出したいなら、私がなんとかしてみるから……	그런 건 현명한 생각이 아니야. 정말 나가고 싶다면 다른 방법도 있고…	I don't think that's a good idea. If you really want to go out, I have other ide—						0	
+23	但这就是我的风格，不是吗？	但這就是我的風格，不是嗎？	でも、こういうやり方のほうが私らしいでしょ？	하지만 이게 내 스타일에 가장 맞는 것 같기도 하고.	But this is more my style, isn't it?						0	
+24	行吧。	好吧。	……分かったよ。	됐어.	Alright, fine.						0	
+25	但我还是要提醒你一句，凯茜娅，你演技其实挺差的，有没有敌意挺好被看穿的。	但我還是要提醒你一句，凱茜婭，你演技其實蠻差的，有沒有敵意很好被看穿的。	でも、ひとつだけ言わせてくれ、カーシア。あなたは自分で思ってるほど演技が上手い方じゃない。殺意があるかどうかは、ひと目見れば分かってしまうよ。	나도 충고하자면, 네 연기도 사실 많이 어색해. 네게 적의가 없다는 건 처음부터 눈치채고 있었지.	But I think I should remind you that you're not a very good actress, Katya. It's pretty easy to tell if you're actually being hostile or not.						0	
+26	哼……	哼……	ふん……	흥…	Heh...						0	
+27	嘶哈——喂！	嘶哈——喂！	……いっ…！おい！	앗… 이봐!	Wha— Hey!						0	
+28	大概是真的惹凯茜娅生气了，她狠狠地挠了我脖子一下……	大概是真的惹凱茜婭生氣了，她狠狠地搔了我脖子一下……	カーシアを怒らせてしまったらしい。彼女は爪で私の首を思いっきり引っ掻いた。	캐시아는 정말 화가 났는지 내 목을 심하게 긁었다…	I must have really made Katya angry, because she scratched my neck pretty hard...						0	
+28_1	呵呵呵，让你挂点彩，这样才真实一点。	呵呵呵，讓你稍微掛彩，這樣才真實一點。	ふふふ。傷がある方がそれっぽいでしょう？	오호라, 그럼 조금만 더 현실적으로 보일 수 있게 색깔을 가미해 볼까나.	Heheh, let's make it look like I got roughed up — it'll be more realistic that way.						0	
+28_2	那你也该挂点彩吧，这样不是更真实吗？	那你也該掛彩吧，這樣不是更真實嗎？	あなたも傷を作って。その方が真実味が増すと思わない？	그럼 색깔을 조금만 더해봐. 이 정도는 해야 현실적으로 보이지 않겠어?	Should we make it look like you got hurt too? That would be even more realistic, right?						0	
+28_3	哦？那请便~	哦？那請便~	あら？お好きにどうぞ。	아… 그럼 편하게 해.	Oh? Then go ahead~						0	
+29	最后警告一次，将分析员先生放开，然后原地跪下，否则我们将采取强制措施。	最後警告一次，將分析員先生放開，然後原地跪下，否則我們將採取強制措施。	これは最後の警告です。ただちに分析員さんを解放し、その場で膝をついてください。命令に従わない場合、強制措置を取らせていただきます。	마지막 경고입니다. 분석가님을 풀어주고 그 자리에서 무릎을 꿇지 않으면 강제로라도 조치를 취하겠습니다.	Final warning. Let the Adjutant go and get down on your knees, or we will be forced to take coercive measures.						0	
+30	哦~那你们上来试试啊？	喔~那你們上來試試看？	へぇ。やれるもんならやってみなさいよ。	오~ 어디 한 번 해보시든가?	Oh~ I'd love to see you try.						0	
+31	……	……	……	…	...						0	
+32	望着被唬在原地的安全部干员，凯茜娅得意地朝我耳边吹了口气。	望著被唬在原地的安全部幹員，凱茜婭得意地朝我耳邊吹了口氣。	途方に暮れる安全部のオペレーターたちを眺めながら、彼女は得意げに私の耳元へ息を吹きかけた。	겁에 질린 안전부 요원을 보면서 캐시아는 도발하듯 내 귓가에 입김을 불었다.	As she looked at the scared security officer frozen in place, Katya smugly whispered into my ear.						0	
+33	喂，我的演技有进步吧？	喂，我的演技有進步吧？	どう？私の演技だって、ちゃんと進歩してるでしょ？	어때? 그래도 연기가 좀 늘은 것 같지 않아?	Hey, have I gotten better at acting?						0	
+34	那也只能骗骗安全部的人而已，如果是海姆达尔部队的……	那只能騙騙安全部的人而已，如果是海姆達爾部隊的……	安全部の人たちを騙すくらいならな。ヘイムダル部隊のみんなは……	그래봤자 안전부 요원이나 속일 수 있는 정도지, 헤임달 부대였다면…	Only enough to fool the Security Department. But if it was the Heimdall For—						0	
+35	凯茜娅你这条忘恩负义的臭毒蛇！给本小姐放开分析员！	凱茜婭你這條忘恩負義的臭毒蛇！給本小姐放開分析員！	カーシア！この恩知らずのヘビ女！分析員から今すぐ離れなさい！	캐시아, 이 배은망덕한 독뱀 같으니라고! 당장 분석가한테서 떨어져!	Katya, you ungrateful snake! I'm ordering you to let the Adjutant go!						0	
+36	芬妮小姐，请不要在这里开枪……这里的情况已经反馈给陶董，接下来交给我们处理就好……	芬妮小姐，請不要在這裡開槍…這裡的狀況已經回饋給τ董，接下來交給我們處理就好……	ファニーさん、ここで武器を使わないでください……この件はすでにτさんにも報告済みですから、ここは私たちに……	페니 씨, 이곳에서 총을 겨누시면 안됩니다… 여기 상황은 τ 이사님께 전달되었으니 나머진 저희에게 맡겨 주세요…	Miss Fenny, please don't start shooting here... Director τ has already been informed of the situation. We'll take care of this...						0	
+37	海姆达尔的？	海姆達爾的？	ヘイムダルのみんなって？	헤임달 사람이야?	What was that about the Heimdall Force?						0	
+38	……她除外。	……她除外。	……彼女以外ってこと。	… 페니는 예외야.	...She's the exception.						0	
+39	呵呵呵呵……	呵呵呵呵……	ふふふ……	하하하하… 	Heheheh...						0	
+40	也许是意识到自己占了上风，她竟顶着枪口又向前走了一步。	也許是意識到自己佔了上風，她竟然頂著槍口又向前走了一步。	自分が優位に立っていることを確信したのか、カーシアは自分に向けられている銃口を無視して、一歩前へと出た。	자신이 우위에 있다는 걸 깨달았는지, 그녀는 방아쇠를 향해 한 걸음 더 나아갔다.	Possibly after realizing she had the upper hand, she took another step forward with her gun drawn.						0	
+41	然后，抬头望向了屋顶的摄像头。	然後，抬頭望向了屋頂的攝影機。	そして、天井のカメラを見上げた。	그리고 나서 고개를 들어 옥상의 카메라를 바라본다.	She then looked up at the security camera on the ceiling.						0	
+42	好了，好了，我也不想惹麻烦，只是想要出去逛逛而已。	好了，好了，我也不想惹麻煩，只是想要出去逛逛而已。	いい？私だって面倒事を起こしたいわけじゃないの。ただ外出がしたいだけなのよ。	좋아, 좋아, 나도 사고를 치고 싶진 않아, 그냥 좀 바람 좀 쐬러 나가고 싶었을 뿐이야.	Alright, alright. I don't want to cause any trouble. I just wanted to go out for a bit.						0	
+43	给我半个小时，我保证会老老实实带着他回到这里接受处罚。	給我半小時，我保證會老實帶他回到這裡接受懲罰。	30分だけでいいの。30分経ったら、この人と大人しく帰って来るって約束する。その時は、どんな罰も甘んじて受けるわ。	내게 30분만 주면 군말 없이 그를 여기 데려와서 벌 받게 할게.	Give me half an hour — I promise I'll bring him right back here and face my punishment.						0	
+44	没问题吧，老板。	沒問題吧，老闆。	いいでしょ？ボス。	그렇게해도 괜찮죠, 대표님?	It's gonna be fine, Boss.						0	
+45	对方的需求似乎很明确。	對方的需求似乎很明確。	向こうの目的はかなり単純なもののようですが。	그녀의 요구가 더 명확해진 것 같네요.	Her demands seem clear.						0	
+46	确实，但这如同小孩子一般的把戏实在是过于幼稚。	確實，但這如同小孩子一般的把戲實在是過於幼稚。	そうですね。行為自体は、かなり幼稚で悪ふざけが過ぎると言わざるを得ませんが。	응, 하지만 이건 너무 어린애 마냥 유치한 장난처럼 보이는군.	Yes, but this little trick is completely juvenile.						0	
+47	那要让安全部继续行动吗？	那要讓安全部繼續行動嗎？	では、このまま安全部に任せますか？	그럼 안전부에게 계속 진행하라 할까요?	Should we have the Security Department handle it then?						0	
+48	这次就依她吧，有playername看着也没什么问题。	這次就依她吧，有playername看著也沒什麼問題。	今回は要求に応じましょう。playernameがついていれば、大した問題にはならないと思いますし。	캐시아 뜻대로 하게 냅둬. playername도 별문제 없어 보이니까.	Just follow her. There won't be any problems with playername there.						0	
+49	我还有更重要的事情要处理，等他们回来再说。	我還有更重要的事情要處理，等他們回來再說。	もっと大事な仕事が私を待っています。この件はひとまず、お二人が帰って来るまで保留としましょう。	난 이보다 더 중요한 일을 처리해야 해서. 저들이 돌아오면 다시 보도록 하지.	I have more important things to deal with. I'll take care of it when they get back.						0	
+50	明白。	明白。	わかりました。	알겠습니다.	Understood.						0	

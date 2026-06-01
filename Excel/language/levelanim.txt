@@ -1,0 +1,162 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+level00ep01_boss_name	海拉	0	
+level00ep01_boss_desc	自始祖泰坦头部降生	0	
+level00ep01_scence_name	逃生舱降落地	0	
+level00ep01_scence_desc	深水区城区	0	
+level0108ep01_boss_name	二型验证机甲	0	
+level0108ep01_boss_desc	被盗的世界树重机甲	0	
+level0108ep01_scence_name	广场	0	
+level0108ep01_scence_desc	缓冲区北部外围	0	
+level0212ep01_boss_name	波伏娃13	0	
+level0212ep01_boss_desc	人工智能傀儡系统	0	
+level0212ep01_scence_name	布里希嘉曼	0	
+level0212ep01_scence_desc	散布污染的神秘装置	0	
+level0312ep01_boss_name	“野牛”约瑟夫	0	
+level0312ep01_boss_desc	郊狼机甲部队教官	0	
+level0312ep01_scence_name	“狼王”领地	0	
+level0312ep01_scence_desc	缓冲区第三隔离墙	0	
+level0412ep01_boss_name	尤弥尔	0	
+level0412ep01_boss_desc	始祖泰坦	0	
+level0412ep01_scence_name	高楼顶部	0	
+level0412ep01_scence_desc	污染区第三隔离墙附近	0	
+level0512ep01_boss_name	加文	0	
+level0512ep01_boss_desc	降临团净化官	0	
+level0512ep01_scence_name	地下讲坛	0	
+level0512ep01_scence_desc	缓冲区降临团领地	0	
+level0612ep01_boss_name	海拉	0	
+level0612ep01_boss_desc	自始祖泰坦头部降生	0	
+level0612ep01_scence_name	高架桥下	0	
+level0612ep01_scence_desc	污染区城区	0	
+level0712ep01_boss_name	萨特	0	
+level0712ep01_boss_desc	降临团主事	0	
+level0712ep01_scence_name	英灵之路	0	
+level0712ep01_scence_desc	天楼降临团仪式场所	0	
+level0812ep01_boss_name	刻耳柏洛斯	0	
+level0812ep01_boss_desc	逐光者首领无人机	0	
+level0812ep01_scence_name	楼间平台	0	
+level0812ep01_scence_desc	缓冲区天楼高区	0	
+level0912ep01_boss_name	“秃鹫”爱思特	0	
+level0912ep01_boss_desc	郊狼激进派代表	0	
+level0912ep01_scence_name	庚号大门前	0	
+level0912ep01_scence_desc	缓冲区外围隔离墙	0	
+level1012ep01_boss_name	尤弥尔	0	
+level1012ep01_boss_desc	始祖泰坦	0	
+level1012ep01_scence_name	高楼顶部	0	
+level1012ep01_scence_desc	深水区泰坦城	0	
+leveldlc1ep01_boss_name	未知泰坦	0	
+leveldlc1ep01_boss_desc	降临于明灯节的灾祸	0	
+leveldlc1ep01_scence_name	燃灯台	0	
+leveldlc1ep01_scence_desc	泰古通达零区分部	0	
+leveldlc2ep01_boss_name	威尔·安德森	0	
+leveldlc2ep01_boss_desc	跳棋小队队长	0	
+leveldlc2ep01_scence_name	核心实验室	0	
+leveldlc2ep01_scence_desc	深水区第五研究所	0	
+leveldlc3ep01_boss_name	透墨索斯	0	
+leveldlc3ep01_boss_desc	派对型机器人	0	
+leveldlc3ep01_scence_name	遗迹区	0	
+leveldlc3ep01_scence_desc	雅卢岛	0	
+leveldlc4ep01_boss_name	约瑟夫·顽骨	0	
+leveldlc4ep01_boss_desc	炽灼燃烧的郊狼教官	0	
+leveldlc4ep01_scence_name	奥斯维尔钢铁厂	0	
+leveldlc4ep01_scence_desc	罹难者峡谷	0	
+leveldlc5ep01_boss_name	尼亚尔	0	
+leveldlc5ep01_boss_desc	赫瓦雷纳的刽子手	0	
+leveldlc5ep01_scence_name	纪念碑前	0	
+leveldlc5ep01_scence_desc	巴伦支仪器地堡	0	
+leveldlc5ep02_boss_name	凯茜娅·克莱因	0	
+leveldlc5ep02_boss_desc	再度出现的佣兵	0	
+leveldlc5ep02_scence_name	舞会大厅	0	
+leveldlc5ep02_scence_desc	奥尔洛夫公馆	0	
+leveldlc6ep01_boss_name	耶洛沙之泪	0	
+leveldlc6ep01_boss_desc	悬于雪原的泰坦	0	
+leveldlc6ep01_scence_name	发射塔内	0	
+leveldlc6ep01_scence_desc	苏兹达尔火箭基地	0	
+leveldlc7ep01_boss_name	二律背反的盟约	0	
+leveldlc7ep01_boss_desc	纯白哀歌	0	
+leveldlc7ep01_scence_name	永恒乐土	0	
+leveldlc7ep01_scence_desc	零区地下	0	
+leveldlc8ep01_boss_name	派·纯净	0	
+leveldlc8ep01_boss_desc	盗星者	0	
+leveldlc8ep01_scence_name	崩塌世界	0	
+leveldlc8ep01_scence_desc	汉诺塔内	0	
+leveldlc9ep01_boss_name	初诞的沃坦	0	
+leveldlc9ep01_boss_desc	神之暗面	0	
+leveldlc9ep01_scence_name	城心	0	
+leveldlc9ep01_scence_desc	新恒提罗	0	
+leveldlc10ep01_boss_name	极夜幽影	0	
+leveldlc10ep01_boss_desc	沉醉的伪神	0	
+leveldlc10ep01_scence_name	观景大厅	0	
+leveldlc10ep01_scence_desc	沉没的离岛	0	
+leveldlc11ep01_boss_name	尘白恶魔号	0	
+leveldlc11ep01_boss_desc	立于乐园之上	0	
+leveldlc11ep01_scence_name	坎达舞台	0	
+leveldlc11ep01_scence_desc	奥丽拉水上乐园	0	
+leveldlc12ep01_boss_name	玉节天龙	0	
+leveldlc12ep01_boss_desc	逃脱的造物	0	
+leveldlc12ep01_scence_name	禺谷	0	
+leveldlc12ep01_scence_desc	北庭卫	0	
+leveldlc13ep01_boss_name	食夜影兽	0	2.4版本boss登场名牌
+leveldlc13ep01_boss_desc	具象的恐惧	0	2.4版本boss登场名牌
+leveldlc13ep01_scence_name	地下洞窟	0	2.4版本boss登场名牌
+leveldlc13ep01_scence_desc	北庭卫	0	2.4版本boss登场名牌
+leveldlc14ep01_boss_name	舍塔无正觉	0	2.5版本boss登场名牌
+leveldlc14ep01_boss_desc	悲忿双形	0	2.5版本boss登场名牌
+leveldlc14ep01_scence_name	两仪密室	0	2.5版本boss登场名牌
+leveldlc14ep01_scence_desc	北庭卫	0	2.5版本boss登场名牌
+leveldlc15ep01_boss_name	墨菲斯·徒花	0	2.6版本boss登场名牌
+leveldlc15ep01_boss_desc	盛放凋零	0	2.6版本boss登场名牌
+leveldlc15ep01_scence_name	花海	0	2.6版本boss登场名牌
+leveldlc15ep01_scence_desc	16区	0	2.6版本boss登场名牌
+leveldlc16ep01_boss_name	海底观测者	0	2.7版本boss登场名牌
+leveldlc16ep01_boss_desc	迷途的技术奇点	0	2.7版本boss登场名牌
+leveldlc16ep01_scence_name	海底试验场	0	2.7版本boss登场名牌
+leveldlc16ep01_scence_desc	卡戎海上平台	0	2.7版本boss登场名牌
+leveldlc17ep01_boss_name	噬孽机·卡律布狄斯	0	2.8版本boss登场名牌
+leveldlc17ep01_boss_desc	万物尽噬	0	2.8版本boss登场名牌
+leveldlc17ep01_scence_name	跨海大桥	0	2.8版本boss登场名牌
+leveldlc17ep01_scence_desc	前端小镇	0	2.8版本boss登场名牌
+leveldlc18ep01_boss_name	文明守护者	0	3.0版本boss登场名牌
+leveldlc18ep01_boss_desc	最终防线	0	3.0版本boss登场名牌
+leveldlc18ep01_scence_name	地下书库	0	3.0版本boss登场名牌
+leveldlc18ep01_scence_desc	卫城学院	0	3.0版本boss登场名牌
+leveldlc19ep01_boss_name	米拉·猩红武装	0	3.1版本boss登场名牌
+leveldlc19ep01_boss_desc	血缘的棘轮	0	3.1版本boss登场名牌
+leveldlc19ep01_scence_name	血月庭院	0	3.1版本boss登场名牌
+leveldlc19ep01_scence_desc	吉诺拉庄园	0	3.1版本boss登场名牌
+leveldlc20ep01_boss_name	SpH-L12	0	3.2版本boss登场名牌
+leveldlc20ep01_boss_desc	万念畸变之种	0	3.2版本boss登场名牌
+leveldlc20ep01_scence_name	怪诞大厅	0	3.2版本boss登场名牌
+leveldlc20ep01_scence_desc	熙澜海综合体	0	3.2版本boss登场名牌
+leveldlc00ep01_boss_name	尤弥尔	0	新序章boss登场名牌
+leveldlc00ep01_boss_desc	始祖泰坦	0	新序章boss登场名牌
+leveldlc00ep01_scence_name	模拟战场	0	新序章boss登场名牌
+leveldlc00ep01_scence_desc	模拟空间	0	新序章boss登场名牌
+leveldlc00ep02_boss_name	埃吉尔	0	新序章boss登场名牌
+leveldlc00ep02_boss_desc	洋流与风暴之泰坦	0	新序章boss登场名牌
+leveldlc00ep02_scence_name	北庭卫	0	新序章boss登场名牌
+leveldlc00ep02_scence_desc	朔州地区	0	新序章boss登场名牌
+leveldlc21ep01_boss_name	起源物种	0	3.3版本boss登场名牌
+leveldlc21ep01_boss_desc	前途未卜之惧	0	3.3版本boss登场名牌
+leveldlc21ep01_scence_name	歧路宇宙	0	3.3版本boss登场名牌
+leveldlc21ep01_scence_desc	新恒提罗	0	3.3版本boss登场名牌
+leveldlc21ep02_boss_name	起源物种·进化之终	0	3.3版本boss登场名牌
+leveldlc21ep02_boss_desc	穷途末路之怖	0	3.3版本boss登场名牌
+leveldlc21ep02_scence_name	歧路宇宙	0	3.3版本boss登场名牌
+leveldlc21ep02_scence_desc	新恒提罗	0	3.3版本boss登场名牌
+leveldlc22ep01_boss_name	西西弗斯	0	3.4版本boss登场名牌
+leveldlc22ep01_boss_desc	众神之末	0	3.4版本boss登场名牌
+leveldlc22ep01_scence_name	燃烧之海	0	3.4版本boss登场名牌
+leveldlc22ep01_scence_desc	耶洛沙	0	3.4版本boss登场名牌
+leveldlc23ep01_boss_name	阿帕忒	0	3.5版本boss登场名牌
+leveldlc23ep01_boss_desc	欺世的佞舌	0	3.5版本boss登场名牌
+leveldlc23ep01_scence_name	虚妄之庭	0	3.5版本boss登场名牌
+leveldlc23ep01_scence_desc	罗森兰	0	3.5版本boss登场名牌
+leveldlc24ep01_boss_name	神座·狐相	0	3.6版本boss登场名牌
+leveldlc24ep01_boss_desc	万物枢纽	0	3.6版本boss登场名牌
+leveldlc24ep01_scence_name	极深天穹	0	3.6版本boss登场名牌
+leveldlc24ep01_scence_desc	罗森兰	0	3.6版本boss登场名牌
+leveldlc25ep01_boss_name	苏菲	0	3.7版本boss登场名牌
+leveldlc25ep01_boss_desc	最后的接引使	0	3.7版本boss登场名牌
+leveldlc25ep01_scence_name	圣堂	0	3.7版本boss登场名牌
+leveldlc25ep01_scence_desc	零区中心	0	3.7版本boss登场名牌

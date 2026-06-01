@@ -1,0 +1,12 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	唉，真没意思。	唉，真沒意思。	はぁ、退屈ね。	쳇, 재미없어.	Hmph. How boring.						0	
+page1.2	最近的新歌充斥着重复的旋律、浮夸的编曲和无病呻吟。	最近的新歌充斥著重複的旋律、浮誇的編曲和無病呻吟。	最近の新曲はどれもありがちなリズムに大げさな編曲、中身のない歌詞ばっかり。	최근에 발매된 곡들은 죄다 반복된 멜로디에 과장된 편곡의 노래밖에 없어.	Recently, new songs are all full of repetitive melodies, dramatic arrangements, and sentimental fluff.						0	
+page1.3	真不知道是什么人在批量生产这些流水线垃圾。	真不知道是什麼人在大量生產這些流水線垃圾。	一体どこの誰がこんなゴミを量産してるのかしら。	대체 누가 이런 양산형 쓰레기들을 찍어내는지.	I really have no idea who's mass-producing this cookie-cutter trash.						0	
+page1.4	大概是被降临事件影响了吧，电影和游戏产业似乎也没什么起色。	大概是被降臨事件影響了吧，電影和遊戲產業似乎也沒什麼起色。	降臨事件の影響かもしれないな。映画もゲームも、長らく注目されるような作品が出なくなったし。	아마 강림 사건의 여파때문이 아닐까? 영화나 게임 산업도 별다른 기색이 없는 걸 보면.	The film and gaming industries seem to have slowed down — probably due to the impact of the Descent.						0	
+page1.5	我看安卡希雅也整天都在吐槽新游戏无聊。	我看安卡希雅也整天都在吐槽新遊戲無聊。	アカシアも一日中新作ゲームの文句を言ってるよ。	아카시아도 온종일 새로 출시한 게임이 지루하다고 불평하고 있는 것 같던데.	Acacia complains about how boring new games are all day long.						0	
+page1.6	呵，我看是因为公司的手伸得越来越长了。	呵，我看是因為公司的手伸得越來越長了。	ふん……どうせユグドラシルの手が入ったせいよ。	내가 봤을 땐 회사가 개입하는 게 많아서 그렇지 않을까 싶네.	Heh, I think it's because the company's reach is growing further and further.						0	
+page1.7	音乐，偶像，游戏，全都是包装好的商品，哪还有创作者的想法？	音樂，偶像，遊戲，全都是包裝好的商品，哪還有創作者的想法？	音楽、アイドル、ゲーム。どれをとっても無難に取り繕われたものばかりで、クリエイターの魂なんて少しも宿ってないんだから。	음악, 아이돌, 게임… 죄다 찍어내는 건데 창작자의 생각이 담겨 있을리 없지.	Music, idols, and games are all pre-packaged products. There's no way to identify the creator's original intentions, right?						0	
+page1.8	喂，你可是还在被禁足的状态。	喂，你可是還在被禁足的狀態。	おいおい、一応まだ謹慎中なんだからな。	아직 네가 외출 금지 신분이라는 걸 잊지 않았으면 좋겠어.	Hey, don't forget you're still under house arrest.						0	
+page1.9	要是因为说公司坏话被抓到了，我可没什么办法。	要是因為說公司壞話被抓到了，我可沒什麼辦法。	会社の悪口を言ってるのがバレたりしたら、さすがにもう庇ってやれないぞ。	회사 뒷담화를 치다가 걸리면 나도 도와줄 방법이 없으니까.	If they catch you talking bad about the company, I can't do anything to help you.						0	
+page1.10	嘁，知道了，那和我回房间去说。	嘁，知道了，那和我回房間去說。	ちぇ、分かったわよ。だったら部屋に来て。愚痴の続きを聞いて貰うから。	쳇, 알겠어, 그럼 나랑 같이 방에 돌아가서 얘기하자.	Yeah, yeah, I got it. Then come back to my room with me so we can talk about it.						0	

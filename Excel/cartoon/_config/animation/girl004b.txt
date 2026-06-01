@@ -1,0 +1,8 @@
+Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	持枪站立	sequence	girl004b_ui_stand01	AnimSequence'/Game/Characters/Girl/girl004b/Anim/girl004b_UI_stand01.girl004b_ui_stand01'	
+					
+					
+100	一次思考	custom_seq	10;11;12		
+101	思考循环	custom_loop_last	10;11		
+102	喝咖啡随后吧台坐	custom_loop_last	16;4		

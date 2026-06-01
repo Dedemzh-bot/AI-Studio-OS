@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	喂？正在试音，请问听得到吗？	喂？正在試音，請問聽得到嗎？	もしもし、接続テストをしています。ちゃんと聞こえますか？	여보세요? 마이크 테스트 중인데, 잘 들리시나요?	Hello? Testing, testing... Can you hear me now?						0	
+2	信号没问题。	訊號沒問題。	聞こえてる。	신호는 문제없는 것 같아.	There's no issue with the signal.						0	
+3	很好，看来近程通讯没有问题。接下来还会测试远程通讯。	很好，看來近端通訊沒有問題。接下來還會測試遠端通訊。	よかった、近距離通信に異常なし。後ほど遠距離通信も確認してみます。	좋아요. 근거리 통신은 확인됐으니, 원거리 통신 테스트를 한번 해볼게요.	Short-range communications appear to be unaffected. Now, let's test long-distance communications.						0	

@@ -1,0 +1,58 @@
+﻿字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	zh_CN	disable	Remark
+			
+			
+TxtCMgirl20a_02_loopA01	分析员可以一边忙工作，一边和卜卜通话哦。		
+TxtCMgirl20a_02_loopA02	卜卜穿这套衣服……可爱吗？		
+TxtCMgirl20a_02_loopA03	漫画里的魔法少女总是会去拯救世界呢，但卜卜不想拯救世界，只想陪着分析员。		
+TxtCMgirl20a_02_loopA04	嘿嘿，卜卜手上的羽毛笔实际上是魔杖哦~		
+TxtCMgirl20a_02_loopA05	以这样的方式和分析员共度时光，总觉得还挺有趣的。		loop随机文本
+TxtCMgirl20a_02_loopA06	是不是忍不住想找卜卜聊天呢？		loop随机文本
+TxtCMgirl20a_02_loopA07	软软的床榻，很适合两个人一起躺在这里呢。		loop随机文本
+TxtCMgirl20a_02_loopA08	在分析员眼皮子底下，卜卜都不敢偷懒了呢。		loop随机文本
+TxtCMgirl20a_02_loopA09	虽然分析员就在眼前，但还是忍不住会想你呢。		
+TxtCMgirl20a_02_loopA10	现在的氛围，嘿，刚刚好~		
+TxtCMgirl20a_02_loopA11	在这里学习，会比在房间里更惬意些吧？		
+TxtCMgirl20a_02_loopA12	无聊的话，就和卜卜说会话吧。		
+TxtCMgirl20a_02_loopA13	分析员累了的话，也可以稍稍休息一会哦。		
+TxtCMgirl20a_02_loopA_key01	听说有些人会把毯子当做飞行工具，那卜卜的被褥是不是也可以……		1-飞行解锁
+TxtCMgirl20a_02_loopA_key02	擅长占卜的魔法少女很少见呢，可巧，可巧，卜卜就是最特别的那一种，占卜、战斗两不误！		2-占卜话题解锁
+TxtCMgirl20a_02_loopA_key03	偶尔，也会有“想多独占分析员一会”的想法呢。		3-黑暗解锁
+TxtCMgirl20a_02_loopA_key04	掌握元素魔法后，是不是能省下一些水电费呢？		4-元素解锁
+TxtCMgirl20a_02_loopA_key05	既然喝剩的咖啡渣可以用来占卜，那以后干脆把煮过的中药也留下来观察观察。		5-占卜话题解锁
+TxtCMgirl20a_02_loopA_key06	在没有慎重思考前，可不要轻易尝试怪奇派的新产品哦。		6-怪奇派解锁
+TxtCMgirl20a_02_loopB01	啊呜……眼皮怎么越来越沉了……		
+TxtCMgirl20a_02_loopB02	诶？我刚才怎么……怎么睡着了！		
+TxtCMgirl20a_02_loopB03	唔……卜卜可没有偷懒哦！分析员什么都没看到！		
+TxtCMgirl20a_02_loopA_SC01	今天的天气真好呢，太阳晒在身上，暖烘烘的。		
+TxtCMgirl20a_02_loopA_SC02	要不要给自己设计几句变身时的口号呢……		
+TxtCMgirl20a_02_loopA_SC03	变身的时候，一定要大声喊出来吗？总觉得有些丢脸……		
+TxtCMgirl20a_02_loopA_SC04	啊呜……这本书，字好多……		
+TxtCMgirl20a_02_loopA_SC05	嗯~难得找了个这么悠闲的地方呢。		
+TxtCMgirl20a_02_loopA_SC06	诶？嗯……嘿嘿。		
+TxtCMgirl20a_02_loopA_SC07	凉爽的风里，有淡淡的花香呢。		
+			
+			
+			
+TxtCMgirl20a_02_hangup5_101	这么快就要挂电话吗？真的不能再聊一会吗？		五分钟以内结束1
+TxtCMgirl20a_02_hangup5_102	唔……好吧，分析员再见。		五分钟以内结束1
+TxtCMgirl20a_02_hangup5_201	既然分析员还有事要忙，那卜卜就不给你添乱了，分析员拜拜~		五分钟以内结束2
+TxtCMgirl20a_02_hangup30_101	有点舍不得挂电话呢，等分析员不忙了，一定要再打给卜卜哦~		半小时以内结束
+TxtCMgirl20a_02_hangup1h_101	唔，卜卜还有好多话想跟你说呢。不过，放到下次或许也不错。		挂机超一小时1
+TxtCMgirl20a_02_hangup1h_102	那今天就先说拜拜咯~		挂机超一小时1
+TxtCMgirl20a_02_hangup12h_101	不知不觉，时间都过去这么久了呀……		挂机超过12小时1
+TxtCMgirl20a_02_hangup12h_102	但一直独占分析员，是坏孩子的行为吧。		挂机超过12小时1
+TxtCMgirl20a_02_hangup12h_103	卜卜果然不能那么自私，还是跟分析员说再见吧。		挂机超过12小时1
+TxtCMgirl20a_02_hangup12h_104	没说完的话，就……留到下次，嘿嘿~		挂机超过12小时1
+			
+			
+			
+TxtCMgirl20a_02_clock01	分析员今天有什么计划吗？		提问1
+TxtCMgirl20a_02_clock02	都交给卜卜吧~卜卜一定帮你安排的明明白白！		提问2
+TxtCMgirl20a_02_clock03	到吃饭时间啦，今天的饭后甜点，是卜卜哟~		提醒吃饭
+TxtCMgirl20a_02_clock04	分析员，到你该出门的时间啦，记得早点回来，卜卜会在家想你的。		提醒出门
+TxtCMgirl20a_02_clock05	差不多要开始工作咯，结束之后，卜卜会帮分析员好好放松一下的。		提醒工作
+TxtCMgirl20a_02_clock06	分析员，到运动的时间啦，要像卜卜一样活力满满哦。		提醒运动
+TxtCMgirl20a_02_clock07	该开始学习啦~快和卜卜一起，把知识装进脑子里。		提醒学习
+TxtCMgirl20a_02_clock08	分析员~是时候按照计划行动了哦~		自定义提醒1
+TxtCMgirl20a_02_clock09	时间到了，分析员~卜卜的提醒是不是很及时？		自定义提醒2

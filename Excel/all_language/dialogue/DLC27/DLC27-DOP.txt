@@ -1,0 +1,84 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	格拉尼灵蹄遭到攻击！\n格拉尼灵蹄遭到攻击！	格拉尼靈蹄遭到攻擊！\n格拉尼靈蹄遭到攻擊！	こちらグラニ「アルスヴィズ」、攻撃を受けました！\nこちらグラニ「アルスヴィズ」、攻撃を受けました！	그라니 소울 후프가 공격당했습니다!\n그라니 소울 후프가 공격당했습니다!	Grani "Swiftfoot" is under attack!\nGrani "Swiftfoot" is under attack!						0	2.7版本异绪消解活动引入剧情
+2	通讯失联……暂时无法联系到总部……	通訊失聯……暫時無法聯絡到總部……	通信が途切れたか……しばらく本部とは連絡が取れないみたい……	통신이 끊겼습니다… 본부와 연락할 수 없습니다…	Communication lost... We're temporarily unable to contact headquarters...						0	2.7版本异绪消解活动引入剧情
+3	分析员！你还好吗？	分析員！你還好嗎？	分析員さん！大丈夫ですか？	분석가님! 괜찮으세요?	Adjutant, are you alright?						0	2.7版本异绪消解活动引入剧情
+4	我、我们的装甲车被击中了！	我、我們的裝甲車被擊中了！	わ、私たちの装甲車が被弾しています！	저, 저희 장갑차가 습격받았어요!	O—Our armored vehicle was hit!						0	2.7版本异绪消解活动引入剧情
+5	……	……	……	…	...						0	2.7版本异绪消解活动引入剧情
+6	呼吸有些紊乱！分析员——	呼吸有點紊亂！分析員——	呼吸が粗い！分析員さん——	호흡이 조금 불안정해요! 분석가님…	Erratic breathing! Adjutant—						0	2.7版本异绪消解活动引入剧情
+7	看来……	看來……	どうやら……	그렇다면…	I think...						0	2.7版本异绪消解活动引入剧情
+8	是时候要做人工呼吸了……	是時候要做人工呼吸了……	そろそろ人工呼吸が必要かも……	이제 인공호흡을 할 차례인가요…	It's time for some mouth-to-mouth resuscitation...						0	2.7版本异绪消解活动引入剧情
+b-1											0	2.7版本异绪消解活动引入剧情
+9	偷偷戳一下傻笑的薇蒂雅	偷偷戳一下傻笑的薇蒂雅	こっそりニヤけているヴィディアを指でつつく	멍하니 웃는 비디야를 몰래 찌른다	Stealthily poke giggling Vidya						0	2.7版本异绪消解活动引入剧情
+10	（薇蒂雅，我记得好像没有这一段戏吧。）	（薇蒂雅，我記得好像沒有這一段戲吧。）	（ヴィディア、そんなシーンはなかったはずだけど。）	(비디야, 이런 장면은 없었던 것 같은데?)	(Vidya, I don't recall this scene being in the script.)						0	2.7版本异绪消解活动引入剧情
+11	（临场发挥一下嘛~这么危机的关头肯定要有一些激情戏份。）	（臨場發揮一下嘛~這種危險關頭一定要有一些激情戲份。）	（アドリブですよ！こんな危機的状況なら、ちょっとくらいロマンスも入れないと。）	(애드리브죠~ 이런 위기의 순간에 격정적인 장면이 좀 나와줘야 하니까요.)	(Just adding a little improvisation~ In such a critical scene, we definitely need some passion.)						0	2.7版本异绪消解活动引入剧情
+12	（总感觉是某个人故意加的戏……）	（總感覺是某個人故意加的戲……）	（誰かがわざと盛ってる気がする……）	(왠지 누가 일부러 이런 장면을 추가한 것 같은데…)	(I have a feeling you planned to add this all along...)						0	2.7版本异绪消解活动引入剧情
+13	太好了！分析员你终于醒了！	太好了！分析員你終於醒了！	やっと目を覚ましましたね、分析員さん！	다행이에요! 분석가님, 드디어 깨어나셨군요!	Wonderful! Adjutant, you're finally awake!						0	2.7版本异绪消解活动引入剧情
+14	是我！龙舌兰，您最亲爱的秘书兼爱人！	是我！龍舌蘭，您最親愛的秘書兼愛人！	私です！あなたの愛する秘書で、恋人のアガベです！	저예요, 아가베! 당신이 가장 사랑하는 비서이자 연인이요!	It's me! Agave, your beloved secretary and sweetheart!						0	2.7版本异绪消解活动引入剧情
+15	刚刚……发生了什么？	剛剛……發生了什麼？	さっき……何があったんだ？	방금… 무슨 일이 있었던 거지?	Wh—What... happened?						0	2.7版本异绪消解活动引入剧情
+16	有一批情绪投影偷袭了我们所乘坐的格拉尼灵蹄，您为了在爆炸中保护我，不慎陷入昏迷。	有一批情緒投影偷襲了我們所乘坐的格拉尼靈蹄，您為了在爆炸中保護我，不慎陷入昏迷。	私たちの乗っていたグラニ「アルスヴィズ」が感情ノ陰に襲撃されて爆発……分析員さんは私をかばって、さっきまで意識を失っていたのです。	감정의 투영들이 우리가 타고 있던 그라니 소울 후프를 습격했어요. 분석가님은 폭발 속에서 저를 지키다가 정신을 잃으셨고요.	A group of emotional projections ambushed our Grani Swiftfoot, and you lost consciousness while shielding me from the explosion.						0	2.7版本异绪消解活动引入剧情
+17	袭击者已经被我们击退，现在情况暂时安全，就是您……	襲擊者已經被我們擊退，現在情況暫時安全，但是您……	敵はもう片付けましたので、ひとまず安全ですが、分析員さんのことが心配で……	습격자는 모두 쓰러뜨렸고, 지금은 상황이 잠시나마 안정됐어요. 다만, 분석가님이…	We've driven back the attackers for now, but you...						0	2.7版本异绪消解活动引入剧情
+18	放心，我现在没什么大碍。	放心，我現在沒什麼大礙。	私なら大丈夫だ。	걱정 마, 난 괜찮아.	Don't worry. I'm okay now.						0	2.7版本异绪消解活动引入剧情
+19	您没事就好……	您沒事就好……	よかったです……	괜찮다니 다행이네요…	I'm so relieved you're alright...						0	2.7版本异绪消解活动引入剧情
+20	自从三年前那些潜藏在地壳中情绪投影怪物复苏，人类文明已经在崩溃的边缘。	自從三年前那些潛藏在地殼中情緒投影怪物復甦，人類文明已經在崩潰的邊緣。	三年前、地殻の奥に潜んでいた感情ノ陰が復活してから、人類文明は崩壊の縁に立たされています。	3년 전, 지각 속에 숨어 있던 감정의 투영 괴물들이 부활한 이후, 인류의 문명은 붕괴 직전까지 몰렸어요.	Ever since these emotional projection monsters awakened from deep within the earth's crust three years ago, human civilization has been teetering on the edge of collapse.						0	2.7版本异绪消解活动引入剧情
+21	常规武器对他们没有任何效果，唯有分析员您所统领的海姆达尔部队才能击败它们。	常規武器對他們沒有任何效果，唯有分析員您所統領的海姆達爾部隊才能擊敗它們。	普通の武器は通用しないから、感情ノ陰を倒せるのは、分析員さん率いるヘイムダル部隊だけです。	일반적인 무기는 그들에게 아무런 효과도 없었고, 오직 분석가님이 이끄는 헤임달 부대만이 그들을 쓰러뜨릴 수 있었죠.	Regular weapons have no effect on them. Only the Heimdall Force under your command can defeat these creatures.						0	2.7版本异绪消解活动引入剧情
+22	我……真的不敢想象失去您的世界……	我……真的不敢想像失去您的世界……	あなたを失った世界なんて、想像もしたくありません……	전… 분석가님이 없는 세상은 정말 상상도 못 해요…	I... I can't bear to imagine a world without you...						0	2.7版本异绪消解活动引入剧情
+23	所以下次……请多依靠些我，好吗？	所以下次……請多依靠我一點，好嗎？	ですから……これからは、もっと私に頼ってほしいのです。	그러니까 다음엔… 좀 더 저한테 의지해 주세요, 네?	So... please rely on me more, won't you?						0	2.7版本异绪消解活动引入剧情
+24	带着泪花的少女微笑着，向我伸出了手。	帶著淚花的少女微笑著，向我伸出了手。	涙を浮かべた少女は、微笑みながら、私に手を差し伸べた。	눈가에 눈물이 맺힌 소녀가 미소를 지으며 내게 손을 내밀었다.	The girl, eyes glistening with tears, smiled and reached out to me.						0	2.7版本异绪消解活动引入剧情
+b-2											0	2.7版本异绪消解活动引入剧情
+25	抓住龙舌兰的手	抓住龍舌蘭的手	アガベの手を握る	아가베의 손을 잡는다	Grab Agave's hand						0	2.7版本异绪消解活动引入剧情
+26	我缓缓眺向远方，废墟堆砌的城市之中，巨大的情绪怪物若隐若现。	我緩緩眺望遠方，廢墟堆砌的城市之中，巨大的情緒怪物若隱若現。	遠くへ視線を送ると、廃墟となった都市に、巨大な感情ノ陰が姿を現した。	나는 천천히 먼 곳을 바라보았다. 폐허가 된 도시 한가운데, 거대한 감정 괴물이 희미하게 모습을 드러내고 있었다.	I gazed into the distance, where massive monsters born from emotional projections loomed among the ruins of the city.						0	2.7版本异绪消解活动引入剧情
+27	继续出发吧，龙舌兰，我们还有很多使命。	繼續出發吧，龍舌蘭，我們還有很多使命。	行こう、アガベ。まだ私たちには果たすべき使命がある。	출발하자, 아가베. 임무를 마저 완료해야지.	Let's continue our journey, Agave. We still have many missions.						0	2.7版本异绪消解活动引入剧情
+28	嗯！	嗯！	ええ！	네!	Okay!						0	2.7版本异绪消解活动引入剧情
+29	分析员清楚，作为自己最亲爱的秘书兼爱人的龙舌兰，会在背后永远支持着自己。	分析員清楚，作為自己最親愛的秘書兼愛人的龍舌蘭，會在背後永遠支持著自己。	最愛の秘書であり、恋人でもあるアガベが、これからもずっと自分の隣で支えてくれる。分析員はそう信じている。	분석가는 알고 있었다. 자신이 가장 사랑하는 비서이자 연인인 아가베는 항상 뒤에서 자신을 지지하고 있었다.	The Adjutant knew that Agave, as his secretary and sweetheart, would always be by his side.						0	2.7版本异绪消解活动引入剧情
+30	共度这场危机之后，分析员和龙舌兰之间的距离更近了。	共度這場危機之後，分析員和龍舌蘭之間的距離更近了。	この危機を共に乗り越えたことで、二人の絆はより深まった。	이 위기를 함께 겪은 후, 분석가와 아가베의 거리는 더욱 가까워졌다.	After overcoming this crisis together, the bond between the Adjutant and Agave grew even stronger.						0	2.7版本异绪消解活动引入剧情
+31	薇蒂雅，我委托你拍摄的《异绪消解》开场剧情是不是……发挥的有点太多了？	薇蒂雅，我委託你拍攝的《異緒消解》開場劇情是不是……發揮得有點太多了？	ヴィディア、頼んでおいた【Odd Crush】のオープニングだけど、ちょっと盛りすぎでは？	비디야, 제가 촬영을 부탁한 <감정 해소>의 인트로 영상이… 좀 과한 것 같은데요?	Vidya, the opening for "Emotional Purge" that I asked you to film seems... a bit too improvised?						0	2.7版本异绪消解活动引入剧情
+32	嘿嘿，都怪分析员太帅了嘛，所以才忍不住加一些小小的戏份。	嘿嘿，都怪分析員太帥了嘛，所以才忍不住加一些小小的戲份。	へへっ、分析員さんがカッコよすぎて、ついアレンジしちゃいました。	헤헤, 분석가님이 너무 멋있잖아요. 그래서 저도 모르게 살짝 연출을 추가해 버렸어요.	Hehe, the Adjutant's too handsome — I couldn't help but add some extra scenes.						0	2.7版本异绪消解活动引入剧情
+33	顺便我还准备了分析员和龙舌兰秘书的感情线，从过去青梅竹马的回忆，到战火中互相扶持不断升温的羁绊，再到未来步入殿堂的约定，我都想好了呢~	我還順便準備了分析員和龍舌蘭秘書的感情線，從過去青梅竹馬的回憶，到戰火中互相扶持不斷升溫的羈絆，再到未來步入殿堂的約定，我都想好了喔~	それに、分析員と秘書アガベの恋愛ルートもバッチリ考えてありますよ！幼い頃の思い出から、戦場で深まる絆、そして結婚の約束まで、全部！	그리고 분석가님과 아가베 비서의 러브라인도 준비했어요. 소꿉친구 시절의 추억부터, 전장에서 서로를 의지하며 깊어지는 감정, 그리고 미래에 결혼을 약속하기까지… 다 생각해 놨다고요~	I've also prepared a romantic storyline between the Adjutant and Agave, from their childhood memories to bonds forged in battle, to future wedding plans — I've thought it all through~						0	2.7版本异绪消解活动引入剧情
+34	怎么感觉越跑越偏了啊！	怎麼感覺越跑越偏了啊！	話がどんどん脱線してます！	점점 방향이 이상해지는데요?!	This is veering completely off track!						0	2.7版本异绪消解活动引入剧情
+35	几天前。	幾天前。	数日前。	며칠 전.	A few days earlier...						0	2.7版本异绪消解活动引入剧情
+36	小卡罗琳，我最近一直在想，公司能不能制作一款解压类训练设备。	小卡羅琳，我最近一直在想，公司能不能製作一款紓壓類訓練設備。	カロリン、前から考えてたんですが、会社でストレス解消できる訓練設備、作れませんか？	캐롤린, 요즘 계속 생각해 봤는데, 회사에서 스트레스 해소용 훈련 장비를 만들어 보면 어떨까?	Caroline, I've been thinking that our company could use a stress-relief training device.						0	2.7版本异绪消解活动引入剧情
+37	这段时间，我注意到一些队员压力不小，而分析员也为了抚慰大家工作到很晚。	這段時間，我注意到一些隊員壓力不小，而分析員也為了撫慰大家工作到很晚。	ここ最近、ストレスが溜まっていそうな隊員が何人かいますし、分析員もみんなを\n気遣って夜遅くまで頑張ってるみたいで。	요즘 대원들의 스트레스가 좀 많아 보이더라고. 분석가도 모두를 다독이느라 늦게까지 일하고 말이야.	I've noticed some operatives are under considerable pressure lately, and the Adjutant has been working late to comfort everyone.						0	2.7版本异绪消解活动引入剧情
+38	如果有这样的设备，想必会为分析员分忧不少吧？	如果有這樣的設備，想必會為分析員分憂不少吧？	そういう設備があったら、きっと分析員の助けになるかなと。	그런 장비가 있다면 분석가의 부담도 덜어줄 수 있지 않을까?	If we had such a device, it would certainly lighten the Adjutant's burden, don't you think?						0	2.7版本异绪消解活动引入剧情
+39	嗯，这确实是一个不错的提议。	嗯，這的確是一個不錯的提議。	なるほど、確かに。	음, 나쁘지 않은 제안이네요.	Yeah, that's actually an excellent suggestion.						0	2.7版本异绪消解活动引入剧情
+40	我想想……也许我们可以利用训练设备制作一款解压类的小游戏。	我想想……也許我們可以利用訓練設備製作一款紓壓類的小遊戲。	でしたら……訓練設備を活用して、ストレス解消用のゲームを作るというのは？	생각해 보니… 훈련 장비를 활용해서 스트레스 해소용 미니게임을 만들어도 좋을 것 같아요.	Let me think... perhaps we could use training equipment to create a simple stress-relief game.						0	2.7版本异绪消解活动引入剧情
+41	不过大家现在都挺忙，我需要咨询下研发部门的排期和意见。	不過大家現在都很忙，我需要諮詢一下研發部門的排期和意見。	みんな忙しそうですし、まずは開発部にスケジュールと意見を確認してみましょう。	그런데 요즘 다들 바빠서 개발부에 일정과 의견을 먼저 물어봐야겠어요.	Everyone's quite busy at the moment, though, so I'll need to check with R&D about their schedule and get their input.						0	2.7版本异绪消解活动引入剧情
+42	嗯嗯，那就拜托小卡罗琳了。	嗯嗯，那就拜託小卡羅琳了。	ええ、ではカロリン、よろしくお願いしますね。	응응, 그럼 부탁할게, 캐롤린.	Mmm, I'll leave it in your capable hands then, Caroline.						0	2.7版本异绪消解活动引入剧情
+43	欸？是恩雅小姐的提议嘛？当然没问题啊！	欸？是恩雅小姐的提議嗎？當然沒問題啊！	え？エンヤさんの提案ですか？もちろん問題ありません！	앗, 엔야 씨의 제안인가요? 당연히 문제없죠!	Oh, it's Miss Enya's suggestion? Then of course!						0	2.7版本异绪消解活动引入剧情
+44	可以啊！恩雅小姐平时帮我们不少，这点忙肯定要帮。	可以啊！恩雅小姐平常幫我們不少，這點忙一定要幫的。	やります！エンヤさんにはいつもお世話になってますし、それくらい手伝わせてください。	좋아요! 엔야 씨가 평소에 저희를 많이 도와주시는데, 이 정도는 당연히 해드려야죠!	Absolutely! Miss Enya has done so much for us, we'll definitely help.						0	2.7版本异绪消解活动引入剧情
+45	听到是恩雅的提议，许多公司职员都积极响应，甚至提出了要加班加点的帮忙。	聽到是恩雅的提議，許多公司職員都積極響應，甚至提出了要加班幫忙。	エンヤの提案と聞いた社員たちはこぞって前向きな反応を見せ、中には残業してでも協力したいと言う者もいた。	엔야의 제안이라고 하자, 회사 직원들이 적극적으로 나섰다. 심지어 자진해서 추가 근무까지 하겠다는 의견도 나왔다.	Hearing it was Enya's proposal, many employees responded enthusiastically, with some even volunteering to work overtime.						0	2.7版本异绪消解活动引入剧情
+46	经过卡罗琳的筛选，最终确认了一个临时小组。	經過卡羅琳的篩選，最終確認了一個臨時小組。	カロリンの選抜によって、臨時チームが編成された。	그렇게 캐롤린의 검토를 거쳐, 최종적으로 임시 팀이 구성되었다.	After Caroline's careful selection, a temporary team was assembled.						0	2.7版本异绪消解活动引入剧情
+47	她们将在接下来的一段的时间集中开发这个项目。	她們將在接下來的一段時間集中開發這款遊戲。	しばらくは、このチームが中心になってプロジェクトを動かすことになる。	그들은 앞으로 일정 기간 해당 프로젝트에 집중할 예정이다.	They would focus on developing this project over the coming weeks.						0	2.7版本异绪消解活动引入剧情
+48	这就是恩雅的号召力嘛，可真是不得了的女人啊。	這就是恩雅的號召力嗎，真是個不得了的女人啊。	さすがエンヤ、素晴らしいカリスマ性。	이게 바로 엔야의 영향력인가? 정말 대단한 여자라니까.	Enya's influence is remarkable — what an incredible woman.						0	2.7版本异绪消解活动引入剧情
+49	人员差不多都配齐了……不过，总感觉少了点什么？	人員差不多都配齊了……不過，總感覺少了點什麼？	メンバーはだいたい揃ったけど……まだ何か足りないような。	인력도 거의 다 확보됐고… 그런데 뭔가 좀 부족한 느낌인데?	The team is mostly complete... but I feel like something's still missing.						0	2.7版本异绪消解活动引入剧情
+50	剧情……既然都做成游戏了，倒是可以加一个小短片作为开场剧情。	劇情……既然都做成遊戲了，倒是可以加一個小短片作為開場劇情。	ストーリーか……せっかくだし、オープニングムービーでもつけてみようか。	스토리는… 게임으로 만들 거니까, 짧은 인트로 영상 정도는 넣어줘야겠지.	The storyline... since we're developing this as a game, we could add a short film as an opening.						0	2.7版本异绪消解活动引入剧情
+51	正好公司有这样一位专业人士，相信薇蒂雅她一定不会让我失望……	剛好公司有這樣一位專業人士，相信薇蒂雅她一定不会讓我失望……	ちょうどプロがいるし、ヴィディアならきっと上手くやってくれるはず……	마침 회사에 이 분야의 전문가가 있어서 다행이야. 비디야라면 분명 실망시키지 않겠지…	Fortunately, we have a professional right here in our company. I'm confident Vidya won't let me down...						0	2.7版本异绪消解活动引入剧情
+52	唉，开场剧情事先放一放吧。	唉，開場劇情的事先放一邊吧。	はぁ、オープニングムービーの話はいったんおいといて。	휴, 인트로 영상은 나중에 생각하자.	Well, let's put the opening aside for now.						0	2.7版本异绪消解活动引入剧情
+53	分析员你们来了。	分析員你們來了。	お、分析員たちも来ましたね。	분석가님, 오셨군요.	Adjutant, you're here.						0	2.7版本异绪消解活动引入剧情
+54	这几位也是来拍开场剧情的吗？	這幾位也是來拍開場劇情的嗎？	そちらのメンバーも、オープニングムービーの撮影に？	이분들도 인트로 영상을 촬영하러 왔나요?	Are these people also here to film the opening sequence?						0	2.7版本异绪消解活动引入剧情
+55	是我招募来的测试成员，刚好今天硬件设备和应用程序都完工了，我就招募了几名队员来帮忙。	是我招募來的測試成員，剛好今天硬體設備和應用程式都完工了，我就招募了幾名隊員來幫忙。	私が呼んだテストメンバーですよ。ちょうど今日、ハードとアプリの最終調整が終わったから、隊員に手伝ってもらおうと思って。	테스트를 도와줄 인원들이에요. 마침 오늘 하드웨어 장비와 애플리케이션이 완성돼서 제가 몇 명 모집해 봤어요.	They're testers I've recruited. Since both the hardware and software were completed today, I asked a few operatives here.						0	2.7版本异绪消解活动引入剧情
+56	最近确实比较烦闷……挺想试试这个新的设备。	最近的確是比較煩悶……還蠻想試試這個新的設備。	最近ちょっと気が沈みがちだったし……この装置を試してみたいわね。	요즘 기분이 울적해서… 이 새로운 장비를 좀 체험해 보고 싶네.	I've been feeling rather down lately... I'd love to try this new equipment.						0	2.7版本异绪消解活动引入剧情
+57	不过~要是分析员一会儿能陪我去宿舍喝一杯的话，我感觉心情会好的更快哟~	不過~要是分析員等下能陪我去宿舍喝一杯的話，我感覺心情會好得更快喲~	あとで分析員が部屋で一緒に飲んでくれたら、もっと早く元気になれると思うけど。	근데~ 분석가가 이따가 나랑 같이 숙소에 가서 한잔해 주면 기분이 더 빨리 좋아질 것 같은데~	Though if the Adjutant could join me in my room for a drink afterward, I think my mood would improve much faster~						0	2.7版本异绪消解活动引入剧情
+58	嘿嘿！我听说这里有打不坏的设备，我来替公司测试测试！	嘿嘿！我聽說這裡有打不壞的設備，我來幫公司測試一下！	へへ！ここに壊れない装置があるって聞いたからさ、思いっきりテストしてやるよ！	헤헤! 여기 아무리 때려도 망가지지 않는 장비가 있다던데, 내가 회사 대신 테스트해 볼게!	Hehe! I heard there's equipment here that can't be broken, so I'm here to test that!						0	2.7版本异绪消解活动引入剧情
+59	原来这里有测试嘛？我听分析员说这里有好玩的就跟着过来了！	原來這裡有測試嗎？我聽分析員說這裡有好玩的就跟著過來了！	テストだって？分析員が面白いって言うから、つい来ちゃった！	여기서 테스트하는 거였구나? 분석가가 여기 재미있는 게 있다고 해서 따라왔어!	We're testers? I just followed the Adjutant after hearing there was something fun happening!						0	2.7版本异绪消解活动引入剧情
+60	伴随着几人的进入，训练室里瞬间热闹起来。	伴隨著幾人的進入，訓練室裡瞬間熱鬧了起來。	みんなが集まると、訓練室は一気に賑やかになった。	사람들이 들어서자, 훈련실은 금세 활기를 띠기 시작했다.	With their arrival, the training room instantly buzzed with energy.						0	2.7版本异绪消解活动引入剧情
+61	大家，先等我说明一下。	大家，先等我說明一下。	みんな、まず説明を聞いてください。	여러분, 먼저 제 설명부터 들어주세요.	Everyone, let me explain how this works.						0	2.7版本异绪消解活动引入剧情
+62	卡罗琳顿了顿嗓子，指向了训练室角落一处新装修的设施。	卡羅琳清了清喉嚨，指向了訓練室角落一處新裝好的設施。	カロリンが軽く咳払いをして、訓練室に新しく設置された設備を指差す。	캐롤린은 목소리를 가다듬고, 훈련실 한쪽 구석에 새로 설치된 시설을 가리켰다.	Caroline cleared her throat and gestured toward a newly installed facility in the corner of the training room.						0	2.7版本异绪消解活动引入剧情
+63	说是训练，但其实它在设计和体验上更类似一款虚拟现实游戏。	說是訓練，但其實它在設計和體驗上更類似一款虛擬實境遊戲。	これは訓練というより、バーチャルリアリティを活用したゲームのようなものです。	훈련이라고는 하지만, 사실 디자인과 체험 방식은 가상 현실 게임에 더 가까워요.	Though we call it training, it's actually designed and experienced more like a virtual reality game.						0	2.7版本异绪消解活动引入剧情
+64	进入游戏环境后，大家日常生活中所积郁的不良情绪将会以敌人的形式投影出现。	進入遊戲環境後，大家日常生活中所累積的不良情緒將會以敵人的形式投影出現。	仮想空間に入ると、日々溜め込んだストレスやネガティブな感情が、敵として具現化されて現れます。	게임 환경에 들어가면, 여러분이 일상에서 쌓인 부정적인 감정들이 적의 형태로 투영될 거예요.	Once you enter the game, the negative emotions you've accumulated in your daily life will be projected as enemies.						0	2.7版本异绪消解活动引入剧情
+65	目标很简单，利用训练枪械和掩体击败这些情绪投影，同时为了提升趣味性也会设置一些简单的目标，大家到时候就知道了。	目標很簡單，利用訓練槍械和掩護物擊敗這些情緒投影，同時為了提升趣味性也會設置一些簡單的目標，大家到時候就知道了。	目標はシンプル。訓練用銃器と掩体を使って、感情ノ陰を撃ち倒すことです。いくつか簡単なミッションを用意したから、プレイすればすぐにわかると思います。	목표는 간단해요. 훈련용 무기와 엄폐물을 활용해 이 감정의 투영들을 처치하는 거예요. 재미를 위해 간단한 목표도 추가했으니, 직접 해 보면 금방 알 수 있을 거예요.	The goal is to defeat these emotional projections using training equipment. To make it more engaging, we've also set up some simple objectives that you'll discover as you play.						0	2.7版本异绪消解活动引入剧情
+66	当然，分析员也会在一旁协助大家。	當然，分析員也會在一旁協助大家。	分析員がしっかりサポートしてくれるから、安心してください。	물론, 분석가님도 한쪽에서 여러분을 도울 거예요.	Of course, the Adjutant will be here to assist everyone.						0	2.7版本异绪消解活动引入剧情
+67	哒哒哒！这游戏听起来就很解压的样子欸。	噠躂躂！這遊戲聽起來就很紓壓的樣子欸。	聞いた感じ、めっちゃストレス発散になりそうだね！	우와! 게임 설명만 들어도 스트레스가 확 풀릴 것 같아.	Wowee! Sounds like it'll be super stress-relieving!						0	2.7版本异绪消解活动引入剧情
+68	而且有分析员在！感觉烦恼立刻就能缓解了呢！	而且有分析員在！感覺煩惱立刻就能緩解了呢！	分析員が一緒なら、それだけで気分も軽くなるし！	게다가 분석가도 같이한다니! 고민이 싹 없어지겠는데!	And with the Adjutant here, I just know all my troubles will vanish instantly!						0	2.7版本异绪消解活动引入剧情
+69	嘿嘿！顺便也能锻炼我们的枪法，一举两得！	嘿嘿！順便也能練習我們的槍法，一舉兩得！	へへ、射撃の練習にもなるし、一石二鳥だね！	헤헤! 총기 훈련도 하고, 스트레스도 풀고, 일석이조네!	Hehe, and we can sharpen our shooting at the same time, two birds with one stone!						0	2.7版本异绪消解活动引入剧情
+70	游戏结束后，陪我喝一杯哟，分析员~	遊戲結束後，陪我喝一杯喔，分析員~	ゲームが終わったら、一杯付き合ってちょうだい、分析員。	게임 끝나면 나랑 한잔하자고, 분석가~	Don't you forget that drink date with me after this, Adjutant~						0	2.7版本异绪消解活动引入剧情
+71	先测试设备吧，晚点再说。	先測試設備吧，晚點再說。	まずはテストをしよう。	그건 나중에 얘기하고, 일단 테스트부터 하자.	Let's test the equipment first. We can discuss that later.						0	2.7版本异绪消解活动引入剧情
+72	我伸手去摸凯茜娅的头，可她却旋即身子一扭钻入我的怀中。	我伸手去摸凱茜婭的頭，她卻旋即一扭身體鑽入我的懷中。	カーシアの頭をなでようと手を伸ばした途端、彼女はくるりと体をひねって、私の胸に飛び込んだ。	캐시아의 머리를 쓰다듬으려 손을 뻗었지만, 그녀는 몸을 홱 돌려 내 품에 파고들었다.	I reached out to pat Katya's head, but she deftly twisted and nestled into my arms.						0	2.7版本异绪消解活动引入剧情
+73	那晚上你可不能毁约哟，分析员~	那晚上你不可以毀約喔，分析員~	夜、楽しみにしてるからね、分析員。	그럼 오늘 밤 약속 어기지 마, 분석가~	You can't back out of your promise tonight, Adjutant~						0	2.7版本异绪消解活动引入剧情
+74	晚上？	晚上？	夜って？	오늘 밤?	Tonight?						0	2.7版本异绪消解活动引入剧情
+75	分析员，你该不会……不行，我和你一起！	分析員，你該不會……不行，我和你一起！	分析員、まさか……ダメ！私も行く！	분석가, 설마… 안 돼, 나도 같이 갈래!	Adjutant, you wouldn't... No way, I'm coming with you!						0	2.7版本异绪消解活动引入剧情
+76	我也我也！	我也要我也要！	わたしもわたしも！	나도, 나도!	Me too, me too!						0	2.7版本异绪消解活动引入剧情
+77	妮塔和卜卜也闹腾起来，跃跃欲试的样子也要钻入我的怀中。	妮塔和卜卜也開始鬧起來，躍躍欲試的也要鑽入我的懷中。	ニタとブブまではしゃぎ出し、飛び込んで来そうな勢いだ。	니타와 보보까지 소란을 피우며 내 품에 파고들 기세였다.	Nita and Bubu also began clamoring, each eager to squeeze into my arms as well.						0	2.7版本异绪消解活动引入剧情
+78	看着眼前闹腾的场面，我只得给卡罗琳使了一个眼神，而她见状也心领神会的开口。	看著眼前混亂的場面，我只好給卡羅琳使了個眼神，而她見狀也心領神會的開口。	私はカロリンに目配せする。彼女はすぐに気づいて、声を上げた。	눈앞의 시끌벅적한 상황을 보면서, 나는 어쩔 수 없이 캐롤린에게 눈짓했다. 그러자 그녀는 내 뜻을 알아차리고 입을 열었다.	With the commotion unfolding before me, I could only exchange a glance with Caroline, who understood immediately.						0	2.7版本异绪消解活动引入剧情
+79	好啦好啦，大家先别闹了，总之流程大致就是这样。	好啦好啦，大家先別鬧了，總之流程大概就是這樣。	はいはい、みんな落ち着いて！とにかく、流れはこんな感じですから。	자, 자! 다들 진정하세요. 아무튼 진행 방식은 이렇습니다.	Alright, alright, settle down. That covers the general process.						0	2.7版本异绪消解活动引入剧情
+80	准备开始吧，祝各位玩的开心！	準備開始吧，祝各位玩得開心！	テストを始めましょう。みんな、思いっきり楽しんでください！	그럼 준비하시고, 모두 재미있게 즐기시길 바랄게요!	Let's get started. Have fun, everyone!						0	2.7版本异绪消解活动引入剧情

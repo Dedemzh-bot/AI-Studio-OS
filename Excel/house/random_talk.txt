@@ -1,0 +1,257 @@
+﻿NpcId	随机id	随机的key	权重	触发条件：开始时间	触发条件：结束时间	触发条件：获得某个道具	触发条件:交互动作	触发条件:好感度等级	触发条件：入队进度
+NpcId	Index	RandomKey	Weight	BeginTime	EndTime	NeedItem	TargetAction	NeedLevel	TargetStage
+1	1	house.girl01_RandomTalk01	1						
+1	2	house.girl01_RandomTalk02	1						
+1	3	house.girl01_RandomTalk03	1						
+1	4	house.girl01_RandomTalk04	1						
+1	5	house.girl01_RandomTalk05	1						
+1	6	house.girl01_RandomTalk06	5					30	
+1	7	house.girl01_RandomTalk07	1000				{'house_bed1'}		
+									
+2	1	house.girl02_RandomTalk01	1						
+2	2	house.girl02_RandomTalk02	1						
+2	3	house.girl02_RandomTalk03	1						
+2	4	house.girl02_RandomTalk04	1						
+2	5	house.girl02_RandomTalk05	1						
+2	6	house.girl02_RandomTalk06	5					30	
+2	7	house.girl02_RandomTalk07	1000				{'house_bed1'}		
+									
+3	1	house.girl03_RandomTalk01	1						
+3	2	house.girl03_RandomTalk02	1						
+3	3	house.girl03_RandomTalk03	1						
+3	4	house.girl03_RandomTalk04	1						
+3	5	house.girl03_RandomTalk05	1						
+3	6	house.girl03_RandomTalk06	5					30	
+3	7	house.girl03_RandomTalk07	1000				{'house_bed1'}		
+									
+4	1	house.girl04_RandomTalk01	1						
+4	2	house.girl04_RandomTalk02	1						
+4	3	house.girl04_RandomTalk03	1						
+4	4	house.girl04_RandomTalk04	1						
+4	5	house.girl04_RandomTalk05	1						
+4	6	house.girl04_RandomTalk06	5					30	
+4	7	house.girl04_RandomTalk07	1000				{'house_bed1'}		
+									
+5	1	house.girl05_RandomTalk01	1						
+5	2	house.girl05_RandomTalk02	1						
+5	3	house.girl05_RandomTalk03	1						
+5	4	house.girl05_RandomTalk04	1						
+5	5	house.girl05_RandomTalk05	1						
+5	6	house.girl05_RandomTalk06	5					30	
+5	7	house.girl05_RandomTalk07	1000				{'house_bed1'}		
+									
+6	1	house.girl06_RandomTalk01	1						
+6	2	house.girl06_RandomTalk02	1						
+6	3	house.girl06_RandomTalk03	1						
+6	4	house.girl06_RandomTalk04	1						
+6	5	house.girl06_RandomTalk05	1						
+6	6	house.girl06_RandomTalk06	5					30	
+6	7	house.girl06_RandomTalk07	1000				{'house_bed1'}		
+									
+7	1	house.girl07_RandomTalk01	1						
+7	2	house.girl07_RandomTalk02	1						
+7	3	house.girl07_RandomTalk03	1						
+7	4	house.girl07_RandomTalk04	1						
+7	5	house.girl07_RandomTalk05	1						
+7	6	house.girl07_RandomTalk06	5					30	
+7	7	house.girl07_RandomTalk07	1000				{'house_bed1'}		
+									
+8	1	house.girl08_RandomTalk01	1						
+8	2	house.girl08_RandomTalk02	1						
+8	3	house.girl08_RandomTalk03	1						
+8	4	house.girl08_RandomTalk04	1						
+8	5	house.girl08_RandomTalk05	1						
+8	6	house.girl08_RandomTalk06	5					30	
+8	7	house.girl08_RandomTalk07	1000				{'house_bed1'}		
+									
+10	1	house.girl10_RandomTalk01	1						
+10	2	house.girl10_RandomTalk02	1						
+10	3	house.girl10_RandomTalk03	1						
+10	4	house.girl10_RandomTalk04	1						
+10	5	house.girl10_RandomTalk05	1						
+10	6	house.girl10_RandomTalk06	5					30	
+10	7	house.girl10_RandomTalk07	1000				{'house_bed1'}		
+									
+11	1	house.girl11_RandomTalk01	1						
+11	2	house.girl11_RandomTalk02	1						
+11	3	house.girl11_RandomTalk03	1						
+11	4	house.girl11_RandomTalk04	1						
+11	5	house.girl11_RandomTalk05	1						
+11	6	house.girl11_RandomTalk06	5					30	
+11	7	house.girl11_RandomTalk07	1000				{'house_bed'}		
+									
+12	1	house.girl12_RandomTalk01	1						
+12	2	house.girl12_RandomTalk02	1						
+12	3	house.girl12_RandomTalk03	1						
+12	4	house.girl12_RandomTalk04	1						
+12	5	house.girl12_RandomTalk05	1						
+12	6	house.girl12_RandomTalk06	5					30	
+12	7	house.girl12_RandomTalk07	1000				{'house_bed1'}		
+									
+13	1	house.girl13_RandomTalk01	1						
+13	2	house.girl13_RandomTalk02	1						
+13	3	house.girl13_RandomTalk03	1						
+13	4	house.girl13_RandomTalk04	1						
+13	5	house.girl13_RandomTalk05	1						
+13	6	house.girl13_RandomTalk06	5					30	
+13	7	house.girl13_RandomTalk07	1000				{'house_bed1'}		
+									
+14	1	house.girl14_RandomTalk01	1						
+14	2	house.girl14_RandomTalk02	1						
+14	3	house.girl14_RandomTalk03	1						
+14	4	house.girl14_RandomTalk04	1						
+14	5	house.girl14_RandomTalk05	1						
+14	6	house.girl14_RandomTalk06	5					30	
+14	7	house.girl14_RandomTalk07	1000				{'house_bed1'}		
+									
+17	1	house.girl17_RandomTalk01	1						
+17	2	house.girl17_RandomTalk02	1						
+17	3	house.girl17_RandomTalk03	1						
+17	4	house.girl17_RandomTalk04	1						
+17	5	house.girl17_RandomTalk05	1						
+17	6	house.girl17_RandomTalk06	5					30	
+17	7	house.girl17_RandomTalk07	1000				{'house_bed1'}		
+									
+15	1	house.girl15_RandomTalk01	1						
+15	2	house.girl15_RandomTalk02	1						
+15	3	house.girl15_RandomTalk03	1						
+15	4	house.girl15_RandomTalk04	1						
+15	5	house.girl15_RandomTalk05	1						
+15	6	house.girl15_RandomTalk06	5					30	
+15	7	house.girl15_RandomTalk07	1000				{'house_bed1'}		
+									
+16	1	house.girl16_RandomTalk01	1						
+16	2	house.girl16_RandomTalk02	1						
+16	3	house.girl16_RandomTalk03	1						
+16	4	house.girl16_RandomTalk04	1						
+16	5	house.girl16_RandomTalk05	1						
+16	6	house.girl16_RandomTalk06	5					30	
+16	7	house.girl16_RandomTalk07	1000				{'house_bed1'}		
+									
+18	1	house.girl18_RandomTalk01	1						
+18	2	house.girl18_RandomTalk02	1						
+18	3	house.girl18_RandomTalk03	1						
+18	4	house.girl18_RandomTalk04	1						
+18	5	house.girl18_RandomTalk05	1						
+18	6	house.girl18_RandomTalk06	5					30	
+18	7	house.girl18_RandomTalk07	1000				{'house_bed1'}		
+									
+20	1	house.girl20_RandomTalk01	1						
+20	2	house.girl20_RandomTalk02	1						
+20	3	house.girl20_RandomTalk03	1						
+20	4	house.girl20_RandomTalk04	1						
+20	5	house.girl20_RandomTalk05	1						
+20	6	house.girl20_RandomTalk06	5					30	
+20	7	house.girl20_RandomTalk07	1000				{'house_bed1'}		
+									
+21	1	house.girl21_RandomTalk01	1						
+21	2	house.girl21_RandomTalk02	1						
+21	3	house.girl21_RandomTalk03	1						
+21	4	house.girl21_RandomTalk04	1						
+21	5	house.girl21_RandomTalk05	1						
+21	6	house.girl21_RandomTalk06	5					30	
+21	7	house.girl21_RandomTalk07	1000				{'house_bed1'}		
+									
+22	1	house.girl22_RandomTalk01	1						
+22	2	house.girl22_RandomTalk02	1						
+22	3	house.girl22_RandomTalk03	1						
+22	4	house.girl22_RandomTalk04	1						
+22	5	house.girl22_RandomTalk05	1						
+22	6	house.girl22_RandomTalk06	5					30	
+22	7	house.girl22_RandomTalk07	1000				{'house_bed1'}		
+									
+23	1	house.girl23_RandomTalk01	1						
+23	2	house.girl23_RandomTalk02	1						
+23	3	house.girl23_RandomTalk03	1						
+23	4	house.girl23_RandomTalk04	1						
+23	5	house.girl23_RandomTalk05	1						
+23	6	house.girl23_RandomTalk06	5					30	
+23	7	house.girl23_RandomTalk07	1000				{'house_bed1'}		
+									
+24	1	house.girl24_RandomTalk01	1						
+24	2	house.girl24_RandomTalk02	1						
+24	3	house.girl24_RandomTalk03	1						
+24	4	house.girl24_RandomTalk04	1						
+24	5	house.girl24_RandomTalk05	1						
+24	6	house.girl24_RandomTalk06	5					30	
+24	7	house.girl24_RandomTalk07	1000				{'house_bed1'}		
+									
+94	1	house.npc94_RandomTalk01	1						
+94	2	house.npc94_RandomTalk02	1						
+94	3	house.npc94_RandomTalk03	1						
+94	4	house.npc94_RandomTalk04	1						
+94	5	house.npc94_RandomTalk05	1						
+									
+95	1	house.npc95_RandomTalk01	1						
+95	2	house.npc95_RandomTalk02	1						
+95	3	house.npc95_RandomTalk03	1						
+95	4	house.npc95_RandomTalk04	1						
+95	5	house.npc95_RandomTalk05	1						
+									
+96	1	house.npc96_RandomTalk01	1						
+96	2	house.npc96_RandomTalk02	1						
+96	3	house.npc96_RandomTalk03	1						
+96	4	house.npc96_RandomTalk04	1						
+96	5	house.npc96_RandomTalk05	1						
+									
+97	1	house.npc97_RandomTalk01	1						
+97	2	house.npc97_RandomTalk02	1						
+97	3	house.npc97_RandomTalk03	1						
+97	4	house.npc97_RandomTalk04	1						
+97	5	house.npc97_RandomTalk05	1						
+									
+98	1	house.npc99_RandomTalk01	1						
+98	2	house.npc99_RandomTalk02	1						
+98	3	house.npc99_RandomTalk03	1						
+98	4	house.npc99_RandomTalk04	1						
+98	5	house.npc99_RandomTalk05	1						
+									
+99	1	house.npc99_RandomTalk01	1						
+99	2	house.npc99_RandomTalk02	1						
+99	3	house.npc99_RandomTalk03	1						
+99	4	house.npc99_RandomTalk04	1						
+99	5	house.npc99_RandomTalk05	1						
+									
+101	1	house.npc101_RandomTalk01	1						
+101	2	house.npc101_RandomTalk02	1						
+101	3	house.npc101_RandomTalk03	1						
+101	4	house.npc101_RandomTalk04	1						
+101	5	house.npc101_RandomTalk05	1						
+101	6	house.npc101_RandomTalk06	1						{11, 1}
+101	7	house.npc101_RandomTalk07	1						{11, 2}
+101	8	house.npc101_RandomTalk08	1						{11, 3}
+101	9	house.npc101_RandomTalk09	1						{11, 4}
+									
+201	1	house.npc201_RandomTalk01	1						
+201	2	house.npc201_RandomTalk02	1						
+201	3	house.npc201_RandomTalk03	1						
+									
+202	1	house.npc202_RandomTalk01	1						
+202	2	house.npc202_RandomTalk02	1						
+202	3	house.npc202_RandomTalk03	1						
+									
+203	1	house.npc203_RandomTalk01	1						
+203	2	house.npc203_RandomTalk02	1						
+203	3	house.npc203_RandomTalk03	1						
+									
+204	1	house.npc204_RandomTalk01	1						
+204	2	house.npc204_RandomTalk02	1						
+204	3	house.npc204_RandomTalk03	1						
+									
+205	1	house.npc205_RandomTalk01	1						
+205	2	house.npc205_RandomTalk02	1						
+205	3	house.npc205_RandomTalk03	1						
+									
+206	1	house.npc206_RandomTalk01	1						
+206	2	house.npc206_RandomTalk02	1						
+206	3	house.npc206_RandomTalk03	1						
+									
+207	1	house.npc207_RandomTalk01	1						
+207	2	house.npc207_RandomTalk02	1						
+207	3	house.npc207_RandomTalk03	1						
+									
+103	1	house.npc103_RandomTalk01	1						
+103	2	house.npc103_RandomTalk02	1						
+103	3	house.npc103_RandomTalk03	1						
+103	4	house.npc103_RandomTalk04	1						
+103	5	house.npc103_RandomTalk05	1						

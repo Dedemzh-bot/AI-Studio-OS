@@ -1,0 +1,8 @@
+﻿问题	备注	问题key	正确答案key	错误key	错误key
+Id	Des	Question	Answer1	Answer2	Answer3
+1	问题1	TxtRichManQA1	TxtRichManQA1Answer1	TxtRichManQA1Answer2	TxtRichManQA1Answer3
+2	问题2	TxtRichManQA2	TxtRichManQA2Answer1	TxtRichManQA2Answer2	TxtRichManQA2Answer3
+3	问题3	TxtRichManQA3	TxtRichManQA3Answer1	TxtRichManQA3Answer2	TxtRichManQA3Answer3
+4	问题4	TxtRichManQA4	TxtRichManQA4Answer1	TxtRichManQA4Answer2	TxtRichManQA4Answer3
+5	问题5	TxtRichManQA5	TxtRichManQA5Answer1	TxtRichManQA5Answer2	TxtRichManQA5Answer3
+6	问题6	TxtRichManQA6	TxtRichManQA1Answer1	TxtRichManQA1Answer2	TxtRichManQA1Answer3

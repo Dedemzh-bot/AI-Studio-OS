@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	……	……	……	…	...						0	
+page0.2	你在这里啊，看你一脸凝重的样子，有什么不对吗？	原來你在這啊，看你臉色凝重，有什麼事嗎?	ここにいたんだね、真剣な顔してるけど、何かあったか？	여기 있었군요. 표정이 심각한 걸 보니, 뭐가 잘못됐나요?	There you are, Chenxing. You look so serious... Is something wrong?						0	
+page0.3	安卡希雅管这台机器叫“抓娃娃”机。	安卡希雅叫這台機器為「夾娃娃」機。	アカシアはこのマシンを「クレーンゲーム」と呼んでいました。	아카시아가 그러는데, 이 기계를 '인형 뽑기' 기계래요.	Acacia said this is called a "claw machine."						0	
+page0.4	如果我没记错的话，这是几十年前流行的一种娱乐设备。	如果我沒記錯的話，這是幾十年前流行的一種娛樂設備。	私の記憶が正しければ、これは数十年前に流行ったエンターテインメントの装置の一つです。	제 기억이 맞는다면, 이건 수십 년 전에 유행하던 오락 기계예요.	If I remember correctly, it's a popular arcade game from decades ago.						0	
+page0.5	通过支付一定代价获取操控机械爪的次数，然后看准时机找准位置放下机械爪。	透過支付一定代價獲取操控機械爪的次數，然後看準時機找準位置放下機械爪。	一定の代金を支払ってクレーンを複数回操作し、正確な位置にクレーンを下ろすのですが。	일정한 대가를 치르고 집게의 조작 횟수를 얻은 다음, 실제 기계의 위치에 맞춰 집게를 내리는 거예요.	You pay a certain amount to control the mechanical claw a set number of times. Then you try to find a good position to lower the claw.						0	
+page0.6	因为机械爪的抓力故意被设计的很弱，因此想要抓到娃娃技巧和运气缺一不可。	因為機械爪的抓力被刻意設計成較弱的狀態，所以想要夾到娃娃的話，技巧跟運氣缺一不可。	クレーンの握力は弱めに設計されているので、ぬいぐるみを取るにはテクニックと運が不可欠です。	집게의 고정력을 의도적으로 약하게 설계했기 때문에, 인형을 잡는 기술과 운이 꼭 필요하죠.	The strength of the claw is deliberately designed to be weak, so you need skill and luck to win a prize.						0	
+page0.7	你想要试试吗？	你要試試嗎？	試してみるか？	한번 해볼래요?	Do you want to give it a shot?						0	
+page0.8	这台只是复刻了抓娃娃机外形的室内装置，并不具备实际功能。	這台機器只是被做成了「夾娃娃」機的樣子，並沒有那種功能。	この装置は、クレーンゲームの外観を模倣したもので、実際の機能は備えていません。	이건 인형 뽑기 기계의 외형을 본뜬 실내 장치라, 실제 기능은 없어요.	It's just a replica of a real claw machine for decoration. It doesn't actually work.						0	
+page0.9	我只是在脑内模拟如果让我操作真正的抓娃娃机会怎样……	我只是在腦內模擬，如果讓我來操作夾娃娃機的話會是什麼情況……	私は、もし実際のクレーンゲームを操作する機会があったら、どう操作するかを脳内でシミュレーションしていただけで……	그냥 실제로 인형 뽑기를 하면 어떨지 머릿속으로 시뮬레이션해 봤어요…	I was just wondering what it would be like to actually operate a claw machine...						0	
+page0.10	辰星的话一定没有问题。	辰星的話一定沒問題。	辰星ならきっと大丈夫だ。	수성이라면 잘할 것 같은데요.	I think you'd be great at it.						0	
+page0.11	不，感觉抓娃娃和推沙雕有些类似，需要微妙的手感。	不，感覺夾娃娃跟堆沙雕有點類似，很需要手感。	いえ。ぬいぐるみを取ることは砂像を作ることと似て、センスが必要なのです。	아니요, 인형 뽑기와 모래성 쌓기는 비슷한 유형이라, 세심한 손의 감각이 필요해요.	No, I think it's similar to making sand sculptures. It probably requires a delicate hand.						0	
+page0.12	我虽然能够理解原理，但缺乏实践，恐怕要反复练习才能掌握技巧。	我雖然能夠理解原理，但缺乏實踐的經驗，恐怕需要多加練習才能掌握技巧。	私は論理的になら理解できますが、実践が足りないので、スキルを習得するには繰り返しの訓練が必要かもしれません。	원리는 이해하지만, 실전이 부족해서 반복해서 연습해야 요령을 익힐 수 있을 것 같아요.	I understand it in principle, but I don't have enough practical experience. I would have to practice over and over again to master it.						0	
+page0.13	……	……	……	…	...						0	
+page0.14	（看来她还是在意雅卢岛上堆沙雕的事情。可见，记性太好，有时候确实不是一件好事。）	(看來她很介意在雅盧島上堆沙雕的事，可見記性太好有時候也不是一件好事)	（彼女はまだガルーアイランドでの砂像作りのことを気にしているようだ。記憶力が良すぎるのも、常に良いこととは限らないようだ。）	(야루섬에서 모래성 쌓던 일을 아직도 마음에 두고 있다니, 기억력이 지나치게 좋군)	(Looks like she's still hung up on the sand sculptures we made on Yallu Island. I guess having an excellent memory isn't always a good thing.)						0	

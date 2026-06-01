@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	哎——	哎——	はぁ……	후우…	Ugh...						0	
+page0.2	哎！	哎！	はぁーー！！	하아…	UGH!						0	
+page0.3	你怎么唉声叹气的？	你怎麼唉聲嘆氣的？	ちょっ、ニタ、どうしたんだ？	왜 그렇게 한숨을 쉬는 거야?	What are you groaning about?						0	
+page0.4	分析员，快帮我出个主意！	分析員，快幫我出個主意！	分析員、何かいい方法を考えて！	분석가, 어서 좋은 아이디어 좀 내봐!	Adjutant, help me brainstorm!						0	
+page0.5	之前答应恩雅姐这周末和她一起去孤儿院，给一位小朋友过生日。	之前答應恩雅姐這週末和她一起去孤兒院，幫一位小朋友過生日。	今週エンヤ姉と一緒に、孤児院にいる子の誕生日パーティーしようって約束したんだけどさ……	엔야 언니한테 이번 주말에 보육원에 같이 가서 어떤 아이의 생일을 축하해 주기로 했단 말이야.	I promised Enya I'd go to the orphanage with her this weekend to celebrate one of the kid's birthdays.						0	
+page0.6	我还不知道送什么生日礼物好。	我還沒想到該送什麼生日禮物才好。	プレゼントが決められなくて困ってる。	그런데 아직도 무슨 선물을 주는 게 좋을지 모르겠어.	But I still don't know what would be a good birthday present.						0	
+page0.7	那你有什么想法么？	那你有什麼想法嗎？	何か考えはある？	생각해 둔 건 있어?	Well, what did you have in mind?						0	
+page0.8	我原本想送玩偶，可是玩偶恩雅姐早就准备好了。	我原本想送玩偶，可是玩偶恩雅姐早就準備好了。	最初はぬいぐるみとかにしようと思ったけど、エンヤ姉がもう用意してて。	원래 인형을 주고 싶었는데, 이미 엔야 언니가 준비했더라고.	I wanted to give the kid a doll at first, but Enya already got her one.						0	
+page0.9	吃穿那些东西院长会送。	吃的、穿的那些東西院長會送。	食べ物とか服は、院長が用意してるし。	먹을 것이나 입을 것들은 원장이 줄 거고.	And I'm sure the orphanage dean will give her food and clothes.						0	
+page0.10	后来我又想到找芙提雅帮忙做一台定制型的教学机器人。	後來我又想到找芙提雅幫忙做一台訂製型的教學機器人。	フリティアに頼んで、オーダーメイドの教育ロボットを作るってのも思い付いたけど……	그래서 프티야에게 교육용 로봇을 맞춤 제작해 달라고 할 생각도 했었어.	I thought about asking Fritia to help me make a personalized tutoring robot.						0	
+page0.11	本来我已经做好给芙提雅打一个月下手的准备了，结果她有别的活要忙。	本來我已經做好要幫芙提雅打雜一個月的心理準備了，結果她有別的事情要忙。	私はフリティアを一ヶ月手伝う覚悟までできたのに、フリティアは他の用事があるから頼めない。	그 대가로 한 달이나 프티야의 수발을 들어줄 생각을 하고 있었는데, 갑자기 바쁜 일이 생겼다네.	I was even prepared to run errands for Fritia for a month in return, but it turns out she's busy with other stuff.						0	
+page0.12	现在距离那位小朋友过生日不到三天了，我已经不知道该怎么办才好了。	現在離那位小朋友過生日不到三天了，我已經不知道該怎麼辦才好了。	その子の誕生日までもう三日しかない……どうしたらいいか分からなくなっちゃったんだ。	이제 그 아이의 생일까지 3일도 채 남지 않았어. 어떻게 해야 할지 모르겠어.	Now it's already less than three days before this kid's birthday, and I'm all out of ideas.						0	
+page0.13	妮塔也曾在孤儿院生活过吧，当你过生日的时候最期待的是什么呢？	妮塔也曾在孤兒院生活過吧，當你過生日的時候最期待的是什麼呢？	ニタも昔孤児院生活してたんだろ。その時、自分が誕生日に一番欲しかったものは何？	니타도 보육원에 있어 봤잖아. 생일 때 제일 기대했던 게 뭐였어?	Nita, you lived in an orphanage before, right? What were you most excited for on your birthday?						0	
+page0.14	哎？	哎？	え？	음?	Huh?						0	
+page0.15	那时候，我只希望大家能够陪着我一起度过生日这一天……	那時候，我只希望大家能夠陪著我一起度過生日這一天……	あの時はただ、みんなが傍に居て、一緒に誕生日を……	그때의 난 그냥 생일 당일에 모두와 함께 시간을 보내고 싶었는데…	Back then, I just wanted everyone to be able to celebrate my birthday with me...						0	
+page0.16	我知道要送什么了！	我知道要送什麼了！	おお！そうか！分かった！	뭘 줘야 할지 알 것 같아!	I know what to get her!						0	
+page0.17	不愧是分析员，靠谱！	不愧是分析員，真可靠！	分析員ナイスぅ！頼りになるね！	역시 분석가야, 대단해!	You sure are one dependable dude, Adjutant!						0	

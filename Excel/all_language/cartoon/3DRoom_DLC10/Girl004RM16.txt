@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	是分析员啊，早上……疼疼疼。	是分析員啊，早上……疼疼疼。	分析員か。おはよう……いててて。	분석가가 아침에… 아야,아파.	Ah, Adjutant. Good mor... ow, ow, ow!						0	
+page1.2	难道是受伤了？	難道是受傷了？	怪我でもしたのか？	다친 거야?	Are you injured?						0	
+page1.3	放心啦，只是运动过度之后普通的肌肉酸痛而已，没有受伤。	放心啦，只是運動過度之後普通的肌肉酸痛而已，沒有受傷。	大丈夫だよ。ただ運動し過ぎて筋肉痛になっただけ、怪我なんてしてないよ。	걱정 마, 그냥 운동을 과하게 해서 생긴 일반적인 근육통이야, 다치진 않았어.	Don't worry. I'm just sore after exercising too much. I'm not injured.						0	
+page1.4	你居然会运动过度？	你居然會運動過度？	フリティアが運動しすぎた？	너가 운동을 과하게 할 때도 있어?	You actually exercised too much?						0	
+page1.5	分析员你这是什么意思，芙提雅老师我当然也会关注自己的身体状态，适度活动的。	分析員你這是什麼意思，芙提雅老師我當然也會注意自己的身體狀態，適度活動的。	どういう意味？フリティア先生だって、自分の体調に注意して適度に運動するんだよ。	분석가, 그게 무슨 말이야? 나도 당연히 몸 상태를 신경 쓰면서 움직이지.	What do you mean by that, Adjutant? I always pay a lot of attention to my physical condition and do a moderate amount of exercise.						0	
+page1.6	但是看你刚刚走路都困难，确定没有拉伤吗？	但是看你剛剛走路都很困難，確定沒有拉傷嗎？	でも、今歩くのも大変そうに見えるけど、本当に肉離れしてないのか？	근데 방금 걷는 것도 힘들어 보였는데, 진짜로 안 다친 거 맞아?	But it looked like you were struggling to walk just now. Are you sure you didn't pull something?						0	
+page1.7	咳咳，那个只是我在测试用什么姿势走路可以把不适感降到最低而已。	咳，那個只是我在測試用什麼姿勢走路可以把不適感降到最低而已。	してないって！一番楽に歩ける姿を試してただけだよ。	에헴, 그건 그냥 어떻게 하면 불편함을 최소화하면서 걸을 수 있을지 테스트해 본 것뿐이야.	Ahem... I was just experimenting to see how I could walk to reduce my discomfort.						0	
+page1.8	肌肉酸痛确实不好受，可你刚刚的姿势看起来也并不怎么省力。	肌肉酸痛確實不好受，但你剛剛的姿勢看起來也不怎麼省力。	確かに筋肉痛は大変だけど、そんな歩き方じゃ余計に辛そうだが。	근육통이 확실히 힘들긴 한데, 방금 자세도 별로 효과적이지 않아 보여.	Sore muscles can definitely be uncomfortable, but your posture just now didn't seem like it was sparing you any effort.						0	
+page1.9	运动过后的身体酸痛本质上是大量的乳酸使肌肉发生收缩，不如还是去泡个热水澡吧。	運動過後的身體酸痛本質上是大量的乳酸使肌肉發生收縮，不如還是去泡個熱水澡吧。	運動後の筋肉痛は、大量の乳酸が溜まったことによる筋肉収縮が原因だ。お風呂に入った方がいいよ。	운동 후의 근육통은 주로 젖산이 많이 쌓여서 생기는 거니까, 차라리 뜨거운 물에 목욕하는 게 좋을 것 같아.	Muscle soreness after exercise is caused by a buildup of lactic acid that leads them to contract. It would be good to take a hot bath.						0	
+page1.10	这点原理我还是知道的啦……只不过早上醒了之后太饿了，就想先出来吃早饭。	這點原理我還是知道的啦……只不過早上醒了之後太餓了，就想先出來吃早餐。	それくらい分かってるよ……朝起きてお腹が空いたから、朝ごはんを食べようと思ったの。	그 정도 원리는 나도 알고 있어… 그런데 아침에 일어나자마자 너무 배가 고파서 먼저 아침 먹으러 나왔어.	I'm aware of that... I was just so hungry after waking up this morning that I wanted to get some breakfast first.						0	
+page1.11	没想到出来容易回去难……	沒想到要出來容易回去難……	そしたら戻れなくなっちゃって……	나오는 건 쉬웠는데 돌아가는 건 어렵네…	Getting here was a breeze. I just didn't think it would be so difficult to get back...						0	
+page1.12	长痛不如短痛，不如我扶你回房间吧。	長痛不如短痛，不如我扶你回房間吧。	もう少し我慢して、部屋まで支えるよ。	오랜 아픔보다는 짧은 아픔이 낫다. 차라리 내가 너 부축해서 방으로 가는 게 낫겠어.	It's best to just get it over with. Why don't I help you back to your room?						0	
+page1.13	哎？不过，我一个人确实不知道要多久才能挪回去……	哎？不過，我一個人確實不知道要多久才能挪回去……	え？まあ、私一人じゃ、いつ戻れるか分からないし……	응? 근데 확실히 나 혼자선 언제 돌아갈 수 있는지 모를 것 같아…	Eh? Well, I guess I don't even know how long it would take me to get there on my own...						0	
+page1.14	那就拜托你了分析员！	那就拜託你了分析員！	じゃあお願いね、分析員！	그럼 부탁할게, 분석가!	Alright then! Thanks, Adjutant!						0	
+page1.15	以后如果有什么要黑进数据库修改考勤、删除监控录像之类的事，尽管来找芙提雅老师帮忙！	以後如果有什麼要駭進資料庫修改考勤、刪除監視器錄影之類的事，儘管來找芙提雅老師幫忙！	もし今度勤怠記録を改ざんしたり、監視カメラの映像を削除したりする必要があったら、いつでもこのフリティア先生に言ってね！	나중에 만약 데이터베이스 해킹해서 출근 기록 수정하거나 감시 CCTV 영상 삭제할 일 있으면, 언제든지 나한테 부탁해!	If you need to hack into the database to tweak attendance records, wipe surveillance videos, or any other tech-related help, just name it! Professor Fritia is at your service!						0	
+page1.16	你怎么对这种事这么熟练……	你怎麼對這種事這麼熟練……	なんでそんなに慣れてんだよ……	너 왜 이런 거에 이렇게 익숙해…?	Why are you so good at stuff like that...?						0	
+page1.17	说起来，你肌肉痛得这么厉害，难道做了很大量的运动？	說起來，你肌肉痛得這麼厲害，難道做了很大量的運動？	そういえば、筋肉痛がこんなにひどいってことは、一体どれだけ運動したんだ？	그런데, 너 근육통이 그렇게 심하다면 굉장히 많은 운동을 한 거야?	By the way, you must have done a lot of exercise to make your muscles this sore, right?						0	
+page1.18	做了三十个仰卧起坐，然后慢跑了三公里，对芙提雅老师来说，已经是巨量运动了哦。	做了三十個仰臥起坐，然後慢跑了三公里，對芙提雅老師來說，已經是巨量運動了哦。	腹筋30回と、ジョギング3キロ。フリティア先生にとってはとてつもない運動量なんだよ。	윗몸 일으키기 30개 하고, 그다음에 3킬로미터 조깅을 했어. 이 정도면 나한텐 엄청난 운동량이야.	I did 30 sit-ups and jogged about two miles. For me, that's a lot of exercise.						0	
+page1.19	……你这体力也太差了吧！	……你這體力也太差了吧！	……体力なさすぎるだろ！	…너 체력이 너무 약하잖아!	...You're totally out of shape!						0	

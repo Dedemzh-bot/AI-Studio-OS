@@ -1,0 +1,40 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	可以吗？	可以嗎？	いいのですか？	괜찮을까요?	Can I?						0	
+2	当然可以的，琴诺一定没问题的。	當然可以的，琴諾一定沒問題的。	もちろん、チェルノちゃんならきっと大丈夫です。	물론이지. 체르노라면 분명 문제없을 거야.	Of course you can. You'll be fine, Cherno.						0	
+3	就是那些人，别害怕，大家都很喜欢琴诺的，加油！	就是那些人，別害怕，大家都很喜歡琴諾的，加油！	あの人たちです。怖がらないで、みんなチェルノちゃんのことが大好きです、頑張ってください！	저 사람들뿐이니 무서워하지 마. 다들 체르노를 좋아하고 있으니 힘내!	It's them. Don't be afraid — everyone likes you, Cherno! Do your best!						0	
+b-1											0	
+4	姐姐大人在做什么？	姐姐大人在做什麼？	お姉さまは何をしてる？	누님, 여기서 뭐하고 있어요?	What are you up to, Big Sis?						0	
+5	唔……在玩养成游戏？	唔……在玩養成遊戲？	うーん……育成ゲームですかね？	음… 육성 게임?	Um... are you playing house?						0	
+b-2											0	
+6	……	……	……	…	...						0	
+7	每次我都忍不住捉弄分析员，因为你的表情真的是太可爱了。	每次我都忍不住捉弄分析員，因為你的表情真的是太可愛了。	分析員の表情が可愛いので、毎回いじらずにはいられません。	참 귀엽다니까. 분석가 표정이 너무 귀여워서 놀리는 맛이 확실히 있어.	I just can't help but tease you, Adjutant. Your expressions are so cute.						0	
+8	哈哈不开玩笑了，觉得琴诺这孩子怎么样？	哈哈不開玩笑了，覺得琴諾這孩子怎麼樣？	ふふ、冗談ですよ。チェルノちゃんのことをどう思いますか？	하하하, 알겠어. 그만 놀릴게. 근데 분석가는 체르노에 대해서 어떻게 생각해?	Haha, alright, enough with the jokes. What do you think of Cherno?						0	
+b-3											0	
+9	怎么突然问这个？	怎麼突然問這個？	どうして急にそんなことを聞くんだ？	갑자기 그건 왜요?	Why are you asking that out of the blue?						0	
+10	哈哈不用紧张，只是随口一问。	哈哈不用緊張，只是隨口一問。	まぁ緊張なさらず、聞いてみただけですから。	하하, 그냥 물어보는 거니까 너무 긴장하지 마.	Haha, don't be scared. I'm just wondering.						0	
+11	琴诺她啊，的确是个非常敏感、不太好相处的孩子，但敏感不正是来源于心思细腻吗？	琴諾她啊，的確是個非常敏感、不太好相處的孩子，但敏感不正是來源於心思細膩嗎？	チェルノちゃんは確かに敏感で、仲良くなるには難しい子ですが……その敏感さは、繊細な心を持っているからではないでしょうか？	체르노는 예민하고 쉽게 친해지기 어려운 아이지만, 사실 예민한 이유가 섬세한 마음씨 때문이라는 거 알지?	Cherno is really sensitive, which makes her hard to get along with. But doesn't sensitivity stem from a delicate heart?						0	
+12	她总是能看得出很多常人难以察觉的，细枝末节的情绪。	她總是能看得出很多常人難以察覺的、極度細微的情感。	彼女はいつも、他人には気づけない些細な感情を見抜けます。	체르노는 다른 사람이 알아채기 힘든 사소한 감정들을 곧잘 캐치해 내 거든.	She's able to detect so many subtle emotions that ordinary people can't see.						0	
+13	她总是说她害怕，其实她只是害怕伤害别人。即使这样，她也会努力前进，争取和大家变得一样。	她總是說她害怕，其實她只是害怕傷害別人。即使這樣，她也會努力前進，努力變得和大家一樣。	彼女は常に怖いと口にしていますが、本当は他人を傷つけたくないだけなのです。それでも前に進もうと、みんなと同じになろうとしています。	항상 무섭다고 하는 것도 사람들을 다치게 하기 싫어서 그런 거야. 체르노도 다른 사람처럼 되기 위해서 항상 앞으로 나아가려고 노력하고 있어.	She always says she's scared, but she's actually just scared of hurting others. And she still works hard to be like everyone else.						0	
+14	我希望琴诺能被所有人接受，琴诺她自己确实也在努力。看着这样努力变化的小琴诺，就像是看自己的孩子在慢慢成长。	我希望琴諾能被所有人接受，琴諾她自己確實也在努力。看著這樣努力變化的小琴諾，就像是看自己的孩子在慢慢成長。	みんなに、チェルノのことを受け入れられるようになってほしいです。彼女自身、確実に努力をしています。こうして変わろうとしているチェルノちゃんを見ていると、まるで自分の子供がゆっくり成長していくのを見てるようで……	그래서 난 사람들이 체르노를 받아줬으면 좋겠어. 노력하고 변하려고 하는 모습을 보면 마치 성장하는 아이를 바라보는 것 같거든.	I hope everyone can come to accept her, because she's working hard. Watching our little Cherno try to change is like watching my own child grow up.						0	
+15	是不是很有成就感呢？	是不是很有成就感呢？	達成感があるんです。	나중엔 엄청난 성취감을 느낄 수 있겠지?	Doesn't it give you a great feeling of accomplishment?						0	
+b-4											0	
+16	恩雅其实很年轻，怎么莫名散发出了母性的光辉？	恩雅其實很年輕，怎麼莫名散發出了母性的光輝？	エンヤ姉はまだ若いのに、こうも母性に溢れているのはなぜなんだ？	엔야 누님은 나이도 젊은데 왜 이렇게 모성애가 충만한 거죠?	Enya, you're still pretty young yourself. Why do you have such a motherly air about you?						0	
+17	分析员居然敢开姐姐大人的玩笑了！	分析員居然敢開姐姐大人的玩笑了！	ふふ、それはお姉さまをからかってるのですか？	분석가! 감히 나한테 그런 몹쓸 농담을 하다니!	I can't believe you'd make fun of your Big Sis, Adjutant!						0	
+18	我拍拍脑袋装了个傻，以回应恩雅并不生气的质问。	我拍拍腦袋裝了個傻，以回應恩雅並不生氣的質問。	エンヤ姉の質問に、私は頭を叩いてとぼけるように答えた。	난 머리를 만지작거리며 순진한 척을 했고, 엔야에게 실례가 되지 않을 질문을 했다.	I patted my head and acted stupid in response to Enya's feigned anger.						0	
+b-5											0	
+19	所以，恩雅不参加比赛吗？	所以，恩雅不參加比賽嗎？	エンヤ姉はゲームに参加しないのかなって。教官の提案が子供っぽいからとか。	엔야 누님은 시합에 참여 안 하는 건가요?	So, you're not joining in on the competition?						0	
+21	我想，即使没赢，如果真心请求分析员做事的话，分析员一定会答应的吧？	我想，即使沒贏，如果真心請求分析員做事的話，分析員一定會答應的吧？	勝たなくても、心を込めてお願いすれば、分析員もきっと引き受けてくれるでしょう？	시합은 생각해 봤는데, 굳이 시합이 아니어도… 분석가한테 진심으로 부탁하면 설마 거절하겠어?	The way I see it, even if I don't win, if I really want you to do something, you'll definitely agree — right?						0	
+22	琴、琴诺拿到了！天工福灯……纪念品……	琴、琴諾拿到了！天工福燈……紀念品……	チ……チェルノ貰いました！天工福灯の……記念品……	체, 체르노도 얻었어요! 천공 행운 초롱… 기념품…	I-I got it! A Blessed Lantern... Souvenir...						0	
+23	是之前莫尔索救下的那个人送来的！	是之前莫爾索救助的那個人送我的！	この前ムルソーが助けた人がくれたんです！	예전에 모르소가 구해줬던 사람이 건네줬어요!	The man who Meursault saved before gave it to me!						0	
+24	没错吧，我说过的，大家都很喜欢琴诺。	沒錯吧，我說過的，大家都很喜歡琴諾。	ほら、言った通りでしょう？みんなチェルノちゃんのことが大好きって。	봐봐, 내 말이 맞지? 다들 체르노를 좋아할 거라고 했잖아.	Yep, it's just like I said. Everyone really likes you, Cherno.						0	
+b-6											0	
+25	没错，大家都很喜欢琴诺。	沒錯，大家都很喜歡琴諾。	ああ、みんなチェルノのことが大好きだ。	맞아. 다들 체르노를 좋아해.	That's right. Everyone likes you.						0	
+26	欸？分析员也在？！	欸？分析員也在？！	え！ぶ、分析員さんいたんですか！？	아?! 분석가님도 있었네요.	Eh? T-The Adjutant is here!?						0	
+27	看来是真的……大家不讨厌琴诺。	看來是真的……大家不討厭琴諾。	どうやら本当だったみたいです……チェルノは嫌われていません。	정말 그런 것 같아요… 다들 절 미워하지 않는 것 같아요.	Maybe you're right... No one hates me...						0	
+28	谢谢……分析……员……	謝謝……分析……員……	ありがとうございます……分析員……さん……	고마워요. 분석가님…	Thank you, A—Adjutant...						0	
+29	恩雅姐我继续去收集了！	恩雅姐我繼續去收集了！	エンヤ姉さん！私、また集めてきますね！	엔야 언니, 전 그럼 계속해서 수집하러 갈게요!	Enya, I'm going to get more!						0	
+b-7											0	
+30	什么？	什麼？	えっ、なんて？	응?	What?						0	
+31	完全没听清琴诺走之前所说的话，只能向恩雅投去疑惑的眼神，祈求她可以帮忙解读琴诺留下的话。	完全沒聽清楚琴諾走之前所說的話，只能向恩雅投以困惑的眼神，希望她可以幫忙解釋琴諾所說的話。	チェルノの言葉を聞き逃してしまった。エンヤ姉に視線を送り、チェルノが残した言葉を聞かせてくれるよう懇願した。	체르노가 떠나기 전에 한 말을 못 알아들어, 궁금한 눈빛으로 엔야를 바라봤고, 체르노가 남긴 말을 알려달라고 도움을 청했다.	I didn't understand anything Cherno said before she ran off, so I could only shoot Enya a puzzled look, begging her to help translate.						0	
+32	琴诺在感谢分析员的夸奖呢。看吧，这孩子是真的在成长呢。	琴諾在感謝分析員的誇獎呢。看吧，這孩子是真的在成長呢。	チェルノちゃんは分析員にお礼を言ってるんです。ね、この子は本当に成長してるでしょう？	체르노는 아마 분석가 칭찬에 감사의 회답을 한 것 같아. 체르노 녀석… 많이 성장했네.	Cherno was thanking you for the compliment, Adjutant. See? That kid is really growing up.						0	

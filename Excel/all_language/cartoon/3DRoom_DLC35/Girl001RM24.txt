@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	哟~亲爱的。	喲~親愛的。	よっ、あなた。	요~ 자기.	Yo~ Darling.						0	3.5版本随机剧情
+page1.2	这个“哟~”是怎么回事，你是不是又有什么鬼主意？	這個「喲~」是怎麼回事，你是不是又有什麼鬼主意？	どうした、また何か企んでるだろ。	 '요~'는 뭐야, 또 무슨 꿍꿍이 있는 거 아니야?	What's with that "yo"? What are you plotting this time?						0	3.5版本随机剧情
+page1.3	才不是什么鬼主意呢。	才不是什么鬼主意呢。	企んでないよ。	꿍꿍이 아니거든.	I'm not plotting anything.						0	3.5版本随机剧情
+page1.4	为了给我们的蜜月期增加一点小情趣，我可是斥巨资买了一台“复古扭蛋机”。	為了給我們的蜜月期增加一點小情趣，我可是斥巨資買了一台「復古扭蛋機」。	ハネムーンにちょっとした楽しみを足すために、奮発して「レトロガチャマシン」を買ったの。	우리의 허니문 기간에 작은 재미를 더하려고 거금을 들여서 '복고풍 가챠 기계'를 샀어.	To spice up our honeymoon, I spent a fortune on a retro gacha machine.						0	3.5版本随机剧情
+page1.5	哦？那扭蛋里应该藏着不少惊喜了？	哦？那扭蛋裡應該藏著不少驚喜了？	へえ、カプセルにサプライズを詰めたってわけか。	오? 그럼 가챠 안에 신기한 게 많이 숨어 있겠네?	Oh? I guess there must be surprises hidden inside the gacha capsules.						0	3.5版本随机剧情
+page1.6	当然~亲爱的快试试看吧！	當然~親愛的快試試看吧！	そういうこと。はやく試してみて！	당연하지~ 빨리 해 봐, 자기!	Of course~ Come on, give it a spin!						0	3.5版本随机剧情
+choice01	左扭一圈	左扭一圈	左にひねる	왼쪽으로 한 바퀴	Twist left						0	3.5版本随机剧情
+page2.1	湿漉漉水中大作战？	濕漉漉水中大作戰？	びしょ濡れ水中大作戦？	흠뻑 수중 대작전?	Splashy Wet Water Battle?						0	3.5版本随机剧情
+page2.2	诶？亲爱的抽中了这个吗？	誒？親愛的抽中了這個嗎？	え？それを引いたの？	어? 자기 이걸 뽑았어?	Oh? You pulled that one?						0	3.5版本随机剧情
+page2.3	那，那我们就去海边玩一整天吧，我有提前准备好防晒霜。	那，那我們就去海邊玩一整天吧，我有提前準備好防曬乳。	じゃあ……海に行って一日中遊ぼう！ちゃんと日焼け止めも用意してるし。	그, 그럼 하루 종일 해변에서 놀자. 자외선 차단제는 미리 챙겨 뒀어.	Then, we'll spend a day playing at the beach. I already prepared some sunscreen.						0	3.5版本随机剧情
+page2.4	如果玩累了，还可以在沙滩椅上美美睡一觉，想想都觉得会是很惬意的一天呢……	如果玩累了，還可以在沙灘椅上美美睡一覺，想想都覺得會是很愜意的一天呢……	遊び疲れたら、ビーチチェアで昼寝しよう。きっと最高の一日になるね……	놀다가 지치면, 해변 의자에 편히 누워서 한숨 자도 되고… 생각만 해도 되게 여유로운 하루일 것 같네…	And if we get tired, we can sneak a nap together on the beach chair. Sounds nice, right...?						0	3.5版本随机剧情
+choice02	右扭一圈	右扭一圈	右にひねる	오른쪽으로 한 바퀴	Twist right						0	3.5版本随机剧情
+page3.1	甜蜜蜜双人漫展？	甜蜜蜜雙人漫展？	甘々コスプレ？	달콤 2인 코믹 월드?	Sweet Couple Comic Con?						0	3.5版本随机剧情
+page3.2	诶？亲爱的抽中了这个吗？	誒？親愛的抽中了這個嗎？	え？それを引いたの？	어? 자기 이걸 뽑았어?	Oh? You pulled that one?						0	3.5版本随机剧情
+page3.3	那我今晚会准备很多动漫里的服装，亲爱的可以挑些你喜欢的……	那我今晚會準備很多動漫裡的時裝，親愛的可以挑些你喜歡的……	じゃあ、今夜はアニメのコスチュームたくさん用意するね。好きなのを選んで……	그럼 오늘 밤엔 애니메이션에 나오는 의상을 많이 준비할게. 자기가 마음에 드는 걸 골라 봐…	Then, I'll get a bunch of anime costumes ready for tonight. You can pick whatever you like...						0	3.5版本随机剧情
+page3.4	也、也帮我挑几件，最好是同色系的，毕竟是双人……漫展嘛。	也、也幫我挑幾件，最好是同色系的，畢竟是雙人……漫展嘛。	それと……私の分も選んでね。同じ色で合わせたいし、ふたりで甘々の……コスプレだもん。	나, 나도 몇 개 골라 줘. 가능하면 같은 색 계열로. 우리의… 달콤한 2인 코믹 월드니까.	Help me pick a few even, ideally in matching colors. After all, it is a couple's comic con~						0	3.5版本随机剧情

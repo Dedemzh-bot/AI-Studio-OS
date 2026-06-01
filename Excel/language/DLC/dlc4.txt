@@ -1,0 +1,6 @@
+字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	zh_CN	disable	Remark
+task_type01	区域事件	0	
+task_type02	挑战事件	0	
+task_type03	主线任务	0	
+TxtDefenseAction12	未部署弓箭会员：%s	0	

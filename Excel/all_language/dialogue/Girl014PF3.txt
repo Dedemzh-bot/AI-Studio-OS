@@ -1,0 +1,62 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	因突发的事故，演习不得不中止，所幸的是全部队员已被找到，并被送往医疗部。	因突發的事故，演習不得不中止，所幸的是全部隊員已被找到，並被送往醫療部。	突然の事故で演習は中止となったが、幸い、全ての隊員は見つかり、医療部に運ばれた。	예기치 못한 돌발 사고로 훈련이 중지됐고, 다행히 팀원들을 모두 찾아 의무실로 옮길 수 있었다.	Because of the sudden events, the exercise had to be canceled. Fortunately, all squad members were found and sent to the medical bay.						0	
+2	我的内心尚有很多疑问，一天后，我来到作战指挥室，希望卡罗琳能为我解答一二。	我的內心尚有很多疑問，一天后，我來到作戰指揮室，希望卡羅琳能為我解答一二。	私の心にはまだ疑問があるので、翌日、作戦室に行ってカロリンに説明を聞きに行った。	다음날, 의구심을 품고 캐롤린에게 상황 설명을 좀 듣고자 작전 지휘실로 향했다.	I still had a lot of unanswered questions, though. The next day, I came to the command room, planning to get some answers from Caroline.						0	
+3	喔，这么早就来了啊。	喔，這麼早就來了啊。	お、早いですね。	오, 이렇게 일찍 어쩐 일이세요.	Oh, you're here early.						0	
+b-1											0	
+4	大家的情况还好吗？	大家的情況還好嗎？	みんなの調子はどう？	다들 괜찮은 거야?	Is everyone okay?						0	
+5	不用担心，治疗后大家的状态都很稳定。	不用擔心，治療後大家的狀態都很穩定。	心配いりません。治療した後、みんなの状況は安定しています。	다들 치료도 받고, 안정을 되찾았으니 너무 걱정하지 마세요.	No need to worry. Everyone's been stable since receiving treatment.						0	
+b-2											0	
+6	昨天的演习，到底发生了什么？	昨天的演習，到底發生了什麼事？	昨日の演習、一体何があった？	어제 진행했던 훈련에 대해서 좀 설명해 줄 수 있어?	What actually happened during yesterday's exercise?						0	
+b-3											0	
+7	星期三他们的反应明显不对劲。	星期三他們的反應明顯不對勁。	ウェンズデーたちの反応も明らかにおかしい。	모두 이상한 반응을 보였잖아.	There was clearly something odd about Wednesday and the others' reaction.						0	
+8	事故调查还在进行中，没那么快有结论。	事故調查還在進行中，沒那麼快有結論。	事故の原因はまだ調査中です、結論はそう早く出ません。	아직은 조사 중이라 아무것도 알 수 없는 상황이에요.	We're still investigating the cause. It'll take a little time.						0	
+9	如果你非要讨个说法，“环境模拟装置意外失控，导致海姆达尔部队成员在过量泰坦污染及疲劳的双重压力下身体超负荷，失去行动力。”	如果你非要有個說法，“環境模擬裝置意外失控，導致海姆達爾部隊成員在過量泰坦汙染及疲勞的雙重壓力下身體超過負荷，失去行動力。 ”	強いて言えば、「環境シミュレーション装置の予想外の暴走で、過剰なタイタン汚染と疲労により、ヘイムダル部隊のメンバーの体に負担がかかり、行動力を失った」	"시뮬레이션 장치가 통제를 잃어 팀원들이 타이탄 오염과 피로도의 이중 압박을 받았고, 이로 인해 몸에 과부하가 와 전투력을 상실했다."	If you really want an explanation: "The simulator went out of control, exposing the Heimdall Force to excessive Titagen and exhaustion, who couldn't cope."						0	
+10	上面就是这么回复我的。	上面就是這麼回覆我的。	と、上は言ってましたけど。	이게 상부에서 전해준 내용이고요.	That's what the upper levels told me.						0	
+11	看来又是我们没有资格了解的内容。	看來又是我們沒有資格了解的內容。	また私たちが知る権利がない内容らしい。	보아하니 내 권한으로는 알 수 없는 내용들 같았다.	Sounds like more content we're not qualified to know.						0	
+12	能让天启者失去力量某种存在出现了，如同笼罩在头顶的一片阴影，令人不安……	能讓天啟者失去力量的某種存在出現了，如同籠罩在頭頂的一片陰影，令人不安……	覚醒者の力を失わせるような存在が現れた。頭上を覆う影のように、不安にさせる……	계시자 힘을 무력화 시키는 존재가 나타났다니… 순간 하늘에 먹구름이 드리워지듯 불안한 마음이 들었다.	Something capable of depriving Manifestations of their power had emerged. It made me uneasy, like a great, dark cloud covering the sky...						0	
+13	走出作战指挥室，门口竟站了个让我感到意外的人，一看到我出现，便迈步向我走来。	走出作戰指揮室，門口竟站了個讓我感到意外的人，一看到我出現，便邁步向我走來。	作戦室を出ると、思わぬ人が立っていた。私を見た途端、私に向かって歩いてきた。	작전 지휘실 밖으로 나오자 뜻밖에 인물이 서 있었다. 상대도 날 확인하고 가까이 다가왔다.	I left the command room and unexpectedly found someone standing by the door. She approached me as soon as I came out.						0	
+14	分析员，你的伤……	分析員，你的傷……	分析員、あなたの傷……	분석가님, 상처는…	Adjutant, are your injuries...						0	
+b-4											0	
+15	一点小伤而已，已经没关系了。	一點小傷而已，已經沒關係了。	ただのかすり傷、もう大丈夫だ。	크게 다친 곳은 없어요. 괜찮아요.	It's just a little scrape. I'm pretty much all better.						0	
+b-5											0	
+16	我该和你说声谢谢。多亏你在，星期三他们才能及时得救。	我該和你說聲謝謝。多虧你在，星期三他們才能及時得救。	お礼を言わなきゃ。君がいてくれたおかけで、ウェンズデーたちを無事助けられた。	덕분에 웬스데이와 다른 사람들을 제때 구할 수 있었어요. 정말 고마워요.	I should give you my thanks. It's because of you that Wednesday and the others were able to be saved in time.						0	
+17	姬辰星轻轻摇了摇头。	姬辰星輕輕搖了搖頭。	姫辰星は軽く首を振った。	수성은 고개를 저었다.	Chenxing gently shook her head.						0	
+18	我的记忆并没有选择，无论是想要记住的还是不想记住的统统会刻在脑子里，我只是将有用的信息整理出来。	我的記憶並沒有選擇，無論是想要記住的還是不想記住的統統會刻在腦子裡，我只是將有用的訊息整理出來。	私の記憶は選択できません。覚えたいもの、覚えたくないもの、全て頭に残ります。私はただ使える情報を整理しただけです。	제게는 선택권이 없잖아요. 기억하고 싶든, 그게 아니든 모두 다 기억할 수밖에 없으니까… 전 단지 유용한 정보를 정리한 것뿐이에요.	My memory doesn't come with a choice. Everything is within my brain, whether I desire it or otherwise, and all I need to do is organize that information.						0	
+19	分析员记住了你关心在意的人的喜好和特点。	分析員記住了你關心在意的人的喜好和特點。	分析員は気にかける人たちの趣味と特徴を覚えています。	분석가님은 분석가님이 좋아하는 사람들의 성격이라던가 특징을 기억했던 거고.	Adjutant, you also memorize the interests and traits of those you care about.						0	
+20	没有权衡，没有计较，是内心自发的选择。	沒有權衡，沒有計較，是內心自發的選擇。	利害を考えず、言い争いもない、本心からの選択です。	이해득실을 따지지 않고 순전히 마음속에서 우러나온 선택이었죠.	It's a spontaneous choice from within, that's neither weighed nor calculated.						0	
+21	……最后能找到里芙她们，是分析员的功劳。	……最後能找到里芙她們，是分析員的功勞。	……最後、リフたちが見つかったのは、分析員のおかげです。	… 마지막에 리브와 다른 사람들을 찾게 된 건 무엇보다 분석가님의 공로가 커요.	... It was your contribution that allowed us to find Lyfe and the others in the end.						0	
+22	她的语气中有些羡慕，我想起她似乎总是独自站在人群外，看起来又清醒，又寂寞。	她的語氣中有些羨慕，我想起她似乎總是獨自站在人群外，看起來又清醒，又寂寞。	彼女の口調はどこか羨ましそうに聞こえた。彼女はいつも人から離れていて、冷静であるが、寂しそうに見えることを思い出した。	수성의 말투에서 무언가 부러움이 묻어났다. 항상 사람 없는 곳에서 혼자서 있었던 게 외로웠던 걸까… 쓸쓸하고 외로워 보였다.	Her voice had a sliver of envy in it. I remembered how she seemed to always stand outside the group, alert and alone.						0	
+23	我必须得说点什么。	我必須得說點什麼。	何か言わないと。	무언가라도 말해줘야겠다고 생각했다.	I had to say something.						0	
+b-6											0	
+24	你可以试试用他们带来的没用的信息，	你可以試試用他們帶來的沒用的訊息，	君は彼らが持ってきた無駄な情報を使って、	반대로 쓸모없는 정보를 역이용해 보는 건 어때요?	You can try making use of their information, although it might appear useless at first...						0	
+25	什么？	什麼？	何？	네?	What?						0	
+b-7											0	
+26	试着和海姆达尔部队的大家相处，增加一些回忆。	試著和海姆達爾部隊的大家相處，增加一些回憶。	ヘイムダル部隊のみんなと仲良くして、思い出を増やしてみて。	지금부터라도 헤임달 부대 사람들하고 친하게 지내면서 추억을 쌓아봐요.	Try getting along with the Heimdall Force, and give yourself a few new memories.						0	
+b-8											0	
+27	哪怕没用，或许能稍微稀释一下你不喜欢的记忆？	哪怕沒用，或許能稍微稀釋一下你不喜歡的記憶？	無駄な情報でも、君の嫌な記憶を薄めることができるかもしれない。	그렇게 되면 쓸모없는 기억일지라도 당신이 싫어하는 기억들을 희석시켜줄 수도 있잖아요?	It might not be useful for missions, but maybe it can dilute the memories you dislike a little?						0	
+28	比如你们都是称呼里芙为星期三？	比如你們都是稱呼里芙為星期三？	例えば、あなたたちがリフをウェンズデーと呼んでいることですか？	예를 들면 모두가 리브를 웬스데이라고 부르는 것처럼?	Like how you all call Lyfe "Wednesday"?						0	
+b-9											0	
+29	……	……	……	…	...						0	
+30	噗。	噗。	ぷっ。	풉… 하하하…	Pfft.						0	
+31	我愣在这里，不知该作何反应，这是我第一次见到她露出笑意，淡淡的，像角落里不经意开的花。	我愣在這裡，不知該作何反應，這是我第一次見到她露出笑意，淡淡的，像角落裡不經意開的花朵。	私は驚いて、反応に困っていた。彼女が笑うのは初めて見た。それは軽くて、隅っこに咲いた花のようだ。	난 어떻게 반응을 해야 할지 몰라 멍하니 서 있었다. 그녀가 웃는 모습을 처음 봤기 때문이다. 마치 구석에 있는 꽃이 활짝 핀 것처럼.	I stood stunned, not quite sure how to react. Her smile, which I hadn't seen before, was like a pale flower quietly blooming in a hidden nook.						0	
+33	我愿意试试。	我願意試試。	私はやってみたいです。	고마워요. 한번 시도해 볼게요.	I'm willing to try.						0	
+34	眼前的少女的神态鲜活了起来，似乎自一团纷杂的绳结中，迈出了一小步。	眼前的少女的神態鮮活了起來，似乎自一團紛雜的繩結中，邁出了一小步。	目の前の少女は、もつれた糸の中から一歩を踏み出しように、生き生きとしてきた。	눈앞에 있던 수성의 표정이 한결 나아졌다. 복잡하게 뒤엉켰던 매듭이 풀어진 듯했다.	The girl's gaze became vivid. It was like she'd taken a small step out of the mess of tangled strings.						0	
+35	你好，分析员，重新认识一下。	你好，分析員，重新認識一下。	こんにちは、分析員。改めて挨拶をさせていただきます。	안녕하세요, 분석가님! 다시 한번 인사드릴게요!	Hello, Adjutant. Let's get to know each other all over again.						0	
+36	我叫姬辰星，你可以叫我辰星。	我叫姬辰星，你可以叫我辰星。	私は姫辰星、辰星と呼んでください。	전 희수성이라고 해요. 그냥 수성이라고 불러주셔도 돼요!	I'm Ji Chenxing. You can call me Chenxing.						0	
+37	你的记忆力很好，你应该记得自己的任务到底是什么。	你的記憶力很好，你應該記得自己的任務到底是什麼。	あなたの記憶力はとてもいい、自分のすべき任務を忘れてないよな？	기억력이 좋으니 미션이 뭔지는 정확히 기억하고 있겠지?	Your memory is excellent, so you should remember very clearly what exactly your mission is.						0	
+38	别做多余的事情。	別做多餘的事情。	余計なことをするな。	쓸데없는 짓은 안 하는 게 좋을 거야.	Don't do anything unrelated to that.						0	
+39	……	……	……	…	...						0	
+40	确认你的报告没有遗漏？	確認你的報告沒有遺漏？	報告書に書き忘れたことはないか？	보고서에 누락된 내용이 없는 게 확실한가?	Are you sure there's nothing missing in your report?						0	
+41	……嗯。	……嗯。	……はい。	… 네.	...Yes.						0	
+42	姬辰星确实遗漏了一些。	姬辰星確實遺漏了一些。	報告書には確かに書いてないことがある。	사실은 누락된 내용이 있었다.	Ji Chenxing had indeed omitted things, though.						0	
+43	她遗漏了一些被她判断为不需要告知老人会的事情。	她遺漏了一些被她判斷為不需要告知老人會的事情。	彼女はOLD6が知る必要のないことと判断したものを書いていない。	누락된 내용은 장로회에 알릴 필요가 없다고 그녀가 판단했던 것들이었다.	She'd omitted things she judged unnecessary to share with the Elders.						0	
+44	比如那位分析员和队友之间深厚的羁绊。	比如那位分析員和隊友之間深厚的羈絆。	例えば、あの分析員とチームメイトの深い絆。	예를 들면 분석가와 팀원 사이에 있었던 의미 있던 시간들…	Like the deep bonds between that Adjutant and his squadmates.						0	
+45	比如那些海姆达尔队员独特的性格和在意的事物。	比如那些海姆達爾隊員獨特的性格和在意的事物。	例えば、ヘイムダル隊員の独特な性格と気になるもの。	그리고 헤임달 팀원들 각각의 독특한 성격과, 그들이 애지중지했던 물건들…	Or the peculiar personalities and interests of those Heimdall members.						0	
+46	又比如，里芙身上发生的异常状况，以及当她找到里芙时在她身上发现的药物残留……	又比如，里芙身上發生的異常狀況，以及當她找到里芙時在她身上發現的藥物殘留……	リフの身に起きた異常や、リフを見つけた時、彼女から発見した薬物の残留物……	마지막으로 리브에게 있었던 이상 현상, 그리고 리브를 찾았을 때 그녀에게서 발견된 잔여 약물들…	Or, say, the abnormalities that happened to Lyfe, and how she had drug residue on her when was found...						0	
+47	那是她曾在脑科学实验室中亲手制出的失败与遗憾。	那是她曾在腦神經科學實驗室中親手製出的失敗與遺憾。	あれは彼女が脳神経研究室で、自らの手で作った失敗と心残り。	사실 해당 약물들은 수성이 뇌과학 실험 중 손수 만들었던 것으로 일종의 실패작이라 볼 수 있었다.	Those were regrets and failures she'd built with her own hands in the neuroscience laboratory.						0	
+48	好，你可以走了。	好，你可以走了。	分かった、あなたはもう帰っていい。	그래. 그럼 이만 돌아가.	Okay, you may leave.						0	
+49	舍塔老人，你带来的人，最好能管好自己。	θ老人，你帶來的人，最好能管好自己。	Θ、あなたが連れてきた人は、余計なことをしないといいんだが。	θ 장로, 당신이 데려온 저 아이, 본인 관리를 조금 더 철저히 했으면 합니다.	Elder θ, that girl you brought had better be able to take care of herself.						0	
+50	不必担心，那是个非常听话的孩子。	不必擔心，那是個非常聽話的孩子。	心配するな、あれはとても大人しい子だ。	걱정 마시죠. 그래도 말을 굉장히 잘 듣는 아이니.	You need not worry. She is an extraordinarily obedient child.						0	
+51	不仅是她的母亲，她的家族，就连她亲手封禁的那次“失败的实验”，都是非常有用的资源。这次的成果将成为我们有利的道具。	不僅是她的母親，她的家族，就連她親手封禁的那次“失敗的實驗”，都是非常有用的資源。這次的成果將成為我們有利的道具。	彼女の母、彼女の家族だけではなく、彼女自身が封印した「失敗の実験」も、とても使えるものだ。今回の成果は我々にとって有利な道具になる。	아이의 모친과 가족, 그리고 스스로 봉쇄한 기억들은 굉장히 유용한 정보들입니다. 이번 성과도 저희에게 엄청난 이익을 가져다줄 거고요.	Her mother, her family, and the "failed experiment" she sealed away herself are all highly useful resources. These results are valuable tools.						0	
+52	至于那点小动作，就当成是给她的奖励吧。	至於那點小動作，就當成是給她的獎勵吧。	それくらいの小細工は、彼女へのご褒美だと思ってやれ。	방금 부렸던 허튼수작들은 수성한테 준 일종의 보상이라 생각하고, 일단은 그냥 넘어가죠.	As for that little move, let's see it as a reward for her.						0	

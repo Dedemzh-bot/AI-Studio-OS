@@ -1,0 +1,7 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	第一关过了，现在该往哪边走？	第一關過了，現在該往哪邊走？	最初のは終わったよ。次はどっちに行くべき？	첫 번째 관문은 지났고, 이제 어디로 가야 하지?	We've made it through the first stage. Where to next?						0	
+2	你需要穿过棚户区，才能进入污染区。地图和资料存放在通讯器中，我会教你怎么查看。	你需要穿過棚戶區，才能進入汙染區。地圖和資料存放在通訊器中，我會教你怎麼查看。	スラムエリアを通り抜けると、汚染エリアに入ります。地図と資料は通信機に入っていて、確認方法を教えますから。	판자촌을 지나야 오염 구역으로 진입할 수 있어요. 단말기에 지도랑 자료들이 있는데, 어떻게 보는지 알려드릴게요.	You'll need to pass through the Camps to get to the Contaminated Sections. The map and relevant info are stored in your communicators. I'll show you how to check.						0	
+3	这里地形非……杂……标……你……	這裡地形非……雜……標……你……	ここの地形はとて……ざつ……ひょう……あなた……	해당 지형은 매우… 좌… 표… 가…	The terrain... compl... check... your...						0	
+5	喂？喂？信号断了。	喂？喂？訊號斷了。	もしもし？もしもし？圏外か。	여보세요? 여보세요? 신호가 끊겼는데.	Hello? You there? The signal's cut off.						0	
+4	二零六零年的电话信号还是这样吗？	二零六零年的電話訊號還是這樣嗎？	2060年の電話も、電波は相変わらずだね？	2068년인데도 통신 상태가 이 모양이라니…	It's 2060 — you'd think they would've done something to fix signal issues.						0	

@@ -1,0 +1,35 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	嗯哼哼~终于又拿到一张「乐透卡」了。	嗯哼哼~終於又拿到一張「樂透卡」了。	んふふ、また「ロトカード」ゲット！	유후~ 드디어 또 다른 [로또 카드]를 얻었어.	Hm-hmm~ Snagged another Lottery Card!						0	2.7版本妮塔入队剧情
+page1.2	有分析员在，感觉收集「乐透卡」也并不困难嘛。	有分析員在，感覺收集「樂透卡」也不困難嘛。	分析員が一緒だと、カード集めもあんま苦労しないね。	분석가가 있어서 그런지, [로또 카드]를 모으는 게 생각보다 어렵지 않네.	With you around, Adjutant, collecting these really doesn't feel that hard~						0	2.7版本妮塔入队剧情
+page1.3	话是这么说……	話是這麼說……	そうは言っても…	그렇긴 한데…	Well... maybe.						0	2.7版本妮塔入队剧情
+page1.4	但我们现在没有新的线索了。	但我們現在沒有新的線索了。	今は新しいヒントが途切れちゃったからな。	이젠 더 이상 새로운 단서가 없어.	But for now, we're out of leads.						0	2.7版本妮塔入队剧情
+page1.5	哎？这样吗？	哎？這樣嗎？	え、そうなの？	아… 정말?	Huh? Seriously?						0	2.7版本妮塔入队剧情
+page1.6	嗯，之前有提示的时候至少还有寻找的方向。	嗯，之前有提示的時候至少還有尋找的方向。	うん。さっきまでは手掛かりがあったから探しようがあったけど…	응, 그때는 단서가 있어서 적어도 찾을 수 있는 방법은 있었어.	Yeah. The clues we had were leading us in the right direction.						0	2.7版本妮塔入队剧情
+page1.7	现在线索突然断了，就算是我也暂时没什么办法。	現在線索突然斷了，就算是我也暫時沒什麼辦法。	今は手も足も出ない状況で、さっぱりだな。	하지만 지금은 단서가 하나도 없어서, 나도 별다른 방법이 없어.	But now that they've dried up... even I'm drawing a blank.						0	2.7版本妮塔入队剧情
+page1.8	在我思索的时候，妮塔忽然咧开嘴，给了我一个拥抱。	在我思索的時候，妮塔忽然咧嘴，給了我一個擁抱。	私が考え込んでいると、ニタがふっと笑い、ぎゅっと抱きしめてきた。	내가 생각에 잠겨있을 때, 니타는 갑자기 웃으며 나를 꼭 안아주었다.	As I fell into thought, Nita suddenly flashed a grin — then wrapped me in a warm, sudden hug.						0	2.7版本妮塔入队剧情
+page1.9	像是要给我力量一样，许久许久后，她才将我放开。	像是要給我力量一樣，許久許久後，她才將我放開。	あたたかいハグがしばらく続き、まるで力を注ぐようにして、ニタはようやく体を離す。	그녀는 마치 내게 힘을 주려는 듯, 한참 후에야 나를 놓아주었다.	She didn't let go for quite a while, like she was lending me her strength.						0	2.7版本妮塔入队剧情
+page1.10	分析员总是考虑太多啦。	分析員總是考慮太多啦。	分析員って、すぐ考えすぎるんだよ。	분석가는 항상 너무 많은 걸 생각하고 있어.	You always overthink stuff, Adjutant.						0	2.7版本妮塔入队剧情
+page1.11	这样的话，妮塔有什么好办法吗？	這樣的話，妮塔有什麼好辦法嗎？	じゃあ、ニタには何かいい案があるか？	그럼 니타한테 무슨 해결 방법이라도 있어?	Well then — do you have a brilliant suggestion for our current situation?						0	2.7版本妮塔入队剧情
+page1.12	那当然……没有，嘿嘿。	那當然……沒有，嘿嘿。	もちろん…ない！へへ。	물론… 해결 방법은 없지.	Of course I do — not. Hehe.						0	2.7版本妮塔入队剧情
+page1.13	不过我觉得，越是到这种时候，就越应该……	不過我覺得，越是到這種時候，就越應該……	でもこういうときこそ…	하지만 내가 생각하기엔, 이런 순간일수록…	But I do think... when your brain's stuck like this, there's only one thing to do:						0	2.7版本妮塔入队剧情
+page1.14	相，信，直，觉！	相，信，直，覺！	ちょっ・か・んを信じるのっ！	직감에 의존해야 한다고!	Trust. Your. Gut!						0	2.7版本妮塔入队剧情
+page1.15	我倒是不抗拒这种想法。	我倒是不抗拒這種想法。	直感か。わりと嫌いじゃないな。	그런 생각은 반대하지 않지.	Sounds like a plan.						0	2.7版本妮塔入队剧情
+page1.16	那么，妮塔是想怎么做？	那麼，妮塔是想怎麼做呢？	で、具体的にどうするつもり？	그럼 니타는 어떻게 할 생각이야?	So? What's your gut telling you to do?						0	2.7版本妮塔入队剧情
+page1.17	据说进入冥想状态之后，人就能预知到未来的事情。	據說進入冥想狀態之後，人就能預知未來的事。	冥想すると未来が視えるって言うし！	명상하면 미래를 예견할 수도 있대.	I heard that if you meditate really hard, you might catch a glimpse of the future!						0	2.7版本妮塔入队剧情
+page1.18	我要试试看，分析员就帮我记录下我在冥想时都说了什么吧！	我要試試看，分析員就幫我記錄下來我在冥想時都說了什麼！	試してみる！分析員は私が呟いたことをメモしてね！	그래서 한 번 해보려고 해. 분석가는 내가 명상할 때 무슨 말을 했는지 기록 좀 해줘 봐!	So I'm gonna give it a try! Adjutant — your job is to write down everything I say while I'm in the zone, got it?						0	2.7版本妮塔入队剧情
+page1.19	一段时间后……	一段時間後……	しばらくして…	일정 시간이 흐른 후…	Some time later...						0	2.7版本妮塔入队剧情
+page1.20	妮塔，醒醒。	妮塔，醒醒。	ニタ、起きろ。	니타, 일어나.	Nita. Wake up.						0	2.7版本妮塔入队剧情
+page1.21	哈欠……啊，分析员？这里是……	哈欠……啊，分析員？這裡是……	ふぁ…あれ、分析員？ここって…	하아암… 분석가? 여긴 어디야?	Yaaawn... Huh? Adjutant? Where are we...?						0	2.7版本妮塔入队剧情
+page1.22	你冥想到一半就睡着了。	你冥想到一半就睡著了。	冥想の途中で寝落ちしたんだよ。	니타가 명상하다가 잠들었잖아.	You nodded off halfway through your meditation.						0	2.7版本妮塔入队剧情
+page1.23	呃……	呃……	っ…	아…	Oops...						0	2.7版本妮塔入队剧情
+page1.24	不过，你确实在梦中说了一串数字，我已经记下来了。	不過，你確實在夢中說了一串數字，我已經記下來了。	だけど寝言で数字をいくつか言っていたぞ、ちゃんと記録してある。	하지만, 네가 꿈속에서 숫자를 말하는 것 같길래 그걸 기록해 두었어.	But — you did mumble some numbers while you were out. I wrote them down.						0	2.7版本妮塔入队剧情
+page1.25	数字？分析员，你觉得这会不会是一组坐标！	數字？分析員，你覺得這會不會是一組座標！	数字？それってもしかして座標かも！	숫자? 분석가, 이게 좌표일 가능성도 있지 않을까!	Numbers? Wait... what if they're coordinates!?						0	2.7版本妮塔入队剧情
+page1.26	……也不是没有可能，但看起来，这个坐标是在<orange>霍尔姆南边的海上。</>	……也不是沒有可能，但看起來，這個座標是在<orange>霍爾姆南邊的海上。</>	…可能性はゼロじゃないな。でもそれ、<orange>ホルムの南の海上</>なんだ。	… 그럴 수도 있겠지만, 보기에 이 좌표는 <orange>홀름 남쪽의 바다</>에 있는 것 같아.	...That's not entirely impossible. But based on the values, it looks like they point to somewhere just <orange>south of Holme — out over the sea.</>						0	2.7版本妮塔入队剧情
+page1.27	「乐透卡」总不可能放在海里吧？	「樂透卡」總不可能放在海裡吧？	海に「ロトカード」があるとは思えないんだが…	[로또 카드]가 바다에 있을 리는 없겠지?	I mean, they wouldn't actually stash a Lottery Card in the ocean, would they?						0	2.7版本妮塔入队剧情
+page1.28	不，我有<orange>预感</>，就是那里！	不，我有<orange>預感</>，就是那裡！	いや、私の<orange>予感</>がそう言ってる。絶対あそこだって！	아니, 뭔가 <orange>예감</>이 와. 바로 거기야!	Oh, they totally would! I've got a <orange>hunch</> — that's exactly where it is!						0	2.7版本妮塔入队剧情
+page1.29	拜托了，分析员，陪我一起去看看吧！	拜託了，分析員，陪我一起去看看吧！	お願い、分析員、一緒に行ってみようよ！	분석가, 부탁이야! 나랑 같이 가서 확인해 줘!	Come on, Adjutant! We have to check it out!						0	2.7版本妮塔入队剧情
+page1.30	那到了那附近之后，要怎么找到具体位置？	那到了那附近之後，要怎麼找到具體位置？	行くのはいいが、そこの近くに着いたら具体的にどう探すんだ？	그럼 그 근처에 가면, 어떻게 정확한 위치를 찾을 건데?	Alright... But once we get close, how do we narrow it down?						0	2.7版本妮塔入队剧情
+page1.31	到了之后嘛……	到了之後嘛……	そこは行ってから…	거기에 가서…	Easy. Once we're there...						0	2.7版本妮塔入队剧情
+page1.32	我就再进行一次<orange>“预感”！</>	我就再進行一次<orange>「預感」！</>	また<orange>予感</>を使う！	또 한 번 <orange>'예감'</>을 테스트해 보면 되지!	I'll just tap into my <orange>hunch</> again!						0	2.7版本妮塔入队剧情
+page1.33	……真拿你没办法。	……真拿你沒辦法。	…ほんと、君にはかなわないな。	정말 니타 넌… 모르겠다.	...You're unbelievable.						0	2.7版本妮塔入队剧情

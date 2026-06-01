@@ -1,0 +1,169 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	警告——警告——机体受损严重，反应温度即将突破临界值。	警告——警告——機體受損嚴重，反應溫度即將突破臨界值。	警告——警告——機体大破、反応温度がまもなく臨界点を超えます。	경고… 경고… 기체 파손이 심각합니다, 반응 온도가 한계점을 곧 돌파합니다.	Warning. Warning. Severe damage sustained. Reactor temperature reaching critical threshold.						0	
+2	后续能源供给不足，即将停止运作。	後續能源供給不足，即將停止運作。	エネルギー供給不足。まもなく停止します。	에너지 공급 부족, 곧 작동이 멈춥니다.	Remaining energy supply insufficient. Will soon cease function.						0	
+3	……唔，发生什么了？	……唔，發生了什麼事？	……んん……なにが起きてるんだ？	…윽, 무슨 일이지?	Ugh... What happened?						0	
+4	随着尘白恶魔彻底停止运作，安卡希雅这才从昏迷中苏醒了过来。	隨著塵白惡魔徹底停止運作，安卡希雅這從昏迷中甦醒了過來。	Snowbreak Aku-MAが完全に停止したとき、アカシアはようやく意識を取り戻した。	순백의 악마가 작동을 완전히 멈추고 나서 아카시아는 정신을 차릴 수 있었다.	Just as the Snowbreak Aku-MA stopped functioning, Acacia finally woke up.						0	
+5	然而——	然而——	しかし——	하지만…	However...						0	
+6	弹射逃生装置即将启动，请两位驾驶员做好准备。	彈射逃生裝置即將啟動，請兩位駕駛人做好準備。	緊急射出装置がまもなく作動します。射出まで、5、4——	사출 장치가 곧 작동됩니다, 두 조종사분들은 충격에 대비하세요.	Activating projectile escape device. Pilots, prepare yourselves.						0	
+7	哎？！	哎？！	え！？	어?!	Eh!?						0	
+8	小心！	小心！	危ない！	조심해!	Be careful!						0	
+9	分析员！！！	分析員！！！	分析員さん！！！	분석가님!!!	Adjutant!!!						0	
+10	一声巨大的爆鸣，狭小的驾驶舱冲破变形的铁门，在众人的惊呼声中飞下了高台……	一聲巨大的爆鳴，狹小的駕駛艙衝破變形的鐵門，在眾人的驚呼聲中飛下了高台……	轟音のあと、狭い操縦室は変形した扉を突き破って、みんなの叫び声を背に高台から飛び出した……	커다란 굉음이 울리고, 좁디좁은 운전실이 왜곡된 철문을 뚫고 모두의 비명과 함께 플랫폼에서 뛰어내렸다…	With a deafening bang, the small cockpit smashed through the warped steel door and sailed onto the platform as everyone watched on in shock...						0	
+11	……	……	……	……	...						0	
+12	……随着漆黑的舱门被切开，两张皱着眉头的面孔随着一抹月光映入眼帘。	……隨著漆黑的艙門被切開，兩張皺著眉頭的面孔隨著一抹月光映入眼簾。	……出口の扉が切断されると、心配そうな表情を浮かべたふたつの顔が覗いた。	…깜깜한 문이 잘려 나가고, 눈살을 잔뜩 찌푸린 두 얼굴이 달빛에 비춰 모습을 드러낸다.	...As the scorched-black hatch was cut open, two worried faces came into view under the moonlight.						0	
+13	分析员，你没有受伤吧？！	分析員，你沒有受傷吧？！	分析員さん、お怪我はありませんか！？	다친 곳은 없어요, 분석가님?!	Adjutant, are you hurt!?						0	
+14	呵，看上去没什么大碍呢~	呵，看起來沒什麼大礙呢~	ふ。どうやら無事のようね。	흠, 별일 없어 보이는데 뭐~	Heh, he looks fine~						0	
+15	对不起……	對不起……	ごめんなさい……	미안해…	I'm sorry...						0	
+16	怀中的少女不知是因为内疚还是因为还没有缓过神来，她紧紧地抓住我的衣领，始终不愿抬起头来。	懷中的少女不知是因為內疚還是因為還沒有緩過神來，她緊緊抓住我的衣領，始終不願抬起頭來。	申し訳なさのためか、まだ動揺が収まらないのか、腕の中のアカシアは私の襟を掴みながら、顔を伏せていた。	자책 때문인지, 아직 정신을 차리지 못한 탓인지, 품속의 소녀는 내 옷깃을 꼭 쥐고 내내 고개를 들지 않았다.	Perhaps due to guilt or because she hadn't fully awoken yet, the girl in my arms clung to my collar and refused to look up.						0	
+17	对不起，这次……是我错了。	對不起，這次……是我錯了。	ごめんなさい、すべて私のせいだ。	미안, 이번엔… 내 잘못이야.	I'm so sorry... This time... it was all my fault.						0	
+18	安卡希雅为什么要这么做呢……	安卡希雅為什麼要這麼做呢……	アカシア、どうしてこんなことを……	아카시아가 왜 그랬을까…	Acacia, why did you do all this...?						0	
+19	我来说明吧。	我來說明吧。	私から説明するよ。	내가 설명할게.	Let me explain.						0	
+20	之后，又花了不少时间，我才向大家解释清这场闹剧前因后果。	之後，又花了不少時間，我才向大家解釋清這場鬧劇前因後果。	それから、私は時間をかけて、みんなに一連の事件を説明した。	그 후, 나는 이번 사건의 전말을 한참동안이나 설명해야 했다.	I then spent a significant amount of time explaining this whole saga to everyone.						0	
+21	而凯茜娅与茉莉安也将那场竞速比试的事情告知了我。	而凱茜婭與茉莉安也將那場競速比試的事情告知了我。	カーシアとマリアンも、競走の試合結果を私に伝えた。	캐시아와 마리안도 지난 스피드 대결에 대해 얘기해주었다.	Katya and Marian also told me about their race.						0	
+22	原来如此，是安卡希雅误会大家了吗……	原來如此，是安卡希雅誤會大家了嗎……	なるほど。アカシアの誤解だったんですね……	그렇군요, 아카시아가 오해한 건가요…	I see. So Acacia misunderstood us...						0	
+23	不过好在现在误会解除了~我们还要再来一场加时赛吗？	不過好在現在誤會解除了~我們還要再來一場延長賽嗎？	まぁ、誤解も解けたし～延長戦、もう一回やってみる？	다행히 지금은 오해가 모두 풀렸잖아~ 연장전 한 판 할까?	But it's all cleared up now~ So do we need another tiebreaker?						0	
+24	芙提雅无心一提，少女们的目光便齐刷刷地指向了我	芙提雅無心一提，少女們的目光便齊刷刷地指向了我	フリティアの気さくな言葉を聞いた少女達は、また一斉に私に視線を向けた。	무심코 뱉은 프티야의 말을 들은 소녀들은 일제히 나를 바라보았다.	As Fritia made this flippant comment, all of the girls' gazes shifted to me.						0	
+25	我想已经没有那个必要了。	我想已經沒有那個必要了。	いや、もうその必要はないかな。	그럴 필요는 없을 것 같아.	I don't think we need to do that.						0	
+26	想要通过这场比赛达成的“最终目的”，不是已经达成了吗？	想要透過這場比賽達成的「最終目的」，不是已經達成了嗎？	だって試合を通して叶えたかった目標なら、もう達成できただろう？	이 대결로 얻고 싶은 '최종 목적'은 이미 이루지 않았나?	Didn't you already fulfill the "ultimate goal" you set out to achieve during this competition?						0	
+27	嗯。	嗯。	はい。	알겠어.	Sure.						0	
+28	（我真的可以秉持这份觉悟，直到最后吗……）	（我真的可以秉持這份覺悟，直到最後嗎……）	（私……この覚悟を持って、最後まで頑張れるのでしょうか……）	(정말 이 각오를 끝까지 이어갈 수 있을까…)	(Can I really keep that mentality until the very end...?)						0	
+29	通过最后的那场冲刺，我想，我已经得到想要的答案了……	透過最後的那場衝刺，我想，我已經得到我想要的答案了……	最後の競走で、私が欲しかった答えを手に入れた気がします……	마지막 스퍼트로부터 원하는 답을 이미 얻은 것 같아요….	After that final sprint, I think I got the answer I was looking for...						0	
+30	姐姐我一直都是这个观点哦，比赛什么的，哪有和分析员抱抱重要呢。	姐姐我一直都是這個觀點哦，比賽什麼的，哪有跟分析員抱抱重要呢。	勝負よりも、お姉さんは分析員とハグできれば満足です～	난 계속 그렇게 생각했어, 시합 같은 거보다 분석가의 포옹이 더 중요하잖아.	I've always believed that hugging the Adjutant is way more important than any competition.						0	
+31	我人生中的第一套泳装，能穿给喜欢的分析员看……已经很满足了。	我人生中的第一套泳裝，能穿給喜歡的分析員看……已經很滿足了。	初めて水着を着れて、大好きな分析員さんに見てもらえただけで……私も満足してます。	인생 첫 수영복을 좋아하는 분석가님에게 보여준 것만으로도… 만족해요.	This is the first swimsuit I've ever worn. I'm just happy... to be able to wear it in front of my beloved Adjutant.						0	
+32	我…我也一样……	我…我也一樣……	わ、私も…そう思っています……	저… 저도 마찬가지예요…	M—Me too...						0	
+44	你们还真好糊弄喵。	你們還真好糊弄喵。	本当にチョロいニャン。	너희는 정말 속이기 쉽다냥.	You're so easy to please.						0	
+45	在变成故事中唯一的女主角前，我是不会满足的喵。	在變成故事中唯一的女主角前，我是不會滿足的喵。	物語の唯一のヒロインになれるまで、私は満足しないニャン。	이야기의 유일한 여자 주인공이 되기 전까지 만족하지 않을 것이다냥.	I won't be happy until I'm the only heroine in this story, nya.						0	
+46	你的执念还真是深啊……	你的執念還真是深啊……	君は本当に執念深いな……	집착 정말 심하구나…	You really are obsessed...						0	
+47	当然，依据分析员的需求，我也可以放松标准。	當然，依據分析員的需求，我也可以放鬆標準。	もちろん、分析員の必要に応じて、基準を緩めてやってもいいよ。	당연하다. 분석가의 요구에 따라 기준을 낮출 수도 있다냥.	Of course. But I'm willing to relax my standards a bit if you need me to, Adjutant.						0	
+48	呵……	呵……	ふっ……	하…	Heh...						0	
+49	人群外，一双青色的眼睛忽闪忽闪。	人群外，一雙青色的眼睛忽閃忽閃。	人混みの外で、青い目が何度か瞬いた。	멀리서 푸른 두 눈이 깜빡이고 있었다.	A pair of blue eyes glistened outside of the group.						0	
+50	我的话……也算是尽兴了吧。	我的話……也算是盡興了吧。	私も……満足したかもね。	나는… 나름 재밌었어.	I guess... I really enjoyed myself too.						0	
+51	凯茜娅倚靠着栏杆，仰面望向天空，不知是在应和着我们，还是只是在喃喃自语。	凱茜婭倚靠著欄桿，仰面望向天空，不知是在附和著我們，還是只是在喃喃自語。	カーシアは手すりに体を委ねて、空を仰いでいた。その言葉は私達に向けたものなのか、ただの独り言なのかは、よくわからなかった。	캐시아는 난간에 기댄 채 고개를 들어 하늘을 바라보고 있었다. 우리에게 말하는 건지, 혼잣말인지 알 수 없었다.	Katya was leaning on the railing as she looked up at the sky. I was unsure if she was talking to us or simply mumbling to herself.						0	
+52	不过很快，在发现我正盯着她后，凯茜娅又将笑容挂回脸上，冲我挥了挥手。	不過很快，在發現我正盯著她後，凱茜婭又將笑容掛回臉上，對我揮了揮手。	しかしすぐに私からの視線に気付くと、カーシアはまた笑顔で私に向かって手を振ってみせた。	하지만 내 시선을 느낀 캐시아는 또다시 미소를 띄고 나에게 손을 흔들어 보였다.	But soon after, a smile returned to Katya's face after she noticed I was staring at her, and she waved at me.						0	
+53	话说，既然比赛没有分出胜负，那最后的奖励内容要不要也稍微改变一下？	話說，既然比賽沒有分出勝負，那最後的獎勵內容要不要也稍微改變一下？	それはそうと、勝敗が決まらなかったわけですし、最後の報酬も少し変更したほうがいいんじゃないですか？	그나저나, 대결의 승부가 나지 않았으니, 보상도 조금 바꿔야 하지 않을까요?	So since we don't have a winner, why don't we change up the grand prize?						0	
+54	原本不是说赢的那队，每个队员可以按单项成绩优先入住吗……	原本不是說贏的那隊，每個隊員可以按單項成績優先入住嗎……	本来なら、勝ったチームが各チャレンジの成績順に分析員と同じ部屋に泊まる予定だったんですが……	원래는 이긴 팀원들의 점수 순서대로 입주하기로 했잖아요…	We said the winning team would be first to stay with the Adjutant tonight, and the order would be based on individual scores, right...?						0	
+55	不过按照现在的结果，要不改成两队各出一人，再按照单项合分成绩排次入住？	不過依照現在的結果，還是改成兩隊各出一人，再依照單項成績依序入住？	こうなってしまった以上、両チームから一人ずつ、成績順に分析員と相部屋という形に変更しませんか？	근데 지금 결과에 맞춰서, 두 팀에서 각각 1명씩 선출해서 종목 합산 점수대로 순서를 매겨서 입주하는 건 어떨까요?	But considering the results, why don't we change it to one person from each team gets to stay with the Adjutant first, at the same time? Then the rest join the fun in order based on individual scores.						0	
+56	听上去好像很有趣呢~	聽起來好像很有趣呢~	なんだか面白そうですね～	정말 재미있어 보이네~	That sounds interesting~						0	
+57	真是大胆的提议啊，完全不像是卡罗琳能提出来的。	真是大膽的提議啊，完全不像是卡羅琳能提出來的。	まったくカロリンらしくない、大胆な提案だな。	정말 대담한 제안이야. 캐롤린 답지 않은 걸.	That's a really bold suggestion. It doesn't sound like something you'd say, Caroline.						0	
+58	卡罗琳红着脸干咳了一声。	卡羅琳紅著臉乾咳了一聲。	カロリンは頬を赤らめながら、わざとらしく咳き込んだ。	캐롤린이 얼굴을 붉히며 헛기침을 했다.	Caroline blushed as she cleared her throat.						0	
+59	咳嗯，还不是为了能让大家都高兴高兴吗……再说了，就算我坚持要按照老规则来，你也不会同意吧。	咳嗯，還不是為了能讓大家都高興一下嗎……再說了，就算我堅持要按照原本的規則來，你也不會同意吧。	こほん！そりゃ、皆さんに喜んでもらいたいじゃないですか。それに、元のルールでって言っても、あなただって頷いてくれないでしょう。	크흠, 다들 좋아했으면 하는 마음에서 말한 거죠… 게다가 제가 원래 규칙대로 하자고 했으면 반대하셨을 거잖아요.	Ahem... Well, I just want to make everyone happy... Anyway, if I insisted we had to stick to the original rules, you'd just refuse.						0	
+60	所以，今晚只能拜托分析员和茉莉安，凯茜娅挤一下了。	所以，今晚只能拜託分析員和茉莉安，凱茜婭擠一下了。	ですから、今夜はマリアン、カーシアと相部屋でお願いしますね。	그러니 오늘 밤은 분석가님과 마리안 님, 캐시아 님이 고생 좀 해주세요.	So I'll have to ask the Adjutant, Marian, and Katya to squeeze in tonight.						0	
+61	我没意见。	我沒意見。	わかったよ。	난 의견 없어.	I'm fine with that.						0	
+62	你当然不会有意见……	你當然不會有意見……	そりゃそうだ……	당연히 없겠지…	Of course you are...						0	
+63	我也没有问题，不过在那之前，要先一起去泡个温泉吗？	我也沒有問題，不過在那之前，要先一起去泡個溫泉嗎？	私もかまいません。でもその前に、一緒に温泉に入りませんか？	저도 없어요. 근데 시작하기 전에 다 같이 온천에 다녀오는 건 어때요?	I'm okay with it too. But before that, should we go to the hot springs together?						0	
+64	刚刚在半空中的时候，我看到酒店后面有个小池子呢。	剛剛在半空中的時候，我看到酒店後面有個小池子。	さっき綱の上にいる時に、ホテルの後ろに小さな温泉があるのを見付けたんです。	아까 공중에 있을 때, 호텔 뒤에 작은 온천이 보였어요.	I saw a small one behind the hotel when I was high up in the air just now.						0	
+65	哦~那芙提雅老师也可以一起来吗？！	喔~那芙提雅老師也可以一起來嗎？！	おお～！フリティア先生も一緒に行っていい！？	오~ 그럼 프티야 선생님도 껴도 될까?!	Wow~ Can I come too!?						0	
+66	姐姐也出了很多汗呢。	姐姐也出了很多汗。	お姉さんも汗まみれですからね。	언니도 땀을 엄청 많이 흘렸어.	I've been sweating quite a bit too.						0	
+67	既然如此，那干脆大家一起去吧。	既然如此，那就乾脆大家一起去吧。	それじゃ、全員で一緒に温泉に入ろうか。	그럼 그냥 다 같이 가자.	How about we all go to the hot springs together?						0	
+68	哦~！	哦~！	は～い！	오~!	Ah...!						0	
+69	好…好滑的台阶，分析员，可以扶我一下吗……	好…好滑的台階，分析員，可以扶我一下嗎……	か、階段がつるつるします……分析員さん、手を貸してくれませんか？	계… 계단이 너무 미끄러워요. 분석가님, 저 좀 잡아주실 수 있을까요…	The steps... are so slippery. Can I hold onto you, Adjutant...?						0	
+70	狡猾喵，居然用这种借口接近分析员。	狡猾喵，居然用這種藉口接近分析員。	そんな言い訳で分析員に近づこうだなんて卑怯ニャン。	그런 핑계로 분석가에게 다가가다니, 얄밉다냥.	How sly, nya. Can't believe you're using that as an excuse to get close to the Adjutant.						0	
+71	才……才不是这样的！	才……才不是這樣的！	ち、違いますよ！	그… 그런 거 아니거든요!	Th—That's not what's happening here!						0	
+72	唔~泡得也差不多了，分析员，要姐姐帮你搓搓背吗。	唔~泡得也差不多了，分析員，要姐姐幫你搓背嗎。	ふぅ～そろそろ上がりましょう。分析員、お姉さんが背中を流してあげましょうか？	음~ 온천도 충분히 즐겼으니, 이 누님께서 등 좀 밀어줄까, 분석가?	Mmm~ We've been soaking for a bit now. Adjutant, do you want me to scrub your back?						0	
+73	等等，这种事情还是交由我来负责吧，我带了专门的搓澡巾和火罐。	等等，這種事還是交由我來負責吧，我帶了專門的搓澡巾和火罐。	いいえ、ここは私が。すでに道具を用意しましたよ。	잠깐, 이런 건 제게 맡겨주세요. 때수건이랑 부항까지 챙겨 왔거든요.	Wait, leave this to me. I brought a special exfoliating towel and some cupping supplies.						0	
+74	嗯……那这样好了！姐姐负责分析员的前面，小辰星负责后面，我们同时开工吧~	嗯……那這樣好了！姐姐負責分析員的前面，小辰星負責後面，我們同時開工吧~	え～それじゃあ、お姉さんが前、辰星ちゃんが後ろを担当するってことにしましょうか！	음… 그럼 이렇게 하자! 내가 분석가의 앞쪽을 맡을 테니까, 수성이가 뒤를 맡아. 동시에 시작하자~	Okay... I've got an idea! I'll handle the Adjutant's front. You handle his back, Chenxing. Let's get to work~						0	
+75	咕噜噜噜噜……	咕嚕嚕嚕嚕……	ぷくぷくぷく……	꾸르르륵…	Urghhh...						0	
+76	还在想刚刚的事吗？	還在想剛剛的事嗎？	まださっきのことを考えているのか？	아직도 조금 전에 일어난 일 생각 중이야?	Are you still thinking about what happened earlier?						0	
+77	嗯，总觉得做了很丢人的事，咕噜噜……	嗯，總覺得做了很丟臉的事，咕嚕嚕……	うん……なんだか恥ずかしい姿を晒してしまった気がして……ぷくぷくぷく……	응, 왠지 부끄러운 짓을 한 것 같아서. 꾸르륵…	Yeah. I feel really ashamed... Ughhh...						0	
+78	啦啦啦啦啦~洗澡澡~吹泡泡~~	啦啦啦啦啦~洗澡澡~吹泡泡~~	ららららら～お風呂～シャボン玉～	랄랄라라라~ 목욕~ 비눗방울…	La, la, la~ Rub-a-dub dub, soakin' in the tub~						0	
+79	别想那么多，要是还是难受的话，就看看芙提雅吧，看着她，心里的烦恼就会自然而然地飞走了。	別想那麼多，如果還是難受的話，就看看芙提雅吧，看著她，心裡的煩惱就會自然而然地飛走了。	考え過ぎは良くないぞ。そういう時はな、フリティアを見るんだ。悩んでるのがバカらしくなっちゃうから。	괜한 생각 마. 그래도 마음이 불편하면 프티야에게 가 봐. 보고 있으면 마음속에 묵은 고민들이 자연스럽게 사라지거든.	Don't worry too much. If you're still upset, just look at Fritia, and all of the bad feelings inside you will just float away.						0	
+80	没错没错~看招，水弹攻击！！！噗噗噗！	沒錯沒錯~看招，水彈攻擊！！！噗噗噗！	そうだそうだ！水鉄砲をくらえ！びゅーびゅー！	그래, 그렇지~ 받아라, 물총 공격!!! 퓨슉 퓨슉!	That's right~ Watch out! Water bullet attack!!! Pew, pew, pew!						0	
+81	呼……呼……分析员……看招……呼呼……	呼……呼……分析員……看招……呼呼……	びゅー……ふぅ……分析員……くらえ……ふぅふぅ……	하… 하아… 분석가… 내 공격을 받아라… 하아…	Hah... ah... Adjutant... watch out... hoo... huff...						0	
+82	刚刚还那么有精神，没想到转眼间就在分析员怀里睡着了……	剛剛還那麼有精神，沒想到轉眼間就在分析員懷裡睡著了……	さっきまであんなに元気だったのに……もう分析員の腕の中で熟睡してるよ……	방금 전까지 그렇게 활기차더니, 순식간에 분석가 품에서 잠들 줄이야…	I was so alert just now. I didn't think I'd fall asleep in the Adjutant's arms just like that...						0	
+83	我也有点困了喵……	我也有點睏了喵……	私もちょっと眠くなってきたニャン……	나도 조금 졸리다냥…	I'm kinda tired too, nya...						0	
+84	我们是不是该把之后的时间留给茉莉安和凯茜娅了呢？	我們是不是該把之後的時間留給茉莉安和凱茜婭了呢？	では、これからの時間はマリアンやカーシアに任せましょうか。	이제 마리안과 캐시아에게 시간 좀 드려야 하는 거 아닐까요?	Should we let Marian and Katya enjoy the rest of their time with the Adjutant?						0	
+85	嗯，那么明天早上再见吧分析员，姐姐我先带着孩子们撤退咯~	嗯，那明天早上再見吧分析員，姐姐我先帶著孩子們撤退囉~	そうですね。分析員、お姉さんは子どものみんなと部屋に戻りますね～	응, 그럼 내일 아침에 봐, 분석가. 누님은 이만 아이들 데리고 갈게~	Yeah, we'll see you tomorrow morning, Adjutant. C'mon cuties. Follow your Big Sis~						0	
+86	现在只剩下我们三个人了呢。	現在只剩下我們三個人了呢。	私達3人だけになりましたね。	이제 저희 셋만 남았네요.	And then there were three.						0	
+87	呵呵呵，吵吵闹闹了一天，这会儿总算是能安静下来。	呵呵呵，吵吵鬧鬧了一天，現在總算是能安靜下來。	ふふふ。一日中騒がしかったけど、ようやく静かになったわね。	하하, 하루 종일 시끌벅적했는데 이제 겨우 조용해졌네.	Heheh. Things have finally quieted down after a long, noisy day.						0	
+88	同感，但天也开始凉起来了。	同感，但天也開始涼起來了。	そうだな。気温も下がり始めてるし。	그러게. 근데 날씨도 조금 쌀쌀해진다.	Yeah, I feel the same. But it's starting to get a little cold.						0	
+89	那……我们现在就回房间？	那……我們現在就回房間？	それじゃあ、今から部屋に戻りませんか？	그럼… 지금 방으로 돌아갈까요?	Then... should we head back to the room?						0	
+90	没问题，凯茜娅呢？	沒問題，凱茜婭呢？	ああ。カーシアは？	좋아. 캐시아는?	Sure. What do you think, Katya?						0	
+91	我倒是没觉得有多冷，抱歉，今天稍微有点累，我想再泡一会儿，你们先回去吧。	我倒是沒覺得有多冷，抱歉，今天稍微有點累，我想再泡一下，你們先回去吧。	寒いとは思わないわね。それより、今日はちょっと疲れたから、もう少し浸かっていくわ。先に戻っていいわよ。	난 안 추운 것 같은데. 미안, 오늘 좀 힘들었어서 조금만 더 있다 가고 싶어. 먼저 들어가.	I don't really feel that cold. Sorry, I'm a little tired today. I want to keep soaking for a bit. You guys can go ahead.						0	
+92	凯茜娅将半张脸埋入水中，闭上了眼睛……	凱茜婭將半張臉埋入水中，閉上了眼睛…	カーシアは顔の半分を水に浸けて、静かに目を閉じた……	캐시아는 코 밑까지 물에 잠긴 채 눈을 감았다…	Katya submerged the bottom half of her face in the water and closed her eyes...						0	
+93	嗯，好吧……但是要小心着凉。	嗯，好吧……但是要小心著涼。	分かった。体を冷やすなよ。	응, 그래… 대신 감기 걸리지 않게 조심해.	Okay, that's fine... Just don't catch a cold.						0	
+94	放心，我一会儿就过来。	放心，我等一下就過來。	心配しないで、すぐ戻るわ。	곧 들어갈 테니 걱정 마.	Don't worry. I'll get out in a minute.						0	
+95	哎……	哎……	え……	하아…	*sigh*...						0	
+96	身体不舒服吗？	身體不舒服嗎？	体調が悪いのか？	몸이 안 좋아?	Are you not feeling well?						0	
+97	能告诉我吗？害怕高处的理由，以及，你所担心的事。	能告訴我嗎？害怕高處的理由，以及，你所擔心的事。	教えてくれないか？君が高所恐怖症になった理由や、君が心配していることについて。	말해줄 수 있어? 높은 곳을 무서워하는 이유, 그리고 네가 걱정하는 것들까지.	Could you tell me? Why you're afraid of heights and what you're worried about?						0	
+98	……	……	……	……	...						0	
+99	他其实早就注意到了吧……	他其實早就注意到了吧……	とっくに気づいていたのね……	아마 이미 알고 있겠지…	He already noticed it a long time ago...						0	
+100	当确认分析员已经离开后，少女这才缓缓挪到了他刚刚坐过的位置。	當確認分析員已經離開後，少女這才緩緩挪到了他剛剛坐過的位置。	分析員の姿が見えなくなったのを確認すると、少女はようやく彼がさっきまで座っていた場所に移動した。	분석가가 떠난 걸 확인하고 나서, 소녀는 천천히 일어나 그가 앉았던 자리로 몸을 옮겼다.	After making sure the Adjutant had left, the girl slowly moved to the seat he was just sitting in.						0	
+101	呵，想当初我就是这样，一点点摸着他留下的痕迹追过来的吧……	呵，想當初我就是這樣，一點點摸著他留下的痕跡追過來的吧……	ふっ……昔の私も、こうして彼の痕跡を辿って、ちょっとずつ彼に追いついてきたのよね……	후우, 나도 처음에는 이렇게 그가 남긴 흔적을 조금 조금씩 쫓아왔는데…	Heh. I was like that in the beginning, slowly following him by every trace he left behind...						0	
+102	不过……	不過……	でも……	그래도…	But...						0	
+103	这个位置不正好就是下风口吗，难怪他会觉得冷……	這個位置不就正好是下風口嗎，難怪他會覺得冷……	ここ、風が強いわ。だから寒いって言ってたのね……	위치가 바람이 불어가는 쪽이라서 분석가가 춥다고 느꼈던 거구나…	There's a draft here... No wonder he was cold...						0	
+104	酒店的茶几前，茉莉安拉着我的手坐下，透过暖光灯光与肌肤蒸腾出的水汽，那一双酒红色的眼睛正目不转睛地盯着我。	酒店的茶几前，茉莉安拉著我的手坐下，透過暖光燈光與肌膚蒸騰出的水汽，那一雙酒紅色的眼睛正目不轉睛地盯著我。	マリアンは私の手を引いて、一緒に机の前に座った。暖かい色の明かりの中で、彼女は上気した頬と美しい赤い瞳で私を見つめていた。	호텔의 티 테이블 앞, 마리안은 나의 손을 잡아당겨 테이블 앞에 앉혔고, 따스한 색의 불빛과 피부 위에서 끓어오르는 수증기 너머에서, 붉은빛이 도는 눈동자로 날 뚫어져라 쳐다보고 있었다.	Marian took my hand in hers and sat down in front of the hotel coffee table. Her wine-red eyes penetrated the warm light and steam radiating off her skin, fixing on me attentively.						0	
+105	随后，少女笑盈盈地问道。	隨後，少女笑盈盈地問。	すると、彼女は笑顔で切り出した。	소녀는 미소를 띠며 나에게 질문을 한다.	The girl then spoke with a smile.						0	
+106	分析员，刚刚的水温还挺合适的，对吧？	分析員，剛剛的水溫還蠻合適的，對吧？	分析員さん、さっきの水温でちょうどよかったんですよね？	분석가님, 방금 물 온도 괜찮지 않았어요?	Adjutant, the water temperature in the hot springs just now was perfect, right?						0	
+107	是挺合适的，不过因为要照顾的人太多了，所以洗完反而更累了……	是蠻合適的，不過因為要照顧的人太多了，所以洗完反而更累了……	そうだな。一日中みんなの面倒を見るのに忙しかったから、温泉から出るとどっと疲れが湧いてきたよ……	딱 좋았어, 근데 너무 많은 사람들을 신경 써야 해서, 씻고 나오니까 더 피곤해진 거 있지…	Yeah, it was. But there were so many people to pay attention to, so I feel even more exhausted now...						0	
+108	呵呵……	呵呵……	ふふ……	하하…	Heheh...						0	
+109	我说了什么奇怪的话吗？	我說了什麼奇怪的話嗎？	なにかおかしなことでも言ったかな？	혹시 내가 이상한 말 했어?	Did I say something odd?						0	
+110	唔嗯……没什么。分析员，你能听到吗？	唔嗯……沒什麼。分析員，你聽得到嗎？	いえ……何も。分析員さん、聞こえますか？	으음… 아니요. 분석가님, 들리나요?	Huh...? Oh, it's nothing. Adjutant, can you hear that?						0	
+111	现在的我，心脏正砰砰砰，砰砰砰地跳个不停呢~	現在的我，心臟正砰砰砰，砰砰砰地跳個不停呢~	私は今、このどきどきが止まらないのです～	지금 제 심장이 쿵쾅쿵쾅, 엄청 빨리 뛰고 있어요~	My heart is beating out of my chest... It won't stop~						0	
+112	因为现在这里只有我们两个人，而且离得很近吧……	因為現在這裡只有我們兩個人，而且離得很近吧……	ここには私達ふたりしかいないからな。それに、近くに座っているし……	우리 둘만 있고, 거리가 가까워서 그런 거야…	Because we're the only two people here, and we're so close...						0	
+auto_112	呵呵呵呵，我果然是个奇怪的女孩吧。	呵呵呵呵，我果然是個奇怪的女孩吧。	やっぱり私って、変わった女の子なのでしょうか？	후후후, 저는 역시 이상한 아이인가 봐요.	Heheh... I guess I'm a weirdo after all.						0	
+114	无论多少次，无论多久，只要和你在一起时，脑子里都会像现在一样，全是一些过分的想法。	無論多少次，無論多久，只要和你在一起時，腦子裡都會像現在一樣，全是一些過分的想法。	いつでも、何度でも、分析員さんといると、頭の中では今のように、いけないことばかり考えてしまいます。	몇 번이든, 몇 시간이든 당신과 함께 있을 때면, 제 머릿속은 늘 이렇게 지나친 생각들로 가득 차요.	No matter how many times or for how long, my mind just does this when I'm with you. It's full of ridiculous thoughts...						0	
+115	但是有时候，又会觉得很矛盾。	但是有時候，又會覺得很矛盾。	でも時々、思い悩むんです。	하지만 가끔은 또 엄청 모순적이에요.	But sometimes, I feel really conflicted.						0	
+116	总是想着，如果没其他人就好了……	總是想著，如果沒有其他人就好了……	いつも、分析員さんを独り占めしたい、みんながいなかったらよかったのにと……	늘 다른 사람이 없으면 좋겠다는 생각을 해요…	I always think about how great it would be if there wasn't anyone else...						0	
+117	这样的茉莉安，是不是有些太自私了呢……	這樣的茉莉安，是不是有些太自私了呢……	こんなマリアンは、やっぱり身勝手過ぎますか……？	이런 제가… 너무 이기적인 건가요…	Is that a little selfish...?						0	
+118	你是觉得这样会对大家“不太公平”吗？	你是覺得這樣會對大家「不太公平」嗎？	みんなに不公平だって、そう思っているのか？	그러면 사람들에게 '불공평' 하다고 생각하는 거야?	Do you think it's unfair to everyone else?						0	
+119	嗯，尤其是在经历了白天的那些事后，我更加肯定了。	嗯，尤其是經歷了白天的那些事後，我更肯定了。	うん、お昼の一連の事件を通して、確信しました。	네, 특히 낮에 있었던 일들이 있고 나서 더 확실해졌어요.	Hmm... Especially after what happened today, I'm even more sure.						0	
+120	原来，大家或多或少，都和我抱着相同的想法……但是最后却只有我……	原來，大家或多或少，都跟我抱著相同的想法……但最後卻只有我……	多かれ少なかれ、誰もが私と同じように考えていた……しかし最後は私だけ……	역시, 다들 어느 정도는 저랑 같은 생각을 하고 있었고… 마지막은 결국 저만…	It looks like everyone, for the most part, is thinking the same thing as me... but in the end, I'm the only one who...						0	
+121	会这样想也很正常吧，而且我觉得，这并不能被称之为“自私”	會這樣想也很正常吧，而且我覺得，這並不能被稱之為「自私」	別に変じゃないよ。それに、それは自己中心的とは言わないと思う。	이렇게 생각하는 게 정상적인 거겠죠, 게다가 이런 건 '이기적'라고 볼 수 없다고 생각해요.	It's normal to feel like that. I don't think you could call it "selfish."						0	
+122	哎？	哎？	え？	음?	Huh?						0	
+123	毕竟你想，至少在感性层面上，我们又不是物件。	畢竟你想，至少在感性層面上，我們又不是物件。	だってほら、私達は考えない「もの」なんかじゃないだろ。	생각해 봐, 우리가 감성적인 측면에서 볼 때는 사물이 아니잖아.	Think about it. On the emotional level, at the very least, we aren't objects.						0	
+124	人和人之间的关系本身就不是侵占或者被侵占，情感更是也无法用简单的利益关系去衡量……	人與人之間的關係本身就不是侵占或被侵占，情感更是也無法用簡單的利益關係來衡量……	人と人との関係性はそもそも占有だけじゃない。感情も利害関係だけでは動かない。	사람과 사람 사이는 원래부터 점유하거나 점유 당하거나 둘 중 하나야, 감정이란 건 단순한 이해관계로 정의할 수 없어…	Interpersonal relationships aren't about owning something or not. Emotions can't be measured by simple transactions alone...						0	
+125	至于单向付出情感后，渴望得到同样是单向的回应，我感觉那更是人之常情——	至於單向付出情感後，渴望得到同樣是單向的回應，我感覺那更是人之常情——	例え誰かが一方的に気持ちを向けたとしても、それに応えて欲しいと思うのは自然なこと――	일방적으로 감정을 표출하면 똑같이 일방적인 답을 얻고 싶어 하는 게 인지상정이라고 생각해…	After pouring your own emotions into someone, I feel like it's human nature to want a response that belongs to you alone...						0	
+126	是我们每个人都会有的……再普通不过的小心思罢了。	是我們每個人都會有的……再普通不過的小心思罷了。	誰もが持っている、ごく普通の考えだ。	사람이라면 다 가지고 있는… 지극히 평범한 생각이야.	It's just... an incredibly normal feeling that each and every one of us experiences.						0	
+127	如果将其简单粗暴地概括成“自私”，那岂不是过于冰冷了些？	如果將其簡單粗暴地概括成「自私」，那豈不是過於冰冷了些？	それを「自己中心的」と片付けてしまうのは、ちょっと冷たすぎるんじゃないかな？	만약 그걸 간단하게 '이기적'이라고 표현한다면, 너무 냉정한 거 아닐까?	Harshly simplifying and labeling that as "selfish" is a little cold, don't you think?						0	
+128	你是……这么认为的吗？	你是……這麼認為的嗎？	分析員さんは……そう思いますか？	분석가님은… 그렇게 생각하시나요?	Is that... how you feel?						0	
+129	嗯，茉莉安心里如果还有什么需求的话，随时都能来找我诉说。	嗯，茉莉安心裡如果還有什麼需求的話，隨時都能來找我訴說。	ああ。マリアンに欲しいものがあれば、いつでも私に教えてくれればいい。	응, 마리안도 필요한 게 있으면 언제든지 날 찾아와서 말해.	Yeah. If there's something you want, you can tell me any time.						0	
+130	而我也会和早上承诺的一样，尽我所能去给予你回应。	而我也會和早上承諾的一樣，盡我所能給予你回應。	私も、今朝約束した通り、できるだけ君に応えるよ。	그럼 나도 아침에 약속했던 것처럼 최선을 다해 답해주도록 할게.	And I'll do my best to give you a response, just like I promised this morning.						0	
+131	呵呵呵，虽然早就猜到你会这么说，但是我果然还是……	呵呵呵，雖然早就猜到你會這麼說，但我果然還是……	ふふ、きっとそうおっしゃると思いましたけど、やっぱり……	후후후, 분명 그렇게 말씀하실 거라고 예상했지만, 전 역시나…	Heheh... I thought you might say that. But sure enough, I...						0	
+132	少女紧锁的眉头渐渐舒展，宛若桔梗般的笑容，再次绽放了开来。	少女緊鎖的眉頭漸漸舒展，宛若桔梗般的笑容，再次綻放了開來。	少女の強張っていた眉がやっと元通りに戻った。彼女はキキョウの花のような笑顔を再び私に見せた。	굳었던 소녀의 미간이 조금씩 풀리면서 도라지 같은 미소가 번져나기 시작했다.	The girl's furrowed brow gradually relaxed, a smile blooming on her face like a bellflower once more.						0	
+133	还是没法抵御这样的攻势。	還是沒辦法抵禦這樣的攻勢。	そういうのには弱いんです。	이런 공격은 도저히 막을 수가 없네요.	I still go helpless whenever you show me this side of you.						0	
+134	比起那个威风凛凛的长官，你温柔体贴的这一面……好像更容易让人着迷。	比起那個威風凜凜的長官，你溫柔體貼的這一面……好像更容易讓人著迷。	優しくて気遣いができる分析員さんは……凛々しい長官より、ずっと人を惹きつけます。	위풍당당한 교관 모습보다, 당신의 부드러운 면이… 더 매력적인 거 같아요.	Compared to when you're an imposing commander, your tender and considerate side is even more charming.						0	
+135	不过……我还是希望，你能再坦率一些……至少在和我独处的时候。	不過……我還是希望，你能再坦率一些……至少在跟我獨處的時候。	ですが……やっぱりもっと素直になって欲しいです……せめて私といる時だけは。	하지만… 전 당신이 조금 더 솔직해졌으면 좋겠어요… 적어도 저희 둘이 있을 땐 말이에요.	But... I still hope you can be more candid... at least when you're alone with me.						0	
+136	偶尔的，可以再“信任”我一些哦。	偶爾的，可以再「信任」我一些哦。	たまには、もう少し私のことを「信用」してくれてもいいんですよ。	가끔은 절 조금 더 '믿어' 주세요.	You can "confide" in me once in a while.						0	
+137	那是指？	那是指？	つまり？	그게 무슨?	What do you mean?						0	
+138	你的心跳声，我听得很清楚哦，和那晚的频率不一样。	你的心跳聲，我聽得很清楚哦，和那晚的頻率不一樣。	今の鼓動、ちゃんと聞こえますよ。あの夜の速さとは違いますね。	분석가님의 심장 소리, 아주 선명하게 들려요, 그날 밤의 심장 소리와는 좀 다르네요.	I can hear your heartbeat loud and clear. It's different from that night.						0	
+139	我想，你心里一定还有其他在意的事吧？	我想，你心裡一定還有其他在意的事吧？	きっと、他のことを考えているのでしょう？	아마 다른 신경 쓰이는 일이 있는 거겠죠?	I think there must be something else on your mind, right?						0	
+140	心意相通的两人，是能感知到彼此的心跳的……	心意相通的兩人，是能感知到彼此的心跳的……	心の通じ合ったふたりは、お互いの鼓動を感じ取れるんですね……	마음이 통하는 사람들끼리는 서로의 심장 소리를 느낄 수 있어요…	When two people have a connection, they can feel each other's heartbeats...						0	
+141	原来如此，我们都瞒不过彼此……	原來如此，我們都瞞不過彼此……	そうか。私達はお互い隠し事が出来ないんだな……	그렇구나, 역시 우리는 서로를 못 속이는구나…	I see. We can't hide anything from each other...						0	
+142	其实，我并不讨厌这样的感觉，只是会有些担心……	其實，我並不討厭這樣的感覺，只是會有些擔心……	実は、それも嫌じゃありません、ただ、心配になります……	실은 조금 걱정이 되어서 그렇지, 이런 느낌이 싫지는 않아요…	Actually, I don't dislike that feeling. I'm just a little worried...						0	
+143	担心……你会因此而感到压抑，担心你会为了顾及我的情绪而将话都憋在心底。	擔心……你會因此而感到壓抑，擔心你會為了顧及我的情緒而將話都憋在心底。	あなたが自分を抑えつけてはいないかと、私の気持ちを考えて言いたいことが言えなくなっていないかと。	이것 때문에… 분석가님이 답답해할까 봐, 제 기분을 맞춰주려고 하고 싶은 말을 마음속에만 묻어 두지는 않을까… 걱정돼요.	I'm worried... you'll suppress your feelings. I'm worried you'll keep everything you want to say to yourself just to protect my emotions.						0	
+144	茉莉安轻轻攥起手指，闭上了眼睛。	茉莉安輕輕攥起手指，閉上了眼睛。	マリアンは手を握りしめると、そっと目を閉じた。	마리안은 손가락을 살짝 움켜쥐며 두 눈을 감았다.	Marian softly clenched her fists and closed her eyes.						0	
+145	实际上，在共同经历了那么多事过后，我早就已经满足了……	實際上，在共同經歷了那麼多事過後，我早就已經滿足了……	色々なことを共に経験してきて、私はもうとっくに満たされているのです……	실은 같이 많은 일들을 겪고 나서, 저는 이미 충분히 만족하고 있어요…	Actually, after experiencing so much together, I've been satisfied for a long time...						0	
+146	夜晚的房间中回忆起种种过往的两人，就这样透过那一层薄薄的水汽注视着对方。	夜晚的房間中回憶起種種過往的兩人，就這樣透過那一層薄薄的水汽注視著對方。	夜を迎えた部屋の中で、私達は薄い水蒸気を隔ててお互いを見つめ合っているように、今までの出来事を思い出していた。	어두운 밤, 방 안에서 과거를 회상하던 두 사람은, 그렇게 피어오르는 얇은 수증기 속에서 서로를 바라보았다.	As night crept into the room, we reminisced as we gazed at each other through the thin layer of steam.						0	
+147	你早就在我的心底，刻下了，独属于我们的回忆。	你早就在我的心底，刻下了，獨屬於我們的回憶。	分析員さんのおかげで、私の心に二人きりの記憶が深く刻まれました。	당신은 이미 제 마음속 깊이, 우리만의 특별한 기억을 새겨 뒀으니까요.	You were carved into my heart a long time ago, a memory that belongs to us and us alone.						0	
+148	说罢，茉莉安用手肘将自己的身体支起，面向我露出一丝内敛却又狡黠的笑容。	說罷，茉莉安用手肘將自己的身體支起，面向我露出一絲內斂卻又狡猾的笑容。	そう言い終えると、マリアンは体を起こして、私に恥ずかしそうな、それでいて狡猾さも感じる笑顔をみせた。	말을 마치고, 마리안은 팔꿈치로 자신의 몸을 살짝 일으키고는 내성적이면서도 능글거리는 미소를 짓는다.	With that, Marian rested her chin in her hand, revealing a reserved yet cunning grin.						0	
+149	所以现在，我只求再有一个回应……要比以往更准确，更激烈的……回应。	所以現在，我只求再有一個回應……要比以往更準確，更激烈的……回應。	だから、分析員さんの答えが聞きたいです……今までより的確で、激しいくらいの……答えがほしいです。	그래서 이제 제가 요청 드리고 싶은 건… 그 어느 때보다 더 정확하고 강렬한… 응답을 한 번 더 원하는 것이죠.	Now, I just need one more response... stronger and more precise than before...						0	
+150	随即，她便用纤纤细指搂住了我的脖子，吻住了我那有些干涸的嘴唇。	隨即，她便用纖纖細指摟住了我的脖子，吻住了我那有些乾涸的嘴唇。	彼女は細い腕を私の首に回すと、私の乾いた唇にキスをした。	그러고는 그녀는 가녀린 팔로 나의 목을 감싸고 살짝 마른 나의 입술에 입 맞췄다.	She wrapped her slender fingers around my neck, kissing my parched lips.						0	
+151	霎时间一丝淡淡的果甜味伴着温热的吐息涌入口中，在我的胸腔中弥散开来。	霎時間一絲淡淡的果甜味伴著溫熱的吐息湧入口中，在我的胸腔中彌散開來。	その瞬間、淡いフルーツのような甘さが暖かい吐息とともに私の口に流れ込み、胸の奥がじんわりと暖かくなるのを感じた。	은은한 과일 향이 따뜻한 호흡과 함께 입속으로 밀려 들어왔고, 가슴안에서 퍼지기 시작한다.	In an instant, a fruity sweetness paired with warm breath burst into my mouth and spread through my chest.						0	
+152	作为回应，我抬起双臂，再一次紧紧地搂住了她那具逐渐升温的身体……	作為回應，我抬起雙臂，再一次緊緊地摟住了她那具逐漸升溫的身體……	私も両腕で徐々に熱くなっていく体を抱きしめて、彼女に応えた……	이에 보답하기 위해 난 두 손을 들어 조금씩 달아오르기 시작하는 그녀를 꽉 껴안았다…	In response, I reached out and hugged her tightly once again, her body gradually heating up in my arms...						0	
+153	就这样，许久过后，茉莉安才依依不舍地收回嘴唇。	就這樣，許久過後，茉莉安才依依不捨地收回嘴唇。	長い時間のあと、マリアンはやっと名残惜しそうに唇を離した。	오랜 시간이 흐르고 마리안은 아쉬움을 안고 입술을 떼어낸다.	After a long time had passed, Marian reluctantly pulled away.						0	
+154	对不起，我一下没能控制住自己……如果不赶快静下来的话，会没个头的……	對不起，我忽然沒能控制住自己……如果不趕快冷靜下來的話，會沒完沒了的……	すみません、私、我慢できなくて……早く落ち着かないと、キリがなくなっちゃいそうです……	죄송해요, 저도 모르게 그만… 빠르게 진정하지 못하면 밑도 끝도 없을 거예요…	I'm sorry. I lost control for a moment... If I don't calm down now, I'm afraid it will never end...						0	
+155	分析员……我们是不是也该去叫凯茜娅小姐了？	分析員……我們是不是也該去叫凱茜婭小姐了？	分析員さん……そろそろカーシアさんを呼びませんか？	분석가님… 이제 캐시아를 찾으러 가야 하지 않을까요?	Adjutant... should we go get Katya?						0	
+156	嗯，一起去叫——	嗯，一起去叫——	ああ。一緒に——	응, 같이 찾으러 가자…	Yeah, let's go togethe—						0	
+157	我话音未落，门外便响起了一阵急促的敲门声。	我話音未落，門外便響起了一陣急促的敲門聲。	私が話し終わる前に、誰かが切羽詰まった様子で部屋の扉を叩いた。	말이 끝나기 전에 문밖에서 다급한 노크 소리가 들려왔다.	Before I could finish my sentence, a quick knock sounded on the door.						0	
+158	分析员，不好了，凯茜娅自己开了艘船，不知道去哪里了！	分析員，不好了，凱茜婭自己開了艘船，不知道去哪裡了！	大変です、分析員！カーシアが船を操縦して、どこかへ行ってしまいました！	분석가님, 큰일이에요, 캐시아가 배를 몰고 나갔는데, 어디로 갔는지 모르겠어요!	Adjutant, we have a problem. Katya took a boat and ran off. We have no idea where she went!						0	
+159	什么？！	什麼？！	なんだと……！？	네?!	What!?						0	
+160	听闻这个消息，我心头瞬间一紧，就像被什么东西狠狠揪住一般。	聽聞這個消息，我心頭瞬間一緊，就像被什麼東西狠狠揪住一般。	それを聞いて、私の心臓はなにかに縛られたかのようにギュッと締め付けられた。	그 소식을 듣자마자 무언가에 한대 얻어맞은 것처럼 심장이 조여왔다.	Upon hearing this, I felt my heart immediately tighten, like something had a hold on me.						0	
+161	芙提雅的头绳落在了温泉，我们去找的时候发现了这个。	芙提雅的頭繩落在了溫泉，我們去找的時候發現了這個。	フリティアが温泉に忘れ物をしたから、探しに行ったときにこんなものを見つけたんです。	프티야가 머리끈을 온천에 두고 와서 가서 찾았는데, 그때 발견한 거예요.	Fritia's hair tie fell in the hot spring. When we went back to look for it, we found this.						0	
+162	卡罗琳递上一张纸片。	卡羅琳遞上一張紙片。	カロリンから一枚のカードを渡された。	캐롤린이 카드 한 장을 건넸다.	Caroline handed me a piece of paper.						0	
+163	“抱歉啊分析员，今晚的机会还是留给茉莉安吧。”	「抱歉啊分析員，今晚的機會還是留給茉莉安吧。」	「ごめんね、分析員。今夜はやっぱり、マリアンに譲るわ。」	"미안해, 분석가. 오늘 밤은 마리안에게 기회를 양보할게."	"Sorry, Adjutant. I'll let Marian have this opportunity tonight."						0	
+164	“比起正大光明的行事，我果然还是更喜欢搞暗中偷袭哦~”	「比起正大光明的行事，我果然還是更喜歡搞暗中偷襲哦~」	「正々堂々となにかをするより、やっぱり奇襲のほうが私の性にあうから。」	"난 정정당당한 것보다 뒤에서 몰래 기습하는 걸 좋아하거든~"	"Compared to playing by the rules, I prefer surprise attacks anyway~"						0	
+165	……	……	……	……	...						0	
+166	我要去找她，茉莉安你……	我要去找她，茉莉安你……	彼女を探さないと。マリアン……	캐시아를 찾으러 가야겠어, 마리안은…	I'm going to look for her. Marian, you ca—						0	
+167	我也要去！	我也要去！	私も行きます！	저도 갈래요!	I'm going too!						0	
+168	茉莉安紧紧地握住我的手，但随后又像是意识到了什么般，停顿了一下。	茉莉安緊緊地握住我的手，但隨後又像是意識到了什麼般，停頓了一下。	マリアンは私の手を握りしめると、すぐになにかを意識したかのように、少し考え始めた。	마리안은 내 손을 꽉 잡았고, 이내 무언가를 떠오른 듯 잠시 멈칫했다.	Marian gripped my hand tightly, but she soon hesitated as if she realized something.						0	
+169	不过还是分头行动吧，这样搜索效率更高些。	不過還是分頭行動吧，這樣搜索效率更高些。	ですが、やっぱり二手に分かれて、効率よく探しましょう。	흩어져서 찾아보죠, 그게 더 효율적일 거예요.	But we should probably split up. That way we can cover more ground.						0	
+170	嗯。	嗯。	ああ。	알겠어.	Sure.						0	
+171	与白天时的燥热与喧闹不同，夜晚的大海仿佛吞噬了包括温度在内的一切。	與白天時的燥熱與喧鬧不同，夜晚的大海彷彿吞噬了包括溫度在內的一切。	騒がしくて熱い昼から打って変わり、夜の海はまるですべてを呑み込んだかのように静かだった。	낮에 느껴졌던 뜨거움과 왁자지껄한 분위기와 달리 밤하늘 아래의 바다는 뜨거운 온도를 포함한 모든 것을 집어삼킨 듯했다.	In contrast to the heat and noise of the day, the nighttime ocean seemed to swallow everything up, including the temperature.						0	
+172	一片清冷中，就连我也开始渐渐迷失了方向……	一片清冷中，就連我也開始漸漸迷失了方向……	その静けさの中で、私も段々と方向を見失い始めた……	쌀쌀한 날씨 속에서 나도 천천히 방향을 잃어가고 있었다…	Even I began to get lost in the cold night...						0	
+173	她现在也正漫无目的漂泊吗？还是说已经回基地了？	她現在也漫無目的漂泊嗎？還是說已經回基地了？	彼女も海の上で、目的もなく漂っているのか？それとももう寮に戻ったのだろうか？	지금 아무런 목적 없이 떠돌아다니고 있는 걸까? 아니면 기지로 돌아갔을까?	Was she also wandering around aimlessly? Or was she already heading back to the Base?						0	
+174	……不，虽然每次她都刻意地与大家保持着距离，但是也如那封信件中所说——	……不，雖然每次她都刻意地與大家保持著距離，但是也如那封信件中所說——	……いや、みんなと距離を保ってはいるけれど、彼女は手紙に書いていたように——	…아니야, 캐시아가 매번 일부러 다른 사람과 거리를 유지하지만 편지에서 말했던 것처럼…	...No. Even though she always kept her distance from everyone else, her letter said...						0	
+175	她一直都在关注着“这边”，就在不远处的黑暗中……	她一直都在關注著「這邊」，就在不遠處的黑暗中……	ずっと「こっち」を見つめているはずだ。きっとどこか遠くない暗い場所で……	이곳'을 계속 주시하고 있었어, 마치 멀지 않은 어둠 속에서…	She was always focused on "this place," the not-so-distant darkness.						0	
+176	稳下心来，我望向远处正对着水上乐园的小小孤岛，做出了判断。	穩下心來，我望向遠處正對著水上樂園的小小孤島，做出了判斷。	私は落ち着いて、サマーランドの真正面にある小さな孤島を眺めながら、決断した。	마음을 진정시킨 다음, 수상 낙원 바로 앞에 있는 작은 섬을 바라보며 결정을 내렸다.	Steadying my nerves, I looked at the small island opposite the water park and made a decision.						0	
+177	而后，在即将靠岸时……	而後，即將靠岸時……	そして、もうすぐ岸辺に着こうかというタイミングで……	잠시 후, 물가에 다다랐을 때…	Then, just as I was about to reach the shore...						0	
+178	和预想中一样，我听到了熟悉的哼唱声，那是她第一次为我演奏的曲子……	和預想中一樣，我聽到了熟悉的哼唱聲，那是她第一次為我演奏的曲子……	私は予想していた通り、耳馴染みの深いあの歌声を聞いた。それは、彼女が私に初めて演奏してくれた曲だった……	예상했던 것처럼 익숙한 노랫소리가 들려왔고, 이건 그녀가 처음으로 날 위해 연주해 줬던 곡이다…	It was just as I'd thought. I heard a familiar voice humming... a song she had played for me the first time...						0	

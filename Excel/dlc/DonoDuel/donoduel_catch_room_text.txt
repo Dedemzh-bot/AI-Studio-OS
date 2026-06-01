@@ -1,0 +1,16 @@
+﻿房间类型ID	//备注	房间名称	房间介绍	房间图标	限制进入次数
+RoomTypeID	Note	Name	Desc	Icon	UsageLimit
+1	普通战斗	donoduel.room_name_01	donoduel.room_name_01_des	5202001	
+2	精英战斗	donoduel.room_name_02	donoduel.room_name_02_des	5202002	
+3	boss战斗	donoduel.room_name_03	donoduel.room_name_03_des	5202003	
+4	代币战斗	donoduel.room_name_04	donoduel.room_name_04_des	5202004	
+5	恢复	donoduel.room_name_05	donoduel.room_name_05_des	5202005	5
+6	技能重塑	donoduel.room_name_06	donoduel.room_name_06_des	5202007	1
+7	奇遇-无战斗	donoduel.room_name_07	donoduel.room_name_07_des	5202008	4
+8	小游戏	donoduel.room_name_08	donoduel.room_name_08_des	5202006	3
+9	奇遇-有战斗	donoduel.room_name_09	donoduel.room_name_09_des	5202008	4
+10	无尽入口	donoduel.room_name_10	donoduel.room_name_10_des	5202010	
+11	退出结算	donoduel.room_name_11	donoduel.room_name_11_des	5202009	
+12	普通战斗（限时杀敌）	donoduel.room_name_01	donoduel.room_name_01_des	5202001	
+13	精英战斗（击杀头目-脆血）	donoduel.room_name_02	donoduel.room_name_02_des	5202002	
+14	boss战斗（击杀头目-厚血）	donoduel.room_name_03	donoduel.room_name_03_des	5202003	

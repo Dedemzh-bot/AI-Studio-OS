@@ -1,0 +1,32 @@
+﻿BuffID	buff图标	名称Key	buff描述	buff强度	效果类型	效果参数	效果描述参数	//备注
+ID	BuffUIID	Name	Des	BuffLevel	EffectID	Count	DescParam	Comment
+1	4105001	dreamcard.buff_name01	dreamcard.buff_desc01	2	{1}	{{0.1}}	{10}	敌人强度提升10%【2期未投放】
+2	4105003	dreamcard.buff_name02	dreamcard.buff_desc02	4	{2}	{{}}		没有跳过按钮
+3	4105004	dreamcard.buff_name03	dreamcard.buff_desc03	4	{3}	{{}}		不能使用宝物的主动效果
+4	4105005	dreamcard.buff_name04	dreamcard.buff_desc04	4	{4}	{{}}		无法删除棋子
+5	4105006	dreamcard.buff_name05	dreamcard.buff_desc05	4	{5}	{{}}		不能刷新卡牌
+6	4105007	dreamcard.buff_name06	dreamcard.buff_desc06	4	{6}	{{8}}		首次转动后，场上所有棋子转变为墨镜
+7	4105019	dreamcard.buff_name07	dreamcard.buff_desc07	4	{7}	{{}}		禁用所有道具
+8	4105002	dreamcard.buff_name08	dreamcard.buff_desc08	8	{8}	{{6}}	{6,6}	最多同时拥有6个礼物，达到上限时则不能再获取
+9	4105009	dreamcard.buff_name09	dreamcard.buff_desc09	8	{9}	{{60}}	{60}	通过选棋累计获得60个棋子后，自动跳过之后的所有选棋
+10	4105010	dreamcard.buff_name10	dreamcard.buff_desc10	4	{10}	{{3}}	{3}	本局游戏探梦等级最大为3【2期未投放】
+11	4105011	dreamcard.buff_name11	dreamcard.buff_desc11	2	{11}	{{3600,20}}		初始获得3600能量，跳过所有选棋，升级等级后获得20次选棋【2期未投放】
+12	4105012	dreamcard.buff_name12	dreamcard.buff_desc12	3	{12}	{{1,1}}	{1}	选棋时出现的1星棋子均为心灵城堡的棋子【2期未投放】
+13	4105017	dreamcard.buff_name13	dreamcard.buff_desc13	2	{13}	{{}}		流派强化天赋无效【2期未投放】
+14	4105014	dreamcard.buff_name14	dreamcard.buff_desc14	3	{14}	{{400000}}		最终首领额外获得400000能量强度【2期未投放】
+15	4105016	dreamcard.buff_name15	dreamcard.buff_desc15	4	{15}	{{2}}		首次转动后生命值-2
+16	4105013	dreamcard.buff_name16	dreamcard.buff_desc16	4	{16}	{{}}		每个怪物阶段减少1次转动次数
+17	4105015	dreamcard.buff_name17	dreamcard.buff_desc17	4	{17}	{{0.6}}		发起攻击将只用当前60%能量
+18	4105001	dreamcard.buff_name01	dreamcard.buff_desc01	4	{1}	{{0.2}}	{20}	敌人强度提升20%【2期未投放】
+19	4105001	dreamcard.buff_name01	dreamcard.buff_desc01	4	{1}	{{0.3}}	{30}	敌人强度提升30%
+20	4105012	dreamcard.buff_name12	dreamcard.buff_desc12	4	{12}	{{2,1}}	{2}	选棋时出现的2星棋子均为心灵城堡的棋子
+21	4105011	dreamcard.buff_name11	dreamcard.buff_desc11_2	8	{18}	{{200}}	{200,200}	最多拥有200个棋子，达到上限时则不能再获取
+22	4105024	dreamcard.buff_name18	dreamcard.buff_desc18	8	{19}	{{5,8}}	{5,8}	初始获得5次选棋，前进时不会再弹出选棋，之后每次击败敌人时获得8次选棋
+23	4105018	dreamcard.buff_name19	dreamcard.buff_desc19	4	{20}	{{1}}	{1}	使用【定制专辑】道具时，损失1生命值
+24	4105020	dreamcard.buff_name20	dreamcard.buff_desc20	4	{21}	{{1}}	{1}	损失生命值的时候，随机删除1个礼物
+25	4105021	dreamcard.buff_name21	dreamcard.buff_desc21	4	{22}	{{5}}	{5}	提升漫溯等级时，随机删除5个棋子
+26	4105022	dreamcard.buff_name22	dreamcard.buff_desc22	4	{23}	{{0.1}}	{10}	漫溯等级提升所需的漫溯能量消耗提升10%
+27	4105023	dreamcard.buff_name23	dreamcard.buff_desc23	8	{24}	{{30,1}}	{30,1}	默认跳过所有选礼，每消耗30个棋子后，额外触发1次选礼
+28	4105025	dreamcard.buff_name24	dreamcard.buff_desc24	2	{25}	{{200,1.1,0.9}}	{200,10,10}	背包中棋子少于X个时，本次前进获得的能量乘以Y，否则乘以Z
+29	4105026	dreamcard.buff_name25	dreamcard.buff_desc25	4	{26}	{{5,1.1,0.9}}	{5,10,10}	前进时，棋子和宝物生成至少X个棋子，本次前进获得的能量乘以Y，否则乘以Z
+30	4105027	dreamcard.buff_name26	dreamcard.buff_desc26	4	{27}	{{5,1.1,0.9}}	{5,10,10}	前进时，棋子和宝物消除至少X个棋子，本次前进获得的能量乘以Y，否则乘以Z

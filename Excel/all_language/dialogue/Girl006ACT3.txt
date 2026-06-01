@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	<red>这些家伙只用射击解决不了，要拿我的拳头砸才行。</>	<red>這些傢伙只用射擊解決不了，要拿我的拳頭砸才行。 </>	<red>こいつらは射撃だけでは解決できない相手だ。この拳を使うしかない。</>	<red>이런 녀석들은 사격만으로 해결할 수 없어. 내 주먹으로 박살을 내주마.</>	<red>We're not going to be able to deal with this one using projectile weaponry, what they need is a real hard punch.</>						0	
+2	<red>注意了，必须使用技能才能完成最后一击。</>	<red>注意了，必須使用技能才能完成最後一擊。 </>	<red>注意しろ。止めを刺す時は必ず、スキルを使うんだ</>	<red>주의해. 스킬을 사용해야만 최후의 일격을 가할 수 있어.</>	<red>Watch close, got to use skills to finish this one off.</>						0	

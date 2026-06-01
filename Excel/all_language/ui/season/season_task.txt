@@ -1,0 +1,117 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+chesstask1	灯节·初探	燈節·初探	明灯祭・初見	등불 의식·초입	Mingdeng Jie - Initial Exploration						0	
+chesstask1.desc	通关第一章：“灯节”阶段行动	通關第一章：“燈節”階段行動	第一章「明灯祭」ステージをクリア	챕터1: '등불 의식' 단계 전투 클리어하기	Clear Chapter 1 - "Mingdeng Jie" Phase Operations						0	
+chesstask2	灯节·伊始	燈節·伊始	明灯祭・始まり	등불 의식·시작	Mingdeng Jie - Beginning						0	
+chesstask2.desc	触发并完成“灯节”的所有节点，并获得全部送福宝箱	觸發並完成“燈節”的所有節點，並獲得全部送福寶箱	「明灯祭」の全ての節をクリアして、全ての福の宝箱を獲得	'등불 의식'의 모든 노드를 발동 및 완료하고, 모든 축복 보물상자 획득하기	Trigger and complete all Nodes in "Mingdeng Jie" and obtain all Fortune Chests						0	
+chesstask3	祈愿·阵痛	祈願·陣痛	祈り・連続する痛み	기원·진통	Prayer - Pain						0	
+chesstask3.desc	通关第二章：“祈愿”阶段行动	通關第二章：“祈願”階段行動	第二章「祈り」ステージをクリア	챕터2: '기원' 단계 전투 클리어하기	Clear Chapter 2: "Prayer" Action Phase						0	
+chesstask4	祈愿·忧患	祈願·憂患	祈り・憂患	기원·우환	Prayer - Sorrow						0	
+chesstask4.desc	触发并完成“祈愿”的所有节点，并获得全部送福宝箱	觸發並完成“祈願”的所有節點，並獲得全部送福寶箱	「祈り」の全ての節をクリアして、全ての福の宝箱を獲得	'기원'의 모든 노드를 발동 및 완료하고, 모든 축복 보물상자 획득하기	Trigger and complete all Nodes in "Prayer" and obtain all Fortune Chests						0	
+chesstask5	隐秘·探悉	隱秘·探悉	秘匿・探究	비밀·조사	Secret - Discover						0	
+chesstask5.desc	通关第三章：“隐秘”阶段行动	通關第三章：“隱秘”階段行動	第三章「秘匿」ステージをクリア	챕터3: '비밀' 단계 전투 클리어하기	Clear Chapter 3: "Secret" Action Phase						0	
+chesstask6	隐秘·洞察	隱秘·洞察	秘匿・洞察	비밀·통찰	Secret - Insight						0	
+chesstask6.desc	触发并完成“隐秘”的所有节点，并获得全部送福宝箱	觸發並完成“隱秘”的所有節點，並獲得全部送福寶箱	「秘匿」の全ての節をクリアして、全ての福の宝箱を獲得	'비밀'의 모든 노드를 발동 및 완료하고, 모든 축복 보물상자 획득하기	Trigger and complete all Nodes in "Secret" and obtain all Fortune Chests						0	
+chesstask7	患失·风波	患失·風波	憂慮・波瀾	노심초사·풍파	Grief - Turmoil						0	
+chesstask7.desc	通关第四章：“患失”阶段行动	通關第四章：“患失”階段行動	第四章「憂慮」ステージをクリア	챕터4: '노심초사' 단계 전투 클리어하기	Clear Chapter 4: "Loss" Action Phase						0	
+chesstask8	患失·难关	患失·難關	憂慮・難関	노심초사·난관	Loss - Difficulties						0	
+chesstask8.desc	触发并完成“患失”的所有节点，并获得全部送福宝箱	觸發並完成“患失”的所有節點，並獲得全部送福寶箱	「憂慮」の全ての節をクリアして、全ての福の宝箱を獲得	'노심초사'의 모든 노드를 발동 및 완료하고, 모든 축복 보물상자 획득하기	Trigger and complete all Nodes in "Loss" and obtain all Fortune Chests						0	
+chesstask9	难关·抵抗	難關·抵抗	難関・抵抗	난관·저항	Difficulties - Resilience						0	
+chesstask9.desc	完成第五章：“难关”阶段行动	完成第五章：“難關”階段行動	第五章「難関」ステージをクリア	챕터5: '난관' 단계 전투 클리어하기	Complete Chapter 5: "Difficulties" Action Phase						0	
+chesstask10	难关·攻克	難關·攻克	難関・攻略	난관·공략	Difficulties - Overcoming						0	
+chesstask10.desc	触发并完成“难关”的所有节点，并获得全部送福宝箱	觸發並完成“難關”的所有節點，並獲得全部送福寶箱	「難関」の全ての節をクリアして、全ての福の宝箱を獲得	'난관'의 모든 노드를 발동 및 완료하고, 모든 축복 보물상자 획득하기	Trigger and complete all Nodes in "Difficulties" and obtain all Fortune Chests						0	
+chesstask11	福至·欢游	福至·歡遊	福臨・歓遊	행운·즐거운 여행	Good Fortune - Happiness						0	
+chesstask11.desc	完成第六章：“福至”阶段行动	完成第六章：“福至”階段行動	第六章「福臨」ステージをクリア	챕터6: '행운' 단계 전투 클리어하기	Complete Chapter 6: "Good Fortune" Action Phase						0	
+chesstask12	福至·团圆	福至·團圓	至福・団らん	행운·화합	Good Fortune - Reunion						0	
+chesstask12.desc	触发并完成“福至”的所有节点，并获得全部送福宝箱	觸發並完成“福至”的所有節點，並獲得全部送福寶箱	「福臨」の全ての節をクリアして、全ての福の宝箱を獲得	'행운'의 모든 노드를 발동 및 완료하고, 모든 축복 보물상자 획득하기	Trigger and complete all Nodes in "Good Fortune" and obtain all Fortune Chests						0	
+chesstask100	头号守护者	頭號守護者	ファーストガーディアン	수호자 1호	Number One Defender						0	
+chesstask100.desc	触发并完成活动“灯火照途明”的所有节点，并获得全部送福宝箱	觸發並完成活動“燈火照途明”的所有節點，並獲得全部送福寶箱	イベント「道照らす灯」の全ての節をクリアし、全ての福の宝箱を獲得	'등불의 계시'의 모든 노드를 발동 및 완료하고, 모든 축복 보물상자 획득하기	Trigger and complete all Nodes in the "Lighting the Way" Event and obtain all Fortune Chests						0	
+m1a.task01	会场执勤	會場執勤	会場当番	행사장 순찰	On Duty in the Venue						0	
+m1a.task01.des	协助泰古通达庆典活动现场的安保工作。	協助泰古通達慶典活動現場的保全工作。	タグを手伝い、祭り会場の警備に協力する。	타이구 물류회사의 행사장 보안 업무에 협조하기	Assist with security at the Taigu-Connect event venue						0	
+m1a.task02	仓尧的求助	倉堯的求助	倉尭からの頼み	창요의 도움 요청	Cangyao's Request						0	
+m1a.task02.des	帮助仓尧整理混乱的物资箱，保持庆典活动会场的秩序。	幫助倉堯整理混亂的物資箱，保持慶典活動會場的秩序。	倉尭を手伝い、乱雑とした物資箱を整理し、祭り会場の秩序を維持する。	창요를 도와 어지러운 물자 상자를 정리하고, 축제 이벤트 행사장 질서 유지하기	Help Cangyao handle the disorganized supply caches and maintain order in the event venue						0	
+m1a.task03	未始祸事	未始禍事	事件直前	사고 방지	Impending Misfortune						0	
+m1a.task03.des	追查出现在庆典活动会场中的不明装置。	追查出現在慶典活動會場中的不明裝置。	祭り会場に現れた謎の装置を調査する。	축제 이벤트 행사장에 나타난 정체불명의 장치 조사하기	Track down the unknown device that appeared in the festival venue.						0	
+m2a.task01	失序因子	失序因子	秩序が崩れる原因	테러리스트	Element of Disorder						0	
+m2a.task04.des	调查逐光者一方是否在扰乱庆典活动。	調查逐光者一方是否在擾亂慶典活動。	逐光者が祭りイベントを邪魔していないか調査する。	축광단이 축제 이벤트를 방해하고 있는지 조사하기	Investigate the possibility that the Light Chasers are disrupting the celebration.						0	
+m2a.task02	不谐之音	不諧之音	不協和音	불협화음	Dissonance						0	
+m2a.task02.des	处理在会场上失控的泰古通达安保机器人。	處理在會場上失控的泰古通達保全機器人。	会場で暴走するタグの警備ロボットを処理する。	행사장에서 폭주한 타이구 물류회사 보안 로봇 처리하기	Deal with the out-of-control Taigu-Connect security robots in the venue.						0	
+m2a.task03	清扫行动	清掃行動	お掃除作戦	클리닝 미션	Cleaning Action						0	
+m2a.task03.des	排查会场的不明装置，防止发生无法预测的事件。	清查會場的不明裝置，防止發生無法預測的事件。	会場に現れる謎の装置を調査し、予測不能な事態を防ぐ。	예측할 수 없는 사고를 미연에 방지하기 위해 행사장에 숨겨진 정체불명의 장치 조사하기	Investigate the unknown devices that appeared in the venue to prevent any unpredictable incidents.						0	
+m3a.task01	木隐于林	木隱於林	森に隠れる大木	숲에 숨은 나무	Needle in a Haystack						0	
+m3a.task01.des	集中搜索并处理隐藏在人群聚集处的不明装置。	集中搜索並處理隱藏在人群聚集處的不明裝置。	人混みに隠された謎の装置を集中的に調査して処理する。	인파가 밀집된 곳에 숨겨진 정체불명의 장치를 수색 및 처리하기	Focus on locating and taking care of the unknown devices hidden in crowded areas.						0	
+m3a.task02	清扫行动	清掃行動	掃除作戦	클리닝 미션	Cleaning Action						0	
+m3a.task02.des	在金琅的助力下，进一步处理隐藏在会场中的不明装置。	在金瑯的協助下，進一步處理隱藏在會場中的不明裝置。	金琅の助けを得て、さらに会場に隠された謎の装置を処理する。	금랑의 도움을 받아 행사장에 숨겨진 정체불명의 장치 계속 처리하기	With Jinlang's help, some of the unknown devices hidden around the venue were dealt with.						0	
+m3a.task03	罪人自白	罪人自白	罪人の自白	죄인의 자백	Culprit's Confession						0	
+m3a.task03.des	根据伊尔提供的线索和门禁卡，前往处理不明装置。	根據伊爾提供的線索和門禁卡，前往處理不明裝置。	イールからもらった手がかりとカードキーで、謎の装置を処理しに行く。	이엘이 제공한 단서와 출입 카드를 이용해 정체불명의 장치 처리하기	Use the clues and door alarm card that Yier provided to deal with the unknown devices.						0	
+m4a.task01	导火索	導火線	導火線	도화선	Fuse						0	
+m4a.task01.des	追查不明装置的来源，查明幕后人的真实目的。	追查不明裝置的來源，查明幕後主使者的真實目的。	謎の装置の出所を調査し、黒幕の真の目的を突き止める。	정체불명 장치의 출처를 조사하고, 배후의 진짜 목적 밝히기	Track down the source of the unknown devices and discover the motive of whoever's behind this.						0	
+m5a.task01	会合	會合	合流	합류	Meeting						0	
+m5a.task01.des	向燃灯台的方向前进与队员们会合，同时加强安保力度。	朝燃燈臺的方向前進與隊員們會合，同時加強保全警備程度。	点灯台に向かい隊員と合流し、同時に警備を強化する。	연등대 쪽으로 이동해 팀원들과 합류하고, 보안 강화하기	Head toward the stage to meet with the other Operatives. Meanwhile, increase the security presence.						0	
+m5a.task02	转圜	轉圜	挽回	만회	Turnaround						0	
+m5a.task02.des	在零区居民主动协助疏散的情况下，尽快清理会场的泰坦。	在零區居民主動協助疏散的情況下，儘快清理會場的泰坦。	エリアゼロの住民たちが自主的に避難に協力している中、会場にいるタイタンをできるだけ早く処理する。	제로 구역 주민들이 자발적으로 대피에 협조하는 상황에서 신속하게 행사장에 있는 타이탄 처리하기	Clear the venue of Titans as quickly as possible as Containment Zone residents assist with the evacuation.						0	
+m6a.task01	最后的委托	最後的委託	最後の依頼	마지막 의뢰	Final Commission						0	
+m6a.task01.des	协助安保工作的同时，带着海姆达尔的大家享受庆典活动。	協助保全工作的同時，帶著海姆達爾的大家享受慶典活動。	警備の仕事に協力しながら、ヘイムダルの皆と一緒にお祭りイベントを満喫する。	보안 업무에 협조하면서 헤임달 부대원들과 축제 이벤트 즐기기	Enjoy the celebration with the other Heimdall Operatives while assisting with security.						0	
+m6a.task02	燃灯祈福	燃燈祈福	灯をつけて祈る	연등 축복	Light a Lantern, Pray for Good Fortune						0	
+m6a.task02.des	和大家一起留下美好的回忆。	和大家一起留下美好的回憶。	皆と一緒に美しい思い出を作る。	다 같이 함께 아름다운 추억 남기기	Make good memories with everyone.						0	
+m1b.task01	奇怪的视线	奇怪的視線	変な視線	이상한 시선	Strange Gaze						0	
+m1b.task01.des	一如既往的巡逻任务中，却感受到了群众炙热的视线。	一如既往的巡邏任務中，卻感受到了群眾炙熱的視線。	いつも通りのパトロールミッションで、なぜか群衆から熱い視線を感じる。	평소와 같이 순찰하던 중, 사람들의 뜨거운 시선이 느껴진다.	Feel the ever-present eyes of the crowd during the patrol mission.						0	
+m1b.task02	来者匆匆	來者匆匆	慌ただしい人	서두르는 소녀	Rushed Visitor						0	
+m1b.task02.des	突然出现的少女，究竟是谁？	突然出現的少女，究竟是誰？	さっき現れた女の子はいったい......？	갑자기 나타난 소녀, 정체가 뭘까?	Who is the girl who came out of nowhere?						0	
+m2b.task01	额外注意事项	額外注意事項	別の注意事項	추가 주의사항	Additional Issues						0	
+m2b.task01.des	追踪意外独自行动的瑟瑞斯。	追蹤意外單獨行動的瑟瑞斯。	事件を追って単独行動を取るシーリス	혼자서 단독 행동하는 세리스 추적하기	Track down Siris, who is unintentionally working alone.						0	
+m2b.task02	雇主与跑腿	僱主與跑腿	雇い主とお遣い	고용주와 심부름꾼	Employers and Deliverymen						0	
+m2b.task02.des	确认伊尔与金琅之间的关系。	確認伊爾與金瑯之間的關係。	イールと金琅の関係性を確認する。	이엘과 금랑의 관계 확인하기	Confirm the nature of Yier and Jinlang's relationship.						0	
+m3b.task01	欲盖弥彰	欲蓋彌彰	慌てば負け	감출수록 드러나는 진실	Attempted Concealment						0	
+m3b.task01.des	弄清伊尔慌慌张张的原因。	弄清楚伊爾慌慌張張的原因。	イールが慌てる原因を突き止める	이엘이 당황한 원인 밝히기	Find out why Yier was panicking						0	
+m4b.task01	未能传达的信	未能傳達的信	届かない手紙	전하지 못한 편지	Undelivered Message						0	
+m4b.task01.des	找个机会，了解手中信石的来源。	找個機會，了解手中信石的來源。	チャンスを窺って信石の出所を掴む	기회를 봐서 전각석의 출처 조사하기	Find the time to learn the story behind the Letter Stone you found.						0	
+m4b.task02	未能传达的信2	未能傳達的信2	届かない手紙2	전하지 못한 편지2	Undelivered Message 2						0	
+m4b.task02.des	查清另一块信石上的内容。	查清楚另一塊信石上的內容。	もう一つの信石の内容を調査する	또 다른 전각석의 내용 조사하기	Find out what's engraved on the other Letter Stone.						0	
+chessbattle1.2	面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。	面對真實身分不明的敵人，海姆達爾的隊員們已經準備好戰鬥了。	正体不明の敵に立ち向かえ。隊員の戦闘準備は万端だ。	헤임달 부대의 팀원들은 정체불명의 타깃을 상대로 싸울 만반의 준비를 마쳤다.	Faced with an enemy whose NO identity is unknown, Heimdall Force Operatives are prepared to fight.						0	A1·图1
+chessbattle1.3	面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。	面對真實身分不明的敵人，海姆達爾的隊員們已經準備好戰鬥了。	正体不明の敵に立ち向かえ。隊員の戦闘準備は万端だ。	헤임달 부대의 팀원들은 정체불명의 타깃을 상대로 싸울 만반의 준비를 마쳤다.	Faced with an enemy whose NO identity is unknown, Heimdall Force Operatives are prepared to fight.						0	A7·图3
+chessbattle1.4	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	A8·图3
+chessbattle1.5	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	A10·图4
+chessbattle1.6	几名神色紧张的郊狼成员聚在一处，请及时出手防患于未然。	幾名神色緊張的郊狼成員聚在一處，請及時出手防患於未然。	不穏気な様子のコヨーテのメンバーが群がっている。不測の事態に備え標的を鎮圧しよう。	긴장한 표정의 코요테 멤버들이 모여있다. 즉시 손을 써서 소동을 미연에 방지하자	Several nervous-looking Coyotes have gathered. Please act in a timely manner to prevent any issues before they occur.						0	A2·图1
+chessbattle1.7	几名神色紧张的郊狼成员聚在一处，请及时出手防患于未然。	幾名神色緊張的郊狼成員聚在一處，請及時出手防患於未然。	不穏気な様子のコヨーテのメンバーが群がっている。不測の事態に備え標的を鎮圧しよう。	긴장한 표정의 코요테 멤버들이 모여있다. 즉시 손을 써서 소동을 미연에 방지하자	Several nervous-looking Coyotes have gathered. Please act in a timely manner to prevent any issues before they occur.						0	A11·图4
+chessbattle1.8	面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。	面對真實身分不明的敵人，海姆達爾的隊員們已經準備好戰鬥了。	正体不明の敵に立ち向かえ。隊員の戦闘準備は万端だ。	헤임달 부대의 팀원들은 정체불명의 타깃을 상대로 싸울 만반의 준비를 마쳤다.	Faced with an enemy whose NO identity is unknown, Heimdall Force Operatives are prepared to fight.						0	A3·图2复用
+chessbattle1.9	几名神色紧张的郊狼成员聚在一处，请及时出手防患于未然。	幾名神色緊張的郊狼成員聚在一處，請及時出手防患於未然。	不穏気な様子のコヨーテのメンバーが群がっている。不測の事態に備え標的を鎮圧しよう。	긴장한 표정의 코요테 멤버들이 모여있다. 즉시 손을 써서 소동을 미연에 방지하자	Several nervous-looking Coyotes have gathered. Please act in a timely manner to prevent any issues before they occur.						0	A9·图2
+chessbattle1.10	一批眼熟的无人机出现在会场上空，该开始执行安保工作了。	一批眼熟的無人機出現在會場上空，該開始執行保全工作了。	どこかで見たドローンが会場の上空に出現。さて、警備のお仕事の時間かな。	익숙해 보이는 드론이 행사장 상공에 나타났다. 보안 업무를 시작할 순간이 온 듯하다.	A group of familiar drones has appeared over the venue. It's time for security to get to work.						0	A4·图1
+chessbattle1.11	面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。	面對真實身分不明的敵人，海姆達爾的隊員們已經準備好戰鬥了。	正体不明の敵に立ち向かえ。隊員の戦闘準備は万端だ。	헤임달 부대의 팀원들은 정체불명의 타깃을 상대로 싸울 만반의 준비를 마쳤다.	Faced with an enemy whose NO identity is unknown, Heimdall Force Operatives are prepared to fight.						0	A3·图2
+chessbattle1.12	面对失控的安保机器人，到了分析员出场的时刻了。	面對失控的保全機器人，到了分析員出場的時刻了。	警備ロボットが暴走した、分析員の出番だ。	폭주 상태의 보안 로봇이 출몰했다. 분석가가 나서야 할 순간이다.	It's time for the Adjutant to step in and take care of the out-of-control security robots.						0	A5·图2
+chessbattle1.13	面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。	面對真實身分不明的敵人，海姆達爾的隊員們已經準備好戰鬥了。	正体不明の敵に立ち向かえ。隊員の戦闘準備は万端だ。	헤임달 부대의 팀원들은 정체불명의 타깃을 상대로 싸울 만반의 준비를 마쳤다.	Faced with an enemy whose NO identity is unknown, Heimdall Force Operatives are prepared to fight.						0	A6·图2
+chessbattle1.14	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	B4·图3
+chessbattle1.15	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	A13·图5
+chessbattle1.16	降临团成员引发的骚乱亟待解决。	降臨團成員引發的騷亂亟待解決。	降臨団メンバーが引き起こした騒ぎの解決は急を要する。	강림단 신자가 일으킨 소동을 긴급히 해결해야 한다.	Riots caused by Adventists require urgent attention.						0	B5·图4
+chessbattle1.17	一批眼熟的无人机出现在会场上空，该开始执行安保工作了。	一批眼熟的無人機出現在會場上空，該開始執行保全工作了。	どこかで見たドローンが会場の上空に出現。さて、警備のお仕事の時間かな	익숙해 보이는 드론이 행사장 상공에 나타났다. 보안 업무를 시작할 순간이 온 듯하다.	A group of familiar drones has appeared over the venue. It's time for security to get to work.						0	B2·图1
+chessbattle1.18	面对失控的安保机器人，到了分析员出场的时刻了。	面對失控的保全機器人，到了分析員出場的時刻了。	警備ロボットが暴走した、分析員の出番だ。	폭주 상태의 보안 로봇이 출몰했다. 분석가가 나서야 할 순간이다.	It's time for the Adjutant to step in and take care of the out-of-control security robots.						0	B1·图2
+chessbattle1.19	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	A12·图5
+chessbattle1.20	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	C1·图4
+chessbattle1.21	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	C2·图5
+chessbattle1.22	降临团成员引发的骚乱亟待解决。	降臨團成員引發的騷亂亟待解決。	降臨団メンバーが引き起こした騒ぎの解決は急を要する。	강림단 신자가 일으킨 소동을 긴급히 해결해야 한다.	Riots caused by Adventists require urgent attention.						0	B3·图3
+chessbattle1.23	灯靶猎戏，以灯笼为靶，击中以燃起希望。\n是明灯新仪结束后，零区人们喜爱的小游戏。	燈靶獵戲：以燈籠為靶，擊中燈靶以燃起希望。\n是明燈新儀結束後，零區人們喜愛的小遊戲。	ランプ射的はランプを的に、当たると希望の炎が燃え上がる。\nこれはエリアゼロの人たちの間では、明灯新祭終了後の恒例行事である。	등불 헌터에서는 과녁인 초롱을 명중시키면 희망의 불씨를 지필 수 있다.\n등불 의식이 끝난 후에 진행하는 것으로, 제로 구역 주민들이 가장 좋아하는 미니게임이다.	Target Practice uses lanterns as targets. Hit them to ignite hope.\nIt's a fun game that Containment Zone residents love to play after the Mingdeng Ritual concludes.						0	D1·图6
+chessbattle1.24	灯靶猎戏，以灯笼为靶，击中以燃起希望。\n是明灯新仪结束后，零区人们喜爱的小游戏。	燈靶獵戲：以燈籠為靶，擊中燈靶以燃起希望。\n是明燈新儀結束後，零區人們喜愛的小遊戲。	ランプ射的はランプを的に、当たると希望の炎が燃え上がる。\nこれはエリアゼロの人たちの間では、明灯新祭終了後の恒例行事である。	등불 헌터에서는 과녁인 초롱을 명중시키면 희망의 불씨를 지필 수 있다.\n등불 의식이 끝난 후에 진행하는 것으로, 제로 구역 주민들이 가장 좋아하는 미니게임이다.	Target Practice uses lanterns as targets. Hit them to ignite hope.\nIt's a fun game that Containment Zone residents love to play after the Mingdeng Ritual concludes.						0	D2·图6
+chessbattle1.25	限定时间内击碎所有瓶子，赢取奖励。\n在零区玩游戏，需要掌握一些特殊的小技巧。	限定時間內擊碎所有瓶子，贏取獎勵。\n在零區玩遊戲，需要掌握一些特殊的小技巧。	制限時間内に全ての瓶を壊し、報酬を勝ち取る。\nエリアゼロで遊びを楽しむには、特殊なテクニックが必要である。	제한 시간 내에 모든 병을 격파하면 보상을 수령할 수 있다.\n제로 구역의 게임에서 승리하려면, 특별한 노하우를 익혀야 한다.	Smash all the bottles within the time limit to win a prize.\nPlaying games in the Containment Zone requires a specialized skill set.						0	D3·图6
+chessbattle1.26	限定时间内击碎所有瓶子，赢取奖励。\n在零区玩游戏，需要掌握一些特殊的小技巧。	限定時間內擊碎所有瓶子，贏取獎勵。\n在零區玩遊戲，需要掌握一些特殊的小技巧。	制限時間内に全ての瓶を壊し、報酬を勝ち取る。\nエリアゼロで遊びを楽しむには、特殊なテクニックが必要である。	제한 시간 내에 모든 병을 격파하면 보상을 수령할 수 있다.\n제로 구역의 게임에서 승리하려면, 특별한 노하우를 익혀야 한다.	Smash all the bottles within the time limit to win a prize.\nPlaying games in the Containment Zone requires a specialized skill set.						0	D4·图6
+chessbattle1.27	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	A13·图5复用
+chessbattle1.28	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	A13·图5复用
+chessbattle1.29	远处的摊贩谄媚地向你摇着手，示意你试试零区内独特的定点射击挑战。	遠處的攤販諂媚地向你招著手，示意你試試零區內獨特的定點射擊挑戰。	遠くから屋台の主があなたに媚びるように手を振る。あなたにエリアゼロの独特の定位置射撃チャレンジを試して欲しいようだ。	멀리 있는 노점상이 아첨하듯 손을 흔들며 제로 구역만의 특별한 고정 사격 도전을 추천한다.	Vendors in the distance waved to you excitedly, gesturing for you to try out the Containment Zone's unique fixed-point shooting challenge.						0	D3·图2复用
+chessbattle1.30	明灯新仪顺利结束，但会场内可能依旧隐藏着危机，需要分析员一一排除。	明燈新儀順利結束，但會場內可能還隱藏著危機，需要分析員一一排除。	明灯新祭は順調に閉幕したが、会場にまだ危機が潜んでいる可能性がある。分析員がそれらを逐一排除しよう。	등불 의식은 원만하게 마무리되었지만, 지금부터 행사장 내부에 숨겨져 있을지 모르는 위기들을 하나씩 배제해야 한다.	The Mingdeng Ritual was a success, but there may still be hidden dangers lurking in the venue; the Adjutant will need to eliminate them one by one.						0	A10·图6复用1
+chessbattle1.31	明灯新仪顺利结束，但会场内可能依旧隐藏着危机，需要分析员一一排除。	明燈新儀順利結束，但會場內可能還隱藏著危機，需要分析員一一排除。	明灯新祭は順調に閉幕したが、会場にまだ危機が潜んでいる可能性がある。分析員がそれらを逐一排除しよう。	등불 의식은 원만하게 마무리되었지만, 지금부터 행사장 내부에 숨겨져 있을지 모르는 위기들을 하나씩 배제해야 한다.	The Mingdeng Ritual was a success, but there may still be hidden dangers lurking in the venue; the Adjutant will need to eliminate them one by one.						0	A10·图6复用2
+chessbattle1.32	突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。	突然出現的泰坦給活動會場帶來了巨大的危機，請迅速將其驅逐，保護零區居民。	突如現れたタイタンがイベント会場に大きな災いをもたらした。速やか目標を駆除し、エリアゼロの住民を守ろう。	이벤트 행사장은 갑작기 나타난 타이탄 때문에 큰 위기에 처한다. 최대한 신속하게 타이탄을 처리하고, 제로 구역의 주민들을 보호하자	The sudden appearance of Titans has caused an emergency in the venue. Please defeat them quickly and protect the Containment Zone residents.						0	A8·图3复用
+chessbattle1.33	面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。	面對真實身分不明的敵人，海姆達爾的隊員們已經準備好戰鬥了。	正体不明の敵に立ち向かえ。隊員の戦闘準備は万端だ。	헤임달 부대의 팀원들은 정체불명의 타깃을 상대로 싸울 만반의 준비를 마쳤다.	Faced with an enemy whose NO identity is unknown, Heimdall Force Operatives are prepared to fight.						0	A7·图3复用
+richmantask1	逐浪赢家	逐浪贏家	ビーチの勝者	웨이브 챔피언	Ocean Winner						0	
+richmantask1.desc	累计获得派对金币10000枚	累計獲得派對金幣10000枚	合戦コインを累計10000枚獲得	파티 코인 누적 10,000개 획득하기	Obtain 10,000 Party Gold in total						0	
+richmantask2	密林赢家	秘林贏家	ジャングルの勝者	정글 챔피언	Forest Winner						0	
+richmantask2.desc	累计获得派对金币10000枚	累計獲得派對金幣10000枚	合戦コインを累計10000枚獲得	파티 코인 누적 10,000개 획득하기	Obtain 10,000 Party Gold in total						0	
+richmantask3	溯影赢家	溯影贏家	月影の勝者	트레이스 챔피언	Shadow Winner						0	
+richmantask3.desc	累计获得派对金币5000枚	累計獲得派對金幣5000枚	合戦コインを累計5000枚獲得	파티 코인 누적 5,000개 획득하기	Obtain 5,000 Party Gold in total						0	
+richmantask4	共斗领袖	共鬥領袖	共闘リーダー	팀 리더	Squad Leader						0	
+richmantask4.desc	累计获得派对金币20000枚	累計獲得派對金幣20000枚	合戦コインを累計20000枚獲得	파티 코인 누적 20,000개 획득하기	Obtain 20,000 Party Gold in total						0	
+richmantask5	星光闪闪	星光閃閃	きらきら星	샤이닝 스타	Shining Star						0	
+richmantask5.desc											0	
+richmantask6	星力满满	星力滿滿	星力満タン	파워 스타	Supernova						0	
+richmantask6.desc											0	
+richmantaskinfo1	所在队伍获得金币10000	累計獲得派對幣10000	チームが合戦コインを10000枚獲得	현재 팀에서 10,000 코인 획득하기	Obtain 10,000 Party Gold as a team						0	
+richmantaskinfo2	所有敌对队伍破产	所有敵對隊伍破產	すべての敵チームが破産する	모든 적 팀 파산시키기	Make all enemies go bankrupt						0	
+richmantaskinfo3	击败透墨索斯	擊敗透墨索斯	テウメッサを撃破	테우메소스 격파	Defeat Teumessian						0	

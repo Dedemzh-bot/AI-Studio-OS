@@ -1,0 +1,70 @@
+﻿唯一ID，大于等于100时为现金	类名，用于记录日志和获取名字等	//备注	名称	描述	使用	扣除失败时的提示	最大持有量【不填=最高上限99999999】	版本号，升级时清空持有量	图标	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	道具ID
+ID	Type	Null	Name	Desc	Use	MsgOnCostFailed	MaxHave	Version	Icon	Color	GDPL
+100	CNY	人民币									
+1	MONEY	比特金	ui.money	supplies.paycurr1_des	supplies.paycurr1_use				1600001	5	
+2	GOLD	数据金	ui.gold	supplies.freecurr_des	supplies.freecurr_use				1600002	5	4,3,2,1
+3	SILVER	通用银	ui.silver	ui.silver_des	ui.silver				1600003	3	4,3,1,1
+4	VIGOR	体力	ui.vigor	ui.vigor_des	ui.vigor		9999		1600004	5	
+5	TOKEN	雪之形	supplies.NumansToken	supplies.NumansToken_des	supplies.NumansToken_use				1600005	4	
+6	COIN	开放世界代币							1600006	5	
+7	FRAGMENT	记忆嵌片	supplies.memento	supplies.memento_des	supplies.memento_use				1600007	4	
+8	GOLD	数据金(付费，仅记录不使用)	ui.gold	supplies.freecurr_des	supplies.freecurr_use				1600002	5	
+9	ROGUE	肉鸽活动代币	supplies.dlc103	supplies.dlc103_des	supplies.dlc103_use				1600008	4	4,1,6,1
+10	DLCTOKEN1	先驱铭牌	supplies.dlc2.token1	supplies.dlc2.token1_des	supplies.dlc2.token1_use				1510106	5	4,1,6,2
+11	DLCTOKEN2	激励点数	supplies.dlc2.token2	supplies.dlc2.token2_des	supplies.dlc2.token2_use				1510103	4	4,1,6,3
+12	REPRESSSION	通行密钥	supplies.dlc2.token3	supplies.dlc2.token3_des	supplies.dlc2.token3_use				1600011	4	4,1,6,4
+13	OPPTICKET	奥普奖券	supplies.OppTicket	supplies.OppTicket_des	supplies.OppTicket_use				1600012	5	4,1,6,5
+14	RUBYTICKET	卢槟奖券	supplies.RubyTicket	supplies.RubyTicket_des	supplies.RubyTicket_use				1600012	5	4,1,6,6
+15	ONLINETICKET1	联机勇者游戏门票	supplies.OnlineTicket1	supplies.OnlineTicket1_des	supplies.OnlineTicket1_use				1600013	5	4,1,8,1
+16	DLC3COIN1	翠星宝螺（dlc3货币）	supplies.dlc3coin1	supplies.dlc3coin1_des	supplies.dlc3coin1_use				1600014	4	4,1,10,1
+17	DLC3COIN2	炎阳珍珠（乱战宝礁货币1）	supplies.dlc3coin2	supplies.dlc3coin2_des	supplies.dlc3coin2_use				1600015	4	4,1,11,1
+18	DLC3COIN3	雪风珍珠（乱战宝礁货币2）	supplies.dlc3coin3	supplies.dlc3coin3_des	supplies.dlc3coin3_use				1600016	4	4,1,12,1
+19	DLC3COIN4	鸣雷珍珠（乱战宝礁货币3）	supplies.dlc3coin4	supplies.dlc3coin4_des	supplies.dlc3coin4_use				1600017	4	4,1,13,1
+20	DLC3COIN5	辉月珍珠（乱战宝礁货币4）	supplies.dlc3coin5	supplies.dlc3coin5_des	supplies.dlc3coin5_use				1600018	4	4,1,14,1
+21	DLC3COIN6	凛冬珍珠（乱战宝礁货币5）	supplies.dlc3coin6	supplies.dlc3coin6_des	supplies.dlc3coin6_use				1600019	4	4,1,15,1
+22	DLC3COIN7	碧月星壳（dlc3高级货币）	supplies.dlc3coin7	supplies.dlc3coin7_des	supplies.dlc3coin7_use				1600020	5	4,1,10,2
+23	ELEMENTTICKET	乱战入场劵（乱战宝礁门票）	supplies.dlc3TowerTicket	supplies.dlc3TowerTicket_des	supplies.dlc3TowerTicket_use				1510117	4	4,1,16,1
+24	ELEMENTDRAW	翠星助力劵（乱战宝礁抽奖卷）	supplies.dlc3TowerLottery	supplies.dlc3TowerLottery_des	supplies.dlc3TowerLottery_use				1510118	4	4,1,17,1
+25	ROGUE3EXPSCIENCE	悖论迷宫科技点	rogue3.coin_Science	rogue3.coin_Science_des	rogue3.coin_Science_use				1521002	5	4,1,19,1
+26	ROGUE3BATTLECOIN	悖论迷宫局内货币	rogue3.coin_BattleCoin	rogue3.coin_BattleCoin_des	rogue3.coin_BattleCoin_use				1521003	5	
+27	VIRCAPTURE	新星开拓刷新道具	supplies.vircapture.token1	supplies.vircapture.token1_des	supplies.vircapture.token1_use				1600021	5	4,1,6,7
+28	ROGUE3LOTTERY7	悖论迷宫抽奖券（dlc7）	rogue3.coin_LotteryTicket	rogue3.coin_LotteryTicket_des	rogue3.coin_LotteryTicket_use				1521004	4	4,1,21,1
+29	ROGUE3COIN7	悖论迷宫赛季货币（dlc7）	rogue3.coin_Season	rogue3.coin_Season_des	rogue3.coin_Season_use				1521005	5	4,1,22,1
+30	RICHMANDICE	dlc9大富翁骰子	season_ui.chess03_dice_name	season_ui.chess03_dice_des	season_ui.chess03_dice_use				1521005	4	
+31	ROGUE3SEASONKEY1	悖论迷宫赛季钥匙1	rogue3.Seasonkey1	rogue3.Seasonkey1_des	rogue3.Seasonkey1_use				1520072	5	4,1,23,1
+32	ROGUE3SEASONKEY2	悖论迷宫赛季钥匙2	rogue3.Seasonkey2	rogue3.Seasonkey2_des	rogue3.Seasonkey1_use				1520073	5	4,1,23,2
+33	ROGUE3SEASONKEY3	悖论迷宫赛季钥匙3	rogue3.Seasonkey3	rogue3.Seasonkey3_des	rogue3.Seasonkey1_use				1520074	5	4,1,23,3
+34	ROGUE3SEASONKEY4	悖论迷宫赛季钥匙4	rogue3.Seasonkey4	rogue3.Seasonkey4_des	rogue3.Seasonkey1_use				1520075	5	4,1,23,4
+35	ROGUE3SEASONKEY5	悖论迷宫赛季钥匙5	rogue3.Seasonkey5	rogue3.Seasonkey5_des	rogue3.Seasonkey1_use				1520076	5	4,1,23,5
+36	ROGUE3SEASONKEY6	悖论迷宫赛季钥匙6	rogue3.Seasonkey6	rogue3.Seasonkey6_des	rogue3.Seasonkey1_use				1520077	5	4,1,23,6
+37	ROGUE3SEASONKEY7	悖论迷宫赛季钥匙7	rogue3.Seasonkey7	rogue3.Seasonkey7_des	rogue3.Seasonkey1_use				1520078	5	4,1,23,7
+38	VIRCAPTUREBAIT1	新星开拓-万能鱼饵（dlc9）	supplies.vircapture.bait1	supplies.vircapture.bait1_des	supplies.vircapture.bait1_use				1521007	4	4,1,6,9
+39	VIRCAPTUREBAIT2	新星开拓-高级鱼饵（dlc9）	supplies.vircapture.bait2	supplies.vircapture.bait1_des	supplies.vircapture.bait1_use				1521007	5	4,1,6,10
+40	ROGUE3SEASONKEY8	悖论迷宫赛季万能钥匙	rogue3.SeasonMasterkey	rogue3.SeasonMasterkey_des	rogue3.SeasonMasterkey_use				1520079	5	4,1,23,8
+41	BAGROGUECOIN1	古代遗物	bagrogue.CoinName1	bagrogue.CoinName1_des	bagrogue.CoinName1_use				1522002	5	4,1,25,1
+42	BAGROGUECOIN2	生命之水	bagrogue.CoinName2	bagrogue.CoinName2_des	bagrogue.CoinName2_use				1522003	5	4,1,25,2
+43	VIRCAPTURENORMALBAIT1	普通鱼饵	supplies.vircapture.normalbait1	supplies.vircapture.normalbait1					1520201	3	4,1,6,40
+44	VIRCAPTURENORMALBAIT2	豪华鱼饵	supplies.vircapture.normalbait2	supplies.vircapture.normalbait2					1520202	4	4,1,6,41
+45	VIRCAPTURENORMALBAIT3	至尊鱼饵	supplies.vircapture.normalbait3	supplies.vircapture.normalbait3					1520203	5	4,1,6,42
+46	VIRCAPTUREMATCHBAIT1	重量级鱼类虫饵	supplies.vircapture.matchbait1	supplies.vircapture.matchbait1					1520204	5	4,1,6,43
+47	VIRCAPTUREMATCHBAIT2	巨型鱼类虫饵	supplies.vircapture.matchbait2	supplies.vircapture.matchbait2					1520205	5	4,1,6,44
+48	VIRCAPTUREMATCHBAIT3	重量级鱼类夜钓虫饵	supplies.vircapture.matchbait3	supplies.vircapture.matchbait3					1520206	5	4,1,6,45
+49	VIRCAPTUREMATCHBAIT4	巨型鱼类夜钓虫饵	supplies.vircapture.matchbait4	supplies.vircapture.matchbait4					1520207	5	4,1,6,46
+50	ROGUE3SEASONKEY9	悖论迷宫积分挑战模式增益解锁货币	rogue3.coin_ScoreModel	rogue3.coin_ScoreModel_des	rogue3.coin_ScoreModel_use				1520104	5	4,1,23,9
+51	BAGROGUECOIN3	背包肉鸽钥匙	bagrogue.CoinName3	bagrogue.CoinName3_des	bagrogue.CoinName3_use				1522007	5	4,1,25,3
+52	DREAMCARDCOIN	纷愿绮梦天赋点	dreamcard.coin_dreamtalent	dreamcard.coin_dreamtalent_des	dreamcard.coin_dreamtalent_use				1523001	5	
+53	AlienCash	异星功勋	aliendefence.Alien_CoinDes01	aliendefence.Alien_CoinDes01_des	aliendefence.Alien_CoinDes01_use				1524001	5	4,1,26,1
+54	PVZSKILLPOINT	爆爆菜园技能点	farmwar.farmwar_skillpoint	farmwar.farmwar_skillpoint_des	farmwar.farmwar_skillpoint_use				1525001	4	4,1,28,1
+55	VIRCAPTURNEWSTARCOIN1	新星开拓建造货币	supplies.vircapture.newstarcoin1	supplies.vircapture.newstarcoin1_des	supplies.vircapture.newstarcoin1_use		999999999		1520311	1	4,1,6,14
+56	RICHMANCASH	复刻捞金派对货币	supplies.dlc3RichManFomer	supplies.dlc3RichManFomer_des	supplies.dlc3RichManFomer_use				1522009	5	
+57	ONLINESEAMODCASH	激浪联航模组代币	onlinesea.ModCash	onlinesea.ModCashDescription	onlinesea.ModCash_use				1526001	5	4,1,29,1
+58	JigsawPuzzleCASH	适格启忆录钥匙	jigsawpuzzle.jigsawpuzzle_item3	jigsawpuzzle.jigsawpuzzle_item3_des	jigsawpuzzle.jigsawpuzzle_item3_use				1543022	4	4,1,33,1
+59	OnlineSpeedSocreCoin1	增幅芯核	online.SpeedSocreCoinName1	online.SpeedSocreCoinName1_des	online.SpeedSocreCoinName1_use				1521011	5	4,1,34,1
+60	OnlineSpeedSocreCoin2	挑战芯核	online.SpeedSocreCoinName2	online.SpeedSocreCoinName2_des	online.SpeedSocreCoinName2_use				1521012	5	4,1,34,2
+61	STARWISHCOIN1	星祈心愿活动代币	starwish.CoinName1	starwish.CoinName1_des	starwish.CoinName1_use				1522014	5	4,1,36,1
+62	ASSAULTOPSCASH	进击行动商电代币	assaultops.ShopCash	assaultops.ShopCash_des	assaultops.ShopCash_use	ui.TxtAssaultopsShopCoinless			1526003	5	4,1,40,1
+63	DONODUELCASH1	毛球币（多诺巅峰对决）	supplies.donoduel_cash1	supplies.donoduel_cash1_des	supplies.donoduel_cash1_use				1520315	5	4,1,6,18
+64	ArmoredRiderCash	装甲战骑货币	armoredrider.CoinDes01	armoredrider.CoinDes01_des	armoredrider.CoinDes01_use				1527001	5	
+65	ArmoredRiderSeasonCash	装甲战骑赛季货币	armoredrider.CoinDes02	armoredrider.CoinDes02_des	armoredrider.CoinDes02_use				1527002	5	
+66	ArmoredRiderShopCash	装甲战骑商店货币	armoredrider.CoinDes03	armoredrider.CoinDes03_des	armoredrider.CoinDes03_use				1527003	5	
+67	ONLINECASH	超元链接商店代币	supplies.OnlineCash	supplies.OnlineCash_des	supplies.OnlineCash_use				1600022	5	4,1,46,1

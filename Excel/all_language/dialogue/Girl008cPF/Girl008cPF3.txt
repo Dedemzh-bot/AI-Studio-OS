@@ -1,0 +1,145 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	空旷幽深的场馆里，只有我和芬妮的脚步声在回荡。	空曠幽深的場館裡，只有我和芬妮的腳步聲在迴盪。	がらんとした展示館には、私とファニーの足音だけが響いていた。	공허하고 깊은 전시관 안에서, 오직 나와 페니의 발소리만 울려 퍼졌다.	In the vast, echoing hall, there was only the sound of our footsteps.						0	3.2版本芬妮个人故事
+2	偶尔驻足，或迟疑地拐过转角，向着光亮的源头走去。	偶爾駐足，或遲疑地拐過轉角，走向光亮的源頭。	注意深く神経を張り巡らせながら、私たちは館内の奥の方へと進んでいった。	이따금 멈춰 서거나, 머뭇거리며 모퉁이를 돌면서 빛의 근원지를 향해 걸어갔다.	Now and then we paused, or hesitated before rounding a corner, heading toward the source of the light.						0	
+3	雨已经停了，阳光透过穹顶，在恒温恒湿的场馆中映出一道隐约的霁虹。	雨已經停了，陽光透過穹頂，在恆溫恆濕的場館中映出一道隱約的霽虹。	雨はもう止んでいた。ドーム状の天井から差し込んだ日差しが、温度と湿度が一定に保たれた館内にうっすらと虹を浮かび上がらせた。	비는 이미 그쳤고, 돔 천장을 통해 들어온 햇빛이 온도와 습도가 일정한 전시관 안에서 은은한 무지개를 만들어냈다.	The rain had stopped. Sunlight streamed through the dome, painting a faint rainbow in the climate-controlled hall.						0	
+4	起初，只看见一只毛茸茸的爪。	起初，只看見一隻毛茸茸的爪。	最初に目に入ったのは、ふわふわの前足だった。	처음에는 어느 복슬복슬한 발만 보였다.	At first, we only saw a furry paw.						0	
+5	大部分属于“它”的身体都隐没在了漆黑的山洞中。	大部分屬於「它」的身體都隱沒在了漆黑的山洞中。	その体の大部分は真っ暗な洞窟の中にあって、はっきり見えない。	 '녀석'의 몸체는 칠흑같이 어두운 산 동굴 속에 거의 파묻혀 있었다.	Most of its body was hidden in a pitch-black cave.						0	
+6	也许是察觉到陌生生物的靠近，那只露在外面的爪舒展了一下。	也許是察覺到陌生生物的靠近，那隻露在外面的爪舒展了一下。	近づく私たちの気配を感じたのか、前足をだるそうに洞窟の外へ伸ばした。	낯선 생물이 다가오는 걸 느꼈는지, 밖으로 드러난 발이 살짝 움직였다.	Perhaps sensing unfamiliar presences approaching, the paw stretched slightly.						0	
+7	锋利又漂亮的爪尖一闪而过，随即收回，山洞里的黑影慢悠悠地踱步出来。	鋒利又漂亮的爪尖一閃而過，隨即收回，山洞裡的黑影慢悠悠地踱步出來。	鋭く美しい爪を立て、一瞬だけ光を反射したあとまた引っ込む。そして、洞窟の奥から影がのそのそと姿を現した。	날카롭고도 예쁜 발톱 끝이 순간 반짝이더니 다시 들어가 버렸고, 산 동굴 속에서 검은 그림자가 천천히 걸어 나왔다.	Sharp, elegant claws glinted and vanished. From the cave, a shadow emerged, slow, deliberate, and perfectly calm.						0	
+8	随着阳光倾泻，终于显露出那一身闪耀的金色毛发。	隨著陽光傾瀉，終於露出那一身閃耀的金色毛髮。	陽の光に輝く、金色の毛並みだった。	햇빛이 쏟아지고, 마침내 그 반짝이는 금빛 털이 드러났다.	As the sunlight poured over it, golden fur blazed into view.						0	
+9	那是一头雌狮。	那是一頭雌獅。	メスのライオンだった。	암사자였다.	It was a lioness.						0	
+10	哈……	哈……	はぁ……	하…	Heh...						0	
+11	我听见芬妮倒吸了一口气。	我聽見芬妮倒吸了一口氣。	ファニーがはっと息を呑んだ。	페니가 숨을 들이마시는 소리가 들렸다.	I heard Fenny draw in a sharp breath.						0	
+12	这难道是……	這難道是……	えっ、これって……	이건 설마…	This is...						0	
+13	狮、狮子？	獅、獅子？	ラ、ライオン？	사, 사자?	A—A lioness!?						0	
+14	芬妮的脸有些涨红，语言组织似乎有点跟不上眼前突增的信息量。	芬妮的臉有些漲紅，語言組織似乎有點跟不上眼前突增的資訊量。	ファニーは顔を少し赤くして、急に目にした光景に言葉が出てこないようだった。	페니는 얼굴이 약간 상기됐고, 갑작스럽게 등장한 눈앞의 존재에 말을 잇지 못했다.	Fenny's face flushed slightly. The sudden flood of information seemed to have left her speechless.						0	
+15	她语气中的震撼甚至盖过了疑问的语调，使这句话听起来更像是某种感叹。	她語氣中的震撼甚至蓋過了疑問的語調，讓這句話聽起來更像是某種感嘆。	その声は疑問というより感嘆のように聞こえた。	그녀는 너무 충격받은 나머지, 의문이 아닌 일종의 감탄사 같은 어조로 외쳤다.	The shock in her voice even overwhelmed the questioning tone, making it sound more like an exclamation.						0	
+16	隔着隐形的防护屏障，那狮子先走向一处雾气蒸腾的清泉石台，秀气地啜饮了几口。	隔著隱形的防護屏障，那獅子先走向一處霧氣蒸騰的清泉石台，秀氣地啜飲了幾口。	ガラスの向こうで、ライオンは霧が立ちのぼる泉のほとりへ闊歩していき、静かに水を飲んだ。	투명 방호벽 너머로, 그 사자는 안개가 자욱한 샘물이 있는 돌단으로 걸어가 우아하게 목을 축였다.	Separated from us by an invisible barrier, the lioness walked to a stone platform with a misty spring and took a few delicate sips.						0	
+17	而后迈开四足，从我们面前经过，巡视着它的领地。	而後邁開四足，從我們面前經過，巡視著它的領地。	その後ゆっくりと歩き出し、私たちの前を通りながら、自分の縄張りを見回った。	그리고 발을 내디뎌 우리 앞을 지나가며, 자기 영역을 순찰했다.	Then she padded past us, patrolling her territory.						0	
+18	漫不经心甩甩尾巴，留下尾尖上一抹嫣红的残影。	漫不經心甩甩尾巴，留下尾尖上一抹嫣紅的殘影。	気楽そうに振っている尻尾は、空気中に炎の色の残像を残した。	무심하게 흔드는 꼬리 끝에는 붉은 잔영이 선명하게 보였다.	With an idle flick of her tail, she left a faint, crimson streak in the air.						0	
+19	倘若借用那些资料片中的描述，此刻站在我们面前的应该是——	倘若借用那些資料片中的描述，此刻站在我們面前的應該是──	ドキュメンタリーの表現を借りるなら、今ここに姿を現しているのは——	여러 다큐멘터리에서 묘사한 대로라면, 지금 우리 앞에 서 있는 것은 아마…	Like they said in those documentaries, what stood before us was—						0	
+20	被称为“百兽之王”、狩猎能力卓越、现实中基本无处得见的大型猛兽，狮子。	被稱為「百獸之王」、狩獵能力卓越、現實中基本上無處得見的大型猛獸，獅子。	「百獣の王」と呼ばれ、比類のない狩猟能力を持ち、現実では滅多に目にすることのない大型猛獣、ライオンだ。	 '동물의 왕'이라 불리며 뛰어난 사냥 능력을 지녔고, 현실에서는 거의 볼 수 없는 대형 맹수, 사자가 틀림없다.	A beast that ruled all beasts, an excellent hunter, and a large predator rarely seen in the outside world: a lioness.						0	
+21	然而……	然而……	しかし……	그러나…	However...						0	
+22	等一下，先、先不管这里为什么会有狮子。	等一下，先、先不管這裡為什麼會有獅子。	待って、なんでここにライオンがいるのかは置いといて、	잠깐, 이, 일단 여기에 왜 사자가 있는지는 제쳐두고.	Wait a minute, I'm not even going to ask why there's a lioness here.						0	
+23	真正的狮子原来是长这个样子的吗？！这不太对吧！	真正的獅子原來是長這個樣子的嗎？！這不太對吧！	本物のライオンって……こんな姿だったの！？なんかおかしくない！？	진짜 사자가 원래 이렇게 생겼던가?! 뭔가 이상한데!	Is this what a real lioness looks like!? This can't be right!						0	
+24	……然而，此刻真实地出现在我们眼前的，分明是一只体型娇小、胖嘟圆滚的生物。	……然而，此刻真實地出現在我們眼前的，分明就是一隻體型嬌小、胖嘟嘟圓滾滾的生物。	……今目の前にいるのは、小さくて丸い、ぽてっとした可愛い見た目の生き物だった。	… 그러나 지금 우리 눈앞에 실제로 나타난 것은, 몸집이 작고 통통한 생물이 분명했다.	...Because what was actually in front of us was a petite, chubby creature.						0	
+25	纵使和纪录片里的“狮子”有七八分相像，但这副样子与其说威武霸气，不如说呆呆地透着一股憨萌。	縱使和紀錄片裡的「獅子」有七八分相像，但這副樣子與其說威武霸氣，不如說呆呆地透露出一股憨萌。	ドキュメンタリーで見たライオンっぽさはあるけど、威厳というより、どこかぽやんとした可愛らしさが目立っていた。	다큐멘터리에 나오는 '사자'와 어느 정도 닮았지만, 용맹하다기보다는 멍하고 귀여운 모습이었다.	Even though she looked a lot like the "lioness" from the documentaries, she carried none of their ferocity, only a dazed, dopey sort of charm.						0	
+26	肯定是哪里搞错了吧！	肯定是哪裡搞錯了吧！	絶対に何かの間違いよ！	뭔가 잘못된 게 분명해!	This has to be some kind of mistake!						0	
+27	在芬妮的想象中，狮子应该很高大、很威风，毛发像黄金一样闪耀，吼一声能震天撼地。	在芬妮的想像中，獅子應該很高大、很威風，毛髮像黃金一樣閃耀，吼一聲能震天撼地。	ファニーの想像するライオンは、もっと大きくて堂々としていて、金色のたてがみを輝かせ、吠えれば空も震えるような存在だった。	페니의 상상 속 사자는 크고 위풍당당하며, 갈기는 황금빛으로 빛나고, 포효 한 번으로 천지를 뒤흔들 수 있어야 했다.	In Fenny's imagination, a lioness should be tall and majestic, with fur shining like gold, and roars that shake the earth.						0	
+28	这倒不是因为那些有关狮子的纪录片，也不全是因为她拥有着“狮子”的外号。	這倒不是因為那些有關獅子的紀錄片，也不全是因為她擁有著「獅子」的綽號。	それは、ライオンの知識は全て映像から仕入れているためでも、彼女が「ライオン」と呼ばれているためでもない。	이건 사자에 관한 다큐멘터리 때문도 아니고, 그녀가 '사자'라는 별명을 가지고 있어서만도 아니었다.	That wasn't just because of the documentaries she'd watched, and not only because she herself carried the nickname.						0	
+29	而是因为…她最爱的达令，会用这个词来称呼她。	而是因為……她最愛的達令，會用這個詞來稱呼她。	一番の理由は——大好きなダーリンが、そう呼んでくれるからだ。	… 그녀가 가장 사랑하는 달링이 그녀를 그렇게 부르기 때문이었다.	It was because... the person she loved most in the world called her by that name.						0	
+30	能配得上用来比喻自己的动物，就该是荣耀和勇气的象征，是全世界最闪耀的存在！	能配得上用來比喻自己的動物，就該是榮耀和勇氣的象徵，是全世界最閃耀的存在！	自分にたとえるのにふさわしい動物なら、それは誇りと勇気の象徴で、世界で一番輝いている存在であるべきだ。	자신을 비유할 만한 동물이라면, 영광과 용기의 상징이자 세상에서 가장 빛나는 존재여야만 했다!	A true lioness, her very namesake, should be a symbol of honor and courage, the most magnificent of all creatures!						0	
+31	而不是眼前这个动物，虽然可爱……但与一直以来所相信的形象相去甚远。	而不是眼前這個動物，雖然可愛……但與一直以來所相信的形象相去甚遠。	しかし今目の前にいるこの動物は、確かに可愛いけれど、これまで信じてきたライオンの姿とはあまりにもかけ離れていた。	눈앞의 이 동물은 귀엽긴 하지만… 지금까지 믿어왔던 이미지와는 너무나 거리가 멀었다.	Not this creature before her... Cute, yes, but far from the image she'd always believed in.						0	
+32	哪怕没有那么完美也没关系，偏偏差得这么多……	即使沒有那麼完美也沒關係，偏偏差得這麼多……	完璧じゃなくてもいいけど、ここまで違うなんて……	완벽한 사자를 바란 건 아니었는데, 하필 이렇게나 차이가 클 줄이야…	I could live with some imperfections, but it's so far off...						0	
+33	那“黄金狮子”究竟算什么啊？	那「黃金獅子」究竟算什麼啊？	それじゃあ「ライオンハート」って、いったい何なの？	그럼 '라이언 하트'는 대체 뭐가 돼?	Then what kind of "Lionheart" does that make me?						0	
+34	……他曾经答应我，说早晚要找一头真的狮子来让我动手摸一摸。	你知道嗎，他曾經答應我，說早晚要找一頭真的獅子來讓我動手摸一摸。	……いつか本当のライオンを触らせてあげるって言ったのよ。	… 그가 약속했었지, 언젠가는 진짜 사자를 데려와서 내가 만져볼 수 있게 해주겠다고.	...He once promised me he'd find a real lion for me to touch someday.						0	
+35	说什么……只要见过了，我就会知道自己在他人眼里到底是个什么样子。还说那样就能让我更坚定自己的本心本性，从小女孩儿变成……	說什麼……只要見過了，我就會知道自己在他人眼裡到底是個什麼樣子。還說那樣就能讓我更堅定自己的本心本性，從小女孩變成……	本物に触れてみれば、自分が他人からどう見られているかを見直せるって、そしたら、女の子から、大人に……	뭐랬더라… 한번 보고 나면, 다른 사람들이 보는 내가 어떤 모습인지 알게 될 거라나. 그러면 내 본심과 본성에 대한 확신이 생기고, 그저 여자아이가 아닌…	What did he say again...? "When you see it, you'll know how others view you." He also said it would make me more determined to be my authentic self, and I'd change from a little girl into a...						0	
+36	真是胡说八道……本小姐怎么可能会在乎别人的眼光！更何况，我难道还需要从一个已经灭绝了的动物身上学到点什么吗……	真是胡說八道……本小姐怎麼可能在乎別人的眼光！更何況，我難道還需要從一個已經滅絕了的動物身上學到點什麼嗎……	まったく、ふざけたことばっかり……！あたしが人にどう思われていようが、そんなの気にするわけないでしょ！？しかも、すでに絶滅した動物から学ぶだなんて！	말도 안 되는 소리… 이 몸이 남의 시선을 의식할 리가 있겠어?! 더군다나 이런 멸종된 동물에게서 뭘 배우라는 말이야…?	It's nonsense... As if I would ever care what anyone thinks! And why would I need to learn anything from a creature that's already extinct?						0	
+37	那是气话。	那是氣話。	あれは本気じゃなかった。	홧김에 한 말이었다.	But her words were a front.						0	
+38	事实上，他将她比作“黄金狮子”，会用“小狮子”这样亲昵的称呼来唤她。	事實上，他將她比作「黃金獅子」，並會用「小獅子」這樣親暱的稱呼來她。	事実、彼が彼女を「ライオンハート」にたとえ、親しげに「ライオンちゃん」と呼んだ。	사실 그가 그녀를 '라이언 하트'에 비유하고, '리틀 라이언'이라는 애칭으로 불러 주었다.	The truth was, he had always seen her as his "Lionheart," calling her by the affectionate nickname "little lioness."						0	
+39	于是她也早已认可这个代号，甚至只要听到他这样叫自己，她就开心得不行。	於是她也早已認可這個代號，甚至只要聽到他這樣叫自己，她就開心得不行。	彼女もその名前を受け入れていて、呼ばれるたびに嬉しくなった。	그래서 그녀도 이미 이 별명을 받아들였고, 심지어는 그가 그렇게 불러줄 때마다 너무나 행복했다.	And she had not only accepted the title, she cherished it. Just hearing him say it was enough to make her feel overjoyed.						0	
+40	算什么呢……还有一直以“狮子”自居的我……	算什麼呢……還有一直以「獅子」自居的我……	何だったの……ずっと「ライオン」とアイデンティティーを大事にしてきたのに……	이게 뭐야… 게다가 난 '사자'라는 호칭에 계속 자부심을 가졌는데…	Then what does that make me? Someone who's been proud to call herself a lioness all this time...						0	
+41	芬妮的声音渐渐低下去。	芬妮的聲音漸漸低下去。	ファニーの声はだんだん小さくなっていった。	페니의 목소리가 점점 작아졌다.	Fenny's voice trailed off.						0	
+42	摸摸芬妮的头。	摸摸芬妮的頭。	ファニーの頭を撫でる。	페니의 머리를 쓰다듬는다.	Pat Fenny's head						0	
+43	芬妮就是芬妮。	芬妮就是芬妮。	ファニーはファニーだ。	페니는 페니야.	You're just you, Fenny.						0	
+44	“黄金狮子”的象征与意义，并不会因为任何事情而改变。	「黃金獅子」的象徵與意義，並不會因為任何事情而改變。	「ライオンハート」の象徴と意味は、何があっても変わることはない。	 '라이언 하트'의 상징과 의미는, 무슨 일이 있어도 변하지 않아.	The meaning of Lionheart won't change because of anything.						0	
+45	芬妮怔怔地抬起头看向我，眼睛里似乎有什么重新开始悸动。	芬妮怔怔地抬起頭看向我，眼睛裡似乎有什麼重新開始悸動。	ファニーははっと顔を上げた。その瞳にときめきが揺れていた。	페니는 멍하니 고개를 들어 나를 바라보았고, 그녀의 눈동자에서 무언가가 다시 움직이는 것 같았다.	Fenny lifted her head to look at me, dazed, as if something had started to stir awake again in her eyes.						0	
+46	可……达令还记得吗？很久以前你对我说过……	可……達令還記得嗎？很久以前你對我說過……	ダーリン、覚えてる？ずっと前に、あたしに言ってくれたこと……	그런데… 달링은 기억해? 아주 오래전에 나한테 했던 말인데…	But... Darling, do you remember? A long time ago, you told me...						0	
+47	只要见过了真正的狮子，我就会知道自己在他人眼里到底是什么样，我会更坚定……	只要見過了真正的獅子，我就會知道自己在他人眼裡到底是什麼樣，我會更堅定……	本物のライオンに触れてみれば、自分が他人からどう見られているかを見直せるって……	진짜 사자를 한번 보고 나면, 다른 사람들이 보는 내가 어떤 모습인지 알게 될 거라고, 그러면 나에게 확신이 생길 거라고…	You said when I saw it, I'd know how others saw me, and that it would make me more determined...						0	
+48	哼，那时候你还说我是小女孩儿来着……	哼，那時候你還說我是小女孩來著……	ふん、その時ダーリン、あたしのこと「女の子」って呼んでたわよね……	흥, 그때는 날 여자아이라고 했었는데…	Hmph, you called me a little girl back then...						0	
+49	久远的记忆珍藏至今，再度提起，当初的一丝别扭竟酿出了淡淡的甜味。	久遠的記憶珍藏至今，再度提起，當初的一絲彆扭竟釀出了淡淡的甜味。	胸の奥にしまっていた思い出をもう一度口にしたら、あの時の気恥ずかしさがほのかな嬉しさに変わっていた。	오랫동안 소중히 간직해온 기억을 다시 꺼내 보니, 그 당시 약간의 어색함이 이제는 달콤하게 변해있었다.	Bringing up that cherished, distant memory, the awkwardness from back then had ripened into a gentle sweetness.						0	
+50	是啊，从那时算起，到现在已经过去很久了。	是啊，從那時算起，到現在已經過去很久了。	そうだね、あれから随分と時間が経ったな。	그래, 그때부터 지금까지 정말 오랜 시간이 흘렀네.	Yeah, it's been a long time since then.						0	
+b-2											0	
+51	拉起芬妮的手。	拉起芬妮的手。	ファニーの手を取る。	페니의 손을 잡는다.	Take Fenny's hand						0	
+b-3											0	
+52	吻住她的无名指指尖。	吻住她的無名指指尖。	そして薬指の先に口づけを落とす。	그녀의 약지 끝에 입 맞춘다.	Kiss the tip of her ring finger						0	
+53	当初那个小女孩儿早已蜕变成现在自信又强大的芬妮了，不是吗？	當初那個小女孩早已蛻變成現在自信又強大的芬妮了，不是嗎？	あの頃の女の子は、自信に満ちた強いファニーに変わっただろう？	그때 그 여자아이는 지금의 자신감 넘치고 강인한 페니로 성장했어. 그렇지?	That little girl has grown into the confident, powerful Fenny before me, hasn't she?						0	
+54	芬妮眼睛睁大，一眨不眨地看着我。	芬妮眼睛睜大，一眨不眨地看著我。	ファニーは大きな瞳で、私をじっと見つめていた。	페니는 눈을 크게 뜨고 나를 빤히 바라보았다.	Fenny's eyes widened as she stared at me without blinking.						0	
+55	当我们看到影像资料中的狮子，那只是一个画面，一个隔着屏幕的动物。	當我們看到影像資料中的獅子，那只是一個畫面，一個隔著螢幕的動物。	映像資料で見たライオンは、ただの画面の中の存在で、スクリーン越しに見る動物にすぎない。	우리가 영상 자료에서 본 사자는 그저 하나의 화면이었고, 화면 너머의 동물이었을 뿐이야.	When we saw the lionesses in documentaries, they were only animals behind the screen.						0	
+56	所有的投射，其实只来源于内心对某个品质的想象与渴望。	所有的投射，其實只是來自於內心對某個品質的想像與渴望。	そこに重ねていたのは、心の奥で思い描き、憧れていた資質だったんだ。	모든 투영은 사실 마음속 어떤 자질에 대한 상상과 갈망에서 비롯된 거지.	The meaning we give them... that doesn't come from them. It comes from us.						0	
+57	而那个想象与渴望的寄托之处。	而那個想像與渴望的寄託之處。	そして、その想像と憧れを託す場所。	그리고 그 상상과 갈망이 깃든 곳이라면.	From something we imagine, something we yearn.						0	
+58	对我来说，是你，芬妮。	對我來說，就是你，芬妮。	私にとって、それは君なんだ、ファニー。	나한테는 그게 바로 너야, 페니.	For me, that's you, Fenny.						0	
+59	是在战斗中倔强又骄傲的你。	是在戰鬥中倔強又驕傲的你。	戦いの中の、誇り高い君。	전투에서 고집스럽고도 자랑스러운 너.	The you who fights with pride and stubbornness.						0	
+60	是在我身边自信又闪耀的你。	是在我身邊自信又閃耀的你。	そばで自信に満ちて輝いている君。	내 곁에서 자신감 넘치고 빛나는 너.	The you who stands beside me, confident and radiant.						0	
+61	是在平凡幸福的日子里，也会偶尔有纠结、有困惑的你。	是在平凡幸福的日子裡，也會偶爾有糾結、有困惑的你。	平凡で幸せな日々の中で、ときどき迷ったり悩んだりする君。	평범하고 행복한 나날 속에서도, 가끔은 고민하고 혼란스러워하는 너.	The you who still sometimes wrestles with doubts and confusion, even in our quiet, happy days.						0	
+62	你的表现、你的蜕变，还有你为我的付出，一点一滴都是我亲眼所见。	你的表現、你的蛻變，還有你為我的付出，一點一滴都是我親眼所見。	君の振る舞いも、変化も、そして私のためにしてくれたことも、その一つひとつをちゃんと見届けてきた。	너의 행동, 너의 변화, 그리고 날 위해 쏟아부은 모든 것도, 내가 직접 봐 왔잖아.	Everything you've accomplished, your growth, and what you've done for me — I've seen it all with my own eyes.						0	
+63	芬妮所做的一切，不会因为区区一头狮子就被否定。	芬妮所做的一切，不會因為區區一頭獅子就被否定。	ファニーが積み重ねてきたものが、一頭のライオンで否定されるはずがない。	페니가 해 온 모든 것은, 겨우 한 마리의 사자 때문에 부정될 수 없어.	Nothing can take away all that, especially not one lone lioness.						0	
+64	反倒在我眼里，是芬妮在给“狮子”这个名词赋予新的荣耀。	反倒在我眼裡，是芬妮在給「獅子」這個名詞給新的榮耀。	私には、ファニーが「ライオン」という言葉に新たな誇りを吹き込んでいるように思えた。	오히려 내가 볼 땐 페니가 '사자'라는 단어에 새로운 영광을 주고 있는데?	If anything, you're the one giving the word "lioness" a new kind of honor.						0	
+65	这才是我所喜欢的芬妮……	這才是我所喜歡的芬妮……	それが私の大好きなファニーなんだ……	이런 게 바로 내가 좋아하는 페니의 모습이야…	And that's exactly the Fenny I love—						0	
+66	不等我说完，嘴唇已被柔软的触感堵住。	不等我說完，嘴唇已被柔軟的觸感堵住。	言い終わる前に、唇はふわりとした感触でふさがれた。	말을 채 마치기도 전에, 부드러운 감촉이 내 입술을 포갰다.	Before I could finish, my lips were sealed by softer ones.						0	
+67	芬妮紧紧环住我的腰，像是要把整个人都埋进我的怀抱里。	芬妮緊緊環住我的腰，像是要把整個人埋進我的懷抱裡。	ファニーは私の腰にしがみつき、そのまま全身を預けてきた。	페니는 마치 온몸을 내 품에 묻고 싶은 듯 내 허리를 꽉 껴안았다.	Fenny wrapped her arms tightly around my waist, as if she wanted to bury herself completely in my embrace.						0	
+68	周身被她散发的香甜包裹，嘴角却尝到浅浅的咸。	周身被她散發的香甜包裹，但嘴角卻嚐到淺淺的鹹。	甘い香りに包まれる中、唇にはかすかに塩気の混ざった味が伝わった。	온몸이 그녀가 풍기는 달콤한 향기에 휩싸였지만, 입가에는 살짝 짭짤한 맛이 느껴졌다.	Her sweet scent enveloped me, yet I could taste a faint hint of saltiness.						0	
+69	过了好一会儿，芬妮才终于松开搂着我的双臂。	過了好一會兒，芬妮才終於鬆開摟著我的雙臂。	しばらくして、ようやくファニーは腕をほどいた。	한참이 지나서야 페니는 마침내 나를 감싸안은 팔을 풀었다.	After quite a while, Fenny finally loosened her arms.						0	
+70	少女浓密的睫毛上还沾着点点泪珠，眼眸中的失落却已经一扫而空，恢复了往日骄傲的样子。	少女濃密的睫毛上還沾著點點淚珠，眼眸中的失落卻已經一掃而空，恢復了往日驕傲的樣子。	長いまつ毛には雫が残っていたが、その瞳には失望の色が消え、いつもの誇らしげな輝きが戻っていた。	소녀의 짙은 속눈썹에는 아직 눈물방울이 맺혀있었지만, 슬픈 눈빛은 말끔하게 사라지고 평소의 당당한 모습을 되찾았다.	There were still tiny teardrops clinging to her thick lashes, but the disappointment in her eyes was completely gone, replaced by her usual pride.						0	
+71	达令，我想在这里留下一张照片。	達令，我想在這裡留下一張照片。	ダーリン、ここで写真を撮って残しておきたいわね。	달링, 여기서 사진 한 장 찍을래.	Darling, I want to take a photo here.						0	
+72	哦？想和这只胖嘟嘟的狮子合影吗？我来帮你拍。	哦？想跟這隻胖嘟嘟的獅子合照嗎？我來幫你拍。	ん？ライオンとのツーショットか？	응? 저 통통한 사자랑 사진 찍으려고? 내가 찍어줄게.	Oh, you want one with this chubby lioness? Sure.						0	
+73	才不要啦！相机给我！	才不要啦！相機給我！	そんなんじゃない！カメラ貸して！	싫거든! 카메라 줘!	No way! Give me the camera!						0	
+74	芬妮拉着我的手找了一处不错的景致，离场馆里那头“狮子”远得很。	芬妮拉著我的手找了一個不錯的景色，離場館裡那頭「獅子」遠得很。	ファニーは私の手を引いて、展示館の中のライオンから離れた、景色のいい場所に連れていった。	페니는 내 손을 잡고 전시관의 '사자'와 멀리 떨어진 좋은 장소를 찾았다.	Fenny took my hand and found a nice spot, far away from the lioness.						0	
+75	她将相机转了个个儿，用镜头的那一面对准她和我。	她將相機轉了個方向，用鏡頭的那一面對準她和我。	彼女はカメラをくるりと回し、私たちの方に向けた。	그녀는 렌즈가 우리를 향하도록 카메라를 뒤집었다.	She flipped the camera around, pointing the lens at us.						0	
+76	两个脑袋凑在一起，影子倒映在镜头中，圆圆的脑袋将镜头装得满当当。	兩個腦袋湊在一起，影子倒映在鏡頭中，圓圓的腦袋將鏡頭塞得滿滿的。	二人のくっつけた顔がレンズに映り、画面いっぱいに広がっていた。	서로 머리를 맞대니 그림자가 렌즈에 비쳤고, 동그란 머리가 렌즈를 가득 채웠다.	Our heads leaned together, our silhouettes filling the frame completely.						0	
+77	达令，你再靠过来点嘛~	達令，你再靠過來點嘛~	ダーリン、もう少し近づいて〜	달링, 좀 더 가까이 와 줘~	Come a little closer, darling~						0	
+78	好，这样？	哦，這樣……	こう？	응, 이렇게?	Okay, like this?						0	
+79	嗯！摆好姿势了哦。	嗯！擺好姿勢了哦。	うん！バッチリ。	응! 포즈 딱 좋아.	Yeah! Hold the pose.						0	
+80	三、二、一！	三、二、一！	さん、にー、いち！	셋, 둘, 하나!	Three... two... one!						0	
+81	啾。	啾~	ちゅっ。	쪽.	Mwah~						0	
+82	咔哒。	咔噠	パシャ。	찰칵.	Click.						0	
+83	按下快门的前一刻，芬妮扭头。	按下快門的前一刻，芬妮扭頭。	シャッターを切ろうとした時に、ファニーがふいに顔を私のほうに向けた。	셔터를 누르는 순간, 페니가 고개를 돌렸다.	Right before pressing the shutter, Fenny turned her head.						0	
+84	画面定格，甜甜的一个吻，落在我的侧脸上。	畫面定格，甜甜的一個吻，落在我的側臉上。	画面に映っていたのは、私の顔にキスが落とされようとした一瞬だった。	화면이 멈추고, 달콤한 키스가 내 얼굴에 닿았다.	The frame froze as a sweet kiss landed on my cheek.						0	
+85	此行结束后不久，吉诺拉公司的代表主动登门赔礼道歉，并解释清楚了这天奇遇的原委。	此行結束後不久，吉諾拉公司的代表主動登門賠禮道歉，並解釋清楚了這天奇遇的原委。	この一件のあと、ディノーラ社の担当者が謝罪に訪れ、この日の奇妙な出来事のいきさつを説明してくれた。	여행이 끝난 직후, 제노라의 대표가 직접 찾아와 사과하며 그날의 기이한 만남에 대해 설명했다.	Not long after this trip, a representative from Genoura Biotech visited to apologize and explain our strange encounter.						0	
+86	在众多物种都濒临灭绝的时代，确实有不少公司曾试图改变这一趋势。	在眾多物種都瀕臨滅絕的時代，確實有不少公司曾試圖改變這股趨勢。	多くの種が絶滅の危機に瀕している時代に、その流れを変えようと奮起した企業は少なからず存在した。	수많은 종이 멸종 위기에 처한 시대에, 실제로 많은 회사가 이런 추세를 바꾸려는 시도를 했었다.	In an era where so many species teetered on the brink of extinction, many companies had tried to reverse the trend.						0	
+87	结果自然是失败。而那些公司的命运，也随着被吉诺拉生物公司收购而画上了句号。	結果自然是失敗。而那些公司的命運，也隨著被吉諾拉生物公司收購而畫上了句點。	しかし結果は失敗に終わり、それらの企業の多くはディノーラバイオ社に買収され、その命運に幕を下ろした。	결과는 당연히 실패였다. 그리고 그 회사들의 운명은 제노라 바이오에 인수되면서 막을 내렸다.	Naturally, none of them succeeded. One by one, those failing companies were acquired by Genoura Biotech.						0	
+88	吉诺拉公司仅保存了有价值的基因图谱，对于之前研究产生的活体则会饲养至寿终，且不向公众展出。	吉諾拉公司僅儲存了有價值的基因圖譜，對於先前研究產生的活體則會飼養至壽終，且不向公眾展出。	ディノーラ社は価値のある遺伝子図譜のみを保存し、研究の過程で生まれた生体は寿命を全うするまで保護しつつ、一般には公開しなかった。	제노라는 가치 있는 유전자 도감만 보존했고, 이전 연구로 만들어진 생체는 수명이 다할 때까지 사육하되 대중에게 공개하지 않기로 했다.	Genoura preserved only the valuable genetic maps, while any living specimens from prior studies were cared for to live out their natural lives without being displayed to the public.						0	
+89	没想到管理不慎，恰好被我们看到了……	沒想到管理不慎，剛好被我們看到了……	あの時は管理の不手際で、私たちの目に留まってしまった……	관리가 소홀했기에, 때마침 우리가 보게 된 것이었다…	And due to some oversight, we had happened to meet one...						0	
+90	细究起来，它应该可以视作“狮子”的近亲物种或亚种，因此我倒觉得称之为“狮子”也问题不大。	細究起來，它應該可以視為「獅子」的近親物種或亞種，因此我倒覺得稱之為「獅子」也問題不大。	厳密に言えばあれは「ライオン」の近縁種か亜種と見なすべきだが、私は「ライオン」と呼んでも差し支えないと思った。	잘 생각해 보면 '사자'의 근연종이나 아종으로 볼 수 있기에, 나는 '사자'라고 불러도 큰 문제는 없을 듯했다.	Strictly speaking, it was a close relative or subspecies of a lioness, which for me meant it was close enough.						0	
+91	不过芬妮对此表示非常、特别，以及极其强烈的反对。	不過芬妮對此表示非常、特別，以及極為強烈的反對。	しかしファニーはそれに対して、非常に、極めて強く反対した。	하지만 페니는 이에 대해 매우, 유난히, 극도로 강하게 반대를 표명했다.	Fenny, however, was extremely opposed to that.						0	
+92	当然，这都是后话了。	當然，這都是後話了。	もっとも、それはまた別の話だ。	물론, 이건 다 나중 이야기지만.	But that's getting ahead of the story.						0	
+93	行李还没收拾好吗？	行李還沒收拾好嗎？	荷物はもうまとまったか。	짐 정리는 아직 다 못 했어?	Are you still packing?						0	
+94	芬妮从衣裙堆里探出头来。	芬妮從衣裙堆探出頭來。	服の山からファニーが顔をのぞかせた。	페니가 옷가지 더미에서 고개를 빼꼼 내밀었다.	Fenny poked her head out from a pile of outfits.						0	
+95	当然啦！和达令约会，我就是忍不住要把所有衣服都拿出来挑一遍嘛！	當然啦！和達令約會，我就是忍不住把所有衣服拿出來挑一遍嘛！	全然！ダーリンとのデートだから、服をぜんぶ引っぱり出して、ひとつひとつ選びたくなるの！	당연하지! 달링이랑 데이트할 때는 꼭 모든 옷을 꺼내서 꼼꼼하게 골라야 한다고!	Of course I am! I had to make sure I looked perfect for our date, darling. That meant trying on... well, everything.						0	
+96	说起来这也是达令导致的，应该是达令帮我整理行李才对。	說起來這也是達令導致的，應該是達令幫我整理行李才對。	これってダーリンのせいなんだから、荷造り手伝ってよね！	어찌 보면 이것도 달링 때문이니까, 달링이 짐 정리를 도와줘야 해.	Come to think of it, that makes you responsible. You should be helping me pack.						0	
+97	好吧，没问题。	好吧，沒問題。	わかった。	그래, 알았어.	Sure, no problem.						0	
+98	我低头，迎着芬妮踮起脚尖凑近的脸庞，深深地亲吻下去。	我低頭，迎著芬妮踮起腳尖湊近的臉龐，深深地親吻下去。	私はうつむき、背伸びして顔を近づけてきたファニーを受けとめ、深くキスをした。	까치발을 들고 다가오는 페니의 얼굴에, 나는 고개 숙여 깊은 키스를 해 주었다.	I lowered my head, meeting Fenny's face as she rose on tiptoe, and kissed her deeply.						0	
+99	先不说行李了，来看看我带来了什么。	先不說行李了，來看看我帶來了什麼。	荷物のことはあとにして、これを見てくれ。	짐 얘기는 나중에 다시 하고, 내가 뭘 가져왔는지 봐봐.	The luggage can wait. Take a look at what I brought.						0	
+100	我将一个有些厚度的信封递到怀中芬妮的眼前。	我將一個有些厚度的信封遞到懷中芬妮的眼前。	私は厚みのある封筒をファニーに差し出した。	나는 내 품에 안긴 페니에게 꽤 두툼한 봉투 하나를 내밀었다.	I held a thick envelope for Fenny, who was nestled in my arms.						0	
+101	这是……	這是……	これは……	이건…	These are...						0	
+102	这是我们约会时拍的照片！	這是我們約會時拍的照片！	デートの時に撮った写真！	우리가 데이트할 때 찍은 사진이네!	The photos from our date!						0	
+103	芬妮一张一张翻看着约会时的照片，有娇俏的摆拍，也有她小小出糗时我的抓拍。	芬妮一張一張翻看著約會時的照片，有嬌俏的擺拍，也有她小小出糗時我的抓拍。	ファニーは一枚ずつ写真をめくりながら眺める。ポーズを決めた写真もあれば、ちょっとしたドジの瞬間を記録したものもある。	페니는 데이트 때 찍은 사진들을 하나씩 넘겨보았다. 귀여운 포즈를 취한 사진도 있고, 살짝 웃긴 모습이 담긴 내 순간 포착도 있었다.	Fenny flipped through them one by one — some were playful poses, some candid shots of her little slip-ups that I had caught.						0	
+104	当然更多的，还是我们二人的合影。	當然更多的，還是我們兩人的合照。	もちろん一番多いのは、私たちのツーショットだ。	물론, 우리 둘이 함께 찍은 사진이 가장 많았다.	Of course, most of them were the two of us together.						0	
+105	我们以各种角度，各种姿势，出现在同一张照片里。	我們以各種角度，各種姿勢，出現在同一張照片裡。	角度もポーズもさまざまだが、私たちは写真の中で一緒に写っている。	우리는 다양한 각도와 각종 포즈로, 한 장의 사진 속에 담겼다.	From all kinds of angles, in all kinds of poses.						0	
+106	等回到基地，我要找一个漂亮的相册，把属于我们的照片全都放进去。	等回到基地，我要找一個漂亮的相簿，把屬於我們的照片全都放進去。	会社に戻ったらアルバムを用意して、ここの写真を一枚残らず、すべて保管しましょう。	숙소로 돌아가면, 예쁜 앨범을 하나 구해서 우리의 사진을 전부 넣을 거야.	When we get back to the Base, I'm going to find a pretty album and put all these in.						0	
+107	那一个相册肯定不够放的，以前和以后，我们有那么多在一起的时候，都被好好记录下来了。	那一個相簿肯定不夠放的，以前和以後，我們有那麼多在一起的時候，都被好好記錄下來了。	きっと一冊じゃ足りないな。これまでも、これからも、一緒に過ごした全ての瞬間を大切に残していきたい。	앨범 하나로는 분명 부족할 거야. 예전에도, 앞으로도, 우리가 함께한 수많은 순간이 모두 잘 기록되어 있으니까.	One album definitely won't be enough. We've spent so much time together and will spend so much more.						0	
+108	那就找很多很多漂亮的相册，实体的，虚拟的……	那就找很多很多漂亮的相簿，實體的，虛擬的……	だったら、たくさん用意したらいいわ。紙のも、デジタルのも……	그럼 예쁜 앨범을 아주 많이 구해야지. 실물 앨범도, 가상 앨범도…	Then I'll get lots and lots of pretty albums. Physical ones, digital ones...						0	
+109	从我们相识到现在，所有留下的瞬间，我都要好好存起来，一张都不会少。	從我們相識到現在，所有留下來的瞬間，我都要好好存起來，一張都不會少。	出会ってから今までの瞬間を、全部大切にしまっていくの。	우리의 첫 만남부터 지금까지, 남겨진 모든 순간을 하나도 빠짐없이 잘 보관할 거야.	From when we first met till now, every moment we captured — I'm going to keep every single one of them safe.						0	
+110	芬妮看看这张，看看那张，每一张都爱不释手。	芬妮看看這張，看看那張，每一張都愛不釋手。	ファニーはあの写真もこの写真もと次々に眺めては、どれも手放したくない様子で見入っていた。	페니는 이 사진 저 사진을 보며 하나하나 소중히 다뤘다.	Fenny gazed at the photos, unable to put any of them down.						0	
+111	达令，这些照片里，你最喜欢哪张？	達令，這些照片裡，你最喜歡哪一張？	ダーリン、この中で一番好きなのはどれ？	달링, 이 사진 중에서 어떤 게 제일 마음에 들어?	Darling, which one of these is your favorite?						0	
+112	我的话，我觉得这张最好。	我的話，我覺得這張最好。	私はこれかな。	나는 이게 제일 좋아.	I think it's this one.						0	
+113	我从照片堆里挑出一张，是芬妮捧着相机，在拍摄的那一刻偷偷亲我的那一张。	我從照片堆裡挑出一張，是芬妮捧著相機，在拍攝的那一刻偷偷親我的那一張。	私が選んだのは、ファニーがカメラを構えながら、私にキスをしてきた瞬間を捉えた一枚だった。	나는 많은 사진 속에서 한 장을 골랐다. 페니가 카메라를 들고 찍는 순간, 나에게 몰래 입 맞춘 그 사진이었다.	I picked one from the pile — the one with Fenny holding the camera and sneaking a kiss.						0	
+114	因为芬妮的动作，最终的照片其实有一点点虚焦了。	因為芬妮的動作，最終的照片其實有一點虛焦了。	そのせいで、写真は少しだけピントがずれてしまっていたが、	페니가 움직이는 바람에 사진의 초점이 살짝 흐려졌다.	Because of the movement, the photo actually came out slightly out of focus.						0	
+115	但两个身影之间的亲密与甜蜜，仍然分毫未减。	但兩個身影之間的親密與甜蜜，仍分毫未減。	そこに映るふたりの距離の近さと甘い雰囲気は、ちゃんと残っていた。	하지만 두 사람의 친밀함과 달콤함은 전혀 줄어들지 않았다.	But the intimacy and sweetness between us didn't diminish in the slightest.						0	
+116	我喜欢这样的氛围。	我喜歡這樣的氛圍。	雰囲気が好きだ。	난 이런 분위기가 좋아.	I liked the feeling it gave off.						0	
+117	就知道我和达令心有灵犀~	就知道我和達令心有靈犀~	やっぱりダーリンとあたしは気が合うのね！	역시 달링과는 텔레파시가 통해~	I knew we'd be on the same wavelength, darling~						0	
+118	芬妮也最喜欢这张吗？	芬妮也最喜歡這張嗎？	ファニーもこれが一番好きか？	페니도 이 사진이 제일 마음에 들어?	Is this your favorite too, Fenny?						0	
+119	当然。	當然。	当たり前じゃない。	당연하지.	Of course.						0	
+120	为什么？	為什麼？	どうして？	왜?	Why?						0	
+121	嗯，因为什么呢……	嗯，因為什麼呢……	うーん、そうね……	음, 왜일까…	Well, that's because...						0	
+122	没有精致设计的妆容，甚至淋雨之后面庞还有些潮湿。	沒有精緻設計的妝容，甚至淋雨之後面龐還有些潮濕。	凝ったメイクもなく、雨に濡れて少しだけ顔が湿ったまま。	정성 들인 화장도 없고, 심지어 비를 맞아 얼굴이 젖었던 순간인데.	She hadn't been wearing elaborate makeup. Her face had even looked damp from the rain.						0	
+123	没有细心规划的动作，甚至照片本身还没对上焦。	沒有細心規劃的動作，甚至照片本身沒對上焦。	ポーズも決めておらず、ピントも少しずれている。	세심하게 계획한 포즈도 아니고, 사진 자체도 초점이 안 맞았는데.	And it hadn't been a meticulously planned pose. The photo itself hadn't even been perfectly in focus.						0	
+124	达令……你有过那种被困住的感觉吗？	達令……你有過那種被困住的感覺嗎？	『ダーリンって……囚われてるって気分になったこと、ある？』	달링… 넌 갇혀있는 듯한 기분을 느낀 적 있어?	Darling... have you ever felt stuck?						0	
+125	和一成不变的人，过着重复单调的生活，失去新鲜感直到厌倦疲惫。	和一成不變的人，過著重複單調的生活，失去新鮮感直到厭倦疲憊。	『ずっと同じ人と、代わり映えしない日々を送って……新鮮さとドキドキを失ったり、飽きそうになったりとか。』	한결같은 사람과 단조로운 삶을 반복하면서, 새로움을 잃고 지쳐 싫증 나기까지.	Like life becomes so familiar that even the happy moments start to feel routine, and you miss the thrill of something new?						0	
+126	从来没有。	從來沒有。	一度もない。	전혀 그런 적 없어.	Never.						0	
+127	不仅如此，无论过去多久，芬妮都不用担心这个问题。	不僅如此，無論過去多久，芬妮都不用擔心這個問題。	どれだけ時間が経っても、そんな心配はいらない。	게다가 앞으로 시간이 얼마나 흘러가든, 페니는 그런 걱정을 할 필요가 없어.	Never have. Never will. And I assure you, Fenny — you don't need to worry about that, ever.						0	
+128	因为……	因為……	だって……	왜냐하면…	Because...						0	
+129	因为这一张照片，很真实，很自然，最有热恋的氛围。	因為這一張照片，很真實，很自然，最有熱戀的氛圍。	だってこの写真には、自然で飾らない、ラブラブの瞬間がそのまま写っているし。	이 사진은 진실되고 자연스러워서, 뜨겁게 사랑하는 연인의 분위기가 가장 잘 담겨있으니까.	Because this photo looks so alive, so natural. It shows how in love we are.						0	
+130	而我们会永远热恋，永不厌倦。	而我們會永遠熱戀，永不厭倦。	あたしたち、永遠のラブラブカップルだし。	우리는 영원히 뜨겁게 사랑하고, 전혀 권태롭지 않을 거야.	We'll always be in love. Never losing that spark. Not ever.						0	
+b-4											0	
+131	打开隐藏文件夹	打開隱藏資料夾	隠しフォルダを開く	숨김 폴더 열기	Open hidden folder						0	
+auto_b-5											0	
+b-5											0	
+132	编辑文档名称	編輯文檔名稱	ファイル名を編集する	폴더 이름 편집	Rename file						0	
+b-6											0	
+133	《关于达令的作战计划》修改名称	《關於達令的作戰計畫》修改名稱	「ダーリンに関する『作戦計画』」のファイル名変更	<달링에 관한 '작전 계획'> 이름 수정	Rename "Operation Plans: Darling's Perfect Date"						0	
+134	属于我们的照片里，留下了他最爱的我。	屬於我們的照片裡，留下了他最愛的我。	あたし達の写真には、ダーリンに一番愛されているあたしが映っている。	우리의 사진 속에는 그가 가장 사랑하는 나의 모습이 담겨있다.	In every photo, his love shines through.						0	
+135	这本手册的每一页，都写着我最爱的他。	這本手冊的每一頁，都寫著我最愛的他。	この手帳の中には、あたしが一番愛しているダーリンのことが綴られている。	이 수첩의 모든 페이지에는 내가 가장 사랑하는 그의 이야기가 적혀있다.	On every page, my heart stands true.						0	
+136	我们会以最真实的样子，永远热恋，永不厌倦。	我們會以最真實的樣子，永遠熱戀，永不厭倦。	あたし達はこれからも、お互いありのままで、ラブラブし続ける。	우리는 가장 진실한 모습으로 영원히 뜨겁게 사랑하고, 전혀 권태롭지 않을 거야.	As our truest selves, we'll always stay in love. Never weary, never losing that spark.						0	
+137	——《达令与小狮子的热恋手册》，第520页。	——《達令與小獅子的熱戀手冊》，第520頁。	——『ダーリンとライオンちゃんのラブラブ手帳』、520ページ。	<달링과 리틀 라이언의 연애 수첩>, 520페이지.	—Page 520, Darling and Little Lioness' Manual of Eternal Sparks.						0	

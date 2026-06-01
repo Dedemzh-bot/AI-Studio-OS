@@ -1,0 +1,86 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	任务完成，恩雅顺利地返回。	任務完成，恩雅順利地返回。	任務完了、エンヤは無事に帰還した。	미션을 완수하고 엔야는 재빠르게 복귀했다.	After completing the mission, Enya swiftly returned.						0	
+2	不过，比起和我对接，她马上处理起了那批降临团的成员。	不過，比起和我對接，她馬上處理起了那批降臨團的成員。	でも、私と合流するより先に、彼女はすぐ降臨団のメンバーたちを処理し始めた。	그리고 곧바로 구금된 신자들을 손 보기 시작했는데…	However, rather than coming over to me, she went straight into dealing with the detained Adventists.						0	
+3	整个过程中，恩雅丝毫没有放松警惕。	整個過程中，恩雅絲毫沒有放鬆警惕。	その間、エンヤはずっと真剣だった。	전체적으로 그녀는 단 한 번의 긴장도 푼 적이 없었다.	Enya didn't let down her guard once throughout the entire process.						0	
+4	嗯……先都送回世界树收容吧……	嗯……先都送回世界樹收容吧……	うーん……とりあえずユグドラシル社に収容しましょう……	음… 신자들은 위그드라실로 보내는 게 좋겠어…	Yeah... Let's send them back to Yggdrasil Corp. for confinement first...						0	
+5	这样的状态，他们暂时还不适合和孩子们见面……	這樣的狀態，他們暫時還不適合和孩子們見面……	今のまま子供たちに会わせるのも良くないです……	당분간은 이런 상태로 자식들한테 보낼 수 없을 것 같아…	It's best they don't meet their children in their current state...						0	
+6	还得好好给他们上一课呢！	還得好好給他們上一課呢！	ちゃんと教えてあげないと！	정신개조가 좀 필요할 것 같아!	There's still an important lesson I need to teach them!						0	
+7	看她这煞有介事的样子，我甚至觉得这些垂头丧气的会员，有些可怜……	看她這煞有介事的樣子，我甚至覺得這些垂頭喪氣的會員，有些可憐……	張り切っているエンヤの様子を見ると、落ち込んでいる降臨団のメンバーたちが少しかわいそうに見えなくもない……	빈틈없이 행동하는 엔야의 모습을 보니, 맥이 빠져있는 신자들이 오히려 불쌍해 보였다…	Seeing how self-important she looked, I started to feel that the dejected members who all had their heads hung were a little... pitiful...						0	
+b-1											0	
+8	或许，可以放松一点？	或許，可以放鬆一點……？	もう少し気を緩めても……	조금은 살살 다뤄도 되지 않을까요…?	Perhaps you can go a bit easier on them...?						0	
+9	放松？还不到放松的时候呢。	放鬆？還不到放鬆的時候呢。	気を緩める？まだそんな時間ではありません。	뭐? 살살 다루자고? 아직 그러기엔 일러.	Go easy? It's not the time for that yet.						0	
+10	分析员你先去做任务报告吧，我来处理这些降临团的会员。	分析員你先去做任務報告吧，我來處理這些降臨團的會員。	分析員は任務の報告を。私はこの人たちを処理します。	분석가가 먼저 가서 미션 결과를 보고해. 나는 그 사이에 녀석들을 좀 손보고 있을 테니까.	Adjutant, go work on the mission report. I'll deal with these Adventists.						0	
+11	弄完了咱们还是老地方见吧~	弄完了我們還是老地方見吧~！	終わったらいつもの場所で会いましょう～！	끝나고 아지트에서 보자고!	Once that's all done, we'll meet at the usual place~!						0	
+12	恩雅马上又投入了她的工作，我只能一个人先去报告任务，再来和她见面了。	恩雅馬上又投入到她的工作中，我只能一個人先去報告任務，再來和她碰面了。	エンヤはすぐ仕事に戻った。報告には1人で行くしかない。帰ったら彼女と会おう。	엔야는 곧바로 행동에 들어갔고, 나는 미션 결과를 보고하러 갔다.	Enya dived straight back into her work. All I could do was go and do the mission report alone before coming back to meet her again.						0	
+13	根据恩雅的吩咐，我来到了她口中的“老地方”——食堂。	根據恩雅的吩咐，我來到了她口中的“老地方”——餐廳。	エンヤの言われた通り、「いつもの場所」――食堂に来た。	보고를 마치고 엔야가 말한 '아지트' 식당을 찾아왔다.	I came to the 'usual place' that Enya had insisted I meet her at - the cafeteria.						0	
+14	之前放在这里展示的人工智能机器人，已经被下架了，恩雅看到了，应该会很高兴吧……	之前放在這裡展示的AI機器人已經被下架了，恩雅看到了，應該會很高興吧……	前にここで展示されていたAIロボットは撤去された。エンヤが知ったら、喜ぶだろう……	이전에 전시되던 인공지능 로봇은 더 이상 진열되어 있지 않았다. 엔야가 보면 분명 기뻐할 것 같았다.	Enya should feel delighted when she sees that the AI robot teacher display had been packed away again.						0	
+15	分析员，久等了……	分析員，久等了……	分析員、お待たせしました……	분석가, 오래 기다렸지…	Adjutant, I've made you wait...						0	
+16	实在不好意思，那边的人员安置很麻烦，浪费了不少时间……	實在不好意思，那邊的人員安置很麻煩，浪費了不少時間……	すみません、あちらの処理は厄介で、かなり時間がかかってしまいました……	미안, 미안… 신경을 좀 썼더니 시간이 금방 가버렸네…	I'm so sorry. The personnel placement over there was rather a nuisance, and wasted quite a lot of time...						0	
+b-2											0	
+17	处理好了吗？	處理好了嗎？	順調か？	처리는 잘 하셨어요?	Did you sort everything out?						0	
+18	还挺顺利的。	還挺順利的。	ええ。	응. 잘 처리했어.	Yes, it went quite smoothly.						0	
+19	其实我以前和降临团中高层接触过。	其實我以前和降臨團中高層接觸過。	実は、私は降臨団の中上層部と接したことがあります。	사실 난 예전에 강림단 고위층들과 접선했던 적이 있었어.	I've actually gotten to know middle- and high-ranked Adventists before.						0	
+20	伪装成会员啊，资助者啊这样的身份，很快得到了信任。	偽裝成會員啊、資助者啊這樣的身分，很快就得到了信任。	メンバーやスポンサーに化けて、すぐ信頼を得ました。	사제로 위장하고, 스폰서도 해보고 한덕에 금방 신임을 얻었었지.	I disguised myself as a member and sponsor, and it didn't take me long to gain their trust.						0	
+21	哼哼，是不是挺厉害的？	哼哼，是不是挺厲害的？	ふふん、すごくないですか？	분석가는 생각도 못 했지?	Hehe, aren't I impressive?						0	
+22	根据这些经验，随口编几个降临团高层的黑料，他们马上就后悔加入了呢。	根據這些經驗，隨口編幾個降臨團高層的醜聞，他們馬上就後悔加入了呢。	その経験を活かして、適当に降臨団の上層部の悪いところを言ったら、彼らはすぐ参加に後悔しました。	이런 경험으로 고위층에 강림단에 대한 몇 가지 진실을 폭로해 가입을 후회하게 한 적도 있었고,	I used that experience to weave some casual blackmail into what I was saying, and those high-ranked members instantly regretted having joined.						0	
+23	还有因为家庭矛盾而去成为会员的，我帮他们想了解决方案，整体来说都挺满意的。	還有因為家庭矛盾而去成為會員的，我幫他們想了解決方案，整體來說都挺滿意的。	家庭内摩擦が原因で入団した人もいましたので、解決策を考えてあげました。全体的に見ればみんな満足しました。	집안 문제로 신자가 된 사람들을 구제해 준 적도 있었어… 결과적으로 모두들 고마워했지.	There were a few who'd gone to join the Adventists because of family issues, so I helped them find solutions. Overall, I'm rather satisfied.						0	
+24	以前听说恩雅是熊孩子克星，没想到连“熊家长”也一样能克啊。	以前聽說恩雅是熊孩子剋星，沒想到連“熊家長”也一樣能剋啊。	前に聞いたことがある。エンヤは悪ガキの天敵だと。まさか「悪オヤ」も同じだったとは。	예전에 엔야가 철부지 아이들을 교육한다는 말은 들었어도, 철 안 든 가장들까지 참교육한다는 말은 들은 적이 없었다.	I heard Enya's the antidote for naughty children, but I didn't expect that'd even apply to naughty parents.						0	
+25	但……	但……	けれど……	하지만… 어찌 됐건…	But...						0	
+26	这会不会有些多此一举呢？	這會不會有些多此一舉呢？	これは余計な世話をしたのでは？	제재를 너무 필요 이상으로 하는 것 같았다.	Wouldn't that be doing more than necessary?						0	
+27	一边以最强硬的手腕将他们羁押，一边又可怜着这些家长去开导他们，这本身就十分矛盾……	一邊以最強硬的手腕將他們羈押，一邊又可憐著這些家長去開導他們，這本身就十分矛盾……	強引な手段で彼らを拘束し、同時に彼らを教え導く。これは矛盾している……	이렇게까지 하는 엔야의 행동을 보면 가장들을 불쌍히 여겨서 일깨워주고 싶다고 했던 말과는 달리 다소 상충돼 보였다.	She pities and enlightens these lost parents while restraining them with powerful and unyielding moves. It sounds pretty hypocritical to me...						0	
+28	把他们放走，让住家调解会去开导不是更好嘛。	把他們放走，讓住家調解會去開導不是更好嘛……？	彼らを逃がして、家庭調停協会の人が導く方が良くないか……？	오히려 풀어놓고 천천히 일깨우는 게 더 현명한 방법 아닐까?	Wouldn't it be better to let them go, and have the live-in mediation committee go enlighten them...?						0	
+b-3											0	
+29	为什么不一开始就放过他们呢？	為什麼不一開始就放過他們呢？	どうして最初から逃がしてあげないんだ？	왜 신자들을 순순히 풀어주지는 않는 거죠?	Why didn't you just let them go?						0	
+30	放过？	放過？	逃がす？	풀어준다고?	Let them go?						0	
+b-4											0	
+31	他们看起来挺无害的。	他們看起來挺無害的。	彼らは無害に見えるけど。	전혀 위험한 사람들 같아 보이지가 않아서요.	They looked rather harmless.						0	
+32	啊……	啊……	ああ……	아…	Ah...						0	
+33	分析员你……还真是天真啊。	分析員你……還真是天真啊。	分析員って……甘いですね。	분석가… 넌… 정말 아무것도 모르는구나.	Adjutant... You're still quite innocent, aren't you.						0	
+34	在那里不把他们一网打尽的话，会有什么后果你知道吗？	在那裡不把他們一網打盡的話，會有什麼後果你知道嗎？	あそこで一網打尽にしなければ、どうなったか分かりますか？	거기서 녀석들을 일망타진하지 않으면 어떤 결과가 발생하는지 알아?	Do you know what the consequences of not catching them all in the same net would have been?						0	
+35	恩雅说着，拿出她的终端，展示了几张图片。	恩雅說著，拿出她的終端，展示了幾張圖片。	エンヤは言い終わると、端末を出して、写真を見せてくれた。	엔야는 단말기를 꺼내 몇 장의 사진을 보여주었다.	Saying that, Enya took out her terminal and showed me several images.						0	
+36	我一张张浏览着，图片上，是一些很好藏匿的暗器和……袖珍炸弹！？	我一張張瀏覽著，圖片上，是一些很好藏匿的暗器和……袖珍炸彈！？	私は写真を1枚1枚見た。その内容は、隠しやすい暗器と……小型爆弾！？	그리고 사진에는 뜻밖에도… 숨기고 있던 흉기들과 더불어… 휴대용 폭탄까지?!	I browsed through them one by one. The images showed were of concealed weapons that had been craftily hidden, as well as... pocket bombs!?						0	
+37	很明显，这都是从那些降临团会员的身上缴获的。	很明顯，這都是從那些降臨團會員的身上繳獲的。	無論、これら全ては降臨団のメンバーから押収したものだろう。	명백히 강림단 신자들이 무장하고 있었던 게 분명했다.	It was clear that these items had all been confiscated from the detained Adventists.						0	
+38	那些看起来人畜无害的会员，竟是准备着随时反击吗！？	那些看起來人畜無害的會員，竟是準備著隨時反擊嗎！？	あの人畜無害に見えるメンバーたちが、反撃の準備をしていたのか！？	전혀 위험해 보이지 않았는데 호시탐탐 반격할 기회만 엿보고 있었던 건가?	So those members who looked like they wouldn't hurt a fly were armed and ready to strike back at any time?!						0	
+39	若是没有恩雅那雷厉风行的举措，后果不堪设想！	若是沒有恩雅那雷厲風行的舉措，後果不堪設想！	エンヤが速やかに解決しなければ、大変なことになっていただろう！	만약 엔야가 순순히 풀어줬다면 파생될 결과는… 생각만 해도 끔찍했다!	I couldn't even imagine how great the consequences would've been if it weren't for Enya's swift and powerful moves!						0	
+40	嗯……看分析员的表情，应该知道我为什么要那么做了吧？	嗯……看分析員的表情，應該知道我為什麼要那麼做了吧？	……その顔、私がどうしてあんなことをしたのか分かってくれたでしょう？	표정을 보니 이제서야 이해가 좀 되는 것 같네.	Hm... Given your expression, I take it you now realize why I had to act like that?						0	
+b-5											0	
+41	你怎么看出来的……？	你怎麼看出來的……？	どうやって見抜いたの……？	누님은 이런 걸 어떻게 아신 거죠…?	How did you realize what they...?						0	
+42	这个啊……	這個啊……	それはですね……	아…	Good question...						0	
+43	我还是个新兵蛋子的时候，吃过不少亏呢。	我還是個新兵菜鳥的時候，吃過不少虧呢。	私がまだ新人の時、色々痛い目に遭いました。	신참 나부랭이였을때 내가 눈치가 좀 없어서… 나 때문에 얼마나 많은 피해를 입었었다고…	I messed up quite a few times when I was still a newbie recruit, and had to bear the consequences.						0	
+44	所以我很明白，对敌人的仁慈，往往是对自己身边人最大的残忍……	所以我很明白，對敵人的仁慈，往往是對自己身邊人最大的殘忍……	なので私はよく理解しています。敵に対する慈悲の心は、往々にして味方に対する最も残酷なこと……	내가 베푸는 자비심이 오히려 주변 사람들에게 해를 끼칠 수 있다는 걸 깨달았었어…	That's why I know very well that showing kindness to the enemy almost always ends up as terrible cruelty toward those around you...						0	
+45	如果连身边的人都保护不了的话，还怎么去感化这些狡猾而难缠的敌人呢？	如果連身邊的人都保護不了的話，還怎麼去感化這些狡猾而難纏的敵人呢？	周りの人たちも守れずに、どうやってずる賢く手強い敵を感化すると言うのですか？	주변에 있는 사람도 못 지키면 어떻게 이런 사람들을 일깨울 수 있겠어?	How can I influence sly and stubborn enemies if I can't even protect the people by my side?						0	
+46	完全失算了……	完全失算了……	完全に誤算だった……	그렇다… 완전한 나의 착각이었다.	I'd completely misjudged her...						0	
+47	本来想教育恩雅的，结果，被教育的人，其实是自己啊……	本來想教育恩雅的，結果，被教育的人其實是自己啊……	エンヤを教育するつもりだったが、結局教育されたのは私だった……	원래는 엔야한테 한마디 하려 했지만, 오히려 배워야 할 사람은 나 자신이었던 것 같다.	I'd wanted to teach her something, but I ended up being the one taught a lesson...						0	
+48	我有些颓然地翻着那些武器的照片，一张不一样的照片，突然映入了我的眼帘。	我有些頹然地翻著那些武器的照片，一張不一樣的照片，突然映入了我的眼簾。	落ち込んで武器の写真をめくると、突然1枚の違う写真が目に映った。	그렇게 계속해서 엔야의 단말기로 사진을 보던 중, 한 장의 사진이 갑자기 눈 안에 들어왔다.	I flipped through the images of the weapons again, feeling dejected. Suddenly, one I hadn't seen before popped up before me.						0	
+49	那是恩雅和孩子们的合影，地点，则是在孤儿院的门口。	那是恩雅和孩子們的合影，地點，則是在孤兒院的門口。	それはエンヤと子供たちの写真。場所は、孤児院の入り口。	그건 엔야가 보육원 입구에서 어린 아이들과 찍은 단체 사진이었다.	It was a photo of Enya with some children, taken in front of the orphanage.						0	
+50	被孩子们拥簇着的恩雅，灿烂的笑着，就仿佛是一个慈爱的圣母。	被孩子們簇擁著的恩雅，燦爛的笑著，就彷彿是一個慈愛的聖母。	子供たちに囲まれたエンヤは明るく笑って、まるで慈愛に溢れた聖母マリアのようだ。	아이들에게 둘러싸여 웃고 있는 엔야의 모습은 마치 자애로운 성모님 같았다.	Surrounded by the children, Enya smiled brilliantly, like the embodiment of kindness itself.						0	
+51	啊……分析员你真是的，干嘛偷看人家的照片啊……	啊……分析員你真是的，幹嘛偷看人家的照片啊……	ああ……分析員ったら、勝手に人の写真を見ないでくださいよ……	흠… 분석가도 참… 왜 이렇게 단말기를 붙들고 있나 했는데 다른 사진을 훔쳐보고 있었네!	Ah... Seriously, Adjutant. Prying into people's photos?						0	
+b-6											0	
+52	啊……不好意思……	啊……不好意思……	あっ……すまない……	아… 저도 모르게… 죄송해요…	Oh... I'm sorry...						0	
+53	我急忙将终端给递了回去，但恩雅其实没有生气，只是故意揶揄我一句而已。	我急忙將終端還給她，但恩雅其實沒有生氣，只是故意揶揄我一句而已。	慌てて端末を返した。でも実はエンヤは怒っておらず、わざとからかっただけだ。	난 급하게 단말기를 돌려줬다. 엔야는 화를 낸 게 아니라 단지 한소리 한 것뿐이었다.	I hastily handed the terminal back to her, but Enya had only been teasing me, and wasn't angry at all.						0	
+54	看着那些照片，她反而是情不自禁地露出了温柔的微笑。	看著那些照片，她反而是情不自禁地露出了溫柔的微笑。	その写真を見て、エンヤは思わず優しい笑顔を浮かべた。	오히려 사진을 보고는 따듯하게 미소 짓고 있었다.	As she looked at the photos, she couldn't help but smile softly.						0	
+55	大家……都很可爱吧？	大家……都很可愛吧？	みんな……可愛いでしょう？	다들… 너무 귀엽지 않아?	...They're all so cute, aren't they?						0	
+56	我总是梦想着开一个托儿所或者儿童乐园……虽然现阶段只能先想想啦。	我總是夢想著開一個托兒所或者兒童樂園……雖然現階段只能先想想啦。	いつも託児所やプレーパークを建てる夢を見ています……今は考えることしかできませんけど。	줄곧 어린이집이라던가 어린이대공원을 운영하는 꿈을 꾸곤 했어. 물론 지금은 할 수 있는 여건이 아니지만…	I've always dreamed of opening a nursery or children's playground... They're still just dreams at this stage, though.						0	
+57	不过偶尔去做做义工，还是很开心的。	不過偶爾去做做義工，還是很開心的。	でもたまにあそこでボランティアをするのも楽しいです。	가끔씩 이런 곳에 가서 봉사를 하면 마음이 편해지고 행복하더라고.	But I sometimes volunteer in places like that, and even volunteering is still so much fun.						0	
+58	下次分析员有空的话，要跟我一起去吗？	下次分析員有空的話，要跟我一起去嗎？	今度、分析員の都合がよろしければ、一緒に行きませんか？	다음에 분석가도 시간 되면 같이 한번 가볼래?	Would you like to join me the next time you're free, Adjutant?						0	
+59	是一个超级有爱的地方哦~	是一個超級有愛的地方哦~！	すごく愛に溢れた場所ですよ～！	정말이지… 사랑이 넘치는 곳이거든!	It's a place absolutely overflowing with love~!						0	
+60	看来恩雅，是真的很为孩子们着想啊……	看來恩雅，是真的很為孩子們著想啊……	エンヤは、本当に子供想いだな……	엔야는 정말 아이들을 아끼고 사랑하는구나…	Enya really does care about children more than anything else...						0	
+61	我这才明白，她的严厉和温柔，其实一点都不矛盾。	我這才明白，她的嚴厲和溫柔，其實一點都不矛盾。	ようやく理解した。彼女の厳しさと優しさは、ちっとも矛盾していない。	나는 그제야 엔야가 왜 그렇게까지 신중하고 빈틈없이 행동했는지 알 수 있었다.	That was when I realized that her stern side and her gentle, loving side weren't contradictory at all.						0	
+62	就算要拯救敌人，也是建立在完全胜利的基础上。	就算要拯救敵人，也是建立在完全勝利的基礎上。	敵を救うにしても、完全勝利を前提としている。	그녀의 말처럼 신자들을 구제하려면 먼저 구제할 수 있는 조건을 만들어야 했기 때문이다.	If you want to save the enemy, you need to establish the conditions for achieving a perfect victory first.						0	
+63	绝对不会让自己在乎的人受伤。	絕對不會讓自己在乎的人受傷。	絶対に大事な人を傷つけさせない。	절대로 본인의 주변 사람들이 다치게 둬서는 안 된다.	And never let the people you care about get hurt.						0	
+64	守护了真正珍惜的事物之后，才能去守护他人。	守護了真正珍惜的事物之後，才能去守護他人。	まず大事なものを守れなければ、人は守れない。	진심으로 아끼는 것을 지켜낸 후에야 다른 사람을 지켜낼 수 있기 때문이다.	You can only think about protecting others once you've first protected those truly precious to you.						0	
+65	比起那种伪善的圣母，这……或许才是“圣母”真正的姿态吧。	比起那種偽善的聖母，這……或許才是“聖母”真正的姿態吧。	偽善的な聖母より、これこそ……「聖母」の真の姿かもしれない。	위선적인 교주들에 비하면 어쩌면 이런 게 진정한 '성모'의 모습이 아닐까?	Unlike those fake, hypocritical saints you hear about, that attitude... may be the true one of a saint.						0	
+66	我有什么理由去拒绝她的请求呢？	我有什麼理由去拒絕她的請求呢？	彼女の誘いを断る理由はないだろう？	거절할 이유가 없었다.	What reason was there to turn down her invitation?						0	
+67	毕竟，我也想多看看她这春风一般，温柔的笑容呢……	畢竟，我也想多看看她這宛如春風的溫柔笑容呢……	私も彼女の春風のような優しい笑顔をもっと見たいから……	봄바람 같이 따듯한 엔야의 미소를 다시 한번 느껴보고 싶었다.	I also wanted to see more of her soft and gently refreshing smile...						0	
+b-7											0	
+68	好的，请务必带上我。	好的，請務必帶上我。	ああ、是非。	좋아요! 저도 꼭 데려가 주세요!	Alright. Please bring me along.						0	
+69	嗯哼~就知道分析员一定不会让我失望呢！	嗯哼~就知道分析員一定不會讓我失望呢！	ふふ、分析員なら私を裏切らないと思いました。	좋아! 분명히 분석가는 함께 할 거라 믿었어!	Mm~ I knew you wouldn't let me down, Adjutant~!						0	
+70	快，让大姐姐我来奖励你一个抱抱吧~	快，讓大姐姐我來獎勵你一個抱抱吧~！	さあ、お姉さんが抱っこしてあげましょう～！	자! 일로 와! 상으로 한 번만 더 진하게 안아줄 테니!	Here, let me reward you with a big hug~!						0	
+71	躲闪——躲闪——	躲閃——躲閃——	咄嗟に身を躱した。	어서 도망가야겠다…	*dodge* *dodge*						0	
+72	诶……分析员你可真内向啊……	欸……分析員你可真內向啊……	あら……分析員って照れ屋さんですね……	분석가는 참 내성적이란 말이야…	Eh... You're really a shy one, Adjutant...						0	
+73	偶尔可以依靠我一下嘛。	偶爾可以依靠我一下嘛。	たまには頼りにしてくれてもいいんですよ。	서로 기대고 있으면 얼마나 좋은데.	Why not depend on me once in a while?						0	
+74	毕竟，我总是依靠着你呢。	畢竟，我總是依靠著你呢。	いつも分析員を頼りにしていますから。	나는 항상 함께 하고 싶은데 말이지.	I'm always relying on you, you know.						0	
+75	是不是互相依靠我不太清楚，但是有一点，我现在十分明确。	是不是互相依靠我不太清楚，但是有一點，我現在十分確定。	頼り合うかはともかく、今はっきりと決めたことが1つある。	한 가지는 분명히 해둬야 될 것 같았다.	I wasn't too sure whether we were relying on each other, but there was one thing I was now beyond certain about.						0	
+76	那就是下次约恩雅，一定不能在食堂了！	那就是下次約恩雅，一定不能在餐廳了！	次にエンヤと会う場所は、絶対に食堂にしない！	다음번에 약속할 때는 식당은 꼭 피하기로…	That the next time I'm arranging where to meet Enya, I absolutely can't set the meeting place as the cafeteria!						0	
+77	这种公共场合的抱抱追逐，一定要禁止！	這種公共場合的抱抱追逐，一定要禁止！	公共の場で抱っこするのは禁止！	다시는 이런 공공장소에서 난처하지 않도록…	Enya's Hug Pursuit needs to be banned in public places like these!						0	

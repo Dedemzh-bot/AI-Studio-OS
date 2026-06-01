@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	从这里再往里，往“峡谷”更近。	從這裡再往裡面走的話就離往“峽谷”更近了。	ここからさらに中に、「峡谷」の方に行くと早いよ。	이곳으로 가면 '협곡'으로 더 빨리 갈 수 있을 거야.	We'll get closer to the Canyon goin' in this way.						0	
+2	你对这片区域很熟嘛，回到“老地方”的感受如何？	你對這片區域很熟嘛，回到“老地方”的感受如何？	ここら辺のこと、よく知っているのね。「いつもの場所」に帰った感想は？	이 구역은 네가 잘 알긴 하겠지. 어때? 아지트에 돌아온 느낌이야?	You know this place pretty well, huh? How does it feel to be "back home"?						0	
+3	能先把眼前的麻烦处理掉再聊吗？	能先把眼前的麻煩處理掉再聊嗎？	その話は目の前の問題を片付けてからにしてくれないか？	잡담은 나중에 해. 일단 눈앞의 문제부터 처리하자고.	Save the chat for after we've dealt with this nuisance.						0	

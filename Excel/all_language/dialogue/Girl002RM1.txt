@@ -1,0 +1,56 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	深夜。	深夜。	深夜。	깊은 밤.	Midnight.						0	
+2	躺在陌生的床上，过往的记忆如电影一般在我眼前掠过。俱卢、耶洛沙、雅卢岛、第五研究所……	躺在陌生的床上，過往的記憶如電影一般在我眼前掠過。俱盧、耶洛沙、雅盧島、第五研究所……	私はいつもとは違うベッドに横たわっていた。これまでの記憶が映画のように、脳裏をよぎる。グロ、イェロシャ、ガルーアイランド、第5研究所……	낯선 침대에 누워있던 찰나, 과거의 기억들이 영화처럼 눈앞을 스쳐 지나간다. 쿠루, 옐로샤, 야루섬, 제5연구소…	I lay in the unfamiliar bed, memories flashing before my eyes like a movie. Kuru, Yehrus, Yallu Island, the Fifth Research Institute...						0	
+3	最终，画面定格在这一切发生之前。	最終，畫面定格在這一切發生之前。	やがて、映像はすべてが始まる前の時点で静止した。	마지막으로 이 모든 일이 일어나기 전에 화면이 멈춘다.	Finally, it froze on an image from before any of that ever happened.						0	
+4	那是我和里芙的故事。	那是我和里芙的故事。	それは、私とリフの物語。	그것은 나와 리브의 이야기였다.	It was my and Lyfe's story.						0	
+5	大家辛苦啦！都别客气，今天芙提雅老师请客！	大家辛苦啦！都別客氣，今天芙提雅老師請客！	みんな、お疲れ！今日はフリティア先生の奢りだから、遠慮しないで～	모두 수고들 했어! 오늘은 프티야 선생님이 쏠 테니까 다들 사양하지 마!	Great job, everyone! I'm treating you all today!						0	
+6	分析员快说说，我今天的表现是不是很不错？	分析員快說說，我今天的表現是不是很不錯？	分析員！今日のあたしも、うまくやれてたでしょ？	분석가, 어사 말해 봐. 오늘 내 활약이 꽤 좋지 않았어?	Adjutant, did I do a good job today?						0	
+b-1											0	
+7	确实	確實	確かに	그건 그래.	Yes.						0	
+8	你和里芙配合得很好	你和里芙配合得很好	君もリフもナイスチームワークだ	특히나 페니랑 리브의 합이 좋더라.	You and Lyfe make a great team.						0	
+9	在今天的任务中，海姆达尔部队发挥出色，给予了突然出现的泰坦海拉重创。	在今天的任務中，海姆達爾部隊發揮出色，給予了突然出現的泰坦海拉重創。	今日のミッションで、ヘイムダル部隊は突如現れたタイタン「ヒーラ」に大打撃を与えた。	오늘 진행됐던 미션 중, 헤임달 부대는 뛰어난 활약을 펼쳐 갑자기 나타난 타이탄 헬라에게 큰 피해를 입혔다.	The Heimdall Force did an excellent job on the mission, dealing hefty damage to the Titan, Hela.						0	
+10	虽然没有完全将其消灭，但队伍中没有人受伤，也顺利完成了预定目标，可以说是接近满分的战果了。	雖然沒有完全將其消滅，但隊伍中沒有人受傷，也順利完成了預定目標，可以說是接近滿分的戰果了。	完全に殲滅したとは言えないが、負傷者なしであれほどのダメージを与えられたのは期待値以上の成果だ。それに予定していた目標も無事達成できたし、満点に近い戦果といえる。	비록 완전히 소멸시킨 건 아니었지만, 다친 부대원이 없고 예정했던 목표도 순조롭게 달성할 수 있었다. 거의 완벽한 결과라고 볼 수 있었다.	Even though Hela wasn't completely eliminated, no one on the force was injured, and we had achieved the mission goal. It was nearly perfect.						0	
+11	就不能单独夸我吗？分析员真小气。	就不能單獨誇我嗎？分析員真小氣。	ふん！あたしだけを褒められないわけ？ケチなんだから！	나만 칭찬해주면 안 돼? 분석가는 너무 인색하다니까.	Hmph, why can't you just compliment me? You're so stingy, Adjutant.						0	
+12	……	……	……	…	...						0	
+13	因为我的失误，才放走了那只海拉。	因為我的失誤，才放走了那隻海拉。	ヒーラを逃がしたのは、私の落ち度だ。	내 실수로 헬라를 놓쳤어.	Hela got away because of my mistake.						0	
+14	你当时站在它的正前方，受到的攻击最多，瞄准失误也在所难免，别给自己太大压力。	你當時站在它的正前方，受到的攻擊最多，瞄準失誤也在所難免，別給自己太大壓力。	あの時、君はヒーラの真正面にいた。ヒーラからもっとも激しい攻撃を浴びる位置だから、狙いが外れるのも無理はない。あまり自分を責めるな。	당시에 리브는 헬라의 바로 앞에 있었고, 가장 많은 공격을 받았으니 조준에 실수가 있던 게 어떻게 보면 당연한 거야. 그러니까 너무 자책하지 마.	You were standing right in front of it, so you got hit the most. It's natural that your aim would be off. Don't be so hard on yourself.						0	
+15	但那时海拉已经重伤，附近也没有其他泰坦出现的迹象，如果我打中的话，消灭它的希望很大……	但那時海拉已經重傷，附近也沒有其他泰坦出現的跡象，如果我打中的話，消滅它的希望很大……	ヒーラはすでに重傷を負っていた。付近に他のタイタンが現れる気配もなかった。追撃すれば、あいつを完全に殲滅できたかもしれん……	하지만 그때 헬라는 이미 중상을 입었고, 주변에 다른 타이탄의 출현 징후도 없었어. 내가 잘만 맞췄다면 헬라를 제거할 수 있었을지도 몰라…	Hela was already seriously injured, and there were no signs of more Titans arriving. Hitting it likely would have destroyed it...						0	
+16	说到一半，里芙扫视了一眼众人的表情，又重新低下了头。	說到一半，里芙掃視了一眼眾人的表情，又重新低下了頭。	途中まで言って、リフは周囲の人の表情に気づいて、俯いた。	말을 하던 중, 리브는 주변 사람들의 표정을 한 번 쓱 훑어보고는 다시 고개를 숙였다.	Halfway through saying this, Lyfe glanced around at everyone's expressions, once again lowering her head.						0	
+17	抱歉，我想一个人待一会。	抱歉，我想一個人待一會兒。	すまない。少しの間、一人にしてくれ。	미안, 잠시 혼자 있고 싶군.	Sorry. I want to be alone for a bit.						0	
+18	没有留给任何人说话的机会，她低着头快步走出了大厅。	沒有留給任何人說話的機會，她低著頭快步走出了大廳。	私達に引き留める時間さえ与えず、彼女は俯いたまま、足早にホールを後にした。	아무도 말할 기회를 주지 않은 채 그녀는 고개를 숙이고 빠르게 로비를 떠났다.	Without giving anyone the chance to respond, she bowed her head and quickly exited the hall.						0	
+19	……还是老样子啊。	……還是老樣子啊。	……相変わらずだな。	… 여전하군.	Same old...						0	
+20	海姆达尔部队中的所有队员，连同我在内，都或多或少被降临事件改变了人生的轨迹。	海姆達爾部隊中的所有隊員，連同我在內，都或多或少被降臨事件改變了人生的軌跡。	私を含め、ヘイムダル部隊の隊員はみんな、降臨事件によって人生を変えられた。	헤임달 부대에 있는 모든 대원들은 나를 포함해 강림 사건을 계기로 인생의 궤도가 다소 바뀌었다.	In one way or another, the Descent had an effect on all of the Heimdall Force operatives' lives, including my own.						0	
+21	而在我们之中，里芙大概也是受到影响最大的一类。	而在我們之中，里芙大概也是受到影響最大的一類。	その中でも、リフはもっとも影響を受けている部類に入る。	그중에서도 리브가 아마 가장 큰 영향을 받은 사람일 것이다.	And out of all of us, Lyfe was probably affected the most.						0	
+22	她作为冠军的一切，都在本属于她的比赛中，被摧毁殆尽。	她作為冠軍的一切，都在本屬於她的比賽中，被摧毀殆盡。	チャンピオンとなるはずだった彼女は、あの試合の後で全てを失った。	그녀는 그녀가 속해있던 경기에서 챔피언으로서 모든 것을 잃어버렸다.	Everything she'd earned as a champion was destroyed in the very competition that belonged to her.						0	
+23	所以，每当她对泰坦流露出那种森冷的仇恨、每当她对自己的要求高到近乎苛责的程度，我都很难去劝阻她。	所以，每當她對泰坦流露出那種森冷的仇恨、每當她對自己的要求高到近乎苛責的程度，我都很難去勸阻她。	だから、彼女はこうまでタイタンを憎んでいるのだ。タイタンに復讐するために、彼女は自分自身に対して過剰なまでの水準を求めている。そんな彼女を諌める術を、私は持っていなかった。	그래서 그녀가 타이탄에 대해 차가운 증오를 드러낼 때마다, 그리고 그녀가 자신에게 거의 가혹할 정도로 높은 요구를 할 때마다 나는 그녀를 설득하기가 매우 어려웠다.	So whenever she displayed an icy hatred for the Titans, whenever she set high, nearly harsh expectations for herself, it was difficult for me to talk her out of it.						0	
+24	即使知道她一向很把我的话放在心上，但这种刻在骨子里的执念，并不是言语所能简单改变的。	即使知道她一向很把我的話放在心上，但這種刻在骨子裡的執念，並不是言語所能簡單改變的。	彼女も私の言葉を聞き入れてはいる。けれど、骨の髄まで刻み込まれたあの執念は、言葉だけで変えられるものではない。	비록 그녀는 내 말을 항상 마음 속에 두고 싶어했지만, 뼛속 깊이 새겨진 증오는 말로 쉽게 바꿀 수 없었다.	Even though I knew she always took what I said seriously, the obsession festering deep within her bones couldn't be changed by words alone.						0	
+25	星期三这家伙，真不让人省心。	星期三這傢伙，真不讓人省心。	ホント、手間がかかるんだから、ウェンズデーは。	웬스데이 녀석은 항상 주변 사람들 심기를 불편하게 한다니까.	Wednesday really knows how to make people worry about her.						0	
+26	到吃饭的时候应该就会回来了吧。	到吃飯的時候應該就會回來了吧。	まあ、ご飯の時間になったら、戻ってくるでしょ。	저녁때가 되면 돌아오겠지.	I think she'll be back in time for dinner.						0	
+27	又不是流浪猫……	又不是流浪貓……	野良猫じゃあるまいし……	방랑하는 고양이도 아니고…	Guys, she's not a stray cat...						0	
+28	我盯着里芙离开的大厅门口，最终还是摇了摇头。	我盯著里芙離開的大廳門口，最後搖了搖頭。	私はホールの入口を見つめながら、ため息をついた。	리브가 떠난 로비의 문을 바라보며 난 고개를 가로저었다.	I stared at the hall entrance Lyfe had left through, finally shaking my head.						0	
+29	这样放着不管也不是办法。	這樣放著不管也不是辦法。	このままにするわけにもいかない。	이대로 방치하는 것도 해결책이 될 수는 없겠지.	We can't just leave things like this.						0	
+30	庆功宴……暂且允许我放一次鸽子吧。	慶功宴……暫且允許我放一次鴿子吧。	打ち上げは……欠席させてもらおうかな。	축하연은… 이번에 생략하는 것이 좋겠어.	As for the celebration party... I'll have to take a rain check.						0	
+31	好说歹说哄好了芬妮和芙提雅，我终于得以走出基地，寻找方才离开的里芙。	好說歹說哄好了芬妮和芙提雅，我終於得以走出基地，尋找方才離開的里芙。	長い時間をかけてファニーとフリティアを説得したあと、私はようやく寮から出て、リフを探すことにした。	페니와 프티야를 설득하고 난 후, 나는 기지를 떠나 리브를 찾으러 나섰다.	After persuading and convincing Fenny and Fritia, I was finally able to leave the Base and search for Lyfe after she'd departed.						0	
+32	大致估了个方向后，我在公司的走廊中快速穿行着。行至拐角，险些和忽然出现的人撞到一起。	大致估了個方向後，我在公司的走廊中快速穿梭。行至轉角，差點和忽然出現的人撞到一起。	リフなら向かうであろう場所を予想して、会社の廊下を走った。曲がり角を曲がったとき、向こうから歩いてきた人とぶつかりそうになった。	대략적인 방안을 생각하고 회사 복도를 지나가던 중, 코너를 돌다가 갑자기 나타난 사람과 부딪힐 뻔한다.	After roughly guessing the direction she took off in, I quickly made my way through the company hallways. Turning a corner, I almost bumped into someone who appeared out of nowhere.						0	
+33	呀！	呀！	きゃっ！	아앗!	Ah!						0	
+34	伴随着惊呼，白色的文件纸从面前的人手中飞出，散了个满天。	伴隨著驚呼，白色的文件紙從面前的人手中飛出，散了個滿天。	驚きの声とともに、書類が宙を舞った。	비명과 함께 흰 문서들이 하늘에 흩날리는데…	With a surprised gasp, a stack of papers flew out of the person's hands and scattered in the air.						0	
+35	幸好，对方是熟人。	幸好，對方是熟人。	幸い、相手は知っている人だ。	다행히도 상대방은 익숙한 사람이었다.	Fortunately, it was someone I knew.						0	
+36	分析员，在走廊里跑步可是很危险的！	分析員，在走廊上跑步可是很危險的！	分析員！廊下を走っちゃ危ないじゃないですか！	분석가님, 복도에서 뛰는 건 너무 위험해요!	Adjutant, running in the hallways is dangerous!						0	
+37	抱歉抱歉……	抱歉抱歉……	すまない……	미안해, 미안해…	Sorry, sorry...						0	
+38	我帮卡罗琳捡起散落了一地的文件，目光却忍不住往她身后瞟。	我幫卡羅琳撿起散落了一地的文件，目光卻忍不住往她身後瞟。	散らばった書類を拾い集めながらも、廊下の先に目を向けずにはいられなかった。	난 캐롤린이 흩어진 문서들을 줍는 동시에 그녀의 뒤를 계속해서 주시했다.	I helped Caroline pick up the fallen documents, but I couldn't stop myself from glancing behind her.						0	
+39	你在找什么吗？	你在找什麼嗎？	誰か探してるんですか？	혹시 뭐 찾으시는 거라도 있나요?	What're you looking for?						0	
+40	里芙。	里芙。	リフを探しているんだ。	리브.	Lyfe.						0	
+41	那你直接问她在哪不就好了，搞得和家里的猫丢了一样。	那你直接問她在哪不就好了，搞得跟家裡的貓丟了一樣。	なら、今どこにいるって、直接彼女に聞けばいいじゃないですか。家出した猫じゃあるまいし。	그럼 직접 리브한테 어디에 있는지 물어보면 되는 거 아닌가요? 행색이 마치 고양이를 잃은 듯한 모습이시네요.	Why don't you just ask her where she is? You're acting like your cat ran away or something.						0	
+42	情况有点复杂，总之你看到她了吗？	情況有點複雜，總之你看到她了嗎？	ちょっと状況が複雑でね。彼女を見かけてないか？	좀 복잡한 상황이야. 혹시 오다가 리브를 봤어?	It's complicated. Anyway, did you see her?						0	
+43	你等等啊……	你等等啊……	ちょっと待ってくださいね……	잠깐만 기다려주세요…	Wait a second...						0	
+44	卡罗琳打开了手中的平板，快速戳了几下，随即抬起头看向我。	卡羅琳打開了手中的平板，快速戳了幾下，隨即抬起頭看向我。	カロリンがタブレット端末を開き、何やら操作したあと、また顔を上げた。	캐롤린이 손에 든 태블릿을 열며 몇 번 빠르게 누르더니 곧이어 내게 시선을 돌린다.	Caroline turned on the tablet she was holding, tapped the screen a few times, and looked back up at me.						0	
+45	找到了，喏，她一路出了公司，朝庚号大门的方向去了。	找到了，喏，她一路出了公司，朝著庚號大門的方向去了。	見つけました。彼女は会社を出て、第7ゲートに向かったようです。	찾았어요! 이것 좀 보세요! 회사를 나가서 7번 게이트 방향으로 나가는 중이에요.	Found her. Look — she left the company and is headed for Gate Seven.						0	
+46	平板上是公司的监控画面，如卡罗琳所说，里芙的确离开了公司。	平板上是公司的監視器畫面，如卡羅琳所說，里芙的確離開了公司。	端末に表示されているのは、監視カメラの映像だ。カロリンの言葉通り、リフは会社から出たらしい。	태블릿 화면에는 회사의 감시 영상이 보였고, 캐롤린 말대로 리브는 회사를 떠나고 있었다.	Her tablet displayed footage from the company's surveillance cameras. Just like Caroline said, Lyfe had left the grounds.						0	
+47	你还能调取公司的监控？	你還能調取公司的監視器？	監視カメラのアクセス権限まであるのか？	너 설마 회사의 감시 카메라까지 얻을 수 있는 거야?	You can access the company's surveillance system?						0	
+48	我可是情！报！官！不要小看我的情报网！	我可是情！報！官！不要小看我的情報網！	私はこれでも情報官ですよ！情・報・官！私の情報網を舐めないでください！	허, 참! 제가 이래 봬도 정보관이라고요! 제 정보망을 얕보지 마세요!	I'm an intelligence officer! Don't underestimate my intel network!						0	
+49	这是什么情报网……	這是什麼情報網……	どんな情報網だよ、それ……	이런 게 무슨 정보망이라고…	Intel network? What are you on about...?						0	
+50	总之，要追她就快去吧，老板那边我会帮你打招呼的。	總之，要追她就快去吧，老闆那邊我會幫你打招呼的。	とにかく、追うなら早く行ったほうがいいですよ。ボスには私から話しておきますから。	어쨌든, 리브를 쫓으려면 빨리 가야 해요. 이사님한테는 제가 따로 말씀드릴게요.	Anyway, go ahead if you want to chase after her. I'll give the boss a heads-up for you.						0	
+51	谢了，你是全天下最好的情报官。	謝了，你是全天下最好的情報官。	ありがとう。君は世界一の情報官だ。	고마워, 역시 넌 세상에서 가장 뛰어난 정보관이야.	Thanks. You're the best intelligence officer in the world.						0	
+52	将手中的文件塞给卡罗琳后，我扭头便朝着电梯跑去。	將手中的文件塞給卡羅琳後，我扭頭便朝電梯跑去。	私は書類をカロリンに返すと、エレベーターに向けて走った。	캐롤린에게 파일을 건넨 후, 난 고개를 돌려 엘리베이터 쪽으로 뛰어갔다.	After handing the documents I was holding back to Caroline, I turned around and dashed toward the elevator.						0	
+53	还有，别忘了现在尤克特拉希尔正在活跃期！别乱来！	還有，別忘了現在尤克特拉希爾正在活躍期！別亂來！	それと、ユグドラシルが活発になっていますので、無茶なことはしないでくださいね！	아, 지금은 세계수가 활동기에 있다는 걸 잊지 마세요! 소란을 피워선 안돼요!	And don't forget the World Tree is active right now! Don't do anything crazy!						0	

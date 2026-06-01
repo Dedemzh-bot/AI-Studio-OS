@@ -1,0 +1,12 @@
+GDPL	//备注	星级UI模板（填写1：两侧 2右侧 3左侧 三种角色展示的UI布局模板）		（小左大右）	（负上正下）
+GDPL	NUL	template_type	UIname	Xaxis	Yaxis
+{1,4,3,1}	芙提雅·2.3芙提雅	2	RoleInfo	0	0
+{1,20,1,1}	2.4新角色	3	RoleInfo	0	0
+{1,11,3,1}	澜风	2	RoleInfo	0	0
+{1,21,1,1}	奈丽德	3	RoleInfo	50	-300
+{1,18,2,1}	龙舌兰2	3	RoleInfo	100	-450
+{1,22,1,1}	克萝蕤那	2	RoleInfo	0	0
+{1,23,1,1}	米娅	3	RoleInfo	0	0
+{1,6,3,1}	晴	2	RoleInfo	0	0
+{1,20,2,1}	卜卜	3	RoleInfo	50	-300
+{1,12,3,1}	猫汐尔	3	RoleInfo	0	0

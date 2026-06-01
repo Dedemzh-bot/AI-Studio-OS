@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	那个，晴，我想跟你确定一下下次义肢护理的时间。	晴，我想跟你確認一下下次義肢保養的時間。	晴ー、次回の義肢整備の日時を確……おっと。	하루, 다음번 로봇팔 유지보수 예약 시간을 확인하러 왔어요.	Um, Haru, I need to confirm the time for your next prosthesis maintenance appointment.						0	
+page0.2	啊……是分析员啊。	啊……是分析員啊。	あ……分析員か。	아… 분석가구나.	Ah... Adjutant...						0	
+page0.3	我这难道是……睡着了。	我難道是……睡著了?	まさか……自分は今、寝てたか？	나 설마… 잠든 건가?	Was I... sleeping?						0	
+page0.4	嗯，我打扰到你了吗？	嗯，打擾到你了嗎?	邪魔しちゃったかな、申し訳ない……休める時にゆっくり休んで？	네, 제가 방해했나요?	Yeah, am I bothering you?						0	
+page0.5	不会不会，要是就这样睡过去……迟到，失去荣耀……	不會不會，要是就這樣睡下去……遲到，顏面掃地……	いや、このまま寝ていたら分析員との約束に遅刻して、顔も合わせられなくなる……	아니, 아니, 이대로 잠들었다면… 지각에다가 명예 실추…	No, not at all. If I just nap like this... I'll be late and tarnish my honor...						0	
+page0.6	那才是最恐怖的事情。	那才是最恐怖的事情。	自分の存在そのものが恥となる……	그것들이야말로 내가 제일 무서워하는 거야.	Nothing could be worse than that.						0	
+page0.7	谢谢你，分析员。	謝謝你叫醒我，分析員。	ありがとう、分析員。感謝する。	고마워, 분석가.	Thank you, Adjutant.						0	
+page0.8	小事儿。	不客氣。	恥だなんてそんな……ミッション中の居眠りでもないんだ、気にしないで。	별말씀을요.	No problem.						0	
+page0.9	不过，你刚才说预约时间是吧。	你剛才說要預約時間對吧。	だが、さっき日時の話をしてたよな。	그보다, 방금 시간 예약하라고 했지?	Anyway, you were just talking about the time for my maintenance appointment, right?						0	
+page0.10	分析员对时间有要求吗？	分析員有希望的時間嗎?	分析員の都合のいい時間帯は？	분석가는 어때? 특별히 원하는 시간이 있어?	Do you have any preferences for when we go, Adjutant?						0	
+page0.11	我这边倒还好。	我都可以。	私はいつでも大丈夫だ。	전 상관없어요.	Any time is fine with me.						0	
+page0.12	那……能不能麻烦安排在晚上十一点之后呢？	那……能不能安排在晚上十一點之後呢?	なら……夜の11時以降で調整してもらえるか？	그럼… 혹시 밤 11시 이후로 예약해도 될까?	Then... could you schedule it for sometime after 11 PM tonight?						0	
+page0.13	虽然这么说有点自私，但最近的安排的确……有点紧密。	雖然這樣有點自私，但最近的行程確實……有點滿檔。	自分勝手な言い方で申し訳ないが、最近のスケジュールが……少しきつくてな。	좀 이기적이게 들릴 수 있겠지만, 요즘 일정이 너무… 빡빡해서.	I know it's a little selfish, but recently... I've been pretty busy.						0	
+page0.14	有不少新人向我咨询。	因為有不少新人跟我諮詢。	多くの新人の相談にも乗っている。	나에게 상담을 요청하는 신입이 한두 명이 아니거든.	A lot of newbies have been coming to me for help.						0	
+page0.15	我这边没事，只是……	我這裡沒問題，只是……	こちらは大丈夫だけど、ただ……	전 괜찮아요, 다만…	That's alright with me, but...						0	
+page0.16	感觉你需要好好休息。	感覺你需要好好休息。	君はちゃんと休んだ方がいいと思う。	좀 쉬셔야 할 것 같아요.	I feel like you need to rest.						0	
+page0.17	我吗？我没问题的。	我嗎?我沒問題的。	自分が？自分なら大丈夫。	나 말이야? 난 괜찮아.	Me? I'm completely fine.						0	
+page0.18	能被大家所倚靠，是我的荣幸。	能受到大家的依賴是我的榮幸。	皆に頼られて、とても光栄だ。	모두에게 의지가 될 수 있다면, 내 영광이지.	It's an honor to be depended on.						0	
+page0.19	所以我这不也倚靠着分析员嘛……今天晚上就拜托了。	所以我不也開始依賴分析員了嘛……今天晚上就麻煩你了。	だから私も分析員を頼っているんだ……では、今晩はよろしく。	그래서 나도 분석가에게 기대는 거잖아… 오늘 밤에 잘 부탁해.	So now I'm depending on you, Adjutant... Please take care of me tonight.						0	
+page0.20	这可是大厅，别说这种容易让人误会的话喂！	這裡可是大廳，別說這種會讓人誤會的話啊!	ここはロビーだぞ、そういう誤解を招くようなことを言うんじゃない！	여긴 로비예요, 남들이 오해할 만한 말은 하지 마세요!	We're in the hall! Don't say stuff people could easily misunderstand!						0	

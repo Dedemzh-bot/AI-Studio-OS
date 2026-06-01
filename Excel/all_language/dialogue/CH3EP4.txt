@@ -1,0 +1,136 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这群家伙连我都不认识了吗？	這群傢伙連我都不認識了嗎？	こいつら私のことも知らないのか？	저 녀석들은 내가 누군지도 모르나?	Does nobody recognize me anymore?!?						0	
+2	叶到底在弄些啥啊！	葉到底在弄些什麼啊！	葉は何してるの！	블레이드는 도대체 무슨 꿍꿍이지!	What the heck is Ye up to?						0	
+3	附近威胁已清空。	附近威脅已清空。	付近の脅威をクリア。	근처에 위협될만한 것들은 전부 처리했어.	Nearby threats neutralized.						0	
+4	playername，按照你说的，没有下狠手。	playername，按照你說的，沒有下狠手。	playername、あんたの言った通り手加減しておいたわ。	playername, 네가 말한 대로 그렇게 심하게 다루진 않았어.	Minimal casualties, playername, we did it like you said.						0	
+5	负伤的拾荒者和平民，也给他们发放了相应的药物。	也給受傷的拾荒者和平民發放了相應的藥物。	負傷したスカベンジャーと一般人たちにも、薬を渡したわよ。	부상당한 피난민들하고 사람들한테 약품도 보급해 줬고.	We've patched a couple of civilians who got caught in the crossfire, did what we could.						0	
+6	对卡罗琳那边的汇报你可要头疼一下了，我说你干嘛自找这些麻烦。	對卡羅琳那邊的匯報你可要頭痛了，我說你幹嘛自找這些麻煩。	あんたカロリンにどう報告するつもり？どうして自ら面倒事に関わろうとするのよ。	캐롤린한테 보고하려면 머리 아프겠다… 왜 이런 고생을 사서 하는 건지 참…	You've made writing up your debriefing report a whole lot more difficult, standard practice is just to go in guns blazing. Hope you know what you're doing.						0	
+b-1											0	
+7	没关系，我会应付。	沒關係，我會應付。	大丈夫だ、なんとかする。	괜찮아. 뒤는 내가 알아서 처리할게.	I'll be fine, it's not an issue.						0	
+8	我认为分析员在做正确的事情。	我認為分析員在做正確的事情。	分析員は正しいことをしている。	분석가가 옳은 일을 하고 있다고 생각해.	It was the right call.						0	
+9	至少我认为正确。	至少我認為正確。	少なくとも私はそう思っている。	적어도 난 그렇게 생각하고 있어.	As far as I'm concerned, anyway.						0	
+10	倒不是说正不正确啦……	倒不是說正不正確啦……	別にっ、正しくないなんて言ってないわよ……	나도 옳은 일이 아니라고 말한 적은 없거든…	I never said it wasn't the right thing to do!... you know that wasn't my point...						0	
+11	嗯……变量参数设置完毕，开始沿时间戳反向验证是否遵循线性链接协议……	嗯……變量參數設定完畢，開始沿時間戳記反向驗證是否遵循線性連接協議……	うん……変数パラメーター設置完了、線型性リンクプロトコルに準拠しているかを確認するためにタイムスタンプに沿って逆方向の検証を開始する……	음… 데이터 설정은 다 됐어. 선형 연결 프로토콜을 잘 따르고 있는지 타임스태프를 따라 역순으로 추적해 보면…	Hmmm... that's all the parameters configured... follow the timestamps back... linear linking protocol... reverse that, then ...						0	
+12	哼哼！这些坏家伙果然还在使用“火种”！	哼哼！這些壞傢伙果然還在使用“火種”！	ふんふん！悪い奴め、「火種」まで使ってるのか！	그럼 그렇지… 후후… 이 녀석들 아직도 '불씨'를 쓰고 있었어!	The little demons! They're still using "Ember"!						0	
+13	这样一来，不就可以……	這樣一來，不就可以……	これじゃ、もしかして……	그렇다고 한다면…	Well, if that's what they're doing, we can just...						0	
+14	分析员！他们是通过伪造时间戳骗过了我的芙提雅·伊格妮丝专用网络协议分析程序！	分析員！他們是透過偽造時間戳記騙過了我的芙提雅·伊格妮絲專用網路協議分析程式！	分析員！彼らは偽造したタイムスタンプで私のフリティア・イグニス専用ネットプロトコル分析システムを欺いていたよ！	분석가, 녀석들은 타임스태프를 이용해서 프티야 이그니스의 전용 네트워크 프로토콜 분석 프로그램을 속였던 거야!	Adjutant! They spoofed the network protocols using fake timestamps! I wrote those protocols myself...						0	
+15	刚刚出现在这里的逐光者，都不是本人哦，而是采用最前沿技术的拟真全息影像。	剛剛出現在這裡的逐光者都不是本人哦，而是採用最先端技術的擬真全息影像。	さっきここに現れた逐光者は全部本人じゃない、最新技術の擬態ホログラムだ！	다시 말해서 방금 이곳에 나타났던 축광단은 본인이 아닌 최첨단 기술을 적용한 홀로그램이라는 거지.	The Light Chasers we saw weren't actually here, they were just holographic projections... cutting-edge tech, very realistic...						0	
+b-2											0	
+16	贝翠斯发过来的坐标就是这里，难道……	貝翠斯發過來的座標就是這裡，難道……	ベアトリスから送られた座標の位置はここだよな、もしかして……	베아트리체가 보낸 좌표는 여기였는데, 설마…	The coordinates Beatrice sent lead here. Could it really...						0	
+17	糟糕糟糕！这样一想！贝翠斯向我们求助的事情，难道已经被迪特里希发现了？！	糟糕糟糕！這樣一想！貝翠斯向我們求助的事情，難道已經被迪特里希發現了？！	まずいまずい！これはつまり！ベアトリスが私たちに助けを求めたこともディートリッヒにバレてるんじゃない！？	혹시… 베아트리체가 우리에게 도움 요청하는 걸 디트릭에게 들킨 건가?	Dietrich worked out what she was up to? That's what you're thinking?... that really would be bad...						0	
+18	那得赶紧去找小贝翠斯！	那得趕快去找小貝翠斯！	早くベアトリスちゃんを探さないと！	그럼 어서 베아트리체부터 찾아야 해!	We need to find Beatrice!						0	
+b-3											0	
+auto_b-3	芙提雅，你有办法追踪到他们的真实位置吗？	芙提雅，你有辦法追蹤到他們的真實位置嗎？	フリティア、彼らの本当の位置を探れるか？	프티야, 그들의 실제 위치를 추적할 수 있겠어?	Fritia, is there any way to determine their location?						0	
+20	没问题！包在芙提雅老师身上！	沒問題！包在芙提雅老師身上！	問題ない！フリティア先生に任せて！	물론이지! 맡겨만 줘!	I can do it! Leave it to me!						0	
+21	贝翠斯，你已经忘记我们一起发过的誓言了吗？	貝翠斯，你已經忘記我們一起發過的誓言了嗎？	ベアトリス、俺たちが共に誓ったことをもう忘れたのか？	베아트리체, 우리가 맹세했던 것들을 벌써 잊은 거야?	We Light Chasers made a pledge, Beatrice... or did you forget?						0	
+22	大家要一起变得闪耀的约定。	大家要一起變得閃耀的約定。	皆が共に輝く、その約束を。	다 같이 빛나는 삶을 살아보자는 그 맹세 말이야.	A pledge to strive for brilliance.						0	
+23	不是……首领，我只是不明白。	不是……首領，我只是不明白。	違う……ボス。ただ分からなくて。	아니… 그냥 이해가 안 돼서 그래.	I remember... never did know what you meant, Dietrich.						0	
+24	狩猎那些普通人，要怎么帮助我们变得闪耀？我们应该像海姆达尔部队一样跟泰坦作战……	狩獵那些普通人，要怎麼幫助我們變得閃耀？我們應該像海姆達爾部隊一樣跟泰坦作戰……	一般人を狩ることで、どうして私たちが輝くの？ヘイムダル部隊のようにタイタンと戦うべきじゃ……	일반인들을 사냥하는 것이 빛나는 삶하고 무슨 관계가 있다는 거지? 차라리 헤임달 부대처럼 타이탄하고 싸우는 게…	Where's the brilliance in hunting people for sport? The Heimdall Force are off fighting Titans and we're striving for brilliance by killing people at random...						0	
+25	普通人？你是管那些得了成年病的劣等人叫普通人？还是管那些被泰坦物质污染的畜生叫普通人？	普通人？你是說那些得了成年病的劣等人叫普通人？還是說那些被泰坦物質汙染的畜生叫普通人？	一般人？ティーン症候群を罹った劣等種が一般人だと？あるいはタイタン物質に汚染された畜生共が一般人だと思うのか？	일반인? 성인병이 걸린 열등 인종들을 일반인이라고 부르는 거야? 아니면 타이탄 물질에 감염된 짐승 같은 인간들?	People? These Juvosis-soaked dregs count as people in your eyes? Those Titagen-corrupted cow-things are people?						0	
+26	再说，观看我们直播的粉丝可是相当喜欢“狩猎”这一环节。	再說，觀看我們直播的粉絲可是相當喜歡“狩獵”這一節目。	それに、俺たちのライブ配信のファンたちは「狩り」のコーナーを結構気に入ってくれている。	우리 라이브 팬들이 '사냥' 코너를 얼마나 사랑하는 줄 알아?	The viewers on the livestreams clearly don't have any problem with the "Hunts."						0	
+27	你知道一场“狩猎”我们能涨多少粉吗？整整五十万！	你知道一場“狩獵”我們能暴漲多少粉嗎？整整五十萬！	「狩り」を一回するだけでファンがどのくらい増えるか知ってるか？50万だぞ！	'사냥'을 한번 할 때마다 구독하는 팬들이 얼마나 늘어나는 줄은 알고?	Do you know how many followers we pick up during a single Hunt? Half a million!						0	
+28	这是我与大家一同享有的，不输于海姆达尔部队的光环，正是它让我们变得闪耀……	這是我與大家一同享有的，不輸於海姆達爾部隊的光環，正是它讓我們變得閃耀……	これこそ俺がみんなと共有したいものだ。ヘイムダル部隊にも劣らない輝き、これでみんなが輝いていられる……	헤임달 부대 못지않게 우리도 많은 걸 누릴 수 있다고. 이를 계기로 우리 삶이 빛날 수 있는 거고.	We share in this brilliance, all of us Light Chasers, no one can say the Heimdall Force shines brighter...						0	
+29	这不正是你想要的吗？	這不正是你想要的嗎？	お前が求めているものでもあるだろ？	왜? 이건 네가 바라는 게 아니야?	Was this not what you wanted?						0	
+30	贝翠斯，我为实现我们共同的理想花了多少心血，你又给我什么样的回报呢？	貝翠斯，我為實現我們共同的理想花了多少心血，而你又給了我什麼回報呢？	ベアトリス、俺たちの理想のために俺は心血を注いだ。お前は何をもって恩を返す？	베아트리체, 우리가 꿈을 이루기 위해 얼마나 많이 노력했는데. 넌 왜 항상 이런 식으로 나오는 거지?	Beatrice, how much blood have I shed in the name of our ideals? You repay me like this?						0	
+31	好了……我不想过多指责你，毕竟逐光者是我们两个一起建立起来的。	好了……我不想過於指責你，畢竟逐光者是我們兩個一起建立起來的。	もういい……これ以上責める気はない。逐光者は俺たち二人が築き上げたものなのだから。	됐어… 어쨌거나 축광단은 우리 둘이서 세운 거니까.	Enough, enough... I can't keep piling criticism on you... the Light Chasers are our child, yours and mine, our shared creation.						0	
+32	不过……下个月，我的“刻耳柏洛斯”应该能够完成设计吧？	不過……下個月，我的“刻耳柏洛斯”應該能夠完成設計吧？	それに……来月になったら、俺の「ケルベロス」の設計も完成するよな？	다음 달에 '케르베로스' 설계는 마칠 수 있겠지?	Anyway... you'll have the designs for my "Cerberus" ready by next month?						0	
+33	上次那件事后，家里不让我再借用实验室了……	上次那件事後，家裡不再讓我借用實驗室了……	この前の一件で、家の人はもうラボを使わせてくれないんだ……	저번 일 때문에 집에서 더 이상 실험실을 사용할 수 없게 됐어…	I've been told I can't use the family laboratory anymore, not after what happened the last time...						0	
+34	那就想想办法……贝翠斯，你一直都有办法的。	那就想想辦法……貝翠斯，你一直都有辦法的。	じゃあなんとかしろよ……ベアトリス、お前ならできる。	그래. 그럼 방법을 생각해야지… 베아트리체, 넌 항상 방법을 생각해냈었잖아.	Well, think of something then... you always think of something.						0	
+35	好了，我该接待远道而来的客人了。	好了，我該接待遠道而來的客人了。	よし、俺も遥々来てくれたお客さんたちを出迎えないとな。	자, 난 이제 멀리서 온 손님들을 맞이하러 가야 할 거 같아.	I should go greet our guests, they've come such a long way.						0	
+36	……	……	……	…	...						0	
+37	喂！这家伙果然就在这儿！	喂！這傢伙果然就在這！	おい！こいつやっぱりここにいるじゃないか！	어이! 여기 있었구만.	Hey! The punk's over here!						0	
+38	这回你别想再跑掉！	這回你別想再跑掉！	今回は逃さないぞ！	이번에는 도망칠 생각하지 마라.	Don't even think about trying to run off again!						0	
+39	好险好险，幸好只是全息影像在这，不然就要挨揍了呢。	好險好險，幸好只是全息影像在這，不然就要挨揍了呢。	危ない危ない、ホログラムを映しておいて良かった。じゃなきゃ殴られるところだったぜ。	후… 홀로그램이라서 다행이지. 하마터면 큰일 날 뻔했군.	That was rather close! Good thing I'm not here... just a hologram... would have to give you a thrashing, otherwise.						0	
+40	？！	？！	！？	?!	!?						0	
+41	跟我玩赖的是吧！	跟我賴皮是吧！	ズルしたな！	끝까지 장난질이네 이게!	You want some, do you?						0	
+42	怎么会怎么会！	怎麼會怎麼會！	なんでなんで！	뭐야? 어떻게 된 거야!	What the heck?						0	
+43	哈哈哈哈哈哈，看见你们那错愕的样子真是有趣极了！	哈哈哈哈哈哈，看見你們那錯愕的樣子真是有趣極了！	はははははは！！その戸惑う顔、最高に面白い！	아하하하하하하! 당황해하는 모습들 좀 봐! 볼만하네 참.	Hahah! Your faces, so confused, exquisite! Life's little pleasures!						0	
+44	芙提雅·伊格妮丝，你还在试图通过我们使用的“火种”来定位坐标吧？	芙提雅·伊格妮絲，你還在試圖透過我們使用的“火種”來定位座標吧？	フリティア・イグニス、俺たちが使う「火種」で座標を特定しようとしたな？	프티야 이그니스, 설마 아직도 우리가 썼던 '불씨'로 좌표를 추적하고 있는 건 아니겠지?	Ms. Fritia Ignis, you've been attempting to track us through "Ember"?						0	
+45	虽说作为“火种”的开发者，我承认你的智力与我们在同一层次。	雖說作為“火種”的開發者，我承認你的智力與我們在同一層次。	「火種」の開発者として、我々に並ぶ知能を持つことは認めよう。	'불씨' 개발자인 네 능력이 우리와 비슷한 수준이란 건 인정하지.	It should go without saying that as Ember's creator, I look on you as a respected equal.						0	
+46	但你也不想想，“火种”早就被我们升级过了啊！而且升级它的人，正是你的好朋友贝翠斯哦。	但你也不想想，“火種”早就被我們升級過了啊！而且升級它的人，正是你的好朋友貝翠斯哦。	しかし、「火種」はとっくに俺たちの手によってブラッシュアップしたんだよ！それにそれを実行したのは、お前の親友のベアトリスだ。	하지만 우리가 '불씨'를 업그레이드할 거란 생각은 안 했나 보지? 이걸 업그레이드를 한 장본인이 바로 네 친구 베아트리체거든.	Quite why you wouldn't have thought that we would have upgraded Ember, I really can't fathom! Dear Beatrice rewrote the code herself.						0	
+47	“火种”这份礼物，我代表逐光者正式收下了，多谢多谢，多亏了它，我们的无人机才能在零区里飞起来啊。	“火種”這份禮物，我代表逐光者正式收下了，多謝多謝，多虧了它，我們的無人機才能在零區裡飛起來啊。	「火種」というプレゼント、逐光者を代表し受け取らせてもらう。礼を言うぞ。こいつのおかげで、我々のドローンはエリアゼロで飛ぶことができた。	축광단을 대표해서 '불씨' 선물에 감사의 인사를 전할게. 덕분에 제로 구역에서 드론도 날릴 수 있게 됐고 말이야.	Ember has been such a gift, we Light Chasers really must thank you. Without Ember, our drones could never grace the skies of this Containment Zone!						0	
+48	……	……	……	…	...						0	
+49	迪特里希的表现相当欠打，我以为芙提雅会生气，但异样的神情只是在她脸上一闪而过。	迪特里希的表現相當欠打，我以為芙提雅會生氣，但異樣的神情只是在她臉上一閃而過。	ディートリッヒは挑発を続けた。フリティアは怒ると思ったが、違った。彼女はただ無表情で黙ってずっと聞いていた。	디트릭이 하도 비아냥거려 프티야가 화 낼 거라 생각했지만, 프티야는 금세 평정심을 되찾았다.	Dietrich had raised the act of being intentionally irritating into a form of high art. I was impressed to see Fritia keep her cool, squinting for the briefest of moments before replying...						0	
+50	是嘛是嘛！被贝翠斯升级过了啊，看来我也要认真起来了呢！	是嘛是嘛！被貝翠斯升級過了啊，看來我也要認真起來了呢！	そうかそうか！ベアトリスが改良したんだね、じゃあ私も本気を出さないと！	그렇구나! 베아트리체가 업그레이드를 한 거였어. 나도 이제 분발해야겠네!	Oh, really? If Beatrice is working on it, I'll have to raise my game!						0	
+auto_8845	 		 		Mic check, one, two.						0	
+b-4											0	
+20_1	别急，我还有一件事要拜托你。	別急，我還有一件事要拜託你。	待って、もう1つ頼み事がある。	잠깐, 아직 부탁하고 싶은 게 하나 더 있어.	There's no rush — I have one more thing to ask you.						0	
+20_2	我悄悄询问了芙提雅一些技术上的细节，确定了某些事情的可行性。	我悄悄詢問了芙提雅一些技術上的細節，確定了某些事情的可行性。	フリティアに技術の詳細を密かに聞き、あることの実現性を確認した。	난 기술에 관련된 것들을 프티야에게 조용히 물어보면서 혹시나 발생할 일들의 가능성에 대해 파악했다.	I discreetly asked Fritia about various technical details, confirming a few possibilities.						0	
+51	迪特里希……是吗？	迪特里希……是嗎？	ディートリッヒ……だな？	디트릭… 이라고?	Dietrich... is that true?						0	
+52	啊，看来您就是那位大名鼎鼎的分析员啊。	啊，看來您就是那位大名鼎鼎的分析員啊。	ほう……名を轟かせている分析員ってのはお前のことか。	오… 이게 누구야… 네가 그 유명한 분석가구나?	You would be the "Adjutant" I've been hearing so much about, no doubt.						0	
+53	没错，吾人迪特里希。	沒錯，吾人迪特里希。	ああ、俺はディートリッヒ。	그래. 내가 바로 디트릭이야.	I, good sir, am Dietrich.						0	
+54	说完了客套话，我倒是要问问，分析员阁下，为什么要带着海姆达尔的人，来打扰我狩猎的雅兴呢？	說完了客套話，我倒是要問問，分析員閣下，為什麼要帶著海姆達爾的人來打擾我狩獵的雅興呢？	一つ聞かせてくれないか、分析員サン。お前はどうしてヘイムダルの人間を連れて、俺の狩りの嗜みを邪魔する？	인사치레는 이 정도로 하고 질문 하나만 할게. 대체 왜 헤임달 사람을 데리고 와서 나의 흥미로운 사냥 시간을 방해하는 거지?	Pleasantries aside, I'm afraid I have to ask, dear Adjutant, why would you choose to bring Heimdall Force operatives to disrupt an elegant pastime like this glorious Hunt?						0	
+b-5											0	
+55	陶董指派的任务，前来调查布里希嘉曼失窃的事件。	τ董指派的任務，前來調查布里希嘉曼失竊的事件。	τからの指示だ。ブリーシンガメンの盗難を調査しに来た。	τ 이사가 브리히가만 도난 사건을 조사하라는 미션을 줬거든.	We're investigating the theft of the Brisingamen, on the orders of Director τ.						0	
+56	布里希嘉曼？什么东西？	布里希嘉曼？什麼東西？	ブリーシンガメン？なんだそれ？	브리히가만? 그게 뭔데?	Brisingamen? What might that be?						0	
+b-6											0	
+57	那是公司的重要资产，希望你配合调查。	那是公司的重要資產，希望你配合調查。	会社の大事な財産だ。調査の協力を願いたい。	우리 회사의 중요한 자산이라. 협조 좀 해줘.	Company property. I hope we can expect your full co-operation.						0	
+58	喂喂喂？分析员阁下？我想你搞错了一件事情。	喂喂喂？分析員閣下？我想你搞錯了一件事情。	おいおいおい、分析員サンよぉ、なんか勘違いしてないか？	이거, 이거… 잠깐만… 분석가. 지금 뭔가 잘못 알고 있는 거 같은데?	Adjutant, Adjutant, Adjutant... you seem to have the wrong end of the stick.						0	
+59	公司的重要资产？那不就是我自家的东西吗？	公司的重要資產？那不就是我自家的東西嗎？	会社の大事な財産だって？うちの物同然じゃないか？	회사의 중요한 자산? 그럼 결국에 우리 집 물건이기도 하잖아?	Company property? That would make it my property.						0	
+60	你竟然会怀疑我偷自己家的东西？	你竟然會懷疑我偷自己家的東西？	俺が自分の物を盗んだとでも？	내가 우리 집 물건을 훔쳤다고 의심하는 건가?	How can I steal something that already belongs to me?						0	
+61	既然事已至此，看在你是分析员的份上，我们都给对方一个台阶下好了。	既然事已至此，看在你是分析員的份上，我們都給對方一個台階下好了。	まあ、こんな事態になった以上、ここは手を打とうじゃないか。	일이 이렇게 된 이상, 네가 분석가 신분인 걸 감안해서 서로 조금씩 양보하는 게 좋겠군.	Since it's come to this, let's not embarrass each other. What do you say, Adjutant?						0	
+62	不过我希望你以后能记得，不要拿陶董来压我。	不過我希望你以後能記得，不要拿τ董來壓我。	だが、これだけは覚えておけ。τの名前を出して俺を脅しても無駄だ。	그리고 다음부터는 τ 이사로 날 협박하지 안 했으면 좋겠어.	I do have to ask you not to brandish Director τ's name at me. That would be in your best interests.						0	
+63	一台无人机降落在我面前，没注意到是从哪个角落里出现的。	一台無人機降落在我面前，沒注意到是從哪個角落裡出現的。	ドローンが一機、目の前で着地した。どこから来たのか全く分からなかった。	순간 아무런 인기척도 없이 갑자기 드론 한 대가 내 앞에 나타났다.	A drone landed softly before us. Where it had popped up from I wasn't really sure.						0	
+64	芙提雅·伊格妮丝，我允许你查查逐光者这几天的直播和指令时间戳。	芙提雅·伊格妮絲，我允許你查查逐光者這幾天的直播和指令時間戳記。	フリティア・イグニス。逐光者の最近の配信アーカイブと指令タイムスタンプへのアクセスを許可する。	프티야 이그니스, 요 며칠 동안 내가 했던 방송하고 타임스탬프들을 찾아보는 걸 허락해 주지.	Ms. Ignis, you'll do the honors? I hereby give you permission to review its contents, including the timestamp data from our last few Light Chaser livestreams.						0	
+65	这已经足够了吧？分析员阁下？	這已經足夠了吧？分析員閣下？	これで足りるかな？分析員サン？	그 정도면 충분하지?	That should sate your curiosity, sweet Adjutant.						0	
+66	我想起那些遭受“狩猎”的拾荒者、平民、郊狼。	我想起那些遭受“狩獵”的拾荒者、平民、郊狼。	「狩られる」スカベンジャーや一般人、先ほどのコヨーテのことを思い出す。	순간 '사냥'을 당한 피난민, 시민, 코요테들의 모습이 떠올랐다.	... all those people caught up in their Hunts...						0	
+b-7											0	
+67	根据规定，你需要跟我回世界树公司总部接受讯问。	根據規定，你需要跟我回世界樹公司總部接受訊問。	規定に従い、私とユグドラシル本社に戻り尋問を受ける必要がある。	아니. 규정에 따라 넌 오늘 나랑 위그드라실 본부로 가서 심문을 좀 받아야겠어.	As I understand it, company regulations require us to bring you to Headquarters for questioning.						0	
+68	啊哈？	啊哈？	はぁ？	오호라…?	Pardon?						0	
+68_1	不会吧不会吧？你认真的？	不會吧不會吧？你認真的？	おいおいおい……本気かよ？	설마, 진심이야?	No way... No way! Are you serious?						0	
+69	防护服上的通讯器，忽然收到来自卡罗琳的文字短讯。	防護服上的通訊器，忽然收到來自卡羅琳的文字簡訊。	防護服の通信機に、突然カロリンからの文字メッセージが表示された。	그 순간 방호복에 장착된 단말기로 캐롤린이 문자를 보내왔다.	The communicator on the wrist of my suit chimed, a message from Caroline on the screen.						0	
+70	“不要抓住逐光者不放！！！”	“不要抓住逐光者不放！！！”	「逐光者に執着しないように！！！」	'축광단은 그만 놓아주세요!!!'	"No Light Chaser captives! Release them now!!!"						0	
+71	卡罗琳专门在结尾打了三个感叹号。	卡羅琳專門在結尾打了三個驚嘆號。	カロリンはご丁寧に「！」を3つも重ねていた。	캐롤린은 마치 강조를 하듯 마지막에 느낌표를 3개나 찍어서 보내왔다.	She'd used three exclamation marks...						0	
+72	我好像看出来你的态度有所转变了呢。	我好像看出來你的態度有所轉變了呢。	ん？気迫がいきなりなくなった気がするな。	보아하니 태도가 조금 바뀐 거 같은데.	I take from the look on your face you're having a change of heart.						0	
+73	我看着感叹号，陷入沉默。	我看著驚嘆號並陷入沉默。	3連続の「！」を見た私は、流石に沈黙した。	난 문자를 보며 깊은 고심에 빠졌다.	My heart drowned, sunk with the weight of three little exclamation marks.						0	
+74	芙提雅接入无人机端口，开始检查逐光者的行动轨迹和直播内容。	芙提雅接入無人機接口，開始檢查逐光者的行動路徑和直播內容。	フリティアはドローンにアクセスし、逐光者の移動経路と配信内容をチェックしてるようだ。	프티야는 드론 단자를 연결해 축광단의 행적과 방송 내용을 살펴봤다.	Fritia hooked her gear to the drone and worked her way through the footage, retracing the Light Chasers' steps.						0	
+75	之后她冲我轻轻摇了摇头，证实了迪特里希的话：逐光者确实与此事无关。	之後她朝我輕輕搖了搖頭，證實了迪特里希的話：逐光者確實與此事無關。	しばらくして、彼女は私を見て首を横に振る。確かにディートリッヒの言う通り、逐光者はこの件とは無関係だ。	그리고 얼마 지나지 않아 그녀는 나를 향해 고개를 저었고, 축광단이 이번 사건과 관련이 없다는 것을 알려줬다.	A gentle shake of her head... Dietrich was telling the truth. Whoever took the Brisingamen, it wasn't the Light Chasers.						0	
+76	喂，分析员，难道就这么算了？	喂，分析員，難道就這麼算了？	ねえ分析員、このままでいいの？	이봐, 분석가, 그냥 이렇게 끝내려는 거야?	Hey, Adjutant, that's it?						0	
+77	他们刚才可是……你要是没种就让我来！回去我承担所有责任！	他們剛才可是……你要是沒種就讓我來！回去我承擔所有責任！	奴らはさっきまで……チッ、やらないなら私がやる！全責任も私が取るっ！	하지만 방금 저 녀석들이… 걱정이 되는 거면 내가 알아서 할게! 돌아가서 다 내가 책임지면 되잖아!	They just... If you're gonna be a coward, I'll do it! I'll take responsibility after the mission is over!						0	
+78	我叹了一口气……	我嘆了一口氣……	私は覚悟を決め、静かにため息をはいた。	난 한숨이 나왔다…	I let out a sigh...						0	
+b-9											0	
+b-8											0	
+79	小太阳，病毒植入好了吗？	小太陽，病毒植入好了嗎？	おひさまちゃん、ウイルスの移植は成功したか？	리틀썬, 바이러스 삽입은 끝난 거야?	Little Sunshine, did you implant the virus?						0	
+80	嘿嘿~搞定了~这下随时都可以定位他们在零区内的坐标！	嘿嘿~搞定了~這下隨時都可以定位他們在零區內的座標！	ふんふん～もちろん！これでいつでも彼らのエリアゼロ内の座標を特定できる！	헤헤~ 완성~ 이제 언제든지 제로 구역에서 목표의 위치를 파악할 수 있어!	Hehe~ Yep, it's all done! Now you can pinpoint their coordinates within the Containment Zone anytime!						0	
+81	playername！你小子！是不是活腻了敢找本少爷的麻烦？！	playername！你這小子！是不是不想活了敢找本少爺的麻煩？！	playername！貴様！この俺様の邪魔をするとはいい度胸だな！	playername! 이 자식! 감히 이 몸을 귀찮게 해?!	playername! You little brat! Are you looking for trouble with Master Dietrich since you're bored at work!?						0	
+82	我直接切断了迪特里希的通讯信号。	我直接切斷了迪特里希的通訊訊號。	私はディートリッヒとの通信を切断した。	난 디트릭과의 통신을 끊어버린다.	I immediately cut off Dietrich's communication signal.						0	
+83	分析员，信号就在这里，误差不超过十五米！	分析員，訊號就在這裡，誤差不超過十五公尺！	分析員、信号源はここだよ。誤差15メートル以内のはず！	분석가, 신호의 위치는 여기야. 오차 범위는 15m 안이고!	Adjutant, the signal points here. It should be within 15 meters!						0	
+84	我们包围了这栋建筑，然后鸣枪驱散了其他的“逐光者”，这些富家公子和小姐亲耳听见枪声时就像鸟兽般一哄而散。	我們包圍了這棟建築，然後鳴槍驅散了其他的“逐光者”，這些富家公子和小姐聽見槍聲時立刻如鳥獸散。	私たちは建物を包囲すると、威嚇射撃で他の「逐光者」を追い払う。「逐光者」とは、若く世間知らずで傲慢なお坊ちゃんとお嬢ちゃんたちで構成された組織だ。そんな彼らの多くは、銃声を聞いた途端、一目散に逃げ出した。	우리는 건물을 포위하고 공포탄을 발포해서 '축광단'을 해산시켰다. 이 부잣집 자제들은 총성을 듣자, 나무에서 쉬던 새들처럼 흩어진다.	We surrounded the building, firing shots to break up the other "Light Chasers." When those rich kids heard our gunshots, they scattered like birds.						0	
+85	我们唯独没有放过那位祸首。	我們唯獨沒有放過那位罪魁禍首。	だが、全ての元凶の男だけは逃さない。	이제 남은 건 이 모든 일을 벌인 원흉이다.	However, we didn't take our eyes off our target.						0	
+86	我最后在一堆布满灰尘的货架中，发现了躲起来的“迪特里希少爷”。	我最後在一堆布滿灰塵的貨架中，發現了躲起來的“迪特里希少爺”。	埃だらけの棚の間に、身を隠している「ディートリッヒの坊や」を見つけた。	끝내 난 먼지가 가득 쌓인 짐칸에 숨어있던 '디트릭 도련님'을 찾아내는데…	I finally discovered "Master Dietrich" cowering among a heap of dusty shelves.						0	
+87	他趴在布满碎水泥块的地上，用一块脏污的篷布盖住自己。	他趴在布滿碎水泥塊的地上，用一塊骯髒篷布蓋住自己。	彼はセメントの欠片が散らばる地面に伏せ、薄汚いシートで体を覆っていた。	시멘트 조각이 잔뜩 흩어져 있는 땅에 엎드려서 더러운 천으로 자신을 덮고 있다.	He was laying down on his stomach on top of broken cement blocks and had covered himself with a filthy tarp.						0	
+b-10											0	
+88	（踹他屁股）	（踹他屁股）	（尻を蹴る）	(엉덩이를 찬다)	(Kick his butt)						0	
+89	（揪住衣领拎起来）	（揪住衣領拎起來）	（襟を掴んで引き上げる）	(옷을 붙잡아 일으킨다)	(Grab him by the collar and lift him up)						0	
+90	你……你们想要干什么？他*的，你不过是公司养的一条狗……	你……你們想要幹什麼？他*的，你不過是公司養的一條狗……	な……何をするつもりだ！畜生め、会社の飼い犬のくせに……	너희들… 지금 무… 무슨 짓을 하려는 거지? 젠*, 넌 그저 회사에서 키우는 한 마리 강아지일 뿐이라고…	W...What are you planning on doing? You're nothing more than a company lapdog, you...						0	
+91	失去了全息影像的保护，瘦弱的富家子弟已然没有了那份淡定和从容。	失去了全息影像的保護，瘦弱的富家子弟已然沒有了那份淡定和從容。	ホログラムではなくなった男には、余裕も自信も何もなかった。	더 이상 홀로그램 너머의 존재가 아니게 된 부잣집 도련님에게 원래의 여유는 온데간데없었다.	Without the safety net of his hologram, the puny rich kid had lost his prior composure.						0	
+e-1											0	
+92	左勾拳。	左勾拳。	左フック。	레프트 훅.	Left hook.						0	
+93	右勾拳。	右勾拳。	右フック。	라이트 훅.	Right hook.						0	
+94	上勾拳。	上勾拳。	アッパーカット。	어퍼컷.	Uppercut.						0	
+95	真行啊……playername……你真行啊……	真行啊……playername……你真行啊……	やってくれたな……playername……よくも……	그래… playername… 그렇게 나오겠다는 거지…	You're really something... playername... Really something...						0	
+96	你他*给我等着，你好好的……给我等着！	你他*給我等著，你脖子洗乾淨……給我等著！	待ってろよ貴様、首を洗って……待っていろ！	너 이**, 두고 봐! 딱 기다려!	You just wait! Oh... you just wait...						0	
+97	暴怒代替了惶恐，我能看到他歇斯底里时额头上跳动的青筋。	暴怒代替了惶恐，我能看到他歇斯底里時額頭上跳動的青筋。	怒りが恐怖を上回り、怒り狂う彼の額に血管が浮かび上がる。	분노가 두려움을 넘어 이마에 생기는 핏대까지 보인다.	Fury replaced his panic. I could clearly see a vein popping out of his forehead as he descended into hysteria.						0	
+b-12											0	
+98	你着什么急？	你著什麼急？	一旦落ち着かないか？	뭘 그렇게 급하게 굴어?	Why are you in such a hurry?						0	
+auto_b-12											0	
+99	你以为这就结束了？	你以為這就結束了？	君は、まさかこれで終わりだと思っているのか？	이렇게 끝난 줄 알았어?	You thought this was the end?						0	
+100	等一下！	等一下！	待った！	잠깐!	Wait a second!						0	
+101	那根青筋瞬间消失不见，看到他在暴怒和害怕之间自由切换，着实有些好笑。	那根青筋瞬間消失不見，看到他在暴怒和害怕之間自由切換，確實有點好笑。	浮かび上がった血管は一瞬で消えてなくなった。怒りと恐怖を交互に見せる彼の姿は実に滑稽だ。	순간 핏대가 사라진다. 두려움과 분노라는 감정을 오며 가며 하는 모습이 참 우습다.	The vein vanished in an instant; watching him so quickly switch between rage and fear was pretty comical.						0	
+102	你如果敢……你如果敢真的对我做什么，在明天，就是明天……	你如果敢……你如果敢真的對我做什麼，在明天，就是明天……	貴様……俺に、酷いことをしてみろ……	네… 네가 감히 나한테? 혹시라도 내게 무슨 짓을 한다면, 내일, 바로 내일…	If you dare... lay a finger on me...						0	
+103	我爸不会放过你的！我他*是亚当斯家的独子，你仔细想想……不要冲动。	我爸不會放過你的！我他*是亞當斯家的獨子，你好好考慮……不要衝動。	俺の親父が黙ってないぞ！この俺様はアダムス家のたった一人の息子だ、よく考えて行動することだな。	우리 아버지가 널 가만두지 않으실 거야! 난 바로 애덤스 가문의 독자니까! 잘 생각하는 게 좋을 거야… 함부로 행동하지 마.	My father won't stand for it! I'm the one and only son of the Adams family! Think this through... Don't do anything stupid.						0	
+b-13											0	
+104	妮塔……	妮塔……	ニタ……	니타…	Nita...						0	
+105	终于轮到我过瘾了吗？	終於輪到我過癮了嗎？	私の番？	드디어 내 차례야?	Is it finally my turn to play?						0	
+b-14											0	
+106	注意分寸……留他一口气就行。	注意分寸……留他一口氣就好。	程々にね……ギリギリ殺さない程度までは問題ないよ。	적당히 해… 숨은 쉴 수 있게 해줘.	Don't go overboard... Just make sure he's still breathing.						0	
+b-16											0	
+107	亚当斯家的医疗设施肯定很先进，什么伤都能治好。	亞當斯家的醫療設備肯定很先進，什麼傷都能治好。	アダムス家の医療施設はきっと最先端のものだろう、どんな怪我でも治せる。	애덤스 가문의 의료 시설은 빵빵할 테니, 어딜 다쳐도 전부 치료할 수 있을 거야.	The Adams family must have extremely advanced medical facilities that can cure any injury.						0	
+auto_b-16											0	
+108	结束了记得发出支援信号。	結束了記得發出支援訊號。	終わったら救助信号を出しといてくれ。	끝나면 지원 신호 보내고.	Don't forget to send a support message when you're done.						0	
+109	这些还用你交代吗？	這些還用你交代嗎？	言われるまでもない。	그런 것까지 알려줄 필요는 없어.	You think I don't know?						0	
+110	是个爷们啊分析员。	是條好漢啊分析員。	男前だね、分析員。	상남자네, 분석가.	How manly, Adjutant.						0	
+111	我在旁边看着真是手痒得不得了，好久没有揍过这么欠打的沙包了。后果什么的，先把气出了再想！	我在旁邊看著真是手癢得不得了，好久沒有揍過這麼欠打的沙包了。後果什麼的，先把氣出了再想！	コイツにはずっとハラワタが煮えくりかえってるんだ。こんな殴り甲斐のある野郎は久しぶりだよ。後のことは、鬱憤を晴らしてから考えるね！	구경하면서 기다리느라 너무 힘들었어. 이렇게 때리고 싶었던 샌드백은 한동안 없었는데, 일단 화부터 풀고 생각해야겠다!	I've been itchin' to get my hands on him this whole time since I haven't roughed up a sandbag like him in a while. I'll worry about the consequences later — time to blow off some steam!						0	
+112	你……你不要过来啊！	你……你不要過來啊！	ち……近寄るな！	오… 오지 마!	S...Stay back!						0	
+113	嘿嘿嘿……	嘿嘿嘿……	そんなツレないこと言うなって〜。	헤헤헤…	Heheh...						0	

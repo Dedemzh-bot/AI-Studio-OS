@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	听说，分析员要去一趟耶洛沙？	聽說分析員要去一趟耶洛沙？	分析員はイェロシャに行くって聞いたよ。	분석가, 옐로샤에 간다고 했나?	I heard you're going to Yehrus, Adjutant?						0	
+page0.2	嗯，陶董派了任务。	嗯，τ董指派了任務。	ああ、τからのミッションでな。	응, τ가 미션을 지시했어.	Yes. Director τ assigned me to a mission there.						0	
+page0.3	要注意安全喵。	要注意安全喵。	気をつけてニャン。	몸조심하라냥.	Be safe, nya.						0	
+page0.4	放心，很快就回来了。	放心，我很快就會回來了。	安心しろ、すぐ戻るからさ。	걱정 마. 금방 돌아올 거야.	Don't worry. I'll be back soon.						0	
+page0.5	分析员，你是不是不太了解那里？	分析員，你是不是不太瞭解那裡？	分析員、もしかしてあそこの事情はよく知らされてなかったり？	분석가, 그곳에 대해 잘 모르나?	Adjutant, are you not very familiar with that area?						0	
+page0.6	确实，大概只知道那边一直挺混乱的。	確實，我只知道那邊一直動盪不安。	確かに、少し荒れてる場所らしい、ぐらいの認識かな。	응. 꽤 혼란스러운 곳이라는 것만 알고 있어.	Yeah, I just know it's always been pretty chaotic over there.						0	
+page0.7	从我的分析结果来看，你受到战争波及的可能性是86.3%喵。	從我的分析結果來看，你遭受戰爭波及的可能性是86.3%喵。	私の見立てでは、分析員が紛争に巻き込まれる確率は86.3%ニャン。	내 분석에 따르면, 분석가가 전쟁에 휘말릴 가능성은 86.3%다냥.	My analysis shows that your probability of being affected by the conflict is 86.3%, nya~						0	
+page0.8	这是否有些太高了。	會不會太高了……	えっ、ちょっと高すぎない？	수치가 너무 높은 것 아니야?	Isn't that a bit too high?						0	
+page0.9	如果你还是用正常手段进入的话，可能性还会再高一些。	如果你用的是正常手段進入那裡的話，可能性還會再高一些喵。	通常の手段で行くなら、確率はもう少し上がる。	분석가가 정상적인 방법으로 진입한다면, 가능성은 더 커진다.	If you enter the region by normal means, the probability would be even higher.						0	
+page0.10	总之，一定要远离交火区。	總之，一定要遠離交戰區。	とりあえず、紛争地域は避けること、ニャン。	아무튼, 교전 지역에서 멀리 떨어져야 한다.	In conclusion, you need to steer clear of the active firing zone.						0	
+page0.11	明白了，谢谢你的提醒。	我知道了，謝謝你的提醒。	分かった、助言ありがとう。ネコちゃん。	알았어. 알려줘서 고마워.	Understood. Thanks for the reminder.						0	

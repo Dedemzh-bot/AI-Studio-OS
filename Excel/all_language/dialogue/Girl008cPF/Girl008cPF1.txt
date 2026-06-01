@@ -1,0 +1,118 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	小狮子温情提示：	小獅子溫情提示：	ファニーより：	리틀 라이언의 알림 사항:	Friendly Reminder From the Little Lioness:						0	3.2版本芬妮个人故事
+2	为了获得更好的体验，游玩该个人故事前，推荐达令优先观看《灿海假日》剧情。	為了獲得更好的體驗，遊玩該個人故事前，推薦達令優先觀看《燦海假日》劇情。	ダーリン、ここから先は『常夏の休日』を読んでからのほうが楽しめるわ。	더 나은 체험을 위해 해당 개인 스토리를 즐기기 전에 먼저 '청량한 일탈' 스토리를 시청해 줘, 달링.	For an optimal experience, darling is encouraged to complete the "Cerulean Getaway" main story before playing this Personal File.						0	3.2版本芬妮个人故事
+3	不论何时，都想在达令面前展示完美的自己。	不論何時，都想在達令面前展現完美的自己。	どんな時でも、ダーリンの前では完璧な自分を見せなきゃ。	달링 앞에서는 언제나 완벽한 모습을 보이고 싶다.	I always want to be my perfect self in front of my darling.						0	3.2版本芬妮个人故事
+4	精心挑选美丽的服装、仔细研究约会的亮点、安排合理又有趣的内容……	精心挑選美麗的服裝、仔細研究約會的亮點、安排合理又有趣的內容……	かわいい服を選んで、デートスポットを調べて、楽しいプランを立てて……	예쁜 옷을 정성스레 고르고, 데이트 코스의 하이라이트를 꼼꼼히 계획하고, 합리적이면서도 재미있는 내용을 준비하고…	Picking out a gorgeous outfit, studying the possible highlight events, planning fun and well-paced activities...						0	3.2版本芬妮个人故事
+5	如果能让达令觉得开心，这一切便充满意义。	如果能讓達令覺得開心，這一切就充滿意義。	ダーリンが喜んでくれるなら、それだけで全てに意味がある。	달링이 즐거워한다면, 이 모든 게 의미가 있다.	It's all worth it if it can make my darling happy.						0	3.2版本芬妮个人故事
+6	心里想着达令来筹划和他的约会，	心裡想著達令來籌劃和他的約會，	ダーリンのことを思い浮かべながらデートプランを立てるこの時間も、	달링을 생각하며, 그와의 데이트를 계획하는 것만으로도.	Thinking of him while planning our date—						0	3.2版本芬妮个人故事
+7	让我觉得无比幸福。	讓我覺得無比幸福。	幸せでたまらない。	너무나 행복하다.	It fills me with such happiness.						0	3.2版本芬妮个人故事
+8	——《关于达令的“作战计划”》，第XXX页。	——《關於達令的「作戰計畫」，第XXX頁》。	——「ダーリンに関する『作戦計画』」、XXXページ。	<달링에 관한 '작전 계획'>, XXX 페이지.	—Page XXX, Operation Plans: Darling's Perfect Date.						0	3.2版本芬妮个人故事
+9	夏意未尽，熙澜海上吹来的风却凉爽舒适。	夏意未盡，熙瀾海上吹來的風卻涼爽舒適。	夏の名残がまだ漂っているけれど、セイラン海から吹く風は涼しくて心地よい。	여름의 더위는 아직 가시지 않았지만, 헬리오라 해의 바닷바람은 시원하고 상쾌했다.	Summer wasn't quite over, but the breeze over Heliora Sea felt refreshingly cool.						0	3.2版本芬妮个人故事
+10	我坐在“植物博览园”的牌子旁，悠闲地摆弄着手里的相机。	我坐在「植物博覽園」的牌子旁，悠閒地擺弄著手裡的相機。	私は「植物園」と書かれた看板の下に腰を下ろし、カメラをいじりながら、	나는 '식물 박람원' 표지판 옆에 앉아 한가롭게 카메라를 만지작거리고 있었다.	I sat by the sign that read "Botanical Garden," idly fiddling with my camera.						0	3.2版本芬妮个人故事
+11	也等待着今天约会的女主角。	也等待著今天約會的女主角。	今日のデートのヒロインを待っていた。	그러면서 오늘 데이트의 여주인공을 기다렸다.	I was waiting for my date today.						0	3.2版本芬妮个人故事
+12	达令——	達令——	ダーリン！	달링~	Darling~						0	3.2版本芬妮个人故事
+13	穿着最新战术换装的芬妮此刻像一只骄傲而美丽的狮子，在晴朗的日光下熠熠生辉。	穿著最新戰術換裝的芬妮此刻像一隻驕傲而美麗的獅子，在晴朗的日光下熠熠生輝。	最新の戦術装備に身を包んだファニーは、誇り高く美しいライオンのように、晴れた日差しの中で輝いていた。	최신 전술 슈트로 갈아입은 페니는 도도하고 아름다운 사자처럼, 따스한 햇살을 받으며 빛나고 있었다.	Fenny, dressed in her new exosuit, looked like a proud and beautiful lioness, gleaming under the bright sunlight.						0	3.2版本芬妮个人故事
+14	两天前	兩天前	2日前	이틀 전	Two days ago...						0	3.2版本芬妮个人故事
+15	所以达令的意思是说……假期结束可以和我一起回公司？	所以達令的意思是說……假期結束可以跟我一起回公司？	つまり、休暇が終わったら二人で帰れるってこと？	그러니까 달링은… 휴가가 끝나면 나랑 같이 회사로 돌아간다는 거야?	Darling, you mean... when the vacation's over, we'll go back to the company together?						0	3.2版本芬妮个人故事
+16	嗯。其他队员都陆续回去了，只剩我和你还在酒店。	嗯。其他隊員都陸續回去了，只剩我跟你還在飯店。	ああ。他のみんなはもう帰ってるし、今ホテルに残ってるのは私たち二人だけだから。	응. 다른 대원은 모두 돌아갔고, 지금 호텔엔 나랑 너만 남아있어.	Yeah, the other operatives have already headed back. It's just you and me still at the hotel.						0	3.2版本芬妮个人故事
+17	有这个荣幸邀你同行吗，这位美丽的小姐？	有這個榮幸邀你同行嗎，這位美麗的小姐？	「ご一緒してくれないか、美しいお嬢さん？」	아름다운 아가씨랑 함께할 영광을, 내게 주지 않을래?	Would I have the honor of accompanying you back, my beautiful lady?						0	3.2版本芬妮个人故事
+18	不等我作出邀请的姿势，芬妮早已上前一步拉起我的手。	不等我作出邀請的姿勢，芬妮早已上前一步拉起我的手。	私が言いつつ誘うポーズをとると、ファニーは一歩踏み込み、私の手を取った。	내가 초청하는 자세를 취하기도 전에, 페니는 이미 한 발짝 앞서 내 손을 잡았다.	Before I could even strike a pose, Fenny had already stepped forward and taken my hand.						0	3.2版本芬妮个人故事
+19	她的眼睛盛满骄傲，动作却黏人，将脸庞依偎在我的手心里。	她的眼睛盛滿驕傲，動作卻黏人，將臉龐依偎在我的手中。	誇らしげな瞳を光らせながら、頬に私の手を当てる。	그녀의 눈빛에는 뿌듯함이 가득했지만, 내 손바닥에 얼굴을 가져다 대며 애교가 넘치는 행동을 보였다.	Her eyes were full of pride, yet the way she nestled her face against my palm looked adorably affectionate.						0	3.2版本芬妮个人故事
+20	当然。	當然。	ええ！	당연하지.	Of course.						0	3.2版本芬妮个人故事
+21	距离假期结束还有两天，那么……	距離假期結束還有兩天，那麼……	休暇が終わるまであと二日ね…それじゃあ……	휴가 끝나기까지 이틀 남았으니까…	There are still two days until the vacation ends, so...						0	3.2版本芬妮个人故事
+22	接下来的时间，你可以全部属于我吗，这位英俊的先生？	接下來的時間，你可以全部屬於我嗎，這位英俊的先生？	これからの時間を全部、あたしに使ってほしいんだけど、よろしいかしら？ハンサムなダーリン。	앞으로 남은 시간은 전부 나에게 주지 않을래? 우리 잘생긴 신사분?	Could I have all your time until then, my handsome gentleman?						0	3.2版本芬妮个人故事
+23	真是充满小狮子霸道风格的请求，我听得笑了出来。	真是充滿小獅子霸道風格的請求，我聽得笑了出來。	ライオンちゃんらしい欲張りなお願いに、私は思わず吹き出してしまう。	리틀 라이언답게 당당한 요청에, 나도 모르게 웃음이 나왔다.	I couldn't help but chuckle at such a delightfully domineering request from the little lioness.						0	3.2版本芬妮个人故事
+24	当然。	當然。	当たり前だ。	당연하지.	Of course.						0	3.2版本芬妮个人故事
+25	达令——	達令——	ダーリン！	달링~	Darling~						0	3.2版本芬妮个人故事
+26	芬妮两手各端一杯冰淇淋，笑盈盈地回到我身边。	芬妮兩手各端一杯冰淇淋，笑盈盈地回到我身邊。	ファニーは両手にアイスを一つずつ持ち、にこにこと笑いながら駆け寄ってきた。	페니는 양손에 아이스크림을 하나씩 들고 방긋 웃으며 내 곁으로 돌아왔다.	Fenny returned to my side with a cup of ice cream in each hand, smiling brightly.						0	3.2版本芬妮个人故事
+27	本小姐才一会儿不在，达令就想我想得这么出神了？	本小姐才一下子不在，達令就想我想得這麼出神了？	ちょっと離れてただけだから、そんな寂しい顔しないの♪	잠깐 자리를 비웠을 뿐인데, 달링은 벌써 이 몸이 그리웠나 봐?	I was only gone for a moment, and you're already daydreaming about me?						0	3.2版本芬妮个人故事
+28	说着，一枚吻就落了下来。	說著，一枚吻就落了下來。	そう言って、不意にキスを落としてきた。	그 말과 함께, 그녀의 키스가 나에게 내려앉았다.	And with that, she pressed a kiss to my lips.						0	3.2版本芬妮个人故事
+29	清甜的冰沙混着奶油盈满口腔，随着动作又融化在我与她厮磨的唇间。	清甜的冰沙混著奶油盈滿口腔，隨著動作又融化在我與她廝磨的唇間。	シャーベットとクリームが口いっぱいに広がると、舌が絡むたびに溶け合っていった。	상큼한 슬러시와 크림이 입안 가득 퍼지다가, 서로의 동작과 함께 나와 그녀의 입술 사이에서 녹아내렸다.	Creamy, sweet slush slid across my tongue, melting where our lips brushed and teased against each other.						0	3.2版本芬妮个人故事
+30	新口味，这家店的隐藏菜单，达令喜欢吗？	新口味，這家店的隱藏菜單，達令喜歡嗎？	この店の裏メニューだって。美味しかった？	새로운 맛이야. 이 가게의 히든 메뉴인데, 달링 입맛에 맞아?	It's a new flavor, straight off their hidden menu. Do you like it, darling?						0	3.2版本芬妮个人故事
+31	用这样的方式被喂着吃冰淇淋，不管什么味道都不可能不喜欢吧。	用這樣的方式被餵著吃冰淇淋，不管什麼味道都不可能不喜歡吧。	この食べさせ方なら、何でも美味くいただける気がするが。	이런 식으로 아이스크림을 먹여주면, 맛이 어떻든 싫어할 수가 있을까?	As if I wouldn't like any flavor fed to me like this.						0	3.2版本芬妮个人故事
+32	嗯，口味真不错。	嗯，口味真不錯。	ああ、すごく美味しかった。	응, 정말 맛있다.	Yeah, it's delicious.						0	3.2版本芬妮个人故事
+33	嘿嘿~和达令约会，为你准备的小惊喜还有很多呢。	嘿嘿~和達令約會，為你準備的小驚喜還有很多呢。	ふはは、今日のデートのために、まだまだたくさんサプライズを用意してるわ。	헤헤~ 달링과의 데이트를 위해 준비한 깜짝선물이 아직 많이 남아있다고.	Hehe~ I've prepared lots more surprises for our date.						0	3.2版本芬妮个人故事
+34	芬妮骄傲地抬起下巴，心里却稍稍松了口气。	芬妮驕傲地抬起下巴，心裡卻稍稍鬆了口氣。	――ファニーは得意げに顎を上げると同時に、内心ほっと安堵した。	페니는 자랑스럽게 턱을 치켜들면서도, 마음속으로는 살짝 안도했다.	Fenny lifted her chin proudly, but inside, she let out a tiny sigh of relief.						0	3.2版本芬妮个人故事
+35	嗯……进展顺利！感觉达令很喜欢这个味道。	嗯……進展順利！感覺達令很喜歡這個味道。	うん……順調！ダーリンは気に入ってくれたみたい。	음… 아주 순조로워! 달링이 이 맛을 정말 좋아하는 것 같아.	Okay... It's going well! Darling really seems to like this flavor.						0	3.2版本芬妮个人故事
+36	接下来，根据计划，可以正式开始我们的约会了。	接下來，根據計畫，可以正式開始我們的約會了。	それじゃ計画通り、今日のデートを始めるわね。	이제 계획대로 본격적인 데이트를 시작할 수 있겠어.	Next, according to the plan, we can start our dating.						0	3.2版本芬妮个人故事
+37	一天前	一天前	１日前	하루 전	One day ago...						0	3.2版本芬妮个人故事
+38	只有两个人的海岛二人世界，朝夕共度，像梦一样幸福。	只有兩個人的海島二人世界，朝夕共度，像夢一樣幸福。	二人きりの島で、朝も夜も共にして、まるで夢のように幸せなはずだったが、	둘만의 섬, 둘만의 세상. 아침에도 밤에도 함께한다니, 정말 꿈만 같이 행복했다.	Spending time alone with the Adjutant on the island filled Fenny with a dreamlike bliss.						0	3.2版本芬妮个人故事
+39	但仍有些念头藏在芬妮心里，像深海的气泡，偶尔悄悄浮起。	但仍有些念頭藏在芬妮心裡，像深海的氣泡，偶爾悄悄浮起。	ファニーの頭には時折、海の中の泡みたいにふっと浮かんでくる想いがあった。	하지만 여전히 페니의 마음속에는 깊은 바다의 거품처럼 슬며시 떠오르는 생각들이 있었다.	But there were still thoughts buried deep in Fenny's heart, rising to the surface occasionally like bubbles.						0	3.2版本芬妮个人故事
+40	关于遗憾——	關於遺憾——	心残りについて——	아쉬움에 대해서는…	About regret—						0	3.2版本芬妮个人故事
+41	假日游戏时意外的过敏经历，让她的完美打了折扣。	假日遊戲時意外的過敏經歷，讓她的完美打了折扣。	リアルRPGをやっている最中に変異植物の仕業でアレルギーを起こしちゃった。事が丸く収まったとはいえ、やはりそれは自分の完璧さに影を落としている。	휴가 중 게임을 하다가 예상치 못한 알레르기 반응이 일어나, 완벽한 그녀의 이미지에 흠이 생겼다.	That unexpected allergic reaction during the game had put a dent in her idea of perfection.						0	3.2版本芬妮个人故事
+42	虽然达令不仅不介意，还那么体贴细心地呵护她。	雖然達令不只不介意，還那麼體貼細心地呵護她。	でもダーリンはそれを気にするどころか、むしろ優しく慰めて、たっぷり甘やかしてくれてた。	달링은 전혀 신경 쓰지 않고, 오히려 자상하게 그녀를 보살펴줬지만…	Even though he hadn't minded at all, and had taken such thoughtful care of her.						0	3.2版本芬妮个人故事
+43	如不合时宜的潮水那样让人不爽，她心里也始终有点生自己的气。	如不合時宜的潮水那樣讓人不爽，她心裡也始終有點生自己的氣。	でも、ダーリンに優しくされればされるほど、自分に腹が立ってしまった。	마치 때아닌 밀물처럼 불쾌한 느낌에, 그녀는 마음속으로 자신에게 계속 화가 나 있었다.	Like an ill-timed tide, it still bothered her. She was a little frustrated with herself.						0	3.2版本芬妮个人故事
+44	被“打扰”的度假体验，她想为达令尽力弥补。	被“打擾”的度假體驗，她想盡力為達令彌補。	自分のせいで完璧じゃなくなった休暇を、せめてダーリンのために埋め合わせたい。	즐거운 휴가를 '방해했다'는 생각에, 그녀는 최선을 다해 달링에게 보상해 주고 싶었다.	She wanted to make it up to her darling for not giving him a perfect vacation.						0	3.2版本芬妮个人故事
+45	关于新鲜感——	關於新鮮感——	ワクワク感について——	새로움에 대해서는…	As for keeping things exciting—						0	3.2版本芬妮个人故事
+46	她还记得达令说的话。	她還記得達令說的話。	ダーリンの言葉をよく覚えている。	그녀는 달링이 했던 말을 기억한다.	She still remembered what he had said.						0	3.2版本芬妮个人故事
+47	“和你一起，去体验没做过的事。”	「和你一起，去體驗沒做過的事。」	「そうだな…したことのないことを一緒に体験するとか」	"너랑 같이 해보지 않은 일들을 경험하는 거야."	"We can try new things together."						0	3.2版本芬妮个人故事
+48	“这样，我就会和你拥有很多很多‘第一次’的体验。”	「這樣，我就會和你擁有很多很多『第一次』的體驗。」	「二人でたくさんの『初体験』を共有して」	"그러면 함께 수많은 '처음'을 경험할 수 있겠지."	"That way, we'll build up a collection of 'firsts' of our own."						0	3.2版本芬妮个人故事
+49	“够有新鲜感吧？”	「夠有新鮮感吧？」	「たくさんのワクワクを作ろう」	"충분히 새롭지 않을까?"	"Pretty exciting, wouldn't you say?"						0	3.2版本芬妮个人故事
+50	当时，说出这样的话之后，达令便身体力行地带她充分感受了一番所谓的“新鲜感”。	當時，說出這樣的話之後，達令便身體力行地帶她充分感受了一番所謂的「新鮮感」。	そう言った直後、ダーリンはすぐに実際の行動で彼女にたっぷりと「ワクワク感」を味わわせてくれた。	그때 그런 말을 하고 나서, 달링은 직접 행동으로 옮기며 그녀에게 그런 '새로움'을 충분히 느끼게 해줬다.	After saying that, he wasted no time in showing her exactly what "excitement" meant.						0	3.2版本芬妮个人故事
+51	坚实的臂弯，体贴的怀抱，每一次都能直抵最深处的快乐……	堅實的臂彎，體貼的懷抱，每一次都能直抵最深處的快樂……	たくましい腕、腕の中の温もり、心の奥にまでひびく歓び……	단단한 팔뚝, 다정한 포옹, 매번 가장 깊은 곳까지 닿는 즐거움…	His strong arms, tender embrace, and the pleasure that had reached her deepest places every single time...						0	3.2版本芬妮个人故事
+52	轮到她的话，又可以带给达令什么呢？	輪到她的話，又可以帶給達令什麼呢？	しかし逆の立場だったら、自分はダーリンに何をしてあげられるんだろうか。	그녀는 달링에게 무엇을 해줄 수 있을까?	Now it was her turn, what could she offer him?						0	3.2版本芬妮个人故事
+53	关于约会——	關於約會——	デートについて——	데이트에 대해서도…	About their date—						0	3.2版本芬妮个人故事
+54	除了在房间里缠绵的时光，总要抓住最后的度假机会做点什么。	除了在房間裡纏綿的時光，總要抓住最後的度假機會做點什麼。	部屋でイチャイチャするだけじゃなく、休暇の最後の数日をちゃんと活かして、何かしてあげたい。	방 안에서 달콤하게 보내는 시간 말고도, 마지막 휴가 기회에 뭐라도 해야 한다.	Aside from their passionate hours behind closed doors, she knew she had to make the most of these final days of vacation with him.						0	3.2版本芬妮个人故事
+55	逛街、游乐园、烛光晚餐……	逛街、遊樂園、燭光晚餐……	買い物に行ったり、遊園地に行ったり、二人でキャンドルディナーと洒落込んだり……	쇼핑, 놀이공원, 화려한 저녁 식사…	Shopping, amusement park, candlelit dinner...						0	3.2版本芬妮个人故事
+56	不行不行，以前和达令也去过这些地方，就没有更新颖的选择吗？！	不行不行，以前和達令也去過這些地方，沒有更新穎的選擇嗎？！	だめだめ！これじゃ…昔と何も変わらないじゃない。もっとこう、斬新なデートをしなきゃ…！	안 돼, 안 돼. 그런 곳들은 전에도 달링이랑 같이 가봤잖아. 좀 더 새로운 선택지는 없을까?!	No, no, I've already done all these with my darling. Isn't there something fresh we could do!?						0	3.2版本芬妮个人故事
+57	滨海区域……植物博览园……嗯，植物的展览么……	濱海區域……植物博覽園……嗯，植物的展覽嗎……	海辺エリア……植物園……うーん、植物か……	해변 구역… 식물 박람원… 음, 식물 전시라…	The Botanical Garden by the seaside... Hmm, a plant exhibition...						0	3.2版本芬妮个人故事
+58	已经划过去的页面被芬妮重新打开来研究。	已經劃過去的頁面被芬妮重新打開來研究。	一度閉じたページを、ファニーはもう一度開いて読み始めた。	페니는 이미 넘겼던 페이지를 다시 펼쳐서 고민했다.	The page she'd scrolled past was opened again for more details.						0	3.2版本芬妮个人故事
+59	哪怕只有短短两天，也想为达令创造无数闪耀的回忆。	即使只有短短兩天，也想為達令創造無數閃耀的回憶。	2日だけでも、ダーリンにたくさん作ってあげたい。	이틀이라는 짧은 시간뿐이지만, 그래도 달링을 위해 빛나는 추억을 많이 만들어 주고 싶었다.	Even with only two days, she wanted to create countless sparkling memories for him.						0	3.2版本芬妮个人故事
+60	和芬妮有关的回忆。	和芬妮有關的回憶。	自分とのキラキラとした思い出を。	페니와 관련된 추억을.	Memories with Fenny.						0	3.2版本芬妮个人故事
+61	不再纠结，她重新打开终端里的笔记，仔细地继续筹备这场约会。	她不再糾結，她重新打開終端裡的筆記，仔細地繼續籌備這場約會。	そうと決まれば早速準備――端末でメモを立ち上げ、ファニーはデートプランを打ち込みはじめた。	그녀는 고민을 멈추고, 다시 단말기의 메모장을 열어 이번 데이트를 꼼꼼하게 준비했다.	No longer uncertain, she opened the notes on her terminal again and continued carefully planning their date.						0	3.2版本芬妮个人故事
+62	尽管和熙澜海综合酒店离得不远，植物博览园却是个较为隐蔽的存在。	儘管和熙瀾海綜合飯店離得不遠，但植物博覽園卻是個較隱密的存在。	ホテルからほど近い場所にもかかわらず、植物園はひっそりとした空気感だった。	헬리오라 해는 복합 시설 호텔과 가까운 반면, 식물 박람원은 조금 후미진 곳이었다.	Though the Botanical Garden wasn't far from Heliora Sea, it was a fairly hidden spot.						0	3.2版本芬妮个人故事
+63	植物浓密，树木高大，一组组室内场馆错落有致地镶嵌在整体的大花园之中。	植物濃密，樹木高大，一組組室內場館錯落有致地鑲嵌在整體的大花園之中。	木々の生い茂る園内に、いくつもの屋内展示館が点在している。	무성한 식물과 커다란 나무들이 우뚝 솟아있고, 여러 실내 전시관이 이 대형 정원 속에 조화롭게 자리 잡고 있었다.	Dense vegetation, towering trees, and a series of pavilions nestled artfully throughout the expansive garden.						0	3.2版本芬妮个人故事
+64	芬妮制定的路线很合适，以前竟没想到，她也有这样做向导的好耐心。	芬妮制定的路線很合適，以前沒想到，她也有這樣做嚮導的好耐心。	ファニーがまとめてくれた植物園の回り方は思った以上に丁寧で、本物のガイド顔負けくらいによくできたものだった。	페니가 계획한 경로는 훌륭했다. 그녀에게 가이드의 재능이 있을 줄이야, 그동안 미처 몰랐다.	Fenny had designed our route well. I hadn't realized she had the patience required for being a guide.						0	3.2版本芬妮个人故事
+65	我只需要跟在她身后穿梭于零散的场馆之间，就能享受到最棒的游览体验。	我只需要跟在她身後穿梭於零散的場館之間，就能享受到最棒的遊覽體驗。	彼女の提案するままに展示館を巡っていくだけでも、なかなかの観覧体験だ。	나는 그녀를 따라다니며 흩어진 전시관들 사이를 돌아다니기만 해도 최고의 관람을 즐길 수 있었다.	All I had to do was follow her as we moved between the scattered pavilions for the best experience.						0	3.2版本芬妮个人故事
+66	不过对我而言，这场约会的趣味反而在于……芬妮本身。	不過對我而言，這場約會的趣味反而在於……芬妮本身。	とはいって、やはり私にとってこのデートの楽しみどころはファニーだった。	하지만 나에게 있어 이 데이트의 흥미로운 점은… 오히려 페니 그 자체였다.	But for me, the real fun of this date was... Fenny herself.						0	3.2版本芬妮个人故事
+67	逛了这么久，达令累不累？我们先在这里稍微休息一下吧~	逛了這麼久，達令累不累？我們先在這裡稍微休息一下吧~	ダーリン、もう歩き疲れたでしょ？ここでちょっと休む？	달링, 안 피곤해? 꽤 오래 돌아다녔는데, 여기서 잠깐 쉬었다 가자~	We've been walking for a while. Are you tired, darling? Let's rest here for a bit~						0	3.2版本芬妮个人故事
+68	离开上个参观的场馆，芬妮将我带到一处漂亮又私密的花架下。	離開上個參觀的場館，芬妮將我帶到一處漂亮又私密的花架下。	展示館を出ると、私たちは日陰棚の下にやってきた。眺めがきれいなうえ、そんなに人目がない場所だ。	마지막 전시관에서 나온 후, 페니는 어느 예쁘고 조용한 꽃 아치 아래로 나를 데려갔다.	Leaving a pavilion, Fenny led me to a secluded corner with a beautiful flower arbor.						0	3.2版本芬妮个人故事
+69	两个人排在躺椅上，我躺着，芬妮坐着，吹着清风，闻着花香。	兩個人排在躺椅上，我躺著，芬妮坐著，吹著清風，聞著花香。	大きなデッキチェアにファニーが座ると私はその隣に腰を下ろし、背もたれに背を預けた。そよ風に混ざる花の香りが心地良い。	두 사람은 데크 체어 위에 나란히 있었다. 나는 누워있고, 페니는 앉아서 산들바람을 맞으며 꽃향기를 즐겼다.	We settled on two lounge chairs — I reclined while Fenny sat. A light breeze carried the scent of flowers over to us.						0	3.2版本芬妮个人故事
+70	前面有点距离的地方，应该就是最近这里正在举办的特展了。	前面有點距離的地方，應該就是最近這裡正在舉辦的特展了。	もうちょっと進めば、期間限定の特別展示があるみたいよ。	조금 더 앞쪽으로 가면 요즘 여기서 진행하는 특별전시가 보일 거야.	A little ahead is probably where the special exhibition is being held.						0	3.2版本芬妮个人故事
+71	让我看看地图，应该就是在……	讓我看看地圖，應該就是在……	えっと、地図から見て、たしか……	지도를 보자, 아마도 여기…	Let me check the map. It should be...						0	3.2版本芬妮个人故事
+72	诶？我们现在是朝着什么方向来着？	欸？我們現在是朝著什麼方向來著？	あれ、どっちの方向に進んでたんだっけ？	어라? 우리 어느 방향으로 가고 있었지?	Wait, which direction are we facing now?						0	3.2版本芬妮个人故事
+73	看芬妮时而东张西望地找路，时而把备忘小本本翻得哗哗作响。	看芬妮時而東張西望地找路，時而把備忘小本本翻得嘩嘩作響。	ファニーがきょろきょろと道を探したり、メモ帳をパラパラとめくったりした。	페니가 이리저리 두리번거리며 길을 찾고, 바스락거리며 플래너를 넘기는 모습을 보고 있자니.	Watching Fenny glance around for directions, then flip through her little notebook, pages rustling...						0	3.2版本芬妮个人故事
+74	对我而言，这些反而是超越任何展览，更有趣味的景致。	對我而言，這些反而是超越任何展覽，更有趣味的景緻。	その姿は私にとってどんな展示よりも魅力的で、まさに一番の見どころだった。	나에게는 이런 모습들이 그 어떤 전시보다도 더 흥미로운 광경이었다.	To me, this was far more interesting than any exhibition.						0	3.2版本芬妮个人故事
+75	就是这里！特展在C区的1号馆，看介绍这个展览还挺有意思的。	就是這裡！特展在C區的1號館，看介紹這個展覽還蠻有趣的。	ここ！Cエリアの1号館、ここの特別展、けっこう面白そうなの。	여기다! C구역 1번 전시관에 특별전시가 있어. 소개를 보니 꽤 재미있을 것 같은데.	Here it is! The special exhibition is in Hall 1 of Zone C. From the description, it sounds pretty interesting.						0	3.2版本芬妮个人故事
+76	达令你看……	達令你看……	ダーリン、見て――	달링, 봐봐…	Darling, what do you—						0	3.2版本芬妮个人故事
+77	芬妮，你说的该不会是……	芬妮，你說的該不會是……	ファニー、それってもしかして……	페니, 네가 말한 게 설마…	Fenny, isn't that the place you're talking about?						0	3.2版本芬妮个人故事
+78	我指了指她背后。	我指了指她背後。	私はファニーの背後を指差した。	나는 그녀의 뒤를 가리켰다.	I pointed behind her.						0	3.2版本芬妮个人故事
+79	流线型的小型建筑矗立在芬妮身后，上面清清楚楚地写着“C区1号馆”。	流線型的小型建築矗立在芬妮身後，上面清清楚楚地寫著「C區1號館」。	曲線的な輪郭でこぢんまりとした建物がファニーの真後ろにたっていた。その正面のドアの上には「Cエリア1号館」と書かれている。	페니의 뒤에는 유선형의 작은 건물이 서 있었고, 'C구역 1번 전시관'이라고 또렷하게 적혀 있었다.	A small streamlined structure stood right behind Fenny, with "Hall 1, Zone C" clearly marked on it.						0	3.2版本芬妮个人故事
+80	哦？这不是挺近的嘛！……诶？！	哦？這不是挺近的嘛！ ……欸？！	あら？意外と近かったわね……えっ！？	어? 생각보다 가깝잖아!… 앗?!	Oh, I didn't realize we were so close... Wait, huh!?						0	3.2版本芬妮个人故事
+81	比馆名更清楚的是门口放置的标识牌，上面赫然写着——	比館名更清楚的是門口放置的識別牌，上面赫然寫著——	入り口に立て看板も置かれている。看板の上にははっきりと——	전시관 이름보다 더 눈에 띄는 안내판이 입구에 배치되어 있었고, 명확한 글자가 적혀 있었다.	Even clearer than the hall name was the sign at the entrance, which read—						0	3.2版本芬妮个人故事
+82	今日闭馆。	今日閉館。	「本日休館」と書かれていた。	금일 휴관.	Closed Today.						0	3.2版本芬妮个人故事
+83	……	……	……	……	...						0	3.2版本芬妮个人故事
+84	……	……	……	……	...						0	3.2版本芬妮个人故事
+85	没关系！我还有C计划，现在几点了？我来看看可替代方案……	沒關係！我還有C計畫，現在幾點了？我來看看可替代方案……	大丈夫！ちゃんとプランCも用意してあるんだから。今何時？他の予定確認してみるわ……	괜찮아! 나에겐 플랜C가 있거든. 지금 몇 시지? 대체 플랜을 찾아볼게…	That's okay! I've got a Plan C. What time is it? Let me check the alternatives...						0	3.2版本芬妮个人故事
+86	已经进行到C计划了吗？我有些好奇B计划哪去了。	已經進行到C計畫了嗎？我有些好奇B計畫哪去了。	もうプランCまで進んでるのか。プランBはどうしたんだ？	벌써 플랜C까지 왔다고? 플랜B는 뭐였는지 궁금하네.	We're already on Plan C? Now I'm curious what happened to Plan B.						0	3.2版本芬妮个人故事
+87	上一个场馆已经是B计划里的内容了哦。	上一個場館已經是B計畫裡的內容了哦。	さっき回った展示館がプランBに入ってたの。	아까 갔던 전시관이 플랜B였어.	The last pavilion was already part of Plan B, actually.						0	3.2版本芬妮个人故事
+88	因为走进博览园之后，感觉达令对植物基因研究相关的内容更感兴趣。	因為走進博覽園之後，感覺達令對植物基因研究相關的內容更感興趣。	植物園に入ったら、ダーリンが植物の遺伝子研究のほうに興味がありそうと思って。	박람원에 들어와 보니까, 달링이 식물 유전자 연구 관련 내용에 더 관심이 있어 보이더라고.	Since we started, I've noticed you seem more interested in plant gene research.						0	3.2版本芬妮个人故事
+89	原本的A计划内容不合适，所以在当时就被我否掉了。	原本的A計畫內容不合適，所以在當時就被我否決了。	最初のプランAをボツにしてプランBに移行したのよ。	원래의 플랜A는 적절하지 않은 것 같아서 바로 제외했어.	Plan A wasn't a good fit, so I scrapped it right then.						0	3.2版本芬妮个人故事
+90	其实就算我们坐在这里，乘着凉，吹吹风，不也挺好的吗？	其實就算我們坐在這裡，乘著涼，吹吹風，不也挺好的嗎？	まぁ、こうしてベンチに座って風に当たっているだけでも、十分気持ちいいかな。	사실 여기 앉아서 시원한 바람 쐬면서 쉬기만 해도, 나쁘지 않은데?	In fact, wouldn't it be nice to just sit here and enjoy the breeze?						0	3.2版本芬妮个人故事
+91	哦~我就知道达令会喜欢我选的这个地方，实景和图片上一样好看~	哦~我就知道達令會喜歡我選的這個地方，實景跟圖片上一樣好看~	ふふん、ダーリンがこの場所を気に入ってくれるってわかってたわ。写真の通り素敵な場所ね♪	음~ 역시 달링이 내가 고른 장소를 좋아할 줄 알았어. 실제로 보니까 사진만큼 예쁘네~	Oh~ I knew you'd like this spot. It looks just as good as in the photos~						0	3.2版本芬妮个人故事
+92	如果想多在这里待一会儿的话，果然还是换成F计划比较好！	如果想多在這裡待一下子的話，果然還是換成F計畫比較好！	ここでもう少しゆっくりしてたいなら、プランFでいこうかしら。	여기서 좀 더 있고 싶다면, 역시 플랜F로 바꾸는 게 좋겠어!	If you want to spend more time here, then we should switch to Plan F!						0	3.2版本芬妮个人故事
+93	你到底准备了多少个计划啊？	你到底準備了多少個計畫啊？	一体いくつのプランがあるんだ……	도대체 플랜을 몇 개나 준비한 거야?	Just how many plans did you prepare?						0	3.2版本芬妮个人故事
+94	这个，其实我也没有数……	這個，其實我也沒數……	それは、数えてないけど……	그게, 사실 나도 안 세어봤어…	Uh, I didn't actually count...						0	3.2版本芬妮个人故事
+95	还是第一次做这么细致的攻略，想着要周全些才好，不知不觉就写了很多。	還是第一次做這麼細緻的攻略，想著要周全些才好，不知不覺就寫了很多。	こんな細かいプランを立てるのは初めてだから、ちゃんと万全なものにしたかったの。そして気づいたら……たくさん書いてたの。	이렇게 자세하게 계획을 짜본 건 처음이거든. 완벽하게 하려다 보니, 어느새 엄청 많이 써놨네.	It's my first time making such a detailed itinerary. I wanted it to be thorough, and before I knew it, I'd written down quite a lot.						0	3.2版本芬妮个人故事
+96	哼~本小姐亲力亲为筹备的约会，自然要一切臻于完美，才能给达令最好的享受啦。	哼~本小姐親力親為籌備的約會，自然要一切臻於完美，才能給達令最好的享受啦。	このあたしが準備するんだもの。何から何まで完璧にして、ダーリンに最高のデートを楽しんでもらわなきゃね。	흥~ 이 몸이 직접 준비한 데이트니까, 당연히 완벽해야지. 달링한테 최고의 즐거움을 선사해 주기 위해서!	Heh, I planned this date to be as perfect as can be. I want you to enjoy this as much as possible.						0	3.2版本芬妮个人故事
+97	那芬妮也有在好好享受这场约会吗？	那芬妮也有在好好享受這場約會嗎？	このデート、ファニーもちゃんと楽しんでる？	그럼 페니도 데이트를 잘 즐기고 있는 거지?	And are you enjoying yourself too?						0	3.2版本芬妮个人故事
+98	我帮芬妮把垂到前面的碎发别在耳后，又帮她擦了擦额上的汗珠。	我幫芬妮把垂到前面的碎髮別在耳後，又幫她擦了擦額上的汗珠。	私はファニーの顔にかかった髪を耳にかけてやり、額の汗を拭ってあげた。	나는 페니의 앞으로 흘러내린 잔머리를 귀 뒤로 넘겨주고, 이마의 땀도 닦아주었다.	I tucked Fenny's loose strands of hair behind her ear and wiped the sweat from her forehead.						0	3.2版本芬妮个人故事
+99	当然，达令觉得开心，我自然也会开心了。	當然，達令覺得開心，我自然也會開心了。	もちろん、ダーリンが楽しんでくれるなら、あたしも嬉しいわよ。	당연하지, 달링이 즐겁다면 나도 즐거울 수밖에.	Of course. If it makes you happy, then I'm happy.						0	3.2版本芬妮个人故事
+100	芬妮觉得开心，我才会觉得开心。	芬妮覺得開心，我才會覺得開心。	私はファニーが楽しんでくれたなら嬉しいよ。	페니가 즐거워야 나도 즐겁지.	And I'm happy if you're happy.						0	3.2版本芬妮个人故事
+101	呃……那接下来……怎么安排比较好？	呃……那接下來……怎麼安排比較好？	えっ……じゃあ、次は……どうする？	음… 그럼 이제… 어떻게 할까?	So... what should we do next?						0	3.2版本芬妮个人故事
+102	被我绕进去的芬妮有点晕晕的。	被我繞進去的芬妮有點暈暈的。	私の返事にファニーは戸惑ったような顔になる。	페니는 내 말에 헷갈린 나머지 살짝 어리둥절했다.	Still trying to figure out who should be happy first, Fenny didn't catch on right away.						0	3.2版本芬妮个人故事
+103	没事，就这样吧，陪我再躺会儿。	沒事，就這樣吧，陪我再躺一下。	今のままでいいよ、もう少しここでいよう。	괜찮아, 이대로 있자. 나랑 좀 더 누워있어 줘.	It's fine. Just lie down with me for a bit.						0	3.2版本芬妮个人故事
+104	好~	好~	ええ♪	좋아~	Alright~						0	3.2版本芬妮个人故事
+105	芬妮也依偎着我躺了下来，找了个舒服的姿势，软软地靠在我怀里。	芬妮也依偎著我躺了下來，找了個舒服的姿勢，軟軟地靠在我懷裡。	言って、私の胸に身をすり寄せてきた。	페니도 나에게 기대어 누웠고, 편한 자세를 찾더니 내 품에 포근히 기대왔다.	Fenny nestled up against me, found a comfortable position, and settled into my arms.						0	3.2版本芬妮个人故事
+106	我拿过芬妮手上的计划册随手翻了翻，每页都有她写的娟秀小字，还画了不少简笔地图。	我拿過芬妮手上的計畫冊隨手翻了翻，每頁都有她寫的娟秀小字，還畫了不少簡筆地圖。	ファニーが手にしていた手帳を受け取り、めくってみると、どのページにもきれいな小さな字がずっしりと並び、簡単な地図まで描かれていた。	나는 페니가 들고 있던 플래너를 넘겨보았다. 페이지마다 그녀의 단정한 글씨와 간단한 지도가 그려져 있었다.	I picked up her notes and flipped through them. Each page was filled with her neat, delicate handwriting and quite a few sketched maps.						0	3.2版本芬妮个人故事
+107	达令……等一会儿，想去哪里呢？	達令……待會，想去哪裡呢？	ダーリン……このあと、どこに行きたい？	달링… 이따가 어디로 가고 싶어?	Darling... where do you want to go in a bit?						0	3.2版本芬妮个人故事
+108	小狮子向导有什么建议吗？	小獅子嚮導有什麼建議嗎？	ここはガイド役のライオンちゃんの意見を聞きたいかな。	리틀 라이언 안내원이 추천 좀 해 줄래?	Does my little lioness guide have any suggestions?						0	3.2版本芬妮个人故事
+109	唔。	唔。	うーん。	음.	Mm...						0	3.2版本芬妮个人故事
+110	芬妮在我的怀里滚了滚翻个面儿，就着我举在空中的计划册，伸出手前翻翻后翻翻。	芬妮在我的懷裡滾了滾翻了個身子，就著我舉在空中的計畫冊，伸出手前翻翻後翻翻。	ファニーは私の腕の中でゴロリと寝返り、私が掲げている計画手帳に手を伸ばしてぱらぱらとめくった。	페니는 내 품 안에서 뒤척이며 몸을 돌리더니, 내가 들고 있는 플래너로 손을 뻗어 앞뒤로 넘겨보았다.	Fenny rolled over in my arms, then, with me holding the notes up, reached out to flip through a few pages.						0	3.2版本芬妮个人故事
+111	这里，还有这里……我觉得都不错。	這裡，還有這裡……我覺得都不錯。	ここと、それからここも、いいと思うの。	여기랑, 여기… 다 괜찮을 것 같아.	This place, and this one... I think they're both pretty good.						0	3.2版本芬妮个人故事
+112	哦对了，博览园里还有座交互游戏场馆，资料上说里面的异化植物还挺特别的，别处见不到。	喔對了，博覽園裡還有座互動遊戲場館，資料上說裡面的異化植物還蠻特別的，別處見不到。	あ、そうだわ。ここにインタラクティブ体験館があって、他では見られない特別な異化植物があるんだって。	아, 맞다. 박람원에 인터랙티브 게임관도 있는데, 거기엔 다른 곳에선 볼 수 없는 특별한 변이 식물들이 있다고 자료에 쓰여 있었어.	Oh, right, there's an interactive game pavilion. I read that the mutated plants there are unique. It's something you can't see anywhere else.						0	3.2版本芬妮个人故事
+113	行，那等会就去这儿了。	好，那待會就去這裡了。	いいね、じゃあこのあとそこに行こう。	좋아, 그럼 이따가 거기로 가자.	Alright, then we'll go there.						0	3.2版本芬妮个人故事
+114	合上册子，揽住芬妮。	合上冊子，攬住芬妮。	手帳を閉じ、ファニーを抱き寄せる。	나는 플래너를 덮고 페니를 끌어안았다.	I put away the notes and wrapped my arms around Fenny.						0	3.2版本芬妮个人故事
+115	我决定现在先执行一条“两人手牵着手，在花下小憩片刻”的活动安排。	我決定現在先執行一條「兩人手牽著手，在花下小憩片刻」的活動安排。	とりあえず今は、「二人で手をつないで、日陰棚の下で少し休む」というプランを実行することにした。	나는 일단 '같이 손잡고 꽃 아래서 휴식을 취하기'라는 계획을 실행하기로 했다.	I decided that our current activity should be "holding hands and resting under the flowers."						0	3.2版本芬妮个人故事
+116	无需解释太多，有我在身边，她总会明白的。	無需解釋太多，有我在身邊，她總會明白的。	説明する必要なんてない。彼女ならわかってくれる。	굳이 설명할 필요 없다. 내가 곁에 있으면 그녀는 이해할 수 있으니까.	There was no need to explain too much to her. With me by her side, she'd always understand.						0	3.2版本芬妮个人故事

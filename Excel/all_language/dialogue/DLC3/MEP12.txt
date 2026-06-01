@@ -1,0 +1,107 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	在旧阁楼的角落里，住着一只不会痛的玩偶猫。	在舊閣樓的角落裡，住著一隻不會痛的玩偶貓。	古い屋根裏に、痛みを感じないラグドールが住んでいる。	낡은 다락방 구석에는 아픔을 모르는 인형 고양이가 한 마리 살고 있었다.	In a dusty attic corner lived a plush cat who couldn't feel pain.						0	1.3重置
+2	她从高处跳下不会喊“呜咪”，踩到尖刺也不会逃跑。	她從高處跳下不會喊“嗚咪”，踩到尖刺也不會逃跑。	高いところから飛び降りても「ミャオ」と鳴かず、尖ったものを踏んでも逃げない。	높은 곳에서 떨어져도 '냐앙' 하고 울지 않고, 가시를 밟아도 도망가지 않았다.	She never meowed when she fell, nor flinched when she stepped on pins.						0	1.3重置
+3	其他小猫摇摇头：“她真奇怪喵。”，渐渐疏远了她。	其他小貓搖搖頭：“她真奇怪喵。”，漸漸疏遠了她。	ほかの猫たちは頭を振りながら「あの子は変だニャ」と言って、次第に彼女から遠ざかっていった。	다른 고양이들은 고개를 저으며 말했다. "이상한 고양이다냥." 그러면서 그녀와 점점 멀어졌다.	The other kittens shook their heads. "She's weird, nya," they whispered, keeping their distance.						0	1.3重置
+4	可玩偶猫还是大摇大摆地晃着尾巴，钻过碎玻璃，爬上歪斜的墙。	可玩偶貓還是大搖大擺地晃著尾巴，鑽過碎玻璃，爬上歪斜的牆。	しかし、ラグドールは大きく尾を優雅に振りながら、砕けたガラスをくぐりぬけ、傾いた壁を登っていく。	하지만 인형 고양이는 여전히 꼬리를 흔들며 깨진 유리를 지나고 기울어진 벽을 올랐다.	But the plush cat strutted on, tail high, slipping through shattered glass doors, scaling crooked walls.						0	1.3重置
+5	某一天，玩偶猫遇见了一只小灰猫——	某一天，玩偶貓遇見了一隻小灰貓——	ある日、ラグドールは小さな灰色の猫に出会った——	어느 날, 인형 고양이는 회색 고양이 한 마리를 만났다.	One day, the plush cat met a little gray cat...						0	1.3重置
+6	“会受伤的！”他总是这样喊，用软软的爪子拉住她。	“會受傷的！”他總是這樣喊，用軟軟的爪子拉住她。	「ケガするよ！」と彼はいつもこう叫びながら、モフモフの手で彼女を引き留める。	"그러다가 다쳐!" 그는 늘 이렇게 외치면서, 부드러운 발로 그녀를 붙잡았다.	"You'll get hurt!" he'd always say, tugging her gently away from sharp things with his soft little paw.						0	1.3重置
+7	哪怕玩偶猫眨着眼睛不懂“受伤”是什么模样。	哪怕玩偶貓眨著眼睛不懂“受傷”是什麼模樣。	たとえラグドールが「ケガ」という概念を理解できなくても、彼はこう叫び続けていた。	인형 고양이는 '상처'가 무엇인지도 모른 채 그저 눈을 깜빡일 뿐이었지만.	She just blinked, puzzled — never quite sure what "hurt" meant.						0	1.3重置
+8	不过即便如此，两只小猫还是相处得很愉快。	不過即便如此，兩隻小貓還是相處得很愉快。	2匹はとても楽しく過ごし、	그래도 두 고양이는 함께 즐겁게 지냈다.	But even so, they got along just fine.						0	1.3重置
+9	他们成为了彼此的伴侣。	他們成為了彼此的伴侶。	伴侶にもなった。	그들은 서로의 반려가 되었다.	And before long, they became inseparable.						0	1.3重置
+10	但是一天夜里，火焰吞没了阁楼。	但是一天夜裡，火焰吞沒了閣樓。	だがある日の夜、炎が屋根裏を飲み込んだ。	하지만 어느 날 밤, 불길이 다락방을 삼켰다.	One night, fire swept through the attic.						0	1.3重置
+11	熟睡的玩偶猫对此一无所知，直至小灰猫的叫声将其唤醒——	熟睡的玩偶貓對此一無所知，直至小灰貓的叫聲將其喚醒——	熟睡していたグラドールは、灰色の猫が起こしてくれるまで、気づかずに寝ていた——	잠든 인형 고양이는 아무것도 몰랐고, 그러다가 회색 고양이의 울음소리를 듣고 깨어났다.	The plush cat slept soundly, unaware... until the gray cat's cries woke her.						0	1.3重置
+12	她这才发现，此刻的她，正趴在他那被烟熏黑的背上。	她這才發現，此刻的她，正趴在他那被煙熏黑的背上。	彼女はこの時、彼の煙で黒くなった背中に横たわっていることに気づいた。	그제야 알았다. 그녀는 그의 그을린 등 위에 엎드려 있었다.	Only then did she realize — she was lying on his back, his fur dusted with soot.						0	1.3重置
+13	他背着她跌进月光里，在雪白的灰上，留下一串串脚印……	他背著她跌進月光裡，在雪白的灰上，留下一串串腳印……	彼は彼女を背負ったまま、月光の中で倒れ込んだ。雪のように白い灰の上に足跡を残して……	그는 그녀를 업고 달빛 속으로 미끄러져 갔고, 하얀 재 위로 발자국을 남겼다…	Under the moonlight, he carried her from the blaze, leaving tiny pawprints in the pale ash.						0	1.3重置
+14	从那天起，时光流逝。	從那天起，時光流逝。	その日から、時は流れ——	그날 이후, 시간이 흘렀다.	Time drifted on from that day.						0	1.3重置
+15	虽然玩偶猫依旧不知晓疼痛为何物，但在小灰猫的注目下，她也学会了轻轻走路。	雖然玩偶貓依舊不知曉疼痛為何物，但在小灰貓的注目下，她也學會了輕輕走路。	ラグドールは依然として痛みが何であるかを知らないが、灰色の猫の見守りの下で、彼女はそっと歩くことを覚えた。	인형 고양이는 여전히 아픔을 몰랐지만, 회색 고양이의 보살핌 아래 살금살금 걷는 법을 배웠다.	She still didn't understand pain — but under his watchful gaze, she began to tread more carefully.						0	1.3重置
+16	“也许，我的皮肤对世界的触碰无动于衷，但至少，可以感知到你的心。”	“也許，我的皮膚對世界的觸碰無動於衷，但至少，可以感知到你的心。”	「私の肌は世界を感じられないけど、あなたの心は、感じられるよ」	"내 피부는 세상의 접촉에 끄떡없을지 몰라도, 적어도 너의 마음은 느낄 수 있어."	"Maybe my skin can't feel the world's touch... but I can feel your heart."						0	1.3重置
+17	“谢谢你，带走了我的孤独。”	“謝謝你，帶走了我的孤獨。”	「ありがとう。私の孤独を連れ去ってくれて」	"내 외로움을 가져가 줘서 고마워."	"Thank you... for taking my loneliness away."						0	1.3重置
+18	秋天的第一抹朝阳，与我们爬上了山顶。	秋天的第一抹朝陽，與我們爬上了山頂。	秋の最初の朝日とともに、私たちは山の頂上まで登った。	가을의 첫 햇살과 함께, 우리는 산 정상에 올랐다.	As the first rays of autumn sunlight broke across the sky, we reached the mountaintop.						0	1.3重置
+19	风卷起满地斑斓，花瓣在空中划出优美的弧线，将我的目光引向遥远的海平线。	風捲起滿地斑斕，花瓣在空中劃出優美的弧線，將我的目光引向遙遠的海平線。	風で舞い上がった花びらが、美しい弧を描きながら、私の視線を遠い水平線へと誘った。	바람이 온 땅의 색채를 휘감아 올리고, 꽃잎들이 공중에 아름다운 곡선을 그리며 내 시선을 먼 수평선으로 이끌었다.	The wind stirred a flurry of color — petals tracing graceful arcs that led my gaze to the horizon.						0	1.3重置
+20	初升的朝阳将整片海域染成醉人的葡萄酒色。	初升的朝陽將整片海域染成醉人的葡萄酒色。	顔を出し始めた朝日が海原を葡萄酒のように染め上げた。	떠오르는 아침 해가 온 바다를 황홀한 와인빛으로 물들였다.	The rising sun stained the sea a spellbinding shade of wine.						0	1.3重置
+21	粼粼波光中，万物都沉浸在这微醺的氛围里。	粼粼波光中，萬物都沉浸在這微醺的氛圍裡。	きらめく波間で、万物がほろ酔いの雰囲気に浸っている。	반짝이는 물결 속에서, 만물이 그 달콤한 분위기에 젖어 들었다.	Bathed in that gentle light, everything shimmered with a dreamlike beauty.						0	1.3重置
+22	哼……	哼……	フッ……	흠…	Hmph...						0	1.3重置
+23	身旁的猫汐尔忽然轻哼一声，踮起脚尖褪去凉鞋。	身旁的貓汐爾忽然輕哼一聲，踮起腳尖褪去涼鞋。	隣のマーシルが突然軽く「フッ」と声を上げ、サンダルを脱ぎ捨て、	캣 시에라가 갑자기 옆에서 나지막이 숨을 내쉬더니, 까치발을 들고 샌들을 벗었다.	Beside me, Mauxir huffed and kicked off her sandals.						0	1.3重置
+24	随后，跃入花丛，白色的纱裙被荆棘勾出细碎裂痕，长发间缀满不知名的小野花。	隨後，躍入花叢，白色的紗裙被荊棘勾出細碎裂痕，長髮間綴滿不知名的小野花。	花畑の中に飛び込んだ。するとシフォンの白いスカートがイバラに引っかかりわずかに裂け、長い髪に名も分からない花が散りばめられていた。	그녀가 꽃밭으로 뛰어들더니, 하얀 시폰 드레스가 가시나무에 걸려 잘게 찢어졌고, 이름 모를 들꽃이 긴 머리카락 사이를 장식했다.	Then, barefoot, she darted into the flower-laced brush. Her gauzy white dress snagged on thorns, leaving tiny rips, and blossoms clung to her hair as she passed through.						0	1.3重置
+25	可她全然不顾，赤足奔向最高的岩石堆，轻盈地跃上顶端。	可她全然不顧，赤足奔向最高的岩石堆，輕盈地躍上頂端。	彼女は全く気にせず、素足で一番高い岩の山に向かって駆け上がり、軽やかに頂上に跳び上がった。	하지만 그녀는 전혀 개의치 않고, 맨발로 가장 높은 바위 무더기를 향해 달려가 가뿐하게 정상에 올랐다.	She didn't seem to mind — bounding up the tallest rocks, light and nimble as ever.						0	1.3重置
+26	然后，背起手，转向了我。	然後，背起手，轉向了我。	そして、手を後ろで組み、私の方を向いた。	그러고는 뒷짐 진 채 내게로 돌아섰다.	At the summit, she turned to me, hands behind her back.						0	1.3重置
+27	光穿透她飞扬的发丝，在她蜜糖般的肌肤上镀上了一层金边。	光穿透她飛揚的髮絲，在她蜜糖般的肌膚上鍍上了一層金邊。	光が彼女のなびく髪の毛を透かし、蜜のような肌に金色の縁を施した。	그녀의 나부끼는 머리카락 사이로 빛이 투과되어, 꿀처럼 고운 피부를 금빛으로 물들였다.	Sunlight caught in her windblown hair, gilding her honey-toned skin with gold.						0	1.3重置
+28	喂——	喂——	ねえ——	여기~	Hey—!						0	1.3重置
+29	分析员——听得到吗——	分析員——聽得到嗎——	分析員——聞こえる——？	분석가~ 들리냥~	Adjutant—! Can you hear me—?						0	1.3重置
+30	我听得到啊，不用那么大声。	我聽得到啊，不用那麼大聲。	聞こえてるって、そんな大声をださないで。	들리니까 그렇게 크게 말하지 않아도 돼.	I hear you just fine. You don't need to shout.						0	1.3重置
+31	我知道了啦——	我知道了啦——	わかってるよ！	알았다~	Okay then—!						0	1.3重置
+32	但是——这样很开心喵——	但是——這樣很開心喵——	でも——楽しいニャ——	하지만~ 이렇게 하면 즐겁다냥~	Still—! I just feel really happy, nya—!						0	1.3重置
+33	她眼角眉梢都漾着甜蜜的笑意。	她眼角眉梢都漾著甜蜜的笑意。	彼女の目から甘い笑みがこぼれていた。	그녀의 눈가와 미소에 달콤함이 가득했다.	Her eyes, her smile — every part of her shimmered with joy.						0	1.3重置
+34	被这样炽热的目光注视着，我听见自己的心跳声大得盖过了山风。	被這樣炙熱的目光注視著，我聽見自己的心跳聲大得蓋過了山風。	熱い視線を注がれているのを意識すると、鼓動が山風の音さえもかき消すほど大きく響いている気がした。	그 뜨거운 시선을 받으니, 산바람 소리조차 들리지 않을 정도로 가슴이 크게 두근거렸다.	Under that earnest, unwavering gaze, my heart pounded louder than the mountain wind.						0	1.3重置
+35	（没关系的……）	（沒關係的……）	（大丈夫…）	(괜찮다…)	(It's okay...)						0	1.3重置
+36	（早在去年夏天时，在他找到我之前，就已经对着大海练习过无数遍……）	（早在去年夏天時，在他找到我之前，就已經對著大海練習過無數遍……）	（去年の夏、彼が私を見つける前に、海に向かって何度も練習してきたんだから……）	(작년 여름, 그가 나를 찾기 전에 이미 바다를 향해 수없이 연습했었다…)	(I practiced this by the sea last summer over and over, before he found me...)						0	1.3重置
+37	（那些因为胆怯与不确定而咽下的话语，经过三百多个日夜的陪伴，这次一定要……）	（那些因為膽怯與不確定而咽下的話語，經過三百多個日夜的陪伴，這次一定要……）	（一緒に過ごして来た、この300日…いままで臆病になって飲み込んでいた言葉も、今なら言える——）	(겁이 나고 확신이 없어서 삼켰던 말들이, 300여 일 동안 남아있었다. 이번엔 꼭…)	(After more than three hundred days and nights together... the words I once buried out of fear and doubt — this time, I'll say them for real.)						0	1.3重置
+38	……	……	……	……	...						0	1.3重置
+39	那是，有些漫长的停顿。	那是，有些漫長的停頓。	少し長い沈黙が流れる――	그것은, 다소 긴 침묵이었다.	There was a long pause.						0	1.3重置
+40	少女，深呼吸一口气后，用有些沙哑的颤音，继续高声呼喊着。	少女，深呼吸一口氣後，用有些沙啞的顫音，繼續高聲呼喊著。	少女は、深呼吸して、震える声で、叫びだした。	소녀는 크게 심호흡하더니, 약간 떨리고 쉰 목소리로 계속해서 크게 외쳤다.	She drew a deep breath and called out, her voice cracking slightly.						0	1.3重置
+41	就如同去年夏天疗养期间，在分析员找到自己之前，独自一人无数次练习过的一样……	就如同去年夏天療養期間，在分析員找到自己之前，獨自一人無數次練習過的一樣……	昨年の夏の療養期間中、分析員が自分を見つけてくれる前に、一人で何度も練習したように……	마치 작년 여름 요양 기간, 분석가가 자신을 찾기 전에 혼자서 수없이 연습했던 것처럼…	Just like she had back then — practicing by the sea, again and again, all alone, before the Adjutant found her.						0	1.3重置
+42	喂——分析员——可以喊你的名字吗——	喂——分析員——可以喊你的名字嗎——	ねえ——分析員——あなたのこと、名前で呼んでもいいですか——	저기… 분석가~ 네 이름을 불러도 될까~	Hey— Adjutant— can I call out your name?						0	1.3重置
+43	随——便——你——	隨——便——你——	いーいーよー	마음~ 대로~ 해~	Whatever—you—like—!						0	1.3重置
+44	我故意拖长声调回应着。	我故意拖長聲調回應著。	私はわざと声を引き延ばして応じた。	나는 일부러 느릿느릿 대답했다.	I stretched out each word, playing along.						0	1.3重置
+45	playername——	playername——	playername——	playername~	playername—!						0	1.3重置
+46	哎——	哎——	な――に――	응~	Yes—!						0	1.3重置
+47	playername——	playername——	playername——	playername~	playername—!						0	1.3重置
+48	在——	在——	いるよ――	나 여기 있어~	I'm right here—!						0	1.3重置
+49	像是找到了奇妙的韵律，她的呼唤一声比一声坚定。	像是找到了奇妙的韻律，她的呼喚一聲比一聲堅定。	不思議なリズムを見つけたかのように、彼女の呼びかけは段々と強くなっていく。	마치 신기한 리듬을 찾은 듯, 그녀의 부름은 점점 더 확신에 차올랐다.	Her voice grew steadier with each call, like she'd found her rhythm.						0	1.3重置
+50	每一声呼唤与应答，都在晨光中碰撞出温暖的火花。	每一聲呼喚與應答，都在晨光中碰撞出溫暖的火花。	繰り返される呼びかけと応答が、朝の光の中で温かい火花を散らす。	아침 햇살 속에서, 부름과 응답이 한 마디씩 따스한 불꽃을 일으켰다.	Every echo we traded sent a little warmth rippling through the morning air.						0	1.3重置
+51	playername——playername——playername——	playername——playername——playername——	playername——playername——playername——	playername~ playername~ playername~	playername, playername, playername—!						0	1.3重置
+52	哎——哎——哎——	哎——哎——哎——	いるよ――いるよ――いるよ――	응~ 응~ 응~	Yes, yes, yes—!						0	1.3重置
+53	我们就这样幼稚地玩着回声游戏，就如同在确认着彼此的存在般，我们不断重复着。	我們就這樣幼稚地玩著回聲遊戲，就如同在確認著彼此的存在般，我們不斷重複著。	私たちはこうして、まるでお互いの存在を確かめ合うかのように、何度も同じ言葉を繰り返し合った。	우리는 이렇게 유치하게 메아리 놀이를 하며, 서로의 존재를 확인하듯 계속해서 반복했다.	We played our silly little echo game over and over — as if, with every call and answer, we were reassuring ourselves that the other truly existed.						0	1.3重置
+54	是啊，人类从来不是孤独的物种。	是啊，人類從來不是孤獨的物種。	ああそうだ、人類は決して孤独な種ではない。	그렇다. 인간은 결코 고독한 존재가 아니다.	Yes... humanity was never meant to be alone.						0	1.3重置
+55	即便终将孤独地面对死亡，但至少……	即便終將孤獨地面對死亡，但至少……	たとえ最終的に孤独に死と向き合うことになっても……	죽음은 끝내 홀로 맞이하겠지만, 적어도…	Even if we must one day face death on our own...						0	1.3重置
+56	至少，我们无法孤独地成长。	至少，我們無法孤獨地成長。	孤独に成長することはできないのだ。	적어도, 우리는 홀로 성장할 수 없다.	We can't grow up alone.						0	1.3重置
+57	我们每个人的存在都需要另一个灵魂的见证。	我們每個人的存在都需要另一個靈魂的見證。	私たち一人一人の存在は、別の誰かの魂に認められる初めて成立するのだ。	모든 사람의 존재는 각자 다른 영혼의 증명이 필요하다.	Each of us needs another soul to bear witness to our existence.						0	1.3重置
+58	而也正是因为眼前之人的出现，才让少女的世界有了不一样的回音。	而也正是因為眼前之人的出現，才讓少女的世界有了不一樣的回音。	目の前の人がいるから、少女の世界に異なる響きが生まれた。	그리고 눈앞에 있는 그 사람으로 인해, 소녀의 세계에 새로운 메아리가 생겼다.	And because she met him — the echo of her world was finally heard.						0	1.3重置
+59	呼……	呼……	ふぅ……	후우…	Huff...						0	1.3重置
+60	所以，这是最后的停顿。	所以，這是最後的停頓。	これが最後の間で、	그러니 이것은 마지막 침묵이며…	Then came her final pause.						0	1.3重置
+61	猫汐尔——	貓汐爾——	マーシルは——	캣 시에라는~	I...						0	1.3重置
+62	嗯？	嗯？	なにぃ？	응?	Hm?						0	1.3重置
+63	也是最珍贵的宝藏。	也是最珍貴的寶藏。	最も大切な宝物だ。	가장 소중한 보물이기도 하다.	And at last — the most precious treasure came to light.						0	1.3重置
+64	猫汐尔啊——	貓汐爾啊——	マーシルは——	캣 시에라는~	I...						0	1.3重置
+65	最喜欢playername了！！！	最喜歡playername了！！！	playernameのこと大好きでーす！！！	playername, 널 제일 좋아한다!!!	I love you, playername — more than anything in the world!!!						0	1.3重置
+66	清亮的告白猛然撞击着我的心脏。	清亮的告白猛然撞擊著我的心臟。	鮮やかな告白が、私の心臓を強く揺さぶった。	청아한 고백이 내 심장을 세게 두드렸다.	Her clear, resounding confession made my heart race.						0	1.3重置
+67	望着岩石上那个逆光的身影，喉咙里涌动着滚烫的回应——	望著岩石上那個逆光的身影，喉嚨裡湧動著滾燙的回應——	岩の上、逆光ではっきり見えないあの姿を見つめながら、喉の奥からこみ上げてくる気持ち――	바위 위에서 빛을 등진 그 실루엣을 바라보며, 나는 단전에서부터 뜨거운 대답이 솟구쳤다.	Watching her backlit silhouette atop the boulder, warmth surged from my chest to my throat.						0	1.3重置
+68	然后将所有感情宣泄而出。	然後將所有感情宣洩而出。	そしてすべてを吐き出す。	그리고 모든 감정을 쏟아냈다.	And then, it all came pouring out.						0	1.3重置
+69	我也一样——	我也一樣——	私も――	나도 마찬가지야!	I love you too, Mauxir—!						0	1.3重置
+70	最喜欢猫汐尔了！！！	最喜歡貓汐爾了！！！	マーシルが大好きだ！！！	캣 시에라가 제일 좋아!!!	More than anything in the world!!!						0	1.3重置
+71	……	……	……	……	...						0	1.3重置
+72	晶莹的泪珠在她眼眶里打着转。	晶瑩的淚珠在她眼眶裡打著轉。	涙で濡れた彼女の目は輝いている。	투명한 눈물이 그녀의 눈가에 맺혔다.	Tears shimmered in her eyes.						0	1.3重置
+73	当我穿过簌簌作响的花丛靠近时，她突然把发烫的脸颊埋进掌心——	當我穿過簌簌作響的花叢靠近時，她突然把發燙的臉頰埋進掌心——	ざわめく花々の中を通り抜けて近づくと、彼女は突然、熱くなった頬を手で覆った――	바스락대는 꽃밭을 지나고 다가가자, 그녀는 달아오른 볼을 손바닥에 파묻었다.	As I stepped through the rustling flowers toward her, she quickly covered her burning face with both hands.						0	1.3重置
+74	不要那么大声嘛……会…会不好意思的喵……	不要那麼大聲嘛……會…會不好意思的喵……	そんなに大きな声で言わないで…恥ずかしいから…	그렇게 크게 말하지 말라냥… 부… 부끄럽다냥…	You didn't have to shout, too... It's embarrassing, nya...						0	1.3重置
+75	某些人撒娇的时候可没见这么害羞啊。	某些人撒嬌的時候可沒見這麼害羞啊。	へえ、誰かさんが甘えてくる時は恥ずかしさのかけらもないのにかい？	애교 부릴 때는 이렇게까지 수줍어하지 않았는데.	Oh, that's new — says the girl who was nuzzling into my chest earlier.						0	1.3重置
+76	那……那不一样喵！	那……那不一樣喵！	そ……それは違うニャン！	그… 그건 다르다냥!	Th—That was different, nya!						0	1.3重置
+77	猫猫形态是没羞耻心的！但人类形态的猫汐尔……是……是会像女孩子那样害羞的喵！	貓貓形態是沒羞恥心的！但人類形態的貓汐爾……是…是會像女孩子那樣害羞的喵！	ネコちゃん形態にそういうのはないから！でも人間形態のマーシルは……その、女の子のように恥ずかしがるニャ！	냥이 형태는 부끄러움이 없지만! 인간 형태의 캣 시에라는… 소… 소녀처럼 부끄러워한다냥!	Kitten-form Mauxir has zero shame! But human-form Mauxir... sh—she gets embarrassed like any other girl, nya!						0	1.3重置
+78	还有这种设定啊……	還有這種設定啊……	そういう設定あるんだ……	그런 설정도 있었나…	...Didn't know that was listed in your character sheet.						0	1.3重置
+79	所以…怎么样……	所以…怎麼樣……	それで…どう…？	그래서… 어떠냥…	So... what do you think...?						0	1.3重置
+80	猫汐尔是指？	貓汐爾是指？	なにが？	캣 시에라, 무슨 말이야?	About what?						0	1.3重置
+81	我的宝藏……也就是我的告白，分析员觉得怎么样？	我的寶藏……也就是我的告白，分析員覺得怎麼樣？	私のお宝……つまり私の告白、分析員はどう思ってるの？	내 보물… 그러니까 내 고백을, 분석가는 어떻게 생각하냐고.	My treasure... my confession. Did you like it?						0	1.3重置
+82	很完美。	很完美。	完璧だ。	완벽해.	It was perfect.						0	1.3重置
+83	有一瞬间，我激动到心跳都要停止了。	有一瞬間，我激動到心跳都要停止了。	一瞬、心臓が止まりそうになった。	순간 감격해서 심장이 멎을 것 같았어.	I swear my heart almost stopped.						0	1.3重置
+84	我用手捂住心脏，开玩笑道。	我用手摀住心臟，開玩笑道。	私は手で胸を押さえながら、冗談を言った。	나는 가슴을 손으로 누르며 농담처럼 말했다.	I clutched my chest, half-joking.						0	1.3重置
+85	不许说那么吓人的话。	不許說那麼嚇人的話。	怖いこと言わないで。	그렇게 무서운 말 하지 마라.	Don't say scary stuff like that...						0	1.3重置
+86	少女的声音带着轻微的颤抖，她突然用力抱紧了我。	少女的聲音帶著輕微的顫抖，她突然用力抱緊了我。	少女は声をわずかに震わせながら、突然私を強く抱きしめた。	소녀의 목소리가 살짝 떨렸고, 그녀가 갑자기 나를 꽉 껴안았다.	Her voice trembled — then, without warning, she threw her arms around me.						0	1.3重置
+87	猫汐尔……	貓汐爾……	マーシル…	캣 시에라…	Mauxir...						0	1.3重置
+88	你是我与这个世界唯一的联系。	你是我與這個世界唯一的聯繫。	あなたは私とこの世界との唯一のつながりだよ。	넌 내가 이 세상과 맺은 유일한 연결고리다.	You're my only tie to this world.						0	1.3重置
+89	因为你的出现，我再也无法忍受孤独了，我开始渐渐理解痛苦的含义。	因為你的出現，我再也無法忍受孤獨了，我開始漸漸理解痛苦的含義。	あなたが現れてから、孤独に耐えられなくなっちゃったよ。苦しみの意味も理解し始めた。	네가 나타난 후로, 난 더 이상 외로움을 견딜 수 없게 됐고, 고통이 무엇인지 조금씩 이해하게 됐다.	Ever since you came into my life, I can't bear loneliness anymore. I've even started to understand what pain feels like.						0	1.3重置
+90	我实在无法想象失去你会是什么样……	我實在無法想象失去你會是什麼樣……	あなたを失うことなんて想像できない…	널 잃는다면, 어떻게 될지 상상도 못 하겠다…	I can't even imagine a world without you...						0	1.3重置
+91	你是唯一让我想要去靠近，想要去理解，想要……喜欢上的人。	你是唯一讓我想要去靠近，想要去理解，想要……喜歡上的人。	近づきたい、理解したい、そして……好きになりたいって思う唯一の人が、あなたなの。	넌 내가 다가가고 싶고, 이해하고 싶고… 좋아하고 싶은 유일한 사람이다.	You're the only one I've ever truly wanted to grow close to... to understand — and to love.						0	1.3重置
+92	所以，请不许再说什么心跳停止那么恐怖的话了……	所以，請不許再說什麼心跳停止那麼恐怖的話了……	だから、もう心臓が止まるなんて怖いこと言わないで……	그러니까, 심장이 멈춘다는 그런 무서운 말은 다시는 하지 마…	So please... no more scary talk about your heart stopping, okay?						0	1.3重置
+93	如此沉重，如此沉沦的告白。	如此沉重，如此沉淪的告白。	こんなにも重たい告白なのに、	무겁고도, 깊이 빠져드는 고백이었다.	A love so deep, it should've felt heavy...						0	1.3重置
+94	但是我却感受不到半分压力。	但是我卻感受不到半分壓力。	嫌だなんて少しも思っていない。	하지만 나는 전혀 부담스럽지 않았다.	But instead, I felt only warmth.						0	1.3重置
+95	因为，面对这个女孩，我的心房早已敞开。	因為，面對這個女孩，我的心房早已敞開。	なぜなら、この少女の前では、私の心の扉はとっくに開かれていたからだ。	이 소녀를 대할 때면, 내 마음은 언제나 활짝 열려있으니까.	Because my heart had long been open to her.						0	1.3重置
+96	我答应你。	我答應你。	あぁ、約束する。	약속할게.	I promise...						0	1.3重置
+97	这颗心会永远为你而跳动，至死不渝。	這颗心會永遠為你而跳動，至死不渝。	この心臓は、永遠にあなたのために動くよ。	이 심장은 영원히 너를 위해 뛸 거야, 죽을 때까지.	This heart will keep beating for you — to my very last breath.						0	1.3重置
+98	唔……	唔……	んん……	으음…	Nngh...						0	1.3重置
+99	而这份信心也比任何誓言都要坚定……	而這份信心也比任何誓言都要堅定……	そしてこの自信は、どんな誓いよりも揺るぎないものだ……	이 확신은 그 어떤 맹세보다도 굳건했다…	And that quiet certainty... meant more than any vow ever could.						0	1.3重置
+100	死亡与生存。	死亡與生存。	死と生。	죽음과 생존.	Life and death.						0	1.3重置
+101	孤独与理解。	孤獨與理解	孤独と理解。	고독과 이해.	Loneliness and connection.						0	1.3重置
+102	痛楚与欢愉。	痛楚與歡愉。	痛みと喜び。	고통과 환희.	Pain and joy.						0	1.3重置
+103	漫长的等待终于落下帷幕。	漫長的等待終於落下帷幕。	長い待ち時間がようやく幕を閉じた。	긴 기다림이 마침내 막을 내렸다.	At long last, the waiting was over.						0	1.3重置
+104	当初升的朝阳完全照亮黑色遗迹时。	當初升的朝陽完全照亮黑色遺跡時。	夜明けの朝日が黒い遺跡を完全に照らし出した時、	떠오르는 아침 해가 검은 유적을 완전히 비출 때.	As the newborn sun spilled light across the darkened ruins...						0	1.3重置
+105	一切谜题，都融化在炙热的吻中。	一切謎題，都融化在炙熱的吻中。	全ての謎が、熱いキスの中に溶けていく。	모든 수수께끼가 뜨거운 입맞춤 속에 녹아들었다.	Every last mystery melted into the warmth of a burning kiss.						0	1.3重置

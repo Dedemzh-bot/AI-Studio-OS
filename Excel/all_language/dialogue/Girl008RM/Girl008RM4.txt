@@ -1,0 +1,111 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	“亲爱的是什么时候喜欢上我的？”芬妮刚才是想要问我这个问题吧？	“親愛的是什麼時候喜歡上我的？”芬妮剛才是想要問我這個問題吧？	「いつから好きになった」だったな？	자기, 날 언제부터 좋아했던 거야? 페니가 묻고 싶었던 질문이지?	Just now, you wanted to ask when I fell for you, right?						0	
+2	坦率来说，我不知道。	坦率來說，我不知道。	正直、私にもわからない。	솔직히 말하면, 나도 잘 모르겠어.	To be honest... I'm not sure.						0	
+3	可能是在初次见面，在破碎的瓦砾中，第一次抓住你，将你拥在怀中，从你身上得到勇气的时候。	可能是初次見面，在破碎的瓦礫中，第一次抓住你，將你擁在懷中，從你身上得到勇氣的時候。	初めて会ったときからかもしれない。君を瓦礫から助け出した時、私は君から勇気をもらったからね。	처음 만났을 때, 폐허 속에서 처음으로 너를 잡고 품에 안았을 때, 네게 용기를 얻었을 때일지도 모르지.	Maybe it was when we first met — when I pulled you out of the rubble and found the courage to keep going because of you.						0	
+4	从我身上……得到勇气？	從我身上……得到勇氣？	あたしから……勇気を？	나에게… 용기를 얻었다고?	You found courage because of... me?						0	
+5	也可能是第一次约芬妮出来，你明明被繁杂的事情拖累脚步，却要装作没事人接受我的邀请，靠近我的时候。	也可能是第一次約芬妮出來，你明明被繁雜的事情拖累腳步，卻要裝作沒事人接受我的邀請，靠近我的時候。	あるいは、初めて君を誘った時かもしれない。あの時、君は任務があるにも関わらず、なんでもないように私からの誘いに応えて、私に歩み寄ろうとしてくれた。	아니면 처음으로 페니랑 약속을 잡은 날이었을지도 몰라. 분명 복잡한 일들 때문에 힘들었으면서, 아무 일 없는 척 내 약속을 받아주고 나에게 다가온 그날 말이야.	Or perhaps it was the first time I asked you out. You were clearly swamped with work, yet you still accepted my invitation, pretending everything was fine.						0	
+6	……	……	……	……	...						0	
+7	芬妮的眼里写满难以置信，我微笑凝视，回望她的目光。	芬妮的眼裡寫滿難以置信，我微笑凝視，回望她的目光。	ファニーは信じられないとでもいうように私をじっと見つめた。	페니는 믿을 수 없다는 듯한 눈빛으로 나를 바라보았다. 나는 웃음으로 화답했다.	Fenny's eyes filled with astonishment. I smiled softly, holding her gaze.						0	
+8	分析员，多亏了你，这件事才能这么快解决。	分析員，多虧了你，這件事才能這麼快解決。	助かりましたよ。分析員が来てくれたお陰で、この問題を予定より早く解決できました。	분석가님, 덕분에 일을 빨리 해결할 수 있었어.	We couldn't have resolved this so quickly without you, Adjutant.						0	
+9	就算我不来，明天芬妮也能好好解决的。	就算我不來，明天芬妮也能好好解決的。	私が来なくても、明日、ファニーが解決してくれるけどね。	내가 오지 않았어도, 페니가 내일 제대로 해결했을 거야.	Even if I hadn't shown up, Fenny would have handled it perfectly tomorrow.						0	
+10	对了，这件事还请不要告诉她，我不想让她感觉到压力。	對了，這件事請不要告訴她，我不想讓她感覺到壓力。	このことはファニーに黙っててくれ。余計なプレッシャーをかけたくないんだ。	참, 이번 일은 페니에게 말하지 마. 괜히 부담 느끼게 하고 싶지 않아.	But still, don't tell her about this. I don't want to stress her out.						0	
+11	多谢了。	多謝了。	頼んだよ。	고마워.	Thanks.						0	
+12	这是哪里的话……分析员你特意空出时间帮我们解决麻烦，是我们要感谢你才对。	這是哪裡的話……分析員你刻意空出時間幫我們解決麻煩，是我們要感謝你才對。	それくらい、お安い御用です。分析員がわざわざ出向いてくれたことに、みんな感謝しています。	그게 무슨… 분석가님이 일부러 시간 내서 우리 문제를 해결해 준 건데, 우리가 고마워해야지.	It's us who should be thanking you, Adjutant. You went out of your way to help us, and we're really grateful.						0	
+13	又或者是某次你明明才和父母吃过晚饭，发现我后，又故意装作和我偶遇，陪我吃饭，看着我笑，贴近我，将你觉得好吃的食物分享给我，往我嘴里塞。	又或者是某次你明明才和父母吃過晚飯，發現我後，又故意裝作和我偶遇，陪我吃飯，看著我笑，貼近我，將你覺得好吃的食物分享給我，往我嘴裡塞。	もしくは、君が初めてご飯を奢ってくれた時かもしれない。あの日、君はご両親と一緒にご飯を食べたのに、私を見かけるとわざわざ偶然出会ったように振る舞い、私を誘ってきたんだ。	그것도 아니면, 언젠가 네가 부모님과 저녁을 먹고 나서, 나를 보곤 우연히 마주친 척하며 나랑 밥을 먹어준 날일지도 모르지. 날 보고 웃어주고, 다가와서 네가 좋아하는 음식을 나눠주고, 입에 넣어주기까지 했잖아.	Or maybe it was that time when you had just finished dinner with your parents, and you saw me. You pretended to bump into me by chance, then joined me for another meal, smiling sweetly, feeding me bites of what you thought was the best dish on the table.						0	
+14	为什么……分析员会知道。	為什麼……分析員會知道。	なんで……それを？	어떻게… 알고 있는 거야.	Wait... how did you know?						0	
+15	因为在芬妮看见我之前，我就注意到你了。	因為在芬妮看見我之前，我就注意到你了。	君が私に気づくよりもずっと前に、私はすでに君に気づいていたからね。	페니가 날 보기 전부터, 페니를 보고 있었으니까.	Because, Fenny, I saw you long before you noticed me.						0	
+16	芬妮，是和父母在一起吗？	芬妮，是和父母在一起嗎？	ファニー？一緒にいるのは、ファニーの両親なのか？	페니는 부모님이랑 같이 지내는 거야?	It's Fenny! And she's with... her parents, it seems.						0	
+17	不知道带着何种心情，看着少女与她的父母走进餐厅后，我跟了上去，在角落的位置静望着她的侧脸。	不知道帶著何種心情，看著少女與她的父母走進餐廳後，我跟了上去，在角落的位置靜望著她的側臉。	少女の後ろ姿を追って、私はなんとなくそのレストランに入った。隅っこの席に一人で座って、彼女の横顔ばかりを見ていた。	무슨 기분을 느껴야 할지 모르던 중에, 소녀가 부모님과 함께 식당에 들어간 것을 발견했다. 소녀를 따라 구석에 앉아서 그녀의 옆태를 조용히 구경하고 있었다.	I saw her walk into the restaurant with her parents. I wasn't entirely sure what I was thinking, but I followed. I sat quietly in a corner, watching her from afar.						0	
+18	也许在她吃过饭后，我们可以在某处偶然相遇。	也許在她吃過飯後，我們可以在某處偶然相遇。	彼女が食事を終えた頃に、偶然出会ったふうを装って、彼女に挨拶しよう。	식사 후에 어딘가에서 우연히 만날 수 있을지도 몰라.	I thought maybe after she finished her meal, we could "bump into each other" somewhere.						0	
+19	不过我没有想到，你会主动找过来。	不過我沒有想到，你會主動找過來。	なのに、君のほうから近づいてくるとは。	하지만 네가 먼저 다가와 줄 줄은 몰랐어.	But I never expected you'd come to me.						0	
+20	芬，芬妮……？！	芬，芬妮……？！	ファ、ファニー！？	페, 페니…?!	F—Fenny!?						0	
+21	分析员干嘛一副尾随犯被抓住的表情？	分析員幹嘛一副尾隨犯被抓住的表情？	なんでそんなに慌てるのよ？	분석가, 왜 스토킹하다 들킨 것 같은 표정이야?	Why do you look like a busted stalker?						0	
+22	我现在还能记得，和芬妮吃完饭一起散心的时候，你在我身边转来转去，像是有说不完的话，扬起的头发有柔软的香气，蹦跳着有用不完的活力。	我現在還能記得，和芬妮吃完飯一起散心的時候，你在我身邊轉來轉去，像是有說不完的話，揚起的頭髮有柔軟的香氣，蹦跳著有用不完的活力。	今でも覚えているよ。食事を終えた後、一緒に散歩した時、君はずっと楽しそうに話していた。嬉しそうにステップを踏みながら歩く君は、本当に輝いていた。	너와 밥을 먹고 산책을 하던 중, 네가 끊임없이 말을 이어가며 내 주변을 맴돌던 게 기억나. 휘날리는 머리카락 향은 부드러웠고, 이리저리 돌아다니는 너는 에너지가 넘쳤었지.	I still remember that night. After dinner, when we walked, you were so full of energy, circling around me, chatting away. Your soft hair smelled nice, and you bounced with such vibrancy.						0	
+23	分开前，你站在灯光下望着我，却比灯光还要闪耀。	分開前，你站在燈光下望著我，卻比燈光還要閃耀。	別れる時に、街灯の下に立つ君は何よりも眩しい星のようだった。	헤어지기 전, 가로등 밑에 서서 날 바라보던 너는 가로등보다도 환했지.	Before we said goodbye, you stood under the streetlight, looking at me. But to me, you were brighter than the light itself.						0	
+24	我也可能是在那个时候，喜欢上你的。	我也可能是在那個時候，喜歡上你的。	好きになったのは、あの時かもしれない。	아마 나도 그때부터 널 좋아한 걸지도 몰라.	Maybe it was at that moment I realized I was falling for you.						0	
+25	少女的身体不受控制地颤抖起来，眼泪情不自禁自她的眼中流淌。	少女的身體不受控制地顫抖起來，眼淚情不自禁自她的眼中流淌。	気づけば、体を震わせながらファニーは静かに涙を流していた。	소녀는 저도 모르게 몸을 떨며 하염없이 눈물을 흘렸다.	Fenny's body trembled uncontrollably, her eyes glistening with tears.						0	
+26	她脸颊泛起红晕，跌跌撞撞向我靠近，抓住我的手。	她臉頰泛起紅暈，跌跌撞撞地向我靠近，抓住我的手。	彼女は頬を赤く染め、そのまま私の胸に飛び込んできた。	그녀는 얼굴을 붉힌 채 얼떨떨하게 나에게 다가와 내 손을 잡아 주었다.	Her cheeks flushed as she stumbled toward me, reaching for my hand.						0	
+b-1											0	
+27	拥抱她	擁抱她	抱きしめる	그녀를 껴안는다	Hug her						0	
+28	我拥住完全瘫软在我怀里的温软身躯。	我擁住完全癱軟在我懷裡的溫軟身軀。	腕の中で、彼女は震えている。	나는 힘이 풀려버린 보드라운 몸을 안았다.	She collapsed into my arms, her body warm and soft against me.						0	
+29	我没有就这样放过她，倾诉情绪的闸门已经打开，内心激荡的情感，我想要一口气全部传递给她。	我沒有就這樣放過她，傾訴情緒的閘門已經打開，內心激盪的情感，我想要一口氣全部傳遞給她。	だが、私が話したい言葉はまだ終わっていなかった。一度壊れた堤防は、そう簡単には塞がってくれない。今日こそ、この胸にずっと秘めた思いを、すべて彼女に伝えないと。	그녀를 놓지 않았다. 마음의 문이 활짝 열린 지금, 벅찬 감정들을 한꺼번에 전하고 싶었다.	I wasn't ready to stop. With the floodgates of my emotions wide open, I needed to share everything that had been building up inside me, even if it might overwhelm her more.						0	
+b-2											0	
+30	咬住她的耳垂	咬住她的耳垂	彼女の耳元で囁く	그녀의 귓불을 깨문다	Gently bite her earlobe						0	
+31	对了，我喜欢上芬妮，还可能是在芬妮用仅我可见的“心情”，吸引我注意力的时候。	對了，我喜歡上芬妮，也可能是在芬妮用僅我可見的「心情」，吸引我注意力的時候。	ああ、そうだ。あるいは、君が私だけに見せる「つぶやき」を書いたときかもしれない。	참, 어쩌면 내가 페니에게 반한 건, 페니가 나에게만 보이는 '기분'으로 내 시선을 끌었을 때일지도 몰라.	Or maybe... it was when you posted those private status updates, trying to draw my attention.						0	
+32	你有一条新消息提示。	你有一條新訊息提示。	新しいメッセージを受信しました。	새 메시지가 있습니다.	You've received a friend status update notification.						0	
+33	狮子小姐想要闪耀更新了心情\n\n\n【图片-鸟、芬妮】\n不知道哪来的一只鸟停在了本小姐的胳膊上，不过比起可爱的生物，我还是更喜欢更凶猛一点的。	獅子小姐想要閃耀更新了心情\n\n\n【圖片-鳥、芬妮】\n不知道哪來的一隻鳥停在了本小姐的胳膊上，不過比起可愛的生物，我還是更喜歡更兇猛一點的。	ライオンさんは輝くなりたいがつぶやきを発表しました\n\n\n「画像-鳥、ファニー」\n小鳥があたしの腕に留まったわ。でも、こういう可愛い生き物より、やっぱり勇ましい動物のほうが好きかな。	빛나고 싶은 미스 라이언 님이 상태 메세지를 업데이트 했습니다.\n\n\n[이미지: 새, 페니]\n어디선가 나타난 새가 내 팔에 앉았다. 하지만 난 역시 귀여운 것보단 사나운 게 좋다.	Miss Lioness Will Shine Brighter posted a status update.\n\n\n[Image of a bird perched on Fenny's arm]\nA random bird landed on my arm today. Cute, I guess, but I prefer fiercer creatures.						0	
+34	你看这个。	你看這個。	ほら、見てくれ、情報官くん。この鳥、かわいいだろ？	이것 좀 봐.	Look at this.						0	
+35	这鸟还挺可爱的。这是芬妮单独给你发的图片？	這鳥還挺可愛的。這是芬妮單獨寄給你的圖片？	確かに可愛いですね。ファニーから送られきたのですか？	새가 귀엽네요. 페니가 따로 보내준 건가요?	That bird's pretty cute. Did Fenny send this to you?						0	
+36	这是……	這是……	いや、これは……	이건…	No, it's...						0	
+37	……没什么。	……沒什麼。	……いや、なんでもないよ。	…아무것도 아냐.	...Nothing.						0	
+38	又或者是看到芬妮把珍爱的玫瑰一口气送给那个小女孩的时候。	又或者是看到芬妮把珍愛的玫瑰一口氣送給那個小女孩的時候。	あるいは、気に入ったバラを、束ごとあの少女にあげた時。	아니면 페니가 아끼는 장미를 단번에 그 여자아이에게 줬을 때일지도 모르지.	Or maybe it was when I saw you give away your cherished roses to that little girl.						0	
+39	让我情不自禁想要将一束玫瑰送给你，虽然你比玫瑰更加美丽。	讓我情不自禁想要將一束玫瑰送給你，雖然你比玫瑰更美。	あの時の君は、バラよりも美しかった。	갑자기 네게 장미꽃을 선물하고 싶었어. 비록 넌 이 꽃보다도 예쁘지만 말이야.	It made me want to give you a larger bouquet of roses, even though you're far more beautiful than any flower.						0	
+40	小妹妹，这个给你。	小妹妹，這個給你。	お嬢ちゃん、これもあげるよ。	여기, 너 줄게.	Here, take this.						0	
+41	谢谢哥哥。可是……姐姐送给我很多了。	謝謝哥哥。可是……姐姐送我很多了。	ありがとう、お兄ちゃん。けど……お花は、お姉ちゃんからいっぱいもらったの。	감사해요. 하지만… 언니가 이미 많이 줬는걸요.	Thank you, sir! But... that kind lady just gave me a big bunch of roses.						0	
+42	这个叫康乃馨，是专门送给母亲的花。小妹妹也想将自己的爱传达给母亲吧？	這個叫康乃馨，是專門送給母親的花。小妹妹也想將自己的愛傳達給母親吧？	これはカーネーションというんだ。お父さんのかわりにバラを贈っても良いけど、お嬢ちゃんがお母さんにプレゼントするなら、この花が一番相応しいよ。	이건 카네이션이야. 어머니께 선물하는 꽃이지. 너도 엄마에게 네 사랑을 전하고 싶지 않아?	These are carnations. They're meant for mothers. I'm sure you want to show your mom how much you love her, right?						0	
+43	哥哥可以用这个和你换一支吗？中间的一支就好。	哥哥可以用這個跟你換一支嗎？中間的一支就好。	もしよかったら、このカーネーションを、一本のバラと交換してくれないか？	오빠 거랑 하나만 바꿔줄 수 있을까? 중간에 있는 꽃 한 송이면 돼.	Would you let me trade this for just one of your roses? Just the one in the middle.						0	
+44	大哥哥是要送给姐姐吗？	大哥哥是要送給姊姊嗎？	さっきのお姉ちゃんにあげるの？	오빠는 언니에게 선물하려는 거예요?	Are you going to give it to that kind lady?						0	
+45	是的。	是的。	そうだ。	응.	Yes.						0	
+46	姐姐，比玫瑰，更加好看。	姐姐，比玫瑰，更好看。	お姉ちゃん、バラより綺麗だったね。	언니는 장미꽃보다 더 예뻐요.	She is prettier than any of the roses.						0	
+47	嗯，我也是这么想的。	嗯，我也是這麼想的。	ああ、私もそう思うよ。	응, 나도 그렇게 생각해.	I agree.						0	
+48	还可以是在一个雨天，因为一场令我永生难忘的舞蹈。	還可以是在一個下雨天，因為一場令我永生難忘的舞蹈。	あるいは、あの雨の夜。最高の経験だったよ。きっと一生忘れられないと思う。	그것도 아니라면, 비가 오던 어느 날의 잊을 수 없는 왈츠 때문일지도 몰라.	Or maybe it was that rainy day, during that dance that's been etched in my memory forever.						0	
+49	在雨中拥紧少女玲珑有致的躯体时，我感觉了某种情绪从胸口涌出，自她的身躯传递而来，点燃我的灵魂。	在雨中擁緊少女玲瓏有致的軀體時，我感到了某種情緒從胸口湧出，自她的身軀傳遞而來，點燃我的靈魂。	降りしきる雨の中で、私は彼女の細い体から、魂を焦がれるほどの熱を感じた。	빗속에서 소녀의 아담한 몸을 꼭 껴안으며, 일말의 감정이 가슴 속에서 들끓었다. 설명할 수 없는 감정이 그녀의 몸을 타고 들어와 내 영혼을 지폈다.	Holding her rain-soaked, graceful body close in the downpour, I felt an overwhelming emotion surge from her chest, flowing into me, lighting my soul on fire.						0	
+50	已经足够了，我知道了，不要再说了。	已經夠了，我知道了，不要再說了。	もう、いい。わかったから、これ以上やめて……	알겠어, 알겠어. 그만 얘기해.	That's enough... I understand now. Please, stop.						0	
+51	她的声音带着哭腔，带着呜咽。	她的聲音帶著哭腔，帶著嗚咽。	ファニーは啜り泣きしながら、分析員の言葉を遮った。	그녀는 울먹이며 말했다.	Her voice trembled, thick with sobs.						0	
+52	分析员每说一句话，就像是一枚伟大乐曲的音符敲击在琴键，那些音符最终串成一曲恢弘的曲子，仿佛要在她的灵魂中奏响。	分析員每說一句話，就像是一枚偉大樂曲的音符敲擊在琴鍵，那些音符最終串成一曲恢弘的曲子，彷彿要在她的靈魂中奏響。	分析員の言葉は、まるでピアノが奏でる音符がオーケストラの演奏に変わっていくように、勢いと熱量をもってファニーの魂に響いた。	분석가가 뱉은 말들은 마치 아름다운 악보를 연주하는 피아노처럼 페니의 영혼을 울렸다.	Each word the Adjutant spoke resonated like a note deep within her heart, striking melodic chords that composed a grand symphony in her soul.						0	
+53	我想要向芬妮传达的，这些其实还远远不够。	我想要向芬妮傳達的，這些其實還遠遠不夠。	まだ全然足りない。君に伝えたいことは、まだたくさんあるんだ。	페니에게 전해주고 싶은 것에 비해 턱없이 부족한 표현이었어.	But I'm far from finished, Fenny. There's still so much more I want to tell you.						0	
+54	你战斗的时候……坚持的时候……为了我不顾一切的时候……都在我脑中留下了不计其数的烙印。	你戰鬥的時候……堅持的時候……為了我不顧一切的時候……都在我腦中留下了不計其數的烙印。	君の戦う姿。敵わない相手を前にしても、一歩も引かないその強さ。私を守るために踏み留まるその勇ましさ。そのすべてに、目を惹かれた。	네가 싸울 때… 버텨줄 때… 나를 위해 모든 것을 내던질 때마다… 머릿속에 지울 수 없는 낙인을 새겼어.	Every time you fight, every time you follow through, every time you put yourself at risk for me... everything about you has left an imprint on my mind.						0	
+55	等回过神来，才惊觉自己喜欢上你的理由实在有太多太多。	等回過神來，才驚覺自己喜歡上你的理由實在太多太多。	気づいたら、君を好きになった理由は数え切れないくらい増えていた。	정신을 차려보니, 널 좋아하게 된 이유가 너무나도 많이 쌓여 버렸지.	And by the time I realized it, I was already in love with you for so many reasons.						0	
+56	是的。	是的。	そう。	응.	That's right.						0	
+57	我无法回答，到底是哪个时候，在哪个准确的节点，我喜欢上芬妮。但有一点我可以确定——	我無法回答，到底是哪個時候，哪個準確的節點，我喜歡上芬妮。但有一點我可以確定——	具体的に、いつ好きになったかはわからない。けど、これだけは言える——	대체 언제, 어떤 시점부터 페니를 좋아하게 된 건지는 말할 수 없지만, 이건 확실해…	I can't tell you the exact moment it happened or the precise reason why I fell for you. But one thing is clear...						0	
+58	在很早之前，我就喜欢上了你。	在很早之前，我就喜歡上你了。	ずっと前から、好きなんだ。	난 아주 오래전부터 너를 좋아했어.	I've loved you for a very long time.						0	
+59	呜呜！……啊啊啊……！！	嗚嗚嗚！……啊啊啊……！！	うぅ……ああ……！	흑! …으아앙…!!	*sobbing* Arghhh...!!						0	
+60	我不是有好好的回答了吗？为什么要哭呢，我的小狮子。	我不是有好好的回答了嗎？為什麼要哭呢，我的小獅子。	参ったな。ちゃんと答えたのに、なぜ泣くんだ？	제대로 대답했는데 왜 우는 거야? 내 리틀 라이언.	Why are you crying, my little lioness? You don't like my answer?						0	
+b-3											0	
+61	擦拭她的眼泪	擦拭她的眼淚	彼女の涙を拭く	눈물을 닦아 준다.	Wipe her tears						0	
+62	为什么！为什么我现在才知道！？	為什麼！為什麼我現在才知道！？	なんで……これじゃ、まるで私がバカみたいじゃない！	왜! 난 왜 이제야 안 거야?!	Why... why am I only learning this now!?						0	
+63	什么叫做现在才知道？	什麼叫做現在才知道？	なぜそうなる？	그게 무슨 말이야?	What do you mean?						0	
+64	我一直以为分析员没有注意到。只是我在笨拙地向分析员接近……	我一直以為分析員沒有注意到。只是我笨拙地向分析員接近……	ずっと、分析員が何も知らないと思って、アプローチをかけていたのよ……	분석가는 모르는 줄 알았어. 나만 바보같이 분석가에게 다가가고 있는 줄 알았는데…	I always thought that you never noticed. I thought it had always been just me, awkwardly trying to get closer to you...						0	
+65	可原来这些……分析员全部都记得，连细节都……	但原來這些……分析員全部都記得，連細節都……	なのに……分析員はすべて知った上で、あたしに合わせていたなんて……	분석가는… 전부 기억하고 있었다니. 사소한 것까지 다…	But it turns out you remembered everything about us — even the smallest details...						0	
+66	那些我以为是偶然的回应……其实都是……分析员为我做出的努力……	那些我以為是偶然的回應……其實都是……分析員為我所做的努力……	報われたのは、あたしが頑張ったからじゃない……分析員がずっと歩み寄ってくれてたから……	우연이라고 생각했던 대답들이… 사실… 전부 날 위한 노력이었다니…	Those sweet moments I thought were just lucky coincidences... they were actually you making an effort for me all along.						0	
+67	可是啊，我从来不觉得，这些是芬妮今天才知道的。	可是啊，我從來不覺得，這些是芬妮今天才知道的。	君だって、精一杯歩み寄ってくれてたじゃないか。だから、君はきっとわかっていたんだ。	난 페니가 지금에서야 깨달았다고 생각하지 않아.	But Fenny, I don't think this is the first time you realize all this.						0	
+68	芬妮在心里，大概一直是明白的。	芬妮在心裡，大概一直是明白的。	心のどこかで、きっと。	페니도 마음속으로는 알고 있었을 거야.	I think, deep down, you've always known.						0	
+69	所以在新恒提罗，芬妮才能听到我的声音，给予我回应吧。	所以在新恆提羅，芬妮才能聽到我的聲音，給予我回應吧。	ニューガントラで、君は私の声を聞いた。しかも返事をしてくれただろう？	그래서 뉴헨틸로에서 페니가 내 목소리를 듣고 답해줄 수 있었던 거겠지.	That's why, back in New Hentiro, you heard my voice and answered my call, didn't you?						0	
+70	……	……	……	……	...						0	
+71	她望向分析员眼中倒映的自己，再次坠入过往的大梦中。	她望向分析員眼中倒映的自己，再次墜入過往的大夢中。	分析員の目に映る自分の姿を見つめ、ファニーはあの時のことを思い出した。	그녀는 분석가의 눈에 비친 자신을 보며, 또다시 과거의 꿈에 빠졌다.	She gazed at her own reflection in the Adjutant's eyes, falling back into the dreamlike memories of their past.						0	
+72	目标受体神格侵蚀程度，百分之九十九。目标受体“醒世之尘”融合度，百分之九十九。	目標受體神格侵蝕程度，百分之九十九。目標受體「醒世之塵」融合度，百分之九十九。	治療対象神格侵蝕進捗、99%。治療対象「アポカリプスダスト」融合進捗、99%。	목표물의 만트라 침식 상태 99%. 목표물의 '각성의 먼지' 융합도 99%.	Patient Flooding at 99% capacity. Patient "Awakening Dust" fusion at 99%.						0	
+73	神后“赫拉”，欢迎来到真神降临的世界。	神后「赫拉」，歡迎來到真神降臨的世界。	神々の女王「ヘーラー」。ようこそ至上者の世界へ。	진짜 신이 강림한 세계에 온 걸 환영해, 신후 '헤라'.	Divine "Hera," welcome to the world graced by true deities — the Demiurges.						0	
+74	梦中芬妮见到她，她正向着她最重要的人靠近。	夢中芬妮見到她，她正向她最重要的人靠近。	夢の中で、あの子が大事な人に近づいていく光景を見た。	꿈속의 페니는 헤라가 그녀에게 가장 소중한 사람에게 다가가는 것을 보고 있었다.	In Fenny's dream, she saw her approaching the one she held dearest.						0	
+75	她好似骑着八足的骏马，驾驭着雷霆，款款而来，身上的威严简直像是与溢出来的雷霆一齐扩散。	她好像騎著八足的駿馬，駕馭著雷霆，款款而來，身上的威嚴簡直像是與溢出來的雷霆一齊擴散。	八本足の馬に跨って、稲光を纏ってゆっくりと歩くその姿はなんと神々しいものか。	그녀는 마치 빛보다 빠른 말을 타고, 번개를 가르며 달려오는 것만 같았다. 그녀의 기개는 마치 천둥처럼 단번에 사방으로 퍼졌다.	It was as if she rode on a mighty eight-legged steed, commanding thunder and lightning, her presence majestic and charged with divine authority.						0	
+76	她在向他靠近了，可我呢？	她在向他靠近了，可我呢？	なら、自分は？	그녀는 그에게 다가가고 있는데, 나는?	She's getting closer to him. But what about me?						0	
+77	成为赫拉，拥抱赫拉，你可以拥有和她一样的力量。	成為赫拉，擁抱赫拉，你可以擁有和她一樣的力量。	ヘーラーを受け入れなさい。ヘーラーになりなさい。そうすれば、彼女と同等の力を手に入れるのだ。	헤라가 되고, 헤라를 안으면 그녀와 같은 힘을 얻을 수 있다.	Become Hera. Embrace her, and you'll wield her power.						0	
+78	要成为赫拉，需要付出什么？	要成為赫拉，需要付出什麼？	なら、その対価は？	헤라가 되려면 어떻게 해야 해?	What does it take for me to become Hera?						0	
+79	你不会记得他。	你不會記得他。	彼のことを、忘れること。	그자를 잊어야 할 것이다.	You will forget him.						0	
+80	……那我可真是****！	……那我可真是****！	なら……却下よ！	…정말 ***이네!	...Then to hell with that!						0	
+81	你不给我的，我就自己抢过来！！	你不給我的，我就自己搶過來！！	あたしに譲ってくれないなら、自分の手で勝ち取るわ！！	네가 안 주겠다면, 내가 직접 뺏겠어!!	If you won't give it to me, I'll take it myself!						0	
+82	那一刻，她是亡命之徒，无路可退。	那一刻，她是亡命之徒，無路可退。	もう彼女に選択肢はなかった。命を賭けて、奪うしかない。	그 순간, 그녀는 더 이상 물러설 곳이 없었다.	In that moment, she became a desperado with no retreat.						0	
+83	她可以被夺走荣耀，夺走桂冠，可永远不会被夺走骨子里的骄傲，更不会被夺走她对分析员的爱！她无法想象……也不会接受，自己不记得他，失去他的现实！	她可以被奪走榮耀，奪走桂冠，但永遠不會被奪走骨子裡的驕傲，更不會被奪走她對分析員的愛！她無法想像……也不會接受，自己不記得他，失去他的現實！	チャンピオンになれなくてもいい。栄誉と無縁でもいい。彼女の気高さと分析員への愛だけは、誰にも奪えないものだった。ファニーは、分析員を忘れるなんて、想像すらしたくない。	그녀는 영광이나 왕관 따위를 잃어도 상관없었다. 하지만 뼛속까지 새겨진 프라이드는 물론이며, 분석가를 향한 사랑은 절대 뺏을 수 없었다! 그녀는 그를 잊거나 잃어버리는 것을… 받아들이긴커녕 상상조차 할 수 없었다!	They could strip her of her glory, take her crown, but never her pride — and certainly never her love for the Adjutant! A world where she forgot him, where she lost him, was unimaginable. She would NEVER let that happen!						0	
+84	赫拉？！她永远不会变成那东西，因为她更狂妄，更闪耀！	赫拉？！她永遠不會變成那個東西，因為她更狂妄，更閃耀！	ヘーラーだって？そんなのになるつもりはない。神なんかより、自分のほうがずっと輝いているから。	헤라?! 그녀는 절대 헤라가 될 수 없었다. 헤라보다 더욱 패기롭고 빛났기에!	Hera? She had no desire to become her. Fenny was fiercer, and absolutely more radiant!						0	
+85	所以，她在关键的时候醒来了。	所以，她在關鍵的時候醒來了。	だから、彼女は目を覚ました。	그래서, 그녀는 중요한 타이밍에 깨어났어.	That's why, at the critical moment, she woke up.						0	
+86	此刻再次望住分析员的双眼，少女的眸中已经没有了任何的忐忑和迷茫。	此刻再次望向分析員的雙眼，少女的眼神中已經沒有了任何的忐忑和迷惘。	分析員に向ける目にはもう迷いはない。	다시 분석가를 올려다보는 소녀의 눈에는 더 이상 이전의 불안이나 주저함이 없었다.	Looking into the Adjutant's eyes again, all hesitation and uncertainty vanished from her own.						0	
+87	是的。	是的。	そうだ。	그렇다.	That's right.						0	
+88	就如分析员所说，她是在这一刻才亲口得到的答案。	就如分析員所說，她是在這一刻才親口得到的答案。	分析員の言葉通り、彼女は今やっと答えを得たのだ。	분석가 말대로, 그녀는 이제서야 원하는 답을 직접 들을 수 있었다.	The Adjutant was right. Even though she had just heard the answer she'd long sought...						0	
+89	可是源自分析员爱的滋润，回应的滋养，早已经深入她骨髓，刻骨铭心，一刻不曾停歇地促使她向他靠近，不会放弃。	可是源自分析員愛的滋潤，回應的滋養，早已經深入她骨髓，刻骨銘心，一刻不曾停歇地促使她向他靠近，不會放棄。	分析員からの愛は彼女の骨の奥まで染み込んでいた。だから、彼女はずっと分析員に歩み寄ることができたのだ。	하지만 분석가의 사랑이 준 힘은 이미 그녀의 뼛속까지 전해지고 새겨졌다. 그의 사랑은 단 한 번도 멈추지 않고 다가왔다.	His love had already taken root deep in her soul, pushing her closer to him. She had never stopped — and she never would.						0	
+90	唔……	唔……	っ……	윽…	Mm...						0	
+91	猝不及防的力气，将我压向旁边的沙发。	猝不及防的力氣，將我壓向旁邊的沙發。	彼女は全体重を私に預けて、私を机の側まで押し込んだ。	방심한 사이, 훅 들어온 페니에 뒤에 있던 소파로 물러섰다.	Suddenly, I was pushed back against the sofa by an unexpected force.						0	
+92	回过神的时候，嘴唇已经被小狮子咬住。	回過神的時候，嘴唇已經被小獅子咬住。	気づいたら、私の唇は塞がれていた。	정신을 차려 보니, 입술은 이미 사자 씨에게 물린 채였다.	Before I could react, her lips were on mine — the fierce little lioness had captured me in a bold, biting kiss.						0	
+93	她压住我的身体，眼里好像是有些粉色的光芒要溢出来。	她壓住我的身體，眼裡好像有些粉紅色的光芒要溢出來。	彼女はとろけたような目で、私を見つめていた。	그녀는 나와 몸을 겹친 채, 핑크빛 가득한 눈빛으로 바라보았다.	She climbed on top of me, her eyes glowing with a soft, pink light.						0	
+94	分析员，我现在就想要——	分析員，我現在就想要——	分析員……今すぐ——	분석가, 나 지금…	Adjutant, I have a very strong urge...						0	
+b-4											0	
+95	保护裤子	保護褲子	ズボンを押さえる	바지를 가리며	Protect your pants						0	
+96	等等，芬妮！你不是先前还说不能做坏事吗……我明天还有任务，需要按时起床。	等等，芬妮！你先前不是還說不能做壞事嗎……我明天還有任務，需要準時起床。	待って、ファニー！君が言ったんじゃないか、そういうことはダメだって……明日、任務もあるからさ。	잠깐, 페니! 전에 그랬잖아, 나쁜 짓 하면 안 된다고… 내일 미션도 있어서 일찍 일어나야 해.	Wait, Fenny! Didn't you say we shouldn't do "bad things"? I've got a mission tomorrow — I need to get up early.						0	
+97	你想什么呢，我是说，我现在就想要——想要记录下来，你对我的爱！	你想什麼呢，我是說，我現在就想要——想要記錄下來，你對我的愛！	何考えてるのよ！あたしは、今すぐあんたからの愛を記録すると言っているの！	무슨 소리야. 내 말은, 지금 당장… 네 사랑을 기록해야겠어!	What are you talking about? I'm saying I have a strong urge — to write down your love for me!						0	
+98	芬妮给了我一个好看的白眼，然后从我身上翻下去，冲向了我的房间。	芬妮給了我一個好看的白眼，然後從我身上翻下去，衝向了我的房間。	彼女は呆れたように私を一瞥してから机の前に座り、何かを書き始めた。	페니는 익살스러운 표정을 짓고는 다시 내 방으로 향했다.	She rolled her beautiful amber eyes at me before sliding off and dashing toward my room.						0	
+99	……	……	……	……	...						0	
+100	关上房门，思绪停顿几秒后，我凑到她的旁边，静静凝视她。	關上房門，思緒停頓幾秒後，我才湊到她的旁邊，靜靜凝視她。	数秒後、やっと状況を掴めた私は体勢を立て直して、彼女のそばに近づいた。	방문을 닫고 사고회로가 잠시 정지된 나는 그녀에게 다가가 조용히 바라보기만 했다.	It took me a few moments to process after closing the door, but then I slowly approached, watching her in silence.						0	
+100_1	等我跟上她的脚步回到房间时，她已经坐在书桌旁，开始奋笔疾书。	等我跟上她的腳步回到房間時，她已經坐在書桌旁，開始奮筆疾書。	私が彼女の後を追って部屋に戻ったとき、彼女はすでに机に向かい、ペンを走らせていた。	내가 그녀의 발걸음을 따라 방으로 돌아왔을 때, 그녀는 이미 책상에 앉아 펜을 들기 시작했다.	By the time I reached her in the room, she was already seated at the desk, writing furiously.						0	
+101	笔尖划过纸张的“沙沙”声轻轻响起。	筆尖劃過紙張的“沙沙”聲輕輕響起。	静かな部屋に、ペンが走る音だけが聞こえる。	펜촉이 종이를 오가는 소리만 울렸다.	The soft sound of her pen scratching across the paper filled the air.						0	
+102	我抚摸她柔顺的头发，心情在笔触与纸张的摩擦声中逐渐平静。	我撫摸她柔順的頭髮，心情在筆觸與紙張的摩擦聲中逐漸平靜。	その心地よい響きを耳にしながら、私は髪を梳かすように、彼女の頭を撫でた。	나는 부드러운 그녀의 머리칼을 쓰다듬으며, 펜과 종이의 마찰 소리를 들으며 점차 안정을 되찾았다.	I gently ran my fingers through her hair, finding peace in the sound of her writing.						0	
+103	我会一直在你身边。	我會一直在你身邊。	ずっとそばにいるから。	난 늘 네 곁에 있을 거야.	I'll always be by your side.						0	
+104	嗯！我知道的。	嗯！我知道的。	そんなの知ってるわ！	응! 나도 알아.	Mm-hmm! I know that.						0	

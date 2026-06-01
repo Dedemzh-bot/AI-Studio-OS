@@ -1,0 +1,7 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	嗯，这里有一个礼物。	嗯，這裡有一個禮物。	うん、ここにあるな。	음, 여기 선물이 있네.	Here we go, a gift.						0	3.4版本星祈心愿宿舍剧情
+page1.2	能找到的似乎就是这些了。	能找到的似乎就是這些了。	どうやら見つかるのはここまでみたいだ。	이제 다 찾은 것 같은데.	Seems like these are all I can find.						0	3.4版本星祈心愿宿舍剧情
+page1.3	不过按照上次的经验，应该有四个礼物才对？	不過按照上次的經驗，應該有四個禮物才對？	だが、前回のパターンからすると、プレゼントは四つあるはずだよな。	근데 지난 경험에 따르면 선물은 4개여야 하는 거 아냐?	Although, based on experience from last time, there should be... four gifts?						0	3.4版本星祈心愿宿舍剧情
+page1.4	答对啦，最后一个礼物就在我的手上。	答對啦，最後一個禮物就在我的手上。	正解。最後のひとつは、あたしが持ってるわ。	정답! 마지막 선물은 내 손에 있어.	Correct! I have the last one right here.						0	3.4版本星祈心愿宿舍剧情
+page1.5	达令，来陪我玩游戏吧~	達令，來陪我玩遊戲吧~	ダーリン、あたしとゲームして勝ってみせてよ。	달링, 나랑 게임하자~	Darling, come play a game with me~						0	3.4版本星祈心愿宿舍剧情

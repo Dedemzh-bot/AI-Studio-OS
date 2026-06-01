@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	刚回到基地就见到米娅在大厅中绕着小吉踱步，似乎在研究着什么。	剛回到基地就見到米婭在大廳中繞著小吉踱步，似乎在研究著什麼。	社員寮に戻ると、ロビーでミアがギーちゃんのまわりを行ったり来たりしながら、何かを調べているようだった。	숙소로 돌아오자, 로비에서 샤오지 주위를 빙빙 돌며 뭔가를 연구하는 듯한 미아가 보였다.	Just as I got back to the Base, I saw Mia pacing around Gigi in the hall. She was studying something, maybe?						0	3.4版本随机事件
+page1.2	米娅这是在做什么？	米婭這是在做什麼？	ミア、何してるんだ。	미아, 뭐 해?	What are you doing here, Mia?						0	3.4版本随机事件
+page1.3	我在尝试和人工智能小吉对话。	我在嘗試和人工智慧小吉對話。	人工知能のギーちゃんと話したくてさ。	인공지능 샤오지랑 대화해 보려고.	I'm trying to talk to the AI Gigi.						0	3.4版本随机事件
+page1.4	看看世界树的人工智能都有什么功能。	看看世界樹的人工智慧都有什麼功能。	ここの人工知能は、どんな機能があんのかなーって。	위그드라실의 인공지능에 어떤 기능이 있는지 봐야지.	Just checking out what the Yggdrasil AI can actually do.						0	3.4版本随机事件
+page1.5	小吉的话，一般也就是辅助员工规划日常安排。	小吉的話，一般也就是輔助員工規劃日常安排。	ギーちゃんなら、いつも社員のスケジュール管理をサポートしてる。	샤오지는 보통 직원들의 일정 관리를 도와주는 정도야.	Well... Gigi mostly helps with employees' daily schedules.						0	3.4版本随机事件
+page1.6	对于这些，作为新恒提罗人的米娅应该更熟悉吧。	對於這些，作為新恆提羅人的米婭應該更熟悉吧。	そういうのは、ニューガントラ出身のミアのほうが詳しいんじゃないか。	이런 건 뉴헨틸로 사람인 미아가 더 잘 알지 않아?	As a New Hentiro native, you should be pretty familiar with this kind of thing, right?						0	3.4版本随机事件
+page1.7	人工智能，恒沙吗？	人工智慧，恆沙嗎？	ゴウシャのこと？	인공지능, 항사 말이야?	You mean GANGES, the AI?						0	3.4版本随机事件
+page1.8	她倒是会把我们生活中每一点一滴都计算得很准确。	她倒是會把我們生活中每一點一滴都計算得很準確。	あの子だったら、あたしたちの生活の細かいとこまできっちり計算してくれるよ。	항사는 우리 생활의 모든 것을 아주 정확하게 계산해 줘.	She can calculate every tiny detail of our lives with perfect accuracy.						0	3.4版本随机事件
+page1.9	新恒提罗的大家也都习惯了这种人工智能辅助的生活了。	新恆提羅的大家也都習慣了這種人工智慧輔助的生活了。	ニューガントラのみんなも、人工知能に支えられる生活にすっかり慣れてるし。	뉴헨틸로 사람들은 모두 이런 인공지능의 도움에 익숙해졌어.	Everyone back in New Hentiro is used to life with an AI like that.						0	3.4版本随机事件
+page1.10	在世界树哪里都能看到小吉，感觉和恒沙差不多。	無論在世界樹的哪裡都能看到小吉，感覺和恆沙差不多。	ユグドラシル社はどこにでもギーちゃんがいて、ゴウシャとあんま変わんないね。	위그드라실 곳곳에 샤오지가 있으니까, 항사랑 비슷한 느낌이야.	And since you see Gigi everywhere in Yggdrasil, it feels pretty much the same.						0	3.4版本随机事件
+page1.11	相比恒沙来说，雷吉乌斯确实算力不足，没办法把生活里的一点一滴都计算得那么精细。	相比恆沙來說，雷吉烏斯確實算力不足，沒辦法把生活裡的一點一滴都計算得那麼精細。	レイギウスはゴウシャほどの演算能力はないから、日常生活を細かく計算するところまではできないんだ。	항사에 비하면 레지오스는 연산력이 많이 부족해서, 생활의 세세한 부분까지 다 계산할 순 없어.	Regius' processing power falls short next to GANGES. It can't manage such a fine-grained analysis of every little thing in life.						0	3.4版本随机事件
+page1.12	但是米娅如果想了解一些世界树公司有关的事项，问问小吉倒是完全准确的。	但是米婭如果想了解一些世界樹公司有關的事項，問問小吉倒是完全準確的。	でも、ユグドラシルのことなら、ギーちゃんに聞けばちゃんと教えてくれる。	하지만 미아가 위그드라실과 관련해서 궁금한 게 있을 땐 샤오지한테 물어보면 돼.	But if you want to learn anything about Yggdrasil, Gigi is your go-to resource.						0	3.4版本随机事件
+page1.13	了解世界树嘛……我有更好的人选了！	了解世界樹嘛……我有更好的人選了！	それだったら……もっとぴったりな人がいるじゃん。	위그드라실과 관련해서라면… 나한텐 더 좋은 방법이 있는데!	To learn about Yggdrasil... I've got a better teacher!						0	3.4版本随机事件
+page1.14	话音未落，米娅一个飞扑搂住了我。	話音未落，米婭一個飛撲抱住了我。	そう言った途端、ミアが勢いよく飛びついてきて、私を抱き寄せた。	말을 다 마치기도 전에, 미아가 확 안겨 왔다.	Before she even finished speaking, Mia lunged at me and wrapped me in a hug.						0	3.4版本随机事件
+page1.15	分析员就是我的“世界树专属百科全书”！比小吉厉害多了！	分析員就是我的「世界樹專屬百科全書」！比小吉厲害多了！	分析員は、あたしにとっての「ユグドラシル社百科事典」だよ。ギーちゃんよりずっと頼りになるし。	분석가가 바로 내 '위그드라실 전용 백과사전'이야! 샤오지보다 훨씬 대단해!	You are my exclusive Yggdrasil Encyclopedia! Way better than Gigi!						0	3.4版本随机事件
+page1.16	我看你是想让我再带着你逛一逛世界树吧。	我看你是想讓我再帶著你逛一逛世界樹吧。	また私に会社を案内してほしいのか？	너 그냥 내가 다시 위그드라실을 구경시켜 주길 바라는 거지?	You just want me to take you on another tour, don't you?						0	3.4版本随机事件
+page1.17	果然什么都瞒不过分析员。	果然什麼事都瞞不過分析員呢。	さすが分析員、何でもお見通しだね。	역시 분석가한텐 숨길 수가 없다니까.	Guess I can't hide anything from you, huh, Adjutant?						0	3.4版本随机事件
+page1.18	逛的时候要一直保持这个姿势哦！	逛的時候要一直保持這個姿勢哦！	その間ずっと、この姿勢のままね！	이 자세 그대로 구경할래!	And you have to keep holding me like this on the whole tour!						0	3.4版本随机事件
+page1.19	好，真拿你没办法呢。	好，真拿你沒辦法呢。	はいはい、仕方ないな。	알았어, 정말 못 말리겠다.	Alright, as you wish.						0	3.4版本随机事件

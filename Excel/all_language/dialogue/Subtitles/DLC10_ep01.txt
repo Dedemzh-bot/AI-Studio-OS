@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1000	我会收下你的生命	我會收下你的生命	お前の命	당신의 목숨을 앗아가겠어요	I will take your life,						0	
+1001	连同你的罪恶一起	連同你的罪惡一起	その罪と共に	당신의 죄악과 함께	And with it, your sins,						0	
+1002	将这长夜终结	將這長夜終結	この長い夜に終止符を打つ！	이 긴 밤을 끝낼 것이에요	While bringing an end to this long night.						0	

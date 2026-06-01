@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	好像不太对劲吧……	好像不太對勁吧……	……あれ、なんか違う気がしてきた。	뭔가 좀 이상한데…	Hmm... This doesn't seem right.						0	3.5版本多诺巅峰对决剧情
+page1.2	怎么了？	怎麼了？	とうした？	왜 그래?	What's wrong?						0	3.5版本多诺巅峰对决剧情
+page1.3	安卡希雅示意我看看刚才得到的多诺卡。	安卡希雅示意我看看剛才得到的多諾卡。	アカシアが、さっき手に入れたDOROカードを見るよう顎でしゃくる。	아카시아는 내게 방금 획득한 도노 카드를 확인하라고 했다.	Acacia signaled for me to look at the Dono card I just received.						0	3.5版本多诺巅峰对决剧情
+page1.4	我这才注意到，那里躺着一张普通到不起眼的卡牌，会一不小心被当成升级材料使用掉的那种。	我這才注意到，那裡躺著一張普通到不起眼的卡牌，會一不小心被當成升級材料使用掉的那種。	見るとそこにあるのは、うっかり強化素材にしそうなほど地味なカード一枚だけだった。	나는 눈에 띄지도 않을 정도로 평범한 카드 한 장이 놓여 있다는 걸 뒤늦게 알아챘다. 그것은 자칫하면 육성 재료로 써버릴 만한 그런 카드였다.	Only then did I notice that it was an utterly ordinary, unremarkable card. The kind that would accidentally get used as upgrade fodder.						0	3.5版本多诺巅峰对决剧情
+page1.5	是不是分配错了，即使作为新手村的通关奖励，也很寒酸。	是不是分配錯了，即使作為新手村的通關獎勵，也很寒酸。	配布ミスってない？初心者エリアのクリア報酬にしても、さすがにショボすぎだよ。	잘못 분배했나? 초보자 클리어 보상이라고 쳐도 너무 초라한데.	Did I mess up the rewards? This is pretty shabby, even for a starter's first clear reward...						0	3.5版本多诺巅峰对决剧情
+page1.6	我给亲爱的换一张吧，至少得是一张高阶卡，才配得上起你在对决里的表现。	我幫親愛的換一張吧，至少得是一張高階卡，才配得上起你在對決裡的表現。	あなたには別のを用意するよ。せめて高レアカードじゃないと、さっきの活躍に見合わないし。	다른 걸로 바꿔 줄게. 고급 카드 정도는 되어야 자기가 대결에서 보여 준 활약의 보상으로 어울리니까.	Let me get you a different one, darling. At the very least, you deserve a high-star card to match how you've been performing.						0	3.5版本多诺巅峰对决剧情
+page1.7	等等……这张卡好像有点不太一样。	等等……這張卡好像有點不太一樣。	待てよ、このカード、他と少し違う気がする。	잠깐만… 이 카드 뭔가 좀 다른 것 같은데.	Wait... there's something about this card.						0	3.5版本多诺巅峰对决剧情
+page1.8	唔……确实。这个连携效果好像没在其他的多诺卡上出现过。	嗯……確實。這個連攜效果好像沒在其他的多諾卡上出現過。	ん……たしかに。この連携効果、他のDOROカードでは見たことないね。	음… 그러게. 이 콤보 효과는 다른 도노 카드에서 본 적이 없는 것 같아.	Hmm... you're right. I don't think I've seen this link effect on any other Dono card.						0	3.5版本多诺巅峰对决剧情
+page1.9	我有一个想法。	我有一個想法。	一つ、考えがある。	좋은 생각이 있어.	I have an idea.						0	3.5版本多诺巅峰对决剧情
+page1.10	潜能、星级，再加上全部属性的高数值，这些都是制作一张优秀多诺卡的必要成分。	潛能、星級，再加上全部屬性的高數值，這些都是製作一張優秀多諾卡的必要成分。	潜在能力や星ランク、それに各ステータスの高さ――優秀なDOROカードを作るのに必要なのは、普通はその辺りだ。	잠재력, 성급, 거기에 전반적으로 높은 속성 수치까지. 전부 훌륭한 도노 카드를 만드는 필수 요소야.	Potential, star level, plus high stats are all essential ingredients for creating a great Dono Card.						0	3.5版本多诺巅峰对决剧情
+page1.11	但是，如果在这个制作途中加入一些不一样的东西……	但是，如果在這個製作途中加入一些不一樣的東西……	でもそこに「少し違う何か」を混ぜ込んだら……どうなる？	하지만, 그 과정에서 뭔가 다른 걸 추가한다면 어떨까…	But if we add something extra to the process...						0	3.5版本多诺巅峰对决剧情
+page1.12	比如，亲爱的对这张卡片的额外关照——	比如，親愛的對這張卡片的額外關照——	たとえば、このカードに向けたあなたの「特別な可愛がり」とか――	예를 들면, 자기가 이 카드에 조금 더 신경을 써준다거나…	Like the extra care you have for this card—						0	3.5版本多诺巅峰对决剧情
+page1.13	开始期待一张完美的多诺卡出现了。	開始期待一張完美的多諾卡出現了。	なんだか、完璧なDOROカードが生まれそうでワクワクしてきたよ。	얼마나 완벽한 도노 카드가 나올지 기대돼.	Now I'm really looking forward to seeing you create a perfect Dono card.						0	3.5版本多诺巅峰对决剧情

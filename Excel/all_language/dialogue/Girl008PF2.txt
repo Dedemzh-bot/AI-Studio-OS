@@ -1,0 +1,57 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我按照约定的时间来到训练室，而芬妮早就已经在里面等着了。	我按照約定的時間來到訓練室，而芬妮早就已經在裡面等著了。	約束の時間に訓練室に来た。ファニーは既に待っていた。	약속 시간에 맞춰 연습실로 왔다. 페니는 일찍부터 나와서 기다리고 있었다.	I got to the training room at the time Fenny and I had "agreed," finding Fenny already waiting for me.						0	
+2	啊你来了，快点开始吧。	啊你來了，快點開始吧。	来たわね、さっそく始めるわ。	왔구나! 어서 시작하자.	You're here. Let's start.						0	
+3	嗯……得从最开始来教吗？还真是有点儿头疼啊。	嗯……得從最開始來教嗎？還真是有點頭痛啊。	一から教えないとダメ？困ったものね。	흠… 처음부터 가르쳐야 하나? 벌써부터 머리가 아프려고 하는데…	Hmm... we're going to have to start from absolute basics... this really is going to be a bit of a headache.						0	
+4	好好看我示范哦。	好好看我示範哦。	あたしが手本を見せるから、ちゃんと見ててよ。	잘 봐! 내가 시범을 보여줄 테니까.	Let me show you the steps...						0	
+5	我在她的摆布下练了整整三个小时，但芬妮却依然忧心忡忡。	我在她的擺佈下練了整整三個小時，但芬妮卻依然憂心忡忡。	私はファニーの言う通りに3時間もやったが、彼女はまだ心配そうな顔をしている。	나는 페니의 지도하에 무려 세 시간이나 연습했다. 하지만 페니는 여전히 마음이 무거워 보였다.	Three hours passed, me under Fenny's tutelage, that look of concern never really leaving her face.						0	
+6	唔……这个进度比我预期的慢哎……	唔……這個進度比我預期的慢耶……	うーん……思ったより覚えが悪いわね……	음… 내가 생각했던 것보다 진도가 조금 느린 것 같은데…	Hmm... we aren't really making the progress I was hoping...						0	
+7	分析员，看来之后的日子，我们还得加量啊。	分析員，看來之後的日子，我們還得加量啊。	分析員、明日からは、練習量を増やさないと。	분석가, 이대로면 밤을 새워야 할 수도 있을 것 같아! 조금 더 분발해 봐!	We're going to have to put in some serious time over the next few days.						0	
+8	第二天，第三天……我在芬妮的悉心指导下，每天都会度过痛苦的三个小时。	第二天，第三天……我在芬妮的悉心指導下，每天都會度過痛苦的三個小時。	2日目、3日目……私はファニーの指導で、毎日苦しい3時間を過ごした。	둘째 날, 셋째 날… 페니의 세심한 지도하에 나는 매일같이 고통의 나날을 보냈다.	The next day... the day after that... three hours at a stretch, under Fenny's exacting instruction...						0	
+9	这样持续了一个星期，我终于熬到了最后一个练习日。	這樣持續了一個星期，我終於熬到了最後一個練習日。	こんな日が1週間続いて、ついに最後の日まで持ちこたえた。	그렇게 몇 날 며칠이 지나고, 마침내 마지막 연습일이 다가왔다.	Every day, for a week. Somehow, I made it through to the final day still able to stand up.						0	
+10	来了啊！今天我会好好检验一下你这些天的成果！	來了啊！今天我會好好檢驗一下你這幾天的成果！	来たわね！今日はこれまでの成果をきっちり確認するわ！	왔구나! 오늘은 드디어 며칠간 분석가가 연습한 성과를 한번 점검해 볼게.	You're here! Alright then, today we see how much you've learned!						0	
+11	最终的练习立即就开始了。	最終的練習立即就開始了。	最後の練習がすぐ始まった。	그렇게 마지막 연습이 바로 시작됐다.	The final session began...						0	
+12	我努力配合着芬妮的每一个步调，尽量控制失误，在力所能及的范围做到了最好。	我努力配合著芬妮的每一個步調，盡量控制失誤，在力所能及的範圍做到了最好。	私はなるべくミスしないように、ファニーの足並みに合わせて、最善を尽くした。	나는 페니의 페이스를 하나하나 맞춰가며 만연의 실수를 최대한 방지하고자 했고, 할 수 있는 범위 내에서 최선을 다했다.	I threw myself in wholeheartedly, did everything I could to keep my steps in sync with Fenny's, drew on everything I had learned and gave the best performance I could give.						0	
+13	至少，是自认为的最好……起码完成了一整支圆舞曲后，芬妮的表情看起来挺开心的。	至少，是自認為的最好……起碼完成了一整支圓舞曲後，芬妮的表情看起來挺開心的。	少なくとも、自分にとっての最善だ……ワルツを踊り終わった後、ファニーは嬉しそうな顔をしている。	적어도 난 스스로 최선을 다했다고 생각했고… 한 곡의 왈츠를 끝낼 무렵, 페니의 표정은 굉장히 밝아 보였다.	Whether my best could be called good... a question for those more knowledgeable than I... but Fenny seemed to happy with my waltz.						0	
+14	表现还算不错吧，但我觉得还有进步的空间。	表現還算不錯吧，但我覺得還有進步的空間。	そこそこね。まだ伸びしろあるわ。	나름대로 괜찮았어! 그래도 아직도 이것보단 더 잘할 수 있을 것 같다는 생각은 들어.	Not bad, not bad. Plenty of room for improvement but overall that was pretty good.						0	
+15	比如说，在慢三的内侧旋转之后，怕踩着我的脚，你就往侧边挪脚了吧？这可是完全不符合步法的违规动作，正式出场的时候一定要注意。	比如說，在慢三的內側旋轉之後，怕踩到我的腳，你就往側邊移動了吧？這可是完全不符合步法的違規動作，正式出場的時候一定要注意。	例えば、ナチュラルターンのところで、分析員はあたしの足を踏みそうになって、わざと外に足を動かしたでしょ？これは標準ステップに合わない動きだから、本番は同じ失敗をしないように気を付けて。	예컨대 안쪽으로 돌다가 발을 밟을 것 같아서 옆으로 스텝을 옮기잖아? 이건 규칙에 어긋나는 행위라 정식 무대에 설 때는 특히나 주의해야 해.	Don't think I didn't notice the way you put your foot down after that turn, trying to make sure you didn't step on my foot, weren't you? Do not do that! You'll get us marked down!						0	
+b-1											0	
+16	知道了。	知道了。	分かった。	알겠어.	Sure thing.						0	
+b-2											0	
+17	但其实是你跳得太好了。	但其實是你跳得太好了。	でもファニーの踊りが上手すぎる。	근데 페니의 수준에 비하면…	You're a fantastic dancer.						0	
+b-3											0	
+18	我会有些跟不上也很正常……	我會有些跟不上也很正常……	私がついていけないのもおかしくないだろう……	내가 잘 못 따라 갈까 봐…	It's no wonder I can't keep up...						0	
+19	这种时候夸奖我也没用的哦！	這種時候誇獎我也沒用的哦！	褒めても無駄よ！	지금 그런 칭찬은 아무 쓸모 없거든!	Flattery will get you nowhere with me, you must know that already!						0	
+20	其实分析员你做得很出色啦！我……有些对你刮目相看……	其實分析員你做得很出色啦！我……有些對你刮目相看……	まぁ分析員にしては上出来ね！ちょっと見直しちゃった……	그래도 지금까지 너무 잘 해냈어! 사람이 달라 보인단 말이지~	I can't pretend you haven't been doing remarkably well! I'm genuinely... I'm impressed, okay...						0	
+21	但……但我不会因此放低对你的要求哦，哼~	但……但我不會因此放低對你的要求哦，哼~	でも！だからって甘やかしたりしないからね！	그렇지만… 이런 거 하나 가지고 분석가에 대한 기준을 낮추지는 않을 거야. 흥~	... so the last thing I'm going to do is start going easy on you!... hmph...						0	
+22	我没来得及回复得意洋洋的芬妮，她的终端此时传来了消息。	我沒來得及回覆得意洋洋的芬妮，她的終端此時傳來了消息。	私が得意がるファニーに答えるより先に、彼女の端末に通知が入った。	자신감이 충만해있는 페니에게 말을 걸려던 순간… 그녀의 단말기에서 알림이 들려오는데…	Fenny was practically glowing and I was about to respond to her when her terminal suddenly started buzzing...						0	
+23	这种时候……啊，好讨厌……	這種時候……啊，好討厭……	こんな時に限って……ああ、嫌だ……	하필 이럴 때… 안돼…	Now?... really?... this won't do at all...						0	
+24	芬妮打开了信息，仅仅是瞟了一眼，神情就变得暗淡了下来。	芬妮打開了訊息，僅僅是瞄了一眼，神情就變得暗淡了下來。	ファニーはメッセージを開いて、一瞥しただけで、彼女の顔が曇った。	페니는 알림를 열어 힐끗 쳐다보고는 표정이 순간 어두워졌다.	She opened the message, the positivity draining out of her expression as she read down the page.						0	
+b-4											0	
+25	我也接到了……	我也接到了……	私にも届いた……	나도 방금 받았어…	And I've got one too...						0	
+26	临时任务，时间是本周日14点。	臨時任務，時間是本週日14點。	臨時任務、日曜日の午後2時。	임시 미션은 이번 주 일요일 오후 2시.	Operation, Sunday at 14:00, very short notice.						0	
+27	舞会的开场时间是……晚上七点。	舞會的開場時間是……晚上七點。	舞踏会の開場時間は……午後7時。	무도회 개장 시간은… 저녁 7시.	The dance starts at... 19:00.						0	
+28	啧……开什么玩笑啊！	嘖……開什麼玩笑啊！	ちょ……冗談じゃないわ！	에잇… 이게 무슨 짓거리야!	Tsk... this some kind of joke?						0	
+b-5											0	
+29	不想去的话……不是刚好吗？	不想去的話……不是剛好嗎？	行きたくないならちょうどいいんじゃない？	별로 가고 싶지 않았잖아… 오히려 잘 된 거 아니야?	Perhaps it's a golden opportunity... now you have a perfect excuse for not going to the ball...						0	
+30	哈……？	哈……？	はあ……？	뭐…?	Huh...?						0	
+31	就算之前不想去，现在……我们都这么努力了，怎么可以不去啊？	就算之前不想去，現在……我們都這麼努力了，怎麼可以不去啊？	前は行きたくなかったけど、今は……こんなに頑張ったのに、行かないわけないでしょ？	아무리 가기 싫었어도, 지금까지… 우리가 어떻게 노력했는데 어떻게 안 간다고 할 수가 있어?	That was before... we've put in all this work, can't just not go...						0	
+32	分析员你的话，就不会觉得不甘心吗？	分析員你的話，就不會覺得不甘心嗎？	分析員は悔しくないの？	분석가는 억울하지도 않아? 우리가 그동안에 한 노력들이?	If you were me, you'd be annoyed!						0	
+33	啊……不过，算了……毕竟，你没有那些经历，是不会懂吧……	啊……不過，算了……畢竟，你沒有那些經歷，是不會懂吧……	ああ……まあいいわ……どうせ経験したことないから、分からないわよね……	후… 됐다… 분석가는 이런 경험이 없었으니 잘 모르겠지…	Ach... fine, whatever... clearly you don't get it after all...						0	
+34	笨蛋……	笨蛋……	バカ……	바보…	Idiot...						0	
+35	虽然我只是想顺势开个玩笑，但仔细想想我们这些天的努力，刚才那么说或许是有些过火了。	雖然我只是想順勢開個玩笑，但仔細想想我們這幾天的努力，剛才那麼說或許是有些過火了。	冗談を言ったつもりだったが、最近の努力を思えば、さっきの言葉は失言だったかもしれない。	그냥 우스갯소리를 하려고 했지만, 최근에 했던 노력들을 생각해 보면 내 말이 조금은 지나쳤던 것 같다.	I'd only been trying to lighten the mood. All the work we'd put in over the past few days... I could see how what I'd said would be annoying to her...						0	
+b-6											0	
+36	抱歉……	抱歉……	ごめん……	미안해…	Sorry...						0	
+b-7											0	
+37	无论时间如何，我都会陪你去的。	無論時間如何，我都會陪你去的。	間に合うかどうかは関係ない。一緒に行ってあげるよ。	상황이 어떻게 되건 끝까지 페니랑 함께 할게.	We'll go, no matter what time we finish up the operation.						0	
+38	啊……不是，我没有责怪你的意思……	啊……不是，我沒有責怪你的意思……	あ……いや、責めてるわけじゃ……	후… 아니야. 분석가한테 뭐라 하려던 건 아니었어.	Ah... no no, sorry... I'm not annoyed at you, it's not your fault...						0	
+39	不过，你能这么说，我很开心，哼哼~	不過，你能這麼說，我很開心，哼哼~	でも、そう言ってもらえて嬉しい。ふふっ！	그래도 분석가가 무슨 마음인지 지금이라도 아는 것 같아서 좋아! 흥흥~	Very sweet of you to say that though...						0	
+40	谢谢你了，分析员。	謝謝你了，分析員。	ありがとう、分析員。	고마워, 분석가!	Thank you, I do appreciate it.						0	
+41	芬妮离开的背影，微微显得有些无助……	芬妮離開的背影，微微顯得有些無助……	立ち去ったファニーの後ろ姿は、少し無力感を帯びていた……	말을 마치고 떠나는 페니의 뒷모습이 왠지 모르게 슬퍼 보였다…	She looked strangely helpless, walking away... silhouette fading into the distance...						0	
+42	周末的下午，我和芬妮组成的小队一起进入了零区。	週末的下午，我和芬妮組成的小隊一起進入了零區。	週末の午後、私はファニーとチームを組んでエリアゼロに入った。	주말 오후, 난 페니와 소대를 갖춰 함께 제로 구역으로 들어갔다.	We entered the Containment Zone that Sunday afternoon as a group; the others, Fenny, and I...						0	
+43	虽然只是一个小任务，但算上出击准备和返回消毒等各种流程的话，依然会耗费很多时间。	雖然只是一個小任務，但算上出擊準備和返回消毒等各種流程的話，依然會耗費很多時間。	小さい任務だが、出撃の準備と帰る前の消毒などの手順も含めて、時間が結構かかる。	작은 미션이긴 했지만, 출격 준비, 복귀, 소독 등 여러 절차를 포함하면 여전히 많은 시간을 소비해야 했다.	While it was a fairly routine operation, there's still planning and preparation, the whole sterilization process to go through... that all took time.						0	
+44	晚上的舞会真的还赶得及吗？	晚上的舞會真的還趕得及嗎？	夜の舞踏会、本当に間に合うか？	저녁 무도회에 늦진 않겠지?	Could we really make it to the dance on time?						0	
+45	我知道你在想什么哦分析员。	我知道你在想什麼哦分析員。	考えてることがダダ漏れよ、分析員。	분석가가 무슨 생각 하는지 알아.	I know what you're thinking...						0	
+46	要是时间不够，是不是那边就可以不赶了，对吧？	要是時間不夠，是不是那邊就可以不趕了，對吧？	時間が足りないなら舞踏会の方は行かなくてもいい、でしょ？	간당간당하면 어쩔 수 없지~ 안 그래?	If there isn't time, why bother trying to rush... something along those lines, right?						0	
+47	哼，放心，我一定会完美完成任务给你看的！	哼，放心，我一定會完美完成任務給你看的！	ふん、安心しなさい、きっと完璧に任務をこなしてみせるから！	흥, 걱정 마! 페니가 미션을 완벽하게 완수하는 걸 분석가한테 보여줄 테니까!	Hmph, put your worries to one side, boy! I'm going to speed run this operation as fast as humanly possible!						0	
+48	你可要好好欣赏我今天的战斗哦！	你可要好好欣賞我今天的戰鬥哦！	今日あたしの戦いぶり、存分に楽しんでよね！	페니의 무대를 잘 감상하라고!	Watch close, you wouldn't want to miss this performance!						0	

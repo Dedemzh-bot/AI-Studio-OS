@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	唉~	唉~	はぁ……	휴…	(Sigh)...						0	2.7版本随机事件
+page1.2	茉莉安怎么看起来有些不开心？	茉莉安怎麼看起來有點不開心？	マリアン、なんだか元気ないな。	마리안, 무슨 일이야? 왜 이렇게 슬퍼 보여?	You seem troubled, Marian. What happened?						0	2.7版本随机事件
+page1.3	分析员……	分析員……	分析員さん……	분석가님…	Adjutant...						0	2.7版本随机事件
+page1.4	茉莉安指向角落里的花瓶，瓶中是我前几天送她的玫瑰。	茉莉安指向角落裡的花瓶，瓶中是我前幾天送她的玫瑰。	マリアンは部屋の隅にある花瓶を指差す。そこには、数日前に私が贈ったバラの花が生けてあった。	마리안은 구석에 놓인 화병을 가리켰다. 병 속에는 며칠 전 내가 선물한 장미가 들어있었다.	Marian points to a vase in the corner, which held the roses I gifted her a few days ago.						0	2.7版本随机事件
+page1.5	曾经饱满娇艳的花朵如今垂下了头颅，花瓣边缘有些微微卷曲发黑。	曾經飽滿鮮豔的花朵現在卻垂下了頭，花瓣邊緣有些微微捲曲發黑。	あんなに綺麗だった花が、今はしおれて垂れ下がり、花びらの縁も少し黒ずんで縮れていた。	한때 활짝 피어있던 꽃이 고개를 숙였고, 꽃잎의 끝부분은 살짝 말라 검게 변해있었다.	The once-glorious blossoms are now wilted, the edges of the petals curled and darkened in a subtle manifestation of decay.						0	2.7版本随机事件
+page1.6	原来是为这个……	原來是因為這個……	それで落ち込んでたんだ……	아, 이것 때문에 그랬구나…	So, that's why...						0	2.7版本随机事件
+page1.7	没关系的，茉莉安。之后我会再送你更好看的花。	沒關係的，茉莉安。之後我會再送你更漂亮的花。	大丈夫だよ、マリアン。これからもっと素敵な花をあげるから。	괜찮아, 마리안. 다음에 내가 더 예쁜 꽃을 선물해 줄게.	It's okay, Marian. I'll bring you more beautiful flowers next time.						0	2.7版本随机事件
+page1.8	谢谢分析员~不过想到是分析员送的，我还是有些舍不得扔。	謝謝分析員~不過想到是分析員送的，我還是有點捨不得丟。	ありがとうございます。ですが分析員さんからいただいたものだと思うと、捨てるのもちょっと惜しくて。	고마워요, 분석가님~ 하지만 분석가님이 주신 거라서… 뭔가 버리기가 아쉬워요.	How kind of you, Adjutant! But I find it hard to part with these flowers you already gave me.						0	2.7版本随机事件
+page1.9	而且我已经想到了让它恢复活力的方法。	而且我已經想到了讓它恢復活力的辦法。	それに、元気を取り戻させる方法は思いつきました。	게다가 이미 꽃을 살릴 방법까지 찾았고요!	Besides, I've already thought of a way to restore their vitality.						0	2.7版本随机事件
+page1.10	茉莉安找来几支蜡烛，一一点燃。	茉莉安找來幾支蠟燭，一一點燃。	マリアンは数本のキャンドルを取り出して、一本ずつ火を灯していく。	마리안은 양초 몇 개를 준비해 하나씩 불을 붙였다.	Marian gathers several candles and lights them one by one.						0	2.7版本随机事件
+page1.11	你打算让这束花招供些什么？	你打算讓這束花招供點什麼嗎？	その花に尋問でもするつもりか？	꽃에게 무슨 자백이라도 받아낼 생각인 거야?	Are you planning to force a confession out of this poor, innocent bouquet?						0	2.7版本随机事件
+page1.12	噗~分析员真是会开玩笑。	噗~分析員真是會開玩笑。	ふふっ、分析員さんは本当に冗談がお上手ですね。	하하~ 분석가님도 참.	(Giggles) You have quite the sense of humor, Adjutant.						0	2.7版本随机事件
+page1.13	“烫根法”是常用的醒花技巧~	「燙​​根法」是常用的醒花技巧~	これは「根焼き」といって、花を元気にするためによく使われる方法です。	이건 '뜸 요법'이에요. 꽃을 살리는 기술이죠~	In truth, this is a common technique known as "stem-scalding", used to revive wilting flowers.						0	2.7版本随机事件
+page1.14	有时候，小小的疼痛会成为美丽绽放的契机。	有時候，小小的疼痛會成為美麗綻放的契機。	ときには、ちょっとした痛みが、美しく咲き誇るきっかけになるのですよ。	가끔은 이런 작은 고통이 오히려 아름다움을 피우는 계기가 되곤 하죠.	On occasion, a brief moment of pain can become the impetus for a truly glorious bloom.						0	2.7版本随机事件
+page1.15	我也期待着，被你这样对待。	我也期待著，被你這樣對待。	私も、あなたにそんな痛みを教えてほしいものです。	저도 분석가님에게 이런 대우를 받고 싶어요.	I look forward to the day when you see fit to treat me that way.						0	2.7版本随机事件

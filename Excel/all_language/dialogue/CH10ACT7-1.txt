@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，你的歌唱者指向哪里？	分析員，你的歌唱者指向哪裡？	分析員、あなたのシンガーはどこを指していますか？	분석가님, 코러스 시스템이 어딜 가리키고 있나요?	Adjutant, where does your Chorus point?						0	
+2	我在书里看到过，神话中也有一只名为“歌唱者”的号角。	我在書裡看到過，神話中也有一隻名為“歌唱者”的號角。	本で読んだことがあります。ある神話には「ギャラルホルン」という角笛が登場します。	책에서 봤는데 신화 속에서도 '코러스'라는 호각이 있더군요.	I once read that there's a legendary horn known as the "Chorus."						0	
+3	每当敌人闯入时，守护者就会吹响号角，警告诸神。	每當敵人闖入時，守護者就會吹響號角，警告諸神。	敵が侵入してくると、守護者は角笛を吹き鳴らし、神々に知らせます。	적이 쳐들어올 때마다 수호자는 호각을 불어 신들에게 알리곤 했죠.	Every time enemies charged, those defending would blow the horn to alert the gods.						0	

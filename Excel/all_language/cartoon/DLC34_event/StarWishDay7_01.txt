@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.0	星祈节前夜	星祈節前夜	星祈祭の前夜	성원절 전날 밤	Starwish Eve						0	3.4版本星祈心愿宿舍剧情
+page1.1	我本来计划着今天要制作一颗星星，放在星祈树的顶端。	我本來計畫著今天要製作一顆星星，放在星祈樹的頂端。	今日、星祈樹のてっぺんに飾る星を作るつもりでいた。	오늘은 별을 하나 만들어서 성원나무 꼭대기에 올려놓을 계획이었다.	I had planned to make a star today and place it on top of the Starwish Tree.						0	3.4版本星祈心愿宿舍剧情
+page1.2	但一大早安卡希雅就给我发来了消息，要我去大厅里找她。	但一大早安卡希雅就給我發來了消息，要我去大廳裡找她。	しかし、朝早くアカシアから連絡が来て、急ぎロビーへ向かうことになった。	그런데 아카시아가 아침 일찍 로비로 와달라고 메시지를 보냈다.	But early this morning, Acacia sent me a message, asking me to meet her in the hall.						0	3.4版本星祈心愿宿舍剧情
+page1.3	哟，分析员，你可算来了。	喲，分析員，你總算來了。	分析員、やっと来たね。	오, 분석가, 드디어 왔네.	Yo, Adjutant, took you long enough.						0	3.4版本星祈心愿宿舍剧情
+page1.4	安卡希雅，芙提雅，猫汐尔，你们都在啊。	安卡希雅，芙提雅，貓汐爾，你們都在啊。	アカシア、フリティア、マーシル。三人揃っているのか。	아카시아, 프티야, 캣 시에라, 다 같이 있었구나.	Acacia, Fritia, Mauxir, you're all here.						0	3.4版本星祈心愿宿舍剧情
+page1.5	这三个人一起出现时，总有一种说不出的和谐感。	這三個人一起出現時，總有一種說不出的和諧感。	この三人が並ぶと、不思議と空気がまとまる感じがある。	이 세 명이 함께 나타나면 항상 뭔가 묘한 조화로움이 느껴진다.	Somehow, the three of them shared a peculiar harmony... even in the smallest details.						0	3.4版本星祈心愿宿舍剧情
+page1.6	她俩可是新星开拓的首席程序员和文案……咳，前文案。	她們可是新星開拓的首席程式設計師和文案……咳，前文案。	この二人は惑星開拓の首席プログラマーと「元」シナリオ担当だよ。	이 둘은 신성 개척의 수석 프로그래머와 시나리오 작가… 크흠, 전직 시나리오 작가야.	You're looking at the lead programmer and uh... former scriptwriter of Star Master.						0	3.4版本星祈心愿宿舍剧情
+page1.7	不用强调这个喵。	不用強調這個喵。	そこ強調しなくてもいいニャン。	굳이 강조 안 해도 된다냥.	"Former" was not necessary, nya.						0	3.4版本星祈心愿宿舍剧情
+page1.8	所以你们找我来是要做什么？	所以你們找我來是要做什麼？	それで、用件は何だ。	그래서 너희가 날 부른 이유는 뭐야?	So, why did you call me here?						0	3.4版本星祈心愿宿舍剧情
+page1.9	我们准备了新星开拓·星祈节特别活动，诚邀分析员前来体验！	我們準備了新星開拓·星祈節特別活動，誠邀分析員前來體驗！	惑星開拓・星祈祭スペシャルイベントを実装したから、分析員に体験してほしいんだ！	우리가 신성 개척·성원절 특별 이벤트를 준비했거든. 그래서 체험해 보라고 분석가를 초대한 거야!	We've prepared a Starwish event in Star Master, and we'd like you to try it out!						0	3.4版本星祈心愿宿舍剧情
+page1.10	虽然因为工期原因，暂时没有全新场景……	雖然因為工期原因，暫時沒有全新場景……	制作スケジュールの都合で新規ステージまでは用意できなかったんだけど……	비록 일정 때문에 아직 완전히 새로운 건 없지만…	There wasn't enough time to design a new map...						0	3.4版本星祈心愿宿舍剧情
+page1.11	但是！起码任务道具和奖励是制作完毕了。	但是！起碼任務道具和獎勵是製作完畢了。	でも！少なくともイベントアイテムと報酬は完成してるよ。	그래도! 최소한 미션 아이템과 보상은 완성했어.	But! We at least finished all the quest items and rewards!						0	3.4版本星祈心愿宿舍剧情
+page1.12	就是这样喵。	就是這樣喵。	そういうことニャン。	그렇다냥.	That's right, nya.						0	3.4版本星祈心愿宿舍剧情
+page1.13	听懂了，总之我现在是要去游戏里找到任务道具对吧？	聽懂了，總之我現在是要去遊戲裡找到任務道具對吧？	つまり、ゲーム内でイベントアイテムを集めればいいんだな。	알겠어. 그러니까 지금 게임에 들어가서 미션 아이템을 찾으라는 거지?	Got it. So basically, I need to find quest items in the game, right?						0	3.4版本星祈心愿宿舍剧情
+page1.14	不愧是分析员，完全正确。	不愧是分析員，完全正確。	さすが分析員、理解が早いね。	역시 분석가답네. 정확해.	Killer instincts as always, Adjutant.						0	3.4版本星祈心愿宿舍剧情
+page1.15	我相信你能很快通关的，出发吧！	我相信你能很快通關的，出發吧！	きっとすぐにクリアできるはず。さあ、早く！	너라면 금방 클리어할 거라 믿어. 출발!	I'm sure you'll clear it in no time. Let's start the run!						0	3.4版本星祈心愿宿舍剧情

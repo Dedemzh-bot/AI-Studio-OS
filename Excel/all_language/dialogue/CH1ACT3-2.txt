@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	你问这些郊狼？这些家伙大多数都出身于拾荒者。	你問這些郊狼？這些傢伙的前身大多數都是拾荒者。	コヨーテについて聞いた事はある？あいつらはスカベンジャーから生まれた組織よ。	코요테를 말하는 거야? 이 녀석들은 대부분 피난민들이야.	You mean these Coyotes? Most of these guys were scavengers before.						0	
+2	不知道从哪里搞来了武器装备，天天在零区里从事危害治安管理的各类恐怖活动！	不知道他們是從哪裡用來了武器裝備，天天在零區裡從事危害治安管理的各類恐怖活動！	あいつらは武器と装備を色々な方法で手に入れて、エリアゼロの治安を脅かす活動を日々行ってるわ。	어디서 무기랑 장비를 구해왔는지는 모르겠지만, 매일 제로 구역의 치안을 위협하고 있고, 각종 테러 활동에 임하고 있지!	They got their hands on firearms and equipment, and now they like to go around the Containment Zone and engage in all kinds of troublesome activities endangering public security!						0	
+3	至于拾荒者嘛，就是一些被困在隔离墙内的普通人……	至於拾荒者嘛，就是一些被困在隔離牆內的普通人……	スカベンジャーっていうのはウォールの内側に閉じ込められた一般人のことよ…	피난민들은 제로 구역에 갇혀 사는 평범한 사람들이야…	As for the scavengers, they are just normal people who got stuck in the Containment Zone and have to find a way of living...						0	

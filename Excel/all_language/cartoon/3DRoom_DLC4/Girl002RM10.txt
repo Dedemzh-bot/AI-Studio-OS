@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	里芙之前去过耶洛沙地区吗？	里芙之前去過耶洛沙地區嗎？	リフって、イェロシャ地区に行ったことはあるのか？	리브, 옐로샤 지역에 가본 적 있어?	Lyfe, have you been to Yehrus before?						0	
+page0.2	没有，听说那里是真正的雪境，和零区的“雪”不一样。	沒有，聽說那裡是真正的雪國，和零區的「雪」不一樣。	いいえ。エリアゼロの「キオーン」とは違う、本物の銀世界らしい、ということぐらいは聞いたことがあるけど。	아니. 그곳에는 제로 구역의 '눈'과는 다른 진정한 설경이 있다던데?	No. I've heard it has a snowy climate — different from the "snow" in the Containment Zone.						0	
+page0.3	如果有机会，我想去看看。	如果有機會，我想去看看。	チャンスがあれば、行ってみたい。	기회가 된다면 가보고 싶어.	I'd like to see it if I ever get the chance.						0	
+page0.4	那到时候你想做点什么呢？	那到時候你想做什麼呢？	行ってみて、たとえば何かしたいことは？	거기서 뭘 하고 싶은데?	What would you want to do if you went there?						0	
+page0.5	做点什么……分析员有什么建议吗？	做什麼……分析員有什麼建議嗎？	何をって……分析員には何かおすすめでも？	뭘 할까… 분석가가 추천해 줄래?	What would I want to do...? Do you have any suggestions, Adjutant?						0	
+page0.6	高山滑雪？耶洛沙有全世界顶级的天然雪场。	高山滑雪？耶洛沙有全世界最頂級的天然滑雪場。	アルペンスキーは？イェロシャには世界でもトップクラスの天然のスキー場があるらしいよ。	스키는 어때? 옐로샤는 세계 최고 수준의 천연 스키장을 보유하고 있으니까.	Maybe skiing? The powdery mountain slopes in Yehrus are some of the best in the world.						0	
+page0.7	不过比起滑雪，里芙给人的印象好像更适合那种冰上运动？	不過比起滑雪，里芙給人的感覺好像更適合冰上運動？	でもリフなら、スキーよりもスケートリンクの方が似合ってるかもね。	그런데 리브는 스키보다 빙상 스포츠가 더 어울리는 것 같기도 해.	But I get the feeling you'd be better at ice sports than skiing.						0	
+page0.8	其实我在成为瓦尔基里游戏的女武神之前，有练习过一段时间冰上舞蹈，不过称不上擅长。	其實我在成為瓦爾基里遊戲的女武神之前，有練習過一段時間的冰舞，但也不能說是擅長。	実はヴァルキリーになる前、アイスダンスを習っていたことがあるんだ。	사실 발키리 게임의 발키리가 되기 전에는 피겨 스케이팅을 했었는데, 잘하진 못했어.	I actually did ice dancing before I became a Battle Idol in the Valkyrie Games. I wasn't anything special though.						0	
+page0.9	最开始纯粹是为了提升仪态气质以及强化控制力，后来我自己也逐渐喜欢上这一运动，享受在冰上旋转跳跃滑行的自由感。	剛開始單純是為了提升儀態氣質和加強控制力，後來我自己也漸漸喜歡上這項運動，我很享受在冰上旋轉、滑行、跳躍的自由感。	最初は純粋に体幹強化やコントロールの向上を狙ってたんだが、結局スポーツそのものが気に入ってしまってね。リンクの上を自由自在に滑る感覚は楽しかった。	처음엔 단순히 자세 교정과 통제력 강화를 위해 시작했는데, 나중에는 점점 그 스포츠가 좋아졌어. 빙판 위에서 자유롭게 회전하고 점프하고 활주하는 느낌을 즐기게 되었지.	At first, it was simply to improve my posture and strengthen my control of my body. But I slowly fell in love with it. I really enjoyed the freedom of spinning and leaping as I glided on the ice.						0	
+page0.10	怪不得你的姿态总是既凛然又优美。	難怪你的儀態總是端莊又優雅。	なるほど。どうりでいつも姿勢が良いわけだ。	어쩐지, 넌 항상 자세가 올곧고 우아하더라.	No wonder your posture is always so amazing and elegant. 						0	
+page0.11	下次有机会的话，跳给我看吧，我很期待。	下次有機會的話跳給我看吧，我很期待。	機会があればぜひ見せてくれよ。楽しみにしてるからさ。	다음에 기회가 되면 보여줘, 기대된다.	If we ever get the chance, I hope I can see you dance.						0	
+page0.12	……降临事件后，我再也没有练习过冰舞了，大概已经生疏了不少。	……自從降臨事件後，我再也沒有機會練習冰舞了，現在大概也變生疏了吧。	……降臨事件以来、アイスダンスの練習なんてしていないから。腕も相当鈍ってるはずだ。	… 강림 사건 이후로는 피겨를 연습한 적이 없어서, 아마 실력이 많이 줄었을 거야.	...I haven't done ice dancing since the Descent. I'm way out of practice.						0	
+page0.13	不过既然分析员想看，我会尽量试试。	不過既然分析員想看，我會盡量試試。	だが、分析員がそう言うなら、考えておく。	하지만 분석가가 원한다면 최대한 열심히 해볼게.	But if you want to see, I'll do my best.						0	
+page0.14	希望不会令分析员失望。	希望不會讓分析員失望。	期待を裏切ることにならないといいが。	분석가를 실망시키지 않았으면 좋겠다.	Hopefully I won't disappoint you, Adjutant.						0	

@@ -1,0 +1,27 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员儿！我真的抓到一个鬼鬼祟祟的家伙！他在角落偷偷安装奇怪的装置，本来想问问他在干什么，结果这家伙撒腿就跑。	分析員！我真的抓到一個鬼鬼祟祟的傢伙！他在角落偷偷安裝奇怪的裝置，本來想問問他在幹什麼，結果這傢伙拔腿就跑。	分析員！怪しいやつを捕まえたよ！隅っこでなんか変な装置を弄ってるとこ見つけて、何してるのって聞こうとしたら逃げ出したんだ！	분석가! 조금 수상해 보이는 녀석을 잡아왔어! 구석에서 이상한 장치를 설치하고 있어서 뭘 하고 있냐고 물어보려 했는데 냅다 도망을 치더라고.	Adjutant! I caught a super shifty guy! He was stashing a weird device in a corner. I was gonna ask him what he was doing, but he took off.						0	
+2	我看不对劲，就把人给你抓来了。	我看不對勁，就幫你把人抓來了。	こいつ絶対怪しい！と思って、捕まえてきた！	낌새가 이상해서 바로 생포해 왔어.	It seemed fishy, so I caught him for ya.						0	
+b-1											0	
+3	看他的穿着，是泰古通达的人？	看他的穿著，是泰古通達的人？	その格好、タグの者か？	복장을 보니 타이구 사람 같은데?	Judging by his clothes, it looks like he works for Taigu-Connect.						0	
+4	我们的人？唔，让我看看……	我們的人？唔，讓我看看……	うちの人間？うーん、どれどれ……	저희 사람이라고요? 흠… 어디 보자…	One of ours? Hmm, let me see...						0	
+5	不对劲。他穿的虽然是泰古通达的制服，但面具下的脸我一点印象都没有……别误会，我可不是脸盲！这家伙根本就不是我们的人。	不對勁。他穿的雖然是泰古通達的制服，但面具下的臉我一點印象都沒有……別誤會，我可不是臉盲！這傢伙根本就不是我們的人。	違うね。確かにタグの制服を着ているけど、マスクの下の顔に見覚えがないな……いや、あたし記憶障害とかじゃないからね！こいつはうちの人間じゃない。	이상하네요. 복장은 타이구 제복이 맞는데, 얼굴을 초면이에요… 확실히 저희 쪽 사람은 아니에요.	Something's off. He's wearing a Taigu-Connect uniform, but I've never seen his face before... Don't get me wrong — I don't have face blindness or anything! He just isn't one of our guys.						0	
+b-2											0	
+6	假冒的？	假冒的？	偽物？	그럼 가짜란 말인가요?	Is he a phony?						0	
+b-3											0	
+7	你们公司的服装是哪里都能搞得到的吗？	你們公司的服裝很容易搞到嗎？	タグの制服は簡単に手に入るものなのか？	타이구 제복은 구하기가 쉬운 편인가요?	Is your company uniform available anywhere?						0	
+8	想搞还是有办法的，但即使混进来也很快会被发现。如果只想小偷小摸，完全没必要这么麻烦。	想搞還是有辦法的，但即使混進來也很快會被發現。如果只想順手牽羊，完全不需要如此大費周章。	その気になればなんとかね。でも偽物だってすぐバレるでしょ。ちょっとした盗みを働くだけなら、こんな手間をかける必要ないね。	구하려면 방법은 있겠죠. 그렇다고 해도 금방 들킬 거예요. 설사 물건을 훔칠 생각이라고 해도 이렇게까지 번거롭게 할 필요는 없을 거고요.	It's possible, but even if someone snuck in, they would be found out pretty quickly. Why go through all the trouble if he just wanted to steal something?						0	
+9	我之前也见过这种笨蛋，但据我所知，她现在已经学乖了。	我之前也見過這種笨蛋，但據我所知，她現在已經學乖了。	こういうバカは前にも会ったことがあるけど、あたしの知る限り、そいつはもう懲りてるはず。	전에도 이런 바보 같은 사람을 한 번 만난 적이 있었는데 지금은 이미 손을 씻었다고 들었어요.	I've run into an idiot like that before, but as far as I know, she's on the straight and narrow now.						0	
+10	对了，还有这个奇怪的东西。	對了，還有這個奇怪的東西。	そうだ、この変なやつも。	맞다. 그리고 이런 이상한 물건도 있었어.	Oh yeah, he had this weird thing too.						0	
+b-4											0	
+11	这是……妮塔，你问过他这是什么吗？	這是……妮塔，你問過他這是什麼嗎？	これは……ニタ、これが何なのか、こいつに聞いた？	이건… 니타, 혹시 저 사람한테 이게 뭔지 물어봤어?	This... Nita, did you ask him what it was?						0	
+12	问过，但是这家伙什么都不说。	問過，但是這傢伙什麼都不說。	聞いたけど、何も話してくれなかった。	물어봤는데 아무 말도 안 해.	I asked, but he wasn't talking.						0	
+13	诶，对了！听芬妮说，分析员儿很会忽悠人，用你之前那招忽悠忽悠他？	欸，對了！聽芬妮說，分析員很會唬爛人，用你之前那招唬他試試？	あ、そうだ！ファニーから、分析員は誘導尋問がうまいって聞いた。前に使った手をこいつに使ってみたら？	아, 맞다! 페니가 그러던데? 분석가가 사람 떠보는 걸 그렇게 잘한다고. 저 녀석한테도 한 번 해보는 게 어때?	Oh, right! Fenny told me you're a really good liar, Adjutant. Why don'tcha fool him with your old tricks?						0	
+b-5											0	
+14	那套只适用于降临团那帮脑子不正常的人。	那套只適用於降臨團那群腦子不正常的人。	あれは降臨団の頭おかしい奴らにしか通用しない。	그런 건 강림단처럼 상태가 조금 이상한 사람들에게나 사용할 수 있는 거야.	Those only work on the Adventist weirdos.						0	
+15	长官，如果你放心的话，可以派我去调查一下这个人。	長官，如果你放心的話，可以派我去調查一下這個人。	ねぇ、あたしでよければ、こいつのことを調べてあげようか。	만약 괜찮으면 제가 가서 조사를 좀 해봐도 될까요?	Senior, if you're comfortable with it, please send me to investigate this guy.						0	
+b-6											0	
+16	那就拜托你了。	那就拜託你了。	それじゃ、お願いしようかな。	네. 그럼 부탁 좀 할게요.	I'll leave it to you.						0	
+b-7											0	
+17	妮塔，把这个装置带给芙提雅调查一下。	妮塔，把這個裝置帶給芙提雅調查一下。	ニタ、この装置をフリティアに調べさせてくれ。	니타, 해당 장치를 프티야한테 주고 분석 좀 해달라고 요청해줘.	Nita, have Fritia take a look at this device.						0	
+18	好嘞，立马送到。记得一会儿请我吃饭！	好喔，馬上送到。記得等一下請我吃飯！	オッケー！行ってくる！あとでご飯奢ってね！	오케이. 지금 바로 건네줄게. 대신에 나중에 밥 사는 거 잊지 말고!	Sure, I'll take it ASAP. Ya owe me dinner later!						0	

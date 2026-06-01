@@ -1,0 +1,12 @@
+﻿类型ID	名称(key)	图标	描述	策划备注
+Id	Name	Icon	Desc	Remark
+1	ui.TxtVircaptureFormation	1009016		编队传送点
+2	ui.TxtVircaptureWildGroup	1009034	ui.TxtVircaptureWildGroup.desc	游荡怪点
+5	ui.TxtVircaptureQuest	1009017	ui.TxtVircaptureQuest.desc	主线/任务点
+7	ui.Txtfishpoint_title01	1009019		钓鱼点
+8	ui.TxtVircaptureBossGroup	1009034		BOSS
+9	ui.TxtVircapturePortal	1009018	ui.TxtVircapturePortal.desc	支线/副本点
+10	ui.TxtVircaptureChest	1009021		宝箱
+11	ui.TxtVircaptureCube	1009021		魔方
+12	ui.TxtVircaptureGiftBox	1009021		礼盒
+13	ui.TxtBtnCook	1009014		烹饪点

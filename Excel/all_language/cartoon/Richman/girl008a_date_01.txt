@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，在练习跑步前要记得戴好脚踝护腕的绑带哦。	分析員，在練習跑步前要記得戴好腳踝護腕的綁帶哦。	分析員、防具はちゃんとつけるのよ。	분석가, 달리기 연습 전에 발목 보호대 밴드를 착용하는 것을 잊지 마.	Adjutant, don't forget to wear your ankle brace properly before running.						0	
+choice01	让芬妮帮忙佩戴	讓芬妮幫忙佩戴	ファニーにつけてもらう	페니한테 한번 써달라고 한다.	Let Fenny help with the ankle brace						0	
+page1.1	哎呀别动，都要歪了。	哎呀別動，都要歪了。	もう、じっとしてて！歪んじゃうじゃない。	아이고, 움직이지 마, 기울어지겠다.	Hey, hold still! I can't do this if you keep squirming.						0	
+page1.2	哈哈……不……好意思……感觉很痒……	哈哈……不……好意思……感覺很癢……	あは、す、すまん……なんだか、くすぐったくて……	하하… 아니… 부끄럽다… 간지러운데…	Haha... sorry... it tickles...						0	
+page1.3	哦？那我往上一点？	哦？那我往上一點？	ふーん？じゃあ、もうちょっと上につける？	어? 그럼 내가 좀 위로 갈까?	Really? Should I move it up a bit then?						0	
+page1.4	等等，芬妮，你的手……	等等，芬妮，你的手……	待って、ファニー！手が……	잠깐만, 페니, 네 손이…	Wait, Fenny, what are you doing to me with your hands...?						0	
+page1.5	这里就到了分析员的小腿，再往上……膝盖……大腿……	這裡就到了分析員的小腿，再往上…膝蓋…大腿……	ここが分析員の脛で……ここが膝で……ここが太ももね。	여기가 이제 분석가의 종아리, 더 위로… 무릎 허벅지…	So we've reached the calf, then the knee... moving up... to the thigh...						0	
+page1.6	分析员，现在还觉得痒吗？	分析員，現在還覺得癢嗎？	まだくすぐったい？分析員。	분석가, 아직도 간지러워?	Adjutant, does it still tickle?						0	
+choice02	帮芬妮佩戴护腕	幫芬妮戴上護腕	腕の防具をファニーにつける	페니 손목 보호대 착용 도와준다.	Help Fenny with the ankle brace						0	
+page2.1	这是我特意选的款式，要给本小姐绑一个最漂亮的蝴蝶结哦！	這是我特意選的款式，要給本小姐綁一個最漂亮的蝴蝶結！	このあたしがわざわざ選んだデザインよ。ちゃんと綺麗なちょうちょ結びにしてよね！	제가 특별히 선택한 스타일인데, 이 몸에게 가장 예쁜 리본을 묶어주려고 해요!	I picked this one specifically for myself. Make the prettiest bow for me, Adjutant!						0	
+page2.2	嗯……蝴蝶结越好看，大明星的发挥也越好吗？	嗯……蝴蝶結越好看，大明星的發揮越好嗎？	ああ。綺麗に結んだら、スーパースターのパフォーマンスもそれだけ良くなるのか？	음… 리본이 예쁠수록 대스타의 활약도 좋아질까?	Okay... Does a nicer bow mean a better performance for our superstar?						0	
+page2.3	哼，不论怎样都不会影响本小姐发挥的。	哼，不論怎樣都不會影響本小姐發揮的。	フッ！あたしのパフォーマンスはそれだけで変わったりしないわ。	흥, 어찌 되었든 간에 내 실력에는 지장이 없을 거야.	Hmph, nothing can affect my performance.						0	
+page2.4	但蝴蝶结是我和分析员亲密无间的证明啦！	但蝴蝶結是我和分析員親密無間的證明啦！	でも、これはあたしと分析員の関係の証なの！	하지만 리본은 내가 분석가와 친하다는 증거야!	But the bow is a symbol of our special bond!						0	
+page2.5	一定要最最漂亮才行！	一定要最漂亮才行！	だから完璧でないといけないのよ！	제일 예뻐야 돼!	So it has to be the prettiest!						0	

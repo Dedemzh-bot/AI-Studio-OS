@@ -1,0 +1,17 @@
+﻿特效id	注释	路径	是否循环播放	位置偏移	缩放	音效
+Id	Nul	Path	Loop	Offset	Scale	Voice
+1	方向指示特效	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_arrow/e_chess_dlc3_arrow_p.e_chess_dlc3_arrow_p'	1	{0, 0, 20}		
+2	点击特效1可选	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_touch/e_chess_dlc3_touch1.e_chess_dlc3_touch1'	1	{0, 0, 0}		
+3	点击特效2多选已选中	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_touch/e_chess_dlc3_touch2.e_chess_dlc3_touch2'	1	{0, 0, 0}		
+4	点击特效3单选点击	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_touch/e_chess_dlc3_touch3.e_chess_dlc3_touch3'	0	{0, 0, 0}		
+5	走路特效	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc9/e_chess_dlc9_walk.e_chess_dlc9_walk'	0	{0, 0, 0}		
+6	房子升级特效小	NiagaraSystem'/Game/Effects/Environments/Chess/Chess_dlc3_build1/Chess_dlc3_build1_p.Chess_dlc3_build1_p'	0	{0, 0, 0}		
+7	房子升级特效大	NiagaraSystem'/Game/Effects/Environments/Chess/Chess_dlc3_build1/Chess_dlc3_build2_p.Chess_dlc3_build2_p'	0	{0, 0, 0}		
+8	相遇爱心	NiagaraSystem'/Game/Cinematics/girl008a_04_victory/Effect/e_girl008a_04_wp03a_victory_self04_p.e_girl008a_04_wp03a_victory_self04_p'	0	{0, 0, 0}		
+9	地块切换特效	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc9/e_chess_dlc9_switch.e_chess_dlc9_switch'	0	{0, 0, 0}		
+10	房屋选中效果	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_selecthouse/e_chess_dlc3_selecthouse.e_chess_dlc3_selecthouse'	1	{0, 0, 0}		
+11	交互特效	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_item1/e_chess_dlc3_item1_p.e_chess_dlc3_item1_p'	0	{0, 0, 0}		
+12	开心	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_happy/e_chess_dlc3_happy_p.e_chess_dlc3_happy_p'	0	{0, 0, 0}		
+13	失落	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_sad/e_chess_dlc3_sad_p.e_chess_dlc3_sad_p'	0	{0, 0, 0}		
+14	生气	NiagaraSystem'/Game/Effects/Environments/Chess/e_chess_dlc3_angry/e_chess_dlc3_angry_p.e_chess_dlc3_angry_p'	0	{0, 0, 0}		
+

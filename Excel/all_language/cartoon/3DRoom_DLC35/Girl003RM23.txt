@@ -1,0 +1,31 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，明天的噬神斗场还有名额吗？我想报名！	分析員，明天的噬神鬥場還有名額嗎？我想報名！	分析員、明日の神弑闘技場って……まだ空きある？私も申し込みたい！	분석가, 내일 신의 전장 자리 있어? 신청하고 싶은데!	Adjutant, got any slots left in tomorrow's Supreme Battleground? I wanna sign up!						0	3.5版本随机剧情
+page1.2	交接物资？这种小事，包在我身上！	交接物資？這種小事，包在我身上！	物資の引き継ぎ？任せて！	물자 전달? 그런 건 나한테 맡겨!	Supply transfer? Leave it to me!						0	3.5版本随机剧情
+page1.3	是要去零区巡逻吗？我来我来！	是要去零區巡邏嗎？我來我來！	エリアゼロの巡回？私が行く！	제로 구역 순찰 가려고? 내가 갈게!	Heading out to patrol the Containment Zone? I got it!						0	3.5版本随机剧情
+page1.4	妮塔最近一直在连续出任务，真的不用休息一下吗？	妮塔最近一直在連續出任務，真的不用休息一下嗎？	ニタ、最近ずっと任務続きだけど、休まなくて大丈夫なのか？	니타, 최근에 계속 임무 하러 나가는 것 같던데, 정말 쉬지 않아도 돼?	Nita, you've been running missions nonstop lately. Are you sure you don't need a break?						0	3.5版本随机剧情
+page1.5	没事没事！	沒事沒事！	全然平気！	괜찮아 괜찮아!	I'm all good, no worries.						0	3.5版本随机剧情
+page1.6	比起休息什么的，我还是更想抓紧时间多攒点……	比起休息什麼的，我還是更想抓緊時間多攢點……	休むよりもさ……今のうちに、もう少し貯めておきたくて……	쉬는 것보다는 시간을 아껴서 빨리 모으고 싶어서…	Instead of taking it easy, I'd rather seize every second to save up more...						0	3.5版本随机剧情
+page1.7	攒什么？	攢什麼？	何を？	뭘 모으는데?	Save up what?						0	3.5版本随机剧情
+page1.8	噢噢！任务集合要迟到了！	噢噢！任務集合要遲到了！	あっ！任務の集合時間に遅れちゃう！	어어! 임무 집합 시간에 늦겠다!	Uh-oh! I'm gonna be late for the mission briefing!						0	3.5版本随机剧情
+page1.9	等我回来再跟分析员解释吧。	等我回來再跟分析員解釋吧。	戻ってきたら説明するから。	분석가, 설명은 돌아와서 해 줄게.	I'll explain it when I get back, Adjutant.						0	3.5版本随机剧情
+page1.10	分析员一定要记得来我房间啊！嘿嘿~	分析員一定要記得來我房間啊！嘿嘿~	分析員、ちゃんと私の部屋に来てね！へへ！	잊지 말고 내 방에 꼭 와야 해! 헤헤~	Remember to come to my room later! Hehe~						0	3.5版本随机剧情
+page1.11	一百、两百、三百……哈哈，今天运气真不错！	一百、兩百、三百……哈哈，今天運氣真不錯！	100、200、300……ははっ、今日はツイてる！	백, 이백, 삼백… 하하, 오늘은 운이 정말 좋네!	One hundred, two hundred, three hundred... Haha, lucky day!						0	3.5版本随机剧情
+page1.12	在乐什么呢？	在樂什麼呢？	何をそんなに喜んでいるんだ？	뭐가 그렇게 즐거워?	What are you so happy about?						0	3.5版本随机剧情
+page1.13	分析员快看，我今天赚了这么多！	分析員快看，我今天賺了這麼多！	分析員、見て！今日はこんなに稼いだよ！	분석가, 이것 좀 봐. 나 오늘 이만큼 벌었어!	Adjutant, check out the fortune I made today!						0	3.5版本随机剧情
+page1.14	你不是一整天都在外面出任务吗？	你不是一整天都在外面出任務嗎？	一日中任務に出てたはずだよな。	임무 때문에 하루 종일 밖에 있었던 거 아니었어?	Weren't you out on missions all day?						0	3.5版本随机剧情
+page1.15	就是因为出任务才有得赚！	就是因為出任務才有得賺！	任務に出たから稼げたんだよ！	임무 하러 나갔으니까 벌었지!	That's exactly how I made money!						0	3.5版本随机剧情
+page1.16	今天在巡逻的路上收拾了几波炮台。	今天在巡邏的路上收拾了幾波炮臺。	今日の巡回で砲台をいくつか潰してさ。	오늘 순찰 중에 터렛 몇 대를 처리했거든.	I salvaged some turrets while on patrol.						0	3.5版本随机剧情
+page1.17	我把那些铁皮残骸扎成一大捆，扛到资源部兑换成了通用银，足足兑换了三百多呢！	我把那些鐵皮殘骸扎成一大捆，扛到資源部兌換成了通用銀，足足兌換了三百多呢！	鉄くずを資源部に持っていったら、300シルバギボス以上になったんだよ！	그 철판 조각들을 하나로 묶어서 자원부에 가져가 실버 코인으로 바꿨는데, 무려 삼백 개 넘게 받았어!	I bundled up all that scrap metal wreckage, hauled it to the Resources Department, and exchanged it for SilverBucks. Got over three hundred for it!						0	3.5版本随机剧情
+page1.18	（要不要告诉她呢……）	（要不要告訴她呢……）	（教えてやるべきだろうか……）	(말해줘야 하나…)	(Should I tell her...?)						0	3.5版本随机剧情
+page1.19	妮塔真是赚通用银的天才……不过，你是不是把那些炮台的武器零件都丢掉了？	妮塔真是賺通用銀的天才……不過，你是不是把那些炮臺的武器零件都丟掉了？	ニタはシルバギボス稼ぎの天才だな……でも砲台のパーツは全部捨てたのか？	니타는 실버 코인 벌이의 천재네… 근데 그럼 그 터렛들의 무기 부품은 다 버린 거야?	You're a genius at making money, Nita... But did you perhaps throw away all the weapon parts from those turrets?						0	3.5版本随机剧情
+page1.20	是啊，怎么了？	是啊，怎麼了？	うん、それが？	응, 왜?	Yeah. Why?						0	3.5版本随机剧情
+page1.21	据我所知，单是炮筒的组装零件就比铁皮要值钱多了。	據我所知，單是炮筒的組裝零件就比鐵皮要值錢多了。	実は鉄くずより、パーツのほうがずっと高く売れるんだ。	내가 알기로는 포신 조립 부품이 철판보다 훨씬 비싸게 팔리는데.	As far as I know, the barrel's assembly parts alone are worth way more than the scrap.						0	3.5版本随机剧情
+page1.22	什么！	什麼！	なっ！？	뭐라고?	What!?						0	3.5版本随机剧情
+page1.23	大概一套就能换两三百通用银。	大概一套就能換兩三百通用銀。	1セットで200から300シルバギボスくらいになるはず。	한 세트에 아마 이삼백 실버 코인은 될걸.	One set could probably get you two or three hundred SilverBucks.						0	3.5版本随机剧情
+page1.24	妮塔，你不要紧吧……	妮塔，你不要緊吧……	ニタ、大丈夫か？	니타, 괜찮은 거지…?	Nita, are you okay...?						0	3.5版本随机剧情
+page1.25	噗哈哈哈，原来是这样！	噗哈哈哈，原來是這樣！	はははっ、なるほど！	푸하하하, 그렇구나!	Hahahaha! Would've been good to know that!						0	3.5版本随机剧情
+page1.26	不过没事，我需要的钱已经攒够了。	不過沒事，我需要的錢已經攢夠了。	でも大丈夫。必要なお金はもう貯まったから。	하지만 괜찮아, 필요한 돈은 이미 다 모았거든.	But it's okay, I've saved enough money for what I need.						0	3.5版本随机剧情
+page1.27	分析员，我发现有一家不错的餐厅，新恒提罗菜做得很地道！早就想等你有空一起去尝尝了。	分析員，我發現有一家不錯的餐廳，新恆提羅菜做得很地道！早就想等你有空一起去嘗嘗了。	本格的なニューガントラ料理の店を見つけたんだ。時間ができたら、分析員と一緒に行きたいって思ってた。	분석가, 내가 괜찮은 식당을 하나 발견했는데, 뉴헨틸로 요리가 정말 맛있어! 네가 시간이 나면 같이 가보려고 하고 있었어.	Adjutant, I found a nice restaurant that serves authentic New Hentiro food! I've been wanting to take you to try it for a while.						0	3.5版本随机剧情
+page1.28	原来妮塔攒钱是为了这个啊。	原來妮塔攢錢是為了這個啊。	そのために貯金していたのか。	그래서 니타가 돈을 모은 거였구나.	So that's what you've been saving up for.						0	3.5版本随机剧情
+page1.29	哈哈，走，去吃大餐，我请客！	哈哈，走，去吃大餐，我請客！	そう、一緒に行こう！奢るよ！	하하, 가자, 맛있는 거 먹으러! 내가 살게!	Haha, let's go feast. It's on me!						0	3.5版本随机剧情

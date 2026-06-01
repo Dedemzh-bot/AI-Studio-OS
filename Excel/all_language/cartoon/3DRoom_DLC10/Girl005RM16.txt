@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员请不要做那么危险的事情了。	分析員請不要做那麼危險的事了。	分析員さん、もうあんな危険なことはしないでください。	분석가님, 그렇게 위험한 일은 하지 말아주세요.	Adjutant, please don't do such dangerous things anymore.						0	
+page1.2	……总觉得这应该是我的台词？	……總覺得這應該是我的台詞？	……どちらかというと私のセリフじゃないか？	… 왠지 내가 해야 할 대사 같은데?	...Why do I feel like that's my line?						0	
+page1.3	分析员，我可是很认真的。	分析員，我可是很認真的。	真面目に言ってるんですよ。	분석가님, 저 정말 진지하게 말하는 거예요.	Adjutant, I'm serious.						0	
+page1.4	你不能再做那么危险的事情了，会受伤的。	你不能再做那麼危險的事了，會受傷的。	あんなことをして、大けがでもしたらどうするんですか。	더 이상 그런 위험한 일은 하지 마세요, 다칠 수도 있어요.	You can't do stuff like that anymore. You'll get hurt.						0	
+page1.5	看到你一个人冲到那么危险的前面去，没办法不管吧。	看到你一個人衝到那麼危險的前面去，沒辦法不管。	危険に飛び込んでいく君のことを、見て見ぬふりはできないだろ。	너 혼자서 그렇게 위험한 곳으로 뛰어가는 걸 보면 그냥 놔둘 수 없잖아.	When I see you rushing alone headfirst into danger, I can't just ignore it.						0	
+page1.6	可我已经习惯了那种战斗方式。	但我已經習慣了那種戰鬥方式。	私はああいう戦い方に慣れてますから……	근데 저는 그런 싸움 방식에 이미 익숙해졌어요.	But that's how I'm used to fighting.						0	
+page1.7	习惯并不代表这是对的。或者说，这是你早就需要更改的坏习惯。	習慣不代表這是對的。或者說，這是你早就需要改變的壞習慣。	慣れてるからって、そのやり方が正しいということにはならないよ。というか、君は早くその悪い癖を治すべきだと思う。	익숙하다고 해서 그게 옳다는 건 아니야. 오히려, 이건 네가 고쳐야 했던 나쁜 습관이야.	Just because you're used to it, doesn't make it right. Maybe you should have changed that habit a long time ago.						0	
+page1.8	呜……我知道了，再有这种情况，分析员惩罚我就好了，请不要再让自己受伤。	嗚……我知道了，再有這種情況，分析員懲罰我就好了，請不要再讓自己受傷。	うっ……分かりました。またこんなことをしたら、私におしおきでも何でもしてください。ただし、あなたが傷付くのはゴメンですよ。	으… 알겠어요, 다음에 이런 상황이 생기면 분석가님이 저를 혼내주세요, 그러니까 제발 더 이상 다치지 마세요.	*sob*... Okay, Adjutant. Just punish me if it happens again. And please don't get hurt again yourself.						0	
+page1.9	我怎么可能去惩罚受伤的你？	我怎麼可能去懲罰受傷的你？	負傷した君におしおきなんてできるわけないだろ。	내가 어떻게 다친 너를 혼낼 수 있겠어?	How can I punish you if you're already hurt?						0	
+page1.10	只，只能二选一吗？	只，只能二選一嗎？	ケガとおしおき……どっちかひとつしか選べないってことですか？	그, 그게 꼭 둘 중 하나만 선택해야 하는 거예요?	A—Are those things mutually exclusive?						0	
+page1.11	总觉得你好像理解错了什么。	總覺得你好像理解錯了什麼。	なにか誤解しているようだな。	뭔가 오해한 것 같은데.	I feel like you're misunderstanding something.						0	
+page1.12	不过你现在明白了吗？我看到茉莉安受伤时的感受？	不過你現在明白了嗎？我看到茉莉安受傷時的感受？	でも、これで分かったんじゃないか。私が傷だらけのマリアンを見た時の気持ちが。	어쨌든 이제는 이해했어? 내가 마리안이 다쳤을 때 느꼈던 감정을?	Anyway, do you get it now? How I feel when I see you get hurt...						0	
+page1.13	分析员是为了这个才……	分析員是為了這個才……	つまり、そのために分析員は……	분석가님이 그래서…	So that's why you...						0	
+page1.14	这也是原因之一吧，总之，往后行动要更谨慎一些，保护好自己。	這也是原因之一吧，總之，往後行動要更謹慎一些，保護自己。	それもあるけど……とにかく、これからはちゃんと自分のことを大切にするんだぞ。	그것도 이유 중 하나이지. 어쨌든 앞으로는 행동할 때 더 신중하게 하고, 자신을 잘 보호해야 해.	That's one of the reasons. Either way, you need to be more careful from now on and protect yourself.						0	
+page1.15	可是……	可是……	でも……	하지만…	But...						0	
+page1.16	好吧。为了分析员，我，我会努力克制的。	好吧。為了分析員，我，我會努力克制的。	分かりました。分析員さんのために、で、できるだけ我慢します。	알겠어요. 분석가님을 위해서, 제, 제가 노력해서 자제할게요.	Okay. For you, I—I'll try to restrain myself, Adjutant.						0	
+page1.17	为什么是克制……	為什麼是克制……	なんで我慢なんだ……	왜 자제야…	What do you mean by "restrain"...?						0	

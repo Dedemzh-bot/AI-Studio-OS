@@ -1,0 +1,4 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	里芙			这个感觉……瓦尔基里游戏？	0	
+2		0	里芙			不对，这不是虚拟场景。	0	

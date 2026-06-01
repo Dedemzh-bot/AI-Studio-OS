@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	唔，究竟还要多少个银牌才够啊……	唔，到底還要多少個銀牌才夠啊……	うーん、銀メダルがあとどれだけあれば足りるわけ？	흑, 도대체 언제까지 은메달을 따야 하는 거야…	How many more silver medals will it take for a gold one...						0	3.2版本随机事件
+page1.2	嗯？是达……达令啊。	嗯？是達……達令啊。	あら、ダーリンじゃない。	응? 다… 달링이구나.	Hmm? D—Darling...						0	3.2版本随机事件
+page1.3	你奖牌还挺多的。	你獎牌還蠻多的。	そのメダル、随分持ってるよな。	메달이 꽤 많네.	You have quite a lot of medals.						0	3.2版本随机事件
+page1.4	哼哼，那当然啦，这些可都是功勋的证明呀~	哼哼，那當然啦，這些可都是功勳的證明呀~	ふふん、もちろん。功績の証明だからね。	흐흥, 당연하지! 이게 다 영광의 증표인걸~	Hehe, I know, right? Each one is proof of my achievements~						0	3.2版本随机事件
+page1.5	本小姐在瓦尔基里游戏上，可是一等一的大明星！虽然那是曾经啦……	本小姐在瓦爾基里遊戲上，可是一等一的大明星！雖然那是曾經啦……	あたしはね、ヴァルキリーゲームでは指折りのビッグスターなのよ！まあ昔の話だけど……	이 몸은 발키리 게임의 톱스타였다고! 옛날이야기지만…	I am a top-tier superstar in the Valkyrie Games after all! Well, was... That's the past.						0	3.2版本随机事件
+page1.6	但不管怎么说，在海姆达尔部队里，本小姐也算是达令的最佳贤内助嘛！	但不管怎麼說，在海姆達爾部隊裡，本小姐也算是達令的最佳賢內助嘛！	どうであれ、ヘイムダル部隊の中でも、あたしはダーリンの最高のパートナーって言えるでしょ！	하지만 어쨌든, 이 몸은 헤임달 부대에서도 최고로 현명한 달링의 조력자잖아!	Still, when all's said and done, I'm still your best partner in Heimdall. The one who can really get things done for you, darling~						0	3.2版本随机事件
+page1.7	那真是多谢芬妮对我的帮助了。	那真是多謝芬妮對我的幫助了。	いつも助かってる。	그래, 페니가 도와줘서 정말 고마워.	Well then, I should be very grateful for your help.						0	3.2版本随机事件
+page1.8	唔……那倒，那倒是不足挂齿啦，身为伴侣，这是我应该做的嘛。	嗯……那倒、那倒是不足掛齒啦，身為伴侶，這是我應該做的嘛。	ま……まぁ、当然のことよ。パートナーとしてすべきことをしてるだけだからね。	으음… 벼, 별거 아니야. 연인으로서 당연히 해야 할 일이지.	O—Oh well... it's nothing, really! I'm just doing my part, as your partner.						0	3.2版本随机事件
+page1.9	当然，你要是真的想感谢本小姐，那就，那就……	當然，你要是真的想感謝本小姐，那就，那就……	でも、もし本当にあたしに感謝したいなら、ええと、やっぱり……	물론, 정말로 이 몸이 고맙다면, 그럼, 그럼…	But, if you really do want to thank me, then... then...						0	3.2版本随机事件
+page1.10	那就怎么样？	那就怎麼樣？	やっぱり？	그럼?	Then what?						0	3.2版本随机事件
+page1.11	唔……那就多花点时间在本小姐身上嘛！	唔……那就多花點時間在本小姐身上嘛！	やっぱりその……あたしにもっと時間かけてよ！	으음… 그럼 이 몸한테 시간을 더 많이 써달라고!	Mmm... Then you should spend more time with me!						0	3.2版本随机事件
+choice02	宠宠她	寵寵她	なだめる	응석을 받아준다	Pamper her						0	3.2版本随机事件
+page3.1	好好好，以后我的时间都给我亲爱的小狮子。	好好好，以後我的時間都給我親愛的小獅子。	わかった、これから私の時間は全部かわいいライオンちゃんに捧げるから。	그래, 그래. 앞으로는 우리 사랑스러운 리틀 라이언에게 시간을 다 쓸게.	Alright, alright. From now on, all my time belongs to my dear little lioness.						0	3.2版本随机事件
+page3.2	那，那可说好了，不准改了哦！	那、那就說好了，不准改了喔！	じ、じゃ約束だからね！	그, 그럼 약속한 거다? 딴소리하기 없기!	R—Really? You promise? No backing out now!						0	3.2版本随机事件
+page3.3	就比如今天……你今天一整天都要留给我！	就比如今天……你今天一整天都要留給我！	例えば今日は……丸一日あたしと過ごして！	예를 들어 오늘… 오늘은 하루 종일 나랑 같이 있어 줘!	How about... You're mine for the whole day today!						0	3.2版本随机事件

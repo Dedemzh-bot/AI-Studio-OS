@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员假期也在忙吗？哦哦——辛苦——	分析員假期也在忙嗎？哦哦——辛苦——	分析員、休日なのに仕事してんの？お疲れさま——	분석가는 휴가 중에도 바쁘네? 수고가 많아…	Are you busy on your days off too, Adjutant? Hang in there...						0	
+page1.2	没办法，从耶洛沙带回来大量的数据样本都需要人手整理，我也得上了。	沒辦法，從耶洛沙帶回來大量的數據樣本都需要人手整理，我也得上了。	仕方ないよ、イェロシャから持ち帰った大量のデータサンプルを整理する必要があって、人手が足りないんだ。	어쩔 수 없어. 옐로샤에서 가져온 대량의 데이터 샘플을 직접 정리해야 해서 나도 같이 해야 할 것 같아.	Yeah, that's just how it is. All of the data samples we brought back from Yehrus need organizing, and I'm the man for the job.						0	
+page1.3	怎么样？上次就算了，这次肴也来帮帮忙吧！	怎麼樣？上次就算了，這次肴也來幫幫忙吧！	どう？前は断られたけど、今回は手伝ってくれないか？	지난번에는 안 도와줬으니까 이번엔 너도 좀 도와줘!	What do you say? Forget about last time. Help me out this time!						0	
+page1.4	诶？等下等下，我昨天可是超——级辛苦地干满了整整一天啊！	欸？等下等下，我昨天可是超——級辛苦地作滿了整整一天啊！	え？ちょっと待って、昨日は超——忙しくて一日中働いたんだから！	뭐? 잠깐만! 나도 어제는 진짜 열심히 일했다고!	Eh? Wait a second — I was super busy yesterday! I worked all day long!						0	
+page1.5	可是昨天本来就是工作日吧……	可是昨天本來就是工作日吧……	昨日は平日だったしね……	어젠 출근 날이었잖아…	Well, yesterday was a work day after all...						0	
+page1.6	不过看在分析员这么辛苦的份儿上，我倒是可以教给你一招“加班少少”独门诀窍哦！	不過看在分析員這麼辛苦的份上，我倒是可以教你一招「加班少少」獨門訣竅！	でも、分析員がそんなに大変なら、私の残業を減らすコツを教えてあげよう！	분석가가 이렇게까지 힘들어하는 모습을 보니 내가 야근을 줄일 수 있는 비법을 전수해 줘야겠군!	But since you're working so hard, let me teach you a little trick to make your overtime fly by!						0	
+page1.7	说来听听？	說來聽聽？	というと？	그게 뭔데?	I'm listening...						0	
+page1.8	嗯嗯~工作嘛，很多时候不外乎是一些重复性的劳动啦。	嗯嗯~工作嘛，很多時候不外乎是一些重複性的勞動啦。	うん、仕事っていうのは、繰り返し作業をやることが多いよね。	엣헴~ 일이라는 건 말이지, 대부분 반복적인 노동에 불과해.	So — most of the time, work is nothing more than repetitive labor, right?						0	
+page1.9	只要提高工作的熟练度，再多的工作也可以很快完成。	只要提高工作的熟練度，再多的工作也可以很快完成。	仕事の熟練度を上げれば、どんなに多くてもすぐに終わらせられるよ。	일의 숙련도를 높이면 많은 양의 일도 빨리 끝낼 수 있지.	If you improve your proficiency, you'll be able to finish it right away — no matter how much work you have to do.						0	
+page1.10	是这个道理。	就是這個道理。	確かに。	일리가 있는 말이네.	That makes sense.						0	
+page1.11	而加班就是一个提高工作熟练度的好机会！	而加班就是一個提升工作熟練度的好機會！	そして残業は、仕事の熟練度を上げる絶好のチャンス！	그리고 야근은 일의 숙련도를 높일 수 있는 좋은 기회야!	And working overtime is a great opportunity for you to improve your proficiency!						0	
+page1.12	通过加班熟悉越多的工作内容，工作的效率就越高，工作的用时就越少。	透過加班熟悉越多的工作內容，工作的效率就越高，工作的用時就越少。	残業を通して、より多くの仕事内容に慣れれば、効率が上がって、必要な時間が減るんだ。	업무 내용이 익숙해지면 일의 효율이 올라갈 뿐만 아니라 소요 시간도 줄어들어.	You'll get more familiar with the content of your work by working overtime, which will increase your efficiency. That means less time working.						0	
+page1.13	同样数量的工作用时越少，那么加班时间就会越少啊！	同樣數量的工作用時越少，那麼加班時間就越少啊！	同じ量の仕事を短い時間でこなせれば、それだけ残業時間も減るよね！	동일한 양의 작업을 더 적은 시간에 할수록 야근 시간도 줄어들지!	The less time it takes you to finish the same amount of work, the less overtime you'll have to do!						0	
+page1.14	好！现在反推！所以说，让加班变少的秘诀就是……	好！現在反推！所以說，讓加班變少的秘訣就是……	よし！では逆算すると……つまり、残業を減らすコツは……	자! 그럼 다시 역으로 생각해 볼까! 그러니까, 야근을 줄이는 비결은…	Alright! To make it simple, the secret to reducing your time working is...						0	
+page1.15	狠狠加班！	狠狠加班！	ガンガン残業することだ！	더 빡세게 일하라는 거지?	Working overtime!						0	
+page1.16	不错不错，分析员真是太聪明了！	不錯不錯，分析員真是太聰明了！	うんうん、分析員は本当に賢いね！	그렇지, 그렇지, 역시 분석가는 똑똑해!	Exactly! You're so smart, Adjutant!						0	
+page1.17	……	……	……	…	...						0	
+page1.18	我脸上难道写着“好骗”两个字吗。	我臉上寫著「好騙」這兩個字嗎。	私の顔に「騙されやすい」と書いてあるのか？	내가 그렇게 쉽게 속을 것 같아 보여?	Is the word "gullible" written on my face or something...?						0	
+page1.19	诶嘿嘿……	欸嘿嘿……	へへ……	헤헤헤…	Hehehe...						0	

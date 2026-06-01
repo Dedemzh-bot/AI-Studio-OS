@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	瑟瑞斯，医疗部传给我一份你的近期睡眠质量监测报告。	瑟瑞斯，醫療部傳了一份你最近的睡眠品質監測報告給我。	シーリス、医療部から最近の睡眠監視レポートが届いた。	세리스, 의료부에서 네 최근 수면 퀄리티 모니터링 보고서를 보내줬어.	Siris, the Medical Department sent me a copy of your sleep quality report.						0	
+page0.2	你的快速眼动期睡眠时长，远低于正常指标，这……	你的快速動眼期遠低於正常指標，這……	君のレム睡眠の時間が、正常値よりかなり短いみたいだ、これは……	램 수면 시간이 표준 수치보다 많이 낮아, 이건…	The length of your REM sleep cycle is much lower than average. That means...						0	
+page0.3	这意味着我几乎不做梦，缺少整理大脑数据并将短期记忆转化为长期记忆的时间。	這代表我幾乎不作夢，缺少能讓大腦整理資訊並將記憶整合至長期記憶中儲存的時間。	ほとんど夢を見ないってこと。脳のデータを整理して、短期記憶を長期記憶に変える時間が足りないんだ。	그 말은 제가 꿈을 거의 꾸지 않고, 뇌의 데이터를 정리하고 단기 기억을 장기 기억으로 전환할 시간이 부족하다는 의미죠.	It means I pretty much never dream, so my brain doesn't have time to organize information and convert my short-term memory into long-term memory.						0	
+page0.4	医疗部有提出什么改良你睡眠状况的建议吗？	醫療部有給你什麼改善睡眠品質的建議嗎？	医療部は睡眠状態を改善する提案をしてくれたか？	의료부에서 네 수면 상태를 개선할 방법을 알려주지 않았어?	Did the Medical Department give you any suggestions for how to improve your sleep?						0	
+page0.5	有的。根据我的体感调整室内温度、播放舒缓的音乐、尽量避免摄入咖啡因、服用褪黑素……	有的。根據我的體溫調整室內溫度、撥放輕柔的音樂、盡量避免攝取咖啡因、服用褪黑激素……	うん。室温を体感に合わせて調整したり、リラックスできる音楽を流したり、カフェイン摂取を避けたり、メラトニンを飲んだり……	알려줬어요. 적절한 실내 온도 유지, 편안한 음악 듣기, 카페인 피하기, 멜라토닌 복용…	Yeah, they said I could adjust the temperature in my room, play some soothing music, avoid drinks with caffeine, take melatonin...						0	
+page0.6	那效果如何？	那效果如何？	効果はどうだった？	효과는 어때?	Did any of that work?						0	
+page0.7	……虽然我不想让医疗部白为我操心，都配合着尝试了一遍，但尝试前我就知道结果了。	……雖然我不想讓醫療部擔心，所以都配合著試了一遍，但其實我早就知道結果了。	……無駄に医療部に心配されたくなかったので、一応全部試してみたけど。でも、はぁ……やる前から結果は分かってた。	… 의료부에 걱정 끼치기 싫어서 다 해봤지만, 해보기 전부터 이미 결과는 알고 있었어요.	...Not really. I didn't want all the Medical Department's work to be for nothing, but I knew it wasn't going to be of much help.						0	
+page0.8	不过，分析员不用为我担心。	不過，分析員不用太擔心。	あっ！心配しないで分析員！	하지만 분석가님, 걱정하지 않으셔도 돼요.	Anyway, you don't need to worry about me, Adjutant.						0	
+page0.9	想想看，不用受到噩梦的困扰也挺好的！也不会梦见不开心的事情。	你想嘛～不會做惡夢也很好耶！也不會夢到讓人不開心的事。	ほら！嫌な夢を見てうなされないのも悪くないのよ！	생각해 보세요. 악몽에 시달리지 않아도 되고, 꿈에서 기분 나쁜 일을 겪지 않아도 되잖아요!	When you think about it, it's really nice because I don't have to deal with nightmares! And I never have to dream about anything sad.						0	
+page0.10	何况，我的睡眠时长也足够回复身体状态啦！	何況我的睡眠時間也夠我恢復身體狀態啦！	それに、体は十分休めてるしね！	게다가, 제 수면 시간으로도 컨디션을 회복하기 충분해요!	Anyway, my sleep cycle is long enough for me to still get a good rest!						0	
+page0.11	（这个时候她不必勉强自己微笑的，一定得找到办法治疗她的症状。）	（這種時候其實可以不必強顏歡笑的，一定要找辦法治療她的症狀。）	……うん。（こういう時まで無理して笑う必要はないけどな。彼女の症状を改善する方法を見つけないと。）	(이럴 땐 억지로 웃지 않아도 되는데, 그녀의 증상을 치료할 방법을 찾아야 해)	(At times like this, she shouldn't have to force herself to smile. I have to find a way to fix her symptoms.)						0	

@@ -1,0 +1,4 @@
+﻿ID	备注	镜头放大参数	镜头缩小参数	放大缩小移动速度	镜头上移参数	镜头下移参数	上下移动速度
+ID	des	xAxisForward	xAxisBackward	xVelocity	zRotationUp	zRotationDown	zVelocity
+1	PC端角色鉴赏镜头设置	0	1350	400	71	-76	0.1
+2	移动端角色鉴赏镜头设置	0	1350	400	71	-76	0.1

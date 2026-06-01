@@ -131,6 +131,8 @@ def main():
         for f in sorted(module_fields):
             if f in field_dict:
                 metadata["fields"][f] = field_dict[f]
+            else:
+                metadata["fields"][f] = f"【待补充】{f}"
 
         new_entry = {"_metadata": metadata, "data": records}
 

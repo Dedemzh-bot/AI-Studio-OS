@@ -1,0 +1,7 @@
+id	//备注	开启后获得的buff数量	对应的buff库
+ID	Comment	BuffAmount	BuffGroupID
+1	测试宝箱-中级	3	1
+2	测试宝箱-高级	5	2
+3	测试宝箱-射击	5	3
+4	测试宝箱-技能	5	4
+5	测试宝箱-全能	5	5

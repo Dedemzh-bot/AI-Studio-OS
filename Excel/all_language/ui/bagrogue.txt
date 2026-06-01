@@ -1,0 +1,435 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+CoinName1	漠北星砂	漠北星砂	漠北の星砂	사막의 별모래	Mobei Stardust						0	2.3版本蜃梦笔谈
+CoinName1_des	用于在 沙漠商队 购买物品\n行走于沙漠之地时，偶尔能在细腻黄沙中发现闪着耀眼光辉的神奇沙砾	用於在 沙漠商隊 購買物品\n行走於沙漠之地時，偶爾能在細膩黃沙中發現閃著耀眼光輝的神奇沙礫	「砂漠商隊」でアイテム購入に使う。\n砂漠を歩いていると、黄砂の中で稀に輝く不思議な砂粒を見つけることがある。	사막 상인에게 아이템을 구매하는 데 사용된다.\n사막을 걷다 보면 가끔씩 고운 황사 속에서 눈부신 빛을 발하는 신비로운 모래알을 발견할 수 있다.	Used to buy items in Desert Caravan.\nWhen trekking through the barren desert, one will occasionally find this magical small gravel shining amongst the golden sand.						0	2.3版本蜃梦笔谈
+CoinName1_use	蜃梦笔谈专用道具	蜃夢筆談專用道具	蜃夢異談専用アイテム	신비한 꿈 이야기 전용 아이템	Spectral Fantasies item						0	2.3版本蜃梦笔谈
+CoinName2	初晨露滴	初晨露滴	朝露の一滴	푸른 이슬	Verdant Dew						0	2.3版本蜃梦笔谈
+CoinName2_des	用于在 密书残卷 兑换奖励\n梦间初醒时滴落的神秘露水，不知为何会让密书残卷上的空白处显现出来一些文字	用於在 密書殘卷 兌換獎勵\n夢間初醒時滴落的神秘露水，不知為何會讓密書殘卷上的空白處顯現出來一些文字	「秘伝書の残巻」で報酬と交換できる。\n夜明けに滴る神秘の露が、秘伝書の残巻の空白に文字を浮かび上がらせる。	비밀 서적에서 보상을 교환하는 데 사용된다.\n꿈에서 깨어났을 때 떨어지는 신비한 이슬이 손실된 비밀의 책의 일부를 드러내게 한다.	Used to exchange for rewards in Hidden Pages.\nOnce a drop of this mystical dew makes contact with the old parchment, words will mysteriously appear on the once-blank pages.						0	2.3版本蜃梦笔谈
+CoinName2_use	蜃梦笔谈专用道具	蜃夢筆談專用道具	蜃夢異談専用アイテム	신비한 꿈 이야기 전용 아이템	Spectral Fantasies item						0	2.3版本蜃梦笔谈
+CoinName3	神秘古钥	神秘古鑰	神秘の古鍵	신비한 옛 열쇠	Ancient Key						0	2.8版本蜃梦笔谈
+CoinName3_des	用于解锁更好的奖励，也可以使用它速战完成固定类型的关卡\n沙漠穿行中，偶然拾到的神秘古钥。使用它，也许可以打开某个埋藏的宝箱，又或打开某扇隐藏的大门	用於解鎖更好的獎勵，也可以使用它速戰完成固定類型的關卡\n沙漠穿行中，偶然拾到的神秘古鑰。使用它，也許可以打開某個埋藏的寶箱，又或打開某扇隱藏的大門	より豪華な報酬の解放や、特定タイプのステージの掃討に使用可能。\n砂漠を進む途中、偶然拾った謎めいた古い鍵。これを使えば、埋もれた宝箱を開けたり、隠された扉の先へ進めるかもしれない。	더 나은 보상을 해제하는 데 사용되며, 고정된 유형의 스테이지를 빠르게 완료하는 데 사용할 수도 있다.\n사막을 지나가다가 우연히 발견한 신비한 옛 열쇠로 묻힌 보물상자나 어딘가의 숨겨진 문을 열 수 있을지도 모른다.	Can be used to unlock better rewards, or to instantly complete certain types of stages.\nA mysterious old key found by chance while crossing the desert. Perhaps it opens a buried treasure chest, or maybe a hidden door waiting to be discovered.						0	2.8版本蜃梦笔谈
+CoinName3_use	蜃梦笔谈专用道具	蜃夢筆談專用道具	蜃夢異談専用アイテム	신비한 꿈 이야기 전용 아이템	Spectral Fantasies item						0	2.6版本蜃梦笔谈
+BattleJigsawRewardName	迷雾的回馈	迷霧的回饋	霧からの贈り物	안개의 선물	Fog's Reward						0	2.3版本蜃梦笔谈
+Other_BagTab	秘宝归置	秘寶歸置	秘宝の整理	보물 정리	Setup						0	2.3版本蜃梦笔谈
+Other_BuffTab	组合效果	組合效果	相乗効果	조합 효과	Effects						0	2.3版本蜃梦笔谈
+Other_ManualTab1	篆痕	篆痕	刻印	각인	Seals						0	2.3版本蜃梦笔谈
+Other_ManualTab2	秘宝	秘寶	秘宝	보물	Treasures						0	2.3版本蜃梦笔谈
+Other_ManualTab3	奇器	奇器	奇貨	기이한 도구	Artifacts						0	2.6版本蜃梦笔谈
+Other_FinishTalentTitle	篆痕总览	篆痕總覽	刻印一覧	각인 목록	Seal Overview						0	2.3版本蜃梦笔谈
+Other_TaskTitle1	限时任务	限時任務	時限ミッション	제한 시간 미션	Limited-Time Mission						0	2.3版本蜃梦笔谈
+massage_StoreCoinNotEnough	漠北星砂不足	漠北星砂不足	漠北の星砂が不足しています	사막의 별모래 부족	Insufficient Mobei Stardust						0	2.3版本蜃梦笔谈
+massage_FlushCountNotEnough	刷新次数不足	刷新次數不足	リセット回数不足	리셋 횟수가 부족합니다.	Insufficient refresh attempts						0	2.6版本蜃梦笔谈
+massage_CraftingCountNotEnough	可锻造次数不足	可鍛造次數不足	鍛造回数不足	제작 횟수가 부족합니다.	Insufficient craft attempts						0	2.6版本蜃梦笔谈
+massage_ReforgeCountNotEnough	可淬炼次数不足	可淬煉次數不足	焼入れ回数不足	정제 횟수가 부족합니다.	Insufficient refine attempts						0	2.6版本蜃梦笔谈
+massage_StartItemCountNotEnough	预备秘宝已达上限	預備秘寶已達上限	予備の秘宝が上限に達しました	프리셋 보물이 최대치에 도달했습니다.	Preparation Treasures limit reached						0	2.6版本蜃梦笔谈
+massage_KeyCountNotEnough	神秘古钥数量不足	神秘古鑰數量不足	神秘の古鍵不足	신비한 옛 열쇠의 수량이 부족합니다.	Insufficient Ancient Keys						0	2.8版本蜃梦笔谈
+massage_ManualNotGet	尚未获取	尚未獲取	未獲得	아직 미획득	Not obtained						0	2.3版本蜃梦笔谈
+massage_ResetTip	重置将立即结算并获得奖励，是否继续？	重置將立即結算並獲得獎勵，是否繼續？	リセットすると即座に精算され、報酬を獲得します。続けますか？	리셋 시 즉시 정산되고 보상을 받을 수 있습니다. 계속하시겠습니까?	Resetting will immediately tally results and rewards. Continue?						0	2.3版本蜃梦笔谈
+massage_StockroomNotEnough	缓存空间不足	快取空間不足	「一時保存」スペース不足	저장 공간 부족	Insufficient cache space						0	2.3版本蜃梦笔谈
+massage_StockroomNotEnough_Store	缓存空间已满，无法到达下一个节点。是否继续购买？	快取空間已滿，無法到達下一個節點。是否繼續購買？	「一時保存」に空きがないため、次のノードに進むことができません。購入を続けますか？	충전 공간이 가득 차 다음 노드로 이동할 수 없습니다. 계속 구매하시겠습니까?	Cache is full, unable to access the next node. Continue purchasing?						0	2.3版本蜃梦笔谈
+massage_DiscardTip	是否售出该秘宝？	是否售出該秘寶？	この秘宝を売却しますか？	해당 보물을 판매하시겠습니까?	Confirm to sell the Treasure?						0	2.3版本蜃梦笔谈
+massage_ChooseNode	选择后无法返回，是否继续？	選擇後無法返回，是否繼續？	選択後は元に戻せません。続行しますか？	선택 후에는 돌아갈 수 없습니다. 계속하시겠습니까?	Cannot reverse selection after it is made. Continue?						0	2.3版本蜃梦笔谈
+massage_NodeLock	迷雾中的未来尚不可见	迷霧中的未來尚不可見	霧に隠れた未来はまだ見えない	안개 속의 미래는 아직 보이지 않는다.	Hidden by fog						0	2.3版本蜃梦笔谈
+massage_NodeNotSelected	无法前往	無法前往	移動できません	접근 불가	Pathway inaccessible						0	2.3版本蜃梦笔谈
+massage_NodeComplete	已通过	已通過	通過した	통과 완료	Completed						0	2.3版本蜃梦笔谈
+massage_NodeExecuted	无法返回	無法返回	現在、戻ることができません。	돌아갈 수 없습니다.	Cannot return						0	2.3版本蜃梦笔谈
+massage_ComposeTips	熔铸后，增益效果将随机刷新，是否继续？	熔鑄後，增益效果將隨機刷新，是否繼續？	鋳造を行うと、バフがランダムにリフレッシュされますが、続けますか？	주조 후, 버프 효과가 랜덤으로 리셋됩니다. 계속하시겠습니까?	Forging will randomly generate new buff effects for the Treasure. Continue?						0	2.3版本蜃梦笔谈
+massage_VolumeTransformTips	背包空间已扩充至最大，再次获得的铭文拓印将转化为漠北星砂奖励	背包空間已擴充至最大，再次獲得的銘文拓印將轉化為漠北星砂獎勵	リュックの容量はすでに最大まで拡張されています。これ以降に獲得した刻印は、漠北の星砂に変換されます。	인벤토리 공간이 최대치로 확장되었습니다. 재획득한 룬 각인은 사막의 별모래 보상으로 전환됩니다.	Backpack Space has been expanded to maximum size. Any new Inscriptions obtained will be converted to Mobei Stardust.						0	2.3版本蜃梦笔谈
+massage_StartNewGame	开始后无法中途调整行前整备，是否继续？	開始後無法中途調整行前整備，是否繼續？	開始すると、途中で装備を調整できません。続行しますか？	시작한 후에는 중간에 사전 정비를 조정할 수 없습니다. 계속하시겠습니까?	Cannot adjust Preparation after starting dream. Continue?						0	2.6版本蜃梦笔谈
+massage_SaveVolumeFull	外部缓存空间已达上限，无法开始	外部快取空間已達上限，無法開始	外部ストレージが上限に達したため、開始できません	외부 캐시 공간이 최대치에 도달하여 시작할 수 없습니다	External Cache limit reached. Unable to start.						0	2.6版本蜃梦笔谈
+massage_NoReforgeAffix	至少选择1个增益效果	至少選擇1個增益效果	バフ効果を最低1つ選んでください	최소 1개의 버프를 선택하세요.	Select at least 1 buff.						0	2.8版本蜃梦笔谈
+AdventureDes1	绿洲穿行	綠洲穿梭	オアシスの往来	오아시스 여행	Oasis Visit						0	2.3版本蜃梦笔谈
+AdventureDes2	铭文拓印	銘文拓印	刻印の拓本	룬 각인	Inscription						0	2.3版本蜃梦笔谈
+AdventureDes3	北庭卫奇遇	北庭衛奇遇	奇妙な邂逅	북정위 모험	Encounter						0	2.3版本蜃梦笔谈
+AdventureDes4	珍奇馈赠	珍奇饋贈	珍しい贈り物	진귀한 선물	Rare Find						0	2.3版本蜃梦笔谈
+AdventureDes5	空灵的咏唱	空靈的詠唱	清らかな詠唱	공허한 노래	Chanting						0	2.3版本蜃梦笔谈
+AdventureDes6	彷徨时刻	徬徨時刻	彷徨うひととき	방황한 순간	Hesitation						0	2.3版本蜃梦笔谈
+AdventureDes7	最终抉择	最終抉擇	最後の選択	최종 선택	The Last Choice						0	2.6版本蜃梦笔谈
+AdventureDes101	你来到绿洲稍作休息，忽然看到一名衣着清凉的朔州少女站在一汪池水前。她笑盈盈地表示，这里的池水有神奇的功效。	你來到綠洲稍作休息，突然看到一名衣著清涼的朔州少女站在一汪池水前。她笑盈盈地表示，這裡的池水有神奇的功效。	オアシスで少し休んでいると、涼しげな服装をした朔州の少女が池の前に立っていることに気づいた。彼女は微笑みながら、この池の水には不思議な効果があると教えてくれた。	오아시스에 와서 잠시 쉬고 있을 때, 갑자기 시원한 옷을 입은 삭주 소녀가 한 웅덩이 앞에 서 있는 것을 봤다. 그녀는 환한 미소를 지으며 이곳의 웅덩이 물이 신비로운 효능이 있다고 말했다.	You arrive at an oasis for a brief respite, where you see a lovely Shuozhou girl standing by a sparkling pond. Her warm smile invites you to discover the pool's mysterious powers.						0	2.3版本蜃梦笔谈
+AdventureDes102	前方传来了激烈的打斗声，你走近察看，发现一只白色的猫妖正和一只黑色的蛇妖打得不可开交，它们似乎还没发现你……	前方傳來了激烈的打鬥聲，你走近察看，發現一隻白色的貓妖正和一隻黑色的蛇妖打得不可開交，它們似乎還沒發現你……	前方から激しい音が聞こえてきて、近づいてみると、白猫の妖怪と黒蛇の妖怪が激しく戦っているのが見えた。彼らはまだあなたに気づいていないようだ……	앞쪽에서 격렬한 싸움 소리가 들려 가까이 가서 살펴보니, 흰 고양이 요괴가 검은 뱀 요괴와 치열하게 싸우고 있었다. 그들은 아직 당신을 발견하지 못한 것 같았다.	Loud cries of combat echo in the distance. You venture closer and discover a white cat spirit fiercely fighting against a black serpent demon, neither aware that you are watching...						0	2.3版本蜃梦笔谈
+AdventureDes103	你发觉随身的水袋破了个洞，正在头疼的时候，忽然看到前方出现了一座小城。奇怪的是，这里的建筑都是黄金制成的……	你發覺隨身的水袋破了個洞，正在頭痛的時候，突然看到前方出現了一座小城。奇怪的是，這裡的建築都是用黃金做的……	水袋に穴が開いていることに気づき困っていると、前方に小さな城が現れた。不思議なことに、その建物はすべて黄金でできているようだった……	당신은 가지고 있던 물주머니에 구멍이 났다는 것을 깨닫는다. 그리고 머리가 아프던 찰나, 갑자기 앞쪽에 작은 도시가 나타난 것을 확인한다. 이상한 것은 이곳의 건물들이 모두 금으로 만들어졌다는 점이다.	Frustrated by the hole in your water sack, you look up to find a dazzling sight ahead — a small city with buildings made of gold, sparkling like the sun itself...						0	2.3版本蜃梦笔谈
+AdventureDes104	你的眼前是一眼看不到尽头的峡谷，而在入口两侧，耸立着两座巨大的神像。“就此止步吧，凡人，你还没有准备好接受真相。”你听到了神像发出低沉而悲伤的声音……	你的眼前是一眼看不到盡頭的峽谷，而在入口兩側，聳立著兩座巨大的神像。「就此止步吧，凡人，你還沒準備好接受真相。」你聽到了神像發出低沉而悲傷的聲音……	目の前には果てしない峡谷が広がり、入口の両側には巨大な神像がそびえ立っている。「ここで引き返せ、凡人よ。真実を知る準備がまだできていない。」神像の声が低く、悲しげに響く……	당신의 눈앞엔 끝이 보이지 않는 협곡이 있었고, 입구의 양쪽에는 두 개의 거대한 신상이 우뚝 서 있었다. 신상은 중저음으로 슬프게 통곡하며 다음과 같이 말했다. '멈춰라, 넌 아직 진실을 받아들일 준비가 되어 있지 않으니'.	A vast canyon lies before you, reaching endlessly into the horizon, with towering deity statues standing watch. Suddenly, you hear them emit deep, sorrowful voices: "Stop now, mortal. You are not ready for the truth that lies within..."						0	2.3版本蜃梦笔谈
+EventName1	直面蜃景	直面蜃景	蜃夢を見る	신기루 직면	Face the Mirage						0	2.3版本蜃梦笔谈
+EventName2	禁忌回响	禁忌迴響	禁断の響き	금지된 메아리	Forbidden Echoes						0	2.3版本蜃梦笔谈
+EventName3	终局考验	終局考驗	終局の試練	최종 테스트	Fate's Final Test						0	2.3版本蜃梦笔谈
+EventName4	绿洲穿行	綠洲穿梭	オアシスの往来	오아시스 여행	Oasis Visit						0	2.3版本蜃梦笔谈
+EventName5	珍奇馈赠	珍奇饋贈	珍しい贈り物	진귀한 선물	Rare Find						0	2.3版本蜃梦笔谈
+EventName6	铭文拓印	銘文拓印	刻印の拓本	룬 각인	Inscription						0	2.3版本蜃梦笔谈
+EventName7	空灵的咏唱	空靈的詠唱	清らかな詠唱	공허한 노래	Chanting						0	2.3版本蜃梦笔谈
+EventName8	奇遇抉择	奇遇抉擇	邂逅の選択	운명의 결정	Encounter						0	2.3版本蜃梦笔谈
+EventName9	彷徨时刻	徬徨時刻	彷徨うひととき	방황한 순간	Hesitation						0	2.3版本蜃梦笔谈
+EventName10	沙漠商队	沙漠商隊	砂漠の商隊	사막 상인	Desert Caravan						0	2.3版本蜃梦笔谈
+EventName11	随机事件	隨機事件	ランダムイベント	랜덤 사건	Random Event						0	2.3版本蜃梦笔谈
+EventDes1	战胜敌方可获取漠北星砂和随机秘宝奖励	戰勝敵方可​​獲得漠北星砂及隨機秘寶獎勵	敵を撃破すると、漠北の星砂と秘宝（ランダム）を獲得できる。	타깃을 물리치면 사막의 별모래와 랜덤 보물을 획득할 수 있다.	Defeat the enemies to obtain Mobei Stardust and random Treasures.						0	2.3版本蜃梦笔谈
+EventDes2	战胜精英敌方可获取大量漠北星砂与随机秘宝奖励	戰勝精英敵方可獲得大量漠北星砂與隨機秘寶獎勵	エリート敵を撃破すると、漠北の星砂を大量に、さらに秘宝（ランダム）を獲得できる。	엘리트 타깃을 물리치면 사막의 별모래와 랜덤 보물을 획득할 수 있다.	Defeat the elite enemies to obtain a large amount of Mobei Stardust and random Treasures.						0	2.3版本蜃梦笔谈
+EventDes3	拨开眼前迷雾，获得最终的战斗胜利，拿到独属于自己的故事结局	撥開眼前迷霧，獲得最終的戰鬥勝利，拿到獨屬於自己的故事結局	目の前の霧を払い、最終戦に勝利して、自分だけの物語の結末を手に入れよう。	눈앞의 안개를 걷어내, 최종 전투에서 승리해 자신이 원하는 이야기 결말을 얻어 보자.	Dispel the fog before you, win the final battle, and forge your own ending to this mysterious tale.						0	2.3版本蜃梦笔谈
+EventDes4	在绿洲行进的途中，可以意外获得各种奖励	在綠洲行進的途中，可以意外獲得各種獎勵	オアシスを進む途中で、さまざまな報酬を獲得できる。	오아시스를 여행하는 도중. 다양한 보상을 우연히 얻을 수 있다.	While traversing through the oasis, you find some unexpected rewards.						0	2.3版本蜃梦笔谈
+EventDes5	沿途搭救了村民，获得了一些珍贵的宝物	沿途搭救了村民，獲得了一些珍貴的寶物	道中で村人を助け、その報酬として貴重な宝物をいくつか手に入れた。	여정 중에 마을 주민을 구출하면 진귀한 보물을 획득할 수 있다.	You save some local villagers on your journey and obtain some precious rarities.						0	2.3版本蜃梦笔谈
+EventDes6	遗迹的铭文拓印帮助你更了解秘宝。获取后可以扩充背包，携带更多秘宝了	遺蹟的銘文拓印幫助你更了解秘寶。取得後可以擴充背包，攜帶更多秘寶了	遺跡で入手した刻印の拓本は、秘宝の理解を深めるのに役立つ。取得するとリュックのスペースが増加し、より多くの秘宝を持ち運べるようになる。	유적에 룬을 각인하면 보물에 대해 더 구체적으로 파악할 수 있고, 획득 시 인벤토리를 확장해 더 많은 보물을 소지할 수 있다.	An ancient inscription helps you better comprehend the relics. Your Backpack Space is increased, so you can carry more Treasures.						0	2.3版本蜃梦笔谈
+EventDes7	跟随歌声找到了一处藏宝地，可以获得极其珍贵的宝物	跟隨歌聲找到了一處藏寶地，可以獲得極其珍貴的寶物	歌声に導かれて宝の場所を見つけ、非常に貴重な宝物を手に入れる。	노래를 따라가다 보물터를 찾고 매우 진귀한 보물을 획득할 수 있다.	You follow the ethereal chanting to a hidden location, where you find very precious treasure.						0	2.3版本蜃梦笔谈
+EventDes8	蜃景中的一切抉择，都会影响到迷雾中的未来与最终的结局	蜃景中的一切抉擇，都會影響到迷霧中的未來與最終的結局	蜃夢の中でのすべての選択が、霧に隠れた未来と最終的な結末に影響を与える。	신기루 속의 모든 선택은 안개 속의 미래와 최종 결말에 영향을 미친다.	The choices you make in the fog will influence your fate, leading to different endings.						0	2.3版本蜃梦笔谈
+EventDes9	解决了异常事件，队员们得到了奖励但也承受了负面效果	解決了異常事件，隊員們得到了獎勵但也承受了負面效果	異常事象が解決され、隊員たちは報酬を得たが、同時に体調にも影響が出た。	특이 사건을 해결하면 보상을 받지만 디버프 효과도 획득하게 된다.	You resolve the strange incident and earn a reward, but are also inflicted with a debuff.						0	2.3版本蜃梦笔谈
+EventDes10	可使用漠北星砂在商队处购买各类秘宝	可使用漠北星砂在商隊購買各類秘寶	砂漠商隊で漠北の星砂を使い、さまざまな秘宝を購入できる。	사막의 별모래를 사용해 상인에게 각종 보물을 구매할 수 있다.	You can use Mobei Stardust to buy various Treasures from the caravan of merchants.						0	2.3版本蜃梦笔谈
+EventDes11	前路被巨大风沙所遮挡，到达后才能看清来到了何处	前路被巨大風沙所遮擋，到達後才能看清來到了何處	前方の道は巨大な砂嵐に遮られており、進んで初めて、どこに到達したのかがはっきりと分かる。	앞길이 거대한 모래바람에 가려져 있다. 도착한 후에야 비로소 어디에 왔는지 알 수 있을 것이다.	With the road concealed by a dense sandstorm, you don't know what lies ahead until you come upon it.						0	2.3版本蜃梦笔谈
+CommonEvent1	探索收获	探索收穫	探索の成果	탐사 수확	Discovery						0	2.3版本蜃梦笔谈
+CommonOption1	漠北星砂*{1}	漠北星砂*{1}	漠北の星砂x{1}	사막의 별모래x{1}	Mobei Stardust x{1}						0	2.3版本蜃梦笔谈
+CommonDes1	在穿行绿洲的途中，你收集到一些漠北星砂。积攒一些后，可以用来从沙漠商队处购买物品	在穿梭於綠洲的途中，你會收集到一些漠北星砂。積攢一些後，可以用來從沙漠商隊購買物品	オアシスを通る途中、漠北の星砂を集めた。集めた星砂は、砂漠商隊でアイテム購入に使用できる。	오아시스를 지나가는 동안 획득한 사막의 별모래. 일정량을 모으면 사막 상인에게서 아이템을 구매하는 데 사용할 수 있다.	As you traverse a desert oasis, you come across some Mobei Stardust. You can use these to purchase items in Desert Caravan.						0	2.3版本蜃梦笔谈
+CommonEvent2	铭文拓印	銘文拓印	刻印の拓本	룬 각인	Inscription						0	2.3版本蜃梦笔谈
+CommonOption2	背包空间+{1}	背包空間+{1}	リュック容量+{1}	인벤토리 공간+{1}	Backpack Space +{1}						0	2.3版本蜃梦笔谈
+CommonDes2	神秘的铭文帮助你更加了解秘宝，你可以随身携带并利用更多秘宝进行冒险了	神秘的銘文幫助你更加解秘寶，你可以隨身攜帶並利用更多秘寶進行冒險了	謎の拓本により秘宝への理解が深まり、持ち運べる秘宝の数が増えた。	신비한 룬은 분석가가 보물을 더 잘 이해할 수 있도록 도움을 주며, 이를 통해 더 많은 보물을 활용해 모험을 즐길 수 있도록 한다.	A mystical inscription helps you better comprehend the ancient relics. You can carry more Treasures with you on your adventure.						0	2.3版本蜃梦笔谈
+CommonEvent3	沙土之下	沙土之下	砂に埋もれて	모래와 흙 아래	Buried by Sands						0	2.6版本蜃梦笔谈
+CommonOption3	神秘古钥+{1}	神秘古鑰+{1}	神秘の古鍵+{1}	신비한 옛 열쇠+{1}	Ancient Key +{1}						0	2.8版本蜃梦笔谈
+CommonDes3	穿行沙漠的某一天，脚下感到了奇妙的异物感，在沙土之下，找到了一枚神秘古钥。	穿行沙漠的某一天，腳下感到了奇妙的異物感，在沙土之下，找到了一枚神秘古鑰。	砂漠を横断していたある日、足元に奇妙な異物感を覚え、砂の下に神秘の古鍵を見つけた。	사막을 가로지르던 어느 날, 발아래에서 이상한 감촉을 느꼈고, 모래 속에서 녹슬어버린 신비한 옛 열쇠를 발견했다.	While crossing the desert, a strange feeling underfoot makes you stop. Beneath the sand, you find a mysterious, ancient key.						0	2.8版本蜃梦笔谈
+StoryEvent1_1	稍作休息	稍作休息	少し休む	브레이크 타임	Rest Briefly						0	2.3版本蜃梦笔谈
+StoryOption1_1	漠北星砂*{1}	漠北星砂*{1}	漠北の星砂x{1}	사막의 별모래x{1}	Mobei Stardust x{1}						0	2.3版本蜃梦笔谈
+StoryDes1_1	你在水边休息了片刻，感觉身体变得轻盈了许多，能够携带的物品也增加了，不过少女似乎不太满意。	你在水邊休息了片刻，感覺身體變得輕盈了許多，能夠攜帶的物品也增加了，不過少女似乎不太滿意。	水辺で少し休むと体が軽くなり、持てるアイテム数が増加した。しかし、少女は少し不満そうな様子を見せた。	당신은 물가에서 잠시 쉬었고, 몸이 훨씬 가벼워진 것을 느꼈다. 가지고 갈 수 있는 물건도 늘어났지만, 소녀는 그다지 만족하지 않는 것 같다.	After taking a moment to relax by the water, you feel invigorated and are able to carry more things. Yet, the girl seems less than satisfied.						0	2.3版本蜃梦笔谈
+StoryEvent1_2	泡澡养神	泡澡養神	お湯で心身を癒す	욕조 힐링	Have a Soothing Soak						0	2.3版本蜃梦笔谈
+StoryOption1_2	漠北星砂*{1}	漠北星砂*{1}	漠北の星砂x{1}	사막의 별모래x{1}	Mobei Stardust x{1}						0	2.3版本蜃梦笔谈
+StoryDes1_2	你在氤氲的水汽中逐渐睡去，醒来时只觉得腰酸背痛，而少女也不见踪影，只留下一堆衣物和金币。	你在氤氳的水汽中逐漸睡去，醒來時只覺得腰酸背痛，少女也不見蹤影，只留下一堆衣物和金幣。	湯気の中で眠りにつき、目覚めると腰に痛みが残り、少女の姿は消えていて、衣服と金貨だけが残されていた。	뿌연 수증기 속에서 점차 잠이 들었고, 깨어났을 때는 허리와 등이 쑤셨다. 소녀는 보이지 않았고, 옷과 동전이 한 무더기 남아 있을 뿐이었다.	As the hazy steam envelops you, sleep takes over. When you wake, your back aches, and the girl is nowhere to be found — just a heap of garments and gold coins remain.						0	2.3版本蜃梦笔谈
+StoryEvent1_3	调查少女	調查少女	少女を調査する	탐정 소녀	Investigate the Girl						0	2.3版本蜃梦笔谈
+StoryOption1_3	背包空间+{1}	背包空間+{1}	リュック容量+{1}	인벤토리 공간+{1}	Backpack Space +{1}						0	2.3版本蜃梦笔谈
+StoryDes1_3	你发现少女的身后有一条尾巴，被戳穿后，少女变成白狐逃走了，你对北庭卫的认识又多了几分。	你發現少女的身後有一條尾巴，被戳穿後，少女變成白狐逃走了，你對北庭衛的認識又多了幾分。	少女の背に尻尾が見えた。正体を見破ると、彼女は白狐に姿を変え、逃げ出した。そのことで、北庭衛についての知識が少し増えた。	소녀의 뒤에 꼬리가 있는 사실이 드러나자 소녀는 흰 여우로 변해 도망쳤고, 당신은 북정위에 대한 이해가 한층 더 깊어졌다.	As you notice a tail sprouting behind the girl, she morphs into a white fox and flees before you can react. Your knowledge of Beiting grows a bit richer.						0	2.3版本蜃梦笔谈
+StoryEvent2_1	协助黑蛇	協助黑蛇	黒蛇を助ける	검은 뱀과의 협력	Assist the Black Serpent						0	2.3版本蜃梦笔谈
+StoryOption2_1	背包空间+{1}	背包空間+{1}	リュック容量+{1}	인벤토리 공간+{1}	Backpack Space +{1}						0	2.3版本蜃梦笔谈
+StoryDes2_1	你和黑蛇联手打败了白猫，作为感谢，黑蛇用智慧协助你扩充了背包。	你和黑蛇聯手打敗了白貓，作為感謝，黑蛇用智慧協助你擴充了背包。	黒蛇と協力して白猫を倒した。お礼に黒蛇が知恵を貸し、リュックの容量を増やしてくれた。	당신은 검은 뱀과 협력하여 흰 고양이를 물리쳤고, 감사의 뜻으로 검은 뱀은 당신의 인벤토리를 확장할 수 있도록 지혜를 주었다.	You team up with the black serpent and defeat the white cat. In return, the serpent cleverly enhances the size of your Backpack.						0	2.3版本蜃梦笔谈
+StoryEvent2_2	协助白猫	協助白貓	白猫を助ける	흰 고양이와의 협력	Assist the White Cat						0	2.3版本蜃梦笔谈
+StoryOption2_2	漠北星砂*{1}	漠北星砂*{1}	漠北の星砂x{1}	사막의 별모래x{1}	Mobei Stardust x{1}						0	2.3版本蜃梦笔谈
+StoryDes2_2	你和白猫联手打败了黑蛇，作为感谢，白猫赠送了你一些珍宝。	你和白貓聯手打敗了黑蛇，作為感謝，白貓贈送了你一些珍寶。	白猫と協力して黒蛇を倒した。お礼に白猫が珍しい宝物をくれた。	당신은 흰 고양이와 협력하여 검은 뱀을 물리쳤고, 감사의 뜻으로 흰 고양이는 당신에게 몇 가지 보물을 선물했다.	You team up with the white cat and defeat the black serpent. In return, the cat generously gifts you some rare treasures.						0	2.3版本蜃梦笔谈
+StoryEvent2_3	调停矛盾	調停矛盾	争いを調停	갈등 조정	Mediate the Conflict						0	2.3版本蜃梦笔谈
+StoryOption2_3	背包空间+{1}	背包空間+{1}	リュック容量+{1}	인벤토리 공간+{1}	Backpack Space +{1}						0	2.3版本蜃梦笔谈
+StoryDes2_3	你阻止了双方，与它们沟通后你才知道，它们似乎都认为是对方把自己变成了怪物。解决了误会后，对北庭卫的认识又多了几分。	你阻止了雙方，與它們溝通後你才知道，它們似乎都認為是對方把自己變成了怪物。解決了誤會後，對北庭衛的認識又多了幾分。	両者の争いを止めて話を聞くと、互いに相手が自分を怪物にしたと思い込んでいたことが分かった。誤解を解くことで、北庭衛についての知識が少し増えた。	당신은 양쪽을 막고 소통한 후, 그들이 서로를 괴물로 만든 주범이라고 오해하는 것을 알게 되었다. 오해를 해결한 후, 북정위에 대한 이해가 한층 더 깊어졌다.	You step in to halt the fighting, only to learn that both sides believe the other has turned them into a monster. After clearing up the misunderstanding, your knowledge of Beiting grows a bit richer.						0	2.3版本蜃梦笔谈
+StoryEvent3_1	远离那里	遠離那裡	その場を離れる	장소 회피	Stay Away						0	2.3版本蜃梦笔谈
+StoryOption3_1	背包空间+{1}	背包空間+{1}	リュック容量+{1}	인벤토리 공간+{1}	Backpack Space +{1}						0	2.3版本蜃梦笔谈
+StoryDes3_1	你感觉那座黄金城很古怪，于是绕开了那里。没走多远，你在一个土地庙前幸运地发现了一个装满水的葫芦，解决了补给问题。	你感覺那座黃金城很古怪，於是繞開了那裡。沒走多遠，你在一個土地廟前幸運地發現了一個裝滿水的葫蘆，解決了補給問題。	黄金の城に違和感を覚え、迂回することにした。少し進むと、土地神の祠で水の入った瓢箪を見つけ、補給ができた。	당신은 황금성이 뭔가 이상하게 느껴져서 그곳을 피해 나왔다. 멀리 가지 않았을 때, 우연히 토지 사원 앞에서 물이 가득 찬 호리병을 발견하여 보급 문제를 해결했다.	You bypass the eerie city of gold, trusting your instincts. Soon after, you fortuitously come across a gourd filled with water at a local shrine, resolving your supply issue.						0	2.3版本蜃梦笔谈
+StoryEvent3_2	进城补给	進城補給	城内で補給	성 안의 보급	Enter City for Supplies						0	2.3版本蜃梦笔谈
+StoryOption3_2	漠北星砂*{1}	漠北星砂*{1}	漠北の星砂x{1}	사막의 별모래x{1}	Mobei Stardust x{1}						0	2.3版本蜃梦笔谈
+StoryDes3_2	你决定进入黄金城。然而，城中并没有居民，也完全没有水源和食物。你只能带上各种黄金制品离开了这里。	你決定進入黃金城。然而，城中並沒有居民，也完全沒有水源和食物。你只能帶著各種黃金製品離開了這裡。	黄金の城に入ると、人や水、食料が一切なかったため、黄金の品々を持って立ち去った。	당신은 황금성에 들어가기로 결심했다. 하지만 성 안에는 주민이 없었고, 물이나 음식도 전혀 찾아볼 수 없었다. 당신은 다양한 황금만 가지고 이곳을 떠날 수 있었다.	You step into the city of gold, only to find it devoid of all life, water, and food. All you are able to leave with is some shiny golden trinkets.						0	2.3版本蜃梦笔谈
+StoryEvent3_3	观察外围	觀察外圍	外側を観察	주변 탐색	Observe Periphery						0	2.3版本蜃梦笔谈
+StoryOption3_3	漠北星砂*{1}	漠北星砂*{1}	漠北の星砂x{1}	사막의 별모래x{1}	Mobei Stardust x{1}						0	2.3版本蜃梦笔谈
+StoryDes3_3	你在城外遇到了一支商队，他们告诉你，不久前，这座城的居民在一夜之间都变成了老鼠，现在为了求生都离开了这里。你对北庭卫的认识又多了几分。	你在城外遇到了一支商隊，他們告訴你，不久前，這座城的居民在一夜之間都變成了老鼠，現在為了求生都離開了這裡。你對北庭衛的認識又多了幾分。	城外で商隊に出会い、この城の住人は一夜でネズミに変わり、生き延びるためにここを去ったと聞いた。北庭衛についての知識が少し増えた。	당신은 성 밖에서 상인 무리를 만났다. 그들은 얼마 전에 도시의 주민들이 하룻밤 사이에 전부 쥐로 변했고, 지금은 생존을 위해 이곳을 떠났다고 말했다. 당신은 북정위에 대한 이해가 한층 더 깊어졌다.	Outside the city, you meet a passing caravan. They share a shocking tale of how this city's entire population turned into mice overnight, eventually all scurrying away into the desert. Your knowledge of Beiting grows a bit richer.						0	2.3版本蜃梦笔谈
+StoryEvent4_1	无视它们	無視它們	無視する	무시	Ignore Them						0	2.3版本蜃梦笔谈
+StoryOption4_1	漠北星砂*{1}	漠北星砂*{1}	漠北の星砂x{1}	사막의 별모래x{1}	Mobei Stardust x{1}						0	2.3版本蜃梦笔谈
+StoryDes4_1	你无视了神像的声音，朝着山谷深处前进。直到你走出峡谷，也没有发生任何事情，你觉得一身轻松。	你無視了神像的聲音，朝著山谷深處前進。直到你走出峽谷，也沒有發生任何事情，你覺得一身輕鬆。	神像の声を無視して谷の奥へと進んだ。峡谷を抜けるまで何も起こらなかったので、ほっとして息をついた。	당신은 신상의 목소리를 무시하고 산골짜리 깊숙이 나아갔다. 협곡을 빠져나올 때까지 아무 일도 일어나지 않았고, 당신은 한결 가벼운 기분이었다.	Ignoring the voice of the statues, you venture deeper into the canyon. You encounter no strange dangers within, and you exit with a relaxed sigh.						0	2.3版本蜃梦笔谈
+StoryEvent4_2	接受告诫	接受告誡	忠告を受け入れる	결정	Heed the Warning						0	2.3版本蜃梦笔谈
+StoryOption4_2	背包空间+{1}	背包空間+{1}	リュック容量+{1}	인벤토리 공간+{1}	Backpack Space +{1}						0	2.3版本蜃梦笔谈
+StoryDes4_2	你决定绕开这里。在回程的路上，你又在沿途发现了一些之前没有注意到的宝藏。	你決定繞開這裡。在回程的路上，你又在沿途發現了一些之前沒有註意到的寶藏。	ここを通らず、遠回りすることに決めた。戻る途中、これまで気づかなかった宝物を見つけた。	당신은 이곳을 우회하기로 결정했다. 돌아오는 길에, 이전에는 주목하지 못했던 몇 가지 보물을 다시 발견했다.	You choose to avoid the area. On your journey back, you notice some rare treasures that you missed before.						0	2.3版本蜃梦笔谈
+StoryEvent4_3	攻击神像	攻擊神像	神像に攻撃	신상 공격	Attack the Statues						0	2.3版本蜃梦笔谈
+StoryOption4_3	漠北星砂*{1}	漠北星砂*{1}	漠北の星砂x{1}	사막의 별모래x{1}	Mobei Stardust x{1}						0	2.3版本蜃梦笔谈
+StoryDes4_3	你朝着神像扣下扳机，枪声响起，却只看到几只怪鸟从神像背后飞出，原来刚才的声音是它们发出的。你放下心继续前进，对北庭卫的了解又多了几分。	你朝著神像扣下扳機，槍聲響起，卻只看到幾隻怪鳥從神像背後飛出，原來剛才的聲音是它們發出的。你放下心繼續前進，對北庭衛的了解又多了幾分。	神像に向けて引き金を引くと、銃声が響き、数羽の怪鳥がその背後から飛び立った。先ほどの声の正体は彼らだったようだ。安堵しながら先へ進み、北庭衛についての知識が少し増えた。	당신은 신상을 향해 방아쇠를 당겼다. 총성이 울렸지만, 신상의 뒤에서는 몇 마리의 기이한 새가 날아 나오는 것만 볼 수 있었다. 방금 들렸던 소리는 사실 새들이 낸 소리었던 것이다. 당신은 안심하고 계속 나아갔고 북정위에 대한 이해가 조금 더 깊어졌다.	As you aim at the statues and pull the trigger, the gunshot causes a swirl of strange birds to fly out from behind the statue. Realizing the true origins of the voices, you chuckle about this whimsical surprise and proceed. Your knowledge of Beiting grows a bit richer.						0	2.3版本蜃梦笔谈
+EndingName1	大梦初醒	大夢初醒	夢から覚める	모호한 꿈	Dream's Awakening						0	2.3版本蜃梦笔谈
+EndingName2	锋刃归鞘	鋒刃歸鞘	刃を収める	평안한 안식	Blades Resheathed						0	2.3版本蜃梦笔谈
+EndingName3	月光终曲	月光終曲	月光の終曲	월광의 곡	Moonlit Farewell						0	2.3版本蜃梦笔谈
+EndingName4	蜃梦终焉	蜃夢終焉	蜃夢の終焉	신비한 꿈의 종결	Finale of Fantasy						0	2.3版本蜃梦笔谈
+EndingDes1	浓雾再次升起，你又回到了熟悉的篝火前，而那些或真或假的故事的结局已经无人知晓。	濃霧再次升起，你又回到了熟悉的營火前，而那些或真假的故事的結局已經無人知曉。	濃霧が再び立ち込め、あなたは見慣れた焚き火の前に戻ってきた。真実か幻か、その物語の結末を知る者はもういない。	짙은 안개가 다시 일어났고, 당신은 다시 익숙한 모닥불 앞에 돌아왔다. 그 이야기들의 결말이 진짜인지 가짜인지 이제는 아무도 알지 못했다.	The heavy mist envelops you again, returning you to the warm glow of the campfire. Whether those strange fantasies were real or figments of imagination shall linger in eternal mystery.						0	2.3版本蜃梦笔谈
+EndingDes2	你让誓死战斗的甲胄得到解脱，那些迷失在黄沙中的士兵终于得以安息。	你讓誓死戰鬥的甲胄得到解脫，那些迷失在黃沙中的士兵終於得以安息。	命懸けの戦いを続けていた甲冑が解放され、砂漠で彷徨っていた兵士たちはついに安らかな眠りに就けるようになった。	당신은 죽음을 불사하고 싸우겠다는 군인들에게 안도감을 주었고, 황사 속에서 길을 잃었던 군인들은 마침내 평안한 안식을 찾게 되었다.	You release the battle-worn armor, granting the soldiers lost in the desert sands the peace they have long been denied.						0	2.3版本蜃梦笔谈
+EndingDes3	你破除了永无止境的循环，在温柔的月光之下，孤独的少女终于不必再哭泣。	你破除了永無止境的循環，在溫柔的月光之下，孤獨的少女終於不必再哭泣。	終わりなき輪廻を断ち切り、穏やかな月光の下で、孤独な少女はもう涙を流す必要がなくなった。	당신은 끝이 없는 순환을 끊어냈고, 부드러운 달빛 아래 혼자였던 소녀는 더 이상 울 필요가 없어졌다.	You break the infinite loop. The gentle glow of the moon reveals peace at last, and the solitary girl ceases her weeping.						0	2.3版本蜃梦笔谈
+EndingDes4	你终结了伪神，也解除了这个世界的诅咒。迷雾逐渐散去，变成妖怪的人类得以恢复。	你終結了偽神，也解除了這個世界的詛咒。迷霧逐漸散去，變成妖怪的人類得以恢復。	偽りの神を討ち、この世界は呪縛から解放された。霧が晴れゆく中、アヤカシと化していた人々も元の姿を取り戻していく。	당신은 위신을 종식하고, 이 세계에 대한 저주를 풀었다. 안개는 점차 걷히고, 요괴로 변한 인간들도 원래의 모습으로 회복됐다.	You have defeated the false divinity and dispelled the curse over this realm. As the fog lifts, the humans who turned into monsters reclaim their identities.						0	2.3版本蜃梦笔谈
+FinishDataName1	累计通过节点	累計通過節點	累計通過ノード数	누적 통과 노드	Total Nodes Cleared						0	2.3版本蜃梦笔谈
+FinishDataName2	累计战斗回合数	累計戰鬥回合數	累計戦闘ターン数	누적 전투 턴 수	Total Combat Rounds						0	2.3版本蜃梦笔谈
+FinishDataName3	累计收集秘宝数量	累計收集秘寶數量	累計秘宝収集数	누적 수집 보물 수량	Total Treasures Collected						0	2.3版本蜃梦笔谈
+FinishDataName4	累计增益效果数量	累計增益效果數量	累計バフ数	누적 버프 수량	Total Buffs Gained						0	2.3版本蜃梦笔谈
+FinishDataName5	当前背包空间	目前背包空間	現在のリュック容量	현재 인벤토리 공간	Current Backpack Space						0	2.3版本蜃梦笔谈
+TeamBuffTitle1	获得负面效果：{1}	獲得負面效果：{1}	デバフがかかった：{1}	디버프 획득 : {1}	Debuff: {1}						0	2.8版本蜃梦笔谈
+TeamBuffTitle2	获得负面效果：{1}	獲得負面效果：{1}	デバフがかかった：{1}	디버프 획득 : {1}	Debuff: {1}						0	2.8版本蜃梦笔谈
+TeamBuffTitle3	获得负面效果：{1}	獲得負面效果：{1}	デバフがかかった：{1}	디버프 획득 : {1}	Debuff: {1}						0	2.8版本蜃梦笔谈
+TeamBuffName1	丢三落四	丟三落四	忘れっぽい	허둥지둥	Slips of Memory						0	2.3版本蜃梦笔谈
+TeamBuffDes1	队员弹容降低{1}%，持续5回合	隊員彈容降低{1}%，持續5回合	装弾数-{1}%、5ノード持続する	팀원 탄창 용량 {1}% 감소, 5턴 지속	Ammo Capacity -{1}% for 5 stages						0	2.6版本蜃梦笔谈
+TeamBuffName2	寒夜失温	寒夜失溫	低体温症	온기 상실	Cold Night						0	2.3版本蜃梦笔谈
+TeamBuffDes2	队员射击速度降低{1}%，持续5回合	隊員射擊速度降低{1}%，持續5回合	射撃速度-{1}%、5ノード持続する	팀원 사격 속도 {1}% 감소, 5턴 지속	Rate of Fire -{1}% for 5 stages						0	2.6版本蜃梦笔谈
+TeamBuffName3	有气无力	有氣無力	倦怠感	무기력	Ebbing Strength						0	2.3版本蜃梦笔谈
+TeamBuffDes3	队员造成的最终伤害降低{1}%，持续5回合	隊員造成的最終傷害降低{1}%，持續5回合	最終与ダメージ-{1}%、5ノード持続する	팀원 가하는 최종 대미지 {1}% 감소, 5턴 지속	Final DMG dealt -{1}% for 5 stages						0	2.6版本蜃梦笔谈
+TeamBuffName4	伤痕累累	傷痕累累	傷だらけ	상처투성이	Scar Prone						0	2.3版本蜃梦笔谈
+TeamBuffDes4	队员受到的最终伤害增加{1}%，持续5回合	隊員受到的最終傷害增加{1}%，持續5回合	最終被ダメージ+{1}%、5ノード持続する	팀원이 받는 최종 대미지 {1}% 증가, 5턴간 지속	Final DMG taken +{1}% for 5 stages						0	2.6版本蜃梦笔谈
+TeamBuffName5	士气低迷	士氣低迷	士気低下	저조한 사기	Low Morale						0	2.3版本蜃梦笔谈
+TeamBuffDes5	队员上阵射击时，回复的爆发能量降低{1}%，持续5回合	隊員上陣射擊時，回復的爆發能量降低{1}%，持續5回合	射撃時に回復する爆発EP-{1}%、5ノード持続する	팀원 출전 사격 시, 부스터 회복 {1}% 감소, 5턴 지속	U-Energy recovered by shooting -{1}% for 5 stages						0	2.6版本蜃梦笔谈
+TeamBuffName6	精神衰弱	精神衰弱	精神衰弱	쇠약한 정신	Foggy Mind						0	2.3版本蜃梦笔谈
+TeamBuffDes6	队员所有技能的使用间隔增加{1}%，持续5回合	隊員所有技能的使用間隔增加{1}%，持續5回合	スキルクールタイム+{1}%、5ノード持続する	팀원 모든 스킬 쿨타임 {1}% 증가, 5턴 지속	All skill cooldown +{1}% for 5 stages						0	2.6版本蜃梦笔谈
+JigsawName101	钻石	鑽石	ダイヤ	다이아	Diamond						0	2.3版本蜃梦笔谈
+JigsawName102	珍珠	珍珠	真珠	진주	Pearl						0	2.3版本蜃梦笔谈
+JigsawName103	猫眼石	貓眼石	キャッツアイ	오팔	Opal						0	2.3版本蜃梦笔谈
+JigsawName104	白玉棋子	白玉棋子	白玉の駒	백옥 체스말	Jade Pawn						0	2.3版本蜃梦笔谈
+JigsawName105	飞羽	飛羽	飛羽	날개	Plume						0	2.3版本蜃梦笔谈
+JigsawName106	隼爪	隼爪	隼の爪	발톱	Talon						0	2.3版本蜃梦笔谈
+JigsawName107	猛兽利齿	猛獸利齒	猛獣の牙	야수의 이빨	Beast Fang						0	2.3版本蜃梦笔谈
+JigsawName108	绿水晶	綠水晶	エメラルド	에메랄드	Emerald						0	2.3版本蜃梦笔谈
+JigsawName109	菊石	菊石	アンモナイト	암모나이트	Ammonite						0	2.3版本蜃梦笔谈
+JigsawName110	异极矿石	異極礦石	異極鉱	문스톤	Moonstone						0	2.3版本蜃梦笔谈
+JigsawName111	棺冢之钥	棺塚之鑰	墓守の鍵	관 열쇠	Crypt Key						0	2.3版本蜃梦笔谈
+JigsawName112	探险镐	探險鎬	ピッケル	등산용 도끼	Climbing Axe						0	2.3版本蜃梦笔谈
+JigsawName113	异兽化石	異獸化石	異獣の化石	화석	Fossil						0	2.3版本蜃梦笔谈
+JigsawName114	巨象獠牙	巨象獠牙	巨象の牙	상아	Ivory Tusk						0	2.3版本蜃梦笔谈
+JigsawName115	仙人掌	仙人掌	サボテン	선인장	Cactus						0	2.3版本蜃梦笔谈
+JigsawName116	奇异的鳞片	奇異的鱗片	奇妙な鱗	이상한 비늘	Exotic Scale						0	2.3版本蜃梦笔谈
+JigsawName117	奇异的兽角	奇異的獸角	奇妙な獣角	이상한 짐승의 뿔	Exotic Horn						0	2.3版本蜃梦笔谈
+JigsawName118	枯木枝	枯木枝	枯れ枝	마른 나무 가지	Deadwood						0	2.3版本蜃梦笔谈
+JigsawName119	黄金城徽章	黃金城徽章	黄金城の紋章	황금성 인장	Aureate Sigil						0	2.3版本蜃梦笔谈
+JigsawName120	刚玉镖	剛玉鏢	剛玉の手裏剣	수리검	Throwing Star						0	2.3版本蜃梦笔谈
+JigsawName121	晶石蕈	晶石蕈	水晶茸	결정 버섯	Crystal Fungus						0	2.3版本蜃梦笔谈
+JigsawName122	红宝石	紅寶石	ルビー	루비	Ruby						0	2.3版本蜃梦笔谈
+JigsawName123	残损古籍	殘損古籍	損傷した古書	손상된 고대 서적	Old Codex						0	2.3版本蜃梦笔谈
+JigsawName124	异色矿石	異色礦石	異彩の鉱石	이색 광석	Calcite						0	2.3版本蜃梦笔谈
+JigsawName125	转录芯片	轉錄晶片	転写チップ	암호 칩	Cipher Chip						0	2.3版本蜃梦笔谈
+JigsawName126	锐爪	銳爪	鋭い爪	예리한 발톱	Gauntlet						0	2.6版本蜃梦笔谈
+JigsawName127	指虎	指虎	ナックル	힘과 권위	Brass Knuckles						0	2.6版本蜃梦笔谈
+TalentName1	生机	生機	生気	넘치는 활력	Vigor						0	2.3版本蜃梦笔谈
+TalentName2	甲胄	甲胄	甲胄	갑옷	Armor						0	2.3版本蜃梦笔谈
+TalentName3	宝石	寶石	宝石	보석	Gem						0	2.3版本蜃梦笔谈
+TalentName4	猎枪	獵槍	猟銃	사냥총	Hunt						0	2.3版本蜃梦笔谈
+TalentName5	秘药	秘藥	秘薬	신비한 약	Elixir						0	2.3版本蜃梦笔谈
+TalentName6	神秘礼器	神秘禮器	神秘の礼器	신비한 예물	Ritual						0	2.3版本蜃梦笔谈
+TalentName7	远古科技	遠古科技	古代技術	고대 기술	Tech						0	2.3版本蜃梦笔谈
+TalentName8	风雪	風雪	吹雪	바람과 눈	Blizzard						0	2.3版本蜃梦笔谈
+TalentName9	雷电	雷電	霹靂	천둥과 번개	Thunder						0	2.3版本蜃梦笔谈
+TalentName10	学者	學者	学者	학자	Scholar						0	2.3版本蜃梦笔谈
+TalentName11	锋刃	鋒刃	鋭い刃	날카로운 칼날	Blade						0	2.6版本蜃梦笔谈
+TalentDes1	队员自身周围50米范围内每有1个敌方目标，则攻击力提升{1}%	隊員自身周圍50公尺範圍內每有1個敵方目標，則攻擊力提升{1}%	周囲50m以内にいる敵1体ごとに、隊員の攻撃力+{1}%。	팀원 주변 50m 범위 내 타깃이 1명 있을 때마다 공격력이 {1}% 증가한다.	Increases ATK by {1}% for each target within 50 meters of the operative.						0	2.3版本蜃梦笔谈
+TalentDes2	队员受到的来自敌方目标的伤害，将以{1}倍返还给该敌方目标	隊員受到的來自敵方目標的傷害，將以{1}倍返還給該敵方目標	隊員が敵から受けたダメージを{1}倍にしてその敵に返す。	팀원이 타깃으로부터 받은 대미지의 {1}배를 해당 타깃에게 가한다.	When operative is attacked by a target, deals x{1} DMG taken back to the target.						0	2.3版本蜃梦笔谈
+TalentDes3	每秒对自身周围20米范围内的目标造成自身最大生命{1}%的特异类型伤害。敌方目标距离自身越近，伤害越高。对10米范围内的目标造成的伤害提升至最大生命的{2}%	每秒對自身周圍20公尺範圍內的目標造成自身最大生命{1}%的特異類型傷害。敵方目標距離自身越近，傷害越高。對10公尺範圍內的目標造成的傷害提升至最大生命的{2}%	毎秒、自分の周囲20m以内の敵に自身最大HP{1}%分の特異系ダメージを与える。敵が近いほどダメージがアップし、10m以内の敵には最大HP{2}%分のダメージを与える。	1초마다 자신의 주변 20m 범위 내 타깃에게 자신의 최대 HP {1}%의 혼돈 유형 대미지를 입힌다. 타깃과의 거리가 가까울수록 대미지가 증가한다. 10m 범위 내 타깃에게 가하는 대미지는 최대 HP {2}%까지 증가한다.	Deals Chaos DMG equal to {1}% of Max HP every sec to targets within 20 meters of the operative. The closer the target, the higher the DMG. This DMG increases to {2}% of Max HP if the target is within 10 meters of the operative.						0	2.3版本蜃梦笔谈
+TalentDes4	每10秒随机标记1个目标，射击对其造成的伤害提升至{1}倍，每次射击后标记消失，同时随机另外标记1个目标，每个目标10秒内无法重复被标记	每10秒隨機標記1個目標，射擊對其造成的傷害提升至{1}倍，每次射擊後標記消失，同時隨機另外標記1個目標，每個目標10秒內無法重複被標記	10秒ごとにランダムで1体の敵にマークが付与され、その敵への射撃ダメージが{1}倍になる。射撃するたびにマークが消え、新たにランダムな敵1体にマークが付与される。10秒以内に同じ敵が再度マークされることはない。	10초마다 1명의 타깃을 임의로 표기하고, 해당 타깃에 대한 사격 대미지가 {1}배로 증가한다. 매번 사격을 가하면 표식이 사라지고 동시에 다른 타깃을 임의로 표기한다. 각 타깃은 10초 이내에 반복해서 표기할 수 없다.	Randomly marks 1 target every 10 sec. Shots deal x{1} DMG to marked targets. After operative shoots, the mark disappears and another random target is marked. The same target cannot be marked twice within 10 sec.						0	2.3版本蜃梦笔谈
+TalentDes5	对敌方目标造成伤害后，回复本次伤害{1}%的生命	對敵方目標造成傷害後，回復此次傷害{1}%的生命	敵にダメージを与えると、そのダメージ{1}%分のHPを回復する。	적군에게 대미지를 가한 후 해당 대미지의 {1}%만큼 HP를 회복한다.	When operative is attacked, restores HP equal to {1}% of DMG taken.						0	2.3版本蜃梦笔谈
+TalentDes6	队员全部防御力降低至0，攻击力增加等同于{1}倍防御力的数值	隊員全部防禦力降低至0，攻擊力增加等於{1}倍防禦力的數值	防御力が0になり、その代わりに攻撃力が防御力の{1}倍に相当する分アップする。	팀원 전체의 방어력이 0으로 줄어들고, 공격력은 방어력 수치의 {1}배만큼 증가한다.	Replaces all operatives' DEF with ATK boost equal to x{1} DEF.						0	2.3版本蜃梦笔谈
+TalentDes7	队员技能命中目标并造成高热类型伤害时，额外施加1层灼烧效果，每秒造成敌方目标攻击力{1}%的高热类型伤害，并对敌方目标周围10米范围内最近的目标施加1层灼烧效果。该效果持续30秒，多层效果叠加，不会刷新效果持续时间	隊員技能命中目標並造成高熱類型傷害時，額外施加1層灼燒效果，每秒造成敵方目標攻擊力{1}%的高熱類型傷害，並對敵方目標周圍10公尺範圍內最近的目標施加1層灼燒效果。該效果持續30秒，多層效果疊加，不會刷新效果持續時間	スキルで高熱系ダメージを与えると、敵に30秒持続する【火傷】を1スタック付与：1秒ごとに命中対象の攻撃力{1}%分の高熱系ダメージを与え、10m以内の最も近い敵にも1スタック付与する。【火傷】スタックはチャージ可能だが、持続時間はリセットされない。	팀원이 스킬로 타깃을 명중시키고 화염 유형 대미지를 입힐 때, 추가로 연소 효과 1스택을 부여한다. 해당 효과는 1초마다 타깃 공격력 {1}%에 해당하는 화염 유형 대미지를 입히고, 타깃 주변 10m 범위 내 가장 가까운 목표에게 화상 효과 1스택을 부여한다. 해당 효과는 30초 동안 지속되며, 효과를 중첩할 수 있지만, 지속 시간은 리셋되지 않는다.	When operative skill hits and deals Thermal DMG to target, inflicts 1 stack of Burning for 30 sec: Every sec, deals Thermal DMG equal to {1}% of ATK to target and also inflicts nearest target within 10 meters of them with 1 stack of Burning. Can stack, but duration will not reset.						0	2.3版本蜃梦笔谈
+TalentDes8	队员对敌方目标造成低温类型伤害时，会施加持续{1}秒的冻结效果，对每个敌方目标仅生效1次。对处于冻结效果的敌方目标造成的伤害提升{2}%	隊員對敵方目標造成低溫類型傷害時，會施加持續{1}秒的凍結效果，對每個敵方目標僅生效1次。對處於凍結效果的敵方目標造成的傷害提升{2}%	隊員が敵に低温系ダメージを与えると、{1}秒間の凍結状態を付与し、各敵につき1回のみ発動する。凍結中の敵に与えるダメージ+{2}%。	팀원이 타깃에게 얼음 유형 대미지를 입힐 때, {1}초간 지속되는 동결 효과를 부여한다(매 타깃에게 1회만 적용 가능). 동결 상태에 있는 타깃에게 입히는 대미지가 {2}% 증가한다.	When operative deals Frost DMG to a target, inflicts Frozen for {1} sec (each target can only be affected by this once). Increases DMG dealt to Frozen targets by {2}%.						0	2.3版本蜃梦笔谈
+TalentDes9	队员每3秒对自身周围10米范围内距离最近的敌方目标造成自身攻击力{1}%的电击类型伤害，并传递到该敌方目标周围10米范围内最近的另一目标，每次造成的伤害降低50%，最多可传递3次	隊員每3秒對自身周圍10公尺範圍內距離最近的敵方目標造成自身攻擊力{1}%的電擊類型傷害，並傳遞到該敵方目標周圍10公尺範圍內最近的另一目標，每次造成的傷害降低50%，最多可傳遞3次	3秒ごとに、自分の周囲10m以内で最も近い敵に攻撃力{1}%分の電撃系ダメージを与える。また、その敵の周囲10m以内にいる最も近い敵にスプラッシュし、ダメージは毎回50%ダウンし、最大3回までスプラッシュ可能。	팀원이 3초마다 자신의 주변 10m 범위 내 가장 가까운 타깃에게 자신의 공격력 {1}%에 해당하는 번개 유형 대미지를 입히고, 타깃 주변 10m 범위 내 가장 가까운 타깃에게도 해당 대미지를 전달한다. 매번 가하는 대미지는 50% 감소하며, 최대 3회까지 전달할 수 있다.	Deals Electrical DMG equal to {1}% of ATK to the nearest target within 10 meters every 3 sec. This DMG further transfers to the nearest target within 10 meters of that target, reducing by 50% with each transfer, up to 3 times.						0	2.3版本蜃梦笔谈
+TalentDes10	分别获得10层【刃】效果和【盾】效果，每层【刃】效果使攻击力提升{1}%，每层【盾】效果使防御力提升{2}%；每次使用技能，1层【盾】效果转化为【刃】效果，每当受到伤害，则1层【刃】效果转化为【盾】效果	分別獲得10層【刃】效果與【盾】效果，每層【刃】效果使攻擊力提升{1}%，每層【盾】效果使防禦力提升{2}%；每次使用技能，1層【盾】效果轉化為【刃】效果，每當受到傷害，則1層【刃】效果轉化為【盾】效果	【刃】と【盾】の効果をそれぞれ10スタック獲得。【刃】1スタックごとに攻撃力+{1}%、【盾】1スタックごとに防御力+{2}%。スキルを使用すると【盾】1スタックが【刃】に変換され、ダメージを受けると【刃】1スタックが【盾】に変換される。	[블레이드] 효과와 [실드] 효과를 각각 10스택씩 획득한다. 각 [블레이드] 효과는 공격력을 {1}% 증가시키고, 각 [실드] 효과는 방어력을 {2}% 증가시킨다. 스킬을 사용할 때마다 1스택의 [실드] 효과가 [블레이드] 효과로 전환되며, 대미지를 받을 때마다 1스택의 [블레이드] 효과가 [실드] 효과로 전환된다.	Operative gains 10 stacks of Sabre and Guard effects. Each stack of Sabre increases ATK by {1}%; each stack of Guard increases DEF by {2}%. After using Standard Skill, converts 1 stack of Guard to Sabre; after taking DMG, converts 1 stack of Sabre to Guard.						0	2.3版本蜃梦笔谈
+TalentDes11	通过射击造成动能类型伤害时，对敌方目标施加【创痍】效果，【创痍】每秒对其造成队员攻击力{1}%的动能类型伤害，最多叠加10层	透過射擊造成動能類型傷害時，對敵方目標施加【創痍】效果，【創痍】每秒對其造成隊員攻擊力{1}%的動能類型傷害，最多疊加10層	射撃で動力系ダメージを与えると、敵に【創痍】を付与する。【創痍】：毎秒、隊員の攻撃力{1}%分の動力系ダメージを与える。最大10スタックまでチャージする。	사격을 통해 KP 유형 대미지를 입히면, 타깃에게 [상처] 효과를 부여한다. [상처]는 매초 팀원 공격력 {1}%에 해당하는 KP 유형 대미지를 주며, 최대 10스택까지 중첩할 수 있다.	When shot deals Kinetic DMG to a target, inflicts Wound effect: Deals Kinetic DMG equal to {1}% of operative's ATK each sec, up to 10 stacks.						0	2.6版本蜃梦笔谈
+TalentDes12	每次进入战斗时，队员会召唤1个助战单元持续跟随自身，助战单元每2秒对敌方造成队员攻击力{1}%的伤害	每次進入戰鬥時，隊員會召喚1個助戰單元持續跟隨自身，助戰單元每2秒對敵方造成隊員攻擊力{1}%的傷害	戦闘に入るたびに、自身に追従する加勢ユニットを1体召喚し、加勢ユニットは2秒ごとに敵に対して隊員の攻撃力{1}%分のダメージを与える。	전투에 진입할 때마다 팀원은 자신을 따라다니는 어시스트 유닛 1개를 소환한다. 어시스트 유닛은 2초당 타깃에게 팀원 공격력 {1}%의 대미지를 입힌다.	At the start of each battle, summons an assist unit that follows the operative, dealing {1}% of their ATK as DMG to targets every 2 sec.						0	2.8版本蜃梦笔谈
+TalentDes13	队员射击或技能命中目标并造成高热类型伤害时，额外施加1层灼烧效果，每层灼烧效果对敌方目标造成自身攻击力{1}%的高热类型伤害。灼烧效果叠加至80层时，清空层数并附加一次“炎爆”，造成队员攻击力{2}%的高热类型伤害	隊員射擊或技能命中目標並造成高熱類型傷害時，額外施加1層灼燒效果，每層灼燒效果對敵方目標造成自身攻擊力{1}%的高熱類型傷害。灼燒效果疊加至80層時，清空層數並附加一次「炎爆」，造成隊員攻擊力{2}%的高熱類型傷害	射撃またはスキルで敵に高熱系ダメージを与えと、【火傷】を1スタック付与し、1スタックにつき攻撃力{1}%分の高熱系ダメージを与える。【火傷】が80スタックに達すると「炎爆」が発動、スタックを全消費して攻撃力{2}%分の高熱系ダメージを与える。	팀원의 사격하거나 스킬이 대상을 명중하여 화염 유형 대미지를 입힐 때, 추가로 연소 효과 1스택을 부여한다. 연소 효과 1스택당 타깃에게 자신 공격력 {1}%의 화염 유형 대미지를 입힌다. 연소 효과가 80스택에 도달하면 모든 스택을 리셋하고 '화염 폭발'을 1회 부여하여 팀원 공격력의 {2}%의 화염 유형 대미지를 입힌다.	When the operative's shots or skills deal Thermal DMG, inflicts an additional stack of Burning on the target. Each stack deals Thermal DMG equal to {1}% of the operative's ATK. Upon reaching 80 stacks, consumes all Burning stacks to trigger a Flame Burst, dealing Thermal DMG equal to {2}% of the operative's ATK.						0	2.8版本蜃梦笔谈
+AffixDes1	攻击力提升{1}%	攻擊力提升{1}%	攻撃力+{1}%	공격력이 {1}% 증가한다.	ATK +{1}%						0	2.3版本蜃梦笔谈
+AffixDes2	防御力提升{1}%	防禦力提升{1}%	防御力+{1}%	방어력이 {1}% 증가한다.	DEF +{1}%						0	2.3版本蜃梦笔谈
+AffixDes3	最大生命提升{1}%	最大生命提升{1}%	最大HP+{1}%	최대 HP가 {1}% 증가한다.	Max HP +{1}%						0	2.3版本蜃梦笔谈
+AffixDes4	暴击率提升{1}%	暴擊率提升{1}%	会心率+{1}%	크리티컬 확률이 {1}% 증가한다.	CRIT Rate +{1}%						0	2.3版本蜃梦笔谈
+AffixDes5	暴击伤害增幅提升{1}%	暴擊傷害增幅提升{1}%	会心ダメージ増幅+{1}%	크리티컬 강도가 {1}% 증가한다.	CRIT DMG Amplifier +{1}%						0	2.3版本蜃梦笔谈
+AffixDes6	技能急速提升{1}	技能急速提升{1}	スキルヘイスト+{1}	스킬 가속이 {1} 증가한다.	Skill Haste +{1}						0	2.3版本蜃梦笔谈
+AffixDes7	技能伤害提升{1}%	技能傷害提升{1}%	スキルダメージ+{1}%	스킬 대미지가 {1}% 증가한다.	Skill DMG +{1}%						0	2.3版本蜃梦笔谈
+AffixDes8	常规技造成伤害提升{1}%	常規技造成傷害提升{1}%	通常技ダメージ+{1}%	일반 스킬이 가하는 대미지가 {1}% 증가한다.	Standard Skill DMG +{1}%						0	2.3版本蜃梦笔谈
+AffixDes9	支援技造成伤害提升{1}%	支援技造成傷害提升{1}%	支援技ダメージ+{1}%	보조 스킬이 가하는 대미지가 {1}% 증가한다.	Support Skill DMG +{1}%						0	2.3版本蜃梦笔谈
+AffixDes10	爆发技造成伤害提升{1}%	爆發技造成傷害提升{1}%	爆発技ダメージ+{1}%	특수 스킬이 가하는 대미지가 {1}% 증가한다.	Ultimate Skill DMG +{1}%						0	2.3版本蜃梦笔谈
+AffixDes11	爆发能量获取率提升{1}%	爆發能量獲取率提升{1}%	爆発EP取得率+{1}%	부스터 획득률이 {1}% 증가한다.	U-Energy Recovery +{1}%						0	2.3版本蜃梦笔谈
+AffixDes12	射击伤害提升{1}%	射擊傷害提升{1}%	射撃ダメージ+{1}%	사격 대미지가 {1}% 증가한다.	Ballistic DMG +{1}%						0	2.3版本蜃梦笔谈
+AffixDes13	非瞄准射击伤害提升{1}%	非瞄準射擊傷害提升{1}%	腰撃ちダメージ+{1}%	비조준 사격 대미지가 {1}% 증가한다.	Hipfire Ballistic DMG +{1}%						0	2.3版本蜃梦笔谈
+AffixDes14	瞄准射击伤害提升{1}%	瞄準射擊傷害提升{1}%	ADS時の射撃ダメージ+{1}%	조준 사격 대미지가 {1}% 증가한다.	ADS Ballistic DMG +{1}%						0	2.3版本蜃梦笔谈
+AffixDes15	射击速度提升{1}%	射擊速度提升{1}%	射撃速度+{1}%	사격 속도가 {1}% 증가한다.	Rate of Fire +{1}%						0	2.3版本蜃梦笔谈
+AffixDes16	换弹速度提升{1}%	換彈速度提升{1}%	装填スピード+{1}%	재장전 속도가 {1}% 증가한다.	Reload SPD +{1}%						0	2.3版本蜃梦笔谈
+AffixDes17	常规能量回复速度提升{1}%	常規能量回復速度提升{1}%	通常EP回復速度+{1}%	일반 에너지 회복 속도가 {1}% 증가한다.	S-Energy Recovery +{1}%						0	2.3版本蜃梦笔谈
+AffixDes18	附属单位强度提升{1}	附屬單位強度提升{1}	付属ユニット強度+{1}	부속 유닛 강도가 {1} 증가한다.	Auxiliary Units Strength +{1}						0	2.3版本蜃梦笔谈
+AffixDes19	秘宝自身的基础属性提升{1}%	秘寶自身的基礎屬性提升{1}%	秘宝の基本属性+{1}%	보물 자체의 기초 속성이 {1}% 증가한다.	Treasure basic attributes +{1}%						0	2.3版本蜃梦笔谈
+AffixDes20	秘宝自身的篆刻经验提升{1}%	秘寶自身的篆刻經驗提升{1}%	秘宝の刻印EXP+{1}%	보물 자체의 각인 경험치가 {1}% 증가한다.	Treasure Seal EXP +{1}%						0	2.3版本蜃梦笔谈
+AffixDes21	秘宝自身的基础属性和篆刻经验均提升{1}%	秘寶自身的基礎屬性與篆刻經驗皆提升{1}%	秘宝の基本属性+{1}%、刻印EXP+{1}%	보물 자체의 기초 속성과 각인 경험치가 모두 {1}% 증가한다.	Treasure basic attributes and Seal EXP +{1}%						0	2.3版本蜃梦笔谈
+AffixDes22	使紧邻自身的其他秘宝基础属性提升{1}%	使緊鄰自身的其他秘寶基礎屬性提升{1}%	自身の隣接する他の秘宝の基本属性+{1}%	자신과 인접한 다른 보물의 기초 속성을 {1}% 증가시킨다.	Adjacent Treasure basic attributes +{1}%						0	2.3版本蜃梦笔谈
+AffixDes23	使紧邻自身的其他秘宝篆刻经验提升{1}%	使緊鄰自身的其他秘寶篆刻經驗提升{1}%	自身の隣接する他の秘宝の刻印EXP+{1}%	자신과 인접한 다른 보물의 각인 경험치를 {1}% 증가시킨다.	Adjacent Treasure Seal EXP +{1}%						0	2.3版本蜃梦笔谈
+AffixDes24	使紧邻自身的其他秘宝基础属性和篆刻经验均提升{1}%	使緊鄰自身的其他秘寶基礎屬性與篆刻經驗皆提升{1}%	自身の隣接する他の秘宝の基本属性+{1}%、刻印EXP+{1}%	자신과 인접한 다른 보물의 기본 속성과 각인 경험치를 {1}% 증가시킨다.	Adjacent Treasure basic attributes and Seal EXP +{1}%						0	2.3版本蜃梦笔谈
+TaskName1	斩断梦魇	斬斷夢魘	悪夢を断ち切る	악몽 절단	Slash the Nightmare						0	2.3版本蜃梦笔谈
+TaskName2	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName3	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName4	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName5	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName6	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName7	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName8	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName9	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName10	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName11	遗迹考古	遺跡考古	遺跡発掘	유적 연구	Trove of Time						0	2.3版本蜃梦笔谈
+TaskName12	手工匠人	手工匠人	クラフト職人	수공예 장인	Skill Smith						0	2.3版本蜃梦笔谈
+TaskName13	手工匠人	手工匠人	クラフト職人	수공예 장인	Skill Smith						0	2.3版本蜃梦笔谈
+TaskName14	手工匠人	手工匠人	クラフト職人	수공예 장인	Skill Smith						0	2.3版本蜃梦笔谈
+TaskName15	藏品猎手	藏品獵手	コレクションハンター	수집꾼	Treasure Hunter						0	2.3版本蜃梦笔谈
+TaskName16	藏品猎手	藏品獵手	コレクションハンター	수집꾼	Treasure Hunter						0	2.3版本蜃梦笔谈
+TaskName17	藏品猎手	藏品獵手	コレクションハンター	수집꾼	Treasure Hunter						0	2.3版本蜃梦笔谈
+TaskName18	藏品猎手	藏品獵手	コレクションハンター	수집꾼	Treasure Hunter						0	2.3版本蜃梦笔谈
+TaskName19	重装出行	重裝出行	重装備で出撃	재정비	Heavy Hauler						0	2.3版本蜃梦笔谈
+TaskName20	重装出行	重裝出行	重装備で出撃	재정비	Heavy Hauler						0	2.3版本蜃梦笔谈
+TaskName21	重装出行	重裝出行	重装備で出撃	재정비	Heavy Hauler						0	2.3版本蜃梦笔谈
+TaskName22	重装出行	重裝出行	重装備で出撃	재정비	Heavy Hauler						0	2.3版本蜃梦笔谈
+TaskName23	生存专家	生存專家	サバイバルのプロ	생존 전문가	Survival Specialist						0	2.3版本蜃梦笔谈
+TaskName24	从零开始	從零開始	最初からやり直し	제로부터 시작	Zero Genesis						0	2.3版本蜃梦笔谈
+TaskName25	真理探寻	真理探尋	真理の探求	진리 탐구	Truth Seeker						0	2.3版本蜃梦笔谈
+TaskName26	精工雕琢	精工雕琢	精巧な彫刻	정교한 조각	Precision Artisan						0	2.3版本蜃梦笔谈
+TaskName27	精工雕琢	精工雕琢	精巧な彫刻	정교한 조각	Precision Artisan						0	2.3版本蜃梦笔谈
+TaskName28	精工雕琢	精工雕琢	精巧な彫刻	정교한 조각	Precision Artisan						0	2.3版本蜃梦笔谈
+TaskName29	大收藏家	大收藏家	有名コレクター	대수집가	Grand Collector						0	2.3版本蜃梦笔谈
+TaskName30	大收藏家	大收藏家	有名コレクター	대수집가	Grand Collector						0	2.3版本蜃梦笔谈
+TaskName31	大收藏家	大收藏家	有名コレクター	대수집가	Grand Collector						0	2.3版本蜃梦笔谈
+TaskName32	雕刻师	雕刻師	彫刻師	조각가	Legend Carver						0	2.3版本蜃梦笔谈
+TaskName33	雕刻师	雕刻師	彫刻師	조각가	Legend Carver						0	2.3版本蜃梦笔谈
+TaskName34	雕刻师	雕刻師	彫刻師	조각가	Legend Carver						0	2.3版本蜃梦笔谈
+TaskDes1	累计完成{1}次及以上【蜃梦笔谈】的战斗关	累積完成{1}次及以上【蜃夢筆談】的戰鬥關卡	「蜃夢異談」で累計{1}回以上、戦闘ステージをクリアする	[신비한 꿈 이야기] 전투 스테이지 {1}회 이상 누적 완료하기	Complete any combat stages in Spectral Fantasies {1} time(s)						0	2.3版本蜃梦笔谈
+TaskDes2	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes3	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes4	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes5	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes6	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes7	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes8	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes9	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes10	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes11	累计获得{1}个初晨露滴	累計獲得{1}個初晨露滴	朝露の一滴を累計{1}獲得する	푸른 이슬 {1}개 누적 획득하기	Obtain {1} Verdant Dew						0	2.3版本蜃梦笔谈
+TaskDes12	累计熔铸秘宝{1}次	累計熔鑄秘寶{1}次	秘宝を累計{1}回鋳造する	주조 보물 {1}회 누적 주조하기	Forge Treasure {1} time(s)						0	2.3版本蜃梦笔谈
+TaskDes13	累计熔铸秘宝{1}次	累計熔鑄秘寶{1}次	秘宝を累計{1}回鋳造する	주조 보물 {1}회 누적 주조하기	Forge Treasure {1} time(s)						0	2.3版本蜃梦笔谈
+TaskDes14	累计熔铸秘宝{1}次	累計熔鑄秘寶{1}次	秘宝を累計{1}回鋳造する	주조 보물 {1}회 누적 주조하기	Forge Treasure {1} time(s)						0	2.3版本蜃梦笔谈
+TaskDes15	累计获得5级秘宝{1}个	累計獲得5級秘寶{1}個	Lv.5の秘宝を累計{1}個獲得する	5급 보물 {1}개 누적 획득하기	Obtain {1} Lv. 5 Treasure(s)						0	2.3版本蜃梦笔谈
+TaskDes16	累计获得5级秘宝{1}个	累計獲得5級秘寶{1}個	Lv.5の秘宝を累計{1}個獲得する	5급 보물 {1}개 누적 획득하기	Obtain {1} Lv. 5 Treasure(s)						0	2.3版本蜃梦笔谈
+TaskDes17	累计获得5级秘宝{1}个	累計獲得5級秘寶{1}個	Lv.5の秘宝を累計{1}個獲得する	5급 보물 {1}개 누적 획득하기	Obtain {1} Lv. 5 Treasure(s)						0	2.3版本蜃梦笔谈
+TaskDes18	累计获得5级秘宝{1}个	累計獲得5級秘寶{1}個	Lv.5の秘宝を累計{1}個獲得する	5급 보물 {1}개 누적 획득하기	Obtain {1} Lv. 5 Treasure(s)						0	2.3版本蜃梦笔谈
+TaskDes19	背包空间达到{1}格	背包空間達到{1}格	リュック容量が{1}に達する	인벤토리 공간 {1}칸까지 도달하기	Own {1} squares of Backpack Space						0	2.3版本蜃梦笔谈
+TaskDes20	背包空间达到{1}格	背包空間達到{1}格	リュック容量が{1}に達する	인벤토리 공간 {1}칸까지 도달하기	Own {1} squares of Backpack Space						0	2.3版本蜃梦笔谈
+TaskDes21	背包空间达到{1}格	背包空間達到{1}格	リュック容量が{1}に達する	인벤토리 공간 {1}칸까지 도달하기	Own {1} squares of Backpack Space						0	2.3版本蜃梦笔谈
+TaskDes22	背包空间达到{1}格	背包空間達到{1}格	リュック容量が{1}に達する	인벤토리 공간 {1}칸까지 도달하기	Own {1} squares of Backpack Space						0	2.3版本蜃梦笔谈
+TaskDes23	队伍同时叠加{1}个及{1}个以上的限时负面效果	隊伍同時疊加{1}個及{1}個以上的限時負面效果	小隊が同時に{1}個以上のデバフにかかる	팀에서 동시에 {1}개 혹은 {1}개 이상의 제한 시간 디버프 중첩하기	Have {1} or more than {1} limited-time debuffs on squad at the same time						0	2.3版本蜃梦笔谈
+TaskDes24	达成“月光终曲”结局	達成「月光終曲」結局	「月光の終曲」エンディングを達成	[월광의 곡] 결말 달성하기	Unlock the ending "Moonlit Farewell"						0	2.3版本蜃梦笔谈
+TaskDes25	达成“蜃梦终焉”结局	達成「蜃夢終焉」結局	「蜃夢の終焉」エンディングを達成	[신비한 꿈의 종결] 결말 달성하기	Unlock the ending "Finale of Fantasy"						0	2.3版本蜃梦笔谈
+TaskDes26	在1局【蜃梦笔谈】中，累计{1}个篆痕达到最高等级	在1局【蜃夢筆談】中，累計{1}個篆痕達到最高等級	1回の「蜃夢異談」で、累計{1}個の刻印を最高Lvにする	[신비한 꿈 이야기] 1개 라운드에서 각인 {1}개 최고 등급까지 도달하기	Upgrade {1} Seal(s) to max level in a single round of Spectral Fantasies						0	2.3版本蜃梦笔谈
+TaskDes27	在1局【蜃梦笔谈】中，累计{1}个篆痕达到最高等级	在1局【蜃夢筆談】中，累計{1}個篆痕達到最高等級	1回の「蜃夢異談」で、累計{1}個の刻印を最高Lvにする	[신비한 꿈 이야기] 1개 라운드에서 각인 {1}개 최고 등급까지 도달하기	Upgrade {1} Seal(s) to max level in a single round of Spectral Fantasies						0	2.3版本蜃梦笔谈
+TaskDes28	在1局【蜃梦笔谈】中，累计{1}个篆痕达到最高等级	在1局【蜃夢筆談】中，累計{1}個篆痕達到最高等級	1回の「蜃夢異談」で、累計{1}個の刻印を最高Lvにする	[신비한 꿈 이야기] 1개 라운드에서 각인 {1}개 최고 등급까지 도달하기	Upgrade {1} Seal(s) to max level in a single round of Spectral Fantasies						0	2.3版本蜃梦笔谈
+TaskDes29	累计获得{1}种不同的秘宝	累計獲得{1}種不同的秘寶	累計で{1}種類の秘宝を獲得する	{1}개의 다양한 보물 누적 획득하기	Obtain {1} different Treasure(s)						0	2.3版本蜃梦笔谈
+TaskDes30	累计获得{1}种不同的秘宝	累計獲得{1}種不同的秘寶	累計で{1}種類の秘宝を獲得する	{1}개의 다양한 보물 누적 획득하기	Obtain {1} different Treasure(s)						0	2.3版本蜃梦笔谈
+TaskDes31	累计获得{1}种不同的秘宝	累計獲得{1}種不同的秘寶	累計で{1}種類の秘宝を獲得する	{1}개의 다양한 보물 누적 획득하기	Obtain {1} different Treasure(s)						0	2.3版本蜃梦笔谈
+TaskDes32	在1局【蜃梦笔谈】中，累计获得{1}种等级至少为1级的篆痕	在1局【蜃夢筆談】中，累計獲得{1}種等級至少為1級的篆痕	1回の「蜃夢異談」で、累計{1}種類のLv.1以上の刻印を獲得する	[신비한 꿈 이야기] 1개 라운드에서 최소 1등급의 각인 {1}개 누적 획득하기	Obtain {1} Lv. 1 or above Seal type(s) in a single round of Spectral Fantasies						0	2.3版本蜃梦笔谈
+TaskDes33	在1局【蜃梦笔谈】中，累计获得{1}种等级至少为1级的篆痕	在1局【蜃夢筆談】中，累計獲得{1}種等級至少為1級的篆痕	1回の「蜃夢異談」で、累計{1}種類のLv.1以上の刻印を獲得する	[신비한 꿈 이야기] 1개 라운드에서 최소 1등급의 각인 {1}개 누적 획득하기	Obtain {1} Lv. 1 or above Seal type(s) in a single round of Spectral Fantasies						0	2.3版本蜃梦笔谈
+TaskDes34	在1局【蜃梦笔谈】中，累计获得{1}种等级至少为1级的篆痕	在1局【蜃夢筆談】中，累計獲得{1}種等級至少為1級的篆痕	1回の「蜃夢異談」で、累計{1}種類のLv.1以上の刻印を獲得する	[신비한 꿈 이야기] 1개 라운드에서 최소 1등급의 각인 {1}개 누적 획득하기	Obtain {1} Lv. 1 or above Seal type(s) in a single round of Spectral Fantasies						0	2.3版本蜃梦笔谈
+HelpDes1	在光怪陆离的幻境中，经历一个个奇遇，解决掉拦路的敌人们，获得秘宝，直至探索出蜃梦的真相。	在光怪陸離的幻境中，經歷一個個奇遇，解決掉攔路的敵人們，獲得秘寶，直至探索出蜃夢的真相。	色とりどりの幻境で出会いを重ね、行く手を阻む敵を倒して秘宝を手に入れ、蜃夢の真相を解き明かしましょう。	신비한 꿈 이야기의 진실을 파헤칠 때까지 기묘한 환상 속에서 다양한 모험을 이어가고, 길을 막고 있는 타깃들을 처치하며 보물을 얻어야 한다.	Dive into a world of strange fantasies. Conquer foes, collect Treasures, and unravel the enigma of the mirages hidden deep within.						0	2.3版本蜃梦笔谈
+HelpDes2	蜃景中的路线复杂多变，需要认真选择前进的方向	蜃景中的路線複雜多變，需要認真選擇前進的方向	蜃夢の中の道は複雑で多岐にわたるため、進む方向は慎重に選びましょう。	신기루 속의 경로는 복잡하고 다양하므로, 진로를 신중하게 선택해야 한다.	The paths in the fog mirages are intricate and ever-changing. Choose your direction carefully.						0	2.3版本蜃梦笔谈
+HelpDes3	在奇遇抉择中的选择会对未来产生影响，最终导向不同的结局	在奇遇抉擇中的選擇會對未來產生影響，最終導向不同的結局	「奇妙な邂逅」での選択が未来を左右し、さまざまな結末へと導きます。	운명의 결정에서의 선택은 미래에 영향을 미치며, 결국 다른 결말로 이어진다. 모험 중에는 다양한 보물을 얻을 수 있으며, 보물을 통해 능력을 향상시키거나 서로 조합하여 다양한 유형의 각인을 활성화할 수 있다.	The choices you make in Beiting encounters will influence your fate, leading to different endings.						0	2.3版本蜃梦笔谈
+HelpDes4	冒险途中将会获得各种各样的秘宝，可以依靠秘宝获得能力提升，也可组合激活不同类型的篆痕	冒險途中將會獲得各種各樣的秘寶，可以依靠秘寶獲得能力提升，也可組合啟動不同類型的篆痕	冒険中にさまざまな秘宝を手に入れ、それによって能力を強化したり、組み合わせて異なる種類の刻印効果を発動できます。	모험 중에는 다양한 보물을 얻을 수 있으며, 이 보물을 통해 능력을 향상시키거나 서로 조합하여 다양한 유형의 각인을 활성화할 수 있다.	Collect a wide array of Treasures on your adventure! Use them to boost your abilities and activate Seal effects.						0	2.3版本蜃梦笔谈
+HelpDes5	秘宝放入背包后，会激活自身各种属性与增益效果。背包空间有限，请尽可能利用好背包空间	秘寶放入背包後，會啟動自身各種屬性與增益效果。背包空間有限，請盡量利用好背包空間	秘宝をリュックに入れると、さまざまな基本属性強化やバフを得られる。限られているリュックの容量を最大限に活用しましょう。	보물을 가방에 넣으면 다양한 속성과 버프 효과가 활성화된다. 인벤토리 공간은 제한되어 있으니 최대한 효율적으로 인벤토리 공간을 활용해야 한다.	Once you place a Treasure in your Backpack, it will provide you with various attribute boosts and effects. Utilize the limited squares of Backpack Space efficiently.						0	2.3版本蜃梦笔谈
+HelpDes6	秘宝以不同的方式摆放与排列，也会获得不同的组合效果。想要获得更强的基础属性与更多的增益效果，请多多尝试不同的归置方式	秘寶以不同的方式擺放與排列，也會獲得不同的組合效果。想要獲得更強的基礎屬性與更多的增益效果，請多多嘗試不同的歸置方式	秘宝の配置や並べ方を変えると、異なる「相乗効果」が発動する。より強力な基本属性やバフを得るために、さまざまな配置を試してみましょう。	보물을 다양한 방식으로 배치하고 배열하면 서로 다른 조합 효과를 얻을 수 있다. 더 강력한 기초 속성과 버프 효과를 얻고 싶다면 다양한 배치 방식을 시도해 봐야 한다.	Different setups of Treasures in your Backpack will provide you with various combinations of effects. Try different arrangements to maximize your basic attributes and buffs.						0	2.3版本蜃梦笔谈
+HelpDes7	在冒险途中，有机会获得神秘的铭文拓印，可以用来增加背包空间	在冒險途中，有機會獲得神秘的銘文拓印，可以用來增加背包空間	冒険中に謎の「刻印の拓本」を手に入れることで、リュックの容量を増やすことができます。	모험 중에 신비한 룬 각인을 획득할 수 있다. 이를 통해 인벤토리 공간을 늘릴 수 있다.	Keep an eye out for mysterious Inscriptions that you may find during your journey — they can be used to increase your Backpack Space.						0	2.3版本蜃梦笔谈
+HelpDes8	缓存空间中可以存储暂时不被归置进入背包的物品，但缓存空间有限，可以选择不重要的珍宝售出	快取空間中可以存放暫時不被歸置進入背包的物品，但快取空間有限，可以選擇不重要的珍寶售出	獲得した秘宝は「一時保存」に保存できますが、容量には限りがあります。必要ない秘宝を売却してスペースを節約しましょう。	저장 공간에는 임시로 인벤토리에 정리되지 않은 아이템을 저장할 수 있지만, 저장 공간은 한정적이므로 중요하지 않은 보물을 선택해 판매할 수 있다.	Use Cache to keep items not currently placed in your Backpack. However, Cache space is limited — free up space by selling Treasures you don't want.						0	2.3版本蜃梦笔谈
+HelpDes9	获得初晨露滴完成密书残卷中的任务，可以得到各种奖励	獲得初晨露滴完成密書殘卷中的任務，可以得到各種獎勵	「朝露の一滴」を手に入れ、「秘伝書の残巻」ミッションをクリアすると、さまざまな報酬を獲得できます。	푸른 이슬을 얻어 보물 서적 미션를 완료하면 다양한 보상을 받을 수 있다.	Collect Verdant Dew to complete the missions listed within Hidden Pages and earn various rewards.						0	2.3版本蜃梦笔谈
+HelpDes10	当感受到冒险有些吃力时，可以出战试用队员	當感受到冒險有些吃力時，可以出戰試用隊員	冒険が難しいと感じたら、お試し隊員を出撃させてみましょう。	모험이 다소 힘들게 느껴질 때는 전투에 출전하여 팀원을 시험해 볼 수 있다.	If the journey becomes a bit too tough, call upon trial operatives to help you in combat.						0	2.3版本蜃梦笔谈
+HelpDes11	通过篆刻经验，可以激活不同类型的篆痕，以提升能力。点击篆痕可查看详情	透過篆刻經驗，可以啟動不同類型的篆痕，以提升能力。點擊篆痕可看詳情	刻印EXPを使ってさまざまな種類の刻印を活性化させ、能力を向上させましょう。刻印をクリックして詳細を確認できます。	각인 경험치를 통해 다양한 유형의 각인을 활성화하여 능력을 향상시킬 수 있다. 각인을 클릭하면 자세한 내용을 확인할 수 있다.	Accumulate Seal EXP of different Seal types to activate their ability-boosting effects. Click on a Seal for details.						0	2.3版本蜃梦笔谈
+HelpDes12	在经历一些特殊的冒险后，将会获得比秘宝更强力的“奇器”，背包中最多可以放入3个奇器	在經歷一些特殊的冒險後，將會獲得比秘寶更強力的「奇器」，背包中最多可以放入3個奇器	特殊な冒険を経験すると、秘宝よりも強力な「奇貨」を獲得できます。奇貨はリュックに最大3つまで収納可能です。	특별한 모험을 통해 보물을 뛰어넘는 강력한 '기이한 도구'를 얻을 수 있다. 인벤토리에는 최대 3개의 기이한 도구를 담을 수 있다.	Complete special adventures to obtain Artifacts that surpass Treasures in strength. You can keep up to three in your Backpack.						0	2.6版本蜃梦笔谈
+HelpDes13	每完成1局【蜃梦笔谈】时，可选择留存1个秘宝以供下局使用	每完成1局【蜃夢筆談】時，可選擇留存1個秘寶以供下局使用	【蜃夢異談】を1回クリアするたびに、秘宝を1つ保存し、次回のプレイで使用可能になります。	[신비한 꿈 이야기] 게임을 1라운드 완료할 때마다 다음 라운드에 사용할 수 있도록 1개의 보물을 저장할 수 있다.	After finishing a round of Spectral Fantasies, you can select one Treasure to keep for the next round.						0	2.6版本蜃梦笔谈
+RelicName1	含羞草	含羞草	オジギソウ	수줍은 풀	Shameplant						0	2.6版本蜃梦笔谈
+RelicName2	生花	生花	生け花	생명의 꽃	Tribloom						0	2.6版本蜃梦笔谈
+RelicName3	荆棘	荊棘	イバラ	가시덩굴	Thorns						0	2.6版本蜃梦笔谈
+RelicName4	盾牌	盾牌	盾	보호 방패	Shield						0	2.6版本蜃梦笔谈
+RelicName5	珠宝耳环	珠寶耳環	宝石の耳飾り	보석 귀걸이	Gem Earrings						0	2.6版本蜃梦笔谈
+RelicName6	宝石吊坠	寶石吊墜	ペンダント	보석 목걸이	Gem Pendant						0	2.6版本蜃梦笔谈
+RelicName7	猎鹰	獵鷹	ファルコン	사냥용 매	Falcon						0	2.6版本蜃梦笔谈
+RelicName8	鹿角	鹿角	鹿の角	사슴 뿔	Antler						0	2.6版本蜃梦笔谈
+RelicName9	短兵	短兵	近接兵器	단검	Dagger						0	2.6版本蜃梦笔谈
+RelicName10	双剑	雙劍	双剣	쌍검	Twin Blades						0	2.6版本蜃梦笔谈
+RelicName11	冠冕	冠冕	レガリア	왕관	Crown						0	2.6版本蜃梦笔谈
+RelicName12	舞会面具	舞會面具	舞踏会の仮面	무도회 가면	Ball Mask						0	2.6版本蜃梦笔谈
+RelicName13	火石	火石	炎の石	화염석	Flint						0	2.6版本蜃梦笔谈
+RelicName14	炙热炉火	炙熱爐火	灼熱の炉火	불타는 화로	Furnace Blaze						0	2.6版本蜃梦笔谈
+RelicName15	零度冰晶	零度冰晶	氷点下の結晶	영도 얼음 결정	Icy Shard						0	2.6版本蜃梦笔谈
+RelicName16	极寒冰晶	極寒冰晶	極寒の結晶	극한의 얼음 결정	Frigid Crystal						0	2.6版本蜃梦笔谈
+RelicName17	超导晶石	超導晶石	超電導結晶石	초전도 결정석	Volt Crystal						0	2.6版本蜃梦笔谈
+RelicName18	电石	電石	電気の石	전기 광석	Spark Stone						0	2.6版本蜃梦笔谈
+RelicName19	羽毛笔	羽毛筆	羽根ペン	깃털 펜	Quill Pen						0	2.6版本蜃梦笔谈
+RelicName20	羊皮卷轴	羊皮捲軸	羊皮紙の巻物	양피 두루마리	Sheepskin Scroll						0	2.6版本蜃梦笔谈
+RelicName21	植物化石	植物化石	植物の化石	식물 화석	Plant Fossil						0	2.8版本蜃梦笔谈
+RelicName22	头盔	頭盔	ヘルメット	투구	Helmet						0	2.8版本蜃梦笔谈
+RelicName23	锻造锤	鍛造錘	鍛造ハンマー	단조 망치	Forge Hammer						0	2.8版本蜃梦笔谈
+RelicName24	飓风	颶風	ハリケーン	허리케인	Hurricane						0	2.8版本蜃梦笔谈
+RelicName25	火炬	火炬	トーチ	횃불	Torch						0	2.8版本蜃梦笔谈
+RelicName26	巧器	巧器	匠の道具	장치	Gadget						0	2.8版本蜃梦笔谈
+RelicName27	望远镜	望遠鏡	望遠鏡	망원경	Telescope						0	2.8版本蜃梦笔谈
+RelicName28	许愿灯	許願燈	祈願のランプ	소원등	Wish Lantern						0	2.8版本蜃梦笔谈
+RelicName29	宝匣	寶匣	宝箱	보물함	Jewelry Box						0	2.8版本蜃梦笔谈
+RelicName30	兽形图腾	獸形圖騰	獣のトーテム	짐승 토템	Beast Totem						0	2.8版本蜃梦笔谈
+RelicAffixDes1	队员自身周围50米范围内每有1个敌方目标，则防御力提升{1}%	隊員自身周圍50公尺範圍內每有1個敵方目標，則防禦力提升{1}%	周囲50m以内にいる敵1体ごとに、味方隊員の防御力+{1}%	팀원 주변 50m 범위 내에 타깃이 1명 있을 때마다 방어력이 {1}% 증가한다.	Increases DEF by {1}% for each target within 50 meters of the operative.						0	2.6版本蜃梦笔谈
+RelicAffixDes2	【生机】类篆痕生效时，视作队员周围额外有{1}个敌方目标	【生機】類篆痕生效時，視作隊員周圍額外有{1}個敵方目標	【生気】系の刻印が発動中、味方は「周囲に{1}体の敵がいる」ことで得られるバフ効果を獲得	[넘치는 활력] 유형의 각인이 활성화될 경우, 팀원 주변에 추가로 타깃 {1}명이 있는 것으로 간주된다.	Increases number of targets in Vigor Seal effect calculation by an additional {1}.						0	2.6版本蜃梦笔谈
+RelicAffixDes3	【宝石】类篆痕造成的伤害增加{1}%	【寶石】類篆痕造成的傷害增加{1}%	【宝石】系の刻印が与えるダメージ+{1}%	[보석] 유형의 각인이 가하는 대미지가 {1}% 증가한다.	Increases DMG of Gem Seal effect by {1}%.						0	2.6版本蜃梦笔谈
+RelicAffixDes4	队员自身15米范围内的敌方目标全类型抗性降低{1}%	隊員自身15公尺範圍內的敵方目標全類型抗性降低{1}%	周囲15m以内にいるすべての敵の全ダメージタイプ耐性-{1}%	팀원 주변 15미터 범위 내에 타깃의 모든 유형 내성이 {1}% 감소한다.	Decreases All-Type Resistance of targets within 15 meters by {1}%.						0	2.6版本蜃梦笔谈
+RelicAffixDes5	【甲胄】类篆痕造成伤害时，同时对目标8米范围内的目标造成伤害	【甲胄】類篆痕造成傷害時，同時對目標8公尺範圍內的目標造成傷害	【甲胄】系の刻印がダメージを与えると、命中対象の周囲8m以内にいる敵にもダメージを与える	[갑옷] 유형 각인으로 대미지를 가하는 동시에 8미터 범위 내의 타깃에게도 대미지를 가한다.	When Armor Seal effect deals DMG, also deals DMG to targets within 8 meters of the original target.						0	2.6版本蜃梦笔谈
+RelicAffixDes6	队员当前生命值越低，【甲胄】类篆痕造成的伤害越高，伤害最高提升{1}%		現在HPが低いほど、【甲胄】系刻印のダメージが高い（最大で+{1}%）								1	2.6版本蜃梦笔谈
+RelicAffixDes7	敌方目标生命高于70%时，队员对其造成的最终伤害提升{1}%	當敵方目標生命高於70%時，隊員對其造成的最終傷害提升{1}%	HPが70%以上の敵に与える最終ダメージ+{1}%	타깃 HP가 70% 이상일 경우, 팀원이 가하는 최종 대미지가 {1}% 증가한다.	When target's HP is higher than 70%, increases operative's Final DMG dealt to the target by {1}%.						0	2.6版本蜃梦笔谈
+RelicAffixDes8	换弹后，下一发子弹必定造成暴击	換彈後，下一發子彈必定造成暴擊	リロード後、次の1発の弾丸は必ず会心の一撃になる	장전 후, 다음에 발사하는 총알은 반드시 크리티컬을 가한다.	After reloading, next shot hit has 100% chance to deal CRIT.						0	2.6版本蜃梦笔谈
+RelicAffixDes9	【创痍】叠满层时，非敌方首领的目标立即被击倒	【創痍】疊滿層時，非敵方首領的目標立即被擊倒	敵にかけた【創痍】が最大スタックに達すると即死する（ボス除く）	[상처]가 최대 스택까지 중첩되면 타깃 보스를 제외한 타깃은 즉시 쓰러진다.	At max Wound stacks, non-boss enemies are instantly defeated.						0	2.6版本蜃梦笔谈
+RelicAffixDes10	【创痍】可以叠加的最大层数减少{1}层，但每层造成伤害翻倍	【創痍】可以疊加的最大層數減少{1}層，但每層造成傷害翻倍	【創痍】最大スタック数-{1}、代わりに1スタックごとのダメージが2倍になる	[상처]의 최대 중첩 스택이 {1}스택 감소하지만, 각 스택의 대미지가 두 배로 증가한다.	Decreases max Wound stacks by {1}, but doubles DMG of each stack.						0	2.6版本蜃梦笔谈
+RelicAffixDes11	队员单次受到的伤害最高不超过自身最大生命的{1}%	隊員單次受到的傷害最高不超過自身最大生命的{1}%	味方隊員が一度に受けられる最大ダメージは、自身の最大HPの{1}%分まで	팀원이 받는 단일 대미지가 자신의 최대 HP인 {1}%를 초과하지 않는다.	DMG taken by operative per hit is no more than {1}% of their Max HP.						0	2.6版本蜃梦笔谈
+RelicAffixDes12	队员生命低于50%时，获得1个最大生命{1}%的护盾，每场战斗仅触发1次	隊員生命低於50%時，獲得1個最大生命{1}%的護盾，每場戰鬥僅觸發1次	HPが50%以下の場合、最大HP{1}%分のシールドを獲得。1回のバトルで1回のみ発動	팀원의 HP가 50% 미만일 때, 최대 HP의 {1}%에 해당하는 실드를 1개 획득하며, 각 전투에서 한 번만 발동한다.	When operative's HP is less than 50%, gains a Shield equal to {1}% of their Max HP. This can only be triggered once per combat.						0	2.6版本蜃梦笔谈
+RelicAffixDes13	队员对敌方目标造成任意类型伤害，都可以让【远古科技】类篆痕激活	隊員對敵方目標造成任意類型傷害，都可以讓【遠古科技】類篆痕啟動	敵に任意タイプのダメージを与えると、【古代技術】系の刻印が有効になる	팀원이 타깃에게 임의의 유형의 대미지를 입히면 [고대 기술] 유형의 각인을 활성화한다.	Tech Seal effect can be triggered when operative deals any type of DMG to target.						0	2.6版本蜃梦笔谈
+RelicAffixDes14	【远古科技】类篆痕激活对敌方施加的灼烧效果使目标的高热抗性降低{1}%	【遠古科技】類篆痕啟動對敵方施加的灼燒效果使目標的高熱抗性降低{1}%	【古代技術】系の刻印が敵に火傷デバフを付与すると、追加で敵の高熱耐性-{1}%	[고대 기술] 유형 각인이 활성화되면 타깃에게 부여하는 연소 효과가 타깃의 화염 내성을 {1}% 감소시킨다.	Decreases Thermal Resistance of targets Burned by Tech Seal effect by {1}%.						0	2.6版本蜃梦笔谈
+RelicAffixDes15	【雷电】类篆痕只对队员自身周围最近的敌方目标生效，但伤害提升100%	【雷電】類篆痕只對隊員自身周圍最近的敵方目標生效，但傷害提升100%	【霹靂】系刻印の効果は、隊員と最も近い敵にのみ適用され、代わりにダメージ+100%	[천둥과 번개] 유형 각인은 팀원 주변의 가장 가까운 타깃에게 효과가 있으며 대미지가 100% 증가한다.	Thunder Seal effect only affects the nearest target to the operative, but its DMG increases by 100%.						0	2.6版本蜃梦笔谈
+RelicAffixDes16	【雷电】类篆痕激活造成伤害的触发间隔由原来的3秒降低为{1}秒	【雷電】類篆痕啟動造成傷害的觸發間隔由原來的3秒降低為{1}秒	【霹靂】系刻印のダメージクールタイムが、3秒から{1}秒に短縮される	[천둥과 번개] 유형 각인이 활성화되면 대미지를 주는 쿨타임이 3초에서 {1}초로 줄어든다.	Decreases Thunder Seal effect DMG cooldown from 3 to {1} sec.						0	2.6版本蜃梦笔谈
+RelicAffixDes17	【风雪】类篆痕激活所冻结的敌方目标低温抗性降低{1}%	【風雪】類篆痕啟動所凍結的敵方目標低溫抗性降低{1}%	【吹雪】系の刻印で凍結した敵の低温耐性-{1}%。	[바람과 눈] 유형 각인이 활성화되면 동결된 타깃의 얼음 내성이 {1}% 줄어든다.	Decreases Frost Resistance of targets Frozen by Blizzard Seal effect by {1}%.						0	2.6版本蜃梦笔谈
+RelicAffixDes18	队员对敌方目标造成任意类型伤害，都可以让【风雪】类篆痕激活	隊員對敵方目標造成任意類型傷害，都可以讓【風雪】類篆痕啟動	敵に任意タイプのダメージを与えると、【吹雪】系の刻印が有効になる	팀원이 타깃에게 임의 유형의 대미지를 입힐 때마다 [바람과 눈] 유형 각인이 활성화된다.	Blizzard Seal effect can be triggered when operative deals any type of DMG to target.						0	2.6版本蜃梦笔谈
+RelicAffixDes19	每放入背包内1个有【学者】篆痕的秘宝，队员的射击速度提升{1}%	每放入背包內1個有【學者】篆痕的秘寶，隊員的射擊速度提升{1}%	リュックにある【学者】系刻印の秘宝1個につき、射撃速度+{1}%	인벤토리에 [학자] 각인이 있는 보물을 1개씩 넣을 때마다, 팀원의 사격 속도가 {1}% 증가한다.	For each Scholar-type Treasure in Backpack, increases operative's Rate of Fire by {1}%.						0	2.6版本蜃梦笔谈
+RelicAffixDes20	每放入背包内1个有【学者】篆痕的秘宝，队员的技能伤害提升{1}%	每放入背包內1個有【學者】篆痕的秘寶，隊員的技能傷害提升{1}%	リュックにある【学者】系刻印の秘宝1個につき、スキルダメージ+{1}%	인벤토리에 [학자] 각인이 있는 보물을 1개씩 넣을 때마다, 팀원의 스킬 대미지가 {1}% 증가한다.	For each Scholar-type Treasure in Backpack, increases operative's Skill DMG by {1}%.						0	2.6版本蜃梦笔谈
+RelicAffixDes21	【生机】类篆痕等级达到上限后，每获得1点篆刻经验，附属单位强度提升{1}	【生機】類篆痕等級達到上限後，每獲得1點篆刻經驗，附屬單位強度提升{1}	【生気】系刻印のLvが上限に達した後、刻印EXPを1獲得するたびに、付属ユニット強度+{1}	[넘치는 활력] 유형의 각인 레벨이 최대치에 도달하면, 획득한 각인 EXP 1포인트당 부속 유닛 강도가 {1} 증가한다.	At max level, Vigor Seal increases Auxiliary Unit Strength by {1} for every 1 Seal EXP.						0	2.8版本蜃梦笔谈
+RelicAffixDes22	【甲胄】类篆痕等级达到上限后，每获得1点篆刻经验，队员防御力增加{1}	【甲胄】類篆痕等級達到上限後，每獲得1點篆刻經驗，隊員防禦力增加{1}	【甲胄】系刻印のLvが上限に達した後、刻印EXPを1獲得するたびに、防御力+{1}	[갑옷] 유형의 각인 레벨이 최대치에 도달하면, 획득한 각인 EXP 1포인트당 팀원의 방어력이 {1} 증가한다.	At max level, Armor Seal increases operative's DEF by {1} for every 1 Seal EXP.						0	2.8版本蜃梦笔谈
+RelicAffixDes23	当背包内每存在1个【锋刃】类篆痕的秘宝，队员的射击伤害提升{1}%	背包內每存在1個【鋒刃】類篆痕的秘寶，隊員的射擊傷害提升{1}%	リュックにある【鋭い刃】系刻印の秘宝1個につき、射撃ダメージ+{1}%	인벤토리에 [날카로운 칼날] 유형의 각인 보물이 1개 있을 때마다 팀원의 사격 대미지가 {1}% 증가한다.	For each Blade-type Treasure in Backpack, increases operative's Ballistic DMG by {1}%.						0	2.8版本蜃梦笔谈
+RelicAffixDes24	【风雪】类篆痕等级达到上限后，每获得1点篆刻经验，队员造成的低温类型伤害提升{1}%	【風雪】類篆痕等級達到上限後，每獲得1點篆刻經驗，隊員造成的低溫類型傷害提升{1}%	【吹雪】系刻印のLvが上限に達した後、刻印EXPを1獲得するたびに、与える低温系ダメージ+{1}%	[바람과 눈] 유형의 각인 레벨이 최대치에 도달하면, 획득한 각인 EXP 1포인트당 팀원이 입히는 얼음 유형 대미지가 {1}% 증가한다.	At max level, Blizzard Seal increases operative's Frost DMG dealt by {1}% for every 1 Seal EXP.						0	2.8版本蜃梦笔谈
+RelicAffixDes25	【远古科技】类篆痕等级达到上限后，每获得1点篆刻经验，队员造成的高热类型伤害提升{1}%	【遠古科技】類篆痕等級達到上限後，每獲得1點篆刻經驗，隊員造成的高熱類型傷害提升{1}%	【古代技術】系刻印のLvが上限に達した後、刻印EXPを1獲得するたびに、与える高熱系ダメージ+{1}%	[고대 기술] 유형의 각인 레벨이 최대치에 도달하면, 획득한 각인 EXP 1포인트당 팀원이 입히는 화염 유형 대미지가 {1}% 증가한다.	At max level, Tech Seal increases operative's Thermal DMG dealt by {1}% for every 1 Seal EXP.						0	2.8版本蜃梦笔谈
+RelicAffixDes26	【雷电】类篆痕等级达到上限后，每获得1点篆刻经验，队员造成的电击类型伤害提升{1}%	【雷電】類篆痕等級達到上限後，每獲得1點篆刻經驗，隊員造成的電擊類型傷害提升{1}%	【霹靂】系刻印のLvが上限に達した後、刻印EXPを1獲得するたびに、与える電撃系ダメージ+{1}%	[천둥과 번개] 유형의 각인 레벨이 최대치에 도달하면, 획득한 각인 EXP 1포인트당 팀원이 입히는 번개 유형 대미지가 {1}% 증가한다.	At max level, Thunder Seal increases operative's Electrical DMG dealt by {1}% for every 1 Seal EXP.						0	2.8版本蜃梦笔谈
+RelicAffixDes27	击倒敌方目标时，有15%的概率获得1个急救瓶，可回复当前队员{1}%最大生命	擊倒敵方目標時，有15%的機率獲得1個急救瓶，可回復當前隊員{1}%最大生命	敵を倒すと、15%の確率で救急ボトルを1つ獲得し、現在出撃中の隊員の最大HPの{1}%を回復する	타깃을 쓰러뜨릴 때, 15%의 확률로 구급 포션 1개를 획득하여, 현재 팀원 최대 HP의 {1}%를 회복시킨다.	After defeating a target, there is a 15% chance to obtain a First-Aid Packet that restores {1}% of current operative's Max HP.						0	2.8版本蜃梦笔谈
+RelicAffixDes28	【神秘礼器】类篆痕等级达到上限后，每获得1点篆刻经验，队员对目标造成的伤害提升{1}%	【神秘禮器】類篆痕等級達到上限後，每獲得1點篆刻經驗，隊員對目標造成的傷害提升{1}%	【神秘の礼器】系刻印のLvが上限に達した後、刻印EXPを1獲得するたびに、敵に与えるダメージ+{1}%	[신비한 예물] 유형의 각인 레벨이 최대치에 도달하면, 획득한 각인 EXP 1포인트당 팀원이 타깃에게 입히는 대미지가 {1}% 증가한다.	At max level, Ritual Seal increases operative's DMG dealt by {1}% for every 1 Seal EXP.						0	2.8版本蜃梦笔谈
+RelicAffixDes29	【宝石】类篆痕等级达到上限后，每获得1点篆刻经验，队员生命上限提升{1}%	【寶石】類篆痕等級達到上限後，每獲得1點篆刻經驗，隊員生命上限提升{1}%	【宝石】系刻印のLvが上限に達した後、刻印EXPを1獲得するたびに、最大HP+{1}%	[보석] 유형의 각인 레벨이 최대치에 도달하면, 획득한 각인 EXP 1포인트당 팀원의 HP가 {1}% 증가한다.	At max level, Gem Seal increases operative's Max HP by {1}% for every 1 Seal EXP.						0	2.8版本蜃梦笔谈
+RelicAffixDes30	【猎枪】类篆痕等级达到上限后，每获得1点篆刻经验，队员暴击伤害提升{1}%	【獵槍】類篆痕等級達到上限後，每獲得1點篆刻經驗，隊員暴擊傷害提升{1}%	【猟銃】系刻印のLvが上限に達した後、刻印EXPを1獲得するたびに、会心ダメージ+{1}%	[사냥총] 유형의 각인 레벨이 최대치에 도달하면, 획득한 각인 EXP 1포인트당 팀원의 크리티컬 대미지가 {1}% 증가한다.	At max level, Hunt Seal increases operative's CRIT DMG by {1}% for every 1 Seal EXP.						0	2.8版本蜃梦笔谈
+RelicAffixDes31	【生机】类篆痕生效时，召唤的助战单元攻击速度翻倍	【生機】類篆痕生效時，召喚的助戰單元攻擊速度翻倍	【生気】系の刻印が発動中、召喚される加勢ユニットの攻撃速度が倍になる	[넘치는 활력] 유형의 각인 효과가 적용될 시, 소환한 어시스트 유닛의 공격 속도가 2배로 증가한다.	When Vigor Seal is active, doubles the assist unit's Attack SPD.						0	2.8版本蜃梦笔谈
+RelicAffixDes32	【生机】类篆痕生效时，额外召唤1个助战单元	【生機】類篆痕生效時，額外召喚1個助戰單元	【生気】系の刻印が発動中、加勢ユニットを追加で1体召喚する	[넘치는 활력] 유형의 각인 효과가 적용될 시, 어시스트 유닛 1명을 추가로 소환한다.	When Vigor Seal is active, summons an additional assist unit.						0	2.8版本蜃梦笔谈
+RelicAffixDes33	【远古科技】类篆痕生效时，不再清空灼烧效果的层数也不再附加“炎爆”，但灼烧效果造成的伤害提升至{1}%	【遠古科技】類篆痕生效時，不再清空灼燒效果的層數，也不再附加“炎爆”，但灼燒效果造成的傷害提升至{1}%	【古代技術】系の刻印が発動中、【火傷】のスタック数がリセットされず、「炎爆」も付与されなくなる。その代わりに、【火傷】によるダメージが{1}%にアップする	[고대 기술] 유형의 각인 효과가 적용될 시, 연소 효과의 중첩 수는 더 이상 리셋되지 않으며, '화염 폭발'도 더 이상 추가되지 않지만, 연소 효과로 입히는 대미지가 {1}%로 증가한다.	When Tech Seal is active, Burning stacks won't be cleared to trigger Flame Burst, but DMG dealt by Burning increases to {1}%.						0	2.8版本蜃梦笔谈
+RelicAffixDes34	对敌方首领造成低温类型伤害时，使其受到的伤害增加{1}%，持续10s	對敵方首領造成低溫類型傷害時，使其受到的傷害增加{1}%，持續10秒	ボス敵に低温系ダメージを与えると、10秒間、そのボス敵の被ダメージ+{1}%。	보스 타깃에게 얼음 유형 대미지를 입힐 때, 해당 타깃이 입는 대미지가 {1}% 증가한다. 지속 시간: 10초.	Dealing Frost DMG to bosses increases their DMG taken by {1}% for 10 sec.						0	2.8版本蜃梦笔谈
+FinishNodeOption1	新的开始	新的開始	新たな始まり	새로운 시작	A New Journey						0	2.6版本蜃梦笔谈
+FinishNodeDes1	完成本局蜃梦笔谈，并再次沉入梦境	完成本局蜃夢筆談，並再次沉入夢境	今回の蜃夢異談をクリアして、もう一度夢に潜る	본 게임의 [신비한 꿈 이야기]를 완료하면 다시 꿈으로 빠져든다.	Complete this round of Spectral Fantasies and descend once more into the dream.						0	2.6版本蜃梦笔谈
+FinishNodeOption2	梦魇试炼	夢魘試煉	悪夢の試練	악몽 시련	Nightmare Trial						0	2.6版本蜃梦笔谈
+FinishNodeDes2	继续踏入试炼之境，寻求自身极限\n越快完成试炼获得越多积分；当前关卡无额外奖励\n最高积分：{1}\n当前积分：{2}	繼續踏入試煉之境，尋求自身極限\n越快完成試煉獲得越多積分；目前關卡無額外獎勵\n最高積分：{1}\n目前積分：{2}	もう一度試練の地に踏み入り、己の限界に挑む。\nより早く試練をこなすほどより多くのスコアを獲得できる。当該ステージに追加報酬無し。\nベストスコア：{1}\n現在のスコア：{2}	시련의 영역으로 계속 들어가 자신의 한계를 찾아보세요.\n시련을 빠르게 완료할수록 더 많은 점수를 획득할 수 있습니다. 현재 스테이지에는 추가 보상이 없습니다.\n최고 점수: {1}\n현재 점수: {2}.	Step deeper into Realm of Trials and challenge your own limits.\nThe faster you complete the trial, the more points you earn. No extra rewards for this stage.\nHighest Score: {1}\nCurrent Score: {2}						0	2.6版本蜃梦笔谈
+AdventureDes8	岔路口	岔路口	分岐路	분기점	Forked Path						0	2.6版本蜃梦笔谈
+RoadoOption1	废弃大楼	廢棄大樓	廃棄ビル	버려진 대형 건물	Abandoned Building						0	2.6版本蜃梦笔谈
+RoadoOption2	幽暗的洞窟	幽暗的洞窟	薄暗い洞窟	음침한 동굴	Gloomy Cave						0	2.6版本蜃梦笔谈
+RoadoOption3	死寂小径	死寂小徑	静寂の小道	침묵의 길	Desolate Trails						0	2.6版本蜃梦笔谈
+RoadoOption4	蜃梦终点	蜃夢終點	蜃夢の終焉	꿈의 종점	Illusion's End						0	2.6版本蜃梦笔谈
+RoadoDes1	点亮火烛谨慎前行，却在即将离开洞窟时骤然遭险	點亮火燭謹慎前行，卻在即將離開洞窟時驟然遭險	蝋燭を灯して慎重に進んだが、洞窟を出ようとした際に危険な目に遭う。	불빛을 켜고 조심스럽게 나아갔다. 하지만 동굴을 떠나려 할 때 갑자기 위험이 닥쳐왔다.	As you light the candle and move cautiously, danger ambushes you just before you leave the cave.						0	2.6版本蜃梦笔谈
+RoadoDes2	点亮火烛谨慎前行，却在即将离开洞窟时骤然遭险	點亮火燭謹慎前行，卻在即將離開洞窟時驟然遭險	蝋燭を灯して慎重に進んだが、洞窟を出ようとした際に危険な目に遭う。	불빛을 켜고 조심스럽게 나아갔다. 하지만 동굴을 떠나려 할 때 갑자기 위험이 닥쳐왔다.	As you light the candle and move cautiously, danger ambushes you just before you leave the cave.						0	2.6版本蜃梦笔谈
+RoadoDes3	前行路中小心翼翼，危机却已显于面前	前行路中小心翼翼，危機卻已顯於面前	油断せずに前へ進んだとしても、危機はすでに目の前に迫っていた	길을 따라 신중하게 나아갔지만, 위협이 이미 눈앞에 닥쳐왔다.	Be wary as you move forward, the danger is already evident.						0	2.6版本蜃梦笔谈
+RoadoDes4	前行路中小心翼翼，危机却已显于面前	前行路中小心翼翼，危機卻已顯於面前	油断せずに前へ進んだとしても、危機はすでに目の前に迫っていた	길을 따라 신중하게 나아갔지만, 위협이 이미 눈앞에 닥쳐왔다.	Be wary as you move forward, the danger is already evident.						0	2.6版本蜃梦笔谈
+RoadoDes5	已经到了旅程的终点，该面对迷雾之后的试炼了	已經到了旅程的終點，該面對迷霧之後的試煉了	旅の終着点に辿り着いたからには、霧の向こうに待つ試練に立ち向かうべきだ。	여정의 끝자락에 도달했으니, 안개 너머의 시험에 맞서야 한다.	The journey ends here, but the trial beyond the fog are the true test awaiting you.						0	2.6版本蜃梦笔谈
+UnlockDes	隐藏的选项	隱藏的選項	隠れた選択肢	숨겨진 선택지	Hidden Option						0	2.6版本蜃梦笔谈
+HideOptionDes	似乎还缺少一些重要信息，还无法抵达那个故事的结局	似乎還缺少一些重要訊息，還無法抵達那個故事的結局	重要な情報が欠落しているため、あの結末にはたどり着けないようだ。	아직 중요한 정보가 부족해서, 이야기의 결말에 도달할 수 없습니다.	It seems you are missing something important, preventing you from reaching the story's end.						0	2.6版本蜃梦笔谈
+EventName12	梦魇回廊	夢魘迴廊	悪夢の回廊	악몽의 회랑	Nightmare Passage						0	2.6版本蜃梦笔谈
+EventDes12	通关梦魇回廊，根据通关成绩可获得不同数量的随机秘宝和漠北星砂奖励	通關夢魘迴廊，根據通關成績可獲得不同數量的隨機秘寶和漠北星砂獎勵	クリアすると、スコアに応じて異なる数量の秘宝（ランダム）と漠北の星砂を獲得できる。	악몽의 회랑을 클리어하면 클리어 결과에 따라 서로 다른 수량의 랜덤 보물과 사막의 별모래 보상을 획득할 수 있습니다.	Complete Nightmare Passage to obtain random Treasures and Mobei Stardust rewards based on your performance.						0	2.8版本蜃梦笔谈
+EventName13	禁忌震鸣	禁忌震鳴	禁断の轟音	금지된 울림	Cursed Howl						0	2.6版本蜃梦笔谈
+EventDes13	通关禁忌震鸣可获得大量漠北星砂与随机奇器奖励	通關禁忌震鳴可獲得大量漠北星砂與隨機奇器獎勵	クリアすると、漠北の星砂を大量に、さらに奇貨（ランダム）を獲得できる。	금지된 울림을 클리어하면 대량의 사막의 별모래와 임의의 기이한 도구 보상을 획득할 수 있습니다.	Complete Cursed Howl to obtain a large amount of Mobei Stardust and random Artifacts.						0	2.6版本蜃梦笔谈
+EventDes14	可使用漠北星砂在商队处购买各类秘宝，同时可以进入铸造处，通过淬炼、锻造使已有秘宝获得更好的属性	可使用漠北星砂在商隊處購買各類秘寶，同時可以進入鑄造處，透過淬煉、鍛造使已有秘寶獲得更好的屬性	砂漠商隊で漠北の星砂を使い、さまざまな秘宝を購入できるほか、鍛冶屋で焼入れや鍛造を行い、秘宝のステータスを強化することも可能だ。	사막의 별모래를 사용하여 상인에게서 다양한 보물을 구매할 수 있으며, 동시에 제련소에 들어가서 제작과 정제를 통해 보물의 속성을 향상시킬 수 있습니다.	You can use Mobei Stardust to buy various Treasures from the merchant caravan, and enter Arcane Anvil to refine or craft Treasures with enhanced attributes.						0	2.6版本蜃梦笔谈
+TaskName35	逆天改命	逆天改命	運命を意のままに	거스른 운명	Fate Breaker						0	2.6版本蜃梦笔谈
+TaskName36	逆天改命	逆天改命	運命を意のままに	거스른 운명	Fate Breaker						0	2.6版本蜃梦笔谈
+TaskName37	逆天改命	逆天改命	運命を意のままに	거스른 운명	Fate Breaker						0	2.6版本蜃梦笔谈
+TaskName38	机巧天工	機巧天工	天工の機巧	정교한 기술	Ingenious Tinkerer						0	2.6版本蜃梦笔谈
+TaskName39	机巧天工	機巧天工	天工の機巧	정교한 기술	Ingenious Tinkerer						0	2.6版本蜃梦笔谈
+TaskName40	机巧天工	機巧天工	天工の機巧	정교한 기술	Ingenious Tinkerer						0	2.6版本蜃梦笔谈
+TaskName41	无惧梦魇	無懼夢魘	悪夢を恐れず	두렵지 않은 악몽	Nightmare Vanquisher						0	2.6版本蜃梦笔谈
+TaskName42	无惧梦魇	無懼夢魘	悪夢を恐れず	두렵지 않은 악몽	Nightmare Vanquisher						0	2.6版本蜃梦笔谈
+TaskName43	无惧梦魇	無懼夢魘	悪夢を恐れず	두렵지 않은 악몽	Nightmare Vanquisher						0	2.6版本蜃梦笔谈
+TaskDes35	累计在铸造处进行{1}次淬炼	累計在鑄造處進行{1}次淬煉	鍛冶屋で合計{1}回の焼入れを行う	제련소에서 누적 {1}회의 정제를 완료했습니다.	Refine {1} time(s) in Arcane Anvil						0	2.6版本蜃梦笔谈
+TaskDes36	累计在铸造处进行{1}次淬炼	累計在鑄造處進行{1}次淬煉	鍛冶屋で合計{1}回の焼入れを行う	제련소에서 누적 {1}회의 정제를 완료했습니다.	Refine {1} time(s) in Arcane Anvil						0	2.6版本蜃梦笔谈
+TaskDes37	累计在铸造处进行{1}次淬炼	累計在鑄造處進行{1}次淬煉	鍛冶屋で合計{1}回の焼入れを行う	제련소에서 누적 {1}회의 정제를 완료했습니다.	Refine {1} time(s) in Arcane Anvil						0	2.6版本蜃梦笔谈
+TaskDes38	累计在铸造处进行{1}次锻造	累計在鑄造處進行{1}次鍛造	鍛冶屋で合計{1}回の鍛造を行う	제련소에서 누적 {1}회의 제작을 완료했습니다.	Craft {1} time(s) in Arcane Anvil						0	2.6版本蜃梦笔谈
+TaskDes39	累计在铸造处进行{1}次锻造	累計在鑄造處進行{1}次鍛造	鍛冶屋で合計{1}回の鍛造を行う	제련소에서 누적 {1}회의 제작을 완료했습니다.	Craft {1} time(s) in Arcane Anvil						0	2.6版本蜃梦笔谈
+TaskDes40	累计在铸造处进行{1}次锻造	累計在鑄造處進行{1}次鍛造	鍛冶屋で合計{1}回の鍛造を行う	제련소에서 누적 {1}회의 제작을 완료했습니다.	Craft {1} time(s) in Arcane Anvil						0	2.6版本蜃梦笔谈
+TaskDes41	在梦魇试炼中获得的积分超过{1}	在夢魘試煉中獲得的積分超過{1}	悪夢の試練でのスコアが{1}を超える	악몽 시련에서 획득한 점수가 {1}점을 초과하였습니다.	Score earned in Nightmare Trial exceeds {1}						0	2.6版本蜃梦笔谈
+TaskDes42	在梦魇试炼中获得的积分超过{1}	在夢魘試煉中獲得的積分超過{1}	悪夢の試練でのスコアが{1}を超える	악몽 시련에서 획득한 점수가 {1}점을 초과하였습니다.	Score earned in Nightmare Trial exceeds {1}						0	2.6版本蜃梦笔谈
+TaskDes43	在梦魇试炼中获得的积分超过{1}	在夢魘試煉中獲得的積分超過{1}	悪夢の試練でのスコアが{1}を超える	악몽 시련에서 획득한 점수가 {1}점을 초과하였습니다.	Score earned in Nightmare Trial exceeds {1}						0	2.6版本蜃梦笔谈
+ChallengeAgainButton	再次挑战	再次挑戰	再チャレンジ	재도전	Try Again						0	2.6版本蜃梦笔谈
+massage_MaxQualityTip	锻造后秘宝等级不再提高，是否继续	鍛造後秘寶等級不再提高，是否繼續	鍛造後、秘宝Lvをこれ以上上げることができなくなりますが、よろしいですか？	제작 후에는 보물 레벨이 상승하지 않습니다. 계속하시겠습니까?	The Treasure's level cannot be increased after crafting. Continue?						0	2.6版本蜃梦笔谈
+ChallengeType1	关卡用时：	關卡用時：	ステージクリア時間：	스테이지 소요 시간:	Completion Time: 						0	2.8版本蜃梦笔谈
+ChallengeType2	击败目标：	擊敗目標：	撃破した敵：	격파한 타깃:	Targets Defeated: 						0	2.8版本蜃梦笔谈
+ChallengeType3	累计造成伤害：	累計造成傷害：	累計与ダメージ：	누적 대미지:	Total DMG Dealt: 						0	2.8版本蜃梦笔谈
+HelpDes14	通过沙漠商队进入铸造处，可对秘宝进行锻造和淬炼，让其获得更好的属性	透過沙漠商隊進入鑄造處，可對秘寶進行鍛造和淬煉，讓其獲得更好的屬性	「砂漠の商隊」にある「鍛冶屋」では、秘宝を鍛造・焼入れすることで、より優れたステータスを付与できます。	사막 상인을 통해 제련소에 들어가면, 제작과 정제를 통해 보물의 속성을 향상시킬 수 있습니다.	Access the Arcane Anvil through Desert Caravan to craft and refine Treasures for better attributes.						0	2.8版本蜃梦笔谈
+HelpDes15	消耗漠北星砂，可以通过铸造处的锻造功能，将2个任意秘宝锻造成1个新的秘宝	消耗漠北星砂，可透過鑄造處的鍛造功能，將2個任意秘寶鍛造成1個新的秘寶	「鍛冶屋」では、「漠北の星砂」を使って秘宝2個を新たな1個に鍛造できます。	사막의 별모래를 소모하면 제련소의 제작 기능을 이용해 임의 2개의 보물을 새로운 보물 1개로 제작할 수 있습니다.	Consume Mobei Stardust to craft any two Treasures into a new one at Arcane Anvil.						0	2.8版本蜃梦笔谈
+HelpDes16	消耗漠北星砂，可以通过铸造处的淬炼功能，选择秘宝的任意增益效果进行刷新	消耗漠北星砂，可透過鑄造處的淬煉功能，選擇秘寶的任意增益效果進行刷新	「漠北の星砂」を消費し、「鍛冶屋」で焼入れを行うことで、秘宝のバフ効果を選択してリセットできます。	사막의 별모래를 소모하면 제련소의 정제 기능을 이용해 보물의 임의 버프 효과를 선택하여 리셋할 수 있습니다.	Consume Mobei Stardust to refine Treasures at Arcane Anvil, resetting any selected buffs.						0	2.8版本蜃梦笔谈
+AdventureDes105	你吃力地踩着被滚烫的软沙前进，突然感到脚下刺痛，你敏锐地察觉并及时卸力避免了外伤。在拨扫开沙子后才发现，踩中的是一片尖锐的白骨，在它的周围，还散落着字迹模糊的笔记与破旧的行囊。	你吃力地踩著滾燙的軟沙前進，突然感到腳下刺痛，你敏銳地察覺並及時卸力避免了外傷。在撥掃開沙子後才發現，踩中的是一片尖銳的白骨，在它的周圍，還散落著字跡模糊的筆記與破舊的行囊。	灼けつくような柔らかい砂を踏みしめながら進んでいると、突然、足に鋭い痛みが走った。踏み込む力を咄嗟に抜いて怪我を免れ、砂を払いのけると、鋭利な白骨が姿を現した。その周囲には、文字のかすれたノートと、ボロボロの荷物が散らばっていた。	당신이 뜨거운 모래를 힘겹게 밟으면서 앞으로 나아가던 중, 발밑에 따끔거리는 통증을 느꼈다. 다행히 당신은 본능적으로 체중을 분산시켜 외상을 모면했다. 모래를 쓸어내리자, 방금 밝은 것은 날카로운 해골 조각이라는 것을 발견했다. 그 주변에는 흐릿한 글씨의 노트와 낡은 가방이 놓여 있었다.	You trudge laboriously through the scorching sand when a sudden stab of pain shoots through your foot. Your sharp reflexes kick in — just in time to shift your weight and avoid serious injury. Brushing away the sand, you uncover the culprit: the jagged white bones of an unknown traveler. Scattered around it lie faded notes and a weathered pack.						0	2.8版本蜃梦笔谈
+AdventureDes106	又过去了一段时间，周遭的沙漠一望无垠，身边的景色丝毫没有变化。你不确定接下来的方向是否正确，坐下来思考了一会儿之后，你决定……	又過了一段時間，周圍的沙漠一望無垠，身邊的景色絲毫沒有變化。你不確定接下來的方向是否正確，坐下來思考了一會兒後，你決定……	さらに時が過ぎても、周囲の砂漠は果てしなく広がるばかりで、景色は一向に変わらなかった。進むべき方向が本当に正しいのか分からず、あなたはしばらく座り込み、思案を巡らせた末に——	다시금 시간이 흘렀지만, 주변의 사막은 끝없이 펼쳐졌고, 주변의 풍경은 조금의 변화도 찾아볼 수 없었다. 이 방향이 맞는지 확신할 수 없던 당신은 앉아서 잠시 생각한 후 결정을 내린다…	Time passes, yet the desert stretches endlessly around you, an unchanging expanse of sand in every direction. Unsure if you're still heading the right way, you pause, sitting down in the shifting dunes to gather your thoughts. After a moment of contemplation, you decide to...						0	2.8版本蜃梦笔谈
+StoryEvent5_1	翻找行囊	翻找行囊	荷物を探る	가방을 뒤지기	Search the traveler's pack						0	2.8版本蜃梦笔谈
+StoryEvent5_2	拾起笔记	拾起筆記	ノートを拾う	노트를 줍기	Pick up the notes						0	2.8版本蜃梦笔谈
+StoryEvent5_3	祭拜逝者	祭拜逝者	亡き者を弔う	죽은 자를 추모하기	Pay respect to the traveler						0	2.8版本蜃梦笔谈
+StoryEvent6_1	掉头返回	掉頭返回	引き返す	뒤돌아가기	Turn back						0	2.8版本蜃梦笔谈
+StoryEvent6_2	继续前进	繼續前進	引き続き進む	계속 전진하기	Keep going						0	2.8版本蜃梦笔谈
+StoryEvent6_3	等待日落	等待日落	日没を待つ	일몰을 기다리기	Wait for sunset						0	2.8版本蜃梦笔谈
+StoryDes5_1	你在破旧的行囊中仔细翻找，很幸运地找到了许多应急干粮，还意外获得了一个备用的指南针，这下可以放心地继续前进了。	你在破舊的行囊中仔細翻找，很幸運地找到了許多應急乾糧，還意外獲得了一個備用的指南針，這下可以放心地繼續前進了。	ボロボロの荷物を念入りに探ると、運よく、いくつかの非常食と予備のコンパスが見つかった。これで、少しは安心して前へ進めそうだ。	낡은 가방을 샅샅이 뒤진 결과, 다행히 적지 않은 양의 비상식량을 발견했고, 예비용 나침반도 하나 찾아냈다. 이제 안심하고 전진할 수 있을 것 같다.	You search the pack carefully and manage to find some food and a spare compass! With these in hand, you feel ready to press on.						0	2.8版本蜃梦笔谈
+StoryDes5_2	你小心翼翼地拍去笔记中夹杂的沙粒，并将撕裂的内页重新接好。你终于在整理好的笔记中发现了重要的信息，你确认了所探寻的秘密就在这片沙漠之中。	你小心翼翼地拍去筆記中夾雜的沙粒，並將撕裂的內頁重新接好。你終於在整理好的筆記中發現了重要的訊息，你確認了所探尋的秘密就在這片沙漠之中。	ノートに挟まった砂を丁寧にはらい、破れたページをつなぎ合わせた。やがて重要な情報が浮かび上がり、探し求めていた秘密は、この砂漠にあると確信した。	당신은 노트에 낀 모래를 조심스럽게 털어내고, 찢어진 페이지를 다시 붙였다. 마침내 당신은 정리된 노트에서 중요한 정보를 찾아냈고, 찾고 있던 비밀이 바로 이 사막에 있다는 것을 확인할 수 있게 되었다.	Carefully clearing the sand from between the pages and fitting the torn sheets back in place, you finally spot what you've been hoping for — evidence that the secret you're searching for is buried somewhere in this vast desert.						0	2.8版本蜃梦笔谈
+StoryDes5_3	你将白骨深深埋入沙土之下，并把所剩不多的水分出一点作为供奉，用来祭拜在此殒命的学者。水滴渗入软沙后，你听到了远处传来一些不太真实的响动。	你將白骨深深埋入沙土之下，並把所剩不多的水分出一點作為供奉，用來祭拜在此殞命的學者。水滴滲入軟沙後，你聽到了遠處傳來一些不太真實的響動。	白骨を砂に深く埋め、この地で命を落とした学者を弔うため、残り少ない水を供物として注いだ。水が柔らかな砂に染み込んでいくと、遠くから現実味のない音が微かに聞こえてきた。	당신은 해골을 모래 속에 깊이 묻고, 얼마 남지 않은 식수 중 일부를 떼어 이곳에서 목숨을 잃은 학자를 기리는 추모 의식을 치렀다. 물이 부드러운 모래로 스며들더니, 멀리서부터 비현실적인 소리가 들려왔다.	You bury the bones deep beneath the sand, offering a small share of your scarce water in tribute to the fallen scholar. As the drops sink into the soft dune, you hear faint, uncanny sounds echoing from afar.						0	2.8版本蜃梦笔谈
+StoryDes6_1	掉头之后，你根据记忆很快找到了返回的路。虽然度过了几天缺水的日子，但这次出行让你对这片沙漠更加了解，也许再次踏入这里，就会有新的收获。	掉頭之後，你根據記憶很快找到了返回的路。雖然度過了幾天缺水的日子，但這次出行讓你對這片沙漠更加了解，也許再次踏入這裡，就會有新的收穫。	引き返すと、記憶を頼りにすぐに元の道を見つけることができた。数日間の水不足を耐え抜いたこの旅を通して、砂漠への理解が深まった。次にここを訪れる時には、きっと新たな収穫があるに違いない。	돌아선 후, 당신은 기억에 따라 돌아가는 길을 빠르게 찾았다. 며칠 동안 물이 부족했지만, 이 여행을 통해 이 사막에 대해 더 많은 것을 알 수 있었다. 어쩌면 다시 이곳에 발을 디딜 때 새로운 수확이 있을지도 모른다.	You turn back and soon find your way. The days have been dry and harsh, but you've learned more about the desert. Maybe next time you return, it will reveal something new.						0	2.8版本蜃梦笔谈
+StoryDes6_2	你吃力地在沙漠中继续前行，干粮快要耗尽，水也几乎见底。烈日的直射让你突然一阵晕眩，你下意识低头躲避，再抬起头来时，面前的景色突然变得不一样了……	你吃力地在沙漠中繼續前行，乾糧快要耗盡，水也幾乎見底。烈日的直射讓你突然一陣暈眩，你下意識低頭躲避，再抬起頭來時，面前的景色突然變得不一樣了……	食料も尽きかけ、水も底を突こうとしている中、干からびた身体で砂漠を歩き続けていた。やがて、直射日光に目がくらみ、とっさに顔を伏せる。再び顔を上げたとき——目の前の風景は一変していた。	당신은 사막 속에서 힘겹게 앞으로 나아갔다. 식량은 거의 다 떨어졌고, 물도 거의 다 마셨다. 뜨거운 햇볕에 갑작스럽게 현기증이 났다. 햇볕을 피하고 싶었던 당신은 무의식적으로 고개를 숙였다. 다시 고개를 들었을 때, 눈앞에 펼쳐진 풍경은 어느새 달라졌다…	You trudge onward through the desert, your food nearly gone and water almost dry. The hot sun beats down relentlessly, and a wave of dizziness hits you. Instinctively, you lower your head. When you look up again, the landscape before you has suddenly changed...						0	2.8版本蜃梦笔谈
+StoryDes6_3	夜晚的空气让呼吸不再灼烧，你继续前进。在翻越沙丘后，又听到脚下传来响动。你挖开脚下的沙子，借由月光看清了埋在黄沙之下的东西。那是一扇雕刻工艺复杂的图书馆大门。大门上雕刻的文字在汲取月光后慢慢亮起幽蓝色的光。随之，你所处的大地开始震颤，大门缓缓打开。你不受控制地走入，逐渐听清了那声响，竟是一首悠扬的乐曲。	夜晚的空氣讓呼吸不再灼燒，你繼續前進。翻越沙丘後，又聽到腳下傳來響動。你挖開腳下的沙子，藉由月光看清了埋在黃沙底下的東西。那是一扇雕刻工藝複雜的圖書館大門。大門上雕刻的文字在汲取月光後慢慢亮起幽藍色的光。隨之，你所處的大地開始震顫，大門緩緩打開。你不受控制地走入，逐漸聽清了那聲響，竟是一首悠揚的樂曲。	夜の冷気により息苦しさが和らぎ、あなたは静かに歩みを進めていった。砂丘を越えたその時、足元から再び音がした。砂を掘り返すと、複雑な彫刻が施された図書館の大扉が姿を現す。扉に刻まれた文字は月光を吸収し、やがて青白く輝き始めた。それとともに、大地が震え、扉はゆっくりと開いていく。あなたはその中へと引き寄せられ、そして耳に届いたのは、どこか懐かしく、美しい旋律だった。	차가운 밤공기는 뜨거운 숨을 식혀 주었고, 당신은 계속하여 전진할 수 있었다. 모래 언덕을 넘은 후, 다시 발밑에서 소리가 들려왔다. 당신은 발밑의 모래를 파내어, 달빛을 빌려 모래 아래에 묻힌 물건을 살펴보았다. 그것은 정교한 문양이 새겨진 도서관 문이었다. 문에 새겨진 글자는 달빛을 흡수하더니, 서서히 희미한 푸른 빛을 발하기 시작했다. 그러더니 땅이 흔들리기 시작하고, 문이 천천히 열렸다. 몸이 저절로 이끌리듯 들어서니, 아득히 들리던 그 소리가 어느새 아름다운 곡조로 다가왔다.	The night air soothes your burning lungs as you press onward. After cresting another dune, a sound rises from beneath your feet. You dig into the sand, and under pale moonlight, you uncover an ornate library door, intricately carved. The engraved runes begin to glow faintly blue as they drink in the moonlight. Then, the ground beneath you trembles. Slowly, the great door creaks open. As if pulled by an unseen force, you step inside, where the sound becomes clear. It's music — a haunting, graceful melody.						0	2.8版本蜃梦笔谈
+EndingName5	回归重启	回歸重啟	リスタート	재시작	Perhaps This Time						0	2.8版本蜃梦笔谈
+EndingName6	烈日之谎	烈日之謊	烈日の嘘	태양의 거짓말	Scorching Mirage						0	2.8版本蜃梦笔谈
+EndingName7	遗迹图书馆	遺跡圖書館	遺跡図書館	유적 도서관	Forgotten Library						0	2.8版本蜃梦笔谈
+EndingDes5	再次站在起点上，也许这次就可以找到正确的路。	再次站在起點上，也許這次就可以找到正確的路。	再びスタート地点に立つ。今度こそ、正しい道を見つけ出せるかもしれない。	다시 출발점에 돌아왔다. 이번에는 올바른 길을 찾을 수 있을지도 모른다.	Back at the beginning, perhaps this time I'll find the correct way.						0	2.8版本蜃梦笔谈
+EndingDes6	虚假的楼宇不断出现，似乎再也找不到正确的方向了。	虛假的樓宇不斷出現，似乎再也找不到正確的方向了。	偽りの建物が次々と現れ、正しい道がもう二度と見つからないような気がしてきた。	가짜 건물이 계속해서 나타나고, 올바른 방향을 더 이상 찾을 수 없을 것 같다.	Illusory buildings keep emerging, and finding the right direction feels impossible.						0	2.8版本蜃梦笔谈
+EndingDes7	这里记载了生物进化的秘密与修复基因的技术，可以将生命无限延长。你带着这些信息离开了图书馆，却不知人类的未来究竟会走向何处。	這裡記載了生物演化的秘密與修正基因的技術，可以將生命無限延長。你帶著這些資訊離開了圖書館，卻不知人類的未來究竟會走向何處。	ここには、生物進化の秘密と、遺伝子修復の高度な技術が記されていた。記録によれば、生命は理論上、無限に延ばすことが可能だという。あなたはその情報を携え、図書館を後にした――だが、人類がこれから進むべき道は、もはや見えなくなっていた。	여기에는 생물학적 진화의 비밀과 유전자 복구 기술이 기록되어 있어, 생명을 무제한으로 연장할 수 있다. 당신은 이 정보를 가지고 도서관을 나갔지만, 인류의 미래가 어디로 향해 가는지는 알 수 없었다.	The library holds the secrets of biological evolution and gene repair technology, capable of granting eternal life. With this knowledge in hand, you leave the library with great anticipation, yet unsure of the future humanity will face.						0	2.8版本蜃梦笔谈
+UnlockDes1	1-3										1000	2.8版本蜃梦笔谈
+UnlockDes2	2-3										1000	2.8版本蜃梦笔谈

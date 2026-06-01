@@ -1,0 +1,5 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	琴诺			现在应该……往哪边？	0	
+2		0	茉莉安			我看到了军方那名狙击手的示意，是这边没错。	0	
+3		0	琴诺			还是无法避免战斗么……	0	

@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，最近感觉身体还好吗？	分析員，最近覺得身體還好嗎？	分析員、最近体の調子はどうだ？	분석가, 몸은 좀 어때?	Adjutant, how have you been feeling recently?						0	
+page1.2	嗯……有相关人员制定恢复方案，暂时可以控制身体里残留的泰坦物质……	嗯…有相關人員制定恢復方案，暫時可以控制身體裡殘留的泰坦物質…	まあ……体に残っているタイタン物質を一時的に制御するためのリハビリプランを作ってもらってるから……	관계자가 회복 방안을 마련해뒀어. 잠시 몸에 잔재된 타이탄 물질을 통제할 수 있는 상황이야…	Well... the researchers and medical staff have drawn up a recovery plan, so the Titagen left in my body can be controlled for now...						0	
+page1.3	不用勉强，用药的过程应该不轻松吧？	不用勉強，用藥的過程該不輕鬆吧？	無理するな。薬の影響で辛いんだろう？	너무 무리하지 마. 약을 복용하는 과정이 쉽지 않을 텐데.	Don't sugar-coat it. Taking the medicine probably really wears you down, right?						0	
+page1.4	嗯，是有点，但也还好。	嗯，是有點，但也還好。	それはあるけど、でもなんとか耐えられるよ。	응, 아무래도… 그래도 괜찮아.	Yeah, a little. But it's alright.						0	
+page1.5	其实那个时候，我会想起里芙所经历的神经疼痛。	其實那個時候，我會想起里芙所經歷的神經疼痛。	辛い時は、リフの神経痛のことを思い出すんだ。	사실 약을 복용할 때면 리브가 겪었던 신경통이 생각나거든.	Actually, when it hurts, I think about the nerve pain that you endured yourself.						0	
+page1.6	这样的体验也让我对里芙稍微有了更多的了解，所以，还好。	這樣的體驗也讓我對里芙稍微有了更多的了解，所以，還好。	この体験のおかげで、リフのことがもっとよく分かったから、だから大丈夫だよ。	이런 계기로 리브를 조금이나마 더 이해할 수 있어서 다행이야.	This experience has helped me understand what you've been through a bit better. So to me, it's worth it.						0	
+page1.7	能力的变化总是伴随着痛苦，对吗？	能力的改變總是伴隨著痛苦，對嗎？	……そうか……神経痛に襲われる度に、これは能力を得るために支払わなければならない、ささやかな代償なのだろうかと思う。能力の変化には常に苦痛が伴う。	능력의 변화에는 항상 그만한 고통이 따르는 것 같아.	Any growth in our ability comes with pain, right?						0	
+page1.8	也许吧。	也許吧。	かもな。	아무래도.	Maybe.						0	
+page1.9	之前为了控制住体内的泰坦物质，我曾学习过一种很特别的“遗忘”技巧，那感觉就像把一部分记忆“格式化”了一样。	之前為了控制住體內的泰坦物質，我曾學習過一種很特別的“遺忘”技巧，那感覺就像把一部分記憶“格式化”了一樣。	昔、体内のタイタン物質を制御するために、記憶の一部を「フォーマット」するような、特別な「忘れる」方法を学んだことがある。	예전에 체내에 있는 타이탄 물질을 통제하려고 굉장히 특별한 '망각' 기술을 배운 적이 있는데, 마치 기억의 일부를 '포맷'하는 느낌이었달까…	Before, I learned a really unique technique for "forgetting." It helped me control the Titagen inside me. It was almost like "formatting" pieces of my memory.						0	
+page1.10	如果疼痛的记忆也能被“格式化”，只留下已经变强的能力，大概很多人都会趋之若鹜吧。	如果疼痛的記憶也能被“格式化”，只留下已經變強的能力，大概很多人都會趨之若鶩吧。	苦痛の記憶も「フォーマット」して、強くなった能力だけを残せれば、多くの人が夢中になるだろう。	만약 고통스러운 기억을 포맷하고 강해진 능력만 남으면 많은 사람의 주의를 끌 수 있지 않을까?	If painful memories could be "formatted" too, leaving only powerful abilities behind, it would be wildly popular.						0	
+page1.11	把记忆“格式化”么……如果是为了防止精神崩溃，采取这种必要手段倒也不错。	把記憶“格式化”麼……如果是為了防止精神崩潰，採取這種必要手段倒也不錯。	記憶の「フォーマット」か……精神崩壊を防ぐためなら、そういう手段も悪くないかもしれない。	기억을 포맷한다라… 멘탈 붕괴를 막기 위해서라면 이런 필요한 수단을 동원하는 것도 나쁘지 않겠네.	"Formatting" memories, hmm? If it's necessary to avoid going crazy, it isn't a bad idea.						0	
+page1.12	不过，总觉得不管什么东西、只要存在，都会有它存在的意义。	不過，總覺得不管什麼東西、只要存在，都會有它存在的意義。	でも、あるものが存在する限り、そこには意味がある気がする。	하지만 무엇이든 존재하는 한 존재하는 의미는 있겠지.	But everything, regardless of what it is, has an inherent reason to exist.						0	
+page1.13	我有时候会觉得……正是因为心中存有疼痛的记忆，我才记得自己变强的理由。	我有時候會覺得……正是因為心中存有疼痛的記憶，我才記得自己變強的理由。	たまに思うんだ……心の中に痛みの記憶があるからこそ、自分が強くなった理由を思い出せる、と。	가끔은… 아픈 기억으로 인해 내가 강해졌다는 걸 알 수 있거든.	I sometimes feel like... remembering the painful memories in my heart is precisely what made me stronger.						0	
+page1.14	里芙……	里芙……	リフ……	리브…	Lyfe...						0	
+page1.15	总之，如果分析员恢复期间身体出现了什么异常，请一定要让我知道。	總之，如果分析員恢復期間身體出現了什麼異常，請一定要讓我知道。	とにかく、もしリハビリ中に体に何か異常があったら、必ず知らせてくれ。	어쨌든 분석가가 회복하는 동안 몸에 무슨 이상이 생기면 꼭 알려줘.	Anyway, if anything unusual happens to your body while you are recovering, please let me know.						0	

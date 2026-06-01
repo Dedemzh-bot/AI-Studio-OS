@@ -1,0 +1,16 @@
+﻿阵营	地图编号	描述	颜色RGBA	 UI底图配置·标签	 UI底图配置·头像	 UI底图配置·资产条	 UI底图配置·配置界面角标	模型材质配置
+Id	MapId	des	RGBA	ImgBg1	ImgBg2	ImgBg3	ImgBg4	Color
+101	1	地图1分析员	{0,1,1,1}	505	510	516	520	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01b_Inst.chess03_interact014_t01b_Inst'
+102	1	地图1敌方1	{1,0,0,1}	506	509	515	519	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01a_Inst.chess03_interact014_t01a_Inst'
+								
+201	2	地图2分析员	{0,1,1,1}	505	510	516	520	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01b_Inst.chess03_interact014_t01b_Inst'
+202	2	地图2敌方1	{1,0,1,1}	506	509	515	519	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01a_Inst.chess03_interact014_t01a_Inst'
+203	2	地图2敌方2	{1,1,0,1}	507	512	513	517	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01d_Inst.chess03_interact014_t01d_Inst'
+								
+301	3	地图3分析员	{0,1,1,1}	505	510	516	520	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01b_Inst.chess03_interact014_t01b_Inst'
+302	3	地图3敌方1	{1,0,1,1}	506	509	515	519	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01a_Inst.chess03_interact014_t01a_Inst'
+303	3	地图3敌方2	{1,1,0,1}	507	512	513	517	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01d_Inst.chess03_interact014_t01d_Inst'
+304	3	地图3敌方3	{1,0,0,1}	508	511	514	518	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01c_Inst.chess03_interact014_t01c_Inst'
+								
+401	4	地图4分析员和同伙	{0,1,1,1}	505	510	516	520	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01b_Inst.chess03_interact014_t01b_Inst'
+402	4	地图4BOSS	{1,0,0,1}	506	509	515	519	MaterialInstanceConstant'/Game/Environment/10Chess/chess03_interact014/chess03_interact014_t01a_Inst.chess03_interact014_t01a_Inst'

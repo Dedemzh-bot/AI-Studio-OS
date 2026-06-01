@@ -1,0 +1,14 @@
+Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	正常	sequence	player002_house_dialogue_serious01	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_serious01.player002_house_dialogue_serious01'	
+2	严肃	sequence	player002_house_dialogue_serious01	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_serious01.player002_house_dialogue_serious01'	
+3	微笑	sequence	player002_house_dialogue_smile01	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_smile01.player002_house_dialogue_smile01'	
+4	生气	sequence	player002_house_dialogue_angry01	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_angry01.player002_house_dialogue_angry01'	
+5	尴尬	sequence	player002_house_dialogue_cough	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_cough.player002_house_dialogue_cough'	
+6	消极2	sequence	player002_house_dialogue_depressed02	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_depressed02.player002_house_dialogue_depressed02'	
+7	消极3	sequence	player002_house_dialogue_depressed03	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_depressed03.player002_house_dialogue_depressed03'	
+8	灵机一动	sequence	player002_house_dialogue_idea	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_idea.player002_house_dialogue_idea'	
+9	扶额	sequence	player002_house_dialogue_touch01	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_touch01.player002_house_dialogue_touch01'	
+					
+					
+100	说话	sequence	player002_house_dialogue_talk01	AnimSequence'/Game/Characters/Girl/player002/AnimPart00/player002_house_dialogue_talk01.player002_house_dialogue_talk01'	

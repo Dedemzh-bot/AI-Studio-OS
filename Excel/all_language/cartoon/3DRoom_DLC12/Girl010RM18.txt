@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	怎么在这里发呆？	怎麼在這裡發呆？	どうした、こんなところでボーっとして？	왜 여기서 멍하니 있는 거야?	What are you doing here?						0	2.3版本随机事件
+page1.2	啊，分析员你来得正好！	啊，分析員你來得正好！	あっ、分析員、ちょうどいいところに！	아, 분석가, 마침 잘 왔어!	Oh, perfect timing, Adjutant!						0	2.3版本随机事件
+page1.3	这次在纺锤系统里看过北庭卫的风景之后，我难得有些干劲了。	這次在紡錘系統裡看過北庭衛的風景之後，我難得有些幹勁了。	「スピンドル」システムで北庭衛の風景を見た後、せっかくやる気が出たの。	이번에 방추 시스템에서 북정위의 광경을 본 후 나는 모처럼 의욕이 생겼어.	After seeing the Beiting scenery in the Spindle System, I'm actually feeling rather motivated.						0	2.3版本随机事件
+page1.4	训练的干劲？	訓練的幹勁？	訓練のやる気か？	의욕 넘치게 훈련을 한 거야?	Motivated... for training?						0	2.3版本随机事件
+page1.5	想什么呢，当然是——准备旅行攻略的干劲。	想什麼呢，當然是──準備旅行攻略的幹勁。	まさか。旅行プランを立てるやる気に決まってるでしょ。	그게 무슨 소리야, 당연히 여행 일정을 만든다고 그런 거지.	What? No way. I'm talking about planning the trip, obviously.						0	2.3版本随机事件
+page1.6	……是我想多了，所以你准备了什么？	……是我想太多了，所以你準備了什麼？	……私の思い過ごしか。じゃあどんなプランだ？	…내가 쓸데없는 생각을 한 거 같네, 그래서 뭘 그렇게 준비했는데?	...Right. So, what's the plan?						0	2.3版本随机事件
+page1.7	说到朔州，除了风景之外，第一时间想到的就是各种美食了吧？	說到朔州，拋開風景之外，第一時間想到的就是各種美食了吧？	朔州といえば、いろんなグルメが真っ先に思いつくよね？	삭주하면 풍경 말고도 제일 먼저 떠오르는 게 바로 여러가지 맛있는 음식들이지?	When it comes to Shuozhou, the food's gotta be the main event besides its scenery, right?						0	2.3版本随机事件
+page1.8	我已经规划好了一条可以品尝所有朔州美食的路线，先从海上出发……	我已經規劃好了一條可以品嚐所有朔州美食的路線，先從海上出發……	朔州グルメを全部食べられるルートを作ったから、まずは海から出発して……	그래서 모든 삭주의 음식을 맛볼 수 있는 루트를 생각해 뒀어, 일단은 바다에서 시작해서…	I've already mapped out a whole route to try all the best dishes — starting with a little journey out from the coast...						0	2.3版本随机事件
+page1.9	等等。	等等。	ちょっと待て。	잠깐.	Hold on a second.						0	2.3版本随机事件
+page1.11	要吃遍朔州所有地方的美食，至少也得花上几年时间。	要吃遍朔州所有地方的美食，至少也要花上幾年時間。	朔州グルメを全部食べるなんて、少なくとも数年はかかるだろう。朔州は広いから。	삭주 현지의 별미를 모두 먹어보려면 적어도 몇 년은 걸릴 거야.	It'd probably take a few years to try every regional cuisine of Shuozhou.						0	2.3版本随机事件
+page1.12	就算把你退休前的所有调休假期加起来，估计也不够。	就算把你退休前的所有特休假期加起來，估計也不夠。	退職前のすべての振替休暇を合わせても、足りないと思うよ。	은퇴 전의 모든 휴가를 다 합쳐도 부족할 거야.	Even if you add together all of your leave before retirement, it still probably won't be enough.						0	2.3版本随机事件
+page1.13	！！！	！！！	！！！	!!!	!!!						0	2.3版本随机事件
+page1.14	你既然知道朔州有很多好吃的，就应该想到它们都分布在不同地方吧。	你既然知道朔州有很多好吃的，就應該想到它們都分佈在不同地方吧。	朔州にグルメが多いと知ってるなら、それはきっと違う地域にあると先に思いつくと思うが。	삭주에 맛있는 게 많은 만큼, 그 음식들이 다른 지역에도 분포되어 있다는 거 잘 알고 있지?	If you've done your research on Shuozhou's food, you'd know it's spread across different regions.						0	2.3版本随机事件
+page1.15	我的计划完全破碎了……	我的計劃完全破碎了……	計画が全部崩れてしまった……	내 계획이 완전 다 틀어졌어…	There goes my perfect plan...						0	2.3版本随机事件

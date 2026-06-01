@@ -1,0 +1,3 @@
+条件ID(ID确定后不可修改）	//备注	条件类型	参数	开始触发标志	对应活动任务参数id(结束触发标志）
+ID	Comment	Type	Parameter	StartActiveParameter	ActiveParameter
+1	特殊房间：连续战斗x次	1	2	27	47

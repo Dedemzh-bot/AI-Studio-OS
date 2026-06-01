@@ -1,0 +1,231 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+chess03_ui_attname1	坚毅	堅毅	根性	강인	Determination						0	
+chess03_ui_attname2	智识	智識	知恵	지식	Intelligence						0	
+chess03_ui_attname3	温柔	溫柔	優しさ	온화	Tenderness						0	
+chess03_ui_attname4	魅力	魅力	魅力	매력	Charisma						0	
+chess03_ui_attname5	幽默	幽默	ユーモア	유머	Humor						0	
+chess03_ui_monday	星期一	星期一	月曜日	월요일	Monday						0	
+chess03_ui_tuesday	星期二	星期二	火曜日	화요일	Tuesday						0	
+chess03_ui_wednesday	星期三	星期三	水曜日	수요일	Wednesday						0	
+chess03_ui_thursday	星期四	星期四	木曜日	목요일	Thursday						0	
+chess03_ui_friday	星期五	星期五	金曜日	금요일	Friday						0	
+chess03_ui_saturday	星期六	星期六	土曜日	토요일	Saturday						0	
+chess03_ui_sunday	星期日	星期天	日曜日	일요일	Sunday						0	
+chess03_ui_reviewer	管理员	管理員	管理員	관리자	Admin						0	
+chess03_tips1	运动大会开始了，快和心动的少女一起去参加吧	運動大會開始了，快和心動的少女一起去參加吧	運動会が始まった、早速お気に入りの少女と一緒に参加しよう	운동회가 시작되었어요. 마음에 드는 소녀와 함께 참여해 보세요.	The Sports Fest is starting! Take the girl you love and have fun at the event!						0	
+chess03_tips2	烟花庆典开始了，快和心动的少女一起去看看吧	煙火慶典開始了，快和心動的少女一起去看看吧	花火大会が始まった、早速お気に入りの少女と一緒に見に行こう	불꽃놀이 축제가 시작되었어요, 마음에 드는 소녀와 함께 구경하러 가 보세요.	The Fireworks Show is starting! Take the girl you love and have fun at the event!						0	
+chess03_tips3	收纳挑战！帮少女整理好她们的鞋子吧~	收納挑戰！幫少女整理好她們的鞋子吧~	収納の時間だ！少女たちの靴の片付けを手伝ってあげよう！	수납 도전이에요! 소녀들의 신발을 정리해 주세요.	Sorting challenge! Help your girls sort their shoes~						0	
+chess03_tips4	分析员阁下，一周过去啦！少女等着和您约会呢~	分析員閣下，一週過去囉！少女等著和您約會呢~	分析員さん、一週間が過ぎました！少女たちはあなたとのデートを楽しみにしていますよ！	분석가님, 어느덧 일주일이 지났어요! 소녀들이 분석가님과 데이트를 하고 싶어 해요.	Adjutant, a week has passed! The girls are looking forward to a date with you~						0	
+chess03_tips5	分析员阁下，恭喜你完成了一轮心动派对体验！哇，有人给你发来了甜蜜邀约哦~	分析員閣下，恭喜你完成了一輪心動派對體驗！哇，有人寄來了甜蜜邀約~	分析員さん、おめでとうございます！トキメキ大合戦を1ラウンドクリアしました！おや、誰かが甘い誘いを送ってきましたよ！	분석가님, 바운스 파티 체험을 완료한 것을 축하드려요! 와, 누군가가 달콤한 초대장을 보냈어요.	Adjutant, congratulations on completing a round of Loverush Party! Look, someone has sent you an invitation~						0	
+chess03_tips6	分析员阁下，一周过去啦！你怎么好像……越来越迷人了！	分析員閣下，一週過去囉！你怎麼好像……越來越迷人了！	分析員さん、一週間が過ぎました！ますます……魅力的になりましたね！	분석가님, 어느덧 일주일이 지났어요! 어쩌면 이렇게나 매력적이신 거죠?	Adjutant, another week down, and you're looking... more charming by the day!						0	
+chess03_tips7	分析员阁下，恭喜你完成了一轮心动派对体验！小鹿乱撞的感觉很不错吧，要不要再来一次？	分析員閣下，恭喜你完成了一輪心動派對體驗！小鹿亂撞的感覺很不錯吧，要不要再來一次？	分析員さん、おめでとうございます！トキメキ大合戦を1ラウンドクリアしました！ドキドキして楽しいでしょう？もう一回しませんか？	분석가님, 바운스 파티 체험을 완료한 것을 축하드려요! 서툴게 행동하는 느낌이 나쁘지 않은대요? 다시 한 번 해보시겠어요?	Adjutant, congratulations on finishing a round of Loverush Party! Your heart skipped a beat, didn't it? Ready for another round?						0	
+chess03_tips8	是否使用%s，进入活动周？	是否使用%s，進入活動週？	%sを使用して、イベントウィークに入る？	%s을(를) 사용해 이벤트 주간에 진입하시겠습니까?	Confirm to use %s to start Special Week?						0	
+chess03_tips9	回答错误	回答錯誤	不正解	잘못된 답변	Wrong						0	
+chess03_loading1	社区加载中……	社區加載中……	コミュニティロード中……	커뮤니티를 불러오는 중…	Community loading...						0	
+chess03_loading2	甜蜜约会中……	甜蜜約會中……	ラブラブデート中……	달콤한 데이트 중…	Sweet date in progress...						0	
+chess03_holiday1name	运动大会	運動大會	運動会	운동회	Sports Fest						0	
+chess03_holiday1des	青春、汗水与肾上腺素，时刻把握每一次的心动。	青春、汗水與腎上腺素，時時把握每一次的心動。	青春、汗、アドレナリン、一つ一つのトキメキを胸に刻もう。	청춘, 땀, 아드레날린까지 더해 매 순간을 마음껏 즐겨보자.	Youth, sweat, and flowing adrenaline — the arena witnesses every heartbeat.						0	
+chess03_holiday2name	烟花庆典	煙火慶典	花火大会	불꽃놀이 축제	Fireworks Show						0	
+chess03_holiday2des	烟花升空爆裂时，可以把藏在心底的话都说出来~	煙火升空綻放時，可以把藏在心底的話都說出來~	花火が打ち上がる時、胸に秘めた言葉を打ち明けよう！	불꽃이 하늘 높이 솟아오를 때, 마음속에 간직해둔 말을 꺼내보자~	When the night skies are aglow with fireworks, it's the perfect time to speak from your heart~						0	
+chess03_btnname1	我全都要	我全都要	オールイン	전부 내 거야	I Want All						0	
+chess03_tabname1	定格一瞬	定格一瞬	その瞬間を撮る	모먼트	Moments						0	
+chess03_tabname2	成就收集	成就收集	アチーブメント収集	업적 수집	Achievements						0	
+chess03_dice_name	心动骰子	心動骰子	ときめきサイコロ	바운스 주사위	Loverush Dice						0	
+chess03_dice_des	用于在心动派对中进行社区体验。用骰子掷出不同的点数前进，能在心动派对中遇到各种未知的趣事。	用於在心動派對中進行社區體驗。用骰子擲出不同的點數前進，能在心動派對中遇到各種未知的趣事。	トキメキ大合戦のコミュニティに使用する。サイコロを振って出目に応じて進み、トキメキ大合戦で様々な未知の面白い体験ができる。	바운스 파티에서 커뮤니티 체험을 즐기는 데 사용된다. 주사위를 굴려 나오는 숫자에 따라 바운스 파티에서 다양한 일들을 경험할 수 있다.	Used to move around the community in Loverush Party. Roll the dice to advance and encounter unexpected fun events.						0	
+chess03_dice_use	心动派对 体验道具	心動派對 體驗道具	トキメキ大合戦 体験アイテム	바운스 파티 / 체험 아이템	Loverush Party item						0	
+lifuweekname1	手心温度										1000	
+lifuweekname2	认定的你										1000	
+lifuweekname3	深海遨游										1000	
+lifuweekname4	街机体验										1000	
+fenniweekname1	甜蜜定格										1000	
+fenniweekname2	对视挑战										1000	
+fenniweekname3	鬼屋心跳										1000	
+fenniweekname4	舌尖欢愉										1000	
+mlaweekname1	极限运动										1000	
+mlaweekname2	摩天游览										1000	
+mlaweekname3	味蕾共感										1000	
+mlaweekname4	恒久瞬间										1000	
+lifuspecial1name1	里芙特殊周1剧情1										1000	
+lifuspecial1name2	里芙特殊周1剧情2										1000	
+lifuspecial1name3	里芙特殊周1剧情3										1000	
+lifuspecial2name1	里芙特殊周2剧情1										1000	
+lifuspecial2name2	里芙特殊周2剧情2										1000	
+lifuspecial2name3	里芙特殊周2剧情3										1000	
+fennispecial1name1	芬妮特殊周1剧情1										1000	
+fennispecial1name2	芬妮特殊周1剧情2										1000	
+fennispecial1name3	芬妮特殊周1剧情3										1000	
+fennispecial2name1	芬妮特殊周2剧情1										1000	
+fennispecial2name2	芬妮特殊周2剧情2										1000	
+fennispecial2name3	芬妮特殊周2剧情3										1000	
+mlaspecial1name1	茉莉安特殊周1剧情1										1000	
+mlaspecial1name2	茉莉安特殊周1剧情2										1000	
+mlaspecial1name3	茉莉安特殊周1剧情3										1000	
+mlaspecial2name1	茉莉安特殊周2剧情1										1000	
+mlaspecial2name2	茉莉安特殊周2剧情2										1000	
+mlaspecial2name3	茉莉安特殊周2剧情3										1000	
+use_card03_des	乘坐派对空艇迅速升上高空，虚拟天幕上挂满色彩斑斓的星星，你决定摘下一颗	乘坐派對空艇迅速升上高空，虛擬天幕上掛滿色彩斑斕的星星，你決定摘下一顆	パーティー飛空艇に乗って空に飛ぶと、バーチャルの空にカラフルな星が散らばっており、あなたは1つ摘むことにした	파티 비행선을 타고 고공으로 올라가니 가상 천장에 화려한 별들이 가득 달려있는 것을 볼 수 있었다. 당신은 그중 한 개를 따내기로 결정한다.	You took the party skyskiff to reach the virtual sky filled with glittering stars, and decided to take one:						0	
+use_card05_des	心动派对狂欢日开启，受到狂欢气氛感染，分析员决定为少女们表演一支	心動派對狂歡日開啟，受到狂歡氣氛感染，分析員決定為少女們表演一支	トキメキ大合戦カーニバルが開放された。楽しげな雰囲気に当てられ、分析員は少女たちのためにパフォーマンスをすることにした	바운스 파티가 시작되었다. 축제 분위기에 영향을 받아 분석가는 소녀들을 위해 춤을 추기로 결정한다.	The Loverush Party Carnival is here! Caught up in the festive spirit, you decided to perform a dance for the girls: 						0	
+use_card03_Aswer1	闪亮的金色星	閃亮的金色星	ピカピカした金色の星	빛나는 금색별	Shiny Gold Star						0	
+use_card03_Aswer2	深邃的蓝色星	深邃的藍色星	深い青色の星	깊은 푸른색별	Azure Blue Star						0	
+use_card03_Aswer3	温柔的粉色星	溫柔的粉色星	優しいピンク色の星	따듯한 분홍색별	Sweet Pink Star						0	
+use_card03_Aswer4	迷人的银色星	迷人的銀色星	魅力的な銀色の星	매혹적인 은색별	Dazzling Silver Star						0	
+use_card03_Aswer5	五彩斑斓的黑色星	五彩斑斕的黑色星	カラフルな黒色の星	다채로운 검정색별	Vibrant Black Star						0	
+use_card05_Aswer1	霹雳舞	霹靂舞	ブレイクダンス	비보이 댄스	Breakdance						0	
+use_card05_Aswer2	古典舞	古典舞	クラシックダンス	클래식 댄스	Classical dance						0	
+use_card05_Aswer3	自由舞	自由舞	フリーダンス	자유 댄스	Hip-hop dance						0	
+use_card05_Aswer4	机械舞	機械舞	ロボットダンス	기계 댄스	The robot						0	
+use_card05_Aswer5	爵士舞	爵士舞	ジャズダンス	재즈 댄스	Jazz dance						0	
+TxtRichManLoveTips1	%s剩余回合：%d	%s剩餘回合：%d	%s残りのターン：%d	%s 남은 턴: %d	%s turns left: %d						0	
+TxtRichManLoveTips2	是否选择此心动瞬间？	是否選擇此心動瞬間？	このトキメキの瞬間を選択しますか？	바운스 타임을 선택하시겠습니까?	Confirm to select this Loverush Moment?						0	
+TxtRichManLoveTips3	是否选择此社区成就？	是否選擇此社區成就？	このコミュニティアチーブメントを選択しますか？	커뮤니티 업적을 선택하시겠습니까?	Confirm to select this Community Achievement?						0	
+TxtRichManLoveTips4	%d天后进入狂欢模式，无需骰子也可前进	%d天后進入狂歡模式，無需骰子也可前進	%d日後にカーニバルモードが開放され、サイコロなしでも進める	%d일 후에는 축제 모드로 진입해 주사위가 없이도 전진할 수 있습니다.	Carnival Mode starts in %d day(s), where you can advance without using Dice.						0	
+TxtRichManLoveTips5	里芙倾向坚毅和智识	里芙傾向堅毅和智識	リフは根性と知恵が好き	리브는 강인함과 지식을 선호합니다.	Lyfe admires Determination and Intelligence.						0	
+TxtRichManLoveTips6	芬妮倾向温柔和魅力	芬妮傾向溫柔和魅力	ファニーは優しさと魅力が好き	페니는 온화와 매력을 선호합니다.	Fenny admires Tenderness and Charisma.						0	
+TxtRichManLoveTips7	茉莉安倾向幽默和智识	茉莉安傾向幽默和智識	マリアンはユーモアと知恵が好き	마리안은 유머와 지식을 선호합니다.	Marian admires Humor and Intelligence.						0	
+TxtRichManLoveTips8	可以根据少女们的倾向提升自己的属性	可以根據少女們的傾向來提升自己的屬性	少女たちの好みに合わせてステータスを強化可能	소녀들의 선호도에 따라 자신의 속성을 향상시킬 수 있습니다.	Note the girls' attribute preferences!						0	
+TxtRichManLoveTips9	每周末与少女约会可提升心动指数哦！	每週末與少女約會可提升心動指數哦！	少女たちのトキメキ値を上げよう！	소녀들의 마음을 움직이는 바운스 지수를 올려보세요!	Weekend dates can boost Loverush Index!						0	
+TxtRichManLoveTips10	已获得此社区成就，是否再次查看？	已獲得此社區成就，是否再次查看？	獲得済みのコミュニティアチーブメントです、もう一度チェックしますか？	속성을 향상시키면 더 다양한 커뮤니티 업적을 오픈할 수 있습니다.	Already obtained this community achievement. View again?						0	
+TxtRichManLoveTips11	已获得此心动瞬间，是否再次查看？	已獲得此心動瞬間，是否再次查看？	このトキメキ瞬間は獲得済みです。もう一度確認しますか？	바운스 타임 획득, 다시 확인하시겠습니까?	Already obtained this Loverush Moment. View again?						0	
+TxtRichManLoveEnd1_Name	天下无双的分析员	天下無雙的分析員	世界一の分析員	천하무쌍의 분석가	Unparalleled Adjutant						0	
+TxtRichManLoveEnd2_Name	模范长官	模範長官	模範的な長官	모범이 되는 장관	Model Commander						0	
+TxtRichManLoveEnd3_Name	心动大赢家	心動大贏家	トキメキウィナー	바운스 파티 수상자	Loverush Winner						0	
+TxtRichManLoveEnd4_Name	妙语鼓励师	妙語鼓勵師	気の利く励ましの達人	재치 있는 격려사	Witty Motivator						0	
+TxtRichManLoveEnd5_Name	心理咨询师	心理諮商師	心理カウンセラー	심리 상담사	Emotional Counselor						0	
+TxtRichManLoveEnd6_Name	语言专家	語言專家	言葉のプロ	언어 전문가	Language Expert						0	
+TxtRichManLoveEnd7_Name	生活艺术家	生活藝術家	ライフアーティスト	삶의 예술가	Life Artist						0	
+TxtRichManLoveEnd8_Name	派对策划师	派對策劃師	パーティープランナー	파티 기획자	Party Planner						0	
+TxtRichManLoveEnd9_Name	品质收藏家	品質收藏家	センスのいいコレクター	품질 수집가	Quality Collector						0	
+TxtRichManLoveEnd10_Name	杰出探险家	傑出探險家	傑出した探検家	뛰어난 탐험가	Excellent Explorer						0	
+TxtRichManLoveEnd11_Name	峭壁攀登者	峭壁攀爬者	絶壁を登る者	암벽 등반가	Cliff Climber						0	
+TxtRichManLoveEnd12_Name	极限新星	極限新星	極限の新星	익스트림 스포츠 전문가	Extreme Star						0	
+TxtRichManLoveEnd13_Name	微笑勇者	微笑勇者	スマイル勇者	미소 용사	Smiling Hero						0	
+TxtRichManLoveEnd14_Name	派对达人-守护者	派對達人-守護者	パーティー達人-守護者	파티의 달인-수호자	Party Expert - Protector						0	
+TxtRichManLoveEnd15_Name	派对达人-名侦探	派對達人-名偵探	パーティー達人-名探偵	파티의 달인-명탐정	Party Expert - Detective						0	
+TxtRichManLoveEnd16_Name	派对达人-倾听者	派對達人-傾聽者	パーティー達人-傾聴者	파티의 달인-경청자	Party Expert - Listener						0	
+TxtRichManLoveEnd17_Name	派对达人-领导者	派對達人-領導者	パーティー達人-リーダー	파티의 달인-지도자	Party Expert - Leader						0	
+TxtRichManLoveEnd18_Name	派对达人-喜剧演员	派對達人-喜劇演員	パーティー達人-コメディアン	파티의 달인-코미디 배우	Party Expert - Comedian						0	
+TxtRichManLoveEnd19_Name	静谧深夜	靜謐深夜	静かな夜	고요한 심야	Quiet Night						0	
+TxtRichManLoveEndName20	背向拥抱	背向擁抱	背中合わせの抱擁	백허그	Back Embrace						0	
+TxtRichManLoveEndName21	星间共舞	星間共舞	星の間で舞い踊る	별과 함께 추는 춤	Dance Among Stars						0	
+TxtRichManLoveEndName22	柔软痕迹	柔軟痕跡	柔らかい痕跡	부드러운 흔적	Soft Marks						0	
+TxtRichManLoveEndName23	三重蜜语	三重蜜語	重なった愛の囁き	세 번의 달콤함	Triple Sweet Talks						0	
+TxtRichManLoveEndDes1	空白格子属性数值有100%的概率增加5	空白格子屬性數值有100%的機率增加5	空白マスのステータスは100%の確率で+5	빈 칸의 속성 수치가 100% 확률로 5 증가합니다.	Increases attributes of blank spaces by 5						0	
+TxtRichManLoveEndDes2	事件格子属性数值有100%的概率增加5	事件格子屬性數值有100%的機率增加5	イベントマスのステータスは100%の確率で+5	사건 칸의 속성 수치가 100% 확률로 5 증가합니다.	Increases attributes of event spaces by 5						0	
+TxtRichManLoveEndDes3	开局时，初始卡牌增加1张	開局時，初始卡牌增加1張	開始時、初期カード+1	시작 시, 기본 카드가 1장 증가합니다.	At start of game, increases initial cards by 1						0	
+TxtRichManLoveEndDes4	活动周期间，所有格子的属性数值增加2	活動週期間，所有格子的屬性數值增加2	イベントウィーク期間中、全てのマスのステータス+2	이벤트 주기에는 모든 칸의 속성 수치가 2 증가합니다.	During Special Week, increase attributes of all spaces by 2						0	
+TxtRichManLoveEndDes5	最后一周所有格子的属性数值提升20%	最後一週所有格子的屬性數值提升20%	最後の1週間で全てのマスのステータス+20%	마지막 주에는 모든 칸의 속성 수치가 20% 증가합니다.	During the last week, increase attributes of all spaces by 20%						0	
+TxtRichManLoveEndDes6	活动周期间，所有格子的属性数值增加2	活動週期間，所有格子的屬性數值增加2	イベントウィーク期間中、全てのマスのステータス+2	이벤트 주기에는 모든 칸의 속성 수치가 2 증가합니다.	During Special Week, increase attributes of all spaces by 2						0	
+TxtRichManLoveEndDes7	最后一周所有格子的属性数值提升20%	最後一週所有格子的屬性數值提升20%	最後の1週間で全てのマスのステータス+20%	마지막 주에는 모든 칸의 속성 수치가 20% 증가합니다.	During the last week, increase attributes of all spaces by 20%						0	
+TxtRichManLoveEndDes8	活动周期间，所有格子的属性数值增加2	活動週期間，所有格子的屬性數值增加2	イベントウィーク期間中、全てのマスのステータス+2	이벤트 주기에는 모든 칸의 속성 수치가 2 증가합니다.	During Special Week, increase attributes of all spaces by 2						0	
+TxtRichManLoveEndDes9	最后一周所有格子的属性数值提升20%	最後一週所有格子的屬性數值提升20%	最後の1週間で全てのマスのステータス+20%	마지막 주에는 모든 칸의 속성 수치가 20% 증가합니다.	During the last week, increase attributes of all spaces by 20%						0	
+TxtRichManLoveEndDes10	活动周期间，所有格子的属性数值增加2	活動週期間，所有格子的屬性數值增加2	イベントウィーク期間中、全てのマスのステータス+2	이벤트 주기에는 모든 칸의 속성 수치가 2 증가합니다.	During Special Week, increase attributes of all spaces by 2						0	
+TxtRichManLoveEndDes11	最后一周所有格子的属性数值提升20%	最後一週所有格子的屬性數值提升20%	最後の1週間で全てのマスのステータス+20%	마지막 주에는 모든 칸의 속성 수치가 20% 증가합니다.	During the last week, increase attributes of all spaces by 20%						0	
+TxtRichManLoveEndDes12	活动周期间，所有格子的属性数值增加2	活動週期間，所有格子的屬性數值增加2	イベントウィーク期間中、全てのマスのステータス+2	이벤트 주기에는 모든 칸의 속성 수치가 2 증가합니다.	During Special Week, increase attributes of all spaces by 2						0	
+TxtRichManLoveEndDes13	最后一周所有格子的属性数值提升20%	最後一週所有格子的屬性數值提升20%	最後の1週間で全てのマスのステータス+20%	마지막 주에는 모든 칸의 속성 수치가 20% 증가합니다.	During the last week, increase attributes of all spaces by 20%						0	
+TxtRichManLoveEndDes14	开局时，坚毅属性数值增加10	開局時，堅毅屬性數值增加10	開始時、根性+10	시작 시, 강인 속성 수치가 10 증가합니다.	At start of game, increases Determination attribute by 10						0	
+TxtRichManLoveEndDes15	开局时，智识属性数值增加10	開局時，智識屬性數值增加10	開始時、知恵+10	시작 시, 지식 속성 수치가 10 증가합니다.	At start of game, increases Intelligence attribute by 10						0	
+TxtRichManLoveEndDes16	开局时，温柔属性数值增加10	開局時，溫柔屬性數值增加10	開始時、優しさ+10	시작 시, 온화 속성 수치가 10 증가합니다.	At start of game, increases Tenderness attribute by 10						0	
+TxtRichManLoveEndDes17	开局时，魅力属性数值增加10	開局時，魅力屬性數值增加10	開始時、魅力+10	시작 시, 매력 속성 수치가 10 증가합니다.	At start of game, increases Charisma attribute by 10						0	
+TxtRichManLoveEndDes18	开局时，幽默属性数值增加10	開局時，幽默屬性數值增加10	開始時、ユーモア+10	시작 시, 유머 속성 수치가 10 증가합니다.	At start of game, increases Humor attribute by 10						0	
+TxtRichManLoveEndDes19	全部属性的数值增加2	全部屬性的數值增加2	全ステータス+2	모든 속성의 수치가 2 증가합니다.	Increases all attributes by 2						0	
+TxtRichManLoveEndDes20	全部属性的数值增加30	全部屬性的數值增加30	全ステータス+30	모든 속성의 수치가 30 증가합니다.	Increases all attributes by 30						0	
+TxtRichManLoveEndDes21	全部属性的数值增加30	全部屬性的數值增加30	全ステータス+30	모든 속성의 수치가 30 증가합니다.	Increases all attributes by 30						0	
+TxtRichManLoveEndDes22	全部属性的数值增加30	全部屬性的數值增加30	全ステータス+30	모든 속성의 수치가 30 증가합니다.	Increases all attributes by 30						0	
+TxtRichManLoveEndDes23	开局时，初始卡牌增加1张	開局時，初始卡牌增加1張	開始時、初期カード+1	시작 시, 기본 카드가 1장 증가합니다.	At start of game, increases initial cards by 1						0	
+TxtRichManLoveEndUnlockDes1	里芙心动指数满级	里芙心動指數滿級	リフのトキメキ値を最大にする	리브 바운스 지수 최대 레벨	Lyfe's Loverush Index at max						0	
+TxtRichManLoveEndUnlockDes2	芬妮心动指数满级	芬妮心動指數滿級	ファニーのトキメキ値を最大にする	페니 바운스 지수 최대 레벨	Fenny's Loverush Index at max						0	
+TxtRichManLoveEndUnlockDes3	茉莉安心动指数满级	茉莉安心動指數滿級	マリアンのトキメキ値を最大にする	마리안 바운스 지수 최대 레벨	Marian's Loverush Index at max						0	
+TxtRichManLoveEndUnlockDes4	？？？	？？？	？？？	???	???						0	
+TxtRichManLoveEndUnlockDes5	？？？	？？？	？？？	???	???						0	
+TxtRichManLoveEndUnlockDes6	？？？	？？？	？？？	???	???						0	
+TxtRichManLoveEndUnlockDes7	？？？	？？？	？？？	???	???						0	
+TxtRichManLoveEndUnlockDes8	温柔≥350，幽默≥350	溫柔≥350，幽默≥350	優しさ350以上、ユーモア350以上	온화≥350, 유머≥350	Tenderness ≥350, Humor ≥350						0	
+TxtRichManLoveEndUnlockDes9	智识≥350，温柔≥350	智識≥350，溫柔≥350	知恵350以上、優しさ350以上	지식≥350, 온화≥350	Intelligence ≥350, Tenderness ≥350						0	
+TxtRichManLoveEndUnlockDes10	智识≥350，幽默≥350	智識≥350，幽默≥350	知恵350以上、ユーモア350以上	지식≥350, 유머≥350	Intelligence ≥350, Humor ≥350						0	
+TxtRichManLoveEndUnlockDes11	智识≥350，魅力≥350	智識≥350，魅力≥350	知恵350以上、魅力350以上	지식≥350, 매력≥350	Intelligence ≥350, Charisma ≥350						0	
+TxtRichManLoveEndUnlockDes12	温柔≥350，魅力≥350	溫柔≥350，魅力≥350	優しさ350以上、魅力350以上	온화≥350, 매력≥350	Tenderness ≥350, Charisma ≥350						0	
+TxtRichManLoveEndUnlockDes13	魅力≥350，幽默≥350	魅力≥350，幽默≥350	魅力350以上、ユーモア350以上	매력≥350, 유머≥350	Charisma ≥350, Humor ≥350						0	
+TxtRichManLoveEndUnlockDes14	坚毅≥350，智识≥350	堅毅≥350，智識≥350	根性350以上、知恵350以上	강인≥350, 지식≥350	Determination ≥350, Intelligence ≥350						0	
+TxtRichManLoveEndUnlockDes15	坚毅≥350，温柔≥350	堅毅≥350，溫柔≥350	根性350以上、優しさ350以上	강인≥350, 온화≥350	Determination ≥350, Tenderness ≥350						0	
+TxtRichManLoveEndUnlockDes16	坚毅≥350，魅力≥350	堅毅≥350，魅力≥350	根性350以上、魅力350以上	강인≥350, 매력≥350	Determination ≥350, Charisma ≥350						0	
+TxtRichManLoveEndUnlockDes17	坚毅≥350，幽默≥350	堅毅≥350，幽默≥350	根性350以上、ユーモア350以上	강인≥350, 유머≥350	Determination ≥350, Humor ≥350						0	
+TxtRichManLoveEndUnlockDes18	坚毅≥180	堅毅≥180	根性180以上	강인≥180	Determination ≥180						0	
+TxtRichManLoveEndUnlockDes19	智识≥180	智識≥180	知恵180以上	지식≥180	Intelligence ≥180						0	
+TxtRichManLoveEndUnlockDes20	温柔≥180	溫柔≥180	優しさ180以上	온화≥180	Tenderness ≥180						0	
+TxtRichManLoveEndUnlockDes21	魅力≥180	魅力≥180	魅力180以上	매력≥180	Charisma ≥180						0	
+TxtRichManLoveEndUnlockDes22	幽默≥180	幽默≥180	ユーモア180以上	유머≥180	Humor ≥180						0	
+TxtRichManLoveEndUnlockDes23	无	無	無し	없음	None						0	
+TxtRichManLoveGroupName1	少女钟爱之人	少女鐘愛之人	少女の愛する人	소녀들의 가장 좋아하는 사람	Girl's Crush						0	
+TxtRichManLoveGroupName2	心动社区达人	心動社區達人	トキメキコミュニティの達人	바운스 커뮤니티의 달인	Loverush Community Expert						0	
+TxtRichManLoveGroupName3	天下第一之人	天下第一之人	世界一の人	천하제일의 사람	Best Guy in the World						0	
+TxtRichManLoveGroupName4	无所不通之人	無所不通之人	何でも知ってる人	모든 것을 통달한 사람	All-Knowing Guy						0	
+TxtRichManLoveGroupName5	热爱生活之人	熱愛生活之人	生活を愛する人	삶을 사랑하는 사람	Life Aficionado						0	
+TxtRichManLoveGroupDes1	全部属性的数值增加15	全部屬性的數值增加15	全ステータス+15	모든 속성의 수치가 15 증가합니다.	Increases all attributes by 15						0	
+TxtRichManLoveGroupDes2	最后一周所有格子的属性数值提升100%	最後一週所有格子的屬性數值提升100%	最後の1週間で全てのマスのステータス+100%	마지막 주에는 모든 칸의 속성 수치가 100% 증가합니다.	During the last week, attributes increase by 100%						0	
+TxtRichManLoveGroupDes3	活动周期间，所有格子的属性数值增加10	活動週期間，所有格子的屬性數值增加10	イベントウィーク期間中、全てのマスのステータス+10	이벤트 주기에는 모든 칸의 속성 수치가 10 증가합니다.	During Special Week, attributes increase by 10						0	
+TxtRichManLoveGroupDes4	所有格子的属性数值有100%的概率增加5	所有格子的屬性數值有100%的機率增加5	すべてのマスのステータスは100%の確率で+5	모든 칸의 속성 수치가 100% 확률로 5 증가합니다.	Increases attributes of all spaces by 5						0	
+TxtRichManLoveGroupDes5	全部属性的数值增加52	全部屬性的數值增加52	全ステータス+52	모든 속성의 수치가 52 증가합니다.	Increases all attributes by 52						0	
+TxtRichManLovebuffName1	开局时，属性数值增加：	開局時，屬性數值增加：	開始時、ステータスアップ：	시작 시, 속성 수치 증가:	At start of game, increases attributes by: 						0	
+TxtRichManLovebuffName2	开局时，初始卡牌增加：	開局時，初始卡牌增加：	開始時、初期カード枚数アップ：	시작 시, 기본 카드 증가:	At start of game, increases initial cards by: 						0	
+TxtRichManLovebuffName3	最后一周属性数值提升：	最後一週屬性數值提升：	最後の1週間でステータスアップ：	마지막 주 속성 수치 증가:	During the last week, attributes increase by: 						0	
+TxtRichManLovebuffName4	空白格子属性数值增加：	空白格子屬性數值增加：	空白マスのステータスアップ：	빈 칸 속성 수치 증가:	Increases attributes of blank spaces by: 						0	
+TxtRichManLovebuffName5	事件格子属性数值增加：	事件格子屬性數值增加：	イベントマスのステータスアップ：	사건 칸 속성 수치 증가:	Increases attributes of event spaces by: 						0	
+TxtRichManLovebuffName6	活动周期间，属性数值增加：	活動週期間，屬性數值增加：	イベントウィーク期間中、ステータスアップ：	이벤트 주기, 속성 수치 증가:	During Special Week, attributes increase by: 						0	
+TxtRichManLovebuffDes1	坚毅+{1}，智识+{2}，温柔+{3}，魅力+{4}，幽默+{5}	堅毅+{1}，智識+{2}，溫柔+{3}，魅力+{4}，幽默+{5}	根性+{1}、知恵+{2}、優しさ+{3}、魅力+{4}、ユーモア+{5}	강인+{1}, 지식+{2}, 온화+{3}, 매력+{4}, 유머+{5}	Determination+{1}, Intelligence+{2}, Tenderness+{3}, Charisma+{4}, Humor+{5}						0	
+TxtRichManLovebuffDes2	{1}张	{1}張	{1}枚	{1}장	{1}						0	
+TxtRichManLovebuffDes3	{1}%	{1}%	{1}%	{1}%	{1}%						0	
+TxtRichManLovebuffDes4	{1}%的概率增加{2}	{1}%的機率增加{2}	{1}%の確率で+{2}	{1}% 확률로 {2} 증가	{1}% chance to increase by {2}						0	
+TxtRichManLoveEnd1_des	此时此刻对您来说，选择已经没那么重要了，大家一起把日子过好才最重要的。只要她们都在身边，就没有什么解决不了的事情。	此時此刻對您來說，選擇已經沒那麼重要了，大家一起把日子過好才最重要的。只要她們都在身邊，就沒有什麼解決不了的事。	今のあなたにとって、誰を選ぶかはもはやどうでも良くなっています。皆で仲良く一緒に過ごすのが一番大事なことです。彼女たちがそばにいてくれれば、解決できないことなどありません。	지금 이 순간, 선택은 의미가 없어요. 모두가 함께 행복한 삶을 사는게 가장 중요하다고 볼 수 있죠. 그녀들이 곁에 있는 한 해결할 수 없는 일은 없을 거예요.	At this point, your decision isn't what's important — the priority is for everyone to enjoy the days together. As long as they are by your side, no issue is insurmountable.						0	
+TxtRichManLoveEnd2_des	少女们又在偷偷观察着自己心仪的那个男人了。人生时常伴随着各种各样的选择，但此时您却做出了最与众不同的那个。或许，这就是她们对您心动的原因。	少女們又在偷偷觀察著心儀的那個男人了。人生時常伴隨著各種各樣的選擇，但此時您卻做出了最與眾不同的那個。或許，這就是她們對您心動的原因。	少女たちはまた自分のお気に入りの男をこっそりと観察しています。人生の中では常に様々な選択をしなければなりませんが、あなたは最も特別な選択をしました。それが彼女たちがあなたに惹かれた理由かもしれません。	소녀들은 자신이 마음에 드는 남성을 몰래 쳐다보고 있었어요. 인생은 종종 다양한 선택을 동반하지만, 지금 이 순간, 분석가님은 굉장히 특별한 선택을 했죠. 어쩌면 이런 모습 때문에 소녀들이 분석가님한테 더 끌리는 거 아닐까요?	The girls are secretly watching the guy they like again. Life involves making various decisions, and you have made a very special one this time. Maybe that's why they are attracted to you.						0	
+TxtRichManLoveEnd3_des	把握住每一次心动，体验好每一天。如此高质量完成心动派对的分析员，您是名副其实的心动大赢家。	把握住每一次心動，體驗好每一天。如此高品質完成心動派對的分析員，您是名副其實的心動大贏家。	ひとつひとつのときめきをしっかりと覚えて、毎日を真剣に過ごす。これほどの完成度でトキメキ大合戦をクリアした分析員さんは、その名に恥じないときめきウィナーです。	매 순간에 설레는 감정을 붙잡고 하루 하루를 체험해 보세요! 이렇게 높은 퀄리티로 바운스 파티를 완료하시다니… 역시 바운스 파티의 수상자시네요!	You grasp every heartbeat and experience every day. Having completed the Loverush Party so exceptionally, you are a true winner in the game of love.						0	
+TxtRichManLoveEnd4_des	温柔幽默，妙语连珠。您口中斟酌的每句话，都是对少女们一针超有效的情绪鼓励剂。	溫柔幽默，妙語連珠。您口中斟酌的每句話，都是對少女們一針超有效的情緒鼓勵劑。	優しくて面白い、いつも当意即妙の言葉が次々に飛び出す。あなたが選んだ全ての言葉は、少女たちにとっては効果的な励ましの薬です。	다정하고 유머러스하게 재치있는 말을 하면 소녀들에게 늘 정서적으로 안정적일 수 있게 도와줘요.	You are full of gentle humor and witty remarks. Every word you speak can really boost the girls' moods.						0	
+TxtRichManLoveEnd5_des	绝佳的聪明才智加上满分的爱意温柔，您的话一定能准确纾解少女所有的忧愁。	絕佳的聰明才智加上滿分的愛意溫柔，您的話一定能準確紓解少女所有的憂愁。	優れた知性に愛情に満ちた優しさ、あなたならきっと少女の全ての憂いを払うことができるでしょう。	뛰어난 지성과 사랑스러운 마음으로 말을 하면 반드시 소녀들의 슬픔을 덜어줄 거예요.	You have excellent intelligence, full of love and tenderness. Your words are able to precisely alleviate the young girl's sorrows.						0	
+TxtRichManLoveEnd6_des	您一言一行都透露着风趣潇洒，有您在的地方永远不会冷场，下一秒永远都是猜不透的惊喜。	您一言一行都透露著風趣瀟灑，有您在的地方永遠不會冷場，下一秒永遠都是猜不透的驚喜。	あなたの一挙一動から面白さとスマートさが滲み出ています。あなたがいる場所は決して白けることなく、次の瞬間には常に想像できないサプライズを与えてくれます！	분석가님의 말과 행동은 유쾌하고 세련된 매력을 풍겨요. 분석가님이 있는 곳은 언제나 활력이 넘치고 예측할 수 없는 놀라움으로 가득해요.	Your words and actions are consistently impressive, with a touch of humor and style. Your remarks are consistently surprising and never dull.						0	
+TxtRichManLoveEnd7_des	在与少女相处的每一天里，您自己的生活态度给少女们展现生活中的点滴惊喜。不虚度每个时刻，成就了您生活艺术家的身份。	在與少女相處的每一天裡，您自己的生活態度給少女們展現生活中的點滴驚喜。不虛度每個時刻，成就了您生活藝術家的身分。	少女と一緒に過ごす毎日の中で、あなたは自分の人生に対する態度を通して、少女たちに生活の中の小さなサプライズを見せてあげました。一秒一秒を大事にすることで、あなたはライフアーティストになりました。	소녀들과 함께하는 매일, 분석가님이 대하는 삶의 태도가 소녀들에게 작은 놀라움을 가져다줘요. 매 순간을 헛되지 않아 분석가님은 삶의 예술가가 되었어요.	Every day with the girls, your attitude brings out life's little surprises. Being mindful of every moment, life is the canvas for your art.						0	
+TxtRichManLoveEnd8_des	心动派对的运营者十分感激您在体验后提出的惊艳新点子和宝贵的优化建议，将您的名字加在了特别致谢一栏中。	心動派對的經營者十分感激您在體驗後提出的驚艷新點子和寶貴的優化建議，將您的名字加在了特別致謝一欄中。	あなたがプレイ後に新しいアイデアと貴重なご意見を出したことに、トキメキ大合戦の運営担当は感謝しており、あなたの名前をスペシャルサンクスの欄に追加しました。	바운스 파티의 운영자가 분석가님이 체험 후에 보내주신 아이디어와 최적화 제안에 감사하는 마음에 특별 감사 섹션에 분석가님의 이름을 추가했어요.	The Loverush Party organizers appreciate your innovative ideas and valuable suggestions for the event. Your name has even been included in the "Special Thanks" credits.						0	
+TxtRichManLoveEnd9_des	有趣的约会地点、独特的美景体验还有最打动少女的技巧，您统统将这些全部收入囊中，您就是心动派对中的品质收藏家。	有趣的約會地點、獨特的美景體驗還有最打動少女的技巧，您統統將這些全部收入囊中，您就是心動派對中的品質收藏家。	面白いデートの場所、独特な景色、そして少女を感動させるコツ、あなたは全てをコレクションに追加しました。あなたはトキメキ大合戦におけるセンスのいいコレクターです。	흥미로운 데이트 장소, 독특한 경치 체험, 그리고 소녀들을 감동시키는 최고의 기술을 모두 모은 분석가님이야말로 최고의 품질 수집가에요!	You stand out at gatherings with captivating date spots, exceptional experiences, and the charm to impress. You are a true collector of quality moments in Loverush Party.						0	
+TxtRichManLoveEnd10_des	这个世界的角落已经遍布了分析员的脚印。每个令人惊喜的角落都有分析员与少女共同留下的甜蜜印记。	這個世界的角落已經遍佈了分析員的腳印。每個令人驚訝的角落都有分析者與少女共同留下的甜蜜印記。	分析員の足跡はこの世界の隅々まで行き渡っています。あらゆる人が驚く隅に、分析員と少女が一緒に残した甘い印があります。	분석가님의 발자국이 여기저기 흩어져 있어요. 모든 구석에는 소녀들과 함께 남긴 달콤한 발자국이 있죠.	As you journeyed around this world, you made memories together with girls in even the most surprising places.						0	
+TxtRichManLoveEnd11_des	您面前伫立着一座座陡峭山峰，但您依旧昂扬着头，永远向上攀登着，没什么困难能让您退却。	您面前佇立著一座座陡峭山峰，但您依舊昂揚著頭，永遠向上攀登著，沒什麼困難能讓您退卻。	目の前に無数の険しい山がそびえ立っていますが、それでもあなたは顔を上げて、常に上へ登っていきます。あなたに越えられない困難はありません。	분석가님 앞에는 가파른 산봉우리들이 서 있었지만, 이에 주저하지 않고 고개를 높이 들고는 끊임없이 위로 등반했어요. 어떠운 어려움도 분석가님을 물러서게 할 수 없었죠.	You face numerous daunting mountains, yet you continue climbing without giving up. No challenges can hold you back.						0	
+TxtRichManLoveEnd12_des	冲浪、滑翔、跳伞……来自世界树的分析员在心动派对中打败了99.9%的体验者，成为了整个社区中最强的极限运动专家！	衝浪、滑翔、跳傘…來自世界樹的分析員在心動派對中打敗了99.9%的體驗者，成為了整個社區中最強的極限運動專家！	サーフィン、パラグライダー、スカイダイビング……ユグドラシル社の分析員はトキメキ大合戦で99.9%のプレイヤーに勝ち、コミュニティ最強のエクストリームスポーツ選手になりました！	서핑, 글라이딩, 스카이다이빙까지… 위그드라실에서 온 분석가님은 바운스 파티에서 99.9%의 체험자를 물리치고 전체 커뮤니티에서 가장 강력한 익스트림 스포츠 전문가가 되었어요!	Surfing, paragliding, skydiving... The Adjutant has beaten 99.9% of Loverush Party participants and become the top extreme sports expert in the community!						0	
+TxtRichManLoveEnd13_des	守护着少女、守护着世界已被您视作寻常。您用笑容面对危机，持续践行着勇者应行之事。	守護著少女、守護著世界已被您視作尋常。您用笑容面對危機，持續實踐著勇者應行之事。	少女を守り、世界を守ることはあなたにとって日常になっています。あなたは笑顔で危機に直面し、勇者のやるべきことをやり続けています。	소녀를 지키고 세상을 지키는 것이 이미 분석가님에게는 일상이 되어버렸어요 위기에 미소로 대응하며 용사가 해야 할 일을 계속해서 실천해요.	You've made it your daily routine to protect your girls and defend the world. You face each crisis with a resilient smile, persistently honing the noble virtues that define true bravery.						0	
+TxtRichManLoveEnd14_des	分析员一直都是那个勇敢果断，不屈不挠的守护者，此刻又有少女被您的坚毅所吸引。	分析員一直都是那個勇敢果斷，不屈不撓的守護者，此刻又有少女被您的堅毅所吸引。	分析員は勇敢で心が強く、どんな困難にも屈しない守護者です。そして今、もう一人の少女があなたの不屈の精神に惹かれています。	분석가님은 항상 용감하고 단호하며 불굴의 수호자와 같아요. 현재 또 한 명의 소녀가 분석가님의 강인함에 매료되었어요.	Brave, resolute, and an indomitable guardian — your determination never fails to attract the girls.						0	
+TxtRichManLoveEnd15_des	思维敏捷，能言巧辩，永远在第一时间察觉真相，此刻又有少女被您的智识所吸引。	思維敏捷，能言巧辯，永遠在第一時間察覺真相，此刻又有少女被您的智識所吸引。	頭の回転が速く、気が利いており、いつも最初に真実に気づきます。そして今、もう一人の少女があなたの知恵に惹かれています。	사고가 민첩하고, 언변이 좋으며, 항상 첫 번째로 진실을 간파하는 능력을 가지고 있어요. 현재 분석가님의 지식에 한 소녀가 끌리고 있어요.	Sharp, persuasive, and a truth-seeker — your intelligence never fails to attract the girls.						0	
+TxtRichManLoveEnd16_des	您充满耐心地倾听少女的烦恼，抚平她们内心的创痛，此刻又有少女被您的温柔所吸引。	您充滿耐心地傾聽少女的煩惱，撫平內心的創痛，此刻又有少女被您的溫柔所吸引。	あなたは辛抱強く少女の悩みを聞き、彼女たちの心の傷を癒します。そして今、もう一人の少女があなたの優しさに惹かれています。	분석가님은 인내심을 갖고 소녀들의 고민을 들으며 내면의 상처를 달래주고 있어요. 현재 분석가님의 온화함에 한 소녀가 끌리고 있어요.	Patient, kind, and a soul-healer—your tenderness never fails to attract the girls.						0	
+TxtRichManLoveEnd17_des	运筹帷幄，掌控全局，带领团队获得胜利。此刻又有少女被您的魅力所吸引。	運籌帷幄，掌控全局，帶領團隊獲得勝利。此刻又有少女被您的魅力所吸引。	戦略を立て、全体の状況を把握し、チームを率いて勝利を勝ち取ります。そして今、もう一人の少女があなたの魅力に惹かれています。	전략을 세우고 전반적인 상황을 통제하며 팀을 이끌어 승리를 거둬요. 현재 분석가님의 매력에 한 소녀가 끌리고 있어요.	Strategic, commanding, and a victorious leader — your charisma never fails to attract the girls.						0	
+TxtRichManLoveEnd18_des	灵巧的动作和连珠妙语让少女们沉浸其中，露出真挚的笑容，此刻又有少女被您的幽默感所吸引。	靈巧的動作和連珠妙語讓女孩們沉浸其中，露出真摯的笑容，此刻又有少女被您的幽默感所吸引。	器用な動きと面白い話術が少女たちを夢中にさせて、笑顔を引き出します。そして今、もう一人の少女があなたのユーモアに惹かれています。	민첩한 행동과 재치 있는 말솜씨로 소녀들의 마음을 사로잡는 순간, 한 소녀가 분석가님의 유머에 끌리고 있어요.	Spontaneous, witty, and a smile-attracting joker — your humor never fails to attract the girls.						0	
+TxtRichManLoveEnd19_des	不知不觉，已经到了心动派对的最后一夜了，但内心依旧无法平静。与少女们共同度过的每一个瞬间，都定格在心中成为了珍宝。下次，把心底的话都告诉她们吧。	不知不覺，已經到了心動派對的最後一夜了，但內心依舊無法平靜。與少女們共同度過的每一個瞬間，都定格在心中成為了珍寶。下次，把心底的話都告訴她們吧。	知らず知らずのうちに、トキメキ大合戦は最後の夜を迎えましたが、なかなか落ち着くことができません。少女たちと一緒に過ごした瞬間が、心の中の宝箱になっています。今度、心に秘めた言葉を彼女たちに伝えてあげましょう。	어느새, 바운스 파티의 마지막 밤이 다가왔어요. 하지만 마음이 여전히 평온하지 않아요. 소녀들과 함께 보낸 모든 순간이 마음속의 진귀한 보물로 자리 잡았어요. 다음에는 마음에 담아온 말들을 그녀들에게 꼭 전해주세요.	The party's final night has arrived, but your heart is still filled with excitement. Every moment you spent with the girls has become a memorable treasure. Next time, you will tell them everything from your heart.						0	
+TxtRichManLoveEnd1_repo1	【顶】好想加入——	【置頂】好想加入——	【トップ】参加したい——	[TOP] 저도 참가하고 싶어요	[Pinned] I want to join so bad...						0	
+TxtRichManLoveEnd1_repo2	本小姐如果是第一个到的，才轮不到其他人。	本小姐如果是第一個到達的，才輪不到其他人。	もしあたしが最初についてたら、他の人の出番なんてなかったわ。	내가 만약 첫 번째로 도착했으면 다른 사람 차례는 아마 없었을 걸.	If I arrive first, no one else will even get a turn.						0	
+TxtRichManLoveEnd1_repo3	【精】独家专访｜在全世界崭露头角的那个男人，在心动派对中是如何散发魅力的——	【精華】獨家專訪｜在全世界嶄露頭角的那個男人，在心動派對中是如何散發魅力的——	【殿堂】単独インタビュー｜全世界で頭角を現すあの男、トキメキ大合戦での魅力の出し方——	[우수] 단독 인터뷰｜바운스 파티에서 세계적으로 유명한 남자는 바운스 파티에서 어떻게 매력을 발산하는지ㅡ	[Select] Exclusive Interview: This man has made his mark all over the world — but how does he spread his charm in Loverush Party...?						0	
+TxtRichManLoveEnd1_repo4	这就是分析员的实力吗？	這就是分析員的實力嗎？	これが分析員の実力か？	이게 바로 분석가님의 실력인가요?	Is that the true power of the Adjutant?						0	
+TxtRichManLoveEnd2_repo1	【顶】还能这么选的？	【置頂】還能這麼選的？	【トップ】こんな選択もあり？	[TOP] 아직도 이런 식으로 선택할 수 있는 건가요?	[Pinned] That's a possible choice?						0	
+TxtRichManLoveEnd2_repo2	这就是我们并肩作战的分析员，每一天最真实的模样。	這就是我們並肩作戰的分析員，每一天最真實的模樣。	これが私たちと一緒に戦う分析員の、普段の本当の姿。	이게 바로 매일 우리랑 함께 싸우고 있는 분석가의 진정한 모습이지.	This is the same Adjutant we fight alongside every day.						0	
+TxtRichManLoveEnd2_repo3	他怎么在这个时候还要忙工作啊！	他怎麼在這個時候還要忙工作啊！	こんな時にまだ仕事！？	왜 아직도 일을 하고 있는 거야?!	How could he possibly still be working at this hour?						0	
+TxtRichManLoveEnd2_repo4	就这样被分析员放置在一边了呢……有种很特别的感觉，呵呵~	就這樣被分析員一邊了呢……有種很特別的感覺，呵呵~	このまま分析員さんに放置されるのでしょうか……特別な気分ですね、うふふ～	분석가님이 따로 배치를 한다는 건… 뭔가 특별하게 대한다는 느낌이 들어요. 아아…	Put to the side by the Adjutant... It's an interesting feeling, hehe~						0	
+TxtRichManLoveEnd3_repo1	【顶】分析员阁下就是男人中天花板！	【置頂】分析員閣下就是男人中天花板！	【トップ】分析員さんは男の中で誰も越えられない存在よ！	[TOP] 분석가님은 남자분들 중에 최고예요!	[Pinned] The Adjutant is how all men should be!						0	
+TxtRichManLoveEnd3_repo2	他的背影……好迷人……	他的背影…好迷人……	彼の背中……なんて魅力的なのでしょう……	그의 뒷모습은… 정말 매력적이에요…	His figure is... so charming...						0	
+TxtRichManLoveEnd3_repo3	把社区成就替换成默认和芬妮在一起才合理。	把社區成就替換成默認和芬妮在一起才合理。	コミュニティアチーブメントの条件を「ファニーと一緒に過ごす」に変えるべきよ。	커뮤니티 업적은 기본적으로 페니가 있어야 되지 않겠어?	The Community Achievement should be changed to "being with Fenny."						0	
+TxtRichManLoveEnd3_repo4	楼上也不必那么关注。	樓上也不必那麼關注。	上の階の人まで気にかける必要はないのでは？	위층은 그렇게 신경 쓰지 않아도 돼.	Just ignore the post above.						0	
+TxtRichManLoveEnd4_repo1	【顶】呜呜，第一偶像也希望听到分析员阁下的鼓励！	【置頂】嗚嗚，第一偶像也希望聽到分析員閣下的鼓勵！	【トップ】うう、世界一のアイドルも分析員さんに励まされたい！	[TOP] 우우… 원탑 아이돌은 분석가님의 격려를 듣고 싶어 한다고요!	[Pinned] Ohhh, I also want to hear the Adjutant's encouragement!						0	
+TxtRichManLoveEnd5_repo1	他的房间早就是海姆达尔的心理咨询室了……	他的房間早就是海姆達爾的心理諮商室了……	彼の部屋はとっくにヘイムダルの心理カウンセリング室になってるのよ……	그의 방은 오랫동안 헤임달의 심리 상담실이었어…	His room has long been used for Heimdall's emotional counseling...						0	
+TxtRichManLoveEnd5_repo2	我也想体验来自分析员的一对一心理辅导！	我也想體驗分析員的一對一心理輔導！	私も分析員と二人きりで心理カウンセリングしてみたい！	저도 분석가님에게 일대일로 심리 상담을 받고 싶어요!	I want a one-on-one counseling session with the Adjutant too!						0	
+TxtRichManLoveEnd6_repo1	啊？分析员还给别人讲过那些冷笑话？	啊？分析員還跟別人講過那些冷笑話？	は？分析員がそんなダジャレを言ったの？	음? 분석가, 다른 사람한테 무슨 농담이라도 한 거야?	Ah!? The Adjutant told those bad jokes to other people too?						0	
+TxtRichManLoveEnd7_repo1	嗯，有他在的每一天，都会是特别的一天。	嗯，有他在的每一天，都會是特別的一天。	ああ。彼がいる限り、毎日が特別だ。	그가 있으면 매일매일이 특별한 날이 될 거야.	Every day with him is a special day.						0	
+TxtRichManLoveEnd7_repo2	和他在一起，确实每时每刻都很有意思。	和他在一起，確實每時每刻都很有趣。	彼と一緒にいると、どんな時でも楽しいのよね。	그와 함께면 정말 매 순간이 재미있어.	There's never a dull moment together with him.						0	
+TxtRichManLoveEnd8_repo1	感谢分析员阁下的体验！心动派对的下一部宣传片，希望可以邀请到分析员来出演男主角！	感謝分析員閣下的體驗！心動派對的下一部宣傳片，希望可以邀請到分析員來演出男主角！	分析員さん、体験してくれてありがとうございます！トキメキ大合戦の次のPVでは、分析員さんに主役を演じていただけたら幸いです！	체험해 주셔서 감사드려요! 바운스 파티의 다음 홍보 영상에서는 분석가님을 남자 주인공으로 초대하고 싶어요!	Thanks for coming, Adjutant! We'd like to invite you to star in the next promo video for Loverush Party!						0	
+TxtRichManLoveEnd8_repo2	回复【新恒提罗第一偶像】：分析员答应出演的话，女主角必须是本小姐哦！	回覆【新恆提羅第一偶像】：分析員答應出演的話，女主角必須是本小姐哦！	【ニューガントラトップアイドル】にリプライ：分析員がイエスって言ったら、ヒロインはあたしがやるわよ！	답변 [뉴헨틸로 1차 아이돌]: 분석가가 출전을 하는 거면 여주인공인 이 몸이 당연히 나서야지!	Reply to [New Hentiro's #1 Idol]: If the Adjutant agrees to do it, his co-star is gonna be me!						0	
+TxtRichManLoveEnd9_repo1	有人把这些整理成册吗？我要看看哪些是我没见过的。	有人把這些整理成冊嗎？我要看看哪些是我沒看過的。	これをまとめた人はいる？あたしの見てないものがないか確認したい。	이 내용을 책으로 정리한 사람이 있어? 이전에 보지 못했던 것들을 확인해 보고 싶어.	Did someone make an album of all of these? I wanna see if I missed any.						0	
+TxtRichManLoveEnd10_repo1	回公司之后，一定要申请个长假和他一起旅行去。	回公司之後，一定要申請個長假跟他一起旅行去。	会社に戻ったら、長い連休を取って彼と旅行に行きたいわ。	회사에 돌아가면 꼭 장기 휴가를 신청해서 분석가랑 함께 여행을 가야겠어.	When we get back to the company, I'm gonna apply for a long holiday to go traveling with him.						0	
+TxtRichManLoveEnd10_repo2	想和分析员一起去海边玩呢，呵呵~	想跟分析員一起去海邊玩呢，呵呵~	分析員さんと一緒に海に行きたいですね、ふふっ。	분석가님하고 해변에 놀러가고 싶어요, 헤헤…	I'd love to go have fun at the beach with the Adjutant, hehe~						0	
+TxtRichManLoveEnd11_repo1	我就是喜欢分析员这种永不服输的气势。	我就是喜歡分析員這種永不服輸的氣勢。	分析員の負けず嫌いなところ大好き。	난 분석가가 이렇게 포기하지 않는 모습이 좋더라.	I love the Adjutant's never-give-up attitude.						0	
+TxtRichManLoveEnd11_repo2	再高的山，我也会同他一起征服。	再高的山，我也會和他一起征服。	どんなに高い山でも、彼と一緒に踏破する。	아무리 높은 산이라도 분석가와 함께 꼭 정복하고야 말겠어.	I'll conquer the tallest mountain together with him.						0	
+TxtRichManLoveEnd12_repo1	下次想试试滑翔~	下次想試試滑翔~	今度はパラグライダーをやってみたいな～	다음에는 패러글라이딩을 해보고 싶어~	I wanna try paragliding next time~						0	
+TxtRichManLoveEnd12_repo2	如果是和分析员绑在一起一跃而下的话……一定很快乐，呵呵~	如果是跟分析員綁在一起一躍而下的話…一定很快樂，呵呵~	分析員さんと一緒に縛り付けられて、上から飛び降りる……きっと楽しいでしょうね、ふふっ。	분석가님하고 함께 뛰어내린다면… 정말 행복할 거예요, 헤헤~	Being tied to the Adjutant and jumping out of a plane together... Sounds delightful, hehe~						0	
+TxtRichManLoveEnd13_repo1	他笑着就能让敌人丢盔弃甲——好酷！	他笑著就能讓敵人丟盔棄甲──好酷！	彼は敵を蹴散らすときも笑顔を絶やさないの。かっこよすぎる！	웃는 것만으로도 적들이 장비를 버리고 도망가다니… 정말 멋져요!	His smile alone makes his adversary put down their weapon... He's so cool!						0	
+TxtRichManLoveEnd1_reviewer1	新恒提罗第一偶像	新恆提羅第一偶像	ニューガントラトップアイドル	뉴헨틸로 원탑 아이돌	New Hentiro's #1 Idol						0	
+TxtRichManLoveEnd1_reviewer2	“皇冠”	“皇冠”	「王冠」	왕관	"The Crown"						0	
+TxtRichManLoveEnd1_reviewer3	俱卢娱乐报	俱盧娛樂報	週刊グロ	쿠루 엔터테인먼트 보도	Kuru Entertainment						0	
+TxtRichManLoveEnd1_reviewer4	匿名	匿名	名無しさん	익명	Anonymous						0	
+TxtRichManLoveEnd1_reviewer5	里芙	里芙	リフ	리브	Lyfe						0	
+TxtRichManLoveEnd1_reviewer6	游客05	遊客05	ゲスト05	게스트05	Guest 05						0	

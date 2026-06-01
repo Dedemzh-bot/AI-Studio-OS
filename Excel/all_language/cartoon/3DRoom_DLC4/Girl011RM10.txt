@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	啊，是分析员！	啊，是分析員！	あっ、分析員！	어, 분석가다!	Ah, Adjutant!						0	
+page0.2	怎么脸色看起来这么不好，如果觉得不舒服，要及时和姐姐说哦~	怎麼臉色看起來那麼差？如果覺得不舒服的話，要馬上跟姐姐說喔～	顔色が悪いけど、大丈夫ですか？気分が悪かったら言ってくださいね。	안색이 안 좋네, 어디 아프면 바로 나한테 이야기해~	You look a little pale. If you're not feeling well, you should tell me right away~						0	
+page0.3	啊……没什么，就是最近没睡好。	啊……沒事沒事，只是最近沒睡好。	ああ……大丈夫、ただ最近あまりよく眠れてなくて。	아… 괜찮아요. 그냥 요즘 잠을 잘 못 자서요.	Ah... I'm fine. I just haven't been sleeping well.						0	
+page0.4	最近做了很多乱七八糟的梦，醒来的时候就会很劳累。	最近時常作一些亂七八糟的夢，導致醒來時會感到很疲勞。	最近、変な夢ばかり見て、目が覚めたら疲れてるんだ。	요즘 이상한 꿈을 많이 꿔서 일어나면 피곤해요.	I've been having a lot of weird dreams recently. I feel so tired after I wake up.						0	
+page0.5	还记得是什么样的梦吗？	還記得是什麼樣的夢嗎？	変な夢？その内容は覚えてます？	어떤 꿈이었는지 기억나?	Do you remember what happens in your dreams?						0	
+page0.6	具体的记不清了，但都是我从未经历过的事。	記不太清楚了，都是我從未經歷過的事情。	詳しくは覚えてないけど、経験したことがない事ばかりだ。	자세한 건 기억 안 나는데, 한 번도 경험해 보지 못한 일이었어요.	I can't remember anything specific, but it's all stuff I've never experienced before.						0	
+page0.7	那没错了~	那就如我所推斷的～	それなら間違いありませんね〜	그렇다면~	Well, it's no wonder~						0	
+page0.8	分析员，你最近精神和身体都非常紧张、劳累吧。	分析員，你最近的精神和身體都感到非常緊張、疲勞對吧。	分析員、最近心も体も緊張して疲れてるんじゃないですか？	분석가, 요즘 몸과 마음이 긴장되고 피곤하지?	Adjutant, your mind and body have both been really tense and exhausted recently.						0	
+page0.9	做梦正是一种心理调节的过程，这是大脑在进行的一种维护和修复。	作夢是一種生命狀態的反應，這是大腦在進行修復的過程。	夢を見るのはメンタルの調整プロセスで、脳がメンテナンスと修復を行っている証ですよ～	꿈은 일종의 심리 조절이야. 뇌가 유지 보수 및 회복을 진행하는 과정이지.	Dreaming is a psychological process that your brain utilizes to do maintenance and make repairs.						0	
+page0.10	那些我从未经历过的事，它们是怎么出现在梦里的？	那麼那些我從未經歷過的事情，是如何出現在我夢裡的呢？	じゃあどうして経験したこともない事が、夢に出てくるんだ？	제가 한 번도 경험한 적 없는 일들이 어떻게 꿈에 나오는 거죠?	But how do things I've never experienced before show up in my dreams?						0	
+page0.11	应该是生活中的一些场景和符号，让你脑中被埋藏的某个记忆被重新激活。	應該是在你生活中的某些場景和符號，啟動了埋藏在你大腦內的某些記憶吧。	それは生活の中のシーンやシンボルが、埋もれていた記憶を掘り起こしたんでしょう。	일상 속의 어느 장면과 시그널일 거야. 머릿속에 숨겨져 있던 모종의 기억이 다시 활성화되는 거지.	A place or symbol you saw probably reactivated a memory buried deep in your mind.						0	
+page0.12	这种符号会在梦境中被放大，与你从经历重新组合。	這種符號會在夢境中被放大，並與你的經歷進行重組。	そういうシンボルは夢の中で拡大され、経験と組み合わせられます。	그런 시그널은 꿈속에서 확대되어 경험 속에서 너와 다시 합쳐질 거야.	Those types of symbols can be amplified in dreams and combine with your own experiences.						0	
+page0.13	会不会是……会有你的故人来找你呢~	會不會是……你的故友要來找你呢～	ううん……もしかしたら……昔の知り合いが会いに来てるのかもしれませんね〜	혹시 모르지… 너의 옛 친구가 널 찾아올지도~	Maybe... an old friend is looking for you~						0	

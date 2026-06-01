@@ -1,0 +1,76 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	看来已经离开污染区了，庚号大门就在前面。	看來已經離開汙染區了，庚號大門就在前面。	汚染エリアから離れたわ。第7ゲートは目の前よ。	오염 구역은 잘 벗어난 것 같아. 7번 게이트도 바로 앞에 있고.	Looks like they already left the Contaminated Sections. Gate Seven is up ahead.						0	
+2	竟然没掉队，分析员，你的体力相当不赖嘛！	竟然沒掉隊，分析員，你的體力相當不賴嘛！	ついて来れるなんて、なかなか鍛えてるじゃない、分析員！	분석가, 일반인치고는 체력이 생각보다 훌륭한데?	I'm impressed you managed to keep up, Adjutant!						0	
+b-1											0	
+3	只能勉强跟上队伍而已……	只能勉強跟上隊伍而已……	ギリギリだったよ……	겨우 쫓아왔어…	Managing to keep up is the height of my ambitions at this point...						0	
+4	呼……呼……我要……不行了……	呼……呼……我要……不行了……	はあ……はあ……もう……ダメ……	하아… 하아… 난… 난 더 이상 안되겠어…	*pant*... *pant*... I need... breather...						0	
+5	比起来，小太阳，你竟然连分析员都跑不过。	比起來，小太陽，你竟然連分析員都跑不過。	それに比べておひさまちゃん……あんた分析員に負けてるじゃないの。	계시자인데도 체력이 분석가만도 못하다니…	Little Sunshine, you can't even outrun the Adjutant.						0	
+6	这都怪……我的……装备……太重！	這都怪……我的……裝備……太重！	それは……私の……装備が……重すぎるから！	그건… 내… 내 장비가… 너무 무거워서 그래!	It's... all this equipment... So heavy...						0	
+6_1	你看看分析员这一身装备，明明更重！	你看看分析員這一身裝備，明明更重！	分析員の装備を見て！あなたより重いわよ！	분석가가 메고 있는 장비를 봐, 훨씬 무거워 보이잖아!	Just look at the Adjutant's gear — it's clearly way heavier!						0	
+7	芙提雅呼呼地喘着粗气，小脸涨得通红。	芙提雅呼呼地喘著粗氣，小臉漲得通紅。	フリティアは荒い息を吐いて、小さい顔を真っ赤にした。	프티야는 거친 숨을 내쉬며 얼굴이 달아올라 있었다.	Fritia's breathing was ragged, her face flushed red.						0	
+8	分析员，你看，安全部正在前面准备接应我们。	分析員，你看，安全部正在前面準備接應我們。	見ろ分析員、安全部がこの先で出迎える準備をしている。	분석가, 안전부 사람들이 나와있는 것 같아.	Adjutant, over there. Security brought out the big guns.						0	
+9	我顺着星期三所指的方向看去，在庚号大门之前，正架设着数道防线，整个阵地的防御纵深有数百米……	我順著星期三所指的方向看去，在庚號大門之前正架設著數道防線，整個陣地的防禦縱深有數百公尺……	ウェンズデーが指差した方向を見ると、第7ゲートの前に、複数の防衛線が設置されていた。陣地は数百メートル四方にも及ぶ範囲に展開されている。	웬스데이가 가리키는 곳을 보니 7번 게이트 앞에는 방어선이 여러 겹으로 구축되어 있었다. 방어선의 두께는 진지까지 약 수백 미터에 달했다.	I looked where Wednesday was pointing to see several lines of defense mounting in front of Gate Seven, with fortifications stretching on for hundreds of meters...						0	
+10	那些架设在阵地中，我从来没有见过的武器，想必就是世界树公司为对付泰坦而开发的尖端兵器。	那些架設在陣地中，我從來沒有見過的武器，想必就是世界樹公司為對付泰坦而開發的尖端兵器。	陣地の中に設置されている見たことない兵器は、おそらくユグドラシル社が開発した対タイタンの新鋭兵器だろう。	진지에 구축되어 있는 무기는 한 번도 보지 못했던 무기들도 수두룩했다. 타이탄을 상대하려고 개발한 무기들 같아 보였다.	They had heavy weaponry I'd never even seen before, cutting-edge stuff, must have been designed specifically for dealing with the bigger Titans.						0	
+11	我使用头盔附带的望远功能仔细查察看，甚至在阵地末端的指挥中心内，看到了陶，和数位我没有见过的公司高层。	我使用頭盔附帶的望遠功能仔細查察看，甚至在陣地末端的指揮中心內看到了τ，和數名我沒有見過的公司高層。	ヘルメットの望遠機能でよく観察すると、陣地の最深部にある指揮センターに、τと面識のない会社上層部の数人が見えた。	헬멧에 달린 망원경으로 조금 더 자세히 보니 진지 끝 지휘 센터에는 τ와 여태껏 본 적 없는 회사의 고위급 간부들도 있었다.	Using my helmet's telescopic feature to take a closer look, I spotted τ and various other Yggdrasil executives I'd never seen before in the command center at the end of the perimeter.						0	
+b-2											0	
+12	真是好大的场面……	真是好大的場面……	勢ぞろいだな……	정말 장관이군…	The scale of it...						0	
+13	要对付真正的泰坦，这些还不够。	要對付真正的泰坦，這些還不夠。	本物のタイタンを相手にするなら、あれじゃまだ足りない。	아니. 타이탄을 상대하기엔 아직도 부족해.	Won't be enough. Not if a real Titan's coming.						0	
+14	我正要继续追问星期三，一股异样的压迫感突然降临在我身上。	我正要繼續追問星期三，一股異樣的壓迫感突然降臨在我身上。	ウェンズデーに話しかけようとしたとき、突如、異様な圧迫感が体全体を押しつぶすような感覚を覚えた。	웬스데이에게 더 물어보려던 찰나… 엄청난 중압감이 느껴지기 시작했다.	I was about to ask her what she meant when a terrible chill swept over me...						0	
+15	分析员！察觉到了吗？！	分析員！察覺到了嗎？！	分析員！気づいたか！？	방금 느꼈어?!	Adjutant! You felt that too?						0	
+b-3											0	
+16	嗯……“歌唱者”也有反应了。	嗯……“歌唱者”也有反應了。	ああ……「シンガー」も反応してる。	… '코러스' 시스템이 반응을 보이기 시작했어.	Yeah, I did... you, me, and the Chorus System						0	
+17	“雪”再次拦截在我们返回的路上，似乎在传递某种警告。	“雪”再次攔截住我們欲返回的路上，似乎在傳遞著某種警告。	「キオーン」が帰路を塞ぎ、まるで何か警告を伝えようしているようだ。	순간 '눈'이 나타나며 길을 차단했다. 우리에게 일종의 경고를 보내는듯했다.	The snow had been falling fast, so fast the route to the Wall blocked up before our eyes. There was no way through. It felt like something was sending us a message.						0	
+20	雪……分析员……	雪……分析員……	キオーン……分析員……	눈이야… 분석가…	Snow... Adjutant...						0	
+21	坚实的路面忽然被掀起，废弃的重型卡车、歪倒在道路边的路灯、锈迹斑驳的垃圾桶，都像轻飘飘没有重量一般，被抛上了天空。	堅實的路面忽然被掀起，廢棄的重型卡車、歪倒在道路邊的路燈、鏽跡斑駁的垃圾桶，都像輕飄飄地沒有重量一般被拋上了天空。	地響きと共に地面がえぐれ断片が宙に浮き上がる。廃棄された大型トラック、倒れた街灯、サビだらけのゴミ箱も、すべてが重量を失って空へと昇っていく。	땅바닥이 순간 갈라지며 솟아오르기 시작했고, 버려진 대형 트럭과 쓰러진 가로등 등… 눈에 보이는 물건들이 중력을 무시하며 하늘에 떠올랐다.	The road ahead disintegrated... lampposts bent and warped, heavy trucks took flight... everything was weightless and upward bound...						0	
+21_1	紧接着，我感到了刺骨的深寒。	緊接著，我感到了刺骨的寒冷。	そして、私は骨を刺すような悪寒を感じた。これは——	곧이어 뼈를 파고드는 듯한 추위가 느껴진다.	I immediately felt a chill run down my spine.						0	
+22	是<orange>尤弥尔</>！	是<orange>尤彌爾</>！	<orange>ユミル</>だ！	이건… <orange>이미르</>야!	<orange>Ymir</>!						0	
+b-4											0	
+23	所有人！寻找掩护！准备迎战！	所有人！尋找掩護！準備迎戰！	全員！遮蔽物を探せ！迎撃用意！	다들 엄폐물을 찾아 몸을 숨기고 전투태세를 갖춰!	Take cover, everyone! Prepare to engage!						0	
+24	巨大、美丽而又无法名状的类人……生物？机械？它……就这样凭空出现在我们面前，隔断了通往归途的路。	巨大、美麗而又難以名狀的類人……生物？機械？它……就這樣憑空出現在我們面前，隔斷了通往歸途的路。	大きく、美しく、まるで巨大な人類のような……生き物？機械？それは……目の前に現れて、私たちの帰り道に立ち塞がる。	거대하면서도 아름다워 보이는… 인간과 비슷하게 생긴 생물체가 순간 우리 앞에 나타나며 돌아가는 길을 차단했다.	A massive, beautiful, and inexplicably humanoid... creature? Machine? It... suddenly appeared before us, blocking the route back.						0	
+24_1	它……也是为了基座而来吗？	它……也是為了基座而來嗎？	やつも……ベースのために来たのか？	설마… 성지 때문에 이곳에 온 건가?	Did it... come for the Shrine too?						0	
+25	分析员，乖乖躲在我背后！离得越远越好！	分析員，乖乖躲在我背後！離得越遠越好！	分析員、あたしの後ろに隠れて！早く！	분석가, 뒤로 물러나! 최대한 멀리 숨어있어!	Adjutant, be a dear, get yourself behind me! As far back as you can!						0	
+26	向身后的建筑物撤离！那里是它的盲区！	向身後的建築物撤離！那裡是它的視線死角！	後ろの建物まで撤退しろ！あそこはこいつの死角だ！	뒤에 보이는 건물 안으로 들어가! 녀석의 사각지대일 테니까!	We have to pull back to the buildings, we're out in the open here!						0	
+27	少女们挡在我面前的身躯，在<orange>泰坦</>面前是那样单薄。	少女們擋在我面前的身軀，在<orange>泰坦</>面前是那樣單薄。	立ち向かう少女たちの姿は、<orange>タイタン</>の前ではあまりにも小さく見える。	소녀들은 일제히 내 앞을 막아섰다. 거대한 <orange>타이탄</> 앞에 서있어서 그런지 유난히 왜소하게 느껴졌다.	The operatives surrounded me, shielded me... But what kind of shield was a human body against a <orange>Titan's might</>...?						0	
+28	从枪口喷射出的子弹，就像拍打在礁石的小小浪花，什么都无法撼动。	從槍口噴射出的子彈就像拍打在礁石的小小浪花，什麼都無法撼動。	銃口から放たれた弾は、まるで岩礁に打ち寄せるさざ波だ……通用しそうになかった。	총구에서 나오는 탄약들은 암초에 부딪히는 작은 파도처럼 아무런 타격을 주지 못했다.	Bullets flashed from muzzles, shattered against the Titan's carapace with all the impact of gentle waves lapping over the surface of the stony beach. They left no trace at all.						0	
+29	这不可思议、无法由自然界所创造的庞然大物，仿佛用自己的存在，在嘲笑渺小人类的自不量力……	這不可思議、無法由自然界所創造的龐然大物，彷彿用自己的存在，在嘲笑渺小人類的自不量力……	不可思議で、存在自体があり得ない巨大なタイタンは、身の程を知らない人類を嘲笑っているようだ……	불가사의한 모습이 마치 자연에서는 만들어질 수 없는 거대한 크기처럼 보였다. 존재 자체가 인간의 나약함을 비웃는듯한 느낌이 든다…	This thing had no place within the natural world... its existence ridiculed us, mocked our pretensions of understanding, our belief in the possibility of meaning...						0	
+30	区区血肉之躯，竟然敢跟来自深寒国度的巨人对抗？	區區血肉之軀，竟然敢跟來自深寒國度的巨人對抗？	生身の人間が、極寒の国からやって来る巨人に挑むなど。	인간의 몸으로 얼음 왕국에서 온 거인과 대항을?	How could little blood-filled bags of meat stand against the giant of a frozen realm and earn anything but ridicule and death?						0	
+31	芬妮，把所有抑制剂都给我！	芬妮，把所有抑制劑都給我！	ファニー、抑制剤をありったけ寄越せ！	페니, 억제제 좀 줘봐!	Fenny! The inhibitors, I need all of them and I need them now!						0	
+32	你？！	你？！	はぁ！？	뭐? 너 설마?!	Bestla!						0	
+33	难道！又要使用化身系统？！	難道！又要使用化身系統？！	まさか！またアバターシステムを使うつもり！？	아바타 시스템을 사용하려는 거야?!	You're doing this again? Triggering the Apo-Sys?						0	
+34	没有其他办法。	沒有其他辦法。	他に方法がない。	다른 방법이 없잖아.	There's nothing else.						0	
+35	这是我们必须付出的代价！	這是我們必須付出的代價！	これは私たちが支払うべき代償だ！	이건 우리가 반드시 치뤄야하는 대가야!	This is the price we have to pay!						0	
+36	我们被突然袭来的泰坦逼入了身后的建筑。	我們被突然襲來的泰坦逼入了身後的建築。	ユミルを前に、私たちは第７ゲートへ戻ることもできず、建物の影に身を潜めている。	갑작스러운 습격으로 우리는 뒤에 있는 건물로 몸을 피했다.	Ymir shifted onto the offensive, charged, forced us back into the buildings.						0	
+37	分析员，我们该怎么办？	分析員，我們該怎麼辦？	分析員さん、どうすればいいですか？	분석가님, 이제 어떻게 하죠?	Adjutant, what should we do?						0	
+38	只要到达楼顶，就可以通过绳索速降到旁边的建筑。	只要到達樓頂，就可以透過繩索迅速下降到旁邊的建築。	屋上に辿ることさえできれば、ロープで隣の建物に素早く移動できる。	옥상에 올라가면 밧줄을 이용해서 옆 건물로 이동할 수 있을 거야.	If we make it to the top of the building, we can use the rope to get down to the next one.						0	
+b-5											0	
+39	楼顶吗？只要到达那个地方……	樓頂嗎？只要到達那個地方……	屋上……ですか……あそこまで行くためには……	옥상이요? 그곳에 갈 수만 있으면…	The roof? Then that's what we do...						0	
+40	地板突然开始晃动！	地板突然開始晃動！	急に激しい地響きが起こり、	지면이 갑자기 흔들리기 시작했다.	The floor jolted...						0	
+41	然后毫无征兆地断裂！	然後毫無徵兆地斷裂！	そして轟音と共に地面に深い亀裂が走った！	아무런 징조 없이 땅이 갈라지기 시작했다…	...and split in two without warning!						0	
+42	身体失去支撑，在下坠中慌乱而无措地挣扎，我伸手想要抓住什么……	我因身體失去支撐而在下墜中慌亂而無措地掙扎，下意識地伸手想要抓住什麼……	真っ二つに避ける地面に呑まれ、足場を無くした私は亀裂の奥へと落ちそうになった。慌てて何かを掴もうと手を伸ばしたその時……	균형을 잃어 아래로 떨어지게 됐고, 당황해서 무언가라도 잡으려 발버둥 치며 손을 뻗었다…	My balance lost, I tumbled through the crack... flailed for a handhold... finding nothing...						0	
+43	幸好……我带了安全索……	幸好……我帶了安全索……	こんなこともあろうかと、命綱を持ってきました！	후… 안전 로프를 챙겨와서 다행이지.	Lucky us... good thing I packed my ropes...						0	
+44	您没事真是太好了……	您沒事真是太好了……	あなたが無事で良かったです……	무사하셔서 정말 다행이에요…	If something were to have happened to you...						0	
+45	等我再次睁开眼睛，身体已经悬空吊在大楼之外，仅仅依靠手臂上缠绕的安全索，来维持不至于掉落的状态。	等我再次睜開眼睛時，發現自己懸空吊在大樓之外，僅僅依靠手臂上纏繞的安全索，來保護我不致於摔落地面。	彼女が伸ばした命綱を必死でつかみ、私はなんとか宙に浮いている。腕に絡みつく命綱のおかげで、落下から免れたのだ。	눈을 다시 떴을 때, 내 몸은 팔에 묶인 안전 로프에 의지한 채 떨어지지 않고 건물에 매달려있었다.	I found myself hanging from the building, far above the ground, suspended by a rope that had wrapped itself around my arms... by that and nothing else.						0	
+46	茉莉安正使出全身的力量，攥着安全索的另一端。	茉莉安正使出全身的力量握著安全索的另一端。	マリアンは全身の力を振り絞って、命綱の片端を掴んでいる。	마리안은 온 힘을 다해 안전 로프의 끝자락을 잡고 있었다.	Marian held the rope, and with it held me aloft, but it was clearly taking every last ounce of strength she had to do it.						0	
+47	尤弥尔仍然在狂暴而无情地，展现着它无可匹敌的威能。大楼不断摇晃，水泥碎块从天花板掉落，砸在茉莉安的背脊上。	尤彌爾仍然在狂暴而無情地展現著它無可匹敵的威力。大樓不斷搖晃，水泥碎塊從天花板掉落，砸在茉莉安的背脊上。	ユミルは依然、周囲を破壊しながら徘徊している。おそらく「ベース」を探しているのだろう……。地響きもビルの揺れも止まらず、普通の人間なら立っているのもままならないはずだ。と、コンクリートの破片が天井から落ちて、マリアンの背中に当たった。	이미르는 매정하고 난폭하게 그의 힘을 과시했다. 건물은 계속해서 흔들렸고, 건물의 파편이 떨어져 마리안의 등을 강타했다.	Ymir raged on beneath us, mighty and relentless, throwing blows that shook the building and brought slabs of concrete raining down. Heavy chunks of rubble fell on Marian like rain.						0	
+48	啊！	啊！	あっ！	으윽!	Ach!						0	
+b-6											0	
+49	茉莉安！别管我了！	茉莉安！別管我了！	マリアン！私のことはもういいから……！	마리안! 난 신경 쓰지 마!	Marian! Don't worry about me!						0	
+50	我没事哦，分析员，疼痛对我来说……也可以是一种奖赏……	我沒事哦，分析員，疼痛對我來說……也可以是一種獎賞……	大丈夫ですよ、分析員さん……痛みもご褒美のうちなので……	괜찮아요, 분석가님. 제게 있어서 고통은… 일종의 보상이기도 하니까요…	I'm okay, Adjutant. For me... pain is a reward...						0	
+51	我不会松手的，你也一定要这么坚持住哦。	我不會鬆手的，你也一定要撐住哦。	手は放せません。あなたもどうか持ち堪えてください……	절대 놓지 않을 테니, 분석가님도 꼭 더 버티셔야 해요.	I won't be letting go. Grip the rope.						0	
+52	我们来了！快跑快跑！	我們來了！快跑快跑！	来たわよ！ほら早く！	다들 모인 것 같으니 어서 여기를 벗어나자!	Here! We need to move fast!						0	
+53	尤弥尔这家伙还是这么难对付！下次一定要给它好看！	尤彌爾這傢伙還是這麼難對付！下次一定要給它好看！	ユミルのやつ、よくもやってくれたわね！今度こそ目にもの見せてやるんだから！	이미르 녀석은 여전히 상대하기 버거워… 다음에는 절대 봐주지 않겠어!	It's always like this with Ymir... we need to raise our game! Give that thing a show it will remember!						0	
+54	妮塔，分析员呢？！	妮塔，分析員呢？！	ニタ、分析員は！？	니타, 분석가는?	Nita. The Adjutant, where is he?						0	
+55	啊？对啊，分析员呢？	什麼？對耶，分析員呢？	あ？そうだ！分析員は？	어… 그러게? 어디 갔지?	The Adjutant... huh... I don't know.						0	
+56	欸？！刚才明明还在我背后来着！	欸？！剛才明明還在我背後來著！	え！？ついさっきまで後ろにいたのに！	엥…?! 방금까지만 해도 내 뒤에 있었는데!	Ach!? He was behind me just now!						0	
+57	靠！不会在刚才……掉下去了吧！	靠！不會在剛才……掉下去了吧！	やばっ！落ちて……んじゃないわよね！	젠장… 좀 전에 아래로 떨어진 건 아니겠지!	Darn! He didn't... no, he couldn't have... you don't think he fell?						0	
+58	小茉莉安也不见了！怎么会这样！	小茉莉安也不見了！怎麼會這樣！	マリアンちゃんもいない！どうしてこんなことに！	마리안도 사라졌어! 도대체 어떻게 된 거지!	Marian's not here either! Where are they?!						0	
+59	喂！你们真是够了！两个大活人不见了都没发现！	喂！你們真是夠了！兩個大活人不見了都沒發現！	呆れた！なんで二人も消えてるのに気づかないわけ？	이봐! 너희들 대체 뭘 한 거야! 두 사람이나 없어졌는데 모르고 있다니!	What is wrong with you people? How did none of us see what happened?!						0	
+60	这可怎么办啊……“基座”还在我们这。	這下該怎麼辦啊……“基座”還在我們這。	どうしろってのよ……「ベース」はまだこっちにあるのに。	어떡하지… '성지'는 아직 우리에게 있는데.	What do we do...? We still have the Shrine.						0	
+61	很简单。	很簡單。	簡単だ。	복잡하게 생각할 필요 없어.	It's simple.						0	
+62	优先护送“基座”离开。	優先護送“基座”離開。	まずは「ベース」を優先的に持ち帰る。	일단 '성지'부터 전달하자.	Go take the Shrine where it needs taking.						0	
+63	就不管playername和茉莉安了吗？	就不管playername和茉莉安了嗎？	playernameとマリアンはどうするの？	playername하고 마리안은?	Leave playername and Marian?						0	
+64	我会找到他们。	我會找到他們。	私が彼らを探し出す。	내가 찾아볼게.	I will find them.						0	
+65	……那，那，那可是尤弥尔啊！	……那、那、那可是尤彌爾啊！	でも……ユミルがいるのよ！	… 그, 그, 그렇지만… 상대는 이미르라고!	...T-T-That's Ymir!						0	
+66	命中注定的时刻一定会到来。	命中註定的時刻一定會到來。	いつかこんなときが来ると、思ってた。今日がそのときだ。	언젠가는 볼 운명이야.	Can't run from fate.						0	
+67	况且，我和它，还有账要清算。	況且，我和它，還有帳要清算。	それに私とユミルはまだ、決着がついていない。	게다가 저 녀석한테 갚아줘야 할 게 있거든.	Besides, I still have a score to settle.						0	

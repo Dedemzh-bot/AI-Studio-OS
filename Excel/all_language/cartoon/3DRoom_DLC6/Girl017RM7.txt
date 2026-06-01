@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	唔……	唔……	うーん……	흠…	Ugh...						0	
+page1.2	苔丝？你好像很苦恼的样子。怎么了吗？	黛斯？你好像很苦惱的樣子。怎麼了嗎？	テス？何か悩んでそうだね。どうかした？	테스, 무슨 일 있어?	Tess? It seems like something is bothering you. What's wrong?						0	
+page1.3	诶！？我表现得这么明显吗？	欸！？我表現得這麼明顯嗎？	えぇ！？そんなに分かりやすい？	네?! 무슨 일 있는 것처럼 보였나요?	Eh!? Is it that obvious?						0	
+page1.4	非常明显，我应该是第一次看见你这么投入地思考。	非常明顯，我應該是第一次看見你這麼投入地思考。	ああ。そんなに真剣に考える顔は初めて見たかも。	응, 그렇게 보여. 네가 이렇게 몰입해서 뭘 생각하는 건 처음 보는 것 같아.	Yeah, it's really obvious. This is probably the first time I've seen you so lost in thought.						0	
+page1.5	啊……一不小心就……	啊……一不小心就……	あっ……見られちゃった……	아… 저도 모르게 그랬나 보네요…	Ah... I guess I accidentally...						0	
+page1.6	你是遇到什么麻烦了？	你是遇到什麼麻煩了？	何か厄介な事でもあったか？	무슨 문제라도 있어?	Are you dealing with some kind of problem?						0	
+page1.7	不是麻烦不是麻烦，我只是在想啊……	不是麻煩不是麻煩，我只是在想啊……	いやいや、違うよ。私はただ……	문제까지는 아니고, 그냥 생각 중이었어요…	It's not a problem! I'm just thinking...						0	
+page1.8	伊切尔那么可爱，像毛绒绒的小动物一样。我要是邀请伊切尔来加入魔术表演，算不算加入了新的小动物。	伊切爾那麼可愛，像毛絨絨的小動物一樣。我要是邀請伊契爾來加入魔術表演，算不算加入了新的小動物。	あんなに可愛くて、ふわふわの小動物みたいなイチェルをマジックショーに誘ったら、新しい小動物が入ったことになるかなって思ってたの～	이첼은 푹신푹신한 동물처럼 너무 귀여워요. 제가 이첼을 마술쇼에 초대하면 새로운 동물과 콜라보 하는 느낌이 날 것 같아요.	Eatchel is so cute, like a soft little animal. If I invite her to join my magic show, does that count as adding another animal...?						0	
+page1.9	你一脸在思考世纪难题的样子，原来是在想这个问题？	你一臉在思考世紀難題的樣子，原來是在想這個問題？	世紀の難問に取り組んでるような顔だったのに、それだけ？	세기의 문제에 대해 생각하고 있는 것처럼 얼굴을 하고는 고작 이걸 생각하고 있었던 거야?	You look like you're thinking about a life-changing problem, but that's all it was?						0	
+page1.10	对呀。	對呀。	そうだよ！	맞아요.	Yeah.						0	
+page1.11	伊切尔再可爱也只能算人类助手吧。	伊切爾再可愛也只能算人類助手吧。	イチェルがどれだけ可愛くとも、せいぜい人間の助手だよ。	이첼이 아무리 귀여워도 인간 조수처럼 보이겠지. 누가 동물로 알겠어?	No matter how cute Eatchel is, she would still count as a human assistant, not an animal.						0	
+page1.12	也对呢哈哈哈哈……	也對呢哈哈哈哈……	そうよね、ははははっ……	그렇긴 하네요, 하하하…	That makes sense, hahahaha...						0	
+page1.13	不过话又说回来，别人当助手大概排练个一两次就行，如果是伊切尔的话，你最好准备点好吃的。	不過話又說回來，別人當助手大概排練個一兩次就行，如果是伊切爾的話，你最好準備點好吃的。	ただ、他の人に助手を頼むなら多分1回か2回くらいリハーサルすれば十分だけど、イチェルの場合は、おいしいデザートを用意してあげた方がいいね。	그리고 다른 사람들은 조수로 한두 번 정도 리허설하면 되지만, 이첼은 맛있는 음식을 준비해두는 게 좋을 거야.	But it would be nice for someone else to practice being your assistant a few times. If it's going to be Eatchel, you better get some good food.						0	
+page1.14	嗯？是要她做对一步就奖励一个好吃的吗？	嗯？是要她做對一步就獎勵一個好吃的嗎？	え？それって1つうまくできたら、1つデザートをあげるみたいな？	아… 이첼이 잘할 때마다 보상으로 맛있는 음식을 받기를 원하나요?	Oh? Should I reward her with a treat if she does something right?						0	
+page1.15	最好是，这孩子有点没耐心。	最好是，這孩子有點沒耐心。	できればね。あの子はちょっと根気が足りないから。	그러는 게 좋을걸, 인내심이 좀 없거든.	Yeah, that would be best. She's a bit impatient.						0	
+page1.16	这么一说，感觉更像小动物了呢！	這麼一說，感覺更像小動物了呢！	それだと、やっぱり小動物っぽい気がする！	그렇게 말하니 정말 귀여운 동물 같네요!	When you say it like that, it sounds more like how I reward my animals!						0	
+page1.17	好像是……	好像是……	確かに……	그런 것 같기도 하고…	Hmm, I guess you're right...						0	
+page1.18	哇，分析员也陷入沉思了。	哇，分析員也陷入沉思了。	うわっ、分析員も悩み始めちゃった。	하하, 분석가님도 고민에 빠지신 것 같네요?	Whoa, Adjutant, you're lost in thought now too!						0	

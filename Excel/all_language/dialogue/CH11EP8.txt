@@ -1,0 +1,42 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	蚂蟥，原来埋设的核武还能用不？	螞蟥，原來埋設的核武還能用嗎？	おいヒル、前に設置した核兵器は使えるか？	거머리, 묻어둔 핵무기는 아직 사용할 수 있는 거지?	Leech, can we still use the nukes that were put here before?						0	
+2	当然能用了，你是傻子吧？那玩意又不会过期。	當然能用，你是傻子嗎？那東西又不會過期。	もちろん。プロだからな。俺のことバカにしてるのか？	당연하지, 너 바보야? 무기에 유통기한이 있는 것도 아니고.	Of course we can. Are you an idiot? That stuff doesn't expire.						0	
+3	我这边搞定了，引爆时间设置完了。	我這邊搞定了，引爆時間設定好了。	こっちはもう大丈夫だ、爆発時間設定完了。	이쪽은 끝났어. 기폭 장치 타이머 설정 완료.	Done. The detonation time has been set.						0	
+4	我这边也快了，你再检查一下，要是搞错了能把大家一波都带走。	我這邊也快好了，你再檢查一下，要是搞錯了會把大家全帶走。	こっちももう少しだ。おい、ちゃんと確認しろよ、間違えたらみんな木っ端微塵だ。	이쪽도 거의 끝나가. 마지막으로 한 번만 더 점검해 봐. 실수하면 다 같이 끝장이니까.	Almost done over here. Double-check yours — any mistake and we'll be blown to bits.						0	
+5	我就是担心啊……毕竟两年多过去了，计时装置不会老化吧？	我就是擔心這個啊……畢竟兩年多過去了，計時裝置不會老化吧？	心配だけどな……もう二年も経ってるし、カウント装置って劣化しない？	조금 걱정인데… 2년이라는 시간이 지났으니까 말이야. 혹시 타이머 장치가 노화된 건 아니겠지?	I'm just a little worried... I mean, it's been over two years — you're sure the countdown device hasn't deteriorated?						0	
+6	与其担心这个……嗯？你是哪位？唔！	與其擔心這個……嗯？你是哪位？唔！	そんな心配するより……ん？誰だ？ぐっ！	그런 걸 걱정하는 것보단… 응? 넌 누구지? 윽!	Instead of worrying about that— Huh? Who are you? Hey!						0	
+7	蚂蟥？蚂蟥？	螞蟥？螞蟥？	ヒル？おい、ヒル？	거머리? 거머리?	Leech? Leech?						0	
+8	你＊＊＊的是谁？！我开枪了！	你＊＊的是誰？！我要開槍了！	貴様何者だ！？撃つぞ！	너 이 ***, 누구야?! 발포하겠다!	Who the heck are you!? I'll shoot!						0	
+9	仓库里这枚解除完毕，尽快来人回收。	在倉庫的這枚解除完畢，盡快派人來回收。	倉庫の方はもう解除済みです。すぐ回収してください。	창고의 폭탄들은 해체를 완료했어요. 어서 회수 인원을 보내주세요.	The bomb in the warehouse has been disarmed. Someone come get it ASAP.						0	
+10	还有三枚，辛苦你了。	還有三枚，辛苦你了。	あと三つありますが、お願いします。	아직 3개가 더 남았으니 마저 수고해 줘.	There are still three more. Keep it up.						0	
+11	等全部解除，就恢复原来的通讯频道，告知分析员情况。	等全部解除，就恢復原來的通訊頻道，告知分析員情況。	全部解除できたら、元の通信チャンネルを回復させて、分析員に状況を教えてあげてください。	모든 폭탄이 해체되면 원래의 통신 채널을 복구하고 분석가에게 상황을 보고해.	Once they are all disarmed, restore the communication channel with the Adjutant and update him on the situation.						0	
+12	明白。	明白。	了解。	알겠습니다.	Got it.						0	
+13	军方的人快到了，注意把敌我识别打开。	軍方的人快到了，注意打開敵我識別。	軍の人はもうすぐ来ます、敵味方識別機能をオンにするように。	곧 군대의 병력이 오니까 피아식별에 주의하도록.	The military will be here soon. Make sure to turn on your IFF system.						0	
+13_1	阿德里安上将，我希望军方的行动能限制在我们约定的条款以内。	阿德里安上將，我希望軍方的行動能遵守我們所約定的條款。	エイドリアン将軍、軍の行動は私たちが作ったルールの範囲内にして頂きたいです。	아드리안 장군님, 군부의 작전 수위는 저희가 약속했던 범위에서만 움직였으면 합니다.	General Adrian, I hope the extent of the military's intervention will be limited to the terms we agreed upon.						0	
+13_2	这由我来判断。	這由我來判斷。	それは私が判断すること。	그건 제가 판단하리다.	That will be for me to judge.						0	
+13_3	我会尽量遵守。	我會盡量遵守。	極力守るようにしよう。	최대한 주의하도록 하겠소.	But I will do my utmost to comply.						0	
+13_4	你承诺会向我提供的证据呢？	你承諾會提供給我方的證據呢？	約束してくれた証拠は？	제게 제공하겠다고 약속했던 증거는 어디에 있죠?	And the evidence you promised?						0	
+13_5	我不会让军方无法交代的。	我不會讓軍方無法交代的。	軍には満足できるものを提示できます。	군대에서 난처할 일은 없도록 하죠.	I will make sure you get it.						0	
+13_6	最优先事项是抓捕其他董事会成员。	最優先的事項為抓捕其他董事會成員。	他の理事を捕まえるのが最優先です。	가장 중요한 것은 다른 이사회 구성원들을 체포하는 것입니다.	Our highest priority is capturing the other Directors.						0	
+13_7	没有证据，我们的行动阻力很大。	沒有證據，我們的行動會處處受阻。	証拠がないと、行動するのは難しいからな。	증거가 없으면 저희도 작전 수행에 어려움이 많소.	Without evidence, it will be difficult to take action.						0	
+13_8	况且，就算是你，恐怕也很难掌握他们的真实坐标。	何況即便是你，恐怕也很難掌握他們的真實座標。	それに、あなたでもやつらの本当の座標は把握できないだろう。	게다가 당신일지라도 그들의 정확한 위치를 파악하는 건 어려울 텐데요.	What's more, even you might find it challenging to pinpoint their actual location.						0	
+13_9	我只能保证，你可以顺利掌控世界树公司。	我只能保證，你可以順利掌控世界樹公司。	ユグドラシル社を順調にあなたの物にする、それだけなら約束できる。	제가 보장할 수 있는 건 단지 당신이 위그드라실을 원활하게 통제할 수 있도록 하는 거요.	I can only guarantee that your takeover of Yggdrasil will go smoothly.						0	
+14	你花了不少时间进来。	你花了不少時間進來。	入るのに随分と長い時間がかかったな。	들어오는 데 꽤 오래 걸렸군.	You took your time coming here.						0	
+15	它已经开始了。	它已經開始了。	もう始まってる。	이미 시작됐어.	It has already started.						0	
+b-1											0	
+16	威尔·安德森！	威爾·安德森！	ウィル・アンダーソン！	윌 앤더슨!	Will Anderson!						0	
+17	我看见他把割破的手掌伸向共振器中央。	我看見他把割破的手掌伸向共振器中央。	ウィルは解樹に手を伸ばした。その手のひらはすでにズタズタに傷ついている。	그가 상처 난 손바닥을 공진기 가운데로 밀어 넣는 모습이 보였다.	I watched as he stretched his lacerated palm toward the center of the resonator.						0	
+b-2											0	
+18	停下共振！	停下共振！	共振を止めろ！	공진을 멈추세요!	Stop the resonance!						0	
+19	不如你也一起来参加复仇的盛宴吧……	不如你也來一起參加復仇的盛宴吧……	この復讐の宴に、お前も参加したらどうだ……	차라리 너도 함께 복수의 파티에 참여하는 게 어때…	Join me in the feast of revenge...						0	
+b-3											0	
+20	真的是为了复仇吗？	真的是為了復仇嗎？	これは本当に復讐のためか？	정말 복수를 위해선가요?	Is this really for revenge?						0	
+21	我不知道自己为什么会这样问，但这个问题一直盘旋在心的空洞中，不断躁动地鸣叫。	我不知道自己為什麼會這樣問，但這個問題一直盤旋在我心中不停地喧囂躁動。	なぜそう問い詰めたのか分からないが、その疑問は私の心の中でずっと暴れて鳴り響いていた。	왜 이런 질문을 던졌는지는 모르겠지만, 내가 던진 질문은 공허한 마음속을 맴돌며 끊임없이 메아리쳤다.	I didn't know why I even asked him that, but it was a question that had been lingering in the depths of my thoughts, incessantly chirping.						0	
+22	真像啊。	真像啊。	まったく、よく似たもんだ。	정말 닮았네.	You're just like me...						0	
+23	真像是我的影子啊……	真像是我的影子啊……	俺の影みたいだな……	마치 내 그림자처럼…	Just like my past self...						0	
+24	playername……	playername……	playername……	playername…	playername...						0	
+25	我不明白，你为什么要拯救这个无药可医的世界……	我不明白，你為什麼要拯救這個無藥可醫的世界……	俺には分からない。お前がこのふざけた世界を救おうとする理由が……	이해가 안 되는군. 왜 더 이상 되돌릴 수 없는 이 세상을 구하려 하는지.	I don't understand why you insist on saving this incurable world...						0	
+26	共振再次吞没了威尔·安德森。他再次变成无数个彼此纠缠的粒子，飘散在我呼吸的每一口空气里。	共振再次吞沒了威爾·安德森。他再次變成無數個彼此糾纏的粒子，飄散在我吸入的每一口空氣裡。	共振は再びウィル・アンダーソンを飲み込んだ。また無数の絡み合う粒子になった彼は、そのまま私が呼吸している空気に溶け込んだ。	공진은 다시 한번 윌 앤더슨을 집어삼켰다. 그는 다시 얽히고 얽힌 수많은 입자로 변했고, 내가 숨 쉬고 있는 공기 속으로 퍼졌다.	The resonance swallowed Will Anderson up again. He morphed into countless entangled particles, scattered among the air in every breath I took.						0	
+27	然后他再一次……	然後他再一次……	そして、彼はまた……	그리고 그는 또다시…	Then, he once again...						0	
+28	自雾中出现。	自霧中出現。	霧の中から現れた。	안개 속에서 모습을 드러냈다.	Appeared in the fog.						0	

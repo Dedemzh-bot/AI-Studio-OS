@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	是泰坦！	是泰坦！	タイタンだ！	타이탄이야!	That's a Titan!						0	
+2	别慌别慌，这种体型的货色，本小姐能对付。	別慌別慌，這種體型的貨色，本小姐能對付。	狼狽えないで！このくらいのサイズなら、あたしでなんとかなるわ。	걱정 마. 이 정도 타이탄은 별거 아니니까.	Calm down, one of that size is a piece of cake for me.						0	
+auto_2	你可别一见到泰坦就发疯！	你可別一見到泰坦就發瘋！	あんたはタイタンに出会うたび暴走するの、やめてよね！	타이탄만 보면 그렇게 정신 사납게 달려들지 좀 마!	You can't just lose your cool the instant you see a Titan!						0	

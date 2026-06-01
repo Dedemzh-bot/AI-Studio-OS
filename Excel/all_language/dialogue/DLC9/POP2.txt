@@ -1,0 +1,79 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	勇敢的星际冒险家，playername，非常感谢您拯救了我们！	勇敢的星際冒險家，playername，非常感謝您拯救了我們！	勇敢なスペースアドベンチャーplayername、救って頂いて、ありがとうございます。	용감한 저희의 playername 님! 구출해 주셔서 정말 감사합니다!	playername, our brave interstellar adventurer, thank you so much for saving us!						0	
+2	不必客气，举手之劳。	不必客氣，舉手之勞。	当然のことをしたまでだ。	별 말씀을요. 아무것도 아닙니다.	Don't mention it. It was nothing.						0	
+3	这些物资不足以我们感谢之情的万分之一，还请您不要嫌弃！	這些物資不足以我們感謝之情的萬分之一，請不要嫌棄！	気持ちばかりの品ですが、感謝のしるしとして、こちらの物資を受け取ってください。	마음을 담아 물자를 조금 모아봤습니다… 부족하더라도 부디 양해해 주세요.	These supplies are only a small token of our gratitude. Please don't turn them down!						0	
+4	帮了大忙了，这样我的旅行就能继续了。那么就告辞了。	幫了大忙了，這樣我的旅行就能繼續了。那麼就告辭了。	助かる。これで旅を続けられるよ。それじゃ。	이미 엄청나게 많은 도움이 됐어요. 그럼 이만 가볼게요.	Thank you, this will actually help a lot — I can continue my quest with them now. Take care.						0	
+5	等等！	等等！	待って！	잠깐만요!	Wait!						0	
+6	还有什么事？	還有什麼事？	まだなにか？	또 무슨 일 있었죠?	What else do you need?						0	
+7	看到您的英姿后，奴家已深深爱上您，请带奴家走吧！	看到您的英姿後，奴家已深深愛上您，請帶奴家走吧！	あなたの勇姿を見て、私、すっかりあなたに惚れこんでしまいました！私のことも連れていってください！	분석가님의 당당한 모습을 보고 반해버렸어요! 저도 데려가 주시면 안될까요!?	Your heroics have stolen my heart — I've fallen deeply for you. Please, take me with you!						0	
+8	不必了不必了。	不必了不必了。	それはできない。	아… 죄송하지만 괜찮습니다.	That's really not necessary, thank you.						0	
+9	请接受奴家的心意吧！	請接受奴家的心意吧！	お願いします！	부디 제 마음을 받아 주세요!	But I insist on offering you my heart!						0	
+10	你解释解释怎么回事。	你解釋解釋怎麼回事。	これってどういう事なんだ？説明してくれ。	이게 어떻게 된 건지 설명 좀 해봐.	Care to explain?						0	
+11	解释什么？	解釋什麼？	説明って？	뭘 설명해?	What's there to explain?						0	
+12	这就是你说的刚实装的新剧情？	這就是你說的剛實裝的新劇情？	これが君の言ってた、新しく実装されたシナリオなのか？	이게 네가 말했던 신규 스토리야?	Is this the new storyline you were talking about?						0	
+13	对，怎么了？	對，怎麼了？	そうだけど、どうかしたの？	응, 무슨 일 있어?	Yeah, what's wrong?						0	
+14	你觉得没问题吗？	你覺得沒問題嗎？	おかしくないか？	무슨 일이 없을 것 같아서 하는 소리야?	You don't see any problem with this?						0	
+15	你觉得有问题吗？	你覺得有問題嗎？	おかしくないよ？	그러니까 무슨 일이 있냐니까?	Do you?						0	
+16	我帮他们打跑两只狼，这位姑娘就要嫁给我？	我幫他們打跑兩隻狼，這位姑娘就要嫁給我？	オオカミ退治を手伝っただけでプロポーズされるか、普通？	내가 늑대 두 마리를 쫓아내니까 갑자기 나한테 시집을 온다고…	I fend off a couple of wolves for them, and suddenly this lady wants to marry me?						0	
+17	在前期的小任务里多给奖励，是很常见的设计。	在前期的小任務多給獎勵，是很常見的設計。	初期のミッションで報酬を多めに用意するのは常識だよ？	초반에 미션을 통해서 보상을 주는 건 당연한 거야.	Offering substantial rewards for early quests is a common design.						0	
+18	按一般常识来说，这个奖励会不会太丰厚了点。	照一般常識來說，這個獎勵會不會太豐厚了點。	常識と言われてもな。この手の報酬はさすがに重すぎるよ。	그렇다고 해도 이 보상은 너무 다양하지 않아?	But isn't this "reward" a bit over the top?						0	
+19	从数值来说，这些物资都不够你撑到下个区域。	從數值來說，這些物資都不夠你撐到下個區域。	物資の量は全然多くないよ。次のエリアに到達する前に尽きる計算になってるから。	데이터로 말하자면, 이 물자들은 당신이 다음 구역까지 버틸 수 있을 만큼 충분하지 않아.	From a purely numerical perspective, those supplies won't even last you till the next area.						0	
+20	我是说这个以身相许的女NPC。	我是說這個以身相許的女NPC。	私が言ってるのは、この女性NPCのことだよ。	이 헌신적인 여성 NPC를 말하는 거야.	I'm talking about the female NPC's marriage proposal.						0	
+21	前期需要个比较好用的初始伙伴，直接让她入队可以减低开荒难度。	前期需要個比較好用的初始夥伴，直接讓她入隊可以減低開荒難度。	ゲームの序盤だと、有能な初期メンバーが必要でしょ？彼女をパーティーに入れたら、序盤は楽になるから。	초기에는 사용하기 쉬운 첫 파트너가 필요했고, 그녀를 직접 팀에 합류시키면 황무지를 개척하는 어려움을 줄일 수 있어.	Early in the game, a strong ally can really ease the difficulty curve. Recruiting her directly cuts down on the grind.						0	
+22	你别给我装傻，我说的是这个入队的理由有问题。	你別給我裝傻，我說的是這個入隊的理由有問題。	とぼけないでくれ。パーティーに加わる動機に問題があるって言ってるんだよ。	바보인 척하지 마, 내가 말한 건 입단 이유가 문제라는 거야.	Don't play dumb, I'm talking about the logic behind her joining up.						0	
+23	现在玩家不都喜欢这样的吗？	現在玩家不都喜歡這樣的嗎？	今どきのユーザーはこういう展開が好きなんじゃないの？	지금 게이머들은 다 이런 거 좋아하지 않아?	Isn't this something players dig these days?						0	
+24	谁跟你说的？	誰跟你說的？	それ、誰から聞いたんだよ？	누가 네게 말했어?	Who gave you that idea?						0	
+25	最近刚加入的文案策划。	最近剛加入的文案策劃。	最近来たばかりのシナリオライターから。	최근에 가입한 문서 기획이야.	Our new scriptwriter.						0	
+26	“最近刚加入”……不会是我想的那个人吧？	「最近剛加入」…不會是我想的那個人吧？	最近来たばかりって……まさか、彼女のことか？	요즘 막 가입했어요… 설마 내가 생각하는 그 사람은 아니겠지?	"New scriptwriter"... It's not who I think it is, right?						0	
+27	是你想的那个人。	是你想的那個人。	そのまさかだよ。	네가 생각하는 그 사람이야.	It's exactly who you think it is.						0	
+28	哎……难怪了。	哎……難怪了。	はぁ……道理で……	아이고… 어쩐지.	Uh... that explains a lot.						0	
+29	那第一章的剧情也差不多测试完了，除了NPC太主动你没有别的意见吧？	那第一章的劇情也差不多測試完了，除了NPC太主動你沒有別的意見吧？	これで、第1章のシナリオのテストは一通り終わったよ。NPCがすぐ好きになっちゃうこと以外、意見はないよね？	그럼 1장 줄거리도 거의 테스트 끝났는데, NPC가 너무 주동적이라는 것 말고는 다른 의견이 없지?	So we're almost done testing the first chapter. Except for the overly forward NPC, do you have any other feedback?						0	
+30	嗯，有优化空间，且很大。	嗯，有優化空間，而且很大。	ああ。でも、そこは必ず修正しておいてくれ。	그래, 최적화할 수 있는 공간도 커.	I think there's plenty of room for improvement.						0	
+31	我回头让她改改，接下来就测试新功能吧！	我回頭讓她改改，接下來就測試新功能吧！	後で彼女に言っておくよ。次は新機能のテストかな。	나중에 고치라고 말할게. 이제 새로운 기능이나 테스트해 보자!	I'll have her tweak it. Now, let's move on to testing the new features!						0	
+32	还有新功能？	還有新功能？	新機能？	새로운 기능이 더 있어?	There's more?						0	
+33	新做了钓鱼玩法，不过除我之外还没有人玩过。	新做了釣魚玩法，不過除我之外還沒有人玩過。	釣りのミニゲームを作ったんだ。まあ、今の所、私しかテストプレイしてないんだけど。	낚시 콘텐츠를 만들었는데 아직 아무도 테스트를 해본 적이 없어서.	I've just rolled out a fishing mechanic. No one else has tried it yet.						0	
+34	这个游戏不是叫新星开拓吗？怎么还能钓鱼？	這個遊戲不是叫新星開拓嗎？怎麼還能釣魚？	「惑星開拓」なのに、釣りもするのか？	신성 개척이라고 하지 않았어? 어떻게 낚시도 할 수 있는 거야?	Isn't this game called "Star Master"? How does fishing fit in?						0	
+35	没有钓鱼玩法的RPG是不完整的！	沒有釣魚玩法的RPG是不完整的！	釣りができないんじゃゲームが完成したって言えないでしょ！	낚시 콘텐츠가 없는 RPG는 상상할 수 없으니까!	What's an RPG without a fishing mechanic?						0	
+36	你这是哪里来的理论？	你這是哪裡來的理論？	どうしてそうなるんだよ……	어디서 가져온 정보야?	And you got this from...?						0	
+37	是我研究了很多游戏论坛得出的总结，所以这段时间花了大量资源做这个功能。	是我研究了很多遊戲論壇得出的總結，所以這段時間花了大量資源來做這個功能。	色んなゲームコミュニティで調査して出した結論だよ。だから大量のリソースを注ぎ込んで、このミニゲームを作ったんだ。	게임 포럼을 통해 얻었던 정보야. 그동안 이 기능을 만들려고 많은 자원을 투자했거든.	It's a conclusion I've drawn from extensive gaming forum research. I've poured a lot of resources into this.						0	
+38	这就是你把两个星球砍成一个岛的理由？	這就是你把兩個星球砍成一個島嶼的理由？	だから舞台をふたつの惑星からひとつの島にスケールダウンしたのか？	이게 두 개의 행성을 하나의 섬으로 합친 이유야?	So that's why you slashed two planets down to one island?						0	
+39	上次测试很多玩家反馈说步子迈大了，重复的场景没有意义，不如先做好一个区域，我觉得有道理。	上次測試很多玩家說步子邁大了，重複的場景沒有意義，不如先做好一個區域，我覺得有道理。	この前のテストで、舞台を大きくしすぎて、どこを見ても似たような景色ばかりだったから、まずはひとつのエリアを作り込んだらどうだってユーザーに言われたんだ。確かに一理あるなと思ってね。	저번 테스트에서 많은 유저들이 스텝이 커져서 반복 장면이 무의미하다고 피드백을 줬는데, 차라리 한 구역만 먼저 만들어 놓는 게 일리가 있는 것 같아.	Player feedback from the last test suggested we were spreading ourselves too thin with repetitive scenes, and it'd be better to optimize one area first. I think it's very good advice.						0	
+40	像我这样懂玩家的制作人是会虚心接受玩家建议的。	像我這樣懂玩家的製作人是會虛心接受玩家建議的。	私みたいなユーザー思いの制作者は、もちろんユーザーの要望に答えてあげちゃうんだよね。	나처럼 유저들을 잘 아는 제작자라면 유저들의 건의를 겸허히 받아들여야지.	As a producer in tune with our players, I take their feedback to heart.						0	
+41	那钓鱼玩法也是玩家要求加的？	那釣魚玩法也是玩家要求加的？	じゃあ、その釣りゲームもユーザーの要望だったのか？	낚시 콘텐츠를 추가해 달라고 했어?	Did players ask for the fishing mechanic too?						0	
+42	不，是我自己要加的。	不，是我自己要加的。	いや？私の一存で決めたことだけど？	아니, 그건 내가 넣은 거야.	No, that was my call.						0	
+43	那你纯粹是拿玩家当借口吧……	那你純粹是拿玩家當藉口吧……	ユーザーの要望を言い訳にしているだけじゃないか！	그럼 그냥 말도 안 되는 유저 핑계를 대는 거잖아…	So you're using player feedback as an excuse to indulge your own preferences...						0	
+44	这个世界上不会有讨厌钓鱼的玩家！	這個世界上不會有討厭釣魚的玩家！	釣りが嫌いなユーザーなんてこの世に存在しないから！	이 세상에 낚시를 싫어하는 플레이어는 없을 거야!	Everybody loves fishing!						0	
+45	你从哪里来的自信？	你從哪裡來的自信？	何を根拠にそう言えるんだよ。	무슨 자신감이야?	How can you be so sure about this?						0	
+46	老玩家的经验和直觉。	老玩家的經驗和直覺。	古参ゲーマーとしての勘だよ。	베테랑 플레이어의 경험과 직감.	An old gamer's experience and intuition.						0	
+47	我觉得你不跟团队商量就实装新功能还是太草率了。	我覺得你不跟團隊商量就實裝新功能還是太草率了。	開発チームになんの相談もなく新機能を追加するのは、モラル的にどうかと思うけどな。	팀과 상의하지 않고 새로운 기능을 설치하는 것은 너무 성급하다고 생각해.	Still, launching new features without consulting the team seems rash.						0	
+48	而且也没有实际的数据来证明<orange>现在的玩家</>喜好和你一致。	而且也沒有實際的數據來證明<orange>現在的玩家</>喜好和你一致。	それに、<orange>今どきのユーザー</>の好みが君と一緒という保証もない。	그리고 <orange>현재 플레이어</> 취향이 당신과 일치한다는 것을 증명할 실제 데이터도 없어.	Plus, there's no real data showing <orange>players nowadays</> share your tastes.						0	
+49	哦？话里有话？	哦？話裡有話？	へえ？詳しく聞かせてもらおうか。	어? 말 속에 말이 있네?	Hmm? What are you hinting at?						0	
+50	我只是觉得要再多收集点意见比较好，你现在去做个问卷调查应该来得及。	我只是覺得要再多收集點意見比較好，你現在去做個問卷調查應該來得及。	もっとユーザーの声を聞いた方がいいって思っただけさ。今からでも遅くない。アンケートを作るべきだよ。	난 단지 의견을 좀 더 수렴하는 것이 좋을 것 같아서, 지금 설문조사를 하면 늦지 않을 것 같아.	I just think it'd be wise to gather more opinions. There's still time for a quick survey.						0	
+51	来不及。	來不及。	もう遅いよ。	늦었어.	It's too late for that.						0	
+52	为什么？	為什麼？	なんでだ？	왜?	Why's that?						0	
+53	现在各个平台发问卷的审核很麻烦，之前我有试过几次，但是没过审核。	現在各平台發問卷的審核很麻煩，之前有試過幾次，但沒過審核。	アンケートを発信できるサイトの審査が面倒くさいんだ。何度も試したけど、通らなかった。	지금 각 플랫폼에서 설문지 검토가 번거로워, 전에 몇 번 시도했는데 검토가 안 됐어.	Getting survey approvals on platforms is a hassle. I've had a few rejections already.						0	
+54	审核问卷的AI就是垃圾，是违逆时代的产物。	審核問卷的AI就是垃圾，是違逆時代的產物。	しょせんAI審査なんて時代遅れのボンコツだからね。	설문지를 심사하는 AI는 정말 별로야, 시대를 거스르는 산물이야.	The AI that checks them is a joke, totally out of step with the times.						0	
+55	你就不反思一下自己的问卷做得不规范吗？问卷对格式、涉及范围这些要求严格也是为了提高AI审核的效率，你还是多适应下这个社会的节奏吧。	你就不反思自己的問卷做得不規範嗎？問卷對格式、涉及範圍這些要求嚴格也是為了提高AI審核的效率，你還是多適應下這個社會的節奏吧。	君が作ったアンケートに問題があるじゃないのか？AIによる審査を導入したのは、アンケートの質を保証するためだ。君こそ今の時代に適応したほうがいいんじゃないかな。	자신의 설문지가 규범에 맞지 않게 작성되었는지 반성해 보지 않겠어? 설문지의 형식과 범위에 대한 엄격한 요구 사항도 AI 검토의 효율성을 높이기 위한 것이므로 이 사회의 흐름에 더 적응하는 것이 좋아.	Ever think your surveys might be off the mark? Strict formatting and scope requirements are meant to streamline AI reviews. You might want to get with the times yourself.						0	
+56	你说得很有道理，要不你来做个问卷？	你說得很有道理，要不要你來做問卷？	そこまで言うなら、君がアンケートを作れば？	당신의 말이 매우 일리가 있어, 아니면 당신이 설문지를 만들어 줄래?	Fair point. Why don't you create a survey then?						0	
+57	我就不该提这茬。	我就不該提這茬。	藪蛇だったか……	내가 이런 이야기를 꺼내지 말았어야 했네.	I knew I'd regret bringing it up.						0	
+58	要不直接做个内部调查？现在准备新的问卷也很花时间。	要不直接做個內部調查？現在準備新的問卷也很花時間。	まず社内のみんなに聞いたらどうだ？今から新しいアンケートを作るのも時間がかかるし。	아니면 직접 내부 조사를 해보겠어? 지금은 새로운 설문지를 준비하는 데도 시간이 많이 걸려.	How about an internal poll? Setting up a new external survey would take too much time.						0	
+59	好主意，你召集一下大家吧。	好主意，你召集一下大家吧。	いいアイデアだね。なら、早速みんなを集めてくれない？	좋은 생각이야, 사람들을 모아봐.	Good call. Could you gather the team?						0	
+60	该你来吧？你不是制作人吗？	該你來吧？你不是製作人嗎？	それはディレクターである君の仕事だろ。	네가 해야하지 않아? 너 제작자 아니야?	Shouldn't that be more your job, given you're the producer?						0	
+61	这种事还是分析员来做比较方便。	這種事還是分析員來做比較方便。	いやいや、そういうのは分析員の方が向いてるよ。	이런 일은 역시 분석가가 하는 것이 비교적 편리해.	This seems more like your area of expertise, Adjutant.						0	
+62	服了你了。	服了你了。	しょうがないな。	너 정말…	You're unbelievable.						0	
+63	半小时后。	半小時後。	30分後。	30분 후,	Half an hour later.						0	
+64	各位同事，你们觉得在主题是外星探索的游戏里有钓鱼玩法会不合理吗？	各位同事，你們覺得在主題是外星探索的遊戲裡有釣魚玩法會不合理嗎？	みんなの率直な意見を聞かせてほしい。テーマが「惑星開拓」のゲームに釣りのミニゲームがあるのって、やっぱり変かな？	동료 여러분, 외계 탐사를 주제로 한 게임에 낚시를 하는 것이 불합리하다고 생각해?	Team, do you think it makes sense to include a fishing mechanic in a game about space exploration?						0	
+65	不会啊，只要设定的星球环境适合就没问题，而且芙提雅老师可以帮忙设计鱼的种类哦！可以既考虑到生物学又有幻想元素！那钓鱼点的分布也需要设计一下呢，水域的地图我重新规划一下吧！我现在就回去修改！	不會啊，只要設定的星球環境適合就沒問題，而且芙提雅老師可以幫忙設計魚的種類哦！可以既考慮到生物學又有幻想元素！那釣魚點的分佈也需要設計一下呢，水域的地圖我重新規劃一下吧！我現在就回去修改！	ううん、全然？惑星の設定に合っていれば何の問題もないと思うな。何なら、フリティア先生が魚のデザインを手伝ってあげられるよ！生物学とファンタジー要素をうまく組み合わせたデザインにしてあげる！そしたら釣りができる場所も考え直す必要があるよね！今から設定を練り直すね！	아니에요, 지구 환경만 잘 맞으면 문제없어, 그리고 프티야 선생님이 물고기의 종류를 설계해 줄 수 있어! 생물학과 판타지 요소를 모두 고려할 수 있어! 그럼 낚시터 분포도 설계해야겠네, 수역 지도는 제가 다시 짜볼게! 지금 바로 가서 수정하겠어!	Sure. As long as the planet's ecosystem supports it, it's fine. I can help design the fish species to include both biological and fantastical elements! Let me tweak the aquatic maps to include some fishing spots — I'm going back to make changes right now!						0	
+66	我觉得没什么问题，虽然没关系，但也不冲突。	我覺得沒什麼問題，雖然沒關係，但也不衝突。	問題はないと思う。必要性は感じないが、あっても別に問題はない。	별문제 없을 것 같아, 괜찮긴 한데 충돌도 안되고.	I don't see a problem with it. It's unrelated but doesn't clash with anything else.						0	
+67	嗯……钓鱼也是很不错的休闲方式。	嗯……釣魚也是很不錯的休閒方式。	ふむ……釣りはいい息抜きになるからな。	음… 낚시도 아주 괜찮은 레저 방식이네.	Right... Fishing can be an excellent recreational activity.						0	
+68	不挺好的吗？既然有钓鱼了，不如再加个冲浪玩法吧？	不挺好的嗎？既然有釣魚了，不如再加個衝浪玩法吧？	いいんじゃない？釣りができるなら、サーフィンのミニゲームも入れたらどう？	좋지 않아? 낚시도 했으니 서핑도 추가할까?	I like it! How about we also throw in a surfing mini-game?						0	
+69	好主意，不过目前的开发周期是来不及了，等以后做活动吧。	好主意，不過目前的開發週期是來不及了，等以後做活動吧。	いいね。でも今からじゃ間に合わないから、今後のイベントで検討するよ。	좋은 생각인데 지금 개발 주기는 너무 늦어서 나중에 이벤트하자.	Great idea, but our current development cycle can't handle that. Perhaps in a future update.						0	
+70	别再随便增加工作量了……	別再隨便增加工作量了……	これ以上作業を増やすのはやめてくれ……	더 이상 함부로 업무량을 늘리지 마…	Let's not start piling on more work...						0	
+71	“新星开拓钓鱼玩法策划大会”结束后，队员们都分别回自己房间了。	「新星開拓釣魚玩法策劃大會」結束後，隊員們都分別回自己房間了。	一通り意見を集めたあと、討論会は解散となって、隊員達も自分の部屋に戻った。	'신성 개척 낚시 콘텐츠 기획대회'가 끝난 뒤 팀원들은 각자 방으로 돌아갔다.	After the "Star Master Fishing Feature Planning Meeting," everyone returned to their own rooms.						0	
+72	你看，内部人员都觉得有钓鱼玩法是合理的。	你看，內部人員都覺得有釣魚玩法是合理的。	ほら、釣りのミニゲームに文句がある人はひとりもいなかったでしょ？	봐, 내부 사람들은 모두 낚시 콘텐츠가 합리적이라고 생각해	See, the internal team agrees that fishing is a reasonable addition.						0	
+73	行吧，既然你们都认为没问题，那我也不反对了。	行吧，既然你們都認為沒問題，那我也不反對了。	まあね。みんなが大丈夫だと思うならそれでいいよ。	좋아, 다들 문제가 없다고 생각하시니 저도 반대하지 않을게.	Fine. If it's all good with the team, I won't push against it.						0	
+74	好了，讨论的事告一段落，继续测试吧，接下来是地图上所有钓鱼点位的测试。	好了，討論的事告一段落，繼續測試吧，接下來是地圖上所有釣魚點位的測試。	よし、じゃあ釣りの話はこのぐらいにして、テストに戻ろう。全部の釣りポイントをテストしてね。	자, 토론은 일단락되었으니 계속 테스트해 보자, 지도상의 모든 낚시 포인트에 대한 테스트가 있을 거야.	Great, dispute settled. Let's get back to work. Next up: testing all the fishing spots on the map.						0	
+75	你去哪？	你去哪？	じゃあ君は？	어디 가?	Where are you off to now?						0	
+76	我去泡碗面，你加油。	我去泡碗麵，你加油。	ちょっとカップ麵を食べてくる。がんばってね～。	컵라면 타올게. 힘내.	I'm gonna go make some instant ramen. Hang in there.						0	
+77	安卡希雅！！！	安卡希雅！！！	アカシア！！！	아카시아!!!	Acacia!!!						0	

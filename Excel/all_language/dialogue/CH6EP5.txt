@@ -1,0 +1,72 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员阁下，你们那边还有多余的弹药吗？	分析員閣下，你們那邊還有多餘的彈藥嗎？	分析員殿、そちらに弾薬の余りはあるか？	분석가님, 혹시 남는 탄약 없으실까요?	Mr. Adjutant, do you have any extra ammunition over there?						0	
+b-1											0	
+2	抱歉，我们的备弹也见底了。	抱歉，我們的備用彈也見底了。	すまない、こっちの弾薬ももうすぐ切れそうだ……	죄송하지만 저희도 얼마 남지 않았습니다.	We're just about out too, sorry.						0	
+3	再这样下去就真的要跟泰坦和异化人肉搏了……	再這樣下去就真的要跟泰坦和異化人肉搏了……	このままでは、本当にタイタンや変異者との肉弾戦になるぞ……	이대로 가면 타이탄과 변이자들하고 몸싸움을 하게 생겼네요…	We're gonna end up in a fistfight with Titans and Changed at this rate...						0	
+4	简直就像有什么人在背后指挥一样。	簡直就像有什麼人在背後指揮一樣。	まるで何者かが裏で指揮しているみたいだ。	누군가 마치 배후에서 지휘를 하는 것처럼 느껴져요.	It's like somebody's commanding them from behind the scenes.						0	
+5	只要我们一行动，这些泰坦和异化人总是恰到好处地出现。	只要我們一行動，這些泰坦和異化人總是恰到好處地出現。	私たちが行動を取るたび、タイタンと変異者は都合よく現れる。	어딜 가든 타이탄과 변이자들이 때맞춰서 저희를 기다리고 있어요.	The moment we move, these Titans and Changed appear just at the right time.						0	
+b-2											0	
+6	这种事情……没有依据吧。	這種事情……沒有依據吧。	そんなこと……根拠がない。	그건… 아직까지는 근거 없는 추측일 뿐이에요.	There's... no basis for that, is there?						0	
+7	而且“雪”丝毫没有停止的迹象，好处至少郊狼不敢深入这种环境来骚扰我们……	而且“雪”絲毫沒有停止的跡象，好處至少郊狼不敢深入這種環境來騷擾我們……	それに「キオーン」も止む気配がない。幸い、コヨーテはこの環境に深入りしてまで我々を邪魔するつもりはないらしい。	'눈'이 전혀 멈출 것 같지 않아 보여요. 코요테가 이런 곳까지 접근해서 저희를 귀찮게 하지는 않겠지만…	And the Snow's showing no sign of stopping. The only good thing is that at least the Coyotes don't dare venture too far into this kind of environment to attack us...						0	
+8	但是如果更大型的泰坦现身……	但是如果更大型的泰坦現身……	でも、もしもっと大型のタイタンが現れたら……	하지만 만일 이곳에 더 큰 대형 타이탄이 나타난다면…	But if an even larger Titan appears, then...						0	
+9	分析员阁下，到时候我们会全力拖住泰坦，“原型抑制剂”就全部交由你们海姆达尔来护送。	分析員閣下，到時候我們會全力拖住泰坦，“原型抑制劑”就全部交由你們海姆達爾來護送。	分析員殿、そうなったら、我々は全力でタイタンを足止めする。「プロトタイプ抑制剤」の護送はあなたたちヘイムダルに任せる。	저희가 어떻게든 시간을 끌어 볼 테니 '프로토타입 억제제' 호송은 헤임달 부대에게 전적으로 맡기겠습니다.	Mr. Adjutant, we'll do everything we can to hold back the Titan. We'll entrust Heimdall Force with taking back all the Prototype Inhibitors.						0	
+b-3											0	
+10	援军很快就到了，不会发展到那一步的。	援軍很快就到了，不會發展到那一步的。	そんな事態にはならない。もうすぐ援軍が来る。	걱정 마세요. 지원군이 곧 도착할 테니 그런 상황은 일어나지 않을 겁니다.	Things won't get that bad. It won't be much longer until the reinforcement squad arrives.						0	
+11	身为军人，总会做好必要的觉悟。	身為軍人，總會做好必要的覺悟。	軍人である以上、いつも必要な覚悟をしている。	그래도 군인으로서 항상 최악의 상황까지 생각해야 합니다.	As a military officer, I've always gotta be prepared for the worst.						0	
+12	何况要我把希望寄托在肴身上，总觉得……	何況要我把希望寄託在肴身上，總覺得……	よりにもよって肴に希望を託すなんて、やれやれ……	지금 모든 희망을 야오한테 걸기에는…	And I've put all my hope in Yao. I can't help feeling like...						0	
+13	分析员，观察到有武装人员接近。	分析員，觀察到有武裝人員接近。	分析員さん、武装した人間が接近しています。	분석가님, 무장한 사람이 저희한테 접근해 오고 있습니다.	Adjutant, I've detected armed personnel approaching.						0	
+14	独自一人，应该是天启者，从装备上看，很像海姆达尔队员……但，是没见过的脸呢。	獨身一人，應該是天啟者，從裝備上看，很像海姆達爾隊員……但，是沒見過的臉呢。	相手は一人、覚醒者でしょう。装備から見て、ヘイムダル隊員のようですが……見覚えのない顔ですね。	한 사람이고 계시자처럼 보여요. 장비만 봤을 때는 헤임달 팀원 같은데… 처음 보는 얼굴이라…	Alone, likely a Manifestation. Their gear looks rather like that of Heimdall Force... although it's an unfamiliar face.						0	
+15	有可能是援军吗？	有可能是援軍嗎？	援軍の可能性は？	지원군일 가능성은?	Could they be the reinforcement squad?						0	
+16	“没见过”“独自一人”“海姆达尔”……听完茉莉安的描述，脑海中隐约浮现出一个形象，会是她吗？	“沒見過”、“隻身一人”、“海姆達爾”……聽完茉莉安的描述，腦海中隱約浮現出一個形象，會是她嗎？	「見覚えない」、「一人」、「ヘイムダル」……マリアンの話を聞いて、急に一人の姿が浮かんでくる。彼女なのか？	처음 보는', '한 사람', '헤임달'… 마리안의 설명을 듣자 머릿속에서 단 사람이 떠올랐다. 정말 그녀가 온 걸까?	Unfamiliar, alone, from Heimdall... Upon hearing Marian's description, a vague image emerged in my mind. Could it be her?						0	
+b-4											0	
+17	保持警戒，放对方过来。	保持警戒，放對方過來。	警戒を保ちつつ、相手を通してくれ。	경계를 늦추지 말고, 이곳으로 데려와 줄 수 있을까?	Stay on alert and let them approach.						0	
+18	呦，playername。	呦，playername。	よ、playername。	여어… playername.	Hey, playername.						0	
+b-5											0	
+19	安卡希雅！	安卡希雅！	アカシア！	아카시아!	Acacia!						0	
+20	每回见面都要这么激动吗？	每回見面都要這麼激動嗎？	え、会う度に毎回そんなに興奮する？	매번 볼 때마다 그렇게까지 다급해야겠어?	Do you need to get this excited every time you see me?						0	
+21	怪令人害怕的。	怪令人害怕的。	こわ。	조금 무서울 정도라고…	It's a little creepy.						0	
+b-6											0	
+22	卡罗琳那边收到我们的求援信号了？	卡羅琳那邊收到我們的求援訊號了？	カロリンに私たちの救援要請が届いたのか？	캐롤린이 우리가 보낸 구조 신호를 받은 거야?	Did Caroline receive our request for help?						0	
+23	嗯，没想到第一个任务就是来救你。	嗯，沒想到第一個任務就是來救你。	うん。初任務があなたの救援だとは思わなかった。	맞아. 첫 번째 미션으로 널 구하러 올 거라곤 생각도 못 했는데.	Yeah. Didn't expect my first mission to be rescuing you.						0	
+24	你有遇到一个叫“肴”的军方狙击手吗？她负责在“雪”中为援军指引方位。	你有遇到一個叫“肴”的軍方狙擊手嗎？她負責在“雪”中為援軍指引方位。	「肴」という狙撃手に会ったか？「キオーン」の中で援軍の道案内をする手筈だ。	혹시 '야오'라는 군부 측 저격수를 본 적 있습니까? '눈' 속에서 지원군을 부르려고 나갔습니다.	Did you come across a military sniper named Yao? She's in charge of guiding the reinforcement squad through the snow.						0	
+25	遇到了，就在那里。	遇到了，就在那裡。	会ったよ、あそこにいる。	만났어. 저쪽에 있을 거야.	I did. She's over that way.						0	
+26	她跟你一起回来了吗？	她跟你一起回來了嗎？	彼女はあなたと一緒に戻ってきたのか？	같이 돌아오신 건가요?	She came back with you!?						0	
+27	有什么问题吗？这个距离，通讯频道还能用，我可是能听到的哦。	有什麼問題嗎？這個距離，通訊頻道還能用，我可是能聽到的哦。	何か問題でも？この距離ならまだ通信チャンネルは使える。全部聞こえてるぞ。	무슨 문제라도 있는 거야? 이 정도 거리면 통신망도 사용할 수 있고, 다 들리는데.	Is there a problem? The communicators still work at this distance, so I can hear everything you're saying.						0	
+28	你的职责是为援军指引方位，结果你只带回来一个人，就擅自离开了岗位！	你的職責是為援軍指引方位，結果你只帶回來一個人，就擅自離開了崗位！	お前の役目は援軍の道案内。一人連れてきただけで、勝手に持ち場を離れるなんて！	야오, 당신의 미션은 지원군을 부르는 거였습니다. 근데 이렇게 혼자서 돌아오는 건 근무 이탈이나 마찬가지예요!	Your job was to guide the reinforcement squad back here! You left your post only to bring back a single person!						0	
+29	一个人能发挥什么作用？我们花了那么大努力送你冲出去！	一個人能發揮什麼作用？我們花了那麼大努力送你衝出去！	一人で何ができる？あれだけ努力してお前を送り出したんだ！	고작 지원군 한 명으로 뭘 할 수 있다는 거죠? 저희가 당신을 외부로 내보내려고 얼마나 고생했는데!	You think there's such a thing as a one-man reinforcement squad? We worked so hard to get you out there!						0	
+30	上尉！我早就说了，应该派我去！	上尉！我早就說了，應該派我去！	大尉！だから言ったはず、オレが行くべきだった！	이대위님! 그냥 절 보내달라고 하지 않았습니까?!	Captain! I told you that you should've sent me!						0	
+31	……	……	……	…	...						0	
+32	现在不是说这种话的时候！	現在不是說這種話的時候！	今はそんなことを言っている場合じゃない！	지금은 그런 말 할 때가 아니야!	Bicker later. Now's not the time!						0	
+33	上尉！你要袒护她吗？	上尉！你要袒護她嗎？	大尉！彼女を庇うのか？	대위님! 지금 저 인간 편을 드는 건가요?	Captain! Are you covering for her?						0	
+34	够了！你在质疑命令吗？	夠了！你在質疑命令嗎？	もういい！命令を疑っているのか？	그만해! 지금 내 명령에 불복하겠다는 건가?	Enough! Are you questioning my orders?						0	
+35	有什么意见，等回去再说。	有什麼意見，等回去再說。	意見があるなら、帰ってから聞く。	할 말 있으면 나중에 하도록 해.	Save what you have to say for once we're back.						0	
+36	肴？肴？	肴？肴？	肴？肴？	야오? 야오!	Yao? Yao?						0	
+37	唉……	唉……	はぁ……	후…	*sigh*...						0	
+38	终究还是没被信任吧。	終究還是沒被信任吧。	結局信頼されてないな。	아무도 날 믿지 않는군.	Looks like I'm still not trusted...						0	
+39	明明已经把求援信标布置好了……	明明已經把求援信標布置好了……	救援ビーコンも設置したのに……	구조 표지판까지 설치하고 왔는데…	I mean, I set up the distress beacon requesting support...						0	
+40	即使解释，又有什么意义呢？	即使解釋，又有什麼意義呢？	説明しても、何の意味がある？	설명을 한다고 한들 무슨 의미가 있겠어?	But like there's any point explaining that, I guess.						0	
+41	工作嘛，大不了换一份。	工作嘛，大不了換一份。	ただの仕事だ。最悪の場合、変えればいい。	정 안되면 다른 직업을 다시 찾아보지 뭐.	It's just work. If anything goes wrong, I can always swap jobs.						0	
+42	只要能活得比谁都好，在哪里都是一样的吧？	只要能活得比誰都好，在哪裡都是一樣的吧？	他の人よりうまく生きていられれば、どこにいても同じだろう。	어디 가든 살아있기만 하면 되는 거잖아?	As long as I can live a better life than anyone, it doesn't matter much where I am, I guess?						0	
+43	喂？能听见吗？	喂？能聽見嗎？	もしもし？聞こえる？	여보세요? 들려?	Hello? Do you hear me?						0	
+44	收到，什么事？	收到，什麼事？	ええ、どうした？	잘 들려. 무슨 일이야?	Received. What's up?						0	
+45	听了刚才那些话，想逃跑了吗？	聽了剛才那些話，想逃跑了嗎？	さっきの話を聞いて、逃げたくなった？	방금 네가 하는 말 다 들었어. 설마 도망가려는 건 아니지?	Feeling like running away after hearing that?						0	
+46	我以为狙击手都是队伍的宝贝。	我以為狙擊手都是隊伍的寶貝。	狙撃手はみんなチームのお宝だと思ってた。	저격수는 팀에서 요직이라고 하던데.	I thought snipers were everyone's favorite in a squad.						0	
+47	我可不是那种要靠别人照顾才能活下去的巨婴。	我可不是那種要靠別人照顧才能活下去的巨嬰。	誰かを頼らないと生きていけない甘えん坊じゃない。	난 누군가가 보살펴줘야만 살아갈 수 있는 그런 어린애가 아니야.	I'm not some adult baby that needs someone taking care of them to survive.						0	
+48	放心吧，刚才和你约好的事，我会配合的。	放心吧，剛才和你約好的事，我會配合的。	安心して、約束した件はちゃんと守る。	걱정 마. 너랑 했던 약속은 꼭 지킬 테니.	Don't worry. I'll fulfill my end of what we discussed.						0	
+49	我一直都说话算数。	我一直都說話算數。	私は約束を破ったことがない。	이래 봬도 약속한 건 뭐든 지키는 사람이니까.	I always keep my word.						0	
+50	playername，钓鱼总要有诱饵，对吧？	playername，釣魚總要有誘餌，對吧？	playername、魚を釣るには餌が必要だよね？	playername, 낚시를 하려면 미끼를 풀어야지. 안 그래?	playername, when fishing, one needs bait. Do you agree?						0	
+b-7											0	
+51	我没有太明白……	我沒有太明白……	どういうことだ？	무슨 말이야?	I don't quite see what you're getting at...						0	
+52	你们和“贝奥武夫”先向峡谷撤离，然后其他的事交给我。	你們和“貝奧武夫”先向峽谷撤離，然後其他的事交給我。	あなたたちは先に「ベーオウルフ」と一緒に峡谷に撤退して。後のことは任せて。	'베오울프'와 먼저 협곡으로 철수해. 나머지 일은 내게 맡기고.	Evacuate the Canyon with Beowulf first. I'll deal with the rest.						0	
+b-8											0	
+53	但是只要我们一行动，泰坦就会出现……	但是只要我們一行動，泰坦就會出現……	しかし、私たちが動くと、タイタンが現れる……	하지만 우리가 움직이면 타이탄이 나타날 텐데…	But the minute we make a move, Titans will appear...						0	
+b-9											0	
+54	我明白了。	我明白了。	いや、分かった。	일단 알겠어…	Ah... I understand.						0	
+b-10											0	
+55	你有把握吗？	你有把握嗎？	自信はあるのか？	근데 자신 있는 거지?	Are you sure about this?						0	
+56	安卡希雅点了点头。	安卡希雅點了點頭。	アカシアは頷いた。	아카시아는 고개를 끄덕인다.	Acacia nodded.						0	
+b-11											0	
+57	那我相信你。	那我相信你。	なら信じる。	그럼 믿고 가볼게.	Then I'll trust you.						0	
+b-12											0	
+58	就按照你的计划来。	就按照你的計劃來。	君の計画通りにしよう。	아카시아의 계획대로 해보자.	Let's follow your plan.						0	

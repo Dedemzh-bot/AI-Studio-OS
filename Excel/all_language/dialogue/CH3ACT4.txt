@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	快看，快看，那是郊狼的<orange>警戒雷达</>。	快看！快看！那是郊狼的<orange>警戒雷達</>。	ほら、あれはコヨーテの<orange>警戒レーダー</>だよ。	저기 좀 봐. 저게 바로 코요테의 <orange>경계 레이더</>야.	Look, up there. That's the Coyotes' <orange>Alert Radar</>.						0	
+2	别看做工粗糙，型号老旧，不尽快毁掉它可是很麻烦的哦！	別看做工粗糙、型號老舊，不盡快毀掉它可是很麻煩的哦！	作りこそ粗雑で古いモデルだけど、早く壊さないと面倒なことになるよ！	투박하고 오래된 것처럼 보여도 저걸 파괴하지 않으면 더 귀찮아질 거야!	It might look like a crude outdated model, but if we don't destroy that thing fast, we're in big trouble!						0	

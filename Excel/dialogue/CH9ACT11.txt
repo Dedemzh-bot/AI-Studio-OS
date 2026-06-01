@@ -1,0 +1,6 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	晴			郊狼正在向庚号大门聚集？	0	
+2		0	晴			明白了，这就过去。	0	
+3		0	妮塔			领导又发话了？	0	
+4		0	晴			不过她的指挥技巧确实……至少大部分事情都赶上了。	0	

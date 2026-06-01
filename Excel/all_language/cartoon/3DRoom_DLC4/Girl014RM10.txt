@@ -1,0 +1,31 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，方便问你个问题吗？	分析員，可以問你一個問題嗎？	分析員、質問してもよろしいでしょうか？	분석가님, 뭐 하나 물어봐도 될까요?	Adjutant, can I ask you a question?						0	
+page0.2	方便啊。	可以啊。	どうぞ。	물어보세요.	Go ahead.						0	
+page0.3	黑巧克力、耶洛沙红菜汤、香肠、苹果馅饼、辣椒炖肉，你更喜欢其中的哪种食物？	黑巧克力、耶洛沙紅菜湯、香腸、蘋果派、辣椒滷肉，你喜歡哪種食物？	ビターチョコ、イェロシャボルシチ、ソーセージ、アップルパイ、肉の甘辛煮の中ではどれが好きですか？	다크초콜릿, 옐로샤 보르시, 소시지, 애플파이, 칠리 스튜, 이 중에서 어떤 음식을 좋아하세요?	Which do you prefer — dark chocolate, Yehrus beet broth, sausage, apple pie, or spicy chili?						0	
+choice1	黑巧克力	黑巧克力	ビターチョコ	다크초콜릿	Dark chocolate						0	
+page1.1	黑巧克力吧。	黑巧克力吧。	ビターチョコが好きかな。	다크초콜릿이요.	Probably dark chocolate.						0	
+page1.2	原来如此，分析员更喜欢偏苦的食物呢。	原來如此，分析員喜歡偏苦的食物呢。	なるほど、分析員は苦みのある食べ物がお好きなのですね。	그렇군요, 분석가님은 씁쓸한 음식을 좋아하는군요.	Hmm, so you prefer bitter foods.						0	
+page1.3	据说喜欢吃苦味食物的人独立性强，具备领导者的气质。	據說喜歡吃苦味食物的人很獨立，具備領導者的特質。	苦い食べ物が好きな人は自主性が強く、リーダーシップがあると言われています。	씁쓸한 음식을 좋아하는 사람은 독립성과 리더십이 강하대요.	They say people who like bitter foods are independent and make good leaders.						0	
+choice2	耶洛沙红菜汤	耶洛沙紅菜湯	イェロシャボルシチ	보르시	Yehrus beet broth						0	
+page2.1	耶洛沙红菜汤吧。	耶洛沙紅菜湯吧。	イェロシャボルシチが好きかな。	보르시요.	Probably the beet broth.						0	
+page2.2	原来如此，分析员更喜欢偏酸的食物呢。	原來如此，分析員喜歡偏酸的食物呢。	なるほど、分析員は酸っぱい食べ物がお好きなのですね。	그렇군요, 분석가님은 새콤한 음식을 좋아하는군요.	Hmm, so you prefer sour foods.						0	
+page2.3	据说喜欢吃酸味食物的人无论对自己还是他人都有比较高的要求，有很强的事业心。	據說喜歡吃酸味食物的人無論對自己還是對別人的要求都較高，有很強的事業心。	酸っぱい食べ物が好きな人は、自分にも他人にも厳しく、キャリア意識が高いと言われています。	새콤한 음식을 좋아하는 사람은 자신과 타인에 대한 요구가 높고, 성취욕이 강하대요.	They say people who like sour foods have high standards for themselves and others. They are also very professional.						0	
+choice3	香肠	香腸	ソーセージ	소시지	Sausage						0	
+page3.1	香肠吧。	香腸吧。	ソーセージが好きかな。	소시지요.	Probably sausage.						0	
+page3.2	原来如此，分析员更喜欢偏咸的食物呢。	原來如此，分析員喜歡偏鹹的食物呢。	なるほど、分析員はしょっぱい食べ物がお好きなのですね。	그렇군요, 분석가님은 짭짤한 음식을 좋아하는군요.	Hmm, so you prefer salty foods.						0	
+page3.3	据说喜欢吃咸味食物的人往往顺其自然，随遇而安，有很强的适应能力。	據說喜歡吃鹹味食物的人往往順其自然、隨遇而安，有很強的適應力。	しょっぱい食べ物が好きな人は成り行きに身を任せがちで、順応性が高いと言われています。	짭짤한 음식을 좋아하는 사람은 느긋하고, 쉽게 만족하며, 적응력이 강하대요.	They say people who like salty foods like to go with the flow and roll with the punches. They are also really adaptable.						0	
+choice4	苹果馅饼	蘋果派	アップルパイ	애플파이	Apple pie						0	
+page4.1	苹果馅饼吧。	蘋果派吧。	アップルパイが好きかな。	애플파이요.	Probably apple pie.						0	
+page4.2	原来如此，分析员更喜欢偏甜的食物呢。	原來如此，分析員喜歡偏甜的食物呢。	なるほど、分析員は甘い食べ物がお好きなのですね。	그렇군요, 분석가님은 달콤한 음식을 좋아하는군요.	Hmm, so you prefer sweet foods.						0	
+page4.3	据说喜欢吃甜味食物的人对待生活的态度要更积极，也更愿意帮助他人。	據說喜歡吃甜味食物的人對待生活的態度更加積極，也樂於助人。	甘い食べ物が好きな人は生活にポジティブで、よく人を助けると言われています。	달콤한 음식을 좋아하는 사람은 삶에 대한 태도가 긍정적이고, 다른 사람을 도와주는 걸 좋아한대요.	They say people who like sweet foods have a positive outlook and are willing to help other people.						0	
+choice5	辣椒炖肉	辣椒滷肉	肉の甘辛煮	칠리 스튜	Spicy chili						0	
+page5.1	辣椒炖肉吧。	辣椒滷肉吧。	肉の甘辛煮が好きかな。	칠리 스튜요.	Probably spicy chili.						0	
+page5.2	原来如此，分析员更喜欢偏辣的食物呢。	原來如此，分析員喜歡偏辣的食物呢。	なるほど、分析員は辛い食べ物がお好きなのですね。	그렇군요, 분석가님은 매콤한 음식을 좋아하는군요.	Hmm, so you prefer spicy foods.						0	
+page5.3	据说喜欢吃辣味食物的人总是热情洋溢、做事也很有主见，非常坚持自我。	據說喜歡吃辣味食物的人總是熱情洋溢、做事有主見，非常堅持自我。	辛い食べ物が好きな人は、常に情熱的で、自分なりの考えをしっかりと持っていて、我が強いと言われています。	매콤한 음식을 좋아하는 사람은 열정이 넘치고, 자기주장이 뚜렷하고, 고집이 세다고 해요.	They say people who like spicy foods are passionate and assertive. They are also good at standing up for themselves.						0	
+page6.1	虽然不一定准，但听起来还挺有趣的。	雖然不一定準，但聽起來滿有趣的。	必ず当てはまるとは言い難いが、面白そうじゃないか。	정확한 결과는 아닐 수도 있겠지만, 그래도 재미있네요.	Even though it isn't entirely accurate, it's still pretty interesting.						0	
+page6.2	这都是从你刚才读的那本书中看到的吗？那本书叫什么？	這是你剛才讀的那本書上所寫的嗎？那本書的書名是什麼？	さっき読んでた本に載ってたのか？なんて本？	방금 읽은 그 책에서 본 거예요? 책 제목이 뭐예요?	Is that from a book you just read? What's it called?						0	
+page6.3	吃在耶洛沙，你喜欢的美食暴露了你的性格。	吃在耶洛沙，你喜歡的美食暴露了你的性格。	『イェロシャご当地グルメ、好物であなたの性格が分かる』です。	옐로샤 미식 기행, 좋아하는 음식으로 보는 당신의 성격.	"Delectable Yehrus — How Your Favorite Food Reveals Your Personality."						0	
+page6.4	好长的书名……	書名真長……	長いタイトルだな……	책 제목이 정말 기네요…	What a long title...						0	
+page6.5	分析员，等到了耶洛沙我们一起去品尝你喜欢的食物吧。	分析員，等到了耶洛沙，我們一起去品嘗你喜歡的美食吧。	分析員、イェロシャについたらあなたの好物を食べに行きましょう。	분석가님, 옐로샤에 함께 가서 분석가님이 좋아하는 음식을 먹어요.	Adjutant, let's try your favorite food together when we get to Yehrus.						0	
+page6.6	这个提议不错。	好主意。	良い提案だ。	좋은 생각이에요.	That's not a bad idea.						0	

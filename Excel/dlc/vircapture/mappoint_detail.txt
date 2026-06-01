@@ -1,0 +1,23 @@
+类型ID	名称(key)	图标	描述	策划备注
+Id	Name	Icon	Desc	Remark
+1	ui.TxtVircaptureFormation	1009016		编队传送点
+2	ui.TxtVircaptureWildGroup	1009034	ui.TxtVircaptureWildGroup.desc	游荡怪点
+5	ui.TxtVircaptureQuest	1009017	ui.TxtVircaptureQuest.desc	主线/任务点
+7	ui.Txtfishpoint_title01	1009019		钓鱼点
+8	ui.TxtVircaptureBossGroup	1009034		BOSS
+9	ui.TxtVircapturePortal	1009018	ui.TxtVircapturePortal.desc	支线/副本点
+10	ui.TxtVircaptureChest	1009021		宝箱
+11	ui.TxtVircaptureCube	1009021		魔方
+12	ui.TxtVircaptureGiftBox	1009021		礼盒
+13	ui.TxtBtnCook	1009014		烹饪点
+14	ui.TxtVircaptureFirefly	1009021		萤火虫
+15	ui.TxtVircaptureSkylanterns	1009021		孔明灯
+16	ui.TxtVircaptureFireWork	1009021		烟花
+17	ui.TxtVircaptureDecrypt	1009021		解密点
+18	ui.TxtVircaptureSPDungeon	1009018	ui.TxtSPDungeon	特殊任意洞
+19	ui.TxtNpcRobot01	1009017	ui.TxtNpcRobot01_des	引导NPC
+140	ui.TxtVircaptureMatchPoint1	1009037		赛季钓鱼点
+20	ui.TxtVircaptureDecrypt	1009037		建造模式主线任务点
+21	ui.TxtVircaptureDecrypt	1009017		建造模式支线任务点
+141	ui.TxtVircaptureFireWorkNew	1009037		新年烟花
+

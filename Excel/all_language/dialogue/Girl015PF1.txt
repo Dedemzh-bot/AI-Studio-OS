@@ -1,0 +1,75 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	身处封闭的地下空间，再细微的声音都能被捕捉放大。	身處封閉的地下空間，再細微的聲音都能被捕捉放大。	閉ざされた地下にいると、どんなに些細な物音もうるさく感じてしまう。	폐쇄된 지하 공간에 가면 미세한 소리조차 크게 들린다.	Even the quietest noise is amplified when in an enclosed space underground.						0	
+2	我走到房间门口时，就已经听到了里面传出的窸窸窣窣的声音。	當我走到房間門口時，我已經聽到裡面傳出的窸窸窣窣的聲音了。	私が部屋の前に立った時点で、すでに中から物音が聞こえていた。	방문 앞으로 다가갔을 때, 안에서 미세한 소리가 들려왔다.	As I approached the door to the room, I could already hear rustling sounds from inside.						0	
+b-1											0	
+3	轻轻敲门	輕輕敲門	ノックする	문을 가볍게 두드린다.	Knock gently						0	
+4	房间里翻动物品的声音消失了，但并没有人应答。	房間裡翻動物品的聲音消失了，但沒有人回應。	物音は消えたけれど、返事はなかった。	방에서 물건을 뒤지는 소리가 사라졌지만, 아무도 대답하지 않는다.	The sound of things being rifled through stopped, but no one responded.						0	
+5	我摇了摇头，拿出钥匙打开了门。	我搖了搖頭，拿出鑰匙打開了門。	私は首を横に振り、鍵でドアを開けた。	나는 고개를 갸우뚱하고 열쇠를 꺼내 문을 열었다.	I shook my head, taking out my key and opening the door.						0	
+6	直接开门	直接開門	ドアを開ける	바로 문을 열어야겠다.	Open the door						0	
+7	就算敲门，她也没法给我开的吧。	就算敲門，她也沒辦法給我開的吧。	こちらからノックしても、開けてはくれないだろう。	문을 두드려봤자 열어줄 수 없을 테니까.	Even if I knocked on the door, she wouldn't be able to open it for me.						0	
+8	这样想着，我拿出钥匙打开了门。	這樣想著，我拿出鑰匙打開了門。	そう思いながら、私は鍵でドアを開けた。	이렇게 생각하며 난 열쇠를 꺼내 문을 열었다.	As I realized this, I took out my key and opened the door.						0	
+9	狭小的房间中，床和桌子已经占去了大部分空间。	在狹小的房間中，床和桌子已經佔據了大部分空間。	元から狭いその部屋は、ベッドと机が大半のスペースを占めている。	좁은 방 안에는 침대와 책상이 대부분의 공간을 차지하고 있었다.	The bed and table took up a majority of the small room.						0	
+10	而前不久才与我们大打出手的女人，凯茜娅·克莱因，此时正躺在那张床上。	而前不久才與我們大打出手的女人，凱茜婭·克萊因，此時正躺在那張床上。	この前まで私たちとやり合っていた女性、カーシア・クラインがベッドで横になっていた。	그리고 방금 전까지 우리랑 격렬한 싸움을 벌였던 여성, 캐시아 클레인이 마침 침대 위에 누워있었다.	And Katya Klein, the woman we faced off against not long ago, was lying in the bed.						0	
+11	呼吸平稳，双眼紧闭，如果不是我在门外听到了动静，应该会以为她正在熟睡。	呼吸平穩，雙眼緊閉，如果不是我在門外聽到了動靜，應該會以為她正在熟睡。	彼女は目を閉じたまま、緩やかな呼吸を繰り返している。物音が聞こえていなければ、熟睡していると勘違いしていただろう。	숨소리는 안정되어 있었고, 두 눈은 감고 있었다. 아마 문밖에서 소리가 안 들렸다면 자는 걸로 생각했을 것이다…	Her breathing was steady, her eyes closed. If I hadn't heard sounds from outside the door, I would've thought she was asleep.						0	
+b-2											0	
+12	别装了，知道你没睡着。	別裝了，知道你沒睡。	狸寝入りはもういいよ。	자는 척하지 마. 네가 안잔다는 것 정도는 다 알고 있으니까.	Stop faking. I know you're not asleep.						0	
+13	她依然一动不动。	她依然一動也不動。	だけど、彼女は動かなかった。	그녀는 여전히 움직이지 않았다.	She remained motionless.						0	
+14	难道真的是我刚才听错了？	難道真的是我剛才聽錯了？	まさかとは思うけど、本当に聞き間違いだったのだろうか？	내가 방금 소리를 잘못 들었나? 정말로?	Could I have been mistaken?						0	
+15	我走近了几步，盯着那张似乎毫无防备的睡脸。	我走近了幾步，盯著那張似乎毫無防備的睡臉。	ベッドに近づくと、私はその無防備な寝顔を眺めた。	나는 몇 걸음 다가갔고, 순진해 보이는 얼굴을 응시했다.	I took a few steps closer, staring at her seemingly defenseless face.						0	
+16	下一秒，一把锋利的餐刀已经抵在了我的喉头。	下一秒，一把鋒利的餐刀已經抵在我的喉頭了。	次の瞬間、鋭いナイフが私の首に突きつけられていた。	하지만 1초 후, 날카로운 식칼이 내 목을 겨누고 있었다.	In the next second, a sharp kitchen knife was pressed up against my throat.						0	
+b-3											0	
+17	……	……	……	…	...						0	
+18	挺有精神，克莱因。	真有精神，克萊因。	元気そうでよかったよ、クライン。	대단한 정신력이군, 클레인.	You seem to have a lot of energy, Klein.						0	
+19	在这样一个人生地不熟的地方，你就这么毫无防备吗？海姆达尔的分析员。	在這樣一個人生地不熟的地方，你就這麼毫無防備嗎？海姆達爾的分析員。	こんな初めての場所で、そんなに無防備で大丈夫なの？ヘイムダルの分析員さん。	낯선 곳에서 그렇게 무방비한 채로 있어도 되나? 헤임달 분석가?	You really let your guard down in such an unfamiliar place, Heimdall Adjutant?						0	
+b-4											0	
+20	抓住她的手腕	抓住她的手腕	彼女の腕を掴む	그녀의 손목을 잡는다.	Grab her wrist						0	
+21	拿走她的餐刀	拿走她的餐刀	ナイフを取り上げる	그녀의 식칼을 가져온다.	Take her knife						0	
+22	她的手冰冷而无力，几乎感觉不到抵抗。	她的手冰冷而無力，幾乎感覺不到抵抗。	彼女の手は冷たくて、力もさほど入っていない。私の行動に抵抗する素振りはほとんどなかった。	그녀의 손은 차갑고 무력했으며, 아무런 저항도 느낄 수 없었다.	Her hands were cold and weak. I could barely feel any resistance.						0	
+23	我没必要防着一个重伤的人。	我沒必要防著一個重傷的人。	重傷者相手に警戒する必要はないと思っただけさ。	심각한 부상을 입은 사람인데, 내가 굳이 나 자신을 방어할 필요가 있을까?	I don't have to be on guard around someone with serious injuries.						0	
+24	你全身上下的血都快流干了，现在估计连起身都很困难吧。	你全身上下的血都快流乾了，現在估計連起身都很困難吧。	あれだけの出血だ。今はまともに立つことすら難しいんじゃないか。	온몸에서 피를 흘리고 있는데, 일어나기에도 힘겨워 보이는군.	You've lost almost all of your blood. Even standing up is probably hard for you now.						0	
+25	我将那把泛着银光的餐刀扔到一旁的桌上。	我將那把泛著銀光的餐刀丟到一旁的桌上。	銀色に輝くナイフを横の机に置いた。	나는 은빛의 식칼을 옆에 있는 탁자 위로 던졌다.	I tossed the silver kitchen knife onto the table.						0	
+26	你既然知道，还这么放心地把我一个人留在这里？	你既然知道，還這麼放心地把我一個人留在這裡？	そこまで分かっておきながら、よくもこんな場所に私をひとりにしておけるわね。	그걸 알면서 왜 날 여기에 혼자 놔둔 거지?	You knew about it, so why aren't you worried about leaving me alone here?						0	
+27	那把刀可是在我枕头下面放了一天了，如果刚才进来的不是你，它会毫不犹豫地插进那个人的喉咙。	那把刀可是在我枕頭下面放了一天了，如果剛才進來的不是你，它會毫不猶豫地插進那個人的喉嚨。	そのナイフは昨日から枕の下にあったのよ？もし今入ってきたのがあなたじゃない誰かだったら、躊躇なくそいつの喉に突き刺してたわ。	그 칼은 하루 종일 내 베개 밑에 놓여 있었지. 아마 네가 아니었다면 이미 목을 찔렀을 수도 있어.	I had that knife under my pillow all day long. If you weren't the one who came in just now, I would've stabbed it into someone else's throat without hesitating.						0	
+b-5											0	
+28	你们佣兵都这样吗？	你們傭兵都這樣嗎？	傭兵っていつもそうなのか？	용병들이라서 민감한 건가?	Are all you mercenaries like this?						0	
+29	这可和佣兵没关系，分析……	這個和傭兵沒關係，分析……	傭兵とは関係ないわよ。分析……	용병이랑은 아무 상관 없어, 분석가…	This has nothing to do with being a mercenary, Adjutant...						0	
+30	算了，我不喜欢这些冷冰冰的称呼，叫你playername就行了吧。	算了，我不喜歡這些冷冰冰的稱呼，叫你playername就好了吧。	……はぁ、そういう冷たい呼び方は好きじゃないわね。playernameと呼んでもいい？	됐어, 그리고 분석가라는 이름, 뭔가 차갑고 거슬리는군. 그냥 playername이라고 부를게.	Forget it. Calling you that feels so cold — I'll just call you playername.						0	
+31	相对的，你也可以直接叫我凯茜娅。	相對的，你也可以直接叫我凱茜婭。	その代わり、私のことはカーシアでいいから。	너도 그냥 캐시아라고 불러.	And you can just call me Katya.						0	
+32	我没意见。	我沒意見。	それでいいよ。	그래, 알겠어.	I don't care either way.						0	
+33	你不是和那几个女孩子一起出去了吗，怎么又回来了？	你不是跟那幾個女孩子一起出去了嗎，怎麼又回來了？	あの女の子たちと一緒に出たんじゃなかったの？	근데 그 여자애들하고 외출했던 거 아니었어? 왜 다시 돌아온 거야?	Didn't you head out with those girls? Why did you come back?						0	
+34	她们想出去一趟，联系一下公司在耶洛沙的安全屋。	她們想出去一趟，聯絡公司在耶洛沙的安全屋。	彼女たちなら、イェロシャにある会社所有のセーフハウスに向かったよ。	그녀들은 옐로샤에 있는 회사의 벙커에 연락하러 나갔어.	They wanted to go and contact the Yggdrasil safehouse in Yehrus.						0	
+35	正好，我也有一些事情想问你。	正好，我也有一些事情想問你。	ちょうどあなたに聞きたい事があったから、私だけ戻ってきたんだ。	말하다 보니 마침 물어보고 싶은 게 있었는데.	I actually wanted to ask you about something.						0	
+36	公司，耶洛沙，还是董事会？我知道的都已经说完了。	公司，耶洛沙，還是董事會？我知道的都已經說完了。	それは、会社について？イェロシャについて？それとも理事会のこと？知ってることはすべて話したつもりよ。	회사, 옐로샤, 이사회라… 내가 아는 건 이미 전부 말했어.	About Yggdrasil, Yehrus, or the Board? I already told you everything I know.						0	
+37	还是说你想问点别人不知道的？我直接说好了，95，56……	還是說你想問點別人不知道的？我直接說好了，95，56…	それとも、見ただけじゃ分からない事が聞きたい？いいわ、教えてあげる。上から、95、56……	아니면 다른 사람들이 모르는 것을 묻고 싶어서 그런 거야? 그래 바로 말해 줄게, 95, 56…	Or did you want to ask about something nobody else knows? I'll tell you — 95, 56...						0	
+b-6											0	
+38	咳咳！	咳咳！	こほん！	크흠…	Ahem!						0	
+39	都这种时候了你倒是还有心情开玩笑。	都這種時候了你倒是還有心情開玩笑。	この期に及んで、まだ冗談を言えるほどの元気が残ってるとはね。	어떻게 이런 상황에서까지 농담을 할 수 있는 거지.	Even at a time like this, you're still making jokes.						0	
+40	我没开玩笑哦。	我沒開玩笑哦。	冗談のつもりはないけど。	농담 아니야.	I'm not joking.						0	
+41	饶了我吧。	饒了我吧！	勘弁してくれ……	적당히 좀 해.	Cut me some slack.						0	
+42	我是来问你，以后有什么打算。	我是來問你，以後有什麼打算。	私は、これからどうするつもりか聞きに来ただけさ。	난 너한테 진지하게 물어보러 온 거야. 그래서 앞으로의 계획이 뭐야?	I'm here to ask what your plans are for the future.						0	
+43	以后？	以後？	これからって？	앞으로?	The future?						0	
+44	耶洛沙的事情解决以后。	耶洛沙的事情解決以後。	イェロシャのことが解決した後のことだ。	옐로샤 일이 해결되고 나서 말이야.	After the situation in Yehrus is handled.						0	
+45	我大概会在这边留一段时间。	我大概會在這邊待一段時間。	ここにしばらく滞在すると思うわ。	당분간 여기서 머물러있을 것 같아.	I'll probably stay here for a bit.						0	
+46	战场，黑帮，公司，在这种鬼地方，找个新老板并不难。	戰場，黑幫，公司，在這種鬼地方，找新老闆並不難。	戦場、マフィア、会社。こういう土地柄なら、雇い主には困らないだろうから。	전장, 갱단, 회사, 이런 곳에서 새로운 터전을 마련해가는 게 어려운 것도 아니고.	This godforsaken place is riddled with different battlefields, gangs, and companies. It won't be tough to find a new boss.						0	
+47	你要不要和我一起走？	你要不要跟我一起走？	私達と一緒に来るつもりはないか？	내 동료가 되는 건 어때?	Do you want to come with me?						0	
+48	加入海姆达尔，一起回去。作为天启者，你会得到更好的待遇。	加入海姆達爾，一起回去。作為天啟者，你會得到更好的待遇。	ヘイムダルの一員として、一緒に戻るんだ。覚醒者であるあなたなら、然るべき待遇を受けられるはずだよ。	헤임달에 들어와서 함께 돌아가는 거야. 계시자로서 더 나은 치료를 받을 수도 있고.	Join the Heimdall Force and we can go back together. You'll be treated better as a Manifestation.						0	
+49	如果那个高高在上的白头发女人不介意的话，我还挺有兴趣的。	如果那個高高在上的白頭髮女人不介意的話，我還蠻有興趣的。	私はそれで構わないと思っているわ。あの偉そうな白髪女さえ気にしないんだったらね。	거기 그 높은 백발머리 여자가 귀찮게 하지만 않으면 흥미가 있을 것 같긴 한데.	If that tall woman with the white hair doesn't mind, I'd be pretty interested in that.						0	
+50	那就——	那就——	じゃあ——	그럼ㅡ	Then...						0	
+51	不过嘛，playername，我觉得我可能运气不太好，跟过的队长都已经死了。	不過嘛，playername，我覺得我可能運氣不太好，跟過的隊長都已經死了。	でもね、playername。私の隊長を務めた人間は、ひとり残らず死んでるの。もしかしたら、私が厄運を呼び寄せるせいかも知れない——	근데, playername, 난 운세가 좋지 않아서 말이야, 나랑 함께 했던 팀장들은 모두 죽음을 면치 못했지.	But, playername, I think I might be bad luck. Every captain I've worked under is dead.						0	
+52	我还挺喜欢你的，为了让你平平安安，我还是不加入比较好哦。	我還蠻喜歡你的，為了讓你平平安安，我還是不加入比較好哦。	正直、あなたのことは気に入ってる。あなたの命のためにも、私は一緒にいないほうがいいと思うんだけど。	난 네가 좋단 말이지. 그래서 하는 말인데, 너를 위해서라도 내가 함께하지 않는 것이 좋을 것 같아.	And I like you, so it would be better if I didn't join to keep you safe.						0	
+53	这理由够随便的。	這理由夠隨便的。	ずいぶん適当な理由だな。	변명도 가지가지네.	That's a pretty random reason.						0	
+54	有时候真不知道你嘴里有几句实话……	有時候真不知道你嘴裡有幾句是實話……	たまに、どこまで本気なのか分からなくなるよ……	네가 말하는 것 중에 도대체 진실이 몇 개인지 도무지 감이 안 와.	Sometimes I really don't know how much of what you're saying is true...						0	
+55	好啦，等时机到了，我会去找你的。	好啦，等時機到了，我會去找你的。	ま、その時が来れば私から会いに行くわ。	좋아, 기회가 오면 그때 찾아갈게.	Alright, I'll come meet up with you when the time comes.						0	
+56	毕竟算上第五研究所那次，我已经欠你两条命了。	畢竟算上第五研究所那次，我已經欠你兩條命了。	だって、第5研究所でのことも含めれば、あなたには2度も命を助けてもらったわけだから。	어찌 되었든 제5연구소에서 네게 두 번이나 목숨을 빚졌으니까.	I mean, after that time at the Fifth Research Institute, I already owe you my life two times over.						0	
+57	在此之前，就再让我自由一段时间吧，我还想到大陆南方看看。	在此之前，就再讓我自由一段時間吧，我還想到大陸南邊看看。	それまでは、自由にさせて。大陸の南にも行ってみたいし。	하지만 그전에 나에게 좀만 더 시간을 줘. 대륙의 남쪽을 좀 보러 갈 생각이거든.	But before then, give me my freedom for a little longer. I want to check out the southern mainland too.						0	
+58	不错的想法。	不錯的想法。	なるほど。	괜찮은 생각이네.	That's not a bad idea.						0	
+59	那我答应你，在耶洛沙的事情结束之后，你可以自己决定要去哪。	那我答應你，在耶洛沙的事情結束之後，你可以自己決定要去哪裡。	分かった。イェロシャの事が終わったら、どこに行くかは好きに決めてくれていい。	약속할게, 옐로샤 일이 마무리되면 가고 싶은 곳을 갈 수 있게 도와줄게.	I promise — after the situation in Yehrus is over, you can decide where to go.						0	
+60	呵，原来你这么好沟通吗？在我印象中你还是三年前那副冷冰冰的样子。	呵，原來你這麼好溝通嗎？在我印象中你還是三年前那副冷冰冰的樣子。	あら、そんなに物分かりが良い方だった？4年前のあなたは、もっと冷たい印象だったけれど。	오호, 원래 이렇게까지 소통이 잘 됐었나? 내 기억에 3년 전까지만 해도 굉장히 차가운 이미지였는데.	Hah, I didn't expect you to be so easy to talk to. I thought you'd still be as cold as you were three years ago.						0	
+61	人总是会变的。	人總是會變的。	人もまた変わっていくものだからね。	사람은 늘 변하기 마련이야.	People are always changing.						0	
+62	不过，你似乎一直没什么变化。	不過，你似乎一直沒什麼變化。	だけど、あなたはずっと変わらないままだな。	반면에 넌 항상 그대로인 것 같군.	But it seems like you haven't changed at all.						0	
+63	有兴趣聊聊吗，从第五研究所离开后，你去了哪里？	有興趣聊聊嗎，從第五研究所離開後，你去了哪裡？	ちょっと気になるな。第5研究所を離れた後、あなたはどこに行ってたんだ？	얘기 좀 해 봐. 제5연구소를 떠나고 어디로 향했었지?	You want to talk? Where did you go after you left the Fifth Research Institute?						0	
+64	那之后……	那之後……	あの後……	그 후에는…	After that, I...						0	
+65	凯茜娅难得沉默下来。	凱茜婭難得沉默。	珍しくカーシアが黙り込んだ。	캐시아는 순간 말을 멈췄다.	Katya fell silent, something that rarely occurred.						0	
+66	正当我以为她会像之前那样岔开话题时，她却突然开口说了下去。	正當我以為她會像之前那樣岔話題時，她卻突然開口說了下去。	これまでのように上手くはぐらかされるのかと思っていると、彼女が口を開いた。	나는 그녀가 주제를 돌릴 거라 생각했지만, 그녀는 끝내 입을 열었다.	Just when I thought she was about to change the subject like before, she suddenly started speaking.						0	
+67	我回了一趟家。	我回了一趟家。	一度家に戻ったのよ。	집으로 돌아갔었어.	I went back home.						0	

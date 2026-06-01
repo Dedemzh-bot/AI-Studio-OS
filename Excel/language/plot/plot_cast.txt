@@ -1,0 +1,47 @@
+字符串索引	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	zh_CN	disable	Remark
+text1001	领衔主演	0	
+text1002	主演	0	
+text1003	导演	0	
+text1004	编剧	0	
+text1005	制片人	0	
+text1006	演职人员表	0	
+text1007	场记	0	
+			
+Name2001	薇蒂雅	0	
+Name2002	辰星	0	
+Name2003	芙提雅	0	
+Name2004	魅影的龙舌兰	0	
+Name2005	长乐郡主	0	
+Name2006	伊格妮丝博士	0	
+Name2007	夜魇骑士	0	
+Name2008	望	0	
+Name2009	精灵	0	
+Name2010	幽影	0	
+Name2011	达斯·铁手	0	
+Name2012	莫罕达斯	0	
+Name2013	热心市民们	0	
+Name2014	其他角色	0	
+Name2015	枫	0	
+			
+			
+Thanks1001	playername	0	
+Thanks1002	感谢观看	0	
+Thanks1003	枫	0	
+Thanks1004	薇蒂雅	0	
+Thanks1005	辰星	0	
+			
+			
+PlotTxt1001	饰	0	
+			
+			
+dlc12_TalkNpc_01	本地村民甲	0	
+dlc12_TalkNpc_02	恐惧的村民	0	
+dlc12_TalkNpc_03	疯癫的村民	0	
+dlc12_TalkNpc_04	慌乱的村民	0	
+			
+dlc25_TalkNpc_01	急脾气	0	dlc25新星开拓npc名字
+dlc25_TalkNpc_02	慢半拍	0	dlc25新星开拓npc名字
+dlc25_TalkNpc_03	说胡话	0	dlc25新星开拓npc名字
+dlc25_TalkNpc_04	尖尖耳	0	dlc25新星开拓npc名字
+dlc25_TalkNpc_05	赛曼加	0	dlc25新星开拓npc名字

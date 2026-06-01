@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	冰激凌、爆米花，还有水果芭菲，分析员要选哪个？	冰淇淋、爆米花，還有水果百匯，分析員要選哪一個？	アイス、ポップコーン、それとフルーツパフェ。分析員はどれがいい？	아이스크림, 팝콘, 과일 파르페 중 분석가는 어떤 걸 고를래?	Ice cream, popcorn, or a fruit parfait. Which one would you pick, Adjutant?						0	
+page1.2	嗯？这是要……	嗯？這是要……	え？それはどういう……	응? 이건…	Huh? What's this for...?						0	
+page1.3	别问，凭你的感觉来选择。	別問，憑你的感覺來選擇。	いいから、直感的に答えて。	물어보지말고 느낌오는 대로 골라봐…	Don't ask. Just go with your gut.						0	
+page1.4	其实都感觉不错……那我就选……	其實都感覺不錯……那我就選……	どれもいいと思うけど……じゃあ……	사실 다 괜찮긴 한데… 그럼 난…	Actually, they all sound good... Then I'll choose—						0	
+page1.5	诶？分析员，这可是你自己说的哦！	欸？分析員，這可是你自己說的！	へぇ？じゃあ分析員、約束だからね！	엇? 약속한 거다!	Oh? All three? Okay, Adjutant, you're the one who said it!						0	
+page1.6	那么今天分析员要和我一起逛街、看电影，之后再去吃新开那家店的甜点！	那麼今天分析員要跟我一起逛街、看電影，之後再去吃新開那家店的甜點！	今日は一緒に買い物して、映画を見て、それからオープンしたばかりの店にデザートを食べに行くわよ！	그럼 오늘 나랑 같이 쇼핑하다가 영화도 보고 새로 오픈한 디저트 가게도 가자!	You wanna go shopping, watch a movie, and eat sweets at a new dessert shop with me today!						0	
+page1.7	可以是可以……但我刚刚答应什么了吗？	可以是可以……但我剛剛答應什麼了嗎？	別にいいけど……私は何か約束をしたのか？	좋아, 근데… 방금 내가 무슨 약속이라도 했나?	I mean, we can... but did I really just promise you that?						0	
+page1.8	你自己选的嘛，逛街要吃冰激凌，看电影少不了爆米花，水果芭菲当然是甜品店才有咯！	你自己選的嘛，逛街要吃冰淇淋，看電影少不了爆米花，水果百匯當然是甜點店才有囉！	自分で選んだんじゃないの。買い物中のアイスは常識だし、ポップコーンは映画を見るときの定番でしょ。それにフルーツパフェはデザート屋さんでしか食べられないんだから！	네가 방금 다 괜찮다고 했잖아. 쇼핑하면 아이스크림은 필수고, 영화엔 팝콘이지. 그리고 디저트 가게에서는 당연히 과일 파르페를 먹어줘야 한다고!	You picked all three! You absolutely need ice cream while you shop and popcorn while you watch a movie, and you can only get fruit parfaits at dessert shops!						0	
+page1.9	可不许耍赖！	可不准耍賴！	約束はちゃんと守るのよ！	두말하기 없어!	Don't go back on your word!						0	
+page1.10	好好好……可是这么多甜食，芬妮吃得完吗？这时候不担心身材啦？	好好好……可是這麼多甜食，芬妮吃得完嗎？這時候不擔心身材啦？	はいはい……でもファニーはそんなにたくさん甘いものを食べられるのか？スタイルの維持が大事なんじゃなかった？	그래 알겠어… 근데 단 거 이렇게 많이 먹어도 돼? 아이돌 일정은 괜찮아?	Alright, alright... But can you really eat all of those sweets? You aren't worried about your figure anymore?						0	
+page1.11	本小姐当然会贯彻偶像的自我修养！	本小姐當然會貫徹偶像的自我修養！	アイドルたるもの、もちろんそれは欠かせないわ！	그건 이 몸이 아이돌로서 알아서 할 문제라고!	Of course I'm going to use my special idol technique!						0	
+page1.12	每种我都只尝一口，至于剩下的，就拜托分析员解决了哦！	每種我都只試一口，至於剩下的，就拜託分析員解決了哦！	全部一口だけでいいから、残った分は分析員にお願いね！	디저트마다 한 입만 먹고 나머지는 분석가에게 맡기면 되지.	I'll only taste one bite of each and give the rest to you, Adjutant!						0	

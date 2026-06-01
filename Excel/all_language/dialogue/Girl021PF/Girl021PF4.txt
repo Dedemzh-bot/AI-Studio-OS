@@ -1,0 +1,200 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	次日上午，我和奈莉德出发前往执行新的任务。	次日上午，我和奈莉德出發前往執行新的任務。	翌日、ネリーダと一緒にミッションへ出発する。	다음 날 오전, 나와 네리다는 새로운 임무를 수행하기 위해 나섰다.	The next morning, Nerida and I set out for a new mission.						0	
+2	先说好。和你之前一个人行动不太一样，来到海姆达尔，你必须适应团队协作。	先說好。和你之前一個人行動不太一樣，來到海姆達爾，你必須適應團隊協作。	言っておくが、前みたいに単独行動はなしだ。ヘイムダルじゃチームワークが基本だぞ。	우선 말해두는데, 네가 전에 혼자 행동했을 때와는 달라. 헤임달에 온 이상 반드시 팀워크를 생각해야 해.	Let me make something clear. Unlike when you operated alone, now that you're at Heimdall, you must adapt to teamwork.						0	
+3	明白。	明白。	承知している。	알겠어.	Understood.						0	
+4	那就先从执行命令开始吧。有疑问可以之后提，但在战场上，我的命令就是指令。	那就先從執行命令開始吧。有疑問可以之後提，但在戰場上，我的命令就是指令。	実際の戦場では私の指示が絶対だ。わからないことがあれば後で聞けばいい。	그럼 먼저 명령 수행부터 시작하자. 질의가 생기면 나중에 얘기해도 되지만 전장에서는 내 명령이 바로 지령이야.	Good. We'll start with following orders. You can always raise questions later, but on the battlefield, you follow my commands.						0	
+5	收到。	收到。	了解。	그럴게.	Understood.						0	
+6	这次的任务是清剿一处区域内的所有不稳定因素。为了搞清楚奈莉德身上的问题，我特意选择了一个处理起来虽然困难，但仍在我掌控中的目标。	這次的任務是清剿一處區域內的所有不穩定因素。為了搞清楚奈莉德身上的問題，我特地選擇了一個處理起來雖然困難，但仍在我掌控中的目標。	今回の目標は、あるエリアの不安定要素を一掃すること。ネリーダがどう「変化」しているのかを見極めるため、少し厄介だが能力範囲内のミッションを選んだ。	이번 임무는 한 구역의 모든 불안정 요소를 소탕하는 것이다. 네리다의 문제를 제대로 파악하기 위해, 나는 일부러 처리하기 힘들지만 내가 통제할 수 있는 목표를 선택했다.	Our mission was to clear all unstable factors in a designated area. To figure out Nerida's issue, I deliberately selected something difficult but still within my control.						0	
+7	奈莉德确实做到了服从命令。在我的指挥下，异化人群被奈莉德的火力吸引、分化，逐渐被拉扯出一个喇叭形状的口子。我们顺着这个口子钻了进去。	奈莉德確實做到了服從命令。在我的指揮下，異化人群被奈莉德的火力吸引、分化，逐漸形成了一個喇叭形狀的缺口。我們順著這個口鑽了進去。	彼女は私の指示にきちんと従い、効率よく敵を引きつけ、分断し、次第にラッパ状の空間を作り出すと、そこから私たちは奥へ潜り込んでいく。	네리다는 정말로 명령에 복종했다. 나의 지휘를 받은 네리다의 공격에, 변이자 집단은 유인되고 분산됐으며, 점차 트럼펫 모양의 틈이 생겼다. 우리는 이 틈을 따라 들어갔다.	Nerida followed the orders I gave. The Changed were drawn in by her firepower, divided, and pulled into a bugle-shaped opening. From there, we moved in together.						0	
+8	做好准备。	做好準備。	そろそろ準備しろ。	준비해.	Get ready.						0	
+9	嗯。	嗯。	あぁ。	응.	Alright.						0	
+10	有话想说？	有話想說？	言いたいことでもあるのか。	하고 싶은 말 있어?	Something on your mind?						0	
+11	奈莉德沉默地看着我，我有点不明所以。	奈莉德沉默地看着我，我有點不明所以。	ネリーダがじっと私を見てくる。少し考えたあと、口を開いた。	네리다는 말없이 나를 바라봤고, 나는 그 이유를 알 수 없었다.	Nerida studied me silently, and for a brief moment, I felt puzzled.						0	
+12	你当过兵？	你當過兵？	おまえ…軍属だったのか？	너 군대 다녀왔어?	Were you in the military?						0	
+13	……有没有可能，虽然她们喊我分析员，但我也是海姆达尔的最高长官？	……有沒有可能，雖然她們叫我分析員，但我也是海姆達爾的最高長官？	さあな。「分析員」って呼ばれているけど、いちおうヘイムダルのトップをやっている。	… 사람들이 나를 분석가라고 부르기는 하지만, 난 헤임달의 최고 장관일 수도 있다는 생각 안 해봤어?	...This might be news to you. Although they call me Adjutant, I'm also the highest commander of Heimdall.						0	
+14	她突然笑了，伸手帮我整了整衣领。	她突然笑了，伸手幫我整理了衣服領子。	彼女はくすっと笑い、私の襟元を直してくれる。	그녀가 갑자기 웃더니 내 옷깃을 정리해 줬다.	She suddenly smiled and reached out to adjust my collar.						0	
+15	你很厉害。	你很厲害。	けっこうやるな。	대단하네.	You're very good.						0	
+16	然后，很自然地说了下去——	然後，很自然地說下去——	そして、さらりと言葉を継いだ。	그리고 자연스럽게 말을 이어 나갔다.	Then, without hesitation, she added—						0	
+17	我很喜欢。	我很喜歡。	そういうところ、気に入っている。	마음에 들어.	I like that a lot.						0	
+18	嗯……咳，别走神，我们还在执行任务。	嗯……咳，別分心，我們還在執行任務。	…っ。こら、ミッション中だ、気を抜くなよ。	어… 크흠, 집중해. 우린 임무 수행 중이야.	Well... ahem, don't get distracted. We're still on a mission.						0	
+19	突如其来的直接让我有点猝不及防，以至于感觉脸上热了一下。	突如其來的直接讓我有點措手不及，甚至感覺臉上熱了一下。	思いがけない言葉にドキリとして、顔が少し熱くなる。	갑자기 직설적인 말을 들은 나는 당황한 나머지 얼굴이 달아올랐다.	Her sudden directness caught me off guard, and for a moment, I felt my face warming up.						0	
+20	我能感觉到，前面就是泰坦了。	我能感覺到，前面就是泰坦了。	…前方にタイタンの気配がある。気を引き締めてくれ。	전방에 타이탄의 존재가 느껴져.	I can sense the Titan just ahead.						0	
+21	playername，你可以去更安全的地方指挥我。	playername，你可以去更安全的地方指揮我。	危険だから、playernameは後ろに下がっていろ。	playername, 더 안전한 곳으로 가서 지휘해도 돼.	playername, you can direct me from somewhere safer.						0	
+22	她顿了顿，看向我的双手。	她頓了頓，看向我的雙手。	ひと呼吸置いて、私の手元へそっと視線を落とした。	그녀는 잠시 망설이더니 내 양손을 바라봤다.	She paused, her eyes landing on my hands.						0	
+23	你没有带武器，离战场太近会有危险。	你沒有帶武器，離戰場太近會有危險。	武器も持ってないし、巻き込まれたら…	넌 무기가 없잖아. 전장에 너무 가까이 가면 위험해.	You're unarmed. Getting too close to the battlefield is dangerous.						0	
+24	没事，泰坦伤不到我的。	沒關係，泰坦傷不到我的。	大丈夫だ。タイタンごときに傷つけられん。	괜찮아. 타이탄은 날 해칠 수 없어.	It's fine. The Titan can't hurt me.						0	
+25	我打了个响指。墙壁、空气、云层、地下——环境中的泰坦物质像一道道钟，在这声响指下阵阵回响。	我打了個彈指。牆壁、空氣、雲層、地下——環境中的泰坦物質像一道道鐘，在這聲彈指下陣陣迴響。	指をパチンと鳴らす。壁や大気、雲、地面――あらゆる場所に漂うタイタン物質が鈴のように共鳴し始める。	나는 손가락을 튕겼다. 벽, 공기, 구름, 지하… 주위의 모든 타이탄 물질이 손가락 소리에 맞춰 시계처럼 메아리쳤다.	I snapped my fingers, and the echo spread through the walls, the air, the earth, even the clouds. The Titagen within the environment answered, tolling like a series of distant bells.						0	
+26	云层突然黯淡。奈莉德手臂上的歌唱者系统骤然发出警报，那个遮天蔽日的巨物已经来到了我们的面前——	雲層突然黯淡。奈莉德手臂上的歌唱者系統突然發出警報，那個遮天蔽日的巨物已經來到了我們的面前——	一瞬で空が暗転し、ネリーダの腕に装着された「シンガーシステム」が警告を出す。…巨大な影が出現した――	별안간 구름이 어두워졌다. 네리다의 팔에 있는 코러스 시스템에서 갑자기 경보가 울렸고, 온 하늘을 가렸던 거대한 것이 벌써 우리 앞으로 다가왔다.	The sky dimmed drastically. On Nerida's arm, the Chorus System let out an alert as a colossal shadow appeared—						0	
+27	尤弥尔级泰坦。	尤彌爾級泰坦。	ユミル級のタイタンだ。	이미르급 타이탄이다.	An Ymir Titan.						0	
+28	建筑的表面上蒙着一层泰坦物质结成的晶体，镜子样的外边缘上映着泰坦的倒影。	建築的表面上蒙著一層泰坦物質結成的晶體，鏡子一樣的外邊緣上映著泰坦的倒影。	建物に鏡のような結晶が付着していて、そこに化け物じみた巨体が映り込む。	건물 표면이 타이탄 물질로 형성된 결정체로 뒤덮였고, 거울 같은 가장자리에는 타이탄의 형체가 비쳤다.	Crystals of condensed Titagen coated the building's surface, reflecting the Titan's silhouette.						0	
+29	playername！	playername！	playername！	playername!	playername!						0	
+30	几乎是一瞬间，黑色的能量流倾泻而出。奈莉德抱住我的腰，由黑潮的力量裹着我们撤退。	幾乎是一瞬間，黑色的能量流傾瀉而出。奈莉德抱住我的腰，由黑潮的力量裹著我們撤退。	一瞬で漆黒のエネルギーがあふれ出し、ネリーダは私の腰を抱え込んで飛び退く。	검은색 에너지 흐름이 순식간에 쏟아졌다. 네리다는 내 허리를 감쌌고, 검은색 에너지의 힘은 우리를 에워싼 채 물러났다.	In an instant, black energy surged from her. Nerida grabbed me by the waist, and with the power of the seething tide, we retreated.						0	
+31	冷静。	冷靜。	落ち着け。	침착해.	Stay calm.						0	
+32	调整你的状态——这种级别的泰坦并不难解决。	調整你的狀態——這種級別的泰坦並不難解決。	自分のペースをつかめ――これくらいなら対処できる。	컨디션 조절해. 이 정도 등급의 타이탄은 어렵지 않게 처치할 수 있어.	Adjust your state — this Titan isn't as tough as it looks.						0	
+33	我们已经和泰坦拉开了相当的距离。它过于高大，在刚刚出现的一瞬间给人的冲击力是巨大的，甚至难以提起对抗的勇气。	我們已經和泰坦拉開了一定的距離。它過於高大，在剛剛出現的一瞬間給人的衝擊力是巨大的，甚至難以提起對抗的勇氣。	タイタンとの距離は十分取れている。だが、あの巨体が現れた瞬間の威圧感は凄まじく、戦意を奪うには十分だった。	우리는 타이탄과 어느 정도 거리를 벌렸다. 그것은 매우 거대했고, 나타나는 순간의 충격도 어마어마했다. 차마 대항할 용기마저 들지 않을 정도였다.	We'd already put some distance between ourselves and the Titan. Its sheer size made it initially overwhelming, sapping the courage needed to face it.						0	
+34	它太大了，反而难以锁定我们。同样的，只要让它倒下，就很难再站起来了。	它太大了，反而難以鎖定我們。同樣的，只要讓它倒下，就很難再站起來了。	でかすぎてこっちを狙いづらいはずだ。あれを倒れさせれば、もう立ち上がれない。	너무 커서 오히려 우리를 조준하기 힘들 거야. 그러니까, 녀석이 쓰러지면 다시 일어날 수 없어.	It's too big, which makes it hard to target us. And once we make it fall, it'll have trouble getting back up.						0	
+35	我来吸引它的注意，你找机会破坏它的膝关节。	我來吸引它的注意，你找機會破壞它的膝關節。	私が囮になるから、その隙に膝関節を破壊しろ。	내가 주의를 끌 테니까 넌 기회를 봐서 무릎 관절을 망가뜨려.	I'll distract it. Focus on damaging its knee joints.						0	
+36	这对你来说太危险了。	這對你來說太危險了。	危険すぎる。	그러면 네가 너무 위험해.	That's too dangerous for you.						0	
+37	相信我。	相信我。	信じろ。	날 믿어.	Trust me.						0	
+38	……	……	…	…	...						0	
+39	她抓住我的肩膀，踮起脚，吻了吻我的嘴唇。	她抓住我的肩膀，踮起腳，吻了吻我的嘴唇。	ネリーダは私の肩をぐっと掴み、つま先立ちになり、キスを落とす。	그녀는 내 어깨를 잡고 까치발을 들어 나에게 입을 맞추었다.	She grabbed my shoulders and, without a word, leaned forward and kissed me.						0	
+40	然后什么话也没再说，转身走进了破败的大楼。	然後什麼話也沒再說，轉身走進了破敗的大樓。	何も言わずに、そのまま廃ビルの中へ走り去った。	그리고 말없이 뒤돌아서 무너진 건물로 들어갔다.	Then, without saying anything more, she turned and headed toward a crumbling building.						0	
+41	泰坦迈出了它的腿。看上去很慢，但那一步落下的时候，整个大地都在震颤。	泰坦邁出了它的腿。看起來很慢，但那一步落下的時候，整個大地都在震動。	タイタンが足を踏み出す。動きは遅そうに見えるが、地面を踏んだ瞬間、その衝撃で一帯が震える。	타이탄이 발을 내디뎠다. 속도는 느렸지만, 한 발짝 내디딜 때마다 땅 전체가 뒤흔들렸다.	The Titan took a step forward. Though slow, that single step sent tremors through the ground.						0	
+42	它似乎是想蹲下来，仔细观察我。在与它肩部平行的大楼顶部，一点赤黑色的光芒开始闪耀。	它似乎是想蹲下來，仔細觀察我。在與它肩部平行的大樓頂部，一點赤黑色的光芒開始閃耀。	まるでこっちを見下ろすように身を屈め、その肩の高さに相当するビルの屋上で、赤黒い光がちらつき始めた。	그것은 웅크려 앉아 나를 자세히 관찰하려는 듯했다. 타이탄 어깨높이의 건물 옥상에서 검붉은 빛이 반짝이기 시작했다.	As it attempted to crouch down to study me, at the top of a building parallel to its shoulder, a reddish-black light flickered to life.						0	
+43	像是洞穿天际的末日之星。赤黑色的光芒摇曳过一条细细的线，泰坦发出一阵痛苦的爆鸣声，身形也开始倾斜，连着把几座大楼都撞成了废墟。	像是洞穿天際的末日之星。赤黑色的光芒搖曳過一條細細的線，泰坦發出一陣痛苦的爆鳴聲，身形也開始傾斜，連著把幾棟大樓都撞成了廢墟。	終末を告げる閃光のように、それはスッと細いラインを描く。タイタンはうめき声を上げながらバランスを崩し、周囲のビルを巻き込みながら、傾いていく。	그것은 마치 하늘을 꿰뚫는 종말의 별 같았다. 검붉은 빛이 흔들리며 가느다란 선을 이루었고, 타이탄은 고통스러운 폭발음을 냈다. 몸도 기울어지기 시작하며 연달아 건물 몇 채를 폐허로 만들었다.	Like a doomsday star piercing the horizon, it wavered along a razor-thin line, followed by an explosion of suffering. The Titan lurched, reducing several buildings to rubble.						0	
+44	赤黑色飘荡在泰坦的身体上。我也跑了起来，往泰坦倒下的地方跑去。	赤黑色飄蕩在泰坦的身體上。我也跑了起來，往泰坦倒下的地方跑去。	赤黒いものがタイタンの体に漂っている。私はそのまま走り出し、倒れるタイタンの方へ移動する。	검붉은 빛은 타이탄 주위를 떠돌았고, 나도 타이탄이 쓰러진 곳으로 달려갔다.	That reddish-black light drifted over the Titan. Without hesitation, I started running toward where it had fallen.						0	
+45	轰——	轟——	ドゴォン――	쾅!	*BOOM—*						0	
+46	奈莉德的战斗还在继续。和之前见到的一样，她保持着一种谨慎，正在一点一点蚕食着泰坦的战斗意志。	奈莉德的戰鬥還在繼續。和之前看到的一樣，她保持著一種謹慎，正在一點一點蠶食著泰坦的戰鬥意志。	ネリーダは慎重な動きで攻撃は続いていて、タイタンの四肢を切り崩す。	네리다의 전투는 계속되고 있었다. 전에 봤던 것처럼 그녀는 신중함을 유지했고, 조금씩 타이탄의 전투 의지를 갉아먹고 있었다.	Nerida was still fighting. Just as I'd seen before, she kept a calculated approach, methodically wearing away the Titan's resolve.						0	
+47	泰坦的另一只手臂也被黑色能量流绞碎了。伴随着一声穿过耳膜直达脑髓的尖锐鸣叫，泰坦的内部爆发出一道巨大的吸力，以至于它的躯干都开始崩解坍缩——	泰坦的另一隻手臂也被黑色能量流絞碎了。伴隨著一聲穿過耳膜直達腦髓的尖銳鳴叫，泰坦的內部爆發出一道巨大的吸力，以致於它的軀幹都開始崩解坍縮——	残された片腕も漆黒のエネルギーにねじ切られ、脳髄に響くような悲鳴が大気を震わせる。その内部に強烈な吸引力が生まれ、胴体が崩壊しかける――	타이탄의 다른 팔 역시 검은색 에너지 흐름에 으스러졌다. 날카롭게 울부짖는 소리가 고막을 뚫고 뇌까지 닿으며, 타이탄 내부가 폭발해 엄청난 흡인력을 일으켰다. 타이탄의 동체가 붕괴할 정도였다.	The Titan's remaining arm was torn apart by her energy. A piercing cry erupted, reverberating straight into my skull. A massive vacuum force burst from its core as it collapsed—						0	
+48	下一刻，坍缩和崩坏戛然而止，空气一瞬间被抽空，像是在积蓄着什么。	下一刻，坍縮和崩壞戛然而止，空氣一瞬間被抽空，像是在積蓄著什麼。	しかし次の瞬間、崩壊がピタッと止まり、周囲の空気が一気に静まり返った。	그 순간, 붕괴가 뚝 그치고 일순간 공기가 빨려 들어갔다. 무언가를 축적하는 것 같았다.	Then, all at once, it stopped. The void swallowed the air around us, compressing it in preparation for something immense.						0	
+49	奈莉德！	奈莉德！	ネリーダ！	네리다!	Nerida!						0	
+50	我冲向赤黑色源头的奈莉德，而她不约而同地冲向我。	我衝向赤黑色源頭的奈莉德，而她不約而同地衝向我。	彼女の方へ走り、ネリーダも同じタイミングでこっちへ向かってくる。	나는 검붉은색의 근원인 네리다 쪽으로 향했고, 그녀 또한 약속이나 한 듯 나를 향해 돌진했다.	I sprinted toward the source of that reddish-black light — toward Nerida, who was also running toward me.						0	
+51	史无前例的殉爆。我把奈莉德护在身后，汇聚全身的力量到右手。如同吸盘，泰坦物质如漩涡一般在掌心盘旋，完全足以应对这一次冲击。	史無前例的殉爆。我把奈莉德護在身後，匯聚全身的力量到右手。像是吸盤，泰坦物質如漩渦一般在掌心盤旋，完全足以應對這一次衝擊。	――史上最大級の殉爆が起こる寸前。ネリーダを庇うように前に出て、右手に力を集中させる。渦巻くタイタン物質を吸い込み制御すれば、衝撃は凌げる…はずだった。	전례 없는 폭발이었다. 나는 네리다를 내 뒤에 두고 온몸의 힘을 오른손에 모았다. 타이탄 물질이 빨판에 휩쓸리듯 소용돌이치며 손바닥에서 빙빙 돌았고, 이번 타격에 대응하기에 충분했다.	An unprecedented explosion. I shielded Nerida behind me, channeling all my strength into one hand. Titagen swirled like a vortex in my palm, more than enough to withstand the impact.						0	
+52	但意外的是，我突然被奈莉德扑倒了——	但意外的是，我突然被奈莉德撲倒了——	――が、ネリーダが私にタックルするように飛びかかってきて、そのまま地面に倒れ込んだ。	하지만 뜻밖에도 네리다가 갑자기 나를 덮쳤다.	But unexpectedly, Nerida tackled me—						0	
+53	黑潮从四面八方收缩，层层叠叠遮蔽在她身后。	黑潮從四面八方收縮，層層疊疊遮蔽在她身後。	黒潮が四方から押し寄せ、幾重にも層を作って彼女の背後を守る。	사방에서 검은 기류가 수축했고, 여러 겹으로 쌓이며 그녀의 등을 뒤덮었다.	Black tides surged in from every direction, forming layer upon layer behind her.						0	
+54	她把我抱在怀里，用后背面对着在她看来完全无法抵挡的爆炸。	她把我抱在懷裡，用後背面對著在她看來完全無法抵擋的爆炸。	私を抱きしめたまま、彼女は爆発の直撃を防ごうとしている。	그녀는 나를 품에 안은 채 폭발을 등졌다. 그녀가 절대 막을 수 없을 듯한 폭발이었다.	She held me in her arms, turning her back toward the explosion — a force she couldn't possibly stop.						0	
+55	冲击波一层一层剥开她后背的庇护。黑潮汹涌地流淌，无穷无尽地填补着屏障的空缺。	衝擊波一層一層剝開她後背的庇護。黑潮洶湧地流淌，無窮無盡地填補著護盾的空缺。	幾重もの衝撃波が、彼女の背を守る黒い障壁を次々と剥ぎ取っていく。それでも黒潮は、空いた隙間に迷いなく溢れ出し、すべてを埋め尽くしていった。	충격파가 그녀 등 뒤의 엄호물을 한 겹씩 벗겨냈다. 검은 기류가 세차게 흘렀고, 장벽의 빈틈을 끝없이 메웠다.	The shockwaves stripped away her protective layers one by one. The tides kept surging, endlessly filling the gaps in the barrier.						0	
+56	奈莉德，放开我！我来解决——	奈莉德，放開我！我來解決——	ネリーダ、離せ！私が――	네리다, 놓아줘! 내가 해결할게!	Nerida, let me go! I'll handle this—						0	
+57	她似乎根本听不到，抱着我的手臂越来越紧，怎么也不愿意松开。	她好像根本聽不到，抱著我的手臂越來越緊，怎樣都不願意放開。	しかし彼女はさらに腕に力をこめて抱きしめ、離そうとしない。	그녀는 전혀 들리지 않는 듯 나를 껴안은 팔을 더 세게 조였고, 절대 놓으려 하지 않았다.	She couldn't seem to hear. Her arms tightened around me, refusing to let go.						0	
+58	她的身体开始发抖——然而爆炸已经停止了。屏障还在加厚，好像能挡下世界上所有的攻击。	她的身體開始發抖——然而爆炸已經停止了。護盾還在加厚，好像能擋下世界上所有的攻擊。	その体が震えているが…衝撃波はもう止んでいる。にもかかわらず彼女はなお防御態勢を解かず、膨大な力を注ぎ込んでバリアをさらに厚くしている。	그녀의 몸이 떨리기 시작했다. 그러나 폭발은 이미 멈췄고, 장벽은 점점 더 두꺼워져 세상의 모든 공격을 막을 수 있을 것만 같았다.	Her body began to tremble. Even after the explosion stopped, the barrier around us continued to thicken, as if it alone could block all the harm in the world.						0	
+59	是过度使用力量引起的神格侵蚀。她的感官已经与外界隔绝了。	是過度使用力量引起的神格侵蝕。她的感官已經與外界隔絕了。	力を過剰に使いすぎて神格侵蝕を起こしている証拠だ。周囲の様子が見えていない。	힘을 과도하게 사용해서 생긴 만트라 침식이었다. 그녀의 감각 기관은 이미 외부 세계와 단절됐다.	It was Flooding caused by overusing her power. Her senses were sealed off from the outside world.						0	
+60	我叹了口气，伸出手，触碰那道黑色的屏障。	我嘆了口氣，伸出手，觸碰那道黑色的護盾。	溜め息をついて、彼女の黒い障壁に触れる。	나는 한숨을 내쉬고 손을 뻗어 그 검은색 장벽을 만졌다.	I sighed, reaching out to touch the black barrier.						0	
+61	真正的噩梦里，是无法清醒、无法存在自我的。	真正的噩夢裡，是無法清醒、無法存在自我的。	悪夢の中では、人は意識も自我も失ってしまう。	진정한 악몽이란 깨어날 수 없고, 자아가 존재할 수 없는 곳이다.	In a true nightmare, you can't wake up. You can't exist as yourself.						0	
+62	理智和意志都不存在。只留下最真实的感受——手术台很硬。	理智和意志都不存在。只留下最真實的感受——手術台很硬。	理性も意志もなく、ただ痛みだけが残る――	이성도 의지도 없이, 가장 현실적인 감각, 딱딱한 수술대라는 느낌만 남는다.	Rationality and willpower vanished entirely. All that remained were the rawest feelings — the surgical table was hard.						0	
+63	鼓起的勇气一触即溃。荣誉、骄傲、真理、责任……全都随着痛觉和感官一起消失了。	鼓起的勇氣一觸即潰。榮譽、驕傲、真理、責任……全都隨著痛覺和感官一起消失了。	手術台の硬い感触、崩れ去る勇気や誇り、何もかもが消えていく。	용기는 맥없이 무너진다. 명예, 자부심, 진리, 책임… 모두 통각, 감각 기관과 함께 사라진다.	Courage crumbles at the barest touch. Honor, pride, truth, responsibility... Everything disappears with the pain and senses.						0	
+64	谁也无法依靠，谁也无法帮助自己。	誰也無法依靠，誰也無法幫助自己。	彼女はずっと誰にも頼らずに生きてきた。	아무도 의지할 수 없고, 아무도 자신을 도와줄 수 없다.	There was no one to rely on. No one to help.						0	
+65	她早就学会了不去依靠奶奶。作为卫城学院的学生，作为污染区的调查员。她能依靠的只有自己。但此时此刻，所有成熟的、坚强的、冷酷与坚定的、一直以来秉持的东西，都偷偷藏起来了。	她早就學會了不去依靠奶奶。作為衛城學院的學生，作為汙染區的調查員。她能依靠的只有自己。但此時此刻，所有成熟的、堅強的、冷酷與堅定的、一直以來秉持的東西，都偷偷藏起來了。	アクロポリス学院の生徒として、汚染エリアの調査員として…誰かを頼るなんて考えもしなかった。だが今この瞬間だけは、すべてを投げ出して助けを求めている。	그녀는 전부터 할머니를 의지하지 않았다. 아크로폴리스 아카데미의 학생으로서, 그리고 오염 구역의 조사원으로서, 그녀는 오로지 자신만 의지했다. 하지만 지금 이 순간은 성숙함, 굳건함, 냉혹함, 확고함, 그녀에게 속했던 모든 것이 어느새 숨어 버렸다.	She had learned not to rely on her Nana. As an Academica Acropolis student and Contaminated Sections investigator, she relied only on herself. But at this moment, all that strength and self-discipline had slipped away.						0	
+66	那些会伤害到她的东西原本被她包裹、捆缚、囚禁起来，现在却冲着她狞笑。那些吐露着恶毒真相的，那些大声求饶、哭泣、崩溃的，却都长着和她一模一样的面孔。	那些會傷害到她的東西原本被她包裹、捆綁、囚禁起來，現在卻對著她壞笑。那些吐露著惡毒真相的，那些大聲求饒、哭泣、崩潰的，卻都長著和她一模一樣的面孔。	その瞬間、封じていた「何か」が目を覚まし、牙を剥いて暴れだす。毒を吐き、泣き叫ぶ存在たち――恐ろしいのは、どれもが彼女自身を映す鏡のようだったことだ。	원래 그녀는 자신을 해치는 것들을 동여매고, 속박하고, 가두고 있었지만, 그것들은 지금 그녀를 보며 징그럽게 웃고 있었다. 악독한 진상을 드러내는, 큰 소리로 용서를 빌고, 울고, 붕괴한 것들이 그녀와 똑같은 얼굴을 하고 있었다.	The things she locked away to avoid being hurt were grinning maliciously. They taunted her, spoke cruel truths, begged, sobbed, and shattered — each wearing a face identical to hers.						0	
+67	她下意识地呼唤——像小时候那样。	她下意識地呼喚——像小時候那樣。	彼女は無意識に呼びかける――幼いころにそうしていたみたいに。	그녀는 어렸을 때처럼 무의식적으로 외쳤다.	And instinctively, she called out, just like when she was little.						0	
+68	奶奶——奶奶……	奶奶——奶奶……	…おばあ…ちゃん…	할머니! 할머니…	Nana... Nana...						0	
+69	画面转换，刺眼的手术灯变成了正午的烈阳。	畫面轉換，刺眼的手術燈變成了正午的烈陽。	場面がフッと切り替わり、まぶしい手術灯は真昼の太陽に変わる。	화면이 전환되고, 눈부신 수술실 조명이 정오의 맹렬한 태양으로 바뀌었다.	The scene shifted. The blinding surgical light became the fierce midday sun.						0	
+70	“莫罗佐娃女士（1971-2055）”	「莫羅佐娃女士（1971-2055）」	「マダム・モロゾワ（1971-2055）」	 '모로조바 여사(1971-2055)'	"Madam Morozova (1971-2055)"						0	
+71	大理石墓碑被烤得发烫。一个被封锁在内心深处的感受，随着回忆跳了出来——	大理石墓碑被烤得發燙。一個被封鎖在內心深處的感受，隨著回憶跳了出來——	灼けつく熱を帯びたモロゾワの墓碑。触れた刹那、心の奥に封じていた感情が、記憶の隙間からふいに飛び出してきた。	대리석 묘비가 뜨겁게 데워졌다. 마음속 깊이 가둬 두었던 감정이 기억을 따라 튀어 올랐다.	The marble tombstone was hot to the touch. A long-buried feeling leaped from the depths of her heart, alongside the memory—						0	
+72	即使知道自己不用再依靠对方，但却被再也不能依靠对方这个事实烫疼了。	即使知道自己不用再依靠對方，但卻被再也不能依靠對方這個事實燙得痛了。	すでに亡い家族に頼れなくなってしまった切なさが、胸を焼く。	자신이 더 이상 그분을 의지할 필요가 없다는 건 알지만, 다시는 의지할 수 없다는 이 사실은 마음이 아팠다.	She no longer needed to rely on her Nana, but the realization she could never rely on her again seared through her.						0	
+73	隔着这座墓碑，怎样的温度都无法传达到地底。她虽然被阳光烤得出汗，却实在是孤零零的一个人——和一米之外埋在土里的奶奶一样，无从依靠。	隔著這座墓碑，怎樣的溫度都無法傳達到地底。她雖然被陽光烤得出汗，卻實在是孤零零的一個人——和那埋在土裡的奶奶一樣，無從依靠。	じりじり焦がす陽光を浴びても、あの人のもとへ温もりを届けることなんてできない。結局ひとりぼっち。――誰にも頼れない、誰もいない。	이 묘비를 사이에 두고, 그 어떤 온기도 땅속으로 전해질 수 없었다. 그녀는 햇빛에 땀이 날 정도였지만, 사실 고독한 외톨이였다. 1미터 밖, 땅속에 묻혀 계신 할머니처럼 기댈 곳이 없었다.	No heat from the sun could travel through the gravestone. Despite the warmth, she was utterly alone. Like her Nana, separated by thin soil, there was no one she could lean on.						0	
+74	风吹过落叶。她与落叶又有什么分别？	風吹過落葉。她與落葉又有什麼分別？	風が落ち葉をさらい、彼女だけがそこに残った。	바람에 낙엽이 굴러갔다. 그녀와 낙엽은 무슨 차이가 있을까?	The wind blew through fallen leaves. How was she any different from them?						0	
+75	她高高地飞了起来。烈阳变得昏黄，灵魂在空中定格。硝烟漫漫，她看见逃跑的调查员摔倒在地，看见泰坦挥起卡车大的拳头，一个女孩在空中飞翔。	她高高地飛了起來。烈陽變得昏黃，靈魂在空中定格。硝煙漫漫，她看見逃跑的調查員摔倒在地，看見泰坦揮起卡車大的拳頭，一個女孩在空中飛翔。	視界がぼやけ、彼女は宙へ舞う。黄ばむ空に魂はとどまり、硝煙の中で調査員が倒れ、タイタンが腕を振る。飛んでいたのは、ひとりの少女。	그녀는 높이 날았다. 맹렬한 태양은 어슴푸레해졌고, 영혼은 공중에서 멈췄다. 연기가 피어오르고, 그녀는 도망친 조사원이 땅에 넘어지는 모습과 타이탄이 트럭만 한 주먹을 휘둘러 한 여자아이가 공중에 붕 뜨는 모습을 보았다.	She soared. The blazing sun turned amber, her soul froze mid-air. Through smoke, she saw an investigator fleeing and collapsing, a Titan raising its massive fist, and a flying girl.						0	
+76	那是我吗？	那是我嗎？	…あれ、私…？	저건 나인가?	Is that me?						0	
+77	我要死了吗？	我要死了嗎？	死ぬの…か？	난 죽는 건가?	Am I going to die?						0	
+78	坠落感把她抓回了身体。	墜落感把她抓回了身體。	落下する感覚が、彼女を現実へと引き戻す。	추락하는 느낌이 그녀를 다시 잡아당겼다.	The sensation of falling dragged her back into her body.						0	
+79	催动全身的力气，也无法再一次鼓动如同厄运般的力量。	催動全身的力氣，也無法再一次鼓動如同厄運般的力量。	全力を振り絞っても、あの「厄災のような力」は呼び起こせない。	온몸을 움직이는 기운도 액운 같은 그 힘을 다시 일으킬 수 없었다.	Even when she summoned everything she had, she couldn't reproduce that doom-like power again.						0	
+80	心底的声音穿过厚障壁，穿过时间和情绪，在她耳边悄悄地呢喃着。	心底的聲音穿過障礙般的厚壁，穿過時間和情緒，在她耳邊悄悄地呢喃著。	厚い壁の向こうから、静かな声が囁く。	마음속 목소리는 두꺼운 장벽을 뚫고, 시간과 감정을 넘어 그녀의 귓가에 조용히 속삭였다.	A voice echoed through her heart. It pierced the thick barriers of time and emotion, whispering close to her ear.						0	
+81	在这里结束吧。	在這裡結束吧。	もういいんだ。	여기서 끝내자.	End it here.						0	
+82	你已经做得很好了。	你已經做得很好了。	十分頑張ったじゃないか。	넌 충분히 잘했어.	You've done enough.						0	
+83	对，为什么不在这里结束呢？	對，為什麼不在這裡結束呢？	―そうだ。もう終わらせてしまえば、ひとりじゃなくなる。	맞아, 왜 여기서 끝내지 않는 거지?	Yes, why not end it here?						0	
+84	那就不再是一个人了。也许有死后的世界，也许有来生，也许记得也许不记得。	那就不再是一個人了。也許有死後的世界，也許有來生，也許記得也許不記得。	死後の世界があるかもしれないし、転生というものがあるかもしれない。記憶が残るか残らないかは、わからない。	그럼 더 이상 혼자가 아닐 텐데. 어쩌면 사후 세계나 다음 생이 있을 수도 있고, 기억이 날 수도, 안 날 수도 있을 텐데.	Then she wouldn't be alone anymore. Maybe there was an afterlife, or reincarnation. Maybe she would remember, or maybe she wouldn't.						0	
+85	她抬起头，已经很久很久没有出现过的恐惧，不知何时已经挣脱了所有束缚。	她抬起頭，已經很久很久沒有出現過的恐懼，不知何時已經掙脫了所有束縛。	目を上げると、どこか懐かしい「恐怖」がすべての束縛を解いて姿を現していた。	그녀는 고개를 들었다. 오랜 시간 나타난 적 없던 공포는 어느새 모든 속박에서 해방되었다.	She raised her head. The fear, held back for so long, had broken free of all its chains.						0	
+86	悲伤的自己。沉默的自己。胆小的自己。濒死的自己。崩溃的自己。	悲傷的自己。沉默的自己。膽小的自己。瀕死的自己。崩潰的自己。	悲しむ自分。黙りこむ自分。臆病な自分。死にかけの自分。崩壊した自分。	슬픈 자신. 침묵하는 자신. 겁 많은 자신. 죽기 직전의 자신. 붕괴하는 자신.	The girl that's sad, silent, timid, dying, breaking down—						0	
+87	那是无数个剪影叠加起来的自己——高大的她看着自己，笑着问自己。	那是無數個剪影疊加起來的自己——高大的她看着自己，笑着問自己。	幾重にも絡み合って言葉が鳴り止まない。	그것은 무수한 실루엣이 겹친 자신이었다. 거대한 그녀는 자신을 보고 웃으며 물었다.	A version of herself built from overlapping shadows, smiling at her, tall and unyielding, and asked:						0	
+88	为什么不结束呢？	為什麼不結束呢？	いっそ終わっちゃえば？	왜 끝내지 않지?	Why not end it?						0	
+89	她用巨大的手按住自己，一路向下。海水漫过她们，隔着虚影，她注视着菲洛索亚的太阳。	她用巨大的手按住自己，一路向下。海水漫過她們，隔著虛影，她注視著菲洛索亞的太陽。	その大きな手が、彼女の体を押さえつける。海水が流れ込み、見えない境界が彼女を閉じ込める。虚像の向こうにはフィロゾアの太陽があるというのに。	그녀는 거대한 손으로 자신을 누르고 아래로 향했다. 바닷물이 그들에게 넘쳤다. 환영 너머로, 그녀는 필로시아의 태양을 보고 있었다.	Her enormous hand pressed down, submerging all of her under the water. Beyond the phantom of herself, she gazed at the sun of Philossia.						0	
+90	那么，请结束吧。	那麼，請結束吧。	終わると…いいな…	그럼, 끝내자.	Then, let it end.						0	
+91	在结束的愿望中，她等待太阳蒸发所有的海水，让她也能感受到阳光。	在結束的願望中，她等待太陽蒸發所有的海水，讓她也能感受到陽光。	「終わり」を望む気持ちを抱いて、ただ呆然と陽光を待つ。	끝내려는 바람 속에서 그녀는 태양이 모든 바닷물을 증발시켜 그녀가 햇빛을 느끼기를 기다렸다.	She wished for it to end. She wanted the sun to evaporate all the water so she could finally feel its warmth again.						0	
+92	可是虚影却紧紧注视着她，隔断着她，控制着她，让任何正面的或者积极的事物都不能接近她。	可是虛影卻緊緊注視著她，隔斷著她，控制著她，讓任何正面的或者積極的事物都不能接近她。	でもその影は、彼女を鋭く見つめて離そうとしない。わずかな光すらも、そこには届かない。	하지만 환영은 그녀를 유심히 쳐다봤고, 그녀를 가로막고, 통제하고, 어떠한 긍정적 또는 적극적인 사물도 그녀에게 다가가지 못하게 했다.	But the phantom kept watch, cutting her off, controlling her, and refusing to let even a shred of light or hope reach her.						0	
+93	想起来吧，我啊。	想起來吧，我啊。	思い出せ、私を。	떠올려 봐, 나잖아.	Remember, that I...						0	
+94	想起来吧，我们本来就是你。	想起來吧，我們本來就是你。	もともとお前だった、私たちを。	떠올려 봐, 우린 원래 너였어.	Remember... we are you.						0	
+95	想起来吧，你在哪里丢下过我们？	想起來吧，你在哪裡丟下過我們？	私たちを捨てようとしていたでしょ？	떠올려 봐, 넌 어디에서 우릴 잃어버렸어?	Remember... where did you abandon us?						0	
+96	想不起来吗？我们来帮帮你吧——	想不起來嗎？我們來幫幫你吧——	わからないなら教えてあげよう。	생각 안 나? 우리가 도와줄게.	Can't remember? Let us remind you—						0	
+97	我是至亲逝去。她是孑然一身。还有她，还有她——	我是至親逝去。她是孑然一身。還有她，還有她——	ほら、私は「至親の死」、彼女は「ひとりぼっち」…みんな同じ「ネリーダ」だ。	나는 가족이 죽었어. 얘는 외톨이가 됐고. 그리고 쟤랑 쟤는…	I am the death of a family member. She is the solitude. And she, and she—						0	
+98	听我们的吧。听我们一回吧。我们也是你呀。	聽我們的吧。聽我們一次吧。我們也是你啊。	おいで……ほら、再び我々と一つとなれ。	우리 얘기를 들어 봐. 한 번만 들어 봐. 우리도 너야.	Listen to us. Listen for once. We are you too.						0	
+99	你反抗不了的。你反抗不了——你只能相信我们。你什么也做不到，动动小指也费劲。	你反抗不了的。你反抗不了——你只能相信我們。你什麼也做不到，動動小指也費力。	もう、抗う力なんて残っていないだろう？すべてを手放せば――きっと、楽になれる。	넌 저항할 수 없어. 넌 저항 못 해. 우리를 믿을 수밖에 없어. 넌 아무것도 못 해. 새끼손가락 하나 움직이기도 힘들걸.	You can't resist. You can't — you can only trust us. Even lifting a finger is impossible.						0	
+100	放弃吧。结束吧。这样我们也能解脱了！	放棄吧。結束吧。這樣我們也能解脫了！	もう諦めなよ。私たちを解放して――	포기해. 끝내. 그러면 우리도 벗어날 수 있다고!	Give in. End it. Set us free!						0	
+101	她们围着她，叽叽喳喳地说。密不透风，一层又一层。	她們圍著她，嘰嘰喳喳地說。密不透風，一層又一層。	四方八方から、言葉の渦が押し寄せる。その壁は重なり合い、彼女の呼吸を奪おうとする。	그녀들은 그녀를 둘러싼 채 재잘댔다. 한 겹, 또 한 겹, 바람도 통하지 않게 둘러막았다.	The specters surrounded her, chattering. It was suffocating, layer upon layer.						0	
+102	我还想等等——	我還想等等——	まだ…もう少しだけ待つ…	난 좀 더 기다릴래…	I still want to wait—						0	
+103	不，你不想。你不想！你什么都不想。	不，你不想。你不想！你什麼都不想。	何迷っているの？ほら、私たちの手を取って。	아니, 넌 그렇지 않아. 아니야! 넌 아무것도 하고 싶지 않아.	No, you don't. You don't! You don't want anything.						0	
+104	如果他来的话——	如果他來的話——	…もし…あの人が来てくれたら…	만약 그가 온다면…	If he comes—						0	
+105	不！他不会来！他永远都不会来——想都别想！	不！他不會來！他永遠都不會來——想都別想！	何を期待しているの？もう誰も来ないよ。	아니! 그는 오지 않아! 그는 영원히 오지 않아. 꿈도 꾸지 마!	No! He won't! He will never — it's never going to happen!						0	
+106	……	……	…	…	...						0	
+107	在绝望之前，她伸出手，张开五指，隔着指缝，想要再看一眼阳光。	在絕望之前，她伸出手，張開五指，隔著指縫，想要再看一眼陽光。	最後の最後、ネリーダは自分の指先を見つめ、もう一度光を探すように手をかざす――	절망하기 직전, 그녀는 손을 뻗어 다섯 손가락을 펼쳤다. 손가락 사이로 다시 한번 햇빛을 보고 싶었다.	Before despair could consume her, she reached out with open fingers, trying to catch a glimpse of the sunlight one last time.						0	
+108	我抓住了这个瞬间。	我抓住了這個瞬間。	彼女の想いに、私はすぐ応えた。	나는 그 순간을 잡았다.	I seized that moment.						0	
+109	拨开一层一层的虚影，我抓住了那只手。	撥開一層一層的虛影，我抓住了那隻手。	幾重にも重なる幻をかき分け、その手をしっかり掴んだ。	나는 한 겹씩 환영을 밀어제치고 그 손을 잡았다.	Pushing away layer after layer of phantoms, I grabbed her hand.						0	
+110	找到你了，奈莉德。	我找到你了，奈莉德。	――見つけたな、ネリーダ。	찾았다, 네리다.	Found you, Nerida.						0	
+111	好像有人横抱着她——因为从没有人抱过她，所以也是第一次如此感受。	好像有人橫抱著她——因為從來沒有人抱過她，所以也是第一次如此感受。	横抱きにされた彼女は、まるで初めてそんな温もりを感じたように戸惑っている。	누군가 그녀를 들어 안은 듯했다. 지금껏 그녀를 안아 준 사람이 없었기에, 이런 느낌은 처음이었다.	It felt as though someone was carrying her in their arms — an unfamiliar feeling. No one had ever carried her before.						0	
+112	像躺在吊床里。有力的手臂环过后背和腿弯，耳畔的心跳如鼓声点点，带着自己的心跳也快了半拍。	像躺在吊床裡。有力的手臂環過後背和腿彎，耳畔的心跳如鼓聲點點，帶著自己的心跳也快了半拍。	寝台に揺られるみたいな心地で、耳に聞こえる鼓動に自分の拍動がシンクロしてくる。	해먹에 누워 있는 느낌이었다. 힘 있는 팔이 등과 다리를 둘러쌌고, 귓가에 들리는 심장 소리가 북소리처럼 쿵쿵거렸다. 그에 따라 자신의 심장 박동도 빨라졌다.	It was like lying in a hammock. Strong arms supported her back and knees, while a steady heartbeat against her ear quickened her own.						0	
+113	她实在没有应对这种场景的经验。该说什么，该做什么，流露什么表情，接着维持还是跳下来。	她實在是沒有應對這種場景的經驗。該說什麼，該做什麼，流露什麼表情，是維持還是跳下來。	どう反応すればいいかもわからず、呆然とするうちに意識が遠のきそうだ。	그녀는 이런 상황에 대응해 본 경험이 없었다. 뭐라고 말해야 할까? 뭘 해야 할까? 어떤 표정을 지어야 할까? 계속 있어야 하나, 아니면 뛰어내릴까?	She had no idea how to deal with this. What should she say? What should she do? What expression should she wear? Should she stay still or leap away?						0	
+114	身体的虚弱又开始提醒她了。脑袋昏昏沉沉，好像做了个漫长的噩梦，连一根小指头都不想动。	身體的虛弱又開始提醒她了。腦袋昏昏沉沉，好像做了個漫長的噩夢，連一根小指頭都不想動。	頭は鈍く、身体も言うことを聞かない。まるで長い長い悪夢に囚われた直後のようだ。	신체의 허약함이 또다시 그녀를 일깨웠다. 머리는 몽롱했고 기나긴 악몽을 꾼 듯 손가락 하나도 까딱하고 싶지 않았다.	But the weariness reminded her of her limits. Her head felt heavy, spinning as though she had endured a long nightmare. She didn't even want to lift a finger.						0	
+115	……醒了？	……醒了？	…目が覚めたか？	… 깼어?	...Are you awake?						0	
+116	抱着她的人在问她，但她下意识不敢回答。等她犹豫着想要开口的时候，又没有机会了。	抱著她的人在問她，但她下意識不敢回答。等她猶豫著想要開口的時候，又沒有機會了。	抱いている私がそう声をかけても、彼女は躊躇して黙る。何か言おうとすると、ある声が割り込む。	그녀를 안고 있는 사람이 물었다. 하지만 그녀는 무의식적으로 대답할 수 없었다. 망설이며 입을 열려고 했지만, 또 기회가 없어졌다.	It came from the person holding her. She instinctively avoided answering. By the time she hesitated long enough to want to speak, the chance had already slipped away.						0	
+117	同步指数相当可观，各项指标也都在可控范围内。接下来只要好好休息就行了。	同步指數非常可觀，各項指標也都在安全範圍內。接下來只要好好休息就可以了。	同期率はかなり良好で、異常もありません。あと休ませれば大丈夫でしょう。	동기화 지수가 훌륭하네요. 각종 지표도 통제 가능 범위에 있고, 이제 푹 쉬기만 하면 돼요.	Her alignment index is quite impressive, all indicators are within manageable levels. She just needs proper rest now.						0	
+118	嗯。我带她回房间。	嗯。我帶她回房間。	助かる。じゃあ部屋に連れて行く。	응. 방으로 데려갈게.	Alright. I'll take her back to her room.						0	
+119	她只好闭紧眼睛，等这段束手无措的时间过去。	她只好緊閉眼睛，等這段束手無措的時間過去。	ネリーダはまた目を閉じ、されるがままになっている。	그녀는 눈을 꾹 감고 속수무책의 시간이 지나가기를 기다릴 수밖에 없었다.	She kept her eyes shut tightly, waiting for the awkward moment to end.						0	
+120	身体有节奏地起伏着。她慢慢回想起昏迷之前的事。	身體有節奏地起伏著。她慢慢回想起昏迷之前的事。	意識が少しずつ浮上する中で、彼女はさっきの激戦を思い出す。	몸이 리듬감 있게 오르내렸다. 그녀는 의식을 잃기 전의 일이 서서히 떠올랐다.	Her body rose and fell in rhythm. Slowly, she started remembering the events leading up to her collapse.						0	
+121	有一瞬间，她的大脑一片空白。	有一瞬間，她的大腦一片空白。	一瞬、彼女の意識がふっと遠のく。	그녀의 머릿속이 하얘진 순간이 있었다.	For a brief moment, her mind went blank.						0	
+122	无论如何也不能失去他，无论如何也要保护他。	無論如何也不能失去他，無論如何也要保護他。	どうしても彼を失いたくない。何があっても守らなきゃ。	무슨 일이 있어도 그를 잃을 순 없어. 어떻게든 그를 보호해야 해.	She couldn't lose him, no matter what. She had to protect him, no matter the cost.						0	
+123	相比在海底的那一天，她此刻更能体会到劫后余生的感受。	相比在海底的那一天，她此刻更能體會到劫後餘生的感受。	海の底で死にかけた時よりも、今の方が生き延びた実感は強い。だからこそ、何としてもあの人を守ってやろうと思うのだ。	바닷속에 있던 그날보다 지금 이 순간 그녀는 생존의 느낌을 더 강렬히 느낄 수 있었다.	The feeling of narrowly escaping death hit her with greater intensity than that day at the bottom of the sea.						0	
+124	她贪婪地呼吸着。他身上的味道让她安心，眨眼间就能驱散噩梦带来的所有阴影。	她貪婪地呼吸著。他身上的味道讓她安心，眨眼間就能驅散噩夢帶來的所有陰影。	彼女は貪るように私の匂いを吸い込み、怖かった夢の残骸を振り払う。	그녀는 탐욕스럽게 호흡했다. 그의 체취가 그녀를 안심시켰고, 악몽이 가져온 모든 트라우마를 순식간에 쫓아냈다.	Breathing heavily, she greedily took in his scent. It grounded her, sweeping away every bit of the nightmare's weight in an instant.						0	
+125	手不知不觉抓住了面前的衣服，然后被温暖的手握住了。	手不知不覺抓住了面前的衣服，然後被溫暖的手握住了。	気づけば、シャツをぎゅっと掴んでいたらしく、私はやんわりその手を握り直した。	손은 자기도 모르게 눈앞의 옷을 붙잡았고, 곧이어 따뜻한 손이 그녀를 잡았다.	She instinctively clutched at the fabric in front of her, and a warm hand covered hers in response.						0	
+126	身体还好吗？	身體還好嗎？	痛むところはないか？	몸은 괜찮아?	Are you feeling okay?						0	
+127	嗯。	嗯。	…平気だ。	응.	Yes.						0	
+128	你受伤了吗？	你受傷了嗎？	…怪我していないか？	다쳤어?	Are you hurt?						0	
+129	没有。你保护得很好。	沒有。你保護得很好。	平気さ。ネリーダがしっかり守ってくれたからな。	아니. 네가 잘 지켜줬어.	No. You protected me well.						0	
+130	谢谢你。	謝謝你。	ありがとな。	고마워.	Thank you.						0	
+131	……	……	…	…	...						0	
+132	她好像并不知道怎么回答这句话，只是垂下了视线，没有再看着我。	她好像並不知道怎麼回答這句話，只是垂下了視線，沒有再看著我。	礼を言われても彼女はどう返事をしていいかわからないらしく、視線を落として黙りこむ。	그녀는 이 말에 어떻게 대답해야 할지 모르는 듯했다. 그저 시선을 떨구고 더 이상 나를 보지 않았다.	She didn't seem to know how to respond and simply lowered her gaze, avoiding eye contact.						0	
+133	神格侵蚀……不是第一次了吧？	神格侵蝕……不是第一次了吧？	神格侵蝕…これが最初じゃないな？	만트라 침식… 처음이 아니었지?	Being Flooded... it wasn't your first time, was it?						0	
+134	我还以为是噩梦。	我還以為是噩夢。	ただの悪夢だと思っていた。	난 악몽인 줄 알았어.	I thought it was just a nightmare.						0	
+135	上次出任务的现场也是。	上次出任務的現場也是。	前のミッションでも似た症状があった。	저번 임무 수행 현장에서도 그렇고.	It happened during the last mission too.						0	
+136	playername……	playername……	playername…	playername…	playername...						0	
+137	是你帮了我吗？那束阳光。	是你幫了我嗎？那束陽光。	あの時も、おまえが助けてくれたのか？あの光…	네가 날 도와준 거야? 그 햇빛 말이야.	Was it you who helped me? That beam of sunlight.						0	
+138	嗯。我就在你身后，一直看着你。	嗯。我就在你背後，一直看著你。	ああ。ネリーダが一人で暴走しないよう、ずっと後ろにいた。	응. 내가 뒤에서 계속 지켜보고 있었어.	Yeah. I stayed close the entire time, watching over you.						0	
+139	你以为我真那么心大？你刚做完手术，就让你一个人去剿灭泰坦？	你以為我真那麼放心？你剛做完手術，就讓你一個人去剿滅泰坦？	手術直後に一人でタイタン退治なんて、さすがに放っておけないな。	내가 그렇게 태평한 줄 알았어? 수술받은 지 얼마 되지도 않았는데, 타이탄 소탕에 너 혼자 보내게?	Did you really think I'd send you to fight a Titan alone right after surgery?						0	
+140	她眨了眨眼，没有回答。	她眨了眨眼，沒有回答。	ネリーダは瞬きをして、言葉を飲み込む。	그녀는 눈만 깜빡일 뿐 대답이 없었다.	She blinked at that but didn't respond.						0	
+141	除了这两次之外，还有我不知道的吗？	除了這兩次之外，還有我不知道的嗎？	ほかにも似たようなことがあったか？	그 두 번 외에도 내가 모르는 게 더 있어?	Besides those two instances, is there any other time I don't know about?						0	
+142	手术的时候，大概也是吧。	手術的時候，大概也是吧。	手術のときも、たぶん…	수술할 때도 그랬겠지.	During the surgery... probably that too.						0	
+143	……自己硬扛？	……自己硬撐？	一人で抱えたのか。	… 혼자 버틴 거야?	...And you took all that on by yourself?						0	
+144	她把头埋在我的怀里，慢慢呼吸着。	她把頭埋在我的懷裡，慢慢呼吸著。	彼女は私の胸に顔をうずめ、穏やかな呼吸を繰り返す。	그녀는 내 품속에 고개를 묻고 천천히 호흡했다.	She buried her head against my chest, taking measured breaths.						0	
+145	我没事的。以前也会做梦，都没事的。	我沒事的。以前也會做夢，都沒事的。	平気だ。昔から悪夢は見慣れている。	난 괜찮아. 꿈은 전에도 꿨는걸. 아무 일도 없었어.	It's fine. I've had nightmares before... and I was always fine.						0	
+146	别担心。	別擔心。	だからあまり気にするな…	걱정하지 마.	Don't worry.						0	
+147	以后再发生了，要告诉我。	以後要是再發生，要告訴我。	次は隠すなよ。	앞으로 또 그러면 나한테 말해 줘.	If it ever happens again, promise me you'll tell me.						0	
+148	要来找我。像这样——	要來找我。像這樣——	苦しいなら、私のところに来い。こうやって…	날 찾아와. 지금처럼…	Come find me. Like this—						0	
+149	只要这样拉着手，就不会难受了。	只要這樣拉著手，就不會難受了。	ほら、こうして手を繋いでいれば、かなり楽になるだろ。	이렇게 손을 잡고 있으면 괴롭지 않을 거야.	I'll hold your hand, and it won't hurt anymore.						0	
+150	嗯。	嗯。	…ああ。	응.	Okay.						0	
+151	你应该也发现了吧？你身上的问题。	你應該也發現了吧？你身上的問題。	自覚しているかもしれないと思うが…	너도 알아챘지? 네 몸의 문제 말이야.	You've probably noticed it yourself, right? Your issue.						0	
+152	说通俗点，你变得怕死了。	說簡單點，你變得怕死了。	ネリーダは「死」を警戒するようになっている。	쉽게 말하자면, 넌 죽음이 두려워졌어.	To put it simply, you've become afraid of death.						0	
+153	如果怕死，就不会变成现在这个样子了。	如果怕死，就不會變成現在這個樣子了。	死ぬのが怖いなら、そもそもこんな身体にはなってないさ。	죽음이 두려웠다면 지금 이 모습이 되지도 않았을 거야.	If I were, I wouldn't have ended up like this.						0	
+154	她抬起头，平静地看着我。	她抬起頭，平靜地看着我。	彼女は私を見据え、静かに言葉を続ける。	그녀는 평온한 얼굴로 나를 올려다봤다.	She lifted her head and looked at me calmly.						0	
+155	我已经找到答案了——	我已經找到答案了——	答えが見つかったよ――	난 이미 답을 찾았어.	I've already found my answer—						0	
+156	我想永远被你注视。	我想永遠被你注視。	ずっと、見ていてほしい…	난 영원히 너의 주목을 받고 싶어.	I want you to keep looking at me.						0	
+157	我说过吧？过去的我，已经死在菲洛索亚的海底了。	我說過吧？過去的我，已經死在菲洛索亞的海底了。	言っただろう、昔の私は海底で死んだも同然だ。	내가 말했지? 과거의 나는 이미 필로시아 바닷속에서 죽었다고.	I told you, didn't I? My past self died at the bottom of the sea in Philossia.						0	
+158	现在的我活着的理由，就是被你注视，被你看见，被你理解地活下去。	現在的我活著的理由，就是被你注視，被你看見，被你理解地活下去。	いま生きている理由が、「おまえに注目されること」にある。おまえに見られ、理解されて…そのために私は存在している。	지금 내 삶의 목적은 네가 날 봐주고, 네 눈에 띄고, 너의 이해를 받기 위해서야.	I live now for you, to look at me, and to understand me.						0	
+159	……	……	…	…	...						0	
+160	我答应你。	我答應你。	あぁ、約束する。	그렇게 할게.	I promise you, I will.						0	
+161	不过，我也有我的愿望。	不過，我也有我的願望。	けど、こっちにも願いがある。	하지만 나도 바라는 게 있어.	But I'd also like you to promise me something.						0	
+162	我也答应你。	我也答應你。	全部叶えてやる。	나도 그렇게 할게.	I promise you.						0	
+163	……我还没说是什么。	……我還沒說是什麼。	まだなにも言ってないんだけど…	… 아직 아무 말도 안 했는데.	...I haven't even said what it is yet.						0	
+164	只要是你的愿望，我就去实现。	只要是你的願望，我就去實現。	おまえの望みなら、何でも。	네가 무엇을 바라든 내가 이뤄줄게.	Whatever your wish is, I'll make it come true.						0	
+165	那，我想看见能找到自我的奈莉德。	那，我想看見能找到自我的奈莉德。	そうか…じゃあ、「自分自身を見つけたネリーダ」を見せてほしい。	그럼, 난 자아를 찾은 네리다를 보고 싶어.	Then, I want to see a Nerida who can find herself.						0	
+166	我喜欢看见你在阳光下，更喜欢看见你在黑夜里。	我喜歡看見你在陽光下，更喜歡看見你在黑夜裡。	陽光の下に立つネリーダも、闇の中にいるネリーダも、全部知りたい。	난 햇살 아래에 있는 네가 좋아. 어두운 밤에 있는 너는 더 좋고.	I like seeing you in the sunlight, but I like seeing you in the darkness even more.						0	
+167	……	……	…	…	...						0	
+168	我不明白。	我不明白。	…わからん。	이해가 안 되는데.	I don't understand.						0	
+169	你不知道的是，我能看见神格侵蚀的情景。	你不知道的是，我能看見神格侵蝕的情景。	ネリーダは知らないかもしれないが、私には神格侵蝕のビジョンが見える。	네가 모르는 게 있는데, 난 만트라 침식의 장면을 볼 수 있어.	You probably don't know, but I can see Flooding when it happens.						0	
+170	我能进入你的噩梦。我能感受到你的感受。	我能進入你的噩夢。我能感受到你的感受。	ネリーダの恐怖や痛みも、全部伝わってくる。	난 네 악몽에 들어갈 수 있어. 네 느낌을 나도 느낄 수 있어.	I could enter your nightmares. I could feel what you feel.						0	
+171	也许是你一个人太久了。只有把所有的恐惧都封闭起来，你才不会被击垮。	也許是你一個人太久了。只有把所有的恐懼都封閉起來，你才不會被擊垮。	一人で全部封じ込めないと壊れそうだったんだろう。	너무 오랫동안 혼자였던 탓인지, 넌 모든 공포를 가둬 놓아야만 무너지지 않더라.	Maybe you've been alone for too long. Locking away all your fears might have been the only way to stop yourself from breaking.						0	
+172	但……你不再是一个人了。	但……你不再是一個人了。	でももう、一人じゃないんだ。	하지만… 넌 이제 혼자가 아냐.	But... you're not alone anymore.						0	
+173	你说了，希望我看着你，注视着你。	你說了，希望我看著你，注視著你。	さっき、「見てくれ」って言ったろう？	네가 그랬잖아. 내가 너를 봐주고, 주목해 주면 좋겠다고.	You said you wanted me to look at you, to understand you.						0	
+174	除了照在你身上的阳光，我还要看到你背后的阴影。	除了照在你身上的陽光，我還要看到你背後的陰影。	全部受け入れる。降りそそぐ光だけじゃなく、その背に落ちる影までも――	난 너에게 내리쬐는 햇살뿐만 아니라, 네 등 뒤의 그림자도 볼 거야.	Beyond the sunlight that shines on you, I want to see the shadows behind you too.						0	
+175	因为那才是全部的你。	因為那才是全部的你。	ネリーダという存在を。	그게 온전한 너니까.	Because together, that's the whole you.						0	
+176	我挥了挥手，玻璃幕墙瞬间隔断了所有的阳光，房间变成了星空的颜色。	我揮了揮手，玻璃幕牆瞬間隔斷了所有的陽光，房間變成了星空的顏色。	軽く手を振り、部屋のガラス窓を遮断する。星空のような闇が一気に広がって、光が消える。	내가 손을 흔들자, 유리 외벽이 순간 모든 햇빛을 차단하고 방이 별하늘의 색으로 바뀌었다.	I waved my hand, and the glass window darkened, blocking out all the sunlight. The room was bathed in the night sky.						0	
+177	就像夜晚，你可以拥抱所有的脆弱和缺憾。	就像夜晚，你可以擁抱所有的脆弱和缺憾。	夜の闇には、弱さを抱きしめる包容力がある。	이런 밤처럼, 넌 모든 연약함과 아쉬움을 포용할 수 있어.	Like the night, you can embrace all of your vulnerabilities and flaws.						0	
+178	理解它们。成为它们。但却不会被它们左右。	理解它們。成為它們。但卻不會被它們左右。	それを受け止めても、流されないでいられる。	그것들을 이해하고, 그것으로 변하지만, 그것들에 좌우되지는 않지.	Understand them. Accept them. But don't let them control you.						0	
+179	可以哀伤，可以委屈。可以难过到流泪。	可以哀傷，可以委屈，可以難過到流淚。	泣いたっていいし、弱音を吐いてもいい。	슬퍼하고 속상해도 좋고, 힘들어서 울어도 좋아.	You can feel sad. You can feel wronged. You can be upset to the point of tears.						0	
+180	你当然可以不这么做。我只是告诉你，你也有这些权力。	你當然可以不這麼做。我只是告訴你，你也有這些權力。	もちろんそうしなくてもいいが…	물론 그러지 않아도 좋아. 너에게 그럴 권리가 있다고 말해 주는 거야.	Of course, you don't have to do this. I'm just saying that you have the right to.						0	
+181	或者说，我的愿望就是让你拥有选择。	或是說，我的願望就是讓你擁有選擇。	そういう「権利」もあるんだと知ってほしい。	다르게 말하면, 내 소원은 바로 네가 선택권을 갖는 거야.	More than that, my wish is for you to have choices.						0	
+182	你也可以不用一直那么坚强的。	你也可以不用一直那么堅強的。	いつまでも強がる必要はない。	너도 계속 그렇게 강인할 필요는 없어.	You don't always have to be so strong.						0	
+183	她没有说话，紧紧抱住了我，下巴靠着我的肩膀。	她沒有說話，緊緊抱住了我，下巴靠著我的肩膀。	ネリーダは言葉を返さず、私を強く抱きしめ、顎を私の肩に預け、微かに震えている。	그녀는 말없이 나를 꽉 껴안았고, 내 어깨에 턱을 기댔다.	She didn't reply. Her arms wrapped tightly around me, and her chin came to rest on my shoulder.						0	
+184	不用一直面对阳光，不用被照到，不用被看见。	不用一直面對陽光，不用被照到，不用被看見。	光を浴びなくてもいいし、見られなくてもいい。	햇빛을 계속 보고 있을 필요도 없고, 햇볕을 쬘 필요도, 누군가에게 보일 필요도 없어.	You don't always have to face the sunlight. You don't have to be illuminated, don't have to be seen.						0	
+185	可以害怕，可以哭，可以难过。什么都可以。	可以害怕，可以哭，可以難過，什麼都可以。	怖がっても、泣いてもいいんだ。何だって許される。	무서워하고, 울어도 돼. 힘들어해도 돼. 다 괜찮아.	You can be afraid. You can cry. You can feel sad. Anything is okay.						0	
+186	很快，肩膀就传来了温热湿润的感觉。	很快，肩膀就傳來了溫熱濕潤的感覺。	やがて肩口にぽたぽたと温かい雫が落ちてくる。	곧 어깨에 따뜻하고 축축한 느낌이 전해졌다.	Soon enough, I felt something warm and wet soaking into my shoulder.						0	
+187	你看，我就说嘛。	你看，我就說嘛。	ほらな。	봐, 내가 말했지?	See? What did I tell you?						0	
+188	哪能一直硬撑着呢。	哪能一直硬撐著呢。	やっぱり限界だろ。	계속 참고 버틸 수 있을 리가 없잖아.	No one can keep up a strong front forever.						0	
+189	她的头发像耶洛沙的雪。	她的頭髮像耶洛沙的雪。	彼女の髪はイェロシャの雪みたいに白く、儚げだ。	그녀의 머리카락은 꼭 옐로샤의 눈 같았다.	Her hair reminded me of the snow in Yehrus.						0	
+190	无人触碰，随处可见。混着泥浆、消亡在阳光之下，是最常见的命运。	無人觸碰，隨處可見。混著泥漿、消亡在陽光之下，是最常見的命運。	誰にも触れられず、ひっそりと溶けていく。それが当たり前の運命――	아무도 닿지 않은, 어디에서나 볼 수 있는 것. 흙탕물과 섞이고 햇빛에 녹아 없어지는 것이 가장 흔한 운명이었다.	Untouched, always present. Mixing with mud, melting away in the sunlight.						0	
+191	我摸着她的头发，轻轻拍着她的后背。	我摸著她的頭髮，輕輕拍著她的後背。	いまはこうして私が抱きしめている。	나는 그녀의 머리칼을 쓰다듬으며, 등을 토닥여 주었다.	I stroked her hair gently and patted her back.						0	
+192	先是呜咽，后是啜泣，然后是完全无法遏制声音的哭喊。	先是嗚咽，後是啜泣，然後是完全無法遏制聲音的哭喊。	最初はくぐもった声。やがて啜り泣きが大きくなり、ついには抑えきれない慟哭へと変わる。	그녀는 흐느끼고 훌쩍이더니, 이내 참을 수도 없이 울부짖었다.	First came the whimpers, then soft sobs, then uncontrollable wails.						0	
+193	这么多年的软弱、害怕、痛苦……还有孤独。	這麼多年的軟弱、害怕、痛苦……還有孤獨。	こんなにも長いあいだ抱えてきた不安や孤独、恐れが…	그토록 오랜 시간 느꼈을 연약함, 무서움, 고통… 그리고 외로움.	All these years of weakness, fear, pain... and loneliness.						0	
+194	忽视的，麻木的，忍耐的，难以忍受的。	忽視的，麻木的，忍耐的，難以忍受的。	いま一気に解き放たれていく。	무시한 것, 무뎌진 것, 인내한 것, 견디기 어려운 것.	All the things she had ignored, buried, numbed. Everything unbearable.						0	
+195	被神格侵蚀唤起的，被遗忘又被想起的，一重重一道道，叠在了她的身上，又一层一层揭开。	被神格侵蝕喚起的，被遺忘又被想起的，一重重一道道，疊在了她的身上，又一層一層揭開。	神格侵蝕の闇も、執拗に苛む過去も、もう二度と一人で耐えなくていい――	만트라 침식이 상기시킨 것, 잊히고 또 생각난 것. 하나하나가 그녀에게 겹겹이 쌓였다가 또 한 층 한 층 벗겨진다.	Awakened through Flooding, forgotten but now remembered again, piling onto her and peeling away.						0	
+196	（哭吧……哭吧。）	（哭吧……哭吧。）	（泣いていい…思い切ってな。）	(울어… 실컷 울어.)	(Let it all out... cry as much as you want.)						0	
+197	（把这些都放下。）	（把這些都放下。）	（背負ってきたもの、そろそろ下ろしてもいいんじゃないか。）	(모두 내려놓고.)	(Let it all go.)						0	
+198	（从今以后，你再也不用一个人面对这一切了。）	（從今以後，你再也不用一個人面對這一切了。）	（これから先、ネリーダが一人で立ち向かうことはない。私は、そうさせないから。）	(이제부터는 이 모든 걸 홀로 마주하지 않아도 되니까.)	(From now on, you'll never have to face any of this alone again.)						0	

@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	看什么呢，这么认真？	看什麼呢，這麼認真？	何見てるんだ？そんな真剣に。	뭘 그렇게 열심히 보고 있어?	You're so focused. What are you looking at?						0	
+page1.2	唔，算是在挑选下次拍摄的合作伙伴吧。	唔，算是在挑選下次拍攝的合作夥伴吧。	えっと、次の撮影のパートナーを選んでいるところです。	아, 다음에 촬영할 파트너를 선택하는 중이었어요.	Oh, I'm choosing a partner for my next photoshoot.						0	
+page1.3	这也是可以自己选择的吗？	這也是可以自己選擇的嗎？	それは自分で選べるものなのか？	이런 것도 마리안이 직접 선택할 수 있는 거야?	You can choose your partner?						0	
+page1.4	毕竟，想要捕捉到好的画面，与合作伙伴之间是需要一些默契的。	畢竟，想要捕捉到好的畫面，與夥伴之間是需要一些默契的。	いい写真を撮りたかったら、ある程度はパートナーと気が合わないといけませんから。	좋은 사진을 촬영하려면 파트너랑 호흡을 잘 맞춰야 해서요.	Well, you need some sort of unspoken understanding with your partner if you want to take good pictures.						0	
+page1.5	分析员可以帮我一起选选吗？	分析員可以幫我一起選一下嗎？	分析員さんも一緒に選んでもらえますか？	분석가님도 같이 선택해 주시겠어요?	Can you help me choose one, Adjutant?						0	
+page1.6	没想到要选的居然是这些毛茸茸的小动物。	沒想到要選的居然是這些毛茸茸的小動物。	なんだ、小動物を選んでたのか。	털이 이렇게까지 보송보송한 동물을 고를 줄은 몰랐네.	I didn't expect them to be furry little animals...						0	
+page1.7	不过说实话，我很难把小动物和军火商联想到一起。	不過說實話，我很難把小動物和軍火商聯想到一起。	でも正直、マリアンが小動物と触れ合いたいと思うなんて意外だ。	하지만 솔직히 말해서 이런 동물과 무기상을 함께 연관시키기는 어려울 것 같아.	To be honest, it's difficult for me to see the connection between animals and weapons.						0	
+page1.8	这次不是阴极科技的商品拍摄哦，是我个人的拍摄委托。	這次不是陰極科技的商品拍攝哦，是我個人的拍攝委託。	今回はカソードテクノロジーの商品の撮影ではなく、私個人の依頼です。	이번에는 케소드 테크윈에서 상품을 촬영하는 게 아니라 개인 촬영 의뢰에요.	It isn't a Cathode Technologies product photoshoot this time. It's my own personal shoot.						0	
+page1.9	我特意去咨询了我的家庭医生，她告诉我毛茸茸的小动物能帮助精神压力大的人疏导内心的压力。	我特意去諮詢了我的家庭醫生，她告訴我毛茸茸的小動物能幫助精神壓力大的人疏導內心的壓力。	家庭医に相談してみたら、ふわふわとした小動物はプレッシャーを和らげるのに役立つそうです。	가정의와 상담을 했는데, 그분이 털이 보송보송한 동물이 정신적 스트레스가 많은 사람을 도와줄 수 있어서 내면의 스트레스를 해소시켜줄 수 있다고 했어요.	I consulted my family doctor, and she told me that furry animals can help people under pressure relieve some of their stress.						0	
+page1.10	没时间亲手摸小动物的话，看相关的视频也会有很大的益处。	沒時間親手摸小動物的話，看相關的影片也會有很大的益處。	自分の手では触れられなくても、関連の動画を見るだけでも精神的に良いみたいです。	동물을 직접 만질 시간이 없다면 관련 동영상을 보는 것도 큰 도움이 된다고 하셨고요.	If you can't get your hands on an animal, watching videos of them can also help.						0	
+page1.11	很期待看到你的作品。	很期待看到你的作品。	完成を楽しみにしてるよ。	작품이 무척 기대되는데?	I'm looking forward to seeing the finished product.						0	
+page1.12	嘘……	噓……	しー……内緒ですよ？	쉿…	Shh...						0	
+page1.13	分析员，这是我专门拍来送给你的礼物。	分析員，這是我專門拍來送給你的禮物。	分析員さん……これはあなたのための撮影です。	분석가님, 이건 제가 특별히 촬영해서 드리는 선물이에요.	Adjutant, I'm specifically taking these pictures as a gift for you.						0	

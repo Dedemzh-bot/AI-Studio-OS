@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	晴，去耶洛沙的这段时间，辛苦你了。	晴，去耶洛沙的這段時間，辛苦你了。	晴、イェロシャにいた間は辛かっただろう。	하루 선배, 이번에 옐로샤에서 정말 수고 많으셨어요.	Haru, thanks for your hard work while we were in Yehrus.						0	
+page1.2	这个时间你该在房间好好休息。	這個時間你該在房間好好休息。	今は部屋で休んでおいてほしいんだ。	이제는 방에서 좀 편하게 쉬세요.	You should be resting in your room now.						0	
+page1.3	咳，其实我有事要找分析员，只不过不太希望被人撞见。	咳，其實我有事要找分析員，只不過不太希望被人撞見。	コホン。実は分析員に用事があって、あまり人に見られたくないんだが。	실은 분석가에게 할 말이 있었는데, 다른 사람들한테는 안 들켰으면 좋겠어서.	Well, I actually wanted to talk to you about something, but I don't want anyone else to overhear.						0	
+page1.4	什么？	什麼？	用事って？	뭔데요?	What is it?						0	
+page1.5	有些……难以启齿，毕竟又要麻烦到你。	有些……難以啟齒，畢竟又要麻煩到你。	ちょっと……言いにくいことだ。面倒をかけるから。	그게… 말하기가 조금… 괜히 또 귀찮게 하는 것 같아서.	It's... kind of hard to talk about. Let's just say I have to trouble you again.						0	
+page1.6	如果是我能帮上忙的，我会尽力。	如果是我能幫上忙的，我會盡力。	私に手伝えることなら、遠慮するな。	제가 도울 수 있는 일이면 어떡해서든 도와볼게요.	If I can help in any way, I'll do my best.						0	
+page1.7	其实，我最近一直在查找资料，学习表演……	其實，我最近一直在找資料，學習表演…	実は最近ずっと資料を漁って、演技の練習をしていたんだ……	사실 최근에 연기 공부를 하고 있는 데…	Actually, I've been researching a lot about acting recently...						0	
+page1.8	怎么突然对这个感兴趣了？	怎麼突然對這個有興趣了？	どうして急にそんな事に興味を持ったんだ？	어쩌다가 또 연기에 관심이 생기신 거죠?	Why the sudden interest?						0	
+page1.9	在耶洛沙的车上，如果我能表现得更自然些……	在耶洛沙的車上，如果我能表現得更自然一點…	イェロシャの車で、自分がより自然に振る舞えたら……	옐로샤 때 차 안에서 내가 조금 더 자연스럽게 표현했으면…	If I'd been able to act more naturally in the train car in Yehrus...						0	
+page1.10	或是提前有所准备，也许就能应对得更游刃有余。	或提前有所準備，也許就能應付得更游刃有餘。	あらかじめ用意しておけば、余裕を持って対応できるかもしれないと思って。	아니면 미리 준비를 했더라면 더 자연스럽게 대처할 수 있었을 것 같은데.	Some preparation might have made it easier for me to handle.						0	
+page1.11	所以，可以麻烦分析员来我房间，陪我对几场戏吗？	所以，可以麻煩分析員來我房間，陪我對幾場戲嗎？	だから分析員、部屋に来て演技の練習に付き合ってもらえないか？	그래서 그런데, 분석가가 내 방으로 와서 나랑 같이 연습 좀 해주면 안 될까?	So could you come to my room and help me go through a few scenes, Adjutant?						0	
+page1.12	三小时后	3小時後	3時間後	3시간 후	Three hours later						0	
+page1.13	哈，果然面对分析员，总是会不小心流露真情。	哈，果然面對分析員，總是會不小心流露真情。	はあ、分析員の前では、やっぱり感情の制御が効かないな。	하하, 역시 분석가랑 해서 그런지 나도 모르게 진짜 감정이 나오는 것 같아.	Hah, it's just like I thought. When I'm with you, my true feelings are always unintentionally exposed.						0	
+page1.14	嗯……晴现在这个样子就很好了。	嗯……晴現在這個樣子就很好了。	うん……晴はそのままでいいと思う。	이 정도면 훌륭하신데요…	Well... I think you're great the way you are, Haru.						0	

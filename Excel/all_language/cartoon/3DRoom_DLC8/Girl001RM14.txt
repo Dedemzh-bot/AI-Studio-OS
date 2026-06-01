@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	怎么最近都没看到你打游戏了？	怎麼最近都沒看到你打遊戲了？	最近はあまりゲームをしてないようだが、どうしたか？	왜 요즘 게임하는 걸 못 본 것 같지?	Why haven't I seen you playing any video games recently?						0	
+page1.2	唉……	唉……	はぁ……	그게…	*sigh*...						0	
+page1.3	自己尝试做游戏以后，感觉反而对游戏提不起兴趣了。	自己嘗試做遊戲以後，感覺反而對遊戲提不起興趣了。	自分が作るようになってから、なんかゲームをプレイする気がなくなった。	직접 게임을 제작해 보니까 오히려 흥미를 잃은 것 같아.	After trying to make my own game, I feel like I'm not as interested in them anymore.						0	
+page1.4	这就是爱好转变成职业以后的痛苦吧。	這就是愛好轉變成職業以後的痛苦吧。	趣味が仕事になった反動、だろうか。	취미가 직업이 되면 오히려 흥미를 잃긴 하지.	That's what happens when you turn a hobby into a job.						0	
+page1.5	归根结底，《新星开拓》还是不够好。	歸根究底，《新星開拓》還是不夠好。	つまるところ、『惑星開拓』を満足に仕上げられなかったせいかも。	결론적으로 '신성 개척'은 아직도 많이 부족해.	In the end, "Star Master" wasn't good enough.						0	
+page1.6	人手不足，工期太紧，又没有投资……	人手不足，工期太緊，又沒有投資……	人は足りないし、スケジュールは厳しいし、挙句に予算もなかったから……	일손도 부족하고, 제작 기간도 빠듯하고, 투자하려는 사람도 없고…	Not enough manpower, tight schedules, and no investors...						0	
+page1.7	确实如此。	確實如此。	確かに。	확실히 그렇긴 하네.	Sounds about right.						0	
+page1.8	总之，抛开这些因素以后，比起《金毛剑士传奇》和《破壳梦想》还是差了一点点。	總之，拋開這些因素以後，比起《金毛劍士傳奇》和《破殼夢想》還是差了一點點。	とにかく、色々な問題があって『フェンサー伝説』や『ポケットの夢』みたいな作品は作れなかった。	이런 요소들뿐만아니라 <금발의 검객 전설>과 <한계를 깨는 꿈>보다도 게임성이 떨어진다는 거야.	Even after ignoring those aspects, it's still a little step below "The Legend of Griselda" and "Pouch Monsters."						0	
+page1.9	你定的这两个竞品是不是有些问题？	你訂的這兩個競品是不是有點問題？	上を見過ぎなんじゃない？	근데 방금 말한 게임들은 전부 라이벌 게임이 아니잖아?	Are you sure those two games you ordered for industry research were legit?						0	
+page1.10	做游戏当然要以顶峰为目标了。	做遊戲當然要以頂峰為目標了。	ゲームを作るからには、一番を目指さなきゃ。	꿈은 크게 가질수록 좋은 법이지.	Of course you have to reach for the stars when creating your own video game.						0	
+page1.11	测试组长，就和我一起朝着顶峰前进吧。	測試組長，就和我一起朝著頂峰前進吧。	だからテスターリーダー、私と一緒にてっぺんを狙おう。	그럼 계속해서 나랑 같이 정상을 향해 날아보는 거 어때? QA 팀장.	As my lead game tester, reach for the stars with me.						0	
+page1.12	我觉得还是先以没有bug为目标吧。	我覺得還是先以沒有bug為目標吧。	まずはデバッグを優先した方がいいだろう。	우선 BUG부터 최적화하는 것을 목표로 하는 게 좋을 것 같아.	I think it's better to reach for no bugs first.						0	

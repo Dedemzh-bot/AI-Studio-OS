@@ -1,0 +1,159 @@
+ID	注释	索引到具体词条技能	解锁条件（1:积分 2:等级,不填表示不需要解锁）	难度限制	填写互斥的词条ID	词条积分值	类型（1：时间限制类  2：角色存活限制 3：更换地图 0或不配表示其他类）	扩展参数{}	具体描述	总结描述
+ID	Comment	EntryID	Condition	DiffLimit	tbMutex	Score	Type	tbParam	Desc	Summary
+2001	二型验证机甲火神炮子弹伤害类型变更为雷属性并增加伤害			3		50			bossentries.boss2001	
+2002	二型验证机甲导弹发射数量+4			1		50			bossentries.boss2002	
+2003	二型验证机甲蓄力炮击爆炸后也会残留一个伤害区域			3		50			bossentries.boss2003	
+2004	二型验证机甲跳跃落地时向四周发射一圈弹幕			4		50			bossentries.boss2004	
+2005	“野牛”约瑟夫一阶段释放的电墙会把目标围住			6		50			bossentries.boss2005	
+2006	“野牛”约瑟夫一阶段蓄力直射子弹变更为火属性并增加伤害			3		50			bossentries.boss2006	
+2007	“野牛”约瑟夫一阶段跳跃位移后必定衔接蓄力直射技能			4		50			bossentries.boss2007	
+2008	“野牛”约瑟夫二阶段冲拳附加直线冲击波效果			3		50			bossentries.boss2008	
+2009	“野牛”约瑟夫二阶段进行冲锋腕刃攻击后会衔接三连击技能			4		50			bossentries.boss2009	
+2010	“野牛”约瑟夫二阶段俯冲砸地会升起一圈子弹，落下后爆炸			3		50			bossentries.boss2010	
+2011	“野牛”约瑟夫二阶段投射圆环接俯冲砸地连招，圆环变为内部分隔的正方形			6		50			bossentries.boss2011	
+2012	“野牛”约瑟夫二阶段投射圆环接俯冲砸地连招，圆环会完全封锁			6		50			bossentries.boss2012	
+2013	海拉手臂扫击时会在地面生成一些喷溅形式的子弹			3		50			bossentries.boss2013	
+2014	海拉践踏后，还会升起一些延迟发射的跟踪子弹			6		50			bossentries.boss2014	
+2015	海拉双肩喷射跟踪弹时还会发射出一些大而慢的跟踪弹			6		50			bossentries.boss2015	
+2016	海拉喷射头部激光的效果改为造成全屏伤害和击飞			3		50			bossentries.boss2016	
+2017	海拉召唤的泰坦杂兵会附带霸体特化技能			4		50			bossentries.boss2017	
+2018	海拉释放的激光纵扫的条数从3条增加到5条			4		50			bossentries.boss2018	
+2019	波伏娃13发射三连跟踪光弹时会同时释放双边扇形跟踪弹			3		50			bossentries.boss2019	
+2020	波伏娃13释放瞬移时会在原地留下一个延迟追踪光弹			3		50			bossentries.boss2020	
+2021	波伏娃13释放封锁光束一齐发射间隔光束的数量从1提升至3			4		50			bossentries.boss2021	
+2022	波伏娃13三连胸炮的伤害提升50%			6		50			bossentries.boss2022	
+2023	波伏娃13释放落雷的轮数由3轮提升至5轮，且每轮落雷的数量由3枚提升至5枚			6		50			bossentries.boss2023	
+2024	二型验证机甲动力版会在朝目标跳跃和冲锋结束后固定衔接小型榴弹射击			4		50			bossentries.boss2024	
+2025	二型验证机甲动力版原地跳跃时产生的地波数量由四条增加为八条			4		50			bossentries.boss2025	
+2026	二型验证机甲动力版跳跃后会在落地时会留下一圈持续造成燃烧伤害的火焰区域			3		50			bossentries.boss2026	
+2027	二型验证机甲动力版三连践踏的最终重踏落地时会发射一圈扩散弹幕			3		50			bossentries.boss2027	
+2028	二型验证机甲动力版最大冲锋轮数由1提升为3，每段冲锋完成时若距离目标12米以内则会提前停止冲刺，执行其他行为			6		50			bossentries.boss2028	
+2029	二型验证机甲动力版冲刺时会在经过路径上留下持续造成燃烧伤害的火焰区域			6		50			bossentries.boss2029	
+2030	萨特瞬移喷溅重力子弹同时会召唤一个波伏娃系统复制人，其释放一次技能后离场			4		50			bossentries.boss2030	
+2031	萨特释放的封锁光束由规律间隔发射变为齐射			3		50			bossentries.boss2031	
+2032	萨特释放锥形弹幕时，左右两侧会增加额外的弹幕，拓宽横向覆盖面积			4		50			bossentries.boss2032	
+2033	萨特释放扇形间隔弹幕的轮数由5轮增加至7轮，且每轮弹幕的运行速度加快			6		50			bossentries.boss2033	
+2034	萨特释放转盘弹幕的转动速度增快。且其中单个子弹的运行速度加快			6		50			bossentries.boss2034	
+2035	萨特通过召唤技能召唤波伏娃系统时，召唤的数量由1增加至2			3		50			bossentries.boss2035	
+2036	加文全阶段在使用位移技能时会在位移前的位置留下一个接触爆炸的幻象（最多五个）			6		50			bossentries.boss2036	
+2037	加文一阶段增添连段，斜斩后固定衔接一次突刺，突刺后固定衔接一次竖劈			3		50			bossentries.boss2037	
+2038	加文二、三阶段释放所有X字斩击时都会射出X型剑气			4		50			bossentries.boss2038	
+2039	加文二、三阶段增添连段，斜斩后固定衔接一次没有地波的X字斩击			3		50			bossentries.boss2039	
+2040	加文三阶段瞬移回场中蓄力时，蓄力过程中每隔0.5s都会向外射出一圈弹幕			6		50			bossentries.boss2040	
+2041	二型海拉四肢受到伤害降低70%			4		50			bossentries.boss2041	
+2042	二型海拉冲击波释放时，还会生成旋转扩散的子弹			3		50			bossentries.boss2042	
+2043	二型海拉扩散弹释放时，还会在地面额外生成2个环形扩散弹			3		50			bossentries.boss2043	
+2044	二型海拉阻挡体将形成完全包围			6		50			bossentries.boss2044	
+2045	二型海拉旋转弹命中将会发生爆炸			6		50			bossentries.boss2045	
+2046	刻耳柏洛斯人形状态进行后跳后会衔接地波，左右滑步后会衔接三连跟踪弹			4		50			bossentries.boss2046	
+2047	刻耳柏洛斯犬形状态进行后跳后会衔接扩散弹幕，左右跳后会衔接前扑攻击			6		50			bossentries.boss2047	
+2048	刻耳柏洛斯人形状态释放弹幕时增加弹幕释放的波次			3		50			bossentries.boss2048	
+2049	刻耳柏洛斯犬形状态释放弹幕时增加弹幕释放的波次			3		50			bossentries.boss2049	
+2050	刻耳柏洛斯召唤能量球离场后，蓄力期间会持续召唤幻象无人机攻击玩家			6		50			bossentries.boss2050	
+2051	二型验证机甲释放导弹时，覆盖区域由十字形替换成米字型			6		50			bossentries.boss2051	
+2052	二型验证机甲加农炮蓄力后，炮击次数从1次增加至3次			6		50			bossentries.boss2052	
+2053	爱思特地面旋转冲击次数变为3次			4		50			bossentries.boss2053	
+2054	爱思特旋转射击子弹变为火属性，并提高伤害			3		50			bossentries.boss2054	
+2055	爱思特导弹齐射的导弹数量增加，速度加快			3		50			bossentries.boss2055	
+2056	爱思特旋转轰炸留下的羽毛不再直接爆炸，触碰或一段时间延迟后爆炸			6		50			bossentries.boss2056	
+2057	爱思特初始即进入二阶段			6		50	3	{511}	bossentries.boss2057	
+2058	祟在近战三连击后会派生火柱和扑击			3		50			bossentries.boss2058	
+2059	祟的蓄力扑击伤害范围变为全屏			4		50			bossentries.boss2059	
+2060	祟的熔岩火柱持续时间延长			3		50			bossentries.boss2060	
+2061	祟在大招期间会持续召唤熔岩火柱攻击			6		50			bossentries.boss2061	
+2062	祟的地面弹幕数量增加，引爆时间加快			6		50			bossentries.boss2062	
+2063	祟的空中弹幕移动速度加快			4		50			bossentries.boss2063	
+2064	祟的坠落冰柱追踪时长延长50%			3		50			bossentries.boss2064	
+2065	祟发射的冰刺会额外发射2簇			4		50			bossentries.boss2065	
+2066	祟的追踪弹幕会替换为更强的冰锥弹幕			6		50			bossentries.boss2066	
+2067	祟跳跃时会额外发射4枚弹幕			6		50			bossentries.boss2067	
+2068	祟的飞扑落地时会额外触发一次坠落冰柱			3		50			bossentries.boss2068	
+2069	透墨索斯的星星子弹自主爆炸时，会产生一圈弹幕			3		50			bossentries.boss2069	
+2070	透墨索斯冲锋时每间隔一段时间就会释放一颗跟踪的星星子弹			3		50			bossentries.boss2070	
+2071	透墨索斯摔倒生成的星星子弹全部具有跟踪性能			3		50			bossentries.boss2071	
+2072	透墨索斯跃起坐地、俯冲落地时，额外生成弹幕			3		50			bossentries.boss2072	
+2073	透墨索斯大招爆炸后会生成若干下落的星星子弹			3		50			bossentries.boss2073	
+2074	透墨索斯召唤的炮台数量增加			3		50			bossentries.boss2074	
+2075	透墨索斯锁血阶段每隔一段时间会在身边随机召唤下落星星子弹			3		50			bossentries.boss2075	
+2076	凯茜娅的站立射击从313变成535			3		50			bossentries.boss2076	
+2077	凯茜娅的箭雨射击路径添加中间一路			3		50			bossentries.boss2077	
+2078	凯茜娅的跳跃射击变成3根扩散箭			3		50			bossentries.boss2078	
+2079	凯茜娅蹲射单发伤害提高，射击次数增加			3		50			bossentries.boss2079	
+2080	凯茜娅新增二阶段，转阶段释放包围箭雨，二阶段主动瞬移时留下自机狙爆炸箭			3		50			bossentries.boss2080	
+2081	凯茜娅免疫击退、受击硬直、击飞			3		50			bossentries.boss2081	
+2082	强化状态下威尔获得额外连段			1		50			bossentries.boss2082	
+2083	威尔的强化装置减伤50% 2084			1		50			bossentries.boss2083	
+2084	威尔的强化装置每次被击破时额外召唤2个幻影队员			1		50			bossentries.boss2084	
+2085	转场召唤的队员会额外重复一次轰炸和攻击技能			1		50			bossentries.boss2085	
+2086	幻影队员每次被召唤会额外释放一次强化攻击			1		50			bossentries.boss2086	
+2087	祟每5秒降低5%低温属性抗性，最高降低100%，鳞片受到伤害降低50%			1		50			bossentries.boss2087	
+2088	祟每5秒降低5%高热属性抗性，最高降低100%，鳞片受到伤害降低50%			1		50			bossentries.boss2088	
+2089	约瑟夫·顽骨一阶段召唤可击破导弹舱时额外召唤两个			1		50			bossentries.boss2089	
+2090	约瑟夫·顽骨爆风火箭筒命中地面爆炸后会产生球形扩散弹幕			1		50			bossentries.boss2090	
+2091	约瑟夫·顽骨导弹齐射技能增加一波			1		50			bossentries.boss2091	
+2092	约瑟夫·顽骨旋转突进时，会额外生成扩散弹幕			1		50			bossentries.boss2092	
+2093	约瑟夫·顽骨释放俯冲飞踢前会释放电网封锁目标			1		50			bossentries.boss2093	
+2094	约瑟夫·顽骨锁血阶段每隔一段时间会轰炸一次在场所有玩家			1		50			bossentries.boss2094	
+2095	弹幕方块释放部分弹幕技能时会持续将玩家往自己吸			1		50			bossentries.boss2095	
+2096	弹幕方块延迟跟踪弹数量增加			1		50			bossentries.boss2096	
+2097	弹幕方块蓄力狙击射击命中时会额外产生一圈弹幕			1		50			bossentries.boss2097	
+2098	弹幕方块轰炸射击增加波次			1		50			bossentries.boss2098	
+2099	弹幕方块砸地冲击波技能增强为连续砸地三次			1		50			bossentries.boss2099	
+2100	弹幕方块锁血阶段每隔一段时间会在自己身边生成几枚跟踪弹			1		50			bossentries.boss2100	
+2101	耶洛沙之泪召唤浮游炮第三段，浮游炮释放强力光束时，由一次提升为重复三次			1		50			bossentries.boss2101	
+2102	耶洛沙之泪的轰炸技能在轰炸结束后会留下一个持续十秒的小型毒潭			1		50			bossentries.boss2102	
+2103	耶洛沙之泪狙击技能一二阶段波次分别提升一次/两次			1		50			bossentries.boss2103	
+2104	耶洛沙之泪蓄力机制召唤雕像的数量从四个提升到六个			1		50			bossentries.boss2104	
+2105	耶洛沙之泪二阶段释放黑球拍地板时会附带释放一轮扩散弹幕			1		50			bossentries.boss2105	
+2106	耶洛沙之泪在锁血阶段时每隔一段时间对在场所有玩家所在位置进行发射一颗下落的扩散弹幕			1		50			bossentries.boss2106	
+2107	二律背反的盟约瞬移近战会组合地刺			1		50			bossentries.boss2107	
+2108	二律背反的盟约每次使用阶段技能时，会在原地生成一个扩散圈			1		50			bossentries.boss2108	
+2109	二律背反的盟约每次使用扩散圈时会附带扩散弹幕			1		50			bossentries.boss2109	
+2110	二律背反的盟约产生的场景陷阱会产生吸力且更快爆炸			1		50			bossentries.boss2110	
+2111	二律背反的盟约锥形弹幕的数量增加，速度加快			1		50			bossentries.boss2111	
+2112	凯茜娅覆霜免疫击退、受击硬直、击飞			1		50			bossentries.boss2112	
+2113	凯茜娅覆霜新增二阶段，转阶段释放扩散箭雨，二阶段主动瞬移时留下自机狙爆炸箭			1		50			bossentries.boss2113	
+2114	凯茜娅覆霜蹲射单发伤害提高，射击次数增加			1		50			bossentries.boss2114	
+2115	凯茜娅覆霜的站立射击从313变成535			1		50			bossentries.boss2115	
+2116	凯茜娅覆霜的跳跃射击变成3根扩散箭			1		50			bossentries.boss2116	
+2117	凯茜娅的箭雨射击路径添加旁边两路			1		50			bossentries.boss2117	
+1	【必出词条】首领最大生命提升7%	{8210001}		1	{2,3}	30			bossentries.entry1	bossentries.sum1
+2	【必出词条】首领最大生命提升15%	{8210002}		2	{1,3}	60			bossentries.entry2	bossentries.sum1
+3	【必出词条】首领最大生命提升25%	{8210003}		5	{1,2}	100			bossentries.entry3	bossentries.sum1
+4	【必出词条】首领攻击力提升6%	{8210004}		2	{5,6}	30			bossentries.entry4	bossentries.sum2
+5	【必出词条】首领攻击力提升12%	{8210005}		2	{4,6}	60			bossentries.entry5	bossentries.sum2
+6	【必出词条】首领攻击力提升20%	{8210006}		5	{4,5}	100			bossentries.entry6	bossentries.sum2
+7	【必出词条】通关限制：600秒			1	{8,9}	30	1	{600}	bossentries.entry7	bossentries.sum3
+8	【必出词条】通关限制：420秒			1	{7,9}	60	1	{420}	bossentries.entry8	bossentries.sum3
+9	【必出词条】通关限制：300秒			1	{7,8}	100	1	{300}	bossentries.entry9	bossentries.sum3
+10	【必出词条】没有角色撤退			4		50	2	{1}	bossentries.entry10	
+11	【必出词条】角色攻击力降低6%	{8220001}		4	{12,13}	30			bossentries.entry11	bossentries.sum4
+12	【必出词条】角色攻击力降低12%	{8220002}		4	{11,13}	60			bossentries.entry12	bossentries.sum4
+13	【必出词条】角色攻击力降低20%	{8220003}		5	{11,12}	100			bossentries.entry13	bossentries.sum4
+14	【必出词条】角色受到伤害增加12%	{8220005}		4		50			bossentries.entry14	
+15	【难度2词条-1】敌人获得25%高热类型伤害抗性	{8210007}		2		50			bossentries.entry15	
+16	【难度2词条-1】敌人获得25%低温类型伤害抗性	{8210008}		2		50			bossentries.entry16	
+17	【难度2词条-1】敌人获得25%电击类型伤害抗性	{8210009}		2		50			bossentries.entry17	
+18	【难度2词条-1】敌人获得25%特异类型伤害抗性	{8210010}		2		50			bossentries.entry18	
+19	【难度2词条-1】敌人获得25%动能类型伤害抗性	{8210011}		2		50			bossentries.entry19	
+20	【难度3词条-1】角色移动速度降低10%	{8220004}		3		50			bossentries.entry20	
+21	【难度3词条-1】角色最大生命降低10%	{8220007}		3		50			bossentries.entry21	
+22	【难度3词条-1】角色疾跑时，耐力消耗提升15%	{8220008}		3		50			bossentries.entry22	
+23	【难度3词条-1】常规能量回复速度降低15%	{8220010}		3		50			bossentries.entry23	
+24	【难度3词条-1】全队受治疗效果降低15%	{8220011}		3		50			bossentries.entry24	
+25	【难度3词条-1】全队防御力降低12%	{8220012}		3		50			bossentries.entry25	
+26	【难度7词条-1】角色造成的射击伤害降低10%	{8220006}		7		50			bossentries.entry26	
+27	【难度7词条-1】角色造成的技能伤害降低10%	{8220009}		7		50			bossentries.entry27	
+28	【难度7词条-1】全队换弹速度降低10%	{8220013}		7		50			bossentries.entry28	
+29	【难度7词条-1】全队暴击率降低10%	{8220014}		7		50			bossentries.entry29	
+30	【难度7词条-1】全队暴击伤害增幅降低20%	{8220015}		7		50			bossentries.entry30	
+31	【难度7词条-1】全队瞄准射击伤害降低20%	{8220016}		7		50			bossentries.entry31	
+32	【难度7词条-1】全队非瞄准射击伤害降低20%	{8220017}		7		50			bossentries.entry32	
+33	【难度7词条-1】全队爆发能量获取率降低20%	{8220018}		7		50			bossentries.entry33	
+34	【难度8词条-2】切换角色后，全队造成的伤害降低4%，持续15秒，最多叠加5层	{8220019}		8		50			bossentries.entry34	
+35	【难度8词条-2】切换角色后，全队受到的伤害提升4%，持续15秒，最多叠加5层	{8220021}		8		50			bossentries.entry35	
+36	【难度8词条-2】全队角色生命高于50%时，造成的伤害降低18%	{8220023}		8		50			bossentries.entry36	
+37	【难度8词条-2】全队角色生命低于50%时，受到的伤害提升18%	{8220024}		8		50			bossentries.entry37	
+38	【难度8词条-2】战术闪避后，技能伤害降低18%，持续5秒	{8220025}		8		50			bossentries.entry38	
+39	【难度8词条-2】战术闪避后，射击伤害降低18%，持续5秒	{8220027}		8		50			bossentries.entry39	
+40	【难度8词条-2】战术闪避后，受到的伤害提升15%，持续5秒	{8220029}		8		50			bossentries.entry40	

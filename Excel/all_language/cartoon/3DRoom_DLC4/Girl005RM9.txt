@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	茉莉安，又是你帮我提前做完了文件工作吧？	茉莉安，又是你提前幫我做完了文書工作對吧？	マリアン、文書の仕事を片付けてくれたよね？	마리안, 또 나 대신 서류 작업을 해둔 거야?	Marian, did you help me finish this paperwork early again?						0	
+page0.2	啊，分析员，对不起。	啊！分析員，對不起。	あ、ごめんなさい、分析員さん。	앗, 분석가님, 죄송해요.	Ah, I'm sorry, Adjutant.						0	
+page0.3	是我擅自主张了，请您惩罚我吧。	是我擅自主張，請您懲罰我吧。	勝手な真似をして申し訳ございません。どうか、お仕置きを。	제가 멋대로 해버렸어요. 벌을 주세요.	I did it without authorization. Please punish me as you see fit.						0	
+page0.4	我不是那个意思，我是特地来感谢你的。	我沒有那個打算，我是特地來跟你道謝的。	いやそうじゃない！はぁ、私はお礼を言いに来たんだよ。	그런 뜻이 아니라, 고맙다고 인사하려고 온 거야.	That's not what I meant. I came here to thank you.						0	
+page0.5	没有……惩罚了吗？	沒有……懲罰嗎？	お礼を……？お仕置きは…しませんか？	벌은… 없는 건가요?	You're not... going to punish me?						0	
+page0.6	怎么可能有！	怎麼可能有！	するわけないよ！	벌이라니, 말도 안 돼!	How could I!						0	
+page0.7	话说回来，除了海姆达尔的任务，茉莉安经常会接到很多其他的工作吧？	話說回來，除了海姆達爾的任務之外，茉莉安也很常接到其他工作吧？	はぁ、マリアン。ヘイムダルのミッション以外にも、いろんな仕事を受けているんだよな。	그런데 마리안은 헤임달의 미션 말고도 다른 업무가 많이 있지?	But now that we're on the subject, you have a lot of other tasks to handle other than Heimdall missions, right?						0	
+page0.8	确实会，不过也不算很多。	確實會，不過也沒到很多。	ええ。ですがそんなに多いわけではありません。	그렇긴 하지만 많지는 않아요.	Yes, but not that many.						0	
+page0.9	也就是一些阴极科技的杂志约稿，宣传拍摄筹划，家族的宴会筹备……	也就是一些陰極科技的雜誌約稿、宣傳拍攝籌劃、家族宴會的籌備……	カソードテクノロジーの雑誌の執筆依頼や、宣材の撮影、家族パーティーの準備……	케소드 테크윈 잡지의 원고 청탁이나, 홍보 촬영 기획, 가문의 연회 준비 같은 것들이죠…	There might be some Cathode Technologies magazine articles, promotional photoshoots, preparations for my family's parties...						0	
+page0.10	这还不算多吗！茉莉安不会觉得累吗？	這樣還不算多嗎！茉莉安不覺得累嗎？	十分多いよ！マリアンは疲れたりしないのか？	업무가 너무 많잖아?! 마리안, 힘들지 않아?	That's way too much, right? Doesn't it tire you out?						0	
+page0.11	只是些小事，不累的。	都是些小事，不會累的。	ふふっ、心配してくれたんですね分析員～、大丈夫ですよ。大仕事ではないので、そんなに疲れませんよ。	사소한 업무일 뿐이에요, 힘들지 않아요.	They're just small things, so not really.						0	
+page0.12	我不希望自己还像小时候一样，只能添麻烦。	我不希望自己還像小時候一樣，只會給大家添麻煩。	私……子供の頃のように、迷惑ばかりかけるのは嫌ですから。	어릴 때처럼 폐만 끼치고 싶지 않거든요.	I don't want to cause trouble all the time like I did when I was a kid.						0	
+page0.13	如果连这些都做不到的话……不止会让大家失望，还会让家族蒙羞吧。	如果連這些都做不到的話……不只會讓大家失望，還會使家族蒙羞吧。	これぐらいはできないと……皆さんに失望させてしまうだけでなく、家族にも恥をかかせることになるでしょう。	이런 것도 하지 못한다면… 모두를 실망시키는 건 물론이고, 가문의 수치가 될 거예요.	If I can't even do those things... I would disappoint everyone and disgrace our family name.						0	
+page0.14	你早就不是曾经的样子了。	你早就跟以往不同了。	マリアンはとっくに昔と違う人間になったよ。	넌 진작부터 예전과 다른 모습이었어.	You haven't been like that for a long time.						0	
+page0.15	现在的茉莉安，就是一名非常出色的海姆达尔队员。	現在的茉莉安，是一名非常優秀的海姆達爾隊員。	今のマリアンは、ヘイムダルの優秀な隊員の一人なんだから。もっと自分のことを大切にして。	지금의 마리안은 매우 뛰어난 헤임달 대원이야.	Now you're an amazing Heimdall operative, Marian.						0	

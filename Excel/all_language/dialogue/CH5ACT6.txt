@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	现在应该……往哪边？	現在應該……往哪邊？	今は……どの方向に行けば？	이제… 어디로 가야 할까요?	Where... should we go now?						0	
+2	我看到了军方那名狙击手的示意，是这边没错。	我看到了軍方那名狙擊手的示意，是這邊沒錯。	軍のスナイパーのハンドサインが見えました。こちらで合っていますよ。	군부 저격수가 보낸 신호대로면 이곳이 맞아요.	I saw the military sniper gesturing in this direction. This should indeed be the place.						0	
+3	还是无法避免战斗么……	還是無法避免戰鬥嗎……	戦闘は避けられませんよね……	역시… 전투를 피할 수는 없나 보네요…	Is there no way to avoid a fight...?						0	

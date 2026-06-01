@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	我一直很好奇一件事情。	我一直很好奇一件事情。	ずっと気になってることがあるんだけど。	늘 궁금한 게 있었어.	I've always been curious about something.						0	
+page0.2	哦？说来听听。	哦？說來聽聽。	何？	? 물어보라냥.	Oh? Let's hear it.						0	
+page0.3	猫汐尔是更喜欢猫还是更喜欢狗呢？	貓汐爾是更喜歡貓還是更喜歡狗呢？	マーシルは猫と犬どっちの方が好き？	시에라는 고양이가 좋아, 강아지가 좋아?	Mauxir, are you a cat person or a dog person?						0	
+page0.4	没什么区别喵。	沒什麼區別喵。	大差は無いニャン。	둘 다 비슷하다냥.	It's all the same to me, nya.						0	
+page0.5	总之还是有倾向的吧。你看你名字里面有猫，平时说话也喵喵喵的……	總之還是有傾向的吧。你看你名字裡面有貓，平時說話也喵喵喵的……	傾向とかあるでしょ？だって名前もそうだし、喋る時もニャンって……	그래도 취향이 있을 거 아니야. 네 이름에 고양이가 있기도 하고, 평소에도 냥냥거리니까…	Well everyone has a preference. Your name sounds like "meow," and you even make cat sounds sometimes when you talk...						0	
+page0.6	这是考虑到你们人类的萌点。	這是考慮到你們人類的萌點。	それはあなたたち人間の萌え属性に配慮した結果だよ。	그건 너희 인간들이 귀여워하는 포인트를 노린 것뿐이다냥.	That is because you humans consider those things cute.						0	
+page0.7	这么说来，你的头上是胡狼耳朵，神格也是阿努比斯，所以还是喜欢狗多一些吗？	這麼說來，你的頭上是胡狼耳朵，神格也是阿努比斯，所以還是喜歡狗多一點嗎？	そういえばその耳ってジャッカルのだよね。神格もアヌビスだし、やっぱり犬の方が好き？	그러고 보니 귀도 자칼 귀고, 만트라도 아누비스네. 그럼 역시 강아지가 더 좋은 건가?	Well, you have jackal ears, and your Deiwos is Anubis, so are you saying you actually like dogs more?						0	
+page0.8	也没有。这对耳朵的实用价值远大于外形。	也沒有。這對耳朵的實用價值遠大於外形。	別に。この耳は外見より機能の方が遥かに重要だから。	그렇지 않다. 귀는 보이는 게 다가 아니다냥.	Not exactly. The practicality of these ears goes far beyond their appearance.						0	
+page0.9	那就不局限于猫狗了，你有什么比较喜欢的动物吗？	那就不局限於貓狗了，你有什麼比較喜歡的動物嗎？	じゃあ犬と猫以外で好きな動物は？	그럼 고양이, 강아지지 말고, 좋아하는 동물은 있어?	Then forget about cats and dogs. Do you have a favorite animal?						0	
+page0.10	人类。	人類。	人間。	인간이다냥.	Humans.						0	
+page0.11	确实是很符合你会作出的回答，还有吗？	確實是很符合你會作出的回答，還有嗎？	君らしい答えだね。他には？	역시 너다운 대답이네. 그리고 또?	Why am I not surprised... Do you have any other favorites?						0	
+page0.12	涡虫。	渦蟲。	プラナリア。	플라나리아도 좋다냥.	Planaria.						0	
+page0.13	我孤陋寡闻了，这是什么？	我孤陋寡聞了，這是什麼？	プラ……何？	내가 무지한 건가, 그건 뭔데?	Sorry, I'm lost. What is that?						0	
+page0.14	涡虫被切成数百份也能活下来，是很可爱的动物喵。	渦蟲被切成數百份也能活下來，是很可愛的動物喵。	どんなに千切られても生き残る、かわいい動物ニャン。	플라나리아는 수백, 수천 가지로 잘려도 살아남을 수 있는 아주 귀여운 동물이다냥.	Planaria can survive after being cut into hundreds of pieces. They're very cute, nya.						0	
+page0.15	这到底哪里可爱了啊！	這到底哪裡可愛了啊！	どこが可愛いんだよ！	그게 대체 뭐가 귀엽다는 거야!	How is that cute!?						0	

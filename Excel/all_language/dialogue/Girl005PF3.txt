@@ -1,0 +1,69 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	异化人的增援……	異化人的增援……	変異者の増援……	변이자들이 늘어났어요…	Those Changed reinforcements...						0	
+2	他们虽然没有思考能力，但可能有服从能力，这超出我们的情报了。	他們雖然沒有思考能力，但可能有服從能力，這超出我們的情報了。	奴らに思考力はありませんが、命令に従う能力を持つ可能性があります。これは我々がまだ把握していない情報です。	어쩌면 변이자들이 사고력은 없어도 복종하는 능력이 있을 수도 있어요. 이건 저희가 예측한 정보 그 이상인 것 같아요.	It was like they were following orders. Never seen them do that before... nothing in any of the intel either. If they start showing signs of thinking for themselves...						0	
+b-1											0	
+3	你的意思是……	你的意思是……	つまり……	너 말대로라면…	What are you saying, Caroline...						0	
+4	还不能确定。	還不能確定。	まだ確定できません。	아직까지 확신하기는 일러요.	I'm not saying anything. Not yet. We'll look into it...						0	
+b-2											0	
+5	……	……	……	…	...						0	
+6	你不用自责，是任务等级测评错误。而且他们也都没事。	你不用自責，是任務等級測評錯誤。而且他們也都沒事。	自分を責める必要などありません。危険度の見積もりを誤ったせいです。それに隊員たちはみんな無事です。	미션 등급을 잘못 정했다고 자책하실 필요는 없어요. 다들 무사하기도 하고요.	You have to know it wasn't your fault. The threat assessment was off. They're all okay...						0	
+7	去看看他们吧，应该都还在治疗室，茉莉安除外。	去看看他們吧，應該都還在治療室，茉莉安除外。	お見舞いに行きましょう。マリアン以外はみんな、治療室にいるはずです。	가서 팀원들 좀 만나보세요. 모두 의무실에 있을 거예요. 마리안만 빼고…	Go and see them, they're down in the medical bay. Well, other than Marian they are anyway...						0	
+b-3											0	
+8	茉莉安怎么了？	茉莉安怎麼了？	マリアンはどうした？	마리안은 왜?	Other than Marian?						0	
+9	她通常不接受治疗。	她通常不接受治療。	彼女はいつも治療を受けません。	마리안은 치료받는 걸 별로 좋아하지 않아요.	She'll have refused treatment, she always does.						0	
+b-4											0	
+10	为什么？	為什麼？	どうして？	왜?	Why would she refuse treatment?						0	
+11	你自己去问吧，我对天启者的个人癖好没有兴趣。	你自己去問吧，我對天啟者的個人癖好沒有興趣。	ご自身で聞いてください。覚醒者の趣味には興味ありませんから。	궁금하시면 가서 한번 물어보세요… 계시자들의 개인적인 취향까진 딱히 관심이 없으니까.	That one you can ask her yourself. I do my best to stay out of the operatives'... eccentricities.						0	
+12	这次我们差点就回不来了，多亏了茉莉安解决了一波接一波的异化人，撑到了增援赶来。多亏了大家保护，我才没有受什么重伤。	這次我們差點就回不來了，多虧了茉莉安解決了一波接一波的異化人，撐到了增援趕來。多虧了大家保護，我才沒有受什麼重傷。	今回の任務は、危うく帰れなくなるところだった。マリアンが次から次へと出てくる変異者を迎撃してくれたおかげで、増援が来るまで持ちこたえられた。みんなが私を守ってくれたので、大した傷を受けなかったわけだ。	하마터면 돌아오지 못할 뻔했지만 지원이 오기 전까지 마리안이 변이자들을 처리했고, 모두의 보호 속에 나도 피해를 입지 않을 수 있었다.	We nearly didn't make it back. If Marian hadn't somehow picked off wave after wave of Changed, we would have never held out long enough for our reinforcements to get there.						0	
+13	我失去意识之前，看到她都还在队伍前面，甚至回头对我笑，虽然听卡罗琳说她没什么致命伤，但是身上有数不清的伤口。	我失去意識之前，看到她都還在隊伍前面，甚至回頭對我笑，雖然聽卡羅琳說她沒什麼致命傷，但是身上有數不清的傷口。	私が気を失う前、マリアンはまだ前線に立って、私に向かって笑顔を見せていた。カロリンから聞いた話によると、マリアンは致命傷は受けていないが、無数の傷ができたらしい。	심지어 의식을 잃기 전, 전방에 있던 마리안은 고개를 돌려 미소까지 보였다. 사실 치명상까지는 아니어도 많은 상처들이 있을 것이다.	I had a very clear memory of seeing her standing way out beyond our lines... she turned back and looked at me a couple of times, threw me a smile in the middle of it all... and after that I don't remember. They told me I got knocked unconscious. Marian's wounds weren't life-threatening, Caroline said... there were just a lot of them...						0	
+14	为什么不接受治疗呢？	為什麼不接受治療呢？	どうして治療を受けないのだろう？	그나저나 마리안은 왜 치료를 거부하는 걸까?	Why would she not accept treatment?						0	
+15	分析员？你没事了吗？	分析員？你沒事了嗎？	分析員さん？ご無事でしたか？	분석가님? 무슨 일 있으신 건 아니죠?	Adjutant? You're alright?						0	
+16	我抬头发现，茉莉安在走廊另一头看着我，她真的没有去接受治疗，甚至，还没换掉作战服，过于优秀的防水性能，让血还在往下滴。	我抬頭發現，茉莉安在走廊另一頭看著我，她真的沒有去接受治療，甚至還沒換掉作戰服，過於優秀的防水性能，讓血還在往下滴。	見上げると、マリアンが廊下の向こうで私を見ていることに気づいた。彼女は本当に治療を受けなかった。戦闘服もまだ着替えていない。あまりにも素晴らしい防水性のため、血がまだ滴っている。	고개를 드니 마리안은 복도 한편에서 날 쳐다보고 있었다. 치료를 안 받고 옷도 안 갈아입은 채 피를 뚝뚝 흘리면서 말이다…	I looked up and Marian was moving up the corridor toward me. She really had refused. Still in that skin-tight combat drysuit... blood leaking from more holes than I could count...						0	
+b-5											0	
+17	你的伤……还很痛吧？	你的傷……還很痛吧？	その傷……まだ痛いだろう？	마리안, 그 상처… 아직까지 아픈 거 아니야?	Marian... doesn't it hurt?						0	
+18	我不知道我现在是什么表情，是满脸歉意，或者单纯被浑身是伤的她吓到了？	我不知道我現在是什麼表情，是滿臉歉意，或者單純被渾身是傷的她嚇到了？	今の自分がどんな顔をしているのか分からない。申し訳なさそうな顔か、それとも単に彼女の傷に驚いた顔か？	나는 내가 미안해하는 표정을 짓고 있는 건지, 아니면 온몸이 상처투성이인 그녀를 보고 놀란 표정인지 알 수 없었다.	I wondered later what my face looked like as I said that. Was I all remorse... did she see nothing but the horror I was feeling seeing her like that...						0	
+19	没事的，是我太笨拙了，躲不开。	沒事的，是我太笨拙了，躲不開。	大丈夫です。私が不器用なせいで避けきれなかっただけですから。	괜찮아요. 너무 서툴러서 못 피했던 거니까.	Oh, me, I'm fine. I've always been this clumsy... I couldn't dodge a shot, not me...						0	
+20	我走上前，拉起她的手。	我走上前，拉起她的手。	マリアンに近づいて、彼女の腕を掴んだ。	나는 앞으로 다가가 마리안의 손을 잡았다.	I crossed the distance between the two of us and took her hands in mine.						0	
+21	分析员？	分析員？	分析員さん？	분석가님…?	Adjutant?						0	
+b-6											0	
+22	去医疗室吧。	去醫療室吧。	治療室に行こう。	의무실에 가자.	Let me take you to the medical bay.						0	
+23	诶？嗯……	欸？嗯……	え？……はい……	아? 어…	...						0	
+24	茉莉安的脸上多了一点红晕，或许我的行为有点失礼了，但是现在顾不了这些。	茉莉安的臉上多了一點紅暈，或許我的行為有點失禮了，但是現在顧不了這些。	マリアンの頬に朱がさした。私の行動は少し失礼かもしれないが、今はそんなことを気にしている場合じゃない。	마리안의 얼굴이 빨개졌지만, 설사 실례라고 해도 지금 당장은 크게 신경 쓰고 싶지 않았다.	Her face flushed... I knew I was taking a risk, but this couldn't be the time to worry about that...						0	
+25	我们走在没人的走廊上，安静得能听到彼此的呼吸。	我們走在沒人的走廊上，安靜的能聽到彼此的呼吸。	私たちは誰もいない廊下を歩いた。静かすぎて、互いの呼吸する音まで聞こえてきた。	우리는 사람이 없는 복도를 거닐었고, 그 순간은 서로의 숨소리를 들을 수 없을 정도로 조용했다.	We moved down that empty corridor, so quiet we heard each other's every breath.						0	
+26	该死，得说点什么。	該死，得說點什麼。	くそ、何か言わないと。	… 뭐라고 말이라도 좀 해야 하나…	I have to say something, I have to.						0	
+b-7											0	
+27	那个，你为什么不去治疗呢？	那個，你為什麼不去治療呢？	あの、なんで治療を受けなかったの？	근데… 의무실에는 왜 가지 않았던 거야?	Marian, why wouldn't you let them treat you?						0	
+28	我……我在等，分析员。	我……我在等分析員。	わ、私は、分析員さんを待っていましたから。	저는… 분석가님을 기다렸어요.	I... I was waiting for you, Adjutant.						0	
+29	茉莉安是这么一根筋的人吗？明明可以先去处理伤口再等……	茉莉安是這麼死板的人嗎？明明可以先去處理傷口再等……	マリアンってそんなに頭が固いのか？待つにしても応急処置を受けてからでいいのに……	답답하네… 상처부터 치료하고 기다렸어도 충분했을 텐데…	I knew how important her manners were to her, but even she wasn't this block-headedly rigid... was she? She could easily have gone down to the medical bay and come back...						0	
+b-8											0	
+30	咳，幸好你没受什么重伤。	咳，幸好你沒受什麼重傷。	ゴホン、幸い大した傷じゃない。	후… 그래도 치명상을 입지는 않아서 다행이야.	You're so lucky you weren't hurt worse than you were.						0	
+31	嗯……我都避开要害了。	嗯……我都避開要害了。	はい……急所を避けられました。	네… 다행히 급소는 피했어요.	Any shot the might puncture an organ or go through an artery, I dodge.						0	
+b-9											0	
+32	那就好，能避开……	那就好，能避開……	避けられてよかっ……	… 정말 다행이야.	That's good, I'm gla...						0	
+33	我突然意识到了什么，停下了脚步。	我突然意識到了什麼，停下了腳步。	はっと何かに気づいて、歩みを止めた。	난 순간 무언가를 감지할 수 있었고, 이내 걸음을 멈췄다.	It hit me and I stopped, couldn't move another step.						0	
+34	分析员，怎么了？	分析員，怎麼了？	分析員さん、どうされましたか？	분석가님, 무슨 일이세요?	Adjutant? What's wrong?						0	
+35	明明都可以避开了，明明可以先去治疗，明明受伤了却还在笑。	明明都可以避開了，明明可以先去治療，明明受傷了卻還在笑。	避けられるのに、先に治療を受けられるのに、怪我をしているのに笑っている。	피할 수도 있었고, 치료할 수도 있었고… 그럼에도 다치고 나서 웃고 있는 걸 보면…	So she could dodge them then. Nothing was stopping her from going to the medical bay and getting herself patched up. She smiled, blood still seeping out from her wounds...						0	
+36	茉莉安该不会……	茉莉安該不會……	まさかマリアンは……	마리안… 너 혹시…	Does she...?						0	
+37	卡罗琳说起茉莉安时，那个奇怪的表情出现在我脑中。	卡羅琳說起茉莉安時，那個奇怪的表情浮現在我腦海中。	カロリンがマリアンについて話していた時の意味深な顔が頭に浮かんできた。	캐롤린이 마리안에 대해 말할 때의 표정이 순간 뇌리 속에 스쳐 지나갔다.	Caroline's face, when she'd told me I should ask Marian myself...						0	
+38	分析员？	分析員？	分析員さん？	분석가님?	Adjutant?						0	
+b-10											0	
+39	茉莉安，我可以问个问题吗？	茉莉安，我可以問個問題嗎？	マリアン、ひとつ聞いてもいい？	마리안, 뭐 좀 물어봐도 될까?	Marian?						0	
+40	什么？	什麼？	何を？	어떤 걸요?	Yes?						0	
+b-11											0	
+41	你受伤，不是因为笨拙躲不开吧？	你受傷，不是因為笨拙躲不開吧？	傷を負ったのは、不器用で避けられないからじゃないよね？	그 상처… 서툴러서 못 피했던 건 아니지?	You aren't clumsy, are you?						0	
+42	……	……	……	…	...						0	
+b-12											0	
+43	如果希望被关注被爱护，可以说出来，不用伤害自己的。	如果希望被關注被愛護，可以說出來，不用傷害自己的。	人に愛されたいとか、注目されたいのなら、言ってくれればいい。自分を傷つけなくてもいい。	마리안… 관심받고 싶고, 사랑받고 싶으면 말로 표현해도 돼… 굳이 스스로 해칠 필요는 없어.	Why ever you think you need to do this... you don't. Don't do this to yourself.						0	
+44	茉莉安没有立刻回答我，只是低下头，沉默了一会儿。	茉莉安沒有立刻回答我，只是低下頭，沉默了一陣子。	マリアンはすぐに答えてくれなかった。何も言わずに顔を伏せた。	그녀는 대답을 하지 않았고 단지 고개를 숙이고 있을 뿐이었다. 그렇게 한동안 침묵이 흘렀다.	She didn't respond, she just lowered her head and stopped talking.						0	
+45	她从我手中抽开了自己的手，后退了一步。	她從我手中抽開了自己的手，後退了一步。	彼女は掴みかかっている私の手を振り払って一歩引いた。	마리안은 순간 잡고 있던 손을 뿌리치고 한 걸음 뒤로 물러섰다.	Then she took her hands from mine, and she stepped away from me.						0	
+b-13											0	
+46	茉莉安？	茉莉安？	マリアン？	마리안?	Marian?						0	
+47	我感觉我好像没事了，天启者恢复很快的。	我感覺我好像沒事了，天啟者恢復很快的。	もう大丈夫そうな気がします。覚醒者は回復が早いですから。	어차피 문제 될 건 없어요. 전 계시자라 회복력도 빠르니까.	I am a Manifestation, wounds like these will heal very quickly.						0	
+48	应该没事的，我不用去医疗室了。	應該沒事的，我不用去醫療室了。	治療室に行かなくても……大丈夫です。	굳이 의무실에 가지 않아도 돼요.	They aren't a problem. I won't be going to the medical bay.						0	
+49	茉莉安恢复了平时的笑容，那种礼貌性的，和人保持距离的笑容。	茉莉安恢復了平時的笑容，那種禮貌性的，和人保持距離的笑容。	マリアンはいつもの笑顔に戻った。礼儀を守るために、人と距離を置くような笑顔。	마리안은 평소와 같이 예의 바르고 사람들에게 거리를 두며 웃는 모습으로 돌아왔다.	And then, somehow, her smile was back... a polite one this time, the kind that people use to hold someone at arm's length.						0	
+50	接着转身离开了。	接著轉身離開了。	そして背を向けて去った。	그리고 돌아서서 떠났다.	She turned and walked away.						0	
+51	我终究是说错话了，虽然一开始就小心翼翼的。	我終究是說錯話了，雖然一開始就小心翼翼的。	気を付けていたが、結局言ってはいけないことを言ってしまった。	처음부터 조심한다고 했던 것이… 결국에는 또 말실수를 한 것 같았다.	I hadn't said it right... hadn't found the words, as hard as I had tried...						0	
+52	我以为，我们是可以说这种话题的关系了。	我以為，我們是可以說這種話題的關係了。	こんな話をしてもいい関係だと思い込んだ。	이런 대화 정도는 거리낌 없이 할 수 있는 사이라고 생각했는데…	I thought the way things were with me and her... we should have been able to talk about this...						0	
+53	也可能，茉莉安跟谁都不会说这种话题。	也可能，茉莉安跟誰都不會說這種話題。	マリアンは……誰ともこんな話をしないのだろうか。	이런 주제의 얘기를 좋아하지 않는 것이 분명하다.	Maybe she can't talk about this, not with anyone.						0	
+54	我都干了些什么啊……	我都乾了些什麼啊……	私は何てことをしてしまったのだろう……	후… 도대체 내가 뭘 한 거지…	What did I do...?						0	

@@ -1,0 +1,14 @@
+﻿奖池ID	//注释	奖励效果	额外参数	出现权重	对应图标组合（保证至少2个相同图标）	获得奖励展示文本	获得奖励基础数量
+PoolID	Comment	Effect	ExtraParam	Weight	IconGroup	TextShow	BaseNum
+1	赠币8（参数：{1}赠币总数×奖励倍率；{2}投币间隔）	{1001,{8,0.1}}		100	1006026,2	house.Coinpusher_PoolRewardName1	8
+1	赠币16（参数：{1}赠币总数×奖励倍率；{2}投币间隔）	{1001,{16,0.1}}		60	1006026,3	house.Coinpusher_PoolRewardName1	16
+1	票券40（参数：{1}票券总数×奖励倍率）	{1002,40}		100	1006025,2	house.Coinpusher_PoolRewardName2	40
+1	票券70（参数：{1}票券总数×奖励倍率）	{1002,70}		60	1006025,3	house.Coinpusher_PoolRewardName2	70
+1	蓝紫礼品球x1（逻辑参数：品质id，列表，和。显示参数：{1}1×奖励倍率）	{1003,{2,3}}		70	1006021,2	house.Coinpusher_PoolRewardName3	1
+1	紫橙礼品球x1（逻辑参数：品质id，列表，和。显示参数：{1}1×奖励倍率）	{1003,{3,4}}		40	1006021,3	house.Coinpusher_PoolRewardName4	1
+1	新卡池再抽一次（参数：卡池id）	{1004,2}		20	1006022,3	house.Coinpusher_PoolRewardName5	
+							
+2	币塔24（参数：{1}硬币总数×奖励倍率）	{1005,24}		100	1006023,2	house.Coinpusher_PoolRewardName6	24
+2	币塔40（参数：{1}硬币总数×奖励倍率）	{1005,40}		80	1006023,3	house.Coinpusher_PoolRewardName6	40
+2	炸弹币塔15（参数：{1}硬币总数×奖励倍率。额外参数：冲力）	{1006,15}	{"force",90}	50	1006024,2	house.Coinpusher_PoolRewardName7	15
+2	炸弹币塔18（参数：{1}硬币总数×奖励倍率。额外参数：冲力）	{1007,18}	{"force",90}	30	1006024,3	house.Coinpusher_PoolRewardName7	18

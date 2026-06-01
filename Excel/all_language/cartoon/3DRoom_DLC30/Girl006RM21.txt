@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	想象力……想象力……	想像力……想像力……	想像力……想像力……	상상력… 상상력…	Imagination... Imagination...						0	3.0版本随机事件
+page1.2	……?	……？	……?	……?	...?						0	3.0版本随机事件
+page1.3	啊，原来如此，只要借用想象力的话就能和分析……	啊，原來如此，只要借用想像力的話就能和分析……	あっ、そうか……想像力さえあれば、分析員と……	아, 그렇구나. 상상력을 빌리기만 한다면 분석가랑…	Ah! That's it. If I just use some imagination, I can even simulate—						0	3.0版本随机事件
+page1.4	晴，你在房间吗？还好嘛？	晴，你在房間嗎？還好嗎？	晴、部屋にいるのか？具合はどう？	하루 씨, 방에 있어요? 괜찮아요?	Haru, you in there? Is everything okay?						0	3.0版本随机事件
+page1.5	唔，呜哇！！！	唔，嗚哇！！！	う、うわ！	으, 으앗!!!	Wahh—!!!						0	3.0版本随机事件
+page1.6	分，分析员这么晚了有什么事吗，我记得今晚你不是要陪芙提雅特训……	分、分析員這麼晚了有什麼事嗎，我記得今晚你不是要陪芙提雅特訓……	分析員、こんな時間にどうしたんだ、今夜はフリティアと特訓じゃ……	분, 분석가, 이렇게 늦은 시간에 무슨 일이야? 오늘 저녁에 프티야랑 특훈 한다고 하지 않았나…	Adjutant!? What are you doing here so late? Weren't you supposed to be on a special training with Fritia?						0	3.0版本随机事件
+page1.7	已经结束了。路过时听到你房间有动静，有点担心。	已經結束了。路過時聽到你房間有動靜，有點擔心。	もう終わった。通りかかったら部屋の中から音がしたから、ちょっと気になって。	이미 끝났어요. 지나가다 하루 씨 방에서 소리가 들려서 걱정됐거든요.	We just finished. I was passing by and heard noises from your room, so I thought I'd check up on you.						0	3.0版本随机事件
+page1.8	是，是吗……抱歉，刚刚稍微有点太兴奋了。	是、是嗎……抱歉，剛剛稍微有點太興奮了。	そ、そうか……すまない、少し興奮してしまって。	그, 그렇군… 미안, 아까 조금 흥분했나 봐.	Ah. Sorry, I just got a little... carried away.						0	3.0版本随机事件
+page1.9	兴奋……话说晴刚刚在做什么呢？	興奮……話說晴剛剛在做什麼呢？	興奮……晴は何をしてたんだ？	흥분이라… 그나저나 하루 씨, 방금 뭘 하고 있었어요?	Carried away? What were you doing, Haru?						0	3.0版本随机事件
+page1.10	只是在锻炼自己的想象力而已。	只是在鍛鍊自己的想像力而已。	想像力のトレーニングを。	그냥 상상력을 좀 단련하고 있었어.	Doing an imagination training.						0	3.0版本随机事件
+page1.11	想象力？	想像力？	想像力？	상상력?	Imagination training?						0	3.0版本随机事件
+page1.12	嗯，最近稍微研究了大家的训练方式，发现薇蒂雅的方法特别有效。	嗯，最近稍微研究了大家的訓練方式，發現薇蒂雅的方法特別有效。	最近、みんなの訓練方法を研究していて、ヴィディアのやり方が一番効果があると分かったんだ。	응. 요즘 다른 사람들의 훈련 방식을 좀 연구해 봤는데, 비디야의 방법이 특히 효과적이더군.	Yup. I've been studying everyone else's training methods lately. Vidya's approach is shockingly effective.						0	3.0版本随机事件
+page1.13	通过想象力，似乎可以模拟出超出虚拟系统框架的敌人呢！	透過想像力，似乎可以模擬出超出虛擬系統框架的敵人呢！	想像力を使えば、仮想システムの限界を超えた敵まで再現できるらしい！	상상력을 통해 가상 시스템의 틀을 넘어선 적까지 시뮬레이션할 수 있던걸!	With enough imagination, you can simulate enemies beyond the capacity of the virtual combat framework!						0	3.0版本随机事件
+page1.14	啊~听起来很有趣。所以刚才是在想象和我对战吗？	啊~聽起來很有趣。所以剛才是在想像和我對戰嗎？	へぇ、面白そうだ。なら、さっきは私と戦っているところを想像していたのか？	아~ 흥미로운데요? 그래서 방금 저와의 대결을 상상하고 있었어요?	Ah. Sounds interesting. So, you were imagining me as your opponent?						0	3.0版本随机事件
+page1.15	不，不是那样的！……等等，某种意义上也算……	不、不是那樣的！……等等，某種意義上也算……	ち、違う！……いや、ある意味そうかもしれないな……	아니, 그게 아니야!… 잠깐, 어떻게 보면 맞긴 한데…	No, not like that... But, well, maybe yes, in a sense...						0	3.0版本随机事件
+page1.16	没错，我确实在想象以分析员为"对手"的情景。	沒錯，我確實在想像以分析員為「對手」的情景。	そう、分析員を「対戦相手」にイメージしていた。	맞아, 분석가를 '상대'로 한 상황을 상상하고 있었어.	That's right. I was actually imagining what it'll be like to have you as my "opponent."						0	3.0版本随机事件
+page1.17	原来如此……不过现在，应该不需要靠想象了吧？	原來如此……不過現在，應該不需要靠想像了吧？	なるほど……でも今は、もう想像する必要もないよな？	그렇군요… 그런데 이제는 상상할 필요가 없겠는데요?	I see. But now you don't have to imagine, I think?						0	3.0版本随机事件
+page1.18	哎？！……嗯，你说得对！	欸？！……嗯，你說得對！	えっ……ああ、確かに！	어?!… 응, 맞아!	Eh!? Y—You're right!						0	3.0版本随机事件
+page1.19	那就失礼了，分析员！今晚请务必再陪我进行一次"特训"！	那就失禮了，分析員！今晚請務必再陪我進行一次「特訓」！	じゃあ、分析員、今夜もぜひ「特訓」をお願いしたい！	그럼 실례할게, 분석가! 오늘 밤엔 꼭 나와 같이 '특훈'을 해줬으면 좋겠어!	Then, forgive me, Adjutant! Please join me for another round of special training.						0	3.0版本随机事件
+page1.20	之后，这场“特训”一不小心便持续到次日清晨……	之後，這場「特訓」一不小心便持續到次日清晨……	そして——この「特訓」は、気がつけば夜明けまで続いていた……	그리고 이 '특훈'은 다음 날 아침까지 이어지고 말았다…	And before anyone knew it, the training session lasted until dawn.						0	3.0版本随机事件

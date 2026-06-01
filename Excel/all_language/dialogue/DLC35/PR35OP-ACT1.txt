@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	挑战逐渐升级，我们也需要更厉害的帮手！	挑戰逐漸升級，我們也需要更厲害的夥伴！	難易度が上がるにつれ、より強力な仲間が必要になる。	도전이 점점 업그레이드되고 있으니, 우리도 더 강력한 조력자가 필요해!	Things are about to get harder, so let's prepare some better support!						0	
+2	给具备聚合能力的伙伴升级技能，就可以积累聚合能量。	給具備聚合能力的夥伴升級技能，就可以累積聚合能量。	結束能力を持つ仲間のスキルを強化すると、結束パワーをチャージできる。	융합 능력을 갖춘 파트너의 스킬을 레벨 업하면 융합 에너지가 누적돼.	Upgrade the skills of units with fusion capability to build up Fusion Energy.						0	
+3	只要积满伙伴技能左侧的聚合能量条，就可以召唤出更厉害的【护航伙伴】啦！	只要積滿夥伴技能左側的聚合能量條，就可以召喚出更厲害的【護航夥伴】啦！	ここの結束パワーバーが満タンになると、より強力な【守護者仲間】を召喚できる！	파트너 스킬 왼쪽의 융합 에너지 바를 가득 채우기만 하면, 더욱 강력한 [호위 파트너]를 소환할 수 있어!	Fill up the Fusion Energy bar beside the unit's skill, and a powerful escort unit will appear~						0	
+4	这次我先为你预充了一些能量，接下来亲爱的也试试看吧~	這次我先為你預充了一些能量，接下來親愛的你也試試看吧~	今回はあらかじめチャージしといた。さあ、あなたも試してみよう！	이번엔 내가 에너지를 조금 충전해 놨으니까 이제 자기가 한번 해봐~	I've prepared some energy for you already. Now it's your turn to try, darling~						0	

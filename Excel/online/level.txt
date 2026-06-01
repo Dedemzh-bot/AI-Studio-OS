@@ -1,0 +1,531 @@
+﻿Id	备注	关卡类型(0、通常关,1、Boss关,2、剧情,3、重要,4、爬塔关,5、Boss挑战关,6、联机)	场景类型1	关卡名字	关卡Icon	地图ID	战斗逻辑配置ID	解锁条件	体力消耗(包含进入和通关)	出场怪物信息{{G,D,P,L}}	关联growintensity怪物强度模板	推荐战力	玩家经验值	角色经验值	队伍规则	首次达成星级奖励	首通掉落ID	固定掉落ID	随机掉落ID	UI展示物品{{G,D,P,L,N}}	UI展示随机物品{{G,D,P,L,N}}	UI展示首通物品{{G,D,P,L,N}}	Boss概念图	关卡概念图	任务资源	词缀ID-Skill（table）	词缀ID-Modifire（table）	不添加效果的怪物类型（table 0普通怪 1精英怪 2BOSS）	激活的subtask（string）	支线任务ID	怪物等级	荣誉积分（每个task）	显示积分	词缀图标	词缀品质	任务图标	说明图	荣誉结算分	通关加成积分	关卡词缀(禁域协议)
+Id	Comments	Type	MapType	LevelName	LevelIcon	MapID	FightID	Condition	ConsumeVigor	Monster	LevelStrength	RecommendPower	PlayerExp	RoleExp	TeamRule	StarAward	FirstDropID	BaseDropID	RandomDropID	ShowAward	ShowRandomAward	ShowFirstAward	PictureBoss	PictureLevel	TaskPath	tbMonsSkillToAdd	tbMonsModifierToAdd	tbMonsBuffLimitType	ActiveDataOnBegin	Subtaskid	MonsterLevel	HonorScore	ShowHonorScore	affixpic	affixpiclevel	levelpic	levelTeachingPic	HonorScore2	TimeScore	tbLevelAffix
+101	咫尺尖兵	6	99	ui.TxtOnlineLevel1		101	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/Task_Multi_01.Task_Multi_01															
+102	咫尺尖兵	6	99	ui.TxtOnlineLevel1		102	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/Task_Multi_02.Task_Multi_02															
+103	巨垒之下	6	99	ui.TxtOnlineLevel1		103	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/Task_Multi_03.Task_Multi_03															
+104	咫尺尖兵	6	99	ui.TxtOnlineLevel1		104	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/Task_Multi_04.Task_Multi_04															
+105	咫尺尖兵	6	99	ui.TxtOnlineLevel1		105	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/Task_Multi_02test.Task_Multi_02test															
+120	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	120	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_120															
+121	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	120	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_120															
+122	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	120	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_120															
+123	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	120	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_120															
+124	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	120	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_120															
+125	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	121	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_121															
+126	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	121	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_121															
+127	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	122	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_122															
+128	盒屋群落	6	1	ui.TxtOnlineLevel2	1804057	122	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_122															
+130	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	130	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_130															
+131	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	130	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_130															
+132	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	130	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_130															
+133	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	131	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_131															
+134	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	131	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_131															
+135	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	132	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_132															
+136	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	132	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_132															
+137	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	133	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_133															
+138	失重斗场	6	2	ui.TxtOnlineLevel3	1804056	133	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_133															
+110	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	110	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+111	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	110	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+112	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	110	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+113	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	110	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+114	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	110	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+115	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	110	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+116	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	110	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+117	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	110	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+118	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	111	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+119	尘晶地宫	6	3	ui.TxtOnlineLevel1	1804058	111	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+140	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	140	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_140															
+141	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	140	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_140															
+142	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	140	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_140															
+143	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	141	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_141															
+144	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	141	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_141															
+145	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	142	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_142															
+146	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	142	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_142															
+147	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	144	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_142															
+148	牢笼街道	6	4	ui.TxtOnlineLevel4	1804060	144	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_142															
+149	牢笼街道	6	99	ui.TxtOnlineLevel4	1804060	143	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_143															
+150	雾中迷城-路线1	6	5	ui.TxtOnlineLevel5	1804059	150	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_150															
+151	雾中迷城-路线2	6	5	ui.TxtOnlineLevel5	1804059	151	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_151															
+152	雾中迷城-路线3	6	5	ui.TxtOnlineLevel5	1804059	152	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_152															
+153	雾中迷城-路线4	6	5	ui.TxtOnlineLevel5	1804059	153	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_153															
+160	雾中迷城-路线5	6	5	ui.TxtOnlineLevel5	1804059	160	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_160															
+161	雾中迷城-路线5	6	5	ui.TxtOnlineLevel5	1804059	160	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_160															
+162	雾中迷城-路线6	6	5	ui.TxtOnlineLevel5	1804059	161	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_161															
+163	雾中迷城-路线6	6	5	ui.TxtOnlineLevel5	1804059	161	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_161															
+164	雾中迷城-路线7	6	5	ui.TxtOnlineLevel5	1804059	162	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_162															
+165	雾中迷城-路线7	6	5	ui.TxtOnlineLevel5	1804059	162	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_162															
+166	雾中迷城-路线7	6	5	ui.TxtOnlineLevel5	1804059	162	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_162															
+167	雾中迷城-路线7	6	5	ui.TxtOnlineLevel5	1804059	162	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_162															
+170	联机BOSS挑战（路线1）	6	6	ui.TxtOnlineLevel3	1804056	106	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_170															
+171	联机BOSS挑战（路线2）	6	6	ui.TxtOnlineLevel3	1804056	170	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_170															
+172	联机BOSS挑战（路线3）	6	6	ui.TxtOnlineLevel3	1804056	170	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_170															
+173	联机BOSS挑战（路线3）	6	7	ui.TxtOnlineLevel3	1804056	171	10			{{1,2,1,1}}	9	12345	0	0		1		6004		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_170															
+174	联机BOSS挑战（路线3）	6	7	ui.TxtOnlineLevel3	1804056	171	10			{{1,2,1,1}}	9	12345	0	0		1		6004		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_170															
+175	联机BOSS挑战（路线3）	6	7	ui.TxtOnlineLevel3	1804056	171	10			{{1,2,1,1}}	9	12345	0	0		1		6004		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_170															
+176	联机BOSS挑战（路线3）	6	99	ui.TxtOnlineLevel3	1804056	171	10			{{1,2,1,1}}	9	12345	0	0		1		6004		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_170															
+177	联机BOSS挑战（路线3）	6	99	ui.TxtOnlineLevel3	1804056	171	10			{{1,2,1,1}}	9	12345	0	0		1		6004		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_170															
+180	永续连战	6	81	ui.TxtOnlineLevel5	1804059	180	10			{{1,2,1,1}}	11	12345	0	0		1									MultiTask/MultTask_180															
+181	永续连战	6	80	ui.TxtOnlineLevel5	1804059	181	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_181															
+182	永续连战	6	82	ui.TxtOnlineLevel5	1804059	182	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_182															
+183	永续连战	6	83	ui.TxtOnlineLevel5	1804059	183	10			{{1,2,1,1}}	11	12345	0	0		1									MultiTask/MultTask_183															
+184	DLC5永续连战184	6	84	ui.TxtOnlineLevel5	1804059	184	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_184															
+185	DLC5永续连战185	6	85	ui.TxtOnlineLevel5	1804059	185	10			{{1,2,1,1}}	11	12345	0	0		1									MultiTask/MultTask_185															
+186	DLC7永续连战186	6	88	ui.TxtOnlineLevel5	1804059	186	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_180															
+187	DLC7永续连战187	6	89	ui.TxtOnlineLevel5	1804059	187	10			{{1,2,1,1}}	11	12345	0	0		1									MultiTask/MultTask_181															
+9901	DLC9永续连战9901	6	90	ui.TxtOnlineLevel5	1804059	9901	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_9901															
+9902	DLC9永续连战9902	6	91	ui.TxtOnlineLevel5	1804059	9902	10			{{1,2,1,1}}	11	12345	0	0		1									MultiTask/MultTask_9902															
+9903	DLC11永续连战	6	92	ui.TxtOnlineLevel5	1804059	9903	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_9903															
+9904	DLC11永续连战	6	93	ui.TxtOnlineLevel5	1804059	9904	10			{{1,2,1,1}}	11	12345	0	0		1									MultiTask/MultTask_9904															
+9905	DLC26永续连战	6	9905	ui.TxtOnlineLevel5	1804059	9905	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_9905															
+9906	DLC26永续连战	6	9906	ui.TxtOnlineLevel5	1804059	9906	10			{{1,2,1,1}}	11	12345	0	0		1									MultiTask/MultTask_9906															
+9907	DLC28永续连战	6	9907	ui.TxtOnlineLevel5	1804059	9907	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_9907															
+9908	DLC28永续连战	6	9908	ui.TxtOnlineLevel5	1804059	9908	10			{{1,2,1,1}}	24	12345	0	0		1									MultiTask/MultTask_9908															
+9909	DLC31永续连战	6	9909	ui.TxtOnlineLevel5	1804059	9909	10			{{1,2,1,1}}	10	12345	0	0		1									MultiTask/MultTask_9909															
+9910	DLC31永续连战	6	9910	ui.TxtOnlineLevel5	1804059	9910	10			{{1,2,1,1}}	24	12345	0	0		1									MultiTask/MultTask_9910															
+9911	DLC33联合清剿	6	9911	ui.TxtOnlineLevel5	1804059	9911	10			{{1,2,1,1}}	15	12345	0	0		1									MultiTask/MultTask_9911															
+9912	DLC33联合清剿	6	9912	ui.TxtOnlineLevel5	1804059	9912	10			{{1,2,1,1}}	15	12345	0	0		1									MultiTask/MultTask_9912															
+9913	DLC36联合清剿	6	9913	ui.TxtOnlineLevel5	1804059	9913	10			{{1,2,1,1}}	15	12345	0	0		1									MultiTask/MultTask_9913															
+9914	DLC36联合清剿	6	9914	ui.TxtOnlineLevel5	1804059	9914	10			{{1,2,1,1}}	15	12345	0	0		1									MultiTask/MultTask_9914															
+190	QA-BOSS测试-海拉	6	99	ui.TxtOnlineLevel4	1804059	190	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_999															
+191	QA-BOSS测试-约瑟夫	6	99	ui.TxtOnlineLevel4	1804059	190	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_999															
+192	QA-BOSS测试-机甲	6	99	ui.TxtOnlineLevel4	1804059	190	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_999															
+193	QA-BOSS测试-机甲改	6	99	ui.TxtOnlineLevel4	1804059	190	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_999															
+194	QA-BOSS测试-苏瑞安	6	99	ui.TxtOnlineLevel4	1804059	190	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_999															
+195	QA-BOSS测试-波伏娃	6	99	ui.TxtOnlineLevel4	1804059	190	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_999															
+196	QA-BOSS测试-加文	6	99	ui.TxtOnlineLevel4	1804059	190	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_999															
+197	QA-性能测试	6	99	ui.TxtOnlineLevel4	1804059	111	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_110															
+198	QA-性能测试	6	99	ui.TxtOnlineLevel4	1804059	191	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/RandomTest/MultTask_160															
+199	QA-骨骼LOD性能测试	6	99	ui.TxtOnlineLevel4	1804059	42	10			{{1,2,1,1}}	9	12345	0	0		1									MultiTask/Task_Multi_Herd_01															
+9004	DLC3联机BOSS挑战	6	99	ui.TxtOnlineLevel3	1804056	9004	10			{{1,2,1,1}}	11	12345	0	0		1								1803038	MultiTask/RandomTest/MultTask_9004															
+9014	DLC4联机BOSS挑战	6	99	ui.TxtOnlineLevel3	1804056	9014	10			{{1,2,1,1}}	11	12345	0	0		1								1801017	MultiTask/RandomTest/MultTask_9014															
+9024	DLC5联机BOSS挑战	6	99	ui.TxtOnlineLevel3	1804056	9024	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9024															
+9100	DLC5联机BOSS挑战	6	99	ui.TxtOnlineLevel3	1804056	9100	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9100															
+9034	DLC6联机BOSS挑战	6	99	ui.TxtOnlineLevel3	1804056	9034	10			{{1,2,1,1}}	11	12345	0	0		1								1801020	MultiTask/RandomTest/MultTask_9034															
+9044	DLC7联机BOSS挑战	6	99	ui.TxtOnlineLevel3	1804056	9044	10			{{1,2,1,1}}	11	12345	0	0		1								1803051	MultiTask/RandomTest/MultTask_9044															
+9054	DLC8联机BOSS挑战1	6	99	ui.TxtOnlineLevel3	1804056	9054	10			{{1,2,1,1}}	11	12345	0	0		1								1803060	MultiTask/RandomTest/MultTask_9054															
+9064	DLC9联机BOSS挑战	6	99	ui.TxtOnlineLevel3	1804056	9064	10			{{1,2,1,1}}	11	12345	0	0		1								1803060	MultiTask/RandomTest/MultTask_9064															
+																																								
+																																								
+9101	DLC6联机塔防-普通	6	99	ui.TxtOnlineLevel3	1804056	9101	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9101															
+9102	DLC6联机塔防-困难	6	99	ui.TxtOnlineLevel3	1804056	9102	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9102															
+9103	DLC6联机塔防-性能测试	6	99	ui.TxtOnlineLevel3	1804056	9102	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9102															
+9104	DLC6联机塔防-性能测试	6	99	ui.TxtOnlineLevel3	1804056	9102	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9102															
+9105	DLC8联机塔防-普通	6	99	ui.TxtOnlineLevel3	1804056	9105	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9101															
+9106	DLC8联机塔防-困难	6	99	ui.TxtOnlineLevel3	1804056	9106	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9102															
+9107	DLC10联机塔防-普通	6	99	ui.TxtOnlineLevel3	1804056	9107	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9107															
+9108	DLC10联机塔防-困难	6	99	ui.TxtOnlineLevel3	1804056	9108	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9108															
+9109	DLC 2.3联机塔防-普通	6	9109	ui.TxtOnlineLevel3	1804056	9109	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9109															
+9110	DLC 2.3联机塔防-困难	6	9110	ui.TxtOnlineLevel3	1804056	9110	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9110															
+9111	DLC 2.5联机塔防-普通	6	9111	ui.TxtOnlineLevel3	1804056	9111	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9111															
+9112	DLC 2.5联机塔防-困难	6	9112	ui.TxtOnlineLevel3	1804056	9112	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9112															
+9113	DLC 2.7联机塔防-普通	6	9113	ui.TxtOnlineLevel3	1804056	9113	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9113															
+9114	DLC 2.7联机塔防-困难	6	9114	ui.TxtOnlineLevel3	1804056	9114	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9114															
+9115	DLC 3.1联机塔防-普通	6	9115	ui.TxtOnlineLevel3	1804056	9115	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9115															
+9116	DLC 3.1联机塔防-困难	6	9116	ui.TxtOnlineLevel3	1804056	9116	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9116															
+9117	DLC 3.4联机塔防-普通	6	9117	ui.TxtOnlineLevel3	1804056	9117	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9117															
+9119	DLC 2.7联机塔防-普通	6	9117	ui.TxtOnlineLevel3	1804056	9113	10			{{1,2,1,1}}	10	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9113															
+9118	DLC 3.4联机塔防-困难	6	9118	ui.TxtOnlineLevel3	1804056	9118	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9118															
+9120	DLC 2.7联机塔防-困难	6	9118	ui.TxtOnlineLevel3	1804056	9114	10			{{1,2,1,1}}	11	12345	0	0		1								1801018	MultiTask/RandomTest/MultTask_9114															
+																																								
+9301	勇者游戏挑战（路线1）	6	11	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9302	勇者游戏挑战（路线2）	6	11	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9303	勇者游戏挑战（路线3）	6	11	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9304	勇者游戏挑战（路线3）	6	12	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9305	勇者游戏挑战（路线3）	6	12	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9306	勇者游戏挑战（路线3）	6	12	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9307	勇者游戏挑战（路线3）	6	13	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9308	勇者游戏挑战（路线3）	6	13	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9310	勇者游戏挑战（路线1）	6	14	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9311	勇者游戏挑战（路线2）	6	14	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9312	勇者游戏挑战（路线3）	6	14	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9313	勇者游戏挑战（路线3）	6	14	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9314	勇者游戏挑战（路线3）	6	15	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9315	勇者游戏挑战（路线3）	6	15	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9316	勇者游戏挑战（路线3）	6	15	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9317	勇者游戏挑战（路线3）	6	15	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9318	勇者游戏挑战（路线3）	6	16	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9319	勇者游戏挑战（路线3）	6	16	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9320	勇者游戏挑战（路线3）	6	16	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6011		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9331	DLC7-勇者游戏挑战（路线1）	6	17	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9333	DLC7-勇者游戏挑战（路线3）	6	17	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9334	DLC7-勇者游戏挑战（路线3）	6	18	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9335	DLC7-勇者游戏挑战（路线3）	6	18	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9336	DLC7-勇者游戏挑战（路线3）	6	18	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9338	DLC7-勇者游戏挑战（路线3）	6	19	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6005		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+																																								
+9801	联机噩梦-深水区-Lv.80-自爆-支线	6	9801	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801	{8500006}		{2}		101	80	40	240	1001186						
+9802	联机噩梦-深水区-Lv.80-入侵A	6	9802	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801				8901		80	40	240	1001184						
+9803	联机噩梦-深水区-Lv.80-自爆	6	9803	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801	{8500004}		{2}			80	40	240	1001186						
+9804	联机噩梦-深水区-Lv.80-入侵B-支线	6	9804	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801				8902	101	80	40	240	1001184						
+9805	联机噩梦-深水区-Lv.70-自爆	6	9805	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801	{8500005}		{2}			70	35	210	1001186						
+9806	联机噩梦-深水区-Lv.70-入侵	6	9806	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801				8900		70	35	210	1001184						
+9807	联机噩梦-深水区-Lv.70-自爆-支线	6	9807	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801	{8500004}		{2}		102	70	35	210	1001186						
+9808	联机噩梦-深水区-Lv.60	6	9808	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801						60	25	150							
+9809	联机噩梦-深水区-Lv.60	6	9809	ui.TxtTutorialMulti09	1803070	9800	10			{{1,2,1,1}}	18		0	0		1								1801003	MultiTask/RandomTest/MultTask_9801						60	25	150							
+																																								
+9811	联机噩梦-生态球-Lv.80-自爆-支线	6	9811	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802	{8500006}		{2}		101	80	40	240	1001186						
+9812	联机噩梦-生态球-Lv.80-入侵A	6	9812	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802				8901		80	40	240	1001184						
+9813	联机噩梦-生态球-Lv.80-自爆-支线	6	9813	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802	{8500004}		{2}			80	40	240	1001186						
+9814	联机噩梦-生态球-Lv.80-入侵B-支线	6	9814	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802				8902	101	80	40	240	1001184						
+9815	联机噩梦-生态球-Lv.70-自爆	6	9815	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802	{8500005}		{2}			70	35	210	1001186						
+9816	联机噩梦-生态球-Lv.70-入侵	6	9816	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802				8900		70	35	210	1001184						
+9817	联机噩梦-生态球-Lv.70-自爆-支线	6	9817	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802	{8500004}		{2}		102	70	35	210	1001186						
+9818	联机噩梦-生态球-Lv.60	6	9818	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802						60	25	150							
+9819	联机噩梦-生态球-Lv.60	6	9819	ui.TxtTutorialMulti10	1803075	9810	10			{{1,2,1,1}}	18		0	0		1								1803062	MultiTask/RandomTest/MultTask_9802						60	25	150							
+																																								
+9821	联机噩梦-零区-Lv.80-自爆-支线	6	9821	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820	{8500006}		{2}		101	80	40	240	1001184						
+9822	联机噩梦-零区-Lv.80-入侵A	6	9822	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820				8901		80	40	240	1001186						
+9823	联机噩梦-零区-Lv.80-自爆-支线	6	9823	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820	{8500004}		{2}			80	40	240	1001184						
+9824	联机噩梦-零区-Lv.80-入侵B-支线	6	9824	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820				8902	101	80	40	240	1001186						
+9825	联机噩梦-零区-Lv.70-自爆	6	9825	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820	{8500006}		{2}			70	40	200	1001186						
+9826	联机噩梦-零区-Lv.70-入侵	6	9826	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820						70	35	210	1001186						
+9827	联机噩梦-零区-Lv.70-自爆-支线	6	9827	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820	{8500004}		{2}			70	40	200	1001186						
+9828	联机噩梦-零区-Lv.60	6	9828	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820	{8500005}		{2}			60	30	150	1001186						
+9829	联机噩梦-零区-Lv.60	6	9829	ui.TxtTutorialMulti11	1803070	9820	10			{{1,2,1,1}}	18		0	0		1								1801000	MultiTask/RandomTest/MultTask_9820						60	25	150							
+																																								
+9831	联机噩梦-雪地-Lv.80-自爆-支线	6	9831	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830	{8500006}		{2}		101	80	40	240	1001186						
+9832	联机噩梦-雪地-Lv.80-入侵A	6	9832	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830				8901		80	40	240	1001184						
+9833	联机噩梦-雪地-Lv.80-自爆-支线	6	9833	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830	{8500004}		{2}			80	40	240	1001186						
+9834	联机噩梦-雪地-Lv.80-入侵B-支线	6	9834	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830				8902	101	80	40	240	1001184						
+9835	联机噩梦-雪地-Lv.70-自爆	6	9835	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830	{8500005}		{2}			70	35	210	1001186						
+9836	联机噩梦-雪地-Lv.70-入侵	6	9836	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830				8900		70	35	210	1001184						
+9837	联机噩梦-雪地-Lv.70-自爆-支线	6	9837	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830	{8500004}		{2}		102	70	35	210	1001186						
+9838	联机噩梦-雪地-Lv.60	6	9838	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830						60	25	150							
+9839	联机噩梦-雪地-Lv.60	6	9839	ui.TxtTutorialMulti12	1803072	9830	10			{{1,2,1,1}}	18		0	0		1								1801016	MultiTask/RandomTest/MultTask_9830						60	25	150							
+																																								
+9841	联机噩梦-污染区-Lv.80-自爆-支线	6	9841	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500006}		{2}		101	80	40	240	1001186						
+9842	联机噩梦-污染区-Lv.80-入侵A	6	9842	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840				8901		80	40	240	1001184						
+9843	联机噩梦-污染区-Lv.80-自爆-支线	6	9843	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500004}		{2}			80	40	240	1001186						
+9844	联机噩梦-污染区-Lv.80-入侵B-支线	6	9844	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840				8902	101	80	40	240	1001184						
+9845	联机噩梦-污染区-Lv.70-自爆	6	9845	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500005}		{2}			70	35	210	1001186						
+9846	联机噩梦-污染区-Lv.70-入侵	6	9846	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840				8900		70	35	210	1001184						
+9847	联机噩梦-污染区-Lv.70-自爆-支线	6	9847	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500004}		{2}		102	70	35	210	1001186						
+9848	联机噩梦-污染区-Lv.60	6	9848	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840						60	25	150							
+9849	联机噩梦-污染区-Lv.60	6	9849	ui.TxtTutorialMulti13	1803071	9840	10			{{1,2,1,1}}	18		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840						60	25	150							
+																																								
+9851	联机噩梦-商场-Lv.80	6	9851	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850						80	40	240							
+9852	联机噩梦-商场-Lv.80	6	9852	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850						80	40	240							
+9853	联机噩梦-商场-Lv.80	6	9853	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850						80	40	240							
+9854	联机噩梦-商场-Lv.80	6	9854	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850						80	40	240							
+9855	联机噩梦-商场-Lv.70-自爆1	6	9855	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850	{8500006}		{2}			70	35	210	1001186						
+9856	联机噩梦-商场-Lv.70	6	9856	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850						70	35	210							
+9857	联机噩梦-商场-Lv.70-自爆2	6	9857	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850	{8500004}		{2}			70	35	210	1001186						
+9858	联机噩梦-商场-Lv.60-自爆3	6	9858	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850	{8500005}		{2}			60	25	150	1001186						
+9859	联机噩梦-商场-Lv.60	6	9859	ui.TxtTutorialMulti14	1803074	9850	10			{{1,2,1,1}}	18		0	0		1								1803056	MultiTask/RandomTest/MultTask_9850						60	25	150							
+																																								
+9860	DLC2.2联机噩梦2期-普通-推车-1（雪地）	6	9860	ui.TxtTutorialMulti13	1803071	9860	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500006}					-1		240	1001186	1700163	1001285	138	300	{{50,20},{30,40}}	
+9861	DLC2.2联机噩梦2期-普通-推车-2（沙漠）	6	9861	ui.TxtTutorialMulti13	1803071	9861	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500006}					-1		240	1001186	1700163	1001285	138	300	{{50,20},{30,40}}	
+9862	DLC2.2联机噩梦2期-噩梦-推车-1（雪地）	6	9862	ui.TxtTutorialMulti13	1803071	9860	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500006}					80		240	1001186	1700163	1001285	138	350	{{50,20},{30,40}}	
+9863	DLC2.2联机噩梦2期-噩梦-推车-2（沙漠）	6	9863	ui.TxtTutorialMulti13	1803071	9861	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500006}					80		240	1001186	1700163	1001285	138	350	{{50,20},{30,40}}	
+9870	DLC2.2联机噩梦2期-普通-死斗-1	6	9870	ui.TxtTutorialMulti13	1803071	9870	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500004}		{2}			-1		240	1001184	1700164	1001282	141	300	{{50,20},{30,40}}	
+9871	DLC2.2联机噩梦2期-普通-死斗-2	6	9871	ui.TxtTutorialMulti13	1803071	9871	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500004}		{2}			-1		240	1001184	1700164	1001282	141	300	{{50,20},{30,40}}	
+9872	DLC2.2联机噩梦2期-噩梦-死斗-1	6	9872	ui.TxtTutorialMulti13	1803071	9870	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500004}		{2}			80		240	1001184	1700164	1001282	141	350	{{50,20},{30,40}}	
+9873	DLC2.2联机噩梦2期-噩梦-死斗-2	6	9873	ui.TxtTutorialMulti13	1803071	9871	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500004}		{2}			80		240	1001184	1700164	1001282	141	350	{{50,20},{30,40}}	
+9880	DLC2.2联机噩梦2期-普通-人质-1	6	9880	ui.TxtTutorialMulti13	1803071	9880	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500005}		{2}			-1		240	1001186	1700165	1001283	142	300	{{50,20},{30,40}}	
+9881	DLC2.2联机噩梦2期-普通-人质-2	6	9881	ui.TxtTutorialMulti13	1803071	9881	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500005}		{2}			-1		240	1001186	1700165	1001283	142	300	{{50,20},{30,40}}	
+9882	DLC2.2联机噩梦2期-噩梦-人质-1	6	9882	ui.TxtTutorialMulti13	1803071	9880	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500005}		{2}			80		240	1001186	1700165	1001283	142	350	{{50,20},{30,40}}	
+9883	DLC2.2联机噩梦2期-噩梦-人质-2	6	9883	ui.TxtTutorialMulti13	1803071	9881	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8500005}		{2}			80		240	1001186	1700165	1001283	142	350	{{50,20},{30,40}}	
+9890	DLC2.2联机噩梦2期-普通-双Boss-1	6	9890	ui.TxtTutorialMulti13	1803071	9890	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8412002}					-1		240	1001276	1700164	1001287	140	300	{{50,20},{30,40}}	
+9891	DLC2.2联机噩梦2期-普通-双Boss-2	6	9891	ui.TxtTutorialMulti13	1803071	9891	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8412002}					-1		240	1001276	1700164	1001287	140	300	{{50,20},{30,40}}	
+9892	DLC2.2联机噩梦2期-噩梦-双Boss-1	6	9892	ui.TxtTutorialMulti13	1803071	9890	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8412002}					80		240	1001276	1700164	1001287	140	350	{{50,20},{30,40}}	
+9893	DLC2.2联机噩梦2期-噩梦-双Boss-2	6	9893	ui.TxtTutorialMulti13	1803071	9891	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8412002}					80		240	1001276	1700164	1001287	140	350	{{50,20},{30,40}}	
+9894	DLC2.2联机噩梦2期-普通-波次-1	6	9894	ui.TxtTutorialMulti13	1803071	9894	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8411001}		{2}			-1		240	1001280	1700163	1001286	139	300	{{50,20},{30,40}}	
+9895	DLC2.2联机噩梦2期-普通-波次-2	6	9895	ui.TxtTutorialMulti13	1803071	9895	10			{{1,2,1,1}}	10		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8411001}		{2}			-1		240	1001280	1700163	1001286	139	300	{{50,20},{30,40}}	
+9896	DLC2.2联机噩梦2期-噩梦-波次-1	6	9896	ui.TxtTutorialMulti13	1803071	9894	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8411001}		{2}			80		240	1001280	1700163	1001286	139	350	{{50,20},{30,40}}	
+9897	DLC2.2联机噩梦2期-噩梦-波次-2	6	9897	ui.TxtTutorialMulti13	1803071	9895	10			{{1,2,1,1}}	11		0	0		1								1801015	MultiTask/RandomTest/MultTask_9840	{8411001}		{2}			80		240	1001280	1700163	1001286	139	350	{{50,20},{30,40}}	
+																																								
+																																								
+9340	勇者游戏挑战（路线1）	6	31	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9341	勇者游戏挑战（路线1）	6	31	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9342	勇者游戏挑战（路线1）	6	31	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9343	勇者游戏挑战（路线1）	6	32	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9344	勇者游戏挑战（路线1）	6	32	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9345	勇者游戏挑战（路线1）	6	32	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9346	勇者游戏挑战（路线1）	6	33	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9347	勇者游戏挑战（路线1）	6	33	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9348	勇者游戏挑战（路线1）	6	33	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9349	勇者游戏挑战（路线1）	6	33	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9600	2.2海姆向前冲竞速1	6	9600	ui.TxtOnlineLevel3	1804056	9600	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9601	2.2海姆向前冲竞速2	6	9601	ui.TxtOnlineLevel3	1804056	9601	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9602	2.2海姆向前冲竞速3	6	9602	ui.TxtOnlineLevel3	1804056	9602	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9603	2.2海姆向前冲竞速4	6	9603	ui.TxtOnlineLevel3	1804056	9603	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9604	2.2海姆向前冲竞速5	6	9604	ui.TxtOnlineLevel3	1804056	9604	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9605	2.2海姆向前冲竞速6	6	9605	ui.TxtOnlineLevel3	1804056	9605	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9606	2.2海姆向前冲竞速7	6	9606	ui.TxtOnlineLevel3	1804056	9606	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9607	2.2海姆向前冲生存8	6	9607	ui.TxtOnlineLevel3	1804056	9607	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9608	2.2海姆向前冲生存9	6	9608	ui.TxtOnlineLevel3	1804056	9608	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9609	2.2海姆向前冲生存10	6	9609	ui.TxtOnlineLevel3	1804056	9609	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9610	2.2海姆向前冲积分11	6	9610	ui.TxtOnlineLevel3	1804056	9610	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9611	2.2海姆向前冲积分12	6	9611	ui.TxtOnlineLevel3	1804056	9611	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+																																								
+9701	DLC2.2禁区协议普通01关	6	9701	ui.TxtOnlineLevel3	1804056	9701	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9701							80	240							
+9702	DLC2.2禁区协议普通02关	6	9702	ui.TxtOnlineLevel3	1804056	9702	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9702							80	240							
+9703	DLC2.2禁区协议普通03关	6	9703	ui.TxtOnlineLevel3	1804056	9703	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9703							80	240							
+9704	DLC2.2禁区协议普通04关	6	9704	ui.TxtOnlineLevel3	1804056	9704	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9704							80	240							
+9705	DLC2.2禁区协议普通05关	6	9705	ui.TxtOnlineLevel3	1804056	9705	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9705							80	240							
+9706	DLC2.2禁区协议困难01关	6	9706	ui.TxtOnlineLevel3	1804056	9706	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9706							100	300							{7}
+9707	DLC2.2禁区协议困难02关	6	9707	ui.TxtOnlineLevel3	1804056	9707	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9707							100	300							
+9708	DLC2.2禁区协议困难03关	6	9708	ui.TxtOnlineLevel3	1804056	9708	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9708							100	300							{7}
+9709	DLC2.2禁区协议困难04关	6	9709	ui.TxtOnlineLevel3	1804056	9709	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9709							100	300							
+9710	DLC2.2禁区协议困难05关	6	9710	ui.TxtOnlineLevel3	1804056	9710	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9710							100	300							
+																																								
+9711	DLC2.4禁区协议二期普通01关	6	9711	ui.TxtOnlineLevel3	1804056	9711	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9711							80	240							
+9712	DLC2.4禁区协议二期普通02关	6	9712	ui.TxtOnlineLevel3	1804056	9712	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9712							80	240							
+9713	DLC2.4禁区协议二期普通03关	6	9713	ui.TxtOnlineLevel3	1804056	9713	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9713							80	240							
+9716	DLC2.4禁区协议二期困难01关	6	9716	ui.TxtOnlineLevel3	1804056	9716	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9716							100	300							
+9717	DLC2.4禁区协议二期困难02关	6	9717	ui.TxtOnlineLevel3	1804056	9717	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9717							100	300							{9}
+9718	DLC2.4禁区协议二期困难03关	6	9718	ui.TxtOnlineLevel3	1804056	9718	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9718							100	300							
+																																								
+9720	DLC2.6禁区协议三期普通01关	6	9720	ui.TxtOnlineLevel3	1804056	9720	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9726							80	240							
+9721	DLC2.6禁区协议三期普通02关	6	9721	ui.TxtOnlineLevel3	1804056	9721	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9727							80	240							
+9722	DLC2.6禁区协议三期普通03关	6	9722	ui.TxtOnlineLevel3	1804056	9722	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9728							80	240							
+9723	DLC2.6禁区协议三期普通04关	6	9723	ui.TxtOnlineLevel3	1804056	9723	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9729							80	240							
+9724	DLC2.6禁区协议三期困难01关BOSS挑战1	6	9724	ui.TxtOnlineLevel3	1804056	9724	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9724							100	300							{6,4,5}
+9725	DLC2.6禁区协议三期困难02关BOSS挑战1	6	9725	ui.TxtOnlineLevel3	1804056	9725	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9725							100	300							{6,4,5}
+9726	DLC2.6禁区协议三期困难03关据点战1	6	9726	ui.TxtOnlineLevel3	1804056	9728	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9722							100	300							{7,1,2}
+9727	DLC2.6禁区协议三期困难04关据点战2	6	9727	ui.TxtOnlineLevel3	1804056	9707	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9707							100	300							{7,1,2}
+9728	DLC2.6禁区协议三期困难05关防守战1	6	9728	ui.TxtOnlineLevel3	1804056	9727	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9721							100	300							{8,2,3}
+9729	DLC2.6禁区协议三期困难06关防守战2	6	9729	ui.TxtOnlineLevel3	1804056	9729	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9723							100	300							{8,2,3}
+9730	DLC2.6禁区协议三期困难07关解救人质3	6	9730	ui.TxtOnlineLevel3	1804056	9716	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9716							100	300							{9,2,5}
+9731	DLC2.6禁区协议三期困难08关解救人质4	6	9731	ui.TxtOnlineLevel3	1804056	9718	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9718							100	300							{9,2,5}
+9732	DLC2.6禁区协议三期困难09关BOSS挑战3	6	9732	ui.TxtOnlineLevel3	1804056	9724	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9724							100	300							{6,3,4}
+9733	DLC2.6禁区协议三期困难10关BOSS挑战4	6	9733	ui.TxtOnlineLevel3	1804056	9725	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9725							100	300							{6,3,4}
+9734	DLC2.6禁区协议三期困难11关据点战3	6	9734	ui.TxtOnlineLevel3	1804056	9728	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9722							100	300							{7,1,4}
+9735	DLC2.6禁区协议三期困难12关据点战4	6	9735	ui.TxtOnlineLevel3	1804056	9707	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9707							100	300							{7,1,4}
+9736	DLC2.6禁区协议三期困难13关防守战3	6	9736	ui.TxtOnlineLevel3	1804056	9727	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9721							100	300							{8,2,4}
+9737	DLC2.6禁区协议三期困难14关防守战4	6	9737	ui.TxtOnlineLevel3	1804056	9729	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_03/Multi_ForbidZone_9723							100	300							{8,2,4}
+9738	DLC2.6禁区协议三期困难15关解救人质3	6	9738	ui.TxtOnlineLevel3	1804056	9716	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_02/Multi_ForbidZone_9716							100	300							{9,4,5}
+9739	DLC2.6禁区协议三期困难16关解救人质4	6	9739	ui.TxtOnlineLevel3	1804056	9718	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_01/Multi_ForbidZone_9718							100	300							{9,4,5}
+																																								
+9741	DLC3.0禁区协议四期经典战区01关	6	9741	ui.TxtOnlineLevel3	1804056	9741	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_04/Multi_ForbidZone_9741							80	240							
+9742	DLC3.0禁区协议四期经典战区02关	6	9742	ui.TxtOnlineLevel3	1804056	9742	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_04/Multi_ForbidZone_9742							80	240							
+9743	DLC3.0禁区协议四期经典战区03关	6	9743	ui.TxtOnlineLevel3	1804056	9743	10			{{1,2,1,1}}	20		0	0		1									MultiTask/RandomTest/ForbidZone_04/Multi_ForbidZone_9743							80	240							
+9751	DLC3.0禁区协议四期特调战区_防守01	6	9751	ui.TxtOnlineLevel3	1804056	9751	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_04/Multi_ForbidZone_9751							100	300							{8}
+9752	DLC3.0禁区协议四期特调战区_防守02	6	9752	ui.TxtOnlineLevel3	1804056	9752	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_04/Multi_ForbidZone_9752							100	300							{8}
+9753	DLC3.0禁区协议四期特调战区_BOSS01	6	9753	ui.TxtOnlineLevel3	1804056	9753	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_04/Multi_ForbidZone_9753							100	300							{6}
+9754	DLC3.0禁区协议四期特调战区_BOSS02	6	9754	ui.TxtOnlineLevel3	1804056	9754	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_04/Multi_ForbidZone_9754							100	300							{6}
+9755	DLC3.0禁区协议四期特调战区_人质01	6	9755	ui.TxtOnlineLevel3	1804056	9755	10			{{1,2,1,1}}	21		0	0		1									MultiTask/RandomTest/ForbidZone_04/Multi_ForbidZone_9755							100	300							{9}
+																																								
+9350	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9351	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9352	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9353	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9354	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9355	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9356	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9357	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9358	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9359	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6008		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9360	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9361	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9362	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9363	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9364	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9365	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9366	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9367	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9301	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9368	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9369	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6009		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+																																								
+9370	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9371	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9372	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9373	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9374	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9375	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9376	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9377	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9378	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9379	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6010		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9390	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9305	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9391	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9305	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9392	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9305	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9393	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9305	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9394	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9395	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9396	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9397	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9303	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9398	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9305	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9399	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9305	10			{{1,2,1,1}}	9	12345	0	0		1		6012		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9612	2.5海姆向前冲竞速1	6	9612	ui.TxtOnlineLevel3	1804056	9612	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9613	2.5海姆向前冲竞速2	6	9613	ui.TxtOnlineLevel3	1804056	9613	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9614	2.5海姆向前冲竞速3	6	9614	ui.TxtOnlineLevel3	1804056	9614	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9615	2.5海姆向前冲生存4	6	9615	ui.TxtOnlineLevel3	1804056	9615	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9616	2.5海姆向前冲生存5	6	9616	ui.TxtOnlineLevel3	1804056	9616	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9617	2.5海姆向前冲生存6	6	9617	ui.TxtOnlineLevel3	1804056	9617	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9618	2.5海姆向前冲生存7	6	9618	ui.TxtOnlineLevel3	1804056	9618	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9619	2.5海姆向前冲特殊竞速1	6	9619	ui.TxtOnlineLevel3	1804056	9619	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9620	2.5海姆向前冲特殊生存2	6	9620	ui.TxtOnlineLevel3	1804056	9620	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9621	2.5海姆向前冲特殊生存3	6	9621	ui.TxtOnlineLevel3	1804056	9621	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9622	2.5海姆向前冲特殊竞速4	6	9622	ui.TxtOnlineLevel3	1804056	9622	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+																																								
+9623	2.7海姆向前冲捉迷藏	6	9623	ui.TxtOnlineLevel3	1804056	9623	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9624	2.7海姆向前冲捉迷藏	6	9624	ui.TxtOnlineLevel3	1804056	9624	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9625	2.7海姆向前冲捉迷藏	6	9625	ui.TxtOnlineLevel3	1804056	9625	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+																																								
+9400	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9401	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9402	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9403	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9404	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9405	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9406	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9407	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9304	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9408	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+9409	勇者游戏挑战（路线1）	6	99	ui.TxtOnlineLevel3	1804056	9302	10			{{1,2,1,1}}	9	12345	0	0		1		6013		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9301															
+																																								
+9410	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9411	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9412	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9413	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9414	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9415	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9416	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9417	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9418	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9419	勇者游戏挑战新版一期（DLC27）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6014		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+																																								
+9420	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9301	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9421	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9301	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9422	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9301	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9423	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9301	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9424	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9425	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9426	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9427	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9428	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9301	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9429	勇者游戏挑战新版二期（DLC28）	6	99	ui.TxtOnlineLevel3	1804056	9301	12			{{1,2,1,1}}	9	12345	0	0		1		6015		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+																																								
+9430	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9302	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9431	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9302	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9432	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9302	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9433	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9302	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9434	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9435	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9436	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9437	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9438	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9302	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9439	勇者游戏挑战新版三期（DLC30）	6	99	ui.TxtOnlineLevel3	1804056	9302	12			{{1,2,1,1}}	9	12345	0	0		1		6016		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+																																								
+9440	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9441	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9442	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9443	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9444	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9445	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9446	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9447	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9448	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9449	勇者游戏挑战新版四期（DLC31）	6	99	ui.TxtOnlineLevel3	1804056	9303	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+																																								
+9450	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9306	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9451	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9306	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9452	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9306	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9453	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9306	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9454	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9455	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9456	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9457	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9458	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9306	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9459	勇者游戏挑战（DLC32）	6	99	ui.TxtOnlineLevel3	1804056	9306	12			{{1,2,1,1}}	9	12345	0	0		1		6020		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+																																								
+9460	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9461	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9462	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9463	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9464	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9465	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9466	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9467	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9304	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9468	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9469	勇者游戏挑战新版一期（DLC33）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6019		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+																																								
+9470	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9471	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9472	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9473	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9474	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9475	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9476	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9477	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9305	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9478	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9479	勇者游戏（DLC35）	6	99	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6021		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+																																								
+9480	勇者游戏（DLC36）	6	73	ui.TxtOnlineLevel3	1804056	9308	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9481	勇者游戏（DLC36）	6	73	ui.TxtOnlineLevel3	1804056	9308	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9482	勇者游戏（DLC36）	6	73	ui.TxtOnlineLevel3	1804056	9308	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9483	勇者游戏（DLC36）	6	73	ui.TxtOnlineLevel3	1804056	9308	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9484	勇者游戏（DLC36）	6	74	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9485	勇者游戏（DLC36）	6	74	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9486	勇者游戏（DLC36）	6	74	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9487	勇者游戏（DLC36）	6	75	ui.TxtOnlineLevel3	1804056	9307	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9488	勇者游戏（DLC36）	6	75	ui.TxtOnlineLevel3	1804056	9308	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+9489	勇者游戏（DLC36）	6	75	ui.TxtOnlineLevel3	1804056	9308	12			{{1,2,1,1}}	9	12345	0	0		1		6022		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}				MultiTask/RandomTest/MultTask_9302															
+																																								
+9500	2.8脉冲连袭一期普通难度	6	9500	ui.TxtOnlineLevel3	1804056	9500	10			{{1,2,1,1}}	10		0	0		1									MultiTask/RandomTest/TowerRush_01/Multi_TowerRush_9500_Normal/Multi_TowerRush_9500_Normal							80	240							
+9501	2.8脉冲连袭一期困难难度	6	9501	ui.TxtOnlineLevel3	1804056	9501	10			{{1,2,1,1}}	11		0	0		1									MultiTask/RandomTest/TowerRush_01/Multi_TowerRush_9500_Hard/Multi_TowerRush_9500_Hard							80	240							
+9510	DLC33脉冲连袭二期普通难度	6	9510	ui.TxtOnlineLevel3	1804056	9510	10			{{1,2,1,1}}	10		0	0		1									MultiTask/RandomTest/TowerRush_02/Multi_TowerRush_9510_Normal/Multi_TowerRush_9510_Normal							80	240							
+9511	DLC33脉冲连袭二期困难难度	6	9511	ui.TxtOnlineLevel3	1804056	9511	10			{{1,2,1,1}}	10		0	0		1									MultiTask/RandomTest/TowerRush_02/Multi_TowerRush_9511_Normal							80	240							
+9520	DLC37脉冲连袭三期普通难度	6	9520	ui.TxtOnlineLevel3	1804056	9520	10			{{1,2,1,1}}	10		0	0		1									MultiTask/RandomTest/TowerRush_03/Multi_TowerRush_9520_Normal/Multi_TowerRush_9520_Normal							80	240							
+9521	DLC37脉冲连三二期困难难度	6	9521	ui.TxtOnlineLevel3	1804056	9521	10			{{1,2,1,1}}	10		0	0		1									MultiTask/RandomTest/TowerRush_03/Multi_TowerRush_9521_Hard/Multi_TowerRush_9521_Hard							80	240							
+																																								
+9201	DLC3.2激浪联航一期简单关卡1	6	9201	ui.TxtOnlineLevel3	1804056	9201	10			{{1,2,1,1}}	26		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9201							80	240							
+9202	DLC3.2激浪联航一期简单关卡2	6	9202	ui.TxtOnlineLevel3	1804056	9202	10			{{1,2,1,1}}	26		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9202							80	240							
+9203	DLC3.2激浪联航一期简单关卡3	6	9203	ui.TxtOnlineLevel3	1804056	9203	10			{{1,2,1,1}}	26		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9203							80	240							
+9204	DLC3.2激浪联航一期简单关卡4	6	9204	ui.TxtOnlineLevel3	1804056	9204	10			{{1,2,1,1}}	26		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9204							80	240							
+9211	DLC3.2激浪联航一期困难关卡1	6	9211	ui.TxtOnlineLevel3	1804056	9211	10			{{1,2,1,1}}	27		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9211							100	300							
+9212	DLC3.2激浪联航一期困难关卡2	6	9212	ui.TxtOnlineLevel3	1804056	9212	10			{{1,2,1,1}}	27		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9212							100	300							
+9213	DLC3.2激浪联航一期困难关卡3	6	9213	ui.TxtOnlineLevel3	1804056	9213	10			{{1,2,1,1}}	27		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9213							100	300							
+9214	DLC3.2激浪联航一期困难关卡4	6	9214	ui.TxtOnlineLevel3	1804056	9214	10			{{1,2,1,1}}	27		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9214							100	300							
+9221	DLC3.2激浪联航一期挑战关卡1	6	9221	ui.TxtOnlineLevel3	1804056	9221	10			{{1,2,1,1}}	28		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9221							120	360							
+9222	DLC3.2激浪联航一期挑战关卡2	6	9222	ui.TxtOnlineLevel3	1804056	9222	10			{{1,2,1,1}}	28		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9222							120	360							
+9223	DLC3.2激浪联航一期挑战关卡3	6	9223	ui.TxtOnlineLevel3	1804056	9223	10			{{1,2,1,1}}	28		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9223							120	360							
+9224	DLC3.2激浪联航一期挑战关卡4	6	9224	ui.TxtOnlineLevel3	1804056	9224	10			{{1,2,1,1}}	28		0	0		1									MultiTask/RandomTest/OnlineSea_01/Multi_OnlineSea_9224							120	360							
+																																								
+9626	3.2海姆向前冲-优化作战	6	9626	ui.TxtOnlineLevel3	1804056	9626	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9627	3.2海姆向前冲-冲关啦	6	9627	ui.TxtOnlineLevel3	1804056	9627	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9628	3.2海姆向前冲-冲关啦	6	9628	ui.TxtOnlineLevel3	1804056	9628	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9629	3.2海姆向前冲-冲关啦	6	9629	ui.TxtOnlineLevel3	1804056	9629	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9630	3.2海姆向前冲-冲关啦	6	9630	ui.TxtOnlineLevel3	1804056	9630	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9631	3.2海姆向前冲-冲关啦	6	9631	ui.TxtOnlineLevel3	1804056	9631	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9632	3.2海姆向前冲-优化作战	6	9632	ui.TxtOnlineLevel3	1804056	9632	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9633	3.5海姆向前冲-PVE	6	9633	ui.TxtOnlineLevel3	1804056	9633	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9634	3.5海姆向前冲-PVP新地图	6	9634	ui.TxtOnlineLevel3	1804056	9634	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+																																								
+9875	3.2绘梦沙盘-联机关卡	6	9875	ui.TxtDLC32.BtnRmol		8842	30001						0	0																										
+																																								
+60200	DLC3.5进击行动一期	6	60200	ui.TxtOnlineLevel3	1804056	60200	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60200							100	300							{9}
+60201	DLC3.5进击行动一期	6	60201	ui.TxtOnlineLevel3	1804056	60201	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60201							100	300							{9}
+60202	DLC3.5进击行动一期	6	60202	ui.TxtOnlineLevel3	1804056	60202	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60202							100	300							{9}
+60203	DLC3.5进击行动一期	6	60203	ui.TxtOnlineLevel3	1804056	60203	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60203							100	300							{9}
+60204	DLC3.5进击行动一期	6	60204	ui.TxtOnlineLevel3	1804056	60204	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60204							100	300							{9}
+60205	DLC3.5进击行动一期	6	60205	ui.TxtOnlineLevel3	1804056	60205	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60205							100	300							{9}
+60206	DLC3.5进击行动一期	6	60206	ui.TxtOnlineLevel3	1804056	60206	10			{{1,2,1,1}}	30		0	0		1									MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60206							100	300							{9}
+60207	DLC3.5进击行动一期	6	60207	ui.TxtOnlineLevel3	1804056	60207	10			{{1,2,1,1}}	30		0	0		1									MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60207							100	300							{9}
+																																								
+9200	DLC36激浪联航二期教学关卡1	6	9200	ui.TxtOnlineLevel3	1804056	9200	10			{{1,2,1,1}}	26		0	0		1									MultiTask/RandomTest/OnlineSea_02/Multi_OnlineSea_9200							80	240							
+9231	DLC36激浪联航二期简单关卡1	6	9231	ui.TxtOnlineLevel3	1804056	9231	10			{{1,2,1,1}}	26		0	0		1									MultiTask/RandomTest/OnlineSea_02/Multi_OnlineSea_9231							80	240							
+9232	DLC36激浪联航二期简单关卡2	6	9232	ui.TxtOnlineLevel3	1804056	9232	10			{{1,2,1,1}}	26		0	0		1									MultiTask/RandomTest/OnlineSea_02/Multi_OnlineSea_9232							80	240							
+9233	DLC36激浪联航二期简单关卡3	6	9233	ui.TxtOnlineLevel3	1804056	9233	10			{{1,2,1,1}}	26		0	0		1									MultiTask/RandomTest/OnlineSea_02/Multi_OnlineSea_9233							80	240							
+9241	DLC36激浪联航二期困难关卡1	6	9241	ui.TxtOnlineLevel3	1804056	9241	10			{{1,2,1,1}}	27		0	0		1									MultiTask/RandomTest/OnlineSea_02/Multi_OnlineSea_9241							100	300							
+9242	DLC36激浪联航二期困难关卡2	6	9242	ui.TxtOnlineLevel3	1804056	9242	10			{{1,2,1,1}}	27		0	0		1									MultiTask/RandomTest/OnlineSea_02/Multi_OnlineSea_9242							100	300							
+9243	DLC36激浪联航二期困难关卡3	6	9243	ui.TxtOnlineLevel3	1804056	9243	10			{{1,2,1,1}}	27		0	0		1									MultiTask/RandomTest/OnlineSea_02/Multi_OnlineSea_9243							100	300							
+9251	DLC36激浪联航二期远航关卡1	6	9251	ui.TxtOnlineLevel3	1804056	9251	10			{{1,2,1,1}}	28		0	0		1									MultiTask/RandomTest/OnlineSea_02/Multi_OnlineSea_9251							120	360							
+																																								
+9637	3.6海姆向前冲捉迷藏	6	9637	ui.TxtOnlineLevel3	1804056	9637	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9638	3.6海姆向前冲捉迷藏	6	9638	ui.TxtOnlineLevel3	1804056	9638	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+9639	3.6海姆向前冲捉迷藏	6	9639	ui.TxtOnlineLevel3	1804056	9639	10			{{1,2,1,1}}	9	12345	0	0		1		6007		{{4,3,2,1,1},{5,3,1,3,1},{4,3,1,1,1}}	{{5,6,1,2,1}}																			
+																																								
+60210	DLC3.7进击行动二期普通	6	60210	ui.TxtOnlineLevel3	1804056	60210	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_2/Multi_AssaultOps_60210							100	300							{9}
+60211	DLC3.7进击行动二期普通	6	60211	ui.TxtOnlineLevel3	1804056	60211	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_2/Multi_AssaultOps_60211							100	300							{9}
+60212	DLC3.7进击行动二期困难	6	60212	ui.TxtOnlineLevel3	1804056	60212	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_2/Multi_AssaultOps_60212							100	300							{9}
+60213	DLC3.7进击行动二期困难	6	60213	ui.TxtOnlineLevel3	1804056	60213	10			{{1,2,1,1}}	29		0	0		1									MultiTask/RandomTest/AssaultOps_2/Multi_AssaultOps_60213							100	300							{9}

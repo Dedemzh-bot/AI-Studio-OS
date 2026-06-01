@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	唔……唉……	唔……唉……	うーん……はぁ……	으… 윽…	Ah... ugh...						0	
+page1.2	啊！这实在没办法选啊！	啊！這實在沒辦法選啊！	ああ！どれにしたらいいの！	아! 이건 고를 수가 없잖아!	Ahhh! It's so hard to decide!						0	
+page1.3	芙提雅老师难得有这么苦恼的表情，发生什么了？	芙提雅老師難得有這麼苦惱的表情，發生什麼事了？	フリティア先生ともあろう者が、そんなに悩んでるなんて珍しいな。どうしたんだ？	프티야 선생님이 모처럼 고민하는 표정을 하다니, 무슨 일인가요?	You don't usually look so troubled, Professor. What's going on?						0	
+page1.4	还不是因为要选礼服的事……	還不是因為要選禮服的事……	ドレスが選べなくて……	드레스 고르는 일이지, 뭐겠어…	It's about choosing a dress...						0	
+page1.5	参加宴会的服装到现在还没定下来吗？	參加宴會的服裝到現在還沒定下來嗎？	パーティーに着ていく服がまだ決まってないのか？	파티에 참석할 의상을 아직도 못 정했어?	You haven't decided on your outfit for the banquet yet?						0	
+page1.6	嗯……	嗯……	うん……	응…	Right...						0	
+page1.7	芙提雅老师设计了一套评分系统，给备选的礼服都评了分。	芙提雅老師設計了一套評分系統，替備選的禮服都評了分數。	評価システムを設計して、候補のドレス全部に点数をつけたんだけど。	프티야 선생님은 채점 시스템을 설계해서 후보 드레스에 점수를 매겼거든.	I designed a scoring system to rank all of the potential dresses.						0	
+page1.8	然而，在这套综合了美观性、便捷度、防御性能的完美评分系统计算下……	然而，在這套綜合了美觀性、便利度、防禦性能的完美評分系統計算下……	でも、この見た目と利便性、防御性能を考慮した完璧な評価システムで計算すると……	하지만 미관, 편의성, 방어 성능을 고려한 완벽한 채점 시스템으로 계산하자면…	But even with this flawless scoring system that includes aesthetics, ease of movement, and self-defense...						0	
+page1.9	每一套礼服的最终得分都很平均。	每一套禮服的最終得分都很平均。	どのドレスも最終スコアが同じになっちゃったの。	드레스마다 최종 평점이 비등비등해.	The final score for each dress was about even.						0	
+page1.10	……用得上这么严谨吗？	……有需要這麼嚴謹嗎？	……そんなに厳密にやる必要があるのか？	…이렇게까지 엄격할 일이야?	...Do you have to be so precise?						0	
+page1.11	当然要严谨！	當然要嚴謹！	そこは譲れないよ！	당연하지!	Of course I do!						0	
+page1.12	如果晚宴上出现了坏人怎么办？如果分析员被抓走了怎么办？	如果晚宴上出現了壞人怎麼辦？如果分析員被抓走了怎麼辦？	もしパーティーに悪者が現れたら？分析員が捕まったらどうするの？	디너 파티에 나쁜 사람이 나타나면 어떡해? 분석가가 잡혀가기라도 하면 어쩔 거야?	What if bad guys show up to the dinner party and I need to fight? What if you get captured and I need to run after you?						0	
+page1.13	所以，芙提雅老师需要考虑到各种可能发生的情况。	所以，芙提雅老師需要考慮到各種可能發生的情況。	だから、フリティア先生はあらゆる可能性を想定する必要があるの。	그래서 프티야 선생님은 발생할 수 있는 모든 상황을 고려해야 한다고.	So I need to consider all the possible scenarios we might be in.						0	
+page1.14	综合所有数据，才能选到最合适的那套！	綜合所有數據，才能選到最適合的那套！	全てのデータを総合して、最適な一着を選ばないと！	모든 데이터를 종합해야 가장 적합한 드레스를 고를 수 있어!	And I need to analyze all the data before selecting the best one!						0	
+page1.15	你的选择困难症真的没救了……	你的選擇困難症真的沒救了……	そういう優柔不断なところはなんとかならないかな……	네 선택 장애에 타당한 핑계를 대지 말라고…	So in other words... you'll never decide?						0	

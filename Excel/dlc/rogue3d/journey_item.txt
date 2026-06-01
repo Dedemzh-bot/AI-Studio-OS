@@ -1,0 +1,11 @@
+ID	备注	道具名称	图标	道具描述	道具标签名称	对应gdpl
+ID	Comment	Name	Icon	Des	TypeName	OthersItemID
+1	思维旁路下·密钥1	rogue3.SeasonItem1	1522001	rogue3.SeasonItem1_des	rogue3.SeasonItem1_use	{4,1,24,2}
+2	思维旁路下·密钥2	rogue3.SeasonItem2	1520080	rogue3.SeasonItem2_des	rogue3.SeasonItem2_use	{4,1,24,3}
+3	思维旁路下·密钥3	rogue3.SeasonItem3	1520081	rogue3.SeasonItem3_des	rogue3.SeasonItem3_use	{4,1,24,4}
+4	思维旁路上·密钥1	rogue3.SeasonItem4	1520082	rogue3.SeasonItem4_des	rogue3.SeasonItem4_use	{4,1,24,5}
+5	思维旁路上·密钥2	rogue3.SeasonItem5	1520083	rogue3.SeasonItem5_des	rogue3.SeasonItem5_use	{4,1,24,6}
+6	思维旁路上·密钥3	rogue3.SeasonItem6	1520084	rogue3.SeasonItem6_des	rogue3.SeasonItem6_use	{4,1,24,7}
+7	急救箱	rogue3.SeasonItem7	1520086	rogue3.SeasonItem7_des	rogue3.SeasonItem7_use	{4,1,24,8}
+8	坐标定位器	rogue3.SeasonItem8	1520085	rogue3.SeasonItem8_des	rogue3.SeasonItem8_use	{4,1,24,9}
+9	通讯装置	rogue3.SeasonItem9	1520087	rogue3.SeasonItem9_des	rogue3.SeasonItem9_use	{4,1,24,10}

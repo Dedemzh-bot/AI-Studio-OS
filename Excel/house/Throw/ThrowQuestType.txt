@@ -1,0 +1,5 @@
+﻿任务条件ID	//备注	任务介绍	函数名	参数1
+ID	des	Describe	FuncName	Param1
+1	成功制作任意%d款甜品	achievement.Throw_StratTargetDes1	StarOne	1
+2	在不使用“时间冰镇”特技的情况下，成功制作任意%d款甜品	achievement.Throw_StratTargetDes2	StarTwo	1
+3	成功制作任意%d款甜品，且该甜品为少女点单的甜品	achievement.Throw_StratTargetDes3	StarThree	1

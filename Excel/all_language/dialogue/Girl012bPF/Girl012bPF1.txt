@@ -1,0 +1,131 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	猫猫温情提示：	貓貓溫情提示：	ネコちゃんより：	냥이의 알림 사항:	Friendly Reminder From Mauxir:						0	猫汐尔莲驱个人故事
+2	为了获得更好的体验，游玩该个人故事前，推荐分析员优先观看《镜中烬火》剧情。	為了獲得更好的體驗，遊玩該個人故事前，推薦分析員優先觀看《鏡中燼火》劇情。	このエピソードを始める前に、まず『鏡の焔』のストーリーを読んでほしいニャン。	더 나은 체험을 위해 해당 개인 스토리를 즐기기 전에 먼저 '거울 속 불씨' 스토리를 시청할 것을 추천해 드립니다.	For an optimal experience, you are encouraged to complete the "Reflection of Valor" main story before playing this Personal File.						0	猫汐尔莲驱个人故事
+3	很久很久以前，森林中有一座小小的木屋，外面爬满了翠绿的藤蔓。	很久很久以前，森林中有一座小小的木屋，外面爬滿了翠綠的藤蔓。	むかしむかし、森の中に木の小屋があり、外側は鮮やかな緑のツタで覆われていた。	아주 오래전, 숲속에는 초록색 덩굴로 가득 뒤덮인 작은 오두막이 있었다.	Once upon a time, deep in the forest stood a wooden cottage, its walls covered in lush green vines.						0	猫汐尔莲驱个人故事
+4	里面，生活着两只总是依偎在一起，暖呼呼的小猫。	裡面，生活著兩隻總是依偎在一起，暖呼呼的小貓。	その中には、いつも寄り添って暮らす、ぽかぽかと温かい二匹の子ネコがいた。	그 안에는 서로 의지하며 다정하게 지내는 작은 고양이 두 마리가 살고 있었다.	Inside lived two little cats who were always curled up together, snug and purring.						0	猫汐尔莲驱个人故事
+5	一只，是有着灰色毛发，脸蛋酷酷的，但是爪子却很温暖的小灰猫。	一隻，是有著灰色毛髮，臉蛋酷酷的，但是爪子卻很溫暖的小灰貓。	一匹は灰色の毛並みで、顔つきはクールだが、手がとても温かい子ネコ。	한 마리는 표정은 차갑지만 발바닥만큼은 따뜻한 작은 회색 고양이였다.	One was gray, with cool features, but the warmest paws you could ever imagine.						0	猫汐尔莲驱个人故事
+6	另一只，则是被月亮施与了魔法与灵魂，浑身软乎乎的玩偶猫。	另一隻，則是被月亮施與了魔法與靈魂，渾身軟乎乎的玩偶貓。	もう一匹は、月の魔法と魂を授けられた、全身がふわふわのぬいぐるみネコだった。	다른 한 마리는 달에게서 마법과 영혼을 받아 온몸이 보드라운 인형 고양이였다.	The other was a soft, plush doll cat, given magic and a soul by the moon itself.						0	猫汐尔莲驱个人故事
+7	过去因为没有痛觉，玩偶猫总是一只猫跑去各种危险的地方玩耍。	過去因為沒有痛覺，玩偶貓總是一隻貓跑去各種危險的地方玩耍。	痛みを感じないせいで、かつてぬいぐるみネコはいつもひとりで危険な場所へ遊びに行っていた。	과거에는 통증을 느끼지 못했기에, 인형 고양이는 혼자서 온갖 위험한 곳에 가서 놀곤 했다.	But lacking any sense of pain, the doll cat would often run off alone to play in all sorts of dangerous places.						0	猫汐尔莲驱个人故事
+8	从高高的房檐跳下，穿过尖尖的碎玻璃……	從高高的屋簷跳下，穿過尖尖的碎玻璃……	高い軒先から飛び降りたり、鋭く割れたガラスを通り抜けたり……	높은 처마에서 뛰어내리고, 날카로운 유리 파편 사이를 지나다니고…	Jumping from high rooftops, dashing through sharp broken glass...						0	猫汐尔莲驱个人故事
+9	她不懂得害怕，也因此一直没有伙伴。	她不懂得害怕，也因此一直沒有夥伴。	彼女は怖さを知らず、そのせいでずっと仲間もいなかった。	두려움을 몰랐기에 친구도 없었다.	Her reckless nature tended to make other cats keep their distance.						0	猫汐尔莲驱个人故事
+10	直到，小灰猫的出现改变了一切。	直到，小灰貓的出現改變了一切。	そんな彼女の全てを変えたのは、灰色の子ネコだった。	그러다 등장한 작은 회색 고양이가 모든 것을 바꿔놓았다.	Until that gray cat appeared.						0	猫汐尔莲驱个人故事
+11	他总是守着她，当遇到危险时，就会用那只暖烘烘的爪子搂住她。	他總是守著她，當遇到危險時，就會用那隻暖烘烘的爪子摟住她。	彼はいつもそばで見守り、危険が迫ればその温かい手で抱き寄せてくれる。	그는 항상 그녀를 지켜주었고, 위험할 때면 언제나 따뜻한 발로 그녀를 감싸안았다.	He was always by her side. When danger was near, he would wrap her up with those warm paws of his.						0	猫汐尔莲驱个人故事
+12	“会受伤的！”	「會受傷的！」	「ケガしちゃうよ！」	"그러다 다쳐!"	"You'll get hurt!"						0	猫汐尔莲驱个人故事
+13	每到这时，玩偶猫就会眨巴眨巴那对纽扣眼睛。	每到這時，玩偶貓就會眨眨那對像鈕釦的眼睛。	ぬいぐるみネコはボタンの目をぱちぱちと瞬かせる。	그럴 때마다 인형 고양이는 단추 눈을 깜빡거렸다.	Every time the doll cat heard this, she would just blink her round eyes.						0	猫汐尔莲驱个人故事
+14	虽然她不懂得什么叫作“受伤”，但是她的心还是渐渐感受到了温暖。	雖然她不懂得什麼叫作「受傷」，但是她的心還是漸漸感受到了溫暖。	彼女は「ケガ」というものが何なのか理解していなかったが、心の奥では温もりを感じ始めていた。	 '다친다'는 게 무엇인지는 이해할 수 없었지만, 그녀의 마음은 점점 따뜻함을 느끼기 시작했다.	Though she didn't understand what "hurt" felt like, she did feel warmth creeping over her.						0	猫汐尔莲驱个人故事
+15	而在一场席卷木屋的深夜大火中，正是小灰猫毅然背起她，冲破烈焰。	而在一場席捲木屋的深夜大火中，正是小灰貓毅然背起她，衝破烈焰。	ある深夜、木の小屋をのみ込む火災の中、灰色の子ネコは彼女を背負い、炎を突き破って駆け抜けた。	그리고 어느 깊은 밤 오두막을 집어삼킨 화재에서, 작은 회색 고양이는 주저 없이 그녀를 업고 불길을 뚫고 나왔다.	One night, the wooden cottage caught fire. The gray cat carried her on his back and broke through the flames without hesitation.						0	猫汐尔莲驱个人故事
+16	自此，两只小猫便成了一对相亲相爱的猫猫伴侣。	自此，兩隻小貓便成了一對相親相愛的貓貓伴侶。	それ以来、二匹は仲良しになった。	그때부터 그 두 마리의 고양이는 서로 사랑하는 연인이 되었다.	From that moment on, the two cats became inseparably in love.						0	猫汐尔莲驱个人故事
+17	在小灰猫的陪伴下，玩偶猫渐渐驱散了孤独。	在小灰貓的陪伴下，玩偶貓漸漸驅散了孤獨。	灰色の子ネコと一緒に過ごすうち、ぬいぐるみネコは少しずつ孤独を追い払っていった。	작은 회색 고양이 곁에서 인형 고양이는 점차 외로움을 떨쳐냈다.	With the gray cat beside her, the doll cat gradually drove away her loneliness.						0	猫汐尔莲驱个人故事
+18	虽然玩偶猫依旧不知晓疼痛为何物，但在小灰猫的注目下，她也学会了轻轻走路。	雖然玩偶貓依舊不知道疼痛是什麼，但在小灰貓的注目下，她也學會了輕輕走路。	ぬいぐるみネコは今も痛みを知らなかったが、彼に見守られながら、そっと歩くことを覚えた。	인형 고양이는 여전히 아픔을 몰랐지만, 작은 회색 고양이의 보살핌 아래 살금살금 걷는 법을 배웠다.	She still didn't understand pain — but under his watchful gaze, she began to tread more carefully.						0	猫汐尔莲驱个人故事
+19	尽管她的皮肤无法感知疼痛，但至少，能清晰地感知到从小灰猫身上传来的暖意。	儘管她的皮膚無法感知疼痛，但至少，能清晰地感知到從小灰貓身上傳來的暖意。	たとえ皮膚に痛みを感じなくても、灰色の子ネコから伝わる温もりははっきりとわかった。	비록 그녀의 피부는 고통을 느낄 수 없었지만, 적어도 작은 회색 고양이에게서 전해지는 따뜻함만큼은 선명하게 느낄 수 있었다.	She couldn't feel pain, but at least she could clearly feel the warmth radiating from him.						0	猫汐尔莲驱个人故事
+20	她不想再因为自己的缘故，让小灰猫的那双眼睛里再浮现出任何担忧了。	她不想再因為自己的緣故，讓小灰貓的那雙眼中再浮現出任何擔憂了。	もう自分のせいで、彼の瞳にあの心配の色を浮かばせたくなかった。	그녀는 더 이상 자신 때문에 작은 회색 고양이의 눈에 걱정이 자리 잡는 것을 보고 싶지 않았다.	And she didn't want that worried look to ever appear in his eyes again because of her.						0	猫汐尔莲驱个人故事
+21	而也正因如此……	而也正因如此……	だからこそ……	그리고 바로 그 때문에…	For that reason...						0	猫汐尔莲驱个人故事
+22	在一个月圆的晚上。	在一個月圓的晚上。	ある満月の夜。	보름달이 뜬 어느 날 밤.	On the night of a full moon.						0	猫汐尔莲驱个人故事
+23	玩偶猫悄悄爬上屋顶。	玩偶貓悄悄爬上屋頂。	ぬいぐるみネコはそっと屋根に登り、	인형 고양이는 조용히 지붕 위로 올라갔다.	The doll cat quietly climbed onto the roof.						0	猫汐尔莲驱个人故事
+24	她向着天上那轮圆满的、曾赋予她生命的月亮。	她向著天上那輪圓滿的、曾賦予她生命的月亮。	自分に命を授けた、空に浮かぶ満月へ向かって——	그리고 자신에게 생명을 준 그 둥근 보름달을 향해,	Looking at the moon, the very one that had given her life.						0	猫汐尔莲驱个人故事
+25	虔诚地许下心愿。	虔誠地許下心願。	願いを捧げた。	정성껏 소원을 빌었다.	She made a sincere wish.						0	猫汐尔莲驱个人故事
+26	“请让我……成为一只真正的猫咪吧。”	「請讓我……成為一隻真正的貓咪吧。」	「私を……本当の猫にしてください。」	"제발 저를… 진짜 고양이로 만들어 주세요."	"Please... let me become a real kitten."						0	猫汐尔莲驱个人故事
+27	“我想要……”	「我想要……」	「私は……」	"저는…"	"I want..."						0	猫汐尔莲驱个人故事
+28	“去真实地感受世界——不仅是那些美好的瞬间……也包括疼痛的滋味……”	「去真實地感受世界——不僅是那些美好的瞬間……也包括疼痛的滋味……」	「この世界をもっと感じたい——幸せな瞬間だけじゃなく……痛みも……」	"진실한 세상을 느끼고 싶어요… 아름다운 순간들은 물론…고통까지도요…"	"To feel this world. Not just the beautiful moments... but the pain that comes with it too."						0	猫汐尔莲驱个人故事
+29	唔……脖子后面酸酸的……	唔……脖子後面酸酸的……	ん……首の後ろがじんわり痛い……	으… 뒷목이 뻐근하다…	Mm... My neck is getting stiff...						0	猫汐尔莲驱个人故事
+30	今天先写到这里吧……剩下的，就去梦里写好了喵。	今天先寫到這裡吧……剩下的，就去夢裡寫好了喵。	今日はここまでにしておこう……残りは、夢の中で書くことにするのニャン。	오늘은 여기까지… 나머지는 꿈속에서 쓰면 된다냥.	I'll stop here for tonight. The rest... I'll finish it in my dreams, nya.						0	猫汐尔莲驱个人故事
+31	深夜，窗外寒风肆意，这几日正是耶洛沙最冷的时日。	深夜，窗外寒風肆意，這幾天正是耶洛沙最冷的時候。	深夜、窓の外で冷たい風が吹き荒れる。今はイェロシャでもっとも寒い時期だった。	깊은 밤, 창밖에선 찬바람이 거세게 불었다. 마침 지금은 옐로샤에서 가장 추운 시기였다.	Late at night, the cold wind howled outside. This time of year was the coldest in Yehrus.						0	猫汐尔莲驱个人故事
+32	好在，这座远离疗养院的前哨站内，供暖与供电系统尚未受到之前那场大战的波及。	幸好，這座遠離療養院的前哨站內，供暖與供電系統尚未受到之前那場大戰的波及。	幸い、療養院から離れたこの前哨基地では、暖房も電力も、先日のあの大戦の影響を受けていなかった。	다행히도, 요양원에서 멀리 떨어진 이 전초기지의 난방과 전력 시스템은 전투의 영향을 받지 않았다.	Fortunately, the heating and electricity in this outpost were still working, unaffected by the recent battle at the Federal Sanatorium far away.						0	猫汐尔莲驱个人故事
+33	哈——	哈欠——	はぁ——	하…	*yawn—*						0	猫汐尔莲驱个人故事
+35	喵喵喵……睡觉前要先刷牙……刷牙前要先喝热牛奶喵……	喵喵喵……睡覺前要先刷牙……刷牙前要先喝熱牛奶喵……	にゃにゃにゃ……寝る前に歯みがき……その前に温かいミルクを飲むのニャン……	냥냥냥… 자기 전에 양치를 해야 해… 양치 전에는 따뜻한 우유를 마셔야 한다냥…	Nya... Need to brush my teeth before bed, nya... And drink my warm milk before brushing my teeth, nya...						0	猫汐尔莲驱个人故事
+36	唔……分析员的热牛奶喵……不对……是分析员给我热好的牛奶……	唔……分析員的熱牛奶喵……不對……是分析員幫我熱好的牛奶……	ん……分析員の温かいミルク……じゃなくて……分析員が温めてくれたミルク……	으음… 분석가의 따뜻한 우유냥… 아니… 분석가가 데워준 우유…	Mm... The Adjutant's warm milk, nya... No, I mean... it's the milk the Adjutant warmed for me...						0	猫汐尔莲驱个人故事
+37	猫汐尔一边胡言乱语，一边晕乎乎地将手伸向了手边盖着盖子的保温杯。	貓汐爾一邊胡言亂語，一邊暈暈地將手伸向了手邊蓋著蓋子的保溫杯。	マーシルはうわごとのように呟きながら、ぼんやりとフタの付いた保温カップに手を伸ばした。	캣 시에라는 횡설수설하며 멍하니 손을 뻗어 곁에 있는 뚜껑 달린 보온병을 잡았다.	Half-mumbling, half-asleep, Mauxir reached for the lidded thermos beside her.						0	猫汐尔莲驱个人故事
+38	扭扭喵……扭扭喵……揉揉喵搓搓喵……	扭扭喵……扭扭喵……揉揉喵搓搓喵……	ぐるぐる……ぐるぐるニャ……もみもみこすこすニャ……	쪼물냥… 쪼물냥… 부비적 문질문질냥…	Twist, nya... Twist, nya... Rub rub rub, nya.						0	猫汐尔莲驱个人故事
+41	……	……	……	……	...						0	猫汐尔莲驱个人故事
+42	唔……好想直接钻进分析员的被窝喵。	唔……好想直接鑽進分析員的被窩喵。	ん……このまま分析員の布団に潜り込みたいニャン。	음… 그냥 분석가 이불 속으로 들어가고 싶다냥.	Mmm... I just want to crawl straight into the Adjutant's bed, nya...						0	猫汐尔莲驱个人故事
+43	刷牙的话……明天早上刷也行……	刷牙的話……明天早上刷也行……	歯みがきは……明日の朝にしてもいいニャン……	양치질은… 내일 아침에 해도 되는데…	As for brushing my teeth... Well, I can do that in the morning...						0	猫汐尔莲驱个人故事
+44	但是……分析员特意给我热的牛奶……必须抓紧趁热喝掉……	但是……分析員特地幫我熱的牛奶……必須趕快趁熱喝掉……	でも……分析員が温めてくれたミルク……熱いうちに飲まないと……	분석가가 특별히 데워준 우유는……따뜻할 때 빨리 마셔야 해…	But... the milk the Adjutant warmed for me... I have to drink it now before it gets cold...						0	猫汐尔莲驱个人故事
+45	分析员……我要开动了喵……	分析員……我要開動了喵……	分析員……いただきますニャン……	분석가… 잘 먹겠다냥…	Adjutant... I'm ready, nya...						0	猫汐尔莲驱个人故事
+46	就这样，伴随着“啵”的一声闷响。靠着莫名的使命感，猫汐尔强撑着困意，顺利地扭开了保温杯的盖子……	就這樣，伴隨著「啵」的一聲悶響。靠著莫名的使命感，貓汐爾強撐著睏意，順利地扭開了保溫杯的蓋子……	そうして、「ぽん」と音が響いた。使命感に突き動かされて、マーシルは眠気をこらえながら保温カップのフタをなんとか開けた……	 '뽁' 하는 둔탁한 소리가 났다. 캣 시에라는 묘한 사명감에 졸음을 억지로 참아가며 보온병 뚜껑을 열었다…	With a soft pop, and powered by a strange sense of duty, Mauxir, fighting the heavy drowsiness, twisted open the lid...						0	猫汐尔莲驱个人故事
+47	然而——	然而——	しかし——	그런데…	However...						0	猫汐尔莲驱个人故事
+48	唔喵——	唔喵——	フニャ！	으냥!	Ow, nya—						0	猫汐尔莲驱个人故事
+49	就在少女娇嫩的舌尖触到牛奶的刹那，她像触电般猛地弹起身。	就在少女嬌嫩的舌尖觸碰到牛奶的剎那，她像觸電般猛地彈起身。	柔らかな舌先がミルクに触れたその瞬間、まるで電撃に打たれたように勢いよく跳ね上がった。	소녀의 연약한 혀끝이 우유에 닿는 순간, 그녀는 감전된 듯 벌떡 몸을 일으켰다.	But the moment the hot milk touched her soft tongue, she jolted upright like she'd been shocked.						0	猫汐尔莲驱个人故事
+50	好烫，好烫喵……	好燙、好燙喵……	あつっ、あついニャ……	뜨거워, 뜨겁다냥……	Hot hot hot, nya!						0	猫汐尔莲驱个人故事
+51	她吐着小舌头，用手不停扇风，刚刚积蓄的睡意顷刻间消散无踪。	她吐著小舌頭，用手不停扇風，剛剛積蓄的睡意瞬間消失無蹤。	彼女は舌をぺろっと出しながら手でぱたぱた扇ぐ。さっきまでの眠気は一瞬でどこかへ消えてしまった。	그녀는 작은 혀를 내밀고 손으로 계속 부채질을 해댔다. 방금까지 쌓여 있던 졸음이 순식간에 달아나 버렸다.	Sticking her tongue out, she fanned it frantically with her hand, all sleepiness instantly gone.						0	猫汐尔莲驱个人故事
+52	呜喵，这具身体还真是脆弱呢……	嗚喵，這具身體還真是脆弱呢……	本当に脆い体ニャン……	으냥, 이 몸은 정말 연약하구나…	Ow, nya, this body really is fragile...						0	猫汐尔莲驱个人故事
+53	要是以前的话……	要是以前的話……	昔だったら……	예전 같았으면…	If only I could go back...						0	猫汐尔莲驱个人故事
+54	回想起以前，少女却又突然愣住。	回想起以前，少女卻又突然愣住。	昔のことを思い返して、少女はふと動きを止めた。	과거를 떠올리던 소녀는 갑자기 멈칫했다.	She paused at the thought.						0	猫汐尔莲驱个人故事
+55	是啊，若是从前，她根本不知疼痛为何物。	是啊，若是從前，她根本不知疼痛是什麼感覺。	そうだ、以前なら、そもそも痛みなんて知らなかった。	그렇다, 예전이었다면 그녀는 고통이 무엇인지조차 몰랐을 것이다.	Yes, back then, she couldn't feel pain at all.						0	猫汐尔莲驱个人故事
+56	可自从与分析员确定了关系，她早已学会了主动避开危险。	但自從與分析員確定了關係，她早已學會了主動避開危險。	だが、分析員と付き合うようになってからは、彼女は自分から危険を避けるようになっていた。	하지만 분석가와 관계를 확실히 한 이후, 그녀는 일찍이 위험을 능동적으로 피하는 법을 배웠다.	But ever since she had established a relationship with the Adjutant, she had learned to avoid danger.						0	猫汐尔莲驱个人故事
+57	我的直觉……是不是变迟钝了喵？	我的直覺……是不是變遲鈍了喵？	私の勘が……鈍っちゃったニャン？	내 직감이… 둔해진 건가냥?	Are my senses... getting dull, nya...?						0	猫汐尔莲驱个人故事
+58	她轻轻碰了碰依然发红的舌尖，伴随着微微刺痛，心底的困惑悄然浮现。	她輕輕碰了碰依然發紅的舌尖，伴隨著微微刺痛，心底的困惑悄然浮現。	赤くなった舌先にそっと触れると、かすかな痛みとともに、心の奥底から小さな戸惑いが浮かび上がった。	그녀가 여전히 빨갛게 물든 혀끝을 살짝 건드리자, 미세한 따끔거림과 함께 마음속에서 혼란이 조용히 떠올랐다.	She lightly poked her reddened tongue. A faint sting... and a quiet swirl of confusion in her chest.						0	猫汐尔莲驱个人故事
+59	少女即便理解了疼痛的保护机制，但偶尔仍会感到困扰。	少女即便理解了疼痛的保護機制，但偶爾仍會感到困擾。	痛覚のメカニズムは理解しているものの、それでも時折、戸惑ってしまうことがあった。	소녀는 고통의 보호 메커니즘을 이해하고 있었지만, 여전히 곤혹스러움을 느낄 때가 있었다.	Even though she understood pain was meant to protect her, it still troubled her at times.						0	猫汐尔莲驱个人故事
+60	毕竟这种感受如此强烈，有时甚至干扰了她的专注……	畢竟這種感受如此強烈，有時甚至干擾了她的專注……	この感覚はあまりにも強烈で、ときには集中力すら奪ってしまうほどで……	이렇게 강렬한 감각이 때로는 심지어 그녀가 집중하는 것을 방해하곤 했으니까…	It was so intense that sometimes it even messed with her concentration...						0	猫汐尔莲驱个人故事
+61	……	……	……	……	...						0	猫汐尔莲驱个人故事
+b-1											0	
+62	揉揉猫猫脑袋	揉揉貓貓腦袋	頭をなでる	냥이의 머리를 쓰다듬는다	Ruffle her hair						0	猫汐尔莲驱个人故事
+63	唔喵！分析员什么时候醒的？！	唔喵！分析員什麼時候醒的？！	フニャ！分析員、いつ起きたの！？	으냥! 분석가, 언제 깬 거야?!	Mmm, nya! Wh—When did you wake up?						0	猫汐尔莲驱个人故事
+64	嗯，让我想想……啊，大概是从那声"喵"开始就醒了吧。	嗯，讓我想想……啊，大概是從那聲「喵」開始就醒了吧。	そうだな……「ニャン」って声が聞こえたあたりで目が覚めたよ。	음, 그게… 아, 아마 그 '냥' 소리부터 깬 것 같아.	Hmm... Let me think... Ah, probably since the moment you said "nya."						0	猫汐尔莲驱个人故事
+65	对不起喵……把分析员吵醒了。	對不起喵……把分析員吵醒了。	ごめんなさいニャン……分析員を起こしちゃって。	미안하다냥… 분석가를 깨워버렸네.	Sorry I woke you up... nya...						0	猫汐尔莲驱个人故事
+66	少女低下头，语气里带着真诚的歉意。	少女低下頭，語氣裡帶著真誠的歉意。	少女はうつむき、その声には真摯な謝意がにじんでいた。	소녀는 고개를 숙이고 진심이 느껴지는 말투로 사과했다.	The girl spoke in a sincerely apologetic tone, then lowered her head.						0	猫汐尔莲驱个人故事
+67	……反差感，通常情况下，她不是应该再和我多说两句不着边际的俏皮话吗？	……反差感，正常情況下，她不是應該再跟我多說兩句文不對題的俏皮話嗎？	……いつもなら、もっと取り留めのない軽口を二、三言返してくるはずなのに。	… 반전이었다. 평소 같았으면 그녀는 농담을 두어 마디 더 나눴을 텐데?	...Which wasn't like her at all. Normally she would've followed up with a few more playful lines.						0	
+68	比如"分析员说的是哪一声喵喵？"	例如「分析員說的是哪一聲喵喵？」	たとえば「どのニャンのこと？」とか。	예를 들면 "분석가가 말하는 건 어느 냥냥 소리인데?"	Like, "Which 'nya' was the one that woke you up, Adjutant?"						0	
+69	但此刻的她，实在显得过分乖巧了。	但此刻的她，實在是顯得太乖巧了。	今の彼女は、あまりにもお行儀が良すぎる。	하지만 지금의 그녀는 지나치게 순순했다.	But right now, she was being uncharacteristically well-behaved.						0	
+70	猫汐尔双手规规矩矩放在腿上，坐得端端正正，却隐隐透出几分落寞。看着她这个样子，我更加确信了——	貓汐爾雙手規規矩矩放在腿上，坐得端端正正，卻隱隱透出幾分落寞。看著她這個樣子，我更加確信了——	マーシルは両手をひざの上に揃え、背筋をぴんと伸ばして座っているのに、どこか寂しげな影が差していた。そんな彼女の様子を見て、私はますます確信を深めた——	두 손을 무릎 위에 가지런히 올리고 단정하게 앉아 있는 캣 시에라에게서 은근한 쓸쓸함이 느껴졌다. 그리고 그녀의 그런 모습에 나는 더욱 확신했다.	Mauxir just sat there, hands neatly on her lap, posture polite but tinged with sadness. This only confirmed what I suspected...						0	
+71	她确实藏着心事……果然，还是因为疼痛恢复了之后还不适应的缘故吧。	她確實藏著心事……果然，還是因為疼痛恢復了之後還不適應的緣故吧。	やっぱり、彼女は何かを抱え込んでいる……痛覚が戻ったことにまだ慣れていないのが原因なのだろう。	그녀는 무언가 마음에 걸리는 게 분명했다… 역시, 통증을 느끼게 된 뒤로 아직 적응하지 못한 탓일 것이다.	She was hiding something. It must've been because she still wasn't used to feeling pain.						0	
+72	舌头，被烫到了吗？	舌頭，被燙到了嗎？	舌……やけどしたのか？	혀를 데었어?	You burned your tongue?						0	
+73	嗯喵……	嗯喵……	ウニャ……	으냥…	Mm-hmm...						0	
+74	抱歉，早知道就先凉一凉再放进保温杯里了……	抱歉，早知道就先放涼一下再倒進保溫杯裡了……	ごめん、冷ましてから保温カップに入れるべきだったな……	미안해, 미리 식힌 다음에 보온병에 담을 걸 그랬네…	Sorry. I should've let it cool before putting it in the thermos...						0	
+75	不是分析员的错，是我自己着急想喝分析员的牛奶喵……	不是分析員的錯，是我自己急著想喝分析員的牛奶喵……	分析員のせいじゃないニャン、私が早く分析員のミルクを飲みたくて焦っただけニャン……	분석가의 잘못이 아니야. 내가 얼른 분석가의 우유를 마시려다 그런 거다냥…	It's not your fault, Adjutant. I was just in a hurry to drink the milk you made for me, nya...						0	
+76	猫汐尔鼓起脸颊，一脸认真地说道。	貓汐爾鼓起臉頰，一臉認真地說道。	マーシルはほっぺを膨らませ、真剣な顔で言った。	캣 시에라가 볼을 부풀리며 진지한 표정으로 말했다.	Mauxir puffed her cheeks, looking serious.						0	
+77	所以，该道歉的是我喵。	所以，該道歉的是我喵。	だから、謝るのは私のほうニャン。	그러니까, 사과해야 할 사람은 나다냥.	So I'm the one who should apologize, nya.						0	
+78	在莫名其妙的地方较真也是猫汐尔跳脱而又可爱的地方。	在莫名其妙的地方較真也是貓汐爾跳脫而又可愛的地方。	変なところで頑固になるのも、マーシルの可愛いところだ。	엉뚱한 곳에서 진지해지는 것도 캣 시에라의 통통 튀는 귀여운 면이다.	Only Mauxir would get stubborn about something like this in such a strangely cute way.						0	
+79	见状我只得无奈地笑了笑，然后拍了拍她的小小脑袋。	見狀我只好無奈地笑了笑，然後拍拍她小小的腦袋。	その様子に私は思わず苦笑し、そっと頭を撫でた。	나는 어쩔 수 없이 웃으며 그녀의 작은 머리를 쓰다듬었다.	I sighed and patted her small head with a smile.						0	
+80	好好好，那我接受猫猫的道歉。	好好好，那我接受貓貓的道歉。	はいはい、許すよ。	알았어 알았어, 그럼 냥이의 사과를 받아줄게.	Alright, alright. I accept it.						0	
+81	哼喵~	哼喵~	ふふん！	흥이다냥~	Hmph, nya~						0	
+82	少女双手叉腰，从那小小的鼻腔中发出了可爱的呼声。	少女雙手叉腰，從那小小的鼻腔中發出了可愛的呼聲。	少女は腰に両手を当て、鼻から可愛らしい声を漏らした。	양손을 허리에 올린 소녀는 작은 콧구멍에서 귀여운 소리를 냈다.	The girl put her hands on her hips and let out an adorable huff from her tiny nose.						0	
+83	怎么又突然得意起来了……	怎麼又突然得意起來了……	どうして急に得意げになるんだ……	왜 또 갑자기 의기양양해진 거지…	Now she looked all pleased with herself...						0	
+84	不过好在，看上去总算是恢复了一点往日的精神了。	不過好在，看上去總算是恢復了一點往日的精神了。	でもいつもの元気が戻ってきたみたいで、とにかく安心した。	하지만 다행히도, 평소의 생기를 조금은 되찾은 것 같았다.	At least her usual spirit was coming back a bit.						0	
+85	……	……	……	……	...						0	
+86	但果然，还是处理一下比较好……	但果然，還是處理一下比較好……	とはいえ、やっぱり処理しておいたほうがよさそうだな……	하지만 그래도 너무 기대하지 않는 게 좋을 것이다…	Still, better to treat it...						0	
+87	稍等一下。	稍等一下。	ちょっと待って。	조금만 기다려.	Just a moment.						0	
+88	分析员？	分析員？	分析員？	분석가?	Adjutant?						0	
+89	我起身走向身后的桌台，然后接了一杯冰水。	我起身走向身後的桌台，然後裝了一杯冰水。	私は立ち上がって背後のテーブルへ向かい、グラスに氷水を注いだ。	나는 자리에서 일어나 뒤쪽 테이블로 가서 얼음물을 한 잔 받았다.	I went to the counter and poured a cup of cold water.						0	
+90	来张嘴。	來張嘴。	ほら、口を開けて。	입 벌려봐.	Open your mouth.						0	
+91	哎？现在吗……但是我刚刚已经喝了那么多分析员的牛奶，现在已经喝不下更多的……	欸？現在嗎……但是我剛剛已經喝了那麼多分析員的牛奶，現在已經喝不下更多的……	え、今？……さっき分析員のミルクをたくさん飲んだばかりで、もうこれ以上は……	에? 지금…? 하지만 방금 분석가의 우유를 많이 마셔서, 이제 더 이상은 못 마실 것 같은데…	Eh? Right now? But I just drank so much of the Adjutant's milk... I don't think I can drink any more...						0	
+92	我说你啊……	我說你啊……	まったく君は……	너 정말…	You...						0	
+b-2											0	
+96	轻敲猫猫头	輕敲貓貓頭	頭を小突く	냥이의 머리를 톡톡 두드린다	Tap her on the head						0	猫汐尔莲驱个人故事
+97	唔喵——	唔喵——	フニャ！	으냥!	Ngh, nya...						0	猫汐尔莲驱个人故事
+98	毫无疑问，此时此刻正和我打趣的猫汐尔的精神已经完全恢复过来了。	毫無疑問，此時此刻正和我打趣的貓汐爾的精神已經完全恢復過來了。	こうして私と軽口を叩けるマーシルは、すっかり元気を取り戻したようだ。	의심할 여지 없이, 지금 나와 농담을 주고받고 있는 캣 시에라의 컨디션은 완전히 회복된 것 같았다.	Without a doubt, Mauxir teasing me now was completely back to her old self.						0	猫汐尔莲驱个人故事
+99	乖乖张嘴，我看看你舌头。	乖乖張嘴，我看看你舌頭。	ほら、口を開けて、舌を見せて。	얌전히 입 벌려, 혀 좀 볼게.	Now, open up. Let me take a look.						0	猫汐尔莲驱个人故事
+100	我知道了喵……	我知道了喵……	わかったニャン……	알았다냥…	Okay, nya...						0	猫汐尔莲驱个人故事
+101	啊——	啊——	あ——	아~	Ahhh~						0	
+102	我轻轻托住她软呼呼的下巴，猫汐尔顺从地扬起脸，双唇分开，呼出带着奶香的温热气息。	我輕輕托住她軟呼呼的下巴，貓汐爾順從地揚起臉，雙唇分開，呼出帶著奶香的溫熱氣息。	柔らかい顎を持ち上げると、マーシルは素直に顔を上げ、唇を開き、ミルクの香りを含んだ温かな吐息をこぼした。	내가 그녀의 보드라운 턱을 살짝 받치자, 캣 시에라는 순순히 얼굴을 들어 올리며 입을 벌렸다. 우유 향이 섞인 따뜻한 숨결이 새어 나왔다.	I gently lifted her soft chin. Mauxir tilted her face up, lips parting, warm breath drifting out with a hint of milk.						0	猫汐尔莲驱个人故事
+103	房间昏暗的光线下，那对小巧的虎牙若隐若现，而温热灵巧的舌头则微微蜷缩着。	房間昏暗的光線下，那對小巧的虎牙若隱若現，而溫熱靈巧的舌頭則微微蜷縮著。	薄暗い部屋の灯りの下、小さな八重歯がちらりと覗き、温かくしなやかな舌はほんのりと丸く縮んでいた。	어두운 조명 아래, 작고 귀여운 송곳니가 살짝 보였고, 따뜻하고 민첩한 혀는 살짝 움츠러들어 있었다.	In the dim room, her tiny canine teeth were just visible, and her warm, flexible tongue curled ever so slightly.						0	猫汐尔莲驱个人故事
+104	不过幸好，只有舌尖处微微翻红。	不過幸好，只有舌尖處微微翻紅。	幸い、赤くなっているのは舌先だけだった。	다행히도, 혀끝만 살짝 빨갛게 부어 있을 뿐이었다.	Fortunately, only the tip of her tongue was slightly burned.						0	猫汐尔莲驱个人故事
+105	fen xi yuan ……	昏……析……員……	ぶん…せき…いん…	분석가…	Ad—ju—tant...						0	猫汐尔莲驱个人故事
+106	kou shui kuai yao liu cu lai le miao ……	口水快要牛出來惹喵……	よだれが…こぼれちゃう…ニャン……	침 나올 것 같다냥…	I'm—gunna—drooool—nya...						0	猫汐尔莲驱个人故事
+107	长时间的仰头张嘴，让一丝晶莹的津液不由自主地从她嘴角滑落。或许是有些难为情，少女的脸颊渐渐染上绯红。	長時間的仰頭張嘴，讓一絲晶瑩的津液不由自主地從她嘴角滑落。或許是有些難為情，少女的臉頰漸漸染上緋紅。	上を向いて口を開け続けたせいで、透明な唾液がひとすじ、彼女の口元からつうっとこぼれ落ちた。少し恥ずかしいのか、少女の頬は徐々に赤みを帯びていく。	오랫동안 고개를 들고 입을 벌리고 있었던 탓에 투명하게 반짝이는 침이 저절로 입가를 타고 흘러내렸다. 부끄러웠는지, 소녀의 볼이 점점 붉게 물들었다.	Her head had been thrown back for so long that a thin line of saliva slipped from the corner of her mouth. Maybe embarrassed, her cheeks flushed pink.						0	猫汐尔莲驱个人故事
+108	见状，我便松手将冰水递到了她手中。	見狀，我便鬆手將冰水遞到了她手中。	それを見て、私は手を離し、氷水の入ったグラスを彼女に手渡した。	나는 손을 놓고 얼음물을 그녀의 손에 건넸다.	I let go and handed her the cold water.						0	猫汐尔莲驱个人故事
+109	……含一会儿。	……含一下子。	……しばらく含んでて。	… 잠깐 물고 있어.	Hold it in your mouth for a bit...						0	猫汐尔莲驱个人故事
+110	wu miao ~~~	唔喵~~~	ウニャ——	으냥~~~	Ngh—nya~						0	猫汐尔莲驱个人故事
+111	可能会有点冰，不过最后等一会儿再吐掉。	可能會有點冰，不過最好等一下再吐掉。	ちょっと冷たいかもしれないけど、少し待ってから吐き出して。	차갑겠지만 조금 더 있다가 뱉어.	It'll be cold, but wait a bit before you spit it.						0	猫汐尔莲驱个人故事
+112	知道了喵。	知道了喵。	わかったニャン。	알았다냥.	Got it, nya.						0	猫汐尔莲驱个人故事
+113	你该不会已经咽下去了吧……	你該不會已经吞下去了吧……	もう飲んだんじゃないだろうな……	설마 벌써 삼킨 거 아니지…?	...You didn't swallow it already, did you?						0	猫汐尔莲驱个人故事
+114	是条件反射喵。	是條件反射喵。	条件反射ニャン。	조건반사다냥.	Reflex, nya.						0	猫汐尔莲驱个人故事
+b-3											0	
+116	轻敲两次猫猫头	輕敲兩次貓貓頭	頭を軽く叩く	냥이의 머리를 톡톡 두 번 두드린다	Tap on her head twice						0	猫汐尔莲驱个人故事
+117	唔喵——	唔喵——	フニャ！	으냥!	Ngh, nya...						0	猫汐尔莲驱个人故事
+118	这次一定要多含一会儿。	這次一定要多含一下。	今度はちゃんと長めに含んでおくこと。	… 이번엔 꼭 물고 있어야 돼.	This time, hold it in your mouth longer.						0	猫汐尔莲驱个人故事
+119	zhu dao le niao ……	豬道了喵……	わかったニャン……	아라따냥…	I—knuw—nya...						0	猫汐尔莲驱个人故事
+120	最终，猫汐尔还是乖乖含住了冰水。	最終，貓汐爾還是乖乖含住了冰水。	マーシルは素直に氷水を含んだ。	결국 캣 시에라는 얌전히 얼음물을 머금었다.	In the end, Mauxir did as I said.						0	猫汐尔莲驱个人故事
+121	并在我的注视下认真刷完牙后才躺回床上。	並在我的注視下認真刷完牙後才躺回床上。	そして私の見守る中、きちんと歯を磨き終えてからベッドに横になった。	그리고 내가 지켜보는 동안 착실하게 양치를 마친 후에야 침대로 돌아갔다.	And I made sure she brushed her teeth before she climbed back into bed.						0	猫汐尔莲驱个人故事
+122	快睡吧，再过四个小时闹钟就要响了。	快睡吧，再過四個小時鬧鐘就要響了。	早く寝なよ。あと四時間でアラームが鳴るからね。	빨리 자, 4시간 후에 알람이 울릴 거야.	Get some sleep. The alarm goes off in four hours.						0	猫汐尔莲驱个人故事
+123	呼噜噜……	呼嚕嚕……	ゴロゴロ……	쿨쿨…	Purrrrrr...						0	猫汐尔莲驱个人故事
+124	已经睡着了吗……	已經睡著了嗎……	もう寝たか……	벌써 잠든 건가…?	Asleep, already...?						0	猫汐尔莲驱个人故事
+125	看着怀中紧紧抓着我衣角的女孩，我不由轻轻笑了笑。	看著懷中緊緊抓著我衣角的女孩，我不由自主輕輕笑了笑。	腕の中で私の服の裾をぎゅっとつかむ女の子を見て、私は思わず微笑んだ。	내 옷깃을 꼭 붙잡고 있는 소녀를 보며, 나는 저절로 미소가 지어졌다.	Watching the girl tightly clutching the hem of my shirt, I couldn't help but smile softly.						0	猫汐尔莲驱个人故事
+126	原本从耶洛沙回到公司后，我们都以为这次任务已经圆满结束。	原本從耶洛沙回到公司後，我們都以為這次任務已經圓滿結束。	イェロシャから会社に戻って、今回の任務は全て終わったと思っていた。	옐로샤에서 회사로 돌아온 후, 우리는 이번 임무가 성공적으로 끝났다고 생각했다.	We had thought the operation was over when we returned from Yehrus.						0	猫汐尔莲驱个人故事
+127	但就在两天前，突然接到通知，北部林区疑似发现了残党的活动据点。	但就在兩天前，突然接到通知，北部林區疑似發現了殘黨的活動據點。	だが二日前、急な知らせが届いた。北部の森林地帯で残党の拠点と思しきものが確認されたそうだ。	하지만 이틀 전, 갑자기 통보가 왔다. 북부 숲에서 잔당의 활동 거점으로 의심되는 곳이 발견되었다는 것이다.	But two days ago, we had gotten notice that what appeared to be a remnant hideout had been spotted in Yehrus' northern forest.						0	猫汐尔莲驱个人故事
+128	这类任务本可由安全部全权处理，但为稳妥起见，我还是决定亲自前来。	這類任務本可由安全部全權處理，但穩妥起見，我還是決定親自前來。	本来なら安全部に任せておけば良いのだが、念のため私も現地に向かうことにした。	이런 임무는 원래 안전부가 전담 처리할 수도 있지만, 완벽히 하기 위해 내가 직접 가기로 했다.	Normally the Security Department would handle this. But to be safe, I had decided to come in person.						0	猫汐尔莲驱个人故事
+129	而猫汐尔，竟是偷偷藏进运输机的货箱里，一路跟了过来。	而貓汐爾，竟是偷偷藏進運輸機的貨箱裡，一路跟了過來。	そしてマーシルは輸送機の貨物区画にこっそり潜り込み、そのままついて来てしまった。	그런데 캣 시에라가 몰래 수송기 화물칸에 숨어들어 여기까지 따라온 것이다.	And Mauxir... had hid herself in the cargo bay of the transport plane and followed me here.						0	猫汐尔莲驱个人故事
+130	这段时间她似乎变得更加黏我了。	這段時間她似乎變得更加黏我了。	このところ、彼女は前より私に甘えるようになった気がする。	요즘 그녀가 더욱 나에게 달라붙는 것 같았다.	She had been a bit clingier lately.						0	猫汐尔莲驱个人故事
+131	我想，一部分是因为她刚刚恢复常人的感官，身体正本能地渴望与我亲近。	我想，一部分是因為她剛剛恢復常人的感官，身體正本能地渴望與我親近。	おそらく、普通の感覚を取り戻したばかりで、身体が本能的に私のぬくもりを求めているのだろう。	아마 이제 막 보통 사람의 감각을 되찾아서, 몸이 본능적으로 나와 가까이 있고 싶어 하는 것 같았다.	Part of it was because she had just regained normal perception of pain — her body naturally sought closeness with me.						0	猫汐尔莲驱个人故事
+132	另一方面，或许和她正在创作的那本绘本有关。	另一方面，或許和她正在創作的那本繪本有關。	もう一つは、彼女が作っている絵本のことが関係しているのかもしれない。	다른 한편으로는, 아마 그녀가 요즘 창작 중인 그림책과 관련이 있을지도.	The other part... probably had to do with the picture book she had been working on.						0	猫汐尔莲驱个人故事
+133	那是以我们的故事为蓝本展开的绘本……	那是以我們的故事為藍本展開的繪本……	私たちの物語をもとにした絵本……	그것은 우리의 이야기를 바탕으로 전개되는 그림책이다…	A picture book inspired by our story...						0	猫汐尔莲驱个人故事

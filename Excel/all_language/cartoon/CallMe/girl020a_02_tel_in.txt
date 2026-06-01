@@ -1,0 +1,47 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+start1.1	大忙人分析员！	大忙人分析員！	大忙しの分析員！	너무나도 바쁘신 분석가!	Busy as ever, huh, Adjutant?						0	
+start1.2	再不接电话……	再不接電話……	これ以上電話に出なかったら……	계속 전화 안 받으면…	If you hadn't picked up,						0	
+start1.3	可要错过今日限定——魔法卜卜了哟。	可要錯過今日限定——魔法卜卜了喲。	本日限定の、マジカルブブに会えなくなっちゃうよ！	오늘의 한정판… 마법 소녀 보보를 놓치고 말 텐데?	you would've missed today's special — Bubu the Mage!						0	
+start1.4	呜哇！	嗚哇！	うわっ！	으앗!	Whoa!						0	
+start1.5	这洋玩意儿难道不是这么用的吗？	這洋玩意兒難道不是這麼用的嗎？	この羽の使い方、間違えてるのかな？	이 외국 물건은, 이렇게 쓰는 게 아닌 건가?	Huh... how does this fancy little thing work?						0	
+start1.6	唔……让卜卜再研究一下，分析员可以过会再挂电话吗？	唔……讓卜卜再研究一下，分析員可以待會再掛電話嗎？	うーん……どれどれ、あっ、分析員、電話まだ切らないでね。	음… 보보가 좀 더 연구해 볼게. 분석가, 조금 더 있다가 끊어도 될까?	Hmm... let me figure this out. Can you stay on the line longer?						0	
+start3.1	不问神不问卜~	不問神不問卜~	神にも占いにも頼らない～	점괘는 이제 그만~	No need to consult a starry whirl~						0	
+start3.2	今天~是魔法少女哦~	今天~是魔法少女哦~	今日は魔法少女だよ～	오늘은~ 마법 소녀야~	Today~ Bubu's a real magic girl~!						0	
+start3.3	看我今天新学的魔法——卜卜挺大瓜	看我今天新學的魔法——卜卜挺大瓜！	新しく覚えた魔法！ブブカダブラ！	내가 오늘 새로 배운 마법을 구경해 볼래? 보보라카다브라!	Check out the new spell I learned: A-Bubu-cadabra!						0	
+start3.4	哎哟！	哎喲！	うわっ！	아얏!	Oops!						0	
+start3.5	这一句，记在魔法书的哪一页来着。	這一句，記在魔法書的哪一頁來著。	この呪文、魔法書のどのページに載ってたっけ？	이 주문은… 마법서 몇 페이지에 있었더라.	Uhh... which page was that spell on again?						0	
+start3.6	分析员可以过会再挂电话吗？等卜卜学会了再表演给你看。	分析員可以待會再掛電話嗎？等卜卜學會了再表演給你看。	分析員、まだ電話切らないで。すぐ覚えて披露してあげるから。	분석가, 조금 있다가 끊어도 될까? 보보가 좀 더 연습하고 나서 보여줄게.	Can you stay on the line longer? I know I can master it.						0	
+startQ01.1	就知道分析员舍不得挂电话~是不是想听卜卜说些有趣的事呢？	就知道分析員捨不得掛電話~是不是想聽卜卜說些有趣的事呢？	へへ～電話切りたくないんでしょ～？ブブの面白い話もっと聞きたいの？	역시 분석가가 아쉬워할 줄 알았어~ 보보의 재미있는 이야기가 듣고 싶어서 그런 거지?	I knew you didn't want to hang up! Were you hoping I'd tell you something fun, Adjutant?						0	
+startQ01.2	我想想看……唔，有了！	我想想看……唔，有了！	じゃあ、話そっかな……あっ、そうだ！	음, 생각해 보자… 아, 맞다!	Let's see, hmm... Oh! I've got it!						0	
+startQ01.3	分析员你也知道，算卦画符这些事儿，都是卜卜自己从书里领悟来的。	分析員你也知道，算卦畫符這些事兒，都是卜卜自己從書裡領悟來的。	知ってると思うけど、占いやお札の書き方って、ぜ～んぶ本から自分で学んだんだよ！	분석가도 알다시피, 점치고 부적을 그리는 일은 다 보보가 직접 책을 보면서 터득한 거야.	You know this, Adjutant — I taught myself divination and talisman-drawing from books.						0	
+startQ01.4	但学习魔法这事儿，似乎就简单多了。	但學習魔法這事情，似乎就簡單多了。	でも魔法の場合、話はとても簡単だよ。	근데 마법을 배우는 건 훨씬 더 간단하더라.	But learning magic sounds way easier!						0	
+startQ01.5	如果能收到魔法学院的入学通知书，就能循序渐进地掌握各种魔法~	如果能收到魔法學院的入學通知書，就能循序漸進地掌握各種魔法~	魔法学院に入学できたら、色んな魔法を習得できるの！	마법 아카데미의 입학 통지서를 받으면, 여러 가지 마법을 천천히 배워나갈 수 있을 텐데~	Once that acceptance letter from a mage academy arrives, you can learn all kinds of magic step by step~						0	
+startQ01.6	学院会开设很多课程，嗯……比如预言课……还有飞行课！	學院會開設很多課程，嗯……比如預言課……還有飛行課！	予言学や飛行術とか、たくさんの授業を受けられるから！	아카데미에는 다양한 수업이 개설되어 있어. 음… 예언 수업이라든가… 비행 수업도 있고!	They've got tons of classes... like prophecy... and flying!						0	
+startQ01.7	分析员，如果让你选的话，你觉得哪种魔法课最有趣呢？	分析員，如果讓你選的話，你覺得哪種魔法課最有趣呢？	ねえ、分析員、どの授業が一番面白いと思う？	분석가, 너라면 어떤 마법 수업이 제일 재미있을 것 같아?	Adjutant, if you could pick one, which class sounds more fun?						0	
+choiceA1	预言课	預言課	予言学	예언 수업	Prophecy						0	第三个问题选项 A
+startQ01re01.1	嘿嘿，对预言课感兴趣的话，分析员应该是想知道未来会发生什么吧？	嘿嘿，對預言課感興趣的話，分析員應該是想知道未來會發生什麼吧？	へ～、予言学に興味あるんだ。てことは分析員は未来のことが知りたいんだね？	헤헤, 예언 수업에 관심이 있다니, 그럼 분석가는 미래에 무슨 일이 일어날지 알고 싶은 거네?	Hehe, prophecy? Then you must be curious about the future, huh?						0	
+startQ01re01.2	会和卜卜有关吗？	會和卜卜有關嗎？	ブブとのことが気になるの？	혹시 보보랑 관련된 일이야?	Does that future... have something to do with me?						0	
+startQ01re01.3	比如什么时候会和卜卜……嘿嘿。	比如什麼時候會和卜卜……嘿嘿。	例えばいつブブと……ムフフ。	예를 들면, 보보랑 언제쯤… 헤헤.	Like when you and I will... hehe~						0	
+choiceA2	飞行课	飛行課	飛行術	비행 수업	Flying						0	第三个问题选项 B
+startQ01re02.1	飞行课的话就得自己准备扫帚了呢……	飛行課的話就得自己準備掃帚了呢……	飛行術なら自分でほうきを準備しなきゃだね……	비행 수업은 빗자루를 직접 준비해야 한다네…	For flying class you'd have to bring your own broom...						0	
+startQ01re02.2	不过为什么一定要用扫帚呢？	不過為什麼一定要用掃帚呢？	でもなんでほうきなの？	근데, 왜 꼭 빗자루여야 할까?	But why is it always a broom?						0	
+startQ01re02.3	卜卜还是觉得御葫芦飞行比较帅呢！	卜卜還是覺得御葫蘆飛行比較帥呢！	ブブはひょうたんがいいなぁ～	보보는 호리병을 타고 나는 게 더 멋있을 것 같은데!	Personally, I think riding a gourd looks way cooler!						0	
+startQ02.1	有分析员在终端那头陪我，卜卜学习都更有动力了！	有分析員在終端那頭陪我，卜卜學習都更有動力了！	分析員が端末の向こうで応援してくれるから、勉強する気がわいてくる！	단말기 저편에서 분석가가 함께해 주니까, 보보는 공부할 의지가 더 강해졌어!	Hearing you on the other end of the comms really keeps me going, Adjutant!						0	
+startQ02.2	不过……这本书实在是太厚了，看得我脑瓜子疼。	不過……這本書實在是太厚了，看得我腦袋疼。	でも……この本、分厚すぎて、頭がクラクラしちゃう。	그래도… 이 책은 너무 두꺼워. 읽다 보니 머리가 다 아플 지경이야.	Although... this book is so thick, just looking at it gives me a headache.						0	
+startQ02.3	里面介绍了好几种性质完全不同的魔法，卜卜是不是应该先重点掌握一种呢？	裡面介紹了好幾種性質完全不同的魔法，卜卜是不是應該先重點掌握一種呢？	いろんな魔法が載ってるし、まず一つに絞って学んだ方がいいのかな？	이속엔 각자 성질이 완전히 다른 마법들이 소개되어 있어. 보보는 우선 한 가지를 제대로 익히는 게 좋겠지?	It covers so many kinds of magic, all totally different. Maybe I should master just one first?						0	
+startQ02.4	黑暗魔法、光明魔法、元素魔法……分析员觉得哪种更适合我呢？	黑暗魔法、光明魔法、元素魔法……分析員覺得哪種更適合我呢？	黒魔法、光魔法、元素魔法とか……分析員、どれがわたしに合ってると思う？	흑마법, 빛의 마법, 원소 마법… 분석가는 어떤 게 나한테 어울릴 것 같아?	Dark, light, elemental... which one do you think suits me best, Adjutant?						0	
+choiceB1	黑暗魔法	黑暗魔法	黒魔法	흑마법	Dark Magic						0	第二个问题选项 A
+startQ02re01.1	黑暗魔法和邪恶魔法是不能划等号的。	黑暗魔法和邪惡魔法是不能劃等號的。	黒魔法と闇魔法は違うってこと、	흑마법이라고 해서 꼭 사악한 마법인 건 아니야.	Dark magic isn't automatically evil.						0	
+startQ02re01.2	分析员一定早就知道这一点了~	分析員一定早就知道這一點了~	分析員ならとっくに知ってるよね？	그건 분석가도 잘 알고 있겠지~	You knew that, didn't you, Adjutant~?						0	
+startQ02re01.3	才会觉得不管什么魔法，只要使用者是心地善良的卜卜，就一定能发挥好的效用，对吧？	才會覺得不管什麼魔法，只要使用者是心地善良的卜卜，就一定能發揮好的效用，對吧？	だから、どんな魔法でも、心優しいブブが使ったら、いい魔法になるって、思ってくれてるでしょ？	그래서 어떤 마법이든, 착한 보보가 시전하는 거라면 분명 좋은 효과가 나타날 거야, 그렇지?	That's why you think any magic can do good — as long as the caster has a heart of gold. Like me, right?						0	
+choiceB2	光明魔法	光明魔法	光魔法	빛의 마법	Light Magic						0	
+startQ02re02.1	布灵布灵的光明魔法啊~	布靈布靈的光明魔法啊~	キラキラの光魔法かぁ～	블링블링 빛의 마법이라~	Ah~ Sparkly, shining light magic~						0	
+startQ02re02.2	如果真的能掌握这种神圣的力量……	如果真的能掌握這種神聖的力量……	もし本当にこの力を使いこなせたら……	정말로 그 신성한 힘을 다룰 수 있게 된다면…	If I could really wield something that sacred...						0	第二个问题选项 B
+startQ02re02.3	卜卜一定用来守护最喜欢的分析员！	卜卜一定用來守護最喜歡的分析員！	絶対大好きな分析員を守るために使うね！	보보는 꼭 그 힘으로, 가장 좋아하는 분석가를 수호할 거야!	I'd use it to protect my favorite person in the world: you, Adjutant!						0	
+choiceB3	元素魔法	元素魔法	元素魔法	원소 마법	Elemental Magic						0	
+startQ02re03.1	能用上元素魔法的地方很多，听上去的确是个不错的选择！	能用上元素魔法的地方很多，聽上去的確是個不錯的選擇！	元素魔法って、いろんなところで使えるし、良さそうだね！	원소 마법은 다양하게 활용할 수 있어서, 정말 좋은 선택인 것 같아!	Elemental's good for almost everything — it really does sound like the winner!						0	
+startQ02re03.2	卜卜可以用火焰魔法给分析员烤红薯、板栗，还有馕！	卜卜可以用火焰魔法給分析員烤紅薯、栗子、還有饢！	火炎魔法を使えたら、分析員にお芋や栗、ナンとかも焼いてあげられるね！	보보가 화염 마법으로 분석가에게 고구마랑 밤, 그리고 빵도 구워줄 수 있어!	I could use fire to bake you sweet potatoes, chestnuts... maybe even Shuozhou flatbread!						0	
+startQ02re03.3	啊呜，用魔法干这种事儿，是不是显得卜卜太贪吃了……	啊嗚，用魔法做這種事情，是不是顯得卜卜太貪吃了……	ちょっと……食いしん坊すぎるかな？魔法をそんなことに使うなんて……	아웅… 마법으로 이런 걸 하다니, 보보가 너무 먹보처럼 보이려나…	Ah, listen to me... do I sound way too obsessed with food?						0	
+startend1.1	以这样的方式和分析员共度时光，总觉得还挺有趣的。	以這樣的方式和分析員共度時光，總覺得還挺有趣的。	こんな風に分析員と一緒に過ごせるのって、なんだかすごく楽しいね！	이런 방식으로 분석가와 함께 시간을 보내는 것도 꽤 재미있네.	Spending time with you like this... it's really fun.						0	
+startend1.2	分析员可以一边忙工作，一边和卜卜通话哦。	分析員可以一邊忙工作，一邊和卜卜通話哦。	あのね分析員、お仕事あるのならそっちを優先してね、ながら通話でも全然平気だから。	분석가, 바쁘면 일 보면서 보보랑 통화해도 돼.	Feel free to handle work while we're on the call, Adjutant. I'll be right here.						0	

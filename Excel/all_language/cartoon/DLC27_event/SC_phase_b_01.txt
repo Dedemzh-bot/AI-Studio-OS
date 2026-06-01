@@ -1,0 +1,40 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	拿着铜钱，我和妮塔很快在基地里找到肴，没想到卜卜竟然也在这里。	拿著銅錢，我和妮塔很快在基地裡找到肴，沒想到卜卜竟然也在這裡。	銅貨を手に、私とニタは寮の中で肴を探しに行くと、ブブもそこにいた。	동전을 들고 니타와 함께 숙소에서 야오를 찾던 중, 뜻밖에 야오와 함께 있는 보보를 발견했다.	With the copper coin in hand, Nita and I tracked down Yao at the base — only to find Bubu hanging around too.						0	2.7版本妮塔入队剧情
+page1.2	早呀，分析员，妮塔。	早呀，分析員，妮塔。	やっほー、分析員、ニタ。おはよーだね。	분석가랑 니타가 함께 있네~ 모두 안녕!	Morning, Adjutant~ Morning, Nita!						0	2.7版本妮塔入队剧情
+page1.3	肴这是怎么了？	肴這是怎麼了？	肴はどうしたんだ？うなされているみたいだけど。	야오는 여기에 무슨 일로 온 거야?	What's up with Yao?						0	2.7版本妮塔入队剧情
+page1.4	她来找我占卜退休的时间，但我卜到一半，她就睡着了。	她來找我占卜退休的時間，但我卜到一半，她就睡著了。	さっきね、「いつ退職できるか」って占いを頼まれたんだけど、わたしが卜してたら途中で寝ちゃったんだよね。	퇴직할 시기를 점치러 왔는데, 점을 보다가 갑자기 잠들어 버렸어.	She came to me for a fortune reading — wanted to know when she could finally retire. But then she nodded off. Right in the middle of it.						0	2.7版本妮塔入队剧情
+page1.5	那占卜的结果是什么？	那占卜的結果是什麼？	結果はどうだったの？	그래서 점괘는 뭐라고 나왔어?	So? What did the reading say?						0	2.7版本妮塔入队剧情
+page1.6	别提了，每次快有结果时就天雷大作，肴怕是要打一辈子工了！	別提了，每次快有結果時就天雷大作，肴恐怕是要一輩子打工了！	いやあ、毎回もうちょっとで見えそーってときに天雷が落ちちゃうからね。肴ったら、一生働くハメになりそーじゃん？	말도 마. 결과가 나오려 하면 번개가 쳐서, 야오는 평생 일해야 할 팔자인 것 같아!	Oof, don't get me started. Every time I was close to pulling a clear sign — boom! Thunder from the heavens! Looks like poor Yao's doomed to a life of eternal overtime!						0	2.7版本妮塔入队剧情
+page1.7	还好肴睡着了……不用听到这么可怕的事。	還好肴睡著了……不用聽到這麼可怕的事。	ひぇ…眠ってる肴は不幸中の幸いかも…	그나마 야오가 잠들어서 다행이야. 이런 얘기를 들으면 충격받았을걸.	...Good thing she's asleep. Spared her the horror.						0	2.7版本妮塔入队剧情
+page1.8	咦！我看你们两位红光满面，精神焕发，似乎是要遇到好事情了呢！	咦！我看你們兩位紅光滿面，精神煥發，似乎是要遇到好事情了呢！	あれ？ あんたたち、なんか顔色いいじゃん。いいことあったの？	그나저나 너희 둘 얼굴이 환해 보이네? 뭔가 좋은 일이 생길 것 같은데!	Anyway~ Look at you two! Rosy cheeks, bright eyes... you're practically glowing! Looks like something good's headed your way!						0	2.7版本妮塔入队剧情
+page1.9	嗯？会有什么好事情？	嗯？會有什麼好事情？	えっ、いいこと？なんだろう？	뭐? 좋은 일?	Really? Like what?						0	2.7版本妮塔入队剧情
+page1.10	看起来，这是一份机缘。	看起來，這是一份機緣。	ふむ、これは機縁っぽいだね。	그래, 뭔가 특별한 기연이 올 것 같아.	Hmmm... Smells like an occurrence of serendipity to me.						0	2.7版本妮塔入队剧情
+page1.11	鸡……圆？	雞……圓？	気炎…？	기연…? 그게 뭐야?	Salmon-dip patty...?						0	2.7版本妮塔入队剧情
+page1.12	机——缘，就是机会和缘分。	機——緣，就是機會和緣分。	機縁よ。つまり、チャンスと縁が重なるってこと。	기연… 기회랑 운명을 가리키는 말이지.	Ser-en-di-pi-ty! It means when fate drops something good right in your lap!						0	2.7版本妮塔入队剧情
+page1.13	有这种机缘的话，就不能靠简单的掐算，得拿出真本事来了。	有這種機緣的話，就不能靠簡單的掐算，得拿出真本事來了。	こういう機縁あるなら、ちょっとした計算だけじゃダメなんだよね。わたしの本気の占い、しとく？	이런 기연은 단순한 점괘로 알아볼 수 없어. 직접 운명을 잡아야 해.	And with a fortune this good, I can't just eyeball it with some coin trick... We gotta bring out the real deal!						0	2.7版本妮塔入队剧情
+page1.14	说完，卜卜不知从哪里拿出了一个装满木签的竹筒出来。	說完，卜卜不知從哪裡拿出了一個裝滿木籤的竹筒出來。	ブブはどこからか木製のサイコロ棒がたくさん入った筒を取り出す。	보보는 그렇게 말하며, 어디선가 나무 제비가 가득한 대나무 통을 꺼내 들었다.	With a flourish, Bubu whipped out a bamboo tube packed with wooden sticks from who-knows-where.						0	2.7版本妮塔入队剧情
+page1.15	请吧！从这里面抽一支出来。	請吧！從這裡面抽一支出來。	はいはい、一本引いてみて。	자, 한 개 뽑아봐!	Alrighty then! Pick a stick, please!						0	2.7版本妮塔入队剧情
+page1.16	妮塔来选吧。	妮塔來選吧。	ニタ、引いてみろよ。	니타, 네가 골라봐.	Why don't you do the honors, Nita?						0	2.7版本妮塔入队剧情
+page1.17	我……我吗？但我一直运气都不太好……	我……我嗎？但我運氣一直都不太好……	私？でも運がないんだよな…	내, 내가? 근데 난 원래 운이 별로 안 좋은데…	Me...? But I've always had the worst luck on the team...						0	2.7版本妮塔入队剧情
+page1.18	没关系的，现在这可是承载了我们两个人的期冀。	沒關係的，現在這可是承載了我們兩個人的期冀。	今は二人の運勢を合わせているんだ。大丈夫さ。	괜찮아, 이번엔 우리 둘의 바람이 담겨 있으니까.	That's okay. You're picking for both of us this time.						0	2.7版本妮塔入队剧情
+page1.19	如果是这样的话，那我就有信心了！	如果是這樣的話，那我就有信心了！	そっか、それなら行ける気がするよ！	그렇다면… 자신감을 갖고 해볼게!	Well then... yeah. I got this! Alright — here goes!						0	2.7版本妮塔入队剧情
+page1.20	嘿呀！	嘿呀！	えいっ！	이얍!	Hyaah!						0	2.7版本妮塔入队剧情
+page1.21	妮塔闭上眼睛，凭直觉选了一支签。	妮塔閉上眼睛，憑直覺選了一支籤。	ニタは目を閉じ、直感で一本を引き当てる。	니타는 눈을 감고 직감에 따라 제비 하나를 뽑았다.	Nita shut her eyes and reached into the tube, letting instinct guide her fingers. After a brief pause, one stick slid into her hand.						0	2.7版本妮塔入队剧情
+page1.22	让我看看……哎！分析员，这上面写着上上签！	讓我看看……哎！分析員，這上面寫著上上籤！	見せて…わっ！「大吉」どころか「大大吉」だって！やった！	어디 보자…… 어?! 분석가, 이거 완전 길운인데?!	Let's see what we got... Whoa! Look, Adjutant! This one says "Super Good Fortune"!						0	2.7版本妮塔入队剧情
+page1.23	的确，很不错呢，妮塔。	的確，很不錯呢，妮塔。	へぇ、すごいじゃないか。	이 정도면 정말 길운인데?	Well done, Nita. Guess your luck isn't so bad after all.						0	2.7版本妮塔入队剧情
+page1.24	恭喜恭喜，另外，签上应该还有一些签文来着。	恭喜恭喜，另外，籤上應該還有一些籤文來著。	おめでとーだね。で、そのクジには何か書いてあるはずじゃん？	축하해! 제비에 문구도 적혀 있을 텐데? 한번 확인해 봐!	Ohoho~ Congrats! But don't forget the verse. That's where the real meaning hides.						0	2.7版本妮塔入队剧情
+page1.25	<orange>“巨石天降，不伤分毫”。</>	<orange>「巨石天降，不傷分毫」。</>	<orange>「巨石天降、無傷」</>	<orange>'하늘에서 바위가 떨어져도 다치지 않을 것이다.'</>	<orange>"From the heavens a stone descends, no harm shall be made."</>						0	2.7版本妮塔入队剧情
+page1.26	<orange>“机关重重，亦无所惧”。</>	<orange>「機關重重，亦無畏懼」。</>	<orange>「機関遍く、恐るるに足らず」</>	<orange>'수많은 함정이 있어도 두려울 것 없다.'</>	<orange>"Through trials and snares, the fearless remained."</>						0	2.7版本妮塔入队剧情
+page1.27	<orange>“他山之石，可以攻玉”。</>	<orange>「他山之石，可以攻玉」。</>	<orange>「他山の石以て玉を攻むべし」</>	<orange>'타인의 지혜는 곧 나의 무기가 될 것이다.'</>	<orange>"With pebbles from distant shores, one burnishes jade."</>						0	2.7版本妮塔入队剧情
+page1.28	<orange>“破局之法，且往东行”。</>	<orange>「破局之法，且往東行」。 </>	<orange>「破局の法、東にあり」</>	<orange>'원하는 걸 얻고 싶다면, 동쪽으로 가라.'</>	<orange>"To unseal the path ahead, walk eastward — where dawn always breaks."</>						0	2.7版本妮塔入队剧情
+page1.29	卜卜天师，上面的字我都认识，但连起来什么都看不懂啊！	卜卜天師，上面的字我都認識，但連起來什麼都看不懂啊！	うーん、なんとなく意味は分かるようで分かんないっていうか…ブブ天師、これどういうこと？	보보 점술사님~ 근데 이런 건 읽어도 무슨 말인지 정확히 모르겠는데 말이죠! 제게 부디 설명을…	Geomancer Bubu — I know all the words, but I have no idea what they mean when they're mashed together like this!						0	2.7版本妮塔入队剧情
+page1.30	不急不急，让我想想。	不急不急，讓我想想。	まあまあ、焦らなくていいじゃん。どれどれ…	기다려봐, 내가 한번 볼게.	Calm down~ Give me a sec...						0	2.7版本妮塔入队剧情
+page1.31	签的大致意思是，你们要找的东西在<orange>东边，有巨石和机关的地方 。</>	籤的大致意思是，你們要找的東西在<orange>東邊，有巨石和機關的地方。</>	まあ結果によれば、あんたたちが探してるモノは<orange>東のほうにあるってこと。大きな岩とか仕掛けがある場所だね</>。	이 점괘의 대략적인 의미는, 너희가 찾는 건 <orange>동쪽에 있어. 거대한 바위랑 장치가 있는 곳이지.</>	Hmm... okay, so basically — it's saying the thing you're looking for is off to <orange>the east, somewhere full of giant rocks and booby traps.</>						0	2.7版本妮塔入队剧情
+page1.32	至于他山之石，可以攻玉……唔，本天师一时间也不得解法。	至於他山之石，可以攻玉…唔，本天師一時間也不得解法。	「他山の石以て玉を攻むべし」ってのは…うーん、ちょっとこの天師も解読に苦戦中だねぇ。	돌은 비록 단단하지만, 옥기를 조각하는 데 쓸 수 있다는… 이 점술사님도 바로 해석하자니 조금 힘드네.	"With pebbles from distant shores, one burnishes jade." Hmmm... even I haven't cracked that part yet.						0	2.7版本妮塔入队剧情
+page1.33	我明白了，这句话的意思一定是……<orange>不管石头还是玉，都一拳打爆!</>	我明白了，這句話的意思一定是…<orange>不管石頭還是玉，都一拳打爆！</>	うーん、なるほど！つまりこれはさ、<orange>石だろうが玉だろうが、とりあえずぶっ飛ばしちゃえ！</>ってことじゃん？	알겠다, 그 뜻인즉 <orange>돌이든 옥이든 그냥 다 패버리면 그만이라는 거네!</>	Wait — I got it! It's gotta be telling me to <orange>smash any pebble or jade that gets hurled my way with one punch!</>						0	2.7版本妮塔入队剧情
+page1.34	（还真是简单又粗暴的理解……）	（還真是簡單又粗暴的理解……）	（ずいぶん単純で乱暴な解釈だな…）	(정말 일차원적인 해석이군…）	(...Well, that's one way to read it.)						0	2.7版本妮塔入队剧情
+page1.35	卜卜，还有没有更具体一些的提示？	卜卜，還有沒有更具體一些的提示？	ブブ、もっと具体的な手がかりはないのか？	보보, 좀 더 구체적인 힌트는 없을까?	Got anything a little more specific, Bubu?						0	2.7版本妮塔入队剧情
+page1.36	这个……天机不可泄露，说得太多，机缘可就抓不住了。	這個……天機不可洩露，說得太多，機緣可就抓不住了。	「天機」は言いすぎると逃げちゃうの。	그게… 너무 많은 걸 누설하면 안 돼. 천기는 쉽게 누설할 수 없는 법이거든.	Well... that's not how serendipity works. If I spell it all out, the tide might shift — and you could end up missing the chance altogether.						0	2.7版本妮塔入队剧情
+page1.37	分析员这么厉害，一定能找到的！	分析員這麼厲害，一定能找到的！	分析員ならきっと平気だよ。絶対見つけられるでしょ？	그래도 분석가라면 틀림없이 찾아낼 수 있을 거야.	But hey — if anyone can find it, it's you — our awesome Adjutant!						0	2.7版本妮塔入队剧情
+page1.38	……我尽力吧。	……我盡力吧。	…まあ、やるだけやってみるか。	… 최선을 다해볼게.	...I'll do my best.						0	2.7版本妮塔入队剧情

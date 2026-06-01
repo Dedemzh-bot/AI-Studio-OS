@@ -1,0 +1,1685 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+item_name_1	侦察接收机	0	
+item_name_2	急救包	0	
+item_name_3	重构芯片	0	
+item_name_4	便携屏蔽器	0	
+item_name_5	领队权限卡	0	
+item_name_6	电磁脉冲发生器	0	
+item_des_1	用于抵抗战术干扰，当遭遇战术干扰事件时，通过探测并分析信号，该道具自动抵抗1次战术干扰。成功抵抗后，该道具将被销毁	0	
+item_des_2	用于回复生命，内置多个急救瓶，使用后，所有队员生命回复30%（可通过逻辑研习强化）	0	
+item_des_3	用于重构意识，相比意识皿更加易于便携，使用后随机为1名队员重构意识，并回复生命30%（可通过逻辑研习强化）	0	
+item_des_4	用于移除战术干扰，能阻止屏蔽干扰信号，使用后可随机移除1个战术干扰	0	
+item_des_5	用于刷新【军备兑换】中的补给，领队权限的证明，使用后可刷新1次【军备兑换】中的补给	0	
+item_des_6	用于降低威胁值，产生的高能量电磁脉冲能干扰或破坏敌方的设备及系统，使用后降低10点威胁值（只能降低至当前威胁级别下限）	0	
+SeasonMasterkey	万用思维译码	0	
+Seasonkey1	思维译码·荣耀	0	
+Seasonkey2	思维译码·温柔	0	
+Seasonkey3	思维译码·正义	0	
+Seasonkey4	思维译码·纯净	0	
+Seasonkey5	思维译码·无畏	0	
+Seasonkey6	思维译码·智慧	0	
+Seasonkey7	思维译码·勇气	0	
+Seasonkey8	思维译码	0	
+SeasonMasterkey_des	可以用于置换任何类型的思维译码\n海姆达尔部队的队员们，在长期作战中所展现出的非凡适应性、与随机应变能力的象征。	0	
+Seasonkey1_des	是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。	0	
+Seasonkey2_des	是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。	0	
+Seasonkey3_des	是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。	0	
+Seasonkey4_des	是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。	0	
+Seasonkey5_des	是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。	0	
+Seasonkey6_des	是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。	0	
+Seasonkey7_des	是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。	0	
+Seasonkey8_des	海姆达尔部队长期的共同作战中，不同的队员们会呈现出重要品德的象征。	0	
+SeasonMasterkey_use	思维译码 兑换道具	0	
+Seasonkey1_use	思维深潜节点解锁道具	0	
+Seasonkey2_use	思维深潜节点解锁道具	0	
+Seasonkey3_use	思维深潜节点解锁道具	0	
+Seasonkey4_use	思维深潜节点解锁道具	0	
+Seasonkey5_use	思维深潜节点解锁道具	0	
+Seasonkey6_use	思维深潜节点解锁道具	0	
+Seasonkey7_use	思维深潜节点解锁道具	0	
+Seasonkey8_use	思维深潜节点解锁道具	0	
+SeasonItem1	思维旁路下·密钥1	0	
+SeasonItem2	思维旁路下·密钥2	0	
+SeasonItem3	思维旁路下·密钥3	0	
+SeasonItem4	思维旁路上·密钥1	0	
+SeasonItem5	思维旁路上·密钥2	0	
+SeasonItem6	思维旁路上·密钥3	0	
+SeasonItem7	急救箱	0	
+SeasonItem8	坐标定位器	0	
+SeasonItem9	通讯装置	0	
+SeasonItem1_des	用来打通下行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。	0	
+SeasonItem2_des	用来打通下行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。	0	
+SeasonItem3_des	用来打通下行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。	0	
+SeasonItem4_des	用来打通上行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。	0	
+SeasonItem5_des	用来打通上行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。	0	
+SeasonItem6_des	用来打通上行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。	0	
+SeasonItem7_des	藏在天楼角落的小型急救箱，可以用来给伤者进行紧急治疗。	0	
+SeasonItem8_des	郊狼身上携带的坐标定位器，可以及时定位目标，恢复行动	0	
+SeasonItem9_des	补给点发现的通讯装置，可以恢复通讯，打开前方通路。	0	
+SeasonItem1_use	道具	0	
+SeasonItem2_use	道具	0	
+SeasonItem3_use	道具	0	
+SeasonItem4_use	道具	0	
+SeasonItem5_use	道具	0	
+SeasonItem6_use	道具	0	
+SeasonItem7_use	道具	0	
+SeasonItem8_use	道具	0	
+SeasonItem9_use	道具	0	
+SeasonHelp1	思维深潜已开启，请与少女们共同踏入这些曾经并肩作战的地方。	0	
+SeasonHelp2	在迷宫推演中，上阵不同队员可获得不同类型的思维译码。	0	
+SeasonHelp3	使用对应类型思维译码可以解锁思维深潜中的节点，持续推进，获取各种奖励。	0	
+SeasonHelp4	完成普通及普通以上难度的悖论迷宫或完成迭战模式悖论迷宫的推演，有机会获得万用思维译码	0	
+SeasonHelp5	使用万用思维译码，可以置换同等数量的任意类型思维译码	0	
+SeasonHelp6	在悖论迷宫的推演中，可上阵试用队员进行推演。	0	
+coin_Science	智略点	0	
+coin_BattleCoin	迷宫之钥	0	
+coin_Exp	推演经验	0	
+coin_LotteryTicket	申领凭证	0	
+coin_Season	采购券	0	
+coin_ScoreModel	战场经验	0	
+coin_MonsterModel1	低阶征伐铭章：{1}	0	悖论迷宫怪物图鉴激活道具
+coin_MonsterModel2	中阶征伐铭章：{1}	0	悖论迷宫怪物图鉴激活道具
+coin_MonsterModel3	高阶征伐铭章：{1}	0	悖论迷宫怪物图鉴激活道具
+coin_Science_des	完成悖论迷宫可获得的系统评估点数。用于解锁、提升不同的逻辑研习科目，让后续的推演过程变得更加轻松。	0	
+coin_BattleCoin_des	推演悖论迷宫过程中获得的道具。用于在军备兑换中换取各种类型的增益，是帮助分析员解开这座迷宫的重要物品。	0	
+coin_Exp_des	完成悖论迷宫可获得的经验值。用于提升分析员的推演等级，解锁对应等级的评估嘉勉，从而获得公司提供的丰厚奖励。	0	
+coin_LotteryTicket_des	特别嘉勉专用的申领凭证，通关悖论迷宫后可以获得凭证，用于在特别嘉勉中兑换奖励	0	
+coin_Season_des	研发部给分析员提供的奖励，用于在迷宫配售中购买道具	0	
+coin_ScoreModel_des	在增益试炼中可获得的战场经验，用于解锁各种类型的增益，以强化综合战斗能力。	0	
+coin_MonsterModel1_des	击败{1}后可以获得的荣誉证明，一枚普通的铭章。可用于解锁征伐图谱和点亮敌方的征伐标记	0	悖论迷宫怪物图鉴激活道具
+coin_MonsterModel2_des	击败{1}后可以获得的荣誉证明，一枚优质的铭章。可用于解锁征伐图谱和点亮敌方的征伐标记	0	悖论迷宫怪物图鉴激活道具
+coin_MonsterModel3_des	击败{1}后可以获得的荣誉证明，一枚精品的铭章。可用于解锁征伐图谱和点亮敌方的征伐标记	0	悖论迷宫怪物图鉴激活道具
+coin_Science_use	悖论迷宫专用道具	0	
+coin_BattleCoin_use	悖论迷宫专用道具	0	
+coin_Exp_use	悖论迷宫经验素材	0	
+coin_LotteryTicket_use	悖论迷宫特别嘉勉申领道具	0	
+coin_Season_use	悖论迷宫的奖励代币	0	
+coin_ScoreModel_use	增益解锁道具	0	
+coin_MonsterModel1_use	征伐标记道具	0	悖论迷宫怪物图鉴激活道具
+coin_MonsterModel2_use	征伐标记道具	0	悖论迷宫怪物图鉴激活道具
+coin_MonsterModel3_use	征伐标记道具	0	悖论迷宫怪物图鉴激活道具
+difficult_Name_100	迭战模式	0	
+difficult_des_101	轻松的推演过程，不会遇到战术干扰，可获得较少的推演经验和智略点。	0	
+difficult_des_201	轻松的推演过程，偶尔会遇到战术干扰，可获得一般的推演经验和智略点。	0	
+difficult_des_301	困难的推演过程，偶尔会遇到战术干扰，敌方显著变强，可获得较多的推演经验和智略点。	0	
+difficult_des_401	高压的推演过程，经常遇到战术干扰，敌方数量众多且极具挑战性，可获得较多的推演经验和智略点。	0	
+difficult_des_10001	多个幻境构成的训练阵地，在虚实中找寻真正的破解之道	1000	
+event_name_101	遭遇作战	0	
+event_name_102	生存危机	0	
+event_name_103	特别作战	0	
+event_name_104	滚石派对	0	
+event_name_105	仙人叩关	0	
+event_name_106	连战场域	0	连战房间名称
+event_name_201	安全屋	0	
+event_name_401	战备补给	0	
+event_name_402	优质补给	0	高级宝箱房间名称
+event_name_601	军备兑换	0	
+event_name_602	惊喜时刻	0	
+event_name_701	突发事件	0	
+event_name_801	完成推演	0	
+event_name_802	无尽挑战	0	
+event_des_101	战士无论何时都应保持戒备，这样就不必临时准备	0	
+event_des_103	除自身战斗能力外，这里还考验观察和利用环境作战的能力	0	
+event_des_104	面对乐园挑战也要做好战术计划	0	
+event_des_105	机缘已至	0	
+event_des_106	在限定时间内，根据清除敌方目标的波次，可以获取多个选择增益效果的机会	0	连战房间描述
+event_des_201	一处隐匿的安全屋，提供了恰到好处的休憩场所，有助于制定下一步的行动计划	0	
+event_des_401	一处战术支援点，善用支援点提供的帮助，把握优势，掌控整个战局	0	
+event_des_402	精挑细选的优质补给，可以随机获得一个强力增益	0	高级宝箱房间描述
+event_des_601	决定成败的不是军备，而是使用军备的人	0	
+event_des_602	运气也是实力的一部分	0	
+event_des_701	世界是你的。开启这扇门，一切皆有可能发生……	0	
+event_des_801	您已完成本次悖论迷宫的战术推演	0	
+event_des_802	踏入无尽挑战，追求身体反应与战术判断的极致挑战	0	
+event_des2_101	遭遇作战：战胜敌方目标后可随机获得一个增益	0	
+event_des2_102	生存危机：战斗难度较高，战胜敌方目标后可随机获得一个增益	0	
+event_des2_201	安全屋：可在此收治受伤队员，唤醒倒下的队员、移除战术干扰或收集增益等	0	
+event_des2_401	战备补给：可随机获得迷宫之钥、补给或一个稀有增益	0	
+event_des2_601	军备兑换：可使用迷宫之钥换取增益	0	
+event_des2_701	突发事件：只有选择之后，才能知道会出现什么	0	
+event_restTitle_cure	集中收治	0	
+event_restTitle_rebirth	重构意识	0	
+event_restTitle_curse	移除干扰	0	
+event_restName_cure	治疗仪	0	
+event_restName_rebirth	意识皿	0	
+event_restName_curse	干扰抑制器	0	
+event_restDes_cure	所有队员生命回复30%	0	
+event_restDes_rebirth	随机为一名队员重构意识 ，并恢复30%生命值	0	
+event_restDes_curse	随机移除一个战术干扰	0	
+talent_name_101	聚力	0	
+talent_name_102	精术	0	
+talent_name_103	暗容	0	
+talent_name_104	铁卫	0	
+talent_name_105	风锥	0	
+talent_name_106	鸣雨	0	
+talent_name_107	叠袭	0	
+talent_des_101	攻击力+{1}%，根据收集的侦讯类效果数量，额外提升：	0	
+talent_des_102	技能伤害+{1}%，根据收集的步哨类效果数量，额外提升：	0	
+talent_des_103	弹匣容量+{1}%，根据收集的暗网类效果数量，额外提升：	0	
+talent_des_104	护盾获取效能+{1}%，根据收集的屏藩类效果数量，额外提升：	0	
+talent_des_105	暴击伤害增幅+{1}%，根据收集的突贯类效果数量，额外提升：	0	
+talent_des_106	射击速度+{1}%，根据收集的探路类效果数量，额外提升：	0	
+talent_des_107	射击伤害+{1}%，根据收集到的灵靶类效果数量，额外提升：	0	
+talent_des_101_1	攻击力+{1}%	0	
+talent_des_102_1	技能伤害+{1}%	0	
+talent_des_103_1	弹匣容量+{1}%	0	
+talent_des_104_1	护盾获取效能+{1}%	0	
+talent_des_105_1	暴击伤害增幅+{1}%	0	
+talent_des_106_1	射击速度+{1}%	0	
+talent_des_107_1	射击伤害+{1}%	0	
+ScoreBattleName1	重装战役	0	悖论迷宫2.5积分挑战关卡名称
+ScoreBattleName2	巧袭战役	0	悖论迷宫2.5积分挑战关卡名称
+ScoreBattleName3	坚甲战役	0	悖论迷宫2.5积分挑战关卡名称
+ScoreBattleName4	谋策战役	0	悖论迷宫2.5积分挑战关卡名称
+ScoreBattleName5	高难检验	0	悖论迷宫2.5积分挑战关卡名称
+ScoreBattleName6	特异优势	0	悖论迷宫3.0积分挑战关卡名称
+ScoreBattleName7	电击优势	0	悖论迷宫3.0积分挑战关卡名称
+ScoreBattleName8	动能优势	0	悖论迷宫3.0积分挑战关卡名称
+ScoreBattleName9	温感优势	0	悖论迷宫3.0积分挑战关卡名称
+MaterialBuffBattleName1	增益试炼·简单	0	悖论迷宫2.5buff试炼关卡难度名称
+MaterialBuffBattleName2	增益试炼·普通	0	悖论迷宫2.5buff试炼关卡难度名称
+MaterialBuffBattleName3	增益试炼·困难	0	悖论迷宫2.5buff试炼关卡难度名称
+MaterialBuffBattleName4	增益试炼·厄险	0	悖论迷宫2.5buff试炼关卡难度名称
+MaterialBuffBattleName5	增益试炼·渊底	0	悖论迷宫3.2buff试炼关卡难度名称
+MaterialBuffBattleName6	增益试炼·幽馆	0	悖论迷宫3.2buff试炼关卡难度名称
+MaterialBuffBattleName7	增益试炼·异城	0	悖论迷宫3.2buff试炼关卡难度名称
+massage_talentlock	获取{1}后解锁	0	
+massage_gameRepeat	请先完成上一次关卡或者重置	0	
+massage_gameProcessError	流程错误	0	
+massage_gameTimesNum	今日剩余推演次数	0	
+massage_noGameTimes	今日推演次数已达上限，请明天再来吧！	0	
+massage_adDes	在千变万化的战局中，通过不断推演，探索迷宫深处，累积推演等级，从而获取丰厚的奖励	0	
+massage_adDesSeason	悖论迷宫-多维解集限时开放，挑战即可解锁思维深潜奖励	0	
+massage_adDesSeason2	提前为队员选配合适的增益出战，在多种模式战役中验证战术策略，赢取积分以换取多种奖励	0	悖论迷宫2.5活动宣传语
+massage_gameExit	离开战局后可随时返回，并从最近的储存点继续推演，是否继续?	0	
+massage_controlTips	调查	0	
+massage_taskDes1	前往控制台	0	
+massage_trySkipBuff	请选择要获取的增益	0	
+massage_trySkipReward	请先领取迷宫之钥奖励	0	
+massage_getBuff	获得增益：{1}	0	
+massage_getCoin	获得迷宫之钥*{1}	0	
+massage_getItem	获得{1}*{2}	0	
+massage_tryOpenOtherDoor	此处无法选择其他的门	0	
+massage_doorOpen	门已开启	0	
+massage_storeRefreshFail	领队权限卡不足	0	
+massage_RemoveCurseFail	当前未受到战术干扰	0	
+massage_RemoveCurseSuccess	战术干扰：{1}已移除	0	
+massage_getCurse	{1}已受到战术干扰：{2}	0	
+massage_rebirthSuccess	{1}已成功重构意识	0	
+massage_rebirthFail	当前无队员倒下	0	
+massage_healSuccess	生命回复完成	0	
+massage_healFail	当前无队员需要收治	0	
+massage_coinNotEnough	迷宫之钥不足	0	
+massage_defendCurse	侦察接收机已屏蔽战术干扰	0	
+massage_dangerReduce	威胁值已降低	0	
+massage_rewardTips	完成悖论迷宫可累积推演经验、提升推演等级	0	
+massage_NoReward	当前进度下重置推演不能获得任何奖励，建议继续推演	0	
+massage_PersonalBuffInconsistent	该增益仅可{1}-{2}使用	0	
+massage_poolCoinLack	申领凭证不足	0	
+massage_seasonEnd	悖论迷宫-多维解集已结束，点击退出活动	0	
+massage_sellBuff	回收此增益后，可获得一定数量迷宫之钥的补偿，是否继续？	0	
+massage_sellBuffInMaterialBuffBattle	丢弃在试炼中选择的增益，完成试炼后将不会获取，是否继续？	0	在buff试炼中丢掉个人buff时
+massage_journeyRoadLock	该节点尚未解锁	0	
+massage_journeyRoadUnlockTitle	解锁	0	
+massage_journeyRoadUnlockDes	是否使用以下思维译码解锁节点?	0	
+massage_LowEnergy	当精力值低于50时，思维译码获取数量将会降低。当前精力值较低，是否继续挑战？	0	
+massage_EndDoorTips	推演已结束，是否完成战局？	0	
+massage_InfinityOpen	由于分析员超群的推演能力，无尽挑战已开放。	0	
+massage_InfinityTips	在无尽挑战中，敌人的能力将大幅提升。分析员需要在限定时间中，尽可能多地击败敌人。无尽挑战不会影响最终奖励，是否继续？	0	
+massage_InfinityCancelTips	进行无尽挑战不会影响最终奖励，离开将直接完成推演并且无法返回无尽挑战，是否继续？	0	
+massage_InfinityCancelTips2	退出挑战后，当前已获取积分将会记为最终积分，是否继续？	0	积分模式退出提示
+massage_MaterialBuffBattleCancelTips	退出试炼仍可获得已完成波次的奖励，是否继续？	0	buff试炼退出提示
+massage_KeyMaxTips	部分上阵队员可获得思维译码的数量已达到上限，继续上阵将无法获取对应类型的思维译码，是否继续？	0	
+massage_KeyExchangeNotEnough	万用思维译码不足	0	
+massage_ScienceLockTips	此科目逻辑已被屏蔽，不会在推演中生效	0	
+massage_ScienceLockConfirmTips	屏蔽此科目逻辑后，该逻辑的全部效果无法在推演中生效。可随时选择解除屏蔽，是否继续？	0	
+massage_ScienceUnLockTips	{1}屏蔽已解除	0	
+massage_BingGoTimesNotEnough	可开启次数不足	0	
+massage_ScoreModelChangeRoleTips	已为{1}选配了以下单体增益，更换角色需重新选配，是否继续？	0	
+massage_ScoreModelBuffEditTips1	未上阵队员，无法选配单体增益	0	
+massage_ScoreModelTeamEditTips1	未选配增益，是否开始作战?	0	
+massage_SocreCoinNotEnough	战场经验不足	0	悖论迷宫2.5-尝试解锁增益时货币不足提示
+massage_PersonalBuffMax	该队员可选配的单体增益已达上限	0	
+massage_BuffCostMaxTips	选配增益已达组合上限	0	
+massage_SchemeCoverTips	已应用其他预设，继续保存将替换原预设	0	
+massage_SchemeVacantTips	该预设为空	0	
+massage_SchemeDeleteTips	是否删除预设?	0	
+massage_SchemeCostAboveTips	预设内选配增益已超过增益组合上限，以下增益将无法使用，是否继续?	0	
+massage_SchemeBuffLimitTips	该预设中包含禁用增益，因此无法装配以下增益，是否继续？	0	
+massage_SchemeDifferentRoleTips	该预设中的部分增益不适配当前出战队员，因此无法装配，是否继续？	0	
+massage_UseTips	已应用{1}	0	
+massage_SchemeNameError	修改失败，请输入正确的名字	0	
+massage_SchemeUseFailed	应用预设失败，该预设中包含禁用增益	0	
+massage_SchemeSaveTips	保存成功	0	
+massage_UavPartBagMaxTips	部件数量已达上限，无法继续获得，建议前往部件精制进行处理	0	验证战场辅助机部件背包达到上限的提示
+massage_UavPartComposeQualityDiscrepancy	必须置入相同等级的部件	0	合成相关提示
+massage_UavPartComposeQualityMax	置入的部件为最高等级，精制后仅刷新属性	0	高级部件合成提示
+massage_UavPartThisTypeNone	暂无可用的此类部件，可前往增益试炼获取	0	缺少部件时的提示
+massage_UavPartComposeNumLack	必须置入4个部件	0	部件合成提示
+massage_UavCoreChange	已装配{1}机芯	0	验证战场辅助机切换核心成功的提示
+massage_UavErrorTips1	部件已被装配	0	验证战场辅助机相关防错文本-存在装备中的部件
+massage_UavErrorTips2	部件重复	0	验证战场辅助机相关防错文本-部件重复
+massage_UavErrorTips3	部件无效	0	验证战场辅助机相关防错文本-部件错误
+massage_UavErrorTips4	配置错误	0	验证战场辅助机相关防错文本-无人机配置错误
+massage_UavErrorTips5	机芯不存在	0	验证战场辅助机相关防错文本-无法切换至此核心
+massage_UavErrorTips6	部件类型错误	0	验证战场辅助机相关防错文本-部件类型错误
+massage_UavErrorTips7	参数错误	0	验证战场辅助机相关防错文本-其他错误
+energyTips1	精力值<span color="#ffc500">0-19</>点时，将不再降低，但思维译码获取数量将大幅降低	0	
+energyTips2	精力值<span color="#c25c02">20-49</>点时，思维译码获取数量将降低	0	
+energyTips3	精力值<span color="#91c7ff">50</>点以上时，思维译码获取数量正常	0	
+energyTips1_A	思维译码获取数量<span color="#c25c02">大幅降低</>	0	
+energyTips2_A	思维译码获取数量<span color="#ffc500">降低</>	0	
+talk1101	天楼区域的模拟作战中，遇到了被重物砸伤需要急救的居民。	0	
+talk1102	我开始清理阻碍道路的杂物，并让恩雅来看看伤者的情况。	0	
+talk1103	她的伤太重了，现在还不能随便挪动。我需要急救箱先帮她进行紧急处理下。	0	
+talk1104	可是这里的环境，已经和当时完全不一样了，希望附近有<orange>急救箱</>，我们四处找找吧……	0	
+talk1201	找到这东西了！	0	
+talk1202	跑腿的活尽量交给我们。分析员，你的精力可要留着做更、重、要的事哦~	0	
+talk1203	恩雅使用急救箱对受伤的居民进行了应急处置，可以继续前进了。	0	
+talk2101	由于任务目标的实时定位信息失效，我们暂时无法行动。	0	
+talk2102	不会吧……我们就这么把目标给丢了？	0	
+talk2103	这里的环境布局发生了改变，照着我记忆里的路线前进完全行不通。	0	
+talk2104	等我想想……有办法了！	0	
+talk2105	模拟环境会变，但我熟悉那些家伙的行事逻辑！郊狼的装备里，肯定能搜出几个<orange>坐标定位器</>来。	0	
+talk2201	果然拿到了。怎么样，分析员儿~我还派得上用场吧！	0	
+talk2202	如果只靠这个坐标定位器，想要重新找到路还是有些困难。	0	
+talk2203	不过有我的记忆在，就都不是问题了。	0	
+talk2204	使用坐标定位器，结合辰星的记忆，重新获取了当前位置信息，并重新得到了任务目标定位。	0	
+talk2205	可以继续前进了。	0	
+talk3101	极端天气导致通讯装置损坏，通讯障碍让队伍无法继续展开行动。	0	
+talk3102	分析员原来在这么冷的地方执行过任务啊……阿嚏！	0	
+talk3103	明明是系统模拟的环境，我怎么感觉好像真的变冷了……	0	
+talk3104	补给点离这不远了。等拿到全新的<orange>通讯装置</>，就可以继续按原计划行动了。	0	
+talk3201	新的通讯装置到手了，接下来就看小老师我的吧！	0	
+talk3202	分析员，雪原的风吹在脸上像刀割一样，不过我并不讨厌这种感觉呢。	0	
+talk3203	让我走在前面帮你挡风吧。	0	
+talk3204	在芙提雅的安全操作下，成功恢复了通讯，可以继续前进了。	0	
+talk4101	分析员对创意料理感兴趣吗？	0	
+talk4102	哼，怎么可能。我可知道分析员最爱的餐馆，他每次和我吃饭都选那家。那是家很正宗的霍尔姆老派餐厅。	0	
+talk4103	但据我所知，分析员对琴诺制作的章鱼脚冰淇淋很是欣赏。所以我推测，分析员最近对创意料理感兴趣。	0	
+talk4104	什么！分析员你的口味变得也太快了，而且好极端。	0	
+talk4105	一直吃一样的东西当然会腻。	0	
+talk4106	不要埋怨分析员口味的改变，我们也要努力学习新的东西，让自己变得更好，更值得分析员喜欢。	0	
+talk4107	不就是创意料理嘛。亲爱的，你等着哦~	0	
+talk4108	我们不是刚吃完午饭吗？现在不急着聊吃饭的事情吧。	0	
+talk4109	双手合起，祈祷晚餐不要吃到奇怪的东西。	0	
+talk5101	呜哇……分析员儿！	0	
+talk5102	那个大大的、转动的圆圈，好像就是摩天轮吧？	0	
+talk5103	没错，是的。嗯？妮塔没玩过摩天轮吗？	0	
+talk5104	原来近距离看这么大啊——	0	
+talk5105	嘿嘿，我的确没玩过。在孤儿院的时候听其他小朋友讲起过，不过后来就一直在错失体验的机会。	0	
+talk5106	比如新恒提罗的那次派对，还有水上乐园的闯关挑战……	0	
+talk5107	（常觉亏欠妮塔很多……）	0	
+talk5108	妮塔有什么愿望，都告诉我吧。	0	
+talk5109	我会一一陪你实现的。	0	
+talk5110	啊、哎？！怎么突然感觉这么正式……	0	
+talk6101	队员们都在水上乐园好好放松精神，只有晴依然神情紧张。	0	
+talk6102	怎么还一脸凝重的？	0	
+talk6103	可惜……还好。	0	
+talk6104	可惜没能与我共同作战，还好能回到这里？	0	
+talk6105	果然，我的一切都能被分析员看穿。	0	
+talk6106	那晴猜猜我想说什么？	0	
+talk6107	让我不要多想，享受这里吧……	0	
+talk6108	看吧，战友。	0	
+talk6109	我们一直都最了解彼此。	0	
+talk7101	呜哇，好像已经感觉到晒了。	0	
+talk7102	说起来，在日光浴小岛上躺倒看你们闯关，也是一种乐趣~	0	
+talk7103	打工人可不希望团建也变成任务。	0	
+talk7104	瑟瑞斯打开录音笔，仿佛在确认什么。	0	
+talk7105	下次、下次一定不能再忘记了！	0	
+talk7106	瑟瑞斯又忘记什么？	0	
+talk7107	嘿嘿，当时我也在日光浴小岛看着分析员呢~为了能参加闯关我偷偷练了一会儿，嘿嘿~	0	
+talk7108	不过，我忘记涂防晒油了……是不是变黑了好多？	0	
+talk7109	没有哦，瑟瑞斯的肤色还是很健康很好看。以后我会帮瑟瑞斯想着涂防晒油的事情。	0	
+talk7110	不过这么说起来，感觉肴变黑得好像更明显……	0	
+talk7111	我可没有提前偷偷练习啊！	0	
+talk8101	分析员喜欢什么样子的伊切尔呢？	0	
+talk8102	水上乐园闯关那天，大家都穿得凉飕飕地站在大舞台上，分析员看大家的眼神非常满意——	0	
+talk8103	分析员一定是喜欢凉飕飕的样子！ 那伊切尔以后也要穿得凉飕飕！	0	
+talk8104	呃……不是那样的……	0	
+talk8105	伊切尔的什么样子，我都喜欢。	0	
+talk8106	不对不对！	0	
+talk8107	伊切尔穿了新衣服，分析员会更开心~	0	
+talk8108	那以后伊切尔经常穿新衣服给分析员看！	0	
+talk8109	好，都听你的。	0	
+talk9101	duang~duang~	0	
+talk9102	老师，好多水球呀，打破了之后肯定冰冰凉凉的吧！	0	
+talk9103	啊！分析员大人是怎么在闯关里躲过这么……这么多水球的？	0	
+talk9104	集中注意力在水球上，不要在这么混乱的情况里找我啊——	0	
+talk9105	（话是这么说，我现在也没办法集中注意了。）	0	
+talk9106	总觉得球好像更多了……	0	
+other_buffTypeName1	全队增益	0	
+other_buffTypeName2	单体增益	0	
+other_curseTypeName1	全队战术干扰	0	
+other_curseTypeName2	单体战术干扰	0	
+other_bagName1	威胁级别	0	
+other_bagName2	增益	0	
+other_bagName3	战术干扰	0	
+other_bagName4	补给	0	
+other_bagName5	迭战效果	0	
+other_bagName6	奖励预览	0	
+other_bagName7	战役特性	0	
+other_buffType	激励	0	
+other_dangerRange1	首领	0	
+other_dangerRange2	首领与敌方精英	0	
+other_dangerRange3	全部敌方目标	0	
+other_defeatButton1	暂时离开	0	
+other_defeatButton2	返回存档点	0	
+other_floor	第{1}层	0	
+other_sellBuff	回收	0	
+other_infinitePool	无限	0	
+other_probabilityTitle	概率详情	0	
+other_probabilityTitle2	本轮物品列表	0	
+other_poolOrderTip	取得上轮最高等级的特别嘉勉后解锁	0	
+other_poolComplete	已取得本轮全部嘉勉	0	
+other_poolName	特别嘉勉{1}	0	
+other_modeLockTip	悖论迷宫-多维解集开启后解锁	0	
+other_modeLockTip2	通关常规战局-普通难度后解锁	0	
+other_keySourceName1	按队员查看	0	
+other_keySourceName2	按类型查看	0	
+other_energyRuleDes1	每次完成悖论迷宫，将根据深入迷宫的层数降低精力值。精力值降低，思维译码获取量也将降低：	0	
+other_energyRuleDes2	每{1}分钟自动恢复1点精力值	0	
+other_ManualReward	耕耘之路	0	
+other_NoticeDes	开启倒计时：	0	
+other_NoticeModeDes	迭战模式开启倒计时：	0	
+other_KeySwitchTips1	请选择3个需要投入的思维译码	0	
+other_KeySwitchTips2	请选择1个需要获取的思维译码	0	
+other_KeySwitchTips3	至多可选3个	0	
+other_KeySwitchTips4	至多可选1个	0	
+other_JourneyBagTip	暂未获得道具	0	
+other_ScienceLockBtn	屏蔽	0	
+other_ScienceUnLockBtn	解除	0	
+other_ScoreTargetDes	挑战积分达到{1}	0	
+other_MonsterManualRewardName	战魂不息	0	悖论迷宫3.0图鉴奖励条目名称
+other_MonsterManualRewardDes	累计点亮征伐标记{1}个	0	悖论迷宫3.0图鉴奖励条目描述
+other_SchemeName	预设{1}	0	
+other_RewardListName1	战斗波次	0	
+other_RewardListName2	<span color="#ffffff">1级增益概率</>	0	
+other_RewardListName3	<span color="#128c3d">2级增益概率</>	0	
+other_RewardListName4	<span color="#4460ec">3级增益概率</>	0	
+other_RewardListName5	<span color="#8d4dcd">4级增益概率</>	0	
+other_RewardListName6	<span color="#ffb650">5级增益概率</>	0	
+other_RewardListName7	<span color="#fff178">战场经验</>	0	
+other_RewardListName8	推演经验	0	
+other_RewardListName9	智略点	0	
+other_BuffListTitle1	特殊增益	0	
+other_BuffListDes1	使用战场经验直接获取	0	
+other_BuffListTitle2	常规增益	0	
+other_BuffListDes2	通过增益试炼获取	0	
+other_BuffListTab	增益列表	0	
+other_BuffTypeName1	全队增益	0	
+other_BuffTypeName2	单体增益	0	
+other_FilterName0_1	取消筛选	0	
+other_FilterName0_2	全部	0	
+other_FilterName1_1	1级	0	
+other_FilterName1_2	2级	0	
+other_FilterName1_3	3级	0	
+other_FilterName1_4	4级	0	
+other_FilterName1_5	5级	0	
+other_FilterName2_1	专属增益	0	
+other_FilterName2_2	单体增益	0	
+other_FilterName2_3	全队增益	0	
+other_UavEffectShowTitle1	验证辅助机	0	部件buff总览分类页签
+other_UavEffectShowTitle2	上阵队员	0	部件buff总览分类页签
+other_ChaosWaveTitle	完成波次	0	连战房间波次显示
+science_name_101	躯体强化	0	
+science_name_102	低温强化	0	
+science_name_103	治疗强化	0	
+science_name_104	动能强化	0	
+science_name_105	物资强化	0	
+science_name_106	弩·精通	0	
+science_name_107	后勤强化	0	
+science_name_108	支援强化	0	
+science_name_109	重构折扣	0	
+science_name_110	耐力强化	0	
+science_name_111	信息强化	0	
+science_name_112	干扰净化	0	
+science_name_113	新增激励：铁卫	0	
+science_name_114	速度提升	0	
+science_name_115	狙击枪·精通	0	
+science_name_116	电击强化	0	
+science_name_117	冲锋枪·精通	0	
+science_name_118	精准提升	0	
+science_name_119	幸运匿迹	0	
+science_name_120	常规强化	0	
+science_name_121	增益强化	0	
+science_name_122	高热强化	0	
+science_name_123	新增激励：风锥	0	
+science_name_124	特异强化	0	
+science_name_125	突击步枪·精通	0	
+science_name_126	低调作战	0	
+science_name_127	霰弹枪·精通	0	
+science_name_128	攻击强化	0	
+science_name_129	能量流转	0	
+science_name_130	第一桶金	0	
+science_name_131	精锐单兵	0	
+science_name_132	精准打击	0	
+science_name_133	新增激励：暗容	0	
+science_name_134	额外本金	0	
+science_name_135	爆发强化	0	
+science_name_136	手枪·精通	0	
+science_name_137	高频技能	0	
+science_name_138	防御强化	0	
+science_name_139	瞄准强化	0	
+science_name_140	无缝换弹	0	
+science_name_141	兑换优惠	0	
+science_name_142	双枪·精通	0	
+science_name_143	能量流转·常规	0	
+science_name_144	气运增强	0	
+science_name_145	补给强化	0	悖论迷宫科技名称
+science_name_146	弓·精通	0	
+science_name_147	飞剑·精通	0	3.6悖论迷宫科技
+science_name_149	格林机枪·精通	0	悖论迷宫科技名称
+science_des_101	全队最大生命提升：	0	
+science_des_102	全队低温类型伤害提升，低温类型抗性提升：	0	
+science_des_103	治疗事件和急救瓶的治疗效果提升：	0	
+science_des_104	全队动能类型伤害提升，动能类型抗性提升：	0	
+science_des_105	前往推演时获得额外补给：	0	
+science_des_106	使用弩的队员获得正面效果：	0	
+science_des_107	前往推演时获得额外补给：	0	
+science_des_108	全队支援技伤害提升：	0	
+science_des_109	在安全屋协助重构队友意识消耗的迷宫之钥减少：	0	
+science_des_110	全队耐力提升：	0	
+science_des_111	路线选择时可查看具体情报：	0	
+science_des_112	在安全屋移除战术干扰消耗的迷宫之钥减少：	0	
+science_des_113	新增可选激励：	0	
+science_des_114	全队移动速度提升：	0	
+science_des_115	使用狙击枪的队员获得正面效果：	0	
+science_des_116	全队电击类型伤害提升，电击类型抗性提升：	0	
+science_des_117	使用冲锋枪的队员获得正面效果：	0	
+science_des_118	全队暴击率提升：	0	
+science_des_119	完成事件后，有概率不会增加威胁值：	0	
+science_des_120	全队常规技伤害提升：	0	
+science_des_121	战斗后获得增益的效果提升：	0	
+science_des_122	全队高热类型伤害提升，高热类型抗性提升：	0	
+science_des_123	新增可选激励：	0	
+science_des_124	全队特异类型伤害提升，特异类型抗性提升：	0	
+science_des_125	使用突击步枪的队员获得正面效果	0	
+science_des_126	完成事件后，获得对应事件的威胁值减少：	0	
+science_des_127	使用霰弹枪的队员获得正面效果：	0	
+science_des_128	全队攻击力提升：	0	
+science_des_129	全队爆发能量获取率提升：	0	
+science_des_130	前往推演时就获得迷宫之钥：	0	
+science_des_131	每个队员可使用的个人增益数量增加：	0	
+science_des_132	全队暴击伤害增幅提升：	0	
+science_des_133	新增可选激励：	0	
+science_des_134	战斗后获得迷宫之钥数量提升：	0	
+science_des_135	全队爆发技伤害提升：	0	
+science_des_136	使用手枪的队员获得正面效果：	0	
+science_des_137	全队技能急速增加	0	
+science_des_138	全队防御力提升：	0	
+science_des_139	全队瞄准射击伤害提升：	0	
+science_des_140	全队换弹速度提升：	0	
+science_des_141	军备兑换中补给的价格降低：	0	
+science_des_142	使用双枪·冲锋枪的队员获得正面效果：	0	
+science_des_143	全队常规能量回复速度提升：	0	
+science_des_144	幸运空投装置获得正面效果：	0	
+science_des_145	常规模式与迭战模式中的赠予增益获得提升：	0	
+science_des_146	使用弓的队员获得正面效果：	0	
+science_des_147	使用飞剑的队员获得正面效果：	0	3.6悖论迷宫科技
+science_des_149	使用格林机枪的队员获得正面效果：	0	悖论迷宫科技
+science_des_101_1	最大生命+{1}%	0	
+science_des_102_1	低温类型伤害+{1}%	0	
+science_des_102_2	低温类型抗性+{1}%	0	
+science_des_103_1	集中收治的治疗量+{1}%	0	
+science_des_103_2	急救包的治疗量+{1}%	0	
+science_des_104_1	动能类型伤害+{1}%	0	
+science_des_104_2	动能类型抗性+{1}%	0	
+science_des_105_1	前往推演时，额外获得{1}个急救包	0	
+science_des_105_2	前往推演时，额外获得{1}个侦察接收机	0	
+science_des_105_5	前往推演时，额外获得{1}个重构芯片	0	
+science_des_106_1	弩弹夹数量+{1}；待修改	1000	
+science_des_106_2	弩射击速度+{1}%	0	
+science_des_106_5	弩射击伤害+{1}%	0	
+science_des_107_1	前往推演时，额外获得{1}个领队权限卡	0	
+science_des_107_2	前往推演时，额外获得{1}个电磁脉冲发生器	0	
+science_des_107_5	前往推演时，额外获得{1}个便携屏蔽器	0	
+science_des_108_1	支援技伤害+{1}%	0	
+science_des_109_1	协助重构所需迷宫之钥减少{1}%	0	
+science_des_110_1	耐力+{1}%	0	
+science_des_111_1	路线选择时可查看遭遇作战中的敌方阵容信息	0	
+science_des_111_2	路线选择时可查看突发事件的随机范围	0	
+science_des_111_3	路线选择时可查看遭遇作战的奖励内容	0	
+science_des_111_4	路线选择时可查看遭遇作战中是否存在战术干扰	0	
+science_des_112_1	移除战术干扰所需迷宫之钥减少{1}%	0	
+science_des_113_1	新增激励：铁卫，护盾获取效能提升	0	
+science_des_114_1	移动速度+{1}%	0	
+science_des_115_1	狙击枪弹容+{1}	0	
+science_des_115_2	狙击枪射击速度+{1}%	0	
+science_des_115_5	狙击枪射击伤害+{1}%	0	
+science_des_116_1	电击类型伤害+{1}%	0	
+science_des_116_2	电击类型抗性+{1}%	0	
+science_des_117_1	冲锋枪弹容+{1}	0	
+science_des_117_2	冲锋枪射击速度+{1}%	0	
+science_des_117_5	冲锋枪射击伤害+{1}%	0	
+science_des_118_1	暴击率+{1}%	0	
+science_des_119_1	威胁值避免概率+{1}%	0	
+science_des_120_1	常规技伤害+{1}%	0	
+science_des_121_1	增益的刷新次数+{1}	0	
+science_des_121_2	增益的选项+{1}	0	
+science_des_121_3	增益的刷新次数+{1}	0	
+science_des_121_4	增益选项中将出现最高等级增益	0	
+science_des_122_1	高热类型伤害+{1}%	0	
+science_des_122_2	高热类型抗性+{1}%	0	
+science_des_123_1	新增激励：风锥，暴击伤害提升	0	
+science_des_124_1	特异类型伤害+{1}%	0	
+science_des_124_2	特异类型抗性+{1}%	0	
+science_des_125_1	突击步枪弹容+{1}	0	
+science_des_125_2	突击步枪射击速度+{1}%	0	
+science_des_125_5	突击步枪射击伤害+{1}%	0	
+science_des_126_1	威胁值-{1}%	0	
+science_des_127_1	霰弹枪弹容+{1}	0	
+science_des_127_2	霰弹枪射击速度+{1}%	0	
+science_des_127_5	霰弹枪射击伤害+{1}%	0	
+science_des_128_1	攻击力+{1}%	0	
+science_des_129_1	爆发能量获取率+{1}%	0	
+science_des_130_1	初始迷宫之钥+{1}	0	
+science_des_131_1	可使用的个人增益增加+{1}	0	
+science_des_132_1	暴击伤害增幅+{1}%	0	
+science_des_133_1	新增激励：暗容，弹匣容量提升	0	
+science_des_134_1	战斗后获得迷宫之钥+{1}%	0	
+science_des_135_1	爆发技伤害+{1}%	0	
+science_des_136_1	手枪弹容+{1}	0	
+science_des_136_2	手枪射击速度+{1}%	0	
+science_des_136_5	手枪射击伤害+{1}%	0	
+science_des_137_1	技能急速+{1}	0	
+science_des_138_1	防御力+{1}%	0	
+science_des_139_1	瞄准射击伤害+{1}%	0	
+science_des_140_1	换弹速度+{1}%	0	
+science_des_141_1	补给价格-{1}%	0	
+science_des_142_1	双枪·冲锋枪弹容+{1}	0	
+science_des_142_2	双枪·冲锋枪射击速度+{1}%	0	
+science_des_142_5	双枪·冲锋枪射击伤害+{1}%	0	
+science_des_143_1	常规能量回复速度提升{1}%	0	
+science_des_144_1	开启次数+{1}	0	
+science_des_144_2	获得高级正面效果的概率少量提升	0	
+science_des_144_4	获得高级正面效果的概率较大提升	0	
+science_des_145_1	增益组合上限增加{1}	0	悖论迷宫科技
+science_des_145_2	赠予强力增益的概率提升	0	悖论迷宫科技
+science_des_145_4	赠予强力增益的概率大幅提升	0	悖论迷宫科技
+science_des_146_1	弓弹容+{1}	0	
+science_des_146_2	弓射击速度+{1}%	0	
+science_des_146_5	弓射击伤害+{1}%	0	
+science_des_147_1	攻击力+{1}%	0	3.6悖论迷宫科技
+science_des_147_2	技能伤害+{1}%	0	3.6悖论迷宫科技
+science_des_147_3	攻击力+{1}%	0	3.6悖论迷宫科技
+science_des_147_4	技能伤害+{1}%	0	3.6悖论迷宫科技
+science_des_147_5	攻击力+{1}%	0	3.6悖论迷宫科技
+science_des_149_1	格林机枪弹容+{1}	0	悖论迷宫科技
+science_des_149_2	格林机枪武器适配率+{1}%	0	悖论迷宫科技
+science_des_149_5	格林机枪射击伤害+{1}%	0	悖论迷宫科技
+task_name_1	优秀日报	0	
+task_name_2	完美周报	0	
+task_name_3	快乐老家	0	
+task_name_4	摒除杂音	0	
+task_name_5	游刃有余	0	
+task_name_6	汗流浃背	0	
+task_name_7	预判敌人的预判	0	
+task_name_8	双子猎手	0	
+task_name_9	您完全不需要队友吗	0	
+task_name_10	把冲锋枪练到极致	0	
+task_name_11	把突击步枪练到极致	0	
+task_name_12	把狙击枪练到极致	0	
+task_name_13	把手枪练到极致	0	
+task_name_14	把弩练到极致	0	
+task_name_15	将霰弹枪练到极致	0	
+task_name_16	思维殿堂	0	
+task_name_17	思维殿堂	0	
+task_name_18	思维殿堂	0	
+task_name_19	思维殿堂	0	
+task_name_20	这下稳了	0	
+task_name_21	这下稳了	0	
+task_name_22	深谋远虑	0	
+task_name_23	深谋远虑	0	
+task_name_24	深谋远虑	0	
+task_name_25	深谋远虑	0	
+task_name_26	深谋远虑	0	
+task_name_27	深谋远虑	0	
+task_name_28	你来得正好	0	
+task_name_29	亿点点准备	0	
+task_name_30	你过来啊！	0	
+task_name_31	你过来啊！	0	
+task_name_32	你过来啊！	0	
+task_name_33	有备无患	0	
+task_name_34	有备无患	0	
+task_name_35	有备无患	0	
+task_name_36	如虎添翼	0	
+task_name_37	如虎添翼	0	
+task_name_38	如虎添翼	0	
+task_name_39	下次一定	0	
+task_name_40	下次一定	0	
+task_name_41	下次一定	0	
+task_name_42	全靠勤劳的双手	0	
+task_name_43	你能再表演一下那个吗	0	
+task_name_44	全副武装	0	
+task_name_45	均衡发展	0	
+task_name_46	排兵布阵	0	
+task_name_47	专项精通	0	
+task_name_48	专项精通	0	
+task_name_49	专项精通	0	
+task_name_50	专项精通	0	
+task_name_51	专项精通	0	
+task_name_52	专项精通	0	
+task_name_53	融会贯通	0	
+task_name_54	这就是分析员的实力	0	
+task_name_55	这就是分析员的实力	0	
+task_name_56	这就是分析员的实力	0	
+task_name_57	这就是分析员的实力	0	
+task_name_58	大的要来了	0	
+task_name_59	完成工作要趁早	0	
+task_name_60	标准结局	0	
+task_name_61	补救措施	0	
+task_name_62	把双枪练到极致	0	
+task_name_63	专项精通	0	
+task_name_64	把弓练到极致	0	
+task_name_65	把格林机枪练到极致	0	悖论迷宫格林机枪任务
+ManualName1	耕耘之路	0	
+ManualName2	耕耘之路	0	
+ManualName3	耕耘之路	0	
+ManualName4	耕耘之路	0	
+ManualName5	耕耘之路	0	
+ManualName6	耕耘之路	0	
+ManualName7	耕耘之路	0	
+ManualName8	耕耘之路	0	
+ManualName9	队员进阶	0	
+ManualName10	队员进阶	0	
+ManualName11	队员进阶	0	
+ManualName12	队员进阶	0	
+ManualName13	策略进阶-聚力	0	
+ManualName14	策略进阶-精术	0	
+ManualName15	策略进阶-鸣雨	0	
+ManualName16	策略进阶-铁卫	0	
+ManualName17	策略进阶-风锥	0	
+ManualName18	策略进阶-暗容	0	
+ManualName19	策略进阶-叠袭	0	
+ManualDes1	累计获得{1}个不同的增益	0	
+ManualDes2	累计获得{1}个不同的增益	0	
+ManualDes3	累计获得{1}个不同的增益	0	
+ManualDes4	累计获得{1}个不同的增益	0	
+ManualDes5	累计获得{1}个不同的增益	0	
+ManualDes6	累计获得{1}个不同的增益	0	
+ManualDes7	累计获得{1}个不同的增益	0	
+ManualDes8	累计获得{1}个不同的增益	0	
+ManualDes9	累计收集{1}个不同的角色专属增益	0	
+ManualDes10	累计收集{1}个不同的角色专属增益	0	
+ManualDes11	累计收集{1}个不同的角色专属增益	0	
+ManualDes12	累计收集{1}个不同的角色专属增益	0	
+ManualDes13	累计获得{1}个不同的聚力类激励增益	0	
+ManualDes14	累计获得{1}个不同的精术类激励增益	0	
+ManualDes15	累计获得{1}个不同的鸣雨类激励增益	0	
+ManualDes16	累计获得{1}个不同的铁卫类激励增益	0	
+ManualDes17	累计获得{1}个不同的风锥类激励增益	0	
+ManualDes18	累计获得{1}个不同的暗容类激励增益	0	
+ManualDes19	累计获得{1}个不同的叠袭类激励增益	0	
+task_des_1	完成普通或普通以上难度的悖论迷宫1次	0	
+task_des_2	完成普通或普通以上难度的悖论迷宫{1}次	0	
+task_des_3	累计在安全屋内移除战术干扰{1}次	0	
+task_des_4	使用1次便携屏蔽器	0	
+task_des_5	无队员受到战术干扰，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_6	全部队员受到战术干扰，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_7	累计消耗{1}个侦察接收机	0	
+task_des_8	上阵2位队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_9	上阵1位队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_10	仅上阵冲锋枪队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_11	仅上阵突击步枪队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_12	仅上阵狙击枪队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_13	仅上阵手枪队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_14	仅上阵弩队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_15	仅上阵霰弹枪队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_16	累计消耗{1}智略点	0	
+task_des_17	累计消耗{1}智略点	0	
+task_des_18	累计消耗{1}智略点	0	
+task_des_19	累计消耗{1}智略点	0	
+task_des_20	任意{1}个逻辑研习科目提升至5级	0	
+task_des_21	累计{1}个逻辑研习科目提升至5级	0	
+task_des_22	推演等级达到{1}级	0	
+task_des_23	推演等级达到{1}级	0	
+task_des_24	推演等级达到{1}级	0	
+task_des_25	推演等级达到{1}级	0	
+task_des_26	推演等级达到{1}级	0	
+task_des_27	推演等级达到{1}级	0	
+task_des_28	获取1次补给	0	
+task_des_29	完成悖论迷宫时，持有的迷宫之钥数量大于{1}	0	
+task_des_30	累计完成{1}次“遭遇作战”事件	0	
+task_des_31	累计完成{1}次“遭遇作战”事件	0	
+task_des_32	累计完成{1}次“遭遇作战”事件	0	
+task_des_33	累计获取{1}次战备补给	0	
+task_des_34	累计获取{1}次战备补给	0	
+task_des_35	累计获取{1}次战备补给	0	
+task_des_36	累计在军备兑换中获取{1}次增益	0	
+task_des_37	累计在军备兑换中获取{1}次增益	0	
+task_des_38	累计在军备兑换中获取{1}次增益	0	
+task_des_39	累计刷新{1}次军备兑换	0	
+task_des_40	累计刷新{1}次军备兑换	0	
+task_des_41	累计刷新{1}次军备兑换	0	
+task_des_42	全队拥有少于16个增益，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_43	所有队员无个人增益，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_44	任意一名队员拥有个人增益至少{1}个	0	
+task_des_45	累计获得{1}种或{1}种以上激励类型的增益，完成悖论迷宫1次	0	
+task_des_46	累计获得{1}个5级增益，完成悖论迷宫1次	0	
+task_des_47	选择【聚力】类激励，完成普通或普通以上难度的悖论迷宫1次	0	
+task_des_48	选择【精术】类激励，完成普通或普通以上难度的悖论迷宫1次	0	
+task_des_49	选择【暗容】类激励，完成普通或普通以上难度的悖论迷宫1次	0	
+task_des_50	选择【铁卫】类激励，完成普通或普通以上难度的悖论迷宫1次	0	
+task_des_51	选择【风锥】类激励，完成普通或普通以上难度的悖论迷宫1次	0	
+task_des_52	选择【鸣雨】类激励，完成普通或普通以上难度的悖论迷宫1次	0	
+task_des_53	完成悖论迷宫时，任意1个激励类型达到最高等级	0	
+task_des_54	完成【简单】难度的悖论迷宫1次	0	
+task_des_55	完成【普通】难度的悖论迷宫1次	0	
+task_des_56	完成【困难】难度的悖论迷宫1次	0	
+task_des_57	完成【厄险】难度的悖论迷宫1次	0	
+task_des_58	威胁级别为5级时，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_59	威胁级别不高于2级时，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_60	无队员倒下，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_61	累计为队员重构意识{1}次	0	
+task_des_62	仅上阵双枪·冲锋枪队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_63	选择【叠袭】类激励，完成普通或普通以上难度的悖论迷宫1次	0	
+task_des_64	仅上阵弓队员，完成困难或厄险难度的悖论迷宫1次	0	
+task_des_65	仅上阵格林机枪队员，完成困难或厄险难度的悖论迷宫1次	0	悖论迷宫格林机枪任务
+saesontask_name_1	手到擒来	0	
+saesontask_name_2	浅浅试探	0	
+saesontask_name_3	很有精神！	0	
+saesontask_name_4	过硬基本功	0	
+saesontask_name_5	顶级协作	0	
+saesontask_name_6	高光时刻	0	
+saesontask_name_7	谢谢惠顾	0	
+saesontask_name_8	谢谢惠顾	0	
+saesontask_name_9	谢谢惠顾	0	
+saesontask_name_12	再见了，所有的敌人	0	
+saesontask_name_13	再见了，所有的敌人	0	
+saesontask_name_14	再见了，所有的敌人	0	
+saesontask_name_15	秘宝猎人	0	
+saesontask_name_16	秘宝猎人	0	
+saesontask_name_17	秘宝猎人	0	
+saesontask_name_18	本来就很强	0	
+saesontask_name_19	本来就很强	0	
+saesontask_name_20	本来就很强	0	
+saesontask_name_21	摸不透的分析员	0	
+saesontask_name_22	摸不透的分析员	0	
+saesontask_name_23	摸不透的分析员	0	
+saesontask_name_24	真是强到不行	0	
+saesontask_name_25	实战应用	0	
+saesontask_name_26	实战应用	0	
+saesontask_name_27	实战应用	0	
+saesontask_name_28	实战应用	0	
+saesontask_name_29	实战应用	0	
+saesontask_name_30	实战应用	0	
+saesontask_name_31	还是那么熟练	0	
+saesontask_name_32	还是那么熟练	0	
+saesontask_name_33	还是那么熟练	0	
+saesontask_name_34	还是那么熟练	0	
+saesontask_name_35	真是简单到不行	0	
+saesontask_des_1	进入悖论迷宫-迭战模式，并完成{1}次“遭遇作战”事件	0	
+saesontask_des_2	完成悖论迷宫-迭战模式{1}次	0	
+saesontask_des_3	无队员受到战术干扰，完成悖论迷宫-迭战模式	0	
+saesontask_des_4	不上阵橙色品质队员，完成悖论迷宫-迭战模式{1}次	0	
+saesontask_des_5	上阵3位不同武器类型的队员，完成悖论迷宫-迭战模式{1}次	0	
+saesontask_des_6	上阵同一队员不同形态的战术套装，完成悖论迷宫-迭战模式{1}次	0	
+saesontask_des_7	累计申领{1}次特别嘉勉	0	
+saesontask_des_8	累计申领{1}次特别嘉勉	0	
+saesontask_des_9	累计申领{1}次特别嘉勉	0	
+saesontask_des_12	在悖论迷宫-迭战模式中，累计完成{1}次“遭遇作战”事件	0	
+saesontask_des_13	在悖论迷宫-迭战模式中，累计完成{1}次“遭遇作战”事件	0	
+saesontask_des_14	在悖论迷宫-迭战模式中，累计完成{1}次“遭遇作战”事件	0	
+saesontask_des_15	在悖论迷宫-迭战模式中，累计获取{1}次战备补给	0	
+saesontask_des_16	在悖论迷宫-迭战模式中，累计获取{1}次战备补给	0	
+saesontask_des_17	在悖论迷宫-迭战模式中，累计获取{1}次战备补给	0	
+saesontask_des_18	在悖论迷宫-迭战模式中，累计在军备兑换中获取{1}次增益	0	
+saesontask_des_19	在悖论迷宫-迭战模式中，累计在军备兑换中获取{1}次增益	0	
+saesontask_des_20	在悖论迷宫-迭战模式中，累计在军备兑换中获取{1}次增益	0	
+saesontask_des_21	在悖论迷宫-迭战模式中，累计刷新{1}次军备兑换	0	
+saesontask_des_22	在悖论迷宫-迭战模式中，累计刷新{1}次军备兑换	0	
+saesontask_des_23	在悖论迷宫-迭战模式中，累计刷新{1}次军备兑换	0	
+saesontask_des_24	全队拥有少于20个增益，完成悖论迷宫-迭战模式1次	0	
+saesontask_des_25	选择【聚力】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上	0	
+saesontask_des_26	选择【精术】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上	0	
+saesontask_des_27	选择【鸣雨】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上	0	
+saesontask_des_28	选择【铁卫】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上	0	
+saesontask_des_29	选择【风锥】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上	0	
+saesontask_des_30	选择【暗容】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上	0	
+saesontask_des_31	累计完成悖论迷宫-迭战模式{1}次	0	
+saesontask_des_32	累计完成悖论迷宫-迭战模式{1}次	0	
+saesontask_des_33	累计完成悖论迷宫-迭战模式{1}次	0	
+saesontask_des_34	累计完成悖论迷宫-迭战模式{1}次	0	
+saesontask_des_35	威胁级别不高于3级时，完成悖论迷宫-迭战模式{1}次	0	
+reward_buff_name1	射击·冲浪	0	
+reward_buff_name2	援助·冷饮	0	
+reward_buff_name3	高温防晒	0	
+reward_buff_name4	技能·冰霜	0	
+reward_buff_name5	技能·水炮	0	
+buff_name_0	攻击交叠	0	
+buff_name_0_2	生命交叠	0	
+buff_name_1	精进·射击	0	
+buff_name_2	精进·攻击	0	
+buff_name_3	精进·技能	0	
+buff_name_4	反扑	0	
+buff_name_5	搏乐	0	
+buff_name_6	狙击手	0	
+buff_name_7	手感·下次	0	
+buff_name_8	代价·随机	0	
+buff_name_9	精进·支援	0	
+buff_name_10	子弹·眩晕	0	
+buff_name_11	手感·叠加	0	
+buff_name_12	射击·加一	0	
+buff_name_13	代价·报复	0	
+buff_name_14	加倍·贯电	0	
+buff_name_15	射击·累积	0	
+buff_name_16	射击·易伤	0	
+buff_name_17	技能·控制	0	
+buff_name_18	反应·正负	0	
+buff_name_19	射击·失衡	0	
+buff_name_20	技能·爆电	0	
+buff_name_21	精进·暴击伤害	0	
+buff_name_22	精进·瞄准	0	
+buff_name_23	武器·准确度	0	
+buff_name_24	弱点·降速	0	
+buff_name_25	弱点·破防	0	
+buff_name_26	瞄准·暴击	0	
+buff_name_27	手感·弱点	0	
+buff_name_28	距离·远处	0	
+buff_name_29	瞄准·闪避	0	
+buff_name_30	趁机	0	
+buff_name_31	弱点·击飞	0	
+buff_name_32	弱点·吸取	0	
+buff_name_33	弱点·伤害	0	
+buff_name_34	弱点·垫付	0	
+buff_name_35	霜腐·暴击	0	
+buff_name_36	弱点·借速	0	
+buff_name_37	狙击·弱点	0	
+buff_name_38	弱点·装填	0	
+buff_name_39	弱点·冻结	0	
+buff_name_40	瞄准·环境	0	
+buff_name_41	护盾·获取	0	
+buff_name_42	护盾·构建	0	
+buff_name_43	保护·减伤	0	
+buff_name_44	技能·护盾	0	
+buff_name_45	代价·对等	0	
+buff_name_46	护盾·叠加	0	
+buff_name_47	闪避·强化	0	
+buff_name_48	距离·近处	0	
+buff_name_49	护盾·余热	0	
+buff_name_50	代价·提前	0	
+buff_name_51	代价·射速	0	
+buff_name_52	代价·温和	0	
+buff_name_53	代价·循环	0	
+buff_name_54	护盾·夺取	0	
+buff_name_55	护盾·进攻	0	
+buff_name_56	风伤·护盾	0	
+buff_name_57	代价·重击	0	
+buff_name_58	代价·进阶	0	
+buff_name_59	代价·反击	0	
+buff_name_60	代价·循序	0	
+buff_name_61	精进·弹匣	0	
+buff_name_62	精进·非瞄准	0	
+buff_name_63	射击·破防	0	
+buff_name_64	生命·盗用	0	
+buff_name_65	射击·装填	0	
+buff_name_66	射击·幸运	0	
+buff_name_67	射击·击败	0	
+buff_name_68	囤积·射击	0	
+buff_name_69	射击·随性	0	
+buff_name_70	追击·射击	0	
+buff_name_71	防御借用	0	
+buff_name_72	射击·持续	0	
+buff_name_73	浓焰·暴击	0	
+buff_name_74	射击·愈烈	0	
+buff_name_75	射击·神枪	0	
+buff_name_76	射击·霸体	0	
+buff_name_77	射击·惊吓	0	
+buff_name_78	弹匣·持续	0	
+buff_name_79	弹匣·追伤	0	
+buff_name_80	持续·破防	0	
+buff_name_81	常规·循环	0	
+buff_name_82	技能·流转	0	
+buff_name_83	爆发·循环	0	
+buff_name_84	射击·回能	0	
+buff_name_85	距离·灵活	0	
+buff_name_86	回能·攻击	0	
+buff_name_87	常规·加速	0	
+buff_name_88	冲刺·回复	0	
+buff_name_89	冲刺·循环	0	
+buff_name_90	移动·强化	0	
+buff_name_91	爆发·节能	0	
+buff_name_92	技能·加速	0	
+buff_name_93	射击·耗能	0	
+buff_name_94	耐力·流转	0	
+buff_name_95	击败·霸体	0	
+buff_name_96	钻筋·回能	0	
+buff_name_97	技能·互补	0	
+buff_name_98	移动·回能	0	
+buff_name_99	闪避·加速	0	
+buff_name_100	代价·技能	0	
+buff_name_101	精进·射速	0	
+buff_name_102	精进·移动	0	
+buff_name_103	精进·换弹	0	
+buff_name_104	瞄准·低温	0	
+buff_name_105	射击·动能	0	
+buff_name_106	代价·高热	0	
+buff_name_107	技能·电击	0	
+buff_name_108	追击·贯电	0	
+buff_name_109	追击·霜腐	0	
+buff_name_110	追击·风伤	0	
+buff_name_111	追击·浓焰	0	
+buff_name_112	追击·钻筋	0	
+buff_name_113	慢性·盗用	0	
+buff_name_114	追击·通用	0	
+buff_name_115	赋能·提速	0	
+buff_name_116	慢性·高热	0	
+buff_name_117	攻击·换弹	0	
+buff_name_118	赋能·破防	0	
+buff_name_119	射击·全套	0	
+buff_name_120	追击·缓刑	0	
+buff_name_121	安卡希雅·I	0	
+buff_name_122	安卡希雅·II	0	
+buff_name_123	里芙·I	0	
+buff_name_124	里芙·II	0	
+buff_name_125	狂猎·I	0	
+buff_name_126	狂猎·II	0	
+buff_name_127	妮塔·I	0	
+buff_name_128	妮塔·II	0	
+buff_name_129	芙提雅·I	0	
+buff_name_130	芙提雅·II	0	
+buff_name_131	茉莉安·I	0	
+buff_name_132	茉莉安·II	0	
+buff_name_133	雨燕·I	0	
+buff_name_134	雨燕·II	0	
+buff_name_135	晴·I	0	
+buff_name_136	晴·II	0	
+buff_name_137	琴诺·I	0	
+buff_name_138	琴诺·II	0	
+buff_name_139	芬妮·I	0	
+buff_name_140	芬妮·II	0	
+buff_name_141	咎冠·I	0	
+buff_name_142	咎冠·II	0	
+buff_name_143	肴·I	0	
+buff_name_144	肴·II	0	
+buff_name_145	冬至·I	0	
+buff_name_146	冬至·II	0	
+buff_name_147	恩雅·I	0	
+buff_name_148	恩雅·II	0	
+buff_name_149	恩雅·III	0	
+buff_name_150	猫汐尔·I	0	
+buff_name_151	猫汐尔·II	0	
+buff_name_152	猫汐尔·Ⅲ	0	
+buff_name_153	辉夜·I	0	
+buff_name_154	辉夜·II	0	
+buff_name_155	缄默·I	0	
+buff_name_156	缄默·II	0	
+buff_name_157	姬辰星·I	0	
+buff_name_158	姬辰星·II	0	
+buff_name_159	瑟瑞斯·I	0	
+buff_name_160	瑟瑞斯·II	0	
+buff_name_161	云篆·I	0	
+buff_name_162	云篆·II	0	
+buff_name_163	藏锋·I	0	
+buff_name_164	藏锋·II	0	
+buff_name_165	溯影·I	0	
+buff_name_166	溯影·II	0	
+buff_name_167	苔丝·I	0	
+buff_name_168	苔丝·II	0	
+buff_name_169	凯茜娅·I	0	
+buff_name_170	凯茜娅·II	0	
+buff_name_171	伊切尔·I	0	
+buff_name_172	伊切尔·II	0	
+buff_name_173	悖谬·I	0	
+buff_name_174	悖谬·II	0	
+buff_name_175	羽蜕·I	0	
+buff_name_176	羽蜕·II	0	
+buff_name_177	瞬刻·I	0	
+buff_name_178	瞬刻·II	0	
+buff_name_179	无限之视·I	0	
+buff_name_180	无限之视·II	0	
+buff_name_181	辉耀·I	0	
+buff_name_182	辉耀·II	0	
+buff_name_183	薇蒂雅·I	0	
+buff_name_184	薇蒂雅·II	0	
+buff_name_185	朝翼·I	0	
+buff_name_186	朝翼·II	0	
+buff_name_187	幽潮·I	0	
+buff_name_188	幽潮·II	0	
+buff_name_189	驰掣·I	0	
+buff_name_190	驰掣·II	0	
+buff_name_191	卜卜·I	0	
+buff_name_192	卜卜·II	0	
+buff_name_193	琼弦·I	0	
+buff_name_194	琼弦·II	0	
+buff_name_195	夜天光·I	0	
+buff_name_196	夜天光·II	0	
+buff_name_197	澜风·I	0	
+buff_name_198	澜风·II	0	
+buff_name_199	奈莉德·I	0	
+buff_name_200	奈莉德·II	0	
+buff_name_201	悸响·I	0	
+buff_name_202	悸响·II	0	
+buff_name_203	天鹅座·I	0	
+buff_name_204	天鹅座·II	0	
+buff_name_205	狂诗·I	0	
+buff_name_206	狂诗·II	0	
+buff_name_207	绮幻·I	0	
+buff_name_208	绮幻·II	0	
+buff_name_209	绯月·I	0	
+buff_name_210	绯月·II	0	
+buff_name_211	澄意·I	0	
+buff_name_212	澄意·II	0	
+buff_name_213	悠游·I	0	
+buff_name_214	悠游·II	0	
+buff_name_215	星彩·I	0	
+buff_name_216	星彩·II	0	
+buff_name_217	霆光·I	0	
+buff_name_218	霆光·II	0	
+buff_name_219	灵鉴·I	0	
+buff_name_220	灵鉴·II	0	
+buff_name_221	莲驱·I	0	
+buff_name_222	莲驱·II	0	
+buff_name_223	时之重奏·I	0	
+buff_name_224	时之重奏·II	0	
+buff_name_225	霄鹰·I	0	
+buff_name_226	霄鹰·II	0	
+buff_name_301	耐力·加速	0	
+buff_name_302	技能·生息	0	
+buff_name_303	技能·节俭	0	
+buff_name_304	群斗·热战	0	
+buff_name_305	技能·延续	0	
+buff_name_306	技能·开源	0	
+buff_name_307	技能·侵蚀	0	
+buff_name_308	技能·夺还	0	
+buff_name_309	技能·循环	0	
+buff_name_310	技能·衔接	0	
+buff_name_311	技能·克扣	0	
+buff_name_312	技能·装填	0	
+buff_name_313	援助·领域	0	
+buff_name_314	技能·陷阱	0	
+buff_name_315	伤害·交织	0	
+buff_name_316	伤害·潜伏	0	
+buff_name_317	伤害·连击	0	
+buff_name_318	伤害·扩散	0	
+buff_name_319	伤害·追击	0	
+buff_name_320	援助·追袭	0	
+reward_buff_des1	队员射击速度每{1}秒提升{2}%，持续{3}秒，且{4}秒内射击不消耗弹药，最终射击伤害降低{5}%。	0	
+reward_buff_des2	击败目标时，目标周围生成{1}个能量瓶或急救瓶，可回复{2}爆发能量或回复{3}%最大生命；能量瓶或急救瓶会在{4}秒后消失	0	
+reward_buff_des3	每秒获得{1}层【防晒油】，每层【防晒油】使队员受到伤害降低{2}%，至多叠加{3}层。队员受到伤害后，【防晒油】会减少{4}层	0	
+reward_buff_des4	常规技命中目标时候，会对目标施加{1}层【冰痕】，【冰痕】叠加至{2}层时，会冻结目标并持续{3}秒。期间不再叠加【冰痕】层数，目标处于冻结状态时，受到的技伤害提升{4}%	0	
+reward_buff_des5	爆发技对目标造成伤害时，会让目标携带{1}个持续爆炸的水炮，水炮每次爆炸造成队员攻击力{2}%的低温类型伤害，爆炸{3}次后消失；每个目标最多携带{4}个水炮，且无法刷新；水炮的爆炸速度逐渐加快，每次爆炸后，队员爆发技使用间隔降低{5}%，并回复{6}爆发能量；若目标在携带水炮期间被击败，水炮会提前消失	0	
+buff_des_0	攻击力提升20%，此效果最多叠加至99层	0	
+buff_des_0_2	生命值提升10%，此效果最多叠加至99层	0	
+buff_des_1	射击伤害提升{1}%	0	
+buff_des_2	攻击力提升{1}%	0	
+buff_des_3	技能伤害提升{1}%	0	
+buff_des_4	队员在受到伤害后，造成的伤害提升{1}%，持续5秒	0	
+buff_des_5	对自身周围10米范围内目标造成的伤害提升{1}%	0	
+buff_des_6	射击命中弱点后，技能伤害提升{1}%，持续5秒	0	
+buff_des_7	每次击败目标后的下一次造成的伤害提升{1}%	0	
+buff_des_8	造成的伤害提升{1}%，但造成伤害时有5%概率消耗自身5%当前生命，触发间隔1秒，队员不会因此倒下	0	
+buff_des_9	支援技的技能急速增加{1}，队员处于场下时造成的伤害提升{2}%	0	
+buff_des_10	每次换弹后第一颗子弹具备震荡功能，该次射击会对目标施加持续{1}秒的眩晕效果，触发间隔4秒	0	
+buff_des_11	击败目标时全伤害提升{1}%，持续10秒，最多叠加至5层	0	
+buff_des_12	射击速度降低10%，但每次射击有{1}%概率造成2次伤害	0	
+buff_des_13	射击伤害提升{1}%，每次射击消耗当前生命的5%，同时获得1层【积怨】效果，叠加至5层时下次射击造成的伤害提升{2}%，并回复本次伤害10%的生命	0	
+buff_des_14	对【贯电】状态下目标造成伤害提升{1}%，并回复本次伤害5%的生命，触发间隔3秒	0	
+buff_des_15	射击伤害每1秒提升{1}%，最多叠加{2}层，造成射击伤害时消耗当前层数	0	
+buff_des_16	射击伤害会为目标施加技能易伤效果，使其3秒内受到的技能伤害提高{1}%	0	
+buff_des_17	技能命中处于控制状态下的目标或造成控制效果时，额外造成1次目标{1}%最大生命的真实伤害，触发间隔3秒	0	
+buff_des_18	队员获得【阳】、【阴】两种效果，每次射击切换一次效果，【阳】效果的射击会对目标施加1层【光】效果，最多叠加5层，【阴】效果的射击会对目标施加【影】效果，使其攻击力降低{2}%，持续3秒；当目标处于【光】效果下，再被施加【影】效果时会基于当前【光】效果的层数对目标造成1次爆炸伤害：每层【光】效果造成队员{1}%攻击力的高热类型伤害	0	
+buff_des_19	造成射击伤害时，自身技能伤害提升{1}%，造成技能伤害时，则射击伤害提升{2}%，持续5秒；同时拥有这两个效果时，则二者提供的加成均翻倍	0	
+buff_des_20	技能造成伤害时，为自身和目标施加1层【爆】效果，最多叠加至5层，队员拥有该效果时，技能对目标造成伤害会基于【爆】的层数对目标额外造成1次电击类型伤害，每层造成{1}%攻击力的伤害，视为技能伤害；目标拥有【爆】效果时，每有1层，会使其受到的技能伤害提升{2}%，【爆】效果每秒移除1层	0	
+buff_des_21	暴击伤害提升{1}%	0	
+buff_des_22	瞄准射击伤害提升{1}%	0	
+buff_des_23	武器准确度提升{1}%	0	
+buff_des_24	命中目标弱点可使其移动速度降低30%，持续{1}秒	0	
+buff_des_25	对目标弱点造成伤害时，可无视其{1}%防御力	0	
+buff_des_26	瞄准状态下暴击率提升{1}%	0	
+buff_des_27	每次通过命中弱点击败目标时，攻击力提升{1}%，最多叠加至40层	0	
+buff_des_28	目标距离自身越远，则对其造成的伤害越高，最多提升{1}%	0	
+buff_des_29	处于瞄准状态2秒后，受到的最终伤害降低{1}%，移动速度提升{2}%	0	
+buff_des_30	对处于控制状态下的目标造成的伤害提升{1}%	0	
+buff_des_31	命中目标弱点时会将其击飞，并额外造成1次自身攻击力{1}%的动能类型伤害，触发间隔2秒	0	
+buff_des_32	每次命中弱点都回复本次伤害{1}%的生命，触发间隔10秒	0	
+buff_des_33	射击命中弱点时，最终伤害提升{1}%，命中非弱点部位时，最终伤害降低20%	0	
+buff_des_34	射击未命中目标弱点时，会使目标下次弱点受到的伤害提升{1}%，至多提升{2}%	0	
+buff_des_35	对【霜腐】状态下目标造成的暴击伤害提升{1}%，且无视目标{2}%防御力	0	
+buff_des_36	射击命中目标弱点时使自身射击速度提升{1}%，最多叠加5层，未命中弱点则清除所有层数	0	
+buff_des_37	狙击枪命中目标弱点时，有1%的概率造成{1}%最终伤害，每次命中弱点若未触发效果则使概率提升1%	0	
+buff_des_38	命中弱点击败目标，则立即装填2颗子弹，且暴击伤害提升{1}%，持续10秒，最多叠加5层	0	
+buff_des_39	命中目标弱点会施加持续1秒的冻结效果，处于冻结效果的目标受到攻击时或冻结时间结束时会解冻，并被施加【碎碎冰】效果：受到的弱点伤害提升{1}%，移动速度降低30%，持续10秒，10秒内无法再次被施加【碎碎冰】效果	0	
+buff_des_40	获得【猎视】效果：进入瞄准状态后，暴击伤害增幅提升{1}%，并对周围30米范围内目标施加迟缓效果，持续5秒，触发间隔10秒，效果结束后开始计算	0	
+buff_des_41	护盾获取效能提升{1}%	0	
+buff_des_42	护盾构建效能提升{1}%	0	
+buff_des_43	受到的最终伤害降低{1}%	0	
+buff_des_44	使用技能时获得最大生命{1}%的护盾，持续3秒，不可叠加	0	
+buff_des_45	队员生命每降低1%，则造成的伤害提升{1}%	0	
+buff_des_46	每秒获得自身最大生命{1}%的护盾，最多叠加至30层	0	
+buff_des_47	每次战术闪避会消耗5%当前生命，然后伤害提升{1}%，持续10秒，队员不会因该效果倒下	0	
+buff_des_48	目标距离自身越近，则对其造成的伤害越高，最多提升{1}%	0	
+buff_des_49	铁卫激励的护盾在失效时，队员获得剩余护盾值{1}%的治疗效果	0	
+buff_des_50	最大生命降低30%，造成的伤害提升{1}%	0	
+buff_des_51	若当前生命低于最大生命，则射击速度提升{1}%	0	
+buff_des_52	当前生命低于最大生命80%时，受到的最终伤害降低{1}%	0	
+buff_des_53	当前生命低于最大生命50%时，所有技能伤害提升{1}%，技能急速提升{2}%，且每秒额外获得{3}常规能量	0	
+buff_des_54	每当造成伤害时，获得{1}%最大生命的护盾，护盾最多可叠加至{2}层，每秒自然减少{3}层	0	
+buff_des_55	攻击力增加当前护盾的{1}%	0	
+buff_des_56	对【风伤】状态下的目标造成伤害时，获得{1}%最大生命的护盾，最多叠加至{2}层	0	
+buff_des_57	使用技能时会消耗当前生命5%，队员不会因该效果倒下，技能造成的最终伤害提升{1}%，持续5秒，触发间隔5秒	0	
+buff_des_58	基于当前生命获得强化，低于80%时获得【愤】：护盾获取效能提升{1}%，低于50%时获得【怒】：射击速度提升{2}%且技能急速提升{3}，低于30%时获得【狂】：攻击力提高{4}%，以上效果可同时存在	0	
+buff_des_59	队员受到致命伤害时不会倒下并进入【绝命】状态：获得持续10秒的无敌状态，且接下来10秒内射击速度提升{1}%，触发间隔60秒	0	
+buff_des_60	进入战斗状态后自身生命每秒降低5%，但造成的全类型伤害提升{1}%，队员不会因该效果倒下，离开战斗状态若当前生命低于50%则每秒回复5%最大生命	0	
+buff_des_61	弹匣容量提升{1}%	0	
+buff_des_62	非瞄准射击伤害提升{1}%	0	
+buff_des_63	射击伤害无视目标{1}%防御力	0	
+buff_des_64	每次射击造成伤害，该伤害的{1}%转化为自身生命	0	
+buff_des_65	射击造成伤害时有{1}%概率装填1个子弹	0	
+buff_des_66	每次换弹后{1}秒内射击不消耗子弹，触发间隔10秒	0	
+buff_des_67	击败目标时有{1}%概率装填满弹匣	0	
+buff_des_68	弹匣内每有1颗子弹，射击伤害提升{1}%	0	
+buff_des_69	非瞄准射击伤害提升{1}%，武器稳定性提升{2}%	0	
+buff_des_70	连续射击命中同一目标5次时，射击对其额外造成攻击力{1}%的高热类型伤害并将其击退，切换目标时计数重置	0	
+buff_des_71	每次射击命中目标，自身防御力增加{1}，持续2秒，最多增加{2}	0	
+buff_des_72	持续射击状态下移动速度提升{1}%，防御力提升{2}%	0	
+buff_des_73	对【浓焰】状态下的目标造成伤害提升{1}%，且暴击率提升{2}%	0	
+buff_des_74	持续射击超过1秒后获得【愈烈】效果：射击速度提升{1}%，每次射击命中使攻击力提升{2}%，至多提升{3}%，退出持续射击状态移除该效果	0	
+buff_des_75	每次射击命中会使枪械的稳定性和准确度提升10%，持续2秒，最多叠加10层，效果叠加至上限时获得【神枪】效果：弱点伤害提升{1}%	0	
+buff_des_76	持续射击状态下获得霸体效果，且受到的最终伤害降低{1}%	0	
+buff_des_77	射击命中目标会为其施加1层【惊】效果：每层使目标受到的射击伤害提升{1}%，持续0.5秒，最多叠加30层	0	
+buff_des_78	持续射击状态下，弹容提升{1}%，且每2秒装填{2}%子弹，退出持续射击状态则移除效果	0	
+buff_des_79	通过射击击败目标后{1}秒内射击不消耗子弹，同时每次射击附带1次当前弹匣容量*{2}%攻击力的高热类型伤害	0	
+buff_des_80	连续射击状态下每0.2秒积叠1次【管火】效果，每层使射击速度额外提升{1}%，最多叠加50层，叠加至满层时获得【过热】效果：射击无视目标{2}%防御力；换弹或退出连续射击状态移除所有层数	0	
+buff_des_81	常规能量回复速度提升{1}%	0	
+buff_des_82	技能急速提升{1}	0	
+buff_des_83	爆发能量获取率提升{1}%	0	
+buff_des_84	每次射击命中，回复{1}常规能量，触发间隔0.2秒	0	
+buff_des_85	自身周围10米内有目标存在则移动速度提升{1}%	0	
+buff_des_86	对目标造成伤害后，立刻回复{1}爆发能量，触发间隔2秒	0	
+buff_des_87	常规技造成伤害时，常规技剩余使用间隔降低{1}%，触发间隔1秒	0	
+buff_des_88	冲刺状态下每秒回复最大生命{1}%，且常规能量回复速度提升{2}%	0	
+buff_des_89	移动状态下每秒获得{1}爆发能量，冲刺状态下获得的能量翻倍	0	
+buff_des_90	移动速度每提升1%，则技能伤害提升{1}%	0	
+buff_des_91	爆发能量消耗降低{1}%，但使用爆发技结束后，其他所有最终伤害降低50%，持续10秒	0	
+buff_des_92	通过技能击败目标时立即使所有技能的使用间隔降低{1}%，并获得{2}常规能量	0	
+buff_des_93	射击消耗1爆发能量，使该次射击伤害提升{1}%	0	
+buff_des_94	常规能量回复速度提升{1}%，且冲刺和翻滚将不再消耗体力	0	
+buff_des_95	击败目标后获得霸体效果，且移动速度提升50%，持续{1}秒	0	
+buff_des_96	对【钻筋】状态下目标造成伤害提升{1}%，且造成伤害时回复{2}爆发能量，触发间隔3秒	0	
+buff_des_97	使用常规技或支援技后，爆发技使用间隔减少{1}秒；使用爆发技后，刷新常规技和支援技剩余的使用间隔	0	
+buff_des_98	移动状态下每0.5秒获得1层【能】效果，最多叠加至{1}层，每有1层则移动速度提升5%，技能伤害提升10%，停止移动后清空层数	0	
+buff_des_99	每次战术闪避会立即换弹1次，所有技能使用间隔降低20%，随后5秒内移动速度提高20%，触发间隔5秒	0	
+buff_des_100	技能急速增加{1}，常规能量消耗降低{2}%，每次使用技能后获得1层【疲】：移动速度降低5%，受到的伤害提升10%，最多叠加5层，持续10秒	0	
+buff_des_101	射击速度提升{1}%	0	
+buff_des_102	移动速度提升{1}%	0	
+buff_des_103	换弹速度提升{1}%	0	
+buff_des_104	瞄准射击获得低温赋能效果，每次瞄准射击额外造成攻击力{1}%的低温类型伤害	0	
+buff_des_105	持续射击状态下，获得赋能效果：每次射击额外造成攻击力{1}%的动能类型伤害	0	
+buff_des_106	当前生命低于50%时，获得赋能效果：每次射击额外造成攻击力{1}%的高热类型伤害	0	
+buff_des_107	使用技能后，获得赋能效果：每次射击额外造成攻击力{1}%的电击类型伤害，持续10秒	0	
+buff_des_108	技能命中目标有{1}%概率对目标施加【贯电】效果，每秒对其造成{2}%攻击力的电击类型伤害，射击命中【贯电】状态下目标，回复1常规能量和1爆发能量，持续10秒，触发间隔2秒	0	
+buff_des_109	射击命中弱点有{1}%概率对目标施加【霜腐】效果，每秒对其造成100%攻击力的低温类型伤害，使其移动速度降低20%，持续10秒	0	
+buff_des_110	射击有{1}%概率对目标施加【风伤】效果，每秒对其造成20%攻击力的动能类型伤害，持续10秒；击败【风伤】状态下的目标立刻获得攻击力25%的护盾，持续10秒，不可叠加	0	
+buff_des_111	射击有{1}%概率对目标施加【浓焰】效果，每秒对其造成20%攻击力的高热类型伤害，【浓焰】状态下目标受到的射击伤害提升20%，持续10秒	0	
+buff_des_112	技能命中目标有{1}%概率对目标附加【钻筋】效果，每秒对其造成20%攻击力的特异类型伤害，【钻筋】状态下目标受到的技能伤害提升20%，持续10秒	0	
+buff_des_113	对目标造成任意伤害时，对其持续1秒的【骨蚀】效果，最多叠加至50层，每层使目标受到的持续伤害提升{1}%，且【骨蚀】状态下的目标被击败时，可回复攻击力{2}%的生命，【骨蚀】每1秒移除1层	0	
+buff_des_114	对处于【贯电】、【霜腐】、【风伤】、【浓焰】、【钻筋】状态的目标造成的伤害提升{1}%，每有1种效果，此加成提升{2}%，最多叠加5层	0	
+buff_des_115	获得赋能效果时，射击速度提升{1}%，换弹速度提升{2}%	0	
+buff_des_116	每次对目标造成任意伤害时，对其施加【积薪】，最多叠加至50层，达到层数上限时，目标将直接损失队员攻击力{1}%的生命，并清空层数	0	
+buff_des_117	每换弹1次，全类型伤害提升{1}%，持续10秒，最多叠加5层	0	
+buff_des_118	所有射击的赋能效果造成的最终伤害提升{1}%且无视目标防御力，射击直接造成的最终伤害降低{2}%	0	
+buff_des_119	射击有{1}%的概率造成5次各个类型的伤害，伤害为队员自身攻击力的{2}%	0	
+buff_des_120	射击命中处于【贯电】、【霜腐】、【风伤】、【浓焰】、【钻筋】状态的目标，立即触发1次对应的持续伤害，触发间隔{1}秒	0	
+buff_des_121	爆发技使用间隔与能量消耗降低至原本的{1}%，对目标施加的迟缓效果降低至原本的{2}%	0	
+buff_des_122	匕首弹射次数增加，且伤害不再衰减	0	
+buff_des_123	【渡鸦】发射【耳语之矢】的概率提升至{1}% ，最终伤害提升{2}%	0	
+buff_des_124	【渡鸦】命中同一目标100次，会被其落下审判之雷，但不会施加麻痹效果	0	
+buff_des_125	每发射{1}发冰牙，自动引发1次【冰狼利牙】，但不会施加冻结效果	0	
+buff_des_126	每发冰牙所需雪息减少至{1}，且冰牙发射的速度提升{2}%	0	
+buff_des_127	【灭世舞步】伤害提升{1}%，同时吸附目标的范围提升{2}%	0	
+buff_des_128	【新世高歌】有40%概率造成1.5倍伤害，20%概率造成3倍伤害，10%概率造成6倍伤害，5%概率造成12倍伤害	0	
+buff_des_129	【人间之友】额外为场上队员补充满弹药	0	
+buff_des_130	队伍中任意队员使用任意技能时，均可获得【人间之友】赋能效果，且赋能的最终伤害提升{1}%	0	
+buff_des_131	非瞄准状态也可获得【专注】状态，且最多可叠加至{1}层	0	
+buff_des_132	战术闪避后获得【雾影扩散】相同的隐身状态，持续3秒，触发间隔10秒	0	
+buff_des_133	【云中穿梭】附带【落地强袭】的击退和阻断特化技能效果	0	
+buff_des_134	【碎羽】标记被命中时均造成1次范围伤害，该伤害为本次造成的命中伤害的{1}%	0	
+buff_des_135	【誓盟之剑】的触发间隔降低至{1}秒	0	
+buff_des_136	【决战领域】从使用时立即开始计算使用间隔，且持续时间增加至永久，场上只能同时存在1个【决战领域】	0	
+buff_des_137	【贝洛伯格】不再消耗生命，反而回复生命，但琴诺受到的最终伤害提升{1}%	0	
+buff_des_138	【贝洛伯格】超巨大化，体型、攻击力、最大生命均再次提升{1}%	0	
+buff_des_139	【拒绝宽恕】命中任意目标，武器每发弹丸数量永久+{1}，若该次攻击直接击败目标则额外+{2}，直至脱离战斗状态	0	
+buff_des_140	【妒火烧遍山巅 】对任意目标造成的每次伤害均回复{1}%生命	0	
+buff_des_141	【棘冠】状态下，射击有{1}%概率不消耗子弹	0	
+buff_des_142	【被选中之人】会同时提升换弹速度，且使用【最佳状态】时也会获得【被选中之人】相同效果，此效果会持续至【最佳状态】提供的【棘冠】状态结束为止	0	
+buff_des_143	【疗愈冬光】装置对范围内目标造成低温类型伤害，该伤害为其提供回复量的10倍	0	
+buff_des_144	【偷闲助手】存在上限增加至{1}，【临时加班】的使用间隔减少一半，且部署【疗愈冬光】的存在上限增加至{1}	0	
+buff_des_145	【新日耀斑】状态下射击不再需要蓄力	0	
+buff_des_146	【烈日苏醒】会补充{1}颗【烈日公式弹】	0	
+buff_des_147	【丰饶光极】回复速度提升{1}%	0	
+buff_des_148	【蛇翎】造成的最终伤害提升{1}%，且每次触发的【蛇翎】额外增加1枚	0	
+buff_des_149	【蛇翎】变为自动射击最近目标，原本射击命中消耗【丰饶光极】改为回复等量【丰饶光极】	0	
+buff_des_150	【本我意识体】和【表我意识体】的防御力变为其本体的{1}%	0	
+buff_des_151	（删除）	1000	
+buff_des_152	爆发技不再消耗爆发能量，而是回复{1}爆发能量	0	
+buff_des_153	【下弦月镖】可以永久降低目标所有类型抗性，可叠加至{1}层，但每层只提供1%/1.1%/1.2%/1.3%/1.4%/1.5%抗性降低	0	
+buff_des_154	爆发技不再消耗爆发能量，且每命中1次目标回复{1}爆发能量	0	
+buff_des_155	【不休之苦焰】变得更加巨大，造成的最终伤害提升{1}%，且命中点会吸附周围目标	0	
+buff_des_156	【不休之苦焰】伤害叠加层数增加至{1}，且每次命中叠加2层	0	
+buff_des_157	雷兵的最大存在数量增加至{1}，雷兵的最终伤害提升{2}%	0	
+buff_des_158	【五明之印】每隔{1}秒会自动投放1次	0	
+buff_des_159	【亡者守护】面积扩大，形成圆圈将队员包围	0	
+buff_des_160	【生序之穹】持续时间翻倍，且存在期间，被保护队员的攻击力提升{1}%	0	
+buff_des_161	【素书灵简】可标记的目标数量增加至{1}，且【灵简】每次被引爆时会造成2次伤害	0	
+buff_des_162	【灵简】引爆伤害提升至该次射击伤害的{1}%，且每传递1次降低30%改为提升{2}%，但射击造成的最终伤害降低{3}%	0	
+buff_des_163	每次命中目标都有{1}%的概率触发【以剑盟誓】效果，造成等同于目标当前生命5倍的真实伤害	0	
+buff_des_164	【以身为刃】状态下，【有偿正义】不再消耗【胜机值】，但【定局斩】仍需消耗	0	
+buff_des_165	【小凯贝·束缚者】被命中时，会为场上队员回复猫汐尔最大生命{1}%的生命，触发间隔{2}秒，每触发1次则回复量提升{3}%，最多提升至{4}%	0	
+buff_des_166	【小凯贝·束缚者】不会因目标进入无敌状态而被挣脱，传递伤害比例提升至{1}%	0	
+buff_des_167	【最佳助手】提供的加成不再每秒降低，改为每秒提升	0	
+buff_des_168	【摩登幻厅】结束时，苔丝的爆发能量不再清空	0	
+buff_des_169	凯茜娅射击命中时，攻击力提升{1}%，持续{2}秒，最多可提升至{3}%	0	
+buff_des_170	凯茜娅处于【第三指引】形态时，凯茜娅提供给自己的所有赋能效果的伤害提升{1}%	0	
+buff_des_171	【捕食之风】吸附目标的范围提升{1}%，【穿林之风】的次数增加至{2}次，且造成的伤害提升{3}%	0	
+buff_des_172	每个【越冬爪印】提供的额外攻击力提升{1}%	0	
+buff_des_173	【自厌旋涡】在放置时立即对周围目标产生1次大范围吸附，且【自厌旋涡】存在时持续吸附目标，并对范围内目标每{1}秒施加{2}层【恶绪】	0	
+buff_des_174	【自厌旋涡】每{1}秒对附近范围内目标造成{2}%的引爆伤害，此效果不影响当前的【恶绪】层数	0	
+buff_des_175	常规技【密林温差】的常规能量消耗降低{1}%，最终伤害提升{2}%，且每命中1个目标，常规技使用间隔减少{3}秒	0	
+buff_des_176	常规技的【雷霆坠暮】命中目标后的伤害降低转变为提升，且对目标施加的麻痹效果持续时间增加至{1}秒	0	
+buff_des_177	使用常规技【十四合一】时，立即吸附大范围内目标到自身前方，且每吸附1个目标，回复{1}常规能量	0	
+buff_des_178	常规技【十四合一】的力场大小、力场震碎时的伤害范围和造成的最终伤害，均提升{1}%，且命中目标数量不再有限制	0	
+buff_des_179	闪射每次命中目标有{1}%的概率返还闪射值；每次闪射攻击力提升{2}%，最多叠加至{3}层，持续至脱离战斗	0	
+buff_des_180	使用爆发技【吞噬神座】，里芙-无限之视进入【通界视主】状态后的移动速度翻倍，造成伤害时，若目标带有【瞬析】标记，则对该目标发射瞬析射线（目标拥有1个以上标记时，瞬析射线的最终伤害也不会降低）	0	
+buff_des_181	所有队员在拥有特殊弹匣时进行射击，有{1}%的概率补充1颗子弹，每触发1次该效果，芬妮-辉耀的攻击力提升{2}%，最多提升至{3}%	0	
+buff_des_182	队员拥有特殊弹匣时，射击速度提升{1}%	0	
+buff_des_183	【个人风格】最多可叠加至{1}层，爆发技【导演剪辑版】的最终伤害提升{2}%，且使用爆发技不再会清除【个人风格】	0	
+buff_des_184	每次使用等阶4常规技【四维技法】时，常规技造成的伤害提高，每次伤害提升{1}%，无提升上限，常规能量为0时或常规技等级降低会移除该效果	0	
+buff_des_185	常规技【晶羽留痕】生成【灵羽晶】时造成伤害的范围提升{1}%，若生成时命中目标，立刻刷新常规技的使用间隔	0	
+buff_des_186	常规技【晶羽留痕】生成【灵羽晶】命中目标不会消失，且凯茜娅-朝翼至多可通过12个【灵羽晶】发射【贯云流】，发射【贯云流】后的【灵羽晶】仍会消失	0	
+buff_des_187	获得【歌潮值】不再有触发间隔	0	
+buff_des_188	茉莉安-幽潮在【歌潮值】达到储存上限时，被使用支援技而上场后的{1}秒内射击不消耗子弹	0	
+buff_des_189	每当【异源值】为满时使用常规技会获得效果：【源点】形态时特殊射击不消耗【异源值】，效果持续期间【源点】形态下无法使用爆发技，且【源点】形态结束时移除该效果并清空所有【异源值】	0	
+buff_des_190	爆发技伤害提升{1}%，当【异源值】不足40时，可消耗{2}爆发能量使用1次爆发技，效果等同于消耗40【异源值】的爆发技	0	
+buff_des_191	卜卜处于【辟邪】状态下，高热类型射击伤害加成翻倍，且子弹弹射造成的伤害不再衰减，但消耗常规能量增加{1}%	0	
+buff_des_192	卜卜发射【秘丹】的能量获取率、造成的伤害与物品破坏力不再衰减	0	
+buff_des_193	常规技【前庭时雨】对同一目标的持续伤害不会逐渐减少，固定为原本伤害的{1}%，且每个目标可被刺嵌的箭矢数量增加至{2}	0	
+buff_des_194	每次发射【惊蛰箭】会有{1}发箭矢，造成{2}次伤害，并刺嵌{3}支箭矢	0	
+buff_des_195	爆发技【遇暗愈熠】不再有最低爆发能量限制，且持续期间肴不再消耗爆发能量	0	
+buff_des_196	所有类型的【勤勉光索】处于链接期间，造成的伤害及其施加的效果会随时间逐渐提升，最多提升至{1}倍	0	
+buff_des_197	【近海风枢】持续期间，恩雅-澜风每秒获得最大生命{1}%的护盾，最多可通过此方式获得最大生命{2}%的护盾，该护盾会持续存在，且拥有任意护盾时，可每秒获得【启风值】	0	
+buff_des_198	使用【深谷风枢】不再消耗常规能量，且每持续{1}秒会朝随机方向生成1个移动的模拟【深谷风枢】，碰撞墙体后消失，当恩雅-澜风变身成的【深谷风枢】本体消失时，其他模拟【深谷风枢】会一同消失（中途生成的模拟【深谷风枢】无法获得常规能量、爆发能量、【启风值】）	0	
+buff_des_199	【冥流】状态下，对同一目标造成的伤害不再逐渐降低，且每次命中目标获得的【悔语值】提升{1}%，发射【忏悔束带】额外消耗的【悔语值】降低{2}%	0	
+buff_des_200	【测谎者】持续时间增加至{1}秒，且持续时间内其他队员的技能对目标造成特异类型伤害时，该目标获得的【幻堕值】提升至{2}%	0	
+buff_des_201	完美时机打出【燃意拳】以及打出【焚尽拳】时，会额外对目标造成当前护盾量{1}%的伤害	0	
+buff_des_202	妮塔-悸响获得{1}层【烈音】效果，且每次完美时机打出【燃意拳】额外获得1层。每层【烈音】效果使妮塔-悸响技能最终伤害提升{2}%，最大生命增加{3}，该效果可持续存在,若触发内焚效果则移除当前一半【烈音】效果	0	
+buff_des_203	【检索助手】转变对应伤害类型的链接状态后，范围内每击败1个目标，则全队的全类型伤害提升{1}%，最多叠加至{2}层	0	
+buff_des_204	常规技【红鲱鱼】最终伤害提升{1}%，【诱导信标】每升1阶时间减少至{2}秒	0	
+buff_des_205	使用【穿云激流】期间凯茜娅移动速度提升{1}%，【钢岚炮】攻击频率提升至{2}倍	0	
+buff_des_206	【时空力场】持续期间，凯茜娅不再消耗常规能量，且【时空力场】的【时空追击炮】数量增加至{1}，命中后会使目标受到的射击伤害提升{2}%，持续{3}秒，最多叠加至{4}层	0	
+buff_des_207	苔丝-绮幻提供的所有赋能效果的伤害提升{1}%，且持续时间为永久，同时获得赋能效果的队员射击速度提升{2}%	0	
+buff_des_208	【助理苹果·金蕊】不再消耗常规能量，爆炸范围和伤害均提升{1}%，每次使用【助理苹果·金蕊】后，都可使【助理苹果·金蕊】的最终伤害提升{2}%，持续{3}秒，最多叠加至{4}层	0	
+buff_des_209	神格同调效果【暖液化生】提供的额外生命上限增加至{1}，【暗红射击】命中时的固化治疗量提升{2}%，且【暗红射击】后也能产生【血族视界】	0	
+buff_des_210	每次成功触发【血族视界】时，可消耗{1}%当前生命，额外制造{2}只赤绒蝠，赤绒蝠命中目标时获得1层【夜鸣】效果：常规技伤害提升{3}%，持续{4}秒，最多叠加至{5}层	0	
+buff_des_211	芬妮-澄意最大爆发能量增加至{1}，且每次【浮澄射击​】回复{2}爆发能量	0	
+buff_des_212	【澄空】状态下在空中可以恢复耐力，【炽能超载】不再清空弹匣，且【炽能超载】、【浮澄射击​】和【浮澄击球】的伤害提升{1}%	0	
+buff_des_213	{1}秒内未继续添加【巡洋】标记才会消耗1层，叠加至满层时，场上队员技能的最终伤害提升{2}%	0	
+buff_des_214	进入【悠浪】状态时和击败目标时，获得最大生命{1}%的护盾，最多叠加至最大生命{2}%，同时【悠浪】状态下造成技能伤害时，会额外造成1次等于护盾吸收量{3}%的伤害	0	
+buff_des_215	米娅·星彩在【风引星爆】状态下所需【甜星弹】发射数量降低至{1}，在退出【风引星爆】状态后获得{2}【彩绒标记】；为【星爆弹匣】装填【甜星弹】每发所消耗【风味星点】降低至{3}，拆卸【星爆弹匣】时每剩余1发【甜星弹】返还的【风味星点】降低至{4}	0	
+buff_des_216	米娅·星彩在【风引星爆】状态下使用【逐星微光】不再需要蓄力，可瞬间将范围扩至最大并直接发射	0	
+buff_des_217	【断穹斩】每命中1个目标，晴-霆光回复{1}爆发能量，通过该方式最多回复{2}爆发能量	0	
+buff_des_218	【断穹斩】造成的最终伤害提升至原本伤害的{1}%，使用后不再留下【千雷游光屏】	0	
+buff_des_219	【虚镜】世界中卜卜-灵鉴触发的【虚镜斩】命中目标时会获得{1}【溢光】，且对单个目标添加【裂痕】效果的最多层数增加至{2}层	0	
+buff_des_220	卜卜-灵鉴自身（不包含【镜影】）使用的【镜彩射击】和【镜裂射击】会消耗{1}常规能量，使其最终伤害提升{2}%，且无论处于现实世界还是【虚镜】世界，使用爆发技【吉煞映照】都会获得{3}常规能量	0	
+buff_des_221	猫汐尔-莲驱布置【臆莲基座】时，直接布置【梦莲】无人机至数量上限；爆发技【顷刻莲潮】不再有使用间隔，且【无尘之祈】状态持续时间增加至无限，期间猫汐尔-莲驱的【臆莲基座】和【梦莲】无人机的伤害额外提升{1}%	0	
+buff_des_222	【臆莲基座】的最大生命提升至{1}%，且每秒对范围内的目标造成相当于【臆莲基座】最大生命{2}%的伤害	0	
+buff_des_223	安卡希雅-时之重奏在两种形态下可获得的最大【月刻值】提升{1}%，常规技最终伤害提升{2}%；常规形态下飞剑命中目标获得的【月刻值】增加至{3}，成长形态下【月镰剑势】命中目标时获得的【月刻值】增加至{4}	0	
+buff_des_224	安卡希雅-时之重奏在常规形态下冲刺的速度提升{1}%，【灵轨月轮】为扩散状态时安卡希雅-时之重奏不再获得【月刻值】，但冲刺状态下会自然获得【月刻值】，反之则【月刻值】逐渐减少，冲刺的同时会周期性朝周围至多{2}个目标释放落剑，其造成的伤害会随当前【月刻值】提升，每有1【月刻值】则落剑伤害提升{3}%	0	
+buff_des_225	茉莉安-霄鹰处于【空猎】状态时，为场上队员提供的额外攻击力比例提升100%，每0.1秒获得的【鸟瞰值】提升100%，且每次发射【凌空炮】会使茉莉安-霄鹰的支援技最终伤害提升30%，持续15秒，最多可叠加至4层	0	
+buff_des_226	茉莉安-霄鹰通过【獠牙信标】进行攻击之后，茉莉安-霄鹰为其充能的【械武值】额外增加1，最多可额外增加3【械武值】	0	
+buff_des_301	耐力回复速度提升{1}%	0	
+buff_des_302	使用技能会回复{1}%最大生命，触发间隔{2}秒	0	
+buff_des_303	常规能量、爆发能量的消耗降{1}%	0	
+buff_des_304	一定范围内，每有1个敌方目标，则队员攻击力提升{1}%，最多提升{2}%	0	
+buff_des_305	使用技能后{1}秒内射击伤害提升{2}%	0	
+buff_des_306	每次技能命中目标，都可回复{1}常规能量，触发间隔{2}秒	0	
+buff_des_307	技能命中目标时，使其受到的射击伤害提升{1}%，持续{2}秒	0	
+buff_des_308	场上队员技能命中目标时对目标施加持续{1}秒的【借贷】标记，对拥有此标记的目标造成射击伤害时，该队员会回收标记，每个标记使该队员所有技能的使用间隔减少{2}秒	0	
+buff_des_309	使用主动技能消耗的常规能量，按{1}%的比例转化为爆发能量；使用主动技能消耗的爆发能量，按{2}%的比例转化为常规能量	0	
+buff_des_310	技能命中目标时对其施加持续{1}秒的眩晕状态，若处于眩晕状态的目标受到射击伤害被击飞，则在被击飞时受到最大生命{2}%的动能类型伤害，对单个目标触发间隔{3}秒，对无法击飞的目标不生效	0	
+buff_des_311	使用常规技或爆发技后，对应能量储备低于上限{1}%时，则有{2}%概率返还本次消耗能量{3}%的对应能量	0	
+buff_des_312	使用主动技能立即补充弹容{1}%的子弹	0	
+buff_des_313	队员周围生成1个安卡希雅特供的【梦魇领域·轻量版】并且跟随队员，【梦魇领域·轻量版】内部对一切目标施加迟缓效果，包括子弹	0	
+buff_des_314	使用任意主动技能会生成1个跟随自身的电击陷阱，存在{1}秒，目标处于电击陷阱中时会每秒受到队员攻击力{2}%的电击类型伤害并被施加持续{3}秒的麻痹状态，每次电击类型伤害还会使目标受到的射击伤害提升{4}%，电击陷阱同时最多存在{5}个	0	
+buff_des_315	队员技能命中目标会获得1层【圆心】效果，射击命中目标时会对其施加1层【圆周】效果，当【圆心】叠加至10层立即以队员为中心释放1次震荡冲击，对周围目标造成队员攻击力{1}%的动能类型伤害，当【圆周】叠加至10层会立即以该目标为中心释放1次震荡冲击，对该目标及其周围其他目标造成队员攻击力{1}%的动能类型伤害，两种震荡冲击均会再次给受到伤害的目标施加2层【圆周】效果	0	
+buff_des_316	队员技能或者射击命中目标时给目标施加1层持续{1}秒的【积劳】效果，最多叠加至{2}层，此效果在持续时间结束时或叠满层后清空时会对目标造成1次队员攻击力{3}%的动能类型伤害；在造成伤害时，每额外有1层【积劳】效果，该伤害提升{4}%，【积劳】效果的持续时间可以被迟缓效果延长。	0	
+buff_des_317	队员技能命中目标后自身获得持续{1}秒的【连段·技】状态，此状态下射击命中目标会激活【连段】效果，队员射击命中目标后自身获得持续{2}秒的【连段·械】状态，此状态下使用主动技能会激活【连段】效果，每次成功激活【连段】效果会立即为队员回复{3}常规能量并使常规技使用间隔降低{4}%	0	
+buff_des_318	队员在{1}秒内技能和射击都命中目标时，会使目标进入持续{2}秒的【畏惧】状态和1层【毒嗜】效果，【畏惧】状态会对目标施加迟缓效果，【毒嗜】效果最多可叠加至{3}层；当【毒嗜】效果叠至满层或【畏惧】状态结束时，每层【毒嗜】都会对目标造成队员攻击力{4}%的动能类型伤害，若该次伤害直接击败目标则触发【恐慌】效果：使被击败目标周围的敌方目标均进入【畏惧】状态	0	
+buff_des_319	常规技的技能急速增加{1}，队员使用常规技后{2}秒内通过射击命中目标，则自身获得1层持续{3}秒【评优】效果：自身所有伤害提升{4}%，最多叠加至{5}层	0	
+buff_des_320	队员获得芙提雅科技支援，射击命中时有{1}%概率激活【余怒流火】，对目标周围至多{2}个目标造成队员攻击力{3}%的高热类型伤害	0	
+Buff_Tag1	生命提升	0	
+Buff_Tag2	攻击提升	0	
+Buff_Tag3	强化射击	0	
+Buff_Tag4	强化技能	0	
+Buff_Tag5	伤害提升	0	
+Buff_Tag6	控制效果	0	
+Buff_Tag7	回复	0	
+Buff_Tag8	护甲击破	0	
+Buff_Tag9	额外伤害	0	
+Buff_Tag10	暴击提升	0	
+Buff_Tag11	移动加速	0	
+Buff_Tag12	弹药补充	0	
+Buff_Tag13	护盾	0	
+Buff_Tag14	防御	0	
+Buff_Tag15	弹容提升	0	
+Buff_Tag16	能量获取	0	
+danger_basedes1	敌方目标生命提升{1}%、防御力提升{2}%、攻击力提升{3}%。此外，{4}获得以下类型威胁值加成	0	
+danger_skillname1	悍匪	0	
+danger_skillname2	顽抗	0	
+danger_skillname3	撕裂	0	
+danger_skillname4	怒涛	0	
+danger_skillname5	颓靡	0	
+danger_skillname6	侵蚀	0	
+danger_skillname7	爆裂	0	
+danger_skillname8	掣肘	0	
+danger_skillname9	吞噬	0	
+danger_skillname10	易损	0	
+danger_skilldes1	敌方目标受到的伤害降低{1}%	0	
+danger_skilldes2	敌方目标的防御力每秒提升1%，最多叠加至{1}层，被击中会减少1层	0	
+danger_skilldes3	队员受到敌方目标攻击后，每3秒降低{1}%最大生命，持续15秒	0	
+danger_skilldes4	敌方目标在场上每3秒伤害提升{1}%，最多叠加10层	0	
+danger_skilldes5	队员受到敌方目标攻击后，攻击力降低{1}%，持续5秒，最多叠加至10层	0	
+danger_skilldes6	敌方目标受到攻击后，受到的伤害降低{1}%，持续1秒，最多叠加至10层	0	
+danger_skilldes7	敌方目标被击败时，1.5秒后，对5米范围内队员造成1次目标攻击力{1}%的动能类型伤害	0	
+danger_skilldes8	队员受到敌方目标攻击后，移动速度降低{1}%，持续3秒，最多叠加至5层	0	
+danger_skilldes9	敌方目标造成伤害后，会恢复等同于伤害量{1}%的生命	0	
+danger_skilldes10	没有护盾的队员受到攻击时，受到的伤害提升{1}%	0	
+curse_name1	战术干扰·失衡	0	
+curse_name2	战术干扰·衰弱	0	
+curse_name3	战术干扰·疲惫	0	
+curse_name4	战术干扰·沉疴	0	
+curse_name5	战术干扰·延误	0	
+curse_name6	战术干扰·涣散	0	
+curse_name7	战术干扰·迟缓	0	
+curse_name8	战术干扰·重荷	0	
+curse_name9	战术干扰·磨损	0	
+curse_name10	战术干扰·钝感	0	
+curse_name11	战术干扰·暗创	0	
+curse_des1	全队队员防御力降低{1}%	0	
+curse_des2	全队队员最大生命降低{1}%	0	
+curse_des3	全队队员攻击力降低{1}%	0	
+curse_des4	全队队员受治疗效果降低{1}%	0	
+curse_des5	受到战术干扰的队员技能使用间隔提升{1}%	0	
+curse_des6	受到战术干扰的队员每秒失去{1}爆发能量	0	
+curse_des7	受到战术干扰的队员移动速度降低{1}%	0	
+curse_des8	受到战术干扰的队员耐力消耗提升{1}%	0	
+curse_des9	受到战术干扰的队员弹匣容量降低{1}%，最低降至1	0	
+curse_des10	受到战术干扰的队员换弹速度降低{1}%	0	
+curse_des11	受到战术干扰的队员每秒降低当前生命{1}%	0	
+season_name	多维解集	0	
+season_playType_name1	迭战模式	0	
+season_playType_name2	常规模式	0	
+season_playType_name3	验证战场	0	
+season_taskType_name1	常规推演任务	0	
+season_taskType_name2	限时推演任务	0	
+season_skill_name1	炽盛战意	0	
+season_skill_name2	深层运策	0	
+season_skill_name3	乐园水炮	0	
+season_skill_name4	正面4	1000	
+season_skill_name5	正面5	1000	
+season_skill_name6	正面6	1000	
+season_skill_name7	正面7	1000	
+season_skill_name8	正面8	1000	
+season_skill_name9	正面9	1000	
+season_skill_name10	正面10	1000	
+season_skill_name11	负面1	1000	
+season_skill_name12	恶性顽抗	0	
+season_skill_name13	思维共感	0	
+season_skill_name14	乐园假日	0	
+season_skill_name15	负面5	1000	
+season_skill_name16	负面6	1000	
+season_skill_name17	负面7	1000	
+season_skill_name18	负面8	1000	
+season_skill_des1	队员每深入一层，都会自动回复满爆发能量。使用常规技、爆发技和支援技时，有概率不消耗能量且不进入使用间隔	0	
+season_skill_des2	在迭战模式中进行推演，将更容易获得稀有增益，也可获取更多思维译码、推演经验及智略点	0	
+season_skill_des3	使用主动技能对目标造成伤害时，会附加一次水炮爆炸，额外对目标造成50%技能伤害的低温类型伤害。每次水炮爆炸为目标施加1层【湿冷】效果，每层【湿冷】效果使目标受到的水炮伤害提升20%，最多叠至10层	0	
+season_skill_des4	【正面】射击时，有概率消耗金币发动金币攻击，造成巨额范围伤害	1000	
+season_skill_des5	【正面】低重力环境，允许跳跃，跳跃后将短暂制空并缓慢下落，在空中可以射击，且射击将造成范围爆炸伤害	1000	
+season_skill_des6	【正面】每移动5米，将自动布设一个炸弹	1000	
+season_skill_des7	【正面】通关战斗房间会随机掉落合成配方，在补给点可以合成buff、特殊道具、限定武器	1000	
+season_skill_des8	【正面】可以使用道具烟雾弹，使用后x秒内不会被怪物发现，也不会吸引仇恨	1000	
+season_skill_des9	【正面】场下角色的属性将转移30%至场上角色	1000	
+season_skill_des10	【正面】击败敌人后有概率收服敌人（获得敌人召唤卡道具），战斗中可以使用敌人召唤卡召唤敌人	1000	
+season_skill_des11	【负面】怪物半血以上时，受到的射击伤害减半；半血以下时，受到的技能伤害减半	1000	
+season_skill_des12	每当目标受到10次射击，将会在其周围引爆1次针对队员的范围爆炸	0	
+season_skill_des13	挑战悖论迷宫获取思维译码的总量将受到精力值限制，精力值降低时，获取数量降低	0	
+season_skill_des14	完成滚石派对将会获得万用思维译码	0	
+season_skill_des15	【负面】所有技能cd时间+200%	1000	
+season_skill_des16	【负面】关卡被浓雾笼罩，可见范围极低	1000	
+season_skill_des17	【负面】天空中会掉落鲨鱼，砸到地面发生爆炸伤害玩家	1000	
+season_skill_des18	【负面】地面会出现烫脚地板，造成持续伤害，爆开后还会禁锢玩家2s不能移动	1000	
+plan_buff_name1	乘胜	0	悖论迷宫2.5赛季增益名称
+plan_buff_name2	燃动	0	悖论迷宫2.5赛季增益名称
+plan_buff_name3	卫护	0	悖论迷宫2.5赛季增益名称
+plan_buff_name4	赋能	0	悖论迷宫2.5赛季增益名称
+plan_buff_name5	精进·破坏	0	悖论迷宫2.7赛季增益名称
+plan_buff_name6	炽盛战意	0	悖论迷宫3.0赛季增益名称
+plan_buff_des1	队员射击造成的最终伤害提升{1}%，任意队员射击伤害暴击时，其主动技能的使用间隔减少{2}秒，该效果每{3}秒最多触发1次	0	悖论迷宫2.5赛季增益描述
+plan_buff_des2	队员主动技能造成伤害时，将产生1次爆炸，每0.5秒至多触发1次，对8米范围内全部敌方目标造成自身攻击力{1}%的真实伤害，爆炸每造成{2}次伤害，队员进入【激切】状态，持续{3}秒，期间所有技能的使用间隔降低{4}%，且不消耗常规能量	0	悖论迷宫2.5赛季增益描述
+plan_buff_des3	队员每次进入战斗，将会获得1个最大生命{1}%+已损失生命{2}%的护盾，该护盾持续存在；队员持续消耗生命，每降低当前生命的{3}%，将会获得最大生命{4}%的护盾，最多获得最大生命{5}%的护盾	0	悖论迷宫2.5赛季增益描述
+plan_buff_des4	队员造成射击伤害时，有{1}%的概率附带1次自身攻击力{2}%的任意类型赋能伤害，队员可以同时附带多种类型的赋能伤害，且每种类型的概率独立计算	0	悖论迷宫2.5赛季增益描述
+plan_buff_des5	物品破坏力提升{1}%	0	悖论迷宫2.7赛季增益描述
+plan_buff_des6	使用常规技和爆发技时，有概率不消耗能量且不进入使用间隔	0	悖论迷宫3.0赛季增益描述
+ScoreLevelBuff_name1	潜能活化	0	悖论迷宫2.5赛季关卡环境名称
+ScoreLevelBuff_name2	强击抵换	0	悖论迷宫2.5赛季关卡环境名称
+ScoreLevelBuff_name3	涌伤旋涡	0	悖论迷宫2.5赛季关卡环境名称
+ScoreLevelBuff_name4	劣性流徙	0	悖论迷宫2.5赛季关卡环境名称
+ScoreLevelBuff_name5	视守为攻	0	悖论迷宫2.5赛季关卡环境名称
+ScoreLevelBuff_name6	盾击强化	0	悖论迷宫2.5赛季关卡环境名称
+ScoreLevelBuff_name7	倨地拮抗	0	悖论迷宫2.5赛季关卡环境名称
+ScoreLevelBuff_name8	全域专长	0	悖论迷宫2.5赛季关卡环境名称
+ScoreLevelBuff_name9	诊疗匮乏	0	悖论迷宫2.7赛季关卡环境名称
+ScoreLevelBuff_name10	脆弱防护	0	悖论迷宫2.7赛季关卡环境名称
+ScoreLevelBuff_name11	乘势追击	0	悖论迷宫2.7赛季关卡环境名称
+ScoreLevelBuff_name12	备战充分	0	悖论迷宫2.7赛季关卡环境名称
+ScoreLevelBuff_name13	特异领域	0	悖论迷宫3.0赛季关卡环境名称
+ScoreLevelBuff_name14	电磁涡流	0	悖论迷宫3.0赛季关卡环境名称
+ScoreLevelBuff_name15	能量波动	0	悖论迷宫3.0赛季关卡环境名称
+ScoreLevelBuff_name16	卓越温感	0	悖论迷宫3.0赛季关卡环境名称
+ScoreLevelBuff_name17	主动击破	0	悖论迷宫3.0赛季关卡环境名称
+ScoreLevelBuff_name18	战力疲敝	0	悖论迷宫3.0赛季关卡环境名称
+ScoreLevelBuff_name19	利弊置换	0	悖论迷宫3.0赛季关卡环境名称
+ScoreLevelBuff_name20	击打弱化	0	悖论迷宫3.2赛季关卡环境名称
+ScoreLevelBuff_name21	近卫强化	0	悖论迷宫3.2赛季关卡环境名称
+ScoreLevelBuff_name22	区限衰减	0	悖论迷宫3.2赛季关卡环境名称
+ScoreLevelBuff_des1	队员爆发能量获取效率提升{1}%，使用爆发技后，队员增加{2}攻击力，效果持续{3}秒	0	悖论迷宫2.5赛季关卡环境描述
+ScoreLevelBuff_des2	敌方目标受到的非射击伤害降低{1}%。当受到非射击伤害时，敌方目标受到的射击伤害将会提升{2}%，效果持续{3}秒	0	悖论迷宫2.5赛季关卡环境描述
+ScoreLevelBuff_des3	角色使用技能击败敌方目标时，会在原地生成1个引力旋涡，吸附{2}米范围内的敌方目标，持续{1}秒。被吸附的敌方目标受到的技能伤害提升{3}%，场上最多存在{4}个引力旋涡	0	悖论迷宫2.5赛季关卡环境描述
+ScoreLevelBuff_des4	敌方目标受到的射击伤害降低{1}%，且每秒回复自身{2}%的最大生命。但受到队员的主动技能伤害时，移动速度降低{3}%，持续{4}秒，期间无法回复生命	0	悖论迷宫2.5赛季关卡环境描述
+ScoreLevelBuff_des5	队员拥有护盾时，会增加{1}攻击力，且每存在{2}护盾，队员自身攻击力提升{3}%（最高提升{4}%）	0	悖论迷宫2.5赛季关卡环境描述
+ScoreLevelBuff_des6	敌方目标最大生命提升{1}%，对没有护盾的队员造成的伤害提升{2}%。当敌方目标受到拥有护盾队员的射击伤害时，其受到的暴击伤害增幅提升{3}%	0	悖论迷宫2.5赛季关卡环境描述
+ScoreLevelBuff_des7	所有敌人的防御力提升{1}%，但每次受到赋能伤害时防御力降低{2}%，至多{3}%	0	悖论迷宫2.5赛季关卡环境描述
+ScoreLevelBuff_des8	队员造成赋能伤害时，无视敌方目标{1}%防御力，并为敌人附加一层易伤效果，使敌人受到的赋能伤害提升{2}%，最多提升至{3}%	0	悖论迷宫2.5赛季关卡环境描述
+ScoreLevelBuff_des9	队员受到治疗的效果降低{1}%	0	悖论迷宫2.7赛季关卡环境描述
+ScoreLevelBuff_des10	敌方对拥有护盾的队员造成伤害提升{1}%	0	悖论迷宫2.7赛季关卡环境描述
+ScoreLevelBuff_des11	击破敌方可破坏部位后，队员攻击力提升	0	悖论迷宫2.7赛季关卡环境描述
+ScoreLevelBuff_des12	队员射击速度提升{1}%，弹匣容量提升{2}%	0	悖论迷宫2.7赛季关卡环境描述
+ScoreLevelBuff_des13	队员造成的特异类型伤害提升{1}%	0	悖论迷宫3.0赛季关卡环境描述
+ScoreLevelBuff_des14	队员造成的电击类型伤害提升{1}%	0	悖论迷宫3.0赛季关卡环境描述
+ScoreLevelBuff_des15	队员造成的动能类型伤害提升{1}%	0	悖论迷宫3.0赛季关卡环境描述
+ScoreLevelBuff_des16	队员造成的高热与低温类型伤害提升{1}%	0	悖论迷宫3.0赛季关卡环境描述
+ScoreLevelBuff_des17	使用主动技能造成伤害时为敌方附加1层【溃败】效果，使目标受到的技能伤害提升{1}%，效果持续{2}秒，最多叠加{3}层	0	悖论迷宫3.0赛季关卡环境描述
+ScoreLevelBuff_des18	每射出1颗子弹，队员附加1层【疲敝】效果，使自身易伤效果提升{1}%，持续{2}秒，最多叠加{3}层	0	悖论迷宫3.0赛季关卡环境描述
+ScoreLevelBuff_des19	进入关卡后，每分钟切换1次以下效果：【阳极】效果可以使队员造成的射击伤害提升{1}%，技能伤害降低{2}%；【阴极】效果可以使队员造成的射击伤害降低{3}%，技能伤害提升{4}%	0	悖论迷宫3.0赛季关卡环境描述
+ScoreLevelBuff_des20	队员通过射击与技能造成的非赋能伤害降低{1}%	0	悖论迷宫3.2赛季关卡环境描述
+ScoreLevelBuff_des21	队员{1}米范围内存在敌人时，自身攻击力和防御力提升{1}%	0	悖论迷宫3.2赛季关卡环境描述
+ScoreLevelBuff_des22	队员距离敌方越远，对其造成的伤害越低，至多降低{1}%	0	悖论迷宫3.2赛季关卡环境描述
+CupDes1	禁用部分增益	0	悖论迷宫2.7高难选项
+CupDes2	敌方攻击力、防御力、最大生命提升	0	悖论迷宫2.7高难选项
+CupDes3	敌方对拥有护盾的队员造成伤害提升	0	悖论迷宫2.7高难选项
+CupDes4	敌方生命低时，受到伤害降低，攻击力提升	0	悖论迷宫2.7高难选项
+CupDes5	可配置增益组合上限降低	0	悖论迷宫2.7高难选项
+CupDes6	敌方目标始终处于霸体状态	0	悖论迷宫2.7高难选项
+MonsterManualName1	降临团前锋派	0	悖论迷宫3.0敌人图鉴名称
+MonsterManualName2	降临团远攻派	0	悖论迷宫3.0敌人图鉴名称
+MonsterManualName3	郊狼机动派	0	悖论迷宫3.0敌人图鉴名称
+MonsterManualName4	郊狼重甲派	0	悖论迷宫3.0敌人图鉴名称
+MonsterManualName5	泰古通达	0	悖论迷宫3.0敌人图鉴名称
+MonsterManualName6	泰坦之力	0	悖论迷宫3.0敌人图鉴名称
+MonsterManualName7	机械之力	0	悖论迷宫3.0敌人图鉴名称
+MonsterManualBuff_name1	征伐等级	0	悖论迷宫3.0敌人图鉴buff名称
+MonsterManualBuff_name2	征伐等级	0	悖论迷宫3.0敌人图鉴buff名称
+MonsterManualBuff_name3	征伐等级	0	悖论迷宫3.0敌人图鉴buff名称
+MonsterManualBuff_name4	征伐等级	0	悖论迷宫3.0敌人图鉴buff名称
+MonsterManualBuff_name5	征伐等级	0	悖论迷宫3.0敌人图鉴buff名称
+MonsterManualBuff_name6	征伐等级	0	悖论迷宫3.0敌人图鉴buff名称
+MonsterManualBuff_name7	征伐等级	0	悖论迷宫3.0敌人图鉴buff名称
+MonsterManualBuff_des1	全队受到的伤害降低{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des2	全队受到的伤害降低{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des3	全队受到的伤害降低{1}%，护盾构建效能提升{2}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des4	全队瞄准射击伤害提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des5	全队瞄准射击伤害提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des6	全队瞄准射击伤害提升{1}%，换弹速度提升{2}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des7	全队最大生命提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des8	全队最大生命提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des9	全队最大生命提升{1}%，队员生命状态为满时技能伤害提升{2}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des10	全队武器准确度提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des11	全队武器准确度提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des12	全队武器准确度提升{1}%，暴击伤害提升{2}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des13	全队防御力提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des14	全队防御力提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des15	全队防御力提升{1}%，物品破坏力提升{2}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des16	全队攻击力提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des17	全队攻击力提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des18	全队攻击力提升{1}%，技能急速增加{2}	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des19	全队射击速度提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des20	全队射击速度提升{1}%	0	悖论迷宫3.0敌人图鉴buff描述
+MonsterManualBuff_des21	全队射击速度提升{1}%，受治疗效果提升{2}%	0	悖论迷宫3.0敌人图鉴buff描述
+combo_buff_name1	连击·I	0	悖论迷宫连击buff
+combo_buff_name2	连击·II	0	悖论迷宫连击buff
+combo_buff_name3	连击·III	0	悖论迷宫连击buff
+combo_buff_des1	连击等级达到B级时，队员射击会附带低温类型伤害，额外造成攻击力{1}%的伤害	0	悖论迷宫连击buff
+combo_buff_des2	连击等级达到A级时，敌方目标在被击败时会发生爆炸，造成一次攻击力{1}%的范围伤害	0	悖论迷宫连击buff
+combo_buff_des3	连击等级达到S级时，队员造成的最终伤害提高{1}%	0	悖论迷宫连击buff
+uavName1	先锋号	0	无人机名称
+uavCoreName1	高热机芯	0	核心名称
+uavCoreName2	低温机芯	0	核心名称
+uavCoreDes1	装配后，验证辅助机的战斗行为会较为激进，擅长进行范围攻击，更适合应对敌方目标较多的场景	0	核心描述
+uavCoreDes2	装配后，验证辅助机的战斗行为会更加极效，擅长进行专一点对点攻击，更适合应对单一的强力敌方目标	0	核心描述
+uav_AttributeDes1	辅助机攻击力增加{1}	0	属性描述
+uav_AttributeDes2	辅助机全元素类型伤害增加{1}%	0	属性描述
+uav_AttributeDes4	队员攻击力增加{1}	0	属性描述
+uav_AttributeDes5	队员防御力增加{1}	0	属性描述
+uav_AttributeDes6	队员最大生命增加{1}	0	属性描述
+uav_AttributeDes7	队员暴击率增加{1}%	0	属性描述
+uav_AttributeDes8	队员暴击伤害增幅增加{1}%	0	属性描述
+uav_AttributeDes9	队员技能急速增加{1}	0	属性描述
+uav_AttributeDes10	队员技能伤害增加{1}%	0	属性描述
+uav_AttributeDes11	队员常规技伤害增加{1}%	0	属性描述
+uav_AttributeDes12	队员支援技伤害增加{1}%	0	属性描述
+uav_AttributeDes13	队员爆发技伤害增加{1}%	0	属性描述
+uav_AttributeDes14	队员爆发能量获取率增加{1}%	0	属性描述
+uav_AttributeDes15	队员射击伤害增加{1}%	0	属性描述
+uav_AttributeDes16	队员非瞄准射击伤害增加{1}%	0	属性描述
+uav_AttributeDes17	队员瞄准射击伤害增加{1}%	0	属性描述
+uav_AttributeDes18	队员射击速度增加{1}%	0	属性描述
+uav_AttributeDes19	队员全元素类型伤害增加{1}%	0	属性描述
+uav_AttributeDes20	队员常规能量恢复速度增加{1}%	0	属性描述
+uav_AttributeDes21	队员附属单位强度增加{1}	0	属性描述
+uav_BuffDes1	辅助机攻击力提升{1}%（存在同类效果时仅最高值生效）	0	buff描述
+uav_BuffDes2	辅助机造成伤害时对目标施加【退怯】效果，当队员射击命中带有【退怯】效果的目标时，对其额外造成自身攻击力{1}%的动能类型伤害，触发间隔{2}秒（存在同类效果时仅最高值生效）	0	buff描述
+uav_BuffDes3	辅助机攻击敌方将无视目标{1}%的防御力（存在同类效果时仅最高值生效）	0	buff描述
+uav_BuffDes4	辅助机对处于控制状态下的目标造成的伤害提升{1}%（存在同类效果时仅最高值生效）	0	buff描述
+uav_BuffDes5	每隔{1}秒，恢复全体队员{2}%生命值（存在同类效果时仅最高值生效）	0	buff描述
+uav_BuffDes6	辅助机的物品破坏力提升{1}%（存在同类效果时仅最高值生效）	0	buff描述
+uav_BuffDes7	队员每{1}秒提升{2}%高热类型伤害，持续{3}秒（存在同类效果时仅最高值生效）	0	buff描述
+uav_BuffDes8	辅助机攻击生命低于{1}%的敌方目标时，有{2}%概率造成【重击】，使本次伤害提升至{3}%	0	buff描述
+uav_BuffDes9	队员单次受到伤害大于自身生命的{1}%时，可回复{2}%的最大生命（存在同类效果时仅最高值生效）	0	buff描述
+uav_BuffDes10	辅助机每秒对周围{1}米范围内的1个随机敌方目标造成自身攻击力{2}%的低温类型伤害（存在同类效果时仅最高值生效）	0	buff描述
+uav_PartName1	​​微型反应堆	0	部件名称
+uav_PartName2	高压电容	0	部件名称
+uav_PartName3	便携电池	0	部件名称
+uav_PartName4	抗冲击框架	0	部件名称
+uav_PartName5	复合机翼​​	0	部件名称
+uav_PartName6	支撑部件	0	部件名称
+uav_PartName7	巡飞弹	0	部件名称
+uav_PartName8	轻型战术导弹​	0	部件名称
+uav_PartName9	外接机炮	0	部件名称
+uav_PartName10	主控处理器	0	部件名称
+uav_PartName11	传感单元	0	部件名称
+uav_PartName12	补充芯片	0	部件名称
+uav_SkillName1	炙热弹雨	0	无人机技能名称
+uav_SkillName2	炎坠之域	0	无人机技能名称
+uav_SkillName3	高热机芯增量	0	无人机技能名称
+uav_SkillName4	凌寒狙击	0	无人机技能名称
+uav_SkillName5	极寒照射	0	无人机技能名称
+uav_SkillName6	低温机芯增量	0	无人机技能名称
+uav_SkillDes1_0	辅助机每{1}秒向敌方发射{2}枚【炙灼弹】，命中敌方后立即引爆并对其造成辅助机攻击力{3}%的伤害，对周围{4}米范围内的全部敌方造成自身攻击力{5}%的高热类型伤害	0	无人机基础技能描述
+uav_SkillDes2_0	辅助机每{1}秒落下1颗【炎坠】，落地后立即引爆，对周围{2}米范围内的目标造成自身攻击力{3}%的高热类型伤害	0	无人机基础技能描述
+uav_SkillDes3_0	队员技能伤害提升{1}%	0	无人机基础技能描述
+uav_SkillDes4_0	辅助机每{1}秒发射{2}枚【寒凌】攻击随机1个敌方目标，造成自身攻击力{3}%的低温类型伤害，同时目标移动速度降低{4}%	0	无人机基础技能描述
+uav_SkillDes5_0	辅助机每{1}秒向敌方发射一道持续存在{4}秒的【寒冰束】，每{2}秒对目标造成自身攻击力{3}%的低温类型伤害，距离目标过远时【寒冰束】会消失	0	无人机基础技能描述
+uav_SkillDes6_0	队员射击伤害提升{1}%	0	无人机基础技能描述
+uav_SkillDes1_1_lv1	命中敌方时造成的高热类型伤害提升至自身攻击力的{1}%	0	无人机技能分支描述
+uav_SkillDes1_1_lv2	引爆后造成伤害的范围提升至{1}米	0	无人机技能分支描述
+uav_SkillDes1_1_lv3	【炙灼弹】的发射数量提升至{1}，命中敌方时的伤害降低至自身攻击的{2}%	0	无人机技能分支描述
+uav_SkillDes1_2_lv1	【炙灼弹】引爆时对受到伤害的敌方附加眩晕效果，持续{1}秒	0	无人机技能分支描述
+uav_SkillDes1_2_lv2	【炙灼弹】物品破坏力增加{1}%	0	无人机技能分支描述
+uav_SkillDes1_2_lv3	发射【炙灼弹】的间隔时间降低至{1}秒	0	无人机技能分支描述
+uav_SkillDes2_1_lv1	【炎坠】落下的间隔时间降低至{1}秒，造成的高热类型伤害提升至自身攻击力的{2}%	0	无人机技能分支描述
+uav_SkillDes2_1_lv2	造成伤害时降低目标{1}%的高热抗性，持续{2}秒	0	无人机技能分支描述
+uav_SkillDes2_1_lv3	【炎坠】区域之外额外引爆{1}次爆炸，对周围{2}米范围内的全部敌方造成自身攻击力{3}%的高热类型伤害	0	无人机技能分支描述
+uav_SkillDes2_2_lv1	【炎坠】造成伤害的范围提升至{1}米	0	无人机技能分支描述
+uav_SkillDes2_2_lv2	【炎坠】引爆后会原地留下持续{1}秒的【炎域】效果，处于其中的目标持续受到高热类型伤害	0	无人机技能分支描述
+uav_SkillDes2_2_lv3	【炎坠】引爆后会吸附敌方目标，持续{1}秒	0	无人机技能分支描述
+uav_SkillDes3_1_lv1	队员最大生命提升{1}%	0	无人机技能分支描述
+uav_SkillDes3_1_lv2	队员常规技能伤害提升{1}%	0	无人机技能分支描述
+uav_SkillDes3_1_lv3	队员每击倒1位敌人，该队员造成的高热类型伤害提升{1}%	0	无人机技能分支描述
+uav_SkillDes3_2_lv1	队员防御力提升{1}%	0	无人机技能分支描述
+uav_SkillDes3_2_lv2	队员爆发技伤害提升{1}%	0	无人机技能分支描述
+uav_SkillDes3_2_lv3	队员每使用1次技能，攻击力提升{1}%	0	无人机技能分支描述
+uav_SkillDes4_1_lv1	【寒凌】发射的间隔时间降低至{1}秒	0	无人机技能分支描述
+uav_SkillDes4_1_lv2	【寒凌】每命中目标1次，降低其{1}%攻击力，至多叠加{2}次	0	无人机技能分支描述
+uav_SkillDes4_1_lv3	【寒凌】每命中目标1次，降低其{1}%防御力，至多叠加{2}次	0	无人机技能分支描述
+uav_SkillDes4_2_lv1	目标移动速度降低至{1}%	0	无人机技能分支描述
+uav_SkillDes4_2_lv2	【寒凌】命中目标{1}次后，为其附加冰冻效果，持续{2}秒	0	无人机技能分支描述
+uav_SkillDes4_2_lv3	辅助机发射的【寒凌】数量提升至{1}枚	0	无人机技能分支描述
+uav_SkillDes5_1_lv1	【寒冰束】持续存在的时间提升至{1}秒	0	无人机技能分支描述
+uav_SkillDes5_1_lv2	【寒冰束】物品破坏力提升{1}%	0	无人机技能分支描述
+uav_SkillDes5_1_lv3	【寒冰束】每次造成的伤害提升至{1}%	0	无人机技能分支描述
+uav_SkillDes5_2_lv1	【寒冰束】造成伤害的间隔时间降低至{1}秒	0	无人机技能分支描述
+uav_SkillDes5_2_lv2	【寒冰束】命中目标后可以弹射至另1个最近的目标身上，弹射效果可造成等额伤害，但范围更小，当【寒冰束】消失时，弹射效果同时消失	0	无人机技能分支描述
+uav_SkillDes5_2_lv3	【寒冰束】每次对目标造成伤害时还降低其{1}%低温抗性，持续{2}秒，至多叠加{3}次	0	无人机技能分支描述
+uav_SkillDes6_1_lv1	射击伤害提升效果增加至{1}%	0	无人机技能分支描述
+uav_SkillDes6_1_lv2	队员射击暴击时，恢复{1}%最大生命值，触发间隔{2}秒	0	无人机技能分支描述
+uav_SkillDes6_1_lv3	队员电击类型伤害提升{1}%	0	无人机技能分支描述
+uav_SkillDes6_2_lv1	队员射击速度提升{1}%	0	无人机技能分支描述
+uav_SkillDes6_2_lv2	队员连续射击状态下受到的伤害降低{1}%	0	无人机技能分支描述
+uav_SkillDes6_2_lv3	队员对敌方首领造成的射击伤害提升{1}%	0	无人机技能分支描述
+uav_PartShowName1	动力类部件	0	部件掉落预览中的通用部件名称
+uav_PartShowName2	兵械类部件	0	部件掉落预览中的通用部件名称
+uav_PartShowName3	结构类部件	0	部件掉落预览中的通用部件名称
+uav_PartShowName4	算力类部件	0	部件掉落预览中的通用部件名称
+uav_PartShowName1_des	在悖论迷宫-验证战场模式中掉落的各类部件，装配在验证辅助机上，用来提升其在战斗中的表现。	0	部件掉落预览中的通用部件描述
+uav_PartShowName2_des	在悖论迷宫-验证战场模式中掉落的各类部件，装配在验证辅助机上，用来提升其在战斗中的表现。	0	部件掉落预览中的通用部件描述
+uav_PartShowName3_des	在悖论迷宫-验证战场模式中掉落的各类部件，装配在验证辅助机上，用来提升其在战斗中的表现。	0	部件掉落预览中的通用部件描述
+uav_PartShowName4_des	在悖论迷宫-验证战场模式中掉落的各类部件，装配在验证辅助机上，用来提升其在战斗中的表现。	0	部件掉落预览中的通用部件描述
+uav_PartShowName1_use	验证辅助机装配道具	0	部件掉落预览中的通用部件道具类型
+uav_PartShowName2_use	验证辅助机装配道具	0	部件掉落预览中的通用部件道具类型
+uav_PartShowName3_use	验证辅助机装配道具	0	部件掉落预览中的通用部件道具类型
+uav_PartShowName4_use	验证辅助机装配道具	0	部件掉落预览中的通用部件道具类型
+uav_PartTypeName1	动力	0	部件槽位限制类型
+uav_PartTypeName2	结构	0	部件槽位限制类型
+uav_PartTypeName3	兵械	0	部件槽位限制类型
+uav_PartTypeName4	算力	0	部件槽位限制类型
+uav_AttributeName1	攻击力	0	部件加成属性总览中的属性名称
+uav_AttributeName2	防御力	0	部件加成属性总览中的属性名称
+uav_AttributeName3	最大生命	0	部件加成属性总览中的属性名称
+uav_AttributeName4	暴击率	0	部件加成属性总览中的属性名称
+uav_AttributeName5	暴击伤害	0	部件加成属性总览中的属性名称
+uav_AttributeName6	技能急速	0	部件加成属性总览中的属性名称
+uav_AttributeName7	技能伤害	0	部件加成属性总览中的属性名称
+uav_AttributeName8	常规技伤害	0	部件加成属性总览中的属性名称
+uav_AttributeName9	支援技伤害	0	部件加成属性总览中的属性名称
+uav_AttributeName10	爆发技伤害	0	部件加成属性总览中的属性名称
+uav_AttributeName11	爆发能量获取率	0	部件加成属性总览中的属性名称
+uav_AttributeName12	射击伤害	0	部件加成属性总览中的属性名称
+uav_AttributeName13	非瞄准射击伤害	0	部件加成属性总览中的属性名称
+uav_AttributeName14	瞄准射击伤害	0	部件加成属性总览中的属性名称
+uav_AttributeName15	射击速度	0	部件加成属性总览中的属性名称
+uav_AttributeName16	换弹速度	0	部件加成属性总览中的属性名称
+uav_AttributeName17	常规能量回复速度	0	部件加成属性总览中的属性名称
+uav_AttributeName18	附属单位强度	0	部件加成属性总览中的属性名称
+uav_AttributeName19	全元素类伤害加成	0	部件加成属性总览中的属性名称

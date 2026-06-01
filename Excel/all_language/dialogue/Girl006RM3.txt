@@ -1,0 +1,52 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	不好！晴在基地大厅！	糟了！晴在基地大廳！	まずい！晴が寮のロビーにいる！	이런! 하루가 숙소 로비에 있어!	Uh oh! Haru was in the Base hall!						0	
+2	趁她发现我之前，快走！	趁被她發現之前，快溜！	バレる前に早く退散だ！	그녀에게 들키기 전에 어서 도망가자!	I had to get out of there before she found me!						0	
+3	我迅速躲进训练室。就算在战场上，也难得有这么紧张的时候……	我迅速躲進訓練室。就算在戰場上，也很少有這麼緊張的時候……	私はすぐに訓練室に隠れた。戦場にいても、こんなに緊張することはめったにない……	난 재빠르게 훈련실로 숨었다. 전장에서라도 이렇게 긴장되는 순간은 드물 것이다…	I dashed into the training room to hide. I rarely ever got this nervous, even on the battlefield...						0	
+4	好险，差点就正面撞到了。	好險，差點就跟她撞個正著了。	危ない、鉢合わせるところだった。	위험했다. 바로 들킬 뻔했다.	That was close. Way too close.						0	
+5	如果晴问起我瑜伽的进度，我不知道该作何解释。	如果晴問起我瑜珈的進度，我不知道該如何解釋。	晴にヨガの練習具合を聞かれたら、どう説明すればいいか……	하루가 요가의 진도를 묻는다면 어떻게 변명을 늘어놔야 할까.	I had no idea what to say if Haru asked me about my yoga progress.						0	
+6	总不能直接告诉她：我和韧带的抗争失败了吧？	總不能直接告訴她：“我敗給了柔軟度”吧？	俺は靭帯に負けた……さすがに言いにくい。	단지 그녀에게 스트레칭하던 중 인대한테 못 이겼다고 할 수는 없지 않은가?	There was no way I could tell her, "I fought my ligaments and lost," right?						0	
+8	你知道分析员去哪了吗？	你知道分析員去哪了嗎？	分析員を見なかったか？	혹시 분석가가 어디로 갔는지 봤어?	Do you know where the Adjutant went?						0	
+9	嗷，刚才鬼鬼祟祟钻进训练室去了。	喔，剛才鬼鬼祟祟地跑進訓練室去了。	ほ？さっきなんかコソコソしながら訓練室に入ってったよ〜？	어, 방금 이상한 행색으로 훈련실에 들어가던데.	Yep, he just snuck into the training room.						0	
+10	不好！刚刚听见门外的交谈声，我紧接着就看见训练室的大门升起……	不好！才剛聽見門外的交談聲，緊接著就看到訓練室的大門升起……	しまった！肴のやつ……！そして会話が聞こえた直後、訓練室のドアがいきなり開いた……	이런! 문밖의 대화를 마치고 나서 훈련실의 문이 열리는 것이 보인다…	Crap! Just as I was processing what I had heard, I saw the door to the training room begin to open...						0	
+11	晴提着一个堪称“庞大”的盒子走进来。	晴提著一個可以說是“龐大”的盒子走了進來。	晴が「巨大」とも言える箱を持って入ってきた。	이어서 하루가 '거대한' 상자를 들고 들어온다.	Haru walked in carrying a massive box.						0	
+12	分析员，原来你在这里。	分析員，原來你在這裡。	ここにいたのか、分析員。	분석가, 여기에 있었구나.	So you were in here, Adjutant.						0	
+b-1											0	
+13	嗨，好巧，你也来锻炼？	嗨，好巧，你也來鍛煉？	よう、偶然だな。君もトレーニングに来たのか？	안녕하세요, 하루도 훈련을 하러 온 건가요?	Hi! What a coincidence. Are you here to exercise too?						0	
+14	锻炼？	鍛煉？	トレーニング？	훈련?	Exercise?						0	
+15	晴疑惑地看着我，我立马反应过来，我还穿着一身防护服。	晴疑惑地看著我，我立刻反應過來，我還穿著防護服。	晴に怪訝な目を向けられた瞬間、私は自分がまだ防護服を着ていることに気づいた。	하루가 의아한 눈빛으로 나를 쳐다본다. 난 내가 아직도 방호복을 입고 있다는 사실을 떠올린다.	Haru looked me up and down suspiciously. I immediately realized that I was still wearing full-body protective gear.						0	
+b-2											0	
+16	我练完了，刚换好衣服。	我練完了，剛換好衣服。	ついさっき終わったから、着替えたばかりだ。	전 방금 훈련을 마쳤어요. 방금 옷을 다 갈아입었고요.	I just finished working out and changed my clothes.						0	
+17	那么正好。	那麼正好。	ならちょうどいい。	그거참 공교롭네.	Oh, perfect.						0	
+18	我买了蛋糕，能请你陪我一起吃吗？	我買了蛋糕，能請你陪我一起吃嗎？	ケーキを買ったから、一緒に食べないか？	케이크를 샀는데, 같이 먹을래?	I bought a cake. Would you like to eat it together?						0	
+b-3											0	
+19	我……当然没问题。	我……當然沒問題。	も……もちろん。	저야… 당연히 좋죠.	Yeah... of course.						0	
+20	我和晴找了一个比较空的位置，将蛋糕拿了出来——点缀着各种水果和巧克力碎的慕斯蛋糕。	我和晴找了一個比較空的位置，將蛋糕拿了出來——擺飾著各種水果和巧克力碎的慕斯蛋糕。	私と晴は空いている場所でケーキを取り出した——いろいろな果物とチョコレートが飾られたムースケーキを。	난 하루와 여유로운 자리를 찾아 케이크를 꺼낸다. 각종 과일과 초콜릿 부스러기가 있는 무스케이크다.	Haru and I found a more secluded place, then opened up the cake. It was a mousse cake, adorned with chocolate chips and various fruits.						0	
+21	晴“啊呜”一声从蛋糕边缘咬下一块，然后开始细细咀嚼。	晴大大張嘴從蛋糕邊緣咬下了一塊，然後開始細細品味。	晴がケーキの端を一口取り、じっくり味わい始めた。	하루가 '아—'하는 소리와 함께 케이크의 한쪽을 베어 물고 세세하게 음미하기 시작한다.	Haru took a bite from the edge of the cake with an "aaah," then chewed carefully.						0	
+22	嗯……	嗯……	うん……	음…	Hmm...						0	
+b-4											0	
+23	味道怎么样？	味道怎麼樣？	味はどう？	어때요?	How does it taste?						0	
+24	能看出来，蛋糕是晴精心挑选过的。	看得出來，蛋糕是晴精心挑選的。	間違いなく、ケーキは晴が厳選したものだ。	케이크를 보니 하루가 정성 들여 고른 것이라는 게 느껴진다.	I could tell that Haru had spent her time picking out the cake.						0	
+25	坦白地说，有点失望。	老實說有點失望。	正直に言うと、少しがっかりだ。	솔직히 말하면, 약간 실망이야.	To be honest, I'm a little disappointed.						0	
+26	蛋糕……不，是做蛋糕的师傅，还有进步的空间。	蛋糕……不，是做蛋糕的師傅，還有進步的空間。	ケーキ……いや、ケーキ職人にはまだ成長する余地があると思う。	케이크… 아니, 케이크를 만든 제빵사가 실력을 더 키워야겠어.	The cake... no, the baker still has room for improvement.						0	
+27	打发奶油时，加糖的分量不够完美。	打發奶油時，加糖的比例不夠完美。	クリームの砂糖加減は完璧とは言えない。	크림을 만들 때 설탕의 양을 잘 조절하지 못한 것 같아.	The amount of sugar added to the whipped cream isn't ideal.						0	
+28	蛋糕胚的口感不够松软。	蛋糕胚的口感不夠鬆軟。	食感はちょっと固い。	케이크 시트의 식감도 충분히 부드럽지 못해.	The texture of the cake isn't soft enough either.						0	
+29	蛋糕胚内部有较大的孔隙，应该是烤制前没有完全排出空气。	蛋糕胚的孔洞較多，應該是烤之前沒有震出空氣。	生地の内部に大きな穴があって、焼く前に空気が完全に排出されていないかも。	케이크 시트 내부에 상당히 큰 구멍이 있는데, 아마 굽기 전에 다 빼지 못한 공기 때문일 거야.	There are large holes in the cake, meaning that there was too much air in the cake mix before it was baked.						0	
+b-5											0	
+30	……你真的是第一次吃蛋糕吗？	……你真的是第一次吃蛋糕嗎？	……本当にケーキを食べるの初めて？	… 정말 처음으로 케이크를 드시는 분 맞나요?	...Is this really your first time eating cake?						0	
+31	分析员，任何时候都要全力以赴。	分析員，任何時候都要全力以赴。	分析員、いかなる時にも全力を尽くすべきだ。	분석가, 언제나 매 순간에 정성을 다해야 해.	Adjutant, it's important to fully commit to everything you do.						0	
+32	所以在这次品尝之前，我做了一些准备。	所以在此之前，我做了許多準備。	だから自分は食べる前に、しっかりと用意してきた。	그래서 이번에 맛을 보기 전에 준비를 조금 했어.	So I had made some preparations before I even tasted the cake.						0	
+b-6											0	
+33	啊哈哈，说得没错。	哈哈哈，說得沒錯。	アハハ、確かに。	아하하, 맞는 말씀이세요.	Ahaha, okay, makes sense.						0	
+34	我总觉得晴意有所指，有些心虚。	我總覺得晴意有所指，因而感到有點心虛。	何か含みのある言葉に、私は少し動揺した。	하루가 뭔가를 암시하는 것 같아서 갑자기 불안감이 엄습하기 시작했다.	I couldn't help feeling like Haru was implying something, and I started to feel guilty.						0	
+35	分析员，这样，我的人生应该就完整了吧？	分析員，這樣一來，我的人生應該就完整了吧？	分析員、これで自分の人生は完全になったわけだな？	분석가, 이제 내 인생에 아쉬움은 없겠지?	Adjutant, with this, my life is complete, right?						0	
+36	晴露出了微笑。	晴露出了微笑。	晴が微笑んだ。	하루가 미소를 짓는다.	Haru smiled.						0	
+37	剩下的蛋糕，就拜托给你了。	剩下的蛋糕，就拜託你了。	では、残りのケーキは任せたぞ。	남은 케이크는 부탁할게.	You can have the rest of it.						0	
+b-7											0	
+38	啊？！你不吃完吗？	什麼？！你不吃完嗎？	えっ！？最後まで食べないのか？	에?! 다 먹지 않고요?	Huh!? You're not going to eat any more?						0	
+39	整个蛋糕的热量有一千八百大卡。	整個蛋糕的熱量有一千八百大卡。	ケーキ全体で1800キロカロリーあるから。	이 케이크의 열량은 1,800kcal야.	This entire cake has 1,800 calories.						0	
+40	需要额外三小时的有氧运动，或者额外四小时的力量训练才能消耗这么多热量。	需要額外三小時的有氧運動，或者額外四小時的力量訓練才能消耗這麼多熱量。	それだけのカロリーを消費するには3時間の有酸素運動、または4時間のパワートレーニングを追加しなければならない。	유산소 운동 세 시간, 또는 웨이트 트레이닝 4시간을 진행해야 열량을 그만큼 소모할 수 있어.	It would require three additional hours of cardio or four additional hours of strength training to burn that many calories.						0	
+41	计算蛋糕的热量，和找一个帮忙吃蛋糕的冤大头，都是“准备”的一部分吗？	計算蛋糕的熱量，和找一個幫忙吃蛋糕的冤大頭，都是“準備”的一部分嗎？	ケーキのカロリーを計算するのも、ケーキを食べてくれる被害者を探すのも、「用意」の一部ってわけか？	케이크의 열량을 계산하고 케이크를 대신 먹어줄 사람을 구한 것도 '준비'의 일부였을까?	Was calculating the calories in the cake and finding someone to help her eat it part of the "preparations" she mentioned?						0	
+42	分析员，你刚刚锻炼完，正好需要补充热量。	分析員，你才剛鍛煉完，正好需要補充熱量。	分析員はちょうどトレーニングを終えたばかりだから、カロリーの補充が必要だろう。	분석가도 방금 운동을 끝냈으니, 열량을 보충해야지.	But you, on the other hand, need some extra calories since you just finished exercising.						0	
+43	我木然地看着被咬了一口的蛋糕。	我木然地看著被咬了一口的蛋糕。	私は一口減ったケーキを呆然と見ていた。	난 멍하니 하루가 베어 먹은 케이크를 바라본다.	I stared blankly at the cake with a single bite taken out of it.						0	
+44	难道要我把这些都吃掉？！！	難道要我把這些都吃掉？！！	これを全部食べろっていうのか！？	설마 이걸 다 먹으라는 건가?!	Was I supposed to eat the whole thing!?						0	

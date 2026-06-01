@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	郊狼正在向庚号大门聚集？	郊狼正在向庚號大門聚集？	コヨーテが「第7ゲート」に接近している？	코요테가 7번 게이트로 모이고 있다고?	Coyotes gathering at Gate Seven?						0	
+2	明白了，这就过去。	明白了，現在立刻過去。	分かった、今すぐ向かう。	알겠어. 지금 바로 가도록 하지.	Got it. I'll be there right away.						0	
+3	领导又发话了？	老闆又發話了？	またリーダーからの命令か？	지휘관이 또 다른 지시를 내렸어?	Another order from the boss?						0	
+4	不过她的指挥技巧确实……至少大部分事情都赶上了。	不過她的指揮技巧確實……至少大部分事情都趕上了。	彼女の指揮は確かに……少なくとも大抵のことは間に合う。	그래도 지휘하는 걸 보면… 적어도 대부분은 일리가 있어.	But her command skills are indeed... At least she handles most things well.						0	

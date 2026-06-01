@@ -1,0 +1,11 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	待机	sequence	npc406_openworld_stand	AnimSequence'/Game/Characters/Npc/npc406/Anim/npc406_openworld_stand.npc406_openworld_stand'	
+2	迷惑	sequence	npc406_openworld_confuse	AnimSequence'/Game/Characters/Npc/npc406/Anim/npc406_openworld_confuse.npc406_openworld_confuse'	
+3	开心	sequence	npc406_openworld_happy	AnimSequence'/Game/Characters/Npc/npc406/Anim/npc406_openworld_happy.npc406_openworld_happy'	
+4	愤怒	sequence	npc406_openworld_angry	AnimSequence'/Game/Characters/Npc/npc406/Anim/npc406_openworld_angry.npc406_openworld_angry'	
+					
+					
+100	组合动作	custom_seq			
+101	全部循环	custom_loop			
+102	循环最后一个	custom_loop_last			

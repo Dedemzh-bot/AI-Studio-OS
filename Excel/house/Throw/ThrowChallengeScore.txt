@@ -1,0 +1,3 @@
+﻿//备注	投掷成功1次	投掷失败1次	成功制作任意饮品	成功制作点单饮品	挑战时长
+des	WinOnceScore	LoseOnceScore	MakeScore	MakeOrderScore	ChallengeTime
+挑战模式积分	100	0	100	200	60

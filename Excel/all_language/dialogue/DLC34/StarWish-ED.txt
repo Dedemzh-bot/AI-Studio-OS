@@ -1,0 +1,240 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	星祈节当日。	星祈節當日。	星祈祭当日。	성원절 당일.	On Starwish Day.						0	3.4活动剧情
+2	由于前夜的“庆祝”，海姆达尔的少女们都还在我们昨日一起度过的房间中休息。	由於前夜的「慶祝」，海姆達爾的少女們都還在我們昨日一起度過的房間中休息。	前夜の「お祝い」をしたため、ヘイムダルの少女たちは、その部屋で休んでいた。	전날 밤의 '축하' 때문에 헤임달 소녀들은 모두 우리가 어제 함께 있었던 방에서 아직 쉬는 중이었다.	After last night's "celebration," the Heimdall girls were still asleep in the room we'd all shared.						0	3.4活动剧情
+3	在我离开房间时，猫汐尔察觉到了我的动作，并且抢占了星祈节的第一个吻，而后少女们一一醒了过来。	在我離開房間時，貓汐爾察覺到了我的動作，並且搶占了星祈節的第一個吻，而後少女們一一醒了過來。	私が部屋から出ようとすると、マーシルが私の動きに気づいて、星祈祭最初のキスを奪われた。その後、他の少女たちも続けざまに目を覚ました。	내가 방을 나서는 움직임을 눈치챈 캣 시에라가 성원절의 첫 키스를 가로챘고, 그 후 소녀들이 하나둘 깨어났다.	When I tried to slip out quietly, Mauxir stirred and stole the first kiss of Starwish Day. Then, the other girls began to wake.						0	3.4活动剧情
+4	花了好一番工夫，和每个人都亲热过后，我总算得以抽出身来，按照计划去迎接今天要来参加庆典的客人。	花了好一番工夫，和每個人都親熱過後，我總算得以抽出身來，按照計畫去迎接今天要來參加慶典的客人。	一人ひとりと愛を語り合ったあと、私はようやく部屋から出て、予定通り来賓を迎えに行った。	한참 동안 모두와 애정을 나누고 겨우 몸을 빼낸 나는 계획대로 오늘 축제에 참석할 손님들을 맞이하러 갔다.	It took a good while to spend a bit of tender time with each of them, but I finally managed to head out to welcome today's guests, as planned.						0	3.4活动剧情
+5	嗯？	嗯？	ん？	응?	Huh?						0	3.4活动剧情
+6	没想到，房门外早已有人在等候了。	沒想到，房門外早已有人在等候了。	部屋の前で、すでに誰かが待っていた。	뜻밖에도 문밖에는 이미 누군가가 기다리고 있었다.	To my surprise, three girls were already waiting outside the door.						0	3.4活动剧情
+7	哼哼……	哼哼……	ふふ……	흥흥…	Mhm...						0	3.4活动剧情
+8	嘿嘿……	嘿嘿……	えへへ……	헤헤…	Hehe...						0	3.4活动剧情
+9	嗯……	嗯……	……	음…	Hmm...						0	3.4活动剧情
+10	在我眼前，萨菲尔、优格和恒沙一言不发，只是神秘兮兮地打量着我。	在我眼前，薩菲爾、優格和恆沙一言不發，只是神秘兮兮地打量著我。	サフィール、ヨル、ゴウシャが私の前に立ち、黙ったままこっちを見つめてきた。	내 눈앞에서 사파이어, 요거트, 항사가 알 수 없는 얼굴로 말없이 나를 살펴보고 있었다.	Sapphire, Yogurt, and GANGES stood before me, a hint of mystery in their eyes.						0	3.4活动剧情
+11	……你们这是在做什么？	……你們這是在做什麼？	……どうかしたのか？	… 뭐 하는 거야?	...What are you all doing here?						0	3.4活动剧情
+12	分析员，星祈节快乐！	分析員，星祈節快樂！	分析員、ハッピー星祈祭！	분석가, 해피 성원절!	Adjutant, happy Starwish Day!						0	3.4活动剧情
+13	分析员哥哥，星祈节快乐！	分析員哥哥，星祈節快樂！	分析員さん、ハッピー星祈祭！	분석가 오빠, 해피 성원절!	Mr. Adjutant, happy Starwish Day!						0	3.4活动剧情
+14	星祈节快乐。	星祈節快樂。	ハッピー星祈祭。	성원절 즐겁게 보내세요.	Happy Starwish Day.						0	3.4活动剧情
+15	与祝福一同出现的，还有她们三人齐齐伸出的手。	與祝福一同出現的，還有她們三人一齊伸出的手。	祝福の言葉と共に、三人はまっすぐに手のひらを伸ばしてきた。	축복과 함께, 세 사람이 일제히 손을 내밀었다.	Along with their greetings, they each extended a hand toward me.						0	3.4活动剧情
+16	原来是要礼物来了。	原來是要禮物來了。	なるほど、プレゼントをもらいに来たのか。	선물을 받으러 온 거였다.	Ah. So this was about the gifts.						0	3.4活动剧情
+17	早在几天前，萨菲尔得知了关于星祈节庆典的事情后，她便一直缠着我要礼物。	早在幾天前，薩菲爾得知了關於星祈節慶典的事情後，她便一直纏著我要禮物。	数日前に星祈祭のことを知ってから、サフィールはずっとプレゼントをねだってきた。	며칠 전 성원절 축제에 대해 알게 된 사파이어가 계속 나한테 선물을 달라고 졸랐었다.	A few days ago, Sapphire had learned about the Starwish Day celebration and had been pestering me for a present ever since.						0	3.4活动剧情
+18	直到我告诉她，礼物只能在星祈节当天送之后，她才消停下来。	直到我告訴她，禮物只能在星祈節當天送之後，她才稍微停下來。	プレゼントは当日にしか渡せないと伝えると、彼女はやっと落ち着いた。	선물은 성원절 당일에만 줄 수 있다는 걸 들은 후에야 그녀는 잠잠해졌다.	It wasn't until I told her that gifts could only be given on Starwish Day that she finally stopped asking.						0	3.4活动剧情
+19	看现在的情况，她大概是按捺不住心情，于是也将这事告诉了优格和恒沙。	看現在的情況，她大概是按捺不住心情，於是也將這事告訴了優格和恆沙。	どうやら、舞い上がる気持ちが抑えきれなくなった彼女は、ヨルとゴウシャにも、プレゼントのことを教えたようだ。	지금 상황을 보니 아마 참지 못하고 요거트와 항사에게도 그것을 알린 듯했다.	She probably couldn't contain her excitement and shared that information with Yogurt and GANGES.						0	3.4活动剧情
+20	不过，优格会响应号召很正常，怎么恒沙也会参与进来？	不過，優格會響應號召很正常，怎麼恆沙也會參與進來？	しかし妙だ。ヨルがプレゼントを欲しがるのはまだわかるが、なんでゴウシャまでここにいるんだ？	요거트가 호응하는 건 그렇다 치지만, 왜 항사까지 끼게 된 거지?	That Yogurt joined in was no surprise, but GANGES too?						0	3.4活动剧情
+21	我的目光在恒沙的脸上停留了片刻，她随即做出了反应。	我的目光在恆沙的臉上停留了片刻，她隨即做出了反應。	私がゴウシャのほうをチラリとみると、彼女は私の視線に気づいた。	내 시선이 항사의 얼굴에 머물자 그녀가 곧바로 반응했다.	My gaze lingered on GANGES for a moment, and she promptly responded.						0	3.4活动剧情
+22	我事先确认过您的确准备了礼物，因此判断索要礼物的行为并不会为您造成困扰。	我事先確認過您的確準備了禮物，因此判斷索要禮物的行為並不會為您造成困擾。	分析員さんがすでにプレゼントを用意していることは確認済みデス。プレゼントをねだっても問題ないと判断して来マシタ。	분석가님이 선물을 준비하신 걸 제가 사전에 확인했기에, 선물을 요구하는 행위가 분석가님을 곤란하게 하지 않을 것으로 판단했습니다.	I confirmed beforehand that you had prepared gifts, and therefore determined that requesting one would not cause you any inconvenience.						0	3.4活动剧情
+23	还真是理直气壮啊……	還真是理直氣壯啊……	そんなに胸を張っていうことか……	정말 당당하네…	Hard to argue with that logic...						0	3.4活动剧情
+24	我笑着摇了摇头，转身回房间里拿出了三个礼物盒。	我笑著搖了搖頭，轉身回房間裡拿出了三個禮物盒。	私は笑いながら首を横に振り、部屋からプレゼント箱を三つ取ってきた。	나는 웃으며 고개를 젓고는 방으로 돌아가 선물 상자를 세 개 꺼냈다.	Shaking my head with a chuckle, I returned to the room and brought out three boxes.						0	3.4活动剧情
+25	如恒沙所说，我已经准备好了礼物——给萨菲尔的水族馆年票，给优格的多种口味酸奶，以及给恒沙的冒险小说。	如恆沙所說，我已經準備好了禮物——給薩菲爾的水族館年票，給優格的多種口味酸奶，以及給恆沙的冒險小說。	ゴウシャの言う通り、プレゼントは用意してある。サフィールには水族館の年間パス、ヨルにはヨーグルトの詰め合わせ、ゴウシャには冒険小説だ。	항사의 말대로 나는 이미 선물을 준비해 뒀다. 사파이어에게는 수족관 연간 이용권을, 요거트에게는 여러 가지 맛의 요구르트를, 항사에게는 모험 소설을.	Just as GANGES said, I had already prepared their gifts: an aquarium annual pass for Sapphire, a selection of yogurts in different flavors for Yogurt, and an adventure novel for GANGES.						0	3.4活动剧情
+26	给你们，星祈节快乐。	給你們，星祈節快樂。	さあどうぞ。ハッピー星祈祭。	자, 받아. 성원절 즐겁게 보내.	Here you go. Happy Starwish Day.						0	3.4活动剧情
+27	谢谢分析员！	謝謝分析員！	ありがとう、分析員/分析員さん！	고마워요, 분석가님!\n고마워, 분석가!	Thank you, Adjutant!						0	3.4活动剧情
+28	优格和萨菲尔相继拿走了礼物，恒沙则行了礼后方才拿走了属于她的那一份。	優格和薩菲爾相繼拿走了禮物，恆沙則行了禮後方才拿走了屬於她的那一份。	ヨルとサフィールがプレゼントを受け取ると、ゴウシャも一礼してからプレゼントを受け取った。	요거트와 사파이어가 차례로 선물을 받아 갔고, 항사는 예의를 갖춰 인사를 한 후에야 자신의 것을 가져갔다.	Yogurt and Sapphire grabbed their gifts, while GANGES accepted hers only after offering a proper bow.						0	3.4活动剧情
+29	您待会要去接待来宾吗？	您待會要去接待來賓嗎？	これから来賓を迎えにいくのデスか？	잠시 후에 손님들을 맞이하러 가시나요?	Will you be receiving guests later?						0	3.4活动剧情
+30	是啊，今天会有很多人来参加庆典。	是啊，今天會有很多人來參加慶典。	ああ。今日は来賓がたくさんくるからな。	응, 오늘 축제에 사람들이 많이 올 거야.	Yeah, we're expecting a lot of people today.						0	3.4活动剧情
+31	需要我的协助吗？	需要我的協助嗎？	手伝いマショウか？	제 도움이 필요하신가요?	Do you require my assistance?						0	3.4活动剧情
+32	不用了，你们今天就在公司到处逛逛，享受节日就好。	不用了，你們今天就在公司到處逛逛，享受節日就好。	大丈夫だ。今日は会社の中を散策したり、思う存分祭りを楽しむといい。	아니야, 너희는 오늘 회사 곳곳을 둘러보면서 축제를 즐기기만 하면 돼.	No, that's alright. Just have a look around and enjoy the holiday.						0	3.4活动剧情
+33	明白了。这样的话，我会帮您看好优格和萨菲尔，不让她们乱来的。	明白了。這樣的話，我會幫您看好優格和薩菲爾，不讓她們亂來的。	わかりマシタ。では、アナタに迷惑をかけないよう、ヨルとサフィールを見張っておきマス。	네. 그렇다면 요거트와 사파이어가 말썽부리지 않도록 제가 잘 돌보겠습니다.	Understood. In that case, I shall keep an eye on Yogurt and Sapphire and make sure they stay out of trouble.						0	3.4活动剧情
+34	真可靠，那就拜托你了。	真可靠，那就拜託你了。	頼りがいがあるな。では、頼む。	정말 든든하네, 그럼 부탁할게.	Reliable as always. I'll count on you for that.						0	3.4活动剧情
+35	明明看起来是小孩子，但恒沙在三人组中俨然是姐姐般的存在。	明明看起來是小孩子，但恆沙在三人組中儼然是姐姐般的存在。	外見は子どもだが、三人組の中ではゴウシャが一番のお姉ちゃんのように見える。	겉으로는 어린아이처럼 보이지만, 항사는 그 3인조에서 완전히 언니 같은 존재다.	As young as she looked, GANGES was like the older sister among the three.						0	3.4活动剧情
+36	什么时候萨菲尔能成长到这种程度，我就心满意足了。	什麼時候薩菲爾能成長到這種程度，我就心滿意足了。	サフィールも、こんなふうに成長してくれれば満足なんだがな……	언젠가 사파이어도 이렇게 성장해 준다면 더 바랄 게 없을 텐데.	If Sapphire ever grows to be that composed, I'd be truly at ease.						0	3.4活动剧情
+37	将目光投向已经拆开了礼物——正为水族馆门票欢呼雀跃的萨菲尔后，我在心中默默许下了愿望。	將目光投向已經拆開了禮物——正為水族館門票歡呼雀躍的薩菲爾後，我在心中默默許下了願望。	プレゼントを開けて、年間パスに喜ぶサフィールを見つめながら、私は心の底で静かに願った。	선물을 뜯어 수족관 티켓을 확인하고는 신나서 깡충거리고 있는 사파이어를 향해 시선을 돌린 나는 속으로 조용히 소원을 빌었다.	Looking at Sapphire, who'd already torn open her gift and was bouncing around with her aquarium pass, I couldn't help but quietly make a wish.						0	3.4活动剧情
+38	还有一件事。实际上，我们也为您准备了礼物。	還有一件事。實際上，我們也為您準備了禮物。	それと……実は、ワタシたちもアナタにプレゼントを用意しマシタ。	그리고 사실 저희도 분석가님을 위해 준비한 선물이 있습니다.	Before we go, I should tell you that we've planned a gift for you too.						0	3.4活动剧情
+39	哦？是什么？	哦？是什麼？	ほう？どんなプレゼントだい？	응? 뭔데?	You did? What is it?						0	3.4活动剧情
+40	恒沙摇了摇头。	恆沙搖了搖頭。	ゴウシャは首を横に振った。	항사가 고개를 저었다.	GANGES shook her head.						0	3.4活动剧情
+41	还在准备，保守估计还要几周的时间。	還在準備，保守估計還要幾週的時間。	まだ準備中デス。あと数週間待ってクダサイ。	아직 준비 중이에요. 넉넉히 잡아서 몇 주는 더 걸릴 것 같습니다.	It's still in progress. We'll need at least a few more weeks.						0	3.4活动剧情
+42	因为这件事情是萨菲尔提出来的，所以准备得有些仓促。	因為這件事情是薩菲爾提出來的，所以準備得有些倉促。	サフィールの提案なのデスが、唐突すぎて、用意が間に合いませんデシタ。	사파이어가 제안한 거라 준비가 갑작스러웠습니다.	Sapphire proposed the idea, so the preparations were... somewhat rushed.						0	3.4活动剧情
+43	听到自己的名字被提及，一旁的萨菲尔立刻凑了上来。	聽到自己的名字被提及，一旁的薩菲爾立刻湊了上來。	自分の名前を聞いて、横のサフィールがすぐに寄ってきた。	사파이어가 자신의 이름을 듣고 바로 다가왔다.	Hearing her name, Sapphire practically sprang over.						0	3.4活动剧情
+44	分析员，你就满怀期待地等上一段时间吧！	分析員，你就滿懷期待地等上一段時間吧！	分析員！期待して待っててよ！	분석가, 한껏 기대하면서 기다리고 있어!	Adjutant, you'll just have to wait excitedly for a little while!						0	3.4活动剧情
+45	期不期待暂且不谈……总之，你能有给我回礼的想法我就很感动了。	期不期待暫且不談……總之，你能有給我回禮的想法我就很感動了。	期待するもなにも……その気持ちだけで十分嬉しいよ。	기대가 중요한 게 아니라… 어쨌든 나한테 답례하겠다는 생각을 한 것만으로도 감동이야.	I'm not sure about the "excited" part... but I'm already very touched that you thought of me.						0	3.4活动剧情
+46	我伸出手，摸了摸萨菲尔的头。	我伸出手，摸了摸薩菲爾的頭。	私はサフィールの頭を撫でた。	나는 손을 뻗어 사파이어의 머리를 쓰다듬었다.	I gently patted Sapphire's head.						0	3.4活动剧情
+47	好了，我还要去迎接其他客人，就先走了。	好了，我還要去迎接其他客人，就先走了。	よし、これから来賓を迎えにいかないといけないので、また後で。	좋아, 그럼 난 다른 손님들도 맞이해야 하니까 먼저 갈게.	Alright, I've got to go greet the other guests now.						0	3.4活动剧情
+48	分析员晚上见！	分析員晚上見！	うん、バイバイ、分析員！また後で！	분석가, 저녁에 봐!	See you tonight, Adjutant!						0	3.4活动剧情
+49	告别了三人组后，我快步来到了公司大厅。	告別了三人組後，我快步來到了公司大廳。	三人と別れたあと、私はすぐに会社のホールに向かった。	세 사람과 작별한 나는 빠른 걸음으로 회사 로비에 도착했다.	Leaving the trio behind, I made my way quickly to the hall.						0	3.4活动剧情
+50	被邀请来参加星祈节庆典的客人们会陆续到达，作为邀请者，我自然是要接待一番。	被邀請來參加星祈節慶典的客人們會陸續到達，作為邀請者，我自然是要接待一番。	私が招いた来賓たちがそろそろ会社に到着する。招待した私が出迎えなければ失礼になる。	성원절 축제에 초대받은 손님들이 차례로 도착할 테니, 초대한 사람인 나는 그들을 맞이해야 했다.	Guests for the Starwish Day celebration would be arriving soon. Since I invited them, I needed to be there to greet them.						0	3.4活动剧情
+51	这里就是世界树公司吗？好大……	這裡就是世界樹公司嗎？好大……	ここがユグドラシル社なんですか？すごく広いですね…	여기가 위그드라실이에요? 엄청 크네요…	So this is Yggdrasil? It's huge...						0	3.4活动剧情
+52	这还只是其中的一小部分而已啦，等庆典结束了，姐姐再带你去其他地方转转。	這還只是其中的一小部分而已啦，等慶典結束了，姐姐再帶你去其他地方轉轉。	まだほんの一部よ。祭りが終わったら、他のところにも連れてってあげるね。	여긴 일부일 뿐이야. 축제가 끝나면 언니가 다른 곳도 데려가 줄게.	This is just a small part of it. I'll show you around once the celebration's over.						0	3.4活动剧情
+53	大老远的，我便已经听到了熟悉的声音。而当我将目光投过去时，那名由无人机投影出的少女也正好看了过来。	大老遠的，我便已經聽到了熟悉的聲音。而當我將目光投過去時，那名由無人機投影出的少女也正好看了過來。	遠くから、聞き覚えのある声が聞こえてきた。声のほうに視線を向けると、ドローンに投影された少女とちょうど目が合った。	멀리서 익숙한 목소리가 들렸다. 그리고 내가 시선을 돌렸을 때, 드론으로 투영된 그 소녀도 마침 이쪽을 보고 있었다.	Even from afar, I could recognize those familiar voices. When I looked over, the hologram of the girl, projected by a drone, met my eyes.						0	3.4活动剧情
+54	早哇，分析员！	早啊，分析員！	おはよう、分析員！	좋은 아침이야, 분석가!	Good morning, Adjutant!						0	3.4活动剧情
+55	好久不见，小望，小枫。	好久不見，小望，小楓。	ああ、久しぶりだな、ノゾム、カエデ。	오랜만이네, 노조미, 카에데.	It's been a while, Nozomi, Kaede.						0	3.4活动剧情
+56	两名少女迫不及待地朝我靠近，我看到小望使了个眼色，小枫则立刻心领神会地从身后拿出了一个礼物盒。	兩名少女迫不及待地朝我靠近，我看到小望使了個眼色，小楓則立刻心領神會地從身後拿出了一个禮物盒。	ふたりがすぐに私のほうへ寄ってきた。ノゾムが妹に目配せすると、カエデはすぐにプレゼントの箱を取り出した。	두 소녀가 얼른 내게 다가왔고, 노조미가 눈짓하자 카에데는 즉시 알아차리고 뒤에서 선물 상자를 꺼냈다.	The two girls eagerly approached me. Nozomi gave Kaede a look, and Kaede took the hint, pulling out a gift box from behind her.						0	3.4活动剧情
+57	星祈节快乐！分析员，这是我和姐姐的心意！	星祈節快樂！分析員，這是我和姐姐的心意！	ハッピー星祈祭！これ、私とお姉ちゃんのささやかな気持ちです。どうぞ受け取ってください。	해피 성원절! 분석가님, 이건 언니랑 제 마음이에요!	Happy Starwish Day, Adjutant! This is from Nozomi and me!						0	3.4活动剧情
+58	谢谢你们，也祝你们星祈节快乐。	謝謝你們，也祝你們星祈節快樂。	ありがとう。君たちも、よい星祈祭を。	고마워, 너희도 성원절 즐겁게 보내.	Thank you. Happy Starwish Day to you both.						0	3.4活动剧情
+59	我接过礼物，盒子里的东西沉甸甸的，很有分量。	我接過禮物，盒子裡的東西沉甸甸的，很有分量。	受け取ったその箱はずっしりと重かった。	선물로 받아 든 상자는 묵직하고 무게감이 느껴졌다.	The box felt heavy and solid in my hands.						0	3.4活动剧情
+60	我能好奇一下里面装的是什么吗？	我能好奇一下裡面裝的是什麼嗎？	中身はなんなのかな？	안에 뭐가 들었는지 궁금한데?	Mind if I ask what's inside?						0	3.4活动剧情
+61	嘿嘿，我把自己录制的唱片都放进去了，还都带着亲笔签名哦~	嘿嘿，我把自己錄製的唱片都放進去了，還都帶著親筆簽名哦~	ふふ～ん。私の直筆サイン入りミュージックアルバムよ！	헤헤, 내가 직접 녹음한 레코드를 다 넣었어. 전부 직접 사인도 했다고~	Hehe, I put in all my recorded albums, and they're all autographed!						0	3.4活动剧情
+62	差点忘了，你还是个歌手来着。	差點忘了，你還是個歌手來著。	そういえば、ノゾムは歌手だったな。	깜빡했네, 너 가수였지.	Right, I almost forgot you're a singer.						0	3.4活动剧情
+63	真是的，不是歌手的话，分析员到底把我当成什么了呀！	真是的，不是歌手的話，分析員到底把我當成什麼了呀！	え！？歌手じゃなかったら、私をなんだと思ってたの！？	뭐야, 가수가 아니라면 분석가는 도대체 날 뭘로 본 거야?	Adjutant! If not a singer, what did you remember as?						0	3.4活动剧情
+64	喜剧演员、搞笑艺人……之类的？	喜劇演員、搞笑藝人……之類的？	コメディアン…もしくはお笑い芸人とか？	코미디언, 예능인… 뭐 그런 거?	I guess... a comedian of sorts?						0	3.4活动剧情
+65	太伤人了！	太傷人了！	分析員ヒドイ！	완전 상처야!	That's so mean!						0	3.4活动剧情
+66	像是要表达强烈抗议，小望的无人机撞了我的手臂一下。	像是要表達強烈抗議，小望的無人機撞了我的手臂一下。	ノゾムのドローンが抗議するかのように私の腕にぶつかってきた。	강력한 항의를 표하려는 듯, 노조미의 드론이 내 팔에 부딪쳤다.	As if to protest, Nozomi lightly bumped my arm with her drone.						0	3.4活动剧情
+67	那个……我给分析员准备的是照片！是在拍摄电影的时候，我给分析员和薇蒂雅导演拍的剧照。	那個……我給分析員準備的是照片！是在拍攝電影的時候，我幫分析員和薇蒂雅導演拍的劇照。	あの……私は写真を用意しました！映画撮影のときに、分析員とヴィディア監督を撮ったものです。	저기… 저는 분석가님을 위해 사진을 준비했어요! 영화 촬영할 때 분석가님과 비디야 감독님을 찍은 스틸 사진이에요.	Um... I got you some photos! They're stills from that movie with you and Director Vidya.						0	3.4活动剧情
+68	有心了，回头给薇蒂雅看看，她肯定会很高兴的。	有心了，回頭給薇蒂雅看看，她肯定會很高興的。	ありがとう、あとでヴィディアにも見せるよ。きっと喜んでくれると思う。	세심하네. 나중에 비디야한테 보여줄게. 분명 좋아할 거야.	That's thoughtful of you. I'm sure Vidya will love them.						0	3.4活动剧情
+69	也别站在这儿说了，你们先到里面的庆典会场去吧，我也给你们准备了礼物。	也別站在這裡聊了，你們先到裡面的慶典會場去吧，我也給你們準備了禮物。	立ち話も何だから、先に祭り会場へ行ってくれ。私も君たちにプレゼントを用意してあるからね。	여기 서서 이러지 말고, 너희 먼저 안쪽 축제 장소로 들어가. 나도 너희를 위한 선물을 준비해 뒀어.	Well then, let's not just stand out here. Head on inside for the celebration, I've prepared gifts for you both as well.						0	3.4活动剧情
+70	好耶！	好耶！	やったー！	야호!	Hooray!						0	3.4活动剧情
+71	目送着叽叽喳喳的姐妹两人离开，我正准备回过头，眼前忽然被一双手盖住。	目送著嘰嘰喳喳的姐妹兩人離開，我正準備回過頭，眼前忽然被一雙手蓋住。	嬉しそうにはしゃぐ二人を見送ってから、振り返ろうとした瞬間、突然誰かに目を覆われた。	재잘거리는 자매를 배웅하고 막 고개를 돌리려는데, 갑자기 누군가의 손이 내 눈을 가렸다.	Watching the chattering sisters stroll away, I was about to turn around when a pair of hands covered my eyes.						0	3.4活动剧情
+72	猜~猜~我~是~谁？猜不到的话，我就要没收分析员哥哥的礼物了哦？	猜~猜~我~是~誰？猜不到的話，我就要沒收分析員哥哥的禮物了哦？	だ～れだ～？当てられなかったら、プレゼント没収しちゃうからね！	누~구~게~? 못 맞히면 분석가 오빠 선물 압수다?	Guess~ who~ I~ am? If you can't figure it out, I'll have to take away your gift, Mr. Adjutant!						0	3.4活动剧情
+73	唔，是谁呢？手这么软的话，应该是小美吧。	唔，是誰呢？手這麼軟的話，應該是小美吧。	うーん…誰だろう。この手の触感は……ミミちゃんかな？	음, 누구지? 손이 이렇게 부드러운 걸 보니 미미구나.	Hmm, who could this be? With hands this soft... it must be Lisa.						0	3.4活动剧情
+74	嗯？！怎么又是一个没听过的名字！	嗯？！怎麼又是一個沒聽過的名字！	え！？また知らない名前が出てきた！	뭐?! 또 처음 듣는 이름이잖아!	Huh!? Why's there another name I've never heard of before!?						0	3.4活动剧情
+75	逗你的，莉琪。你还没过来我就看到长颈鹿头套的影子了。	逗你的，莉琪。你還沒過來我就看到長頸鹿頭套的影子了。	はは、冗談だよ、リジ。さっきから君がキリンの被り物をしているのに気づいていたんだ。	장난이야, 리지. 네가 오기도 전에 기린 탈 그림자를 봤어.	I'm just teasing you, Lizzie. I saw the shadow of your giraffe mask before you got close.						0	3.4活动剧情
+76	我说着便反扣住她的手，做出一副要发力的样子。	我說著便反扣住她的手，做出一副要發力的樣子。	そう言いながら、私は彼女の腕を逆手にとって、力を込めようとした。	나는 그렇게 말하며 그녀의 손을 거꾸로 잡고 힘을 주는 척했다.	I reached back to grab her hands, pretending to put some strength into it.						0	3.4活动剧情
+77	手下留情！	手下留情！	うわ！タンマ、タンマ！	살려줘!	Whoa! I yield!						0	3.4活动剧情
+78	回过头去，戴着长颈鹿头套的少女叉着腰，身旁还放了个四四方方、快有一个人那么高的礼物盒。	回過頭去，戴著長頸鹿頭套的少女叉著腰，身旁還放了個四四方方、快有一個人那麼高的禮物盒。	振り向くと、キリンの被り物を被ったリジが両手を腰に当てて立っていた。そんな彼女の横には人くらい大きな箱が置かれていた。	뒤를 돌아보니 기린 탈을 쓴 소녀가 허리에 손을 얹고 서 있었고, 옆에는 사람 키만 한 네모난 선물 상자가 놓여 있었다.	When I turned around, the giraffe girl had her hands on her hips, standing next to a box nearly as tall as she was.						0	3.4活动剧情
+79	分析员真是不懂怜香惜玉，我这么大老远从学院搬着这东西过来，你还欺负我！	分析員真是不懂憐香惜玉，我這麼大老遠從學院搬著這東西過來，你還欺負我！	分析員のいじわる！苦労してこんなに大きなプレゼントを持ってきたのに、いじめるなんてひどいよ！	분석가 오빠는 정말 여자 마음을 몰라. 내가 그 먼 아카데미에서 이걸 들고 왔는데 날 괴롭히다니!	Adjutant, that's no way to treat a girl! I hauled this all the way from the Acropolis, and you're teasing me!						0	3.4活动剧情
+80	你一个人带着这东西过来的？	你一個人帶著這東西過來的？	一人でこれを持ってきたのか？	혼자서 이걸 들고 왔어?	You carried that here all by yourself?						0	3.4活动剧情
+81	对呀。	對啊。	そうだよ。	그래.	Yup.						0	3.4活动剧情
+82	她轻描淡写地晃了晃脑袋，接着便伸出手，将这个巨大的礼物盒举了起来。	她輕描淡寫地晃了晃腦袋，接著便伸出手，將這個巨大的禮物盒舉了起來。	首を揺らしながらそう答えると、彼女は両手で巨大な箱を軽々と持ち上げた。	그녀는 절레절레 고개를 흔들더니 손을 뻗어 거대한 선물 상자를 들어 올렸다.	She casually nodded, then lifted the enormous gift box with ease.						0	3.4活动剧情
+83	请签收！	請簽收！	はい、どうぞ！	수령 확인 서명해!	Here you go!						0	3.4活动剧情
+84	……	……	……	……	...						0	3.4活动剧情
+85	久违的吐槽欲望涌上心头，即便如此，我还是接过了她的礼物。	久違的吐槽欲望湧上心頭，即便如此，我還是接過了她的禮物。	久しぶりにツッコミたくなった衝動をこらえて、私はプレゼントを受け取った。	오랜만에 장난을 좀 쳐볼까 하는 생각이 일었지만, 그냥 선물을 받았다.	The familiar absurdity of it all made me want to tease her again, yet I still accepted her gift.						0	3.4活动剧情
+86	呃……	呃……	ん……？	으윽…	Uh...						0	3.4活动剧情
+87	里面的东西，比我想象得还要重一些。虽然对我来说没什么压力，但莉琪到底是怎么举起来的？	裡面的東西，比我想像得還要重一些。雖然對我來說沒什麼壓力，但莉琪到底是怎麼舉起來的？	箱は想像より重かった。私にとっては大した重さではないが、リジはどうやって持ち上げたんだ？	안의 물건은 생각보다 더 무거웠다. 나에게는 별 부담이 아니었지만, 리지는 도대체 이걸 어떻게 들어 올린 거지?	It was even heavier than I expected. Not that it was a problem for me, but how had Lizzie managed to lift it?						0	3.4活动剧情
+88	这里面的……该不会是那个吧？	這裡面的……該不會是那個吧？	これは……もしかして、「あれ」か？	이 안에 든 건… 설마 그거야?	Don't tell me it's...						0	3.4活动剧情
+89	就是那个！	就是那個！	そう、あれ！	바로 그거야!	It's exactly that!						0	3.4活动剧情
+90	没等我说出口，莉琪便将礼物盒一拆，露出了里面的“大礼”。	沒等我說出口，莉琪便將禮物盒一拆，露出了裡面的「大禮」。	私が答えを口にするまでもなく、リジはプレゼントの箱を開けて、中身を見せてくれた。	내가 말을 꺼내기도 전에 리지가 선물 상자를 뜯어 안의 '대형 선물'을 공개했다.	Before I could finish, Lizzie tore the box open, revealing the "surprise" inside.						0	3.4活动剧情
+91	改进型自动破案……自动贩卖机pro max已开启，您好，分析员哥哥。今天想喝点什么？我们现在有十五种——	改進型自動破案……自動販賣機pro max已開啟，您好，分析員哥哥。今天想喝點什麼？我們現在有十五種——	改造自動捜査……ではなく、自動販売機pro max、起動しまシタ。こんにちは、分析員お兄ちゃン。今日はどれにシマスカ？ラインナップは現在15種類――	개선형 추리 로봇… 자판기 pro max 전원 ON. 안녕하세요, 분석가 오빠. 오늘은 뭘 드실래요? 현재 열다섯 가지…	Self-Improving Detective Bot... I mean Vending Machine Pro Max activated. Greetings, Mr. Adjutant. What would you like to drink today? We currently offer fifteen—						0	3.4活动剧情
+92	关机。	關機。	シャットダウン。	전원 꺼.	Shut down.						0	3.4活动剧情
+93	我面无表情地下达了命令。	我面無表情地下達了命令。	私は無表情のまま命令を下した。	나는 무표정하게 명령을 내렸다.	I gave the command flatly, expressionless.						0	3.4活动剧情
+94	分析员你放心，这台自动贩卖机是我重新制作的，没有奇奇怪怪的功能，也不会打广告的啦。	分析員你放心，這台自動販賣機是我重新製作的，沒有奇奇怪怪的功能，也不會打廣告的啦。	大丈夫、安心して！これは一から作り直したものなの。変な機能はついてないし、変なCMも流れたりしないから。	분석가 오빠, 걱정 마. 이 자판기는 내가 새로 만든 거라 이상한 기능도 없고 광고도 안 나와.	Don't worry, Adjutant! I rebuilt this vending machine from scratch. There are no weird features this time, and it won't play ads.						0	3.4活动剧情
+95	你就把它放基地里嘛，我刚才进来时候也已经看到有两台自动贩卖机了，多一个也没关系。	你就把它放基地裡嘛，我剛才進來時也已經看到有兩台自動販賣機了，多一個也沒關係。	寮に置いといてよ。さっき入ってきた時に、自販機が2台あったから、もう一台増えてもいいでしょ？	숙소에 갖다 놔. 아까 들어올 때 보니까 자판기 두 대 있던데, 하나 더 있어도 상관없잖아.	Just keep it in the base, please? I already saw two vending machines on my way in, what's one more, right?						0	3.4活动剧情
+96	……好，谢谢你的礼物。	……好，謝謝你的禮物。	……そうか。ありがとう。	… 알았어, 선물 고마워.	...Alright, thank you, I guess.						0	3.4活动剧情
+97	将莉琪带进会场后，我又陆续接见了一些客人。	將莉琪帶進會場後，我又陸續接見了一些客人。	リジを会場に案内したあと、私はまた客を数人出迎えた。	리지를 축제 장소로 안내한 후, 나는 계속해서 손님들을 맞이했다.	After bringing Lizzie into the venue, I returned to greet the other guests.						0	3.4活动剧情
+98	包括各家后勤公司和武器公司的代表，以及世界树在其他领域的合作伙伴。	包括各家後勤公司和武器公司的代表，以及世界樹在其他領域的合作夥伴。	後方支援会社や武器会社の代表から、ユグドラシルの他領域での取引先まで。	각 지원 회사와 무기 회사의 대표들, 그리고 위그드라실의 협력 파트너들이었다.	There were representatives from logistics and weapons companies, as well as Yggdrasil's partners in other fields.						0	3.4活动剧情
+99	这些人在与我寒暄并赠礼后便陆续前往了公司会议室，进行商业洽谈。	這些人在與我寒暄並贈禮後便陸續前往了公司會議室，進行商業洽談。	来賓たちは私と軽く話してプレゼントを交換したあと、仕事の話をするために会社の会議室に向かった。	그들은 나와 인사를 나누고 선물을 건넨 후 차례로 회사 회의실로 향해 비즈니스 협상을 진행했다.	After exchanging pleasantries and gifts, they all headed off to the conference room for business meetings.						0	3.4活动剧情
+100	过个节也不消停，这些商业精英真够累的。	過節也不休息一下，這些商業精英真夠累的。	祭りの日だというのに、忙しいな。	명절에도 쉴 수 없다니, 비즈니스 엘리트들도 피곤하겠네.	Working even during a holiday? There really is no rest for these business elites.						0	3.4活动剧情
+101	呵，她们这么老远飞到米德加尔特来，可就为了在你面前混个脸熟，商业协议反而是其次的。	呵，她們這麼老遠飛到米德加爾特來，可就為了在你面前混個臉熟，商業協議反而是其次的。	フッ。彼女たちがはるばるミッドガルドに来たのは、あなたに顔を覚えてもらうためだもの。仕事の話なんて二の次よ。	헤, 그들이 이렇게 멀리 미드가르드까지 날아온 건 너랑 안면이라도 익히려는 거지, 비즈니스 계약은 오히려 그다음이야.	Hah, the business deals are clearly secondary... they flew all the way to Midgard just to get a little face time with you.						0	3.4活动剧情
+102	幽幽响起的声音接过了我的自言自语，我抬起头，身着华服的米拉正好整以暇地看着我。	幽幽響起的聲音接過了我的自言自語，我抬起頭，身著華服的米拉正好整以暇地看著我。	私の独り言に、誰かの声が割り込んできた。顔をあげると、華やかな衣装を身に纏うミラが、ゆうぜんと私を見ていた。	내 혼잣말에 대꾸하는 은은하게 울려 퍼진 목소리에 고개를 들자, 화려한 의상을 입은 밀라가 여유롭게 나를 바라보고 있었다.	A faintly sarcastic voice interrupted my muttering. Looking up, Myra, in elegant attire, regarded me calmly.						0	3.4活动剧情
+103	世界树大名鼎鼎的分析员，你真是不了解自己身上的价值。	世界樹大名鼎鼎的分析員，你真是不了解自己身上的價值。	あなたは自分の価値をちっともわかっていないのね。ユグドラシルの分析員さん。	위그드라실의 그 유명한 분석가, 너는 정말 스스로의 가치를 모르는구나.	As the famous Adjutant of Yggdrasil, you really underestimate your value.						0	3.4活动剧情
+104	虽然有所预期，不过确实比我想的要夸张一些。	雖然有所預期，不過確實比我想的要誇張一些。	薄々気づいてはいたが、ここまでとは思わなかったよ。	어느 정도 예상은 했지만, 생각보다 확실히 과하긴 하네.	I had expected something like this, but it was more exaggerating than I thought.						0	3.4活动剧情
+105	我摊了摊手，米拉也不接话，而是自顾自地走了过来，将手中的东西别在了我的胸口。	我攤了攤手，米拉也不接話，而是自顧自地走了過來，將手中的東西別在了我的胸口。	私は両手を広げ、肩をすくめた。ミラは何も答えず、静かに近づいてくると、手に持っているものを私の胸につけてきた。	나는 어깨를 으쓱했고, 밀라는 대꾸하지 않고 거리낌 없이 다가와 손에 든 물건을 내 가슴에 달아 주었다.	I answered with a shrug, and Myra didn't respond. Instead, she walked over and pinned something to my chest.						0	3.4活动剧情
+106	胸针？	胸針？	ブローチ？	브로치?	A brooch?						0	3.4活动剧情
+107	目光下瞟，出现在我胸口上的是一枚闪烁着辉光的湛蓝色胸针。	目光下瞟，出現在我胸口上的是一枚閃爍著輝光的湛藍色胸針。	下を見ると、私の胸にきらきら輝く青い宝石のブローチがついていた。	시선을 내리자 내 가슴에 빛나는 청색 브로치가 달려 있었다.	Glancing down, a gleaming azure brooch met my eyes.						0	3.4活动剧情
+108	找索伦尼亚的工匠定制的，用了菲洛索亚海东海岸特产的蓝宝石，世界上仅此一份。	找索倫尼亞的工匠訂製的，用了菲洛索亞海東海岸特產的藍寶石，世界上僅此一份。	フィロゾア東海岸産のサファイアで作った、ソレンニアの職人の作品よ。唯一無二の逸品よ。	소레니아의 장인에게 커스텀 제작한 거야. 필로시아해 동쪽 해안 특산 사파이어를 사용했어. 세상에 단 하나뿐이지.	Custom-made in Sorenia, with a sapphire from the eastern coast of Philossia. It's one of a kind.						0	3.4活动剧情
+109	就算你不喜欢，在这种场合也该有点彰显身份的东西。	就算你不喜歡，在這種場合也該有點彰顯身分的東西。	あなたがこういうものを好んでいなくても、こういった場では自分の立場に合ったものをつけなさい。	내키지 않더라도, 이런 자리에서는 신분을 드러낼 만한 게 뭔가가 있어야 해.	Even if you don't care for such things, you should wear something that represents your status at an event like this.						0	3.4活动剧情
+110	我倒觉得有这些就够了。	我倒覺得有這些就夠了。	これだけあれば十分だと思うが。	난 이것만으로도 충분하다고 생각하는데.	I think what I'm wearing is enough.						0	3.4活动剧情
+111	我扬了扬手上的戒指。	我揚了揚手上的戒指。	私は指につけている指輪を彼女に見せた。	나는 손에 낀 반지를 살짝 들어 보였다.	I lifted a hand to show the rings on my fingers.						0	3.4活动剧情
+112	油嘴滑舌。	油嘴滑舌。	フッ、口だけは達者ね。	입만 살아가지곤.	Ever the smooth talker.						0	3.4活动剧情
+113	不过，至少我可以相信，你会好好照顾克罗瑞娜的，对吧？	不過，至少我可以相信，你會好好照顧克羅瑞娜的，對吧？	クラウリナを大事にしてくれるって、信じていいわよね？	그래도 최소한, 네가 클라리나를 잘 돌봐줄 거라는 건 믿어도 되겠지?	But judging by all these rings, I trust that you'll take good care of Clarina too, won't you?						0	3.4活动剧情
+114	那当然，你就放心吧。	那當然，你就放心吧。	もちろん。安心してくれ。	당연하지, 걱정하지 마.	Of course. You have nothing to worry about.						0	3.4活动剧情
+115	真是个让人捉摸不透的男人……	真是個讓人捉摸不透的男人……	はぁ、相変わらず掴みどころがない男ね……	정말 종잡을 수 없는 남자란 말야…	You really are a hard man to read...						0	3.4活动剧情
+116	米拉似乎轻轻叹了口气。	米拉似乎輕輕嘆了口氣。	ミラは小さくため息をついたようだった。	밀라는 가볍게 한숨을 내쉬는 것 같았다.	Myra let out a quiet sigh.						0	3.4活动剧情
+117	还有，我刚才遇到你们陶董了，她让你有空去找她。	還有，我剛才遇到你們τ董了，她讓你有空去找她。	そういえば、さっきτに会ったわよ。時間ができたらオフィスに来てほしいって言ってたわ。	아, 그리고 아까 너희 τ 이사 만났는데, 시간 나면 찾아오래.	Oh, and I ran into Director τ earlier. She wants you to drop by when you have a moment.						0	3.4活动剧情
+118	谢了，我现在过去。	謝了，我現在過去。	ありがとう。今から行くよ。	고마워, 바로 가볼게.	Thank you. I'll head over now.						0	3.4活动剧情
+119	与米拉别过，我径直走上了直达陶办公室的电梯。	與米拉別過，我徑直走上了直達τ辦公室的電梯。	ミラと別れたあと、私はτのオフィスへ向かうエレベーターに乗り込んだ。	밀라와 헤어진 후, 나는 곧장 τ의 사무실로 가는 엘리베이터에 올랐다.	Parting ways with Myra, I took the elevator to τ's office.						0	3.4活动剧情
+120	窗明几净，视野开阔，陶的这座可以俯瞰全城的办公室总是让人感到轻松与舒适。	窗明幾淨，視野開闊，τ的這座可以俯瞰全城的辦公室總是讓人感到輕鬆與舒適。	τのオフィスは綺麗に掃除されていて、見晴らしも心地いいほど開けている。街の全貌を見渡せるここにいると、いつも気分がよくなる。	창이 밝고 깨끗하며 시야가 트여 전경이 내려다보이는 τ의 사무실은 언제나 편안하고 쾌적한 느낌을 준다.	The room was brightly lit and spacious. τ's office offered a view of the entire city, always a relaxing and comforting sight.						0	3.4活动剧情
+121	你来了。	你來了。	playername。	왔구나.	Good, you're here.						0	3.4活动剧情
+122	往日里总是堆放着文件的办公桌难得空了下来，陶依然如常坐在椅子上，只不过身体贴着椅背，双手搭在桌上，看起来要放松许多。	往日裡總是堆放著檔案的辦公桌難得空了下來，τ依然如常坐在椅子上，只不過身體貼著椅背，雙手搭在桌上，看起來要放鬆許多。	普段なら書類の山が乱立している机が珍しく片づけられていた。τはいつものように椅子に座っているが、背もたれに体を預け、両手を机に置いてリラックスしていた。	평소 서류로 가득했던 책상이 웬일인지 비어 있었고, τ는 여느 때처럼 의자에 앉아 있었지만 몸을 등받이에 기대고 두 손을 책상 위에 올린 모습은 훨씬 편안해 보였다.	For once, her usually cluttered desk was nearly empty. She leaned back in her chair, hands resting on the desk, looking far more relaxed than usual.						0	3.4活动剧情
+123	星祈节快乐，陶。	星祈節快樂，τ。	ハッピー星祈祭、τ。	성원절 즐겁게 보내세요, τ 이사님.	Happy Starwish Day, τ.						0	3.4活动剧情
+124	不去庆典会场逛逛吗？	不去慶典會場逛逛嗎？	祭り会場を見て回らないのか？	축제 구경하러 안 가세요?	Are you planning to join us?						0	3.4活动剧情
+125	有你在就可以了。	有你在就可以了。	あなたがいれば十分です。	네가 있으니 괜찮아.	I trust you'll take care of everything.						0	3.4活动剧情
+126	陶半眯着眼睛，似乎是在打量我胸前的胸针。	τ半瞇著眼睛，似乎是在打量我胸前的胸針。	τは目を細めて、私のブローチを品定めしているようだ。	τ는 눈을 가늘게 떴다. 내 가슴의 브로치를 살펴보는 듯했다.	τ's eyes were half closed, as if studying the brooch on my chest.						0	3.4活动剧情
+127	我本身也不擅长这些，比起宴会，办公室和实验室才更适合我。	我本身也不擅長這些，比起宴會，辦公室和實驗室才更適合我。	昔から、こういった行事は得意ではありません。宴会場より、オフィスや実験室のほうが性に合いますから。	나도 그런 건 잘 못해. 나한텐 연회보다는 사무실이나 실험실이 더 잘 맞아.	I'm not adept at this sort of thing. The office and lab suit me far better than a banquet.						0	3.4活动剧情
+128	这个世界上很少有人能被摆在适合自己的位置上，去做自己喜欢且擅长的事情。	這個世界上很少有人能被擺在適合自己的位置上，去做自己喜歡且擅長的事情。	自分に合った環境で、好きで得意なことをできる人はそういません。	이 세상에서 자기에게 맞는 자리에서 자기가 좋아하고 잘하는 일을 할 수 있는 사람은 드물어.	People seldom get to work in roles perfectly suited for them, doing what they love and excel at.						0	3.4活动剧情
+129	而你，就是那少数的幸运儿。	而你，就是那少數的幸運兒。	あなたが、その数少ない人たちの一人です。	그리고 너는 바로 그 소수의 행운아지.	You're one of the lucky few.						0	3.4活动剧情
+130	从你成为分析员……不，从你成为公司的一员开始，你就没有让我失望过。	從你成為分析員……不，從你成為公司的成員開始，你就沒有讓我失望過。	あなたが分析員に……いいえ。会社の一員になった日から、あなたに失望したことは一度たりともありません。	네가 분석가가 됐을 때… 아니, 회사의 일원이 됐을 때부터 넌 나를 실망시킨 적이 없었어.	From the moment you became the Adjutant... or rather, from the moment you joined this company, you've never once let me down.						0	3.4活动剧情
+131	虽然你一直拒绝公司给你的物质与名誉嘉奖，但我还是要说，我很感谢你的出现。	雖然你一直拒絕公司給你的物質與名譽嘉獎，但我還是要說，我很感謝你的出現。	あなたはずっと会社からの褒賞を拒んでいますが、改めてあなたに感謝を伝えたいと思います。	너는 회사가 주는 물질적, 명예적 보상을 계속 거절했지만, 그래도 네가 나타나 줘서 정말 고맙다는 말은 해야겠어.	Though you've declined the company's material rewards and honors, I hope you would at least accept my gratitude. I'm deeply thankful that you're here.						0	3.4活动剧情
+132	分析员，祝你星祈节快乐。	分析員，祝你星祈節快樂。	分析員、ハッピー星祈祭。	분석가, 성원절 즐겁게 보내.	Happy Starwish Day, Adjutant.						0	3.4活动剧情
+133	那个在别人眼中高不可攀的陶，那个曾经对每个人都心怀戒备的陶，此刻在她的眼中，流露着少有的温柔。	那個在別人眼中高不可攀的τ，那個曾經對每個人都心懷戒備的τ，此刻在她的眼中，流露著少有的溫柔。	誰からも恐れられ、警戒心の強いあのτが、珍しく優しそうな目をしている。	남들 눈에 높고 멀게만 보이던 τ, 모든 사람을 경계하던 τ. 그랬던 그녀의 눈에 보기 드문 온화함이 흐르고 있었다.	τ had always appeared unapproachable and wary of everyone. But now there was a rare gentleness in her gaze.						0	3.4活动剧情
+134	我必须承认，她的身上有着独一无二的气质。	我必須承認，她的身上有著獨一無二的氣質。	彼女は、他にはない独特な気質を持っている。	그녀의 분위기는 유일무이하다는 것을 인정하지 않을 수 없었다.	I had to admit, she truly possessed a unique presence.						0	3.4活动剧情
+135	新年贺词就没必要这么严肃了。	新年賀詞就沒必要這麼嚴肅了。	新年なんだし、堅苦しい話はやめよう。	새해 인사치고 너무 진지한데요.	No need to make a new year greeting sound so formal.						0	3.4活动剧情
+136	我给你准备了礼物，是我做的咖啡杯。你不想去参加庆典的话，回头我让卡罗琳给你带过来吧。	我為你準備了禮物，是我做的咖啡杯。你不想去參加慶典的話，回頭我讓卡羅琳幫你帶過來吧。	あなたにもプレゼントを用意した。私の手作りコーヒーカップだ。会場に顔を出す気がないなら、あとでカロリンに持ってきてもらうよ。	이사님을 위해 선물을 준비했어요. 직접 만든 커피잔이에요. 축제에 가기 싫으시면 나중에 캐롤린한테 갖다드리라고 할게요.	I made you a coffee mug this year. If you're not coming to the celebration, I'll have Caroline bring it here.						0	3.4活动剧情
+137	卡罗琳的话，她今天都在忙着做各种事情。	卡羅琳的話，她今天都在忙著做各種事情。	カロリンなら、今日は一日中ずっと忙しいと聞きました。	캐롤린은 오늘 온갖 일로 바쁠 텐데.	Today's been rather busy for Caroline.						0	3.4活动剧情
+138	行，晚点我再去找她。	行，晚點我再去找她。	わかった。あとで彼女を訪ねてみる。	그럼 나중에 찾아갈게요.	Alright, I'll wait until later then.						0	3.4活动剧情
+139	没什么事的话，我就先走了。	沒什麼事的話，我就先走了。	他に用がないなら、先に戻るよ。	별일 없으시면 이만 가볼게요.	If that's all, I'll get going now.						0	3.4活动剧情
+140	等等。	等等。	待ってください。	잠깐.	Wait.						0	3.4活动剧情
+141	伴随着声音，一节小巧的记忆体被陶抛了过来。	伴隨著聲音，一節小巧的記憶體被τ拋了過來。	その声とともに、τは小さなメモリーを投げ渡してきた。	τ는 그 말과 함께 작고 정교한 메모리 장치를 던져 주었다.	τ tossed me a small memory unit.						0	3.4活动剧情
+142	礼物？	禮物？	プレゼントか？	선물이에요?	A gift?						0	3.4活动剧情
+143	礼物。	禮物。	はい。	선물이야.	Uh-huh.						0	3.4活动剧情
+144	不会是塞满了数据金的神秘账户吧？	不會是塞滿了數據金的神秘帳戶吧？	潤沢なデジギボスが入った謎の口座じゃないだろうな。	디지털 코인으로 가득 찬 비밀 계좌는 아니겠죠?	Don't tell me it's a secret account full of DigiCash.						0	3.4活动剧情
+145	对你来说可能比数据金更实用一些。有了这个记忆体，你可以随时调用公司的战术空艇“苍穹一号”。	對你來說可能比數據金更實用一些。有了這個記憶體，你可以隨時調用公司的戰術空艇「蒼穹一號」。	あなたにとっては、デジギボス以上の価値があるものかと思います。そのメモリーがあれば、会社の戦術飛空艇「蒼穹一号」を随意に使用できます。	너한테는 디지털 코인보다 그게 더 유용할 거야. 이 메모리 장치가 있으면 언제든지 회사의 전술 비행선 '창궁 1호'를 호출할 수 있어.	No, it's something that's probably more useful for you. This gives you access to one of our tactical skyskiffs, Stratos One.						0	3.4活动剧情
+146	那艘空艇虽然一直没正式启用过，但姑且每年都在修缮维护，基础设施和物资都没问题。	那艘空艇雖然一直沒正式啟用過，但姑且每年都在修繕維護，基礎設施和物資都沒問題。	長らく正式運用に至らなかった飛空艇ですが、年一の点検は欠かさずしていたので、施設と物資に心配はないと思います。	그 비행선이 정식으로 움직인 적은 없지만 매년 수리 점검을 받아왔으니까 기본 시설이나 물자는 문제 없을 거야.	That skyskiff has never seen formal deployment, but we've kept it serviced every year. Its systems and supplies are all in proper condition.						0	3.4活动剧情
+147	下次要离开霍尔姆执行任务的话，可以试试看。	下次要離開霍爾姆執行任務的話，可以試試看。	今度ホルムから任務に向かうときに、試してみてください。	다음에 홀름을 떠나 미션을 수행하게 되면 써봐.	Next time you leave Holme for a mission, feel free to put it to use.						0	3.4活动剧情
+148	怎么突然想到要送我这个？	怎麼突然想到要送我這個？	どうして急にこれを？	갑자기 왜 이걸 선물로 주시는 거예요?	Why are you giving me a skyskiff all of a sudden?						0	3.4活动剧情
+149	只是觉得你大概会需要。而且我前几天方才有空去实地检查空艇的性能，就算今天不是节日，我也会交给你的。	只是覺得你大概會需要。而且我前幾天方才有空去實地檢查空艇的性能，就算今天不是節日，我也會交給你的。	今後必要になると思ったのと、先日ようやく自分で飛空艇を確認できたので。今日でなくても、いずれあなたに使用権を渡すつもりでしたから。	너한테 필요할 것 같아서. 그리고 며칠 전에 비행선 성능을 점검할 기회가 있었거든. 오늘이 축제가 아니었더라도 너한테 줬을 거야.	I simply thought you'd need it. And I had time a few days ago to run an onsite performance check. Even if today weren't Starwish Day, I would've given it to you.						0	3.4活动剧情
+150	行吧，咖啡杯换空艇……	行吧，咖啡杯換空艇……	そうか。コーヒーカップのお返しに、飛空艇……か。	좋아요, 커피잔과 비행선을 교환한 거네요…	Alright, a mug for a skyskiff...						0	3.4活动剧情
+151	倒也是不错的交易。	倒也是不錯的交易。	悪くない取引だ。	꽤 괜찮은 거래였다.	Seems like a good trade to me.						0	3.4活动剧情
+152	直至夜幕降临，我才从社交应酬中抽出身来，被一致推举到台上发表新年贺词。	直至夜幕降臨，我才從社交應酬中抽出身來，被一致推舉到台上發表新年賀詞。	空が暗くなってきた頃、社交の席から逃れられなかった私は、新年の挨拶をする役として舞台に放り出された。	밤이 깊어서야 나는 사교 모임에서 빠져나왔는데, 만장일치로 무대에 올라 신년사를 하게 되었다.	By the time night settled in, I finally managed to slip away from all the socializing, only to be unanimously called onto the stage to deliver the new year's address.						0	3.4活动剧情
+153	台下有不少我今天才认识的人，但不知从何时起，我也慢慢熟悉起了这种抛头露面的事情。	台下有不少我今天才認識的人，但不知從何時起，我也慢慢熟悉起了這種拋頭露面的事情。	客席には、今日知り合ったばかりの人たちがたくさん立っている。しかし、人前に出ることに、私もいつの間にか慣れてきたようだ。	무대 아래에는 오늘 처음 만난 사람들도 많았는데, 나는 언제부턴가 이렇게 대중 앞에 서는 일에도 익숙해져 가고 있었다.	There were plenty of faces I'd only just met today, yet somewhere along the way, I'd grown more accustomed to standing in the open, addressing the public.						0	3.4活动剧情
+154	诸位，很高兴能和大家共度佳节。	諸位，很高興能和大家共度佳節。	皆様、本日はみなさんと星祈祭をお祝いできて、うれしく思います。	여러분, 축제를 함께할 수 있어서 기쁩니다.	Everyone, it's an honor to spend this holiday together.						0	3.4活动剧情
+155	我谨代表我自己与世界树公司，对各位在过去一年里的支持表示由衷的感谢。	我謹代表我自己與世界樹公司，對各位在過去一年裡的支持表示由衷的感謝。	私自身とユグドラシル社を代表して、この一年間、心強い支援を送ってくださった皆様に、心よりお礼を申し上げます。	저 자신과 위그드라실을 대표하여, 지난 한 해 동안 여러분께서 보내주신 성원에 진심으로 감사드립니다.	On behalf of myself and Yggdrasil Enterprises, I offer my sincere gratitude for all your support throughout the past year.						0	3.4活动剧情
+156	希望各位能享受今天的庆典，享受这片刻的闲暇。	希望各位能享受今天的慶典，享受這片刻的閒暇。	祭りというひとときの安らぎを、どうか心ゆくまで楽しんでください。	오늘 축제에서 이 순간의 짧은 여유를 마음껏 즐기시기 바랍니다.	I hope everyone is enjoying today's event and this brief respite from our duties.						0	3.4活动剧情
+157	让我们一同举杯吧！愿新的一年平安喜乐！	讓我們一同舉杯吧！願新的一年平安喜樂！	さあ、乾杯しましょう！来たる一年が、素敵な時間になりますように！	함께 건배합시다! 새해에도 평안하고 행복하세요!	Let us raise our glasses. To peace and good tidings in the year ahead! Happy New Year!						0	3.4活动剧情
+158	平安喜乐！	平安喜樂！	乾杯！	평안하고 행복하세요!	Happy New Year!						0	3.4活动剧情
+159	伴随着碰杯的声音，新年的钟声与烟花也一同响起。	伴隨著碰杯的聲音，新年的鐘聲與煙火也一同響起。	グラスがぶつかり合う音とともに、新年の鐘の音や花火の音も鳴り始めた。	건배하는 소리와 함께 새해를 알리는 종소리와 불꽃놀이가 동시에 울렸다.	Amid the clinking of glasses, the bell chimed and fireworks blossomed overhead, ushering in a new year.						0	3.4活动剧情
+160	年份与节日本都是人类创造的概念，用于分割片刻不停的时间。	年份與節日本都是人類創造的概念，用於分割片刻不停的時間。	「年」も「祝日」も、人間がいつまでも続く時間に区切りをつけるために作った概念にすぎない。	인류가 만들어낸 개념인 연도와 명절은 끊임없이 흐르는 시간을 나누기 위한 것이다.	Years and holidays are inventions of humankind, meant to carve meaning into the ceaseless flow of time.						0	3.4活动剧情
+161	但人类就是需要着节日，它带来期许与憧憬，鼓励着每一个人继续前行。	但人類就是需要著節日，它帶來期許與憧憬，鼓勵著每一個人繼續前行。	しかし人間には祝日が必要だと、私は考えている。それが意味する期待や憧れのおかげで、人々は前へ足を踏み出すことができるのだろう。	하지만 인류에게는 명절이 필요하다. 명절은 기대와 동경을 가져다주고, 모든 이들이 계속 나아갈 수 있도록 격려한다.	And yet, we need them. They give rise to hope, to anticipation, urging each of us to keep moving forward.						0	3.4活动剧情
+162	无论过去一年有着怎样的喜怒哀乐，在这一刻，都已成为旧的一页。	無論過去一年有著怎樣的喜怒哀樂，在這一刻，都已成為舊的一頁。	去年に起きたどんな喜怒哀楽も、この瞬間に過去と化す。	지난 한 해 동안의 모든 희로애락이 이 순간 모두 지난 페이지가 되었다.	Whatever joys or sorrows the past year held, in this moment, the page had turned.						0	3.4活动剧情
+163	而无论前路有何阻隔，我们终将抵达那个美好的明天。	而無論前路有何阻隔，我們終將抵達那個美好的明天。	そして、どんな未来が待ち受けていようと、私たちには美しい明日が約束されている。	그리고 앞길에 어떤 장애물이 있든, 우리는 결국 그 아름다운 내일에 도달할 것이다.	And no matter what obstacles stood ahead, we would eventually reach a brighter tomorrow.						0	3.4活动剧情
+164	我如此相信着。	我如此相信著。	そう、信じている。	나는 그렇게 믿고 있다.	That, I believed with all my heart.						0	3.4活动剧情
+165	随着客人们一一散去，基地里又恢复了平静。	隨著客人們一一散去，基地裡又恢復了平靜。	来賓が一人また一人と帰ったあと、寮は再び静けさに包まれた。	손님들이 하나둘씩 떠나가고, 숙소는 다시 평온을 되찾았다.	As the guests gradually left, the Base fell quiet once again.						0	3.4活动剧情
+166	而我很清楚，自己尚有约未赴。	而我很清楚，自己尚有約未赴。	しかし私には果たさなければいけない約束が残っている。	하지만 나는 아직 지켜야 할 약속이 남아 있음을 잘 알고 있었다.	But I knew I still had more appointments to keep.						0	3.4活动剧情
+167	穿过走廊——坐上电梯，按下最顶端的楼层，经过数个呼吸的等待时间后，我出现在公司天台上。	穿過走廊——坐上電梯，按下最頂端的樓層，經過數個呼吸的等待時間後，我出現在公司樓頂頂樓上。	廊下を通り、エレベーターに乗って、最上階のボタンを押す。しばらくすると、屋上に辿り着いた。	복도를 지나 엘리베이터에 올라탄 후, 최상층 버튼을 눌렀다. 숨을 몇 번 고르는 사이, 나는 회사 옥상에 도착해 있었다.	Walking down the corridor, I took the elevator to the rooftop. A moment later, I emerged onto the rooftop.						0	3.4活动剧情
+168	远处，背对着我的少女双手撑着天台的护栏，正忘我地沉浸在这座城市的夜景中。	遠處，背對著我的少女雙手撐著樓頂頂樓的護欄，正忘我地沉浸在這座城市的夜景中。	少し離れた場所で、少女が私のほうに背中を向け、両手を屋上のフェンスに置いて、街の夜景を眺めていた。	저 멀리, 나를 등지고 있는 소녀가 두 손으로 옥상 난간을 짚은 채 이 도시의 야경에 푹 빠져 있었다.	In the distance, a girl stood with her back to me, her hands resting on the railing, completely absorbed in the nightscape below.						0	3.4活动剧情
+169	在明月的照耀下，她单薄的身影周围像是散发着浅浅的白色光芒，将她与钢铁森林和霓虹灯构成的都市分隔开来。	在明月的照耀下，她單薄的身影周圍像是散發著淺淺的白色光芒，將她與鋼鐵森林和霓虹燈構成的都市分隔開來。	月明かりに照らされた彼女のはかない後ろ姿は、高層ビルやネオン灯で構成された都市と違って、うっすらと白い光を放っているようだった。	밝은 달빛 아래, 그녀의 가냘픈 실루엣 주위로 퍼져 나온 은은한 백색 광채가 그녀를 강철 숲과 네온사인으로 이루어진 도시와 분리하고 있었다.	Moonlight gave her slender silhouette a faint glow, setting her apart from the steel forest and neon lights of the city.						0	3.4活动剧情
+170	露娜。	露娜。	ルナ。	루나.	Luna.						0	3.4活动剧情
+171	听到了我轻声的呼唤，少女随即转过身来，双眼璀璨如星。	聽到了我輕聲的呼喚，少女隨即轉過身來，雙眼璀璨如星。	私の声を聞くと、少女はすぐに振り向いて、目を輝かせた。	내 나지막한 목소리에 곧바로 돌아선 소녀의 두 눈은 별처럼 찬란한 빛을 발했다.	Hearing my voice, she turned around, her eyes sparkling like stars.						0	3.4活动剧情
+172	等我很久了吧。	等我很久了吧。	待たせてしまったな。	오래 기다렸지.	Have you been waiting long?						0	3.4活动剧情
+173	没有的事，我也是刚刚到达这里。	沒有的事，我也是剛剛到達這裡。	いえ。私もついさっき来ました。	아니야, 나도 방금 도착했어.	Not at all. I just got here.						0	3.4活动剧情
+174	我向她走去，一同将目光投向远方的城市。	我向她走去，一同將目光投向遠方的城市。	私は彼女の横に並び、一緒に夜景を眺めた。	나는 그녀에게 다가가 함께 멀리 보이는 도시를 바라보았다.	I walked over to stand beside her, both of us gazing out at the city in the distance.						0	3.4活动剧情
+175	我为她准备的礼物还需要些准备时间，为了给她一个惊喜，我事先没有告诉她礼物的内容。	我為她準備的禮物還需要些準備時間，為了給她一個驚喜，我事先沒有告訴她禮物的內容。	彼女のために用意したプレゼントを見せるには、まだ早すぎる。サプライズを仕掛けるために、プレゼントの中身は、彼女には秘密にしていた。	그녀를 위한 선물은 아직 시간이 좀 더 필요했고, 깜짝 놀라게 해주기 위해 미리 선물에 대해선 알려주지 않았다.	The gift I'd prepared for her still needed a little more time. I hadn't told her what it was, wanting it to be a surprise.						0	3.4活动剧情
+176	今天的庆典，很成功呢。	今天的慶典，很成功呢。	今日の祭り、円満に終わりましたね。	오늘 축제, 정말 성공적이었어.	Tonight's celebration turned out wonderfully.						0	3.4活动剧情
+177	这都多亏了你和卡罗琳，让大家得到了一场快乐的节日庆典，也让我收到了这么多礼物。	這都多虧了你和卡羅琳，讓大家得到了一場快樂的節日慶典，也讓我收到了這麼多禮物。	ああ、君とカロリンのおかげだ。みんなに喜んでもらえたし、私もプレゼントをたくさんもらえたよ。	다 너랑 캐롤린 덕분이야. 덕분에 모두가 즐거운 축제를 보냈고, 나도 선물을 많이 받았어.	It's all thanks to you and Caroline. Everyone enjoyed themselves, and I ended up with quite a lot of gifts.						0	3.4活动剧情
+178	给分析员的礼物，加起来得有五层楼那么高了吧？	給分析員的禮物，加起來得有五層樓那麼高了吧？	分析員宛てのプレゼント、積み上げたら5階建てのビルくらいの高さになるんじゃないですか？	분석가한테 온 선물들, 다 쌓으면 5층 건물 높이는 되겠지?	For the great Adjutant, the stack of gifts must be five stories high, right?						0	3.4活动剧情
+179	哈……你这是学会开玩笑了吗？	哈……你這是學會開玩笑了嗎？	はは……冗談を言うようになったな。	하… 농담이 늘었네?	Hah... When did you learn to make jokes?						0	3.4活动剧情
+180	这样说会很奇怪吗？	這樣說會很奇怪嗎？	変ですか？	이상해?	Would it be strange if I did?						0	3.4活动剧情
+181	不，我挺喜欢的。	不，我挺喜歡的。	全然、むしろ好きだよ。	아니, 난 좋은데.	No, I like it.						0	3.4活动剧情
+182	我总感觉，你就应该是这样活泼的人。	我總感覺，你就應該是這樣活潑的人。	私はずっと、君は元気のいい子であるべきだと思っていたんだ。	난 항상 네가 이렇게 활발한 사람이어야 한다고 생각했어.	I've always felt that you were meant to be someone lively.						0	3.4活动剧情
+183	分析员喜欢的话，我会学着去这样做的。	分析員喜歡的話，我會學著去這樣做的。	分析員がそう言うのなら、頑張ってそうしますね。	분석가가 좋다면 좀 더 배워볼게.	If that's what you prefer, Adjutant, I'll learn.						0	3.4活动剧情
+184	你可以去做你想做的事情，露娜。	你可以去做你想做的事情，露娜。	私は君に、君のしたいようにしてほしいんだ、ルナ。	네가 하고 싶은 일을 하면 돼, 루나.	It's okay, Luna. Just do what you want to do.						0	3.4活动剧情
+185	我想做的事情……就是能够陪在你的身边。	我想做的事情……就是能夠陪在你的身邊。	私のしたいように、ですか……しいて言うなら、あなたのそばにいたいです。	내가 하고 싶은 일은… 네 곁에 있는 거야.	What I want... is to stay by your side.						0	3.4活动剧情
+186	突如其来的，她看向了我，说出了直截了当的发言。	突如其來的，她看向了我，說出了直截了當的發言。	彼女は急に私を見つめて、ストレートに言い放った。	그녀가 나를 바라보다가 갑자기 직설적으로 말했다.	Out of nowhere, she turned to me and voiced her feelings with a simple directness.						0	3.4活动剧情
+187	待在分析员身边的时候，心中那悸动的感觉，是独一无二的。	待在分析員身邊的時候，心中那悸動的感覺，是獨一無二的。	分析員のそばにいる間に感じられるトキメキは、唯一無二なものですから。	분석가의 곁에 있을 때 느껴지는 그 두근거림은 유일무이해.	The flutter in my heart when I'm with you is like nothing I've ever felt before.						0	3.4活动剧情
+188	皎洁的月光照亮了少女的脸庞，微风则将她的发梢掠起，带着茉莉花的香气将我包围。	皎潔的月光照亮了少女的臉龐，微風則將她的發梢掠起，帶著茉莉花的香氣將我包圍。	美しい月明りが少女の頬を照らす。彼女の髪を揺らすそよ風はジャスミンの香りを運び、私を包んだ。	밝은 달빛이 소녀의 얼굴을 비추고, 미풍이 그녀의 머리카락 끝을 스치며 재스민 향기와 함께 나를 감쌌다.	Silvery moonlight illuminated her face, and her hair blew softly in the breeze, carrying the scent of jasmine around me.						0	3.4活动剧情
+189	星祈节快乐，分析员。这个星祈节，我过得很开心。	星祈節快樂，分析員。這個星祈節，我過得很開心。	ハッピー星祈祭、分析員。お祭り、とても楽しかったです。	해피 성원절, 분석가. 이번 성원절은 정말 즐거웠어.	Happy Starwish Day, Adjutant. I really enjoyed everything today.						0	3.4活动剧情
+190	在她说完后，我感觉手中多出了一块沉甸甸的东西。	在她說完後，我感覺手中多出了一塊沉甸甸的東西。	その言葉とともに、私の手のひらに何かが置かれた。	그녀의 말이 끝나자 내 손에 묵직한 무언가가 느껴졌다.	Before I could answer, something weighty settled into my palm.						0	3.4活动剧情
+191	这是自月球上分离而出的陨铁……换句话说，就是“luna”的一部分吧？	這是自月球上分離而出的隕鐵……換句話說，就是「luna」的一部分吧？	月の隕鉄です。言い方を変えれば、「月（ルナ）」の一部です。	이건 달에서 분리된 운철이야… 다시 말해서 'luna'의 일부지.	This is a meteorite from the Moon... in other words, a piece of "Luna."						0	3.4活动剧情
+192	我希望，它能够陪在你的身边。	我希望，它能夠陪在你的身邊。	あなたのすぐ近くに置いてください。	이게 네 곁에 있길 바라.	I hope it can stay by your side.						0	3.4活动剧情
+193	无论……	無論……	たとえ……	그게…	No matter...						0	3.4活动剧情
+194	忽然，漫天的烟花——我为她准备的烟花，照亮了夜空，也盖过了她的话语。	忽然，漫天的煙火——我為她準備的煙火，照亮了夜空，也蓋過了她的話語。	そのとき――私が彼女のために用意した花火が空を照らし、彼女の言葉を遮った。	갑자기, 불꽃이 하늘을 가득 채웠다. 내가 그녀를 위해 준비한 불꽃놀이가 밤하늘을 밝히며 그녀의 말을 덮어버린 것이다.	Suddenly, fireworks — the gift I'd prepared for her — burst across the sky, drowning out the rest of her words.						0	3.4活动剧情
+195	在接连不断的烟花声中，我却能清楚地感觉到露娜的心跳。	在接連不斷的煙火聲中，我卻能清楚地感覺到露娜的心跳。	鳴り響く花火の音の中で、私はなぜか、ルナの鼓動をしっかり感じ取れた。	끊임없이 터지는 불꽃 소리 속에서도 나는 루나의 심장 박동을 선명하게 느낄 수 있었다.	Yet even through the noise, I could feel Luna's heartbeat.						0	3.4活动剧情
+196	在烟花照亮我们之前，白色的蒸汽便先一步将我们两人遮盖。	在煙火照亮我們之前，白色的蒸汽便先一步將我們兩人遮蓋。	花火の光に照らされる前に、白い煙が私たち二人を包んだ。	불꽃이 우리를 비추기 전에, 하얀 수증기가 먼저 우리 둘을 감쌌다.	Before the light of the fireworks reached us, a veil of white steam had already enveloped both of us.						0	3.4活动剧情
+197	许久后，我松开了她的手。	許久後，我鬆開了她的手。	長い長い時間のあと、私は彼女の手を離した。	한참 후, 나는 그녀의 손을 놓았다.	After a long while, I let go of her hand.						0	3.4活动剧情
+198	无需言语说明，她便心领神会地点了点头。	無需言語說明，她便心領神會地點了點頭。	これ以上の言葉は必要ない。彼女も頷いてみせた。	말로 설명하지 않아도 그녀는 알아듣고 고개를 끄덕였다.	There was no need for words. She understood, and simply nodded.						0	3.4活动剧情
+199	分析员，记得先去一趟基地大厅里放礼物的地方。	分析員，記得先去一趟基地大廳裡放禮物的地方。	分析員、寮のプレゼント置き場に行くのを忘れないでくださいね。	분석가, 로비에 선물 놓는 곳에 먼저 들러줘.	Adjutant, don't forget to stop by the hall where the gifts are placed.						0	3.4活动剧情
+200	好，我明白了。	好，我明白了。	わかった。	알겠어.	All right. I will.						0	3.4活动剧情
+201	此时的大厅中早已空无一人，只有星祈树还在发着温暖而柔和的光芒。	此時的大廳中早已空無一人，只有星祈樹還在發著溫暖而柔和的光芒。	誰もいないホールで、星祈樹だけが柔らかな光を放っていた。	이미 아무도 없는 로비에선 성원나무만이 따뜻하고 부드러운 빛을 발하고 있었다.	The hall was already empty, with only the Starwish Tree still glowing with a warm, gentle light.						0	3.4活动剧情
+202	我走上前去，从礼物堆的角落里，拿起了那个小小的，看起来毫不起眼的红色礼物盒。	我走上前去，從禮物堆的角落裡，拿起了那個小小的，看起來毫不起眼的紅色禮物盒。	星祈樹の隣に積まれたプレゼントの山の隅っこに、目立たない小さな赤い箱を見つけた。私はそれを手に取った。	나는 앞으로 걸어가 선물 더미 구석에서 작고 눈에 띄지 않는 빨간 선물 상자를 집어 들었다.	I walked up to it and picked out a small, plain red box from the corner of the gift pile.						0	3.4活动剧情
+203	拆开缎带，打开盖子，首先出现在我眼前的是一张叠得整齐的信纸。	拆開緞帶，打開蓋子，首先出現在我眼前的是一張疊得整齊的信紙。	リボンを外して箱を開けると、一枚の便箋が目に入った。	리본을 풀고 뚜껑을 열자, 단정하게 접힌 편지지가 가장 먼저 눈에 들어왔다.	Untying the ribbon and lifting the lid, the first thing I saw was a neatly folded letter.						0	3.4活动剧情
+204	拿起信纸后，躺在礼物盒中央的则是一台精致小巧的特制终端。	拿起信紙後，躺在禮物盒中央的則是一台精緻小巧的特製終端。	便箋をめくると、箱の底には小さな特製端末が置かれていた。	편지지를 들어 올리자 선물 상자 가운데에는 작고 정교한 특제 단말기가 놓여 있었다.	Beneath it rested a delicate, custom-made terminal.						0	3.4活动剧情
+205	这种款式，我以前从未见过，但我早已猜到了送出礼物的人是谁。	這種款式，我以前從未見過，但我早已猜到了送出禮物的人是誰。	このデザインの端末はまだ見たことがない。しかし送り主が誰なのかは、私には心当たりがあった。	처음 보는 디자인이었지만, 선물을 보낸 사람이 누군지는 짐작할 수 있었다.	I'd never seen this model before, but I could already guess who it was from.						0	3.4活动剧情
+206	打开那封信纸后，上面果然是熟悉的娟秀字迹。	打開那封信紙後，上面果然是熟悉的娟秀字跡。	便箋を開くと、やっぱり見慣れた綺麗な文字が綴られていた。	편지지를 펼치자 역시나 익숙하고 단정한 필체가 나타났다.	Sure enough, when I unfolded the letter, it was written in a familiar, graceful handwriting.						0	3.4活动剧情
+207	“找研发部定制的通信终端，在大多数极端环境下都能正常使用。理论上用它可以随时联系到我，你需要的话就随身带着吧。”	「找研發部訂製的通信終端，在大多數極端環境下都能正常使用。理論上用它可以隨時聯繫到我，你需要的話就隨身帶著吧。」	「開発部に作っていただいた、極限環境でも動いてくれる特製通信端末です。これがあれば、いつでも私と連絡が取れますので使ってみてください」	"개발부에 커스텀 주문한 통신 단말기야. 대부분의 극한 환경에서도 정상적으로 사용할 수 있어. 이론상으론 이걸로 언제든 나한테 연락할 수 있으니까, 필요하면 가지고 다녀."	"I had this terminal custom made by R&D. It's built to function even in the harshest conditions, so in theory, you can reach me anytime with it. Keep it with you if you think it's useful."						0	3.4活动剧情
+208	“祝你星祈节快乐，分析员。”	「祝你星祈節快樂，分析員。」	「ハッピー星祈祭、分析員」	"성원절 즐겁게 보내, 분석가."	"Happy Starwish Day, Adjutant."						0	3.4活动剧情
+209	要前往的地方已经很明确了。	要前往的地方已經很明確了。	私はすぐに次に向かう場所を決めた。	가야 할 곳은 명확했다.	It was clear where I needed to go next.						0	3.4活动剧情
+210	我将信纸重新叠好，随即朝着电梯走去。	我將信紙重新疊好，隨即朝著電梯走去。	便箋を畳み直し、私はエレベーターに乗った。	나는 편지지를 다시 접어 넣고, 곧바로 엘리베이터로 향했다.	I folded the letter back up and walked toward the elevator.						0	3.4活动剧情
+211	你果然在这里啊。	你果然在這裡。	やっぱりここにいたのか。	역시 여기 있었구나.	I thought I'd find you here.						0	3.4活动剧情
+212	昏暗的指挥室，发光的全息投影，以及淡淡的咖啡香气——这便是卡罗琳最常出现的地方。	昏暗的指揮室，發光的全像投影，以及淡淡的咖啡香氣——這便是卡羅琳最常出現的地方。	ホログラフが光り、微かなコーヒーの香りが漂う薄暗い指揮室。カロリンはいつもここで仕事していた。	어두운 지휘실, 빛나는 홀로그램 투영, 그리고 은은한 커피 향기… 이곳은 캐롤린이 가장 자주 나타나는 곳이다.	The dimly lit command room greeted me with its floating holograms and the faint scent of coffee. This was where Caroline spent most of her time.						0	3.4活动剧情
+213	就像现在，她也正在忙着处理这些天里积压的工作。	就像現在，她也正在忙著處理這些天裡積壓的工作。	今も、彼女はこの数日で溜まった仕事を片づけていた。	지금도 그녀는 지난 며칠간 쌓인 업무를 처리하느라 바쁜 모양이었다.	And today was no exception. She was busy catching up on the backlog of work from the past few days.						0	3.4活动剧情
+214	你怎么……	你怎麼……	分析員……なぜ？	어떻게…	How did you—						0	3.4活动剧情
+215	她先是一怔，目光下移到我手上拿着的礼物时，又忽地笑了出来。	她先是一愣，目光下移到我手上拿著的禮物時，又忽地笑了出來。	彼女は少し固まると、私が持っているプレゼント箱に気づき、ふふっと笑い出した。	멍해졌던 그녀는 내 손에 들린 선물에 시선이 닿자, 돌연 웃음을 터뜨렸다.	She froze for a moment before noticing the gift in my hand and smiled.						0	3.4活动剧情
+216	礼物得在星祈节当天拆，再忙也不能忘了这个吧。	禮物得在星祈節當天拆，再忙也不能忘了這個吧。	プレゼントは星祈祭当日に開けるという約束だろう。どんなに忙しくても、それは守らないとな。	선물은 성원절 당일에 뜯어야 해. 아무리 바빠도 잊으면 안 된다고.	You have to unwrap your gift on Starwish Day, even if you're busy.						0	3.4活动剧情
+217	现在已经过零点了哦？	現在已經過零點了哦？	日付はもう変わりましたよ。	벌써 자정 넘었는데요?	It's already past midnight, you know?						0	3.4活动剧情
+218	天亮之前，都还算今天。	天亮之前，都還算今天。	太陽がまた昇ってくるまで、今日だということにしてくれ。	날이 밝기 전까진, 다 오늘이야.	It still counts until sunrise.						0	3.4活动剧情
+219	我朝她走去，将礼物递给了她。	我朝她走去，將禮物遞給了她。	私は彼女に近づき、プレゼントを渡した。	나는 그녀에게 다가가 선물을 건넸다.	I walked up to her and handed her the gift.						0	3.4活动剧情
+220	这个重量……	這個重量……	これは……	이 정도 무게라면…	This weight...						0	3.4活动剧情
+221	是你一直心心念念的热水壶。	是你一直心心念念的熱水壺。	君がずっと欲しがっていたケトルだ。	네가 갖고 싶어 하던 전기포트야.	It's that kettle you've always wanted.						0	3.4活动剧情
+222	不止这一个，我在基地的各个区域都放了一个，给你用作“容身之壶”。	不止這一個，我在基地的各個區域都放了一個，給你用作「容身之壺」。	しかも一つだけじゃない。寮のあらゆる場所に、君用にケトルを置いておいた。	이것뿐만이 아니야. 숙소의 구역마다 하나씩 뒀어, 네 '전기포트'로 쓰라고.	And not just this one. I've placed one in every section of the Base so you'll always have "your own kettle."						0	3.4活动剧情
+223	我的脑中闪过了卡罗琳在基地中休息时，总是念叨着没有容身之壶的样子。	我的腦中閃過了卡羅琳在基地中休息時，總是念叨著沒有容身之壺的樣子。	私の脳裏に、カロリンが寮で休んでいるとき、自分のケトルがないと呟いていた姿が浮かんだ。	내 머릿속에 캐롤린이 숙소에서 쉴 때마다 전기포트가 없다고 투덜대던 모습이 스쳐 지나갔다.	I distinctly remembered Caroline grumbling about not having "her own kettle" in the Base.						0	3.4活动剧情
+224	……原来，你早就注意到了啊。	……原來，你早就注意到了啊。	……気づいていたんですね。	… 진작부터, 알고 계셨던 거네요.	...So you'd noticed... all this time.						0	3.4活动剧情
+225	我还以为，像我这样的人，只有被需要的时候才会被想起……	我還以為，像我這樣的人，只有被需要的時候才會被想起……	てっきり、私のような人は必要があるときしか思い出されないのかと……	저는 저 같은 사람은, 필요할 때만 생각나는 줄 알았는데…	I always assumed someone like me only comes to mind when I'm needed...						0	3.4活动剧情
+226	嘘。	噓。	しー。	쉿.	Shh.						0	3.4活动剧情
+227	我将手指贴近她的嘴唇，阻止了没说出口的话。	我將手指貼近她的嘴唇，阻止了沒說出口的話。	私は指を彼女の唇に当てて、彼女の言葉を遮った。	나는 손가락을 그녀의 입술에 가져다 대며, 아직 나오지 않은 말을 막았다.	I pressed a finger to her lips, stopping her from finishing the sentence.						0	3.4活动剧情
+228	我注意到的事情又何止是这一件呢？	我注意到的事情又何止是這一件呢？	気づいたのはこれだけじゃない。	내가 아는 게 이것뿐일 것 같아?	That's not the only thing I noticed.						0	3.4活动剧情
+229	你的关心，你的担心，我都切实地收到了。	你的關心，你的擔心，我都切實地收到了。	君の気持ち、君の心配、どれも切実に伝わってきているよ。	네 관심도, 걱정도, 나는 다 알고 있었어.	I've felt every bit of your care and concern.						0	3.4活动剧情
+230	无论是容身之壶，还是真正的容身之所，我都想要给予你。	無論是容身之壺，還是真正的容身之所，我都想要給予你。	私が君にあげたいのは、ケトルだけじゃない。居場所もだ。	전기포트도, 진짜 안식처도, 나는 다 네게 주고 싶어.	Whether it's a kettle or a place you truly belong to, I want to give you all of that.						0	3.4活动剧情
+231	……！	……！	……！	…!	...!						0	3.4活动剧情
+232	我想告诉你的是，卡罗琳，你也同样是我重要的人。	我想告訴你的是，卡羅琳，你也同樣是我重要的人。	カロリン。君も私の大事な人だよ。	내가 너한테 알려주고 싶은 건, 캐롤린, 너도 똑같이 나한테 소중한 사람이라는 거야.	What I want to say is, Caroline, you're someone important to me as well.						0	3.4活动剧情
+233	一直以来，辛苦你了。	一直以來，辛苦你了。	今まで、助けてくれてありがとう。	그동안 고생 많았어.	Thank you for everything you've done for me.						0	3.4活动剧情
+234	我感觉到卡罗琳的身体轻轻一颤，她抬起头，像是没注意到自己早已红了眼眶。	我感覺到卡羅琳的身體輕輕一顫，她抬起頭，像是沒注意到自己早已紅了眼眶。	カロリンの体は小さく震えた。彼女が顔をあげると、目尻はすでに赤く染まっていた。	캐롤린의 몸이 살짝 떨렸고, 그녀는 고개를 들어 올렸다. 자신의 눈가가 붉어진 걸 눈치채지 못한 듯했다.	I felt Caroline's body tremble slightly. She lifted her head, as if not realizing that her eyes had already gone red.						0	3.4活动剧情
+235	……真是的，又突然说这种话。	……真是的，又突然說這種話。	……まったく、またそんなことを急に……	… 정말, 갑자기 이런 말을 하시면.	...Honestly... you always drop lines like that out of nowhere.						0	3.4活动剧情
+236	但是……我真的真的，很开心哦！	但是……我真的真的，很開心哦！	ですが……うれしいです。	하지만… 저 정말 정말, 너무 기뻐요!	But... it makes me really, really happy.						0	3.4活动剧情
+237	在泪珠滴落前，她先一步绽开笑容。	在淚珠滴落前，她先一步綻開笑容。	涙がこぼれ落ちる前に、彼女は先に微笑みを見せてくれた。	눈물이 떨어지기 전, 그녀는 한발 앞서 미소를 지었다.	Before the tears could fall, a smile spread across her face.						0	3.4活动剧情
+238	作为你的情报官，以后也请多多关照吧，分析员！	作為你的情報官，以後也請多多關照吧，分析員！	これからも情報官として頑張りますので、よろしくお願いしますね、分析員！	분석가님의 정보관으로서, 앞으로도 잘 부탁드려요!	I'll keep doing my best as your intelligence officer, Adjutant!						0	3.4活动剧情

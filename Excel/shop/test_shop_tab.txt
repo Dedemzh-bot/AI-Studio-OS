@@ -1,0 +1,7 @@
+﻿ID(不能大于99)	商店分组Id	商店组名字	商店名字	商店组Icon	商店Icon(展开)	商店Icon(未选中)	商店组背景图	注释1	排序	开关	是否限制角色碎片购买	跳转界面	跳转参数	显示模板1普通类 2活动类 3礼包	banner图路径	开放时间	结束时间	每次展示商品数（大于等于99表示全部展示）	刷新（1每日2每周3每月4跟随活动）	每日自动刷新的时间	活动类型(新增类型时联系程序添加功能)	手动每次费用	每日最大手动刷新次数	刷新消耗代币	使用的代币	版本号	列表版本号（只刷新列表，不重置商品状态）	标签（1new 2hot）	限制使用(默认0 1启用比特金限制)
+ShopId	GroupId	GroupName	Name	GroupIcon	ShopIcon	UnselectIcon	GroupBg	Notes	Sort	OnOff	FragmentLimit	GotoUI	tbParam	WidgetType	BannerImg	Begin	End	Columns	RefreshRule	RefreshTime	Activity	RefreshFee	RefreshLimits	MoneyType	ShopMoneyType	Version	ListVersion	Label	CashLimit
+14	13	shop.test_shop.GroupName1	shop.shop21.Name	1701128	1701129	1701156		优质配给	2	1				1		[202109010000]	[209909191400]	100							{3}	2	0	1	1
+18	13	shop.test_shop.GroupName1	shop.shop12.Name	1701128	1701129	1701156		后勤人事	3	1				1		[202109010000]	[209909191400]	100							{3}	2	0	1	
+19	13	shop.test_shop.GroupName1	shop.shop7.Name	1701128	1701129	1701153		分解交易	5	1				1		[202109010000]	[209909191400]	100							{3}	2	0	1	1
+20	13	shop.test_shop.GroupName1	shop.shop22.Name	1701128	1701129	1701153		武器置换	6	1				1		[202109010000]	[209909191400]	100							{3}	2	0	1	1
+21	13	shop.test_shop.GroupName1	shop.shop24.Name	1701128	1701129	1701156		精英后勤 人事	4	1				1		[202109010000]	[209909191400]	100							{3}	2	0	1	

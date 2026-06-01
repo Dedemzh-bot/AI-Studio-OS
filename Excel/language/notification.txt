@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+vigor_recover_title	体力已恢复	0	
+vigor_recover_body	快来战斗吧	0	

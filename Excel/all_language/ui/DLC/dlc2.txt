@@ -1,0 +1,41 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+getitem	获得	獲得	獲得	획득	Obtain						0	
+item_01	数据样本	數據樣本	データサンプル	데이터 샘플	Data Sample						0	
+item_02	共振率增长	共振率增長	共振率アップ								1000	
+item_03	共振率降低	共振率降低	共振率ダウン								1000	
+mark_01	在此标记目标点？	在此標記目標點？	ここに目標ポイントをマークしますか？	목표 지점을 표시하시겠습니까?	Mark this objective point?						0	
+mark_02	取消此处目标点？	取消此處目標點？	ここの目標ポイントを取り消しますか？	목표 지점을 취소하시겠습니까?	Unmark this objective point?						0	
+teleport	快速移动到此处？	快速移動到此處？	ここに高速移動しますか？	이동하시겠습니까?	Fast travel here?						0	
+activity_01	追光逐影	追光逐影	光闇の追駆	빛과 그림자	Chasing Light and Shadow						0	
+activity_02	环岛归墟	環島探險	リゾートツアー	아일랜드 탐험	Ancient Isle Survey						0	
+lock_01	请前往活动【追光逐影】探索	請前往活動【追光逐影】探索	【光闇の追駆】イベントで探索してください	[빛과 그림자] 이벤트에서 탐사하세요.	Please go to the Chasing Light and Shadow event to explore						0	
+tip_01	战斗中无法触发	戰鬥中無法觸發	戦闘中に発動されません	전투 중에는 발동할 수 없습니다.	Unable to trigger in combat						1000	
+tip_02	持有资源已达本周激励点数转换上限	持有資源已達本週激勵點數轉換上限	所持リソースが今週のインセンティブポイントの変換上限に達しました	보유 중인 자원이 금주 보상 점수 전환 최대치에 도달했습니다.	Max owned resources within weekly Incentive Point exchange limit						0	
+tip_03	发现空间裂隙	發現空間裂隙	空間の裂け目を発見	공간의 틈 발견	Temporal Rift discovered						0	
+tip_04	本周期获取激励点数已达上限	本週期獲取的激勵點數已達上限	この周期で獲得したインセンティブポイントが上限に達しました	해당 주기의 보상 점수 획득이 최대치에 도달했습니다.	Max weekly Incentive Points obtained						0	
+tip_05	数据样本不足	數據樣本不足	データサンプル不足	데이터 샘플 부족	Insufficient Data Samples						0	
+tip_06	已开启新周期，请重新进入活动	已開啟新週期，請重新進入活動	新しい周期が開始しました、イベントに入り直してください	새로운 주기가 시작되었습니다. 이벤트를 다시 시작하세요.	A new week has begun, please re-enter the event						0	
+tip_07	天启者恢复中，无法出击	天啟者休養中，無法出擊	覚醒者が現在回復中です、出撃できません	계시자 회복 중, 플레이할 수 없습니다.	Manifestation is recovering, unable to enter combat						0	
+tip_08	当前队伍状态将被保存	當前隊伍狀態將被保存	現在の小隊状態が保存されます	현재 팀 상태가 저장됩니다.	The current squad state will be saved						0	
+tip_09	交谈	交談	会話	대화	Chat						0	
+tip_10	待解锁	待解鎖	未開放	오픈 예정	Locked						0	
+tip_11	区域事件开启	區域事件開啟	エリアイベント開放	구역 사건 오픈	Regional event open						0	
+npc01_name	NPC01名称										1000	
+npc02_name	NPC02名称										1000	
+npc03_name	NPC03名称										1000	
+npc04_name	NPC04名称										1000	
+task_complete	事件完成	事件完成	イベント達成	사건 완료	Incident Completed						0	
+task_fail	事件失败	事件失敗	イベント失敗	사건 실패	Incident Failed						0	
+task_warning	正在离开事件区域	正在離開事件區域	イベントエリアから離脱しています	사건 구역을 떠나는 중입니다.	Leaving incident area						0	
+task_type01	区域事件	區域事件	エリアイベント	구역 사건	Area Incident						0	
+task_type02	晶簇事件	晶簇事件	結晶イベント	결정체 사건	Crystal Cluster Incident						0	
+task_type03	主线任务	主線任務	メインミッション	메인 미션	Main story tasks						0	
+map_tip01	区域事件	區域事件	エリアイベント	구역 사건	Area Incident						0	
+map_tip02	空间裂隙	空間裂隙	空間の裂け目	공간의 틈	Temporal Rift						0	
+map_tip03	大型晶簇	大型晶簇	大型結晶	대형 결정체	Large Crystals						0	
+map_tip04	数据载体记录仪	數據載體記錄器	データキャリアレコーダー	데이터 운반체 블랙박스	Data Carrier Recording System						0	
+map_tip05	数据分析平台	數據分析平台	データ分析プラットフォーム	데이터 분석 플랫폼	Data Analysis Platform						0	
+map_tip06	目标点	目標點	ターゲットポイント	목표 지점	Objective						0	
+map_tip07	当前目标点	當前目標點	現在のターゲットポイント	현재 목표 지점	Current objective						0	
+TxtDefenseAction12	未部署低频震荡基座：%s	未部署低頻震盪基座:%s	低周波振動ベース未配置：%s	미배치 저주파 성지: %s	Undeployed Low-Frequency Vibration Shrines: %s						0	

@@ -1,0 +1,30 @@
+﻿任务ID	//备注	名字	描述	奖励	少女头像	少女名字	少女提示对话	前置任务ID	设置树的阶段	跳转界面	条件跳转	跳转参数	检查值	跳过时完成新星开拓的任务
+ID		Name	Desc	Award	Icon	NpcName	Dialogue	Prequest	TreeStage	GotoUI	ConditionGoto	tbParam	CheckValue	AutoFinishParam
+101	前往基地大厅1层和卡罗琳对话	starwish.StoryName1	starwish.StoryDesc1	{{4,1,36,1,50}}	130040003	card.girl021	starwish.Dialogue1				HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish2', HouseAreaType.Hall}	1	
+102	前往疗愈中心和里芙进行一次按摩（按摩后播对话）	starwish.StoryName2	starwish.StoryDesc2	{{4,1,36,1,50}}	130040003	card.girl021	starwish.Dialogue2	101	1		HouseLogic.GoToHouseArea	{HouseLogic,'MassageTransPos2', HouseAreaType.Massage}	1	
+103	返回宿舍（没对话，回去就完成）	starwish.StoryName3	starwish.StoryDesc3	{{4,1,36,1,50}}	130040003	card.girl021	starwish.Dialogue3	102			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap3', HouseAreaType.Hall}	1	
+104	查看圣诞树（互动后播对话）	starwish.StoryName4	starwish.StoryDesc4	{{4,1,36,1,50}}	130040003	card.girl021	starwish.Dialogue4	103			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+201	查看圣诞树（互动后播对话）	starwish.StoryName5	starwish.StoryDesc5	{{4,1,36,1,50}}	2600151	card.NPC001	starwish.Dialogue5	104			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+202	前往 副刷本 获取{装饰物}	starwish.StoryName6	starwish.StoryDesc6	{{4,1,36,1,50}}	130060003	card.girl031	starwish.Dialogue6	201	2	Dlc34Refresh		{34}	1	
+203	返回宿舍（没对话，回去就完成）	starwish.StoryName7	starwish.StoryDesc7	{{4,1,36,1,50}}	130420003	card.girl211	starwish.Dialogue7	202			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap3', HouseAreaType.Hall}	1	
+204	查看圣诞树（互动后播对话）	starwish.StoryName8	starwish.StoryDesc8	{{4,1,36,1,50}}	130250003	card.girl151	starwish.Dialogue8	203			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+301	前往酒馆（到了就触发、有其他剧情触发先触发其他的 比如初次来到酒馆）	starwish.StoryName9	starwish.StoryDesc9	{{4,1,36,1,50}}	2600151	card.NPC001	starwish.Dialogue9	204			HouseLogic.GoToHouseArea	{HouseLogic,'PubTransPos1', HouseAreaType.Pub}	1	
+302	前往酒馆 蜡烛、麦克风、吧台 互动（每段都有一个对话，全部完成还有个对话）	starwish.StoryName10	starwish.StoryDesc10	{{4,1,36,1,50}}	130260003	card.girl161	starwish.Dialogue10	301			HouseLogic.GoToHouseArea	{HouseLogic,'PubTransPos1', HouseAreaType.Pub}	3	
+303	和 苔丝 进行一局猜心对局（结束后播对话）	starwish.StoryName11	starwish.StoryDesc11	{{4,1,36,1,50}}	130240003	card.girl171	starwish.Dialogue11	302	3		HouseLogic.GoToHouseArea	{HouseLogic,'PubTransPos2', HouseAreaType.Pub}	1	
+304	查看圣诞树（互动后播对话）	starwish.StoryName12	starwish.StoryDesc12	{{4,1,36,1,50}}	130260003	card.girl161	starwish.Dialogue12	303			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+401	前往基地大厅1层和卡罗琳对话	starwish.StoryName13	starwish.StoryDesc13	{{4,1,36,1,50}}	2600151	card.NPC001	starwish.Dialogue13	304			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish2', HouseAreaType.Hall}	1	
+402	基地大厅里和 咖啡机、垃圾桶、唱片机 交互（每段都有一个对话，全部完成还有个对话）	starwish.StoryName14	starwish.StoryDesc14	{{4,1,36,1,50}}	2600151	card.NPC001	starwish.Dialogue14	401			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap1', HouseAreaType.Hall}	3	
+403	在 dlc34主线关卡第二关中 找到d%个礼物	starwish.StoryName15	starwish.StoryDesc15	{{4,1,36,1,50}}	130370003	card.girl201	starwish.Dialogue15	402			DLC_Logic.GotoDlcMainStory	{11713,27,"dlc34story"}	1	
+404	查看圣诞树（互动后播对话）	starwish.StoryName16	starwish.StoryDesc16	{{4,1,36,1,50}}	130370003	card.girl201	starwish.Dialogue16	403	4		HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+501	查看圣诞树（互动后播对话）	starwish.StoryName17	starwish.StoryDesc17	{{4,1,36,1,50}}	2600151	card.NPC001	starwish.Dialogue17	404			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+502	前往温泉和茉莉安玩一局心动水弹（无对话）	starwish.StoryName18	starwish.StoryDesc18	{{4,1,36,1,50}}	130090003	card.girl051	starwish.Dialogue18	501			HouseLogic.GoToHouseArea	{HouseLogic,'HotSpringTransPos1', HouseAreaType.HotSpring}	1	
+503	前往拍立得拍一张照片（无对话）	starwish.StoryName19	starwish.StoryDesc19	{{4,1,36,1,50}}	130090003	card.girl051	starwish.Dialogue19	502			HouseLogic.TransToPS	{false}	1	
+504	查看圣诞树（互动后播对话）	starwish.StoryName20	starwish.StoryDesc20	{{4,1,36,1,50}}	130090003	card.girl051	starwish.Dialogue20	503	5		HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+601	查看圣诞树（互动后播对话）	starwish.StoryName21	starwish.StoryDesc21	{{4,1,36,1,50}}	2600151	card.NPC001	starwish.Dialogue21	504			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+602	和沙滩中的任意3株仙人掌互动（按互动次数播对话）	starwish.StoryName22	starwish.StoryDesc22	{{4,1,36,1,50}}	130200003	card.girl131	starwish.Dialogue22	601			HouseLogic.GoToHouseArea	{HouseLogic,'BeachTransPos2', HouseAreaType.Beach}	3	
+603	和芬妮玩一局冰趣密弹（完成后播对话）	starwish.StoryName23	starwish.StoryDesc23	{{4,1,36,1,50}}	130130003	card.girl081	starwish.Dialogue23	602	6		HouseLogic.GoToHouseArea	{HouseLogic,'BeachTransPos2', HouseAreaType.Beach}	1	
+604	查看圣诞树（互动后播对话）	starwish.StoryName24	starwish.StoryDesc24	{{4,1,36,1,50}}	130130003	card.girl081	starwish.Dialogue24	603			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+701	查看圣诞树（互动后播对话）	starwish.StoryName25	starwish.StoryDesc25	{{4,1,36,1,50}}	2600151	card.NPC001	starwish.Dialogue25	604			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	
+702	在新星开拓中收集烟花材料	starwish.StoryName26	starwish.StoryDesc26	{{4,1,36,1,50}}	130020003	card.girl011	starwish.Dialogue26	701			VirCapture.CheckOpenAct	{VirCapture}	1	
+703	在新星开拓中燃放烟花	starwish.StoryName27	starwish.StoryDesc27	{{4,1,36,1,50}}	130020003	card.girl011	starwish.Dialogue27	701	7		VirCapture.CheckOpenAct	{VirCapture}	1	{10001,10002,10003,10004,10005,10006}
+704	查看圣诞树（互动后播对话、对话结束后 播结束的2d剧情）	starwish.StoryName28	starwish.StoryDesc28	{{4,1,36,1,50}}	130020003	card.girl011	starwish.Dialogue28	703			HouseLogic.GoToHouseArea	{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}	1	

@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	嗯？	嗯？	ん？	음?	Eh?						0	2.5版本随机事件
+page0.2	猜~猜~我是谁？	猜~猜~我是誰？	さて、私は誰なのか当ててみて？	누구~게?	Guess who~						0	2.5版本随机事件
+choice01	当然是美丽动人的……	當然是美麗動人的……	もちろん、麗しい……	당연히 아름다운…	Obviously, you're the stunning...						0	2.5版本随机事件
+choice02	当然是喜欢刺激的……	當然是喜歡刺激的……	もちろん、スリルが大好きな……	당연히 스릴을 좋아하는…	Obviously, you're the thrill-seeking...						0	2.5版本随机事件
+choice03	当然是我亲爱的……	當然是我親愛的……	もちろん、愛しい……	당연히 내 사랑스러운…	Obviously, you're my sweet...						0	2.5版本随机事件
+page1.1	可真硬啊~分析员的嘴。快说出我的名字。	可真硬啊~分析員的嘴。快說出我的名字。	口が堅いわね。早く私の名前を言えばいいのに。	분석가는 정말이지~ 입만 살았다니까. 어서 내 이름을 말해봐.	You're not fooling anyone, Adjutant~ Stop stalling and say my name.						0	2.5版本随机事件
+page1.2	这可不只是名字的问题，这是我们之间信赖与否的问题。	這可不只是名字的問題，這是我們之間信賴與否的問題。	名前を言えばいいわけじゃないさ。私たちの信頼関係に関わることだよ。	이건 이름만의 문제가 아니라, 이건 우리 사이의 신뢰 문제야.	This isn't just about your name — it's about whether or not we trust each other.						0	2.5版本随机事件
+page1.3	那么~我们之间的信赖程度如何呢？	那麼~我們之間的信賴程度如何呢？	それじゃあ、私たちの信頼関係はどの程度なの？	그럼~ 우리 사이의 신뢰도는 어느 정도 되는데?	Okay~ Then how much do we trust each other?						0	2.5版本随机事件
+page1.4	第一秒就知道是你了，快到我面前来吧，凯茜娅。	第一秒就知道是你了，快到我面前來吧，凱茜婭。	最初から気づいていたぞ。早くこっちに来い、カーシア。	처음부터 너라고 생각하고 있었어, 얼른 앞으로 와줘, 캐시아.	I knew it was you the second I heard your voice. Come out, Katya.						0	2.5版本随机事件
+page1.5	表现不错，算你过关。	表現不錯，算你過關。	ふふ……及第点かな。	그 말 마음에 드네, 테스트 통과야.	Not bad. Looks like you passed.						0	2.5版本随机事件
+page1.6	我这可是实打实的满分过关，有没有奖品？	我這可是實打實的滿分過關，有沒有獎品？	満点だろうが。賞品はないのか？	이 정도면 만점으로 통과한 거 같은데, 보상은?	Actually, I passed with flying colors. Don't I get a prize?						0	2.5版本随机事件
+page1.7	这都被你猜到了？嗯……奖品就藏在我身上，“奖励”分析员自己来寻找哦。	這都被你猜到了？嗯……獎品就藏在我身上，「獎勵」分析員自己來尋找喔。	ふふ……賞品なら、私の体のどこかに隠してるわ。自分の手で探してみて？	그것도 맞춘다고? 음… 그건 내 몸에 숨겨져 있어. '보상'으로 직접 찾을 수 있게 해줄게.	How'd you know? Well... your prize is hidden somewhere on me. You need to come find it yourself, Adjutant.						0	2.5版本随机事件
+page1.8	找到之后呢？我可等着你的隐藏奖励呢。	找到之後呢？我可等著你的隱藏獎勵呢。	それだけか？見つけたら、追加報酬があるんじゃないのか？	찾고 나서는? 숨겨진 보상이라니 정말 기대되는걸.	What happens after I find it? I'm looking forward to my secret prize.						0	2.5版本随机事件
+page1.9	呵呵，你真是……越来越了解我了。	呵呵，你真是……越來越了解我了。	ふふ……私のことをよくわかってるようね。	후후, 정말… 가면 갈수록 날 더 잘 안다니까.	Heh, you really... know me better and better every single day.						0	2.5版本随机事件
+page1.10	隐藏的奖励，晚上我再告诉你。	隱藏的獎勵，晚上我再告訴你。	追加報酬は、また夜で。ね？	숨겨진 보상은, 저녁에 다시 알려줄게.	I'll tell you what the secret prize is tonight.						0	2.5版本随机事件

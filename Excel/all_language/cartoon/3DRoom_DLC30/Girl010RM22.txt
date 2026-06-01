@@ -1,0 +1,15 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	吃完饭有什么计划？	吃完飯有什麼計畫？	ご飯のあと、何か予定ある？	밥 다 먹으면 뭐 할 거야?	Any plans after lunch?						0	3.0版本随机事件
+page1.2	如果你有空的话，就一起去海边捉鱼。	如果你有空的話，就一起去海邊抓魚。	時間が空いてるなら、一緒に海辺で魚捕まえに行こう。	너 시간 있으면 같이 바다 가서 낚시하자.	If you're free, why don't we catch some fish?						0	3.0版本随机事件
+page1.3	如果你没空的话……就在宿舍睡觉。	如果你沒空的話……就在宿舍睡覺。	もし忙しいなら……社員寮でゴロゴロ昼寝する。	시간 없으면… 그냥 숙소에서 자자.	If not, I'll just sleep through the afternoon.						0	3.0版本随机事件
+page1.4	当然有空了。什么时候出发？	當然有空了。什麼時候出發？	もちろん空いているよ。いつ出発する？	당연히 시간 있지. 언제 출발할까?	I've got time. When do we leave?						0	3.0版本随机事件
+page1.5	唔……	唔……	うーん……	음…	Ugh...						0	3.0版本随机事件
+page1.6	刚吃完饭，有点儿困。	剛吃完飯，有點睏。	今食べたばかりで、ちょっと眠くなってきた。	밥 먹고 나니까 좀 졸리네.	The food coma just hit.						0	3.0版本随机事件
+page1.7	要不先一起睡个午觉？	要不然先一起睡個午覺？	とりあえず、先に昼寝しない？	같이 낮잠이나 잘까?	How about a nap together?						0	3.0版本随机事件
+page1.8	嗯，我也有点困了。	嗯，我也有點睏了。	うん、私もちょっと眠いかも。	그래, 나도 좀 졸린데.	Sure. I'm kinda tired too.						0	3.0版本随机事件
+page1.9	几个小时后……	幾個小時後……	数時間後……	몇 시간 후…	A few hours later...						0	3.0版本随机事件
+page1.10	……醒了。	……醒了。	……起きた。	… 깼어.	...That was a great nap.						0	3.0版本随机事件
+page1.11	糟糕，天都黑了。	糟糕，天都黑了。	って、もう真っ暗じゃん。	큰일 났다, 벌써 해가 졌네.	Oops. Moon's up.						0	3.0版本随机事件
+page1.12	那还去捉鱼吗？	那還去抓魚嗎？	どうする、まだ魚捕まえに行くか？	그럼 낚시하러 안 갈 거야?	So, are we still up for fish catching?						0	3.0版本随机事件
+page1.13	郎君，要不……来捉我吧？	郎君，要不……來抓我吧？	うーん……それより旦那、私を捕まえてみない？	낭군, 아니면… 나를 낚아보는 건 어때?	My Prince, why don't you catch me instead?						0	3.0版本随机事件

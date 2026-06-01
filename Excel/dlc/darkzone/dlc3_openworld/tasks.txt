@@ -1,0 +1,37 @@
+﻿任务id	区域id	任务类型（1:区域任务，2:晶簇任务）	失败情况(1:重置状态重新激活任务;2:只重置状态)	货币掉落量	怪物等级偏移	任务文件路径(Content/Blueprints/LevelTask/Tasks/)	任务点名	子关卡逻辑，父目录(/Game/Blueprints/LevelTask/Level/)	触发期数（对应level_time.txt)	任务完成后发的道具	限时挑战任务，请填1，其他任务不用管
+Id	RegionId	Type	FailType	DropMoney	LevelOffset	TaskPath	PointName	LevelLogic	UseId	tbItem	UnLoadOnEnd
+101	11	2	2			DLC3Task/Task/Dlc3_01_kill1.Dlc3_01_kill1	point_task_11	DLC3Level/Task/DLC3_01_kill1.DLC3_01_kill1		{{4,3,1,1,4000},{5,2,1,3,6}}	1
+102	12	2	2			DLC3Task/Task/Dlc3_01_bulloon1.Dlc3_01_bulloon1	point_task_12	DLC3Level/Task/Dlc3_01_bulloon1.Dlc3_01_bulloon1		{{4,3,1,1,4000},{5,3,1,3,9},{5,3,1,4,5}}	1
+											
+201	21	2	2			DLC3Task/Task/Dlc3_02_kill.Dlc3_02_kill	point_task_21	DLC3Level/Task/Dlc3_02_kill.Dlc3_02_kill		{{4,3,1,1,4000},{5,2,1,3,7}}	1
+202	22	2	2			DLC3Task/Task/Dlc3_02_kill2.Dlc3_02_kill2	point_task_22	DLC3Level/Task/Dlc3_02_kill2.Dlc3_02_kill2		{{4,3,1,1,4000},{5,2,1,4,3}}	1
+											
+301	31	2	2			DLC3Task/Task/Dlc3_03_bulloon.Dlc3_03_bulloon	point_task_31	DLC3Level/Task/Dlc3_03_bulloon.Dlc3_03_bulloon		{{4,3,1,1,4000},{5,3,1,3,9},{5,3,1,4,5}}	1
+											
+401	41	2	2			DLC3Task/Task/Dlc3_04_bulloon.Dlc3_04_bulloon	point_task_41	DLC3Level/Task/Dlc3_04_bulloon.Dlc3_04_bulloon		{{4,3,1,1,4000},{5,3,1,3,9},{5,3,1,4,5}}	1
+402	42	2	2			DLC3Task/Task/Dlc3_04_jump.Dlc3_04_jump	point_task_42	DLC3Level/Task/Dlc3_04_jump.Dlc3_04_jump		{{4,3,1,1,4000},{5,5,1,1,2},{5,5,1,2,1},{5,5,1,3,2}}	1
+											
+501	51	2	2			DLC3Task/Task/Dlc3_05_kill.Dlc3_05_kill	point_task_51	DLC3Level/Task/Dlc3_05_kill.Dlc3_05_kill		{{4,3,1,1,4000},{5,5,1,1,2},{5,5,1,2,1},{5,5,1,3,2}}	1
+											
+601	61	2	2			DLC3Task/Task/Dlc3_06_jump_1.Dlc3_06_jump_1	point_task_61	DLC3Level/Task/Dlc3_06_jump_1.Dlc3_06_jump_1		{{4,3,1,1,4000},{5,5,1,1,1},{5,5,1,2,2},{5,5,1,3,2}}	1
+602	62	2	2			DLC3Task/Task/Dlc3_06_bulloon_1.Dlc3_06_bulloon_1	point_task_62	DLC3Level/Task/Dlc3_06_bulloon_1.Dlc3_06_bulloon_1		{{4,3,1,1,4000},{5,3,1,3,9},{5,3,1,4,5}}	1
+603	63	2	2			DLC3Task/Task/Dlc3_06_kill_1.Dlc3_06_kill_1	point_task_63	DLC3Level/Task/Dlc3_06_kill_1.Dlc3_06_kill_1		{{4,3,1,1,4000},{5,2,1,3,7}}	1
+											
+701	71	2	2			DLC3Task/Task/Dlc3_07_jump_1.Dlc3_07_jump_1	point_task_71	DLC3Level/Task/Dlc3_07_jump_1.Dlc3_07_jump_1		{{4,3,1,1,4000},{5,5,1,1,1},{5,5,1,2,2},{5,5,1,3,2}}	1
+702	72	2	2			DLC3Task/Task/Dlc3_07_bulloon_1.Dlc3_07_bulloon_1	point_task_72	DLC3Level/Task/Dlc3_07_bulloon_1.Dlc3_07_bulloon_1		{{4,3,1,1,4000},{5,3,1,3,9},{5,3,1,4,5}}	1
+											
+801	81	2	2			DLC3Task/Task/Dlc3_08_kill_1.Dlc3_08_kill_1	point_task_81	DLC3Level/Task/Dlc3_08_kill_1.Dlc3_08_kill_1		{{4,3,1,1,4000},{5,2,1,4,4}}	1
+											
+901	91	2	2			DLC3Task/Task/Dlc3_09_kill1.Dlc3_09_kill1	point_task_91	DLC3Level/Task/DLC3_09_kill1.DLC3_09_kill1		{{4,3,1,1,4000},{5,2,1,4,3}}	1
+902	92	2	2			DLC3Task/Task/Dlc3_09_bulloon1.Dlc3_09_bulloon1	point_task_92	DLC3Level/Task/Dlc3_09_bulloon1.Dlc3_09_bulloon1		{{4,3,1,1,4000},{5,3,1,3,9},{5,3,1,4,5}}	1
+903	93	2	2								
+904	94	2	2								
+905	95	2	2								
+											
+1301	131	2	2			DLC3Task/Task/Dlc3_13_kill1.Dlc3_13_kill1	point_task_131	DLC3Level/Task/DLC3_13_kill1.DLC3_13_kill1		{{4,3,1,1,4000},{5,5,1,1,2},{5,5,1,2,2},{5,5,1,3,1}}	1
+1302	132	2	2			DLC3Task/Task/Dlc3_13_jump1.Dlc3_13_jump1	point_task_132	DLC3Level/Task/DLC3_13_jump1.DLC3_13_jump1		{{4,3,1,1,4000},{5,5,1,1,2},{5,5,1,2,2},{5,5,1,3,1}}	1
+											
+6001	601	2	2			DLC3Task/Task/Dlc3_601_run.Dlc3_601_run	point_task_601	DLC3Level/Task/Dlc3_601_run.Dlc3_601_run			1
+											
+											
+11001	11001	1	1			DLC3Task/Task/Dlc3_mission_11001_01.Dlc3_mission_11001_01	11001-Point	DLC3Level/Task/Dlc3_mission_11001_01.Dlc3_mission_11001_01			

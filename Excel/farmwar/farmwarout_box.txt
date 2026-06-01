@@ -1,0 +1,5 @@
+﻿ID()	名称	描述	图标	血量	攻击	攻击范围	价格	冷却	随机蔬菜	备注
+ID	Name	Des	Icon	HP	ATK	AOE	Price	CoolDown	RandomVegetables	
+1	farmwar.farmwar_vegname_01	farmwar.farmwar_vegdes_01	130140002	farmwar.farmwar_vegHP_01	farmwar.farmwar_vegATK_01	farmwar.farmwar_vegAOE_01	30	5	{{19000001,100},{19000002,200}}	小礼盒
+2	farmwar.farmwar_vegname_02	farmwar.farmwar_vegdes_02	130470002	farmwar.farmwar_vegHP_02	farmwar.farmwar_vegATK_02	farmwar.farmwar_vegAOE_02	60	10	{{19000001,100},{19000003,200}}	中礼盒
+3	farmwar.farmwar_vegname_03	farmwar.farmwar_vegdes_03	4810021	farmwar.farmwar_vegHP_03	farmwar.farmwar_vegATK_03	farmwar.farmwar_vegAOE_03	90	15	{{19000001,100},{19000003,200}}	大礼盒

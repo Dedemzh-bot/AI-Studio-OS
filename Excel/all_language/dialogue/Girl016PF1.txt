@@ -1,0 +1,93 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	年幼的继承人\N在藏身的村落中，被挑起战争的敌军抓住了	年幼的繼承人\N在藏身的村落中，被挑起戰爭的敵軍部隊抓住了	幼い継承者は\N身を隠していた村で、戦争を仕掛けてきた敵軍に捕まえられた	어린 후계자.\n전쟁을 일으킨 적군 부대에게 붙잡혀 마을에서 은신 중이다.	The young heiress was captured\Nas enemy forces brought war to the village she hid in.						0	
+2	一家人被关在了阴冷的地下室中	一家人被關在了陰冷的地下室中	家族と共に、暗く冷たい地下室に閉じ込められ	일가족이 음산한 지하실에 갇혔다.	She and her family were locked away in a cold basement.						0	
+3	每天都有人被带走\N每天都有人被杀害	每天都有人被帶走\N每天都有人被殺害	毎日のように誰かが連れ去られ\N誰かが殺された	매일 누군가가 끌려가고,\n매일 누군가가 살해당한다.	Every day, people were taken.\NEvery day, people were killed.						0	
+4	眼泪似乎就快要淹过膝盖	眼淚似乎快要淹沒膝蓋	溢れる涙が彼女のひざを越えそうになった時	눈물이 흐르고 흘러 무릎을 넘어설 것만 같았다.	Tears fell endlessly.						0	
+5	为了不让年幼的继承人害怕\N身旁的大人掏出了八音盒	為了不讓年幼的繼承人害怕\N身旁的大人掏出了音樂盒	幼い継承者がこれ以上怯えないようにと\N周りにいる大人たちはオルゴールを差し出した	어린 후계자가 옆에 있는 어른들에게\n두려움을 느끼지 않게 오르골을 꺼냈다.	In an effort to comfort the young heiress,\Nan old woman next to her took out a music box.						0	
+6	“这个八音盒中蕴藏着\N将大家召集到您身边的魔法”	「這個八音盒中蘊藏著\N將大家召集到您身邊的魔法」	「このオルゴールには\Nみなをあなたの元に呼び寄せる魔法が込められている」	'이 오르골에는 \n모든 사람을 네 곁으로 불러들이는 마법이 담겨 있단다.'	"This is a magical music box\Nthat can summon your family to your side."						0	
+7	“纵使肉身死亡\N我们的灵魂也将听从乐曲的召唤”	「縱使肉身死亡\N我們的靈魂也將聽從樂曲的召喚」	「たとえこの身が滅んでも\N魂はきっとオルゴールの音に従い」	'육신이 죽었다 해도\n우리의 영혼은 선율의 부름에 따를 것이야.'	"Even if our bodies perish,\Nour souls will obey the call of its music."						0	
+8	“化作白色的兽\N永远陪伴在您的身边”	「化作白色的獸\N永遠陪伴在您的身邊」	「白い獣となって\N永遠にあなたを守り続けるだろう」	'하얀 신수가 되어\n영원히 너와 함께 할 거야.'	"We will always be watching over you\Nas beasts of white."						0	
+9	于是	於是	そして	그리하여,	Thus...						0	
+10	日复一日\N八音盒那山泉般的声音都回响在牢房中	日復一日\N音樂盒那山泉般的聲音都迴響在牢房中	オルゴールの音は\N牢屋に響きつづけた	매일마다\n그 샘물 같은 오르골 소리가 감방에 울러 펴졌다.	Day after day, the melody of the music box\Nechoed throughout the dark cell, blissful yet eerie.						0	
+11	年复一年\N最终只剩下年幼的继承人独自一人	年復一年\N最後只剩下年幼的繼承人獨自一人	最後には\N幼い継承者だけが残り	해가 거듭되면서\n결국 어린 후계자만 홀로 남았다.	Years passed,\Nuntil only the young heiress was left, all alone.						0	
+12	将那早已生锈的八音盒轻轻合上	將那早已生鏽的音樂盒輕輕合上	錆の浮いたそのオルゴールの蓋を閉じた	녹슨 오르골은 살며시 닫는다.	She gently closed the already rusted music box.						0	
+13	呜……伊切尔……睡着了吗？	嗚……伊切爾……睡著了嗎？	んん……イチェル……寝てた？	우… 잠이 들었나?	Oh... Did I... fall asleep?						0	
+14	又是那个梦……	又是那個夢……	また、あの夢……	또 그 꿈이네…	It's that same dream...						0	
+15	你是一段错误的代码，你不该存在于世。	你是一段錯誤的程式碼，你不該存在於世。	あなたは間違ったコード。存在してはいけない存在だよ。	넌 오류 코드와 같이 세상에 존재해서는 안 돼.	You're just a string of faulty code. You shouldn't exist.						0	
+16	你的存在是对造物法则的玷污。	你的存在是對造物法則的玷污。	あなたの存在自体が、自然法則の汚点だよ。	넌 조물의 법칙을 더럽히는 존재야.	Your existence taints the law of creation.						0	
+17	你不属于造物，你只是一种病毒。	你不屬於造物，你只是一種病毒。	あなたは命じゃない。ウイルスの一種なんだ。	넌 창조물에 속하지 않아, 단지 바이러스일 뿐이야.	You are not a creation. You are simply a virus.						0	
+18	你应该去死。	你應該去死。	死んだ方がマシなんだよ。	넌 죽어 마땅하지.	You should die.						0	
+19	……	……	……	…	...						0	
+20	耶洛沙的危机告一段落，我们撤出北风航天中心后，来到了位于雪原的营地等待正式的调回通知。	耶洛沙的危機告一段落，我們撤出北風航太中心後，來到了位於雪原的營地等待正式的調回通知。	イェロシャの一件がひと段落すると、北風宇宙センターを出た私達は、雪原の駐屯地に戻り、そこで会社からの撤退指示を待っていた。	옐로샤의 위기는 일단락됐고, 우리는 노스윈드 우주센터에서 철수해 설원에 있는 야영지를 찾아 복귀 통보를 기다리고 있었다.	The crisis in Yehrus had come to a close. After we withdrew from the Northwind Aerospace Center, we went to the camp on the ice fields and awaited orders to return to Yggdrasil.						0	
+21	分析员，梳头发。	分析員，梳頭髮。	分析員、髪の毛やって。	분석가님, 머리를 빗겨주세요.	*knock knock* Adjutant? Brush my hair.						0	
+22	又来了……这个孩子每天晚上都会缠着我帮她把乱糟糟的头发梳开，才愿意老老实实上床睡觉。	又來了……這個孩子每天晚上都會纏著我幫她把亂糟糟的頭髮梳開，才願意乖乖的上床睡覺。	まただ。最近、この子はしょっちゅう私の部屋に押しかけて来ては、髪を梳いてくれとねだる。そうしないと寝てくれないんだ。	또 시작이네… 이첼은 매일 밤 헝클어진 머리를 풀어달라고 조르고 정리가 끝나야 잠자리에 들곤 했다.	Right on schedule... This girl had been badgering me every night to brush her tangled hair before she would finally go to sleep.						0	
+23	你自己推门进来吧。	你自己推門進來吧。	いいよ、おいで。	문 열고 들어와.	You can open the door and come in.						0	
+24	哎，你们怎么也来了？	哎，你們怎麼也來了？	って、どうしてみんなまで一緒なんだ？	응? 너희들이 무슨 일이야?	Geez, what are you guys doing here too?						0	
+25	很可疑。	很可疑。	怪しいわね。	수상하단 말이지.	This looks pretty suspicious.						0	
+26	每天晚上伊切尔都在和分析员做什么呢？我们来看看。	每天晚上伊切爾都在跟分析員做什麼呢？我們來看看。	毎晩、分析員とイチェルのふたりで何をしてるの？私達にも教えてよ。	밤마다 이첼하고 분석가님이 뭘 하고 있는지 보러 왔어요.	What's Eatchel been doing with you every night? We want to see for ourselves.						0	
+27	只是梳头发而已，怎么，你们也要梳头吗？	只是梳頭髮而已，怎麼了，你們也要梳頭髮嗎？	髪の毛を梳いてやってるだけだって。それとも、みんなもやって欲しいのか？	그냥 머리를 빗겨줄 뿐이야… 왜? 너희도 머리 빗겨 줄까?	I've just been brushing her hair. Why? Do you want me to brush your hair too?						0	
+28	到这儿来，伊切尔，早点梳完早点去睡觉。	到這裡來，伊切爾，早點梳完早點去睡覺。	ほら、イチェル。終わったら寝るんだぞ。	이첼, 이리 와, 얼른 머리를 빗고 잠을 자야지.	Come here, Eatchel. Let's do this quickly so you can get to bed sooner.						0	
+29	呜嗯。	嗚嗯。	うー。	으읏.	Mmm.						0	
+30	哒哒哒——女孩握着梳子光着脚向我跑来，在温暖的地板上留下了一连串可爱的足迹。	噠噠噠噠——女孩握著梳子光著腳向我跑來，在溫暖的地板上留下了一連串可愛的足跡。	タタタ──彼女が櫛を握り締めながら私に駆け寄ると、暖かい床に可愛らしい足跡が残った。	후다닥… 이첼이 빗을 쥐고 맨발로 나에게 달려온다. 그녀는 따스한 바닥에 귀여운 발자국을 남겼다.	Tap tap tap — the girl ran over to me on bare feet with a brush in her hand, leaving a trail of cute footprints on the warm floor.						0	
+31	哼，关系真好啊……	哼，關係真好啊……	ふーん。仲が良いわね……	흥, 사이가 굉장히 좋아 보이네…	Heh, you guys seem close...						0	
+32	伊切尔貌似只亲近分析员。	伊切爾似乎只親近分析員。	イチェルは分析員にしか懐かないもんね。	이첼은 분석가님하고만 친한가 보네요.	It seems like Eatchel is only close with the Adjutant.						0	
+33	这就是那个家伙的危险之处，总是让人在不经意间就惦记上了。	這就是那傢伙的危險之處，總是讓人不經意就愜記上了。	だからこの人は危ないんだ。いつの間か相手の懐に入り込んでるんだから。	이게 바로 저 녀석의 위험한 점이야, 무심코 사람을 신경 쓰게 만들 거든.	That's what's so dangerous about that guy — he makes people care about him without realizing it.						0	
+34	额……安卡希雅也在这吗？	呃……安卡希雅也在這嗎？	えっ……アカシアまで来てたのか？	아… 아카시아도 있었어?	Erm... Acacia, you're here too?						0	
+35	别误会，我只是来通知你们公司那边的通知下来了。	別誤會，我只是來通知你們公司那邊的通知下來了。	誤解しないで。会社から連絡があったから伝えに来ただけだよ。	오해하지 마. 그저 회사에서 통지가 와서 알리러 왔을 뿐이야.	Don't misunderstand. I'm just here to tell you the official order came through.						0	
+36	终于可以回去了吗？	終於可以回去了嗎？	お、やっと帰れるのね？	드디어 돌아갈 수 있는 건가?	Does that mean we can finally go back?						0	
+37	嗯，临时通知，明天晚上8点钟就会有人来接我们。	嗯，臨時通知，明天晚上8點就會有人來接我們。	うん。明日の夜８時に迎えを寄越すって。	응, 내일 저녁 8시에 우리를 데리러 온대.	Yep, but it's pretty short notice. Someone's coming to pick us up at 8 o'clock tomorrow night.						0	
+38	呜呜，想带回去的东西太多了，完全收拾不完……	嗚嗚嗚，想帶回去的東西太多了，完全收拾不完……	うう、持ち帰りたいものが多すぎて、荷物が全然まとまらないよ……	아… 챙겨가고 싶은 게 많은데, 너무 많아서 가지고 갈 수가…	Waaah! I have so much stuff I want to take back! There's no way I can finish packing in time...						0	
+39	同感。	同感。	私も。	그건 나도 그래.	Same.						0	
+40	你刚到这也没几天吧，有那么多东西吗……	你剛到這也沒幾天吧，有那麼多東西嗎…	ここに来て数日しか経ってないだろ。もうそんなに荷物があるのか……	여기 온 지 며칠 되지도 않았잖아, 언제 그렇게 많은 물건을…	You've only been here for a few days, right? How do you have so much stuff...?						0	
+41	的确，但疲劳值拉满，已经没有多余的体力去收拾行李了。	的確，但疲勞值拉滿，已經沒有多餘的體力去收拾行李了。	疲れてて荷造りに回せる体力がないんだよね。	그렇긴 한데, 피로가 쌓여서 그런지 짐 쌀 힘도 없네.	I don't, but my stamina bar is totally empty. I don't have any energy to pack what little I have.						0	
+42	伊切尔……也要一起走吗？	伊切爾……也要一起走嗎？	イチェルも……一緒に行くの？	이첼도… 같이 가는 거야?	Am I... going with you?						0	
+43	是哦，怎么，伊切尔不想跟我们一起走吗？	是哦，怎麼，伊切爾不想跟我們一起走嗎？	そうだよ☆イチェルは、私達と来るのイヤ？	네, 왜요? 저희랑 같이 가고 싶지 않나요?	Yes, Eatchel. What's wrong? You don't want to go back with us?						0	
+44	没有，能和分析员一起去世界树公司，我很开心，只是……	沒有，能和分析員一起去世界樹公司，我很開心，只是……	ううん。分析員と一緒にユグドラシルにいけるのは、すごくうれしいぞ。でも……	아니야, 분석가랑 함께 위그드라실 회사에 갈 수 있어서 너무 좋은데, 하지만…	I do. Going back to Yggdrasil with the Adjutant makes me really happy, but...						0	
+45	只是？	只是？	でも？	다만?	But?						0	
+46	……	……	……	…	...						0	
+47	在你感染更多人之前，必须有人来把你抹除。	在你感染更多人之前，必須有人來把你抹除。	これ以上の感染者を出さないためにも、きっと誰かがあなたを排除するんだ。	네가 더 많은 이들을 감염시키기 전에, 너를 제거할 누군가가 있어야만 해.	Someone must eradicate you before you infect even more people.						0	
+48	伊切尔？	伊切爾？	イチェル？	이첼?	Eatchel?						0	
+49	啊……分析员，我们之后还有机会回这里吗？	啊……分析員，我們之後還有機會回這裡嗎？	あっ……まだここに戻ってこれるよね、分析員？	아… 분석가, 나중에 다시 이곳에 돌아올 기회가 있을까?	Ah... Adjutant, will we ever get to come back here someday?						0	
+50	如果你是指耶洛沙，就有点难办了，伊切尔还有什么事要处理吗？	如果你是指耶洛沙，就有點麻煩了，伊切爾還有什麼事要處理嗎？	ここって、イェロシャにか？それはちょっと難しいかもな。なにかやり残したことでもあるのか？	옐로샤는 좀 곤란해, 아직도 처리해야 할 일이 있어, 이첼?	You mean Yehrus? That might be difficult. Do you have some unfinished business here, Eatchel?						0	
+51	想去一趟，以前住过的村子。	想去一趟，以前住過的村子。	昔住んでいた村に行きたいんだ。	전에 살았던 마을에 가보고 싶어.	I want to go to the village where I used to live.						0	
+52	以前住过的村子吗……	以前住過的村子嗎……	昔住んでいた村か……	전에 살았던 마을…	The village where she used to live...						0	
+53	啊，她说的应该是小时候逃难时古斯塔夫家眷们的藏身之所——马梅里村吧。	啊，她說的應該是小時候逃難時古斯塔夫家眷們的藏身之所——馬梅里村吧。	ああ、グスタフ家が避難先に選んでいた、マメリ村のことか。	아, 이첼이 어릴 적에 피난을 갔을 때, 구스타프 가족들의 은신처였던… 마메리 마을을 말하는 건가.	She must have been talking about Mameli, the village where Gustav's family members fled when she was younger.						0	
+54	虽然是很久之前的事了，但如果没记错的话，他们一家人就是在那里被赫瓦雷纳的人……	雖然是很久之前的事了，但如果沒記錯的話，他們一家人就是在那裡被赫瓦雷納的人……	かなり昔の話になるけど、確か彼女の家族はあの村でフワルナの手によって……	아주 오래전 일이지만, 내 기억이 맞다면 이첼의 가족은 그곳에서 크바레나 사람들에게...	Even though it was a long time ago, if I wasn't mistaken, her family was slaughtered there by the Khwarenah Faction...						0	
+55	八音盒还在那里……	音樂盒還在那裡……	オルゴールがまだあの村に残ってるんだ……	오르골이 아직 거기에 있거든…	The music box is still there...						0	
+56	那是伊切尔家人留给你的东西吗？	那是伊切爾家人留給你的東西嗎？	イチェルの家族が残してくれたものなのか？	가족들이 이첼한테 남긴 물건이야?	Did your family leave that for you?						0	
+57	呜嗯。	嗚嗯。	うん。	으응.	Mmm.						0	
+58	好的，我明白了，明天上午我们一起去找找吧。	好的，我明白了，明天早上我們一起去找找吧。	わかった。明日の昼、探しにいこうか。	그래, 알겠어. 내일 오전에 같이 찾으러 가자.	Alright, I understand. We'll go look for it together tomorrow morning.						0	
+59	分析员，谢谢。	分析員，謝謝。	ありがとう、分析員。	분석가, 고마워.	Thank you, Adjutant.						0	
+60	女孩的表情放松了些，她还记得那时候的事吗……	女孩的表情放鬆了一點，她還記得那時候的事嗎……	少女の表情が綻んだ。彼女はまだあの時期のことを覚えているってことか……	고심하던 소녀의 표정이 그제야 풀렸다. 그녀는 그때 일을 지금까지 기억하고 있는 걸까…	The girl's expression relaxed somewhat. Did she still remember what happened back then...?						0	
+61	喂，你的身体还……	喂，你的身體還……	ちょっと、あなたの体はまだ……	잠깐, 분석가는 아직…	Hey, you still haven't fully recovered...						0	
+62	没什么，最近我在床上也躺得够够的了。马梅里村离这里也不远，正好出去遛遛弯。	沒什麼，最近我在床上也躺得很夠的了。馬梅里村離這裡也距離不遠，正好出去遛一遛。	大丈夫。ベッドで過ごしてばかりで、退屈してたんだ。それにマメリ村だってそう離れてないし、気分転換のために出かけてくるよ。	요즘 충분히 쉬어서 괜찮아. 마메리 마을은 여기서 멀지 않으니까 산책 겸 갔다 오자고.	I'm okay. I've rested in bed enough recently. Mameli Village isn't far from here, it'll be a nice walk.						0	
+63	那大家一起去吧，人多些安全点，这附近说不定还有敌人的残党……	那大家一起去吧，人多也安全點，這附近說不定還有敵人的殘黨……	じゃあみんなで一緒に行こうよ！周辺に敵の残党が残ってるかもしれないし……	그럼 다 같이 가요, 한 명이라도 많으면 더 안전하잖아요. 근처에 혹시 타깃이 있을지도 모르고요…	Then let's all go together. It'll be safer with more people. There might still be enemies lingering nearby...						0	
+64	赞同，现在别说那些残党，雪原上的野狼都能要了他的命吧。	贊同，現在別說那些殘黨，雪原上的野狼都能要了他的命吧。	賛成。今の彼では、残党どころか雪原のオオカミですら命取りになりかねないからな。	내 생각도 마찬가지야. 그리고 그곳에 있는 설원의 늑대들도 분석가에겐 충분히 위협적인 존재일 거야.	Agreed. Forget lingering enemies — the wolves that inhabit the ice fields could come after him.						0	
+65	夸张了吧……我都说了身体已经恢复得差不多了。	誇張了吧……我都說了身體已經恢復得差不多了。	大げさだって……もうだいぶ回復してるんだから。	너무 그렇게들 걱정하지 않아도 돼… 정말 다 나았다니까.	Don't be so dramatic... Like I said, I'm pretty much back to normal.						0	
+66	只是想在新同事面前挖苦你一下而已。	只是想在新同事面前挖苦你一下而已。	新しい同僚の前で、チクりと言ってやりたくなっただけだよ。	이첼 앞에서 널 좀 놀리려 했을 뿐이야.	I just wanted to take a dig at you in front of our new operative.						0	
+67	那真是谢谢你了。	那真是謝謝你了。	そりゃどうも。	신경 써주셔서 참 고맙네요~	Thanks for that.						0	
+68	哦——我也要“挖苦”一下分析员。	喔——我也要「挖苦」一下分析員。	うお——ボクも分析員を「チクっと」するぞ！	아… 나도 분석가를 놀리고 싶은데?	Oh — I want to take a "dig" at the Adjutant too.						0	
+69	恢复了精神的伊切尔“啾”地一声扭过身子，举起两只小手向我的肚子发起了攻击……	恢復了精神的伊切爾「啾」地一聲扭過身子，舉起兩隻小手向我的肚子發起了攻擊…	元気を取り戻したイチェルがばっと振り向くと、両手を振り上げて私の腹を殴りつけてきた。	정신을 차린 이첼은 휙 하고 몸을 돌리더니 두 손으로 내 배를 찌르려 했다…	Back in high spirits, Eatchel turned around with a chirping sound, lifted her two small hands, and launched a surprise attack on my stomach...						0	
+70	咳嗯，挖苦可不是让你挖我苦胆的意思……乖，快停下。	咳嗯，挖苦可不是讓你挖我苦膽的意思……乖，快停下。	うぐっ、チクっとするっていうのは、殴るって意味じゃないんだって……こら、やめなさい。	켁, 놀린다는 게 내 몸을 찌르라는 뜻은 아닌데… 착하지, 그만해.	Agh—! ...Taking a dig at someone doesn't mean burrowing into their stomach. Stop that — be good.						0	
+71	哼，不要。	哼，不要。	フン！いやだ！	흥, 싫어.	Hmph. I don't wanna.						0	
+72	嘿嘿嘿，伊切尔看上去好开心啊。	嘿嘿嘿，伊切爾看起來好開心啊。	えへへ、なんだかイチェル、楽しそうだね。	하하하, 이첼이 엄청 신나 보이는데요?	Hehehe, Eatchel looks really happy.						0	
+73	好！那我也来一起“挖苦”分析员吧！伊切尔，给我让个位置~	好！那我也來一起「挖苦」分析員吧！伊切爾，讓個位置給我~	よーし、私も分析員を「チクっと」しよっと☆イチェル、私にもやらせて！	저도 합류할래요! 이첼, 저도 분석가님 좀 같이 찌르게 자리 좀 내줘요.	Alright! Let me take a "dig" at the Adjutant too! Make some room, Eatchel~						0	
+74	苔丝说完也扑了过来。	黛斯說完也撲了過來。	そう言いながら、テスまで一緒にポカポカ殴り始めた。	테스는 말이 끝나자마자 덮쳐들었다.	Tess rushed over with a big grin.						0	
+75	喂，你等等——	喂，你等等——	こら！ちょっと待っ——	으아악! 자, 잠깐만…	Hey, wait a second—						0	
+76	虽说我能理解她是为了逗伊切尔开心才这么做的，不过也许是因为她块头太大的缘故，我一个没撑住，向后倒去——	雖然我能理解她是為了逗伊切爾開心才這麼做的，不過也許是因為她塊頭太大的緣故，我一個沒撐住，向後倒去——	イチェルを喜ばせるためにそうしているのは分かるけど、テスの重さに耐えられずに、私はそのまま後ろへ倒れ込んだ——	이첼을 즐겁게 해주려는 건 알겠지만, 이첼과 달리 테스는 너무 컸고, 난 버티지 못하고 그만 뒤로 넘어졌다.	I knew she did it to make Eatchel happy. But perhaps because Tess was too big, I lost balance and fell backward...						0	
+77	挖挖挖——	挖挖挖——	チクチクチク——	얍! 얍! 얍!	Dig, dig, dig!						0	
+78	挖~挖~挖~	挖~挖~挖~	チク～チク～チク～	이야압! 야아압!	Dig, dig, dig~						0	
+79	两人丝毫没有放过我的意思……	兩人絲毫沒有放過我的意思……	見逃してくれる気はまったくないようだ……	두 사람은 나를 놓아줄 생각이 전혀 없어 보였다…	The two of them had no intention whatsoever of letting me go...						0	
+b-1											0	
+80	示意芬妮来救一下。	示意芬妮來救一下。	ファニーに助けてもらう。	나는 페니에게 구조 요청을 보냈다.	Gesture for Fenny's help.						0	
+81	本小姐知道了……	本小姐知道了……	しょうがないわね……	그래, 내게 맡겨…	Yeah, yeah, I know...						0	
+82	咳嗯——苔丝，伊切尔……你们……	咳嗯——黛斯，伊切爾……你們……	コホン！テスにイチェル、そろそろ……	엣헴… 이봐, 테스, 이첼… 너희…	Ahem... Tess, Eatchel...						0	
+83	……算了，既然大家都这样，那本小姐也加入好了。	……算了，既然大家都這樣，那本小姐也加入好了。	……まあいいわ。あたしも混ぜてもらおうかしら。	… 됐다, 이렇게 된 이상 이 몸도 같이 합류하도록 하지.	...Oh, whatever. Since you guys are doing it, I'll join in too.						0	
+b-2											0	
+84	看向安卡希雅。	看向安卡希雅。	アカシアに助けを求める。	아카시아에게 구조 요청을 보낸다.	Look over at Acacia.						0	
+85	看我干嘛，被女孩子摸来摸去，你其实乐在其中吧。	看我幹嘛，被女孩摸來摸去，你其實樂在其中吧。	そんな目で見られても。女の子に触られて、内心では喜んでるんじゃないの。	난 왜? 실은 너도 엄청 즐기고 있잖아? 안 그래?	What're you looking at me for? I know you're enjoying getting touched by a couple of girls.						0	
+86	窗外突然响起了犹如鬼怪嚎哭的警笛声，打断了屋内的嬉闹。	窗外突然響起了猶如鬼怪嚎哭的警笛聲，打斷了屋內的嬉鬧。	窓の外から、突然幽霊の叫び声みたいなサイレンが聞こえ、私達は思わずおふざけの手を止めた。	순간 창밖의 도깨비가 울부짖는 듯한 사이렌 소리가 방안의 즐거운 시간을 방해했다.	The sound of a loud siren wailing outside the window suddenly interrupted the excitement inside.						0	
+87	怎么回事？有入侵者吗？！	怎麼回事？有入侵者嗎？！	どうしたの？侵入者！？	무슨 일이지? 설마 침입자?	What's going on!? Intruders!?						0	
+88	不，没那么糟糕，但这个警报是……	不，沒那麼糟糕，但這個警報是……	ううん、そこまでじゃないよ。あのサイレンは……	아니요, 그건 아닌 것 같아요, 근데 이 사이렌은…	No, it's not quite that bad. But that alarm means...						0	
+89	暴风雪要来了。	暴風雪要來了。	ブリザードが来るぞっていう合図だ。	눈보라가 몰아쳐 오고 있어.	A blizzard is coming.						0	

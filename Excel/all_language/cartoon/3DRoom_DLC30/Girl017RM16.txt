@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	走进苔丝房间时，她正在翻看着在菲洛索亚拍下的照片。	走進黛斯房間時，她正在翻看著在菲洛索亞拍下的照片。	テスの部屋に入ると、彼女はフィロゾアで撮った写真を見返していた。	테스의 방에 들어가 보니, 그녀는 필로시아에서 찍은 사진들을 보고 있었다.	When I walked into Tess's room, she was flipping through photos taken in Philossia.						0	3.0版本随机事件
+page1.2	没想到苔丝居然拍摄了这么多剧场的照片？	沒想到黛斯居然拍攝了這麼多劇場的照片？	ずいぶん劇場の写真を撮ったんだな。	테스, 극장 사진을 이렇게 많이 찍었어?	I didn't expect you to have taken so many pictures of the theater!						0	3.0版本随机事件
+page1.3	因为我有个小小的新发现哦~	因為我有個小小的新發現喔~	ちょっと気付いたことがあってね。	새로 발견한 게 하나 있었거든요~	That's because I made a tiny little discovery~						0	3.0版本随机事件
+page1.4	千年前修建的菲洛索亚的古剧场，在设计思路上居然和魔术舞台有相似之处。	千年前修建的菲洛索亞古劇場，在設計上居然和魔術舞台有相似之處。	フィロゾアの古劇場は千年も前に建てられたのに、マジックショーのステージとデザインがそっくりなの。	천 년 전에 지어진 필로시아의 고대 극장인데, 설계 방식이 마술 무대와 비슷하더라고요.	The thousand-year-old ancient theater in Philossia shares design ideas with a magician's stage!						0	3.0版本随机事件
+page1.5	古戏剧里的“众神现身”，就是通过吊臂起重机和屋顶机关完成的。	古戲劇裡的「眾神現身」，就是透過吊臂起重機和屋頂機關完成的。	古典の演目にある「諸神顕現」のシーンなんて、クレーンみたいな舞台装置を使って再現してるんだよ。	고대 연극에서 '신들의 등장'은 크레인과 지붕의 장치를 통해 구현했어요.	The old plays performed there used pulley systems and ceiling contraptions to make gods appear to be floating in the air.						0	3.0版本随机事件
+page1.6	要是能在这样的场地表演魔术，应该是很有意思的事情~	要是能在這樣的場地表演魔術，應該是很有意思的事情~	ああいうステージでマジックショーをやれたら、きっと面白いだろうな～	이런 무대에서 마술을 선보일 수 있다면 정말 재미있을 것 같아요~	Wouldn't it be fun to perform magic in a place like that~?						0	3.0版本随机事件
+page1.7	菲洛索亚的古剧场虽然看着古朴，实际却可以容纳两万人哦。	菲洛索亞的古劇場雖然看起來古樸，實際卻可以容納兩萬人喔。	古めかしくはあるけど、あの古劇場はゆうに2万人も収容できる建物だぞ。	필로시아의 고대 극장은 소박해 보이긴 해도, 실제로는 2만 명을 수용할 수 있다고.	Well, but don't let the simple look of the ancient theater fool you. It could actually hold twenty thousand people.						0	3.0版本随机事件
+page1.8	表演魔术的话，苔丝可不能因为人多而怯场。	表演魔術的話，黛斯可不能因為人多而怯場。	それだけの観客が集まったら、ショーの主役である君は緊張しないように頑張らないとな。	테스가 마술 공연을 하게 된다면, 관객이 많다고 겁먹으면 안 돼.	If you're planning to perform magic there, Tess, you'd better not get stage fright.						0	3.0版本随机事件
+page1.9	这，这么多人吗？	這、這麼多人嗎？	そ、そんなに入れるの？	그, 그렇게 많다고요?	Tw—Twenty thousand!?						0	3.0版本随机事件
+page1.10	算了算了，我一定会紧张出错，然后把演出搞砸的。	算了算了，我一定會緊張出錯，然後把演出搞砸的。	や、やっぱりやめようかな……きっと緊張のせいで、ショーが台無しになっちゃうよ。	그럼 안 되겠어요. 분명 긴장해서 실수하고, 결국 공연을 망칠 거예요.	No, no way. I'll definitely get nervous and ruin the whole show!						0	3.0版本随机事件
+page1.11	而且……我也只是想表演给亲爱的一个人看而已。	而且……我也只是想表演給親愛的一個人看而已。	それに……私のマジックはハニーにだけ見てほしいからね。	그리고… 저는 그저 자기 한 사람에게만 보여주고 싶어요.	Besides... I want to perform for you only, honey.						0	3.0版本随机事件

@@ -1,0 +1,538 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+refreshtime	刷新时间：	更新時間：	リセット時間：	리셋 시간:	Refresh In: 						0	
+TxtEventTime	开放时间：	開放時間：	開放時間：	오픈 시간:	Duration:						0	
+sign	签到	簽到	サインイン	  출석체크	Check In						0	
+signed	已领取	已領取	受取済み	수령 완료	Claimed						0	
+month	月	月	月	월	Check-						0	
+1	一	一	一	1	Jan						0	
+2	二	二	二	2	Feb						0	
+3	三	三	三	3	Mar						0	
+4	四	四	四	4	Apr						0	
+5	五	五	五	5	May						0	
+6	六	六	六	6	Jun						0	
+7	七	七	七	7	Jul						0	
+8	八	八	八	8	Aug						0	
+9	九	九	九	9	Sep						0	
+10	十	十	十	10	Oct						0	
+11	十一	十一	十一	11	Nov						0	
+12	十二	十二	十二	12	Dec						0	
+name1	任务一	任務一	ミッション1	미션1	Mission 1						0	
+name2	任务二	任務二	ミッション2	미션2	Mission 2						0	
+name3	任务三	任務三	ミッション3	미션3	Mission 3						0	
+name4	任务四	任務四	ミッション4	미션4	Mission 4						0	
+name5	任务五	任務五	ミッション5	미션5	Mission 5						0	
+name6	任务六	任務六	ミッション6	미션6	Mission 6						0	
+name7	任务七	任務七	ミッション7	미션7	Mission 7						0	
+name8	任务八	任務八	ミッション8	미션8	Mission 8						0	
+name9	任务九	任務九	ミッション9	미션9	Mission 9						0	
+name10	任务十	任務十	ミッション10	미션10	Mission 10						0	
+name11	任务十一	任務十一	ミッション11	미션11	Mission 11						0	
+name12	任务十二	任務十二	ミッション12	미션12	Mission 12						0	
+name13	任务十三	任務十三	ミッション13	미션13	Mission 13						0	
+name14	任务十四	任務十四	ミッション14	미션14	Mission 14						0	
+name15	任务十五	任務十五	ミッション15	미션15	Mission 15						0	
+name16	任务十六	任務十六	ミッション16	미션16	Mission 16						0	
+name17	任务十七	任務十七	ミッション17	미션17	Mission 17						0	
+name18	任务十八	任務十八	ミッション18	미션18	Mission 18						0	
+name19	任务十九	任務十九	ミッション19	미션19	Mission 19						0	
+name20	任务二十	任務二十	ミッション20	미션20	Mission 20						0	
+name21	任务二一	任務二一	ミッション21	미션21	Mission 21						0	
+name22	任务二二	任務二二	ミッション22	미션22	Mission 22						0	
+name23	任务二三	任務二三	ミッション23	미션23	Mission 23						0	
+name24	任务二四	任務二四	ミッション24	미션24	Mission 24						0	
+name25	任务二五	任務二五	ミッション25	미션25	Mission 25						0	
+name26	任务二六	任務二六	ミッション26	미션26	Mission 26						0	
+name27	任务二七	任務二七	ミッション27	미션27	Mission 27						0	
+name28	任务二八	任務二八	ミッション28	미션28	Mission 28						0	
+name29	任务二九	任務二九	ミッション29	미션29	Mission 29						0	
+name30	任务三十	任務三十	ミッション30	미션30	Mission 30						0	
+template_2_des	每日登录即可领取对应奖励\n第二日即可领取狙击角色-<span color="#f7be37">茉莉安·雨燕</>	每日登入即可領取對應獎勵\n第二日即可領取狙擊角色-<span color="#f7be37">茉莉安·雨燕</>	毎日ログインするだけで報酬を受け取れる。\n2日目でスナイパー-<span color="#f7be37">マリアン-アマツバメ</>を入手可能。	매일 로그인 시 차수에 해당하는 보상 수령 가능.\n로그인 2일 차에는 저격 캐릭터: <span color="#f7be37">마리안·스위프트</>를 수령할 수 있다.	Check in to receive the corresponding rewards.\nReceive Sniper <span color="#f7be37">Marian Swift</> on Day 2.						0	
+template_3_des	每日登录即可领取对应奖励\n第七日即可领取狙击角色-<span color="#f7be37">茉莉安·雨燕</>\n第十四日即可领取突击步枪-<span color="#f7be37">审判前夜</>	每日登入即可領取對應獎勵\n第七日即可領取狙擊角色-<span color="#f7be37">茉莉安·雨燕</>\n第十四日即可領取突擊步槍-<span color="#f7be37">審判前夜</>	毎日ログインするだけで報酬を受け取れる。\n7日目でスナイパー-<span color="#f7be37">マリアン-アマツバメ</>を入手可能。\n14日目でアサルトライフル-<span color="#f7be37">ジャッジメントイブ</>を入手可能。	매일 로그인 시 차수에 해당하는 보상 수령 가능.\n로그인 7일 차에는 저격 캐릭터: <span color="#f7be37">마리안·스위프트</>를 수령할 수 있으며,\n로그인 14일 차에는 돌격 소총-<span color="#f7be37">심판의 전야</>를 수령할 수 있다.	Log in daily to receive the corresponding rewards.\nYou can receive the sniper <span color="#f7be37">Marian Swift</> on the 7th day.\nAnd assault rifle <span color="#f7be37">Trial's Eve</> on the 14th day.						0	
+template_4_des	每日登录即可领取对应奖励\n累计签到七天即可领取狙击角色:肴-养生专家\n累计签到十四天即可领取专属时装:肴-工作宗旨	每日登入即可領取對應獎勵\n累計簽到七天即可領取狙擊角色:肴-養生專家\n累計簽到十四天即可領取專屬時裝:肴-工作宗旨	毎日ログインするだけで報酬を受け取れる\n7日目でスナイパー「肴-セルフケアラー」を入手可能。\n14日目で衣装「肴-仕事の目的」を入手可能。	매일 로그인 시 차수에 해당하는 보상 수령 가능.\n로그인 7일 차에는 저격 캐릭터: 야오-케어 관리사를 수령할 수 있으며,\n로그인 14일 차에는 전용 스킨: 야오-워크 모토를 수령할 수 있다.	Log in daily to claim the corresponding rewards\nObtain the sniper: Yao - Quiet Quitter on day 7\nObtain the exclusive outfit: Yao - Work Goal on day 14						0	
+template_5_des	活动期间，每日登录即可领取对应奖励	活動期間，每日登入即可領取對應獎勵	イベント期間中、毎日ログインするだけで報酬を受け取れる	이벤트 기간에는 매일 로그인 시 그에 상응하는 보상을 수령할 수 있다.	Log in daily to claim rewards during the event						0	
+template_6_des	1、活动期间，完成每日活动任务，可获取强力队员和大量物资补给\n2、每天04:00会开启新阶段的活动任务，共3个阶段\n3、需要完成当前阶段任务，才可进行下一阶段的对应任务	1. 活動期間，完成每日活動任務，可獲取強力隊員和大量物資補給\n2. 每天04:00（UTC+8）開啟新階段的活動任務，共3個階段\n3. 需要完成當前階段任務，才可進行下一階段的對應任務。	1.イベント期間中、デイリーミッションを完了することで強い隊員と豊富な物資を獲得できます。\n2.イベントミッションは総計3段階があり、毎日4:00(UTC+8)に新段階が開放されます。\n3.新段階のミッションに進むには、現在の段階のミッションを全部完了する必要があります。	1. 이벤트 기간에는 매일 이벤트 미션을 완료하여 강력한 팀원과 대량의 물자를 보급받을 수 있다.\n2. 새로운 단계의 이벤트 미션은 매일 04:00(UTC+8)에 시작하며, 총 3단계로 진행된다.\n3. 현재 단계의 미션을 완료해야 다음 단계의 미션을 진행할 수 있다.	1. During the event, you can obtain a powerful operative and supplies through completing the daily event tasks.\n2. Every day at 04:00 (UTC+8), a new phase of event tasks will be unlocked, with a total of 3 phases.\n3. The tasks in the next phase can be unlocked only after the tasks in the current phase have been completed.						1000	
+template_7_des	每日登录即可领取对应奖励\n累计签到七天即可领取狙击角色:芙提雅-小太阳\n累计签到十四天即可领取狙击角色:肴-养生专家	每日登入即可領取對應獎勵\n累計簽到七天即可領取狙擊角色:芙提雅-小太陽\n累計簽到十四天即可領狙擊角色:肴-養生專家	毎日ログインするだけで報酬を受け取れる。\n7日目でスナイパー「フリティア-おひさまちゃん」を入手可能。\n14日目でスナイパー「肴-セルフケアラー」を入手可能。	매일 로그인 시 차수에 해당하는 보상 수령 가능.\n로그인 7일 차에는 돌격 소총 캐릭터: 프티야-리틀썬을 수령할 수 있으며,\n로그인 14일 차에는 저격 캐릭터 야오-케어 관리사를 수령할 수 있다.	Log in daily to claim the corresponding rewards\nObtain Assault Rifle Operative: Fritia - Little Sunshine on day 7\nObtain Sniper Operative: Yao - Quiet Quitter on day 14						0	
+template_8_des	活动期间，完成活动任务，可获取大量物资补给	活動期間，完成活動任務即可獲得大量物資補給	期間中にタスクをクリアして、補給物資を獲得！	이벤트 기간에는 이벤트 미션을 완료하면 대량의 물자를 보급 받을 수 있다.	Complete event tasks to obtain generous supplies!						0	
+template_9_des	1.本活动开放时间为8月7日维护后-8月21日4：00\n2.本活动仅对7天以上未登录且等级≥20级的分析员开放，用以物资补偿，仅开放一次	1.本活動開放時間為8月7日維護後至8月21日4:00(UTC+8)\n2.本活動僅開放給7天以上未登入且等級≥20級的分析員，用途為物資補償。本活動僅開放一次。	1.イベント期間：8月7日メンテナンス終了後-8月21日4:00(UTC+8)まで\n2.イベント対象：7日以上ログインしていないLv.20以上の分析員に物資が補填されます、このイベントは1回のみ開催されます。	1. 이벤트 기간: 8월 7일 점검 후~8월 21일 04:00(UTC+8)시까지.\n2. 해당 이벤트는 7일 이상 로그인하지 않은 분석가 중 레벨 20 이상인 분석가에게만 오픈되며, 물자 보상으로 오직 1회만 오픈할 수 있다.	1. This event will be open from the end of maintenance on 8/7 to 8/21 4:00 AM (UTC+8).\n2. This resupply event is only open to Adjutants that haven't logged in for 7 or more days and are at Adjutant Lv. 20 or above. Can only participate in this event once.						0	
+template_10_des	我们为分析员准备了提高安全系数的方案，请按照引导完成任务，保障安全和体验的同时，还能获得奖励！	我們為分析員準備了提高安全係數的方案，請依照指示完成任務，確保安全以及體驗任務的同時，還能獲得獎勵!	分析員のために安全性を向上させる案を用意しました。ガイドに従ってミッションを遂行してください。安全性と体験を両立しながら、報酬を獲得しましょう！	분석가님을 위해 안전계수 향상 방안을 마련했습니다. 안내에 따라 미션을 완료하고 안전하게 체험을 즐기면서 보상을 받아 가세요!	To provide a safer and better experience for the game, follow the instructions to complete tasks. You can earn great rewards while making your experience more secure!						0	
+template_11_des	我们为分析员提供了更多获取官方情报的途径，按照引导完成任务即可获得奖励！	我們為分析員準備了更多獲得官方情報的方式，依照指示完成任務即可獲得獎勵!	さらなる公式情報を得るための方法を分析員に提供します。ガイドに従ってミッションを完了することで、報酬を獲得できます！	분석가님을 위해 공식 정보를 받아보실 수 있는 경로를 준비했습니다. 안내에 따라 미션을 완료하면 보상을 얻을 수 있습니다!	We have provided more ways for you to get official intel for your next missions! Follow the instructions to complete tasks and earn rewards!						0	
+template_12_des	【基础规则】\n活动期间，分析员每日登录游戏后即可在【活动分页】领取签到奖励\n【补签规则】\n1.在活动开启一段时间后，如分析员在本期活动中存在漏签，可以通过补签功能领取签到奖励。\n2.分析员完成【活动】面板内的任务即可获得【溯星币】。每1枚【溯星币】可自动转换为1次补签机会。\n3.当分析员拥有大于等于1枚数量的【溯星币】时，点击签到奖励内容，即可按签到顺序获得对应奖励。签到奖励无法跳过或任选。\n4.当分析员已经领取完成当前活动的所有签到奖励或签到活动结束时，补签次数将归0。\n	【基礎規則】\n活動期間，分析員每日登入遊戲後即可在【活動分頁】領取簽到獎勵\n【補簽規則】\n1.在活動開啟一段時間後，如分析員在本期活動中存在漏簽，可以透過補簽功能領取簽到獎勵。\n2.分析員完成【活動】界面內的任務即可獲得【溯星幣】。每1枚【溯星幣】可自動轉換為1次補簽機會。\n3.當分析員擁有大於等於1枚數量的【溯星幣】時，點選簽到獎勵內容，即可按照簽到順序獲得對應獎勵。簽到獎勵無法跳過或任選。\n4.當分析員已經領取完成目前活動的所有簽到獎勵或簽到活動結束時，補簽次數將歸0。\n	【基本ルール】\nイベント期間中、毎日ログインすると【イベント画面】でログイン報酬を受領できます。\n【補填ルール】\n1.今期のイベント中にログインできなかった日があった場合、イベントが開放されてから一定時間が経過した後、ログイン補填機能を使ってログイン報酬を受領できます。\n2.【イベント】内のミッションをクリアすると【遡行コイン】を獲得できます。遡行コイン1枚ごとに自動的に補填機会1回分に変換されます。\n3.1枚以上の【遡行コイン】を持っている場合、ログイン報酬をタップすると、報酬を順番に獲得できます。ログイン報酬はスキップしたり自由に選択したりすることはできません。\n4.分析員がイベントのログイン報酬を全て受け取るか、あるいはイベントが終了した場合、補填回数は0になります。\n	[기본 출석 설정]\n이벤트 기간 동안, 매일 게임에 로그인한 후 [이벤트 페이지]에서 출석 보상을 받으실 수 있습니다.\n[보충 출석 설정]\n1. 이벤트가 열리고 일정 시간이 지난 후, 본 이벤트에서 출석을 누락한 날이 있으면 보충 기능을 통해 출석 보상을 받을 수 있습니다.\n2. [이벤트] 화면 안에 있는 미션을 완료할 시 [스타 코인]을 획득할 수 있습니다. [스타 코인]은 1회의 보충 출석 기회로 전환됩니다.\n3. [스타 코인]을 1개 이상 보유한 경우, 출석 보상 내용을 클릭하면 출석 순서에 따라 해당 보상을 획득할 수 있습니다. 출석 보상은 건너뛰거나 선택할 수 없습니다. \n4. 현재 이벤트에서 모든 출석 보상을 받았거나 출석 이벤트가 종료된 경우, 보충 출석 횟수는 0으로 초기화됩니다.	Basic Rules\nDuring the event period, you can go to the event tab after logging in each day to claim login rewards.\nLogin Rules\n1. Later in the event period, you can make up missed logins during the event so that you may claim the login rewards.\n2. Complete the tasks on the event tab to obtain Startrace Coins. Every 1 Startrace Coin can be converted into 1 make-up login.\n3. When you have 1 or more Startrace Coins, click on the login rewards to obtain the corresponding rewards in sequence. Cannot skip or freely select login rewards.\n4. After you obtain all login rewards or the login event ends, make-up login number will return to 0.\n						0	
+template_13_des	温柔又坚韧的姐姐大人，携带全新战术套装登场！\n活动期间登录游戏即可直接邀请【恩雅-羽蜕】和【沙叶小队（特长1、2定制版）】加入队伍！	溫柔又堅韌的姐姐大人，攜帶全新戰術套裝登場！\n活動期間登入遊戲即可直接邀請【恩雅-羽蛻】和【沙葉小隊（特長1、2訂製版）】加入隊伍！	優しくて強いお姉さま、新たな戦術装備で堂々と登場！\nイベント期間中ログインすれば【エンヤ-羽化の儀】【砂葉チーム（特長1、2特注版）】をGET！	온화하고 강인한 엔야 누님이 새로운 전술 슈트를 착용하고 등장합니다!\n이벤트 기간에 로그인 시, [엔야-엑수비아] 및 [아레카 소대(특징1, 2 커스텀 버전)]를 파티에 초대할 수 있습니다!	The gentle and reliable Big Sis is back in the field with an all-new tactical exosuit!\nLog in during the event and invite Enya - Exuvia and logistics officers of Areca Squad (specially fixed Talents 1 and 2) to join your squad!						0	
+template_14_des	骄傲而耀眼的黄金狮子，身着全新战术套装自信登场！\n活动期间登录游戏即可直接邀请【芬妮-辉耀】和【清乐小队（特长1、2定制版）】加入队伍！	驕傲而耀眼的黃金獅子，身穿全新戰術套裝自信登場！\n活動期間登入遊戲即可直接邀請【芬妮-輝耀】和【清樂小隊（特長1、2訂製版）】加入隊伍！	誇り高く眩しいライオンハートが新たな戦術装備に身を包んで、自信満々に登場します！\nイベント期間中にログインすれば、【ファニー-光輝】と【レヴェリーチーム（特長1、2特注版）】をGET！	도도하고 눈부신 황금 사자가 새로운 전술 슈트를 착용하고 등장합니다!\n이벤트 기간에 로그인 시, [페니-스타샤인] 및 [레버리 소대 (특징1, 2 커스텀 버전)]를 파티에 초대할 수 있습니다!	The proud and radiant Lionheart is back in the field with an all-new tactical exosuit!\nLog in during the event and invite Fenny - Starshine and logistics officers of Reverie Squad (specially fixed Talents 1 and 2) to join your squad!						0	
+template_15_des	优雅从容的绷带小姐，穿戴专属战术套装登场！\n活动期间登录游戏即可直接邀请【茉莉安-幽潮】和【钢羽小队（特长1、2定制版）】加入队伍！	優雅從容的繃帶小姐，攜帶全新戰術套裝登場！\n活動期間登入遊戲即可直接邀請【茉莉安-幽潮】和【鋼羽小隊（特長1、2訂製版）】加入隊伍！	優雅で落ち着いたミス-バンデージ、新たな戦術装備で堂々と登場！\nイベント期間中ゲームにログインすると【マリアン-幽潮】と【鋼羽チーム（特長1、2特注版）】をGET！	우아하고 차분한 '붕대 아가씨' 마리안이 새로운 전술 슈트를 착용하고 등장합니다!\n이벤트 기간에 로그인 시, [마리안-고요한 물결] 및 [에일러론 소대(특징1, 2 커스텀 버전)]를 파티에 초대할 수 있습니다!	The elegant Queen of Pain is back in the field with an all-new tactical exosuit!\nLog in during the event and invite Marian - Riptide and logistics officers of Aileron Squad (specially fixed Talents 1 and 2) to join your squad!						0	
+template_16_des	爱好摸鱼却也作战骁勇的养生专家。身着全新战术套装干练登场！！\n活动期间登录游戏即可直接邀请【肴-夜天光】和【闻风小队（特长1、2定制版）】加入队伍！	愛好摸魚卻也作戰驍勇的養生專家。身著全新戰術套裝幹練登場！！\n活動期間登入遊戲即可直接邀請【肴-夜天光】和【聞風小隊（特長1、2訂製版）】加入隊伍！	サボるのが好きだが戦場では勇猛果敢なセルフケアラー、新たな戦術装備で凛々しく登場！！\nイベント期間中にゲームにログインすると、【肴-夜天光】と【ゼファーチーム（特長1、2特注版）】が手に入る！	편하게 쉬는 것을 좋아하면서도 전투에서는 용감한 면모를 보여주는 케어 관리사가 새로운 전술 슈트를 착용하고 멋지게 등장합니다! 이벤트 기간 동안 게임에 로그인하면 [야오-나이트 글로우]와 [제퍼 소대(특징 1,2 커스텀 버전)]를 파티에 초대할 수 있습니다!	This quiet quitter who loves slacking off shows her fierce combat skills and makes a skillful debut in an all-new exosuit!\nLog in during the event and invite Yao - Nightglow and the logistics officers of Zephyr Squad (specially fixed Talents 1 and 2) to join your squad!						0	DLC2.5特别邀请
+template_17_des	未来世界第一魔术师，身着华丽战术套装闪耀登场！\n活动期间登录游戏即可直接邀请【苔丝-绮幻】和【秘源小队（特长1、2定制版）】加入队伍！	未來世界第一魔術師，身著華麗戰術套裝閃耀登場！\n活動期間登入遊戲即可直接邀請【黛斯-綺幻】和【秘源小隊（特長1、2訂製版）】加入隊伍！	未来のNo.1マジシャン、華麗な戦術装備で颯爽と登場！\nイベント期間中にゲームにログインすると、【テス-ファンタジア】と【秘源チーム（特長1、2特注版）】が手に入る！	미래의 세계 최고의 매지션이 새로운 전술 슈트를 착용하고 등장합니다!\n이벤트 기간에 로그인 시, [테스-판타지아] 및 [아케인 소대 (특징1, 2 커스텀 버전)]를 파티에 초대할 수 있습니다!	Here comes the future greatest magician, shining bright in a dazzling exosuit!\nLog in during the event and invite Tess - Phantasia and logistics officers of Arcane Squad (specially fixed Talents 1 and 2) to join your squad!						0	
+template_18_des	追逐波光与记忆的海风少女，身着沁蓝战术套装惊喜登场！\n活动期间登录游戏即可直接邀请【瑟瑞斯-悠游】和【天秤小队（特长1、2定制版）】加入队伍！	追逐波光與記憶的海風少女，身著沁藍戰術套裝驚喜登場！\n活動期間登入遊戲即可直接邀請【瑟瑞斯-優游】和【天秤小隊（特長1、2訂製版）】加入隊伍！	波光と記憶を追いかける少女が、水色の戦術装備で鮮やかに登場！\nイベント期間中にログインすると、【シーリス-天遊】と【リブラチーム（特長1、2特注版）】をゲット！	파도와 추억을 추적하는 바다 소녀가 상큼한 파란색 전술 슈트를 착용하고 깜짝 등장합니다!\n이벤트 기간 동안 게임에 로그인하면 [세리스-프리핀]과 [천칭 소대(특징 1, 2 커스텀)]를 파티에 초대할 수 있습니다!	Chasing shimmering waves and memories, the girl surfs in wearing her new cerulean exosuit!\nDuring the event, log in to invite Siris - Freefin and her logistics Libra Squad (specially fixed Talents 1 and 2) to your squad!						0	DLC3.2特别邀请
+template_18_face_des	活动期间，登录即可获得【瑟瑞斯-悠游】和专属定制后勤【天秤小队】	活動期間，登入即可獲得【瑟瑞斯-優游】和專屬訂製後勤【天秤小隊】	イベント期間中、ログインで【シーリス-天遊】と専属の特注版後方支援【リブラチーム】を入手！	이벤트 기간 동안 로그인하면 [세리스-프리핀]과 커스텀 지원 [천칭 소대]를 획득할 수 있습니다.	During the event, log in to claim the new operative Siris - Freefin and her logistics Libra Squad.						0	DLC3.2特别邀请打脸弹窗
+template_19_des	每日登录得好礼，连续登录七天即可领取全部奖励\n第二日可领取橙色品质角色自选礼包：<span color="#ffc67f">高级天启者邀请函</>\n第七日可领取角色时装：<span color="#ffc67f">肴-工作宗旨</>	每日登入得好禮，連續登入七天即可領取全部獎勵\n第二日可領取橙色品質角色自選禮包：<span color="#ffc67f">高級天啟者邀請函</>\n第七日可領取角色時裝：<span color="#ffc67f">肴-工作宗旨</>	毎日ログインで豪華報酬を入手、7日間連続ログインで\n全ての報酬を受け取れます\n2日目には<span color="#ffc67f">高級・覚醒者招待状</>を獲得、オレンジランク\n隊員を1名選択して招待できます\n7日目には隊員衣装「<span color="#ffc67f">肴-仕事の目的</>」を獲得できます	매일 로그인하여 선물을 받아 가세요! 7일 연속 로그인하면 모든 보상을 수령할 수 있습니다.\n둘째 날에는 오렌지 등급 캐릭터 셀프 패키지 - <span color="#ffc67f">고급 계시자 초대장</>을 수령할 수 있습니다.\n일곱째 날에는 캐릭터 스킨 - <span color="#ffc67f">야오-워크 모토</>를 수령할 수 있습니다.	Daily login rewards await! Log in on 7 days to claim all rewards!\nDay 2: Orange-tier operative selector <span color="#ffc67f">Advanced Manifestation Invitation Letter</>\nDay 7: Operative outfit <span color="#ffc67f">Yao - Work Goal</>						0	DCL3.2新七日签到简介
+template_20_des	无畏奋勇的军火世家家主，身着新制战术套装【霄鹰】隆重登场！\n活动期间登录游戏即可直接邀请【茉莉安-霄鹰 】和【松露小队（特长1、2定制版）】加入队伍！	無畏奮勇的軍火世家家主，身著新制戰術套裝【霄鷹】隆重登場！\n活動期間登入遊戲即可直接邀請【茉莉安-霄鷹】和【松露小隊（特長1、2訂製版）】加入隊伍！	優雅な振る舞いに、勇敢で冴えわたる芯を持つ兵器製造家族の当主、新たな戦術装備【雲上の鷹】で堂々と登場！\nイベント期間中にログインするだけで、【マリアン-雲上の鷹】と【トリュフチーム（特長1、2特注版）】をゲット！	두려움 없는 무기 명가의 가주가 새로운 전술 슈트 [아퀼라]를 착용하고 등장합니다!\n이벤트 기간에 로그인 시, [마리안-아퀼라] 및 [트러플 소대(특징1, 2 커스텀 버전)]를 파티에 초대할 수 있습니다!	The intrepid head of an arms dealer family is back with an all-new exosuit Aquila!\nLog in during the event and invite Marian - Aquila and logistics officers of Truffle Squad (specially fixed Talents 1 and 2) to join your squad!						0	DLC3.5特别邀请
+template_20_face_des	活动期间，登录即可获得【茉莉安-霄鹰】和专属定制后勤【松露小队】	活動期間，登入即可獲得【茉莉安-霄鷹】和專屬訂製後勤【松露小隊】	イベント期間中、ログインで【マリアン-雲上の鷹】と専属の特注版後方支援【トリュフチーム】を入手！	이벤트 기간 동안 로그인하면 [마리안-아퀼라]와 커스텀 지원 [트러플 소대]를 획득할 수 있습니다.	During the event, log in to claim the new operative Marian - Aquila and her logistics Truffle Squad.						0	DLC3.5特别邀请打脸弹窗
+not_open	活动未开放	活動未開放	未開放のイベント	이벤트 미오픈	Event unavailable						0	
+not_exists	活动不存在	活動不存在	イベントが見つかりません	이벤트가 존재하지 않습니다.	Event does not exist						0	
+not_implement	活动未生效	活動未生效	イベント時間外	이벤트가 오픈되지 않았습니다.	Event is inactive						0	
+level_limit	等级未达到	等級未達到	Lv条件に達していません	레벨 미달성	Higher level required						0	
+Lable1	每日签到	每日簽到	毎日サインイン	출석체크	Daily Check-In						0	
+Lable2	世界树的馈赠	世界樹的饋贈	ユグドラシルの贈り物	위그드라실 선물	Gift from Yggdrasil						0	
+Lable3	破晓链接	破曉連結	夜明け	새벽 링크	Protocol Dawn						0	
+Lable4	活动商店模板	活動商店模板	イベントショップテンプレート	이벤트 상점 템플릿	Event shop template						0	
+Lable5	美宣图跳转	美宣圖跳轉	メインビジュアルへ	일러스트 바로가기	Map jump						0	
+Lable6	触雪寻踪	觸雪尋蹤	雪触追跡	스노우 트래킹	Traces in the Snow						0	
+Lable7	垂直丛林	垂直叢林	垂直密林	버티컬 정글	Vertical Jungle						0	
+Lable8	起程回馈	起程回饋	チャージ還元	출발 보상	Beginner Rebate						0	
+Lable9	感知激活	感知啟動	センス補給所	감지 활성화	Presence Booster						0	
+Lable10	灯盏铭福	燈盞銘福	灯される祝福	등불의 기원	Sky-Lantern Blessing						0	
+Lable11	偶像登台	偶像登台	スター登場	아이돌 스테이지	Idol in the Spotlight						0	
+Lable12	雪之约定	雪之約定	キオーンの約束	눈의 약속	Seeking the Solstice						0	
+Lable13	精锐入队	精銳入隊	精鋭入隊	정예 입단	Elite Recruit						0	
+Lable14	闲情逸致	閒情逸致	穏やかな寮生活	아늑한 공간	Relaxing Leisure						0	
+Lable15	永续联战	永續聯戰	永続連戦	매칭 서바이벌	Endless Battle						0	
+Lable16	提灯巡礼	提燈巡禮	提灯巡礼	등불 순례	Parade of Lights						0	
+Lable17	旧墟新痕	舊墟新痕	旧墟新痕	폐허와 번영	New Tracks on Old Paths						0	
+Lable18	指挥进阶	指揮進階	コマンドアドバンス	지휘력 진급	Commander Advancement						0	
+Lable19	逐日沐潮	逐暮潮汐	潮汐	조석	Days of Tidal Reverie						0	
+Lable20	镂刻战痕	雕鏤戰痕	名誉の爪痕	전쟁의 상흔	Battle-Carved Scars						0	
+Lable21	新居入住	新人入住	隊員入居	신규 입주	New Hallmates						0	
+Lable22	北境巡游	險境巡遊	北疆巡回	북방 투어	Northern Border Tour						0	
+Lable23	斑斓漫想	瑰麗漫想	色彩爛漫	화려한 소망	Vibrant Wishes						0	
+Lable24	荣光盛宴	榮光盛宴	栄光ノ饗宴	영광의 향연	Gala of Glory						0	
+Lable25	春之狂想	春之狂想	復興ラプソディ	봄날의 망상	Rhapsody of Revival						0	
+Lable26	逆焰勇进	逆焰勇進	烈火の如く	화염 속으로	Into the Fire						0	
+Lable27	独家委托	獨家委託	臨時依頼	독점 의뢰	Standard Commissions						0	
+Lable28	特别邀请	特別邀請	特別な誘い	특별한 초청	Special Invitation						0	
+Lable29	花朝月夜	花朝月夜	雪月花	화조월야	Cycle of Lunar Bloom						0	
+Lable30	月满花落	月滿花落	月夜の花	월광의 꽃	Budding Moonvine						0	
+Lable31	家具上新	傢俱上新	新着家具	신규 가구	New Furniture						0	
+Lable32	俱卢采风	俱盧採風	グロ漫遊記	쿠루 나들이	Travels in Kuru						0	
+Lable33	浮城漫步	浮城漫步	空の彷徨い	스카이 워크	Strolling on Air						0	
+Lable34	相聚此时	相聚此時	集いの時	함께하는 순간	Moments Together						0	
+Lable35	疗愈中心	療癒中心	ヒールサロン	힐링 센터	Healing Center						0	
+Lable36	重燃炬火	重燃炬火	燃ゆる松明	재점화된 불꽃	Rekindling the Flame						0	
+Lable37	缤纷曙色	繽紛曙色	彩りの曙光	화려한 여명의 빛	Surf at Sunrise						0	
+Lable38	悠然暇光	悠然暇光	癒しの余光	유유하고 한가한 빛	Float at Sunset						0	
+Lable39	荒野之行	荒野之行	いざ荒原へ	황야의 여행	Trek in the Wild						0	
+Lable40	秉烛夜游	秉燭夜遊	灯りゆく夜	촛불 야행	Burn the Midnight Oil						0	2.4签到标题
+Lable41	愿遂顺途	願遂順途	順風満帆	번영의 길	Propitious Pathway						0	2.5签到标题
+Lable43	迎春绮筵	迎春綺筳	春の曙へ	봄의 향연	Spring Revelry						0	2.5签到标题
+Lable44	模因记录	迷因記錄	Meme Collector	밈 기록	Memetic Record						0	2.6签到标题
+Lable45	破晓之日	破曉之日	払暁の一輪	퍼스트 라이트	At First Light						0	2.7签到标题
+Lable46	追根究底	追根究柢	根ほり葉ほり	핵심 파악	Trace the Trail						0	2.8签到标题
+Lable47	庆典赠礼	慶典贈禮	学院祭特典	축제 선물	Celebration Gifts						0	3.0签到标题
+Lable48	卫城新风	衛城新風	アクポ気風	아카데미 스타일	New Academica Ethos						0	3.0签到标题
+Lable49	芳约花途	芳約花途	花誓いの旅路	꽃길의 향기	Floret Path						0	3.1签到标题
+Lable50	清风融意	清風融意	風の便り	바람에 실려 온 선물	Gifts on the Breeze						0	3.2签到标题
+Lable51	拾忆成集	拾憶成集	浜辺回想録	바닷가의 추억	Memories by the Sea						0	3.2签到标题
+Lable52	新程启礼	新程啟禮	旅立ちの贈り物	새로운 여정의 선물	New Journey's Gift						0	3.2新七日签到
+Lable53	巡游之星	巡遊之星	星の漫遊	순항의 별	Stroll Among Stars						0	3.3签到标题
+Lable54	静赴心途	靜赴心途	心の赴く儘に	마음의 여정	Journey of the Heart						0	3.4签到标题
+Lable55	至北初星	至北初星	超新星へ	초신성	Guiding Polaris						0	3.4新手活动
+Lable56	水色漫游	水色漫遊	水色めぐり	물결의 흐름	Rippling Drift						0	3.5签到标题
+Lable57	瑞雪映春	瑞雪映春	春雪の兆	봄날의 약속	Spring Promise						0	3.5签到标题
+Lable58	冰释春回	冰釋春回	春めく頃	다시, 봄	Rejuvenation From Ice						0	3.6签到标题
+Lable59	追觅希望										0	3.7签到标题
+TxtActivityTry1	队员试用	隊員試用	隊員お試し	캐릭터 체험	Operative Trial						0	
+TxtActivityTry1_1	辉夜	輝夜	輝夜	카구야	Kaguya						0	
+TxtActivityTry1_2	云篆	雲篆	雲篆	미스트	Ethereal Cloud						0	
+TxtActivityTry1_3	狂猎	狂獵	ワイルドハント	와일드 헌터	Wild Hunt						0	
+TxtActivityTry1_4	藏锋	藏鋒	蔵鋒	히든 블레이드	Absconditus						0	
+TxtActivityTry1_5	缄默	緘默	ベラドンナ	사일런트	Hush						0	
+TxtActivityTry1_6	溯影	溯影	トレーサビリティ	트레이스	Shadow Ka						0	
+TxtActivityTry1_7	苔丝	黛斯	テス	테스	Tess						0	
+TxtActivityTry1_8	凯茜娅	凱茜婭	カーシア	캐시아	Katya						0	
+TxtActivityTry1_9	伊切尔	伊切爾	イチェル	이첼	Eatchel						0	
+TxtActivityTry1_10	悖谬	悖謬	二律背反	에니그마	Enigma						0	
+TxtActivityTry1_11	羽蜕	羽蛻	羽化の儀	엑수비아	Exuvia						0	
+TxtActivityTry1_12	瞬刻	瞬刻	刹那	크샤나	Ksana						0	
+TxtActivityTry1_13	无限之视	無限之視	ムゲン知眼	인피니트 비전	Infinite Sight						0	
+TxtActivityTry1_14	辉耀	輝耀	光輝	스타샤인	Starshine						0	
+TxtActivityTry1_15	薇蒂雅	薇蒂雅	ヴィディア	비디야	Vidya						0	
+TxtActivityTry1_16	朝翼	朝翼	朝翼	여명의 날개	Dawnwing						0	
+TxtActivityTry1_17	幽潮	幽潮	幽潮	고요한 물결	Riptide						0	
+TxtActivityTry1_18	驰掣	馳掣	ドトウ	터보	Turbo						0	
+TxtActivityTry1_20	卜卜	卜卜	ブブ	보보	Bubu						0	2.4角色试玩
+TxtActivityTry1_21	琼弦	瓊弦	玉弦	제이드 아크	Jade Arc						0	2.5角色试玩
+TxtActivityTry1_22	夜天光	夜天光	夜天光	나이트 글로우	Nightglow						0	2.5角色试玩
+TxtActivityTry1_23	澜风	瀾風	瀾風	템페스트	Tempest						0	2.6角色试玩
+TxtActivityTry1_24	冥河代理人	冥河代理人	ステュクスの渡し守	명계의 사자	Styx Envoy						0	2.7角色试玩
+TxtActivityTry1_25	天鹅座	天鵝座	シグナス	시그너스	Celestial Swan						0	2.8角色试玩
+TxtActivityTry1_26	狂诗	狂詩	ラプソディ	랩소디	Rhapsody						0	3.0角色试玩
+TxtActivityTry1_27	绮幻	綺幻	ファンタジア	판타지아	Phantasia						0	3.0角色试玩
+TxtActivityTry1_28	绯月	緋月	緋月	크림슨 문	Crimson Moon						0	3.1角色试玩
+TxtActivityTry1_29	澄意	澄意	澄心	퓨어하트	Pureheart						0	3.2角色试玩
+TxtActivityTry1_30	悠游	優游	天遊	프리핀	Freefin						0	3.2角色试玩
+TxtActivityTry1_31	星彩	星彩	星彩	스타체이서	Starchaser						0	3.3角色试玩
+TxtActivityTry1_32	灵鉴	靈鑒	霊鏡	미러	Specular Soul						0	3.4角色试玩
+TxtActivityTry1_33	时之重奏	時之重奏	時のアンサンブル	크로노 에코	Chrono Echo						0	3.5角色试玩
+TxtActivityTry1_34	霄鹰	霄鷹	雲上の鷹	아퀼라	Aquila						0	3.5角色试玩
+TxtActivityTry1_35	瑞狐	瑞狐	九尾の天狐	디바인 폭스	Divine Fox						0	3.6角色试玩
+TxtActivityTry2	潮流体验	潮流體驗	衣装お試し	트렌드 스킨체험	Try Popular						0	
+TxtActivityTry3	新品体验	新品體驗	衣装お試し	신상 스킨체험	Try New						0	
+TxtActivityTry2_1	凛冽冬花	凜冽冬花	凛冽冬花	서리 꽃	Frostbite Flora						0	
+TxtActivityTry2_2	行疾脱兔	動如脫兔	ウサ耳ちゃん	날렵한 토끼	Nimble Hare						0	
+TxtActivityTry2_3	蜂刺蔷薇	尖刺薔薇	黒壇・紅薔薇	비스팅 로즈	Stinging Rose						0	
+TxtActivityTry2_4	灼阳假期	炙熱假期	海ネコちゃん	버닝 홀리데이	Sizzling Holiday						0	
+TxtActivityTry2_5	波光倩影	波光瀲灩	波光倩影	웨이브 크레스트	Wavecrest Glimmer						0	
+TxtActivityTry2_6	情迷炎日	迷情烈日	お姉サマー	미스 선샤인	Sultry Sunshine						0	
+TxtActivityTry2_7	一掷千金	一擲千金	ゲームマスター	하이 롤러	High Roller						0	
+TxtActivityTry2_8	不灭残辉	不滅殘輝	不滅の残業	불멸의 빛	Enduring Valor						0	
+TxtActivityTry2_9	粼粼尾浪	浪潮粼粼	夏季休暇専用	스파클링 스웰	Sparkling Swell						0	
+TxtActivityTry2_10	流放欢愉	歡快荒原	ロストユートピア	유배의 희열	Merry-in-Exile						0	
+TxtActivityTry2_11	霜舞盛典	霜雪盛會	フローズンフローラ	서릿빛 축제	Ice Dancer						0	
+TxtActivityTry2_12	初晴金雪	珂雪璀璨	黄金に輝く雪姫	슬로프 디바	Slopestyle Diva						0	
+TxtActivityTry2_13	雪岭焰行	雪嶺疾行	氷原疾駆	스노우 슬레딩	Snowridge Sledding						0	
+TxtActivityTry2_14	远曲独舞	遠曲獨舞	月光のホロス	솔로 댄스	Graceful Danseuse						0	
+TxtActivityTry2_15	狂曲雅跃	狂曲雅躍	礼砲と黒鳥	광란의 곡조	Symphony of Frenzy						0	
+TxtActivityTry2_16	循风谍舞	循風諜舞	風隠れ舞踏会	바람의 첩자	Covert Zephyr						0	
+TxtActivityTry2_17	不灭傲姿	不滅傲姿	不滅の麗姿	불멸의 자태	Indomitable Charm						0	
+TxtActivityTry2_18	宵宴绯盏	宵宴緋盞	宵闇の宴	나이트 컨벤션	Nightfall Scarlet						0	
+TxtActivityTry2_19	东流映荷	東流映荷	魔法少女レンゲちゃん	연꽃의 매혹	Allure of Lotus						0	
+TxtActivityTry2_20	甜蜜统治	甜蜜統治	シュガークイーン	슈가 퀸	Sugar Queen						0	
+TxtActivityTry2_21	迟到花蕾	遲到花蕾	遅咲きの青春	플라워 버드	Overdue Radiance						0	
+TxtActivityTry2_22	街头规则	街頭規則	ストリートコード	스트릿 코드	Street Code						0	
+TxtActivityTry2_23	见习侍奉	見習侍奉	見習いメイド	견습 메이드	Apprentice Maid						0	
+TxtActivityTry2_24	轻语疗法	輕語療法	ウィスパーキュア	키스 테라피	Kiss Be the Remedy						0	
+TxtActivityTry2_25	秘密约会	秘密約會	シークレットデート	시크릿 데이트	Secret Date						0	
+TxtActivityTry2_26	须臾蹁跹	須臾婆娑	一時の儚き夢	순간의 자태	Flutter of Ecstasy						0	
+TxtActivityTry2_27	贴身特助	貼身助理	優秀な助手	밀착 서비스	Private Secretary						0	
+TxtActivityTry2_28	不灭耀心	不滅耀心	不滅の耀心	불멸의 다짐	Unfading Glow						0	
+TxtActivityTry2_29	喵步巧跃	貓步巧躍	猫脚ジャンプ	사뿐한 도약	Feline Grace						0	
+TxtActivityTry2_30	爱意凝晶	愛意凝晶	愛おしい氷晶	사랑의 결정	Frozen in Love						0	
+TxtActivityTry2_31	绽于恋时	綻於戀時	満開な恋心	싹트는 사랑	Flourish of Heart						0	
+TxtActivityTry2_32	绯染夜幕	緋染夜幕	緋染めの夜	크림슨 나이트	Midnight Rose						0	
+TxtActivityTry2_33	归航一心	歸航一心	星旅の帰途	커밍백	Devoted Voyager						0	
+TxtActivityTry2_34	绒绒漫步	絨絨漫步	疾速ヒョウ	사뿐한 걸음	Fluffy Ollie						0	
+TxtActivityTry2_35	翠翎倩姿	翠翎倩姿	紫羽の風情	깃털의 자태	Plumed Beauty						0	
+TxtActivityTry2_36	点墨化龙	點墨化龍	龍の墨跡	점묘화룡	Inkstroke Dragoness						0	
+TxtActivityTry2_37	不灭榜首	不滅榜首	不滅のエース	불멸의 순위	Unbeatable Rank						0	
+TxtActivityTry2_38	沐浪倦姿	沐浪倦姿	倦姿のひと波	서프사이드 레저	Surfside Leisure						0	
+TxtActivityTry2_39	灿阳一刻	燦陽一刻	絢爛のひと刻	찬란한 순간	Radiant Sunkiss						0	
+TxtActivityTry2_40	浅憩之处	淺憩之處	安心のひと息	편안한 쉼터	Seacove Serenity						0	
+TxtActivityTry2_41	静聆潮韵	靜聆潮韻	潮聴のひと紅	잔잔한 파도소리	Tidal Whispers						0	
+TxtActivityTry2_42	毛绒派对	毛絨派對	もふもふベア	플러시 파티	Plush Party						0	
+TxtActivityTry2_43	斑斓水色	斑斕水色	彩る水の綾	화려한 물색	Underwater Hues						0	
+TxtActivityTry2_44	不灭守望	不滅守望	不滅の守護	불멸의 수호	Eternal Watch						0	
+TxtActivityTry2_45	专属教练	專屬教練	ヨガメンター	전속 코치	Exclusive Trainer						0	
+TxtActivityTry2_46	捕猎演习	捕獵演習	狩りの予行練習	사냥 훈련	Prowl and Pounce						0	2.4试玩
+TxtActivityTry2_47	清荷雅弈	清荷雅弈	蓮薫る碁風	청아한 연꽃의 대결	Dual Tranquility						0	2.4试玩
+TxtActivityTry2_48	秘密彩蛋	秘密彩蛋	Danger Dancer	스페셜 댄스	Special Surprise						0	2.4试玩
+TxtActivityTry2_49	欣描红妆	欣描紅妝	紅く華やぐ新粧	적색의 환희	Rouge Bliss						0	2.5试玩
+TxtActivityTry2_50	暖夜情醺	暖夜情醺	美酒佳肴	황홀한 밤의 여운	Tender Temptation						0	2.5试玩
+TxtActivityTry2_51	金狮舞瑞	金獅舞瑞	悦びの瑞獣	골드 라이언 댄스	Lucky Lioness						0	2.5试玩
+TxtActivityTry2_52	纯白午后	純白午後	Innocent 15:33	순백의 오후	Creamy Delight						0	2.5试玩
+TxtActivityTry2_53	望云清咏	望雲清詠	雲への告解	청아한 선율	Pure Devotion						0	2.6试玩
+TxtActivityTry2_54	绒尾迷梦	絨尾迷夢	お団子しっぽ	몽환의 꼬리	Bunny Fantasy						0	2.6试玩
+TxtActivityTry2_55	舞夜与焰	舞夜與焰	夜と舞踏と焔	화염의 춤	Dance by Firelight						0	2.6试玩
+TxtActivityTry2_56	草莓甜心	草莓甜心	いちごハニー	달콤한 딸기	Strawberry Sweet						0	2.6试玩
+TxtActivityTry2_57	不灭银星	不滅銀星	不滅の銀星	불멸의 은성	Unbreakable Silver						0	2.6试玩
+TxtActivityTry2_58	晨曦统令	晨曦統令	Dawn's Command	여명의 지휘	Dawn's Command						0	2.7试玩
+TxtActivityTry2_59	林间潋滟	林間瀲灩	緑滴る清流	숲속의 영혼	Sylvan Spirit						0	2.7试玩
+TxtActivityTry2_60	绮锦流韵	綺錦流韻	流るる錦綺	우아한 품격	Classy Elegance						0	2.7试玩
+TxtActivityTry2_61	元气愈养	元氣癒養	元気の守り手	활력 점검	Vitality Checkup						0	2.7试玩
+TxtActivityTry2_62	暧馨侍奉	曖馨侍奉	温かなご奉仕	정갈한 메이드	Tidy Marksmaid						0	2.7试玩
+TxtActivityTry2_63	疾速耀星	疾速耀星	駆けよ明星	니트로 노바	Nitro Nova						0	2.7试玩
+TxtActivityTry2_64	云端之邀	雲端之邀	雲上の誘い	환상의 비행	Flight of Fantasy						0	2.8试玩
+TxtActivityTry2_65	泳池护卫	泳池護衛	安全の守り手	수영장 순찰대	Pool Patrol						0	2.8试玩
+TxtActivityTry2_66	慵倚花阴	慵倚花蔭	花陰に宿る夢	만개한 꽃	Full Bloom						0	2.8试玩
+TxtActivityTry2_67	引风飒意	引風颯意	銀に靡く風	바람의 노래	Ride the Breeze						0	2.8试玩
+TxtActivityTry2_68	不灭恒忆	不滅恆憶	不滅の想い	불멸의 기억	Persistent Memory						0	2.8试玩
+TxtActivityTry2_69	星抚恋音	星撫戀音	星降る夜に	별빛 서약	Starlove Vow						0	3.0试玩
+TxtActivityTry2_70	恋如花舞	戀如花舞	咲く恋花の如く	그대만의 블러썸	Blossom for You						0	3.0试玩
+TxtActivityTry2_71	畅饮狂欢	暢飲狂歡	歓酔ノ宵	버블 파티	Fizzy Revelry						0	3.0试玩
+TxtActivityTry2_72	秘密侍奉	秘密侍奉	秘密ご奉仕	시크릿 메이드	Intimate Maid						0	3.0试玩
+TxtActivityTry2_73	甜蜜困扰	甜蜜困擾	幸せな悩み	패션 딜레마	Fashion Dilemma						0	3.0试玩
+TxtActivityTry2_74	皎月幽祈	皎月幽祈	白月の祈り	월광의 천사	Moonbeam Angel						0	3.1试玩
+TxtActivityTry2_75	轻罗曼舞	輕羅曼舞	薄絹の舞姫	실크 댄스	Silken Dance						0	3.1试玩
+TxtActivityTry2_76	共待曙明	共待曙明	二人の黎明	경계의 여명	Vigilant Dawn						0	3.1试玩
+TxtActivityTry2_77	雨沁轻衫	雨沁輕衫	五月雨の服	은은한 보슬비	Drizzle Gossamer						0	3.1试玩
+TxtActivityTry2_78	不灭灵影	不滅靈影	不滅の霊影	불멸의 영혼	Undying Spirit						0	3.1试玩
+TxtActivityTry2_79	夕晖蜜约	夕暉蜜約	蜜味の夕焼け	달콤한 노을	Sunset Sweet						0	3.2试玩
+TxtActivityTry2_80	碧波浮游	碧波浮游	波に揺られて	청아한 표류	Azure Drift						0	3.2试玩
+TxtActivityTry2_81	海境鲛梦	海境鮫夢	泡沫夢幻	해중 신기루	Aqua Mirage						0	3.2试玩
+TxtActivityTry2_82	热沙激浪	熱沙激浪	白波と星の砂	시원한 파도	Sunspray Surge						0	3.2试玩
+TxtActivityTry2_83	柔倚身畔	柔倚身畔	素肌の感触	텐더 어젠다	Tender Agenda						0	3.2试玩
+TxtActivityTry2_84	暗空魅影	暗空魅影	魅惑の影	미드나이트 헤이스트	Midnight Heist						0	3.3试玩
+TxtActivityTry2_85	清光虔愿	清光虔願	純なる願い	순수한 기도	Purelight Wishes						0	3.3试玩
+TxtActivityTry2_86	花间蝶踪	花間蝶蹤	蝶花の舞	플로럴 플러터	Floral Flutter						0	3.3试玩
+TxtActivityTry2_87	暖雾凝眸	暖霧凝眸	夢霧	레이스의 응시	Gaze of Lace						0	3.3试玩
+TxtActivityTry2_88	绮恋星灵	綺戀星靈	きらら恋衣	러브 요정	Heartspell Magic						0	3.4试玩
+TxtActivityTry2_89	喵语祈念	喵語祈念	祈る子猫	냥이의 기도	Purrfect Prayer						0	3.4试玩
+TxtActivityTry2_90	颂夜欢歌	頌夜歡歌	聖夜の鈴	미드나이트 캐럴	Jingle of Joy						0	3.4试玩
+TxtActivityTry2_91	恋恋秋行	戀戀秋行	ゆく秋の語らい	가을의 동행	Fall for You						0	3.4试玩
+TxtActivityTry2_92	不灭锋铭	不滅鋒銘	不滅の剣心	불멸의 각인	Immortal Blade						0	3.4试玩
+TxtActivityTry2_93	缘音回响	緣音迴響	縁結びの旋律	인연의 메아리	Echo of Destiny						0	3.5试玩
+TxtActivityTry2_94	纯白恋羽	純白戀羽	純白の恋羽	퓨어 페더	Purelove Plumage						0	3.5试玩
+TxtActivityTry2_95	霄倾君怀	霄傾君懷	蒼天の誓衣	실크의 포옹	Silkfin Embrace						0	3.5试玩
+TxtActivityTry2_96	祥云徜戏	祥雲徜戲	瑞雲の舞衣	구름 놀이	Frolic of Clouds						0	3.5试玩
+TxtActivityTry2_97	游闲心舒	遊閒心舒	潮風のくつろぎ	마음의 여유	Carefree Charm						0	3.5试玩
+TxtActivityTry2_98	珠光曳影	珠光曳影	パールの光と影	펄 얼루어	Lustrous Pearls						0	3.6试玩
+TxtActivityTry2_99	国主驾到	國主駕到	王様のおなり	군주 강림	Empress Robe						0	3.6试玩
+TxtActivityTry2_100	剑意逍遥	劍意逍遙	剣よ瀟洒たれ	신선놀음	Celestial Edge						0	3.6试玩
+TxtActivityTry2_101	轻纱暖寐	輕紗暖寐	サテンの感触	실크 라인	Silky Slumber						0	3.6试玩
+TxtActivityTry2_102	不灭柔情	不滅柔情	不滅の温情	불멸의 애정	Unceasing Care						0	3.6试玩
+TxtActivityDrop1	优速整备	優加整備	迅速整備	특수 정비	Fast Prep						0	
+TxtActivityRoad1	感知巡游	感知巡遊	センス巡回	감지 순회	Presence Patrol						0	
+newbieEvent	完成任务获得【雪之形】，达到数量要求可领取奖励， 最终可获得武器：<span color="#f7be37">狙击枪-奥林匹斯</>	完成任務獲得【雪之形】，達到數量要求可領取獎勵， 最終可獲得武器：<span color="#f7be37">狙擊槍-奧林帕斯</>	ミッションをクリアして【キオーンの形】を入手し、規定数に達すると報酬を受け取れる。最終的に武器：<span color="#f7be37">スナイパーライフル-オリンポス</>を入手可能。	미션 완료 후, [스노우 마크] 획득 가능. 필요한 수량을 달성할 시, 그에 상응하는 보상을 수령할 수 있으며, 최종적으로 무기: <span color="#f7be37">저격총-올림포스</>를 획득할 수 있다.	Complete tasks to obtain Shape of Snow. Once you've obtained the required amount, you will be able to claim the corresponding rewards, with the weapon <span color="#f7be37">Olympus (Sniper Rifle)</> as the final reward.						0	
+vipReward	月卡额外获得	月卡額外獲得	月額プレミアムで追加獲得	월정액권 추가 획득	Monthly Card Bonus Rewards: 						0	
+navigateTo	测试跳转的文本	測試跳轉的文本	ジャンプテキストをテスト	테스트 텍스트 바로가기	Redirect Test Text						0	
+firstDrop	首通	首通	初回	첫 클리어	1st						0	
+baseDrop	固定	固定	固定	고정	Fixed						0	
+randomDrop	随机	隨機	ランダム	랜덤	Random						0	
+specialDrop	特殊	特殊	スペシャル	특수	Special						0	
+extraDrop	额外	額外	追加	추가	Extra						0	
+cpDrop	定制	訂製	特別	커스텀	Special						0	
+character10	肴-养生专家	肴-養生專家	肴-セルフケアラー	야오-케어 관리사	Yao - Quiet Quitter						0	
+character11	肴-工作宗旨	肴-工作宗旨	肴-仕事の目的	야오-워크 모토	Yao: Work Goal						0	
+character12	芙提雅-小太阳	芙提雅-小太陽	フリティア‐おひさまちゃん	프티야-리틀썬	Fritia - Little Sunshine						0	
+Bprules	1.每期凭证活动中，初级凭证默认解锁获取，分析员还可通过兑换【高级凭证】 或【特级凭证】 ,获取更丰厚的奖励。购买【特级凭证】 后，解锁"时装专项扩充"购买资格，可额外购买1次本期时装资金自选箱。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新【UTC+8】\n2.分析员可通过完成凭证任务，来获取经验，提高凭证等级，获取丰厚的奖励。\n3.在当期凭证等级达到50级后，每提升1级可获得1个“追加物资包”，解锁高级凭证或特级凭证的分析员则可额外获得1个“追加物资包”。“追加物资包”数量可累积，单次最多领取10级经验的“追加物资包”奖励，超出数量需要分多次领取。\n4.每周通过本期凭证每日、每周任务获得的经验最多不能超过10000点，超过后则不能通过每日、每周任务获得经验，但仍可通过本期限定任务获得经验。（本期限定任务获取的经验不会计入每周10000点上限）	1.每期憑證活動中，初級憑證預設解鎖獲取，分析員還可透過兌換【高級憑證】 或【特級憑證】，獲取更豐厚的獎勵。購買【特級憑證】後，解鎖“時裝專項擴充”購買資格，可額外購買1次本期時裝資金自選箱。每日任務將在凌晨4點更新，每週任務將在每週一凌晨4點更新【UTC+8】\n2.分析員可透過完成憑證任務來獲取經驗，提高憑證等級來獲得豐厚獎勵。\n3.在當期憑證等級達到50級後，每提升1級可獲得1個“追加物資包”，解鎖高級憑證或特級憑證的分析員可額外獲得1個“追加物資包”。“追加物資包”數量可累積，單次最多領取10級經驗的“追加物資包”獎勵，超出數量則需要分多次領取。\n4.每週透過本期憑證每日、每週任務獲得的經驗最多不能超過10,000點，超過後就不能透過每日、每週任務獲得經驗，但仍可透過本期限定任務獲得經驗。（本期限定任務獲得的經驗不會算入每週10,000點上限）	1.各イベントのパスでは、【初級パス】報酬を無料で獲得できます。さらに、【高級パス】または【特級パス】を購入することで、豪華な報酬を得られます。【特級パス】購入後には「衣装専用拡張」の購入資格が解放され、当期の「衣装&デジギボス選択箱」を追加で1回購入できます。デイリーミッションは毎朝5時、ウィークリーミッションは毎週月曜日の朝5時（JST）にリセットされます。\n2.パスミッションをクリアすることでEXPを獲得し、パスレベルを上げて豪華な報酬を得られます。\n3.今期のパスレベルが50に達すると、レベル1ごとに「追加物資パック」1個を獲得できます。【高級パス】または【特級パス】を購入した場合、さらに「追加物資パック」1個を追加で獲得可能です。「追加物資パック」はチャージされ、一度に最大レベル10分までの報酬を受け取れます。数が超過する場合は、複数回に分けて受け取る必要があります。\n4.ウィークリーミッションとデイリーミッションで獲得できるEXPは、毎週10000ptが上限です。10000ptを超えると、ウィークリーミッションやデイリーミッションではEXPを獲得できなくなりますが、今期の限定ミッションでEXPを獲得できます。（今期の限定ミッションで獲得するEXPは、毎週10000ptの上限にカウントされません。）	1. 매 시즌 패스 이벤트 중 초급 패스는 기본으로 오픈되며, [고급 패스] 또는 [특급 패스]로 교환해 더 많은 보상을 수령할 수 있다. [특급 패스] 구매 후, '스킨 스페셜 보충' 구매 자격을 획득하며, 이번 시즌의 스킨 자금 선택 상자를 추가로 1회 구매할 수 있다. 일일 미션은 새벽 4시에 리셋되며, 주간 미션은 매주 월요일 새벽 4시에 리셋된다.[UTC+8]\n2. 패스 미션을 통해 경험치를 획득하고 패스 레벨을 높이면 더 많은 보상을 획득할 수 있다.\n3. 해당 시즌의 패스가 50 레벨에 도달하면 레벨이 1 상승할 때마다 '추가 물자 패키지'를 1개 획득할 수 있으며, 고급 패스 또는 특급 패스를 오픈한 경우 추가로 1개의 '추가 물자 패키지'를 더 획득할 수 있다. '추가 물자 패키지'는 누적이 가능하며, 한 번에 최대 10 레벨 경험치의 '추가 물자 패키지' 보상을 받을 수 있다. 그 이상의 수량은 초과분으로 여러 번에 나눠서 받아야 한다.\n4. 해당 시즌에서 매주 주간 미션, 일일 미션을 통해 획득할 수 있는 경험치는 최대 10,000pt를 초과할 수 없다. 초과 시 일일 미션, 주간 미션을 통해서는 더 이상 경험치를 획득할 수 없고, 해당 시즌의 한정 미션을 통해서만 경험치를 획득할 수 있다.(해당 시즌의 한정 미션에서 획득한 경험치는 매주 10,000pt 경험치 최대치에 적용되지 않는다)	1. During every Battle Pass event period, the Basic Pass is unlocked by default. Adjutants can buy the Advanced Pass or Ultimate Pass to earn even more bountiful rewards, and the Ultimate Pass grants 1 extra chance to buy the current update's Outfit and Funds Chest. The daily missions reset every day at 4:00 AM (UTC+8) while weekly missions reset every Monday at 4:00 AM (UTC+8).\n2. Adjutants can complete pass missions to earn Battle Pass EXP and increase the pass level to earn plenty of rewards.\n3. Once the pass reaches Lv. 50, Adjutants can receive 1 Additional Supply Pack for each level increase. Adjutants who have unlocked the Advanced Pass or Ultimate Pass can earn 1 Additional Supply Pack. The number of Additional Supply Packs can be accumulated, and up to 10 levels of Additional Supply Packs can be claimed at once. If this amount is exceeded, Adjutants must claim them multiple times.\n4. The weekly Battle Pass EXP limit earned from weekly and daily missions is 10,000. Once this limit is reached, Adjutants can only earn EXP from seasonal missions. (EXP earned from seasonal missions does not count toward the weekly limit of 10,000 EXP.)						0	3.2通行证额外购买优化
+Bprules_oversea	1.每期凭证活动中，初级凭证默认解锁获取，分析员还可通过兑换【高级凭证】 或【特级凭证】 ,获取更丰厚的奖励。购买【特级凭证】 后，解锁"时装专项扩充"购买资格，可额外购买1次本期时装资金自选箱。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新【UTC+8】\n2.分析员可通过完成凭证任务，来获取经验，提高凭证等级，获取丰厚的奖励。\n3.在当期凭证等级达到50级后，每提升1级可获得1个“追加物资包”，解锁高级凭证或特级凭证的分析员则可额外获得1个“追加物资包”。“追加物资包”数量可累积，单次最多领取10级经验的“追加物资包”奖励，超出数量需要分多次领取。\n4.每周通过本期凭证每日、每周任务获得的经验最多不能超过10000点，超过后则不能通过每日、每周任务获得经验，但仍可通过本期限定任务获得经验。（本期限定任务获取的经验不会计入每周10000点上限）	1.每期憑證活動中，初級憑證預設解鎖獲取，分析員還可透過兌換【高級憑證】 或【特級憑證】，獲取更豐厚的獎勵。購買【特級憑證】後，解鎖“時裝專項擴充”購買資格，可額外購買1次本期時裝資金自選箱。每日任務將在凌晨4點更新，每週任務將在每週一凌晨4點更新【UTC+8】\n2.分析員可透過完成憑證任務來獲取經驗，提高憑證等級來獲得豐厚獎勵。\n3.在當期憑證等級達到50級後，每提升1級可獲得1個“追加物資包”，解鎖高級憑證或特級憑證的分析員可額外獲得1個“追加物資包”。“追加物資包”數量可累積，單次最多領取10級經驗的“追加物資包”獎勵，超出數量則需要分多次領取。\n4.每週透過本期憑證每日、每週任務獲得的經驗最多不能超過10,000點，超過後就不能透過每日、每週任務獲得經驗，但仍可透過本期限定任務獲得經驗。（本期限定任務獲得的經驗不會算入每週10,000點上限）	1.各イベントのパスでは、【初級パス】報酬を無料で獲得できます。さらに、【高級パス】または【特級パス】を購入することで、豪華な報酬を得られます。【特級パス】購入後には「衣装専用拡張」の購入資格が解放され、当期の「衣装&デジギボス選択箱」を追加で1回購入できます。デイリーミッションは毎朝5時、ウィークリーミッションは毎週月曜日の朝5時（JST）にリセットされます。\n2.パスミッションをクリアすることでEXPを獲得し、パスレベルを上げて豪華な報酬を得られます。\n3.今期のパスレベルが50に達すると、レベル1ごとに「追加物資パック」1個を獲得できます。【高級パス】または【特級パス】を購入した場合、さらに「追加物資パック」1個を追加で獲得可能です。「追加物資パック」はチャージされ、一度に最大レベル10分までの報酬を受け取れます。数が超過する場合は、複数回に分けて受け取る必要があります。\n4.ウィークリーミッションとデイリーミッションで獲得できるEXPは、毎週10000ptが上限です。10000ptを超えると、ウィークリーミッションやデイリーミッションではEXPを獲得できなくなりますが、今期の限定ミッションでEXPを獲得できます。（今期の限定ミッションで獲得するEXPは、毎週10000ptの上限にカウントされません。）	1. 매 시즌 패스 이벤트 중 초급 패스는 기본으로 오픈되며, [고급 패스] 또는 [특급 패스]로 교환해 더 많은 보상을 수령할 수 있다. [특급 패스] 구매 후, '스킨 스페셜 보충' 구매 자격을 획득하며, 이번 시즌의 스킨 자금 선택 상자를 추가로 1회 구매할 수 있다. 일일 미션은 새벽 4시에 리셋되며, 주간 미션은 매주 월요일 새벽 4시에 리셋된다.[UTC+8]\n2. 패스 미션을 통해 경험치를 획득하고 패스 레벨을 높이면 더 많은 보상을 획득할 수 있다.\n3. 해당 시즌의 패스가 50 레벨에 도달하면 레벨이 1 상승할 때마다 '추가 물자 패키지'를 1개 획득할 수 있으며, 고급 패스 또는 특급 패스를 오픈한 경우 추가로 1개의 '추가 물자 패키지'를 더 획득할 수 있다. '추가 물자 패키지'는 누적이 가능하며, 한 번에 최대 10 레벨 경험치의 '추가 물자 패키지' 보상을 받을 수 있다. 그 이상의 수량은 초과분으로 여러 번에 나눠서 받아야 한다.\n4. 해당 시즌에서 매주 주간 미션, 일일 미션을 통해 획득할 수 있는 경험치는 최대 10,000pt를 초과할 수 없다. 초과 시 일일 미션, 주간 미션을 통해서는 더 이상 경험치를 획득할 수 없고, 해당 시즌의 한정 미션을 통해서만 경험치를 획득할 수 있다.(해당 시즌의 한정 미션에서 획득한 경험치는 매주 10,000pt 경험치 최대치에 적용되지 않는다)	1. During every Battle Pass event period, the Basic Pass is unlocked by default. Adjutants can buy the Advanced Pass or Ultimate Pass to earn even more bountiful rewards, and the Ultimate Pass grants 1 extra chance to buy the current update's Outfit and Funds Chest. The daily missions reset every day at 4:00 AM (UTC+8) while weekly missions reset every Monday at 4:00 AM (UTC+8).\n2. Adjutants can complete pass missions to earn Battle Pass EXP and increase the pass level to earn plenty of rewards.\n3. Once the pass reaches Lv. 50, Adjutants can receive 1 Additional Supply Pack for each level increase. Adjutants who have unlocked the Advanced Pass or Ultimate Pass can earn 1 Additional Supply Pack. The number of Additional Supply Packs can be accumulated, and up to 10 levels of Additional Supply Packs can be claimed at once. If this amount is exceeded, Adjutants must claim them multiple times.\n4. The weekly Battle Pass EXP limit earned from weekly and daily missions is 10,000. Once this limit is reached, Adjutants can only earn EXP from seasonal missions. (EXP earned from seasonal missions does not count toward the weekly limit of 10,000 EXP.)						0	3.2通行证额外购买优化
+try_girl_test	1.在【队员试用】活动开启时间内，分析员可使用固定队员阵容进入指定关卡进行体验。\n2.试用的队员等级、搭配的武器与后勤小队仅为活动固定。\n3.场景中会掉落额外的能量瓶，方便分析员体验队员的爆发技。\n4.本活动内的同一关卡可多次体验，但仅首次通关可获取奖励。\n5.本活动关卡内增加了技能详情界面，分析员可通过关卡内的【暂停-技能详情】查看试用角色的技能信息。	1.在【隊員試用】活動開啟時間內，分析員可使用固定隊員陣容進入指定關卡進行體驗。\n2.試用的隊員等級、搭配的武器與後勤小隊僅為活動固定。\n3.場景中會掉落額外的能量瓶，方便分析員體驗隊員的爆發技。\n4.本活動內的同一關卡可多次體驗，但僅首次通關可獲得獎勵。\n5.本活動關卡內增加了技能詳情介面，分析員可透過關卡內的【暫停-技能詳情】查看試用角色的技能資訊。	1.【隊員お試し】イベント期間内に、分析員は指定された隊員で指定ステージを体験することができます。\n2.隊員Lv、武器と後方支援はすべて固定になります。\n3.ステージ内に追加で促進剤がドロップし、隊員の爆発技が体験可能です。\n4.イベント内の同じステージは繰り返し体験することは可能ですが、初クリア報酬のみ獲得できます。\n5.本イベントのステージ内にスキル詳細画面が追加されるので、【一時停止-スキル詳細】で隊員のスキルを確認できます。	1. [캐릭터 체험] 이벤트 오픈 기간에는 고정 팀원을 스쿼드로 배치해 지정 스테이지를 체험할 수 있다.\n2. 체험하는 캐릭터의 레벨, 조합 무기, 그리고 지원 소대는 해당 이벤트에서만 적용할 수 있다.\n3. 팀원의 특수 스킬을 더욱 편하게 체험할 수 있도록, 필드에는 에너지 포션이 추가로 드롭된다.\n4. 해당 이벤트에서 제공하는 스테이지는 동일하게 반복 체험할 수 있고, 보상은 첫 클리어 시에만 수령할 수 있다.\n5. 이벤트 스테이지에서는 상세하게 서술한 스킬 정보 화면을 확인할 수 있다. 또한 스테이지의 [일시 정지-스킬 정보]를 통해 캐릭터 체험의 스킬 정보를 확인할 수 있다.	1. During the Operative Trial event, you can enter designated stages with a fixed team of operatives to test them out.\n2. Operative levels, corresponding weapons, and logistics squads are only fixed for the event.\n3. Additional Energy Drinks will drop to help you conveniently test out the Ultimate Skills of different operatives.\n4. Stages can be played multiple times in this event, but rewards can only be earned the first time a stage is cleared.\n5. A Skill Details screen has been added to the stages in this event. You can check information about the trial operatives' skills by selecting Skill Details in the Pause Menu.						0	
+try_girl_test1	1.【时装试用】活动期间，分析员可进入指定关卡，使用固定队员阵容进行体验。\n2. 试用队员的时装、等级，以及配备武器及后勤小队都仅限活动内使用。\n3. 试用关卡中会额外掉落能量瓶，以便分析员体验队员的技能演出效果。\n4. 本活动内，同一关卡可重复多次体验，仅首次通关可领取奖励。\n5. 本次活动关卡中，敌方目标会不断出现，在击败第一波次敌方目标后，移动至黄色区域即可退出该关卡，并且首次通关时可获得奖励。	1.【時裝試用】活動期間，分析員可以進入指定關卡，使用固定的隊員陣容進行體驗。\n2.試用隊員的時裝、等級、配備武器和後勤小隊都僅限於活動內使用。\n3.試用關卡中會額外掉落能量瓶，以利分析員體驗隊員的技能演出效果。\n4.本活動中，同一關卡可以重複體驗，但僅有首次通關才能領取獎勵。\n5.活動關卡中的敵方會不斷湧現，在擊敗第一波敵方目標後，移動至黃色區域即可退出該關卡，且首次通關時可獲得首通獎勵。	1.【衣装お試し】イベント期間中、指定のステージで決められた編成で隊員をお試しできます。\n2. お試し隊員の衣装・Lv・装備武器と後方支援チームはイベント以外で使用できません。\n3. お試しステージでは、隊員のスキル演出を見られるよう促進剤が追加でドロップします。\n4. イベント期間中、同じステージを重複してプレイすることができますが、報酬は初クリア時のみもらえます。\n5. お試しステージでは、敵が次々と現れます。第1WAVEの敵を撃破後、黄色いエリアに移動するとステージを終了できます。初クリア時に報酬がもらえます。	1. [스킨 체험] 이벤트 기간 중, 분석가는 지정된 스테이지에서 지정된 팀원으로 스킨을 체험할 수 있다.\n2. 체험 팀원의 스킨, 레벨 및 장착 무기와 지원 소대는 전부 이벤트 중에서만 사용할 수 있다.\n3. 체험 스테이지에서는 에너지 포션이 추가로 드롭되어 팀원의 스킬 이펙트를 더욱 편리하게 확인할 수 있다.\n4. 해당 이벤트 진행 중, 동일한 스테이지를 여러 번 체험해 볼 수 있으며, 첫 클리어 시에만 보상을 받을 수 있다.\n5. 해당 이벤트 스테이지에서는 타깃이 끊임없이 등장한다. 1웨이브 타깃을 처치하고 옐로 구역으로 이동하면 스테이지를 종료할 수 있으며, 첫 클리어 시 보상이 지급된다.	1. During the Outfit Trial event, you can enter designated stages with a fixed team of operatives to test them out.\n2. Operative outfits, levels, corresponding weapons, and logistics squads are limited to the event.\n3. Additional Energy Drinks will drop to help you conveniently test out the skills of different operatives.\n4. Stages can be played multiple times in this event, but rewards can only be earned the first time a stage is cleared.\n5. Enemies will continue to spawn in the event stage. After defeating the first wave of enemies, advance to the yellow area to exit the stage and earn rewards upon the first completion.						0	
+try_girl_Name1	肴-冬至试用	肴-冬至試用	肴-冬至お試し	야오-동지 체험	Trial: Yao - Winter Solstice						0	
+try_girl_Name2	里芙-狂猎试用	里芙-狂獵試用	リフ-ワイルドハントお試し	리브-와일드 헌터 체험	Trial: Lyfe - Wild Hunt						0	
+try_girl_Name3	辰星-云篆试用	辰星-雲篆試用	辰星-雲篆お試し	수성-미스트 체험	Trial: Chenxing - Ethereal Cloud						0	
+try_girl_Name4	瑟瑞斯试用	瑟瑞斯試用	シーリスお試し	세리스 체험	Trial: Siris						0	
+try_girl_Name5	安卡希雅-辉夜试用	安卡希雅-輝夜試用	アカシア-輝夜お試し	아카시아-카구야 체험	Trial: Acacia - Kaguya						0	
+try_girl_Name6	行疾脱兔-时装试用	動如脫兔-時裝試用	ウサ耳ちゃん—衣装お試し	날렵한 토끼-스킨 체험	Nimble Hare - Outfit Trial						0	
+try_girl_Name7	凛冽冬花-时装试用	凜冽冬花-時裝試用	凛冽冬花—衣装お試し	서리 꽃-스킨 체험	Frostbite Flora - Outfit Trial						0	
+try_girl_Name8	蜂刺蔷薇-时装试用	尖刺薔薇-時裝試用	黒壇・紅薔薇—衣装お試し	비스팅 로즈-스킨 체험	Stinging Rose - Outfit Trial						0	
+try_girl_Name9	芙提雅-缄默试用	芙提雅-緘默試用	フリティア-ベラドンナお試し	프티야-사일런트 체험	Fritia - Hush Trial						0	
+try_girl_Name10	晴-藏锋试用	晴-藏鋒試用	晴-蔵鋒お試し	하루-히든 블레이드 체험	Haru - Absconditus Trial						0	
+try_girl_Name11	猫汐尔-溯影试用	貓汐爾-溯影試用	マーシル-トレーサビリティお試し	캣 시에라-트레이스 체험	Extract: Mauxir - Shadow Ka						0	
+try_girl_Name12	安卡希雅-辉夜试用	安卡希雅-輝夜試用	アカシア-輝夜お試し	아카시아-카구야 체험	Trial: Acacia - Kaguya						0	
+try_girl_Name13	灼阳假期-时装试用	炙熱假期-時裝試用	海ネコちゃん—衣装お試し	버닝 홀리데이-스킨 체험	Outfit Trial: Sizzling Holiday						0	
+try_girl_Name14	波光倩影-时装试用	波光瀲灩-時裝試用	波光倩影—衣装お試し	웨이브 크레스트-스킨 체험	Outfit Trial: Wavecrest Glimmer						0	
+try_girl_Name15	情迷炎日-时装试用	迷情烈日-時裝試用	お姉サマー—衣装お試し	미스 선샤인-스킨 체험	Outfit Trial: Sultry Sunshine						0	
+try_girl_Name16	一掷千金-时装试用	一擲千金-時裝試用	ゲームマスター—衣装お試し	하이 롤러-스킨 체험	Outfit Trial: High Roller						0	
+try_girl_Name17	不灭残辉-时装试用	不滅殘輝-時裝試用	不滅の残業—衣装お試し	불멸의 빛-스킨 체험	Outfit Trial: Enduring Valor						0	
+try_girl_Name18	粼粼尾浪-时装试用	浪潮粼粼-時裝試用	夏季休暇専用—衣装お試し	스파클링 스웰-스킨 체험	Outfit Trial: Sparkling Swell						0	
+try_girl_Name19	流放欢愉-时装试用	歡快荒原-時裝試用	ロストユートピア—衣装お試し	유배의 희열-스킨 체험	Outfit Trial: Merry-in-Exile						0	
+try_girl_Name20	霜舞盛典-时装试用	霜雪盛會-時裝試用	フローズンフローラ—衣装お試し	서릿빛 축제-스킨 체험	Outfit Trial: Ice Dancer						0	
+try_girl_Name21	初晴金雪-时装试用	珂雪璀璨-時裝試用	黄金に輝く雪姫—衣装お試し	슬로프 디바-스킨 체험	Outfit Trial: Slopestyle Diva						0	
+try_girl_Name22	雪岭焰行-时装试用	雪嶺疾行-時裝試用	氷原疾駆—衣装お試し	스노우 슬레딩-스킨 체험	Outfit Trial: Snowridge Sledding						0	
+try_girl_Name23	苔丝试用	黛斯試用	テスお試し	테스 체험	Trial: Tess						0	
+try_girl_Name24	凯茜娅试用	凱茜婭試用	カーシアお試し	캐시아 체험	Katya Trial						0	
+try_girl_Name25	远曲独舞-时装试用	遠曲獨舞-時裝試用	月光のホロス—衣装お試し	솔로 댄스-스킨 체험	Outfit Trial: Graceful Danseuse						0	
+try_girl_Name26	狂曲雅跃-时装试用	狂曲雅躍-時裝試用	礼砲と黒鳥—衣装お試し	광란의 곡조-스킨 체험	Outfit Trial: Symphony of Frenzy						0	
+try_girl_Name27	循风谍舞-时装试用	循風諜舞-時裝試用	風隠れ舞踏会—衣装お試し	바람의 첩자-스킨 체험	Outfit Trial: Covert Zephyr						0	
+try_girl_Name28	不灭傲姿-时装试用	不滅傲姿-時裝試用	不滅の麗姿—衣装お試し	불멸의 자태-스킨 체험	Outfit Trial: Indomitable Charm						0	
+try_girl_Name29	宵宴绯盏-时装试用	宵宴緋盞-時裝試用	宵闇の宴—衣装お試し	나이트 컨벤션-스킨 체험	Outfit Trial: Nightfall Scarlet						0	
+try_girl_Name30	东流映荷-时装试用	東流映荷-時裝試用	魔法少女レンゲちゃん—衣装お試し	연꽃의 매혹-스킨 체험	Outfit Trial: Allure of Lotus						0	
+try_girl_Name31	伊切尔试用	伊切爾試用	イチェルお試し	이첼 체험	Trial: Eatchel						0	
+try_girl_Name32	甜蜜统治-时装试用	甜蜜統治-時裝試用	シュガークイーン—衣装お試し	슈가 퀸-스킨 체험	Outfit Trial: Sugar Queen						0	
+try_girl_Name33	迟到花蕾-时装试用	遲到花蕾-時裝試用	遅咲きの青春—衣装お試し	플라워 버드-스킨 체험	Outfit Trial: Overdue Radiance						0	
+try_girl_Name34	街头规则-时装试用	街頭規則-時裝試用	ストリートコード—衣装お試し	스트릿 코드-스킨 체험	Outfit Trial: Street Code						0	
+try_girl_Name35	琴诺-悖谬试用	琴諾-悖謬試用	チェルノ-二律背反お試し	체르노-에니그마 체험	Trial: Cherno - Enigma						0	
+try_girl_Name36	恩雅-羽蜕试用	恩雅-羽蛻試用	エンヤ-羽化の儀お試し	엔야-엑수비아 체험	Trial: Enya - Exuvia						0	
+try_girl_Name37	见习侍奉-时装试用	見習侍奉-時裝試用	見習いメイド—衣装お試し	견습 메이드-스킨 체험	Outfit Trial: Apprentice Maid						0	
+try_girl_Name38	轻语疗法-时装试用	輕語療法-時裝試用	ウィスパーキュア—衣装お試し	키스 테라피-스킨 체험	Outfit Trial: Kiss Be the Remedy						0	
+try_girl_Name39	秘密约会-时装试用	秘密約會-時裝試用	シークレットデート—衣装お試し	시크릿 데이트-스킨 체험	Outfit Trial: Secret Date						0	
+try_girl_Name40	瑟瑞斯-瞬刻试用	瑟瑞斯-瞬刻試用	シーリス-刹那お試し	세리스-크샤나 체험	Trial: Siris - Ksana						0	
+try_girl_Name41	须臾蹁跹-时装试用	須臾婆娑-時裝試用	一時の儚き夢—衣装お試し	순간의 자태-스킨 체험	Outfit Trial: Flutter of Ecstasy						0	
+try_girl_Name42	贴身特助-时装试用	貼身助理-時裝試用	優秀な助手—衣装お試し	밀착 서비스-스킨 체험	Outfit Trial: Private Secretary						0	
+try_girl_Name43	不灭耀心-时装试用	不滅耀心-時裝試用	不滅の耀心—衣装お試し	불멸의 다짐-스킨 체험	Outfit Trial: Unfading Glow						0	
+try_girl_Name44	喵步巧跃-时装试用	貓步巧躍-時裝試用	猫脚ジャンプ—衣装お試し	사뿐한 도약-스킨 체험	Outfit Trial: Feline Grace						0	
+try_girl_Name45	里芙-无限之视试用	里芙-無限之視試用	リフ-ムゲン知眼お試し	리브-인피니트 비전 체험	Trial: Lyfe - Infinite Sight						0	
+try_girl_Name46	芬妮-辉耀试用	芬妮-輝耀試用	ファニー-光輝お試し	페니-스타샤인 체험	Trial: Fenny - Starshine						0	
+try_girl_Name47	爱意凝晶—时装试用	愛意凝晶-時裝試用	愛おしい氷晶—衣装お試し	사랑의 결정-스킨 체험	Outfit Trial: Frozen in Love						0	
+try_girl_Name48	绽于恋时—时装试用	綻於戀時-時裝試用	満開な恋心—衣装お試し	싹트는 사랑-스킨 체험	Outfit Trial: Flourish of Heart						0	
+try_girl_Name49	绯染夜幕—时装试用	緋染夜幕-時裝試用	緋染めの夜—衣装お試し	크림슨 나이트-스킨 체험	Outfit Trial: Midnight Rose						0	
+try_girl_Name50	归航一心—时装试用	歸航一心-時裝試用	星旅の帰途—衣装お試し	커밍백-스킨 체험	Outfit Trial: Devoted Voyager						0	
+try_girl_Name51	绒绒漫步—时装试用	絨絨漫步-時裝試用	疾速ヒョウ—衣装お試し	사뿐한 걸음-스킨 체험	Outfit Trial: Fluffy Ollie						0	
+try_girl_Name52	薇蒂雅-龙舌兰试用	薇蒂雅-龍舌蘭試用	ヴィディア-アガベお試し	비디야-아가베 체험	Trial: Vidya - Agave						0	
+try_girl_Name53	翠翎倩姿—时装试用	翠翎倩姿—時裝試用	紫羽の風情—衣装お試し	깃털의 자태-스킨 체험	Outfit Trial: Plumed Beauty						0	
+try_girl_Name54	点墨化龙—时装试用	點墨化龍—時裝試用	龍の墨跡—衣装お試し	점묘화룡-스킨 체험	Outfit Trial: Inkstroke Dragoness						0	
+try_girl_Name55	不灭榜首—时装试用	不滅榜首—時裝試用	不滅のエース—衣装お試し	불멸의 순위-스킨 체험	Outfit Trial: Unbeatable Rank						0	
+try_girl_Name56	治愈准则—武器外观试用	治癒準則—武器塗裝試用	治癒の規則—武器塗装お試し	치유 원칙—무기 스킨 체험	Weapon Skin Trial: Sensual Care						0	
+try_girl_Name57	凯茜娅-朝翼试用	凱茜婭-朝翼試用	カーシア-朝翼お試し	캐시아-여명의 날개 체험	Trial: Katya - Dawnwing						0	
+try_girl_Name58	茉莉安-幽潮试用	茉莉安-幽潮試用	マリアン-幽潮お試し	마리안-고요한 물결 체험용	Trial: Marian - Riptide						0	
+try_girl_Name59	沐浪倦姿—时装试用	沐浪倦姿—時裝試用	倦姿のひと波—衣装お試し	서프사이드 레저-스킨 체험	Outfit Trial: Surfside Leisure						0	
+try_girl_Name60	灿阳一刻—时装试用	燦陽一刻-時裝試用	絢爛のひと刻—衣装お試し	찬란한 순간-스킨 체험	Outfit Trial: Radiant Sunkiss						0	
+try_girl_Name61	浅憩之处—时装试用	淺憩之處-時裝試用	安心のひと息—衣装お試し	편안한 쉼터-스킨 체험	Outfit Trial: Seacove Serenity						0	
+try_girl_Name62	静聆潮韵—时装试用	靜聆潮韻-時裝試用	潮聴のひと紅—衣装お試し	잔잔한 파도 소리-스킨 체험	Outfit Trial: Tidal Whispers						0	
+try_girl_Name63	芙提雅-驰掣试用	芙提雅-馳掣試用	フリティア-ドトウお試し	프티야-터보 체험	Trial: Fritia - Turbo						0	
+try_girl_Name64	毛绒派对—时装试用	毛絨派對—時裝試用	もふもふベア—衣装お試し	플러시 파티-스킨 체험	Outfit Trial: Plush Party						0	
+try_girl_Name65	斑斓水色—时装试用	斑斕水色—時裝試用	彩る水の綾—衣装お試し	화려한 물색-스킨 체험	Outfit Trial: Underwater Hues						0	
+try_girl_Name66	不灭守望—时装试用	不滅守望—時裝試用	不滅の守護—衣装お試し	불멸의 수호-스킨 체험	Outfit Trial: Eternal Watch						0	
+try_girl_Name67	专属教练—时装试用	專屬教練—時裝試用	ヨガメンター—衣装お試し	전속 코치-스킨 체험	Outfit Trial: Exclusive Trainer						0	
+try_girl_Name68	卜卜-小天师试用	卜卜-小天師試用	ブブ-天師お試し	보보-점술사 체험	Trial: Bubu - The Geomancer						0	2.4试玩
+try_girl_Name69	捕猎演习—时装试用	捕獵演習—時裝試用	狩りの予行練習—衣装お試し	사냥 훈련-스킨 체험	Outfit Trial: Prowl and Pounce						0	2.4试玩
+try_girl_Name70	清荷雅弈—时装试用	清荷雅弈—時裝試用	蓮薫る碁風—衣装お試し	청아한 연꽃의 대결-스킨 체험	Outfit Trial: Dual Tranquility						0	2.4试玩
+try_girl_Name71	秘密彩蛋—时装试用	秘密彩蛋—時裝試用	Danger Dancer—衣装お試し	스페셜 댄스-스킨 체험	Outfit Trial: Special Surprise						0	2.4试玩
+try_girl_Name72	辰星-琼弦试用	辰星-瓊弦試用	辰星-玉弦お試し	수성-제이드 아크 체험	Trial: Chenxing - Jade Arc						0	2.5试玩
+try_girl_Name73	肴-夜天光试用	肴-夜天光試用	肴-夜天光お試し	야오-나이트 글로우 체험	Trial: Yao - Nightglow						0	2.5试玩
+try_girl_Name74	欣描红妆—时装试用	欣描紅妝—時裝試用	紅く華やぐ新粧—衣装お試し	적색의 환희-스킨 체험	Outfit Trial: Rouge Bliss						0	2.5试玩
+try_girl_Name75	暖夜情醺—时装试用	暖夜情醺—時裝試用	美酒佳肴—衣装お試し	황홀한 밤의 여운-스킨 체험	Outfit Trial: Tender Temptation						0	2.5试玩
+try_girl_Name76	金狮舞瑞—时装试用	金獅舞瑞—時裝試用	悦びの瑞獣—衣装お試し	골드 라이언 댄스-스킨 체험	Outfit Trial: Lucky Lioness						0	2.5试玩
+try_girl_Name77	纯白午后—时装试用	純白午後—時裝試用	Innocent 15:33—衣装お試し	순백의 오후-스킨 체험	Outfit Trial: Creamy Delight						0	2.5试玩
+try_girl_Name78	恩雅-澜风试用	恩雅-瀾風試用	エンヤ-瀾風お試し	엔야-템페스트 체험	Trial: Enya - Tempest						0	2.6试玩
+try_girl_Name79	望云清咏—时装试用	望雲清詠—時裝試用	雲への告解—衣装お試し	청아한 선율-스킨 체험	Outfit Trial: Pure Devotion						0	2.6试玩
+try_girl_Name80	绒尾迷梦—时装试用	絨尾迷夢—時裝試用	お団子しっぽ—衣装お試し	몽환의 꼬리-스킨 체험	Outfit Trial: Bunny Fantasy						0	2.6试玩
+try_girl_Name81	舞夜与焰—时装试用	舞夜與焰—時裝試用	夜と舞踏と焔—衣装お試し	화염의 춤-스킨 체험	Outfit Trial: Dance by Firelight						0	2.6试玩
+try_girl_Name82	草莓甜心—时装试用	草莓甜心—時裝試用	いちごハニー—衣装お試し	달콤한 딸기-스킨 체험	Outfit Trial: Strawberry Sweet						0	2.6试玩
+try_girl_Name83	不灭银星—时装试用	不滅銀星—時裝試用	不滅の銀星—衣装お試し	불멸의 은성-스킨 체험	Outfit Trial: Unbreakable Silver						0	2.6试玩
+try_girl_Name84	奈莉德-冥河代理人试用	奈莉德-冥河代理人試用	ネリーダ-ステュクスの渡し守お試し	네리다-명계의 사자 체험	Trial: Nerida - Styx Envoy						0	2.7试玩
+try_girl_Name85	晨曦统令—时装试用	晨曦統令-時裝試用	Dawn's Command—衣装お試し	여명의 지휘-체험 스킨	Outfit Trial: Dawn's Command						0	2.7试玩
+try_girl_Name86	林间潋滟—时装试用	林間瀲灩-時裝試用	緑滴る清流—衣装お試し	숲속의 영혼-체험 스킨	Outfit Trial: Sylvan Spirit						0	2.7试玩
+try_girl_Name87	绮锦流韵—时装试用	綺錦流韻-時裝試用	流るる錦綺—衣装お試し	우아한 품격-체험 스킨	Outfit Trial: Classy Elegance						0	2.7试玩
+try_girl_Name88	元气愈养—时装试用	元氣癒養-時裝試用	元気の守り手—衣装お試し	활력 점검-스킨 체험	Outfit Trial: Vitality Checkup						0	2.7试玩
+try_girl_Name89	暧馨侍奉—时装试用	曖馨侍奉-時裝試用	温かなご奉仕—衣装お試し	정갈한 메이드-체험 스킨	Outfit Trial: Tidy Marksmaid						0	2.7试玩
+try_girl_Name90	疾速耀星—时装试用	疾速耀星-時裝試用	駆けよ明星—衣装お試し	니트로 노바-체험 스킨	Outfit Trial: Nitro Nova						0	2.7试玩
+try_girl_Name91	薇蒂雅-天鹅座试用	薇蒂雅-天鵝座試用	ヴィディア-シグナスお試し	비디야-시그너스 체험	Trial: Vidya - Celestial Swan						0	2.8试玩
+try_girl_Name92	云端之邀—时装试用	雲端之邀—時裝試用	雲上の誘い—衣装お試し	환상의 비행-스킨 체험	Outfit Trial: Flight of Fantasy						0	2.8试玩
+try_girl_Name93	泳池护卫—时装试用	泳池護衛—時裝試用	安全の守り手—衣装お試し	수영장 순찰대-스킨 체험	Outfit Trial: Pool Patrol						0	2.8试玩
+try_girl_Name94	慵倚花阴—时装试用	慵倚花蔭—時裝試用	花陰に宿る夢—衣装お試し	만개한 꽃-스킨 체험	Outfit Trial: Full Bloom						0	2.8试玩
+try_girl_Name95	引风飒意—时装试用	引風颯意—時裝試用	銀に靡く風—衣装お試し	바람의 노래-스킨 체험	Outfit Trial: Ride the Breeze						0	2.8试玩
+try_girl_Name96	不灭恒忆—时装试用	不滅恆憶—時裝試用	不滅の想い—衣装お試し	불멸의 기억-스킨 체험	Outfit Trial: Persistent Memory						0	2.8试玩
+try_girl_Name97	凯茜娅-狂诗试用	凱茜婭-狂詩試用	カーシア-ラプソディお試し	캐시아-랩소디 체험	Trial: Katya - Rhapsody						0	3.0试玩
+try_girl_Name98	苔丝-绮幻试用	黛斯-綺幻試用	テス-ファンタジアお試し	테스-판타지아 체험	Trial: Tess - Phantasia						0	3.0试玩
+try_girl_Name99	星抚恋音—时装试用	星撫戀音—時裝試用	星降る夜に—衣装お試し	별빛 서약-스킨 체험	Outfit Trial: Starlove Vow						0	3.0试玩
+try_girl_Name100	恋如花舞—时装试用	戀如花舞—時裝試用	咲く恋花の如く—衣装お試し	그대만의 블러썸-스킨 체험	Outfit Trial: Blossom for You						0	3.0试玩
+try_girl_Name101	畅饮狂欢—时装试用	暢飲狂歡—時裝試用	歓酔ノ宵—衣装お試し	버블 파티-스킨 체험	Outfit Trial: Fizzy Revelry						0	3.0试玩
+try_girl_Name102	秘密侍奉—时装试用	秘密侍奉—時裝試用	秘密ご奉仕—衣装お試し	시크릿 메이드-스킨 체험	Outfit Trial: Intimate Maid						0	3.0试玩
+try_girl_Name103	甜蜜困扰—时装试用	甜蜜困擾—時裝試用	幸せな悩み—衣装お試し	패션 딜레마-스킨 체험	Outfit Trial: Fashion Dilemma						0	3.0试玩
+try_girl_Name104	克罗瑞娜-绯月试用	克羅瑞娜-緋月試用	クラウリナ-緋月お試し	클라리나-크림슨 문 체험	Trial: Clarina - Crimson Moon						0	3.1试玩
+try_girl_Name105	皎月幽祈—时装试用	皎月幽祈—時裝試用	白月の祈り—衣装お試し	월광의 천사-스킨 체험	Outfit Trial: Moonbeam Angel						0	3.1试玩
+try_girl_Name106	轻罗曼舞—时装试用	輕羅曼舞—時裝試用	薄絹の舞姫—衣装お試し	실크 댄스-스킨 체험	Outfit Trial: Silken Dance						0	3.1试玩
+try_girl_Name107	共待曙明—时装试用	共待曙明—時裝試用	二人の黎明—衣装お試し	경계의 여명-스킨 체험	Outfit Trial: Vigilant Dawn						0	3.1试玩
+try_girl_Name108	雨沁轻衫—时装试用	雨沁輕衫—時裝試用	五月雨の服—衣装お試し	은은한 보슬비-스킨 체험	Outfit Trial: Drizzle Gossamer						0	3.1试玩
+try_girl_Name109	不灭灵影—时装试用	不滅靈影—時裝試用	不滅の霊影—衣装お試し	불멸의 영혼-스킨 체험	Outfit Trial: Undying Spirit						0	3.1试玩
+try_girl_Name110	芬妮-澄意试用	芬妮-澄意試用	ファニー-澄心お試し	페니-퓨어하트 체험	Trial: Fenny - Pureheart						0	3.2试玩
+try_girl_Name111	瑟瑞斯-悠游试用	瑟瑞斯-優游試用	シーリス-天遊お試し	세리스-프리핀 체험	Trial: Siris - Freefin						0	3.2试玩
+try_girl_Name112	夕晖蜜约—时装试用	夕暉蜜約—時裝試用	蜜味の夕焼け—衣装お試し	달콤한 노을-스킨 체험	Outfit Trial: Sunset Sweet						0	3.2试玩
+try_girl_Name113	碧波浮游—时装试用	碧波浮游—時裝試用	波に揺られて—衣装お試し	청아한 표류-스킨 체험	Outfit Trial: Azure Drift						0	3.2试玩
+try_girl_Name114	海境鲛梦—时装试用	海境鮫夢—時裝試用	泡沫夢幻—衣装お試し	해중 신기루-스킨 체험	Outfit Trial: Aqua Mirage						0	3.2试玩
+try_girl_Name115	热沙激浪—时装试用	熱沙激浪—時裝試用	白波と星の砂—衣装お試し	시원한 파도-스킨 체험	Outfit Trial: Sunspray Surge						0	3.2试玩
+try_girl_Name116	柔倚身畔—时装试用	柔倚身畔—時裝試用	素肌の感触—衣装お試し	텐더 어젠다-스킨 체험	Outfit Trial: Tender Agenda						0	3.2试玩
+try_girl_Name117	米娅-星彩试用	米婭-星彩試用	ミア-星彩お試し	미아-스타체이서 체험	Trial: Mia - Starchaser						0	3.3试玩
+try_girl_Name118	暗空魅影—时装试用	暗空魅影—時裝試用	魅惑の影—衣装お試し	미드나이트 헤이스트-스킨 체험	Outfit Trial: Midnight Heist						0	3.3试玩
+try_girl_Name119	清光虔愿—时装试用	清光虔願—時裝試用	純なる願い—衣装お試し	순수한 기도-스킨 체험	Outfit Trial: Purelight Wishes						0	3.3试玩
+try_girl_Name120	花间蝶踪—时装试用	花間蝶蹤—時裝試用	蝶花の舞—衣装お試し	플로럴 플러터-스킨 체험	Outfit Trial: Floral Flutter						0	3.3试玩
+try_girl_Name121	暖雾凝眸—时装试用	暖霧凝眸—時裝試用	夢霧—衣装お試し	레이스의 응시-스킨 체험	Outfit Trial: Gaze of Lace						0	3.3试玩
+try_girl_Name122	卜卜-灵鉴试用	卜卜-靈鑒試用	ブブ-霊鏡お試し	보보-미러 체험	Trial: Bubu - Specular Soul						0	3.4试玩
+try_girl_Name123	绮恋星灵—时装试用	綺戀星靈—時裝試用	きらら恋衣—衣装お試し	러브 요정-스킨 체험	Outfit Trial: Heartspell Magic						0	3.4试玩
+try_girl_Name124	喵语祈念—时装试用	喵語祈念—時裝試用	祈る子猫—衣装お試し	냥이의 기도-스킨 체험	Outfit Trial: Purrfect Prayer						0	3.4试玩
+try_girl_Name125	颂夜欢歌—时装试用	頌夜歡歌—時裝試用	聖夜の鈴—衣装お試し	미드나이트 캐럴-스킨 체험	Outfit Trial: Jingle of Joy						0	3.4试玩
+try_girl_Name126	恋恋秋行—时装试用	戀戀秋行—時裝試用	ゆく秋の語らい—衣装お試し	가을의 동행-스킨 체험	Outfit Trial: Fall for You						0	3.4试玩
+try_girl_Name127	不灭锋铭—时装试用	不滅鋒銘—時裝試用	不滅の剣心—衣装お試し	불멸의 각인-스킨 체험	Outfit Trial: Immortal Blade						0	3.4试玩
+try_girl_Name128	安卡希雅-时之重奏试用	安卡希雅-時之重奏試用	アカシア-時のアンサンブルお試し	아카시아-크로노 에코 체험	Trial: Acacia - Chrono Echo						0	3.5试玩
+try_girl_Name129	茉莉安-霄鹰试用	茉莉安-霄鷹試用	マリアン-雲上の鷹お試し	마리안-아퀼라 체험	Trial: Marian - Aquila						0	3.5试玩
+try_girl_Name130	缘音回响—时装试用	緣音迴響—時裝試用	縁結びの旋律—衣装お試し	인연의 메아리-스킨 체험	Outfit Trial: Echo of Destiny						0	3.5试玩
+try_girl_Name131	纯白恋羽—时装试用	純白戀羽—時裝試用	純白の恋羽—衣装お試し	퓨어 페더-스킨 체험	Outfit Trial: Purelove Plumage						0	3.5试玩
+try_girl_Name132	霄倾君怀—时装试用	霄傾君懷—時裝試用	蒼天の誓衣—衣装お試し	실크의 포옹-스킨 체험	Outfit Trial: Silkfin Embrace						0	3.5试玩
+try_girl_Name133	祥云徜戏—时装试用	祥雲徜戲—時裝試用	瑞雲の舞衣—衣装お試し	구름 놀이-스킨 체험	Outfit Trial: Frolic of Clouds						0	3.5试玩
+try_girl_Name134	游闲心舒—时装试用	遊閒心舒—時裝試用	潮風のくつろぎ—衣装お試し	마음의 여유-스킨 체험	Outfit Trial: Carefree Charm						0	3.5试玩
+try_girl_Name135	胧嫣-瑞狐试用	朧嫣-瑞狐試用	ロウエン-九尾の天狐お試し	로엔-디바인 폭스 체험	Trial: Longyan - Divine Fox						0	3.6试玩
+try_girl_Name136	珠光曳影—时装试用	珠光曳影—時裝試用	パールの光と影—衣装お試し	펄 얼루어-스킨 체험	Outfit Trial: Lustrous Pearls						0	3.6试玩
+try_girl_Name137	国主驾到—时装试用	國主駕到—時裝試用	王様のおなり—衣装お試し	군주 강림-스킨 체험	Outfit Trial: Empress Robe						0	3.6试玩
+try_girl_Name138	剑意逍遥—时装试用	劍意逍遙—時裝試用	剣よ瀟洒たれ—衣装お試し	신선놀음-스킨 체험	Outfit Trial: Celestial Edge						0	3.6试玩
+try_girl_Name139	轻纱暖寐—时装试用	輕紗暖寐—時裝試用	サテンの感触—衣装お試し	실크 라인-스킨 체험	Outfit Trial: Silky Slumber						0	3.6试玩
+try_girl_Name140	不灭柔情—时装试用	不滅柔情—時裝試用	不滅の温情—衣装お試し	불멸의 애정-스킨 체험	Outfit Trial: Unceasing Care						0	3.6试玩
+try_girl_Icon1	前往共鸣	前往共鳴	レゾナンス	공명하기	Echo						0	
+try_girl_Icon2	前往凭证	前往憑證	パスへ	패스 바로가기	Battle Pass						0	
+try_girl_Icon3	前往供应站	前往供應站	配給所へ	공급 센터 바로가기	Quartermaster						0	
+try_girl_Icon4	查看回馈	查看回饋	還元を確認	보상 보기	View Rebate						0	
+try_girl_Icon5	前往活动商店	前往活動商店	イベントショップへ	이벤트 상점 바로가기	Event Shop						0	
+try_girl_Icon6	查看员工惠利	查看員工福利	従業員割引の詳細	직원 복지 보기	View Employee Benefit						0	
+try_girl_Icon7	前往商店	前往商店	ショップへ	상점가기	Shop						0	
+try_girl_Icon8	前往签到	前往簽到	サインインへ	출석체크하기	Go						0	
+try_girl_Desc0	首次通关当前队员试用关卡，即可获取试用通过奖励	首次通關當前隊員試用關卡，即可獲取試用通過獎勵	お試しステージを初クリアすると、報酬を入手可能	현재 팀원으로 첫 체험 스테이지를 클리어할 시, 해당하는 보상을 수령할 수 있습니다.	Complete the trial of current operative to claim the rewards						0	
+ssrSelectRules	用于邀请里芙-狂猎、茉莉安-雨燕、芬妮-咎冠、肴-冬至、芙提雅-缄默中的任意1位队员加入队伍，是世界树对高级别分析员的特殊关照	用於邀請里芙-狂獵，茉莉安-雨燕，芬妮-咎冠，肴-冬至，芙提雅-緘默中的任意1位隊員加入隊伍，是世界樹對高級別分析員的特殊關照	リフ-ワイルドハント、マリアン-アマツバメ、ファニー-ユーフォルビアミリー、肴-冬至、フリティア-ベラドンナから1人をチームに招待するために使用する。ユグドラシル社から分析員への特別なプレゼントだ。	분석가에 대한 위그드라실의 특혜로 리브-와일드 헌터, 마리안-스위프트, 페니-크라운, 야오-동지, 프티야-사일런트 중 임의의 팀원 1명을 팀으로 초대할 수 있다.	Yggdrasil's special reward for the senior Adjutant. Invite one of the following operatives to join your squad: Lyfe - Wild Hunt, Marian - Swift, Fenny - Coronet, Yao - Winter Solstice, or Fritia - Hush.						1000	
+MianStoryTarget_name	指挥历程	指揮歷程	指揮のプロセス	지휘 여정	Makings of a Legend						0	
+Online2_des	超元链接-永续联战 限时开放	超元連結-永續聯戰 限時開放	メタバース‐永続連戦‐期間限定開放	하이퍼 링크-매칭 서바이벌 기간 한정 오픈	Gigalink - Endless Battle open for a limited time						0	
+Online2Finish	永续联战已关闭	永續聯戰已關閉	永続連戦が終了しました	매칭 서바이벌 종료	Endless Battle has ended						0	
+return_icon1	重逢增援	重逢增援	増援との邂逅	재회 증원	Reinforcements Reunion						0	
+return_icon2	回归签到	回歸簽到	カムバックキャンペーン	복귀 출석체크	Return Login						0	
+return_icon3	回归进程	回歸進度	カムバックミッション	복귀 여정	Return Progress						0	
+return_icon4	回归剧情	回歸劇情	カムバックストーリー	복귀 스토리	Return Story						0	
+return_template_1_des	回归活动期间，可领取数据金、通用银等奖励以及经验获取率提升持续效果\n回归活动期间，奖励仅可领取一次	回歸活動期間可領取數據金、通用銀等獎勵，以及提升經驗獲取率的持續效果\n回歸活動期間，獎勵僅可領取一次	カムバックキャンペーン期間中、報酬としてデジギボスやシルバギボスがもらえるほか、EXP獲得効率も持続的に上昇します。\nカムバックキャンペーン期間中、報酬は1回のみ受け取れます。	복귀 이벤트 기간 중 디지털 코인, 실버 코인 등 보상 및 경험치 획득률 증가 효과를 얻을 수 있다.\n복귀 이벤트 기간 중 보상은 단 1회만 수령 가능하다.	During the returnee event, you can claim rewards including DigiCash and SilverBuck, and you will obtain more EXP than normal.\nRewards can only be claimed once.						0	
+return_template_2_des	分析员等级＜80生效	分析員等級＜80生效	分析員Lv＜80で有効	분석가 레벨 80 미만일 시 적용	Takes effect below Adjutant Lv. 80						0	
+return_template_3_des	回归活动期间，每日登录即可领取对应奖励	回歸活動期間，每日登入即可領取對應獎勵	カムバックキャンペーン期間中、毎日ログインするだけで報酬を受け取れます。	복귀 이벤트 기간 동안 매일 로그인 시 그에 상응하는 보상을 수령할 수 있다.	Log in daily to claim rewards during the returnee event						0	
+return_template_4_des	解锁并完成当前阶段的所有任务后可领取	解鎖並完成當前階段的所有任務後可領取	現在の段階のすべてのミッションをクリア後に受け取れます。	현재 단계의 모든 미션을 오픈하고 완료하면 수령할 수 있다.	Obtained after unlocking and completing all tasks in the current phase						0	
+return_template_5_des	回归活动期间，可领取数据金、通用银等奖励\n回归活动期间，奖励仅可领取一次	回歸活動期間可領取數據金、通用銀等獎勵\n回歸活動期間，獎勵僅可領取一次	カムバックキャンペーン期間中、デジギボスやシルバギボスなどの報酬を1回のみ受け取れます。	복귀 이벤트 기간에 디지털 코인, 실버 코인 등 보상을 얻을 수 있다.\n복귀 이벤트 기간 중 보상은 단 1회만 수령 가능하다.	During the returnee event, claim rewards like DigiCash, SilverBuck, and more.\nRewards can only be claimed once during the returnee event.						0	
+return_template_6_des	【重逢增援】\n完成【回归签到】活动后即可领取全部奖励\n【回归签到】\n回归活动期间，每日登录即可获取奖励\n【回归进程】\n活动期间 ，回归进程每日解锁一个新阶段任务\n【参与条件】\n分析员等级达到30级\n连续未登录游戏天数≥14天\n非首次参与需距离上一次触发【归途道标】活动>42天\n	【重逢增援】\n完成【回歸簽到】活動後即可領取全部獎勵\n【回歸簽到】\n回歸活動期間，每日登入即可獲得獎勵\n【回歸進度】\n活動期間，回歸進度每日解鎖一個新的階段任務\n【參與條件】\n分析員等級達到30級\n未登入遊戲的連續天數≥14天\n非首次參與的玩家，距離上一次觸發【歸途指引】活動的天數＞42天者，才能參與本次活動	【増援との邂逅】\n【カムバックサインイン】クリアすると報酬をもらえる\n【カムバックサインイン】\nイベント期間中、毎日ログインするだけで報酬がもらえる。\n【カムバックミッション】\nイベント期間中、新しいステージが毎日開放される。\n【参加条件】\n分析員Lvが30に達する。\nログインしない連続日数が14日、または14日以上に達する\n初参加ではない場合、前回の【帰路への道標】参加から42日以上経過している必要がある。\n	[재회 증원]\n복귀 출석체크 후 모든 보상을 수령할 수 있습니다.\n[복귀 출석체크]\n복귀 기간 동안 매일 로그인하면 보상을 받을 수 있습니다.\n[복귀 여정]\n이벤트 기간 동안 매일 새로운 단계의 미션이 1개씩 오픈됩니다.(플레이어 로그인 유무와 무관)\n[참여 조건]\n분석가 레벨 Lv.30 달성.\n연속으로 게임에 로그인하지 않은 날 수≥14일\n최초 참여가 아닌 경우, 이전 [복귀 지표] 이벤트가 활성화되고 42일 이상 경과된 경우.\n	[Reinforcements Reunion]\nComplete the returnee login event to claim all of the rewards.\n[Return Login]\nDuring the event, log in each day to claim rewards.\n[Return Progress]\nDuring the event, new Return Progress phase missions will be unlocked each day.\n[Eligibility]\n1. Adjutant Lv. 30 or above\n2. Have not logged in for at least 14 days\n3. Repeat participation requires at least 42 days since your last Spirited Return event\n						0	
+return_button1	领取	領取	受取	수령	Claim						0	
+return_button2	阶段\%d	階段\%d	段階\%d	단계\%d	Phase\%d						0	
+dlc4house_detail1	恩雅&苔丝	恩雅&黛斯	エンヤ&テス	엔야&테스	Enya & Tess						0	
+dlc4house_detail2	豪华烘焙套组&精致茶组	豪華烘焙套裝&精緻品茶套裝	高級ベーカリーキット&精巧なティーセット	초호화 베이킹 세트&애프터눈 티 세트	Deluxe Baking Station & Elegant Tea Table Set						0	
+dlc4house_detail3	12.14-01.18 双人家具限时折扣中！	12/14-01/18 雙人傢俱特價中！	12月14日～1月18日、二人用の家具が期間限定で割引！	12.14-01.18 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 12/14–1/18!						0	
+drop1_des	优速整备期间，常规行动中【富饶之壶】、【百足之市】、【止战之人】、【重铸之炎】、【永冬之境】，每日前4次挑战可获得双倍资源。	在優加整備期間，常規行動中【富饒之壺】、【百足之市】、【止戰之人】、【重鑄之炎】、【永冬之境】，每日前4次挑戰可獲得雙倍資源。	【迅速整備】イベント期間中、ルーチン作戦で「豊穣の壺」「ムカデの市」「戦争を止める人」「再生の炎」「常冬の国」をクリアすると、報酬を2倍獲得できます。1日に利用できる回数は4回までとなります。	특수 정비 기간, 일반 전투 중 [풍요로운 주전자], [암시장], [피스 메이커], [재련의 화염], [프로즌 엠파이어]는 매일 4회 도전까지 자원을 2배 획득합니다.	During the Fast Prep event, your first 4 attempts in Pot of Plenty, Black Market, Peacemaker, Reforging Flames, and Realm of Eternal Winter operations each day will give double rewards.						0	
+road1_des	消耗理智值获取等量智识巡游度，兑换奖励	消耗感知獲得等量的知智巡遊度，可用來兌換獎勵	センスを消費して同等の巡回度を手に入れ、報酬と交換できます	이성 수치를 소모해 동등한 양의 지식 순회도를 획득하고 보상을 교환할 수 있습니다.	Consume Presence to get an equal amount of Patrol Progress and claim rewards						0	
+dlc5house_detail1	凯茜娅	凱茜婭	カーシア	캐시아	Katya						0	
+dlc5house_detail2	至臻藏品展柜&智能吧台	至臻藏品展示櫃&智慧吧台	極上コレクション展示棚&スマートカウンター	프리미엄 소장품 진열장&스마트 바 테이블	Perfect Display Case & Smart Counter						0	
+dlc5house_detail3	01.18-03.06 双人家具限时折扣中！	01/18-03/06 雙人傢俱特價中！	01.18-03.06　家具期間限定割引中！	01.18-03.06 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 1/18–3/6!						0	
+ChatActivity	聊门作战										1000	海外不上这个活动，不用翻译
+dlc6house_detail1	伊切尔	伊切爾	イチェル	이첼	Eatchel						0	
+dlc6house_detail2	智能黑板套组&「大魔王」游戏机	智能黑板套組&「大魔王」遊戲機	スマート電子黒板セット&「大魔王」ゲーム機	스마트 칠판 세트&[대마왕] 게임기	Smart Board Set & Daimaou Game Console						0	
+dlc6house_detail3	03.07-04.17 双人家具限时折扣中！	03/07-04/17 雙人傢俱特價中！	03.07-04.17　家具期間限定割引中！	03.07-04.17 2인 가구 한정 할인 중!	Limited-Time Discount 3/7–4/17!						0	
+dlc7house_detail1	妮塔	妮塔	ニタ	니타	Nita						0	
+dlc7house_detail2	精装藏书角&专业特训跑步机	精裝藏書角&專業特訓跑步機	豪華本棚&業務用ランニングマシン	럭셔리 책장 코너&전문가용 러닝머신	Exquisite Bookshelf Corner & Professional Treadmill						0	
+dlc7house_detail3	04.18-05.29 双人家具限时折扣中！	04/18-05/29 雙人傢俱特價中！	04.18-05.29　家具期間限定割引中！	04.18-05.29 2인 가구 기간한정 할인!	Limited-Time Discount 4/18–5/29!						0	
+dlc8house_detail	高级造景鱼缸&温馨餐桌椅组合\n高级飞镖套装&健身器械组合\n05.30-07.10 双人家具限时折扣中！	高級造景魚缸&溫馨餐桌椅組合\n高級飛鏢套裝&健身器材組合\n05.30-07.10 雙人傢俱限時折扣中！	高級アクアリウム&家庭食卓セット\n上級ダーツセット&トレーニング器具セット\n5/30-7/10　家具期間限定割引中！	프리미엄 조경 어항&아늑한 식탁 의자 세트&프리미엄 다트 세트&피트니스 장비 세트\n05.30-07.10 2인용 가구 기간한정 특가 진행 중!	Choice Aquascaping Tank & Homely Dining Table Set\nPremium Dart Set & Home Gym Set\nLimited-Time Discount 5/30–7/10!						0	
+dlc9house_detail	基地全新区域疗愈中心开放\n疗愈中心家具上新\n神经调理玩法开放	基地全新區域療癒中心開放\n療癒中心傢俱上新\n神經調理玩法開放	社員寮の新エリア「ヒールサロン」が開放\n専属家具登場\nゲームプレイ「神経ケア」開放	숙소 신규 구역 힐링 센터 오픈\n힐링 센터 가구 신규 입고\n신경 치표 콘텐츠 오픈	New Base Area: Healing Center\nNew Furniture in Healing Center\nNew Gameplay: Neuronics Therapy						0	
+dlc2.5house_detail	基地全新区域温泉中心开放\n赢取全新家具，打造美好空间\n与少女游戏，享受独特的放松体验	基地全新區域溫泉中心開放\n贏取全新傢俱，打造美好空間\n與少女遊戲，享受獨特的放鬆體驗	社員寮の新エリア「湯けむりの郷」が開放\n新しい家具で、素敵な社員寮を\n少女と一緒に、独特なリラックス体験を楽しもう	숙소에 새로운 온천 센터가 오픈되었습니다. 신규 가구를 얻어 멋진 공간을 꾸며보세요.\n소녀들과 게임을 하며 독특한 힐링 경험을 즐겨보세요.	The brand-new Hot Spring Retreat is now open at the Base!\nWin exclusive furniture, create your perfect getaway.\nShare relaxing moments with the girls.						0	DLC2.5宿舍
+dlc3.0house_detail	基地全新区域暖调闲聚开放\n与少女浪漫小聚，享受慵懒一刻\n牌局对战之间，解锁丰富家具	基地全新區域暖調閒聚開放\n與少女浪漫小聚，享受慵懶一刻\n牌局對戰之間，解鎖豐富傢俱	社員寮の新エリア「Bistro メロウ」が開放\nロマンチックなひととき、彼女とゆったりと過ごそう～\n対戦の合間にオシャレな家具を入手！	숙소 신규 구역 [아늑한 비스트로] 오픈! \n소녀와의 로맨틱한 만남과 함께 여유로운 시간을 즐겨 보세요~\n카드놀이와 함께 다양한 가구를 해제하세요!	A brand-new Cozy Parlor is now open at the Base.\nEnjoy a relaxing getaway and romantic hangouts with the girls.\nUnlock a variety of furniture by playing card games						0	DLC3.0宿舍
+dlc3.2house_detail	<span color="#E3F6FF">基地全新区域恋风漪岸开放</>\n<span color="#E3F6FF">与少女戏沙逐浪，享受恋恋海风</>\n<span color="#E3F6FF">一起制作冰趣甜品，解锁丰富沙滩家具</>	<span color="#E3F6FF">基地全新區域戀風漪岸開放</>\n<span color="#E3F6FF">與少女戲沙逐浪，享受戀戀海風</>\n<span color="#E3F6FF">一起製作冰趣甜點，解鎖豐富沙灘傢俱</>	<span color="#E3F6FF">社員寮の新エリア「恋ヶ浜」が開放！</>\n<span color="#E3F6FF">少女たちと砂遊びや波乗りを楽しみ、恋の風を満喫しよう</>\n<span color="#E3F6FF">一緒にひんやりスイーツを作り、ビーチ家具を解放しよう</>	<span color="#E3F6FF">숙소 신규 구역 브리즈하트 베이가 오픈되었습니다.</>\n<span color="#E3F6FF">소녀들과 함께 모래사장에서 뛰놀면서, 애정 가득한 바닷바람을 만끽해 보세요.</>\n<span color="#E3F6FF">함께 시원한 여름 디저트를 만들면서 다양한 해변 가구를 해제해 보세요.</>	<span color="#E3F6FF">The new area Breezeheart Bay is now open at the Base.</>\n<span color="#E3F6FF">Play in the sand and waves with the girls while enjoying the sea breeze.</>\n<span color="#E3F6FF">Make frosty treats together and unlock fun beach furniture!</>						0	DLC3.2宿舍
+dlc3.5house_detail	<span color="#f3f0f5">【推币大赢家】在“电玩次元”邂逅少女游戏身影，更要来一场酣畅游戏！分析员将在少女的助阵下畅爽推币，引爆属于你的硬币瀑布！</>	<span color="#f3f0f5">【推幣大贏家】在「電玩次元」邂逅少女遊戲身影，更要來一場酣暢遊戲！分析員將在少女的助陣下暢爽推幣，引爆屬於你的硬幣瀑布！</>	<span color="#f3f0f5">【コインラッシュ】「ゲーム次元」で少女に出会い、思いきり楽しもう！少女の応援を受けて、滝のようにコインを落とそう！</>	<span color="#f3f0f5">[코인 부자]와 '게임 차원' 속 소녀의 모습, 짜릿한 게임이 시작되려고 합니다! 소녀의 지원과 함께 코인을 밀어내어 분석가님만의 코인 폭포를 만들어 보세요!</>	<span color="#f3f0f5">Coin Champ: Step into the Arcaverse and enjoy thrilling arcade fun with the girls! With them cheering you on, unleash a spectacular cascade of coins</>						0	DLC3.5宿舍
+dlc10house_detail1	薇蒂雅	薇蒂雅	ヴィディア	비디야	Vidya						0	
+dlc10house_detail2	双人观影套组	雙人觀影套組	二人用映画鑑賞セット	2인 영화 관람 패키지	Two-Person Home Theater						0	
+dlc10house_detail3	08.22-09.25 双人家具限时折扣中！	08/22-09/25 雙人傢俱特價中！	08.22～09.25　二人用家具の期間限定割引中！	08.22-09.25 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 8/22–9/25!						0	
+dlc11house_detail1	茉莉安&凯茜娅	茉莉安&凱茜婭	マリアン＆カーシア	마리안&캐시아	Katya and Marian						0	
+dlc11house_detail2	蒙眼辨物&独家留影	蒙眼辨物&獨家留影	目隠しゲーム＆独占写真	블라인드 게임&셀피 촬영	Blindfold Game and Selfie Shoot						0	
+dlc11house_detail3	09.26-11.06 双人家具限时折扣中！	09.26-11.06 雙人傢俱限時折扣中！	09.26～11.06 期間限定割引中！	09.26-11.06 2인 가구 기간한정 할인!	Limited-Time Discount 9/26–11/06!						0	
+dlc12house_detail1	里芙&芬妮	里芙&芬妮	リフ＆ファニー	리브&페니	Lyfe and Fenny						0	DLC2.3宿舍
+dlc12house_detail2	亲密相伴&甜蜜揉捏	親密相伴&甜蜜揉捏	親密な癒し＆甘いマッサージ	애정 표현&달콤한 손길	Intimate Caress and Sweet Foot Rub						0	DLC2.3宿舍
+dlc12house_detail3	11.07-12.18 双人家具限时折扣中！	11.07-12.18 雙人傢俱限時折扣中！	11.07-12.18　家具期間限定割引中！	11.07-12.18 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 11/07–12/18!						0	DLC2.3宿舍
+dlc13house_detail1	晴	晴	晴	하루	Haru						0	DLC2.3宿舍
+dlc13house_detail2	温热软“枕”	溫熱軟「枕」	ふんわり「まくら」	부드러운 '온열 베개'	Cozy "Pillow"						0	DLC2.3宿舍
+dlc13house_detail3	12.19-01.22 双人家具限时折扣中！	12/19-01/22 雙人傢俱限時折扣中！	12.19-01.22 家具期間限定割引中！	12.19-01.22 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 12/19–1/22!						0	DLC2.3宿舍
+dlc15house_detail1	恩雅&苔丝	恩雅&黛斯	エンヤ＆テス	엔야&테스	Enya & Tess						0	DLC2.6宿舍
+dlc15house_detail2	耳畔柔触&绵软轻压	耳畔柔觸&綿軟輕壓	そっと、耳元に＆とろけさせる指圧	귓가의 속삭임&포근한 휴식	Earside Whisper & Restful Hypnosis						0	DLC2.6宿舍
+dlc15house_detail3	03.06-04.16 双人家具限时折扣中！	03/06-04/16 雙人傢俱限時折扣中！	03.06-04.16 家具期間限定割引中！	03.06-04.16 2인용 가구 한정 할인 진행 중!	Limited-Time Discount 3/6–4/16!						0	DLC2.6宿舍
+TxtActivitySeries	怦然密语	怦然密語	心拍パズル	펄스 퍼즐	Pulse Puzzles						0	DLC2.7怦然密语活动
+TxtActivitySeries_des	1.该活动为玩家共同助力破译“怦然密语”，玩家可在活动期间破译“怦然密语”，助力累计心语破译人数。\n2.活动期间内达成指定人数后将为当前服务器所有玩家发放奖励邮件，发放时限持续整个活动期间，即达成条件后新进的玩家均可收到奖励邮件。\n3.活动结束后将停止发放奖励邮件。\n4.心语破译人数每隔5分钟刷新1次。	1.該活動為玩家共同助力破解“怦然密語”，玩家可在活動期間破解“怦然密語”，助力累計心語破解人數。\n2.活動期間內達成指定人數後將為當前伺服器所有玩家發放獎勵信件，發放時限持續整個活動期間，即達成條件後新進的玩家均可收到獎勵信件。\n3.活動結束後將停止發放獎勵信件。\n4.心語破解人數每隔5分鐘刷新1次。	1．イベント期間中、プレイヤーが協力して「心拍パズル」を解析すると、その累計人数が記録されます。\n2．指定人数に達成すると、サーバー内の全プレイヤーに報酬メールが配布されます。メールの配布はイベント期間中継続され、条件を達成した後に新たに参加したプレイヤーも受け取ることができます。\n3．イベント終了後、報酬メールの配布は停止されます。\n4．「心拍パズル」を解析したプレイヤーの累計人数は、5分ごとに更新されます。	1. 해당 이벤트는 분석가님의 공동 이벤트로, 이벤트 기간 동안 분석가님은 함께 [펄스 퍼즐]을 완료하여 마음의 해석 누적 인원수를 올릴 수 있습니다. \n2. 이벤트 기간 동안 완료 인원수가 지정된 인원수에 달성하면 현재 서버의 모든 분석가님께 보상 메일을 발송해 드립니다. 보상 메일 발송은 이벤트 기간 내내 지속되며, 지정된 조건을 충족한 분석가님은 모두 보상 메일을 수신하실 수 있습니다.\n3. 이벤트 종료 후 보상 메일은 더 이상 발송되지 않습니다.\n4. [펄스 퍼즐] 완료 인원수는 5분마다 1회 새로고침 됩니다.	1. Every deciphering counts! During the Pulse Puzzles event, all players can do their part to help the total number of server-wide deciphers reach the goal.\n2. Once the goal is reached during the event, everyone on the server will get rewards via in-game mail! New players can still claim the reward throughout the event after meeting the criteria.\n3. Once the event ends, reward mail will no longer be sent.\n4. The number of server-wide heart deciphers refreshes every 5 minutes.						0	DLC2.7怦然密语活动
+PhotoStudio	基地全新功能契影定格开放\n多种合影姿势，自选拍照角度\n与少女一起定格美好时刻	基地全新功能契影定格開放\n多種合照姿勢，自選拍照角度\n與少女一起定格美好時刻	社員寮に新機能「スナップ」が実装！\n多彩なポーズと自由なカメラアングル\n少女との特別な瞬間を記録しよう	숙소 신규 기능 스냅샷 부스 오픈!\n다양한 사진 포즈, 나만의 셀카 각도 선택하기\n소녀들과 함께 아름다운 순간을 기록해 보세요	The brand-new Snapshot Booth is now open at the Base!\nChoose from various poses with customizable angles for the perfect shot!\nCapture beautiful moments with the girls.						0	DLC2.7契影定格开放
+dlc27house_detail1	卜卜	卜卜	ブブ	보보	Bubu						0	DLC2.7宿舍
+dlc27house_detail2	卜居雅案	卜居雅案	卜居風の文机	아늑한 탁자 세트	Tranquil Desk Set						0	DLC2.7宿舍
+dlc27house_detail3	04.17-05.28 双人家具限时折扣中！	04/17-05/28 雙人傢俱限時折扣中！	04.17-05.28 家具期間限定割引中！	04.17-05.28 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 4/17–5/28!						0	DLC2.7宿舍
+dlc28house_detail1	奈莉德	奈莉德	ネリーダ	네리다	Nerida						0	DLC2.8宿舍
+dlc28house_detail2	浪漫潮汐氛围灯	浪漫潮汐氛圍燈	潮ゆらぐ夢灯	로맨틱 무드 등	Romantic Tide Light						0	DLC2.8宿舍
+dlc28house_detail3	05.29-07.09 双人家具限时折扣中！	05.29-07.09 雙人傢俱限時折扣中！	05.29-07.09 家具期間限定割引中！	05.29~07.09 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 5/29–7/9!						0	DLC2.8宿舍
+FormerDlc7_title	素影遗痕-追忆	素影遺痕-追憶	光添う陰-追憶	그림자의 흔적-회상	Gradient of Souls (Rerun)						0	DLC2.8复刻DLC7活动
+FormerDlc7_des	活动期间内可体验追忆活动“素影遗痕”主线关卡	活動期間內可體驗追憶活動「素影遺痕」主線關卡	期間中、追憶イベント「光添う陰」のストーリーを体験できます	이벤트 기간 동안 회상 이벤트 '그림자의 흔적 '의 메인 스테이지를 체험하실 수 있습니다.	The Gradient of Souls story returns during the event period.						0	DLC2.8复刻DLC7活动
+FormerDlc3_title	翠星假日-追忆	翠星假期-追憶	海と翠の星-追憶	찬란한 휴가- 회상	Verdurous Holiday (Rerun)						0	DLC3.1复刻DLC3活动
+FormerDlc3_des	活动期间内可体验追忆活动“翠星假日”主线关卡	活動期間內可體驗追憶活動「翠星假期」主線關卡	期間中、追憶イベント「海と翠の星」のストーリーを体験できます	이벤트 기간 동안 회상 이벤트 '찬란한 휴가'의 메인 스테이지를 체험하실 수 있습니다.	The Verdurous Holiday story returns during the event period.						0	DLC3.1复刻DLC3活动
+FormerDlc11_title	碧水假日-追忆	碧水假日-追憶	碧水休日-追憶	청량한 휴일-회상	Azure Paradise (Rerun)						0	DLC3.1复刻DLC3活动
+FormerDlc11_des	活动期间内可体验追忆活动“碧水假日”主线关卡	活動期間內可體驗追憶活動「碧水假日」主線關卡	期間中、追憶イベント「碧水休日」のストーリーを体験できます	이벤트 기간 동안 회상 이벤트 '청량한 휴일'의 메인 스테이지를 체험하실 수 있습니다.	The Azure Paradise story returns during the event period.						0	DLC3.3复刻DLC2.2活动
+FormerDlc26_title	荒城栖花-追忆	荒城棲花-追憶	廃墟の花-追憶	황폐한 도시의 꽃-회상	Blossoms in Ruins (Rerun)						0	DLC3.6复刻DLC2.6活动
+FormerDlc26_des	活动期间内可体验追忆活动“荒城栖花”主线关卡	活動期間內可體驗追憶活動「荒城棲花」主線關卡	期間中、追憶イベント「廃墟の花」のストーリーを体験できます	이벤트 기간 동안 회상 이벤트 '황폐한 도시의 꽃''의 메인 스테이지를 체험하실 수 있습니다.	The Blossoms in Ruins story returns during the event period.						0	DLC3.6复刻DLC2.6活动
+dlc31house_detail1	肴&辰星	肴&辰星	肴&辰星	야오&수성	Yao and Chenxing						0	DLC3.1宿舍
+dlc31house_detail2	懒日偷闲&柔荑纾倦	懶日偷閒&柔荑紓倦	昼寝日和&指先の癒し	나른한 하루&포근한 촉감	Lazy Daze & Tranquil Touch						0	DLC3.1宿舍
+dlc31house_detail3	08.21-09.24 双人家具限时折扣中！	08.21 - 09.24 雙人傢俱限時折扣中！	08.21-09.24 家具期間限定割引中！	08.21~09.24 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 8/21–9/24!						0	DLC3.1宿舍
+dlc33house_detail1	克罗瑞娜	克羅瑞娜	クラウリナ	클라리나	Clarina						0	DLC3.3宿舍
+dlc33house_detail2	奢享茶点桌套组	奢享茶點桌套組	スウィーティータイム	로얄 티타임 세트	Regal Tea Time Set						0	DLC3.3宿舍
+dlc33house_detail3	11.06-12.17 双人家具限时折扣中！	11/06-12/17 雙人傢俱限時折扣中！	11.6-12.17 家具期間限定割引中！	11.06~12.17 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 11/6–12/17!						0	DLC3.3宿舍
+dlc34house_detail1	米娅	米婭	ミア	미아	Mia						0	DLC3.4宿舍
+dlc34house_detail2	星梦同愿墙	星夢同願牆	満天の思い出	별의 꿈 코너	Stardream Cozy Corner						0	DLC3.4宿舍
+dlc34house_detail3	12.18-1.28 双人家具限时折扣中！	12/18-01/28 雙人傢俱限時折扣中！	12.18-1.28 家具期間限定割引中！	12.18~1.28 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 12/18–1/28!						0	DLC3.4宿舍
+dlc36house_detail1	芙提雅&安卡希雅	芙提雅&安卡希雅	フリティア＆アカシア	프티야&아카시아	Fritia & Acacia						0	DLC3.6宿舍
+dlc36house_detail2	爱心练习？& 游戏时间！	愛心練習？& 遊戲時間！	ハート作りの練習？&ゲームタイム！	하트 연습? & 게임 시간!	Heart Hands & Game Time						0	DLC3.6宿舍
+dlc36house_detail3	04.02-05.13 双人家具限时折扣中！	04/02-05/13 雙人傢俱限時折扣中！	4.2-5.13 家具期間限定割引中！	04.02~05.13 2인용 가구 한정 특가 진행 중!	Limited-Time Discount 4/2–5/13!						0	DLC3.6宿舍
+limitedItem_button_card	获取角色	獲取角色	隊員を獲得	캐릭터 획득	Obtain Operative						0	DLC3.4试用无限之视
+limitedItem_button_weapon	获取武器	獲取武器	武器を獲得	무기 획득	Obtain Weapon						0	DLC3.4试用无限之视
+limitedItem_button_support	获取后勤	獲取後勤	後方支援を獲得	지원 획득	Obtain Logistics						0	DLC3.4试用无限之视
+limitedItem_button_getweapon	获取限时武器	獲取限時武器	臨時武器を獲得	한정 무기 획득	Obtain Weapon						0	DLC3.4试用无限之视
+limitedItem_button_getsupport	获取限时后勤	獲取限時後勤	臨時後方支援を獲得	한정 지원 획득	Obtain Logistics						0	DLC3.4试用无限之视
+limitedItem_NotStart	限时入队活动，将在解锁<span color="#bbf1ff">后勤装配功能</>7天后关闭	限時入隊活動，將在解鎖<span color="#bbf1ff">後勤裝配功能</>7天後關閉	「<span color="#bbf1ff">後方支援配属</>」開放後8日目終了	한정 초대 이벤트는 <span color="#bbf1ff">지원 장착 기능</> 해제 7일 후 종료됩니다.	Event ends 7 days after unlocking <span color="#bbf1ff">Logistics</> feature.						0	DLC3.4试用无限之视
+limitedItem_StartTiming	剩余时间：%s	剩餘時間 %s	残り時間：%s	잔여 시간: %s	Time left: %s						0	DLC3.4试用无限之视
+limitedItem_HaveCard	已拥有该角色	已擁有該角色	獲得済みの隊員	이미 해당 캐릭터를 보유했습니다.	Operative owned						0	DLC3.4试用无限之视
+limitedItem_HaveWeaponAndSupport	已拥有该武器与后勤	已擁有該武器與後勤	獲得済みの武器と後方支援	이미 해당 무기와 지원을 보유했습니다.	Weapon and logistics owned						0	DLC3.4试用无限之视
+limitedItem_Expired	体验已过期	體驗已過期	有効期限が切れました	체험 기간이 만료되었습니다.	Trial expired						0	DLC3.4试用无限之视
+limitedItem_Des	限时入队活动结束前，获取角色、武器或后勤，将保留其养成状态\n限时入队活动结束后，如果尚未获取角色、武器与后勤，将返还全部养成材料	限時入隊活動結束前，獲取角色、武器或後勤，將保留其養成狀態\n限時入隊活動結束後，如果尚未獲取角色、武器與後勤，將返還全部養成材料	イベント期間中に隊員や武器、または後方支援を入手・育成すると、育成状態が引き継がれる。\n未入手の場合、イベント終了後、育成素材がすべて返還される。	한정 초대 이벤트 종료 전에 획득한 캐릭터, 무기 또는 지원의 육성 상태는 그대로 유지됩니다.\n한정 초대 이벤트 종료 후에 캐릭터, 무기 또는 지원을 획득하지 못할 경우, 모든 육성 재료를 반환합니다.	Any operative, weapon, or logistics obtained will keep upgrade progress during event.\nAfter event ends, if you don't obtain the operative, weapon, or logistics, all materials used will be returned.						0	DLC3.4试用无限之视
+limitedItem_Tip1	解锁武器装备功能后，可以领取限时体验武器<span color="#5082f1">【九夜之冕】</>	解鎖武器裝備功能後，可以領取限時體驗武器<span color="#5082f1">【九夜之冕】</>	「武器装備」開放後、臨時支給武器<span color="#5082f1">九夜の冠</>を受け取れる	무기 장착 기능을 해제하면 한정 체험 무기 <span color="#5082f1">[아홉밤의 왕관]</>을 수령할 수 있습니다.	Unlock the Weapon feature to claim the trial weapon <span color="#5082f1">Nightborne Crown</>						0	DLC3.4试用无限之视
+limitedItem_Tip2	解锁后勤装配功能后，可以领取限时体验后勤<span color="#5082f1">星朗小队</>	解鎖後勤裝配功能後，可以領取限時體驗後勤<span color="#5082f1">星朗小隊</>	「後方支援配属」開放後、臨時支給後方支援<span color="#5082f1">ノヴァチーム</>を受け取れる	지원 장착 기능을 해제하면 한정 체험 지원 <span color="#5082f1">노바 소대</>를 수령할 수 있습니다.	Unlock the Logistics feature to claim the trial logistics <span color="#5082f1">Nova Squad</>						0	DLC3.4试用无限之视
+limitedItem_Tip3	限时体验武器与后勤无法被分解	限時體驗武器與後勤無法被分解	臨時支給武器と後方支援は分解不可	한정 체험 무기 및 지원은 분해할 수 없습니다.	Cannot decompose trial weapons or logistics						0	DLC3.4试用无限之视
+limitedItem_Tip4	限时体验武器与后勤无法作为材料使用	限時體驗武器與後勤無法作為材料使用	臨時支給武器と後方支援は素材として使用不可	한정 체험 무기 및 지원은 재료로 사용할 수 없습니다.	Cannot use trial weapons or logistics as materials						0	DLC3.4试用无限之视
+limitedItem_Tip5	限时体验武器升级后的奖励配件无法领取	限時體驗武器升級後的獎勵配件無法領取	臨時支給武器をレベルアップさせても、報酬の武器パーツは受け取れない	한정 체험 무기 레벨업 후의 보상 부품은 수령할 수 없습니다.	Cannot claim weapon part rewards from upgrading trial weapons						0	DLC3.4试用无限之视
+limitedItem_Tip6	限时体验后勤无法进行重修	限時體驗後勤無法進行重修	臨時支給後方支援の特長ステータスを修正不可	한정 체험 지원은 조정할 수 없습니다.	Cannot change talents for trial logistics						0	DLC3.4试用无限之视
+limitedItem_ActivityName	限时入队	限時入隊	臨時入隊	한정 초대	Limited Invitation						0	DLC3.4试用无限之视
+activity_house_skin	心居臻礼										0	DLC3.6宿舍皮活动名

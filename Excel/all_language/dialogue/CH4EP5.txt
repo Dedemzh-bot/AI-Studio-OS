@@ -1,0 +1,72 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	好奇怪，泰坦今天好像格外地喜欢我们。	好奇怪，泰坦今天好像格外地喜歡我們。	おかしいわね、今日は一段とタイタンに好かれているらしいわ。	후… 이상해. 타이탄 녀석들이 오늘따라 유독 우리를 좋아하는 것 같아.	Titans really seem to have taken a liking to us today. Something's off.						0	
+2	不过来的都是些小家伙，体型上差远了。	不過來的都是些小傢伙，體型上差遠了。	しかし来てるやつはみんな小物だわね。体格的にはほど遠いわ。	근데 다 덩치는 작은 녀석들뿐이야.	It's all little ones too, very different from the bigger Titans.						0	
+3	这些，和<orange>尤弥尔</>比，感觉不一样。	這些和<orange>尤彌爾</>比，感覺不一樣。	大きさだけじゃない。こいつら、<orange>ユミル</>と比べると、何か違う。	<orange>이미르</>와는 느낌이 확실히 달라.	Nothing like <orange>Ymir</>.						0	
+4	我也有同感。	我也有同感。	あたしもそう思うわ。	나도 그렇게 생각해.	Nothing like Ymir.						0	
+b-2											0	
+6	尤弥尔在你们看来有什么不同？	尤彌爾在你們看來有什麼不同？	あなたたちから見て、ユミルと他のタイタンはどう違うのだ？	이미르는 뭐가 다른데?	How does Ymir look different to you guys?						0	
+7	更巨大，而且……更美丽？	更巨大，而且……更美麗？	より大きくて、より……美しい？	훨씬 거대하고… 어떻게 보면 조금 아름다웠다고 표현해야 하나?	Ymir? Ymir's enormous... beautiful...						0	
+8	危险，令人憎恶。	危險，令人憎惡。	危険で、憎らしい。	굉장히 위험해. 혐오스러운 존재지.	Dangerous. Evil.						0	
+9	总之，你一见到，就能立刻明白它们之间的不同。那就好像是……生命本质上的某种区别。	總之，你一看到就能立刻明白它們之間的不同。那就好像是……生命本質上的某種區別。	とにかく、見れば分かるのよ。どこが違うって……生命体としてのエネルギー？なんていうか本質的に命がまとってるオーラが違うのよ。	언젠가 마주칠 일이 있을 거야. 때가 되면 우리가 왜 이런 말을 했는지 이해할 수 있을 거야. 그냥… 본질적으로 다른 부분이 있어.	You can basically tell right away when you see them. It's like... some type of innate difference.						0	
+10	到时候请迅速躲到本小姐身后来。作为分析员，你可不能先倒下了。	到時候請迅速躲到本小姐身後來。作為分析員，你可不能先倒下了。	もしあいつに遭遇したら、このあたしの後ろに隠れてちょうだい。分析員が先に倒れたら困るわ。	만약 만나게 되면 어떡해서든 우리들 뒤로 몸을 숨기고. 분석가가 먼저 죽으면 안 되잖아?	Adjutant, please hide behind me when the time comes. As our leader, you can't be the first to go down.						0	
+11	这不是开玩笑。	這不是開玩笑。	冗談じゃないわよ。	농담 아니야~	I'm not joking.						0	
+12	分析员，你说你说，是不是因为“基座”的原因！	分析員，你說你說，是不是因為“基座”的原因！	分析員、ほら、それは「ベース」のせいじゃないかな！	설마 '성지' 때문은 아니겠지?	Wait wait wait! Adjutant, do you think this might have something to do with the Shrines?						0	
+13	芙提雅拍了拍妮塔背着的“基座”。	芙提雅拍了拍妮塔背著的“基座”。	フリティアはニタが背負っている「ベース」を手で叩く。	프티야는 니타가 들고 있던 '성지'를 두드리며 말을 건넸다.	Fritia was repeatedly slapping the Shrine that Nita was carrying, for emphasis.						0	
+14	你不要乱拍！这玩意万一不经拍呢！	你不要亂拍！這玩意萬一被拍壞了呢！	叩かないでよ！動き出したらどうする！	어이! 그렇게 두드리지 좀 마! 살살 다뤄야 한다고!	Will you knock it off! I carry this thing the whole way here, you break it by treating it like a drum!						0	
+15	放心啦！链式反应已经中止，并且是从机械层面锁死了反应环境，很安全的！	放心啦！連鎖反應已經中止，並且是從機械層面鎖死了反應環境，很安全的！	安心して！連鎖反応はもう停止してる。機械構造的に反応の条件が揃わないから、大丈夫だよ！	걱정 마! 연쇄 반응은 이미 멈췄어. 기계도 락을 걸어놔서 안전한 상황이고.	Easy, Nita! The cascading reaction isn't running, the mechanical components are locked up, it's all totally safe!						0	
+16	行吧，它不会突然开始散发污染，把我变成异化人就行。	好吧，它不會突然開始散發汙染把我變成異化人就行。	信じるぞ？いきなり汚染を吹き出して私を変異者にしなければそれでいい。	그래… 난 널 믿어. 이 기계가 갑자기 오염을 발산해서 날 변이자로만 만들지 않았으면 해.	As long as it doesn't start spraying me with Titagen... I end up Changed and I'm blaming you.						0	
+auto_23199	哎呀！理论上来说，天启者是不会变成异化人的，最多会被神格侵蚀！	哎呀！理論上來說，天啟者是不會變成異化人的，最多就只會被神格侵蝕！	理論上、覚醒者は変異者にならないよ、神格侵蝕が関の山だからね。	웃겨! 이론상 계시자는 변이자로 변할 일도 없고, 기껏해야 만트라 침식 정도에서 끝이거든!	Manifestations can't end up Changed! The worst that could happen would be you get Flooded...						0	
+b-3											0	
+17	芙提雅，你刚刚说……什么是因为“基座”的原因？	芙提雅，你剛剛說……什麼是因為“基座”的原因？	フリティア、さっき言ってた……「ベース」のせいって？	프티야, 그나저나 방금… '성지' 때문이라고 하지 않았어?	Fritia, you were saying... something has something to do with the Shrines?						0	
+18	小体积泰坦的频繁出现呀！	小體積泰坦的頻繁出現呀！	小型タイタンが頻繁に現れるって話についてだよ！	소형 타이탄이 주변에서 계속해서 나타나고 있잖아!	All these little Titans showing up!						0	
+19	你没有发现吗！今天泰坦出现的位置，全部都是在靠近“基座”的某个空间尺度内！	你沒有發現嗎！今天泰坦出現的位置，全部都是在靠近“基座”的某個空間尺度內！	気づかなかった？今日タイタンが現れた位置は、全部「ベース」の近くだったんだよ！	오늘 본 타이탄들 모두 '성지' 주변에서 나타난 거라고!	You didn't notice?! Each time we've run into a Titan, they appeared right next to a Shrine!						0	
+20	啥？泰坦就是冲这玩意来的？而且我还背着这玩意？	什麼？泰坦就是朝這玩意來的？而且我還背著這玩意？	なんだって？タイタンはこれを狙ってやって来たってわけ？……ねえ今、私が背負ってるんだけど？	잠깐만… 이 물건 때문에 타이탄들이 몰려오는 거라고? 근데 나보고 이걸 들고 있으라 했던 거야?!	Huh? Why would they do that? And if you'd noticed that, how come you let me keep carrying this thing and didn't say anything?!						0	
+21	嘿嘿，毕竟你是力气最大的嘛！这样资源分配最合理。	嘿嘿，畢竟你的力氣是最大的嘛！這樣資源分配最合理。	へへ、ニタが一番力持ちだからね！こうするのが合理的ってわけ。	헤헤헤… 니타가 힘은 제일 세니까! 이렇게 분배하는 게 가장 합리적이란 생각이 들었지.	You're stronger than we are! Rational allocation of human resources...						0	
+22	我总觉得你们在坑我。	我總覺得你們在陷害我。	私、騙されてないか？	프티야, 나한테 원한 있는 건 아니지?… 뭔가… 한방 먹이려는 거 같은데.	That's not my point and you know it.						0	
+23	分析员，如果小太阳说得没错，我们带着“基座”行动会非常危险。	分析員，如果小太陽說得沒錯，我們帶著“基座”行動會非常危險。	分析員、おひさまちゃんの言う通りなら「ベース」を持ち運びながら行動するのはかなり危険だ。	분석가, 만약 리틀썬 말대로면 '성지'를 지니고 있는 건 아주 위험한 일이야.	Adjutant, if Fritia's right, that Shrine is bringing danger right down on our heads.						0	
+24	并且，将它带出隔离墙，可能会将危险转嫁给隔离墙。	並且，將它帶出隔離牆的話，可能會將危險轉嫁給隔離牆。	それに、ウォールから持ち出すと、危険がウォールそのものに及ぶかもしれない。	그리고 이걸 격리 장벽 밖으로 가지고 나가면 격리 장벽이 위험해질 수도 있고.	Worse, if we take it out of the Containment Zone... we could end up with Titans attacking the Walls from the outside...						0	
+b-4											0	
+25	前面就到安全屋了，我问问卡罗琳怎么办。	前面就到安全屋了，我問問卡羅琳怎麼辦。	この先はセーフハウスだ。そこでカロリンに対策を聞こう。	이제 곧 벙커에 도착하니까 캐롤린한테 한번 물어보자.	There's a shelter up ahead, we can call Caroline from there.						0	
+26	每当零区内的污染读数上升时，小型移动通讯设备所发射的信号就会受到严重干扰。	每當零區內的汙染讀數上升時，小型移動通訊設備所發射的訊號就會受到嚴重干擾。	エリアゼロの汚染指数が上昇する度に、小型通信デバイスの電波障害が発生する。	제로 구역 내부에 오염 수치가 높아질수록, 단말기 신호는 계속해서 영향을 받았다.	Each time the Titagen levels in the Containment Zone go up, it gets harder to punch a comms signal through the interference.						0	
+27	世界树公司为了应对这种状况，在零区内设置了不少“安全屋”，配备有大功率广播天线。	世界樹公司為了應對這種狀況，在零區內設置了不少“安全屋”，屋內配備有大功率廣播天線。	ユグドラシル社はこのような状況に対応するため、エリアゼロに大出力アンテナ付きの「セーフハウス」をたくさん設置した。	위그드라실은 이러한 상황을 대비하기 위해 제로 구역 내부에 '벙커'를 구축했고, 고성능 방송 안테나를 설치해뒀다.	A network of Yggdrasil-built shelters dotted Containment Zone Aleph, built to get around this particular problem. With a powerful broadcast antenna, the shelters permitted communication through heavy interference.						0	
+28	借助“安全屋”的设备，我得以和卡罗琳取得联络。	借助“安全屋”的設備，我得以和卡羅琳取得聯絡。	「セーフハウス」の設備を使い、ようやくカロリンと連絡が取れた。	나는 '벙커'에 있는 장비로 캐롤린과 연락을 취했다.	The antenna did the trick and we established a link with Caroline.						0	
+29	所以你们现在是在三号安全屋？	所以你們現在是在三號安全屋？	セーフハウス3号にいますね？	그럼 현재는 모두 벙커 3호에 있는 거예요?	You've made it to Shelter No. 3?						0	
+30	先告诉我，没有人受伤吧？	先告訴我，沒有人受傷吧？	まずは怪我人がいるか教えて下さい。	부상자는 없고요?	Is anybody hurt?						0	
+b-5											0	
+31	其他人都没事，茉莉安受了一点轻伤。	其他人都沒事，茉莉安受了一點輕傷。	マリアンが軽傷、他は大丈夫だ。	다들 괜찮은데 마리안이 경미한 부상을 좀 입었어.	Not really, we're basically fine. Marian picked up a few scrapes.						0	
+32	哦，她肯定又把自己弄伤了吧？	哦，她肯定又把自己弄傷了吧？	そう、また自分から負傷しに行ったんですね。	아… 혼자서 또 그런 거죠?	She's up to her old tricks then.						0	
+33	卡罗琳好像一点都不吃惊，反而一副很头疼的样子。	卡羅琳好像一點都不吃驚，反而一副很頭痛的樣子。	カロリンはまったく驚く様子はなく、むしろ困っているようだ。	캐롤린은 전혀 놀라지 않았고, 익숙하다는 듯 귀찮다는 반응을 보인다.	Caroline didn't look surprised. She looked like she had a headache coming on, but she didn't look surprised.						0	
+34	忘记告诉你了，得把茉莉安这孩子看紧点。	忘記告訴你了，得把茉莉安這孩子看緊點。	言い忘れてましたね。マリアンにはよく気をつけてください。	깜빡하고 말씀 안 드렸는데… 마리안은 잘 감시하시는 게 좋아요.	I should have said before. Try not to let Marian out of your sight.						0	
+35	她每次执行任务回来都是一身伤。	她每次執行任務回來都是一身傷。	ミッションから帰還する度に全身傷だらけですから。	매번 미션만 하면 온몸이 상처투성이가 돼서 돌아오거든요.	That girl has never once come back from an operation uninjured.						0	
+36	好了，说回任务，怎么样分析员，还顺利吗？	好了，說回任務，怎麼樣分析員，還順利嗎？	ミッションに戻りましょう。どうですか分析員、順調に進んでいますか？	자… 그럼 본론으로 넘어가서… 미션 상황 좀 브리핑해 주시겠어요?	Anyway... get me up to speed, Adjutant.						0	
+b-6											0	
+37	我们已经拿到了“基座”。	我們已經拿到了“基座”。	「ベース」を手に入れたよ。	'성지'는 확보했어.	We got our hands on a Shrine.						0	
+b-7											0	
+38	芙提雅认为它是从“布里希嘉曼”上拆分下来的独立单元。	芙提雅認為它是從“布里希嘉曼”上拆分下來的獨立單元。	フリティアは、それが「ブリーシンガメン」から取り外した独立ユニットだと。	프티야는 '성지'가 '브리히가만'에서 분리된 일부분이라 생각하는 거 같아.	Fritia is pretty convinced these Shrines are units taken from inside the Brisingamen, set up to run independently.						0	
+39	很好，那就带着“基座”返回吧。	很好，那就帶著“基座”返回吧。	上出来です。それを持ち帰ってください。	좋은 소식이네요. 어서 '성지'를 들고 복귀해 주세요.	Okay. You're bringing it back here, right?						0	
+b-8											0	
+40	不用继续追回其余“基座”吗？	不用繼續追回其餘“基座”嗎？	残りの「ベース」を追わなくてもいいのか？	다른 '성지'는 수거할 필요 없을까?	We can try to track down a few more first, maybe.						0	
+41	稍等，我请示一下老板。	稍等，我請示一下老闆。	少し待ってください。ボスに聞いてみます。	흠… 그건 대표님한테 여쭤볼게요.	Let me ask the boss.						0	
+42	与卡罗琳的通讯中断了片刻，她再次拨来。	與卡羅琳的通訊中斷了片刻之後她再次撥來。	通信がしばらく中断し、すぐに再び繋がった。	캐롤린과의 통신이 중단되고… 잠시 후 다시 연결됐다.	The call cut out, then a moment later she was back.						0	
+43	不用追回其余基座，至于原因，是：“你不需要知道”。	不用追回其餘基座，至於原因，是：“你不需要知道”。	他の「ベース」は探さなくても結構です。理由は「知る必要がない」らしいです。	다른 '성지'는 가져올 필요 없다네요… 이유는 '알 필요 없어'라고 하셨고요…	No need. One Shrine is enough. And you "don't need to know why," before you ask.						0	
+b-9											0	
+44	还有，“基座”可能会吸引泰坦，就这样直接带回去吗？	還有，“基座”可能會吸引泰坦，就這樣直接帶回去嗎？	あと、「ベース」はタイタンを惹き寄せる可能性があるようだ。そのまま持ち帰って大丈夫か？	깜빡했는데, '성지'는 타이탄을 끌어들일 수도 있어. 근데 이런 걸 들고 가도 될까?	There's an issue. The Shrines attract Titans. Are you sure we should bring one out of the Containment Zone?						0	
+45	吸引泰坦？让我想……	吸引泰坦？讓我想……	タイタンを惹き寄せる？それは……	타이탄을 끌어들인다고요? 후… 잠시만요…	They attract Titans? Ach...						0	
+46	分析员吗？	分析員嗎？	分析員。	분석가?	Adjutant.						0	
+47	携带“基座”返回。	攜帶“基座”返回。	「ベース」を持ち帰ってください。	'성지'를 가지고 복귀해.	Bring it back.						0	
+b-10											0	
+48	它有可能会吸引泰坦攻击隔离墙。	它有可能會吸引泰坦攻擊隔離牆。	タイタンを惹き寄せてウォールが攻撃されるかもしれません。	타이탄을 끌어들여서 격리 장벽이 위험에 처해질 수 있습니다.	Titans could attack the Walls from the outside...						0	
+49	这不重要，执行命令，你有半个小时，我们会在棚户区接应你。	這不重要，執行命令，你有半個小時，我們會在棚戶區接應你。	それは重要ではありません。命令を実行してください。私たちはスラムエリアで待ちます。	그건 중요한 게 아니니 명령에 따르기나 해. 삼십 분 후, 판자촌에서 기다리지.	So? I've given you your orders. We'll be waiting in the Camps.						0	
+b-11											0	
+50	“基座”到底是……	“基座”到底是……	「ベース」とは一体……	'성지'가 대체 뭐…	What really are these Shri—?						0	
+51	就在我想进一步追问时，通讯再次中断了，这并非是陶主动挂断，而是……	就在我想進一步追問時，通訊再次中斷了，這並非是τ主動掛斷，而是……	更に尋ねようとしたとき、通信が途絶えた。それはτが切ったわけではなく……	더 물어보려 했으나 통신이 갑자기 끊겨버렸다. τ가 끊은 게 아니었다.	The call cut out again. τ hadn't hung up on me though.						0	
+52	安全屋内，忽然下起了雪。	安全屋內，忽然下起了雪。	セーフハウス内に、急にキオーンが降り始めた。	순간 벙커 내부에서 눈이 내리기 시작했다.	It had started snowing. Inside the shelter. It was snowing inside the shelter.						0	
+53	一片片雪花穿透六十毫米厚的金属屋顶，在狭窄的安全屋中飘荡。	一片片雪花穿透六十公釐厚的金屬屋頂，在狹窄的安全屋中飄蕩。	キオーンが厚さ60mmの金属製天井をすり抜けて、狭いセーフハウスの中に漂う。	눈송이가 60mm 두께의 금속 철판을 뚫고 협소한 벙커 안까지 들어온 것이다.	Large flakes were passing right through 60mm of solid metal roofing and slowly but surely filling the narrow shelter.						0	
+b-12											0	
+54	这是……	這是……	これは……	이건…	Is this...						0	
+55	分析员，小心！	分析員，小心！	分析員、気をつけろ！	분석가, 조심해!	Careful, Adjutant!						0	
+56	看来时间不多了。	看來時間不多了。	もう時間がないようだ。	시간이 얼마 남지 않은 거 같아.	There's no time.						0	
+57	“歌唱者”的警报声及时响起，我抬起手臂，污染读数已经达到最大值。	“歌唱者”的警報聲及時響起，我抬起手臂查看，發現汙染讀數已經達到最大值。	「シンガー」がまた警報音を発し、腕の電子表示を確認すると、汚染数値は最大になっていた。	때마침 '코러스' 시스템의 경보가 울리기 시작했고, 손을 들어 확인해 보니 오염 수치가 최대치에 달해 있었다.	A Chorus System alert rang out, readings at their absolute maximum.						0	
+58	这是仇敌将要寻来的征兆。	這是仇敵將要尋來的徵兆。	敵がやってくる予兆だ。	이건 우리의 숙적들이 다가오고 있다는 징조야.	This is an omen. The enemy is here.						0	
+59	我好像在哪里看过这幅场景……	我好像在哪裡看過這副場景……	この光景は、どこかで……	어디선가 이 장면을 본 것만 같았다…	I'd seen this all before... where I couldn't say...						0	

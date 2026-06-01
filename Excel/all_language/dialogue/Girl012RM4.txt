@@ -1,0 +1,59 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	如果不是实际经历，很难想到在每个日常生活的城市地下会有这样庞大而复杂的人造迷宫。	如果不是親身經歷，很難想像在平常生活的城市地下會有如此龐大且複雜的人造迷宮。	実際に来てみないと、普段暮らしている街の地下にこんな人造迷路があるなんて、あまりにも信じがたいことだ。	자신이 직접 경험한 게 아니라면, 우리가 살아가는 도시 지하에 이렇게 방대하고 복잡한 인공 미로가 있다는 건 상상하기 힘들 것이다.	If I hadn't seen it myself, it would be hard to imagine there was such a massive, complex labyrinth sitting under the daily hustle and bustle of the city.						0	
+2	下水道系统作为人类的一项伟大发明，一直被大部分享受他便利的人们所忽视着。	下水道建設作為人類偉大的發明之一，總是被絕大多數享受著這便利設施的人們所忽視。	下水道システムは人類の素晴らしい発明だが、いつもその便利さを享受する人間たちには無視されている。	하수도 시스템은 인류의 위대한 발명 중 하나로 모두가 편리함을 누리고 있지만, 대부분의 사람들은 그다지 크게 관심을 갖지 않는다.	Sewage systems, in spite of being one of mankind's great achievements, are for the most part ignored by those who enjoy their convenience daily.						0	
+3	啊！又走到头了！这地方是不是刚才来过？	啊!又是盡頭了!這地方是不是剛才也走過?	あっ！また行き止まり！ここ、さっきも来たわよね？	이런! 막다른 길이야! 이곳은 방금에 왔던 곳 아니야?	Ugh! Another dead end! Were we just here?						0	
+4	在芬妮前辈根据“女性直觉”连选三次右转弯的前提下，确实会有很大概率回到出发点。	在芬妮前輩根據"女人的直覺"連續三次右轉的前提下，確實很有可能回到原點。	ファニー先輩の「女のカン」に従って三回右に曲がった場合、確かに出発点に戻る確率が高い。	페니 선배가 '여자의 직감'으로 연속으로 세 번을 우회전한다면, 그대로 출발 지점으로 돌아올 가능성이 매우 높다.	Since you turned right three times based on your "feminine intuition," Fenny, there is a high probability that we have returned to our original position.						0	
+5	……	……	……	…	...						0	
+6	当然，像我们现在这样深陷其中，又跟地面失联的情况下，这个庞大的人类城市系统造物带来的没有便利只有焦虑……	當然，像我們現在這樣受困於此，又跟地面失聯的情況下，這個龐大的地下系統並沒有帶來方便反而只帶來了焦慮……	私たちのように中に入り込み地上と連絡も取れなくなった者に、この地下迷路がもたらしてくれるのは便利さではなく、ただの焦りだけ……	우리가 이런 곤경에 빠져 지상하고 연락이 단절된 상황이라면, 이런 방대한 인류 도시 시스템이 가져다주는 편리함보다는 불안감이 더 커질 것이다.	Of course, now that we were trapped inside it and had lost contact with the outside world, this huge system evoked anxiety rather than convenience...						0	
+7	而且随着时间的推移，恐怕在焦虑外还会带来更多不确定的危险，这次任务真是充满太多意外了……	而且隨著時間的流逝，在焦慮之外恐怕還會帶來更多不定因素的危險性，這次任務還真是充滿各種意外……	それに時間が経つに連れ、焦りの他に、計り知れない危険も増している。このミッションには予想外のことが多すぎる……	그리고 불안감보다 더 큰 문제는 앞으로 어떤 위험이 닥칠지 모른다는 것이다. 이번 미션은 변수로 가득 차 있다…	And as time continued to elapse, I was afraid that uncertain dangers might confirm our anxieties. This mission was far from anything we could have expected...						0	
+8	两小时前	兩小時前	二時間前	두 시간 전	Two hours earlier						0	
+9	根据卡罗琳发布的坐标来看，这次要摧毁的降临团集会点应该是在地下喵。	根據卡羅琳發布的座標來看，這次要摧毀的降臨團集會點應該是在地下喵。	カロリンが言ってた座標によると、今回破壊すべき降臨団の集会所は地下にあるはずニャ。	캐롤린이 보낸 좌표에 따르면, 이번에 처리해야 할 강림단 집회 지점은 지하에 있다냥.	According to the coordinates Caroline sent, it looks like the Adventist meeting point we need to destroy is underground.						0	
+10	不会还真在下水道里吧，那些疯子一向喜欢阴暗潮湿的角落了，好像老鼠一样。	不會真的在下水道裡吧，那些瘋子最喜歡陰暗潮濕的角落了，好像老鼠一樣。	もしかしてやつら、本当に下水道にいるの？ああいうイカれた連中は湿っぽくて日の当たらないところが大好きよね、ネズミみたいに……	근데 정말 하수도에 사는 건 아니겠지? 그 미치광이 녀석들은 쥐같이 항상 어둡고 축축한 곳만 좋아한다니까.	You mean it's down in the sewers? Seriously!? Those freaks love holing up in dark and wet places — just like rats.						0	
+11	下水道确实是一种有效的隐蔽手段，不过在泰坦降临事件后，这里的下水道出现过大面积坍塌，已经失去了原本的功能。	躲在下水道確實是一種有效的隱蔽方式，不過在泰坦降臨事件之後，這裡的下水道曾經大面積坍塌，現在已經失去了它該有的功能。	確かに下水道はいい隠れ家だけど、タイタン降臨事件以来、ここの下水道は大規模な崩壊があって、本来の機能はもう全く機能していないらしい。	하수도는 확실히 효과적으로 은폐를 할 수 있는 장소다. 하지만 타이탄 강림 사건 이후, 하수도에 대규모 면적으로 붕괴가 일어나 원래의 기능을 잃어버렸다.	While the sewers are admittedly an effective concealment method, many of the passages here collapsed after the Descent and are no longer functional.						0	
+b-1											0	
+12	就是说已经变成了地下迷宫。	就是說已經變成了地下迷宮。	つまりただの地下迷宮になったわけだ。	한마디로 지하 미로처럼 변했다는 거지.	So you're saying it's become an underground maze.						0	
+13	是的，恐怕只有熟悉的人才能够在里面自由穿行。	是的，恐怕只有熟悉此地的人在這裡才不會迷路。	そう。恐らくここのことを知り尽くした人だけが、自由に行ったり来たりできる。	그렇다. 아마도 이 지역을 잘 아는 사람만이 자유롭게 돌아다닐 수 있을 것이다.	Correct. I'm afraid only people who are familiar with the layout can freely make their way through it.						0	
+14	我们已经来到了坐标点附近，地面上这里是一片废墟，并没有可以供降临团集会的场景。	我們已經來到了座標點附近，地面上的這裡是一片廢墟，看起來並沒有能讓降臨團聚集的地方。	私たちは座標の近くについた。地上はただの廃墟で、降臨団が集会できる場所など存在しないようだ。	우리는 이미 좌표 지점 부근에 도착했다. 언뜻 보기에는 폐허된 지역으로 강림단이 모일만한 장소는 보이지 않았다.	We had arrived near our destination. The ground was covered in debris, but there were no signs of an Adventist meeting point.						0	
+15	恐怕真的如芬妮所说，他们将集会点设置在了下水道中……	恐怕真如芬妮所說，他們的集會地點在下水道中。	恐らくファニーの言った通り、彼らの集会所は下水道にある……	페니 말대로 정말 집회 장소를 하수도로 지정한 걸까…	Unfortunately, it looked like Fenny was right. The meeting point was in the sewers...						0	
+16	好了，我们赶快进去捣毁那些老鼠的窝点吧。	好了~我們趕快進去消滅那些老鼠的賊窩吧。	それじゃ、早速あのネズミたちの巣を潰しに行こう。	좋아, 이제 그럼 쥐구멍 좀 들쑤셔 볼까나.	Alright, let's get in there quick and wreck the rat's nest.						0	
+17	贸然下去的话，很可能会在里面迷路。	貿然下去的話，很有可能會在裡面迷路。	無暗に降りると迷う可能性が大きい。	대책없이 행동하면 길을 잃을 수 있다.	If we try to rush our way through, we could get lost.						0	
+18	猫猫，你要相信女性的直觉，我从没有在迷宫游戏中输过。	貓貓，你要相信女人的直覺，我從來沒有在迷宮遊戲中輸過。	いい、ネコちゃん、女のカンを信じなさい。あたし迷路ゲームとか負けたことないの。	여자의 직감을 믿으라구, 냥이야. 난 미로 게임에서 져 본 적이 없으니까.	You've gotta trust my feminine intuition. I've never seen a maze I couldn't solve.						0	
+b-2											0	
+19	猫汐尔，你有下水道地图吗	貓汐爾，你有下水道的地圖嗎?	マーシル、下水道のマップはある？	시에라, 하수도 지도는 있어?	Mauxir, do you have a map of the sewers?						0	
+20	请稍等，容我检索一下资料库……	請稍等，容我搜尋一下資料庫……	少し待ってて、データベースで検索してみる……	잠깐만, 데이터베이스를 검색해 보겠다…	Please wait a moment. I'll check my database...						0	
+21	猫汐尔将右手食指按在太阳穴上，做出闭目思考的动作。所谓的检索资料库，只不过是在回忆脑内信息。	貓汐爾將右手食指按在太陽穴上，做出閉目思考的動作。所謂的搜尋資料庫不過就是回憶存在大腦的資訊。	マーシルは右手の人差し指をこめかみに押し当て、目を閉じて考え始めた。「データベースを検索する」とは、単に知識を思い出すことを指す。	캣 시에라는 눈을 감은 채 오른손 검지를 관자놀이에 짚었다. 마치 깊은 생각에 빠진 듯하다. 그녀에게 데이터베이스를 검색하는 건 머리속 기억을 떠올리는 것이었다.	Mauxir pressed her right index finger to her temple as she closed her eyes and thought. "Checking her database" actually meant recalling information stored in her brain.						0	
+22	猫汐尔很喜欢用这种人工智能一样的方式称呼自己，竟然有些意外的可爱。	貓汐爾很喜歡用這種像AI一樣的方式自稱，我竟然覺得有點可愛。	マーシルは人工知能のように喋るのが好きらしい。それはそれでかわいいのだが。	캣 시에라는 늘 자신이 인공 지능인 것처럼 말하는 걸 좋아한다. 그런 모습을 보면 의외로 귀엽다.	Mauxir enjoyed referring to herself as some sort of AI, which I found unexpectedly cute.						0	
+23	很可惜，资料库中只有很久前的下水道管线图，对于坍塌点的信息并没有更新。	很可惜，資料庫中只有很久以前的下水道管線圖，並沒有更新坍塌之後的資訊。	残念ながら、データベースには古い図しかなく、崩壊区域の情報については更新していない。	아쉽게도 데이터베이스에는 아주 오래전의 하수도 도면밖에 없다. 손상된 부분은 업데이트가 불가능하다.	Unfortunately, the database only contains sewage pipe blueprints from a long time ago. The information hasn't been updated since they collapsed.						0	
+24	不要犹豫了，我要下去了！赶快出完任务就可以回去洗个热水澡了！	不要拖拖拉拉的，我要下去了!趕快結束任務就可以回去洗熱水澡了!	もういいでしょ、降りるからね！早くミッションを終わらせて、帰って温かいお風呂に浸かりたいわ！	왜 자꾸 꾸물거리는 거야? 그럼 난 먼저 내려간다! 얼른 미션이나 마치고 따뜻한 물로 목욕이나 해야지!	No point in standing around — I'm going in! The sooner we finish the mission, the sooner I can go back and take a hot bath!						0	
+auto_9691	 		 		Mic check, one, two.						0	
+25	现在	現在	そして今	지금	Now						0	
+26	啊啊啊！干掉降临团据点后，又已经转了两个小时了！全身都是下水道的臭味！	啊啊啊!消滅降臨團的據點後，又再這裡來回轉了兩個小時!全身都是下水道的臭味!	もう！降臨団の拠点を破壊してからもう二時間もあちこち回ったわ！体中に下水道の匂いがプンプンしてるし！	하아아… 강림단 거점을 처리하고도 벌써 두 시간이나 지났어! 이미 온몸에 하수도 냄새가 밴 것 같아!	Argh! We've already been wandering around for two hours after taking care of the Adventist stronghold! I totally smell like sewage!						0	
+27	今天的天气是最近几天中唯一的晴天，温度也适宜，很适合外出野餐。	今天的天氣是這陣子唯一的晴天，氣溫也適中，很適合外出野餐。	今日は珍しく晴れで、温度もちょうどいいし、ピクニック日和だ。	오늘 날씨는 그래도 맑은 편이다. 온도도 적절한 게 산책하기에 딱이다냥.	We won't have another clear day like this for a while. The temperature is also moderate, making it the perfect day for a picnic.						0	
+28	？？？猫猫你怎么了？	???貓貓你怎麼了?	？？？ネコちゃん、どうしたの？	??? 갑자기 그게 무슨 말이야, 냥이야?	Mauxir!? What's with the small talk!?						0	
+29	芬妮前辈是不是开心了一些？书上说与人类交流中谈论天气可以让对方的心情变得愉悦。	芬妮前輩有沒有開心一點?書上說與人類交流的時候談論天氣能讓對方心情愉悅。	これで少しは気分がよくなったか、ファニー先輩？人間と天気の話をすると、気分がよくなると本に書いてあった。	페니 선배, 기분 좀 나아졌나? 책에서 인간과 대화할 때 날씨 얘기를 꺼내면 상대방의 기분을 좋게 만들 수 있다고 했다.	Are you feeling a little happier, Fenny? I read that talking about the weather when communicating with humans can improve their mood.						0	
+30	？？？？？	?????	？？？？？	?????	???						0	
+31	这可怕的违和感，让我想起了曾在猫汐尔房间中看到的那本《人类社交话术大全》……一定没错了……	這可怕的違和感，讓我想起了曾在貓汐爾的房間內看到的那本《人類社交話術大全》……肯定是那本書……	この恐ろしい会話は、かつてマーシルの部屋で見た「人間社会会話百科事典」に載っていた内容……間違いない……	설명할 수 없는 어색함 속에서 예전에 캣 시에라 방에서 본 <인류 사교 대화록>을 떠올랐다…	This strange disconnect reminded me of a book I once saw in Mauxir's room — "Encyclopedia of Human Social Skills." It had to be from that...						0	
+32	看来要做点什么才行，在饿死或者成为猫汐尔的人类社交废弃试验材料前……	看來必須得做點什麼事才行，在餓死或成為貓汐爾的人類社交報廢實驗材料之前……	やっぱりなんとかしないと。餓死する前に、あるいはマーシルの人間社交廃墟実験材料になる前に……！	아무래도 뭐라도 해야할 것 같다. 캣 시에라에게 버려진 실험체가 되기 전에…	Something had to be done before we starved to death... or became abandoned subjects of Mauxir's social interaction experiments...						0	
+b-3											0	
+33	猫汐尔，你还能回到刚才的降临团据点吗？	貓汐爾，你能帶我們回到剛才的降臨團據點嗎?	マーシル、さっきの降臨団拠点に戻れる？	캣 시에라, 혹시 강림단 거점으로 돌아가는 길 기억나?	Mauxir, can you get us back to the Adventist stronghold?						0	
+34	是可以的，我已经记录了芬妮前辈在那之后的路线选择。	可以的，我已經記錄了芬妮前輩從那之後的路線選擇。	それならできる。あそこからのファニー先輩のルート選択は記録してあるから。	기억난다. 페니 선배가 거점에서부터 루트를 기록해왔다.	Yes. I've been recording Fenny's path since then.						0	
+b-4											0	
+35	我们回到据点去。	我們返回據點去。	ひとまず拠点に戻る。	그럼 거점으로 돌아가자.	Then let's go back there.						0	
+36	还回那里去干什么？	還回去那裡幹嘛?	今更あそこに戻って何するの？	거기로 돌아가서 뭐하게?	Why are we going back?						0	
+b-5											0	
+37	如果路线复杂，降临团也不可能仅凭借记忆往返。	如果這裡路線複雜，降臨團也不可能僅憑記憶就能往返地面與地下。	もしルートが複雑なら、降臨団も記憶だけで移動してるはずがない。	만약 거점으로 향하는 길이 복잡하면 강림단도 기억하기 힘들 거야.	If the path is this complex, it would be impossible for the Adventists to move in and out based on memory alone.						0	
+38	如果我的判断没有错误的话，在降临团据点内肯定还有通往地面上的路线图。	假如我的判斷沒錯，在降臨團的據點內肯定有通往地面上的路線圖。	私の判断が間違ってなければ、降臨団の拠点にはきっと地上への地図があるはず。	내가 판단이 틀리지 않다면 강림단 거점에 지상으로 향하는 노선도가 숨겨져 있을 것이다.	If my hunch was correct, there had to be a map leading back up to the street somewhere in the Adventist stronghold.						0	
+39	毕竟在这样复杂的迷宫里，谁也不能保证每个降临团的成员都能清晰地记得路线。	畢竟在這種複雜的迷宮裡，誰也不能保證每位降臨團的成員都能清楚記得往返路線。	こんな複雑な迷路で、降臨団のメンバー一人一人がルートをはっきり覚えられるなど、誰も保証できない。	이 복잡한 미로 속에서 모든 강림단 멤버들이 길을 정확하게 기억하리라는 보장이 없기 때문이다.	After all, no one could guarantee that every single Adventist could clearly remember the way through such a complicated maze.						0	
+40	分析员竟然能在此时作出如此理性的分析，真是靠得住喵。	分析員竟然能在此刻作出如此理性的分析，真是可靠喵。	分析員、こんな時でも理性的な分析ができて、頼りになるニャ。	이 상황에서도 이성적으로 분석을 하다니, 역시 분석가는 든든하다냥.	Adjutant, the fact that you can make such an objective analysis at a time like this shows how dependable you are, nya.						0	
+41	书上说肯定别人每一次正确的决定，都会让对方加深对自己的信赖感。	書上說肯定他人每次所做出的正確決定，都會讓對方加深對自己的信賴感。	人が正しい決断をするたびに、他人から信頼を得られると、本に書いてあった。	책에서 사람이 올바른 결정을 내리면 신뢰가 쌓인다고 했다.	...I read that acknowledging other people's correct decisions will deepen their trust in you.						0	
+b-6											0	
+42	……我们还是尽快找到路线图吧……	……我們還是趕快找到路線圖吧……	……今は早く地図を見つけよう……	… 일단 노선도부터 찾아보자…	...We'd better find that map as soon as possible...						0	
+43	果然，我们在降临团据点中，找到了遗留下来的进出路线图，很轻松地回到了地面上。	果然，我們在降臨團的據點中找到了往返的路線圖，多虧於此我們順利回到了地面上。	降臨団の拠点にはやはり地図が残っていた。私たちはそれを頼りに、無事地上に戻った。	과연, 강림단 거점에 남겨진 출입 노선도를 찾을 수 있었다. 우리는 노선도를 따라 순조롭게 지상으로 돌아갔다.	Just as I suspected, we found a map detailing the entry and exit routes left behind in the Adventist stronghold. We then easily made our way back up to the street.						0	
+44	多亏了分析员的你的决定，在困难的情境下作出如此理智的判断实在让人佩服，这样我们才回到了地上。	幸虧分析員的決策，在困難的情況下做出如此理智的判斷實在讓人佩服，因此我們才能順利回到地面上。	困難な状況に置かれても理性的な判断ができる分析員の決断のおかげで、地上に戻ることができた。本当に感心した。	분석가가 이성적인 판단을 내려줘서 고맙다. 이렇게 어려운 상황 속에서도 냉철한 판단을 내렸기에 지상으로 돌아올 수 있었다.	Thank goodness for your decision-making skills, Adjutant. We were stuck in a difficult situation, but your rational judgment helped us get back up to the street.						0	
+b-7											0	
+45	……这也是书中写的吧。	……這些話也是書上寫的吧。	……それも本に書かれてた内容か。	… 이것도 책에서 나온 대사지?	...Is this final praise some technique from your book too?						0	
+46	诶，这是我内心对分析员最真实的想法。	欸，這是我內心對分析員最真實的想法。	え？今のは分析員に言いたい本音だけど。	음, 이건 분석가에 대해서 진지하게 생각하는 내 마음이었다.	Hm? That's how I truly feel, Adjutant...						0	
+b-8											0	
+47	诶？	欸？	え？	응?…	Oh?						0	
+48	你们两个别磨蹭了！快回海姆达尔！我要洗澡！	你們兩個別慢吞吞的!快回海姆達爾!我要洗澡!!	もうグズグズしないの！早くヘイムダルに戻るわよ！お風呂に浸かりたいの！	너희 둘 다 거기서 뭐해! 얼른 헤임달로 돌아가자! 얼른 씻고 싶다고!	What's the holdup, you two? Let's head back! I need to shower!						0	

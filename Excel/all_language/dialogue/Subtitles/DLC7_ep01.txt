@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1000	对不起……对不起……我必须……	對不起……對不起……我必須……	ごめんね……ムルソー……	죄송해요… 죄송해요… 제가 반드시…	Sorry... I'm sorry... I must...						0	
+1001	<span size="40">接下来，就由我来背负所有的不幸与苦难</>	<span size="40">接下來，就由我來背負所有的不幸與苦難</>	<span size="40">これからは、私が全てを背負う。</>	<span size="40">지금부터는 내가 모든 불행과 고난을 짊어질게.</>	<span size="40">From this moment forward, I will shoulder all of your misery and suffering.</>						0	

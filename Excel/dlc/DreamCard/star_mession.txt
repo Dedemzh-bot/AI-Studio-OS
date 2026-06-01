@@ -1,0 +1,16 @@
+﻿星级目标ID	备注	描述Key	目标描述	配置描述
+StarMessID	Comment	StarDes	Des	
+1	生命值	dreamcard.star_mes01	未损失生命值	{}
+2	生命值	dreamcard.star_mes02	战斗结束后生命值大于X	{生命值}
+3	探梦等级	dreamcard.star_mes03	探梦等级提升至X	{等级}
+4	剩余能量	dreamcard.star_mes04	战斗结束后剩余能量大于X	{数值}
+5	流派能量	dreamcard.star_mes05	本局内拥有X个获取能量超过Y的流派	{个数,数值}
+6	能量流派	dreamcard.star_mes06	使用X流派获取Y能量	{流派ID,数值}
+7	宝物能量	dreamcard.star_mes07	宝物获取的能量累计超过X	[数值}
+8	棋子能量	dreamcard.star_mes08	单个棋子单回合获得的能量超过X	{数值}
+9	棋子能量	dreamcard.star_mes09	拥有X个单回合内获取能量超过Y的棋子	{个数,数值}
+10	获取棋子	dreamcard.star_mes10	获取X个Y星棋子	{个数,星级}
+11	获取宝物	dreamcard.star_mes11	获取X个Y星宝物	{个数,星级}
+12	棋子数量	dreamcard.star_mes12	战斗结束后拥有棋子数量不超过X	{数量}
+13	蜂箱	dreamcard.star_mes13	累计消除X个对应ID的棋子	{个数,棋子ID}
+14	古籍完本	dreamcard.star_mes14	成功获得X个对应ID的棋子	{个数,棋子ID}

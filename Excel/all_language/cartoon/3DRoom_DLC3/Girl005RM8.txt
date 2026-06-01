@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，早安。	分析員，早安。	おはようございます、分析員さん。	분석가님, 좋은 아침이에요.	Good morning, Adjutant.						0	
+page0.2	早啊，茉莉安。	早啊，茉莉安。	おはよう、マリアン。	좋은 아침이야, 마리안.	Morning, Marian.						0	
+page0.3	看你的样子，这么早就要出门吗？	看你這身打扮，這麼早就要出門嗎?	こんな時間にもう出かけるのか？	아침부터 나가는 거야?	Looks like you're heading out? Why so early?						0	
+page0.4	嗯，刚刚接到了一个缓冲区的任务。	嗯，剛剛接到了一個緩衝區的任務。	はい。ついさっき、バッファーエリアでの任務が届きましたので。	네, 방금 버퍼 구역의 미션을 받았어요.	I just got assigned a mission in the Buffer Sections.						0	
+page0.5	我到餐厅这边来拿一份早餐，然后就出发了。	我到餐廳來拿早餐後就準備出發了。	食堂で朝食を頂いたら出発するつもりです。	식당에서 아침 식사 좀 챙겨서 나가려고요.	I just came to the canteen to grab breakfast. I'll be leaving soon.						0	
+page0.6	任务吗？	任務嗎?	任務？	미션?	A mission?						0	
+page0.7	要不我和你一起去吧。	不然我和你一起去吧。	私も一緒に行こうか。	나도 같이 갈까?	Why don't I go with you?						0	
+page0.8	哎？不，不用了，只是一个很简单的任务而已。	欸?不、不用了，只是一個很簡單的任務而已。	え？け、結構です。とても簡単な任務ですから。	네? 아, 아니에요, 아주 간단한 미션이거든요.	Eh? Th—That's okay. It's just a simple mission.						0	
+page0.9	很简单的话，你能保证安然无恙地回来吗？	很簡單的話，你能保證不要受傷嗎?	とても簡単なものなら、無事に戻ってきてくれる？	간단하다면, 무사히 돌아올 수 있는 거지?	If it's really that simple, can you guarantee you'll come back unharmed?						0	
+page0.10	这个……	這個……	それは……	그건…	Well...						0	
+page0.11	如果是分析员的要求的话，我会尽量……	如果是分析員的要求的話，我盡量……	分析員さんが望むなら、できるだけ……	그게 분석가님의 요구사항이라면, 최대한…	Since you're asking me, Adjutant, I'll do my best...						0	
+page0.12	不是尽量，是一定要保护好自己。	不是盡量，是一定要保護好自己。	できるだけじゃなく、ちゃんと自分を守るんだ。	최대한이 아니라, 반드시 스스로를 잘 보호해야 해.	Don't just try. You have to take care of yourself.						0	
+page0.13	唔！	唔！	う！	윽!	Um...!						0	
+page0.14	我明白了，我会听分析员的。	明白了，我會聽分析員的話。	分かりました、約束しましょう。	알겠어요, 그렇게 할게요.	I understand. I'll do as you say, Adjutant.						0	

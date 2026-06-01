@@ -1,0 +1,83 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+WorldBoss_txt1	冬日接力战	冬日接力戰	共闘大会・冬の部	윈터 릴레이 배틀	Wintertide Relay						0	DLC34冬日接力战
+WorldBoss_txt2	周期一	週期一	周期Ⅰ	주기 1	Phase 1						0	DLC34冬日接力战
+WorldBoss_txt3	周期二	週期二	周期Ⅱ	주기 2	Phase 2						0	DLC34冬日接力战
+WorldBoss_txt4	暂未上榜	暫未上榜	ランキング外	랭킹 외	Unranked						0	DLC34冬日接力战
+WorldBoss_txt5	周期二切换倒计时%s	週期二切換倒數計時%s	周期Ⅱに切り替わるまで残り%s	주기 2 교체까지: %s	Countdown to Phase 2: %s						0	DLC34冬日接力战
+WorldBoss_txt6	当前阵容排行第%s名	當前陣容排行第%s名	当編成の現在順位：%s	현재 스쿼드 순위 %s위	Current lineup ranked No. %s						0	DLC34冬日接力战
+WorldBossResult_txt1	重新挑战	重新挑戰	再チャレンジ	재도전	Retry						0	DLC34冬日接力战
+WorldBossResult_txt2	放弃挑战	放棄挑戰	諦める	도전 포기	Give Up						0	DLC34冬日接力战
+WorldBossResult_txt3	保存退出	儲存退出	保存して退出	저장 후 종료	Save & Exit						0	DLC34冬日接力战
+WorldBossResult_txt4	放弃挑战不消耗次数	放棄挑戰不消耗次數	チャレンジを諦めた場合、回数は消費されません	도전을 종료하면 횟수를 소모하지 않습니다.	Giving up does not consume an attempt						0	DLC34冬日接力战
+WorldBossResult_txt5	剩余挑战次数：%s	剩餘挑戰次數：%s	残りチャレンジ回数：%s回	남은 도전 횟수: %s	Attempts Left: %s						0	DLC34冬日接力战
+WorldBossResult_txt6	作战记录已经成功保存	作戰記錄已經成功儲存	作戦記録保存完了	전투 기록이 성공적으로 저장되었습니다.	Saved successfully						0	DLC34冬日接力战
+WorldBossrank_txt1	周期一阵容榜	週期一陣容榜	周期Ⅰ編成ランキング	주기 1 스쿼드 랭킹	Phase 1 Lineups						0	DLC34冬日接力战
+WorldBossrank_txt2	周期一个人榜	週期一個人榜	周期Ⅰ個人ランキング	주기 1 개인 랭킹	Phase 1 Personal						0	DLC34冬日接力战
+WorldBossrank_txt3	周期二阵容榜	週期二陣容榜	周期Ⅱ編成ランキング	주기 2 스쿼드 랭킹	Phase 2 Lineups						0	DLC34冬日接力战
+WorldBossrank_txt4	周期二个人榜	週期二個人榜	周期Ⅱ個人ランキング	주기 2 개인 랭킹	Phase 2 Personal						0	DLC34冬日接力战
+WorldBossrank_txt5	可挑战	可挑戰	チャレンジ可能	도전 가능	Challenge Open						0	DLC34冬日接力战
+WorldBossrank_txt6	本期挑战已结束	本期挑戰已結束	今期は終了済み	이번 주기의 도전이 종료되었습니다.	Phase Ended						0	DLC34冬日接力战
+WorldBossrank_txt7	敬请期待	敬請期待	お楽しみに	미오픈	Stay Tuned!						0	DLC34冬日接力战
+WorldBossrank_txt8	排行榜将在%s后锁定	排行榜將在%s後鎖定	ランキングは%s後にロックされる	랭킹은 %s 후에 잠깁니다.	Leaderboard locks in %s						0	DLC34冬日接力战
+WorldBossrank_txt9	%s后依据最高排名阵容发放邮件奖励	%s後依據最高排名陣容發放信件獎勵	%s後に最高順位によってメール報酬が配布される	%s 후 순위가 가장 높은 스쿼드를 기준으로 메일을 통해 보상을 지급해 드립니다.	Rewards will be sent via mail based on highest ranking lineups in %s						0	DLC34冬日接力战
+WorldBossrank_txt10	本期排行已结束，请查收邮件奖励	本期排行已結束，請查收信件獎勵	ランキング終了、報酬はメールで配布	이번 주기 랭킹이 종료되었습니다. 보상 메일을 확인해 주세요.	The leaderboard for this phase has ended. Check your mail for rewards.						0	DLC34冬日接力战
+WorldBossrank_txt11	持有相同阵容	持有相同陣容	同じ編成を所持しています	동일한 스쿼드 보유 중	Have Lineup						0	DLC34冬日接力战
+WorldBossrank_txt12	未持有相同阵容	未持有相同陣容	同じ編成を所持していません	동일한 스쿼드 미 보유	Don't Have Lineup						0	DLC34冬日接力战
+WorldBossrank_txt13	排行结束后发放	排行結束後發放	ランキング終了後に配布	랭킹 종료 후 지급	Rewards will be sent after leaderboard closes						0	DLC34冬日接力战
+WorldBossrank_txt14	排行榜每次进入刷新	排行榜每次進入刷新	入るたびにランキング更新	랭킹은 접속할 때마다 갱신됩니다.	Refreshes upon entry						0	DLC34冬日接力战
+WorldBossrank_txt15	排行公示剩余%s	排行公示剩餘%s	ランキング公開残り%s	랭킹 발표까지: %s	Publication period ends in %s						0	DLC34冬日接力战
+WorldBossrank_txt16	本期排行榜统计已结束	本期排行榜統計已結束	今期のランキング統計は終了しました	이번 시즌 랭킹 통계가 종료되었습니다.	The leaderboard for this phase has been finalized						0	DLC34冬日接力战
+WorldBossrank_txt17	参与挑战后可领取对应奖励	參與挑戰後可領取對應獎勵	チャレンジして報酬を入手	도전 참여 후 해당하는 보상 수령 가능	Participate in the challenge to claim rewards.						0	DLC34冬日接力战
+WorldBossaward_txt1	阶段奖励	階段獎勵	フェーズ報酬	단계 보상	Milestone Rewards						0	DLC34冬日接力战
+WorldBossaward_txt2	阵容奖励	陣容獎勵	編成報酬	스쿼드 보상	Lineup Rewards						0	DLC34冬日接力战
+WorldBossaward_txt3	已过期	已過期	有効期限が切れました	기간 만료	Expired						0	DLC34冬日接力战
+WorldBossaward_txt4	周期二开启	週期二開啟	周期Ⅱ開放	주기 2 오픈	Phase 2 Begins						0	DLC34冬日接力战
+WorldBossaward_txt5	累计奖励	累計獎勵	追加報酬	누적 보상	Task Rewards						0	DLC34冬日接力战
+WorldBoss_MissionTitle1	一起来攻略吧！	一起來攻略吧！	レッツ攻略！	함께 공략해 보세요!	Let's Do This Together!						0	DLC34冬日接力战
+WorldBoss_MissionTitle2	朝着目标前进！	朝著目標前進！	目標に向かって！	목표를 향해 나아가세요!	Stay the Course!						0	DLC34冬日接力战
+WorldBoss_MissionTitle3	合作才是重点！	合作才是重點！	チームワークが大切！	협력이 핵심입니다!	Teamwork Is Key!						0	DLC34冬日接力战
+WorldBoss_MissionTitle4	搞定收工！	搞定收工！	よしっと！	완료! 마무리!	All Done!						0	DLC34冬日接力战
+WorldBoss_MissionTitle5	下半场开始！	下半場開始！	後半開始！	후반전이 시작되었습니다!	Round Two, Let's Go!						0	DLC34冬日接力战
+WorldBoss_MissionTitle6	再接再厉啦！	再接再厲啦！	引き続き頑張って！	더 분발해 보세요!	Keep It Up!						0	DLC34冬日接力战
+WorldBoss_MissionTitle7	前面就是终点！	前面就是終點！	ゴールは目の前！	결승선이 바로 앞에 있습니다!	Almost There!						0	DLC34冬日接力战
+WorldBoss_MissionTitle8	通关留念！	通關留念！	クリア記念！	클리어 기념!	Victory Moment!						0	DLC34冬日接力战
+WorldBoss_MissionTitle9	积分王1	積分王1	ポイントキングⅠ	점수 마스터 1	Points King I						0	DLC34冬日接力战
+WorldBoss_MissionTitle10	积分王2	積分王2	ポイントキングⅡ	점수 마스터 2	Points King II						0	DLC34冬日接力战
+WorldBoss_MissionTitle11	积分王3	積分王3	ポイントキングⅢ	점수 마스터 3	Points King III						0	DLC34冬日接力战
+WorldBoss_MissionTitle12	重在参与1	重在參與1	とにかく参加Ⅰ	참여가 중요한 법 1	Participation Matters I						0	DLC34冬日接力战
+WorldBoss_MissionTitle13	重在参与2	重在參與2	とにかく参加Ⅱ	참여가 중요한 법 2	Participation Matters II						0	DLC34冬日接力战
+WorldBoss_MissionTitle14	重在参与3	重在參與3	とにかく参加Ⅲ	참여가 중요한 법 3	Participation Matters III						0	DLC34冬日接力战
+WorldBoss_MissionTitle15	二周目-积分王1	二周目-積分王1	二周目-ポイントキングⅠ	주기 2 - 점수 마스터 1	Phase 2 - Points King I						0	DLC34冬日接力战
+WorldBoss_MissionTitle16	二周目-积分王2	二周目-積分王2	二周目-ポイントキングⅡ	주기 2 - 점수 마스터 2	Phase 2 - Points King II						0	DLC34冬日接力战
+WorldBoss_MissionTitle17	二周目-积分王3	二周目-積分王3	二周目-ポイントキングⅢ	주기 2 - 점수 마스터 3	Phase 2 - Points King III						0	DLC34冬日接力战
+WorldBoss_MissionTitle18	二周目-重在参与1	二周目-重在參與1	二周目-とにかく参加Ⅰ	주기 2 - 참여가 중요한 법 1	Phase 2 - Participation Matters I						0	DLC34冬日接力战
+WorldBoss_MissionTitle19	二周目-重在参与2	二周目-重在參與2	二周目-とにかく参加Ⅱ	주기 2 - 참여가 중요한 법 2	Phase 2 - Participation Matters II						0	DLC34冬日接力战
+WorldBoss_MissionTitle20	二周目-重在参与3	二周目-重在參與3	二周目-とにかく参加Ⅲ	주기 2 - 참여가 중요한 법 3	Phase 2 - Participation Matters III						0	DLC34冬日接力战
+WorldBoss_MissionDes1	达成周期一 25%进度	達成周期一 25%進度	周期Ⅰ進行度25％達成	주기 1에서 25% 진도 달성	Reach 25% in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes2	达成周期一 50%进度	達成周期一 50%進度	周期Ⅰ進行度50％達成	주기 1에서 50% 진도 달성	Reach 50% in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes3	达成周期一 75%进度	達成周期一 75%進度	周期Ⅰ進行度75%達成	주기 1에서 75% 진도 달성	Reach 75% in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes4	达成周期一 100%进度	達成周期一 100%進度	周期Ⅰ進行度100％達成	주기 1에서 100% 진도 달성	Reach 100% in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes5	达成周期二 25%进度	達成周期二 25%進度	周期Ⅱ進行度25%達成	주기 2에서 25% 진도 달성	Reach 25% in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes6	达成周期二 50%进度	達成周期二 50%進度	周期Ⅱ進行度50%達成	주기 2에서 50% 진도 달성	Reach 50% in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes7	达成周期二 75%进度	達成周期二 75%進度	周期Ⅱ進行度75%達成	주기 2에서 75% 진도 달성	Reach 75% in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes8	达成周期二 100%进度	達成周期二 100%進度	周期Ⅱ進行度100%達成	주기 2에서 100% 진도 달성	Reach 100% in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes9	周期一积分量达到档位1	周期一積分量達到檔位1	周期Ⅰの合計ポイントがランク1に達する	주기 1 점수가 1단계 도달	Reach Points Tier 1 in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes10	周期一积分量达到档位2	周期一積分量達到檔位2	周期Ⅰの合計ポイントがランク2に達する	주기 1 점수가 2단계 도달	Reach Points Tier 2 in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes11	周期一积分量达到档位3	週期一積分量達到檔位3	周期Ⅰの合計ポイントがランク3に達する	주기 1 점수가 3단계 도달	Reach Points Tier 3 in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes12	周期一参与次数1次	週期一參與次數1次	周期Ⅰの参加回数：1回	주기 1 참여 횟수 1회 달성	Participate 1 time in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes13	周期一参与次数2次	週期一參與次數2次	周期Ⅰの参加回数：2回	주기 1 참여 횟수 2회 달성	Participate 2 times in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes14	周期一参与次数3次	週期一參與次數3次	周期Ⅰの参加回数：3回	주기 1 참여 횟수 3회 달성	Participate 3 times in Phase 1						0	DLC34冬日接力战
+WorldBoss_MissionDes15	周期二积分量达到档位1	週期二積分量達到檔位1	周期Ⅱの合計ポイントがランク1に達する	주기 2 점수가 1단계 도달	Reach Points Tier 1 in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes16	周期二积分量达到档位2	週期二積分量達到檔位2	周期Ⅱの合計ポイントがランク2に達する	주기 2 점수가 2단계 도달	Reach Points Tier 2 in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes17	周期二积分量达到档位3	週期二積分量達到檔位3	周期Ⅱの合計ポイントがランク3に達する	주기 2 점수가 3단계 도달	Reach Points Tier 3 in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes18	周期二参与次数1次	週期二參與次數1次	周期Ⅱの参加回数：1回	주기 2 참여 횟수 1회 달성	Participate 1 time in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes19	周期二参与次数2次	週期二參與次數2次	周期Ⅱの参加回数：2回	주기 2 참여 횟수 2회 달성	Participate 2 times in Phase 2						0	DLC34冬日接力战
+WorldBoss_MissionDes20	周期二参与次数3次	週期二參與次數3次	周期Ⅱの参加回数：3回	주기 2 참여 횟수 3회 달성	Participate 3 times in Phase 2						0	DLC34冬日接力战
+WorldBossaward_tip1	挑战次数已经耗尽	挑戰次數已經耗盡	チャレンジ回数が切れました	도전 횟수가 모두 소진되었습니다.	No attempts left						0	DLC34冬日接力战
+WorldBossaward_tip2	当前周期boss讨伐完成	當前週期boss討伐完成	周期ボス討伐完了	현재 주기의 보스가 토벌되었습니다.	Current phase boss defeated						0	DLC34冬日接力战
+WorldBossaward_tip3	boss挑战周期已更新	boss挑戰週期已更新	ボスのチャレンジ周期が更新されました	보스 도전 주기가 갱신되었습니다.	Boss challenge phase refreshed						0	DLC34冬日接力战
+bossname1	精准打击	精準打擊	精密アタック	정밀 타격	Precision Strike						0	DLC34冬日接力战
+bossname2	火力全开	火力全開	火力全開	화력 전개	Full Burst						0	DLC34冬日接力战
+bossdes1	自身每15次射击命中，特异类型伤害提升20%，持续10秒，最多叠加至4层。	自身每15次射擊命中，特異類型傷害提升20%，持續10秒，最多疊加至4層。	射撃が15回命中するごとに、10秒間特異系ダメージ+20%（最大4スタック）。	자신의 사격이 15회 명중할 때마다 혼돈 유형 대미지가 20% 증가하며, 최대 4스택까지 중첩할 수 있다. 지속 시간: 10초.	For every 15 shot hits, increases Chaos DMG by 20% for 10 sec, up to 4 stacks.						0	DLC34冬日接力战
+bossdes2	装备特异类型武器时，使用常规技后，会使自身射击伤害提升40%并且无视目标30%的防御力，持续1秒。	裝備特異類型武器時，使用常規技後，會使自身射擊傷害提升40%並且無視目標30%的防禦力，持續1秒。	特異系武器を装備中、通常技を発動後の1秒間、自身の射撃ダメージ+40%、かつ敵の防御力を30%無視する。	혼돈 무기를 장착할 때, 일반 스킬을 사용하면 자신의 사격 대미지가 40% 증가하고 타깃의 방어력을 30% 무시한다. 지속 시간: 1초.	After using Standard Skill when equipped with a Chaos weapon, increases Ballistic DMG by 40% and ignores 30% of target's DEF for 1 sec.						0	DLC34冬日接力战

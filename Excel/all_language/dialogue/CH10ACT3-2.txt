@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	星期三，还真被你说中了。	星期三，還真被你說中了。	ウェンズデーの予測、どうやら当たったようね。	웬스데이 말대로야.	Wednesday, you're right.						0	
+2	喂，没有命令禁止我们还击吧？	喂，沒有禁止我們還擊的命令吧？	ねぇ、反撃禁止って命令は出てないのよね？	이봐, 근데 반격을 하지 말라는 명령은 없었지?	Hey, there's no rule against us hitting back, right?						0	
+3	没有这样的限制。	沒有這樣的限制。	そのような制限はございません。	그런 명령은 없었어요.	Nope.						0	

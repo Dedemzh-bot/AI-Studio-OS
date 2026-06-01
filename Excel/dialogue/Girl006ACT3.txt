@@ -1,0 +1,4 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	晴			<red>这些家伙只用射击解决不了，要拿我的拳头砸才行。</>	0	
+2		0	晴			<red>注意了，必须使用技能才能完成最后一击。</>	0	

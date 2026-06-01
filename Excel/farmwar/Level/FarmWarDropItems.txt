@@ -1,0 +1,5 @@
+ID	描述	Name	拾取吸附半径(cm)	同屏最大数量限制	特效路径1	特效路径2
+Id	Desc	Name	Radius	MaxNum	NiagaraPath1	NiagaraPath2
+1	能量	Energy	6000	-1	e_farmwar_coinfly_01_p.e_farmwar_coinfly_01_p	e_farmwar_coinidle_01_p.e_farmwar_coinidle_01_p
+2	金币	Gold	6000	-1	e_farmwar_coinfly_02_p.e_farmwar_coinfly_02_p	e_farmwar_coinidle_02_p.e_farmwar_coinidle_02_p
+3	让金币获取增加的道具	MoreGoldItem	6000	1	e_farmwar_coinfly_03_p.e_farmwar_coinfly_03_p	e_farmwar_coinidle_03_p.e_farmwar_coinidle_03_p

@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	哈啊——	哈啊——	ふぁ——	하아암…	Haaahhhhhh—						0	
+page1.2	好大一个哈欠。	好大一個哈欠。	すごいあくびだね。	하품도 참 크게 하네~	Well. That was a big yawn.						0	
+page1.3	你以为是谁害的啊，昨晚拉着我打游戏到凌晨。	你以為是誰害的啊，昨晚拉著我打遊戲到凌晨。	一体誰のせいだろうな。昨晩はゲームに付き合ってって言われて深夜までやらされた気がするけど。	이게 누구 때문인데! 어젯밤에 너랑 새벽까지 게임해서 이러는 거 아니야!	And whose fault is that? You've forced me to play games with you for the entire night.						0	
+page1.4	对于刚康复不久的人来说，适当的娱乐有利于找回状态。	對於剛康復不久的人來說，適當的娛樂有利於找回狀態。	病み上がりの人にとって、適度なゲームは状態回復にいいよ。	최근에 회복한 사람들한테 적절한 게임은 오히려 도움이 될 수 있어.	It's important for people in recovery to have some proper entertainment.						0	
+page1.5	你管这叫“适当”？天都快亮了！	你管這叫“適當”？ 天都快亮了！	あれが「適度」？夜が明けるところだったのに！	넌 이게 적절한 걸로 보여? 벌써 해가 다 떴는데!	You call this "proper"? It's almost light out!						0	
+page1.6	对于经常连续十几小时作战的你来说，应该算“适当娱乐”了。	對於經常連續十幾小時作戰的你來說，應該算“適當娛樂”了。	いつも十数時間も作戦に出っぱなしのあなたにとっては、それくらいが「適度」じゃない？	평소에 10시간 이상 전투에 나가는 너한테는 적절한 거라 생각했는데.	You are often in combat for over 10 hours at a time — this is definitely "proper".						0	
+page1.7	行吧……	行吧……	まあいいか……	말을 말자…	Alright, fine...						0	
+page1.8	这个游戏必须两人一起玩，我也没办法，只能拉上你。	這遊戲必須兩人一起玩，我也沒辦法，只能拉上你。	あれは2人用のゲームだから、仕方なく呼んだの。	게임을 하려면 적어도 둘은 있어야 된다고. 그래서 어쩔 수 없이 널 부른 거고.	Besides, this is a two-player game. I had to drag you over.						0	
+page1.9	你今晚能找其他人陪你吗？我想好好休息一下。	你今晚能找其他人陪你嗎？我想好好休息一下。	今夜は他の誰かにしてくれないか？私はちゃんと休みたいから。	오늘은 다른 사람 좀 찾아주면 안 될까? 나도 좀 쉬고 싶은데.	Can you find someone else to play with you tonight? I want to get some rest.						0	
+page1.10	打游戏也是一种休息。	打遊戲也是一種休息。	ゲームも休みの1つだよ。	게임을 하는 것도 쉬는 거야.	Playing games is another way to rest.						0	
+page1.11	我是说我想早点睡觉。	我是說我想早點睡。	早く寝たいって言ってるんだよ。	내가 말하는 건, 제발 잠 좀 일찍 자고 싶다는 거야!	I mean I want to sleep early.						0	
+page1.12	……	……	……	…	...						0	
+page1.13	怎么了吗？	怎麼了嗎？	どうした？	왜? 왜 그러는데?	What's wrong?						0	
+page1.14	其他人都不会用手柄。	其他人都不會用手把。	他の人はコントローラーをうまく使えない。	다른 사람들은 조이스틱을 사용할 줄 몰라.	No one else knows how to use a controller.						0	
+page1.15	（对哦，现在基地只有她和我会用手柄。）	（對哦，現在基地只有她和我會用手把。）	（そうだ、今社員寮でコントローラーを使えるのは彼女と私だけだ。）	(듣고 보니 그렇네… 우리 둘 말고는 사용할 줄 아는 사람이 없지…)	(That's right — she and I are the only ones in the Base who know how to play console games.)						0	
+page1.16	你别这么直勾勾看着我了，我陪你玩就是了。	你別這麼直勾勾看著我了，我陪你玩就是了。	そんな目で見るなよ、遊んであげるから。	그렇게 빤히 쳐다보지 마. 알겠어! 놀아주면 되잖아!	Don't stare at me like that. I'll play with you.						0	
+page1.17	今晚我多准备点咖啡。	今晚我多準備點咖啡。	じゃあ、コーヒーを多めに用意しておくね。	오늘은 대신 특별히 커피 좀 준비해둘게.	I'll make some extra coffee tonight.						0	
+page1.18	别，我们还是争取早点通关早点睡吧。	別，我們還是爭取早點通關早點睡吧。	いや、さっさとクリアして休もう。	됐어! 그냥 일찍 좀 자자, 제발.	No. Let's try to beat the level fast and get to sleep early.						0	

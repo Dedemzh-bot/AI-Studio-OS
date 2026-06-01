@@ -1,0 +1,33 @@
+﻿Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+21	入场	sequence	girl021a_02_tel_start	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_start.girl021a_02_tel_start'	
+2	loopAstand	sequence	girl021a_02_tel_loopA_stand	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_loopA_stand.girl021a_02_tel_loopA_stand'	
+3	loopA01长loop	sequence	girl021a_02_tel_loopA_01	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_loopA_01.girl021a_02_tel_loopA_01'	
+4	loopA02点击	sequence	girl021a_02_tel_loopA_02	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_loopA_02.girl021a_02_tel_loopA_02'	
+5	loopB自言自语	sequence	girl021a_02_tel_loopB	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_loopB.girl021a_02_tel_loopB'	
+6	切换到talk	sequence	girl021a_02_tel_loop_totalk	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_loop_totalk.girl021a_02_tel_loop_totalk'	
+7	talkstand	sequence	girl021a_02_tel_talk_stand	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_stand.girl021a_02_tel_talk_stand'	
+8	福利01	sequence	girl021a_02_tel_talk_yao	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_yao.girl021a_02_tel_talk_yao'	
+9	福利02	sequence	girl021a_02_tel_talk_taitui	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_taitui.girl021a_02_tel_talk_taitui'	
+10	福利03	sequence	girl021a_02_tel_talk_shuaidao	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_shuaidao.girl021a_02_tel_talk_shuaidao'	
+13	撩头发	sequence	girl021a_02_tel_talk_liaofa	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_liaofa.girl021a_02_tel_talk_liaofa'	
+15	点头	sequence	girl021a_02_tel_talk_diantou	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_diantou.girl021a_02_tel_talk_diantou'	
+16	疑惑	sequence	girl021a_02_tel_talk_yihuo	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_yihuo.girl021a_02_tel_talk_yihuo'	
+17	害羞	sequence	girl021a_02_tel_talk_haixiu	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_haixiu.girl021a_02_tel_talk_haixiu'	
+18	思考	sequence	girl021a_02_tel_talk_sikao	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_sikao.girl021a_02_tel_talk_sikao'	
+19	切换到loop	sequence	girl021a_02_tel_talk_toloop	AnimSequence'/Game/Characters/Girl/girl021a_02/Anim/callme/girl021a_02_tel_talk_toloop.girl021a_02_tel_talk_toloop'	
+					
+					
+					
+					
+					
+					
+97	左转	sequence	girl006_01_house_dialogue_turn_L	AnimSequence'/Game/Characters/Girl/girl006_01/Anim/house/girl006_01_house_dialogue_turn_L.girl006_01_house_dialogue_turn_L'	
+98	右转	sequence	girl006_01_house_dialogue_turn_R	AnimSequence'/Game/Characters/Girl/girl006_01/Anim/house/girl006_01_house_dialogue_turn_R.girl006_01_house_dialogue_turn_R'	
+99	呼吸叠加素材	sequence	girl006_01_house_dialogue_Tpose	AnimSequence'/Game/Characters/Girl/girl006_01/Anim/house/girl006_01_house_dialogue_Tpose.girl006_01_house_dialogue_Tpose'	
+100	一次思考	custom_seq	10;11;12		
+101	思考循环	custom_loop_last	10;11		
+102	喝咖啡随后吧台坐	custom_loop_last	16;4		
+103	一次叉腰	custom_seq	19;20;21		
+104	叉腰循环	custom_loop_last	19;20		
+105	陪伴入场	custom_seq	22;23		

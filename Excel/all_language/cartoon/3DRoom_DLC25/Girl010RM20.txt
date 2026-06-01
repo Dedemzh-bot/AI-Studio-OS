@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	郎君~你要是不忙的话，和我一起看会儿书怎么样？	郎君~你如果不忙的話，跟我一起看些書怎麼樣？	旦那～？もし忙しくないなら、いっしょに本でも読む？	낭군~ 바쁘지 않으면 나랑 같이 책 좀 볼래?	My Prince~ If you're not busy, do you want to read a book with me?						0	2.5版本随机事件
+page1.2	行啊，正好我也想午休……	行啊，正好我也想午休……	いいよ、ちょうど私も昼休みを取るつもり……	좋아, 나도 점심시간에 쉴 겸…	Sure. I'm about to break for lunch anywa—						0	2.5版本随机事件
+page1.3	等等，你说的是……看书？	等等，你說的是……看書？	……待って。本でも読むって言ったか？	잠깐, 방금 네가… 책을 본다고 했어?	Wait, did you say... read?						0	2.5版本随机事件
+page1.4	干嘛一副很惊讶的表情，我不能偶尔看看书吗？	幹嘛一副很驚訝的表情，我不能偶爾看看書嗎？	なに驚いてんの？本を読んじゃいけなかった？	왜 그렇게 놀란 표정이야? 나도 가끔 책 볼 수 있는 거 아니야?	Why do you look so surprised? Can't I read a book once in a while?						0	2.5版本随机事件
+page1.5	当然行，那你打算看什么书？	當然行，那你打算看什麼書？	もちろんそんなことはないけど……なにを読むんだ？	물론이지. 그럼 무슨 책 볼 건데?	Of course. What did you want to read?						0	2.5版本随机事件
+page1.6	嗯……我准备了《秘戏图考》、《胜蓬莱》，还有什么……花营……什么的……	嗯……我準備了《祕密圖考》、《勝蓬萊》，還有什麼……花營……什麼的……	えっと……私が持ってきたのは、『秘儀図考』と、『勝蓬莱』と……それから……花苑なんとか……	음… 내가 준비한 건 <비희도고>, <승봉래>, 그리고 뭐더라…화영… 뭐 그런 거…	Well... I've got "Intimate Color Prints of the Dynastic Period," "Penglai Scenes of Delight," and... a book about "pleasure gardens"...						0	2.5版本随机事件
+page1.7	听上去都是朔州的古书啊。	聽起來都是朔州的古書啊。	タイトルから考えるに、朔州の古書ばかりだな。	다 삭주의 고서들이네.	Those sound like ancient books from Shuozhou.						0	2.5版本随机事件
+page1.8	是啊，朔州那边有这么个说法，把这些书放在房里偶尔翻阅，恒约后的日子就会更加幸福。	是啊，朔州那邊有這麼個說法，把這些書放在房裡偶爾翻閱，恆約後的日子就會更加幸福。	そうだよ。朔州では、たまに部屋でこういう本を読んだら、誓約後の生活が潤うって言われてるんだ。	맞아. 삭주에서는 그런 얘기가 있어. 이런 책들을 방에 두고 가끔 펼쳐 보면, 언약 후의 삶이 더 행복해진다고 하더라고.	Yep. In Shuozhou, they say you'll have a happy life after your Covenant if you put those books in your room and flip through them once in a while.						0	2.5版本随机事件
+page1.9	我这不是想着和郎君一起试试~	我這不是想著跟郎君一起試試看~	だから、旦那といっしょに読みたいと思ってさ～	그래서 낭군이랑 같이 한번 해 보려고~	I wasn't thinking of trying that stuff out with you or anything~						0	2.5版本随机事件
+page1.10	（嗯？这些书该不会是……）	（嗯？這些書該不會是……）	（ん？それって、つまり……）	(음? 이 책들이 설마…)	(Huh? Are those books...?)						0	2.5版本随机事件
+page1.11	嘿~郎君，我们从哪本开始？	嘿~郎君，我們從哪一本開始？	さて、どれから読みたい？	헤헤~ 낭군, 어떤 책부터 시작할까?	So, My Prince, which book should we start with~?						0	2.5版本随机事件
+choice01	《秘戏图考》	《秘戲圖考》	『秘儀図考』	<비희도고>	Intimate Color Prints of the Dynastic Period						0	2.5版本随机事件
+choice02	《胜蓬莱》	《勝蓬萊》	『勝蓬莱』	<승봉래>	Penglai Scenes of Delight						0	2.5版本随机事件
+page2.1	那就这本了！	那就這本了！	オッケー！	그럼 이 책으로 하자!	This one!						0	2.5版本随机事件
+page2.2	肴翻开了这本书……	肴翻開了這本書……	肴はそう言いながらページをめくった。	야오가 책을 펼쳤다…	Yao opened the book...						0	2.5版本随机事件
+page2.3	朔州软笔勾出灵动的眷侣，正琴瑟和鸣，好不畅快。	朔州軟筆勾出靈動的眷侶，正琴瑟和鳴，好不暢快。	そこには朔州らしい絵で、恋人同士が寄り添い合う様子を描かれていた。	삭주의 붓으로 그려진 생생한 커플이 마치 악기가 화음을 이루듯 더없이 유쾌하게 어우러져 있다.	The Shuozhou-style drawing depicted a graceful pair of lovers on a zither, making music together with pure joy.						0	2.5版本随机事件
+page2.4	等等，这里面是……	等等，這裡面是……	待って。これは……	잠깐, 이 내용은…	Wait a second, this is...						0	2.5版本随机事件
+page2.5	郎君……要继续看下去吗？	郎君……要繼續看下去嗎？	旦那……まだ読むの？	낭군… 계속 읽어볼래?	My Prince... do you want to keep reading?						0	2.5版本随机事件
+page2.6	继续吧，毕竟对我们以后的生活大有帮助啊。	繼續吧，畢竟對我們往後的生活大有幫助。	読もう。これからの生活に役に立つはずだ。そうだろう？	계속 보자. 어차피 우리 앞으로의 삶에 큰 도움이 될 테니까.	Let's keep going. After all, this will be a big help for the days to come.						0	2.5版本随机事件

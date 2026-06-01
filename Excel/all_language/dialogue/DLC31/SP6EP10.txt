@@ -1,0 +1,95 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	欢迎加入海姆达尔。	歡迎加入海姆達爾。	ようこそ、ヘイムダルへ。	헤임달에 온 걸 환영해.	Welcome to the Heimdall Force.						0	3.1主线剧情
+2	我把专属于她的配枪递给她，她煞有其事地接过。	我把專屬於她的配槍遞給她，她煞有介事地接過。	私がクラウリナ用の銃を差し出すと、彼女は礼儀正しくそれを受け取った。	그녀의 전용 권총을 건네주자, 그녀는 진지한 표정으로 받아 들었다.	I handed Clarina her personally customized sidearm. She took it with careful solemnity.						0	3.1主线剧情
+3	宣誓词是什么？	宣誓詞是什麼？	何か誓いの言葉とか、言わなくていいの？	선서문은 어딨어?	So... what's the oath of allegiance?						0	3.1主线剧情
+4	宣誓词？……没有那种东西。	宣誓詞？……沒有那種東西。	誓いの言葉？……そんなのはないよ。	선서문? … 그런 건 없어.	Oath? ...There's no such thing.						0	3.1主线剧情
+5	她歪着头思考了一下，两腿一并，向我敬了个礼。	她歪著頭思考了一下，兩腿一併，向我敬了個禮。	彼女は首をかしげて少し黙ると、姿勢を正せて、私に敬礼をした。	그녀는 갸우뚱거리며 잠시 생각하더니, 차렷 자세로 나에게 경례했다.	She tilted her head, then straightened up and gave a crisp salute.						0	3.1主线剧情
+6	是，长官！	是，長官！	アイアイサー。	네, 장관님!	Sir, yes sir!						0	3.1主线剧情
+7	好了，别搞怪了。去跟着卡罗琳登记数据。	好了，別搞怪了。去跟著卡羅琳登記資料。	はいはい、これくらいにしてくれ。カロリンと一緒に登録を済ませてくるんだ。	됐어, 장난치지 말고. 캐롤린 따라가서 데이터 등록해.	Alright, enough goofing around. Go find Caroline and get your file logged.						0	3.1主线剧情
+8	一会儿一起吃午饭？我打算做汉堡。	等一下一起吃午餐？我打算做漢堡。	お昼、一緒に食べる？ハンバーガーを作ろうと思って。	이따가 같이 점심 먹을래? 햄버거를 만들 거야.	Lunch later? I was thinking... maybe I'll try making burgers this time.						0	3.1主线剧情
+9	听你的。	聽你的。	いいね。	좋아.	Your call.						0	3.1主线剧情
+10	她渐渐变了。不像以前那样，戴着面具，压抑着真实的情感。	她漸漸變了。不像以前那樣，戴著面具，壓抑著真實的情感。	彼女は少しずつ変わっていた。昔のように仮面をつけて、本当の気持ちを隠さなくなった。	그녀는 점차 변화했다. 예전처럼 가면을 쓴 채 감정을 숨기는 일은 없었다.	She'd changed. No more masks, no more walls — just her, learning to feel.						0	3.1主线剧情
+11	或者说，她开始发现自己的情感和欲望。她对很多事情都充满好奇，好像永远有用不完的精力。	或者說，她開始發現自己的情感和慾望。她對很多事情都充滿好奇，好像永遠有用不完的精力。	もっと言えば、彼女は自分の気持ちや欲望に気づき始めている。どんなことにも興味を持ち、精力的に取り組んでいる。	아니, 이제 자기 감정과 욕망을 발견하기 시작했다고 해야 할까? 넘쳐나는 에너지를 지닌 듯 다양한 일에 호기심을 보였다.	Or maybe, she'd started to understand those feelings. That hunger to live, to try, to taste everything life had to offer. Like a spring that never runs dry.						0	3.1主线剧情
+12	我笑了笑，往陶的办公室去了。	我笑了笑，往τ的辦公室去了。	私は少し笑い、τのオフィスに向かった。	나는 웃으며 τ 사무실로 향했다.	I smiled, and made my way toward τ's office.						0	3.1主线剧情
+14	进。	進。	どうぞ。	들어와.	Come in.						0	3.1主线剧情
+15	做完手术才没多久，就好像长在办公室里似的。	才做完手術沒多久，就好像長在辦公室里一樣。	手術を終わらせたばかりなのに、オフィスにずっといたような感じだな。	수술한 지 얼마 안 됐으면서, 사무실에 사시는 것 같네요.	For someone fresh off the operating table, you sure spend a lot of time holed up in here.						0	3.1主线剧情
+16	习惯了。	習慣了。	慣れましたから。	이젠 익숙해.	Old habits.						0	3.1主线剧情
+17	有事找我？	有事找我？	何か用事は？	무슨 일이야?	What do you need?						0	3.1主线剧情
+18	……	……	……	……	...						0	3.1主线剧情
+19	你和米拉是怎么认识的？	你和米拉是怎麼認識的？	あなたはどうやってミラと知り合ったんだ？	이사님과 밀라는 어떻게 알게 됐어요?	How do you know Myra?						0	3.1主线剧情
+20	米拉的姐姐薇奈特和我认识很久了。我的治疗方案最初就是由她构思的。	米拉的姐姐薇奈特和我認識很久了。我的治療方案最初就是由她構思的。	ミラの姉、ビネットとは昔からの知り合いです。私の治療プランも、最初は彼女が考えてくれたものでした。	밀라의 언니 비네트와는 오래전부터 알고 지냈어. 내 치료 방안도 처음에는 그녀가 구상했지.	I had known Myra's sister, Vinetta, for many years. She was the one who first designed my treatment plan.						0	3.1主线剧情
+21	生下克罗瑞娜不久后，她就去世了。从那之后，就由米拉接替她的位置。	生下克羅瑞娜不久後，她就去世了。從那之後，就由米拉接替她的位置。	クラウリナを産んですぐ、亡くなりました。その後は、ミラが代わりに家を継ぎました。	클라리나를 낳고 얼마 되지 않아 세상을 떠났고. 그 후로는 밀라가 그녀의 자리를 이어받았어.	She passed not long after Clarina was born. Myra stepped in after that.						0	3.1主线剧情
+22	陶的表情有一丝不寻常的地方。往常看到我的时候，她会有开心、欣慰之类的情绪，通过微笑、点头、展眉等微表情透露出来。	τ的表情有一絲不尋常的地方。平時看到我的時候，她會有開心、欣慰之類的感情，透過微笑、點頭、展眉等微表情透露出來。	τの態度は普段と少し違う。普段なら、私を見ると少し喜んだり、ホッとしたりするはずだ。彼女の微笑み、頷き、眉の動きから、それが読み取れる。	τ의 표정이 평소와는 달랐다. 평소에 나를 볼 때면 미소 짓거나, 고개를 끄덕이거나, 눈살을 펴는 등 미세한 표정으로 기쁨이나 안도감 같은 감정을 드러내곤 했다.	Something about τ's face was off. Usually, I could read her — a smile in the eyes, a flicker of relief in the brow.						0	3.1主线剧情
+23	而现在……我总觉得有点假装的成分。	而現在……我總覺得有點假裝的成分。	しかし今は……なんだか無理をしている感じだ。	하지만 지금은… 뭔가 가식적인 느낌이 든다.	But now... it was all veneer.						0	3.1主线剧情
+24	灵光一闪——	靈光一現——	私はひらめいた。	그때 떠올랐다.	Then it clicked.						0	3.1主线剧情
+25	答应我，别逞强。有事情就让我来解决。	答應我，別逞強。有事情就讓我來解決。	約束してくれ、無理はするな。何かあったら私が解決する。	무리하지 않겠다고 약속해요. 문제가 생기면 제가 해결할게요.	Promise me you won't try to handle everything alone. If something's wrong — tell me.						0	3.1主线剧情
+26	我答应你。答应你的就会做到。	我答應你。答應你的就會做到。	約束します。そして、必ず約束を守ります。	약속할게. 약속한 건 꼭 지킬게.	You have my word. And when I make promises, I keep them.						0	3.1主线剧情
+27	你答应过我什么事，对吗？	你答應過我什麼事，對嗎？	約束してくれたこと、覚えているか？	저랑 약속했던 일이 있었죠?	You made me a promise once. A long time ago. Didn't you?						0	3.1主线剧情
+28	……	……	……	……	...						0	3.1主线剧情
+29	我知道，你不会对我撒谎的。	我知道，你不會對我說謊的。	知っている。あなたは私に嘘をつかない。	알아요. 이사님은 저에게 거짓말을 하지 않잖아요.	I know you wouldn't lie to me.						0	3.1主线剧情
+30	我答应过你，不能告诉你。	我答應過你，不能告訴你。	あなたに教えないと、そう約束しました。	약속했지만, 알려줄 수 없어.	I did make a promise, but part of it was... not telling you about it.						0	3.1主线剧情
+31	——但你却想了个方法，打算委婉地提醒我。	——但你卻想了一個方法，打算委婉地提醒我。	――だがあなたはなんとかして、遠回しに私に気づかせようとしている。	하지만 은근히 알려줄 방법을 생각하셨던데요?	But you've been trying to drop hints. Quietly.						0	3.1主线剧情
+32	陶不置可否。	τ不予置評。	τは説明しようとしなかった。	τ는 긍정도 부정도 하지 않았다.	She didn't deny it.						0	3.1主线剧情
+33	和任务有关……要让我亲身接触到……	和任務有關……要讓我親身接觸到……	任務関連で……私と直接関係することか……	미션과 관련이 있고… 제가 직접 접촉하게 되는 거라면…	It's connected to the mission... And you wanted me to see for myself...						0	3.1主线剧情
+34	空难是你的安排吗？	空難是你的安排嗎？	あの事故は、あなたが？	이사님이 비행기 사고를 꾸민 거예요?	...Was the crash part of your setup?						0	3.1主线剧情
+35	当然不是。我不会拿你的安全开玩笑。	當然不是。我不會拿你的安全開玩笑。	まさか。あなたの安全と引き換えに手に入れたいものなどありません。	당연히 아니지. 네 안전을 가지고 장난칠 리가 없잖아.	Of course not. I'd never put your life on the line.						0	3.1主线剧情
+36	……	……	……	……	...						0	3.1主线剧情
+37	抱歉，playername。	抱歉，playername。	悪い、playername。	미안해, playername.	I'm sorry, playername.						0	3.1主线剧情
+38	我只是有点难以忍受了。	我只是有點難以忍受了。	ただ、少し耐えられなくなってきました。	그냥 좀 참기 힘들어서 그래.	It's just... carrying this alone hasn't been easy.						0	3.1主线剧情
+39	给我一点时间，也给你自己一点时间。	給我一點時間，也給你自己一點時間。	少し時間をください。あなたにとっても、そのほうがいいでしょう。	나에게도, 너에게도 시간을 좀 줘.	Give me a little more time. For your sake... and mine.						0	3.1主线剧情
+40	我相信你。	我相信你。	信じるよ。	믿을게요.	I trust you.						0	3.1主线剧情
+41	嗯。	嗯。	ええ。	응.	Mm.						0	3.1主线剧情
+42	playername！	playername！	playernameさん！	playername!	playername!						0	3.1主线剧情
+43	克罗瑞娜在宿舍一楼的吧台冲我挥手。汉堡和各种各样的小吃摆了一桌子。	克羅瑞娜在宿舍一樓的吧台向我揮手。漢堡和各式各樣的小吃擺了一桌子。	クラウリナは寮一階のカウンター席で私に向かって腕を振っていた。彼女の目の前に、ハンバーガーやいろんなスナックが並んでいる。	클라리나가 숙소 1층 바에서 나에게 손을 흔들었다. 테이블에는 햄버거와 온갖 간식이 가득했다.	Clarina waved from the dorm lounge bar, the table in front of her piled high with burgers and all kinds of snacks.						0	3.1主线剧情
+44	她拿起餐刀刮了刮汉堡，棕褐色的汉堡外壳发出脆脆的声响。	她拿起餐刀刮了刮漢堡，棕褐色的漢堡外殼發出脆脆的聲響。	彼女はナイフでバンズの表面を少し撫でると、茶色いバンズからサクサクという音がした。	그녀가 햄버거를 식칼로 쓱쓱 긁자, 갈색 햄버거 표면에서 바삭바삭한 소리가 났다.	She ran a knife across the top of a burger bun — the crisp, golden crust crackled beneath the blade.						0	3.1主线剧情
+45	切开汉堡，肉饼的汁水混着融化的芝士从横截面流下来。	切開漢堡，肉餅的汁水混著融化的起司從橫切面流下來。	ハンバーガーを切り分けると、パティの肉汁と溶けたチーズが断面からじわっと流れ出した。	햄버거를 자르자, 패티의 육즙이 녹은 치즈와 함께 단면을 타고 흘러내렸다.	As she sliced it open, melted cheese and savory juices spilled out from the cut.						0	3.1主线剧情
+46	难以置信。同样的食材，半个月前是一团黑炭。	難以置信。同樣的食材，半個月前是一團黑炭。	信じられない。半月前まで焦がすことしかできなかったのに。	믿을 수가 없네. 보름 전에는 똑같은 재료로 숯덩이를 만들었는데.	Incredible. Just two weeks ago, the same ingredients were basically a lump of charcoal.						0	3.1主线剧情
+47	你是在夸我吗？	你是在誇我嗎？	褒めてくれてるの？	그거 칭찬이지?	Was that a compliment on my culinary progress?						0	3.1主线剧情
+48	克罗瑞娜咬了一口汉堡，眨了眨眼睛。	克羅瑞娜咬了一口漢堡，眨了眨眼睛。	クラウリナはハンバーガーを頬張り、嬉しそうに瞬きした。	클라리나는 햄버거를 한입 베어 물고 눈을 깜빡였다.	She took a bite, then gave me a cheeky wink.						0	3.1主线剧情
+49	嗯——真好。	嗯——真好。	んん～、おいしい。	음~ 맛있다.	Mmm — nailed it.						0	3.1主线剧情
+50	汉堡的厚度刚刚好。咬着不吃力，又很有满足感。	漢堡的厚度剛剛好。咬起來不吃力，又很有滿足感。	ちょうどいい厚みだから、気持ちよく頬張れて幸せだわ。	햄버거 두께가 딱 좋아. 먹기도 편하고, 만족스러워.	This one's the perfect thickness — easy to bite, but still super satisfying.						0	3.1主线剧情
+51	很多汉堡店为了追求噱头，把汉堡做成好多层，咬都咬不住。	很多漢堡店為了追求噱頭，把漢堡做成好多層，咬都咬不住。	ハンバーガー屋は見栄えのために、パティを何枚も重ねるんだけど、あれ、厚すぎて食べにくいのよね。	어떤 햄버거 가게들은 인기를 얻으려고 햄버거를 여러 층으로 만들어서, 한입에 먹기도 힘들잖아.	Some burger places stack theirs way too high. They look great, but try biting one...						0	3.1主线剧情
+52	自己做的汉堡就是最好的！	自己做的漢堡就是最好的！	やっぱり自分で作ったのが一番だわ♪	역시 내가 만든 햄버거가 최고야!	Nothing beats a homemade burger!						0	3.1主线剧情
+53	（哪来这么多奇怪的感慨……）	（哪來這麼多奇怪的感慨……）	（なんか変な感想だな……）	(별의별 감상이 다 나오는군…)	(Where does she come up with all these burger philosophies...?)						0	3.1主线剧情
+54	不过，也可以理解。踏入新生活之后，总要试图理解这种新的价值观。	不過，也可以理解。踏入新生活之後，總是要嘗試理解這種新的價值觀。	まぁ、新生活をはじめたあと、新しい価値観を理解しようとしているのは理解できる。	하지만 이해할 만했다. 새로운 삶에 발을 들이고 나면, 새로운 가치관을 이해하려 노력해야 하니까.	Still — I got it. New life, new flavor, new perspective.						0	3.1主线剧情
+55	对了，前台有一封你的信，我给你捎过来了。	對了，櫃台有一封你的信，我幫你拿來了。	そうだ、君宛てに手紙が届いていたよ。ついでに持ってきた。	그러고 보니, 프런트 데스크에 네 앞으로 온 편지가 있길래 가져왔어.	Oh — reception said a letter came for you. Figured I'd bring it by.						0	3.1主线剧情
+56	信！是小姨寄的对不对？	信！是小姨寄的對不對？	手紙！叔母さんからなのよね？	편지! 이모가 보낸 거지?	A letter!? It's from Aunt Myra, isn't it?						0	3.1主线剧情
+57	她脱下手套，擦了擦嘴巴，从我手里接过信封拆开。	她脫下手套，擦了擦嘴巴，從我手裡接過信封拆開。	彼女は手袋を脱いで、口を拭いたあと、私から封筒を受け取った。	그녀는 장갑을 벗고 입가를 닦은 뒤, 내 손에서 봉투를 받아 뜯었다.	She slipped off her gloves, dabbed her lips with a napkin, and opened the envelope I handed her.						0	3.1主线剧情
+58	克罗瑞娜：	克羅瑞娜：	クラウリナへ	클라리나에게,	Clarina,						0	3.1主线剧情
+59	庄园的产权和公司的股份都转入到你的名下了，你的银行卡也随信一并寄来了。	莊園的產權和公司的股份都轉入到你的名下了，你的金融卡也隨信一起寄來了。	庭園の権利と会社の株を、すべてあなたに譲渡したわ。手紙にはあなたの銀行カードを同封している。	장원의 소유권과 회사의 주식이 모두 네 명의로 이전됐어. 네 은행 카드도 이 편지와 함께 보냈고.	The deed to the manor and my shares in the company are now under your name. Your debit card is enclosed.						0	3.1主线剧情
+60	我大概不是个合格的长辈。或许是时候学会放手了。	我大概不是個及格的長輩。或許是時候學會放手了。	私は、保護者として失格だったみたいね。もう、あなたに自由を返すときが来たのかもしれない。	나는 좋은 어른이 아니었나 보구나. 이제는 놓아줄 때가 된 것 같아.	I've probably never been the guardian you deserved. Maybe it's time I learned to let go.						0	3.1主线剧情
+61	去过你想过的生活吧。从今天开始，吉诺拉属于你了。	去過你想過的生活吧。從今天開始，吉諾拉屬於你了。	好きなように過ごしなさい。今日から、ディノーラ家はあなたのもの。	네가 원하는 삶을 살아가렴. 오늘부터 제노라는 네 것이야.	Go live the life you've chosen. Starting today — Genoura Biotech belongs to you.						0	3.1主线剧情
+62	不要找我。如果我想你了，会去看你的。	不要找我。如果我想你了，會去看你的。	私を探さないで。あなたのことが恋しくなったら、会いに行くから。	날 찾지 말거라. 네가 보고 싶을 때면, 내가 널 찾아갈게.	Don't come looking for me. If I ever miss you... I'll come visit.						0	3.1主线剧情
+63	过得好一点。否则有他好看。	過得好一點。否則有他好看的。	ちゃんとした暮らしを送るように。さもないと、彼を許さないわ。	잘 살아. 안 그러면 그를 가만두지 않을 거야.	Live a good life. Or I'll have a word with him myself.						0	3.1主线剧情
+64	——米拉·吉诺拉	——米拉·吉諾拉	ミラ・ディノーラより	밀라 제노라	—Myra Genoura						0	3.1主线剧情
+65	随着信一同滑出来的还有银行卡和项链。	隨著信一起滑出來的還有金融卡和項鍊。	手紙と一緒に、1枚のカードとネックレスが出てきた。	편지에서 은행 카드와 목걸이가 딸려 나왔다.	A bank card and a familiar necklace slid out with the letter.						0	3.1主线剧情
+66	……小姨这是什么意思？！	……小姨這是什麼意思？！	叔母さん、何をするつもり……？	… 이게 무슨 뜻이야?!	...What is Aunt Myra thinking!?						0	3.1主线剧情
+67	……让你见识一下成年人的险恶。	……讓你見識一下成年人的險惡。	……大人の世界の裏側、見せてあげる、かもしれないな。	… 어른이 얼마나 험악한지 보여주는 거겠지.	...Welcome to the world of adults.						0	3.1主线剧情
+68	叮——	叮——	ピコーン。	띵~	Ding!						0	3.1主线剧情
+69	叮叮叮叮叮——	叮叮叮叮叮——	ピピピピピ――	띵띵띵띵띵~	Ding, ding, ding!						0	3.1主线剧情
+70	很快，克罗瑞娜的通讯终端就被接连不断的通讯消息淹没了。	很快，克羅瑞娜的通訊終端就被連續不斷的通訊消息淹沒了。	すぐに、クラウリナの端末が矢継ぎ早に入って来た連絡のせいで鳴りっぱなしになった。	이내 클라리나의 통신 단말기로 끊임없는 통신이 수신됐다.	Clarina's comms terminal lit up like fireworks. Message after message poured in, flooding the screen.						0	3.1主线剧情
+71	在响成一串的通讯声中，克罗瑞娜呆呆地看着我。	在響成一串的通訊聲中，克羅瑞娜呆呆地看著我。	その通知音のなか、クラウリナは呆然と私を見つめていた。	연이어 울리는 통신음 속에서 클라리나가 멍하니 나를 바라봤다.	She turned to me, wide-eyed.						0	3.1主线剧情
+72	我耸了耸肩，表示无能为力。	我聳了聳肩，表示無能為力。	私は肩をすくめて、お手上げだと彼女に伝えた。	나는 어깨를 으쓱이며 어쩔 수 없다고 표현했다.	I shrugged. There wasn't much else I could do.						0	3.1主线剧情
+73	见识一下大人的险恶吧。	見識一下大人的險惡吧。	これが大人の悪いところだよ。	어른들의 험악함을 실감해 봐.	Welcome to the real world.						0	3.1主线剧情
+74	——你很有责任心。虽然很抗拒身上的责任，但对米拉的感情并不是假的。	——你很有責任心。雖然很抗拒身上的責任，但對米拉的感情並不是假的。	――君は責任感が強いんだ。責任を負いたくないだろうが、君はミラを愛している。	넌 책임감이 강하잖아. 책임을 외면하고 싶어도, 밀라에 대한 감정만큼은 거짓이 아니지.	You're responsible. Conscientious. You push back against responsibility — but your care for Myra is real. And she knows you care about the company, too.						0	3.1主线剧情
+75	对公司也一样。这是她这么多年带着你参与项目培养的感情。按她这种带法，你不可能长成那种败家子。	對公司也一樣。這是她這麼多年帶著你參與計畫培養的感情。照她這種帶法，你不可能長成那種敗家子。	会社もそうだ。君はミラの下でプロジェクトに関わってきた、そう簡単に忘れられるわけがない。君は立派な人材なんだ。	회사에 대해서도 마찬가지야. 이건 그녀가 수년간 너를 프로젝트에 참여시키면서 키워온 애정이야. 그녀가 이렇게 키웠으니 네가 방탕한 아이로 자랄 리가 없지.	That's why she brought you into many projects over the years — to forge a bond between you and your family business. With mentorship like that, no way you'd turn out to be a lousy heir.						0	3.1主线剧情
+76	现在收网虽然早了点，但也不是没有效果。能把你的心拴一拴，她的目的就达到了。	現在收網雖然早了點，但也不是沒有效果。能把你的心拴一拴，她的目的就達到了。	今君を好きなようにさせるのは少し早いかもしれないが、君の心を繋ぎとめられるだけで、彼女の目的は達成できたんだ。	지금 마무리하는 건 좀 이른 감이 있지만, 효과가 없진 않아. 네 마음을 잡아둘 수만 있다면 그녀의 목적은 달성된 거야.	Maybe it's a little early to reel you in, sure... But it worked. She's tied your heart to the company. That means she's done her job.						0	3.1主线剧情
+77	……	……	……	……	...						0	3.1主线剧情
+78	克罗瑞娜愣了两秒，把手机关了机，放在了信封上。	克羅瑞娜愣了兩秒，把手機關機，放在了信封上。	クラウリナは一瞬固まると、端末の電源を切って、封筒の上に置いた。	클라리나는 잠시 멍하니 있다가 휴대폰을 꺼서 봉투 위에 올려놓았다.	Clarina paused for a moment, then powered off her phone and set it down atop the letter.						0	3.1主线剧情
+79	……	……	……	……	...						0	3.1主线剧情
+80	这种事情，明天再想好了！	這種事情，明天再想好了！	ううん、そんなの、明日考えればいい。	이런 건 내일 다시 생각하자!	I'll worry about all that tomorrow!						0	3.1主线剧情
+81	今天还有重要的事要办呢。	今天還有重要的事要做呢。	今日は、もっと大事なことがあるわ。	오늘은 아직 중요한 일이 남았잖아.	We've got something way more important on the agenda today.						0	3.1主线剧情
+82	学唱歌还是打桌游？	學唱歌還是玩桌遊？	歌のレッスンか？それともボードゲーム？	노래를 배울까, 보드게임을 할까?	Karaoke or board games — what's it gonna be?						0	3.1主线剧情
+83	都要！	都要！	……どちらも！	둘 다!	Both, obviously!						0	3.1主线剧情
+84	呜，吃完咯——	嗚，吃完囉——	ふぅ～、ごちそうさま。	으음, 다 먹었다~	Mmm — last bite~						0	3.1主线剧情
+85	她把剩下的汉堡塞进嘴里，擦了擦嘴。	她把剩下的漢堡塞進嘴裡，擦了擦嘴。	彼女は残りのハンバーガーを口に入れて、口角を拭いた。	그녀는 남은 햄버거를 입에 넣고 입가를 닦았다.	She stuffed the last of the burger into her mouth and patted her lips dry.						0	3.1主线剧情
+86	好了！待会儿见！	好了！等等見！	じゃあ、またあとで。	좋아! 이따 봐!	Alright! See you in a bit!						0	3.1主线剧情
+87	她挥了挥手，跑回了自己的房间。过了一会儿，又从房间里急匆匆地跑了出来。	她揮揮手，跑回了自己的房間。過了一下子，又從房間裡急匆匆地跑了出來。	彼女は手を振り、自分の部屋に戻った。するとまたすぐに部屋から急いで出てきた。	그녀는 손을 흔들고 자기 방으로 뛰어 돌아갔다. 잠시 후, 다시 방에서 급하게 뛰쳐나왔다.	She waved cheerily and dashed off toward her room — only to run right back out a moment later.						0	3.1主线剧情
+88	今天忘记说早安了！	今天忘記說早安了！	いけない、言い忘れたわ。	굿모닝 인사를 깜박했어!	I forgot to say good morning!						0	3.1主线剧情
+89	嗯……	嗯……	ふぅ……	음…	Hm?						0	3.1主线剧情
+90	她靠过来，大大方方地吻了我一口，吻罢还舔了舔嘴角。	她靠過來，大大方方地吻了我一口，親完還舔了舔嘴角。	彼女が私に顔を近づき、堂々と私にキスをしたあと、自分の唇を舐めてみせた。	그녀는 나에게 다가와 당당하게 키스했고, 키스를 마친 뒤 입가를 핥기도 했다.	She leaned in and kissed me — then gave the corner of her mouth a cheeky little lick.						0	3.1主线剧情
+91	早安，playername！	早安，playername！	おはよう、playernameさん！	굿모닝, playername!	Good morning, playername!						0	3.1主线剧情
+92	她大概是专门回房间漱了漱口，在我嘴里只留下了一点点香草的味道。	她大概是專門回房間漱口，在我嘴裡只留下了一點點香草的味道。	わざわざ部屋に戻ってうがいをして来たのだろう。私の口の中にはバニラのような香りがかすかに残った。	일부러 방에 가서 양치했나 보다. 내 입안에는 바닐라 향기만 살짝 남아있었다.	She must've rinsed her mouth while inside. Only the faintest hint of vanilla lingered on my lips.						0	3.1主线剧情
+93	我笑了笑，也回了一句——	我笑了笑，也回了一句——	私も彼女に微笑みかけて、返事をした。	나는 웃으며 대답했다.	I smiled back.						0	3.1主线剧情
+94	早安，克罗瑞娜。	早安，克羅瑞娜。	おはよう、クラウリナ。	굿모닝, 클라리나.	Good morning, Clarina.						0	3.1主线剧情

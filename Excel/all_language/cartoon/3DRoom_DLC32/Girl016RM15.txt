@@ -1,0 +1,40 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	伊切尔的心情似乎不太好。	伊切爾的心情似乎不太好。	イチェルの機嫌はどうにも良くない。	이첼의 기분이 안 좋아 보인다.	Eatchel seems a little upset.						0	3.2版本随机事件
+page1.2	伊切尔？	伊切爾？	イチェル？	이첼?	Eatchel?						0	3.2版本随机事件
+page1.3	伊切尔你今天怎么不理我呀？	伊切爾你今天怎麼不理我呀？	今日は声もかけてくれないのか、イチェル。	이첼, 오늘 왜 나랑 얘기 안 해?	Eatchel? Why the cold shoulder today?						0	3.2版本随机事件
+page1.4	伊切尔翻了个身，没有理会我	伊切爾翻了個身，沒有理會我	イチェルはごろんと寝返りを打ち、返事もしない	이첼은 몸을 휙 돌리며 나를 무시했다.	Eatchel rolled over with a huff, her pout a silent bid for my attention.						0	3.2版本随机事件
+page1.5	怎么办才好呢？	怎麼辦才好呢……	どうしたものかな。	어떻게 하면 좋을까?	What should I do to get her attention?						0	3.2版本随机事件
+choice01	用食物吸引她	用食物吸引她	食べ物で釣る	음식으로 유혹한다	Use food						0	3.2版本随机事件
+page2.1	给你带了好吃的牛肉饼哦，满满全是肉，一点蔬菜都没有哦！	我帶了好吃的牛肉餅給你哦，滿滿全是肉，一點蔬菜都沒有哦！	ほら、うまいビーフパティを持ってきたぞ。肉たっぷり、野菜はゼロだ。	맛있는 떡갈비를 가져왔어. 고기만 잔뜩 들었고, 야채는 하나도 없다?	I brought you a delicious beef pie! Packed full of meat, no vegetables!						0	3.2版本随机事件
+page2.2	伊切尔今天不想吃肉……	伊切爾今天不想吃肉……	今日はお肉いらない。	이첼은 오늘 고기 먹기 싫어…	I don't want to eat meat today...						0	3.2版本随机事件
+choice02	用游戏吸引她	用遊戲吸引她	ゲームで釣る	게임으로 유혹한다	Use games						0	3.2版本随机事件
+page3.1	伊切尔，我们一起来玩游戏怎么样？	伊切爾，我們一起來玩遊戲怎麼樣？	じゃあ、一緒にゲームでもやるか。	이첼, 우리 같이 게임이나 할까?	Eatchel, let's play games!						0	3.2版本随机事件
+page3.2	伊切尔突然不喜欢游戏了……	伊切爾突然不喜歡遊戲了……	イチェル、きゅうにゲームきらいになった。	이첼은 갑자기 게임이 싫어졌어…	I suddenly don't feel like playing games anymore...						0	3.2版本随机事件
+choice03	用人格魅力吸引她	用人格魅力吸引她	カリスマで釣る	인간적인 매력으로 끌어당긴다	Use personal charm						0	3.2版本随机事件
+page4.1	伊切尔，我来陪你聊天了。	伊切爾，我來陪你聊天了。	話し相手になるよ。	이첼, 너랑 이야기 좀 하러 왔어.	Eatchel, I'm here to chat with you.						0	3.2版本随机事件
+page4.2	伊切尔不想说话……	伊切爾不想說話……	イチェル、おしゃべりしたくない。	이첼은 얘기하고 싶지 않아…	Mm... I don't wanna talk right now...						0	3.2版本随机事件
+page5.1	伊切尔好像在……生闷气？	伊切爾好像在……生悶氣？	もしかして、ふてくされているのか。	이첼은… 삐진 게 아닐까?	Is something making Eatchel... angry?						0	3.2版本随机事件
+page5.2	过了许久她才从帐篷里爬起来，看向我的目光里居然带着些小委屈。	過了許久她才從帳篷裡爬起來，看向我的目光裡居然帶著些小委屈。	しばらくして、テントから顔を出したイチェルが、少しだけ拗ねた目でこちらを見上げる。	그녀는 한참 뒤에야 텐트에서 꼬물거리며 일어났고, 약간 서운한 눈빛으로 나를 바라봤다.	Only after a long while did she slowly crawl out of the tent. When her eyes met mine, they shimmered with a faint, unmistakable hurt.						0	3.2版本随机事件
+page5.3	分析员参加了大人的派对，没有带上伊切尔。	分析員參加了大人的派對，沒有帶上伊切爾。	分析員、オトナのパーティーに出たのに、イチェル連れていかなかった。	분석가는 어른들의 파티에 이첼을 데려가지 않았어.	You attended a party for adults... and didn't take me along.						0	3.2版本随机事件
+page5.4	伊切尔很羡慕……	伊切爾很羨慕……	イチェル、うらやましいの。	이첼은 너무 부러워…	I'm jealous...						0	3.2版本随机事件
+page5.5	什么大人的派对？我怎么不知道？	什麼大人的派對？我怎麼不知道？	オトナのパーティー？何のことだ。聞いていないぞ。	어른들의 파티라니? 난 모르는 일인데?	What party for adults? I don't know anything about that.						0	3.2版本随机事件
+page5.6	就是那种大人们一起发生快乐事情的派对。	就是那種大人們一起發生快樂事情的派對。	オトナがいっしょに楽しいことするパーティーのこと。	그러니까, 어른들이 다 같이 즐거운 일을 하는 그런 파티 말이야.	The kind of party where adults do happy things together.						0	3.2版本随机事件
+page5.7	？？？	？？？	？？？	???	What...?						0	3.2版本随机事件
+page5.8	等等，是不是有人教了你什么奇怪的东西？	等等，是不是有人教了你什麼奇怪的事？	待て、それ誰に教わった。妙なことを吹き込まれていないか。	잠깐, 누가 너한테 이상한 걸 가르쳐줬구나?	Wait... has someone been teaching you weird stuff?						0	3.2版本随机事件
+page5.9	安卡希雅是这么告诉伊切尔的。	安卡希雅是這麼告訴伊切爾的。	アカシアが言ってたの。	아카시아가 이첼한테 그렇게 말해줬어.	Acacia told me so.						0	3.2版本随机事件
+page5.10	她说她经常在晚上和分析员一起参与大人的派对。	她說她經常在晚上和分析員一起參與大人的派對。	よく夜に、分析員とオトナのパーティーするって。	밤마다 분석가랑 같이 어른들의 파티에 참여한다고 했어.	She said she often goes to parties for adults with you at night.						0	3.2版本随机事件
+page5.11	她在派对上会和分析员进行激烈的、绵延不绝的、令人倍感愉悦的“战斗”。	她在派對上會和分析員進行激烈的、綿延不絕的、令人倍感愉悅的「戰鬥」。	パーティーではね、分析員と、すっごく激しくて、ずーっと終わらない、気持ちよくなる「たたかい」をするんだって。	파티에서 분석가랑 같이 격하고도 끊임없는, 너무너무 즐거운 '전투'를 하고.	At these parties, she engages in intense, prolonged, and utterly pleasurable "battles" with you.						0	3.2版本随机事件
+page5.12	战斗至精疲力尽，体态疲软后，就会得到分析员充满情感的奖励。	戰鬥至精疲力盡，體態疲軟後，就會得到分析員充滿情感的獎勵。	へとへとになって、ぐったりしたら、分析員から愛のごほうびがもらえるって。	기진맥진할 때까지 전투를 해서 몸이 축 처지면 분석가의 사랑이 담긴 보상을 받게 된다고 했어.	The battle lasts until you're both completely drained of energy and your bodies go limp. Then, you reward her by filling her with your appreciation.						0	3.2版本随机事件
+page5.13	那是什么战斗啊？伊切尔也想参加！	那是什麼戰鬥啊？伊切爾也想參加！	その戦い、イチェルも参加したいぞ！	그게 무슨 전투야? 이첼도 하고 싶어!	What is she referring to? I want to join too!						0	3.2版本随机事件
+page5.14	我总觉得你的描述有什么问题……不对，应该是安卡希雅的描述有问题。	我總覺得你的描述有什麼問題……不對，應該是安卡希雅的描述有問題。	説明がどこかおかしいな。いや、アカシアの説明がおかしいんだろう。	네 얘길 들어 보니 좀 이상한데… 아니, 아카시아가 이상하게 얘기해 준 거겠지.	Something feels off about your, wait, no, Acacia's description...						0	3.2版本随机事件
+page5.15	她还有说什么细节吗？	她還有說什麼細節嗎？	他には何か言っていたか。	더 자세한 얘긴 안 해 줬어?	Did she mention any other details?						0	3.2版本随机事件
+page5.16	她还说，大人的派对里必须要用到神奇的小道具，可用于增添情趣。	她也說，大人的派對裡必須用到神奇的小道具，可以用來增添情趣。	オトナのパーティーには、ふしぎな小道具がいるって。たのしくなるやつ。	어른들의 파티에 빠질 수 없는 신기한 물건이 있는데, 그걸 사용하면 더 짜릿해진대.	She also said that a proper adult's party has to use special little toys. Said that sometimes they vibrate.						0	3.2版本随机事件
+page5.17	你这个用词是不是不太对劲？	你這個用詞是不是不太對勁？	言い方が変だぞ。	어감이 좀 이상한데?	Wait... toys... vibrate... What has she been telling you?						0	3.2版本随机事件
+page5.18	她一个，分析员一个，这个小道具能显著增加“战斗”的激烈程度！	她一個，分析員一個，這個小道具能顯著增加「戰鬥」的激烈程度！	二つあるの。アカシアに一つ、分析員に一つ。小道具があったら「戦い」がすごく激しくなるんだって。	아카시아랑 분석가가 그 물건을 하나씩 사용하면, '전투'가 훨씬 더 격렬해진다고 했어!	One for her, and one for you. It can significantly increase the intensity of the "battle"!						0	3.2版本随机事件
+page5.19	那个小道具好像是叫……手柄？	那個小道具好像是叫……手把？	たしか……コントローラーって？	그 물건 이름이 뭐더라… 게임패드?	I think the toy is called... controllers?						0	3.2版本随机事件
+page5.20	突然间我好像明白她在说什么了。	突然間我好像明白她在說什麼了。	なるほどと腑に落ちて、胸を撫で下ろした。	그제야 나는 그녀가 무슨 말을 하는 건지 깨달았다.	Suddenly, everything is clear.						0	3.2版本随机事件
+page5.21	等等……你说的派对，是不是还有个名字叫做“打游戏”？	等等……你說的派對，是不是還有個名字叫做「打遊戲」？	つまり、その「パーティー」、別称「ゲーム」だろ。	잠깐… 네가 말한 그 파티, 혹시 '게임을 한다'라고도 하지 않아?	Wait... is this party perhaps also called "video gaming"?						0	3.2版本随机事件
+page5.22	嗯嗯！就是那个！打游戏！她好像有提到过！	嗯嗯！就是那個！打遊戲！她好像有提到過！	うんうん！それ！ゲーム！そう言ってた！	응응! 맞아! 게임! 그런 말도 했던 것 같아!	Yes! That's it! I wasn't sure because it sounded different from the games we played!						0	3.2版本随机事件
+page5.23	好吧……咳咳，如果是打游戏的话，带着你一起玩，倒也没什么问题。	好吧……咳咳，如果是打遊戲的話，帶上你一起玩，倒也沒什麼問題。	なら問題ない。イチェルも一緒にやればいいだけだ。	그래… 크흠, 게임이라면 너랑 같이 해도 상관없겠네.	Well then... Ahem, there's no problem bringing you along, if it's about playing video games.						0	3.2版本随机事件
+page5.24	接下来我和伊切尔一起打了一下午的游戏，顺带一提，她的技术实在是一言难尽。	接下來我和伊切爾一起打了一下午的遊戲，順帶一提，她的技術實在一言難盡。	このあとイチェルと午後いっぱいゲームをした。\n正直、腕前はお世辞にも上手いとは言えなかった。	그리고 나는 이첼과 오후 내내 게임을 했다. 참고로, 그녀의 게임 실력은 정말 말로 표현하기 힘들 정도였다.	Eatchel and I spent the afternoon playing video games. By the way, she was not... very good at it.						0	3.2版本随机事件

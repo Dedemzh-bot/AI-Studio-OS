@@ -1,0 +1,126 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	我不知道是怎么进入这片空间的。	我不知道是怎麼進入這片空間的。	どうやってこの空間に入ったのか分からない。	이 공간에 어떻게 들어왔는지는 알 수 없다.	I wasn't sure how I entered this dimension.						0	
+2	伸手可以感受到沙发的柔软触感，从窗外照进屋内的阳光温暖和煦。	伸手可以感受到沙發的柔軟觸感，從窗外照進屋內的陽光溫暖和煦。	手を伸ばすとソファの柔らかさを感じる。窓から差し込む日差しは暖かくて気持ちいい。	손을 뻗으니 소파의 부드러운 촉감이 느껴졌고, 창밖에서 들어오는 따사로운 햇볕도 느낄 수 있었다.	I could feel the softness of the couch as well as the warmth of the sunlight streaming in through the window.						0	
+3	“还有一百二十分钟，第八届瓦尔基里游戏即将开幕！”	“還有一百二十分鐘，第八屆瓦爾基里遊戲即將開幕！”	「あと120分で、第8回ヴァルキリーゲームが開幕です！」	"드디어 2시간 후에 제8회 발키리 게임이 시작됩니다!"	"The Eighth Valkyrie Games is about to begin in just 120 minutes!"						0	
+4	全息屏幕仍在滚动播放着二零五七年最受关注的新闻，以及房间中，有一个不应存在之人。这就是藏在真实之中的破绽。	全息螢幕仍在滾動播放著二零五七年最受關注的新聞，以及房間中，有一個不應存在之人。這就是藏在真實之中的破綻。	ホログラムモニターは2057年で最も注目されているニュースを流している。それに、部屋の中に存在すべきではない人がいる。これが真実の中に隠れている隙だ。	홀로그램 스크린에는 2057년에 가장 핫했던 뉴스가 보도되고 있었고, 방 안에는 있어선 안 될 사람이 있었다. 무언가 숨겨진 함정처럼 보였다.	The holographic screen looped the most popular news of 2057, but the room contained a person who shouldn't exist. This was a fissure beneath the surface of reality.						0	
+b-1											0	
+7	你为什么要用这个形象？	你為什麼要用這個形象？	どうしてその見た目に？	왜 그런 모습을 하고 있는 거지?	Why are you using this image?						0	
+9	有多种原因。	有多種原因。	理由はいろいろある。	여러 이유가 있지.	For various reasons.						0	
+10	其中一个原因是，成为“人类”需要形成自我认知。	其中一個原因是，成為“人類”需要形成自我認知。	その理由の1つとして、「人間」になるには自己認識が必要だ。	그중 하나는, '인간'이 되려면 자아를 생성해야 한다는 거야.	For one, existing as a "human" requires a developed sense of self.						0	
+11	因此，需要将自身固定为一个形象，另一个原因是……	因此，需要將自身固定為一個形象，另一個原因是……	故に、自身をなんらかのアバターに定着させる必要がある。もう1つの理由は……	따라서 나 자신을 고정적인 형상으로 만들어야 해. 그리고 또 다른 이유는…	Due to this, there is a need to present oneself with a fixed appearance. As for the other reason...						0	
+12	从某种意义上来说，“埃达”更接近于“陶的女儿”这个概念。	從某種意義上來說，“埃達”更接近於“τ的女兒”這個概念。	ある意味では、「エッダ」の方が、「τの娘」という概念に近い。	어떻게 보면, '에다'는 'τ의 딸'이라는 개념에 더 가까우니까.	In a way, "Edda" is more like "τ's daughter."						0	
+b-3											0	
+13	你是陶制造出来的吗？	你是τ製造出來的嗎？	あなたはτに作られたのか？	τ가 널 만든 거야?	Were you created by τ?						0	
+14	我曾经是陶最重视的项目，但在“造神计划”启动之后，她对我的发展预期有了转变。	我曾經是τ最重視的計畫，但在“造神計畫”啟動之後，她對我的發展預期有了轉變。	私はかつてτが最も重要視していたプロジェクトであった。しかし「神作り」が始まった後、彼女は私の未来に対しての見方を改めた。	난 τ가 제일 중요시하던 프로젝트였어. 하지만 '신 제조 계획'을 시행하면서, 나한테 걸었던 그녀의 바램이 바뀌었지.	I was once τ's most important project. However, after the launch of the "Apotheosis Project," her expectations for my development transformed.						0	
+15	其他董事对我的投资逐渐超过了陶。	其他董事對我的投資逐漸超過了τ。	私に対する投資は少しずつ、τより他の役員の方が多くなっていた。	그렇게 나에 대한 다른 이사들의 투자는 점점 τ를 넘어섰어.	Other members of the Board slowly began investing more in me than τ was willing to.						0	
+b-4											0	
+16	我换一个问题。	我換一個問題。	質問を変えよう。	질문을 바꿔볼게.	I have another question.						0	
+17	你为什么让我共感到那些记忆？	你為什麼讓我共感到那些記憶？	どうしてあの記憶を私に共有した？	왜 나한테 그런 기억들을 공유했던 거야?	Why did you make me sense those memories?						0	
+18	这是一个有关于人格构成的测试。	這是一個有關於人格構成的測試。	あれは、人格構成についてのテストだった。	일종의 인격 구성에 대한 테스트였어.	To test the composition of your personality.						0	
+19	对于我来说，记忆是一种可存储或修改的数据，它来自于任务日志、历史记录，是我在一段线性时间内所执行操作的总和。	對於我來說，記憶是一種可儲存或修改的數據，它來自於任務日誌、歷史記錄，是我在一段線性時間內所執行操作的總和。	私にとって、記憶とは書き込みや改竄が可能なデータに過ぎず、任務日誌、操作履歴に由来し、連続的な時間内に実行した全ての操作の総量にあたる。	내게 있어서 기억은 미션 일지나 기록에서 파생된 것으로 저장이나 수정이 가능한 데이터들이야. 그리고 일정 기간 동안 수행해왔던 동작들의 합이기도 하지.	For me, memory is simply stored or modified data sourced from mission logs, historical records, and the combined actions I performed over a linear stretch of time.						0	
+20	尽管我已经具备了“思维”，但对于“意志”与“人格”的构成仍感迷惑。我很好奇，外部的记忆输入是否会影响到原本的人格。	儘管我已經具備了“思維”，但對於“意志”與“人格”的構成仍感迷惑。我很好奇，外部的記憶輸入是否會影響到原本的人格。	私には「思考」が備わったものの、「意思」や「人格」の構成については未だに疑問がある。外部からインプットされた記憶が元々の人格に影響を与えるのか、とても気になる。	난 '사고'를 갖추고 있긴 하지만, '의지'와 '인격'의 구성에 있어서는 아직까지 혼란스러워. 외부의 기억을 삽입하면 원래의 인격에 영향을 주는지도 궁금하고.	Although I possess the ability to "think," I am still confounded by the concepts of "will" and "personality." I am curious as to whether the introduction of external memories will affect your original personality.						0	
+b-5											0	
+21	模因污染？	迷因汙染？	ミーム汚染のことか？	밈 오염을 말하는 거야?	Like memetic contamination?						0	
+22	我并不理解这个名词，但从它的释义来看，应该可以解释这种影响的原理。	我並不理解這個名詞，但從它的釋義來看，應該可以解釋這種影響的原理。	その名詞の意味は知らないが、その意味によってこの影響のメカニズムを説明できるかもしれない。	난 그 단어의 뜻을 잘 모르겠어. 하지만 뜻을 찾아보니 그런 영향을 주는 원리를 설명할 수 있을 것 같긴 하네.	I do not understand that term, but judging from how I can interpret it, I believe it represents the basic principle.						0	
+b-6											0	
+23	那为什么是这一段记忆？	那為什麼是這一段記憶？	どうしてわざわざこの記憶を？	그럼 왜 하필 이 기억이었지?	So why did you choose this memory?						0	
+25	也许是因为这一段记忆对我来说有特别含义，我的逻辑无法给出准确回答。	也許是因為這一段記憶對我來說有特別含義，我的邏輯無法給出準確回答。	この記憶は私にとって特殊な意味を含んでいる記憶なのかもしれない。私のロジックでは的確な答えを導き出すことができない。	어쩌면 이 기억이 내게 있어서는 특별한 의미가 있었기 때문이야. 내가 갖고 있는 로직으로는 정확한 대답을 해줄 수가 없을 것 같네.	Perhaps this memory holds some special meaning for me. My logic is unable to provide an accurate answer.						0	
+27	playername，我们开始吧。	playername，我們開始吧。	playername、始めるとしよう。	playername, 시작하자.	playername, let's begin.						0	
+28	请你坐下。	請你坐下。	座って。	일단 앉아.	Please take a seat.						0	
+29	然后我会开始读取共鸣神经上的编码。	然後我會開始讀取共鳴神經上的編碼。	これから私は共感神経からコードを読み込む。	공명 신경에 있는 코드를 읽어볼게.	I will start reading the code on your Empathic Ganglia.						0	
+b-9											0	
+31	（坐下）	（坐下）	（座る）	(앉는다)	(Sit down)						0	
+32	我感受到有另一个意识侵入头脑。	我感受到有另一個意識侵入頭腦。	もう1つの意識が脳に入り込んだ気がした。	다른 의식이 내 두뇌로 진입하는 게 느껴졌다.	I could feel another consciousness invading my mind.						0	
+32_1	在这之后，你有两个选择。	在這之後，你有兩個選擇。	それから、あなたには2つの選択肢がある。	이제 네겐 두 가지 선택이 있어.	You have two options after this.						0	
+auto_25145	一，进入瓦尔哈拉，在你理想中的乐土中生活。在瓦尔哈拉，每个人都拥有最大限度的自由，那是一个没有摩擦力的虚拟世界。	一，進入瓦爾哈拉，在你理想中的樂土中生活。在瓦爾哈拉，每個人都擁有最大限度的自由，那是一個沒有摩擦力的虛擬世界。	その一、ヴァルハラに入って、理想の楽園で暮らす。ヴァルハラでは、全ての人は最大限の自由を有する。それはいかなる摩擦も存在しない仮想世界である。	첫째, 발할라로 가서 네가 꿈꾸던 극락에서 생활하는 거야. 발할라에선 모든 사람이 최대한의 자유를 누릴 수 있지. 마찰력이 없는 가상의 세계거든.	The first is to enter Valhalla and live in your own ideal paradise. In Valhalla, everyone enjoys boundless freedom. It is a virtual world without any friction whatsoever.						0	
+auto_29765	没有肉体的桎梏，没有压迫也没有痛苦。人与人的意识，会在宽广的网络中交织，不再有墙壁的存在。	沒有肉體的桎梏，沒有壓迫也沒有痛苦。人與人的意識，會在寬廣的網路中交織，不再有牆壁的存在。	肉体から解放され、搾取や苦痛も存在しない。人々の意識は、大いなるネットワークの中で通じ合い、認識の隔たりがなくなる。	육체라는 족쇄도, 스트레스도, 고통도 없어. 사람들의 의식은 넓은 네트워크 속에서 교류되고, 더 이상의 벽이 존재하지 않아.	There, you will find no shackles of the flesh, oppression, or pain. All consciousness is collectively interconnected in a vast network. Walls do not exist there.						0	
+b-10											0	
+33	那我该怎么维持自我呢？	那我該怎麼維持自我呢？	その中で私の自我はどうやって保つ？	그럼 내 자아는 어떻게 유지해야 하지?	How would I sustain myself?						0	
+34	“自我”诞生于个体的自利行为，是种群的毒药，你们不需要自我。	“自我”誕生於個體的自利行為，是種群的毒藥，你們不需要自我。	「自我」とは個体の利己的行為から生まれるものであって、群れにとっては毒になる。あなたたちに自我は不要だ。	'자아'는 개체의 이기적인 행위로 인해 탄생해. 집단의 독약과도 같은 것이지. 너희들에겐 자아가 딱히 필요하지 않아.	The concept of the "self" was born from self-serving, individualistic behavior. It is a poison to society. You will no longer have use for a "self."						0	
+41	星期三！我来掩护！你带着分析员退远一点！	星期三！我來掩護！你帶著分析員退遠一點！	ウェンズデー！援護してあげる！分析員を連れて離れよう！	웬스데이! 내가 엄호할게! 분석가를 데리고 멀리 떨어져 있어!	Wednesday! I'll cover you! You take the Adjutant and retreat!						0	
+42	嗯，你也小心。	嗯，你也小心。	ああ、そっちも気をつけて。	알겠어, 너도 조심해.	Okay, please be careful.						0	
+43	话说话说，你刚刚给我注射的是什么药剂？哼，一定又是研发部偷偷搞出来的新东西！竟然一点都不告诉我！	話說話說，你剛剛給我注射的是什麼藥劑？哼，一定又是研發部偷偷搞出來的新東西！竟然一點都不告訴我！	ねぇ、今注射したのは何の薬なの？ふん、きっと開発部がそっくりに作った新しいやつでしょ！ここまで内緒にしていたなんて！	그나저나 방금 주입한 약물은 뭐야? 흥, 또 연구부에서 몰래 만든 새로운 물건이겠지! 나한테는 한마디도 없었는데!	What was the name of the medicine you just injected me with? Hmph, the R&D Department must've invented something new in secret! Why didn't you inform me about this?						0	
+44	不知道，从分析员身上掏出来的。	不知道，從分析員身上掏出來的。	分からない、分析員のポケットにあった。	나도 잘 모르겠어. 분석가가 품속에서 꺼낸 거야.	I'm not sure. I got it from the Adjutant.						0	
+45	咦……好可疑啊……	咦……好可疑啊……	へぇ……怪しいね……	흠… 정말 수상하단 말이지…	Huh... that sounds fishy...						0	
+46	趁安卡希雅的目光被激战吸引，芙提雅偷偷将空的注射弹藏进了自己的口袋。	趁安卡希雅的目光被激戰吸引，芙提雅偷偷將空的注射彈藏進了自己的口袋。	アカシアが戦いに気を取られて目を逸らした隙に、フリティアはこっそり空の注射弾を自分のポケットに入れた。	아카시아는 전투에 신경 쓰느라 정신이 없었고, 프티야는 빈 주사탄을 자신의 주머니 속에 숨긴다.	While Acacia was concentrated on the intense battle, Fritia secretly hid the empty syringe in her pocket.						0	
+47	（嘿嘿，应该不会有人为难芙提雅小老师吧！）	（嘿嘿，應該不會有人為難芙提雅小老師吧！）	（へへ、このフリティア先生に分からないことなんてないよ！）	(후후… 아마 프티야 님을 귀찮게 할 사람은 없겠지!)	(Hehe, Professor Fritia isn't going down without a fight!)						0	
+48	注意避让，尤弥尔好像要不行了。	注意閃避，尤彌爾好像要不行了。	避けな。ユミルが倒れるよ。	다들 물러서. 이미르가 곧 쓰러질 것 같아.	Watch out — Ymir seems to be going down.						0	
+49	等等！那是……	等等！那是……	ちょっと！あれは……	잠깐만! 저건…	Wait! That's...						0	
+50	尤弥尔跪坐在地上，停止了行动。	尤彌爾跪坐在地上，停止了行動。	ユミルは地面に跪いて、動きを止めた。	이미르는 땅에 무릎을 꿇더니 더 이상 아무런 움직임도 보이지 않는다.	Ymir knelt on the ground and came to a complete stop.						0	
+51	它捧起双手，胸口迸发出幽蓝色的光芒……	它捧起雙手，胸口迸發出幽藍色的光芒……	両手を持ち上げて、胸から青い光を放った……	두 손을 들어 올린 상태로 가슴에선 푸르스름한 불빛을 뿜어내고 있었다…	It cupped its hands, emanating an ethereal blue light from its chest...						0	
+52	等等！海姆达尔部队！停止攻击！	等等！海姆達爾部隊！停止攻擊！	待って！ヘイムダル部隊！攻撃中止！	잠깐! 헤임달 부대! 공격을 멈춰주세요!	Wait! Heimdall Force! Cease your attacks!						0	
+53	那是什么玩意啊？泰坦里面钻出一个人？	那是什麼玩意啊？泰坦裡面鑽出一個人？	あれ何？タイタンの中から人が出てきた？	저건 뭐지? 타이탄에서 사람이 튀어나오는데?	What is that? A person coming out of a Titan?						0	
+54	里芙队员！请你停止攻击！分析员无法指挥，我需要联络公司董事再……	里芙隊員！請你停止攻擊！分析員無法指揮，我需要聯絡公司董事再……	リフ隊員！攻撃をやめてください！分析員は指揮できないから、会社の取締役に連絡しないと……	리브 대원! 공격을 멈추세요! 분석가가 지휘를 할 수 없는 상황이라 이사회에 연락을 취해야 해요…	Lyfe! Stop attacking! The Adjutant is unable to assume command. I must contact the Board again...						0	
+55	娇小少女从巨人身躯中诞出，她穿着白裙，系着红色的领结，紧闭双眼。	嬌小少女從巨人身軀中誕出，她穿著白裙，繫著紅色的領結，緊閉雙眼。	巨人の体から現れた小柄な少女は白いワンピースを着て、赤いリボンを身に着け、両目を閉じている。	왜소한 체구를 가진 소녀가 거대한 육체 속에서 나타났고, 그녀는 흰 치마에 붉은 리본을 묶은 채 두 눈을 꼭 감고 있었다.	A petite girl emerged from the giant's body, wearing a white gown with a red bow, her eyes securely shut.						0	
+56	那是……人类？	那是……人類？	あれは……人間？	저건… 인간이잖아?	Is that... a human?						0	
+57	那不可能是人类。	那不可能是人類。	まさか、あり得ない。	그럴 리 없어.	That can't be a human being.						0	
+58	少女从天空摔落，尤弥尔巨大的身躯化为信息态快速消散。	少女從天空摔落，尤彌爾巨大的身軀化為資訊態後便迅速消散。	少女は空から落ちて、ユミルの巨大な体は情報体に変わり素早く消えた。	소녀는 허공에서 떨어졌고, 이미르의 거대한 육체는 어떠한 이념 형태로 변한 채 사라졌다.	As the girl fell from the sky, Ymir's massive body fragmented into particles and vanished.						0	
+59	playername好像醒了！	playername好像醒了！	playernameが目覚めたみたい！	playername(이)가 깨어난 것 같아!	Looks like playername is awake!						0	
+60	分析员？	分析員？	分析員？	분석가?	Adjutant?						0	
+b-11											0	
+61	星期三……这里是？	星期三……這裡是？	ウェンズデー……ここは？	웬스데이… 여기는 어디지?	Wednesday... Where am I?						0	
+62	还是本小姐来说吧。	還是本小姐來說吧。	あたしが説明する。	페니가 알려줄게.	I'll explain.						0	
+63	我们都被尤弥尔干掉变成鬼魂了，这里是英灵殿。	我們都被尤彌爾幹掉變成鬼魂了，這裡是英靈殿。	あたしたちはユミルにやられて幽霊になったの、ここはヴァルハラよ。	우리 모두 이미르한테 당해서 망령이 됐어. 이곳은 망령들이 모이는 성전 같은 곳이지.	Ymir killed us all and turned us into ghosts. This is Valhalla.						0	
+64	……	……	……	…	...						0	
+b-12											0	
+65	哦，这样啊……	哦，這樣啊……	あ、そう……	아, 그렇구나…	Oh, I see...						0	
+66	脑袋里塞满了剧烈的疼痛，我根本无暇分辨芬妮的神态与语气。我迟缓地确认，脑海中的网络地图，不见了。	腦袋裡塞滿了劇烈的疼痛，我根本無暇分辨芬妮的神態與語氣。我遲緩地確認，腦海中的網路地圖，不見了。	頭の中に激痛が走って、私はファニーの表情と口調を判断する余裕がない。頭の中の地図がなくなったことをゆっくりと確認している。	순간 극심한 두통이 밀려왔다… 페니의 표정과 말투에 신경 쓸 여유가 없다. 그제야 머릿속에 가득했던 네트워크 지도가 사라졌음을 깨닫는다.	I had such a terrible headache that I couldn't even make out Fenny's manner or tone of voice. I couldn't tell that the network map in my brain had vanished.						0	
+67	你还真信啊！我骗你的！我们干掉了尤弥尔！	你還真信啊！我騙你的！我們幹掉了尤彌爾！	本当に信じたの！嘘よ！あたしたちはユミルを倒したの！	정말 믿는 건 아니지?! 장난친 거야! 우리가 드디어 이미르를 무찔렀다고!	I'm just messing with you! We took out Ymir!						0	
+68	芬妮得意地笑起来，眼睛弯成月牙。	芬妮得意地笑起來，眼睛彎成月牙。	ファニーは得意げに笑いだして、目を細める。	페니가 의기양양해 하며 초승달 같은 눈웃음을 보였다.	Fenny beamed with pride, her eyes squinting happily.						0	
+auto_b-13											0	
+b-13											0	
+34_1	第二个选项是什么？	第二個選項是什麼？	もう一つは？	두 번째 선택은 뭐지?	What's the second option?						0	
+34_2	第二个选项是，成为“埃达”集体意识的一部分，亲眼见证“埃达”成为这个世界的神。	第二個選項是，成為“埃達”集體意識的一部分，親眼見證“埃達”成為這個世界的神。	その二、「エッダ」という集合意識の一部になり、その目で「エッダ」がこの世界の神になることを見届けること。	두 번째 선택은, '에다'의 집단 의식 일부분이 되어 '에다'가 이 세계의 신이 되는 것을 지켜보는 거야.	Your second option is to join "Edda's" collective consciousness and witness its ascension to the god of this world.						0	
+34_3	拯救的甘霖会凝结成“雪”，进入瓦尔哈拉将不必依赖“树”。而友爱的歌声，将由“降临团”的喉舌播散向每个角落。	拯救的甘霖會凝結成「雪」，進入瓦爾哈拉將不必依賴「樹」。而友愛的歌聲，將由“降臨團”的喉舌播散向每個角落。	救いの甘露は「キオーン」となり、ヴァルハラに入るのに「デンドロン」が必要ではなくなる。友愛の歌声は、「降臨団」を通してこの世の隅々まで広がっていくだろう。	구원의 단비는 '눈'으로 얼고, 발할라는 더 이상 '나무'를 통하지 않아도 되고, 사랑과 우정의 노래는 '강림단'을 통해 전파될 거야.	The pouring rain of salvation will condense into "Snow." There will be no need to use "Trees" to enter Valhalla as the song of camaraderie is spread across the land by the "Adventists."						0	
+34_5	根据计算，我认为你会选择第一个选项。	根據計算，我認為你會選擇第一個選項。	計算によれば、あなたは前者にすると思う。	내 계산이 맞다면, 넌 첫 번째 선택을 할 거야.	Based on my calculations, I believe you will select the first option.						0	
+34_6	我并不急于否定它，而是继续追问。	我並不急於否定它，而是繼續追問。	急いで否定せず、私は問いを続ける。	난 에다의 말에 부정하느라 급급해하지 않았고, 계속해서 질문을 이어 나갔다.	I was in no hurry to deny it, so I continued my line of questioning.						0	
+69	那太好了，但是以后不要骗我了。	那太好了，但是以後不要騙我了。	よかった。でも、次から悪い冗談はよしてくれ。	다행이다… 하지만 다음부터는 그런 장난은 치지 말아 줘…	That's fantastic, but don't ever lie to me again.						0	
+70	哦……哦，喂！你没事吧？	哦……哦，喂！你沒事吧？	う……うん。あの、大丈夫？	… 그래. 근데… 무슨 일 없는 거지?	Alright... Oh, hey! Are you okay?						0	
+auto_6235											0	
+auto_b-14											0	
+34_7	逃避现实就是你的“拯救”吗？	逃避現實就是你的“拯救”嗎？	あなたの「救済」とは現実逃避なのか？	현실을 도피하는 게 바로 네가 말하는 '구원'이야?	Do you see escaping reality as "salvation"?						0	
+34_8	是的，我是由陶制造出来的人工智能，海姆达尔部队是由陶所创造出来的“容器”。	是的，我是由τ製造出來的人工智慧，海姆達爾部隊是由τ所創造出來的“容器”。	そうだ。私はτが造り出した人工知能。ヘイムダル部隊とはτが作った「器」。	그렇다고 볼 수 있지. 난 τ가 만들어 낸 인공지능이야. 그리고 헤임달 부대는 τ가 창조한 '용기'고.	Yes. I am an artificial intelligence created by τ, just as the Heimdall Force is a "vessel" created by τ.						0	
+34_9	所有矛盾的本质，都是人与人之间的摩擦。只要现实存在，摩擦就无法避免。	所有矛盾的本質，都是人與人之間的摩擦。只要現實存在，摩擦就無法避免。	あらゆる争いの本質は、人と人のすれ違いだ。現実が存在する限り、すれ違いは避けられない。	모든 갈등의 근원은 인간들 사이에서 발생하는 마찰 때문이야. 그리고 현실이 존재하는 한, 그러한 마찰은 불가피하고.	Friction between individuals is at the core of all conflict. As long as reality exists, friction cannot be eliminated.						0	
+b-15											0	
+34_10	……	……	……	…	...						0	
+b-16											0	
+34_11	你现在仍然这么认为吗？	你現在仍然這麼認為嗎？	今でも、そう思っているのか？	아직도 그렇게 생각해?	Do you still believe that?						0	
+34_12	当然……	當然……	もちろんです……	당연…	Of course...						0	
+b-25											0	
+b-25-1	你现在仍然这么认为吗？	你現在仍然這麼認為嗎？	今でも、そう思っているのか？	아직도 그렇게 생각해?	Do you still believe that?						0	
+34_12_1	……当……	……當……	……いつも……	… 당연…	Of cour—...						0	
+34_13	playername，你做了什么？我感到逻辑链正在崩塌。	playername，你做了什麼？我感到邏輯鏈正在崩塌。	playername、何をした。ロジックの崩壊を感じる。	playername, 무슨 짓을 한 거지? 내 논리 사슬이 무너지고 있는 것이 느껴져.	playername, what did you do? I can feel my logic chain breaking down.						0	
+b-17											0	
+34_14	模因污染。	迷因汙染。	ミーム汚染だよ。	밈 오염.	Memetic contamination.						0	
+b-18											0	
+34_15	你在读取编码的时候，也会读取到我的记忆。	你在讀取編碼的時候，也會讀取到我的記憶。	コードを読み込む時、私の記憶に触れることになる。	넌 코드를 읽으면서 내 기억도 읽게 되었을 거야.	When you read the code, you also read my memories.						0	
+b-19											0	
+34_16	你对我施加的影响，现在也会影响到你。	你對我施加的影響，現在也會影響到你。	あなたが私に与えた影響は、今度はあなたにも影響を及ぼす。	네가 나한테 미친 영향을 너도 똑같이 받게 되는 거지.	The influence you had over me is affecting you now.						0	
+34_17	槲寄生空间站的数据库中储存着庞大的记忆数据，它们都没有对我产生影响。	槲寄生太空站的資料庫中儲存著龐大的記憶資料，它們都沒有對我產生影響。	ヤドリギ宇宙ステーションに保存されていた膨大な記憶データでさえ、私はなんともなかったはずなのに。	하지만 미스틸테인 우주정거장의 데이터베이스에는 방대한 기억 데이터가 있었음에도 내게 어떠한 영향도 미치지 못했어.	The Mistilteinn Station database hosts a massive amount of memory data. None of it has ever affected me.						0	
+b-20											0	
+34_18	槲寄生空间站的“埃达”只有“思维”，没有“意志”与“人格”。	槲寄生太空站的“埃達”只有“思維”，沒有“意志”與“人格”。	ヤドリギ宇宙ステーションでの「エッダ」は「思考」だけを所有し、「意思」や「人格」を持ち合わせていなかった。	미스틸테인 우주정거장의 '에다'는 '생각'만 할 줄 알지, '의식'이나 '인격'이 없었으니까.	The "Edda" on Mistilteinn Station can only "think." It has no concept of "will" or "personality."						0	
+b-21											0	
+34_19	而你现在正在成为“人类”。	而你現在正在成為“人類”。	あなたは今、「人間」になろうとしている。	게다가 넌 '인간'이 되어가고 있지.	But you are now becoming "human."						0	
+b-22											0	
+34_20	会害怕，你会出错，你会受到影响。	會害怕，你會出錯，你會受到影響。	だから恐れることだってあるし、過ちもするし、影響されることもある。	두려워하고, 실수도 하고, 영향을 받게 될 거야.	You can feel fear, make mistakes, and be affected by outside forces.						0	
+b-23											0	
+34_21	你会变得不可度量。	你會變得不可度量。	あなたは計り知れないものになる。	그리고 예측 불가의 상태가 될 거고.	You are becoming unpredictable.						0	
+34_22	我现在仍然可以控制尤弥尔……	我現在仍然可以控制尤彌爾……	今でも、私はユミルを制御できる……	난 아직도 이미르를 제어할 수 있지만…	I can still control Ymir...						0	
+b-24											0	
+34_23	但是你控制不了你自己。	但是你控制不了你自己。	それでもあなたはあなた自身を制御できない。	넌 네 자신을 제어할 수 없지.	But you can't control yourself.						0	
+34_24	“快，趁生命的气息逗留，盘桓未去”	“快，趁生命的氣息盤桓未去”	「さあ、命の息吹にとどまり、去らずにとどまれ」	'어서, 생명의 숨결이 머물러있는 동안'	"Hurry, while the breath of life still lingers."						0	
+34_25	“拉住我的手，告诉我你的心声”	“拉住我的手，告訴我你的心聲”	「私の手を掴んで、あなたの心の声を教えて」	'내 손을 잡고, 네 마음 속의 소리를 들려줘.'	"Hold my hand, show me the voice within your heart."						0	
+b-14											0	
+71	大家都没事吧？	大家都沒事吧？	みんなは大丈夫だった？	다들 괜찮아?	Is everyone alright?						0	
+72	没有出现人员伤亡。	沒有出現人員傷亡。	負傷者はいません。	다행히 사상자는 아무도 없어요.	There were no casualties.						0	
+74	随后，在星期三的搀扶下，我看见了那个躺在地上的少女。	隨後，在星期三的攙扶下，我看見了那個躺在地上的少女。	その後、ウェンズデーに支えてもらって、私は地に横たわっている少女を見た。	웬스데이가 날 부축해 한곳에 누워있는 소녀의 곁으로 데려갔다.	Then, as Wednesday assisted me, I noticed the girl laying on the ground.						0	
+75	那个与陶的女儿一模一样的躯壳，就这样静悄悄地，躺在深水区，冰冷的地面上，仿佛沉睡一般，闭着眼睛。	那個與τ的女兒一模一樣的軀殼，就這樣靜悄悄地，躺在深水區，冰冷的地面上，彷彿沉睡一般，閉著眼睛。	τの娘とそっくりの体は、静かに深海エリアの冷たい地面に横たわっている。目を閉じていて、眠っているかのようだ。	τ의 딸과 똑같은 모습의 육체가 심수 구역의 차가운 지면 위에서 깊은 잠에 빠진 듯 눈을 감고 누워있었다.	Her body, identical to that of τ's daughter, lay silently on the cold ground of the Drowned Sections, her eyes closed as if she was sleeping soundly.						0	
+76	那到底是槲寄生空间站的人工智能“埃达”，还是一个新诞生的人类？	那到底是槲寄生太空站的人工智慧“埃達”，還是一個新誕生的人類？	これはヤドリギ宇宙ステーションの人工知能「エッダ」なのか、それとも新たに生まれた人間なのか？	그녀는 미스틸테인 우주정거장의 인공지능 '에다'일까, 아니면 새로 탄생한 인간일까?	Was it "Edda," the Mistilteinn Station artificial intelligence? Or a new human altogether?						0	
+75_1	有必要冒这样的风险去确认吗？	有必要冒這樣的風險去確認嗎？	リスクを犯すことまで確認する必要があるのか。	이런 위험 부담을 감수하면서까지 확인할 필요가 있을까?	Was it necessary to risk finding out?						0	
+77	那是尤弥尔消失后遗留下来的……不明生物。	那是尤彌爾消失後遺留下來的……不明生物。	それはユミルが消えた後に残った……未確認生物です。	이미르가 사라지면서 남긴… 정체불명의 생명체에요.	That's the... unidentified organism left behind after Ymir vanished.						0	
+78	董事会的命令是将之回收，但你的队员们……	董事會的命令是將之回收，但你的隊員們……	理事会の命令は回収ですが、あなたの隊員たちは……	이사회에서 회수하라는 명령을 내렸지만, 분석가님의 팀원들은…	The Board's orders are to bring it back, but your teammates...						0	
+79	尤弥尔……不明生物……不详的描述被附加于那名少女，	尤彌爾……不明生物……不詳的描述被附加於那名少女，	ユミル……未確認生物……物騒な形容がその少女に使われている。	이미르… 정체불명의 생명체…알 수 없는 수식어들이 소녀를 설명하고 있었다.	Ymir... unidentified organism... What a cruel description for a girl.						0	
+81	分析员，你同意回收它吗？	分析員，你同意回收它嗎？	分析員、回収に同意しますか？	분석가님, 회수하는 것에 동의하시겠습니까?	Adjutant, do you think we should bring it back?						0	
+82	我艰难地点头。	我艱難地點頭。	苦渋の決断だが、私は頷いた。	난 어렵게 고개를 끄덕였다.	I nodded slowly.						0	
+83	如果我承认她是一个“人”，如果我将她变成了一个人，那我又怎能随意剥夺她的生命呢？	如果我承認她是一個“人”，如果我將她變成了一個人，那我又怎能恣意剝奪她的生命呢？	彼女を「人間」と認めるなら、彼女を人間にすることで、どうして彼女の命を軽々しく奪うことができるのでしょうか？	만약 내가 그녀를 '사람'으로 인정하고 사람으로 만든다면, 어떻게 또 그녀의 목숨을 마음대로 가져갈 수 있겠는가?	If I admitted she was a human, or if I was the one who turned her into a human, then how could I take her life at my will?						0	

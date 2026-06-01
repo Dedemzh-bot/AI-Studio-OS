@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	清扫时间到……	清掃時間到……	清掃時間です…	청소 시간입니다…	Cleaning cycle initiated...						0	2.7版本妮塔入队剧情
+page1.2	一楼区域，开始清扫，预计时间……2小时。	一樓區域，開始清掃，預計時間……2小時。	清掃開始…一階エリア、作業予定時間2時間…	1층 구역, 청소 시작. 예상 시간… 2시간.	Commencing sweep of Level 1. Estimated completion time: two hours.						0	2.7版本妮塔入队剧情
+page1.3	嗯？那个扫地机器人的底部怎么亮闪闪的……	嗯？那個掃地機器人的底部怎麼亮閃閃的……	ん？あの掃除ロボの下のほうが、なんだかキラキラ光ってないか…？	응? 저 로봇 청소기의 바닥이 왜 반짝반짝 빛나지…?	Hm? What's that glint under the cleaning bot...						0	2.7版本妮塔入队剧情

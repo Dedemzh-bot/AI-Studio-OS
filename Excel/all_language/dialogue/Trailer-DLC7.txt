@@ -1,0 +1,67 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	十个月前。	十個月前。	10ヶ月前。	10개월 전	Ten months ago.						0	
+2	我了解你，陶。所以我没有紧张的理由。	我了解你，τ。所以我沒有緊張的理由。	τのことなら分かっていますから、緊張する理由なんてありません。	난 자네를 잘 알아, τ. 굳이 긴장할 이유가 없지.	I understand you, τ, so I have no reason to be nervous.						0	
+3	第五研究所，门禁系统的密钥，我可以交给你们。	第五研究所，門禁系統的密鑰，我可以交給你們。	第5研究所、入退室システムのキーなら渡してもいいですよ。	제5연구소 보안 시스템 키를 너희에게 넘겨줄게.	The Fifth Research Institute — I can give you the access key to the control room.						0	
+4	它会在交易完成后生效。	它會在交易完成後生效。	取引後に有効になりますので。	이건 거래가 완료되면 효력이 발생하게 될 거야.	It will be activated after our transaction is complete.						0	
+b-1											0	
+5	第五研究所？	第五研究所？	第5研究所？	제5연구소?	The Fifth Research Institute?						0	
+6	你还没告诉他吗？陶。	你還沒告訴他嗎？τ。	τ、まだ教えていないのですか？	τ, 아직 분석가한테는 말을 안한 건가?	You haven't told him yet, τ?						0	
+7	泰坦是从谁的手中诞生……又因为谁从牢笼逃脱？	泰坦是從誰的手中誕生……又因為誰從牢籠逃脫？	タイタンは誰の手により生まれたのか……また、誰のせいで牢獄から逃げたのかを。	타이탄이 누구의 손에서 탄생했는지… 또 누구 때문에 감옥에서 탈출할 수 있었는지?	From whose hands were the Titans born... And who escaped their cage, leading to all of this?						0	
+8	真相，都藏在那所研究所里。	真相，都藏在那所研究所裡。	真相は、すべてあの研究所の中に隠されています。	모든 진실은 제5연구소에 숨겨져 있어.	The truth is hidden in the research institute.						0	
+9	高大的男人没有多语，拍了拍我的肩膀后，走向了安全门。	高大的男人沒有多說什麼，拍了拍我的肩膀後，走向了安全門。	長身の男はそれ以上語ることなく、私の肩を軽く叩いてみせてから、セーフドアに向かった。	키가 큰 남자는 아무 말도 하지 않고 내 어깨를 두드리며 안전문을 향해 걸어갔다.	The large man didn't say anything else, patting my shoulder and walking toward the security door.						0	
+10	我很欣赏你，分析员。你是我见过最优秀的年轻人，相信你一定能平安抵达那里，并知晓一切。	我很欣賞你，分析員。你是我見過最優秀的年輕人，相信你一定能平安抵達那裡，並知曉一切。	……生きてあの場所に辿り着ければ、知りたいことはすべて分かりますよ。	분석가는 내가 본 최고의 젊은이일세, 아주 좋게 보고 있어. 분석가가 그곳에 도착하면 모든 것을 알게 될 거야.	I admire you, Adjutant. You are the most extraordinary young man I've ever met. I believe you will make it there and learn everything.						0	
+11	然而，这也不过是有关神明真知的一角……罢了。	然而，這也不過是有關神明真知的一角……罷了。	まぁ……知り得たところで、それは神の持つ知恵のほんの一端に過ぎませんがね。	다만 이건 신에 대한 진리의 일면일… 뿐이야.	However, as far as true knowledge of the divine is concerned, it is only the tip of the iceberg... That's it.						0	
+12	拐杖撞击地面发出的闷响，好似一声无言的号令，使面前的安全门打开了。	拐杖撞擊地面發出的悶響，好似一聲無言的號令，使面前的安全門打開了。	彼が杖で地面を叩くと、その号令に応えるように目の前のドアが開いた。	지팡이가 땅을 때리는 소리가 울려 퍼지며 안전문이 열렸다.	The sound of his cane hitting the ground acted like a silent order, leading the security door in front of him to open.						0	
+13	陶，谢谢你给予了我接近神明的机会……这是一笔划算的买卖。	τ，謝謝你給了我接近神明的機會……這是一筆划算的買賣。	神へ近づくチャンスを与えてくれてありがとうございます、τ。悪くない取引でしたよ。	τ, 신에게 다가갈 수 있는 기회를 줘서 고마워… 이득이 있는 거래였어.	τ, thank you for giving me the opportunity to get closer to the divine... It was a good deal.						0	
+14	再会，愿你我都能在追寻真知的途中保持自我。	再會，願你我都能在追尋真知的途中保持自我。	それでは。知識を探究する道のりの中で、理性を失わぬよう気を付けましょう。お互いにね。	그럼 잘 지내, 우리 모두가 진정한 진리를 찾아가는 여정에서 자신에게 충실하기를…	Farewell. May you and I remain true to ourselves in our pursuit of true knowledge.						0	
+15	7月12日播报，神秘集会群体“降临团”头目凯郭尔，以及该组织核心成员“苏菲”目前已确认失踪……	7月12日播報，神秘集會群體「降臨團」頭目凱郭爾，以及該組織核心成員「蘇菲」目前已確認失蹤……	7月12日、夜のニュースです。オカルト的な活動を行っていたことで知られる団体「降臨団」の首領、ケゴール氏とその幹部である「ソフィー」氏が行方不明となっていることが分かりました……	7월 12일 속보입니다. 의문의 집회 '강림단'의 두목 케고르와 조직의 핵심 멤버인 '소피'가 실종된 것으로 확인되었습니다…	Welcome to our July 12th broadcast. Mads Kegaard, leader of the mysterious group known as the "Adventists," as well as Sophie, a key member of the organization, have been confirmed missing...						0	
+16	据知情者透露，两人的失踪属于意外事故，组织内部也无人收到任何“事前通知”，有关该事件还在进一步调查中……	據知情者透露，兩人的失蹤屬於意外事故，組織內部也無人收到任何「事前通知」，有關該事件還在進一步調查中……	関係者の間ではふたりの失踪が驚きと共に受け止められており、組織内部でも「事前告知」を受けた者はひとりもいなかったようです。この事件については、引き続き取材を……	소식에 따르면 두 사람의 실종은 사고였고 조직 내부에서도 아무런 '사전 통보'를 받지 못했으며, 현재 해당 사건과 관련해 추가 조사가 진행 중입니다…	Insiders have revealed that the disappearance of these two individuals was unexpected even within the organization. This incident is still under investigation...						0	
+17	啊……为什么……	啊……為什麼……	ああ……どうして……	아… 대체 왜…	Ah... Why...						0	
+18	为什么只有苏菲……	為什麼只有蘇菲……	どうしてソフィーだけを……	대체 왜 소피만…	Why only Sophie...?						0	
+19	11月15日播报，昨日夜间9点至今日凌晨4点，天楼再次爆发冲突。	11月15日播報，昨日夜間9點至今日凌晨4點，天樓再次爆發衝突。	11月15日、朝のニュースです。昨晩21時から本日早朝4時にかけて、スカイタワーで再び武力衝突が発生しました。	11월 15일 속보입니다. 어젯밤 9시부터 금일 새벽 4시 사이에 스카이 타워에서 또다시 충돌이 일어났습니다.	Welcome to our November 15th broadcast. Conflict has broken out at the Towers again, starting at 9 o'clock yesterday night and continuing to 4 o'clock this morning.						0	
+20	此次冲突造成的伤亡暂时无法统计，但从无人机捕捉到的画面来看，此次应该是自“天楼事件”以来最大的恶性冲突事件……	這次衝突造成的傷亡暫時無法統計，但從無人機捕捉到的畫面來看，這次應該是自「天樓事件」以來最大的惡性衝突事件……	今回の事件における死傷者数はいまだ不明ですが、ドローンによって現場上空から撮影された画像をみる限り、「スカイタワー事件」以来最大規模の衝突となったもようです……	충돌로 인한 인명피해는 당분간 집계가 힘들지만, 드론에 포착된 화면을 보면 '스카이 타워 사태' 이후 가장 큰 악성 충돌 사건으로…	We currently have no casualty numbers, but judging by the drone footage, this is likely the deadliest conflict since the infamous "Towers Incident"...						0	
+21	起因还是因为污染扩散，另外据逃出零区的当事者所说，此次冲突全程都未见主事出面，降临团的组织架构，疑似开始瓦解……	起因還是因為汙染擴散，另外據逃出零區的當事人所說，此次衝突全程都未見主事出面，降臨團的組織架構，疑似開始瓦解……	汚染拡散が衝突の原因になったとみられています。エリアゼロから脱出した被害者の証言では、事件発生から終息までの間に司教の姿を一度も見なかった。降臨団内部の統制が崩れ始めているのではないか、とのことで……	발단은 오염 확산이지만, 제로 구역을 탈출한 당사자들에 따르면 충돌 내내 이사가 나서지 않은 것으로 보아 강림단의 조직이 본격적으로 분열된 것으로 추정되는데요…	This event was once again triggered by the spread of Titagen contamination. What's more, insiders who escaped from Containment Zone Aleph reported not seeing the Exarch throughout the entire conflict. It is suspected that the Adventists' organizational structure is beginning to collapse...						0	
+22	大主……	大主……	大司教様……	교주님…	High Presbyter...						0	
+23	我究竟做错了什么……让您抛弃了我……失去了您的认可，我又该如何锚定自身的存在价值呢……	我究竟做錯了什麼……讓您拋棄了我……失去了您的認可，我又該如何錨定自身的存在價值呢……	なぜ僕を見捨てたのですか……僕は何か間違ったことをしたのでしょうか……	대체 제가 뭘 잘못했길래… 저를 저버리셨나요… 교주님의 인정을 받지 못하면, 저는 어떻게 제 존재 가치를 찾으라는 거죠?	What did I do wrong... to cause you to abandon me...? Without your approval, what is the value of my own existence...?						0	
+24	2月6日播报，持续3月的“第二次天楼事件”终于结束……从前线记者发回的视频来看，天楼区损毁严重，原本在这里的居民都已撤离。	2月6日播報，持續3月的「第二次天樓事件」終於結束……從前線記者發回的影片來看，天樓區損毀嚴重，原本在這裡的居民都已撤離。	2月6日、朝のニュースです。3か月に渡る「第2次スカイタワー事件」もようやく終息の兆しを見せ始めています……現場記者から送られてきた映像からも分かる通り、スカイタワーの損傷はかなり激しく、現地の住民はすでに撤退を余儀なくされています。	2월 6일 아침 속보입니다. 3월 내내 이어진 '제2차 스카이 타워 사태'가 드디어 일단락되었습니다… 기자가 보내온 동영상을 보면 스카이 타워 구역이 심하게 훼손되었으며, 해당 구역의 주민들이 이미 대피를 완료한 상황입니다.	Welcome to our February 6th broadcast. The three-month-long "Second Towers Incident" is finally over... Judging by footage sent in by our field reporters, the Towers were seriously damaged. Any residents that hadn't already fled on their own have been evacuated.						0	
+25	未来，我们将积极展开难民的救援与安置行动，并调整对零区内的各种资助规划……	未來，我們將積極展開難民的救援與安置行動，並調整零區內的各種資助規劃…	今後は難民支援と再定住に向けて、エリアゼロに対する各種の資金援助計画が調整される見通しで……	앞으로 저희는 적극적으로 난민 구조와 복구 작업을 전개할 것이며, 제로 구역에 대한 각종 자금 지원 계획을 조정할 예정입니다…	Moving forward, refugee rescue and resettlement projects will be implemented. In addition, changes will be made to various fiscal plans for Containment Zone Aleph...						0	
+26	把那破电视关了，连续几个月都没个好信，听着只会让人火大。	把那破電視關了，連續幾個月都沒個好信，聽著只會讓人火爆。	おい、そんなニュースもう切っちまえよ。この数か月、ずっと悪いニュースばっかりじゃないか。聞いてるだけで腹が立つぜ。	그 지긋지긋한 TV 좀 꺼. 몇 달째 좋은 소식도 없는데 듣기만 해도 열받잖아.	Turn off that crap. There hasn't been any good news for months. Just hearing it irritates me.						0	
+27	那要去整点吃的吗，我听说往北五公里外还有一户老夫妻，他们那……	那要去整點吃的嗎，我聽說往北五公里外還有一戶老夫妻，他們那…	じゃあ、食べ物でも探しに行く？北に5キロ歩いたところに、老夫婦が住んでるって話だけど……	그럼 뭐 좀 먹을까? 북쪽으로 5킬로미터 떨어진 곳에 한 노부부가 있다고 들었는데…	Want to scrounge up something to eat? I heard there's an old couple about five kilometers away. They—						0	
+28	谁啊？	誰啊？	誰？	누구지?	Who's there?						0	
+29	喂，先去窗口看看，别是同行。	喂，先去窗口看看，別是同行。	おい、窓から覗いてみろ。同業者かも知れねぇ。	어이, 일단 창문으로 가서 확인해 봐. 우리 같은 피난민은 아니겠지?	Hey, take a look through the window. Maybe they're one of ours.						0	
+30	男人从地上爬了起来，慢慢掏出别在腰间的手枪。	男人從地上爬了起來，慢慢掏出別在腰間的手槍。	男は地面から立ち上がり、隠し持っていたピストルを取り出した。	남성은 땅에서 일어나 천천히 허리에 차고 있던 권총을 꺼냈다.	The man stood up from the ground, slowly drawing the pistol on his hip.						0	
+31	然而——	然而——	しかし——	그리고 머지않아…	However...						0	
+32	在女人将头探出窗外的瞬间，她的身体便炸作一朵血花。	在女人將頭探出窗外的瞬間，她的身體便炸作一朵血花。	女が窓から頭を覗かせた瞬間、彼女の体はパッと赤い花が開いたように弾け飛んだ。	여성이 창밖으로 머리를 내밀자마자 그녀의 몸이 폭발하며 핏방울이 튀겼다…	The moment the woman stuck her head out of the window, her body exploded into a bloody mess.						0	
+33	*的——	*的——	クソが——	이런 제길…	Oh sh—						0	
+34	而男人，则在开枪命中闯入者肩膀的瞬间被一束激光贯穿了胸膛。	而男人，則在開槍命中闖入者肩膀的瞬間被一束雷射貫穿了胸膛。	その一方で、男もまた侵入者の肩に銃弾を撃ち込んだものの、それとほぼ同時にレーザーによって胸を貫かれていた。	그리고 남성은 침입자의 어깨에 총을 쏘는 순간 레이저 빔으로 가슴을 관통당한다.	As for the man, a laser pierced his chest in the same second he shot the intruder in the shoulder.						0	
+35	……	……	……	…	...						0	
+36	这里……也没有大主的踪迹……	這裡……也沒有大主的蹤跡……	ここにも……大司教はいないんだね……	여기도… 교주님의 흔적은 보이지 않는군…	...There's no sign of the High Presbyter here either...						0	
+37	是时候该去……	是時候該去…	そろそろあそこにも……	이제 갈 때가 된 건가…	Time to go...						0	
+38	啊……我的身体已经……	啊……我的身體已經……	ああ……僕の体は……もう……	아… 몸이 이미…	Argh... My body is already...						0	
+39	摔倒在地的男人这才意识到，自己的右腿早已不见，身体上更是遍布伤痕。	摔倒在地的男人這才意識到，自己的右腿早已不見，身體上更是遍布傷痕。	その場に倒れてやっと、男性は自分の右足がすでになく、体中に無数のケガを負っていることに気付いた。	바닥에 쓰러진 남성은 자신의 오른쪽 다리가 사라지고 온몸이 흉터로 뒤덮여 있음을 깨달았다.	The man who had fallen to the ground finally realized his right leg was missing, his body covered in wounds.						0	
+40	自从凯郭尔离开后，他便失了神。为了找到那位大主，他走遍了整个零区，经历了无数场战斗……	自從凱郭爾離開後，他便失神了。為了找到那位大主，他走遍了整個零區，經歷了無數場戰鬥……	ケゴールが姿を消して以来、彼はすっかり正気を失ってしまっていた。大司教を探すため、彼はエリアゼロを歩き回り、数え切れないほどの戦闘に巻き込まれて来たのだ……	케고르가 떠난 이후로 그는 정신을 잃었다. 그는 교주를 찾기 위해 제로 구역을 누비며 수많은 전투를 겪었고…	He'd lost his mind ever since Mads Kegaard left. He had traversed Containment Zone Aleph in search of the High Presbyter, experiencing countless conflicts...						0	
+41	事到如今，早已油尽灯枯。	事到如今，早已油盡燈枯。	そうして今や、その命も尽きようとしていた。	그렇게 생명의 끝을 맞이했다.	Now, his already dimming light was being extinguished for good.						0	
+42	他不再挣扎，好像接受了自己已被抛弃的事实……	他不再掙扎，好像接受了自己已被拋棄的事實……	捨てられたという事実をようやく受け入れたのか、彼はそれ以上足掻こうとはしなかった……	그는 더 이상 몸부림치지 않고 자신이 버림받은 사실을 받아들였다…	He didn't struggle. It was as if he'd accepted the fact that he was abandoned...						0	
+43	耳边传来了轻盈的脚步声。	耳邊傳來了輕盈的腳步聲。	そんな時、軽やかな足音が聞こえて来た。	그리고 귓가에 가벼운 발소리가 들려오는데…	The sound of light footsteps reached his ears.						0	
+44	……？	……？	……？	…?	...?						0	
+45	可悲的残渣，睁开眼睛吧。	可悲的殘渣，睜開眼睛吧。	哀れな残骸だね。さぁ、目を開けて。	애처로운 영혼이여, 눈을 떠라.	Pathetic scum. Open your eyes.						0	
+46	如果你还对你的神心怀敬仰，就理应看到我的形，记得我的名。	如果你還對你的神心懷敬仰，就理應看到我的形，記得我的名。	神への敬意をまだ捨てていないのなら、あなたはきっと私の姿や名を覚えているだろう。	아직도 신에 대한 경외심을 품고 있다면 나의 형상과 이름을 기억해야 할 것이다.	If you have any reverence for your gods, you should recognize me and remember my name.						0	
+47	手持白枝的白衣女孩正瞪着一双蓝汪汪的眼睛盯着自己。	手持白枝的白衣女孩正瞪著一雙藍汪汪的眼睛盯著自己。	白い枝を持ち、白い服を着たその少女は、青い瞳でこちらを見つめていた。	흰옷을 입은 소녀가 하얀 가지를 들고 푸르스름한 눈으로 응시했다.	The girl wore white clothes and held a white branch, staring at him with blue eyes.						0	
+48	啊……埃达……我们的纯白之神，您为何会降临于此？	啊……埃達……我們的純白之神，為何您會降臨於此？	ああ……エッダ……我らが純白なる神よ。なぜここに？	아… 에다… 순백의 신이시여, 어떻게 이곳에 오셨나요?	Ah... Edda... our lily-white deity... Why have you come here?						0	
+49	我追寻苦难与悲鸣而来，将新的使命赐予你。	我追尋苦難與悲鳴而來，將新的使命賜給你。	苦難や悲鳴を頼りに、あなたに新しい使命を授けに駆けつけたのさ。	나는 고난과 슬픔을 쫓아 네게 새로운 사명을 주러 왔다.	In pursuit of misery and suffering, and to bestow you with a new purpose.						0	
+50	我可怜的孩子，现在还不是放弃生命，进入瓦尔哈拉的时候。	我可憐的孩子，現在還不是放棄生命，進入瓦爾哈拉的時候。	可哀そうな子。けれど生きることを諦め、ヴァルハラに入るのはまだ早い。	나의 불쌍한 아이야, 지금은 네가 목숨을 버리고 발할라에 들어갈 때가 아니다.	My poor child. It is not yet time for you to give up your life and enter Valhalla.						0	
+51	我要你成为新的“大主”，并将“幸福”赐予和你一样的，被抛弃之人。	我要你成為新的「大主」，並將「幸福」賜給和你一樣的，被拋棄之人。	あなたを新しい「大司教」にしてあげる。あなたと同じように棄てられた人々に「幸せ」を分け与えるんだ。	나는 네가 새로운 '교주'가 되어 너와 같이 버림받은 사람에게 '행복'을 주길 바란다.	I want you to become the new High Presbyter and grant you, and other abandoned individuals like you, happiness.						0	
+52	你，可愿接受这新的使命？	你，可願接受這項新的使命？	ねえ。この使命を、受け入れてくれる？	기회를 주면 새로운 사명을 받아들일 의지가 있는가?	Are you willing to accept this new purpose?						0	
+53	我将成为……新的大主……	我將成為……新的大主……	僕が……新しい大司教になる……	내가 새로운… 교주가 된다…	I will become... the new High Presbyter...						0	
+54	我将取代那位……抛弃了我的大人……	我將取代那位……拋棄了我的大人……	僕が……僕を捨てたあの方に代わって……	나를 버린 분의 자리를… 내가 대신한다…	I will replace the one... who abandoned me...						0	
+55	……	……	ああ……そうか……	…	...						0	
+57	我……接受……	我……接受……	わかり……ました。	기꺼이… 받아들이겠습니다.	I... accept...						0	
+58	那么，盟约成立。	那麼，盟約成立。	では、契約成立だね。	그럼 우리의 언약이 성립하리라.	Then the pact has been established.						0	
+59	语毕，女孩举起手中的白枝，刺向了他的胸膛。	語畢，女孩舉起手中的白枝，刺向了他的胸膛。	そう言いながら、少女は手に持っている白い枝を、彼の胸に刺した。	말이 끝나자 소녀는 손에 든 흰 가지를 들고 그의 가슴을 찔렀다.	And with that, the girl raised the white branch in her hand and stabbed the man in the chest with it.						0	
+60	从现在起，你将为我所用——	從現在起，你將為我所用——	これから、あなたは私の手足になってもらうよ──	이제부터 넌 나를 위해 쓰이게 될 거야…	From now on, you work for me.						0	
+61	哎呀，外面好像突然下雪了，真不小啊~	哎呀，外面好像突然下雪了，真不小啊~	わっ、急に雪が降り始めましたよ。すごいですね～	어라, 밖에 갑자기 눈이 오는 것 같은데? 꽤 많이 내리네~	Ah, it's snowing outside! Coming down pretty hard, too~						0	
+62	但明明已经要到春天了……不应该这么冷才对……	但明明已經要到春天了……不該這麼冷才對……	もうすぐ春だっていうのに……こんなに冷えるなんて……	벌써 봄이 오려 하는데… 아직도 이렇게 춥다니…	But it's spring... It shouldn't be that cold...						0	
+63	嘿嘿嘿，说起这个，分析员今天下午就到站了。他大概也会意外吧，没想到这里也在下雪。	嘿嘿嘿，說起這個，分析員今天下午就到站了。他大概也會意外吧，沒想到這裡也在下雪。	ふふふ。そういえば、分析員は今日の午後に到着するんでしたっけ。あの人もきっとびっくりしますよ。ここも雪だらけじゃないか！ってね。	헤헤헤, 그러고 보니 분석가가 오늘 오후에 역에 도착하네. 여기도 눈이 올 거라고는 생각도 못 하고 있겠지?	Hehe, by the way, the Adjutant is getting back from Yehrus this afternoon. He'll probably be surprised. Who knew it would snow here too?						0	
+64	那得做点热汤才行，让他一回来就能暖暖身子。	那得做點熱湯才行，讓他一回來就能暖暖身體。	じゃ、じゃあ！帰ってすぐ体を温められるように、暖かい飲み物を用意しないと！	그럼 돌아오자마자 몸을 좀 녹일 수 있게 뜨거운 탕을 준비해야겠어요.	Then we should make some hot soup so he can warm up when he gets here.						0	
+65	嗯！从现在开始准备吧~	嗯！ 從現在開始準備吧~	そうですね！じゃあ、早速準備しましょうか～	그래! 지금 바로 준비하러 가자!	Sure! Let's get to it~						0	

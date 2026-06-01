@@ -1,0 +1,5 @@
+﻿活动ID	开始时间	结束时间	入场剧情ID	每日解锁数量	入口图片	入口名字
+ActivityID	StartTime	EndTime	CartoonID	UnlockNum	IntroPic	IntroName
+1	[202412310400]	[202501140400]	0	{3,3,3,3,3,3}	4840001	ui.MessageActivity.Name01
+2	[202507200400]	[202508210400]	0	{3,3,3,3,3,4}	4840002	ui.MessageActivity.Name02
+3	[202602160400]	[202603120400]	0	{3,3,3,3,4,5}	4840003	ui.MessageActivity.Name03

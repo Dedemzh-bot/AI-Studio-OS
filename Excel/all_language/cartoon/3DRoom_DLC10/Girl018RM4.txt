@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	薇蒂雅又停在路上走神，好像是想到了什么有趣的事情。	薇蒂雅又停在路上走神，好像是想到了什麼有趣的事。	ヴィディアはまた道に足を止めて、なにか面白いことを思いついたようだ。	비디야가 도로에서 다시 멍하게 서 있는데, 뭔가 재미있는 생각이 난 것 같다.	Vidya stopped walking as she spaced out again, seemingly thinking about something interesting.						0	
+page1.2	诶嘿嘿~分，分析员。	誒嘿嘿~分，分析員。	えへへ……分析員さん……	에헤헤~ 분, 분석가님.	Ehehe~ A—Adjutant.						0	
+page1.3	被发现了啊。	被發現了啊。	はあ、気づかれたのか。	들켰구나.	You caught me.						0	
+page1.4	……！！！！分，分析员？	……！！！！分，分析員？	……！？！？分、分析員さん？	…!!! 분, 분석가님?	...!!! A—Adjutant?						0	
+page1.5	……你不是早发现我了吗。	……你不是早發現我了嗎。	……気づいたんじゃないのか？	… 너 이미 내가 있는 걸 알고 있었잖아.	...Didn't you already realize I was here?						0	
+page1.6	……是……是的呢。我早发现了……	……是……是的呢。我早發現了……	……あ……は、はい……気づいていましたよ……	… 맞, 맞아요. 제가 이미 알아챘어요…	...Y—Yes, of course. I knew it all along...						0	
+page1.7	薇蒂雅刚才那模样，是在想到什么很有趣的事情吧。可以将你的喜悦分享给我吗。	薇蒂雅剛才那模樣，是在想到什麼很有趣的事吧。可以將你的喜悅分享給我嗎。	さっきの様子だと、なにか面白いことを思いついたのだろう。私にも教えてくれないか？	방금 비디야 모습이, 뭔가 아주 재미있는 생각이 난 것 같은데. 네 기쁨을 나랑 나눌 수 있어?	It seemed like you were thinking about something really interesting just now, Vidya. Could you tell me what was making you so giddy?						0	
+page1.8	啊……我……分享……？	啊……我…分享……？	え……私……教え……？	아… 저… 나눔이요…?	Ah... you want me to... tell you...?						0	
+page1.9	如果是不太方便的事，那就算了。	如果是不太方便的事，那就算了。	教えられないことなら大丈夫だが。	불편한 일이면 안 해도 돼.	If you don't want to, don't worry about it.						0	
+page1.10	少女的表情一下子极为迟疑和纠结，可最后还是下定了决心，用极小的声音做出回答。	少女的表情一下子極為遲疑和糾結，可最後還是下定了決心，用極小的聲音做出回答。	少女の顔は一瞬で暗くなり、何かを悩んでいるような表情でしばらく考え込むと、微かな声で返事をした。	소녀의 표정이 갑자기 망설이고 고민하는 듯했지만, 결국 결심한 듯 매우 작은 목소리로 답했다.	The girl's expression was filled with hesitation and anguish, but she finally made up her mind and responded in a near-whisper.						0	
+page1.11	……我想到了……分，分析员在挥洒汗水，龙精虎猛的模样。	……我想到了…分，分析員在揮灑汗水，龍精虎猛的模樣。	……分、分析員さんが……汗だらけになって……元気そうな様子を思いついて……	… 저는 생각했어요… 분석가님이 땀을 흘리며, 용맹한 모습을요.	...I was thinking about you... all sweaty and full of energy.						0	
+page1.12	然后呢……	然後呢……	それから？	그리고?…	And...?						0	
+page1.13	然后，就没有然后了……其它的……就不太方便了。	然後，就沒有然後了…其它的…就不太方便了。	ないです、なにも……他は……今はちょっと言えません……。	그다음에는, 딱히 없어요… 다른 건… 말하면 곤란하네요.	And... nothing... I don't really want to talk about... the rest.						0	
+page1.14	……	……	……	…	...						0	
+page1.15	只是这样的话，果然还是无法理解薇蒂雅为什么会那么高兴。	只是這樣的話，果然還是無法理解薇蒂雅為什麼會那麼高興。	それじゃあ、どうしてあれだけ喜んでいるのかがわからないよ。	이것만으로는, 역시 왜 비디야가 그렇게 기뻐하는지 이해할 수 없네.	If that's all you were thinking about, I don't really understand why you're so happy, Vidya.						0	
+page1.16	……分析员健健康康，我就很开心。	…分析員健健康康，我就很開心。	……分析員さんが健康そうで嬉しかったんです。	… 분석가님이 건강하시니, 저는 그걸로 행복해요.	...I'm happy that you're so healthy, Adjutant.						0	
+page1.17	原来如此……！谢谢。	原來如此……！謝謝。	なるほど！それはうれしいな、ありがとう。	그렇구나…! 고마워.	I get it...! Thanks.						0	
+page1.18	虽然是很暖心的祝愿，但总觉得我好像丢失了很多重要的信息。我还想再问的时候，薇蒂雅又开始走神了。	雖然是很暖心的祝願，但總覺得我好像丟失了很多重要的線索。我還想再問的時候，薇蒂雅又開始走神了。	ずいぶんと優しい言葉を言ってくれたけど、どうしても大事な内容が足りないような気がする。もう少し追求しようとしても、ヴィディアはまたぼんやりとし始めたようだ。	따뜻한 축복이긴 하지만, 뭔가 중요한 정보를 많이 놓친 것 같은 기분이 드네. 더 물어보려는데, 비디야가 다시 멍하게 있다.	Even though it was a nice thought, I couldn't shake the feeling that I was missing some important information... But just when I wanted to press the issue, Vidya spaced out again.						0	
+page1.19	诶嘿嘿……	欸嘿嘿……	ふふふ……	에헤헤…	Ehehe...						0	
+page1.20	……还是不要打扰她了吧。	……還是不要打擾她了吧。	……これ以上邪魔するのはやめておこう。	… 방해하지 않는 게 좋겠어.	...I'd better not bother her.						0	

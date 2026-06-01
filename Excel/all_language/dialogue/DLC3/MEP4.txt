@@ -1,0 +1,33 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	啪嗒——啪嗒——	啪嗒——啪嗒——	パタパタ——	팔딱ㅡ 팔딱ㅡ	*slap—* *slap—*						0	1.3重置
+2	什么嘛，原来是蹦跶到这里了。	什麼嘛，原來是跳到這裡了。	あら、こんなところにいたのね。	뭐야, 여기까지 팔딱거려서 온 거야?	Huh? So it jumped all the way over here.						0	1.3重置
+3	从那么高的地方摔下来还活着……	從那麼高的地方摔下來竟然還活著……	あんな高さから落ちても生きてるだなんて……	그렇게 높은 곳에서 떨어졌는데도 불구하고 살아있다니…	It's still alive after falling from so high up...						0	1.3重置
+4	毕竟是“海之主”嘛。	畢竟是“海之主”嘛。	なんといっても「海の主」ですから。	'바다의 주인'이니까요.	Well, it is the legendary "king bream," after all.						0	1.3重置
+5	没想到诸位居然可以借他人之手，解决了我们设置的难题。	沒想到諸位竟然能夠假他人之手來解決我們設下的難題。	人と協力し、こちらが用意した難題を解決できるとは。	여러분께서 다른 사람의 힘을 빌려 저희가 준비한 난제를 풀어낼 줄은 몰랐어요.	I wasn't expecting you to enlist outside help to complete the challenges we set up for you.						0	1.3重置
+6	刚刚在度假中心的侍者机器人……是什么时候……	剛剛在渡假中心的機器人……是什麼時候……	さっきまでリゾートセンターにいたウェイトレスさんのロボットが……いつの間に……	방금까지 바캉스 센터에 있던 로봇 메이드가… 언제…	The robot attendant that was at the resort center... When did...?						0	1.3重置
+7	哼，估计和那架无人机一样，早就在这附近等着我们了吧。	哼，恐怕也和那些無人機一樣，早就在附近等著我們了吧。	ふん、あのドローンと同じように、ずっと前からこの近くで待ち構えてたんでしょう。	흥, 저 드론처럼 이곳에서 우리를 계속 기다리고 있었나 보지.	Hmph, it's probably been following us around the whole time — just like those drones.						0	1.3重置
+8	并不是哦，其实我是度假中心那位的堂姐~	並不是喔~其實我是渡假中心那位侍者的堂姐~	違いますよ。実はわたくし、リゾートセンターにいる子のいとこなのです～	아닙니다. 실은 저는 바캉스 센터에 근무하던 로봇의 사촌 언니랍니다~	Nope! Actually, the robot working at the resort center is my sister. Do you see the resemblance?						0	1.3重置
+9	哼，机器人也有亲戚吗？	哼，機器人也有親戚嗎?	ふん、ロボットにも親戚がいるってわけ？	뭐? 로봇 주제에 친척도 있어?	Oh? Robots have families too?						0	1.3重置
+10	呵呵呵，和大家开个玩笑，我们只是同型号的不同个体罢了~	呵呵呵~開個小玩笑，我們只是同一型號的不同機體罷了~	ふふふ、冗談でございます。わたくしたちはあくまで、同じ型番の別個体ですから～	하하하, 농담입니다. 그저 같은 모델의 다른 개체일 뿐입니다~	Hahaha, just kidding. We're just different units of the same model~						0	1.3重置
+11	明明外貌一样，但是性格差别好大……	明明外型一樣，但性格差好多……	同じ外見なのに、性格は全然違う……	외모는 똑같은데 성격이 확연히 달라 보인다…	Even though they looked the same, their personalities were completely different...						0	1.3重置
+12	那么请允许我为大家说明下一项挑战。	接下來請讓我為大家說明下一項挑戰。	では、次の挑戦についてご説明させていただきます。	그럼 이제 다음 챌린지를 소개하도록 하겠습니다.	Allow me to explain the next challenge.						0	1.3重置
+13	不知各位是否还记得，在渡轮上我们曾提供过一道甜品~	不知道各位是否還記得，在渡輪上我們曾品嘗過一道甜品~	フェリーでデザートを提供したこと、皆様は覚えていますか？	혹시 여객선에서 여러분에게 제공됐었던 디저트를 기억하시련지요~	Do you all remember the dessert we gave you on the ferry~?						0	1.3重置
+14	是海盐西瓜冰吧。	是海鹽西瓜冰吧。	塩スイカのかき氷のことですよね？	시솔트 수박바잖아.	Yeah. Sea-salt watermelon ice.						0	1.3重置
+15	恭喜恩雅小姐回答正确，那实际上是本岛最畅销的一道甜品。	恭喜恩雅小姐回答正確，其實那是本島最暢銷的一道甜品。	ご名答です、エンヤ様。あれはこの島の大人気デザートなんです。	정답입니다, 아가씨. 그건 사실 이 섬에서 가장 인기가 많은 디저트랍니다.	Congratulations, Miss Enya! That is correct. It's actually the best-selling dessert on the island.						0	1.3重置
+16	而各位的下一项挑战便是找到藏在码头集市中的冰淇淋车，并复刻出这道甜品。	下一項挑戰的內容就是找到藏在碼頭市集中的冰淇淋攤車，並再現這道甜品。	皆様の次の挑戦は、埠頭の市場に隠されたキッチンカーを見つけ、そのデザートを再現することです。	여러분의 다음 챌린지는 바로 부두 시장에 있는 아이스크림 차를 찾아서 해당 디저트를 만들어 내는 것입니다!	Your next challenge is to locate the ice cream cart hidden somewhere in the wharf market. Then, you'll need to recreate this dessert.						0	1.3重置
+17	呵呵呵，相信以大家的实力，一定能顺利完成最后的挑战。	呵呵呵~相信以大家的實力，一定能輕鬆完成這一項挑戰。	ふふふ、皆様ほどの実力者なら、この最後の挑戦も乗り越えられると信じております。	후후후, 여러분의 실력이면 마지막 챌린지를 순조롭게 완수할 수 있을 거라 믿습니다.	Hehe~ I believe in you guys. You'll definitely be able to complete the final challenge.						0	1.3重置
+18	哎，已经是最后一项挑战了吗？！	欸?這已經是最後一項挑戰了嗎?!	あれ？もう最後なの！？	어머, 벌써 마지막 챌린지야?!	Wait, it's already the last challenge!?						0	1.3重置
+19	没错，我们离获胜只差最后一步了。	沒錯，我們離勝利只差一步之遙了。	ええ、優勝まであと少しですよ。	맞아, 승리까지 단 한 걸음밖에 남지 않았어.	Yes, we're just one step away from victory.						0	1.3重置
+19_1	（不不不，这进度不是才过了一半吗……）	(不不不，這進度不是才過半而已嗎……)	いやいやいや、もう最後って……急すぎないか？	(아니, 아니다. 이제 겨우 절반밖에 안 됐잖아…)	(No, no, no... Isn't this only halfway through...?)						0	1.3重置
+20	如果各位没有疑问了，我就带着晚宴的食材先回去了。	如果大家都沒問題的話，我就先帶晚宴的食材回去了。	もしほかの質問がなければ、ディナーの食材を持って一足先に戻りますね。	만약 더 궁금하신 사항이 없으시면 저는 먼저 저녁 연회 때 사용할 식자재를 들고 돌아가 보겠습니다.	If there aren't any other questions, I'm going to take the main ingredient for dinner back now.						0	1.3重置
+21	食材？	食材？	食材？	식자재?	Ingredient?						0	1.3重置
+22	啪嗒——	啪嗒——	パタ——	팔딱ㅡ	*slap—*						0	1.3重置
+23	就是它哦~	就是牠喔~	これのことですよ～	바로 이것이랍니다~	Yep, there it is~						0	1.3重置
+b-1											0	1.3重置
+24	……海之主还是难逃一死啊。	……海之主還是難逃一死啊。	……海の主は結局、哀れな末路を辿るのか。	… 바다의 주인도 결국 죽음을 면치 못했군.	...In the end, the king bream couldn't escape its fate.						0	1.3重置
+24_1	还没有找到猫汐尔吗？	還沒有找到貓汐爾嗎？	まだマーシルは見つかってないの？	아직도 캣 시에라를 못 찾았어?	Still no sign of Mauxir?						0	1.3重置
+24_2	没有嘭，没有嘭~	沒有嘭，沒有嘭~	いないのサ～いないのサ～	못 찾았습니다, 펑. 못 찾았습니다, 펑~	Negative~						0	1.3重置
+24_3	算了……还是先放弃搜索吧。	算了……還是先放棄搜索吧。	もういい…検索は一旦止めよう。	됐다… 일단 수색은 포기하자.	Forget it... Call off the search for now.						0	1.3重置
+24_4	接下来，把无人机都集中到playername附近。	接下來，把無人機都集中到playername周圍。	ドローンを全部playernameの周囲に集めよう。	이제 드론들을 전부 playername 주변으로 모아.	Alright then — redirect all drones to converge on playername.						0	1.3重置
+24_5	收到嘭~	收到嘭~	了解したのサ～	알겠습니다, 펑~	Roger~						0	1.3重置

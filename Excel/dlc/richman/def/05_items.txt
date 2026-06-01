@@ -1,0 +1,15 @@
+﻿Id	名字	名字多语言	描述	道具基类	使用类型(1:主动;2:被动)	显示类型(1:普通卡;2:伤害卡)	图标
+Id	Name	NameKey	Desc	Class	UseType	ShowType	Icon
+1	转向卡	season_item.TxtRichManCardName1	season_item.TxtRichManCardNameDes1	reverse_card	1	1	chess.303
+2	乌龟卡	season_item.TxtRichManCardName2	season_item.TxtRichManCardNameDes2	slowly_card	1	1	chess.307
+3	遥控骰子	season_item.TxtRichManCardName3	season_item.TxtRichManCardNameDes3	custom_dice	1	1	chess.301
+4	占地卡	season_item.TxtRichManCardName4	season_item.TxtRichManCardNameDes4	occupation_card	1	1	chess.308
+5	查账卡	season_item.TxtRichManCardName5	season_item.TxtRichManCardNameDes14	accounting_card	1	1	chess.312
+6	盗窃卡	season_item.TxtRichManCardName6	season_item.TxtRichManCardNameDes6	theft_card	1	1	chess.314
+7	转移卡	season_item.TxtRichManCardName7	season_item.TxtRichManCardNameDes7	transfer_card	2	1	chess.313
+8	免费卡	season_item.TxtRichManCardName8	season_item.TxtRichManCardNameDes8	free_card	2	1	chess.305
+9	清扫卡	season_item.TxtRichManCardName9	season_item.TxtRichManCardNameDes9	cleaning_card	1	1	chess.306
+10	地雷卡	season_item.TxtRichManCardName10	season_item.TxtRichManCardNameDes11	landmine_card	1	2	chess.310
+11	炸药卡	season_item.TxtRichManCardName11	season_item.TxtRichManCardNameDes10	explosive_card	1	2	chess.309
+12	飞弹卡	season_item.TxtRichManCardName12	season_item.TxtRichManCardNameDes12	missile_card	1	2	chess.311
+13	路障卡	season_item.TxtRichManCardName13	season_item.TxtRichManCardNameDes13	barrier_card	1	1	chess.304

@@ -1,0 +1,7 @@
+﻿ 	描述	属性IconId(取Resource.txt中的Id)
+AttributeName	Attributedes	ResourceID
+Health_n	girlrush.girl_attributedes_01	1300000
+Attack_n	girlrush.girl_attributedes_02	1300001
+Stablility_n	girlrush.girl_attributedes_03	1300035
+BulletNum_n	girlrush.girl_attributedes_04	1300015
+FireSpeed_n	girlrush.girl_attributedes_05	1300014

@@ -1,0 +1,80 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这里有交火的痕迹，他们应该是转移到了其他更利于坚守的地方。	這裡有交火的痕跡，他們應該是轉移到了其他更利於堅守的地方。	ここに交戦の形跡がある。他のもっと守りやすい場所に移動したようだ。	이곳에 교전했던 흔적이 있어. 지금은 방어하기에 더 유리한 장소로 옮긴 것 같고.	Looks like a firefight took place here. They must've taken things to a place better for holding out.						0	
+2	这次的“雪”，比以往的规模更大，彻底没法用通讯器取得联络了。	這次的“雪”，比以往的規模更大，徹底沒法用通訊器取得聯絡了。	今回の「キオーン」、前より規模が大きい、通信機は完全にダメになった。	이번 '눈'은 예전에 내렸던 거에 비하면 규모가 훨씬 커서 단말기는 전혀 쓸 수 없을 것 같아.	The snow's falling across an even wider area this time. The communicators are totally useless.						0	
+3	从步长、步宽来看，是军方的作战靴。	從步長、步寬來看，是軍方的作戰靴。	足跡から見て、軍の作戦靴だ。	보폭이나 걸음 간격을 보면 군부에서 사용하는 전투화 같아.	Given the pace and stride of the footprints, these should be from the soldiers.						0	
+4	足迹向那边延伸，走吧。	足跡向那邊延伸，走吧。	足跡はあっちに続いてる、行こう。	족적이 저기로 이어지는 거 같으니 한번 따라가 보자.	The prints go that way. Let's go.						0	
+5	行吧……等等！你是用裸眼就能鉴别这种硬表面的足迹吗……	好吧……等等！你不用設備，僅用雙眼就能鑑別這種硬表面的足跡嗎……	分かった……いや待った！この硬い地面に残った足跡が肉眼で見えるの……	알겠어… 잠깐! 설마 눈으로만 이 족적을 분석한 거야?…	Alright... Wait a second, the prints are barely noticeable on this concrete. Did you deduce all that just with your naked eye...?						0	
+6	嗯？这不是必修课吗？	嗯？這不是必修課嗎？	え？必修じゃないの？	응? 이건 누구나 가능한 일 아닌가?	Hm? Aren't you required to learn that?						0	
+7	厉害厉害……哈啊~走吧，已经是加班时间了，快点结束吧。	厲害厲害……哈啊~走吧，已經是加班時間了，快點結束吧。	すごいすごい……はあ～行こう、もう定時も過ぎてる、早く終わらせよう。	대단해… 아무튼… 어서 출발하자! 벌써 초과 근무상태야… 어서 끝내버리자고.	Amazing, honestly... *yawn*~ Let's go. We're into overtime already, so let's get this over and done with.						0	
+8	你有什么感觉吗？	你有什麼感覺嗎？	体調はどう？	근데 무슨 이상한 느낌 안 들어?	Do you feel anything?						0	
+9	感觉？	感覺？	体調？	무슨 느낌?	Feel?						0	
+10	“天启者不会因污染变成异化人，但过分暴露在泰坦污染中，还是会引发神格侵蚀”。	“天啟者不會因汙染變成異化人，但過分暴露在泰坦汙染中，還是會引發神格侵蝕”。	「覚醒者は汚染されても変異者にはならないが、タイタンの汚染にさらされすぎると、神格侵蝕が起こる。」	"""계시자는 오염으로 변이자가 되지는 않지만, 타이탄 물질에 과도하게 노출돼서 감염되면 만트라 침식이 일어난다."""	"Manifestations don't become Changed when exposed to Titagen, but the contamination can still cause an episode of Flooding."						0	
+11	我领导是这么说的。	我上司是這麼說的。	私の上司がそう言った。	리더가 이렇게 말했었거든.	That's what my boss told me.						0	
+12	神格侵蚀？	神格侵蝕？	神格侵蝕？	만트라 침식?	Flooding?						0	
+13	我不知道神格侵蚀是什么感觉。	我不知道神格侵蝕是什麼感覺。	それがどんな感覚なのか、私には分からない。	아직까지 난 만트라 침식이 어떤 느낌인지 잘 몰라서.	I don't know what that would feel like.						0	
+14	不过，好像确实产生了一些异常感知……	不過，好像確實產生了一些異常感知……	でも、確かにちょっと変な感じ……	확실히 느낌이 조금 이상한 것 같기는 해…	But I'm starting to gain an unusual sense...						0	
+15	跟以往感觉有些不一样。	跟以往感覺有些不一樣。	今までと何か違う。	평소와는 조금 다른 것 같아.	...A bit different than anything I've felt before.						0	
+16	“雪”……	“雪”……	「キオーン」……	'눈'…	Snow...						0	
+17	雪好像更大了。	雪好像更大了。	キオーンがどんどん強くなってきた。	눈이 점점 커지고 있어.	The snow's getting thicker.						0	
+19	爸爸妈妈！	爸爸媽媽！	パパ、ママ！	아빠! 엄마!	Mom, Dad!						0	
+20	一会可不可以再坐一次摩天轮呀！	等一下可不可以再坐一次摩天輪呀！	もう一回観覧車に乗ってもいい？	조금 있다가 관람차 한 번만 더 타면 안 될까?	I want another ride on the Ferris wheel after this!						0	
+21	宝贝，出门前不是说好只能许三个愿望吗？	寶貝，出門前不是說好只能許三個願望嗎？	出かける前に、お願いは3つだけって約束したはずだろ？	우리 아가… 나오기 전에 소원은 세 가지만 빌어야 한다고 했던 거 기억나지?	Sweetie, didn't we agree that you're only allowed three requests before we leave?						0	
+23	老公，要不就答应她吧……	老公，不然就答應她吧……	あなた、乗らせてあげましょうよ……	여보, 그냥 하고 싶은 거 전부 하게 해주는 게 어때…	Dear, how about we just let her this time...?						0	
+24	再坐一次摩天轮也用不了多久。	再坐一次摩天輪也用不了多久。	もう一回くらい乗っても時間かからないし。	관람차 한 번 더 탄다고 시간이 그렇게 오래 걸리는 것도 아니잖아.	Another round on the Ferris wheel won't take long.						0	
+25	反正也……	反正也……	どうせ……	어차피…	Either way, we...						0	
+26	孩子他妈，你越是这样，我们就越……	孩子他媽，你越是這樣，我們就越……	お前がそんなだから、俺らは……	여보, 당신이 그럴수록 우리가 더…	Darling, the more we act like that, the more she...						0	
+27	“嘭！嘭！嘭！”	“嘭！嘭！嘭！”	「ドン！ドン！ドン！」	'펑! 펑! 펑!'	Bang! Bang! Bang!						0	
+28	大型烟花发射的声音，短暂掩盖了其他人工喧嚣。	大型煙火發射的聲音，短暫掩蓋了其他喧囂。	花火が打ち上がる音が、他の人工的な雑音を一時的に遮った。	폭죽 소리는 주변 소음들을 일시적으로 잠잠하게 했다.	The sound of enormous fireworks briefly drowned out the mechanical background noise.						0	
+29	包裹着美好寓意的弹丸被沉默地发射至夜空，看起来是如此平常、不起眼，直到引爆的瞬间。	包裹著美好寓意的彈丸被沉默地發射至夜空，看起來是如此平常、不起眼，直到引爆的瞬間。	美しい寓意を含んだ弾丸が夜空に向かって静かに打ち上げられた。爆発するまで、あんなに平凡で地味に見えたのに。	좋은 의미가 담긴 폭죽이 고요한 밤하늘에 퍼져 나갔다. 퍼져 나가는 동안은 잔잔하고 눈에 띄지 않았지만, 터지는 순간,	The projectile fired silently through the night sky, a symbol of beauty, inconspicuous until the moment it exploded.						0	
+30	能量从一种形式转化为另一种形式，黯淡的外壳破裂，高温气流从内部迸射而出，金属粉末剧烈燃烧，散发出改变整片天空的颜色，闪亮夺目。	能量從一種形式轉化為另一種形式，黯淡的外殼破裂，高溫氣流從內部迸射而出，金屬粉末劇烈燃燒，散發出改變整片天空的顏色，閃亮奪目。	エネルギーが形を変え、冴えない殻を破り、高温の気流が内部から飛び出した。金属の粉が激しく燃え、空の色も変えるほど輝いている。	에너지원이 바뀌며 외부 껍데기가 벗겨졌고, 뜨거운 기류와 함께 금속 분말이 연소돼 하늘색을 바꿨다. 불빛은 눈부시게 반짝였다.	The energy changed forms, and the shell split open. Hot air poured out and metal powder burned intensely as it colored the entire sky with its brilliance.						0	
+31	焰火的光亮，照进街道和所有不开灯的房间，将黑暗驱离。	焰火的光亮，照進街道和所有不開燈的房間，將黑暗驅離。	花火の明かりが、街の至る所、明かりがついていない全ての部屋に降り注ぎ、闇を追い払った。	불빛은 거리의 모든 건물을 밝히고 어둠까지 몰아냈다.	The flames burned brightly, illuminating all the streets and dark rooms, expelling the darkness.						0	
+32	但，总有光照射不到的角落。	但，總有光照射不到的角落。	しかし、光の届かない場所もある。	하지만 불빛이 유독 닿지 않는 곳이 있었다.	But there are always places the light doesn't reach.						0	
+33	爸爸！妈妈！到了烟花的时间！	爸爸！媽媽！到了煙火的時間！	パパ！ママ！花火の時間だよ！	아빠! 엄마! 불꽃놀이를 시작했나 봐!	Mom! Dad! It's time for the fireworks!						0	
+34	被楼房挡住了！我们快到那边去看！	被樓房擋住了！我們快到那邊去看！	建物で見えない！あっちに行こう！	건물에 가려져서 잘 안 보여! 저기로 넘어가서 구경하자!	The building's in the way! Let's go that way to watch!						0	
+35	爸爸？妈妈？	爸爸？媽媽？	パパ？ママ？	아빠? 엄마?	Mom? Dad?						0	
+36	人群沉默地在街道继续流动，没有人回应她的呼唤。	人群沉默地在街道繼續流動，沒有人回應她的呼喚。	人々は黙ったまま行き来して、彼女に応える者はいなかった。	사람들은 아무 일 없다는 듯이 거리를 계속 거닐고 있었고, 어느 누구도 그녀의 부름에 답해주지 않았다.	The crowd flowed past her in silence, not a soul responding to her cries.						0	
+37	是啊……我想起来了，那一天，我被抛弃了。	是啊……我想起來了，那一天，我被拋棄了。	ああ……思い出した。あの日、私は捨てられた。	그래… 생각났어. 그때 난 버려졌었지.	Yeah... now I remember. That was the day I was abandoned.						0	
+38	公园的长椅很冷，雪下得很大，我哭了很久。	公園的長椅很冷，雪下得很大，我哭了很久。	公園のベンチが冷たくて、雪も強い。私は長い間泣いていた。	공원에 있는 벤치는 차가웠고 눈이 엄청나게 내리고 있었지. 난 한참을 울었었어.	The bench at the park was so cold, and the snow was so heavy. It was a long time until I stopped crying.						0	
+39	为什么会回忆起这些？	為什麼會回憶起這些？	……どうしてそんなことを思い出したんだ？	근데 왜 갑자기 이런 기억들이 떠오르는 거지?	...Why am I remembering that now?						0	
+40	总觉得……被拽入了某个无法醒来也无法真正睡去的黑夜。本该遗忘的灰暗记忆不受控制地从心之暗面涌出。	總覺得……被拉進了某個無法醒來也無法真正睡去的黑夜。本該遺忘的灰暗記憶不受控制地從心之暗面湧出。	なんだか……永遠に目を覚ますことができない夢にでも引きずり込まれたみたい。忘れたはずの暗い記憶が心の闇から勝手に湧き上がってくる。	계속 깨어날 수도, 잠들 수도 없는 어두운 밤으로 끌려가는 느낌이야. 어두운 기억들이 마음속 깊은 곳에서 종잡을 수 없이 튀어나오고 있어.	It feels like... I've been dragged into an eternal night, where I can neither fall asleep nor wake up, where memories keep pouring out from the darkest corners of my heart.						0	
+41	但我刚才……不是在执行任务吗？	但我剛才……不是在執行任務嗎？	でも今は……任務中のはずだ。	방금까지만 해도… 분명히 난 미션 수행 중이었는데?	But just now... wasn't I on a mission?						0	
+42	是被神格侵蚀了吗？	是被神格侵蝕了嗎？	神格でも侵蝕されたのか？	설마 만트라 침식에 빠졌던 건가?	...What happened? Did I just get Flooded?						0	
+43	回去能不能申请个工伤补贴？精神伤害也算工伤吧？	回去能不能申請個職災補貼？精神傷害也算職災吧？	帰ったら労災保険でも申請しておこうかな？精神傷害も労災よね？	이런 건 산재 처리도 안 되겠지? 정신적 상해도 산재 아닌가?	I wonder if I can apply for work-injury compensation when I get back. Does a Deiwos-related injury count as work-related?						0	
+44	刚才那个人呢？应该已经走了吧……	剛才那個人呢？應該已經走了吧……	さっきの人は……もう行ったか？	같이 있었던 녀석은… 벌써 떠난 건가…	And that girl I was with? She must've already left...						0	
+45	如果休息好了，就继续走吧。	如果休息好了，就繼續走吧。	休憩が済んだら行こう。	다 쉬었으면 이제 출발해 볼까?	Let's keep going if you've finished resting.						0	
+46	呜哇！你吓人一跳！	嗚哇！你嚇人一跳！	うわっ！びっくりした！	으악! 깜짝 놀랐잖아!	Yikes! You scared me!						0	
+47	你刚才没受到影响吗？	你剛才沒受到影響嗎？	あんたは平気なの？	방금 아무 일도 없었어?	You weren't affected just now?						0	
+48	我不知道你说的影响是指什么。	我不知道你說的影響是指什麼。	何のことか分からない。	뭘 말하는 거지?	I don't know what kind of effect you mean.						0	
+49	走吧。	走吧。	……行こう。	아니야… 가자.	Let's go.						0	
+50	嗯。	嗯。	うん。	응.	Okay.						0	
+51	安卡希雅故意落后了几步，开始回忆刚才发生的事件，并犹豫是否要向肴说明。	安卡希雅故意落後了幾步，開始回憶剛才發生的事件，並猶豫是否要向肴說明。	アカシアはわざとスピードを落として、先ほどのことを思い出し、肴に説明するかどうか悩んでいる。	아카시아는 일부러 거리를 벌려 걷기 시작했고, 방금 있었던 일을 되새기며 야오에게 말해야 할지 고민했다.	Acacia hung back several paces, thinking about what had just happened to her and hesitating whether to tell Yao.						0	
+52	她进入了一个漆黑的空间，边界浸没在虚无中。	她進入了一個漆黑的空間，邊界浸沒在虛無中。	彼女は真っ暗な空間に入った。見渡す限り、虚無しかない。	어두운 공간에 들어서니 시야의 끝이 허공에 침식되어 있었고,	She'd entered a pitch-black space, with borders eroded by nothingness.						0	
+53	唯有两个光点在这片空间中闪烁。	唯有兩個光點在這片空間中閃爍。	2つの明かりが光っているだけ。	어둠 속에는 두 개의 빛이 반짝이고 있었다.	Only two specks of light shined within this space.						0	
+54	她触摸其中一个，观看了某个小女孩被抛弃的回忆，她再去触碰另一个，则是…… 	她觸摸其中一個，觀看了某個小女孩被拋棄的回憶，她再去觸碰另一個，則是……	彼女は一つに触れると、ある女の子が捨てられた記憶を見た。もう一つに触れると…… 	그중 하나를 만지자 어느 한 여자아이가 버려지는 기억을 볼 수 있었고, 다른 하나를 만지자…	She had touched one and seen the memory of a little girl being abandoned. When she touched the next one, though...						0	
+55	陶董，这一期实验进展很大，如果再给我几个月时间，我们一定可以攻克……	τ董，這一期實驗進展很大，如果再給我幾個月時間，我們一定可以攻克……	τ様、今回の実験、進展が大きいです。あと数ヶ月あれば、きっと……	τ 이사님, 이번 실험은 정말 큰 진전이 있었습니다. 몇 달만 시간을 주시면…	Director τ, we've made great progress in this experiment. If you just give us a few more months, we'll definitely be able to make a breakthrough.						0	
+56	是资金问题吗？我可以出去找别的投资……	是資金問題嗎？我可以出去找別的投資……	資金の問題ですか？別の投資を探しに……	혹시 자금 문제 때문에 그러시는 겁니까? 제가 다른 투자처를 찾아보겠습니다…	Is it a funding issue? I can search for additional investors...						0	
+57	不，是没有时间了。	不，是沒有時間了。	いえ、ただ時間切れです。	아니. 시간이 얼마 남지 않았어.	No. We've simply run out of time.						0	
+58	董事会那边已经做出了决议，这个实验室离强制关停，还有三个工作日。	董事會那邊已經做出了決議，這個實驗室離強制關閉僅剩三個工作天。	理事会は既に結論を出しました。あと3日で、この実験室は強制閉鎖されます。	이사회에서도 이미 결정한 사안이야. 실험실은 3일 뒤에 운영을 중단시킨다.	The Board of Directors already reached a decision. This laboratory will be closed within three working days.						0	
+59	这！三天！	這！三天！	なっ！3日！？	아니… 3일이라뇨!	What!? Just three days!?						0	
+60	可是这么多成果……	可是這麼多成果……	しかし、こんなたくさんの成果が……	그럼 지금까지의 성과물들은…	But we've made so many findings...						0	
+61	尽可能保存一切研究成果。	盡可能保存一切研究成果。	できるだけ全ての研究成果を残します。	연구 성과물들은 최대한 보존해.	Preserve all findings as much as possible.						0	
+62	就是说……还有重启项目的可能吗？	就是說……還有重新啟動項目的可能嗎？	つまり……プロジェクトを再開する可能性があるのですか？	그 말은… 프로젝트를 다시 재개할 수도 있다는 말씀이신가요?	Does that mean... there's a chance of restarting the project?						0	
+63	我会试着改变董事会的决定，但不要抱有希望。	我會試著改變董事會的決定，但不要抱有希望。	できるだけ理事会を説得してみますが、期待しないでください。	이사회의 결정이 바뀔 수 있도록 나도 노력은 해보겠지만 너무 큰 기대는 하지 마.	I'll try to change the Board of Directors' decision. Don't get your hopes up, though.						0	
+64	等一下，陶董！数据和样本那些都好处理，但是那些孩子……	等一下，τ董！數據和樣本那些都好處理，但是那些孩子……	待ってください、τ様！データとサンプルはまだしも、あの子たちは……	잠깐만요, τ 이사님! 데이터나 샘플은 그렇다 쳐도. 아이들은…	Wait, Director τ! The data and samples are easy enough to deal with, but as for those kids...						0	
+65	想办法解决。	想辦法解決。	何とかしなさい。	그건 조금 더 생각해 보지.	Find a way to deal with them.						0	
+66	我的要求是：任何信息都不能外泄。	我的要求是：任何訊息都不能外洩。	私の要求は、情報を一切漏洩してはならないことです。	내가 원하는 건 어떤 정보도 외부에 누출되지 않도록 하는 거야.	My one requirement is that there can be no leaks.						0	
+67	安卡希雅，接下来有一项特殊的实验需要你配合。	安卡希雅，接下來有一項特殊的實驗需要你配合。	アカシア、これから君に協力してもらう特殊な実験がある。	아카시아, 조금 특수한 실험을 진행해야 해서 협조를 좀 해줘야 할 것 같아…	Acacia, I'll need your cooperation for the next part of the project.						0	
+68	不用说谎，是要“处理”掉我吧。	不用說謊，是要“處理”掉我吧。	嘘はやめて。私を「処理」するんでしょ。	거짓말할 필요 없어. 날 '처리'하려고 그러는 거잖아.	Don't bother lying to me. You're going to "deal with" me, aren't you?						0	
+69	你……嘘……你听到了什么吗！？	你……噓……你聽到了什麼嗎！？	君……嘘って……何か聞いたのか！？	너… 설마… 대체 어디까지 들은 거야?	You... shh... Did you overhear something!?						0	
+70	你的表情，让事情变得很好猜。	你的表情，讓事情變得很好猜。	顔に書いてある。	굳이 말하지 않아도 네 표정이 이미 다 말해주고 있어.	It's written all over your face.						0	
+71	我还有其他选择吗？	我還有其他選擇嗎？	他の選択肢は？	나한테 다른 선택지는 없는 건가?	Do I have any other options?						0	
+72	我会死吗？	我會死嗎？	私は死ぬの？	그럼 난 죽는 거고?	Am I going to die?						0	
+73	……不会，只是让你们进入睡眠舱。	……不會，只是讓你們進入睡眠艙。	……死にはしません。ただあなたたちを休眠カプセルに入れるだけです。	… 그건 아니야. 너희들을 잠시 동안 수면 캡슐에서 쉬게 할 거야.	... No. I'll put you into a hibernation capsule.						0	
+74	等到项目重启就会立刻唤醒你们，我保证！很快！	等到項目重新啟動就會立刻喚醒你們，我保證！很快！	プロジェクトが再開する時、すぐ君たちを呼び起こす、約束する！その日はすぐに来る！	프로젝트가 재개되면 다시 깨울 거고. 약속해! 얼마 안 걸릴 거야!	We'll awaken you as soon as the project restarts, I guarantee it! It'll be in no time!						0	
+75	你跟其他人讲了吗？	你跟其他人講了嗎？	他の人と話したか？	혹시 다른 사람한테는 말한 적 있어?	Have you told anyone else about this?						0	
+76	没有。	沒有。	いえ。	아니.	No.						0	
+77	很快是多久？一个月？一年？	很快是多久？一個月？一年？	すぐってどれくらい？一ヶ月？それとも一年？	얼마 안 걸린다는 게 어느 정도 걸린다는 거야? 한 달? 일 년?	How long is no time? One month? One year?						0	
+78	这个……最多几个月，我保证。	這個……最多幾個月，我保證。	それは……せいぜい数ヶ月、保証する。	아무리 길어도 몇 개월이야… 약속할게.	Well... it won't be more than a few months, trust me.						0	
+79	天启者，就是最终的成果吗……	天啟者，就是最終的成果嗎……	覚醒者、これが最終成果か……	결국 계시자가 최종 결과물이었던 건가…	So, were Manifestations the end result of that research...?						0	
+80	这种力量，为什么要被制造出来？又假借“天启”之名？	這種力量，為什麼要被製造出來？又假借“天啟”之名？	こんな力をどうして作り出す必要がある？それに「覚醒」なんて騙って。	이런 힘은 도대체 뭐 때문에 만들어지는 거지? 그리고 '계시'라는 이름은 뭐 때문에 쓰는 거고…	Why did they create this kind of power? And why give it the deceptive name of "Manifestation"?						0	

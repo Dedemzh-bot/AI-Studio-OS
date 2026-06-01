@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	想不通，我真的是一点儿都想不通！	想不通，我真的是完全想不通！	分からない、本当にさっぱり分からない！	이해가 안 돼, 정말 이해가 안 돼!	I don't get it! I really don't get it!						0	
+page0.2	怎么了？	怎麼了？	どうしたの？	왜 그래?	Is something wrong?						0	
+page0.3	昨天安卡希雅拉着我看了一部古早青春校园动画。	昨天安卡希雅拉著我看了一部懷舊青春校園動畫。	昨日、アカシアが私に昔の青春学園アニメを見せてくれた。	어제 아카시아랑 같이 고전 청춘 캠퍼스 애니메이션을 봤거든.	Acacia made me watch an old anime about school life.						0	
+page0.4	男主和女主明明互相有好感，就是不知道为什么一直没有向对方表白。	男女主角明明對彼此都抱有好感，就是不知道為什麼一直沒有跟對方告白。	主人公とヒロインは明らかにお互いに気があるのに、なぜか告白しないんだ。	남자 주인공과 여자 주인공이 서로 호감을 느끼고 있는데, 왜 서로 고백을 안 하는지 모르겠어.	The main male and female characters clearly liked each other, so I don't know why neither of them ever confessed their feelings.						0	
+page0.5	看得我简直要急死了！	看得我真是要急死了！	見ててイライラした！	정말 답답해 죽을 것 같았어!	It was seriously testing my patience!						0	
+page0.6	如果换作我是主角，一定在察觉到自己心意的第一时间蹦起来大喊“喜欢你”！	如果我是主角的話，一定會在發覺自己心意的第一時間就跳起來大喊「我喜歡你」！	もし私が主人公なら、自分の気持ちに気づいた瞬間に飛び上がって「好きだ！」って叫ぶから。	만일 내가 주인공이라면, 스스로 마음을 알아차린 순간 펄쩍 뛰며 '좋아해'라고 외쳤을 거야!	If I was the main character, I'd jump up and shout, "I like you!" as soon as I realized how I felt!						0	
+page0.7	这样搞不好到动画结尾的时候，孩子都会走路了！	這樣搞不好到動畫完結的時候，我們倆的孩子都會走路了！	このままじゃ、アニメが終わる頃にはもう子供も歩けるようになるよ！	그럼 애니메이션 엔딩에서는 벌써 아이가 걸어 다니고 있을 텐데!	If the show keeps moving at a snail's pace like this, my hair will turn gray by the time it ends!						0	
+page0.8	古早青春校园动画啊……	懷舊青春校園動畫啊……	昔の青春学園アニメか……	고전 청춘 캠퍼스 애니메이션이라…	An old anime about school life...						0	
+page0.9	大概那部动画里既没有成年病，也没有泰坦， 男女主都是单纯清澈又善良的学生。	那部動畫裡面一定沒有成年病、也沒有泰坦，男女主角都是單純又善良的學生。	そのアニメはティーン症候群もタイタンもない頃の話で、主人公たちは純粋で優しい生徒だろうな。	그 애니메이션에서는 성인병도, 타이탄도 없고, 남녀 주인공 모두 티 없이 맑고 착한 학생이겠지.	Juvosis or Titans probably don't exist in that anime, right? The main characters are just pure, innocent students.						0	
+page0.10	有些迟钝，又有些患得患失，所以只能小心翼翼地一点点去接近、去试探。	有點遲鈍、又有點患得患失，所以只能小心翼翼地一點一點去接近、試探對方。	少し鈍感で、心配性だから、慎重に少しずつ近づいて、相手の気持ちを試そうとしてるんじゃないかな。	조금은 둔하기도 하고, 조금은 노심초사하니까 말이야. 조금씩, 또 조심스럽게 탐색하며 다가갈 수밖에 없을 거야.	Some might be a bit thick, while others are scared of getting turned down — so they can only slowly get closer, testing the waters little by little.						0	
+page0.11	分析员你好像很懂啊，安卡希雅也吐槽我欣赏不了这种暧昧拉扯的美。	分析員你好像很懂啊，安卡希雅也吐槽我欣賞不了這種曖昧又糾纏的酸甜滋味。	へぇ～、よく分かってるな。アカシアも、私が距離感から生まれる美しさを楽しめないって突っ込んでた。	분석가, 아주 잘 아는 것 같은데? 아카시아도 그러더라, 내가 '썸'의 아름다움을 이해하지 못한다고 말이야.	Sounds like you really get it, Adjutant. Acacia complained that I didn't appreciate that kind of slow development.						0	
+page0.12	我的话，绝对不要因为缺少勇气而迟疑，因为迟疑而留下遗憾。	要是我的話，絕對不會因為沒有勇氣而遲疑，因為不把握住機會只會留下遺憾。	私だったら、勇気がなくてためらったりなんてしない。そのためらいで後悔するかもしれないからな。	만일 나였다면 용기가 부족해서 망설이고, 망설임 때문에 미련을 남기는 행동은 하지 않을 거야.	I'd never let fear cause me to hesitate, because hesitation will lead to regret.						0	
+page0.13	毕竟这个时代，谁知道明天会怎么样呢……分析员，你笑什么？	畢竟這個時代，誰知道明天會怎麼樣呢……分析員你笑什麼？	今の時代、明日がどうなるか誰にも分からないから……うん？分析員、何笑ってるの？	당장 내일 무슨 일이 생길지 누가 알겠어? 지금 같은 시대에 말이야… 분석가, 왜 웃어?	And in this day and age, who knows what tomorrow will bring... Adjutant, why are you smiling?						0	
+page0.14	你能这么想，挺好的。	你能這麼想也滿好的。	そう考えるのはいいことだ。	네 생각이 그렇다니, 참 좋다.	I think that's a good way to look at it.						0	
+page0.15	真的。	真的。	本当にそう思うよ。	정말이야.	Really.						0	

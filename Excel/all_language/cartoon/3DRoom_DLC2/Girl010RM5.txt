@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	肴，入职世界树公司以后，你感觉这里怎么样？	肴，入職世界樹公司以後，你覺得這裡怎樣？	肴、ユグドラシル社に入った感想とかある？	야오, 위그드라실에 입사한 느낌이 어때?	Yao, how do you feel about Yggdrasil since joining?						0	
+page0.2	挺好的啊，比在军方时好多了。	滿好的啊，比在軍方時好多了。	まぁ、なかなかいいんじゃない。軍にいた時よりはずっとマシ。	좋은 것 같아. 군대에 있을 때보다는 훨씬 나은 걸.	It's pretty good. Much better than the military.						0	
+page0.3	没有了那些烦人的军规条例，感觉全身心都轻松多了。	沒有那些煩人的軍規，感覺身心靈輕鬆多了。	しつこいルールやら規律やら守らなくて済むし、心身ともにだいーーぶ楽になったと思ってるよ。	거슬리는 규율들이 없으니까 훨씬 자유로운 것 같아.	I feel so much more physically and mentally relaxed without all those annoying military regulations.						0	
+page0.4	你这种懒散性格能加入军方也是奇迹。	你這種懶散的性格能加入軍方也是奇蹟。	こんなのんびりした性格の人が軍に入れたなんて、奇跡に等しいな。	너같이 나태한 성격인 사람이 군대에 간 것도 참 신기하긴 해.	It's a wonder that someone as lazy as you could be accepted into the military in the first place.						0	
+page0.5	这就是硬实力！作为狙击手，我已经很出色了好吧。	這就是硬實力！作為狙擊手，我的實力出眾好嗎。	そりゃそんなもん、実力よ実力。吾輩は一流スナイパーなのだよ、分析員殿。	내가 실력이 좀 좋아? 저격수로서는 상당한 실력자라고.	Well that's just how amazing I am! I'm a great sniper, alright?						0	
+page0.6	这倒是没错。	這倒是沒錯。	確かにそうだけど。	그건 그렇지.	Can't argue with that.						0	
+page0.7	嘿嘿，总之面试的时候公司对我很满意，我也对公司很满意啦。	嘿嘿，總之面試的時候公司對我很滿意，我也對公司很滿意啦。	ふふ、とにかく面接の時、会社は私のこと気に入ってくれたみたいでね。まあ私も、この会社のこと好きだし。	헤헤, 어쨌든 면접을 볼 때도 회사에서 날 만족스러워했고, 나도 회사가 만족스러웠어.	Heh, ultimately, Yggdrasil was really happy with me after my interview, and I was happy with the company.						0	
+page0.8	肴，有一句话，我早就想对你说了。	肴，有一句話，我早就想對你說了。	肴、ずっと言いたかったことがあるんだけど。	야오, 하고 싶었던 말이 있어.	Yao, there's something I've been wanting to tell you for a while.						0	
+page0.9	嗯？	嗯？	ん？	응? 뭔데?	What?						0	
+page0.10	虽然还是动不动就被拉去加班，但至少待遇还不错。	雖然還是動不動就被拉去加班，但至少待遇還不錯。	よく残業するけど、少なくとも待遇はいい。	툭하면 야근시켜도 근무 조건이 꽤 좋으니까.	Even though we're often forced to work overtime, at least they treat us well here.						0	
+page0.11	在军方那时候，摸鱼被抓到就是万字检讨加关禁闭了。	在軍方那時候，摸魚被抓到就是寫萬字的悔過書加上關禁閉。	軍にいた時は、サボったことがバレたら一万文字以上の反省文を書いて、軟禁されたもの。	군대에 있을 때는 잠시만 게으름을 피워도 잡히기만 하면 반성문에 독방 신세였는데 말이지.	If we got caught slacking off in the military, we'd get a stern chewing-out and be put on lockdown.						0	
+page0.12	其实按规定，在公司摸鱼被抓到也是要扣工资......	其實依照規定，在公司摸魚被抓到也是要扣薪水......	実はこの会社にも、サボったら罰金のルールはあるけど……	사실 규정대로면, 회사에서 게으름을 피우다가 걸리면 월급이 깎여…	But according to Yggdrasil regulations, our salary is actually supposed to be deducted if we're caught slacking off...						0	
+page0.13	哎哎哎，分析员，我们这交情说这些可就见外了。	哎哎哎，分析員，我們的交情說這些可就見外了。	えっ！ちょっとお待ちになって分析員様？アタシたちの仲でそんな話を持ち出すなんてッ……！	에이, 분석가. 우리 사이에 그런 말을 하는 건 좀 그런데.	C'mon, Adjutant! We're good pals, right?						0	
+page0.14	我在公司这边可是努力多了！你不能因为偶尔的懈怠就举报我吧。	我在公司這裡可是努力多了！你不能因為偶爾的懈怠就舉報我吧。	それに！今のほうがずっとずーっと頑張っておりますですわよ！たまーに、たまーの一息でチクっちゃったりしないですますわよね！？	난 지금 이 회사에서 훨씬 더 노력하고 있다고! 가끔 휴식 좀 하는 거 가지고 신고하는 건 아니겠지?	I've worked really hard for this company! You can't just report me for slacking off once in a while!						0	
+page0.15	只要你这个“偶尔”真的只是偶尔，那我当然没意见。	只要你這個“偶爾”真的只是偶爾，那我當然沒意見。	その「たまに」が嘘じゃなかったらね。	그 '가끔'이 정말 가끔이라면 나도 당연히 이렇게까지 말하진 않겠지.	As long as it really is "once in a while," of course I don't have a problem with it.						0	

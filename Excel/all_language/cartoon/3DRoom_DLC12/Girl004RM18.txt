@@ -1,0 +1,18 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员！今天要去夜跑吗？	分析員！今天要去夜跑嗎？	分析員！今日の夜ランニングしない？	분석가! 오늘 저녁 러닝 갈 거야?	Hey, Adjutant! Up for a night jog later?						0	2.3版本随机事件
+page1.2	好啊，晚上在大厅门口会合吧。	好啊，晚上在大廳門口會合吧。	いいよ、夜になったらロビー前で待ち合わせしよう。	좋지, 저녁에 로비 입구에서 만나자.	Sounds good. I'll meet you at the hall entrance tonight.						0	2.3版本随机事件
+page1.3	好耶！	好耶！	やった！	좋아!	Yay!						0	2.3版本随机事件
+page1.4	分析员！别忘了晚上要夜跑哦？	分析員！別忘了晚上要夜跑哦？	分析員！今晩のランニングを忘れないでね？	분석가! 오늘 저녁 러닝 가는 거 잊으면 안 된다?	Hey, Adjutant! Don't forget about our jog tonight!						0	2.3版本随机事件
+page1.5	嗯？当然了，答应你的事情我不会忘的。	嗯？當然了，答應你的事情我不會忘的。	ああ、もちろん。約束したことは忘れないから。	응? 물론이지, 너랑 약속한 거잖아. 잊을 리가 없지.	Hmm? Don't worry, I won't forget. You know I always keep my promises.						0	2.3版本随机事件
+page1.6	嘿嘿，我这不是怕你太忙了嘛。	嘿嘿，我這不是怕你太忙了。	えへへ、忙しすぎて忘れるんじゃないかなって思った。	헤헤, 너무 바빠서 잊을까 봐 그랬어.	Hehe, just thought you might get too wrapped up in work and need a little reminder.						0	2.3版本随机事件
+page1.7	分析员！今晚……	分析員！今晚……	分析員！今晩の……	분석가! 오늘 저녁…	Hey, Adjutant! So tonight...						0	2.3版本随机事件
+page1.8	你先等等，你今天好像不太对劲。	你先等等，你今天好像不太對勁。	いや待て、今日はなんだかおかしいんじゃないか？	잠깐, 오늘 너무 수상한데.	Hold on a sec — something feels off with you today.						0	2.3版本随机事件
+page1.9	实话实说，你是不是在谋划什么？	實話實說，你是不是在計畫什麼？	何を企んでいるのか、白状しなさい。	사실대로 말해, 나한테 숨기는 거 있지?	Tell me, are you up to something?						0	2.3版本随机事件
+page1.10	没、没有啊，芙提雅老师可不会骗人的！	沒、沒有啊，芙提雅老師可不會騙人的！	な、なんでもないよ。このフリティア先生は嘘をついたりしない！	그, 그럴 리가, 프티야는 거짓말 같은 거 못해!	N—No way! You can trust me!						0	2.3版本随机事件
+page1.11	真的吗？	真的嗎？	本当か？	정말?	Really?						0	2.3版本随机事件
+page1.12	比如在夜跑的时候偷偷穿上驰掣装甲，和我打赌比赛跑……	例如在夜跑的時候偷偷穿上馳掣裝甲，跟我打賭比賽跑……	夜のランニングでこっそりドトウを装備して、どちらが先にゴールに着くかを賭けるとか……	예를 들면 저녁 러닝에 몰래 터보를 입고 나랑 내기를 해서…	So, you're not planning to, say... secretly slip into your Turbo exosuit before our jog, challenge me to a race...						0	2.3版本随机事件
+page1.13	然后毫无压力地跑完一圈，最后还能回来和我炫耀……	然後毫無壓力地跑完一圈，最後還能回來跟我炫耀……	そしてあっという間に一周走って戻り、私に自慢して……	아무렇지 않게 한 바퀴를 뛰고 나서 마지막에 나한테 자랑한 다음…	Then blaze through the lap and come back just to rub it in my face...						0	2.3版本随机事件
+page1.14	最后以打赌获胜为理由让我给你买奶茶，还要背你回公司之类的？	最後以打賭獲勝為理由讓我買奶茶，還要背你回公司之類的？	挙句に、賭けに勝ったからと言って私にミルクティーを奢らせたり、会社までおんぶしてもらったりするつもりか？	마지막에 내기에서 이겼다고 버블티를 사달라 하고, 회사까지 업어달라고 할 건 아니지?	And let me guess — you'd then demand bubble tea as your prize, and probably want me to carry you back, too?						0	2.3版本随机事件
+page1.15	呜呃……！	嗚呃……！	ぐぬぬ……	윽…!	Aghhh...!						0	2.3版本随机事件
+page1.16	这不是完全被猜透了吗……	這不是完全被猜透了嗎……	完全に図星だったようだな……	완전히 다 들켜버렸네…	Looks like I was right on the money...						0	2.3版本随机事件

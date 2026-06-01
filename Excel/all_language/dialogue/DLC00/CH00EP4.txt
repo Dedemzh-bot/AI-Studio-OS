@@ -1,0 +1,88 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	雪停了。一切都结束了。	雪停了。一切都結束了。	雪が止まった。すべてが終わりを迎えた。	눈이 멈췄다. 모든 것이 끝났다.	The snow had stopped. It was over.						0	3.2版本新序章
+2	泰坦的身形崩解，随着渐渐弱下的风消失不见。	泰坦的身形崩解，隨著漸漸弱下的風消失不見。	タイタンの体が消え、徐々に弱まっていく風と共に見えなくなった。	타이탄의 형체가 무너졌고, 점점 약해지는 바람과 함께 사라졌다.	The Titan's form crumbled and was swept away on the dying wind.						0	3.2版本新序章
+3	少女们欢呼着扑了上来。往上看，“树”消失的地方没有云彩。即使是白天，也能看见零落的星光。	少女們歡呼著撲了上來。往上看，「樹」消失的地方沒有雲彩。即使是白天，也能看見零落的星光。	少女たちは歓声をあげて私の周りに集まってきた。見上げると、「デンドロン」がいたところの雲が消え、星の光が見えた。	소녀들이 환호하며 달려왔다. '나무'가 사라진 자리를 올려다보니 구름 한 점 없었다. 대낮인데도 별빛이 희미하게 보였다.	The girls whooped as they threw themselves at me. Overhead, where the Tree's crown had once loomed, not a cloud remained — only scattered stars, faint but visible even in daylight.						0	3.2版本新序章
+4	通讯开始恢复。边境的飞行载具正往这边飞来，通讯终端里也全是队员们的关心和问候。	通訊開始恢復。邊境的飛行載具正往這邊飛來，通訊終端裡也全是隊員們的關心和問候。	通信が回復しはじめ、辺境基地から飛行機が飛んできている。通信端末も隊員たちの声であふれていた。	통신이 복구되기 시작했다. 국경의 비행기가 이쪽으로 날아오고 있고, 통신 단말기엔 대원들의 걱정 어린 안부가 가득했다.	Comms were coming back online. An aircraft was en route from the border, and my terminal lit up with messages from the girls who'd been worried sick.						0	3.2版本新序章
+5	紧绷着的心终于松了下来。往后躺下，被里芙接住了。	緊繃著的心終於放鬆了下來。往後躺下，被里芙接住了。	張りつめていた緊張がようやくほどけ、私はその場に身を任せた。すると、リフがそっと私を支えてくれた。	팽팽하게 긴장되어 있던 마음이 마침내 풀어졌다. 뒤로 누우니 리브가 받아주었다.	The tension in my mind finally lifted. I let myself fall back — Lyfe caught me.						0	3.2版本新序章
+6	达令！达令？！	達令！達令？！	ダーリン！ダーリン！？	달링! 달링?!	Darling! Are you okay!?						0	3.2版本新序章
+7	我没事。	我沒事。	大丈夫。	괜찮아.	I'm fine.						0	3.2版本新序章
+8	就是有点累。	只是有點累。	ちょっと疲れただけだ。	그냥 좀 힘들어서 그래.	Just... tired.						0	3.2版本新序章
+9	一起躺会儿吧？飞机过来还要一会儿呢。	一起躺一下吧？飛機過來還要一點時間呢。	一緒に横にならないか？飛行機が到着するまで時間があるだろう。	잠깐 같이 누워있을까? 비행기가 오려면 시간 좀 걸릴 거야.	Let's lie down for a bit. The plane's still a ways out.						0	3.2版本新序章
+10	啊，你吓死我啦！没事就好……	啊，你嚇死我了！沒事就好……	もう、びっくりさせないでよ！ダーリンにもしものことがあったら……	아, 놀라 죽는 줄 알았잖아! 아무 일 없으면 됐어…	Whew, you scared me half to death!						0	3.2版本新序章
+11	她松了一口气，在我旁边躺下。里芙侧坐着，让我的头可以枕在她的大腿上。	她鬆了一口氣，在我旁邊躺下。里芙側坐著，讓我的頭可以躺在她的大腿上。	ファニーはホッとしたように、私の隣に寝転がった。リフも横に座り、私の頭をふとももに乗せてくれた。	그녀는 안도의 한숨을 내쉬며 내 옆에 누웠다. 리브는 옆으로 앉아 내 머리를 그녀의 무릎에 기대게 했다.	She exhaled, relieved, and lay down beside me. Lyfe sat close, letting my head rest in her lap.						0	3.2版本新序章
+12	安卡希雅则枕着我的肚子，闭上了眼睛。	安卡希雅則枕著我的肚子，閉上了眼睛。	アカシアは私のお腹に頭を乗せて、目を閉じた。	아카시아는 내 배를 기댄 채 눈을 감았다.	Acacia curled up too, closing her eyes with her cheek on my stomach.						0	3.2版本新序章
+13	云层开始闭拢，就像伤口在愈合。	雲層開始閉攏，就像傷口在癒合。	傷口が癒えるように、雲が閉じ始めている。	마치 상처가 아물 듯, 구름이 모여들기 시작했다.	The clouds began to gather again — like a wound slowly stitching shut.						0	3.2版本新序章
+14	什么心思都没有，却感觉到很充实。	什麼想法都沒有，卻感覺到很充實。	頭のなかは真っ白なのに、どこか充実した気持ちでいっぱいだ。	특별한 생각은 없었지만, 충만함을 느꼈다.	My mind was blank, but I felt completely at peace.						0	3.2版本新序章
+15	坐上飞机。透过舷窗，看着下面的大地。	坐上飛機。透過窗，看著下面的大地。	みんなで飛行機に乗ると、私は窓から下の大地を眺めた。	비행기에 올랐다. 창문 너머로 아래 대지를 바라봤다.	We boarded the plane. Through the porthole, I looked at the land below.						0	3.2版本新序章
+16	有些积雪已经化掉了，露出黄绿的底色。有些山上还覆着雪，偶尔能看见一堆一堆的雪往下滑落。	有些積雪已經化掉了，露出黃綠的底色。有些山上還覆蓋著雪，偶爾能看見一堆一堆的雪往下滑落。	溶けた雪の下から、黄緑色の地面が見え、雪に覆われている山のうえから、時々、雪が滑り落ちていく。	쌓인 눈이 일부 녹아 누르스름한 바닥이 드러났다. 산에는 아직 눈이 쌓여있었고, 때때로 미끄러져 내리는 눈덩이가 보였다.	Snow was already melting, uncovering patches of yellow-green earth. Some mountaintops still held their white caps, with slushy runoff slipping down the slopes.						0	3.2版本新序章
+17	哎，看——	欸，看——	ああ！見て――	어, 저기 봐!	Ah, look—!						0	3.2版本新序章
+18	顺着芬妮指着的方向，我看见第一天晚上建筑的临时营地。哨塔似乎是被雪压塌了。这会儿雪化了不少，帐篷却不知道被吹到哪去了。	順著芬妮指著的方向，我看到第一天晚上搭建的臨時營地。哨塔似乎是被雪壓塌了。這時雪化了不少，帳篷卻不知道被吹到哪去了。	ファニーが指差す方向を見ると、初日の夜に建てた臨時キャンプが見えた。見張り台は雪に押しつぶされたようだ。雪が溶けたいま、テントは風に飛ばされて行方不明になっていた。	페니가 가리킨 방향을 보니, 첫날 밤에 지었던 임시 야영지가 보였다. 감시탑은 눈에 눌려 무너진 듯했다. 눈은 많이 녹았지만, 텐트는 어디로 날아갔는지 보이지 않았다.	I followed her gaze and saw the remains of our first camp. The lookout had collapsed under the snow. Most of the drifts had melted, but the tent was gone, surely blown far away.						0	3.2版本新序章
+19	远远地，看见灰突突的隔离带。飞机却没有停下，继续往霍尔姆飞去。	遠遠地，看見灰灰的隔離帶。飛機卻沒有停下，繼續往霍爾姆飛去。	遠くには灰色の隔離帯が見える。しかし飛行機は構わずホルムを目指して飛んでいった。	멀리서 회색빛 격리구역이 보였다. 비행기는 멈추지 않고 홀름을 향해 계속 날았다.	Far off, the gray outline of the Containment Zone came into view. The plane didn't slow — it flew straight on toward Holme.						0	3.2版本新序章
+20	回到基地。换了身衣服，冲了个澡。宿舍的温控系统送来宜人的风，床也松软。紧绷了许久的神经终于能放松下来。	回到基地。換了身衣服，沖了個澡。宿舍的溫控系統送來宜人的風，床也鬆軟。緊繃了許久的神經終於能完全放鬆下來。	寮に戻ると、私は風呂に入ってから着替えた。温度管理システムがちょうどいい温度の風を送ってくれる。私は柔らかいベッドに寝転がり、ようやくリラックスできた。	기지로 돌아와서 옷을 갈아입고 샤워를 했다. 숙소의 온도 조절 시스템에서 나오는 기분 좋은 바람, 폭신한 침대. 오랫동안 긴장했던 신경이 마침내 풀렸다.	After we arrived back at the base, I took a hot shower and changed. The dorm's climate control wrapped the room in soft warmth. The bed was plush. For the first time in days, I could finally let go.						0	3.2版本新序章
+21	止不住地感到乏力。窗台上摆着花儿，向着阳光。	止不住地感到乏力。窗台上擺著花，向著陽光。	すると、眠気が一気に襲い掛かってきた。日差しが窓辺から差し込み、盆栽を照らしている。	피곤함이 가시질 않는다. 창가에 놓인 꽃은 햇빛을 바라보고 있었다.	Exhaustion crept in. Flowers sat on the windowsill, soaking in the sun.						0	3.2版本新序章
+22	连拉上窗帘都懒得伸手，用手臂盖着眼睛，睡着了。	連拉上窗簾都懶得伸手，用手臂蓋著眼睛，睡著了。	カーテンを引く気にもなれず、私は腕で目を隠して、そのまま眠ることにした。	커튼을 치기도 귀찮아서 팔로 눈을 가린 채 잠들었다.	I didn't bother with the curtains — just threw an arm over my eyes and drifted off.						0	3.2版本新序章
+23	朦胧之中，呼吸变得有点紧迫。先是怀里似乎钻进来一个软乎乎的家伙，然后是背后似乎也有了一道均匀的呼吸。	朦朧之中，呼吸變得有點緊迫。先是懷裡好像鑽進來一個軟乎乎的傢伙，然後是背後似乎也有了一道均勻的呼吸。	いつの間にか、何かが私の呼吸を圧迫してきた。懐に柔らかい体が潜り込んできて、しばらくしたら背中からも吐息が聞こえてきた。	몽롱한 가운데 숨이 조금 가빠졌다. 말캉한 무언가가 먼저 내 품을 파고들더니, 등 뒤에서도 고른 숨소리가 들려왔다.	At some point during the hazy sleep, my breath caught — something warm had curled into my arms. Then came another presence, breathing steady at my back.						0	3.2版本新序章
+24	再醒来时，房间已经黑漆漆的了，只有一道黯淡的光线从窗帘缝里洒出来。	再醒來時，房間已經黑漆漆的了，只有一道暗淡的光線從窗簾縫裡灑出來。	目を覚ますと、部屋のなかが暗くなっている。カーテンの隙間から薄暗い光だけが差し込んでいた。	다시 깨어나 보니 방은 캄캄했고, 커튼 틈새로 희미한 빛줄기만이 비치고 있었다.	When I stirred again, the room was dim. A faint slice of light peeked through the curtains.						0	3.2版本新序章
+25	怀里是芬妮。她枕着我的手臂睡得正香。半边身子都压在我的身上，怪不得有点上不来气。	懷裡是芬妮。她枕著我的手臂睡得正香。半邊身體都壓在我的身上，怪不得有點喘不上氣。	腕のなかにファニーがいた。頭を私の腕に預けて、ぐっすりと眠っていた。彼女の体の半分が私に乗っていた。どうりで息苦しかったわけだ。	품 안에는 페니가 있었다. 내 팔을 베고 달콤한 잠에 빠져있었는데, 내 몸 위에 반쯤 올라와 있어서 숨이 좀 막혔던 것이었다.	Fenny lay curled against me, her head on my arm, half her body draped across mine — no wonder I'd been a bit short of breath.						0	3.2版本新序章
+26	看了看表，睡得有些久了。我低下头，抵着她的额头。	看了一下錶，睡得有點久了。我低下頭，抵著她的額頭。	時計を見ると、ずいぶんと長いこと寝ていたようだ。私は顎を彼女の額に置いた。	시계를 보니 꽤 오래 잤다. 나는 고개를 숙여 그녀의 이마에 머리를 댔다.	I checked the time. I'd slept longer than I thought. Lowering my head, I brushed my forehead gently against hers.						0	3.2版本新序章
+27	唔……	嗯……	ん……	으음…	Nngh...						0	3.2版本新序章
+28	呼吸交错，她也慢慢醒了过来。	呼吸交錯，她也慢慢醒了過來。	息が交差する距離になり、彼女も徐々に目を覚ました。	숨결이 엇갈리며, 그녀도 천천히 깨어났다.	Our breaths mingled. Slowly, she stirred awake.						0	3.2版本新序章
+29	怎么上我这儿来了？	怎麼來我這裡了？	なんでここにいるんだ？	왜 나한테 왔어?	How'd you end up in my bed?						0	3.2版本新序章
+30	想找你，看你睡着了还没拉窗帘。	想找你，看你睡著了還沒拉窗簾。	探してたの。来てみたら、カーテンを開けたまま寝てたってわけ。	찾으러 왔지. 커튼도 안 치고 자고 있더라.	I came looking for you and saw you were asleep with the curtains still open.						0	3.2版本新序章
+31	帮你拉上之后……也困了。	幫你拉上之後……也睏了。	カーテンを閉じてあげたら……あたしまで眠くなっちゃって。	그래서 대신 쳐줬는데… 나도 졸리더라고.	So I closed them for you... and got cozy myself.						0	3.2版本新序章
+32	她哼哼着，扬起腿，压在我的身上。	她哼哼著，揚起腿，壓在我的身上。	彼女は鼻息を荒げながら、全身を使って私に覆いかぶさってきた。	그녀가 콧소리를 내며 다리를 들어 내 위에 올렸다.	She let out a drowsy hum and slung a leg over me.						0	3.2版本新序章
+33	总这么睡觉，把我当抱枕一样抱着。	總是這樣睡覺，把我當抱枕一樣抱著。	いつもこうやって私を抱き枕代わりにしてるんだな。	항상 나를 이렇게 베개처럼 안고 자네?	You always do this — treating me like a body pillow.						0	3.2版本新序章
+34	不喜欢吗？	不喜歡嗎？	いやなの？	싫어?	You don't like it?						0	3.2版本新序章
+35	喜欢。	喜歡。	むしろ好きだよ。	좋아.	I do.						0	3.2版本新序章
+36	哼~	哼~	ふふ～ん。	흥~	Hmph~						0	3.2版本新序章
+37	是不是该去吃饭了——	是不是該去吃飯了——	そろそろ食事にいこうか――	이제 밥 먹으러 가야지.	We should probably get up and grab dinner—						0	3.2版本新序章
+38	我翻了个身——	我翻了個身——	そう言いながら寝返り打つと――	그렇게 말하며 몸을 돌리자…	I rolled over.						0	3.2版本新序章
+39	呃啊——	呃啊——	うっ……	으악…	Arg—!						0	3.2版本新序章
+40	背后还躺着个人，刚好压到了。我和芬妮都吓了一跳。	背後還躺著個人，剛好壓到了。我和芬妮都嚇了一跳。	その動きで後ろで寝ている人に寄りかかってしまった。私もファニーも驚いてしまった。	뒤에 누워있는 누군가를 실수로 눌러버렸다. 나랑 페니 둘 다 깜짝 놀랐다.	Someone was behind me — I'd rolled right on top of her. Fenny and I both jolted.						0	3.2版本新序章
+41	安卡希雅？又是你！什么时候来的！	安卡希雅？又是你！什麼時候來的！	アカシア？またなの！？いつ来たのよ！	아카시아? 또 너야?! 언제 왔어?!	Acacia!? Again!? When did you sneak in!?						0	3.2版本新序章
+42	压坏了没？	壓壞了沒？	大丈夫か？	눌려서 다치진 않았어?	You okay? Didn't squish you, did I?						0	3.2版本新序章
+43	哎，还好……	欸，還好……	うん……	아, 괜찮아…	Ugh, I'm fine... I think...						0	3.2版本新序章
+44	芬妮从我胸口抬起头，虎视眈眈地看着安卡希雅。后者则缩起头来装听不见。	芬妮從我胸口抬起頭，虎視眈眈地看著安卡希雅。後者則縮起頭來裝聽不見。	ファニーは私の上から顔をあげて、アカシアを睨んだ。一方アカシアは、顔を逸らしてファニーを見ないようにした。	페니가 내 가슴팍에서 고개를 들고는 아카시아를 노려봤다. 아카시아는 고개를 움츠리며 못 들은 척했다.	Fenny propped herself up, shooting a glare at Acacia — who just ducked her head and played dead.						0	3.2版本新序章
+45	敲门声忽然响了起来。门开了一条缝，里芙的声音传了进来——	敲門聲忽然響了起來。門開了一條縫，里芙的聲音傳了進來——	そのとき、誰かが扉をノックした。扉が小さく開いて、その隙間からリフの声がした。	갑자기 노크 소리가 들렸다. 문이 살짝 열렸고, 리브의 목소리가 들려왔다.	A sudden knock came from the door. It creaked open a sliver, and Lyfe's voice drifted in.						0	3.2版本新序章
+46	晚饭准备好了。你们三个，醒了就来吃。	晚飯準備好了。你們三個，醒了就來吃。	晩ご飯の用意ができた。起きたら食堂に来てくれ。	저녁 준비됐어. 셋 다 일어났으면 먹으러 와.	Dinner's ready. You three, come eat if you're up.						0	3.2版本新序章
+47	三个人你看看我，我看看你。气氛有种恰到好处的尴尬。于是穿上衣服，一同往餐厅去了。	三個人你看我，我看你。氣氛有種恰到好處的尷尬。於是穿上衣服，一起往餐廳去了。	私たち三人は顔を見合わせると、どこか気まずくなり、着替えてから食堂に行った。	세 사람은 서로를 멀뚱멀뚱 쳐다봤고, 분위기가 조금 어색해졌다. 우리는 옷을 입고 함께 식당으로 향했다.	The three of us exchanged glances — a quiet awkwardness in the air. We got dressed and made our way to the canteen.						0	3.2版本新序章
+48	不知是有意还是无意，今晚恰好所有队员都回到了基地。	不知是有意還是無意，今晚剛好所有隊員都回到了基地。	なぜかは知らないが、今夜は全隊員が寮に留まっているようだ。	의도적이었는지 우연이었는지, 오늘 밤은 마침 모든 팀원이 숙소로 돌아왔다.	Whether by luck or design, every operative was back at the base tonight.						0	3.2版本新序章
+49	算是庆祝，也算是团聚。没有蛋糕和葡萄汁，但却有一句句关心和思念。	算是慶祝，也算是團聚。沒有蛋糕和葡萄汁，但卻有一句句關心和思念。	お祝いを兼ねて、久しぶりに一堂に会することになった。ケーキと飲み物こそないが、隊員たちが掛けてくれる言葉には暖かい気持ちが込められていた。	모두가 함께 축하하려 한자리에 모였다. 케이크와 포도주스는 없었지만, 서로를 향한 따뜻한 마음이 오갔다.	A little celebration, a little reunion. No cake or champagne, just plenty of heartfelt welcome-homes.						0	3.2版本新序章
+50	饭吃得差不多的时候，余光看见情报官卡罗琳走了过来。	飯吃得差不多的時候，餘光看見情報官卡羅琳走了過來。	そろそろ食べ終わるとき、遠くから情報官のカロリンが近寄ってくるのが見えた。	식사가 거의 끝나갈 무렵, 우리를 향해 다가오는 정보관 캐롤린이 얼핏 보였다.	As dinner wound down, I noticed Intelligence Officer Caroline approaching from the corner of my eye.						0	3.2版本新序章
+51	怎么了？	怎麼了？	どうかしたのか？	무슨 일이야?	Something up?						0	3.2版本新序章
+52	老板找你。	老闆找你。	ボスが探してましたよ。	대표님이 찾으세요.	The boss wants to see you.						0	3.2版本新序章
+53	知道了，我现在就过去。	知道了，我現在就過去。	わかった、いま行く。	알았어, 지금 가볼게.	Got it. I'll head over now.						0	3.2版本新序章
+54	站起身，却突然被她拉住了手。	站起身，卻突然被她拉住了手。	そう言いながら立ち上がると、彼女は私の腕を引いた。	몸을 일으키려는데, 그녀가 내 손을 덥석 잡았다.	I stood — only for her to catch my hand.						0	3.2版本新序章
+55	哎——	欸——	ん……	엇…	Hey...						0	3.2版本新序章
+56	还有事吗？	還有事嗎？	どうした？	또 무슨 일 있어?	Is there something else?						0	3.2版本新序章
+57	唔……	嗯……	その……	으음…	Uh...						0	3.2版本新序章
+58	欢迎回家。	歡迎回家。	おかえりなさい。	집에 돌아온 걸 환영해요.	Welcome home.						0	3.2版本新序章
+59	我笑了笑。她张开手，红着脸，给了我一个拥抱。	我笑了笑。她張開手，紅著臉，給了我一個擁抱。	私が小さく微笑むと、彼女は頬を赤らめて、私を抱きしめた。	나는 미소 지었다. 그녀는 팔을 벌리고, 얼굴을 붉히며 나를 안아주었다.	I smiled. She stepped forward, cheeks flushed, and pulled me into a hug.						0	3.2版本新序章
+60	办公室里，我坐在陶的对面，她正皱着眉头，看着这次的任务报告。	辦公室裡，我坐在τ的對面，她正皺著眉頭在看這次的任務報告。	τ（タウ）のオフィスで、私はτの前に座っていた。彼女は眉をひそめて、私の任務報告を読んでいる。	사무실에서 나는 τ의 맞은편에 앉아 있었고, 그녀는 미간을 찌푸린 채 이번 미션 보고서를 보고 있었다.	In τ's office, I sat across from her as she frowned over the mission report.						0	3.2版本新序章
+61	是我的疏忽。朔州的“树”比想象中要更强大、更特殊。	是我的疏忽。朔州的「樹」比想像中還更強大、更特殊。	私の落ち度でした。朔州の「デンドロン」は予想より強く、特殊な個体だったようですね。	내 부주의였어. 삭주의 '나무'는 생각보다 더 강력하고, 더 특별하더군.	I underestimated it. The Tree in Shuozhou was stronger than we expected, and more anomalous.						0	3.2版本新序章
+62	现在看来，这次行动还是过于冒险了。	現在看來，這次行動還是過於冒險了。	いま思えば、リスクがかなり高い任務でしたね。	지금 와서 보니, 이번 작전은 너무 무모했던 것 같아.	In hindsight, this operation was a bigger gamble than it should've been.						0	3.2版本新序章
+63	谁也没办法未卜先知。我们已经做了足够多的前期铺垫，发生这种意外也是没办法的事。	誰也沒辦法未卜先知。我們已經做了夠多的前期鋪墊，發生這種意外也是沒辦法的事。	あんなのは誰も予想できないよ。それに、できるだけ準備したんだ、こんなことになっても仕方がない。	미래를 예측할 순 없죠. 우린 충분한 사전 준비를 했고, 이런 사고는 막을 수 없는 거예요.	No one can see the future. We had laid solid groundwork for the operation. What happened was out of our hands.						0	3.2版本新序章
+64	总之——辛苦了。	總之——辛苦了。	……ひとまず、お疲れさまでした。	아무튼, 수고했어.	Regardless — you did well. Thank you for your hard work.						0	3.2版本新序章
+65	那边都在等你呢，去好好休息一晚上。别让她们等太久。	那邊都在等你呢，去好好休息一晚上。別讓她們等太久。	隊員たちが待っているでしょう。ゆっくり休んでください。待たせてしまうと、彼女たちに悪いですし。	다들 널 기다리고 있으니, 오늘 밤은 푹 쉬어. 오래 기다리게 하지 말고.	They're all expecting you. Go have some rest tonight. Don't keep them too long.						0	3.2版本新序章
+66	我还有件事。	我還有件事。	聞きたいことがあるんだが。	할 말이 하나 더 있어요.	There's one more thing.						0	3.2版本新序章
+67	你说。	你說。	なんでしょう。	말해봐.	I'm listening.						0	3.2版本新序章
+68	触摸“树”的时候……我看见了过去的事情。	觸摸「樹」的時候……我看到了過去的事情。	「デンドロン」に触れたとき、昔の光景が見えたんだ。	 '나무'에 손을 댔을 때… 과거가 보였어요.	When I touched the Tree... I saw fragments of the past.						0	3.2版本新序章
+69	舍塔。派。第五研究所。	θ、π、第五研究所。	θ（シータ）。π（パイ）。第5研究所。	θ. π. 제5연구소.	θ. π. The Fifth Research Institute.						0	3.2版本新序章
+70	埃达。海拉。尤弥尔。	埃達、海拉、尤彌爾。	エッダ。ヒーラ。ユミル。	에다. 헬라. 이미르.	Edda. Hela. Ymir.						0	3.2版本新序章
+71	甚至有一些……好像缺失、遗忘过的记忆。	甚至有一些……好像缺失、遺忘過的記憶。	それから……忘れ去られたような記憶も。	심지어 어떤… 잃어버린 듯한, 잊힌 기억도 있었고요.	Even shards of memories that felt... missing. Forgotten.						0	3.2版本新序章
+72	……比如呢？	……比如呢？	……たとえば？	… 예를 들면?	...Memories of what?						0	3.2版本新序章
+73	陶的眼睛好像眯了一下，坐姿也正了起来。语调却好像很轻松平常。	τ的眼睛好像瞇了一下，坐姿也端正了起來。語調卻好像很輕鬆平常。	τは目を細めて、姿勢を正した。なのに、いつも通りのトーンで話していた。	τ가 눈을 가늘게 뜨며 자세를 고쳐 앉았다. 반면 말투는 여전히 편안하고 담담했다.	τ's eyes narrowed slightly. She sat up straighter, though her voice stayed casual.						0	3.2版本新序章
+74	槲寄生空间站。	槲寄生太空站。	ヤドリギ宇宙ステーション。	미스틸테인 우주정거장.	Mistilteinn Station.						0	3.2版本新序章
+75	——还有你。	——還有你。	――それから、あなただ。	… 그리고 당신이요.	...And you.						0	3.2版本新序章
+76	……我？	……我？	……私？	… 나?	...Me?						0	3.2版本新序章
+77	嗯。	嗯。	ああ。	네.	Yes.						0	3.2版本新序章
+78	那些画面怎么也记不住，只能记得看见那些画面时的想法。	那些畫面怎麼也記不住，只能記得看到那些畫面時的想法。	だが、どんな光景だったかは思い出せない。見たときの感想しか覚えていないんだ。	그 장면들은 아무리 해도 기억나지 않고, 단지 그 장면들을 봤을 때의 느낌만 기억나요.	I can't recall the images — only the feelings they left behind.						0	3.2版本新序章
+79	——必须忘记的事，和不能忘记的人。	——必須忘記的事，和不能忘記的人。	――忘れなければいけないことと、忘れてはいけない人物。	반드시 잊어야 할 일, 그리고 잊을 수 없는 사람 말이에요.	I just knew: those were things meant to be forgotten... and people I had to remember.						0	3.2版本新序章
+80	……我知道了。	……我知道了。	……わかりました。	… 알겠어.	...I see.						0	3.2版本新序章
+81	你知道什么吧？不能告诉我吗？	你知道什麼吧？不能告訴我嗎？	何か知らないか？私には教えられないのか？	뭔가 알고 있죠? 말해주면 안 돼요?	You know something, don't you? Won't you tell me?						0	3.2版本新序章
+82	我答应过你的，playername。这是我们的约定。	我答應過你的，playername。這是我們的約定。	playername。あなたと約束したはずです。教えない、という約束です。	약속했잖아, 분석가. 이건 우리 둘만의 약속이야.	I made you a promise, playername. A promise not to tell you.						0	3.2版本新序章
+83	继续往前走吧。	繼續往前走吧。	進み続けてください。	계속 앞으로 나아가렴.	Just keep moving forward.						0	3.2版本新序章
+84	那是过去……也是未来。	那是過去……也是未來。	それは過去であり……未来でもあります。	그건 과거이자… 미래일 거야.	What you saw... it's the past — and the future.						0	3.2版本新序章
+85	你的未来。海姆达尔的未来。以及……	你的未來。海姆達爾的未來。以及……	あなたの、ヘイムダルの、そして……	너의 미래. 헤임달의 미래. 그리고…	Your future. Heimdall's future. And...						0	3.2版本新序章
+86	这个世界的未来。	這個世界的未來。	この世界の未来、ですから。	이 세계의 미래.	This world's.						0	3.2版本新序章

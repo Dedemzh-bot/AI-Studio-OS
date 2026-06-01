@@ -1,0 +1,22 @@
+﻿索引ID	剧情Key	字幕Type(1.大标题,2.副标题,3.普通)	文本Key	向下间隔	字号大小	Wwise事件名
+ID	PlotKey	ItemType	TxtKey	Padding	FontSize	WwiseEventKey
+1	SP3ST2	1	{"plot_cast.text1006"}	80	{40}	
+2	SP3ST2	1	{"plot_cast.text1001"}	30	{30}	
+3	SP3ST2	2	{"plot_cast.Thanks1001"}	20	{30}	
+4	SP3ST2	2	{"plot_cast.text1002"}	20	{30}	
+5	SP3ST2	3	{"plot_cast.Name2001", "plot_cast.PlotTxt1001","plot_cast.Name2004"}	10	{20,20,20}	
+6	SP3ST2	3	{"plot_cast.Name2003", "plot_cast.PlotTxt1001","plot_cast.Name2006"}	10	{20,20,20}	
+7	SP3ST2	3	{"plot_cast.Name2002", "plot_cast.PlotTxt1001","plot_cast.Name2005"}	10	{20,20,20}	
+8	SP3ST2	3	{"plot_cast.Name2008", "plot_cast.PlotTxt1001","plot_cast.Name2009"}	10	{20,20,20}	
+9	SP3ST2	3	{"plot_cast.Name2015", "plot_cast.PlotTxt1001","plot_cast.Name2010"}	10	{20,20,20}	
+10	SP3ST2	3	{"plot_cast.Name2012", "plot_cast.PlotTxt1001","plot_cast.Name2011"}	40	{20,20,20}	
+11	SP3ST2	3	{"plot_cast.Name2013", "plot_cast.PlotTxt1001","plot_cast.Name2014"}	80	{20,20,20}	
+12	SP3ST2	1	{"plot_cast.text1003"}	10	{30}	
+13	SP3ST2	2	{"plot_cast.Thanks1004"}	80	{20}	
+14	SP3ST2	1	{"plot_cast.text1004"}	10	{30}	
+15	SP3ST2	2	{"plot_cast.Thanks1004"}	80	{20}	
+16	SP3ST2	1	{"plot_cast.text1005"}	10	{30}	
+17	SP3ST2	2	{"plot_cast.Thanks1005"}	80	{20}	
+18	SP3ST2	1	{"plot_cast.text1007"}	10	{30}	
+19	SP3ST2	2	{"plot_cast.Thanks1003"}	200	{20}	
+20	SP3ST2	1	{"plot_cast.Thanks1002"}	200	{40}	

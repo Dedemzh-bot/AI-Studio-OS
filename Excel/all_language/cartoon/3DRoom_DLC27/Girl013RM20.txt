@@ -1,0 +1,20 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	站在房间门口的瑟瑞斯好像用力捏着什么，等我走近时，咔嚓咔嚓的破裂声传入耳中。	站在房間門口的瑟瑞斯好像用力在捏著什麼，等我走近時，咔嚓咔嚓的破裂聲傳入耳中。	ドアのそばにシーリスが立ち、何かを強く握っている。近づくと、バキリと割れる音が聞こえてきた。	방문 앞에 선 세리스는 무언가를 힘껏 쥐고 있었다. 내가 다가가자 빠그라지는 소리가 귓가에 들려왔다.	Siris is standing by the door, clutching something in her hand. As I approach, the crisp sound of cracking echoes through the air.						0	2.7版本随机事件
+page1.2	瑟瑞斯，在干什么？	瑟瑞斯，在幹嘛？	シーリス、何してるんだ？	세리스, 뭐 하는 거야?	Siris, what are you doing?						0	2.7版本随机事件
+page1.3	分析员~我刚刚捏碎了两枚核桃，要来一点吗？	分析員~我剛剛捏碎了兩個核桃，要來一點嗎？	分析員、今クルミ2つ割ったんだけど、食べる？	분석가님, 방금 호두를 두 알 깼는데 조금 드시겠어요?	Adjutant! I just cracked two walnuts, would you like some?						0	2.7版本随机事件
+page1.4	怎么突然喜欢上吃核桃了？	怎麼突然喜歡吃核桃了？	どうしてクルミを？	갑자기 호두를 좋아하게 된 거야?	How did you develop a taste for walnuts?						0	2.7版本随机事件
+page1.5	因为，我听说核桃对恢复记忆力有些帮助。	因為，我聽說核桃對恢復記憶力有幫助。	記憶力の回復にいいって聞いたから。	왜냐면… 호두가 기억력 회복에 도움이 된다고 들었거든요.	Because... I heard walnuts help with memory recovery.						0	2.7版本随机事件
+page1.6	原来是这样。	原來是這樣。	なるほどね。	아, 그렇구나.	Oh, I see.						0	2.7版本随机事件
+page1.7	我接过瑟瑞斯手上的核桃，细细咀嚼，感受着油脂中蕴含的橡木风味。	我接過瑟瑞斯手上的核桃，細細咀嚼，感受油脂中蘊含的橡木風味。	シーリスから受け取ったクルミをゆっくりと噛みしめながら、オイルに混じった木の風味を味わう。	나는 세리스 손에 있던 호두를 받아 입 안에 넣고 꼭꼭 씹었다.	I take the walnuts from Siris and chew carefully, savoring their rich, woody flavor.						0	2.7版本随机事件
+page1.8	核桃虽然好吃，但可惜填不饱肚子。瑟瑞斯，要不要一起去餐厅吃晚饭？	核桃雖然好吃，但可惜填不飽肚子。瑟瑞斯，要不要一起去餐廳吃晚餐？	美味しいけど、お腹は膨れないな。シーリス、一緒に食堂で夕飯でもどう？	맛있긴 한데 배를 채우기에는 좀 부족한 것 같네… 세리스, 저녁이나 같이 먹으러 갈까?	Walnuts are tasty, but they won't fill you up. Would you like to join me for dinner at the canteen, Siris?						0	2.7版本随机事件
+page1.9	抱歉分析员，虽然没吃晚饭，但我觉得肚子好饱，暂时吃不下别的……	抱歉分析員，雖然沒吃晚餐，但我覺得肚子好飽，暫時吃不下別的……	ごめんね、分析員。夕飯はまだ食べてないけど、なんだかもうお腹いっぱいで……	죄송해요, 분석가님. 저녁을 안 먹었는데도 왠지 배가 너무 불러서… 지금은 더 이상 못 먹을 것 같아요.	Sorry, Adjutant. I haven't had dinner yet, but I feel oddly full. I can't stomach another bite for now...						0	2.7版本随机事件
+page1.10	而且，我记得我是打算去后勤部一趟……	而且，我記得我打算去後勤部一趟……	それに、私は後方支援科に行こうとしてたはず……	게다가 지원부에 좀 다녀오려고 해서요…	Besides, I was planning to stop by the Logistics Department...						0	2.7版本随机事件
+page1.11	去后勤部做什么？	去後勤部做什麼？	後方支援科に？何しに行くんだ？	지원부는 왜?	What for?						0	2.7版本随机事件
+page1.12	唔……明明买了一大袋核桃，但现在只剩几个了。	嗯……明明買了一大袋核桃，但現在只剩幾個了。	えっと……大袋で買ったクルミが、もう少ししか残ってないの。	분명 호두를 한 봉지나 샀는데, 어느새 몇 개밖에 안 남은 것 같아서요.	Well... I bought a big bag of walnuts, but there's only a handful left.						0	2.7版本随机事件
+page1.13	我怀疑房间里有老鼠，偷走了我的核桃！	我懷疑房間裡有老鼠，偷了我的核桃！	多分部屋にネズミがいて、クルミを盗んでるんだと思う！	제 방에 쥐가 있는 게 분명해요! 분명 쥐가 호두를 훔쳐 간 거예요!	I suspect a rodent infestation in my quarters, stealing all my walnuts!						0	2.7版本随机事件
+page1.14	宿舍是不会有老鼠这种生物的，我倒觉得是……	宿舍是不會有老鼠這種生物的，我反而覺得是……	社員寮にネズミなんていないよ、というか……	숙소에 쥐가 있을 리가 없잖아. 내 생각엔…	There aren't any mice in the dorms. More likely...						0	2.7版本随机事件
+page1.15	是什么？	是什麼？	何？	분석가님 생각엔?	What?						0	2.7版本随机事件
+page1.16	是有小金鱼记不起自己已经吃过核桃这件事……	是有小金魚不記得自己已經吃過核桃這件事……	グッピーがクルミを食べたのを忘れてるだけじゃ……	그냥 세리스가 호두를 먹었다는 걸 까먹은 모양인걸…?	...a certain "Goldfish" forgot she'd eaten those walnuts already...						0	2.7版本随机事件
+page1.17	一颗接一颗，吃得肚子都圆滚滚了哦。	一顆接著一顆，吃得肚子都圓滾滾了哦。	知らないうちにお腹パンパンになるまで食べてたりして。	하나둘씩 배가 터지도록 먹어놓고선…	One after another, until her belly got full and round.						0	2.7版本随机事件
+page1.18	啊呜！原来是这样……	啊嗚！原來是這樣……	あうっ！そういうことだったんだ……	아앗! 그런 거였나요…	Ah! What a sad truth...						0	2.7版本随机事件

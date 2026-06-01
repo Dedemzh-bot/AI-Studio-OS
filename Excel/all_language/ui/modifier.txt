@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+poisioning	中毒	中毒	毒	중독	Poisoned						0	
+bleeding	流血	流血	出血	출혈	Bleeding						0	
+burning	燃烧	燃燒	燃焼	화상	Burning						0	
+frozen	冻结	凍結	凍結	동결	Frozen						0	
+palsy	麻痹	麻痺	麻痺	마비	Paralyzed						0	
+stunning	眩晕	眩暈	気絶	기절	Stunned						0	
+attackdown	攻击减弱	攻擊減弱	攻撃ダウン	공격력 감소	Attack Reduction						0	
+attackup	攻击加强	攻擊加強	攻撃アップ	공격력 증가	Attack Boost						0	
+disarm	缴械	繳械	武装解除	무장 해제	Disarmed						0	
+healdown	治疗减弱	治療減弱	治療効果ダウン	치유 효과 감소	Recovery Reduction						0	
+healon	治疗加强	治療加強	治療効果アップ	치유 효과 증가	Recovery Boost						0	
+silence	沉默	沉默	沈黙	침묵	Silenced						0	
+speeddown	迟缓	遲緩	減速	슬로우	Slow						0	
+speedup	提速	提速	加速	스피드 증가	Haste						0	
+healSelf	治愈	治癒	自然回復	힐링	Healing						0	
+shocking	震荡	震盪	振動	쇼크	Shocked						0	
+vulnerable	易伤	易傷	脆弱	취약	Vulnerable						0	
+superarmor	霸体	霸體	鉄壁	슈퍼아머	Iron Body						0	
+godstate	无敌	無敵	無敵	무적	Invulnerable						0	
+defensedown	防御减弱	防禦減弱	防御ダウン	방어력 감소	Defense Reduction						0	
+energyrecover	充能	充能	チャージ	충전	Recharging						0	
+immune	免疫控制	免疫控制	拘束無効	CC기 면역	Immune to Control						0	
+bounce	跳弹	跳彈	跳弾	도탄	Ricochet						0	
+destroy	破坏	破壞	破壊	파괴	Destroy						0	

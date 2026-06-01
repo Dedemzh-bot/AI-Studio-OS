@@ -1,0 +1,82 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	终于到了测试展示当天，我与换好战术套装的芬妮会合。不得不说，这套战术套装与芬妮的身形完美贴合，别出心裁的设计衬托得芬妮愈发耀眼。	終於到了測試展示當天，我與換好戰術套裝的芬妮會合。不得不說，這套戰術套裝與芬妮的身形完美貼合，別出心裁的設計將芬妮襯托得越發耀眼。	いよいよテストの当日、私は戦術装備に着替えたファニーと合流した。戦術装備はファニーの体にぴったりで、凝ったデザインもファニーを一層輝かせていると言わざるを得ない。	테스트 당일, 전술 슈트로 갈아입은 페니와 다시 합류를 했다. 전술 슈트는 페니에게 딱 맞았고, 특수 제작이라 그런지 더욱 멋있어 보였다.	The test day finally arrived, and I met Fenny in her tactical gear. I had to say, it was a perfect fit. The meticulous design really made her shine.						0	
+2	期待得睡不着吗？分析员？	期待得睡不著嗎？分析員？	ワクワクして眠れなかったの？分析員。	너무 기대해서 잠도 못 잔 거 아니야?	Too excited to sleep last night, huh, Adjutant?						0	
+3	芬妮指了指我的黑眼圈，夸张地笑出声来。	芬妮指了指我的黑眼圈，誇張地笑出聲來。	ファニーは私のクマを指差して、大袈裟に笑った。	페니는 나의 짙은 다크서클을 보며 한바탕 폭소했다.	Fenny pointed at the dark circles under my eyes, laughing loudly and a little forcefully.						0	
+b-1											0	
+4	只是没睡好而已。	只是沒睡好而已。	……ただの寝不足だ。	그냥 잠이 안 온 것뿐이야…	I just didn't sleep too well.						0	
+5	这几天都在熬夜查看模拟战斗相关的资料，数据相当繁多，所以一直睡眠不足。	這幾天都在熬夜查看模擬戰鬥相關的資料，數據相當繁多，所以一直睡眠不足。	ここ数日は徹夜して模擬戦闘に関する資料を見ていた。データの量が多くて、あまり眠れなかった。	사실은 며칠 동안 밤을 새워 모의 전투 관련 자료를 찾아봤고, 방대한 데이터로 인해 잠을 제대로 잘 수 없었다.	I'd been staying up late looking up all sorts of simulation combat material. There'd been so much to read that I hadn't found enough time to sleep.						0	
+6	许久没跟我一起作战了嘛，略微激动一点也是正常的。	許久沒跟我一起作戰了嘛，略微激動一點也是正常的。	あたしと協同作戦するのも久しぶりだし、ワクワクするのも当然ね。	하긴 나랑 작전을 같이 안 한 지 오래되긴 했지? 이 순간이 감격스럽긴 할 거야.	It's been some time since we last fought together, huh? I guess it's natural you'd be a little excited.						0	
+7	不过，你可要遵守约定，不许插手哦。	不過，你可要遵守約定，不許插手哦。	でも、約束は守ってね。あたしの戦いには手を出さないで。	하지만 약속은 지켜줘. 절대 끼어들지 마.	But you have to honor our agreement and not interfere.						0	
+b-2											0	
+8	嗯，我会遵守。	嗯，我會遵守。	うん、約束は守る。	그래! 약속할게!	Yeah, I know.						0	
+9	芬妮眨眨眼睛，准时打开了终端。	芬妮眨眨眼睛，準時打開了終端。	ファニーはパチパチ瞬きして、時間通りに端末を開いた。	페니는 눈을 몇 번 깜빡이더니 단말기로 시간을 맞춰서 작동시켰다.	Fenny blinked to open her terminal.						0	
+10	那么分析员，我们这就——出发！	那麼分析員，我們這就——出發！	じゃあ分析員、出発よ！	그럼 분석가, 이제 출발해 볼까?!	Well then, Adjutant... It's time to head off!						0	
+11	这个场景是……以前在瓦尔基里游戏的直播里似乎看见过。	這個場景是……以前在瓦爾基里遊戲的直播裡似乎看見過。	このシーンは……以前ヴァルキリーゲームの配信で見たことがある。	이 풍경은… 예전에 발키리 게임 방송에서 본 적이 있었다.	The terrain... I seemed to have seen it in a Valkyrie Games livestream in the past.						0	
+12	我看着眼前由无数巨大方块组成的迷宫，只感觉自己的手臂上冒起了鸡皮疙瘩。	我看著眼前由無數巨大方塊組成的迷宮，只感覺自己的手臂上冒起了雞皮疙瘩。	無数の巨大なブロックで組み立てられた迷宮を見て、腕に鳥肌が立つのを感じた。	눈앞에 거대한 사각형의 미로가 수없이 펼쳐져 있었고 나는 놀라움을 금치 못했다.	As I witnessed the countless enormous giant cubes before me, forming a labyrinth, the only feeling I had was goosebumps on my arms.						0	
+13	我偷偷瞟了一眼芬妮，此时的她格外认真，以至于有一点……严肃。	我偷偷瞄了一眼芬妮，此時的她格外認真，以至於有一點……嚴肅。	私はチラッとファニーを見た、彼女はとても真剣で、少し……ピリピリしている。	페니의 반응이 궁금해 곁눈질로 슬쩍 쳐다봤는데, 진지하다 못해 엄숙해 보일 정도였다.	I took a peek at Fenny. She looked unusually serious, even a little... harsh.						0	
+14	没想到是这个场景，真是久违了呢。	沒想到是這個場景，真是久違了呢。	まさかこのシーンだなんて……久しぶりだわ。	이곳이 또다시 나올 줄을 몰랐는데… 정말 오랜만이군.	I didn't think it'd be this terrain. It's been a while indeed.						0	
+15	本场规则已发至选手终端，请查阅。	本場規則已發至選手終端，請查閱。	今回のルールを選手の端末に送信しました、チェックしてください。	게임 룰은 단말기로 전송했으니 확인 바랍니다.	The ground rules have been sent to your terminals. Please read through them.						0	
+16	我和芬妮都查看起了各自的终端。	我和芬妮都查看起了各自的終端。	私とファニーは自分の端末を見た。	나와 페니는 각자의 단말기를 확인했다.	Fenny and I opened our terminals.						0	
+17	什么？怎么会！？	什麼？怎麼會！？	え？嘘！？	… 뭐야? 어떻게 된 거야?!	What? This can't be...						0	
+18	芬妮这个反应很正常，我也差不多。不知道为什么，规则里明确写道：需要在规定时间内，操作位于场地两端的机关。也就是说……	芬妮這個反應很正常，我也差不多。不知道為什麼，規則裡明確寫道：需要在規定時間內，操作位於場地兩端的機關。也就是說……	ファニーの反応は私にも理解できる。なぜなら、ルールには「フィールド両側の装置を時間内に操作する」と書いてある。つまり……	페니와 나의 반응은 동일했다. 그럴 수밖에 없었던 게 규정 시간 안에 필드 양측의 장치를 작동해야 한다고 적혀있었기 때문이다. 다시 말해서…	I was equally shocked. For some reason, the rules said the devices at both ends of the field needed to be operated within a set time. Which meant...						0	
+19	系统把分析员也判定为测试对象了吗。	系統把分析員也判定為測試對象了嗎。	システムは分析員も人数に数えてるの？	시스템이 분석가를 테스트 대상으로 선별한 거야.	The system marked the Adjutant as someone doing testing, too.						0	
+b-3											0	
+20	现在叫停，重新调整规则吧。	現在叫停，重新調整規則吧。	すぐ止めさせて、ルールを調整しよう。	그럼 다시 멈추고 테스트 룰을 조정하자.	Let's cancel it now and reset the rules.						0	
+b-4											0	
+21	这样的规则下，我会影响你的测试数据。	這樣的規則下，我會影響你的測試數據。	こんなルールでは、君のテストデータに影響する。	이런 룰이라면, 내가 네 테스트 수치에 영향을 미치게 될 거야.	If that's the case, I'd influence your test data.						0	
+22	不行，从我启动终端的时候，就已经开始同步直播了。	不行，從我啟動終端的時候，就已經開始同步直播了。	ダメよ、あたしが端末を起動した時から、中継されているわ。	그건 안 돼. 단말기를 작동할 때부터 생방송은 이미 시작됐거든.	No can do. I started syncing the livestream the moment I activated my terminal.						0	
+23	本小姐的演出，可不能中断啊。	本小姐的演出，可不能中斷啊。	あたしのパフォーマンスを中断するなんて有り得ない。	페니의 무대 연출을 도중에 중단시킬 수는 없어.	This girl's performance isn't getting canceled anytime soon.						0	
+b-5											0	
+24	比起测试数据，更在意直播吗……	比起測試數據，更在意直播嗎……	テストデータよりも生放送の方が気になるのか……	테스트 수치보다 라이브 방송이 더 신경 쓰이는 건가…	Do you care more about that livestream than the test data...?						0	
+25	分析员你放心，我会一个人完成两边机关的操作，你只需要跟紧我就行。	分析員你放心，我會一個人完成兩邊機關的操作，你只需要跟緊我就行。	分析員、安心して。あたしが一人で両方操作すればいいんでしょ。あんたはあたしについてくればいい。	걱정 마, 분석가. 나 혼자서 양쪽 장비를 작동할 테니까, 넌 나만 잘 따라오면 돼.	Don't worry, Adjutant. I'll handle everything myself. You just need to stick close.						0	
+26	芬妮又露出了她标志性的自信笑容，让我放松了些。	芬妮又露出了她招牌的自信笑容，讓我放鬆了不少。	ファニーはまた自慢な笑顔を見せて、私は少し安心した。	페니의 의기양양한 모습을 보니 불안한 마음이 안정됐다.	Fenny beamed her trademark smile of confidence, and I relaxed a little.						0	
+b-6											0	
+27	嗯，你就专心应对测试就好。	嗯，你就專心應對測試就好。	うん、君はテストに集中すればいい。	알겠어, 넌 테스트에만 집중해.	Alright, you can just concentrate on the test.						0	
+28	可不要指望我保护你哟，我的眼中只有胜利。	可不要指望我保護你喲，我的眼中只有勝利。	あんたの安全は保障しないわよ、あたしの狙いは勝利のみ。	내가 보호해 줄 거라는 생각은 하지 말고. 페니한테는 오직 승리뿐이니까.	Don't expect me to take care of you, okay? The only thing in my eyes is victory.						0	
+29	虽然她的语气似乎是开玩笑，但她的表情告诉我，她是认真的。	雖然她的語氣似乎是開玩笑，但她的表情告訴我，她是認真的。	彼女の言葉は冗談に聞こえるが、その表情は真剣だった。	그녀의 말투는 장난스러웠지만, 표정에는 진지함이 서려 있었다.	Her tone of voice was playful, but her expression told me she was serious.						0	
+b-7											0	
+30	海姆达尔部队的分析员还是能保护自己的。	海姆達爾部隊的分析員還是能保護自己的。	ヘイムダル部隊の分析員は、自分の身を守るくらいのことはできる。	알겠어. 나도 나 자신 정도는 지킬 수 있어.	The Heimdall Force Adjutant is capable of taking care of himself, don't you worry.						0	
+31	不错，这才像样。那么，游戏开始吧！	不錯，這才像樣。那麼，遊戲開始吧！	そうこなくっちゃ。それじゃあ……ゲームスタートよ！	좋아. 태도는 합격! 그럼 게임을 시작해 볼까!	Nice, that's more like it. Now let's begin the game!						0	
+32	在我们前进的路上，出现了大量的异化人和攻击型机械，看来敌人还是根据需要调整了。	在我們前進的路上出現了大量的異化人和攻擊型機械，看來敵人還是根據需要而有所調整了。	私たちの進む道には、大量の変異者と攻撃型機械が現れた。どうやら敵は要望に応じて調整されているらしい。	가는 길에 엄청난 숫자의 변이자와 공격형 메카닉들이 나타났다. 타깃의 수량 조정이 다소 필요해 보였다.	A large amount of Changed and combat machinery blocked our path ahead. The enemy numbers must've been increased based on my participating.						0	
+33	虽然知道眼前这些张牙舞爪的家伙都是无人机的全息投影伪装，但足以骗过我了，我一直紧绷着神经。	雖然知道眼前這些張牙舞爪的傢伙都是無人機的全息投影偽裝，但足以騙過我了，我一直緊繃著神經。	目の前のやつらが全部ドローンが作ったホログラムだと知っていても、心を騙すには充分だ。今私の神経は引き締まっている。	눈앞에서 흉악하게 날뛰는 것들이 전부 드론이 만들어낸 홀로그램이라는 건 알았지만, 너무 현실적이라 계속 신경을 곤두세울 수밖에 없었다.	I knew that the clawing monsters before me were all just holographic projections by drones, but it was enough to fool my eyes, and I remained on edge.						0	
+34	芬妮就在我的前方，熟练地清理着一个又一个目标。	芬妮就在我的前方，熟練地清理著一個又一個目標。	ファニーは私の前で目標を次々と倒していく。	페니는 내 앞에서 노련하게 타깃을 하나둘씩 제거해나가기 시작했다.	Fenny eliminated target after target cleanly with well-experienced moves.						0	
+35	看来难度也不怎么高啊。	看來難度也不怎麼高啊。	難易度はそんなに高くないみたいね。	난이도가 생각보다 별로 높지는 않은 것 같은데.	Looks like it's not that difficult, after all.						0	
+36	分析员，我想加快点速度。	分析員，我想加快速度。	分析員、飛ばすわよ。	분석가, 속도 좀 올리고 싶은데 괜찮겠어?	Adjutant, I want to speed things up a little.						0	
+b-8											0	
+37	嗯，我努力跟上。	嗯，我努力跟上。	分かった、頑張ってついて行く。	알겠어. 노력해 볼게.	Sure, I'll try to keep up.						0	
+auto_29783	 		 		Mic check, one, two.						0	
+39	还挺容易的嘛。	還挺容易的嘛。	楽勝だわ！	뭐야… 이건 뭐… 너무 쉽잖아.	This is pretty easy, huh.						0	
+40	我看了下周围，的确已经没有敌人了，但总觉得很奇怪……机关那么重要，应该会重兵把守吧？	我看了下周圍，的確已經沒有敵人了，但總覺得很奇怪……機關那麼重要，應該會重兵把守吧？	周りを見ると、確かに敵はもういないが、どこかおかしい……こんな大事な装置なら、見張りがいるはずでは？	주변을 둘러보고 타깃이 없는걸 확인했지만 뭔가 알 수 없는 위화감이 느껴졌다… 정작 장치를 지키는 타깃이 없었기 때문이다.	I looked around. There were indeed no more enemies, but something felt weird... The device was so important, surely they'd have placed more guards?						0	
+41	分析员，你在担心对不对？	分析員，你在擔心對不對？	分析員、心配？	분석가, 지금 걱정하는 거야?	Adjutant, you're worrying again, aren't you?						0	
+42	我点了点头。	我點了點頭。	私は頷いた。	나는 고개를 끄덕였다.	I nodded.						0	
+43	放心吧，不管再冒出来多少家伙，我都可以搞定。	放心吧，不管再冒出來多少傢伙，我都可以搞定。	安心して。いくら出てきても、あたしが倒す！	걱정 마. 타깃이 아무리 많아도 페니가 전부 해결할 테니까.	Relax. No matter how many small fries pop out, I'll deal with them all.						0	
+44	芬妮强大的实力和一如既往的笑容令人安心，我跟着她往机关走去。	芬妮強大的實力和一如既往的笑容令人安心，我跟著她往機關走去。	ファニーの実力といつも通りの笑顔は人を安心させる。私は彼女と一緒に装置へ向かった。	페니의 강력한 실력과 위풍당당한 자신감으로 나는 긴장을 풀 수 있었고, 그녀를 따라 장치 쪽으로 걸어가던 중…	Fenny's immense strength and warm smile were enough to make anyone relax. I followed her to the device.						0	
+45	然而就在此时，地面突然升起几面数米高的电磁墙，将我困在其中。	然而就在此時，地面突然升起幾面數公尺高的電磁牆，將我困在其中。	しかしこのとき、地面から突然いくつかの高さ数メートルもある電磁波の壁が現れ、私を閉じ込めた。	순간, 땅에서 수십 미터 높이의 자기장이 일어나더니 날 가둔다.	However, several meter-tall electromagnetic walls suddenly rose up from the ground at that moment, trapping me within them.						0	
+46	正是不巧啊……偏偏被走在后面的我踩到了。	真是不巧啊……偏偏被走在後面的我踩到了。	あいにく……後ろを歩いていた私が踏んでしまった。	젠장… 하필이면 뒤에 있는 내가 밟다니.	Just my luck... I stepped on it while following from behind.						0	
+47	分析员，没事吧！	分析員，沒事吧！	分析員！平気？	분석가, 괜찮아?!	Adjutant, are you okay?						0	
+b-9											0	
+48	只是被困住了而已，你呢？	只是被困住了而已，你呢？	ただ閉じ込められただけだ、そっちは？	그냥 갇혔을 뿐이야. 페니는?	I'm just stuck here. How about you?						0	
+49	我没事，这附近貌似已经没有其他陷阱了。	我沒事，這附近好像已經沒有其他陷阱了。	あたしは大丈夫。この近くにはもう他に罠はなさそうね。	나도 괜찮아. 근처에 다른 함정은 없는 것 같아.	I'm alright. It doesn't look like there are any other traps around here.						0	
+b-10											0	
+50	那你继续测试吧，我承诺过不会影响你的。	那你繼續測試吧，我承諾過不會影響你的。	ならテストを続けよう。影響しないって約束したから。	다행이다. 그럼 계속해서 진행해! 방해 안 하기로 약속했잖아!	Continue the test, then. I promised I wouldn't intervene.						0	
+51	嗯！我会尽快结束的。	嗯！我會盡快結束的。	そうね！行きましょ！	알았어! 그럼 최대한 빨리 끝내고 올게!	Got it! I'll finish up as soon as possible.						0	
+b-11											0	
+52	我相信你，那么……唔！	我相信你，那麼……唔！	頼りにしてるぞ、それじゃ……グッ……！	페니를 믿어! 그럼… 으윽!	I believe you! Well then... Urgh!						0	
+53	分析员！怎么了！？	分析員！怎麼了！？	分析員！どうしたの！？	분석가! 무슨 일이야!?	Adjutant! What's wrong!?						0	
+54	电流一瞬间贯穿我的身体，虽然只有一瞬，但是我刚才差点就晕过去了，喉咙似乎没反应过来，无法发声回应芬妮。	電流一瞬間貫穿我的身體，雖然只有一瞬，但是我剛才差點就暈過去了，喉嚨似乎沒反應過來，無法發聲回應芬妮。	電流が私の体を走った。一瞬だが、気絶するところだった。喉はまだ麻痺しているようで、ファニーに話せない。	비록 짧은 순간이었지만 온몸에 전류가 흘러 기절할 뻔했고, 일시적으로 페니의 부름에 반응을 할 수 없었다.	An electric current flushed instantaneously through my body. I nearly lost consciousness, and couldn't use my throat to make a sound.						0	
+55	嘶——这个电击的力度对于我而言，是不是已经有点危险了……	嘶——這個電擊的力度對於我而言，是不是已經有點危險了……	いたた——この電撃の強度は私には少し危険じゃないか……	후… 이 정도 전류면 조금 위험하지 않을까.	*tsss—* The intensity of the electricity seemed like too much for me right off the bat...						0	
+56	分析员！你还好吗！！！	分析員！你還好嗎！！！	分析員！大丈夫！？分析員！！	분석가! 괜찮은 거지?!!	Adjutant! Are you okay!?!?						0	
+57	芬妮的声音明显焦急了许多，我努力张开嘴发出声音。	芬妮的聲音明顯焦急了許多，我努力張開嘴發出聲音。	ファニーの声は焦っている。私は精一杯声を出した。	페니의 목소리가 다급해 보여서 난 있는 힘껏 목소리를 내려고 노력했다.	Fenny's voice had become quite anxious. I did my best to make a sound in reply.						0	
+b-12											0	
+58	没事，刚刚好像被电了一下。	沒事，剛剛好像被電了一下。	……大丈夫、少し痺れただけ……	괜찮아… 그냥 살짝 감전됐을 뿐이야.	I'm okay. I just got electrocuted or something.						0	
+59	抱歉，我都忘记这个场景有这种陷阱了。	抱歉，我都忘記這個場景有這種陷阱了。	ごめん、このシーンに罠があることを忘れてたわ。	미안해… 나도 이곳에 이런 함정이 있을 줄은 생각도 못 했어.	I'm sorry. I forgot that this terrain has those traps.						0	
+b-13											0	
+60	不要道歉，不是你的……啊！	不要道歉，不是你的……啊！	謝るな、君のせいじゃ……あっ！	사과할 필요 없어. 너 잘못도 아닌… 윽!	Don't apologize, it's not your... Argh!						0	
+61	分析员！！！playername！！！	分析員！！！ playername！！！	分析員！！！playername！！！	분석가!!! playername!!!	Adjutant!!! playername!!!						0	
+62	看来，电击是定时的，那些设计战斗场景的家伙还真是会折磨人啊。	看來，電擊是定時的，那些設計戰鬥場景的傢伙還真是會折磨人啊。	どうやら、電気ショックは定期的なようだ。この戦闘シーンを作った奴はとんだサディストだな。	전기 충격은 시간을 간격으로 한 번씩 일어나는 것 같았다. 설계자가 사람 괴롭히는 걸 꽤나 좋아하는 녀석인 것 같다.	Evidently, the electric shocks were timer-based. Whoever designed the field really had a knack for torture.						0	
+63	即便芬妮在外面焦急地喊，我也没法立刻回应。	即便芬妮在外面焦急地喊，我也沒法立刻回應。	ファニーは外で叫んでいるが、私はすぐ応えることができない。	페니가 다급하게 불렀지만 난 바로 대답할 수 없었다.	I could hear Fenny yelling my name in a panic, but I couldn't answer right away.						0	
+b-14											0	
+68	芬妮，去吧，不要浪费时间。	芬妮，去吧，不要浪費時間。	ファニー、行ってくれ。時間を無駄にするわけにはいかない。	페니, 시간 낭비하지 말고 어서 서둘러!	Fenny, keep going. Don't waste time.						0	
+69	……	……	っ……	…	...						0	
+69_1	抱歉……我会以最快速度完成的！	抱歉……我會以最快速度完成的！	ごめん……最速で終わらせるわ！	미안… 최대한 빨리 끝내고 올게!	Sorry... I'll do it as fast as I can!						0	

@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，你最近似乎很疲惫。	分析員，你最近似乎很疲憊。	最近はお疲れのようですね、分析員。	분석가님, 요즘 많이 피곤해 보이시네요.	Adjutant, you seem pretty tired lately.						0	
+page0.2	在上午的例会上，我看到你打了12个哈欠。	在上午的例會上，我看到你打了12個哈欠。	朝の定例会で12回もあくびをしていたのを見ました。	오전의 회의에서 하품을 12번이나 하시던데…	I saw you yawn 12 times during the meeting this morning.						0	
+page0.3	感谢关心，不过辰星你开会时候一直盯着我看吗？	感謝關心，不過辰星你開會的時候一直盯著我看嗎？	お気遣いありがとう。それって、定例会の間ずっと私のことを見てたってことか？	걱정해 줘서 고마워요. 근데 회의 내내 절 쳐다봤던 건가요?	Thank you for caring, but were you staring at me the entire meeting?						0	
+page0.4	咳，这不是重点。	咳，這不是重點。	こほん。そんなことより。	크흠, 지금 그게 중요한 게 아니잖아요.	Ahem... That's not the point.						0	
+page0.5	我是想说，如果分析员需要的话，可以从我这里挑一本感兴趣的书去看看。	我是想說，如果分析員需要的話，可以從我這裡挑一本有興趣的書去看看。	もしよければ、何か本を貸しましょうか、と言いに来たのです。	제게 좋은 책이 몇 권 있으니 필요하실 때 가져가셔서 보셔도 좋을 것 같아요.	I wanted to let you know that you could borrow one of my books you find interesting.						0	
+page0.6	阅读能使大脑放松，晚上睡前看半个小时就好。	閱讀能讓大腦放鬆，晚上睡前看半小時就好。	読書は脳をリラックスさせられます。寝る前に30分くらい読むだけでも。	독서는 뇌의 긴장을 풀어준다고 해요. 자기 전에 30분 정도만 책을 보시는 것도 좋아 것 같은데요?	Reading can help your brain relax. Just read for half an hour before bed.						0	
+page0.7	嗯，有道理，那让我看看……	嗯，有道理，那讓我看看……	うん。いいかもな。じゃあ……	일리가 있네요, 흠, 그럼…	Alright, that makes sense. Let me have a look...						0	
+choice1	选《朔州通史》	選《朔州通史》	『朔州通史』にする	<삭주통사>를 고른다.	Choose "A History of Shuozhou"						0	
+page1.1	分析员对朔州地区的历史感兴趣吗？	分析員對朔州地區的歷史有興趣嗎？	朔州の歴史に興味があるのですか？	혹시 삭주 지역 역사에 관심이 있으신가요?	You're interested in the history of Shuozhou, Adjutant?						0	
+page1.2	毕竟是辰星的家乡，也想多了解一些。	畢竟是辰星的家鄉，也想多了解一點。	辰星の故郷だからね。もっと知れたらいいなって。	수성의 고향이라 그런지 알고 싶긴 해요.	Yeah. It's your hometown, after all. I want to learn more about it.						0	
+page1.3	这，这样吗……那以后我也会和分析员多讲一些的。	這，這樣嗎……那以後我也會和分析員多講一些的。	そ、そうですか……では今後は、もっと朔州のことを話してあげましょう。	그, 그거야… 그럼 앞으로 분석가님에게 삭주 지역에 대해 더 많은 얘기를 해줘야 겠어요.	I—I see... Then I'd be happy to tell you more about it, Adjutant.						0	
+choice2	选《泰坦物质与三相转化特性》	選《泰坦物質與三相轉換特性》	『タイタン物質と三形態変換の特性』にする	<타이탄 물질과 삼상 전환 특성>을 고른다	Choose "Titagen and the Three-Phase Transformation"						0	
+page2.1	这本书是陶董写的，目前是公司内部读物。	這本書是τ董寫的，目前是公司內部讀物。	これはτさんの著書で、社員以外は閲覧禁止なのです。	이 책은 τ 이사님이 직접 쓴 거예요. 사내 독서물이죠.	Director τ wrote this book. It's one of the company's internal reading materials.						0	
+page2.2	原来如此，除了她确实也没多少人懂这个。	原來如此，除了她確實也沒多少人懂這個。	なるほど。というかτ以外に読める人なんてほとんどいないでしょ。	그렇군요, 확실히 이쪽으로는 τ 이사가 다른 사람보다 많은 걸 알고 있긴 하죠.	Other than her, not many people can understand it.						0	
+page2.3	能在物质、能量和信息之间转化，泰坦物质确实很神奇。	能在物質、能量和資訊之間轉換，泰坦物質確實很神奇。	物質、エネルギー、情報の間で変換できるとは、本当にタイタン物質は不思議です。	물질, 에너지, 정보 사이에서 전환되는 타이탄 물질은 정말 언제봐도 신기하긴 하죠.	Titagen can be converted between matter, energy, and a fragmented state. It's truly incredible.						0	
+choice3	选《昏迷三年的他醒来，收到了十三位女主角的同时告白》	選《昏迷三年的他醒來，收到了十三位女主角的同時告白》	『3年間の昏睡から目覚めた彼は、13人のヒロインから同時に告白された』にする	<3년간의 혼수상태에서 깨어나 13명의 여주인공에게 동시에 고백받기>를 고른다.	Choose "After a Three-Year Coma, He Awoke to Confessions of Love From Thirteen Heroines"						0	
+page3.1	这本书是……	這本書是……	これは……	이 책은…	This book...						0	
+page3.2	上次路过公司附近的书店，偶然看到的……	上次經過公司附近的書店，偶然看到的……	この間会社の近くにある本屋を通りかかったら、偶然見つけたんです……	저번에 회사 근처 서점을 지나가다가 우연히 봤어요…	I happened to see it when I passed by a bookstore near the company.						0	
+page3.3	都已经到出版的程度了吗……真厉害啊。	都已經到出版的程度了嗎……真厲害。	もう出版までいったのか……すごいな。	이미 출판까지? 대단한데요?	So it actually got published... Amazing...						0	

@@ -1,0 +1,4 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	战斗结束，恭喜三连胜！！！	戰鬥結束，恭喜三連勝！！！	戦闘終了、三連勝おめでとうございます！！！	전투가 끝났습니다. 3연승을 축하합니다!!!	Final Victory! Congratulations, brave champion!						0	
+2	只有这个烦人的提示跟以前一样……	只有這個煩人的提示跟以前一樣……	このうるさいアナウンスだけは昔と変わらないね……	이 성가신 멘트는 어쩌면 매번 이렇게 한결같을까…	30 years and these game announcers are still annoying as ever...						0	

@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	里芙，别一直盯着屏幕看，对眼睛不好哦。	里芙，別一直盯著螢幕看，對眼睛不好哦。	リフ。画面をずっと見ていると目に悪いぞ。	리브, 계속 화면만 보면 눈에 안 좋아.	Lyfe, don't stare at that screen too long. It's bad for your eyes.						0	2.5版本随机事件
+page1.2	分析员，我……	分析員，我……	分析員。私——	분석가, 나…	Adjutant... I—						0	2.5版本随机事件
+page1.3	我知道你想说什么。工作是做不完的，不如先和我出去走动走动，让眼睛休息一下？	我知道你想說什麼。工作是做不完的，不如先跟我出去走動，讓眼睛休息一下？	君の言おうとしていることはわかってるさ。でもすぐに仕事は終わらないし、いっしょに外の空気を吸って、目を休めないか？	네가 무슨 말 하려는지 알아. 일이란 끝이 없는 거잖아. 차라리 나랑 잠깐 나가서 걸으면서 눈 좀 쉬게 하는 게 어때?	I know what you're going to say. There's always more work to do. Why don't we go for a walk so you can rest your eyes?						0	2.5版本随机事件
+page1.4	嗯……听分析员的。	嗯……聽分析員的。	ああ……わかった。	응… 분석가 말대로 할게.	Alright... I'll take your advice.						0	2.5版本随机事件
+page1.5	来，里芙。	來，里芙。	こっちだ、リフ。	자, 리브.	Come here, Lyfe.						0	2.5版本随机事件
+page1.6	试试看向窗外，这样远眺是让眼睛放松的好方法。	試試看向窗外，這樣遠眺是讓眼睛放鬆的好方法。	窓の外を見てくれ。遠くを眺めると、目をリラックスできるぞ。	창밖을 봐봐. 멀리 바라보는 게 눈을 편안하게 해주는 좋은 방법이야.	Try looking out the window. Staring off into the distance is a great way to relax your eyes.						0	2.5版本随机事件
+page1.7	先把眼睛闭上，再缓缓睁开直视前方，最后让视线自然向中心聚焦。	先把眼睛閉上，再緩緩睜開直視前方，最後讓視線自然向中心聚焦。	目を閉じてから、ゆっくりと開けて、遠くを眺めながら、自然と視線を真ん中に寄せるんだ。	눈을 먼저 감았다가 천천히 뜬 다음에 정면을 보고, 시야가 자연스럽게 중심으로 집중되게 하면 돼.	Close your eyes first. Then slowly open them while looking straight ahead. Let your line of sight naturally focus on the center.						0	2.5版本随机事件
+page1.8	确实感觉舒服了一些。	確實感覺舒服了一些。	確かに、ちょっとリラックスできた気がする。	진짜 조금 편안해진 것 같아.	My eyes do feel a little better.						0	2.5版本随机事件
+page1.9	我还有个更好的方法，要不要回房间试试？	我還有個更好的方法，要不要回房間試試？	これよりもいい方法があるぞ。部屋に戻って試してみるか？	더 좋은 방법도 있는데 방으로 들어가서 해볼래?	I have an even better idea. Do you want to head back to your room and try it out?						0	2.5版本随机事件
+page1.10	回到房间后，我将里芙抱到床上，轻柔小心地为她按摩眼周。	回到房間後，我將里芙抱到床上，輕輕地小心地為她按摩眼周。	部屋に戻ると、私はリフをベッドに寝かせて、彼女の目の周りを優しくマッサージしてあげた。	방으로 돌아온 후, 나는 리브를 침대로 눕힌 다음 눈 주위를 부드럽게 마사지해 주었다.	After we got to her room, I carried Lyfe to the bed. I then carefully and tenderly massaged the area around her eyes.						0	2.5版本随机事件
+page1.11	眼睛的不适感缓解了很多，谢谢你，分析员。	眼睛的不適感緩解了很多，謝謝你，分析員。	だいぶマシになった。ありがとう、分析員。	시큰하던 눈이 많이 나아졌어. 고마워, 분석가.	My eyes feel so much better now. Thank you, Adjutant.						0	2.5版本随机事件
+page1.12	我……我也可以帮分析员按摩吗？	我……我也可以幫分析員按摩嗎？	その……分析員にもマッサージしていいか？	나… 나도 분석가한테 마사지해 줘도 될까?	Can I... give you a massage too, Adjutant?						0	2.5版本随机事件
+page1.13	当然，那就拜托里芙了。	當然，那就拜託里芙了。	もちろんだ。頼んだ。	그럼, 리브한테 맡길게.	Of course. Thank you, Lyfe.						0	2.5版本随机事件
+page1.14	力度还合适吗？	力度還合適嗎？	こんな感じで大丈夫か？	힘 조절은 괜찮아?	How's the pressure?						0	2.5版本随机事件
+page1.15	里芙的手法很温柔，我觉得力度刚刚好。	里芙的手法很溫柔，我覺得力道剛好。	ああ、ちょうどいいぞ。	리브의 손길이 정말 부드러워, 지금 딱 좋아.	You're really gentle, Lyfe. The pressure is just right.						0	2.5版本随机事件
+page1.16	那下次分析员眼睛累了，也要让我帮你按摩。	那下次分析員眼睛累了，也要讓我幫你按摩。	では、今度分析員の目が疲れたときは、私がマッサージしてあげよう。	그럼 다음에 분석가가 눈 피곤해지면 내가 마사지 해줄게.	Next time your eyes are tired, just ask me to give you a massage, Adjutant.						0	2.5版本随机事件
+page1.17	嗯，我记住了。	嗯，我記住了。	ああ、よろしくな。	응, 기억해둘게.	Alright, I'll remember that.						0	2.5版本随机事件

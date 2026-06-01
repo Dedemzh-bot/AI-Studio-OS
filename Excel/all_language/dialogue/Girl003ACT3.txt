@@ -1,0 +1,6 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	路被堵上了！那边那道门应该可以……	路被堵住了！那邊那道門應該可以……	道を塞がれた！あっちの門ならいけるはず……	길이 막혀있어. 저쪽 문은 괜찮겠지…	This way's blocked! Maybe that gate over there...						0	
+2	喂！钥匙给我！	喂！鑰匙給我！	おい！カギを渡せ！	어이! 열쇠 좀 줘 봐!	Grr, hey! The key! Gimme!						0	
+3	嘿嘿嘿，我可没有，我只知道备用钥匙放在这附近一个瓶子里。	嘿嘿嘿，我可沒有，我只知道備用鑰匙放在這附近一個瓶子裡。	へへへ、僕は持ってないぜ。予備のカギがこの辺りのボトルに入ってるって聞いたけど。	후후후… 나한테 그런 게 있을 리가. 단지 예비 열쇠가 근처 어느 병에 들어 있다는 정도만 알고 있지.	Hehehe, I ain't got it. There's a spare in a bottle somewhere around here though.						0	
+4	……真有你的！	……真有你的！	……やるね！	… 너도 참!	Grr... you piece of...!						0	

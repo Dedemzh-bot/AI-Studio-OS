@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，你的身体有没有不一样的变化呀？	分析員，你的身體有沒有不一樣的變化呀？	分析員！最近、体に変化はない？	분석가님, 몸은 무슨 변화가 없었나요?	Adjutant, have you noticed any changes in yourself?						0	
+page1.2	你为什么突然问这个？	為什麼突然問這個？	どうして急に？	왜 갑자기 그걸 물어봐?	Why do you ask?						0	
+page1.3	因为和你同行的里芙和芬妮好像都获得了很不得了的力量！	因為和你同行的里芙和芬妮好像都獲得了很不得了的力量！	あなたと一緒にニューガントラに行ったリフとファニーが、すごい力を手に入ったって聞いたから！	당신과 함께 한 리브 씨와 페니 씨 전부 대단한 힘을 얻은 것 같아서요!	Because both Lyfe and Fenny seem to have gained incredible powers!						0	
+page1.4	所以我就在想……分析员是不是也有变化了呢？至少多一套新装备吧！	所以我就在想……分析員是不是也有變化了？至少多一套新裝備吧！	だから……分析員にも何か変化があるんじゃないかなって。新しい力とか、新装備とか！	하여… 분석가님은 어떤 변화가 있었나요? 새 전술 슈트 정도는 생겼겠죠!	So I was wondering... is there anything different about the Adjutant? Maybe some new gear at least?						0	
+page1.5	头发长了点算吗？	頭髮長了點算嗎？	うーん。髪が少し伸びたかな。	머리카락이 좀 길어졌나?	My hair is longer. Does this count?						0	
+page1.6	讨厌啦！分析员又开玩笑，我明明很认真的。	討厭啦！分析員又開玩笑，我明明很認真的。	なにそれ！またとぼけちゃって。私は真面目に聞いてるのに。	미워요! 또 농담하시네요, 저는 분명히 진지했는데.	Stop it! I'm serious here.						0	
+page1.7	没有得到什么新东西吧，还差点弄丢原有的东西。	沒有得到什麼新東西吧，還差點弄丟原有的東西。	新しく手に入ったものは特にないよ。それどころか、持っていた物を無くすところだったから。	딱히 새로운 건 없었고, 대신 원래 있던 거 잃어버릴 뻔했어.	Well, I haven't got anything new. In fact, I almost lost some part of me.						0	
+page1.8	弄丢？什么东西啊？	弄丟？什麼東西啊？	無くす？何を？	잃어버려요? 어떤 거요?	Lost? What is it?						0	
+page1.9	不重要了。现在你面前的，是完好无损的我。	不重要了。現在你面前的，是完好無損的我。	たいしたものじゃないさ。とにかく、無事は無事だよ。	중요하지 않아. 지금 네 앞에 서 있는 멀쩡한 내가 있어.	It's not important now. See, I'm safe and sound here.						0	
+page1.10	这样啊……	這樣啊……	そうなんだ……	그렇군요…	Okay...						0	
+page1.11	总觉得分析员看见的世界和我不一样呢。	總覺得分析員看見的世界和我不一樣。	なんか、分析員と私じゃ、見てる世界が違っている気がするんだよね。	분석가님 보는 세상이 저와 다르다는 생각이 자주 들어요.	It always feels like you see a different world than I do.						0	
+page1.12	怎么说？	怎麼說？	どうして？	왜?	What do you mean?						0	
+page1.13	我感觉你为了保护我，有很多都不告诉我，或许就算告诉我，我的理解也到不了你的那个深度。	我感覺你為了保護我，有很多都不告訴我，或許就算告訴我，我的理解也到不了你的深度。	私を守るために、いろいろと黙ってるでしょ？教えてくれたところで、私は分析員みたいにちゃんと理解できないし。	왠지 저를 지켜주기 위해 제게 말해 주지 않는 것이 많은 것 같아서요. 물론 알려주셔도 깊이 생각하지 못할 수도 있지만요.	It feels like you keep a lot from me to protect me. Even if sometimes you told me something, I wouldn't fully understand it as you did.						0	
+page1.14	虽然知道是为了我好，可我还是和以前一样想要知道更多关于老师的事。	雖然知道是為了我好，但我還是跟以前一樣想知道更多關於老師的事。	私のためだってわかるけど、それでも、分析員のことをもっと知りたいな。	저를 위해서라는 것을 알지만, 전 여전히 예전처럼 선생님에 대해 더 많이 알고 싶습니다.	Even though I know you did that for my own good, I still want to learn more about you, just like I used to.						0	
+page1.15	苔丝，有的时候你懂事得让我觉得愧疚了。	黛斯，有的時候你懂事得讓我覺得愧疚了。	そうか。知らず知らずのうちに気を遣わせていたみたいだね。	테스가 가끔 너무 사려가 깊어 내가 미안할 때가 있어.	Tess, sometimes you're so sensitive that I feel guilty.						0	
+page1.16	不要愧疚，我都是自愿的！我是不是让你有压力了？	不要愧疚，我都是自願的！我是不是讓你有壓力了？	そんなことないよ！私が勝手にそう思ってるだけ！ちょっと言い方が重たかったかもね。	그렇게 생각하지 마세요, 저의 자발적인 생각이 당신에게 스트레스가 되었나요?	Aww, don't say that, Teacher! Am I putting too much emotional weight on you?						0	
+page1.17	没有，谢谢你，苔丝。	沒有，謝謝你，黛斯。	そんなことはないよ。ありがとう、テス。	아니, 고마워, 테스.	Not at all. Thank you, Tess.						0	
+page1.18	分析员……	分析員……	分析員……	분석가님…	Adjutant...						0	
+page1.19	放心，不管发生什么，我还是我，不会离开。	放心，不管發生什麼，我還是我，不會離開。	安心してくれ。何があっても、私は私のままだ。君を置いてどこかに行ったりはしないよ。	걱정 마, 무슨 일이 있어도 난 나야, 떠나지 않을 거야.	Don't worry. No matter what happens, I'll always be your Adjutant.						0	
+page1.20	嗯！我也会一直跟着分析员的！	嗯！我也會一直跟著分析員的！	うん！私も、ずっと分析員についていくよ！	네! 저도 분석가님 따라갈게요!	Great! And I'll always follow your lead, Adjutant!						0	

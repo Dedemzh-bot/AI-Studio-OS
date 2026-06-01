@@ -1,0 +1,14 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	……	……	……	…	...						0	
+page0.2	唉。	唉。	はぁ。	휴.	*sigh*...						0	
+page0.3	怎么对着电梯叹起气了？	怎麼對著電梯嘆氣？	エレベーターの前でため息ついてどうしたんだ？	왜 엘리베이터에 대고 한숨을 쉬는 거야?	Why are you sighing at the elevator?						0	
+page0.4	你不觉得等待时间太久了吗？	你不覺得等電梯太浪費時間了嗎	待ち時間が長すぎると思わない？	기다리는 시간이 너무 오래 걸려, 그렇지 않아?	Don't you think we always have to wait for too long?						0	
+page0.5	这电梯就我们在用，每次也就等几秒钟的时间。	這電梯就只有我們在用，每次就只需要等幾秒鐘而已。	このエレベーターを使うのは私たちだけだ、ほんの数秒だよ。	이 엘리베이터는 우리만 사용하잖아. 기다리는 시간도 몇 초 정도뿐이고.	We're the only ones who use this elevator. We usually only have to wait a couple minutes for it.						0	
+page0.6	还是太久了。	但還是太久了。	それでも長すぎる。	그래도 너무 오래 걸려.	That's too long.						0	
+page0.7	你就只是急着回去打昨天发售的新游戏吧？这么斤斤计较。	你就只是急著回去打昨天剛發售的遊戲吧？這麼斤斤計較。	そんなに焦ってるのは、昨日発売したゲームを早くやりたいからか？	빨리 돌아가서 어제 발매된 신규 게임을 하려는 거지? 시시콜콜 따지긴.	Are you just in a rush to get back and play the game that just came out yesterday?						0	
+page0.8	算了，至少等电梯的时候不用黑屏。	算了，至少等電梯的時候不會畫面全黑。	まあいいや、少なくともエレベーターを待つ間に画面が暗転することはないし。	됐다. 적어도 엘리베이터를 기다릴 때 블랙 스크린 상태는 아니니까.	Forget it. At least we don't need to stare at a black screen while we wait for the elevator.						0	
+page0.9	黑屏？	畫面全黑？	暗転？	블랙 스크린?	A black screen?						0	
+page0.10	嗯，比起那个做什么都要黑屏加载的游戏，还是好很多的。	嗯，比起那些做什麼都要loading的遊戲，等電梯還是好太多了。	うん、あの事あるごとにローディングで画面が暗転するゲームよりマシ。	응, 뭘 해도 블랙 스크린으로 로딩되는 그 게임에 비하면 훨씬 낫지.	Yeah. Like those games that throw up a black loading screen whenever you try to do anything. It's still way better than that.						0	
+page0.11	想不通，都2061年了，怎么还有这么麻烦的设计。	想不通，都已經2061年了，怎麼還有這麼麻煩的設計。	理解できない。もう2061年なのに、どうしてあんなめんどくさいデザインをするんだ。	이해가 안 된단 말이야. 지금 2061년인데, 어떻게 아직도 개선이 안 될 수가 있는 거지?	I just don't get it. It's already 2061 — why do games still have an annoying feature like that?						0	
+page0.12	所以你是在生那个游戏的气吧？电梯可太无辜了。	所以你是把對那款遊戲的氣出在電梯上了吧？電梯也太無辜了。	君はそのゲームに腹を立てているわけか？エレベーターに罪はないよ。	그러니까 그 게임에 화가 난 거구나? 엘리베이터가 서러워하겠다.	So you're actually just mad at those games? The elevator is innocent in all this.						0	

@@ -1,0 +1,34 @@
+﻿道具大类	道具子类	道具ID	等级	注释	禁用道具	类名	名字key	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	图标	使用方式，0不可使用，1自动，2手动  不填为0	获取类型（1默认，2供应站，3活动，4成就，5通行证	获取途径	对应皮肤GDPL	镜头资源ID	外观ID	GM投放
+Genre	Detail	Particular	Level	Comment	Close	LuaType	I18n	Color	Icon	UseMode	GetType	GetWay	CardSkinID	CameraID	AppearID	GMnum
+20	1	1	1	贴身特助-腿部·素黑		card_skin_parts	cardskin_parts.skin_parts20111	5	21010101	0	1		{7,15,1,5}	role_fashion_parts_leg	70150401	1
+20	1	1	2	贴身特助-腿部·魅网		card_skin_parts	cardskin_parts.skin_parts20112	5	21010102	0	2	901	{7,15,1,5}	role_fashion_parts_leg	70150402	1
+20	1	2	1	翠翎倩姿-腿部·光链		card_skin_parts	cardskin_parts.skin_parts20221	5	21020201	0	2	902	{7,18,1,2}	role_fashion_parts_leg	70180203	1
+20	1	2	2	翠翎倩姿-腿部·暖幕		card_skin_parts	cardskin_parts.skin_parts20222	5	21020202	0	2	902	{7,18,1,2}	role_fashion_parts_leg	70180204	1
+20	1	3	1	点墨化龙-腿部·淡云		card_skin_parts	cardskin_parts.skin_parts20321	5	21030201	0	2	903	{7,14,2,4}	role_fashion_parts_leg	71140404	1
+20	1	3	2	点墨化龙-腿部·墨晕		card_skin_parts	cardskin_parts.skin_parts20322	5	21030202	0	2	903	{7,14,2,4}	role_fashion_parts_leg	71140403	1
+20	1	4	1	晨曦统令-腿部·无遮		card_skin_parts	cardskin_parts.skin_parts20411	5	21040101	0	2	904	{7,21,1,2}	role_fashion_parts_leg	70210201	1
+20	1	4	2	晨曦统令-腿部·暗蕴		card_skin_parts	cardskin_parts.skin_parts20412	5	21040102	0	2	904	{7,21,1,2}	role_fashion_parts_leg	70210202	1
+20	1	5	1	慵倚花阴-腿部·轻巧		card_skin_parts	cardskin_parts.skin_parts20521	5	21050201	0	2	905	{7,14,3,3}	role_fashion_parts_leg	72140303	1
+20	1	5	2	慵倚花阴-腿部·皎白		card_skin_parts	cardskin_parts.skin_parts20522	5	21050202	0	2	905	{7,14,3,3}	role_fashion_parts_leg	72140304	1
+20	1	6	1	清光虔愿-腿部·如愿		card_skin_parts	cardskin_parts.skin_parts20621	5	21060201	0	2	905	{7,6,3,2}	role_fashion_parts_leg	72060203	1
+20	1	6	2	清光虔愿-腿部·若霜		card_skin_parts	cardskin_parts.skin_parts20622	5	21060202	0	2	905	{7,6,3,2}	role_fashion_parts_leg	72060204	1
+20	1	7	1	绮恋星灵-腿部·明心		card_skin_parts	cardskin_parts.skin_parts20721	5	21070201	0	2	907	{7,20,2,2}	role_fashion_parts_leg	71200203	1
+20	1	7	2	绮恋星灵-腿部·玉幕		card_skin_parts	cardskin_parts.skin_parts20722	5	21070202	0	2	907	{7,20,2,2}	role_fashion_parts_leg	71200204	1
+																
+																
+20	2	1	1	翠翎倩姿-头部·金缕		card_skin_parts	cardskin_parts.skin_parts20211	5	21020101	0	2	902	{7,18,1,2}	role_fashion_parts_head	70180202	1
+20	2	1	2	翠翎倩姿-头部·翠翎		card_skin_parts	cardskin_parts.skin_parts20212	5	21020102	0	2	902	{7,18,1,2}	role_fashion_parts_head	70180201	1
+20	2	2	1	点墨化龙-头部·赤金		card_skin_parts	cardskin_parts.skin_parts20311	5	21030101	0	2	903	{7,14,2,4}	role_fashion_parts_head	71140402	1
+20	2	2	2	点墨化龙-头部·玄青		card_skin_parts	cardskin_parts.skin_parts20312	5	21030102	0	2	903	{7,14,2,4}	role_fashion_parts_head	71140401	1
+20	2	3	1	慵倚花阴-头部·星芒		card_skin_parts	cardskin_parts.skin_parts20511	5	21050101	0	2	905	{7,14,3,3}	role_fashion_parts_head	72140301	1
+20	2	3	2	慵倚花阴-头部·辉光		card_skin_parts	cardskin_parts.skin_parts20512	5	21050102	0	2	905	{7,14,3,3}	role_fashion_parts_head	72140302	1
+20	2	4	1	清光虔愿-头部·狐语		card_skin_parts	cardskin_parts.skin_parts20611	5	21060101	0	2	905	{7,6,3,2}	role_fashion_parts_head	72060201	1
+20	2	4	2	清光虔愿-头部·赤缨		card_skin_parts	cardskin_parts.skin_parts20612	5	21060102	0	2	905	{7,6,3,2}	role_fashion_parts_head	72060202	1
+20	2	5	1	绮恋星灵-头部·跃舞		card_skin_parts	cardskin_parts.skin_parts20711	5	21070101	0	2	907	{7,20,2,2}	role_fashion_parts_head	71200201	1
+20	2	5	2	绮恋星灵-头部·锦贝		card_skin_parts	cardskin_parts.skin_parts20712	5	21070102	0	2	907	{7,20,2,2}	role_fashion_parts_head	71200202	1
+20	2	6	1	睿智的国主冠冕		card_skin_parts	cardskin_parts.skin_parts20811	5	21080101	0	2	907	{7,4,4,2}	role_fashion_parts_head	73040201	1
+20	2	6	2	高明的国主冠冕		card_skin_parts	cardskin_parts.skin_parts20812	5	21080102	0	2	907	{7,4,4,2}	role_fashion_parts_head	73040202	1
+																
+																
+20	3	1	1	晨曦统令-脚部·捷行		card_skin_parts	cardskin_parts.skin_parts20421	5	21040201	0	2	904	{7,21,1,2}	role_fashion_parts_leg	70210203	1
+20	3	1	2	晨曦统令-腿部·无遮		card_skin_parts	cardskin_parts.skin_parts20422	5	21040202	0	2	904	{7,21,1,2}	role_fashion_parts_leg	70210204	1

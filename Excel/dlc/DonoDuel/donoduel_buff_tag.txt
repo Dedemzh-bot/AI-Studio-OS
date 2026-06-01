@@ -1,0 +1,17 @@
+﻿tagID	//目标含义	对应字符串（由程序提供，配进去）
+ID	Note	TagName
+1	我方多诺卡	DDT_OurPal
+2	我方召唤物	DDT_OurSummon
+3	敌方多诺卡	DDT_EnemyPal
+4	敌方召唤物	DDT_EnemySummon
+101	持有羁绊1的多诺卡（坦克）	DDT_Bond1Pal
+102	持有羁绊2的多诺卡（战士）	DDT_Bond2Pal
+103	持有羁绊3的多诺卡（射手）	DDT_Bond3Pal
+104	持有羁绊4的多诺卡（法师）	DDT_Bond4Pal
+105	持有羁绊5的多诺卡（游侠）	DDT_Bond5Pal
+106	持有羁绊6的多诺卡	DDT_Bond6Pal
+107	持有羁绊7的多诺卡	DDT_Bond7Pal
+108	持有羁绊8的多诺卡	DDT_Bond8Pal
+109	持有羁绊9的多诺卡	DDT_Bond9Pal
+110	持有羁绊10的多诺卡	DDT_Bond10Pal
+111	持有羁绊11的多诺卡	DDT_Bond11Pal

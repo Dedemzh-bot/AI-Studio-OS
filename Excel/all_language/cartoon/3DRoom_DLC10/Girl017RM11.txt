@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	分析员，我听说你最近发展了副业！	分析員，我聽說你最近發展了副業！	分析員！副業を始めたんでしょ？	분석가님, 최근에 부업을 시작했다면서요!	Adjutant, I heard you recently developed a side hustle!						0	
+page1.2	副业？	副業？	副業って？	부업?	A side hustle?						0	
+page1.3	对啊，听说你当演员了！	對啊，聽說你當演員了！	だって、役者になったって聞いたよ！	맞아요, 배우를 하신다고 그러던데요!	Yeah! I heard you're an actor now!						0	
+page1.4	这个……目前没有继续发展的计划。	這個……目前沒有繼續發展的計劃。	あー……まだそのつもりはないよ。	그게… 계속 할 계획은 없어.	Well... I currently don't have any plans to pursue it.						0	
+page1.5	这样吗？	這樣嗎？	そうなの？	왜요?	Really?						0	
+page1.6	但是分析员的演技还是很厉害了吧！	但分析員的演技還是很厲害了吧！	でも、分析員の演技力ってすごいからね！	분석가님의 연기 실력은 대단하잖아요!	But you must be a great actor, Adjutant!						0	
+page1.7	不好说，每个人对“演技”的标准不一样。	不好說，每個人對「演技」的標準都不一樣。	そんなことないさ。大体、「演技」の良し悪しの基準なんて、人それぞれなんだから。	그런 건 확정해서 얘기할 수 없어. 사람마다 '연기'를 하는 기준이 다르니까.	That's hard to say. Everyone has different standards when it comes to acting.						0	
+page1.8	我是不是可以邀请你来当我下次表演的搭档呢！	我是不是可以邀請你來當我下次表演的搭檔呢！	それじゃ、今度のショーのパートナーになってもらってもいいかな！	그럼 다음에 제가 공연할 때 파트너로 분석가님을 초대해도 될까요!	Could I ask you to be my assistant in my next performance?						0	
+page1.9	怎么突然提到这个？	怎麼突然提到這個？	突然どうしたんだ？	왜 갑자기 그런 얘기를 꺼내는 거야?	Where is this coming from all of a sudden?						0	
+page1.10	才不是突然呢！我很早以前就在这么打算了！	才不是突然呢！我很早以前就在這麼打算了！	突然じゃないもん！前からずっと考えてたんだよ！	갑자기 말하는 거 아니에요! 예전부터 그렇게 생각하고 있었어요!	It's not sudden! I've had it in mind for a long time!						0	
+page1.11	蓄谋已久啊……	蓄謀已久啊…	ずっと企んでいたのか……	오래전부터 계획했던 거구나…	So you've been planning this...						0	
+page1.12	嘿嘿~因为一直以为你会拒绝表演这种事，就不敢提。但是现在已经当演员了，说明你是不抗拒表演的。	嘿嘿~因為一直以為你會拒絕表演這種事，所以不敢提。但是現在已經當演員了，表示你是不抗拒表演的。	へへ～。パフォーマンスするのがイヤかもしれないし、ずっと言い出せなかったの。でも、もう役者なんだから、そういう心配も必要なくなったからね。	헤헤~ 사실은 분석가님이 사람들 앞에서 공연하는 걸 싫어할 줄 알았거든요, 그래서 함부로 말을 못 꺼냈어요. 그런데 이제 배우가 되셨으니, 공연이 싫지 않다는 말이잖아요.	Hehe~ I didn't want to bring it up because I thought you'd refuse to perform in front of other people. But now that you're an actor, you should be fine with it.						0	
+page1.13	这个逻辑倒也没错（虽然不是我主动的）。	這個邏輯倒也沒錯（雖然不是我主動的）。	それもそうか。（私が自分から演技をしたわけじゃないが。）	논리가 있군(내가 자발적으로 한 건 아니지만).	I can't fault your logic... (Even though it wasn't my choice.)						0	
+page1.14	对吧对吧！你就帮我一次嘛！	對吧！你就幫我一次嘛！	でしょ？人助けだと思ってさ！	그렇죠!? 한 번만 도와줘요!	Yeah! Help me out! Just one time!						0	
+page1.15	魔术还是有点……	魔術還是有點…	でもマジックショーはちょっとな……	마술은 좀…	Magic is a little...						0	
+page1.16	求求你了，分析员~我会好好报答的！	求求你了，分析員~我會好好報答的！	お願いだよ、分析員～ちゃんとお礼するから！	제발요, 분석가님~ 제가 꼭 보답할게요!	Please, Adjutant~ I'll make it worth your while!						0	
+page1.17	只有一次哦。	只有一次哦。	一回だけだぞ。	딱 한 번만이야.	Just this once.						0	
+page1.18	太好了！	太好了！	やった！	좋아요!	Great!						0	
+page1.19	那我们来核对一下日程吧，看看什么时候开始排练！嘿嘿~	那我們來核對一下日程吧，看看什麼時候開始排練吧！嘿嘿~	それじゃ、スケジュールを確認して、早速リハの予定を決めちゃおっか★ふふ……	그럼 한번 일정을 맞춰보세요, 언제부터 연습을 시작할지! 헤헤~	Then let's compare our schedules to see when we can start practicing! Hehe~						0	

@@ -1,0 +1,16 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	分析员，你有空吗？	分析員，你有空嗎？	分析員、少しいいか？	분석가, 시간 있어?	Adjutant, are you busy?						0	
+page0.2	有，需要我帮忙吗？	有，需要我幫忙嗎？	ああ、何か困りごとか？	네, 뭘 도와드릴까요?	Nope. Need something?						0	
+page0.3	没什么，就是想和你聊会天，关于我父亲的事。	沒什麼，就是想和你聊聊關於我父親的事。	いや。少し話をしたくてな。自分の父に関して。	별건 아니고, 그냥 얘기를 좀 하고 싶어서. 아버지에 관한 얘기야.	It's nothing, I just wanted to talk to you about my father.						0	
+page0.4	抱歉，我不知道还能找谁说这些……	抱歉，我不知道還能找誰說這些……	すまないな、他に話し相手が見つからなくて……	미안, 이런 이야기를 누구한테 해야 할지 모르겠어서…	Sorry, I don't know who else to talk to about this...						0	
+page0.5	没事，你尽管说吧，我会好好听着的。	沒關係，你儘管說吧，我會做個稱職的傾聽者。	いいよ、好きなだけ話して。ちゃんと聞くから。	괜찮아요. 편히 얘기하세요. 제가 들어 드릴 테니까.	It's alright. Go ahead — I'll listen.						0	
+page0.6	从我有记忆起，直到现在，父亲的形象一直没有变过。他是军官的模范：严格、忠诚、沉稳，无论是对内还是对外。	從我有記憶起，直到現在，父親在我腦海的形像一直沒有改變。他是軍官的模範：嚴格、忠誠、沉穩，無論是對內還是對外。	物心ついた頃から今まで、父のイメージはずっと変わらなかった。どんな時も常にストイックで忠実で冷静沈着、まさに軍官の鑑そのもの。	기억이 있었을 때부터 지금까지, 내가 기억하는 아버지의 모습은 변하지 않았어. 항상 모범적인 군인이셨지. 엄숙하고, 충성을 다하고, 듬직하셨어. 가족을 대할 때나, 타인을 대할 때나.	For as long as I can remember, my father's image has always been the same. He was the perfect commander — strict, loyal, and composed, inside and out.						0	
+page0.7	但我现在，似乎总是无法回想起他在军队中的样子，只能记起一些儿时的小事。	但我現在總是無法回想起他在軍隊中的模樣，只能想起一些兒時的小事。	しかし今は、父が軍隊にいるイメージが思い出せず、子供の頃の記憶しか思い出せなくなった。	하지만 지금은 아버지가 군대에 있을 때의 모습은 잘 기억나지 않고, 어렸을 때 있었던 평상시의 일만 기억이 나.	But now, I can't seem to remember what he was like as a military major. I can only remember bits and pieces of him as a father when I was little.						0	
+page0.8	那时候他会让我做好每一天的计划，精确到每分钟去执行；会深夜回家的时候，在门外脱掉军靴，避免把我吵醒。	那時候他會讓我做好每一天的計劃，精確到每分鐘去執行；深夜回家的時候會在門外脫掉軍靴，以免把我吵醒。	あの頃は毎日計画を立てて、分単位で行動するよう言われていた。父が夜、寝ている自分を起こさないように外で軍靴を脱いでから家に入るんだ。	그때의 아버지는 항상 내게 하루하루 계획을 세우고, 분 단위로 실행하라고 하셨어. 그리고 집에 늦게 들어오실 때는 내가 깨지 않게 밖에서 군화를 벗고 들어오셨었고.	Back then, he would make me plan out every day and stick to my schedule — down to the minute. When he came home late, he would take his combat boots off outside the door to avoid waking me.						0	
+page0.9	呵，想到这些，就总感觉自己像是还没有长大。	呵，一想到這些，總感覺自己像是還沒有長大。	ふふ、それを思い出すと、自分はまだ大人になっていないと思ってしまう。	하, 이런 생각을 하는 내 자신을 보면 아직도 미성숙한 것 같아.	Heh, when I think about that stuff, it feels like I haven't grown up yet.						0	
+page0.10	我能理解。	我能理解。	気持ちは分かる。	이해해요.	I understand how you feel.						0	
+page0.11	这是独属于你们一家人的回忆。	這是專屬於你們一家人的回憶。	家族としての思い出だろ。	그건 오로지 하루 씨와 가족들만의 추억이니까.	Those are memories that belong to your family and your family alone.						0	
+page0.12	这些记忆对于鸣濑上校来说，一定也是最珍贵的。	這些回憶對於鳴瀨上校來說，一定也是最寶貴的。	きっと鳴瀬少佐にとって、それはきっと一番大事な思い出だと思う。	그 추억은 나루세 소령님에게도 소중할 거예요.	Those memories must have been really precious to your father as well.						0	
+page0.13	是这样吗……	是這樣嗎……	そうかな……	그런가…	...You think so?						0	
+page0.14	谢谢你，分析员，说出来之后我感觉好多了。	謝謝你，分析員，說出來之後我感覺心情舒暢多了。	ありがとう、分析員。思ったことをはっきり口に出したらすっきりした気がする。	고마워, 분석가. 얘기를 하니까 한결 나아진 것 같아.	Thank you, Adjutant. I feel better after talking.						0	

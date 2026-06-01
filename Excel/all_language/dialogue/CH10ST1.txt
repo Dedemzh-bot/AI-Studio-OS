@@ -1,0 +1,31 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	从出生到死亡，世界树公司竭诚为您服务。	從出生到死亡，世界樹公司竭誠為您服務。	ゆりかごから墓場まで、ユグドラシル社が貴方に真心をお届け致します。	태어나서 죽을 때까지 위그드라실에서 당신을 성심성의껏 모시겠습니다.	From birth to death, Yggdrasil is here to happily serve you.						0	
+2	关闭雷吉乌斯辅助，它可能会受到“埃达”影响。	關閉雷吉烏斯輔助，它可能會受到“埃達”影響。	「エッダ」の影響を受ける可能性があるから、レイギウスアシストをオフにしよう。	레지오스 보조를 차단하세요. '에다'의 영향을 받을 수 있어요.	Turn off Regius support. Edda might be affecting it.						0	
+3	切换为手动操作模式，机械臂助力设为10。	切換為手動操作模式，機械臂助力設為10。	手動モードに切り替えて、アームアシストを10に設定しよう。	수동 조작 모드로 전환하고, 로봇팔 도움 수준을 10으로 설정하세요.	Switch to manual operation. Set the mechanical arm power assist to 10.						0	
+4	我又一次躺在医疗舱内，失去意识……	我又一次躺在醫療艙內，失去意識……	またしても医療カプセルに入れられた私は意識を失った……	난 다시 의료 캡슐에 누워 의식을 잃는다…	I was lying in the medical pod once again, unconscious...						0	
+5	战后的废墟。	戰後的廢墟。	戦後の廃墟。	전쟁이 휩쓸고 간 폐허.	The destruction of war.						0	
+6	空旷无人，大雨滂沱。	空曠無人，大雨滂沱。	誰もいない広い空間に、凄まじい豪雨が降っている。	드넓은 공간에 사람의 모습은 찾을 수 없었고 폭우가 쏟아졌다.	The rain continued to pour down on the desolate land.						0	
+7	霓虹灯管从高处垂落，线缆裸露在外。全息广告牌在雨水中短路，不停迸射出火花。	霓虹燈管從高處垂落，線纜裸露在外。全息廣告牌在雨水中短路，不停迸射出火花。	ネオンチューブが高いところから垂れ下がり、ケーブルがむき出しになっている。雨の中でショートしたホログラム看板は、パチパチと火花を放っている。	네온사인이 높은 곳에서 떨어지고, 전선이 튀어나와 있었다. 홀로그램 광고판은 빗물에 합선되어 스파크를 튀긴다.	Neon tubes hung down from up high, their cables exposed. A holographic billboard short circuited amidst the rainfall, endlessly spitting out sparks.						0	
+8	唯一鲜活而正常的，只有始终不停的雨声。	唯一鮮活而正常的，只有始終不停的雨聲。	生き生きとしていて普通なのは、止まない雨の音だけだった。	유일하게 생기가 돌고 정상적인 것은 끊임없이 들려오는 빗소리뿐이다.	The sound of rain persisted as the only sign of life and normalcy.						0	
+9	或许还有一座老式的电话亭，它仍旧完好，孤单地伫立在荒弃之城。	或許還有一座老式的電話亭，它仍舊完好，孤單地佇立在荒棄之城。	古い電話ボックスもしっかりと残っていて、荒れ果てた町にぽつんと佇んでいる。	그리고 오래된 전화 부스 하나가 외롭게 폐허가 된 도시 속에 우뚝 서 있었다.	There was the semblance of an old telephone booth as well, standing alone in the deserted city.						0	
+10	“叮铃铃铃铃”	“叮鈴鈴鈴鈴”	「チリリリン」	'따르르릉'	*Brrring, brrring*						0	
+11	雨声无法掩盖电话铃响。	雨聲無法掩蓋電話鈴響。	雨の中でも、電話のベルもちゃんと聞こえてくる。	빗소리가 전화벨 소리에 묻힌다.	The sound of the rain was unable to conceal the ringing phone.						0	
+12	我快步走进电话亭，将电话挂断。	我快步走進電話亭，將電話掛斷。	私は早足で電話ボックスに入って、電話を切った。	난 빠르게 전화 부스로 다가가 전화를 끊었다.	I quickly moved over to the telephone booth, hanging up the phone.						0	
+13	“叮铃铃铃铃”“叮铃铃铃铃”	“叮鈴鈴鈴鈴”“叮鈴鈴鈴鈴”	「チリリリン」「チリリリン」	'따르르릉' '따르르릉'	*Brrring, brrring* *Brrring, brrring*						0	
+14	我抬起头，看见城市的废墟中有无数座电话亭在同时响铃。	我抬起頭，看見城市的廢墟中有無數座電話亭在同時響鈴。	顔を上げると、都市の廃墟の中で無数の電話ボックスが同時に鳴っている光景が目に入った。	고개를 들어보니 폐허가 되어버린 도시 속의 수많은 전화 부스에서 벨소리가 동시에 울리기 시작했다.	I looked up to find countless telephone booths all ringing simultaneously in the destroyed city.						0	
+15	这次我亲自确认过，共感神经的确已经消失了。	這次我親自確認過，共感神經的確已經消失了。	私は、確かに共感神経はもう消えたことを、しっかり確認しました。	이번에는 공감 신경이 사라지는 걸 직접 확인했어.	This time, I confirmed myself that your Empathic Ganglia disappeared.						0	
+16	你的神格神经也一起消失了。	你的神格神經也一起消失了。	そして神格神経も、ともに消えました。	동시에 네 만트라 신경도 같이 사라졌지.	Your Theotropic Nerves have also disappeared.						0	
+b-1											0	
+17	董事会准备怎么处理“埃达”留下的“思念体”？	董事會準備怎麼處理“埃達”留下的“思念體”？	「エッダ」が残した「アニムス」に、理事会はどうやって対処しようとしていますか？	이사회는 '에다'가 남긴 '사념체'를 어떻게 처리할 생각이죠?	What is the Board going to do with the "Mori Fragment" left behind by "Edda"?						0	
+18	陶注视着我，就像看着不认识的陌生人。	τ注視著我，就像看著不認識的陌生人。	初対面の人を見ているように、τが私を見つめている。	τ는 마치 낯선 사람을 보는 것처럼 날 주시했다.	τ looked at me as if I was a stranger.						0	
+19	playername，你的气质变了。	playername，你的氣質變了。	風格が出てきましたね、playername。	playername, 분위기가 바뀌었군.	playername, your personality has changed.						0	
+20	董事会决定，将思念体保存在最高等级的武器库内，等待进一步研究。	董事會決定，將思念體保存在最高等級的武器庫內，等待進一步研究。	さらなる研究に備えるため、アニムスを最高レベルの武器庫に保存すると理事会は決めました。	이사회에서는 다음 연구를 위해 사념체를 최고 등급의 무기고에서 보관하기로 결정했어.	The Board has decided to contain the Mori Fragment in the maximum-security armory before we can perform further research.						0	
+21	同时我们会召开新闻发布会，宣布海姆达尔部队击败了尤弥尔。	同時我們會召開新聞發布會，宣布海姆達爾部隊擊敗了尤彌爾。	それと記者会見を開き、ヘイムダル部隊がユミルを倒したと発表しようとしています。	동시에 기자 회견을 열어 헤임달 부대가 이미르를 무찔렀다고 발표할 예정이야.	We will also hold a press conference to announce that the Heimdall Force has defeated Ymir.						0	
+b-2											0	
+22	你应该也不赞同这种做法。	你應該也不贊同這種做法。	そういうやり方にはあなたも反対なのでは？	대표님은 이사회가 그렇게 하는 거에 대해 동의하지 않을 거 같은데요.	I'm guessing you don't approve of that decision.						0	
+23	泰坦是超出我们理解的新生命体。	泰坦是超出我們理解的新生命體。	タイタンは我々の理解を越えた新たな生命体です。	타이탄은 우리가 알고 있는 새로운 생명체의 범주를 벗어났어.	Titans are entirely new lifeforms, beyond our comprehension.						0	
+24	他们只考虑眼前的利益，我需要真正的盟友。	而他們只考慮眼前的利益。	彼らは目先の利益しか考えていない。 私は本当の味方が必要です。	이사회는 눈앞의 이익만 챙기고 있지, 그래서 난 진정한 동맹자가 필요해.	They can only see what's right in front of them. I need true allies.						0	
+25	playername，我希望你认真考虑一下“合作”这个选项。	playername，我希望你認真考慮一下“合作”這個選項。	playername、「協力」という選択肢を真剣に考えてほしい。	playername, 난 네가 '협력'에 대해 진지하게 생각을 해봤으면 좋겠어.	playername, I hope you seriously consider "collaborating."						0	
+26	它会建立在平等的基础上。	它會建立在平等的基礎上。	安心してください。これは双方平等の上に成り立つ「協力」です。	물론 협력은 평등을 전제로 실행될 거야.	It would be based on a foundation of equality.						0	
+27	通过“合作”，你将会得到想要得到的一切。	通過“合作”，你將會得到想要得到的一切。	あなたも、欲しいものをすべで手に入れることができます。	'협력'을 통해 네가 원하는 것을 전부 얻을 수 있지.	Collaboration will give you everything you're looking for.						0	

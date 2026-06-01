@@ -1,0 +1,13 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	好呀！这下我终于可以安心地戴着这个面具了。现在，我来告诉你们情报吧。	好啊！這樣我終於可以安心地戴著這個面具了。現在，我來告訴你們情報吧。	やりました！ようやく安心して仮面をつけられます。さて、情報を教えますね。	좋았어! 이제 드디어 마음 편히 이 가면을 쓸 수 있겠어. 이제 정보를 알려줄게.	Finally! I can wear this mask again with peace of mind. Here's your insider info.						0	dlc30蓝图岛对话
+page1.2	好哦，是什么呢，好难猜啊。	好喔，是什麼呢，好難猜啊。	よし、聞こう。	그래, 그게 뭔데? 궁금하네.	Alright, what is it? It's so hard to guess.						0	dlc30蓝图岛对话
+page1.3	乌尔贡队员，身为会计的本领没有人能和他相比！	烏爾貢隊員，身為會計的本領沒有人能和他相比！	ウルゴン隊員、会計士としての腕はこの世の誰にも負けません！	우르곤 대원은 회계사로서 실력이 따라올 자가 없어!	It's Ulgun. When it comes to accounting skills, no one can beat him!						0	dlc30蓝图岛对话
+page1.4	埃勒奥斯队员，分析员想了解经营店铺的知识吗？	埃勒奧斯隊員，分析員想了解經營店鋪的知識嗎？	店舗経営の知識に興味があるのなら、エレオス隊員に聞いてみてください。	에르오스 대원, 분석가는 상점 경영에 대해 알고 싶어?	And Eleros, are you interested in shop management knowledge?						0	dlc30蓝图岛对话
+page1.5	一位是善战的狼，一位是镇山的虎！至于我，我最大的长处就是忠诚！忠诚！是的！	一位是善戰的狼，一位是鎮山的虎！至於我，我最大的長處就是忠誠！忠誠！是的！	例えると、戦闘が得意なオオカミと、守るのが得意なトラ、ですね！私？私の長所は、この疑いようのない忠誠心、です！	한 명은 싸움 잘하는 늑대, 한 명은 산을 지키는 호랑이! 나는 말이야, 내 최대 장점은 충성심이야! 충성심! 맞아!	They could be your left and right hand! As for me, loyalty is my greatest strength. That's right, loyalty!						0	dlc30蓝图岛对话
+page1.6	嗯……作为员工，忠诚确实是很重要的品质。	嗯……作為員工，忠誠確實是很重要的品質。	うん……スタッフにとって、忠誠心は確かに重要な資質だな。	음… 직원으로서 충성심은 정말 중요한 자질이지.	Hmm... Loyalty is a key quality in an employee.						0	dlc30蓝图岛对话
+page1.7	真棒。	真棒。	素晴らしい。	멋져.	Awesome.						0	dlc30蓝图岛对话
+page1.8	是吧！林德拉的建议很有用的……	是吧！林德拉的建議很有用的……	そうでしょう！リードラのアドバイスは役に立つんですから……	그래! 린드라의 조언은 정말 유용했어…	Right? I offer the best advice...						0	dlc30蓝图岛对话
+page1.9	等等，你们干嘛一副把我当笨蛋看的样子？	等等，你們幹嘛一副把我當笨蛋看的樣子？	ちょっと待ってください！なんか私をバカにしていませんか？	잠깐, 왜 날 바보 취급하는 거야?	Wait, why are you all looking at me like I'm an idiot?						0	dlc30蓝图岛对话
+page1.10	没什么，你醒啦。	沒什麼，你醒啦。	気づいたのか。	아무것도 아니야, 깼구나.	Oh, it's nothing. You're awake.						0	dlc30蓝图岛对话
+page1.11	恭喜你明天就要上班啦！	恭喜你明天就要上班了！	さて、あなたには明日から仕事をしてもらうよ。楽しみだね！	내일부터 출근하네, 축하해!	Congratulations, you start work tomorrow!						0	dlc30蓝图岛对话

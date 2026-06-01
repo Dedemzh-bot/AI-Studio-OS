@@ -1,0 +1,43 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	最近由于一直伏案工作，颈椎和浑身的关节都感觉异常僵硬。	最近由於一直伏案工作，肩頸和全身的關節都感到非常僵硬。	最近はデスクワークが続いているため、首や体中の関節がとても凝っている感じがする。	최근에 계속해서 책상에 앉아 일을 하다 보니, 목과 전실 관절이 이상하게 뻣뻣하다는 느낌이 든다.	After working at my desk for so long, my back and joints felt abnormally stiff.						0	
+2	听说古人会因为太久没有骑马，腿上长出赘肉而悲伤，我现在似乎也有些理解了。	聽說古人會因為太久沒有騎馬導致腿上長出贅肉而感到哀傷，我現在似乎也能夠體會那種心情了。	髀肉の嘆という昔話を聞いたことがあるが、私もようやくその気持ちを理解できた。	선조들이 말하길, 너무 오랫동안 말을 타지 않으면 다리에 살이 붙어서 우울함을 느낀다고 하던데, 그 심정을 이해할 수 있을 것 같다.	They say the ancients lamented the fat on their legs that would develop as a result of not riding for long periods — now I seemed to understand how they felt.						0	
+3	我决定暂时放下那些待批复的文件，来训练室活动一下身体。	我決定暫時放下那些待批覆的文件，來訓練室活動一下筋骨。	私は承認を待つ書類を一旦置いて、訓練室で少し体を動かすことに決めた。	난 먼저 승인을 기다리는 문서들은 잠시 접어두고, 훈련실에 가서 몸을 풀기로 한다.	I decided to temporarily put aside the documents that were pending approval and went to the training room to get my body moving instead.						0	
+4	跑完五公里，感觉身体略微舒畅了一些，但肩膀和关节总感觉还是不舒服。	跑完五公里後感覺身體稍微舒暢了，但肩膀和關節依然感到不舒服。	5キロほど走ったら多少元気になった気がしたが、やはり肩や関節部はどうもすっきりしない。	5km 정도를 달리고 나니 몸이 조금 풀렸지만, 어깨와 관절은 여전히 불편하다.	I felt a bit looser after running five kilometers. However, my shoulders and joints were still bothering me.						0	
+5	看来还是有必要恢复以前规律的训练计划，或者增加一些实战模拟……我这么想着，忽然听到由远及近的脚步声。	看來還是有必要恢復以前規律的訓練計劃，或者增加一些實戰模擬……就在我這麼想著的時候，忽然聽到由遠而近的腳步聲。	どうやら規則正しいトレーニングを再開するか、実戦シミュレーションを増やす必要があるな……と思っていたら、突然こっちに向かってくる足音が聞こえてきた。	아무래도 예전처럼 규칙적인 훈련 스케줄을 회복하거나 실전 시뮬레이션을 더 많이 진행할 필요가 있을 것 같다… 그런 생각을 하던 중, 다가오는 발걸음 소리가 들린다.	It seemed like I needed to go back to my regular training plan or do some extra combat simulations... Just as I was considering this, I heard the sound of footsteps approaching.						0	
+6	分析员，需要我给你辅助吗？	分析員，需要我協助你嗎？	分析員、サポートは必要か？	분석가, 도와줄까?	Adjutant, do you need any assistance?						0	
+7	原来是晴。	原來是晴。	来たのは晴だった。	하루였다.	It was Haru.						0	
+b-1											0	
+8	不用，我打算去室外训练场了。	不用，我打算去室外訓練場了。	大丈夫、屋外訓練場に行くつもりだ。	아니요, 이제 실외 훈련장으로 가려고요.	That's alright. I was just about to head to the outdoor training ground.						0	
+9	好的。	好的。	わかった。	출발하자!	Sure.						0	
+10	不过如果是关节酸痛，最好还是先不要进行高强度的训练。	不過如果是關節痠痛，最好還是先不要進行高強度的訓練。	もし関節痛であれば、いきなり激しいトレーニングはしないほうがいい。	만약 관절이 아픈 거라면, 높은 강도의 훈련은 하지 않는 게 좋아.	If you're experiencing joint pain, you should avoid high-intensity training.						0	
+11	嗯？她怎么知道？	嗯？她怎麼知道？	あれ？なぜバレたんだ？	응? 그녀는 어떻게 안 거지?	Huh? How did she know?						0	
+12	我刚才看到你一直在活动颈椎和肩膀，所以暂且猜测是这样。	我剛才看到你一直在活動肩頸，所以如此猜測。	さっきから首や肩を動かしているのを見て、勝手に推測したんだが。	방금 척추와 어깨를 움직이고 있길래 추측해 봤어.	I saw you rubbing your neck and shoulders, so I just assumed...						0	
+b-2											0	
+13	还是一如既往的敏锐啊。	還是一如既往的敏銳啊。	相変わらず鋭いな。	역시 예리하네요.	You're sharp as ever.						0	
+b-3											0	
+14	这么说你一直在盯着我吗？	這麼說你一直在盯著我嗎？	ってことは、ずっと私を見てたのか？	계속해서 절 주시하고 있던 건가요?	So you've been watching me?						0	
+15	分析员你别拿我开玩笑了……	分析員你別開我玩笑了……	分析員、からかうのはやめてくれ……	분석가, 그런 농담은 그만해…	Adjutant, don't tease me...						0	
+16	咳咳，其实除了常规的训练，你也可以试试瑜伽。	咳咳，其實除了常規的訓練，你也可以試試瑜珈。	ゴホン、ところで一般的なトレーニング以外に、ヨガを試すのも悪くないと思う。	크흠, 평소에 하던 훈련 방법 외에 요가를 한 번 시도해 보는 것도 괜찮아.	Ahem... Actually, you could add some yoga to your regular training regimen.						0	
+17	瑜伽？这倒是我从来没有尝试过的方向。	瑜珈？這倒是我從來沒有嘗試過的運動。	ヨガ？さすがにやったことないな。	요가? 한 번도 시도해 본 적이 없긴 하다.	Yoga? That was something I'd never tried before.						0	
+18	瑜伽可以有效锻炼核心力量，特别是腹部的腹横肌、髂腰肌……	瑜珈可以有效鍛煉核心力量，特別是腹部的腹橫肌、髂腰肌……	ヨガは基本的な筋力、特に腹部の腹横筋や腸腰筋を鍛えるのに効果的だが……	요가는 효과적으로 코어 근육을 단련할 수 있어. 특히 복횡근, 장요근 같은…	Yoga can help strengthen your core, especially your transversus abdominis and iliopsoas muscles...						0	
+19	分析员应该不会担心练习瑜伽会有损形象吧？	分析員應該不會擔心練習瑜珈有損形象吧？	分析員はヨガを練習する姿を見られて恥ずかしがったりしないだろうか？	설마 요가하는 걸로 본인 이미지가 이상해질까 봐 걱정하는 건 아니겠지?	You aren't worried that doing yoga might undermine your image, are you, Adjutant?						0	
+b-4											0	
+20	不，我比较关心耗费的时间和实际效果。	不，我比較關心花費的時間和實際效果。	いや、それより所要時間と実際の効果が気になる。	아니요, 요가에 할애하는 시간과 그에 따른 효과를 생각하고 있었어요.	No, I'm more concerned with how long it will take to see results.						0	
+21	这种想法很常见。	這種想法很常見。	よくある考え方だ。	아주 정상적인 사고방식이네.	Many people have the same concern.						0	
+22	虽然瑜伽看起来慢悠悠的，没什么练习反馈，但实际上每次练习中都能得到放松。	雖然瑜珈看起來強度低，沒什麼鍛煉回饋，但事實上在每次的鍛煉中都能好好放鬆。	ヨガはゆっくりしているように見えて効果が判断しにくいが、練習するたびにリラックスできるんだ。	요가가 느리고 효과도 나타나지 않는 것 같지만, 막상 하고 나면 긴장을 해소할 수 있어.	It might seem like it takes a long time to see any progress with yoga, but even a single session can help you relax as well.						0	
+23	因为瑜伽可以调节神经系统，缓解紧张情绪，减小压力。	因為瑜珈可以調節神經系統，緩解緊張情緒，減少壓力。	神経系を調節し、緊張を緩和してストレスを軽減させられるからだ。	요가는 신경 계통을 단련하고 긴장한 감정을 풀어주고 스트레스를 해소해 주거든.	Because yoga can regulate your nervous system, release tension, and reduce stress.						0	
+24	所以非常适合因工作久坐，颈椎和关节僵硬的人群。	所以非常適合因工作久坐，肩頸和關節僵硬的人群。	つまり、仕事で長時間座って、首や関節が凝っている人にはぴったりだ。	그래서 오래 앉아서 일하는 사람들, 그리고 척추와 관절들이 굳은 사람들에게 괜찮은 종목이야.	So it's perfect for people who sit for long periods at their jobs or have stiff joints.						0	
+25	久坐！关节僵硬！不得不说，有些诱惑力。	久坐！關節僵硬！不得不說有點吸引力。	なるほど！なかなか魅力的なセリフだな。	오래 앉아서 일하는, 관절이 굳은 사람에게 좋다고 하니 확실히 솔깃하긴 했다.	Sit for long periods? Stiff joints? That was me! I couldn't deny how tempting it sounded.						0	
+b-5											0	
+26	我感兴趣了。	我感興趣了。	興味が湧いてきた。	관심이 가네요.	Alright, I'm interested.						0	
+27	当然，分析员，你试试就知道了，我可以帮你拟一份训练计划。	嗯嗯，分析員，你試試就知道了，我可以幫你制定一份訓練計劃。	分析員、試してみたらどうだ？トレーニングの企画書を作ってあげてもいいよ。	좋아, 분석가. 직접 해보면 알 수 있을 거야. 내가 대신 훈련 계획을 짜줄 수 있어.	Good. You'll see what I'm talking about after you try it, Adjutant. I can help you put together a training plan.						0	
+28	还有动作相关的视频教程，也可以一起发送给你。	還有動作相關的影片教學，也可以一起發給你。	正しい姿勢を教える動画資料もあるから、一緒に送ろう。	그리고 요가 동작에 관련된 영상 튜토리얼도 함께 보내줄게.	I'll send you some video tutorials for certain moves too.						0	
+29	真好，帮大忙了。	真好，幫了一個大忙。	よかった、助かる。	좋다. 큰 도움이 될 수 있을 것 같다.	Perfect — she was a lifesaver.						0	
+30	在这些事情上，晴总是有超出常人的专业度。	在這些事情上，晴總是有超出常人的專業度。	こういうことに関しては、晴は常に人並み以上の知識を持っている。	이런 영역에 있어 하루는 항상 비범한 전문성을 지니고 있었다.	Haru always went above and beyond in these types of situations.						0	
+31	父亲告诉过我，身体是最重要的武器。	父親告訴過我，身體是最重要的武器。	身体が一番大事な武器だと、父から教わったんだ。	아버지는 우리가 가진 신체가 가장 중요한 무기라고 하셨어.	My father taught me that our bodies are our most important weapon.						0	
+32	对于武器的维护、保养，永远都是制胜关键。	對於武器的維護、保養，永遠都是致勝關鍵。	武器の整備やメンテナンスこそ勝利への鍵なんだ。	그리고 무기를 정비하는 건 언제나 승패를 가르는 중요한 요소라고 하셨고.	Maintaining and caring for your weapon is vital to success.						0	
+33	分析员，你作为海姆达尔部队的核心，可不能先把自己累垮。	分析員，你作為海姆達爾部隊的核心，可不能先把自己累垮。	分析員、ヘイムダル部隊の心臓であるあなたが過労で倒れたりしないようにな。	분석가는 헤임달 부대의 핵심이니까 절대 쓰러져선 안 돼.	You're the core of the Heimdall Force, Adjutant. You can't get too tired or stretched too thin.						0	
+34	这个比喻很有晴的风格。	這個比喻很有晴的風格。	いかにも晴らしいな、その比喩は。	하루다운 비유다.	...Was that a yoga-themed metaphor?						0	
+35	为了不让她失望，同时也是为了我嘎吱作响的关节……	為了不讓她失望，同時也是為了我嘎吱作響的關節……	彼女の気遣いに応えるよう、それにガタが来た自分の関節のためにも……	그녀를 실망하게 하지 않기 위해, 그리고 삐걱대는 내 관절을 위해…	To both avoid disappointing her and to save my creaking joints...						0	
+36	瑜伽，值得一试。	瑜珈，值得一試。	ヨガをやってみよう。	요가를 시도해 볼 만한 것 같다.	I decided that yoga was worth a try.						0	

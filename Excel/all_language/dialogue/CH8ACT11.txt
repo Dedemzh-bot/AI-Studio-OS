@@ -1,0 +1,5 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这种升降机，这个速度……有不好的预感。	這種升降機，這個速度……有不好的預感。	こんなエレベーターでこのスピード……嫌な予感がする。	이 승강기에 이 속도… 뭔가 불길한 예감이 들어.	That helicopter model and its speed... give me a bad feeling.						0	
+2	欸，是什么样的预感？	欸，是什麼樣的預感？	え、どういう予感？	무슨 예감?	Eh, what kind of bad feeling?						0	
+3	你没有打过游戏吗？一般这种时候都会遇到敌人。	你沒有打過遊戲嗎？通常這種時候都會遇到敵人。	ゲームやったことないの？普通こういう時、敵が現れる。	한 번도 게임해본 적 없지? 꼭 이맘때쯤에 타깃을 만나게 되거든.	Haven't you done any gaming? This is around the time when enemies show up.						0	

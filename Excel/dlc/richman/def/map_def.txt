@@ -1,0 +1,6 @@
+﻿地图Id	每隔多少天价格上涨	初始卡牌集合(id,权重;id,权重)	初始卡牌数量	地图类型(0:传统战,1:道具战)	最大回合	初始金钱	队伍最大金钱	大富翁地图ID 对应map.txt	地图描述	任务目标
+id	day_price_rise	init_cards	card_num	type	max_round	init_money	max_money	map_id	map_des	map_target
+1	4	1,100;2,50;3,100;5,400;9,50;13,50;7,10	2	0	30	30000		1001	season_item.TxtRichUIMapdes1	season_task.richmantask1.desc
+2	4	1,100;2,50;3,100;5,400;9,50;13,50;7,10	2	0	30	40000		1002	season_item.TxtRichUIMapdes2	season_task.richmantask2.desc
+3	4	1,100;2,50;3,100;5,400;9,50;13,50;7,10	2	1	30	40000		1003	season_item.TxtRichUIMapdes3	season_task.richmantask3.desc
+4	4	1,100;2,50;3,300;5,400;9,50;13,50;7,300	2	0	30	0		1004	season_item.TxtRichUIMapdes4	season_task.richmantask4.desc

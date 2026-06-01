@@ -1,0 +1,4 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0	系统提示			不愧是辰星小姐，看来<orange>地之试炼</>也无法难倒你。	0	
+2		0	系统提示			第三道试炼，<orange>人之试炼</>才是真正的重点。	0	

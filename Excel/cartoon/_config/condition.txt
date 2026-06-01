@@ -1,0 +1,55 @@
+﻿ID	说明	条件内容	
+Id	Desc	Condition	
+dlc3_1001	101与npc对话，进行中	ExploreMission:CheckMissionStatus(101) == 3	
+dlc3_1002	101与npc对话，已完成	ExploreMission:CheckMissionStatus(101) == 2	
+dlc3_1003	104找碎片3，进行中	ExploreMission:CheckMissionStatus(104) == 3	
+dlc3_1004	104找碎片3，已完成	ExploreMission:CheckMissionStatus(104) == 2	
+dlc3_1005	105与npc对话，进行中	ExploreMission:CheckMissionStatus(105) == 3	
+dlc3_1006	105与npc对话，已完成	ExploreMission:CheckMissionStatus(105) == 2	
+dlc3_1007	102找碎片1，已完成	ExploreMission:CheckMissionStatus(102) == 2	
+dlc3_1008	103找碎片2，已完成	ExploreMission:CheckMissionStatus(103) == 2	
+			
+			
+dlc3_2001	201与npc对话，进行中	ExploreMission:CheckMissionStatus(201) == 3	
+dlc3_2002	201与npc对话，已完成	ExploreMission:CheckMissionStatus(201) == 2	
+dlc3_2003	204找碎片3，进行中	ExploreMission:CheckMissionStatus(204) == 3	
+dlc3_2004	204找碎片3，已完成	ExploreMission:CheckMissionStatus(204) == 2	
+dlc3_2005	205与npc对话，进行中	ExploreMission:CheckMissionStatus(205) == 3	
+dlc3_2006	205与npc对话，已完成	ExploreMission:CheckMissionStatus(205) == 2	
+dlc3_2007	202找碎片1，已完成	ExploreMission:CheckMissionStatus(202) == 2	
+dlc3_2008	203找碎片2，已完成	ExploreMission:CheckMissionStatus(203) == 2	
+			
+			
+			
+dlc3_3001	301与npc对话，进行中	ExploreMission:CheckMissionStatus(301) == 3	
+dlc3_3002	301与npc对话，已完成	ExploreMission:CheckMissionStatus(301) == 2	
+dlc3_3003	304找碎片3，进行中	ExploreMission:CheckMissionStatus(304) == 3	
+dlc3_3004	304找碎片3，已完成	ExploreMission:CheckMissionStatus(304) == 2	
+dlc3_3005	305与npc对话，进行中	ExploreMission:CheckMissionStatus(305) == 3	
+dlc3_3006	305与npc对话，已完成	ExploreMission:CheckMissionStatus(305) == 2	
+dlc3_3007	302找碎片1，已完成	ExploreMission:CheckMissionStatus(302) == 2	
+dlc3_3008	303找碎片2，已完成	ExploreMission:CheckMissionStatus(303) == 2	
+			
+			
+			
+dlc3_4001	403回到码头找npc，进行中	ExploreMission:CheckMissionStatus(403) == 3	
+dlc3_4002	403回到码头找npc，已完成	ExploreMission:CheckMissionStatus(403) == 2	
+			
+	//---------以下是注释，不要删		
+	任务已经完成		ExploreMission:CheckMissionStatus(1) == 2
+	任务未开始		ExploreMission:CheckMissionStatus(1) = 0
+	任务进行中		ExploreMission:CheckMissionStatus(1) == 3
+	任务完成，可以领奖		ExploreMission:CheckMissionStatus(1) == 1
+			
+			
+			
+AccomStart11	入场选了话题1-1	AS11	
+AccomStart12	入场选了话题1-2	AS12	
+AccomStart13	入场选了话题1-3	AS13	
+AccomStart21	入场选了话题2-1	AS21	
+AccomStart22	入场选了话题2-2	AS22	
+AccomStart23	入场选了话题2-3	AS23	
+			
+CMhu5_101	五分钟到一小时	LongerThan300	
+CMhu1h_101	1小时-12h	LongerThan3600	
+CMhu12h_101	挂机超过12小时	LongerThan43200	

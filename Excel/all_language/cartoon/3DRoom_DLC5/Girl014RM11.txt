@@ -1,0 +1,17 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	路过辰星的房间，发现了一个巨大的包裹……其尺寸已远远超过了房门。	路過辰星的房間，發現了一個巨大的包裹……其尺寸已遠遠超過了房門。	辰星の部屋を通りかかると、そこには巨大な包みがあった……そのサイズはドアの幅を遥かに超えている。	수성의 방을 지나다가 커다란 택배를 발견했는데… 그 사이즈는 방문보다 훨씬 커보였다.	While I was walking by Chenxing's room, I spotted a massive package that was... way bigger than the door.						0	
+page1.2	辰星，门口包裹里的是？	辰星，門口包裹裡的是？	辰星、その包みは？	수성, 문 앞에 택배는 뭐죠?	Chenxing, what's that package outside your door?						0	
+page1.3	见笑了，那是我新买的冰箱。	見笑了，那是我新買的冰箱。	お見苦しいところを。あれは私が買った冷蔵庫です。	아, 그건 새로 산 냉장고예요.	Oh, sorry, that's the new fridge I bought.						0	
+page1.4	但如你所见，尺寸貌似有些太大了。	但如你所見，尺寸看起來有些太大了。	ご覧の通り。寸法を見誤ってしまい……	보시다시피 사이즈가 조금… 커요.	But as you can probably tell, it's a little too big.						0	
+page1.5	没想到你也有粗心的时候啊。	沒想到你也有粗心的時候。	辰星がそんなミスをするとは、意外だな。	수성도 가끔은 실수를 하나 보네요.	I didn't think you could get careless sometimes too.						0	
+page1.6	嗯，毕竟是相当严峻的状况，我有些操之过急了。	嗯，畢竟是相當嚴峻的狀況，我有些操之過急了。	ええ、かなりの緊急事態だったので、つい焦ってしまいました。	너무 급박한 상황이라 제가 좀 성급했던 거 같아요.	Yep. Things were getting pretty serious, so I was in a rush.						0	
+page1.7	什么情况？	什麼情況？	緊急事態って？	급박한 상황이요?	What happened?						0	
+page1.8	最近陆陆续续从老家收到了大批的饺子，公司配给的冰箱已经装不下了。	最近陸陸續續從老家收到了大批的餃子，公司配給的冰箱已經裝不下了。	実家から大量の餃子が届いたのです。会社の冷蔵庫には入りきらない量で。	최근 집에서 대량의 만두를 받았는데, 회사에서 제공한 냉장고에는 담을 수가 없어서요.	I recently got a bunch of dumplings from my hometown, and there was no more room in the company fridge.						0	
+page1.9	这样啊，说起来确实也到吃饺子的时候了。	這樣啊，說起來確實也到吃餃子的時候了。	そうか。辰星の実家は朔州だったな。	아, 그러고 보니 요즘 만두를 먹는 시기긴 하네요.	I see. This is a great time of year to eat dumplings too.						0	
+page1.10	如果一个人吃不完的话，可以试着分给大家？	如果一個人吃不完的話，可以試著分給大家？	一人で食べきれないなら、みんなに分けてみたらどうだ？	혼자서 다 못 먹겠으면 대원들한테 나눠주는 건 어때요?	If you can't finish them all by yourself, why don't you share them with everyone?						0	
+page1.11	原来如此，这确实是个好方法。	原來如此，這確實是個好方法。	なるほど。名案です。	좋은 생각이네요!	I see. That's not a bad idea.						0	
+page1.12	我很期待尝到地道的朔州饺子哦。	我很期待嚐到道地的朔州餃子哦。	本場の朔州の餃子、楽しみにしてるぞ。	정통 삭주 만두를 먹을 수 있다니, 저도 기대되는데요!	I'm really looking forward to trying some authentic Shuozhou dumplings.						0	
+page1.13	哎？分析员很期待吗……	哎？分析員很期待嗎……	ん？そんなに期待しているのでしたら……	아? 기대까지…	Eh? You're really looking forward to it, Adjutant...?						0	
+page1.14	既然如此，那还是由我亲手包新鲜的比较好。	既然如此，那還是由我親手包新鮮的比較好。	私が手作りして差し上げましょうか。	그럼 제가 직접 만두를 빚는 게 좋겠네요.	In that case, I should make some fresh ones myself.						0	
+page1.15	那样饺子的数量不是又要增加了吗……	那樣餃子的數量不是又要增加了嗎……	そんなことをしたら、また餃子が増えるんじゃないのか……	그럼 안그래도 많은 만두 수량이 더 늘어나지 않을까요?	Then you're going to have even more dumplings...						0	

@@ -1,0 +1,29 @@
+﻿主键ID	//注释	图标	名字	物品描述	机制效果	额外参数	基础分值	品质1绿2蓝3紫4橙	类型1基础币2彩蛋币3特殊币4坏币	标签	未解锁提示	解锁条件	购买价格	出售价格
+CoinID	Comment	Icon	Name	Desc	Effect	ExtraParam	Pt	Quality	Type	Tag	LockTip	UnlockCondition	PayPrice	SalePrice
+1	基础币	1545401	house.Coinpusher_CoinName1	house.Coinpusher_CoinDesc1			2	1	1	4				
+2	彩蛋币-自身分数提升x（先加再乘）（参数显示用：{1}分数；额外参数：分数）	1545402	house.Coinpusher_CoinName2	house.Coinpusher_CoinDesc2_1	{3,10}	{"ptchange",10}	5	2	2	3				
+3	彩蛋币-结算时额外获得x票券（乘完再加）（参数：{1}票券数量）	1545402	house.Coinpusher_CoinName2	house.Coinpusher_CoinDesc2_2	{4,10}		5	2	2	3				
+4	彩蛋币-结算时额外获得x基础币（需手动投出）（参数：{1}基础币数量）	1545402	house.Coinpusher_CoinName2	house.Coinpusher_CoinDesc2_3	{5,2}		5	2	2	3				
+														
+101	特殊币-狙击-摧毁一定范围内的坏币，每次摧毁可获得x票券。攻击3次后自毁（结算）（参数：{1}获得票券数量；额外参数：生效次数,狙击范围）	1545403	house.Coinpusher_CoinName101	house.Coinpusher_CoinDesc101	{6,30}	{"times",1},{"radius",100}	30	4	3	1,5			45	23
+102	特殊币-星星-向机台范围的随机一枚基础币跳跃，将落点及周围的基础币立即转化为彩蛋币。跳跃1次（额外参数：生效次数，转化范围）	1545404	house.Coinpusher_CoinName102	house.Coinpusher_CoinDesc102		{"times",1},{"radius",7}	15	2	3	3,5			8	4
+103	特殊币-纸鹤-存在场上时，彩蛋币转化率+x%（参数：{1}概率）	1545405	house.Coinpusher_CoinName103	house.Coinpusher_CoinDesc103	{1,2}		2	1	3	4,5	house.Coinpusher_Coin103LockTip	{4,20}	6	3
+104	特殊币-种子-将范围内的阳光、肥料作为养分吸收，吸收5个养分时立即成长为币树完全体。养分不足时，在下回合开始时根据不同的已吸收养分数量长成不同币树成长体(参数：{1}满养分值；额外参数：吸收范围）	1545406	house.Coinpusher_CoinName104	house.Coinpusher_CoinDesc104	{7,5}	{"radius",15},{"extranum",5}	10	2	3	3,5			8	4
+105	特殊币-阳光-被范围内的种子币吸收过去变为养分，之后自毁（不结算）（额外参数：被吸收范围）	1545407	house.Coinpusher_CoinName105	house.Coinpusher_CoinDesc105		{"radius",15}	2	1	3	4,5			15	8
+106	特殊币-肥料-被范围内的种子币吸收过去变为养分，之后自毁（不结算）（额外参数：被吸收范围）	1545408	house.Coinpusher_CoinName106	house.Coinpusher_CoinDesc106		{"radius",15}	1	1	3	4,5			15	8
+107	特殊币-小花-每次主动投币时，场上存在的每枚小花都有x%概率产出x枚阳光。下回合开始时，小花转化为枯萎花瓣。（参数：{1}概率；{2}数量）	1545409	house.Coinpusher_CoinName107	house.Coinpusher_CoinDesc107	{12,{2,1}}		20	3	3	2,5			25	13
+108	特殊币-枯萎花瓣-范围内存在其他枯萎花瓣时，自身及其他枯萎花瓣都转化为肥料。进入新回合时，x%概率生成小币树。(参数：{1}概率；额外参数：范围）	1545410	house.Coinpusher_CoinName108	house.Coinpusher_CoinDesc108	{13,10}	{"radius",9}	8	2	3	3,5				
+109	特殊币-小猪储蓄罐-投出时，消耗x%当前票券。消耗的每x张票券，使自身分数+x（参数：{1}消耗百分比，{2}票券数量，{3}分值）	1545411	house.Coinpusher_CoinName109	house.Coinpusher_CoinDesc109	{14,{50,1,0.2}}		4	4	3	1,5	house.Coinpusher_Coin109LockTip	{6,100}	45	23
+110	特殊币-银行-投出后，记录从此刻开始，推落结算获得的票券数。下回合开始时，立即获得记录数量x票券倍率的票券（当前已记录：%s）	1545412	house.Coinpusher_CoinName110	house.Coinpusher_CoinDesc110	{15}		15	3	3	2,5			25	13
+111	特殊币-大涨-存在场上时，票券倍率+x（参数：变化值）	1545413	house.Coinpusher_CoinName111	house.Coinpusher_CoinDesc111	{16,1}		5	2	3	3,5			20	10
+112	特殊币-给我钱-结算时，额外获得x~y票券（参数：{1}票券数量下限；{2}票券数量上限）	1545414	house.Coinpusher_CoinName112	house.Coinpusher_CoinDesc112	{17,[2,10]}		1	1	3	4,5			4	2
+113	特殊币-钱串-每回合开始时，自身分数+x（参数：{1}分值）	1545415	house.Coinpusher_CoinName113	house.Coinpusher_CoinDesc113	{3,25}	{"ptchange",25}	2	1	3	4,5			4	2
+114	特殊币-陨石-在落点爆炸，将范围内其他硬币大力推开（额外参数：冲力，生效范围）	1545416	house.Coinpusher_CoinName114	house.Coinpusher_CoinDesc114		{"force",200},{"radius",10}	2	2	3	3,5			8	4
+115	特殊币-双行星-吸引范围内的随机1枚基础分值＜自身的硬币，使对方基础分值与自身相等（参数：{1}数量；额外参数：吸引范围）	1545417	house.Coinpusher_CoinName115	house.Coinpusher_CoinDesc115	{18,1}	{"radius",30}	25	3	3	2,5			25	13
+														
+201	坏币-钻头-存在场上时，累计能量点要求的连击数+2（参数：{1}连击数增值）	1545501	house.Coinpusher_CoinName201	house.Coinpusher_CoinDesc201	{19,2}		0	1	4	4,6				
+202	坏币-盒子-存在场上时，彩蛋币转化率-2%（参数：{1}变化百分比）	1545502	house.Coinpusher_CoinName202	house.Coinpusher_CoinDesc202	{1,-2}		0	1	4	4,6				
+203	坏币-无人机-存在场上时，每回合开始时，失去10x票券倍率数量的票券（参数：{1}基础数量）	1545503	house.Coinpusher_CoinName203	house.Coinpusher_CoinDesc203	{20,-10}		0	1	4	4,6				
+204	坏币-噬咬球-存在场上时，无法兑币	1545504	house.Coinpusher_CoinName204	house.Coinpusher_CoinDesc204	{21}		0	1	4	4,6				
+205	坏币-大眼-存在场上时，所有镀层无法生效	1545505	house.Coinpusher_CoinName205	house.Coinpusher_CoinDesc205	{22}		0	1	4	4,6				
+206	坏币-三角-存在场上时，所有幸运礼物无法发挥作用	1545506	house.Coinpusher_CoinName206	house.Coinpusher_CoinDesc206	{23}		0	1	4	4,6				

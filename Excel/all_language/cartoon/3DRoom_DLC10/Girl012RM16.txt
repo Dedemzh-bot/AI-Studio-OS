@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	你在做什么？	你在做什麼？	君はなにをしているんだ？	뭐 하고 있어?	What are you up to?						0	
+page1.2	在研究关乎安全感和舒适性的事情喵。	在研究關於安全感和舒適性的事情喵。	安心感と住みやすさについて研究中ニャン。	안전감과 편안함에 대해 연구하고 있다냥.	I'm researching security and comfort, nya.						0	
+page1.3	嗯，猫喜欢钻箱子，猫汐尔也会对此有兴趣吗？	嗯，貓喜歡鑽箱子，貓汐爾也會對此有興趣嗎？	そういえばネコは段ボールが好きだったな。マーシルも興味があるのか？	응, 냥이는 상자에 들어가는 걸 좋아하는데 너도 그래?	Well, cats do like stuffing themselves into boxes. Do you like that too, Mauxir?						0	
+page1.4	不太有兴趣。	不太有興趣。	別に。	별로 관심이 없어.	Not really.						0	
+page1.5	害羞不愿意承认吗？	害羞不願意承認嗎？	恥ずかしくて認められないのか？	부끄러워서 인정하기 싫은 거야?	Are you too shy to admit it?						0	
+page1.6	……理解不了分析员的逻辑喵。	……理解不了分析員的邏輯喵。	……分析員の言ってる意味がわからないニャン。	… 분석가의 논리를 이해할 수 없다냥.	...Adjutant, I don't understand your logic, nya.						0	
+page1.7	分析员要试试吗？	分析員要試試嗎？	分析員もやってみる？	분석가가 한번 해볼래?	Do you want to try, Adjutant?						0	
+page1.8	居然还大方的将箱子分享给我吗？不过话说回来，这箱子是不是太大了一点，连我都能装进去。	居然還大方的將箱子分享給我嗎？不過話說回來，這箱子是不是太大了一點，連我都能裝進去。	私も試していいのか？でも、この箱はちょっと大きすぎないか？私ですら余裕で入れるぞ。	상자를 나눠주다니 대단한데? 그런데 이 상자는 너무 큰 거 아니야? 나도 들어갈 수 있을 정도네.	You'd be willing to share this box with me? That's so generous. But isn't this box a little big? Even I can fit inside.						0	
+page1.9	猫的话应该会选择更小更合适的箱子吧。	貓的話應該會選擇更小更合適的箱子吧。	ネコならもっと小さくてぴったりのサイズを選ぶんじゃないかな。	고양이라면 더 작고 적합한 상자를 선택하겠지.	If it's for a cat, a smaller box would be better.						0	
+page1.10	因为就是给分析员准备的喵。	因為就是準備給分析員的喵。	分析員のために用意した箱だからニャン。	왜냐하면 이건 처음부터 분석가를 위해 준비한 거다냥.	That's because I specially prepared it for you, nya.						0	
+page1.11	……	……	……	…	...						0	
+page1.12	……	……	……	…	...						0	
+page1.13	猫汐尔为什么会想送我这个？	貓汐爾為什麼會想送我這個？	なんでマーシルは私にこれを？	캣 시에라는 왜 이걸 주려는 거야?	Mauxir, why did you want to give me this?						0	
+page1.14	有想去的地方喵，但是分析员应该不会允许。所以只要把分析员一起偷偷带过去就好了。	有想去的地方喵，但是分析員應該不會允許。所以只要把分析員一起偷偷帶過去就好了。	行きたい場所があるニャン。でも分析員は許してくれなさそうだから、分析員を連れて行けばいいんじゃないかと思って。	가고 싶은 곳이 있다냥, 하지만 분석가가 허락하지 않을 것 같아서 그냥 분석가를 몰래 데려고 싶다냥.	I want to go somewhere, nya, but I don't think you'll allow it. So I wanted to bring you with me secretly.						0	
+page1.15	所以是用来绑架我的啊！	所以是用來綁架我的啊！	私を誘拐するために用意したのか！？	날 납치하려는 거구나!	So you were trying to kidnap me!						0	
+page1.16	不是绑架喵，我会努力征得分析员同意的。	不是綁架喵，我會努力徵得分析員同意的。	誘拐じゃないニャン。ちゃんと分析員の同意を得てるからね。	납치가 아니다냥, 분석가의 동의를 구할 거다냥.	It's not kidnapping, nya. I'll do my best to make you agree.						0	
+page1.17	到地方才征求吗？？	到地方才徵求嗎？？	誘拐してから得ても遅くないか？	그 장소에 다 도착하고 나서 동의를 구한다고??	So you were going to ask me after we had already arrived???						0	
+page1.18	这样得到同意的概率更高喵。	這樣得到同意的機率更高喵。	こっちのほうが同意してくれそうだからニャン。	그렇게 하면 동의를 받을 확률이 더 높다냥.	There is a higher probability that you would agree in that instance, nya.						0	
+page1.19	旧时代也有这样的谈判逻辑，觉得屋子太暗要开窗被拒绝的话，就先提出掀屋顶的要求，这样就会被同意开窗了。	舊時代也有這樣的談判邏輯，覺得屋子太暗要開窗被拒絕的話，就先提出掀屋頂的要求，這樣就會被同意開窗了。	こういう交渉のやり方は昔からあるニャン。例えば部屋が暗くて窓を開けたいっていう要求が通らなくても、先に屋根をぶっ壊したいって言えば、窓の要求をすんなり呑んでくれるんだよ。	옛날에도 이런 협상 논리가 있었다냥. 집이 너무 어두워서 창문을 열자고 했을 때 거절당하면, 먼저 지붕을 열자고 제안해서 결국 창문을 여는 걸로 동의받는 거다냥.	A long time ago, people also used similar negotiation logic. For example, say you want to open a window because it's too dark, but you think your request will be rejected. You first ask to destroy the roof, then they will instead agree to open the window.						0	
+page1.20	你确定你这是叫谈判而不是威胁？	你確定你這是叫談判而不是威脅？	それは交渉ではなく脅迫じゃないか？	협상이 확실해? 협박은 아니고?	Are you sure this is a negotiation and not a threat?						0	
+page1.21	我会保护分析员的喵。可以确定99.9%没有危险喵。	我會保護分析員的喵。可以確定99.9%沒有危險喵。	分析員を絶対に守るからニャン。99.9%、危険はないって保障するニャン。	내가 분석가를 지킬겠다냥. 99.9% 안전할 거다냥.	I will protect you, nya. I am 99.9% certain there will be no danger involved.						0	
+page1.22	我还没同意你去……	我還沒同意你去……	まだ同意してないだろ……	아직 간다고는 안 했어…	I haven't agreed to let you go yet...						0	
+page1.23	记录，分析员的行为逻辑有会耍赖的成分。	記錄，分析員的行為邏輯有會耍賴的成分。	記録によると、分析員は時々言葉で誤魔化すからね。	기록, 분석가의 행동 논리에 '한 입으로 두말하는 경향'이 있음.	Noted. The Adjutant's behavioral logic involves a certain element of cheating.						0	
+page1.24	没耍赖啊，都说了还没同意！	沒耍賴啊，都說了還沒同意！	まだ誤魔化してない！というか同意してないって言ってるだろ！	떼쓴 거 아니야, 아직 동의 안 했다니까!	I'm not cheating! I said I still didn't agree!						0	

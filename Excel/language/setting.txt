@@ -1,0 +1,373 @@
+﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	disable	Remark
+low	低	0	
+middle	中	0	
+high	高	0	
+extra_high	极高	0	
+open	开启	0	
+close	关闭	0	
+normal	普通	0	
+advanced	高级	0	
+definition	画面清晰度	0	
+effect	视觉效果	0	
+shadow	阴影质量	0	
+jag	抗锯齿	0	
+resolution	分辨率	0	
+fps	帧率上限	0	
+mirror	实时反射	0	
+post	后期效果	0	
+glow	辉光	0	
+wrap	扭曲	0	
+depath	景深	0	
+blur	动态模糊	0	
+two	2倍	0	
+four	4倍	0	
+eight	8倍	0	
+fps1	30	0	
+fps2	45	0	
+fps3	60	0	
+fps4	90	0	
+fps5	120	0	
+img_quality	图像质量	0	
+language_select	语音语言选择	0	
+zh_CN	简体中文	0	
+ja_JP	繁體中文	0	
+zh_TW	日本語	0	
+ko_KR	한국어	0	
+en_US	English	0	
+de_DE	Deutsch	0	
+es_ES	Español	0	
+fr_FR	Français	0	
+th_TH	ไทย	0	
+id_ID	Bahasa Indonesia	0	
+1003050	中文-普通话	0	
+1003039	日语	0	
+1003038	英语	0	
+1003040	韩语	0	
+font_size	提示字大小	0	
+general	正常	0	
+small	小	0	
+operation_setting	操作设置	0	
+frame_setting	画面设置	0	
+sounds_setting	声音设置	0	
+other_setting	其他设置	0	
+sensitivity_setting	灵敏度设置	0	
+basis_setting	基础设置	0	
+push_setting	推送设置	0	
+gameplay_setting	游戏性设置	0	
+mouse_setting	鼠标设置	0	
+operation_setting_en	OPERATION SETTING	0	
+frame_setting_en	GRAPHICS SETTING	0	
+sounds_setting_en	SOUND SETTING	0	
+other_setting_en	OTHER SETTING	0	
+sound_role	语音	0	
+music_game	音乐	0	
+sounds_game	音效	0	
+pc_slide	鼠标灵敏度	0	
+slide	转向灵敏度	0	
+aim_fire	瞄准开火	0	
+aim	瞄准灵敏度	0	
+fire	开火	0	
+skill	技能	0	
+acc	加速度	0	
+awm_aim_slide	狙击开镜灵敏度	0	
+custom	自定义	0	
+BBBS_mode	游戏射击模式	0	
+BBBStype1	智能瞄准	0	
+BBBStype2	普通瞄准	0	
+aim_assist_strength	辅助瞄准	0	
+crosshair_adsorb	准心吸附	0	
+crosshair_force	瞄准矫正	0	
+strong	强	0	
+weak	弱	0	
+skill_frame	技能锁定提示	0	
+Auto_Fire	长按开火键可持续开火	0	
+keyboard	键鼠设置	0	
+protocolTitle	账号相关	0	
+protocolBtn1	用户协议	0	
+protocolBtn2	隐私政策	0	
+protocolBtn3	儿童隐私协议	0	
+protocolBtn4	测试协议	0	
+gyroscope_aim	陀螺仪模式	0	
+gyroscope_invert	陀螺仪反转	0	
+damage_show	显示伤害数字	0	
+pc_mouse_invert	鼠标反转	0	
+gyroscope_scale	陀螺仪灵敏度	0	
+invertX	反转横轴	0	
+invertY	反转纵轴	0	
+invertXY	都反转	0	
+fight_broadcast	战斗中通知显示	0	
+joystic_fixed	固定摇杆	0	
+skill_range	技能范围提示	0	
+skill_tip	技能范围提示方式	0	
+click	单击按键	0	
+press	持续按键	0	
+sounds_game_volume	总音量	0	
+sounds_game_quality	音效品质	0	
+sounds_game_effects	低弹量音效	0	
+notice_disturb	公告弹出	0	
+notice_login	每日首次登录时	0	
+notice_new	仅新公告时	0	
+shoot_auto	自动射击	0	
+shoot_auto_bunker	躲在掩体后自动射击	0	
+shoot_auto_guntype	自动射击枪械类型	0	
+shoot_auto_explosive	自动射击可破坏物品	0	DLC2.3设置新增项
+guntype1	手枪	0	
+guntype2	冲锋枪	0	
+guntype3	突击步枪	0	
+guntype4	狙击枪	0	
+guntype5	霰弹枪	0	
+guntype6	弩	0	
+guntype7	双枪·冲锋枪	0	
+guntype8	弓	0	
+guntype9	格林机枪	0	
+guntype10	飞剑	0	
+smart_casting	释放技能辅助（使用手柄时，本功能无法关闭）	0	
+sniper_fire	狙击枪击发方式	0	
+shot_gun_fire	霰弹枪击发方式	0	
+pisto_fire	手枪击发方式	0	
+mix_aim	混合射击按钮	0	
+left_hand_fire	显示左手开火	0	
+aim_swerve	瞄准按钮转向	0	
+aim_model	瞄准方式	0	
+fire_adsorb	开火吸附	0	
+sniper_slide	狙击枪瞄准灵敏度	0	
+null	无	0	
+after_aim	只在瞄准后开火	0	
+meantime_aim	进瞄准同时开火	0	
+mix	混合	0	
+permanent_show	常驻显示	0	
+normal_show	常驻开启	0	
+aim_show	开镜开启	0	
+bunker_show	掩体内开启	0	
+display_none	不显示	0	
+click_switch_aim	切换瞄准	0	
+long_press_aim	按住瞄准	0	
+mix_effect	混合瞄准	0	
+shot_auto	自动射击	0	
+shot_hand	手动射击	0	
+press_fire	按下开火	0	
+release_fire	松手开火	0	
+only_aim_open	开镜开启	0	
+always_open	始终开启	0	
+turning_accelerate	转向加速度	0	
+rush_model	疾跑方式	0	
+autorush_model	自动疾跑	0	
+rush_press	按住疾跑	0	
+rush_switch	切换疾跑	0	
+boomwarn	显示炸药桶预警圈	0	
+protocolBtn5	游戏使用协议	0	
+protocolBtn6	《尘白禁区》第三方SDK列表	0	
+protocolBtn7	《尘白禁区》隐私政策	0	
+protocolBtn8	注销游戏账号	0	
+protocolBtn9	資金決済法	1000	
+protocolBtn10	特定商取引法	1000	
+protocolCtrl	查看	0	
+protocolGoto	前往	0	
+language	语言设置	0	
+game_language	游戏语言	0	
+game_voice	游戏整体语音	0	
+game_voice_tips	设置游戏整体语音为“%s”，将修改部分队员单独的语音设置，是否确认设置？	0	
+fire_swerve	开火按钮转向	0	
+cn_voice	国语	0	
+customer_service	客户服务	0	
+contact	联系客服	0	
+goto	前往	0	
+keyboardType	键盘	0	
+gamepadType	手柄	0	
+window_size	显示模式	0	
+no_border_full_screen	无边框全屏	0	
+full_screen	全屏	0	
+windowed	窗口化	0	
+2560x1440	2560x1440	0	
+1920x1080	1920x1080	0	
+1680x1050	1680x1050	0	
+1600x1024	1600x1024	0	
+1600x900	1600x900	0	
+1366x768	1366x768	0	
+1360x768	1360x768	0	
+1280x960	1280x960	0	
+1280x800	1280x800	0	
+1280x768	1280x768	0	
+1280x720	1280x720	0	
+1152x864	1152x864	0	
+1024x768	1024x768	0	
+800x600	800x600	0	
+1280x1024	1280x1024	0	
+3840x2160	3840x2160	0	
+2560x1600	2560x1600	0	
+2048x1536	2048x1536	0	
+1960x2160	1960x2160	0	
+rendering	渲染精度	0	
+run_type	奔跑方式	0	
+run_type1	长按闪避	0	
+run_type2	拖动摇杆	0	
+run_type3	都开启	0	
+deflection	显示跳弹提示	0	
+shoot_view1	瞄准按钮支持转动视角	0	
+shoot_view2	开火按钮支持转动视角	0	
+shoot_view3	混合射击按钮支持转动视角	0	
+sensitivity	灵敏度设置	0	
+sensitivity1	不开镜	0	
+sensitivity2	开镜	0	
+sensitivity3	狙击枪开镜	0	
+datainput	原始数据输入	0	
+msg_push	消息推送	0	
+energy_full	感知回满	0	
+effects	特效质量	0	
+scene	场景细节	0	
+texture	贴图质量	0	
+FXTAA	FXAA	0	
+TAA	TAA	0	
+PlusTAA	增强TAA	0	
+plus	增强	0	
+fpsMax	最大帧率	0	
+vertical	垂直同步	0	
+frog	体积雾	0	
+vacuumization	虚化效果	0	
+verticalslide	纵向滑动比值	0	
+damage_txt_show	显示战斗跳字	0	
+damage_txt_show1	伤害数字	0	
+damage_txt_show2	“跳弹”提示	0	
+damage_txt_show3	“破坏”提示	0	
+damage_txt_show4	“免疫控制”提示	0	
+selectall	全选	0	
+selectpart	部分选择	0	
+selectnone	暂未选择	0	
+Account1	官方账号	0	
+Account2	X账号	0	
+Account3	苹果账号	0	
+Account4	脸书账号	0	
+Account5	谷歌账号	0	
+Account6	Steam账号	0	
+Account7	DMM账号	0	
+exchange_code	兑换码	0	
+exchange_go	前往兑换	0	
+relevancy	关联	0	
+back_to_login_title	返回登录界面	0	
+back_to_login_btn	前往界面	0	
+handle_keyboard	键位配置	0	
+handle_autoaim	辅助瞄准	0	
+handle_shake	手柄震动	0	
+senior_angle_view	高级设置	0	
+detail_setting	高级设置详情	0	
+steering_sensitivity	普通视角控制灵敏度	0	
+aiming_sensitivity	瞄准视角控制灵敏度	0	
+sniperaiming_sensitivity	狙击枪瞄准视角控制灵敏度	0	
+steering_curve	视角控制直接响应度	0	
+steering_corner	中心无反应区	0	
+sterring_inverse	控制方向反向	0	
+move_corner	中心无反应区	0	
+handle	手柄设置	0	
+go_set	进入	0	
+corner	中心无反应区	0	
+external_threshold	边缘无反应区	0	
+response_curve	摇杆响应曲线	0	
+handle_lr_speed	视角控制灵敏度（水平）	0	
+handle_ud_speed	视角控制灵敏度（垂直）	0	
+extra_lr_speed	推至边缘后视线加速（水平）	0	
+extra_ud_speed	推至边缘后视线加速（垂直）	0	
+extra_start_steering_delay	推至边缘后视线加速生效时间	0	
+extra_start_steering_time	推至边缘后视线加速生效延时	0	
+aimed_handle_lr_speed	视角控制灵敏度（水平）	0	
+aimed_handle_ud_speed	视角控制灵敏度（垂直）	0	
+aimed_extra_lr_speed	推至边缘后视线加速（水平）	0	
+aimed_extra_ud_speed	推至边缘后视线加速（垂直）	0	
+aimed_extra_start_steering_delay	推至边缘后视线加速生效时间	0	
+aimed_extra_start_steering_time	推至边缘后视线加速生效延时	0	
+sniper_aimed_handle_lr_speed	视角控制灵敏度（水平）	0	
+sniper_aimed_handle_ud_speed	视角控制灵敏度（垂直）	0	
+sniper_aimed_extra_lr_speed	推至边缘后视线加速（水平）	0	
+sniper_aimed_extra_ud_speed	推至边缘后视线加速（垂直）	0	
+sniper_aimed_extra_start_steering_delay	推至边缘后视线加速生效时间	0	
+sniper_aimed_extra_start_steering_time	推至边缘后视线加速生效延时	0	
+Quick_Burst	队员快捷爆发后离场	0	
+controler_model_custom	自定义键位	0	
+controler_model1	专注技能模式	0	
+controler_model2	专注射击模式	0	
+controler_model3	技能使用配套模式	0	
+controler_model_custom_Desc	可根据您的使用手柄的习惯，自行设定按键布局。标有*号的设置项，支持将已占用的功能按键设置为长按。	0	
+controler_model1_Desc	使用该预设配置，可以更方便、快捷地释放技能，达到伤害最大化。	0	
+controler_model2_Desc	使用该预设配置，更易做到精准射击，并可以更快地进行视角移动。	0	
+controler_model3_Desc	使用该预设配置，换人、支援技释放、后台队员爆发技快捷使用等操作的按键更具有关联性、更便于记忆。	0	
+Quick_Burst_Hint	所有可设置队员将改为快捷使用爆发技后<span color="#d68238">%s</>，\n您是否确定？	0	
+Quick_Burst_Set1	驻场	0	
+Quick_Burst_Set2	离场	0	
+protocolURL	https://www.amazingseasun.com/privacy.html?lang=zh-cn&gamecode=111111680	1000	
+protocolURL.domestic	https://www.cbjq.com/show-7126-8-1.html	1000	
+			
+useUrl	https://www.amazingseasun.com/user.html?lang=zh-cn&gamecode=111111680	1000	
+useUrl.domestic	https://m.xoyo.com/agreements/agreements.html?name=kingsoft-network-game-agreement&hide-header-menu=true	1000	
+auto_enterBlintage	疾跑状态自动进入掩体	0	
+auto_climbBlintage	疾跑状态自动翻越掩体（开启后角色不会进入小型掩体）	0	
+			
+dmmUrl	https://snowbreak.amazingseasun.com/show-679-10-1.html	1000	
+dmmUrl.domestic	https://snowbreak.amazingseasun.com/show-679-10-1.html	1000	
+			
+			
+block_friend_request	拒绝好友申请		
+modify_bound_phone	修改绑定手机		
+modify_bound_phone_other	GM修改绑定手机		
+modify_bound_email	修改绑定邮箱		
+detail.10	账号注销后，所有金山旗下产品均无法使用该账号进行登录，且该账号无法再次注册成为账号。申请账号注销后账号会永久冻结，且该账号下的所有角色均会被注销，请谨慎选择操作。		
+detail.20	当前账号绑定手机若无法使用，可申请该业务进行修改。业务办理期间账号会冻结。		
+detail.bilics	请打开Bilibili App-游戏中心-我的-联系客服，或打开游戏详情页-联系客服	1000	b站专用
+			
+resetplayer	角色复位		
+reset_monster	敌人复位		
+reset	复位		
+			
+mutiskillshield	联机隐藏队友技能特效	0	
+mutiskillshield_effectclosed	隐藏特效	0	
+mutiskillshield_effectopen	显示特效	0	
+			
+hpbarshield	联机隐藏队友头顶生命值	0	
+			
+ultimate_perform	爆发技动画播放设置	0	
+everytime	总是播放	0	
+fightone	每次战斗仅播放第一次	0	
+onlynew	每名队员仅播放一次	0	
+noperform	不播放	0	
+			
+ultimate_perform_tips	设置在下次进入关卡时生效	0	
+			
+girl_settingdes01	已选思绪	0	
+girl_settingdes02	游戏性设置	0	
+girl_settingdes03	基础设置	0	
+girl_settingdes04	自动射击模式	0	
+girl_settingdes05	手动射击模式	0	
+girl_settingdes06	准星移动灵敏度	0	
+girl_settingdes07	重置	0	
+			
+subSetting_title	字幕显示	0	字幕设置
+subSetting_option1	全部关闭	0	字幕设置
+subSetting_option2	开启互动字幕	0	字幕设置
+subSetting_option3	开启其他字幕	0	字幕设置
+subSetting_option4	全部开启	0	字幕设置
+subSetting_tips	互动、关卡结算、共鸣动画、少女出浴字幕均会受到本设置影响	0	字幕设置
+			
+ultra	至臻	0	五档画质设置
+			
+download.lock	暂未开放	0	3.1预下载
+download.check	开始下载	0	3.1预下载
+download.downloading	下载中：%s%%	0	3.1预下载
+download.pause	已暂停：%s%%	0	3.1预下载
+download.completed	已完成	0	3.1预下载
+download.title	预下载	0	3.1预下载
+			
+gamestop	游戏后台暂停	0	3.2后台设置相关
+gamemute	游戏后台静音	0	3.2后台设置相关
+gamestoptips	开启后，若在战斗中将游戏置于后台，游戏将自动暂停（联机除外）	0	3.2后台设置相关
+gamemutetips	开启后，若将游戏置于后台，游戏将自动静音	0	3.2后台设置相关
+			
+TxtSetupVoiceDownloadTitle1	语音包下载	0	3.2语音下载
+			
+farmwar_autoclose	种植蔬菜伙伴后自动关闭种植界面	0	3.4爆爆菜园
+			
+ARGameset01	操作设置	1	装甲战骑设置
+ARGameset02	基础设置	1	装甲战骑设置
+ARGameset03	重置	1	装甲战骑设置
+ARGameset04	自动射击模式	1	装甲战骑设置
+ARGameset05	手动射击模式	1	装甲战骑设置
+ARGameset06	灵敏度设置	1	装甲战骑设置
+ARGameset07	准星移动灵敏度	1	装甲战骑设置

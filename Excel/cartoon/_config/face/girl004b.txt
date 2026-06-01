@@ -1,0 +1,6 @@
+Id,不能变	说明	动画类型	动画名	路径	注释
+Id	Explain	Type	Name	Path	Nul
+1	正常	sequence	girl004b_ui_stand01	AnimSequence'/Game/Characters/Girl/girl004b/AnimPart00/girl004b_ui_stand01.girl004b_ui_stand01'	
+					
+					
+100	说话	sequence			

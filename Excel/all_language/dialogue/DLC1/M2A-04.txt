@@ -1,0 +1,26 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	没错，当人长期处在劣等环境之中，一定也会逐渐随着周遭环境劣化。	沒錯，當人長期處在劣等環境之中，一定也會跟著週遭環境隨波逐流。	そう、人は劣等な環境に長居すると、かならず環境に影響されて劣化していく。	과연… 오랫동안 열악한 환경에 있으면 주변 환경의 영향을 받게 돼있다니까.	Yes. When one remains in an inferior environment for a long time, he will gradually begin to deteriorate alone with his surroundings.						0	
+2	大家请看那两个下民——	大家請看那兩個下民——	あの下民の二人をご覧になるといい――	다들 저 두 명의 시민들을 봐봐…	Everyone, please gaze upon those two commoners.						0	
+3	就像两只飞蛾，徒劳地绕着灯打转，以为这样那些痴心妄想就能实现。	就像兩隻飛蛾，徒勞地繞著燈打轉，以為這樣那些癡心妄想就能實現。	無駄なのに、まるで蛾のように明かりの周りをぐるぐる回り、その妄想が叶うとでも思い込んでやがる。	마치 두 마리의 나방처럼 아무 의미 없이 제자리를 맴돌고 있어. 본인들의 망상이 이루어질 거라고 생각하고 있겠지.	They are like two moths circling a flame in vain, believing that their wishes will come to fruition.						0	
+4	啧啧，实在难看。	嘖嘖，實在難看。	全く、なんてみっともないんだ。	쯧쯧… 아주 불쌍하기 짝이 없군.	Tch. It's disgusting.						0	
+b-1											0	
+5	他们是在祈福，没必要说得这么难听。	他們是在祈福，沒必要說得這麼難聽。	彼らは祈りを捧げているんだ。そういう言い方はよせ。	기도를 하는 건데 굳이 그렇게까지 말할 필요는 없잖아?	They're only praying for good fortune. There's no need to be so harsh.						0	
+b-1_1											0	
+6	还有，信号差就别直播了……影像都静止了。	還有，訊號差就別直播了……影像都靜止了。	おや、分析員のplayernameさんじゃないか！明灯祭にもかかわらずユグドラシルのためにせっせと働いていらっしゃるとは、健気だねぇ。	그리고 신호가 안 좋으면 방송은 하지 마… 영상이 끊기잖아.	And don't livestream if the signal is bad... The video is frozen.						0	
+7	芙提雅适时从人群中出现，把刚刚的无人机残骸丢在迪特里希的全息影像的前面。	芙提雅適時從人群中出現，把剛剛的無人機殘骸丟在迪特里希的全息影像的前面。	フリティアが人混みから現れて、とある部品をディートリッヒのホログラムの前に放り投げ、怒りを露わにして問いかけた。	프티야는 적절한 타이밍에 인파 속에서 튀어나와 방금 찾았던 드론의 잔해를 디트릭의 홀로그램을 향해 던졌다.	Fritia emerged from the crowd right on cue, tossing the wrecked drone at the feet of Dietrich's hologram.						0	
+8	苟且偷生之后，你还要做这种事情吗？	苟且偷生之後，你還要做這種事情嗎？	暴走した警備ロボット、あなたの仕業だよね！？本当に変わってないな、この臆病者！	구차하게 이런 짓까지 해야겠어?	Still up to your old tricks even after you almost died?						0	
+9	哦？我做什么了？	哦？我做什麼了？	うん？俺が何をしたって？	음? 내가 뭘 했다는 거지?	Oh? What did I do?						0	
+10	别装傻！用无人机劫持安保机器人袭击居民，是你们的杰作吧？	別裝傻！用無人機劫持保全機器人襲擊居民，是你們的傑作吧？	とぼけるな！暴走したロボットの近くでこれを見つけた。このタイプはあなたのドローンにもついていたよね？	모르는 척하지 마! 드론으로 보안 로봇을 약탈해서 주민들을 습격했잖아! 다 너희들 작품이지?	Don't pretend to be innocent! Hijacking the security robots with drones and attacking people was your handiwork, wasn't it??						0	
+12	啊？这只是一台用来直播的无人机，你怎么证明不是你做了手脚之后来污蔑我的？	啊？這只是一台用來直播的無人機，你怎麼證明不是你做了手腳之後來污衊我的？	今夜、会場のあらゆる場所でライブ配信をするためにどれほどのドローンを出動させたと思う？	이건 그냥 방송용 드론일 뿐이야. 오히려 네가 손을 써서 날 모함하려는 건 아니고?	Huh? That's just a livestreaming drone. Do you have any proof? This is slander!						0	
+15	身为世界树的员工，请你说话做事严谨一些。这可是直播，观众们的眼睛可毒辣呢~	身為世界樹的員工，請你說話做事嚴謹點。這是直播，觀眾們的眼睛都特別利呢~	ユグドラシル社の職員として、言葉や振る舞いには気をつけた方がいい。イグニス、学校を出てからお前がしたことはとても残念に思ったよ。	위그드라실 직원이면 말을 좀 가려서 했으면 좋겠군. 이건 생방송이거든~ 관중들의 눈이 얼마나 매서운 줄 알아?	You're an Yggdrasil employee — please be more careful with what you say and do. You're on camera, and the audience is watching~						0	
+16	你不承认也没关系，有我在，你的无人机就再也没有出场的机会了！	你不承認也沒關係，有我在，你的無人機就再也沒有出場的機會了！	認めなくても構わないよ。私がいる限り、あなたのドローンの出番はもうない。	인정하지 않아도 상관없어. 어차피 내가 있는 한 네 드론은 제대로 사용할 수 없을 테니까.	It doesn't matter if you don't admit it. Your drone won't see the light of day again!						0	
+17	那你就好好努力吧。	那你就好好努力吧。	じゃ、せいぜい頑張るといい。	그럼 어디 한번 해보시던가.	Well, I wish you luck with that.						0	
+18	分析员，有什么疑问吗？	分析員，有什麼疑問嗎？	分析員、何か気になるところでも？	분석가, 무슨 궁금한 거라도 있어?	Adjutant, don't you have any questions?						0	
+b-2											0	
+19	还记得最早的安保机器人失控事件发生在哪里吗？	還記得最早的保全機器人失控事件發生在哪裡嗎？	最初、暴走したロボットをどうやって見つけたか覚えているか。	보안 로봇이 통제 불능이 된 사건이 어디서 일어났었던 일인지 기억해?	Remember when the first security robot went haywire?						0	
+20	根据辰星之前发来的通讯，是在泰古通达的保险间……	根據辰星之前發來的通訊，是在泰古通達的保險間……	辰星の通信によれば、彼女はタグの金庫で……	수성이 통신으로 했던 말을 떠올리면, 타이구 물류회사 보안실에서…	It happened in the Taigu-Connect vault according to Chenxing's communication...						0	
+21	以迪特里希目前的处境，应该没办法在泰古通达的地盘上动手脚。	以迪特里希目前的處境，應該沒辦法在泰古通達的地盤上動手腳。	そこに物を預ける人は富豪しかいない。ディートリッヒは仲間の利益を損なうような真似をしないはず。	현재 디트릭의 처지라면, 타이구 물류회사 구역에서 손을 쓸 수 있는 방법은 없을 거야.	There's no way Dietrich would be able to infiltrate that area in his current state.						0	
+22	芙提雅也提到，逐光者这次的挟持手法很糟糕，对于泰古通达的安保机器人来说，不会这么轻易被劫持。	芙提雅也提到，逐光者這次的挾持手法很糟糕，對於泰古通達的保全機器人來說，不會這麼輕易被劫持。	そういえば、ロボットをハッキングするのは逐光者のやり方らしくない。	프티야가 언급한대로, 이번에 있었던 축광단의 수법은 뭔가 엉성했어. 게다가 타이구 물류회사의 보안 로봇은 그렇게 손쉽게 약탈할 수 있는 게 아니거든.	Fritia also mentioned that the hijacking method the Light Chasers use is pretty terrible. It wouldn't be easy to hack Taigu-Connect's security robots.						0	
+b-4											0	
+23	没错，犯人另有其人。	沒錯，犯人另有其人。	そうよ、犯人は別にいる。	확실히 그래. 진범은 따로 있는 거 같아.	You're right. The culprit has to be someone else.						0	

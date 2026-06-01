@@ -1,0 +1,2 @@
+mapID	regioninfo中的ID	任务完成后通知（unlocktype为2时填写用于通知外围。1活动。）	解锁条件（和DLC_activity表格条件挂钩,3获得指定道具，24到达谜题ID）	激活类型(1.道具掉落，2.任务（condition满足后通知ActivityStep完成）,3.XXXX)	道具GDPLN（和Item文件夹中的GDPL保持一致）	道具允许获取次数（0,无限获取；1,无限次）	掉落组(1.旧海岛，2.新海岛，后续需要程序新增。）	掉落组单次获取保底区间，目前只和XX挂钩（{次数,次数}）累积计数
+mapID	RegionUniqueID	ActivityStep	Condition	UnlockType	ItemNum	DropNum	DropTeam	GetNum

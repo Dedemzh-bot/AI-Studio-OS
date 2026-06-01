@@ -1,0 +1,14 @@
+﻿ID	//备注	排序	名字key	图标	立绘	活动等级限制	解锁条件	预览模型路径	资源名修饰
+ID	Comment	Sort	I18n	Icon	Picture	LevelLimit	tbCondition	ModelPath	ResNameDec
+1000	分析员-q	1	party_card.player02_p		1602494			/Game/Blueprints/QQCharacter/player002_q/BP_Player002_q_Preview.BP_Player002_q_Preview_C	player002_q
+120201	里芙-无限之视-q	11	party_card.girl023_p		1602490			/Game/Blueprints/QQCharacter/girl002b_q/BP_girl002b_q_Preview.BP_girl002b_q_Preview_C	girl002b_q
+120501	茉莉安-幽潮-q	12	party_card.girl053_p		1602491			/Game/Blueprints/QQCharacter/girl005b_q/BP_girl005b_q_Preview.BP_girl005b_q_Preview_C	girl005b_q
+120801	芬妮-辉耀-q	7	party_card.girl083_p		1602492			/Game/Blueprints/QQCharacter/girl008b_q/BP_girl008b_q_Preview.BP_girl008b_q_Preview_C	girl008b_q
+111501	凯茜娅-朝翼-q	8	party_card.girl152_p		1602493			/Game/Blueprints/QQCharacter/girl015a_q/BP_girl015a_q_Preview.BP_girl015a_q_Preview_C	girl015a_q
+121001	肴-夜天光-q	9	party_card.girl103_p		1602636			/Game/Blueprints/QQCharacter/girl010b_q/BP_girl010b_q_Preview.BP_girl010b_q_Preview_C	girl010b_q
+121401	晨星-琼弦	10	party_card.girl143_p		1602637			/Game/Blueprints/QQCharacter/girl014b_q/BP_girl014b_q_Preview.BP_girl014b_q_Preview_C	girl014b_q
+130801	芬妮-澄意-q	5	party_card.girl084_p		1602884			/Game/Blueprints/QQCharacter/girl008c_q/BP_girl008c_q_Preview.BP_girl008c_q_Preview_C	girl008c_q
+121301	瑟瑞斯-悠游-q	6	party_card.girl133_p		1602885			/Game/Blueprints/QQCharacter/girl013b_q/BP_girl013b_q_Preview.BP_girl013b_q_Preview_C	girl013b_q
+120101	安卡希雅-时之重奏-q	3	party_card.girl013_p		1603136			/Game/Blueprints/QQCharacter/girl001b_q/BP_girl001b_q_Preview.BP_girl001b_q_Preview_C	girl001b_q
+130501	茉莉安-霄鹰-q	4	party_card.girl054_p		1603137			/Game/Blueprints/QQCharacter/girl005c_q/BP_girl005c_q_Preview.BP_girl005c_q_Preview_C	girl005c_q
+102401	胧嫣-瑞狐-q	2	party_card.girl241_p		1603168			/Game/Blueprints/QQCharacter/girl024_q/BP_girl024_q_Preview.BP_girl024_q_Preview_C	girl024_q

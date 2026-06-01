@@ -1,0 +1,9 @@
+字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
+Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
+1		0			Play_Vo_dlc1ep1_1	明灯节，这个世界最为重要的节日之一。	0	
+2		0			Play_Vo_dlc1ep1_2	人们会彻夜亮起万盏灯火，将希望寄于其中。	0	
+3		0			Play_Vo_dlc1ep1_3	零区内也同样如此，尽管条件有限。	0	
+4		0			Play_Vo_dlc1ep1_4	得益于世界树公司及各界慈善人士的捐赠。	0	
+5		0			Play_Vo_dlc1ep1_5	今年的庆典活动规模空前，吸引了众多人前来。	0	
+6		0			Play_Vo_dlc1ep1_6	据说，其中最重要的一个仪式。	0	
+7		0			Play_Vo_dlc1ep1_7	便是于午夜时分点亮一盏巨大的灯笼，为人们祈福。	0	

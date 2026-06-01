@@ -1,0 +1,29 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	是我赢了哦。	是我贏了喔。	勝ったのは私だな。	내가 이겼네.	I won.						0	3.5版本多诺巅峰对决剧情
+page1.2	唔……	唔……	うぅ……	윽…	Mmmm...						0	3.5版本多诺巅峰对决剧情
+page1.3	不准耍赖。	不准耍賴。	負け惜しみは禁止だぞ。	두말하기 없기다.	A gamer's integrity, remember?						0	3.5版本多诺巅峰对决剧情
+page1.4	唔……	唔……	うぅ……	으윽…	Mmmmm...!						0	3.5版本多诺巅峰对决剧情
+page1.5	我觉得，应该向你要一些战利品呢。	我覺得，應該向你要一些戰利品呢。	ご褒美くらい、もらってもいいよな。	전리품을 좀 받아야겠는데.	Hmm, I feel like I should ask for a victory prize.						0	3.5版本多诺巅峰对决剧情
+page1.6	亲爱的，开局之前还没说过这个呢！	親愛的，開局之前還沒說過這個呢！	それ開戦前に言ってよ、あなた！	자기야, 시작하기 전엔 그런 얘기 안 했잖아!	Darling! Wh—Why didn't you say this before the duel?						0	3.5版本多诺巅峰对决剧情
+page1.7	呜呜呜，安卡希雅什么都没有啦，安卡希雅的一切都给亲爱的了！	嗚嗚嗚，安卡希雅什麼都沒有啦，安卡希雅的一切都給親愛的了！	うぅ〜、アカシアもう何も残ってないよ。アカシアのすべてが、もうあなたにあげちゃったのに！	히잉, 아카시아는 아무것도 없어, 전부 다 자기한테 줬단 말이야!	Woowoowoo... I've got nothing left. Everything I have, I've already given to you!						0	3.5版本多诺巅峰对决剧情
+page1.8	嗯，我知道。	嗯，我知道。	ああ、分かっている。	응, 알아.	Yeah, I know.						0	3.5版本多诺巅峰对决剧情
+page1.9	我知道你想要把你曾经留恋的一切都带给来我的世界。	我知道你想要把你曾經留戀的一切都帶來我的世界。	アカシアが大事にしていたもの全部を、私の世界にも連れてきたいんだろう？	네가 그리워했던 모든 걸 내 세계로 가져오고 싶어 한다는 거, 잘 알지.	I know you want to bring everything you once loved into my world.						0	3.5版本多诺巅峰对决剧情
+page1.10	把真心话当成玩笑话说的她显然没有料到，心爱的人早已懂她心中的全部情感。	把真心話當成玩笑話說的她顯然沒有料到，心愛的人早已懂她心中的全部情感。	本気を冗談めかして話す彼女は、私がとっくにその想いに気づいているとは思っていない。	진심을 농담처럼 말한 그녀는 사랑하는 사람이 이미 자신의 모든 감정을 이해하고 있을 거라고는 예상하지 못했다.	She had jokingly spoken her true feelings, but she didn't expect that the one she loved had already understood her completely.						0	3.5版本多诺巅峰对决剧情
+page1.11	其实我早就想问你，为什么要大费周章办一个入坑仪式。	其實我早就想問你，為什麼要大費周章辦一個入坑儀式。	前から聞きたかったんだ。どうしてそこまでして「沼の儀」なんて用意したんだ？	사실 전부터 물어보고 싶었는데, 왜 이렇게 공들여서 입문식을 준비한 거야?	I've actually been wanting to ask you. Why go to such lengths just to hold an initiation ceremony?						0	3.5版本多诺巅峰对决剧情
+page1.12	安卡希雅，可以亲口说给我听吗？	安卡希雅，可以親口說給我聽嗎？	自分の言葉で教えてくれないか、アカシア。	아카시아, 네 입으로 직접 말해줄래?	Acacia... could you tell me yourself?						0	3.5版本多诺巅峰对决剧情
+page1.13	唔，好吧。	嗯……好吧。	ん……分かった。	음, 좋아.	Well... okay.						0	3.5版本多诺巅峰对决剧情
+page1.14	安卡希雅憋红了脸颊，发胀的鼻腔让她的声音听起来更加柔软可爱。	安卡希雅憋紅了臉頰，發脹的鼻腔讓她的聲音聽起來更加柔軟可愛。	アカシアの頬は真っ赤で、鼻にかかった声がいつもより柔らかくて可愛らしい。	아카시아의 뺨은 붉게 달아올랐고, 코가 막힌 듯한 아카시아의 목소리는 더욱 부드럽고 사랑스럽게 들려왔다.	Acacia's cheeks flushed, and her stuffy nose made her voice sound even softer and more adorable.						0	3.5版本多诺巅峰对决剧情
+page1.15	——这样就能把我记忆里觉得最美好的部分，从过去全部都搬过来了。	——這樣就能把我記憶裡覺得最美好的部分，從過去全部都搬過來了。	――そうすれば、私の記憶の中でいちばん綺麗だった景色を、全部こっちに持ってこれるからね。	… 이렇게 하면 내 기억 속에서 가장 아름다웠던 걸 과거에서 전부 다 가져올 수 있으니까.	—This way, I can bring the most beautiful moments from my memories here, to you.						0	3.5版本多诺巅峰对决剧情
+page1.16	我们一起打排位、看漫画，去旧货市场淘手办。	我們一起打段位、看漫畫，去舊貨市場淘模型。	一緒にランクマ回して、マンガ読んで、中古市場でフィギュア掘り出して。	같이 랭크전하기, 만화 보기, 중고품 시장에 가서 피규어 구하기.	We can play ranked matches, read manga, and go action figure hunting at flea markets.						0	3.5版本多诺巅峰对决剧情
+page1.17	我们一起玩四驱车、喝奶茶，在漫画屋里嗦拉面。	我們一起玩四驅車、喝奶茶，在漫畫屋裡吸拉麵。	一緒にレースゲームして、ミルクティー飲んで、マンガ喫茶でカップ麺すすって。	같이 미니카를 플레이하기, 밀크티 마시기, 만화방에서 라면 먹기.	We can play Mini 4WD, drink milk tea, and slurp instant noodles in a manga shop.						0	3.5版本多诺巅峰对决剧情
+page1.18	我们一起对决比赛，一起收集多诺卡……	我們一起對決比賽，一起收集多諾卡……	一緒に対戦して、一緒にDOROカードを集めて……	같이 시합하기, 같이 도노 카드 수집하기…	We can play card duels and collect Dono cards...						0	3.5版本多诺巅峰对决剧情
+page1.19	不仅在心流内景， 我也想和亲爱的在现实里体验这些美好。	不僅在心流內景，我也想和親愛的在現實裡體驗這些美好。	心象風景だけじゃなくて、現実の世界でも、あなたと全部やり直してみたいんだ。	내면의 흐름 속에서뿐만 아니라, 현실에서도 자기랑 같이 이런 아름다운 것들을 경험하고 싶었어.	Not just in my inner mind, I want to experience all these wonderful things with you in real life too, darling.						0	3.5版本多诺巅峰对决剧情
+page1.20	就这样一点一滴地，把这些全都搬到亲爱的心里……	就這樣一點一滴地，把這些全都搬到親愛的心裡……	少しずつ、全部あなたの心の中に、運んでいきたいの。	이렇게 조금씩, 이 모든 걸 자기의 마음속으로 옮겨 놓고 싶었어…	Bit by bit, I want to fill your heart with them...						0	3.5版本多诺巅峰对决剧情
+page1.21	我这样是不是很自私？	我這樣是不是很自私？	こんな私は、やっぱり独り占めしすぎかな？	그럼 너무 이기적인 짓이려나?	Isn't that really selfish of me?						0	3.5版本多诺巅峰对决剧情
+page1.22	忍不住伸出手指，轻轻弹了下安卡希雅的额头，看着她难得露出懵懵的表情。	忍不住伸出手指，輕輕彈了下安卡希雅的額頭，看著她難得露出懵懵的表情。	思わず指先でそっとアカシアの額を弾くと、ぽかんとした顔が本当に愛おしく見えた。	참지 못하고 아카시아의 이마에 손가락을 살짝 튕기자, 그녀가 드물게 멍한 표정을 지었다.	I couldn't help but reach out and lightly flick Acacia's forehead, watching her show a rare, dazed expression.						0	3.5版本多诺巅峰对决剧情
+page1.23	我趁机牵起她的手按在了心脏的位置。	我趁機牽起她的手按在了心臟的位置。	そのまま彼女の手を取って、自分の胸の上にそっと添える。	나는 기회를 놓치지 않고 그녀의 손을 잡아 내 심장 위치에 갖다 댔다.	I took the opportunity to lift her hand and press it against my heart.						0	3.5版本多诺巅峰对决剧情
+page1.24	不用担心，我心里的位置永远为你准备着，尽管把你最喜欢的东西都一口气搬进来吧。	不用擔心，我心裡的位置永遠為你準備著，儘管把你最喜歡的東西都一口氣搬進來吧。	心配しなくていい。ここには、いつだってアカシア用の席が空いている。好きなものを全部、遠慮なく詰め込んでくれ。	걱정하지 마, 내 마음 한 켠은 언제나 너를 위해 준비되어 있으니까. 네가 가장 좋아하는 것들을 한꺼번에 다 옮겨와도 돼.	Don't worry. There will always be a place for you in my heart. Go ahead and fill it with your favorite things.						0	3.5版本多诺巅峰对决剧情
+page1.25	……那我可就不客气啦。	……那我可就不客氣啦。	……じゃあ、本気で遠慮しないから。	… 그럼 사양하지 않을게.	In that case...						0	3.5版本多诺巅峰对决剧情
+page1.27	少女一边呢喃着，一边羞红着脸贴近我的嘴唇……	少女一邊呢喃著，一邊羞紅著臉貼近我的嘴唇……	小さく呟きながら、頬を染めた少女の唇がそっと私の唇へ近づいていく。	소녀는 중얼거리며 얼굴을 붉힌 채 내 입술로 가까이 다가왔다…	Murmuring, she blushed bright red, leaning toward my lips...						0	3.5版本多诺巅峰对决剧情
+page1.28	安卡希雅犯规！	安卡希雅犯規！	アカシア、反則！	아카시아, 반칙이야!	Acacia, that's cheating!						0	3.5版本多诺巅峰对决剧情

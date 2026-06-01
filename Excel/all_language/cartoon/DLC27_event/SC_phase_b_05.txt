@@ -1,0 +1,32 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	居然出现了第四个保护节点，这意味着什么？	居然出現了第四個保護節點，這代表什麼？	まさか第四の保護ノードが出るなんて…どうなってるの？	갑자기 네 번째 보호 노드가 나타났어. 이게 무슨 뜻일까?	A fourth defense node!? What does that mean?						0	2.7版本妮塔入队剧情
+page1.2	超能战士妮塔，别再向前了……最后一个保护节点，是我留给彼此的喘息之机。	超能戰士妮塔，別再向前了……最後一個保護節點，是我留給彼此的喘息之機。	ハイパー戦士ニタ… もうやめて。最後の防御節点は、お互いに与えた「猶予」だ。	초능력 전사 니타 님, 더 이상 앞으로 나아가지 않는 게 좋을 겁니다… 마지막 보호 노드는 저희 모두를 위한 기회니까요.	Proceed no further, Superwarrior Nita. That final defense node... is the last mercy I can offer. For both of us.						0	2.7版本妮塔入队剧情
+page1.3	我已经被邪恶入侵，不再是人类的指引者……	我已經被邪惡入侵，不再是人類的指引者……	私は邪悪に侵食され、人類を導く存在ではなくなった…	악의 영향을 받은 저는 더 이상 인간을 위한 길잡이가 아닙니다…	I've already been corrupted by evil. I am no longer humanity's guide...						0	2.7版本妮塔入队剧情
+page1.4	那我就摧毁你，也好过……	那我就摧毀你，也好過……	ならば、いっそ壊してしまった方が――	그렇다면 차라리 널 파괴하겠어…	Then I'll destroy you — even if—						0	2.7版本妮塔入队剧情
+page1.5	摧毁？你可以吗？真相会把你的勇气碾碎，让你陷入绝望的深渊。	摧毀？你可以嗎？真相會把你的勇氣碾碎，讓你陷入絕望的深淵。	壊すって？君にできるかな？真実を知ったら、その勇気は粉々にされ、絶望の底に沈むかもしれないよ。	파괴? 그게 가능할까요? 진실은 당신의 용기를 짓밟고, 절망의 심연으로 몰아넣을 거예요.	Destroy me? Can you, truly? The truth will shatter your resolve... and drag you into despair.						0	2.7版本妮塔入队剧情
+page1.6	妮塔……我们是该回头了。	妮塔……我們是該回頭了。	ニタ…ここは引き返そう。もう危険すぎる。	니타… 돌아가야 할 것 같아.	Nita... we shouldn't go any further.						0	2.7版本妮塔入队剧情
+page1.7	playername！为什么连你也……	playername！為什麼連你也……	playername！どうしてあんたまで…	playername! 왜 너까지…	playername!? Not you too...						0	2.7版本妮塔入队剧情
+page1.8	不，我不会离开，为了拯救弱小，再残酷的真相也不能让我退后一步。	不，我不會離開，為了拯救弱小，再殘酷的真相也不能讓我退後一步。	私は絶対に退かない！弱き人々を守るためなら、どんな残酷な真実でも乗り越えてみせる！	아니, 난 떠나지 않을 거야. 약자를 구하기 위해, 어떠한 잔인한 진실도 날 물러서게 할 수 없어.	No. I'm not backing down. Not while the weak still need someone to fight for them. No truth — however cruel — will stop me now!						0	2.7版本妮塔入队剧情
+page1.9	……	……	…	…	...						0	2.7版本妮塔入队剧情
+page1.10	实际上，你一直寻找的核心就是我。抱歉，我并非人类……	實際上，你一直在尋找的核心就是我。抱歉，我並非人類……	実は…君が探していた「核心」とは、この私のことだ。ごめん、私は人間じゃない――	사실, 네가 찾고 있던 건 바로 나야. 미안하지만, 나는 인간이 아니야…	The truth is — I'm the core you've been trying to reach. I was never human. I'm sorry... Superwarrior Nita.						0	2.7版本妮塔入队剧情
+page1.11	为了你的理想，摧毁我吧，就如同你刚才所说的那样。	為了你的理想，摧毀我吧，就如同你剛才所說的。	もし君の理想を貫きたいなら、さっき言った通り私を壊せばいい。	네 이상을 위해, 날 파괴해 봐. 네가 방금 말했던 것처럼.	For the future you believe in... You'll have to destroy me. Just like you said.						0	2.7版本妮塔入队剧情
+page1.12	playername……不！！！	playername……不行！！！	playername…いやぁぁぁぁぁっ！	playername… 안돼!!!	playername... NOOOOOOOO!!!						0	2.7版本妮塔入队剧情
+page1.13	咔！	咔！	カット！	컷!	Aaaand... cut!						0	2.7版本妮塔入队剧情
+page1.14	这就结束了吗？接下来的故事好像也很精彩。	這樣就結束了嗎？接下來的故事好像也很精彩。	もう終わり？まだまだ面白くなりそうなのに。	이게 끝이야? 다음 이야기도 꽤 재미있을 것 같은데?	That's it? But I was just getting into it.						0	2.7版本妮塔入队剧情
+page1.15	呜……先拍到这里吧，看了分析员的演绎，我都有点想哭了。	嗚……先拍到這裡吧，看了分析員的演繹，我都有點想哭了。	うぐっ…いったんここまで！分析員の迫真演技見てると、私泣きそうになっちゃって…	후… 일단 여기서 멈추자. 분석가의 연기를 보고 나니 자꾸 울 것 같아서.	*sniffs* ...Let's wrap it up for today... before I actually start crying. That last line of yours? It hit way too hard.						0	2.7版本妮塔入队剧情
+page1.16	噗……这大概就是真情流露吧。	噗……這大概就是真情流露吧。	はは、これが「本音」ってやつかな。	하하… 나름 혼신의 연기를 담아봤어.	Haha. Guess I got a little too into character, huh?						0	2.7版本妮塔入队剧情
+page1.17	不管为妮塔做什么，我都是愿意的。	不管為妮塔做什麼，我都是願意的。	ニタのためなら、何でもするさ。	니타를 위해서라면 뭐든지 기꺼이 할 자신이 있다고!	You know I'd do anything for you, Nita.						0	2.7版本妮塔入队剧情
+page1.18	妮塔的脸微微泛红，回避着我的视线。	妮塔的臉微微泛紅，迴避我的視線。	ニタは顔を赤らめ、目をそらす。	니타는 살짝 붉어진 얼굴로 내 시선을 피했다.	Nita's face flushed as she looked away, avoiding my gaze.						0	2.7版本妮塔入队剧情
+page1.19	她肩膀微微紧绷，却又刻意放松，整个人在紧张与自然之间摇摆不定。	她肩膀微微緊繃，卻又刻意放鬆，整個人在緊張與自然之間搖擺不定。	肩には少し力が入りすぎていて、意識して抜こうとしているのがわかる。	그녀의 어깨는 조금 긴장한 듯 보였지만, 의도적으로 긴장감을 완화하려고 노력하는 것 같았다.	Her shoulders tensed, then eased — like she couldn't decide whether to play it cool or just be honest about it.						0	2.7版本妮塔入队剧情
+page1.20	分析员！说这种话太犯规了！	分析員！說這種話太犯規了！	分析員！こういうストレートな言い方は反則だよっ！	분석가! 그런 말은 쉽게 내뱉는 거 아니야!	Adjutant! You can't just drop something that sweet on me like that! I wasn't ready!						0	2.7版本妮塔入队剧情
+page1.21	这种程度就算犯规？但我还有好多话想跟你说。	這種程度就算犯規？但我還有很多話想跟你說。	これぐらいで？まだいくらでもあるぞ、言いたいことは。	이런 표현도 안 돼? 하지만 아직 너에게 하고 싶은 말이 많은걸?	Then you better get ready now — 'cause that was just the opening line.						0	2.7版本妮塔入队剧情
+page1.22	咳咳……那就等回去，找个没人的地方，再……再说吧。	咳咳……那就等回去，找個沒人的地方，再……再說吧。	そ、それは…帰ってから、誰もいないところでゆっくり…聞くよ。	에헴… 그런 말은 돌아가서, 사람들이 없는 곳에서… 해줘.	Ahem... Then save it for later — when we're back home. Somewhere... private.						0	2.7版本妮塔入队剧情
+page1.23	好，那此时此刻，妮塔还有什么想和我一起完成的心愿吗？	好，那此時此刻，妮塔還有什麼想跟我一起完成的心願嗎？	わかった。…それじゃあ、いま他にやりたいことは？	알겠어. 나랑 같이 이루고 싶은 또 다른 소원 같은 건 없어?	Okay then. Anything else you want to do with me?						0	2.7版本妮塔入队剧情
+page1.24	今天已经足够啦！	今天已經足夠啦！	今日はもう十分だよ！	오늘은 이미 충분한 것 같아!	Today's already been more than enough.						0	2.7版本妮塔入队剧情
+page1.25	和分析员创造了很多新的回忆，那些遗憾的情绪好像都消失了。	和分析員創造了許多新的回憶，那些遺憾的情緒好像都消失了。	分析員といろいろ作り直して、前に感じてたモヤモヤが消えた気がする。	분석가랑 같이 새로운 추억을 많이 만들어서 그런지, 아쉬운 감정들이 다 사라진 것 같아.	We made so many new memories... It's like all those regrets just quietly slipped away.						0	2.7版本妮塔入队剧情
+page1.26	如果非说还有什么想做的……我想问分析员一个问题。	如果非說還有什麼想做的事……我想問分析員一個問題。	でも一つだけ、聞きたいことがあるんだ。	그것보다… 분석가에게 하고 싶은 질문이 있어.	But if I had to say... there's still one more thing.						0	2.7版本妮塔入队剧情
+page1.27	我想知道，分析员现在心里是不是也跟我一样幸福？	我想知道，分析員現在心裡是不是也跟我一樣幸福？	分析員は今、私と同じくらい幸せに思ってる…かな？	분석가도 지금의 나처럼 행복해?	I want to ask you a question — right now... are you as happy as I am?						0	2.7版本妮塔入队剧情
+page1.28	很幸福，和你一样。	很幸福，和你一樣。	同じくらい、幸せだよ。	나도 정말 행복해, 너처럼.	Yes. I'm happy, if not more than you.						0	2.7版本妮塔入队剧情
+page1.29	相视一笑，我们都很默契的没再多说什么，任爱意在心中蔓延。	相視一笑，我們都很默契的沒再多說什麼，任愛意在心中蔓延。	目を合わせて微笑み合うと、もう何も言葉はいらない。	우린 서로 웃으며 더 이상 말을 하지 않았다. 그렇게 서로에 대한 감정은 마음속 깊이 퍼져 나갔다.	We exchanged a smile. There was nothing else that needed to be said. The warmth between us lingered, like a quiet current flowing through our hearts.						0	2.7版本妮塔入队剧情
+page1.30	而此刻这份平淡的幸福，像一条和缓的溪流，慢慢流向未来，直至永恒。	而此刻這份平淡的幸福，像一條和緩的溪流，慢慢流向未來，直至永恆。	ただ穏やかな幸福が胸を満たし、静かな流れとなって未来へと注いでいく。	그리고 이 순간의 행복은 마치 부드러운 시냇물과 같이 천천히 미래를 향해 흘러 나갔다.	And it carried us forward, gently, into a future with no end.						0	2.7版本妮塔入队剧情

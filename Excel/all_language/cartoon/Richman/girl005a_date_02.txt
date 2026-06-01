@@ -1,0 +1,19 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page0.1	和茉莉安报名了双人滑翔竞速	和茉莉安報名了雙人滑翔競速	マリアンとタンデムパラグライダー大会に申し込んだ	마리안이랑 패러글라이딩 2인승 레이스를 신청한다.	You signed up for a tandem paragliding race with Marian.						0	
+choice01	给她套好护具和保险绳	給她套好護具和保險繩	防具と安全ロープをマリアンにつける	그녀에게 보호대와 안전줄을 잘 씌워 준다.	Fit her with gear and secure the safety harness for her						0	
+page1.1	大腿根部这里的保险绳一定要扣好。	大腿根部這裡的保險繩一定要扣好。	太もも周りの安全ロープは大事だから、ちゃんと締めるんだよ？	허벅지 부분의 안전 끈은 반드시 채워야 해.	Make sure the safety line around the base of your thigh is secure.						0	
+page1.2	唔！嗯……	唔！嗯……	うっ！ん……	음! 음…	Agh! Ooh...						0	
+page1.3	帮你扣好了。接下来需要拉上半身这里的两根绳子。就像这样拽紧——	幫你扣好了。接下來需要拉上半身這裡的兩條繩子。就像這樣拉緊——	よし、出来た。次は上半身のロープを引っ張ると……よいっしょ……	안전 벨트를 맸어. 그다음에 상체 여기 줄 2개를 당겨야 해. 이렇게 잡아당기듯이…	That's secured. Now, let's tighten these two straps across your upper body — like this...						0	
+page1.4	诶？啊啊！哎呀——	誒？啊啊！哎呀——	え？あっ……きゃあ！？	네? 아아! 아이고…	Huh? Agh! Oops...						0	
+page1.5	呼……只顾着看分析员在操作的手，一不留神差点就跌倒了呢。	呼……只顧著看分析員在操作的手，一不留神差點就跌倒了呢。	ふぅ……分析員さんの手を見つめていたら、コケちゃいました。	휴… 분석가 손만 보다가 까딱 잘못하면 넘어질 뻔했어요.	Phew... I was so focused on watching your hands that I almost fell.						0	
+page1.6	还好分析员稳稳接住了我。	還好分析員穩穩接住了我。	受け止めてくれてありがとうございます。	다행히 분석가가 안정적으로 저를 받아줬어요.	Good thing you caught me, Adjutant.						0	
+page1.7	嗯……请分析员也帮我检查背后的装备吧。	嗯……請分析員也幫我檢查背後的裝備吧。	そうだ……後ろの装備も、分析員さんにチェックしてほしいのですが。	음… 분석가도 뒤에 장비 체크해주세요.	Mmm... Could you also help me check the gear on the back?						0	
+page1.8	我就姑且，先保持这样的动作~	我就姑且，先保持這樣的動作~	私はこのまま、じっとしてますので……	일단 이런 동작으로 하고 있을게요~	I'll hold still~						0	
+choice02	贴在她身后做好准备动作	貼在她身後做好準備動作	彼女にくっついてウオーミングアップ	그녀의 뒤에 붙어서 준비 동작을 준비한다.	Get prepared for the race behind her						0	
+page2.1	准备好了吗？等下就要开始了。	準備好了嗎？等下就要開始了。	準備はいいか？そろそろ始めるよ。	준비됐어? 조금 있으면 시작할 거야.	Are you ready? It's about to start.						0	
+page2.2	嗯嗯。分析员贴得……好近呀~	嗯嗯。分析員貼得…好近呀~	はい。分析員さん……あの、近いのですが……	네네. 분석가가 붙여서… 가까워~	Mmm-hmm. Adjutant, you're... very close~						0	
+page2.3	现在的动作要求是这样的……会让你不舒服吗？	現在的動作要求是這樣的…會讓你不舒服嗎？	こういう体勢じゃないとダメなんだ。それとも、ちょっと抵抗あるか？	지금 동작의 요구는 이런데… 혹시 불편해?	This is the required position... Does it make you uncomfortable?						0	
+page2.4	不会~我能感受到分析员的心跳呢……	不會~我能感受到分析員的心跳呢……	いいえ……分析員さんの鼓動が感じられます……	설마~ 분석가의 두근거림이 느껴져요…	Not at all~ I can feel your heartbeat...						0	
+page2.5	比我现在的心跳沉稳很多……很有安全感。	比我現在的心跳沉穩很多……很有安全感。	私のよりずっと力強くて……落ち着いた音です。	지금 내 심장박동보다 훨씬 차분… 안정감이 있어요.	It's much steadier than mine... And it's very reassuring.						0	
+page2.6	是吗？那也让我来感受一下你的。	是嗎？那也讓我來感受一下你的。	そうか？それじゃ、君の鼓動も感じてみようかな。	그래? 그럼 나도 네 것을 느껴볼게.	Is that so? Let me feel yours too...						0	

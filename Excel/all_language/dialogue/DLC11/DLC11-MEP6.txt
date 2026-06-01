@@ -1,0 +1,171 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	抢分对对碰游戏结束，两位选手最终得分——5分满分。	搶分對對碰遊戲結束，兩位選手最終得分——5分滿分。	強奪と破壊、無事終了しました！得点は～……5点満点です！おめでとうございま～す！	퍼즐 게임이 종료되었습니다, 두 선수의 최종 스코어는… 만점인 5점입니다.	Destruction Derby has come to an end. The contestants have received a perfect score of 5 points.						0	
+2	哎呀，这就结束了吗？姐姐还没有和分析员玩尽兴呢~	哎呀，這就結束了嗎？姐姐還沒跟分析員玩盡興呢~	あら、もう終わりですか？お姉さん、まだまだ分析員と遊び足りないのに～	이런, 벌써 끝난 거야? 우린 아직 몸도 안 풀렸는데~	Ah, it's over already? I haven't had enough fun with the Adjutant yet though~						0	
+3	望着被生灵守护舱炸得焦黑的场地，我无奈地摇了摇头。	望著被生靈守護艙炸得焦黑的場地，我無奈地搖了搖頭。	ライフセーバーカプセルに爆撃されて黒くなったステージを眺めながら、私は仕方なく首を振った。	혼령 보호 캡슐이 터져 새까맣게 타들어간 모습을 보며 난 절레절레 고개를 흔들었다.	I shook my head in resignation as I gazed at the ground charred by her Guardian Pod.						0	
+4	再这样折腾下去，整个浮岛估计都要被恩雅姐炸沉了吧。	再這樣折磨下去，整個浮島可能都要被恩雅姐炸沉了吧。	このままだと、島がエンヤ姉に撃沈されかねないよ。	계속 이렇게 파괴하다 보면 엔야 때문에 섬 전체가 가라앉게 생겼어.	If you'd kept that up, you would've sunk the entire island, Enya.						0	
+5	嗯？姐姐做得有些过了吗？	嗯？姐姐做得有些過頭了嗎？	あら？お姉さん、やりすぎたのかな？	음? 내가 너무 심했나?	Hmm? Did I go a little overboard?						0	
+6	恩雅姐将手指抵在嘴唇上，装作一副无辜的模样。	恩雅姐將手指抵在嘴唇上，裝作無辜的模樣。	エンヤは指を唇に置いて、知らんぷりをした。	엔야는 손가락을 입에 갖다 대며 억울하다는 제스처를 취했다.	Enya put a finger to her lips, pretending to act innocent.						0	
+7	不过总归结果是好的，后面的趣味挑战还请姐姐继续保持这个干劲吧。	不過總歸結果是好的，後面的趣味挑戰還請姊姊繼續保持這個幹勁吧。	何はともあれ、結果はよかったよ。ユニークチャレンジも引き続き頼む。	그래도 결과는 좋으니까 앞으로 있을 보너스 챌린지에서도 계속 이렇게만 해주세요.	But it worked out in the end. Keep that same energy for the next fun challenge.						0	
+8	收到~	收到~	了解で～す！	알았어~	Roger that~						0	
+9	那就……一起回去吧。	那就……一起回去吧。	それじゃ……一緒に帰りましょうか。	그럼… 같이 돌아가자.	Then... let's head back together.						0	
+10	说完，恩雅便一把抓过我的手臂贴了上来。	說完，恩雅便一把抓過我的手臂貼了上來。	そう話すと、エンヤは私の腕にくっついてきた。	말을 끝내고, 엔야가 팔을 끌어당기며 나에게 밀착해 왔다.	After saying this, Enya grabbed onto my arm and pressed up against it.						0	
+11	各位，我们回来了哦~	各位，我們回來了哦~	みなさん、帰ってきましたよ～	우리 왔어~	Everyone, we're back~						0	
+12	贴得好近……分析员的整条手臂都埋进去了……	貼得好近……分析員的整條手臂都埋進去了……	ちょっと近くないですか……分析員の腕が完全に埋もれてますけど……	너무 가까이 붙은 거 아닌가요… 분석가님의 팔이 파묻혀 버렸잖아요…	She's glued to him... His whole arm is buried in there...						0	
+13	哦？难道说我们的大小姐吃醋了？	哦？難道說我們的大小姐吃醋了？	あら。お嬢様ったらヤキモチ？	음? 설마 질투하는 거야?	Oh? Is our little heiress jealous?						0	
+14	才没有那回事……如果分析员喜欢这样的话，就随他好了……	才沒有那回事……如果分析員喜歡這樣的話，就隨他好了……	そうじゃなくて。分析員がそれでいいなら……好きにすればいいですよ……	그럴 리가요… 분석가님이 좋다면 어쩔 수 없는 거죠…	That's not what I meant... If the Adjutant likes it, then by all means...						0	
+15	虽然嘴上这么说，但辰星还是下意识地将脸扭向了一边。	雖然嘴上這麼說，但辰星還是下意識地將臉扭向了一邊。	口ではそう言いつつも、辰星は不満そうにぷいと顔を背けた。	말은 그렇게 했지만 수성은 무의식적으로 얼굴을 반대로 돌리고 있었다.	Though she said this, Chenxing still inadvertently looked away.						0	
+16	另外，这种事我也可以做得到……	另外，這種事我也可以做得到……	私だってできますから……	물론, 그 정도는 저도 할 수 있어요…	And I could do something like that too...						0	
+17	哎？是哪种事呢？难道说是……	哎？是哪種事呢？難道說是……	え？できるって、なにを？もしかして……	어? 어떤 걸 말하는 거야? 설마…	Eh? "Something like that"? Are you talking abou—						0	
+18	有些事情还是不要刨根问底了，芙提雅老师与其他人不同的地方，才正是最迷人的亮点。	有些事情還是不要刨根問底了，芙提雅老師與其他人不同的地方，才正是最迷人的亮點。	あんまり掘り下げるのはやめた方がいいよ。そこがフリティア先生の良いところでもあるんだから。	너무 꼬치꼬치 캐묻지 마, 프티야와 다른 사람들의 차이점이야말로 가장 매력적인 포인트거든.	Some things are better left unsaid. Your unique qualities are what make you charming.						0	
+19	嗯？是吗？	嗯？是嗎？	え？そうかな。	음? 그래?	Oh, really?						0	
+20	芙提雅小眼珠一转，随后便用手捋了捋胸脯。	芙提雅小眼珠一轉，隨後便用手捋了捋胸脯。	フリティアは何か考え込んだ後で、自分の胸を撫でてみた。	프티야는 눈알을 살짝 굴리더니, 손으로 자신의 가슴을 살짝 쓸어내린다.	Fritia pondered for a moment before rubbing her chest.						0	
+21	哎嘿嘿，其实我也是这么认为的哦~	哎嘿嘿，其實我也是這麼認為的~	えへへ。実は私もそう思ってるんだよね～	헤헤, 맞아, 나도 그렇게 생각해~	Hey, I actually think you're right~						0	
+22	哼哼，好险好险，要不是分析员，差点就要陷入自我怀疑了。	哼哼，好險好險，要不是分析員，差點就要陷入自我懷疑了。	ふふ、危なかった。分析員にそう言われないと、自分を疑うところだったよ。	흥흥, 정말 위험했어, 분석가가 아니었으면 나 자신을 의심할뻔했어.	Hehe, that was a close one. I almost let my self-doubt get the better of me.						0	
+23	不过就算你再怎么夸小老师，小老师也不会忘记自己是一名公平公正的裁判哦~	不過就算你再怎麼誇小老師，小老師也不會忘記自己是一個公平公正的裁判哦~	でも、いくら褒めてもムダだからね。フリティア先生は公平で公正な審査員なんだから！	아무리 나를 칭찬해도, 난 자신이 공평한 심판이라는 걸 잊지 않을 거야~	But no matter how much you compliment me, I won't forget I need to be a fair and objective judge~						0	
+24	接下来的趣味挑战，分析员你们做好准备了吗？	接下來的趣味挑戰，分析員你們做好準備了嗎？	ユニークチャレンジを続けるよ、準備はできてる？	앞으로 있을 보너스 챌린지는 잘 준비돼 가고 있어?	Are you guys all ready for the next fun challenge?						0	
+25	嗯，恩雅姐，拿出卡片吧。	嗯，恩雅姐，拿出卡片吧。	ああ。エンヤ姉、カードを引いてくれ。	응, 엔야, 카드를 꺼내주세요.	Yep. Pull out the card, Enya.						0	
+26	好~稍等一下，姐姐现在就抽出来。	好~稍等一下，姐姐現在就抽出來。	は～い。今引きますね。	좋아~	Okay~ Give me one second. Here it comes...						0	
+27	藏得还挺深的嘛……	藏得還挺深的嘛……	へえ。結構深い場所に隠れてるじゃない。	잘 숨겨뒀네…	It was in there really deep...						0	
+28	“还请各位排成一列，通过连接在船尾的钢丝，将一颗西瓜安全护送至对面的风力发电机平台上。”	「還請各位排成一列，通過連接在船尾的鋼絲，將一顆西瓜安全護送至對面的風力發電機平台上。」	「全員で一列になって、船の後部に繋がれている綱を渡って、スイカを向こうの風力発電台まで運べ。」	"한 줄로 서서 선미에 있는 와이어를 연결해, 수박을 안전하게 건너편에 있는 풍력 발전소에 가져다주세요."	"Form a line and use the tightwire connected to the boat's stern to safely deliver a watermelon to the opposite wind turbine platform."						0	
+29	“挑战完成，追加1分奖励分，挑战失败，扣除1分总分。”	「挑戰完成，追加1分獎勵分，挑戰失敗，扣除1分總分。」	「チャレンジクリアでボーナス1点獲得。チャレンジに失敗すると、総得点から1点減点される。」	"챌린지에 성공하면 보너스 점수 1점, 챌린지에 실패하면 총점에서 1점을 감점됩니다."	"One point will be awarded for completing the challenge. One point will be deducted if you fail."						0	
+30	恩雅话音刚落，一群无人机便拉着一条仅有小指粗的钢丝聚集了过来。	恩雅話音剛落，一群無人機便拉著一條僅有小指粗的鋼絲聚集了過來。	エンヤが読み上げるのと同時にドローンの群れが現れ、小指くらいの太さの綱を持ってきた。	엔야의 말이 끝나자마자 드론 한 대가 손가락 굵기 정도의 와이어를 한곳에 모으기 시작했다.	As soon as Enya finished reading, a cluster of drones brought over a thin wire only as wide as my pinky finger.						0	
+31	随后，只花了一会儿工夫，它们便搭建出了一条成30°斜角的钢丝绳。	隨後，只花了一點工夫，它們便搭建出了一條成30°斜角的鋼絲繩。	そうして、ドローン達は30度くらいの傾斜になるように綱を繋げた。	이내 얼마 지나지 않아 30° 경사를 가진 와이어 줄이 완성되었다.	Soon after, they had set up the wire with a 30-degree incline.						0	
+32	分析员，西瓜就拜托你保管了。	分析員，西瓜就拜託你保管了。	分析員、スイカは頼みましたよ。	분석가님, 수박을 잘 좀 부탁할게요.	Adjutant, I'll let you look after the watermelon.						0	
+33	接过卡罗琳递来的西瓜后，我调整好呼吸站在了钢丝的起点。	接過卡羅琳遞過來的西瓜後，我調整好呼吸站在了鋼絲的起點。	カロリンからスイカを受け取ると、私は呼吸を整えてから、綱のスタート地点に立った。	캐롤린이 건네준 수박을 받아 들고, 호흡을 가다듬으며 와이어 시작점에 섰다.	After taking the watermelon from Caroline, I steadied my breathing and stood where the wire began.						0	
+34	仅仅有一指宽的线径，同时还要提防肆意的海风。如果只是一个人的话说不定还能靠着速度快速抵达对岸，不过眼下却是要四人一同走上钢丝……	僅僅有一指寬的線徑，同時還要提防肆意的海風。如果只是一個人的話說不定還能靠著速度快速抵達對岸，不過眼下卻是要四人同時走上鋼絲……	指くらいの太さしかない綱の上で、吹きすさぶ海風に耐えないといけないのか。ひとりだけなら駆け抜ければいいのかもしれないが、4人で同時に綱を渡るとなると……	손가락 굵기의 와이어와 몰아치는 바닷바람. 만약 혼자서라면 빠른 속도로 건너편으로 넘어갈 수도 있겠지만 지금은 4명이 한 번에 와이어를 건너야 하는 상황이다…	The wire was only as wide as a finger, and the strong ocean winds made it all the more dangerous. One person might have been able to reach the other side in no time, but all four of us had to walk on the wire together...						0	
+35	思索一番后，我微微侧头看向了身后的少女们。	思索一番後，我微微側頭看向了身後的少女們。	私は少し考えてから、背後の少女達を振り向いた。	잠시 생각을 한 뒤, 난 고개를 살짝 돌려 등 뒤에 있는 소녀들을 바라보았다.	After pondering for a moment, I turned slightly to look at the girls behind me.						0	
+36	听我说，一会儿我们不求快，听我指挥，保持步调统一，彼此之间保持两米距离。	聽我說，等一下我們不求快，聽我指揮，保持步調統一，彼此之間保持兩公尺距離。	みんな、聞いてくれ。私の指示通りに2メートルくらいの間隔になって、足並みを合わせてゆっくり渡るんだ。	내 말 잘 들어줘, 속도는 빠르지 않아도 되니까 내 지휘에 따라 발걸음을 통일시키고 서로 2미터의 간격을 유지하도록 하자.	Alright. We need to take it slow. Listen to my orders, keep a consistent pace, and stay six feet away from the person in front of you.						0	
+37	至于顺序的话……	至於順序的話……	順番は……	순서는…	As for the order we'll go in...						0	
+38	不过，我不太喜欢太高的地方。	不過，我不太喜歡太高的地方。	まぁ、高い場所はあまり好きじゃないんだけどね。	근데 난 높은 곳을 싫어해.	But I don't really like heights.						0	
+39	凯茜娅和辰星依次跟在我身后。	凱茜婭和辰星依序跟在我身後。	カーシアと辰星は私の後ろについてきて。	캐시아, 수성 순으로 내 뒤에 서도록 하죠.	Katya and Chenxing will go behind me.						0	
+40	嗯，我没什么问题……	嗯，我沒什麼問題……	まぁ、私は大丈夫よ……	좋아, 난 괜찮아…	Okay, I'm fine with that...						0	
+41	视线被挡住了……不过也罢，这么一来就能保持定力了。	視線被擋住了……不過也罷，這麼一來就能保持定力了。	視線が遮られますね……とはいえ、この方が集中できますか。	시선이 가려졌지만… 그래도 괜찮아, 오히려 집중할 수 있을 거 같아.	We won't be able to see up ahead... But I guess it's fine. I can stay concentrated that way.						0	
+42	至于队尾，就拜托恩雅姐了。	至於隊尾，就拜託恩雅姐了。	最後は、エンヤ姉に頼むよ。	그럼 마지막 자리를 부탁 좀 할게요, 엔야.	And I need you to bring up the rear, Enya.						0	
+43	哎？这样的话，姐姐不是没法抱住你了吗？	哎？這樣的話，姐姐不是沒辦法抱住你了嗎？	あら。それだと、お姉さんが分析員をハグできなくなっちゃいますね。	뭐? 그럼 내가 널 뒤에서 안을 수 없게 되잖아?	Huh? Does that mean I won't get to hold onto you?						0	
+44	虽然很可惜，不过队尾的位置，还是希望可以交给更稳重一些的恩雅姐。	雖然很可惜，不過隊尾的位置，還是希望可以交給更穩重一些的恩雅姐。	しんがりは落ち着いているエンヤ姉に頼みたいんだ。	아쉽긴 하지만 우리 팀의 등을 조금 더 듬직한 엔야가 맡아줬으면 해서 그래요.	I know it's a bummer, but I chose you for the back because you're so steady, Enya.						0	
+45	嗯……既然分析员都这么说了，那姐姐也没有拒绝的理由了吧。	嗯……既然分析員都這麼說了，那姊姊也沒有拒絕的理由了吧。	ふむ……そう言われると、断れませんね。	음… 분석가가 이렇게까지 말했는데, 더 이상 거절할 이유가 없네.	Okay... If that's what you think, I don't see why not.						0	
+46	放心~大家的后背，就交由我来守护~	放心~大家的後背，就交由我來守護~	安心してください、みんなの背中を守ってみせますから～	걱정하지 마~ 여러분의 뒤는 내가 지켜줄 테니까~	Don't worry, everyone! I've got your back~						0	
+47	认真起来的恩雅拍了拍自己的胸脯，爽朗的语气中充满了令人安心的坚定。能有她这样的承诺，我心中顿时便有了十足的信心。	認真起來的恩雅拍了拍自己的胸脯，爽朗的語氣中充滿了令人安心的堅定。能有她這樣的承諾，我心中頓時有了十足的信心。	エンヤは自分の胸を叩いてみせた。爽やかで頼もしい言葉だ。そうやって約束してくれると、私も自信が湧いてくる。	진지해진 엔야는 자신의 가슴을 툭툭 친다, 시원시원한 말투 속에는 사람을 진정시키는 확고함이 느껴졌고 그녀의 약속 때문인지는 몰라도 갑자기 자신감이 생겨났다.	Enya patted her chest resolutely as she said this. Her invigorated tone was brimming with reassuring determination, immediately filling me with confidence.						0	
+48	那么大家做好准备，我们现在就上路吧！	那麼大家做好準備，我們現在就上路吧！	準備はいいな。始めるぞ！	그럼 다들 준비하시고, 바로 출발하도록 하자!	Alright, everyone. Get ready. Let's move!						0	
+49	一声令下后，我率先迈开了第一步。	一聲令下後，我率先踏開了第一步。	私は声をあげると、最初の一歩を踏み出した。	나는 호령을 내리며 첫발을 내디뎠다.	I took my first step after giving the order to begin.						0	
+50	一，二……一，二……一……	一，二……一，二……一……	1、2……1、2……1、2……	하나, 둘… 하나, 둘… 하나…	One, two... One, two...						0	
+51	在走过了相对轻松的前半程后，我们来到了距离海平面30米的钢丝中段——最为凶险的地方。	在走過了相對輕鬆的前半段後，我們來到了距離海平面30公尺的鋼絲中段——最為兇險的地方。	前半はまだ簡単だった。中盤になると、私達は海面から30メートルも離れている難所に差し掛かった。	비교적 쉬운 전반부를 건너 바다와 30m 정도 떨어진 와이어 중간 부분… 가장 위험한 부분에 도착했다.	After traversing the first half relatively easily, we made our way to the middle of the wire. It was 30 meters above the ocean, making it the most precarious position.						0	
+52	站在高空的钢丝上，浪涛发出沉闷的声响与海风呼啸声混在一起，从四面八方向我们袭来。	站在高空的鋼絲上，浪濤發出沉悶的聲響與海風呼嘯聲混在一起，從四面八方向我們襲來。	綱に立っているだけで、低い波音と海風の吹きすさぶ音が混ざり合いながら、四面八方から私達に襲い掛かってくる。	허공에 있는 와이어에 서 있자, 묵직한 파도 소리와 거대한 바닷바람 소리가 사방팔방에서 우리를 습격해 왔다.	As we balanced on the wire in midair, the rhythmic sound of the waves and whistling ocean breeze bombarded us from all sides.						0	
+53	而脚下不断晃动着的钢丝也仿佛在提醒着我们，稍有闪失，我们便会被它抛下。	而腳下不斷晃動的鋼絲也彷彿在提醒著我們，稍有閃失，我們便會被它拋下。	綱の揺れも激しい。油断すればあっと言う間に海に落ちてしまうだろう。	발아래에서 끊임없이 흔들리는 와이어는 약간의 실수만 있어도 너희를 바로 아래로 떨어뜨릴 거라고 알려주는 듯했다.	The swaying wire under our feet was seemingly reminding us, "If you make one wrong move, you're done for."						0	
+54	咕咕咕……	咕咕咕……	クゥー……	끼룩끼룩…	*squawk*...						0	
+55	此刻，就连位于终点处海鸥们也都屏气凝神，将目光投向了命运未卜的我们。	此刻，就連位於終點處海鷗們也都屏氣凝神，將目光投向了命運未卜的我們。	ゴール地点に立っているカモメ達も大声を立てず、じっと私達を見つめていた。	종점에 있는 갈매기들도 숨을 죽이며 정신을 집중하기 시작했고, 운명을 알 수 없는 우리에게 시선을 돌렸다.	It felt like even the seagulls at the finish line were holding their breath, watching us embrace our uncertain fate.						0	
+56	呼……	呼……	フー……	후우…	Hahh...						0	
+57	温热的吐息不断拂过我的脖颈，不知不觉间，我已经可以清晰地感知到凯茜娅的每一口吐息了……那是带着浓烈紧张感的气息。	溫熱的吐息不斷拂過我的脖頸，不知不覺間，我已經可以清晰地感知到凱茜婭的每一口吐息了……那是帶著濃烈緊張感的氣息。	暖かい吐息が私の首元にかかる。いつの間にか、カーシアの吐息を感じ取れるようになっていた。ひどく緊張感に満ちた吐息だった。	따뜻한 숨결이 계속해서 나의 목덜미를 자극했고, 어느 순간부터 캐시아의 숨소리가 너무 선명하게 느껴지기 시작했고… 그건 긴장감이 넘치는 숨소리였다.	I could feel warm breath brushing against my neck. Before I knew it, I could clearly feel every breath Katya took... tense and choking.						0	
+58	我们之间的距离，早就缩短到了一米之内……	我們之間的距離，早就縮短到了一公尺之內……	私達の間にあった距離も、いつの間にか1メートルになるまで縮み……	우리 사이의 간격이 어느새 1m도 안 되게 가까워져 있었다…	We were only a few feet from each other now...						0	
+b-1											0	
+59	回头安慰她	回頭安慰她	振り返って彼女を慰める	고개 돌려 안심시키기	Turn around to comfort her						0	
+60	凯茜娅，后面的路，还是扶着我的肩膀走吧。	凱茜婭，後面的路，還是扶著我的肩膀走吧。	カーシア。私の肩を貸すから、ここからは支えにして歩いてくれ。	캐시아, 남은 길은 내 어깨를 잡고 건너도록 해.	Katya, hold onto my shoulder the rest of the way.						0	
+61	你在说什么呢，我才没有那么脆弱……	你在說什麼呢，我才沒有那麼脆弱……	何言ってるの。そこまでやわじゃ……	무슨 소리 하는 거야, 난 그렇게 나약하지 않아…	What? I'm not some delicate flower...						0	
+62	凯茜娅咬紧嘴唇，故作镇定地露出了别扭的微笑。	凱茜婭咬緊嘴唇，故作鎮定地露出了彆扭的微笑。	カーシアは唇を噛み締めて、ぎこちない笑顔を見せた。	캐시아는 입술을 깨물고, 이내 태연한 척하며 어색한 미소를 지었다.	Katya gritted her teeth, putting on a fake, unnatural smile.						0	
+63	唔……	唔……	っ……	윽…	Um...						0	
+64	然而仅仅是一阵轻微风吹过，她便又停下了脚步，抬起头，眼中闪烁起一丝犹豫。	然而僅僅是一陣輕微風吹過，她又停下了腳步，抬起頭，眼中閃爍起一絲猶豫。	しかし、そよ風を受けただけで彼女はまた足を止めた。顔をあげると、彼女の目には戸惑いの色が浮かんでいた。	하지만 바람이 살짝만 불어도 그녀는 발걸음을 멈추었고, 고개를 들어 무언가를 망설이는듯했다.	However, she stopped again as a gentle breeze blew by. She looked up, a trace of hesitation flashing through her eyes.						0	
+65	好啦，现在不是逞强的时候，快，慢慢把手搭上来。	好啦，現在不是逞強的時候，快，慢慢把手搭上來。	今は強がってる場合じゃない。ほら、手をここに置いてくれ。	됐고, 지금은 강한척할 때가 아니야, 어서, 내 어깨를 잡도록 해.	Katya, this isn't the time to act tough. Come here. Put your hand on me slowly.						0	
+66	……行吧。	……好吧。	……わかったわ。	…알았어.	...Alright, fine.						0	
+67	在经过了短暂的内心挣扎后，凯茜娅还是选择倔强地将手伸出。	在經過了短暫的內心掙扎後，凱茜婭還是選擇倔強地將手伸出。	しばらく迷ったものの、結局カーシアは手を伸ばしてくれた。	잠깐 내적 고민을 하더니 캐시아는 억지로 손을 뻗기로 결정했다.	After a short inner conflict, Katya ultimately decided to reach out stubbornly.						0	
+68	只是那微微发红发烫的脸蛋却暴露出她内心真实的波动。	只是那微微發紅發燙的臉蛋卻露出她內心真實的波動。	しかしその赤く染まった頬から、彼女の本当の気持ちは容易く読み取れた。	다만 붉게 물든 그녀의 얼굴에서 그녀의 요동치는 속마음을 확인할 수 있었다.	However, her slightly flushed and hot cheeks betrayed her shifting emotions.						0	
+69	呵，其实每次你逞强的时候，都还蛮可爱的。	呵，其實每次你逞強的時候，都還蠻可愛的。	ふふ。気付いてるか？強がってる時の君は結構可愛らしいって。	하하, 캐시아, 너 말이야, 매번 강한척할 때마다 정말 귀여운 거 알아?	Every time you act all tough, it's actually pretty cute.						0	
+70	哪有这回事？！	哪有這回事？！	そんなことが……！	내가 언제 그랬다고 그래?!	What are you on about!?						0	
+71	然而正当她反驳出口的一瞬间——	然而正當她反駁出口的一瞬間——	彼女が否定しようとした瞬間——	그녀가 반박을 하려는 순간…	But just as she began to argue with the statement I'd made...						0	
+72	一阵更为强烈的海风突然袭来，使得整根钢丝都剧烈地晃动起来。	一陣更強烈的海風突然襲來，使得整根鋼絲都劇烈地晃動起來。	さらに強い海風が襲ってきて、綱全体が揺れ始めた。	엄청 강력한 바닷바람이 불어왔고, 와이어 전체가 심하게 흔들리기 시작했다.	A strong gust of wind suddenly blew by, causing the entire wire to sway violently.						0	
+73	playername！	playername！	playername！	playername!	playername!						0	
+74	凯茜娅身子一斜，整个人失去了平衡，向着脚下的海面滑落而去。	凱茜婭身子一斜，整個人失去了平衡，向著腳下的海面滑落而去。	カーシアは完全にバランスを失って、海面に向かって落ちそうになった。	캐시아는 휘청거리며 중심을 잃었고, 발아래에 있는 바다로 떨어졌다.	Katya swung to one side, lost her balance, and teetered over the water below.						0	
+75	辰星，接着西瓜！	辰星，接著西瓜！	辰星、スイカを頼んだ！	수성, 수박 좀 받아줘요!	Chenxing, take the watermelon!						0	
+76	嗯！	嗯！	はい！	네!	Got it!						0	
+77	见状，我急忙将手中的西瓜抛开，一把托住了凯茜娅的腰际，将她拉入怀中。	見狀，我急忙將手中的西瓜拋開，一把托住了凱茜婭的腰際，將她拉入懷中。	私はすぐにスイカを投げ出すと、カーシアの腰回りを掴んで、自分のほうへ引き寄せた。	떨어지려는 걸 목격하고 난 황급히 손에 들고 있던 수박을 던지고 단숨에 캐시아의 허리를 받히고 그녀를 품속으로 끌어당겼다.	Watching this happen, I quickly tossed the watermelon aside. I grabbed onto Katya's waist and pulled her into my embrace.						0	
+78	抓紧我，别松手。	抓緊我，別放手。	しっかり掴まれ。離れるなよ。	꽉 잡고, 절대 놓지 마.	Hold on tight to me. Don't let go.						0	
+79	唔嗯……	唔嗯……	ん……	으응…	Ah...						0	
+80	隔着胸膛，我清晰地感知到她的心正越跳越快。	隔著胸膛，我清晰地感知到她的心正越跳越快。	彼女の鼓動が徐々に早くなるのを感じた。	그녀의 심장이 점점 더 빨리 뛴다는 걸 느낄 수 있었다.	I could feel her heart beating faster and faster through her chest.						0	
+81	汗水顺着身体不断流向脚边，让本就纤细的钢丝绳更添一分危险。	汗水順著身體不斷流向腳邊，讓本就纖細的鋼絲繩更添一分危險。	汗が体から足元に流れていき、元から太さの足りない綱での移動はさらに危ういものになった。	땀이 몸을 타고 흘러 발아래까지 떨어졌고, 안 그래도 위험한 와이어를 더 위험하게 만들었다.	Sweat dripped down to my feet, making the thin wire even more perilous.						0	
+82	于是，我缓缓张开双臂，努力将重心转移到自己脚下，随后看向了队尾的恩雅。	於是，我緩緩張開雙臂，努力將重心轉移到自己腳下，隨後看向了隊尾的恩雅。	私はゆっくりと両腕を広げて、重心をできるだけ足元に移してから、最後尾にいるエンヤに振り向いた。	난 천천히 양팔을 벌려 중심을 최대한 낮추고 가장 후미에 있는 엔야를 쳐다봤다.	I slowly spread my arms, attempting to shift my center of gravity to my feet. I then looked at Enya at the back of the line.						0	
+83	恩雅姐，帮忙调整一起稳住绳子！	恩雅姐，幫忙調整一起穩住繩子！	エンヤ姉！一緒に綱を安定させるぞ！	엔야, 같이 와이어가 안 흔들리게 잡아주세요!	Enya, help me stabilize the wire!						0	
+84	交给姐姐吧！	交給姐姐吧！	任せてください！	나한테 맡겨!	Leave it to Big Sis!						0	
+85	终于……片刻过后，在三人合力努力下，钢丝稳定了下来。	終於……片刻過後，在三人合力努力下，鋼絲穩定了下來。	私達3人の努力で、綱がようやく落ち着いた。	잠시 후… 세 사람이 힘을 합치자 와이어가 조금씩 안정되기 시작했다.	Finally... After some time, the three of us worked together to stabilize the wire.						0	
+86	但凯茜娅的心脏却依旧咚咚咚地跳个不停……	但凱茜婭的心臟卻依舊咚咚咚地跳個不停……	しかし、カーシアの心臓はまだ早鐘を打っているようだ。	하지만 캐시아의 심장은 두근거림이 멈추지 않았다…	But Katya's heart was still pounding...						0	
+b-2											0	
+87	如果坚持不下去的话，别勉强自己……	如果撐不下去的話，別勉強自己……	これ以上耐えきれないなら、無理だけはしないでくれ……	만약 못 견디겠으면 절대 무리는 하지 마…	If you can't hang in there any longer, don't force yourself...						0	
+88	你已经做得很好了。	你已經做得很好了。	もう十分に頑張ったから。	이미 충분히 잘했어.	You already did a great job.						0	
+89	不……如果现在就放弃了，那分析员和大家的努力不就白费了吗……	不……如果現在就放棄了，那分析員和大家的努力不就白費了嗎……	いやよ……今諦めたら、分析員とみんなの頑張りが水の泡になるじゃない……	아니… 만약 지금 포기하게 되면 분석가랑 다른 사람들이 했던 노력이 물거품이 되는 거잖아…	No... If I give up now, all of our hard work will have been for nothing...						0	
+90	所以继续吧……	所以繼續吧……	だから続けるわ。	그러니 계속해야 해…	So let's keep going...						0	
+91	她虽然嘴上又恢复了往日的那股倔强，但是身体还是忍不住地颤抖着。	她雖然嘴上又恢復了往日的那股倔強，但是身體還是忍不住地顫抖著。	普段のような強がりを見せているが、彼女の体は今も震え続けている。	그녀의 말만 들었을 때는 옛날 고집이 돌아온 것처럼 느껴졌지만, 몸은 여전히 떨고 있었다.	Even though her usual stubborn streak was back, she couldn't stop trembling.						0	
+92	此刻，她只能扶着我的肩膀才能缓慢前行。	此刻，她只能扶著我的肩膀才能慢慢前進。	今の彼女は私の肩を支えにしてゆっくりと進むことしかできない。	지금 이 순간, 그녀는 나의 어깨에 의지해 천천히 앞으로 걸어갈 수밖에 없었다.	All she could do was hold onto my shoulders and slowly continue forward.						0	
+93	还能继续走吗？	還能繼續走嗎？	まだ歩けるか？	계속할 수 있겠어?	Can you keep walking?						0	
+94	嗯……	嗯……	ん……	음…	Yeah...						0	
+95	她点头答应后，手扶着我的肩膀，将额头抵住我的后背闭上眼，这才迈开了第一步……	她點頭答應後，手扶著我的肩膀，將額頭抵住我的背閉上眼，這才踏開了第一步……	カーシアは頷くと、手を私の肩において、額を私の背中に当ててから、ようやく足を踏み出した。	그녀는 고개를 끄덕이고는 나의 어깨에 손을 올리고 이마를 나의 등에 파묻은 뒤 눈을 감고 첫걸음을 디딜 수 있었다…	She nodded, placing her hands back on my shoulders. She then pressed her forehead against my back, closed her eyes, and took a step...						0	
+96	经历了刚刚的一番折腾，她早已卸下往日里那副强势的模样，好似一只受惊的小兽般浑身颤抖着。	經歷了剛剛的一番折騰，她早已卸下往日裡那副強勢的模樣，好似一隻受驚的小獸般渾身顫抖著。	さっきのアクシデントを経て、彼女の強がりな態度はすっかり鳴りをひそめ、今や小動物のように体を震わせていた。	한바탕 소란이 일어난 뒤, 그녀에게서 더 이상 과거의 강한 모습은 찾아보기 힘들었고, 마치 놀란 맹수처럼 온몸을 떨고 있었다.	After what had just happened, her typical strong image had already vanished. She was now shaking like a scared little animal.						0	
+97	抱歉，刚刚捉弄你捉弄过头了。	抱歉，剛剛捉弄你捉弄過頭了。	さっきは冗談が過ぎたようだ。すまない。	미안, 내가 너무 심했던 거 같아.	I'm sorry. I took it too far with the teasing just now.						0	
+98	你这家伙……	你這傢伙……	あなたねぇ……！	너 이 녀석…	You...						0	
+99	这一回，我没有再继续调侃她，而是用温柔的语气继续安抚道。	這一回，我沒有再繼續調侃她，而是用溫柔的語氣繼續安撫道。	私は冗談じみた口調ではなく、優しく彼女を宥めた。	이번에 난 더 이상 그녀를 놀리지 않고, 부드러운 말투로 그녀를 안심시켰다.	I didn't tease her again this time. Instead, I gently comforted her.						0	
+100	接下来，将注意力都集中在我身上，别看脚下，也别想其他的事。	接下來，將注意力都集中在我身上，別看腳下，也別想其他的事。	これからは私にだけ集中してほしい。足元も、他のことも、もう考えるな。	이제 나에게만 집중해, 더 이상 발밑도 보지 말고, 다른 생각도 하지 마.	Just concentrate on me from now on. Don't look down, and don't think about anything else.						0	
+101	嗯……我知道了……	嗯……我知道了……	うん……わかったわ。	응… 알았어…	Okay... I understand...						0	
+102	就这样，在经历一场小小的风波过后，我们总算是完成了最难走的钢丝中段。	就這樣，在經歷一場小小的風波過後，我們總算完成了最難走的鋼絲中段。	こうして、アクシデントこそあったけれど、私達は中盤をなんとかやり過ごした。	그렇게 한바탕의 풍파가 지나가고, 가장 어려운 와이어 중간 부분을 통과했다.	Just like that, we survived the minor hiccup and made it past the most difficult portion of the wire.						0	
+103	途中，凯茜娅的心跳也渐渐平稳了下来，只是，也不知道是不是因为刚刚丢了面子的缘故，她一路上一直有意无意地在掐着我……	途中，凱茜婭的心跳也漸漸平穩了下來，只是，也不知道是不是因為剛剛丟了面子的緣故，她一路上一直有意無意地在掐著我……	しばらくするとカーシアの動揺も落ち着いてきたけれど、さっき恥ずかしいところを晒してしまったせいか、彼女はずっと私の肩に力をいれていた……	와이어를 건너는 도중에 캐시아의 심장도 조금씩 진정이 되었지만 방금 보여준 모습이 부끄러웠는지 건너는 내내 무심코 나를 계속해서 꼬집었다…	Katya's heartbeat also began to calm. However, I'm not sure if it's because she was embarrassed, but she kept squeezing me the entire way. Whether intentionally or not...						0	
+104	凯茜娅，你掐疼我了哦……	凱茜婭，你掐疼我了哦……	カーシア、痛いぞ。	캐시아, 아파…	Katya, you're hurting me...						0	
+105	哎？对不起……	哎？對不起……	え？あ、ごめん……	어? 미안해…	Ah? Sorry...						0	
+106	虽然她口上说着对不起，但等走到距离终点最后一程时，我的肩膀却早已被她掐得通红……	雖然她口上說著對不起，但等走到距離終點最後一程時，我的肩膀卻早已被她掐得通紅……	謝りこそしてくれたが、ゴールに辿り着いたときには、私の肩にはくっきりと赤い手形が残っていた……	말은 미안하다고 했지만 종점까지 얼마 남지 않은 거리를 통과할 때 나의 어깨는 이미 붉게 물들어있었다…	She'd already apologized, but by the time we made it to the final stretch, the skin on my shoulders had already turned red from her tight grip.						0	
+107	咕咕咕~咕咕咕~	咕咕咕~咕咕咕~	クゥーー、クゥー、クゥーー	끼룩~ 끼룩~	*squawk—* *squawk, squawk—*						0	
+108	呵，你们是在恭喜我们吗？	呵，你們在恭喜我們嗎？	ふふ、おめでとうって言っているのか？	하, 지금 우리를 축하해 주는 거야?	Heh, are you guys cheering us on?						0	
+109	踏上风力发电机平台瞬间，早已观摩我们多时的海鸥们一齐发出了嘹亮的鸣声。	踏上風力發電機平台瞬間，早已觀摩我們多時的海鷗們一齊發出了嘹亮的鳴聲。	風力発電台に辿り着いた瞬間、私達を待ちわびていたカモメ達が一斉に甲高い鳴き声をあげた。	풍력 발전기 플랫폼에 발을 디디는 순간, 우리를 오랫동안 지켜본 갈매기들이 우렁찬 울음소리를 내기 시작했다.	The gulls that had been watching us began crying out the second we stepped on the wind turbine platform.						0	
+110	时间尚有富余，我们顺利完成了挑战。	時間仍有富餘，我們順利完成了挑戰。	時間がまだ余っています。チャレンジクリア、ですね。	시간도 충분히 많이 남았고, 큰 문제 없이 챌린지를 완수했네요.	We finished the challenge with time to spare.						0	
+111	嗯，有惊无险~有惊无险~	嗯，有驚無險~有驚無險~	ええ。無事でよかったです～	맞아, 정말 아슬아슬했어~	Yeah, just barely~						0	
+112	……	……	……	……	...						0	
+113	和辰星与恩雅不同，此刻的凯茜娅貌似还没有缓过神来，她依旧紧紧贴着我的身侧。	和辰星與恩雅不同，此刻的凱茜婭似乎還沒有緩過神來，她依舊緊緊貼著我的身側。	辰星やエンヤと違って、カーシアはまだ緊張が解けていないのか、私にくっついていた。	수성과 엔야와 달리 캐시아는 아직 정신을 못 차린 듯했고, 여전히 나의 옆에 꼭 붙어있었다.	Unlike Chenxing and Enya, it seemed like Katya still hadn't gotten over the shock. She was still clinging on to me.						0	
+114	看样子得抓紧带她下去才行。	看樣子得趕快帶她下去才行。	早くここから連れ出さないとな。	어서 그녀를 데리고 내려가야 할 것 같다.	Judging by the looks of things, we needed to get her down from there right away.						0	
+115	这么想着，我用自己的终端呼叫了远在游艇上的安卡希雅。	這麼想著，我用自己的終端呼叫了遠在遊艇上的安卡希雅。	そう思いながら、私は端末で遠くの船にいるアカシアに連絡を取った。	생각을 마치고, 통신 장치로 요트에 있는 아카시아를 호출했다.	I used my terminal to contact Acacia, who was still far away on the yacht.						0	
+116	我们已经完成任务了哦，安卡希雅。	我們已經完成任務了哦，安卡希雅。	クリアしたよ、アカシア。	우린 임무를 끝냈어, 아카시아.	We finished the challenge, Acacia.						0	
+117	嗯嗯，我们用望远镜看到了。恭喜各位，再加一分。	嗯嗯，我們用望遠鏡看到了。恭喜各位，再加一分。	双眼鏡で見たよ。おめでとう、1点をあげよう。	응, 우리도 망원경으로 봤어. 다들 축하해, 1점 추가야.	Yeah, we saw everything with our telescope. Congrats, everyone. You've earned another point.						0	
+118	望远镜……啊，说起来之前被我们黑掉的监控系统还没有恢复啊。	望遠鏡……啊，說起來之前被我們駭掉的監視器系統還沒恢復啊。	双眼鏡……つまり、私達に破壊された監視システムはまだ復旧していないのか。	망원경… 아, 그나저나 얼마 전 해킹했던 CCTV 시스템은 아직 복구가 안 된 것 같다.	Telescope...? Ah, right. The surveillance system we hacked into before wasn't back up and running yet.						0	
+119	那能尽快把我们送下去吗？这上面还挺晒的。	那能盡快把我們送下去嗎？這上面還蠻曬的。	それじゃ、早くここから下ろしてくれないか？日差しが結構強いんだが。	위에 햇빛이 너무 강해서 그런데 우리를 데리고 어서 내려가 줄래?	Can you get us down from here ASAP? The sun is really beating down.						0	
+120	……	……	……	……	...						0	
+121	怎么了？	怎麼了？	どうかしたのか？	무슨 일이야?	What's the matter?						0	
+122	咳嗯，抱歉，我好像忘记还要把你们送下来这档事了……	咳嗯，抱歉，我好像忘記還要把你們送下來這檔事了……	こほん……ごめん。下ろすことを考えてなかったよ。	흠흠, 미안해, 데리고 내려와야 한다는 일을 깜빡하고 있었어…	Ahem... Sorry. Guess I forgot I'd have to get you guys down...						0	
+123	如果不介意的话，可以沿着钢丝再走下来吗？	如果不介意的話，可以沿著鋼絲再走下來嗎？	よかったら、綱を使って自分から降りてくれない？	혹시 괜찮으면 와이어를 타고 내려올 수 있을까?	If it's all the same, could you guys just come back down the wire?						0	
+124	想都别想！	想都別想！	絶対に嫌よ！！！	꿈도 꾸지 마!	Not happening!						0	
+125	听到这令人绝望的消息瞬间，身旁的凯茜娅发出了刺破天空的尖叫。	聽到這令人絕望的消息瞬間，身旁的凱茜婭發出了刺破天空的尖叫。	絶望的な返事を聞いたカーシアが突き抜けるような絶叫をあげた。	이 절망적인 소식을 들은 순간, 옆에 있던 캐시아가 하늘이 울리도록 비명을 질렀다.	Katya let out a piercing scream as soon as she heard this disparaging news.						0	
+126	咕咕咕！	咕咕咕！	クゥ——！	끼룩!	*squawk, squawk!*						0	
+127	哎？这些海鸥……	哎？這些海鷗……	え？カモメ達が……	음? 이 갈매기들…	Huh? The seagulls...						0	
+128	被声音刺激到的海鸥陷入了惊恐状态，他们齐刷刷地扇动起翅膀——	被聲音刺激到的海鷗陷入了驚恐狀態，他們齊刷刷地扇動起翅膀——	声に驚いたカモメ達がパニックになり、一斉に羽ばたきを始めたのだ──	비명 소리에 놀란 갈매기들은 깜짝 놀란 채 일제히 날갯짓을 하기 시작했다…	Panicked upon hearing the sudden noise, the seagulls all began flapping their wings.						0	
+129	凯茜娅，小心！	凱茜婭，小心！	カーシア、危ない！	캐시아, 조심해!	Katya, careful!						0	
+130	咕咕！！！！	咕咕！！！！	クゥ——！！！！	끼룩 끼룩!!!!	*SQUAWK—!!!*						0	
+131	哎？！	哎？！	え……	어?!	Ah!?						0	
+132	可惜这一次我并没能及时拉住凯茜娅。被数只起飞的海鸥冲撞后，她一下没能站稳，从高台的边缘滑落了下去。	可惜這次我並沒能及時拉住凱茜婭。被數隻起飛的海鷗衝撞後，她一下沒能站穩，從高台的邊緣滑落了下去。	残念ながら、私はカーシアを掴むことができなかった。飛び立つカモメにぶつかったカーシアはよろけて、そのまま高台の縁から海に滑り落ちた。	이번엔 제때 캐시아를 잡지 못했다. 갑자기 날아오른 갈매기 몇 마리와 부딪힌 그녀는 순간 중심을 잃고 휘청이다, 이내 플랫폼 끝에서 미끄러져 떨어졌다.	Unfortunately, I wasn't fast enough to catch Katya this time around. As she was bombarded by seagulls, she lost her balance and slipped off the edge of the platform.						0	
+133	因为慌了心神，此刻的她似乎早已忘记自己还有瞬间移动的能力。	因為慌了心神，此刻的她似乎早已忘記自己還有瞬間移動的能力。	慌てていたせいか、彼女は瞬間移動の能力をすっかり忘れてしまったようだ。	깜짝 놀란 캐시아는 자신이 순간이동 능력을 갖고 있다는 사실을 까맣게 잊은 모양이다.	In her panic, she must have forgotten that she could simply teleport.						0	
+134	见状，我没有丝毫犹豫，直截了当地纵身一跃。	見狀，我沒有絲毫猶豫，直截了當地縱身一躍。	そうと気付いた私は躊躇なく、海に飛び込んだ。	눈앞의 상황에 나는 주저없이 곧바로 뛰어내렸다.	Seeing this, I leaped forward without an ounce of hesitation.						0	
+135	分析员！！！！	分析員！！！！	分析員！！！！	분석가!!!!	Adjutant!!!						0	
+136	不断上升的气流宛若奔涌而来的潮水，几乎要将我眼前的景物冲散成无数碎片。	不斷上升的氣流宛若奔湧而來的潮水，幾乎要將我眼前的景物沖散成無數碎片。	上昇する気流は迸る潮のように、私の視界を切り裂いていく。	끊임없이 상승하는 기류는 마치 나에게 밀려오는 파도처럼, 눈앞의 모든 것들을 산산조각 낼 기세였다.	Constant wind currents rushed upward like raging waves, making it hard to see. It seemed as if my vision was torn into a million tiny fragments.						0	
+137	眼见那一抹熟悉的蓝色就快要被浪花吞噬，我急忙闭上眼——	眼見那一抹熟悉的藍色就快要被浪花吞噬，我急忙閉上眼睛——	見慣れた藍色が波に呑まれる寸前に、私は急いで目を閉じた——	익숙한 푸른색이 파도에 휩싸이려고 하는 순간 난 황급히 눈을 감았다…	Watching as that familiar blue hue was about to be swallowed up by the ocean, I hastily closed my eyes...						0	
+138	通过感知那一缕飘散在空中的信息态乱流，我锁定了身下少女的具体位置。	透過感知那一縷飄散在空中的資訊態亂流，我鎖定了身下少女的具體位置。	空気に漂う情報体を感知することで、私は少女の居場所をすぐに突き止めた。	공기 중에 흩어져 있는 이념 형태를 느끼며 소녀가 있는 구체적인 위치를 알아낼 수 있었다.	I sensed the fragmented Titagen disturbance in midair, locking on to the girl's specific location under me.						0	
+139	别怕……我在这儿呢。	別怕……我在這裡呢。	大丈夫だ……私はここにいるよ。	내가 있으니… 무서워하지 마.	Don't worry... I'm here.						0	
+140	playername？！	playername？！	playername！？	playername?!	playername!?						0	
+141	终于，在坠入大海前，我及时将她揽入怀中……	終於，在墜入大海前，我及時將她攬入懷中…	海に落ちる直前に、私はやっと彼女を抱きしめた……	바다에 빠지기 전 그녀를 품속으로 끌어안았다…	I finally wrapped her in my arms just in time, right before she landed in the sea...						0	
+142	分析员？！分析员！！！凯茜娅？	分析員？！分析員！！！凱茜婭？	分析員！？分析員！！カーシアちゃん！！	분석가?! 분석가!!! 캐시아?	Adjutant!? Adjutant!!! Katya?						0	
+143	可恶，他们到底落在哪里了……	可惡，他們到底落在哪裡了……	まずいですね……どこに落ちたのでしょう……	이런, 대체 어디로 떨어진 거야…	Argh! Where did they fall...?						0	
+144	在这里，我们没事。	在這裡，我們沒事。	ここにいるよ。ふたりとも無事だ。	여기에요, 저흰 괜찮아요.	Right here. We're okay.						0	
+145	太好了，刚刚真是吓死姐姐了，我们还是先……哎？！	太好了，剛剛真是嚇死姐姐了，我們還是先……哎？！	よかった～お姉さん、心配しましたよ！これからまずは……え！？	다행이다, 정말 놀랬잖아, 우선… 어?!	Thank goodness! I was so scared just now. Why don't we... Eh!?						0	
+146	分析员，你们这是在……	分析員，你們這是在……	分析員、これは一体……	분석가, 너희들 지금…	Adjutant, what are you two doing...?						0	
+147	啊……抱歉，我的腿好像有点扭伤了……	啊……抱歉，我的腿好像有點扭傷了……	あ……ごめんね。足をひねっちゃったみたい……	아… 미안해, 발목이 살짝 접질린 거 같아서…	Ah... Sorry, I think I twisted my ankle...						0	
+147_1	真的吗？	真的嗎？	本当ですか？	정말이에요?	Really?						0	
+147_2	嗯……我还能骗人不成？	嗯……我還能騙人嗎？	ええ……これだと嘘っぽいかしら？	응… 설마 거짓말이겠어?	Yeah... You think I'd lie to you?						0	
+148	这话从你口中说出还真没说服力啊。	這話從你口中說出還真沒說服力啊。	君が言うと説得力がないな。	네가 말하니까 전혀 설득력이 없어.	That doesn't really hold water, coming from you.						0	
+149	呵呵呵，还真是瞒不过你，那要不现在就把我放下？	呵呵呵，還真是瞞不過你，那要不要現在就把我放下？	ふふふ。あなたには敵わないわね。それじゃあ、下ろしてくれる？	후후후, 역시 안 속는구나, 그럼 날 좀 내려줄래?	Heheh, nothing gets past you. So why don't you let me down?						0	
+150	行啊，反正看样子你已经彻底恢复了。	好啊，反正看樣子你已經徹底恢復了。	いいよ。君も調子が完全に回復したようだし。	알았어, 어차피 완전히 다 회복한 거 같은데.	Alright. Looks like you're feeling better anyway.						0	
+151	这么说着， 我做出了要将她丢入水中的样子——	這麼說著， 我做出了要將她丟入水中的樣子——	そう言いながら、私が彼女をまた海に投げ入れようとすると──	말을 마치고, 나는 캐시아를 물에 던지는 시늉을 했다…	As I said that, I pretended to hurl her into the water...						0	
+152	等等，等等……	等等，等等…	ま、待って……	잠깐, 잠깐만…	Hold on, wait...!						0	
+153	又怎么了？	又怎麼了？	今度は何だ？	또 왜?	What is it?						0	
+155	我腿确实还有点软……可以再让我缓缓吗……	我腿確實還有點軟……可以再讓我緩緩嗎……	ま、まだ足に力が入らないかも……もうしばらくこのままにしてほしいわ。	사실 다리가 아직 풀려 있어서… 조금만 더 쉬면 안 될까…	My legs are still a little wobbly... Can you give me a second...?						0	
+156	都说了别在我面前逞强，你看这不是……	都說了別在我面前逞強，你看這不是……	だから、私の前じゃ強がるのはよせって言ったじゃないか……	나한테 센 척하지 말라니까, 이거 봐…	I told you not to act tough. This isn't—						0	
+157	话还没说完，我的小腿却突然传来一阵钻心的疼痛。	話還沒說完，我的小腿卻突然傳來一陣鑽心的痛。	すべて言い終わる前に、私の脛に激痛が走った。	말이 끝나기 전에 종아리에서 갑자기 엄청난 고통이 밀려왔다.	Before I could finish my sentence, I felt a shooting pain in my calf.						0	
+158	以至于在一瞬间便卸掉了我浑身的力气……	以至於在一瞬間便卸掉了我全身的力氣……	そのせいで、私は一気に力が抜けてしまい……	고통이 심해 순식간에 온몸에 힘이 쭉 빠져 버렸다.	In an instant, all of my strength was sapped away...						0	
+159	哎？！！	哎？！！	え！？！	어?!!	Eh!!?						0	
+160	发生什么事了？！	發生什麼事了？！	何が起きたんですか！？	무슨 일이야?!	What happened!?						0	
+161	是水母……分析员被水母蜇伤了！	是水母……分析員被水母蜇傷了！	クラゲです……クラゲに刺されたようです！	해파리… 분석가가 해파리에 쏘였어!	It was a jellyfish... The Adjutant got stung!						0	
+162	这里野生动物还真是可怕……没想到最后居然连我也折在这上面了。	這裡野生動物還真是可怕……沒想到最後居然連我也折在這上面了。	ここの野生動物は本当に恐ろしいな。まさか私までやられるとは……	여기 야생 동물은 참 무섭다… 나조차도 당하다니 말이다.	The wild animals there were really something else... I didn't think I would meet my match like this.						0	
+163	回到游艇上后，介于这场突发的意外，我们的比赛进入了中场休息环节……	回到遊艇上後，介於這場突發的意外，我們的比賽進入了中場休息環節……	この予想外の事態で、私達が船に戻ったあと、試合自体も休憩に入った。	요트로 돌아온 뒤, 갑자기 일어난 돌발 상황 때문에 시합이 잠시 중단되고 휴식시간을 가지게 된다…	We took an intermission after returning to the yacht due to this sudden accident...						0	
+164	在恩雅姐与辰星的帮助下，我处理好了腿上的伤口，之后便打算回到房间换一套衬衫再继续比赛。	在恩雅姐與辰星的幫助下，我處理了腿上的傷口，之後便打算回到房間換一套襯衫再繼續比賽。	エンヤと辰星に協力してもらい、私は足の傷の手当てを済ませ、次の試合のために着替えようと自分の部屋に戻った。	엔야 누님과 수성의 도움을 받아 다리의 상처를 치료하고, 방으로 돌아가 셔츠로 갈아입고 경기를 계속할 생각이었다.	Enya and Chenxing helped me treat my leg, and I was planning on heading back to my room to change before continuing on with the competition.						0	
+165	然而，推开门后却发现——	然而，推開門後卻發現——	しかし、部屋の扉を開けると——	하지만 방문을 열자…	However, when I opened the door...						0	
+166	果然，此处早已有人等候多时……	果然，此處早已有人等候多時……	やはりと言うべきか、そこには既に先客がいた……	역시, 누군가 이미 오래전부터 기다리고 있었다…	Just as I'd expected, someone had been waiting there for a while...						0	

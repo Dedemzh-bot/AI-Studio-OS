@@ -1,0 +1,8 @@
+﻿道具ID	//注释	图标	名字	物品描述	机制效果	重复获得转化票券数	标签
+ID	Comment	Icon	Name	Desc	Effect	RepeatChange	Tag
+1	神奇奖励1-扭蛋道具格数+1（参数：{1}增加格数）	1545701	house.Coinpusher_RewardPropName1	house.Coinpusher_RewardPropDesc1	{27,1}	15	10
+2	神奇奖励2-被动道具格数+1（参数：{1}增加格数）	1545702	house.Coinpusher_RewardPropName2	house.Coinpusher_RewardPropDesc2	{28,1}	15	10
+3	神奇奖励3-离开商店时，每1枚基础币使分数倍率提升0.1，上限15（参数：{1}基础币数量；{2}提升值；{3}上限）	1545703	house.Coinpusher_RewardPropName3	house.Coinpusher_RewardPropDesc3	{29,1,0.1,15}	15	10
+4	神奇奖励4-商店内出现镀层的概率提升10%（参数：{1}增加概率）	1545704	house.Coinpusher_RewardPropName4	house.Coinpusher_RewardPropDesc4	{30,5}	15	10
+5	神奇奖励5-进入商店时，提供2次免费刷新机会（参数：{1}次数）	1545705	house.Coinpusher_RewardPropName5	house.Coinpusher_RewardPropDesc5	{31,1}	15	10
+6	神奇奖励6-商店内商品售价优惠20%（参数：{1}优惠率）	1545706	house.Coinpusher_RewardPropName6	house.Coinpusher_RewardPropDesc6	{32,20}	15	10

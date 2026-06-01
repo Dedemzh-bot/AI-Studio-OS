@@ -1,0 +1,22 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	分析员，是那个人。	分析員，是那個人。	分析員、あの人だ。	분석가, 저 사람이야.	Adjutant, it's that girl.						0	
+2	顺着星期三示意的方向，我看到了一个正在慌忙收拾背包的年轻人。	順著星期三示意的方向，我看到了一個正在慌忙收拾背包的年輕人。	ウェンズデーが示した方向を見ると、慌ててリュックを整理している若者がいた。	웬스데이가 가리키는 방향을 보자 누군가 황급히 가방을 정리하고 있었다.	Looking in the direction Wednesday indicated, I saw a teenager frantically putting things inside her backpack.						0	
+b-1											0	
+3	那个人怎么了？	那個人怎麼了？	あの人がどうかしたか？	저 사람이 왜?	What happened to her?						0	
+4	那个，是刚刚几个闹事人中被打的那个。	那個，是剛剛幾個鬧事人中被打的那個。	さっきの騒ぎで殴られていた人だ。	저 사람이 방금 전 그 사건에서 얻어맞았던 사람이야.	She was the one who just got beaten up by those troublemakers.						0	
+b-2											0	
+5	这种距离都能看清吗？！	連這種距離都能看清楚嗎？！	この距離で見えるのか！？	이렇게 먼 곳에서 그게 보여?!	You can tell from this far away!?						0	
+6	见到我后，那人明显变得更加紧张僵硬。还没等我开口，对方就一股脑地开始了辩白。	見到我後，那人明顯變得更加緊張了。還沒等我開口，對方就一股腦地解釋了起來。	この会話に気づいたのか、若者は明らかに緊張して動きが鈍くなった。この隙にリフは若者を素早く仕留め、私もリフの元へ駆けつけた。私が口を開く前に、相手は怒涛の勢いで弁明を始めた。	사건의 인물은 날 보더니 더욱 긴장한 것처럼 보였고, 내가 입을 열기도 전에 변명을 하기 시작했다.	When she spotted me, the girl became visibly tense. But before I could even open my mouth, she started to defend herself.						0	
+7	我、我什么都没干！	我、我什麼都沒幹！	私は！私は何も！やってない！	전… 전 아무것도 안 했어요!	I-I didn't do anything!						0	
+b-3											0	
+8	你的开场白可信度太低了。	你的開場白可信度太低了。	出会い頭にその言い草は信憑性皆無だな。	만나자마자 이렇게 얘기하면 더 못 믿겠는데…	Well, that isn't exactly credible.						0	
+b-4											0	
+9	我是在这里协助安保工作的playername。	我是在這裡協助保全工作的playername。	私はここで警備の協力をしているplayernameだ。	전 여기서 보안 업무를 맡고 있는 playername입니다.	I'm playername, here to assist with security.						0	
+b-5											0	
+10	你最好说清你在做什么。	你最好解釋一下你在做什麼。	あなたがここで何をしようとしているのか、はっきりと説明した方がいい。	지금 본인이 무슨 일을 꾸미고 있는지 구체적으로 말하는 게 좋을 거예요.	You'd better explain what you're doing.						0	
+11	我就住在天楼，这里的人都认识我！我不是可疑的人，我叫伊尔，平时会接一些金琅的委托……就是帮她跑跑腿。	我就住在天樓，這裡的人都認識我！我不是可疑的人，我叫伊爾，平時會接一些金瑯的委託……就是幫她跑跑腿。	私はイール。スカイタワーに住んでる。普段は小遣い稼ぎに金琅の依頼を受けたりするけど、要するに……ただのパシリだよ。	전 스카이 타워에 살아요. 모두 다 절 알죠! 수상한 사람은 아니에요, 이름은 이엘이고, 평소에 금랑의 의뢰를 받아서… 그냥 심부름하는 거예요.	I live in the Towers — everyone knows me! I'm not shady or anything. I'm Yier. I work for Jinlang sometimes... helping her run errands and stuff.						0	
+12	我刚刚，是在送货……长官，请放过我吧，迟了委托是会被扣钱的。	我剛剛，是在送貨……長官，請放過我吧，委託遲到是會被扣錢的。	さっきは、商品を運んでいただけだ……許してくれよ旦那、依頼が遅れたら報酬が減るんだ。	방금도 마침 물건을 배송하고… 이제 좀 놓아주세요. 의뢰 시간을 준수하지 않으면 돈을 더 깎는단 말이에요.	I was making deliveries just now... Sir, please let me go. My pay will get docked if I'm late.						0	
+13	我回想起金琅之前的反应，她明显认识这个年轻人。	我回想起金瑯之前的反應，顯然她認識這個年輕人。	この前の金琅の反応を思い出した。彼女は明らかにこの若者のことを知っている。	난 금랑의 반응을 떠올렸고, 분명 금랑이 이 사람을 알고 있을 거라는 확신이 들었다.	Considering Jin Lang's reaction from before, she obviously knew the young girl.						0	
+14	无意为难天楼中艰难生存的人，我在记录了伊尔的身份信息后，很快放过了她。	無意為難天樓中艱難求生的人，我在記錄了伊爾的身分資訊後便放過了她。	スカイタワーの中で必死に生きている人を困らせたくない。イールの個人情報を記録し、解放した。	스카이 타워에서 어렵게 살고 있는 사람을 난처하게 할 생각이 없어 이엘의 정보를 기재한 뒤 바로 놓아주었다.	I had no intention of making things difficult for those struggling to survive in the Towers. After I took down Yier's information, I quickly let her go.						0	
+15	伊尔松了一口气慌忙离开，没意识到身后背包已经露出了熟悉的制服一角。	伊爾鬆了一口氣後慌忙離開，沒注意到身後背包露出了熟悉的制服一角。	イールはほっとして、慌ててその場を立ち去ろうとした。リュックからお馴染みの制服がはみ出ていたことにも気づかずに。	이엘은 한숨을 내쉬고는 황급히 자리를 피했고, 그녀는 본인이 가지고 있던 가방 속에서 제복이 살짝 삐져나온 걸 전혀 모르고 있는 모양이었다.	Yier breathed a sigh of relief and left in a rush. In her haste, she didn't notice that a piece of a familiar uniform was poking out of the backpack she carried.						0	

@@ -1,0 +1,58 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	今天好像没什么事要做吧……要不还是睡个回笼觉吧。	今天好像沒什麼事要忙……不然睡個回籠覺吧。	今日は特に予定もないし……もう少し寝ていようかな。	오늘은 할 일이 없다… 다시 잠이나 잘까.	It seemed like I had nothing to do that day, so I decided to take a nap...						0	
+2	分析员！！！起床啦！	分析員！！！起床啦！	分析員！！！起きて！	분석가님!!! 일어나세요!	Adjutant!!! Get up!						0	
+3	不要睡啦！快起来啊！帮帮我！只有你能救我啦！	不要再睡啦！快起床啊！幫幫我！只有你能救我啦！	起きてよ！分析員にしか頼めないことがあるんだよ、だから起きて～！	그만 자고 빨리 일어나세요! 저 좀 도와주세요! 절 살려줄 수 있는 건 분석가님뿐이에요!	Don't go to sleep! Get up! Help me! You're the only one who can save me!						0	
+4	你要是再不起来！我就往你被窝里塞小鸽子了！	你要是再不起來！我就往你的棉被裡塞鴿子了！	二度寝しないで！寝たら布団にハトを仕込むよ！	일어나지 않으면! 이불 속에 비둘기를 집어넣을 거예요!	If you don't get up, I'll stuff a little dove under your covers!						0	
+5	我一睁眼，发现苔丝正以一种十分容易引起误会的姿势趴在我身上！	我急忙睜開眼，此時黛斯正以一種十分尷尬的姿勢趴在我身上！	目を開くと、目の前にテスがいた。彼女は非常に厄介なタイプの誤解を招きかねない姿勢で、私に覆いかぶさっていた。	눈을 떠 보니, 테스가 오해하기 딱 좋은 자세로 내 위에 엎드려 있었다!	I opened my eyes to find Tess lying on top of me in a way that could easily create a misunderstanding!						0	
+6	分析员你终于醒了！快帮帮我！	分析員你終於醒了！快幫幫我！	やっと目が覚めた！お願いだから、助けてよ！	분석가님, 일어나셨군요! 빨리 저 좀 도와주세요!	Adjutant! You're finally up!						0	
+7	你需要帮忙的话，先下来，我快被你闷死了。	你先給我下來，我快被你悶死了！	だったら体の上から降りてくれよ。息ができないだろ。	도움이 필요하면 일단 내려와. 숨 막혀 죽겠어.	If you need help, get off first. You're going to suffocate me.						0	
+8	啊！不好意思！我一时着急过头了！	啊！不好意思！我太著急了一不小心就……	あっ！ご、ごめん。うっかりしてた。	앗! 죄송해요! 제가 너무 급했네요!	Ah! Sorry! I'm in too much of a rush!						0	
+9	苔丝红着脸从我身上下来，站到我床边，继续展开她的央求攻势。	黛斯滿臉通紅地從我身上下來並站到我床邊，待她站定後又開始了對我的央求攻勢。	テスは頬を赤らめつつ、私の上から降りてくれた。そうしてベッドの横に立つと、改めておねだり作戦を再開させた。	테스는 얼굴이 빨개진 채 내 위에서 내려와, 침대맡에 서서 계속해서 졸라대기 시작했다.	With red cheeks, Tess got off me. She continued begging as she stood next to the bed.						0	
+10	分析员，你快起床换衣服吧，没有你我今天就完了。	分析員你趕快起床換衣服吧！沒有你的話我今天就完了。	ねえ、早く起きて着替えてよ……分析員がいないと今日はもうおしまいなんだから……	분석가님, 빨리 일어나서 옷 갈아입으세요. 분석가님이 없으면 전 오늘 끝장이에요.	Adjutant, please get up and change! If you don't help me, I'm done for!						0	
+11	不至于吧，到底什么事情这么严重？	有這麼誇張嗎，到底發生了什麼事？	脅かすなよ。一体なにがあったんだ？	대체 무슨 일인데 그래?	No way — what on earth could be that serious?						0	
+12	你忘了吗？今天是我给孤儿院的孩子们表演魔术的日子！	你忘了嗎？今天是我為孤兒院的孩子們表演魔術的日子！	もしかして忘れてるの？今日は孤児院の子供たちにマジックショーをやる日だよ。	잊으셨어요? 오늘이 보육원 아이들에게 마술쇼를 보여주는 날이잖아요!	Did you forget? Today's the day I'm supposed to perform magic tricks for the orphanage kids!						0	
+13	没忘啊，不是下午吗？我现在睡会儿不影响下午看你演出。	我沒忘啊，不是下午嗎？我現在睡回籠覺也不影響你下午的表演。	忘れてないけど、それって午後だったはずだよな。今起きなくても、ショーには全然間に合うよ。	잊지 않았어, 그런데 그건 오후잖아? 지금 좀 자도 오후에 마술쇼를 보는 데는 지장이 없는데?	I didn't forget, but isn't it in the afternoon? I have time to take a nap now before I go watch your show later.						0	
+14	这个是原来的计划！我现在需要你的帮助！我的小舞台都还没搭起来呜……	原定計劃是如此沒錯！但我現在急需你的幫助！我的小舞台都還沒搭起來嗚嗚……	それは元の計画の話だよ！今すぐに助けが必要なの！ステージだってまだ完成してないんだから……うう……	그건 원래의 계획이에요! 지금 당장 도와주셔야 해요! 무대조차 아직 설치하지 못했거든요, 흑…	According to the original plan, yes! But now I need you sooner! My stage still hasn't been set up...						0	
+15	因为公司不允许提前一天就开始占用广场，然后然后然后……	因為公司不允許提前一天占用廣場，然後然後然後……	広場の使用許可は下りたんだけど、前日から広場を占有するのはダメだって言われて……それで、それで……	회사에서 하루 일찍 광장을 사용하는 건 허용할 수 없대요. 그리고, 그리고, 그래서…	Because the company wouldn't let me use the square a day early to set it up, so, so, so...						0	
+16	苔丝着急得声音都颤抖起来。我留意到她手上的几个创口贴，联想起她平时做道具都会受伤，搭舞台确实难为她了。	黛斯急得都快哭了出來，我注意到她手上貼著好幾個OK蹦，這讓我想到她平常做道具都會受傷，更別說要搭建舞台了……	テスの声が震え始めた。その手にはいくつも絆創膏が貼られている。小道具作りでもケガをしてしまう彼女にとって、ステージの組み立ては相当な苦労を強いられたに違いない。	테스는 너무 초조한 나머지 목소리까지 떨리기 시작했다. 난 그녀 손에 붙어 있는 반창고들을 보며 그녀가 소품을 만들다가 다치는 모습을 상상했다. 무대를 설치하는 것은 그녀에게 힘든 일이었다.	Tess was so panicked that her voice was trembling. I noticed a couple of band-aids stuck on her hands, then remembered her mentioning getting hurt while making props. It was probably really difficult for her to set up the stage.						0	
+17	我知道了，我帮你准备场地吧。	我知道了，我來幫你準備場地吧。	わかった、手伝うよ。	알겠어, 장소 준비를 도와줄게.	Alright. I'll help you set up the stage.						0	
+18	谢谢分析员！您就是我的天使！	謝謝分析員！您就是我的救命小天使！	ありがとう、分析員！あなたってやっぱり私の天使なんだね！	고마워요! 분석가님은 저의 천사예요!	Thank you, Adjutant! You're my hero!						0	
+19	苔丝被我这小小的善意感动得眼含热泪，真不愧是她，总能发现人类美好的一面……	黛斯因為我伸出援手而感動到熱淚盈眶，真不愧是她，總能發現人類善良的一面……	テスはたったそれだけで感動の涙を流していた。彼女のこの、人間の良い面ばかりを見付ける才能は、本当にさすがとしか言いようがない……	테스는 나의 작은 호의에 감동해서 눈물을 글썽였다. 역시 나도 그녀 덕분에 인류애가 충만해졌다…	Seemingly moved by my small amount of kindness, Tess burst into tears. No surprise there — she could always bring out the best in people...						0	
+20	好了，别愣着了，你先出去一下，我马上来。	好了別在那發呆了，你先出去一下，我馬上來。	分かったから、そんなところに立ってないで、一旦部屋を出てくれ。	자, 멍하니 있지 말고 먼저 나가. 나도 곧 나갈게.	Alright, don't just stand around. Get out first — I'll be out in a second.						0	
+21	为什么要出去啊？	為什麼要先出去啊？	なんで？	왜 나가야 해요?	How come I have to get out?						0	
+22	你想看我换衣服也不是不可以。	你想看我換衣服也可以。	私の着替えが見たいってことか？	내가 옷 갈아입는 걸 보고 싶다면, 말리진 않을게.	You want to watch me change?						0	
+23	啊啊啊啊啊分析员你又逗我！	啊啊啊啊啊分析員你又欺負我了！	あああもう！！また私のことバカにして！	아아아! 분석가님, 또 저를 놀리시는군요!	Ahhhh! Adjutant, you're teasing me again!						0	
+24	苔丝满脸通红地跑出了我的房间，她对我的每句话都会给出反应，十分可爱。	黛斯滿臉通紅地跑出了我房間，她對我說的每句話所做出的反應實在太可愛了。	テスは顔を真っ赤にしながら、私の部屋から飛び出して行った。ああいう打てば響くみたいなレスポンスの良さが、あの子の可愛いところなんだよな。	테스는 얼굴이 새빨개진 채 내 방을 나갔다. 내 말 한마디에 반응하는 모습이 참 사랑스러웠다.	Tess ran out of my room, her face red. It was cute how she reacted to every sentence I said.						0	
+25	哼哼~让我们干劲满满地开工吧！	哼哼～讓我們充滿幹勁地開工吧！	よ～し！やる気出していこ～！	흐흠~ 그럼 힘차게 시작해 볼까요!	Hmph~ Let's get to work!						0	
+26	分析员你怎么没精打采的？年轻人可不能一大早就这么颓废哦！	分析員你怎麼無精打采的？年輕人可不能一大早就這麼頹廢喔！	分析員、なんでちょっと萎えてるの？若者がそんな顔で朝を迎えちゃダメだよ！	분석가님, 왜 그렇게 기운이 없어요? 아직 젊으신 분이 아침부터 그렇게 기운이 없으면 어떡해요?!	Adjutant, why are you so lethargic? You're young — you can't start out the day seeming so lazy!						0	
+27	毕竟我早饭都没吃就被你拽到这里来了。	畢竟我連早餐都還沒吃，就被你拉來這裡做工了。	そりゃ、朝ごはん抜きで引っ張り出されたらな。	아침 식사도 못 하고 끌려 나왔잖아.	Well, you dragged me out here without breakfast.						0	
+28	事出紧急嘛……嘿嘿嘿……	這次是緊急情況嘛……嘿嘿嘿……	それは～緊急事態なんだし……えへ、えへへ……	상황이 급하니까요… 헤헤헤…	It was an emergency... hehehe...						0	
+29	苔丝摆出了她的招牌尴尬笑容，当我以为她又要蒙混过关的时候，她突然不知道从哪里掏出来一个苹果。	黛斯擺出了她的招牌尷尬笑容，當我以為她又要蒙混過去時，她突然不知道從哪掏出了一顆蘋果。	いつものように笑顔で誤魔化されるかと思いきや、テスはどこからともなくリンゴを取り出した。	테스는 특유의 난감한 미소를 지어 보였다. 또 어물쩍 넘어갈 거라고 생각했는데, 그녀가 갑자기 어디선가 사과 한 알을 꺼냈다.	Tess flashed her signature embarrassed smile. Just when I thought she was going to worm her way out of the situation again, she suddenly pulled an apple out of nowhere.						0	
+30	来，吃苹果~	來～吃蘋果～	はい、リンゴをどうぞ★	자, 사과 드세요~	Here — have an apple~						0	
+b-1											0	
+31	你先说从哪里掏出来。	你先說是從哪拿出來的。	どこに隠してたんだ。	이 사과는 어디서 난 거야?	Tell me where you got it first.						0	
+32	这是淑女的秘密哦~	這是淑女的秘密喔～	乙女の秘密だよ★	그건 숙녀의 비밀이에요~	A lady doesn't reveal her secrets~						0	
+33	我盯着她手里那个鲜艳的苹果，思考着这到底是不是一个道具，会不会在我啃的一瞬间变成鸽子飞走……	我盯著她手中那顆顏色鮮豔的蘋果，認真思考著那到底是不是一個道具，會不會在我咬下去的瞬間變成鴿子飛走……	彼女の手にあるそのリンゴをじっと見つめる。マジックの小道具だろうか。口をつけようとした瞬間にハトに変身して、飛んで行ってしまうのでは……	난 그녀 손에 들린 싱싱한 사과를 보며 그게 소품인지 아닌지 생각했다. 설마 한 입 베어 물면 비둘기로 변해 날아가는 건 아니겠지…?	I stared at the vibrant apple in her hand, wondering if it was just a prop. Would it turn into a dove and fly away the moment I bit into it...?						0	
+34	好伤心啊，分析员不相信我？	好傷心啊～分析員不相信我嗎？	もう、いやだなあ。私が信じられないの？	정말 섭섭하네요, 분석가님. 설마 절 못 믿으시는 거예요?	Aw, I'm sad... You don't trust me, Adjutant?						0	
+35	苔丝说完就咬了一口苹果，然后递给我。	黛斯說完便咬了一口蘋果，然後遞給了我。	そう言いながら、テスはリンゴを一口かじり、また私に渡した。	테스는 그렇게 말한 뒤 사과를 한 입 베어 물고는 나에게 건넸다.	After she finished speaking, Tess took a bite out of the apple and handed it to me.						0	
+36	这样你就放心了吧？	這樣你就放心了吧？	これで安心でしょ？	이러면 믿으시겠어요?	Do you trust me now?						0	
+37	我接过那个被咬了一口的苹果，观察了下那个牙印，总算确定了那是个真正的苹果，随即吃了起来。	我接下那顆被她咬了一口的蘋果，然後仔細觀察那個牙印確認它是真的，隨後便放心吃起了那顆真正的蘋果。	かじられたリンゴ、特にその歯形の部分をよく観察してみた。やっと本物のリンゴだと確信してから、私はそれを食べ始めた。	난 베어 문 사과를 받아 잇자국을 살펴본 뒤, 진짜 사과인 것을 확인하고 먹기 시작했다.	I took the bitten apple from her, observing the tooth marks. After making sure it was a real apple, I dug in.						0	
+38	看着我吃起了苹果，苔丝露出了有点奇怪的微笑。	看著我認真啃蘋果的模樣，黛斯露出了有點怪異的微笑。	リンゴを食べる私を見ながら、テスはなんとも言えない笑顔を浮かべていた。	테스는 사과를 먹는 날 보며, 이상한 미소를 지었다.	Tess had an odd smile on her face as she watched me eat the apple.						0	
+39	还是第一次看见你这么放松地吃东西，有点……可爱呢。	我還是第一次看到你如此放鬆吃東西的模樣，感覺……有點可愛呢。	あなたがリラックスしてなんかを食べてる姿、初めてみたかも……なんか、かわいいね。	분석가님이 그렇게 마음 놓고 무언가를 먹는 모습은 처음 봐요. 좀… 귀여운데요?	This is the first time I've seen you eating like this... so relaxed. It's kind of... cute.						0	
+40	她这句可爱差点让我噎住，我赶紧消灭剩下的苹果。	她這句可愛差點讓我噎死，嚇得我迅速啃光剩下的蘋果。	その「かわいい」で咽そうになって、急いでリンゴを平らげた。	귀엽다는 그녀의 말에 목이 멜 뻔했다. 난 남은 사과를 빨리 먹어 치웠다.	At hearing that, I almost choked. I quickly ate the rest of the apple.						0	
+41	诶？吃太快啦！我还想多看会儿呢！	欸？你也吃太快了吧！我還想再多欣賞一下呢！	え？早くない？もっと見ていたかったのに！	어? 벌써 다 드셨어요? 좀 더 보고 싶었는데!	Eh? You're eating too fast! I wanted to keep watching for a bit!						0	
+42	那你还想不想干活了？下午孩子们就到了。	那你還要不要開工？孩子們下午就會來了。	作業はもういいのか？午後になったら子供たちも来るんだろ。	일 안 할 거야? 오후에 아이들이 올 텐데.	Don't you want to finish the work? The kids are coming in the afternoon.						0	
+43	我差点都忘了！我们赶紧开工吧！	我差點忘了！我們趕快開工吧！	あ！忘れてた！早速始めなきゃ！	잊어버릴 뻔했어요! 얼른 시작해요!	I almost forgot! Let's get back to business!						0	
+44	我很快就完成了台子的基础搭建，而苔丝随后进行了装饰。	我沒花多久時間就搭建好了舞台的基本結構，而黛斯負責做舞台裝飾。	手分けすると、作業自体はあっという間だった。私がステージの基礎を終わらせると、すぐさまテスがそれに装飾を施し、ステージが出来上がった。	내가 무대의 기본 구조를 세우자, 테스가 이어서 무대를 꾸몄다.	I quickly finished building the foundation of the stage, and Tess decorated it.						0	
+45	终于，到了下午，孩子们都来到了现场。	終於到了魔術開演的時間，孩子們開心地來到了現場。	瞬く間に午後になり、子供たちが会場へと遊びに来た。	드디어 오후가 되었고, 아이들이 현장에 도착했다.	Finally, the kids arrived in the afternoon.						0	
+46	咳咳，小朋友们，掌声欢迎最伟大的魔术师——苔丝姐姐！	咳咳～小朋友們，讓我們一起掌聲歡迎最偉大的魔術師——黛斯姐姐！	それでは～★みなさん、盛大な拍手で偉大なるマジシャン、テスお姉さんを呼んでみましょ～★	흠흠, 어린이 친구들, 위대한 매지션 테스입니다! 박수로 환영해 주세요!	Ahem... Kids, please give a round of applause for the great magician, Tess!						0	
+47	台下的孩子们非常配合地鼓起掌来，这大概是最给苔丝捧场的观众了吧。	台下的孩子們非常配合地鼓掌，這大概是最給黛斯捧場的觀眾了吧。	子供たちは言われた通りに拍手を始めた。たぶん、この世で一番熱心なファンは、この場に集まっているこの子供たちだろう。	무대 아래의 아이들이 열렬한 박수를 보냈다. 그들은 아마 테스에게 가장 큰 박수를 보낸 관중들일 것이다.	The kids in the audience clapped as instructed. It was probably the most supportive audience Tess had ever had.						0	
+48	那么就开始吧！今天的第一个魔术——神奇的魔术帽！	表演正式開始！今天的第一個魔術——神奇的魔術帽！	それではご覧あれ！本日最初のマジック、不思議な不思議なマジカルハットです★	그럼 시작하겠습니다! 오늘의 첫 번째 마술은… 신기한 마술 모자입니다!	Let's get started! Our first trick today is the magic hat!						0	
+49	虽然苔丝表演的都是很普通常见的小魔术，但孩子们都非常享受，这或许是他们人生第一次观看魔术。	雖然黛斯所表演的都是很普通也很常見的小魔術，但孩子們都看得目不轉睛，或許這是他們第一次看到魔術。	テスが披露するのは、どこかで見たことがあるようなマジックばかりだったけれど、子供たちには大ウケだった。彼らにとっては、これが生まれて初めて見るマジックだったのかもしれない。	테스가 보여주는 것은 지극히 흔한 마술이었지만, 아이들은 무척이나 좋아했다. 그것이 아이들 인생의 첫 마술일지도 모르겠다.	Even though Tess performed very simple tricks, the kids all loved it. It was probably the first time any of them had ever seen a magic show.						0	
+50	我应该不是第一次看魔术了，但却是第一次看得这么投入，这大概就是苔丝的现场感染力吧……	我已經不是第一次看魔術表演了，但這次卻是第一次如此投入於演出中，這大概要歸功於黛斯的現場感染力吧……	私はと言うと、もちろんマジック自体は見たことがあるけれど、ここまでしっかり見物するのは初めてだった。これも、テスの持つ人の心を掴む能力のせいなのかもしれない……	난 마술을 처음 보는 것은 아니었지만, 이렇게 몰입해서 관람하는 것은 처음이었다. 아무래도 테스의 매력 때문이 아닐까…	It may not have been my first time watching magic, but it was definitely my first time being so immersed. This was most likely thanks to Tess' infectious appeal...						0	
+51	嗯？	嗯？	ん？	음?	Hm?						0	
+52	一瞬间，我和苔丝的视线对上了。	在一瞬間，我與黛斯對到了眼。	一瞬、テスと目が合った気がした。	순간, 난 테스와 눈이 마주쳤다.	For a moment, Tess' gaze met mine.						0	
+53	她朝我浅浅地微笑着，这个笑容在我脑中和之前那张照片里重叠，又区分开来。	她朝我微微一笑，這個笑容與我腦海中那張照片中的笑容重疊在一起，但卻又有某些不同。	彼女はこちらに向けて軽く微笑んでくれた。その瞬間、なぜかあの写真に写っていた彼女の表情と重なってみえた。	그녀는 나에게 옅은 미소를 보냈다. 그 미소는 내 머릿속에서 그 사진과 겹쳤다가 다시 분리되었다.	She smiled gently at me. This smile overlapped with the picture in my mind, and there was something off.						0	
+54	很明显，她现在是开心的，但似乎又有什么遗憾……	顯然她現在是非常開心的，但似乎又有什麼遺憾……	今の彼女はマジックショーを楽しんでいる。それは間違いない。それでいて、同時に憂いの感情も見え隠れしているのだ……	그녀는 분명히 지금 기뻐하고 있지만, 한편으로는 아쉬운 무언가가 있는 듯했다.	She was clearly happy now, but there was a sense of sadness...						0	
+55	果然，我对她的了解比自己预料的少很多。	果然，我對她的了解比自己所認為的還要少很多。	やはり、私は自分で思っている以上に、テスのことを分かってはいないのだろう。	역시, 난 생각보다 그녀에 대해 잘 모르고 있었다.	I really knew a lot less about her than I originally thought.						0	

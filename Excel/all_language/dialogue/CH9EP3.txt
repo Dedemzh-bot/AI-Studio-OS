@@ -1,0 +1,76 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	武装暴动分子已进行无害化处理，正在给他们注射定位器。	武裝暴動分子已進行無害化處理，正在給他們注射定位器。	武装テロリストの無力化処理完了。ロケーターを注射中。	폭도들은 전부 무장해제시켰고, 지금은 위치 추적기 주입 중이야.	The armed insurgents have been rendered harmless. Injecting them with locators now.						0	
+2	注射定位器的目的是，一旦发现不正常的聚集和行动轨迹，海姆达尔部队能够提前赶到，制止某些冲突。	注射定位器的目的是，一旦發現不正常的聚集和行動軌跡，海姆達爾部隊能夠提前趕到，制止某些衝突。	ロケーター注射の目的は、異常な集結や行動ルートが発見された場合、ヘイムダル部隊が早期に駆け付け、衝突を阻止できるようにすること。	폭도들에게 위치 추적기를 주입하는 건 이들이 비정상적으로 모이거나 행동하는 것을 사전에 막기 위함이었다.	The purpose of injecting locators was to detect abnormal gatherings and movement early on, thereby enabling the Heimdall Force to arrive on the scene and prevent clashes.						0	
+3	休整三分钟后，我会前往下一个坐标进行治安维持。	休整三分鐘後，我會前往下一個座標進行治安維持。	3分間の休憩の後、次の座標へ行き治安維持を行う。	그럼 난 조금만 있다가 다음 좌표로 넘어가서 치안 유지 업무를 수행하고 있을게.	After a three-minute rest, I'll move on to the following coordinates to restore order.						0	
+b-2											0	
+6	虽然换装了“倒头就睡”，还是要避免打中要害。	雖然換裝了“倒頭就睡”，還是要避免打中要害。	「ぐっすり弾」に切り替えたが、急所に撃たないように。	'수면제' 탄약으로 교체했지만, 급소 부분은 그래도 될 수 있으면 피해줘.	Even though we're using Sleepers, we still have to be careful about where we shoot.						0	
+7	我会注意的。	我會注意的。	気をつける。	그것도 조심할게.	I'll keep that in mind.						0	
+8	我认为更需要注意安全的人，是你，分析员。	我認為更需要注意安全的人，是你，分析員。	それより身の安全に気をつける必要があるのは、分析員、お前の方だ。	그것보다 내 생각에 조심해야 할 건 너야, 분석가.	Adjutant, I think you should pay more attention to your safety.						0	
+8a	我发现，你经常在交战时走神。	我發現，你經常在交戰時恍神。	作戦中、お前がよくぼーっとしていることに気づいた。	교전을 할 때 자주 다른 생각을 하던데.	I've noticed you zone out a lot during combat.						0	
+9	最近我经常会怀疑“共感神经”是否还在发挥作用，使我无法心安理得地向队员们下达那些“挥刀向更弱者”的命令。	最近我經常會懷疑“共感神經”是否還在發揮作用，使我無法心安理得地向隊員們下達那些“揮刀向更弱者”的命令。	最近はいつも「共感神経」の影響を疑っていて、隊員たちに何も考えず弱者を殺せと命令できなくなった。	웬스데이 말대로다. 최근에 특히나 '공감 신경'이 여전히 작용하고 있는지 의심이 돼서 대원들에게 무력한 사람에게 칼을 맘대로 휘두르라는 명령은 쉽게 내릴 수 없었다.	Recently, I couldn't help wondering if my "Empathic Ganglia" were still in effect, preventing me from giving orders to "shoot them down" with peace of mind.						0	
+9a	世界树公司真的无法被推翻吗？隔离墙难道会一直屹立不倒吗？	世界樹公司真的無法被推翻嗎？隔離牆難道會一直屹立不倒嗎？	ユグドラシル社は本当に転覆しないのか？ウォールも本当にいつまでも存在していられるのか？	위그드라실이 정말 전복될 일은 없는 걸까? 격리 장벽은 계속해서 쓰러지지 않고 굳건히 버틸 수 있을까?	Could Yggdrasil really be overthrown? Would the Containment Wall remain standing?						0	
+9b	这些，到底是因为泰坦，还是因为我们自身存在问题？	這些，到底是因為泰坦，還是因為我們自身存在問題？	これらのことはタイタンのせいなのか、それとも、我々自身の問題なのか？	모든 것들은 타이탄 때문일까? 아니면 단순히 우리에게 문제가 있는 걸까?	Were these problems due to the Titans, or were they our own?						0	
+10	哎，现在整个零区都打成了一锅粥。	唉，現在整個零區都打成了一片。	はぁ、エリアゼロ全体がひどく荒れているね。	후… 지금 제로 구역 전체가 난장판이야.	Ugh, the zone is a complete mess now. There are fights everywhere.						0	
+11	郊狼和降临团打、降临团和拾荒者打、拾荒者和天楼打……	郊狼和降臨團打、降臨團和拾荒者打、拾荒者和天樓打……	コヨーテと降臨団、降臨団とスカベンジャー、スカベンジャーとスカイタワー……	코요테는 강림단이랑, 강림단은 피난민이랑, 피난민은 스카이 타워랑 싸우고 있다고…	The Coyotes are fighting the Adventists. The Adventists are fighting the scavengers. And the scavengers are fighting the Towers...						0	
+12	混乱因子必须要消除掉才可以！	混亂因子必須要消除掉才可以！	混乱因子を排除しないと！	난동꾼들은 제거해야만 해!	All factors leading to chaos must be eliminated!						0	
+13	明明只要有条件地开放庚号大门，允许大家出去就好了……	明明只要有條件地開放庚號大門，允許大家出去就好了……	条件付きで「第7ゲート」を開放し、みんなを解放すればいいだけの話なのに……	7번 게이트를 조건부로 개방해서 모두가 나가게끔 했으면 좋았을 텐데…	The problem can be easily solved if Gate Seven is opened under controlled conditions to let people out...						0	
+14	搞不懂搞不懂！也不说为什么！	搞不懂搞不懂！也不說為什麼！	ああもう全然理解できない！理由も聞かされてないし！	이해할 수가 없어! 이유도 말해주지 않고!	I don't understand why they're not doing that! And nobody's telling us why!						0	
+15	我昨天刚听了个什么新词儿～信息差管理？大概是这个意思？	我昨天剛聽了個什麼新詞～資訊差管理？大概是這個意思？	昨日新しい言葉を聞いたよ～、情報格差管理？とかなんとか、まあそんなところかな。	내가 어제 새로운 단어를 들었는데, 정보 격차 관리? 그것 때문이라고 하는 거 같던데?	I learned a new phrase yesterday — "poor information management." I think it describes our current situation quite well.						0	
+b-3											0	
+16	等等，有紧急通讯接进来。	等等，有緊急通訊接進來。	待って、緊急通信が入った。	잠시만. 긴급 통신이 왔어.	Wait, there's an urgent call.						0	
+b-4											0	
+17	我接一下。	我接一下。	ちょっと出る。	잠깐 좀 받을게.	Let me get it.						0	
+18	分析员。	分析員。	分析員。	분석가님.	Adjutant.						0	
+b-5											0	
+19	嗯，我在听。	嗯，我在聽。	ああ、私だ。	네, 듣고 있어요.	I'm listening.						0	
+20	现在由我直接跟你交接任务，卡罗琳会负责后续的情报支援。	現在由我直接跟你交接任務，卡羅琳會負責後續的情報支援。	今から私が直接ミッションの通達を行います。その後の情報支援はカロリンさんが担当します。	이제부터는 제가 분석가님한테 미션을 전달할 거예요. 캐롤린은 후속으로 정보 지원을 담당할 거고요.	I'll directly assign a mission to you now. Caroline will be in charge of subsequent intel support.						0	
+21	分析员，任务非常紧急！郊狼正在对庚号大门进行炮击……	分析員，任務非常緊急！郊狼正在對庚號大門進行炮擊……	分析員、緊急事態です……コヨーテが「第7ゲート」を砲撃しています。	긴급 미션이라 서둘러야 해요! 코요테가 7번 게이트를 포격하고 있어요…	Adjutant, this is an extremely urgent mission! The Coyotes are bombarding Gate Seven...						0	
+22	炮击？！庚号大门？！	炮擊？！庚號大門？！	砲撃！？「第7ゲート」！？	포격?! 7번 게이트를?!	Bombard!? Gate Seven!?						0	
+23	看来不用强调也都明白严重性了。	看來不用強調也都明白嚴重性了。	事態の深刻さは伝わっているようですね。	여기에 관한 심각성은 굳이 언급하지 않아도 다들 아시겠죠.	It looks like you understand how serious this is without me having to explain it.						0	
+24	请在通讯器上查收一下坐标文件，经过计算，这是最快能到达庚号大门的路线，请按照路线迅速返程。	請在通訊器上查收一下座標文件，經過計算，這是最快能到達庚號大門的路線，請按照路線迅速返回。	通信機で座標ファイルを確認してください。計算上、「第7ゲート」までの最短ルートですので、それに従って速やかな出動をお願いします。	단말기로 좌표를 확인해 주세요. 계산한 결과로는 이게 7번 게이트로 향하는 최적의 루트니까.	Please check the coordinate file on your communicator. We've calculated the shortest route to reach Gate Seven. Please take this route and return immediately.						0	
+25	接下来就交给卡罗琳吧。	接下來就交給卡羅琳吧。	あとはカロリンさんにお任せしましょう。	추가 사항은 캐롤린을 통해 전달해 드릴게요.	I'll leave the rest to Caroline.						0	
+26	嘛，就是这样……好像也没有什么可补充的了。	嘛，就是這樣……好像也沒有什麼可補充的了。	まあ、そんなところですかね……特に付け加えることはありません。	말하신 그대로에요… 더 보충할 내용도 없을 것 같네요.	Well, that's it... Doesn't look like there's anything else.						0	
+b-6											0	
+27	我们这位姬辰星小姐还真是……	我們這位姬辰星小姐還真是……	この、姫辰星というやつは本当……	수성 씨는 정말이지…	This Miss Ji Chenxing is really quite...						0	
+28	事无巨细？认真仔细？	事無鉅細？認真仔細？	何事も完璧というか、至れり尽くせりというか。	굉장히 꼼꼼하고 세밀하죠?	Careful? Meticulous?						0	
+29	人家连路线都帮你们计算好了，回来可要好好感谢她。	人家連路線都幫你們計算好了，回來可要好好感謝她。	ルートまで計算してくれているくらいですから、帰ったらちゃんとお礼を言ってくださいね。	루트까지 계산해 줬는데 돌아오면 고맙다는 말 한마디 정도는 해주세요.	She even calculated the shortest route for you. Don't forget to thank her when you return.						0	
+b-7											0	
+29_1	是啊……我会认真仔细，好好地谢谢她的。	是啊……我會認真仔細，好好地謝謝她的。	ああ……もちろん。しっかり、じっくり礼を言わないとな。	응… 정말 성심성의껏 최대한 답례의 인사를 전할까 해.	Indeed... I will make sure to thank her, carefully and meticulously.						0	
+29_2	别说的那么吓人啊你……	別說的那麼嚇人啊你……	……なんなんですか？その怖い言い方は。	아 그렇게까지 과하게 그러실 필요는 없는데…	Don't talk like that...						0	
+30	卡罗琳用眼神和表情告诉我，姬辰星虽然退出了通讯，但显然还没离开。	卡羅琳用眼神和表情告訴我，姬辰星雖然退出了通訊，但顯然還沒離開。	姫辰星は通信を切ったものの、まだその場から離れていないことは、カロリンの目と表情で分かった。	캐롤린은 눈빛과 표정으로 수성이 통신에서 퇴장했지만 아직 곁에 있다고 알려줬다.	Caroline hints with her eyes and expression that Ji Chenxing hasn't left yet, despite exiting the call.						0	
+31	我说卡罗琳，你不会马上要被裁员了吧？台词都被别人说完了呦。	我說卡羅琳，你不會馬上要被裁員了吧？台詞都被別人說完了呦。	カロリンさ、もうすぐクビにされたりしない？まんまとセリフを取られちゃってるわよ。	캐롤린, 설마 곧 잘리는 거 아니야? 대사까지 다른 사람한테 다 빼앗긴 걸 보니.	Caroline, you're not gonna be fired anytime soon, right? All your lines have been said by someone else!						0	
+32	我要是被裁了，那你的考勤记录和假期审批……	我要是被開除了，那你的考勤記錄和假期審核……	もし私が本当にクビになったら、あなたの出勤記録と休暇の承認は……	제가 만약 잘리면 페니씨 출근 기록이랑 휴가 신청은…	If I'm dismissed, your attendance record and vacation approval...						0	
+33	打住打住！妮塔！别磨蹭了快上路！	停停停！妮塔！別磨蹭了快上路！	はいはいはい！ほらニタ！ぐずぐずしてないでさっさと行くわよ！	아아! 됐어, 됐고! 니타, 빨리 가! 꾸물거리지 말고!	Hold up! Nita, stop dragging your feet and get moving!						0	
+34	还要多久才能开炮？	還要多久才能開炮？	あとどれくらいで撃てる？	발포까지 얼마나 더 기다려야 하는 거지?	How long does it take to fire?						0	
+35	头儿，这种磁轨炮的弹道校准系统咱们是第一次用，不能连界面逻辑都没看明白就开火啊……	老大，這種磁軌炮的彈道校準系統我們是第一次用，不能連介面邏輯都沒看明白就開火啊……	リーダー。この磁気レールガンの弾道校正システムですが、我々は初めて使うので画面をよく読まないと発射するのはちょっと難しくて……	두목, 레일건 탄도 교정 시스템은 저도 처음 사용하는 거라… 인터페이스 로직도 모르는 상황에서 발포하기가 조금 그런데요…	Boss, it's our first time using the trajectory calibration system of a rail gun like this. We can't fire without understanding the interface...						0	
+36	你是不是没跟海姆达尔的人交过手？	你是不是沒跟海姆達爾的人交手過？	ヘイムダルの人間と戦ったことがないのか？	헤임달 사람하고 싸워본 적 있어? 없으면 잔말 말고 하란 대로 해!	Haven't you fought Heimdall's men before?						0	
+37	我不管什么理由，两分钟内必须***开炮！	我不管什麼理由，兩分鐘內必須開那座該死的炮！	御託はいい、とにかく2分以内にこのガラクタをぶっ放せ！	이유가 ** 어떻든 반드시 2분 안에 발포해!	I don't care what problems you have. Fire this thing in two minutes!						0	
+38	……唉。	……唉。	……はぁ。	… 네.	...*sigh*						0	
+39	我去催催他们！	我去催催他們！	催促してきます！	어떻게든 재촉해 보겠습니다!	I'll go rush them!						0	
+40	不远处操作炮台的郊狼发出一阵欢呼。	不遠處操作炮臺的郊狼發出一陣歡呼。	近くで砲台を操作しているコヨーテたちから歓声が上がった。	멀지 않은 곳에서 포탑을 조작하던 코요테가 환호하기 시작했다.	The Coyotes operating an artillery battery not far away let out a cheer.						0	
+41	好像没什么效果。	好像沒什麼效果。	あまり効いてないな。	음… 별로 효과가 없어 보이는데.	It doesn't seem to work.						0	
+42	兄弟们说还是弹道校准的问题，没有击中隔离墙的承重结构，冲击力被吸能模组给吸收了……	兄弟們說還是彈道校準的問題，沒有擊中隔離牆的承重結構，衝擊力被吸能模組給吸收了……	やはり弾道校正の問題だそうで、ウォールの荷重構造に当たらず、衝撃が全てエネルギー吸収モジュールの餌食にされたようです……	탄도 교정에 문제가 있다고 합니다. 격리 장벽 지지대에 맞지 않고, 에너지 흡수 범퍼에 떨어져 충격을 흡수했다고 하네요…	The brothers said they failed to hit the load-bearing structure of the Containment Wall due to the trajectory calibration, and the impact was absorbed by the energy absorption module...						0	
+43	我问过了，校准已经没问题了，再来一轮炮击肯定能解决……不过……	我問過了，校準已經沒問題了，再來一輪炮擊肯定能解決……不過……	確認したところ、校正の問題は既に解決しました。もう一回砲撃すればきっと片付くはずです。ただ……	방금 교정 문제는 해결됐다고 합니다. 다시 한번 발포하면 문제없을 거라고 하네요… 근데 또 문제가…	They've fixed the calibration. The next shot will definitely hit the spot... but...						0	
+44	出什么问题了？快说！	出什麼問題了？快說！	何だ！さっさと言え！	또 무슨 문제야? 빨리 말해!	What's the problem? Just say it!						0	
+45	这一轮炮击……已经把储能模组的能源用光了……	這一輪炮擊……已經把儲能模組的能源用光了……	今の砲撃で……貯蔵モジュールのエネルギーを使い切りました……	방금 포격으로… 레일건의 에너지를 전부 사용했다고 합니다…	That shot just now... used all the energy in the energy restoration module...						0	
+46	这么不经用？！	這麼不耐用？！	燃費悪すぎんだろ！？	벌써?!	We ran out of energy that fast!?						0	
+47	这两门磁轨炮支持无线补能吗？	這兩門磁軌炮支持無線充能嗎？	ワイヤレスで充電できねぇのか？	레일건 2대 전부 무선 충전이 가능한가?	Do these two rail guns support wireless charging?						0	
+48	有无线补能模块，以前应该是放在……	有無線補能模組，以前應該是放在……	ワイヤレス充電モジュールはあります。確か場所は……	무선 충전 모듈이 있긴한데, 아마…	They have wireless charging modules. I think they used to be at...						0	
+49	旁边不就有个变电站吗？动作快！赶紧派人去把线圈对准过来！	旁邊不就有個變電所嗎？動作快！趕快派人去把線圈對準過來！	すぐ隣に変電所があんだろ？急げ！コイルを調整させてこい！	그럼 뭘 꾸물거려? 옆에 변전소 하나 있잖아! 그쪽으로 사람을 보내서 해결해 봐!	Isn't there a substation nearby? Go, quick! Send someone to align the coil!						0	
+50	这个警报是……	這個警報是……	この警報は……	이 경보음은…	This alarm is...						0	
+51	恐怕是隔离墙出了问题。	恐怕是隔離牆出了問題。	おそらくウォールに何かあったんだろう。	격리 장벽에 문제가 생긴 것 같네요.	I'm afraid something's wrong with the Containment Wall.						0	
+52	有谁知道是什么情况吗？舍塔，你不是派了人去掌控局面了吗？	有誰知道是什麼情況嗎？θ，你不是派了人去掌控局面了嗎？	どういうことだ？θ(シータ)、状況をコントロールするために人を向かわせたんだろう？	무슨 상황인지 아는 사람 있나요? θ 이사가 상황 통제할 사람을 보내지 않았나요?	Does anybody know what's going on? θ, didn't you send someone to handle the situation?						0	
+53	唉……	唉……	はぁ……	후…	*sigh*...						0	
+54	郊狼……他们把那个实验所的磁轨炮运到了缓冲区，刚刚对庚号大门进行了炮击。	郊狼……他們把那個實驗所的磁軌炮運到了緩衝區，剛剛對庚號大門進行了炮擊。	コヨーテ……奴らが研究所の磁気レールガンをバッファーエリアまで運んで、先ほど「第7ゲート」を砲撃したんだ。	코요테에요… 코요테가 실험소에 있던 레일건을 버퍼 구역으로 옮겨 7번 게이트를 포격했어요.	The Coyotes... They moved the rail guns from that research lab to the Buffer Sections and bombarded Gate Seven.						0	
+55	他们找到了“第五实验所”？！	他們找到了“第五研究所”？！	「第5研究所」の場所を突き止めたのか！？	코요테가 '5호 실험실'을 찾아냈다고요?	They found the Fifth Research Institute!?						0	
+56	炮击庚号大门？你不会不知道隔离墙对于公司……不，对于整个人类来说意味着什么吧？	炮擊庚號大門？你不會不知道隔離牆對於公司……不，對於整個人類來說意味著什麼吧？	「第7ゲート」を砲撃した？ウォールがうちにとって……いや、全人類にとってどんな意味を持つのか、まさか知らないはずがないだろうな？	7번 게이트를 포격했다고요? 격리 장벽이 회사에게… 아니, 모든 인류에게 어떤 의미인지는 모두들 알고 계시죠?	And Bombarded Gate Seven? Don't you know what the Containment Wall means to the company... to all humanity!?						0	
+57	那是最后一道还在生效的隔离墙！	那是最後一道還在生效的隔離牆！	あれはまだ使える最後のウォールなんだ！	그건 지금까지 작동 중이던 마지막 격리 장벽이라고요!	That's the last standing Containment Wall!						0	
+58	舍塔！要是出了问题……	θ！要是出了問題……	θ！何か問題でも起きたら……	θ! 만일 무슨 문제라도 생기면…	θ! If anything happens...						0	
+59	俯瞰人间的董事们，此刻却如同普通人一样争吵，他们的声音里，带有恐惧的味道。	俯瞰人間的董事們，此刻卻如同普通人一樣爭吵，他們的聲音裡，帶有恐懼的味道。	いつも世間を見下ろしている取締役たちは今まさに、まるで「普通の人間」のように恐怖に満ちた声で言い争っている。	이사들의 목소리는 두려움에 가득찼고, 일반인처럼 소리 높여 다투기 시작했다.	The board members who used to look down on the human world from above were arguing like ordinary people. There was a frightened tone in their voices.						0	
+60	够了！	夠了！	もういい！	그만!	Enough!						0	
+61	奥米茄透过全息影像射出的冰冷目光，扫过在场每一位董事。	ω透過全息影像射出的冰冷目光，掃過在場每一位董事。	ホログラムを通して映し出されたωの冷たい視線が、その場にいる取締役たち一人ひとりを見渡していた。	ω의 홀로그램이 현장에 있는 모든 이사들에게 차가운 시선을 보낸다.	Through the hologram, ω's icy gaze looked down upon all the board members on the scene.						0	
+62	请诸位拿出身为董事应有的仪态来。这件事，我相信舍塔已经做出了最优判断。	請諸位拿出身為董事應有的儀態來。這件事，我相信θ已經做出了最優判斷。	皆さんには、取締役としてのあるべき姿をわきまえていただきたい。この件に関しては、θが最善の判断を下したと信じよう。	이사로서의 태도들을 보여주시기 바랍니다. 전 이 일에 관해 θ 이사가 최적의 판단을 내렸다고 믿습니다.	Please behave like board members. I believe θ has made the best decision for this situation.						0	
+63	playername已经带着海姆达尔部队赶去了，安全部的精英也在姬辰星的带领下出发。	playername已經帶著海姆達爾部隊趕去了，安全部的精英也在姬辰星的帶領下出發。	既にplayernameがヘイムダル部隊を率いて駆けつけたし、安全部の精鋭たちも姫辰星の指揮のもと向かっていった。	playername(이)가 헤임달 부대를 이끌고 갔습니다. 안전부 엘리트들도 수성의 지휘하에 출발했고요.	playername is heading over with the Heimdall Force. Ji Chenxing has also set off with the elites from the Security Department.						0	
+64	嗯，要记得把事情处理干净。毕竟牵扯到“那个地方”，也关系到隔离墙。	嗯，要記得把事情處理乾淨。畢竟牽扯到“那個地方”，也關係到隔離牆。	ああ。くれぐれも綺麗にやってくれ。なにせ「あの場所」にはウォールが関わっているからな。	최대한 깔끔하게 처리했으면 합니다. 필경 '그곳'하고 연관되어 있을 뿐만 아니라, 격리 장벽하고도 관련이 있으니까요.	Remember to clean things up. It concerns "that place" and the Containment Wall, after all.						0	
+65	至少它在<orange>“研究”</>完成之前，不能出任何问题！	至少它在<orange>“研究”</>完成之前，不能出任何問題！	せめて<orange>「研究」</>が終わるまでは、何の問題も起こしてはならない！	적어도 <orange>'연구'</>를 마치기 전까진 아무런 문제도 생겨선 안 됩니다!	We can't let anything go wrong, at least until the <orange>"research"</> is completed!						0	

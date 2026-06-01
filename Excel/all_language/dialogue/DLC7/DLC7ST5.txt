@@ -1,0 +1,68 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	不断下沉……我被污水吞没，身不由己。	不斷下沉……我被污水吞沒，身不由己。	体が崩れ落ちるとともに……私は汚水に呑み込まれ、身動きがとれなくなっていった。	끊임없이 가라앉으며… 난 구정물에 빨려 들어갔다.	I sunk down further, engulfed in the wastewater... There was nothing I could do.						0	
+2	究竟是过了多久呢？等到能再次思考时，自己的眼前只剩下白色的光。	究竟是過了多久呢？等到能再次思考時，自己的眼前只剩下白色的光。	それからどれぐらい経ったのだろう。やっと思考能力を取り戻した頃には、私の視界は白い光で満たされていた。	얼마나 지났을까? 의식이 회복됐을 때, 눈앞에는 하얀 빛만 남아 있었다.	When I found myself able to think clearly again, I wondered how long it had been. My eyes were flooded by a white light above me.						0	
+3	虽然意识恢复了，但是依旧无法控制自己的身体，胸口好像压着一块石头般。	雖然意識恢復了，但是依舊無法控制自己的身體，胸口好像壓著一塊石頭般。	意識は戻ったけれど、依然として体は思う通りに動かなかった。まるで、胸の上に巨大な石でも置かれているような感覚だ。	의식은 돌아왔지만 여전히 몸을 가누지 못했고 가슴 한편에는 돌멩이가 깔린 듯한 느낌이다.	Even though I had regained consciousness, I still couldn't control my body. It felt like a massive rock was weighing down on my chest.						0	
+4	playername~醒过来了吗？	playername~醒過來了嗎？	playername～！起きた？	playername~ 일어났어?	playername~ Are you awake?						0	
+5	低下头，女孩正死死地抱着我，树枝从她的身体生长出，深深地刺入了我的胸膛。	低下頭，女孩正死死地抱著我，樹枝從她的身體生長出，深深地刺入了我的胸膛。	視線を下げると、少女が私をきつく抱き締めていた。彼女の体から伸びる枝が、私の胸に深々と突き刺さっていた。	고개를 숙이자 소녀는 나를 꽉 안고 있었고 나뭇가지가 그녀의 몸에서 자라나 내 가슴을 깊숙이 파고들었다.	I lowered my head to see a girl hugging me tightly. Branches sprouting from her body had pierced deep into my chest.						0	
+6	我不会让你得逞的……	我不會讓你得逞的…	思い通りにはさせません……	뜻대로 되진 않을 거야…	I won't let you win...						0	
+7	是琴诺的声音……她就在附近……	是琴諾的聲音……她就在附近……	チェルノの声だ。彼女は、この近くにいるのか……	체르노의 목소리다… 그녀가 주변에 있다…	It was Cherno's voice... She was close by...						0	
+b-1											0	
+8	向着声音传来的方向伸出手。	向著聲音傳來的方向伸出手。	声の方向へ手を伸ばす。	소리가 들리는 쪽으로 손을 내민다.	Reach out toward the sound						0	
+9	冷静下来……	冷靜下來……	落ち着くんだ……	진정하자…	Calm down...						0	
+10	哎呀，居然还能发出声音吗？那就换个姿势欺负你吧~	哎呀，居然還能發出聲音嗎？那就換個姿勢欺負你吧~	へ～！まだ声を出せるんだ。じゃあ、別のやり方でいじめてあげようかな～	어머, 아직도 말을 할 수 있는 거야? 그럼 자세 바꿔서 괴롭혀볼까나~	Geez, you can still talk? Then I'll switch up the position and turn it up a notch~						0	
+11	女孩冰冷纤细的手指死死地扣住了我的脖子。	女孩冰冷纖細的手指死死地扣住了我的脖子。	そう言いながら、少女の冷たい指が私の首を締めた。	여자아이의 차갑고 가느다란 손가락이 내 목을 꽉 졸랐다.	The girl's icy, slender fingers tightly gripped my neck.						0	
+12	等着我……	等著我……	待っててくれ……	잠깐만 기다려…	Wait for me...						0	
+13	光芒渐渐消逝，黑暗再度将视野与意识吞没……	光芒漸漸消逝，黑暗再度將視野與意識吞噬……	光が次第に消え、再び暗闇が私の視界と意識を飲み込んだ。	빛은 점점 사라지고 어둠은 다시 시야와 의식을 삼켰다…	The light gradually began to fade. Both my vision and consciousness were once again swallowed up by darkness...						0	
+14	但是——	但是——	けれど──	하지만…	But...						0	
+15	对不起，对不起……playername，求求你快醒过来！	對不起，對不起……playername，求求你快醒過來！	ごめんなさい、ごめんなさい……playername、お願いだから起きてください！	미안, 미안해… playername, 제발 정신 차려!	I'm sorry... I'm sorry... playername, please wake up!						0	
+17	随着胸腔不断压缩回弹，我渐渐恢复了气息——	隨著胸腔不斷壓縮回彈，我漸漸恢復了氣息——	胸元を圧迫していた違和感が消え、私は少しずつ呼吸が楽になり始めた——	가슴의 반동이 지속되면서, 나는 점차 숨을 되찾을 수 있었다…	As my chest constantly rose and fell, I gradually caught my breath...						0	
+18	在这之前……我被某人从水中拉起。	在這之前……我被某人從水中拉起。	完全に息が戻る前に……私は誰かの手によって、水中から引き揚げられた。	그 전에… 나는 누군가로부터 물속에서 끌어올려졌다.	But before that... someone had pulled me out of the water.						0	
+19	咳——	咳——	げほ——	켁…	*coughing—*						0	
+20	啊……	啊…	あ……	아…	Ah...						0	
+21	嘴唇传来了被什么东西紧紧贴住的触感，一股暖流将我彻底从那片冰冷的黑暗中唤醒。	嘴唇傳來了被什麼東西緊緊貼住的觸感，一股暖流將我徹底從那片冰冷的黑暗中喚醒。	唇に何かが張り付く感触があった。暖かいものが体の中に流れ込んできて、冷たい暗闇の中から私を呼び覚ましてくれた。	무엇인가에 착 달라붙는 듯한 감촉이 입술에 전해졌고, 차가운 어둠 속에서 온기가 나를 깨웠다.	I felt something press up hard against my lips. I was completely awoken from the cold darkness by the sudden warmth.						0	
+22	呃……	呃……	うっ……	윽…	Ah...						0	
+23	太好了……你醒过来了。	太好了……你醒過來了。	よかった……気がついたんですね。	정말 다행이야… 깨어났네.	Thank goodness... You're awake.						0	
+24	啊……你哭了吗，恩雅。	啊……你哭了嗎，恩雅。	あれ……泣いてるの？エンヤ姉。	아… 우신 거예요, 엔야 누님?	Ah... Are you crying, Enya?						0	
+25	嗯……嗯……啊，我还以为再也看不到你了。	嗯……嗯……啊，我以為再也看不見你了。	うん……うん。だって……もう二度と会えないかもしれないと思ったから。	아… 그게, 다시는 분석가를 못 보는 줄 알았어.	Yeah... Um... Ah, I thought I'd never see you again.						0	
+26	对不起，那个时候没有拉住你……对不起，对不起……我这辈子再也，再也不会松开你的手了！	對不起，那時候沒有拉住你……對不起，對不起……我這輩子再也，再也不會鬆開你的手了！	ごめんなさい、あの時貴方を止められなくて……ごめんなさい、ごめんなさい……もう二度とあなたを離しませんから！	그때 붙잡지 못해서 정말 미안해… 평생 다시는 분석가의 손을 놓지 않을게!	I'm so sorry I let go of you... I'm sorry... I'm sorry... I'll never let go of your hand again as long as I live!						0	
+27	嘿嘿嘿，这种话……要留到最重要的那天再说啊。	嘿嘿嘿，這種話……要留到最重要的那天再說啊。	はは……そういうセリフは……もっと大事な日のために、取っておかないと。	하하하, 이런 말은… 나중에 중요한 날에나 하면 되죠.	Hey, hey... You should save this kind of stuff for that important day.						0	
+28	嗯……但是在那天到来之前，不要再丢下我了……	嗯……但是在那天到來之前，不要再丟下我了……	ええ……ならその日がやってくるまで、二度と私を置いてどこかに行かないでくださいよ……	응… 그날이 오기 전까진 더 이상 날 두고 어디 가지 마…	Okay... but until that day comes, don't leave me again...						0	
+29	都怪playername老喜欢随便插旗，如果不小心打出be的话，我可不介意重启整个世界。	都怪playername老喜歡隨便插旗，如果不小心打出be的話，我可不介意重啟整個世界。	playernameはフラグを立てすぎなんだよ。あのままバッドエンドになってたら、この世界もろともリセットしちゃうかも。	이게 다 playername(이)가 매번 빌드업을 해서 그런 거라고. 근데 뭐 실수로 망쳐놔도 상관없어. 다시 시작하면 그만이니까.	playername, why do you always like to do things on hardcore mode...? But if you lose, I'd restart the entire world for you.						0	
+30	那可真是谢谢你了，安卡希雅。	那可真是謝謝你了，安卡希雅。	そりゃどうも、アカシア。	그래… 고마워.	I appreciate that, Acacia.						0	
+31	呵呵呵，别打趣了，在恩雅的腿上躺够了没有？	呵呵呵，別打趣了，在恩雅的腿上躺夠了沒有？	ふふふ。冗談はそこまでになさい……もうエンヤの膝枕をたっぷり堪能したでしょ？	하하하, 장난은 그만하고, 엔야 다리엔 그 정도면 충분히 오래 누워있었던 것 같은데?	Heh, okay, enough messing around. Don't you think you've laid in Enya's lap long enough?						0	
+32	凯茜娅笑了笑弯下腰，示意我搭上她的肩膀。	凱茜婭笑了笑彎下腰，示意我搭上她的肩膀。	カーシアは笑いながら体を屈めてくれた。肩を貸してくれるらしい。	캐시아는 웃으며 허리를 굽히더니 그녀의 어깨에 팔을 얹으라고 손짓했다.	Katya smiled as she bent down, gesturing for me to wrap my arm around her shoulders.						0	
+33	你应该也坐不住了吧。	你應該也坐不住了吧。	あなただって、このままじっとはしてられないはずでしょ。	그렇게 계속 거기서 가만히만 앉아있을 거야?	You probably can't sit still anyway.						0	
+34	呵，你是有读心术吗？	呵，你是有讀心術嗎？	はは……読心術までできるのか？	참나, 혹시 독심술도 할 줄 아는 거야?	Heh, you can read my mind?						0	
+35	毕竟从某种层面来说我们也算一类人。	畢竟從某種層面來說我們也算一類人。	そうね。ある意味、あなたとは同類だから。	어쨌든 어떤 면에서는 우리도 같은 부류에 속하잖아.	Well, we're pretty similar to a certain extent.						0	
+36	来吧，playername，继续投入到下一场战斗吧。	來吧，playername，繼續投入到下一場戰鬥吧。	さあ、playername。次の戦場に向かうわよ。	자, playername, 이제 다음 전투로 진입하자.	C'mon, playername. Let's get to the next battle.						0	
+37	嗯，她们还在等着我。	嗯，她們還在等我。	ああ。あの2人が私を待ってるからな。	그녀들이 우릴 기다리고 있어.	Yeah. They're still waiting for me.						0	
+40	但是到最后，我还是没能将她带回来。	但到最後，我還是沒能將她帶回來。	でも結局、私は彼女を連れ戻すことができなかった。	하지만 결국에 난 그녀를 데려오지 못했다.	But in the end, I still couldn't bring her back.						0	
+41	行走在地下通道，因为刚刚被公司“清扫”过的原因，这里既没有异化人也没有降临团，反倒显得有些“冷清”。	行走在地下通道，因為剛剛被公司「清掃」過的原因，這裡既沒有異化人也沒有降臨團，反倒顯得有些「冷清」。	私は今、ひとりで地下通路を歩いている。ついこの間、会社によって「掃除」されたせいか、すでに変異者や降臨団の姿もなく、どこか寂れたような雰囲気すら漂っていた。	지하 통로를 걸어가는데 회사의 '클리닝' 작업으로 변이자도 강림단도 없어서 조금 허전한 느낌이 든다.	I walked through the underground tunnel. Since Yggdrasil had just eliminated threats in the area, there were no Changed or Adventists. Oddly enough, it felt kind of lonely.						0	
+42	是啊，“永恒乐土”事件已经过去两周了，零区在公司的正式介入下渐渐恢复了秩序，新的避难所被搭建了起来，补给品也得到了升级。	是啊，「永恆樂土」事件已經過去兩週了，零區在公司的正式介入下漸漸恢復了秩序，新的避難所被搭建了起來，補給品也得到了升級。	そう、エターナルパラダイス事件はすでに２週間前に終わっていたのだ。エリアゼロも会社の介入を受けて、次第に秩序を取り戻しつつあるし、新しい避難所も開設され、補給品も行き渡るようになったと聞いていた。	그리고 '영원한 낙원' 사건은 벌써 2주가 지났다. 회사의 공식적인 개입으로 제로 구역은 차츰 질서를 회복했고, 새로운 대피소가 세워지며 보급품도 업그레이드됐다.	Two weeks had already passed since the "eternal promised land" incident. With an official intervention from Yggdrasil, order had gradually been restored to the Containment Zone. New shelters had been built, and supplies were upgraded.						0	
+43	在很多人眼里，我们已经成为了拯救耶洛沙和零区的英雄。	在許多人眼裡，我們已經成為了拯救耶洛沙和零區的英雄。	今や私も、イェロシャとエリアゼロを救った英雄として知られる存在になった。	많은 사람들의 눈에 우리는 이미 옐로샤와 제로 구역을 구한 영웅이 되었다.	In the eyes of many, We were the heroes who saved Yehrus and the Containment Zone.						0	
+44	只是……	只是……	ただ……	그저…	But...						0	
+45	哦呀，贩卖机里的巧克力居然还没卖光？真少见……	喔呀，販賣機裡的巧克力居然還沒賣光？真少見……	おや？この自販機、まだチョコが残ってるんだね。珍しいな……	어머, 자판기 안에 초콜릿이 아직까지 다 팔리지 않다니… 정말 보기 드문 일이네…	Whoa, there's still chocolate in the vending machine? You don't see that every day...						0	
+46	嗯，那个牌子的巧克力，只有琴诺会买吧。	嗯，那個牌子的巧克力，只有琴諾會買吧。	うん。あのブランドのチョコを買うのはチェルノくらいだから。	응, 그 브랜드의 초콜릿은 체르노만 샀었으니까.	Yeah, Cherno is usually the one who buys it all.						0	
+47	她应该还要休养一段时间……	她應該還要休養一段時間……	その彼女は、もう少し安静にしないといけないから……	아마 한동안은 더 쉬어야 할 거야…	She still needs some time to recover...						0	
+48	呼啊……呼啊……总算是把这个病床搬进来了……	呼啊……呼啊……總算是把這個病床搬進來了……	はぁ、はぁ……やっとベッドの搬入が終わった……	후… 후… 드디어 이 병상을 옮겼는데…	Ah... Phew... I finally got this hospital bed in here...						0	
+49	这么一来精神治疗室就算是重建完毕了吧。	這麼一來精神治療室就算是重建完畢了吧。	これでようやく、メンタル治療室も再建完了だね。	이렇게 되면 정신 치료실 재건축이 완료됐다고 볼 수 있는 건가?	With that, the psychiatric treatment room is as good as new.						0	
+50	嗯，明天开始就能投入使用了，之后小琴诺和……	嗯，明天開始就能投入使用了，之後小琴諾和……	ええ、明日から使えそうですね。これならチェルノちゃんたちも……	응, 내일부터 바로 사용할 수 있어. 체르노랑…	Yep, starting tomorrow, Cherno and M— ...*sigh*						0	
+51	怎么了恩雅姐？	怎麼了恩雅姐？	どうしたの？エンヤ姉。	왜 그래, 엔야 언니?	What's wrong, Enya?						0	
+52	唔，没什么……	唔，沒什麼……	いえ、なんでもありません……	응, 아니야…	Um, nothing...						0	
+53	啊，又弹错了……	啊，又彈錯了……	……あ。また間違えちゃったわ。	아, 또 잘못썼네…	Ah, I played it wrong again...						0	
+54	真是的，最近总是不在状态……	真是的，最近總是不在狀態……	まったく……どうも調子が良くないわね……	참, 요즘 컨디션이 영 별로라니까…	Seriously, I've been really out of it lately...						0	
+55	那次行动过后，心底依旧燃着一团火，无法被熄灭。	那次行動過後，心底依舊燃著一團火，無法被熄滅。	あの作戦からずっと、心の中でくすぶり続けているものがあった。	미션이 끝난 후에도 마음 속에는 여전히 꺼지지 않는 불이 타오르고 있었다.	After that mission, there was a flame burning in my heart that I just couldn't put out.						0	
+56	于是，在她们的陪同下，我又回到了这里。	於是，在她們的陪同下，我又回到了這裡。	だから私は、またここに戻って来た。	그래서 나는 그녀들과 함께 다시 이곳으로 돌아왔다.	With that, I went back with them by my side.						0	
+57	映射着星空的全息投影设备依旧没有停止工作，只是水面上的结晶花丛早已被公司清理干净。	映射著星空的全像投影設備依舊沒有停止運作，只是水面上的結晶花叢早已被公司清理乾淨。	星空を映し出すホログラムの投影設備はまだ動き続けているけれど、水面に漂う結晶でできた花は会社によって全て撤去されていた。	별이 빛나는 하늘을 매핑하는 홀로그램 투영 장비는 여전히 작동 중이었다. 수면에 있는 결정화 꽃은 회사에서 이미 제거한 지 오래다.	The hologram projection of the stars and sky was still on, but the company had already cleaned up all of the crystallized flowers on the pool's surface.						0	
+58	耳边只有水波拍打台阶发出的枯燥声响，我随便找了个位子坐下，静静地盯着闪着星光的水面，发着呆。	耳邊只有水波拍打階梯發出的枯燥聲響，我隨便找了個位子坐下，靜靜地盯著閃著星光的水面，發著呆。	波が階段を叩く単調な音を耳にしながら、私は適当な席を選び、星の光で輝く水面をぼんやりと眺めた。	지루한 파도소리만이 계단을 두드렸고 나는 자리에 앉아 멍하니 별빛이 반짝이는 수면을 바라보았다.	I could only hear the sound of water lapping against the steps. I sat down, staring at the stars reflected on the water's surface in a daze.						0	
+59	直至，一处微小的异常浮现在我的眼前——	直至，一處微小的異常浮現在我的眼前——	そのささやかな異常が私の視界に映るまで——	미세한 이상 현상이 내 눈앞에 떠오를 때까지 말이다…	Suddenly, a tiny abnormality appeared in front of my eyes...						0	
+60	在水池的中央，一束小小的白花陡然绽放。	在水池的中央，一束小小的白花陡然綻放。	不意に、池の中央で小さくて白い花が開くのが見えた。	연못 한가운데는 작고 흰 꽃이 활짝 피어있었다.	A bunch of small white flowers had bloomed in the middle of the pool.						0	
+b-2											0	
+61	向着那一抹小小的纯白迈开了步伐。	向著那一抹小小的純白邁開了步伐。	その純白の花に向かって一歩踏み出す。	순백의 길을 향해 발걸음을 내딛는 것처럼.	Walk toward the lily-white flowers						0	
+62	然而我并不知道，正是因为这个举动，我将亲手推动名为奇迹的齿轮。	然而我並不知道，正是因為這個舉動，我將親手推動名為奇蹟的齒輪。	けれど、その時点では私もまだ気付いていなかった。その行為が、奇跡という名の歯車を回す助けになっていたなんてことは。	하지만 이런 행동으로 내가 직접 기적이라는 톱니바퀴를 작동하게 될 줄은 몰랐다.	I had no way of knowing that this small action would put the wheels in motion for a miracle to occur.						0	
+63	没错，这就是我回到这里的理由——	沒錯，這就是我回到這裡的理由——	そうだ。それこそが私がここに戻った理由。	그래, 이게 바로 다시 내가 여기에 돌아온 이유야…	But that was why I had gone back there...						0	
+64	身为海姆达尔部队的分析员，我要接我的队员回家，回到真正属于她的地方。	身為海姆達爾部隊的分析員，我要接我的隊員回家，回到真正屬於她的地方。	ヘイムダル部隊の分析員として、隊員を連れ戻すんだ。彼女がいるべき場所に。	헤임달 부대의 분석가로서 진정으로 그녀가 속한 곳으로 그녀를 돌려보내 줘야 하는 거…	As Adjutant of the Heimdall Force, I wanted to bring my operative home, to the place where she truly belonged.						0	
+65	而这朵小花也将再次为我锚定坐标，那将是——	而這朵小花也將再次為我錨定座標，那將是——	そしてこの花が再び示してくれる座標、それこそが──	이 작은 꽃은 내가 가야 할 좌표를 알려 줄 것이다.	Those flowers would mark the spot where, one day not long after...						0	
+66	不久后的某天，与她再次相遇的坐标。	不久後的某天，與她再次相遇的座標。	遠くない未来、再び彼女と出会うことになる座標なのだ。	얼마 지나지 않아 다시 그녀와 마주칠 좌표를…	I would meet her again.						0	
+67	终于……又见面了。	終於……又見面了。	また……会えたね。	언젠가… 다시 만날 날을 위하여.	Finally... we would meet again.						0	

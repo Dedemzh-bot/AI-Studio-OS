@@ -1,0 +1,21 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	……	……	……	……	...						0	2.3版本宿舍随机事件
+page1.2	……	……	……	……	...						0	2.3版本宿舍随机事件
+page1.3	今天也是读心魔术环节吗？	今天也是讀心魔術環節嗎？	今日も読心術を試してるのか？	오늘도 독심술인 거야?	What, is this another round of your mind-reading magic?						0	2.3版本宿舍随机事件
+page1.4	不是。	不是。	違うよ。	아니.	No.						0	2.3版本宿舍随机事件
+page1.5	伊切尔想和分析员一起做游戏！	伊切爾想和分析員一起玩遊戲！	イチェルは分析員と一緒に遊びたい！	오늘은 분석가랑 새로운 놀이를 같이하고 싶어.	I want to play a game with you, Adjutant!						0	2.3版本宿舍随机事件
+page1.6	什么游戏？	什麼遊戲？	ああ、どんなゲーム？	무슨 놀이인데?	What kind of game?						0	2.3版本宿舍随机事件
+page1.7	芙提雅，给伊切尔做了奇怪的算术游戏。	芙提雅，為伊切爾做了奇怪的算術遊戲。	フリティアがイチェルに面白い計算ゲームを作ってくれた。	프티야가 이첼에게 이상한 산수 놀이를 알려줬거든.	Fritia taught me a strange math game.						0	2.3版本宿舍随机事件
+page1.8	和其他人对战，算得快算得对的人就能获得胜利。	和其他人對戰，算得快算得對的人就能獲得勝利。	誰かと対戦して、より早く正しい答えを出せた人が勝ち。	다른 사람이랑 대결하는 건데, 빠르게 계산을 마치고 답을 맞히는 사람이 이기는 거야.	I do math against others, and the faster one with the right answer wins.						0	2.3版本宿舍随机事件
+page1.9	伊切尔……会喜欢玩这种游戏吗？	伊切爾……會喜歡玩這種遊戲嗎？	イチェルは……そういうゲームが好きなのか？	이첼이… 이런 놀이를 좋아한다고?	Do you really enjoy playing this kind of game, Eatchel?						0	2.3版本宿舍随机事件
+page1.10	芙提雅说，聪明的伊切尔，不会害怕挑战，肯定能拿到第一名。伊切尔，很聪明！	芙提雅說，聰明的伊切爾，不會害怕挑戰，一定能拿到第一名。伊切爾，很聰明！	フリティアは、賢いイチェルは挑戦することを恐れない、きっと一位になれるって言ってた。イチェルは、賢い！	똑똑한 이첼은 도전을 두려워하지 않고, 분명 1등을 할 거라고 프티야가 그랬어. 이첼은, 엄청 똑똑하거든!	Fritia said, "Eatchel, you're smart, and you're not afraid of challenges. You're sure to win!" Yes, I'm smart!						0	2.3版本宿舍随机事件
+page1.11	（我明白了，是激将法。）	（我明白了，是激將法。）	（まんまと乗せられたわけか）	(이건 자극 요법이 분명해)	(Ah, I see. Fritia used a little trick to get her interested in playing this math game.)						0	2.3版本宿舍随机事件
+page1.12	伊切尔找我，是需要我的帮忙吗？	伊切爾找我，是需要我的幫忙嗎？	イチェルが私を探していたのは、助けが必要だからか？	이첼이 날 찾아온 건, 내 도움이 필요해서야?	So, are you asking for my help to practice?						0	2.3版本宿舍随机事件
+page1.13	伊切尔不想和其他人玩。	伊切爾不想和其他人玩。	イチェルは他の人と遊びたくない。	이첼은 다른 사람이랑은 하기 싫어.	I don't want to play with others.						0	2.3版本宿舍随机事件
+page1.14	分析员，和伊切尔一起去房间里开一局！	分析員，和伊切爾一起去房間裡開一局！	分析員、イチェルの部屋に来て遊んで！	분석가, 이첼이랑 방에 가서 같이 해!	Just you and me, in my room!						0	2.3版本宿舍随机事件
+page1.15	那先说好，我可不会因为伊切尔可爱就放水的。	那先說好，我可不會因為伊切爾可愛就放水的。	言っとくが、イチェルがかわいいからって手加減したりしないからな。	그럼 미리 말해두지만 귀엽다고 봐주지 않을 거야.	Alright. But just so we're clear, I won't go easy on you just because you're cute.						0	2.3版本宿舍随机事件
+page1.16	伊切尔，不怕！	伊切爾，不怕！	イチェル、怖くない！	괜찮아!	Bring it on!						0	2.3版本宿舍随机事件
+page1.17	伊切尔，会赢的！	伊切爾，會贏的！	イチェルは勝つ！	이첼이 이길 거야.	I'm sure to win!						0	2.3版本宿舍随机事件
+page1.18	嗯嗯，我也相信伊切尔。	嗯嗯，我也相信伊切爾。	ああ、私もイチェルのことを信じているよ。	알았어, 나도 이첼을 믿어.	I believe in you, Eatchel.						0	2.3版本宿舍随机事件
+page1.19	（以这姑娘的精力，今晚注定会是个不眠之夜了。）	（以這姑娘的精力，今晚注定會是個不眠之夜了。）	（この子のスタミナを考えると、今晩は眠れない夜になりそうだ）	(이첼의 기운이라면, 오늘 밤 잠자기는 힘들 거 같네.)	(This girl's full of energy. Looks like it's going to be a long night...)						0	2.3版本宿舍随机事件

@@ -1,0 +1,84 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+1	这个好吃。	這個好吃。	おいしい。	이거 맛있어.	This is tasty.						0	2.8版本奈莉德好感度剧情
+2	你尝尝。	你吃吃看。	食べてみろ。	먹어봐.	You should try some.						0	2.8版本奈莉德好感度剧情
+3	她认真地举起勺子，送到我的嘴边。	她認真地舉起湯匙，送到我的嘴邊。	ネリーダはスプーンを私の口元に近づけた。	그녀는 진지하게 스푼을 들어 내 입가에 가져왔다.	She scooped up a spoonful with a serious expression and brought it toward my mouth.						0	2.8版本奈莉德好感度剧情
+4	这家餐厅很难订，每张桌子都坐着客人。我下意识扫了一眼周围，赶快把甜品吃进了嘴里。	這家餐廳很難訂，每張桌子都坐著客人。我下意識掃了一眼周圍，趕快把甜點吃進了嘴裡。	この店は人気で、予約が入れにくく、入れたとしても基本満席だ。私は思わず周りを一回見渡したあと、彼女が掬ってくれたスイーツを頬張った。	이 식당은 예약하기도 힘들고, 테이블마다 손님들로 가득했다. 나는 무심코 주변을 쓱 훑고는 얼른 디저트를 입에 넣었다.	This restaurant was hard to book, and every table was occupied. I instinctively glanced around before quickly accepting the bite.						0	2.8版本奈莉德好感度剧情
+5	怎么样？	怎麼樣？	どうだ？	어때?	How is it?						0	2.8版本奈莉德好感度剧情
+6	没来得及尝味道……不过还不错，不太甜。	還沒來得及細品……不過還不錯，不太甜。	じっくり味わえていないけど……控えめな甘味で悪くない。	아직 제대로 맛보지도 못했는데… 응, 괜찮네, 너무 달지도 않고.	I didn't get a proper taste... but it's not bad, not too sweet.						0	2.8版本奈莉德好感度剧情
+7	那再尝一口吧。	那再吃一口吧。	それじゃ、もう一口食べろ。	그럼 한 입 더 먹어봐.	Then here, have another bite.						0	2.8版本奈莉德好感度剧情
+8	她又盛起一勺。我只好探了探身，赶快把甜品接进嘴里。	她又挖了一匙。我只好探出身體，趕快把甜點接進嘴裡。	彼女はまたスイーツを掬ってくれた。私は体を動かして、さっさとスイーツを食べることしかできなかった。	그녀는 또 한 스푼 떴고, 나는 몸을 앞으로 숙여 얼른 디저트를 받아먹었다.	She raised another spoonful. I hesitantly leaned forward and let her feed me the dessert again.						0	2.8版本奈莉德好感度剧情
+9	感到难为情吗？	覺得尷尬嗎？	恥ずかしいのか？	부끄러워?	Are you embarrassed?						0	2.8版本奈莉德好感度剧情
+10	她放下了勺子，歪了歪头。	她放下了湯匙，歪了歪頭。	ネリーダはスプーンを置いて、首を傾げた。	그녀는 스푼을 내려놓고 고개를 갸웃거렸다.	She set down the spoon and tilted her head.						0	2.8版本奈莉德好感度剧情
+11	你这么一说，也是。没什么可难为情的。	你這樣一說，也是。沒什麼好尷尬的。	言われてみればそうだな。恥ずかしがる必要はないかもしれない。	그렇게 말하니까 그런 것 같네. 뭐, 부끄러울 건 없지.	Now that you mention it... But I suppose there's really nothing to be embarrassed about.						0	2.8版本奈莉德好感度剧情
+12	我没有谈过恋爱，很多事情不清楚。	我沒有談過戀愛，很多事情不懂。	私は恋の経験がないから、よくわからない。	연애는 해본 적이 없어서, 내가 모르는 게 많아.	I've never been in a relationship before, so I don't really know how this works.						0	2.8版本奈莉德好感度剧情
+13	如果有哪里做得不对，你告诉我就好。	如果有哪裡做得不對，你告訴我就好。	間違ったことがあれば、教えてくれ。	혹시 내가 뭔가 잘못하면 말해줘.	If I do anything wrong, just let me know.						0	2.8版本奈莉德好感度剧情
+14	挺好的。跟甜品一样。	蠻好的啊。跟甜點一樣。	特にないよ。このスイーツみたいに、なにも悪くない。	지금이 좋아. 이 디저트처럼 말이야.	You're doing great. Just think of it this way:						0	2.8版本奈莉德好感度剧情
+15	哪有那么多对不对的。没必要都按照书上说的来吧？	哪有那麼多對不對的。沒必要都按照書上說的來吧？	正しいとか間違っているとか気にしなくていい。何もかも教科書通りにする必要はないよ。	정답이 어디 있어. 꼭 책에 나온 대로 할 필요는 없잖아?	Like this dessert, there's no correct approach. No need to follow every step of someone else's recipe, right?						0	2.8版本奈莉德好感度剧情
+16	恋爱是那两个人之间的事，干嘛要听别人的。	戀愛是那兩個人之間的事，幹嘛要聽別人的。	恋はそのふたりさえよければなんだっていいんだから、他人の考えなんて気にしないで。	연애는 둘만의 일이니까, 남의 말은 들을 필요 없어.	Our relationship is between us. Why concern ourselves with what others say?						0	2.8版本奈莉德好感度剧情
+17	想怎么做就怎么做。反正我是这么干的。	想怎麼做就怎麼做。反正我是這樣的。	したいようにすればいい。少なくとも私はそうしているよ。	하고 싶은 대로 하면 돼. 난 그렇게 하고 있어.	Just do whatever you feel like. That's how I see it, anyway.						0	2.8版本奈莉德好感度剧情
+18	那我试试。	那我試試。	じゃあ、やってみる。	그럼 나도 그렇게 해 볼게.	Okay, I'll give it a try.						0	2.8版本奈莉德好感度剧情
+19	说完，她站起身，弯下腰，一手扶着餐桌，一手捧起我的脸颊。	說完，她站起來，彎下腰，一手扶著餐桌，一手捧起我的臉頰。	すると、彼女は立ち上がって、片手をテーブルに置き、もう片手を私の頬に寄せて、俯いた。	그녀는 그렇게 말하고 일어서더니, 허리를 숙여 한 손은 테이블을 짚고, 다른 한 손으로는 내 볼을 감쌌다.	As she spoke, she stood up, leaned forward, bracing one hand on the table while cupping my cheek with the other.						0	2.8版本奈莉德好感度剧情
+20	她闭着眼，我也下意识闭上了眼。	她閉著眼，我也下意識閉上了眼。	彼女が目を閉じたのを見て、私も無意識にそうした。	그녀가 눈을 감자, 나도 무심결에 눈을 감았다.	She closed her eyes, and I reflexively did the same.						0	2.8版本奈莉德好感度剧情
+21	嘴唇轻轻印在嘴角，奶油的香气顺着鼻子钻进身体，和嘴里的甜味一模一样。	嘴唇輕輕印在嘴角，奶油的香氣順著鼻子鑽進身體，和嘴裡的甜味一模一樣。	口元に唇が落ちてくる。クリームの香りが鼻に入ってきて、口の中のクリームの甘さと見事に合致した。	내 입가에 입술이 살짝 닿았다. 코끝을 타고 들어온 크림 향은 입안의 달콤함과 똑 닮아 있었다.	Her lips brushed lightly against the corner of my mouth. The scent of cream drifted through my nose, and the sweetness seeped into my mouth.						0	2.8版本奈莉德好感度剧情
+22	再睁开眼时，她已经坐回了位置上，抿着嘴角，满足得像是实现了什么愿望。	再睜開眼時，她已經坐回了位置上，抿著嘴角，滿足得像是實現了什麼願望。	目を開くと、ネリーダはすでに椅子に座り直して、満足げに唇を結んでいる。	다시 눈을 떠 보니 그녀는 이미 자리로 돌아가 있었다. 입을 꼭 다문 채, 무언가 소원을 이룬 듯 만족스러운 표정이었다.	When I opened my eyes again, she was already back in her seat, lips pressed together, looking as satisfied as though a wish had been fulfilled.						0	2.8版本奈莉德好感度剧情
+23	哇哦。	哇哦。	驚いたよ。	우와.	Wow.						0	2.8版本奈莉德好感度剧情
+24	真甜。	真甜。	甘いな。	정말 달콤하네.	That was sweet.						0	2.8版本奈莉德好感度剧情
+25	我抬起了双手，又放回了桌子上。	我抬起了雙手，又放回桌子上。	私は両手をあげて、またすぐにテーブルに置きなおした。	나는 두 손을 들어 올렸다가 다시 테이블 위에 내려놓았다.	I raised my hands, then rested them back on the table.						0	2.8版本奈莉德好感度剧情
+26	想要说点什么，但还是只能发出内心的声音。	想說點什麼，但還是只能發出內心的聲音。	なにか言おうとしたが、結局は思ったことをそのまま口に出すしかなかった。	뭐라도 말하고 싶었지만, 나오는 건 내면의 목소리뿐이었다.	I wanted to say something, but all I could manage was:						0	2.8版本奈莉德好感度剧情
+27	……哇哦。	……哇哦。	……本当に驚いたよ。	… 우와.	...Wow.						0	2.8版本奈莉德好感度剧情
+28	你说得对——想怎么做就怎么做。	你說得對——想怎麼做就怎麼做。	確かにおまえの言う通りだ。したいようにすればいい。	네 말이 맞아… 하고 싶은 대로 하는 거지.	You're right. I should just do what I feel like.						0	2.8版本奈莉德好感度剧情
+29	我现在很开心。很高兴。	我現在很開心。很高興。	おかげで今は楽しいしうれしいんだ。	나 지금 정말 즐거워. 너무 기뻐.	I feel really happy right now, truly happy.						0	2.8版本奈莉德好感度剧情
+30	很……	很……	しかも…	정말…	This is really...						0	2.8版本奈莉德好感度剧情
+31	她努力思索着，想要形容内心的情绪。	她努力思索著，想要形容內心的情緒。	彼女は自分の気持ちを伝えようと、しばらく考え込んだ。	그녀는 마음속 감정을 어떻게 표현해야 할지 열심히 고민했다.	She concentrated, trying to find the right word for her emotions.						0	2.8版本奈莉德好感度剧情
+32	我握住她的手。	我握住她的手。	私はそんな彼女の手を握り締めた。	나는 그녀의 손을 꼭 잡았다.	I took her hand.						0	2.8版本奈莉德好感度剧情
+33	手有点麻。这正常吗？	手有點麻。這樣正常嗎？	手が痺れている。これは普通なのか？	손이 좀 저려. 이거 정상이야?	My hands feel a little numb. Is that normal?						0	2.8版本奈莉德好感度剧情
+34	我掂了掂——没有一点力道，软软地躺在我手心里。	我試了一下——沒有一點力道，軟軟地躺在我手中。	その言葉を聞いて、私は彼女の手を確認した。それに力はなく、私の手のひらに大人しく置かれていた。	그녀의 손을 들어보니, 힘이 하나도 없이 내 손바닥에 축 늘어져 있었다.	I held her hand up — not a single tense muscle, it felt incredibly soft, resting gently in my palm.						0	2.8版本奈莉德好感度剧情
+35	我也不知道。但我现在很想拥抱你。	我也不知道。但我現在很想擁抱你。	私にもわからないが、なぜか今すぐ君を抱きしめたくなったよ。	나도 잘은 모르겠지만, 지금은 너를 꼭 안아주고 싶어.	I don't know. But I'd really like to hug you right now.						0	2.8版本奈莉德好感度剧情
+36	那就抱我。	那就抱我。	なら、そうすればいい。	그럼 안아줘.	Then hug me.						0	2.8版本奈莉德好感度剧情
+37	（我可不见得能克制住……）	（我不太確定能克制住……）	（だって、そうしたら我慢できなくなるからさ……）	(내가 잘 참을 수 있을까…)	(I'm not sure I can hold back...)						0	2.8版本奈莉德好感度剧情
+38	我站起来，轻轻抱了她一下，然后回到了座位。她低着头，没有看我。	我站起來，輕輕抱了她一下，然後回到了座位。她低著頭，沒有看我。	私は立ち上がって、そっと彼女を抱きしめて、すぐ席に戻った。ネリーダはただ俯いたまま、私のほうを見なかった。	나는 일어나 그녀를 살며시 안아주었다가 다시 자리로 돌아왔다. 그녀는 고개를 숙인 채, 나를 바라보지 않았다.	I stood up, gently embraced her, then returned to my seat. She kept her head lowered, not looking at me.						0	2.8版本奈莉德好感度剧情
+39	唔……吃好了吗？我们去散散步吧？	嗯……吃好了嗎？我們去散步吧？	……食べ終わったら、ちょっと散歩でもしようか？	음… 다 먹었으면 우리 산책하러 갈까?	Um... are you finished eating? Want to take a walk?						0	2.8版本奈莉德好感度剧情
+40	嗯。	嗯。	ああ。	응.	Yeah.						0	2.8版本奈莉德好感度剧情
+41	我牵着她的手往外面走去。她个子够高，手垂下的位置很近，谁也不用迁就谁。	我牽著她的手往外面走去。她夠高，手垂下的位置很近，誰也不用遷就誰。	彼女の手を取って、一緒に店を出た。すらりと長身な彼女は、手の長さも私と近いから、手をつないでも自然と腕を伸ばすことができる。	나는 그녀의 손을 잡고 밖으로 걸어 나갔다. 키가 큰 그녀는 손을 내린 위치가 나와 가까워 서로 맞춰줄 필요가 없었다.	I took her hand and led her outside. She's tall enough that our hands meet perfectly. Neither of us needs to adjust for the other.						0	2.8版本奈莉德好感度剧情
+42	天气真不错。	天氣真不錯。	いい天気だな。	날씨가 참 좋네.	The weather's really nice.						0	2.8版本奈莉德好感度剧情
+43	我们在一只长椅上坐下。她抬起头，看向云彩和飞鸟。	我們在一張長椅上坐下。她抬起頭，看向雲彩和飛鳥。	私たちはベンチに腰かけた。ネリーダは顔をあげて、雲と鳥を眺めた。	우리는 벤치에 나란히 앉았다. 그녀는 고개를 들어 하늘의 구름과 날아다니는 새들을 바라보았다.	We sat down on a bench. She lifted her head and gazed at the clouds and birds overhead.						0	2.8版本奈莉德好感度剧情
+44	在想什么？	在想什麼？	なにか考えているのか？	무슨 생각해?	What's on your mind?						0	2.8版本奈莉德好感度剧情
+45	我在想，我好像都没怎么注意过。	我在想，我好像都沒怎麼注意過。	なんで今まで気づかなかったんだろうって、思っていた。	있잖아, 나 이런 걸 신경 써본 적이 거의 없었던 것 같아.	That I never really noticed any of this before.						0	2.8版本奈莉德好感度剧情
+46	下午的风吹过她的头发，道路两旁盛开的花也跟着摆动。	下午的風吹過她的頭髮，道路兩旁盛開的花也跟著擺動。	彼女の髪は午後の風に吹かれて、道端に咲く花のように揺れ出した。	오후의 바람이 그녀의 머리카락을 스쳤고, 도로 양쪽에 핀 꽃들도 함께 흔들렸다.	The afternoon breeze tousled her hair, and the flowers blooming along the roadside swayed in the wind.						0	2.8版本奈莉德好感度剧情
+47	实在是难得的风景。	實在是難得的風景。	確かに、いい眺めだ。	정말 보기 드문 풍경이네.	What a view.						0	2.8版本奈莉德好感度剧情
+48	是啊。	是啊。	ああ。	그러게.	Yeah.						0	2.8版本奈莉德好感度剧情
+49	她安静地感受着，丝毫没察觉到我的目光。	她安靜地感受著，絲毫沒察覺到我的目光。	私からの視線をよそに、彼女は静かに風景を楽しんだ。	그녀는 나의 시선도 눈치채지 못한 채 조용히 그 모든 걸 느끼고 있었다.	She soaked it all in quietly, completely unaware of my gaze.						0	2.8版本奈莉德好感度剧情
+50	阳光透过树叶的间隙碎在地上。饭后的慵懒和着手心的安稳，她慢慢合上眼睛。	陽光透過樹葉的縫隙碎在地上。飯後的慵懶伴著手心的安穩，她慢慢闔上眼睛。	木漏れ日が差し込んでくる。食事のあとであることもあって、彼女は繋いでる手の心地よさに身を任せて、ゆっくりと目を瞑った。	햇살이 나뭇잎 사이로 부서지며 땅에 내려앉았다. 식사 후의 나른함과 손바닥에 전해지는 안정감 속에서, 그녀는 천천히 눈을 감았다.	Sunlight filtered onto the ground through gaps in the leaves. A post-meal laziness combined with the comfort of her hand in mine, and she gradually closed her eyes.						0	2.8版本奈莉德好感度剧情
+51	我心里的那些悸动和冲动也慢慢沉默，只剩下安宁。	我心裡的那些悸動和衝動也慢慢沉默，只剩下安寧。	私のときめきや衝動もだんだんと落ち着いてきて、穏やかさだけが残った。	내 마음속의 설렘과 충동도 함께 조용히 가라앉고, 오직 평온만이 남았다.	The flutter and restlessness within me slowly subsided, leaving only peaceful contentment.						0	2.8版本奈莉德好感度剧情
+52	她的头靠在我的肩膀。在这种被依靠、被信赖的爱中，我也渐渐困了。	她的頭靠在我的肩膀。在這種被依靠、信賴的愛中，我也漸漸睏了。	彼女は頭を私の肩に預けた。そんな頼られている気持ちのなかで、私もだんだんと眠気に襲われた。	그녀는 내 어깨에 머리를 기댔다. 나를 향한 그녀의 의지와 믿음의 사랑 속에서 나도 점점 졸음이 밀려왔다.	She rested her head on my shoulder. In this feeling of love, being relied upon, being trusted, I began to feel sleepy, too.						0	2.8版本奈莉德好感度剧情
+b-1											0	2.8版本奈莉德好感度剧情
+53	闭上眼睛	閉上眼睛	目を閉じる	눈을 감는다	Close my eyes						0	2.8版本奈莉德好感度剧情
+54	于是，我也睡着了。	於是，我也睡著了。	そして、私も眠りについた。	그리고 나도 잠에 들었다.	So I drifted off as well.						0	2.8版本奈莉德好感度剧情
+55	……	……	……	…	...						0	2.8版本奈莉德好感度剧情
+56	…………	…………	…………	…	......						0	2.8版本奈莉德好感度剧情
+57	不知道过去了多久。一股香味幽幽地钻进了鼻子。	不知道過去了多久。一股香味幽幽地鑽進了鼻子。	眠ってからどれだけ経ったのか。気が付けば、いい香りが鼻についた。	얼마나 지났을까. 은은한 향기가 코를 파고들었다.	I don't know how much time passed until a faint, sweet scent tickled my nose.						0	2.8版本奈莉德好感度剧情
+58	听见了很轻微的脉搏跳动的声音。同时，身上的一些肌肉有些酸痛，大概是因为长时间维持一个姿势。	聽見了很輕微的脈搏跳動聲。同時，身上的一些肌肉有點酸痛，大概是因為長時間維持一個姿勢。	耳元ではかすかに鼓動の音がする。ずっと同じ姿勢だったせいか、体が筋肉痛になったようだ。	아주 희미하게 심장 박동 소리가 들려왔다. 그리고 같은 자세로 너무 오래 있었던 탓인지 몸이 약간 뻐근했다.	I heard the quiet thumping of a heart. At the same time, I felt slightly sore, probably from staying in the same position for too long.						0	2.8版本奈莉德好感度剧情
+59	我睁开眼——大概是睡着的时候，我把头靠在了奈莉德的肩膀上。我连忙坐起身，活动了一下脖子。	我睜開眼睛——大概是睡著的時候，我把頭靠在了奈莉德的肩膀上。我連忙坐起身，活動了一下脖子。	私は目を開いた。どうやら眠りについたときに、頭をネリーダの肩に預けたようだ。私はすぐに立ち上がって、首を動かした。	나는 눈을 떴다. 잠들어 있는 동안 네리다의 어깨에 기대 있었던 모양이다. 나는 서둘러 몸을 일으켜 목을 움직였다.	I opened my eyes — I must have ended up with my head on Nerida's shoulder. Quickly, I sat upright and rolled my neck.						0	2.8版本奈莉德好感度剧情
+60	她已经醒了，正看着远处的路灯。察觉到我也醒了，她微微笑了一下。	她已經醒了，正看著遠處的路燈。察覺到我也醒了，她微微地笑了一下。	ネリーダはとっくに起きていて、遠くの街路灯を眺めている。私が起きたと知ると、彼女は微笑んだ。	그녀는 이미 깨어 있었고, 저 멀리 가로등을 바라보고 있었다. 잠에서 깬 나를 보고, 그녀는 살짝 미소를 지었다.	She was already awake, gazing at the distant streetlights. Sensing I'd woken up, she offered me a smile.						0	2.8版本奈莉德好感度剧情
+61	怎么不叫我……几点了？	怎麼不叫我……幾點了？	起こせばよかったのに……今は何時だ？	왜 안 깨웠어… 지금 몇 시야?	Why didn't you wake me... What time is it?						0	2.8版本奈莉德好感度剧情
+62	我也不知道。凭温度感觉的话，大概九点吧。	我也不知道。憑溫度感覺的話，大概九點吧。	さぁな。気温から判断すれば、午後9時だろう。	나도 몰라. 지금 온도를 보니 아홉 시쯤 된 것 같은데.	I don't know either. Judging by the temperature, I'd say it's about nine.						0	2.8版本奈莉德好感度剧情
+63	没有叫你是因为，觉得这样很舒服。	沒有叫你是因為，覺得這樣很舒服。	起こさなかったのは、このままでも気持ちがよかったからだ。	그냥 이대로 있는 게 편해서 안 깨웠어.	I didn't wake you because it felt really nice like this.						0	2.8版本奈莉德好感度剧情
+64	天完全暗了下来。远处依稀看得见一两盏灯，没有月亮，但星星和蝉鸣一闪一闪的。	天完全暗了下來。遠處依稀看得見一兩盞燈，沒有月亮，但星星和蟬鳴一閃一閃的。	あたりは完全に暗くなっている。遠くにはかろうじて明かりが見えた。月はないが星は閃いて、どこからか蝉の音も聞こえる。	하늘은 완전히 어두워졌다. 멀리서 희미하게 두 개의 불빛만 보였고, 달은 없었지만 별빛이 반짝이고 매미 소리가 들렸다.	Night had fully fallen. In the distance, I could make out only a couple of lights. No moon, but the stars and cicadas twinkled and buzzed softly.						0	2.8版本奈莉德好感度剧情
+65	她看着夜空，眨着眼睛。	她看著夜空，眨著眼睛。	ネリーダは夜空を見上げながら瞬きをした。	그녀는 밤하늘을 바라보며 눈을 깜빡였다.	She looked at the night sky and blinked.						0	2.8版本奈莉德好感度剧情
+66	你之前的话，我有点明白了。	你之前的話，我有點明白了。	おまえの言っていたことがわかった気がする。	네가 전에 했던 말, 이제 조금은 알 것 같아.	I think I understand what you said now.						0	2.8版本奈莉德好感度剧情
+67	——不用面对阳光，不用被找到，也不用被看见。	——不用面對陽光，不用被照到，不用被看見。	――太陽の光と向き合わなくても、人に気づかれなくても、見られていなくてもいいって。	햇빛을 보고 있을 필요도 없고, 햇볕을 쬘 필요도, 누군가에게 보일 필요도 없다는 거.	—I don't always have to face the sunlight, don't have to be illuminated, or be seen.						0	2.8版本奈莉德好感度剧情
+68	很轻松，对吧？	很輕鬆，對吧？	気分が楽になっただろう？	아주 편안하잖아, 그렇지?	It's a relief, isn't it?						0	2.8版本奈莉德好感度剧情
+69	我动了动脖子，顺势抬起头，和她一起看着天上的星星。	我動動脖子，順勢抬起頭，和她一起看著天上的星星。	私は首を動かしながら、彼女のように星を見上げた。	나는 목을 움직이다가 고개를 들어 그녀와 함께 하늘의 별을 올려다보았다.	I rolled my neck again and looked up, watching the stars with her.						0	2.8版本奈莉德好感度剧情
+70	嗯。	嗯。	ああ。	응.	Yeah.						0	2.8版本奈莉德好感度剧情
+71	……	……	……	…	...						0	2.8版本奈莉德好感度剧情
+72	playername。	playername。	playername。	playername.	playername.						0	2.8版本奈莉德好感度剧情
+73	嗯？	嗯？	うん？	응?	Yeah?						0	2.8版本奈莉德好感度剧情
+74	你说过，更喜欢看见我在黑夜里……对吗？	你說過，更喜歡看見我在黑夜裡……對嗎？	闇夜の中にいる私のほうが好きだって……言ったよな？	네가 그랬잖아, 나를 밤에 보는 게 더 좋다고… 그 말, 정말이야?	You said you like seeing me in the darkness even more... right?						0	2.8版本奈莉德好感度剧情
+75	我看向她。灰白色的头发泛着星光，暗红色的眼睛看着我，等待我去理解。	我看向她。灰白色的頭髮泛著星光，暗紅色的眼睛看著我，等待我去理解。	私は彼女に振り返った。灰色の髪は星の明かりとともにきらめいて、その下にある深紅色の瞳は私を見つめている。	나는 그녀를 바라보았다. 은빛 머리칼에 별빛이 반사되었고, 검붉은 눈동자는 나를 바라보며 내가 이해하기를 기다리고 있었다.	I looked at her. Her grayish hair shimmered in the starlight, and her dark-red eyes met mine, waiting for me to grasp the situation.						0	2.8版本奈莉德好感度剧情
+76	像世界上最珍贵的宝石那样摄人心魄。片刻后，那些光芒全都消失不见了——	像世界上最珍貴的寶石一樣攝人心魄。片刻後，那些光芒全都消失不見了——	まるで世界で最も高価な宝石のように魅力的な瞳だ。だがしばらくすると、その輝きは消えた――	그 눈동자는 마치 세상에서 가장 소중한 보석처럼 시선을 사로잡았다. 잠시 후, 그 모든 빛이 사라졌다.	Her eyes resembled the world's most precious gem, utterly captivating. Then all that light vanished...						0	2.8版本奈莉德好感度剧情
+77	她闭上了眼睛。	她閉上了眼睛。	彼女が目を閉じたからだ。	그녀가 눈을 감았기 때문이다.	She closed her eyes.						0	2.8版本奈莉德好感度剧情
+78	于是我也闭上了眼睛。	於是我也閉上了眼睛。	私も、同じように目を閉じる。	그래서 나도 눈을 감았다.	So I closed mine, too.						0	2.8版本奈莉德好感度剧情
+79	发丝混着鼻息拂过脸庞。沉睡的情欲又被唤醒，她笨拙地探寻着，我温柔地回应着。脖颈交错，一点一点消磨着理智和矜持。	髮絲混著鼻息拂過臉龐。沉睡的情慾又被喚醒，她笨拙地探尋著，我溫柔地回應著。脖頸交錯，一點一點消磨著理智和矜持。	髪の毛とともに、呼吸が私の頬をさする。さっきまで眠っていた欲望がまた目覚め、ぎこちなくなにかを探している彼女に、私は優しく応えた。唇が触れるたびに、理性と矜持が擦り減っていく。	머리카락이 숨결과 뒤섞이며 뺨을 스쳤고, 잠들어 있던 욕망이 다시 깨어났다. 그녀는 서툴게 더듬어 왔고, 나는 부드럽게 그에 응했다. 서로의 목덜미가 교차하며 점점 이성도, 자제심도 무너져 갔다.	Strands of hair and breaths brushed across my face, awakening desire from its slumber. She awkwardly explored, and I responded gently. All of it gradually eroded my restraint.						0	2.8版本奈莉德好感度剧情
+80	这实在是一个漫长的吻。	這實在是一個漫長的吻。	長い口づけだった。	정말 긴 키스였다.	It was a long kiss.						0	2.8版本奈莉德好感度剧情
+81	但也没有这一夜漫长。	但也沒有這一夜漫長。	それ以上に、あの夜は長かった。	하지만, 이 밤보다는 짧았다.	But not as long as this night.						0	2.8版本奈莉德好感度剧情

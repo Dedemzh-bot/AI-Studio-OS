@@ -1,0 +1,11 @@
+﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
+Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
+page1.1	怎么样，要不要试一试？	怎麼樣，要不要試一試？	マリアンも一局どうだ？	어때, 한 판 할래?	So, want to give the game a try?						0	3.5版本多诺巅峰对决剧情
+page1.2	如果是和亲爱的一起的话，我非常乐意~	如果是和親愛的一起的話，我非常樂意~	旦那様とご一緒できるのでしたら、喜んでお相手いたしますわ〜	자기랑 함께라면 얼마든지요~	If it's with you, darling, I'd be delighted~						0	3.5版本多诺巅峰对决剧情
+page1.3	茉莉安喜欢玩游戏吗？	茉莉安喜歡玩遊戲嗎？	マリアンは、ゲーム自体は好きなのか？	마리안은 게임하는 거 좋아해?	Do you like games, Marian?						0	3.5版本多诺巅峰对决剧情
+page1.4	喜欢倒说不上，只是我很乐意尝试和亲爱的一起体验新东西。	喜歡倒是說不上，只是我很樂意嘗試和親愛的一起體驗新東西。	特別好きというわけではありませんが、旦那様と新しいことを試せるなら大歓迎です。	좋아한다고 할 순 없지만, 그래도 자기랑 같이 새로운 걸 경험해 보는 건 얼마든지 환영이에요.	I wouldn't say I like them that much. But I do enjoy experiencing new things together with you.						0	3.5版本多诺巅峰对决剧情
+page1.5	游戏中的计算与权衡，博弈和对垒都让我觉得兴奋呢~	遊戲中的計算與權衡，博弈和對壘都讓我覺得興奮呢~	それに、ゲームの中の計算や駆け引き、攻防の読み合いは、とてもゾクゾクしてしまいますし〜	게임 속에서 진행되는 계산과 판단, 수 싸움과 대결은 너무 흥분돼요~	The calculations and trade-offs, the mind games and showdowns — they all excite me~						0	3.5版本多诺巅峰对决剧情
+page1.6	这么一说，这款游戏确实很适合茉莉安。	這麼一說，這款遊戲確實很適合茉莉安。	それなら、このゲームはマリアン向きだな。	듣고 보니 마리안에게 정말 잘 어울리는 게임이네.	When you put it that way, this game really does suit you.						0	3.5版本多诺巅峰对决剧情
+page1.7	说起来，我玩过的所有游戏，都是和亲爱的一起呢。	說起來，我玩過的所有遊戲，都是和親愛的一起呢。	そういえば私が遊んだゲームって、全部旦那様とご一緒でしたね。	그나저나, 제가 했던 게임은 전부 자기랑 함께했었네요.	Come to think of it, every game I've ever played has been with you, darling.						0	3.5版本多诺巅峰对决剧情
+page1.8	不管是在奥丽拉水上乐园比赛、还是在温泉中心的心动水弹，亲爱的都在身边呢。	不管是在奧麗拉水上樂園比賽、還是在溫泉中心的心動水彈，親愛的都在身邊。	オーレラサマーランドでのレースでも、湯けむりの郷のドキドキ水鉄砲でも、旦那様はずっとそばにいてくださいましたし。	오릴라 수상 낙원의 시합도, 온천 센터에서 했던 설렘의 물폭탄도, 자기가 항상 곁에 있었잖아요.	Matches at Orilla Water Park, Splash Roulette at the Hot Spring Retreat, you were always right there with me.						0	3.5版本多诺巅峰对决剧情
+page1.9	呵呵~这次，也是和亲爱的一起呢。	呵呵~這次，也是和親愛的一起。	ふふっ……今回も、こうして旦那様とご一緒ですし。	후훗~ 이번에도 자기가 함께하네요.	Hehe~ And this time too.						0	3.5版本多诺巅峰对决剧情
