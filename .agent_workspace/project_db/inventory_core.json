@@ -1,0 +1,26 @@
+[
+  {
+    "expand_item": "EXPAND_ITEM_001",
+    "base_currency": "GOLD",
+    "premium_currency": "GEM",
+    "currency_name": "金币"
+  },
+  {
+    "item_id": "EMPTY",
+    "quantity": 0,
+    "tags": [],
+    "expire_time": 0,
+    "item_definition_id": "NONE",
+    "name": "",
+    "icon": "",
+    "quality": 1,
+    "type": "MATERIAL",
+    "sellable": true,
+    "usable": false,
+    "batch_usable": false,
+    "use_condition": "",
+    "sell_currency_type": "BASE_CURRENCY",
+    "sell_price": 0,
+    "use_effect_id": ""
+  }
+]

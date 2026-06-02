@@ -3,132 +3,192 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "[活动大厅] 该系统用于管理游戏内所有限时/周期性活动的统一入口框架，负责活动页签的展示、隐藏与跳转调度，不承载具体活动玩法逻辑。采用服务器时间作为活动生命周期的总开关，玩家等级/主线进度作为次级解锁门槛的混合驱动机制。",
+      "system_summary": "[角色外观自定义系统] 该系统用于为玩家提供角色外观的深度自定义能力，包含时装更换与分区自由染色两大核心功能，所有修改仅作用于外观，不涉及任何战斗属性变化。",
       "field_dictionary": {
-        "activity_config": "【对象数组】活动配置表，由运营后台维护的JSON格式配置文件，定义所有活动的元数据。每个元素包含activity_id、activity_name、start_time、end_time、unlock_level、unlock_chapter、sort_weight、has_reddot、activity_type、entry_url、icon_url、background_url等字段。",
-        "activity_id": "【字符串】活动唯一标识符，如'daily_signin'、'limited_instance'。取值范围：由运营后台定义的合法活动ID。默认值：无。",
-        "activity_name": "【字符串】活动显示名称，如'日签到'、'限时副本'。取值范围：任意字符串。默认值：无。",
-        "start_time": "【整数】活动开始时间，Unix时间戳格式（秒级）。取值范围：0到2147483647。默认值：0（表示未设置）。",
-        "end_time": "【整数】活动结束时间，Unix时间戳格式（秒级）。取值范围：0到2147483647。默认值：0（表示未设置）。",
-        "unlock_level": "【整数】解锁所需玩家等级，0表示无条件。取值范围：0到玩家等级上限。默认值：0。",
-        "unlock_chapter": "【整数】解锁所需主线章节，0表示无条件。取值范围：0到主线章节上限。默认值：0。",
-        "sort_weight": "【整数】排序权重，值越大越靠前。取值范围：0到10000。默认值：0。",
-        "has_reddot": "【布尔】是否支持红点提示。取值范围：true/false。默认值：false。",
-        "activity_type": "【字符串】活动类型标识符，如'daily_signin'、'limited_instance'、'exchange_shop'。取值范围：由运营后台定义的活动类型枚举。默认值：无。",
-        "entry_url": "【字符串】活动跳转路径，如'activity://daily_signin'。取值范围：合法的URL协议字符串。默认值：无。",
-        "icon_url": "【字符串】活动页签图标资源路径。取值范围：合法的资源路径字符串。默认值：无。",
-        "background_url": "【字符串】活动大厅背景插画资源路径。取值范围：合法的资源路径字符串。默认值：无。",
-        "current_status": "【字符串】活动当前状态，枚举值：'inactive'（未激活）、'active'（可参与）、'ended'（已结束）。取值范围：仅限上述三个枚举值。默认值：'inactive'。",
-        "new_status": "【字符串】活动新状态，用于服务器推送状态变更。枚举值同current_status。取值范围：仅限上述三个枚举值。默认值：无。",
-        "player_level": "【整数】玩家当前等级。取值范围：1到玩家等级上限。默认值：1。",
-        "player_main_story_chapter": "【整数】玩家当前主线章节进度。取值范围：0到主线章节上限。默认值：0。",
-        "activity_tab_list": "【对象数组】活动页签列表，每个元素包含activity_id、activity_name、current_status、has_reddot、icon_url等字段。由客户端根据活动配置表动态生成。",
-        "reddot_status_map": "【对象】红点状态映射表，键为activity_id（字符串），值为布尔值（true表示有红点）。由红点系统维护。",
-        "reddot_update": "【事件】红点系统发出的更新事件，携带参数activity_id和is_active。由红点系统触发，活动大厅监听。",
-        "signin_unlock_level": "【整数】日签到活动解锁所需玩家等级。取值范围：1到玩家等级上限。默认值：1。",
-        "month_max_days": "【整数】每月最大签到天数（即当月天数）。取值范围：28到31。默认值：30。",
-        "err_already_signed": "【整数】错误码，表示玩家当日已签到。固定值：1001。",
-        "err_month_full": "【整数】错误码，表示玩家当月签到天数已达上限。固定值：1002。",
-        "err_already_retroactive": "【整数】错误码，表示玩家已补签过该日期。固定值：1003。",
-        "consecutive_7_days": "【整数】连续签到7天里程碑阈值。固定值：7。",
-        "consecutive_14_days": "【整数】连续签到14天里程碑阈值。固定值：14。",
-        "consecutive_21_days": "【整数】连续签到21天里程碑阈值。固定值：21。",
-        "consecutive_full_month": "【整数】连续签到满月里程碑阈值。固定值：month_max_days。",
-        "max_missed_days_for_retroactive": "【整数】允许补签的最大漏签天数。取值范围：1到month_max_days。默认值：3。",
-        "retroactive_cost_per_day": "【整数】每日补签所需付费货币数量。取值范围：1到1000。默认值：50。",
-        "retroactive_cost_base": "【整数】补签基础价格（第1天）。取值范围：1到1000。默认值：50。",
-        "retroactive_cost_max": "【整数】补签价格上限。取值范围：1到10000。默认值：500。",
-        "accelerate_days": "【整数】签到加速一次领取的未来天数。取值范围：1到month_max_days。默认值：7。",
-        "accelerate_fixed_cost": "【整数】签到加速固定价格。取值范围：1到10000。默认值：300。",
-        "max_retry_count": "【整数】签到请求最大重试次数。取值范围：1到10。默认值：3。",
-        "gold_coin_amount": "【整数】每日签到金币奖励数量。取值范围：1到10000。默认值：100。",
-        "monthly_gacha_ticket_fragments_min": "【整数】每月签到产出抽卡券碎片下限。取值范围：1到100。默认值：10。",
-        "monthly_gacha_ticket_fragments_max": "【整数】每月签到产出抽卡券碎片上限。取值范围：1到100。默认值：30。",
-        "reddot_timeout_duration": "【整数】红点超时自动清除时间（秒）。取值范围：60到3600。默认值：300。",
-        "max_tab_count": "【整数】活动大厅同时展示的最大页签数量。取值范围：5到20。默认值：10。",
-        "player_signin_data.current_month": "【整数】玩家签到数据记录的当前月份（1-12）。取值范围：1到12。默认值：当前服务器月份。",
-        "player_signin_data.signed_days_bitmask": "【整数】签到天数的位掩码，第n位为1表示第n天已签到。取值范围：0到(2^month_max_days - 1)。默认值：0。",
-        "player_signin_data.claimed_reward_tiers": "【整数】已领取的连续签到里程碑位掩码，第0位为1表示7天已领，第1位为1表示14天已领，第2位为1表示21天已领，第3位为1表示满月已领。取值范围：0到15。默认值：0。",
-        "consecutive_signin_days": "【整数】玩家当前连续签到天数。取值范围：0到month_max_days。默认值：0。",
-        "send_mail": "【接口】邮件系统发送邮件接口，参数：recipient_id（玩家ID）、title（邮件标题）、content（邮件内容）、attachments（奖励附件列表）。",
-        "check_bag_space": "【接口】背包系统检查空间接口，参数：player_id（玩家ID）、reward_list（奖励列表）。返回值：布尔值，true表示空间充足。"
+        "current_dye_target_character_id": "【整数】当前染色操作的目标角色ID，取值范围为正整数，默认值为0（表示未选择目标角色）。",
+        "current_dye_target_outfit_id": "【整数】当前染色操作的目标时装ID，取值范围为正整数，默认值为0（表示未选择目标时装）。",
+        "dye_region_hsv_data": "【JSON字符串】当前染色界面中，每个染色分区的HSV值数据，格式为{\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}，默认值为空JSON对象{}。",
+        "current_dye_preset_data": "【JSON字符串】当前正在编辑的染色方案数据，包含所有分区的HSV值，格式同dye_region_hsv_data，默认值为空JSON对象{}。",
+        "dye_preset_slot_data": "【JSON字符串】所有预设槽位的染色方案数据，格式为{\"slot_index\": {\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}}，默认值为空JSON对象{}。",
+        "outfit_unlocked_region_count": "【整数】当前穿戴时装已解锁的染色分区数量，取值范围为0到dye_region_count，默认值为default_open_region_count。",
+        "outfit_dye_data": "【JSON字符串】角色当前穿戴时装的染色方案数据（已应用生效），格式为{\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}，默认值为空JSON对象{}。",
+        "is_dyeable": "【布尔】时装道具是否支持染色功能，true表示可染色，false表示不可染色，默认值为false。",
+        "dye_region_count": "【整数】时装道具的染色分区数量（由美术蒙版定义），取值范围为非负整数，默认值为0。",
+        "max_preset_slots": "【整数】每个时装可保存的最大染色方案预设槽位数，取值范围为正整数，默认值为3。",
+        "dye_cost_per_region": "【整数】每次应用染色时，每个调整过的分区消耗的基础染色材料数量，取值范围为正整数，默认值为1。",
+        "dye_cost_per_region_advanced": "【整数】每次应用染色时，每个调整过的分区消耗的高级染色材料数量（用于特殊染色模式），取值范围为非负整数，默认值为0。",
+        "default_open_region_count": "【整数】时装默认开放的染色分区数量（无需解锁），取值范围为非负整数且小于等于dye_region_count，默认值为2。",
+        "regions_per_voucher": "【整数】每张分区解锁券可解锁的染色分区数量，取值范围为正整数，默认值为1。",
+        "preset_switch_animation_duration": "【浮点数】切换染色方案预设时的动画播放时长（秒），取值范围为正浮点数，默认值为0.5。",
+        "preset_name_max_length": "【整数】染色方案预设名称的最大字符长度，取值范围为正整数，默认值为20。",
+        "daily_dye_material_reward": "【整数】每日活跃度宝箱可开出的基础染色材料数量，取值范围为非负整数，默认值为1。",
+        "affection_level_interval": "【整数】角色好感度等级奖励中，每多少级赠送一次染色材料，取值范围为正整数，默认值为5。",
+        "affection_dye_material_reward": "【整数】角色好感度等级奖励中，每次赠送的基础染色材料数量，取值范围为非负整数，默认值为5。",
+        "event_currency_to_dye_material_ratio": "【浮点数】活动货币兑换基础染色材料的比例（1活动货币可兑换的材料数量），取值范围为正浮点数，默认值为1.0。",
+        "dye_material_pack_size": "【整数】商城出售的染色材料包中包含的基础染色材料数量，取值范围为正整数，默认值为10。",
+        "dye_material_pack_price": "【整数】商城出售的染色材料包的售价（付费货币数量），取值范围为正整数，默认值为60。",
+        "preset_slot_extension_count": "【整数】通过付费可额外扩展的染色方案预设槽位数，取值范围为非负整数，默认值为2。",
+        "decompose_dye_material_ratio": "【浮点数】分解重复时装时，基于时装价值计算回收染色材料的比例系数，取值范围为0到1，默认值为0.1。",
+        "decompose_dye_material_reward": "【整数】分解一件重复时装获得的基础染色材料固定数量，取值范围为非负整数，默认值为5。",
+        "dye_material_stack_limit": "【整数】单个染色材料在背包中的最大堆叠数量，取值范围为正整数，默认值为999。",
+        "reveal_animation_duration": "【浮点数】染色应用成功后“焕新展示”动画的播放时长（秒），取值范围为正浮点数，默认值为2.5。",
+        "preset_data_size": "【整数】单个染色方案预设数据的最大存储大小（字节），取值范围为正整数，默认值为1024。",
+        "use_effect_id": "【字符串】道具的使用效果ID，用于关联道具使用时的逻辑处理，取值范围为预定义的EFFECT_枚举值，默认值为空字符串。"
       },
       "relations_and_enums": {
-        "跨表外键调用关系": {
-          "activity_config.activity_id": "作为主键，被activity_tab_list、reddot_status_map、红点系统、活动子系统引用",
-          "player_level": "来自玩家等级系统，用于活动解锁条件判定",
-          "player_main_story_chapter": "来自主线进度系统，用于活动解锁条件判定",
-          "send_mail": "调用邮件系统接口，用于奖励补发",
-          "check_bag_space": "调用背包系统接口，用于奖励发放前空间检查"
+        "跨表外键调用": {
+          "dye_system.current_dye_target_character_id": "引用 character_data 表中的角色ID，用于定位当前染色操作的目标角色。",
+          "dye_system.current_dye_target_outfit_id": "引用 item_definition 表中的时装道具ID，用于定位当前染色操作的目标时装。",
+          "dye_system.outfit_dye_data": "与 character_data.outfit_dye_data 字段数据格式一致，用于同步当前穿戴时装的染色方案。",
+          "item_definition.use_effect_id": "引用道具使用效果枚举，如 EFFECT_DYE_MATERIAL 表示染色材料，EFFECT_UNLOCK_SKIN 表示皮肤解锁。"
         },
         "状态码枚举": {
-          "current_status/new_status": {
-            "inactive": "未激活（时间未到或条件未满足）",
-            "active": "可参与（时间窗口内且条件满足）",
-            "ended": "已结束（时间已过）"
+          "use_effect_id": {
+            "EFFECT_DYE_MATERIAL": "染色材料使用效果，用于染色操作消耗。",
+            "EFFECT_EXP_POTION": "经验药水使用效果。",
+            "EFFECT_GIFT_BOX": "礼物盒使用效果。",
+            "EFFECT_UNLOCK_SKIN": "皮肤解锁使用效果。"
           },
-          "错误码": {
-            "err_already_signed": 1001,
-            "err_month_full": 1002,
-            "err_already_retroactive": 1003
+          "染色分区状态": {
+            "locked": "染色分区未解锁，不可调整颜色。",
+            "unlocked": "染色分区已解锁，可自由调整颜色。"
+          },
+          "染色方案预设槽位状态": {
+            "empty": "预设槽位为空，可保存新方案。",
+            "occupied": "预设槽位已保存方案，可加载或覆盖。"
           }
         }
       },
-      "implementation_notes": "1. 活动配置表需由运营后台维护，客户端仅读取不修改。2. 活动大厅每次打开时重新读取配置表并刷新页签列表，同时监听服务器推送的状态变更通知。3. 红点系统需实现逐级上报机制，活动大厅监听reddot_update事件。4. 日签到数据按月重置，重置前需将未领取的连续签到奖励通过邮件补发。5. 活动页签数量上限为max_tab_count，超出部分折叠至'更多'下拉菜单。6. 资源加载采用预加载策略，失败时使用默认占位图。7. 所有时间戳使用Unix秒级格式，避免时区问题。8. 补签价格递增曲线需由数值策划设计，确保付费意愿与压力平衡。"
+      "implementation_notes": "【执行建议】1. 染色界面采用半屏模型展示+半屏调色面板布局，模型实时响应HSV调整，确保零延迟预览。2. 应用染色时需校验背包中染色材料数量是否充足，不足时应用按钮置灰并弹出快捷购买窗口。3. 每个时装独立存储染色方案数据，切换时装时自动加载对应时装的染色数据。4. 预设槽位数据需在本地缓存并定期同步至服务器，防止网络断线导致数据丢失。5. 染色操作不可逆，但玩家可随时重新染色覆盖，无需额外确认弹窗。6. 分解重复时装时，系统优先使用 decompose_dye_material_reward 固定值作为回收数量，若该值为0则回退使用 decompose_dye_material_ratio 比例计算。"
     },
     "data": {
-      "activity_config": [
-        {
-          "activity_id": "daily_signin",
-          "activity_name": "日签到",
-          "start_time": 1700000000,
-          "end_time": 1730000000,
-          "unlock_level": 5,
-          "unlock_chapter": 0,
-          "sort_weight": 100,
-          "has_reddot": true,
-          "activity_type": "daily_signin",
-          "entry_url": "activity://daily_signin",
-          "icon_url": "ui/icon/activity_daily_signin.png",
-          "background_url": "ui/background/activity_hall_default.jpg"
+      "dye_system": {
+        "continuous_formulas": {
+          "current_dye_target_character_id": {
+            "base": 0,
+            "growth": 0,
+            "type": "linear"
+          },
+          "current_dye_target_outfit_id": {
+            "base": 0,
+            "growth": 0,
+            "type": "linear"
+          },
+          "dye_region_hsv_data": {
+            "base": "{}",
+            "growth": 0,
+            "type": "linear"
+          },
+          "current_dye_preset_data": {
+            "base": "{}",
+            "growth": 0,
+            "type": "linear"
+          },
+          "dye_preset_slot_data": {
+            "base": "{}",
+            "growth": 0,
+            "type": "linear"
+          },
+          "outfit_unlocked_region_count": {
+            "base": 2,
+            "growth": 0,
+            "type": "linear"
+          },
+          "outfit_dye_data": {
+            "base": "{}",
+            "growth": 0,
+            "type": "linear"
+          }
         },
-        {
-          "activity_id": "limited_instance",
-          "activity_name": "限时副本",
-          "start_time": 1701000000,
-          "end_time": 1705000000,
-          "unlock_level": 10,
-          "unlock_chapter": 2,
-          "sort_weight": 80,
-          "has_reddot": false,
-          "activity_type": "limited_instance",
-          "entry_url": "activity://limited_instance",
-          "icon_url": "ui/icon/activity_limited_instance.png",
-          "background_url": "ui/background/activity_hall_event.jpg"
+        "discrete_milestones": {
+          "is_dyeable": {
+            "0": false
+          },
+          "dye_region_count": {
+            "0": 0
+          },
+          "max_preset_slots": {
+            "0": 3
+          },
+          "dye_cost_per_region": {
+            "0": 1
+          },
+          "dye_cost_per_region_advanced": {
+            "0": 0
+          },
+          "default_open_region_count": {
+            "0": 2
+          },
+          "regions_per_voucher": {
+            "0": 1
+          },
+          "preset_switch_animation_duration": {
+            "0": 0.5
+          },
+          "preset_name_max_length": {
+            "0": 20
+          },
+          "daily_dye_material_reward": {
+            "0": 1
+          },
+          "affection_level_interval": {
+            "0": 5
+          },
+          "affection_dye_material_reward": {
+            "0": 5
+          },
+          "event_currency_to_dye_material_ratio": {
+            "0": 1.0
+          },
+          "dye_material_pack_size": {
+            "0": 10
+          },
+          "dye_material_pack_price": {
+            "0": 60
+          },
+          "preset_slot_extension_count": {
+            "0": 2
+          },
+          "decompose_dye_material_ratio": {
+            "0": 0.1
+          },
+          "decompose_dye_material_reward": {
+            "0": 5
+          },
+          "dye_material_stack_limit": {
+            "0": 999
+          },
+          "reveal_animation_duration": {
+            "0": 2.5
+          },
+          "preset_data_size": {
+            "0": 1024
+          }
         }
-      ],
-      "global_params": {
-        "max_tab_count": 10,
-        "reddot_timeout_duration": 300,
-        "max_retry_count": 3,
-        "signin_unlock_level": 5,
-        "month_max_days": 30,
-        "err_already_signed": 1001,
-        "err_month_full": 1002,
-        "err_already_retroactive": 1003,
-        "consecutive_7_days": 7,
-        "consecutive_14_days": 14,
-        "consecutive_21_days": 21,
-        "consecutive_full_month": 30,
-        "max_missed_days_for_retroactive": 3,
-        "retroactive_cost_per_day": 50,
-        "retroactive_cost_base": 50,
-        "retroactive_cost_max": 500,
-        "accelerate_days": 7,
-        "accelerate_fixed_cost": 300,
-        "gold_coin_amount": 100,
-        "monthly_gacha_ticket_fragments_min": 10,
-        "monthly_gacha_ticket_fragments_max": 30
+      },
+      "item_definition": {
+        "continuous_formulas": {},
+        "discrete_milestones": {
+          "use_effect_id": {
+            "0": ""
+          },
+          "dye_region_count": {
+            "0": 0
+          },
+          "is_dyeable": {
+            "0": false
+          }
+        }
+      },
+      "character_data": {
+        "continuous_formulas": {
+          "outfit_dye_data": {
+            "base": "{}",
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {}
       }
     }
   }

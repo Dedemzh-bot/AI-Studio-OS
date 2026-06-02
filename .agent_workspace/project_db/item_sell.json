@@ -1,0 +1,6 @@
+[
+  {
+    "batch_operation_limit": 99,
+    "error_code_network_failure": 1003
+  }
+]

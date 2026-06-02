@@ -1,0 +1,124 @@
+{
+  "system_summary": "[背包系统] 该系统用于管理玩家所有道具的存储、使用、出售、容量及过期处理，是全局共享的数据容器，所有系统的道具增减均通过背包接口完成。",
+  "field_dictionary": {
+    "player_id": "【整数】玩家唯一标识，当前定义为字符串但建议统一为整数ID以兼容后续系统升级，取值范围为正整数，默认值无",
+    "inventory_capacity_max": "【整数】背包容量上限，初始值为[INITIAL_CAPACITY]，可通过扩容卡增加，取值范围正整数，默认值[INITIAL_CAPACITY]",
+    "item_count": "【整数】当前背包中道具实例总数，取值范围0到inventory_capacity_max，默认值0",
+    "item_id": "【字符串】道具实例唯一标识，不可重复，格式为[类型]_[编号]（如ASCENSION_STONE_001），默认值无",
+    "quantity": "【整数】道具实例的持有数量，取值范围0到9999，默认值1",
+    "tags": "【字符串数组】道具实例携带的标签列表，用于筛选和条件判断，默认值为空数组",
+    "expire_time": "【整数】道具过期时间戳（Unix秒），0表示永久有效，默认值0",
+    "item_definition_id": "【字符串】关联item_definition表的道具模板ID，外键引用，默认值无",
+    "name": "【字符串】道具名称，从item_definition表读取，默认值无",
+    "icon": "【字符串】道具图标资源路径，从item_definition表读取，默认值无",
+    "quality": "【整数】道具品质等级，取值范围1-5（1=普通，5=传说），默认值1",
+    "type": "【字符串】道具一级分类，取值范围['MATERIAL','EVENT_ITEM','QUEST_ITEM','GIFT','SKIN','CONSUMABLE']，默认值无",
+    "sellable": "【布尔】是否可出售，默认true",
+    "usable": "【布尔】是否可使用，默认false",
+    "batch_usable": "【布尔】是否支持批量使用，默认false",
+    "use_condition": "【字符串】使用条件JSON字符串，格式如'{\"min_level\":10}'，默认值为空字符串",
+    "sell_currency_type": "【字符串】出售获得的货币类型，取值范围['BASE_CURRENCY','EVENT_TOKEN']，默认值'BASE_CURRENCY'",
+    "sell_price": "【整数】单个道具出售价格，取值范围0-999999，默认值0",
+    "use_effect_id": "【字符串】使用效果配置ID，关联use_effect表，默认值为空字符串",
+    "initial_capacity": "【整数】玩家初始背包容量，全局常量，默认值100",
+    "expansion_card_capacity_increase": "【整数】每张扩容卡增加的容量值，全局常量，默认值50",
+    "expansion_card_item_id": "【字符串】扩容卡道具的item_definition_id，默认值无",
+    "expansion_card_quantity": "【整数】使用扩容卡时消耗的数量，默认值1",
+    "mail_retention_days": "【整数】溢出邮件保留天数，全局常量，取值范围1-30，默认值7",
+    "mail_id": "【字符串】邮件唯一标识，自动生成，默认值无",
+    "mail_title": "【字符串】邮件标题，默认值'背包已满，道具暂存'",
+    "mail_content": "【字符串】邮件正文，默认值'您的背包已满，以下道具已暂存至邮件，请及时领取'",
+    "health_recover_amount": "【整数】使用体力恢复道具时恢复的体力值，取值范围1-999，默认值0",
+    "batch_operation_limit": "【整数】单次批量操作上限，全局常量，取值范围1-999，默认值99",
+    "error_code_network_failure": "【字符串】网络失败错误码，固定值'ERROR_NETWORK_TIMEOUT'",
+    "base_currency": "【整数】玩家基础货币余额，取值范围0-999999999，默认值0",
+    "event_token": "【整数】玩家活动代币余额，取值范围0-999999，默认值0",
+    "expiry_warning_days": "【整数】道具过期前提醒天数，全局常量，取值范围1-7，默认值3",
+    "expired_item_list": "【字符串数组】已过期道具的item_id列表，用于清理和通知，默认值为空数组",
+    "category_tabs": "【字符串数组】背包界面一级分类标签列表，默认值['全部','养成材料','活动道具','任务道具','礼物','皮肤','消耗品']",
+    "subcategory_filter": "【字符串】当前选中的二级分类筛选条件，默认值为空字符串（表示全部）",
+    "search_keyword": "【字符串】搜索关键词，默认值为空字符串",
+    "sort_order": "【字符串】排序规则，取值范围['quality_desc','quantity_desc','name_asc','expire_asc']，默认值'quality_desc'",
+    "view_mode": "【字符串】视图模式，取值范围['grid','list']，默认值'grid'",
+    "item_card_info": "【对象】道具卡片显示信息，包含name、icon、quantity、quality、expire_time等字段，从item_definition和inventory表联合读取",
+    "mail_system": "【字符串】邮件系统模块标识，固定值'mail_system'",
+    "shop_system": "【字符串】商店系统模块标识，固定值'shop_system'",
+    "enhancement_system": "【字符串】强化系统模块标识，固定值'enhancement_system'",
+    "affinity_system": "【字符串】好感度系统模块标识，固定值'affinity_system'",
+    "battle_reward_system": "【字符串】战斗结算系统模块标识，固定值'battle_reward_system'",
+    "selection_filter": "【对象】外部系统调用背包时的筛选条件，包含type、tags、quality等字段，默认值为空对象",
+    "add_item": "【函数】增加道具接口，参数(player_id, item_id, quantity, tags[])，返回操作结果对象",
+    "remove_item": "【函数】扣除道具接口，参数(player_id, item_id, quantity)，返回操作结果对象",
+    "get_item_count": "【函数】获取道具数量接口，参数(player_id, item_id)，返回整数",
+    "get_inventory": "【函数】获取背包列表接口，参数(player_id, filter[])，返回道具实例数组",
+    "check_capacity": "【函数】检查背包容量接口，参数(player_id)，返回容量状态对象",
+    "batch_use_items": "【函数】批量使用道具接口，参数(player_id, item_id, quantity)，返回使用结果数组",
+    "batch_sell_items": "【函数】批量出售道具接口，参数(player_id, item_ids[])，返回出售结果对象",
+    "add_tag": "【函数】添加标签接口，参数(player_id, item_id, tag)，返回布尔值",
+    "remove_tag": "【函数】移除标签接口，参数(player_id, item_id, tag)，返回布尔值",
+    "get_tags": "【函数】获取标签列表接口，参数(player_id, item_id)，返回字符串数组",
+    "check_expired_items": "【函数】检查过期道具接口，参数(player_id)，返回过期道具列表",
+    "get_expiring_items": "【函数】获取即将过期道具接口，参数(player_id, days)，返回道具列表"
+  },
+  "relations_and_enums": {
+    "cross_table_references": {
+      "inventory.item_definition_id": "外键引用item_definition.id，用于获取道具模板的静态属性（名称、图标、品质、类型、标签、sellable、usable等）",
+      "inventory.item_id": "主键，被tag_system.item_id、overflow_mail.item_id、item_use.item_id、item_sell.item_id、expiry_management.item_id引用",
+      "inventory.player_id": "被tag_system.player_id、overflow_mail.player_id、item_use.player_id、item_sell.player_id、expiry_management.player_id引用",
+      "overflow_mail.mail_id": "主键，被mail_system引用",
+      "item_definition.id": "主键，被inventory.item_definition_id引用"
+    },
+    "enum_values": {
+      "quality": {
+        "1": "普通（白色）",
+        "2": "稀有（绿色）",
+        "3": "精良（蓝色）",
+        "4": "史诗（紫色）",
+        "5": "传说（金色）"
+      },
+      "type": {
+        "MATERIAL": "养成材料",
+        "EVENT_ITEM": "活动道具",
+        "QUEST_ITEM": "任务道具",
+        "GIFT": "礼物",
+        "SKIN": "皮肤",
+        "CONSUMABLE": "消耗品"
+      },
+      "sell_currency_type": {
+        "BASE_CURRENCY": "基础货币",
+        "EVENT_TOKEN": "活动代币"
+      },
+      "sort_order": {
+        "quality_desc": "品质降序",
+        "quantity_desc": "数量降序",
+        "name_asc": "名称升序",
+        "expire_asc": "过期时间升序"
+      },
+      "view_mode": {
+        "grid": "网格视图",
+        "list": "列表视图"
+      },
+      "error_codes": {
+        "ERROR_INVENTORY_FULL": "背包已满",
+        "ERROR_ITEM_NOT_FOUND": "道具不存在",
+        "ERROR_ITEM_NOT_ENOUGH": "道具数量不足",
+        "ERROR_ITEM_NOT_USABLE": "道具不可使用",
+        "ERROR_ITEM_NOT_SELLABLE": "道具不可出售",
+        "ERROR_USE_CONDITION_NOT_MET": "使用条件不满足",
+        "ERROR_NETWORK_TIMEOUT": "网络超时",
+        "ERROR_INTERNAL_SERVER": "服务器内部错误"
+      },
+      "tag_source": {
+        "DEFINITION": "基础标签（来自item_definition）",
+        "DYNAMIC": "动态标签（由活动系统追加）"
+      },
+      "tag_type": {
+        "MATERIAL_ASCENSION": "角色突破材料",
+        "EVENT_EXCHANGE": "活动兑换",
+        "GIFT_PREFERRED": "偏好礼物",
+        "EVENT_BOOSTED": "活动加成"
+      }
+    }
+  },
+  "implementation_notes": "【执行建议】1. 所有道具操作必须通过背包接口完成，禁止其他系统直接修改背包数据。2. 批量操作（使用/出售）需实现原子化事务，单次失败不影响已成功部分。3. 道具过期检查在每日首次打开背包时触发，需与邮件系统联动发送通知。4. 背包容量满时新道具自动进入溢出邮件，邮件保留[MAIL_RETENTION_DAYS]天后自动删除。5. 道具定义变更（如新增标签）需通过事件驱动同步更新背包中已有道具的标签字段。6. UI界面禁止调用角色模型或动画，保持纯功能型设计。7. 扩容卡使用后容量立即生效且不可逆，需在二次确认弹窗中明确提示。8. 所有操作日志需记录item_id、quantity_before、quantity_after、operation_type、timestamp、player_id。9. 建议将player_id统一为整数类型以兼容后续系统升级，当前字符串实现需在接口层做类型转换适配。"
+}

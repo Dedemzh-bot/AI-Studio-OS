@@ -1,0 +1,73 @@
+[
+  [
+    {
+      "item_id": "ASCENSION_STONE_001",
+      "type": "material",
+      "tags": [
+        "tag_ascension"
+      ],
+      "sellable": true,
+      "max_stack": 999,
+      "sell_price": 50
+    },
+    {
+      "item_id": "EVENT_TOKEN_001",
+      "type": "material",
+      "tags": [
+        "tag_event"
+      ],
+      "sellable": true,
+      "max_stack": 999,
+      "sell_price": 10
+    },
+    {
+      "item_id": "EXP_POTION_001",
+      "type": "consumable",
+      "tags": [
+        "tag_exp"
+      ],
+      "sellable": false,
+      "max_stack": 999,
+      "sell_price": 0
+    },
+    {
+      "item_id": "GIFT_BOX_001",
+      "type": "gift",
+      "tags": [
+        "tag_gift_preference_common"
+      ],
+      "sellable": true,
+      "max_stack": 999,
+      "sell_price": 100
+    },
+    {
+      "item_id": "QUEST_ITEM_001",
+      "type": "quest_item",
+      "tags": [
+        "tag_quest"
+      ],
+      "sellable": false,
+      "max_stack": 999,
+      "sell_price": 0
+    },
+    {
+      "item_id": "SKIN_001",
+      "type": "skin",
+      "tags": [
+        "tag_skin"
+      ],
+      "sellable": false,
+      "max_stack": 1,
+      "sell_price": 0
+    }
+  ],
+  {
+    "sell_interface_active_tab_id": "TAB_MATERIAL"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {}
+]

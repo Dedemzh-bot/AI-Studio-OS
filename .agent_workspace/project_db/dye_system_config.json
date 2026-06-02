@@ -1,0 +1,14 @@
+[
+  {
+    "daily_dye_material_reward": 3,
+    "affection_level_interval": 10,
+    "affection_dye_material_reward": 5,
+    "event_currency_to_dye_material_ratio": 10,
+    "dye_material_pack_size": 50,
+    "dye_material_pack_price": 300,
+    "preset_slot_extension_count": 5,
+    "decompose_dye_material_ratio": 0.1,
+    "decompose_dye_material_reward": 10,
+    "dye_material_stack_limit": 999
+  }
+]

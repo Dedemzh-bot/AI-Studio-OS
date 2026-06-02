@@ -1,0 +1,19 @@
+[
+  {
+    "mail_system": "overflow_mail",
+    "shop_system": "add_item/remove_item",
+    "enhancement_system": "remove_item",
+    "affinity_system": "remove_item",
+    "battle_reward_system": "add_item",
+    "selection_filter": {
+      "allow_types": [
+        "MATERIAL",
+        "GIFT",
+        "CONSUMABLE"
+      ],
+      "allow_tags": [],
+      "min_quality": 1,
+      "max_quality": 5
+    }
+  }
+]

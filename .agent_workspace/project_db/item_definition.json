@@ -1,0 +1,158 @@
+[
+  [
+    "ASCENSION_STONE_001",
+    "EVENT_TOKEN_001",
+    "EXP_POTION_001",
+    "GIFT_BOX_001",
+    "QUEST_ITEM_001",
+    "SKIN_001"
+  ],
+  [
+    "material",
+    "material",
+    "consumable",
+    "gift",
+    "quest_item",
+    "skin"
+  ],
+  [
+    [
+      "tag_ascension"
+    ],
+    [
+      "tag_event"
+    ],
+    [
+      "tag_exp"
+    ],
+    [
+      "tag_gift_preference_common"
+    ],
+    [
+      "tag_quest"
+    ],
+    [
+      "tag_skin"
+    ]
+  ],
+  [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false
+  ],
+  [
+    999,
+    999,
+    999,
+    999,
+    999,
+    1
+  ],
+  [
+    50,
+    10,
+    0,
+    100,
+    0,
+    0
+  ],
+  {
+    "name": "角色突破石",
+    "icon": "icon_ascension_stone",
+    "quality": 3,
+    "type": "MATERIAL",
+    "tags": [
+      "MATERIAL_ASCENSION"
+    ],
+    "sellable": true,
+    "usable": false,
+    "batch_usable": false,
+    "use_condition": "",
+    "sell_currency_type": "BASE_CURRENCY",
+    "sell_price": 50,
+    "use_effect_id": ""
+  },
+  {
+    "name": "夏日活动代币",
+    "icon": "icon_event_token",
+    "quality": 2,
+    "type": "EVENT",
+    "tags": [
+      "EVENT_EXCHANGE"
+    ],
+    "sellable": false,
+    "usable": false,
+    "batch_usable": false,
+    "use_condition": "",
+    "sell_currency_type": "EVENT_TOKEN",
+    "sell_price": 0,
+    "use_effect_id": ""
+  },
+  {
+    "name": "经验药水",
+    "icon": "icon_exp_potion",
+    "quality": 2,
+    "type": "CONSUMABLE",
+    "tags": [
+      "CONSUMABLE_EXP"
+    ],
+    "sellable": true,
+    "usable": true,
+    "batch_usable": true,
+    "use_condition": "{\"min_level\": 1}",
+    "sell_currency_type": "BASE_CURRENCY",
+    "sell_price": 20,
+    "use_effect_id": "EFFECT_EXP_POTION"
+  },
+  {
+    "name": "礼物盒",
+    "icon": "icon_gift_box",
+    "quality": 4,
+    "type": "GIFT",
+    "tags": [
+      "GIFT_PREFERRED"
+    ],
+    "sellable": false,
+    "usable": true,
+    "batch_usable": false,
+    "use_condition": "",
+    "sell_currency_type": "BASE_CURRENCY",
+    "sell_price": 0,
+    "use_effect_id": "EFFECT_GIFT_BOX"
+  },
+  {
+    "name": "任务信物",
+    "icon": "icon_quest_item",
+    "quality": 1,
+    "type": "QUEST",
+    "tags": [
+      "QUEST_SPECIAL"
+    ],
+    "sellable": false,
+    "usable": false,
+    "batch_usable": false,
+    "use_condition": "",
+    "sell_currency_type": "BASE_CURRENCY",
+    "sell_price": 0,
+    "use_effect_id": ""
+  },
+  {
+    "name": "夏日泳装皮肤",
+    "icon": "icon_skin_summer",
+    "quality": 5,
+    "type": "SKIN",
+    "tags": [
+      "SKIN_EXCLUSIVE"
+    ],
+    "sellable": false,
+    "usable": true,
+    "batch_usable": false,
+    "use_condition": "{\"has_character\": \"CHARACTER_001\"}",
+    "sell_currency_type": "BASE_CURRENCY",
+    "sell_price": 0,
+    "use_effect_id": "EFFECT_UNLOCK_SKIN"
+  }
+]

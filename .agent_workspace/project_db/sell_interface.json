@@ -1,0 +1,13 @@
+[
+  {
+    "sell_interface_active_tab_id": "TAB_MATERIAL",
+    "sell_interface_state": "SELL_STATE_INACTIVE",
+    "tab_switch_enabled": true,
+    "interaction_disabled": "INTERACTION_DISABLED",
+    "sellable_item_list": [],
+    "selected_items": [],
+    "total_sell_price": 0,
+    "tab_id_material": "TAB_MATERIAL"
+  },
+  {}
+]

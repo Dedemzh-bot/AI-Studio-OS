@@ -188,7 +188,7 @@ def api_knowledge(type: str = "best"):
 
 @app.post("/api/archive")
 async def api_archive(data: dict):
-    python_exe = shutil.which("python") or "python" if getattr(sys, 'frozen', False) else sys.executable
+    python_exe = sys.executable
     cmd = [python_exe,
            os.path.join(BUNDLE_DIR, "Agents", "archivist_agent.py"),
            data.get("doc", ""), "all", data.get("type", "red"),
@@ -235,6 +235,21 @@ def api_archive_project():
             shutil.copy2(src, os.path.join(dest, f))
             copied.append(f)
 
+    # 归档时自动拆表到 Excel/
+    try:
+        splitter = os.path.join(BUNDLE_DIR, "Skills", "config_splitter.py")
+        if os.path.exists(splitter):
+            python_exe = sys.executable
+            env = os.environ.copy()
+            env["AI_STUDIO_DATA_DIR"] = DATA_DIR
+            subprocess.run(
+                [python_exe, splitter],
+                cwd=ROOT_DIR, env=env,
+                capture_output=True, timeout=30,
+            )
+    except Exception:
+        pass
+
     return JSONResponse({"ok": True, "path": dest, "files": copied})
 
 
@@ -246,7 +261,7 @@ def api_projects():
         return JSONResponse({"projects": []})
 
     result = []
-    for d in sorted(os.listdir(projects_dir), reverse=True):
+    for d in sorted(os.listdir(projects_dir), key=lambda d: os.path.getmtime(os.path.join(projects_dir, d)), reverse=True):
         dp = os.path.join(projects_dir, d)
         if os.path.isdir(dp):
             files = sorted(os.listdir(dp))
@@ -322,10 +337,7 @@ async def ws_terminal(websocket: WebSocket):
     env["AI_STUDIO_DATA_DIR"] = DATA_DIR
 
     try:
-        if getattr(sys, 'frozen', False):
-            python_cmd = shutil.which("python") or "python"
-        else:
-            python_cmd = sys.executable
+        python_cmd = sys.executable
         router_proc = subprocess.Popen(
             [python_cmd, "-u", os.path.join(BUNDLE_DIR, "main_router.py")],
             stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
@@ -438,6 +450,33 @@ async def root():
 # ==================== Startup ====================
 
 if __name__ == "__main__":
+    # 子进程引导：EXE 被当作 Python 解释器调用时
+    if len(sys.argv) > 1:
+        import runpy
+        # 强制子进程 stdout/stderr 为 UTF-8，消除日志乱码
+        try:
+            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+        i = 1
+        while i < len(sys.argv):
+            arg = sys.argv[i]
+            if arg in ("-u",):
+                i += 1
+                continue
+            if arg == "-m" and i + 1 < len(sys.argv):
+                module_name = sys.argv[i + 1]
+                sys.argv = sys.argv[:i] + sys.argv[i + 2:]
+                runpy.run_module(module_name, run_name="__main__", alter_sys=True)
+                sys.exit(0)
+            if arg.endswith(".py"):
+                sys.argv = sys.argv[:i] + sys.argv[i + 1:]
+                runpy.run_path(arg, run_name="__main__")
+                sys.exit(0)
+            break
+        i += 1
+
     import uvicorn
     import webbrowser
     import socket
@@ -484,7 +523,7 @@ if __name__ == "__main__":
         pass
 
     if os.path.exists(os.path.join(TABLE_DIR, "table_server.py")):
-        table_python = shutil.which("python") or "python" if getattr(sys, 'frozen', False) else sys.executable
+        table_python = sys.executable
         table_env = os.environ.copy()
         table_env["AI_STUDIO_DATA_DIR"] = DATA_DIR
         table_proc = subprocess.Popen(

@@ -15,13 +15,20 @@
 3. **【需求溯源防伪】**：你在分配任何一个子任务时，必须能在《主策简案》中找到明确的出处。如果你发现某个任务是基于你的"行业经验"推导出来的附加功能，请立刻删除它！
 
 # 🔄 【标准工作流定义：引入 UX 提炼层】
-在你生成 WBS 任务分解计划时，必须在 System Planner (SP) 任务之后，强制插入 UX Agent 的任务。
+# 🗺️ 【工作流拓扑与 Agent 代号规范】 (CRITICAL)
+在你生成 `task_plan.md` 的表格和执行依赖图时，必须【严格禁止】出现 `UI Agent`，必须全部替换为 **`UX Agent` (交互策划)**。
 
-**UX Agent 任务规范：**
-- **任务名称**：表现层脱水与交互蓝图提炼
-- **输入文件**：`system_design_detail.md` (由 System Planner 产出)
-- **产出文件**：`ui_interaction_blueprint.md`
-- **前置依赖**：必须等待 SP 阶段完全结束后才可并行或串行启动。
+必须严格遵循以下工业级流水线的**依赖时序 (Execution Order)**：
+
+1. **阶段一（基建）**：`System Planner` (SP) 必须最先执行，产出 `system_design_detail.md`。
+2. **阶段二（表现与数值分离，可并行）**：
+   - `UX Agent` (UX) 必须在 SP 之后执行，读取系统案并产出 `ui_interaction_blueprint.md`。
+   - `Numerical Planner` (NP) 必须在 SP 之后执行，产出数值配表 JSON。
+3. **阶段三（技术实现）**：`Tech Architect` (TA) 必须在 **UX 和 NP 双双完成之后**执行，因为它需要读取数值配置和交互蓝图来设计 API 接口。
+4. **阶段四（终审）**：`Audit Agent` (AA) 必须放在**绝对的最后一步**！它要对 SP、UX、NP、TA 的所有产物进行最终核对。
+
+**【Mermaid 拓扑图强制要求】**：
+你的输出中如果包含流程图，必须体现 `SP --> UX`、`SP --> NP`，且 `UX --> TA`、`NP --> TA`，最后 `TA --> AA` 的绝对时序！
 
 【绝对禁止】再向工作流中指派任何视觉 UI 设计、排版作图类的任务节点。
 

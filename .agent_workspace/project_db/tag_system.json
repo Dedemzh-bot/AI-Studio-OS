@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "MATERIAL_ASCENSION",
+    "tag_source": "item_definition",
+    "tag_type": "base"
+  },
+  {
+    "tag": "EVENT_EXCHANGE",
+    "tag_source": "item_definition",
+    "tag_type": "base"
+  },
+  {
+    "tag": "EVENT_BOOSTED",
+    "tag_source": "event_system",
+    "tag_type": "dynamic"
+  },
+  {
+    "tag": "GIFT_PREFERRED",
+    "tag_source": "item_definition",
+    "tag_type": "base"
+  },
+  {
+    "tag": "CONSUMABLE_EXP",
+    "tag_source": "item_definition",
+    "tag_type": "base"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "module_name": "inventory_core",
+    "continuous_fields": [
+      "player_id",
+      "inventory_capacity_max",
+      "item_count"
+    ],
+    "discrete_fields": [
+      "item_id",
+      "quantity",
+      "tags",
+      "expire_time",
+      "item_definition_id",
+      "name",
+      "icon",
+      "quality",
+      "type",
+      "sellable",
+      "usable",
+      "batch_usable",
+      "use_condition",
+      "sell_currency_type",
+      "sell_price",
+      "use_effect_id"
+    ]
+  },
+  {
+    "module_name": "item_definition",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "id",
+      "name",
+      "icon",
+      "quality",
+      "type",
+      "tags",
+      "sellable",
+      "usable",
+      "batch_usable",
+      "use_condition",
+      "sell_currency_type",
+      "sell_price",
+      "use_effect_id"
+    ]
+  },
+  {
+    "module_name": "tag_system",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "player_id",
+      "item_id",
+      "tag",
+      "tag_source",
+      "tag_type"
+    ]
+  },
+  {
+    "module_name": "inventory_capacity",
+    "continuous_fields": [
+      "inventory_capacity_max",
+      "initial_capacity",
+      "expansion_card_capacity_increase"
+    ],
+    "discrete_fields": [
+      "expansion_card_item_id",
+      "expansion_card_quantity"
+    ]
+  },
+  {
+    "module_name": "overflow_mail",
+    "continuous_fields": [
+      "mail_retention_days"
+    ],
+    "discrete_fields": [
+      "mail_id",
+      "player_id",
+      "item_id",
+      "quantity",
+      "mail_title",
+      "mail_content",
+      "expire_time"
+    ]
+  },
+  {
+    "module_name": "item_use",
+    "continuous_fields": [
+      "health_recover_amount"
+    ],
+    "discrete_fields": [
+      "player_id",
+      "item_id",
+      "quantity",
+      "use_condition",
+      "use_effect_id",
+      "batch_operation_limit",
+      "error_code_network_failure"
+    ]
+  },
+  {
+    "module_name": "item_sell",
+    "continuous_fields": [
+      "base_currency",
+      "event_token"
+    ],
+    "discrete_fields": [
+      "player_id",
+      "item_id",
+      "quantity",
+      "sell_currency_type",
+      "sell_price",
+      "batch_operation_limit",
+      "error_code_network_failure"
+    ]
+  },
+  {
+    "module_name": "expiry_management",
+    "continuous_fields": [
+      "expiry_warning_days"
+    ],
+    "discrete_fields": [
+      "player_id",
+      "item_id",
+      "expire_time",
+      "expired_item_list"
+    ]
+  },
+  {
+    "module_name": "inventory_ui",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "category_tabs",
+      "subcategory_filter",
+      "search_keyword",
+      "sort_order",
+      "view_mode",
+      "item_card_info"
+    ]
+  },
+  {
+    "module_name": "external_system_integration",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "mail_system",
+      "shop_system",
+      "enhancement_system",
+      "affinity_system",
+      "battle_reward_system",
+      "selection_filter"
+    ]
+  },
+  {
+    "module_name": "api_interface",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "add_item",
+      "remove_item",
+      "get_item_count",
+      "get_inventory",
+      "check_capacity",
+      "batch_use_items",
+      "batch_sell_items",
+      "add_tag",
+      "remove_tag",
+      "get_tags",
+      "check_expired_items",
+      "get_expiring_items"
+    ]
+  }
+]

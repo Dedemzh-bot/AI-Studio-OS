@@ -1,0 +1,59 @@
+{
+  "system_summary": "[角色外观自定义系统] 该系统用于为玩家提供角色外观的深度自定义能力，包含时装更换与分区自由染色两大核心功能，所有修改仅作用于外观，不涉及任何战斗属性变化。",
+  "field_dictionary": {
+    "current_dye_target_character_id": "【整数】当前染色操作的目标角色ID，取值范围为正整数，默认值为0（表示未选择目标角色）。",
+    "current_dye_target_outfit_id": "【整数】当前染色操作的目标时装ID，取值范围为正整数，默认值为0（表示未选择目标时装）。",
+    "dye_region_hsv_data": "【JSON字符串】当前染色界面中，每个染色分区的HSV值数据，格式为{\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}，默认值为空JSON对象{}。",
+    "current_dye_preset_data": "【JSON字符串】当前正在编辑的染色方案数据，包含所有分区的HSV值，格式同dye_region_hsv_data，默认值为空JSON对象{}。",
+    "dye_preset_slot_data": "【JSON字符串】所有预设槽位的染色方案数据，格式为{\"slot_index\": {\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}}，默认值为空JSON对象{}。",
+    "outfit_unlocked_region_count": "【整数】当前穿戴时装已解锁的染色分区数量，取值范围为0到dye_region_count，默认值为default_open_region_count。",
+    "outfit_dye_data": "【JSON字符串】角色当前穿戴时装的染色方案数据（已应用生效），格式为{\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}，默认值为空JSON对象{}。",
+    "is_dyeable": "【布尔】时装道具是否支持染色功能，true表示可染色，false表示不可染色，默认值为false。",
+    "dye_region_count": "【整数】时装道具的染色分区数量（由美术蒙版定义），取值范围为非负整数，默认值为0。",
+    "max_preset_slots": "【整数】每个时装可保存的最大染色方案预设槽位数，取值范围为正整数，默认值为3。",
+    "dye_cost_per_region": "【整数】每次应用染色时，每个调整过的分区消耗的基础染色材料数量，取值范围为正整数，默认值为1。",
+    "dye_cost_per_region_advanced": "【整数】每次应用染色时，每个调整过的分区消耗的高级染色材料数量（用于特殊染色模式），取值范围为非负整数，默认值为0。",
+    "default_open_region_count": "【整数】时装默认开放的染色分区数量（无需解锁），取值范围为非负整数且小于等于dye_region_count，默认值为2。",
+    "regions_per_voucher": "【整数】每张分区解锁券可解锁的染色分区数量，取值范围为正整数，默认值为1。",
+    "preset_switch_animation_duration": "【浮点数】切换染色方案预设时的动画播放时长（秒），取值范围为正浮点数，默认值为0.5。",
+    "preset_name_max_length": "【整数】染色方案预设名称的最大字符长度，取值范围为正整数，默认值为20。",
+    "daily_dye_material_reward": "【整数】每日活跃度宝箱可开出的基础染色材料数量，取值范围为非负整数，默认值为1。",
+    "affection_level_interval": "【整数】角色好感度等级奖励中，每多少级赠送一次染色材料，取值范围为正整数，默认值为5。",
+    "affection_dye_material_reward": "【整数】角色好感度等级奖励中，每次赠送的基础染色材料数量，取值范围为非负整数，默认值为5。",
+    "event_currency_to_dye_material_ratio": "【浮点数】活动货币兑换基础染色材料的比例（1活动货币可兑换的材料数量），取值范围为正浮点数，默认值为1.0。",
+    "dye_material_pack_size": "【整数】商城出售的染色材料包中包含的基础染色材料数量，取值范围为正整数，默认值为10。",
+    "dye_material_pack_price": "【整数】商城出售的染色材料包的售价（付费货币数量），取值范围为正整数，默认值为60。",
+    "preset_slot_extension_count": "【整数】通过付费可额外扩展的染色方案预设槽位数，取值范围为非负整数，默认值为2。",
+    "decompose_dye_material_ratio": "【浮点数】分解重复时装时，基于时装价值计算回收染色材料的比例系数，取值范围为0到1，默认值为0.1。",
+    "decompose_dye_material_reward": "【整数】分解一件重复时装获得的基础染色材料固定数量，取值范围为非负整数，默认值为5。",
+    "dye_material_stack_limit": "【整数】单个染色材料在背包中的最大堆叠数量，取值范围为正整数，默认值为999。",
+    "reveal_animation_duration": "【浮点数】染色应用成功后“焕新展示”动画的播放时长（秒），取值范围为正浮点数，默认值为2.5。",
+    "preset_data_size": "【整数】单个染色方案预设数据的最大存储大小（字节），取值范围为正整数，默认值为1024。",
+    "use_effect_id": "【字符串】道具的使用效果ID，用于关联道具使用时的逻辑处理，取值范围为预定义的EFFECT_枚举值，默认值为空字符串。"
+  },
+  "relations_and_enums": {
+    "跨表外键调用": {
+      "dye_system.current_dye_target_character_id": "引用 character_data 表中的角色ID，用于定位当前染色操作的目标角色。",
+      "dye_system.current_dye_target_outfit_id": "引用 item_definition 表中的时装道具ID，用于定位当前染色操作的目标时装。",
+      "dye_system.outfit_dye_data": "与 character_data.outfit_dye_data 字段数据格式一致，用于同步当前穿戴时装的染色方案。",
+      "item_definition.use_effect_id": "引用道具使用效果枚举，如 EFFECT_DYE_MATERIAL 表示染色材料，EFFECT_UNLOCK_SKIN 表示皮肤解锁。"
+    },
+    "状态码枚举": {
+      "use_effect_id": {
+        "EFFECT_DYE_MATERIAL": "染色材料使用效果，用于染色操作消耗。",
+        "EFFECT_EXP_POTION": "经验药水使用效果。",
+        "EFFECT_GIFT_BOX": "礼物盒使用效果。",
+        "EFFECT_UNLOCK_SKIN": "皮肤解锁使用效果。"
+      },
+      "染色分区状态": {
+        "locked": "染色分区未解锁，不可调整颜色。",
+        "unlocked": "染色分区已解锁，可自由调整颜色。"
+      },
+      "染色方案预设槽位状态": {
+        "empty": "预设槽位为空，可保存新方案。",
+        "occupied": "预设槽位已保存方案，可加载或覆盖。"
+      }
+    }
+  },
+  "implementation_notes": "【执行建议】1. 染色界面采用半屏模型展示+半屏调色面板布局，模型实时响应HSV调整，确保零延迟预览。2. 应用染色时需校验背包中染色材料数量是否充足，不足时应用按钮置灰并弹出快捷购买窗口。3. 每个时装独立存储染色方案数据，切换时装时自动加载对应时装的染色数据。4. 预设槽位数据需在本地缓存并定期同步至服务器，防止网络断线导致数据丢失。5. 染色操作不可逆，但玩家可随时重新染色覆盖，无需额外确认弹窗。6. 分解重复时装时，系统优先使用 decompose_dye_material_reward 固定值作为回收数量，若该值为0则回退使用 decompose_dye_material_ratio 比例计算。"
+}

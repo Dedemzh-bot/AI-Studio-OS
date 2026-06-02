@@ -1,0 +1,130 @@
+{
+  "dye_system": {
+    "continuous_formulas": {
+      "current_dye_target_character_id": {
+        "base": 0,
+        "growth": 0,
+        "type": "linear"
+      },
+      "current_dye_target_outfit_id": {
+        "base": 0,
+        "growth": 0,
+        "type": "linear"
+      },
+      "dye_region_hsv_data": {
+        "base": "{}",
+        "growth": 0,
+        "type": "linear"
+      },
+      "current_dye_preset_data": {
+        "base": "{}",
+        "growth": 0,
+        "type": "linear"
+      },
+      "dye_preset_slot_data": {
+        "base": "{}",
+        "growth": 0,
+        "type": "linear"
+      },
+      "outfit_unlocked_region_count": {
+        "base": 2,
+        "growth": 0,
+        "type": "linear"
+      },
+      "outfit_dye_data": {
+        "base": "{}",
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "is_dyeable": {
+        "0": false
+      },
+      "dye_region_count": {
+        "0": 0
+      },
+      "max_preset_slots": {
+        "0": 3
+      },
+      "dye_cost_per_region": {
+        "0": 1
+      },
+      "dye_cost_per_region_advanced": {
+        "0": 0
+      },
+      "default_open_region_count": {
+        "0": 2
+      },
+      "regions_per_voucher": {
+        "0": 1
+      },
+      "preset_switch_animation_duration": {
+        "0": 0.5
+      },
+      "preset_name_max_length": {
+        "0": 20
+      },
+      "daily_dye_material_reward": {
+        "0": 1
+      },
+      "affection_level_interval": {
+        "0": 5
+      },
+      "affection_dye_material_reward": {
+        "0": 5
+      },
+      "event_currency_to_dye_material_ratio": {
+        "0": 1.0
+      },
+      "dye_material_pack_size": {
+        "0": 10
+      },
+      "dye_material_pack_price": {
+        "0": 60
+      },
+      "preset_slot_extension_count": {
+        "0": 2
+      },
+      "decompose_dye_material_ratio": {
+        "0": 0.1
+      },
+      "decompose_dye_material_reward": {
+        "0": 5
+      },
+      "dye_material_stack_limit": {
+        "0": 999
+      },
+      "reveal_animation_duration": {
+        "0": 2.5
+      },
+      "preset_data_size": {
+        "0": 1024
+      }
+    }
+  },
+  "item_definition": {
+    "continuous_formulas": {},
+    "discrete_milestones": {
+      "use_effect_id": {
+        "0": ""
+      },
+      "dye_region_count": {
+        "0": 0
+      },
+      "is_dyeable": {
+        "0": false
+      }
+    }
+  },
+  "character_data": {
+    "continuous_formulas": {
+      "outfit_dye_data": {
+        "base": "{}",
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {}
+  }
+}

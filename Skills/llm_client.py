@@ -15,13 +15,19 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # ---- 加载 .env（优先可写目录，兼容 EXE 冻结模式）----
-_data_dir = os.environ.get("AI_STUDIO_DATA_DIR")
-if _data_dir:
-    _env_path = Path(_data_dir) / ".env"
-elif getattr(sys, 'frozen', False):
-    _env_path = Path(sys.executable).parent / ".env"
-else:
-    _env_path = Path(__file__).parent.parent / ".env"
+_env_path = None
+if getattr(sys, 'frozen', False):
+    # EXE 模式：优先读打入库内的 .env，其次读 EXE 同级目录
+    for candidate in [Path(sys._MEIPASS) / ".env", Path(sys.executable).parent / ".env"]:
+        if candidate.exists():
+            _env_path = candidate
+            break
+if _env_path is None:
+    _data_dir = os.environ.get("AI_STUDIO_DATA_DIR")
+    if _data_dir:
+        _env_path = Path(_data_dir) / ".env"
+    else:
+        _env_path = Path(__file__).parent.parent / ".env"
 load_dotenv(dotenv_path=_env_path)
 
 LLM_API_KEY = os.getenv("LLM_API_KEY")

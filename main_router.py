@@ -446,6 +446,8 @@ def main():
         "system_numerical_docs.json",
         "system_numerical_data.json",
         "audit_feedback.json",
+        "audit_trace_log.md",
+        "ui_interaction_blueprint.md",
         "guild_design_data.json",
     ]
     for f in files_to_clean:
@@ -535,7 +537,16 @@ def main():
                         write_state("pending_design")
                     elif task_type == "system":
                         print("[Router] 🏗️ 识别为玩法系统需求，进入知识驱动管线。")
-                        write_state("clarifying_requirements")
+                        try:
+                            subprocess.run(
+                                [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
+                                stdout=sys.stdout, stderr=sys.stdout,
+                                cwd=ROOT_DIR,
+                            )
+                            print("[Router] Visionary Agent 执行完毕。")
+                        except Exception as e:
+                            print(f"\033[91m[Router] Visionary 失败: {e}\033[0m")
+                            write_state("idle")
                     else:
                         print(f"\033[91m[Router] 非法类别: '{task_type}'\033[0m")
                         write_state("idle")
@@ -705,9 +716,12 @@ def main():
             try:
                 result = subprocess.run(
                     [sys.executable, os.path.join(ROOT_DIR, "Skills", "system_visionary.py")],
-                    capture_output=True, text=True, encoding="utf-8", cwd=ROOT_DIR,
+                    stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                    text=True, encoding="utf-8", cwd=ROOT_DIR,
                 )
                 output = (result.stdout or "") + (result.stderr or "")
+                if output:
+                    print(output, end="")
 
                 # 读 task_status.json 判断 Visionary 写了哪个状态
                 current_state = read_state()
@@ -911,9 +925,9 @@ def main():
                     [sys.executable, os.path.join(ROOT_DIR, "Agents", "schema_translator.py")],
                     check=True, cwd=ROOT_DIR,
                 )
-                print("[Router] Schema 翻译完毕，静默流转至数值填表。")
+                print("[Router] Schema 翻译完毕，静默流转至 UX 交互设计。")
                 _clear_retry_count()
-                write_state("pending_numerical")
+                write_state("pending_ux_design")
             except subprocess.CalledProcessError as e:
                 if e.returncode == 2 and retry_count < 2:
                     retry_count += 1
@@ -934,6 +948,53 @@ def main():
             except FileNotFoundError:
                 print("\033[91m[Router] 找不到 schema_translator.py\033[0m")
                 write_state("idle")
+
+        elif current_state == "pending_ux_design":
+            """
+            UX 交互蓝图：读取系统策划详细案 → 输出 ui_interaction_blueprint.md
+            在 Schema 翻译之后、数值填表之前执行。
+            """
+            print("[Router] 正在唤醒 UX Agent 进行表现层脱水与交互蓝图提炼...")
+            try:
+                subprocess.run(
+                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "ux_agent.py")],
+                    check=True, cwd=ROOT_DIR,
+                )
+                print("[Router] UX Agent 执行完毕，交互蓝图已生成。")
+                write_state("pending_ux_approval")
+            except subprocess.CalledProcessError as e:
+                print(f"\033[91m[Router] UX Agent 失败（{e.returncode}）\033[0m")
+                write_state("idle")
+            except FileNotFoundError:
+                print("\033[91m[Router] 找不到 ux_agent.py\033[0m")
+                write_state("idle")
+
+        elif current_state == "pending_ux_approval":
+            """
+            UX 蓝图审批：老板审阅 ui_interaction_blueprint.md → 放行进入数值填表。
+            """
+            blueprint_path = os.path.join(WORKSPACE_DIR, "ui_interaction_blueprint.md")
+            print("\033[93m" + "=" * 60 + "\033[0m")
+            print("\033[93m[UX 审批] UX Agent 已完成交互蓝图提炼。\033[0m")
+            if os.path.exists(blueprint_path):
+                print(f"[UX 审批] 蓝图文件: {blueprint_path} ({os.path.getsize(blueprint_path)} 字节)")
+            else:
+                print("[UX 审批] 警告: 蓝图文件未找到，仍可放行或打回。")
+            print("[UX 审批] 输入 'y' 批准，进入数值填表阶段；输入其他意见打回 UX 重做：")
+            print("\033[93m" + "=" * 60 + "\033[0m")
+
+            user_input = input("[UX 审批] 请输入: ").strip()
+            if user_input.lower() == "y":
+                print(f"\033[92m[UX 审批] 老板批准！进入数值填表阶段。\033[0m")
+                write_state("pending_numerical")
+            else:
+                print(f"\033[91m[UX 审批] 老板打回！意见: {user_input}\033[0m")
+                try:
+                    with open(BOSS_FEEDBACK_FILE, "w", encoding="utf-8") as f:
+                        f.write(user_input)
+                except Exception:
+                    pass
+                write_state("pending_ux_design")
 
         elif current_state == "pending_numerical":
             retry_count = _get_retry_count("numerical_planner")
@@ -992,18 +1053,6 @@ def main():
                     print(f"\033[91m[Router][警告] Codex 构建失败（{e.returncode}）\033[0m")
                 except FileNotFoundError:
                     print("\033[91m[Router][警告] 找不到 build_memory_codex.py，跳过\033[0m")
-
-                # ---- 拆表到 Excel/ ----
-                try:
-                    subprocess.run(
-                        [sys.executable, os.path.join(ROOT_DIR, "Skills", "config_splitter.py")],
-                        check=True, cwd=ROOT_DIR,
-                    )
-                    print("[Router] 配置表已拆分为独立 JSON 文件至 Excel/ 目录。")
-                except subprocess.CalledProcessError as e:
-                    print(f"\033[91m[Router][警告] 拆表失败（{e.returncode}）\033[0m")
-                except FileNotFoundError:
-                    print("\033[91m[Router][警告] 找不到 config_splitter.py，跳过\033[0m")
 
             write_state(result)
 
@@ -1116,7 +1165,7 @@ def main():
                         write_state("completed")
                     else:
                         write_state("idle")
-                    return
+                    continue
 
                 print(f"\033[93m[审计打回] 发现 {len(issues)} 个问题，静默唤醒对应 Agent 修正...\033[0m")
                 corrected_any = False
@@ -1162,6 +1211,10 @@ def main():
                 _save_retry_count("final_audit", loop_count)
                 print(f"[Router] 本轮修正完毕，下一轮心跳重新审计 ({loop_count}/{max_loops})")
                 # 保持 pending_final_audit，不写状态（下轮自动重审）
+
+        elif current_state == "ui_done":
+            print("[Router] UX 交互蓝图已完成，工作流结束。")
+            write_state("completed")
 
         elif current_state == "completed":
             print("[Router] 本次流水线任务全部完成，进入待机摸鱼模式...")

@@ -1,0 +1,53 @@
+[
+  {
+    "module_name": "dye_system",
+    "continuous_fields": [
+      "current_dye_target_character_id",
+      "current_dye_target_outfit_id",
+      "dye_region_hsv_data",
+      "current_dye_preset_data",
+      "dye_preset_slot_data",
+      "outfit_unlocked_region_count",
+      "outfit_dye_data"
+    ],
+    "discrete_fields": [
+      "is_dyeable",
+      "dye_region_count",
+      "max_preset_slots",
+      "dye_cost_per_region",
+      "dye_cost_per_region_advanced",
+      "default_open_region_count",
+      "regions_per_voucher",
+      "preset_switch_animation_duration",
+      "preset_name_max_length",
+      "daily_dye_material_reward",
+      "affection_level_interval",
+      "affection_dye_material_reward",
+      "event_currency_to_dye_material_ratio",
+      "dye_material_pack_size",
+      "dye_material_pack_price",
+      "preset_slot_extension_count",
+      "decompose_dye_material_ratio",
+      "decompose_dye_material_reward",
+      "dye_material_stack_limit",
+      "reveal_animation_duration",
+      "preset_data_size"
+    ]
+  },
+  {
+    "module_name": "item_definition",
+    "continuous_fields": [],
+    "discrete_fields": [
+      "use_effect_id",
+      "dye_region_count",
+      "is_dyeable"
+    ]
+  },
+  {
+    "module_name": "character_data",
+    "continuous_fields": [
+      "outfit_dye_data"
+    ],
+    "discrete_fields": []
+  }
+]

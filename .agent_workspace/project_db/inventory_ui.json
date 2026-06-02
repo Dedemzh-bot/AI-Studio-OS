@@ -1,0 +1,23 @@
+[
+  {
+    "category_tabs": [
+      "MATERIAL",
+      "EVENT",
+      "QUEST",
+      "GIFT",
+      "SKIN",
+      "CONSUMABLE"
+    ],
+    "subcategory_filter": "",
+    "search_keyword": "",
+    "sort_order": "quality_desc",
+    "view_mode": "grid",
+    "item_card_info": {
+      "show_icon": true,
+      "show_name": true,
+      "show_quality": true,
+      "show_quantity": true,
+      "show_expire_timer": true
+    }
+  }
+]

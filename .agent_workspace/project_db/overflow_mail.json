@@ -1,0 +1,9 @@
+[
+  30,
+  {
+    "mail_id": "OVERFLOW_MAIL_TEMPLATE",
+    "mail_title": "背包已满，道具暂存",
+    "mail_content": "由于您的背包已满，以下道具已暂存至邮件，请及时清理背包后领取。",
+    "expire_time": 0
+  }
+]

@@ -1,80 +1,106 @@
-# 活动大厅 - 程序开发蓝图
+# 角色外观自定义系统 - 程序开发蓝图
 
 ## 一、 整体架构概述
-本模块为游戏内所有限时/周期性活动的统一入口框架，采用**弱联网**架构（核心状态由服务器时间驱动，但客户端可基于本地时间做临时兜底）。核心性能瓶颈在于：1) 活动配置表（JSON）的解析与页签列表的动态生成；2) 多张背景插画的预加载与切换性能。系统不承载具体活动玩法逻辑，仅负责页签展示、状态判定与跳转调度。
+本系统为**纯表现层**模块，所有操作仅改变角色外观视觉表现，不涉及任何战斗属性修改。系统核心为**客户端实时渲染**，需要处理高频率的HSV调色实时预览（GPU实例化渲染），因此**前端性能是核心瓶颈**。后端主要负责染色方案数据的持久化存储、染色材料消耗校验与扣减、以及染色方案云端同步。系统**非强联网**，但染色方案数据需支持跨场景（大厅、战斗、拍照）同步，因此需要后端接口提供数据存取能力。
 
 ## 二、 前端模块划分 (Client)
 
-### UI 组件层
-- **ActivityHallMainPanel**：活动大厅主界面，包含顶部页签栏（横向滑动容器）与下方内容占位区域。
-- **ActivityTabItem**：单个页签组件，显示活动图标、名称、红点状态。
-- **MoreTabDropdown**：当页签数量超过 `max_tab_count` 时，折叠至“更多”下拉菜单。
-- **EmptyStatePlaceholder**：无可用活动时的占位提示（“暂无活动”）。
-- **TimeSyncLoadingOverlay**：时间同步失败时的加载遮罩（“时间同步中...”）。
-- **DailySigninPanel**：日签到活动子界面，包含签到按钮、奖励列表、连续签到里程碑展示。
-- **CharacterPortraitWidget**：日签到界面中的角色半身立绘组件，支持呼吸动画与表情切换。
+### - UI 组件层
+1. **主入口界面**：角色详情页/大厅换装入口按钮。
+2. **时装列表界面**：展示当前角色已拥有的时装卡片（含默认基础时装），支持点击切换。
+3. **染色主界面**：左半屏模型展示 + 右半屏调色面板布局。
+   - **模型展示组件**：支持近肩特写视角，可手动旋转/缩放。
+   - **分区选择组件**：模型上可点击的染色分区高亮（边缘发光）。
+   - **调色面板组件**：色相环（圆形拖拽）、饱和度滑块（横向）、明度滑块（横向）。
+   - **染色模式选择组件**：基础/金属/渐变/珠光模式切换。
+4. **预设方案管理界面**：
+   - 预设列表（卡片式展示，显示方案名称和缩略色块）。
+   - 预设命名弹窗（限制 `preset_name_max_length` 字符）。
+   - 预设操作菜单（切换/重命名/删除/覆盖）。
+5. **材料不足提示界面**：快捷购买弹窗。
+6. **焕新展示动画组件**：镜头环绕、角色展示姿势、粒子特效。
+7. **分区解锁状态指示器**：锁图标/解锁状态显示。
 
-### 表现层控制器
-- **ActivityBackgroundController**：管理活动大厅背景插画的预加载与切换，支持平滑过渡动画（如淡入淡出）。
-- **SigninCharacterController**：控制日签到角色立绘的播放（签到语音、表情变化、飘字特效）。
-- **ReddotObserver**：监听 `reddot_update` 事件，刷新主界面入口按钮与页签的红点状态。
-- **TimeSyncManager**：负责服务器时间同步请求、本地时间兜底逻辑、重试机制。
+### - 表现层控制器
+1. **实时预览控制器**：监听HSV滑块变化，驱动模型材质参数实时更新（使用GPU实例化渲染）。
+2. **分区高亮控制器**：点击分区时触发边缘发光效果。
+3. **模型过渡动画控制器**：预设方案切换时，根据 `preset_switch_animation_duration` 执行线性插值过渡。
+4. **焕新展示动画控制器**：染色应用成功后播放，时长由 `reveal_animation_duration` 控制。
+5. **低端设备降级控制器**：检测设备性能（如iPhone 8/骁龙845），自动将高级染色模式降级为基础染色效果。
+6. **物理与材质联动控制器**：确保染色改变影响材质表现（高饱和度反光更强，深色区域布料纹理更明显），角色物理（头发、裙摆）在展示动画中保持活跃。
 
 ## 三、 后端逻辑划分 (Server)
 
-### 持久化数据 (DB)
-- **player_signin_data** 表：
-  - `player_id` (主键)
-  - `current_month` (整数，1-12，默认当前服务器月份)
-  - `signed_days_bitmask` (整数，位掩码，默认0)
-  - `claimed_reward_tiers` (整数，位掩码，默认0)
-  - `consecutive_signin_days` (整数，默认0)
-  - `last_signin_date` (整数，Unix时间戳，默认0) — 用于连续签到判定。跨月处理逻辑：当玩家在1月31日签到后，`last_signin_date` 记录为1月31日。2月1日玩家再次签到，服务器判定 `last_signin_date` 的月份（1月）与当前月份（2月）不同，且 `last_signin_date` 为上一月最后一天，则连续签到**不中断**，`consecutive_signin_days` 继承上一月最后一天的连续天数并继续累加。若 `last_signin_date` 与当前日期间隔超过1天（非跨月情况），则连续签到中断重置为1。
+### - 持久化数据 (DB)
+1. **`character_data` 表**：新增字段 `outfit_dye_data` (JSON) - 存储角色当前穿戴时装的染色方案数据，包含所有分区的HSV值及特殊模式参数。
+2. **`item_definition` 表**：新增字段 `is_dyeable` (bool)、`dye_region_count` (int)、`use_effect_id` (string) - 用于定义时装是否可染色、染色分区数、染色材料使用效果。
+3. **`inventory` 表**：存储染色材料道具（基础染色剂、高级染色剂、分区解锁券）的数量，堆叠上限由 `dye_material_stack_limit` 控制。
 
-### 核心校验逻辑
-- **活动状态判定**：服务端根据当前服务器时间戳与活动配置表中的 `start_time`、`end_time` 计算 `current_status`，客户端不可自行判定。
-- **签到请求校验**：
-  - 校验 `current_month` 是否与服务器当前月份一致，若不一致则自动重置数据。
-  - 校验 `signed_days_bitmask` 对应位是否为0（防止重复签到）。
-  - 校验 `consecutive_signin_days` 的连续性（基于 `last_signin_date` 与当前日期的差值）。
-- **补签请求校验**：
-  - 校验漏签天数是否超过 `max_missed_days_for_retroactive`。
-  - 校验补签价格（根据 `retroactive_cost_base` 与递增曲线计算）。
-  - 校验玩家付费货币是否充足。
-- **加速请求校验**：校验 `accelerate_fixed_cost` 是否足够，且未来 `accelerate_days` 天内未签到。
-- **奖励发放校验**：调用 `check_bag_space` 接口，若空间不足则调用 `send_mail` 补发。
+### - 核心校验逻辑
+1. **染色材料消耗校验**：每次应用染色时，服务端必须校验背包中对应材料数量是否 >= `dye_cost_per_region` * 当前染色分区数（或 `dye_cost_per_region_advanced` * 当前染色分区数）。
+2. **染色方案保存校验**：校验预设方案数量是否超过 `max_preset_slots`，校验方案名称长度是否超过 `preset_name_max_length`。
+3. **分区解锁校验**：校验 `outfit_unlocked_region_count` 是否超过 `dye_region_count`，校验玩家是否拥有足够的分区解锁券。
+4. **时装染色权限校验**：校验目标时装的 `is_dyeable` 字段是否为 `true`。
+5. **材料消耗防刷校验**：所有材料消耗操作必须在服务端完成，防止客户端篡改。
 
 ## 四、 前后端通信协议 (API & 数据对接)
 
-- **`GetActivityHallData`**: C->S / 无参数 / 返回 `activity_config` 数组（完整配置表）及当前服务器时间戳。
-- **`GetSigninData`**: C->S / 无参数 / 返回 `player_signin_data` 对象（`current_month`, `signed_days_bitmask`, `claimed_reward_tiers`, `consecutive_signin_days`）。
-- **`DoSignin`**: C->S / 无参数 / 返回结果（成功/错误码）。错误码：`err_already_signed` (1001), `err_month_full` (1002)。
-- **`DoRetroactiveSignin`**: C->S / 参数 `target_day` (整数，补签目标日期) / 返回结果（成功/错误码）。错误码：`err_already_retroactive` (1003)。
-- **`DoAccelerateSignin`**: C->S / 无参数 / 返回结果（成功/失败）。
-- **`PushActivityStatusChange`**: S->C / 推送 `activity_id` 与 `new_status`（枚举值：`inactive`/`active`/`ended`）。
-- **`PushReddotUpdate`**: S->C / 推送 `activity_id` 与 `is_active` (布尔值)。
-- **`SyncServerTime`**: C->S / 无参数 / 返回当前服务器时间戳（秒级Unix时间）。
+1. **`C2S_GetOutfitList`**: C->S / 请求参数: `character_id` / 返回参数: `outfit_list: [ { outfit_id, outfit_name, is_dyeable, dye_region_count, default_open_region_count, max_preset_slots, unlocked_region_count } ]`
+2. **`C2S_GetDyePresetList`**: C->S / 请求参数: `character_id, outfit_id` / 返回参数: `preset_list: [ { preset_id, preset_name, dye_data (JSON) } ]`
+3. **`C2S_ApplyDye`**: C->S / 请求参数: `character_id, outfit_id, dye_data (JSON), dye_mode (enum)` / 返回参数: `success: bool, error_code: int`
+4. **`C2S_SaveDyePreset`**: C->S / 请求参数: `character_id, outfit_id, preset_name, dye_data (JSON)` / 返回参数: `preset_id, success: bool, error_code: int`
+5. **`C2S_SwitchDyePreset`**: C->S / 请求参数: `character_id, outfit_id, preset_id` / 返回参数: `success: bool, error_code: int`
+6. **`C2S_DeleteDyePreset`**: C->S / 请求参数: `character_id, outfit_id, preset_id` / 返回参数: `success: bool, error_code: int`
+7. **`C2S_UnlockDyeRegion`**: C->S / 请求参数: `character_id, outfit_id` / 返回参数: `new_unlocked_count, success: bool, error_code: int`
+8. **`C2S_GetCharacterDyeData`**: C->S / 请求参数: `character_id` / 返回参数: `outfit_dye_data (JSON)` - 用于战斗/拍照场景加载。
+9. **`S2C_DyeMaterialUpdate`**: S->C / 推送 / 参数: `material_type, new_count` - 材料数量变化时推送。
 
 ## 五、 数值与配置表挂载
-程序启动时，从 `system_numerical_data.json` 中读取以下字段并缓存：
-- **全局参数**：`max_tab_count`, `reddot_timeout_duration`, `max_retry_count`。
-- **日签到参数**：`signin_unlock_level`, `month_max_days`, `consecutive_7_days`, `consecutive_14_days`, `consecutive_21_days`, `consecutive_full_month`, `max_missed_days_for_retroactive`, `retroactive_cost_base`, `retroactive_cost_max`, `accelerate_days`, `accelerate_fixed_cost`, `gold_coin_amount`, `monthly_gacha_ticket_fragments_min`, `monthly_gacha_ticket_fragments_max`。
-- **活动配置表**：`activity_config` 数组（由运营后台维护，客户端只读）。
+程序启动时，从 `system_numerical_data.json` 中读取 `dye_system` 模块下的所有离散字段，并加载到全局配置管理器 `ConfigManager` 中。具体字段如下：
+- `is_dyeable` (默认 false)
+- `dye_region_count` (默认 0)
+- `max_preset_slots` (默认 5)
+- `dye_cost_per_region` (默认 1)
+- `dye_cost_per_region_advanced` (默认 2)
+- `default_open_region_count` (默认 2)
+- `regions_per_voucher` (默认 1)
+- `preset_switch_animation_duration` (默认 0.5)
+- `preset_name_max_length` (默认 20)
+- `daily_dye_material_reward` (默认 3)
+- `affection_level_interval` (默认 10)
+- `affection_dye_material_reward` (默认 5)
+- `event_currency_to_dye_material_ratio` (默认 10)
+- `dye_material_pack_size` (默认 50)
+- `dye_material_pack_price` (默认 300)
+- `preset_slot_extension_count` (默认 5)
+- `decompose_dye_material_ratio` (默认 0.1)
+- `decompose_dye_material_reward` (默认 10)
+- `dye_material_stack_limit` (默认 999)
+- `reveal_animation_duration` (默认 3.0)
+- `preset_data_size` (默认 1.0)
+
+同时，从 `item_definition` 模块读取 `use_effect_id` 为 `EFFECT_DYE_MATERIAL` 的道具定义，用于染色材料的使用逻辑。
 
 ## 六、 开发优先级与依赖链路 (执行排期) ★ 核心
 
-### 阶段一 (P0 - 底层数据与协议)
-- 建表：`player_signin_data` 表结构设计（含 `last_signin_date` 字段及跨月处理逻辑）。
-- 定义 API：`GetActivityHallData`, `GetSigninData`, `DoSignin`, `SyncServerTime`。
-- 后端核心校验逻辑：活动状态机判定、签到/补签/加速校验、连续签到跨月处理。
-- 时间同步机制：服务端时间戳下发、客户端重试与本地兜底逻辑。
+- **阶段一 (P0 - 底层数据与协议)**：
+  1. 数据库建表：`character_data` 表新增 `outfit_dye_data` 字段，`item_definition` 表新增 `is_dyeable`、`dye_region_count`、`use_effect_id` 字段。
+  2. 定义并实现所有后端 API（C2S_GetOutfitList, C2S_ApplyDye, C2S_SaveDyePreset 等）。
+  3. 实现后端核心校验逻辑（材料消耗校验、方案数量校验、分区解锁校验）。
+  4. 加载数值配置表到 `ConfigManager`。
 
-### 阶段二 (P1 - 前端核心表现)
-- UI 框架搭建：`ActivityHallMainPanel`, `ActivityTabItem`, `EmptyStatePlaceholder`, `TimeSyncLoadingOverlay`。
-- 接入后端 API：活动页签列表动态生成、状态刷新、红点监听。
-- 核心玩法跑通：日签到界面（`DailySigninPanel`）与签到流程联调。
+- **阶段二 (P1 - 前端核心表现)**：
+  1. 搭建染色主界面 UI 框架（左半屏模型 + 右半屏调色面板）。
+  2. 实现模型实时预览控制器（HSV 滑块驱动材质参数）。
+  3. 接入后端 API，实现核心玩法流程（选择时装 -> 调色 -> 应用染色 -> 消耗材料）。
+  4. 实现预设方案管理（保存、切换、删除）。
+  5. 实现分区解锁功能（使用分区解锁券）。
 
-### 阶段三 (P2 - 表现层打磨)
-- 特效接入：背景插画预加载与切换动画、签到飘字特效、角色立绘呼吸动画与表情切换。
-- 边缘异常兜底：网络断线重连后的状态同步、活动配置表为空时的占位处理、页签数量超出 `max_tab_count` 时的折叠逻辑。
-- 红点系统逐级上报机制完善。
+- **阶段三 (P2 - 表现层打磨与边缘兜底)**：
+  1. 实现焕新展示动画（镜头环绕、粒子特效）。
+  2. 实现预设方案切换时的模型过渡动画（线性插值）。
+  3. 实现低端设备自动降级逻辑。
+  4. 实现材料不足时的快捷购买弹窗。
+  5. 实现退出染色界面时的保存确认弹窗。
+  6. 实现断线重连后的数据同步逻辑。
+  7. 实现染色方案数据的云端增量同步策略。

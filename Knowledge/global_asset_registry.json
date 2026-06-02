@@ -1,17 +1,4 @@
 {
   "description": "全局资产注册表 — 记录所有业务数据表中的主键 ID 及其备注名",
-  "entries": [
-    {
-      "module": "activity_config",
-      "field": "activity_id",
-      "id": "daily_signin",
-      "display_name": "日签到"
-    },
-    {
-      "module": "activity_config",
-      "field": "activity_id",
-      "id": "limited_instance",
-      "display_name": "限时副本"
-    }
-  ]
+  "entries": []
 }

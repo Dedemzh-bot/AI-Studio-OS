@@ -1,0 +1,210 @@
+{
+  "inventory": [
+    {
+      "player_id": 1001,
+      "item_id": "ASCENSION_STONE_001",
+      "quantity": 5,
+      "tags": [
+        "MATERIAL_ASCENSION"
+      ],
+      "expire_time": 0,
+      "item_definition_id": "ASCENSION_STONE_001"
+    },
+    {
+      "player_id": 1001,
+      "item_id": "EVENT_TOKEN_001",
+      "quantity": 20,
+      "tags": [
+        "EVENT_EXCHANGE"
+      ],
+      "expire_time": 1750000000,
+      "item_definition_id": "EVENT_TOKEN_001"
+    },
+    {
+      "player_id": 1001,
+      "item_id": "EXP_POTION_001",
+      "quantity": 10,
+      "tags": [],
+      "expire_time": 0,
+      "item_definition_id": "EXP_POTION_001"
+    },
+    {
+      "player_id": 1001,
+      "item_id": "GIFT_BOX_001",
+      "quantity": 3,
+      "tags": [
+        "GIFT_PREFERRED"
+      ],
+      "expire_time": 0,
+      "item_definition_id": "GIFT_BOX_001"
+    },
+    {
+      "player_id": 1001,
+      "item_id": "QUEST_ITEM_001",
+      "quantity": 1,
+      "tags": [],
+      "expire_time": 0,
+      "item_definition_id": "QUEST_ITEM_001"
+    },
+    {
+      "player_id": 1001,
+      "item_id": "SKIN_001",
+      "quantity": 1,
+      "tags": [],
+      "expire_time": 0,
+      "item_definition_id": "SKIN_001"
+    }
+  ],
+  "item_definition": [
+    {
+      "id": "ASCENSION_STONE_001",
+      "name": "角色突破石",
+      "icon": "icon_ascension_stone",
+      "quality": 3,
+      "type": "MATERIAL",
+      "tags": [
+        "MATERIAL_ASCENSION"
+      ],
+      "sellable": true,
+      "usable": false,
+      "batch_usable": false,
+      "use_condition": "",
+      "sell_currency_type": "BASE_CURRENCY",
+      "sell_price": 100,
+      "use_effect_id": ""
+    },
+    {
+      "id": "EVENT_TOKEN_001",
+      "name": "夏日活动代币",
+      "icon": "icon_event_token",
+      "quality": 2,
+      "type": "EVENT_ITEM",
+      "tags": [
+        "EVENT_EXCHANGE"
+      ],
+      "sellable": false,
+      "usable": false,
+      "batch_usable": false,
+      "use_condition": "",
+      "sell_currency_type": "BASE_CURRENCY",
+      "sell_price": 0,
+      "use_effect_id": ""
+    },
+    {
+      "id": "EXP_POTION_001",
+      "name": "经验药水",
+      "icon": "icon_exp_potion",
+      "quality": 2,
+      "type": "CONSUMABLE",
+      "tags": [],
+      "sellable": true,
+      "usable": true,
+      "batch_usable": true,
+      "use_condition": "",
+      "sell_currency_type": "BASE_CURRENCY",
+      "sell_price": 50,
+      "use_effect_id": "EXP_POTION_EFFECT"
+    },
+    {
+      "id": "GIFT_BOX_001",
+      "name": "精致礼盒",
+      "icon": "icon_gift_box",
+      "quality": 4,
+      "type": "GIFT",
+      "tags": [
+        "GIFT_PREFERRED"
+      ],
+      "sellable": true,
+      "usable": true,
+      "batch_usable": false,
+      "use_condition": "{\"min_affinity_level\":2}",
+      "sell_currency_type": "BASE_CURRENCY",
+      "sell_price": 500,
+      "use_effect_id": "GIFT_BOX_EFFECT"
+    },
+    {
+      "id": "QUEST_ITEM_001",
+      "name": "神秘信件",
+      "icon": "icon_quest_item",
+      "quality": 1,
+      "type": "QUEST_ITEM",
+      "tags": [],
+      "sellable": false,
+      "usable": false,
+      "batch_usable": false,
+      "use_condition": "",
+      "sell_currency_type": "BASE_CURRENCY",
+      "sell_price": 0,
+      "use_effect_id": ""
+    },
+    {
+      "id": "SKIN_001",
+      "name": "夏日泳装",
+      "icon": "icon_skin_001",
+      "quality": 5,
+      "type": "SKIN",
+      "tags": [],
+      "sellable": false,
+      "usable": true,
+      "batch_usable": false,
+      "use_condition": "{\"has_character\":\"CHARACTER_001\"}",
+      "sell_currency_type": "BASE_CURRENCY",
+      "sell_price": 0,
+      "use_effect_id": "SKIN_UNLOCK_EFFECT"
+    }
+  ],
+  "sell_interface": {
+    "active_tab_id": "TAB_MATERIAL",
+    "tabs": [
+      {
+        "tab_id": "TAB_MATERIAL",
+        "tab_name": "材料",
+        "filter_type": "MATERIAL"
+      },
+      {
+        "tab_id": "TAB_CONSUMABLE",
+        "tab_name": "消耗品",
+        "filter_type": "CONSUMABLE"
+      },
+      {
+        "tab_id": "TAB_GIFT",
+        "tab_name": "礼物",
+        "filter_type": "GIFT"
+      }
+    ]
+  },
+  "mail_system": {
+    "mail_retention_days": 7,
+    "default_mail_title": "背包已满，道具暂存",
+    "default_mail_content": "您的背包已满，以下道具已暂存至邮件，请及时领取"
+  },
+  "overflow_mail": [],
+  "inventory_capacity": {
+    "initial_capacity": 100,
+    "expansion_card_capacity_increase": 50,
+    "expansion_card_item_id": "EXPANSION_CARD_001",
+    "expansion_card_quantity": 1
+  },
+  "batch_sell": {
+    "batch_operation_limit": 99,
+    "error_code_network_failure": "ERROR_NETWORK_TIMEOUT"
+  },
+  "health_recover": {
+    "health_recover_amount": 60,
+    "use_effect_id": "HEALTH_RECOVER_EFFECT"
+  },
+  "sell_price": {
+    "base_currency": 0,
+    "event_token": 0
+  },
+  "error_codes": {
+    "ERROR_INVENTORY_FULL": "背包已满",
+    "ERROR_ITEM_NOT_FOUND": "道具不存在",
+    "ERROR_ITEM_NOT_ENOUGH": "道具数量不足",
+    "ERROR_ITEM_NOT_USABLE": "道具不可使用",
+    "ERROR_ITEM_NOT_SELLABLE": "道具不可出售",
+    "ERROR_USE_CONDITION_NOT_MET": "使用条件不满足",
+    "ERROR_NETWORK_TIMEOUT": "网络超时",
+    "ERROR_INTERNAL_SERVER": "服务器内部错误"
+  }
+}

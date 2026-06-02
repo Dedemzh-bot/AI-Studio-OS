@@ -244,16 +244,6 @@ def main():
             except Exception:
                 pass
 
-            # ---- 清空审计日志，为新系统立项 ----
-            trace_file = os.path.join(WORKSPACE_DIR, "audit_trace_log.md")
-            try:
-                os.makedirs(WORKSPACE_DIR, exist_ok=True)
-                with open(trace_file, "w", encoding="utf-8") as f:
-                    f.write(f"# {meta_name} - 审查修改日志\n\n")
-                print(f"[Visionary] 审计日志已重置: {trace_file}")
-            except Exception:
-                pass
-
             # 推进状态
             try:
                 if os.path.exists(STATUS_FILE):

@@ -1,0 +1,45 @@
+{
+  "status": "reject",
+  "issues": [
+    {
+      "severity": "致命",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "五、 数值与配置表挂载",
+      "problem_description": "程序蓝图中声明的默认值与数值配表（data.json）中的默认值存在大量不一致，且蓝图中的默认值并非从数值表读取，而是硬编码了错误的值。例如：max_preset_slots 蓝图写5，数值表为3；dye_cost_per_region_advanced 蓝图写2，数值表为0；daily_dye_material_reward 蓝图写3，数值表为1；dye_material_pack_price 蓝图写300，数值表为60；preset_slot_extension_count 蓝图写5，数值表为2；decompose_dye_material_reward 蓝图写10，数值表为5；reveal_animation_duration 蓝图写3.0，数值表为2.5；preset_data_size 蓝图写1.0，数值表为1024。这会导致程序运行时读取的配置与数值策划的定价和设计完全脱节，属于严重的数据断裂。",
+      "fix_suggestion": "请 tech_architect 修改 tech_blueprint.md 中“五、数值与配置表挂载”部分，将所有默认值改为与 data.json 中 dye_system 模块的 discrete_milestones 字段完全一致，并明确说明这些值是从 ConfigManager 读取，而非硬编码。"
+    },
+    {
+      "severity": "致命",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、 前后端通信协议 (API & 数据对接)",
+      "problem_description": "API C2S_ApplyDye 的请求参数中缺少 dye_mode 字段对应的枚举定义，且系统策划案中提及的“高级染色材料”和“特殊染色模式（金属质感、渐变效果）”在 API 接口和数值表中均未定义对应的枚举值或字段。这导致高级染色功能无法通过接口实现，属于逻辑死胡同。",
+      "fix_suggestion": "请 tech_architect 在 API 文档中补充 dye_mode 的枚举定义（如：BASIC, METALLIC, GRADIENT），并在 C2S_ApplyDye 的返回参数或相关接口中增加对高级材料消耗的校验逻辑。同时，请 numerical_planner 在数值表中补充 dye_mode 相关的枚举或字段。"
+    },
+    {
+      "severity": "高",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、 前后端通信协议 (API & 数据对接)",
+      "problem_description": "API C2S_ApplyDye 的请求参数中缺少 dye_mode 字段对应的枚举定义，且系统策划案中提及的“高级染色材料”和“特殊染色模式（金属质感、渐变效果）”在 API 接口和数值表中均未定义对应的枚举值或字段。这导致高级染色功能无法通过接口实现，属于逻辑死胡同。",
+      "fix_suggestion": "请 tech_architect 在 API 文档中补充 dye_mode 的枚举定义（如：BASIC, METALLIC, GRADIENT），并在 C2S_ApplyDye 的返回参数或相关接口中增加对高级材料消耗的校验逻辑。同时，请 numerical_planner 在数值表中补充 dye_mode 相关的枚举或字段。"
+    },
+    {
+      "severity": "高",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、 前后端通信协议 (API & 数据对接)",
+      "problem_description": "API C2S_GetOutfitList 的返回参数中包含了 default_open_region_count 和 max_preset_slots，但这两个字段是系统级配置，而非每个时装的实例属性。这会导致数据冗余和潜在的不一致。正确的做法是客户端从 ConfigManager 读取这些全局配置。",
+      "fix_suggestion": "请 tech_architect 修改 C2S_GetOutfitList 的返回参数，移除 default_open_region_count 和 max_preset_slots，改为客户端在启动时从 ConfigManager 加载全局配置。"
+    },
+    {
+      "severity": "中",
+      "responsible_agent": "system_planner",
+      "target_file": "system_design_detail.md",
+      "anchor": "2.2 深度自由染色流程",
+      "problem_description": "系统策划案中描述了“若玩家在调色过程中退出（未点击‘应用’），弹出确认弹窗”，但未明确该弹窗的三个选项（保存草稿并退出、放弃修改并退出、取消）中，“保存草稿”的草稿数据存储在哪里？是本地缓存还是服务器？如果是本地，如何保证跨设备同步？如果是服务器，需要新增一个保存草稿的 API。目前程序蓝图中没有对应的接口。",
+      "fix_suggestion": "请 system_planner 明确“保存草稿”的数据存储方案（本地/服务器），如果涉及服务器存储，请 tech_architect 补充对应的 API（如 C2S_SaveDyeDraft）。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "reject",
+  "issues": [
+    {
+      "severity": "致命",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、前后端通信协议 (API & 数据对接) -> 4.1 核心接口",
+      "problem_description": "系统策划案 2.2.2 节明确要求使用道具后需记录操作日志，包含 `item_id`、`quantity_before`、`quantity_after`、`operation_type`、`timestamp`、`player_id`。程序蓝图在 3.1 节定义了 `operation_log` 表，但在 4.1 节的核心接口列表中，`use_item` 和 `sell_item` 接口的返回值中均未包含 `operation_log_id` 或类似字段，导致前端无法确认日志记录是否成功，存在日志丢失风险。",
+      "fix_suggestion": "在 `use_item` 和 `sell_item` 接口的响应结构中增加 `operation_log_id` (字符串) 字段，用于返回本次操作生成的日志记录ID，以便前端进行后续的日志确认或错误追踪。"
+    },
+    {
+      "severity": "高",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) -> 3.1 持久化数据 (DB)",
+      "problem_description": "系统策划案 2.4.1 节提到 `inventory_capacity_max` 记录当前背包容量上限，且 2.4.2 节提到扩容卡使用后该值增加。程序蓝图在 3.1 节定义了 `inventory_capacity` 表，但该表只存储了 `inventory_capacity_max` 字段。系统策划案 2.4.1 节还要求显示“当前容量/最大容量”，其中“当前容量”需要实时计算背包中所有道具实例的总数。程序蓝图缺少一个用于快速获取当前道具总数的字段或索引，在 `add_item` 和 `remove_item` 时，每次都需要全表扫描 `inventory` 表计算 `item_count`，在高并发下可能导致性能瓶颈。",
+      "fix_suggestion": "在 `inventory_capacity` 表中增加一个 `current_item_count` (整数) 字段，用于实时记录当前背包中的道具实例总数。在 `add_item` 和 `remove_item` 操作成功后，同步更新该字段，避免每次查询都进行全表扫描。"
+    },
+    {
+      "severity": "高",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、前后端通信协议 (API & 数据对接) -> 4.1 核心接口",
+      "problem_description": "系统策划案 2.3.2 节描述出售流程时，提到“系统计算出售价格（根据道具定义中的 `sell_price` 字段）”，并且出售成功后“增加对应货币（基础货币/活动代币）”。程序蓝图中的 `sell_item` 接口返回值 `currency_gained` 只包含了 `type` 和 `amount`，但没有明确指出货币增加的具体来源（是基础货币还是活动代币）。这会导致前端在展示货币增加动画时，无法准确区分货币类型，可能造成UI显示错误。",
+      "fix_suggestion": "在 `sell_item` 接口的 `currency_gained` 对象中，明确 `type` 字段的取值范围，并确保其与 `item_definition` 表中的 `sell_currency_type` 字段一致。同时，在接口文档中注明，前端应根据 `type` 字段的值（如 `BASE_CURRENCY` 或 `EVENT_TOKEN`）来播放对应的货币增加动画。"
+    },
+    {
+      "severity": "中",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) -> 3.2 核心校验逻辑",
+      "problem_description": "系统策划案 2.2.2 节提到，使用道具时“系统读取道具定义中的 `use_effect_id`，匹配对应的使用效果配置”。程序蓝图在 5.2 节提到“运行时动态读取 `use_effect` 表”，但在 3.2 节的核心校验逻辑中，并未包含对 `use_effect_id` 是否存在且有效的校验。如果 `use_effect_id` 配置错误或指向一个不存在的效果，会导致使用道具时服务器内部错误，且无法回滚。",
+      "fix_suggestion": "在 `use_item` 接口的核心校验逻辑中，增加对 `use_effect_id` 的校验步骤：读取 `item_definition` 中的 `use_effect_id`，并在 `use_effect` 表中查询该ID是否存在。如果不存在，则返回 `ERROR_INTERNAL_SERVER` 错误码，并记录错误日志。"
+    },
+    {
+      "severity": "中",
+      "responsible_agent": "ux_agent",
+      "target_file": "ui_interaction_blueprint.md",
+      "anchor": "二、表现层控制器 -> 批量操作进度条",
+      "problem_description": "系统策划案 2.2.3 节和 2.3.3 节提到批量操作时，若中间某次失败，已成功部分不回溯。程序蓝图 2.1 节定义了 `BatchProgressBar` 组件。但 UX Agent 在补全 `BatchProgressBar` 时，如果添加了“失败时自动重试”或“一键跳过失败项”等需要后端支持的高级逻辑，则属于逻辑污染。当前文档未提供 `ui_interaction_blueprint.md` 的具体内容，但根据审查法则，需指出如果存在此类补全，则必须移除。",
+      "fix_suggestion": "移除 `BatchProgressBar` 中任何关于“失败重试”或“跳过失败项”的复杂逻辑，仅保留纯前端的进度显示功能。批量操作失败的处理应由后端返回错误码，前端根据错误码显示提示信息，不进行自动重试。"
+    }
+  ]
+}

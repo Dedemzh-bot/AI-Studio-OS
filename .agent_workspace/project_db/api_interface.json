@@ -1,0 +1,16 @@
+[
+  {
+    "add_item": "add_item(player_id, item_id, quantity)",
+    "remove_item": "remove_item(player_id, item_id, quantity)",
+    "get_item_count": "get_item_count(player_id, item_id)",
+    "get_inventory": "get_inventory(player_id, filter)",
+    "check_capacity": "check_capacity(player_id, quantity)",
+    "batch_use_items": "batch_use_items(player_id, item_id, quantity)",
+    "batch_sell_items": "batch_sell_items(player_id, item_ids_with_quantities)",
+    "add_tag": "add_tag(player_id, item_id, tag)",
+    "remove_tag": "remove_tag(player_id, item_id, tag)",
+    "get_tags": "get_tags(player_id, item_id)",
+    "check_expired_items": "check_expired_items(player_id)",
+    "get_expiring_items": "get_expiring_items(player_id, days)"
+  }
+]
