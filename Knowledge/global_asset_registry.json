@@ -1,4 +1,17 @@
 {
   "description": "全局资产注册表 — 记录所有业务数据表中的主键 ID 及其备注名",
-  "entries": []
+  "entries": [
+    {
+      "module": "inventory_system",
+      "field": "expand_item_id",
+      "id": "expand_ticket",
+      "display_name": null
+    },
+    {
+      "module": "player_inventory",
+      "field": "expand_item_id",
+      "id": "expand_ticket",
+      "display_name": null
+    }
+  ]
 }

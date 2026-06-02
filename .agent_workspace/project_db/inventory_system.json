@@ -1,0 +1,31 @@
+[
+  50,
+  500,
+  20,
+  7,
+  10,
+  100,
+  150,
+  50,
+  1,
+  1,
+  1,
+  10,
+  50,
+  20,
+  0,
+  {
+    "expand_item_id": "expand_ticket",
+    "expand_slot_increment": 5,
+    "max_slot_limit": 500,
+    "initial_slot_count": 50,
+    "overflow_mail_retention_days": 30,
+    "overflow_mail_warning_days": 7,
+    "daily_free_expand_limit": 1,
+    "expand_fragment_required": 10,
+    "expand_item_count_in_gift": 3,
+    "expand_monthly_card_duration": 30,
+    "activity_item_conversion_rate": 10.0,
+    "activity_end_warning_days": 3
+  }
+]

@@ -23,6 +23,7 @@ DRAFT_FILE    = os.path.join(WORKSPACE_DIR, "system_design_detail.md")
 DOCS_FILE     = os.path.join(WORKSPACE_DIR, "system_numerical_docs.json")
 DATA_FILE     = os.path.join(WORKSPACE_DIR, "system_numerical_data.json")
 BLUEPRINT_FILE = os.path.join(WORKSPACE_DIR, "tech_blueprint.md")
+UX_FILE        = os.path.join(WORKSPACE_DIR, "ui_interaction_blueprint.md")
 OUTPUT_FILE   = os.path.join(WORKSPACE_DIR, "audit_feedback.json")
 TRACE_FILE    = os.path.join(WORKSPACE_DIR, "audit_trace_log.md")
 STATUS_FILE   = os.path.join(WORKSPACE_DIR, "task_status.json")
@@ -68,6 +69,7 @@ def main():
     docs_text = read_file_safe(DOCS_FILE, "数值说明书")
     data_text = read_file_safe(DATA_FILE, "数值配表")
     blueprint_text = read_file_safe(BLUEPRINT_FILE, "程序蓝图")
+    ux_text = read_file_safe(UX_FILE, "UX 交互蓝图")
 
     if not draft_text and not data_text:
         loud_fail("无可审查的文档")
@@ -84,6 +86,8 @@ def main():
         parts.append(f"## 数值配表\n\n{data_text}")
     if blueprint_text:
         parts.append(f"## 程序蓝图\n\n{blueprint_text}")
+    if ux_text:
+        parts.append(f"## UX 交互蓝图\n\n{ux_text}")
 
     user_prompt = "请审查以下文档之间的一致性与完整性：\n\n" + "\n\n---\n\n".join(parts)
 

@@ -230,11 +230,18 @@ const BOLD_TAGS = [
     '[架构验收]','[系统验收]','[草案审查]','[计划审查]',
     '[翻译审批]','[数值审批]','[审计通过]','[审计拦截]',
     '[主编放行]','[主编打回]','[安检通过]','[安检拦截]',
-    '[审批节点]','[智能剪裁]','[主策追问]',
+    '[审批节点]','[智能剪裁]','[主策追问]','[UX 审批]',
     '老板批准','老板放行','老板打回','老板确认结项',
 ];
 
-function hasBoldTag(text) { return BOLD_TAGS.some(t => text.includes(t)); }
+function hasBoldTag(text) {
+    for (const t of BOLD_TAGS) {
+        if (text.includes(t)) return true;
+    }
+    // 兜底：常见审批关键词
+    if (/\[(UX|UI)\s/.test(text)) return true;
+    return false;
+}
 
 function appendToLog(text, cls) {
     if (cls) {

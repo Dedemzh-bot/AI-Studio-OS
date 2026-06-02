@@ -1,0 +1,9 @@
+[
+  "use_item",
+  "/api/inventory/use",
+  "/api/inventory/discard",
+  "/api/inventory/add",
+  "/api/inventory/remove",
+  "/api/inventory/has",
+  50
+]

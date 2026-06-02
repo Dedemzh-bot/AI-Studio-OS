@@ -3,192 +3,297 @@
   "task_id": "task_001",
   "payload": {
     "docs": {
-      "system_summary": "[角色外观自定义系统] 该系统用于为玩家提供角色外观的深度自定义能力，包含时装更换与分区自由染色两大核心功能，所有修改仅作用于外观，不涉及任何战斗属性变化。",
+      "system_summary": "[背包系统] 该系统用于管理玩家所有非货币类道具的增删改查、使用、分解、合成、排序、筛选、搜索等基础操作，以及背包容量管理与溢出处理，作为全游戏道具数据的中央枢纽，确保所有系统对道具的操作最终同步至背包。",
       "field_dictionary": {
-        "current_dye_target_character_id": "【整数】当前染色操作的目标角色ID，取值范围为正整数，默认值为0（表示未选择目标角色）。",
-        "current_dye_target_outfit_id": "【整数】当前染色操作的目标时装ID，取值范围为正整数，默认值为0（表示未选择目标时装）。",
-        "dye_region_hsv_data": "【JSON字符串】当前染色界面中，每个染色分区的HSV值数据，格式为{\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}，默认值为空JSON对象{}。",
-        "current_dye_preset_data": "【JSON字符串】当前正在编辑的染色方案数据，包含所有分区的HSV值，格式同dye_region_hsv_data，默认值为空JSON对象{}。",
-        "dye_preset_slot_data": "【JSON字符串】所有预设槽位的染色方案数据，格式为{\"slot_index\": {\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}}，默认值为空JSON对象{}。",
-        "outfit_unlocked_region_count": "【整数】当前穿戴时装已解锁的染色分区数量，取值范围为0到dye_region_count，默认值为default_open_region_count。",
-        "outfit_dye_data": "【JSON字符串】角色当前穿戴时装的染色方案数据（已应用生效），格式为{\"region_index\": {\"h\": 0-360, \"s\": 0-100, \"v\": 0-100}}，默认值为空JSON对象{}。",
-        "is_dyeable": "【布尔】时装道具是否支持染色功能，true表示可染色，false表示不可染色，默认值为false。",
-        "dye_region_count": "【整数】时装道具的染色分区数量（由美术蒙版定义），取值范围为非负整数，默认值为0。",
-        "max_preset_slots": "【整数】每个时装可保存的最大染色方案预设槽位数，取值范围为正整数，默认值为3。",
-        "dye_cost_per_region": "【整数】每次应用染色时，每个调整过的分区消耗的基础染色材料数量，取值范围为正整数，默认值为1。",
-        "dye_cost_per_region_advanced": "【整数】每次应用染色时，每个调整过的分区消耗的高级染色材料数量（用于特殊染色模式），取值范围为非负整数，默认值为0。",
-        "default_open_region_count": "【整数】时装默认开放的染色分区数量（无需解锁），取值范围为非负整数且小于等于dye_region_count，默认值为2。",
-        "regions_per_voucher": "【整数】每张分区解锁券可解锁的染色分区数量，取值范围为正整数，默认值为1。",
-        "preset_switch_animation_duration": "【浮点数】切换染色方案预设时的动画播放时长（秒），取值范围为正浮点数，默认值为0.5。",
-        "preset_name_max_length": "【整数】染色方案预设名称的最大字符长度，取值范围为正整数，默认值为20。",
-        "daily_dye_material_reward": "【整数】每日活跃度宝箱可开出的基础染色材料数量，取值范围为非负整数，默认值为1。",
-        "affection_level_interval": "【整数】角色好感度等级奖励中，每多少级赠送一次染色材料，取值范围为正整数，默认值为5。",
-        "affection_dye_material_reward": "【整数】角色好感度等级奖励中，每次赠送的基础染色材料数量，取值范围为非负整数，默认值为5。",
-        "event_currency_to_dye_material_ratio": "【浮点数】活动货币兑换基础染色材料的比例（1活动货币可兑换的材料数量），取值范围为正浮点数，默认值为1.0。",
-        "dye_material_pack_size": "【整数】商城出售的染色材料包中包含的基础染色材料数量，取值范围为正整数，默认值为10。",
-        "dye_material_pack_price": "【整数】商城出售的染色材料包的售价（付费货币数量），取值范围为正整数，默认值为60。",
-        "preset_slot_extension_count": "【整数】通过付费可额外扩展的染色方案预设槽位数，取值范围为非负整数，默认值为2。",
-        "decompose_dye_material_ratio": "【浮点数】分解重复时装时，基于时装价值计算回收染色材料的比例系数，取值范围为0到1，默认值为0.1。",
-        "decompose_dye_material_reward": "【整数】分解一件重复时装获得的基础染色材料固定数量，取值范围为非负整数，默认值为5。",
-        "dye_material_stack_limit": "【整数】单个染色材料在背包中的最大堆叠数量，取值范围为正整数，默认值为999。",
-        "reveal_animation_duration": "【浮点数】染色应用成功后“焕新展示”动画的播放时长（秒），取值范围为正浮点数，默认值为2.5。",
-        "preset_data_size": "【整数】单个染色方案预设数据的最大存储大小（字节），取值范围为正整数，默认值为1024。",
-        "use_effect_id": "【字符串】道具的使用效果ID，用于关联道具使用时的逻辑处理，取值范围为预定义的EFFECT_枚举值，默认值为空字符串。"
+        "max_slots": "【整数】背包最大格位数，初始值为INITIAL_SLOT_COUNT，可通过扩容道具增加，上限为MAX_SLOT_LIMIT，默认值50",
+        "current_slots": "【整数】当前已使用的背包格位数，由系统实时计算，默认值0",
+        "items": "【对象数组】玩家背包中存放的道具列表，每个元素包含item_id、quantity、stack_limit等字段，默认空数组",
+        "materials": "【对象数组】玩家背包中存放的材料列表，结构与items类似，默认空数组",
+        "expand_item_id": "【字符串】扩容道具的唯一标识ID，用于扩容操作，默认值'expand_ticket'",
+        "expand_slot_increment": "【整数】每次扩容增加的格位数，默认值5",
+        "max_slot_limit": "【整数】背包最大格位上限，不可超过此值，默认值500",
+        "initial_slot_count": "【整数】玩家首次创建账号时的初始背包格位数，默认值50",
+        "overflow_mail_retention_days": "【整数】溢出邮件在邮箱中的保留天数，逾期自动删除，默认值30",
+        "overflow_mail_warning_days": "【整数】溢出邮件到期前提前提醒的天数，默认值7",
+        "daily_free_expand_limit": "【整数】每日可使用基础货币购买扩容道具的次数上限，默认值1",
+        "expand_fragment_required": "【整数】合成一个完整扩容道具所需的碎片数量，默认值10",
+        "expand_item_count_in_gift": "【整数】扩容礼包中包含的扩容道具数量，默认值3",
+        "expand_monthly_card_duration": "【整数】扩容月卡的有效天数，默认值30",
+        "activity_item_conversion_rate": "【浮点数】活动道具回收时转化为基础货币的比例，如1个活动道具=10金币，默认值10.0",
+        "activity_end_warning_days": "【整数】活动结束前提前提醒回收的天数，默认值3",
+        "quantity": "【整数】单个道具的当前持有数量，不可为负数，默认值0",
+        "stack_limit": "【整数】单个道具的最大堆叠数量，默认值999",
+        "item_type": "【枚举字符串】道具类型，取值范围：consumable/equipment/gift/skin/activity_item/material，默认值'consumable'",
+        "rarity": "【枚举字符串】道具稀有度，取值范围：N/R/SR/SSR，默认值'N'",
+        "is_stackable": "【布尔】道具是否可堆叠，true表示可堆叠，false表示不可堆叠，默认值true",
+        "use_conditions": "【对象数组】道具使用的前置条件列表，每个元素包含condition_type和condition_value，默认空数组",
+        "decompose_output": "【对象数组】道具分解后获得的材料/货币列表，每个元素包含output_type和output_quantity，默认空数组",
+        "sale_output": "【对象数组】道具出售后获得的货币列表，每个元素包含currency_type和currency_quantity，默认空数组",
+        "synthesis_recipes": "【对象数组】道具的合成配方列表，每个元素包含required_materials和output_item，默认空数组",
+        "inbox": "【对象数组】玩家邮件收件箱，每个元素包含mail_id、title、content、attachments、expire_time等字段，默认空数组",
+        "currency_balance": "【整数】玩家当前持有的基础货币数量，默认值0",
+        "activity_items": "【对象数组】活动道具列表，每个元素包含item_id和quantity，默认空数组",
+        "item_icon_size": "【整数】道具卡片图标的尺寸（像素），默认值64",
+        "sort_options": "【对象数组】排序选项列表，每个元素包含field和order，默认值[{'field':'acquire_time','order':'desc'}]",
+        "filter_options": "【对象数组】筛选条件列表，每个元素包含filter_type和filter_value，默认空数组",
+        "search_keyword": "【字符串】搜索关键字，用于模糊匹配道具名称，默认空字符串",
+        "write_queue": "【对象数组】写操作队列，按时间顺序排列，每个元素包含operation_type、data和timestamp，默认空数组",
+        "lock_status": "【布尔】当前写操作锁状态，true表示已锁定，false表示未锁定，默认值false",
+        "transaction_rollback": "【布尔】事务回滚标志，true表示需要回滚，false表示正常执行，默认值false",
+        "queue_mechanism": "【布尔】队列机制启用标志，true表示启用队列，false表示不启用，默认值true"
       },
       "relations_and_enums": {
         "跨表外键调用": {
-          "dye_system.current_dye_target_character_id": "引用 character_data 表中的角色ID，用于定位当前染色操作的目标角色。",
-          "dye_system.current_dye_target_outfit_id": "引用 item_definition 表中的时装道具ID，用于定位当前染色操作的目标时装。",
-          "dye_system.outfit_dye_data": "与 character_data.outfit_dye_data 字段数据格式一致，用于同步当前穿戴时装的染色方案。",
-          "item_definition.use_effect_id": "引用道具使用效果枚举，如 EFFECT_DYE_MATERIAL 表示染色材料，EFFECT_UNLOCK_SKIN 表示皮肤解锁。"
+          "items.item_id": "引用道具模板表（item_template）中的item_id，用于获取道具的静态属性（名称、图标、稀有度等）",
+          "materials.material_id": "引用材料模板表（material_template）中的material_id，用于获取材料的静态属性",
+          "expand_item_id": "引用道具模板表（item_template）中的item_id，用于标识扩容道具",
+          "decompose_output.output_type": "引用道具模板表或货币表，用于确定分解产出物类型",
+          "sale_output.currency_type": "引用货币表（currency_type），用于确定出售获得的货币类型",
+          "synthesis_recipes.required_materials": "引用材料模板表，用于确定合成所需材料",
+          "synthesis_recipes.output_item": "引用道具模板表，用于确定合成产出道具",
+          "inbox.mail_id": "引用邮件模板表（mail_template）中的mail_id，用于获取邮件静态内容",
+          "activity_items.item_id": "引用道具模板表，用于标识活动道具"
         },
         "状态码枚举": {
-          "use_effect_id": {
-            "EFFECT_DYE_MATERIAL": "染色材料使用效果，用于染色操作消耗。",
-            "EFFECT_EXP_POTION": "经验药水使用效果。",
-            "EFFECT_GIFT_BOX": "礼物盒使用效果。",
-            "EFFECT_UNLOCK_SKIN": "皮肤解锁使用效果。"
+          "item_type": {
+            "consumable": "消耗品",
+            "equipment": "装备/武器",
+            "gift": "礼物",
+            "skin": "皮肤/外观",
+            "activity_item": "活动道具",
+            "material": "材料"
           },
-          "染色分区状态": {
-            "locked": "染色分区未解锁，不可调整颜色。",
-            "unlocked": "染色分区已解锁，可自由调整颜色。"
+          "rarity": {
+            "N": "普通",
+            "R": "稀有",
+            "SR": "超稀有",
+            "SSR": "传说"
           },
-          "染色方案预设槽位状态": {
-            "empty": "预设槽位为空，可保存新方案。",
-            "occupied": "预设槽位已保存方案，可加载或覆盖。"
+          "is_stackable": {
+            "true": "可堆叠",
+            "false": "不可堆叠"
+          },
+          "lock_status": {
+            "true": "已锁定（写操作进行中）",
+            "false": "未锁定（可执行写操作）"
+          },
+          "transaction_rollback": {
+            "true": "需要回滚（操作失败）",
+            "false": "正常执行（操作成功）"
+          },
+          "queue_mechanism": {
+            "true": "启用队列（写操作排队执行）",
+            "false": "不启用队列（直接执行）"
           }
         }
       },
-      "implementation_notes": "【执行建议】1. 染色界面采用半屏模型展示+半屏调色面板布局，模型实时响应HSV调整，确保零延迟预览。2. 应用染色时需校验背包中染色材料数量是否充足，不足时应用按钮置灰并弹出快捷购买窗口。3. 每个时装独立存储染色方案数据，切换时装时自动加载对应时装的染色数据。4. 预设槽位数据需在本地缓存并定期同步至服务器，防止网络断线导致数据丢失。5. 染色操作不可逆，但玩家可随时重新染色覆盖，无需额外确认弹窗。6. 分解重复时装时，系统优先使用 decompose_dye_material_reward 固定值作为回收数量，若该值为0则回退使用 decompose_dye_material_ratio 比例计算。"
+      "implementation_notes": "【执行建议】1. 背包系统作为纯仓储工具，UI设计必须简洁，不引入角色模型或互动元素，采用半透明毛玻璃背景，不遮挡主场景。2. 所有道具的增删操作必须实时同步至数据库，采用事务回滚和写锁机制确保数据一致性。3. 道具列表采用虚拟列表技术，仅渲染可视区域内的卡片，支持大量道具的流畅加载。4. 排序、筛选、搜索操作仅在前端执行，不涉及后台数据变化。5. 溢出邮件保留30天，到期前7天发送提醒，逾期自动删除且道具永久消失。6. 扩容操作不可逆，已达上限时使用扩容道具无效。7. 活动道具回收在活动结束后自动执行，若玩家离线则在下次登录时执行。8. 所有操作按钮在条件不满足时置灰并显示提示，网络中断时操作回滚。"
     },
     "data": {
-      "dye_system": {
+      "inventory_system": {
         "continuous_formulas": {
-          "current_dye_target_character_id": {
+          "max_slots": {
+            "base": 50,
+            "growth": 5,
+            "type": "linear"
+          },
+          "current_slots": {
             "base": 0,
             "growth": 0,
             "type": "linear"
           },
-          "current_dye_target_outfit_id": {
-            "base": 0,
+          "items": {
+            "base": [],
             "growth": 0,
             "type": "linear"
           },
-          "dye_region_hsv_data": {
-            "base": "{}",
-            "growth": 0,
-            "type": "linear"
-          },
-          "current_dye_preset_data": {
-            "base": "{}",
-            "growth": 0,
-            "type": "linear"
-          },
-          "dye_preset_slot_data": {
-            "base": "{}",
-            "growth": 0,
-            "type": "linear"
-          },
-          "outfit_unlocked_region_count": {
-            "base": 2,
-            "growth": 0,
-            "type": "linear"
-          },
-          "outfit_dye_data": {
-            "base": "{}",
+          "materials": {
+            "base": [],
             "growth": 0,
             "type": "linear"
           }
         },
         "discrete_milestones": {
-          "is_dyeable": {
-            "0": false
-          },
-          "dye_region_count": {
-            "0": 0
-          },
-          "max_preset_slots": {
-            "0": 3
-          },
-          "dye_cost_per_region": {
-            "0": 1
-          },
-          "dye_cost_per_region_advanced": {
-            "0": 0
-          },
-          "default_open_region_count": {
-            "0": 2
-          },
-          "regions_per_voucher": {
-            "0": 1
-          },
-          "preset_switch_animation_duration": {
-            "0": 0.5
-          },
-          "preset_name_max_length": {
-            "0": 20
-          },
-          "daily_dye_material_reward": {
-            "0": 1
-          },
-          "affection_level_interval": {
-            "0": 5
-          },
-          "affection_dye_material_reward": {
-            "0": 5
-          },
-          "event_currency_to_dye_material_ratio": {
-            "0": 1.0
-          },
-          "dye_material_pack_size": {
-            "0": 10
-          },
-          "dye_material_pack_price": {
-            "0": 60
-          },
-          "preset_slot_extension_count": {
-            "0": 2
-          },
-          "decompose_dye_material_ratio": {
-            "0": 0.1
-          },
-          "decompose_dye_material_reward": {
-            "0": 5
-          },
-          "dye_material_stack_limit": {
-            "0": 999
-          },
-          "reveal_animation_duration": {
-            "0": 2.5
-          },
-          "preset_data_size": {
-            "0": 1024
+          "0": {
+            "expand_item_id": "expand_ticket",
+            "expand_slot_increment": 5,
+            "max_slot_limit": 500,
+            "initial_slot_count": 50,
+            "overflow_mail_retention_days": 30,
+            "overflow_mail_warning_days": 7,
+            "daily_free_expand_limit": 1,
+            "expand_fragment_required": 10,
+            "expand_item_count_in_gift": 3,
+            "expand_monthly_card_duration": 30,
+            "activity_item_conversion_rate": 10.0,
+            "activity_end_warning_days": 3
           }
         }
       },
-      "item_definition": {
-        "continuous_formulas": {},
-        "discrete_milestones": {
-          "use_effect_id": {
-            "0": ""
-          },
-          "dye_region_count": {
-            "0": 0
-          },
-          "is_dyeable": {
-            "0": false
-          }
-        }
-      },
-      "character_data": {
+      "item_management": {
         "continuous_formulas": {
-          "outfit_dye_data": {
-            "base": "{}",
+          "quantity": {
+            "base": 0,
+            "growth": 0,
+            "type": "linear"
+          },
+          "stack_limit": {
+            "base": 999,
             "growth": 0,
             "type": "linear"
           }
         },
-        "discrete_milestones": {}
+        "discrete_milestones": {
+          "0": {
+            "item_type": "consumable",
+            "rarity": "N",
+            "is_stackable": true,
+            "use_conditions": [],
+            "decompose_output": [],
+            "sale_output": [],
+            "synthesis_recipes": []
+          }
+        }
+      },
+      "player_inventory": {
+        "continuous_formulas": {
+          "max_slots": {
+            "base": 50,
+            "growth": 5,
+            "type": "linear"
+          },
+          "current_slots": {
+            "base": 0,
+            "growth": 0,
+            "type": "linear"
+          },
+          "items": {
+            "base": [],
+            "growth": 0,
+            "type": "linear"
+          },
+          "materials": {
+            "base": [],
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "0": {
+            "expand_item_id": "expand_ticket",
+            "expand_slot_increment": 5,
+            "max_slot_limit": 500,
+            "initial_slot_count": 50,
+            "overflow_mail_retention_days": 30,
+            "overflow_mail_warning_days": 7
+          }
+        }
+      },
+      "mail_system": {
+        "continuous_formulas": {
+          "inbox": {
+            "base": [],
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "0": {
+            "overflow_mail_retention_days": 30,
+            "overflow_mail_warning_days": 7
+          }
+        }
+      },
+      "economy_system": {
+        "continuous_formulas": {
+          "currency_balance": {
+            "base": 0,
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "0": {
+            "daily_free_expand_limit": 1,
+            "expand_fragment_required": 10,
+            "expand_item_count_in_gift": 3,
+            "expand_monthly_card_duration": 30,
+            "activity_item_conversion_rate": 10.0,
+            "activity_end_warning_days": 3
+          }
+        }
+      },
+      "activity_system": {
+        "continuous_formulas": {
+          "activity_items": {
+            "base": [],
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "0": {
+            "activity_item_conversion_rate": 10.0,
+            "activity_end_warning_days": 3
+          }
+        }
+      },
+      "ui_display": {
+        "continuous_formulas": {
+          "current_slots": {
+            "base": 0,
+            "growth": 0,
+            "type": "linear"
+          },
+          "max_slots": {
+            "base": 50,
+            "growth": 5,
+            "type": "linear"
+          },
+          "items": {
+            "base": [],
+            "growth": 0,
+            "type": "linear"
+          },
+          "materials": {
+            "base": [],
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "0": {
+            "item_icon_size": 64,
+            "sort_options": [
+              {
+                "field": "acquire_time",
+                "order": "desc"
+              }
+            ],
+            "filter_options": [],
+            "search_keyword": ""
+          }
+        }
+      },
+      "data_sync": {
+        "continuous_formulas": {
+          "write_queue": {
+            "base": [],
+            "growth": 0,
+            "type": "linear"
+          },
+          "lock_status": {
+            "base": false,
+            "growth": 0,
+            "type": "linear"
+          }
+        },
+        "discrete_milestones": {
+          "0": {
+            "transaction_rollback": false,
+            "queue_mechanism": true
+          }
+        }
       }
     }
   }

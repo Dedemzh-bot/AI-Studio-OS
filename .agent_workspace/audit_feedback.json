@@ -1,0 +1,45 @@
+{
+  "status": "reject",
+  "issues": [
+    {
+      "severity": "致命",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "四、前后端通信协议 (API & 数据对接) -> 4.1 核心接口",
+      "problem_description": "API 接口列表缺少【合成道具】所需的独立接口。系统策划案 2.2.3 节明确描述了合成道具的完整流程（选择配方、校验材料、消耗材料、产出道具），但程序蓝图中的 API 列表仅定义了 `SynthesizeItem`（请求参数为 `recipe_id`），缺少获取合成配方列表的接口（如 `GetSynthesisRecipes`）。前端无法获取配方数据，导致合成功能无法实现。",
+      "fix_suggestion": "在 API 列表中新增一个接口（如 `GetSynthesisRecipes`），用于返回当前玩家可用的所有合成配方列表及详情。该接口应返回配方 ID、所需材料列表、产出道具等信息。"
+    },
+    {
+      "severity": "致命",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) -> 3.1 持久化数据 (DB)",
+      "problem_description": "数据库表 `player_inventory` 中缺少 `expand_item_id` 字段的存储。系统策划案 2.3.2 节和数值说明书均定义了 `expand_item_id`（扩容道具 ID），但程序蓝图中的 `player_inventory` 表字段列表包含了 `expand_item_id`，然而在 `data_sync` 表中也出现了 `expand_item_id` 字段，存在字段归属混乱。更严重的是，`player_inventory` 表被设计为存储 `expand_item_id`，但该字段是道具模板的引用 ID，不应存储在玩家背包主表中，而应通过道具模板表查询。这会导致数据冗余和一致性问题。",
+      "fix_suggestion": "移除 `player_inventory` 表中的 `expand_item_id` 字段。扩容道具的 ID 应通过配置表（`system_numerical_data.json`）加载并缓存，在服务端校验时直接使用配置值，无需在玩家数据中存储。"
+    },
+    {
+      "severity": "高",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) -> 3.1 持久化数据 (DB)",
+      "problem_description": "数据库表 `player_inventory` 中缺少 `current_slots` 字段的存储。系统策划案 2.3.1 节和数值说明书均定义了 `current_slots`（当前已使用的背包格位数），但程序蓝图中的 `player_inventory` 表字段列表包含了 `current_slots`，然而该字段被描述为“由系统实时计算”。如果 `current_slots` 是实时计算的，则不应作为持久化字段存储在 DB 中。这会导致数据不一致：如果通过计算得出，则无需存储；如果存储，则可能因并发操作导致计算值与存储值不一致。",
+      "fix_suggestion": "明确 `current_slots` 的计算方式。建议将其作为实时计算字段（通过统计 `items` 和 `materials` 数组的长度得出），从 `player_inventory` 表的字段列表中移除，仅在 API 返回时动态计算。"
+    },
+    {
+      "severity": "高",
+      "responsible_agent": "tech_architect",
+      "target_file": "tech_blueprint.md",
+      "anchor": "三、后端逻辑划分 (Server) -> 3.1 持久化数据 (DB)",
+      "problem_description": "数据库表 `data_sync` 的设计存在严重问题。该表将 `write_queue`、`lock_status`、`transaction_rollback`、`queue_mechanism` 作为持久化字段存储。这些字段是运行时状态（写锁、队列、回滚标志），不应持久化到数据库。特别是 `lock_status` 和 `transaction_rollback`，如果服务端崩溃重启，持久化的锁状态会导致死锁。正确的做法是在内存中维护这些状态。",
+      "fix_suggestion": "移除 `data_sync` 表。将 `write_queue`、`lock_status`、`transaction_rollback`、`queue_mechanism` 改为服务端内存中的运行时变量（如 Redis 或进程内缓存），不进行持久化。数据库仅存储玩家数据（`player_inventory`、`player_mail`、`player_currency`、`activity_items`）。"
+    },
+    {
+      "severity": "中",
+      "responsible_agent": "ux_agent",
+      "target_file": "ui_interaction_blueprint.md",
+      "anchor": "界面一：背包主界面 -> 1. 核心交互需求表",
+      "problem_description": "UX Agent 在背包主界面中补全了【批量操作按钮】和【批量选择模式】功能（标记为 `[UX 自动补全]`），但系统策划案中并未定义任何批量操作逻辑（如批量分解、批量出售）。系统策划案 2.2.2 节仅描述了单个道具的分解/出售流程。新增批量操作需要后端支持批量处理接口（如 `BatchDecomposeItems`），但程序蓝图中未定义此类 API。这属于逻辑污染，可能导致前端实现了一个后端不支持的功能。",
+      "fix_suggestion": "移除批量操作按钮和批量选择模式的相关描述。如果未来需要批量操作，应由 System Planner 补充完整的需求文档，并由 Tech Architect 定义对应的后端 API。"
+    }
+  ]
+}

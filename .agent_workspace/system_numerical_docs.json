@@ -1,0 +1,87 @@
+{
+  "system_summary": "[背包系统] 该系统用于管理玩家所有非货币类道具的增删改查、使用、分解、合成、排序、筛选、搜索等基础操作，以及背包容量管理与溢出处理，作为全游戏道具数据的中央枢纽，确保所有系统对道具的操作最终同步至背包。",
+  "field_dictionary": {
+    "max_slots": "【整数】背包最大格位数，初始值为INITIAL_SLOT_COUNT，可通过扩容道具增加，上限为MAX_SLOT_LIMIT，默认值50",
+    "current_slots": "【整数】当前已使用的背包格位数，由系统实时计算，默认值0",
+    "items": "【对象数组】玩家背包中存放的道具列表，每个元素包含item_id、quantity、stack_limit等字段，默认空数组",
+    "materials": "【对象数组】玩家背包中存放的材料列表，结构与items类似，默认空数组",
+    "expand_item_id": "【字符串】扩容道具的唯一标识ID，用于扩容操作，默认值'expand_ticket'",
+    "expand_slot_increment": "【整数】每次扩容增加的格位数，默认值5",
+    "max_slot_limit": "【整数】背包最大格位上限，不可超过此值，默认值500",
+    "initial_slot_count": "【整数】玩家首次创建账号时的初始背包格位数，默认值50",
+    "overflow_mail_retention_days": "【整数】溢出邮件在邮箱中的保留天数，逾期自动删除，默认值30",
+    "overflow_mail_warning_days": "【整数】溢出邮件到期前提前提醒的天数，默认值7",
+    "daily_free_expand_limit": "【整数】每日可使用基础货币购买扩容道具的次数上限，默认值1",
+    "expand_fragment_required": "【整数】合成一个完整扩容道具所需的碎片数量，默认值10",
+    "expand_item_count_in_gift": "【整数】扩容礼包中包含的扩容道具数量，默认值3",
+    "expand_monthly_card_duration": "【整数】扩容月卡的有效天数，默认值30",
+    "activity_item_conversion_rate": "【浮点数】活动道具回收时转化为基础货币的比例，如1个活动道具=10金币，默认值10.0",
+    "activity_end_warning_days": "【整数】活动结束前提前提醒回收的天数，默认值3",
+    "quantity": "【整数】单个道具的当前持有数量，不可为负数，默认值0",
+    "stack_limit": "【整数】单个道具的最大堆叠数量，默认值999",
+    "item_type": "【枚举字符串】道具类型，取值范围：consumable/equipment/gift/skin/activity_item/material，默认值'consumable'",
+    "rarity": "【枚举字符串】道具稀有度，取值范围：N/R/SR/SSR，默认值'N'",
+    "is_stackable": "【布尔】道具是否可堆叠，true表示可堆叠，false表示不可堆叠，默认值true",
+    "use_conditions": "【对象数组】道具使用的前置条件列表，每个元素包含condition_type和condition_value，默认空数组",
+    "decompose_output": "【对象数组】道具分解后获得的材料/货币列表，每个元素包含output_type和output_quantity，默认空数组",
+    "sale_output": "【对象数组】道具出售后获得的货币列表，每个元素包含currency_type和currency_quantity，默认空数组",
+    "synthesis_recipes": "【对象数组】道具的合成配方列表，每个元素包含required_materials和output_item，默认空数组",
+    "inbox": "【对象数组】玩家邮件收件箱，每个元素包含mail_id、title、content、attachments、expire_time等字段，默认空数组",
+    "currency_balance": "【整数】玩家当前持有的基础货币数量，默认值0",
+    "activity_items": "【对象数组】活动道具列表，每个元素包含item_id和quantity，默认空数组",
+    "item_icon_size": "【整数】道具卡片图标的尺寸（像素），默认值64",
+    "sort_options": "【对象数组】排序选项列表，每个元素包含field和order，默认值[{'field':'acquire_time','order':'desc'}]",
+    "filter_options": "【对象数组】筛选条件列表，每个元素包含filter_type和filter_value，默认空数组",
+    "search_keyword": "【字符串】搜索关键字，用于模糊匹配道具名称，默认空字符串",
+    "write_queue": "【对象数组】写操作队列，按时间顺序排列，每个元素包含operation_type、data和timestamp，默认空数组",
+    "lock_status": "【布尔】当前写操作锁状态，true表示已锁定，false表示未锁定，默认值false",
+    "transaction_rollback": "【布尔】事务回滚标志，true表示需要回滚，false表示正常执行，默认值false",
+    "queue_mechanism": "【布尔】队列机制启用标志，true表示启用队列，false表示不启用，默认值true"
+  },
+  "relations_and_enums": {
+    "跨表外键调用": {
+      "items.item_id": "引用道具模板表（item_template）中的item_id，用于获取道具的静态属性（名称、图标、稀有度等）",
+      "materials.material_id": "引用材料模板表（material_template）中的material_id，用于获取材料的静态属性",
+      "expand_item_id": "引用道具模板表（item_template）中的item_id，用于标识扩容道具",
+      "decompose_output.output_type": "引用道具模板表或货币表，用于确定分解产出物类型",
+      "sale_output.currency_type": "引用货币表（currency_type），用于确定出售获得的货币类型",
+      "synthesis_recipes.required_materials": "引用材料模板表，用于确定合成所需材料",
+      "synthesis_recipes.output_item": "引用道具模板表，用于确定合成产出道具",
+      "inbox.mail_id": "引用邮件模板表（mail_template）中的mail_id，用于获取邮件静态内容",
+      "activity_items.item_id": "引用道具模板表，用于标识活动道具"
+    },
+    "状态码枚举": {
+      "item_type": {
+        "consumable": "消耗品",
+        "equipment": "装备/武器",
+        "gift": "礼物",
+        "skin": "皮肤/外观",
+        "activity_item": "活动道具",
+        "material": "材料"
+      },
+      "rarity": {
+        "N": "普通",
+        "R": "稀有",
+        "SR": "超稀有",
+        "SSR": "传说"
+      },
+      "is_stackable": {
+        "true": "可堆叠",
+        "false": "不可堆叠"
+      },
+      "lock_status": {
+        "true": "已锁定（写操作进行中）",
+        "false": "未锁定（可执行写操作）"
+      },
+      "transaction_rollback": {
+        "true": "需要回滚（操作失败）",
+        "false": "正常执行（操作成功）"
+      },
+      "queue_mechanism": {
+        "true": "启用队列（写操作排队执行）",
+        "false": "不启用队列（直接执行）"
+      }
+    }
+  },
+  "implementation_notes": "【执行建议】1. 背包系统作为纯仓储工具，UI设计必须简洁，不引入角色模型或互动元素，采用半透明毛玻璃背景，不遮挡主场景。2. 所有道具的增删操作必须实时同步至数据库，采用事务回滚和写锁机制确保数据一致性。3. 道具列表采用虚拟列表技术，仅渲染可视区域内的卡片，支持大量道具的流畅加载。4. 排序、筛选、搜索操作仅在前端执行，不涉及后台数据变化。5. 溢出邮件保留30天，到期前7天发送提醒，逾期自动删除且道具永久消失。6. 扩容操作不可逆，已达上限时使用扩容道具无效。7. 活动道具回收在活动结束后自动执行，若玩家离线则在下次登录时执行。8. 所有操作按钮在条件不满足时置灰并显示提示，网络中断时操作回滚。"
+}

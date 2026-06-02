@@ -15,5 +15,15 @@
       "min_quality": 1,
       "max_quality": 5
     }
+  },
+  "/api/inventory/add",
+  "/api/inventory/remove",
+  "/api/inventory/has",
+  {
+    "ITEM_NOT_FOUND": 1001,
+    "INSUFFICIENT_QUANTITY": 1002,
+    "TEMP_STORAGE_FULL": 1003,
+    "ITEM_EXPIRED": 1004,
+    "NETWORK_ERROR": 1005
   }
 ]

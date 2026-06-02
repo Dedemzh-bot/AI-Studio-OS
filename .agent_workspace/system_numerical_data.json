@@ -1,0 +1,207 @@
+{
+  "inventory_system": {
+    "continuous_formulas": {
+      "max_slots": {
+        "base": 50,
+        "growth": 5,
+        "type": "linear"
+      },
+      "current_slots": {
+        "base": 0,
+        "growth": 0,
+        "type": "linear"
+      },
+      "items": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      },
+      "materials": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "0": {
+        "expand_item_id": "expand_ticket",
+        "expand_slot_increment": 5,
+        "max_slot_limit": 500,
+        "initial_slot_count": 50,
+        "overflow_mail_retention_days": 30,
+        "overflow_mail_warning_days": 7,
+        "daily_free_expand_limit": 1,
+        "expand_fragment_required": 10,
+        "expand_item_count_in_gift": 3,
+        "expand_monthly_card_duration": 30,
+        "activity_item_conversion_rate": 10.0,
+        "activity_end_warning_days": 3
+      }
+    }
+  },
+  "item_management": {
+    "continuous_formulas": {
+      "quantity": {
+        "base": 0,
+        "growth": 0,
+        "type": "linear"
+      },
+      "stack_limit": {
+        "base": 999,
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "0": {
+        "item_type": "consumable",
+        "rarity": "N",
+        "is_stackable": true,
+        "use_conditions": [],
+        "decompose_output": [],
+        "sale_output": [],
+        "synthesis_recipes": []
+      }
+    }
+  },
+  "player_inventory": {
+    "continuous_formulas": {
+      "max_slots": {
+        "base": 50,
+        "growth": 5,
+        "type": "linear"
+      },
+      "current_slots": {
+        "base": 0,
+        "growth": 0,
+        "type": "linear"
+      },
+      "items": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      },
+      "materials": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "0": {
+        "expand_item_id": "expand_ticket",
+        "expand_slot_increment": 5,
+        "max_slot_limit": 500,
+        "initial_slot_count": 50,
+        "overflow_mail_retention_days": 30,
+        "overflow_mail_warning_days": 7
+      }
+    }
+  },
+  "mail_system": {
+    "continuous_formulas": {
+      "inbox": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "0": {
+        "overflow_mail_retention_days": 30,
+        "overflow_mail_warning_days": 7
+      }
+    }
+  },
+  "economy_system": {
+    "continuous_formulas": {
+      "currency_balance": {
+        "base": 0,
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "0": {
+        "daily_free_expand_limit": 1,
+        "expand_fragment_required": 10,
+        "expand_item_count_in_gift": 3,
+        "expand_monthly_card_duration": 30,
+        "activity_item_conversion_rate": 10.0,
+        "activity_end_warning_days": 3
+      }
+    }
+  },
+  "activity_system": {
+    "continuous_formulas": {
+      "activity_items": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "0": {
+        "activity_item_conversion_rate": 10.0,
+        "activity_end_warning_days": 3
+      }
+    }
+  },
+  "ui_display": {
+    "continuous_formulas": {
+      "current_slots": {
+        "base": 0,
+        "growth": 0,
+        "type": "linear"
+      },
+      "max_slots": {
+        "base": 50,
+        "growth": 5,
+        "type": "linear"
+      },
+      "items": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      },
+      "materials": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "0": {
+        "item_icon_size": 64,
+        "sort_options": [
+          {
+            "field": "acquire_time",
+            "order": "desc"
+          }
+        ],
+        "filter_options": [],
+        "search_keyword": ""
+      }
+    }
+  },
+  "data_sync": {
+    "continuous_formulas": {
+      "write_queue": {
+        "base": [],
+        "growth": 0,
+        "type": "linear"
+      },
+      "lock_status": {
+        "base": false,
+        "growth": 0,
+        "type": "linear"
+      }
+    },
+    "discrete_milestones": {
+      "0": {
+        "transaction_rollback": false,
+        "queue_mechanism": true
+      }
+    }
+  }
+}

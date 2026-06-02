@@ -1,0 +1,6 @@
+[
+  {
+    "transaction_rollback": false,
+    "queue_mechanism": true
+  }
+]

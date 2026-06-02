@@ -1,0 +1,10 @@
+[
+  {
+    "daily_free_expand_limit": 1,
+    "expand_fragment_required": 10,
+    "expand_item_count_in_gift": 3,
+    "expand_monthly_card_duration": 30,
+    "activity_item_conversion_rate": 10.0,
+    "activity_end_warning_days": 3
+  }
+]

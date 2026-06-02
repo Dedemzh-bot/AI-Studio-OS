@@ -1,0 +1,11 @@
+[
+  {
+    "item_type": "consumable",
+    "rarity": "N",
+    "is_stackable": true,
+    "use_conditions": [],
+    "decompose_output": [],
+    "sale_output": [],
+    "synthesis_recipes": []
+  }
+]

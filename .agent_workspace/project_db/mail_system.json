@@ -1,3 +1,7 @@
 [
-  {}
+  {},
+  {
+    "overflow_mail_retention_days": 30,
+    "overflow_mail_warning_days": 7
+  }
 ]

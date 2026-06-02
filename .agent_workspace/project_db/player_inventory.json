@@ -1,0 +1,10 @@
+[
+  {
+    "expand_item_id": "expand_ticket",
+    "expand_slot_increment": 5,
+    "max_slot_limit": 500,
+    "initial_slot_count": 50,
+    "overflow_mail_retention_days": 30,
+    "overflow_mail_warning_days": 7
+  }
+]

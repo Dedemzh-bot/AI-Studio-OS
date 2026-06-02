@@ -1,0 +1,118 @@
+[
+  {
+    "module_name": "inventory_system",
+    "continuous_fields": [
+      "max_slots",
+      "current_slots",
+      "items",
+      "materials"
+    ],
+    "discrete_fields": [
+      "expand_item_id",
+      "expand_slot_increment",
+      "max_slot_limit",
+      "initial_slot_count",
+      "overflow_mail_retention_days",
+      "overflow_mail_warning_days",
+      "daily_free_expand_limit",
+      "expand_fragment_required",
+      "expand_item_count_in_gift",
+      "expand_monthly_card_duration",
+      "activity_item_conversion_rate",
+      "activity_end_warning_days"
+    ]
+  },
+  {
+    "module_name": "item_management",
+    "continuous_fields": [
+      "quantity",
+      "stack_limit"
+    ],
+    "discrete_fields": [
+      "item_type",
+      "rarity",
+      "is_stackable",
+      "use_conditions",
+      "decompose_output",
+      "sale_output",
+      "synthesis_recipes"
+    ]
+  },
+  {
+    "module_name": "player_inventory",
+    "continuous_fields": [
+      "max_slots",
+      "current_slots",
+      "items",
+      "materials"
+    ],
+    "discrete_fields": [
+      "expand_item_id",
+      "expand_slot_increment",
+      "max_slot_limit",
+      "initial_slot_count",
+      "overflow_mail_retention_days",
+      "overflow_mail_warning_days"
+    ]
+  },
+  {
+    "module_name": "mail_system",
+    "continuous_fields": [
+      "inbox"
+    ],
+    "discrete_fields": [
+      "overflow_mail_retention_days",
+      "overflow_mail_warning_days"
+    ]
+  },
+  {
+    "module_name": "economy_system",
+    "continuous_fields": [
+      "currency_balance"
+    ],
+    "discrete_fields": [
+      "daily_free_expand_limit",
+      "expand_fragment_required",
+      "expand_item_count_in_gift",
+      "expand_monthly_card_duration",
+      "activity_item_conversion_rate",
+      "activity_end_warning_days"
+    ]
+  },
+  {
+    "module_name": "activity_system",
+    "continuous_fields": [
+      "activity_items"
+    ],
+    "discrete_fields": [
+      "activity_item_conversion_rate",
+      "activity_end_warning_days"
+    ]
+  },
+  {
+    "module_name": "ui_display",
+    "continuous_fields": [
+      "current_slots",
+      "max_slots",
+      "items",
+      "materials"
+    ],
+    "discrete_fields": [
+      "item_icon_size",
+      "sort_options",
+      "filter_options",
+      "search_keyword"
+    ]
+  },
+  {
+    "module_name": "data_sync",
+    "continuous_fields": [
+      "write_queue",
+      "lock_status"
+    ],
+    "discrete_fields": [
+      "transaction_rollback",
+      "queue_mechanism"
+    ]
+  }
+]

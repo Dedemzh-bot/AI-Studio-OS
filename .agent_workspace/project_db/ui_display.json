@@ -1,0 +1,13 @@
+[
+  {
+    "item_icon_size": 64,
+    "sort_options": [
+      {
+        "field": "acquire_time",
+        "order": "desc"
+      }
+    ],
+    "filter_options": [],
+    "search_keyword": ""
+  }
+]
