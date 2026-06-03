@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	恭喜获胜！下一场战斗马上开始。	恭喜獲勝！下一場戰鬥馬上開始。	勝利おめでとうございます！間もなく次の戦闘が始まります。	승리를 축하합니다! 다음 전투가 곧 시작됩니다.	Victory! The next round is about to begin.						0	
-2	光凭操作，弥补不了意识的差距。	光憑操作，彌補不了意識的差距。	腕前だけでは、数の差は埋められないの。	단순한 물리적 조작만으로는 의식의 세밀한 차이까지 메꿀 수 없지.	No amount of gear compensates for not knowing what you're doing.						0	

@@ -1,7 +1,0 @@
-id	怪物id	//备注	效果类型（1触发buff 2结算获得额外奖励）	buff参数｛作用对象（1我方全体）,buff类型（1skillinfo 2skillfix 3modifier）,id｝	奖励参数（gdpl）	怪物出现提示
-ID	MonsterId	Comment	EffectType	BuffParameter	RewardParameter	AppearTips
-1		绿色怪物-恢复和能量	1	{1,3,3810101}		
-2		金色怪物-大量积分				
-3		橙色怪物-大量减伤和霸体	1	{1,3,3810102}		
-4		红色怪物-获得货币	2		{{4,3,2,1,2}}	
-5		紫色怪物-输出大幅提高	1	{1,3,3810103}		

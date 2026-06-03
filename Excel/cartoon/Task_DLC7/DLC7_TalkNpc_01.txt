@@ -1,4 +1,0 @@
-﻿字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Speaker	WwiseEventID	zh_CN	disable	Remark
-page1.1	T惊慌失措的男人	Play_Vo_dlc7act1_man01_01	别过来！别过来！！	0	
-page1.2	T恩雅羽蜕	Play_Vo_dlc7act1_girl011_03	别怕，我们是来救你的。	0	

@@ -1,5 +1,0 @@
-﻿Id,不能变	说明	动画类型	动画名	路径	注释
-Id	Explain	Type	Name	Path	Nul
-1	待机	spine	sp_npc405_01_q_stand		
-2	开心	spine	sp_npc405_01_q_happy		
-3	打招呼	spine	sp_npc405_01_q_hello		

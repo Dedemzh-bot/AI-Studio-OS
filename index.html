@@ -67,7 +67,7 @@ body{display:flex;}
     <button class="nav-btn active" data-tab="write">设计项目</button>
     <button class="nav-btn" data-tab="memory">记忆积累</button>
     <button class="nav-btn" data-tab="history">存档项目</button>
-    <button class="nav-btn" data-tab="config">配置表</button>
+    <button class="nav-btn" data-tab="config">配置表-待测试</button>
 </div>
 
 <div id="mainContent">
@@ -238,8 +238,6 @@ function hasBoldTag(text) {
     for (const t of BOLD_TAGS) {
         if (text.includes(t)) return true;
     }
-    // 兜底：常见审批关键词
-    if (/\[(UX|UI)\s/.test(text)) return true;
     return false;
 }
 

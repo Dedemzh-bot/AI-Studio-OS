@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	嘿嘿，鼎鼎大名的分析员，在路上有没有见到一些<orange>不间断能源组</>？	嘿嘿，鼎鼎大名的分析員，在路上有沒有看到一些<orange>不間斷能源組</>？	へへ、噂の分析員さん。途中で<orange>無停電電源装置</>を見なかった？	헤헤… 분석가, 혹시 오는 길에 <orange>무정전 에너지원</> 본 적 있어?	Hehe, might you have come across any <orange>uninterruptible power supplies</> on your way, great and prestigious Adjutant?						0	
-2	那个……是我丢在那里的，因为实在是背不动了！	那個……是我丟在那裡的，因為實在是背不動了！	あれはね……私があそこに置いたの。重過ぎて歩けなくて！	그건… 내가 버린 거야. 너무 무거워서 버리고 왔거든!	Um... I left it back there. It was just sooo heavy!						0	
-3	如果！如果方便的话！可不可以帮我带过来呀！	如果！如果方便的話！可不可以幫我帶過來呀！	もし良かったら！持ってきてくれない？	만약에! 만약 괜찮다면… 대신 좀 들고 와줄 수 있을까!	If, and I mean if it's convenient... Would you mind giving me a hand carrying it here?						0	
-4	没有备用能源供应的话……	沒有備用能源供應的話……	エネルギーの補給がないと……	예비 에너지 공급이 없으면…	If we don't have a backup energy supply...						0	
-5	芙提雅·伊格妮丝专用网络协议分析程序都没办法启动了！	芙提雅·伊格妮絲專用網路協議分析程式都沒辦法啟動了！	フリティア・イグニス専用のネットワークプロトコル分析プログラムも起動できないよ！	프티야 이그니스의 메인 네트워크 분석 프로그램을 사용할 수 없거든!	Then Fritia Ignis' dedicated network coordination analysis program won't be able to function!						0	

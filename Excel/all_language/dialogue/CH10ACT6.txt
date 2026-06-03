@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	分析员，请指明追击的方向。	分析員，請指明追擊的方向。	分析員、追撃の方向を示してください。	분석가님, 추격할 방향을 알려주세요.	Adjutant, please confirm the direction of the pursuit.						0	
-2	不用担心沿途的阻碍，我都会解决掉。	不用擔心沿路的阻礙，我都會解決掉。	邪魔者の心配はいらない、残さず片付けてやる。	가는 길에 있는 적들은 내가 처리할 테니 걱정 마.	You don't have to worry about any obstacles on the way. I'll take care of them all.						0	

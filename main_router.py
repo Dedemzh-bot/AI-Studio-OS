@@ -1210,7 +1210,7 @@ def main():
                 loop_count += 1
                 _save_retry_count("final_audit", loop_count)
                 print(f"[Router] 本轮修正完毕，下一轮心跳重新审计 ({loop_count}/{max_loops})")
-                # 保持 pending_final_audit，不写状态（下轮自动重审）
+                write_state("pending_final_audit")
 
         elif current_state == "ui_done":
             print("[Router] UX 交互蓝图已完成，工作流结束。")

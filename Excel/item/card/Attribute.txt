@@ -1,8 +1,0 @@
-﻿AttributeID	备注	文本	详细描述	图标1	是否在总览展示（不填默认展示，配1不展示）
-ID	Comment	Des1	Des2	Icon1	IsShow
-1	动能	ui.TxtDamageType.8	ui.TXTDamageType.3	1400201	
-2	高热	ui.TxtDamageType.9	ui.TXTDamageType.4	1400203	
-3	低温	ui.TxtDamageType.10	ui.TXTDamageType.5	1400204	
-4	电击	ui.TxtDamageType.11	ui.TXTDamageType.6	1400205	
-5	特异	ui.TxtDamageType.12	ui.TXTDamageType.7	1400202	
-6	鸣雷	ui.TxtDamageType.12	ui.TXTDamageType.7	1400206	1

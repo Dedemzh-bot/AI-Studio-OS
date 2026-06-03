@@ -1,7 +1,0 @@
-区域ID	注释	区域开启时间	区域关闭时间	空气墙ID	去域名	路径	遮罩坐标	信息坐标	解锁所需开拓等级
-Id	Des	StartTime	EndTime	WaLLId	AreaName	Path	Position	InfoPosition	UnlockLevel
-1	区域1	[202401010400]	[202401010400]		ui.TxtVircaptureNewArea1	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area11.uw_fight_catch_area11_C	{-415,-656}	{-415,-656}	15
-2	区域2	[202401010400]	[202406071640]	{2201,2202}	ui.TxtVircaptureNewArea2	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area07.uw_fight_catch_area07_C	{320,-512}	{320,-512}	17
-3	区域3	[202401010400]	[202406071640]	{2301,2302,2303,2304}	ui.TxtVircaptureNewArea3	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area08.uw_fight_catch_area08_C	{-275,0}	{-275,0}	20
-4	区域4	[202401010400]	[202406071700]		ui.TxtVircaptureUnknown	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area09.uw_fight_catch_area09_C	{-378,816}	{-378,816}	-1
-5	区域5	[202401010400]	[202406071700]		ui.TxtVircaptureUnknown	/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area09.uw_fight_catch_area09_C	{672,574}	{672,574}	-1

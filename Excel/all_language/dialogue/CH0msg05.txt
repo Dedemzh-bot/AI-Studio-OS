@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	那东西是……泰坦？！可能是冲着逃生舱来的！	 那東西是……泰坦？！可能是衝著逃生艙來的！ 	何かが脱出ポッドを狙っています！これは……タイタン！？	저건… 타이탄?! 아무래도 탈출선을 향해 달려온 것 같아요!	Is that... that's a Titan!? It came for the pod?						0	
-2	没错……没错……泰坦！	 沒錯……沒錯……泰坦！ 	そう……間違いない……タイタンだ！	틀림없어… 타이탄이야!	Yeah... it is... that's a Titan!						0	
-auto_17	里芙·贝斯特拉申请使用<orange>化身系统</>！消灭目标泰坦！	里芙·貝斯特拉申請使用<orange>化身系統</>！消滅目標泰坦！	<orange>アバターシステム</>の使用許可を！タイタンを撃破する！	리브 베스트라 <orange>아바타 시스템</> 사용 권한을 요청한다! 타깃은 타이탄이다!	Requesting permission to activate the <orange>Apo-Sys</>! Only way I can deal with a Titan...						0	
-auto_22	卡罗琳！	卡羅琳！	カロリン！	캐롤린!	Caroline!						0	
-4	唉……解锁指令提交了，需要一点时间！再忍耐一下！	 唉……解鎖指令提交了，需要一點時間！再忍耐一下！ 	解錠指令は出ました、でももう少し時間がかかります！持ち堪えて！	방금… 막 해제 명령을 내려서 시간이 필요해요! 조금만 더 버텨주세요!	Ach... unlock signal won't send... hang in there a second, let me see what I can do!						0	

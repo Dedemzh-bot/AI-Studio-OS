@@ -1,3 +1,0 @@
-buffid	名称	描述	描述中的数值	备注	描述备注	buff标签	buff标签备注	buff类型（1.全局 2.个人)	SkillInfoId	品质
-ID	Name	Des	BuffParamPerCount	Comment	DesComment	BuffTag	TagComment	ApplyType	Modifire	Quality
-1			{50}	攻击力+50%				1		

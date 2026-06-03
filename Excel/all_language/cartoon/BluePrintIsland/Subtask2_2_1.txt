@@ -1,8 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-page1.1	没脸见人了……没脸见人了……	沒臉見人了……沒臉見人了……	人に会わせる顔がない……人に会わせる顔がない……	얼굴을 못 들고 다니겠어… 얼굴을 못 들고 다니겠어…	I can't face anyone... I just can't...						0	dlc30蓝图岛对话
-choice01	你怎么回事？	你是怎麼回事？	どうしたんだ？	무슨 일이야?	What's going on now?						0	dlc30蓝图岛对话
-page2.1	我的面容数据落在那边了！我社恐，没有面容数据不敢见人。	我的面容數據掉在那邊了！我社恐，沒有面容數據不敢見人。	私の顔データをなくしてしまいました！人見知りなんで、データがないと人に会えないんです。	내 얼굴 데이터가 저쪽에 떨어졌어! 난 대인기피증이 있어서 얼굴 데이터 없이는 사람들을 못 만나.	I left my facial data over there! I'm socially anxious. Without it, I can't face anybody.						0	dlc30蓝图岛对话
-page2.2	可你明明戴着面具？	可是你明明戴著面具？	仮面をしているのに？	근데 넌 가면을 쓰고 있잖아?	But you're wearing a mask?						0	dlc30蓝图岛对话
-page2.3	其实面具下面还是一张面具！……算了那不重要，重要的是我要没脸见人了！	其實面具下面還是一張面具！……算了那不重要，重要的是我要沒臉見人了！	仮面の下にも仮面をつけています！……じゃなくて、とにかく人に合わせる顔がないのです！	사실 가면 밑에도 가면이 있어! … 아니다, 그건 중요하지 않고, 중요한 건 이제 사람들을 볼 낯이 없다는 거야!	But underneath this mask is... another mask! But that's not the point. Right now, I just can't face anyone!						0	dlc30蓝图岛对话
-page2.4	拜托了，只要能帮我找回来，我就告诉你们一条对建设岛屿非常有用的情报！	拜託了，只要能幫我找回來，我就告訴你們一則對建設島嶼非常有用的情報！	お願いします、見つけてきてくれませんか？島の開発に役立つ情報を教えますので！	부탁이야, 찾아만 준다면 섬 건설에 아주 유용한 정보를 알려줄게!	Please, if you help me get it back, I'll give you a really useful tip for building up the island!						0	dlc30蓝图岛对话

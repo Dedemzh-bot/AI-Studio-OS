@@ -1,5 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	晴			没看见我们刚才击败了泰坦吗？	0	
-2		0	猫汐尔			我猜不管是什么人，只要靠近都会遭到攻击。	0	
-3		0	猫汐尔			狼有这种护食的习性。	0	

@@ -1,6 +1,0 @@
-DifficultID	难度名称	难度名称备注	icon	难度级别（品质）	难度描述	难度描述备注	解锁条件（需完成x难度）	地图随机库	货币奖励系数（万分比）	科技点奖励系数（万分比）	视野（格数，-1表示全开）
-ID	Name	NameComment	Icon	DifficultTypeId	Des	DesComment	UnlockCondition	MapList	CoinMultiple	TechnologyMultiple	MapView
-1		平坦		1	{{"rogue.difficultDes101"},{"rogue.difficultDes102"}}			{{101,5000},{102,5000}}	8000	8000	-1
-2		蜿蜒		2	{{"rogue.difficultDes201"},{"rogue.difficultDes202"}}			{{101,5000},{102,5000}}	10000	10000	4
-3		崎岖		3	{{"rogue.difficultDes301"},{"rogue.difficultDes302"},{"rogue.difficultDes303"}}		2	{{101,5000},{102,5000}}	11500	11500	3
-4		绝境		4	{{"rogue.difficultDes401"},{"rogue.difficultDes402"},{"rogue.difficultDes403"}}		3	{{101,5000},{102,5000}}	11500	11500	2

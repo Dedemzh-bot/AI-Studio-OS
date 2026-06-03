@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	<orange>二型验证机甲</>在哪？连影子都没有呢！	<orange>二型驗證機甲</>在哪？連影子都沒有呢！	<orange>2型検証機甲</>はどこ？全然見当たらないわよ！	<orange>Type.II 인증 기갑</>이 어디 있다는 거야? 아무리 찾아도 없잖아.	The <orange>Ni-Type Mech</>... is it here? If it is, I'm not seeing it!						0	
-2	喂！卡罗琳，你给我们的回收物资清单该不会有问题吧？	喂！卡羅琳，你給我們的回收物資清單該不會有問題吧？	カロリン！寄越した回収物資リストは問題ないのよね？	이봐! 캐롤린, 회수 물자 리스트에 아무 문제 없는 거 확실해?	Caroline, did you actually check that salvage manifest before you gave it to us?						0	
-3	我保证，绝对没问题。	我保證，絕對沒問題。	問題ありません。私が保証します。	네. 분명히 문제없을 거예요.	The manifest is correct, it was checked.						0	
-4	别分神，先摆脱这群郊狼。	別分心，先擺脫這群郊狼。	集中しろ、まずはコヨーテを撒いてからだ。	일단은 집중해. 이 코요테 녀석들부터 해치우자고.	Focus... deal with the Coyotes.						0	

@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	让我看看，这群老鼠会把<orange>违禁物</>藏在哪儿？	讓我看看，這群老鼠會把<orange>違禁物</>藏在哪？	さあ、鼠たちは<orange>禁制物</>をどこに隠したのかしら？	어디 보자… 이 쥐 같은 녀석들이 <orange>금기물</>들을 어디다 뒀으려나?	Let's see, where did these creeps hide the <orange>forbidden object</> at?						0	
-4	认真点，别放过任何可疑的地方。	認真點，別放過任何可疑的地方。	しっかり見て、怪しい所を見逃すな。	집중해. 의심 가는 부분은 하나도 놓치지 말고 수색해 보자.	Don't look past anything suspicious.						0	

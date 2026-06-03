@@ -1,4 +1,0 @@
-ID（范围1-31）	备注	标题	时间段-开始	时间段-结束	体力数量
-Id	Null	Title	TimeStart	TimeEnd	VigourNum
-1	午餐补给	ui.VigourLunch	[1100]	[2359]	30
-2	晚餐补给	ui.VigourSupper	[1700]	[2359]	30

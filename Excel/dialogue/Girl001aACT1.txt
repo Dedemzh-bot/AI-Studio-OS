@@ -1,4 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	安卡希雅辉夜			playername，注意保护好自己，你不能受伤。	0	
-2		0	安卡希雅辉夜			现在只有你能守护那些模型了。	0	

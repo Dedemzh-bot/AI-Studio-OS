@@ -1,6 +1,0 @@
-﻿任务组分页ID	开始时间	结束时间	分页名	解锁条件(例{{1,1}})（1账号等级 2前置关卡 3获得某个道具 20开拓等级）
-GroupID	StartTime	EndTime	GroupDes	Condition
-1			vircapture.task_title_1	{{20,5}}
-2			vircapture.task_title_2	{{20,5}}
-3	[202501230400]	[202503060400]	vircapture.task_title_3	{{20,5}}
-4			vircapture.task_title_4	{{20,5}}

@@ -1,8 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-page1.1	厨师是带回来了，但我们的基础建设还没跟上。	廚師是帶回來了，但我們的基礎建設還沒跟上。	料理人を連れてきたけど、基礎的な施設は全然作れてないな。	요리사는 데려왔지만, 우리의 기초 시설이 아직 못 따라주고 있어.	The chef's here, but I still haven't finished the infrastructure.						0	dlc30蓝图岛对话
-page1.2	总要让传说级厨师有可以发光发热的地方吧。	總要讓傳說級廚師有可以發光發熱的地方吧。	伝説級の料理人を活かせる施設がないと始まらないぞ。	전설급 요리사가 제대로 실력을 발휘할 곳이 필요해.	Even legendary chefs need a kitchen.						0	dlc30蓝图岛对话
-page1.3	尖尖耳，在海滩别墅的附近规划出一片合适的区域，我要在那边建造一幢豪华餐厅。	尖尖耳，在海灘別墅的附近規劃出一片合適的區域，我要在那邊建造一棟豪華餐廳。	ウサミミ、ビーチヴィラの近くに豪華レストランを建てたい。場所を見繕ってくれ。	뾰족귀, 해변 별장 근처에 적당한 구역을 계획해 줘. 거기에 고급 레스토랑을 지을 거야.	Sharpear, pick out a site near the beach villa. Let's plan a Gourmet House there.						0	dlc30蓝图岛对话
-page1.4	（就在别墅的附近，如果安卡希雅在别墅里玩游戏忘记吃饭，也方便帮她定一份豪华的餐食。）	（就在別墅的附近，如果安卡希雅在別墅裡玩遊戲忘記吃飯，也方便幫她訂一份豪華的餐食。）	(すぐ近くなら、アカシアがゲームに夢中になって食事を忘れてしまっても、レストランから取り寄せできるからな。)	(별장 근처라면, 아카시아가 별장에서 게임을 하다가 끼니를 거를 때 고급 식사를 주문해서 보내주기 편하겠지.)	(That way, if Acacia gets lost in her games and forgets to eat, I can have gourmet food delivered straight to her.)						0	dlc30蓝图岛对话
-page1.5	收到，分析员！	收到，分析員！	わかったよ、分析員！	알겠습니다, 분석가님!	Roger that, Adjutant!						0	dlc30蓝图岛对话
-page1.6	区域规划中——分析员，坐标已传至终端，请打开<orange>地图</>查看。	區域規劃中——分析員，座標已傳至終端，請打開<orange>地圖</>查看。	区画見直し中――分析員、座標を端末に送信したよ！<orange>マップ</>で確認してね！	구역 계획 중입니다. 분석가님, 좌표를 단말기로 전송했으니 <orange>지도</>를 확인해 주세요.	Designating area... I've sent the coordinates to your terminal. Please check the <orange>Map</>.						0	dlc30蓝图岛对话

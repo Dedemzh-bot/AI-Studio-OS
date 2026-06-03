@@ -1,5 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	辰星			世界上总有事物会超脱于经验之外。	0	
-2		0	辰星			理论和数据之上，还有直觉。	0	
-3		0	辰星			我有一位朋友，是她教会了我这些。	0	

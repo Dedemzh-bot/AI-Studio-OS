@@ -1,7 +1,0 @@
-﻿字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Speaker	WwiseEventID	zh_CN	disable	Remark
-page1.1	T戈迪尔		鱼！	0	dlc30蓝图岛对话
-page1.2	H主角		好大的鱼！	0	dlc30蓝图岛对话
-page1.3	T安卡希雅		虎纹鲨鱼！	0	dlc30蓝图岛对话
-page1.4	T戈迪尔		两位也准备在蓝图岛上小抛几杆吗，要不要结个伴？	0	dlc30蓝图岛对话
-page1.5	H主角		走啊一起，我们去挑一处钓点。	0	dlc30蓝图岛对话

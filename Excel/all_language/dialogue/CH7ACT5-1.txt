@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-2	糟糕！是降临团！	糟糕！是降臨團！	やばい！降臨団だ！	큰일이야! 강림단이야!	Uh-oh! Adventists!						0	
-3	倒头就睡倒头就睡！祝你们做个好梦！	倒頭就睡倒頭就睡！祝你們做個好夢！	「ぐっすり弾」でぐっすり寝なさい！ヘへっ、いい夢を！	에라잇, '수면제'나 먹어라! 좋은 꿈 꿔!	Have some Sleepers! Sweet dreams!						0	
-4	万一，我是说万一，要是遇到了这里的居民可咋办？	萬一，我是說萬一，要是遇到了這裡的居民怎麼辦？	あの、もしもの話だけど、途中でここの住民に出くわしたらどうする？	근데 만약에, 진짜 만약에 이곳 주민들을 만나면 어떻게 해야 해?	What if, totally hypothetically, we run into residents here?						0	
-auto_10407	“倒头就睡”有没有副作用啊？	“倒頭就睡”有沒有副作用啊？	この弾薬、副作用とかないよね？	'수면제'는 부작용 같은 건 없는 거야?	Do these Sleepers cause any side effects?						0	
-auto_28341	遇到居民时，分析员会替我们打掩护。	遇到居民時，分析員會替我們做好掩護。	その時は分析員が援護してくれる。	주민을 만나면 분석가가 대신 나서서 엄호해 줄 거야.	If we run into any residents, the Adjutant will cover for us.						0	

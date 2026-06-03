@@ -1,5 +1,0 @@
-﻿Id,不能变	说明	动画类型	动画名	路径	注释
-Id	Explain	Type	Name	Path	Nul
-1	待机	sequence	girl003_ui_stand01	AnimSequence'/Game/Characters/Girl/girl003/Anim/girl003_ui_stand01.girl003_ui_stand01'	
-2	悄悄话	sequence	girl003_ui_whisper01	AnimSequence'/Game/Characters/Girl/girl003/Anim/girl003_ui_whisper01.girl003_ui_whisper01'	
-3	思考	sequence	girl003_ui_hope01	AnimSequence'/Game/Characters/Girl/girl003/Anim/girl003_ui_hope01.girl003_ui_hope01'	

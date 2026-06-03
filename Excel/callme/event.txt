@@ -1,8 +1,0 @@
-﻿ID	备注	事项对应文本key	事项对应提示语音	事项对应闹钟描述key
-ID	Comment	EventText	VoiceID	DesTxt
-1	提醒吃饭	callme_ui.TxtCMclock01_name1	CMclock03	callme_ui.TxtCMclock01_des1
-2	提醒出门	callme_ui.TxtCMclock01_name2	CMclock04	callme_ui.TxtCMclock01_des2
-3	提醒工作	callme_ui.TxtCMclock01_name3	CMclock05	callme_ui.TxtCMclock01_des3
-4	提醒运动	callme_ui.TxtCMclock01_name4	CMclock06	callme_ui.TxtCMclock01_des4
-5	提醒学习	callme_ui.TxtCMclock01_name5	CMclock07	callme_ui.TxtCMclock01_des5
-6	自定义	callme_ui.TxtCMclock01_name6	CMclock08,CMclock09	callme_ui.TxtCMclock01_des6,callme_ui.TxtCMclock01_des7

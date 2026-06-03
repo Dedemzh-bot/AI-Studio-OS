@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	已抵达指定地点。	已抵達指定地點。	指定位置に到着。	지정했던 지점에 도착했어.	Arrived at the target location.						0	
-2	明白，清空筛查点内的所有威胁。	明白，清除篩查點內的所有威脅。	了解。関所内の全ての敵個体を排除する。	알겠어. 선별점 내부에 위험이 될 요소들은 전부 처리할게.	Understood. Eliminate all threats at the screening point.						0	

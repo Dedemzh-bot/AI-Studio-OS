@@ -1,5 +1,0 @@
-﻿道具大类	道具子类	道具ID	等级	注释	禁用道具	类名	名字key	描述key	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	类型图标（手动配置对应小图标）	图标(17+d(xx)+p(xx)+l	使用方式，0不可使用，1自动，2手动  不填为0	获取类型（1默认，2供应站，3活动，4成就，5通行证	获取途径	附加参数1	附加参数2	附加参数3	GM投放
-Genre	Detail	Particular	Level	Comment	Close	LuaType	I18n	PropDesc	Color	Tag	Icon	UseMode	GetType	GetWay	Param1	Param2	Param3	GMnum
-21	1	1	1	尘白之间		main_scene	supplies.scene11001	supplies.scene11001_des	3	5	1910001		1					1
-21	1	2	1	世界树营地		main_scene	supplies.scene11002	supplies.scene11002_des	4	5	1910001		1					1
-21	1	3	1	新场景占位		main_scene	supplies.scene11004	supplies.scene11004_des	4	5	1910001		1					1

@@ -1,7 +1,0 @@
-关卡buff强度累积	关卡评级	积分倍率
-BuffLevel	Rate	times
-0	B	1
-4	A	1.5
-8	S	2
-16	SS	2.5
-24	SSS	3

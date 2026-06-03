@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	什么东西，好大的动静。	什麼聲音，好大的動靜。	なんだ。うるさいな。	무언가 시끄럽게 요동치고 있어.	What happened? That's loud.						0	
-2	郊狼来了，优先完成任务。	郊狼來了，優先完成任務。	コヨーテが来た。ミッション完遂を優先で。	코요테야. 일단 미션에 집중하자.	We've got Coyotes. Focus on finishing the mission.						0	
-3	射击墙上的供电箱，切断供电！	射擊牆上的配電箱，切斷供電！	壁にある配電ボックスを撃って、電気の供給を断て！	벽에 걸려있는 전력 공급 케이블 상자부터 처리해!	Fire at the power supply box on the wall and cut off the power!						0	
-4	喂？喂喂！！分析员？星期三？完了！他们都联系不上了！	喂？喂喂！！分析員？星期三？完了！他們都失聯了！	分析員！ウェンズデー！返事して！分析員！まずいわ、二人とも連絡取れない！	여보세요? 여보세요! 분석가? 웬스데이? 젠장! 둘 다 연락이 닿질 않아!	Hello? Guys!? Adjutant, Wednesday? This is bad! I can't contact them!						0	
-5	顾不上那么多了，保护隔离墙更重要！	顧不了那麼多了，優先保護隔離牆！	もうそんなことを考えている余裕はない。ウォールを守ることのほうが大事だ！	모든 상황을 통제하긴 힘들어. 지금은 무엇보다 격리 장벽을 지키는 게 중요해!	That's too much to worry about. Protecting the Containment Wall is our priority here!						0	

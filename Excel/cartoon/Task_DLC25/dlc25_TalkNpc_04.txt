@@ -1,5 +1,0 @@
-字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Speaker	WwiseEventID	zh_CN	disable	Remark
-page1.1	T尖尖头		求助！求助！	0	2.5新星开拓关卡npc
-page1.2	T尖尖头		<orange>赛曼加</>在<orange>怪怪任意洞</>遇到困难！位置坐标<orange>观光区</>，时间特征<orange>夜晚</>！	0	2.5新星开拓关卡npc
-page1.3	T尖尖头		将<orange>赛曼加</>救出，尖尖耳带您去<orange>新的海岛</>！感谢！感谢！	0	2.5新星开拓关卡npc

@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	要尝试接触尤弥尔，必须要前往高处。	要嘗試接觸尤彌爾，必須要前往高處。	ユミルに接触しようとするなら、高い場所へ登らねばなりません。	이미르와 접촉하려면 고층으로 가야만 해요.	We need to get somewhere high enough to reach Ymir.						0	
-2	看到“树”右边的建筑物了吗？应该可以从那里上去。	看到「樹」右邊的建築物了嗎？應該可以從那裡上去。	「デンドロン」の右にある建物見た？あそこから登れるはずよ。	 '나무' 오른쪽으로 건물 보이지? 저기로 올라갈 수 있을 것 같아.	Did you notice the structure to the right of the "tree"? I think we can ascend from there.						0	
-3	当然前提是，先要干掉那两个大家伙。	當然前提是，要先幹掉那兩個大傢伙。	もちろん、あのデカブツどもを片付けるのが先だからね。	물론 저 덩치 큰 두 녀석을 해치우는 게 우선이겠지만.	Of course, but we'll have to take down those two large goons first.						0	

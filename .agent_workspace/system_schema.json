@@ -1,118 +1,126 @@
 [
   {
-    "module_name": "inventory_system",
+    "module_name": "角色选择与场景加载",
     "continuous_fields": [
-      "max_slots",
-      "current_slots",
-      "items",
-      "materials"
+      "current_selected_character_id",
+      "character_dormitory_config"
+    ],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "换装系统",
+    "continuous_fields": [
+      "character_current_skin_id"
+    ],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "姿势系统",
+    "continuous_fields": [
+      "character_current_pose_id"
+    ],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "表情系统",
+    "continuous_fields": [
+      "character_current_expression_id"
+    ],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "场景布置",
+    "continuous_fields": [
+      "scene_furniture_data"
+    ],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "场景模板切换",
+    "continuous_fields": [
+      "scene_template_id"
+    ],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "拍照模式",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "方案保存与切换",
+    "continuous_fields": [
+      "character_scheme_data",
+      "current_scheme_id"
     ],
     "discrete_fields": [
-      "expand_item_id",
-      "expand_slot_increment",
-      "max_slot_limit",
-      "initial_slot_count",
-      "overflow_mail_retention_days",
-      "overflow_mail_warning_days",
-      "daily_free_expand_limit",
-      "expand_fragment_required",
-      "expand_item_count_in_gift",
-      "expand_monthly_card_duration",
-      "activity_item_conversion_rate",
-      "activity_end_warning_days"
+      "free_scheme_slot_count"
     ]
   },
   {
-    "module_name": "item_management",
-    "continuous_fields": [
-      "quantity",
-      "stack_limit"
-    ],
+    "module_name": "运镜设计",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "物理反馈",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "UI透明化",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "擦边底线",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "免费产出",
+    "continuous_fields": [],
     "discrete_fields": [
-      "item_type",
-      "rarity",
-      "is_stackable",
-      "use_conditions",
-      "decompose_output",
-      "sale_output",
-      "synthesis_recipes"
+      "free_scene_template_count",
+      "base_pose_count",
+      "base_expression_count",
+      "free_filter_count",
+      "free_scheme_slot_count"
     ]
   },
   {
-    "module_name": "player_inventory",
-    "continuous_fields": [
-      "max_slots",
-      "current_slots",
-      "items",
-      "materials"
-    ],
-    "discrete_fields": [
-      "expand_item_id",
-      "expand_slot_increment",
-      "max_slot_limit",
-      "initial_slot_count",
-      "overflow_mail_retention_days",
-      "overflow_mail_warning_days"
-    ]
+    "module_name": "付费埋点",
+    "continuous_fields": [],
+    "discrete_fields": []
   },
   {
-    "module_name": "mail_system",
-    "continuous_fields": [
-      "inbox"
-    ],
-    "discrete_fields": [
-      "overflow_mail_retention_days",
-      "overflow_mail_warning_days"
-    ]
+    "module_name": "资源循环",
+    "continuous_fields": [],
+    "discrete_fields": []
   },
   {
-    "module_name": "economy_system",
-    "continuous_fields": [
-      "currency_balance"
-    ],
-    "discrete_fields": [
-      "daily_free_expand_limit",
-      "expand_fragment_required",
-      "expand_item_count_in_gift",
-      "expand_monthly_card_duration",
-      "activity_item_conversion_rate",
-      "activity_end_warning_days"
-    ]
+    "module_name": "角色获取系统联动",
+    "continuous_fields": [],
+    "discrete_fields": []
   },
   {
-    "module_name": "activity_system",
-    "continuous_fields": [
-      "activity_items"
-    ],
-    "discrete_fields": [
-      "activity_item_conversion_rate",
-      "activity_end_warning_days"
-    ]
+    "module_name": "商城系统联动",
+    "continuous_fields": [],
+    "discrete_fields": []
   },
   {
-    "module_name": "ui_display",
-    "continuous_fields": [
-      "current_slots",
-      "max_slots",
-      "items",
-      "materials"
-    ],
-    "discrete_fields": [
-      "item_icon_size",
-      "sort_options",
-      "filter_options",
-      "search_keyword"
-    ]
+    "module_name": "图鉴系统联动",
+    "continuous_fields": [],
+    "discrete_fields": []
   },
   {
-    "module_name": "data_sync",
-    "continuous_fields": [
-      "write_queue",
-      "lock_status"
-    ],
-    "discrete_fields": [
-      "transaction_rollback",
-      "queue_mechanism"
-    ]
+    "module_name": "活动系统联动",
+    "continuous_fields": [],
+    "discrete_fields": []
+  },
+  {
+    "module_name": "画质分级系统联动",
+    "continuous_fields": [],
+    "discrete_fields": []
   }
 ]

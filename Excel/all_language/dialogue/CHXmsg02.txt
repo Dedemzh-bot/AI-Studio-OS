@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	零区是唯一有隔离墙体系的隔离区。但就算如此，也有无数条路可以进出。	零區是唯一有隔離牆體系的隔離區。但就算如此，也有無數條路可以進出。	エリアゼロは唯一ウォールシステムがある封鎖エリア。しかし、それでも出入りできる道が無数にある。	제로 구역은 유일하게 격리 장벽 체계가 갖춰진 격리 구역이에요. 하지만 격리 장벽이 있어도 드나들 수 있는 길이 수없이 많죠.	Containment Zone Aleph is the only containment zone with the T-WALL system in place. That said, there are still countless ways to get in and out.						0	
-2	只需要避开世界树公司和军方的哨卡就行。	只需要避開世界樹公司和軍方的哨站就行。	ユグドラシル社と軍の検問所を避けるといい。	위그드라실과 군부의 초소만 잘 피해 다니면 되거든요.	You just need to avoid the Yggdrasil Corp. and the military checkpoints.						0	

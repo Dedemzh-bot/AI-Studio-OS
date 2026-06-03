@@ -1,7 +1,0 @@
-﻿Id,不能变	说明	动画类型	动画名	路径	注释
-Id	Explain	Type	Name	Path	Nul
-1	ui待机	sequence	girl001_ui_stand01	AnimSequence'/Game/Characters/Girl/girl001/Anim/girl001_ui_stand01.girl001_ui_stand01'	
-2	战斗基础待机	sequence	girl001_wp04a_base_stand	AnimSequence'/Game/Characters/Girl/girl001/Anim/wp04a/girl001_wp04a_base_stand.girl001_wp04a_base_stand'	
-3	呼吸动作	sequence	girl001_wp04a_base_idle01	AnimSequence'/Game/Characters/Girl/girl001/Anim/wp04a/girl001_wp04a_base_idle01.girl001_wp04a_base_idle01'	
-4	站立1	sequence	girl001_wp04a_show_stand01	AnimSequence'/Game/Characters/Girl/girl001/Anim/wp04a/girl001_wp04a_show_stand01.girl001_wp04a_show_stand01'	
-5	站立2	sequence	girl001_wp04a_show_stand02	AnimSequence'/Game/Characters/Girl/girl001/Anim/wp04a/girl001_wp04a_show_stand02.girl001_wp04a_show_stand02'	

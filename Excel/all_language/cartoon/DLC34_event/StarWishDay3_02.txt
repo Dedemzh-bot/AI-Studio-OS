@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-page1.1	分析员，这个蜡烛可以吗？	分析員，這個蠟燭可以嗎？	分析員！このロウソク、どうだ！	분석가, 이 양초 어때?	Hey, Adjutant, how about this candle?						0	3.4版本星祈心愿宿舍剧情
-page1.2	把蜡烛点燃之后放在星祈树上，一定很好看！	把蠟燭點燃之後放在星祈樹上，一定很好看！	火つけて木に置いたら、ぜったいきれいだぞ！	양초에 불을 붙여서 성원나무에 올려놓으면 분명 예쁠 거야!	If we light it up and put it on the tree, it'll look so pretty!						0	3.4版本星祈心愿宿舍剧情
-page1.3	先等等，在基地大厅里应该不能出现明火。	先等等，在基地大廳裡應該不能出現明火。	悪くないけど、ロビーで火は使えないはずだ。	잠깐만, 로비에서 불 피우면 안 돼.	I'm not sure, Eatchel. I'm pretty certain we can't have open flames inside the hall.						0	3.4版本星祈心愿宿舍剧情
-page1.4	否则到时候，我们会触发烟雾报警器的，还是换一个吧。	否則到時候，我們會觸發煙霧警報器的，還是換一個吧。	煙感知器が作動してしまうから、別のものにしよう。	그러다간 화재경보기가 울릴 거야. 다른 걸 찾아보자.	The smoke alarm would definitely go off. Let's see what else we can find.						0	3.4版本星祈心愿宿舍剧情

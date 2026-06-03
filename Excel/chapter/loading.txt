@@ -1,9 +1,0 @@
-﻿ID	注释	loading图	标题	文本	开放条件{类型,参数}类型1:账号等级 2:通关 3:获得道具	出现概率	Tips位置	随机文本组id	出现的地方{1,2,3,4,5,...}
-ID	Comment	Picture	Title	Content	Condition	Rate	TipsPos	RandomDesGroup	FightID
-1	1	1501404				50			
-2	2	1501405				50			
-3	3	1501406				50			
-4	4	1501407				50			
-5	5	1501408				50			
-6	6	1501409				50			
-7	7	1501410				50			

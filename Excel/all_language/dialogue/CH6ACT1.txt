@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	抱歉让你第一次就单独执行任务。	抱歉讓你第一次就單獨執行任務。	そうそう、その方向。その方向なら突破できます。	처음이신데 이렇게 바로 단독 미션을 드려서 죄송해요.	Sorry to make you go on your first mission alone.						0	
-2	其他队员都无法及时赶回来，分析员那边的情况又很急……	其他隊員都無法及時趕回來，分析員那邊的情況又很急……	敵がいる場所を単独で抜ける必要がありますが……	다른 팀원들은 시간 안에 맞춰서 못 올 것 같고, 분석가님도 그쪽 일에 정신없고…	But no one else can make it back in time, and the Adjutant's got his plate full...						0	
-3	没事，我习惯独来独往。	沒關係，我習慣獨來獨往。	大丈夫、一人で行動するのには慣れてるから。	괜찮아. 난 혼자 다니는 게 더 익숙해.	No worries. I'm used to operating alone.						0	

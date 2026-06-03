@@ -1,4 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-2		0	卡罗琳			我们的目标是<orange>回收从槲寄生空间站返回地面的逃生舱</>。	0	
-3		0	卡罗琳			老板的命令是<orange>不要节外生枝</>。	0	

@@ -1,3 +1,0 @@
-编辑文件	编辑列（从1开始）	数据源文件	数据源对应编辑列	用于填充的列
-EditFileName	EditColumn	DataSourceFileName	SourceColumn	FillColumn
-resource/position.txt	ResID	resource/resource.txt	ID	path

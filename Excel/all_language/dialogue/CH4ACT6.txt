@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	分析员，不用着急，我这边还能坚持。	分析員，不用著急，我這邊還能堅持。	分析員さん、まだ大丈夫ですからゆっくりで構いませんよ。	분석가님, 아직은 버틸 수 있으니 조급해하지 않으셔도 돼요.	Adjutant, please don't worry. I can still hold out.						0	
-2	我不会让自己陷入危险的……危险……呵。	我不會讓自己陷入危險的……危險……呵。	自分の身を危険に晒すような「ヘマ」は……しませんよ……ふふ。	제 스스로를 위험해 처하게 하지는 않을 테니까요… 윽…	I'm not going to endanger myself... danger...						0	
-auto_2	你听到她那种语气了吧，分析员？	你聽到她那種語氣了吧，分析員？	言い方にして怪しいわ、分析員。	방금 말투 들었어, 분석가?	Adjutant, can you hear the tone of her voice?						0	
-auto_23206	能相信她就有鬼了……咱们还是快点吧。	能相信她就有鬼了……我們還是快點吧。	全然信用できない……急いだ方がいいわ。	믿은 내가 바보지… 어서 서두르자.	You shouldn't trust her... Let's hurry.						0	

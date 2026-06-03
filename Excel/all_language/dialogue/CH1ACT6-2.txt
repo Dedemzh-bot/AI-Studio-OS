@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	好的，你们已经到达目标地点了。	好的，你們已經到達目標地點了。	よし、目標地点に到着。	좋아요. 모두들 목적지에 도착하셨네요.	Good, you've reached the target.						0	
-2	相信你们会在回收队到达前守好火箭吧？	相信你們會在回收隊到達前守好火箭吧？	回収隊が到着するまでロケットを守るように。	그럼 회수팀이 도착하기 전까지만 로켓을 잘 사수해 주세요!	The rocket is your responsibility until the salvage team gets to you, I'm trusting you'll be able to keep it in one piece.						0	
-4	有我芙提雅·伊格妮丝在，不需要担心啦~	有我芙提雅·伊格妮絲在，不需要擔心啦~	このフリティア・イグニスがいる限り、大船に乗ったつもりで！	훗… 프티야가 있으니 그런 건 걱정 말라구~	Ms. Fritia Ignis, here to help! I've got you covered...						0	
-5	我已到达狙击位置，切断郊狼的增援就交给我。	我已到達狙擊位置，切斷郊狼的增援就交給我。	要撃位置に到着しました。コヨーテの増援阻止はお任せください。	저격 스팟에 도착했어요. 추가 병력들은 제게 맡겨주세요.	I'm in position. I'll pick off Coyote reinforcements as they approach.						0	

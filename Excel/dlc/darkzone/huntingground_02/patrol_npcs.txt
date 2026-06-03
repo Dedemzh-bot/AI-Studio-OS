@@ -1,2 +1,0 @@
-Id	组Id	点名	位置	任务区域	怪物Id	所属设计区域	特殊奖励	任务ID(对应task开启时不刷）
-Index	GroupId	PointName	Position	RegionId	MonId	DRegion	DropGroup	TaskId

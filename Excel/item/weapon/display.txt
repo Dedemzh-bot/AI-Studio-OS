@@ -1,2 +1,0 @@
-展示ID	注释	枪口展示参数({{x,y,z},{x,y,z}})(偏移，旋转）	上导轨展示参数({{x,y,z},{x,y,z}})(偏移，旋转）	枪托展示参数({{x,y,z},{x,y,z}})(偏移，旋转）	供弹展示参数({{x,y,z},{x,y,z}})(偏移，旋转）	下导轨展示参数({{x,y,z},{x,y,z}})(偏移，旋转）
-ID	Des	display1	display2	display3	display4	display5

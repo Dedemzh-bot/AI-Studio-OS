@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	星期三他们已经先到了。	星期三他們已經先到了。	ウェンズデーたちはもう着いた。	웬스데이랑 다른 사람들은 이미 도착했어.	Wednesday and the others have arrived.						0	
-2	迟到不会被惩罚吧？	遲到不會被懲罰吧？	遅れたら罰されないよね？	설마 지각하면 징계받는 거 아니야?	Are we going to be punished for being late?						0	
-3	要是真有惩罚，背锅就麻烦你了。	要是真有懲罰，背鍋就麻煩你了。	本当に罰があったら、スケープゴートお願い。	만약 그런 거면 네가 책임져!	If that's the case, please take the blame for us.						0	

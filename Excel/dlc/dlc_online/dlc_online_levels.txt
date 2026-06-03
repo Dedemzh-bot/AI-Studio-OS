@@ -1,5 +1,0 @@
-﻿关卡Id	关卡名	地图路径	默认模式(normal-正常模式,team-队伍模式,single-独狼模式)	阵营数	队伍数	玩家数
-Id	Name	Path	RoomType	Camp	Team	Player
-1	大富翁联机	/Game/Maps/chess/dlc03/chess_dlc03_01	single			4
-2	大乱斗	/Game/Maps/chess/dlc03/chess_dlc03_01	team		2	4
-3	阵营攻防	/Game/Maps/chess/dlc03/chess_dlc03_01	normal	2	2	4

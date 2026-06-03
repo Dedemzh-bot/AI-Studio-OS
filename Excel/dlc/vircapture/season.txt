@@ -1,3 +1,0 @@
-id	//备注	开启时间	结束时间	解锁条件(例{{1,1}})	赛季名称	赛季Icon	开场剧情	赛季类型（1钓鱼大赛）	主题鱼类	排行榜期数	赛季积分规则	钓鱼点传送	赛季鱼饵	赛季任务
-Id	Desc	StartTime	EndTime	Condition	SeasonName	Icon	StoryId	Type	FishList	RankId	Score	TPid	BaitList	MissionGroup
-1	钓鱼大赛1期	[202501230400]	[202503060400]		ui.TxtVircaptureMain.contest	1701291		1	{31,32}	1	{1,100}	{325,837}	{46,47,48,49}	3

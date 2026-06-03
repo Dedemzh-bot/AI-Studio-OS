@@ -1,0 +1,17 @@
+[
+  {
+    "scene_load_timeout": 15,
+    "rotation_step": 15.0,
+    "scale_step": 0.1,
+    "max_furniture_count": 30,
+    "scheme_name_max_length": 20,
+    "watermark_opacity": 0.3,
+    "ui_opacity_min": 0.1,
+    "ui_opacity_max": 0.9,
+    "free_scene_template_count": 3,
+    "base_pose_count": 2,
+    "base_expression_count": 2,
+    "free_filter_count": 5,
+    "free_scheme_slot_count": 3
+  }
+]

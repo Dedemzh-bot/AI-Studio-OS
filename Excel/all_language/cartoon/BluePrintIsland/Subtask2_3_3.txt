@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-page1.1	我放弃了，看起来是没什么机会钓到鱼了。	我放棄了，看起來是沒什麼機會釣到魚了。	やーめた。魚が釣れる気配がまるでないな。	포기할래요. 이제 물고기는 못 잡을 것 같아요.	I give up. Looks like I'm never going to catch anything.						0	dlc30蓝图岛对话
-page1.2	真奇怪，除了鱼，什么都能钓上来。带着珍珠的贝壳，冒蓝火的煤油灯……	真奇怪，除了魚，什麼都能釣上來。帶著珍珠的貝殼，冒藍火的煤油燈……	おかしい。魚以外なら何でも釣れる。真珠の入った貝殻、青い炎が灯ったランプ……	이상하네, 물고기 말고는 다 낚이는구나. 진주가 달린 조개, 파란 불빛을 내는 램프…	It's weird, I keep reeling in everything but fish. Shells with pearls, lanterns with blue flame...						0	dlc30蓝图岛对话
-page1.3	嗯，我倒是钓了很多。	嗯，我倒是釣了很多。	え？私はたくさん釣れたけど。	음, 나는 많이 낚았는데.	Hmm, I actually caught a lot of fish.						0	dlc30蓝图岛对话
-page1.4	新手保护期，肯定是新手保护期！	新手保護期，肯定是新手保護期！	みんながいつも言っているビギナーズラックだよ。	초심자의 행운, 분명 초심자의 행운일 거야!	You must have beginner's luck!						0	dlc30蓝图岛对话

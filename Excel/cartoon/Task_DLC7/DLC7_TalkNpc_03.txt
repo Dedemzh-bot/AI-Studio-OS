@@ -1,6 +1,0 @@
-﻿字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Speaker	WwiseEventID	zh_CN	disable	Remark
-page1.1	T正在祈祷的男人	Play_Vo_dlc7act1_man02_01	神明在上……我的兄弟……不要伤害我……	0	
-page1.2	T琴诺	Play_Vo_dlc7act1_meursault_02	喂，它们可不是你的兄弟。	0	
-page1.3	T正在祈祷的男人	Play_Vo_dlc7act1_man02_02	可是我看见了……他们穿着和我们一样的衣服……	0	
-page1.4	T恩雅羽蜕	Play_Vo_dlc7act1_girl011_04	分析员，广场那边好像又有动静了！	0	

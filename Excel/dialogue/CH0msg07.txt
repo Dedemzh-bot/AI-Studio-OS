@@ -1,5 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	卡罗琳			你已经靠近逃生舱坐标，按理来说……	0	
-2		0	里芙			已经发现目标逃生舱。	0	
-3		0	卡罗琳			好，记得先检查……污染读数忽然有变化！等等！这是……	0	

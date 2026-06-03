@@ -1,3 +1,0 @@
-﻿ID	备注	相机位置	相机旋转{x,z,y}	Boss缩放	boss旋转{y,z,x}	boss位置	底部圆圈位置	底部圆圈缩放
-ID	Comment	Position	Rotator	Scale	BossRotator	BossPosition	BPPosition	BPScale
-1	雪人	{-1000,0,50}		{0.35,0.35,0.35}	{0,-183,0}	{0,-30,0}	{0,0,0}	{0.07,0.07,0.07}

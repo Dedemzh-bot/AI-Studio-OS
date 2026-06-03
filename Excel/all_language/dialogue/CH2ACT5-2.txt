@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	打开这里的暗门，能从下水道的机房抄个近路。	打開這裡的暗門，能從下水道的機房抄近路。	ここの隠し扉を開けたら、下水道のエンジン室を経由して近道できる。	이 비밀문을 열면 하수도의 전산실을 통해서 지름길로 갈 수 있을 거야.	We can open the secret door here and take a shortcut through the sewerage center.						0	
-2	那可方便多了。	那可方便多了。	それは結構便利ね。	그럼 한결 쉬워지겠어.	That'll make things much easier.						0	
-3	不过你密码哪来的？	不過你密碼哪來的？	しっかし、パスワードはどこで手に入れたの？	근데 비밀번호는 어디서 알아낸 거야?	But how do you know the password?						0	

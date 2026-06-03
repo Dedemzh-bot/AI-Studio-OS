@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	只要干掉这些警戒雷达，他们就没办法再呼叫增援了。	只要幹掉這些警戒雷達，他們就沒辦法再呼叫增援了。	この警戒レーダーを破壊すれば、やつらは援助を呼べなくなる。	경계 레이더를 처리하면 녀석들도 더 이상 지원군을 부를 수 없을 거야.	If we get rid of these radar alarms, they won't be able to call for support anymore.						0	
-2	靠！根本打不穿啊！	靠！根本打不穿啊！	もう！全然貫けない！	젠장! 뚫리질 않잖아!	Ugh! It's impossible to penetrate it!						0	
-3	瞄准弱点，这东西装甲很坚固。	瞄準弱點，這東西裝甲很堅固。	弱点を狙え、この手のものは固いから。	약점을 조준해. 장갑판이라 엄청 튼튼하니까.	Aim at the weakspot. This thing has solid armor.						0	

@@ -1,7 +1,0 @@
-威胁等级	所需威胁度	基础效果（skillinfo）	基础效果(skillfix）	基础效果描述	基础效果描述中的数值	词条生成范围（gurop）	词条生效对象(1.小怪 2.精英 3.boss）
-ID	DangerNum	BaseSkill	SkillEffect	BaseDes	DesNum	RandomLevel	RandomObject
-1	0	{7012001,1}		rogue3.danger_basedes1	{0,0,0,"rogue3.other_dangerRange1"}		
-2	20	{7012001,2}		rogue3.danger_basedes1	{3,3,3,"rogue3.other_dangerRange1"}	{501,{1,2}}	{3}
-3	40	{7012001,3}		rogue3.danger_basedes1	{5,5,5,"rogue3.other_dangerRange2"}	{501,{2,3}}	{2,3}
-4	70	{7012001,4}		rogue3.danger_basedes1	{10,10,10,"rogue3.other_dangerRange2"}	{501,{3,4}}	{2,3}
-5	100	{7012001,5}		rogue3.danger_basedes1	{15,15,15,"rogue3.other_dangerRange3"}	{501,{4,5}}	{1,2,3}

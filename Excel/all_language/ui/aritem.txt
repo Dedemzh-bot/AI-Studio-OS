@@ -1,8 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-Anim1802	海境鲛梦-AR动作	海境鮫夢-AR動作	泡沫夢幻-ARアクション	해중 신기루-AR 모션	Aqua Mirage - AR Animation						0	DLC3.2AR
-Anim1802_use	AR动作	AR動作	ARアクション	AR 모션	AR animation						0	DLC3.2AR
-Anim1802_des	获得此道具后可解锁对应时装的AR动作，在AR系统中进行使用	獲得此道具後可解鎖對應時裝的AR動作，在AR系統中進行使用	獲得後、対応衣装のARアクションが開放される。ARシステムで使用できる。	이 아이템을 획득하면 해당 스킨의 AR 모션을 해제할 수 있고, AR 시스템에서 사용할 수 있다.	Get this item to unlock the outfit's AR animation in the AR system.						0	DLC3.2AR
-Anim2101	热沙激浪-AR动作	熱沙激浪-AR動作	白波と星の砂-ARアクション	시원한 파도-AR 모션	Sunspray Surge - AR Animation						0	DLC3.2AR
-Anim2101_use	AR动作	AR動作	ARアクション	AR 모션	AR animation						0	DLC3.2AR
-Anim2101_des	获得此道具后可解锁对应时装的AR动作，在AR系统中进行使用	獲得此道具後可解鎖對應時裝的AR動作，在AR系統中進行使用	入手した後、対応する衣装のARアクションが解放される。\nARシステムで使用可能。	이 아이템을 획득하면 해당 스킨의 AR 모션을 해제할 수 있고, AR 시스템에서 사용할 수 있다.	Get this item to unlock the outfit's AR animation in the AR system.						0	DLC3.2AR

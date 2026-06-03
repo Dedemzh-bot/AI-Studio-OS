@@ -1,9 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-page1.1	嗯？这个咖啡机后面有一个礼物。	嗯？這個咖啡機後面有一個禮物。	ん？このコーヒーメーカーの後ろにプレゼントがあるな。	응? 이 커피 머신 뒤에 선물이 있네.	Hmm? There's something behind the coffee machine.						0	3.4版本星祈心愿宿舍剧情
-page1.2	哇，郎君，这么快就被你找到了。	哇，郎君，這麼快就被你找到了。	おや、旦那。もう見つけちゃったんだね。	와, 낭군, 벌써 찾았네.	Wow, you found it that fast? Impressive, My Prince.						0	3.4版本星祈心愿宿舍剧情
-page1.3	是肴把礼物放在这里的吗？	是肴把禮物放在這裡的嗎？	これは肴が置いたのか？	야오가 여기에 선물을 둔 거야?	So you hid this one, Yao?						0	3.4版本星祈心愿宿舍剧情
-page1.4	当然。我知道郎君你总是往咖啡机这儿跑，干脆就放在这里了。	當然。我知道郎君你總是往咖啡機這裡跑，乾脆就放在這裡了。	そうだよ。旦那ってだいたいコーヒーメーカーのところに来るでしょ？だからここにしたの。	당연하지. 낭군이 항상 커피 머신 쪽으로 오는 걸 알고 일부러 여기에 뒀어.	Yep. With how often you come to the coffee machine, I figured I'd just leave it where you'd naturally end up, My Prince.						0	3.4版本星祈心愿宿舍剧情
-page1.5	明明之前和你说过好多次，少喝点咖啡，多喝些养生的朔州茶。	明明之前和你說過好多次，少喝點咖啡，多喝些養生的朔州茶。	前にもいっぱい言ったはずなんだけどね。コーヒーは控えてさ、もっと体にいい朔州茶を飲みなって。	분명 여러 번 얘기했는데. 커피는 줄이고 몸에 좋은 삭주 차를 더 마시라고.	Although, I do remember telling you so many times... less coffee, and more of that Shuozhou tea I gave you. It's better for your health.						0	3.4版本星祈心愿宿舍剧情
-page1.6	哈哈……我会慢慢改正的。	哈哈……我會慢慢改正的。	はは……少しずつ改めるよ。	하하… 천천히 고쳐볼게.	Haha... I'll try to ease off on the coffee.						0	3.4版本星祈心愿宿舍剧情
-page1.7	真的吗，那我要定期检查给你的茶叶有没有喝完！	真的嗎，那我要定期檢查給你的茶葉有沒有喝完！	本当？じゃあ私、ちゃんとお茶の減り具合チェックするからね。	정말? 그럼 내가 정기적으로 차 마셨는지 확인할 거야!	Really? Then I'll be checking regularly to make sure those tea leaves don't go untouched.						0	3.4版本星祈心愿宿舍剧情

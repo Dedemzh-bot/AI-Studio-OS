@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	又是路口……	又是路口……	また分かれ道か。	여긴 또 길목인데…	Another fork...						0	
-2	这次该往左还是往右？	這次該往左還是往右？	右と左どっちに行くべきか。	이번엔 오른쪽인가? 아니면 왼쪽?	Should I go left or right?						0	
-3	看来还得再去问问。	看來還得再去問問。	また道を尋ねればいいか。	… 다시 물어봐야겠군.	I guess I'd better try asking again.						0	

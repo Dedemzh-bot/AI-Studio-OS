@@ -1,4 +1,0 @@
-﻿字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1000		0	瑟茜			即使如此，您也还是想要拯救我吗？	0	3.5版本协议动画字幕
-1001		0	瑟茜			主管果然……很温柔啊	0	3.5版本协议动画字幕

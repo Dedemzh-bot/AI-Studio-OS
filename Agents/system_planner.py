@@ -78,8 +78,9 @@ def main():
 
     # ========== 3. 构建用户提示词 ==========
     user_prompt = (
-        f"【老板原始简案】:\n{concept}\n\n"
-        f"【主策宏观草案（请在此框架内扩写，不要推翻大方向）】:\n{draft}"
+        f"请根据以下主策草案，扩写极其详尽的系统详细设计案。\n\n"
+        f"<Draft_Content>\n{draft}\n</Draft_Content>\n\n"
+        f"【老板原始简案】:\n{concept}"
     )
     if plan:
         user_prompt += f"\n\n【PM 排期表（参考任务依赖，不在文档中复述）】:\n{plan}"

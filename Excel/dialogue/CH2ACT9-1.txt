@@ -1,6 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	芬妮			我们离妮塔越来越近了。	0	
-2		0	芬妮			这下，<orange>失踪小队</>的事情算是告一段落了。	0	
-3		0	芬妮			可惜，关于<orange>违禁物</>还是没有任何线索。	0	
-4		0	里芙			耐心点，宝物往往被藏在巢穴的最深处。	0	

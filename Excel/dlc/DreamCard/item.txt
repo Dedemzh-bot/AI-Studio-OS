@@ -1,7 +1,0 @@
-道具id	备注	道具图标	名称Key	描述Key	星级	道具效果说明	道具效果参数	默认数量
-ItemID	Com	ItemUIID	Name	Des	Star	EffectDesc	Effect	Count
-101	奖励贴纸小红花	110010671	dreamcard.item_name01	dreamcard.item_desc01	1	生命值+X	{1}	0
-102	单曲专辑	110010661	dreamcard.item_name02	dreamcard.item_desc02	1	获得X次选宝	{1}	0
-103	刷新选棋					选棋可刷新X次	{1}	0
-104	刷新选宝					选宝可刷新X次	{1}	0
-105	删除					棋子可删除X个	{1}	0

@@ -1,5 +1,0 @@
-﻿操作类型	备注	每秒消耗体力	每秒改编的舒缓值	次点位舒缓值
-Action	Null	PerStrength	PerSmoothingValue	SecondaryPerSmoothingValue
-1	捶	10	10	5
-2	捏	10	10	0
-3	揉	10	-5	0

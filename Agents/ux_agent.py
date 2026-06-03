@@ -24,6 +24,7 @@ BLUEPRINT_FILE = os.path.join(WORKSPACE_DIR, "ui_interaction_blueprint.md")
 STATUS_FILE   = os.path.join(WORKSPACE_DIR, "task_status.json")
 PROMPT_FILE   = os.path.join(ROOT_DIR, "Agents", "prompts", "ux_agent_prompt.md")
 META_FILE     = os.path.join(WORKSPACE_DIR, "project_meta.json")
+FIX_CMD_FILE  = os.path.join(WORKSPACE_DIR, ".fix_correction.json")
 
 RED   = "\033[91m"
 GRN   = "\033[92m"
@@ -107,16 +108,19 @@ def main():
         loud_fail(f"写入失败: {BLUEPRINT_FILE}")
 
     # ========== 7. 推动流水线 ==========
-    try:
-        if os.path.exists(STATUS_FILE):
-            with open(STATUS_FILE, "r", encoding="utf-8") as f:
-                status_data = json.load(f)
-            status_data["current_state"] = "ui_done"
-            with open(STATUS_FILE, "w", encoding="utf-8") as f:
-                json.dump(status_data, f, ensure_ascii=False, indent=2)
-            print("[UX Agent] 任务状态已更新 -> ui_done")
-    except Exception:
-        pass
+    if os.path.exists(FIX_CMD_FILE):
+        print("[UX Agent] 定向修复模式 — 不修改 task_status.json")
+    else:
+        try:
+            if os.path.exists(STATUS_FILE):
+                with open(STATUS_FILE, "r", encoding="utf-8") as f:
+                    status_data = json.load(f)
+                status_data["current_state"] = "ui_done"
+                with open(STATUS_FILE, "w", encoding="utf-8") as f:
+                    json.dump(status_data, f, ensure_ascii=False, indent=2)
+                print("[UX Agent] 任务状态已更新 -> ui_done")
+        except Exception:
+            pass
 
     print("[UX Agent] UI 交互蓝图设计完成。")
 

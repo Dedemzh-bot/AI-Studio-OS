@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-TxtScanQRcode	请使用移动设备，打开<span color="#db8238">【尘白禁区】</>在登录界面，点击<span color="#db8238">[扫一扫]</>扫码将截图保存	請使用行動裝置，開啟<span color="#db8238">【塵白禁域】</>在登入介面，點選<span color="#db8238">[掃一掃]</>掃碼將截圖保存	モバイル端末で<span color="#db8238">『スノウブレイク：禁域降臨』</>を開き、ログイン画面で<span color="#db8238">[スキャン]</>をタップしてシェア用のQRコードを読み取って、スクリーンショットを保存してください	모바일 기기를 사용해 <span color="#db8238">[스노우 브레이크: 포비든 존]</>을 열고 로그인 화면에서 <span color="#db8238">[스캔]</>을 클릭하여 스크린샷을 저장해 주세요.	On a mobile device, open <span color="#db8238">Snowbreak: Containment Zone</> and tap <span color="#db8238">Scan</> on the login screen to scan the code and save the screenshot.						0	DLC2.7分享功能
-TxtScreenshotFailMessage_Default	截图收藏失败	截圖收藏失敗	スクリーンショットを保存できませんでした	스크린샷을 저장하는 데 실패했습니다.	Failed to save screenshot.						0	DLC2.7分享功能
-TxtScreenshotFailMessage_NoApp	缺少必要的应用程序，无法进行截图收藏	缺少必要的應用程式，無法進行截圖收藏	必要なプログラムが不足しているため、スクリーンショットを保存できません	스크린샷을 저장하는 데 필요한 앱이 없어 저장할 수 없습니다.	Required app is missing, unable to save screenshot.						0	DLC2.7分享功能
-TxtScreenshotFailMessage_NoSpace	储存空间不足，无法进行截图收藏	儲存空間不足，無法進行截圖收藏	ストレージ容量が不足しているため、スクリーンショットを保存できません	저장 공간이 부족하여 스크린샷을 저장할 수 없습니다.	Insufficient storage space, unable to save screenshot.						0	DLC2.7分享功能

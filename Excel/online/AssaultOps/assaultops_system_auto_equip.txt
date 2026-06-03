@@ -1,5 +1,0 @@
-﻿系统推荐id	备注	推荐标题	推荐描述	图标	智械技能	核心芯片(次序>品质)	分支芯片(格子不足时品质>id次序)
-Id	Comment	NameKey	DescriptionKey	Icon	ChipsSkill	ChipsMain	ChipsBranch
-1	轨道轰炸	assaultops.SystemAutoEquipName1	assaultops.SystemAutoEquipDescription1	1004250	{1,2,3}	{101,102,103}	{104,105,106,107,108,109}
-2	集群攻势	assaultops.SystemAutoEquipName2	assaultops.SystemAutoEquipDescription2	1004251	{4,5,6}	{110,111,112}	{113,114,115,116,117,118}
-3	钢铁防线	assaultops.SystemAutoEquipName3	assaultops.SystemAutoEquipDescription3	1004252	{7,8,9}	{119,120,121}	{122,123,124,125,126,127}

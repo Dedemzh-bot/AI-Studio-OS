@@ -1,3 +1,0 @@
-﻿道具大类	道具子类（角色ID）	道具ID（套系ID）	等级	注释	禁用道具	类名	名字key	稀有度（1=白，2=绿，3=蓝，4=紫，5=橙）	类型图标（手动配置对应小图标）	图标(17+d(xx)+p(xx)+l	使用方式，0不可使用，1自动，2手动  不填为0	获取类型（1默认，2供应站，3活动，4成就，5通行证	获取途径	附加参数1	附加参数2	附加参数3	未获得皮肤时是否屏蔽显示(0或不填为显示，1为屏蔽）	对应皮肤GDPL	GM投放
-Genre	Detail	Particular	Level	Comment	Close	LuaType	I18n	Color	Tag	Icon	UseMode	GetType	GetWay	Param1	Param2	Param3	IsShow	profile	GMnum
-25	20	2	2	陪伴情景·魔法少女卜卜		callme	supplies.callme_2400001	5	6	2400001		2	1401					{7,20,2,2}	1

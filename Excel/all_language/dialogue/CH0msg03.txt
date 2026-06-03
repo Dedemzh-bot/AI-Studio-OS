@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	星期三首席，安全部特别行动队已就位。	星期三首席，安全部特別行動隊已就位。	ウェンズデー首席、安全部特別行動隊が到着した。	웬스데이 수석님, 안전부의 특수 작전팀이 구성되었습니다.	Miss Wednesday, the Security Department's special task force is in position.						0	
-2	根据上级指示，我们将协助你进行逃生舱的回收。	根據上級指示，我們將協助你進行逃生艙的回收。	上の命令に従い、脱出ポッドの回収に協力する。	상부의 지시에 따라 당신이 탈출선 회수를 돕도록 하겠습니다.	As instructed by the higher-ups, we will assist you in recovering the escape pod.						0	

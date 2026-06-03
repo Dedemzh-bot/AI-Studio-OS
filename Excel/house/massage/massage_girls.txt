@@ -1,7 +1,0 @@
-﻿顺序id(按摩次数一致时按照此顺序)	少女Id	立绘ID	头像ID	申请书文本	申请书英文名字	申请书身高	点位数量	少女奖励-简单	少女奖励-普通	少女奖励-困难
-Index	GirlId	BigSourceId	SmallSourceId	ApplicationDes	ApplicationEnName	ApplicationHeight	PointsNum	Reward1	Reward2	Reward3
-1	1	130020005	2600062	house.ApplicationDes01	house.ApplicationDesEnName01	house.ApplicationDesHeight01	14	{4,1,6,5,50}	{4,1,6,5,100}	{12,1,20,1,1}
-2	2	130040005	2600092	house.ApplicationDes02	house.ApplicationDesEnName02	house.ApplicationDesHeight02	14	{4,1,6,5,50}	{4,1,6,5,100}	{12,1,21,1,1}
-3	8	130130005	2600072	house.ApplicationDes08	house.ApplicationDesEnName08	house.ApplicationDesHeight08	14	{4,1,6,5,50}	{4,1,6,5,100}	{12,1,22,1,1}
-4	10	130140005	2600102	house.ApplicationDes10	house.ApplicationDesEnName10	house.ApplicationDesHeight10	14	{4,1,6,5,50}	{4,1,6,5,100}	{12,1,23,1,1}
-5	15	130250005	2600442	house.ApplicationDes15	house.ApplicationDesEnName15	house.ApplicationDesHeight15	12	{4,1,6,5,50}	{4,1,6,5,100}	{12,1,24,1,1}

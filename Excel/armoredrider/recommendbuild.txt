@@ -1,5 +1,0 @@
-﻿ID	隶属少女	推荐序列	推荐名称	武器1	武器等级01	武器1携带buff1	武器2	武器等级02	武器2携带buff1	武器3	武器等级03	武器3携带buff1	携带全局buff
-ID	ReferGirl	RecommendArray	RecommendName	Weapon01	WeaponLevel01	ReferBuff01	Weapon02	WeaponLevel02	ReferBuff02	Weapon03	WeaponLevel03	ReferBuff03	ReferBuff04
-1	1	1	armoredrider.CommandBuildDes01	1005	3	{1,10,5,8,3}	1004	3	{17,28,34,22,20}	1001	3	{36,16,29,11,2}	{39,59,37}
-2	2	2	armoredrider.CommandBuildDes02	1002	3	{32,8,29,4,5}	1007	3	{28,22,26,34,9}	1005	3	{7,10,3,6,5}	{40,59,39,61}
-3	3	3	armoredrider.CommandBuildDes03	1003	3	{17,16,18,33,12}	1008	3	{34,19,28,20,27}	1007	3	{22,5,35,11,21}	{40,59,39,58}

@@ -1,8 +1,0 @@
-﻿角色Id	服装Id	需要的道具	是否默认拥有	图标	获取途径	唯一ID(对应皮肤ID）	是否进入换装(进入不填，不进填1)
-NpcId	SuitId	NeedItem	AutoGet	Icon	SourceTxt	SkinId	IntoClothes
-0	1		1	1701229		79900	
-0	2	{16,1,1,1}		1701230	house.playersuit1.source	79901	
-0	3	{16,3,1,1}		1701276	house.playersuit1.source	79902	
-0	60					79903	1
-0	4	{16,4,1,1}		1701388	house.playersuit1.source	79904	
-0	5	{16,5,1,1}		1701403	house.playersuit1.source	79905	

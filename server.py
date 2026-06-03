@@ -19,16 +19,8 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-if getattr(sys, 'frozen', False):
-    BUNDLE_DIR = sys._MEIPASS
-    DATA_DIR = os.path.dirname(sys.executable)
-    src_kb = os.path.join(BUNDLE_DIR, "Knowledge")
-    dst_kb = os.path.join(DATA_DIR, "Knowledge")
-    if os.path.isdir(src_kb) and not os.path.exists(dst_kb):
-        shutil.copytree(src_kb, dst_kb)
-else:
-    BUNDLE_DIR = ROOT_DIR
-    DATA_DIR = ROOT_DIR
+BUNDLE_DIR = ROOT_DIR
+DATA_DIR = ROOT_DIR
 
 WS_DIR = os.path.join(DATA_DIR, ".agent_workspace")
 KNOWLEDGE_DIR = os.path.join(DATA_DIR, "Knowledge")
@@ -450,33 +442,6 @@ async def root():
 # ==================== Startup ====================
 
 if __name__ == "__main__":
-    # 子进程引导：EXE 被当作 Python 解释器调用时
-    if len(sys.argv) > 1:
-        import runpy
-        # 强制子进程 stdout/stderr 为 UTF-8，消除日志乱码
-        try:
-            sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-            sys.stderr.reconfigure(encoding="utf-8", errors="replace")
-        except Exception:
-            pass
-        i = 1
-        while i < len(sys.argv):
-            arg = sys.argv[i]
-            if arg in ("-u",):
-                i += 1
-                continue
-            if arg == "-m" and i + 1 < len(sys.argv):
-                module_name = sys.argv[i + 1]
-                sys.argv = sys.argv[:i] + sys.argv[i + 2:]
-                runpy.run_module(module_name, run_name="__main__", alter_sys=True)
-                sys.exit(0)
-            if arg.endswith(".py"):
-                sys.argv = sys.argv[:i] + sys.argv[i + 1:]
-                runpy.run_path(arg, run_name="__main__")
-                sys.exit(0)
-            break
-        i += 1
-
     import uvicorn
     import webbrowser
     import socket

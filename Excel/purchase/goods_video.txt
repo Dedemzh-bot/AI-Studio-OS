@@ -1,8 +1,0 @@
-﻿道具GDPL	//备注	所属商品ID	Windows视频路径	安卓视频路径	IOS视频路径	音频路径
-GDPL	des	GoodsID	WinVideo	AndroidVideo	IosVideo	Audio
-{4,15,1,1}		{1011,853}				3105
-{19,10,3,2}	互动情景·暖夜恒约（预览）	{856}	/Game/Movies/_mp4/Windows/manifestation_girl010b_02.mp4	/Game/Movies/_mp4/Android/manifestation_girl010b_02.mp4	/Game/Movies/_mp4/IOS/manifestation_girl010b_02.mp4	3133
-{4,16,1,1}	天鹅座泳装AR礼包	{1301}	/Game/Movies/_mp4/Windows/ar_girl018a_03.mp4	/Game/Movies/_mp4/Android/ar_girl018a_03.mp4	/Game/Movies/_mp4/IOS/ar_girl018a_03.mp4	3184
-{4,16,1,2}	奈莉德泳装AR礼包	{1302}	/Game/Movies/_mp4/Windows/ar_girl021_03.mp4	/Game/Movies/_mp4/Android/ar_girl021_03.mp4	/Game/Movies/_mp4/IOS/ar_girl021_03.mp4	3182
-{4,15,1,3}	互动情景·澈心(预售）	{1040,862}	/Game/Movies/_mp4/Windows/manifestation_girl013b_02.mp4	/Game/Movies/_mp4/Android/manifestation_girl013b_02.mp4	/Game/Movies/_mp4/IOS/manifestation_girl013b_02.mp4	3188
-						

@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	从这条紧急避难通道过去，应该会快一些。	從這條緊急避難通道過去，應該會快一些。	この非常通路から行けば早いです。	이쪽에 있는 비상 통로를 통해서 가면 조금 더 빨리 갈 수 있을 거야.	Going through this emergency evacuation tunnel should be quicker.						0	
-2	恩雅姐是怎么知道的？	恩雅姐是怎麼知道的？	エンヤ姉さんはどうして知ってるんです？	엔야 언니는 이런 걸 어떻게 알았어요?	How did you know that, Enya?						0	
-3	当然是因为军方共享给我这个协调人的情报。	當然是因為軍方共享給我這個協調人的情報。	もちろん、コーディネーターの私に軍が共有してくれた情報ですよ。	당연히 군부가 협조자인 내게 공유해 준 정보 덕분이지.	That's because the military shared the support's intel with me, of course.						0	

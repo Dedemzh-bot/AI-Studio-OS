@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1000	派 还是忍不住动手了吗，恒沙。	π 還是忍不住動手了嗎，恆沙。	π　痺れを切らしたようだね、ゴウシャ。	역시나 참지 못하고 손을 쓴 건가, 항사?	π: You just couldn't help yourself, could you, GANGES?						0	
-1001	派 暴露了自己的位置，你可跑不掉了。	π 暴露了自己的位置，你可跑不掉了。	π　場所がバレた以上、もう逃げられないよ。	위치가 노출되는 순간 더 이상 도망칠 수 없을 거야.	π: You've exposed your location. You can't escape.						0	
-1002	恒沙 否定，本机没有移动的计划。	恆沙 否定，本機沒有移動的計畫。	ゴウシャ　否定。本機には移動する予定はない。	아니요, 본 기기는 원래부터 이동 계획이 없었습니다.	GANGES: Negative. I have no intention to attempt escape.						0	

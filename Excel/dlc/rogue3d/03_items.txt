@@ -1,8 +1,0 @@
-﻿道具Id	注释	类名	道具名字	道具名称备注	道具说明	道具描述备注	图鉴显示（1buff 2道具 3诅咒）	图标	扩展参数	扩展参数
-Id	Nul	ClassName	NameKey	NameComment	DescKey	DesComment	ManualType	IconId	Param1	Param2
-1	抵挡诅咒道具	defend_curve	rogue3.item_name_1	侦察接收机	rogue3.item_des_1	遭遇诅咒事件时，自动消耗并抵挡1次诅咒。华为公司设计的最新一代战术护目镜，可有效防止生化袭击。	2	1001070		
-2	回血道具	revover_HP	rogue3.item_name_2	急救包	rogue3.item_des_2	使用后回复全体队员30%生命（倒下的角色无法回复）。芙提雅配置的紧急医疗包。	2	1001071	3000	
-3	复活道具	rebirth	rogue3.item_name_3	重构芯片	rogue3.item_des_3	使用后随机复活1名已倒下的队友，并恢复30%生命值。紧急时重构队员的数据，恢复作战能力。	2	1001072	3000	
-4	解除诅咒道具	remove_curve	rogue3.item_name_4	镇静剂	rogue3.item_des_4	使用后随机解除一个诅咒。可有效清除被病毒污染的内容。	2	1001073		
-5	刷新商店道具	refresh_shop	rogue3.item_name_5	黑市推荐卡	rogue3.item_des_5	使用后刷新一次商店的商品。可绕过程序限制，购买更多商品的道具。	2	1001074		
-6	降低威胁度道具	reduce_danger	rogue3.item_name_6	长距夜视仪	rogue3.item_des_6	使用后降低一定10点威胁度。马斯克博士研制的夜视仪，可即时观察到敌情	2	1001075	10	

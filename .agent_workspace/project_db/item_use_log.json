@@ -1,0 +1,14 @@
+[
+  {
+    "milestone_key": "consume",
+    "value": "consume"
+  },
+  {
+    "milestone_key": "equip",
+    "value": "equip"
+  },
+  {
+    "milestone_key": "open_box",
+    "value": "open_box"
+  }
+]

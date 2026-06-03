@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	冷静一下！不要忘记这次任务的目标！	 冷靜一下！不要忘記這次任務的目標！ 	落ち着いて！私たちの目標は脱出ポッドの回収です！	조심하세요! 자칫하면 미션을 망칠 수도 있으니.	Calm it, Lyfe! Don't forget why you're here!						0	
-4	去吧，看看逃生舱有没有破损。	去吧，看看逃生艙有沒有破損。	さぁ、脱出ポッドを確認してください。	가서 탈출선이 파손되지는 않았는지 한번 확인해 보세요.	Go check if the escape pod is damaged.						0	
-5	我申请继续追击！	我申請繼續追擊！	追撃続行の許可を！	그럼 계속해서 추격해 볼게!	Permission to pursue?						0	
-6	还挺好奇的，到底什么人值得董事会给出这么高的保密等级？	還蠻好奇的，到底什麼人值得董事會給出這麼高的保密等級？	理事会が機密レベルをここまで高くするなんて……一体どんな人物が中にいるんでしょうね？	궁금하네요. 도대체 안에 뭐가 있길래 이사회에서 이렇게까지 높은 보안 등급을 매긴 건지.	I'm pretty curious — who would command such strict confidentiality from the Board?						0	

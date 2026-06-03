@@ -1,8 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	分析员传来的地图明明是没问题的，但是我怎么就是找不到路呢？	分析員傳來的地圖明明是沒問題的，但是我怎麼就是找不到路呢？	分析員に貰った地図は正しいはずなのに、どうして正しい道が見つからないの？	분석가님이 보낸 지도는 분명 문제가 없어 보이는데, 아무리 찾아도 잘 모르겠어…	The map the Adjutant sent clearly isn't wrong, so why can't I find the way?						0	
-2	我现在……应该是在四层吧？	我現在……應該是在四層吧？	今私は……4階にいるよね？	내가 지금… 4층에 있는 건 맞겠지?	Now, I... should be on the fourth floor, right?						0	
-3	看地图……分析员他们应该在我下面一层。	看地圖……分析員他們應該在我下面一層。	地図によると……分析員たちは私の下の階層にいるはず。	지도를 보면… 분석가님 일행은 바로 아래층에 있는 것 같은데…	Let me look at the map... The Adjutant should be one floor below me.						0	
-4	刚刚摊主给的糖葫芦真好吃，他叫吉尔，之后一定要找机会感谢他。	剛剛攤主給的糖葫蘆真好吃，他叫吉爾，之後一定要找機會感謝他。	さっき店主さんからもらったタンフールー美味しいね、いつかお返しをしないと。ええと、名前は確かジル。	그나저나 노점 주인이 준 탕후루가 이렇게 맛있을 줄이야. 이름이 '길'이라고 했던 것 같은데, 다음에 만나면 꼭 감사의 인사를 전해야겠어.	The candied fruit that vendor gave me just now was so yummy. His name was Gael. I have to find a chance to thank him later.						0	
-5	嗯，记下了。好！接下来该上楼了！	嗯，記下來了。好！接下來該上樓了！	うん、覚えた。よし！上の階層に行こう！	아… 기억났어! 그래, 맞아! 계속해서 올라가면 돼!	Okay, I recorded it. Alright! It's time to go upstairs!						0	
-6	确认了瑟瑞斯的坐标和语音记录，确保了她目前是安全的。队员们也已经在分头寻找瑟瑞斯了。	確認了瑟瑞斯的座標和語音記錄，確保了她目前是安全的。隊員們也已經在分頭尋找瑟瑞斯了。	シーリスの座標と音声記録をチェックし、彼女が今安全だと確認できた。他の隊員たちも既に手分けしてシーリスを探している。	세리스의 좌표와 음성 기록을 확인하니 아직까지 안전하다는 것을 확인할 수 있었다. 대원들은 바로 세리스를 찾으러 나섰다.	We confirmed Siris' coordinates and recordings, guaranteeing that she was safe. The operatives split up to search for her.						0	

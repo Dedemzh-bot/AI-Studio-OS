@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	卡罗琳说，军方会使用信标指引我们前往会合地点。	卡羅琳說，軍方會使用信標指引我們前往會合地點。	カロリンさんの話だと、軍はビーコンを使って私たちを合流地点に誘導するはずです。	캐롤린이 군부 측에서 비콘을 통해 합류 지점을 알려줄 거라 했어요.	Caroline said that the military will use beacons to direct us to the meeting location.						0	
-2	信标接收器被藏匿在这个坐标的物资箱中，需要我们先取回……	信標接收器被藏匿在這個座標的物資箱中，需要我們先取回……	ビーコンの受信装置はこの座標の物資箱に隠されているので、まずはそれを回収する必要があります……	근데 비콘 수신기가 좌표에 있는 물자 상자 안에 숨겨져 있어서, 물자 상자부터 찾으러 가야 할 거 같아요…	The beacon receiver is hidden in the supply box at this coordinate and must be recovered first...						0	
-3	确实，分析员，我也觉得这个行为十分怪异，谨慎过头了。	確實，分析員，我也覺得這個行為十分怪異，謹慎過頭了。	……確かにおかしいですね、あまりにも慎重すぎます。	저도 조금은 이상하다는 생각이 들어요. 뭔가 과할 정도로 신중하다고 해야 하나…	... ... Indeed, Adjutant. I also find this method to be odd and overly cautious.						0	

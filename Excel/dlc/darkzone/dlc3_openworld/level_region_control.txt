@@ -1,5 +1,0 @@
-﻿ 	期数	注释	区域开启时间	区域关闭时间	空气墙ID	去域名	路径	遮罩坐标	信息坐标
-Id	ActId	Des	StartTime	EndTime	WaLLId	AreaName	Path	Position	InfoPosition
-1	2	C	[202308250400]	[202308250400]		ui.Dlc3ExploreTip13		{-30,670}	{-30,670}
-2	2	a	[202308250400]	[202311040400]	{201,202,203,204,205}	ui.Dlc3ExploreTip14	/Game/UI/UMG/FightDlc03Fight/uw_dlc03_map_area2.uw_dlc03_map_area2_C	{-416,-279}	{-416,-279}
-3	2	b	[202308250400]	[202311090400]	{301,302,303,304}	ui.Dlc3ExploreTip15	/Game/UI/UMG/FightDlc03Fight/uw_dlc03_map_area3.uw_dlc03_map_area3_C	{328,-470}	{328,-470}

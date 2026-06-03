@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	嘿，我还是第一次来天楼这儿。	嘿，我還是第一次來天樓這裡。	はぁ、スカイタワーに来たのは初めてだ。	흠… 스카이 타워는 또 처음 와보네.	Heh, I haven't actually been up here before.						0	
-2	看来不太欢迎我们啊！	看來不太歡迎我們啊！	私たちを歓迎してないみたいだね！	역시 우릴 환영하는 것 같진 않군.	And this isn't much of a welcome!						0	
-3	呵，本小姐可不允许有这样的情况出现。	呵，本小姐可不允許有這樣的情況發生。	ふん、このあたしはそんなこと許さないわよ。	후… 이런 상황은 딱 질색인데.	Heh, there's no way I'm going to let something like that happen.						0	
-auto_21861	看我用魅力征服他们。	看我用魅力征服他們。	魅力でやつらを征服してみせるわ！	페니의 매력으로 녀석들을 정복해 주지!	Watch them surrender to the power of my charm.						0	
-4	你这只是在单纯地使用物理手段“征服”他们吧	你這只是在單純地使用物理手段“征服”他們吧	それってただ物理的にやつらを「制圧」するだけでしょ。	내가 보기엔 그냥 '무력'으로 정복하는 거 같은데…	What "charm"? That's just brute force...						0	

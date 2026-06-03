@@ -1,8 +1,0 @@
-﻿枪械ID	关联角色	对应id	备注	枪械伤害（1.低 2.中 3.高）	枪械后坐力（1.低 2.中 3.高）	枪械弹容（1.低 2.中 3.高）	枪械射速（1.慢 2.匀速 3.快）	枪械属性
-Weaponid	Charid	Referid	Common	Attack_n	Stablility_n	BulletNum_n	FireSpeed_n	WeaponGrow
-9051407	1	{2,5,25,1}	朝翼枪械1	girlrush.girl_des_02	girlrush.girl_des_02	girlrush.girl_des_02	girlrush.girl_des_06	1001
-9051508	1	{2,5,26,1}	朝翼枪械2	girlrush.girl_des_03	girlrush.girl_des_03	girlrush.girl_des_02	girlrush.girl_des_06	1002
-9042411	2	{2,4,29,1}	卜卜枪械1	girlrush.girl_des_03	girlrush.girl_des_02	girlrush.girl_des_01	girlrush.girl_des_05	1003
-9042506	2	{2,4,30,1}	卜卜枪械2	girlrush.girl_des_10	girlrush.girl_des_02	girlrush.girl_des_02	girlrush.girl_des_05	1004
-9031402	3	{2,3,3,1}	尼塔枪械1	girlrush.girl_des_02	girlrush.girl_des_02	girlrush.girl_des_02	girlrush.girl_des_05	1005
-9031506	3	{2,3,31,1}	尼塔枪械2	girlrush.girl_des_03	girlrush.girl_des_03	girlrush.girl_des_02	girlrush.girl_des_05	1006

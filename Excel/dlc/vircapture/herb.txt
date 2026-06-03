@@ -1,7 +1,0 @@
-Id	备注	蓝图引用路径	GDPL	关联赛季ID	获取后草药是否刷新,1.不刷新，0.刷新
-Id	Note	BPinfo	GDPL	SeasonId	CanOnce
-1	月溶草	LevelTask/Extend/Pal/PalHerb1.PalHerb1	{5,25,1,4}		
-2	紫绒球	LevelTask/Extend/Pal/PalHerb2.PalHerb2	{5,25,1,5}		
-3	夜莲花	LevelTask/Extend/Pal/PalHerb3.PalHerb3	{5,25,1,6}		
-4	铃铛花	LevelTask/Extend/Pal/PalHerb4.PalHerb4	{5,25,1,7}		
-5	灯芯果	LevelTask/Extend/Pal/PalHerb5.PalHerb5	{5,25,1,8}	1	

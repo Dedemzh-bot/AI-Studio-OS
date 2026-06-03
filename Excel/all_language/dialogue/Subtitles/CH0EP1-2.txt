@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1000	目标正在分离逃生舱体	目標正在分離逃生艙體	目標は脱出ポッドを分離。	타깃이 탈출선을 벗어나고 있습니다.	Escape pod launch detected.						0	
-1001	按照预演方案执行攻击指令	按照預演方案執行攻擊指令	予行演習に従い攻撃命令を実行。	훈련 방침에 따라 행동해 주세요.	Targeting systems live, preparing to open fire on target.						0	
-1002	攻击指令已被拦截	攻擊指令已被攔截	攻撃指令遮断。	공격 명령이 해지되었습니다.	Standing orders have been suspended.						0	
-1003	内部可能乘有幸存者	內部可能乘有倖存者	生存者搭乗の可能性あり。	내부에 생존자가 있는 것으로 보입니다.	Survivor onboard pod is to be recovered.						0	

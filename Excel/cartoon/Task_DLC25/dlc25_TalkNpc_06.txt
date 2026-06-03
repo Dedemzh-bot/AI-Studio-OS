@@ -1,5 +1,0 @@
-字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Speaker	WwiseEventID	zh_CN	disable	Remark
-page1.1	T尖尖头		赛曼加！回来了！	0	2.5新星开拓关卡npc
-page1.2	T尖尖头		感谢！感谢！	0	2.5新星开拓关卡npc
-page1.3	T尖尖头		尖尖耳！履行诺言！带您去<orange>新的海岛</>！<orange>新的海岛</>！	0	2.5新星开拓关卡npc

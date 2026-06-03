@@ -1,5 +1,0 @@
-对应地图id	地图资源	地图名称	开启时间	关闭时间	最大钥匙掉落
-PeriodsID	MapResource	Name	OpenTime	CloseTime	MaxKeyDrop
-1					
-2	/Game/UI/UMG/Rogue/Widgets/uw_rogue_level3.uw_rogue_level3_C		[202410100400]	[202410310400]	20
-3	/Game/UI/UMG/Rogue/Widgets/uw_rogue_level2.uw_rogue_level2_C		[202410170400]	[202410310400]	30

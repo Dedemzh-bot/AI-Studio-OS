@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	这个区域没侦察过，不知道会遇上什么，小心点。	這個區域沒偵察過，不知道會遇上什麼，小心點。	このエリアはまだ偵察されていません。何が出るか分かりませんので、お気を付けて。	이 구역은 정찰을 안 해서 어떤 것들이 튀어나올지 모르니 조심하시는 게 좋을 거예요.	This area hasn't been reconned yet, can't say what you might run into. Be careful out there.						0	
-2	唯一肯定的是越深入就越危险，当然，找到的东西全都归你。	唯一肯定的是越深入就越危險，當然，找到的東西全都歸你。	唯一確信できるのは、深入りすればするほど危険になることです。もちろん、見つけたものは全部あなたのものです。	한 가지 확실한 건 깊이 들어가면 들어갈수록 위험해요. 물론 찾은 물건은 전부 가지셔도 되고요.	The deeper you go, the more dangerous it'll get. You can keep whatever you find, of course.						0	

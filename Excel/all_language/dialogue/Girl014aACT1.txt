@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	分析员？	分析員？	分析員？	분석가님?	Adjutant?						0	
-2	没有响应，是被屏蔽么。	沒有響應，是被遮蔽嗎。	応答がありません。ブロックされているのでしょうか。	반응이 없네요. 차단당한 걸까요.	No response. Something must be blocking the signal.						0	
-3	第一道试炼，<orange>天之试炼</>开始！	第一道試煉，<orange>天之試煉</>開始！	第一試練、<orange>天の試練</>を開始します！	첫 번째 시련, <orange>하늘의 시련</> 시작!	The <orange>Trial of the Heavens</> begins!						0	

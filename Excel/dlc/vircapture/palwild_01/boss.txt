@@ -1,4 +1,0 @@
-﻿boss序号(单地图最多5个)	组内id(按顺序)	前置区域	关联region	bossGDPL	权重	背景音乐	策划备注
-Id	IndexId	AreaId	RegionId	Boss	Weight	Bgm	Remark
-1	1	6	66	{18,1,31,1}	100	BGM|Fight|Chapter|Chapter09,Level|Level12,Stage|Stage01	爱思特
-1	2	6	66	{18,1,32,1}	100	BGM|Fight|Chapter|Chapter01,Level|Level12,Stage|Stage01	四足机甲

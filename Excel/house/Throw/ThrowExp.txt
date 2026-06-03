@@ -1,4 +1,0 @@
-﻿玩法类型	//备注	保底经验	投掷成功1次	投掷失败1次	成功制作饮品	成功制作点单饮品	拥有角色	拥有皮肤
-ID	des	DefExp	WinOnceExp	LoseOnceExp	MakeExp	MakeOrderExp	CardCoef	SkinCoef
-1	常规模式	50	0	0	100	150	0.1	0.2
-2	挑战模式	250	0	0	100	150	0.1	0.2

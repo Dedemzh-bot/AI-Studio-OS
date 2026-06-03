@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	我想想，上北下南左西右东……	我想想，上北下南左西右東……	ええと、こっちが北でこっちが南だから……	어디 보자… 북쪽은 앞, 남쪽은 뒤, 서쪽은 왼쪽, 동쪽은 오른쪽이니까…	Let's see. Up north down south left west right east...						0	
-2	应该是往这边走没错……	應該是往這邊走沒錯……	この道で間違いなさそうだね……	이쪽으로 가는 게 틀림없을 거야…	It should be this way...						0	

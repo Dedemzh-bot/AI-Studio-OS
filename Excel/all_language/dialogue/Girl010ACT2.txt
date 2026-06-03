@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	你你你说啥？出口的门坏了要花点时间弄开？	你你你說什麼？出口的門壞了要花點時間弄開？	な、なんて言った？出口の扉が壊れて開くまでに時間がかかる？	뭐, 뭐라고? 출구 문이 고장 나서 고치는 데 시간이 걸린다고?	What? The door's jammed? How long?						0	
-2	赶紧的啊别害咱们交代在这儿啊！	動作快啊別害我們死在這啊！	急いでよ、さもないと私たちここで死ぬ！	서둘러! 여기서 지체할 순 없어!	Quickly! Don't you dare let us die here!						0	

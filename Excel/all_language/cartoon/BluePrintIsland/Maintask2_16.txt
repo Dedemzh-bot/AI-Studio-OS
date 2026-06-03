@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-page1.1	分析员，报告！分析员，报告！	分析員，報告！分析員，報告！	分析員、分析員！	분석가님, 보고드립니다! 분석가님, 보고드립니다!	Adjutant, Adjutant!						0	dlc30蓝图岛对话
-page1.2	关键词指令检测成功，潜在助力<orange>“拉面匠人”</>的坐标已传至终端！	關鍵詞指令偵測成功，潛在助力<orange>「拉麵匠人」</>的座標已傳送至終端！	キーワード検索で見つけた、隠しお助けNPC<orange>「ラーメン職人」</>の座標を端末に送信しておいたよ！	키워드 명령 감지 성공, 잠재적 조력자 <orange>'라면 장인'</> 좌표를 단말기로 전송했습니다!	Keyword detected. Coordinates for a potential ally, <orange>Ramen Master</>, have been sent to your terminal!						0	dlc30蓝图岛对话
-page1.3	那就去看看吧。	那就去看看吧。	よし、行ってみよう。	그럼, 한번 가 보자.	I'll go check it out.						0	dlc30蓝图岛对话

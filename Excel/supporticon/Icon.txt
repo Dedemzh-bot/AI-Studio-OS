@@ -1,8 +1,0 @@
-ID	描述	公司LogoId	图标(小图标，)	偏移(X,Y)	卡片图片（立绘裁剪）	卡片图片（立绘裁剪Data）	偏移(X,Y)	卡片图片1	卡片图片2	卡片Live2d（Spine Atlas）	卡片Live2d（SkeleonData）	偏移(X,Y)
-ID	Des	LogoId	Icon	IconPose	ImgL2d	ImgL2dData	ImgL2dPos	ImgCard1	ImgCard2	L2dCardIdAtlas	L2dCardIdData	L2dCardPos
-10001	A小队科研	11001	1700046	{0,0}	pose_npc006b_01	ImgL2dData	{0,0}	pose_npc006a_01	pose_npc006a_02	pose_npc006a_02	jiabo-data	{0,0}
-10002	A小队医疗	11002	1700042	{0,0}	pose_npc007b_01	ImgL2dData	{0,0}	pose_npc007a_01	pose_npc007a_02	pose_npc007a_02	jiabo-data	{0,0}
-10003	A小队设备	11003	1700044	{0,0}	pose_npc005b_01	ImgL2dData	{0,0}	pose_npc005a_01	pose_npc005a_02	pose_npc005a_02	jiabo-data	{0,0}
-10004	B小队科研	11004	1700027	{0,0}	pose_npc003b_01	ImgL2dData	{0,0}	pose_npc003a_01	pose_npc003a_02	pose_npc003a_02	jiabo-data	{0,0}
-10005	B小队医疗	11005	1700034	{0,0}	pose_npc002b_01	ImgL2dData	{0,0}	pose_npc002a_01	pose_npc002a_02	pose_npc002a_02	jiabo-data	{0,0}
-10006	B小队设备	11006	1700029	{0,0}	pose_npc004b_01	ImgL2dData	{0,0}	pose_npc004a_01	pose_npc004a_02	pose_npc004a_02	jiabo-data	{0,0}

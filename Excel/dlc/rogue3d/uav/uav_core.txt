@@ -1,4 +1,0 @@
-核心ID	//备注	名称	描述	技能组	立绘	模型	核心图标
-ID	Comment	Name	Des	SkillList	Print	Model	Icon
-1	高热核心	rogue3.uavCoreName1	rogue3.uavCoreDes1	{1,2,3}	1001567	500920302	1001566
-2	低温核心	rogue3.uavCoreName2	rogue3.uavCoreDes2	{4,5,6}	1001568	500920301	1001565

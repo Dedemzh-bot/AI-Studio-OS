@@ -1,7 +1,0 @@
-﻿少女ID	//注释	头像图素ID	主界面对应actor	少女射击自己权重	剧情模式失败文本	少女单回合使用道具上限
-GirlID	Comment	ProfileID	MainUIPos	ShootSelf	FailTips	UseItemMax
-10	肴	2600102	1	-1	house.RouletteFailTips10	1
-5	茉莉安	2600262	2	-1	house.RouletteFailTips05	2
-14	辰星	2600242	3	-1	house.RouletteFailTips14	3
-17	苔丝	2600382	4	-1	house.RouletteFailTips17	2
-20	卜卜	2600782	5	-1	house.RouletteFailTips20	2

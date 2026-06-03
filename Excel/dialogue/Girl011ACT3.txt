@@ -1,5 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	恩雅			大功告成，等会儿远程爆破，任务就完成了。	0	
-2		0	恩雅			撤退的路线……分析员已经帮我规划好了吗……？	0	
-3		0	恩雅			果然很可靠呢~！	0	

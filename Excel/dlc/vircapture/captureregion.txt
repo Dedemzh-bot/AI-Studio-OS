@@ -1,6 +1,0 @@
-区域Id	开启时间	结束时间	解锁条件(例{{1,1}})（1账号等级 2前置关卡 3获得某个道具 20劝降等级 23regioninfo）	地图Id	海岛名称	战斗逻辑配置	怪物强度模板	是否关闭等级压制（0或不填默认开启、1关闭）	关卡区域表索引	任务资源	关卡Buff(1-SkillForPlayer，2-Modifier)	试玩角色	昼夜切换解锁（20劝降等级）	岛屿等级	随机任务获得上限（{questpoolID，获取上限，出现概率万分比）
-Id	StartTime	EndTime	Condition	MapId	Name	FightID	LevelStrength	LevelPower	LevelRegionName	TaskPath	Buff	TrialCard	LightSwitchCondition	Islandlevel	RandomQuestMax
-5810	[202401011000]	[203012121000]		5810	ui.TxtVircaptureMain.level1	1	19	1	palwild_01	DLC9Task/Pal/Wilds/Wild_01_Task.Wild_01_Task	{{1,5000055},{1,5000068}}	{100001,100002,100009}	{{20,1}}		
-325	[202401011000]	[203012121000]	{{20,15},{23,5810,1102,1104}}	325	ui.TxtVircaptureMain.level3	1	19	1	palwild_02	PalTask/Wilds02/OpenWorld/PalWild_02_Task.PalWild_02_Task	{{1,5000055},{1,5000068}}	{100001,100002,100009}	{{20,15}}		
-326	[202401011000]	[203012121000]	{{20,5}}	326	ui.TxtVircapture.BuildEnter	1	19	1	newstar_building01	PalTask/building/PalBuildTask.PalBuildTask	{{1,5000055},{1,5000068}}	{100001,100002,100009}		5	{1,2,3000}
-1401	[202401011000]	[203012121000]		1401	ui.TxtVircaptureMain.level3	1	19	1	palwild_02	/Game/Blueprints/LevelTask/Level/DLC37OwTestLevel/DLC37OwTestTask.DLC37OwTestTask	{{1,5000055},{1,5000068}}	{100001,100002,100009}	{{20,15}}		

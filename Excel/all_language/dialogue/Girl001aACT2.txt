@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	playername，你帮忙调用一下热成像侦察无人机。	playername，你幫忙調用一下熱影像偵察無人機。	playername、赤外線カメラを搭載した偵察ドローンを起動して。	playername, 드론으로 정찰을 좀 해줘야 할 것 같아.	Give me a hand, call in a drone.						0	
-2	这里建筑太杂乱很容易有漏网之鱼。	這裡建築太雜亂很容易有漏網之魚。	ここは建物が乱立してるから敵を逃しやすい。	이곳의 구조물들은 너무 난잡해서 적군을 놓치기 쉽거든.	This place is a maze, easy for them to slip away.						0	
-3	他们一个都别想跑。	他們一個都別想跑。	一人も逃さない。	단 한 녀석도 도망가게 둘 수 없어.	They'll regret having tried to run.						0	

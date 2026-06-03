@@ -1,3 +1,0 @@
-﻿序号	备注	抽卡稀有度	GDPL	权重	UP标记（1为UP，2为New)	是否进入UP选择范围(若填1则进入以上的选择列表)
-ID	Desc	Rarity	GDPL	Weight	UPTag	UPSelectTag
-1	3.7里芙武器	5	{2,11,3,1}	1000	1	

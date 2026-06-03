@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	我这边搞定了！怎么样？是不是比你更快？	我這邊搞定了！怎麼樣？是不是比你更快？	こっちはおしまい！どう？そっちより早いでしょう？	여기는 상황 종료! 어때? 이번엔 너보다 빨랐지?	I'm done over here. You? Lagging behind?						0	
-2	无意义的攀比，快过来会合。	無意義的攀比，快過來會合。	意味もなく比べるな。早く集合しに来い。	… 시답잖은 경쟁하지 말고 어서 합류부터 해.	Don't play games, just get over here.						0	

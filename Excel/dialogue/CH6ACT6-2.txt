@@ -1,5 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	安卡希雅			从两边都堵死了，还有铁丝网，炸开好了。	0	
-2		0	安卡希雅			炸药？那些郊狼应该有。	0	
-3		0	安卡希雅			等等……	0	

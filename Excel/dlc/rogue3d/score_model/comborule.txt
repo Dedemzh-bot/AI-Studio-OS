@@ -1,6 +1,0 @@
-﻿连击等级id	//备注	额外添加的buff效果（多级同时生效，只能用skillinfo）	//buff效果备注	升级到下一级所需连击点数（或最大连击点数）	自然衰减分数和间隔	升级至本级时衰减缓冲时间（秒）	伤害与连击分数转化比率	单次分数上限	战斗音乐
-ComboLevel	Comment	Buff	BuffComment	Score	DecreaseParameter	ProteceTime	ScoreNumByDmg	SingleScoreLimit	Music
-1	C级			500	{20,1}	0	{5000,1}	100	BGM|Fight|Activity|DLC30,DLC|Fight04,Stage|Stage01
-2	B级	{5006}		2000	{40,1}	2	{5000,1}	200	BGM|Fight|Activity|DLC30,DLC|Fight04,Stage|Stage02
-3	A级	{5007}		4000	{50,1}	2	{5000,1}	200	BGM|Fight|Activity|DLC30,DLC|Fight04,Stage|Stage03
-4	S级	{5008}		600	{60,1}	2	{5000,1}	200	BGM|Fight|Activity|DLC30,DLC|Fight04,Stage|Stage04

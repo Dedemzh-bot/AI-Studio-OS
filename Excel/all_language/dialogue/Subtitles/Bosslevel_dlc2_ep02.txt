@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1000	威尔	威爾	ウィル	윌	Will?						0	
-1001	队长	隊長	隊長	대장	Captain?						0	
-1002	没有不会醒来的梦	沒有不會醒來的夢	覚めない夢などない。	깨어날 수 없는 꿈은 없다는 건,	All dreams can be awoken from.						0	
-1003	我知道	我知道	俺は知っている。	나도 알고 있어.	I know...						0	
-1004	我只是……不想面对它	我只是……不想面對它	あれから……逃げたいだけだ。	단지… 그것을 마주하고 싶지 않을 뿐이야.	I just... don't want to face it.						0	

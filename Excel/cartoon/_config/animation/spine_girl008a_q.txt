@@ -1,9 +1,0 @@
-﻿Id,不能变	说明	动画类型	动画名	路径	注释
-Id	Explain	Type	Name	Path	Nul
-1	待机	spine	sp_girl008a_01_q_stand		
-2	打招呼	spine	sp_girl008a_01_q_hello		
-3	不耐	spine	sp_girl008a_01_q_stand_bunai		
-4	害羞	spine	sp_girl008a_01_q_stand_haixiu		
-5	惊讶	spine	sp_girl008a_01_q_stand_jingya		
-6	思考	spine	sp_girl008a_01_q_stand_sikao		
-7	微笑	spine	sp_girl008a_01_q_stand_weixiao		

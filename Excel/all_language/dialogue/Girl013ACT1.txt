@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	目标地点附近敌人数量在持续增加。	目標地點附近敵人數量在持續增加。	目標地点周辺、敵の増加を確認……	목표 지점의 타깃들이 계속 늘어나고 있어요.	Enemy numbers are growing around the target location.						0	
-2	没来得及撤离的流浪者都变成异化人了吗……	沒來得及撤離的流浪者都變成異化人了嗎……	逃げ遅れた浮浪者はみんな、変異者に……	미처 대피하지 못한 방랑자들이 전부 변이자가 되어버린 건가요…	Are we too late? They've all already been Changed?						0	

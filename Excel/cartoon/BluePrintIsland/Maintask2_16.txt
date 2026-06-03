@@ -1,5 +1,0 @@
-﻿字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Speaker	WwiseEventID	zh_CN	disable	Remark
-page1.1	T尖尖耳		分析员，报告！分析员，报告！	0	dlc30蓝图岛对话
-page1.2	T尖尖耳		关键词指令检测成功，潜在助力<orange>“拉面匠人”</>的坐标已传至终端！	0	dlc30蓝图岛对话
-page1.3	H主角		那就去看看吧。	0	dlc30蓝图岛对话

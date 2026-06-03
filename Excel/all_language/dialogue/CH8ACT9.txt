@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	郊狼占领了机房，准备断开楼间区的桥梁。	郊狼佔領了機房，準備切斷樓間區的橋樑。	コヨーテがエンジン室を占拠して、ビル間の橋を断とうとしてる。	코요테가 전산실을 점령하고 건물 사이의 다리를 끊으려 하고 있다.	The Coyotes have occupied the data center, and are about to disconnect the bridge between the buildings.						0	
-2	机房的坐标是……我来不及赶过去了。	機房的座標是……我來不及趕過去了。	エンジン室の座標は……自分が行くのは間に合わない。	전산실 좌표가 어떻게 되지?… 시간이 부족해.	The data center coordinates... are too far. I won't make it in time.						0	
-3	你来解决吧。	你來解決吧。	お前が行け。	네가 해결하는 게 좋겠군.	It's on you.						0	
-4	收到指令。	收到指令。	了解。	알겠다냥.	Received.						0	

@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	playername，注意保护好自己，你不能受伤。	playername，注意保護好自己，你不能受傷。	自分の身の安全を確保して、playername。あなたが怪我してはいけないから。	playername, 다치지 않게 몸 간수 잘하고 있어.	Be careful, don't get yourself hurt.						0	
-2	现在只有你能守护那些模型了。	現在只有你能守護那些模型了。	今あの子たちを守れるのは分析員だけ。	지금은 분석가만이 그 모형들을 지켜낼 수 있으니까.	Only you can save those kits now.						0	

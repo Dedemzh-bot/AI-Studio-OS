@@ -1,4 +1,0 @@
-期数id	开启时间	结束时间	解锁条件(例{{1,1}})（1账号等级 2前置关卡 3获得某个道具 20开拓等级）	首次进入剧情	宿舍进入剧情	玩法说明ID	抓捕区域ID	上阵数量(默认5)	背包限制(默认200)	每日品质限制(不填不限制{{品质1,数量1}...})	每日劝降经验上限	背景音乐列表	地区限制目前可填：0国内外,1国内,2海外
-Id	StartTime	EndTime	Condition	Story	Story3D	HelpImgId	CaptureRegionId	MaxFiled	BagLimit	ColorLimit	MaxExp	BGMList	Coverage
-1	[202404181000]	[202405300400]		8107100		81	{5460,5461}	5	200	{{3,100},{4,50},{5,20}}			
-2	[202407110400]	[203012310400]		8125303	3DRoom_DLC9/DLC9POP	81	{5810,325,326}	5	200	{{3,100},{4,50},{5,20}}	144000	{"BGM|Fight|Activity|DLC03,DLC|BOSS01,Stage|Stage01","BGM|UI|DLC09_Rich_Stage02"}	

@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	我正在执行一项搜救任务。	我正在執行一項搜救任務。	今は捜索任務中だ	난 지금 구조 미션 중이야.	I'm on a rescue mission.						0	
-2	明白，我会在完成任务后前来会合。	明白，我會在完成任務後前來會合。	了解。完了後に合流する。	알겠어. 이쪽 미션이 끝나자마자 합류할게.	I see. I'll go to the meeting spot after I finish the mission.						0	
-3	等等！别挂……	等等！別掛……	待って！切らないで……	잠깐! 끊지 마…	Wait! Hang on...						0	
-4	星期三！你怎么不让我听听分析员说了什么！	星期三！你怎麼不讓我聽聽分析員說了什麼！	ウェンズデー！なんで分析員の話を聞かせてくれないの！	웬스데이! 분석가가 하는 말을 어째서 안 들려주는 거지!	Wednesday! Couldn't you just let me hear what the Adjutant said?						0	

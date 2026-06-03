@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	给，这个你应该需要吧？	拿去，這個你應該需要吧？	ほら、これが必要なんでしょ？	자, 받아. 이런 건 좀 필요하지?	Here, you're going to need this right?						0	
-2	匕首用起来更顺手。	匕首用起來更順手。	ナイフの方が手応えがいい。	비수가 손에 더 익은 거 같아.	I'm better with a dagger.						0	
-3	哈？你不要仗着能力不顾安危啊！	哈？你不要仗著自己有實力就不顧安危啊！	はぁ？能力に頼りすぎるなよ！	뭐? 능력만 믿고 막하지 말라고!	Safety first! I don't think a dagger can handle this.						0	

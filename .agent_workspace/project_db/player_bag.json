@@ -1,0 +1,174 @@
+[
+  {
+    "milestone_key": "consumable",
+    "value": "consumable"
+  },
+  {
+    "milestone_key": "material",
+    "value": "material"
+  },
+  {
+    "milestone_key": "weapon",
+    "value": "weapon"
+  },
+  {
+    "milestone_key": "skin",
+    "value": "skin"
+  },
+  {
+    "milestone_key": "gift",
+    "value": "gift"
+  },
+  {
+    "milestone_key": "quest",
+    "value": "quest"
+  },
+  {
+    "milestone_key": "event",
+    "value": "event"
+  },
+  {
+    "milestone_key": "health",
+    "value": "health"
+  },
+  {
+    "milestone_key": "exp",
+    "value": "exp"
+  },
+  {
+    "milestone_key": "currency_box",
+    "value": "currency_box"
+  },
+  {
+    "milestone_key": "craft",
+    "value": "craft"
+  },
+  {
+    "milestone_key": "enhance",
+    "value": "enhance"
+  },
+  {
+    "milestone_key": "breakthrough",
+    "value": "breakthrough"
+  },
+  {
+    "milestone_key": "pistol",
+    "value": "pistol"
+  },
+  {
+    "milestone_key": "rifle",
+    "value": "rifle"
+  },
+  {
+    "milestone_key": "shotgun",
+    "value": "shotgun"
+  },
+  {
+    "milestone_key": "costume",
+    "value": "costume"
+  },
+  {
+    "milestone_key": "accessory",
+    "value": "accessory"
+  },
+  {
+    "milestone_key": "favorite",
+    "value": "favorite"
+  },
+  {
+    "milestone_key": "general",
+    "value": "general"
+  },
+  {
+    "milestone_key": "key",
+    "value": "key"
+  },
+  {
+    "milestone_key": "collectible",
+    "value": "collectible"
+  },
+  {
+    "milestone_key": "token",
+    "value": "token"
+  },
+  {
+    "milestone_key": "exchange",
+    "value": "exchange"
+  },
+  {
+    "milestone_key": "consume",
+    "value": "consume"
+  },
+  {
+    "milestone_key": "equip",
+    "value": "equip"
+  },
+  {
+    "milestone_key": "open_box",
+    "value": "open_box"
+  },
+  {
+    "milestone_key": "gift",
+    "value": "gift"
+  },
+  {
+    "milestone_key": "favorite_character_a",
+    "value": "favorite_character_a"
+  },
+  {
+    "milestone_key": "material_rare",
+    "value": "material_rare"
+  },
+  {
+    "milestone_key": "quest_main_story",
+    "value": "quest_main_story"
+  },
+  {
+    "milestone_key": "event_summer_2024",
+    "value": "event_summer_2024"
+  },
+  {
+    "milestone_key": "default",
+    "value": "default"
+  },
+  {
+    "milestone_key": "rarity_asc",
+    "value": "rarity_asc"
+  },
+  {
+    "milestone_key": "rarity_desc",
+    "value": "rarity_desc"
+  },
+  {
+    "milestone_key": "count_asc",
+    "value": "count_asc"
+  },
+  {
+    "milestone_key": "count_desc",
+    "value": "count_desc"
+  },
+  {
+    "milestone_key": "type_group",
+    "value": "type_group"
+  },
+  {
+    "milestone_key": "exact",
+    "value": "exact"
+  },
+  {
+    "milestone_key": "contains",
+    "value": "contains"
+  },
+  {
+    "milestone_key": "any",
+    "value": "any"
+  },
+  {
+    "milestone_key": "grid",
+    "value": "grid"
+  },
+  {
+    "milestone_key": "list",
+    "value": "list"
+  }
+]

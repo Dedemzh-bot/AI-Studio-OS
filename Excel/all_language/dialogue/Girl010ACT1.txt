@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	无论如何，我们得穿过这里。	無論如何，我們得穿過這裡。	いずれにせよ、ここを通り抜けないと。	어떻게든 이곳을 통과해야 해.	Whatever happens, we have to get through here.						0	
-2	我一给你信号，就开始跑，别管路上的敌人。	我一給你訊號，就開始跑，別管路上的敵人。	合図をしたら走れ、敵に構うな。	내가 신호를 주면 바로 뛰어. 주변 적들은 신경 쓰지 말고.	When I give the signal, run. Ignore anyone that attacks you.						0	
-3	现在，跑！	就是現在，跑！	今だ、走れ！	지금이야, 뛰어!	Now, run!						0	

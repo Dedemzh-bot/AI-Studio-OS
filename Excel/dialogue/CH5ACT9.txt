@@ -1,5 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	琴诺			找到了！这里面装的确实是<orange>原型抑制剂</>	0	
-2		0	恩雅			快，装到密码箱里。	0	
-3		0	恩雅			四处看看，尽快回收所有原型抑制剂。	0	

@@ -1,4 +1,0 @@
-关卡ID	关卡类型(0、通常关,1、Boss关,2、st剧情,3、重要,4、爬塔关,5、Boss挑战关,6、联机,7、ep剧情)	地图ID	战斗逻辑配置ID	解锁条件(1：账号等级；2：Level ID，3：是否拥有某道具，4：曜日本专用是否通关xx关卡)	出场怪物信息{{怪物编号,等级(填0不显示等级)}}	怪物强度模板	任务资源	Boss最大血量（真实血量）	Boss局内最大血量	单局造成伤害上限	是否统计小怪承伤(不填和填0不统计，填1统计)	血条数量
-LevelID	Type	MapID	FightID	Condition	Monster	LevelStrength	TaskPath	BossMaxHp	BossShowMaxHp	BossMaxDamage	CalcMonsterDamage	HpBarNum
-3401	0	3401	1		{600130501}	1	WorldBoss/WorldBoss_3401.WorldBoss_3401	630000000000000 	450000000	300000000		200
-3402	0	3401	1		{600130502}	1	WorldBoss/WorldBoss_3402.WorldBoss_3402	630000000000000 	450000000	300000000		200

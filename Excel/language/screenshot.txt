@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	disable	Remark
-TxtScanQRcode	请使用移动设备，打开<span color="#db8238">【尘白禁区】</>在登录界面，点击<span color="#db8238">[扫一扫]</>扫码将截图保存	0	DLC2.7分享功能
-TxtScreenshotFailMessage_Default	截图收藏失败	0	DLC2.7分享功能
-TxtScreenshotFailMessage_NoApp	缺少必要的应用程序，无法进行截图收藏	0	DLC2.7分享功能
-TxtScreenshotFailMessage_NoSpace	储存空间不足，无法进行截图收藏	0	DLC2.7分享功能

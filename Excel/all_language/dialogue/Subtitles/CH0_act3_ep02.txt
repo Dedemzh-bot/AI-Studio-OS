@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1000	这些家伙又围上来了！	這些傢伙又圍上來了！	また集まってきたわ！	녀석들이 또 몰려오고 있어!	They're closing in again!						0	3.2新序章协议动画
-1001	收拢阵型！管好自己的正前方！	收攏陣型！管好自己的正前方！	陣形を整えて！各自しっかり踏ん張って！	진형을 좁혀! 각자 전방을 지켜!	Close ranks! Eyes forward!						0	3.2新序章协议动画
-1002	不行，污染还在加重！它们变得更强了！	不行，汙染還在加重！它們變得更強了！	ダメだわ、汚染がひどくなったから、敵もどんどん強くなってる！	안 돼, 오염이 더 심해지고 있어! 놈들이 더 강해졌어!	Ugh, the contamination's spiking! They're getting stronger!						0	3.2新序章协议动画
-1003	分析员，火力支援模块已按时部署——	分析員，火力支援模組已按時部署——	分析員、火力支援モジュールは設置した。	분석가, 화력 지원 모듈은 정시에 설정해 뒀어.	Adjutant, fire support module deployed on schedule.						0	3.2新序章协议动画
-1004	交给你发挥咯	交給你發揮囉	あとはお願い。	이제 너에게 맡길게.	Your time to shine.						0	3.2新序章协议动画

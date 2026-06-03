@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-page1.1	鱼！	魚！	魚だ！	물고기!	Fish!						0	dlc30蓝图岛对话
-page1.2	好大的鱼！	好大的魚！	でかい魚！	엄청 큰 물고기다!	That's a massive fish!						0	dlc30蓝图岛对话
-page1.3	虎纹鲨鱼！	虎紋鯊魚！	イタチザメ！	호랑이상어다!	A tiger shark!						0	dlc30蓝图岛对话
-page1.4	两位也准备在蓝图岛上小抛几杆吗，要不要结个伴？	兩位也準備在藍圖島上小拋幾竿嗎，要不要結個伴？	おふたりもこの島で釣りをしているのかい？一緒に釣らないか？	두 분도 설계의 섬에서 낚시 좀 하시려고요? 같이 하실래요?	Are you two thinking of fishing here on Builder Island? Mind if I join?						0	dlc30蓝图岛对话
-page1.5	走啊一起，我们去挑一处钓点。	一起走啊，我們去挑一處釣點。	もちろんだよ。釣り場を探しに行こう。	같이 가자, 낚시터 하나 골라보자.	Sure, let's go pick a fishing spot together.						0	dlc30蓝图岛对话

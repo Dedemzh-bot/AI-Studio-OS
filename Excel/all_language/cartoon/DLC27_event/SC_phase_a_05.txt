@@ -1,8 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-page0.1	（难道要对着紫金葫芦，念出这只怪物的名字才能……）	（難道要對著紫金葫蘆，念出這隻怪物的名字才能……）	（もしかして、妖怪の名前を葫蘆に呼びかけるのか…？）	(혹시 자금 호리병을 향해 그 괴물의 이름을 불러야 하는 걸까?…)	(Do I really need to say the creature's name out loud to activate the gourd...?)						0	2.7版本妮塔入队剧情
-page0.2	（这只怪物的名字应该是……）	（這隻怪物的名字應該是……）	（その妖怪の名前は…）	(그 괴물의 이름은…)	(The name should be...)						0	2.7版本妮塔入队剧情
-choice01	魍魅咩咕魑魉咯哞	魍魅咩咕魑魎咯哞	魑魅チミ　魍魎モリ	망매미에구지령고묘	Flippy-Phantom-Wham-Bam						0	2.7版本妮塔入队剧情
-choice02	魍魉咕叽魑魅咩哞	魍魎咕嘰魑魅咩哞	魑魅チミ　魍魎モリョ	망령구기지매미에묘	Freaky-Phantom-Scam-Jam						0	2.7版本妮塔入队剧情
-choice03	魑魅咕咯魍魉咩哞	魑魅咕咯魍魎咩哞	魑魅チミ　魍魎モウリョウ	지매구고망령미에묘	Freaky-Phantom-Wham-Bam						0	2.7版本妮塔入队剧情
-choice04	魑魅咕吱魍魉咩哞	魑魅咕魍魎咩哞	魑魅チミ　魍魎モウリ	지매구지망령미에묘	Flippy-Phantom-Wham-Jam						0	2.7版本妮塔入队剧情

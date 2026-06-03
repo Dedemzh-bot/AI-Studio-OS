@@ -1,5 +1,0 @@
-﻿大厅皮肤ID	大厅类型	大厅图标	大厅名字	获取来源	对应道具	默认解锁	初始读取	逻辑场景	美术场景	灯光场景
-ID	Type	Icon	Name	Resource	GDPL	Unlock	Default	MapLogic	MapArt	MapLight
-1	0	1006045	house.HallSkin01	house.HallSkinResource01		1	1	house_hallskin_logic01	house001	house001_light
-2	0	1006044	house.HallSkin02	house.HallSkinResource02	{4,14,1,1}			house_hallskin_logic02	house_hallskin02	house_hallskin02_light
-3	1	1006043	house.HallSkin03	house.HallSkinResource03	{4,14,2,1}			house_hallskin_logic03	house_hallskin01	house_hallskin01_light

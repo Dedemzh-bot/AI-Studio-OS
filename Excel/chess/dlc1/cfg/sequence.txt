@@ -1,4 +1,0 @@
-动画Id	注释	路径	是否循环播放
-Id	Nul	Path	Loop
-1	测试动画	/Game/Cinematics/chess/ChessSequence01.ChessSequence01	1
-2	问号动画	/Game/Cinematics/chess/ChessSequence02.ChessSequence02	1

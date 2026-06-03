@@ -1,8 +1,0 @@
-ID	备注	buff名称	buff描述	图标	数值	skillinfo	skillfix	持续回合数
-ID	Comment	Name	Des	Icon	ParamPerCount	SkillInfo	SkillFix	Duration
-1	我方上阵队员弹匣容量-50%	bagrogue.TeamBuffName1	bagrogue.TeamBuffDes1	1001051	{50}	{7011073,1}		5
-2	我方上阵队员射击速度-30%	bagrogue.TeamBuffName2	bagrogue.TeamBuffDes2	1001112	{30}	{7011074,1}		5
-3	我方上阵队员的最终伤害-20%	bagrogue.TeamBuffName3	bagrogue.TeamBuffDes3	1001053	{20}	{7011075,1}		5
-4	我方上阵队员受到的最终伤害+50%	bagrogue.TeamBuffName4	bagrogue.TeamBuffDes4	1001047	{50}	{7011076,1}		5
-5	我方上阵队员进行射击时，获得的爆发能量-50%	bagrogue.TeamBuffName5	bagrogue.TeamBuffDes5	1001049	{50}	{7011077,1}		5
-6	我方上阵队员技能冷却时间+100%	bagrogue.TeamBuffName6	bagrogue.TeamBuffDes6	1001096	{100}	{7011078,1}		5

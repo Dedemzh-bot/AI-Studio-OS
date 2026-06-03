@@ -1,5 +1,0 @@
-字符串索引	说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Speaker	WwiseEventID	zh_CN	disable	Remark
-page1.1	T方脑壳		你好~你好~可以帮我个忙吗？	0	2.5新星开拓关卡npc
-page1.2	T方脑壳		请你帮助我，我想要带<orange>幻影无人机</>一起回去，谢谢~谢谢~	0	2.5新星开拓关卡npc
-page1.3	T方脑壳		我会在这里等你的。	0	2.5新星开拓关卡npc

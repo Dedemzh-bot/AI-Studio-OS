@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-Attack	攻击力+%s%%	攻擊力+%s%%	攻撃力+%s%%	공격력+%s%%	ATK +%s%%						0	
-Defence	防御力+%s%%	防禦力+%s%%	防御力+%s%%	방어력+%s%%	DEF +%s%%						0	
-Health	最大生命+%s%%	最大生命+%s%%	最大HP+%s%%	최대 HP+%s%%	Max HP +%s%%						0	

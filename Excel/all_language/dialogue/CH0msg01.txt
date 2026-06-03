@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	跟预期一样，泰坦污染似乎对你没什么影响。感觉不舒服的话，要立马跟我沟通。	跟預期的一樣，泰坦汙染似乎對你沒什麼影響。感覺不舒服的話，要立刻告訴我。	ちゃんと動けますね。予想通り、タイタン汚染の影響はあなたにはあまりありません。具合が悪いと感じたら、いつでも私に言ってください。	예상했던 대로 타이탄 오염이 별다른 영향은 안 주는 것 같아요. 그래도 불편한 곳이 있으시면 바로 말씀해 주셔야 해요.	Your reflexes seem fine so far. But if you start to feel any effects from the Titagen exposure, tell me immediately.						0	
-3	这一次，毕竟没有<orange>分析员</>这样的角色进行作战支持。	這一次，畢竟沒有<orange>分析員</>這樣的角色進行作戰支援。	今回は作戦をサポートする<orange>分析員</>がいませんから。	이번에는 <orange>분석가</>가 없는 상황에서 지원을 하는 거라서요.	Remember, you don't have an <orange>Adjutant</> to support you if anything goes wrong.						0	
-5	明白。	明白。	分かった。	알겠어.	Understood.						0	

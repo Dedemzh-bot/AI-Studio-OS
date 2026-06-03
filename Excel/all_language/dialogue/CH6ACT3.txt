@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	你……你……你**到底要干什么！	你……你……你這混帳到底要幹什麼！	お、お前自分が何をしてるか分かってるのか！？	너… 너 이**… 도대체 정체가 뭐야!	...T-The **** you think you're doing!?						0	
-2	问路。	問路。	道を聞いてる。	길 좀 묻고 싶어서.	Asking for directions.						0	
-3	问路？问路！你这像是来问路的？！	問路？問路！你這像是來問路的？！	道を聞いてるって？ならさっきの攻撃は！？	뭐? 길?! 이게 길을 물어보러 온 사람이 할 짓이야?!	You were just asking the way!? Like we'd have guessed that!						0	
-4	不是我先动手的	不是我先動手的	先に手を出したのは私じゃないけど。	너희가 먼저 덤벼서 그런 거지.	I didn't make the first move, you know.						0	

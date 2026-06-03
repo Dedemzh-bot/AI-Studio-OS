@@ -1,9 +1,0 @@
-﻿主键ID	//注释	参数	//注释
-ID	Comment	Param	
-BattleSpeed1	局内倍速-默认	1	x倍速
-BattleSpeed2	局内倍速	2	
-BattleSpeed3	局内倍速	4	
-PlayerTalkCD	分析员发言CD	10	单位：秒
-GirlReplyDelay	少女回复延迟	2	分析员发言后若触发少女回复，间隔多少秒显示回复文本
-Guaranty	保底局触发条件	2	对应模式人数局的连续失败局数（不是第1名就算失败）(后续可能有其他计算方式，预留)
-TipsShowTime	顶部通用流程提示持续时间	12	单位：秒

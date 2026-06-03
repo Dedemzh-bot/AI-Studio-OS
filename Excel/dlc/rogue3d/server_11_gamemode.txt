@@ -1,5 +1,0 @@
-ID	备注	排序（检查数值较大的，从左往右）	图标样式	模式名称	下辖难度	开启条件（难度id）	赛季控制开放	是否生效（0关闭 1开放）
-ID	Comment	OrderNum	Icon	Name	DifficultList	OpenCondition	SeasonLimit	IsOpen
-1	特殊模式	2	1001144	rogue3.season_playType_name1	{100}	2	0	1
-2	普通模式	1	1001143	rogue3.season_playType_name2	{1,2,3,4}			1
-3	积分模式	3	1001144	rogue3.season_playType_name3			1	1

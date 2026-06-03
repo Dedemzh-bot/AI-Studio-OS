@@ -1,4 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-2	我们的目标是<orange>回收从槲寄生空间站返回地面的逃生舱</>。	我們的目標是<orange>回收從槲寄生太空站返回地面的逃生艙</>。	私たちの目標は<orange>ヤドリギ宇宙ステーションから地上に戻った脱出ポッドの回収</>です。	저희 미션은 <orange>미스틸테인 우주정거장에서 지면으로 돌아온 탈출선을 회수</>하는 거예요.	Objective is to <orange>recover the escape pod that came down from Mistilteinn Station</>.						0	
-3	老板的命令是<orange>不要节外生枝</>。	老闆的命令是<orange>不要節外生枝</>。	<orange>目標回収以外の行動は極力避けるように</>、とボスから釘を刺されています	대표님이 이 외에 <orange>쓸데없는 일</>은 신경 쓰지 말라고 하셨어요.	The boss said to <orange>stick to the script</>.						0	

@@ -1,207 +1,109 @@
 {
-  "inventory_system": {
-    "continuous_formulas": {
-      "max_slots": {
-        "base": 50,
-        "growth": 5,
-        "type": "linear"
-      },
-      "current_slots": {
-        "base": 0,
-        "growth": 0,
-        "type": "linear"
-      },
-      "items": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      },
-      "materials": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      }
-    },
-    "discrete_milestones": {
-      "0": {
-        "expand_item_id": "expand_ticket",
-        "expand_slot_increment": 5,
-        "max_slot_limit": 500,
-        "initial_slot_count": 50,
-        "overflow_mail_retention_days": 30,
-        "overflow_mail_warning_days": 7,
-        "daily_free_expand_limit": 1,
-        "expand_fragment_required": 10,
-        "expand_item_count_in_gift": 3,
-        "expand_monthly_card_duration": 30,
-        "activity_item_conversion_rate": 10.0,
-        "activity_end_warning_days": 3
-      }
-    }
+  "global_parameters": {
+    "scene_load_timeout": 15,
+    "rotation_step": 15.0,
+    "scale_step": 0.1,
+    "max_furniture_count": 30,
+    "scheme_name_max_length": 20,
+    "watermark_opacity": 0.3,
+    "ui_opacity_min": 0.1,
+    "ui_opacity_max": 0.9,
+    "free_scene_template_count": 3,
+    "base_pose_count": 2,
+    "base_expression_count": 2,
+    "free_filter_count": 5,
+    "free_scheme_slot_count": 3
   },
-  "item_management": {
-    "continuous_formulas": {
-      "quantity": {
-        "base": 0,
-        "growth": 0,
-        "type": "linear"
-      },
-      "stack_limit": {
-        "base": 999,
-        "growth": 0,
-        "type": "linear"
-      }
+  "scene_templates": [
+    {
+      "template_id": "bedroom_01",
+      "name": "温馨卧室",
+      "description": "基础卧室场景，适合日常展示",
+      "is_free": true,
+      "unlock_cost": 0
     },
-    "discrete_milestones": {
-      "0": {
-        "item_type": "consumable",
-        "rarity": "N",
-        "is_stackable": true,
-        "use_conditions": [],
-        "decompose_output": [],
-        "sale_output": [],
-        "synthesis_recipes": []
-      }
-    }
-  },
-  "player_inventory": {
-    "continuous_formulas": {
-      "max_slots": {
-        "base": 50,
-        "growth": 5,
-        "type": "linear"
-      },
-      "current_slots": {
-        "base": 0,
-        "growth": 0,
-        "type": "linear"
-      },
-      "items": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      },
-      "materials": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      }
+    {
+      "template_id": "balcony_01",
+      "name": "阳光阳台",
+      "description": "户外阳台场景，光线明亮",
+      "is_free": true,
+      "unlock_cost": 0
     },
-    "discrete_milestones": {
-      "0": {
-        "expand_item_id": "expand_ticket",
-        "expand_slot_increment": 5,
-        "max_slot_limit": 500,
-        "initial_slot_count": 50,
-        "overflow_mail_retention_days": 30,
-        "overflow_mail_warning_days": 7
-      }
-    }
-  },
-  "mail_system": {
-    "continuous_formulas": {
-      "inbox": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      }
+    {
+      "template_id": "garden_01",
+      "name": "秘密花园",
+      "description": "花园场景，适合拍照",
+      "is_free": true,
+      "unlock_cost": 0
     },
-    "discrete_milestones": {
-      "0": {
-        "overflow_mail_retention_days": 30,
-        "overflow_mail_warning_days": 7
-      }
-    }
-  },
-  "economy_system": {
-    "continuous_formulas": {
-      "currency_balance": {
-        "base": 0,
-        "growth": 0,
-        "type": "linear"
-      }
+    {
+      "template_id": "pool_01",
+      "name": "豪华泳池",
+      "description": "高级泳池场景，付费解锁",
+      "is_free": false,
+      "unlock_cost": 680
     },
-    "discrete_milestones": {
-      "0": {
-        "daily_free_expand_limit": 1,
-        "expand_fragment_required": 10,
-        "expand_item_count_in_gift": 3,
-        "expand_monthly_card_duration": 30,
-        "activity_item_conversion_rate": 10.0,
-        "activity_end_warning_days": 3
-      }
+    {
+      "template_id": "terrace_01",
+      "name": "星空露台",
+      "description": "星空主题露台，付费解锁",
+      "is_free": false,
+      "unlock_cost": 880
     }
-  },
-  "activity_system": {
-    "continuous_formulas": {
-      "activity_items": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      }
+  ],
+  "base_poses": [
+    {
+      "pose_id": "stand_01",
+      "name": "标准站立",
+      "description": "基础站立姿势",
+      "is_default": true
     },
-    "discrete_milestones": {
-      "0": {
-        "activity_item_conversion_rate": 10.0,
-        "activity_end_warning_days": 3
-      }
+    {
+      "pose_id": "sit_01",
+      "name": "优雅坐姿",
+      "description": "基础坐姿",
+      "is_default": true
     }
-  },
-  "ui_display": {
-    "continuous_formulas": {
-      "current_slots": {
-        "base": 0,
-        "growth": 0,
-        "type": "linear"
-      },
-      "max_slots": {
-        "base": 50,
-        "growth": 5,
-        "type": "linear"
-      },
-      "items": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      },
-      "materials": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      }
+  ],
+  "base_expressions": [
+    {
+      "expression_id": "smile_01",
+      "name": "微笑",
+      "description": "基础微笑表情",
+      "is_default": true
     },
-    "discrete_milestones": {
-      "0": {
-        "item_icon_size": 64,
-        "sort_options": [
-          {
-            "field": "acquire_time",
-            "order": "desc"
-          }
-        ],
-        "filter_options": [],
-        "search_keyword": ""
-      }
+    {
+      "expression_id": "blink_01",
+      "name": "眨眼",
+      "description": "基础眨眼表情",
+      "is_default": true
     }
-  },
-  "data_sync": {
-    "continuous_formulas": {
-      "write_queue": {
-        "base": [],
-        "growth": 0,
-        "type": "linear"
-      },
-      "lock_status": {
-        "base": false,
-        "growth": 0,
-        "type": "linear"
-      }
+  ],
+  "free_filters": [
+    {
+      "filter_id": "natural_01",
+      "name": "自然",
+      "description": "自然色彩滤镜"
     },
-    "discrete_milestones": {
-      "0": {
-        "transaction_rollback": false,
-        "queue_mechanism": true
-      }
+    {
+      "filter_id": "warm_01",
+      "name": "暖阳",
+      "description": "暖色调滤镜"
+    },
+    {
+      "filter_id": "cool_01",
+      "name": "冷月",
+      "description": "冷色调滤镜"
+    },
+    {
+      "filter_id": "vintage_01",
+      "name": "复古",
+      "description": "复古胶片滤镜"
+    },
+    {
+      "filter_id": "soft_01",
+      "name": "柔光",
+      "description": "柔光效果滤镜"
     }
-  }
+  ]
 }

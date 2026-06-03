@@ -1,6 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	这是，这是……	這是，這是……	こ、これは……	이, 이건…	Th-This is...						0	
-2	是星期三……不，是奥丁那家伙干的…	是星期三……不，是奧丁那傢伙幹的…	ウェンズデー……いや、オーディンのやつの仕業ね……	웬스데이… 아니, 이건 오딘이 한 짓이야…	It was Wednesday... No, Odin did this...						0	
-3	也只有她能做到。	也只有她能做到。	こんなことができるのは彼女しかいないわ。	오직 오딘만이 할 수 있는 일이지.	She's the only one capable of it.						0	
-4	快找找分析员在哪。	快找找分析員在哪。	早く分析員を探しましょ。	어서 분석가부터 찾아보자.	Go find the Adjutant.						0	

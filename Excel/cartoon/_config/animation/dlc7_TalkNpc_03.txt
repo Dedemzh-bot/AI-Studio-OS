@@ -1,9 +1,0 @@
-﻿Id,不能变	说明	动画类型	动画名	路径	注释
-Id	Explain	Type	Name	Path	Nul
-1	待机	sequence	npc108_task_scared_loop	AnimSequence'/Game/Characters/Monster/mon108/Anim/npc108_task_scared_loop.npc108_task_scared_loop'	
-					
-					
-					
-100	组合动作	custom_seq			
-101	全部循环	custom_loop			
-102	循环最后一个	custom_loop_last			

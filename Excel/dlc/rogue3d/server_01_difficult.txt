@@ -1,7 +1,0 @@
-ID	显示类型（1特殊模式 2普通模式）	难度名称	难度名称备注	icon	难度级别（品质）	敌人等级	最大层数	难度描述	难度描述备注	解锁条件（需完成x难度）	初始局内货币	货币奖励系数（万分比）	科技点奖励系数（万分比）	通用buffid	玩法列表	每日初始buffcost
-DifficultID	Type	Name	NameComment	Icon	DifficultTypeId	level	MaxFloor	Des	DesComment	UnlockCondition	BattleCoin	CoinMultiple	TechnologyMultiple	BaseBuff	GameplayGroup	DailyBuffCost
-1	2	ui.TxtDLC5.RogueDiff1	平坦	1701234	1	35	6	rogue3.difficult_des_101	轻松的推演过程，不会遇到战术干扰，可获得的较少的推演经验和智略点。		100	10000	10000	1000	{100,101}	20
-2	2	ui.TxtDLC5.RogueDiff2	蜿蜒	1701235	2	55	12	rogue3.difficult_des_201	轻松的推演过程，偶尔会遇到战术干扰，可获得的一般的推演经验和智略点。		100	10000	10000	1000	{200,201,202}	30
-3	2	ui.TxtDLC5.RogueDiff3	崎岖	1701236	3	75	17	rogue3.difficult_des_301	困难的推演过程，偶尔会遇到战术干扰，敌方显著变强，可获得的较多的推演经验和智略点。	2	60	10000	10000	1000	{300,301,302,303,304}	40
-4	2	ui.TxtDLC5.RogueDiff4	绝境	1701237	4	85	22	rogue3.difficult_des_401	高压的推演过程，经常遇到战术干扰，敌方数量众多且极具挑战性，可获得的较多的推演经验和智略点。	3	0	10000	10000	1000	{400,401,402,403,404}	50
-100	1	rogue3.difficult_Name_100	迭战模式	1701237			13	rogue3.difficult_des_10001	多个幻境构成的训练阵地，在虚实中找寻真正的破解之道	2	150	10000	10000		{811,812,813,821,822,823,831,832,833}	40

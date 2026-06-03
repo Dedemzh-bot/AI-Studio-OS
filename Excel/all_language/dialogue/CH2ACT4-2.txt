@@ -1,5 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-1	……仓库？	……倉庫？	……倉庫？	… 창고?	...Warehouse?						0	
-3	卡罗琳给的情报完全没提到这有个仓库。	卡羅琳給的情報完全沒提到這有個倉庫。	カロリンの情報にはこの倉庫について何もなかったわね。	캐롤린이 준 정보에 이 창고가 없었어.	This is not included in the intel Caroline sent.						0	
-2	去看看。	去看看。	見に行こう。	일단 확인해 보자.	Check it out.						0	

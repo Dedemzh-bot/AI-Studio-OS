@@ -1,5 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	安卡希雅			他们就把弹药箱这样随意摆放在路边吗？	0	
-2		0	安卡希雅			不像是接受过系统性的军事训练。	0	
-3		0	安卡希雅			不过拿起来方便的。	0	

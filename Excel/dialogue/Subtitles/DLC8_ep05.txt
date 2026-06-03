@@ -1,5 +1,0 @@
-﻿字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1000		0				派 还是忍不住动手了吗，恒沙。	0	
-1001		0				派 暴露了自己的位置，你可跑不掉了。	0	
-1002		0				恒沙 否定，本机没有移动的计划。	0	

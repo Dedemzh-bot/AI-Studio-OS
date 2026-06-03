@@ -1,7 +1,0 @@
-所属区域	Id(程序自动生成)	点名	位置	旋转	类型	对应的配置Id	自定义参数	所属设计区域
-Area	Id	Name	Pos	Rot	Type	Index	CustomParam	DRegion
-Logic	1	mapdefinea	{-46095.54,-26380.75,0.0}	{0.0,0.0,90.0}	2	0		0
-	2	mapdefineb	{8968.46,28683.25,0.0}	{0.0,0.0,90.0}	3	0		0
-
-
-

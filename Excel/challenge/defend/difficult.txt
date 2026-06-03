@@ -1,6 +1,0 @@
-ID	难度名称	难度名称备注	icon	难度级别（品质）	敌人等级	难度描述	难度描述备注	解锁条件（需完成x难度）
-DifficultID	Name	NameComment	Icon	DifficultTypeId	level	Des	DesComment	UnlockCondition
-1	defenselevel.Def_Level81	简单	1701251	1	30	defenselevel.Def_Level81_Des	战斗轻松，不会遭遇过强的敌方，可获得较少的御敌积分。	
-2	defenselevel.Def_Level82	普通	1701252	2	50	defenselevel.Def_Level82_Des	战斗轻松，敌方基本资质平平，可获得一般的御敌积分。	
-3	defenselevel.Def_Level83	困难	1701253	3	70	defenselevel.Def_Level83_Des	战斗较为困难，敌方训练有素，可获得较多御敌积分。	2
-4	defenselevel.Def_Level84	厄险	1701254	4	80	defenselevel.Def_Level84_Des	战斗非常危险，敌方精通战斗且攻击欲望强，可获得较多御敌积分。	3

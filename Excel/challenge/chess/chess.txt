@@ -1,6 +1,0 @@
-﻿ID	备注	开始时间	结束时间	活动名	首次进入剧情	奖励货币	单局奖励上限	每日奖励上限	每日任务({成就id}activity_quest.txt)	每周任务({成就id}activity_quest.txt)	活动期任务({成就id}activity_quest.txt)
-ID	Comments	BeginTime	EndTime	Title	Story	Award	AwardMax	AwardDayMax	Daily	Weekly	Normal
-1	dlc1	[202205090400]	[202309260400]	ui.TxtChessTitle	81011100						
-2	dlc3	[202311131000]	[202312140400]	ui.TxtRichManName			{20,35,50,50}	9999			
-3	dlc9	[202407110400]	[202408220400]	ui.TxtDLC9.BtnRichmen	8109201						
-4	dlc3.0复刻	[202507100400]	[202508210400]	ui.TxtRichManName		56	{20,35,50,50}	9999			

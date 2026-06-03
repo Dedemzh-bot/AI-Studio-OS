@@ -1,7 +1,0 @@
-﻿字符串索引	中文简体	中文繁体	日语	韩语	英语	法语	西班牙语	德语	泰语	印尼语	1=临时文案  0和不填都=正式文案	备注
-Key	zh_CN	zh_TW	ja_JP	ko_KR	en_US	fr_FR	es_ES	de_DE	th_TH	id_ID	disable	Remark
-3	你们在哪里？先会合。	你們在哪裡？先會合。	まずは合流だ。位置を報告しろ。	다들 어딨는 거야? 일단 합류부터 하도록 하지.	Where are you guys? Let's rendezvous first.						0	
-4	我们在……好几栋楼宇之间的通道上。	我們在……好幾棟樓宇之間的通道上。	私たちは……いくつかのビルの間の通路にいます。	저희는… 지금 건물 사이에 있는 통로에 있어요.	We're... on a path between a bunch of buildings.						0	
-auto_14623	我们也在好几栋楼之间的通道上。	我們也在好幾棟大樓之間的通道上。	こっちも。別のいくつかのビルの間の通路に。	우리도 지금 건물 사이에 있는 통로에 있어.	We're on a path between a bunch of buildings too.						0	
-auto_25740	……	……	……	…	...						0	
-auto_4186	那就都到我发送的这个坐标来，抓紧时间！	那就都到我發送的這個座標來，抓緊時間！	座標を送信した。全員ここで合流、はやく！	그럼 일단 내가 보낸 좌표 지점으로 오도록 해, 서둘러!	Head to the coordinates I sent. Make it quick!						0	

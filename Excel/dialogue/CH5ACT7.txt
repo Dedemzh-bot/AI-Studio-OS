@@ -1,4 +1,0 @@
-字符串索引	标记	立绘位置	说话人	实际说话人	Wwise事件名	中文简体	非正式文案禁用翻译，对应模块的策划填写（1是，0否）	备注
-Key	Flag	Pos	Speaker	RealSpeaker	WwiseEventID	zh_CN	disable	Remark
-1		0	恩雅			果然降临团的目的也是<orange>原型抑制剂</>，看来他们已经在这守株待兔很久了。	0	
-2		0	恩雅			分析员，我们要抓紧了！	0	

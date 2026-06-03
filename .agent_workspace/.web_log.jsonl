@@ -1,29 +1,20 @@
 [Router] AI Studio OS 调度中枢已启动（常驻守护模式）...
-[Router] 监听文件: I:\AiStudioOS\.agent_workspace\task_status.json
+[Router] 监听文件: D:\3.AIStudioOS\.agent_workspace\task_status.json
 [Router] 轮询间隔: 2 秒
 [Router] 按 Ctrl+C 可停止调度中枢
-[Router] 归档仓库已就绪: I:\AiStudioOS\.agent_workspace\project_db
+[Router] 归档仓库已就绪: D:\3.AIStudioOS\.agent_workspace\project_db
 
-[Router] 概念简案已就绪: I:\AiStudioOS\.agent_workspace\concept_brief.md (8 字符)
+[Router] 概念简案已就绪: D:\3.AIStudioOS\.agent_workspace\concept_brief.md (9 字符)
 [Router] 检测到新需求（内容与缓存不一致）。
 
 [Router] 正在执行开机清理...
 [Router] 已清理历史遗留文件: task_route.json
-[Router] 已清理历史遗留文件: system_schema.json
-[Router] 已清理历史遗留文件: system_numerical_docs.json
-[Router] 已清理历史遗留文件: system_numerical_data.json
-[Router] 已清理历史遗留文件: audit_feedback.json
-[Router] 已清理历史遗留文件: audit_trace_log.md
-[Router] 已清理历史遗留文件: ui_interaction_blueprint.md
 [Router] AI Studio OS 调度中枢已就绪（等待修改概念简案）...
 
 [Router] 检测到老板更新了《概念简案》内容！自动触发分发器...
-[Router] 已清理旧文件: system_design_draft.md
-[Router] 已清理旧文件: system_design_detail.md
-[Router] 已清理旧文件: task_plan.md
 [Router][心跳] 当前状态: pending_classification
 [Router] 正在调用前置分类器判断需求类别...
-[Router] 需求类别判定: system | 背包系统包含UI界面与物品管理逻辑，属于系统功能
+[Router] 需求类别判定: system | 宿舍策划案涉及多系统、玩法规则和UI界面逻辑
 [Router] 正在唤醒档案管理员，构建全局项目记忆 (Project Codex)...
 [Router] 项目记忆 Codex 构建完成。
 [Router] 🏗️ 识别为玩法系统需求，进入知识驱动管线。
@@ -35,20 +26,23 @@
   - 通用_未命名系统_v1_[错误案例]_all_1780041051.md
 [RAG] 最终加载 1 个文件, 7127 字符
 [RAG] 总上下文（含全局文件+Meta): 10582 字符
-[Visionary] 已加载: 概念简案(8c) RAG上下文(10582c)
+[Visionary] 已加载: 概念简案(9c) RAG上下文(10582c)
 [Visionary] 正在呼叫大模型进行需求审核与起草...
 ============================================================
 【大模型原始返回】:
-{"status": "need_info", "question": "老板，关于背包系统，我需要先确认一个最核心的宏观方向：\n\n这个背包系统的定位是偏向【A. 纯仓储工具】—— 仅用于存放、查看、使用道具，不做任何额外展示或互动；\n还是偏向【B. 角色展示橱窗】—— 背包界面本身就是一个可以展示角色模型/立绘的场所，比如打开背包时角色在背景中站立或摆弄道具，道具卡片也带有角色互动元素？"}
+{"status": "need_info", "question": "关于宿舍系统的核心定位，您更倾向于以下哪种方向？\n\nA. **纯情感陪伴空间**：宿舍是角色与玩家私密互动的核心场所，强调触摸、对话、送礼等深度ML互动，不产出任何战斗资源，完全服务于角色厨力。\n\nB. **轻度养成+资源产出**：在情感陪伴的基础上，每日互动可产出少量基础养成资源（如角色经验、金币），作为日常循环的一环，但核心仍是角色展示。\n\nC. **高自由度展示+社交分享**：宿舍是玩家自定义角色展示的空间，强调换装、拍照、场景布置，并支持截图分享到社交平台，互动性次之。"}
 ============================================================
 
-[主策追问] 老板，关于背包系统，我需要先确认一个最核心的宏观方向：
+[主策追问] 关于宿舍系统的核心定位，您更倾向于以下哪种方向？
 
-这个背包系统的定位是偏向【A. 纯仓储工具】—— 仅用于存放、查看、使用道具，不做任何额外展示或互动；
-还是偏向【B. 角色展示橱窗】—— 背包界面本身就是一个可以展示角色模型/立绘的场所，比如打开背包时角色在背景中站立或摆弄道具，道具卡片也带有角色互动元素？
-{"status": "need_info", "question": "老板，关于背包系统，我需要先确认一个最核心的宏观方向：\n\n这个背包系统的定位是偏向【A. 纯仓储工具】—— 仅用于存放、查看、使用道具，不做任何额外展示或互动；\n还是偏向【B. 角色展示橱窗】—— 背包界面本身就是一个可以展示角色模型/立绘的场所，比如打开背包时角色在背景中站立或摆弄道具，道具卡片也带有角色互动元素？"}
+A. **纯情感陪伴空间**：宿舍是角色与玩家私密互动的核心场所，强调触摸、对话、送礼等深度ML互动，不产出任何战斗资源，完全服务于角色厨力。
 
->>> A
+B. **轻度养成+资源产出**：在情感陪伴的基础上，每日互动可产出少量基础养成资源（如角色经验、金币），作为日常循环的一环，但核心仍是角色展示。
+
+C. **高自由度展示+社交分享**：宿舍是玩家自定义角色展示的空间，强调换装、拍照、场景布置，并支持截图分享到社交平台，互动性次之。
+{"status": "need_info", "question": "关于宿舍系统的核心定位，您更倾向于以下哪种方向？\n\nA. **纯情感陪伴空间**：宿舍是角色与玩家私密互动的核心场所，强调触摸、对话、送礼等深度ML互动，不产出任何战斗资源，完全服务于角色厨力。\n\nB. **轻度养成+资源产出**：在情感陪伴的基础上，每日互动可产出少量基础养成资源（如角色经验、金币），作为日常循环的一环，但核心仍是角色展示。\n\nC. **高自由度展示+社交分享**：宿舍是玩家自定义角色展示的空间，强调换装、拍照、场景布置，并支持截图分享到社交平台，互动性次之。"}
+
+>>> C
 [Router] 已将问答对追加至概念简案。
 [Router] 正在运行 Visionary 审核需求...
 [RAG] task_domain=概念设计 | best_practices: 0/3 匹配 | anti_patterns: 1/4 匹配
@@ -56,51 +50,52 @@
   - 通用_未命名系统_v1_[错误案例]_all_1780041051.md
 [RAG] 最终加载 1 个文件, 7127 字符
 [RAG] 总上下文（含全局文件+Meta): 10582 字符
-[Visionary] 已加载: 概念简案(189c) RAG上下文(10582c)
+[Visionary] 已加载: 概念简案(272c) RAG上下文(10582c)
 [Visionary] 正在呼叫大模型进行需求审核与起草...
 ============================================================
 【大模型原始返回】:
 {"status":"draft_ready"}
-# 背包系统 - 宏观设计草案
+# 角色宿舍 - 宏观设计草案
 
 ## 一、系统概述与设计愿景
 
 ### 1.1 系统定位
-- **纯仓储工具**：背包系统仅作为玩家存放、查看、使用道具的容器，不承载任何角色展示、互动或表现层功能。
-- **业务边界**：负责管理所有非货币类道具（材料、消耗品、装备、礼物、皮肤等）的增删改查，以及道具的使用/合成/分解等基础操作。
-- **触发条件**：玩家从主界面或任意系统入口（如商店购买后、关卡结算后）打开背包，系统加载当前玩家的道具列表。
+- **核心定位**：高自由度角色展示与自定义空间，强调换装、拍照、场景布置，支持截图分享到社交平台。
+- **前置条件**：玩家必须拥有至少一名已获取的角色。
+- **数据归属**：宿舍场景配置、角色装扮状态、拍照数据均以玩家ID+角色ID为复合主键持久化。
+- **入口规则**：主界面“宿舍”入口常驻，点击后进入角色选择界面，再加载对应角色的宿舍场景。
 
 ### 1.2 设计目标
-- **高效管理**：提供清晰的分类、排序、筛选、搜索功能，让玩家能快速定位目标道具。
-- **数据一致性**：作为全游戏道具数据的中央枢纽，确保所有系统（战斗、养成、商城、活动）对道具的增删操作最终同步至背包。
-- **轻量无干扰**：UI设计简洁，不遮挡战斗/角色展示场景，不引入额外动画或特效，仅作为功能性界面存在。
+- **核心目标**：为玩家提供“展示角色魅力”的创作与分享平台，强化角色厨力与社交传播。
+- **非目标**：不产出任何战斗资源或抽卡资源，不包含触摸互动、送礼、对话等ML向深度互动。
+- **成功指标**：日均拍照次数、截图分享率、换装频率、场景布置修改频率。
 
 ## 二、核心规则与玩法机制
 
-### 2.1 道具分类体系
-- **消耗品**：体力药水、经验书、技能材料等，可堆叠，使用后消耗。
-- **装备/武器**：角色可穿戴的武器、圣痕等，不可堆叠，可强化/分解。
-- **礼物**：用于宿舍好感度系统，可堆叠，赠送后消耗。
-- **皮肤/外观**：角色换装道具，不可堆叠，使用后解锁对应皮肤。
-- **活动道具**：限时活动掉落物，活动结束后自动回收或转化为基础货币。
-- **材料**：角色突破、技能升级等所需素材，可堆叠。
+### 2.1 角色展示与换装
+- **换装系统**：玩家可为角色更换已拥有的皮肤/配件（头饰、服装、武器外观等），实时预览并确认保存。
+- **姿势系统**：角色可切换预设姿势（站立、坐姿、依靠、蹲姿等），部分姿势随角色获取或活动解锁。
+- **表情系统**：角色可切换预设表情（微笑、眨眼、害羞、严肃等），部分表情随角色获取或活动解锁。
 
-### 2.2 基础操作规则
-- **使用**：选中消耗品/礼物/皮肤，点击“使用”按钮，系统校验条件（如角色是否拥有、是否已解锁）后执行，道具数量-1。
-- **分解/出售**：选中可分解道具，点击“分解”，系统按预设公式返还对应材料/货币，道具消失。
-- **合成
-... (共 2475 字符)
+### 2.2 场景布置
+- **场景模板**：提供多个基础场景模板（卧室、阳台、花园、泳池边等），玩家可自由选择。
+- **家具/装饰品**：玩家可摆放家具、装饰品（椅子、桌子、花束、灯光、背景板等）到场景中，自由调整位置、旋转、缩放。
+- **场景主题**：支持整体场景主题切换（如“夏日祭”、“圣诞夜”、“和风”），主题包含配套家具与装饰品。
+
+### 2.3 拍照模式
+- **自由镜头**：进入拍照模式后，UI隐藏，
+... (共 2874 字符)
 ============================================================
 
 [主策确认] 需求已达 100% 标准，正在起草设计草案...
-[Visionary] 设计草案已保存: I:\AiStudioOS\.agent_workspace\system_design_draft.md (2450 字符)
-[Visionary] 元数据已保存: I:\AiStudioOS\.agent_workspace\project_meta.json (背包系统/背包系统)
+[Visionary] 设计草案已保存: D:\3.AIStudioOS\.agent_workspace\system_design_draft.md (2849 字符)
+[Visionary] 元数据已保存: D:\3.AIStudioOS\.agent_workspace\project_meta.json (角色宿舍/角色宿舍)
 {"status": "draft_ready"}
 
 [Router] 需求已完备，设计草案已生成！
 [Router][心跳] 当前状态: pending_design_approval
 ============================================================
-[草案审查] 设计草案已生成于: I:\AiStudioOS\.agent_workspace\system_design_draft.md
+[草案审查] 设计草案已生成于: D:\3.AIStudioOS\.agent_workspace\system_design_draft.md
 [草案审查] 您可以直接修改该文件，或在下方输入修改意见打回。若确认无误，请输入 'y' 进入任务拆解：
 ============================================================
 >>> y
@@ -109,7 +104,7 @@
 [Router] Task Planner 执行完毕。
 [Router][心跳] 当前状态: pending_plan_approval
 ============================================================
-[计划审查] 任务拆解计划已生成于: I:\AiStudioOS\.agent_workspace\task_plan.md
+[计划审查] 任务拆解计划已生成于: D:\3.AIStudioOS\.agent_workspace\task_plan.md
 [计划审查] 输入修改意见重新排期，或输入 'y' 正式派发给子 Agent 团队执行：
 ============================================================
 >>> y
@@ -120,8 +115,8 @@
 [Router][心跳] 当前状态: pending_system_approval
 ============================================================
 [系统验收] 系统策划已完成详细玩法规则设计。
-[系统验收] 详细设计 MD: I:\AiStudioOS\.agent_workspace\system_design_detail.md (15784 字节)
-[系统验收] 任务拆解: I:\AiStudioOS\.agent_workspace\task_plan.md (11312 字节)
+[系统验收] 详细设计 MD: D:\3.AIStudioOS\.agent_workspace\system_design_detail.md (17798 字节)
+[系统验收] 任务拆解: D:\3.AIStudioOS\.agent_workspace\task_plan.md (6519 字节)
 [系统验收] 输入修改意见打回系统策划重设计；或输入 'y' 批准，进入 Schema 翻译与数值配置阶段：
 ============================================================
 >>> y
@@ -135,7 +130,7 @@
 [Router][心跳] 当前状态: pending_ux_approval
 ============================================================
 [UX 审批] UX Agent 已完成交互蓝图提炼。
-[UX 审批] 蓝图文件: I:\AiStudioOS\.agent_workspace\ui_interaction_blueprint.md (12809 字节)
+[UX 审批] 蓝图文件: D:\3.AIStudioOS\.agent_workspace\ui_interaction_blueprint.md (18900 字节)
 [UX 审批] 输入 'y' 批准，进入数值填表阶段；输入其他意见打回 UX 重做：
 ============================================================
 >>> y
@@ -146,20 +141,13 @@
 [Router][心跳] 当前状态: pending_numerical_approval
 ============================================================
 [审批节点] 等待老板验收 NumericalPlanner (数值成长表) 的产物:
-[审批节点]   - I:\AiStudioOS\.agent_workspace\system_numerical_data.json
-[审批节点]   - I:\AiStudioOS\.agent_workspace\system_numerical_docs.json
+[审批节点]   - D:\3.AIStudioOS\.agent_workspace\system_numerical_data.json
+[审批节点]   - D:\3.AIStudioOS\.agent_workspace\system_numerical_docs.json
 ============================================================
->>> Y
+>>> y
 [审批节点] 老板放行！NumericalPlanner (数值成长表) 产物已验收。
-[Router]   inventory_system.json: 更新 0 条, 新增 1 条 -> I:\AiStudioOS\.agent_workspace\project_db\inventory_system.json
-[Router]   item_management.json: 更新 0 条, 新增 2 条 -> I:\AiStudioOS\.agent_workspace\project_db\item_management.json
-[Router]   player_inventory.json: 更新 0 条, 新增 3 条 -> I:\AiStudioOS\.agent_workspace\project_db\player_inventory.json
-[Router]   mail_system.json: 更新 0 条, 新增 4 条 -> I:\AiStudioOS\.agent_workspace\project_db\mail_system.json
-[Router]   economy_system.json: 更新 0 条, 新增 5 条 -> I:\AiStudioOS\.agent_workspace\project_db\economy_system.json
-[Router]   activity_system.json: 更新 0 条, 新增 6 条 -> I:\AiStudioOS\.agent_workspace\project_db\activity_system.json
-[Router]   ui_display.json: 更新 0 条, 新增 7 条 -> I:\AiStudioOS\.agent_workspace\project_db\ui_display.json
-[Router]   data_sync.json: 更新 0 条, 新增 8 条 -> I:\AiStudioOS\.agent_workspace\project_db\data_sync.json
-[Router] 归档完成: 0 条更新, 8 条新增
+[Router]   global_parameters.json: 更新 0 条, 新增 1 条 -> D:\3.AIStudioOS\.agent_workspace\project_db\global_parameters.json
+[Router] 归档完成: 0 条更新, 1 条新增
 [Router] 核心数据已永久归档至 Project DB！
 [Router] 全局记忆库 (Codex + Registry) 已刷新。
 [Router][心跳] 当前状态: pending_tech_design
@@ -167,21 +155,49 @@
 [Router] Tech Architect 执行完毕，进入架构审批。
 [Router][心跳] 当前状态: pending_tech_approval
 ============================================================
-[架构验收] 主程已完成程序开发蓝图: I:\AiStudioOS\.agent_workspace\tech_blueprint.md
+[架构验收] 主程已完成程序开发蓝图: D:\3.AIStudioOS\.agent_workspace\tech_blueprint.md
 [架构验收] 请输入修改意见打回重做；或输入 'y' 确认最终定稿：
 ============================================================
->>> Y
+>>> y
 [架构验收] 老板批准！进入最终自动审计纠错回环。
 [Router][心跳] 当前状态: pending_final_audit
 [Router] 正在执行全自动审计纠错回环... (第 1 轮)
 [审计打回] 发现 5 个问题，静默唤醒对应 Agent 修正...
-[Router]   修正 tech_architect: 四、前后端通信协议 (API & 数据对接) -> 4.1 核心接口 — API 接口列表缺少【合成道具】所需的独立接口。系统策划案 2.2.3 节明确描述了合成道具的完整流程（选择配方、校验材...
-[Router]   修正 tech_architect: 三、后端逻辑划分 (Server) -> 3.1 持久化数据 (DB) — 数据库表 `player_inventory` 中缺少 `expand_item_id` 字段的存储。系统策划案 2.3...
-[Router]   修正 tech_architect: 三、后端逻辑划分 (Server) -> 3.1 持久化数据 (DB) — 数据库表 `player_inventory` 中缺少 `current_slots` 字段的存储。系统策划案 2.3....
-[Router]   修正 tech_architect: 三、后端逻辑划分 (Server) -> 3.1 持久化数据 (DB) — 数据库表 `data_sync` 的设计存在严重问题。该表将 `write_queue`、`lock_status`、`...
-[Router]   修正 ux_agent: 界面一：背包主界面 -> 1. 核心交互需求表 — UX Agent 在背包主界面中补全了【批量操作按钮】和【批量选择模式】功能（标记为 `[UX 自动补全]`），但系统策...
+[Router]   修正 tech_architect: 四、 前后端通信协议 (API & 数据对接) - 4.1 核心接口 — 系统策划案中明确描述了【方案保存与切换】功能（2.8节），其中包含【方案删除】操作。程序蓝图虽然定义了 `Dormito...
+[Router]   修正 tech_architect: 四、 前后端通信协议 (API & 数据对接) - 4.1 核心接口 — 系统策划案中【场景布置】功能（2.5节）和【场景模板切换】功能（2.6节）都涉及家具数据的保存与更新。程序蓝图定义了 `...
+[Router]   修正 tech_architect: 三、 后端逻辑划分 (Server) - 3.2 核心校验逻辑 — 系统策划案中【方案保存与切换】功能（2.8节）提到，方案保存时需自动截取场景缩略图，用于方案列表展示。程序蓝图在方案管理...
+[Router]   修正 tech_architect: 四、 前后端通信协议 (API & 数据对接) - 4.1 核心接口 — 系统策划案中【拍照模式】功能（2.7节）提到，截图保存至本地相册，文件名为 `[CHARACTER_NAME]_[TIM...
+[Router]   修正 tech_architect: 三、 后端逻辑划分 (Server) - 3.2 核心校验逻辑 — 系统策划案中【场景模板切换】功能（2.6节）提到，切换后原场景中的家具/装饰品自动适配新模板，若新模板有对应位置则保留，...
 [Router] 本轮修正完毕，下一轮心跳重新审计 (1/4)
-[Router][心跳] 当前状态: ui_done
-[Router] UX 交互蓝图已完成，工作流结束。
+[Router] 正在执行全自动审计纠错回环... (第 2 轮)
+[审计打回] 发现 5 个问题，静默唤醒对应 Agent 修正...
+[Router]   修正 tech_architect: 四、 前后端通信协议 (API & 数据对接) — 蓝图中的 `Dormitory_SwitchTemplate` API 返回参数中包含了 `removed_furnit...
+[Router]   修正 tech_architect: 四、 前后端通信协议 (API & 数据对接) — 系统策划案中描述了“方案保存时自动截取场景缩略图”，但蓝图中的 `Dormitory_SaveScheme` API 的...
+[Router]   修正 tech_architect: 三、 后端逻辑划分 (Server) - 核心校验逻辑 — 系统策划案中明确提到“若玩家在切换方案时未保存当前状态，系统自动保存当前状态为临时方案（不占用槽位）”。但蓝图中的后端逻...
+[Router]   tech_architect 修正失败（1）
+[Router]   修正 tech_architect: 四、 前后端通信协议 (API & 数据对接) — 系统策划案中描述了“拍照模式”下可以“微调角色位置、朝向”，但蓝图中的 API 接口列表并未提供任何用于更新角色位置或朝...
+[Router]   tech_architect 修正失败（1）
+[Router]   修正 tech_architect: 三、 后端逻辑划分 (Server) - 核心校验逻辑 — 系统策划案中“场景模板切换”的流转逻辑提到“若玩家在切换模板时未保存当前布置，系统自动保存当前布置后再切换”。但蓝图中的...
+[Router]   tech_architect 修正失败（1）
+[Router] 本轮修正完毕，下一轮心跳重新审计 (2/4)
+[Router] 正在执行全自动审计纠错回环... (第 3 轮)
+[审计打回] 发现 5 个问题，静默唤醒对应 Agent 修正...
+[Router]   修正 tech_architect: 四、前后端通信协议 (API & 数据对接) — API接口列表中缺少 `Dormitory_GetUnlockStatus` 接口的定义，但后端逻辑中明确提到了需要校验...
+[Router]   修正 tech_architect: 四、前后端通信协议 (API & 数据对接) — API接口 `Dormitory_SaveFurniture` 的返回参数仅使用了 `furniture_placeme...
+[Router]   修正 tech_architect: 三、后端逻辑划分 (Server) - 核心校验逻辑 — 后端校验逻辑中提到了“方案保存校验：服务端校验方案名称长度不超过 `[SCHEME_NAME_MAX_LENGTH]`，...
+[Router]   修正 tech_architect: 四、前后端通信协议 (API & 数据对接) — API接口 `Dormitory_SaveScheme` 的请求参数中包含 `thumbnail_base64`（方案保...
+[Router]   修正 tech_architect: 四、前后端通信协议 (API & 数据对接) — 系统策划案中明确提到“若玩家在切换方案时未保存当前状态，系统自动保存当前状态为临时方案（不占用槽位）”。但是，API接口...
+[Router] 本轮修正完毕，下一轮心跳重新审计 (3/4)
+[Router] 正在执行全自动审计纠错回环... (第 4 轮)
+[审计打回] 发现 5 个问题，静默唤醒对应 Agent 修正...
+[Router]   修正 tech_architect: 三、 后端逻辑划分 (Server) -> 持久化数据 (DB) — 后端持久化数据表中缺少 `player_id` 字段定义。系统策划案明确说明数据以 `player_id + chara...
+[Router]   修正 tech_architect: 四、 前后端通信协议 (API & 数据对接) — 所有 API 接口的请求参数中均缺少 `player_id`。由于数据以 `player_id + character_...
+[Router]   修正 tech_architect: 四、 前后端通信协议 (API & 数据对接) — 系统策划案中描述了 `Dormitory_SwitchTemplate` 接口应返回“无法适配的家具ID列表”，但程序蓝...
+[Router]   修正 tech_architect: 三、 后端逻辑划分 (Server) -> 核心校验逻辑 — 后端核心校验逻辑中提到了“方案名称是否重复”校验，但系统策划案和数值说明书中均未定义方案名称的唯一性范围（是全局唯一、角...
+[Router]   修正 tech_architect: 三、 后端逻辑划分 (Server) -> 核心校验逻辑 — 系统策划案中描述了“若玩家在切换方案时未保存当前状态，系统自动保存当前状态为临时方案”，程序蓝图也实现了 `Dormit...
+[Router] 本轮修正完毕，下一轮心跳重新审计 (4/4)
+[Router] 正在执行全自动审计纠错回环... (第 5 轮)
+[Router] 审计纠错已达最大轮次 (4)，仍有 5 个问题未解决
+>>> y
 [Router][心跳] 当前状态: completed
 [Router] 本次流水线任务全部完成，进入待机摸鱼模式...

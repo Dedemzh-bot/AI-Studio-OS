@@ -1,8 +1,0 @@
-﻿ID	//备注	解锁条件（填写conditionID）	队长技名称	队长技图标	SkillInfoId	效果描述
-LeaderskillID	Note	Condition	Name	Icon	SkillInfoId	Desc
-1	队长技1	{{36,104}}	donoduel.leaderskill_01_name	5204001	3831001	donoduel.leaderskill_01_des
-2	队长技2	{{37,5506}}	donoduel.leaderskill_02_name	5204002	3831002	donoduel.leaderskill_02_des
-3	队长技3	{{37,5507}}	donoduel.leaderskill_03_name	5204003	3831003	donoduel.leaderskill_03_des
-4	队长技4	{{37,5508}}	donoduel.leaderskill_04_name	5204004	3831004	donoduel.leaderskill_04_des
-5	队长技5	{{37,5509}}	donoduel.leaderskill_05_name	5204005	3831005	donoduel.leaderskill_05_des
-6	队长技6	{{37,5510}}	donoduel.leaderskill_06_name	5204006	3831006	donoduel.leaderskill_06_des

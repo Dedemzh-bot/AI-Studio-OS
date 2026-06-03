@@ -1,3 +1,0 @@
-区域名	位置	盒体范围	旋转	顶点A	顶点B	顶点C	顶点D	半径	类型(见region_type_define.txt)	对应的配置Id	形状(1-矩形;2-圆)	区域Id
-Name	Pos	BoxExtent	Rot	VertexA	VertexB	VertexC	VertexD	Radius	Type	Index	Shape	RegionId
-boxmapregion	{-11100.0,-22000.0,0.0}	{64000.0,72000.0,1.0}	{0.0,0.0,0.0}	{52900.0,50000.0,1.0}	{-75100.0,50000.0,0.0}	{-75100.0,-94000.0,-1.0}	{52900.0,-94000.0,0.0}	0.000000	10	84393	1	0
