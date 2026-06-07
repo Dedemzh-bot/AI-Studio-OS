@@ -42,7 +42,9 @@ LLM_BASE_URL="https://api.deepseek.com/v1"
 python server.py
 ```
 
-或双击 `start.bat`。浏览器打开 `http://localhost:8080` 即可使用。
+或双击 `start.bat`。启动脚本会依次探测项目 `.venv`、Windows `py -3`
+和 `python` 命令；未找到 Python 时会显示明确的安装提示。
+浏览器打开 `http://localhost:8080` 即可使用。
 
 ## 使用方式
 
@@ -66,7 +68,8 @@ AI_Studio_OS/
 ├── ConfigTable/      # 配表子系统（端口 8081）
 ├── .agent_workspace/ # Agent 运行时工作目录（产出文件存放处）
 ├── main_router.py    # 核心路由器（状态机主循环）
-├── server.py         # FastAPI 后端入口
+├── server.py         # 唯一 Web 后端入口
+├── app.py            # 旧入口兼容启动器，自动转发到 server.py
 ├── index.html        # Web 前端界面
 ├── start.bat         # 一键启动脚本
 ├── .env              # API Key 配置（需自行创建）
@@ -106,9 +109,13 @@ AI_Studio_OS/
 |------|------|
 | `AI_STUDIO_DATA_DIR` | 数据目录路径，默认项目根目录 |
 | `AI_STUDIO_WEB_MODE` | Web GUI 模式开关（内部使用） |
+| `AI_STUDIO_HOST` | Web 监听地址，默认 `127.0.0.1`；确认需要局域网访问时才改为 `0.0.0.0` |
+| `AI_STUDIO_PORT` | Web 端口，默认 `8080` |
+| `AI_STUDIO_ALLOWED_ORIGINS` | 允许访问 API/WebSocket 的来源列表，逗号分隔 |
+| `AI_STUDIO_OPEN_BROWSER` | 是否启动时自动打开浏览器，默认 `1`；服务化运行可设为 `0` |
 
 ## 注意事项
 
 - 当前版本直接通过源码运行，无打包版，需自行 `git clone` + `pip install`
-- 配表模块标记为「待测试」
+- 配表模块已接入真实 HFSM 工作流；使用前需将 Excel 源表放入 `Excel/`
 - `.agent_workspace/` 和 `Knowledge/` 中的运行时数据建议加入 `.gitignore` 或手动忽略

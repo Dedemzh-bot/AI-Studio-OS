@@ -53,13 +53,19 @@ class LLMClient:
     def __init__(self):
         _load_env()
         self._client = None
-        self.enabled = os.environ.get('LLM_ENABLED', 'false').lower() == 'true'
+        configured_key = os.environ.get('DASHSCOPE_API_KEY') or os.environ.get('LLM_API_KEY', '')
+        enabled_setting = os.environ.get('LLM_ENABLED')
+        self.enabled = (
+            enabled_setting.lower() == 'true'
+            if enabled_setting is not None
+            else bool(configured_key)
+        )
         self.model = os.environ.get('LLM_MODEL', 'qwen-plus')
         self.base_url = os.environ.get(
             'LLM_BASE_URL',
             'https://dashscope.aliyuncs.com/compatible-mode/v1'
         )
-        self.api_key = os.environ.get('DASHSCOPE_API_KEY', '')
+        self.api_key = configured_key
         self.temperature = float(os.environ.get('LLM_TEMPERATURE', '0.7'))
         self.max_tokens = int(os.environ.get('LLM_MAX_TOKENS', '4096'))
         if not self.enabled:
@@ -75,7 +81,7 @@ class LLMClient:
                 print("[ERR] openai not installed: pip install openai>=1.0")
                 sys.exit(1)
             if not self.api_key:
-                print("[ERR] DASHSCOPE_API_KEY not set in .env")
+                print("[ERR] DASHSCOPE_API_KEY or LLM_API_KEY not set in .env")
                 sys.exit(1)
 
             # GLM (智谱) API 需要 JWT 认证

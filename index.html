@@ -406,16 +406,18 @@ async function sendTableDesign(text) {
     tableLogArea.textContent += `\n>>> ${text}`;
     tableStatus.textContent = '执行中...';
     try {
-        const r = await (await fetch(TABLE_API + '/api/table/design', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text})})).json();
+        const status = await (await fetch(TABLE_API + '/api/table/status')).json();
+        const endpoint = status.waiting ? '/api/table/resume' : '/api/table/design';
+        const r = await (await fetch(TABLE_API + endpoint, {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text})})).json();
         if (r.ok) {
-            tableLogArea.textContent += '\n[Table] 配表完成';
+            tableLogArea.textContent += endpoint.endsWith('resume') ? '\n[Table] 已提交确认回复' : '\n[Table] 已提交真实 HFSM 配表工作流';
             refreshTableFiles();
         } else {
             tableLogArea.textContent += `\n[Table] 错误: ${r.error||'unknown'}`;
         }
         tableLogArea.scrollTop = tableLogArea.scrollHeight;
     } catch(e) { tableLogArea.textContent += '\n[Table] 网络错误'; }
-    tableStatus.textContent = '就绪';
+    tableStatus.textContent = '执行中...';
     tableInput.value = '';
 }
 
@@ -431,6 +433,12 @@ async function sendTableQuick(text) {
 
 async function refreshTableFiles() {
     try {
+        const status = await (await fetch(TABLE_API + '/api/table/status')).json();
+        tableStatus.textContent = !status.ready ? '待导入源表' : status.waiting ? '等待确认' : status.active ? '执行中...' : '就绪';
+        if (status.log && status.log.length) {
+            tableLogArea.textContent = status.log.join('\n');
+            tableLogArea.scrollTop = tableLogArea.scrollHeight;
+        }
         const r = await (await fetch(TABLE_API + '/api/table/files')).json();
         // 本次修改
         const mod = r.modified || [];
@@ -458,6 +466,7 @@ async function clearTableSession() {
 
 // 初始化配置表文件列表
 if (document.getElementById('tableAllFiles')) refreshTableFiles();
+setInterval(refreshTableFiles, 1500);
 
 fetchFiles();
 </script>

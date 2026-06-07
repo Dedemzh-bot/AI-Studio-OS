@@ -56,6 +56,9 @@ def on_enter_execute(model=None):
         output = model.design_outputs.get('numerical')
     if not output:
         output = _load_json(os.path.join(NUMERICAL_DATA, 'output.json'))
+        if not output:
+            combat_data = agent_paths('combat_memory')['data_dir']
+            output = _load_json(os.path.join(combat_data, 'output.json'))
 
     if not output or 'tables' not in output:
         return {"status": "ERROR", "reason": "numerical output.json not found or missing tables"}

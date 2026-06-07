@@ -6,6 +6,7 @@ knowledge/gamedata/**/*.xlsx
 knowledge/gamedata/**/*.xls
 knowledge/gamedata/**/*.txt
 knowledge/gamedata/**/*.bat
+knowledge/gamedata/README.md
 knowledge/*.md
 !knowledge/README.md
 knowledge/wiki/*.md
@@ -53,4 +54,6 @@ Thumbs.db
 .DS_Store
 ~$*.xlsx
 .env
+.session_state.json
+.modified_files.json
 

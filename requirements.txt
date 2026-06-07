@@ -3,4 +3,8 @@ uvicorn
 httpx
 openai
 python-dotenv
-streamlit
+transitions
+pandas
+openpyxl
+markitdown
+pywin32; platform_system == "Windows"

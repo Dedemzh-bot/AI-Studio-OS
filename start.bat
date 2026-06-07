@@ -1,8 +1,5 @@
 @echo off
 title AI Studio OS - Dev
 cd /d "%~dp0"
-echo AI Studio OS - Development Mode
-echo http://localhost:8080
-echo.
-python server.py
+powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0start.ps1"
 pause

@@ -38,12 +38,37 @@ FRAMEWORK_FILES = {
     "boss_feedback.txt", "project_meta.json", "concept_brief.md",
 }
 
+HOST = os.environ.get("AI_STUDIO_HOST", "127.0.0.1")
+PORT = int(os.environ.get("AI_STUDIO_PORT", "8080"))
+_default_origins = f"http://localhost:{PORT},http://127.0.0.1:{PORT}"
+ALLOWED_ORIGINS = {
+    origin.strip()
+    for origin in os.environ.get("AI_STUDIO_ALLOWED_ORIGINS", _default_origins).split(",")
+    if origin.strip()
+}
+
 app = FastAPI()
-app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=sorted(ALLOWED_ORIGINS),
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
+)
 
 router_proc = None
 engine_start_ts = 0
 active_ws: WebSocket | None = None
+
+
+def _safe_child(base_dir: str, *parts: str) -> str | None:
+    base = os.path.realpath(base_dir)
+    candidate = os.path.realpath(os.path.join(base, *parts))
+    try:
+        if os.path.commonpath([base, candidate]) != base:
+            return None
+    except ValueError:
+        return None
+    return candidate
 
 
 # ==================== REST API ====================
@@ -85,6 +110,10 @@ async def api_table_design(data: dict):
 @app.post("/api/table/quick")
 async def api_table_quick(data: dict):
     return await _proxy_table("POST", "/quick", data)
+
+@app.post("/api/table/resume")
+async def api_table_resume(data: dict):
+    return await _proxy_table("POST", "/resume", data)
 
 @app.post("/api/table/cancel")
 async def api_table_cancel():
@@ -134,30 +163,32 @@ def api_files():
 
 @app.post("/api/open_file")
 async def api_open_file(data: dict):
-    fp = os.path.join(WS_DIR, data.get("file", ""))
-    if os.path.exists(fp):
-        abs_path = os.path.abspath(fp)
-        if sys.platform == "win32":
-            os.startfile(abs_path)
-        elif sys.platform == "darwin":
-            subprocess.call(["open", abs_path])
-        else:
-            subprocess.call(["xdg-open", abs_path])
+    fp = _safe_child(WS_DIR, data.get("file", ""))
+    if not fp or not os.path.isfile(fp):
+        return JSONResponse({"ok": False, "error": "文件不在当前工作区内"}, status_code=400)
+    abs_path = os.path.abspath(fp)
+    if sys.platform == "win32":
+        os.startfile(abs_path)
+    elif sys.platform == "darwin":
+        subprocess.call(["open", abs_path])
+    else:
+        subprocess.call(["xdg-open", abs_path])
     return JSONResponse({"ok": True})
 
 
 @app.post("/api/open_knowledge")
 async def api_open_knowledge(data: dict):
     d = BEST_DIR if data.get("type") == "best" else ANTI_DIR
-    fp = os.path.join(d, data.get("file", ""))
-    if os.path.exists(fp):
-        abs_path = os.path.abspath(fp)
-        if sys.platform == "win32":
-            os.startfile(abs_path)
-        elif sys.platform == "darwin":
-            subprocess.call(["open", abs_path])
-        else:
-            subprocess.call(["xdg-open", abs_path])
+    fp = _safe_child(d, data.get("file", ""))
+    if not fp or not os.path.isfile(fp):
+        return JSONResponse({"ok": False, "error": "知识文件不在允许目录内"}, status_code=400)
+    abs_path = os.path.abspath(fp)
+    if sys.platform == "win32":
+        os.startfile(abs_path)
+    elif sys.platform == "darwin":
+        subprocess.call(["open", abs_path])
+    else:
+        subprocess.call(["xdg-open", abs_path])
     return JSONResponse({"ok": True})
 
 
@@ -180,10 +211,13 @@ def api_knowledge(type: str = "best"):
 
 @app.post("/api/archive")
 async def api_archive(data: dict):
+    doc_path = _safe_child(WS_DIR, data.get("doc", ""))
+    if not doc_path or not os.path.isfile(doc_path):
+        return JSONResponse({"ok": False, "error": "只能归档当前工作区内的文件"}, status_code=400)
     python_exe = sys.executable
     cmd = [python_exe,
            os.path.join(BUNDLE_DIR, "Agents", "archivist_agent.py"),
-           data.get("doc", ""), "all", data.get("type", "red"),
+           doc_path, "all", data.get("type", "red"),
            data.get("comment", "") or "（无评语）",
            data.get("agent", "系统")]
     try:
@@ -265,15 +299,16 @@ def api_projects():
 async def api_open_project_file(data: dict):
     folder = data.get("folder", "")
     filename = data.get("file", "")
-    fp = os.path.join(DATA_DIR, "projects", folder, filename)
-    if os.path.exists(fp):
-        abs_path = os.path.abspath(fp)
-        if sys.platform == "win32":
-            os.startfile(abs_path)
-        elif sys.platform == "darwin":
-            subprocess.call(["open", abs_path])
-        else:
-            subprocess.call(["xdg-open", abs_path])
+    fp = _safe_child(os.path.join(DATA_DIR, "projects"), folder, filename)
+    if not fp or not os.path.isfile(fp):
+        return JSONResponse({"ok": False, "error": "项目文件不在允许目录内"}, status_code=400)
+    abs_path = os.path.abspath(fp)
+    if sys.platform == "win32":
+        os.startfile(abs_path)
+    elif sys.platform == "darwin":
+        subprocess.call(["open", abs_path])
+    else:
+        subprocess.call(["xdg-open", abs_path])
     return JSONResponse({"ok": True})
 
 
@@ -305,6 +340,10 @@ def submit_answer(ans: str):
 async def ws_terminal(websocket: WebSocket):
     global router_proc, engine_start_ts, active_ws
 
+    origin = websocket.headers.get("origin")
+    if origin and origin not in ALLOWED_ORIGINS:
+        await websocket.close(code=1008, reason="Origin not allowed")
+        return
     await websocket.accept()
 
     if active_ws is not None:
@@ -447,7 +486,6 @@ if __name__ == "__main__":
     import socket
     import threading as _threading
 
-    PORT = 8080
     URL = f"http://localhost:{PORT}"
 
     # 端口检测
@@ -471,23 +509,16 @@ if __name__ == "__main__":
     TABLE_DIR = os.path.join(BUNDLE_DIR, "ConfigTable")
     TABLE_PORT = 8081
     table_proc = None
-    # 检查是否已有旧进程，有则强杀（确保每次启动都用最新代码）
+    # 已有子服务时复用，不主动终止用户进程。
+    table_port_in_use = False
     try:
-        r = subprocess.run(
-            ["netstat", "-ano"], capture_output=True, text=True, timeout=5,
-            creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
-        )
-        for line in r.stdout.split("\n"):
-            if f":{TABLE_PORT}" in line and "LISTENING" in line:
-                parts = line.strip().split()
-                if parts:
-                    try: subprocess.run(["taskkill", "/PID", parts[-1], "/F"],
-                                        capture_output=True, creationflags=subprocess.CREATE_NO_WINDOW)
-                    except: pass
+        with socket.create_connection(("127.0.0.1", TABLE_PORT), timeout=0.5):
+            table_port_in_use = True
+            print(f"ConfigTable 已在运行 -> http://localhost:{TABLE_PORT}")
     except Exception:
         pass
 
-    if os.path.exists(os.path.join(TABLE_DIR, "table_server.py")):
+    if not table_port_in_use and os.path.exists(os.path.join(TABLE_DIR, "table_server.py")):
         table_python = sys.executable
         table_env = os.environ.copy()
         table_env["AI_STUDIO_DATA_DIR"] = DATA_DIR
@@ -510,10 +541,11 @@ if __name__ == "__main__":
         _time.sleep(1.5)
         webbrowser.open(URL)
 
-    _threading.Thread(target=_open_browser, daemon=True).start()
+    if os.environ.get("AI_STUDIO_OPEN_BROWSER", "1") == "1":
+        _threading.Thread(target=_open_browser, daemon=True).start()
 
     try:
-        uvicorn.run(app, host="0.0.0.0", port=PORT, log_level="warning")
+        uvicorn.run(app, host=HOST, port=PORT, log_level="warning")
     except KeyboardInterrupt:
         print("\nServer stopped.")
     finally:

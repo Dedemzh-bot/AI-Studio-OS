@@ -44,6 +44,7 @@ if os.environ.get("AI_STUDIO_WEB_MODE") == "1":
 # 确保项目根目录在 sys.path 中，方便引入 Guards 模块
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from Guards.schema_validator import SchemaValidator
+from Guards.qa_auditor import QAAuditor
 
 # ---- 配置 ----
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -1112,28 +1113,36 @@ def main():
             loop_count = _get_retry_count("final_audit")
             print(f"[Router] 正在执行全自动审计纠错回环... (第 {loop_count + 1} 轮)")
 
-            # 1. 调用审计官
-            try:
-                subprocess.run(
-                    [sys.executable, os.path.join(ROOT_DIR, "Agents", "audit_agent.py")],
-                    check=True, cwd=ROOT_DIR,
-                )
-            except subprocess.CalledProcessError as e:
-                print(f"\033[91m[Router] AuditAgent 失败（{e.returncode}）\033[0m")
-                write_state("idle")
-                return
-            except FileNotFoundError:
-                print("\033[91m[Router] 找不到 audit_agent.py\033[0m")
-                write_state("idle")
-                return
+            # 1. 先执行确定性 QA，结构正确后再调用 LLM 做语义审计。
+            deterministic_issues = QAAuditor().audit_workspace(WORKSPACE_DIR)
+            if deterministic_issues:
+                print(f"\033[91m[确定性 QA] 发现 {len(deterministic_issues)} 个结构问题，跳过本轮 LLM 审计。\033[0m")
+                audit_data = {"status": "reject", "issues": deterministic_issues}
+                with open(AUDIT_FILE, "w", encoding="utf-8") as f:
+                    json.dump(audit_data, f, ensure_ascii=False, indent=2)
+            else:
+                print("\033[92m[确定性 QA] 结构检查通过，进入 LLM 一致性审计。\033[0m")
+                try:
+                    subprocess.run(
+                        [sys.executable, os.path.join(ROOT_DIR, "Agents", "audit_agent.py")],
+                        check=True, cwd=ROOT_DIR,
+                    )
+                except subprocess.CalledProcessError as e:
+                    print(f"\033[91m[Router] AuditAgent 失败（{e.returncode}）\033[0m")
+                    write_state("idle")
+                    return
+                except FileNotFoundError:
+                    print("\033[91m[Router] 找不到 audit_agent.py\033[0m")
+                    write_state("idle")
+                    return
 
-            if not os.path.exists(AUDIT_FILE):
-                print("\033[91m[Router] 审计文件未生成\033[0m")
-                write_state("idle")
-                return
+                if not os.path.exists(AUDIT_FILE):
+                    print("\033[91m[Router] 审计文件未生成\033[0m")
+                    write_state("idle")
+                    return
 
-            with open(AUDIT_FILE, "r", encoding="utf-8") as f:
-                audit_data = json.load(f)
+                with open(AUDIT_FILE, "r", encoding="utf-8") as f:
+                    audit_data = json.load(f)
 
             status = audit_data.get("status", "reject")
             issues = audit_data.get("issues", [])

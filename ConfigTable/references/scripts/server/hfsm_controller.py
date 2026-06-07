@@ -20,6 +20,8 @@ import sys
 import json
 import threading
 import importlib
+import inspect
+import re
 import traceback
 import time
 import logging
@@ -102,6 +104,7 @@ class HFSMController:
         self.requirement = ''
         self.context = {}
         self.history = []
+        self.pending_roles = []
 
         # 线程同步
         self._resume_event = threading.Event()
@@ -112,7 +115,8 @@ class HFSMController:
         # 加载 workflows
         self.workflows = {}
         for name in ['coordinator_memory', 'combat_memory',
-                      'numerical_memory', 'executor_memory', 'qa_memory']:
+                      'numerical_memory', 'system_memory',
+                      'executor_memory', 'qa_memory']:
             try:
                 wf = _load_workflow(name)
                 if wf:
@@ -277,12 +281,15 @@ class HFSMController:
                     break
 
                 self.context['user_input'] = user_input
+                self._save_user_input(agent, state_name, user_input)
 
                 # 执行 on_exit hook
                 self._run_hook(agent, f"on_exit_{state_name}")
 
                 # 推进
                 if not self._transition(agent, state_name):
+                    if self._route_after_terminal(agent):
+                        continue
                     break
 
             elif state_type == 'llm':
@@ -297,12 +304,14 @@ class HFSMController:
                 self._run_hook(agent, f"on_exit_{state_name}")
 
                 if not self._transition(agent, state_name):
+                    if self._route_after_terminal(agent):
+                        continue
                     break
 
             elif state_type == 'script':
                 self.reply(self.user_id, f"[*] **{desc}**...")
 
-                self._run_hook(agent, f"on_exit_{state_name}")
+                exit_result = self._run_hook(agent, f"on_exit_{state_name}")
 
                 if state_name == 'done':
                     self.status = TaskStatus.COMPLETED
@@ -310,7 +319,15 @@ class HFSMController:
                                "[OK] **任务完成！** 所有步骤已执行。")
                     break
 
+                if agent == 'coordinator_memory' and state_name == 'dispatch':
+                    dispatch = hook_result.get('dispatch', {}) if isinstance(hook_result, dict) else {}
+                    self.pending_roles = [role for role in dispatch if f"{role}_memory" in self.workflows]
+                    if self._route_next_role():
+                        continue
+
                 if not self._transition(agent, state_name):
+                    if self._route_after_terminal(agent):
+                        continue
                     break
 
         if self.status == TaskStatus.RUNNING:
@@ -326,9 +343,19 @@ class HFSMController:
             self.requirement,
             data=self.context.get('user_input'),
         )
+        output_spec = self._expected_output(agent_name, state_name)
+        if output_spec:
+            filename, output_type, hint = output_spec
+            user_msg += (
+                f"\n\n必须输出可直接保存到 data/{filename} 的"
+                f"{'合法 JSON，且不要使用 Markdown 代码块' if output_type == 'json' else '正文'}。"
+                f"\n结构要求：{hint}"
+            )
         try:
             response = llm.chat(system_prompt, user_msg)
             self.context[f'{state_name}_response'] = response
+            if output_spec:
+                self._save_llm_output(agent_name, output_spec, response)
             return response
         except Exception as e:
             return f"[ERR] LLM 调用失败: {e}"
@@ -344,6 +371,11 @@ class HFSMController:
         try:
             hook_fn = _load_hook(hook_ref, agent_name)
             if hook_fn:
+                # Hooks in the reference project exist in both legacy no-arg
+                # form and controller-aware form. Support both so the HTTP
+                # bridge can drive the real workflow definitions.
+                if len(inspect.signature(hook_fn).parameters) == 0:
+                    return hook_fn()
                 return hook_fn(self)
         except Exception as e:
             logger.error(f"Hook {hook_key} 失败: {e}")
@@ -360,6 +392,87 @@ class HFSMController:
                 self.current_state = t[2]
                 return True
         return False
+
+    def _route_next_role(self) -> bool:
+        while self.pending_roles:
+            role = self.pending_roles.pop(0)
+            agent = f"{role}_memory"
+            workflow = self.workflows.get(agent)
+            if workflow:
+                self.current_agent = agent
+                self.current_state = workflow.initial
+                self.reply(self.user_id, f"➡️ 切换到 {role} 工作流")
+                return True
+        return False
+
+    def _route_after_terminal(self, agent_name: str) -> bool:
+        if agent_name in ('combat_memory', 'numerical_memory', 'system_memory'):
+            if self._route_next_role():
+                return True
+            workflow = self.workflows.get('executor_memory')
+            if workflow:
+                self.current_agent = 'executor_memory'
+                self.current_state = workflow.initial
+                return True
+        if agent_name == 'executor_memory':
+            workflow = self.workflows.get('qa_memory')
+            if workflow:
+                self.current_agent = 'qa_memory'
+                self.current_state = workflow.initial
+                return True
+        if agent_name == 'qa_memory':
+            self.status = TaskStatus.COMPLETED
+            self.reply(self.user_id, "[OK] 配表工作流已完成。")
+        return False
+
+    def _expected_output(self, agent_name: str, state_name: str):
+        mapping = {
+            ('coordinator_memory', 'split_modules'): (
+                'confirmed.json', 'json',
+                '{"requirement":"原需求","requirement_type":"类型","modules":{"combat":[],"numerical":[]}}',
+            ),
+            ('combat_memory', 'match'): ('match_result.json', 'json', '{"matches":[]}'),
+            ('combat_memory', 'split'): ('split_result.json', 'json', '{"requirement":"...","clauses":[]}'),
+            ('combat_memory', 'categorize'): ('categorized.json', 'json', '{"clauses":[]}'),
+            ('combat_memory', 'translate'): ('translated.json', 'json', '{"requirement":"...","tables":{}}'),
+            ('numerical_memory', 'match'): ('match_result.json', 'json', '{"matches":[]}'),
+            ('numerical_memory', 'split'): ('split_result.json', 'json', '{"requirement":"...","modules":[]}'),
+            ('numerical_memory', 'locate'): ('locate_result.json', 'json', '{"requirement":"...","tables":{}}'),
+            ('numerical_memory', 'output'): ('output.json', 'json', '{"requirement":"...","tables":{}}'),
+            ('executor_memory', 'fill'): ('filled_result.json', 'json', '{"requirement":"...","tables":{}}'),
+        }
+        return mapping.get((agent_name, state_name))
+
+    def _save_llm_output(self, agent_name: str, output_spec, response: str):
+        filename, output_type, _hint = output_spec
+        data_dir = agent_paths(agent_name)['data_dir']
+        os.makedirs(data_dir, exist_ok=True)
+        path = os.path.join(data_dir, filename)
+        if output_type == 'json':
+            match = re.search(r'(\{.*\}|\[.*\])', response or '', re.DOTALL)
+            if not match:
+                self.reply(self.user_id, f"[WARN] {agent_name}.{self.current_state} 未返回可落盘 JSON")
+                return
+            try:
+                value = json.loads(match.group(1))
+            except json.JSONDecodeError as exc:
+                self.reply(self.user_id, f"[WARN] {filename} JSON 解析失败: {exc}")
+                return
+            with open(path, 'w', encoding='utf-8') as f:
+                json.dump(value, f, ensure_ascii=False, indent=2)
+        else:
+            with open(path, 'w', encoding='utf-8') as f:
+                f.write(response)
+
+    def _save_user_input(self, agent_name: str, state_name: str, user_input: str):
+        mapping = {
+            ('numerical_memory', 'fill'): 'filled.json',
+            ('executor_memory', 'fill_confirm'): 'filled_result.json',
+        }
+        filename = mapping.get((agent_name, state_name))
+        if not filename or user_input.strip() in ('确认', 'y', 'Y'):
+            return
+        self._save_llm_output(agent_name, (filename, 'json', ''), user_input)
 
 
 # ── 多用户管理 ──
